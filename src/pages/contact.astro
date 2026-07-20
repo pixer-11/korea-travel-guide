@@ -1,0 +1,41 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+// TODO: replace with your real contact email before going live.
+const contactEmail = 'hello@example.com';
+---
+
+<BaseLayout
+  title="Contact"
+  description="Get in touch with Korea Travel Guide — corrections, questions, and feedback."
+>
+  <div class="page-hero">
+    <div class="wrap">
+      <p class="eyebrow">Get in touch</p>
+      <h1>Contact us</h1>
+      <p>Corrections, questions, or feedback — we'd love to hear from you.</p>
+    </div>
+  </div>
+
+  <article class="article wrap">
+    <div class="prose">
+      <p>
+        Spotted something out of date, or have a question about traveling in
+        Korea? Places close and prices change, and we genuinely want to keep
+        this guide accurate — so please tell us.
+      </p>
+
+      <div class="fact-box">
+        <h4>Email</h4>
+        <p><a href={`mailto:${contactEmail}`}>{contactEmail}</a></p>
+      </div>
+
+      <p class="disclosure">
+        We aim to reply to genuine questions and corrections. This is an
+        informational travel site — for emergencies in Korea, call 112 (police)
+        or 119 (fire/ambulance); see our
+        <a href="/essentials/emergency">emergency page</a>.
+      </p>
+    </div>
+  </article>
+</BaseLayout>

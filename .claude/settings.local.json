@@ -1,0 +1,41 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm --version)",
+      "Bash(git --version)",
+      "Bash(npm install *)",
+      "Bash(npm run *)",
+      "Bash(DUMMY=1 node scripts/generate.mjs)",
+      "WebSearch",
+      "WebFetch(domain:github.com)",
+      "Bash(DUMMY=1 POSTS_PER_RUN=1 node scripts/generate.mjs)",
+      "Bash(xargs -I{} sed -n '1,40p' \"src/content/posts/{}\")",
+      "Bash(cd \"C:/Users/user/Desktop/클로드\" && npm run build 2>&1 | tail -8; echo \"=== cleanup ===\"; rm -f src/content/posts/seoul-seoul-sample-spot-*.md && echo \"removed dummy test post\")",
+      "Bash(cd \"C:/Users/user/Desktop/클로드\" && DUMMY=1 POSTS_PER_RUN=1 node scripts/generate.mjs 2>&1 | head -5; rm -f src/content/posts/seoul-seoul-sample-spot-*.md; echo \"\\(cleaned\\)\")",
+      "Bash(DUMMY=1 POSTS_PER_RUN=8 node scripts/generate.mjs)",
+      "Bash(node scripts/refresh.mjs)",
+      "Bash(rm -f src/content/posts/*-pick.md)",
+      "Bash(echo '{ *)",
+      "WebFetch(domain:developers.google.com)",
+      "WebFetch(domain:support.google.com)",
+      "mcp__claude-in-chrome__list_connected_browsers",
+      "mcp__claude-in-chrome__select_browser",
+      "mcp__claude-in-chrome__tabs_context_mcp",
+      "mcp__claude-in-chrome__navigate",
+      "mcp__claude-in-chrome__computer",
+      "Bash(cd \"C:/Users/user/Desktop/클로드\" && KEY=$\\(grep '^GOOGLE_MAPS_API_KEY=' .env | cut -d= -f2\\) && echo \"=== with ?key= query param + verbose headers ===\" && curl -s -D - -o /tmp/body.txt \"https://places.googleapis.com/v1/places:searchText?key=$KEY\" -H 'Content-Type: application/json' -H 'X-Goog-FieldMask: places.displayName' -d '{\"textQuery\":\"Seoul\",\"maxResultCount\":1}' | grep -iE 'http/|www-authenticate|x-goog|vary|content-type' ; echo \"--- body ---\" ; cat /tmp/body.txt)",
+      "Bash(POSTS_PER_RUN=1 node scripts/generate.mjs)",
+      "Bash(xargs grep -A2 'heroImage:')",
+      "Bash(gh --version)",
+      "Bash(gh auth *)",
+      "mcp__b3158d46-62b2-45ff-bf5b-e29ed7b52614__list_components",
+      "mcp__b3158d46-62b2-45ff-bf5b-e29ed7b52614__get_component",
+      "Bash(node -e \"JSON.parse\\(require\\('fs'\\).readFileSync\\('data/targets.json','utf8'\\)\\); console.log\\('targets.json valid,', JSON.parse\\(require\\('fs'\\).readFileSync\\('data/targets.json','utf8'\\)\\).targets.length, 'targets'\\)\")",
+      "Bash(POSTS_PER_RUN=20 node scripts/generate.mjs)",
+      "Bash(npx astro *)",
+      "Bash(git init *)",
+      "Bash(git add *)",
+      "Bash(grep -E '\\\\.env$')"
+    ]
+  }
+}

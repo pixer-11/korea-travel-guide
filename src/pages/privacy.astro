@@ -1,0 +1,78 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+// TODO: replace with your real contact email before going live.
+const contactEmail = 'hello@example.com';
+---
+
+<BaseLayout
+  title="Privacy Policy"
+  description="Privacy policy for Korea Travel Guide — what data is collected and how it is used."
+>
+  <div class="page-hero">
+    <div class="wrap">
+      <p class="eyebrow">Legal</p>
+      <h1>Privacy Policy</h1>
+      <p>Last updated: 2026-07-21</p>
+    </div>
+  </div>
+  <article class="article wrap">
+    <div class="prose">
+      <p>
+        This policy explains what information Korea Travel Guide (the "Site")
+        collects and how it is used. Review it before running ads or analytics,
+        and update the specifics to match the tools you actually enable.
+      </p>
+
+      <h2>Information we collect</h2>
+      <p>
+        The Site is primarily a static publication and does not require you to
+        create an account. We do not intentionally collect personal information
+        from visitors. If you email us, we receive the information you choose to
+        send.
+      </p>
+
+      <h2>Cookies, analytics & advertising</h2>
+      <p>
+        If enabled, the Site may use analytics and advertising partners (for
+        example, Google Analytics and Google AdSense) that set cookies or use
+        similar technologies to measure traffic and serve relevant ads. These
+        third parties may collect information such as your IP address, device and
+        browser type, and pages viewed, in accordance with their own privacy
+        policies. Google's use of advertising cookies is described in Google's
+        Privacy &amp; Terms.
+      </p>
+      <p>
+        You can control or disable cookies through your browser settings, and you
+        can opt out of personalized advertising through your ad settings with the
+        relevant provider.
+      </p>
+
+      <h2>Your choices (GDPR / CCPA)</h2>
+      <p>
+        Depending on where you live, you may have rights to access, correct, or
+        delete personal data held about you, or to object to certain processing.
+        To make a request, contact us at the address below.
+      </p>
+
+      <h2>Children</h2>
+      <p>
+        The Site is not directed to children under 13, and we do not knowingly
+        collect personal information from them.
+      </p>
+
+      <h2>Changes</h2>
+      <p>
+        We may update this policy from time to time; the "last updated" date
+        above reflects the latest revision.
+      </p>
+
+      <h2>Contact</h2>
+      <p>
+        Questions about privacy? Email
+        <a href={`mailto:${contactEmail}`}>{contactEmail}</a>, or see our
+        <a href="/contact">contact page</a>.
+      </p>
+    </div>
+  </article>
+</BaseLayout>

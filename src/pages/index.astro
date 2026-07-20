@@ -1,0 +1,132 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostCard from '../components/PostCard.astro';
+import Stardust from '../components/Stardust.tsx';
+
+const posts = (await getCollection('posts', ({ data }) => !data.draft)).sort(
+  (a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime()
+);
+
+const [featured, ...rest] = posts;
+const regions = ['Seoul', 'Busan', 'Jeju', 'Gyeongju', 'Incheon'];
+---
+
+<BaseLayout
+  title="Korea Travel Guide for International Visitors"
+  description="Your complete guide to traveling in Korea — attractions, food, hidden gems, visas, transport, and emergency info. Everything a visitor needs, in one place."
+>
+  <!-- Hero -->
+  <section class="hero">
+    <div class="hero-orbs" aria-hidden="true">
+      <span></span><span></span><span></span>
+    </div>
+    <div class="hero-sparkle" aria-hidden="true">
+      <Stardust client:idle particleColor="#c8443a" density={3} speed={3} />
+    </div>
+    <div class="wrap">
+      <p class="eyebrow">For international visitors</p>
+      <h1>Everything you need to travel <em>Korea</em></h1>
+      <p>
+        Attractions, food, and hidden gems — plus the practical stuff visitors
+        actually need: visas, transport, and emergencies. All in one place.
+      </p>
+      <div class="cta-row">
+        <a class="btn btn-primary" href="/regions/seoul">Explore Seoul →</a>
+        <a class="btn btn-ghost" href="/essentials/visa">Visa & entry</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Featured -->
+  {featured && (
+    <section class="section">
+      <div class="wrap">
+        <div class="section-head"><h2>Featured guide</h2></div>
+        <a class="featured" href={`/posts/${featured.id}`}>
+          <div class="thumb">
+            <img src={featured.data.heroImage?.url ?? '/images/placeholder-market.svg'} alt={featured.data.title} />
+          </div>
+          <div class="card-body">
+            <span class="badge">{featured.data.category.replace('-', ' ')}</span>
+            <span class="region-label">{featured.data.region}</span>
+            <h3>{featured.data.title}</h3>
+            <p>{featured.data.description}</p>
+            <span class="btn btn-ghost" style="align-self:flex-start;margin-top:0.6rem">Read guide →</span>
+          </div>
+        </a>
+      </div>
+    </section>
+  )}
+
+  <!-- Latest -->
+  {rest.length > 0 && (
+    <section class="section">
+      <div class="wrap">
+        <div class="section-head">
+          <h2>Latest guides</h2>
+        </div>
+        <div class="grid">
+          {rest.map((post) => (
+            <PostCard
+              href={`/posts/${post.id}`}
+              title={post.data.title}
+              description={post.data.description}
+              region={post.data.region}
+              category={post.data.category}
+              image={post.data.heroImage?.url}
+            />
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <!-- Regions -->
+  <section class="section">
+    <div class="wrap">
+      <div class="section-head"><h2>Explore by region</h2></div>
+      <div class="region-grid">
+        {regions.map((r) => (
+          <a class="region-tile" href={`/regions/${r.toLowerCase()}`}><span>{r}</span></a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Essentials -->
+  <section class="section">
+    <div class="wrap">
+      <div class="section-head">
+        <h2>Before you go</h2>
+        <a href="/essentials/visa">All essentials →</a>
+      </div>
+      <div class="essentials-strip">
+        <a class="essential-card" href="/essentials/visa">
+          <span class="ico">🛂</span>
+          <div><h3>Visa & entry</h3><p>Visa-free, K-ETA, and what to check for your nationality.</p></div>
+        </a>
+        <a class="essential-card" href="/essentials/transport">
+          <span class="ico">🚇</span>
+          <div><h3>Getting around</h3><p>T-money, subway, KTX, and the map apps you actually need.</p></div>
+        </a>
+        <a class="essential-card" href="/essentials/money">
+          <span class="ico">💳</span>
+          <div><h3>Money & payments</h3><p>Cards vs cash, T-money, and where you'll still need won.</p></div>
+        </a>
+        <a class="essential-card" href="/essentials/best-time-to-visit">
+          <span class="ico">🌸</span>
+          <div><h3>Best time to visit</h3><p>Season by season — blossoms, foliage, festivals, snow.</p></div>
+        </a>
+        <a class="essential-card" href="/essentials/emergency">
+          <span class="ico">🚨</span>
+          <div><h3>Emergency & help</h3><p>112, 119, and the 24/7 multilingual 1330 hotline.</p></div>
+        </a>
+        <a class="essential-card" href="/about">
+          <span class="ico">✅</span>
+          <div><h3>How we work</h3><p>Accurate, licensed, transparent — our editorial policy.</p></div>
+        </a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

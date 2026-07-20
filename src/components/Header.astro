@@ -1,0 +1,23 @@
+---
+const regions = ['Seoul', 'Busan', 'Jeju', 'Gyeongju', 'Incheon'];
+---
+
+<header class="site-header">
+  <div class="wrap">
+    <a href="/" class="brand"><span class="flag">🇰🇷</span> Korea Travel Guide</a>
+
+    <input type="checkbox" id="nav-toggle" hidden />
+    <label for="nav-toggle" class="menu-toggle" aria-label="Menu">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <line x1="3" y1="6" x2="21" y2="6" /><line x1="3" y1="12" x2="21" y2="12" /><line x1="3" y1="18" x2="21" y2="18" />
+      </svg>
+    </label>
+
+    <nav class="nav">
+      {regions.map((r) => <a href={`/regions/${r.toLowerCase()}`}>{r}</a>)}
+      <span class="sep"></span>
+      <a href="/essentials/visa" class="nav-essential">Visa</a>
+      <a href="/essentials/emergency" class="nav-essential">Emergency</a>
+    </nav>
+  </div>
+</header>

@@ -1,0 +1,24 @@
+---
+interface Props {
+  href: string;
+  title: string;
+  description: string;
+  region: string;
+  category: string;
+  image?: string;
+}
+const { href, title, description, region, category, image } = Astro.props;
+const label = category.replace('-', ' ');
+---
+
+<a class="card" href={href}>
+  <div class="thumb">
+    <img src={image ?? '/images/placeholder-market.svg'} alt={title} loading="lazy" />
+    <span class="badge">{label}</span>
+  </div>
+  <div class="card-body">
+    <span class="region-label">{region}</span>
+    <h3>{title}</h3>
+    <p>{description}</p>
+  </div>
+</a>

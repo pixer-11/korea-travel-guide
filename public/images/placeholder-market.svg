@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" role="img" aria-label="Placeholder image">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#cd2e3a"/>
+      <stop offset="1" stop-color="#0047a0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="420" fill="url(#g)"/>
+  <text x="400" y="200" font-family="system-ui, sans-serif" font-size="34" font-weight="700" fill="#fff" text-anchor="middle">Korea Travel Guide</text>
+  <text x="400" y="245" font-family="system-ui, sans-serif" font-size="18" fill="#ffffffcc" text-anchor="middle">placeholder — replace with licensed photo</text>
+</svg>

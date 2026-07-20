@@ -1,0 +1,187 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts', ({ data }) => !data.draft);
+  return posts.map((post) => ({
+    params: { slug: post.id },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+const { Content } = await render(post);
+const d = post.data;
+const p = d.place;
+
+const priceLabels = ['Free', '₩', '₩₩', '₩₩₩', '₩₩₩₩'];
+const stars = p?.rating ? '★'.repeat(Math.round(p.rating)) + '☆'.repeat(5 - Math.round(p.rating)) : null;
+const updated = d.updatedDate ?? d.pubDate;
+
+// Map our category to a schema.org place type (helps travel AI results).
+const placeType =
+  d.category === 'restaurant'
+    ? 'Restaurant'
+    : d.category === 'attraction' || d.category === 'trendy'
+    ? 'TouristAttraction'
+    : 'LocalBusiness';
+
+const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
+const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
+
+// ---- Structured data graph (Article + Place + FAQ + Breadcrumbs) ----
+const graph: Record<string, unknown>[] = [
+  {
+    '@type': 'Article',
+    headline: d.title,
+    description: d.description,
+    datePublished: d.pubDate.toISOString(),
+    dateModified: updated.toISOString(),
+    image: d.heroImage?.url ? new URL(d.heroImage.url, Astro.site).toString() : undefined,
+    author: { '@type': 'Organization', name: 'Korea Travel Guide', url: site },
+    publisher: { '@type': 'Organization', name: 'Korea Travel Guide', url: site },
+    mainEntityOfPage: pageUrl,
+  },
+  {
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: site + '/' },
+      { '@type': 'ListItem', position: 2, name: d.region, item: `${site}/regions/${d.region.toLowerCase()}` },
+      { '@type': 'ListItem', position: 3, name: d.title, item: pageUrl },
+    ],
+  },
+];
+
+if (p?.name) {
+  graph.push({
+    '@type': placeType,
+    name: p.name,
+    address: p.address
+      ? { '@type': 'PostalAddress', streetAddress: p.address, addressCountry: 'KR' }
+      : undefined,
+    geo: p.lat && p.lng ? { '@type': 'GeoCoordinates', latitude: p.lat, longitude: p.lng } : undefined,
+    aggregateRating:
+      p.rating && p.userRatingsTotal
+        ? { '@type': 'AggregateRating', ratingValue: p.rating, reviewCount: p.userRatingsTotal }
+        : undefined,
+    priceRange: typeof p.priceLevel === 'number' ? priceLabels[p.priceLevel] : undefined,
+    hasMap: p.googleMapsUrl,
+  });
+}
+
+if (d.faq.length) {
+  graph.push({
+    '@type': 'FAQPage',
+    mainEntity: d.faq.map((f) => ({
+      '@type': 'Question',
+      name: f.q,
+      acceptedAnswer: { '@type': 'Answer', text: f.a },
+    })),
+  });
+}
+
+const jsonLd = { '@context': 'https://schema.org', '@graph': graph };
+---
+
+<BaseLayout
+  title={d.title}
+  description={d.description}
+  image={d.heroImage?.url}
+  article={true}
+  jsonLd={jsonLd}
+>
+  <article class="article wrap">
+    <nav class="crumbs" aria-label="Breadcrumb">
+      <a href="/">Home</a> <span>/</span>
+      <a href={`/regions/${d.region.toLowerCase()}`}>{d.region}</a> <span>/</span>
+      <span aria-current="page">{d.category.replace('-', ' ')}</span>
+    </nav>
+
+    <div class="article-head">
+      <div class="kicker">
+        <span class="badge">{d.category.replace('-', ' ')}</span>
+        <span>{d.region}</span>
+        <span>·</span>
+        <time datetime={updated.toISOString()}>
+          Updated {updated.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+        </time>
+      </div>
+      <h1>{d.title}</h1>
+    </div>
+
+    {d.heroImage && (
+      <figure class="article-hero">
+        <img src={d.heroImage.url} alt={d.title} />
+        {d.heroImage.credit && (
+          <figcaption>
+            {d.heroImage.source?.startsWith('http') ? (
+              <a href={d.heroImage.source} target="_blank" rel="noopener nofollow">{d.heroImage.credit}</a>
+            ) : d.heroImage.credit}
+          </figcaption>
+        )}
+      </figure>
+    )}
+
+    {d.quickAnswer && (
+      <aside class="quick-answer">
+        <span class="qa-label">Quick answer</span>
+        <p>{d.quickAnswer}</p>
+      </aside>
+    )}
+
+    {p && (p.address || p.rating || p.priceLevel !== undefined) && (
+      <div class="fact-box">
+        <h4>At a glance</h4>
+        <div class="fact-grid">
+          {p.name && <div class="fact"><span class="k">Place</span><span class="v">{p.name}</span></div>}
+          {p.address && <div class="fact"><span class="k">Address</span><span class="v">{p.address}</span></div>}
+          {typeof p.rating === 'number' && (
+            <div class="fact"><span class="k">Rating</span><span class="v"><span class="stars">{stars}</span> {p.rating}
+              {p.userRatingsTotal ? ` (${p.userRatingsTotal.toLocaleString()})` : ''}</span></div>
+          )}
+          {typeof p.priceLevel === 'number' && <div class="fact"><span class="k">Price</span><span class="v">{priceLabels[p.priceLevel]}</span></div>}
+        </div>
+        {p.googleMapsUrl && (
+          <a class="btn btn-primary map-btn" href={p.googleMapsUrl} target="_blank" rel="noopener">
+            📍 Open in Google Maps
+          </a>
+        )}
+      </div>
+    )}
+
+    <div class="prose">
+      <Content />
+    </div>
+
+    {d.gallery.length > 0 && (
+      <section class="gallery">
+        {d.gallery.map((img) => (
+          <figure>
+            <img src={img.url} alt={d.place?.name ?? d.title} loading="lazy" />
+            {img.credit && <figcaption>{img.credit}</figcaption>}
+          </figure>
+        ))}
+      </section>
+    )}
+
+    {d.faq.length > 0 && (
+      <section class="faq">
+        <h2>Frequently asked questions</h2>
+        {d.faq.map((f) => (
+          <details>
+            <summary>{f.q}</summary>
+            <p>{f.a}</p>
+          </details>
+        ))}
+      </section>
+    )}
+
+    <p class="disclosure">
+      This guide was produced with AI assistance and reviewed against live data
+      sources. Facts such as hours, ratings, and location come from Google Places;
+      images are licensed or public domain. Details can change — please verify
+      before visiting. See our <a href="/about">editorial policy</a>.
+    </p>
+  </article>
+</BaseLayout>

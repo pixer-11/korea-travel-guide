@@ -1,0 +1,59 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostCard from '../../components/PostCard.astro';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts', ({ data }) => !data.draft);
+  const regions = [...new Set(posts.map((p) => p.data.region))];
+  // Also include the 5 headline regions even if they have no posts yet.
+  for (const r of ['Seoul', 'Busan', 'Jeju', 'Gyeongju', 'Incheon']) {
+    if (!regions.includes(r)) regions.push(r);
+  }
+  return regions.map((region) => ({
+    params: { region: region.toLowerCase() },
+    props: {
+      region,
+      posts: posts.filter((p) => p.data.region === region),
+    },
+  }));
+}
+
+const { region, posts } = Astro.props;
+---
+
+<BaseLayout
+  title={`${region} Travel Guide`}
+  description={`Things to do, where to eat, and hidden gems in ${region}, Korea — with practical, up-to-date info for visitors.`}
+>
+  <section class="page-hero">
+    <div class="wrap">
+      <p class="eyebrow">Region</p>
+      <h1>{region}</h1>
+      <p>Attractions, food, and hidden gems in {region}.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      {posts.length > 0 ? (
+        <div class="grid">
+          {posts.map((post) => (
+            <PostCard
+              href={`/posts/${post.id}`}
+              title={post.data.title}
+              description={post.data.description}
+              region={post.data.region}
+              category={post.data.category}
+              image={post.data.heroImage?.url}
+            />
+          ))}
+        </div>
+      ) : (
+        <div class="fact-box" style="text-align:center">
+          <p>Guides for {region} are on the way — check back soon.</p>
+        </div>
+      )}
+    </div>
+  </section>
+</BaseLayout>
