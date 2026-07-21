@@ -7,10 +7,10 @@ region: Gyeongju
 category: trendy
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Hwanglidangil%2C_Gyeongju_on_December_24th%2C_2018.jpg/1920px-Hwanglidangil%2C_Gyeongju_on_December_24th%2C_2018.jpg"
-  credit: "Photo: Choi2451 / Wikimedia Commons (CC BY-SA 4.0)"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Hwangnidan-gil_02.jpg/1920px-Hwangnidan-gil_02.jpg"
+  credit: "Photo: Seefooddiet / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Hwanglidangil,_Gyeongju_on_December_24th,_2018.jpg"
+  source: "https://commons.wikimedia.org/wiki/File:Hwangnidan-gil_02.jpg"
 gallery: []
 tags:
   - gyeongju

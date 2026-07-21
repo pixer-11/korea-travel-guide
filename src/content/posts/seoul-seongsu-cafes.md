@@ -7,10 +7,10 @@ region: Seoul
 category: trendy
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1730276848749-3a77a670dcdb?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U2VvdWwlMjBTb3V0aCUyMEtvcmVhJTIwU2VvbmdzdSUyMGNhZmVzfGVufDB8MHx8fDE3ODQ2MDM4MTd8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Young_Soo Yoo on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@sorkdha66?utm_source=korea_travel_guide&utm_medium=referral"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flowery_cafe_in_Seongsu-dong.jpg/1920px-Flowery_cafe_in_Seongsu-dong.jpg"
+  credit: "Photo: CartoonChess / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Flowery_cafe_in_Seongsu-dong.jpg"
 gallery: []
 tags:
   - seoul

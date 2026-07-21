@@ -54,7 +54,12 @@
       "Bash(node scripts/repair-images.mjs)",
       "Bash(curl -sL -A \"KoreaTravelGuide/1.0\" \"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Gyeonghoeru_%28Royal_Banquet_Hall%29_at_Gyeongbokgung_Palace%2C_Seoul.jpg/1024px-Gyeonghoeru_%28Royal_Banquet_Hall%29_at_Gyeongbokgung_Palace%2C_Seoul.jpg\" -o gbg.jpg)",
       "Bash(curl -sL -A \"Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36\" \"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Gyeonghoeru_%28Royal_Banquet_Hall%29_at_Gyeongbokgung_Palace%2C_Seoul.jpg/1024px-Gyeonghoeru_%28Royal_Banquet_Hall%29_at_Gyeongbokgung_Palace%2C_Seoul.jpg\" -o gbg2.jpg)",
-      "Bash(curl -s -o gbg3.jpg -w \"HTTP %{http_code}  type=%{content_type}  size=%{size_download}\\\\n\" -A \"Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36 \\(KHTML, like Gecko\\) Chrome/120 Safari/537.36\" -e \"https://korea-travel-guide.pixer-vtm.workers.dev/\" \"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Gyeonghoeru_%28Royal_Banquet_Hall%29_at_Gyeongbokgung_Palace%2C_Seoul.jpg/1920px-Gyeonghoeru_%28Royal_Banquet_Hall%29_at_Gyeongbokgung_Palace%2C_Seoul.jpg\")"
+      "Bash(curl -s -o gbg3.jpg -w \"HTTP %{http_code}  type=%{content_type}  size=%{size_download}\\\\n\" -A \"Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36 \\(KHTML, like Gecko\\) Chrome/120 Safari/537.36\" -e \"https://korea-travel-guide.pixer-vtm.workers.dev/\" \"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Gyeonghoeru_%28Royal_Banquet_Hall%29_at_Gyeongbokgung_Palace%2C_Seoul.jpg/1920px-Gyeonghoeru_%28Royal_Banquet_Hall%29_at_Gyeongbokgung_Palace%2C_Seoul.jpg\")",
+      "Bash(git commit -q -m 'images: accurate-first hero resolver \\(Wikimedia Commons\\) + repair all posts *)",
+      "Bash(curl -s \"https://korea-travel-guide.pixer-vtm.workers.dev/posts/seoul-gyeongbokgung-palace\")",
+      "Bash(curl -s \"https://korea-travel-guide.pixer-vtm.workers.dev/posts/seoul-gyeongbokgung-palace/\")",
+      "Bash(git commit -q -m 'images: replace jeonpo placeholder with a real Busan photo \\(Commons\\) *)",
+      "Bash(git commit -q -m 'images: match topic-as-placename via Commons \\(dakgalbi, Abai, Seongsu, etc.\\) *)"
     ]
   }
 }

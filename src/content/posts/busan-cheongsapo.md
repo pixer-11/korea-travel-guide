@@ -7,10 +7,10 @@ region: Busan
 category: trendy
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1591520284162-8e64eceebacf?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8QnVzYW4lMjBTb3V0aCUyMEtvcmVhJTIwQ2hlb25nc2Fwb3xlbnwwfDB8fHwxNzg0NjAzNzY4fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Thomas Roger Lux on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@thomasrogerlux?utm_source=korea_travel_guide&utm_medium=referral"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Cheongsapo.jpg/1920px-Cheongsapo.jpg"
+  credit: "Photo: Andrewssi2 / Wikimedia Commons (CC BY-SA 3.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Cheongsapo.jpg"
 gallery: []
 tags:
   - busan

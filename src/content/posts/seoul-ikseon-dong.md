@@ -7,10 +7,10 @@ region: Seoul
 category: restaurant
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1515250331755-a666fc377a49?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U2VvdWwlMjBTb3V0aCUyMEtvcmVhJTIwSWtzZW9uLWRvbmd8ZW58MHwwfHx8MTc4NDYwMzgxNXww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Sujin Lee on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@sujin_lee?utm_source=korea_travel_guide&utm_medium=referral"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ikseon-dong_%EC%9D%B5%EC%84%A0%EB%8F%99_October_1_2020_11.png/1920px-Ikseon-dong_%EC%9D%B5%EC%84%A0%EB%8F%99_October_1_2020_11.png"
+  credit: "Photo: S h y numis / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Ikseon-dong_%EC%9D%B5%EC%84%A0%EB%8F%99_October_1_2020_11.png"
 gallery: []
 tags:
   - seoul

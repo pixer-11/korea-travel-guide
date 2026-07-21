@@ -76,6 +76,24 @@ export async function resolveHero({ namedVenue, region, topic, place, used, allo
     }
   }
 
+  // The topic itself may be a place name (e.g. "Nami Island", "Abai Village",
+  // "Aewol"). Try Commons by topic-as-name — but skip generic topic words so
+  // "local restaurant" can't match some random file containing "local".
+  if (!namedVenue && topic) {
+    const anchor = keyToken(topic);
+    const GENERIC = new Set([
+      'local', 'trendy', 'hidden', 'street', 'best', 'top', 'cafe', 'cafes',
+      'restaurant', 'food', 'popular', 'famous', 'black', 'sight', 'sightseeing',
+      'nature', 'history', 'coffee', 'seafood',
+    ]);
+    if (anchor && anchor.length > 3 && !GENERIC.has(anchor)) {
+      const byTopicName =
+        (await commonsBest(`${topic} ${reg}`, { mustInclude: [anchor], used })) ||
+        (await commonsBest(topic, { mustInclude: [anchor], used }));
+      if (byTopicName) return mark(byTopicName, used);
+    }
+  }
+
   const topicQ = [topic, reg, 'South Korea'].filter(Boolean).join(' ');
   const byTopic = await commonsBest(topicQ, { mustInclude: [reg].filter(Boolean), used });
   if (byTopic) return mark(byTopic, used);

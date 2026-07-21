@@ -7,10 +7,10 @@ region: Suncheon
 category: attraction
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/20181231_Suncheon_Bay_004.jpg/1920px-20181231_Suncheon_Bay_004.jpg"
-  credit: "Photo: Jjw / Wikimedia Commons (CC BY-SA 4.0)"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Panorama_of_Reed_fields_in_Suncheon_bay.jpg/1920px-Panorama_of_Reed_fields_in_Suncheon_bay.jpg"
+  credit: "Photo: Bandoche / Wikimedia Commons (Public domain)"
   license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:20181231_Suncheon_Bay_004.jpg"
+  source: "https://commons.wikimedia.org/wiki/File:Panorama_of_Reed_fields_in_Suncheon_bay.jpg"
 gallery: []
 tags:
   - suncheon

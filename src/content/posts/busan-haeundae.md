@@ -7,10 +7,10 @@ region: Busan
 category: attraction
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Haeundae_Busan_South_Korea_03.jpg/1920px-Haeundae_Busan_South_Korea_03.jpg"
-  credit: "Photo: Hankook12 / Wikimedia Commons (CC0)"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Busan_Haeundae_Police_Station.jpg/1920px-Busan_Haeundae_Police_Station.jpg"
+  credit: "Photo: hyolee2 / Wikimedia Commons (CC BY-SA 3.0)"
   license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Haeundae_Busan_South_Korea_03.jpg"
+  source: "https://commons.wikimedia.org/wiki/File:Busan_Haeundae_Police_Station.jpg"
 gallery: []
 tags:
   - busan

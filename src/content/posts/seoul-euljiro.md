@@ -7,10 +7,10 @@ region: Seoul
 category: hidden-gem
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/South_Korea%2C_Seoul%2C_Jongno-gu%2C_Euljiro-dong%2C_%EB%A7%88%EC%A0%84%EA%B5%90_-_panoramio.jpg/1920px-South_Korea%2C_Seoul%2C_Jongno-gu%2C_Euljiro-dong%2C_%EB%A7%88%EC%A0%84%EA%B5%90_-_panoramio.jpg"
-  credit: "Photo: 米田賢一 / Wikimedia Commons (CC BY 3.0)"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/LED_shop_in_Euljiro_Seoul.jpg/1920px-LED_shop_in_Euljiro_Seoul.jpg"
+  credit: "Photo: Aaaatu / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:South_Korea,_Seoul,_Jongno-gu,_Euljiro-dong,_%EB%A7%88%EC%A0%84%EA%B5%90_-_panoramio.jpg"
+  source: "https://commons.wikimedia.org/wiki/File:LED_shop_in_Euljiro_Seoul.jpg"
 gallery: []
 tags:
   - seoul

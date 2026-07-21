@@ -7,10 +7,10 @@ region: Andong
 category: attraction
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Korea-Andong_Hahoe_Folk_Village_cropped.jpg"
-  credit: "Photo: by david alina at Flickr / Wikimedia Commons (CC BY-SA 2.0)"
+  url: "https://upload.wikimedia.org/wikipedia/commons/4/41/Korea-Andong-Hahoe_Folk_Village-01.jpg"
+  credit: "Photo: Theda Grimoire / Wikimedia Commons (CC BY-SA 2.0)"
   license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Korea-Andong_Hahoe_Folk_Village_cropped.jpg"
+  source: "https://commons.wikimedia.org/wiki/File:Korea-Andong-Hahoe_Folk_Village-01.jpg"
 gallery: []
 tags:
   - andong

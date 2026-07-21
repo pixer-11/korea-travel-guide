@@ -7,10 +7,10 @@ region: Gyeongju
 category: attraction
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Water_reflection_of_Donggung_Palace_in_Wolji_Pond_at_blue_hour_in_Gyeongju_South_Korea.jpg/1920px-Water_reflection_of_Donggung_Palace_in_Wolji_Pond_at_blue_hour_in_Gyeongju_South_Korea.jpg"
-  credit: "Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Gyeongju_Donggung_Palace_and_Wolji_Pond_%28%EA%B2%BD%EC%A3%BC_%EB%8F%99%EA%B6%81%EA%B3%BC_%EC%9B%94%EC%A7%80%29_2.jpg/1920px-Gyeongju_Donggung_Palace_and_Wolji_Pond_%28%EA%B2%BD%EC%A3%BC_%EB%8F%99%EA%B6%81%EA%B3%BC_%EC%9B%94%EC%A7%80%29_2.jpg"
+  credit: "Photo: Kouz14 / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Water_reflection_of_Donggung_Palace_in_Wolji_Pond_at_blue_hour_in_Gyeongju_South_Korea.jpg"
+  source: "https://commons.wikimedia.org/wiki/File:Gyeongju_Donggung_Palace_and_Wolji_Pond_(%EA%B2%BD%EC%A3%BC_%EB%8F%99%EA%B6%81%EA%B3%BC_%EC%9B%94%EC%A7%80)_2.jpg"
 gallery: []
 tags:
   - gyeongju

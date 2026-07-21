@@ -7,10 +7,10 @@ region: Paju
 category: hidden-gem
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1710006876254-48250c2dbcfc?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8UGFqdSUyMFNvdXRoJTIwS29yZWElMjBIZXlyaSUyMEFydCUyMFZpbGxhZ2V8ZW58MHwwfHx8MTc4NDYwMzgxMHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Christopher Pap de Pestény on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@cpdp?utm_source=korea_travel_guide&utm_medium=referral"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Art-Service_Studio%2C_Heyri.jpg/1920px-Art-Service_Studio%2C_Heyri.jpg"
+  credit: "Photo: Flickr user Seongbin Im / Wikimedia Commons (CC BY-SA 2.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Art-Service_Studio,_Heyri.jpg"
 gallery: []
 tags:
   - paju

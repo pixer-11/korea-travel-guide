@@ -7,12 +7,10 @@ region: Sokcho
 category: hidden-gem
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1703825864792-5880081beaaf?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U29rY2hvJTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTkyMDA2fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Elliot Gouy on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@gouyelliot?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://upload.wikimedia.org/wikipedia/commons/8/82/Abai_Village.jpg"
+  credit: "Photo: Marie / Wikimedia Commons (CC BY-SA 2.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Abai_Village.jpg"
 gallery: []
 tags:
   - sokcho

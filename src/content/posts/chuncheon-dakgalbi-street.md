@@ -7,12 +7,10 @@ region: Chuncheon
 category: restaurant
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1582815303972-5bd65f200c4c?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8Q2h1bmNoZW9uJTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTk3MjMyfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Chinh Le Duc on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@mero_dnt?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Chuncheon_sizzling_chicken_%28Dakgalbi%29.jpg/1920px-Chuncheon_sizzling_chicken_%28Dakgalbi%29.jpg"
+  credit: "Photo: Fumikas Sagisavas / Wikimedia Commons (CC0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Chuncheon_sizzling_chicken_(Dakgalbi).jpg"
 gallery: []
 tags:
   - chuncheon
