@@ -2,7 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from '../components/PostCard.astro';
-import Stardust from '../components/Stardust.tsx';
+import LineRipple from '../components/LineRipple.tsx';
 
 const posts = (await getCollection('posts', ({ data }) => !data.draft)).sort(
   (a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime()
@@ -22,7 +22,7 @@ const regions = ['Seoul', 'Busan', 'Jeju', 'Gyeongju', 'Incheon'];
       <span></span><span></span><span></span>
     </div>
     <div class="hero-sparkle" aria-hidden="true">
-      <Stardust client:idle particleColor="#c8443a" density={3} speed={3} />
+      <LineRipple client:load strokeColor="#c8443a" count={36} movement={16} force={4} resolution={9} />
     </div>
     <div class="wrap">
       <p class="eyebrow">For international visitors</p>
@@ -129,4 +129,23 @@ const regions = ['Seoul', 'Busan', 'Jeju', 'Gyeongju', 'Incheon'];
       </div>
     </div>
   </section>
+
+  <script>
+    // Progressive scroll-reveal: JS adds the hidden state (so no-JS users and
+    // crawlers still see everything), then reveals on scroll with a light stagger.
+    const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    if (!reduce && 'IntersectionObserver' in window) {
+      const els = Array.from(document.querySelectorAll('main .card, main .featured, main .region-tile, main .essential-card')) as HTMLElement[];
+      const reveal = (el: HTMLElement) => el.classList.add('in');
+      els.forEach((el) => el.classList.add('js-reveal'));
+      const io = new IntersectionObserver((entries, obs) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) { reveal(entry.target as HTMLElement); obs.unobserve(entry.target); }
+        });
+      }, { threshold: 0.1, rootMargin: '0px 0px -30px 0px' });
+      els.forEach((el) => io.observe(el));
+      // Fail-open: content must NEVER stay hidden, whatever happens.
+      setTimeout(() => els.forEach(reveal), 1500);
+    }
+  </script>
 </BaseLayout>
