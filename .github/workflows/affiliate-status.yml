@@ -1,0 +1,43 @@
+name: Check affiliate program status
+
+# Once a day, check whether the Travelpayouts flight/hotel programs are live for
+# our marker (the Hotellook widget starts returning content on approval). When it
+# flips to LIVE, open a one-time GitHub issue so you get an email — no need to
+# watch the dashboard. The site already shows the widgets automatically on
+# approval, so this is purely a notification.
+on:
+  schedule:
+    - cron: '0 8 * * *' # 08:00 UTC daily
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Check Hotellook/Aviasales status
+        id: status
+        run: node scripts/check-affiliate-status.mjs
+
+      - name: Notify once when live
+        if: steps.status.outputs.live == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # Only open the issue the first time (don't spam on later runs).
+          existing=$(gh issue list --state all --search "Affiliate programs are LIVE in:title" --json number --jq 'length')
+          if [ "$existing" = "0" ]; then
+            gh issue create \
+              --title "🎉 Affiliate programs are LIVE" \
+              --body "The Travelpayouts flight (Aviasales) and hotel (Hotellook) programs are now approved for marker 754088. The hotel blocks now appear on posts and flight search works — no action needed. You can disable this workflow (.github/workflows/affiliate-status.yml)."
+          else
+            echo "Already notified — skipping."
+          fi
