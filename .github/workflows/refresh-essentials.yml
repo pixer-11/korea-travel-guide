@@ -1,0 +1,42 @@
+name: Refresh essentials (web check)
+
+# Monthly: re-research each active country's visa/entry, transport, money, best
+# time, and emergency info via web search, and update its essentials guide +
+# lastReviewed date. Legal specifics always defer to the official links in-page.
+on:
+  schedule:
+    - cron: '0 6 1 * *' # 1st of the month, 06:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  essentials:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+
+      - name: Refresh essentials guides
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          FORCE: '1'
+        run: node scripts/build-essentials.mjs
+
+      - name: Commit updates
+        run: |
+          git config user.name "content-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add src/content/essentials
+          if git diff --staged --quiet; then
+            echo "No essentials changes."
+          else
+            git commit -m "content: refresh essentials ($(date -u +%Y-%m-%d))"
+            git pull --rebase origin main
+            git push
+          fi

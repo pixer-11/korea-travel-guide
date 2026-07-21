@@ -67,4 +67,17 @@ const posts = defineCollection({
   }),
 });
 
-export const collections = { posts };
+// Per-country "know before you go" guides, web-researched and refreshed monthly.
+// Legal/visa specifics always defer to the official-source links in the body.
+const essentials = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/essentials' }),
+  schema: z.object({
+    country: z.string(),
+    title: z.string(),
+    description: z.string(),
+    lastReviewed: z.coerce.date(),
+    draft: z.boolean().default(false),
+  }),
+});
+
+export const collections = { posts, essentials };

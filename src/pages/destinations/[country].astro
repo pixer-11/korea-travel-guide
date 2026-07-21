@@ -15,7 +15,10 @@ export async function getStaticPaths() {
 const { country, posts } = Astro.props;
 const regionsWithPosts = [...new Set(posts.map((p) => p.data.region))];
 const latest = posts.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
-const isKorea = country.slug === 'south-korea';
+const essentialsSlugs = new Set(
+  (await getCollection('essentials', ({ data }) => !data.draft)).map((e) => e.id)
+);
+const hasEssentials = essentialsSlugs.has(country.slug);
 
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
 const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
@@ -81,14 +84,13 @@ const jsonLd = {
             </div>
           </div>
 
-          {isKorea && (
+          {hasEssentials && (
             <div class="region-group">
               <h2>Before you go</h2>
-              <div class="essentials-strip">
-                <a class="essential-card" href="/essentials/visa"><span class="ico">🛂</span><div><h3>Visa & entry</h3><p>Visa-free, K-ETA, and the e-Arrival Card.</p></div></a>
-                <a class="essential-card" href="/essentials/transport"><span class="ico">🚇</span><div><h3>Getting around</h3><p>T-money, subway, KTX, and the right map apps.</p></div></a>
-                <a class="essential-card" href="/essentials/best-time-to-visit"><span class="ico">🌸</span><div><h3>Best time to visit</h3><p>Blossoms, foliage, festivals, snow.</p></div></a>
-              </div>
+              <a class="essential-card" href={`/essentials/${country.slug}`} style="max-width:560px">
+                <span class="ico">🧭</span>
+                <div><h3>{country.name} travel essentials</h3><p>Visa & entry, getting around, money, best time to visit, and emergency numbers — with official sources.</p></div>
+              </a>
             </div>
           )}
         </>

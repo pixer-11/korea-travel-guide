@@ -33,6 +33,9 @@ const PUBLISHED_FILE = join(ROOT, 'data', 'published.json');
 
 const POSTS_PER_RUN = Number(process.env.POSTS_PER_RUN ?? 2);
 const AUTO_EXPAND = process.env.AUTO_EXPAND !== '0'; // auto-generate combos unless disabled
+// Venue-level dedup across the whole site: never publish the same Google place
+// twice, even if reached via a different query/slug over months of auto-runs.
+let USED_PLACE_IDS = new Set();
 // DUMMY = can't do real writing (no Anthropic key, or forced) → canned output.
 const DUMMY = process.env.DUMMY === '1' || !process.env.ANTHROPIC_API_KEY;
 // USE_PLACES = pull verified facts + real venue photos from Google Places.
@@ -63,6 +66,7 @@ async function main() {
   const existing = new Set(
     (await readdir(POSTS_DIR)).map((f) => f.replace(/\.md$/, ''))
   );
+  USED_PLACE_IDS = await loadUsedPlaceIds();
 
   // Seasonal events: publish with priority when in season (current month or the
   // next month, for lead time), only for active countries.
@@ -156,6 +160,17 @@ function buildRotatedQueue(targets, done, countries, seasonal = []) {
   return [...seasonalQueue, ...rotated];
 }
 
+// Every Google place id already published, so we never duplicate a venue.
+async function loadUsedPlaceIds() {
+  const ids = new Set();
+  for (const f of await readdir(POSTS_DIR)) {
+    if (!f.endsWith('.md')) continue;
+    const m = (await readFile(join(POSTS_DIR, f), 'utf8')).match(/\n {2}id:\s*"?([^"\n]+?)"?\s*$/m);
+    if (m) ids.add(m[1].trim());
+  }
+  return ids;
+}
+
 // In-season events (this month or next, for lead time) for active countries.
 async function loadSeasonalTargets(activeNames) {
   try {
@@ -196,6 +211,11 @@ async function buildLivePost(target) {
     console.log(`  ⏭️   skip "${target.query}" — non-Latin venue name (${place.name})`);
     return null;
   }
+  if (place.id && USED_PLACE_IDS.has(place.id)) {
+    console.log(`  ↩︎  skip "${target.query}" — venue already published (${place.name})`);
+    return null;
+  }
+  if (place.id) USED_PLACE_IDS.add(place.id);
 
   const hero = await resolveHero({
     namedVenue: place.name,
