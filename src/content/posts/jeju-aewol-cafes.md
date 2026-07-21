@@ -7,12 +7,10 @@ region: Jeju
 category: trendy
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1701178086825-c1ca5fab2f34?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SmVqdSUyMFNvdXRoJTIwS29yZWF8ZW58MHwwfHx8MTc4NDU5NzI0NXww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Hongbin on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@hbsun2013?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Aewol_in_Jeju_island.jpg/1920px-Aewol_in_Jeju_island.jpg"
+  credit: "Photo: Jeong seolah / Wikimedia Commons (CC0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Aewol_in_Jeju_island.jpg"
 gallery: []
 tags:
   - jeju

@@ -7,12 +7,10 @@ region: Gapyeong
 category: attraction
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1718958505977-6f5790f1cf1a?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8TmFtaSUyMElzbGFuZCUyMEstZHJhbWElMjBHYXB5ZW9uZyUyMFNvdXRoJTIwS29yZWF8ZW58MHwwfHx8MTc4NDU5NzIzOHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Mos Sukjaroenkraisri on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@mossuk?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Gapyeong-Nami_Island_Ferry.jpg/1920px-Gapyeong-Nami_Island_Ferry.jpg"
+  credit: "Photo: Minseong Kim / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Gapyeong-Nami_Island_Ferry.jpg"
 gallery: []
 tags:
   - gapyeong
