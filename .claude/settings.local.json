@@ -79,7 +79,8 @@
       "Bash(rm src/content/posts/andong-hahoe-folk-village.md)",
       "Bash(git mv *)",
       "Bash(mv src/content/posts/andong-andong-hahoe-folk-village.md src/content/posts/andong-hahoe-folk-village.md)",
-      "Bash(git commit -q -m 'images: stop internal Commons fields leaking into frontmatter; clean 12 posts; dedup Hahoe *)"
+      "Bash(git commit -q -m 'images: stop internal Commons fields leaking into frontmatter; clean 12 posts; dedup Hahoe *)",
+      "Bash(git commit -q -m 'content: romanize two Korean-named lighthouse posts + guard against future ones *)"
     ]
   }
 }

@@ -1,6 +1,6 @@
 ---
-title: "큰끝등대: A Visitor's Guide in Yeosu"
-description: "A practical visitor's guide to 큰끝등대 in Yeosu, Korea. Verified info on location, ratings, and how to get there."
+title: "Keunkkeut Lighthouse: A Visitor's Guide in Yeosu"
+description: "A practical visitor's guide to Keunkkeut Lighthouse (Keunkkeut-deungdae) on Dolsan Island in Yeosu, Korea — a hidden coastal viewpoint, with location, ratings, and how to get there."
 region: "Yeosu"
 category: "hidden-gem"
 pubDate: 2026-07-21
@@ -12,7 +12,7 @@ heroImage:
 gallery: []
 place:
   id: "ChIJWYT5iYPbbTURqeHk9gfXwT0"
-  name: "큰끝등대"
+  name: "Keunkkeut Lighthouse (큰끝등대)"
   address: "산1-1 Pyeongsa-ri, Dolsan-eup, Yeosu, Jeollanam-do, South Korea"
   rating: 4.3
   userRatingsTotal: 124

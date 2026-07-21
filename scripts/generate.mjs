@@ -159,6 +159,12 @@ async function buildLivePost(target) {
     console.log(`  ⏭️   skip "${target.query}" — no place passed guardrails`);
     return null;
   }
+  // On this English site, skip venues whose name has no Latin letters — otherwise
+  // the title/slug come out in Hangul (we can't romanize unattended). Rare.
+  if (!/[a-z0-9]/i.test(place.name || '')) {
+    console.log(`  ⏭️   skip "${target.query}" — non-Latin venue name (${place.name})`);
+    return null;
+  }
 
   const hero = await resolveHero({
     namedVenue: place.name,

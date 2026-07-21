@@ -1,6 +1,6 @@
 ---
-title: "주문진등대: A Visitor's Guide in Gangneung"
-description: "A practical visitor's guide to 주문진등대 in Gangneung, Korea. Verified info on location, ratings, and how to get there."
+title: "Jumunjin Lighthouse: A Visitor's Guide in Gangneung"
+description: "A practical visitor's guide to Jumunjin Lighthouse (Jumunjin-deungdae) in Gangneung, Korea — the Goblin K-drama spot, with location, ratings, and how to get there."
 region: "Gangneung"
 category: "trendy"
 pubDate: 2026-07-21
@@ -12,7 +12,7 @@ heroImage:
 gallery: []
 place:
   id: "ChIJu5ptmLCYfDURmSbRP4bS_QM"
-  name: "주문진등대"
+  name: "Jumunjin Lighthouse (주문진등대)"
   address: "24-7 Yetdeungdae-gil, Jumunjin-eup, Gangneung, Gangwon-do, South Korea"
   rating: 4.4
   userRatingsTotal: 766
