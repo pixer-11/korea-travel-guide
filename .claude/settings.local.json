@@ -89,7 +89,12 @@
       "Bash(git commit -q -m 'home: rebuild as a magazine-quality global homepage \\(design-spec driven\\) *)",
       "Bash(git commit -q -m 'nav: remove Korea-specific Visa/Emergency from the global header *)",
       "mcp__b3158d46-62b2-45ff-bf5b-e29ed7b52614__search",
-      "Bash(git commit -q -m 'home: replace single hero with an endlessly-flowing destination photo wall *)"
+      "Bash(git commit -q -m 'home: replace single hero with an endlessly-flowing destination photo wall *)",
+      "Bash(node -e \"try{require.resolve\\('sharp'\\);console.log\\('sharp: available'\\)}catch\\(e\\){console.log\\('sharp: MISSING'\\)}\")",
+      "Bash(node -e \"import\\('astro/assets'\\).then\\(m=>console.log\\('astro:assets getImage:', typeof m.getImage\\)\\).catch\\(e=>console.log\\('assets err',e.message\\)\\)\")",
+      "Bash(node scripts/build-wall.mjs)",
+      "Bash(awk '{s+=$5; n++} END{printf \"%.0f KB avg, %d files, %.1f MB total\\\\n\", s/n/1024, n, s/1024/1024}')",
+      "Bash(git commit -q -m 'perf: self-host resized WebP hero-wall thumbnails \\(pretty + fast\\) *)"
     ]
   }
 }

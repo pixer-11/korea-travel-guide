@@ -4,6 +4,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from '../components/PostCard.astro';
 import { SITE } from '../siteConfig';
 import countriesData from '../../data/countries.json';
+import wallData from '../../data/wall.json';
 
 const posts = (await getCollection('posts', ({ data }) => !data.draft)).sort(
   (a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime()
@@ -29,17 +30,9 @@ function shuffle(arr) {
   }
   return a;
 }
-// Shrink wall thumbnails so the hero stays light (Unsplash supports width param).
-const thumb = (url) =>
-  url.includes('images.unsplash.com') ? url.replace(/([?&])w=\d+/, '$1w=560') : url;
-const wallPool = [
-  ...new Map(
-    posts
-      .filter((p) => p.data.heroImage?.url && !p.data.heroImage.url.includes('placeholder'))
-      .map((p) => [p.data.heroImage.url, { url: thumb(p.data.heroImage.url) }])
-  ).values(),
-];
-const wall = shuffle(wallPool).slice(0, 12);
+// Self-hosted, pre-optimized 640px WebP thumbnails (scripts/build-wall.mjs).
+// Shuffled per build so the set rotates as content grows / on daily rebuilds.
+const wall = shuffle(wallData.images ?? []).slice(0, 12).map((url) => ({ url }));
 const wallRow1 = wall.slice(0, 6);
 const wallRow2 = wall.slice(6, 12);
 
