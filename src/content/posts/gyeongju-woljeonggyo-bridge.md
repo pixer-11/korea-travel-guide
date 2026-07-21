@@ -1,46 +1,40 @@
 ---
-title: "Woljeonggyo Bridge: A Visitor's Guide in Gyeongju"
-description: "A practical visitor's guide to Woljeonggyo Bridge in Gyeongju, Korea. Verified info on location, ratings, and how to get there."
-region: "Gyeongju"
-category: "attraction"
-pubDate: 2026-07-21
+title: 'Woljeonggyo Bridge: A Visitor''s Guide in Gyeongju'
+description: A practical visitor's guide to Woljeonggyo Bridge in Gyeongju, Korea. Verified info on location, ratings, and how to get there.
+region: Gyeongju
+category: attraction
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  title: "Illuminated Woljeonggyo Bridge at blue hour in Gyeongju South Korea"
-  index: 1
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Illuminated_Woljeonggyo_Bridge_at_blue_hour_in_Gyeongju_South_Korea.jpg/1920px-Illuminated_Woljeonggyo_Bridge_at_blue_hour_in_Gyeongju_South_Korea.jpg"
-  w: 1600
-  h: 800
-  featured: true
-  credit: "Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Illuminated_Woljeonggyo_Bridge_at_blue_hour_in_Gyeongju_South_Korea.jpg"
-  licenseShort: "CC BY-SA 4.0"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Illuminated_Woljeonggyo_Bridge_at_blue_hour_in_Gyeongju_South_Korea.jpg/1920px-Illuminated_Woljeonggyo_Bridge_at_blue_hour_in_Gyeongju_South_Korea.jpg
+  credit: 'Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Illuminated_Woljeonggyo_Bridge_at_blue_hour_in_Gyeongju_South_Korea.jpg
 gallery: []
 place:
-  id: "ChIJI6-IFWBOZjURG2fe65bJAs0"
-  name: "Woljeonggyo Bridge"
-  address: "48 Gyo-dong, Gyeongju, Gyeongsangbuk-do, South Korea"
+  id: ChIJI6-IFWBOZjURG2fe65bJAs0
+  name: Woljeonggyo Bridge
+  address: 48 Gyo-dong, Gyeongju, Gyeongsangbuk-do, South Korea
   rating: 4.6
   userRatingsTotal: 8727
-  googleMapsUrl: "https://maps.google.com/?cid=14772591377768146715&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=14772591377768146715&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.8291928
   lng: 129.21812130000004
 tags:
-  - "gyeongju"
-  - "top attraction"
-quickAnswer: "Woljeonggyo Bridge is a reconstructed Silla-era wooden bridge spanning the Namcheon (Nam Stream) in Gyeongju's Gyo-dong village, best visited around sunset so you can see it lit up against the dark water. It's free to walk across, takes about 20-30 minutes to fully appreciate and photograph, and pairs naturally with a stroll through nearby Gyochon Traditional Village and Wolseong (Banwolseong) Fortress ruins."
+  - gyeongju
+  - top attraction
+quickAnswer: Woljeonggyo Bridge is a reconstructed Silla-era wooden bridge spanning the Namcheon (Nam Stream) in Gyeongju's Gyo-dong village, best visited around sunset so you can see it lit up against the dark water. It's free to walk across, takes about 20-30 minutes to fully appreciate and photograph, and pairs naturally with a stroll through nearby Gyochon Traditional Village and Wolseong (Banwolseong) Fortress ruins.
 faq:
-  - q: "How do I get to Woljeonggyo Bridge?"
-    a: "It's centrally located in Gyeongju's Gyo-dong area, about a 15-20 minute walk from Cheomseongdae Observatory or Donggung Palace and Wolji Pond, and roughly 20-25 minutes on foot from the intercity bus terminal. A taxi from Singyeongju KTX station takes about 20-30 minutes."
-  - q: "Is there an admission fee?"
-    a: "No, walking across Woljeonggyo Bridge is free and it's accessible in the evening, which is when the illuminations make it most photogenic."
-  - q: "How long should I spend there?"
-    a: "About 20-30 minutes covers the bridge itself; add an hour or two if you continue into nearby Gyochon Traditional Village or the Wolseong fortress grounds."
-  - q: "What's the best time to visit?"
-    a: "Sunset and early evening, when the bridge is lit and reflects in the Namcheon stream. Spring and autumn offer the most comfortable weather for walking the surrounding historic area."
-  - q: "What else is nearby?"
-    a: "Gyochon Traditional Village, Gyeongju Hyanggyo, the Choi Clan House, Wolseong (Banwolseong) fortress ruins, Cheomseongdae Observatory, and Donggung Palace and Wolji Pond are all within easy walking distance."
+  - q: How do I get to Woljeonggyo Bridge?
+    a: It's centrally located in Gyeongju's Gyo-dong area, about a 15-20 minute walk from Cheomseongdae Observatory or Donggung Palace and Wolji Pond, and roughly 20-25 minutes on foot from the intercity bus terminal. A taxi from Singyeongju KTX station takes about 20-30 minutes.
+  - q: Is there an admission fee?
+    a: No, walking across Woljeonggyo Bridge is free and it's accessible in the evening, which is when the illuminations make it most photogenic.
+  - q: How long should I spend there?
+    a: About 20-30 minutes covers the bridge itself; add an hour or two if you continue into nearby Gyochon Traditional Village or the Wolseong fortress grounds.
+  - q: What's the best time to visit?
+    a: Sunset and early evening, when the bridge is lit and reflects in the Namcheon stream. Spring and autumn offer the most comfortable weather for walking the surrounding historic area.
+  - q: What else is nearby?
+    a: Gyochon Traditional Village, Gyeongju Hyanggyo, the Choi Clan House, Wolseong (Banwolseong) fortress ruins, Cheomseongdae Observatory, and Donggung Palace and Wolji Pond are all within easy walking distance.
 aiGenerated: true
 draft: false
 ---

@@ -117,7 +117,11 @@ export async function resolveHero({ namedVenue, region, topic, place, used, allo
 
 function mark(img, used) {
   if (used && img?.url) used.add(img.url);
-  return img;
+  if (!img) return img;
+  // Return ONLY the fields the post schema stores — Commons candidates carry
+  // internal scoring fields (index, w, h, featured…) that must not leak into
+  // frontmatter.
+  return { url: img.url, credit: img.credit, license: img.license, source: img.source };
 }
 
 // Unsplash, deterministic BEST match (top of the ranked candidates), Korea-scoped.

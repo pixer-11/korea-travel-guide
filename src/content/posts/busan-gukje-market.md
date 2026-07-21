@@ -1,46 +1,40 @@
 ---
-title: "Gukje Market: A Visitor's Guide in Busan"
-description: "A practical visitor's guide to Gukje Market in Busan, Korea. Verified info on location, ratings, and how to get there."
-region: "Busan"
-category: "hidden-gem"
-pubDate: 2026-07-21
+title: 'Gukje Market: A Visitor''s Guide in Busan'
+description: A practical visitor's guide to Gukje Market in Busan, Korea. Verified info on location, ratings, and how to get there.
+region: Busan
+category: hidden-gem
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  title: "Gukje Market 20241221 125352"
-  index: 1
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Gukje_Market_20241221_125352.jpg/1920px-Gukje_Market_20241221_125352.jpg"
-  w: 1600
-  h: 900
-  featured: false
-  credit: "Photo: Ka23 13 / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Gukje_Market_20241221_125352.jpg"
-  licenseShort: "CC BY 4.0"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Gukje_Market_20241221_125352.jpg/1920px-Gukje_Market_20241221_125352.jpg
+  credit: 'Photo: Ka23 13 / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Gukje_Market_20241221_125352.jpg
 gallery: []
 place:
-  id: "ChIJfYLMelSTaDURFlCRfk5W1PA"
-  name: "Gukje Market"
-  address: "55 Gukjesijang 2-gil, Jung-gu, Busan, South Korea"
+  id: ChIJfYLMelSTaDURFlCRfk5W1PA
+  name: Gukje Market
+  address: 55 Gukjesijang 2-gil, Jung-gu, Busan, South Korea
   rating: 4.1
   userRatingsTotal: 12983
-  googleMapsUrl: "https://maps.google.com/?cid=17353590159296253974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=17353590159296253974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.1013575
   lng: 129.0281978
 tags:
-  - "busan"
-  - "Gukje Market"
-quickAnswer: "Gukje Market in Busan's Jung-gu district is a sprawling, postwar-era market best explored on foot for 1.5–2 hours, ideally in late afternoon when food stalls fire up. Take Busan Metro Line 1 to Jagalchi Station (Exit 3) or Nampo Station (Exit 3), then walk about 5–10 minutes inland. Pair it with neighboring Bupyeong Kkangtong Market (night food alley) and Nampo-dong for a half-day loop."
+  - busan
+  - Gukje Market
+quickAnswer: Gukje Market in Busan's Jung-gu district is a sprawling, postwar-era market best explored on foot for 1.5–2 hours, ideally in late afternoon when food stalls fire up. Take Busan Metro Line 1 to Jagalchi Station (Exit 3) or Nampo Station (Exit 3), then walk about 5–10 minutes inland. Pair it with neighboring Bupyeong Kkangtong Market (night food alley) and Nampo-dong for a half-day loop.
 faq:
-  - q: "How do I get to Gukje Market by subway?"
-    a: "Take Busan Metro Line 1 to Jagalchi Station (Exit 3, ~8-10 min walk) or Nampo Station (Exit 3, ~5-7 min walk), both in the Jung-gu district."
-  - q: "How much time should I budget for a visit?"
-    a: "Plan for 1.5 to 2 hours to browse the main alleys comfortably; add extra time if you want to explore Bupyeong Kkangtong Market next door."
-  - q: "What is the best time of day to visit?"
-    a: "Late afternoon into early evening works best — daytime stalls are open for shopping, and by dusk the food carts and the adjacent night market come alive."
-  - q: "Is Gukje Market good for food, or mainly shopping?"
-    a: "Both — it's known for goods like secondhand tools, fabric, and army-surplus items, plus street food such as ssiat hotteok, though the biggest food scene is next door in Bupyeong Kkangtong Market."
-  - q: "What else is nearby worth visiting?"
-    a: "Jagalchi Fish Market, Nampo-dong shopping streets, and BIFF Square are all within walking distance, making it easy to combine into a half-day itinerary."
+  - q: How do I get to Gukje Market by subway?
+    a: Take Busan Metro Line 1 to Jagalchi Station (Exit 3, ~8-10 min walk) or Nampo Station (Exit 3, ~5-7 min walk), both in the Jung-gu district.
+  - q: How much time should I budget for a visit?
+    a: Plan for 1.5 to 2 hours to browse the main alleys comfortably; add extra time if you want to explore Bupyeong Kkangtong Market next door.
+  - q: What is the best time of day to visit?
+    a: Late afternoon into early evening works best — daytime stalls are open for shopping, and by dusk the food carts and the adjacent night market come alive.
+  - q: Is Gukje Market good for food, or mainly shopping?
+    a: Both — it's known for goods like secondhand tools, fabric, and army-surplus items, plus street food such as ssiat hotteok, though the biggest food scene is next door in Bupyeong Kkangtong Market.
+  - q: What else is nearby worth visiting?
+    a: Jagalchi Fish Market, Nampo-dong shopping streets, and BIFF Square are all within walking distance, making it easy to combine into a half-day itinerary.
 aiGenerated: true
 draft: false
 ---

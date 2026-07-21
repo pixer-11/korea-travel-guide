@@ -1,46 +1,40 @@
 ---
-title: "Seoraksan Cable Car: A Visitor's Guide in Sokcho"
-description: "A practical visitor's guide to Seoraksan Cable Car in Sokcho, Korea. Verified info on location, ratings, and how to get there."
-region: "Sokcho"
-category: "attraction"
-pubDate: 2026-07-21
+title: 'Seoraksan Cable Car: A Visitor''s Guide in Sokcho'
+description: A practical visitor's guide to Seoraksan Cable Car in Sokcho, Korea. Verified info on location, ratings, and how to get there.
+region: Sokcho
+category: attraction
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  title: "Seoraksan Cable Car 04"
-  index: 1
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Seoraksan_Cable_Car_04.jpg/1920px-Seoraksan_Cable_Car_04.jpg"
-  w: 1600
-  h: 1067
-  featured: true
-  credit: "Photo: Bernard Gagnon / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Seoraksan_Cable_Car_04.jpg"
-  licenseShort: "CC0"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Seoraksan_Cable_Car_04.jpg/1920px-Seoraksan_Cable_Car_04.jpg
+  credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Seoraksan_Cable_Car_04.jpg
 gallery: []
 place:
-  id: "ChIJU6refB6j2F8Rhvwfrw2-Hes"
-  name: "Seoraksan Cable Car"
-  address: "1137 Seoraksan-ro, Seorak-dong, Sokcho-si, Gangwon-do, South Korea"
+  id: ChIJU6refB6j2F8Rhvwfrw2-Hes
+  name: Seoraksan Cable Car
+  address: 1137 Seoraksan-ro, Seorak-dong, Sokcho-si, Gangwon-do, South Korea
   rating: 4.3
   userRatingsTotal: 11581
-  googleMapsUrl: "https://maps.google.com/?cid=16941906339219635334&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=16941906339219635334&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 38.173099799999996
   lng: 128.4890543
 tags:
-  - "sokcho"
-  - "Seoraksan"
-quickAnswer: "The Seoraksan Cable Car whisks visitors from the base station near Sogongwon Park up to Gwongeumseong Fortress ridge on Mt. Gwonggeumseong (about 705m) in roughly 6 minutes, saving hours of steep hiking. Arrive early (before 9am) or go on a weekday to avoid the long ticket lines, and budget about 1–1.5 hours round-trip including the short climb to the fortress viewpoint. Clear autumn mornings (mid-to-late October) offer the best visibility over Seoraksan National Park and the East Sea."
+  - sokcho
+  - Seoraksan
+quickAnswer: The Seoraksan Cable Car whisks visitors from the base station near Sogongwon Park up to Gwongeumseong Fortress ridge on Mt. Gwonggeumseong (about 705m) in roughly 6 minutes, saving hours of steep hiking. Arrive early (before 9am) or go on a weekday to avoid the long ticket lines, and budget about 1–1.5 hours round-trip including the short climb to the fortress viewpoint. Clear autumn mornings (mid-to-late October) offer the best visibility over Seoraksan National Park and the East Sea.
 faq:
-  - q: "How long does the cable car ride take?"
-    a: "The ascent takes about 6 minutes each way; including the short climb to Gwongeumseong Fortress and time at the viewpoint, plan for 1 to 1.5 hours round-trip."
-  - q: "How do I get to the cable car from downtown Sokcho?"
-    a: "Take city bus 7 or 7-1 from Sokcho Intercity or Express Bus Terminal to the Seoraksan park entrance, then walk about 5-10 minutes to the base station; a taxi takes roughly 15-20 minutes."
-  - q: "Is the cable car worth it if I'm not hiking Seoraksan?"
-    a: "Yes — it's the main way for non-hikers to get high mountain views quickly, and the short walk up to Gwongeumseong Fortress from the upper station requires no serious hiking experience, just sturdy shoes."
-  - q: "When should I visit to avoid crowds?"
-    a: "Arrive before 9-10am on a weekday if possible; mid-to-late October (peak fall foliage) draws the largest crowds and longest ticket lines."
-  - q: "What else can I see nearby?"
-    a: "Sinheungsa Temple is a 5-minute walk from the cable car entrance, and Sogongwon Park with its ponds and pagoda sits right at the base — both easily combined with the cable car visit."
+  - q: How long does the cable car ride take?
+    a: The ascent takes about 6 minutes each way; including the short climb to Gwongeumseong Fortress and time at the viewpoint, plan for 1 to 1.5 hours round-trip.
+  - q: How do I get to the cable car from downtown Sokcho?
+    a: Take city bus 7 or 7-1 from Sokcho Intercity or Express Bus Terminal to the Seoraksan park entrance, then walk about 5-10 minutes to the base station; a taxi takes roughly 15-20 minutes.
+  - q: Is the cable car worth it if I'm not hiking Seoraksan?
+    a: Yes — it's the main way for non-hikers to get high mountain views quickly, and the short walk up to Gwongeumseong Fortress from the upper station requires no serious hiking experience, just sturdy shoes.
+  - q: When should I visit to avoid crowds?
+    a: Arrive before 9-10am on a weekday if possible; mid-to-late October (peak fall foliage) draws the largest crowds and longest ticket lines.
+  - q: What else can I see nearby?
+    a: Sinheungsa Temple is a 5-minute walk from the cable car entrance, and Sogongwon Park with its ponds and pagoda sits right at the base — both easily combined with the cable car visit.
 aiGenerated: true
 draft: false
 ---

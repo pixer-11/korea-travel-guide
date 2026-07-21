@@ -1,43 +1,37 @@
 ---
-title: "Yangdongmaeul-gil: A Visitor's Guide in Gyeongju"
-description: "A practical visitor's guide to Yangdongmaeul-gil in Gyeongju, Korea. Verified info on location, ratings, and how to get there."
-region: "Gyeongju"
-category: "hidden-gem"
-pubDate: 2026-07-21
+title: 'Yangdongmaeul-gil: A Visitor''s Guide in Gyeongju'
+description: A practical visitor's guide to Yangdongmaeul-gil in Gyeongju, Korea. Verified info on location, ratings, and how to get there.
+region: Gyeongju
+category: hidden-gem
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  title: "2008-Korea-Gyeongju-Yangdong Village-02"
-  index: 8
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2008-Korea-Gyeongju-Yangdong_Village-02.jpg/1920px-2008-Korea-Gyeongju-Yangdong_Village-02.jpg"
-  w: 1600
-  h: 1199
-  featured: false
-  credit: "Photo: Kok Leng Yeo from Singapore, Singapore / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:2008-Korea-Gyeongju-Yangdong_Village-02.jpg"
-  licenseShort: "CC BY 2.0"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2008-Korea-Gyeongju-Yangdong_Village-02.jpg/1920px-2008-Korea-Gyeongju-Yangdong_Village-02.jpg
+  credit: 'Photo: Kok Leng Yeo from Singapore, Singapore / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:2008-Korea-Gyeongju-Yangdong_Village-02.jpg
 gallery: []
 place:
-  id: "ChIJ_RIVrV__ZjURomKKwp73EjM"
-  name: "Yangdongmaeul-gil"
-  address: "Yangdongmaeul-gil, Gangdong-myeon, Gyeongju-si, Gyeongsangbuk-do, South Korea"
-  googleMapsUrl: "https://maps.google.com/?cid=3680276106755859106&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  id: ChIJ_RIVrV__ZjURomKKwp73EjM
+  name: Yangdongmaeul-gil
+  address: Yangdongmaeul-gil, Gangdong-myeon, Gyeongju-si, Gyeongsangbuk-do, South Korea
+  googleMapsUrl: https://maps.google.com/?cid=3680276106755859106&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   lat: 36.000231
   lng: 129.2558464
 tags:
-  - "gyeongju"
-  - "folk village"
-quickAnswer: "Yangdongmaeul-gil is the access road into Yangdong Village, a centuries-old Yangban (noble-class) clan village in Gangdong-myeon, about 40 minutes northeast of central Gyeongju. Go for a half-day, ideally on a weekday morning, to walk quiet lanes between tile-roofed hanok and thatched farmhouses still lived in by descendants of the Son and Lee clans. It's best reached by car or taxi, since bus service is infrequent, and it pairs well with a stop at nearby Oksan Seowon."
+  - gyeongju
+  - folk village
+quickAnswer: Yangdongmaeul-gil is the access road into Yangdong Village, a centuries-old Yangban (noble-class) clan village in Gangdong-myeon, about 40 minutes northeast of central Gyeongju. Go for a half-day, ideally on a weekday morning, to walk quiet lanes between tile-roofed hanok and thatched farmhouses still lived in by descendants of the Son and Lee clans. It's best reached by car or taxi, since bus service is infrequent, and it pairs well with a stop at nearby Oksan Seowon.
 faq:
-  - q: "How do I get to Yangdongmaeul-gil without a car?"
-    a: "Take a bus or taxi from Gyeongju Intercity Bus Terminal; buses run infrequently (often hourly or less), so a taxi or a rental car is more reliable for a same-day round trip."
-  - q: "How much time should I set aside?"
-    a: "Budget 1.5–2 hours to walk the village's main lanes and key houses; add 30–45 minutes if combining with nearby Oksan Seowon."
-  - q: "Is there an entrance fee?"
-    a: "Yes, typically a small ticketed fee at the village entrance, but exact pricing and hours change periodically, so confirm before visiting."
-  - q: "What's the best time of year to visit?"
-    a: "Autumn (October–November) for foliage against the tile and thatched roofs, or spring for blossoms; early weekday mornings offer the fewest crowds year-round."
-  - q: "What else is nearby?"
-    a: "Oksan Seowon, a historic Confucian academy, is about 15 minutes away by car and pairs naturally with a Yangdong Village visit for a half-day trip."
+  - q: How do I get to Yangdongmaeul-gil without a car?
+    a: Take a bus or taxi from Gyeongju Intercity Bus Terminal; buses run infrequently (often hourly or less), so a taxi or a rental car is more reliable for a same-day round trip.
+  - q: How much time should I set aside?
+    a: Budget 1.5–2 hours to walk the village's main lanes and key houses; add 30–45 minutes if combining with nearby Oksan Seowon.
+  - q: Is there an entrance fee?
+    a: Yes, typically a small ticketed fee at the village entrance, but exact pricing and hours change periodically, so confirm before visiting.
+  - q: What's the best time of year to visit?
+    a: Autumn (October–November) for foliage against the tile and thatched roofs, or spring for blossoms; early weekday mornings offer the fewest crowds year-round.
+  - q: What else is nearby?
+    a: Oksan Seowon, a historic Confucian academy, is about 15 minutes away by car and pairs naturally with a Yangdong Village visit for a half-day trip.
 aiGenerated: true
 draft: false
 ---

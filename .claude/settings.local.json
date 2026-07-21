@@ -71,7 +71,15 @@
       "Bash(node -e \"import\\('yaml'\\).then\\(m=>console.log\\('yaml OK', typeof m.parse, typeof m.stringify\\)\\).catch\\(e=>console.log\\('no yaml:', e.code\\)\\)\")",
       "Bash(node scripts/regenerate-content.mjs)",
       "Bash(awk '/^---$/{c++;next} c>=2' src/content/posts/andong-local-restaurant.md)",
-      "Bash(git commit -q -m 'content: regenerate all 50 posts with the deep writer + upgrade region hubs *)"
+      "Bash(git commit -q -m 'content: regenerate all 50 posts with the deep writer + upgrade region hubs *)",
+      "Bash(git commit -q -m 'essentials: deepen visa/transport/money/best-time/emergency pillars *)",
+      "Bash(git ls-tree *)",
+      "Bash(git commit -q -m 'ci: rebase before push in publish/refresh so concurrent pushes don'\\\\''t fail the run *)",
+      "Bash(awk '/^---$/{c++;next} c>=2' src/content/posts/jeju-seongsan-ilchulbong.md)",
+      "Bash(rm src/content/posts/andong-hahoe-folk-village.md)",
+      "Bash(git mv *)",
+      "Bash(mv src/content/posts/andong-andong-hahoe-folk-village.md src/content/posts/andong-hahoe-folk-village.md)",
+      "Bash(git commit -q -m 'images: stop internal Commons fields leaking into frontmatter; clean 12 posts; dedup Hahoe *)"
     ]
   }
 }

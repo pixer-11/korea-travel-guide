@@ -1,46 +1,40 @@
 ---
-title: "The Third Tunnel: A Visitor's Guide in Paju"
-description: "A practical visitor's guide to The Third Tunnel in Paju, Korea. Verified info on location, ratings, and how to get there."
-region: "Paju"
-category: "attraction"
-pubDate: 2026-07-21
+title: 'The Third Tunnel: A Visitor''s Guide in Paju'
+description: A practical visitor's guide to The Third Tunnel in Paju, Korea. Verified info on location, ratings, and how to get there.
+region: Paju
+category: attraction
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  title: "Third Tunnel of Aggression"
-  index: 1
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Third_Tunnel_of_Aggression.jpg/1920px-Third_Tunnel_of_Aggression.jpg"
-  w: 1600
-  h: 1200
-  featured: false
-  credit: "Photo: Josh Berglund / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Third_Tunnel_of_Aggression.jpg"
-  licenseShort: "CC BY 2.0"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Third_Tunnel_of_Aggression.jpg/1920px-Third_Tunnel_of_Aggression.jpg
+  credit: 'Photo: Josh Berglund / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Third_Tunnel_of_Aggression.jpg
 gallery: []
 place:
-  id: "ChIJS3Dv5fXzfDURj3FHEIScjWk"
-  name: "The Third Tunnel"
-  address: "210-358 Je3ttanggul-ro, Gunnae-myeon, Paju-si, Gyeonggi-do, South Korea"
+  id: ChIJS3Dv5fXzfDURj3FHEIScjWk
+  name: The Third Tunnel
+  address: 210-358 Je3ttanggul-ro, Gunnae-myeon, Paju-si, Gyeonggi-do, South Korea
   rating: 4.6
   userRatingsTotal: 3249
-  googleMapsUrl: "https://maps.google.com/?cid=7605907436721369487&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=7605907436721369487&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.916653
   lng: 126.69826090000001
 tags:
-  - "paju"
-  - "DMZ tour"
-quickAnswer: "The Third Tunnel is a North Korean-dug infiltration tunnel inside the DMZ near Paju, best visited as part of a guided half-day or full-day DMZ tour from Seoul (individual entry is restricted). Plan for about 1.5–2 hours on site, wear closed-toe shoes for the underground walk, and bring your passport, which is required for entry to the DMZ zone."
+  - paju
+  - DMZ tour
+quickAnswer: The Third Tunnel is a North Korean-dug infiltration tunnel inside the DMZ near Paju, best visited as part of a guided half-day or full-day DMZ tour from Seoul (individual entry is restricted). Plan for about 1.5–2 hours on site, wear closed-toe shoes for the underground walk, and bring your passport, which is required for entry to the DMZ zone.
 faq:
-  - q: "Can I visit the Third Tunnel on my own without a tour?"
-    a: "No. It sits inside the Civilian Control Zone near the DMZ, so access is restricted to registered tour operators or official shuttle/train programs — independent entry isn't permitted."
-  - q: "Do I need my passport?"
-    a: "Yes, a passport (not just a copy) is required at security checkpoints; entry is refused without it."
-  - q: "How long should I budget for the visit?"
-    a: "About 1.5–2 hours for the tunnel itself, but most people join a half- or full-day DMZ tour (6–8 hours) that also covers Dora Observatory and Dorasan Station."
-  - q: "Is the tunnel walk physically demanding?"
-    a: "It involves a steep monorail or a long sloped walkway down and back up, plus a low-ceilinged underground walk — hard hats are mandatory and helpful, as head bumps are common."
-  - q: "Can I take photos inside the tunnel?"
-    a: "No, photography underground is prohibited; cameras and phones can generally be used at the visitor center and outdoor viewpoints instead."
+  - q: Can I visit the Third Tunnel on my own without a tour?
+    a: No. It sits inside the Civilian Control Zone near the DMZ, so access is restricted to registered tour operators or official shuttle/train programs — independent entry isn't permitted.
+  - q: Do I need my passport?
+    a: Yes, a passport (not just a copy) is required at security checkpoints; entry is refused without it.
+  - q: How long should I budget for the visit?
+    a: About 1.5–2 hours for the tunnel itself, but most people join a half- or full-day DMZ tour (6–8 hours) that also covers Dora Observatory and Dorasan Station.
+  - q: Is the tunnel walk physically demanding?
+    a: It involves a steep monorail or a long sloped walkway down and back up, plus a low-ceilinged underground walk — hard hats are mandatory and helpful, as head bumps are common.
+  - q: Can I take photos inside the tunnel?
+    a: No, photography underground is prohibited; cameras and phones can generally be used at the visitor center and outdoor viewpoints instead.
 aiGenerated: true
 draft: false
 ---

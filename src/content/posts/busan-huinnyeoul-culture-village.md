@@ -1,46 +1,40 @@
 ---
-title: "Huinnyeoul Culture Village: A Visitor's Guide in Busan"
-description: "A practical visitor's guide to Huinnyeoul Culture Village in Busan, Korea. Verified info on location, ratings, and how to get there."
-region: "Busan"
-category: "hidden-gem"
-pubDate: 2026-07-21
+title: 'Huinnyeoul Culture Village: A Visitor''s Guide in Busan'
+description: A practical visitor's guide to Huinnyeoul Culture Village in Busan, Korea. Verified info on location, ratings, and how to get there.
+region: Busan
+category: hidden-gem
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  title: "Huinnyeoul culture village, Busan on October 25th, 2019"
-  index: 2
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Huinnyeoul_culture_village%2C_Busan_on_October_25th%2C_2019.jpg/1920px-Huinnyeoul_culture_village%2C_Busan_on_October_25th%2C_2019.jpg"
-  w: 1600
-  h: 1200
-  featured: false
-  credit: "Photo: Choi2451 / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Huinnyeoul_culture_village,_Busan_on_October_25th,_2019.jpg"
-  licenseShort: "CC0"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Huinnyeoul_culture_village%2C_Busan_on_October_25th%2C_2019.jpg/1920px-Huinnyeoul_culture_village%2C_Busan_on_October_25th%2C_2019.jpg
+  credit: 'Photo: Choi2451 / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Huinnyeoul_culture_village,_Busan_on_October_25th,_2019.jpg
 gallery: []
 place:
-  id: "ChIJseGsfh7paDURigYilgTVojA"
-  name: "Huinnyeoul Culture Village"
-  address: "1043 Yeongseon-dong 4(sa)-ga, Yeongdo-gu, Busan, South Korea"
+  id: ChIJseGsfh7paDURigYilgTVojA
+  name: Huinnyeoul Culture Village
+  address: 1043 Yeongseon-dong 4(sa)-ga, Yeongdo-gu, Busan, South Korea
   rating: 4.4
   userRatingsTotal: 8886
-  googleMapsUrl: "https://maps.google.com/?cid=3504597675723064970&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=3504597675723064970&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.0782798
   lng: 129.0453198
 tags:
-  - "busan"
-  - "Huinnyeoul village"
-quickAnswer: "Huinnyeoul Culture Village is a small seaside neighborhood on Yeongdo Island in Busan, best reached by bus (there's no direct subway) and best explored on foot in 1–1.5 hours. Come for the narrow cliffside alleys, mural-covered walls, and a rocky waterfront walkway with views toward Jeoryeong Bay — pair it with nearby Jeoryeong Coastal Walk or Bongnae Mountain for a half-day out. Go in late afternoon for softer light on the sea and thinner crowds than Gamcheon Culture Village."
+  - busan
+  - Huinnyeoul village
+quickAnswer: Huinnyeoul Culture Village is a small seaside neighborhood on Yeongdo Island in Busan, best reached by bus (there's no direct subway) and best explored on foot in 1–1.5 hours. Come for the narrow cliffside alleys, mural-covered walls, and a rocky waterfront walkway with views toward Jeoryeong Bay — pair it with nearby Jeoryeong Coastal Walk or Bongnae Mountain for a half-day out. Go in late afternoon for softer light on the sea and thinner crowds than Gamcheon Culture Village.
 faq:
-  - q: "How do I get to Huinnyeoul Culture Village without a car?"
-    a: "Take a local bus from Nampo-dong or Busan Station across Yeongdo Bridge (check current route numbers via a transit app, as there's no direct subway), or take a taxi, which takes about 10–15 minutes from central Busan."
-  - q: "Is there an entrance fee?"
-    a: "The village itself is a free, open neighborhood to walk through; only specific small attractions like the Slate House museum may have a minimal admission, so confirm on arrival."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors spend 60–90 minutes walking the alleys and coastal path; add extra time if combining with Jeoryeong Coastal Walk or Bongnae Mountain nearby."
-  - q: "What's the best time of day to visit?"
-    a: "Late afternoon into early evening gives the softest light on the sea and thinner crowds; weekends around midday are the busiest."
-  - q: "How is it different from Gamcheon Culture Village?"
-    a: "Huinnyeoul is smaller and centered on a dramatic seaside walking path rather than Gamcheon's larger hillside maze of colorful houses, and it tends to draw fewer tour groups."
+  - q: How do I get to Huinnyeoul Culture Village without a car?
+    a: Take a local bus from Nampo-dong or Busan Station across Yeongdo Bridge (check current route numbers via a transit app, as there's no direct subway), or take a taxi, which takes about 10–15 minutes from central Busan.
+  - q: Is there an entrance fee?
+    a: The village itself is a free, open neighborhood to walk through; only specific small attractions like the Slate House museum may have a minimal admission, so confirm on arrival.
+  - q: How long should I plan to spend there?
+    a: Most visitors spend 60–90 minutes walking the alleys and coastal path; add extra time if combining with Jeoryeong Coastal Walk or Bongnae Mountain nearby.
+  - q: What's the best time of day to visit?
+    a: Late afternoon into early evening gives the softest light on the sea and thinner crowds; weekends around midday are the busiest.
+  - q: How is it different from Gamcheon Culture Village?
+    a: Huinnyeoul is smaller and centered on a dramatic seaside walking path rather than Gamcheon's larger hillside maze of colorful houses, and it tends to draw fewer tour groups.
 aiGenerated: true
 draft: false
 ---
