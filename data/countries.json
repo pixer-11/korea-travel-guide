@@ -152,6 +152,78 @@
         "Bilbao"
       ],
       "continent": "Europe"
+    },
+    {
+      "name": "Vietnam",
+      "slug": "vietnam",
+      "flag": "🇻🇳",
+      "active": true,
+      "blurb": "Motorbike-buzzing cities, emerald Ha Long Bay, terraced rice fields, French-colonial streets, and some of Asia's best street food.",
+      "regions": ["Hanoi", "Ho Chi Minh City", "Da Nang", "Hoi An", "Ha Long Bay", "Nha Trang", "Hue", "Phu Quoc"],
+      "continent": "Asia"
+    },
+    {
+      "name": "United Arab Emirates",
+      "slug": "united-arab-emirates",
+      "flag": "🇦🇪",
+      "active": true,
+      "blurb": "Futuristic Dubai skylines, desert safaris, gold souks and grand mosques, and record-breaking towers rising from the Gulf.",
+      "regions": ["Dubai", "Abu Dhabi", "Sharjah", "Ras Al Khaimah", "Al Ain", "Fujairah", "Ajman"],
+      "continent": "Asia"
+    },
+    {
+      "name": "Taiwan",
+      "slug": "taiwan",
+      "flag": "🇹🇼",
+      "active": true,
+      "blurb": "Night-market feasts, hot springs and towering peaks, temple towns and Taipei's neon buzz — friendly, compact, and easy to explore.",
+      "regions": ["Taipei", "New Taipei", "Taichung", "Tainan", "Kaohsiung", "Hualien", "Jiufen"],
+      "continent": "Asia"
+    },
+    {
+      "name": "Indonesia",
+      "slug": "indonesia",
+      "flag": "🇮🇩",
+      "active": true,
+      "blurb": "Bali's rice terraces and beaches, volcano sunrises, Komodo dragons, and thousands of islands of temples, surf and jungle.",
+      "regions": ["Bali", "Jakarta", "Yogyakarta", "Bandung", "Lombok", "Labuan Bajo", "Surabaya"],
+      "continent": "Asia"
+    },
+    {
+      "name": "Malaysia",
+      "slug": "malaysia",
+      "flag": "🇲🇾",
+      "active": true,
+      "blurb": "Kuala Lumpur's towers, island beaches, rainforest and tea highlands, and a street-food scene where Malay, Chinese and Indian flavors meet.",
+      "regions": ["Kuala Lumpur", "Penang", "Langkawi", "Malacca", "Kota Kinabalu", "Ipoh", "Johor Bahru"],
+      "continent": "Asia"
+    },
+    {
+      "name": "India",
+      "slug": "india",
+      "flag": "🇮🇳",
+      "active": true,
+      "blurb": "The Taj Mahal and pink-city palaces, Himalayan foothills and backwaters, dazzling festivals, and food that changes every few hundred kilometers.",
+      "regions": ["New Delhi", "Mumbai", "Jaipur", "Agra", "Goa", "Bengaluru", "Varanasi", "Udaipur"],
+      "continent": "Asia"
+    },
+    {
+      "name": "Philippines",
+      "slug": "philippines",
+      "flag": "🇵🇭",
+      "active": true,
+      "blurb": "Thousands of islands of white-sand beaches and turquoise lagoons, world-class diving, rice terraces, and warm, English-friendly hospitality.",
+      "regions": ["Manila", "Cebu", "Boracay", "Palawan", "Bohol", "Siargao", "Davao"],
+      "continent": "Asia"
+    },
+    {
+      "name": "Turkey",
+      "slug": "turkey",
+      "flag": "🇹🇷",
+      "active": true,
+      "blurb": "Istanbul where two continents meet, Cappadocia's balloon-filled skies, turquoise coasts and ancient ruins, and legendary bazaar and food culture.",
+      "regions": ["Istanbul", "Cappadocia", "Antalya", "Izmir", "Bodrum", "Ankara", "Pamukkale"],
+      "continent": "Asia"
     }
   ]
 }
