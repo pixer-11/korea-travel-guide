@@ -68,7 +68,10 @@ export async function resolveHero({ namedVenue, region, topic, place, used, allo
       (await commonsBest(namedVenue, { mustInclude: [anchor], used }));
     if (byName) return mark(byName, used);
 
-    if (place?.photos?.length) {
+    // Google Places photos ARE the actual venue, but the returned photoUri
+    // EXPIRES within hours — unusable on a static site unless self-hosted.
+    // Off by default; the Wikimedia/Unsplash URLs below are permanent.
+    if (process.env.USE_PLACES_PHOTO === '1' && place?.photos?.length) {
       try {
         const img = await getPlacePhoto(place.photos[0]);
         if (img?.url && (!used || !used.has(img.url))) return mark(img, used);
