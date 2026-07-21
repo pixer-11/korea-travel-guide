@@ -1,0 +1,63 @@
+---
+// Client-side search over the build-time index (/search.json). Type a country,
+// city, or place name and jump straight to it.
+---
+<div class="site-search" data-search>
+  <svg class="search-ico" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7" /><line x1="21" y1="21" x2="16.65" y2="16.65" /></svg>
+  <input type="search" class="search-input" placeholder="Search a country, city, or place…" autocomplete="off" spellcheck="false" aria-label="Search destinations" />
+  <div class="search-results" role="listbox" hidden></div>
+</div>
+
+<script>
+  document.querySelectorAll('[data-search]').forEach((box) => {
+    const input = box.querySelector('.search-input') as HTMLInputElement;
+    const panel = box.querySelector('.search-results') as HTMLElement;
+    let index: { t: string; s: string; u: string; k: string }[] | null = null;
+    let loading = false;
+
+    async function load() {
+      if (index || loading) return;
+      loading = true;
+      try {
+        const res = await fetch('/search.json');
+        index = await res.json();
+      } catch { index = []; }
+      loading = false;
+    }
+
+    function render(q: string) {
+      if (!index) return;
+      const query = q.trim().toLowerCase();
+      if (!query) { panel.hidden = true; panel.innerHTML = ''; return; }
+      const rank = { Country: 0, City: 1, Event: 2, Guide: 3 } as Record<string, number>;
+      const hits = index
+        .filter((i) => i.t.toLowerCase().includes(query) || i.s.toLowerCase().includes(query))
+        .sort((a, b) => {
+          const as = a.t.toLowerCase().startsWith(query) ? 0 : 1;
+          const bs = b.t.toLowerCase().startsWith(query) ? 0 : 1;
+          return as - bs || (rank[a.k] ?? 9) - (rank[b.k] ?? 9) || a.t.length - b.t.length;
+        })
+        .slice(0, 8);
+      if (!hits.length) {
+        panel.innerHTML = '<div class="search-empty">No matches — try a country or city.</div>';
+      } else {
+        panel.innerHTML = hits
+          .map((i) => `<a href="${i.u}" role="option"><span class="sr-kind">${i.k}</span><span class="sr-t">${i.t}</span><span class="sr-s">${i.s}</span></a>`)
+          .join('');
+      }
+      panel.hidden = false;
+    }
+
+    input.addEventListener('focus', load);
+    input.addEventListener('input', () => render(input.value));
+    input.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        const first = panel.querySelector('a') as HTMLAnchorElement | null;
+        if (first) window.location.href = first.href;
+      } else if (e.key === 'Escape') { panel.hidden = true; }
+    });
+    document.addEventListener('click', (e) => {
+      if (!box.contains(e.target as Node)) panel.hidden = true;
+    });
+  });
+</script>

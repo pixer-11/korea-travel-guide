@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from '../components/PostCard.astro';
 import Newsletter from '../components/Newsletter.astro';
+import Search from '../components/Search.astro';
 import { SITE } from '../siteConfig';
 import countriesData from '../../data/countries.json';
 import wallData from '../../data/wall.json';
@@ -85,6 +86,7 @@ const koreaLinks = [
         Honest, editor-reviewed guides — where to go, what to eat, and how to get
         around. We go deep on one country at a time, starting with South Korea.
       </p>
+      <Search />
       <div class="cover-cta-row">
         <a class="cover-cta" href="/destinations">Explore destinations <span class="arw">→</span></a>
         {cover && <a class="cover-cta cover-cta-soft" href={`/posts/${cover.id}`}>Featured: {cover.data.region} <span class="arw">→</span></a>}
