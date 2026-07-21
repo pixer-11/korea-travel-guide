@@ -4,7 +4,7 @@ name: Discover current events (web search)
 # sports, festivals, exhibitions) and publish timely guides for new ones.
 on:
   schedule:
-    - cron: '0 20 * * 3' # Wednesdays 20:00 UTC
+    - cron: '37 20 * * 3' # Wednesdays 20:37 UTC (off the hour)
   workflow_dispatch: {}
 
 permissions:

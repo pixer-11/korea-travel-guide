@@ -7,7 +7,7 @@ name: Check affiliate program status
 # approval, so this is purely a notification.
 on:
   schedule:
-    - cron: '0 8 * * *' # 08:00 UTC daily
+    - cron: '11 7 * * *' # 07:11 UTC daily (off the hour)
   workflow_dispatch:
 
 permissions:

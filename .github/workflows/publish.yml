@@ -4,7 +4,7 @@ name: Auto-generate & publish posts
 # and the deploy (Cloudflare Pages / Vercel) picks up the push.
 on:
   schedule:
-    - cron: '0 22 * * *' # 22:00 UTC daily = 07:00 KST
+    - cron: '19 21 * * *' # 21:19 UTC daily (off the hour — GitHub drops :00 crons)
   workflow_dispatch: # lets you run it manually from the Actions tab
     inputs:
       count:

@@ -5,7 +5,7 @@ name: Refresh essentials (web check)
 # lastReviewed date. Legal specifics always defer to the official links in-page.
 on:
   schedule:
-    - cron: '0 6 1 * *' # 1st of the month, 06:00 UTC
+    - cron: '29 6 1 * *' # 1st of the month, 06:29 UTC (off the hour)
   workflow_dispatch: {}
 
 permissions:

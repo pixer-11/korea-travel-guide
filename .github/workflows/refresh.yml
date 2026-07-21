@@ -4,7 +4,7 @@ name: Refresh existing posts (freshness)
 # ratings/hours, and auto-unpublish anything that has closed.
 on:
   schedule:
-    - cron: '0 21 * * 0' # Sundays 21:00 UTC
+    - cron: '33 20 * * 0' # Sundays 20:33 UTC (off the hour)
   workflow_dispatch: {}
 
 permissions:

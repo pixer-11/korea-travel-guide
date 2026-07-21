@@ -10,7 +10,7 @@ name: Backfill countries to target
 # it gets a fresh daily allowance. The normal 8/day publish.yml runs at 22:00 UTC.
 on:
   schedule:
-    - cron: '0 9 * * *' # 09:00 UTC daily, just after quota reset
+    - cron: '43 8 * * *' # 08:43 UTC daily (off the hour), just after Places quota reset
   workflow_dispatch:
     inputs:
       count:
