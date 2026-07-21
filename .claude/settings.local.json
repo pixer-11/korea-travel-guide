@@ -62,7 +62,11 @@
       "Bash(git commit -q -m 'images: match topic-as-placename via Commons \\(dakgalbi, Abai, Seongsu, etc.\\) *)",
       "Bash(git commit -q -m 'images: real Commons photos for Nami Island + Aewol *)",
       "Bash(git commit -q -m 'images: beauty curation — drop drab subjects, keep Commons relevance, prefer quality *)",
-      "Bash(git commit -q -m 'posts: add a Google Maps link to every post \\(search link on placeless posts\\) *)"
+      "Bash(git commit -q -m 'posts: add a Google Maps link to every post \\(search link on placeless posts\\) *)",
+      "Bash(gh workflow *)",
+      "Bash(git commit -q -m 'images: gate Places photos behind USE_PLACES_PHOTO \\(they expire; keep permanent URLs\\) *)",
+      "Bash(git stash *)",
+      "Bash(git commit -q -m 'seo/eeat: internal linking, editorial byline, honest dates, safe schema, alt text *)"
     ]
   }
 }

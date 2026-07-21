@@ -49,7 +49,7 @@ const orgLd = {
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>{title} · {siteName}</title>
+    <title>{title.includes(siteName) ? title : `${title} · ${siteName}`}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
     <!-- Allow large image previews (required for Google Discover cards) -->

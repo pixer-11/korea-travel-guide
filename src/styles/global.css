@@ -469,6 +469,18 @@ main { flex: 1; width: 100%; }
 .map-cta { margin: 1.75rem 0; }
 .map-cta .map-btn { margin-top: 0; }
 
+.byline { margin-top: 0.9rem; font-size: 0.85rem; color: var(--muted); line-height: 1.5; }
+.byline a { color: var(--muted); text-decoration: underline; text-underline-offset: 2px; }
+.byline a:hover { color: var(--accent); }
+
+.related { margin-top: 3rem; border-top: 1px solid var(--line); padding-top: 1.5rem; }
+.related h2 { font-size: 1.25rem; margin-bottom: 0.9rem; }
+.related ul { list-style: none; padding: 0; margin: 0; display: grid; gap: 0.6rem; }
+.related li { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; }
+.related a { font-weight: 600; color: var(--ink); text-decoration: none; border-bottom: 1px solid transparent; }
+.related a:hover { border-bottom-color: var(--accent); color: var(--accent); }
+.related .rel-region { font-size: 0.78rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.04em; white-space: nowrap; }
+
 .disclosure {
   margin-top: 2.5rem;
   padding-top: 1.2rem;

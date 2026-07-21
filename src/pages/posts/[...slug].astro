@@ -30,6 +30,19 @@ const placeType =
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
 const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
 
+// Related guides for internal linking (session depth + crawl equity). Score by
+// same region (strong) then same category; stable tie-break so builds don't churn.
+const related = (await getCollection('posts', ({ data }) => !data.draft))
+  .filter((r) => r.id !== post.id)
+  .map((r) => ({
+    r,
+    score: (r.data.region === d.region ? 2 : 0) + (r.data.category === d.category ? 1 : 0),
+  }))
+  .filter((x) => x.score > 0)
+  .sort((a, b) => b.score - a.score || (b.r.data.pubDate > a.r.data.pubDate ? 1 : -1))
+  .slice(0, 4)
+  .map((x) => x.r);
+
 // ---- Structured data graph (Article + Place + FAQ + Breadcrumbs) ----
 const graph: Record<string, unknown>[] = [
   {
@@ -61,10 +74,10 @@ if (p?.name) {
       ? { '@type': 'PostalAddress', streetAddress: p.address, addressCountry: 'KR' }
       : undefined,
     geo: p.lat && p.lng ? { '@type': 'GeoCoordinates', latitude: p.lat, longitude: p.lng } : undefined,
-    aggregateRating:
-      p.rating && p.userRatingsTotal
-        ? { '@type': 'AggregateRating', ratingValue: p.rating, reviewCount: p.userRatingsTotal }
-        : undefined,
+    // NOTE: we deliberately do NOT emit aggregateRating here. The rating is
+    // Google's, not review data we host, so marking it up as our own would
+    // violate Google's review-snippet policy (manual-action risk). We still
+    // SHOW the rating on-page, clearly attributed to Google.
     priceRange: typeof p.priceLevel === 'number' ? priceLabels[p.priceLevel] : undefined,
     hasMap: p.googleMapsUrl,
   });
@@ -104,15 +117,18 @@ const jsonLd = { '@context': 'https://schema.org', '@graph': graph };
         <span>{d.region}</span>
         <span>·</span>
         <time datetime={updated.toISOString()}>
-          Updated {updated.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+          {d.updatedDate ? 'Updated' : 'Published'} {updated.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
         </time>
       </div>
       <h1>{d.title}</h1>
+      <p class="byline">
+        By the <a href="/about">Korea Travel Guide editorial team</a> · AI-assisted, reviewed against live Google&nbsp;Places and official sources
+      </p>
     </div>
 
     {d.heroImage && (
       <figure class="article-hero">
-        <img src={d.heroImage.url} alt={d.title} />
+        <img src={d.heroImage.url} alt={p?.name ? `${p.name} in ${d.region}, South Korea` : `${(d.tags && d.tags[1]) || d.category} in ${d.region}, South Korea`} />
         {d.heroImage.credit && (
           <figcaption>
             {d.heroImage.source?.startsWith('http') ? (
@@ -191,6 +207,20 @@ const jsonLd = { '@context': 'https://schema.org', '@graph': graph };
             <p>{f.a}</p>
           </details>
         ))}
+      </section>
+    )}
+
+    {related.length > 0 && (
+      <section class="related">
+        <h2>Related guides</h2>
+        <ul>
+          {related.map((r) => (
+            <li>
+              <a href={`/posts/${r.id}`}>{r.data.title}</a>
+              <span class="rel-region">{r.data.region}</span>
+            </li>
+          ))}
+        </ul>
       </section>
     )}
 
