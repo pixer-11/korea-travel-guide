@@ -6,7 +6,7 @@ import react from '@astrojs/react';
 
 // IMPORTANT: change this to your real domain before deploying.
 // It is used for canonical URLs, sitemap, and Open Graph tags.
-const SITE = process.env.SITE_URL || 'https://example.com';
+const SITE = process.env.SITE_URL || 'https://korea-travel-guide.pixer-vtm.workers.dev';
 
 export default defineConfig({
   site: SITE,
