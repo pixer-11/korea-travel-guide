@@ -1,0 +1,8 @@
+{
+  // Cloudflare Workers static-assets config — serves the built Astro site.
+  "name": "korea-travel-guide",
+  "compatibility_date": "2025-01-01",
+  "assets": {
+    "directory": "./dist"
+  }
+}
