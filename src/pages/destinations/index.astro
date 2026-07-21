@@ -5,7 +5,15 @@ import { SITE } from '../../siteConfig';
 import countriesData from '../../../data/countries.json';
 
 const posts = await getCollection('posts', ({ data }) => !data.draft);
+posts.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
 const countFor = (name) => posts.filter((p) => (p.data.country ?? 'South Korea') === name).length;
+// Representative photo per country — its newest real (non-placeholder) hero.
+const repImage = (name) => {
+  const p = posts.find(
+    (p) => (p.data.country ?? 'South Korea') === name && p.data.heroImage?.url && !p.data.heroImage.url.includes('placeholder')
+  );
+  return p?.data.heroImage?.url ?? '';
+};
 const countries = countriesData.countries.map((c) => ({ ...c, count: countFor(c.name) }));
 
 // Group by continent → scalable as more countries are added.
@@ -55,7 +63,9 @@ const jsonLd = {
             {cont.countries.map((c) => (
               c.count > 0 ? (
                 <a class="country-card is-live" href={`/destinations/${c.slug}`}>
-                  <span class="country-flag">{c.flag}</span>
+                  <div class="country-photo" style={`background-image:url(${repImage(c.name)})`}>
+                    <span class="country-flag">{c.flag}</span>
+                  </div>
                   <div class="country-body">
                     <h3>{c.name}</h3>
                     <p>{c.blurb}</p>
@@ -64,7 +74,7 @@ const jsonLd = {
                 </a>
               ) : (
                 <div class="country-card is-soon">
-                  <span class="country-flag">{c.flag}</span>
+                  <div class="country-photo"><span class="country-flag">{c.flag}</span></div>
                   <div class="country-body">
                     <h3>{c.name}</h3>
                     <p>{c.blurb}</p>

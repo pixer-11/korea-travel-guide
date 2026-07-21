@@ -42,6 +42,14 @@ const heroPost = posts.find(
 );
 const heroImg = heroPost?.data.heroImage?.url ?? '';
 
+// A representative photo per country — its newest real (non-placeholder) hero.
+const repImage = (name) => {
+  const p = posts.find(
+    (p) => (p.data.country ?? 'South Korea') === name && p.data.heroImage?.url && !p.data.heroImage.url.includes('placeholder')
+  );
+  return p?.data.heroImage?.url ?? '';
+};
+
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
 const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
 const jsonLd = {
@@ -77,7 +85,9 @@ const jsonLd = {
         {countries.map((c) => (
           c.count > 0 ? (
             <a class="country-card is-live" href={`/destinations/${c.slug}`}>
-              <span class="country-flag">{c.flag}</span>
+              <div class="country-photo" style={`background-image:url(${repImage(c.name)})`}>
+                <span class="country-flag">{c.flag}</span>
+              </div>
               <div class="country-body">
                 <h3>{c.name}</h3>
                 <p>{c.blurb}</p>
@@ -86,7 +96,7 @@ const jsonLd = {
             </a>
           ) : (
             <div class="country-card is-soon">
-              <span class="country-flag">{c.flag}</span>
+              <div class="country-photo"><span class="country-flag">{c.flag}</span></div>
               <div class="country-body">
                 <h3>{c.name}</h3>
                 <p>{c.blurb}</p>
