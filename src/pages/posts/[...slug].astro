@@ -150,6 +150,23 @@ const jsonLd = { '@context': 'https://schema.org', '@graph': graph };
       </div>
     )}
 
+    {!(p && p.googleMapsUrl) && d.region && (
+      <p class="map-cta">
+        <a
+          class="btn btn-primary map-btn"
+          href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
+            [p?.name, (d.tags && d.tags[1]) || d.category, d.region, 'South Korea']
+              .filter(Boolean)
+              .join(' ')
+          )}`}
+          target="_blank"
+          rel="noopener nofollow"
+        >
+          📍 Explore on Google Maps
+        </a>
+      </p>
+    )}
+
     <div class="prose">
       <Content />
     </div>

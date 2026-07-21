@@ -466,6 +466,8 @@ main { flex: 1; width: 100%; }
 .stars { color: var(--gold); }
 
 .map-btn { margin-top: 1.2rem; }
+.map-cta { margin: 1.75rem 0; }
+.map-cta .map-btn { margin-top: 0; }
 
 .disclosure {
   margin-top: 2.5rem;
