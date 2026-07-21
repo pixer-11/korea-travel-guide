@@ -1,28 +1,48 @@
 ---
-title: "Bamboo Forest in Damyang: A Visitor's Guide"
-description: "A practical visitor's guide to bamboo forest in Damyang, Korea — what to expect, how to get around, and tips for your visit."
-region: "Damyang"
-category: "attraction"
-pubDate: 2026-07-20
+title: 'Bamboo Forest in Damyang: A Visitor''s Guide'
+description: >-
+  A practical visitor's guide to bamboo forest in Damyang, Korea — what to
+  expect, how to get around, and tips for your visit.
+region: Damyang
+category: attraction
+pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8YmFtYm9vJTIwZm9yZXN0fGVufDB8MHx8fDE3ODQ1NjU1NTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  credit: "Photo: Marita Kavelashvili on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/photos/aerial-photo-of-green-trees-ugnrXk1129g"
+  url: >-
+    https://images.unsplash.com/photo-1747748027743-ba5453b7d2a7?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8RGFteWFuZyUyMFNvdXRoJTIwS29yZWF8ZW58MHwwfHx8MTc4NDU5NzIzNnww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Sung Jin Cho on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@mbuff?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - "damyang"
-  - "bamboo forest"
-quickAnswer: "Juknokwon is Damyang's signature bamboo forest, a network of shaded walking paths through tall bamboo groves on the edge of town. Plan for a half-day visit combining the forest with the nearby riverside area, wear comfortable shoes, and go early or late in the day to avoid tour groups and midday heat."
+  - damyang
+  - bamboo forest
+quickAnswer: >-
+  Juknokwon is Damyang's signature bamboo forest, a network of shaded walking
+  paths through tall bamboo groves on the edge of town. Plan for a half-day
+  visit combining the forest with the nearby riverside area, wear comfortable
+  shoes, and go early or late in the day to avoid tour groups and midday heat.
 faq:
-  - q: "How long should I plan to spend at the bamboo forest?"
-    a: "Most visitors spend one to two hours walking the trails, but allowing a half-day lets you also explore the nearby riverside area without feeling rushed."
-  - q: "Is Juknokwon easy to reach without a car?"
-    a: "Yes — most travelers arrive in Damyang by intercity bus (often via Gwangju) and then reach the forest area by a short walk or local taxi from the town center."
-  - q: "What's the best time of year to visit?"
-    a: "The forest offers shade year-round, making it especially pleasant in summer heat, though spring and autumn bring more comfortable walking temperatures overall."
-  - q: "Are the walking paths suitable for kids or older visitors?"
-    a: "Generally yes, as the trails are well-maintained and not overly strenuous, though some sections may have mild slopes or uneven ground worth keeping in mind."
+  - q: How long should I plan to spend at the bamboo forest?
+    a: >-
+      Most visitors spend one to two hours walking the trails, but allowing a
+      half-day lets you also explore the nearby riverside area without feeling
+      rushed.
+  - q: Is Juknokwon easy to reach without a car?
+    a: >-
+      Yes — most travelers arrive in Damyang by intercity bus (often via
+      Gwangju) and then reach the forest area by a short walk or local taxi from
+      the town center.
+  - q: What's the best time of year to visit?
+    a: >-
+      The forest offers shade year-round, making it especially pleasant in
+      summer heat, though spring and autumn bring more comfortable walking
+      temperatures overall.
+  - q: Are the walking paths suitable for kids or older visitors?
+    a: >-
+      Generally yes, as the trails are well-maintained and not overly strenuous,
+      though some sections may have mild slopes or uneven ground worth keeping
+      in mind.
 aiGenerated: true
 draft: false
 ---

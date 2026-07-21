@@ -8,11 +8,11 @@ category: trendy
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
   url: >-
-    https://images.unsplash.com/photo-1549221428-495f00892696?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8dHJlbmR5JTIwY2FmZSUyMERhZWd1JTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTkxODgxfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Bundo Kim on Unsplash
+    https://images.unsplash.com/photo-1579858737164-f5345c1394e9?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8dHJlbmR5JTIwY2FmZSUyMERhZWd1JTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTk3MjM1fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Arisya Akma on Unsplash
   license: unsplash
   source: >-
-    https://unsplash.com/@bundo?utm_source=korea_travel_guide&utm_medium=referral
+    https://unsplash.com/@arisyaakma?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - daegu

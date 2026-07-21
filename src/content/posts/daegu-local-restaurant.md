@@ -8,11 +8,11 @@ category: restaurant
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
   url: >-
-    https://images.unsplash.com/photo-1549221428-495f00892696?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8bG9jYWwlMjByZXN0YXVyYW50JTIwRGFlZ3UlMjBTb3V0aCUyMEtvcmVhfGVufDB8MHx8fDE3ODQ1OTE4ODB8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Bundo Kim on Unsplash
+    https://images.unsplash.com/photo-1641773861272-d2ce368924bc?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8bG9jYWwlMjByZXN0YXVyYW50JTIwRGFlZ3UlMjBTb3V0aCUyMEtvcmVhfGVufDB8MHx8fDE3ODQ1OTcyMzN8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Joyce Jiang on Unsplash
   license: unsplash
   source: >-
-    https://unsplash.com/@bundo?utm_source=korea_travel_guide&utm_medium=referral
+    https://unsplash.com/@joycejiang?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - daegu

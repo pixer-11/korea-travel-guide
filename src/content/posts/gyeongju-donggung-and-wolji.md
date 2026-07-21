@@ -8,7 +8,7 @@ category: attraction
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
   url: >-
-    https://images.unsplash.com/photo-1669764372822-3cb8476d4f47?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8RG9uZ2d1bmclMjBhbmQlMjBXb2xqaSUyMEd5ZW9uZ2p1JTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTkxODg1fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+    https://images.unsplash.com/photo-1669764372822-3cb8476d4f47?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8RG9uZ2d1bmclMjBhbmQlMjBXb2xqaSUyMEd5ZW9uZ2p1JTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTk3MjM4fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
   credit: Photo by john ko on Unsplash
   license: unsplash
   source: >-

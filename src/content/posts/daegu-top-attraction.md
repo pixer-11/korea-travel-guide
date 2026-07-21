@@ -8,7 +8,7 @@ category: attraction
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
   url: >-
-    https://images.unsplash.com/photo-1609455677069-6830c8f2ee52?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8dG9wJTIwYXR0cmFjdGlvbiUyMERhZWd1JTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTkxODgxfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+    https://images.unsplash.com/photo-1609455677069-6830c8f2ee52?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8dG9wJTIwYXR0cmFjdGlvbiUyMERhZWd1JTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTk3MjM0fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
   credit: Photo by Danielle Austria on Unsplash
   license: unsplash
   source: >-

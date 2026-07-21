@@ -1,28 +1,49 @@
 ---
-title: "Aewol Cafes in Jeju: A Visitor's Guide"
-description: "A practical visitor's guide to Aewol cafes in Jeju, Korea — what to expect, how to get around, and tips for your visit."
-region: "Jeju"
-category: "trendy"
-pubDate: 2026-07-20
+title: 'Aewol Cafes in Jeju: A Visitor''s Guide'
+description: >-
+  A practical visitor's guide to Aewol cafes in Jeju, Korea — what to expect,
+  how to get around, and tips for your visit.
+region: Jeju
+category: trendy
+pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1647484568779-29708a8c1f7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8QWV3b2wlMjBjYWZlc3xlbnwwfDB8fHwxNzg0NTY1Mzg1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  credit: "Photo: oning on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/photos/two-cups-of-coffee-on-a-table-with-a-view-of-the-ocean-0fn738pHrgQ"
+  url: >-
+    https://images.unsplash.com/photo-1701178086825-c1ca5fab2f34?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SmVqdSUyMFNvdXRoJTIwS29yZWF8ZW58MHwwfHx8MTc4NDU5NzI0NXww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Hongbin on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@hbsun2013?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - "jeju"
-  - "Aewol cafes"
-quickAnswer: "Aewol's coastal cafe street, on Jeju's northwest coast about 20–30 minutes from Jeju City, is best visited on a clear day for ocean views, ideally on foot or by bike along the shoreline. Go on a weekday morning to beat crowds and parking headaches, and treat it as a slow half-day of cafe-hopping, coastal walking, and photo stops rather than a single-destination visit."
+  - jeju
+  - Aewol cafes
+quickAnswer: >-
+  Aewol's coastal cafe street, on Jeju's northwest coast about 20–30 minutes
+  from Jeju City, is best visited on a clear day for ocean views, ideally on
+  foot or by bike along the shoreline. Go on a weekday morning to beat crowds
+  and parking headaches, and treat it as a slow half-day of cafe-hopping,
+  coastal walking, and photo stops rather than a single-destination visit.
 faq:
-  - q: "How do I get to Aewol without a rental car?"
-    a: "Public buses run along Jeju's coastal road between Jeju City and Aewol, though service can be infrequent, so build in extra travel time or consider a taxi for more flexibility."
-  - q: "Is Aewol cafe street one street or spread out?"
-    a: "It's more of a scattered cluster of cafes along the coastal road and nearby lanes near Aewol Harbor rather than a single continuous strip, so plan to walk between several spots."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Weekday mornings tend to be quieter, with easier parking, compared to weekends and holidays when the area draws heavier domestic and international visitor traffic."
-  - q: "What makes Aewol's cafes distinct from those in Jeju City?"
-    a: "Aewol's cafes are known for ocean-facing architecture, large windows, and terraces designed around coastal views, offering a slower, more scenic experience than Jeju City's commercial cafe districts."
+  - q: How do I get to Aewol without a rental car?
+    a: >-
+      Public buses run along Jeju's coastal road between Jeju City and Aewol,
+      though service can be infrequent, so build in extra travel time or
+      consider a taxi for more flexibility.
+  - q: Is Aewol cafe street one street or spread out?
+    a: >-
+      It's more of a scattered cluster of cafes along the coastal road and
+      nearby lanes near Aewol Harbor rather than a single continuous strip, so
+      plan to walk between several spots.
+  - q: When is the best time to visit to avoid crowds?
+    a: >-
+      Weekday mornings tend to be quieter, with easier parking, compared to
+      weekends and holidays when the area draws heavier domestic and
+      international visitor traffic.
+  - q: What makes Aewol's cafes distinct from those in Jeju City?
+    a: >-
+      Aewol's cafes are known for ocean-facing architecture, large windows, and
+      terraces designed around coastal views, offering a slower, more scenic
+      experience than Jeju City's commercial cafe districts.
 aiGenerated: true
 draft: false
 ---

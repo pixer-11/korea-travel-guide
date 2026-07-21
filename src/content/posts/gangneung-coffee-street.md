@@ -8,7 +8,7 @@ category: trendy
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
   url: >-
-    https://images.unsplash.com/photo-1662533513021-f13cf8c7fd51?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8Y29mZmVlJTIwc3RyZWV0JTIwR2FuZ25ldW5nJTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTkxODgyfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+    https://images.unsplash.com/photo-1662533513021-f13cf8c7fd51?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8Y29mZmVlJTIwc3RyZWV0JTIwR2FuZ25ldW5nJTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTk3MjM2fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
   credit: Photo by Photos of Korea on Unsplash
   license: unsplash
   source: >-

@@ -1,28 +1,47 @@
 ---
-title: "Hwangnidan-Gil in Gyeongju: A Visitor's Guide"
-description: "A practical visitor's guide to Hwangnidan-gil in Gyeongju, Korea — what to expect, how to get around, and tips for your visit."
-region: "Gyeongju"
-category: "trendy"
-pubDate: 2026-07-20
+title: 'Hwangnidan-Gil in Gyeongju: A Visitor''s Guide'
+description: >-
+  A practical visitor's guide to Hwangnidan-gil in Gyeongju, Korea — what to
+  expect, how to get around, and tips for your visit.
+region: Gyeongju
+category: trendy
+pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "/images/placeholder-market.svg"
-  credit: "Placeholder image"
-  license: "placeholder"
-  source: "local"
+  url: >-
+    https://images.unsplash.com/photo-1668999980247-db74bc8be117?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8R3llb25nanUlMjBTb3V0aCUyMEtvcmVhfGVufDB8MHx8fDE3ODQ1OTcyNDB8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by john ko on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@jko001?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - "gyeongju"
-  - "Hwangnidan-gil"
-quickAnswer: "Hwangnidan-gil is Gyeongju's trendiest strip, a cluster of hanok-style cafes, dessert shops, and boutiques near the Daereungwon tomb complex. Go on foot, expect crowds on weekends, and pair a stroll here with a visit to the nearby royal tombs for the classic Gyeongju combination of history and hip."
+  - gyeongju
+  - Hwangnidan-gil
+quickAnswer: >-
+  Hwangnidan-gil is Gyeongju's trendiest strip, a cluster of hanok-style cafes,
+  dessert shops, and boutiques near the Daereungwon tomb complex. Go on foot,
+  expect crowds on weekends, and pair a stroll here with a visit to the nearby
+  royal tombs for the classic Gyeongju combination of history and hip.
 faq:
-  - q: "What is Hwangnidan-gil known for?"
-    a: "It's known for its blend of traditional hanok architecture and modern cafe culture, with tree-lined lanes full of coffee shops, dessert spots, and small boutiques near Gyeongju's historic tomb district."
-  - q: "How do I get to Hwangnidan-gil?"
-    a: "Since Gyeongju has no subway, most visitors reach the area by local bus, taxi, or on foot from central Gyeongju, as it sits close to the Daereungwon tomb complex and other major historic sites."
-  - q: "Is Hwangnidan-gil worth visiting?"
-    a: "Yes, especially if you want to see a lively contemporary side of Gyeongju alongside its ancient sites — it's an easy, walkable add-on to a day spent touring the nearby tombs and historic landmarks."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Weekday mornings tend to be quieter, while weekends and evenings draw larger crowds, especially around popular-looking cafes and photo spots."
+  - q: What is Hwangnidan-gil known for?
+    a: >-
+      It's known for its blend of traditional hanok architecture and modern cafe
+      culture, with tree-lined lanes full of coffee shops, dessert spots, and
+      small boutiques near Gyeongju's historic tomb district.
+  - q: How do I get to Hwangnidan-gil?
+    a: >-
+      Since Gyeongju has no subway, most visitors reach the area by local bus,
+      taxi, or on foot from central Gyeongju, as it sits close to the
+      Daereungwon tomb complex and other major historic sites.
+  - q: Is Hwangnidan-gil worth visiting?
+    a: >-
+      Yes, especially if you want to see a lively contemporary side of Gyeongju
+      alongside its ancient sites — it's an easy, walkable add-on to a day spent
+      touring the nearby tombs and historic landmarks.
+  - q: When is the best time to visit to avoid crowds?
+    a: >-
+      Weekday mornings tend to be quieter, while weekends and evenings draw
+      larger crowds, especially around popular-looking cafes and photo spots.
 aiGenerated: true
 draft: false
 ---

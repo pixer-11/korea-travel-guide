@@ -8,11 +8,11 @@ category: hidden-gem
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
   url: >-
-    https://images.unsplash.com/photo-1641773861272-d2ce368924bc?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8aGlkZGVuJTIwZ2VtJTIwSW5jaGVvbiUyMFNvdXRoJTIwS29yZWF8ZW58MHwwfHx8MTc4NDU5MTg4N3ww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Joyce Jiang on Unsplash
+    https://images.unsplash.com/photo-1765243776997-5aa67435723f?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8aGlkZGVuJTIwZ2VtJTIwSW5jaGVvbiUyMFNvdXRoJTIwS29yZWF8ZW58MHwwfHx8MTc4NDU5NzI0Mnww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Albert Sidorov on Unsplash
   license: unsplash
   source: >-
-    https://unsplash.com/@joycejiang?utm_source=korea_travel_guide&utm_medium=referral
+    https://unsplash.com/@aldiablos?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - incheon

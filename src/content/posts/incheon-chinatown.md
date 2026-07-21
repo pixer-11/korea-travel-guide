@@ -8,7 +8,7 @@ category: hidden-gem
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
   url: >-
-    https://images.unsplash.com/photo-1695826073269-03884f10d048?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8Q2hpbmF0b3duJTIwSW5jaGVvbiUyMFNvdXRoJTIwS29yZWF8ZW58MHwwfHx8MTc4NDU5MTg4N3ww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+    https://images.unsplash.com/photo-1695826073269-03884f10d048?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8Q2hpbmF0b3duJTIwSW5jaGVvbiUyMFNvdXRoJTIwS29yZWF8ZW58MHwwfHx8MTc4NDU5NzI0MXww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
   credit: Photo by Fukuro 0wl on Unsplash
   license: unsplash
   source: >-

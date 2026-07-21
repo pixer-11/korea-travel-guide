@@ -38,7 +38,9 @@
       "Bash(grep -E '\\\\.env$')",
       "Bash(git -c core.autocrlf=false commit -q -m ' *)",
       "Bash(git config *)",
-      "Bash(node scripts/refresh-images.mjs)"
+      "Bash(node scripts/refresh-images.mjs)",
+      "Bash(curl -s -w '\\\\nHTTP %{http_code}\\\\n' -X POST https://places.googleapis.com/v1/places:searchText -H 'Content-Type: application/json' -H 'X-Goog-Api-Key: AIzaSyC4GZ5e1OT60BWNJ0bTReSM7xOZwRZ2VXs' -H 'X-Goog-FieldMask: places.displayName,places.rating,places.formattedAddress' -d '{\"textQuery\":\"Gwangjang Market Seoul\",\"languageCode\":\"en\",\"maxResultCount\":2}')",
+      "Bash(curl -s -w '\\\\nHTTP %{http_code}\\\\n' -X POST https://places.googleapis.com/v1/places:searchText -H 'Content-Type: application/json' -H 'X-Goog-Api-Key: AIzaSyC4GZ5e1OT60BWNJ0bTReSM7xOZwRZ2VXs' -H 'X-Goog-FieldMask: places.displayName' -d '{\"textQuery\":\"Seoul Tower\",\"maxResultCount\":1}')"
     ]
   }
 }

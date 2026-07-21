@@ -8,7 +8,7 @@ category: restaurant
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
   url: >-
-    https://images.unsplash.com/photo-1688598895556-7131cc20db55?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8c2VhZm9vZCUyMEJ1c2FuJTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTkxODc4fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+    https://images.unsplash.com/photo-1688598895556-7131cc20db55?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8c2VhZm9vZCUyMEJ1c2FuJTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTk3MjMwfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
   credit: Photo by Frank Zhang on Unsplash
   license: unsplash
   source: >-

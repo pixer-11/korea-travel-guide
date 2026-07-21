@@ -8,11 +8,11 @@ category: attraction
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
   url: >-
-    https://images.unsplash.com/photo-1764212964673-249757581fb7?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8dG9wJTIwYXR0cmFjdGlvbiUyMEluY2hlb24lMjBTb3V0aCUyMEtvcmVhfGVufDB8MHx8fDE3ODQ1OTE4ODl8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by rawkkim on Unsplash
+    https://images.unsplash.com/photo-1446733993804-c62a351c7239?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8dG9wJTIwYXR0cmFjdGlvbiUyMEluY2hlb24lMjBTb3V0aCUyMEtvcmVhfGVufDB8MHx8fDE3ODQ1OTcyNDN8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Hon Kim on Unsplash
   license: unsplash
   source: >-
-    https://unsplash.com/@rawkkim?utm_source=korea_travel_guide&utm_medium=referral
+    https://unsplash.com/@honej?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - incheon
