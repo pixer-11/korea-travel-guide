@@ -19,6 +19,23 @@ const { Content } = await render(post);
 const d = post.data;
 const p = d.place;
 
+// Country-aware values (this was a Korea-only template — everything below must
+// derive from the post's country, not hardcode "Korea"/"KR"/"South Korea").
+const country = d.country ?? 'South Korea';
+const countrySlug = country.toLowerCase().replace(/\s+/g, '-');
+const COUNTRY_ISO: Record<string, string> = {
+  'South Korea': 'KR', Japan: 'JP', 'United States': 'US', Thailand: 'TH',
+  France: 'FR', Italy: 'IT', China: 'CN', Spain: 'ES', Vietnam: 'VN',
+  'United Arab Emirates': 'AE', Taiwan: 'TW', Indonesia: 'ID', Malaysia: 'MY',
+  India: 'IN', Philippines: 'PH', Turkey: 'TR',
+};
+const countryISO = COUNTRY_ISO[country];
+
+// Peak-intent affiliate links for the top "Book this trip" band (city-specific,
+// correct attribution, work regardless of flight/hotel program approval).
+const klookTop = `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7Cpid%7C754088&k_site=${encodeURIComponent(`https://www.klook.com/en-US/search/?query=${d.region}`)}`;
+const hotelTop = `https://search.hotellook.com/?marker=754088&destination=${encodeURIComponent(d.region)}`;
+
 const priceLabels = ['Free', '₩', '₩₩', '₩₩₩', '₩₩₩₩'];
 const stars = p?.rating ? '★'.repeat(Math.round(p.rating)) + '☆'.repeat(5 - Math.round(p.rating)) : null;
 const updated = d.updatedDate ?? d.pubDate;
@@ -55,17 +72,20 @@ const graph: Record<string, unknown>[] = [
     description: d.description,
     datePublished: d.pubDate.toISOString(),
     dateModified: updated.toISOString(),
-    image: d.heroImage?.url ? new URL(d.heroImage.url, Astro.site).toString() : undefined,
-    author: { '@type': 'Organization', name: 'Korea Travel Guide', url: site },
-    publisher: { '@type': 'Organization', name: 'Korea Travel Guide', url: site },
+    image: d.heroImage?.url ? { '@type': 'ImageObject', url: new URL(d.heroImage.url, Astro.site).toString() } : undefined,
+    author: { '@id': `${site}/#org` },
+    publisher: { '@id': `${site}/#org` },
+    isPartOf: { '@id': `${site}/#site` },
+    inLanguage: 'en',
     mainEntityOfPage: pageUrl,
   },
   {
     '@type': 'BreadcrumbList',
     itemListElement: [
       { '@type': 'ListItem', position: 1, name: 'Home', item: site + '/' },
-      { '@type': 'ListItem', position: 2, name: d.region, item: `${site}/regions/${d.region.toLowerCase()}` },
-      { '@type': 'ListItem', position: 3, name: d.title, item: pageUrl },
+      { '@type': 'ListItem', position: 2, name: country, item: `${site}/destinations/${countrySlug}` },
+      { '@type': 'ListItem', position: 3, name: d.region, item: `${site}/regions/${d.region.toLowerCase()}` },
+      { '@type': 'ListItem', position: 4, name: d.title, item: pageUrl },
     ],
   },
 ];
@@ -75,7 +95,7 @@ if (p?.name) {
     '@type': placeType,
     name: p.name,
     address: p.address
-      ? { '@type': 'PostalAddress', streetAddress: p.address, addressCountry: 'KR' }
+      ? { '@type': 'PostalAddress', streetAddress: p.address, ...(countryISO && { addressCountry: countryISO }) }
       : undefined,
     geo: p.lat && p.lng ? { '@type': 'GeoCoordinates', latitude: p.lat, longitude: p.lng } : undefined,
     // NOTE: we deliberately do NOT emit aggregateRating here. The rating is
@@ -111,6 +131,7 @@ const jsonLd = { '@context': 'https://schema.org', '@graph': graph };
   <article class="article wrap">
     <nav class="crumbs" aria-label="Breadcrumb">
       <a href="/">Home</a> <span>/</span>
+      <a href={`/destinations/${countrySlug}`}>{country}</a> <span>/</span>
       <a href={`/regions/${d.region.toLowerCase()}`}>{d.region}</a> <span>/</span>
       <span aria-current="page">{d.category.replace('-', ' ')}</span>
     </nav>
@@ -126,13 +147,13 @@ const jsonLd = { '@context': 'https://schema.org', '@graph': graph };
       </div>
       <h1>{d.title}</h1>
       <p class="byline">
-        By the <a href="/about">Korea Travel Guide editorial team</a> · AI-assisted, reviewed against live Google&nbsp;Places and official sources
+        By the <a href="/about">Wander Atlas editorial team</a> · AI-assisted, reviewed against live Google&nbsp;Places and official sources
       </p>
     </div>
 
     {d.heroImage && (
       <figure class="article-hero">
-        <img src={d.heroImage.url} alt={p?.name ? `${p.name} in ${d.region}, South Korea` : `${(d.tags && d.tags[1]) || d.category} in ${d.region}, South Korea`} />
+        <img src={d.heroImage.url} alt={p?.name ? `${p.name} in ${d.region}, ${country}` : `${(d.tags && d.tags[1]) || d.category} in ${d.region}, ${country}`} width="1200" height="675" loading="eager" fetchpriority="high" decoding="async" />
         {d.heroImage.credit && (
           <figcaption>
             {d.heroImage.source?.startsWith('http') ? (
@@ -150,6 +171,14 @@ const jsonLd = { '@context': 'https://schema.org', '@graph': graph };
       </aside>
     )}
 
+    <div class="book-cta">
+      <span class="book-cta-label">Planning a trip to {d.region}?</span>
+      <div class="book-cta-btns">
+        <a class="book-btn book-btn-primary" href={klookTop} target="_blank" rel="sponsored noopener">🎟️ Things to do</a>
+        <a class="book-btn" href={hotelTop} target="_blank" rel="sponsored noopener">🏨 Find hotels</a>
+      </div>
+    </div>
+
     {p && (p.address || p.rating || p.priceLevel !== undefined) && (
       <div class="fact-box">
         <h4>At a glance</h4>
@@ -163,7 +192,7 @@ const jsonLd = { '@context': 'https://schema.org', '@graph': graph };
           {typeof p.priceLevel === 'number' && <div class="fact"><span class="k">Price</span><span class="v">{priceLabels[p.priceLevel]}</span></div>}
         </div>
         {p.googleMapsUrl && (
-          <a class="btn btn-primary map-btn" href={p.googleMapsUrl} target="_blank" rel="noopener">
+          <a class="map-link" href={p.googleMapsUrl} target="_blank" rel="noopener">
             📍 Open in Google Maps
           </a>
         )}
@@ -173,9 +202,9 @@ const jsonLd = { '@context': 'https://schema.org', '@graph': graph };
     {!(p && p.googleMapsUrl) && d.region && (
       <p class="map-cta">
         <a
-          class="btn btn-primary map-btn"
+          class="map-link"
           href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
-            [p?.name, (d.tags && d.tags[1]) || d.category, d.region, 'South Korea']
+            [p?.name, (d.tags && d.tags[1]) || d.category, d.region, country]
               .filter(Boolean)
               .join(' ')
           )}`}

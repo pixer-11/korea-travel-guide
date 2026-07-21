@@ -1,8 +1,8 @@
 ---
-// Klook "Specific City/Category Tours Widget" (tpemd.com) — top-rated activities
-// with live prices for the guide's city. Travelpayouts identifies the city by a
-// numeric city_id, so we map our city names → ids. Posts whose city isn't mapped
-// simply don't show this block (they still get the Klook link in PlanTrip).
+// "Top-rated things to do in {city}" — for the 16 mapped cities we render the
+// Klook price widget (tpemd.com, numeric city_id). For EVERY other city we now
+// render a Klook city-search CTA instead of nothing, so tours (our best-
+// converting, no-approval-needed inventory) monetize on every post.
 // marker shmarker=754088, source trs=553157, category 1 = Attractions & Shows.
 interface Props { city: string }
 const { city } = Astro.props;
@@ -31,25 +31,41 @@ const cityId = CITY_ID[city];
 const src = cityId
   ? `https://tpemd.com/content?currency=USD&trs=553157&shmarker=754088&locale=en&city_id=${cityId}&category=1&amount=3&powered_by=true&campaign_id=137&promo_id=4497`
   : null;
+
+// Fallback for unmapped cities: a city-specific Klook search link (works for any
+// city, correct attribution via the account's own Klook redirect).
+const klookHref = city
+  ? `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7Cpid%7C754088&k_site=${encodeURIComponent(`https://www.klook.com/en-US/search/?query=${city}`)}`
+  : 'https://klook.tpx.lv/2NXPH8MA';
 ---
-{src && (
+{city && (
   <section class="tp-tours">
     <div class="rule-head"><span class="kicker">Top-rated things to do in {city}</span></div>
-    <div class="tp-widget-card">
-      <script is:inline async src={src} charset="utf-8"></script>
-    </div>
+    {src ? (
+      <div class="tp-widget-card">
+        <script is:inline async src={src} charset="utf-8"></script>
+      </div>
+    ) : (
+      <a class="plan-card tours-cta" href={klookHref} target="_blank" rel="sponsored noopener">
+        <span class="plan-ico">🎟️</span>
+        <span class="plan-txt"><strong>Tours & tickets in {city}</strong><span>Book activities and skip-the-line tickets on Klook</span></span>
+        <span class="plan-arw">→</span>
+      </a>
+    )}
     <p class="tp-disclosure">Live prices from Klook. Booking through these links supports our free guides at no extra cost to you.</p>
   </section>
 )}
 
 <script>
-  // Safety net: hide the block if the widget renders empty (e.g. no tours found).
+  // Safety net: hide the block ONLY when the price widget rendered empty. The
+  // link-fallback (no .tp-widget-card) always stays.
   window.addEventListener('load', () => {
     setTimeout(() => {
       document.querySelectorAll('.tp-tours').forEach((sec) => {
         const card = sec.querySelector('.tp-widget-card') as HTMLElement | null;
-        const filled = card && (card.querySelector('iframe') || card.offsetHeight > 120);
-        if (!filled) (sec as HTMLElement).style.display = 'none';
+        if (card && !(card.querySelector('iframe') || card.offsetHeight > 120)) {
+          (sec as HTMLElement).style.display = 'none';
+        }
       });
     }, 3500);
   });

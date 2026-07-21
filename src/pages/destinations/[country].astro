@@ -11,10 +11,16 @@ const wallThumb = (url) => (url ? `/wall/${createHash('sha1').update(url).digest
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts', ({ data }) => !data.draft);
-  return countriesData.countries.map((c) => ({
-    params: { country: c.slug },
-    props: { country: c, posts: posts.filter((p) => (p.data.country ?? 'South Korea') === c.name) },
-  }));
+  // Only build country pages that have posts — a country with 0 guides shows as a
+  // non-clickable "Coming soon" tile, so an empty page would just be thin content
+  // diluting a new domain's crawl budget.
+  return countriesData.countries
+    .map((c) => ({ c, cPosts: posts.filter((p) => (p.data.country ?? 'South Korea') === c.name) }))
+    .filter((x) => x.cPosts.length > 0)
+    .map(({ c, cPosts }) => ({
+      params: { country: c.slug },
+      props: { country: c, posts: cPosts },
+    }));
 }
 
 const { country, posts } = Astro.props;

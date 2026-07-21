@@ -772,6 +772,20 @@ main { flex: 1; width: 100%; }
 .plan-txt span { font-size: 0.82rem; color: var(--muted); line-height: 1.35; }
 .plan-arw { margin-left: auto; color: var(--accent); font-weight: 700; transition: transform .15s ease; }
 .plan-card:hover .plan-arw { transform: translateX(3px); }
+.tours-cta { text-decoration: none; }
+
+/* Top-of-post "Book this trip" intent-capture band (peak-intent, above the fold) */
+.book-cta { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 0.7rem 1.2rem; margin: 1.5rem 0; padding: 0.9rem 1.2rem; background: color-mix(in srgb, var(--accent) 7%, var(--surface)); border: 1px solid color-mix(in srgb, var(--accent) 22%, var(--line)); border-radius: var(--r-md); }
+.book-cta-label { font-weight: 650; font-size: 0.98rem; }
+.book-cta-btns { display: flex; gap: 0.55rem; flex-wrap: wrap; }
+.book-btn { display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.5rem 0.95rem; border-radius: var(--r-pill); font-weight: 600; font-size: 0.9rem; border: 1px solid var(--line); background: var(--surface); color: var(--ink); text-decoration: none; transition: transform .15s ease, box-shadow .15s ease; }
+.book-btn:hover { transform: translateY(-1px); box-shadow: var(--shadow-sm); }
+.book-btn-primary { background: var(--accent); border-color: var(--accent); color: #fff; }
+.book-btn-primary:hover { background: var(--accent-deep); color: #fff; }
+
+/* Demoted "open in Maps" link — was a primary button sending intent off-site for $0 */
+.map-link { display: inline-flex; align-items: center; gap: 0.3rem; margin-top: 0.6rem; font-size: 0.88rem; font-weight: 600; color: var(--muted); text-decoration: none; }
+.map-link:hover { color: var(--accent); text-decoration: underline; }
 
 .continent-back { margin-top: 2.25rem; }
 .continent-back a { color: var(--ink-soft); font-weight: 600; text-decoration: none; }

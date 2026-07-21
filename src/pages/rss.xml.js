@@ -8,9 +8,9 @@ export async function GET(context) {
   );
 
   return rss({
-    title: 'Korea Travel Guide',
+    title: 'Wander Atlas',
     description:
-      'Editor-reviewed, AI-assisted travel guides for international visitors to Korea.',
+      'Editor-reviewed, AI-assisted travel guides to destinations around the world.',
     site: context.site,
     items: posts.map((post) => ({
       title: post.data.title,

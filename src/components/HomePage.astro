@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import { createHash } from 'node:crypto';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from './PostCard.astro';
 import Newsletter from './Newsletter.astro';
@@ -34,7 +35,10 @@ function shuffle(arr) {
   }
   return a;
 }
-const wall = shuffle(wallData.images ?? []).slice(0, 12).map((url) => ({ url }));
+// Use the pre-generated 640px WebP thumbnails (scripts/build-wall.mjs), not the
+// raw full-size hero URLs — the hero wall is the homepage LCP, so weight matters.
+const wallThumb = (url) => `/wall/${createHash('sha1').update(url).digest('hex').slice(0, 16)}.webp`;
+const wall = shuffle(wallData.images ?? []).slice(0, 12).map((url) => ({ url: wallThumb(url) }));
 const wallRow1 = wall.slice(0, 6);
 const wallRow2 = wall.slice(6, 12);
 
@@ -66,10 +70,10 @@ const koreaLinks = [
   <section class="hero-wall">
     <div class="wall-rows" aria-hidden="true">
       <div class="wall-row r1">
-        {[...wallRow1, ...wallRow1].map((im) => <img src={im.url} alt="" decoding="async" />)}
+        {[...wallRow1, ...wallRow1].map((im) => <img src={im.url} alt="" width="640" height="427" decoding="async" />)}
       </div>
       <div class="wall-row r2">
-        {[...wallRow2, ...wallRow2].map((im) => <img src={im.url} alt="" decoding="async" />)}
+        {[...wallRow2, ...wallRow2].map((im) => <img src={im.url} alt="" width="640" height="427" loading="lazy" decoding="async" />)}
       </div>
     </div>
     <div class="cover-scrim"></div>

@@ -115,5 +115,21 @@ const orgLd = {
       <slot />
     </main>
     <Footer />
+    <script is:inline>
+      // Outbound affiliate-click tracking. Fires to whatever analytics is present
+      // (GA4/gtag, Plausible, or dataLayer) — a harmless no-op until one is added,
+      // so we can measure which CTAs/widgets actually drive booking clicks.
+      document.addEventListener('click', function (e) {
+        var t = e.target;
+        var a = t && t.closest && t.closest('a[rel~="sponsored"], a[href*="klook"], a[href*="hotellook"], a[href*="tp.media"], a[href*="tpx.lv"], a[href*="aviasales"]');
+        if (!a) return;
+        var label = (a.textContent || '').trim().slice(0, 60) || a.href;
+        try {
+          if (window.gtag) window.gtag('event', 'affiliate_click', { link_url: a.href, link_text: label });
+          else if (window.plausible) window.plausible('Affiliate click', { props: { url: a.href } });
+          (window.dataLayer = window.dataLayer || []).push({ event: 'affiliate_click', link_url: a.href, link_text: label });
+        } catch (_) {}
+      }, true);
+    </script>
   </body>
 </html>

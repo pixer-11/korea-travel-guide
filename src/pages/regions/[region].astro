@@ -5,10 +5,9 @@ import PostCard from '../../components/PostCard.astro';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts', ({ data }) => !data.draft);
+  // Only build region hubs that actually have posts — no thin "check back soon"
+  // pages to dilute a new domain's crawl budget.
   const regions = [...new Set(posts.map((p) => p.data.region))];
-  for (const r of ['Seoul', 'Busan', 'Jeju', 'Gyeongju', 'Incheon']) {
-    if (!regions.includes(r)) regions.push(r);
-  }
   return regions.map((region) => ({
     params: { region: region.toLowerCase() },
     props: { region, posts: posts.filter((p) => p.data.region === region) },
@@ -16,6 +15,8 @@ export async function getStaticPaths() {
 }
 
 const { region, posts } = Astro.props;
+// The region's country (from its posts) — so fallbacks read "…, Japan" not "…, Korea".
+const country = posts[0]?.data.country ?? 'South Korea';
 
 // Curated, specific intros + FAQ for headline regions (thin generic pages don't
 // rank or get cited — these are the pillar layer feeding each post cluster).
@@ -82,7 +83,7 @@ const jsonLd = {
     {
       '@type': 'CollectionPage',
       name: `${region} Travel Guide`,
-      description: info?.blurb ?? `Things to do, where to eat, and hidden gems in ${region}, Korea.`,
+      description: info?.blurb ?? `Things to do, where to eat, and hidden gems in ${region}, ${country}.`,
       url: pageUrl,
       isPartOf: { '@id': `${site}/#site` },
     },
@@ -110,14 +111,14 @@ const jsonLd = {
 
 <BaseLayout
   title={`${region} Travel Guide`}
-  description={info?.blurb?.slice(0, 155) ?? `Things to do, where to eat, and hidden gems in ${region}, Korea — practical info for visitors.`}
+  description={info?.blurb?.slice(0, 155) ?? `Things to do, where to eat, and hidden gems in ${region}, ${country} — practical info for visitors.`}
   jsonLd={jsonLd}
 >
   <section class="page-hero">
     <div class="wrap">
       <p class="eyebrow">Region</p>
       <h1>{region}</h1>
-      {info ? <p class="region-blurb">{info.blurb}</p> : <p>Attractions, food, and hidden gems in {region}, Korea.</p>}
+      {info ? <p class="region-blurb">{info.blurb}</p> : <p>Attractions, food, and hidden gems in {region}, {country}.</p>}
     </div>
   </section>
 
