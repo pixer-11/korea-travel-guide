@@ -86,7 +86,8 @@
       "Bash(node --check scripts/lib/writer.mjs)",
       "WebFetch(domain:www.atlasobscura.com)",
       "Bash(git commit -q -m 'brand: launch '\\\\''Wander Atlas'\\\\'' — logo, favicon, global chrome + /destinations hubs *)",
-      "Bash(git commit -q -m 'home: rebuild as a magazine-quality global homepage \\(design-spec driven\\) *)"
+      "Bash(git commit -q -m 'home: rebuild as a magazine-quality global homepage \\(design-spec driven\\) *)",
+      "Bash(git commit -q -m 'nav: remove Korea-specific Visa/Emergency from the global header *)"
     ]
   }
 }
