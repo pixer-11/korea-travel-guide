@@ -469,6 +469,14 @@ main { flex: 1; width: 100%; }
 .map-cta { margin: 1.75rem 0; }
 .map-cta .map-btn { margin-top: 0; }
 
+.region-blurb { max-width: 60ch; margin-top: 0.6rem; font-size: 1.05rem; line-height: 1.65; }
+.region-facts { display: grid; gap: 0.9rem; margin-bottom: 2.5rem; padding: 1.1rem 1.3rem; border: 1px solid var(--line); border-radius: 12px; background: var(--card, transparent); }
+.region-facts > div { display: grid; gap: 0.15rem; }
+.region-facts .k { font-size: 0.74rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted); }
+.region-facts .v { color: var(--ink); line-height: 1.5; }
+.region-group { margin-bottom: 2.75rem; }
+.region-group h2 { font-size: 1.3rem; margin-bottom: 1.1rem; }
+
 .byline { margin-top: 0.9rem; font-size: 0.85rem; color: var(--muted); line-height: 1.5; }
 .byline a { color: var(--muted); text-decoration: underline; text-underline-offset: 2px; }
 .byline a:hover { color: var(--accent); }

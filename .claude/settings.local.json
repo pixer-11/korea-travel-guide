@@ -66,7 +66,12 @@
       "Bash(gh workflow *)",
       "Bash(git commit -q -m 'images: gate Places photos behind USE_PLACES_PHOTO \\(they expire; keep permanent URLs\\) *)",
       "Bash(git stash *)",
-      "Bash(git commit -q -m 'seo/eeat: internal linking, editorial byline, honest dates, safe schema, alt text *)"
+      "Bash(git commit -q -m 'seo/eeat: internal linking, editorial byline, honest dates, safe schema, alt text *)",
+      "Bash(git commit -q -m 'writer: demand concrete specifics \\(stations/exits, named sights, timing\\) — kill vagueness *)",
+      "Bash(node -e \"import\\('yaml'\\).then\\(m=>console.log\\('yaml OK', typeof m.parse, typeof m.stringify\\)\\).catch\\(e=>console.log\\('no yaml:', e.code\\)\\)\")",
+      "Bash(node scripts/regenerate-content.mjs)",
+      "Bash(awk '/^---$/{c++;next} c>=2' src/content/posts/andong-local-restaurant.md)",
+      "Bash(git commit -q -m 'content: regenerate all 50 posts with the deep writer + upgrade region hubs *)"
     ]
   }
 }

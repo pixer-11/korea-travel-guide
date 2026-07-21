@@ -1,64 +1,66 @@
 ---
-title: "Gyeongbokgung Palace: A Visitor's Guide in Seoul"
-description: "A practical visitor's guide to Gyeongbokgung Palace in Seoul, Korea. Verified info on location, ratings, and how to get there."
-region: "Seoul"
-category: "attraction"
-pubDate: 2026-07-21
+title: 'Gyeongbokgung Palace: A Visitor''s Guide in Seoul'
+description: A practical visitor's guide to Gyeongbokgung Palace in Seoul, Korea. Verified info on location, ratings, and how to get there.
+region: Seoul
+category: attraction
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Gyeonghoeru_%28Royal_Banquet_Hall%29_at_Gyeongbokgung_Palace%2C_Seoul.jpg/1920px-Gyeonghoeru_%28Royal_Banquet_Hall%29_at_Gyeongbokgung_Palace%2C_Seoul.jpg"
-  credit: "Photo: Frank Schulenburg / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Gyeonghoeru_(Royal_Banquet_Hall)_at_Gyeongbokgung_Palace,_Seoul.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Gyeonghoeru_%28Royal_Banquet_Hall%29_at_Gyeongbokgung_Palace%2C_Seoul.jpg/1920px-Gyeonghoeru_%28Royal_Banquet_Hall%29_at_Gyeongbokgung_Palace%2C_Seoul.jpg
+  credit: 'Photo: Frank Schulenburg / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Gyeonghoeru_(Royal_Banquet_Hall)_at_Gyeongbokgung_Palace,_Seoul.jpg
 gallery: []
 place:
-  id: "ChIJod7tSseifDUR9hXHLFNGMIs"
-  name: "Gyeongbokgung Palace"
-  address: "161 Sajik-ro, Jongno District, Seoul, South Korea"
+  id: ChIJod7tSseifDUR9hXHLFNGMIs
+  name: Gyeongbokgung Palace
+  address: 161 Sajik-ro, Jongno District, Seoul, South Korea
   rating: 4.6
   userRatingsTotal: 46637
-  googleMapsUrl: "https://maps.google.com/?cid=10029593693201569270&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=10029593693201569270&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.579617
   lng: 126.977041
 tags:
-  - "seoul"
-  - "palaces"
-quickAnswer: "Gyeongbokgung Palace is Seoul's largest and grandest royal palace, dating to the 14th century, and it's the best first stop for understanding Korean history in the city. Free guided tours are offered, and the extensive grounds include a museum and gardens, so plan on at least two to three hours to see it properly. It sits in Jongno District, easily reached by subway, and rates highly with visitors (4.6 stars across over 46,000 reviews)."
+  - seoul
+  - palaces
+quickAnswer: Gyeongbokgung Palace, Seoul's largest and grandest Joseon-era royal palace, is best reached via Gyeongbokgung Station (Line 3), Exit 5, which leads almost directly to the main gate. Plan on 2-3 hours to see Geunjeongjeon Throne Hall, Gyeonghoeru Pavilion, and the National Folk Museum on the grounds, and try to time your visit around the Royal Guard Changing Ceremony at the front gate. The palace is closed on Tuesdays, so check the official schedule before heading out.
 faq:
-  - q: "Is there an entrance fee for Gyeongbokgung Palace?"
-    a: "Specific ticket pricing isn't detailed here, but the palace does offer free guided tours, which is a notable perk worth taking advantage of regardless of general admission costs."
-  - q: "How long should I plan to spend at the palace?"
-    a: "Given the scale of the complex — main halls, a museum, and gardens — plan for at least two to three hours, more if you want to join a guided tour and explore thoroughly."
-  - q: "What's the best way to get to Gyeongbokgung?"
-    a: "The palace is at 161 Sajik-ro in Jongno District, a central and well-connected part of Seoul; the subway is the most convenient option, with taxis as a reliable alternative."
-  - q: "Are guided tours available on-site?"
-    a: "Yes, free guided tours are offered at the palace, making it easy to get historical context without booking anything in advance."
+  - q: How do I get to Gyeongbokgung Palace by subway?
+    a: Take Line 3 to Gyeongbokgung Station and use Exit 5, which leads almost directly to the palace's ticket area. Line 5's Gwanghwamun Station, Exit 2, is a good alternative if you want to arrive near the main gate for the guard ceremony.
+  - q: How much time should I budget for a visit?
+    a: Plan on 2-3 hours to see the main halls, Gyeonghoeru Pavilion, and Hyangwonjeong. Add 30-60 minutes if you want to include the National Folk Museum or National Palace Museum on the grounds.
+  - q: Is the palace closed on any day?
+    a: Yes, Gyeongbokgung is closed on Tuesdays, along with several of Seoul's other grand palaces on a rotating basis. Confirm the current schedule before visiting since holiday hours can also shift.
+  - q: Does wearing hanbok really get free admission?
+    a: Yes, visitors wearing traditional hanbok are admitted free. Numerous rental shops line the streets just outside the palace, and this is a popular option for photos in front of Gyeonghoeru Pavilion and the throne hall.
+  - q: What's the best time of year to visit?
+    a: Late October to early November is considered peak season for foliage around Gyeonghoeru and Hyangwonjeong, while April brings cherry blossoms along the palace walls. Early mornings year-round are quieter than midday.
 aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
+> **How this guide was made:** Editor-reviewed, AI-assisted. Facts such as ratings and location come from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
-## Overview
+## Why go
 
-Gyeongbokgung Palace is the largest of Seoul's royal palaces and one of the city's most-visited attractions, holding a 4.6-star rating across more than 46,000 reviews. Built in the 14th century, it served as the main royal residence and seat of government, and today it functions as a sprawling open-air museum with restored halls, ceremonial courtyards, and landscaped gardens. Its scale sets it apart from Seoul's other palaces — expect wide plazas, multiple gates, and enough ground to fill a half-day visit.
+Gyeongbokgung is the first and largest of Seoul's "Five Grand Palaces," built in 1395 as the primary royal residence of the Joseon Dynasty. Rated 4.6 stars across more than 46,000 reviews, it's the most visited palace in Korea and the default introduction to the country's royal architecture for a reason: the scale is enormous, the setting against Bugaksan Mountain is dramatic, and the compound includes some of the most photographed structures in the country, including Gyeonghoeru Pavilion, a two-story hall built on an artificial lake where kings once hosted state banquets.
 
-## What to know
+## Getting there
 
-The palace complex includes a museum and gardens in addition to the main halls, so budget real time to explore beyond the front gate. Free guided tours are offered, which is a useful way to get context on the layout and history of the buildings without needing to arrange a private guide in advance. Because the grounds are extensive, comfortable walking shoes are worth wearing, and it helps to have a rough sense of which areas you want to prioritize (main throne hall area, pavilion and pond area, gardens, museum) since seeing everything at a leisurely pace takes time.
+The palace sits at 161 Sajik-ro in Jongno District, central Seoul. The easiest approach is Gyeongbokgung Station on Line 3 — take Exit 5, and you'll walk directly onto the palace grounds within a couple of minutes, arriving near the ticket office and Heungnyemun Gate. Anyone coming from Insadong or Bukchon Hanok Village can also walk over in 10-15 minutes, since both neighborhoods border the palace's east side. Gwanghwamun Station on Line 5 (Exit 2) is another option, putting you closer to the main Gwanghwamun Gate for the guard ceremony.
 
-## How to get there
+## What to see
 
-The palace is located at 161 Sajik-ro, Jongno District, Seoul — a central, well-connected part of the city. Jongno District is one of Seoul's historic cores, so the palace is typically reached via Seoul's subway system, with a station serving the palace directly by name. As with most central Seoul attractions, taxis are also a straightforward option if you're coming from another part of the city, and the address is well known enough that showing it to a driver or entering it into a navigation app will get you there without issue.
+Start at Gwanghwamun, the imposing main gate, where the Royal Guard Changing Ceremony takes place a few times daily — check the posted schedule, as it typically runs mid-morning and early afternoon. Once inside, Geunjeongjeon, the throne hall, is the visual centerpiece: a two-tiered stone platform, dragon carvings, and the king's throne set against a folding screen depicting the sun, moon, and five peaks. Behind it, Gyeonghoeru Pavilion and its lake are best viewed from the northwest corner, especially in autumn when the surrounding maples turn.
 
-## Tips
+Don't skip Hyangwonjeong, a small hexagonal pavilion on a pond near the rear of the complex, connected by a wooden bridge — quieter than the main halls and a good rest stop. The grounds also contain the National Folk Museum of Korea and the National Palace Museum, both free or low-cost add-ons that explain daily court life and royal artifacts in more depth than signage on the palace grounds itself.
 
-- **Join the free guided tour** if you want narrative context on the halls and grounds — this is a notable value-add at a site this large, since self-guided visits can miss the historical significance of specific buildings.
-- **Set aside a few hours.** Between the main palace buildings, the museum, and the gardens, this is not a quick stop — treat it as a half-day anchor for a Jongno-area itinerary.
-- **Pair it with the surrounding neighborhood.** Jongno District is one of Seoul's historic and cultural centers, so a palace visit fits naturally alongside exploring nearby traditional streets and museums.
-- **Check the museum separately.** The on-site museum is part of the complex and worth building into your visit plan rather than treating as an afterthought.
-- **Go early or check crowd patterns.** With tens of thousands of reviews and a top rating, this is one of Seoul's most popular sites, so arriving earlier in the day tends to make for a more comfortable visit at major halls and photo spots.
+Renting a hanbok (traditional Korean dress) from one of the many shops lining the streets just outside the palace is worth considering: wearing one grants free admission, a detail that has made it a popular ritual for both tourists and Korean visitors alike.
 
-## Who it's for
+## When to go
 
-Gyeongbokgung suits first-time visitors to Seoul wanting a historical anchor point, travelers interested in Korean royal architecture and history, and anyone looking for a scenic, photogenic outdoor site with gardens. Its popularity and consistently high rating make it a reliable choice even for travelers with limited time in the city.
+Morning, right after opening, is the calmest time to see the main halls before tour groups arrive. Spring (April) brings cherry blossoms along the palace walls, while autumn (late October to early November) is arguably the best season, with the ginkgo and maple trees around Gyeonghoeru and Hyangwonjeong turning color. Summer is hot with little shade across the open courtyards, so early morning or late afternoon visits are more comfortable. The palace is closed on Tuesdays year-round, a rule that also applies to several other Seoul palaces, so plan your Jongno-area itinerary accordingly.
+
+## Nearby & tips
+
+Bukchon Hanok Village, a preserved hillside neighborhood of traditional houses, sits just east of the palace and pairs naturally with a visit. Insadong, known for tea houses, galleries, and antique shops, is a short walk further east. Directly north, Cheong Wa Dae (the former presidential residence, now open to the public) is an easy add-on if time allows. For food, the streets around Gyeongbokgung Station and Tongin Market (a few minutes northwest) offer inexpensive Korean lunches, including the market's well-known dosirak (lunch box) stalls using brass coin currency. Budget 2-3 hours for the palace alone, more if combining it with the folk museum or a hanbok rental session, which typically adds photo time in front of Gyeonghoeru.

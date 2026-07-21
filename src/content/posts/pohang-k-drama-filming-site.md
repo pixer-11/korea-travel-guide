@@ -1,68 +1,56 @@
 ---
 title: 'K-Drama Filming Site in Pohang: A Visitor''s Guide'
-description: >-
-  A practical visitor's guide to K-drama filming site in Pohang, Korea — what to
-  expect, how to get around, and tips for your visit.
+description: A practical visitor's guide to K-drama filming site in Pohang, Korea — what to expect, how to get around, and tips for your visit.
 region: Pohang
 category: trendy
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1596775218323-9b8276975108?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8UG9oYW5nJTIwU291dGglMjBLb3JlYSUyMEstZHJhbWElMjBmaWxtaW5nJTIwc2l0ZXxlbnwwfDB8fHwxNzg0NjAzODExfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Jeong Sujin on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@sinri?utm_source=korea_travel_guide&utm_medium=referral"
+  url: https://images.unsplash.com/photo-1596775218323-9b8276975108?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8UG9oYW5nJTIwU291dGglMjBLb3JlYSUyMEstZHJhbWElMjBmaWxtaW5nJTIwc2l0ZXxlbnwwfDB8fHwxNzg0NjAzODExfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Jeong Sujin on Unsplash
+  license: unsplash
+  source: https://unsplash.com/@sinri?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - pohang
   - K-drama filming site
-quickAnswer: >-
-  Guryongpo, a quiet fishing port on Pohang's east coast, is the real-life set
-  of tvN's hit series "Hometown Cha-Cha-Cha." Visitors come mainly to stroll the
-  old harbor streets, retro modern-street lane, and seaside where key scenes
-  were shot, and to soak up the small-town coastal atmosphere the show made
-  famous. Plan on a half-day trip, go on foot along the waterfront, and pair it
-  with fresh seafood at the harbor.
+quickAnswer: Pohang's best-known K-drama filming draw is Guryongpo, the retro Japanese-era fishing town on the Homigot peninsula whose old wooden storefronts and narrow lanes stood in for a 1980s-90s port town in the hit series "When the Camellia Blooms." Combine it with the nearby Homigot Sunrise Square (famous for the Hand of Harmony sculpture) for a half-day trip from Pohang's main bus/train hub. Go on a weekday morning, wear walkable shoes for the sloped alleys, and pair the visit with fresh raw fish (hoe) or grilled saury at the harbor.
 faq:
-  - q: Is there an official filming site or museum to visit?
-    a: >-
-      No single official site exists — the drama's charm comes from the town's
-      real harbor streets, retro shopping lane, and coastline rather than one
-      dedicated attraction.
-  - q: How do I get to Guryongpo from Pohang city?
-    a: >-
-      Most visitors reach Pohang by bus or KTX first, then take a local bus or
-      taxi to Guryongpo, as it's located outside the central city area. A car or
-      organized tour can simplify the trip.
+  - q: How do I get to the Guryongpo filming site from Seoul?
+    a: Take the KTX to Pohang Station (about 2.5-3 hours), then a local bus or taxi (30-40 minutes) to Guryongpo Modern Culture Street.
+  - q: Is there an entrance fee for the filming location?
+    a: Walking the historic street itself is free; the Guryongpo Modern History Museum charges a small admission, typically a few thousand won — confirm current pricing on-site.
   - q: How much time should I set aside?
-    a: >-
-      A half-day is generally enough to walk the harbor area, browse the old
-      streets, and have a seafood meal before heading back.
-  - q: What else can I do while I'm there?
-    a: >-
-      Enjoy the working fishing port atmosphere, walk the waterfront, and try
-      local seafood, since Guryongpo is known for its fresh catch alongside its
-      drama fame.
+    a: Plan roughly 3-4 hours to walk the historic street, visit the museum, and continue to Homigot Sunrise Square nearby.
+  - q: What's the best time of year to visit?
+    a: Winter offers the moodiest atmosphere and coincides with gwamegi (dried saury) season, but spring and autumn are more comfortable for walking.
+  - q: What else is nearby worth combining with this trip?
+    a: Homigot Sunrise Square (Hand of Harmony sculpture) is 10-15 minutes away, and Pohang's Yeongildae Beach and Space Walk sculpture are easy add-ons back in the city.
 aiGenerated: true
 draft: false
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting. See our [editorial policy](/about).
 
-## Why Guryongpo became a K-drama hotspot
-Guryongpo is a modest fishing town on Pohang's coastline that gained sudden fame as the backdrop for "Hometown Cha-Cha-Cha," a popular tvN drama about a dentist who relocates to a small seaside village. The show leaned heavily on the town's unpolished, nostalgic charm — narrow harbor streets, weathered fishing boats, and a slower pace of life — and that authenticity is exactly what draws visitors today. Unlike purpose-built drama sets, Guryongpo is a living, working port, so the appeal is less about photographing a single landmark and more about experiencing the everyday coastal scenery that made the series feel warm and grounded.
+## Why Pohang draws K-drama fans
 
-## What to expect
-Don't come expecting a theme park or official studio tour. There's no single ticketed "filming site" — instead, the drama's atmosphere is spread across the harbor area, the modern-street (a preserved retro shopping lane), and the waterfront where fishing boats dock. Fans of the show enjoy simply walking the same streets and coastline the characters did, snapping photos of the harbor views, and imagining the show's small-town setting. Because it's a real town, expect ordinary local life alongside the drama tourism — working fishermen, local shops, and residents going about their day.
+Pohang isn't Seoul or Busan, but that's exactly its appeal to production crews: the city preserves pockets of old Korea that are hard to find elsewhere. The standout is Guryongpo (구룡포), a fishing port on the Homigot peninsula that retains a cluster of Japanese colonial-era wooden buildings from the early 20th century, when the town was a base for Japanese fishing fleets. Its low-rise streets, faded signage, and harbor views gave "When the Camellia Blooms" (2019) its nostalgic small-town backdrop, and the area has since become a minor pilgrimage site for fans wanting to walk the same alleys.
 
-## How to get there
-Guryongpo is located on the coast northeast of central Pohang city. Independent travelers typically reach Pohang first (by intercity bus or KTX to Pohang Station), then connect via local bus or taxi out to Guryongpo, as it sits a fair distance from the city center. Having a car or joining a local tour makes the trip considerably easier, since public transit options directly to the harbor area can be infrequent. Once there, the town itself is compact and easily explored on foot.
+## Getting there
 
-## Tips for visiting
-- **Time it as a half-day trip**: combine a walk through the old streets and harbor with a seafood meal, since Guryongpo is known as a fishing port with fresh catches sold and served locally.
-- **Go for the atmosphere, not a checklist**: rather than hunting for one exact spot, enjoy the general coastal streetscape — the harbor, the retro shopping lane, and the sea views are what give the area its drama-set feel.
-- **Check the weather and tides**: as a working harbor town, conditions affect how lively the waterfront feels; calm, sunny days offer the best photo opportunities.
-- **Dress for walking**: streets are hilly and uneven in places, typical of an older coastal town.
-- **Combine with other Pohang sights**: since Guryongpo is a detour from central Pohang, many visitors pair it with other coastal or city attractions to make the trip worthwhile.
+From Seoul, the fastest route is the KTX to Pohang Station (roughly 2.5–3 hours), followed by a local bus or taxi to Guryongpo, about 30–40 minutes away. From Pohang's Intercity Bus Terminal, city buses run directly to Guryongpo Modern History Street — ask staff at the terminal for the current route number, as bus numbers occasionally change. If arriving by car, the drive from central Pohang along the coastal road takes about 40 minutes and continues on to Homigot. There's no subway system in Pohang, so buses and taxis are the practical options.
 
-## Good to know
-Because this is a real, functioning town rather than a curated attraction, respect local residents and businesses, and be mindful that fishing operations continue daily regardless of tourist interest.
+## What to see
+
+The heart of the filming area is Guryongpo Modern Culture Street (구룡포 근대문화역사거리), a preserved row of wooden Japanese-style shopfronts now housing small cafés, a history museum, and a few retro-themed photo spots. Look for the sloped stone stairway and narrow lanes behind the main street — these appear repeatedly in drama scenes and are easy to recognize by their weathered wooden facades. The Guryongpo Modern History Museum, set inside a restored Japanese merchant's house, gives useful context on the town's fishing and colonial past in about 20-30 minutes.
+
+From Guryongpo, it's a short drive (10-15 minutes) to Homigot, the easternmost point of the Korean mainland and one of the country's most famous sunrise-viewing spots. Homigot Sunrise Square features the large bronze "Hand of Harmony" sculpture rising from the sea, paired with a matching hand on the shore — a popular photo pairing even for visitors with no drama connection. The National Lighthouse Museum sits nearby if you want to extend the visit.
+
+For food, Guryongpo's harbor is known for gwamegi (반건조 꽁치, semi-dried saury), a local specialty traditionally air-dried in the winter wind and eaten wrapped in seaweed or lettuce with garlic and chili paste. Small harborside restaurants also serve fresh hoe (raw fish) sourced straight from the morning catch.
+
+## When to go
+
+Early morning is best for two reasons: soft light for photos along the wooden street, and to catch Homigot's namesake sunrise if you stay overnight nearby. Weekdays are noticeably quieter than weekends, when day-trippers from Daegu and Busan arrive by the busload. Winter (December-February) is gwamegi season and also when the coastal wind gives the town its characteristic bracing, moody atmosphere — arguably closer to how it looked on screen. Spring and autumn offer milder weather for walking the open, exposed coastal paths.
+
+## Nearby & tips
+
+Budget half a day for Guryongpo and Homigot together, more if you plan to eat a proper seafood meal. Comfortable shoes matter here — the historic street has uneven stone paving and gentle slopes. Signage in the older part of town is limited in English, so a translation app or offline map is genuinely useful. If time allows, Pohang's Yeongildae Beach and the Space Walk sculpture park back in the city center make an easy add-on for a full-day itinerary, and both are a short taxi ride from Pohang Station.
