@@ -1,28 +1,51 @@
 ---
-title: "History in Gyeongju: A Visitor's Guide"
-description: "A practical visitor's guide to history in Gyeongju, Korea — what to expect, how to get around, and tips for your visit."
-region: "Gyeongju"
-category: "attraction"
-pubDate: 2026-07-20
+title: 'History in Gyeongju: A Visitor''s Guide'
+description: >-
+  A practical visitor's guide to history in Gyeongju, Korea — what to expect,
+  how to get around, and tips for your visit.
+region: Gyeongju
+category: attraction
+pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1473163928189-364b2c4e1135?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8aGlzdG9yeXxlbnwwfDB8fHwxNzg0NTY0MDkxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  credit: "Photo: Andrew Neel on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/photos/maps-lying-on-the-floor-1-29wyvvLJA"
+  url: >-
+    https://images.unsplash.com/photo-1653632445006-0ed9bbe32672?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8aGlzdG9yeSUyMEd5ZW9uZ2p1JTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTkxODg1fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by insung yoon on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@insungpandora?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - "gyeongju"
-  - "history"
-quickAnswer: "Gyeongju is often called 'the museum without walls' because centuries of Silla Dynasty history are scattered across the city as temples, royal tombs, and archaeological parks rather than locked away in a single building. Bulguksa Temple, one of the most iconic Buddhist sites in Korea, is a natural anchor for a history-focused day, and it pairs well with nearby tomb clusters and museum stops if you have more time. Plan for a full day, comfortable walking shoes, and an early start to avoid the heaviest crowds."
+  - gyeongju
+  - history
+quickAnswer: >-
+  Gyeongju is often called 'the museum without walls' because centuries of Silla
+  Dynasty history are scattered across the city as temples, royal tombs, and
+  archaeological parks rather than locked away in a single building. Bulguksa
+  Temple, one of the most iconic Buddhist sites in Korea, is a natural anchor
+  for a history-focused day, and it pairs well with nearby tomb clusters and
+  museum stops if you have more time. Plan for a full day, comfortable walking
+  shoes, and an early start to avoid the heaviest crowds.
 faq:
-  - q: "Is Bulguksa Temple the main historical site to see in Gyeongju?"
-    a: "It's one of the most famous and commonly visited, but Gyeongju has many other historical areas, including tomb parks and archaeological sites closer to downtown, so it's best treated as one part of a broader history itinerary."
-  - q: "How do I get to Bulguksa without a car?"
-    a: "Local buses connect central Gyeongju to the Bulguksa area, and taxis are a convenient alternative if you prefer not to navigate bus routes."
-  - q: "How much time should I set aside for a history-focused visit?"
-    a: "A full day is a reasonable baseline if you want to see Bulguksa along with other Silla-era sites, since the sites are spread across the city rather than clustered together."
-  - q: "Should I confirm hours and ticket prices before going?"
-    a: "Yes — specific admission details can change, so it's worth checking current information shortly before your visit rather than relying on older sources."
+  - q: Is Bulguksa Temple the main historical site to see in Gyeongju?
+    a: >-
+      It's one of the most famous and commonly visited, but Gyeongju has many
+      other historical areas, including tomb parks and archaeological sites
+      closer to downtown, so it's best treated as one part of a broader history
+      itinerary.
+  - q: How do I get to Bulguksa without a car?
+    a: >-
+      Local buses connect central Gyeongju to the Bulguksa area, and taxis are a
+      convenient alternative if you prefer not to navigate bus routes.
+  - q: How much time should I set aside for a history-focused visit?
+    a: >-
+      A full day is a reasonable baseline if you want to see Bulguksa along with
+      other Silla-era sites, since the sites are spread across the city rather
+      than clustered together.
+  - q: Should I confirm hours and ticket prices before going?
+    a: >-
+      Yes — specific admission details can change, so it's worth checking
+      current information shortly before your visit rather than relying on older
+      sources.
 aiGenerated: true
 draft: false
 ---

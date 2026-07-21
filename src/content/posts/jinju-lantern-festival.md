@@ -1,28 +1,48 @@
 ---
-title: "Lantern Festival in Jinju: A Visitor's Guide"
-description: "A practical visitor's guide to lantern festival in Jinju, Korea — what to expect, how to get around, and tips for your visit."
-region: "Jinju"
-category: "event"
-pubDate: 2026-07-20
+title: 'Lantern Festival in Jinju: A Visitor''s Guide'
+description: >-
+  A practical visitor's guide to lantern festival in Jinju, Korea — what to
+  expect, how to get around, and tips for your visit.
+region: Jinju
+category: event
+pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1510673398445-94f476ef2cbc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8bGFudGVybiUyMGZlc3RpdmFsfGVufDB8MHx8fDE3ODQ1NjU2MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  credit: "Photo: Leon Contreras on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/photos/low-angle-shot-of-paper-lanterns-Wu3pkvOIMJk"
+  url: >-
+    https://images.unsplash.com/photo-1542977466-bbacf83cb0b4?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8bGFudGVybiUyMGZlc3RpdmFsJTIwSmluanUlMjBTb3V0aCUyMEtvcmVhfGVufDB8MHx8fDE3ODQ1OTIwMDF8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Valery Rabchenyuk on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@v2306?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - "jinju"
-  - "lantern festival"
-quickAnswer: "The Jinju Namgang Yudeung (Lantern) Festival is held each autumn along the Namgang River in Jinju, South Gyeongsang Province, and is best experienced at dusk when thousands of illuminated lanterns are reflected on the water. Plan to arrive in the late afternoon, walk both banks of the river, and expect large crowds, especially on weekends — book accommodation in Jinju city well ahead. Bring cash for street food stalls and comfortable shoes for a lot of walking along the riverside paths."
+  - jinju
+  - lantern festival
+quickAnswer: >-
+  The Jinju Namgang Yudeung (Lantern) Festival is held each autumn along the
+  Namgang River in Jinju, South Gyeongsang Province, and is best experienced at
+  dusk when thousands of illuminated lanterns are reflected on the water. Plan
+  to arrive in the late afternoon, walk both banks of the river, and expect
+  large crowds, especially on weekends — book accommodation in Jinju city well
+  ahead. Bring cash for street food stalls and comfortable shoes for a lot of
+  walking along the riverside paths.
 faq:
-  - q: "When does the Jinju Lantern Festival take place?"
-    a: "It's held annually in autumn along the Namgang River, but exact dates change each year, so check current schedules before booking travel."
-  - q: "What is the best time of day to see the lanterns?"
-    a: "Evening, after sunset, when the lanterns are lit and reflected on the river — this is the festival's main visual highlight."
-  - q: "Is the festival free to attend?"
-    a: "No verified pricing details are available here, so check official announcements closer to your visit for any entry fees or ticketed areas."
-  - q: "How do I get to the festival area from Jinju station?"
-    a: "The riverside festival grounds and Jinju Fortress are a short taxi or local bus ride from the city's bus and train stations; confirm current routes locally, as arrangements can shift during the festival."
+  - q: When does the Jinju Lantern Festival take place?
+    a: >-
+      It's held annually in autumn along the Namgang River, but exact dates
+      change each year, so check current schedules before booking travel.
+  - q: What is the best time of day to see the lanterns?
+    a: >-
+      Evening, after sunset, when the lanterns are lit and reflected on the
+      river — this is the festival's main visual highlight.
+  - q: Is the festival free to attend?
+    a: >-
+      No verified pricing details are available here, so check official
+      announcements closer to your visit for any entry fees or ticketed areas.
+  - q: How do I get to the festival area from Jinju station?
+    a: >-
+      The riverside festival grounds and Jinju Fortress are a short taxi or
+      local bus ride from the city's bus and train stations; confirm current
+      routes locally, as arrangements can shift during the festival.
 aiGenerated: true
 draft: false
 ---

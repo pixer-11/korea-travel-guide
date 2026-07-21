@@ -1,28 +1,49 @@
 ---
-title: "Suncheon Bay in Suncheon: A Visitor's Guide"
-description: "A practical visitor's guide to Suncheon Bay in Suncheon, Korea — what to expect, how to get around, and tips for your visit."
-region: "Suncheon"
-category: "attraction"
-pubDate: 2026-07-20
+title: 'Suncheon Bay in Suncheon: A Visitor''s Guide'
+description: >-
+  A practical visitor's guide to Suncheon Bay in Suncheon, Korea — what to
+  expect, how to get around, and tips for your visit.
+region: Suncheon
+category: attraction
+pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1777543280599-fe0dbab636f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U3VuY2hlb24lMjBCYXl8ZW58MHwwfHx8MTc4NDU2NTUzMXww&ixlib=rb-4.1.0&q=80&w=1080"
-  credit: "Photo: IRa Kang on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/photos/two-colorful-bird-sculptures-in-a-park-ke3RWRQ1uaU"
+  url: >-
+    https://images.unsplash.com/photo-1697983586877-1ae4e3656f6b?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U3VuY2hlb24lMjBCYXklMjBTdW5jaGVvbiUyMFNvdXRoJTIwS29yZWF8ZW58MHwwfHx8MTc4NDU5MjAwOHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by rawkkim on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@rawkkim?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - "suncheon"
-  - "Suncheon Bay"
-quickAnswer: "Suncheon Bay is South Korea's premier coastal wetland, known for its vast reed fields, tidal flats, and the wide observation views from Yongsan Observatory. Plan for a half-day to a full day, wear comfortable walking shoes, and time your visit for sunset when the reed fields and mudflats turn golden. It's typically visited alongside the adjacent Suncheon Bay National Garden, which sits at the entrance to the wetland area."
+  - suncheon
+  - Suncheon Bay
+quickAnswer: >-
+  Suncheon Bay is South Korea's premier coastal wetland, known for its vast reed
+  fields, tidal flats, and the wide observation views from Yongsan Observatory.
+  Plan for a half-day to a full day, wear comfortable walking shoes, and time
+  your visit for sunset when the reed fields and mudflats turn golden. It's
+  typically visited alongside the adjacent Suncheon Bay National Garden, which
+  sits at the entrance to the wetland area.
 faq:
-  - q: "How much time should I set aside for Suncheon Bay?"
-    a: "Plan at least a half-day (2–4 hours) for the wetland trails and Yongsan Observatory climb. If combining with the adjacent National Garden, budget a full day."
-  - q: "Is Suncheon Bay good for people with limited mobility?"
-    a: "The main boardwalks through the reed fields are relatively flat and manageable, but the climb to Yongsan Observatory involves stairs and slopes, so it may be challenging for some visitors."
-  - q: "What's the best season to visit?"
-    a: "Autumn is the most popular time for the golden reed fields, while winter is favored by birdwatchers for migratory species. Sunset is considered the best time of day year-round."
-  - q: "Can I visit Suncheon Bay without a car?"
-    a: "Yes — Suncheon is accessible by train, and local buses or taxis connect the station to the Suncheon Bay/National Garden entrance area."
+  - q: How much time should I set aside for Suncheon Bay?
+    a: >-
+      Plan at least a half-day (2–4 hours) for the wetland trails and Yongsan
+      Observatory climb. If combining with the adjacent National Garden, budget
+      a full day.
+  - q: Is Suncheon Bay good for people with limited mobility?
+    a: >-
+      The main boardwalks through the reed fields are relatively flat and
+      manageable, but the climb to Yongsan Observatory involves stairs and
+      slopes, so it may be challenging for some visitors.
+  - q: What's the best season to visit?
+    a: >-
+      Autumn is the most popular time for the golden reed fields, while winter
+      is favored by birdwatchers for migratory species. Sunset is considered the
+      best time of day year-round.
+  - q: Can I visit Suncheon Bay without a car?
+    a: >-
+      Yes — Suncheon is accessible by train, and local buses or taxis connect
+      the station to the Suncheon Bay/National Garden entrance area.
 aiGenerated: true
 draft: false
 ---

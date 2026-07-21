@@ -1,28 +1,51 @@
 ---
-title: "Top Attraction in Suwon: A Visitor's Guide"
-description: "A practical visitor's guide to top attraction in Suwon, Korea — what to expect, how to get around, and tips for your visit."
-region: "Suwon"
-category: "attraction"
-pubDate: 2026-07-20
+title: 'Top Attraction in Suwon: A Visitor''s Guide'
+description: >-
+  A practical visitor's guide to top attraction in Suwon, Korea — what to
+  expect, how to get around, and tips for your visit.
+region: Suwon
+category: attraction
+pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1689009222796-595ab6dc489f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8dG9wJTIwYXR0cmFjdGlvbnxlbnwwfDB8fHwxNzg0NTY0MjA5fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  credit: "Photo: Mario Verduzco on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/photos/a-wooden-bridge-with-metal-railings-and-a-sky-background-pNEs7pYxsIo"
+  url: >-
+    https://images.unsplash.com/photo-1685761341534-b155d516eb80?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8dG9wJTIwYXR0cmFjdGlvbiUyMFN1d29uJTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTkyMDEwfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Oat Appleseed on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@oroooat?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - "suwon"
-  - "top attraction"
-quickAnswer: "Suwon's single must-see is Hwaseong Fortress, a UNESCO World Heritage-listed 18th-century walled city that rings the historic downtown with gates, watchtowers, and command posts you can walk along for panoramic views. Plan at least half a day: combine a walk along the ramparts with a visit to Hwaseong Haenggung (the royal temporary palace) inside the walls, and end near Paldalmun gate or the traditional market for food."
+  - suwon
+  - top attraction
+quickAnswer: >-
+  Suwon's single must-see is Hwaseong Fortress, a UNESCO World Heritage-listed
+  18th-century walled city that rings the historic downtown with gates,
+  watchtowers, and command posts you can walk along for panoramic views. Plan at
+  least half a day: combine a walk along the ramparts with a visit to Hwaseong
+  Haenggung (the royal temporary palace) inside the walls, and end near
+  Paldalmun gate or the traditional market for food.
 faq:
-  - q: "Is Hwaseong Fortress really Suwon's top attraction?"
-    a: "Yes — it's the city's defining landmark and the main reason most international visitors come to Suwon, thanks to its UNESCO World Heritage status and well-preserved 18th-century walls, gates, and towers."
-  - q: "How long does it take to see the fortress?"
-    a: "A focused visit covering key gates and the Hwaseong Haenggung palace can take half a day; walking the entire wall circuit plus stops takes longer, so plan according to your available time and mobility."
-  - q: "How do I get from Seoul to the fortress area?"
-    a: "Take a train (Line 1 commuter rail or KTX) to Suwon Station, then continue by local bus or taxi to the old town area near the fortress walls, since the historic center is not within walking distance of the station."
-  - q: "Is the walk difficult?"
-    a: "The rampart path involves hills, stairs, and uneven stone sections, so comfortable walking shoes are recommended; travelers with mobility concerns should choose flatter access points near the gates rather than the full loop."
+  - q: Is Hwaseong Fortress really Suwon's top attraction?
+    a: >-
+      Yes — it's the city's defining landmark and the main reason most
+      international visitors come to Suwon, thanks to its UNESCO World Heritage
+      status and well-preserved 18th-century walls, gates, and towers.
+  - q: How long does it take to see the fortress?
+    a: >-
+      A focused visit covering key gates and the Hwaseong Haenggung palace can
+      take half a day; walking the entire wall circuit plus stops takes longer,
+      so plan according to your available time and mobility.
+  - q: How do I get from Seoul to the fortress area?
+    a: >-
+      Take a train (Line 1 commuter rail or KTX) to Suwon Station, then continue
+      by local bus or taxi to the old town area near the fortress walls, since
+      the historic center is not within walking distance of the station.
+  - q: Is the walk difficult?
+    a: >-
+      The rampart path involves hills, stairs, and uneven stone sections, so
+      comfortable walking shoes are recommended; travelers with mobility
+      concerns should choose flatter access points near the gates rather than
+      the full loop.
 aiGenerated: true
 draft: false
 ---

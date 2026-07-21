@@ -1,28 +1,48 @@
 ---
-title: "Dongpirang Mural Village in Tongyeong: A Visitor's Guide"
-description: "A practical visitor's guide to Dongpirang mural village in Tongyeong, Korea — what to expect, how to get around, and tips for your visit."
-region: "Tongyeong"
-category: "hidden-gem"
-pubDate: 2026-07-20
+title: 'Dongpirang Mural Village in Tongyeong: A Visitor''s Guide'
+description: >-
+  A practical visitor's guide to Dongpirang mural village in Tongyeong, Korea —
+  what to expect, how to get around, and tips for your visit.
+region: Tongyeong
+category: hidden-gem
+pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1757825346102-3406820eca31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8RG9uZ3BpcmFuZyUyMG11cmFsJTIwdmlsbGFnZXxlbnwwfDB8fHwxNzg0NTY1NTczfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  credit: "Photo: IRa Kang on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/photos/building-with-coffee-sign-and-air-conditioners-FmIjpcGuwh4"
+  url: >-
+    https://images.unsplash.com/photo-1588447913806-94501a0d56d6?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8VG9uZ3llb25nJTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTkyMDExfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Hailey Gu on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@haileygu?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - "tongyeong"
-  - "Dongpirang mural village"
-quickAnswer: "Dongpirang Mural Village is a hillside neighborhood of narrow alleys near Tongyeong's Jungang Market where walls, stairways, and building facades are painted with murals by local artists and volunteers. Plan for an hour or two of uphill walking to enjoy the art, harbor views, and small cafes, and go early or late in the day to avoid crowds and harsh sun. Wear comfortable shoes—this is a walking, stair-climbing experience, not a drive-through attraction."
+  - tongyeong
+  - Dongpirang mural village
+quickAnswer: >-
+  Dongpirang Mural Village is a hillside neighborhood of narrow alleys near
+  Tongyeong's Jungang Market where walls, stairways, and building facades are
+  painted with murals by local artists and volunteers. Plan for an hour or two
+  of uphill walking to enjoy the art, harbor views, and small cafes, and go
+  early or late in the day to avoid crowds and harsh sun. Wear comfortable
+  shoes—this is a walking, stair-climbing experience, not a drive-through
+  attraction.
 faq:
-  - q: "Is there an entrance fee for Dongpirang Mural Village?"
-    a: "It's an open residential neighborhood, not a ticketed attraction, so visitors typically walk through freely, though individual cafes or shops inside may charge for their own goods."
-  - q: "How long does it take to see Dongpirang?"
-    a: "Most visitors spend one to two hours wandering the alleys and stairs, longer if you stop often for photos or rest at a cafe."
-  - q: "Is Dongpirang stroller- or wheelchair-friendly?"
-    a: "Not really—the village is built on a steep hillside with many stairs and narrow lanes, so mobility-limited visitors may find it challenging."
-  - q: "What else is nearby that I can combine with a visit?"
-    a: "Jungang Market and Tongyeong's old downtown harbor area are within walking distance, making it easy to combine a market visit with the mural walk."
+  - q: Is there an entrance fee for Dongpirang Mural Village?
+    a: >-
+      It's an open residential neighborhood, not a ticketed attraction, so
+      visitors typically walk through freely, though individual cafes or shops
+      inside may charge for their own goods.
+  - q: How long does it take to see Dongpirang?
+    a: >-
+      Most visitors spend one to two hours wandering the alleys and stairs,
+      longer if you stop often for photos or rest at a cafe.
+  - q: Is Dongpirang stroller- or wheelchair-friendly?
+    a: >-
+      Not really—the village is built on a steep hillside with many stairs and
+      narrow lanes, so mobility-limited visitors may find it challenging.
+  - q: What else is nearby that I can combine with a visit?
+    a: >-
+      Jungang Market and Tongyeong's old downtown harbor area are within walking
+      distance, making it easy to combine a market visit with the mural walk.
 aiGenerated: true
 draft: false
 ---

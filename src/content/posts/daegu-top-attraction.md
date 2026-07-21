@@ -1,28 +1,52 @@
 ---
-title: "Top Attraction in Daegu: A Visitor's Guide"
-description: "A practical visitor's guide to top attraction in Daegu, Korea — what to expect, how to get around, and tips for your visit."
-region: "Daegu"
-category: "attraction"
-pubDate: 2026-07-20
+title: 'Top Attraction in Daegu: A Visitor''s Guide'
+description: >-
+  A practical visitor's guide to top attraction in Daegu, Korea — what to
+  expect, how to get around, and tips for your visit.
+region: Daegu
+category: attraction
+pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1689009222796-595ab6dc489f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8dG9wJTIwYXR0cmFjdGlvbnxlbnwwfDB8fHwxNzg0NTY0MjA5fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  credit: "Photo: Mario Verduzco on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/photos/a-wooden-bridge-with-metal-railings-and-a-sky-background-pNEs7pYxsIo"
+  url: >-
+    https://images.unsplash.com/photo-1609455677069-6830c8f2ee52?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8dG9wJTIwYXR0cmFjdGlvbiUyMERhZWd1JTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTkxODgxfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Danielle Austria on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@daniaustria?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - "daegu"
-  - "top attraction"
-quickAnswer: "Daegu's top attractions cluster around a walkable downtown core—Seomun Market, the Jung-gu \"alleyway\" historic districts, and nearby mountain parks like Palgongsan—making it easy to explore without a car. Base yourself near Banwoldang or Jungangno subway stations, plan on a full day for downtown sights and a half-day extra for a mountain or temple excursion, and carry cash for market stalls and small eateries."
+  - daegu
+  - top attraction
+quickAnswer: >-
+  Daegu's top attractions cluster around a walkable downtown core—Seomun Market,
+  the Jung-gu "alleyway" historic districts, and nearby mountain parks like
+  Palgongsan—making it easy to explore without a car. Base yourself near
+  Banwoldang or Jungangno subway stations, plan on a full day for downtown
+  sights and a half-day extra for a mountain or temple excursion, and carry cash
+  for market stalls and small eateries.
 faq:
-  - q: "What is Daegu best known for among travelers?"
-    a: "Daegu is known for its historic downtown alleyways, traditional markets, and easy access to nearby mountain parks—offering a blend of urban heritage and nature within a compact, walkable area."
-  - q: "How do I get around Daegu without a car?"
-    a: "The Daegu Metro subway system covers the main downtown attractions well, with stations like Banwoldang and Jungangno serving as convenient hubs. For mountain areas outside the city, local buses or taxis from the nearest station are usually needed."
-  - q: "How much time should I budget for Daegu's main attractions?"
-    a: "A full day is enough to comfortably explore the downtown historic districts and market areas on foot; add a half-day or more if you want to include a mountain hike or temple visit outside the city center."
-  - q: "What's the best time of year to visit?"
-    a: "Spring and autumn offer the most comfortable weather for walking and hiking, while summer tends to be hot and humid and winter cold but generally dry—check seasonal festival calendars too, as these can shape the best time to go."
+  - q: What is Daegu best known for among travelers?
+    a: >-
+      Daegu is known for its historic downtown alleyways, traditional markets,
+      and easy access to nearby mountain parks—offering a blend of urban
+      heritage and nature within a compact, walkable area.
+  - q: How do I get around Daegu without a car?
+    a: >-
+      The Daegu Metro subway system covers the main downtown attractions well,
+      with stations like Banwoldang and Jungangno serving as convenient hubs.
+      For mountain areas outside the city, local buses or taxis from the nearest
+      station are usually needed.
+  - q: How much time should I budget for Daegu's main attractions?
+    a: >-
+      A full day is enough to comfortably explore the downtown historic
+      districts and market areas on foot; add a half-day or more if you want to
+      include a mountain hike or temple visit outside the city center.
+  - q: What's the best time of year to visit?
+    a: >-
+      Spring and autumn offer the most comfortable weather for walking and
+      hiking, while summer tends to be hot and humid and winter cold but
+      generally dry—check seasonal festival calendars too, as these can shape
+      the best time to go.
 aiGenerated: true
 draft: false
 ---

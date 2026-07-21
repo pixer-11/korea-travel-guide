@@ -1,28 +1,49 @@
 ---
-title: "Cheongsapo in Busan: A Visitor's Guide"
-description: "A practical visitor's guide to Cheongsapo in Busan, Korea — what to expect, how to get around, and tips for your visit."
-region: "Busan"
-category: "trendy"
-pubDate: 2026-07-20
+title: 'Cheongsapo in Busan: A Visitor''s Guide'
+description: >-
+  A practical visitor's guide to Cheongsapo in Busan, Korea — what to expect,
+  how to get around, and tips for your visit.
+region: Busan
+category: trendy
+pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1772034591756-daa889539484?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8Q2hlb25nc2Fwb3xlbnwwfDB8fHwxNzg0NTY0NjI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  credit: "Photo: yi sk on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/photos/coastal-town-with-boats-docked-in-the-harbor-1LK0f_pJaeo"
+  url: >-
+    https://images.unsplash.com/photo-1591520284162-8e64eceebacf?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8Q2hlb25nc2FwbyUyMEJ1c2FuJTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTkxODc2fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Thomas Roger Lux on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@thomasrogerlux?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - "busan"
-  - "Cheongsapo"
-quickAnswer: "Cheongsapo is a former fishing village on Busan's northeastern coast, just past Haeundae, now known for its cluster of ocean-view cafés, a working harbor, and coastal walking paths with views toward Dongbaek Island and the Gwangan Bridge. It's best visited on foot as part of a half-day loop that includes Haeundae or Songjeong, ideally in late afternoon for sunset light over the water."
+  - busan
+  - Cheongsapo
+quickAnswer: >-
+  Cheongsapo is a former fishing village on Busan's northeastern coast, just
+  past Haeundae, now known for its cluster of ocean-view cafés, a working
+  harbor, and coastal walking paths with views toward Dongbaek Island and the
+  Gwangan Bridge. It's best visited on foot as part of a half-day loop that
+  includes Haeundae or Songjeong, ideally in late afternoon for sunset light
+  over the water.
 faq:
-  - q: "Is Cheongsapo a beach destination?"
-    a: "Not primarily. It's a small fishing harbor and coastal village rather than a swimming beach, valued more for its views, walking paths, and café scene than for beach activities."
-  - q: "How far is Cheongsapo from Haeundae?"
-    a: "It's a short trip along the coastal road, easily reached by taxi, local bus, or on foot via the coastal walking path connecting to Haeundae and Dongbaek Island."
-  - q: "What is Cheongsapo known for?"
-    a: "It's known for combining an active, traditional fishing harbor with a newer wave of ocean-view cafés, making it a popular spot for scenic coastal walks and photos."
-  - q: "Do I need cash there?"
-    a: "It's useful to carry some cash for smaller, older harbor-side stalls and eateries, even though many newer cafés in the area accept cards."
+  - q: Is Cheongsapo a beach destination?
+    a: >-
+      Not primarily. It's a small fishing harbor and coastal village rather than
+      a swimming beach, valued more for its views, walking paths, and café scene
+      than for beach activities.
+  - q: How far is Cheongsapo from Haeundae?
+    a: >-
+      It's a short trip along the coastal road, easily reached by taxi, local
+      bus, or on foot via the coastal walking path connecting to Haeundae and
+      Dongbaek Island.
+  - q: What is Cheongsapo known for?
+    a: >-
+      It's known for combining an active, traditional fishing harbor with a
+      newer wave of ocean-view cafés, making it a popular spot for scenic
+      coastal walks and photos.
+  - q: Do I need cash there?
+    a: >-
+      It's useful to carry some cash for smaller, older harbor-side stalls and
+      eateries, even though many newer cafés in the area accept cards.
 aiGenerated: true
 draft: false
 ---

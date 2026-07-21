@@ -1,28 +1,50 @@
 ---
-title: "Abai Village in Sokcho: A Visitor's Guide"
-description: "A practical visitor's guide to Abai Village in Sokcho, Korea — what to expect, how to get around, and tips for your visit."
-region: "Sokcho"
-category: "hidden-gem"
-pubDate: 2026-07-20
+title: 'Abai Village in Sokcho: A Visitor''s Guide'
+description: >-
+  A practical visitor's guide to Abai Village in Sokcho, Korea — what to expect,
+  how to get around, and tips for your visit.
+region: Sokcho
+category: hidden-gem
+pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "/images/placeholder-market.svg"
-  credit: "Placeholder image"
-  license: "placeholder"
-  source: "local"
+  url: >-
+    https://images.unsplash.com/photo-1703825864792-5880081beaaf?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U29rY2hvJTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTkyMDA2fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Elliot Gouy on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@gouyelliot?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - "sokcho"
-  - "Abai Village"
-quickAnswer: "Abai Village sits on a narrow sandy peninsula in Sokcho, across the harbor from the main downtown, and is best reached by the hand-pulled ferry (gaetbae) that locals still use to cross the channel. Come to walk the compact village streets, learn about its history as a settlement of displaced North Korean refugees from the Korean War, and try the region's distinctive squid-based dishes before catching the ferry or looping back on foot via the harbor bridge."
+  - sokcho
+  - Abai Village
+quickAnswer: >-
+  Abai Village sits on a narrow sandy peninsula in Sokcho, across the harbor
+  from the main downtown, and is best reached by the hand-pulled ferry (gaetbae)
+  that locals still use to cross the channel. Come to walk the compact village
+  streets, learn about its history as a settlement of displaced North Korean
+  refugees from the Korean War, and try the region's distinctive squid-based
+  dishes before catching the ferry or looping back on foot via the harbor
+  bridge.
 faq:
-  - q: "What is Abai Village known for?"
-    a: "It's known as a community founded by North Korean refugees displaced during the Korean War, and for squid-based specialties, including a local version of squid sundae, tied to that history."
-  - q: "How do you get to Abai Village?"
-    a: "The most distinctive route is the gaetbae, a hand-pulled ferry crossing the narrow channel from Sokcho's harbor area. You can also reach the peninsula on foot or by car via the harbor bridge."
-  - q: "Is Abai Village worth visiting if I'm short on time in Sokcho?"
-    a: "It's a compact, easily walkable area close to central Sokcho, so it works well as a half-day add-on alongside the beach or harbor markets rather than requiring a full separate trip."
-  - q: "Do I need cash for the ferry?"
-    a: "Yes, it's a simple local crossing, so carrying small cash is recommended since card payment shouldn't be assumed."
+  - q: What is Abai Village known for?
+    a: >-
+      It's known as a community founded by North Korean refugees displaced
+      during the Korean War, and for squid-based specialties, including a local
+      version of squid sundae, tied to that history.
+  - q: How do you get to Abai Village?
+    a: >-
+      The most distinctive route is the gaetbae, a hand-pulled ferry crossing
+      the narrow channel from Sokcho's harbor area. You can also reach the
+      peninsula on foot or by car via the harbor bridge.
+  - q: Is Abai Village worth visiting if I'm short on time in Sokcho?
+    a: >-
+      It's a compact, easily walkable area close to central Sokcho, so it works
+      well as a half-day add-on alongside the beach or harbor markets rather
+      than requiring a full separate trip.
+  - q: Do I need cash for the ferry?
+    a: >-
+      Yes, it's a simple local crossing, so carrying small cash is recommended
+      since card payment shouldn't be assumed.
 aiGenerated: true
 draft: false
 ---

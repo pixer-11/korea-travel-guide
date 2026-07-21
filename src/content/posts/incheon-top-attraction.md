@@ -1,28 +1,49 @@
 ---
-title: "Top Attraction in Incheon: A Visitor's Guide"
-description: "A practical visitor's guide to top attraction in Incheon, Korea — what to expect, how to get around, and tips for your visit."
-region: "Incheon"
-category: "attraction"
-pubDate: 2026-07-20
+title: 'Top Attraction in Incheon: A Visitor''s Guide'
+description: >-
+  A practical visitor's guide to top attraction in Incheon, Korea — what to
+  expect, how to get around, and tips for your visit.
+region: Incheon
+category: attraction
+pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1689009222796-595ab6dc489f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8dG9wJTIwYXR0cmFjdGlvbnxlbnwwfDB8fHwxNzg0NTY0MjA5fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  credit: "Photo: Mario Verduzco on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/photos/a-wooden-bridge-with-metal-railings-and-a-sky-background-pNEs7pYxsIo"
+  url: >-
+    https://images.unsplash.com/photo-1764212964673-249757581fb7?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8dG9wJTIwYXR0cmFjdGlvbiUyMEluY2hlb24lMjBTb3V0aCUyMEtvcmVhfGVufDB8MHx8fDE3ODQ1OTE4ODl8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by rawkkim on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@rawkkim?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - "incheon"
-  - "top attraction"
-quickAnswer: "Incheon's appeal lies less in a single must-see monument and more in its collection of waterfront and cultural districts — historic Incheon Chinatown, the man-made Songdo Central Park area, and island getaways like Wolmido reachable by subway or a short ferry. Start with whichever matches your time: a half-day for Chinatown and the harbor, a full day if you want to add an island or park."
+  - incheon
+  - top attraction
+quickAnswer: >-
+  Incheon's appeal lies less in a single must-see monument and more in its
+  collection of waterfront and cultural districts — historic Incheon Chinatown,
+  the man-made Songdo Central Park area, and island getaways like Wolmido
+  reachable by subway or a short ferry. Start with whichever matches your time:
+  a half-day for Chinatown and the harbor, a full day if you want to add an
+  island or park.
 faq:
-  - q: "Is Incheon worth visiting if I'm just passing through the airport?"
-    a: "Yes — Incheon's port district and islands are close enough to justify a half-day or full-day stop before or after a flight, especially if you have a long layover."
-  - q: "How do I get from Seoul to Incheon's main attractions?"
-    a: "The AREX train and several Seoul Subway lines connect directly into Incheon, with travel times generally between 40 minutes and just over an hour depending on your destination."
-  - q: "Do I need a car to see Incheon's attractions?"
-    a: "No — subway and bus cover the main areas well, though reaching some islands may require a bus transfer or a short ferry ride."
-  - q: "What is Incheon best known for among visitors?"
-    a: "Its historic port heritage (including one of Korea's most notable Chinatown districts), modern planned areas like Songdo, and easy access to island getaways just outside the city."
+  - q: Is Incheon worth visiting if I'm just passing through the airport?
+    a: >-
+      Yes — Incheon's port district and islands are close enough to justify a
+      half-day or full-day stop before or after a flight, especially if you have
+      a long layover.
+  - q: How do I get from Seoul to Incheon's main attractions?
+    a: >-
+      The AREX train and several Seoul Subway lines connect directly into
+      Incheon, with travel times generally between 40 minutes and just over an
+      hour depending on your destination.
+  - q: Do I need a car to see Incheon's attractions?
+    a: >-
+      No — subway and bus cover the main areas well, though reaching some
+      islands may require a bus transfer or a short ferry ride.
+  - q: What is Incheon best known for among visitors?
+    a: >-
+      Its historic port heritage (including one of Korea's most notable
+      Chinatown districts), modern planned areas like Songdo, and easy access to
+      island getaways just outside the city.
 aiGenerated: true
 draft: false
 ---

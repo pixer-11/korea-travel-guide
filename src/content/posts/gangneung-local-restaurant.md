@@ -1,28 +1,48 @@
 ---
-title: "Local Restaurant in Gangneung: A Visitor's Guide"
-description: "A practical visitor's guide to local restaurant in Gangneung, Korea — what to expect, how to get around, and tips for your visit."
-region: "Gangneung"
-category: "restaurant"
-pubDate: 2026-07-20
+title: 'Local Restaurant in Gangneung: A Visitor''s Guide'
+description: >-
+  A practical visitor's guide to local restaurant in Gangneung, Korea — what to
+  expect, how to get around, and tips for your visit.
+region: Gangneung
+category: restaurant
+pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1525610553991-2bede1a236e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8bG9jYWwlMjByZXN0YXVyYW50fGVufDB8MHx8fDE3ODQ1NjQ0ODN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  credit: "Photo: Rod Long on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/photos/group-of-people-eating-on-restaurant-I79Pgmhmy5M"
+  url: >-
+    https://images.unsplash.com/photo-1549221428-495f00892696?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8bG9jYWwlMjByZXN0YXVyYW50JTIwR2FuZ25ldW5nJTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTkxODgzfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Bundo Kim on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@bundo?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - "gangneung"
-  - "local restaurant"
-quickAnswer: "Gangneung's dining scene centers on fresh East Sea seafood, hearty Korean comfort food, and coffee culture, with the best local restaurants clustered around Gangneung Jungang Market, Anmok Beach's coffee street, and the harbor area near Jumunjin. Skip chain restaurants near the KTX station and head instead to market alleys and neighborhood eateries where menus are often only in Korean but the food is freshest and cheapest."
+  - gangneung
+  - local restaurant
+quickAnswer: >-
+  Gangneung's dining scene centers on fresh East Sea seafood, hearty Korean
+  comfort food, and coffee culture, with the best local restaurants clustered
+  around Gangneung Jungang Market, Anmok Beach's coffee street, and the harbor
+  area near Jumunjin. Skip chain restaurants near the KTX station and head
+  instead to market alleys and neighborhood eateries where menus are often only
+  in Korean but the food is freshest and cheapest.
 faq:
-  - q: "Do local restaurants in Gangneung have English menus?"
-    a: "Rarely, especially at smaller family-run places. A translation app or pointing at other diners' dishes usually works well."
-  - q: "What is Gangneung best known for food-wise?"
-    a: "Fresh East Sea seafood, buckwheat noodles (makguksu), soft tofu stew (sundubu), and its distinctive coffee culture centered around Anmok Beach."
-  - q: "Where should I go to find a variety of local dishes in one trip?"
-    a: "Gangneung Jungang Market and its surrounding food alleys are a good starting point for sampling several local specialties without booking multiple restaurants."
-  - q: "Is it better to go to Jumunjin or stay in central Gangneung for seafood?"
-    a: "Both work well: central Gangneung offers convenience and walkability, while Jumunjin's fish market area is worth the short taxi ride for particularly fresh catch."
+  - q: Do local restaurants in Gangneung have English menus?
+    a: >-
+      Rarely, especially at smaller family-run places. A translation app or
+      pointing at other diners' dishes usually works well.
+  - q: What is Gangneung best known for food-wise?
+    a: >-
+      Fresh East Sea seafood, buckwheat noodles (makguksu), soft tofu stew
+      (sundubu), and its distinctive coffee culture centered around Anmok Beach.
+  - q: Where should I go to find a variety of local dishes in one trip?
+    a: >-
+      Gangneung Jungang Market and its surrounding food alleys are a good
+      starting point for sampling several local specialties without booking
+      multiple restaurants.
+  - q: Is it better to go to Jumunjin or stay in central Gangneung for seafood?
+    a: >-
+      Both work well: central Gangneung offers convenience and walkability,
+      while Jumunjin's fish market area is worth the short taxi ride for
+      particularly fresh catch.
 aiGenerated: true
 draft: false
 ---

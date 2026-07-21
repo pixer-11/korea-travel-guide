@@ -204,7 +204,9 @@ async function buildPlacelessPost(target) {
     title, region: target.region, category: target.category, facts,
   });
 
-  const hero = await pickImage(null, target.topic);
+  // Region + Korea in the image query avoids wrong-country stock photos.
+  const imageQuery = `${target.topic} ${target.region} South Korea`;
+  const hero = await pickImage(null, imageQuery);
   const heroImage = isImageAllowed(hero) ? hero : null;
 
   return assemble(target, null, title, heroImage, [], { body, quickAnswer, faq });

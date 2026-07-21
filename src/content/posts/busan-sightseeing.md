@@ -1,28 +1,52 @@
 ---
-title: "Sightseeing in Busan: A Visitor's Guide"
-description: "A practical visitor's guide to sightseeing in Busan, Korea — what to expect, how to get around, and tips for your visit."
-region: "Busan"
-category: "attraction"
-pubDate: 2026-07-20
+title: 'Sightseeing in Busan: A Visitor''s Guide'
+description: >-
+  A practical visitor's guide to sightseeing in Busan, Korea — what to expect,
+  how to get around, and tips for your visit.
+region: Busan
+category: attraction
+pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1528164344705-47542687000d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8c2lnaHRzZWVpbmd8ZW58MHwwfHx8MTc4NDU2NDA0NXww&ixlib=rb-4.1.0&q=80&w=1080"
-  credit: "Photo: Manuel Cosentino on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/photos/mt-fuji-n--CMLApjfI"
+  url: >-
+    https://images.unsplash.com/photo-1591520284162-8e64eceebacf?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8c2lnaHRzZWVpbmclMjBCdXNhbiUyMFNvdXRoJTIwS29yZWF8ZW58MHwwfHx8MTc4NDU5MTg3OHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Thomas Roger Lux on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@thomasrogerlux?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - "busan"
-  - "sightseeing"
-quickAnswer: "Busan's sightseeing highlights are spread across distinct districts—rather than one downtown core—so plan by neighborhood rather than trying to hop between them all in a day. Gamcheon Culture Village, the hillside cluster of colorful houses and street art, is one of the city's most photographed areas and a good anchor for a half-day walking visit. Wear comfortable shoes, bring cash for small vendors, and expect stairs and slopes throughout."
+  - busan
+  - sightseeing
+quickAnswer: >-
+  Busan's sightseeing highlights are spread across distinct districts—rather
+  than one downtown core—so plan by neighborhood rather than trying to hop
+  between them all in a day. Gamcheon Culture Village, the hillside cluster of
+  colorful houses and street art, is one of the city's most photographed areas
+  and a good anchor for a half-day walking visit. Wear comfortable shoes, bring
+  cash for small vendors, and expect stairs and slopes throughout.
 faq:
-  - q: "Is Gamcheon Culture Village good for visitors with mobility issues?"
-    a: "It can be challenging, since the village is built on a steep hillside with many stairs and sloped alleys. Visitors with mobility concerns should expect a slower pace and may want to focus on the lower sections nearer the entrance."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors spend a couple of hours wandering the alleys, taking photos, and stopping for a snack or coffee, though art and photography enthusiasts often stay longer."
-  - q: "Is it better to visit by taxi or public transit?"
-    a: "Both work, but taxis are often more convenient given the hillside location and the need for a final connection from the nearest subway line. Public transit is cheaper but usually requires a bus or taxi transfer for the last stretch."
-  - q: "What should I bring?"
-    a: "Comfortable walking shoes, small cash for local vendors, and, if visiting in warmer months, water and sun protection, since much of the walking is outdoors and uphill."
+  - q: Is Gamcheon Culture Village good for visitors with mobility issues?
+    a: >-
+      It can be challenging, since the village is built on a steep hillside with
+      many stairs and sloped alleys. Visitors with mobility concerns should
+      expect a slower pace and may want to focus on the lower sections nearer
+      the entrance.
+  - q: How long should I plan to spend there?
+    a: >-
+      Most visitors spend a couple of hours wandering the alleys, taking photos,
+      and stopping for a snack or coffee, though art and photography enthusiasts
+      often stay longer.
+  - q: Is it better to visit by taxi or public transit?
+    a: >-
+      Both work, but taxis are often more convenient given the hillside location
+      and the need for a final connection from the nearest subway line. Public
+      transit is cheaper but usually requires a bus or taxi transfer for the
+      last stretch.
+  - q: What should I bring?
+    a: >-
+      Comfortable walking shoes, small cash for local vendors, and, if visiting
+      in warmer months, water and sun protection, since much of the walking is
+      outdoors and uphill.
 aiGenerated: true
 draft: false
 ---

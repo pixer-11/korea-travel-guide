@@ -1,28 +1,51 @@
 ---
-title: "Top Attraction in Yeosu: A Visitor's Guide"
-description: "A practical visitor's guide to top attraction in Yeosu, Korea — what to expect, how to get around, and tips for your visit."
-region: "Yeosu"
-category: "attraction"
-pubDate: 2026-07-20
+title: 'Top Attraction in Yeosu: A Visitor''s Guide'
+description: >-
+  A practical visitor's guide to top attraction in Yeosu, Korea — what to
+  expect, how to get around, and tips for your visit.
+region: Yeosu
+category: attraction
+pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1689009222796-595ab6dc489f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8dG9wJTIwYXR0cmFjdGlvbnxlbnwwfDB8fHwxNzg0NTY0MjA5fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  credit: "Photo: Mario Verduzco on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/photos/a-wooden-bridge-with-metal-railings-and-a-sky-background-pNEs7pYxsIo"
+  url: >-
+    https://images.unsplash.com/photo-1591520284162-8e64eceebacf?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8dG9wJTIwYXR0cmFjdGlvbiUyMFllb3N1JTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTkyMDEyfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Thomas Roger Lux on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@thomasrogerlux?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - "yeosu"
-  - "top attraction"
-quickAnswer: "Yeosu's biggest draw is its dramatic coastal scenery — a peninsula city built around a working harbor, cable car views, and a famous nighttime waterfront where lights, music, and sea air come together. Plan a half-day to a full day around the harbor and cable car area, go in the late afternoon so you catch both daylight views and the evening light show, and expect crowds on weekends and holidays."
+  - yeosu
+  - top attraction
+quickAnswer: >-
+  Yeosu's biggest draw is its dramatic coastal scenery — a peninsula city built
+  around a working harbor, cable car views, and a famous nighttime waterfront
+  where lights, music, and sea air come together. Plan a half-day to a full day
+  around the harbor and cable car area, go in the late afternoon so you catch
+  both daylight views and the evening light show, and expect crowds on weekends
+  and holidays.
 faq:
-  - q: "How much time should I set aside for Yeosu's main attraction area?"
-    a: "A half-day covers the highlights, but a full day lets you experience both the daytime coastal views and the nighttime waterfront lighting, which many visitors consider the highlight."
-  - q: "What's the best time of day to visit?"
-    a: "Late afternoon into evening is ideal, since it lets you see the harbor and cable car views in daylight and then stay for the illuminated night scenery without needing a separate trip."
-  - q: "Is the cable car worth it if the weather looks uncertain?"
-    a: "The cable car is weather-dependent and can be affected by wind or fog, so check conditions on the day and have an alternative viewpoint or activity planned as backup."
-  - q: "Do I need a car to get around Yeosu's attractions?"
-    a: "Not necessarily — trains, buses, and flights connect Yeosu to the rest of the country, and local buses or taxis link the terminals to the waterfront area, though attractions are spread along the coast rather than in one walkable cluster."
+  - q: How much time should I set aside for Yeosu's main attraction area?
+    a: >-
+      A half-day covers the highlights, but a full day lets you experience both
+      the daytime coastal views and the nighttime waterfront lighting, which
+      many visitors consider the highlight.
+  - q: What's the best time of day to visit?
+    a: >-
+      Late afternoon into evening is ideal, since it lets you see the harbor and
+      cable car views in daylight and then stay for the illuminated night
+      scenery without needing a separate trip.
+  - q: Is the cable car worth it if the weather looks uncertain?
+    a: >-
+      The cable car is weather-dependent and can be affected by wind or fog, so
+      check conditions on the day and have an alternative viewpoint or activity
+      planned as backup.
+  - q: Do I need a car to get around Yeosu's attractions?
+    a: >-
+      Not necessarily — trains, buses, and flights connect Yeosu to the rest of
+      the country, and local buses or taxis link the terminals to the waterfront
+      area, though attractions are spread along the coast rather than in one
+      walkable cluster.
 aiGenerated: true
 draft: false
 ---

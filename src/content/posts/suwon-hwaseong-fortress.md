@@ -1,28 +1,50 @@
 ---
-title: "Hwaseong Fortress in Suwon: A Visitor's Guide"
-description: "A practical visitor's guide to Hwaseong Fortress in Suwon, Korea — what to expect, how to get around, and tips for your visit."
-region: "Suwon"
-category: "attraction"
-pubDate: 2026-07-20
+title: 'Hwaseong Fortress in Suwon: A Visitor''s Guide'
+description: >-
+  A practical visitor's guide to Hwaseong Fortress in Suwon, Korea — what to
+  expect, how to get around, and tips for your visit.
+region: Suwon
+category: attraction
+pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1569288568697-70be51028188?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SHdhc2VvbmclMjBGb3J0cmVzc3xlbnwwfDB8fHwxNzg0NTY1NjU1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  credit: "Photo: Max Rosero on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/photos/two-women-wearing-hanbok-dresses-standing-in-front-of-building-Nu4j_Tms2ro"
+  url: >-
+    https://images.unsplash.com/photo-1674999603094-adf8172fda45?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SHdhc2VvbmclMjBGb3J0cmVzcyUyMFN1d29uJTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTkyMDA5fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Jean-Pierre Tran on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@jeanpierretran?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - "suwon"
-  - "Hwaseong Fortress"
-quickAnswer: "Hwaseong Fortress is a UNESCO-listed 18th-century walled fortress that loops around the older part of Suwon, just south of Seoul. Plan a half-day to walk (or bike) sections of the wall, pass through its gates and command posts, and take in views over the city; the fortress is easiest to reach by train from Seoul followed by a short taxi or bus ride to the walls."
+  - suwon
+  - Hwaseong Fortress
+quickAnswer: >-
+  Hwaseong Fortress is a UNESCO-listed 18th-century walled fortress that loops
+  around the older part of Suwon, just south of Seoul. Plan a half-day to walk
+  (or bike) sections of the wall, pass through its gates and command posts, and
+  take in views over the city; the fortress is easiest to reach by train from
+  Seoul followed by a short taxi or bus ride to the walls.
 faq:
-  - q: "How long does it take to walk the whole fortress?"
-    a: "Times vary widely depending on pace and stops, but covering the entire perimeter is a substantial walk; many visitors instead choose to explore a portion of the wall and its key gates rather than the full loop in one visit."
-  - q: "Is Hwaseong Fortress suitable for a day trip from Seoul?"
-    a: "Yes. Suwon is well connected to Seoul by train, and the fortress area can realistically be explored in a half-day to a full day, making it a popular day-trip destination."
-  - q: "Do I need to walk the entire wall, or are there other ways to get around?"
-    a: "You don't need to walk everything — Suwon offers local transport options within the fortress area that let visitors cover longer stretches without walking the full loop, useful if time or mobility is limited."
-  - q: "What should I wear or bring?"
-    a: "Comfortable, sturdy footwear is recommended since parts of the route involve stairs and sloped, uneven terrain, and since much of the walk is outdoors, dressing for the season and weather is worthwhile."
+  - q: How long does it take to walk the whole fortress?
+    a: >-
+      Times vary widely depending on pace and stops, but covering the entire
+      perimeter is a substantial walk; many visitors instead choose to explore a
+      portion of the wall and its key gates rather than the full loop in one
+      visit.
+  - q: Is Hwaseong Fortress suitable for a day trip from Seoul?
+    a: >-
+      Yes. Suwon is well connected to Seoul by train, and the fortress area can
+      realistically be explored in a half-day to a full day, making it a popular
+      day-trip destination.
+  - q: 'Do I need to walk the entire wall, or are there other ways to get around?'
+    a: >-
+      You don't need to walk everything — Suwon offers local transport options
+      within the fortress area that let visitors cover longer stretches without
+      walking the full loop, useful if time or mobility is limited.
+  - q: What should I wear or bring?
+    a: >-
+      Comfortable, sturdy footwear is recommended since parts of the route
+      involve stairs and sloped, uneven terrain, and since much of the walk is
+      outdoors, dressing for the season and weather is worthwhile.
 aiGenerated: true
 draft: false
 ---

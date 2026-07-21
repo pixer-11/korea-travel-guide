@@ -1,28 +1,50 @@
 ---
-title: "Nami Island K-Drama in Gapyeong: A Visitor's Guide"
-description: "A practical visitor's guide to Nami Island K-drama in Gapyeong, Korea — what to expect, how to get around, and tips for your visit."
-region: "Gapyeong"
-category: "attraction"
-pubDate: 2026-07-20
+title: 'Nami Island K-Drama in Gapyeong: A Visitor''s Guide'
+description: >-
+  A practical visitor's guide to Nami Island K-drama in Gapyeong, Korea — what
+  to expect, how to get around, and tips for your visit.
+region: Gapyeong
+category: attraction
+pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1553603227-2358aabe821e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8TmFtaSUyMElzbGFuZCUyMEstZHJhbWF8ZW58MHwwfHx8MTc4NDU2NTQ3MHww&ixlib=rb-4.1.0&q=80&w=1080"
-  credit: "Photo: Marek Okon on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/photos/photography-of-island-against-sky-WScpndZFrOM"
+  url: >-
+    https://images.unsplash.com/photo-1724618194655-c3c12254d61c?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8TmFtaSUyMElzbGFuZCUyMEstZHJhbWElMjBHYXB5ZW9uZyUyMFNvdXRoJTIwS29yZWF8ZW58MHwwfHx8MTc4NDU5MTg4NHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Andrea De Santis on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@santesson89?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - "gapyeong"
-  - "Nami Island K-drama"
-quickAnswer: "Nami Island is a crescent-shaped island on the Han River near Gapyeong, famous as the filming location for the K-drama \"Winter Sonata\" and reachable by a short ferry ride after taking a train or bus to Gapyeong. Plan for a half-day to full-day visit, arrive by mid-morning to avoid the heaviest crowds, and expect to walk extensively on tree-lined paths, so comfortable shoes and weather-appropriate layers are essential."
+  - gapyeong
+  - Nami Island K-drama
+quickAnswer: >-
+  Nami Island is a crescent-shaped island on the Han River near Gapyeong, famous
+  as the filming location for the K-drama "Winter Sonata" and reachable by a
+  short ferry ride after taking a train or bus to Gapyeong. Plan for a half-day
+  to full-day visit, arrive by mid-morning to avoid the heaviest crowds, and
+  expect to walk extensively on tree-lined paths, so comfortable shoes and
+  weather-appropriate layers are essential.
 faq:
-  - q: "How do I get to Nami Island from Seoul?"
-    a: "Take a train (such as the ITX) to Gapyeong Station, then a local bus or taxi to the ferry terminal, followed by a short ferry ride to the island. Bundled day-trip tours from Seoul are also widely available."
-  - q: "Is Nami Island only for K-drama fans?"
-    a: "No — while it's famous for 'Winter Sonata' filming locations, the island is also a general nature and leisure destination popular for its seasonal scenery and walking paths."
-  - q: "How long should I plan to spend there?"
-    a: "A few hours to a full day is typical, depending on how much walking and photo-taking you want to do; many visitors combine it with other Gapyeong-area attractions."
-  - q: "What's the best time of year to visit?"
-    a: "The island's tree-lined paths change dramatically by season, with especially popular looks in autumn for foliage and winter for snow scenes, though this also means larger crowds during those peak periods."
+  - q: How do I get to Nami Island from Seoul?
+    a: >-
+      Take a train (such as the ITX) to Gapyeong Station, then a local bus or
+      taxi to the ferry terminal, followed by a short ferry ride to the island.
+      Bundled day-trip tours from Seoul are also widely available.
+  - q: Is Nami Island only for K-drama fans?
+    a: >-
+      No — while it's famous for 'Winter Sonata' filming locations, the island
+      is also a general nature and leisure destination popular for its seasonal
+      scenery and walking paths.
+  - q: How long should I plan to spend there?
+    a: >-
+      A few hours to a full day is typical, depending on how much walking and
+      photo-taking you want to do; many visitors combine it with other
+      Gapyeong-area attractions.
+  - q: What's the best time of year to visit?
+    a: >-
+      The island's tree-lined paths change dramatically by season, with
+      especially popular looks in autumn for foliage and winter for snow scenes,
+      though this also means larger crowds during those peak periods.
 aiGenerated: true
 draft: false
 ---

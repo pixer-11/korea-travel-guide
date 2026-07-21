@@ -1,28 +1,50 @@
 ---
-title: "Trendy Cafe in Daegu: A Visitor's Guide"
-description: "A practical visitor's guide to trendy cafe in Daegu, Korea — what to expect, how to get around, and tips for your visit."
-region: "Daegu"
-category: "trendy"
-pubDate: 2026-07-20
+title: 'Trendy Cafe in Daegu: A Visitor''s Guide'
+description: >-
+  A practical visitor's guide to trendy cafe in Daegu, Korea — what to expect,
+  how to get around, and tips for your visit.
+region: Daegu
+category: trendy
+pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1600765728673-7b4aa76cc3ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8dHJlbmR5JTIwY2FmZXxlbnwwfDB8fHwxNzg0NTY1MDg0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  credit: "Photo: myHQ Workspaces on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/photos/green-plastic-container-on-brown-wooden-table-CrYa1JW4kSc"
+  url: >-
+    https://images.unsplash.com/photo-1549221428-495f00892696?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8dHJlbmR5JTIwY2FmZSUyMERhZWd1JTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTkxODgxfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Bundo Kim on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@bundo?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - "daegu"
-  - "trendy cafe"
-quickAnswer: "Daegu's trendy cafe scene is concentrated in neighborhoods like Dongseongno, Suseong-mot (Suseong Lake) area, Bongdeok-dong, and Ansim/Dusan-dong, where converted hanok houses, warehouse-style roasteries, and multi-floor dessert cafes draw both locals and visitors. Rather than chasing one specific address, pick a neighborhood, arrive on a weekday morning to beat crowds, and expect to pay a premium for photogenic interiors and specialty coffee or dessert menus."
+  - daegu
+  - trendy cafe
+quickAnswer: >-
+  Daegu's trendy cafe scene is concentrated in neighborhoods like Dongseongno,
+  Suseong-mot (Suseong Lake) area, Bongdeok-dong, and Ansim/Dusan-dong, where
+  converted hanok houses, warehouse-style roasteries, and multi-floor dessert
+  cafes draw both locals and visitors. Rather than chasing one specific address,
+  pick a neighborhood, arrive on a weekday morning to beat crowds, and expect to
+  pay a premium for photogenic interiors and specialty coffee or dessert menus.
 faq:
-  - q: "Is there one single 'best' trendy cafe in Daegu?"
-    a: "There's no single definitive spot — Daegu's trendy cafe scene is spread across several neighborhoods (Suseong Lake, Dongseongno, Bongdeok-dong), each with its own style, so it's better to pick an area that fits your itinerary than to chase one specific name."
-  - q: "Do I need a car to visit Daegu's cafe districts?"
-    a: "Not for downtown areas like Dongseongno or Gyesan-dong, which are subway-accessible, but some newer cafe clusters in outer neighborhoods are easier to reach by taxi or bus if you don't have a car."
-  - q: "What makes a Daegu cafe 'trendy' compared to a regular coffee shop?"
-    a: "Trendy cafes typically emphasize distinctive interior design, large windows or scenic views, and a standout dessert or drink meant for photos, differentiating them from everyday neighborhood coffee shops."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Weekday mornings are generally quietest; weekend afternoons, especially at lakeside or well-known photo-spot cafes, tend to draw the biggest crowds."
+  - q: Is there one single 'best' trendy cafe in Daegu?
+    a: >-
+      There's no single definitive spot — Daegu's trendy cafe scene is spread
+      across several neighborhoods (Suseong Lake, Dongseongno, Bongdeok-dong),
+      each with its own style, so it's better to pick an area that fits your
+      itinerary than to chase one specific name.
+  - q: Do I need a car to visit Daegu's cafe districts?
+    a: >-
+      Not for downtown areas like Dongseongno or Gyesan-dong, which are
+      subway-accessible, but some newer cafe clusters in outer neighborhoods are
+      easier to reach by taxi or bus if you don't have a car.
+  - q: What makes a Daegu cafe 'trendy' compared to a regular coffee shop?
+    a: >-
+      Trendy cafes typically emphasize distinctive interior design, large
+      windows or scenic views, and a standout dessert or drink meant for photos,
+      differentiating them from everyday neighborhood coffee shops.
+  - q: When is the best time to visit to avoid crowds?
+    a: >-
+      Weekday mornings are generally quietest; weekend afternoons, especially at
+      lakeside or well-known photo-spot cafes, tend to draw the biggest crowds.
 aiGenerated: true
 draft: false
 ---

@@ -1,28 +1,52 @@
 ---
-title: "Euljiro in Seoul: A Visitor's Guide"
-description: "A practical visitor's guide to Euljiro in Seoul, Korea — what to expect, how to get around, and tips for your visit."
-region: "Seoul"
-category: "hidden-gem"
-pubDate: 2026-07-20
+title: 'Euljiro in Seoul: A Visitor''s Guide'
+description: >-
+  A practical visitor's guide to Euljiro in Seoul, Korea — what to expect, how
+  to get around, and tips for your visit.
+region: Seoul
+category: hidden-gem
+pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1671737183458-c79899bc1b6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8RXVsamlyb3xlbnwwfDB8fHwxNzg0NTY0MzEwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  credit: "Photo: Soyoung HAN on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/photos/a-view-of-a-city-with-lots-of-buildings-CR4fg6wp88c"
+  url: >-
+    https://images.unsplash.com/photo-1683132603709-adbd52d7590d?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8RXVsamlybyUyMFNlb3VsJTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTkyMDAzfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by INHYEOK PARK on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@travelershigh?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - "seoul"
-  - "Euljiro"
-quickAnswer: "Euljiro is Seoul's old industrial district turned hidden-gem nightlife and design hub, where decades-old hardware, printing, and lighting workshops sit side by side with hip bars and cafés tucked into unmarked buildings. Explore it on foot in the afternoon to see the trade shops still in operation, then return after dark when the alley bars come alive. Expect a gritty, atmospheric maze rather than a polished tourist strip — half the fun is getting a little lost."
+  - seoul
+  - Euljiro
+quickAnswer: >-
+  Euljiro is Seoul's old industrial district turned hidden-gem nightlife and
+  design hub, where decades-old hardware, printing, and lighting workshops sit
+  side by side with hip bars and cafés tucked into unmarked buildings. Explore
+  it on foot in the afternoon to see the trade shops still in operation, then
+  return after dark when the alley bars come alive. Expect a gritty, atmospheric
+  maze rather than a polished tourist strip — half the fun is getting a little
+  lost.
 faq:
-  - q: "What is Euljiro known for?"
-    a: "It's historically Seoul's hub for small manufacturing and trade — hardware, lighting, printing, and tile shops — that has more recently become known for hidden bars and cafés opening inside the same old industrial buildings."
-  - q: "Is Euljiro good for a first-time visitor to Seoul?"
-    a: "It works well as a secondary stop for travelers who've already seen the major sights and want a more local, unpolished slice of the city, best paired with nearby areas like Myeongdong or Jongno."
-  - q: "What's the best time of day to visit?"
-    a: "Afternoon is best for seeing the working trade shops in action, while evening reveals the district's bar and café scene — visiting at both times gives the fullest picture."
-  - q: "How do I get to Euljiro by subway?"
-    a: "Euljiro has several dedicated subway stops (Euljiro 1-ga to 4-ga), with Euljiro 3-ga acting as a major interchange point, making the area easily reachable and walkable from the station exits."
+  - q: What is Euljiro known for?
+    a: >-
+      It's historically Seoul's hub for small manufacturing and trade —
+      hardware, lighting, printing, and tile shops — that has more recently
+      become known for hidden bars and cafés opening inside the same old
+      industrial buildings.
+  - q: Is Euljiro good for a first-time visitor to Seoul?
+    a: >-
+      It works well as a secondary stop for travelers who've already seen the
+      major sights and want a more local, unpolished slice of the city, best
+      paired with nearby areas like Myeongdong or Jongno.
+  - q: What's the best time of day to visit?
+    a: >-
+      Afternoon is best for seeing the working trade shops in action, while
+      evening reveals the district's bar and café scene — visiting at both times
+      gives the fullest picture.
+  - q: How do I get to Euljiro by subway?
+    a: >-
+      Euljiro has several dedicated subway stops (Euljiro 1-ga to 4-ga), with
+      Euljiro 3-ga acting as a major interchange point, making the area easily
+      reachable and walkable from the station exits.
 aiGenerated: true
 draft: false
 ---

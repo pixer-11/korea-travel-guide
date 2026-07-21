@@ -1,0 +1,38 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const posts = await getCollection('posts', ({ data }) => !data.draft);
+const counts = new Map();
+for (const p of posts) {
+  counts.set(p.data.region, (counts.get(p.data.region) ?? 0) + 1);
+}
+const regions = [...counts.entries()]
+  .map(([name, count]) => ({ name, count }))
+  .sort((a, b) => b.count - a.count || a.name.localeCompare(b.name));
+---
+
+<BaseLayout
+  title="All Regions — Korea Travel Guide"
+  description="Browse Korea travel guides by region — Seoul, Busan, Jeju, and many more cities and areas across the country."
+>
+  <div class="page-hero">
+    <div class="wrap">
+      <p class="eyebrow">Explore</p>
+      <h1>All regions</h1>
+      <p>{regions.length} regions across Korea — pick where you're headed.</p>
+    </div>
+  </div>
+
+  <section class="section">
+    <div class="wrap">
+      <div class="region-grid">
+        {regions.map((r) => (
+          <a class="region-tile" href={`/regions/${r.name.toLowerCase()}`}>
+            <span>{r.name}<br /><small style="font-size:0.7rem;opacity:0.85;font-weight:500">{r.count} guide{r.count === 1 ? '' : 's'}</small></span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

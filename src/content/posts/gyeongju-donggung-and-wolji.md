@@ -1,28 +1,51 @@
 ---
-title: "Donggung And Wolji in Gyeongju: A Visitor's Guide"
-description: "A practical visitor's guide to Donggung and Wolji in Gyeongju, Korea — what to expect, how to get around, and tips for your visit."
-region: "Gyeongju"
-category: "attraction"
-pubDate: 2026-07-20
+title: 'Donggung And Wolji in Gyeongju: A Visitor''s Guide'
+description: >-
+  A practical visitor's guide to Donggung and Wolji in Gyeongju, Korea — what to
+  expect, how to get around, and tips for your visit.
+region: Gyeongju
+category: attraction
+pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1612192621943-80f75d5efd7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8RG9uZ2d1bmclMjBhbmQlMjBXb2xqaXxlbnwwfDB8fHwxNzg0NTY1NDA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  credit: "Photo: Sung Jin Cho on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/photos/green-and-brown-temple-under-blue-sky-during-daytime-YSfvC9jNRjk"
+  url: >-
+    https://images.unsplash.com/photo-1669764372822-3cb8476d4f47?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8RG9uZ2d1bmclMjBhbmQlMjBXb2xqaSUyMEd5ZW9uZ2p1JTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTkxODg1fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by john ko on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@jko001?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - "gyeongju"
-  - "Donggung and Wolji"
-quickAnswer: "Donggung and Wolji is Gyeongju's most famous night-view attraction — a former royal palace pond complex where reconstructed pavilions glow above still water, creating mirror-like reflections. Plan to arrive around sunset and stay through dusk so you can see the site transition from daylight to its illuminated night appearance, which is what the site is best known for."
+  - gyeongju
+  - Donggung and Wolji
+quickAnswer: >-
+  Donggung and Wolji is Gyeongju's most famous night-view attraction — a former
+  royal palace pond complex where reconstructed pavilions glow above still
+  water, creating mirror-like reflections. Plan to arrive around sunset and stay
+  through dusk so you can see the site transition from daylight to its
+  illuminated night appearance, which is what the site is best known for.
 faq:
-  - q: "What time should I visit Donggung and Wolji?"
-    a: "Aim to arrive before sunset so you can see the site in daylight and then experience its well-known illuminated night view as the pavilions light up and reflect on the pond."
-  - q: "Is Donggung and Wolji within walking distance of other Gyeongju attractions?"
-    a: "It sits within Gyeongju's historic district, where several Silla-era sites are clustered close together, making it easy to combine with other sightseeing on foot or by rental bicycle."
-  - q: "Is the site mainly indoors or outdoors?"
-    a: "It's an outdoor site centered on a pond and surrounding pavilions and walkways, so weather-appropriate clothing and footwear for walking on open ground are recommended."
-  - q: "Why is this site called both Donggung and Wolji/Anapji?"
-    a: "Donggung refers to the crown prince's palace grounds, while Wolji is the name of the artificial pond built within the complex; the site has historically also been referred to as Anapji."
+  - q: What time should I visit Donggung and Wolji?
+    a: >-
+      Aim to arrive before sunset so you can see the site in daylight and then
+      experience its well-known illuminated night view as the pavilions light up
+      and reflect on the pond.
+  - q: >-
+      Is Donggung and Wolji within walking distance of other Gyeongju
+      attractions?
+    a: >-
+      It sits within Gyeongju's historic district, where several Silla-era sites
+      are clustered close together, making it easy to combine with other
+      sightseeing on foot or by rental bicycle.
+  - q: Is the site mainly indoors or outdoors?
+    a: >-
+      It's an outdoor site centered on a pond and surrounding pavilions and
+      walkways, so weather-appropriate clothing and footwear for walking on open
+      ground are recommended.
+  - q: Why is this site called both Donggung and Wolji/Anapji?
+    a: >-
+      Donggung refers to the crown prince's palace grounds, while Wolji is the
+      name of the artificial pond built within the complex; the site has
+      historically also been referred to as Anapji.
 aiGenerated: true
 draft: false
 ---

@@ -1,28 +1,51 @@
 ---
-title: "Seongsu Cafes in Seoul: A Visitor's Guide"
-description: "A practical visitor's guide to Seongsu cafes in Seoul, Korea — what to expect, how to get around, and tips for your visit."
-region: "Seoul"
-category: "trendy"
-pubDate: 2026-07-20
+title: 'Seongsu Cafes in Seoul: A Visitor''s Guide'
+description: >-
+  A practical visitor's guide to Seongsu cafes in Seoul, Korea — what to expect,
+  how to get around, and tips for your visit.
+region: Seoul
+category: trendy
+pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1744958487382-4600fec33cd9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U2VvbmdzdSUyMGNhZmVzfGVufDB8MHx8fDE3ODQ1NjM2NTB8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  credit: "Photo: Young_Soo Yoo on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/photos/solar-panels-under-a-vast-blue-sky-1Wf8jFRRNAQ"
+  url: >-
+    https://images.unsplash.com/photo-1744958487382-4600fec33cd9?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U2VvbmdzdSUyMGNhZmVzJTIwU2VvdWwlMjBTb3V0aCUyMEtvcmVhfGVufDB8MHx8fDE3ODQ1OTIwMDR8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Young_Soo Yoo on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@sorkdha66?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - "seoul"
-  - "Seongsu cafes"
-quickAnswer: "Seongsu-dong, in eastern Seoul, is the city's best-known district for design-forward independent cafes, many built inside converted warehouses and old factories. Take Seoul Subway Line 2 to Seongsu Station and simply walk the side streets north and south of the main road — the neighborhood rewards wandering more than a fixed checklist."
+  - seoul
+  - Seongsu cafes
+quickAnswer: >-
+  Seongsu-dong, in eastern Seoul, is the city's best-known district for
+  design-forward independent cafes, many built inside converted warehouses and
+  old factories. Take Seoul Subway Line 2 to Seongsu Station and simply walk the
+  side streets north and south of the main road — the neighborhood rewards
+  wandering more than a fixed checklist.
 faq:
-  - q: "What subway station should I use for Seongsu cafes?"
-    a: "Seongsu Station on Line 2 is the main stop, putting you within walking distance of most of the cafe district. Ttukseom Station, one stop away, is convenient if you're combining the visit with Seoul Forest."
-  - q: "Is Seongsu-dong good for a half-day or full-day visit?"
-    a: "Either works. A half-day is enough for a focused cafe-and-shopping walk, while a full day lets you add a stroll through nearby Seoul Forest and explore more of the side streets at a relaxed pace."
-  - q: "Are Seongsu cafes expensive?"
-    a: "No specific pricing is confirmed here, but as a general rule, design-forward independent cafes in trendy Seoul neighborhoods tend to sit at a higher price point than convenience-store or chain coffee, so budget accordingly."
-  - q: "What makes Seongsu different from other Seoul neighborhoods?"
-    a: "Its identity comes from converted industrial buildings — former shoe factories and warehouses turned into cafes, galleries, and flagship stores — giving the area a distinct raw, design-driven look that's become one of Seoul's signature aesthetics."
+  - q: What subway station should I use for Seongsu cafes?
+    a: >-
+      Seongsu Station on Line 2 is the main stop, putting you within walking
+      distance of most of the cafe district. Ttukseom Station, one stop away, is
+      convenient if you're combining the visit with Seoul Forest.
+  - q: Is Seongsu-dong good for a half-day or full-day visit?
+    a: >-
+      Either works. A half-day is enough for a focused cafe-and-shopping walk,
+      while a full day lets you add a stroll through nearby Seoul Forest and
+      explore more of the side streets at a relaxed pace.
+  - q: Are Seongsu cafes expensive?
+    a: >-
+      No specific pricing is confirmed here, but as a general rule,
+      design-forward independent cafes in trendy Seoul neighborhoods tend to sit
+      at a higher price point than convenience-store or chain coffee, so budget
+      accordingly.
+  - q: What makes Seongsu different from other Seoul neighborhoods?
+    a: >-
+      Its identity comes from converted industrial buildings — former shoe
+      factories and warehouses turned into cafes, galleries, and flagship stores
+      — giving the area a distinct raw, design-driven look that's become one of
+      Seoul's signature aesthetics.
 aiGenerated: true
 draft: false
 ---

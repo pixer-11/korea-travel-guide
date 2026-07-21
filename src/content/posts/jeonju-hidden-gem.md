@@ -1,28 +1,49 @@
 ---
-title: "Hidden Gem in Jeonju: A Visitor's Guide"
-description: "A practical visitor's guide to hidden gem in Jeonju, Korea — what to expect, how to get around, and tips for your visit."
-region: "Jeonju"
-category: "hidden-gem"
-pubDate: 2026-07-20
+title: 'Hidden Gem in Jeonju: A Visitor''s Guide'
+description: >-
+  A practical visitor's guide to hidden gem in Jeonju, Korea — what to expect,
+  how to get around, and tips for your visit.
+region: Jeonju
+category: hidden-gem
+pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1679669693237-74d556d6b5ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8aGlkZGVuJTIwZ2VtfGVufDB8MHx8fDE3ODQ1NjUwMDV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  credit: "Photo: Trophim Laptev on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/photos/three-different-colored-crystals-on-a-black-background-hfV9tSBEvlU"
+  url: >-
+    https://images.unsplash.com/photo-1718958505977-6f5790f1cf1a?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8aGlkZGVuJTIwZ2VtJTIwSmVvbmp1JTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTkxODkyfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Mos Sukjaroenkraisri on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@mossuk?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - "jeonju"
-  - "hidden gem"
-quickAnswer: "Jeonju's real hidden gems aren't found by searching for one famous address — they're found by wandering the quiet backstreets just beyond the crowded core of Jeonju Hanok Village, especially early morning or on weekday afternoons. Head toward the residential lanes uphill from the main tourist strip, or explore the market areas bordering the village, where local life continues largely undisturbed by tourism."
+  - jeonju
+  - hidden gem
+quickAnswer: >-
+  Jeonju's real hidden gems aren't found by searching for one famous address —
+  they're found by wandering the quiet backstreets just beyond the crowded core
+  of Jeonju Hanok Village, especially early morning or on weekday afternoons.
+  Head toward the residential lanes uphill from the main tourist strip, or
+  explore the market areas bordering the village, where local life continues
+  largely undisturbed by tourism.
 faq:
-  - q: "Is there one specific 'hidden gem' spot everyone recommends in Jeonju?"
-    a: "No single verified spot is confirmed here — Jeonju's hidden-gem appeal comes mainly from exploring quieter side streets and market areas away from the main Hanok Village crowds rather than one specific destination."
-  - q: "What's the best time of day to avoid crowds?"
-    a: "Early morning, before mid-morning tour groups and hanbok-rental visitors arrive, generally offers the calmest experience, along with weekday visits over weekends."
-  - q: "How do I get from Jeonju Station to the Hanok Village area?"
-    a: "It's not walkable from the station; a short taxi ride or local bus connection is the typical way to reach the historic district."
-  - q: "Should I bring cash or card for smaller local spots?"
-    a: "Carrying cash is a safe general practice, since smaller, less touristy businesses off the main strip are more likely to prefer cash than card payment."
+  - q: Is there one specific 'hidden gem' spot everyone recommends in Jeonju?
+    a: >-
+      No single verified spot is confirmed here — Jeonju's hidden-gem appeal
+      comes mainly from exploring quieter side streets and market areas away
+      from the main Hanok Village crowds rather than one specific destination.
+  - q: What's the best time of day to avoid crowds?
+    a: >-
+      Early morning, before mid-morning tour groups and hanbok-rental visitors
+      arrive, generally offers the calmest experience, along with weekday visits
+      over weekends.
+  - q: How do I get from Jeonju Station to the Hanok Village area?
+    a: >-
+      It's not walkable from the station; a short taxi ride or local bus
+      connection is the typical way to reach the historic district.
+  - q: Should I bring cash or card for smaller local spots?
+    a: >-
+      Carrying cash is a safe general practice, since smaller, less touristy
+      businesses off the main strip are more likely to prefer cash than card
+      payment.
 aiGenerated: true
 draft: false
 ---

@@ -1,28 +1,50 @@
 ---
-title: "Local Restaurant in Andong: A Visitor's Guide"
-description: "A practical visitor's guide to local restaurant in Andong, Korea — what to expect, how to get around, and tips for your visit."
-region: "Andong"
-category: "restaurant"
-pubDate: 2026-07-20
+title: 'Local Restaurant in Andong: A Visitor''s Guide'
+description: >-
+  A practical visitor's guide to local restaurant in Andong, Korea — what to
+  expect, how to get around, and tips for your visit.
+region: Andong
+category: restaurant
+pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1525610553991-2bede1a236e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8bG9jYWwlMjByZXN0YXVyYW50fGVufDB8MHx8fDE3ODQ1NjQ0ODN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  credit: "Photo: Rod Long on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/photos/group-of-people-eating-on-restaurant-I79Pgmhmy5M"
+  url: >-
+    https://images.unsplash.com/photo-1549221428-495f00892696?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8bG9jYWwlMjByZXN0YXVyYW50JTIwQW5kb25nJTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTkxODc1fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Bundo Kim on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@bundo?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - "andong"
-  - "local restaurant"
-quickAnswer: "Andong's dining scene centers on a handful of iconic regional dishes—andong jjimdak (soy-braised chicken with noodles and vegetables), heotjesabap (memorial-ritual-style mixed rice), gan-godeungeo (salt-cured mackerel), and Andong soju—so the smartest approach is to pick a dish first, then look for restaurants clustered around Jjimdak Street near the old downtown or Andong Traditional Market rather than chasing a single named venue. Expect small, family-run spots with communal seating, cash-friendly pricing, and menus geared toward sharing."
+  - andong
+  - local restaurant
+quickAnswer: >-
+  Andong's dining scene centers on a handful of iconic regional dishes—andong
+  jjimdak (soy-braised chicken with noodles and vegetables), heotjesabap
+  (memorial-ritual-style mixed rice), gan-godeungeo (salt-cured mackerel), and
+  Andong soju—so the smartest approach is to pick a dish first, then look for
+  restaurants clustered around Jjimdak Street near the old downtown or Andong
+  Traditional Market rather than chasing a single named venue. Expect small,
+  family-run spots with communal seating, cash-friendly pricing, and menus
+  geared toward sharing.
 faq:
-  - q: "What is the most famous dish to try in Andong?"
-    a: "Andong jjimdak, a soy-braised chicken dish with vegetables and glass noodles, is the city's best-known specialty and is typically served for sharing."
-  - q: "Do Andong restaurants take credit cards?"
-    a: "Larger restaurants usually do, but smaller family-run spots, especially in market areas, may prefer or require cash, so it's wise to carry some."
-  - q: "Is Andong soju different from regular soju?"
-    a: "Yes, Andong soju is a traditionally distilled, stronger version of standard soju and is meant to be sipped slowly rather than consumed quickly."
-  - q: "Where should I look for good local restaurants in Andong?"
-    a: "The old downtown area and the traditional market district tend to have the highest concentration of long-running, locally trusted eateries."
+  - q: What is the most famous dish to try in Andong?
+    a: >-
+      Andong jjimdak, a soy-braised chicken dish with vegetables and glass
+      noodles, is the city's best-known specialty and is typically served for
+      sharing.
+  - q: Do Andong restaurants take credit cards?
+    a: >-
+      Larger restaurants usually do, but smaller family-run spots, especially in
+      market areas, may prefer or require cash, so it's wise to carry some.
+  - q: Is Andong soju different from regular soju?
+    a: >-
+      Yes, Andong soju is a traditionally distilled, stronger version of
+      standard soju and is meant to be sipped slowly rather than consumed
+      quickly.
+  - q: Where should I look for good local restaurants in Andong?
+    a: >-
+      The old downtown area and the traditional market district tend to have the
+      highest concentration of long-running, locally trusted eateries.
 aiGenerated: true
 draft: false
 ---

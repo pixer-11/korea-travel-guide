@@ -1,28 +1,48 @@
 ---
-title: "Ikseon-Dong in Seoul: A Visitor's Guide"
-description: "A practical visitor's guide to Ikseon-dong in Seoul, Korea — what to expect, how to get around, and tips for your visit."
-region: "Seoul"
-category: "restaurant"
-pubDate: 2026-07-20
+title: 'Ikseon-Dong in Seoul: A Visitor''s Guide'
+description: >-
+  A practical visitor's guide to Ikseon-dong in Seoul, Korea — what to expect,
+  how to get around, and tips for your visit.
+region: Seoul
+category: restaurant
+pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1569839078801-94107e43e884?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SWtzZW9uLWRvbmd8ZW58MHwwfHx8MTc4NDU2NTMwMnww&ixlib=rb-4.1.0&q=80&w=1080"
-  credit: "Photo: CJ Dayrit on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/photos/white-sedan-illustrated-on-gray-wall-Csi89ZJF13c"
+  url: >-
+    https://images.unsplash.com/photo-1546874177-9e664107314e?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U2VvdWwlMjBTb3V0aCUyMEtvcmVhfGVufDB8MHx8fDE3ODQ1OTIwMDR8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Yohan Cho on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@yohoney?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - "seoul"
-  - "Ikseon-dong"
-quickAnswer: "Ikseon-dong is a pocket of century-old hanok houses tucked between Jongno and Insadong, reborn as a dense cluster of cafés, bars, and restaurants. There are no ticketed sights here — the appeal is wandering the narrow alleys, ducking into converted hanok eateries, and grabbing photos of the tiled roofs against modern signage. Go on foot, expect small crowded spaces, and arrive with an appetite for browsing rather than a single fixed destination."
+  - seoul
+  - Ikseon-dong
+quickAnswer: >-
+  Ikseon-dong is a pocket of century-old hanok houses tucked between Jongno and
+  Insadong, reborn as a dense cluster of cafés, bars, and restaurants. There are
+  no ticketed sights here — the appeal is wandering the narrow alleys, ducking
+  into converted hanok eateries, and grabbing photos of the tiled roofs against
+  modern signage. Go on foot, expect small crowded spaces, and arrive with an
+  appetite for browsing rather than a single fixed destination.
 faq:
-  - q: "Is Ikseon-dong a good place for a sit-down meal or more for snacking?"
-    a: "Both work, but the small hanok-scale seating means it's especially well suited to café-hopping and grazing across a few spots rather than committing to one long meal."
-  - q: "How do I get to Ikseon-dong by subway?"
-    a: "Get off at Jongno 3-ga station, which is served by multiple lines, and walk a short distance north — the hanok alleys begin just off the main road."
-  - q: "Is Ikseon-dong within walking distance of other sights?"
-    a: "Yes, it's close to Insadong and Tapgol Park, making it easy to combine into one walking route through central Seoul's historic core."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Weekday visits or earlier in the day tend to be quieter, since the area's narrow alleys get busy with photo-takers on weekends and evenings."
+  - q: Is Ikseon-dong a good place for a sit-down meal or more for snacking?
+    a: >-
+      Both work, but the small hanok-scale seating means it's especially well
+      suited to café-hopping and grazing across a few spots rather than
+      committing to one long meal.
+  - q: How do I get to Ikseon-dong by subway?
+    a: >-
+      Get off at Jongno 3-ga station, which is served by multiple lines, and
+      walk a short distance north — the hanok alleys begin just off the main
+      road.
+  - q: Is Ikseon-dong within walking distance of other sights?
+    a: >-
+      Yes, it's close to Insadong and Tapgol Park, making it easy to combine
+      into one walking route through central Seoul's historic core.
+  - q: When is the best time to visit to avoid crowds?
+    a: >-
+      Weekday visits or earlier in the day tend to be quieter, since the area's
+      narrow alleys get busy with photo-takers on weekends and evenings.
 aiGenerated: true
 draft: false
 ---

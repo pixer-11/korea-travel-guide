@@ -1,28 +1,47 @@
 ---
-title: "Hanok Village in Jeonju: A Visitor's Guide"
-description: "A practical visitor's guide to hanok village in Jeonju, Korea — what to expect, how to get around, and tips for your visit."
-region: "Jeonju"
-category: "hidden-gem"
-pubDate: 2026-07-20
+title: 'Hanok Village in Jeonju: A Visitor''s Guide'
+description: >-
+  A practical visitor's guide to hanok village in Jeonju, Korea — what to
+  expect, how to get around, and tips for your visit.
+region: Jeonju
+category: hidden-gem
+pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1535189043414-47a3c49a0bed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8aGFub2slMjB2aWxsYWdlfGVufDB8MHx8fDE3ODQ1NjQxMzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  credit: "Photo: Y K on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/photos/empty-street-between-houses--e6Xu27_T50"
+  url: >-
+    https://images.unsplash.com/photo-1653230674619-2c92936be020?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8aGFub2slMjB2aWxsYWdlJTIwSmVvbmp1JTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTkxODkxfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Minku Kang on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@minkus?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - "jeonju"
-  - "hanok village"
-quickAnswer: "Jeonju Hanok Village is a preserved district of hundreds of traditional Korean hanok houses, now packed with hanbok rental shops, tea houses, and street-food stalls, best explored on foot over a half-day. Go early on a weekday if you want quieter alleyways for photos, and rent a hanbok if you want free or discounted entry to some of the traditional buildings inside the village."
+  - jeonju
+  - hanok village
+quickAnswer: >-
+  Jeonju Hanok Village is a preserved district of hundreds of traditional Korean
+  hanok houses, now packed with hanbok rental shops, tea houses, and street-food
+  stalls, best explored on foot over a half-day. Go early on a weekday if you
+  want quieter alleyways for photos, and rent a hanbok if you want free or
+  discounted entry to some of the traditional buildings inside the village.
 faq:
-  - q: "How much time should I plan for Jeonju Hanok Village?"
-    a: "A half-day is enough to see the main streets and try some food, but a full day allows time for a hanbok rental, exploring quieter side alleys, and relaxing in a tea house."
-  - q: "Is Jeonju Hanok Village walkable from the train or bus station?"
-    a: "No, it's a short taxi or bus ride from either Jeonju Station or the bus terminal, not within comfortable walking distance."
-  - q: "Do I need to rent a hanbok to enjoy the village?"
-    a: "No, but many visitors do, both for photos and because some traditional buildings and cultural sites offer free or discounted admission to those wearing hanbok."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Weekday mornings are noticeably quieter than weekends and holidays, when the main food streets and photo spots can get very busy."
+  - q: How much time should I plan for Jeonju Hanok Village?
+    a: >-
+      A half-day is enough to see the main streets and try some food, but a full
+      day allows time for a hanbok rental, exploring quieter side alleys, and
+      relaxing in a tea house.
+  - q: Is Jeonju Hanok Village walkable from the train or bus station?
+    a: >-
+      No, it's a short taxi or bus ride from either Jeonju Station or the bus
+      terminal, not within comfortable walking distance.
+  - q: Do I need to rent a hanbok to enjoy the village?
+    a: >-
+      No, but many visitors do, both for photos and because some traditional
+      buildings and cultural sites offer free or discounted admission to those
+      wearing hanbok.
+  - q: When is the best time to visit to avoid crowds?
+    a: >-
+      Weekday mornings are noticeably quieter than weekends and holidays, when
+      the main food streets and photo spots can get very busy.
 aiGenerated: true
 draft: false
 ---

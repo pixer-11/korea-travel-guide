@@ -1,28 +1,49 @@
 ---
-title: "Street Food in Seoul: A Visitor's Guide"
-description: "A practical visitor's guide to street food in Seoul, Korea — what to expect, how to get around, and tips for your visit."
-region: "Seoul"
-category: "hidden-gem"
-pubDate: 2026-07-20
+title: 'Street Food in Seoul: A Visitor''s Guide'
+description: >-
+  A practical visitor's guide to street food in Seoul, Korea — what to expect,
+  how to get around, and tips for your visit.
+region: Seoul
+category: hidden-gem
+pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "/images/placeholder-market.svg"
-  credit: "Placeholder image"
-  license: "placeholder"
-  source: "local"
+  url: >-
+    https://images.unsplash.com/photo-1608120073766-c80051eccbf6?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8c3RyZWV0JTIwZm9vZCUyMFNlb3VsJTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTkyMDA1fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Ronald Langeveld on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@ronaldlangeveld?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - "seoul"
-  - "street food"
-quickAnswer: "For an authentic taste of Korean street food, head to a traditional market like Gwangjang Market in central Seoul, where narrow food alleys are lined with vendors serving classic dishes cooked fresh in front of you. Go hungry, bring cash, and expect to eat standing or perched on a stool shoulder-to-shoulder with locals."
+  - seoul
+  - street food
+quickAnswer: >-
+  For an authentic taste of Korean street food, head to a traditional market
+  like Gwangjang Market in central Seoul, where narrow food alleys are lined
+  with vendors serving classic dishes cooked fresh in front of you. Go hungry,
+  bring cash, and expect to eat standing or perched on a stool
+  shoulder-to-shoulder with locals.
 faq:
-  - q: "Do I need to speak Korean to order at Seoul's street food markets?"
-    a: "No — pointing at dishes, using photos, or gesturing to what other diners are eating works well. Many vendors in busy markets are also used to serving international visitors."
-  - q: "Is street food in Seoul safe to eat?"
-    a: "Street food is a mainstream, everyday part of dining in Seoul and is eaten widely by locals. As with any food stall anywhere, choosing busy vendors with high turnover is a good general practice."
-  - q: "What's the best time of day to visit a market like Gwangjang for food?"
-    a: "Mid-morning to early afternoon tends to be less crowded than peak lunch or weekend hours, making it easier to find seating and move through the food alleys."
-  - q: "Can I pay by card at street food stalls?"
-    a: "Not always. Many small, individual stalls in traditional markets are cash-preferred, so it's wise to carry some cash even though Seoul is generally very card-friendly elsewhere."
+  - q: Do I need to speak Korean to order at Seoul's street food markets?
+    a: >-
+      No — pointing at dishes, using photos, or gesturing to what other diners
+      are eating works well. Many vendors in busy markets are also used to
+      serving international visitors.
+  - q: Is street food in Seoul safe to eat?
+    a: >-
+      Street food is a mainstream, everyday part of dining in Seoul and is eaten
+      widely by locals. As with any food stall anywhere, choosing busy vendors
+      with high turnover is a good general practice.
+  - q: What's the best time of day to visit a market like Gwangjang for food?
+    a: >-
+      Mid-morning to early afternoon tends to be less crowded than peak lunch or
+      weekend hours, making it easier to find seating and move through the food
+      alleys.
+  - q: Can I pay by card at street food stalls?
+    a: >-
+      Not always. Many small, individual stalls in traditional markets are
+      cash-preferred, so it's wise to carry some cash even though Seoul is
+      generally very card-friendly elsewhere.
 aiGenerated: true
 draft: false
 ---

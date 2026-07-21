@@ -1,28 +1,49 @@
 ---
-title: "Top Attraction in Jeonju: A Visitor's Guide"
-description: "A practical visitor's guide to top attraction in Jeonju, Korea — what to expect, how to get around, and tips for your visit."
-region: "Jeonju"
-category: "attraction"
-pubDate: 2026-07-20
+title: 'Top Attraction in Jeonju: A Visitor''s Guide'
+description: >-
+  A practical visitor's guide to top attraction in Jeonju, Korea — what to
+  expect, how to get around, and tips for your visit.
+region: Jeonju
+category: attraction
+pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1689009222796-595ab6dc489f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8dG9wJTIwYXR0cmFjdGlvbnxlbnwwfDB8fHwxNzg0NTY0MjA5fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  credit: "Photo: Mario Verduzco on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/photos/a-wooden-bridge-with-metal-railings-and-a-sky-background-pNEs7pYxsIo"
+  url: >-
+    https://images.unsplash.com/photo-1700580447235-454f48647952?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8dG9wJTIwYXR0cmFjdGlvbiUyMEplb25qdSUyMFNvdXRoJTIwS29yZWF8ZW58MHwwfHx8MTc4NDU5MjAwMHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Mos Sukjaroenkraisri on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@mossuk?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - "jeonju"
-  - "top attraction"
-quickAnswer: "Jeonju's signature attraction is its historic hanok village district — a concentrated neighborhood of traditional Korean tile-roofed houses, narrow alleys, tea houses, and street food stalls. Plan for at least half a day on foot, rent a hanbok if you want the classic photo experience, and arrive early or in the evening to avoid the heaviest daytime crowds."
+  - jeonju
+  - top attraction
+quickAnswer: >-
+  Jeonju's signature attraction is its historic hanok village district — a
+  concentrated neighborhood of traditional Korean tile-roofed houses, narrow
+  alleys, tea houses, and street food stalls. Plan for at least half a day on
+  foot, rent a hanbok if you want the classic photo experience, and arrive early
+  or in the evening to avoid the heaviest daytime crowds.
 faq:
-  - q: "How much time should I set aside for the hanok village area?"
-    a: "Most visitors spend at least half a day exploring on foot, and a full day if you plan to rent hanbok, eat a sit-down meal, and browse craft shops or tea houses."
-  - q: "Is the hanok district free to visit?"
-    a: "The neighborhood itself is an open area of streets and buildings, though individual attractions, hanbok rentals, and restaurants within it charge their own fees, so check specifics on arrival."
-  - q: "What's the best time of day to visit?"
-    a: "Early morning or evening tends to be quieter and offers nicer light for photos, since the district can get quite crowded with visitors from late morning through mid-afternoon."
-  - q: "How do I get from Jeonju's train or bus station to the hanok district?"
-    a: "A short taxi ride is the easiest option, as the historic core sits a bit outside the main transit stations; local buses also connect the area but taxis are simpler for first-time visitors."
+  - q: How much time should I set aside for the hanok village area?
+    a: >-
+      Most visitors spend at least half a day exploring on foot, and a full day
+      if you plan to rent hanbok, eat a sit-down meal, and browse craft shops or
+      tea houses.
+  - q: Is the hanok district free to visit?
+    a: >-
+      The neighborhood itself is an open area of streets and buildings, though
+      individual attractions, hanbok rentals, and restaurants within it charge
+      their own fees, so check specifics on arrival.
+  - q: What's the best time of day to visit?
+    a: >-
+      Early morning or evening tends to be quieter and offers nicer light for
+      photos, since the district can get quite crowded with visitors from late
+      morning through mid-afternoon.
+  - q: How do I get from Jeonju's train or bus station to the hanok district?
+    a: >-
+      A short taxi ride is the easiest option, as the historic core sits a bit
+      outside the main transit stations; local buses also connect the area but
+      taxis are simpler for first-time visitors.
 aiGenerated: true
 draft: false
 ---

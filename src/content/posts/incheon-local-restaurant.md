@@ -1,19 +1,29 @@
 ---
-title: "Local Restaurant in Incheon: A Visitor's Guide"
-description: "A practical visitor's guide to local restaurant in Incheon, Korea — what to expect, how to get around, and tips for your visit."
-region: "Incheon"
-category: "restaurant"
-pubDate: 2026-07-20
+title: 'Local Restaurant in Incheon: A Visitor''s Guide'
+description: >-
+  A practical visitor's guide to local restaurant in Incheon, Korea — what to
+  expect, how to get around, and tips for your visit.
+region: Incheon
+category: restaurant
+pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1525610553991-2bede1a236e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8bG9jYWwlMjByZXN0YXVyYW50fGVufDB8MHx8fDE3ODQ1NjQ0ODN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  credit: "Photo: Rod Long on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/photos/group-of-people-eating-on-restaurant-I79Pgmhmy5M"
+  url: >-
+    https://images.unsplash.com/photo-1641773861272-d2ce368924bc?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8bG9jYWwlMjByZXN0YXVyYW50JTIwSW5jaGVvbiUyMFNvdXRoJTIwS29yZWF8ZW58MHwwfHx8MTc4NDU5MTg4OHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Joyce Jiang on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@joycejiang?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - "incheon"
-  - "local restaurant"
-quickAnswer: "Incheon doesn't have one single 'best' local restaurant to chase — instead, head to a neighborhood known for a specific food culture, like Incheon Chinatown for jjajangmyeon (the dish was invented here), Sinpo International Market for street food, or the Yeonan Pier area for raw seafood. Pick your neighborhood based on what you want to eat, then just walk in wherever has a queue of locals."
+  - incheon
+  - local restaurant
+quickAnswer: >-
+  Incheon doesn't have one single 'best' local restaurant to chase — instead,
+  head to a neighborhood known for a specific food culture, like Incheon
+  Chinatown for jjajangmyeon (the dish was invented here), Sinpo International
+  Market for street food, or the Yeonan Pier area for raw seafood. Pick your
+  neighborhood based on what you want to eat, then just walk in wherever has a
+  queue of locals.
 faq: []
 aiGenerated: true
 draft: false

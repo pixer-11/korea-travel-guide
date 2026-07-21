@@ -1,28 +1,45 @@
 ---
-title: "Coffee Street in Gangneung: A Visitor's Guide"
-description: "A practical visitor's guide to coffee street in Gangneung, Korea — what to expect, how to get around, and tips for your visit."
-region: "Gangneung"
-category: "trendy"
-pubDate: 2026-07-20
+title: 'Coffee Street in Gangneung: A Visitor''s Guide'
+description: >-
+  A practical visitor's guide to coffee street in Gangneung, Korea — what to
+  expect, how to get around, and tips for your visit.
+region: Gangneung
+category: trendy
+pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8Y29mZmVlJTIwc3RyZWV0fGVufDB8MHx8fDE3ODQ1NjUzNDN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  credit: "Photo: Tony Lee on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/photos/square-brown-wooden-table-8IKf54pc3qk"
+  url: >-
+    https://images.unsplash.com/photo-1662533513021-f13cf8c7fd51?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8Y29mZmVlJTIwc3RyZWV0JTIwR2FuZ25ldW5nJTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTkxODgyfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Photos of Korea on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@photosofkorea?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - "gangneung"
-  - "coffee street"
-quickAnswer: "Anmok Coffee Street in Gangneung is a beachfront strip lined with multi-story cafés facing the East Sea, best visited on a sunny afternoon or around sunset. Plan for an hour or two of café-hopping and a beach walk rather than one specific \"must-see\" spot, since the area's appeal is the overall atmosphere. No admission fee — just budget for coffee and parking."
+  - gangneung
+  - coffee street
+quickAnswer: >-
+  Anmok Coffee Street in Gangneung is a beachfront strip lined with multi-story
+  cafés facing the East Sea, best visited on a sunny afternoon or around sunset.
+  Plan for an hour or two of café-hopping and a beach walk rather than one
+  specific "must-see" spot, since the area's appeal is the overall atmosphere.
+  No admission fee — just budget for coffee and parking.
 faq:
-  - q: "How do I get to Anmok Coffee Street from Gangneung Station?"
-    a: "It's not walkable — take a local bus toward Anmok Beach or grab a taxi, which is a quick and affordable ride from the station or bus terminal."
-  - q: "Is there an entrance fee for the coffee street?"
-    a: "No, it's a public beachfront street with independent cafés — you only pay for what you order."
-  - q: "What's the best time of day to visit?"
-    a: "Late afternoon into sunset is popular for the ocean views, while weekday mornings are quieter if you want a calmer café experience."
-  - q: "Can I drive and park there?"
-    a: "Yes, but parking can fill up on weekends and holidays, so arriving early or using public transport/taxi is worth considering during peak times."
+  - q: How do I get to Anmok Coffee Street from Gangneung Station?
+    a: >-
+      It's not walkable — take a local bus toward Anmok Beach or grab a taxi,
+      which is a quick and affordable ride from the station or bus terminal.
+  - q: Is there an entrance fee for the coffee street?
+    a: >-
+      No, it's a public beachfront street with independent cafés — you only pay
+      for what you order.
+  - q: What's the best time of day to visit?
+    a: >-
+      Late afternoon into sunset is popular for the ocean views, while weekday
+      mornings are quieter if you want a calmer café experience.
+  - q: Can I drive and park there?
+    a: >-
+      Yes, but parking can fill up on weekends and holidays, so arriving early
+      or using public transport/taxi is worth considering during peak times.
 aiGenerated: true
 draft: false
 ---

@@ -1,28 +1,50 @@
 ---
-title: "Hahoe Folk Village in Andong: A Visitor's Guide"
-description: "A practical visitor's guide to Hahoe Folk Village in Andong, Korea — what to expect, how to get around, and tips for your visit."
-region: "Andong"
-category: "attraction"
-pubDate: 2026-07-20
+title: 'Hahoe Folk Village in Andong: A Visitor''s Guide'
+description: >-
+  A practical visitor's guide to Hahoe Folk Village in Andong, Korea — what to
+  expect, how to get around, and tips for your visit.
+region: Andong
+category: attraction
+pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1666701753767-cc190773532b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SGFob2UlMjBGb2xrJTIwVmlsbGFnZXxlbnwwfDB8fHwxNzg0NTY1NTExfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  credit: "Photo: Stephan HK on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/photos/a-building-with-a-large-roof-9IrpsblY6Mc"
+  url: >-
+    https://images.unsplash.com/photo-1525546137051-73a7b7ba139c?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SGFob2UlMjBGb2xrJTIwVmlsbGFnZSUyMEFuZG9uZyUyMFNvdXRoJTIwS29yZWF8ZW58MHwwfHx8MTc4NDU5MTg3NHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Mathew Schwartz on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@cadop?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - "andong"
-  - "Hahoe Folk Village"
-quickAnswer: "Hahoe Folk Village is a centuries-old riverside clan village near Andong, worth a half-day visit to see traditional tile-roofed and thatched houses still lived in by descendants of the Ryu clan. Combine it with the nearby mask museum and, if timing allows, a mask dance performance for the fullest experience. Plan for a full day trip from Andong or Seoul, since public transport connections are infrequent."
+  - andong
+  - Hahoe Folk Village
+quickAnswer: >-
+  Hahoe Folk Village is a centuries-old riverside clan village near Andong,
+  worth a half-day visit to see traditional tile-roofed and thatched houses
+  still lived in by descendants of the Ryu clan. Combine it with the nearby mask
+  museum and, if timing allows, a mask dance performance for the fullest
+  experience. Plan for a full day trip from Andong or Seoul, since public
+  transport connections are infrequent.
 faq:
-  - q: "How do I get to Hahoe Folk Village without a car?"
-    a: "Travel to Andong by bus or train, then take a local bus from the Andong bus terminal or train station to the village. Schedules are limited, so confirm times in advance; a taxi is a quicker but more expensive alternative."
-  - q: "How much time should I budget for the visit?"
-    a: "Plan for at least half a day, including travel from Andong. A full day lets you also visit the mask museum and possibly catch a mask dance performance."
-  - q: "Can I go inside the houses?"
-    a: "Many houses are still private residences of local families, so visitors should stick to public paths and be respectful around occupied homes rather than assuming open access everywhere."
-  - q: "What's the best time of year to visit?"
-    a: "Spring and autumn generally offer the most pleasant walking conditions and scenery, while summer can be hot and humid and winter colder and quieter."
+  - q: How do I get to Hahoe Folk Village without a car?
+    a: >-
+      Travel to Andong by bus or train, then take a local bus from the Andong
+      bus terminal or train station to the village. Schedules are limited, so
+      confirm times in advance; a taxi is a quicker but more expensive
+      alternative.
+  - q: How much time should I budget for the visit?
+    a: >-
+      Plan for at least half a day, including travel from Andong. A full day
+      lets you also visit the mask museum and possibly catch a mask dance
+      performance.
+  - q: Can I go inside the houses?
+    a: >-
+      Many houses are still private residences of local families, so visitors
+      should stick to public paths and be respectful around occupied homes
+      rather than assuming open access everywhere.
+  - q: What's the best time of year to visit?
+    a: >-
+      Spring and autumn generally offer the most pleasant walking conditions and
+      scenery, while summer can be hot and humid and winter colder and quieter.
 aiGenerated: true
 draft: false
 ---

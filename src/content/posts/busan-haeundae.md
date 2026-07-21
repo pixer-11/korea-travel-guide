@@ -1,28 +1,50 @@
 ---
-title: "Haeundae in Busan: A Visitor's Guide"
-description: "A practical visitor's guide to Haeundae in Busan, Korea — what to expect, how to get around, and tips for your visit."
-region: "Busan"
-category: "attraction"
-pubDate: 2026-07-20
+title: 'Haeundae in Busan: A Visitor''s Guide'
+description: >-
+  A practical visitor's guide to Haeundae in Busan, Korea — what to expect, how
+  to get around, and tips for your visit.
+region: Busan
+category: attraction
+pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1700277842839-2ef54f815f47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SGFldW5kYWV8ZW58MHwwfHx8MTc4NDU2NTM2NXww&ixlib=rb-4.1.0&q=80&w=1080"
-  credit: "Photo: IRa Kang on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/photos/a-crowded-beach-in-front-of-a-large-city-2WFTB4p_EXA"
+  url: >-
+    https://images.unsplash.com/photo-1591520284162-8e64eceebacf?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SGFldW5kYWUlMjBCdXNhbiUyMFNvdXRoJTIwS29yZWF8ZW58MHwwfHx8MTc4NDU5MTg3N3ww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Thomas Roger Lux on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@thomasrogerlux?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - "busan"
-  - "Haeundae"
-quickAnswer: "Haeundae is Busan's most famous beach district — a wide arc of sand backed by high-rise hotels, seafood restaurants, and a lively boardwalk. Visit for a swim or sunrise walk in summer, or for the coastal Dalmaji hill and Blueline Park area year-round. It's easiest to reach by subway (Haeundae Station) or bus, and it works well as a half-day or overnight stop combined with nearby Gwangalli or Songjeong."
+  - busan
+  - Haeundae
+quickAnswer: >-
+  Haeundae is Busan's most famous beach district — a wide arc of sand backed by
+  high-rise hotels, seafood restaurants, and a lively boardwalk. Visit for a
+  swim or sunrise walk in summer, or for the coastal Dalmaji hill and Blueline
+  Park area year-round. It's easiest to reach by subway (Haeundae Station) or
+  bus, and it works well as a half-day or overnight stop combined with nearby
+  Gwangalli or Songjeong.
 faq:
-  - q: "Is Haeundae Beach easy to reach without a car?"
-    a: "Yes — Haeundae Station on Busan's Line 2 subway is within walking distance of the beach, and city buses and taxis also serve the area frequently, making a car unnecessary."
-  - q: "When is the best time to visit Haeundae?"
-    a: "Summer is peak season for swimming but also the most crowded. Spring and autumn offer milder weather and quieter promenades if you prefer walking and sightseeing over beach time."
-  - q: "What else is there to do besides the beach?"
-    a: "Nearby attractions include the Dongbaek Island coastal walking trail, Dalmaji-gil hill (popular for cherry blossoms and sea views), and the Blueline Park coastal train further along the coast toward Songjeong."
-  - q: "Can Haeundae be combined with other beaches in Busan?"
-    a: "Yes — Gwangalli Beach and Songjeong Beach are both a short distance away and are commonly paired with Haeundae for a fuller day exploring Busan's coastline."
+  - q: Is Haeundae Beach easy to reach without a car?
+    a: >-
+      Yes — Haeundae Station on Busan's Line 2 subway is within walking distance
+      of the beach, and city buses and taxis also serve the area frequently,
+      making a car unnecessary.
+  - q: When is the best time to visit Haeundae?
+    a: >-
+      Summer is peak season for swimming but also the most crowded. Spring and
+      autumn offer milder weather and quieter promenades if you prefer walking
+      and sightseeing over beach time.
+  - q: What else is there to do besides the beach?
+    a: >-
+      Nearby attractions include the Dongbaek Island coastal walking trail,
+      Dalmaji-gil hill (popular for cherry blossoms and sea views), and the
+      Blueline Park coastal train further along the coast toward Songjeong.
+  - q: Can Haeundae be combined with other beaches in Busan?
+    a: >-
+      Yes — Gwangalli Beach and Songjeong Beach are both a short distance away
+      and are commonly paired with Haeundae for a fuller day exploring Busan's
+      coastline.
 aiGenerated: true
 draft: false
 ---

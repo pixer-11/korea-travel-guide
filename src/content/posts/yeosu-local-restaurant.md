@@ -1,28 +1,52 @@
 ---
-title: "Local Restaurant in Yeosu: A Visitor's Guide"
-description: "A practical visitor's guide to local restaurant in Yeosu, Korea — what to expect, how to get around, and tips for your visit."
-region: "Yeosu"
-category: "restaurant"
-pubDate: 2026-07-20
+title: 'Local Restaurant in Yeosu: A Visitor''s Guide'
+description: >-
+  A practical visitor's guide to local restaurant in Yeosu, Korea — what to
+  expect, how to get around, and tips for your visit.
+region: Yeosu
+category: restaurant
+pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1525610553991-2bede1a236e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8bG9jYWwlMjByZXN0YXVyYW50fGVufDB8MHx8fDE3ODQ1NjQ0ODN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  credit: "Photo: Rod Long on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/photos/group-of-people-eating-on-restaurant-I79Pgmhmy5M"
+  url: >-
+    https://images.unsplash.com/photo-1739482409416-f9cba9a56073?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8bG9jYWwlMjByZXN0YXVyYW50JTIwWWVvc3UlMjBTb3V0aCUyMEtvcmVhfGVufDB8MHx8fDE3ODQ1OTIwMTJ8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Aditya Segan on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@adityasegan?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - "yeosu"
-  - "local restaurant"
-quickAnswer: "Yeosu doesn't have one single 'best' restaurant to chase down — the smarter approach is to head to the harbor-front streets near Yeosu Passenger Terminal, Jongpo, or the Dolsan Bridge area, where clusters of local eateries serve the region's signature seafood. Look for busy, no-frills spots filled with local diners rather than a specific named destination."
+  - yeosu
+  - local restaurant
+quickAnswer: >-
+  Yeosu doesn't have one single 'best' restaurant to chase down — the smarter
+  approach is to head to the harbor-front streets near Yeosu Passenger Terminal,
+  Jongpo, or the Dolsan Bridge area, where clusters of local eateries serve the
+  region's signature seafood. Look for busy, no-frills spots filled with local
+  diners rather than a specific named destination.
 faq:
-  - q: "Is there one famous \"best\" restaurant in Yeosu that everyone recommends?"
-    a: "Not a single definitive one — Yeosu's dining reputation is built around its harbor-side seafood culture generally, so it's better to explore restaurant clusters near the passenger terminal, Jongpo, or Dolsan Bridge than to search for one specific name."
-  - q: "What food is Yeosu especially known for?"
-    a: "The city is known for fresh seafood, including raw fish platters, grilled or braised fish, and mixed seafood dishes that reflect its active fishing port and coastal waters."
-  - q: "What's the easiest way to find good local restaurants without a reservation?"
-    a: "Walk the harbor-front streets and look for small, busy eateries with mostly local customers — these clustered areas near the passenger terminal and old town tend to have the highest concentration of solid options."
-  - q: "Do I need cash, or is card payment common?"
-    a: "It's wise to carry some cash, since smaller family-run seafood restaurants in port cities like Yeosu may prefer cash or have minimum amounts for card payments."
+  - q: Is there one famous "best" restaurant in Yeosu that everyone recommends?
+    a: >-
+      Not a single definitive one — Yeosu's dining reputation is built around
+      its harbor-side seafood culture generally, so it's better to explore
+      restaurant clusters near the passenger terminal, Jongpo, or Dolsan Bridge
+      than to search for one specific name.
+  - q: What food is Yeosu especially known for?
+    a: >-
+      The city is known for fresh seafood, including raw fish platters, grilled
+      or braised fish, and mixed seafood dishes that reflect its active fishing
+      port and coastal waters.
+  - q: >-
+      What's the easiest way to find good local restaurants without a
+      reservation?
+    a: >-
+      Walk the harbor-front streets and look for small, busy eateries with
+      mostly local customers — these clustered areas near the passenger terminal
+      and old town tend to have the highest concentration of solid options.
+  - q: 'Do I need cash, or is card payment common?'
+    a: >-
+      It's wise to carry some cash, since smaller family-run seafood restaurants
+      in port cities like Yeosu may prefer cash or have minimum amounts for card
+      payments.
 aiGenerated: true
 draft: false
 ---

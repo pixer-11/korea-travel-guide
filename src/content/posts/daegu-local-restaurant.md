@@ -1,28 +1,49 @@
 ---
-title: "Local Restaurant in Daegu: A Visitor's Guide"
-description: "A practical visitor's guide to local restaurant in Daegu, Korea — what to expect, how to get around, and tips for your visit."
-region: "Daegu"
-category: "restaurant"
-pubDate: 2026-07-20
+title: 'Local Restaurant in Daegu: A Visitor''s Guide'
+description: >-
+  A practical visitor's guide to local restaurant in Daegu, Korea — what to
+  expect, how to get around, and tips for your visit.
+region: Daegu
+category: restaurant
+pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1525610553991-2bede1a236e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8bG9jYWwlMjByZXN0YXVyYW50fGVufDB8MHx8fDE3ODQ1NjQ0ODN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  credit: "Photo: Rod Long on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/photos/group-of-people-eating-on-restaurant-I79Pgmhmy5M"
+  url: >-
+    https://images.unsplash.com/photo-1549221428-495f00892696?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8bG9jYWwlMjByZXN0YXVyYW50JTIwRGFlZ3UlMjBTb3V0aCUyMEtvcmVhfGVufDB8MHx8fDE3ODQ1OTE4ODB8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Bundo Kim on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@bundo?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - "daegu"
-  - "local restaurant"
-quickAnswer: "There isn't one single 'best' local restaurant to name in Daegu — the city's dining strength lies in neighborhood clusters (market alleys, university districts, and old downtown lanes) where small, family-run spots serve regional specialties. The most reliable approach is to pick a food district, look for places full of local customers, and use a map app rather than chase a specific name."
+  - daegu
+  - local restaurant
+quickAnswer: >-
+  There isn't one single 'best' local restaurant to name in Daegu — the city's
+  dining strength lies in neighborhood clusters (market alleys, university
+  districts, and old downtown lanes) where small, family-run spots serve
+  regional specialties. The most reliable approach is to pick a food district,
+  look for places full of local customers, and use a map app rather than chase a
+  specific name.
 faq:
-  - q: "Do I need to book a table in advance at local restaurants in Daegu?"
-    a: "Generally no — most small local restaurants operate on a walk-in basis. Reservations are uncommon outside of higher-end dining."
-  - q: "Will menus be available in English?"
-    a: "Often not, especially at smaller, family-run places. A translation app with photo/camera scanning is the most practical workaround."
-  - q: "What's the best way to find a good local restaurant without a specific recommendation?"
-    a: "Head to a known market or old downtown district, walk the side streets, and look for small specialized eateries with a steady stream of local customers during mealtimes."
-  - q: "Can I pay by card at small local restaurants?"
-    a: "Card acceptance varies, and some smaller or older establishments are cash-only or prefer Korean-issued cards, so it's safest to carry cash."
+  - q: Do I need to book a table in advance at local restaurants in Daegu?
+    a: >-
+      Generally no — most small local restaurants operate on a walk-in basis.
+      Reservations are uncommon outside of higher-end dining.
+  - q: Will menus be available in English?
+    a: >-
+      Often not, especially at smaller, family-run places. A translation app
+      with photo/camera scanning is the most practical workaround.
+  - q: >-
+      What's the best way to find a good local restaurant without a specific
+      recommendation?
+    a: >-
+      Head to a known market or old downtown district, walk the side streets,
+      and look for small specialized eateries with a steady stream of local
+      customers during mealtimes.
+  - q: Can I pay by card at small local restaurants?
+    a: >-
+      Card acceptance varies, and some smaller or older establishments are
+      cash-only or prefer Korean-issued cards, so it's safest to carry cash.
 aiGenerated: true
 draft: false
 ---

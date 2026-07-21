@@ -1,28 +1,52 @@
 ---
-title: "Heyri Art Village in Paju: A Visitor's Guide"
-description: "A practical visitor's guide to Heyri Art Village in Paju, Korea — what to expect, how to get around, and tips for your visit."
-region: "Paju"
-category: "hidden-gem"
-pubDate: 2026-07-20
+title: 'Heyri Art Village in Paju: A Visitor''s Guide'
+description: >-
+  A practical visitor's guide to Heyri Art Village in Paju, Korea — what to
+  expect, how to get around, and tips for your visit.
+region: Paju
+category: hidden-gem
+pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1767924280511-46d98bca2da3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SGV5cmklMjBBcnQlMjBWaWxsYWdlfGVufDB8MHx8fDE3ODQ1NjU0OTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  credit: "Photo: Vivu Vietnam on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/photos/person-arranging-colorful-umbrellas-outside-traditional-hut-J-7MHFduT6I"
+  url: >-
+    https://images.unsplash.com/photo-1718958505977-6f5790f1cf1a?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SGV5cmklMjBBcnQlMjBWaWxsYWdlJTIwUGFqdSUyMFNvdXRoJTIwS29yZWF8ZW58MHwwfHx8MTc4NDU5MjAwMXww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Mos Sukjaroenkraisri on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@mossuk?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - "paju"
-  - "Heyri Art Village"
-quickAnswer: "Heyri Art Village is a planned arts community in Paju, about an hour north of Seoul, known for its cluster of galleries, small museums, bookshops, and architect-designed buildings set among quiet, low-rise streets. It's best visited as a half-day or full-day trip by bus or taxi combined with other Paju attractions like the DMZ area or Paju Book City, and is ideal for travelers who enjoy design, art, and a slower, walkable atmosphere away from central Seoul."
+  - paju
+  - Heyri Art Village
+quickAnswer: >-
+  Heyri Art Village is a planned arts community in Paju, about an hour north of
+  Seoul, known for its cluster of galleries, small museums, bookshops, and
+  architect-designed buildings set among quiet, low-rise streets. It's best
+  visited as a half-day or full-day trip by bus or taxi combined with other Paju
+  attractions like the DMZ area or Paju Book City, and is ideal for travelers
+  who enjoy design, art, and a slower, walkable atmosphere away from central
+  Seoul.
 faq:
-  - q: "How do I get to Heyri Art Village from Seoul?"
-    a: "Heyri is in Paju, north of Seoul, and is typically reached by public bus, taxi, or private car. Many visitors combine the trip with other Paju attractions, such as Paju Book City, so check current bus routes and travel times before heading out."
-  - q: "How much time should I set aside for a visit?"
-    a: "Because the village is spread across a hilly area with many separate buildings, a half-day to full-day visit is recommended, especially if you plan to combine it with nearby Paju sights."
-  - q: "Are all the buildings in Heyri open to the public?"
-    a: "No — Heyri includes private studios and residences alongside public galleries, shops, and cafes, so part of the experience is discovering which venues are open on any given day."
-  - q: "Is Heyri Art Village good for a family or casual visit?"
-    a: "It suits visitors who enjoy walking, art, and architecture at a relaxed pace; those wanting a single, guaranteed-hours attraction may prefer pairing it with a more structured stop nearby."
+  - q: How do I get to Heyri Art Village from Seoul?
+    a: >-
+      Heyri is in Paju, north of Seoul, and is typically reached by public bus,
+      taxi, or private car. Many visitors combine the trip with other Paju
+      attractions, such as Paju Book City, so check current bus routes and
+      travel times before heading out.
+  - q: How much time should I set aside for a visit?
+    a: >-
+      Because the village is spread across a hilly area with many separate
+      buildings, a half-day to full-day visit is recommended, especially if you
+      plan to combine it with nearby Paju sights.
+  - q: Are all the buildings in Heyri open to the public?
+    a: >-
+      No — Heyri includes private studios and residences alongside public
+      galleries, shops, and cafes, so part of the experience is discovering
+      which venues are open on any given day.
+  - q: Is Heyri Art Village good for a family or casual visit?
+    a: >-
+      It suits visitors who enjoy walking, art, and architecture at a relaxed
+      pace; those wanting a single, guaranteed-hours attraction may prefer
+      pairing it with a more structured stop nearby.
 aiGenerated: true
 draft: false
 ---

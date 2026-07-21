@@ -1,28 +1,48 @@
 ---
-title: "Hidden Gem in Incheon: A Visitor's Guide"
-description: "A practical visitor's guide to hidden gem in Incheon, Korea — what to expect, how to get around, and tips for your visit."
-region: "Incheon"
-category: "hidden-gem"
-pubDate: 2026-07-20
+title: 'Hidden Gem in Incheon: A Visitor''s Guide'
+description: >-
+  A practical visitor's guide to hidden gem in Incheon, Korea — what to expect,
+  how to get around, and tips for your visit.
+region: Incheon
+category: hidden-gem
+pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1679669693237-74d556d6b5ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8aGlkZGVuJTIwZ2VtfGVufDB8MHx8fDE3ODQ1NjUwMDV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  credit: "Photo: Trophim Laptev on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/photos/three-different-colored-crystals-on-a-black-background-hfV9tSBEvlU"
+  url: >-
+    https://images.unsplash.com/photo-1641773861272-d2ce368924bc?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8aGlkZGVuJTIwZ2VtJTIwSW5jaGVvbiUyMFNvdXRoJTIwS29yZWF8ZW58MHwwfHx8MTc4NDU5MTg4N3ww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Joyce Jiang on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@joycejiang?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - "incheon"
-  - "hidden gem"
-quickAnswer: "Incheon's real hidden gems aren't a single spot but a handful of overlooked neighborhoods — quiet lanes behind Chinatown, the older stretches of Wolmido, and the tidal flats and islands connected by bridge west of the city — that get a fraction of the foot traffic of Seoul's big sights. Plan on a half-day to a full day, go on foot or by local bus once you arrive, and bring cash for small, cash-only stalls and shops."
+  - incheon
+  - hidden gem
+quickAnswer: >-
+  Incheon's real hidden gems aren't a single spot but a handful of overlooked
+  neighborhoods — quiet lanes behind Chinatown, the older stretches of Wolmido,
+  and the tidal flats and islands connected by bridge west of the city — that
+  get a fraction of the foot traffic of Seoul's big sights. Plan on a half-day
+  to a full day, go on foot or by local bus once you arrive, and bring cash for
+  small, cash-only stalls and shops.
 faq:
-  - q: "Is Incheon worth visiting if I'm only in Korea for a short trip?"
-    a: "Yes, especially as a layover or day-trip add-on — it's close to the airport and offers a quieter, more local contrast to Seoul without requiring a full extra day."
-  - q: "How do I get from Seoul to Incheon's older neighborhoods?"
-    a: "Take the AREX train or Seoul Subway Line 1 into central Incheon, then walk or use local buses to reach the historic districts and harbor-area streets."
-  - q: "Do I need cash in Incheon's markets and back streets?"
-    a: "It's wise to carry small bills, since many family-run stalls and smaller shops in the older neighborhoods prefer or only accept cash."
-  - q: "What's the best time of day or week to explore Incheon's quieter spots?"
-    a: "Weekday daytime visits tend to be calmest, letting you experience the unhurried, local character these areas are known for."
+  - q: Is Incheon worth visiting if I'm only in Korea for a short trip?
+    a: >-
+      Yes, especially as a layover or day-trip add-on — it's close to the
+      airport and offers a quieter, more local contrast to Seoul without
+      requiring a full extra day.
+  - q: How do I get from Seoul to Incheon's older neighborhoods?
+    a: >-
+      Take the AREX train or Seoul Subway Line 1 into central Incheon, then walk
+      or use local buses to reach the historic districts and harbor-area
+      streets.
+  - q: Do I need cash in Incheon's markets and back streets?
+    a: >-
+      It's wise to carry small bills, since many family-run stalls and smaller
+      shops in the older neighborhoods prefer or only accept cash.
+  - q: What's the best time of day or week to explore Incheon's quieter spots?
+    a: >-
+      Weekday daytime visits tend to be calmest, letting you experience the
+      unhurried, local character these areas are known for.
 aiGenerated: true
 draft: false
 ---

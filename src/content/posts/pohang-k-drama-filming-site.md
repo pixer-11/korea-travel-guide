@@ -1,28 +1,49 @@
 ---
-title: "K-Drama Filming Site in Pohang: A Visitor's Guide"
-description: "A practical visitor's guide to K-drama filming site in Pohang, Korea — what to expect, how to get around, and tips for your visit."
-region: "Pohang"
-category: "trendy"
-pubDate: 2026-07-20
+title: 'K-Drama Filming Site in Pohang: A Visitor''s Guide'
+description: >-
+  A practical visitor's guide to K-drama filming site in Pohang, Korea — what to
+  expect, how to get around, and tips for your visit.
+region: Pohang
+category: trendy
+pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "/images/placeholder-market.svg"
-  credit: "Placeholder image"
-  license: "placeholder"
-  source: "local"
+  url: >-
+    https://images.unsplash.com/photo-1596775218323-9b8276975108?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8Sy1kcmFtYSUyMGZpbG1pbmclMjBzaXRlJTIwUG9oYW5nJTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTkyMDAyfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Jeong Sujin on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@sinri?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - "pohang"
-  - "K-drama filming site"
-quickAnswer: "Guryongpo, a quiet fishing port on Pohang's east coast, is the real-life set of tvN's hit series \"Hometown Cha-Cha-Cha.\" Visitors come mainly to stroll the old harbor streets, retro modern-street lane, and seaside where key scenes were shot, and to soak up the small-town coastal atmosphere the show made famous. Plan on a half-day trip, go on foot along the waterfront, and pair it with fresh seafood at the harbor."
+  - pohang
+  - K-drama filming site
+quickAnswer: >-
+  Guryongpo, a quiet fishing port on Pohang's east coast, is the real-life set
+  of tvN's hit series "Hometown Cha-Cha-Cha." Visitors come mainly to stroll the
+  old harbor streets, retro modern-street lane, and seaside where key scenes
+  were shot, and to soak up the small-town coastal atmosphere the show made
+  famous. Plan on a half-day trip, go on foot along the waterfront, and pair it
+  with fresh seafood at the harbor.
 faq:
-  - q: "Is there an official filming site or museum to visit?"
-    a: "No single official site exists — the drama's charm comes from the town's real harbor streets, retro shopping lane, and coastline rather than one dedicated attraction."
-  - q: "How do I get to Guryongpo from Pohang city?"
-    a: "Most visitors reach Pohang by bus or KTX first, then take a local bus or taxi to Guryongpo, as it's located outside the central city area. A car or organized tour can simplify the trip."
-  - q: "How much time should I set aside?"
-    a: "A half-day is generally enough to walk the harbor area, browse the old streets, and have a seafood meal before heading back."
-  - q: "What else can I do while I'm there?"
-    a: "Enjoy the working fishing port atmosphere, walk the waterfront, and try local seafood, since Guryongpo is known for its fresh catch alongside its drama fame."
+  - q: Is there an official filming site or museum to visit?
+    a: >-
+      No single official site exists — the drama's charm comes from the town's
+      real harbor streets, retro shopping lane, and coastline rather than one
+      dedicated attraction.
+  - q: How do I get to Guryongpo from Pohang city?
+    a: >-
+      Most visitors reach Pohang by bus or KTX first, then take a local bus or
+      taxi to Guryongpo, as it's located outside the central city area. A car or
+      organized tour can simplify the trip.
+  - q: How much time should I set aside?
+    a: >-
+      A half-day is generally enough to walk the harbor area, browse the old
+      streets, and have a seafood meal before heading back.
+  - q: What else can I do while I'm there?
+    a: >-
+      Enjoy the working fishing port atmosphere, walk the waterfront, and try
+      local seafood, since Guryongpo is known for its fresh catch alongside its
+      drama fame.
 aiGenerated: true
 draft: false
 ---

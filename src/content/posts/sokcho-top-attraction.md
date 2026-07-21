@@ -1,28 +1,49 @@
 ---
-title: "Top Attraction in Sokcho: A Visitor's Guide"
-description: "A practical visitor's guide to top attraction in Sokcho, Korea — what to expect, how to get around, and tips for your visit."
-region: "Sokcho"
-category: "attraction"
-pubDate: 2026-07-20
+title: 'Top Attraction in Sokcho: A Visitor''s Guide'
+description: >-
+  A practical visitor's guide to top attraction in Sokcho, Korea — what to
+  expect, how to get around, and tips for your visit.
+region: Sokcho
+category: attraction
+pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1689009222796-595ab6dc489f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8dG9wJTIwYXR0cmFjdGlvbnxlbnwwfDB8fHwxNzg0NTY0MjA5fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  credit: "Photo: Mario Verduzco on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/photos/a-wooden-bridge-with-metal-railings-and-a-sky-background-pNEs7pYxsIo"
+  url: >-
+    https://images.unsplash.com/photo-1660785462445-f9d21cad7ada?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8dG9wJTIwYXR0cmFjdGlvbiUyMFNva2NobyUyMFNvdXRoJTIwS29yZWF8ZW58MHwwfHx8MTc4NDU5MjAwN3ww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Photos of Korea on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@photosofkorea?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - "sokcho"
-  - "top attraction"
-quickAnswer: "Sokcho's top draw is its combination of coastal and mountain scenery, most visitors centering a trip around Seoraksan National Park and the city's beaches and fish markets. Plan on at least a full day for the park alone, and pair it with a stroll through the harbor area or a seafood meal for a well-rounded visit."
+  - sokcho
+  - top attraction
+quickAnswer: >-
+  Sokcho's top draw is its combination of coastal and mountain scenery, most
+  visitors centering a trip around Seoraksan National Park and the city's
+  beaches and fish markets. Plan on at least a full day for the park alone, and
+  pair it with a stroll through the harbor area or a seafood meal for a
+  well-rounded visit.
 faq:
-  - q: "What is Sokcho best known for among travelers?"
-    a: "Sokcho is best known for its access to Seoraksan National Park and its coastal setting, combining mountain hiking with beach and harbor life in one compact area."
-  - q: "How do I get from Seoul to Sokcho?"
-    a: "The most common option is an intercity or express bus from Seoul, taking a few hours; there is no direct KTX line into Sokcho, so bus or car travel is standard."
-  - q: "How much time should I set aside for the top attraction area?"
-    a: "A full day is a reasonable minimum if you want to include mountain trails, and many visitors extend to two days to also cover the beach, harbor, and local markets without rushing."
-  - q: "Is Sokcho worth visiting outside of peak autumn season?"
-    a: "Yes — spring and summer offer beach access and milder hiking conditions, while winter can bring scenic snow views, so the appeal shifts by season rather than disappearing outside autumn."
+  - q: What is Sokcho best known for among travelers?
+    a: >-
+      Sokcho is best known for its access to Seoraksan National Park and its
+      coastal setting, combining mountain hiking with beach and harbor life in
+      one compact area.
+  - q: How do I get from Seoul to Sokcho?
+    a: >-
+      The most common option is an intercity or express bus from Seoul, taking a
+      few hours; there is no direct KTX line into Sokcho, so bus or car travel
+      is standard.
+  - q: How much time should I set aside for the top attraction area?
+    a: >-
+      A full day is a reasonable minimum if you want to include mountain trails,
+      and many visitors extend to two days to also cover the beach, harbor, and
+      local markets without rushing.
+  - q: Is Sokcho worth visiting outside of peak autumn season?
+    a: >-
+      Yes — spring and summer offer beach access and milder hiking conditions,
+      while winter can bring scenic snow views, so the appeal shifts by season
+      rather than disappearing outside autumn.
 aiGenerated: true
 draft: false
 ---

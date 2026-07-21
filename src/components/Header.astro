@@ -15,6 +15,7 @@ const regions = ['Seoul', 'Busan', 'Jeju', 'Gyeongju', 'Incheon'];
 
     <nav class="nav">
       {regions.map((r) => <a href={`/regions/${r.toLowerCase()}`}>{r}</a>)}
+      <a href="/regions">More ▾</a>
       <span class="sep"></span>
       <a href="/essentials/visa" class="nav-essential">Visa</a>
       <a href="/essentials/emergency" class="nav-essential">Emergency</a>

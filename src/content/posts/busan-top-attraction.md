@@ -1,28 +1,50 @@
 ---
-title: "Top Attraction in Busan: A Visitor's Guide"
-description: "A practical visitor's guide to top attraction in Busan, Korea — what to expect, how to get around, and tips for your visit."
-region: "Busan"
-category: "attraction"
-pubDate: 2026-07-20
+title: 'Top Attraction in Busan: A Visitor''s Guide'
+description: >-
+  A practical visitor's guide to top attraction in Busan, Korea — what to
+  expect, how to get around, and tips for your visit.
+region: Busan
+category: attraction
+pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1689009222796-595ab6dc489f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8dG9wJTIwYXR0cmFjdGlvbnxlbnwwfDB8fHwxNzg0NTY0MjA5fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  credit: "Photo: Mario Verduzco on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/photos/a-wooden-bridge-with-metal-railings-and-a-sky-background-pNEs7pYxsIo"
+  url: >-
+    https://images.unsplash.com/photo-1724618194655-c3c12254d61c?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8dG9wJTIwYXR0cmFjdGlvbiUyMEJ1c2FuJTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTkxODc5fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Andrea De Santis on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@santesson89?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - "busan"
-  - "top attraction"
-quickAnswer: "Busan doesn't have one single 'must-see' attraction so much as a cluster of iconic spots that together define the city: Haeundae and Gwangalli beaches, the seaside temple Haedong Yonggungsa, the colorful hillside Gamcheon Culture Village, and the bustling Jagalchi fish market. For a first visit, pick one coastal area and one cultural/market area rather than trying to cover the whole city in a day."
+  - busan
+  - top attraction
+quickAnswer: >-
+  Busan doesn't have one single 'must-see' attraction so much as a cluster of
+  iconic spots that together define the city: Haeundae and Gwangalli beaches,
+  the seaside temple Haedong Yonggungsa, the colorful hillside Gamcheon Culture
+  Village, and the bustling Jagalchi fish market. For a first visit, pick one
+  coastal area and one cultural/market area rather than trying to cover the
+  whole city in a day.
 faq:
-  - q: "Is there one single 'top' attraction everyone should visit in Busan?"
-    a: "Not really — Busan is known for a set of standout spots (beaches, a seaside temple, a colorful village, a major fish market) rather than one must-see landmark. Most visitors combine two or three based on their interests."
-  - q: "How many days do I need to see Busan's main attractions?"
-    a: "Two to three days is typically enough to cover the highlights at a comfortable pace, especially if you group nearby sights by neighborhood."
-  - q: "Is Busan easy to get around without speaking Korean?"
-    a: "Yes — the subway has English signage and announcements, and major tourist areas are used to international visitors, though taxis are useful for spots not directly on the subway line."
-  - q: "What's the best time of year to visit Busan's beaches and outdoor sights?"
-    a: "Summer is peak season for the beaches but also the most crowded; spring and autumn offer milder weather that's comfortable for walking, temple visits, and coastal trails."
+  - q: Is there one single 'top' attraction everyone should visit in Busan?
+    a: >-
+      Not really — Busan is known for a set of standout spots (beaches, a
+      seaside temple, a colorful village, a major fish market) rather than one
+      must-see landmark. Most visitors combine two or three based on their
+      interests.
+  - q: How many days do I need to see Busan's main attractions?
+    a: >-
+      Two to three days is typically enough to cover the highlights at a
+      comfortable pace, especially if you group nearby sights by neighborhood.
+  - q: Is Busan easy to get around without speaking Korean?
+    a: >-
+      Yes — the subway has English signage and announcements, and major tourist
+      areas are used to international visitors, though taxis are useful for
+      spots not directly on the subway line.
+  - q: What's the best time of year to visit Busan's beaches and outdoor sights?
+    a: >-
+      Summer is peak season for the beaches but also the most crowded; spring
+      and autumn offer milder weather that's comfortable for walking, temple
+      visits, and coastal trails.
 aiGenerated: true
 draft: false
 ---

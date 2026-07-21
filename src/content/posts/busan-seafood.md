@@ -1,28 +1,49 @@
 ---
-title: "Seafood in Busan: A Visitor's Guide"
-description: "A practical visitor's guide to seafood in Busan, Korea — what to expect, how to get around, and tips for your visit."
-region: "Busan"
-category: "restaurant"
-pubDate: 2026-07-20
+title: 'Seafood in Busan: A Visitor''s Guide'
+description: >-
+  A practical visitor's guide to seafood in Busan, Korea — what to expect, how
+  to get around, and tips for your visit.
+region: Busan
+category: restaurant
+pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1615141982883-c7ad0e69fd62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8c2VhZm9vZHxlbnwwfDB8fHwxNzg0NTY0MzMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  credit: "Photo: Mike Bergmann on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/photos/orange-and-white-fish-on-white-and-black-pebbles-tHjXXy1kk_Q"
+  url: >-
+    https://images.unsplash.com/photo-1688598895556-7131cc20db55?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8c2VhZm9vZCUyMEJ1c2FuJTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTkxODc4fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Frank Zhang on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@frankzphoto?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - "busan"
-  - "seafood"
-quickAnswer: "Jagalchi Market on Busan's waterfront is the city's most famous hub for fresh seafood, where you can buy live catch on the ground floor and have it prepared and served upstairs or at nearby stalls. Go hungry, bring cash, and expect a lively, no-frills experience rather than a polished restaurant setting."
+  - busan
+  - seafood
+quickAnswer: >-
+  Jagalchi Market on Busan's waterfront is the city's most famous hub for fresh
+  seafood, where you can buy live catch on the ground floor and have it prepared
+  and served upstairs or at nearby stalls. Go hungry, bring cash, and expect a
+  lively, no-frills experience rather than a polished restaurant setting.
 faq:
-  - q: "Do I need to speak Korean to order seafood at Jagalchi Market?"
-    a: "No, but it helps. Pointing at what you want in the tanks and simple gestures are generally understood, and vendors are used to dealing with visitors. Learning a few basic numbers or polite phrases can make the process smoother."
-  - q: "Can I get my seafood cooked instead of eaten raw?"
-    a: "Yes — many stalls and upstairs eateries offer grilling or cooking preparation in addition to raw sashimi-style service. Ask the vendor about options when you select your seafood."
-  - q: "Is Jagalchi Market only for buying seafood to take home?"
-    a: "No, it's primarily set up for eating on-site. You typically buy live seafood on the ground floor and then have it prepared and served either at an attached seating area or in a restaurant upstairs."
-  - q: "What's the best way to get to Jagalchi Market?"
-    a: "The Busan Metro is the most convenient option, with a station near the market on one of the main lines. Taxis are also a reliable choice, as the market is a well-known central landmark."
+  - q: Do I need to speak Korean to order seafood at Jagalchi Market?
+    a: >-
+      No, but it helps. Pointing at what you want in the tanks and simple
+      gestures are generally understood, and vendors are used to dealing with
+      visitors. Learning a few basic numbers or polite phrases can make the
+      process smoother.
+  - q: Can I get my seafood cooked instead of eaten raw?
+    a: >-
+      Yes — many stalls and upstairs eateries offer grilling or cooking
+      preparation in addition to raw sashimi-style service. Ask the vendor about
+      options when you select your seafood.
+  - q: Is Jagalchi Market only for buying seafood to take home?
+    a: >-
+      No, it's primarily set up for eating on-site. You typically buy live
+      seafood on the ground floor and then have it prepared and served either at
+      an attached seating area or in a restaurant upstairs.
+  - q: What's the best way to get to Jagalchi Market?
+    a: >-
+      The Busan Metro is the most convenient option, with a station near the
+      market on one of the main lines. Taxis are also a reliable choice, as the
+      market is a well-known central landmark.
 aiGenerated: true
 draft: false
 ---
