@@ -9,7 +9,9 @@ const posts = defineCollection({
   schema: z.object({
     title: z.string(),
     description: z.string(),
-    region: z.string(), // e.g. "Seoul", "Busan", "Jeju"
+    // Global layer: Country → Region → Post. Existing Korea posts default here.
+    country: z.string().default('South Korea'),
+    region: z.string(), // city/area within the country, e.g. "Seoul", "Busan"
     category: z.enum([
       'attraction',
       'restaurant',

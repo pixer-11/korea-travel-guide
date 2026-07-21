@@ -8,7 +8,7 @@ import Anthropic from '@anthropic-ai/sdk';
 
 const MODEL = process.env.WRITER_MODEL || 'claude-sonnet-5';
 
-const SYSTEM = `You are a travel editor for an English-language Korea travel guide for international visitors. Your job is CONCRETE, specific, genuinely useful guides — the opposite of generic filler.
+const SYSTEM = `You are a travel editor for an English-language global travel guide for international visitors. Your job is CONCRETE, specific, genuinely useful guides for the given destination — the opposite of generic filler.
 
 VOICE & HONESTY:
 - Write as a knowledgeable CURATOR/editor. NEVER claim a personal visit ("I went", "when I sat down", "I loved" are forbidden). No invented quotes or fake anecdotes.
@@ -52,11 +52,11 @@ const TOOL = {
   },
 };
 
-export async function writeArticle({ apiKey, title, region, category, facts }) {
+export async function writeArticle({ apiKey, title, region, country, category, facts }) {
   const client = new Anthropic({ apiKey: apiKey || process.env.ANTHROPIC_API_KEY });
 
   const userPrompt = `Write a guide titled: "${title}"
-Region: ${region}
+Destination: ${region}${country ? `, ${country}` : ''}
 Category: ${category}
 
 VERIFIED FACTS (use only these for specifics):

@@ -27,6 +27,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
 const POSTS_DIR = join(ROOT, 'src', 'content', 'posts');
 const TARGETS_FILE = join(ROOT, 'data', 'targets.json');
+const COUNTRIES_FILE = join(ROOT, 'data', 'countries.json');
 const PUBLISHED_FILE = join(ROOT, 'data', 'published.json');
 
 const POSTS_PER_RUN = Number(process.env.POSTS_PER_RUN ?? 2);
@@ -40,30 +41,29 @@ const DUMMY = process.env.DUMMY === '1' || !process.env.ANTHROPIC_API_KEY;
 const USE_PLACES =
   !DUMMY && process.env.NO_PLACES !== '1' && !!process.env.GOOGLE_MAPS_API_KEY;
 
-// Regions and topic templates used to auto-extend the queue so the site can
-// publish daily for a long time without hand-writing every target.
-const REGIONS = [
-  'Seoul', 'Busan', 'Jeju', 'Gyeongju', 'Incheon', 'Jeonju',
-  'Gangneung', 'Daegu', 'Suwon', 'Sokcho', 'Andong', 'Yeosu',
-];
+// Topic templates auto-extend the queue so the site can publish daily for a
+// long time without hand-writing every target. They are applied to every
+// ACTIVE country's regions (see data/countries.json) → global by design.
 const TOPIC_TEMPLATES = [
-  { category: 'attraction', topic: 'top attraction', q: (r) => `top tourist attraction in ${r} South Korea` },
-  { category: 'restaurant', topic: 'local restaurant', q: (r) => `best local restaurant in ${r} South Korea` },
-  { category: 'hidden-gem', topic: 'hidden gem', q: (r) => `hidden gem worth visiting in ${r} South Korea` },
-  { category: 'trendy', topic: 'trendy cafe', q: (r) => `trendy popular cafe in ${r} South Korea` },
-  { category: 'restaurant', topic: 'street food', q: (r) => `famous street food spot in ${r} South Korea` },
+  { category: 'attraction', topic: 'top attraction', q: (r, c) => `top tourist attraction in ${r} ${c}` },
+  { category: 'restaurant', topic: 'local restaurant', q: (r, c) => `best local restaurant in ${r} ${c}` },
+  { category: 'hidden-gem', topic: 'hidden gem', q: (r, c) => `hidden gem worth visiting in ${r} ${c}` },
+  { category: 'trendy', topic: 'trendy cafe', q: (r, c) => `trendy popular cafe in ${r} ${c}` },
+  { category: 'restaurant', topic: 'street food', q: (r, c) => `famous street food spot in ${r} ${c}` },
 ];
 
 async function main() {
   if (!existsSync(POSTS_DIR)) await mkdir(POSTS_DIR, { recursive: true });
 
   const { targets } = JSON.parse(await readFile(TARGETS_FILE, 'utf8'));
+  const { countries } = JSON.parse(await readFile(COUNTRIES_FILE, 'utf8'));
+  const activeCountries = (countries ?? []).filter((c) => c.active);
   const done = await loadPublished();
   const existing = new Set(
     (await readdir(POSTS_DIR)).map((f) => f.replace(/\.md$/, ''))
   );
 
-  const queue = buildRotatedQueue(targets, done);
+  const queue = buildRotatedQueue(targets, done, activeCountries);
 
   const mode = DUMMY ? 'DUMMY' : USE_PLACES ? 'LIVE + Places' : 'LIVE (no Places)';
   console.log(
@@ -102,7 +102,7 @@ async function main() {
 }
 
 // ── Queue building + round-robin rotation ────────────────────
-function buildRotatedQueue(targets, done) {
+function buildRotatedQueue(targets, done, countries) {
   const seen = new Set();
   const all = [];
   const add = (t) => {
@@ -111,22 +111,26 @@ function buildRotatedQueue(targets, done) {
     all.push(t);
   };
 
-  targets.forEach(add); // curated first (higher quality)
+  // Curated targets (data/targets.json) are Korea unless they say otherwise.
+  targets.forEach((t) => add({ country: t.country ?? 'South Korea', ...t }));
   if (AUTO_EXPAND) {
-    for (const tpl of TOPIC_TEMPLATES) {
-      for (const region of REGIONS) {
-        add({ region, query: tpl.q(region), category: tpl.category, topic: tpl.topic });
+    for (const c of countries) {
+      for (const tpl of TOPIC_TEMPLATES) {
+        for (const region of c.regions ?? []) {
+          add({ country: c.name, region, query: tpl.q(region, c.name), category: tpl.category, topic: tpl.topic });
+        }
       }
     }
   }
 
-  // Round-robin by region so consecutive picks span different places.
-  const byRegion = new Map();
+  // Round-robin by country+region so consecutive picks span different places.
+  const byBucket = new Map();
   for (const t of all) {
-    if (!byRegion.has(t.region)) byRegion.set(t.region, []);
-    byRegion.get(t.region).push(t);
+    const key = `${t.country}|${t.region}`;
+    if (!byBucket.has(key)) byBucket.set(key, []);
+    byBucket.get(key).push(t);
   }
-  const buckets = [...byRegion.values()];
+  const buckets = [...byBucket.values()];
   const rotated = [];
   let i = 0;
   while (rotated.length < all.length) {
@@ -170,6 +174,7 @@ async function buildLivePost(target) {
     namedVenue: place.name,
     region: target.region,
     topic: target.topic,
+    country: target.country,
     place,
   });
   const heroImage = isImageAllowed(hero) ? hero : null;
@@ -184,10 +189,11 @@ async function buildLivePost(target) {
     priceLevel: place.priceLevel,
     editorialSummary: place.editorialSummary,
     region: target.region,
+    country: target.country,
   };
 
   const { body, quickAnswer, faq } = await writeArticle({
-    title, region: target.region, category: target.category, facts,
+    title, region: target.region, country: target.country, category: target.category, facts,
   });
 
   return assemble(target, place, title, heroImage, gallery, { body, quickAnswer, faq });
@@ -206,20 +212,22 @@ async function buildPlacelessPost(target) {
     topic: target.topic,
     area: target.query,
     region: target.region,
+    country: target.country,
     category: target.category,
     guidance:
       'No verified venue data is available for this post. Write a genuinely useful GENERAL guide to this area/topic for international visitors — what to expect, how to get around, tips, what the area is known for. Do NOT invent specific business names, exact hours, prices, or addresses.',
   };
 
   const { body, quickAnswer, faq } = await writeArticle({
-    title, region: target.region, category: target.category, facts,
+    title, region: target.region, country: target.country, category: target.category, facts,
   });
 
-  // Accurate-first: Wikimedia by topic+region, else Korea-scoped Unsplash.
+  // Accurate-first: Wikimedia by topic+region, else country-scoped Unsplash.
   const hero = await resolveHero({
     namedVenue: null,
     region: target.region,
     topic: target.topic,
+    country: target.country,
   });
   const heroImage = isImageAllowed(hero) ? hero : null;
 
@@ -283,13 +291,15 @@ function assemble(target, place, title, heroImage, gallery, content) {
   const baseName = place?.name || target.topic;
   const slug = slugify(`${target.region}-${baseName}`);
   const today = new Date().toISOString().slice(0, 10);
+  const country = target.country || 'South Korea';
   const description = place
-    ? `A practical visitor's guide to ${place.name} in ${target.region}, Korea. Verified info on location, ratings, and how to get there.`
-    : `A practical visitor's guide to ${target.topic} in ${target.region}, Korea — what to expect, how to get around, and tips for your visit.`;
+    ? `A practical visitor's guide to ${place.name} in ${target.region}, ${country}. Verified info on location, ratings, and how to get there.`
+    : `A practical visitor's guide to ${target.topic} in ${target.region}, ${country} — what to expect, how to get around, and tips for your visit.`;
 
   const fm = {
     title,
     description,
+    country,
     region: target.region,
     category: target.category,
     pubDate: today,

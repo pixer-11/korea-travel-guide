@@ -58,8 +58,9 @@ export async function pickGallery(place, n = 3) {
 //   4. Unsplash, strictly constrained to region + "South Korea", BEST (not random)
 //   5. Placeholder
 // `used` is an optional Set of URLs already taken by other posts (de-dupe).
-export async function resolveHero({ namedVenue, region, topic, place, used, allowUnsplash = true } = {}) {
+export async function resolveHero({ namedVenue, region, topic, place, country = 'South Korea', used, allowUnsplash = true } = {}) {
   const reg = region || '';
+  const ctry = country || 'South Korea';
 
   if (namedVenue) {
     const anchor = keyToken(namedVenue);
@@ -97,18 +98,18 @@ export async function resolveHero({ namedVenue, region, topic, place, used, allo
     }
   }
 
-  const topicQ = [topic, reg, 'South Korea'].filter(Boolean).join(' ');
+  const topicQ = [topic, reg, ctry].filter(Boolean).join(' ');
   const byTopic = await commonsBest(topicQ, { mustInclude: [reg].filter(Boolean), used });
   if (byTopic) return mark(byTopic, used);
 
   if (allowUnsplash) {
     // Specific → region-level → country-level. Over-specific queries often
-    // return nothing; broadening guarantees a Korea-accurate photo, never a
+    // return nothing; broadening guarantees a country-accurate photo, never a
     // wrong-country one, and never a blank placeholder.
     const u =
-      (await unsplashStrict([reg, 'South Korea', topic].filter(Boolean).join(' '), used)) ||
-      (await unsplashStrict([reg, 'South Korea'].filter(Boolean).join(' '), used)) ||
-      (await unsplashStrict('South Korea travel landscape', used));
+      (await unsplashStrict([reg, ctry, topic].filter(Boolean).join(' '), used)) ||
+      (await unsplashStrict([reg, ctry].filter(Boolean).join(' '), used)) ||
+      (await unsplashStrict(`${ctry} travel landscape`, used));
     if (u) return mark(u, used);
   }
 

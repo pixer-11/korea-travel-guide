@@ -1,0 +1,69 @@
+{
+  "_comment": "Global destination config. Country → regions (cities/areas). generate.mjs builds region×topic targets for every ACTIVE country. Flip active:true (and seed) one country at a time to keep daily output focused and high-quality. Places search uses '<topic> in <region> <country>'.",
+  "countries": [
+    {
+      "name": "South Korea",
+      "slug": "south-korea",
+      "flag": "🇰🇷",
+      "active": true,
+      "blurb": "Palaces and K-pop, temple stays and night markets, mountains and beaches — an easy, hyper-connected country to explore.",
+      "regions": ["Seoul", "Busan", "Jeju", "Gyeongju", "Incheon", "Jeonju", "Gangneung", "Daegu", "Suwon", "Sokcho", "Andong", "Yeosu"]
+    },
+    {
+      "name": "Japan",
+      "slug": "japan",
+      "flag": "🇯🇵",
+      "active": false,
+      "blurb": "Neon cities and serene shrines, bullet trains and hot springs, world-class food from street stalls to sushi counters.",
+      "regions": ["Tokyo", "Kyoto", "Osaka", "Sapporo", "Nara", "Hiroshima", "Fukuoka", "Nagoya", "Kanazawa", "Okinawa"]
+    },
+    {
+      "name": "United States",
+      "slug": "united-states",
+      "flag": "🇺🇸",
+      "active": false,
+      "blurb": "From Manhattan skylines to desert canyons, road trips, national parks, and a different culture in every city.",
+      "regions": ["New York", "Los Angeles", "San Francisco", "Las Vegas", "Chicago", "Miami", "New Orleans", "Seattle", "Washington DC", "Boston"]
+    },
+    {
+      "name": "Thailand",
+      "slug": "thailand",
+      "flag": "🇹🇭",
+      "active": false,
+      "blurb": "Golden temples, island beaches, street-food feasts, and famously warm hospitality across a compact, affordable country.",
+      "regions": ["Bangkok", "Chiang Mai", "Phuket", "Krabi", "Ayutthaya", "Pattaya", "Koh Samui", "Chiang Rai"]
+    },
+    {
+      "name": "France",
+      "slug": "france",
+      "flag": "🇫🇷",
+      "active": false,
+      "blurb": "Paris and beyond — vineyards, Riviera beaches, alpine villages, and some of the world's greatest food and art.",
+      "regions": ["Paris", "Nice", "Lyon", "Marseille", "Bordeaux", "Strasbourg", "Cannes", "Provence"]
+    },
+    {
+      "name": "Italy",
+      "slug": "italy",
+      "flag": "🇮🇹",
+      "active": false,
+      "blurb": "Ancient Rome, Renaissance Florence, canals of Venice, coastal cliffs, and a food culture that changes region by region.",
+      "regions": ["Rome", "Florence", "Venice", "Milan", "Naples", "Bologna", "Turin", "Amalfi Coast"]
+    },
+    {
+      "name": "China",
+      "slug": "china",
+      "flag": "🇨🇳",
+      "active": false,
+      "blurb": "The Great Wall and Forbidden City, futuristic megacities, karst mountains, and 5,000 years of history and cuisine.",
+      "regions": ["Beijing", "Shanghai", "Xi'an", "Chengdu", "Guilin", "Hangzhou", "Guangzhou", "Suzhou"]
+    },
+    {
+      "name": "Spain",
+      "slug": "spain",
+      "flag": "🇪🇸",
+      "active": false,
+      "blurb": "Gaudí's Barcelona, Moorish Andalusia, tapas and late nights, sun-soaked coasts and world-famous festivals.",
+      "regions": ["Madrid", "Barcelona", "Seville", "Valencia", "Granada", "San Sebastian", "Malaga", "Bilbao"]
+    }
+  ]
+}
