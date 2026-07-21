@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import Newsletter from '../../components/Newsletter.astro';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts', ({ data }) => !data.draft);
@@ -223,6 +224,8 @@ const jsonLd = { '@context': 'https://schema.org', '@graph': graph };
         </ul>
       </section>
     )}
+
+    <Newsletter compact />
 
     <p class="disclosure">
       This guide was produced with AI assistance and reviewed against live data

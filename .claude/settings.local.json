@@ -94,7 +94,8 @@
       "Bash(node -e \"import\\('astro/assets'\\).then\\(m=>console.log\\('astro:assets getImage:', typeof m.getImage\\)\\).catch\\(e=>console.log\\('assets err',e.message\\)\\)\")",
       "Bash(node scripts/build-wall.mjs)",
       "Bash(awk '{s+=$5; n++} END{printf \"%.0f KB avg, %d files, %.1f MB total\\\\n\", s/n/1024, n, s/1024/1024}')",
-      "Bash(git commit -q -m 'perf: self-host resized WebP hero-wall thumbnails \\(pretty + fast\\) *)"
+      "Bash(git commit -q -m 'perf: self-host resized WebP hero-wall thumbnails \\(pretty + fast\\) *)",
+      "Bash(git commit -q -m 'email: reusable Newsletter component on homepage + every article \\(ready to wire\\) *)"
     ]
   }
 }

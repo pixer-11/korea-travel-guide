@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from '../components/PostCard.astro';
+import Newsletter from '../components/Newsletter.astro';
 import { SITE } from '../siteConfig';
 import countriesData from '../../data/countries.json';
 import wallData from '../../data/wall.json';
@@ -186,20 +187,7 @@ const koreaLinks = [
   </section>
 
   <!-- ===== Newsletter ===== -->
-  <section class="newsletter">
-    <div class="wrap">
-      <div class="nl-inner">
-        <p class="kicker gold">The Wander Atlas newsletter</p>
-        <h2>One genuinely useful travel guide, every week.</h2>
-        <p class="nl-dek">New destinations, insider itineraries, and the practical stuff that saves your trip. No spam — unsubscribe anytime.</p>
-        <form class="nl-form" id="nl-form" novalidate>
-          <input type="email" name="email" placeholder="you@email.com" aria-label="Email address" required />
-          <button type="submit" class="btn btn-primary">Subscribe</button>
-        </form>
-        <p class="nl-note" id="nl-note" hidden></p>
-      </div>
-    </div>
-  </section>
+  <Newsletter />
 
   <!-- ===== More guides ===== -->
   {moreGuides.length > 0 && (
@@ -234,17 +222,5 @@ const koreaLinks = [
       els.forEach((el) => io.observe(el));
       setTimeout(() => els.forEach((el) => el.classList.add('in')), 1500);
     }
-    // Newsletter: no ESP wired yet — capture intent gracefully (Phase 2 hooks this to the provider).
-    const form = document.getElementById('nl-form') as HTMLFormElement | null;
-    const note = document.getElementById('nl-note') as HTMLElement | null;
-    form?.addEventListener('submit', (e) => {
-      e.preventDefault();
-      const email = (form.querySelector('input[name=email]') as HTMLInputElement)?.value?.trim();
-      if (!email || !/.+@.+\..+/.test(email)) { if (note) { note.hidden = false; note.textContent = 'Please enter a valid email.'; } return; }
-      form.reset();
-      // NOTE: not yet connected to an email provider — we intentionally do NOT
-      // claim to have stored the address. Phase 2 wires this to the ESP.
-      if (note) { note.hidden = false; note.textContent = 'Our newsletter is launching soon — subscriptions open shortly. Thanks for your interest!'; }
-    });
   </script>
 </BaseLayout>
