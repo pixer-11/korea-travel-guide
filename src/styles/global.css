@@ -749,8 +749,8 @@ main { flex: 1; width: 100%; }
 .tp-flights-tips h3 { font-family: var(--font-display); font-weight: 450; font-size: 1.12rem; margin-bottom: 0.35rem; }
 .tp-flights-tips p { color: var(--muted); font-size: 0.92rem; line-height: 1.55; margin: 0; }
 .tp-disclosure { margin-top: 2rem; font-size: 0.82rem; color: var(--muted); line-height: 1.5; }
-.tp-hotels { margin: 2.4rem 0; }
-.tp-hotels .rule-head { margin-bottom: 1rem; }
+.tp-hotels, .tp-tours { margin: 2.4rem 0; }
+.tp-hotels .rule-head, .tp-tours .rule-head { margin-bottom: 1rem; }
 
 /* "Plan your trip" affiliate services block on posts */
 .plan-trip { margin: 2.4rem 0; }

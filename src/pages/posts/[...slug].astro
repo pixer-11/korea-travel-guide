@@ -3,6 +3,7 @@ import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Newsletter from '../../components/Newsletter.astro';
 import Hotels from '../../components/Hotels.astro';
+import Tours from '../../components/Tours.astro';
 import PlanTrip from '../../components/PlanTrip.astro';
 
 export async function getStaticPaths() {
@@ -191,6 +192,8 @@ const jsonLd = { '@context': 'https://schema.org', '@graph': graph };
     </div>
 
     <Hotels city={d.region} country={d.country ?? 'South Korea'} />
+
+    <Tours city={d.region} />
 
     <PlanTrip city={d.region} country={d.country ?? 'South Korea'} />
 

@@ -1,0 +1,41 @@
+---
+// Klook "Specific City/Category Tours Widget" (tpemd.com) — top-rated activities
+// with live prices for the guide's city. Travelpayouts identifies the city by a
+// numeric city_id, so we map our city names → ids. Posts whose city isn't mapped
+// simply don't show this block (they still get the Klook link in PlanTrip).
+// marker shmarker=754088, source trs=553157, category 1 = Attractions & Shows.
+interface Props { city: string }
+const { city } = Astro.props;
+
+// Travelpayouts Klook city_id map — expand as more ids are confirmed from the
+// widget's city dropdown.
+const CITY_ID: Record<string, number> = {
+  Seoul: 13,
+};
+const cityId = CITY_ID[city];
+const src = cityId
+  ? `https://tpemd.com/content?currency=USD&trs=553157&shmarker=754088&locale=en&city_id=${cityId}&category=1&amount=3&powered_by=true&campaign_id=137&promo_id=4497`
+  : null;
+---
+{src && (
+  <section class="tp-tours">
+    <div class="rule-head"><span class="kicker">Top-rated things to do in {city}</span></div>
+    <div class="tp-widget-card">
+      <script is:inline async src={src} charset="utf-8"></script>
+    </div>
+    <p class="tp-disclosure">Live prices from Klook. Booking through these links supports our free guides at no extra cost to you.</p>
+  </section>
+)}
+
+<script>
+  // Safety net: hide the block if the widget renders empty (e.g. no tours found).
+  window.addEventListener('load', () => {
+    setTimeout(() => {
+      document.querySelectorAll('.tp-tours').forEach((sec) => {
+        const card = sec.querySelector('.tp-widget-card') as HTMLElement | null;
+        const filled = card && (card.querySelector('iframe') || card.offsetHeight > 120);
+        if (!filled) (sec as HTMLElement).style.display = 'none';
+      });
+    }, 3500);
+  });
+</script>

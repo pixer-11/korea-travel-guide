@@ -9,7 +9,7 @@ const dest = [city, country].filter(Boolean).join(', ');
 // the correct Hotellook params per Travelpayouts docs). Renders a hotel search
 // with live prices; once the Hotellook program is approved for this marker it
 // starts converting automatically — no code change needed.
-const src = `https://tp.media/content?currency=usd&shmarker=553157&show_hotels=true&powered_by=true&locale=en&searchUrl=search.hotellook.com&primary_override=%23c8443a&color_button=%23c8443a&color_icons=%23857c6f&secondary=%23f4eee3&dark=%23201c17&light=%23FFFFFF&special=%23e6e1d6&color_focused=%23c8443a&border_radius=10&plain=false&promo_id=7873&campaign_id=101&destination=${encodeURIComponent(dest)}`;
+const src = `https://tp.media/content?currency=usd&trs=553157&shmarker=754088&show_hotels=true&powered_by=true&locale=en&searchUrl=search.hotellook.com&primary_override=%23c8443a&color_button=%23c8443a&color_icons=%23857c6f&secondary=%23f4eee3&dark=%23201c17&light=%23FFFFFF&special=%23e6e1d6&color_focused=%23c8443a&border_radius=10&plain=false&promo_id=7873&campaign_id=101&destination=${encodeURIComponent(dest)}`;
 ---
 <section class="tp-hotels">
   <div class="rule-head"><span class="kicker">Where to stay in {city}</span></div>
