@@ -39,8 +39,10 @@ const wallRow2 = wall.slice(6, 12);
 
 const countFor = (name) => posts.filter((p) => (p.data.country ?? 'South Korea') === name).length;
 const countries = countriesData.countries.map((c) => ({ ...c, count: countFor(c.name) }));
-const live = countries.filter((c) => c.active);
-const soon = countries.filter((c) => !c.active);
+// "Live" once a country has guides; activating it for generation alone doesn't
+// surface an empty tile.
+const live = countries.filter((c) => c.count > 0);
+const soon = countries.filter((c) => c.count === 0);
 
 // Curated entry points for the Korea spotlight (link to region hubs / pillars).
 const koreaLinks = [

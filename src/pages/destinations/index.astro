@@ -8,8 +8,10 @@ const posts = await getCollection('posts', ({ data }) => !data.draft);
 const countFor = (name) => posts.filter((p) => (p.data.country ?? 'South Korea') === name).length;
 
 const countries = countriesData.countries.map((c) => ({ ...c, count: countFor(c.name) }));
-const live = countries.filter((c) => c.active);
-const soon = countries.filter((c) => !c.active);
+// A country is "live" once it actually has published guides — activating it for
+// generation doesn't show an empty tile before content exists.
+const live = countries.filter((c) => c.count > 0);
+const soon = countries.filter((c) => c.count === 0);
 
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
 const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
