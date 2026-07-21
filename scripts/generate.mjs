@@ -28,6 +28,7 @@ const ROOT = join(__dirname, '..');
 const POSTS_DIR = join(ROOT, 'src', 'content', 'posts');
 const TARGETS_FILE = join(ROOT, 'data', 'targets.json');
 const COUNTRIES_FILE = join(ROOT, 'data', 'countries.json');
+const EVENTS_FILE = join(ROOT, 'data', 'events.json');
 const PUBLISHED_FILE = join(ROOT, 'data', 'published.json');
 
 const POSTS_PER_RUN = Number(process.env.POSTS_PER_RUN ?? 2);
@@ -63,7 +64,12 @@ async function main() {
     (await readdir(POSTS_DIR)).map((f) => f.replace(/\.md$/, ''))
   );
 
-  const queue = buildRotatedQueue(targets, done, activeCountries);
+  // Seasonal events: publish with priority when in season (current month or the
+  // next month, for lead time), only for active countries.
+  const activeNames = new Set(activeCountries.map((c) => c.name));
+  const seasonal = await loadSeasonalTargets(activeNames);
+
+  const queue = buildRotatedQueue(targets, done, activeCountries, seasonal);
 
   const mode = DUMMY ? 'DUMMY' : USE_PLACES ? 'LIVE + Places' : 'LIVE (no Places)';
   console.log(
@@ -102,7 +108,7 @@ async function main() {
 }
 
 // ── Queue building + round-robin rotation ────────────────────
-function buildRotatedQueue(targets, done, countries) {
+function buildRotatedQueue(targets, done, countries, seasonal = []) {
   const seen = new Set();
   const all = [];
   const add = (t) => {
@@ -138,7 +144,28 @@ function buildRotatedQueue(targets, done, countries) {
     if (bucket.length) rotated.push(bucket.shift());
     i++;
   }
-  return rotated;
+
+  // In-season events jump to the FRONT so they publish while relevant.
+  const seasonalQueue = [];
+  const sseen = new Set();
+  for (const e of seasonal) {
+    if (!e.query || done.has(e.query) || seen.has(e.query) || sseen.has(e.query)) continue;
+    sseen.add(e.query);
+    seasonalQueue.push({ country: e.country, region: e.region, query: e.query, category: e.category, topic: e.topic });
+  }
+  return [...seasonalQueue, ...rotated];
+}
+
+// In-season events (this month or next, for lead time) for active countries.
+async function loadSeasonalTargets(activeNames) {
+  try {
+    const { events } = JSON.parse(await readFile(EVENTS_FILE, 'utf8'));
+    const m = new Date().getUTCMonth() + 1; // 1-12
+    const next = (m % 12) + 1;
+    return (events ?? []).filter(
+      (e) => activeNames.has(e.country) && (e.months?.includes(m) || e.months?.includes(next))
+    );
+  } catch { return []; }
 }
 
 async function loadPublished() {

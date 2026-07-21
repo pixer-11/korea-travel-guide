@@ -1,0 +1,36 @@
+{
+  "_comment": "Recurring annual events per country. generate.mjs publishes these with PRIORITY when the current month (or next month, for lead time) is in 'months' (1-12), so seasonal content goes live in season. 'region' should match a region in countries.json where possible.",
+  "events": [
+    { "country": "South Korea", "region": "Seoul", "name": "Cherry Blossom Season in Seoul", "months": [3, 4], "category": "event", "topic": "cherry blossom season", "query": "cherry blossom spots Yeouido Seoul spring" },
+    { "country": "South Korea", "region": "Seoul", "name": "Autumn Foliage in Seoul", "months": [10, 11], "category": "event", "topic": "autumn foliage", "query": "autumn foliage spots Seoul fall" },
+    { "country": "South Korea", "region": "Boryeong", "name": "Boryeong Mud Festival", "months": [7], "category": "event", "topic": "mud festival", "query": "Boryeong Mud Festival Korea summer" },
+    { "country": "South Korea", "region": "Jinju", "name": "Jinju Namgang Lantern Festival", "months": [10], "category": "event", "topic": "lantern festival", "query": "Jinju Namgang Lantern Festival Korea" },
+
+    { "country": "Japan", "region": "Kyoto", "name": "Cherry Blossom Season in Japan", "months": [3, 4], "category": "event", "topic": "cherry blossom hanami", "query": "cherry blossom hanami Kyoto Japan spring" },
+    { "country": "Japan", "region": "Kyoto", "name": "Gion Matsuri Festival", "months": [7], "category": "event", "topic": "Gion Matsuri", "query": "Gion Matsuri festival Kyoto July" },
+    { "country": "Japan", "region": "Kyoto", "name": "Autumn Leaves (Koyo) in Japan", "months": [11], "category": "event", "topic": "autumn leaves koyo", "query": "autumn koyo momiji Kyoto November" },
+    { "country": "Japan", "region": "Sapporo", "name": "Sapporo Snow Festival", "months": [2], "category": "event", "topic": "snow festival", "query": "Sapporo Snow Festival Japan winter" },
+
+    { "country": "United States", "region": "New Orleans", "name": "Mardi Gras", "months": [2], "category": "event", "topic": "Mardi Gras", "query": "Mardi Gras New Orleans festival February" },
+    { "country": "United States", "region": "Washington DC", "name": "National Cherry Blossom Festival", "months": [3, 4], "category": "event", "topic": "cherry blossom festival", "query": "National Cherry Blossom Festival Washington DC" },
+    { "country": "United States", "region": "New York", "name": "New Year's Eve in Times Square", "months": [12], "category": "event", "topic": "New Year's Eve", "query": "New Years Eve ball drop Times Square New York" },
+
+    { "country": "Thailand", "region": "Bangkok", "name": "Songkran Water Festival", "months": [4], "category": "event", "topic": "Songkran", "query": "Songkran water festival Bangkok Thailand April" },
+    { "country": "Thailand", "region": "Chiang Mai", "name": "Yi Peng Lantern Festival", "months": [11], "category": "event", "topic": "Yi Peng lantern festival", "query": "Yi Peng Loy Krathong lantern festival Chiang Mai" },
+
+    { "country": "France", "region": "Nice", "name": "Nice Carnival", "months": [2], "category": "event", "topic": "Nice Carnival", "query": "Nice Carnival French Riviera February" },
+    { "country": "France", "region": "Cannes", "name": "Cannes Film Festival", "months": [5], "category": "event", "topic": "Cannes Film Festival", "query": "Cannes Film Festival French Riviera May" },
+    { "country": "France", "region": "Provence", "name": "Provence Lavender Bloom", "months": [6, 7], "category": "event", "topic": "lavender bloom", "query": "Provence lavender fields bloom summer France" },
+    { "country": "France", "region": "Strasbourg", "name": "Strasbourg Christmas Market", "months": [12], "category": "event", "topic": "Christmas market", "query": "Strasbourg Christmas Market France December" },
+
+    { "country": "Italy", "region": "Venice", "name": "Venice Carnival", "months": [2], "category": "event", "topic": "Venice Carnival", "query": "Venice Carnival masks Italy February" },
+    { "country": "Italy", "region": "Rome", "name": "Christmas in Rome", "months": [12], "category": "event", "topic": "Christmas in Rome", "query": "Christmas Vatican Rome December Italy" },
+
+    { "country": "China", "region": "Beijing", "name": "Chinese New Year (Spring Festival)", "months": [1, 2], "category": "event", "topic": "Chinese New Year", "query": "Chinese New Year Spring Festival Beijing China" },
+    { "country": "China", "region": "Hangzhou", "name": "Mid-Autumn Festival", "months": [9], "category": "event", "topic": "Mid-Autumn Festival", "query": "Mid-Autumn Festival mooncake West Lake Hangzhou" },
+
+    { "country": "Spain", "region": "Valencia", "name": "Las Fallas Festival", "months": [3], "category": "event", "topic": "Las Fallas", "query": "Las Fallas festival Valencia Spain March" },
+    { "country": "Spain", "region": "Seville", "name": "Semana Santa (Holy Week)", "months": [3, 4], "category": "event", "topic": "Semana Santa", "query": "Semana Santa Holy Week Seville Spain" },
+    { "country": "Spain", "region": "Valencia", "name": "La Tomatina", "months": [8], "category": "event", "topic": "La Tomatina", "query": "La Tomatina tomato festival Bunol Valencia August" }
+  ]
+}

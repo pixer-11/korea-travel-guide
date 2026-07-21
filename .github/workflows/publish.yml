@@ -33,7 +33,7 @@ jobs:
           GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
-          POSTS_PER_RUN: ${{ github.event.inputs.count || '2' }}
+          POSTS_PER_RUN: ${{ github.event.inputs.count || '8' }}
           MIN_RATING: '4.0'
           MIN_REVIEWS: '50'
         run: npm run generate
