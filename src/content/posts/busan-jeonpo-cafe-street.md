@@ -5,10 +5,10 @@ region: "Busan"
 category: "trendy"
 pubDate: 2026-07-21
 heroImage:
-  url: "/images/placeholder-market.svg"
-  credit: "Placeholder image"
-  license: "placeholder"
-  source: "local"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/The_Blue_Hour_Busan_South_Korea_Cityscape_Photography_%28259983731%29.jpeg/1920px-The_Blue_Hour_Busan_South_Korea_Cityscape_Photography_%28259983731%29.jpeg"
+  credit: "Photo: Giuseppe Milo / Wikimedia Commons (CC BY 3.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:The_Blue_Hour_Busan_South_Korea_Cityscape_Photography_(259983731).jpeg"
 gallery: []
 place:
   id: "ChIJYeuKwGTraDUR-U5PAfT2Uoo"
