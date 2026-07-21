@@ -1,6 +1,5 @@
 ---
 import { getCollection } from 'astro:content';
-import { createHash } from 'node:crypto';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from './PostCard.astro';
 import Newsletter from './Newsletter.astro';
@@ -35,10 +34,9 @@ function shuffle(arr) {
   }
   return a;
 }
-// Use the pre-generated 640px WebP thumbnails (scripts/build-wall.mjs), not the
-// raw full-size hero URLs — the hero wall is the homepage LCP, so weight matters.
-const wallThumb = (url) => `/wall/${createHash('sha1').update(url).digest('hex').slice(0, 16)}.webp`;
-const wall = shuffle(wallData.images ?? []).slice(0, 12).map((url) => ({ url: wallThumb(url) }));
+// data/wall.json already stores the pre-generated 640px WebP thumbnail PATHS
+// (scripts/build-wall.mjs) — e.g. "/wall/<hash>.webp" — so use them directly.
+const wall = shuffle(wallData.images ?? []).slice(0, 12).map((url) => ({ url }));
 const wallRow1 = wall.slice(0, 6);
 const wallRow2 = wall.slice(6, 12);
 
