@@ -5,10 +5,10 @@ region: "Jeonju"
 category: "restaurant"
 pubDate: 2026-07-20
 heroImage:
-  url: "https://images.unsplash.com/photo-1525610553991-2bede1a236e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8bG9jYWwlMjByZXN0YXVyYW50fGVufDB8MHx8fDE3ODQ1NjQ0ODN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  credit: "Photo: Rod Long on Unsplash"
+  url: "https://images.unsplash.com/photo-1700580447235-454f48647952?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SmVvbmp1JTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NjA4MDA5fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
+  credit: "Photo by Mos Sukjaroenkraisri on Unsplash"
   license: "unsplash"
-  source: "https://unsplash.com/photos/group-of-people-eating-on-restaurant-I79Pgmhmy5M"
+  source: "https://unsplash.com/@mossuk?utm_source=korea_travel_guide&utm_medium=referral"
 gallery: []
 tags:
   - "jeonju"

@@ -7,12 +7,10 @@ region: Sokcho
 category: restaurant
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1660785462445-f9d21cad7ada?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8bG9jYWwlMjByZXN0YXVyYW50JTIwU29rY2hvJTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTkyMDA3fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Photos of Korea on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@photosofkorea?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://images.unsplash.com/photo-1703825864792-5880081beaaf?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U29rY2hvJTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NjA4MDIyfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
+  credit: "Photo by Elliot Gouy on Unsplash"
+  license: "unsplash"
+  source: "https://unsplash.com/@gouyelliot?utm_source=korea_travel_guide&utm_medium=referral"
 gallery: []
 tags:
   - sokcho

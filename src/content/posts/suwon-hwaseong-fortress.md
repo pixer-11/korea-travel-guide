@@ -7,10 +7,10 @@ region: Suwon
 category: attraction
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Hwaseong_Fortress%2C_Suwon%2C_Gyeonggi-do%2C_Republic_of_Korea_%282%29.jpg/1920px-Hwaseong_Fortress%2C_Suwon%2C_Gyeonggi-do%2C_Republic_of_Korea_%282%29.jpg"
-  credit: "Photo: Lance Vanlewen / Wikimedia Commons (CC BY-SA 4.0)"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Hwaseong_Fortress_01.jpg/1920px-Hwaseong_Fortress_01.jpg"
+  credit: "Photo: Bernard Gagnon / Wikimedia Commons (CC0)"
   license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Hwaseong_Fortress,_Suwon,_Gyeonggi-do,_Republic_of_Korea_(2).jpg"
+  source: "https://commons.wikimedia.org/wiki/File:Hwaseong_Fortress_01.jpg"
 gallery: []
 tags:
   - suwon

@@ -7,12 +7,10 @@ region: Daegu
 category: restaurant
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1641773861272-d2ce368924bc?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8bG9jYWwlMjByZXN0YXVyYW50JTIwRGFlZ3UlMjBTb3V0aCUyMEtvcmVhfGVufDB8MHx8fDE3ODQ1OTcyMzN8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Joyce Jiang on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@joycejiang?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://images.unsplash.com/photo-1663670889635-0aabebf112ba?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8RGFlZ3UlMjBTb3V0aCUyMEtvcmVhfGVufDB8MHx8fDE3ODQ2MDc5ODd8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
+  credit: "Photo by HFNY4 on Unsplash"
+  license: "unsplash"
+  source: "https://unsplash.com/@hfny4?utm_source=korea_travel_guide&utm_medium=referral"
 gallery: []
 tags:
   - daegu

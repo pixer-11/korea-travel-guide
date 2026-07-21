@@ -7,12 +7,10 @@ region: Suwon
 category: restaurant
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1733759943630-1a20fa0e267d?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8bG9jYWwlMjByZXN0YXVyYW50JTIwU3V3b24lMjBTb3V0aCUyMEtvcmVhfGVufDB8MHx8fDE3ODQ1OTIwMDl8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Bruna Santos on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@brunafisantos?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://images.unsplash.com/photo-1509327522225-6ce58f4795c7?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U3V3b24lMjBTb3V0aCUyMEtvcmVhfGVufDB8MHx8fDE3ODQ2MDgwMjd8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
+  credit: "Photo by Mathew Schwartz on Unsplash"
+  license: "unsplash"
+  source: "https://unsplash.com/@cadop?utm_source=korea_travel_guide&utm_medium=referral"
 gallery: []
 tags:
   - suwon

@@ -59,7 +59,9 @@
       "Bash(curl -s \"https://korea-travel-guide.pixer-vtm.workers.dev/posts/seoul-gyeongbokgung-palace\")",
       "Bash(curl -s \"https://korea-travel-guide.pixer-vtm.workers.dev/posts/seoul-gyeongbokgung-palace/\")",
       "Bash(git commit -q -m 'images: replace jeonpo placeholder with a real Busan photo \\(Commons\\) *)",
-      "Bash(git commit -q -m 'images: match topic-as-placename via Commons \\(dakgalbi, Abai, Seongsu, etc.\\) *)"
+      "Bash(git commit -q -m 'images: match topic-as-placename via Commons \\(dakgalbi, Abai, Seongsu, etc.\\) *)",
+      "Bash(git commit -q -m 'images: real Commons photos for Nami Island + Aewol *)",
+      "Bash(git commit -q -m 'images: beauty curation — drop drab subjects, keep Commons relevance, prefer quality *)"
     ]
   }
 }

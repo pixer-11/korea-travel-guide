@@ -7,12 +7,10 @@ region: Gangneung
 category: restaurant
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1701953282876-52b1f0c62456?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8bG9jYWwlMjByZXN0YXVyYW50JTIwR2FuZ25ldW5nJTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTk3MjM3fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Jesse Plum on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@jesseplum01?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://images.unsplash.com/photo-1684042229029-8a899193a8e4?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8R2FuZ25ldW5nJTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NjA3OTkzfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
+  credit: "Photo by yoo 89 on Unsplash"
+  license: "unsplash"
+  source: "https://unsplash.com/@yoosc89?utm_source=korea_travel_guide&utm_medium=referral"
 gallery: []
 tags:
   - gangneung

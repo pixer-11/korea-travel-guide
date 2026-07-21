@@ -7,12 +7,10 @@ region: Yeosu
 category: restaurant
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1739482409416-f9cba9a56073?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8bG9jYWwlMjByZXN0YXVyYW50JTIwWWVvc3UlMjBTb3V0aCUyMEtvcmVhfGVufDB8MHx8fDE3ODQ1OTIwMTJ8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Aditya Segan on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@adityasegan?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://images.unsplash.com/photo-1703825864792-5880081beaaf?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8WWVvc3UlMjBTb3V0aCUyMEtvcmVhfGVufDB8MHx8fDE3ODQ2MDgwMzF8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
+  credit: "Photo by Elliot Gouy on Unsplash"
+  license: "unsplash"
+  source: "https://unsplash.com/@gouyelliot?utm_source=korea_travel_guide&utm_medium=referral"
 gallery: []
 tags:
   - yeosu

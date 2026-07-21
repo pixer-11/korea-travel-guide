@@ -7,10 +7,10 @@ region: Jeonju
 category: hidden-gem
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Jeonju_Hanok_Village_20230408_014.jpg/1920px-Jeonju_Hanok_Village_20230408_014.jpg"
-  credit: "Photo: Mobius6 / Wikimedia Commons (CC BY-SA 4.0)"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Jeonju_Hanok_Maeul_02.jpg/1920px-Jeonju_Hanok_Maeul_02.jpg"
+  credit: "Photo: Bernard Gagnon / Wikimedia Commons (CC0)"
   license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Jeonju_Hanok_Village_20230408_014.jpg"
+  source: "https://commons.wikimedia.org/wiki/File:Jeonju_Hanok_Maeul_02.jpg"
 gallery: []
 tags:
   - jeonju

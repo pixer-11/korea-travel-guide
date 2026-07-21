@@ -7,12 +7,10 @@ region: Jeju
 category: restaurant
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1616798249081-30877e213b16?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8SmVqdSUyMFNvdXRoJTIwS29yZWF8ZW58MHwwfHx8MTc4NDU5NzI0NXww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by N Riazi on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@electriclime?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://images.unsplash.com/photo-1616798249081-30877e213b16?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8SmVqdSUyMFNvdXRoJTIwS29yZWF8ZW58MHwwfHx8MTc4NDYwODAwNHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
+  credit: "Photo by N Riazi on Unsplash"
+  license: "unsplash"
+  source: "https://unsplash.com/@electriclime?utm_source=korea_travel_guide&utm_medium=referral"
 gallery: []
 tags:
   - jeju

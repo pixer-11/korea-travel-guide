@@ -7,10 +7,10 @@ region: Busan
 category: attraction
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Busan_Haeundae_Police_Station.jpg/1920px-Busan_Haeundae_Police_Station.jpg"
-  credit: "Photo: hyolee2 / Wikimedia Commons (CC BY-SA 3.0)"
+  url: "https://upload.wikimedia.org/wikipedia/commons/4/45/Busan_Haeundae_Centum_City.jpg"
+  credit: "Photo: Busan Metropolitan City Municipality / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Busan_Haeundae_Police_Station.jpg"
+  source: "https://commons.wikimedia.org/wiki/File:Busan_Haeundae_Centum_City.jpg"
 gallery: []
 tags:
   - busan
