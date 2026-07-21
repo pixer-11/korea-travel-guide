@@ -21,10 +21,19 @@ ${ICON} status: ${JOB_STATUS:-unknown}
 📚 total posts: ${TOTAL}
 🕒 ${DATE}"
 
-curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+# Print the Telegram API response so failures are diagnosable. The response
+# never contains the bot token, so it's safe to show in the log.
+RESP=$(curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
   --data-urlencode "chat_id=${TELEGRAM_CHAT_ID}" \
   --data-urlencode "text=${TEXT}" \
-  -d "disable_web_page_preview=true" > /dev/null \
-  && echo "Telegram notification sent." || echo "Telegram send failed (non-fatal)."
+  -d "disable_web_page_preview=true")
+
+if echo "$RESP" | grep -q '"ok":true'; then
+  echo "✅ Telegram notification sent."
+else
+  echo "⚠️  Telegram send FAILED. API said: ${RESP}"
+  echo "    (Common causes: wrong TELEGRAM_BOT_TOKEN → 401 Unauthorized;"
+  echo "     wrong TELEGRAM_CHAT_ID or you never messaged the bot → 400/403.)"
+fi
 
 exit 0
