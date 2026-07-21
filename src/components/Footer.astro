@@ -1,20 +1,21 @@
 ---
+import Logo from './Logo.astro';
+import { SITE } from '../siteConfig';
 const year = new Date().getFullYear();
 ---
 
 <footer class="site-footer">
   <div class="wrap">
     <div>
-      <a href="/" class="brand"><span class="flag">🇰🇷</span> Korea Travel Guide</a>
+      <a href="/" class="brand"><Logo size={24} /> <span>{SITE.name}</span></a>
       <p>
-        Editor-reviewed, AI-assisted travel content for international visitors.
-        Facts sourced from live data; images are licensed or public domain.
+        Editor-reviewed, AI-assisted travel guides for destinations around the
+        world. Facts sourced from live data; images are licensed or public domain.
       </p>
-      <p style="margin-top:0.6rem">&copy; {year} Korea Travel Guide</p>
+      <p style="margin-top:0.6rem">&copy; {year} {SITE.name}</p>
     </div>
     <nav>
-      <a href="/essentials/visa">Visa</a>
-      <a href="/essentials/emergency">Emergency</a>
+      <a href="/destinations">Destinations</a>
       <a href="/about">Editorial policy</a>
       <a href="/contact">Contact</a>
       <a href="/privacy">Privacy</a>

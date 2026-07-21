@@ -5,6 +5,7 @@ import '@fontsource-variable/inter'; // body sans
 import '../styles/global.css';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import { SITE } from '../siteConfig';
 
 interface Props {
   title: string;
@@ -17,7 +18,7 @@ interface Props {
 const { title, description, image, article = false, jsonLd } = Astro.props;
 const canonical = new URL(Astro.url.pathname, Astro.site);
 const ogImage = image ? new URL(image, Astro.site) : undefined;
-const siteName = 'Korea Travel Guide';
+const siteName = SITE.name;
 const siteUrl = Astro.site?.toString().replace(/\/$/, '') ?? '';
 
 // Sitewide entity graph — establishes the brand as a recognized entity,
@@ -30,7 +31,7 @@ const orgLd = {
       '@id': `${siteUrl}/#org`,
       name: siteName,
       url: siteUrl,
-      description: 'Editor-reviewed, AI-assisted travel guides for visitors to Korea.',
+      description: 'Editor-reviewed, AI-assisted travel guides for destinations around the world.',
     },
     {
       '@type': 'WebSite',
@@ -49,6 +50,7 @@ const orgLd = {
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
     <title>{title.includes(siteName) ? title : `${title} · ${siteName}`}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />

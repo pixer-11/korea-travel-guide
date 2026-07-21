@@ -1,0 +1,76 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { SITE } from '../../siteConfig';
+import countriesData from '../../../data/countries.json';
+
+const posts = await getCollection('posts', ({ data }) => !data.draft);
+const countFor = (name) => posts.filter((p) => (p.data.country ?? 'South Korea') === name).length;
+
+const countries = countriesData.countries.map((c) => ({ ...c, count: countFor(c.name) }));
+const live = countries.filter((c) => c.active);
+const soon = countries.filter((c) => !c.active);
+
+const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
+const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'CollectionPage', name: 'Destinations', description: 'Browse detailed travel guides by country.', url: pageUrl, isPartOf: { '@id': `${site}/#site` } },
+    { '@type': 'BreadcrumbList', itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: site + '/' },
+      { '@type': 'ListItem', position: 2, name: 'Destinations', item: pageUrl },
+    ] },
+  ],
+};
+---
+
+<BaseLayout
+  title="Destinations — Travel Guides by Country"
+  description={`Explore ${SITE.name}'s detailed, editor-reviewed travel guides country by country. Live now: South Korea, with more destinations on the way.`}
+  jsonLd={jsonLd}
+>
+  <section class="page-hero">
+    <div class="wrap">
+      <p class="eyebrow">Destinations</p>
+      <h1>Explore the world, one guide at a time</h1>
+      <p>We go deep on one country at a time — real places, honest advice, and the practical details that actually matter.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <div class="section-head"><h2>Live now</h2></div>
+      <div class="country-grid">
+        {live.map((c) => (
+          <a class="country-card is-live" href={`/destinations/${c.slug}`}>
+            <span class="country-flag">{c.flag}</span>
+            <div class="country-body">
+              <h3>{c.name}</h3>
+              <p>{c.blurb}</p>
+              <span class="country-meta">{c.count} guides →</span>
+            </div>
+          </a>
+        ))}
+      </div>
+
+      {soon.length > 0 && (
+        <>
+          <div class="section-head" style="margin-top:3rem"><h2>Coming soon</h2></div>
+          <div class="country-grid">
+            {soon.map((c) => (
+              <div class="country-card is-soon">
+                <span class="country-flag">{c.flag}</span>
+                <div class="country-body">
+                  <h3>{c.name}</h3>
+                  <p>{c.blurb}</p>
+                  <span class="country-meta">In the works</span>
+                </div>
+              </div>
+            ))}
+          </div>
+        </>
+      )}
+    </div>
+  </section>
+</BaseLayout>

@@ -1,10 +1,11 @@
 ---
-const regions = ['Seoul', 'Busan', 'Jeju', 'Gyeongju', 'Incheon'];
+import Logo from './Logo.astro';
+import { SITE } from '../siteConfig';
 ---
 
 <header class="site-header">
   <div class="wrap">
-    <a href="/" class="brand"><span class="flag">🇰🇷</span> Korea Travel Guide</a>
+    <a href="/" class="brand"><Logo size={26} /> <span>{SITE.name}</span></a>
 
     <input type="checkbox" id="nav-toggle" hidden />
     <label for="nav-toggle" class="menu-toggle" aria-label="Menu">
@@ -14,8 +15,8 @@ const regions = ['Seoul', 'Busan', 'Jeju', 'Gyeongju', 'Incheon'];
     </label>
 
     <nav class="nav">
-      {regions.map((r) => <a href={`/regions/${r.toLowerCase()}`}>{r}</a>)}
-      <a href="/regions">More ▾</a>
+      <a href="/destinations">Destinations</a>
+      <a href="/destinations/south-korea">South Korea</a>
       <span class="sep"></span>
       <a href="/essentials/visa" class="nav-essential">Visa</a>
       <a href="/essentials/emergency" class="nav-essential">Emergency</a>

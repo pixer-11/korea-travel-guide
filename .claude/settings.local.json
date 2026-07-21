@@ -83,7 +83,9 @@
       "Bash(git commit -q -m 'content: romanize two Korean-named lighthouse posts + guard against future ones *)",
       "Bash(node --check scripts/generate.mjs)",
       "Bash(node --check scripts/lib/images.mjs)",
-      "Bash(node --check scripts/lib/writer.mjs)"
+      "Bash(node --check scripts/lib/writer.mjs)",
+      "WebFetch(domain:www.atlasobscura.com)",
+      "Bash(git commit -q -m 'brand: launch '\\\\''Wander Atlas'\\\\'' — logo, favicon, global chrome + /destinations hubs *)"
     ]
   }
 }
