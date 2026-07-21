@@ -7,12 +7,10 @@ region: Gyeongju
 category: attraction
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1669764372822-3cb8476d4f47?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8RG9uZ2d1bmclMjBhbmQlMjBXb2xqaSUyMEd5ZW9uZ2p1JTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTk3MjM4fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by john ko on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@jko001?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Water_reflection_of_Donggung_Palace_in_Wolji_Pond_at_blue_hour_in_Gyeongju_South_Korea.jpg/1920px-Water_reflection_of_Donggung_Palace_in_Wolji_Pond_at_blue_hour_in_Gyeongju_South_Korea.jpg"
+  credit: "Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Water_reflection_of_Donggung_Palace_in_Wolji_Pond_at_blue_hour_in_Gyeongju_South_Korea.jpg"
 gallery: []
 tags:
   - gyeongju

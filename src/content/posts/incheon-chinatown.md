@@ -7,12 +7,10 @@ region: Incheon
 category: hidden-gem
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1695826073269-03884f10d048?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8Q2hpbmF0b3duJTIwSW5jaGVvbiUyMFNvdXRoJTIwS29yZWF8ZW58MHwwfHx8MTc4NDU5NzI0MXww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Fukuro 0wl on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@fukur0wl?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Incheon_Chinatown_South_Korea_2013_02.jpg/1920px-Incheon_Chinatown_South_Korea_2013_02.jpg"
+  credit: "Photo: Mar del Este This photo was taken with Samsung Galaxy S4 / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Incheon_Chinatown_South_Korea_2013_02.jpg"
 gallery: []
 tags:
   - incheon

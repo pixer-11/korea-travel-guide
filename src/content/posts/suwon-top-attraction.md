@@ -7,12 +7,10 @@ region: Suwon
 category: attraction
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1685761341534-b155d516eb80?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8dG9wJTIwYXR0cmFjdGlvbiUyMFN1d29uJTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTkyMDEwfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Oat Appleseed on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@oroooat?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://images.unsplash.com/photo-1673201069831-b54f304484e2?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U3V3b24lMjBTb3V0aCUyMEtvcmVhJTIwdG9wJTIwYXR0cmFjdGlvbnxlbnwwfDB8fHwxNzg0NjAzODI5fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
+  credit: "Photo by Ratapan Anantawat on Unsplash"
+  license: "unsplash"
+  source: "https://unsplash.com/@rtp_atw?utm_source=korea_travel_guide&utm_medium=referral"
 gallery: []
 tags:
   - suwon

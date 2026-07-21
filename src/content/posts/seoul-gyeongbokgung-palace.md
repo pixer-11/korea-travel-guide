@@ -5,10 +5,10 @@ region: "Seoul"
 category: "attraction"
 pubDate: 2026-07-21
 heroImage:
-  url: "https://images.unsplash.com/photo-1591828353335-197466da2a4e?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Nnx8cGFsYWNlc3xlbnwwfDB8fHwxNzg0NjAyNTc3fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Mathias Reding on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@matreding?utm_source=korea_travel_guide&utm_medium=referral"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Gyeonghoeru_%28Royal_Banquet_Hall%29_at_Gyeongbokgung_Palace%2C_Seoul.jpg/1920px-Gyeonghoeru_%28Royal_Banquet_Hall%29_at_Gyeongbokgung_Palace%2C_Seoul.jpg"
+  credit: "Photo: Frank Schulenburg / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Gyeonghoeru_(Royal_Banquet_Hall)_at_Gyeongbokgung_Palace,_Seoul.jpg"
 gallery: []
 place:
   id: "ChIJod7tSseifDUR9hXHLFNGMIs"

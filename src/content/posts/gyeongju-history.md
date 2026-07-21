@@ -7,12 +7,10 @@ region: Gyeongju
 category: attraction
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1653632445006-0ed9bbe32672?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8aGlzdG9yeSUyMEd5ZW9uZ2p1JTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTk3MjM5fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by insung yoon on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@insungpandora?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://upload.wikimedia.org/wikipedia/commons/6/6f/Korea-Gyeongju-Silla_Art_and_Science_Museum-Entrance-01.jpg"
+  credit: "Photo: by Junho Jung at Flickr from South Korea / Wikimedia Commons (CC BY 3.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Korea-Gyeongju-Silla_Art_and_Science_Museum-Entrance-01.jpg"
 gallery: []
 tags:
   - gyeongju

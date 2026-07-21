@@ -150,7 +150,7 @@ async function savePublished(done) {
 // ── LIVE path ────────────────────────────────────────────────
 async function buildLivePost(target) {
   const { searchPlaces } = await import('./lib/places.mjs');
-  const { pickImage, pickGallery } = await import('./lib/images.mjs');
+  const { resolveHero, pickGallery } = await import('./lib/images.mjs');
   const { writeArticle } = await import('./lib/writer.mjs');
 
   const results = await searchPlaces(target.query, { max: 5 });
@@ -160,7 +160,12 @@ async function buildLivePost(target) {
     return null;
   }
 
-  const hero = await pickImage(place, target.topic);
+  const hero = await resolveHero({
+    namedVenue: place.name,
+    region: target.region,
+    topic: target.topic,
+    place,
+  });
   const heroImage = isImageAllowed(hero) ? hero : null;
   const gallery = (await pickGallery(place, 3)).filter(isImageAllowed);
 
@@ -187,7 +192,7 @@ async function buildLivePost(target) {
 // fact box. Facts are intentionally general — the writer is told NOT to invent
 // venue-specific details it can't verify.
 async function buildPlacelessPost(target) {
-  const { pickImage } = await import('./lib/images.mjs');
+  const { resolveHero } = await import('./lib/images.mjs');
   const { writeArticle } = await import('./lib/writer.mjs');
 
   const title = makePlacelessTitle(target);
@@ -204,9 +209,12 @@ async function buildPlacelessPost(target) {
     title, region: target.region, category: target.category, facts,
   });
 
-  // Region + Korea in the image query avoids wrong-country stock photos.
-  const imageQuery = `${target.topic} ${target.region} South Korea`;
-  const hero = await pickImage(null, imageQuery);
+  // Accurate-first: Wikimedia by topic+region, else Korea-scoped Unsplash.
+  const hero = await resolveHero({
+    namedVenue: null,
+    region: target.region,
+    topic: target.topic,
+  });
   const heroImage = isImageAllowed(hero) ? hero : null;
 
   return assemble(target, null, title, heroImage, [], { body, quickAnswer, faq });

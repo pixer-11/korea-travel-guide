@@ -7,12 +7,10 @@ region: Incheon
 category: attraction
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1446733993804-c62a351c7239?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8dG9wJTIwYXR0cmFjdGlvbiUyMEluY2hlb24lMjBTb3V0aCUyMEtvcmVhfGVufDB8MHx8fDE3ODQ1OTcyNDN8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Hon Kim on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@honej?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://images.unsplash.com/photo-1650370619926-7158b8d33af0?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SW5jaGVvbiUyMFNvdXRoJTIwS29yZWElMjB0b3AlMjBhdHRyYWN0aW9ufGVufDB8MHx8fDE3ODQ2MDM3OTZ8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
+  credit: "Photo by Daesun Kim on Unsplash"
+  license: "unsplash"
+  source: "https://unsplash.com/@lifeandyouth?utm_source=korea_travel_guide&utm_medium=referral"
 gallery: []
 tags:
   - incheon

@@ -7,12 +7,10 @@ region: Jeju
 category: attraction
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1583833008338-31a6657917ab?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8bmF0dXJlJTIwSmVqdSUyMFNvdXRoJTIwS29yZWF8ZW58MHwwfHx8MTc4NDU5NzI0Nnww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Louie Nicolo Nimor on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@nicolonimor?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Sarabong-gil%2C_Jeju-si%2C_Jeju-do%2C_South_Korea_-_panoramio.jpg/1920px-Sarabong-gil%2C_Jeju-si%2C_Jeju-do%2C_South_Korea_-_panoramio.jpg"
+  credit: "Photo: song songroov / Wikimedia Commons (CC BY 3.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Sarabong-gil,_Jeju-si,_Jeju-do,_South_Korea_-_panoramio.jpg"
 gallery: []
 tags:
   - jeju

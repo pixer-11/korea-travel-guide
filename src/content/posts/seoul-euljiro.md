@@ -7,12 +7,10 @@ region: Seoul
 category: hidden-gem
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1683132603709-adbd52d7590d?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8RXVsamlybyUyMFNlb3VsJTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTkyMDAzfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by INHYEOK PARK on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@travelershigh?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/South_Korea%2C_Seoul%2C_Jongno-gu%2C_Euljiro-dong%2C_%EB%A7%88%EC%A0%84%EA%B5%90_-_panoramio.jpg/1920px-South_Korea%2C_Seoul%2C_Jongno-gu%2C_Euljiro-dong%2C_%EB%A7%88%EC%A0%84%EA%B5%90_-_panoramio.jpg"
+  credit: "Photo: 米田賢一 / Wikimedia Commons (CC BY 3.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:South_Korea,_Seoul,_Jongno-gu,_Euljiro-dong,_%EB%A7%88%EC%A0%84%EA%B5%90_-_panoramio.jpg"
 gallery: []
 tags:
   - seoul

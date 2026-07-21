@@ -7,12 +7,10 @@ region: Suncheon
 category: attraction
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1697983586877-1ae4e3656f6b?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U3VuY2hlb24lMjBCYXklMjBTdW5jaGVvbiUyMFNvdXRoJTIwS29yZWF8ZW58MHwwfHx8MTc4NDU5MjAwOHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by rawkkim on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@rawkkim?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/20181231_Suncheon_Bay_004.jpg/1920px-20181231_Suncheon_Bay_004.jpg"
+  credit: "Photo: Jjw / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:20181231_Suncheon_Bay_004.jpg"
 gallery: []
 tags:
   - suncheon

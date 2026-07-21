@@ -7,12 +7,10 @@ region: Yeosu
 category: attraction
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1591520284162-8e64eceebacf?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8dG9wJTIwYXR0cmFjdGlvbiUyMFllb3N1JTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTkyMDEyfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Thomas Roger Lux on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@thomasrogerlux?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://images.unsplash.com/photo-1739482409416-f9cba9a56073?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8WWVvc3UlMjBTb3V0aCUyMEtvcmVhJTIwdG9wJTIwYXR0cmFjdGlvbnxlbnwwfDB8fHwxNzg0NjAzODMzfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
+  credit: "Photo by Aditya Segan on Unsplash"
+  license: "unsplash"
+  source: "https://unsplash.com/@adityasegan?utm_source=korea_travel_guide&utm_medium=referral"
 gallery: []
 tags:
   - yeosu

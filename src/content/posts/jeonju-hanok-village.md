@@ -7,12 +7,10 @@ region: Jeonju
 category: hidden-gem
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1653230674619-2c92936be020?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8aGFub2slMjB2aWxsYWdlJTIwSmVvbmp1JTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTkxODkxfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Minku Kang on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@minkus?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Jeonju_Hanok_Village_South_Korea_02.jpg/1920px-Jeonju_Hanok_Village_South_Korea_02.jpg"
+  credit: "Photo: Hankook12 / Wikimedia Commons (CC0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Jeonju_Hanok_Village_South_Korea_02.jpg"
 gallery: []
 tags:
   - jeonju

@@ -7,12 +7,10 @@ region: Andong
 category: attraction
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1525546137051-73a7b7ba139c?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SGFob2UlMjBGb2xrJTIwVmlsbGFnZSUyMEFuZG9uZyUyMFNvdXRoJTIwS29yZWF8ZW58MHwwfHx8MTc4NDU5MzMxN3ww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Mathew Schwartz on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@cadop?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Korea-Andong_Hahoe_Folk_Village_cropped.jpg"
+  credit: "Photo: by david alina at Flickr / Wikimedia Commons (CC BY-SA 2.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Korea-Andong_Hahoe_Folk_Village_cropped.jpg"
 gallery: []
 tags:
   - andong

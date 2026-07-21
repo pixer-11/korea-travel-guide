@@ -7,12 +7,10 @@ region: Incheon
 category: restaurant
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1764212964673-249757581fb7?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8M3x8bG9jYWwlMjByZXN0YXVyYW50JTIwSW5jaGVvbiUyMFNvdXRoJTIwS29yZWF8ZW58MHwwfHx8MTc4NDU5NzI0Mnww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by rawkkim on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@rawkkim?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://images.unsplash.com/photo-1641773861272-d2ce368924bc?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SW5jaGVvbiUyMFNvdXRoJTIwS29yZWElMjBsb2NhbCUyMHJlc3RhdXJhbnR8ZW58MHwwfHx8MTc4NDYwMzc5NXww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
+  credit: "Photo by Joyce Jiang on Unsplash"
+  license: "unsplash"
+  source: "https://unsplash.com/@joycejiang?utm_source=korea_travel_guide&utm_medium=referral"
 gallery: []
 tags:
   - incheon

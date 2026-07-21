@@ -7,12 +7,10 @@ region: Seoul
 category: restaurant
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1546874177-9e664107314e?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U2VvdWwlMjBTb3V0aCUyMEtvcmVhfGVufDB8MHx8fDE3ODQ1OTIwMDR8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Yohan Cho on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@yohoney?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://images.unsplash.com/photo-1515250331755-a666fc377a49?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U2VvdWwlMjBTb3V0aCUyMEtvcmVhJTIwSWtzZW9uLWRvbmd8ZW58MHwwfHx8MTc4NDYwMzgxNXww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
+  credit: "Photo by Sujin Lee on Unsplash"
+  license: "unsplash"
+  source: "https://unsplash.com/@sujin_lee?utm_source=korea_travel_guide&utm_medium=referral"
 gallery: []
 tags:
   - seoul

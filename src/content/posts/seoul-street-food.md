@@ -7,12 +7,10 @@ region: Seoul
 category: hidden-gem
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1608120073766-c80051eccbf6?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8c3RyZWV0JTIwZm9vZCUyMFNlb3VsJTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTkyMDA1fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Ronald Langeveld on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@ronaldlangeveld?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Octopus_as_food_at_Noryangjin_Fisheries_Wholesale_Market_in_Seoul_South_Korea.jpg/1920px-Octopus_as_food_at_Noryangjin_Fisheries_Wholesale_Market_in_Seoul_South_Korea.jpg"
+  credit: "Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Octopus_as_food_at_Noryangjin_Fisheries_Wholesale_Market_in_Seoul_South_Korea.jpg"
 gallery: []
 tags:
   - seoul

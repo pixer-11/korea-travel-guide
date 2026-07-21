@@ -7,12 +7,10 @@ region: Busan
 category: restaurant
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1688598895556-7131cc20db55?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8c2VhZm9vZCUyMEJ1c2FuJTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTk3MjMwfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Frank Zhang on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@frankzphoto?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Korea-Busan-Hoe-Raw_seafood-01.jpg"
+  credit: "Photo: by Junho Jung at Flickr from South Korea / Wikimedia Commons (CC BY-SA 3.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Korea-Busan-Hoe-Raw_seafood-01.jpg"
 gallery: []
 tags:
   - busan

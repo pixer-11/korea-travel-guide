@@ -7,12 +7,10 @@ region: Jinju
 category: event
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1542977466-bbacf83cb0b4?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8bGFudGVybiUyMGZlc3RpdmFsJTIwSmluanUlMjBTb3V0aCUyMEtvcmVhfGVufDB8MHx8fDE3ODQ1OTIwMDF8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Valery Rabchenyuk on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@v2306?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Jinju_namgang_lantern_festival.jpg/1920px-Jinju_namgang_lantern_festival.jpg"
+  credit: "Photo: Asfreeas at Korean Wikipedia This photo was taken with Nikon D80 / Wikimedia Commons (CC BY 3.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Jinju_namgang_lantern_festival.jpg"
 gallery: []
 tags:
   - jinju

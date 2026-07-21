@@ -5,10 +5,10 @@ region: "Seoul"
 category: "hidden-gem"
 pubDate: 2026-07-20
 heroImage:
-  url: "/images/placeholder-market.svg"
-  credit: "Sample placeholder image"
-  license: "placeholder"
-  source: "local"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Gwangjang_Market%2C_Seoul_02.jpg/1920px-Gwangjang_Market%2C_Seoul_02.jpg"
+  credit: "Photo: Bgag / Wikimedia Commons (CC0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Gwangjang_Market,_Seoul_02.jpg"
 place:
   name: "Gwangjang Market"
   address: "88 Changgyeonggung-ro, Jongno-gu, Seoul"

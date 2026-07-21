@@ -7,12 +7,10 @@ region: Suwon
 category: attraction
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1674999603094-adf8172fda45?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SHdhc2VvbmclMjBGb3J0cmVzcyUyMFN1d29uJTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTkyMDA5fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Jean-Pierre Tran on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@jeanpierretran?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Wall_of_Hwaseong_Fortress_in_Suwon%2C_South_Korea.jpg/1920px-Wall_of_Hwaseong_Fortress_in_Suwon%2C_South_Korea.jpg"
+  credit: "Photo: VN.NguyenDucDuy / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Wall_of_Hwaseong_Fortress_in_Suwon,_South_Korea.jpg"
 gallery: []
 tags:
   - suwon

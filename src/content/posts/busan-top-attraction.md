@@ -7,12 +7,10 @@ region: Busan
 category: attraction
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1719176373099-ef363272af49?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8dG9wJTIwYXR0cmFjdGlvbiUyMEJ1c2FuJTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTk3MjMxfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Falco Negenman on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@f9lco?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://images.unsplash.com/photo-1724618194655-c3c12254d61c?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8QnVzYW4lMjBTb3V0aCUyMEtvcmVhJTIwdG9wJTIwYXR0cmFjdGlvbnxlbnwwfDB8fHwxNzg0NjAzNzc0fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
+  credit: "Photo by Andrea De Santis on Unsplash"
+  license: "unsplash"
+  source: "https://unsplash.com/@santesson89?utm_source=korea_travel_guide&utm_medium=referral"
 gallery: []
 tags:
   - busan

@@ -42,7 +42,19 @@
       "Bash(curl -s -w '\\\\nHTTP %{http_code}\\\\n' -X POST https://places.googleapis.com/v1/places:searchText -H 'Content-Type: application/json' -H 'X-Goog-Api-Key: AIzaSyC4GZ5e1OT60BWNJ0bTReSM7xOZwRZ2VXs' -H 'X-Goog-FieldMask: places.displayName,places.rating,places.formattedAddress' -d '{\"textQuery\":\"Gwangjang Market Seoul\",\"languageCode\":\"en\",\"maxResultCount\":2}')",
       "Bash(curl -s -w '\\\\nHTTP %{http_code}\\\\n' -X POST https://places.googleapis.com/v1/places:searchText -H 'Content-Type: application/json' -H 'X-Goog-Api-Key: AIzaSyC4GZ5e1OT60BWNJ0bTReSM7xOZwRZ2VXs' -H 'X-Goog-FieldMask: places.displayName' -d '{\"textQuery\":\"Seoul Tower\",\"maxResultCount\":1}')",
       "Bash(git push *)",
-      "WebFetch(domain:korea-travel-guide.pixer-vtm.workers.dev)"
+      "WebFetch(domain:korea-travel-guide.pixer-vtm.workers.dev)",
+      "WebFetch(domain:api.github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(git checkout *)",
+      "Bash(git fetch *)",
+      "Bash(git pull *)",
+      "Bash(git commit -m 'publish: add manual '\\\\''count'\\\\'' input for bulk generation runs *)",
+      "Bash(node -e ' *)",
+      "Bash(DRY=1 node scripts/repair-images.mjs)",
+      "Bash(node scripts/repair-images.mjs)",
+      "Bash(curl -sL -A \"KoreaTravelGuide/1.0\" \"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Gyeonghoeru_%28Royal_Banquet_Hall%29_at_Gyeongbokgung_Palace%2C_Seoul.jpg/1024px-Gyeonghoeru_%28Royal_Banquet_Hall%29_at_Gyeongbokgung_Palace%2C_Seoul.jpg\" -o gbg.jpg)",
+      "Bash(curl -sL -A \"Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36\" \"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Gyeonghoeru_%28Royal_Banquet_Hall%29_at_Gyeongbokgung_Palace%2C_Seoul.jpg/1024px-Gyeonghoeru_%28Royal_Banquet_Hall%29_at_Gyeongbokgung_Palace%2C_Seoul.jpg\" -o gbg2.jpg)",
+      "Bash(curl -s -o gbg3.jpg -w \"HTTP %{http_code}  type=%{content_type}  size=%{size_download}\\\\n\" -A \"Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36 \\(KHTML, like Gecko\\) Chrome/120 Safari/537.36\" -e \"https://korea-travel-guide.pixer-vtm.workers.dev/\" \"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Gyeonghoeru_%28Royal_Banquet_Hall%29_at_Gyeongbokgung_Palace%2C_Seoul.jpg/1920px-Gyeonghoeru_%28Royal_Banquet_Hall%29_at_Gyeongbokgung_Palace%2C_Seoul.jpg\")"
     ]
   }
 }

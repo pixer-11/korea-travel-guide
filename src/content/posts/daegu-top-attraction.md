@@ -7,12 +7,10 @@ region: Daegu
 category: attraction
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1609455677069-6830c8f2ee52?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8dG9wJTIwYXR0cmFjdGlvbiUyMERhZWd1JTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTk3MjM0fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Danielle Austria on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@daniaustria?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://images.unsplash.com/photo-1583833008338-31a6657917ab?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8RGFlZ3UlMjBTb3V0aCUyMEtvcmVhJTIwdG9wJTIwYXR0cmFjdGlvbnxlbnwwfDB8fHwxNzg0NjAzNzc5fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
+  credit: "Photo by Louie Nicolo Nimor on Unsplash"
+  license: "unsplash"
+  source: "https://unsplash.com/@nicolonimor?utm_source=korea_travel_guide&utm_medium=referral"
 gallery: []
 tags:
   - daegu

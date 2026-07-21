@@ -7,12 +7,10 @@ region: Damyang
 category: attraction
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1747748027743-ba5453b7d2a7?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8RGFteWFuZyUyMFNvdXRoJTIwS29yZWF8ZW58MHwwfHx8MTc4NDU5NzIzNnww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Sung Jin Cho on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@mbuff?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bamboo_forest_in_Damyang_South_Korea_2015-05-06%286%29.jpg/1920px-Bamboo_forest_in_Damyang_South_Korea_2015-05-06%286%29.jpg"
+  credit: "Photo: Mar del Este / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Bamboo_forest_in_Damyang_South_Korea_2015-05-06(6).jpg"
 gallery: []
 tags:
   - damyang

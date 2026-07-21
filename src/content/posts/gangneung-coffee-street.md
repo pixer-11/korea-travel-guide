@@ -7,12 +7,10 @@ region: Gangneung
 category: trendy
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1662533513021-f13cf8c7fd51?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8Y29mZmVlJTIwc3RyZWV0JTIwR2FuZ25ldW5nJTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NTk3MjM2fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Photos of Korea on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@photosofkorea?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Changhae-ro_14beon-gil%2C_Gangneung-si%2C_Gangwon-do%2C_South_Korea_-_panoramio_%281%29.jpg/1920px-Changhae-ro_14beon-gil%2C_Gangneung-si%2C_Gangwon-do%2C_South_Korea_-_panoramio_%281%29.jpg"
+  credit: "Photo: 최광모 / Wikimedia Commons (CC BY 3.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Changhae-ro_14beon-gil,_Gangneung-si,_Gangwon-do,_South_Korea_-_panoramio_(1).jpg"
 gallery: []
 tags:
   - gangneung

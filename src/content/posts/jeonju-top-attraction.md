@@ -7,12 +7,10 @@ region: Jeonju
 category: attraction
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1700580447235-454f48647952?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8dG9wJTIwYXR0cmFjdGlvbiUyMEplb25qdSUyMFNvdXRoJTIwS29yZWF8ZW58MHwwfHx8MTc4NDU5MjAwMHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Mos Sukjaroenkraisri on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@mossuk?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://images.unsplash.com/photo-1685761341534-b155d516eb80?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SmVvbmp1JTIwU291dGglMjBLb3JlYSUyMHRvcCUyMGF0dHJhY3Rpb258ZW58MHwwfHx8MTc4NDYwMzgwNnww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
+  credit: "Photo by Oat Appleseed on Unsplash"
+  license: "unsplash"
+  source: "https://unsplash.com/@oroooat?utm_source=korea_travel_guide&utm_medium=referral"
 gallery: []
 tags:
   - jeonju

@@ -4,6 +4,7 @@
 //   3. Our own placeholder SVG (always safe)
 // Every returned image carries a license tag that guardrails will re-check.
 import { getPlacePhoto } from './places.mjs';
+import { commonsBest, keyToken } from './commons.mjs';
 
 const UNSPLASH_KEY = process.env.UNSPLASH_ACCESS_KEY;
 
@@ -47,6 +48,65 @@ export async function pickGallery(place, n = 3) {
     } catch { /* skip */ }
   }
   return out;
+}
+
+// ── Accurate-first hero resolver ─────────────────────────────
+// Priority is ACCURACY, not just "a nice photo":
+//   1. Wikimedia Commons by the real venue name  → actual photo of THIS place
+//   2. Google Places photo of the venue          → actual photo (may be short-lived)
+//   3. Wikimedia Commons by topic + region       → right place & country
+//   4. Unsplash, strictly constrained to region + "South Korea", BEST (not random)
+//   5. Placeholder
+// `used` is an optional Set of URLs already taken by other posts (de-dupe).
+export async function resolveHero({ namedVenue, region, topic, place, used, allowUnsplash = true } = {}) {
+  const reg = region || '';
+
+  if (namedVenue) {
+    const anchor = keyToken(namedVenue);
+    const byName =
+      (await commonsBest(`${namedVenue} ${reg}`, { mustInclude: [anchor], used })) ||
+      (await commonsBest(namedVenue, { mustInclude: [anchor], used }));
+    if (byName) return mark(byName, used);
+
+    if (place?.photos?.length) {
+      try {
+        const img = await getPlacePhoto(place.photos[0]);
+        if (img?.url && (!used || !used.has(img.url))) return mark(img, used);
+      } catch { /* fall through */ }
+    }
+  }
+
+  const topicQ = [topic, reg, 'South Korea'].filter(Boolean).join(' ');
+  const byTopic = await commonsBest(topicQ, { mustInclude: [reg].filter(Boolean), used });
+  if (byTopic) return mark(byTopic, used);
+
+  if (allowUnsplash) {
+    // Specific → region-level → country-level. Over-specific queries often
+    // return nothing; broadening guarantees a Korea-accurate photo, never a
+    // wrong-country one, and never a blank placeholder.
+    const u =
+      (await unsplashStrict([reg, 'South Korea', topic].filter(Boolean).join(' '), used)) ||
+      (await unsplashStrict([reg, 'South Korea'].filter(Boolean).join(' '), used)) ||
+      (await unsplashStrict('South Korea travel landscape', used));
+    if (u) return mark(u, used);
+  }
+
+  return PLACEHOLDER;
+}
+
+function mark(img, used) {
+  if (used && img?.url) used.add(img.url);
+  return img;
+}
+
+// Unsplash, deterministic BEST match (top of the ranked candidates), Korea-scoped.
+// Never random — random top-10 picks are what produced wrong-country photos.
+async function unsplashStrict(query, used) {
+  const cands = await unsplashCandidates(query, 12);
+  const pick = cands.find((c) => !used || !used.has(c.url)) || cands[0];
+  if (!pick) return null;
+  trackUnsplashDownload(pick.downloadLocation);
+  return { url: pick.url, credit: pick.credit, license: pick.license, source: pick.source };
 }
 
 const UTM = 'utm_source=korea_travel_guide&utm_medium=referral';

@@ -7,12 +7,10 @@ region: Boryeong
 category: event
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1703825864792-5880081beaaf?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8Qm9yeWVvbmclMjBTb3V0aCUyMEtvcmVhfGVufDB8MHx8fDE3ODQ1OTMzMTh8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Elliot Gouy on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@gouyelliot?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Boryeong_Mud_Festival%2C_South_Korea_%288376806779%29.jpg/1920px-Boryeong_Mud_Festival%2C_South_Korea_%288376806779%29.jpg"
+  credit: "Photo: Jirka Matousek from Brussels Taipei Hong Kong Singapore Prague Shenzhen / Wikimedia Commons (CC BY 2.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Boryeong_Mud_Festival,_South_Korea_(8376806779).jpg"
 gallery: []
 tags:
   - boryeong

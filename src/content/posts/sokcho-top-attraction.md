@@ -7,12 +7,10 @@ region: Sokcho
 category: attraction
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1660785462445-f9d21cad7ada?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8dG9wJTIwYXR0cmFjdGlvbiUyMFNva2NobyUyMFNvdXRoJTIwS29yZWF8ZW58MHwwfHx8MTc4NDU5MjAwN3ww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Photos of Korea on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@photosofkorea?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://images.unsplash.com/photo-1721999591032-a8b3845c9564?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U29rY2hvJTIwU291dGglMjBLb3JlYSUyMHRvcCUyMGF0dHJhY3Rpb258ZW58MHwwfHx8MTc4NDYwMzgyNHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
+  credit: "Photo by Michael Ahn on Unsplash"
+  license: "unsplash"
+  source: "https://unsplash.com/@alohaboston?utm_source=korea_travel_guide&utm_medium=referral"
 gallery: []
 tags:
   - sokcho

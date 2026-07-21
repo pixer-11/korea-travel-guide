@@ -46,6 +46,7 @@ export function checkPlace(place) {
 const ALLOWED_IMAGE_LICENSES = new Set([
   'google-places', // used under Google Places API terms, with attribution
   'unsplash', // Unsplash License
+  'wikimedia', // Wikimedia Commons (CC BY / BY-SA / public domain), attributed
   'kto-open', // Korea Tourism Org public/open data
   'placeholder', // our own generated placeholder
 ]);
