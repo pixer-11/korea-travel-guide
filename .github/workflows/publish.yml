@@ -47,5 +47,8 @@ jobs:
             echo "No new posts this run."
           else
             git commit -m "content: auto-generated posts ($(date -u +%Y-%m-%d))"
+            # Rebase on any commits pushed while this run was working, so a
+            # concurrent push can't reject ours with a non-fast-forward.
+            git pull --rebase origin main
             git push
           fi

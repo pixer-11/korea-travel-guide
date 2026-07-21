@@ -35,5 +35,6 @@ jobs:
             echo "Nothing to refresh."
           else
             git commit -m "content: refresh venue data ($(date -u +%Y-%m-%d))"
+            git pull --rebase origin main
             git push
           fi
