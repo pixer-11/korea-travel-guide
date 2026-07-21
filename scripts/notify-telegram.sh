@@ -10,16 +10,26 @@ if [ -z "${TELEGRAM_BOT_TOKEN:-}" ] || [ -z "${TELEGRAM_CHAT_ID:-}" ]; then
   exit 0
 fi
 
-if [ "${JOB_STATUS:-}" = "success" ]; then ICON="✅"; else ICON="❌"; fi
 NEW="${NEW:-0}"
 TOTAL="${TOTAL:-?}"
 DATE="$(date -u '+%Y-%m-%d %H:%M UTC')"
+
+# ✅ only when the run succeeded AND actually added posts; ⚠️ on success-but-0
+# (usually the Places daily quota is used up, or a country is already full).
+if [ "${JOB_STATUS:-}" != "success" ]; then
+  ICON="❌"; NOTE=""
+elif [ "${NEW}" = "0" ]; then
+  ICON="⚠️"; NOTE="
+ℹ️ 0 posts — Places daily quota likely reached (or already at target). The next run after quota reset will add more."
+else
+  ICON="✅"; NOTE=""
+fi
 
 TEXT="🗺️ Wander Atlas — ${LABEL}
 ${ICON} status: ${JOB_STATUS:-unknown}
 📝 new posts: ${NEW}
 📚 total posts: ${TOTAL}
-🕒 ${DATE}"
+🕒 ${DATE}${NOTE}"
 
 # Print the Telegram API response so failures are diagnosable. The response
 # never contains the bot token, so it's safe to show in the log.
