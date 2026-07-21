@@ -5,7 +5,7 @@
 // are content-addressed and permanent, so they're safe to hotlink from a static
 // site. CC-BY/BY-SA require attribution, which we render under the image.
 const UA =
-  'KoreaTravelGuide/1.0 (https://korea-travel-guide.pixer-vtm.workers.dev; contact via site)';
+  'WanderAtlas/1.0 (https://wanderatlasguides.com; contact via site)';
 
 const stripHtml = (s = '') =>
   String(s).replace(/<[^>]+>/g, '').replace(/&[a-z]+;/gi, ' ').replace(/\s+/g, ' ').trim();

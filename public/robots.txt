@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://korea-travel-guide.pixer-vtm.workers.dev/sitemap-index.xml
+Sitemap: https://wanderatlasguides.com/sitemap-index.xml

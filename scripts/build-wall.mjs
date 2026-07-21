@@ -22,7 +22,7 @@ const ROOT = join(__dirname, '..');
 const POSTS_DIR = join(ROOT, 'src', 'content', 'posts');
 const OUT_DIR = join(ROOT, 'public', 'wall');
 const MANIFEST = join(ROOT, 'data', 'wall.json');
-const UA = 'WanderAtlasBot/1.0 (https://korea-travel-guide.pixer-vtm.workers.dev; travel guide) build-wall';
+const UA = 'WanderAtlasBot/1.0 (https://wanderatlasguides.com; travel guide) build-wall';
 
 const hash = (s) => createHash('sha1').update(s).digest('hex').slice(0, 16);
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
