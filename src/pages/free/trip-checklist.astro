@@ -1,0 +1,103 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { SITE } from '../../siteConfig';
+
+// Newsletter lead magnet — a genuinely useful, country-agnostic trip-planning
+// checklist. Delivered to people who subscribe (linked from the success state).
+const groups = [
+  {
+    title: '2–3 months before',
+    items: [
+      'Check passport validity (many countries require 6+ months)',
+      'Research visa / entry rules and apply early if needed',
+      'Set a rough budget and start watching flight prices',
+      'Book flights and the first few nights of accommodation',
+      'Check recommended/required vaccinations',
+    ],
+  },
+  {
+    title: '1 month before',
+    items: [
+      'Book the big-ticket tours and skip-the-line attraction tickets',
+      'Sort travel insurance (medical + trip cancellation)',
+      'Make copies of passport, tickets, and bookings (cloud + printed)',
+      'Tell your bank you’re traveling; check card foreign-transaction fees',
+      'Download offline maps and a translation app',
+    ],
+  },
+  {
+    title: '1 week before',
+    items: [
+      'Buy an eSIM or check roaming so you land connected',
+      'Get some local currency / confirm your cards work abroad',
+      'Check the weather and finalize packing',
+      'Confirm airport transfers and check-in times',
+      'Share your itinerary with someone at home',
+    ],
+  },
+  {
+    title: 'Carry-on essentials',
+    items: [
+      'Passport, boarding passes, booking confirmations',
+      'Phone, charger, power bank, plug adapter',
+      'Medications + a small first-aid kit',
+      'A change of clothes and basic toiletries',
+      'Payment cards + a little cash',
+    ],
+  },
+  {
+    title: 'On arrival',
+    items: [
+      'Activate your eSIM / connect to Wi-Fi',
+      'Get from the airport with a pre-booked transfer or official taxi',
+      'Save your accommodation’s address in the local language',
+      'Note local emergency numbers and your embassy',
+      'Grab a transit card and learn one or two key phrases',
+    ],
+  },
+];
+---
+
+<BaseLayout
+  title="Free trip-planning checklist"
+  description="A practical, printable travel checklist — what to do 3 months out, 1 week out, what to pack, and what to do on arrival. Free from Wander Atlas."
+>
+  <section class="page-hero">
+    <div class="wrap">
+      <p class="eyebrow">Free download</p>
+      <h1>The Wander Atlas trip-planning checklist</h1>
+      <p>Everything to do before you go — from the 3-month countdown to landing day. Print it, tick it off, travel stress-free.</p>
+      <button class="btn btn-primary" onclick="window.print()">🖨️ Print / Save as PDF</button>
+    </div>
+  </section>
+
+  <article class="article wrap">
+    <div class="checklist">
+      {groups.map((g) => (
+        <section class="checklist-group">
+          <h2>{g.title}</h2>
+          <ul>
+            {g.items.map((it) => <li><span class="cbox" aria-hidden="true"></span>{it}</li>)}
+          </ul>
+        </section>
+      ))}
+    </div>
+
+    <p class="disclosure">
+      A free resource from {SITE.name}. Want more like this — one genuinely useful
+      guide a week? <a href="/#newsletter">Join our newsletter</a>. Safe travels!
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .checklist { display: grid; gap: 1.6rem; }
+  .checklist-group h2 { font-size: 1.25rem; margin-bottom: 0.6rem; }
+  .checklist-group ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 0.55rem; }
+  .checklist-group li { display: flex; align-items: flex-start; gap: 0.6rem; line-height: 1.5; }
+  .cbox { flex: none; width: 18px; height: 18px; margin-top: 0.15rem; border: 2px solid var(--accent); border-radius: 4px; }
+  @media print {
+    .site-header, .site-footer, .page-hero .btn, .disclosure a { display: none !important; }
+    .page-hero { padding-block: 1rem; }
+  }
+</style>

@@ -14,12 +14,13 @@ const t = useTranslations(lang);
 // Not a secret — it's the same URL in MailerLite's public embed code.
 const ML_ACTION = 'https://assets.mailerlite.com/jsonp/2523042/forms/193609989933237794/subscribe';
 ---
-<section class:list={['newsletter', { 'newsletter-compact': compact }]}>
+<section id="newsletter" class:list={['newsletter', { 'newsletter-compact': compact }]}>
   <div class="wrap">
     <div class="nl-inner">
       <p class="kicker gold">{SITE.name} {t('home.newsletterKicker')}</p>
       <h2>{t('home.newsletterTitle')}</h2>
       <p class="nl-dek">{t('home.newsletterDek')}</p>
+      <p class="nl-bonus">🎁 {t('home.newsletterBonus')}</p>
       <form class="nl-form" data-ml-action={ML_ACTION} novalidate>
         <input type="email" name="email" placeholder="you@email.com" aria-label="Email address" autocomplete="email" required />
         <button type="submit" class="btn btn-primary">{t('home.subscribe')}</button>
@@ -67,7 +68,12 @@ const ML_ACTION = 'https://assets.mailerlite.com/jsonp/2523042/forms/19360998993
         const json = await res.json().catch(() => ({} as any));
         if (json && json.success) {
           form.reset();
-          say('Almost there! Check your inbox and click the link to confirm your subscription.', true);
+          if (note) {
+            note.hidden = false;
+            note.classList.add('nl-note-ok');
+            note.classList.remove('nl-note-err');
+            note.innerHTML = 'Almost there! Check your inbox to confirm — then grab your free <a href="/free/trip-checklist">trip-planning checklist &rarr;</a>';
+          }
         } else {
           say('Hmm, that didn’t go through. Please try again in a moment.');
         }

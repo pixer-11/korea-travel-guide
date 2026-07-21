@@ -35,6 +35,7 @@ export const ui = {
     'home.newsletterTitle': 'One genuinely useful travel guide, every week.',
     'home.newsletterDek': 'New destinations, insider itineraries, and the practical stuff that saves your trip. No spam — unsubscribe anytime.',
     'home.subscribe': 'Subscribe',
+    'home.newsletterBonus': 'Subscribe and get our free printable trip-planning checklist.',
 
     'trust.reviewedTitle': 'Editor-reviewed',
     'trust.reviewedText': 'AI-assisted, human-standards. We disclose how every guide is made.',
@@ -74,6 +75,7 @@ export const ui = {
     'home.newsletterTitle': '매주 한 편, 진짜 유용한 여행 가이드.',
     'home.newsletterDek': '새로운 여행지, 현지인 코스, 여행을 살리는 실용 정보. 스팸 없음 — 언제든 구독 취소 가능.',
     'home.subscribe': '구독하기',
+    'home.newsletterBonus': '구독하면 무료 여행 준비 체크리스트(인쇄용)를 드려요.',
 
     'trust.reviewedTitle': '에디터 검수',
     'trust.reviewedText': 'AI가 돕고, 사람 기준으로. 모든 가이드의 제작 방식을 공개합니다.',
@@ -113,6 +115,7 @@ export const ui = {
     'home.newsletterTitle': '毎週1本、本当に役立つ旅行ガイド。',
     'home.newsletterDek': '新しい旅行先、現地目線の旅程、旅を救う実用情報。スパムなし — いつでも配信停止できます。',
     'home.subscribe': '登録する',
+    'home.newsletterBonus': '登録すると、印刷できる無料の旅行準備チェックリストをプレゼント。',
 
     'trust.reviewedTitle': '編集者レビュー済み',
     'trust.reviewedText': 'AI支援・人の基準で。各ガイドの作り方を公開しています。',
@@ -152,6 +155,7 @@ export const ui = {
     'home.newsletterTitle': 'Una guía de viaje realmente útil, cada semana.',
     'home.newsletterDek': 'Nuevos destinos, itinerarios de expertos y lo práctico que salva tu viaje. Sin spam: cancela cuando quieras.',
     'home.subscribe': 'Suscribirse',
+    'home.newsletterBonus': 'Suscríbete y recibe gratis nuestra checklist de viaje para imprimir.',
 
     'trust.reviewedTitle': 'Revisado por editores',
     'trust.reviewedText': 'Asistido por IA, con estándares humanos. Explicamos cómo se hace cada guía.',
@@ -191,6 +195,7 @@ export const ui = {
     'home.newsletterTitle': '每周一篇真正实用的旅行指南。',
     'home.newsletterDek': '新目的地、内行行程，以及能救急的实用信息。绝无垃圾邮件——随时退订。',
     'home.subscribe': '订阅',
+    'home.newsletterBonus': '订阅即可获得我们免费的可打印旅行清单。',
 
     'trust.reviewedTitle': '编辑审核',
     'trust.reviewedText': 'AI 辅助，人工标准。我们公开每篇指南的制作方式。',

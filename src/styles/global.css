@@ -642,7 +642,9 @@ main { flex: 1; width: 100%; }
 .nl-form .btn-primary:hover { background: #f4d9a8; }
 .nl-note { margin-top: 0.9rem; font-size: 0.9rem; color: #fff; }
 .nl-note-ok { color: #b8f0d0; font-weight: 600; }
+.nl-note-ok a { color: #fff; text-decoration: underline; font-weight: 700; }
 .nl-note-err { color: #ffc9c2; }
+.nl-bonus { margin-top: 0.5rem; font-size: 0.92rem; font-weight: 600; color: var(--gold); }
 .newsletter-compact { padding: clamp(1.8rem, 4vw, 2.6rem) 0; border-radius: var(--r-lg); margin: 2.75rem 0 0.5rem; }
 .newsletter-compact .nl-inner h2 { font-size: clamp(1.35rem, 2.4vw, 1.8rem); }
 .newsletter-compact .nl-dek { font-size: 0.92rem; }
