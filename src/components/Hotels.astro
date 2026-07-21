@@ -1,0 +1,36 @@
+---
+// Per-post "Where to stay" block — a Travelpayouts/Hotellook hotel widget keyed
+// to the guide's city, so readers see live nightly prices for that destination.
+// Prices auto-show in the visitor's local currency. Marker 553157.
+interface Props { city: string; country?: string }
+const { city, country } = Astro.props;
+const dest = [city, country].filter(Boolean).join(', ');
+// Hotellook hotel widget (promo_id 7873 / campaign_id 101, show_hotels=true —
+// the correct Hotellook params per Travelpayouts docs). Renders a hotel search
+// with live prices; once the Hotellook program is approved for this marker it
+// starts converting automatically — no code change needed.
+const src = `https://tp.media/content?currency=usd&shmarker=553157&show_hotels=true&powered_by=true&locale=en&searchUrl=search.hotellook.com&primary_override=%23c8443a&color_button=%23c8443a&color_icons=%23857c6f&secondary=%23f4eee3&dark=%23201c17&light=%23FFFFFF&special=%23e6e1d6&color_focused=%23c8443a&border_radius=10&plain=false&promo_id=7873&campaign_id=101&destination=${encodeURIComponent(dest)}`;
+---
+<section class="tp-hotels">
+  <div class="rule-head"><span class="kicker">Where to stay in {city}</span></div>
+  <div class="tp-widget-card">
+    <script is:inline async src={src} charset="utf-8"></script>
+  </div>
+  <p class="tp-disclosure">Hotel prices update live and are shown in your local currency. Booking links are affiliate links — booking through them supports our free guides at no extra cost to you.</p>
+</section>
+
+<script>
+  // The Hotellook widget returns empty until the marker is approved for that
+  // program. So hide the whole "Where to stay" block while it's empty — the day
+  // the program is approved the widget fills in and the block appears on its own,
+  // with no code change needed.
+  window.addEventListener('load', () => {
+    setTimeout(() => {
+      document.querySelectorAll('.tp-hotels').forEach((sec) => {
+        const card = sec.querySelector('.tp-widget-card') as HTMLElement | null;
+        const filled = card && (card.querySelector('iframe') || card.offsetHeight > 120);
+        if (!filled) (sec as HTMLElement).style.display = 'none';
+      });
+    }, 3500);
+  });
+</script>
