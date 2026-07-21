@@ -61,7 +61,9 @@ async function main() {
 
   const { targets } = JSON.parse(await readFile(TARGETS_FILE, 'utf8'));
   const { countries } = JSON.parse(await readFile(COUNTRIES_FILE, 'utf8'));
-  const activeCountries = (countries ?? []).filter((c) => c.active);
+  const onlyCountry = process.env.COUNTRY; // optional: fill one country at a time
+  let activeCountries = (countries ?? []).filter((c) => c.active);
+  if (onlyCountry) activeCountries = activeCountries.filter((c) => c.name === onlyCountry);
   const done = await loadPublished();
   const existing = new Set(
     (await readdir(POSTS_DIR)).map((f) => f.replace(/\.md$/, ''))
@@ -121,8 +123,13 @@ function buildRotatedQueue(targets, done, countries, seasonal = []) {
     all.push(t);
   };
 
-  // Curated targets (data/targets.json) are Korea unless they say otherwise.
-  targets.forEach((t) => add({ country: t.country ?? 'South Korea', ...t }));
+  // Curated targets (data/targets.json) are Korea unless they say otherwise —
+  // only queue those for the countries we're generating this run.
+  const activeNames = new Set(countries.map((c) => c.name));
+  targets.forEach((t) => {
+    const ctry = t.country ?? 'South Korea';
+    if (activeNames.has(ctry)) add({ country: ctry, ...t });
+  });
   if (AUTO_EXPAND) {
     for (const c of countries) {
       for (const tpl of TOPIC_TEMPLATES) {

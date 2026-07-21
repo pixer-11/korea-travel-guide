@@ -8,9 +8,13 @@ on:
   workflow_dispatch: # lets you run it manually from the Actions tab
     inputs:
       count:
-        description: 'How many posts to generate this run (daily auto uses 2)'
+        description: 'How many posts to generate this run (daily auto uses 8)'
         required: false
-        default: '2'
+        default: '50'
+      country:
+        description: 'Optional: fill ONE country only, e.g. Japan (blank = all active)'
+        required: false
+        default: ''
 
 permissions:
   contents: write
@@ -34,6 +38,7 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
           POSTS_PER_RUN: ${{ github.event.inputs.count || '8' }}
+          COUNTRY: ${{ github.event.inputs.country }}
           MIN_RATING: '4.0'
           MIN_REVIEWS: '50'
         run: npm run generate
