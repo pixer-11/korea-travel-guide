@@ -743,6 +743,15 @@ main { flex: 1; width: 100%; }
 .page-hero--photo h1 { color: #fff; }
 .page-hero--photo p { color: rgba(255, 255, 255, 0.88); }
 .page-hero--photo .eyebrow { color: #fff; }
+/* Travelpayouts widgets (flights page + hotel blocks on posts) */
+.tp-widget-card { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-lg); padding: clamp(1rem, 2.5vw, 1.6rem); box-shadow: var(--shadow-sm); min-height: 80px; }
+.tp-flights-tips { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1.4rem 2rem; margin-top: 2.2rem; }
+.tp-flights-tips h3 { font-family: var(--font-display); font-weight: 450; font-size: 1.12rem; margin-bottom: 0.35rem; }
+.tp-flights-tips p { color: var(--muted); font-size: 0.92rem; line-height: 1.55; margin: 0; }
+.tp-disclosure { margin-top: 2rem; font-size: 0.82rem; color: var(--muted); line-height: 1.5; }
+.tp-hotels { margin: 2.4rem 0; }
+.tp-hotels .rule-head { margin-bottom: 1rem; }
+
 .continent-back { margin-top: 2.25rem; }
 .continent-back a { color: var(--ink-soft); font-weight: 600; text-decoration: none; }
 .continent-back a:hover { color: var(--accent); }
