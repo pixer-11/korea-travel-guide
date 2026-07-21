@@ -79,12 +79,19 @@ async function main() {
   );
   USED_PLACE_IDS = await loadUsedPlaceIds();
 
+  // Per-country fill cap. When TARGET_PER_COUNTRY is set (e.g. the backfill
+  // workflow uses 58), a country that already has that many published guides is
+  // dropped from the queue — so backfill self-terminates and can run forever
+  // harmlessly once every country is full. Unset = no cap (normal daily runs).
+  const capPerCountry = Number(process.env.TARGET_PER_COUNTRY || 0) || Infinity;
+  const countryCounts = await countPostsByCountry();
+
   // Seasonal events: publish with priority when in season (current month or the
   // next month, for lead time), only for active countries.
   const activeNames = new Set(activeCountries.map((c) => c.name));
   const seasonal = await loadSeasonalTargets(activeNames);
 
-  const queue = buildRotatedQueue(targets, done, activeCountries, seasonal);
+  const queue = buildRotatedQueue(targets, done, activeCountries, seasonal, { capPerCountry, countryCounts });
 
   const mode = DUMMY ? 'DUMMY' : USE_PLACES ? 'LIVE + Places' : 'LIVE (no Places)';
   console.log(
@@ -127,12 +134,20 @@ async function main() {
 }
 
 // ── Queue building + round-robin rotation ────────────────────
-function buildRotatedQueue(targets, done, countries, seasonal = []) {
+function buildRotatedQueue(targets, done, countries, seasonal = [], opts = {}) {
+  const { capPerCountry = Infinity, countryCounts = new Map() } = opts;
   const seen = new Set();
   const all = [];
+  const addedPerCountry = new Map();
   const add = (t) => {
     if (!t.query || seen.has(t.query) || done.has(t.query)) return;
+    const ctry = t.country ?? 'South Korea';
+    // Stop queueing a country once it reaches the fill cap (published + already
+    // queued this run). Keeps backfill from over-filling any one country.
+    const projected = (countryCounts.get(ctry) || 0) + (addedPerCountry.get(ctry) || 0);
+    if (projected >= capPerCountry) return;
     seen.add(t.query);
+    addedPerCountry.set(ctry, (addedPerCountry.get(ctry) || 0) + 1);
     all.push(t);
   };
 
@@ -178,6 +193,19 @@ function buildRotatedQueue(targets, done, countries, seasonal = []) {
     seasonalQueue.push({ country: e.country, region: e.region, query: e.query, category: e.category, topic: e.topic });
   }
   return [...seasonalQueue, ...rotated];
+}
+
+// How many published guides each country already has (from post frontmatter).
+// Drives the per-country fill cap used by the backfill workflow.
+async function countPostsByCountry() {
+  const counts = new Map();
+  for (const f of await readdir(POSTS_DIR)) {
+    if (!f.endsWith('.md')) continue;
+    const m = (await readFile(join(POSTS_DIR, f), 'utf8')).match(/\ncountry:\s*"?([^"\n]+?)"?\s*$/m);
+    const ctry = m ? m[1].trim() : 'South Korea';
+    counts.set(ctry, (counts.get(ctry) || 0) + 1);
+  }
+  return counts;
 }
 
 // Every Google place id already published, so we never duplicate a venue.
