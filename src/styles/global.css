@@ -380,6 +380,8 @@ main { flex: 1; width: 100%; }
 
 /* ---- Region strip ---- */
 .region-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 1rem; }
+/* Capital / famous cities: wider, larger, subtly ringed. */
+.region-tile.is-major { grid-column: span 2; aspect-ratio: 16 / 9; font-size: 1.7rem; box-shadow: 0 0 0 2px var(--gold), var(--shadow-md); }
 .region-tile {
   position: relative;
   aspect-ratio: 4 / 3;
@@ -393,16 +395,15 @@ main { flex: 1; width: 100%; }
   font-family: var(--font-display);
   font-size: 1.3rem;
   font-weight: 600;
-  background: linear-gradient(135deg, var(--pine), var(--accent-deep));
+  background-color: #2a211a;
+  background-size: cover;
+  background-position: center;
   box-shadow: var(--shadow-sm);
   transition: transform 0.18s ease, box-shadow 0.18s ease;
 }
-.region-tile:nth-child(2) { background: linear-gradient(135deg, var(--accent), var(--gold)); }
-.region-tile:nth-child(3) { background: linear-gradient(135deg, #3a6ea5, var(--pine)); }
-.region-tile:nth-child(4) { background: linear-gradient(135deg, var(--gold), var(--accent-deep)); }
-.region-tile:nth-child(5) { background: linear-gradient(135deg, var(--pine), #3a6ea5); }
-.region-tile::after { content: ''; position: absolute; inset: 0; background: linear-gradient(180deg, transparent 40%, rgba(0,0,0,0.35)); }
-.region-tile span { position: relative; z-index: 1; }
+/* Faint place photo under a warm tint — image shows subtly, label stays legible. */
+.region-tile::after { content: ''; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(26,20,15,0.32) 0%, rgba(26,20,15,0.72) 100%); }
+.region-tile span { position: relative; z-index: 1; text-shadow: 0 1px 12px rgba(0,0,0,0.45); }
 .region-tile:hover { transform: translateY(-3px); box-shadow: var(--shadow-md); color: #fff; }
 
 /* ---- Essentials strip ---- */
