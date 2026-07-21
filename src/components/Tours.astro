@@ -7,10 +7,25 @@
 interface Props { city: string }
 const { city } = Astro.props;
 
-// Travelpayouts Klook city_id map — expand as more ids are confirmed from the
-// widget's city dropdown.
+// Travelpayouts Klook city_id map (from the widget's city dropdown) — expand as
+// more ids are confirmed. Keys must match a post's `region` value exactly.
 const CITY_ID: Record<string, number> = {
   Seoul: 13,
+  Busan: 46,
+  Incheon: 158,
+  Tokyo: 28,
+  Osaka: 29,
+  Kyoto: 30,
+  Fukuoka: 23442,
+  Sapporo: 133938,
+  Okinawa: 6484,
+  Nagoya: 71,
+  Nara: 7062,
+  Hiroshima: 5122,
+  Bangkok: 4,
+  Phuket: 7,
+  Shanghai: 59,
+  Xian: 60,
 };
 const cityId = CITY_ID[city];
 const src = cityId
