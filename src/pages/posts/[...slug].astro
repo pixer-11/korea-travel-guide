@@ -5,6 +5,7 @@ import Newsletter from '../../components/Newsletter.astro';
 import Hotels from '../../components/Hotels.astro';
 import Tours from '../../components/Tours.astro';
 import PlanTrip from '../../components/PlanTrip.astro';
+import StickyBook from '../../components/StickyBook.astro';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts', ({ data }) => !data.draft);
@@ -35,6 +36,12 @@ const countryISO = COUNTRY_ISO[country];
 // correct attribution, work regardless of flight/hotel program approval).
 const klookTop = `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7Cpid%7C754088&k_site=${encodeURIComponent(`https://www.klook.com/en-US/search/?query=${d.region}`)}`;
 const hotelTop = `https://search.hotellook.com/?marker=754088&destination=${encodeURIComponent(d.region)}`;
+// Place-specific "get tickets" link for the fact box — only for ticketable
+// categories, keyed to the venue name itself.
+const ticketable = ['attraction', 'trendy', 'hidden-gem'].includes(d.category);
+const klookPlace = p?.name
+  ? `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7Cpid%7C754088&k_site=${encodeURIComponent(`https://www.klook.com/en-US/search/?query=${p.name}`)}`
+  : klookTop;
 
 const priceLabels = ['Free', '₩', '₩₩', '₩₩₩', '₩₩₩₩'];
 const stars = p?.rating ? '★'.repeat(Math.round(p.rating)) + '☆'.repeat(5 - Math.round(p.rating)) : null;
@@ -191,11 +198,14 @@ const jsonLd = { '@context': 'https://schema.org', '@graph': graph };
           )}
           {typeof p.priceLevel === 'number' && <div class="fact"><span class="k">Price</span><span class="v">{priceLabels[p.priceLevel]}</span></div>}
         </div>
-        {p.googleMapsUrl && (
-          <a class="map-link" href={p.googleMapsUrl} target="_blank" rel="noopener">
-            📍 Open in Google Maps
-          </a>
-        )}
+        <div class="fact-actions">
+          {ticketable && p.name && (
+            <a class="fact-ticket" href={klookPlace} target="_blank" rel="sponsored noopener">🎫 Tickets &amp; tours for {p.name}</a>
+          )}
+          {p.googleMapsUrl && (
+            <a class="map-link" href={p.googleMapsUrl} target="_blank" rel="noopener">📍 Open in Google Maps</a>
+          )}
+        </div>
       </div>
     )}
 
@@ -272,4 +282,6 @@ const jsonLd = { '@context': 'https://schema.org', '@graph': graph };
       before visiting. See our <a href="/about">editorial policy</a>.
     </p>
   </article>
+
+  <StickyBook city={d.region} place={p?.name} />
 </BaseLayout>

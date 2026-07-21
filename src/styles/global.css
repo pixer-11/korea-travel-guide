@@ -784,8 +784,19 @@ main { flex: 1; width: 100%; }
 .book-btn-primary:hover { background: var(--accent-deep); color: #fff; }
 
 /* Demoted "open in Maps" link — was a primary button sending intent off-site for $0 */
-.map-link { display: inline-flex; align-items: center; gap: 0.3rem; margin-top: 0.6rem; font-size: 0.88rem; font-weight: 600; color: var(--muted); text-decoration: none; }
+.map-link { display: inline-flex; align-items: center; gap: 0.3rem; font-size: 0.88rem; font-weight: 600; color: var(--muted); text-decoration: none; }
 .map-link:hover { color: var(--accent); text-decoration: underline; }
+.fact-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 0.7rem 1.1rem; margin-top: 0.85rem; }
+.fact-ticket { display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.45rem 0.85rem; border-radius: var(--r-pill); background: var(--accent); color: #fff; font-size: 0.88rem; font-weight: 600; text-decoration: none; transition: background .15s ease; }
+.fact-ticket:hover { background: var(--accent-deep); color: #fff; }
+
+/* Sticky mobile "Book" bar (post pages only, revealed on scroll) */
+.sticky-book { position: fixed; bottom: 0; left: 0; right: 0; z-index: 60; display: none; gap: 0.55rem; padding: 0.55rem 0.8rem calc(0.55rem + env(safe-area-inset-bottom)); background: color-mix(in srgb, var(--surface) 94%, transparent); backdrop-filter: saturate(140%) blur(8px); border-top: 1px solid var(--line); box-shadow: 0 -4px 18px rgba(0,0,0,0.1); }
+.sb-btn { flex: 1; display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.7rem; border-radius: var(--r-md); font-weight: 650; font-size: 0.92rem; text-decoration: none; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
+.sb-primary { background: var(--accent); border-color: var(--accent); color: #fff; }
+@media (max-width: 720px) {
+  .sticky-book:not([hidden]) { display: flex; }
+}
 
 .continent-back { margin-top: 2.25rem; }
 .continent-back a { color: var(--ink-soft); font-weight: 600; text-decoration: none; }

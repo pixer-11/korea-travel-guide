@@ -1,0 +1,28 @@
+---
+// Slim bottom-fixed "Book" bar for post pages, MOBILE ONLY. Reveals after the
+// reader scrolls past the hero so it never covers the top of the article, and
+// gives a persistent, thumb-reachable booking CTA (most travel traffic is
+// mobile). City/place-specific Klook + Hotellook links, rel="sponsored".
+interface Props { city: string; place?: string }
+const { city, place } = Astro.props;
+const q = place || city;
+const klook = `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7Cpid%7C754088&k_site=${encodeURIComponent(`https://www.klook.com/en-US/search/?query=${q}`)}`;
+const hotel = `https://search.hotellook.com/?marker=754088&destination=${encodeURIComponent(city)}`;
+---
+<div class="sticky-book" data-sticky-book hidden aria-hidden="true">
+  <a class="sb-btn sb-primary" href={klook} target="_blank" rel="sponsored noopener">🎟️ Tours & tickets</a>
+  <a class="sb-btn" href={hotel} target="_blank" rel="sponsored noopener">🏨 Hotels</a>
+</div>
+
+<script>
+  const bar = document.querySelector('[data-sticky-book]') as HTMLElement | null;
+  if (bar) {
+    const update = () => {
+      const show = window.scrollY > 500;
+      bar.hidden = !show;
+      bar.setAttribute('aria-hidden', String(!show));
+    };
+    window.addEventListener('scroll', update, { passive: true });
+    update();
+  }
+</script>
