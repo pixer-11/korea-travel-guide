@@ -1,0 +1,35 @@
+---
+// "Plan your trip" affiliate block for every guide — booking services that are
+// already active on our Travelpayouts account (marker 553157). Link-based
+// programs use city-agnostic homepage links (readers pick their city there);
+// flights point to our own /flights page. Affiliate links use rel="sponsored".
+import { SITE } from '../siteConfig';
+interface Props { city: string; country?: string }
+const { city } = Astro.props;
+
+const services = [
+  { icon: '🎟️', label: 'Tours & tickets', desc: 'Activities and skip-the-line tickets', href: 'https://klook.tpx.lv/2NXPH8MA' },
+  { icon: '🚗', label: 'Car rental', desc: 'Compare local car-hire deals', href: 'https://localrent.tpx.lv/qivp9ZCc' },
+  { icon: '🚕', label: 'Airport transfer', desc: 'Pre-book a private pickup', href: 'https://kiwitaxi.tpx.lv/yRbl5tlp' },
+  { icon: '📶', label: 'eSIM data', desc: 'Get online the moment you land', href: 'https://yesim.tpx.lv/KABevuVe' },
+  { icon: '✈️', label: 'Flights', desc: city ? `Search fares to ${city}` : 'Search live fares', href: '/flights', internal: true },
+];
+---
+<section class="plan-trip">
+  <div class="rule-head"><span class="kicker">Plan your trip{city ? ` to ${city}` : ''}</span></div>
+  <div class="plan-grid">
+    {services.map((s) => (
+      <a
+        class="plan-card"
+        href={s.href}
+        target={s.internal ? undefined : '_blank'}
+        rel={s.internal ? undefined : 'sponsored noopener'}
+      >
+        <span class="plan-ico">{s.icon}</span>
+        <span class="plan-txt"><strong>{s.label}</strong><span>{s.desc}</span></span>
+        <span class="plan-arw">→</span>
+      </a>
+    ))}
+  </div>
+  <p class="tp-disclosure">Some links above are affiliate links — if you book through them, {SITE.name} earns a small commission at no extra cost to you. It’s how we keep every guide free.</p>
+</section>
