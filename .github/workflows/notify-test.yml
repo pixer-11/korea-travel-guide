@@ -1,0 +1,20 @@
+name: Test Telegram notification
+
+# Manual-only. Sends a single test message so you can confirm the
+# TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID secrets work — finishes in seconds.
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Send test message
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          JOB_STATUS: success
+          NEW: 0
+          TOTAL: 173
+        run: bash scripts/notify-telegram.sh "Telegram test ✅"
