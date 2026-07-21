@@ -6,19 +6,24 @@ import countriesData from '../../../data/countries.json';
 
 const posts = await getCollection('posts', ({ data }) => !data.draft);
 const countFor = (name) => posts.filter((p) => (p.data.country ?? 'South Korea') === name).length;
-
 const countries = countriesData.countries.map((c) => ({ ...c, count: countFor(c.name) }));
-// A country is "live" once it actually has published guides — activating it for
-// generation doesn't show an empty tile before content exists.
-const live = countries.filter((c) => c.count > 0);
-const soon = countries.filter((c) => c.count === 0);
+
+// Group by continent → scalable as more countries are added.
+const CONTINENT_ORDER = ['Asia', 'Europe', 'North America', 'South America', 'Africa', 'Oceania', 'Other'];
+const byContinent = {};
+for (const c of countries) (byContinent[c.continent || 'Other'] ||= []).push(c);
+const continents = CONTINENT_ORDER.filter((k) => byContinent[k]).map((k) => ({
+  name: k,
+  countries: byContinent[k].sort((a, b) => b.count - a.count || a.name.localeCompare(b.name)),
+}));
+const liveTotal = countries.filter((c) => c.count > 0).length;
 
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
 const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
 const jsonLd = {
   '@context': 'https://schema.org',
   '@graph': [
-    { '@type': 'CollectionPage', name: 'Destinations', description: 'Browse detailed travel guides by country.', url: pageUrl, isPartOf: { '@id': `${site}/#site` } },
+    { '@type': 'CollectionPage', name: 'Destinations', description: 'Browse travel guides by continent and country.', url: pageUrl, isPartOf: { '@id': `${site}/#site` } },
     { '@type': 'BreadcrumbList', itemListElement: [
       { '@type': 'ListItem', position: 1, name: 'Home', item: site + '/' },
       { '@type': 'ListItem', position: 2, name: 'Destinations', item: pageUrl },
@@ -29,50 +34,47 @@ const jsonLd = {
 
 <BaseLayout
   title="Destinations — Travel Guides by Country"
-  description={`Explore ${SITE.name}'s detailed, editor-reviewed travel guides country by country. Live now: South Korea, with more destinations on the way.`}
+  description={`Explore ${SITE.name}'s detailed, editor-reviewed travel guides by continent and country. ${liveTotal} live, more on the way.`}
   jsonLd={jsonLd}
 >
   <section class="page-hero">
     <div class="wrap">
       <p class="eyebrow">Destinations</p>
-      <h1>Explore the world, one guide at a time</h1>
-      <p>We go deep on one country at a time — real places, honest advice, and the practical details that actually matter.</p>
+      <h1>Explore the world by continent</h1>
+      <p>We go deep on one country at a time — real places, honest advice, and the details that matter.</p>
     </div>
   </section>
 
   <section class="section">
     <div class="wrap">
-      <div class="section-head"><h2>Live now</h2></div>
-      <div class="country-grid">
-        {live.map((c) => (
-          <a class="country-card is-live" href={`/destinations/${c.slug}`}>
-            <span class="country-flag">{c.flag}</span>
-            <div class="country-body">
-              <h3>{c.name}</h3>
-              <p>{c.blurb}</p>
-              <span class="country-meta">{c.count} guides →</span>
-            </div>
-          </a>
-        ))}
-      </div>
-
-      {soon.length > 0 && (
-        <>
-          <div class="section-head" style="margin-top:3rem"><h2>Coming soon</h2></div>
+      {continents.map((cont) => (
+        <div class="region-group">
+          <div class="rule-head"><span class="kicker">{cont.name}</span></div>
           <div class="country-grid">
-            {soon.map((c) => (
-              <div class="country-card is-soon">
-                <span class="country-flag">{c.flag}</span>
-                <div class="country-body">
-                  <h3>{c.name}</h3>
-                  <p>{c.blurb}</p>
-                  <span class="country-meta">In the works</span>
+            {cont.countries.map((c) => (
+              c.count > 0 ? (
+                <a class="country-card is-live" href={`/destinations/${c.slug}`}>
+                  <span class="country-flag">{c.flag}</span>
+                  <div class="country-body">
+                    <h3>{c.name}</h3>
+                    <p>{c.blurb}</p>
+                    <span class="country-meta">{c.count} guides →</span>
+                  </div>
+                </a>
+              ) : (
+                <div class="country-card is-soon">
+                  <span class="country-flag">{c.flag}</span>
+                  <div class="country-body">
+                    <h3>{c.name}</h3>
+                    <p>{c.blurb}</p>
+                    <span class="country-meta">Coming soon</span>
+                  </div>
                 </div>
-              </div>
+              )
             ))}
           </div>
-        </>
-      )}
+        </div>
+      ))}
     </div>
   </section>
 </BaseLayout>

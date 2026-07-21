@@ -5,9 +5,13 @@ import { SITE } from '../siteConfig';
 import countriesData from '../../data/countries.json';
 
 const posts = await getCollection('posts', ({ data }) => !data.draft);
-const liveCountries = countriesData.countries.filter((c) =>
+const live = countriesData.countries.filter((c) =>
   posts.some((p) => (p.data.country ?? 'South Korea') === c.name)
 );
+const CONT_ORDER = ['Asia', 'Europe', 'North America', 'South America', 'Africa', 'Oceania', 'Other'];
+const navGroups = CONT_ORDER
+  .map((k) => ({ name: k, countries: live.filter((c) => (c.continent || 'Other') === k) }))
+  .filter((g) => g.countries.length);
 ---
 
 <header class="site-header">
@@ -25,10 +29,15 @@ const liveCountries = countriesData.countries.filter((c) =>
       <div class="nav-dd">
         <a href="/destinations" class="nav-dd-toggle">Destinations ▾</a>
         <div class="nav-dd-menu">
-          {liveCountries.map((c) => (
-            <a href={`/destinations/${c.slug}`}>{c.flag} {c.name}</a>
+          {navGroups.map((g) => (
+            <>
+              <span class="nav-dd-head">{g.name}</span>
+              {g.countries.map((c) => (
+                <a href={`/destinations/${c.slug}`}>{c.flag} {c.name}</a>
+              ))}
+            </>
           ))}
-          <a href="/destinations">All destinations →</a>
+          <a href="/destinations" class="nav-dd-all">All destinations →</a>
         </div>
       </div>
       <a href="/about">About</a>

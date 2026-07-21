@@ -20,7 +20,8 @@
         "Sokcho",
         "Andong",
         "Yeosu"
-      ]
+      ],
+      "continent": "Asia"
     },
     {
       "name": "Japan",
@@ -39,7 +40,8 @@
         "Nagoya",
         "Kanazawa",
         "Okinawa"
-      ]
+      ],
+      "continent": "Asia"
     },
     {
       "name": "United States",
@@ -58,7 +60,8 @@
         "Seattle",
         "Washington DC",
         "Boston"
-      ]
+      ],
+      "continent": "North America"
     },
     {
       "name": "Thailand",
@@ -75,7 +78,8 @@
         "Pattaya",
         "Koh Samui",
         "Chiang Rai"
-      ]
+      ],
+      "continent": "Asia"
     },
     {
       "name": "France",
@@ -92,7 +96,8 @@
         "Strasbourg",
         "Cannes",
         "Provence"
-      ]
+      ],
+      "continent": "Europe"
     },
     {
       "name": "Italy",
@@ -109,7 +114,8 @@
         "Bologna",
         "Turin",
         "Amalfi Coast"
-      ]
+      ],
+      "continent": "Europe"
     },
     {
       "name": "China",
@@ -126,7 +132,8 @@
         "Hangzhou",
         "Guangzhou",
         "Suzhou"
-      ]
+      ],
+      "continent": "Asia"
     },
     {
       "name": "Spain",
@@ -143,7 +150,8 @@
         "San Sebastian",
         "Malaga",
         "Bilbao"
-      ]
+      ],
+      "continent": "Europe"
     }
   ]
 }
