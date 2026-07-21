@@ -1,6 +1,13 @@
 ---
+import { getCollection } from 'astro:content';
 import Logo from './Logo.astro';
 import { SITE } from '../siteConfig';
+import countriesData from '../../data/countries.json';
+
+const posts = await getCollection('posts', ({ data }) => !data.draft);
+const liveCountries = countriesData.countries.filter((c) =>
+  posts.some((p) => (p.data.country ?? 'South Korea') === c.name)
+);
 ---
 
 <header class="site-header">
@@ -15,8 +22,15 @@ import { SITE } from '../siteConfig';
     </label>
 
     <nav class="nav">
-      <a href="/destinations">Destinations</a>
-      <a href="/destinations/south-korea">South Korea</a>
+      <div class="nav-dd">
+        <a href="/destinations" class="nav-dd-toggle">Destinations ▾</a>
+        <div class="nav-dd-menu">
+          {liveCountries.map((c) => (
+            <a href={`/destinations/${c.slug}`}>{c.flag} {c.name}</a>
+          ))}
+          <a href="/destinations">All destinations →</a>
+        </div>
+      </div>
       <a href="/about">About</a>
     </nav>
   </div>

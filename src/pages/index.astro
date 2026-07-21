@@ -43,6 +43,13 @@ const countries = countriesData.countries.map((c) => ({ ...c, count: countFor(c.
 // surface an empty tile.
 const live = countries.filter((c) => c.count > 0);
 const soon = countries.filter((c) => c.count === 0);
+// A representative photo for each country's tile — its newest real post image.
+const repImage = (name) => {
+  const p = posts.find(
+    (p) => (p.data.country ?? 'South Korea') === name && p.data.heroImage?.url && !p.data.heroImage.url.includes('placeholder')
+  );
+  return p?.data.heroImage?.url ?? '';
+};
 
 // Curated entry points for the Korea spotlight (link to region hubs / pillars).
 const koreaLinks = [
@@ -138,11 +145,11 @@ const koreaLinks = [
         <span class="kicker">Destinations</span>
         <a href="/destinations" class="rule-link">All destinations →</a>
       </div>
-      <p class="bento-note">Eight countries. One live, seven on the way — we launch a destination only when the guides are ready.</p>
+      <p class="bento-note">{live.length} countries and growing — a fresh guide lands in each, every day.</p>
       <div class="dest-bento">
-        {live.map((c) => (
-          <a class="dest-tile dest-live" href={`/destinations/${c.slug}`} style={`background-image:url(${cover?.data.heroImage?.url})`}>
-            <span class="dest-ribbon">Now live</span>
+        {live.map((c, i) => (
+          <a class:list={['dest-tile', 'dest-live', { 'dest-feat': i === 0 }]} href={`/destinations/${c.slug}`} style={`background-image:url(${repImage(c.name)})`}>
+            {i === 0 && <span class="dest-ribbon">Featured</span>}
             <div class="dest-tile-inner">
               <span class="dest-flag">{c.flag}</span>
               <h3>{c.name}</h3>
