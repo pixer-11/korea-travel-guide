@@ -7,8 +7,16 @@ import { SITE } from '../siteConfig';
 interface Props { city: string; country?: string }
 const { city } = Astro.props;
 
+// City-specific Klook affiliate link, built automatically from the city name —
+// works for every city (and every future auto-published post) with no per-city
+// setup. Uses the account's own Klook redirect (campaign 13694, pid 754088);
+// the query lands the reader on that city's tours & tickets.
+const klookHref = city
+  ? `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7Cpid%7C754088&k_site=${encodeURIComponent(`https://www.klook.com/en-US/search/?query=${city}`)}`
+  : 'https://klook.tpx.lv/2NXPH8MA';
+
 const services = [
-  { icon: '🎟️', label: 'Tours & tickets', desc: 'Activities and skip-the-line tickets', href: 'https://klook.tpx.lv/2NXPH8MA' },
+  { icon: '🎟️', label: 'Tours & tickets', desc: city ? `Things to do in ${city}` : 'Activities and skip-the-line tickets', href: klookHref },
   { icon: '🚗', label: 'Car rental', desc: 'Compare local car-hire deals', href: 'https://localrent.tpx.lv/qivp9ZCc' },
   { icon: '🚕', label: 'Airport transfer', desc: 'Pre-book a private pickup', href: 'https://kiwitaxi.tpx.lv/yRbl5tlp' },
   { icon: '📶', label: 'eSIM data', desc: 'Get online the moment you land', href: 'https://yesim.tpx.lv/KABevuVe' },
