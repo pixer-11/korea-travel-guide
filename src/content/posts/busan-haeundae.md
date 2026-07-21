@@ -8,11 +8,11 @@ category: attraction
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
   url: >-
-    https://images.unsplash.com/photo-1591520284162-8e64eceebacf?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SGFldW5kYWUlMjBCdXNhbiUyMFNvdXRoJTIwS29yZWF8ZW58MHwwfHx8MTc4NDU5MTg3N3ww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Thomas Roger Lux on Unsplash
+    https://images.unsplash.com/photo-1724618194655-c3c12254d61c?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8SGFldW5kYWUlMjBCdXNhbiUyMFNvdXRoJTIwS29yZWF8ZW58MHwwfHx8MTc4NDU5MzMxOXww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Andrea De Santis on Unsplash
   license: unsplash
   source: >-
-    https://unsplash.com/@thomasrogerlux?utm_source=korea_travel_guide&utm_medium=referral
+    https://unsplash.com/@santesson89?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - busan

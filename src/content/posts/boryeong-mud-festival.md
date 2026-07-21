@@ -1,28 +1,52 @@
 ---
-title: "Mud Festival in Boryeong: A Visitor's Guide"
-description: "A practical visitor's guide to mud festival in Boryeong, Korea — what to expect, how to get around, and tips for your visit."
-region: "Boryeong"
-category: "event"
-pubDate: 2026-07-20
+title: 'Mud Festival in Boryeong: A Visitor''s Guide'
+description: >-
+  A practical visitor's guide to mud festival in Boryeong, Korea — what to
+  expect, how to get around, and tips for your visit.
+region: Boryeong
+category: event
+pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1595239095139-6aa95ea7c620?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8bXVkJTIwZmVzdGl2YWx8ZW58MHwwfHx8MTc4NDU2NTYxNXww&ixlib=rb-4.1.0&q=80&w=1080"
-  credit: "Photo: Nqobile Vundla on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/photos/woman-in-pink-and-white-floral-shirt-with-face-paint-U7cpJ5hxtww"
+  url: >-
+    https://images.unsplash.com/photo-1703825864792-5880081beaaf?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8Qm9yeWVvbmclMjBTb3V0aCUyMEtvcmVhfGVufDB8MHx8fDE3ODQ1OTMzMTh8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Elliot Gouy on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@gouyelliot?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - "boryeong"
-  - "mud festival"
-quickAnswer: "The Boryeong Mud Festival takes place every summer at Daecheon Beach, on Korea's west coast in Chungcheongnam-do, typically over about ten days in July. Expect mud pools, mud slides, body-painting, K-pop-style stage shows, fireworks, and a beach packed with both Korean and international visitors. The easiest way to attend is by train or intercity bus to Boryeong followed by a short local bus or taxi to Daecheon Beach, and it's best enjoyed with old clothes, cash, and a flexible, come-get-messy attitude."
+  - boryeong
+  - mud festival
+quickAnswer: >-
+  The Boryeong Mud Festival takes place every summer at Daecheon Beach, on
+  Korea's west coast in Chungcheongnam-do, typically over about ten days in
+  July. Expect mud pools, mud slides, body-painting, K-pop-style stage shows,
+  fireworks, and a beach packed with both Korean and international visitors. The
+  easiest way to attend is by train or intercity bus to Boryeong followed by a
+  short local bus or taxi to Daecheon Beach, and it's best enjoyed with old
+  clothes, cash, and a flexible, come-get-messy attitude.
 faq:
-  - q: "When does the Boryeong Mud Festival happen?"
-    a: "It's held annually in summer, typically over about ten days in July, at Daecheon Beach in Boryeong. Exact dates vary year to year, so check current listings before planning your trip."
-  - q: "How do I get to Daecheon Beach from Seoul?"
-    a: "Take a train to Daecheon Station or an intercity/express bus to Boryeong's bus terminal, then continue to Daecheon Beach by local bus, shuttle, or taxi. Booking transport in advance is recommended during festival weekends."
-  - q: "What should I bring to the festival?"
-    a: "Old clothes and footwear you don't mind getting muddy, a swimsuit, sunscreen, cash, a waterproof pouch for your phone, and a change of dry clothes and sandals for afterward."
-  - q: "Is the festival suitable for families and non-Korean speakers?"
-    a: "Yes, it's known for drawing large numbers of international visitors and families alike, with an informal, easygoing atmosphere that doesn't require Korean language skills to enjoy."
+  - q: When does the Boryeong Mud Festival happen?
+    a: >-
+      It's held annually in summer, typically over about ten days in July, at
+      Daecheon Beach in Boryeong. Exact dates vary year to year, so check
+      current listings before planning your trip.
+  - q: How do I get to Daecheon Beach from Seoul?
+    a: >-
+      Take a train to Daecheon Station or an intercity/express bus to Boryeong's
+      bus terminal, then continue to Daecheon Beach by local bus, shuttle, or
+      taxi. Booking transport in advance is recommended during festival
+      weekends.
+  - q: What should I bring to the festival?
+    a: >-
+      Old clothes and footwear you don't mind getting muddy, a swimsuit,
+      sunscreen, cash, a waterproof pouch for your phone, and a change of dry
+      clothes and sandals for afterward.
+  - q: Is the festival suitable for families and non-Korean speakers?
+    a: >-
+      Yes, it's known for drawing large numbers of international visitors and
+      families alike, with an informal, easygoing atmosphere that doesn't
+      require Korean language skills to enjoy.
 aiGenerated: true
 draft: false
 ---

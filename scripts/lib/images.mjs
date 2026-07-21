@@ -51,35 +51,39 @@ export async function pickGallery(place, n = 3) {
 
 const UTM = 'utm_source=korea_travel_guide&utm_medium=referral';
 
-async function searchUnsplash(query) {
-  const url =
-    `https://api.unsplash.com/search/photos?per_page=1&orientation=landscape` +
-    `&query=${encodeURIComponent(query)}`;
-  const res = await fetch(url, {
-    headers: { Authorization: `Client-ID ${UNSPLASH_KEY}` },
-  });
-  if (!res.ok) return null;
-  const data = await res.json();
-  const hit = data.results?.[0];
-  if (!hit) return null;
-
-  // Unsplash API guideline: trigger the download endpoint when a photo is
-  // actually used (required to keep API access). Fire-and-forget.
-  if (hit.links?.download_location) {
-    fetch(hit.links.download_location, {
-      headers: { Authorization: `Client-ID ${UNSPLASH_KEY}` },
-    }).catch(() => {});
+// Unsplash API guideline: trigger the download endpoint when a photo is
+// actually used (required to keep API access). Fire-and-forget.
+export function trackUnsplashDownload(location) {
+  if (location && UNSPLASH_KEY) {
+    fetch(location, { headers: { Authorization: `Client-ID ${UNSPLASH_KEY}` } }).catch(() => {});
   }
+}
 
-  // Request ~1600px wide (Google Discover wants large images) from the raw URL.
-  const bigUrl = `${hit.urls.raw}&w=1600&q=80&fm=jpg&fit=max`;
-
-  return {
-    url: bigUrl,
-    // Attribution links to the photographer's Unsplash profile with UTM,
-    // per Unsplash's Attribution guideline.
+// Returns up to `perPage` candidate images for a query (for de-duplication).
+export async function unsplashCandidates(query, perPage = 30) {
+  if (!UNSPLASH_KEY) return [];
+  const url =
+    `https://api.unsplash.com/search/photos?per_page=${perPage}&orientation=landscape` +
+    `&query=${encodeURIComponent(query)}`;
+  const res = await fetch(url, { headers: { Authorization: `Client-ID ${UNSPLASH_KEY}` } });
+  if (!res.ok) return [];
+  const data = await res.json();
+  return (data.results ?? []).map((hit) => ({
+    id: hit.id,
+    url: `${hit.urls.raw}&w=1600&q=80&fm=jpg&fit=max`, // 1600px for Discover
     credit: `Photo by ${hit.user.name} on Unsplash`,
     license: 'unsplash',
     source: `${hit.user.links.html}?${UTM}`,
-  };
+    downloadLocation: hit.links?.download_location,
+  }));
+}
+
+// Single-image helper for the generator. Picks a RANDOM one of the top results
+// (not always the first) to reduce duplicate photos across posts.
+async function searchUnsplash(query) {
+  const cands = await unsplashCandidates(query, 10);
+  if (!cands.length) return null;
+  const pick = cands[Math.floor(Math.random() * cands.length)];
+  trackUnsplashDownload(pick.downloadLocation);
+  return { url: pick.url, credit: pick.credit, license: pick.license, source: pick.source };
 }
