@@ -9,8 +9,9 @@ const live = countriesData.countries.filter((c) =>
   posts.some((p) => (p.data.country ?? 'South Korea') === c.name)
 );
 const CONT_ORDER = ['Asia', 'Europe', 'North America', 'South America', 'Africa', 'Oceania', 'Other'];
+const contSlug = (name) => name.toLowerCase().replace(/\s+/g, '-');
 const navGroups = CONT_ORDER
-  .map((k) => ({ name: k, countries: live.filter((c) => (c.continent || 'Other') === k) }))
+  .map((k) => ({ name: k, slug: contSlug(k), countries: live.filter((c) => (c.continent || 'Other') === k) }))
   .filter((g) => g.countries.length);
 ---
 
@@ -31,7 +32,7 @@ const navGroups = CONT_ORDER
         <div class="nav-dd-menu">
           {navGroups.map((g) => (
             <>
-              <span class="nav-dd-head">{g.name}</span>
+              <a class="nav-dd-head nav-dd-head-link" href={`/continents/${g.slug}`}>{g.name} →</a>
               {g.countries.map((c) => (
                 <a href={`/destinations/${c.slug}`}>{c.flag} {c.name}</a>
               ))}

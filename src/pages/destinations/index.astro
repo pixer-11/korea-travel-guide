@@ -14,6 +14,7 @@ const byContinent = {};
 for (const c of countries) (byContinent[c.continent || 'Other'] ||= []).push(c);
 const continents = CONTINENT_ORDER.filter((k) => byContinent[k]).map((k) => ({
   name: k,
+  slug: k.toLowerCase().replace(/\s+/g, '-'),
   countries: byContinent[k].sort((a, b) => b.count - a.count || a.name.localeCompare(b.name)),
 }));
 const liveTotal = countries.filter((c) => c.count > 0).length;
@@ -49,7 +50,7 @@ const jsonLd = {
     <div class="wrap">
       {continents.map((cont) => (
         <div class="region-group">
-          <div class="rule-head"><span class="kicker">{cont.name}</span></div>
+          <div class="rule-head"><a class="kicker" href={`/continents/${cont.slug}`}>{cont.name} →</a></div>
           <div class="country-grid">
             {cont.countries.map((c) => (
               c.count > 0 ? (

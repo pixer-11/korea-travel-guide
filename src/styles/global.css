@@ -195,6 +195,8 @@ h1, h2, h3, h4 {
 .nav-dd-head { display: block; padding: 0.4rem 0.7rem 0.15rem; font-size: 0.7rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
 .nav-dd-head:not(:first-child) { margin-top: 0.25rem; border-top: 1px solid var(--line-soft); padding-top: 0.5rem; }
 .nav-dd-all { margin-top: 0.35rem; font-weight: 600; color: var(--accent); }
+.nav-dd-head-link { cursor: pointer; transition: color 0.15s; }
+.nav-dd-head-link:hover { color: var(--accent); }
 
 .menu-toggle { display: none; }
 
@@ -702,6 +704,17 @@ main { flex: 1; width: 100%; }
 .page-hero { text-align: center; padding-block: clamp(2.5rem, 6vw, 4rem); }
 .page-hero h1 { font-size: clamp(2rem, 5vw, 3.2rem); }
 .page-hero p { color: var(--ink-soft); font-size: 1.15rem; max-width: 46ch; margin: 0.8rem auto 0; }
+.eyebrow a { color: inherit; text-decoration: none; }
+.eyebrow a:hover { text-decoration: underline; }
+
+/* Continent hero with a representative destination photo behind it. */
+.page-hero--photo { color: #fff; }
+.page-hero--photo h1 { color: #fff; }
+.page-hero--photo p { color: rgba(255, 255, 255, 0.88); }
+.page-hero--photo .eyebrow { color: #fff; }
+.continent-back { margin-top: 2.25rem; }
+.continent-back a { color: var(--ink-soft); font-weight: 600; text-decoration: none; }
+.continent-back a:hover { color: var(--accent); }
 
 /* ============================================================
    Footer
