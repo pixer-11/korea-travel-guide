@@ -1,51 +1,125 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
+const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
+
+const faq = [
+  {
+    q: 'What is the emergency number in South Korea?',
+    a: 'Dial 112 for police and 119 for fire, ambulance, and medical emergencies. Both are free, work from any phone, and can connect you to interpretation assistance for foreign callers.',
+  },
+  {
+    q: 'Is there an English-speaking help line for tourists?',
+    a: 'Yes — call 1330, the 24-hour Korea Travel Hotline run by the Korea Tourism Organization. It offers free travel information and real-time interpretation in English, Japanese, Chinese, and more, and can help relay calls in an emergency.',
+  },
+  {
+    q: 'How do I call an ambulance?',
+    a: 'Dial 119. It handles fire, rescue, and medical emergencies and dispatches ambulances. If language is a barrier, ask for interpretation or call 1330 to help relay.',
+  },
+  {
+    q: 'Where do I go for non-emergency medical care?',
+    a: 'Pharmacies (약국) handle minor issues, and major hospitals in big cities have international clinics with English-speaking staff. For questions, 1330 can point you to the nearest suitable facility.',
+  },
+];
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'WebPage', name: 'Emergency Numbers & Safety in Korea', description: 'Key emergency numbers (112, 119, 1330) and safety basics for visitors to South Korea.', url: pageUrl, isPartOf: { '@id': `${site}/#site` } },
+    { '@type': 'BreadcrumbList', itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: site + '/' },
+      { '@type': 'ListItem', position: 2, name: 'Essentials', item: `${site}/essentials/emergency` },
+      { '@type': 'ListItem', position: 3, name: 'Emergency & safety', item: pageUrl },
+    ] },
+    { '@type': 'FAQPage', mainEntity: faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) },
+  ],
+};
 ---
 
 <BaseLayout
-  title="Emergency Numbers & Help in Korea"
-  description="Essential emergency contacts for travelers in Korea: police, ambulance, fire, the 1330 tourist hotline, and medical help — with multilingual support info."
+  title="Emergency Numbers & Safety in Korea"
+  description="The key emergency numbers in South Korea — 112 police, 119 fire/ambulance, and the 1330 travel hotline — plus safety and medical basics for visitors."
+  jsonLd={jsonLd}
 >
   <div class="page-hero">
     <div class="wrap">
       <p class="eyebrow">Essentials</p>
-      <h1>Emergency & Help in Korea</h1>
-      <p>Save these before you travel.</p>
+      <h1>Emergency & Safety</h1>
+      <p>Save three numbers before you go: 112, 119, and 1330.</p>
     </div>
   </div>
+
   <article class="article wrap">
+    <aside class="quick-answer">
+      <span class="qa-label">Quick answer</span>
+      <p>
+        In an emergency, dial <strong>112 for police</strong> or <strong>119 for fire,
+        ambulance, and medical</strong> help — both are free and work from any phone.
+        For English help, travel info, or interpretation, call the 24-hour
+        <strong>1330 Korea Travel Hotline</strong>. Korea is generally very safe, but
+        save these numbers before you arrive.
+      </p>
+    </aside>
+
     <div class="fact-box">
-      <ul>
-        <li><strong>112</strong> — Police (crime, danger)</li>
-        <li><strong>119</strong> — Fire & Ambulance (medical emergency)</li>
-        <li>
-          <strong>1330</strong> — Korea Travel Hotline (24/7, multilingual:
-          English, Chinese, Japanese, and more). Your first call for anything
-          travel-related — directions, interpretation, complaints.
-        </li>
-        <li><strong>120</strong> — Dasan Call Center (Seoul city info)</li>
-      </ul>
+      <h4>Emergency numbers</h4>
+      <div class="fact-grid">
+        <div class="fact"><span class="k">Police</span><span class="v">112</span></div>
+        <div class="fact"><span class="k">Fire / Ambulance / Medical</span><span class="v">119</span></div>
+        <div class="fact"><span class="k">Travel hotline (24h, multilingual)</span><span class="v">1330</span></div>
+        <div class="fact"><span class="k">Immigration contact center</span><span class="v">1345</span></div>
+      </div>
     </div>
 
     <div class="prose">
-      <h2>Good to know</h2>
-      <ul>
-        <li>
-          <strong>1330 can interpret for you</strong> during a 112 or 119 call —
-          they can conference in and translate in real time.
-        </li>
-        <li>Emergency calls are free from any phone, including without a SIM.</li>
-        <li>
-          Pharmacies (약국, <em>yakguk</em>) handle minor issues; look for the
-          green cross sign.
-        </li>
-      </ul>
+      <h2>Who to call</h2>
+      <p>
+        <strong>112 (police)</strong> and <strong>119 (fire, rescue, ambulance, and
+        medical emergencies)</strong> are the two core numbers — free, 24/7, and
+        reachable from any phone, including without a SIM. Both services can arrange
+        interpretation for foreign callers. If you're unsure or face a language
+        barrier, the <strong>1330 Korea Travel Hotline</strong> (run by the Korea
+        Tourism Organization) provides free, round-the-clock interpretation and can
+        help relay your situation to emergency services.
+      </p>
+
+      <h2>Medical care</h2>
+      <p>
+        For serious emergencies, call <strong>119</strong> for an ambulance. For minor
+        ailments, pharmacies (<strong>약국</strong>, "yakguk") are everywhere and can
+        advise on common medicines. Major hospitals in Seoul, Busan, and other big
+        cities operate <strong>international clinics</strong> with English-speaking
+        staff; 1330 can direct you to the nearest appropriate facility. Travel
+        insurance that covers medical care is strongly recommended, as visitors pay
+        out of pocket.
+      </p>
+
+      <h2>Staying safe</h2>
+      <p>
+        Korea has low violent-crime rates and is comfortable to explore, including at
+        night and for solo travelers. Normal precautions apply: watch belongings in
+        crowds, use licensed taxis or the Kakao T app, and keep a copy of your passport
+        and your embassy's contact details. The government's free
+        <strong>"Emergency Ready" app</strong> (for foreigners) offers English guidance
+        and disaster alerts. Register with or note your embassy in Korea in case you
+        lose your passport or need consular help.
+      </p>
     </div>
 
+    <section class="faq">
+      <h2>Frequently asked questions</h2>
+      {faq.map((f) => (
+        <details>
+          <summary>{f.q}</summary>
+          <p>{f.a}</p>
+        </details>
+      ))}
+    </section>
+
     <p class="disclosure">
-      Numbers are provided for convenience and were accurate at the time of
-      writing. Always confirm current emergency procedures with official sources
-      such as the Korea Tourism Organization (visitkorea.or.kr).
+      This is general safety information, not medical or legal advice. In any real
+      emergency call 112 or 119 immediately.
     </p>
   </article>
 </BaseLayout>

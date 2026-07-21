@@ -1,55 +1,130 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
+const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
+
+const faq = [
+  {
+    q: 'Can I use credit cards everywhere in Korea?',
+    a: 'Card acceptance is excellent — cafés, restaurants, shops, taxis, and even many street vendors take cards, and contactless is common. Carry some cash mainly for traditional markets, small local eateries, and temples.',
+  },
+  {
+    q: 'Where do I withdraw cash with a foreign card?',
+    a: 'Look for ATMs labeled "Global" or "Foreign Card" — they are common at convenience stores (GS25, CU, 7-Eleven), banks, and airports. Not every ATM accepts foreign cards, so the labeled ones are the reliable choice.',
+  },
+  {
+    q: 'Do I tip in Korea?',
+    a: 'No. Tipping is not customary and is not expected in restaurants, taxis, or hotels. Prices are as marked, and service is included.',
+  },
+  {
+    q: 'Can tourists get a tax refund?',
+    a: 'Yes. Many stores offer Tax-Free shopping on purchases above a minimum amount. Keep the receipts and claim your VAT refund at the airport kiosks before departure, or look for immediate in-store tax-free deductions.',
+  },
+];
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'WebPage', name: 'Money in Korea: Cards, Cash & Costs', description: 'Currency, cards vs cash, ATMs, tipping, and tax refunds for visitors to South Korea.', url: pageUrl, isPartOf: { '@id': `${site}/#site` } },
+    { '@type': 'BreadcrumbList', itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: site + '/' },
+      { '@type': 'ListItem', position: 2, name: 'Essentials', item: `${site}/essentials/money` },
+      { '@type': 'ListItem', position: 3, name: 'Money', item: pageUrl },
+    ] },
+    { '@type': 'FAQPage', mainEntity: faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) },
+  ],
+};
 ---
 
 <BaseLayout
-  title="Money & Payments in Korea: Cards, Cash & T-money"
-  description="How to pay in Korea as a visitor: cards vs cash, the T-money transit card, prepaid travel cards, ATMs, and where you'll still need won in hand."
+  title="Money in Korea: Cards, Cash & Costs"
+  description="The Korean won, card vs cash, where to find ATMs that take foreign cards, tipping, and tourist tax refunds — the money basics for visiting South Korea."
+  jsonLd={jsonLd}
 >
   <div class="page-hero">
     <div class="wrap">
       <p class="eyebrow">Essentials</p>
-      <h1>Money & Payments in Korea</h1>
-      <p>Cards work almost everywhere — but carry some cash too.</p>
+      <h1>Money in Korea</h1>
+      <p>Card-friendly, cash for markets, and no tipping.</p>
     </div>
   </div>
 
   <article class="article wrap">
+    <aside class="quick-answer">
+      <span class="qa-label">Quick answer</span>
+      <p>
+        The currency is the <strong>Korean won (₩ / KRW)</strong>. Cards are accepted
+        almost everywhere, so you only need modest cash for traditional markets and
+        small eateries. Withdraw won from ATMs marked <strong>"Global"</strong> at
+        convenience stores and banks. <strong>Tipping is not expected</strong>, and
+        tourists can claim <strong>tax-free refunds</strong> at the airport.
+      </p>
+    </aside>
+
     <div class="prose">
-      <h2>Quick answer</h2>
+      <h2>1. The currency</h2>
       <p>
-        Korea is highly card-friendly — most restaurants, shops, and cafés take
-        international cards. Carry some cash (Korean won) for traditional-market
-        food stalls and small vendors, and get a T-money card for transit.
+        Korea uses the <strong>won</strong> (₩, code KRW). Notes come in ₩1,000,
+        ₩5,000, ₩10,000, and ₩50,000; coins in ₩10, ₩50, ₩100, and ₩500. As a rough
+        mental model many travelers drop three zeros to sanity-check prices, but
+        exchange rates move, so check a live rate before you go.
       </p>
 
-      <h2>Cards vs cash</h2>
+      <h2>2. Cards vs cash</h2>
       <p>
-        Contactless and chip cards are accepted almost everywhere, including many
-        taxis. The main exceptions are <strong>traditional markets</strong> and
-        small independent food stalls, where cash is often preferred — so keep a
-        few small bills on you when you go to eat at markets.
+        Korea is one of the most card- and contactless-friendly countries in the
+        world. You can tap or swipe at cafés, restaurants, convenience stores, taxis,
+        and most shops, and mobile payments are ubiquitous. Keep some cash on hand for
+        <strong>traditional markets</strong> (like Gwangjang or Jagalchi), small
+        family-run eateries, temples, and the occasional street stall. A T-money
+        transit card can also be topped up with cash and used for small purchases.
       </p>
 
-      <h2>Prepaid travel & transit cards</h2>
+      <h2>3. ATMs &amp; exchanging money</h2>
       <p>
-        A <strong>T-money card</strong> covers subways, buses, and many taxis and
-        can also pay at convenience stores. Prepaid travel cards aimed at
-        visitors bundle transit with card payments and are sold at the airport
-        and convenience stores — convenient if you'd rather not carry much cash.
+        To withdraw won with a foreign card, use ATMs labeled <strong>"Global"</strong>
+        or "Foreign Card" — they're widespread at convenience stores, banks, and
+        airports, and let you switch to English. Not every machine accepts overseas
+        cards, so stick to the labeled ones. For cash exchange, licensed money
+        changers in areas like Myeongdong (Seoul) often beat airport counters on rate;
+        compare before committing.
       </p>
 
-      <h2>ATMs & currency</h2>
+      <h2>4. Tipping &amp; tax refunds</h2>
       <p>
-        Look for ATMs marked "Global" or "Foreign Card" (common in convenience
-        stores and airports) to withdraw won with an overseas card. Exchanging
-        some cash before or on arrival is handy for your first day.
+        <strong>Tipping is not part of Korean culture</strong> — you don't tip in
+        restaurants, taxis, or hotels, and the price you see is the price you pay.
+        Tourists can benefit from <strong>Tax-Free shopping</strong>: on qualifying
+        purchases above a minimum, keep your receipts and claim the VAT refund at
+        airport kiosks before departure, or use immediate in-store tax deduction where
+        offered.
       </p>
     </div>
 
+    <div class="fact-box">
+      <h4>Quick facts</h4>
+      <div class="fact-grid">
+        <div class="fact"><span class="k">Currency</span><span class="v">Won (₩ / KRW)</span></div>
+        <div class="fact"><span class="k">Cards</span><span class="v">Accepted almost everywhere</span></div>
+        <div class="fact"><span class="k">ATMs</span><span class="v">Use "Global" machines</span></div>
+        <div class="fact"><span class="k">Tipping</span><span class="v">Not expected</span></div>
+      </div>
+    </div>
+
+    <section class="faq">
+      <h2>Frequently asked questions</h2>
+      {faq.map((f) => (
+        <details>
+          <summary>{f.q}</summary>
+          <p>{f.a}</p>
+        </details>
+      ))}
+    </section>
+
     <p class="disclosure">
-      General guidance only; card acceptance, fees, and card products change.
-      Check with your bank and official sources before relying on specifics.
+      Exchange rates and tax-refund thresholds change; treat figures here as general
+      guidance and check current rates before you travel.
     </p>
   </article>
 </BaseLayout>

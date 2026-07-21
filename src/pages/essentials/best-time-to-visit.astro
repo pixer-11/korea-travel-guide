@@ -1,71 +1,125 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
+const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
+
+const faq = [
+  {
+    q: 'What is the best time to visit South Korea?',
+    a: 'Spring (April–May) and autumn (late September–November) are the most popular — mild, dry weather with cherry blossoms in spring and vivid foliage in autumn. Autumn is often considered the single best season for sightseeing.',
+  },
+  {
+    q: 'When do cherry blossoms bloom in Korea?',
+    a: 'Typically late March in the south (Jeju, Busan) and early-to-mid April in Seoul, lasting only about a week or two. Exact timing shifts yearly with the weather, so check a bloom forecast close to your trip.',
+  },
+  {
+    q: 'Is summer a bad time to visit?',
+    a: 'Summer (June–August) is hot and humid with a rainy monsoon season ("jangma") in late June to July and occasional typhoons into September. It is fine for city trips and festivals, but pack for heat and rain.',
+  },
+  {
+    q: 'Is Korea good to visit in winter?',
+    a: 'Yes, if you like cold, dry, crisp weather. Winter (December–February) brings skiing near Pyeongchang and Gangwon, snowy palaces, and fewer crowds — just dress warmly, as temperatures often drop below freezing.',
+  },
+];
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'WebPage', name: 'Best Time to Visit South Korea', description: 'Season-by-season guide to weather, cherry blossoms, autumn foliage, and festivals in South Korea.', url: pageUrl, isPartOf: { '@id': `${site}/#site` } },
+    { '@type': 'BreadcrumbList', itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: site + '/' },
+      { '@type': 'ListItem', position: 2, name: 'Essentials', item: `${site}/essentials/best-time-to-visit` },
+      { '@type': 'ListItem', position: 3, name: 'Best time to visit', item: pageUrl },
+    ] },
+    { '@type': 'FAQPage', mainEntity: faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) },
+  ],
+};
 ---
 
 <BaseLayout
-  title="Best Time to Visit Korea: Season-by-Season Guide"
-  description="When to visit Korea: spring cherry blossoms, summer heat and festivals, autumn foliage, and winter. What each season is like for travelers."
+  title="Best Time to Visit South Korea"
+  description="A season-by-season guide to Korea's weather — cherry blossoms, monsoon, autumn foliage, and winter — to help you pick the right time to visit."
+  jsonLd={jsonLd}
 >
   <div class="page-hero">
     <div class="wrap">
       <p class="eyebrow">Essentials</p>
-      <h1>Best Time to Visit Korea</h1>
-      <p>What each season is like — so you can pick yours.</p>
+      <h1>Best Time to Visit</h1>
+      <p>Four distinct seasons — pick for blossoms, foliage, or fewer crowds.</p>
     </div>
   </div>
 
   <article class="article wrap">
+    <aside class="quick-answer">
+      <span class="qa-label">Quick answer</span>
+      <p>
+        <strong>Spring (April–May)</strong> and <strong>autumn (late September–November)</strong>
+        are the best times to visit — mild and dry, with cherry blossoms in spring and
+        vivid foliage in autumn. Summer is hot, humid, and has a rainy monsoon; winter
+        is cold and dry but great for snow, skiing, and quiet palaces.
+      </p>
+    </aside>
+
     <div class="prose">
-      <h2>Quick answer</h2>
+      <h2>Spring (March–May)</h2>
       <p>
-        <strong>Spring (April–May)</strong> and <strong>autumn
-        (late September–November)</strong> are the most popular seasons — mild
-        weather, cherry blossoms in spring, and colorful foliage in autumn.
-        Summer is hot, humid, and lively with festivals; winter is cold, crisp,
-        and good for snow and quieter sightseeing.
+        Mild and increasingly dry, spring is prime season. <strong>Cherry blossoms</strong>
+        sweep north from the south — typically late March in Jeju and Busan, early-to-mid
+        April in Seoul — lasting only a week or two, so timing matters. Days are pleasant
+        for palaces, hikes, and festivals, though the most famous blossom spots get very
+        crowded. Late spring can bring occasional yellow-dust/fine-dust days.
       </p>
 
-      <div class="fact-box">
-        <h4>Season at a glance</h4>
-        <div class="fact-grid">
-          <div class="fact"><span class="k">Spring</span><span class="v">Mild · cherry blossoms · busy</span></div>
-          <div class="fact"><span class="k">Summer</span><span class="v">Hot &amp; humid · festivals · rainy spell</span></div>
-          <div class="fact"><span class="k">Autumn</span><span class="v">Crisp · foliage · great for hiking</span></div>
-          <div class="fact"><span class="k">Winter</span><span class="v">Cold · snow · quieter, cheaper</span></div>
-        </div>
-      </div>
-
-      <h2>Spring</h2>
+      <h2>Summer (June–August)</h2>
       <p>
-        Cherry blossoms sweep from the south up to Seoul over a few weeks. It's a
-        beautiful but popular time, so book accommodation early. Days are mild;
-        pack layers for cool mornings and evenings.
+        Hot and humid. The <strong>monsoon ("jangma")</strong> brings heavy rain from
+        late June into July, and typhoons are possible through September. It's still a
+        lively time for beaches (Haeundae in Busan), water festivals (like Boryeong Mud
+        Festival), and air-conditioned city sightseeing — just pack light, breathable
+        clothes, an umbrella, and sunscreen.
       </p>
 
-      <h2>Summer</h2>
+      <h2>Autumn (September–November)</h2>
       <p>
-        Expect heat and humidity, plus a rainy spell in mid-summer. It's festival
-        season — beaches, music, and night markets are at their liveliest. Stay
-        hydrated and plan indoor breaks during the hottest hours.
+        For many travelers, autumn is the <strong>single best season</strong>: clear,
+        comfortable days and spectacular foliage. Colours peak in the mountains first
+        and reach the cities roughly late October to mid-November — striking at palaces,
+        temples, and parks like Naejangsan. Weather is stable and great for walking.
       </p>
 
-      <h2>Autumn</h2>
+      <h2>Winter (December–February)</h2>
       <p>
-        Many travelers' favorite: clear skies, comfortable temperatures, and
-        striking autumn foliage in the mountains and palaces. Ideal for hiking
-        and long days of sightseeing.
-      </p>
-
-      <h2>Winter</h2>
-      <p>
-        Cold and dry, with snow in much of the country — good for ski resorts and
-        atmospheric, less-crowded sightseeing. Dress warmly in layers.
+        Cold and dry, often below freezing, with periodic snow. Winter rewards visitors
+        with <strong>skiing and snow resorts</strong> in Gangwon, snow-dusted palaces,
+        bright winter-light photography, illuminations, and noticeably thinner crowds.
+        Dress in warm layers and plan indoor breaks (museums, cafés, jjimjilbang saunas).
       </p>
     </div>
 
+    <div class="fact-box">
+      <h4>Season at a glance</h4>
+      <div class="fact-grid">
+        <div class="fact"><span class="k">Cherry blossoms</span><span class="v">Late Mar (south) – mid-Apr (Seoul)</span></div>
+        <div class="fact"><span class="k">Monsoon</span><span class="v">Late Jun – Jul</span></div>
+        <div class="fact"><span class="k">Autumn foliage</span><span class="v">Late Oct – mid-Nov</span></div>
+        <div class="fact"><span class="k">Ski season</span><span class="v">Dec – Feb</span></div>
+      </div>
+    </div>
+
+    <section class="faq">
+      <h2>Frequently asked questions</h2>
+      {faq.map((f) => (
+        <details>
+          <summary>{f.q}</summary>
+          <p>{f.a}</p>
+        </details>
+      ))}
+    </section>
+
     <p class="disclosure">
-      Seasonal patterns are general and vary year to year; check current
-      forecasts and festival dates before you plan around a specific event.
+      Bloom and foliage dates shift each year with the weather — check a current-year
+      forecast close to your trip. Figures here are typical ranges, not guarantees.
     </p>
   </article>
 </BaseLayout>

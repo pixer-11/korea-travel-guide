@@ -1,81 +1,140 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
+const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
+
+const faq = [
+  {
+    q: 'What is a T-money card and do I need one?',
+    a: 'T-money is a rechargeable tap card that works on subways, city buses, most taxis, and even convenience-store purchases nationwide. Buy one at any convenience store (GS25, CU, 7-Eleven) or subway machine for around ₩2,500–4,000, then top it up with cash. It gives a small fare discount and free transfers between bus and subway within 30 minutes.',
+  },
+  {
+    q: 'Which map app should I use in Korea?',
+    a: 'Google Maps has limited transit/driving directions in Korea. Use Naver Map or Kakao Map instead — both have English interfaces and accurate subway, bus, and walking routes. For taxis, use the Kakao T app.',
+  },
+  {
+    q: 'How do I get from Incheon Airport to Seoul?',
+    a: 'The AREX Express Train reaches Seoul Station in about 45 minutes; the cheaper AREX all-stop train and limousine buses also serve the city. A taxi takes 60–90 minutes and costs considerably more.',
+  },
+  {
+    q: 'Is the KTX worth it for travel between cities?',
+    a: 'Yes — the KTX high-speed train links Seoul to Busan in about 2.5 hours and to other major cities quickly and comfortably. Book on the Korail app or at the station; reserved seats are recommended on weekends and holidays.',
+  },
+];
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'WebPage', name: 'Getting Around Korea: Transport Guide', description: 'T-money, subway, KTX, buses, taxis, and airport transfers for visitors to South Korea.', url: pageUrl, isPartOf: { '@id': `${site}/#site` } },
+    { '@type': 'BreadcrumbList', itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: site + '/' },
+      { '@type': 'ListItem', position: 2, name: 'Essentials', item: `${site}/essentials/transport` },
+      { '@type': 'ListItem', position: 3, name: 'Getting around', item: pageUrl },
+    ] },
+    { '@type': 'FAQPage', mainEntity: faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) },
+  ],
+};
 ---
 
 <BaseLayout
-  title="Getting Around Korea: Transport Guide for Visitors"
-  description="How to get around Korea as a visitor: the T-money card, subway and buses, KTX trains, taxis, and why you need Naver Map or KakaoMap instead of Google Maps."
+  title="Getting Around Korea: Transport Guide"
+  description="How to use the T-money card, subway, KTX, buses, taxis, and airport transfers in South Korea — the practical basics for visitors."
+  jsonLd={jsonLd}
 >
   <div class="page-hero">
     <div class="wrap">
       <p class="eyebrow">Essentials</p>
       <h1>Getting Around Korea</h1>
-      <p>The card, the apps, and the trains you'll actually use.</p>
+      <p>One tap card, a great subway, and fast trains between cities.</p>
     </div>
   </div>
 
   <article class="article wrap">
+    <aside class="quick-answer">
+      <span class="qa-label">Quick answer</span>
+      <p>
+        Buy a <strong>T-money card</strong> at any convenience store and tap it on
+        subways, buses, and taxis nationwide. Navigate with <strong>Naver Map</strong>
+        or <strong>Kakao Map</strong> (not Google Maps), hail cabs with
+        <strong>Kakao T</strong>, and take the <strong>KTX</strong> high-speed train
+        between cities (Seoul–Busan in ~2.5 hours).
+      </p>
+    </aside>
+
     <div class="prose">
-      <h2>Quick answer</h2>
+      <h2>1. Get a T-money card first</h2>
       <p>
-        Get a <strong>T-money card</strong> for the subway and buses, download
-        <strong>Naver Map</strong> or <strong>KakaoMap</strong> for directions
-        (Google Maps walking/driving directions are limited in Korea), and use
-        <strong>KTX</strong> high-speed trains between cities.
+        The rechargeable T-money card is the single most useful thing you can buy on
+        arrival. It works on the subway, city buses, most taxis, and even for small
+        purchases at convenience stores across the country. Pick one up at any
+        convenience store or subway vending machine (around ₩2,500–4,000 for the
+        card), then load it with cash. Tapping in and out gives a small discount over
+        single tickets and unlocks free transfers between bus and subway within 30
+        minutes — the backbone of cheap city travel.
       </p>
 
-      <h2>The T-money card</h2>
+      <h2>2. City subways &amp; buses</h2>
       <p>
-        T-money is a rechargeable transit card that works on subways, city
-        buses, many taxis, and even convenience stores nationwide. Buy one at any
-        convenience store (CU, GS25, 7-Eleven) or subway station machine, then
-        top it up with cash. Tap on and off — it's cheaper and far faster than
-        buying single tickets, and one card can pay for several people on buses.
+        Seoul, Busan, Daegu, Gwangju, Daejeon, and Incheon all have clean, punctual,
+        English-signed subways. Base fares are low (roughly ₩1,400–1,500 in Seoul,
+        increasing with distance), and trains run from about 5:30 am to midnight.
+        City buses are colour-coded by route type; tap your T-money on boarding and
+        again when you get off. Because Google Maps transit is limited in Korea,
+        plan routes with <strong>Naver Map</strong> or <strong>Kakao Map</strong>.
       </p>
 
-      <h2>Why Google Maps isn't enough in Korea</h2>
+      <h2>3. Between cities: KTX &amp; intercity buses</h2>
       <p>
-        For legal reasons, Google Maps in Korea cannot give full turn-by-turn
-        walking or driving directions. Use a local app instead:
+        The <strong>KTX</strong> high-speed rail is the fastest way between major
+        cities — Seoul to Busan in about 2.5 hours, with frequent departures. Book
+        via the Korail app or at station machines and counters; reserve ahead on
+        weekends and holidays. Intercity and express buses reach smaller towns the
+        train doesn't, are comfortable, and are often cheaper — book at terminals or
+        via bus apps.
       </p>
 
-      <div class="fact-box">
-        <h4>Navigation apps</h4>
-        <div class="fact-grid">
-          <div class="fact"><span class="k">Naver Map</span><span class="v">Best all-round; English support</span></div>
-          <div class="fact"><span class="k">KakaoMap</span><span class="v">Great for transit &amp; walking</span></div>
-          <div class="fact"><span class="k">Kakao T</span><span class="v">Hailing taxis</span></div>
-          <div class="fact"><span class="k">Google Maps</span><span class="v">Fine for finding places, not directions</span></div>
-        </div>
-      </div>
-
-      <h2>Trains between cities</h2>
+      <h2>4. Taxis</h2>
       <p>
-        <strong>KTX</strong> high-speed trains connect Seoul with Busan, Gwangju,
-        Gangneung and more — often faster and easier than flying for domestic
-        trips. Reserve seats in advance during holidays and weekends. Regular
-        (slower, cheaper) trains and intercity buses cover routes KTX doesn't.
+        Taxis are metered and reasonably priced. The easiest way to hail one (and
+        avoid language barriers over your destination) is the <strong>Kakao T</strong>
+        app, which lets you set a pin and pay by card. Regular taxis also accept
+        T-money and credit cards. Late-night fares carry a surcharge.
       </p>
 
-      <h2>Taxis</h2>
+      <h2>5. Airport transfers</h2>
       <p>
-        Taxis are metered and reasonably priced. The <strong>Kakao T</strong>
-        app lets you hail one without speaking Korean and pay by card. Have your
-        destination written in Korean or shown on a map to avoid confusion.
-      </p>
-
-      <h2>From the airport</h2>
-      <p>
-        From Incheon International Airport, the <strong>AREX</strong> train and
-        airport limousine buses reach central Seoul directly; a T-money card
-        works on both. Allow extra time during peak travel seasons.
+        From Incheon International Airport (ICN), the <strong>AREX</strong> Express
+        Train reaches Seoul Station in about 45 minutes; the all-stop AREX and
+        limousine buses are cheaper and serve many neighborhoods directly. Gimpo
+        (GMP) connects to the city by subway. Buy a T-money card at the airport
+        before you head into town.
       </p>
     </div>
 
+    <div class="fact-box">
+      <h4>Handy apps &amp; sites</h4>
+      <div class="fact-grid">
+        <div class="fact"><span class="k">Maps</span><span class="v">Naver Map · Kakao Map</span></div>
+        <div class="fact"><span class="k">Taxi</span><span class="v">Kakao T</span></div>
+        <div class="fact"><span class="k">Trains</span><span class="v"><a href="https://www.letskorail.com" target="_blank" rel="noopener nofollow">Korail (KTX)</a></span></div>
+        <div class="fact"><span class="k">Tourism info</span><span class="v"><a href="https://english.visitkorea.or.kr" target="_blank" rel="noopener nofollow">VisitKorea</a></span></div>
+      </div>
+    </div>
+
+    <section class="faq">
+      <h2>Frequently asked questions</h2>
+      {faq.map((f) => (
+        <details>
+          <summary>{f.q}</summary>
+          <p>{f.a}</p>
+        </details>
+      ))}
+    </section>
+
     <p class="disclosure">
-      General guidance for visitors. Fares, routes, and app features change —
-      confirm current details with official sources such as the Korea Tourism
-      Organization before you rely on them.
+      Fares and schedules change — the figures here are approximate guidance, not
+      current prices. Confirm on the official apps and sites above before you travel.
     </p>
   </article>
 </BaseLayout>
