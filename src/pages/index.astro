@@ -2,7 +2,6 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from '../components/PostCard.astro';
-import LineRipple from '../components/LineRipple.tsx';
 import { SITE } from '../siteConfig';
 import countriesData from '../../data/countries.json';
 
@@ -16,6 +15,33 @@ const cover = flagship.map((s) => posts.find((p) => p.id === s)).find(Boolean) ?
 const rest = posts.filter((p) => p.id !== cover?.id);
 const latest = rest.slice(0, 3);
 const moreGuides = rest.slice(3, 9);
+
+// Hero photo wall — many destination photos, shuffled per build so the set
+// rotates as content grows / on each daily rebuild.
+const seed = Number(new Date().toISOString().slice(0, 10).replace(/-/g, '')) || 1;
+function shuffle(arr) {
+  const a = [...arr];
+  let s = seed;
+  for (let i = a.length - 1; i > 0; i--) {
+    s = (s * 9301 + 49297) % 233280;
+    const j = Math.floor((s / 233280) * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+// Shrink wall thumbnails so the hero stays light (Unsplash supports width param).
+const thumb = (url) =>
+  url.includes('images.unsplash.com') ? url.replace(/([?&])w=\d+/, '$1w=560') : url;
+const wallPool = [
+  ...new Map(
+    posts
+      .filter((p) => p.data.heroImage?.url && !p.data.heroImage.url.includes('placeholder'))
+      .map((p) => [p.data.heroImage.url, { url: thumb(p.data.heroImage.url) }])
+  ).values(),
+];
+const wall = shuffle(wallPool).slice(0, 12);
+const wallRow1 = wall.slice(0, 6);
+const wallRow2 = wall.slice(6, 12);
 
 const countFor = (name) => posts.filter((p) => (p.data.country ?? 'South Korea') === name).length;
 const countries = countriesData.countries.map((c) => ({ ...c, count: countFor(c.name) }));
@@ -38,29 +64,30 @@ const koreaLinks = [
   description={SITE.description}
   image={cover?.data.heroImage?.url}
 >
-  <!-- ===== Hero cover story ===== -->
-  {cover && (
-    <section class="cover">
-      <img
-        class="cover-img"
-        src={cover.data.heroImage?.url ?? '/images/placeholder-market.svg'}
-        alt={cover.data.place?.name ?? cover.data.title}
-        fetchpriority="high"
-        width="1600"
-        height="900"
-      />
-      <div class="cover-scrim"></div>
-      <div class="cover-sparkle" aria-hidden="true">
-        <LineRipple client:idle strokeColor="#e6c98a" count={30} movement={12} force={3} resolution={9} />
+  <!-- ===== Hero: endlessly flowing destination photo wall ===== -->
+  <section class="hero-wall">
+    <div class="wall-rows" aria-hidden="true">
+      <div class="wall-row r1">
+        {[...wallRow1, ...wallRow1].map((im) => <img src={im.url} alt="" decoding="async" />)}
       </div>
-      <div class="cover-inner wrap">
-        <p class="kicker gold">The {cover.data.country ?? 'Korea'} Edition · Featured</p>
-        <h1>{cover.data.title}</h1>
-        <p class="cover-dek">{cover.data.description}</p>
-        <a class="cover-cta" href={`/posts/${cover.id}`}>Read the guide <span class="arw">→</span></a>
+      <div class="wall-row r2">
+        {[...wallRow2, ...wallRow2].map((im) => <img src={im.url} alt="" decoding="async" />)}
       </div>
-    </section>
-  )}
+    </div>
+    <div class="cover-scrim"></div>
+    <div class="cover-inner wrap">
+      <p class="kicker gold">{SITE.tagline}</p>
+      <h1>Detailed travel guides for the whole world.</h1>
+      <p class="cover-dek">
+        Honest, editor-reviewed guides — where to go, what to eat, and how to get
+        around. We go deep on one country at a time, starting with South Korea.
+      </p>
+      <div class="cover-cta-row">
+        <a class="cover-cta" href="/destinations">Explore destinations <span class="arw">→</span></a>
+        {cover && <a class="cover-cta cover-cta-soft" href={`/posts/${cover.id}`}>Featured: {cover.data.region} <span class="arw">→</span></a>}
+      </div>
+    </div>
+  </section>
 
   <!-- ===== Latest stories ===== -->
   {latest.length > 0 && (

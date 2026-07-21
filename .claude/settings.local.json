@@ -87,7 +87,9 @@
       "WebFetch(domain:www.atlasobscura.com)",
       "Bash(git commit -q -m 'brand: launch '\\\\''Wander Atlas'\\\\'' — logo, favicon, global chrome + /destinations hubs *)",
       "Bash(git commit -q -m 'home: rebuild as a magazine-quality global homepage \\(design-spec driven\\) *)",
-      "Bash(git commit -q -m 'nav: remove Korea-specific Visa/Emergency from the global header *)"
+      "Bash(git commit -q -m 'nav: remove Korea-specific Visa/Emergency from the global header *)",
+      "mcp__b3158d46-62b2-45ff-bf5b-e29ed7b52614__search",
+      "Bash(git commit -q -m 'home: replace single hero with an endlessly-flowing destination photo wall *)"
     ]
   }
 }
