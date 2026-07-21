@@ -114,7 +114,11 @@ async function main() {
       published++;
       console.log(`  ✅  published: ${post.slug}`);
     } catch (err) {
-      console.log(`  ⚠️  error on "${target.query}": ${err.message}`);
+      console.log(`  ⚠️  error on "${target.query}": ${err.message.slice(0, 120)}`);
+      if (/\b429\b|RESOURCE_EXHAUSTED|Quota exceeded/i.test(err.message)) {
+        console.log('  ⛔ Google Places daily quota exhausted — stopping this run (targets not marked done; will retry after reset).');
+        break;
+      }
     }
   }
 
