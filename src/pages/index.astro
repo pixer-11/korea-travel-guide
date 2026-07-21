@@ -3,71 +3,191 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from '../components/PostCard.astro';
 import LineRipple from '../components/LineRipple.tsx';
+import { SITE } from '../siteConfig';
+import countriesData from '../../data/countries.json';
 
 const posts = (await getCollection('posts', ({ data }) => !data.draft)).sort(
   (a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime()
 );
 
-const [featured, ...rest] = posts;
-const regions = ['Seoul', 'Busan', 'Jeju', 'Gyeongju', 'Incheon'];
+// Cover story: prefer a visually strong flagship, else newest.
+const flagship = ['jeju-seongsan-ilchulbong', 'seoul-gyeongbokgung-palace', 'sokcho-seoraksan-cable-car', 'busan-haeundae'];
+const cover = flagship.map((s) => posts.find((p) => p.id === s)).find(Boolean) ?? posts[0];
+const rest = posts.filter((p) => p.id !== cover?.id);
+const latest = rest.slice(0, 3);
+const moreGuides = rest.slice(3, 9);
+
+const countFor = (name) => posts.filter((p) => (p.data.country ?? 'South Korea') === name).length;
+const countries = countriesData.countries.map((c) => ({ ...c, count: countFor(c.name) }));
+const live = countries.filter((c) => c.active);
+const soon = countries.filter((c) => !c.active);
+
+// Curated entry points for the Korea spotlight (link to region hubs / pillars).
+const koreaLinks = [
+  { label: 'Seoul', href: '/regions/seoul' },
+  { label: 'Busan', href: '/regions/busan' },
+  { label: 'Jeju', href: '/regions/jeju' },
+  { label: 'Gyeongju', href: '/regions/gyeongju' },
+  { label: 'When to go', href: '/essentials/best-time-to-visit' },
+  { label: 'Getting around', href: '/essentials/transport' },
+];
 ---
 
 <BaseLayout
-  title="Korea Travel Guide for International Visitors"
-  description="Your complete guide to traveling in Korea — attractions, food, hidden gems, visas, transport, and emergency info. Everything a visitor needs, in one place."
+  title={`${SITE.name} — ${SITE.tagline}`}
+  description={SITE.description}
+  image={cover?.data.heroImage?.url}
 >
-  <!-- Hero -->
-  <section class="hero">
-    <div class="hero-orbs" aria-hidden="true">
-      <span></span><span></span><span></span>
-    </div>
-    <div class="hero-sparkle" aria-hidden="true">
-      <LineRipple client:load strokeColor="#c8443a" count={36} movement={16} force={4} resolution={9} />
-    </div>
-    <div class="wrap">
-      <p class="eyebrow">For international visitors</p>
-      <h1>Everything you need to travel <em>Korea</em></h1>
-      <p>
-        Attractions, food, and hidden gems — plus the practical stuff visitors
-        actually need: visas, transport, and emergencies. All in one place.
-      </p>
-      <div class="cta-row">
-        <a class="btn btn-primary" href="/regions/seoul">Explore Seoul →</a>
-        <a class="btn btn-ghost" href="/essentials/visa">Visa & entry</a>
+  <!-- ===== Hero cover story ===== -->
+  {cover && (
+    <section class="cover">
+      <img
+        class="cover-img"
+        src={cover.data.heroImage?.url ?? '/images/placeholder-market.svg'}
+        alt={cover.data.place?.name ?? cover.data.title}
+        fetchpriority="high"
+        width="1600"
+        height="900"
+      />
+      <div class="cover-scrim"></div>
+      <div class="cover-sparkle" aria-hidden="true">
+        <LineRipple client:idle strokeColor="#e6c98a" count={30} movement={12} force={3} resolution={9} />
       </div>
-    </div>
-  </section>
-
-  <!-- Featured -->
-  {featured && (
-    <section class="section">
-      <div class="wrap">
-        <div class="section-head"><h2>Featured guide</h2></div>
-        <a class="featured" href={`/posts/${featured.id}`}>
-          <div class="thumb">
-            <img src={featured.data.heroImage?.url ?? '/images/placeholder-market.svg'} alt={featured.data.title} />
-          </div>
-          <div class="card-body">
-            <span class="badge">{featured.data.category.replace('-', ' ')}</span>
-            <span class="region-label">{featured.data.region}</span>
-            <h3>{featured.data.title}</h3>
-            <p>{featured.data.description}</p>
-            <span class="btn btn-ghost" style="align-self:flex-start;margin-top:0.6rem">Read guide →</span>
-          </div>
-        </a>
+      <div class="cover-inner wrap">
+        <p class="kicker gold">The {cover.data.country ?? 'Korea'} Edition · Featured</p>
+        <h1>{cover.data.title}</h1>
+        <p class="cover-dek">{cover.data.description}</p>
+        <a class="cover-cta" href={`/posts/${cover.id}`}>Read the guide <span class="arw">→</span></a>
       </div>
     </section>
   )}
 
-  <!-- Latest -->
-  {rest.length > 0 && (
+  <!-- ===== Latest stories ===== -->
+  {latest.length > 0 && (
     <section class="section">
       <div class="wrap">
-        <div class="section-head">
-          <h2>Latest guides</h2>
+        <div class="rule-head"><span class="kicker">Latest stories</span></div>
+        <div class="stories">
+          {latest.map((post) => (
+            <a class="story" href={`/posts/${post.id}`}>
+              <div class="story-thumb">
+                <img src={post.data.heroImage?.url ?? '/images/placeholder-market.svg'} alt={post.data.place?.name ?? post.data.title} loading="lazy" width="600" height="400" />
+              </div>
+              <span class="kicker gold">{post.data.category.replace('-', ' ')}</span>
+              <h3>{post.data.title}</h3>
+              <p class="story-meta">{post.data.region} · {post.data.country ?? 'South Korea'}</p>
+            </a>
+          ))}
         </div>
+      </div>
+    </section>
+  )}
+
+  <!-- ===== Featured destination: South Korea ===== -->
+  <section class="section">
+    <div class="wrap">
+      <div class="spotlight">
+        <div class="spotlight-media">
+          <img src={cover?.data.heroImage?.url ?? '/images/placeholder-market.svg'} alt="South Korea" loading="lazy" width="800" height="1000" />
+        </div>
+        <div class="spotlight-body">
+          <p class="kicker gold">🇰🇷 Destination</p>
+          <h2>South Korea</h2>
+          <p>
+            Our launch destination — {countFor('South Korea')} in-depth guides and counting.
+            Joseon palaces and neon night markets, temple stays and trendy cafés, mountains,
+            beaches, and some of the best food on earth, all wrapped in a country that's
+            astonishingly easy to get around.
+          </p>
+          <div class="spotlight-links">
+            {koreaLinks.map((l) => <a href={l.href}>{l.label}</a>)}
+          </div>
+          <a class="btn btn-primary" href="/destinations/south-korea">Explore South Korea →</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== Destinations bento ===== -->
+  <section class="section">
+    <div class="wrap">
+      <div class="rule-head">
+        <span class="kicker">Destinations</span>
+        <a href="/destinations" class="rule-link">All destinations →</a>
+      </div>
+      <p class="bento-note">Eight countries. One live, seven on the way — we launch a destination only when the guides are ready.</p>
+      <div class="dest-bento">
+        {live.map((c) => (
+          <a class="dest-tile dest-live" href={`/destinations/${c.slug}`} style={`background-image:url(${cover?.data.heroImage?.url})`}>
+            <span class="dest-ribbon">Now live</span>
+            <div class="dest-tile-inner">
+              <span class="dest-flag">{c.flag}</span>
+              <h3>{c.name}</h3>
+              <p>{c.count} guides →</p>
+            </div>
+          </a>
+        ))}
+        {soon.map((c) => (
+          <div class="dest-tile dest-soon">
+            <div class="dest-tile-inner">
+              <span class="dest-flag">{c.flag}</span>
+              <h3>{c.name}</h3>
+              <p class="dest-pill">Coming soon</p>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== Essentials band ===== -->
+  <section class="section band">
+    <div class="wrap">
+      <div class="rule-head"><span class="kicker">Travel essentials</span></div>
+      <div class="essentials-strip">
+        <a class="essential-card" href="/essentials/visa"><span class="ico">🛂</span><div><h3>Visa & entry</h3><p>Visa-free, K-ETA, and the e-Arrival Card.</p></div></a>
+        <a class="essential-card" href="/essentials/transport"><span class="ico">🚇</span><div><h3>Getting around</h3><p>T-money, subway, KTX, and the right map apps.</p></div></a>
+        <a class="essential-card" href="/essentials/money"><span class="ico">💳</span><div><h3>Money & costs</h3><p>Cards vs cash, ATMs, tipping, tax refunds.</p></div></a>
+        <a class="essential-card" href="/essentials/best-time-to-visit"><span class="ico">🌸</span><div><h3>Best time to visit</h3><p>Blossoms, foliage, festivals, snow.</p></div></a>
+        <a class="essential-card" href="/essentials/emergency"><span class="ico">🚨</span><div><h3>Emergency & help</h3><p>112, 119, and the 24/7 1330 hotline.</p></div></a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== Why Wander Atlas ===== -->
+  <section class="section">
+    <div class="wrap">
+      <div class="trust">
+        <div><h3>Editor-reviewed</h3><p>AI-assisted, human-standards. We disclose how every guide is made.</p></div>
+        <div><h3>Real places, real facts</h3><p>Ratings, addresses, and hours come from live data — never invented.</p></div>
+        <div><h3>Updated continuously</h3><p>New guides daily, and we re-check venues so closed spots drop off.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== Newsletter ===== -->
+  <section class="newsletter">
+    <div class="wrap">
+      <div class="nl-inner">
+        <p class="kicker gold">The Wander Atlas newsletter</p>
+        <h2>One genuinely useful travel guide, every week.</h2>
+        <p class="nl-dek">New destinations, insider itineraries, and the practical stuff that saves your trip. No spam — unsubscribe anytime.</p>
+        <form class="nl-form" id="nl-form" novalidate>
+          <input type="email" name="email" placeholder="you@email.com" aria-label="Email address" required />
+          <button type="submit" class="btn btn-primary">Subscribe</button>
+        </form>
+        <p class="nl-note" id="nl-note" hidden></p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== More guides ===== -->
+  {moreGuides.length > 0 && (
+    <section class="section">
+      <div class="wrap">
+        <div class="rule-head"><span class="kicker">More to read</span></div>
         <div class="grid">
-          {rest.map((post) => (
+          {moreGuides.map((post) => (
             <PostCard
               href={`/posts/${post.id}`}
               title={post.data.title}
@@ -82,70 +202,29 @@ const regions = ['Seoul', 'Busan', 'Jeju', 'Gyeongju', 'Incheon'];
     </section>
   )}
 
-  <!-- Regions -->
-  <section class="section">
-    <div class="wrap">
-      <div class="section-head"><h2>Explore by region</h2></div>
-      <div class="region-grid">
-        {regions.map((r) => (
-          <a class="region-tile" href={`/regions/${r.toLowerCase()}`}><span>{r}</span></a>
-        ))}
-      </div>
-    </div>
-  </section>
-
-  <!-- Essentials -->
-  <section class="section">
-    <div class="wrap">
-      <div class="section-head">
-        <h2>Before you go</h2>
-        <a href="/essentials/visa">All essentials →</a>
-      </div>
-      <div class="essentials-strip">
-        <a class="essential-card" href="/essentials/visa">
-          <span class="ico">🛂</span>
-          <div><h3>Visa & entry</h3><p>Visa-free, K-ETA, and what to check for your nationality.</p></div>
-        </a>
-        <a class="essential-card" href="/essentials/transport">
-          <span class="ico">🚇</span>
-          <div><h3>Getting around</h3><p>T-money, subway, KTX, and the map apps you actually need.</p></div>
-        </a>
-        <a class="essential-card" href="/essentials/money">
-          <span class="ico">💳</span>
-          <div><h3>Money & payments</h3><p>Cards vs cash, T-money, and where you'll still need won.</p></div>
-        </a>
-        <a class="essential-card" href="/essentials/best-time-to-visit">
-          <span class="ico">🌸</span>
-          <div><h3>Best time to visit</h3><p>Season by season — blossoms, foliage, festivals, snow.</p></div>
-        </a>
-        <a class="essential-card" href="/essentials/emergency">
-          <span class="ico">🚨</span>
-          <div><h3>Emergency & help</h3><p>112, 119, and the 24/7 multilingual 1330 hotline.</p></div>
-        </a>
-        <a class="essential-card" href="/about">
-          <span class="ico">✅</span>
-          <div><h3>How we work</h3><p>Accurate, licensed, transparent — our editorial policy.</p></div>
-        </a>
-      </div>
-    </div>
-  </section>
-
   <script>
-    // Progressive scroll-reveal: JS adds the hidden state (so no-JS users and
-    // crawlers still see everything), then reveals on scroll with a light stagger.
+    // Scroll-reveal (fail-open) for cards + the destinations bento.
     const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
     if (!reduce && 'IntersectionObserver' in window) {
-      const els = Array.from(document.querySelectorAll('main .card, main .featured, main .region-tile, main .essential-card')) as HTMLElement[];
-      const reveal = (el: HTMLElement) => el.classList.add('in');
+      const els = Array.from(document.querySelectorAll('main .story, main .dest-tile, main .essential-card, main .card')) as HTMLElement[];
       els.forEach((el) => el.classList.add('js-reveal'));
       const io = new IntersectionObserver((entries, obs) => {
-        entries.forEach((entry) => {
-          if (entry.isIntersecting) { reveal(entry.target as HTMLElement); obs.unobserve(entry.target); }
-        });
+        entries.forEach((e) => { if (e.isIntersecting) { (e.target as HTMLElement).classList.add('in'); obs.unobserve(e.target); } });
       }, { threshold: 0.1, rootMargin: '0px 0px -30px 0px' });
       els.forEach((el) => io.observe(el));
-      // Fail-open: content must NEVER stay hidden, whatever happens.
-      setTimeout(() => els.forEach(reveal), 1500);
+      setTimeout(() => els.forEach((el) => el.classList.add('in')), 1500);
     }
+    // Newsletter: no ESP wired yet — capture intent gracefully (Phase 2 hooks this to the provider).
+    const form = document.getElementById('nl-form') as HTMLFormElement | null;
+    const note = document.getElementById('nl-note') as HTMLElement | null;
+    form?.addEventListener('submit', (e) => {
+      e.preventDefault();
+      const email = (form.querySelector('input[name=email]') as HTMLInputElement)?.value?.trim();
+      if (!email || !/.+@.+\..+/.test(email)) { if (note) { note.hidden = false; note.textContent = 'Please enter a valid email.'; } return; }
+      form.reset();
+      // NOTE: not yet connected to an email provider — we intentionally do NOT
+      // claim to have stored the address. Phase 2 wires this to the ESP.
+      if (note) { note.hidden = false; note.textContent = 'Our newsletter is launching soon — subscriptions open shortly. Thanks for your interest!'; }
+    });
   </script>
 </BaseLayout>
