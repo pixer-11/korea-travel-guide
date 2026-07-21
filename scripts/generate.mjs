@@ -61,9 +61,18 @@ async function main() {
 
   const { targets } = JSON.parse(await readFile(TARGETS_FILE, 'utf8'));
   const { countries } = JSON.parse(await readFile(COUNTRIES_FILE, 'utf8'));
-  const onlyCountry = process.env.COUNTRY; // optional: fill one country at a time
+  const onlyCountry = (process.env.COUNTRY || '').trim(); // optional: fill one country
   let activeCountries = (countries ?? []).filter((c) => c.active);
-  if (onlyCountry) activeCountries = activeCountries.filter((c) => c.name === onlyCountry);
+  if (onlyCountry) {
+    const aliases = { usa: 'united states', us: 'united states', america: 'united states', uk: 'united kingdom', korea: 'south korea', kr: 'south korea', jp: 'japan', nippon: 'japan' };
+    const q = onlyCountry.toLowerCase();
+    const target = aliases[q] || q;
+    const matched = activeCountries.filter(
+      (c) => c.name.toLowerCase() === target || c.slug === target || c.slug.replace(/-/g, ' ') === target
+    );
+    if (matched.length) activeCountries = matched;
+    else console.log(`⚠️  COUNTRY "${onlyCountry}" matched no active country — generating for ALL active instead.`);
+  }
   const done = await loadPublished();
   const existing = new Set(
     (await readdir(POSTS_DIR)).map((f) => f.replace(/\.md$/, ''))
