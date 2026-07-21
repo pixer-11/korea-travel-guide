@@ -5,8 +5,11 @@
 // real confirmation happens via an email we don't send ourselves). The endpoint
 // returns {"success":true} with open CORS, so we read it for accurate feedback.
 import { SITE } from '../siteConfig';
-interface Props { compact?: boolean }
-const { compact = false } = Astro.props;
+import { getLangFromUrl, useTranslations, type Lang } from '../i18n/utils';
+interface Props { compact?: boolean; lang?: Lang }
+const { compact = false, lang: langProp } = Astro.props;
+const lang = langProp ?? getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
 // Public embedded-form endpoint (account 2523042 · form 193609989933237794).
 // Not a secret — it's the same URL in MailerLite's public embed code.
 const ML_ACTION = 'https://assets.mailerlite.com/jsonp/2523042/forms/193609989933237794/subscribe';
@@ -14,12 +17,12 @@ const ML_ACTION = 'https://assets.mailerlite.com/jsonp/2523042/forms/19360998993
 <section class:list={['newsletter', { 'newsletter-compact': compact }]}>
   <div class="wrap">
     <div class="nl-inner">
-      <p class="kicker gold">The {SITE.name} newsletter</p>
-      <h2>{compact ? 'Get one useful travel guide a week.' : 'One genuinely useful travel guide, every week.'}</h2>
-      <p class="nl-dek">New destinations, insider itineraries, and the practical stuff that saves your trip. No spam — unsubscribe anytime.</p>
+      <p class="kicker gold">{SITE.name} {t('home.newsletterKicker')}</p>
+      <h2>{t('home.newsletterTitle')}</h2>
+      <p class="nl-dek">{t('home.newsletterDek')}</p>
       <form class="nl-form" data-ml-action={ML_ACTION} novalidate>
         <input type="email" name="email" placeholder="you@email.com" aria-label="Email address" autocomplete="email" required />
-        <button type="submit" class="btn btn-primary">Subscribe</button>
+        <button type="submit" class="btn btn-primary">{t('home.subscribe')}</button>
       </form>
       <p class="nl-note" hidden aria-live="polite"></p>
     </div>

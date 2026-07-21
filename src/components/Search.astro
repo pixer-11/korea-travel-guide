@@ -1,10 +1,12 @@
 ---
 // Client-side search over the build-time index (/search.json). Type a country,
 // city, or place name and jump straight to it.
+interface Props { placeholder?: string }
+const { placeholder = 'Search a country, city, or place…' } = Astro.props;
 ---
 <div class="site-search" data-search>
   <svg class="search-ico" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7" /><line x1="21" y1="21" x2="16.65" y2="16.65" /></svg>
-  <input type="search" class="search-input" placeholder="Search a country, city, or place…" autocomplete="off" spellcheck="false" aria-label="Search destinations" />
+  <input type="search" class="search-input" placeholder={placeholder} autocomplete="off" spellcheck="false" aria-label="Search destinations" />
   <div class="search-results" role="listbox" hidden></div>
 </div>
 

@@ -1,0 +1,220 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostCard from './PostCard.astro';
+import Newsletter from './Newsletter.astro';
+import Search from './Search.astro';
+import { SITE } from '../siteConfig';
+import { useTranslations, type Lang } from '../i18n/utils';
+import countriesData from '../../data/countries.json';
+import wallData from '../../data/wall.json';
+
+interface Props { lang: Lang }
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+
+const posts = (await getCollection('posts', ({ data }) => !data.draft)).sort(
+  (a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime()
+);
+
+const flagship = ['jeju-seongsan-ilchulbong', 'seoul-gyeongbokgung-palace', 'sokcho-seoraksan-cable-car', 'busan-haeundae'];
+const cover = flagship.map((s) => posts.find((p) => p.id === s)).find(Boolean) ?? posts[0];
+const rest = posts.filter((p) => p.id !== cover?.id);
+const latest = rest.slice(0, 3);
+const moreGuides = rest.slice(3, 9);
+
+const seed = Number(new Date().toISOString().slice(0, 10).replace(/-/g, '')) || 1;
+function shuffle(arr) {
+  const a = [...arr];
+  let s = seed;
+  for (let i = a.length - 1; i > 0; i--) {
+    s = (s * 9301 + 49297) % 233280;
+    const j = Math.floor((s / 233280) * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+const wall = shuffle(wallData.images ?? []).slice(0, 12).map((url) => ({ url }));
+const wallRow1 = wall.slice(0, 6);
+const wallRow2 = wall.slice(6, 12);
+
+const countFor = (name) => posts.filter((p) => (p.data.country ?? 'South Korea') === name).length;
+const countries = countriesData.countries.map((c) => ({ ...c, count: countFor(c.name) }));
+const live = countries.filter((c) => c.count > 0);
+const soon = countries.filter((c) => c.count === 0);
+const repImage = (name) => {
+  const p = posts.find(
+    (p) => (p.data.country ?? 'South Korea') === name && p.data.heroImage?.url && !p.data.heroImage.url.includes('placeholder')
+  );
+  return p?.data.heroImage?.url ?? '';
+};
+
+const koreaLinks = [
+  { label: 'Seoul', href: '/regions/seoul' },
+  { label: 'Busan', href: '/regions/busan' },
+  { label: 'Jeju', href: '/regions/jeju' },
+  { label: 'Gyeongju', href: '/regions/gyeongju' },
+];
+---
+
+<BaseLayout
+  title={`${SITE.name} — ${t('home.tagline')}`}
+  description={t('home.heroDek')}
+  image={cover?.data.heroImage?.url}
+  localized={true}
+>
+  <section class="hero-wall">
+    <div class="wall-rows" aria-hidden="true">
+      <div class="wall-row r1">
+        {[...wallRow1, ...wallRow1].map((im) => <img src={im.url} alt="" decoding="async" />)}
+      </div>
+      <div class="wall-row r2">
+        {[...wallRow2, ...wallRow2].map((im) => <img src={im.url} alt="" decoding="async" />)}
+      </div>
+    </div>
+    <div class="cover-scrim"></div>
+    <div class="cover-inner wrap">
+      <p class="kicker gold">{t('home.tagline')}</p>
+      <h1>{t('home.heroTitle')}</h1>
+      <p class="cover-dek">{t('home.heroDek')}</p>
+      <Search placeholder={t('home.searchPlaceholder')} />
+      <div class="cover-cta-row">
+        <a class="cover-cta" href="/destinations">{t('home.exploreDestinations')} <span class="arw">→</span></a>
+        {cover && <a class="cover-cta cover-cta-soft" href={`/posts/${cover.id}`}>{t('home.featured')}: {cover.data.region} <span class="arw">→</span></a>}
+      </div>
+    </div>
+  </section>
+
+  {latest.length > 0 && (
+    <section class="section">
+      <div class="wrap">
+        <div class="rule-head"><span class="kicker">{t('home.latestStories')}</span></div>
+        <div class="stories">
+          {latest.map((post) => (
+            <a class="story" href={`/posts/${post.id}`}>
+              <div class="story-thumb">
+                <img src={post.data.heroImage?.url ?? '/images/placeholder-market.svg'} alt={post.data.place?.name ?? post.data.title} loading="lazy" width="600" height="400" />
+              </div>
+              <span class="kicker gold">{post.data.category.replace('-', ' ')}</span>
+              <h3>{post.data.title}</h3>
+              <p class="story-meta">{post.data.region} · {post.data.country ?? 'South Korea'}</p>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <section class="section">
+    <div class="wrap">
+      <div class="spotlight">
+        <div class="spotlight-media">
+          <img src={cover?.data.heroImage?.url ?? '/images/placeholder-market.svg'} alt="South Korea" loading="lazy" width="800" height="1000" />
+        </div>
+        <div class="spotlight-body">
+          <p class="kicker gold">🇰🇷 {t('home.destinations')}</p>
+          <h2>South Korea</h2>
+          <p>
+            Our launch destination — {countFor('South Korea')} in-depth guides and counting.
+            Joseon palaces and neon night markets, temple stays and trendy cafés, mountains,
+            beaches, and some of the best food on earth, all wrapped in a country that's
+            astonishingly easy to get around.
+          </p>
+          <div class="spotlight-links">
+            {koreaLinks.map((l) => <a href={l.href}>{l.label}</a>)}
+          </div>
+          <a class="btn btn-primary" href="/destinations/south-korea">South Korea →</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <div class="rule-head">
+        <span class="kicker">{t('home.destinations')}</span>
+        <a href="/destinations" class="rule-link">{t('nav.allDestinations')} →</a>
+      </div>
+      <p class="bento-note">{live.length} {t('home.bentoNote')}</p>
+      <div class="dest-bento">
+        {live.map((c, i) => (
+          <a class:list={['dest-tile', 'dest-live', { 'dest-feat': i === 0 }]} href={`/destinations/${c.slug}`} style={`background-image:url(${repImage(c.name)})`}>
+            {i === 0 && <span class="dest-ribbon">{t('home.featured')}</span>}
+            <div class="dest-tile-inner">
+              <span class="dest-flag">{c.flag}</span>
+              <h3>{c.name}</h3>
+              <p>{c.count} {t('home.guides')} →</p>
+            </div>
+          </a>
+        ))}
+        {soon.map((c) => (
+          <div class="dest-tile dest-soon">
+            <div class="dest-tile-inner">
+              <span class="dest-flag">{c.flag}</span>
+              <h3>{c.name}</h3>
+              <p class="dest-pill">{t('home.comingSoon')}</p>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="section band">
+    <div class="wrap">
+      <div class="rule-head"><span class="kicker">{t('home.travelEssentials')}</span></div>
+      <div class="essentials-strip">
+        <a class="essential-card" href="/essentials/visa"><span class="ico">🛂</span><div><h3>Visa & entry</h3><p>Visa-free, K-ETA, and the e-Arrival Card.</p></div></a>
+        <a class="essential-card" href="/essentials/transport"><span class="ico">🚇</span><div><h3>Getting around</h3><p>T-money, subway, KTX, and the right map apps.</p></div></a>
+        <a class="essential-card" href="/essentials/money"><span class="ico">💳</span><div><h3>Money & costs</h3><p>Cards vs cash, ATMs, tipping, tax refunds.</p></div></a>
+        <a class="essential-card" href="/essentials/best-time-to-visit"><span class="ico">🌸</span><div><h3>Best time to visit</h3><p>Blossoms, foliage, festivals, snow.</p></div></a>
+        <a class="essential-card" href="/essentials/emergency"><span class="ico">🚨</span><div><h3>Emergency & help</h3><p>112, 119, and the 24/7 1330 hotline.</p></div></a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <div class="trust">
+        <div><h3>{t('trust.reviewedTitle')}</h3><p>{t('trust.reviewedText')}</p></div>
+        <div><h3>{t('trust.factsTitle')}</h3><p>{t('trust.factsText')}</p></div>
+        <div><h3>{t('trust.updatedTitle')}</h3><p>{t('trust.updatedText')}</p></div>
+      </div>
+    </div>
+  </section>
+
+  <Newsletter lang={lang} />
+
+  {moreGuides.length > 0 && (
+    <section class="section">
+      <div class="wrap">
+        <div class="rule-head"><span class="kicker">{t('home.moreToRead')}</span></div>
+        <div class="grid">
+          {moreGuides.map((post) => (
+            <PostCard
+              href={`/posts/${post.id}`}
+              title={post.data.title}
+              description={post.data.description}
+              region={post.data.region}
+              category={post.data.category}
+              image={post.data.heroImage?.url}
+            />
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <script>
+    const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    if (!reduce && 'IntersectionObserver' in window) {
+      const els = Array.from(document.querySelectorAll('main .story, main .dest-tile, main .essential-card, main .card')) as HTMLElement[];
+      els.forEach((el) => el.classList.add('js-reveal'));
+      const io = new IntersectionObserver((entries, obs) => {
+        entries.forEach((e) => { if (e.isIntersecting) { (e.target as HTMLElement).classList.add('in'); obs.unobserve(e.target); } });
+      }, { threshold: 0.1, rootMargin: '0px 0px -30px 0px' });
+      els.forEach((el) => io.observe(el));
+      setTimeout(() => els.forEach((el) => el.classList.add('in')), 1500);
+    }
+  </script>
+</BaseLayout>

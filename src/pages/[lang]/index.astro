@@ -1,0 +1,12 @@
+---
+import HomePage from '../../components/HomePage.astro';
+import type { Lang } from '../../i18n/utils';
+
+// One localized homepage per non-default locale (English lives at /).
+export function getStaticPaths() {
+  return (['ko', 'ja', 'es', 'zh'] as Lang[]).map((lang) => ({ params: { lang } }));
+}
+
+const { lang } = Astro.params as { lang: Lang };
+---
+<HomePage lang={lang} />

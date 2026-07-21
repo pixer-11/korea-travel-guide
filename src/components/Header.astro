@@ -1,8 +1,13 @@
 ---
 import { getCollection } from 'astro:content';
 import Logo from './Logo.astro';
+import LanguageSwitcher from './LanguageSwitcher.astro';
 import { SITE } from '../siteConfig';
+import { getLangFromUrl, useTranslations } from '../i18n/utils';
 import countriesData from '../../data/countries.json';
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
 
 const posts = await getCollection('posts', ({ data }) => !data.draft);
 const live = countriesData.countries.filter((c) =>
@@ -28,7 +33,7 @@ const navGroups = CONT_ORDER
 
     <nav class="nav">
       <div class="nav-dd">
-        <a href="/destinations" class="nav-dd-toggle">Destinations ▾</a>
+        <a href="/destinations" class="nav-dd-toggle">{t('nav.destinations')} ▾</a>
         <div class="nav-dd-menu">
           {navGroups.map((g) => (
             <>
@@ -38,11 +43,12 @@ const navGroups = CONT_ORDER
               ))}
             </>
           ))}
-          <a href="/destinations" class="nav-dd-all">All destinations →</a>
+          <a href="/destinations" class="nav-dd-all">{t('nav.allDestinations')} →</a>
         </div>
       </div>
-      <a href="/flights">Flights</a>
-      <a href="/about">About</a>
+      <a href="/flights">{t('nav.flights')}</a>
+      <a href="/about">{t('nav.about')}</a>
+      <LanguageSwitcher />
     </nav>
   </div>
 </header>

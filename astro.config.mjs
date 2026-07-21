@@ -12,6 +12,11 @@ export default defineConfig({
   site: SITE,
   integrations: [sitemap(), react()],
   trailingSlash: 'ignore',
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en', 'ko', 'ja', 'es', 'zh'],
+    routing: { prefixDefaultLocale: false },
+  },
   build: {
     format: 'directory',
   },

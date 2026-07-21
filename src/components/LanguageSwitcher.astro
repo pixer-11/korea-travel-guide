@@ -1,0 +1,25 @@
+---
+import { getLangFromUrl, useTranslations, languages, type Lang } from '../i18n/utils';
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+// Interim: each option links to that locale's homepage. Homepages exist for
+// every locale so this never 404s. Once all page types are localized this can
+// become path-preserving (localizePath of the current path).
+const items = (Object.keys(languages) as Lang[]).map((l) => ({
+  code: l,
+  name: languages[l],
+  href: l === 'en' ? '/' : `/${l}/`,
+  active: l === lang,
+}));
+---
+<div class="nav-dd lang-switch">
+  <button class="nav-dd-toggle lang-toggle" aria-label={t('lang.label')} aria-haspopup="true">
+    <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="12" cy="12" r="9" /><path d="M3 12h18" /><path d="M12 3c2.5 2.5 3.8 5.7 3.8 9s-1.3 6.5-3.8 9c-2.5-2.5-3.8-5.7-3.8-9S9.5 5.5 12 3z" /></svg>
+    <span>{languages[lang]}</span>
+  </button>
+  <div class="nav-dd-menu lang-menu">
+    {items.map((i) => (
+      <a href={i.href} class:list={['lang-opt', { 'is-active': i.active }]} lang={i.code} hreflang={i.code}>{i.name}</a>
+    ))}
+  </div>
+</div>

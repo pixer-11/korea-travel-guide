@@ -212,6 +212,14 @@ h1, h2, h3, h4 {
 .nav-dd-head-link { cursor: pointer; transition: color 0.15s; }
 .nav-dd-head-link:hover { color: var(--accent); }
 
+/* Language switcher */
+.lang-switch { position: relative; }
+.lang-toggle { display: inline-flex; align-items: center; gap: 0.35rem; background: none; border: 0; font: inherit; color: inherit; cursor: pointer; padding: 0.4rem 0.6rem; border-radius: var(--r-sm); }
+.lang-toggle:hover { background: var(--surface-2); color: var(--ink); }
+.lang-menu { right: 0; left: auto; min-width: 150px; }
+.lang-opt { display: block; padding: 0.45rem 0.7rem; border-radius: var(--r-sm); }
+.lang-opt.is-active { color: var(--accent); font-weight: 600; }
+
 .menu-toggle { display: none; }
 
 @media (max-width: 820px) {

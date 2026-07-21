@@ -1,6 +1,9 @@
 ---
 import Logo from './Logo.astro';
 import { SITE } from '../siteConfig';
+import { getLangFromUrl, useTranslations } from '../i18n/utils';
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
 const year = new Date().getFullYear();
 ---
 
@@ -8,18 +11,15 @@ const year = new Date().getFullYear();
   <div class="wrap">
     <div>
       <a href="/" class="brand"><Logo size={24} /> <span>{SITE.name}</span></a>
-      <p>
-        Editor-reviewed, AI-assisted travel guides for destinations around the
-        world. Facts sourced from live data; images are licensed or public domain.
-      </p>
+      <p>{t('footer.tagline')}</p>
       <p style="margin-top:0.6rem">&copy; {year} {SITE.name}</p>
     </div>
     <nav>
-      <a href="/destinations">Destinations</a>
-      <a href="/about">Editorial policy</a>
-      <a href="/contact">Contact</a>
-      <a href="/privacy">Privacy</a>
-      <a href="/terms">Terms</a>
+      <a href="/destinations">{t('nav.destinations')}</a>
+      <a href="/about">{t('footer.editorialPolicy')}</a>
+      <a href="/contact">{t('footer.contact')}</a>
+      <a href="/privacy">{t('footer.privacy')}</a>
+      <a href="/terms">{t('footer.terms')}</a>
     </nav>
   </div>
 </footer>
