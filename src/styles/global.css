@@ -17,7 +17,7 @@
   --line: #e4dccd;
   --line-soft: #efe8db;
   /* Faint cartographic dot-grid + depth glow for the page backdrop */
-  --dot: rgba(60, 48, 34, 0.062);
+  --pattern: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='240'><g fill='none' stroke='%23201c17' stroke-width='1.1' stroke-opacity='0.05'><path d='M0 20 q60 -16 120 0 t120 0'/><path d='M0 60 q60 16 120 0 t120 0'/><path d='M0 100 q60 -16 120 0 t120 0'/><path d='M0 140 q60 16 120 0 t120 0'/><path d='M0 180 q60 -16 120 0 t120 0'/><path d='M0 220 q60 16 120 0 t120 0'/></g></svg>");
   --bg-glow: rgba(255, 253, 249, 0.6);
 
   /* Dancheong-inspired accents */
@@ -62,7 +62,7 @@ html.dark {
     --muted: #9c9284;
     --line: #322c22;
     --line-soft: #2a251d;
-    --dot: rgba(240, 232, 220, 0.045);
+    --pattern: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='240'><g fill='none' stroke='%23f2ece1' stroke-width='1.1' stroke-opacity='0.05'><path d='M0 20 q60 -16 120 0 t120 0'/><path d='M0 60 q60 16 120 0 t120 0'/><path d='M0 100 q60 -16 120 0 t120 0'/><path d='M0 140 q60 16 120 0 t120 0'/><path d='M0 180 q60 -16 120 0 t120 0'/><path d='M0 220 q60 16 120 0 t120 0'/></g></svg>");
     --bg-glow: rgba(52, 74, 66, 0.22);
     --accent: #e0685c;
     --accent-deep: #c8534a;
@@ -87,8 +87,8 @@ body {
      contrast so text stays perfectly legible. Fixed so it reads as paper. */
   background-image:
     radial-gradient(1100px 560px at 50% -8%, var(--bg-glow), transparent 68%),
-    radial-gradient(var(--dot) 1px, transparent 1.6px);
-  background-size: 100% 100%, 24px 24px;
+    var(--pattern);
+  background-size: 100% 100%, 320px 320px;
   background-position: center top, center;
   background-attachment: fixed, fixed;
   color: var(--ink);
