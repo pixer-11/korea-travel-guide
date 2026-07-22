@@ -34,7 +34,8 @@ async function heroUrls() {
     const raw = (await readFile(join(POSTS_DIR, f), 'utf8')).replace(/\r\n/g, '\n');
     const fm = raw.match(/^---\n([\s\S]*?)\n---/)?.[1] || '';
     const url = fm.match(/heroImage:\n(?:  .*\n)*?  url:\s*"?([^"\n]+?)"?\s*$/m)?.[1];
-    if (url && /^https?:/.test(url) && !url.includes('placeholder')) urls.add(url);
+    // Accept remote (http) heroes AND self-hosted local ones (/venue-photos/…).
+    if (url && (/^https?:/.test(url) || url.startsWith('/')) && !url.includes('placeholder')) urls.add(url);
   }
   return [...urls];
 }
@@ -52,9 +53,17 @@ async function main() {
     const publicPath = `/wall/${name}`;
     if (existsSync(outPath)) { manifest.push(publicPath); cached++; continue; }
     try {
-      const res = await fetch(url, { headers: { 'User-Agent': UA } });
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const buf = Buffer.from(await res.arrayBuffer());
+      let buf;
+      if (url.startsWith('/')) {
+        // Self-hosted venue photo — read straight from disk (no fetch).
+        const localPath = join(ROOT, 'public', url.replace(/^\/+/, ''));
+        if (!existsSync(localPath)) throw new Error('local file missing');
+        buf = await readFile(localPath);
+      } else {
+        const res = await fetch(url, { headers: { 'User-Agent': UA } });
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        buf = Buffer.from(await res.arrayBuffer());
+      }
       await sharp(buf)
         .resize(640, 427, { fit: 'cover', position: 'attention' })
         .webp({ quality: 72 })
@@ -62,7 +71,7 @@ async function main() {
       manifest.push(publicPath);
       made++;
       console.log(`  ✓ ${name}`);
-      await sleep(350); // be polite → avoid Wikimedia 429
+      if (!url.startsWith('/')) await sleep(350); // be polite to remote hosts only
     } catch (e) {
       failed++;
       console.log(`  ⚠️  ${url.slice(0, 64)} — ${e.message}`);

@@ -1,0 +1,69 @@
+name: Backfill real venue photos
+
+# Gives every venue post (one with a Google place.id) a REAL, self-hosted Google
+# Places photo of the actual place. Resumable: skips posts already done and stops
+# on the Places Details daily quota, so daily runs converge. Also keeps future
+# posts covered as they're added. Runs after the quota reset, off the hour, and
+# spaced from backfill (08:43) / publish (21:19).
+on:
+  schedule:
+    - cron: '27 9 * * *' # 09:27 UTC daily
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'Max posts to photo this run (0 = no cap; stops on quota)'
+        required: false
+        default: '0'
+
+permissions:
+  contents: write
+
+jobs:
+  venue-photos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      - name: Self-host venue photos
+        env:
+          GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
+          PHOTO_LIMIT: ${{ github.event.inputs.limit || '0' }}
+        run: node scripts/backfill-venue-photos.mjs
+
+      - name: Build hero photo-wall thumbnails
+        run: node scripts/build-wall.mjs
+
+      - name: Commit venue photos
+        id: commit
+        run: |
+          git config user.name "content-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add public/venue-photos src/content/posts public/wall data/wall.json
+          new=$(git diff --cached --name-only --diff-filter=A -- public/venue-photos | grep -c '.' || true)
+          total=$(ls src/content/posts/*.md | wc -l | tr -d ' ')
+          echo "new=$new" >> "$GITHUB_OUTPUT"
+          echo "total=$total" >> "$GITHUB_OUTPUT"
+          if git diff --staged --quiet; then
+            echo "No new venue photos this run."
+          else
+            git commit -m "content: self-hosted venue photos ($(date -u +%Y-%m-%d))"
+            git pull --rebase origin main
+            git push
+          fi
+
+      - name: Notify Telegram
+        if: always()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          JOB_STATUS: ${{ job.status }}
+          NEW: ${{ steps.commit.outputs.new }}
+          TOTAL: ${{ steps.commit.outputs.total }}
+        run: bash scripts/notify-telegram.sh "Venue photos"

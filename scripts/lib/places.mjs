@@ -52,7 +52,7 @@ export async function searchPlaces(query, { max = 5 } = {}) {
 
 // Re-fetch a single place by its stored id — used by the freshness job to
 // detect rating changes and closures without re-running a text search.
-export async function getPlaceById(placeId) {
+export async function getPlaceById(placeId, { throwOnQuota = false } = {}) {
   if (!KEY || !placeId) return null;
   const res = await fetch(`https://places.googleapis.com/v1/places/${placeId}`, {
     headers: {
@@ -61,6 +61,9 @@ export async function getPlaceById(placeId) {
       'Content-Type': 'application/json',
     },
   });
+  // Let callers that backfill in bulk stop cleanly on quota; default stays lenient
+  // (returns null) so the freshness job is unaffected.
+  if (res.status === 429 && throwOnQuota) throw new Error(`Places details 429: ${await res.text()}`);
   if (!res.ok) return null;
   return normalizePlace(await res.json());
 }
@@ -79,6 +82,28 @@ function normalizePlace(p) {
     lng: p.location?.longitude,
     editorialSummary: p.editorialSummary?.text,
     photos: p.photos ?? [],
+  };
+}
+
+/**
+ * Download a Places photo's actual image BYTES (following the media redirect) so
+ * we can self-host it. Google's photoUri is short-lived; self-hosting gives a
+ * permanent, fast, real photo of the venue. Returns bytes + attribution.
+ */
+export async function fetchPlacePhotoBytes(photo, { maxWidth = 1600 } = {}) {
+  if (!KEY || !photo?.name) return null;
+  const url = `https://places.googleapis.com/v1/${photo.name}/media?maxWidthPx=${maxWidth}&key=${KEY}`;
+  const res = await fetch(url); // 302 → image; fetch follows it and returns bytes
+  if (!res.ok) return null;
+  const buf = Buffer.from(await res.arrayBuffer());
+  if (!buf.length) return null;
+  const ct = (res.headers.get('content-type') || 'image/jpeg').split(';')[0];
+  const attribution = photo.authorAttributions?.[0]?.displayName ?? 'Google Maps user';
+  return {
+    buf,
+    contentType: ct,
+    credit: `Photo: ${attribution} via Google Maps`,
+    source: photo.authorAttributions?.[0]?.uri ?? 'https://maps.google.com',
   };
 }
 

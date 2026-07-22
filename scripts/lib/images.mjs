@@ -3,10 +3,41 @@
 //   2. An Unsplash photo matching the query (openly licensed)
 //   3. Our own placeholder SVG (always safe)
 // Every returned image carries a license tag that guardrails will re-check.
-import { getPlacePhoto } from './places.mjs';
+import { writeFile, mkdir } from 'node:fs/promises';
+import { existsSync } from 'node:fs';
+import { createHash } from 'node:crypto';
+import { dirname, join } from 'node:path';
+import { fileURLToPath } from 'node:url';
+import { getPlacePhoto, fetchPlacePhotoBytes } from './places.mjs';
 import { commonsBest, keyToken } from './commons.mjs';
 
 const UNSPLASH_KEY = process.env.UNSPLASH_ACCESS_KEY;
+
+// Where self-hosted venue photos live (served by Cloudflare from /venue-photos/).
+const VENUE_DIR = join(dirname(fileURLToPath(import.meta.url)), '..', '..', 'public', 'venue-photos');
+const extFor = (ct) => (ct.includes('png') ? 'png' : ct.includes('webp') ? 'webp' : 'jpg');
+
+// Download + self-host the ACTUAL Google Places photo of a venue. Google's photo
+// URLs are short-lived, so we save the bytes locally → a permanent, real photo of
+// the place. Tries the first few photos until one downloads. Returns a hero object
+// with a LOCAL url, or null if none worked (caller then falls back to Commons/Unsplash).
+export async function selfHostPlacePhoto(place, { maxWidth = 1600, used } = {}) {
+  const photos = place?.photos ?? [];
+  for (let i = 0; i < Math.min(photos.length, 3); i++) {
+    let data;
+    try { data = await fetchPlacePhotoBytes(photos[i], { maxWidth }); } catch { continue; }
+    if (!data?.buf) continue;
+    const hash = createHash('sha1').update(`${place.id}|${photos[i].name || i}`).digest('hex').slice(0, 16);
+    const file = `${hash}.${extFor(data.contentType)}`;
+    const url = `/venue-photos/${file}`;
+    if (used && used.has(url)) continue;
+    if (!existsSync(VENUE_DIR)) await mkdir(VENUE_DIR, { recursive: true });
+    await writeFile(join(VENUE_DIR, file), data.buf);
+    if (used) used.add(url);
+    return { url, credit: data.credit, license: 'google-places', source: data.source };
+  }
+  return null;
+}
 
 const PLACEHOLDER = {
   url: '/images/placeholder-market.svg',
@@ -58,9 +89,16 @@ export async function pickGallery(place, n = 3) {
 //   4. Unsplash, strictly constrained to region + "South Korea", BEST (not random)
 //   5. Placeholder
 // `used` is an optional Set of URLs already taken by other posts (de-dupe).
-export async function resolveHero({ namedVenue, region, topic, place, country = 'South Korea', used, allowUnsplash = true } = {}) {
+export async function resolveHero({ namedVenue, region, topic, place, country = 'South Korea', used, allowUnsplash = true, selfHost = false } = {}) {
   const reg = region || '';
   const ctry = country || 'South Korea';
+
+  // TOP PRIORITY for venue posts: the venue's OWN Google Places photo, self-hosted.
+  // It's the real place — the most fitting image possible — and permanent once saved.
+  if (selfHost && place?.photos?.length) {
+    const hosted = await selfHostPlacePhoto(place, { used });
+    if (hosted) return hosted;
+  }
 
   if (namedVenue) {
     const anchor = keyToken(namedVenue);

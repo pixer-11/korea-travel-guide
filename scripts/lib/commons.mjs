@@ -84,7 +84,7 @@ export async function commonsCandidates(query, limit = 10) {
 // an accurately-named-but-ugly photo (e.g. "Haeundae Police Station"); relying
 // on title match alone once put a police station on the Haeundae beach post.
 const BORING =
-  /police|\bstation\b|fire station|parking|office|government|city hall|district office|hospital|clinic|\bsign\b|signage|\bmap\b|diagram|schematic|construction|scaffold|toilet|restroom|manhole|number plate|license plate|logo|\bflag\b|coat of arms|panorama of reed/i;
+  /police|\bstation\b|fire station|parking|office|government|city hall|district office|hospital|clinic|\bsign\b|signage|\bmap\b|diagram|schematic|construction|scaffold|toilet|restroom|manhole|number plate|license plate|logo|\bflag\b|coat of arms|panorama of reed|\bash\b|volcanic ash|eruption|erupting|\bflood(ing|ed|s)?\b|protest|\briot\b|demonstration|funeral|\bdisaster\b|shipwreck|\bwreck\b|\bcrash\b|wildfire|\bdebris\b|rubble|demolition|aftermath/i;
 
 export async function commonsBest(query, { mustInclude = [], used } = {}) {
   const cands = await commonsCandidates(query, 14);

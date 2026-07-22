@@ -310,6 +310,7 @@ async function buildLivePost(target) {
     country: target.country,
     place,
     used: USED_IMAGE_URLS,
+    selfHost: true, // prefer the venue's real Google photo, self-hosted
   });
   const heroImage = isImageAllowed(hero) ? hero : null;
   const gallery = (await pickGallery(place, 3)).filter(isImageAllowed);
