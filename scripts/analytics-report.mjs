@@ -25,7 +25,7 @@ async function sendTelegram(text) {
   else console.log('Telegram sent.');
 }
 
-async function main() {
+async function cfReport() {
   if (!CF_API_TOKEN || !CF_ACCOUNT_ID) {
     console.error('CF_API_TOKEN / CF_ACCOUNT_ID missing.');
     return;
@@ -87,6 +87,58 @@ ${pages}`;
 
   console.log(text);
   await sendTelegram(text);
+}
+
+// ── Plausible (cookieless) — detailed, event-level report incl. affiliate clicks ──
+const { PLAUSIBLE_API_KEY, PLAUSIBLE_SITE_ID } = process.env;
+async function pla(path) {
+  const r = await fetch(`https://plausible.io/api/v1/stats/${path}`, {
+    headers: { Authorization: `Bearer ${PLAUSIBLE_API_KEY}` },
+  });
+  if (!r.ok) throw new Error(`Plausible ${r.status}: ${(await r.text()).slice(0, 120)}`);
+  return r.json();
+}
+
+async function plausibleReport() {
+  if (!PLAUSIBLE_API_KEY || !PLAUSIBLE_SITE_ID) {
+    console.log('Plausible env missing — skipping Plausible report.');
+    return;
+  }
+  const s = encodeURIComponent(PLAUSIBLE_SITE_ID);
+  const q = `site_id=${s}&period=day&date=${dayLabel}`;
+  try {
+    const agg = await pla(`aggregate?${q}&metrics=visitors,pageviews,bounce_rate,visit_duration`);
+    const pages = await pla(`breakdown?${q}&property=event:page&metrics=visitors&limit=5`);
+    const sources = await pla(`breakdown?${q}&property=visit:source&metrics=visitors&limit=5`);
+    let clicks = 0;
+    try {
+      const g = await pla(`aggregate?${q}&metrics=events&filters=${encodeURIComponent('event:name==Affiliate click')}`);
+      clicks = g.results?.events?.value ?? 0;
+    } catch (e) { console.log('affiliate-click metric skipped:', e.message); }
+
+    const R = agg.results ?? {};
+    const dur = Math.round((R.visit_duration?.value ?? 0));
+    const topPages = (pages.results ?? []).map((p) => `  • ${p.page} — ${p.visitors}`).join('\n') || '  —';
+    const topSrc = (sources.results ?? []).map((x) => `${x.source || 'Direct'} ${x.visitors}`).join(' · ') || '—';
+    const text = `📈 Wander Atlas — 상세 분석 · Plausible (${dayLabel} UTC)
+👥 방문자: ${(R.visitors?.value ?? 0).toLocaleString()}
+👀 페이지뷰: ${(R.pageviews?.value ?? 0).toLocaleString()}
+↩️ 이탈률: ${R.bounce_rate?.value ?? 0}% · ⏱️ 평균체류: ${dur}s
+🖱️ 제휴 클릭(Affiliate click): ${clicks}
+🌐 유입원: ${topSrc}
+🔥 인기 페이지:
+${topPages}`;
+    console.log(text);
+    await sendTelegram(text);
+  } catch (e) {
+    console.error('Plausible report failed:', e.message);
+    await sendTelegram(`📈 Wander Atlas — Plausible 리포트 오류\n${e.message}`);
+  }
+}
+
+async function main() {
+  await cfReport();
+  await plausibleReport();
 }
 
 main().catch((e) => { console.error(e); });

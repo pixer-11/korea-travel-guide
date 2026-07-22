@@ -34,6 +34,10 @@ const alternates = localized
 const ogImage = image ? new URL(image, Astro.site) : undefined;
 const siteName = SITE.name;
 const siteUrl = Astro.site?.toString().replace(/\/$/, '') ?? '';
+// Plausible: cookieless, privacy-first analytics (pageviews + our custom
+// `Affiliate click` events). The script is a no-op until the domain is set up in a
+// Plausible account, so it's safe to ship now and it starts counting once connected.
+const plausibleDomain = Astro.site?.host ?? '';
 
 // Sitewide entity graph — establishes the brand as a recognized entity,
 // which 2026 AI search rewards with far higher citation/click rates.
@@ -88,6 +92,15 @@ const orgLd = {
     <link rel="sitemap" href="/sitemap-index.xml" />
 
     <script type="application/ld+json" set:html={JSON.stringify(orgLd)} />
+
+    <!-- Plausible Analytics — cookieless, no consent banner needed. Custom events
+         (Affiliate click) fire via window.plausible() from the click handler below. -->
+    {plausibleDomain && (
+      <>
+        <script is:inline defer data-domain={plausibleDomain} src="https://plausible.io/js/script.tagged-events.js"></script>
+        <script is:inline>window.plausible=window.plausible||function(){(window.plausible.q=window.plausible.q||[]).push(arguments)}</script>
+      </>
+    )}
 
     {
       jsonLd && (
