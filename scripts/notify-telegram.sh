@@ -1,38 +1,52 @@
 #!/usr/bin/env bash
-# Sends a run-result message to Telegram. No-op (and never fails the job) if the
-# TELEGRAM_* secrets aren't set.
+# Sends a run-result message (Korean) to Telegram. No-op (and never fails the job)
+# if the TELEGRAM_* secrets aren't set.
 # Env: TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID, JOB_STATUS, NEW, TOTAL
-# Arg $1: label shown in the message (e.g. "Backfill", "Daily publish").
-LABEL="${1:-Run}"
+# Arg $1: label from the workflow (English key, mapped to Korean below).
+LABEL="${1:-실행}"
+UNIT="글" # item unit — "글"(posts) by default, "장"(photos) for venue photos
 
 if [ -z "${TELEGRAM_BOT_TOKEN:-}" ] || [ -z "${TELEGRAM_CHAT_ID:-}" ]; then
   echo "Telegram secrets not set — skipping notification."
   exit 0
 fi
 
+# Map the workflow's English label to Korean (and pick the right item unit).
+case "$LABEL" in
+  "Backfill")      LABEL="대량 발행" ;;
+  "Daily publish") LABEL="일일 자동발행" ;;
+  "Venue photos")  LABEL="장소 사진"; UNIT="장" ;;
+esac
+
+# Korean job status.
+case "${JOB_STATUS:-}" in
+  success) STATUS_KO="성공" ;;
+  failure) STATUS_KO="실패" ;;
+  *)       STATUS_KO="${JOB_STATUS:-알수없음}" ;;
+esac
+
 NEW="${NEW:-0}"
 TOTAL="${TOTAL:-?}"
-DATE="$(date -u '+%Y-%m-%d %H:%M UTC')"
+DATE="$(TZ='Asia/Seoul' date '+%Y-%m-%d %H:%M KST')"
 
-# ✅ only when the run succeeded AND actually added posts; ⚠️ on success-but-0
-# (usually the Places daily quota is used up, or a country is already full).
+# ✅ success with new items · ⚠️ success but 0 (quota used up / already full) · ❌ failed
 if [ "${JOB_STATUS:-}" != "success" ]; then
-  ICON="❌"; NOTE=""
+  ICON="❌"; NOTE="
+⚠️ 실행에 실패했어요. GitHub Actions 로그를 확인해 주세요."
 elif [ "${NEW}" = "0" ]; then
   ICON="⚠️"; NOTE="
-ℹ️ 0 posts — Places daily quota likely reached (or already at target). The next run after quota reset will add more."
+ℹ️ 새 ${UNIT} 0개 — 오늘 Places 한도 소진(또는 이미 목표치 도달)입니다. 한도가 리셋되면 다음 실행에서 더 채워져요."
 else
   ICON="✅"; NOTE=""
 fi
 
 TEXT="🗺️ Wander Atlas — ${LABEL}
-${ICON} status: ${JOB_STATUS:-unknown}
-📝 new posts: ${NEW}
-📚 total posts: ${TOTAL}
+${ICON} 상태: ${STATUS_KO}
+📝 새 ${UNIT}: ${NEW}개
+📚 전체 글: ${TOTAL}개
 🕒 ${DATE}${NOTE}"
 
-# Print the Telegram API response so failures are diagnosable. The response
-# never contains the bot token, so it's safe to show in the log.
+# Print the Telegram API response so failures are diagnosable (never contains the token).
 RESP=$(curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
   --data-urlencode "chat_id=${TELEGRAM_CHAT_ID}" \
   --data-urlencode "text=${TEXT}" \
@@ -42,8 +56,7 @@ if echo "$RESP" | grep -q '"ok":true'; then
   echo "✅ Telegram notification sent."
 else
   echo "⚠️  Telegram send FAILED. API said: ${RESP}"
-  echo "    (Common causes: wrong TELEGRAM_BOT_TOKEN → 401 Unauthorized;"
-  echo "     wrong TELEGRAM_CHAT_ID or you never messaged the bot → 400/403.)"
+  echo "    (Common causes: wrong TELEGRAM_BOT_TOKEN → 401; wrong TELEGRAM_CHAT_ID → 400/403.)"
 fi
 
 exit 0

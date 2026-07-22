@@ -60,14 +60,14 @@ async function main() {
     });
     json = await res.json();
   } catch (e) {
-    await sendTelegram(`📊 Wander Atlas — analytics report ERROR\n${e.message}`);
+    await sendTelegram(`📊 Wander Atlas — 분석 리포트 오류\n${e.message}`);
     return;
   }
 
   if (json.errors || !json.data?.viewer?.accounts?.[0]) {
     const msg = JSON.stringify(json.errors || json).slice(0, 350);
     console.error('GraphQL error:', msg);
-    await sendTelegram(`📊 Wander Atlas — analytics report FAILED (${dayLabel})\nAPI said: ${msg}`);
+    await sendTelegram(`📊 Wander Atlas — 분석 리포트 실패 (${dayLabel})\nAPI 응답: ${msg}`);
     return;
   }
 
@@ -78,11 +78,11 @@ async function main() {
   const countries = (a.countries ?? []).map((c) => `${c.dimensions.countryName || '??'} ${c.count}`).join(' · ') || '—';
   const pages = (a.pages ?? []).map((p) => `  • ${p.dimensions.requestPath} — ${p.count}`).join('\n') || '  —';
 
-  const text = `📊 Wander Atlas — daily analytics (${dayLabel} UTC)
-👀 page views: ${pageviews.toLocaleString()}
-🧑 visits: ${visits.toLocaleString()}
-🌍 top countries: ${countries}
-🔥 top pages:
+  const text = `📊 Wander Atlas — 일일 분석 (${dayLabel} UTC)
+👀 페이지뷰: ${pageviews.toLocaleString()}
+🧑 방문: ${visits.toLocaleString()}
+🌍 상위 국가: ${countries}
+🔥 인기 페이지:
 ${pages}`;
 
   console.log(text);
