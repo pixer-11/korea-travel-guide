@@ -52,7 +52,7 @@ export async function searchPlaces(query, { max = 5 } = {}) {
 
 // Re-fetch a single place by its stored id — used by the freshness job to
 // detect rating changes and closures without re-running a text search.
-export async function getPlaceById(placeId, { throwOnQuota = false } = {}) {
+export async function getPlaceById(placeId, { throwOnQuota = false, throwOnError = false } = {}) {
   if (!KEY || !placeId) return null;
   const res = await fetch(`https://places.googleapis.com/v1/places/${placeId}`, {
     headers: {
@@ -64,7 +64,10 @@ export async function getPlaceById(placeId, { throwOnQuota = false } = {}) {
   // Let callers that backfill in bulk stop cleanly on quota; default stays lenient
   // (returns null) so the freshness job is unaffected.
   if (res.status === 429 && throwOnQuota) throw new Error(`Places details 429: ${await res.text()}`);
-  if (!res.ok) return null;
+  if (!res.ok) {
+    if (throwOnError) throw new Error(`Places details ${res.status}: ${(await res.text()).slice(0, 200)}`);
+    return null;
+  }
   return normalizePlace(await res.json());
 }
 

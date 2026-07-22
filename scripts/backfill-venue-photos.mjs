@@ -41,13 +41,20 @@ for (const f of (await readdir(POSTS_DIR)).filter((x) => x.endsWith('.md'))) {
 
   let place;
   try {
-    place = await getPlaceById(id, { throwOnQuota: true });
+    place = await getPlaceById(id, { throwOnQuota: true, throwOnError: true });
   } catch (e) {
-    if (/\b429\b|RESOURCE_EXHAUSTED|Quota exceeded/i.test(e.message)) {
+    const m = e.message || '';
+    if (/\b429\b|RESOURCE_EXHAUSTED|Quota exceeded/i.test(m)) {
       console.log('⛔ Places Details daily quota exhausted — stopping; next run resumes.');
       break;
     }
-    console.log(`  ⚠️  details error ${f}: ${e.message.slice(0, 80)}`); failed++; continue;
+    // A permission / not-enabled / bad-request error will repeat for every post —
+    // stop immediately and surface the exact reason instead of failing 200 times.
+    if (/\b40[03]\b|PERMISSION_DENIED|SERVICE_DISABLED|API_KEY|not enabled/i.test(m)) {
+      console.log(`⛔ Place Details rejected — stopping. Reason: ${m.slice(0, 200)}`);
+      break;
+    }
+    console.log(`  ⚠️  details error ${f}: ${m.slice(0, 100)}`); failed++; continue;
   }
   if (!place?.photos?.length) { console.log(`  ✗ no Places photo: ${f}`); failed++; continue; }
 
