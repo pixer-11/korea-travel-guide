@@ -177,20 +177,36 @@ function buildRotatedQueue(targets, done, countries, seasonal = [], opts = {}) {
     }
   }
 
-  // Round-robin by country+region so consecutive picks span different places.
-  const byBucket = new Map();
+  // Fill order = country PRIORITY (data/countries.json `priority`, lower = first)
+  // so search/revenue-important countries COMPLETE before lower ones, instead of
+  // every country creeping up together. Within a country we still round-robin
+  // across its regions so one country's posts stay varied. Countries without a
+  // priority sort last.
+  const prio = new Map(countries.map((c) => [c.name, c.priority ?? 999]));
+  const byCountry = new Map();
   for (const t of all) {
-    const key = `${t.country}|${t.region}`;
-    if (!byBucket.has(key)) byBucket.set(key, []);
-    byBucket.get(key).push(t);
+    const c = t.country ?? 'South Korea';
+    if (!byCountry.has(c)) byCountry.set(c, []);
+    byCountry.get(c).push(t);
   }
-  const buckets = [...byBucket.values()];
+  const orderedCountries = [...byCountry.keys()].sort(
+    (a, b) => (prio.get(a) ?? 999) - (prio.get(b) ?? 999) || a.localeCompare(b)
+  );
   const rotated = [];
-  let i = 0;
-  while (rotated.length < all.length) {
-    const bucket = buckets[i % buckets.length];
-    if (bucket.length) rotated.push(bucket.shift());
-    i++;
+  for (const cname of orderedCountries) {
+    const items = byCountry.get(cname);
+    const rb = new Map();
+    for (const t of items) {
+      if (!rb.has(t.region)) rb.set(t.region, []);
+      rb.get(t.region).push(t);
+    }
+    const rbuckets = [...rb.values()];
+    let i = 0, added = 0;
+    while (added < items.length) {
+      const bucket = rbuckets[i % rbuckets.length];
+      if (bucket.length) { rotated.push(bucket.shift()); added++; }
+      i++;
+    }
   }
 
   // In-season events jump to the FRONT so they publish while relevant.

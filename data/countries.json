@@ -3,6 +3,7 @@
   "countries": [
     {
       "name": "South Korea",
+      "priority": 0,
       "slug": "south-korea",
       "flag": "🇰🇷",
       "active": true,
@@ -25,6 +26,7 @@
     },
     {
       "name": "Japan",
+      "priority": 1,
       "slug": "japan",
       "flag": "🇯🇵",
       "active": true,
@@ -45,6 +47,7 @@
     },
     {
       "name": "United States",
+      "priority": 14,
       "slug": "united-states",
       "flag": "🇺🇸",
       "active": true,
@@ -65,6 +68,7 @@
     },
     {
       "name": "Thailand",
+      "priority": 2,
       "slug": "thailand",
       "flag": "🇹🇭",
       "active": true,
@@ -83,6 +87,7 @@
     },
     {
       "name": "France",
+      "priority": 12,
       "slug": "france",
       "flag": "🇫🇷",
       "active": true,
@@ -101,6 +106,7 @@
     },
     {
       "name": "Italy",
+      "priority": 10,
       "slug": "italy",
       "flag": "🇮🇹",
       "active": true,
@@ -119,6 +125,7 @@
     },
     {
       "name": "China",
+      "priority": 15,
       "slug": "china",
       "flag": "🇨🇳",
       "active": true,
@@ -137,6 +144,7 @@
     },
     {
       "name": "Spain",
+      "priority": 11,
       "slug": "spain",
       "flag": "🇪🇸",
       "active": true,
@@ -155,6 +163,7 @@
     },
     {
       "name": "Vietnam",
+      "priority": 3,
       "slug": "vietnam",
       "flag": "🇻🇳",
       "active": true,
@@ -164,6 +173,7 @@
     },
     {
       "name": "United Arab Emirates",
+      "priority": 5,
       "slug": "united-arab-emirates",
       "flag": "🇦🇪",
       "active": true,
@@ -173,6 +183,7 @@
     },
     {
       "name": "Taiwan",
+      "priority": 7,
       "slug": "taiwan",
       "flag": "🇹🇼",
       "active": true,
@@ -182,6 +193,7 @@
     },
     {
       "name": "Indonesia",
+      "priority": 4,
       "slug": "indonesia",
       "flag": "🇮🇩",
       "active": true,
@@ -191,6 +203,7 @@
     },
     {
       "name": "Malaysia",
+      "priority": 9,
       "slug": "malaysia",
       "flag": "🇲🇾",
       "active": true,
@@ -200,6 +213,7 @@
     },
     {
       "name": "India",
+      "priority": 13,
       "slug": "india",
       "flag": "🇮🇳",
       "active": true,
@@ -209,6 +223,7 @@
     },
     {
       "name": "Philippines",
+      "priority": 8,
       "slug": "philippines",
       "flag": "🇵🇭",
       "active": true,
@@ -218,6 +233,7 @@
     },
     {
       "name": "Turkey",
+      "priority": 6,
       "slug": "turkey",
       "flag": "🇹🇷",
       "active": true,
