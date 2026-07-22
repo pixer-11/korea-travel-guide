@@ -13,7 +13,7 @@ const label = category.replace('-', ' ');
 
 <a class="card" href={href}>
   <div class="thumb">
-    <img src={image ?? '/images/placeholder-market.svg'} alt={title} loading="lazy" />
+    <img src={image ?? '/images/placeholder-market.svg'} alt={`${title} — ${region}`} width="600" height="400" loading="lazy" decoding="async" />
     <span class="badge">{label}</span>
   </div>
   <div class="card-body">

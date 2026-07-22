@@ -2,6 +2,11 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import PostCard from '../../components/PostCard.astro';
+import Hotels from '../../components/Hotels.astro';
+import Tours from '../../components/Tours.astro';
+import PlanTrip from '../../components/PlanTrip.astro';
+import Newsletter from '../../components/Newsletter.astro';
+import StickyBook from '../../components/StickyBook.astro';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts', ({ data }) => !data.draft);
@@ -60,6 +65,16 @@ const REGION_INFO = {
 };
 const info = REGION_INFO[region];
 
+// Region-level FAQ — feeds a visible FAQ section + FAQPage schema. These are exactly
+// the questions AI Overviews / Perplexity fan out to for "{city} travel" queries.
+const faq = info
+  ? [
+      { q: `How do I get to ${region}?`, a: info.getting },
+      { q: `How many days should I spend in ${region}?`, a: info.days },
+      { q: `What is ${region} known for?`, a: info.blurb },
+    ]
+  : [];
+
 // Group this region's posts by category into labelled sections.
 const CATS = [
   ['attraction', 'Top attractions'],
@@ -102,6 +117,16 @@ const jsonLd = {
             position: i + 1,
             url: `${site}/posts/${p.id}`,
             name: p.data.title,
+          })),
+        }]
+      : []),
+    ...(faq.length
+      ? [{
+          '@type': 'FAQPage',
+          mainEntity: faq.map((f) => ({
+            '@type': 'Question',
+            name: f.q,
+            acceptedAnswer: { '@type': 'Answer', text: f.a },
           })),
         }]
       : []),
@@ -172,6 +197,29 @@ const jsonLd = {
           </div>
         </div>
       )}
+
+      {posts.length > 0 && (
+        <>
+          <Tours city={region} />
+          <Hotels city={region} country={country} />
+          <PlanTrip city={region} country={country} />
+        </>
+      )}
+
+      {faq.length > 0 && (
+        <section class="faq">
+          <h2>Frequently asked questions about {region}</h2>
+          {faq.map((f) => (
+            <details>
+              <summary>{f.q}</summary>
+              <p>{f.a}</p>
+            </details>
+          ))}
+        </section>
+      )}
     </div>
   </section>
+
+  <Newsletter />
+  <StickyBook city={region} />
 </BaseLayout>

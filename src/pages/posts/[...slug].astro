@@ -71,6 +71,13 @@ const related = (await getCollection('posts', ({ data }) => !data.draft))
   .slice(0, 4)
   .map((x) => x.r);
 
+// More same-city guides beyond the 4 "Related" — strengthens the city cluster with
+// contextual internal links (the site otherwise has almost no in-body post→post links).
+const relatedIds = new Set(related.map((r) => r.id));
+const nearby = (await getCollection('posts', ({ data }) => !data.draft))
+  .filter((r) => r.id !== post.id && r.data.region === d.region && !relatedIds.has(r.id))
+  .slice(0, 6);
+
 // ---- Structured data graph (Article + Place + FAQ + Breadcrumbs) ----
 const graph: Record<string, unknown>[] = [
   {
@@ -259,6 +266,8 @@ const jsonLd = { '@context': 'https://schema.org', '@graph': graph };
       </section>
     )}
 
+    <Newsletter compact />
+
     {related.length > 0 && (
       <section class="related">
         <h2>Related guides</h2>
@@ -273,7 +282,14 @@ const jsonLd = { '@context': 'https://schema.org', '@graph': graph };
       </section>
     )}
 
-    <Newsletter compact />
+    {nearby.length > 0 && (
+      <p class="nearby-links">
+        More {d.region} guides:{' '}
+        {nearby.map((r, i) => (
+          <>{i > 0 && <span aria-hidden="true"> · </span>}<a href={`/posts/${r.id}`}>{r.data.place?.name ?? r.data.title}</a></>
+        ))}
+      </p>
+    )}
 
     <p class="disclosure">
       This guide was produced with AI assistance and reviewed against live data
