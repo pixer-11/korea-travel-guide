@@ -203,8 +203,14 @@ h1, h2, h3, h4 {
 
 /* Destinations dropdown */
 .nav-dd { position: relative; }
-.nav-dd-menu { display: none; position: absolute; top: calc(100% + 4px); left: 0; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-md); box-shadow: var(--shadow-md); padding: 0.4rem; min-width: 210px; z-index: 60; }
-.nav-dd:hover .nav-dd-menu, .nav-dd:focus-within .nav-dd-menu { display: block; }
+/* Animatable open/close (NOT display:none) so the menu fades and — crucially —
+   lingers briefly on mouse-out instead of vanishing instantly. */
+.nav-dd-menu { opacity: 0; visibility: hidden; pointer-events: none; transform: translateY(-4px); position: absolute; top: 100%; left: 0; margin-top: 6px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-md); box-shadow: var(--shadow-md); padding: 0.4rem; min-width: 210px; z-index: 60; transition: opacity 0.16s ease, transform 0.16s ease, visibility 0s linear 0.32s; }
+/* Invisible bridge across the gap between the toggle and the menu, so moving the
+   cursor down into the menu never crosses a dead zone (that dead zone was what
+   made the dropdown disappear unless you moved fast). */
+.nav-dd-menu::before { content: ""; position: absolute; top: -10px; left: 0; right: 0; height: 10px; }
+.nav-dd:hover .nav-dd-menu, .nav-dd:focus-within .nav-dd-menu { opacity: 1; visibility: visible; pointer-events: auto; transform: translateY(0); transition: opacity 0.16s ease, transform 0.16s ease, visibility 0s; }
 .nav-dd-menu a { display: block; white-space: nowrap; }
 .nav-dd-head { display: block; padding: 0.4rem 0.7rem 0.15rem; font-size: 0.7rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
 .nav-dd-head:not(:first-child) { margin-top: 0.25rem; border-top: 1px solid var(--line-soft); padding-top: 0.5rem; }
@@ -239,7 +245,10 @@ h1, h2, h3, h4 {
   .nav a { padding: 0.75rem 0.5rem; border-bottom: 1px solid var(--line-soft); }
   .nav .sep { display: none; }
   .nav-dd { display: contents; }
-  .nav-dd-menu { display: block; position: static; border: none; box-shadow: none; padding: 0; min-width: 0; }
+  /* Inside the mobile hamburger the submenu is always expanded — override the
+     desktop hover/fade state so it renders normally. */
+  .nav-dd-menu { opacity: 1; visibility: visible; pointer-events: auto; transform: none; transition: none; position: static; margin-top: 0; border: none; box-shadow: none; padding: 0; min-width: 0; }
+  .nav-dd-menu::before { display: none; }
   .nav-dd-menu a { padding-left: 1.2rem; }
   #nav-toggle:checked ~ .nav { transform: translateY(0); }
   .menu-toggle {
