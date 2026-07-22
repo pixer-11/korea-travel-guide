@@ -36,6 +36,14 @@ const AUTO_EXPAND = process.env.AUTO_EXPAND !== '0'; // auto-generate combos unl
 // Venue-level dedup across the whole site: never publish the same Google place
 // twice, even if reached via a different query/slug over months of auto-runs.
 let USED_PLACE_IDS = new Set();
+// Image-level dedup: never let two posts share the exact same hero photo (this
+// is what made the two Boryeong "mud" posts look identical). Passed into
+// resolveHero(), which skips any URL already in this set.
+let USED_IMAGE_URLS = new Set();
+// Monotonic per-run counter so posts built in the same run get strictly
+// increasing pubDate timestamps (see assemble()). Without this, everything
+// generated on one day shared a date and "Latest stories" never reordered.
+let PUB_SEQ = 0;
 // DUMMY = can't do real writing (no Anthropic key, or forced) → canned output.
 const DUMMY = process.env.DUMMY === '1' || !process.env.ANTHROPIC_API_KEY;
 // USE_PLACES = pull verified facts + real venue photos from Google Places.
@@ -78,6 +86,7 @@ async function main() {
     (await readdir(POSTS_DIR)).map((f) => f.replace(/\.md$/, ''))
   );
   USED_PLACE_IDS = await loadUsedPlaceIds();
+  USED_IMAGE_URLS = await loadUsedImageUrls();
 
   // Per-country fill cap. When TARGET_PER_COUNTRY is set (e.g. the backfill
   // workflow uses 58), a country that already has that many published guides is
@@ -219,6 +228,19 @@ async function loadUsedPlaceIds() {
   return ids;
 }
 
+// Every hero image URL already published, so no two posts share the same photo.
+// (The first `  url:` in a post's frontmatter is always the heroImage url —
+// gallery items are indented under `  - url:` and don't match this pattern.)
+async function loadUsedImageUrls() {
+  const urls = new Set();
+  for (const f of await readdir(POSTS_DIR)) {
+    if (!f.endsWith('.md')) continue;
+    const m = (await readFile(join(POSTS_DIR, f), 'utf8')).match(/\n {2}url:\s*"?([^"\n]+?)"?\s*$/m);
+    if (m) urls.add(m[1].trim());
+  }
+  return urls;
+}
+
 // In-season events (this month or next, for lead time) for active countries.
 async function loadSeasonalTargets(activeNames) {
   try {
@@ -271,6 +293,7 @@ async function buildLivePost(target) {
     topic: target.topic,
     country: target.country,
     place,
+    used: USED_IMAGE_URLS,
   });
   const heroImage = isImageAllowed(hero) ? hero : null;
   const gallery = (await pickGallery(place, 3)).filter(isImageAllowed);
@@ -323,6 +346,7 @@ async function buildPlacelessPost(target) {
     region: target.region,
     topic: target.topic,
     country: target.country,
+    used: USED_IMAGE_URLS,
   });
   const heroImage = isImageAllowed(hero) ? hero : null;
 
@@ -385,7 +409,10 @@ function assemble(target, place, title, heroImage, gallery, content) {
   const { body, quickAnswer, faq } = content;
   const baseName = place?.name || target.topic;
   const slug = slugify(`${target.region}-${baseName}`);
-  const today = new Date().toISOString().slice(0, 10);
+  // Full ISO TIMESTAMP (not date-only): posts built in the same run get strictly
+  // increasing times via PUB_SEQ, and each run is later than the last, so the
+  // homepage "Latest stories" always surfaces genuinely-new posts first.
+  const today = new Date(Date.now() + PUB_SEQ++ * 1000).toISOString();
   const country = target.country || 'South Korea';
   const description = place
     ? `A practical visitor's guide to ${place.name} in ${target.region}, ${country}. Verified info on location, ratings, and how to get there.`
