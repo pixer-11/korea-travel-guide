@@ -1,6 +1,6 @@
 ---
 title: "Vizcaya Museum & Gardens: A Visitor's Guide in Miami"
-description: "A practical visitor's guide to Vizcaya Museum & Gardens in Miami, United States. Verified info on location, ratings, and how to get there."
+description: "Vizcaya Museum & Gardens, at 3251 S Miami Ave in Miami's Coconut Grove-adjacent bayfront, is a circa-1914 Gilded Age villa built for industrialist James…"
 country: "United States"
 region: "Miami"
 category: "attraction"

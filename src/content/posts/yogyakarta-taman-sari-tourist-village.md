@@ -1,6 +1,6 @@
 ---
 title: "Taman Sari Tourist Village: A Visitor's Guide in Yogyakarta"
-description: "A practical visitor's guide to Taman Sari Tourist Village in Yogyakarta, Indonesia. Verified info on location, ratings, and how to get there."
+description: "Taman Sari (the Water Castle) is an 18th-century royal garden and bathing complex in Yogyakarta's Kraton district, best visited early morning (around 8-9am)…"
 country: "Indonesia"
 region: "Yogyakarta"
 category: "attraction"

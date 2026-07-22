@@ -1,6 +1,6 @@
 ---
 title: "Golden Gate Bridge: A Visitor's Guide in San Francisco"
-description: "A practical visitor's guide to Golden Gate Bridge in San Francisco, United States. Verified info on location, ratings, and how to get there."
+description: "Walk or bike the Golden Gate Bridge from the free Welcome Center on the San Francisco (southeast) side — the 1.7-mile sidewalk crossing to Marin's Vista…"
 country: "United States"
 region: "San Francisco"
 category: "attraction"

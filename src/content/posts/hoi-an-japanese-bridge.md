@@ -1,6 +1,6 @@
 ---
 title: "Japanese Bridge: A Visitor's Guide in Hoi An"
-description: "A practical visitor's guide to Japanese Bridge in Hoi An, Vietnam. Verified info on location, ratings, and how to get there."
+description: "The Japanese Bridge (Chùa Cầu) is Hoi An's iconic 18th-century covered wooden bridge spanning a small canal off Nguyễn Thị Minh Khai Street in the heart of…"
 country: "Vietnam"
 region: "Hoi An"
 category: "attraction"

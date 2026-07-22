@@ -1,6 +1,6 @@
 ---
-title: "Là Nhà: A Visitor's Where to Eat in Nha Trang"
-description: "A practical visitor's guide to Là Nhà in Nha Trang, Vietnam. Verified info on location, ratings, and how to get there."
+title: "Là Nhà: Where to Eat in Nha Trang"
+description: "Là Nhà is a large, buzzy Vietnamese restaurant at 102 Đường Hồng Bàng in central Nha Trang, popular for hotpot, seafood, and grilled dishes served…"
 country: "Vietnam"
 region: "Nha Trang"
 category: "restaurant"

@@ -1,6 +1,6 @@
 ---
 title: 'Aewol Cafes in Jeju: A Visitor''s Guide'
-description: A practical visitor's guide to Aewol cafes in Jeju, Korea — what to expect, how to get around, and tips for your visit.
+description: "Aewol's café strip runs along the coastal road (Aewollo/Haean-ro) on Jeju's northwest coast, roughly a 30–40 minute drive or bus ride from Jeju City. Base…"
 region: Jeju
 category: trendy
 pubDate: 2026-07-20T00:00:00.000Z

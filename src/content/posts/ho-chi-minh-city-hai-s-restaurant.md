@@ -1,6 +1,6 @@
 ---
-title: "Hai’s Restaurant: A Visitor's Where to Eat in Ho Chi Minh City"
-description: "A practical visitor's guide to Hai’s Restaurant in Ho Chi Minh City, Vietnam. Verified info on location, ratings, and how to get there."
+title: "Hai’s Restaurant: Where to Eat in Ho Chi Minh City"
+description: "Hai's Restaurant is a long-running, expat-and-tourist-favorite Vietnamese restaurant at 257 Lý Tự Trọng in District 1's Bến Thành ward, a short walk from…"
 country: "Vietnam"
 region: "Ho Chi Minh City"
 category: "restaurant"

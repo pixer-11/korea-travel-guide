@@ -1,6 +1,6 @@
 ---
-title: "Tokyo Ramen Street: A Visitor's Where to Eat in Tokyo"
-description: "A practical visitor's guide to Tokyo Ramen Street in Tokyo, Japan. Verified info on location, ratings, and how to get there."
+title: "Tokyo Ramen Street: Where to Eat in Tokyo"
+description: "Tokyo Ramen Street is a strip of about eight acclaimed ramen shops on the B1 level of Tokyo Station's Ichibangai underground mall, in Marunouchi, Chiyoda…"
 country: "Japan"
 region: "Tokyo"
 category: "restaurant"

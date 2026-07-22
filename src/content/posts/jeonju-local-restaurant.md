@@ -1,14 +1,14 @@
 ---
 title: 'Local Restaurant in Jeonju: A Visitor''s Guide'
-description: A practical visitor's guide to local restaurant in Jeonju, Korea — what to expect, how to get around, and tips for your visit.
+description: "For an authentic local meal in Jeonju, head to the Hanok Village and Nambu Market area, where family-run restaurants serve the city's signature dishes —…"
 region: Jeonju
 category: restaurant
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: https://images.unsplash.com/photo-1700580447235-454f48647952?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SmVvbmp1JTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NjA4MDA5fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Mos Sukjaroenkraisri on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@mossuk?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Downtown_Jeonju_-_July_2018_%284%29.jpg/1920px-Downtown_Jeonju_-_July_2018_%284%29.jpg"
+  credit: "Photo: Shamus7792003 / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Downtown_Jeonju_-_July_2018_(4).jpg"
 gallery: []
 tags:
   - jeonju

@@ -1,6 +1,6 @@
 ---
 title: "GLITCH COFFEE & ROASTERS Nagoya: A Visitor's Guide in Nagoya"
-description: "A practical visitor's guide to GLITCH COFFEE & ROASTERS Nagoya in Nagoya, Japan. Verified info on location, ratings, and how to get there."
+description: "GLITCH COFFEE & ROASTERS Nagoya is a specialty coffee bar in Meieki (Nakamura Ward), a short walk from Nagoya Station, known for single-origin…"
 country: "Japan"
 region: "Nagoya"
 category: "trendy"

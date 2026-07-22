@@ -1,6 +1,6 @@
 ---
-title: "Street Food Nha Trang: A Visitor's Where to Eat in Nha Trang"
-description: "A practical visitor's guide to Street Food Nha Trang in Nha Trang, Vietnam. Verified info on location, ratings, and how to get there."
+title: "Street Food Nha Trang: Where to Eat in Nha Trang"
+description: "For an approachable, English-friendly introduction to Vietnamese street food in Nha Trang, head to Street Food Nha Trang at 119 Lý Nam Đế in the Nam Nha…"
 country: "Vietnam"
 region: "Nha Trang"
 category: "restaurant"

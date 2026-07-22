@@ -1,6 +1,6 @@
 ---
 title: "Into the forest: A Visitor's Guide in Krabi"
-description: "A practical visitor's guide to Into the forest in Krabi, Thailand. Verified info on location, ratings, and how to get there."
+description: "Into the Forest is a jungle-set café and photo-friendly attraction in Khao Thong, on the outskirts of Krabi town — best visited on a weekday morning (before…"
 country: "Thailand"
 region: "Krabi"
 category: "trendy"

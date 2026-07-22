@@ -1,6 +1,6 @@
 ---
 title: 'Nature in Jeju: A Visitor''s Guide'
-description: A practical visitor's guide to nature in Jeju, Korea — what to expect, how to get around, and tips for your visit.
+description: "Jeju's essential nature circuit centers on Hallasan National Park (South Korea's tallest peak), the coastal volcanic cones (oreum) like Seongsan Ilchulbong…"
 region: Jeju
 category: attraction
 pubDate: 2026-07-20T00:00:00.000Z

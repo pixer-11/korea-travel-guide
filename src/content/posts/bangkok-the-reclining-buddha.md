@@ -1,6 +1,6 @@
 ---
 title: "The Reclining Buddha: A Visitor's Guide in Bangkok"
-description: "A practical visitor's guide to The Reclining Buddha in Bangkok, Thailand. Verified info on location, ratings, and how to get there."
+description: "The Reclining Buddha is housed inside Wat Pho (Wat Phra Chetuphon), just south of the Grand Palace at 2 Thanon Sanam Chai, Bangkok. Go early (before 9am) to…"
 country: "Thailand"
 region: "Bangkok"
 category: "attraction"

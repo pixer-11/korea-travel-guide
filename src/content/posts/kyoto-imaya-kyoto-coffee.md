@@ -1,6 +1,6 @@
 ---
 title: "IMAYA Kyoto &COFFEE: A Visitor's Guide in Kyoto"
-description: "A practical visitor's guide to IMAYA Kyoto &COFFEE in Kyoto, Japan. Verified info on location, ratings, and how to get there."
+description: "IMAYA Kyoto &COFFEE is a compact, design-forward café in Nakagyo Ward serving Italian-style espresso drinks, natural wine, beer, and light bites in a…"
 country: "Japan"
 region: "Kyoto"
 category: "trendy"

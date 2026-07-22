@@ -1,6 +1,6 @@
 ---
-title: "Nhan's kitchen: A Visitor's Where to Eat in Hoi An"
-description: "A practical visitor's guide to Nhan's kitchen in Hoi An, Vietnam. Verified info on location, ratings, and how to get there."
+title: "Nhan's kitchen: Where to Eat in Hoi An"
+description: "Nhan's Kitchen is a budget-friendly, locally run restaurant at 167 Trần Nhân Tông in Hoi An, prized for cheap, home-style Vietnamese and Hoi An specialty…"
 country: "Vietnam"
 region: "Hoi An"
 category: "restaurant"

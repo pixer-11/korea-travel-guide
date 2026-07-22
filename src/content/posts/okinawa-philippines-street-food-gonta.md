@@ -1,6 +1,6 @@
 ---
-title: "Philippines Street Food Gonta: A Visitor's Where to Eat in Okinawa"
-description: "A practical visitor's guide to Philippines Street Food Gonta in Okinawa, Japan. Verified info on location, ratings, and how to get there."
+title: "Philippines Street Food Gonta: Where to Eat in Okinawa"
+description: "Philippines Street Food Gonta is a small Filipino streetfood counter in Chatan, on the American Village side of Okinawa's west coast — the go-to spot for…"
 country: "Japan"
 region: "Okinawa"
 category: "restaurant"

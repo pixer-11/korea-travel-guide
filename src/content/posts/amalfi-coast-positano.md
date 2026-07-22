@@ -1,6 +1,6 @@
 ---
 title: "Positano: A Visitor's Guide in Amalfi Coast"
-description: "A practical visitor's guide to Positano in Amalfi Coast, Italy. Verified info on location, ratings, and how to get there."
+description: "Positano is best visited as a 1–2 night stay or a well-timed day trip from Sorrento or Amalfi, arriving by SITA bus or ferry rather than car. Spend your…"
 country: "Italy"
 region: "Amalfi Coast"
 category: "attraction"

@@ -1,6 +1,6 @@
 ---
 title: "Rong Suea Ten Temple: A Visitor's Guide in Chiang Rai"
-description: "A practical visitor's guide to Rong Suea Ten Temple in Chiang Rai, Thailand. Verified info on location, ratings, and how to get there."
+description: "Rong Suea Ten (the \"Blue Temple\") is a striking cobalt-and-gold Buddhist temple on the northern edge of Chiang Rai city, best visited early morning or late…"
 country: "Thailand"
 region: "Chiang Rai"
 category: "attraction"

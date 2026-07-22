@@ -1,6 +1,6 @@
 ---
 title: "Curio Espresso and Vintage Design Café: A Visitor's Guide in Kanazawa"
-description: "A practical visitor's guide to Curio Espresso and Vintage Design Café in Kanazawa, Japan. Verified info on location, ratings, and how to get there."
+description: "Curio Espresso and Vintage Design Café is a small, design-forward coffee bar in Kanazawa's Yasue-chō district, a short walk from Omicho Market and Kanazawa…"
 country: "Japan"
 region: "Kanazawa"
 category: "trendy"

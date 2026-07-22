@@ -1,6 +1,6 @@
 ---
-title: "Nazar Kebab: A Visitor's Where to Eat in Daegu"
-description: "A practical visitor's guide to Nazar Kebab in Daegu, South Korea. Verified info on location, ratings, and how to get there."
+title: "Nazar Kebab: Where to Eat in Daegu"
+description: "Nazar Kebab is a Turkish/Middle Eastern kebab counter in the Dongseong-ro shopping district of Jung-gu, Daegu — a reliable, affordable stop for döner,…"
 country: "South Korea"
 region: "Daegu"
 category: "restaurant"

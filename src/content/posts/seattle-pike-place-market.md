@@ -1,6 +1,6 @@
 ---
-title: "Pike Place Market: A Visitor's Where to Eat in Seattle"
-description: "A practical visitor's guide to Pike Place Market in Seattle, United States. Verified info on location, ratings, and how to get there."
+title: "Pike Place Market: Where to Eat in Seattle"
+description: "Skip the fish-throwing crowds and eat your way through Pike Place Market instead: start with a piroshky at Piroshky Piroshky, grab a crab cocktail or salmon…"
 country: "United States"
 region: "Seattle"
 category: "restaurant"

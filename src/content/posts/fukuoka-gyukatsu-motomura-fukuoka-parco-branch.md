@@ -1,6 +1,6 @@
 ---
-title: "Gyukatsu Motomura Fukuoka Parco Branch: A Visitor's Where to Eat in Fukuoka"
-description: "A practical visitor's guide to Gyukatsu Motomura Fukuoka Parco Branch in Fukuoka, Japan. Verified info on location, ratings, and how to get there."
+title: "Gyukatsu Motomura Fukuoka Parco Branch: Where to Eat in Fukuoka"
+description: "Gyukatsu Motomura is a breaded, seared beef-cutlet specialist tucked in the basement (B2F) of Fukuoka Parco's new building in Tenjin — a fast, affordable…"
 country: "Japan"
 region: "Fukuoka"
 category: "restaurant"

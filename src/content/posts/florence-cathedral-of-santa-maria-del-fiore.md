@@ -1,6 +1,6 @@
 ---
 title: "Cathedral of Santa Maria del Fiore: A Visitor's Guide in Florence"
-description: "A practical visitor's guide to Cathedral of Santa Maria del Fiore in Florence, Italy. Verified info on location, ratings, and how to get there."
+description: "The Duomo (Cathedral of Santa Maria del Fiore) is Florence's free-to-enter cathedral crowned by Brunelleschi's red-tiled dome; climbing the dome or Giotto's…"
 country: "Italy"
 region: "Florence"
 category: "attraction"

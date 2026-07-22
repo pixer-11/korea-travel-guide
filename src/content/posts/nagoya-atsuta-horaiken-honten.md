@@ -1,6 +1,6 @@
 ---
-title: "Atsuta Hōraiken Honten: A Visitor's Where to Eat in Nagoya"
-description: "A practical visitor's guide to Atsuta Hōraiken Honten in Nagoya, Japan. Verified info on location, ratings, and how to get there."
+title: "Atsuta Hōraiken Honten: Where to Eat in Nagoya"
+description: "Atsuta Hōraiken Honten, near Atsuta Jingu shrine in Nagoya, is the birthplace of hitsumabushi — grilled, soy-glazed eel served over rice and eaten three…"
 country: "Japan"
 region: "Nagoya"
 category: "restaurant"

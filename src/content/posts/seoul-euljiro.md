@@ -1,6 +1,6 @@
 ---
 title: 'Euljiro in Seoul: A Visitor''s Guide'
-description: A practical visitor's guide to Euljiro in Seoul, Korea — what to expect, how to get around, and tips for your visit.
+description: "Euljiro (을지로) is central Seoul's old printing-and-hardware district, now famous for retro \"newtro\" bars and cafés tucked above metalworking shops. Base…"
 region: Seoul
 category: hidden-gem
 pubDate: 2026-07-20T00:00:00.000Z

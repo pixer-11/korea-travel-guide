@@ -1,6 +1,6 @@
 ---
-title: "Dotonbori: A Visitor's Where to Eat in Osaka"
-description: "A practical visitor's guide to Dotonbori in Osaka, Japan. Verified info on location, ratings, and how to get there."
+title: "Dotonbori: Where to Eat in Osaka"
+description: "Dotonbori, along the canal in Chuo Ward, is Osaka's best one-stop strip for the city's signature street food — takoyaki, okonomiyaki, kushikatsu, and ramen…"
 country: "Japan"
 region: "Osaka"
 category: "restaurant"

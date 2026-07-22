@@ -1,6 +1,6 @@
 ---
 title: "Lavender & Sunflower Field: A Visitor's Guide in Provence"
-description: "A practical visitor's guide to Lavender & Sunflower Field in Provence, France. Verified info on location, ratings, and how to get there."
+description: "The lavender and sunflower fields around Valensole, on the Plateau de Valensole in Provence, are at their best from roughly the last week of June through…"
 country: "France"
 region: "Provence"
 category: "event"

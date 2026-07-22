@@ -1,6 +1,6 @@
 ---
 title: "Dazaifu Tenmangu Shrine: A Visitor's Guide in Fukuoka"
-description: "A practical visitor's guide to Dazaifu Tenmangu Shrine in Fukuoka, Japan. Verified info on location, ratings, and how to get there."
+description: "Dazaifu Tenmangu, about 30 minutes by train from central Fukuoka, is one of Japan's most important shrines for students and scholars, built over the grave…"
 country: "Japan"
 region: "Fukuoka"
 category: "hidden-gem"

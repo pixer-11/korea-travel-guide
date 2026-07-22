@@ -1,6 +1,6 @@
 ---
 title: "Archaeological Park of Pompeii: A Visitor's Guide in Naples"
-description: "A practical visitor's guide to Archaeological Park of Pompeii in Naples, Italy. Verified info on location, ratings, and how to get there."
+description: "The Archaeological Park of Pompeii is a full ancient Roman city buried by Mount Vesuvius in 79 AD, located in the town of Pompei about 30 minutes by train…"
 country: "Italy"
 region: "Naples"
 category: "attraction"

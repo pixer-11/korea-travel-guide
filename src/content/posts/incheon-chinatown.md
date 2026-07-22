@@ -1,6 +1,6 @@
 ---
 title: 'Chinatown in Incheon: A Visitor''s Guide'
-description: A practical visitor's guide to Chinatown in Incheon, Korea — what to expect, how to get around, and tips for your visit.
+description: "Incheon's Chinatown sits right outside Incheon Station (Line 1, Exit 1) and is best treated as a half-day trip: wander the red-lantern-lined slope of…"
 region: Incheon
 category: hidden-gem
 pubDate: 2026-07-20T00:00:00.000Z

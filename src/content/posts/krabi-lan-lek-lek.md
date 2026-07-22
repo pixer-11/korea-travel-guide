@@ -1,6 +1,6 @@
 ---
-title: "Lan Lek Lek: A Visitor's Where to Eat in Krabi"
-description: "A practical visitor's guide to Lan Lek Lek in Krabi, Thailand. Verified info on location, ratings, and how to get there."
+title: "Lan Lek Lek: Where to Eat in Krabi"
+description: "Lan Lek Lek is a no-frills, budget-friendly Thai eatery on Soi Maharaj 10 in Krabi Town, a short walk or tuk-tuk ride from the Chao Fah Pier night market…"
 country: "Thailand"
 region: "Krabi"
 category: "restaurant"

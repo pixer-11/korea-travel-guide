@@ -1,6 +1,6 @@
 ---
 title: "Manly: A Visitor's Guide in Fukuoka"
-description: "A practical visitor's guide to Manly in Fukuoka, Japan. Verified info on location, ratings, and how to get there."
+description: "Manly is an Australian-themed all-day café in Imaizumi, a short walk south of Tenjin, best known for fluffy ricotta hotcakes, all-day breakfast plates, and…"
 country: "Japan"
 region: "Fukuoka"
 category: "trendy"

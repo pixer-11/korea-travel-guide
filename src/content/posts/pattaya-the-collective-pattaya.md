@@ -1,6 +1,6 @@
 ---
-title: "The Collective Pattaya: A Visitor's Where to Eat in Pattaya"
-description: "A practical visitor's guide to The Collective Pattaya in Pattaya, Thailand. Verified info on location, ratings, and how to get there."
+title: "The Collective Pattaya: Where to Eat in Pattaya"
+description: "The Collective Pattaya is the all-day dining hall inside the Holiday Inn Pattaya on Beach Road, best known for its sprawling international buffet spreads…"
 country: "Thailand"
 region: "Pattaya"
 category: "restaurant"

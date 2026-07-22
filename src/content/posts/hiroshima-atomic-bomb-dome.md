@@ -1,6 +1,6 @@
 ---
 title: "Atomic Bomb Dome: A Visitor's Guide in Hiroshima"
-description: "A practical visitor's guide to Atomic Bomb Dome in Hiroshima, Japan. Verified info on location, ratings, and how to get there."
+description: "The Atomic Bomb Dome sits on the bank of the Motoyasu River in Naka Ward, a two-minute walk from Peace Memorial Park — go early morning or just before…"
 country: "Japan"
 region: "Hiroshima"
 category: "hidden-gem"

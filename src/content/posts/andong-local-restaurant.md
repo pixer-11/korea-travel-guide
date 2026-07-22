@@ -1,6 +1,6 @@
 ---
 title: 'Local Restaurant in Andong: A Visitor''s Guide'
-description: A practical visitor's guide to local restaurant in Andong, Korea — what to expect, how to get around, and tips for your visit.
+description: "For an authentic meal in Andong, head to the Andong Jjimdak Alley (Andong Jjimdak Golmok) near Andong Bus Terminal, or the Gudam-dong/Ok-dong area near…"
 region: Andong
 category: restaurant
 pubDate: 2026-07-20T00:00:00.000Z

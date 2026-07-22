@@ -1,6 +1,6 @@
 ---
-title: "Bun Cha Ta Hoi An: A Visitor's Where to Eat in Hoi An"
-description: "A practical visitor's guide to Bun Cha Ta Hoi An in Hoi An, Vietnam. Verified info on location, ratings, and how to get there."
+title: "Bun Cha Ta Hoi An: Where to Eat in Hoi An"
+description: "Bun Cha Ta is a no-frills local favorite at 197 Nguyễn Duy Hiệu, a 15-20 minute walk (or 5-minute taxi/bike ride) east of Hoi An's Old Town. Go for grilled…"
 country: "Vietnam"
 region: "Hoi An"
 category: "restaurant"

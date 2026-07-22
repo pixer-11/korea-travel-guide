@@ -1,6 +1,6 @@
 ---
 title: "Jeju Olle Course 1-1 (Udo Olle Trail): A Visitor's Guide in Jeju"
-description: "A practical visitor's guide to Jeju Olle Course 1-1 (Udo Olle Trail) in Jeju, South Korea. Verified info on location, ratings, and how to get there."
+description: "Olle Course 1-1 is an 11.5km loop trail around Udo, the small island off Jeju's northeastern tip, combining black lava coastline, white-sand beaches and…"
 country: "South Korea"
 region: "Jeju"
 category: "attraction"

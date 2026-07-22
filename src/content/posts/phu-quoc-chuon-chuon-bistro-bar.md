@@ -1,6 +1,6 @@
 ---
 title: "Chuồn Chuồn Bistro & Bar: A Visitor's Guide in Phu Quoc"
-description: "A practical visitor's guide to Chuồn Chuồn Bistro & Bar in Phu Quoc, Vietnam. Verified info on location, ratings, and how to get there."
+description: "Chuồn Chuồn Bistro & Bar is a stylish, garden-set restaurant-lounge on Tran Hung Dao Street in Phu Quoc Town, known for its lantern-lit outdoor seating,…"
 country: "Vietnam"
 region: "Phu Quoc"
 category: "trendy"

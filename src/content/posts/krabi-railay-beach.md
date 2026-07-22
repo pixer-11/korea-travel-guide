@@ -1,6 +1,6 @@
 ---
 title: "Railay Beach: A Visitor's Guide in Krabi"
-description: "A practical visitor's guide to Railay Beach in Krabi, Thailand. Verified info on location, ratings, and how to get there."
+description: "Railay Beach is a car-free limestone peninsula near Ao Nang reachable only by longtail boat (about 15-20 minutes from Ao Nang or Nopparat Thara pier). Come…"
 country: "Thailand"
 region: "Krabi"
 category: "attraction"

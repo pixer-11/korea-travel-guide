@@ -1,6 +1,6 @@
 ---
 title: "Royal Alcázar of Seville: A Visitor's Guide in Seville"
-description: "A practical visitor's guide to Royal Alcázar of Seville in Seville, Spain. Verified info on location, ratings, and how to get there."
+description: "The Royal Alcázar of Seville is a still-functioning royal palace in the Casco Antiguo, prized for its Mudéjar palace rooms, tiled courtyards, and sprawling…"
 country: "Spain"
 region: "Seville"
 category: "attraction"

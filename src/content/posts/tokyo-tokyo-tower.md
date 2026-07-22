@@ -1,6 +1,6 @@
 ---
 title: "Tokyo Tower: A Visitor's Guide in Tokyo"
-description: "A practical visitor's guide to Tokyo Tower in Tokyo, Japan. Verified info on location, ratings, and how to get there."
+description: "Tokyo Tower, in Minato City's Shibakoen district, is best visited on a clear late afternoon so you catch sunset melting into the night skyline from the Main…"
 country: "Japan"
 region: "Tokyo"
 category: "attraction"

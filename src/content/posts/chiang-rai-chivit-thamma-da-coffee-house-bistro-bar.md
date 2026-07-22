@@ -1,6 +1,6 @@
 ---
-title: "Chivit Thamma Da Coffee House, Bistro & Bar: A Visitor's Where to Eat in Chiang Rai"
-description: "A practical visitor's guide to Chivit Thamma Da Coffee House, Bistro & Bar in Chiang Rai, Thailand. Verified info on location, ratings, and how to get there."
+title: "Chivit Thamma Da Coffee House, Bistro & Bar: Where to Eat in Chiang Rai"
+description: "Chivit Thamma Da is a riverside coffee house, bistro and bar on the Kok River just north of Chiang Rai's old town, best visited for a leisurely brunch or…"
 country: "Thailand"
 region: "Chiang Rai"
 category: "restaurant"

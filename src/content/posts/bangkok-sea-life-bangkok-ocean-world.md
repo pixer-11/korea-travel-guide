@@ -1,6 +1,6 @@
 ---
 title: "SEA LIFE Bangkok Ocean World: A Visitor's Guide in Bangkok"
-description: "A practical visitor's guide to SEA LIFE Bangkok Ocean World in Bangkok, Thailand. Verified info on location, ratings, and how to get there."
+description: "SEA LIFE Bangkok Ocean World sits in the basement (B1-B2) of Siam Paragon mall, right above BTS Siam station, making it one of the easiest major attractions…"
 country: "Thailand"
 region: "Bangkok"
 category: "attraction"

@@ -1,6 +1,6 @@
 ---
-title: "Best Khao Soi Chang mai: A Visitor's Where to Eat in Chiang Mai"
-description: "A practical visitor's guide to Best Khao Soi Chang mai in Chiang Mai, Thailand. Verified info on location, ratings, and how to get there."
+title: "Best Khao Soi Chang mai: Where to Eat in Chiang Mai"
+description: "Head to Best Khao Soi Chang Mai in the Phra Singh area (address: 1, Tambon Phra Sing, Amphoe Mueang Chiang Mai, 50200) for a classic bowl of khao soi — the…"
 country: "Thailand"
 region: "Chiang Mai"
 category: "restaurant"

@@ -1,6 +1,6 @@
 ---
 title: 'Mud Festival in Boryeong: A Visitor''s Guide'
-description: A practical visitor's guide to mud festival in Boryeong, Korea — what to expect, how to get around, and tips for your visit.
+description: "The Boryeong Mud Festival runs for about two weeks each July at Daecheon Beach on Korea's west coast, roughly two hours from Seoul by train or bus. Go for…"
 region: Boryeong
 category: event
 pubDate: 2026-07-20T00:00:00.000Z

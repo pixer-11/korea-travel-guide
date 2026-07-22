@@ -1,6 +1,6 @@
 ---
 title: "Xi Lake: A Visitor's Guide in Hangzhou"
-description: "A practical visitor's guide to Xi Lake in Hangzhou, China. Verified info on location, ratings, and how to get there."
+description: "West Lake (Xī Hú, sometimes transliterated \"Xi Lake\") is Hangzhou's freshwater centerpiece and a UNESCO World Heritage Site, best explored on foot or bike…"
 country: "China"
 region: "Hangzhou"
 category: "attraction"

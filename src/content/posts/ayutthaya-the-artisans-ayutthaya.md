@@ -1,6 +1,6 @@
 ---
-title: "The Artisans Ayutthaya: A Visitor's Where to Eat in Ayutthaya"
-description: "A practical visitor's guide to The Artisans Ayutthaya in Ayutthaya, Thailand. Verified info on location, ratings, and how to get there."
+title: "The Artisans Ayutthaya: Where to Eat in Ayutthaya"
+description: "The Artisans Ayutthaya is a riverside café-restaurant on the Ban Run side of the Pa Sak River, a short songthaew or taxi ride from Ayutthaya's historical…"
 country: "Thailand"
 region: "Ayutthaya"
 category: "restaurant"

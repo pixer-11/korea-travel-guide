@@ -1,6 +1,6 @@
 ---
 title: "Griffith Observatory: A Visitor's Guide in Los Angeles"
-description: "A practical visitor's guide to Griffith Observatory in Los Angeles, United States. Verified info on location, ratings, and how to get there."
+description: "Griffith Observatory, perched on the southern slope of Mount Hollywood in Griffith Park, is free to enter and open Wednesday–Sunday afternoons into the…"
 country: "United States"
 region: "Los Angeles"
 category: "attraction"

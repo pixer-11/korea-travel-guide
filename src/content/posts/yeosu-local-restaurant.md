@@ -1,14 +1,14 @@
 ---
 title: 'Local Restaurant in Yeosu: A Visitor''s Guide'
-description: A practical visitor's guide to local restaurant in Yeosu, Korea — what to expect, how to get around, and tips for your visit.
+description: "For genuinely local eating in Yeosu, skip the chain restaurants near the KTX station and head to Yeosu's harbor markets and Jongdapsan food streets, where…"
 region: Yeosu
 category: restaurant
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: https://images.unsplash.com/photo-1703825864792-5880081beaaf?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8WWVvc3UlMjBTb3V0aCUyMEtvcmVhfGVufDB8MHx8fDE3ODQ2MDgwMzF8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Elliot Gouy on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@gouyelliot?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Jangdo_%28Yeosu%29_09.jpg/1920px-Jangdo_%28Yeosu%29_09.jpg"
+  credit: "Photo: Seefooddiet / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Jangdo_(Yeosu)_09.jpg"
 gallery: []
 tags:
   - yeosu

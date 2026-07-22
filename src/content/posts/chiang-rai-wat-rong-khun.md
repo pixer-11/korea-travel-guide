@@ -1,6 +1,6 @@
 ---
 title: "Wat Rong Khun: A Visitor's Guide in Chiang Rai"
-description: "A practical visitor's guide to Wat Rong Khun in Chiang Rai, Thailand. Verified info on location, ratings, and how to get there."
+description: "Wat Rong Khun, better known as the White Temple, sits about 13 km (20–25 minutes by car) south of central Chiang Rai on the road to Bangkok, and is best…"
 country: "Thailand"
 region: "Chiang Rai"
 category: "attraction"

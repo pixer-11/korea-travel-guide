@@ -1,14 +1,14 @@
 ---
 title: 'Jeonpo Cafe Street: A Visitor''s Guide in Busan'
-description: A practical visitor's guide to Jeonpo Cafe Street in Busan, Korea. Verified info on location, ratings, and how to get there.
+description: "Jeonpo Cafe Street (전포카페거리) is a dense cluster of design-forward cafes, bakeries, and small bars along Dongcheon-ro in Busanjin District, best reached via…"
 region: Busan
 category: trendy
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://images.unsplash.com/photo-1591520284162-8e64eceebacf?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8QnVzYW4lMjBTb3V0aCUyMEtvcmVhfGVufDB8MHx8fDE3ODQ2MDc5ODJ8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Thomas Roger Lux on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@thomasrogerlux?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burimun_gate_and_pine_under_blue_sky_at_Beomeosa_temple_in_Busan%2C_South_Korea.jpg/1920px-Burimun_gate_and_pine_under_blue_sky_at_Beomeosa_temple_in_Busan%2C_South_Korea.jpg"
+  credit: "Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Burimun_gate_and_pine_under_blue_sky_at_Beomeosa_temple_in_Busan,_South_Korea.jpg"
 gallery: []
 place:
   id: ChIJYeuKwGTraDUR-U5PAfT2Uoo

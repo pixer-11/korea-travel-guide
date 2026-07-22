@@ -1,6 +1,6 @@
 ---
-title: "OKO - Fun Okonomiyaki Bar: A Visitor's Where to Eat in Osaka"
-description: "A practical visitor's guide to OKO - Fun Okonomiyaki Bar in Osaka, Japan. Verified info on location, ratings, and how to get there."
+title: "OKO - Fun Okonomiyaki Bar: Where to Eat in Osaka"
+description: "OKO - Fun Okonomiyaki Bar is a budget-friendly okonomiyaki counter in Dotonbori, Osaka's canal-side entertainment district, rated 4.7 from over 2,500…"
 country: "Japan"
 region: "Osaka"
 category: "restaurant"

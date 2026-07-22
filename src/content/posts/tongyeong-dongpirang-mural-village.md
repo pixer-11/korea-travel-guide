@@ -1,6 +1,6 @@
 ---
 title: 'Dongpirang Mural Village in Tongyeong: A Visitor''s Guide'
-description: A practical visitor's guide to Dongpirang mural village in Tongyeong, Korea — what to expect, how to get around, and tips for your visit.
+description: "Dongpirang is a small hillside mural village on the east side of Tongyeong's old harbor, right next to Jungang Market and below Nammangsan Park. Budget…"
 region: Tongyeong
 category: hidden-gem
 pubDate: 2026-07-20T00:00:00.000Z

@@ -1,6 +1,6 @@
 ---
 title: 'The Weeknd – After Hours Til Dawn Tour: What to Know (Madrid & Barcelona)'
-description: The Weeknd – After Hours Til Dawn Tour in Madrid & Barcelona, Spain — August 28-30, 2026 (Madrid); September 1, 2026 (Barcelona). What it is, when and where, and how to plan around it.
+description: "The Weeknd brings the After Hours Til Dawn Tour to Spain for four dates: three nights at Riyadh Air Metropolitano Stadium in Madrid (August 28-30, 2026) and…"
 country: Spain
 region: Madrid & Barcelona
 category: event

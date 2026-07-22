@@ -1,6 +1,6 @@
 ---
 title: "Arashiyama Bamboo Forest: A Visitor's Guide in Kyoto"
-description: "A practical visitor's guide to Arashiyama Bamboo Forest in Kyoto, Japan. Verified info on location, ratings, and how to get there."
+description: "The Arashiyama Bamboo Grove is a free, open-air path through towering bamboo in western Kyoto's Ukyo Ward — arrive by 8am to beat crowds, spend 15-20…"
 country: "Japan"
 region: "Kyoto"
 category: "attraction"

@@ -1,6 +1,6 @@
 ---
 title: "Po Nagar Temple: A Visitor's Guide in Nha Trang"
-description: "A practical visitor's guide to Po Nagar Temple in Nha Trang, Vietnam. Verified info on location, ratings, and how to get there."
+description: "Po Nagar is a cluster of Cham brick towers built between the 8th and 13th centuries, perched on a small hill on the north bank of the Cai River in Nha…"
 country: "Vietnam"
 region: "Nha Trang"
 category: "attraction"

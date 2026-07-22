@@ -1,6 +1,6 @@
 ---
 title: "Alhambra: A Visitor's Guide in Granada"
-description: "A practical visitor's guide to Alhambra in Granada, Spain. Verified info on location, ratings, and how to get there."
+description: "Book Alhambra tickets online weeks (in high season, months) ahead at the official site tickets.alhambra-patronato.es, choosing a specific entry slot for the…"
 country: "Spain"
 region: "Granada"
 category: "attraction"

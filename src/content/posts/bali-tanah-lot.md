@@ -1,6 +1,6 @@
 ---
 title: "Tanah Lot: A Visitor's Guide in Bali"
-description: "A practical visitor's guide to Tanah Lot in Bali, Indonesia. Verified info on location, ratings, and how to get there."
+description: "Tanah Lot is a 16th-century sea temple perched on a rock islet off Tabanan Regency's coast, about 45-60 minutes northwest of Seminyak/Canggu. Go for sunset…"
 country: "Indonesia"
 region: "Bali"
 category: "attraction"

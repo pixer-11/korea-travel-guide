@@ -1,6 +1,6 @@
 ---
 title: "Jumunjin Lighthouse: A Visitor's Guide in Gangneung"
-description: "A practical visitor's guide to Jumunjin Lighthouse (Jumunjin-deungdae) in Gangneung, Korea — the Goblin K-drama spot, with location, ratings, and how to get there."
+description: "Jumunjin Lighthouse (주문진등대) is a small white 1918-built lighthouse perched on a hill above Jumunjin Port in Gangneung, best visited in the late afternoon…"
 region: "Gangneung"
 category: "trendy"
 pubDate: 2026-07-21

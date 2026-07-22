@@ -1,6 +1,6 @@
 ---
-title: "Salt & Oak: A Visitor's Where to Eat in Koh Samui"
-description: "A practical visitor's guide to Salt & Oak in Koh Samui, Thailand. Verified info on location, ratings, and how to get there."
+title: "Salt & Oak: Where to Eat in Koh Samui"
+description: "Salt & Oak is a wood-fired grill and open-kitchen restaurant in Bo Put, on the northeast side of Koh Samui near Fisherman's Village, rated 4.8 from over…"
 country: "Thailand"
 region: "Koh Samui"
 category: "restaurant"

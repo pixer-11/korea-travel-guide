@@ -1,6 +1,6 @@
 ---
-title: "Cheaper & Better Street Food: A Visitor's Where to Eat in Bangkok"
-description: "A practical visitor's guide to Cheaper & Better Street Food in Bangkok, Thailand. Verified info on location, ratings, and how to get there."
+title: "Cheaper & Better Street Food: Where to Eat in Bangkok"
+description: "Head to Soi Silom 20 (Silom Soi 20), a narrow lunchtime alley off Silom Road in Bang Rak, for a cluster of stalls including the highly rated \"Cheaper &…"
 country: "Thailand"
 region: "Bangkok"
 category: "restaurant"

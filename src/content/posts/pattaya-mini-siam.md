@@ -1,6 +1,6 @@
 ---
 title: "Mini Siam: A Visitor's Guide in Pattaya"
-description: "A practical visitor's guide to Mini Siam in Pattaya, Thailand. Verified info on location, ratings, and how to get there."
+description: "Mini Siam is a miniature park on Sukhumvit Road at the northern edge of Pattaya, showing scaled-down replicas of Thai landmarks (like Wat Arun and the Grand…"
 country: "Thailand"
 region: "Pattaya"
 category: "attraction"

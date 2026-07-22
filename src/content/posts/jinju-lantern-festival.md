@@ -1,6 +1,6 @@
 ---
 title: 'Lantern Festival in Jinju: A Visitor''s Guide'
-description: A practical visitor's guide to lantern festival in Jinju, Korea — what to expect, how to get around, and tips for your visit.
+description: "The Jinju Namgang Yudeung (Lantern) Festival runs for about two weeks each October along the Namgang River in downtown Jinju, centered on Jinjuseong…"
 region: Jinju
 category: event
 pubDate: 2026-07-20T00:00:00.000Z

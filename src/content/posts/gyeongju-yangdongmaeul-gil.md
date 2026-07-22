@@ -1,6 +1,6 @@
 ---
 title: 'Yangdongmaeul-gil: A Visitor''s Guide in Gyeongju'
-description: A practical visitor's guide to Yangdongmaeul-gil in Gyeongju, Korea. Verified info on location, ratings, and how to get there.
+description: "Yangdongmaeul-gil is the access road into Yangdong Village, a centuries-old Yangban (noble-class) clan village in Gangdong-myeon, about 40 minutes northeast…"
 region: Gyeongju
 category: hidden-gem
 pubDate: 2026-07-21T00:00:00.000Z

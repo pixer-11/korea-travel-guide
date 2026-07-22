@@ -1,6 +1,6 @@
 ---
-title: "Fish Market Tsukiji Outer Market: A Visitor's Where to Eat in Tokyo"
-description: "A practical visitor's guide to Fish Market Tsukiji Outer Market in Tokyo, Japan. Verified info on location, ratings, and how to get there."
+title: "Fish Market Tsukiji Outer Market: Where to Eat in Tokyo"
+description: "Tsukiji Outer Market (Jonai-gai) in Chuo City is a compact grid of 400+ stalls and small eateries near the old wholesale market — go on an empty stomach…"
 country: "Japan"
 region: "Tokyo"
 category: "restaurant"

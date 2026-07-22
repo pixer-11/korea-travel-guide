@@ -1,6 +1,6 @@
 ---
 title: 'Local Restaurant in Gangneung: A Visitor''s Guide'
-description: A practical visitor's guide to local restaurant in Gangneung, Korea — what to expect, how to get around, and tips for your visit.
+description: "For an honest sense of Gangneung's food culture, head to the alleys around Jungang Market (Jungang-dong) and the Gangmun tidal flat near Gyeongpo Beach,…"
 region: Gangneung
 category: restaurant
 pubDate: 2026-07-20T00:00:00.000Z

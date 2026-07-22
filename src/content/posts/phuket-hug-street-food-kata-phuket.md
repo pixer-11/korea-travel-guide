@@ -1,6 +1,6 @@
 ---
-title: "Hug Street Food, Kata Phuket: A Visitor's Where to Eat in Phuket"
-description: "A practical visitor's guide to Hug Street Food, Kata Phuket in Phuket, Thailand. Verified info on location, ratings, and how to get there."
+title: "Hug Street Food, Kata Phuket: Where to Eat in Phuket"
+description: "Hug Street Food is a small, high-rated street-food stall/casual eatery in Kata (Karon subdistrict), just off Kata Beach's main strip on Thanon Kake Kwan. Go…"
 country: "Thailand"
 region: "Phuket"
 category: "restaurant"

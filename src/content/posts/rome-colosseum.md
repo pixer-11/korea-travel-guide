@@ -1,6 +1,6 @@
 ---
 title: "Colosseum: A Visitor's Guide in Rome"
-description: "A practical visitor's guide to Colosseum in Rome, Italy. Verified info on location, ratings, and how to get there."
+description: "Buy a timed-entry ticket online before you go (the Colosseum, Roman Forum, and Palatine Hill share one combo ticket, valid 24 hours) and arrive at your slot…"
 country: "Italy"
 region: "Rome"
 category: "attraction"

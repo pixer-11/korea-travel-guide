@@ -1,6 +1,6 @@
 ---
 title: "Tōdai-ji: A Visitor's Guide in Nara"
-description: "A practical visitor's guide to Tōdai-ji in Nara, Japan. Verified info on location, ratings, and how to get there."
+description: "Tōdai-ji is Nara's must-see temple, home to the Daibutsu (Great Buddha), one of Japan's largest bronze statues, housed in the Daibutsuden — one of the…"
 country: "Japan"
 region: "Nara"
 category: "attraction"

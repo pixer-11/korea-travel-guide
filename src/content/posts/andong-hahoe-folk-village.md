@@ -1,6 +1,6 @@
 ---
 title: 'Andong Hahoe Folk Village: A Visitor''s Guide in Andong'
-description: A practical visitor's guide to Andong Hahoe Folk Village in Andong, Korea. Verified info on location, ratings, and how to get there.
+description: "Andong Hahoe Folk Village is a still-inhabited Joseon-era village on a horseshoe bend of the Nakdong River, best visited for a half-day to see traditional…"
 region: Andong
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z

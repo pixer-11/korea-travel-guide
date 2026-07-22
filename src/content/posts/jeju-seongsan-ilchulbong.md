@@ -1,6 +1,6 @@
 ---
 title: 'Seongsan Ilchulbong: A Visitor''s Guide in Jeju'
-description: A practical visitor's guide to Seongsan Ilchulbong in Jeju, Korea. Verified info on location, ratings, and how to get there.
+description: "Seongsan Ilchulbong (\"Sunrise Peak\") is a dramatic volcanic tuff cone on Jeju's east coast, famous for sunrise views from its crater rim after a 20-30…"
 region: Jeju
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
@@ -23,7 +23,7 @@ place:
 tags:
   - jeju
   - sunrise peak
-quickAnswer: ''
+quickAnswer: "Seongsan Ilchulbong (\"Sunrise Peak\") is a dramatic volcanic tuff cone on Jeju's east coast, famous for sunrise views from its crater rim after a 20-30 minute climb. Go early for the sunrise and lighter crowds; it's about 1-1.5 hours by intercity bus from Jeju City and pairs well with a nearby Udo island ferry trip."
 faq:
   - q: How do I get to Seongsan Ilchulbong without a car?
     a: Take an intercity bus from Jeju City's bus terminal or Jeju International Airport toward Seongsan-eup; the trip takes about 1 to 1.5 hours, and the entrance is a short walk from the bus stop.

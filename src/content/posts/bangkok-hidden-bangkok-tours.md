@@ -1,6 +1,6 @@
 ---
 title: "Hidden Bangkok Tours: A Visitor's Guide in Bangkok"
-description: "A practical visitor's guide to Hidden Bangkok Tours in Bangkok, Thailand. Verified info on location, ratings, and how to get there."
+description: "Hidden Bangkok Tours runs small-group walks through Thonburi and Bangkok Yai — the old canal-side district across the river from the Grand Palace — focusing…"
 country: "Thailand"
 region: "Bangkok"
 category: "hidden-gem"

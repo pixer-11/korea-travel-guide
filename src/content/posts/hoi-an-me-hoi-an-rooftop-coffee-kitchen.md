@@ -1,6 +1,6 @@
 ---
 title: "Mê Hội An Rooftop Coffee & Kitchen: A Visitor's Guide in Hoi An"
-description: "A practical visitor's guide to Mê Hội An Rooftop Coffee & Kitchen in Hoi An, Vietnam. Verified info on location, ratings, and how to get there."
+description: "Mê Hội An Rooftop Coffee & Kitchen sits at 166 Trần Phú in the heart of Hoi An's Old Town, a short walk from the Japanese Covered Bridge, and is best…"
 country: "Vietnam"
 region: "Hoi An"
 category: "trendy"

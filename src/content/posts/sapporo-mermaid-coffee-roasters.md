@@ -1,6 +1,6 @@
 ---
 title: "Mermaid Coffee Roasters: A Visitor's Guide in Sapporo"
-description: "A practical visitor's guide to Mermaid Coffee Roasters in Sapporo, Japan. Verified info on location, ratings, and how to get there."
+description: "Mermaid Coffee Roasters is a small-batch specialty roaster and cafe in Sapporo's Susukino/Minami 3 district, a few minutes' walk from Susukino Station on…"
 country: "Japan"
 region: "Sapporo"
 category: "trendy"

@@ -1,6 +1,6 @@
 ---
 title: "Shiroi Koibito Park: A Visitor's Guide in Sapporo"
-description: "A practical visitor's guide to Shiroi Koibito Park in Sapporo, Japan. Verified info on location, ratings, and how to get there."
+description: "Shiroi Koibito Park is a whimsical chocolate-themed museum and factory run by confectioner Ishiya, located in Nishi Ward on Sapporo's western edge. Take the…"
 country: "Japan"
 region: "Sapporo"
 category: "hidden-gem"

@@ -1,6 +1,6 @@
 ---
-title: "Nagataya: A Visitor's Where to Eat in Hiroshima"
-description: "A practical visitor's guide to Nagataya in Hiroshima, Japan. Verified info on location, ratings, and how to get there."
+title: "Nagataya: Where to Eat in Hiroshima"
+description: "Nagataya is a long-running okonomiyaki counter-and-teppan restaurant in Otemachi, Naka Ward, a short walk from the Peace Memorial Park — order the classic…"
 country: "Japan"
 region: "Hiroshima"
 category: "restaurant"

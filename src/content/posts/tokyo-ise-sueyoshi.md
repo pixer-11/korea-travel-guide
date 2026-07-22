@@ -1,6 +1,6 @@
 ---
-title: "Ise Sueyoshi: A Visitor's Where to Eat in Tokyo"
-description: "A practical visitor's guide to Ise Sueyoshi in Tokyo, Japan. Verified info on location, ratings, and how to get there."
+title: "Ise Sueyoshi: Where to Eat in Tokyo"
+description: "Ise Sueyoshi is a small, counter-and-table kaiseki restaurant in Nishiazabu, Minato City, known for a meticulously plated, seasonally driven multi-course…"
 country: "Japan"
 region: "Tokyo"
 category: "restaurant"

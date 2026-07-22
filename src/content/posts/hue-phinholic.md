@@ -1,6 +1,6 @@
 ---
 title: "PhinHolic: A Visitor's Guide in Hue"
-description: "A practical visitor's guide to PhinHolic in Hue, Vietnam. Verified info on location, ratings, and how to get there."
+description: "PhinHolic is a stylish Vietnamese phin-coffee café at 65 Bến Nghé, in Hue's Thuận Hóa ward on the south bank of the Perfume River, a short walk or cyclo…"
 country: "Vietnam"
 region: "Hue"
 category: "trendy"

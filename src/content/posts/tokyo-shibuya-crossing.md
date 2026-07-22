@@ -1,6 +1,6 @@
 ---
 title: "Shibuya Crossing: A Visitor's Guide in Tokyo"
-description: "A practical visitor's guide to Shibuya Crossing in Tokyo, Japan. Verified info on location, ratings, and how to get there."
+description: "Shibuya Crossing is the huge scramble intersection right outside Shibuya Station's Hachiko Exit, where up to eight streams of pedestrians cross…"
 country: "Japan"
 region: "Tokyo"
 category: "attraction"

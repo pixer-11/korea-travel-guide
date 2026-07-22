@@ -1,6 +1,6 @@
 ---
 title: 'Gwangjang Market: A First-Timer''s Guide to Seoul''s Legendary Street Food'
-description: What to eat, when to go, and how to order at Gwangjang Market — Seoul's most famous traditional food market. Hours, location, and prices verified from live data.
+description: "Gwangjang Market in Jongno-gu is Seoul's oldest traditional market (opened 1905) and a legendary street food destination — head straight for the food alley…"
 region: Seoul
 category: hidden-gem
 pubDate: 2026-07-20T00:00:00.000Z

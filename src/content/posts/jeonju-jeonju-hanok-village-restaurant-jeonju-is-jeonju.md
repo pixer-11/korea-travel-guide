@@ -1,6 +1,6 @@
 ---
-title: "Jeonju hanok village restaurant jeonju is jeonju: A Visitor's Where to Eat in Jeonju"
-description: "A practical visitor's guide to Jeonju hanok village restaurant jeonju is jeonju in Jeonju, South Korea. Verified info on location, ratings, and how to get there."
+title: "Jeonju hanok village restaurant jeonju is jeonju: Where to Eat in Jeonju"
+description: "Head to the Jeonju Hanok Village (Wansan-gu) for the city's signature dish, bibimbap, along with makgeolli (rice wine) and kongnamul-gukbap (bean-sprout…"
 country: "South Korea"
 region: "Jeonju"
 category: "restaurant"

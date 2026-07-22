@@ -1,6 +1,6 @@
 ---
 title: 'Woljeonggyo Bridge: A Visitor''s Guide in Gyeongju'
-description: A practical visitor's guide to Woljeonggyo Bridge in Gyeongju, Korea. Verified info on location, ratings, and how to get there.
+description: "Woljeonggyo Bridge is a reconstructed Silla-era wooden bridge spanning the Namcheon (Nam Stream) in Gyeongju's Gyo-dong village, best visited around sunset…"
 region: Gyeongju
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z

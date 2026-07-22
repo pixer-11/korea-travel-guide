@@ -412,9 +412,21 @@ Go on a weekday morning to avoid crowds.
 }
 
 // ── shared assembly ──────────────────────────────────────────
+// Tidy a raw Google place name for use in a title (drop marketing suffixes).
+function cleanVenueName(name) {
+  return String(name)
+    .replace(/\s*[-–—]\s*michelin[^,]*$/i, '')       // "- Michelin Selected 2025-2026"
+    .replace(/\s*\((?:michelin|selected)[^)]*\)\s*$/i, '')
+    .trim();
+}
 function makeTitle(name, target) {
-  const t = target.category === 'restaurant' ? 'Where to Eat' : 'Guide';
-  return `${name}: A Visitor's ${t} in ${target.region}`;
+  // Was "{name}: A Visitor's Where to Eat in {region}" — ungrammatical. Restaurants
+  // now read "{name}: Where to Eat in {region}", everything else "…: A Visitor's Guide in …".
+  const suffix =
+    target.category === 'restaurant'
+      ? `Where to Eat in ${target.region}`
+      : `A Visitor's Guide in ${target.region}`;
+  return `${cleanVenueName(name)}: ${suffix}`;
 }
 function makePlacelessTitle(target) {
   return `${cap(target.topic)} in ${target.region}: A Visitor's Guide`;
@@ -431,7 +443,13 @@ function assemble(target, place, title, heroImage, gallery, content) {
   // homepage "Latest stories" always surfaces genuinely-new posts first.
   const today = new Date(Date.now() + PUB_SEQ++ * 1000).toISOString();
   const country = target.country || 'South Korea';
-  const description = place
+  // Prefer a real, unique meta description from the answer-first summary (better
+  // SEO than the old templated one). Fall back to the template only if empty.
+  const qa = (quickAnswer || '').trim().replace(/\s+/g, ' ');
+  const clip = (s, n = 158) => (s.length > n ? s.slice(0, n - 1).replace(/\s+\S*$/, '') + '…' : s);
+  const description = qa
+    ? clip(qa)
+    : place
     ? `A practical visitor's guide to ${place.name} in ${target.region}, ${country}. Verified info on location, ratings, and how to get there.`
     : `A practical visitor's guide to ${target.topic} in ${target.region}, ${country} — what to expect, how to get around, and tips for your visit.`;
 

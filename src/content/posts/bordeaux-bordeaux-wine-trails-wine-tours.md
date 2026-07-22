@@ -1,6 +1,6 @@
 ---
 title: "Bordeaux Wine Trails - Wine tours: A Visitor's Guide in Bordeaux"
-description: "A practical visitor's guide to Bordeaux Wine Trails - Wine tours in Bordeaux, France. Verified info on location, ratings, and how to get there."
+description: "Bordeaux Wine Trails runs small-group day trips from the city center out to the surrounding vineyards (Saint-Émilion, Médoc, Sauternes and Graves are the…"
 country: "France"
 region: "Bordeaux"
 category: "hidden-gem"

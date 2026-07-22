@@ -1,6 +1,6 @@
 ---
 title: 'Suncheon Bay in Suncheon: A Visitor''s Guide'
-description: A practical visitor's guide to Suncheon Bay in Suncheon, Korea — what to expect, how to get around, and tips for your visit.
+description: "Suncheon Bay National Garden and the adjacent Suncheon Bay Wetland Reserve (Suncheonman) are best visited together as a single day trip: start at the…"
 region: Suncheon
 category: attraction
 pubDate: 2026-07-20T00:00:00.000Z

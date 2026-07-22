@@ -1,6 +1,6 @@
 ---
 title: "Christmas in Alsace: A Visitor's Guide in Strasbourg"
-description: "A practical visitor's guide to Christmas in Alsace in Strasbourg, France. Verified info on location, ratings, and how to get there."
+description: "Strasbourg's Christmas Market (Marché de Noël) runs from late November through December 24-31, spread across a dozen squares in the city center, with Place…"
 country: "France"
 region: "Strasbourg"
 category: "event"

@@ -1,6 +1,6 @@
 ---
 title: "Wat Phra That Doi Suthep: A Visitor's Guide in Chiang Mai"
-description: "A practical visitor's guide to Wat Phra That Doi Suthep in Chiang Mai, Thailand. Verified info on location, ratings, and how to get there."
+description: "Wat Phra That Doi Suthep sits on a forested mountain about 15 km (roughly 30–45 minutes by road) northwest of Chiang Mai's Old City, crowned by a gleaming…"
 country: "Thailand"
 region: "Chiang Mai"
 category: "attraction"

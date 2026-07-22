@@ -1,6 +1,6 @@
 ---
 title: "Sung Sot Cave: A Visitor's Guide in Ha Long Bay"
-description: "A practical visitor's guide to Sung Sot Cave in Ha Long Bay, Vietnam. Verified info on location, ratings, and how to get there."
+description: "Sung Sot (Surprise) Cave, on Bo Hon Island in Ha Long Bay, is the bay's largest and most-visited cave — reachable only by boat, usually as a stop on a day…"
 country: "Vietnam"
 region: "Ha Long Bay"
 category: "hidden-gem"

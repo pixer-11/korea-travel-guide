@@ -1,6 +1,6 @@
 ---
 title: 'Lollapalooza 2026: What to Know (Chicago, Illinois)'
-description: Lollapalooza 2026 in Chicago, Illinois, United States — July 30 – August 2, 2026. What it is, when and where, and how to plan around it.
+description: "Lollapalooza 2026 runs July 30–August 2 in Grant Park, Chicago, with headliners including Charli XCX, Lorde, and Doja Cat. Buy tickets and check set times…"
 country: United States
 region: Chicago, Illinois
 category: event

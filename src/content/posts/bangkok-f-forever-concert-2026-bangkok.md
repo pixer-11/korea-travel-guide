@@ -1,6 +1,6 @@
 ---
 title: 'F-Forever Concert 2026 Bangkok: What to Know (Bangkok)'
-description: F-Forever Concert 2026 Bangkok in Bangkok, Thailand — 1-2 August 2026. What it is, when and where, and how to plan around it.
+description: "F4 (Jerry Yan, Van Ness Wu, Vic Chou) — the trio behind the 2001 drama phenomenon Meteor Garden — reunite for two nights, 1–2 August 2026, at IMPACT Arena…"
 country: Thailand
 region: Bangkok
 category: event

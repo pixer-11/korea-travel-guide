@@ -1,6 +1,6 @@
 ---
-title: "sahha halal restaurant: A Visitor's Where to Eat in Nara"
-description: "A practical visitor's guide to sahha halal restaurant in Nara, Japan. Verified info on location, ratings, and how to get there."
+title: "sahha halal restaurant: Where to Eat in Nara"
+description: "Sahha is a highly-rated halal restaurant in Hōrenchō, a short taxi or bus ride north of central Nara Park, serving halal-certified Japanese and…"
 country: "Japan"
 region: "Nara"
 category: "restaurant"

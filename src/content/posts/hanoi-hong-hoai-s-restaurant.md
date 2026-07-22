@@ -1,6 +1,6 @@
 ---
-title: "Hong Hoai's Restaurant: A Visitor's Where to Eat in Hanoi"
-description: "A practical visitor's guide to Hong Hoai's Restaurant in Hanoi, Vietnam. Verified info on location, ratings, and how to get there."
+title: "Hong Hoai's Restaurant: Where to Eat in Hanoi"
+description: "Hong Hoai's Restaurant sits in the Old Quarter near the corner of Bát Đàn and Hàng Bồ streets in Hoàn Kiếm district, a few minutes' walk from Hoàn Kiếm…"
 country: "Vietnam"
 region: "Hanoi"
 category: "restaurant"

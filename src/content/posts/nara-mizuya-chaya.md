@@ -1,6 +1,6 @@
 ---
-title: "Mizuya Chaya: A Visitor's Where to Eat in Nara"
-description: "A practical visitor's guide to Mizuya Chaya in Nara, Japan. Verified info on location, ratings, and how to get there."
+title: "Mizuya Chaya: Where to Eat in Nara"
+description: "Mizuya Chaya is a rustic teahouse-restaurant tucked in the forest along the approach to Kasuga Taisha in Nara Park, best known for its warabimochi and…"
 country: "Japan"
 region: "Nara"
 category: "restaurant"

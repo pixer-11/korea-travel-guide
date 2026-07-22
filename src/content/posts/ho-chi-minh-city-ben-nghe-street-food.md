@@ -1,6 +1,6 @@
 ---
-title: "Ben Nghe Street Food: A Visitor's Where to Eat in Ho Chi Minh City"
-description: "A practical visitor's guide to Ben Nghe Street Food in Ho Chi Minh City, Vietnam. Verified info on location, ratings, and how to get there."
+title: "Ben Nghe Street Food: Where to Eat in Ho Chi Minh City"
+description: "Ben Nghe Street Food (134 Nam Kỳ Khởi Nghĩa, District 1) is a sprawling open-air food court that packs dozens of Vietnamese street-food stalls into one…"
 country: "Vietnam"
 region: "Ho Chi Minh City"
 category: "restaurant"

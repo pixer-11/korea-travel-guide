@@ -1,6 +1,6 @@
 ---
-title: "Taste Bologna - Bologna Food Tour: A Visitor's Where to Eat in Bologna"
-description: "A practical visitor's guide to Taste Bologna - Bologna Food Tour in Bologna, Italy. Verified info on location, ratings, and how to get there."
+title: "Taste Bologna - Bologna Food Tour: Where to Eat in Bologna"
+description: "Taste Bologna is a small-group, guided food-tasting tour that walks you through Bologna's historic core and market stalls, pairing tastings of mortadella,…"
 country: "Italy"
 region: "Bologna"
 category: "restaurant"

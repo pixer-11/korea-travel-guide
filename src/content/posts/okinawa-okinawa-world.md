@@ -1,6 +1,6 @@
 ---
 title: "Okinawa World: A Visitor's Guide in Okinawa"
-description: "A practical visitor's guide to Okinawa World in Okinawa, Japan. Verified info on location, ratings, and how to get there."
+description: "Okinawa World in Nanjo City is best visited as a half-day trip from Naha (about 30–40 minutes by car), combining a walk through the illuminated Gyokusendo…"
 country: "Japan"
 region: "Okinawa"
 category: "hidden-gem"

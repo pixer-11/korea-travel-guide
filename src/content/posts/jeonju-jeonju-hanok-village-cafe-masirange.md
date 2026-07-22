@@ -1,6 +1,6 @@
 ---
 title: "Jeonju hanok village cafe masirange: A Visitor's Guide in Jeonju"
-description: "A practical visitor's guide to Jeonju hanok village cafe masirange in Jeonju, Korea. Verified info on location, ratings, and how to get there."
+description: "Masirange is a hanok-style café tucked in the Jeondong side of Jeonju Hanok Village, a short walk from Jeondong Catholic Church, best visited on a weekday…"
 region: "Jeonju"
 category: "trendy"
 pubDate: 2026-07-21

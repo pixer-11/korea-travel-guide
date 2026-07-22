@@ -1,6 +1,6 @@
 ---
 title: 'Hong Kong Football Festival 2026: What to Know (Hong Kong)'
-description: Hong Kong Football Festival 2026 in Hong Kong, China — July 31 – August 5, 2026. What it is, when and where, and how to plan around it.
+description: "The Hong Kong Football Festival 2026 runs July 31–August 5, 2026 at the new Kai Tak Stadium, with two exhibition matches featuring Manchester City, Inter…"
 country: China
 region: Hong Kong
 category: event

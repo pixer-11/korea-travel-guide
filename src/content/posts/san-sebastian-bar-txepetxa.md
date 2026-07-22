@@ -1,6 +1,6 @@
 ---
-title: "Bar Txepetxa: A Visitor's Where to Eat in San Sebastian"
-description: "A practical visitor's guide to Bar Txepetxa in San Sebastian, Spain. Verified info on location, ratings, and how to get there."
+title: "Bar Txepetxa: Where to Eat in San Sebastian"
+description: "Bar Txepetxa, on Arrandegi Kalea 5 in San Sebastián's Parte Vieja, is a pintxos bar built around a single specialty: anchovies, served a dozen different…"
 country: "Spain"
 region: "San Sebastian"
 category: "restaurant"

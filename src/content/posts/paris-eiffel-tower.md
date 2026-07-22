@@ -1,6 +1,6 @@
 ---
 title: "Eiffel Tower: A Visitor's Guide in Paris"
-description: "A practical visitor's guide to Eiffel Tower in Paris, France. Verified info on location, ratings, and how to get there."
+description: "Buy timed-entry tickets online in advance (booking opens roughly 60-90 days ahead) and go either at opening (9:30am) or after sunset for the light show.…"
 country: "France"
 region: "Paris"
 category: "attraction"

@@ -1,6 +1,6 @@
 ---
-title: "Chatan Steam Seafood: A Visitor's Where to Eat in Okinawa"
-description: "A practical visitor's guide to Chatan Steam Seafood in Okinawa, Japan. Verified info on location, ratings, and how to get there."
+title: "Chatan Steam Seafood: Where to Eat in Okinawa"
+description: "Chatan Steam Seafood is a pick-and-steam seafood buffet on the 3rd floor of a building in Mihama, Chatan — the American Village district on Okinawa's west…"
 country: "Japan"
 region: "Okinawa"
 category: "restaurant"

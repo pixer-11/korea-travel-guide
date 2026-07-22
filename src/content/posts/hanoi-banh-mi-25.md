@@ -1,6 +1,6 @@
 ---
-title: "Banh Mi 25: A Visitor's Where to Eat in Hanoi"
-description: "A practical visitor's guide to Banh Mi 25 in Hanoi, Vietnam. Verified info on location, ratings, and how to get there."
+title: "Banh Mi 25: Where to Eat in Hanoi"
+description: "Banh Mi 25, at 25 Hàng Cá in Hanoi's Old Quarter, is one of the city's most popular banh mi stalls — a cheap, fast, no-frills sandwich stop with a huge menu…"
 country: "Vietnam"
 region: "Hanoi"
 category: "restaurant"

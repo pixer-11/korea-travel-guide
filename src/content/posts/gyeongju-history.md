@@ -1,6 +1,6 @@
 ---
 title: 'History in Gyeongju: A Visitor''s Guide'
-description: A practical visitor's guide to history in Gyeongju, Korea — what to expect, how to get around, and tips for your visit.
+description: "Spend two full days in Gyeongju: one for the Tumuli Park/Cheomseongdae/Wolji Pond loop in the city center, and one for Bulguksa Temple and Seokguram Grotto…"
 region: Gyeongju
 category: attraction
 pubDate: 2026-07-20T00:00:00.000Z

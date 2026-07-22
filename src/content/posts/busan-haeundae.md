@@ -1,6 +1,6 @@
 ---
 title: 'Haeundae in Busan: A Visitor''s Guide'
-description: A practical visitor's guide to Haeundae in Busan, Korea — what to expect, how to get around, and tips for your visit.
+description: "Haeundae Beach sits at the end of Busan Metro Line 2 (Haeundae Station, Exit 3 or 5, then a 10–15 minute walk down Guemgangno or Haeundaehaebyeon-ro), with…"
 region: Busan
 category: attraction
 pubDate: 2026-07-20T00:00:00.000Z

@@ -1,6 +1,6 @@
 ---
 title: 'Seoraksan Cable Car: A Visitor''s Guide in Sokcho'
-description: A practical visitor's guide to Seoraksan Cable Car in Sokcho, Korea. Verified info on location, ratings, and how to get there.
+description: "The Seoraksan Cable Car whisks visitors from the base station near Sogongwon Park up to Gwongeumseong Fortress ridge on Mt. Gwonggeumseong (about 705m) in…"
 region: Sokcho
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z

@@ -1,6 +1,6 @@
 ---
 title: "Sun World Halong Park: A Visitor's Guide in Ha Long Bay"
-description: "A practical visitor's guide to Sun World Halong Park in Ha Long Bay, Vietnam. Verified info on location, ratings, and how to get there."
+description: "Sun World Halong Park is a theme park in Bai Chay (9 Ha Long, Quang Ninh) with a roller coaster, a landmark bi-level carousel, and an attached water park,…"
 country: "Vietnam"
 region: "Ha Long Bay"
 category: "attraction"

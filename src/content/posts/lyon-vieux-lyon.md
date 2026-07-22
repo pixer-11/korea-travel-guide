@@ -1,6 +1,6 @@
 ---
 title: "Vieux Lyon: A Visitor's Guide in Lyon"
-description: "A practical visitor's guide to Vieux Lyon in Lyon, France. Verified info on location, ratings, and how to get there."
+description: "Vieux Lyon is the Renaissance quarter on the west bank of the Saône, best explored on foot in a half-day: wander the traboules (hidden passageways), climb…"
 country: "France"
 region: "Lyon"
 category: "hidden-gem"

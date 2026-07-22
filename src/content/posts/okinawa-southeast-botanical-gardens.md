@@ -1,6 +1,6 @@
 ---
 title: "Southeast Botanical Gardens: A Visitor's Guide in Okinawa"
-description: "A practical visitor's guide to Southeast Botanical Gardens in Okinawa, Japan. Verified info on location, ratings, and how to get there."
+description: "Southeast Botanical Gardens (東南植物楽園) in Okinawa City is a large tropical garden with lakes, orchid houses, and animal encounters, best visited on a half-day…"
 country: "Japan"
 region: "Okinawa"
 category: "attraction"

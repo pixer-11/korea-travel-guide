@@ -1,6 +1,6 @@
 ---
 title: "Sensō-ji: A Visitor's Guide in Tokyo"
-description: "A practical visitor's guide to Sensō-ji in Tokyo, Japan. Verified info on location, ratings, and how to get there."
+description: "Sensō-ji, Tokyo's oldest temple (completed 645 AD), sits in Asakusa and is best reached via Asakusa Station (Ginza or Asakusa subway lines, exit 1). Walk…"
 country: "Japan"
 region: "Tokyo"
 category: "attraction"

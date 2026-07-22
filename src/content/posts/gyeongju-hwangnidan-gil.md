@@ -1,6 +1,6 @@
 ---
 title: 'Hwangnidan-Gil in Gyeongju: A Visitor''s Guide'
-description: A practical visitor's guide to Hwangnidan-gil in Gyeongju, Korea — what to expect, how to get around, and tips for your visit.
+description: "Hwangnidan-gil is Gyeongju's trendiest strip of cafes, hanbok rental shops, and boutiques, tucked into a low-rise residential neighborhood a short walk…"
 region: Gyeongju
 category: trendy
 pubDate: 2026-07-20T00:00:00.000Z

@@ -1,6 +1,6 @@
 ---
 title: "The Marble Mountains: A Visitor's Guide in Da Nang"
-description: "A practical visitor's guide to The Marble Mountains in Da Nang, Vietnam. Verified info on location, ratings, and how to get there."
+description: "The Marble Mountains (Ngũ Hành Sơn) are a cluster of five stone-and-marble hills about 8km south of central Da Nang, riddled with Buddhist caves, temples,…"
 country: "Vietnam"
 region: "Da Nang"
 category: "attraction"

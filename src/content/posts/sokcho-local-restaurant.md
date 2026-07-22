@@ -1,14 +1,14 @@
 ---
 title: 'Local Restaurant in Sokcho: A Visitor''s Guide'
-description: A practical visitor's guide to local restaurant in Sokcho, Korea — what to expect, how to get around, and tips for your visit.
+description: "For genuine local eating in Sokcho, head to Sokcho Jungang Market or the alleys around Daepo Port and Sokcho Beach, where small family-run restaurants…"
 region: Sokcho
 category: restaurant
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: https://images.unsplash.com/photo-1703825864792-5880081beaaf?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U29rY2hvJTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NjA4MDIyfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Elliot Gouy on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@gouyelliot?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/View_of_Sokcho_01.jpg/1920px-View_of_Sokcho_01.jpg"
+  credit: "Photo: Bernard Gagnon / Wikimedia Commons (CC0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:View_of_Sokcho_01.jpg"
 gallery: []
 tags:
   - sokcho

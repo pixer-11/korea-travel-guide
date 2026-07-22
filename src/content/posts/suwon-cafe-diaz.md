@@ -1,6 +1,6 @@
 ---
 title: "Cafe Diaz: A Visitor's Guide in Suwon"
-description: "A practical visitor's guide to Cafe Diaz in Suwon, South Korea. Verified info on location, ratings, and how to get there."
+description: "Cafe Diaz is a large, design-forward café in Paldal-gu, Suwon, best known for its striking industrial-meets-botanical interior and consistently high visitor…"
 country: "South Korea"
 region: "Suwon"
 category: "trendy"

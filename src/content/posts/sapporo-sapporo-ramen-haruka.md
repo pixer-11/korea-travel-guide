@@ -1,6 +1,6 @@
 ---
-title: "Sapporo Ramen Haruka: A Visitor's Where to Eat in Sapporo"
-description: "A practical visitor's guide to Sapporo Ramen Haruka in Sapporo, Japan. Verified info on location, ratings, and how to get there."
+title: "Sapporo Ramen Haruka: Where to Eat in Sapporo"
+description: "Sapporo Ramen Haruka is a small, highly-rated miso ramen shop tucked into the historic Ramen Yokocho (Ramen Alley) in Minami 5 Jonishi, Chuo Ward — a…"
 country: "Japan"
 region: "Sapporo"
 category: "restaurant"

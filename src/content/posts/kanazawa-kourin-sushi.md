@@ -1,6 +1,6 @@
 ---
-title: "Kourin Sushi: A Visitor's Where to Eat in Kanazawa"
-description: "A practical visitor's guide to Kourin Sushi in Kanazawa, Japan. Verified info on location, ratings, and how to get there."
+title: "Kourin Sushi: Where to Eat in Kanazawa"
+description: "Kourin Sushi (光琳寿司) is a well-regarded, moderately priced sushi counter in Bakuromachi, a short walk from Omicho Market — Kanazawa's main fish market and…"
 country: "Japan"
 region: "Kanazawa"
 category: "restaurant"

@@ -1,6 +1,6 @@
 ---
 title: "Treehouse Cafe & Bar: A Visitor's Guide in Bangkok"
-description: "A practical visitor's guide to Treehouse Cafe & Bar in Bangkok, Thailand. Verified info on location, ratings, and how to get there."
+description: "Treehouse Cafe & Bar is a jungle-themed café tucked down Sukhumvit Soi 31 in Watthana, best visited on a weekday afternoon to snag a table among the vines…"
 country: "Thailand"
 region: "Bangkok"
 category: "trendy"

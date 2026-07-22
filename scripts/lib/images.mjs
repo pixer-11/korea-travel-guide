@@ -167,8 +167,13 @@ function mark(img, used) {
 // Never random — random top-10 picks are what produced wrong-country photos.
 async function unsplashStrict(query, used) {
   const cands = await unsplashCandidates(query, 12);
-  const pick = cands.find((c) => !used || !used.has(c.url)) || cands[0];
+  // De-dupe by Unsplash PHOTO ID, not just the full URL — the same photo can appear
+  // with different query params, which slipped past a URL-only check and put one
+  // photo on several posts.
+  const free = (c) => !used || (!used.has(c.url) && !used.has(`unsplash:${c.id}`));
+  const pick = cands.find(free) || cands[0];
   if (!pick) return null;
+  if (used) { used.add(pick.url); used.add(`unsplash:${pick.id}`); }
   trackUnsplashDownload(pick.downloadLocation);
   return { url: pick.url, credit: pick.credit, license: pick.license, source: pick.source };
 }

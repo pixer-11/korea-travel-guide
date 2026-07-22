@@ -1,6 +1,6 @@
 ---
-title: "Ăn Thôi: A Visitor's Where to Eat in Da Nang"
-description: "A practical visitor's guide to Ăn Thôi in Da Nang, Vietnam. Verified info on location, ratings, and how to get there."
+title: "Ăn Thôi: Where to Eat in Da Nang"
+description: "Ăn Thôi is a large, buzzy Vietnamese restaurant on Bạch Đằng, Da Nang's riverside promenade, best known for seafood and central Vietnamese specialties like…"
 country: "Vietnam"
 region: "Da Nang"
 category: "restaurant"

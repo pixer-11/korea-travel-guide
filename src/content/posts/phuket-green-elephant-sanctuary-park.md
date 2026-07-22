@@ -1,6 +1,6 @@
 ---
 title: "Green Elephant Sanctuary Park: A Visitor's Guide in Phuket"
-description: "A practical visitor's guide to Green Elephant Sanctuary Park in Phuket, Thailand. Verified info on location, ratings, and how to get there."
+description: "Green Elephant Sanctuary Park sits in Cherngtalay, near Bang Tao and Layan beaches in northwest Phuket, and offers half-day ethical elephant encounters…"
 country: "Thailand"
 region: "Phuket"
 category: "hidden-gem"

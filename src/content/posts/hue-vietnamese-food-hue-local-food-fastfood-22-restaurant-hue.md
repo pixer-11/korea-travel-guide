@@ -1,6 +1,6 @@
 ---
-title: "Vietnamese Food - Hue Local Food & FastFood 22 Restaurant (Huế): A Visitor's Where to Eat in Hue"
-description: "A practical visitor's guide to Vietnamese Food - Hue Local Food & FastFood 22 Restaurant (Huế) in Hue, Vietnam. Verified info on location, ratings, and how to get there."
+title: "Vietnamese Food - Hue Local Food & FastFood 22 Restaurant (Huế): Where to Eat in Hue"
+description: "Head to 22 Trần Huy Liệu in Phú Xuân ward, a few minutes' walk from Hue's Citadel, for cheap, high-volume Vietnamese and Hue-style local food (rated 4.9…"
 country: "Vietnam"
 region: "Hue"
 category: "restaurant"

@@ -1,6 +1,6 @@
 ---
 title: "Osaka Castle: A Visitor's Guide in Osaka"
-description: "A practical visitor's guide to Osaka Castle in Osaka, Japan. Verified info on location, ratings, and how to get there."
+description: "Osaka Castle is best visited in the morning (gates open around 9am) to beat crowds and heat, with 2-3 hours enough for the park, the museum inside the main…"
 country: "Japan"
 region: "Osaka"
 category: "attraction"

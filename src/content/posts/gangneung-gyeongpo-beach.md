@@ -1,6 +1,6 @@
 ---
 title: "Gyeongpo Beach: A Visitor's Guide in Gangneung"
-description: "A practical visitor's guide to Gyeongpo Beach in Gangneung, South Korea. Verified info on location, ratings, and how to get there."
+description: "Gyeongpo Beach is Gangneung's flagship stretch of sand on South Korea's east coast, a wide, gently sloping beach backed by a pine grove and lined with…"
 country: "South Korea"
 region: "Gangneung"
 category: "attraction"

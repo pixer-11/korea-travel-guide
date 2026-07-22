@@ -1,6 +1,6 @@
 ---
 title: "The Grand Palace: A Visitor's Guide in Bangkok"
-description: "A practical visitor's guide to The Grand Palace in Bangkok, Thailand. Verified info on location, ratings, and how to get there."
+description: "Set aside half a day, arrive by 8:30am when doors open at 8:30 and the heat and crowds are lowest, and dress in clothing that fully covers shoulders and…"
 country: "Thailand"
 region: "Bangkok"
 category: "attraction"

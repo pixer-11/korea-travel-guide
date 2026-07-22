@@ -1,6 +1,6 @@
 ---
 title: 'Huinnyeoul Culture Village: A Visitor''s Guide in Busan'
-description: A practical visitor's guide to Huinnyeoul Culture Village in Busan, Korea. Verified info on location, ratings, and how to get there.
+description: "Huinnyeoul Culture Village is a small seaside neighborhood on Yeongdo Island in Busan, best reached by bus (there's no direct subway) and best explored on…"
 region: Busan
 category: hidden-gem
 pubDate: 2026-07-21T00:00:00.000Z

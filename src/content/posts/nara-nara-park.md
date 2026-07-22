@@ -1,6 +1,6 @@
 ---
 title: "Nara Park: A Visitor's Guide in Nara"
-description: "A practical visitor's guide to Nara Park in Nara, Japan. Verified info on location, ratings, and how to get there."
+description: "Nara Park is a sprawling public park in central Nara famous for over 1,000 free-roaming, bowing sika deer and the temples that ring its edges — Todai-ji,…"
 country: "Japan"
 region: "Nara"
 category: "attraction"

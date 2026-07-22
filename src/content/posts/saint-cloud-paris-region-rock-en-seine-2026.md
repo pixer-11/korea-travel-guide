@@ -1,6 +1,6 @@
 ---
-title: 'Rock en Seine 2026: What to Know (Saint-Cloud (Paris region))'
-description: Rock en Seine 2026 in Saint-Cloud (Paris region), France — August 26–30, 2026. What it is, when and where, and how to plan around it.
+title: "Rock en Seine 2026: What to Know (Saint-Cloud, Paris)"
+description: "Rock en Seine 2026 runs August 26–30, 2026 at the Domaine national de Saint-Cloud, just west of Paris, with The Cure, Nick Cave & The Bad Seeds and Tyler,…"
 country: France
 region: Saint-Cloud (Paris region)
 category: event
