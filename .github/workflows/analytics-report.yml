@@ -3,7 +3,9 @@ name: Daily analytics report (Telegram)
 # Pulls yesterday's Cloudflare Web Analytics and sends a summary to Telegram.
 on:
   schedule:
-    - cron: '13 9 * * *' # 09:13 UTC daily (yesterday's data is complete by then)
+    - cron: '7 0 * * *' # 00:07 UTC = 09:07 KST — so the report lands ~9am Korea time.
+                        # Off the hour because GitHub drops/delays :00 crons. GitHub's
+                        # own scheduling delay (10-40m) also lets yesterday's UTC data settle.
   workflow_dispatch:
 
 jobs:
