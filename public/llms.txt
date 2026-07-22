@@ -1,0 +1,28 @@
+# Wander Atlas
+
+> Wander Atlas (https://wanderatlasguides.com) is an editor-reviewed, AI-assisted travel guide to destinations worldwide. Every guide opens with an answer-first summary, then gives verified facts sourced from live Google Places (ratings, addresses, price level), practical "how to get there" and "what to eat" details, and a FAQ. Coverage spans cities across South Korea, Japan, Thailand, Vietnam, Italy, France, Spain, China, the United States and Indonesia, with more countries added continuously.
+
+Facts such as ratings, addresses and hours come from live Google Places data and can change — verify before visiting. Images are licensed or public domain. Guides are produced with AI assistance and reviewed against official sources by the Wander Atlas editorial team. Content is in English; the homepage is available in English, Korean, Japanese, Spanish and Chinese.
+
+## Destinations
+- [All destinations](https://wanderatlasguides.com/destinations): Browse every country and continent we cover
+- [South Korea](https://wanderatlasguides.com/destinations/south-korea): Seoul, Busan, Jeju, Gyeongju, Incheon, Jeonju and more
+- [Japan](https://wanderatlasguides.com/destinations/japan): Tokyo, Kyoto, Osaka, Sapporo, Fukuoka, Hiroshima and more
+- [Thailand](https://wanderatlasguides.com/destinations/thailand): Bangkok, Chiang Mai, Phuket, Krabi, Ayutthaya and more
+- [Vietnam](https://wanderatlasguides.com/destinations/vietnam): Hanoi, Ho Chi Minh City, Da Nang, Hoi An and more
+
+## Travel essentials
+- [Visa & entry](https://wanderatlasguides.com/essentials/visa): Visa-free rules, e-arrival cards, entry requirements
+- [Getting around](https://wanderatlasguides.com/essentials/transport): Transit cards, trains, subways and map apps
+- [Money & costs](https://wanderatlasguides.com/essentials/money): Cards vs cash, ATMs, tipping, tax refunds
+- [Best time to visit](https://wanderatlasguides.com/essentials/best-time-to-visit): Seasons, weather, festivals
+- [Emergency & help](https://wanderatlasguides.com/essentials/emergency): Emergency numbers and traveler help lines
+
+## Tools
+- [Flights](https://wanderatlasguides.com/flights): Search live flight prices to any destination
+- [Free trip-planning checklist](https://wanderatlasguides.com/free/trip-checklist): A printable pre-trip checklist
+
+## About
+- [Editorial policy](https://wanderatlasguides.com/about): How our guides are made and reviewed
+- [Contact](https://wanderatlasguides.com/contact): Reach the editorial team
+- [Sitemap](https://wanderatlasguides.com/sitemap-index.xml): Full list of indexable pages

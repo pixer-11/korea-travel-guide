@@ -240,6 +240,16 @@
       "blurb": "Istanbul where two continents meet, Cappadocia's balloon-filled skies, turquoise coasts and ancient ruins, and legendary bazaar and food culture.",
       "regions": ["Istanbul", "Cappadocia", "Antalya", "Izmir", "Bodrum", "Ankara", "Pamukkale"],
       "continent": "Asia"
+    },
+    {
+      "name": "Singapore",
+      "priority": 5,
+      "slug": "singapore",
+      "flag": "🇸🇬",
+      "active": true,
+      "blurb": "A futuristic city-state where hawker-stall feasts, Marina Bay's skyline, lush gardens, and a blend of Malay, Chinese, Indian and Peranakan cultures meet — clean, safe, and effortless to explore.",
+      "regions": ["Marina Bay", "Sentosa", "Chinatown", "Orchard Road", "Little India", "Kampong Glam", "Clarke Quay"],
+      "continent": "Asia"
     }
   ]
 }
