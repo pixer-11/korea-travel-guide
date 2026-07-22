@@ -1,20 +1,21 @@
 ---
-// Per-post "Where to stay" block. This Travelpayouts account has NO Hotellook
-// hotel-search WIDGET available (Tools → Widgets lists no hotel brand), so rather
-// than embed an empty widget that just auto-hides, we show a reliable, always-
-// visible hotel-search CTA. It's a marker-tracked Hotellook search link (marker
-// 754088) — the same working link the top-of-post "Find hotels" button uses — so
-// it needs no widget/campaign approval and tracks under our account. If a hotel
-// search widget ever becomes available, swap this for the inline-price widget.
+// Per-post "Where to stay" block. This Travelpayouts account has no dedicated
+// hotel-search widget, and Hotels.com/Booking are locked until the site has 3
+// months of stable traffic. So hotels are monetized through KLOOK — an ACTIVE
+// program on the account (already tracking clicks) whose "Hotels & Accommodations"
+// category pays 2-5%. Klook is Asia-strong, which fits our Asia-heavy content.
+// The link is a per-city Klook hotel search via the account's Klook affiliate
+// redirect (pid 754088 → preserves attribution). UPGRADE PLAN: switch to
+// Hotels.com once traffic unlocks it (~3 months) for better hotel-specific rates.
 interface Props { city: string; country?: string }
 const { city, country } = Astro.props;
-const dest = [city, country].filter(Boolean).join(', ');
-const href = `https://search.hotellook.com/?marker=754088&destination=${encodeURIComponent(dest)}`;
+const klookSearch = `https://www.klook.com/en-US/search/?query=${city} hotels`;
+const href = `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7Cpid%7C754088&k_site=${encodeURIComponent(klookSearch)}`;
 ---
 <section class="tp-hotels">
   <div class="rule-head"><span class="kicker">Where to stay in {city}</span></div>
   <div class="hotels-cta">
-    <p>Compare live nightly prices for {city} across hundreds of booking sites — shown in your local currency.</p>
+    <p>Compare hotels and stays in {city} — deals, ratings, and real traveler reviews.</p>
     <a class="btn btn-primary" href={href} target="_blank" rel="sponsored noopener">🏨 Search hotels in {city} &rarr;</a>
   </div>
   <p class="tp-disclosure">Booking links are affiliate links — booking through them supports our free guides at no extra cost to you.</p>
