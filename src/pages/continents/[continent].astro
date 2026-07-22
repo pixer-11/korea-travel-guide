@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Icon from '../../components/Icon.astro';
 import { SITE } from '../../siteConfig';
+import { pickRepHeroUrl } from '../../lib/repImage';
 import countriesData from '../../../data/countries.json';
 
 const CONTINENT_ORDER = ['Asia', 'Europe', 'North America', 'South America', 'Africa', 'Oceania', 'Other'];
@@ -44,12 +45,7 @@ const heroPost = posts.find(
 const heroImg = heroPost?.data.heroImage?.url ?? '';
 
 // A representative photo per country — its newest real (non-placeholder) hero.
-const repImage = (name) => {
-  const p = posts.find(
-    (p) => (p.data.country ?? 'South Korea') === name && p.data.heroImage?.url && !p.data.heroImage.url.includes('placeholder')
-  );
-  return p?.data.heroImage?.url ?? '';
-};
+const repImage = (name) => pickRepHeroUrl(posts.filter((p) => (p.data.country ?? 'South Korea') === name));
 
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
 const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();

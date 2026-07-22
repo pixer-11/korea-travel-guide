@@ -5,6 +5,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import PostCard from '../../components/PostCard.astro';
 import Icon from '../../components/Icon.astro';
 import Newsletter from '../../components/Newsletter.astro';
+import { pickRepHeroUrl } from '../../lib/repImage';
 import countriesData from '../../../data/countries.json';
 
 // Optimized WebP thumbnail for a hero URL (scripts/build-wall.mjs), for faint
@@ -42,10 +43,8 @@ const essentialsSlugs = new Set(
   (await getCollection('essentials', ({ data }) => !data.draft)).map((e) => e.id)
 );
 const hasEssentials = essentialsSlugs.has(country.slug);
-const regionImage = (r) => {
-  const p = posts.find((x) => x.data.region === r && x.data.heroImage?.url && !x.data.heroImage.url.includes('placeholder'));
-  return wallThumb(p?.data.heroImage?.url);
-};
+// Region tile photo — prefer a landmark/scenery shot over food (see pickRepHeroUrl).
+const regionImage = (r) => wallThumb(pickRepHeroUrl(posts.filter((p) => p.data.region === r)));
 
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
 const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();

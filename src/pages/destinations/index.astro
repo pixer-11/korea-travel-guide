@@ -3,18 +3,14 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Icon from '../../components/Icon.astro';
 import { SITE } from '../../siteConfig';
+import { pickRepHeroUrl } from '../../lib/repImage';
 import countriesData from '../../../data/countries.json';
 
 const posts = await getCollection('posts', ({ data }) => !data.draft);
 posts.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
 const countFor = (name) => posts.filter((p) => (p.data.country ?? 'South Korea') === name).length;
 // Representative photo per country — its newest real (non-placeholder) hero.
-const repImage = (name) => {
-  const p = posts.find(
-    (p) => (p.data.country ?? 'South Korea') === name && p.data.heroImage?.url && !p.data.heroImage.url.includes('placeholder')
-  );
-  return p?.data.heroImage?.url ?? '';
-};
+const repImage = (name) => pickRepHeroUrl(posts.filter((p) => (p.data.country ?? 'South Korea') === name));
 const countries = countriesData.countries.map((c) => ({ ...c, count: countFor(c.name) }));
 
 // Group by continent → scalable as more countries are added.

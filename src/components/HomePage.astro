@@ -7,6 +7,7 @@ import Newsletter from './Newsletter.astro';
 import Search from './Search.astro';
 import { SITE } from '../siteConfig';
 import { useTranslations, type Lang } from '../i18n/utils';
+import { pickRepHeroUrl } from '../lib/repImage';
 import countriesData from '../../data/countries.json';
 import wallData from '../../data/wall.json';
 
@@ -45,12 +46,7 @@ const countFor = (name) => posts.filter((p) => (p.data.country ?? 'South Korea')
 const countries = countriesData.countries.map((c) => ({ ...c, count: countFor(c.name) }));
 const live = countries.filter((c) => c.count > 0);
 const soon = countries.filter((c) => c.count === 0);
-const repImage = (name) => {
-  const p = posts.find(
-    (p) => (p.data.country ?? 'South Korea') === name && p.data.heroImage?.url && !p.data.heroImage.url.includes('placeholder')
-  );
-  return p?.data.heroImage?.url ?? '';
-};
+const repImage = (name) => pickRepHeroUrl(posts.filter((p) => (p.data.country ?? 'South Korea') === name));
 
 const koreaLinks = [
   { label: 'Seoul', href: '/regions/seoul' },
