@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import Logo from './Logo.astro';
+import Icon from './Icon.astro';
 import LanguageSwitcher from './LanguageSwitcher.astro';
 import { SITE } from '../siteConfig';
 import { getLangFromUrl, useTranslations } from '../i18n/utils';
@@ -39,7 +40,7 @@ const navGroups = CONT_ORDER
             <>
               <a class="nav-dd-head nav-dd-head-link" href={`/continents/${g.slug}`}>{g.name} →</a>
               {g.countries.map((c) => (
-                <a href={`/destinations/${c.slug}`}>{c.flag} {c.name}</a>
+                <a href={`/destinations/${c.slug}`}><Icon name={`circle-flags:${c.iso2}`} class="flag-ico" /> {c.name}</a>
               ))}
             </>
           ))}

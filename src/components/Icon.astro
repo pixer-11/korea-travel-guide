@@ -1,0 +1,12 @@
+---
+// Thin wrapper over astro-icon → build-time inline SVG, zero client JS.
+// Every icon on this site is paired with a visible text label, so icons are
+// decorative: always aria-hidden. Sized in `em` so it scales with the parent's
+// font-size (matching the emoji it replaces); colour inherits `currentColor`
+// unless a class sets `color` (e.g. `--accent`, `--gold`).
+// Names: Phosphor "ph:airplane-tilt", flags "circle-flags:kr".
+import { Icon as Iconify } from 'astro-icon/components';
+interface Props { name: string; size?: string | number; class?: string }
+const { name, size = '1em', class: cls } = Astro.props;
+---
+<Iconify name={name} width={size} height={size} class={cls} aria-hidden="true" />

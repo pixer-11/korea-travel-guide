@@ -3,6 +3,7 @@
   "countries": [
     {
       "name": "South Korea",
+      "iso2": "kr",
       "priority": 0,
       "slug": "south-korea",
       "flag": "🇰🇷",
@@ -26,6 +27,7 @@
     },
     {
       "name": "Japan",
+      "iso2": "jp",
       "priority": 1,
       "slug": "japan",
       "flag": "🇯🇵",
@@ -47,6 +49,7 @@
     },
     {
       "name": "United States",
+      "iso2": "us",
       "priority": 14,
       "slug": "united-states",
       "flag": "🇺🇸",
@@ -68,6 +71,7 @@
     },
     {
       "name": "Thailand",
+      "iso2": "th",
       "priority": 2,
       "slug": "thailand",
       "flag": "🇹🇭",
@@ -87,6 +91,7 @@
     },
     {
       "name": "France",
+      "iso2": "fr",
       "priority": 12,
       "slug": "france",
       "flag": "🇫🇷",
@@ -106,6 +111,7 @@
     },
     {
       "name": "Italy",
+      "iso2": "it",
       "priority": 10,
       "slug": "italy",
       "flag": "🇮🇹",
@@ -125,6 +131,7 @@
     },
     {
       "name": "China",
+      "iso2": "cn",
       "priority": 15,
       "slug": "china",
       "flag": "🇨🇳",
@@ -144,6 +151,7 @@
     },
     {
       "name": "Spain",
+      "iso2": "es",
       "priority": 11,
       "slug": "spain",
       "flag": "🇪🇸",
@@ -163,6 +171,7 @@
     },
     {
       "name": "Vietnam",
+      "iso2": "vn",
       "priority": 3,
       "slug": "vietnam",
       "flag": "🇻🇳",
@@ -173,6 +182,7 @@
     },
     {
       "name": "United Arab Emirates",
+      "iso2": "ae",
       "priority": 5,
       "slug": "united-arab-emirates",
       "flag": "🇦🇪",
@@ -183,6 +193,7 @@
     },
     {
       "name": "Taiwan",
+      "iso2": "tw",
       "priority": 7,
       "slug": "taiwan",
       "flag": "🇹🇼",
@@ -193,6 +204,7 @@
     },
     {
       "name": "Indonesia",
+      "iso2": "id",
       "priority": 4,
       "slug": "indonesia",
       "flag": "🇮🇩",
@@ -203,6 +215,7 @@
     },
     {
       "name": "Malaysia",
+      "iso2": "my",
       "priority": 9,
       "slug": "malaysia",
       "flag": "🇲🇾",
@@ -213,6 +226,7 @@
     },
     {
       "name": "India",
+      "iso2": "in",
       "priority": 13,
       "slug": "india",
       "flag": "🇮🇳",
@@ -223,6 +237,7 @@
     },
     {
       "name": "Philippines",
+      "iso2": "ph",
       "priority": 8,
       "slug": "philippines",
       "flag": "🇵🇭",
@@ -233,6 +248,7 @@
     },
     {
       "name": "Turkey",
+      "iso2": "tr",
       "priority": 6,
       "slug": "turkey",
       "flag": "🇹🇷",
@@ -243,6 +259,7 @@
     },
     {
       "name": "Singapore",
+      "iso2": "sg",
       "priority": 5,
       "slug": "singapore",
       "flag": "🇸🇬",

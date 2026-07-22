@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import { createHash } from 'node:crypto';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import PostCard from '../../components/PostCard.astro';
+import Icon from '../../components/Icon.astro';
 import Newsletter from '../../components/Newsletter.astro';
 import countriesData from '../../../data/countries.json';
 
@@ -69,7 +70,7 @@ const jsonLd = {
 >
   <section class="page-hero">
     <div class="wrap">
-      <p class="eyebrow"><span style="font-size:1.4em;vertical-align:-2px">{country.flag}</span> Destination</p>
+      <p class="eyebrow"><Icon name={`circle-flags:${country.iso2}`} size="1.4em" class="flag-ico" /> Destination</p>
       <h1>{country.name}</h1>
       <p class="region-blurb">{country.blurb}</p>
     </div>

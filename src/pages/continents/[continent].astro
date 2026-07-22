@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import Icon from '../../components/Icon.astro';
 import { SITE } from '../../siteConfig';
 import countriesData from '../../../data/countries.json';
 
@@ -86,7 +87,7 @@ const jsonLd = {
           c.count > 0 ? (
             <a class="country-card is-live" href={`/destinations/${c.slug}`}>
               <div class="country-photo" style={`background-image:url(${repImage(c.name)})`}>
-                <span class="country-flag">{c.flag}</span>
+                <span class="country-flag"><Icon name={`circle-flags:${c.iso2}`} /></span>
               </div>
               <div class="country-body">
                 <h3>{c.name}</h3>
@@ -96,7 +97,7 @@ const jsonLd = {
             </a>
           ) : (
             <div class="country-card is-soon">
-              <div class="country-photo"><span class="country-flag">{c.flag}</span></div>
+              <div class="country-photo"><span class="country-flag"><Icon name={`circle-flags:${c.iso2}`} /></span></div>
               <div class="country-body">
                 <h3>{c.name}</h3>
                 <p>{c.blurb}</p>
