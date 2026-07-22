@@ -65,7 +65,7 @@ const orgLd = {
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
-    <title>{title.includes(siteName) ? title : `${title} · ${siteName}`}</title>
+    <title>{title.includes(siteName) ? title : (`${title} · ${siteName}`.length <= 60 ? `${title} · ${siteName}` : title)}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
     {alternates.map((a) => <link rel="alternate" hreflang={a.hreflang} href={a.href} />)}
