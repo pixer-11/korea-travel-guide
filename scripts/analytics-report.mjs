@@ -13,6 +13,29 @@ const start = isoDay(-1); // yesterday 00:00 UTC
 const end = isoDay(0); // today 00:00 UTC
 const dayLabel = start.slice(0, 10);
 
+// Turn a raw URL path (e.g. "/regions/seoul/") into a readable Korean label so the
+// Telegram report is skimmable instead of a wall of slugs.
+const LANG = { ko: '한국어', ja: '일본어', es: '스페인어', zh: '중국어' };
+const deslug = (s) => s.replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
+function pageLabel(path) {
+  const p = (path || '/').replace(/\/+$/, '') || '/';
+  if (p === '/') return '홈';
+  let m;
+  if ((m = p.match(/^\/(ko|ja|es|zh)$/))) return `홈 (${LANG[m[1]]})`;
+  if ((m = p.match(/^\/(ko|ja|es|zh)\/(.+)/))) return `${pageLabel('/' + m[2])} · ${LANG[m[1]]}`;
+  const FIXED = {
+    '/flights': '항공권', '/contact': '문의', '/about': '소개·편집정책',
+    '/privacy': '개인정보', '/terms': '이용약관', '/destinations': '여행지 전체',
+    '/regions': '지역 전체', '/free/trip-checklist': '여행 체크리스트',
+  };
+  if (FIXED[p]) return FIXED[p];
+  if ((m = p.match(/^\/destinations\/(.+)/))) return `${deslug(m[1])} (국가)`;
+  if ((m = p.match(/^\/regions\/(.+)/))) return `${deslug(m[1])} (지역)`;
+  if ((m = p.match(/^\/essentials\/(.+)/))) return `필수정보: ${deslug(m[1])}`;
+  if ((m = p.match(/^\/posts\/(.+)/))) return `글: ${deslug(m[1])}`;
+  return p;
+}
+
 async function sendTelegram(text) {
   if (!TELEGRAM_BOT_TOKEN || !TELEGRAM_CHAT_ID) { console.log('Telegram secrets missing — skipping send.'); return; }
   const r = await fetch(`https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage`, {
@@ -76,7 +99,7 @@ async function cfReport() {
   const pageviews = t.count ?? 0;
   const visits = t.sum?.visits ?? 0;
   const countries = (a.countries ?? []).map((c) => `${c.dimensions.countryName || '??'} ${c.count}`).join(' · ') || '—';
-  const pages = (a.pages ?? []).map((p) => `  • ${p.dimensions.requestPath} — ${p.count}`).join('\n') || '  —';
+  const pages = (a.pages ?? []).map((p) => `  • ${pageLabel(p.dimensions.requestPath)} — ${p.count}`).join('\n') || '  —';
 
   const text = `📊 Wander Atlas — 일일 분석 (${dayLabel} UTC)
 👀 페이지뷰: ${pageviews.toLocaleString()}
@@ -118,7 +141,7 @@ async function plausibleReport() {
 
     const R = agg.results ?? {};
     const dur = Math.round((R.visit_duration?.value ?? 0));
-    const topPages = (pages.results ?? []).map((p) => `  • ${p.page} — ${p.visitors}`).join('\n') || '  —';
+    const topPages = (pages.results ?? []).map((p) => `  • ${pageLabel(p.page)} — ${p.visitors}`).join('\n') || '  —';
     const topSrc = (sources.results ?? []).map((x) => `${x.source || 'Direct'} ${x.visitors}`).join(' · ') || '—';
     const text = `📈 Wander Atlas — 상세 분석 · Plausible (${dayLabel} UTC)
 👥 방문자: ${(R.visitors?.value ?? 0).toLocaleString()}
