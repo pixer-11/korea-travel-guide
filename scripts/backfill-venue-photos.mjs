@@ -45,7 +45,7 @@ for (const f of (await readdir(POSTS_DIR)).filter((x) => x.endsWith('.md'))) {
   } catch (e) {
     const m = e.message || '';
     if (/\b429\b|RESOURCE_EXHAUSTED|Quota exceeded/i.test(m)) {
-      console.log('⛔ Places Details daily quota exhausted — stopping; next run resumes.');
+      console.log(`⛔ Places Details quota — stopping; next run resumes. Raw: ${m.slice(0, 220)}`);
       break;
     }
     // A permission / not-enabled / bad-request error will repeat for every post —
