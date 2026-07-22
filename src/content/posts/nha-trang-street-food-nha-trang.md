@@ -6,10 +6,10 @@ region: "Nha Trang"
 category: "restaurant"
 pubDate: "2026-07-22T09:42:20.161Z"
 heroImage:
-  url: "/images/placeholder-market.svg"
-  credit: "Placeholder image"
-  license: "placeholder"
-  source: "local"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Nha_Trang%2C_Vietnam_-_53119835077.jpg/1920px-Nha_Trang%2C_Vietnam_-_53119835077.jpg"
+  credit: "Photo: Leonid / Wikimedia Commons (CC BY-SA 2.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Nha_Trang,_Vietnam_-_53119835077.jpg"
 gallery: []
 place:
   id: "ChIJtcwRwGhncDERhP-EjMJD0Vk"

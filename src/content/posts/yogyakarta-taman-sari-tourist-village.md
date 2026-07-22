@@ -6,10 +6,10 @@ region: "Yogyakarta"
 category: "attraction"
 pubDate: "2026-07-22T09:44:22.363Z"
 heroImage:
-  url: "/images/placeholder-market.svg"
-  credit: "Placeholder image"
-  license: "placeholder"
-  source: "local"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Ash_in_Yogyakarta_during_the_2014_eruption_of_Kelud_01.jpg/1920px-Ash_in_Yogyakarta_during_the_2014_eruption_of_Kelud_01.jpg"
+  credit: "Photo: Crisco 1492 / Wikimedia Commons (CC BY-SA 3.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Ash_in_Yogyakarta_during_the_2014_eruption_of_Kelud_01.jpg"
 gallery: []
 place:
   id: "ChIJK8_C0JNXei4RE74coPghaic"

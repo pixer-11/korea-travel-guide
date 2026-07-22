@@ -6,10 +6,10 @@ region: "Ha Long Bay"
 category: "trendy"
 pubDate: "2026-07-22T09:37:41.722Z"
 heroImage:
-  url: "/images/placeholder-market.svg"
-  credit: "Placeholder image"
-  license: "placeholder"
-  source: "local"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/View_of_sea_from_Titov_Island%2C_Ha_Long_Bay%2C_Vietnam%2C_20240128_1337_3732.jpg/1920px-View_of_sea_from_Titov_Island%2C_Ha_Long_Bay%2C_Vietnam%2C_20240128_1337_3732.jpg"
+  credit: "Photo: Jakub Hałun / Wikimedia Commons (CC BY 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:View_of_sea_from_Titov_Island,_Ha_Long_Bay,_Vietnam,_20240128_1337_3732.jpg"
 gallery: []
 place:
   id: "ChIJ8W4jgzlZSjERUjrTt8bb3BM"

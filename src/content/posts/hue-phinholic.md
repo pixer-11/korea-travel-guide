@@ -6,10 +6,10 @@ region: "Hue"
 category: "trendy"
 pubDate: "2026-07-22T09:38:47.453Z"
 heroImage:
-  url: "/images/placeholder-market.svg"
-  credit: "Placeholder image"
-  license: "placeholder"
-  source: "local"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Hue_Vietnam_Citadel-of-Hu%E1%BA%BF-21.jpg/1920px-Hue_Vietnam_Citadel-of-Hu%E1%BA%BF-21.jpg"
+  credit: "Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Hue_Vietnam_Citadel-of-Hu%E1%BA%BF-21.jpg"
 gallery: []
 place:
   id: "ChIJ1x7xMjyhQTERwjTNPo0pYVQ"

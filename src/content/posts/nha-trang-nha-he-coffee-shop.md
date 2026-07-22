@@ -6,10 +6,10 @@ region: "Nha Trang"
 category: "trendy"
 pubDate: "2026-07-22T09:38:14.869Z"
 heroImage:
-  url: "/images/placeholder-market.svg"
-  credit: "Placeholder image"
-  license: "placeholder"
-  source: "local"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Nha_Trang%2C_Vietnam_-_53120927853.jpg/1920px-Nha_Trang%2C_Vietnam_-_53120927853.jpg"
+  credit: "Photo: Leonid / Wikimedia Commons (CC BY-SA 2.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Nha_Trang,_Vietnam_-_53120927853.jpg"
 gallery: []
 place:
   id: "ChIJoyY-sH5ncDERTXPJIogNkJ0"

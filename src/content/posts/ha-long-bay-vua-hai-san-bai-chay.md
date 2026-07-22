@@ -6,10 +6,10 @@ region: "Ha Long Bay"
 category: "restaurant"
 pubDate: "2026-07-22T09:41:48.057Z"
 heroImage:
-  url: "/images/placeholder-market.svg"
-  credit: "Placeholder image"
-  license: "placeholder"
-  source: "local"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Vietnam%2C_Ha_Long_Bay%2C_Kissing_Rocks.jpg/1920px-Vietnam%2C_Ha_Long_Bay%2C_Kissing_Rocks.jpg"
+  credit: "Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Vietnam,_Ha_Long_Bay,_Kissing_Rocks.jpg"
 gallery: []
 place:
   id: "ChIJhUZpYp1fSjERgYAEVxrQnEg"
