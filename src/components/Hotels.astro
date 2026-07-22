@@ -1,36 +1,35 @@
 ---
-// Per-post "Where to stay" block — a Travelpayouts/Hotellook hotel widget keyed
-// to the guide's city, so readers see live nightly prices for that destination.
-// Prices auto-show in the visitor's local currency. Marker 553157.
+// Per-post "Where to stay" block. This Travelpayouts account has NO Hotellook
+// hotel-search WIDGET available (Tools → Widgets lists no hotel brand), so rather
+// than embed an empty widget that just auto-hides, we show a reliable, always-
+// visible hotel-search CTA. It's a marker-tracked Hotellook search link (marker
+// 754088) — the same working link the top-of-post "Find hotels" button uses — so
+// it needs no widget/campaign approval and tracks under our account. If a hotel
+// search widget ever becomes available, swap this for the inline-price widget.
 interface Props { city: string; country?: string }
 const { city, country } = Astro.props;
 const dest = [city, country].filter(Boolean).join(', ');
-// Hotellook hotel widget (promo_id 7873 / campaign_id 101, show_hotels=true —
-// the correct Hotellook params per Travelpayouts docs). Renders a hotel search
-// with live prices; once the Hotellook program is approved for this marker it
-// starts converting automatically — no code change needed.
-const src = `https://tp.media/content?currency=usd&trs=553157&shmarker=754088&show_hotels=true&powered_by=true&locale=en&searchUrl=search.hotellook.com&primary_override=%23c8443a&color_button=%23c8443a&color_icons=%23857c6f&secondary=%23f4eee3&dark=%23201c17&light=%23FFFFFF&special=%23e6e1d6&color_focused=%23c8443a&border_radius=10&plain=false&promo_id=7873&campaign_id=101&destination=${encodeURIComponent(dest)}`;
+const href = `https://search.hotellook.com/?marker=754088&destination=${encodeURIComponent(dest)}`;
 ---
 <section class="tp-hotels">
   <div class="rule-head"><span class="kicker">Where to stay in {city}</span></div>
-  <div class="tp-widget-card">
-    <script is:inline async src={src} charset="utf-8"></script>
+  <div class="hotels-cta">
+    <p>Compare live nightly prices for {city} across hundreds of booking sites — shown in your local currency.</p>
+    <a class="btn btn-primary" href={href} target="_blank" rel="sponsored noopener">🏨 Search hotels in {city} &rarr;</a>
   </div>
-  <p class="tp-disclosure">Hotel prices update live and are shown in your local currency. Booking links are affiliate links — booking through them supports our free guides at no extra cost to you.</p>
+  <p class="tp-disclosure">Booking links are affiliate links — booking through them supports our free guides at no extra cost to you.</p>
 </section>
 
-<script>
-  // The Hotellook widget returns empty until the marker is approved for that
-  // program. So hide the whole "Where to stay" block while it's empty — the day
-  // the program is approved the widget fills in and the block appears on its own,
-  // with no code change needed.
-  window.addEventListener('load', () => {
-    setTimeout(() => {
-      document.querySelectorAll('.tp-hotels').forEach((sec) => {
-        const card = sec.querySelector('.tp-widget-card') as HTMLElement | null;
-        const filled = card && (card.querySelector('iframe') || card.offsetHeight > 120);
-        if (!filled) (sec as HTMLElement).style.display = 'none';
-      });
-    }, 3500);
-  });
-</script>
+<style>
+  .hotels-cta {
+    background: var(--surface-2);
+    border: 1px solid var(--line);
+    border-radius: var(--r-md);
+    padding: 1.3rem 1.4rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.9rem;
+  }
+  .hotels-cta p { margin: 0; color: var(--muted); max-width: 46ch; }
+</style>
