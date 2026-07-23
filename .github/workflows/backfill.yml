@@ -9,8 +9,13 @@ name: Backfill countries to target
 # Runs shortly after the Places quota resets (~08:00 UTC = Pacific midnight) so
 # it gets a fresh daily allowance. The normal 8/day publish.yml runs at 22:00 UTC.
 on:
-  schedule:
-    - cron: '43 8 * * *' # 08:43 UTC daily (off the hour), just after Places quota reset
+  # PAUSED 2026-07-23: new-post generation suspended so the whole daily Places
+  # quota goes to venue-photos.yml, which is replacing REAL Google photos on 162
+  # food/trendy/hidden-gem posts that currently show mismatched Commons images
+  # (a restaurant showing an ambulance, etc.). Re-enable this cron once venue
+  # photos are backfilled. Manual runs still work via workflow_dispatch.
+  # schedule:
+  #   - cron: '43 8 * * *' # 08:43 UTC daily (off the hour), just after Places quota reset
   workflow_dispatch:
     inputs:
       count:

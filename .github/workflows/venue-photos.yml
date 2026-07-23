@@ -7,7 +7,10 @@ name: Backfill real venue photos
 # spaced from backfill (08:43) / publish (21:19).
 on:
   schedule:
-    - cron: '27 9 * * *' # 09:27 UTC daily
+    # 08:05 UTC — right after the Places quota resets (~08:00) and BEFORE every
+    # other Places job, so the full daily allowance goes to real venue photos
+    # until the 162 mismatched heroes are cleared. backfill.yml is paused for this.
+    - cron: '5 8 * * *'
   workflow_dispatch:
     inputs:
       limit:
@@ -34,10 +37,10 @@ jobs:
       - name: Self-host venue photos
         env:
           GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
-          # Cap per run (was 0 = unlimited): this job's Details+Photo calls share the
-          # SAME Places day as backfill (75) + publish (16). 25 keeps total Details
-          # roughly within 100/day; raise only if the day isn't otherwise busy.
-          PHOTO_LIMIT: ${{ github.event.inputs.limit || '25' }}
+          # No cap while clearing the 162 mismatched heroes — backfill.yml is paused,
+          # so this job can use the whole daily Places allowance. Stops cleanly on
+          # 429 and resumes next day. Restore a cap (e.g. 25) once caught up.
+          PHOTO_LIMIT: ${{ github.event.inputs.limit || '0' }}
         run: node scripts/backfill-venue-photos.mjs
 
       - name: Build hero photo-wall thumbnails
