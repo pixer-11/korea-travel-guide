@@ -45,9 +45,25 @@ const klookPlace = p?.name
   ? `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7Cpid%7C754088&k_site=${encodeURIComponent(`https://www.klook.com/en-US/search/?query=${p.name}`)}`
   : klookTop;
 
-const priceLabels = ['Free', '₩', '₩₩', '₩₩₩', '₩₩₩₩'];
+// Currency-neutral relative price scale (like Google Maps' $–$$$$ worldwide).
+// Was Korean ₩ hardcoded — wrong on every non-Korea venue (e.g. a Tokyo café).
+const priceLabels = ['Free', '$', '$$', '$$$', '$$$$'];
 const stars = p?.rating ? '★'.repeat(Math.round(p.rating)) + '☆'.repeat(5 - Math.round(p.rating)) : null;
 const updated = d.updatedDate ?? d.pubDate;
+
+// Strip non-Latin scripts from the Google Places name (e.g. Arabic
+// "مطعم الركن اليمني Yemeni Corner" → "Yemeni Corner"), same rule as titles, so
+// the fact box, schema, hero alt, Klook query and related links all stay clean.
+// Falls back to the original if nothing Latin remains.
+const cleanName = (s) => {
+  const t = (s || '')
+    .replace(/[؀-ۿ一-鿿가-힣฀-๿Ѐ-ӿ぀-ヿ]/g, '')
+    .replace(/\s{2,}/g, ' ')
+    .replace(/^[\s\-–—,·|]+|[\s\-–—,·|]+$/g, '')
+    .trim();
+  return t || (s || '');
+};
+const placeName = cleanName(p?.name);
 
 // Real foot-traffic (BestTime.app): turn stored 24h hour arrays into reader-
 // friendly ranges, e.g. [8,9,10] → "8–11 AM". Honest data only — see besttime.mjs.
@@ -132,7 +148,7 @@ const graph: Record<string, unknown>[] = [
 if (p?.name) {
   graph.push({
     '@type': placeType,
-    name: p.name,
+    name: placeName,
     address: p.address
       ? { '@type': 'PostalAddress', streetAddress: p.address, ...(countryISO && { addressCountry: countryISO }) }
       : undefined,
@@ -231,7 +247,7 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
 
     {d.heroImage && (
       <figure class="article-hero">
-        <img src={d.heroImage.url} alt={p?.name ? `${p.name} in ${d.region}, ${country}` : `${(d.tags && d.tags[1]) || d.category} in ${d.region}, ${country}`} width="1200" height="675" loading="eager" fetchpriority="high" decoding="async" />
+        <img src={d.heroImage.url} alt={placeName ? `${placeName} in ${d.region}, ${country}` : `${(d.tags && d.tags[1]) || d.category} in ${d.region}, ${country}`} width="1200" height="675" loading="eager" fetchpriority="high" decoding="async" />
         {d.heroImage.credit && (
           <figcaption>
             {d.heroImage.source?.startsWith('http') ? (
@@ -251,7 +267,7 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
 
     {isEventPast(d) ? (
       <div class="book-cta">
-        <span class="book-cta-label">이 이벤트는 종료됐습니다 · This event has ended</span>
+        <span class="book-cta-label">This event has ended</span>
         <div class="book-cta-btns">
           <a class="book-btn book-btn-primary" href="/events"><Emoji name="admission-tickets" /> Upcoming events</a>
           <a class="book-btn" href="#newsletter"><Emoji name="wrapped-gift" /> Get event updates</a>
@@ -271,7 +287,7 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
       <div class="fact-box">
         <h4>At a glance</h4>
         <div class="fact-grid">
-          {p.name && <div class="fact"><span class="k">Place</span><span class="v">{p.name}</span></div>}
+          {placeName && <div class="fact"><span class="k">Place</span><span class="v">{placeName}</span></div>}
           {p.address && <div class="fact"><span class="k">Address</span><span class="v">{p.address}</span></div>}
           {typeof p.rating === 'number' && (
             <div class="fact"><span class="k">Rating</span><span class="v"><span class="stars">{stars}</span> {p.rating}
@@ -348,7 +364,7 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
       <section class="gallery">
         {d.gallery.map((img) => (
           <figure>
-            <img src={img.url} alt={d.place?.name ?? d.title} loading="lazy" />
+            <img src={img.url} alt={placeName ? `${placeName} — ${d.region}, ${country}` : d.title} loading="lazy" />
             {img.credit && <figcaption>{img.credit}</figcaption>}
           </figure>
         ))}
