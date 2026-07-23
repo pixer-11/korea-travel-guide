@@ -27,6 +27,9 @@ const p = d.place;
 // derive from the post's country, not hardcode "Korea"/"KR"/"South Korea").
 const country = d.country ?? 'South Korea';
 const countrySlug = country.toLowerCase().replace(/\s+/g, '-');
+// City-states (Singapore, Hong Kong) set region === country, which would render
+// a duplicated "Singapore / Singapore" breadcrumb — collapse it to one crumb.
+const sameRegionCountry = d.region.toLowerCase() === country.toLowerCase();
 const COUNTRY_ISO: Record<string, string> = {
   'South Korea': 'KR', Japan: 'JP', 'United States': 'US', Thailand: 'TH',
   France: 'FR', Italy: 'IT', China: 'CN', Spain: 'ES', Vietnam: 'VN',
@@ -138,11 +141,11 @@ const graph: Record<string, unknown>[] = [
   {
     '@type': 'BreadcrumbList',
     itemListElement: [
-      { '@type': 'ListItem', position: 1, name: 'Home', item: site + '/' },
-      { '@type': 'ListItem', position: 2, name: country, item: `${site}/destinations/${countrySlug}/` },
-      { '@type': 'ListItem', position: 3, name: d.region, item: `${site}/regions/${slugifyRegion(d.region)}/` },
-      { '@type': 'ListItem', position: 4, name: d.title, item: pageUrl },
-    ],
+      { name: 'Home', item: site + '/' },
+      { name: country, item: `${site}/destinations/${countrySlug}/` },
+      ...(sameRegionCountry ? [] : [{ name: d.region, item: `${site}/regions/${slugifyRegion(d.region)}/` }]),
+      { name: d.title, item: pageUrl },
+    ].map((c, i) => ({ '@type': 'ListItem', position: i + 1, name: c.name, item: c.item })),
   },
 ];
 
@@ -227,7 +230,9 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
     <nav class="crumbs" aria-label="Breadcrumb">
       <a href="/">Home</a> <span>/</span>
       <a href={`/destinations/${countrySlug}/`}>{country}</a> <span>/</span>
-      <a href={`/regions/${slugifyRegion(d.region)}/`}>{d.region}</a> <span>/</span>
+      {!sameRegionCountry && (
+        <><a href={`/regions/${slugifyRegion(d.region)}/`}>{d.region}</a> <span>/</span></>
+      )}
       <span aria-current="page">{d.category.replace('-', ' ')}</span>
     </nav>
 
