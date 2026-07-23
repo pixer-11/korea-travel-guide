@@ -402,6 +402,12 @@ main { flex: 1; width: 100%; }
 .card .thumb { position: relative; aspect-ratio: 3 / 2; overflow: hidden; background: var(--surface-2); }
 .card .thumb img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.4s ease; }
 .card:hover .thumb img { transform: scale(1.05); }
+/* Ended events: dim the THUMBNAIL only (title/text stay full-contrast & legible);
+   the "종료 · Ended" badge carries the status as real text (screen-reader & crawler
+   readable), never color/blur alone. */
+.card--ended .thumb img { filter: grayscale(0.65); opacity: 0.82; }
+.card--ended:hover .thumb img { transform: none; }
+.badge-ended { background: color-mix(in srgb, var(--ink) 60%, transparent); color: #fff; }
 .card .thumb .badge { position: absolute; top: 0.75rem; left: 0.75rem; background: color-mix(in srgb, var(--surface) 90%, transparent); backdrop-filter: blur(4px); }
 .card-body { padding: 1.1rem 1.25rem 1.4rem; display: flex; flex-direction: column; gap: 0.4rem; flex: 1; }
 .card-body .region-label { font-size: 0.78rem; color: var(--muted); font-weight: 600; letter-spacing: 0.02em; }
