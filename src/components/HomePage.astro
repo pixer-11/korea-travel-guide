@@ -24,7 +24,17 @@ const flagship = ['jeju-seongsan-ilchulbong', 'seoul-gyeongbokgung-palace', 'sok
 const cover = flagship.map((s) => posts.find((p) => p.id === s)).find(Boolean) ?? posts[0];
 const rest = posts.filter((p) => p.id !== cover?.id);
 const latest = rest.slice(0, 3);
-const moreGuides = rest.slice(3, 9);
+// Don't showcase weak auto-generated cards on the highest-authority page. Food/
+// trendy venues still on a city/landmark fallback hero undercut the "real places,
+// real photos" promise; attractions/events read fine with a landmark shot, but
+// food venues must have their OWN self-hosted photo (/venue-photos/) to appear here.
+const trustworthyCard = (p) => {
+  const cat = p.data.category;
+  if (cat === 'attraction' || cat === 'event' || cat === 'essentials') return true;
+  return (p.data.heroImage?.url || '').includes('/venue-photos/');
+};
+const latestIds = new Set(latest.map((p) => p.id));
+const moreGuides = rest.filter((p) => !latestIds.has(p.id) && trustworthyCard(p)).slice(0, 6);
 
 const seed = Number(new Date().toISOString().slice(0, 10).replace(/-/g, '')) || 1;
 function shuffle(arr) {
@@ -82,6 +92,7 @@ const koreaLinks = [
         <a class="cover-cta" href="/destinations">{t('home.exploreDestinations')} <span class="arw">→</span></a>
         {cover && <a class="cover-cta cover-cta-soft" href={`/posts/${cover.id}`}>{t('home.featured')}: {cover.data.region} <span class="arw">→</span></a>}
       </div>
+      <p class="cover-scale">In-depth guides across 17 countries · updated daily · facts checked against live data</p>
     </div>
   </section>
 
@@ -115,7 +126,7 @@ const koreaLinks = [
           <p class="kicker gold"><Flag code="kr" class="flag-ico" /> {t('home.destinations')}</p>
           <h2>South Korea</h2>
           <p>
-            Our launch destination — {countFor('South Korea')} in-depth guides and counting.
+            A featured destination — {countFor('South Korea')} in-depth guides and counting.
             Joseon palaces and neon night markets, temple stays and trendy cafés, mountains,
             beaches, and some of the best food on earth, all wrapped in a country that's
             astonishingly easy to get around.
