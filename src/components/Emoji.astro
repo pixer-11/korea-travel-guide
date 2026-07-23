@@ -7,7 +7,10 @@
 // we DON'T force currentColor; we namespace internal ids per instance so repeated
 // emoji on one page don't collide on gradient/clip ids.
 // Every emoji sits next to a visible text label → decorative → aria-hidden.
-import emojiData from '@iconify-json/fluent-emoji-flat/icons.json';
+// Imports a TINY pre-extracted subset (scripts/build-emoji-data.mjs), not the
+// full 8.6 MB @iconify-json/fluent-emoji-flat set — loading the whole set OOM'd
+// the Cloudflare build. Re-run that script when adding a new <Emoji name="…"/>.
+import emojiData from '../data/emoji-flat.json';
 
 interface Props { name: string; size?: string | number; class?: string }
 const { name, size = '1em', class: cls } = Astro.props;
