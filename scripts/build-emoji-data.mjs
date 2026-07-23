@@ -17,6 +17,8 @@ const USED = [
   'passport-control', 'metro', 'credit-card', 'cherry-blossom', 'police-car-light',
   // CTAs / affiliate / newsletter / checklist
   'hotel', 'admission-tickets', 'wrapped-gift', 'printer', 'compass', 'round-pushpin', 'airplane',
+  // venue fact box
+  'three-oclock',
   // plan-trip services
   'automobile', 'taxi', 'antenna-bars',
   // continent globes

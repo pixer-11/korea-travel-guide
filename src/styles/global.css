@@ -538,7 +538,17 @@ main { flex: 1; width: 100%; }
 .fact { display: flex; flex-direction: column; gap: 0.15rem; }
 .fact .k { font-size: 0.74rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted); }
 .fact .v { font-weight: 600; color: var(--ink); }
+.fact .phone-link { color: var(--accent); text-decoration: none; }
+.fact .phone-link:hover { text-decoration: underline; }
 .stars { color: var(--gold); }
+
+.fact-box .hours { margin-top: 1.1rem; border-top: 1px solid var(--line); padding-top: 0.9rem; }
+.fact-box .hours > summary { display: flex; align-items: center; gap: 0.4rem; cursor: pointer; font-size: 0.74rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted); list-style: none; }
+.fact-box .hours > summary::-webkit-details-marker { display: none; }
+.fact-box .hours > summary::after { content: '▾'; margin-left: auto; transition: transform .18s ease; }
+.fact-box .hours[open] > summary::after { transform: rotate(180deg); }
+.fact-box .hours ul { list-style: none; margin: 0.7rem 0 0; padding: 0; display: grid; gap: 0.3rem; }
+.fact-box .hours li { font-size: 0.9rem; color: var(--ink); }
 
 .map-btn { margin-top: 1.2rem; }
 .map-cta { margin: 1.75rem 0; }

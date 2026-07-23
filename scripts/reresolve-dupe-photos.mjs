@@ -10,7 +10,7 @@ import { resolveHero } from './lib/images.mjs';
 import { isImageAllowed } from './lib/guardrails.mjs';
 
 const DIR = join(dirname(fileURLToPath(import.meta.url)), '..', 'src', 'content', 'posts');
-const TARGETS = ['busan-jeonpo-cafe-street'];
+const TARGETS = ['dubai-nobu-one-za-abeel', 'kampong-glam-kampong-glam-cafe'];
 
 const f = (src, k) => (src.match(new RegExp(`^${k}:\\s*"?([^"\\r\\n]+?)"?\\s*$`, 'm')) || [])[1]?.trim() || null;
 const heroUrl = (src) => (src.match(/heroImage:\r?\n {2}url:\s*"?([^"\r\n]+?)"?\s*$/m) || [])[1]?.trim() || null;

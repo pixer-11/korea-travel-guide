@@ -126,6 +126,7 @@ if (p?.name) {
     // violate Google's review-snippet policy (manual-action risk). We still
     // SHOW the rating on-page, clearly attributed to Google.
     priceRange: typeof p.priceLevel === 'number' ? priceLabels[p.priceLevel] : undefined,
+    telephone: p.phone || undefined,
     hasMap: p.googleMapsUrl,
   });
 }
@@ -261,7 +262,18 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
               {p.userRatingsTotal ? ` (${p.userRatingsTotal.toLocaleString()})` : ''}</span></div>
           )}
           {typeof p.priceLevel === 'number' && <div class="fact"><span class="k">Price</span><span class="v">{priceLabels[p.priceLevel]}</span></div>}
+          {p.phone && (
+            <div class="fact"><span class="k">Phone</span><span class="v"><a class="phone-link" href={`tel:${p.phone.replace(/[^+\d]/g, '')}`}>{p.phone}</a></span></div>
+          )}
         </div>
+        {p.openingHours && p.openingHours.length > 0 && (
+          <details class="hours">
+            <summary><Emoji name="three-oclock" /> Opening hours</summary>
+            <ul>
+              {p.openingHours.map((line) => <li>{line}</li>)}
+            </ul>
+          </details>
+        )}
         <div class="fact-actions">
           {ticketable && p.name && (
             <a class="fact-ticket" href={klookPlace} target="_blank" rel="sponsored noopener"><Emoji name="admission-tickets" /> Tickets &amp; tours for {p.name}</a>

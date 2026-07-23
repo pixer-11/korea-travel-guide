@@ -363,6 +363,9 @@ async function buildLivePost(target) {
   try {
     const raw = await fetchPlaceReviewSignals(place.id);
     localSignals = computeLocalSignals(raw, target.country);
+    // Verified contact/hours from the same Details call → practical fact box.
+    if (raw?.phone) place.phone = raw.phone;
+    if (raw?.openingHours?.length) place.openingHours = raw.openingHours;
     if (localSignals) {
       const lf = localSignals.localsFavorite ? ' · locals-favourite' : '';
       console.log(`  📍 signals: ${localSignals.popularity}${lf}${localSignals.localSecretOk ? ' · secret-ok' : ''}`);
@@ -540,6 +543,8 @@ function assemble(target, place, title, heroImage, gallery, content) {
         businessStatus: place.businessStatus,
         lat: place.lat,
         lng: place.lng,
+        phone: place.phone,
+        openingHours: place.openingHours,
       },
     }),
     tags: [target.region.toLowerCase(), target.topic],

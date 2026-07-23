@@ -6,10 +6,10 @@ region: Dubai
 category: restaurant
 pubDate: '2026-07-23'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/A_car_on_Dubai_Dune_bashing.jpg/1920px-A_car_on_Dubai_Dune_bashing.jpg"
-  credit: "Photo: iMahesh / Wikimedia Commons (CC BY-SA 4.0)"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Dubai_Jumeirah_Beach.JPG/1920px-Dubai_Jumeirah_Beach.JPG"
+  credit: "Photo: pe-sa / Wikimedia Commons (CC BY 3.0)"
   license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:A_car_on_Dubai_Dune_bashing.jpg"
+  source: "https://commons.wikimedia.org/wiki/File:Dubai_Jumeirah_Beach.JPG"
 gallery: []
 tags:
   - dubai

@@ -59,6 +59,8 @@ const posts = defineCollection({
         businessStatus: z.string().optional(),
         lat: z.number().optional(),
         lng: z.number().optional(),
+        phone: z.string().optional(),
+        openingHours: z.array(z.string()).optional(),
       })
       .optional(),
     tags: z.array(z.string()).default([]),

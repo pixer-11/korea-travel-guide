@@ -76,6 +76,8 @@ export async function getPlaceById(placeId, { throwOnQuota = false, throwOnError
 // makes this a pricier Details SKU, so we only pay for it once per PUBLISHED post.
 const LOCAL_SIGNAL_MASK = [
   'id', 'rating', 'userRatingCount', 'primaryType', 'primaryTypeDisplayName', 'types', 'reviews',
+  // Practical visit facts — free on this same once-per-post Details call.
+  'nationalPhoneNumber', 'internationalPhoneNumber', 'regularOpeningHours',
 ].join(',');
 
 /**
@@ -113,6 +115,9 @@ export async function fetchPlaceReviewSignals(placeId) {
     venueType: p.primaryTypeDisplayName?.text || null,
     types: p.types ?? [],
     reviewLangs,
+    // Verified contact/hours — real API facts, never model-generated.
+    phone: p.nationalPhoneNumber || p.internationalPhoneNumber || null,
+    openingHours: p.regularOpeningHours?.weekdayDescriptions || null,
   };
 }
 
