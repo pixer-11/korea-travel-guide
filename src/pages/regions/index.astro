@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import { createHash } from 'node:crypto';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import { slugifyRegion } from '../../lib/slug';
 
 const posts = await getCollection('posts', ({ data }) => !data.draft);
 const wallThumb = (url) => (url ? `/wall/${createHash('sha1').update(url).digest('hex').slice(0, 16)}.webp` : '');
@@ -34,7 +35,7 @@ const regions = [...counts.entries()]
     <div class="wrap">
       <div class="region-grid">
         {regions.map((r) => (
-          <a class="region-tile" href={`/regions/${r.name.toLowerCase()}`} style={r.img ? `background-image:url(${r.img})` : ''}>
+          <a class="region-tile" href={`/regions/${slugifyRegion(r.name)}/`} style={r.img ? `background-image:url(${r.img})` : ''}>
             <span>{r.name}<br /><small style="font-size:0.7rem;opacity:0.85;font-weight:500">{r.count} guide{r.count === 1 ? '' : 's'}</small></span>
           </a>
         ))}

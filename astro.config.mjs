@@ -1,7 +1,7 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
-import { readFileSync, readdirSync } from 'node:fs';
+import { readFileSync, readdirSync, writeFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 
@@ -40,6 +40,59 @@ function contentLastmod() {
 }
 const LASTMOD = contentLastmod();
 
+// Region URLs switched from raw `region.toLowerCase()` (spaces left as %20 on 32
+// of 125 pages, e.g. /regions/abu%20dhabi/) to a proper slug. Emit 301s from the
+// old encoded paths so any already-indexed %20 URL passes its equity to the new
+// clean path instead of 404ing. Keep this slugify identical to src/lib/slug.ts.
+function regionSlug(input) {
+  return String(input)
+    .normalize('NFKD')
+    .replace(/[̀-ͯ]/g, '')
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '')
+    .slice(0, 80);
+}
+function regionRedirects() {
+  const dir = join(__dirname, 'src/content/posts');
+  let files = [];
+  try { files = readdirSync(dir); } catch { return []; }
+  const regions = new Set();
+  for (const f of files) {
+    if (!f.endsWith('.md')) continue;
+    let fm = '';
+    try { fm = readFileSync(join(dir, f), 'utf8').split('---')[1] || ''; } catch { continue; }
+    const m = /(?:^|\n)region:\s*['"]?([^'"\n]+)/.exec(fm);
+    const r = m?.[1]?.trim();
+    if (r && !r.includes('/')) regions.add(r);
+  }
+  const lines = [];
+  for (const r of regions) {
+    const oldEnc = encodeURI(r.toLowerCase()); // what the old href resolved to
+    const next = regionSlug(r);
+    if (oldEnc !== next) lines.push(`/regions/${oldEnc}/ /regions/${next}/ 301`);
+  }
+  return lines.sort();
+}
+// Custom integration: after the build, append the region 301s to dist/_redirects
+// (Cloudflare Workers static-assets honours this file). Runs every build so new
+// multi-word regions are covered automatically — no hand-maintained list.
+function regionRedirectsIntegration() {
+  return {
+    name: 'region-redirects',
+    hooks: {
+      'astro:build:done': ({ dir }) => {
+        const lines = regionRedirects();
+        if (!lines.length) return;
+        const out = fileURLToPath(new URL('_redirects', dir));
+        let existing = '';
+        try { existing = readFileSync(out, 'utf8').replace(/\s*$/, '') + '\n\n'; } catch { /* none yet */ }
+        writeFileSync(out, existing + '# region slug 301s (auto-generated)\n' + lines.join('\n') + '\n');
+      },
+    },
+  };
+}
+
 export default defineConfig({
   site: SITE,
   integrations: [
@@ -57,6 +110,7 @@ export default defineConfig({
       },
     }),
     react(),
+    regionRedirectsIntegration(),
   ],
   trailingSlash: 'ignore',
   i18n: {

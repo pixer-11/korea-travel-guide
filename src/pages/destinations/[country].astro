@@ -8,6 +8,7 @@ import Emoji from '../../components/Emoji.astro';
 import Newsletter from '../../components/Newsletter.astro';
 import { pickRepHeroUrl } from '../../lib/repImage';
 import { isEventPast, eventSortValue } from '../../lib/eventStatus';
+import { slugifyRegion } from '../../lib/slug';
 import countriesData from '../../../data/countries.json';
 
 // Optimized WebP thumbnail for a hero URL (scripts/build-wall.mjs), for faint
@@ -110,7 +111,7 @@ const jsonLd = {
               <h2>Where to go</h2>
               <div class="region-grid">
                 {regionsWithPosts.map((r) => (
-                  <a class:list={['region-tile', { 'is-major': isMajor(r) }]} href={`/regions/${r.toLowerCase()}`} style={regionImage(r) ? `background-image:url(${regionImage(r)})` : ''}><span>{r}</span></a>
+                  <a class:list={['region-tile', { 'is-major': isMajor(r) }]} href={`/regions/${slugifyRegion(r)}/`} style={regionImage(r) ? `background-image:url(${regionImage(r)})` : ''}><span>{r}</span></a>
                 ))}
               </div>
             </div>

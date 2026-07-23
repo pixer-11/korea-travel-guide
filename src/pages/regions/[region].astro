@@ -7,6 +7,7 @@ import Tours from '../../components/Tours.astro';
 import PlanTrip from '../../components/PlanTrip.astro';
 import Newsletter from '../../components/Newsletter.astro';
 import StickyBook from '../../components/StickyBook.astro';
+import { slugifyRegion } from '../../lib/slug';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts', ({ data }) => !data.draft);
@@ -18,7 +19,7 @@ export async function getStaticPaths() {
   // break every deploy again — the generator also sanitizes them at the source.
   const regions = [...new Set(posts.map((p) => p.data.region))].filter((r) => r && !r.includes('/'));
   return regions.map((region) => ({
-    params: { region: region.toLowerCase() },
+    params: { region: slugifyRegion(region) },
     props: { region, posts: posts.filter((p) => p.data.region === region) },
   }));
 }

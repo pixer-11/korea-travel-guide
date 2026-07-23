@@ -8,6 +8,7 @@ import PlanTrip from '../../components/PlanTrip.astro';
 import StickyBook from '../../components/StickyBook.astro';
 import Emoji from '../../components/Emoji.astro';
 import { isEventPast } from '../../lib/eventStatus';
+import { slugifyRegion } from '../../lib/slug';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts', ({ data }) => !data.draft);
@@ -138,8 +139,8 @@ const graph: Record<string, unknown>[] = [
     '@type': 'BreadcrumbList',
     itemListElement: [
       { '@type': 'ListItem', position: 1, name: 'Home', item: site + '/' },
-      { '@type': 'ListItem', position: 2, name: country, item: `${site}/destinations/${countrySlug}` },
-      { '@type': 'ListItem', position: 3, name: d.region, item: `${site}/regions/${d.region.toLowerCase()}` },
+      { '@type': 'ListItem', position: 2, name: country, item: `${site}/destinations/${countrySlug}/` },
+      { '@type': 'ListItem', position: 3, name: d.region, item: `${site}/regions/${slugifyRegion(d.region)}/` },
       { '@type': 'ListItem', position: 4, name: d.title, item: pageUrl },
     ],
   },
@@ -225,8 +226,8 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
   <article class="article wrap">
     <nav class="crumbs" aria-label="Breadcrumb">
       <a href="/">Home</a> <span>/</span>
-      <a href={`/destinations/${countrySlug}`}>{country}</a> <span>/</span>
-      <a href={`/regions/${d.region.toLowerCase()}`}>{d.region}</a> <span>/</span>
+      <a href={`/destinations/${countrySlug}/`}>{country}</a> <span>/</span>
+      <a href={`/regions/${slugifyRegion(d.region)}/`}>{d.region}</a> <span>/</span>
       <span aria-current="page">{d.category.replace('-', ' ')}</span>
     </nav>
 
