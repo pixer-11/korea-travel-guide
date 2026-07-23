@@ -2,7 +2,7 @@
 title: "Summer Sonic 2026: What to Know (Tokyo & Osaka)"
 description: "Summer Sonic 2026 runs August 14–16, 2026, simultaneously in Chiba (Tokyo area) and Osaka, marking the festival's 25th anniversary and its first-ever…"
 country: Japan
-region: Chiba (Tokyo) and Osaka
+region: Chiba
 category: event
 pubDate: '2026-07-21'
 heroImage:
@@ -12,7 +12,7 @@ heroImage:
   source: https://unsplash.com/@blackodc?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - chiba (tokyo) and osaka
+  - chiba
   - event
 quickAnswer: Summer Sonic 2026 runs August 14–16, 2026, simultaneously in Chiba (Tokyo area) and Osaka, marking the festival's 25th anniversary and its first-ever three-day format. Headliners announced so far include The Strokes, Jamiroquai, FKA Twigs, L'Arc-en-Ciel, aespa and LE SSERAFIM. Confirm exact stage times, venue layout, and ticket tiers on the official Summer Sonic site before booking flights or hotels.
 faq:

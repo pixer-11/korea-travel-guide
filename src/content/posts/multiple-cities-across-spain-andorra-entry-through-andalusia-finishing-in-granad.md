@@ -1,8 +1,8 @@
 ---
-title: 'Vuelta a España 2026 (Spanish stages): What to Know (Multiple cities across Spain (Andorra entry through Andalusia, finishing in Granada))'
-description: Vuelta a España 2026 (Spanish stages) in Multiple cities across Spain (Andorra entry through Andalusia, finishing in Granada), Spain — August 22 - September 13, 2026. What it is, when and where, and how to plan around it.
+title: 'Vuelta a España 2026 (Spanish stages): What to Know (Granada)'
+description: Vuelta a España 2026 (Spanish stages) in Granada, Spain — August 22 - September 13, 2026. What it is, when and where, and how to plan around it.
 country: Spain
-region: Multiple cities across Spain (Andorra entry through Andalusia, finishing in Granada)
+region: Granada
 category: event
 pubDate: '2026-07-23'
 heroImage:
@@ -12,7 +12,7 @@ heroImage:
   source: https://unsplash.com/@jorgefdezsalas?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - multiple cities across spain (andorra entry through andalusia, finishing in granada)
+  - granada
   - event
 quickAnswer: The Vuelta a España 2026 runs August 22–September 13, 2026, starting in Monaco and racing through France and Andorra before spending its final two weeks in Spain, finishing with a ceremonial-turned-competitive climb into Granada on September 13, finishing beneath the Alhambra. Watching is free roadside — pick a mountain stage (likely in the Pyrenees, Picos de Europa, or Sierra Nevada) or the Granada finish for the best atmosphere, and confirm the exact stage-by-stage route and host cities on the official La Vuelta site once released, typically in December or January before the race.
 faq:

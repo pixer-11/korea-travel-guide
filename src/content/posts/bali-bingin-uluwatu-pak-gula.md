@@ -1,8 +1,8 @@
 ---
-title: 'Pak Gula in Bali (Bingin, Uluwatu): A Visitor''s Guide'
-description: 'Pak Gula in Bali (Bingin, Uluwatu), Indonesia — a new/trending spot: what it is, where it is, and how to visit.'
+title: 'Pak Gula in Bali: A Visitor''s Guide'
+description: 'Pak Gula in Bali, Indonesia — a new/trending spot: what it is, where it is, and how to visit.'
 country: Indonesia
-region: Bali (Bingin, Uluwatu)
+region: Bali
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
@@ -12,7 +12,7 @@ heroImage:
   source: local
 gallery: []
 tags:
-  - bali (bingin, uluwatu)
+  - bali
   - new & trending
 quickAnswer: Pak Gula is a new two-storey Asian-fusion restaurant in Bingin, Uluwatu, from the team behind The Cashew Tree, known for shareable plates like char siu pork bao buns and a strong cocktail list. It's drawing crowds fast, so book ahead — ideally for a sunset or evening slot — and confirm current hours before you go, since details at newly opened Bali spots shift often.
 faq:

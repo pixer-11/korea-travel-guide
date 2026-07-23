@@ -1,8 +1,8 @@
 ---
-title: 'The Weeknd – After Hours Til Dawn Tour: What to Know (Madrid & Barcelona)'
+title: 'The Weeknd – After Hours Til Dawn Tour: What to Know (Madrid)'
 description: "The Weeknd brings the After Hours Til Dawn Tour to Spain for four dates: three nights at Riyadh Air Metropolitano Stadium in Madrid (August 28-30, 2026) and…"
 country: Spain
-region: Madrid & Barcelona
+region: Madrid
 category: event
 pubDate: '2026-07-21'
 heroImage:
@@ -12,7 +12,7 @@ heroImage:
   source: https://commons.wikimedia.org/wiki/File:The_Weeknd_-_Live_at_Ippodromo_SNAI_La_Maura,_Milan_(July_27,_2023).jpg
 gallery: []
 tags:
-  - madrid & barcelona
+  - madrid
   - event
 quickAnswer: 'The Weeknd brings the After Hours Til Dawn Tour to Spain for four dates: three nights at Riyadh Air Metropolitano Stadium in Madrid (August 28-30, 2026) and one night at Estadi Olímpic Lluís Companys in Barcelona (September 1, 2026), with Playboi Carti as support. Book stadium-city hotels early, confirm exact set times and ticket tiers on the official tour site, and plan transit around the Madrid–Barcelona turnaround since there''s only one rest day between the runs.'
 faq:

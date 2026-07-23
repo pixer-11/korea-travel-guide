@@ -1,8 +1,8 @@
 ---
-title: 'AVLI in Bali (Bukit Peninsula, Uluwatu): A Visitor''s Guide'
-description: 'AVLI in Bali (Bukit Peninsula, Uluwatu), Indonesia — a new/trending spot: what it is, where it is, and how to visit.'
+title: 'AVLI in Bali: A Visitor''s Guide'
+description: 'AVLI in Bali, Indonesia — a new/trending spot: what it is, where it is, and how to visit.'
 country: Indonesia
-region: Bali (Bukit Peninsula, Uluwatu)
+region: Bali
 category: restaurant
 pubDate: '2026-07-23'
 heroImage:
@@ -12,7 +12,7 @@ heroImage:
   source: https://commons.wikimedia.org/wiki/File:Kreta_(GR),_Rethymno,_Taverne_%22Avli%22_--_2023_--_8186.jpg
 gallery: []
 tags:
-  - bali (bukit peninsula, uluwatu)
+  - bali
   - new & trending
 quickAnswer: AVLI is a new 700 sqm modern Greek restaurant on Jalan Labuansait in Uluwatu, on Bali's Bukit Peninsula — the same strip that feeds into Uluwatu's surf breaks and clifftop clubs. It's designed by architecture practice DA Bureau and stands out as one of the few dedicated Mediterranean/Greek concepts in Bali's crowded upscale dining scene. Because it's a recent opening, confirm current hours, menu, and whether reservations are required before heading over.
 faq:

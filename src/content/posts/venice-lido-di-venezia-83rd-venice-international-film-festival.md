@@ -1,8 +1,8 @@
 ---
-title: '83rd Venice International Film Festival: What to Know (Venice (Lido di Venezia))'
-description: 83rd Venice International Film Festival in Venice (Lido di Venezia), Italy — September 2-12, 2026. What it is, when and where, and how to plan around it.
+title: '83rd Venice International Film Festival: What to Know (Venice)'
+description: 83rd Venice International Film Festival in Venice, Italy — September 2-12, 2026. What it is, when and where, and how to plan around it.
 country: Italy
-region: Venice (Lido di Venezia)
+region: Venice
 category: event
 pubDate: '2026-07-23'
 heroImage:
@@ -12,7 +12,7 @@ heroImage:
   source: https://unsplash.com/@uta_scholl?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - venice (lido di venezia)
+  - venice
   - event
 quickAnswer: The 83rd Venice International Film Festival (Mostra) runs September 2–12, 2026, based at the Palazzo del Cinema on the Lido di Venezia, with Maggie Gyllenhaal presiding over the jury. If you're not accredited press or industry, plan around public screenings, red-carpet viewing on Lungomare Marconi, and the Lido's limited hotel stock — book vaporetto-accessible lodging early. Always confirm final dates, venues, and ticket release windows on the festival's official site (labiennale.org) closer to the event.
 faq:

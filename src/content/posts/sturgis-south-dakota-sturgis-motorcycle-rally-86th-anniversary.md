@@ -1,8 +1,8 @@
 ---
-title: 'Sturgis Motorcycle Rally (86th Anniversary): What to Know (Sturgis, South Dakota)'
-description: Sturgis Motorcycle Rally (86th Anniversary) in Sturgis, South Dakota, United States — August 7–16, 2026. What it is, when and where, and how to plan around it.
+title: 'Sturgis Motorcycle Rally (86th Anniversary): What to Know (Sturgis)'
+description: Sturgis Motorcycle Rally (86th Anniversary) in Sturgis, United States — August 7–16, 2026. What it is, when and where, and how to plan around it.
 country: United States
-region: Sturgis, South Dakota
+region: Sturgis
 category: event
 pubDate: '2026-07-23'
 heroImage:
@@ -12,9 +12,9 @@ heroImage:
   source: https://unsplash.com/@lovesquish?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
-  - sturgis, south dakota
+  - sturgis
   - event
-quickAnswer: The 86th Sturgis Motorcycle Rally runs August 7–16, 2026, in Sturgis, South Dakota, drawing around half a million riders to the Black Hills for concerts, races, and scenic group rides under the theme "Sturgis Salutes America." Base yourself in Sturgis, Rapid City, or Deadwood, book lodging and flights many months ahead, and confirm exact venue schedules and ticket details on the official Sturgis Motorcycle Rally website before you go.
+quickAnswer: The 86th Sturgis Motorcycle Rally runs August 7–16, 2026, in Sturgis, drawing around half a million riders to the Black Hills for concerts, races, and scenic group rides under the theme "Sturgis Salutes America." Base yourself in Sturgis, Rapid City, or Deadwood, book lodging and flights many months ahead, and confirm exact venue schedules and ticket details on the official Sturgis Motorcycle Rally website before you go.
 faq:
   - q: What are the exact dates for the 2026 Sturgis Rally?
     a: August 7–16, 2026, marking the 86th anniversary. Dates are set annually in early-to-mid August, so double-check the official rally website for any updates.

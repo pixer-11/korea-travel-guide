@@ -1,8 +1,8 @@
 ---
-title: 'FB Kitchen in Taipei (Neihu): A Visitor''s Guide'
-description: 'FB Kitchen in Taipei (Neihu), Taiwan — a new/trending spot: what it is, where it is, and how to visit.'
+title: 'FB Kitchen in Taipei: A Visitor''s Guide'
+description: 'FB Kitchen in Taipei, Taiwan — a new/trending spot: what it is, where it is, and how to visit.'
 country: Taiwan
-region: Taipei (Neihu)
+region: Taipei
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
@@ -12,7 +12,7 @@ heroImage:
   source: https://commons.wikimedia.org/wiki/File:The_Food_at_Davids_Kitchen_072.jpg
 gallery: []
 tags:
-  - taipei (neihu)
+  - taipei
   - new & trending
 quickAnswer: FB Kitchen is the newly public-facing canteen of the Formosa Plastics Group in Neihu, Taipei, famous for a 40-year-old recipe bone-in beef short rib and a daily-limited beef short rib noodle soup with a three-day slow-cooked broth. Go for lunch, expect a wait or the possibility of needing a reservation since portions are capped, and confirm current hours before heading out since this is a recently opened, high-demand spot.
 faq:

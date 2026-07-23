@@ -1,22 +1,25 @@
 // Pick the most IDENTITY-REVEALING hero for a city/country tile.
 // A place tile should show the place itself — a landmark, skyline or scenery —
-// not a close-up of food. So we rank candidate posts by category: attractions
-// (landmarks/scenery) first, restaurants (food) last, everything else between.
-// A food-famous city with no attraction guide yet still falls back to its food
-// photo, which is fine — but the moment an attraction guide exists, it wins.
+// not a close-up of food and NEVER an event's artist/concert shot. So we rank
+// candidate posts by category (attractions first, food last) and EXCLUDE events
+// entirely: a concert hero is a photo of the performer (e.g. a K-pop group), which
+// says nothing about the destination. A city with only event guides gets no tile
+// image (empty), which is better than a musician standing in for the place.
 const CAT_RANK: Record<string, number> = {
   attraction: 0, // palaces, temples, parks, viewpoints, nature — best for place identity
   'hidden-gem': 1,
-  event: 2, // festivals — usually a scene/crowd shot
-  trendy: 3, // cafés — often interiors/coffee
-  restaurant: 4, // food close-ups — last resort
+  trendy: 2, // cafés — often interiors/coffee
+  restaurant: 3, // food close-ups — last resort
 };
 
 type HeroPost = { data: { category: string; heroImage?: { url?: string } } };
 
 export function pickRepHeroUrl(posts: HeroPost[]): string {
   const withHero = posts.filter(
-    (p) => p.data.heroImage?.url && !p.data.heroImage.url.includes('placeholder')
+    (p) =>
+      p.data.category !== 'event' &&
+      p.data.heroImage?.url &&
+      !p.data.heroImage.url.includes('placeholder')
   );
   if (!withHero.length) return '';
   // Stable sort by category rank — ties keep the caller's order (usually newest first).

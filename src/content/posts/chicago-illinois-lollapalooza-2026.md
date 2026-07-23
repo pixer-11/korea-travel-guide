@@ -1,8 +1,8 @@
 ---
-title: 'Lollapalooza 2026: What to Know (Chicago, Illinois)'
+title: 'Lollapalooza 2026: What to Know (Chicago)'
 description: "Lollapalooza 2026 runs July 30–August 2 in Grant Park, Chicago, with headliners including Charli XCX, Lorde, and Doja Cat. Buy tickets and check set times…"
 country: United States
-region: Chicago, Illinois
+region: Chicago
 category: event
 pubDate: '2026-07-21'
 heroImage:
@@ -12,7 +12,7 @@ heroImage:
   source: https://commons.wikimedia.org/wiki/File:Modest_Mouse_at_Lollapalooza_2007.jpg
 gallery: []
 tags:
-  - chicago, illinois
+  - chicago
   - event
 quickAnswer: Lollapalooza 2026 runs July 30–August 2 in Grant Park, Chicago, with headliners including Charli XCX, Lorde, and Doja Cat. Buy tickets and check set times only through the official Lollapalooza site/app once released, since gate locations, hours, and lineup slots can shift closer to the date. Base yourself near the Loop or South Loop so you can walk or take the CTA to Grant Park rather than drive.
 faq:
