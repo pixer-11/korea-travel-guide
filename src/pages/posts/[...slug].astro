@@ -49,6 +49,22 @@ const priceLabels = ['Free', '₩', '₩₩', '₩₩₩', '₩₩₩₩'];
 const stars = p?.rating ? '★'.repeat(Math.round(p.rating)) + '☆'.repeat(5 - Math.round(p.rating)) : null;
 const updated = d.updatedDate ?? d.pubDate;
 
+// Real foot-traffic (BestTime.app): turn stored 24h hour arrays into reader-
+// friendly ranges, e.g. [8,9,10] → "8–11 AM". Honest data only — see besttime.mjs.
+function fmtHourRanges(hours) {
+  const xs = [...new Set(hours ?? [])].filter((h) => Number.isInteger(h)).sort((a, b) => a - b);
+  if (!xs.length) return null;
+  const f = (h) => { const x = ((h % 24) + 24) % 24; return { t: x % 12 === 0 ? 12 : x % 12, m: x < 12 ? 'AM' : 'PM' }; };
+  const runs = []; let s = xs[0], prev = xs[0];
+  for (let i = 1; i < xs.length; i++) { if (xs[i] === prev + 1) { prev = xs[i]; continue; } runs.push([s, prev]); s = xs[i]; prev = xs[i]; }
+  runs.push([s, prev]);
+  return runs.map(([a, b]) => { const x = f(a), y = f(b + 1); return x.m === y.m ? `${x.t}–${y.t} ${y.m}` : `${x.t} ${x.m}–${y.t} ${y.m}`; }).join(', ');
+}
+const bz = p?.busyness;
+const quietWd = fmtHourRanges(bz?.weekdayQuiet), quietWe = fmtHourRanges(bz?.weekendQuiet);
+const busyWd = fmtHourRanges(bz?.weekdayBusy), busyWe = fmtHourRanges(bz?.weekendBusy);
+const hasBusyness = !!(quietWd || quietWe || busyWd || busyWe);
+
 // Map our category to a schema.org place type (helps travel AI results).
 const placeType =
   d.category === 'restaurant'
@@ -273,6 +289,22 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
               {p.openingHours.map((line) => <li>{line}</li>)}
             </ul>
           </details>
+        )}
+        {hasBusyness && (
+          <div class="busyness">
+            <span class="bz-title"><Emoji name="chart-increasing" /> Best time to visit</span>
+            {(quietWd || quietWe) && (
+              <div class="bz-row"><span class="bz-k">Quietest</span><span class="bz-v">
+                {quietWd && <><b>Weekdays</b> {quietWd}</>}{quietWd && quietWe ? ' · ' : ''}{quietWe && <><b>Weekends</b> {quietWe}</>}
+              </span></div>
+            )}
+            {(busyWd || busyWe) && (
+              <div class="bz-row"><span class="bz-k">Busiest</span><span class="bz-v">
+                {busyWd && <><b>Weekdays</b> {busyWd}</>}{busyWd && busyWe ? ' · ' : ''}{busyWe && <><b>Weekends</b> {busyWe}</>}
+              </span></div>
+            )}
+            <p class="bz-credit">Live foot-traffic data via <a href="https://besttime.app" target="_blank" rel="noopener nofollow">BestTime.app</a></p>
+          </div>
         )}
         <div class="fact-actions">
           {ticketable && p.name && (

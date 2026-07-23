@@ -550,6 +550,15 @@ main { flex: 1; width: 100%; }
 .fact-box .hours ul { list-style: none; margin: 0.7rem 0 0; padding: 0; display: grid; gap: 0.3rem; }
 .fact-box .hours li { font-size: 0.9rem; color: var(--ink); }
 
+.fact-box .busyness { margin-top: 1.1rem; border-top: 1px solid var(--line); padding-top: 0.9rem; display: grid; gap: 0.5rem; }
+.fact-box .bz-title { display: flex; align-items: center; gap: 0.4rem; font-size: 0.74rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted); }
+.fact-box .bz-row { display: flex; gap: 0.6rem; align-items: baseline; font-size: 0.92rem; }
+.fact-box .bz-k { flex: 0 0 4.6rem; font-weight: 600; color: var(--ink); }
+.fact-box .bz-v { color: var(--ink); line-height: 1.5; }
+.fact-box .bz-v b { font-weight: 600; color: var(--muted); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.03em; margin-right: 0.15rem; }
+.fact-box .bz-credit { margin: 0.1rem 0 0; font-size: 0.72rem; color: var(--muted); }
+.fact-box .bz-credit a { color: var(--muted); text-decoration: underline; }
+
 .map-btn { margin-top: 1.2rem; }
 .map-cta { margin: 1.75rem 0; }
 .map-cta .map-btn { margin-top: 0; }

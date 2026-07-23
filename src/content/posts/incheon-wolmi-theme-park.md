@@ -20,6 +20,12 @@ place:
   businessStatus: OPERATIONAL
   lat: 37.471363499999995
   lng: 126.59628579999999
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [10, 11, 12, 16, 17, 18, 19, 20]
+    weekendQuiet: [22]
+    weekendBusy: [12, 13, 14, 15, 16, 17, 18, 19, 20]
+    venueId: 'ven_45466852374c495172664252557a6543696f544639395f4a496843'
 tags:
   - incheon
   - Wolmido

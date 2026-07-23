@@ -20,6 +20,11 @@ place:
   businessStatus: OPERATIONAL
   lat: 37.916653
   lng: 126.69826090000001
+  busyness:
+    updated: '2026-07-23'
+    weekdayBusy: [10, 11, 12, 13, 14]
+    weekendBusy: [10, 11, 12, 13, 14]
+    venueId: 'ven_6b576a635349454846336a525544667a586635764433534a496843'
 tags:
   - paju
   - DMZ tour

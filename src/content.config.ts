@@ -61,6 +61,18 @@ const posts = defineCollection({
         lng: z.number().optional(),
         phone: z.string().optional(),
         openingHours: z.array(z.string()).optional(),
+        // Real foot-traffic (BestTime.app) — honest quiet/busy hours, 24h clock.
+        // Never model-invented; absent when BestTime has no forecast for a venue.
+        busyness: z
+          .object({
+            updated: z.coerce.date().optional(),
+            weekdayQuiet: z.array(z.number()).default([]),
+            weekdayBusy: z.array(z.number()).default([]),
+            weekendQuiet: z.array(z.number()).default([]),
+            weekendBusy: z.array(z.number()).default([]),
+            venueId: z.string().optional(),
+          })
+          .optional(),
       })
       .optional(),
     tags: z.array(z.string()).default([]),

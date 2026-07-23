@@ -372,6 +372,17 @@ async function buildLivePost(target) {
     }
   } catch { /* signals are a bonus; publishing proceeds without them */ }
 
+  // Real foot-traffic quiet/busy hours (BestTime.app). No-op without an API key;
+  // null when BestTime can't forecast the venue → we simply store nothing.
+  try {
+    const { fetchBusyness } = await import('./lib/besttime.mjs');
+    const bz = await fetchBusyness(place.name, place.address);
+    if (bz) {
+      place.busyness = { updated: new Date().toISOString().slice(0, 10), ...bz };
+      console.log(`  📊 foot-traffic: quiet(wd) ${bz.weekdayQuiet.join(',') || '—'}`);
+    }
+  } catch { /* foot-traffic is a bonus; never blocks publishing */ }
+
   const facts = {
     name: place.name,
     address: place.address,
@@ -545,6 +556,7 @@ function assemble(target, place, title, heroImage, gallery, content) {
         lng: place.lng,
         phone: place.phone,
         openingHours: place.openingHours,
+        busyness: place.busyness,
       },
     }),
     tags: [target.region.toLowerCase(), target.topic],

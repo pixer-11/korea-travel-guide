@@ -20,6 +20,12 @@ place:
   businessStatus: OPERATIONAL
   lat: 37.392262099999996
   lng: 126.6396891
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7, 8]
+    weekendQuiet: [7]
+    weekendBusy: [11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
+    venueId: 'ven_38745670506148414b6c4e52557a65337061596c722d524a496843'
 tags:
   - incheon
   - Songdo Central Park
