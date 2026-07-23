@@ -17,9 +17,13 @@ interface Props {
   // Set on pages that have a translated version at every locale, so we emit
   // hreflang alternates. Leave false for English-only pages.
   localized?: boolean;
+  // Set on low-value pages (e.g. a one-off event that has already ended) to keep
+  // the URL live but out of the index — avoids thin/outdated pages dragging the
+  // young domain's overall quality. Recurring events stay indexed.
+  noindex?: boolean;
 }
 
-const { title, description, image, article = false, jsonLd, localized = false } = Astro.props;
+const { title, description, image, article = false, jsonLd, localized = false, noindex = false } = Astro.props;
 const lang = getLangFromUrl(Astro.url);
 const htmlLang = localeCodes[lang];
 const canonical = new URL(Astro.url.pathname, Astro.site);
@@ -71,7 +75,7 @@ const orgLd = {
     {alternates.map((a) => <link rel="alternate" hreflang={a.hreflang} href={a.href} />)}
     {localized && <link rel="alternate" hreflang="x-default" href={new URL(localizePath(canonicalPath, 'en'), Astro.site).toString()} />}
     <!-- Allow large image previews (required for Google Discover cards) -->
-    <meta name="robots" content="max-image-preview:large" />
+    <meta name="robots" content={noindex ? 'noindex, follow, max-image-preview:large' : 'max-image-preview:large'} />
     <link rel="alternate" type="application/rss+xml" title={siteName} href="/rss.xml" />
 
     <!-- Open Graph -->

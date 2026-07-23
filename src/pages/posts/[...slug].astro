@@ -157,6 +157,13 @@ if (d.category === 'event' && d.eventStartDate) {
 }
 
 const jsonLd = { '@context': 'https://schema.org', '@graph': graph };
+
+// Expiry 2-track (SEO): a ONE-OFF past event (single concert/tour stop) → noindex
+// to keep the young domain clean of thin/outdated pages (URL stays live at 200).
+// RECURRING events (annual festivals, GPs, championships, film festivals…) stay
+// indexed — they win "when is X 2027" as the next edition approaches.
+const RECURRING = /annual|festival|championship|grand prix|gran premio|\bopen\b|world cup|olympic|marathon|matsuri|biennale|\bcup\b|rally|expo|comic ?market|comiket|\b\d{1,3}(st|nd|rd|th)\b/i;
+const noindexPost = isEventPast(d) && !RECURRING.test(d.title);
 ---
 
 <BaseLayout
@@ -165,6 +172,7 @@ const jsonLd = { '@context': 'https://schema.org', '@graph': graph };
   image={d.heroImage?.url}
   article={true}
   jsonLd={jsonLd}
+  noindex={noindexPost}
 >
   <article class="article wrap">
     <nav class="crumbs" aria-label="Breadcrumb">

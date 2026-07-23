@@ -86,10 +86,10 @@ jobs:
         run: |
           [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
           MSG=$(node scripts/validate-content.mjs 2>&1 | head -25)
+          TXT=$(printf '⚠️ 콘텐츠 검증 경고 (일일 자동발행)\n%s' "$MSG")
           curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
             --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
-            --data-urlencode text="⚠️ 콘텐츠 검증 경고 (일일 자동발행)
-$MSG" >/dev/null || true
+            --data-urlencode "text=$TXT" >/dev/null || true
 
       - name: Notify Telegram
         if: always()
