@@ -6,10 +6,10 @@ region: Bali
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
-  url: /images/placeholder-market.svg
-  credit: Placeholder image
-  license: placeholder
-  source: local
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sunset%2C_Kuta%2C_Bali%2C_Indonesia%2C_20220825_1755_0879.jpg/1920px-Sunset%2C_Kuta%2C_Bali%2C_Indonesia%2C_20220825_1755_0879.jpg"
+  credit: "Photo: Jakub Hałun / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Sunset,_Kuta,_Bali,_Indonesia,_20220825_1755_0879.jpg"
 gallery: []
 tags:
   - bali

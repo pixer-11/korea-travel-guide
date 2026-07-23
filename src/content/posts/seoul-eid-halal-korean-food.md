@@ -5,10 +5,10 @@ region: "Seoul"
 category: "restaurant"
 pubDate: 2026-07-21
 heroImage:
-  url: "https://images.unsplash.com/photo-1579858737164-f5345c1394e9?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U2VvdWwlMjBTb3V0aCUyMEtvcmVhJTIwaGFsYWwlMjBmb29kJTIwSXRhZXdvbnxlbnwwfDB8fHwxNzg0NjEzNDk0fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Arisya Akma on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@arisyaakma?utm_source=korea_travel_guide&utm_medium=referral"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gyedong-gil_street_with_climbing_plants_at_golden_hour_in_Seoul_South_Korea.jpg/1920px-Gyedong-gil_street_with_climbing_plants_at_golden_hour_in_Seoul_South_Korea.jpg"
+  credit: "Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Gyedong-gil_street_with_climbing_plants_at_golden_hour_in_Seoul_South_Korea.jpg"
 gallery: []
 place:
   id: "ChIJa0VtDbWjfDURqx-5tftT9es"

@@ -6,10 +6,10 @@ region: Hanoi
 category: restaurant
 pubDate: '2026-07-23'
 heroImage:
-  url: /images/placeholder-market.svg
-  credit: Placeholder image
-  license: placeholder
-  source: local
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sunset_over_Hanoi_After_the_Rain.jpg/1920px-Sunset_over_Hanoi_After_the_Rain.jpg"
+  credit: "Photo: Christopher Crouzet / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Sunset_over_Hanoi_After_the_Rain.jpg"
 gallery: []
 tags:
   - hanoi

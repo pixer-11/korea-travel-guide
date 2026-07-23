@@ -6,10 +6,10 @@ region: "Chiang Mai"
 category: "restaurant"
 pubDate: "2026-07-22T09:14:29.554Z"
 heroImage:
-  url: "https://images.unsplash.com/photo-1599576838688-8a6c11263108?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8Q2hpYW5nJTIwTWFpJTIwVGhhaWxhbmQlMjBsb2NhbCUyMHJlc3RhdXJhbnR8ZW58MHwwfHx8MTc4NDcxMTYxNXww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Peter Borter on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@peter_borter?utm_source=korea_travel_guide&utm_medium=referral"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Anambulyx_elwesi_MHNT_CUT_2010_0_146_Chiang_Mai%2C_Thailand%2C_male_ventral.jpg/1920px-Anambulyx_elwesi_MHNT_CUT_2010_0_146_Chiang_Mai%2C_Thailand%2C_male_ventral.jpg"
+  credit: "Photo: Didier Descouens / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Anambulyx_elwesi_MHNT_CUT_2010_0_146_Chiang_Mai,_Thailand,_male_ventral.jpg"
 gallery: []
 place:
   id: "ChIJT2UZ_Hw72jARiJRwNfxTJVU"

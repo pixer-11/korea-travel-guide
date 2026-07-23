@@ -154,8 +154,21 @@ export async function resolveHero({ namedVenue, region, topic, place, country = 
   return PLACEHOLDER;
 }
 
+// The stable identity of an Unsplash image is the numeric token in its path
+// (`…/photo-1525625293386-hash?params`); the ?params vary per request, so a
+// URL-only Set misses re-used photos. Track this too, and seed it from existing
+// post URLs when de-duping across the whole site.
+export function unsplashNum(url) {
+  const m = String(url || '').match(/photo-(\d+)/);
+  return m ? `unum:${m[1]}` : null;
+}
+
 function mark(img, used) {
-  if (used && img?.url) used.add(img.url);
+  if (used && img?.url) {
+    used.add(img.url);
+    const n = unsplashNum(img.url);
+    if (n) used.add(n);
+  }
   if (!img) return img;
   // Return ONLY the fields the post schema stores — Commons candidates carry
   // internal scoring fields (index, w, h, featured…) that must not leak into
@@ -170,10 +183,19 @@ async function unsplashStrict(query, used) {
   // De-dupe by Unsplash PHOTO ID, not just the full URL — the same photo can appear
   // with different query params, which slipped past a URL-only check and put one
   // photo on several posts.
-  const free = (c) => !used || (!used.has(c.url) && !used.has(`unsplash:${c.id}`));
+  const free = (c) => {
+    if (!used) return true;
+    const n = unsplashNum(c.url);
+    return !used.has(c.url) && !(n && used.has(n)) && !used.has(`unsplash:${c.id}`);
+  };
   const pick = cands.find(free) || cands[0];
   if (!pick) return null;
-  if (used) { used.add(pick.url); used.add(`unsplash:${pick.id}`); }
+  if (used) {
+    used.add(pick.url);
+    used.add(`unsplash:${pick.id}`);
+    const n = unsplashNum(pick.url);
+    if (n) used.add(n);
+  }
   trackUnsplashDownload(pick.downloadLocation);
   return { url: pick.url, credit: pick.credit, license: pick.license, source: pick.source };
 }

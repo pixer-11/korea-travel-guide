@@ -6,10 +6,10 @@ region: "Bangkok"
 category: "restaurant"
 pubDate: "2026-07-22T09:23:18.094Z"
 heroImage:
-  url: "https://images.unsplash.com/photo-1563492065599-3520f775eeed?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8QmFuZ2tvayUyMFRoYWlsYW5kfGVufDB8MHx8fDE3ODQ3MTIxMzB8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Alejandro Cartagena 🇲🇽🏳‍🌈 on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@cartayen?utm_source=korea_travel_guide&utm_medium=referral"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Bangkok_-_Rama_VIII_Bridge_at_sunrise_Jan_2024.jpg/1920px-Bangkok_-_Rama_VIII_Bridge_at_sunrise_Jan_2024.jpg"
+  credit: "Photo: Dominic Nelson / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Bangkok_-_Rama_VIII_Bridge_at_sunrise_Jan_2024.jpg"
 gallery: []
 place:
   id: "ChIJBYCkBQCZ4jARMk27YRVj-vM"

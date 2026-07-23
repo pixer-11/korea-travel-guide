@@ -6,10 +6,10 @@ region: Bangkok
 category: event
 pubDate: '2026-07-21'
 heroImage:
-  url: https://images.unsplash.com/photo-1608155168168-db85cc55172e?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8QmFuZ2tvayUyMFRoYWlsYW5kJTIwRi1Gb3JldmVyJTIwQ29uY2VydCUyMDIwMjYlMjBCYW5na29rfGVufDB8MHx8fDE3ODQ2MjM2NTd8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Kamil Molendys on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@ilkamo?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bangkok_skytrain_sunset.jpg/1920px-Bangkok_skytrain_sunset.jpg"
+  credit: "Photo: User:Diliff / Wikimedia Commons (CC BY-SA 3.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Bangkok_skytrain_sunset.jpg"
 gallery: []
 tags:
   - bangkok

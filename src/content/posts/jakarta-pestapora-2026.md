@@ -6,10 +6,10 @@ region: Jakarta
 category: event
 pubDate: '2026-07-23'
 heroImage:
-  url: /images/placeholder-market.svg
-  credit: Placeholder image
-  license: placeholder
-  source: local
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Jakarta_Indonesia_Business-in-Kota-Jakarta-01.jpg/1920px-Jakarta_Indonesia_Business-in-Kota-Jakarta-01.jpg"
+  credit: "Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Jakarta_Indonesia_Business-in-Kota-Jakarta-01.jpg"
 gallery: []
 tags:
   - jakarta

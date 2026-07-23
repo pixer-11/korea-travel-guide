@@ -6,10 +6,10 @@ region: "Nara"
 category: "restaurant"
 pubDate: 2026-07-21
 heroImage:
-  url: "https://images.unsplash.com/photo-1767265581515-afe9ff46ad76?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8TmFyYSUyMEphcGFuJTIwbG9jYWwlMjByZXN0YXVyYW50fGVufDB8MHx8fDE3ODQ2Mjc2OTl8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by PJH on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@dokae?utm_source=korea_travel_guide&utm_medium=referral"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sika_Deer_in_Nara%2C_Japan%2C_20240819_1546_4782.jpg/1920px-Sika_Deer_in_Nara%2C_Japan%2C_20240819_1546_4782.jpg"
+  credit: "Photo: Jakub Hałun / Wikimedia Commons (CC BY 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Sika_Deer_in_Nara,_Japan,_20240819_1546_4782.jpg"
 gallery: []
 place:
   id: "ChIJM-p8Cqo7AWARQ4BaQnhXtp4"

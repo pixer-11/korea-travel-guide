@@ -6,10 +6,10 @@ region: Jakarta
 category: event
 pubDate: '2026-07-23'
 heroImage:
-  url: /images/placeholder-market.svg
-  credit: Placeholder image
-  license: placeholder
-  source: local
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Jakarta_old_football.jpg/1920px-Jakarta_old_football.jpg"
+  credit: "Photo: Jonathan McIntosh / Wikimedia Commons (CC BY 2.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Jakarta_old_football.jpg"
 gallery: []
 tags:
   - jakarta

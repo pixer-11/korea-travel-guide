@@ -6,10 +6,10 @@ region: Bangkok
 category: event
 pubDate: '2026-07-23'
 heroImage:
-  url: https://images.unsplash.com/photo-1608155168168-db85cc55172e?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8QmFuZ2tvayUyMFRoYWlsYW5kJTIwRGF2aWQlMjBCeXJuZSUyMExpdmUlMjBpbiUyMEJhbmdrb2t8ZW58MHwwfHx8MTc4NDc2NzEwMXww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Kamil Molendys on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@ilkamo?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wat_Pariwat_Ratchasongkram_ubosot_Bangkok_Thailand_by_Don_Ramey_Logan.jpg/1920px-Wat_Pariwat_Ratchasongkram_ubosot_Bangkok_Thailand_by_Don_Ramey_Logan.jpg"
+  credit: "Photo: Don Ramey Logan / Wikimedia Commons (CC BY 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Wat_Pariwat_Ratchasongkram_ubosot_Bangkok_Thailand_by_Don_Ramey_Logan.jpg"
 gallery: []
 tags:
   - bangkok

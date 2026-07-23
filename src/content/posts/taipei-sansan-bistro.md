@@ -6,10 +6,10 @@ region: Taipei
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
-  url: /images/placeholder-market.svg
-  credit: Placeholder image
-  license: placeholder
-  source: local
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/1_taipei_sunrise_panorama_dxr_edit_pangen_141215_1.jpg/1920px-1_taipei_sunrise_panorama_dxr_edit_pangen_141215_1.jpg"
+  credit: "Photo: Chensiyuan, edit by DXR / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:1_taipei_sunrise_panorama_dxr_edit_pangen_141215_1.jpg"
 gallery: []
 tags:
   - taipei

@@ -6,10 +6,10 @@ region: Singapore
 category: event
 pubDate: '2026-07-23'
 heroImage:
-  url: https://images.unsplash.com/photo-1525625293386-3f8f99389edd?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U2luZ2Fwb3JlJTIwU2luZ2Fwb3JlfGVufDB8MHx8fDE3ODQ3Njg5Njh8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Hu Chen on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@huchenme?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/1_singapore_national_day_parade_2011_fireworks.jpg/1920px-1_singapore_national_day_parade_2011_fireworks.jpg"
+  credit: "Photo: chensiyuan / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:1_singapore_national_day_parade_2011_fireworks.jpg"
 gallery: []
 tags:
   - singapore

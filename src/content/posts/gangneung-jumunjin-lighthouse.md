@@ -5,10 +5,10 @@ region: "Gangneung"
 category: "trendy"
 pubDate: 2026-07-21
 heroImage:
-  url: "https://images.unsplash.com/photo-1535189043414-47a3c49a0bed?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8R2FuZ25ldW5nJTIwU291dGglMjBLb3JlYSUyMEstZHJhbWElMjBmaWxtaW5nJTIwc2l0ZXxlbnwwfDB8fHwxNzg0NjEzNjMxfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Y K on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@yokeboy?utm_source=korea_travel_guide&utm_medium=referral"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Namdae_stream_water_reflection_of_colorful_clouds_from_Wolhwagyo_bridge_in_Gangneung_South_Korea.jpg/1920px-Namdae_stream_water_reflection_of_colorful_clouds_from_Wolhwagyo_bridge_in_Gangneung_South_Korea.jpg"
+  credit: "Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Namdae_stream_water_reflection_of_colorful_clouds_from_Wolhwagyo_bridge_in_Gangneung_South_Korea.jpg"
 gallery: []
 place:
   id: "ChIJu5ptmLCYfDURmSbRP4bS_QM"

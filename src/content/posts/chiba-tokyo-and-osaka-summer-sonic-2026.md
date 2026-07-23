@@ -6,10 +6,10 @@ region: Chiba
 category: event
 pubDate: '2026-07-21'
 heroImage:
-  url: https://images.unsplash.com/photo-1545569341-9eb8b30979d9?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SmFwYW4lMjB0cmF2ZWwlMjBsYW5kc2NhcGV8ZW58MHwwfHx8MTc4NDYyMzM2MHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Su San Lee on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@blackodc?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Chiba-Type-0-28F.jpg/1920px-Chiba-Type-0-28F.jpg"
+  credit: "Photo: MaedaAkihiko / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Chiba-Type-0-28F.jpg"
 gallery: []
 tags:
   - chiba

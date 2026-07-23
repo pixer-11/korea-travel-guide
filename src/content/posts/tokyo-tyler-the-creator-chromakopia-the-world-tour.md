@@ -6,10 +6,10 @@ region: Tokyo
 category: event
 pubDate: '2026-07-23'
 heroImage:
-  url: https://images.unsplash.com/photo-1545569341-9eb8b30979d9?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8VG9reW8lMjBKYXBhbnxlbnwwfDB8fHwxNzg0NzY2NzgzfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Su San Lee on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@blackodc?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Minato_City%2C_Tokyo%2C_Japan.jpg/1920px-Minato_City%2C_Tokyo%2C_Japan.jpg"
+  credit: "Photo: David Kernan / Wikimedia Commons (CC BY 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Minato_City,_Tokyo,_Japan.jpg"
 gallery: []
 tags:
   - tokyo

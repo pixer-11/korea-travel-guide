@@ -6,10 +6,10 @@ region: Bangkok
 category: event
 pubDate: '2026-07-23'
 heroImage:
-  url: https://images.unsplash.com/photo-1608155168168-db85cc55172e?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8QmFuZ2tvayUyMFRoYWlsYW5kJTIwUG9zdCUyME1hbG9uZSUzQSUyMFRoZSUyMEJJRyUyMEFTUyUyMFN0YWRpdW0lMjBXb3JsZCUyMFRvdXJ8ZW58MHwwfHx8MTc4NDc2NzA3MXww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Kamil Molendys on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@ilkamo?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bangkok_Night_Wikimedia_Commons.jpg/1920px-Bangkok_Night_Wikimedia_Commons.jpg"
+  credit: "Photo: Benh LIEU SONG / Wikimedia Commons (CC BY-SA 3.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Bangkok_Night_Wikimedia_Commons.jpg"
 gallery: []
 tags:
   - bangkok

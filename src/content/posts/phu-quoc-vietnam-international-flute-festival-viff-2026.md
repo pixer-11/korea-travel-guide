@@ -6,10 +6,10 @@ region: Phu Quoc
 category: event
 pubDate: '2026-07-23'
 heroImage:
-  url: /images/placeholder-market.svg
-  credit: Placeholder image
-  license: placeholder
-  source: local
+  url: "https://upload.wikimedia.org/wikipedia/commons/6/6b/Speckled_tongue_of_the_Phu_Quoc_Ridgeback.jpg"
+  credit: "Photo: Frank Fox / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Speckled_tongue_of_the_Phu_Quoc_Ridgeback.jpg"
 gallery: []
 tags:
   - phu quoc
