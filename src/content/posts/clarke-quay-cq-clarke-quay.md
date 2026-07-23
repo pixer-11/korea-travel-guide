@@ -1,5 +1,5 @@
 ---
-title: "CQ @ Clarke Quay: A Visitor's Guide in Clarke Quay"
+title: "CQ @: Clarke Quay Travel Guide"
 description: "CQ @ Clarke Quay is the cluster of restored 19th-century godowns (riverside warehouses) at 3 River Valley Road that anchors Clarke Quay's restaurant and"
 country: "Singapore"
 region: "Clarke Quay"

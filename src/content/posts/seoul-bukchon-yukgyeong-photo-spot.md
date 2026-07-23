@@ -1,5 +1,5 @@
 ---
-title: "Bukchon Yukgyeong (Photo Spot): A Visitor's Guide in Seoul"
+title: "Bukchon Yukgyeong (Photo Spot): Seoul Travel Guide"
 description: "Bukchon Yukgyeong (\\\"Six Scenic Views of Bukchon\\\") is a self-guided walking route through Bukchon Hanok Village's steep alleys in Jongno District, with"
 country: "South Korea"
 region: "Seoul"

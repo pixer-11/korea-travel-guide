@@ -1,5 +1,5 @@
 ---
-title: "Grand World Phu Quoc: A Visitor's Guide in Phu Quoc"
+title: "Grand World: Phu Quoc Travel Guide"
 description: "Grand World Phu Quoc is a free-to-enter entertainment and shopping complex on Bãi Dài (Long Beach's northern coast), best visited late afternoon into night"
 country: "Vietnam"
 region: "Phu Quoc"

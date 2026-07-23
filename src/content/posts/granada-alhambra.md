@@ -1,5 +1,5 @@
 ---
-title: "Alhambra: A Visitor's Guide in Granada"
+title: "Alhambra: Granada Travel Guide"
 description: "Book Alhambra tickets online weeks (in high season, months) ahead at the official site tickets.alhambra-patronato.es, choosing a specific entry slot for the"
 country: "Spain"
 region: "Granada"

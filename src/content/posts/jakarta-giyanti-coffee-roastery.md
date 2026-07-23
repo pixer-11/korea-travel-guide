@@ -1,5 +1,5 @@
 ---
-title: "Giyanti Coffee Roastery: A Visitor's Guide in Jakarta"
+title: "Giyanti Coffee Roastery: Jakarta Travel Guide"
 description: "Giyanti Coffee Roastery is a specialty coffee house and roastery on Jl."
 country: "Indonesia"
 region: "Jakarta"

@@ -1,5 +1,5 @@
 ---
-title: "Sendang Gile Waterfall: A Visitor's Guide in Lombok"
+title: "Sendang Gile Waterfall: Lombok Travel Guide"
 description: "Sendang Gile is a two-tier waterfall on the southern slope of Mount Rinjani, reached via a short, well-maintained trail from Senaru village in North Lombok."
 country: "Indonesia"
 region: "Lombok"

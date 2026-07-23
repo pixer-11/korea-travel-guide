@@ -1,5 +1,5 @@
 ---
-title: "Peace Memorial Park - Hiroshima: A Visitor's Guide in Hiroshima"
+title: "Peace Memorial Park: Hiroshima Travel Guide"
 description: "Peace Memorial Park sits on a triangular delta in central Hiroshima, a 15-minute tram ride from Hiroshima Station."
 country: "Japan"
 region: "Hiroshima"

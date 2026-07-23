@@ -1,5 +1,5 @@
 ---
-title: "Fuglen Tokyo: A Visitor's Guide in Tokyo"
+title: "Fuglen: Tokyo Travel Guide"
 description: "Fuglen Tokyo is a Norwegian-import café-bar in the Tomigaya area of Shibuya, near Yoyogi Park, known for third-wave coffee and Nordic pastries by day and"
 country: "Japan"
 region: "Tokyo"

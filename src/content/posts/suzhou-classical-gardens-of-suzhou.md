@@ -1,5 +1,5 @@
 ---
-title: "Classical Gardens of Suzhou: A Visitor's Guide in Suzhou"
+title: "Classical Gardens of: Suzhou Travel Guide"
 description: "The \\\"Classical Gardens of Suzhou\\\" is a UNESCO World Heritage designation covering nine separate historic gardens scattered around the old city, not one"
 country: "China"
 region: "Suzhou"

@@ -1,5 +1,5 @@
 ---
-title: "Topkapi Palace Museum: A Visitor's Guide in Istanbul"
+title: "Topkapi Palace Museum: Istanbul Travel Guide"
 description: "Topkapi Palace, the seat of Ottoman sultans for nearly 400 years, sits on the tip of the historic peninsula in Sultanahmet, a short walk from Hagia Sophia."
 country: "Turkey"
 region: "Istanbul"

@@ -1,5 +1,5 @@
 ---
-title: "The Baristro Asian Style: A Visitor's Guide in Chiang Mai"
+title: "The Baristro Asian Style: Chiang Mai Travel Guide"
 description: "The Baristro Asian Style is a photogenic café-restaurant on Suthep Road in Chiang Mai's university district, known for its jungle-like plant-filled dining"
 country: "Thailand"
 region: "Chiang Mai"

@@ -1,5 +1,5 @@
 ---
-title: "PS.Cafe Marina Bay Sands: A Visitor's Guide in Marina Bay"
+title: "PS.Cafe Marina Bay Sands: Marina Bay Travel Guide"
 description: "PS.Cafe Marina Bay Sands sits at B2-119-120A inside The Shoppes at Marina Bay Sands (10 Bayfront Ave), a short walk from Bayfront MRT (Circle/Downtown lines"
 country: "Singapore"
 region: "Marina Bay"

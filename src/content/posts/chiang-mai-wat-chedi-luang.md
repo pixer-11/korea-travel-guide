@@ -1,5 +1,5 @@
 ---
-title: "Wat Chedi Luang: A Visitor's Guide in Chiang Mai"
+title: "Wat Chedi Luang: Chiang Mai Travel Guide"
 description: "Wat Chedi Luang, in the heart of Chiang Mai's Old City on Prapokklao Road, is a must-see for its massive partially-ruined 15th-century chedi and the city"
 country: "Thailand"
 region: "Chiang Mai"

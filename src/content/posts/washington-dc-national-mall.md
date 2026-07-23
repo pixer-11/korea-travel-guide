@@ -1,5 +1,5 @@
 ---
-title: "National Mall: A Visitor's Guide in Washington DC"
+title: "National Mall: Washington DC Travel Guide"
 description: "The National Mall is the 2-mile grassy corridor between the U.S."
 country: "United States"
 region: "Washington DC"

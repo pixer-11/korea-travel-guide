@@ -1,5 +1,5 @@
 ---
-title: "Hanoi Old Quarter: A Visitor's Guide in Hanoi"
+title: "Hanoi Old Quarter: Hanoi Travel Guide"
 description: "Hanoi Old Quarter is the tangle of 36 ancient guild streets just north of Hoan Kiem Lake — come to walk the \\\"Hang\\\" streets (each once named for the trade"
 country: "Vietnam"
 region: "Hanoi"

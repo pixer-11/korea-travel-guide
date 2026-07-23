@@ -1,5 +1,5 @@
 ---
-title: "War Remnants Museum: A Visitor's Guide in Ho Chi Minh City"
+title: "War Remnants Museum: Ho Chi Minh City Travel Guide"
 description: "The War Remnants Museum sits at 28 Vo Van Tan Street in District 3, a short walk or taxi ride from Reunification Palace and about 10–15 minutes from the Ben"
 country: "Vietnam"
 region: "Ho Chi Minh City"

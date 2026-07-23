@@ -1,5 +1,5 @@
 ---
-title: "Las Vegas Strip: A Visitor's Guide in Las Vegas"
+title: "Las Vegas Strip: Las Vegas Travel Guide"
 description: "The Las Vegas Strip is the 4.2-mile stretch of Las Vegas Boulevard South between Mandalay Bay and the Sahara/Stratosphere area, packed with the city's"
 country: "United States"
 region: "Las Vegas"

@@ -1,5 +1,5 @@
 ---
-title: "Hue Imperial City: A Visitor's Guide in Hue"
+title: "Hue Imperial City: Hue Travel Guide"
 description: "The Hue Imperial City (Đại Nội) is a walled palace-and-temple complex on the north bank of the Perfume River, built from 1805 under the Nguyen Dynasty."
 country: "Vietnam"
 region: "Hue"

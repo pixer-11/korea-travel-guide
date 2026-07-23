@@ -1,5 +1,5 @@
 ---
-title: "La Moringa Labuan Bajo: Where to Eat in Labuan Bajo"
+title: "La Moringa: Where to Eat in Labuan Bajo"
 description: "La Moringa is a well-rated, casual-but-polished restaurant on Jl."
 country: "Indonesia"
 region: "Labuan Bajo"

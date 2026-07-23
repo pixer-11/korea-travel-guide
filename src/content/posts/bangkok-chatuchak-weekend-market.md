@@ -1,5 +1,5 @@
 ---
-title: "Chatuchak Weekend Market: A Visitor's Guide in Bangkok"
+title: "Chatuchak Weekend Market: Bangkok Travel Guide"
 description: "Chatuchak Weekend Market (locally \\\"JJ Market\\\") sprawls across 27 sections and over 15,000 stalls in northern Bangkok, open mainly Saturday and Sunday"
 country: "Thailand"
 region: "Bangkok"

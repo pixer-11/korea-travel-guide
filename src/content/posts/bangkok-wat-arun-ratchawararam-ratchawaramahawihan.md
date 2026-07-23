@@ -1,5 +1,5 @@
 ---
-title: "Wat Arun Ratchawararam Ratchawaramahawihan: A Visitor's Guide in Bangkok"
+title: "Wat Arun Ratchawararam Ratchawaramahawihan: Bangkok Travel Guide"
 description: "Wat Arun (\\\"Temple of Dawn\\\") sits on the Thonburi bank of the Chao Phraya River, best reached by cross-river ferry from Tha Tien pier near the Grand Palace."
 country: "Thailand"
 region: "Bangkok"

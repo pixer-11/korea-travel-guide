@@ -1,5 +1,5 @@
 ---
-title: "The Sanctuary of Truth Museum: A Visitor's Guide in Pattaya"
+title: "The Sanctuary of Truth Museum: Pattaya Travel Guide"
 description: "The Sanctuary of Truth is a monumental, all-wood temple-palace on Naklua's northern coast, still under construction since 1981 by hand-carving craftsmen."
 country: "Thailand"
 region: "Pattaya"

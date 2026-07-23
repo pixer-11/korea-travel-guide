@@ -156,7 +156,8 @@
       "Bash(node -e \"const d=require\\('./data/countries.json'\\); console.log\\('countries:', d.countries.length\\); console.log\\('active:', d.countries.filter\\(c=>c.active\\).length\\); console.log\\('new ones:', d.countries.slice\\(8\\).map\\(c=>c.name+' \\('+c.regions.length+' cities\\)'\\).join\\(', '\\)\\)\")",
       "WebFetch(domain:wanderatlasguides.com)",
       "Bash(node --check scripts/analytics-report.mjs)",
-      "Bash(curl -sIL --max-time 25 \"https://search.hotellook.com/?marker=754088&destination=Seoul\")"
+      "Bash(curl -sIL --max-time 25 \"https://search.hotellook.com/?marker=754088&destination=Seoul\")",
+      "Bash(node -e \"import\\('./scripts/generate.mjs'\\).catch\\(e=>console.log\\('import err:',e.message\\)\\)\")"
     ]
   }
 }

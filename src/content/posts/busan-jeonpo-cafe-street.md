@@ -1,5 +1,5 @@
 ---
-title: 'Jeonpo Cafe Street: A Visitor''s Guide in Busan'
+title: "Jeonpo Cafe Street: Busan Travel Guide"
 description: "Jeonpo Cafe Street (전포카페거리) is a dense cluster of design-forward cafes, bakeries, and small bars along Dongcheon-ro in Busanjin District, best reached via"
 region: Busan
 category: trendy

@@ -1,5 +1,5 @@
 ---
-title: "teamLab Planets TOKYO DMM: A Visitor's Guide in Tokyo"
+title: "teamLab Planets TOKYO DMM: Tokyo Travel Guide"
 description: "teamLab Planets is a barefoot, water-and-light digital art museum in Toyosu, Koto City — book a timed ticket online in advance, wear shorts or"
 country: "Japan"
 region: "Tokyo"

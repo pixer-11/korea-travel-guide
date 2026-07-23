@@ -1,5 +1,5 @@
 ---
-title: "Ethr — Al Ain Oasis: A Visitor's Guide in Al Ain"
+title: "Ethr Al Ain Oasis: Al Ain Travel Guide"
 description: "Ethr is a modern coffee shop tucked inside the UNESCO-listed Al Ain Oasis, in the Central District near the oasis's palm-shaded walking paths."
 country: "United Arab Emirates"
 region: "Al Ain"

@@ -1,5 +1,5 @@
 ---
-title: "Shinjuku Gyoen National Garden: A Visitor's Guide in Tokyo"
+title: "Shinjuku Gyoen National Garden: Tokyo Travel Guide"
 description: "Shinjuku Gyoen is a 144-acre former imperial estate blending French formal gardens, an English landscape garden, and a traditional Japanese strolling garden"
 country: "Japan"
 region: "Tokyo"

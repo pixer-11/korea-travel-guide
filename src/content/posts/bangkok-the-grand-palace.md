@@ -1,5 +1,5 @@
 ---
-title: "The Grand Palace: A Visitor's Guide in Bangkok"
+title: "The Grand Palace: Bangkok Travel Guide"
 description: "Set aside half a day, arrive by 8:30am when doors open at 8:30 and the heat and crowds are lowest, and dress in clothing that fully covers shoulders and"
 country: "Thailand"
 region: "Bangkok"

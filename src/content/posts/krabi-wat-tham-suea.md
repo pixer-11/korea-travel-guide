@@ -1,5 +1,5 @@
 ---
-title: "Wat Tham Suea: A Visitor's Guide in Krabi"
+title: "Wat Tham Suea: Krabi Travel Guide"
 description: "Wat Tham Suea (Tiger Cave Temple) sits in the jungle about 8km north of Krabi Town and is best known for its 1,237-step staircase to a hilltop golden Buddha"
 country: "Thailand"
 region: "Krabi"

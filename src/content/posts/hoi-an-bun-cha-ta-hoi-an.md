@@ -1,5 +1,5 @@
 ---
-title: "Bun Cha Ta Hoi An: Where to Eat in Hoi An"
+title: "Bun Cha Ta: Where to Eat in Hoi An"
 description: "Bun Cha Ta is a no-frills local favorite at 197 Nguyễn Duy Hiệu, a 15-20 minute walk (or 5-minute taxi/bike ride) east of Hoi An's Old Town."
 country: "Vietnam"
 region: "Hoi An"

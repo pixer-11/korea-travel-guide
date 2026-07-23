@@ -1,5 +1,5 @@
 ---
-title: "Ohori Park: A Visitor's Guide in Fukuoka"
+title: "Ohori Park: Fukuoka Travel Guide"
 description: "Ohori Park (大濠公園) is a large lakeside park in Fukuoka's Chuo Ward, built around a lagoon-like lake modeled on China's West Lake in Hangzhou."
 country: "Japan"
 region: "Fukuoka"

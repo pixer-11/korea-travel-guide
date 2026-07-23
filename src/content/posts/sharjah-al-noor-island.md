@@ -1,5 +1,5 @@
 ---
-title: "Al Noor Island: A Visitor's Guide in Sharjah"
+title: "Al Noor Island: Sharjah Travel Guide"
 description: "Al Noor Island sits in Khalid Lagoon on Buhairah Corniche in central Sharjah, a short walk or taxi ride from Al Majaz Waterfront."
 country: "United Arab Emirates"
 region: "Sharjah"

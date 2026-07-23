@@ -1,5 +1,5 @@
 ---
-title: "Fushimi Inari Taisha: A Visitor's Guide in Kyoto"
+title: "Fushimi Inari Taisha: Kyoto Travel Guide"
 description: "Fushimi Inari Taisha is Kyoto's iconic vermilion torii-gate shrine, founded in 711 A.D. at the base of Mount Inari in Fushimi Ward."
 country: "Japan"
 region: "Kyoto"

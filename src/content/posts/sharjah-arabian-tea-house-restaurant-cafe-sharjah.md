@@ -1,5 +1,5 @@
 ---
-title: "Arabian Tea House Restaurant & Cafe - Sharjah: Where to Eat in Sharjah"
+title: "Arabian Tea House Restaurant & Cafe: Where to Eat in Sharjah"
 description: "Arabian Tea House Restaurant & Cafe in Sharjah's Heart of Sharjah district serves traditional Emirati and Arabian breakfasts, karak tea, and slow-cooked"
 country: "United Arab Emirates"
 region: "Sharjah"

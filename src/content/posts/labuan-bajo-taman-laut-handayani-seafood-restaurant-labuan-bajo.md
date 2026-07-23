@@ -1,5 +1,5 @@
 ---
-title: "Taman Laut Handayani Seafood Restaurant Labuan Bajo: Where to Eat in Labuan Bajo"
+title: "Taman Laut Handayani Seafood Restaurant: Where to Eat in Labuan Bajo"
 description: "Taman Laut Handayani is a large, harborside seafood restaurant on Jl."
 country: "Indonesia"
 region: "Labuan Bajo"

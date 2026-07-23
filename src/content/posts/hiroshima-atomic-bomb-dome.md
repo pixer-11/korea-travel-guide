@@ -1,5 +1,5 @@
 ---
-title: "Atomic Bomb Dome: A Visitor's Guide in Hiroshima"
+title: "Atomic Bomb Dome: Hiroshima Travel Guide"
 description: "The Atomic Bomb Dome sits on the bank of the Motoyasu River in Naka Ward, a two-minute walk from Peace Memorial Park — go early morning or just before sunset"
 country: "Japan"
 region: "Hiroshima"

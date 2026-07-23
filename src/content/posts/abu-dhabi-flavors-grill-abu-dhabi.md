@@ -1,5 +1,5 @@
 ---
-title: "Flavors Grill Abu Dhabi: Where to Eat in Abu Dhabi"
+title: "Flavors Grill: Where to Eat in Abu Dhabi"
 description: "Flavors Grill Abu Dhabi is a busy, well-rated (4.9-star, 39,000+ reviews) grill house on Mina Street in the Mina Zayed / Free Zone 2 area near the port"
 country: "United Arab Emirates"
 region: "Abu Dhabi"

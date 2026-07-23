@@ -1,5 +1,5 @@
 ---
-title: "Promenade des Anglais: A Visitor's Guide in Nice"
+title: "Promenade des Anglais: Nice Travel Guide"
 description: "The Promenade des Anglais is Nice's iconic 7-km palm-lined seafront walkway stretching from the airport area to the Old Town, best experienced on foot or by"
 country: "France"
 region: "Nice"

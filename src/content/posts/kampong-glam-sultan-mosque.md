@@ -1,5 +1,5 @@
 ---
-title: "Sultan Mosque: A Visitor's Guide in Kampong Glam"
+title: "Sultan Mosque: Kampong Glam Travel Guide"
 description: "Sultan Mosque (Masjid Sultan) at 3 Muscat St anchors Kampong Glam and is Singapore's largest mosque, easily reached via Bugis MRT (Downtown/East-West Lines)."
 country: "Singapore"
 region: "Kampong Glam"

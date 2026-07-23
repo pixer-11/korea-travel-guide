@@ -1,5 +1,5 @@
 ---
-title: "The Summer House: A Visitor's Guide in Ayutthaya"
+title: "The Summer House: Ayutthaya Travel Guide"
 description: "The Summer House is a riverside café-restaurant on Ko Rian island in Ayutthaya, mixing Thai comfort food with French pastries in a leafy garden setting on"
 country: "Thailand"
 region: "Ayutthaya"

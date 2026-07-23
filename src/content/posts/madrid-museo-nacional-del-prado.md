@@ -1,5 +1,5 @@
 ---
-title: "Museo Nacional del Prado: A Visitor's Guide in Madrid"
+title: "Museo Nacional del Prado: Madrid Travel Guide"
 description: "The Prado is Madrid's essential art museum, home to Velázquez's \\\"Las Meninas,\\\" Goya's \\\"Black Paintings,\\\" and one of the world's finest El Greco"
 country: "Spain"
 region: "Madrid"

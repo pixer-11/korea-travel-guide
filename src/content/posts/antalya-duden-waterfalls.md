@@ -1,5 +1,5 @@
 ---
-title: "Duden Waterfalls: A Visitor's Guide in Antalya"
+title: "Duden Waterfalls: Antalya Travel Guide"
 description: "Duden Waterfalls (Düden Şelalesi) in Kepez, Antalya, is best visited in the Upper Duden Park (Düden Şelalesi Parkı) where the falls tumble in front of a"
 country: "Turkey"
 region: "Antalya"

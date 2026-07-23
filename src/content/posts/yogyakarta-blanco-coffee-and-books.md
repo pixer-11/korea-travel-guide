@@ -1,5 +1,5 @@
 ---
-title: "Blanco Coffee And Books: A Visitor's Guide in Yogyakarta"
+title: "Blanco Coffee And Books: Yogyakarta Travel Guide"
 description: "Blanco Coffee And Books is a light-filled, minimalist café on Jl. Kranggan in Jetis, just north of Yogyakarta's old city walls near Tugu Jogja monument."
 country: "Indonesia"
 region: "Yogyakarta"

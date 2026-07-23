@@ -1,5 +1,5 @@
 ---
-title: "Cloud Gate: A Visitor's Guide in Chicago"
+title: "Cloud Gate: Chicago Travel Guide"
 description: "Cloud Gate — universally nicknamed \\\"The Bean\\\" — sits in AT&T Plaza at the northwest corner of Millennium Park, 201 E Randolph St."
 country: "United States"
 region: "Chicago"

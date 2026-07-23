@@ -1,5 +1,5 @@
 ---
-title: "Fujairah Fort: A Visitor's Guide in Fujairah"
+title: "Fujairah Fort: Fujairah Travel Guide"
 description: "Fujairah Fort is the oldest standing fort in the UAE, built between 1500 and 1550 CE on a rocky outcrop in Al Sharyah, right next to the Fujairah Museum."
 country: "United Arab Emirates"
 region: "Fujairah"

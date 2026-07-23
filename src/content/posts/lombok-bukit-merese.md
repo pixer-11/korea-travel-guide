@@ -1,5 +1,5 @@
 ---
-title: "Bukit Merese: A Visitor's Guide in Lombok"
+title: "Bukit Merese: Lombok Travel Guide"
 description: "Bukit Merese is a small grassy headland a few minutes east of Kuta Lombok, best visited at sunset for panoramic views over Tanjung Aan's twin bays."
 country: "Indonesia"
 region: "Lombok"

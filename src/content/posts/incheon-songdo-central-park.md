@@ -1,5 +1,5 @@
 ---
-title: 'Songdo Central Park: A Visitor''s Guide in Incheon'
+title: "Songdo Central Park: Incheon Travel Guide"
 description: "Songdo Central Park is a 40-hectare green space in Incheon's Songdo International Business District, built around a seawater canal where you can ride water"
 region: Incheon
 category: attraction

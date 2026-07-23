@@ -1,5 +1,5 @@
 ---
-title: "Hidden Village Chiang Mai: A Visitor's Guide in Chiang Mai"
+title: "Hidden Village: Chiang Mai Travel Guide"
 description: "Hidden Village Chiang Mai is a rustic, jungle-style café and photo-op garden in San Phi Suea, on the northeastern edge of Chiang Mai city, best visited on a"
 country: "Thailand"
 region: "Chiang Mai"

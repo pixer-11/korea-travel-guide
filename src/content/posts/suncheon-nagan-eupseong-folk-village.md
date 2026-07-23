@@ -1,5 +1,5 @@
 ---
-title: "Nagan Eupseong Folk Village: A Visitor's Guide in Suncheon"
+title: "Nagan Eupseong Folk Village: Suncheon Travel Guide"
 description: "Nagan Eupseong Folk Village is a walled Joseon-dynasty town in Nagan-myeon, about 30 minutes southwest of central Suncheon, where roughly 100 families still"
 region: "Suncheon"
 category: "hidden-gem"

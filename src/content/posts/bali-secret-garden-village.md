@@ -1,5 +1,5 @@
 ---
-title: "Secret Garden Village: A Visitor's Guide in Bali"
+title: "Secret Garden Village: Bali Travel Guide"
 description: "Secret Garden Village is a family-friendly cultural park on the Denpasar–Bedugul road in Baturiti, Tabanan, about 90 minutes to 2 hours north of"
 country: "Indonesia"
 region: "Bali"

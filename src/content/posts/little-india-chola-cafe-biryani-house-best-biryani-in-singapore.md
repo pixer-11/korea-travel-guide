@@ -1,5 +1,5 @@
 ---
-title: "Chola Cafe - Biryani House - “Best Biryani in Singapore”: A Visitor's Guide in Little India"
+title: "Chola Cafe - Biryani House - Best Biryani in Singapore: Little India Travel Guide"
 description: "Chola Cafe - Biryani House sits on a quiet side street in Little India, a short walk from Little India MRT (Exit E), and is best visited slightly off peak"
 country: "Singapore"
 region: "Little India"

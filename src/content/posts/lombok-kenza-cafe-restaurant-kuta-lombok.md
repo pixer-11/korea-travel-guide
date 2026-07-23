@@ -1,5 +1,5 @@
 ---
-title: "Kenza Cafe & Restaurant Kuta Lombok: A Visitor's Guide in Lombok"
+title: "Kenza Cafe & Restaurant Kuta: Lombok Travel Guide"
 description: "Kenza Cafe & Restaurant is a well-known, mid-priced (price level 2) spot on Jl."
 country: "Indonesia"
 region: "Lombok"

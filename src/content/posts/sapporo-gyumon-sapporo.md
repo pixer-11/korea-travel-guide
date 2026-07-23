@@ -1,5 +1,5 @@
 ---
-title: "GYUMON Sapporo: Where to Eat in Sapporo"
+title: "GYUMON: Where to Eat in Sapporo"
 description: "GYUMON Sapporo is a basement yakiniku (Japanese-style grilled beef) restaurant in the Susukino district of Chuo Ward, specializing in premium Hokkaido wagyu"
 country: "Japan"
 region: "Sapporo"

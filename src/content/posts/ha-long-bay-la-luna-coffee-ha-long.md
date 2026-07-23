@@ -1,5 +1,5 @@
 ---
-title: "La Luna Coffee Hạ Long: A Visitor's Guide in Ha Long Bay"
+title: "La Luna Coffee Hạ Long: Ha Long Bay Travel Guide"
 description: "La Luna Coffee Hạ Long is a large, multi-level café on Hạ Long street in Bãi Cháy, built around big glass walls and terrace seating aimed at the bay view — a"
 country: "Vietnam"
 region: "Ha Long Bay"

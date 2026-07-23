@@ -1,5 +1,5 @@
 ---
-title: "The Island Bangkok – Top Rated Thai Restaurant & Bar: Where to Eat in Bangkok"
+title: "The Island Bangkok Top Rated Thai Restaurant & Bar: Where to Eat in Bangkok"
 description: "The Island Bangkok is a highly-rated Thai restaurant and bar tucked into Soi Samsen 4 in the Banglamphu/Phra Nakhon area, a short walk from Khao San Road and"
 country: "Thailand"
 region: "Bangkok"

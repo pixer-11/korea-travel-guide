@@ -1,5 +1,5 @@
 ---
-title: "Izzy’s Specialty Coffee: A Visitor's Guide in Koh Samui"
+title: "Izzy s Specialty Coffee: Koh Samui Travel Guide"
 description: "Izzy's Specialty Coffee is a small-batch café tucked into the old shophouse lanes of Fisherman's Village in Bo Put, on Koh Samui's north coast — go before"
 country: "Thailand"
 region: "Koh Samui"

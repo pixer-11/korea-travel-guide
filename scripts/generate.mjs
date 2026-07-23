@@ -15,6 +15,7 @@
 //  you can see the whole flow without spending anything.
 // ─────────────────────────────────────────────────────────────
 import './lib/env.mjs'; // MUST be first — loads .env before other modules read process.env
+import { makeTitle, makePlacelessTitle } from './lib/titles.mjs';
 import { readFile, writeFile, readdir, mkdir } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
@@ -498,18 +499,6 @@ function cleanVenueName(name) {
   // ("Al Khayma … | مطعم …" → "Al Khayma … |" → "Al Khayma …").
   s = s.replace(/\s*[|/·–—-]+\s*$/g, '').replace(/^\s*[|/·–—-]+\s*/g, '').trim();
   return s;
-}
-function makeTitle(name, target) {
-  // Was "{name}: A Visitor's Where to Eat in {region}" — ungrammatical. Restaurants
-  // now read "{name}: Where to Eat in {region}", everything else "…: A Visitor's Guide in …".
-  const suffix =
-    target.category === 'restaurant'
-      ? `Where to Eat in ${target.region}`
-      : `A Visitor's Guide in ${target.region}`;
-  return `${cleanVenueName(name)}: ${suffix}`;
-}
-function makePlacelessTitle(target) {
-  return `${cap(target.topic)} in ${target.region}: A Visitor's Guide`;
 }
 function cap(s) { return String(s).replace(/\b\w/g, (c) => c.toUpperCase()); }
 

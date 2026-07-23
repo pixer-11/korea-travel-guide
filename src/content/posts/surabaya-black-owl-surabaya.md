@@ -1,5 +1,5 @@
 ---
-title: "Black Owl - Surabaya: Where to Eat in Surabaya"
+title: "Black Owl: Where to Eat in Surabaya"
 description: "Black Owl is a highly rated modern café-restaurant on Jl. Basuki Rahmat in central Surabaya's Tegalsari district, a short taxi or ride-hail trip from Gubeng"
 country: "Indonesia"
 region: "Surabaya"

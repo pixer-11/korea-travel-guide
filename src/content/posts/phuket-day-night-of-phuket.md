@@ -1,5 +1,5 @@
 ---
-title: "Day & Night Of Phuket: Where to Eat in Phuket"
+title: "Day & Night Of: Where to Eat in Phuket"
 description: "Day & Night Of Phuket is a casual, high-volume Thai restaurant in Talat Yai, Phuket Old Town, best known for southern Thai and seafood dishes at moderate"
 country: "Thailand"
 region: "Phuket"

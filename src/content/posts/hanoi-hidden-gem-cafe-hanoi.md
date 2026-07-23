@@ -1,5 +1,5 @@
 ---
-title: "Hidden Gem Cafe Hanoi: A Visitor's Guide in Hanoi"
+title: "Hidden Gem Cafe: Hanoi Travel Guide"
 description: "Hidden Gem Cafe sits at 1 Hàng Mắm in Hanoi's Old Quarter, a short walk southeast of Hoàn Kiếm Lake near the Long Biên Bridge approach."
 country: "Vietnam"
 region: "Hanoi"
