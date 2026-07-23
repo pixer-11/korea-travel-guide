@@ -81,15 +81,19 @@ const faq = info
   : [];
 
 // Group this region's posts by category into labelled sections.
+// The 3rd entry is the roundup-hub slug for that category (null = no hub). When a
+// category has >= 4 posts a "See all, ranked" link surfaces its /regions/<city>/<slug>
+// hub — must match ROUNDUPS + MIN in regions/[region]/[roundup].astro.
 const CATS = [
-  ['attraction', 'Top attractions'],
-  ['trendy', 'Trendy & cafés'],
-  ['restaurant', 'Where to eat'],
-  ['hidden-gem', 'Hidden gems'],
-  ['event', 'Festivals & events'],
+  ['attraction', 'Top attractions', 'things-to-do'],
+  ['trendy', 'Trendy & cafés', 'cafes'],
+  ['restaurant', 'Where to eat', 'best-restaurants'],
+  ['hidden-gem', 'Hidden gems', 'hidden-gems'],
+  ['event', 'Festivals & events', null],
 ];
-const groups = CATS.map(([cat, label]) => ({
+const groups = CATS.map(([cat, label, roundup]) => ({
   label,
+  roundup,
   items: posts.filter((p) => p.data.category === cat),
 })).filter((g) => g.items.length > 0);
 const ungrouped = posts.filter((p) => !CATS.some(([c]) => c === p.data.category));
@@ -183,6 +187,11 @@ const jsonLd = {
               />
             ))}
           </div>
+          {g.roundup && g.items.length >= 4 && (
+            <p class="see-all">
+              <a href={`/regions/${slugifyRegion(region)}/${g.roundup}/`}>See all {g.items.length}, ranked by rating →</a>
+            </p>
+          )}
         </div>
       ))}
 
@@ -233,3 +242,9 @@ const jsonLd = {
   />
   <StickyBook city={region} />
 </BaseLayout>
+
+<style>
+  .see-all { margin-top: 1rem; }
+  .see-all a { font-weight: 600; color: var(--accent); text-decoration: none; }
+  .see-all a:hover { text-decoration: underline; }
+</style>

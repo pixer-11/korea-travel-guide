@@ -1,0 +1,138 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import PostCard from '../../../components/PostCard.astro';
+import Hotels from '../../../components/Hotels.astro';
+import PlanTrip from '../../../components/PlanTrip.astro';
+import Newsletter from '../../../components/Newsletter.astro';
+import StickyBook from '../../../components/StickyBook.astro';
+import { slugifyRegion } from '../../../lib/slug';
+
+// City roundup hubs: "N Best Restaurants in Busan", ranked from EXISTING venue
+// posts. These target high-volume head terms ("things to do in X") that the
+// individual leaf pages can't. Auto-maintained — every build re-collects the
+// city's posts and re-ranks them, so new posts and updated ratings flow in with
+// no manual work. A city only gets a hub for a category once it has >= MIN posts
+// (no thin pages), so hubs appear automatically as clusters grow.
+export async function getStaticPaths() {
+  // Defined INSIDE getStaticPaths — Astro bundles this function on its own, so it
+  // can't see component top-level consts (they come back "not defined" here).
+  const ROUNDUPS = {
+    'things-to-do': { cats: ['attraction'], label: 'Things to Do', word: 'attractions' },
+    'best-restaurants': { cats: ['restaurant'], label: 'Restaurants', word: 'restaurants' },
+    'cafes': { cats: ['trendy'], label: 'Cafés', word: 'cafés' },
+    'hidden-gems': { cats: ['hidden-gem'], label: 'Hidden Gems', word: 'hidden gems' },
+  };
+  const MIN = 4;
+  // Rank by rating tempered by how many people rated it: a 4.9 with 12k reviews
+  // should beat a 5.0 with 8 reviews. log10 keeps huge counts from dominating.
+  const score = (p) => (p.data.place?.rating ?? 0) * Math.log10((p.data.place?.userRatingsTotal ?? 0) + 10);
+  const posts = await getCollection('posts', ({ data }) => !data.draft);
+  const regions = [...new Set(posts.map((p) => p.data.region))].filter((r) => r && !r.includes('/'));
+  const paths = [];
+  for (const region of regions) {
+    for (const [key, cfg] of Object.entries(ROUNDUPS)) {
+      const items = posts
+        .filter((p) => p.data.region === region && cfg.cats.includes(p.data.category))
+        .sort((a, b) => score(b) - score(a));
+      if (items.length >= MIN) {
+        paths.push({ params: { region: slugifyRegion(region), roundup: key }, props: { region, key, items, cfg } });
+      }
+    }
+  }
+  return paths;
+}
+
+const { region, key, items, cfg } = Astro.props;
+const country = items[0]?.data.country ?? 'South Korea';
+const countrySlug = country.toLowerCase().replace(/\s+/g, '-');
+const regionSlug = slugifyRegion(region);
+const n = items.length;
+const title = `${n} Best ${cfg.label} in ${region}`;
+const dek = `The top ${cfg.word} in ${region}, ${country}, ranked by traveler ratings and how many people rated them. Every spot is a real, verified venue — facts checked against live Google data.`;
+
+const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
+const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'CollectionPage', name: title, description: dek, url: pageUrl, isPartOf: { '@id': `${site}/#site` } },
+    {
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        { name: 'Home', item: site + '/' },
+        { name: country, item: `${site}/destinations/${countrySlug}/` },
+        { name: region, item: `${site}/regions/${regionSlug}/` },
+        { name: cfg.label, item: pageUrl },
+      ].map((c, i) => ({ '@type': 'ListItem', position: i + 1, name: c.name, item: c.item })),
+    },
+    {
+      '@type': 'ItemList',
+      itemListElement: items.map((p, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        url: `${site}/posts/${p.id}/`,
+        name: p.data.place?.name ?? p.data.title,
+      })),
+    },
+  ],
+};
+---
+
+<BaseLayout title={title} description={dek} jsonLd={jsonLd}>
+  <section class="page-hero">
+    <div class="wrap">
+      <nav class="crumbs" aria-label="Breadcrumb">
+        <a href="/">Home</a> <span>/</span>
+        <a href={`/destinations/${countrySlug}/`}>{country}</a> <span>/</span>
+        <a href={`/regions/${regionSlug}/`}>{region}</a> <span>/</span>
+        <span aria-current="page">{cfg.label}</span>
+      </nav>
+      <p class="eyebrow">{region} · {cfg.label}</p>
+      <h1>{title}</h1>
+      <p class="region-blurb">{dek}</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <ol class="roundup">
+        {items.map((post, i) => (
+          <li class="roundup-item">
+            <span class="rank" aria-hidden="true">{i + 1}</span>
+            <PostCard
+              href={`/posts/${post.id}/`}
+              title={post.data.place?.name ?? post.data.title}
+              description={post.data.description}
+              region={post.data.region}
+              category={post.data.category}
+              image={post.data.heroImage?.url}
+            />
+          </li>
+        ))}
+      </ol>
+
+      <Hotels city={region} country={country} />
+      <PlanTrip city={region} country={country} />
+    </div>
+  </section>
+
+  <Newsletter
+    heading={`Heading to ${region}?`}
+    dek={`New ${region} guides and practical tips, the moment we publish them. Unsubscribe anytime.`}
+  />
+  <StickyBook city={region} />
+</BaseLayout>
+
+<style>
+  .page-hero .crumbs { margin-bottom: 1rem; font-size: 0.9rem; }
+  .roundup { list-style: none; margin: 0 0 2.5rem; padding: 0; display: grid; gap: 1.75rem; }
+  .roundup-item { position: relative; }
+  .rank {
+    position: absolute; top: -10px; left: -10px; z-index: 2;
+    width: 36px; height: 36px; display: grid; place-items: center;
+    background: var(--accent); color: #fff; border-radius: 50%;
+    font-weight: 700; font-size: 1.05rem; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  }
+</style>
