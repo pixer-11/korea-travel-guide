@@ -123,6 +123,7 @@ async function writeDiscovered(item, ctx) {
     country,
     used: ctx.usedImages,
     preferTopic: cat === 'event',
+    eventMode: cat === 'event',
   });
   const heroImage = isImageAllowed(hero)
     ? { url: hero.url, credit: hero.credit, license: hero.license, source: hero.source } : undefined;

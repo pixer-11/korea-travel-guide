@@ -70,6 +70,7 @@ for (const p of targets) {
     country: p.country || 'South Korea',
     used, allowUnsplash: true, selfHost: false,
     preferTopic: isEvent, // event → on-topic type image over city fallback
+    eventMode: isEvent,   // event → allow portrait performer/athlete photos
   });
   if (!hero?.url || hero.url.includes('placeholder')) {
     failed++; console.log(`  ✗ [${p.category}] ${p.region} (${p.f}) — none`);

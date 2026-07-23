@@ -103,9 +103,9 @@ export async function commonsCandidates(query, limit = 10) {
 // an accurately-named-but-ugly photo (e.g. "Haeundae Police Station"); relying
 // on title match alone once put a police station on the Haeundae beach post.
 const BORING =
-  /police|\bstation\b|fire station|parking|office|government|city hall|district office|hospital|clinic|\bsign\b|signage|\bmap\b|diagram|schematic|construction|scaffold|toilet|restroom|manhole|number plate|license plate|logo|\bflag\b|coat of arms|panorama of reed|\bash\b|volcanic ash|eruption|erupting|\bflood(ing|ed|s)?\b|protest|\briot\b|demonstration|funeral|\bdisaster\b|shipwreck|\bwreck\b|\bcrash\b|wildfire|\bdebris\b|rubble|demolition|aftermath|heron|egret|\bbird\b|\bduck\b|pigeon|sparrow|wildlife|butterfly|insect|squirrel|\bcat\b|\bdog\b/i;
+  /police|\bstation\b|fire station|parking|office|government|city hall|district office|hospital|clinic|\bsign\b|signage|\bmap\b|diagram|schematic|construction|scaffold|toilet|restroom|manhole|number plate|license plate|logo|\bflag\b|coat of arms|panorama of reed|\bash\b|volcanic ash|eruption|erupting|\bflood(ing|ed|s)?\b|protest|\briot\b|demonstration|funeral|\bdisaster\b|shipwreck|\bwreck\b|\bcrash\b|wildfire|\bdebris\b|rubble|demolition|aftermath|heron|egret|\bbird\b|\bduck\b|pigeon|sparrow|wildlife|butterfly|insect|squirrel|\bcat\b|\bdog\b|self.?portrait|\bancient\b|\bbabylon\b|\bpyramid|waterfall|\bcave\b|grotto|grottes|\bincense\b|coliseum|colosseum|\bruins?\b|archaeolog|\b1[0-8]\d\d\b|\b19[0-4]\d\b/i;
 
-export async function commonsBest(query, { mustInclude = [], used } = {}) {
+export async function commonsBest(query, { mustInclude = [], used, allowPortrait = false, minWidth = 1000 } = {}) {
   const cands = await commonsCandidates(query, 14);
   if (!cands.length) return null;
   const qtok = tokens(query);
@@ -117,8 +117,12 @@ export async function commonsBest(query, { mustInclude = [], used } = {}) {
       const overlap = qtok.filter((t) => ttok.has(t)).length;
       const titleLc = c.title.toLowerCase();
       const passesMust = must.length === 0 || must.some((m) => titleLc.includes(m));
-      const landscape = !c.w || !c.h || c.w >= c.h * 0.95; // hero is a wide banner
-      const bigEnough = !c.w || c.w >= 1000;
+      // Scenery heroes want a wide banner. For events, the RIGHT image is the
+      // performer/athlete — usually a PORTRAIT — so allowPortrait relaxes the
+      // aspect gate (still rejecting extreme 1:>1.8 slivers) and lets a smaller
+      // (≥600px) real photo through instead of a wrong-topic city fallback.
+      const landscape = !c.w || !c.h || (allowPortrait ? c.h <= c.w * 1.8 : c.w >= c.h * 0.95);
+      const bigEnough = !c.w || c.w >= minWidth;
       const scenic = !BORING.test(c.title);
       return { c, overlap, rank: i, ok: passesMust && overlap >= 1 && landscape && bigEnough && scenic };
     })

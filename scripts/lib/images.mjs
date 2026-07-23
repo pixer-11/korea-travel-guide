@@ -89,7 +89,7 @@ export async function pickGallery(place, n = 3) {
 //   4. Unsplash, strictly constrained to region + "South Korea", BEST (not random)
 //   5. Placeholder
 // `used` is an optional Set of URLs already taken by other posts (de-dupe).
-export async function resolveHero({ namedVenue, region, topic, place, country = 'South Korea', used, allowUnsplash = true, selfHost = false, preferTopic = false } = {}) {
+export async function resolveHero({ namedVenue, region, topic, place, country = 'South Korea', used, allowUnsplash = true, selfHost = false, preferTopic = false, eventMode = false } = {}) {
   const reg = region || '';
   const ctry = country || 'South Korea';
 
@@ -102,9 +102,20 @@ export async function resolveHero({ namedVenue, region, topic, place, country = 
 
   if (namedVenue) {
     const anchor = keyToken(namedVenue);
+    // Events: the ideal hero is the performer/athlete, usually a portrait — allow
+    // it (and a smaller ≥600px file) rather than dropping to a wrong-topic city shot.
+    const copts = eventMode ? { allowPortrait: true, minWidth: 600 } : {};
     const byName =
-      (await commonsBest(`${namedVenue} ${reg}`, { mustInclude: [anchor], used })) ||
-      (await commonsBest(namedVenue, { mustInclude: [anchor], used }));
+      (await commonsBest(`${namedVenue} ${reg}`, { mustInclude: [anchor], used, ...copts })) ||
+      (await commonsBest(namedVenue, { mustInclude: [anchor], used, ...copts })) ||
+      // Events: the full title ("UFC Fight Night: Ankalaev vs Rountree Jr …") is
+      // too specific for Commons search; the distinctive name alone ("Ankalaev")
+      // finds the actual performer/athlete. Skip when the anchor is just the city
+      // (e.g. "Hong Kong Football" → "hong") — that returns a cityscape, not the
+      // event; let it fall through to the event-TYPE image instead. ≥4 chars.
+      (eventMode && anchor.length >= 4 && !new Set(tokens(reg || '')).has(anchor)
+        ? await commonsBest(anchor, { mustInclude: [anchor], used, ...copts })
+        : null);
     if (byName) return mark(byName, used);
 
     // Google Places photos ARE the actual venue, but the returned photoUri
