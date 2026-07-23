@@ -21,6 +21,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 1.25311
   lng: 103.81877420000001
+  busyness:
+    updated: '2026-07-23'
+    weekdayBusy: [19, 20]
+    weekendQuiet: [7]
+    weekendBusy: [17, 18, 19, 20, 21, 22]
+    venueId: 'ven_455f44796b4d374a38643152456a3262414155437432474a496843'
 tags:
   - "sentosa"
   - "hidden gem"

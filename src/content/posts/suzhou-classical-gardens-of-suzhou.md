@@ -21,6 +21,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 31.324225
   lng: 120.62996899999999
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [8, 9, 10, 20]
+    weekendQuiet: [7, 8]
+    weekendBusy: [7, 8, 9, 10, 11, 12, 13, 14, 15]
+    venueId: 'ven_775f5357423158706d566452557a736d2d73774b2d634b4a496843'
 tags:
   - "suzhou"
   - "Suzhou Classical Gardens"

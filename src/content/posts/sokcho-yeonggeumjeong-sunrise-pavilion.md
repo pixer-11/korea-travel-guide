@@ -21,6 +21,10 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 38.2120575
   lng: 128.60207599999998
+  busyness:
+    updated: '2026-07-23'
+    weekendBusy: [11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
+    venueId: 'ven_5557486f41796e34724c555238463238367731705156754a496843'
 tags:
   - "sokcho"
   - "hidden gem"

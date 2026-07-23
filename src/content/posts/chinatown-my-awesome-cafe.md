@@ -22,6 +22,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 1.2801094000000002
   lng: 103.8472056
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [11]
+    weekdayBusy: [19]
+    weekendQuiet: [10, 21, 22]
+    venueId: 'ven_6f635034424f69306c667352456a325a307765565333384a496843'
 tags:
   - "chinatown"
   - "trendy cafe"

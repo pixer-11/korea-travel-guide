@@ -21,6 +21,11 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 1.304052
   lng: 103.83176700000001
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [12, 13]
+    weekendBusy: [13, 14, 15, 16, 17, 18, 19, 20, 21, 22]
+    venueId: 'ven_67494a346b743578356b4552456a325a306f77483857524a496843'
 tags:
   - "orchard road"
   - "top attraction"

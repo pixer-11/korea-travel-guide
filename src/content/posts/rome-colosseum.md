@@ -21,6 +21,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 41.8902102
   lng: 12.4922309
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [8, 9]
+    weekendQuiet: [8, 9]
+    weekendBusy: [11, 12, 13, 14, 15]
+    venueId: 'ven_6753384937436b464f4178524d784c685a3755674d52724a496843'
 tags:
   - "rome"
   - "Colosseum"

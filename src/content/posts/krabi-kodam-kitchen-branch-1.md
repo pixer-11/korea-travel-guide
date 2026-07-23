@@ -22,6 +22,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 8.038466399999999
   lng: 98.8196739
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [11, 12, 13, 14, 15]
+    weekdayBusy: [18, 19, 20, 21]
+    weekendQuiet: [11, 12, 13, 14]
+    weekendBusy: [18, 19, 20, 21]
+    venueId: 'ven_77326f696a32654644356752415455417251427257534a4a496843'
 tags:
   - "krabi"
   - "local restaurant"

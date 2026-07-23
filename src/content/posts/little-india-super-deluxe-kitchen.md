@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 1.3057785
   lng: 103.8543407
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [11, 12, 15, 16]
+    weekdayBusy: [19, 20, 21]
+    weekendQuiet: [11]
+    weekendBusy: [13, 14, 15, 18, 19, 20, 21]
+    venueId: 'ven_556547773543365261684552456a325a5556502d4939714a496843'
 tags:
   - "little india"
   - "local restaurant"

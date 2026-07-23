@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 26.3202086
   lng: 127.7536892
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [11, 22]
+    weekdayBusy: [19]
+    weekendQuiet: [11, 22]
+    weekendBusy: [17, 18, 19, 20, 21]
+    venueId: 'ven_344c795345736f365569555251543554386378555f526d4a496843'
 tags:
   - "okinawa"
   - "local restaurant"

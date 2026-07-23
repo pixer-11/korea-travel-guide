@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 33.492992199999996
   lng: 126.95186770000001
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [19, 20, 21, 22]
+    weekdayBusy: [10, 11, 12, 13, 14, 15]
+    weekendQuiet: [19, 20, 21, 22]
+    weekendBusy: [9, 10, 11, 12, 13, 14, 15, 16, 17]
+    venueId: 'ven_38746845744249416d526152555444564d7a654f4766584a496843'
 tags:
   - "jeju"
   - "Olle trail"

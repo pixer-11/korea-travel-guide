@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: -8.8887552
   lng: 116.2762841
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [8, 9, 10, 11]
+    weekdayBusy: [20, 21, 22]
+    weekendQuiet: [8, 9, 10, 11, 12, 13, 14]
+    weekendBusy: [16, 17, 18, 19, 20, 21, 22]
+    venueId: 'ven_416b6470625349345837755230537a704f5a42494356754a496843'
 tags:
   - "lombok"
   - "street food"

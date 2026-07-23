@@ -20,6 +20,12 @@ place:
   businessStatus: OPERATIONAL
   lat: 36.538913099999995
   lng: 128.5181474
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [9, 10, 18]
+    weekendQuiet: [18]
+    weekendBusy: [11, 12, 13, 14, 15, 16, 17]
+    venueId: 'ven_41506e6f5068784434756f5255445a693466354c6c30374a496843'
 tags:
   - andong
   - top attraction

@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 7.919899399999999
   lng: 98.2807461
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [10, 11]
+    weekdayBusy: [17, 18]
+    weekendQuiet: [10, 11]
+    weekendBusy: [15, 16, 17, 18]
+    venueId: 'ven_6f51646c6d507077354f7452414455373458366d6937624a496843'
 tags:
   - "phuket"
   - "trendy cafe"

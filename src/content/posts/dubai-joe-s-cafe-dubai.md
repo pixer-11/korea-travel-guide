@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 25.196285
   lng: 55.2774144
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [9, 10, 11, 12, 13]
+    weekdayBusy: [18, 19, 20, 21]
+    weekendQuiet: [9, 10, 11, 12]
+    weekendBusy: [17, 18, 19, 20, 21, 22]
+    venueId: 'ven_6b4d3970614f42637a4a7552347a586f68434d414151414a496843'
 tags:
   - "dubai"
   - "trendy cafe"

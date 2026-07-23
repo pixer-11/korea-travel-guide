@@ -21,6 +21,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 13.743865200000002
   lng: 100.488444
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [8, 9, 18]
+    weekendQuiet: [8, 9, 18]
+    weekendBusy: [11, 12, 13, 14, 15, 16]
+    venueId: 'ven_59595f5a366e565569626e52416a345a6167365f7653614a496843'
 tags:
   - "bangkok"
   - "Wat Arun"

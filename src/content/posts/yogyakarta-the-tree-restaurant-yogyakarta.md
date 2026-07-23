@@ -21,6 +21,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: -7.7694738
   lng: 110.50411589999999
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7, 21]
+    weekendQuiet: [21]
+    weekendBusy: [9, 10, 11, 15, 16, 17, 18]
+    venueId: 'ven_776d6a4b6442665a6954675234696562644f517859384e4a496843'
 tags:
   - "yogyakarta"
   - "local restaurant"

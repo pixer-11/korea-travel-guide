@@ -22,6 +22,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 25.7883181
   lng: 55.9967918
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7]
+    weekdayBusy: [19, 20, 21, 22]
+    weekendQuiet: [7, 8]
+    weekendBusy: [16, 17, 18, 19, 20, 21, 22]
+    venueId: 'ven_49336a4c6e73646230566652346a393368595a2d5956414a496843'
 tags:
   - "ras al khaimah"
   - "trendy cafe"

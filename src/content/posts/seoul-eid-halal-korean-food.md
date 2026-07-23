@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 37.533220400000005
   lng: 126.99638899999998
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [11, 12, 21]
+    weekdayBusy: [19]
+    weekendQuiet: [11, 21]
+    weekendBusy: [13, 14, 18, 19, 20]
+    venueId: 'ven_73653954746674352d7871525544666a576244745630614a496843'
 tags:
   - "seoul"
   - "halal food Itaewon"

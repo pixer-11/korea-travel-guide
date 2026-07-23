@@ -22,6 +22,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 1.2825735
   lng: 103.8431104
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7, 8, 21, 22]
+    weekdayBusy: [11, 12, 13]
+    weekendQuiet: [7, 20, 21, 22]
+    weekendBusy: [10, 11, 12, 13, 14]
+    venueId: 'ven_77364845786c58576f6a7152456a325a4d33486c6e65414a496843'
 tags:
   - "chinatown"
   - "street food"

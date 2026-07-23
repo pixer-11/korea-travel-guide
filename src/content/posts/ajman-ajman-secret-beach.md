@@ -21,6 +21,10 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 25.429517999999998
   lng: 55.4543177
+  busyness:
+    updated: '2026-07-23'
+    weekendBusy: [18, 19, 20, 21, 22]
+    venueId: 'ven_30467247675744797a564e52347a58584a664c4f4379674a496843'
 tags:
   - "ajman"
   - "hidden gem"

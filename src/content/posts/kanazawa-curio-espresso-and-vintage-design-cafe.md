@@ -22,6 +22,11 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 36.5733357
   lng: 136.65542109999998
+  busyness:
+    updated: '2026-07-23'
+    weekdayBusy: [8, 9, 10, 11, 12]
+    weekendBusy: [8, 9, 10, 11, 12, 13, 14]
+    venueId: 'ven_63726c5a454379634853665238462d7a343250306564694a496843'
 tags:
   - "kanazawa"
   - "trendy cafe"

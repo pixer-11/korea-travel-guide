@@ -21,6 +21,11 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 13.7410037
   lng: 100.50847379999999
+  busyness:
+    updated: '2026-07-23'
+    weekdayBusy: [19, 20, 21]
+    weekendBusy: [18, 19, 20, 21, 22]
+    venueId: 'ven_735948696a576f4f33514352416a345a7957534c4e2d444a496843'
 tags:
   - "bangkok"
   - "Yaowarat Chinatown Street Food"

@@ -21,6 +21,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 20.9463398
   lng: 107.04832239999999
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [10, 11, 12, 13, 14]
+    weekendQuiet: [10, 11, 12]
+    weekendBusy: [15, 16, 17, 18, 19, 20, 21, 22]
+    venueId: 'ven_5166707748457a6b45656252456a535a4a596b424531544a496843'
 tags:
   - "ha long bay"
   - "local restaurant"

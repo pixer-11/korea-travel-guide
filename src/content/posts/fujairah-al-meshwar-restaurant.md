@@ -22,6 +22,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 25.123008600000002
   lng: 56.331095999999995
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [9, 10, 11, 12, 13]
+    weekdayBusy: [20, 21, 22]
+    weekendQuiet: [9, 10, 11, 12, 13]
+    weekendBusy: [18, 19, 20, 21, 22]
+    venueId: 'ven_4d322d654837635a35706f52344439347a6f62623339544a496843'
 tags:
   - "fujairah"
   - "street food"

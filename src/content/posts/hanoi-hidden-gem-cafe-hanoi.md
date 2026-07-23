@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 21.033744600000002
   lng: 105.8551911
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7, 8, 9, 22]
+    weekdayBusy: [11, 12, 13]
+    weekendQuiet: [7, 8, 22]
+    weekendBusy: [11, 12, 13, 14, 15, 19, 20]
+    venueId: 'ven_77495a52384d552d786d645245544e724b69326553636a4a496843'
 tags:
   - "hanoi"
   - "hidden gem"

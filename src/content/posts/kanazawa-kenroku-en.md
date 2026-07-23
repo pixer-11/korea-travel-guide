@@ -21,6 +21,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 36.5621278
   lng: 136.66265149999998
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7, 8, 17, 18]
+    weekendQuiet: [7, 8, 18]
+    weekendBusy: [10, 11, 12, 13, 14, 15]
+    venueId: 'ven_63704337314438444950355238462d7a4d592d796d56424a496843'
 tags:
   - "kanazawa"
   - "top attraction"

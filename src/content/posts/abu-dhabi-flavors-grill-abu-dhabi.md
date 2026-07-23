@@ -22,6 +22,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 24.527863500000002
   lng: 54.363940400000004
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7, 8, 9, 10, 11]
+    weekdayBusy: [20, 21]
+    weekendQuiet: [7, 8, 9, 10, 11]
+    weekendBusy: [15, 16, 17, 18, 19, 20, 21, 22]
+    venueId: 'ven_51636a4f6c57444f44637a52346a586e7032657a7255654a496843'
 tags:
   - "abu dhabi"
   - "local restaurant"

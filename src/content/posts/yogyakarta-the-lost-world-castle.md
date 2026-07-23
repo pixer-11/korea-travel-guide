@@ -21,6 +21,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: -7.6041648
   lng: 110.4510042
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7, 8, 16, 17, 18]
+    weekendQuiet: [7, 17, 18]
+    weekendBusy: [9, 10, 11, 12, 13, 14, 15]
+    venueId: 'ven_67795466687573324f59795234696564745a37444656434a496843'
 tags:
   - "yogyakarta"
   - "hidden gem"

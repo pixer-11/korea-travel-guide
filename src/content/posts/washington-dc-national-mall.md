@@ -21,6 +21,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 38.8875144
   lng: -77.0363934
+  busyness:
+    updated: '2026-07-23'
+    weekdayBusy: [11, 12, 13, 14, 15, 16]
+    weekendQuiet: [22]
+    weekendBusy: [10, 11, 12, 13, 14, 15, 16, 17, 18]
+    venueId: 'ven_6f444372796b6f47635351526b3474337570575f33544d4a496843'
 tags:
   - "washington dc"
   - "top attraction"

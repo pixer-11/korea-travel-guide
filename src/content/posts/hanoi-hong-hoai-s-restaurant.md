@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 21.0338439
   lng: 105.8474725
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [10, 11]
+    weekdayBusy: [19, 20, 21]
+    weekendQuiet: [10, 11]
+    weekendBusy: [18, 19, 20, 21, 22]
+    venueId: 'ven_5955474e65555856654b525245544e72367259744f52584a496843'
 tags:
   - "hanoi"
   - "local restaurant"

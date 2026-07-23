@@ -21,6 +21,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: -6.9055862999999995
   lng: 107.617391
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7, 8, 9, 10, 22]
+    weekendQuiet: [7, 8, 9, 22]
+    weekendBusy: [12, 13, 14, 15, 16, 17, 18, 19, 20]
+    venueId: 'ven_456c6874706e375a6e444a523443616e7a7641617833544a496843'
 tags:
   - "bandung"
   - "trendy cafe"

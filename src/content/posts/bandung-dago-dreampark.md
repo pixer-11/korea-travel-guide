@@ -21,6 +21,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: -6.8484061
   lng: 107.6259371
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [9, 17]
+    weekendQuiet: [8, 18]
+    weekendBusy: [10, 11, 12, 13, 14, 15]
+    venueId: 'ven_3444667365307444343258523443616e764364444755654a496843'
 tags:
   - "bandung"
   - "top attraction"

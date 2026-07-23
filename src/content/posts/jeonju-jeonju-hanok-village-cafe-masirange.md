@@ -20,6 +20,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 35.8144827
   lng: 127.14888669999999
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [10, 19, 20, 21]
+    weekendQuiet: [20, 21]
+    weekendBusy: [12, 13, 14, 15, 16, 17, 18]
+    venueId: 'ven_4966467251566872783162525544636c774539376378564a496843'
 tags:
   - "jeonju"
   - "trendy cafe"

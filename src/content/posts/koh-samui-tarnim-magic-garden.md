@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 9.482904099999999
   lng: 99.9944804
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [9, 17, 18]
+    weekdayBusy: [12, 13, 14]
+    weekendQuiet: [9, 10, 17, 18]
+    weekendBusy: [12, 13, 14, 15]
+    venueId: 'ven_736a55455a6d5359385363524144567a6e5042323733334a496843'
 tags:
   - "koh samui"
   - "top attraction"

@@ -21,6 +21,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 39.454875099999995
   lng: -0.3504904
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [19, 20, 21]
+    weekendQuiet: [19, 20, 21]
+    weekendBusy: [11, 12, 13, 14, 15, 16, 17, 18]
+    venueId: 'ven_49323645645170726a506c52304159496c6530624f55674a496843'
 tags:
   - "valencia"
   - "City of Arts and Sciences"

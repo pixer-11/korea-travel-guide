@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 35.6491207
   lng: 139.7897739
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [8, 22]
+    weekdayBusy: [11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+    weekendQuiet: [8, 22]
+    weekendBusy: [11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+    venueId: 'ven_304735516c385354627449524147474a6977356f6365534a496843'
 tags:
   - "tokyo"
   - "teamLab Planets"

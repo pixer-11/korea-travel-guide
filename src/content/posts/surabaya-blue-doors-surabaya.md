@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: -7.277798300000001
   lng: 112.73565959999999
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7, 8, 22]
+    weekdayBusy: [13]
+    weekendQuiet: [7, 8, 22]
+    weekendBusy: [13, 14, 18, 19, 20, 21]
+    venueId: 'ven_497976495558534f47414a523079313737643975572d6a4a496843'
 tags:
   - "surabaya"
   - "trendy cafe"

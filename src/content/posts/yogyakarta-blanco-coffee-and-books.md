@@ -22,6 +22,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: -7.781408099999998
   lng: 110.36476979999999
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7, 8]
+    weekdayBusy: [19, 20, 21]
+    weekendQuiet: [7, 8, 9, 10]
+    weekendBusy: [16, 17, 18, 19, 20, 21, 22]
+    venueId: 'ven_5575656e4631336e4666445234696559707a4f487956454a496843'
 tags:
   - "yogyakarta"
   - "trendy cafe"

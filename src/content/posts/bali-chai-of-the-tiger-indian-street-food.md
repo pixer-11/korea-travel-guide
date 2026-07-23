@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: -8.5125871
   lng: 115.2682574
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [11, 12, 13]
+    weekdayBusy: [19, 20]
+    weekendQuiet: [11, 12, 13, 22]
+    weekendBusy: [17, 18, 19, 20, 21]
+    venueId: 'ven_307663522d4b63505f66695230693039413871546a665f4a496843'
 tags:
   - "bali"
   - "street food"

@@ -20,6 +20,10 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 37.2884637
   lng: 127.02302479999999
+  busyness:
+    updated: '2026-07-23'
+    weekendBusy: [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+    venueId: 'ven_594f374e4e4b715a77304152557a65635a4c303447394d4a496843'
 tags:
   - "suwon"
   - "hidden gem"

@@ -21,6 +21,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 12.9474881
   lng: 100.89666749999999
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [21]
+    weekendQuiet: [15, 16, 21]
+    weekendBusy: [12, 19, 20]
+    venueId: 'ven_515556696642323876417552456a415f4347457235364a4a496843'
 tags:
   - "pattaya"
   - "street food"

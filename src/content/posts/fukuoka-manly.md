@@ -22,6 +22,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 33.5848065
   lng: 130.3989908
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [22]
+    weekdayBusy: [15]
+    weekendQuiet: [21, 22]
+    weekendBusy: [15, 16, 18, 19, 20, 21]
+    venueId: 'ven_4d78397334585177636c765255545152534937645077454a496843'
 tags:
   - "fukuoka"
   - "trendy cafe"

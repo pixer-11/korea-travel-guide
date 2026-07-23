@@ -22,6 +22,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 12.9178728
   lng: 100.8981846
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [9, 10, 18]
+    weekendQuiet: [18]
+    weekendBusy: [11, 12, 13, 14, 15, 16]
+    venueId: 'ven_456c3556324966356d317152456a4156793957363854484a496843'
 tags:
   - "pattaya"
   - "trendy cafe"

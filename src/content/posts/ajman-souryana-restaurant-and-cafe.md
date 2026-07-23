@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 25.4208481
   lng: 55.4438466
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [8, 9, 10, 11, 12, 13, 14]
+    weekdayBusy: [21, 22]
+    weekendQuiet: [8, 9, 10, 11, 12]
+    weekendBusy: [18, 19, 20, 21, 22]
+    venueId: 'ven_6f3774777259445844365952347a5858645744786464454a496843'
 tags:
   - "ajman"
   - "local restaurant"

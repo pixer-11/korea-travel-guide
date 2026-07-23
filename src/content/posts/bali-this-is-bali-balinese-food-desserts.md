@@ -22,6 +22,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: -8.5081513
   lng: 115.2642473
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [11, 12, 13, 14]
+    weekdayBusy: [18, 19, 20, 21]
+    weekendQuiet: [11, 12, 13]
+    weekendBusy: [18, 19, 20, 21]
+    venueId: 'ven_673473734c30626775376a523069303941524f574d37524a496843'
 tags:
   - "bali"
   - "local restaurant"

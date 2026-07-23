@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 35.0059517
   lng: 135.7680301
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [11, 12, 13, 14, 15, 16, 17]
+    weekdayBusy: [19, 20, 21, 22]
+    weekendQuiet: [11, 12, 13, 14, 15, 16]
+    weekendBusy: [19, 20, 21, 22]
+    venueId: 'ven_6f78736c677958584e6255524157414a3041594a4e64704a496843'
 tags:
   - "kyoto"
   - "street food"

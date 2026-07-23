@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 15.8771366
   lng: 108.3269249
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [8, 9, 10, 22]
+    weekdayBusy: [17, 18, 19]
+    weekendQuiet: [8, 9, 10, 21, 22]
+    weekendBusy: [15, 16, 17, 18, 19]
+    venueId: 'ven_5973306675385465645f3652456a515045624f72485f624a496843'
 tags:
   - "hoi an"
   - "trendy cafe"

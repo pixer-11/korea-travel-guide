@@ -21,6 +21,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 10.7795106
   lng: 106.6920916
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7, 8, 17]
+    weekendQuiet: [7, 8, 17]
+    weekendBusy: [10, 11, 12, 13, 14, 15]
+    venueId: 'ven_7758324b39394b55516e715245546476416a6f3367777a4a496843'
 tags:
   - "ho chi minh city"
   - "top attraction"

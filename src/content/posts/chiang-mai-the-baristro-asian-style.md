@@ -22,6 +22,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 18.789947899999998
   lng: 98.9516702
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [8, 9, 10, 17, 18]
+    weekendQuiet: [8, 9, 18]
+    weekendBusy: [11, 12, 13, 14, 15, 16]
+    venueId: 'ven_6f304d397869574179417952416a3237387947623254394a496843'
 tags:
   - "chiang mai"
   - "trendy cafe"

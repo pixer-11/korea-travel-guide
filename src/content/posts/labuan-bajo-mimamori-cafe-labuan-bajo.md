@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: -8.4931356
   lng: 119.8776747
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [21, 22]
+    weekdayBusy: [9]
+    weekendQuiet: [18, 19, 21, 22]
+    weekendBusy: [8, 9, 10, 11, 13, 15, 17]
+    venueId: 'ven_4541504d42516230594432523043746e64786c476137624a496843'
 tags:
   - "labuan bajo"
   - "trendy cafe"

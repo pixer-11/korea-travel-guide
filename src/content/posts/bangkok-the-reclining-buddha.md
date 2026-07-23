@@ -21,6 +21,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 13.746525199999999
   lng: 100.4916607
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [8, 9, 18, 19]
+    weekendQuiet: [8, 19]
+    weekendBusy: [11, 12, 13, 14, 15, 16]
+    venueId: 'ven_636847724632614b51306652416a345a3669374450616d4a496843'
 tags:
   - "bangkok"
   - "Wat Pho Reclining Buddha"

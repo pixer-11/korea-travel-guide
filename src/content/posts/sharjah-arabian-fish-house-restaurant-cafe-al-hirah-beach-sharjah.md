@@ -22,6 +22,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 25.3858462
   lng: 55.406377199999994
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7, 8, 9, 10, 11, 12, 13, 14, 15]
+    weekendQuiet: [7, 8, 9]
+    weekendBusy: [16, 17, 18, 19, 20, 21, 22]
+    venueId: 'ven_414b45667058754b5a6f6952347a585a4a2d486462635a4a496843'
 tags:
   - "sharjah"
   - "local restaurant"

@@ -21,6 +21,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 14.3569443
   lng: 100.5675112
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [8, 9, 18]
+    weekendQuiet: [8]
+    weekendBusy: [11, 12, 13, 14, 15, 16, 17, 18]
+    venueId: 'ven_5564314d4146474567513252416a34306c4554616b552d4a496843'
 tags:
   - "ayutthaya"
   - "top attraction"

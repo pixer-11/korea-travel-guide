@@ -21,6 +21,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 35.174422199999995
   lng: 136.8844179
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [19]
+    weekendQuiet: [19]
+    weekendBusy: [11, 12, 13, 14, 15, 16]
+    venueId: 'ven_736a73576f336a4a766b3752413241334e5258765735674a496843'
 tags:
   - "nagoya"
   - "trendy cafe"

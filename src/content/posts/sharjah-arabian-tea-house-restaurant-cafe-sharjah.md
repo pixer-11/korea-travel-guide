@@ -22,6 +22,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 25.3597557
   lng: 55.3838176
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7, 8, 12, 13, 14, 15, 16]
+    weekdayBusy: [21, 22]
+    weekendQuiet: [7]
+    weekendBusy: [9, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22]
+    venueId: 'ven_45753765524c61536f795852347a5862744b70597730374a496843'
 tags:
   - "sharjah"
   - "street food"

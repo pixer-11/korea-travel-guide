@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 13.7366721
   lng: 100.56697349999999
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [9, 22]
+    weekdayBusy: [19]
+    weekendQuiet: [9, 22]
+    weekendBusy: [11, 12, 13, 14, 18, 19, 20, 21]
+    venueId: 'ven_737a565f76766a7135505f52416a3466756d6d537131684a496843'
 tags:
   - "bangkok"
   - "trendy cafe"

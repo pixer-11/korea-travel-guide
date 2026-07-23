@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 35.1711148
   lng: 136.9094757
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7, 8, 9, 10, 22]
+    weekdayBusy: [17, 18, 19]
+    weekendQuiet: [7, 8, 9, 21, 22]
+    weekendBusy: [12, 13, 14, 15, 16, 17, 18, 19, 20]
+    venueId: 'ven_516c766c4c3274374f6f31524132417752644b696e35544a496843'
 tags:
   - "nagoya"
   - "top attraction"

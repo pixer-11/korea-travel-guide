@@ -22,6 +22,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: -6.1562788
   lng: 106.817791
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [17, 18]
+    weekendQuiet: [17, 18]
+    weekendBusy: [20, 21, 22]
+    venueId: 'ven_4d4d73424c2d6e465347705234536131507a4c5966304b4a496843'
 tags:
   - "jakarta"
   - "street food"

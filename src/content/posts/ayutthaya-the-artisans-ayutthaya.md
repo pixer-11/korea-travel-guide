@@ -21,6 +21,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 14.300598599999999
   lng: 100.56410439999999
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [11, 21]
+    weekendQuiet: [21]
+    weekendBusy: [12, 13, 14, 15, 16]
+    venueId: 'ven_455746775564684964776152416a3433743534434253504a496843'
 tags:
   - "ayutthaya"
   - "local restaurant"

@@ -21,6 +21,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 37.1760783
   lng: -3.5881412999999998
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [8, 9, 18]
+    weekendQuiet: [8, 9, 18]
+    weekendBusy: [12, 13, 14, 15, 16]
+    venueId: 'ven_41596a525f754568493666523051633866376c5f6c374f4a496843'
 tags:
   - "granada"
   - "Alhambra"

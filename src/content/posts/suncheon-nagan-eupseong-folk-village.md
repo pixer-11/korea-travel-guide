@@ -20,6 +20,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 34.907295399999995
   lng: 127.3411258
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [9, 10, 17, 18]
+    weekendQuiet: [18]
+    weekendBusy: [10, 11, 12, 13, 14, 15, 16]
+    venueId: 'ven_6f7451506a4255706d6955525554622d3353494c5035494a496843'
 tags:
   - "suncheon"
   - "Naganeupseong"

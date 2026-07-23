@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 1.3053029
   lng: 103.85223950000001
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [12, 13, 14, 15, 16]
+    weekdayBusy: [20, 21]
+    weekendQuiet: [12, 15, 16, 17, 18]
+    weekendBusy: [13, 14, 20, 21, 22]
+    venueId: 'ven_776f77473665635344485752456a325a5953645a5f66784a496843'
 tags:
   - "little india"
   - "trendy cafe"

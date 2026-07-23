@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 40.7512189
   lng: 14.4886761
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [17, 18, 19]
+    weekdayBusy: [10, 11, 12, 13, 14]
+    weekendQuiet: [17, 18, 19]
+    weekendBusy: [10, 11, 12, 13, 14]
+    venueId: 'ven_77487069426f6a53745a4e524d784f3832376852722d674a496843'
 tags:
   - "naples"
   - "Pompeii Ruins"

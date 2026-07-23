@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 1.2815683
   lng: 103.8636132
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7, 8]
+    weekdayBusy: [19, 20]
+    weekendQuiet: [7, 8]
+    weekendBusy: [14, 15, 16, 17, 18, 19, 20, 21]
+    venueId: 'ven_495743576558746671736452456a325a51776b2d5a784d4a496843'
 tags:
   - "marina bay"
   - "hidden gem"

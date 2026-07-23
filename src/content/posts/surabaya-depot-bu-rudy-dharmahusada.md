@@ -22,6 +22,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: -7.267450299999999
   lng: 112.7700431
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7, 8, 9, 21]
+    weekdayBusy: [17, 18]
+    weekendQuiet: [7, 8, 21]
+    weekendBusy: [11, 12, 13, 14, 15, 16, 17, 18, 19]
+    venueId: 'ven_4d585535556a32696a706e523079313533762d4e6c637a4a496843'
 tags:
   - "surabaya"
   - "street food"

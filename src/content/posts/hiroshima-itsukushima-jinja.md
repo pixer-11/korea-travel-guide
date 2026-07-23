@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 34.295989600000006
   lng: 132.3198285
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7, 8, 17, 18]
+    weekdayBusy: [11, 12, 13, 14]
+    weekendQuiet: [7, 8, 17, 18]
+    weekendBusy: [10, 11, 12, 13, 14, 15]
+    venueId: 'ven_556a636f63503031574e6b52416d476a5467664833326a4a496843'
 tags:
   - "hiroshima"
   - "Itsukushima Shrine"

@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: -8.890671
   lng: 116.28121019999999
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7, 8, 9, 10]
+    weekdayBusy: [18, 19, 20, 21]
+    weekendQuiet: [7, 8, 9, 10, 11]
+    weekendBusy: [17, 18, 19, 20, 21]
+    venueId: 'ven_4d4c73457444787746586b5230537a70326e69635a33484a496843'
 tags:
   - "lombok"
   - "local restaurant"

@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 26.140480699999998
   lng: 127.7489447
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [9, 16, 17]
+    weekdayBusy: [11, 12, 13]
+    weekendQuiet: [9, 16, 17]
+    weekendBusy: [11, 12, 13]
+    venueId: 'ven_3450324c34576b7132357952515435766c5761475f617a4a496843'
 tags:
   - "okinawa"
   - "hidden gem"

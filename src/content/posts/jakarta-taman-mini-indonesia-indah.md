@@ -21,6 +21,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: -6.3044926
   lng: 106.88933879999999
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7, 8, 9, 20]
+    weekendQuiet: [7, 20]
+    weekendBusy: [11, 12, 13, 14, 15, 16, 17, 18, 19]
+    venueId: 'ven_63514d6e6b4c3779724e445234536174444630324a61594a496843'
 tags:
   - "jakarta"
   - "top attraction"

@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: -7.7723796
   lng: 110.3684557
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [22]
+    weekdayBusy: [17, 18, 19, 20]
+    weekendQuiet: [22]
+    weekendBusy: [16, 17, 18, 19, 20, 21]
+    venueId: 'ven_6f307849493336313654675234696566644e747179656c4a496843'
 tags:
   - "yogyakarta"
   - "street food"

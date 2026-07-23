@@ -22,6 +22,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 25.7913039
   lng: 55.945141199999995
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7, 8, 9, 10, 11, 12]
+    weekdayBusy: [18, 19, 20, 21, 22]
+    weekendQuiet: [7, 8, 9]
+    weekendBusy: [18, 19, 20, 21, 22]
+    venueId: 'ven_493237696c47754961534252346a39784e3674577634624a496843'
 tags:
   - "ras al khaimah"
   - "street food"

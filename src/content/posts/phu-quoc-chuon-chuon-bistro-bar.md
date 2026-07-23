@@ -22,6 +22,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 10.209571799999999
   lng: 103.9666404
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7, 8, 9, 22]
+    weekdayBusy: [13, 14, 15, 16]
+    weekendQuiet: [7, 8, 21, 22]
+    weekendBusy: [13, 14, 15, 16, 17]
+    venueId: 'ven_3077325f79445534566c3752457a704d4f5739393359734a496843'
 tags:
   - "phu quoc"
   - "trendy cafe"

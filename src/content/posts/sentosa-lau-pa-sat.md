@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 1.2805121
   lng: 103.8503809
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7, 8, 9]
+    weekdayBusy: [11, 12, 13, 18, 19, 20, 21, 22]
+    weekendQuiet: [7, 8, 9, 10, 11]
+    weekendBusy: [18, 19, 20, 21, 22]
+    venueId: 'ven_307636546a49444b304c5952456a325a3051346c3659354a496843'
 tags:
   - "sentosa"
   - "street food"

@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 13.763558
   lng: 100.50033599999999
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7, 8, 9, 10]
+    weekdayBusy: [18, 19, 20, 21, 22]
+    weekendQuiet: [7, 8, 9, 10, 11, 12, 13, 14]
+    weekendBusy: [18, 19, 20, 21, 22]
+    venueId: 'ven_4d762d6a56525937326b4d52416a345a4351426b4359424a496843'
 tags:
   - "bangkok"
   - "local restaurant"

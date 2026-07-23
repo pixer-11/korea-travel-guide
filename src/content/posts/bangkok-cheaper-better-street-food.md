@@ -22,6 +22,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 13.725069999999999
   lng: 100.52293379999999
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [14, 15, 16, 17]
+    weekdayBusy: [19, 20, 21]
+    weekendQuiet: [12, 13, 14, 15, 16]
+    weekendBusy: [19, 20, 21, 22]
+    venueId: 'ven_5942413571635270474e7052416a345947396b436c574c4a496843'
 tags:
   - "bangkok"
   - "street food"

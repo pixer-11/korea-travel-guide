@@ -22,6 +22,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: -6.9205556999999995
   lng: 107.6006172
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [10]
+    weekendQuiet: [10, 11, 12, 13, 14, 15]
+    weekendBusy: [17, 18, 19, 20, 21, 22]
+    venueId: 'ven_675f48506d527a455a6577523443616d6a514a337454614a496843'
 tags:
   - "bandung"
   - "street food"

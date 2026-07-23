@@ -22,6 +22,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 12.2397861
   lng: 109.1904295
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [21, 22]
+    weekdayBusy: [19]
+    weekendQuiet: [11, 21, 22]
+    weekendBusy: [12, 13, 18, 19]
+    venueId: 'ven_7755456765354563586c53524544636e6c7a68583465334a496843'
 tags:
   - "nha trang"
   - "local restaurant"

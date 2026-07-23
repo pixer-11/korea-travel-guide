@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 41.0115195
   lng: 28.983378899999995
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [17]
+    weekdayBusy: [12, 13, 14, 15]
+    weekendQuiet: [17]
+    weekendBusy: [11, 12, 13, 14, 15, 16]
+    venueId: 'ven_5568715a4d3077424d464152516879356937726c695f4d4a496843'
 tags:
   - "istanbul"
   - "top attraction"

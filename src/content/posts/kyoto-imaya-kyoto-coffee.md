@@ -21,6 +21,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 35.0114868
   lng: 135.7558071
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [12, 13]
+    weekendQuiet: [12, 13]
+    weekendBusy: [8, 9, 10, 11]
+    venueId: 'ven_343362766642675562584352415741494549502d7256554a496843'
 tags:
   - "kyoto"
   - "trendy cafe"

@@ -22,6 +22,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 21.036113
   lng: 105.84857699999999
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7, 8, 21]
+    weekendQuiet: [7, 8, 21]
+    weekendBusy: [13, 14, 15, 16, 17, 18, 19]
+    venueId: 'ven_732d2d416a3951553539735245544e72533375335952744a496843'
 tags:
   - "hanoi"
   - "street food"

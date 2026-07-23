@@ -22,6 +22,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 15.878230700000001
   lng: 108.34513369999999
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [10, 11, 12, 13]
+    weekdayBusy: [18, 19, 20]
+    weekendQuiet: [10, 11, 12, 13]
+    weekendBusy: [16, 17, 18, 19, 20]
+    venueId: 'ven_554478334e54754256426652456a514e343842364266364a496843'
 tags:
   - "hoi an"
   - "local restaurant"

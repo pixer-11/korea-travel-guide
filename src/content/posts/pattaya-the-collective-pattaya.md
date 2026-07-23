@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 12.9477202
   lng: 100.8847605
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [12, 13, 14, 15]
+    weekdayBusy: [19, 20, 21]
+    weekendQuiet: [12, 13, 14]
+    weekendBusy: [18, 19, 20, 21, 22]
+    venueId: 'ven_49496a4b714e696e42546e52456a41394f5475696a65734a496843'
 tags:
   - "pattaya"
   - "local restaurant"

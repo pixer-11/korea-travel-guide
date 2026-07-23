@@ -21,6 +21,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 40.413781799999995
   lng: -3.6921270999999996
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [10, 20]
+    weekendQuiet: [10, 19, 20]
+    weekendBusy: [12, 13, 14, 15, 16, 17, 18]
+    venueId: 'ven_41426c7733336b74696f57523067516f30705a594c61374a496843'
 tags:
   - "madrid"
   - "Prado Museum"

@@ -20,6 +20,13 @@ place:
   businessStatus: OPERATIONAL
   lat: 35.155398999999996
   lng: 129.0673266
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7, 8]
+    weekdayBusy: [18, 19, 20, 21, 22]
+    weekendQuiet: [7, 8, 9]
+    weekendBusy: [17, 18, 19, 20, 21, 22]
+    venueId: 'ven_6f6f55325466415035552d52554461725447774b7565594a496843'
 tags:
   - busan
   - Jeonpo cafe street

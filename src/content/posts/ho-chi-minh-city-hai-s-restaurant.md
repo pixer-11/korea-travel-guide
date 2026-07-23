@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 10.772222399999999
   lng: 106.6947276
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [10, 11]
+    weekdayBusy: [18, 19, 20]
+    weekendQuiet: [10, 11, 22]
+    weekendBusy: [18, 19, 20, 21]
+    venueId: 'ven_5158682d5f6e45482d6e46524554647641674c4a4e39414a496843'
 tags:
   - "ho chi minh city"
   - "local restaurant"

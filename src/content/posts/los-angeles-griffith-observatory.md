@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 34.1184341
   lng: -118.30039350000001
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7, 8, 9, 10, 11, 22]
+    weekdayBusy: [13, 14, 15, 16, 17, 18, 19, 20]
+    weekendQuiet: [22]
+    weekendBusy: [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
+    venueId: 'ven_4d335f4845727757724e3352416f775f475736556a77794a496843'
 tags:
   - "los angeles"
   - "Griffith Observatory"

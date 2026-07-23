@@ -22,6 +22,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: -6.1966347
   lng: 106.8225149
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [11]
+    weekdayBusy: [18, 19, 20]
+    weekendQuiet: [11, 12, 13]
+    weekendBusy: [17, 18, 19, 20, 21, 22]
+    venueId: 'ven_556d4b67776439684f58705234536130486975444b57674a496843'
 tags:
   - "jakarta"
   - "local restaurant"

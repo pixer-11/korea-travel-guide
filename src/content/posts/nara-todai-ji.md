@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 34.6889851
   lng: 135.8398158
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7, 8, 9, 17]
+    weekdayBusy: [12, 13, 14]
+    weekendQuiet: [7, 8, 17]
+    weekendBusy: [11, 12, 13, 14, 15]
+    venueId: 'ven_67506b732d546e567a7a6a5241574135417065495958334a496843'
 tags:
   - "nara"
   - "Nara Park"

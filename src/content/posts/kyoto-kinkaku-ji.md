@@ -21,6 +21,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 35.03937
   lng: 135.7292431
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [9, 16, 17]
+    weekendQuiet: [9, 16, 17]
+    weekendBusy: [12, 13, 14]
+    venueId: 'ven_3441356e73434869513258524157416f434377726255764a496843'
 tags:
   - "kyoto"
   - "Kinkaku-ji Golden Pavilion"

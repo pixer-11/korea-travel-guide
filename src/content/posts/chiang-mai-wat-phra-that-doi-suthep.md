@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 18.804988899999998
   lng: 98.92163370000002
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7, 8, 19, 20, 21]
+    weekdayBusy: [11, 12, 13]
+    weekendQuiet: [7, 8, 19, 20, 21]
+    weekendBusy: [10, 11, 12, 13, 14, 15, 16, 17]
+    venueId: 'ven_3070684d786c724637584952416a3235553733783364744a496843'
 tags:
   - "chiang mai"
   - "Doi Suthep Temple"

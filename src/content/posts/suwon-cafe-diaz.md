@@ -22,6 +22,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 37.2642059
   lng: 127.034352
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [10, 11, 12, 13, 14, 15, 22]
+    weekdayBusy: [20]
+    weekendQuiet: [10, 11, 22]
+    weekendBusy: [17, 18, 19, 20, 21]
+    venueId: 'ven_3478354c7a7a6e5975434552557a6544685335654559784a496843'
 tags:
   - "suwon"
   - "trendy cafe"

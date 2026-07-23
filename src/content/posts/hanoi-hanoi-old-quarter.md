@@ -21,6 +21,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 21.034059
   lng: 105.8506368
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7]
+    weekendQuiet: [7]
+    weekendBusy: [17, 18, 19, 20, 21, 22]
+    venueId: 'ven_6b315558495f6669546c6a5245544e72367245346f30704a496843'
 tags:
   - "hanoi"
   - "top attraction"

@@ -22,6 +22,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 35.120168899999996
   lng: 136.9068979
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [14]
+    weekdayBusy: [11, 12, 13, 16, 17, 18, 19, 20]
+    weekendQuiet: [14]
+    weekendBusy: [11, 12, 13, 16, 17, 18, 19, 20]
+    venueId: 'ven_383932483463777843703152413241363952575249524a4a496843'
 tags:
   - "nagoya"
   - "local restaurant"

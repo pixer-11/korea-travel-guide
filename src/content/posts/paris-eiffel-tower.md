@@ -21,6 +21,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 48.858370099999995
   lng: 2.2944812999999997
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [9, 10]
+    weekendQuiet: [9, 10]
+    weekendBusy: [14, 15, 16, 17, 18, 19, 20, 21, 22]
+    venueId: 'ven_30493370364f4f4f63503452636b35756c435a6a37554c4a496843'
 tags:
   - "paris"
   - "Eiffel Tower"

@@ -22,6 +22,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 25.1463942
   lng: 56.3557086
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [9, 10]
+    weekdayBusy: [18, 19]
+    weekendQuiet: [9, 10, 11]
+    weekendBusy: [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+    venueId: 'ven_4974314d645172756f5f3952344439356632644349342d4a496843'
 tags:
   - "fujairah"
   - "local restaurant"

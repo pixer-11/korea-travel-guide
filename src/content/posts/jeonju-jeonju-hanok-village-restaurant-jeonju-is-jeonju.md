@@ -21,6 +21,11 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 35.8142669
   lng: 127.15126749999999
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [11, 12, 22]
+    weekendBusy: [12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
+    venueId: 'ven_4938715156427674565854525544636c554171515978534a496843'
 tags:
   - "jeonju"
   - "street food"

@@ -22,6 +22,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 7.885960900000001
   lng: 98.39106079999999
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [11, 12, 13, 15, 16]
+    weekdayBusy: [20, 21, 22]
+    weekendQuiet: [11, 12, 13]
+    weekendBusy: [18, 19, 20, 21, 22]
+    venueId: 'ven_774468694d6b49544357785241445578415650384d55544a496843'
 tags:
   - "phuket"
   - "local restaurant"

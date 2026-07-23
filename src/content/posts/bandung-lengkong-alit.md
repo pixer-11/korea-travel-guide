@@ -21,6 +21,11 @@ place:
   businessStatus: "OPERATIONAL"
   lat: -6.923756999999999
   lng: 107.61545149999999
+  busyness:
+    updated: '2026-07-23'
+    weekendQuiet: [13, 14, 15, 16]
+    weekendBusy: [11, 12, 20, 22]
+    venueId: 'ven_4536435652686a70757264523443616e506b44566254734a496843'
 tags:
   - "bandung"
   - "hidden gem"

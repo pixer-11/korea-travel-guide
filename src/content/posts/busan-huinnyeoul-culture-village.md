@@ -20,6 +20,13 @@ place:
   businessStatus: OPERATIONAL
   lat: 35.0782798
   lng: 129.0453198
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7]
+    weekdayBusy: [13, 14, 15, 16]
+    weekendQuiet: [7]
+    weekendBusy: [10, 11, 12, 13, 14, 15, 16, 17, 18]
+    venueId: 'ven_416a6f5654676c695967695255446170376866734765734a496843'
 tags:
   - busan
   - Huinnyeoul village

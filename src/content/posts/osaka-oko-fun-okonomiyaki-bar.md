@@ -22,6 +22,11 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 34.6687807
   lng: 135.49815479999998
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [18, 22]
+    weekendBusy: [19, 20, 21]
+    venueId: 'ven_67765371567043536f5177524147416e3375726836574a4a496843'
 tags:
   - "osaka"
   - "local restaurant"

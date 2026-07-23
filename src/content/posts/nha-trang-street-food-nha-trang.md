@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 12.2146233
   lng: 109.1955536
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [9, 15, 21, 22]
+    weekdayBusy: [11, 12, 13]
+    weekendQuiet: [9, 15, 16, 20, 21, 22]
+    weekendBusy: [11, 12, 13]
+    venueId: 'ven_6b5630444a4d6a452d5068524544636e684777527763744a496843'
 tags:
   - "nha trang"
   - "street food"

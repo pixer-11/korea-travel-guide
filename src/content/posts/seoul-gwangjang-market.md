@@ -19,6 +19,13 @@ place:
   businessStatus: OPERATIONAL
   lat: 37.5701
   lng: 126.9997
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [9, 19, 20, 21, 22]
+    weekdayBusy: [11, 12, 13, 14, 15]
+    weekendQuiet: [9, 10, 19, 20, 21, 22]
+    weekendBusy: [11, 12, 13, 14, 15, 16, 17]
+    venueId: 'ven_5974566a69554d49384a5252554466693275663056336d4a496843'
 tags:
   - seoul
   - street food

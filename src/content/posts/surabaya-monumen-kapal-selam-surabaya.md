@@ -21,6 +21,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: -7.265591000000001
   lng: 112.7503272
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [8, 9, 10, 21]
+    weekendQuiet: [8, 9, 21]
+    weekendBusy: [15, 16, 17, 18, 19, 20]
+    venueId: 'ven_634664444a584132735f4352307931354c576a314453354a496843'
 tags:
   - "surabaya"
   - "hidden gem"

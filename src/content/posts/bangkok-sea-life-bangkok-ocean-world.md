@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 13.7459351
   lng: 100.53520569999999
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [10, 11, 12, 20]
+    weekdayBusy: [18]
+    weekendQuiet: [10, 11, 20]
+    weekendBusy: [14, 15, 16, 17, 18, 19]
+    venueId: 'ven_306442667169654c594d5552416a3465326335384934484a496843'
 tags:
   - "bangkok"
   - "top attraction"

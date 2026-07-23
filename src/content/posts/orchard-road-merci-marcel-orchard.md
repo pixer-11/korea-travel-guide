@@ -22,6 +22,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 1.3065784
   lng: 103.8296124
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [8, 21, 22]
+    weekdayBusy: [11, 12]
+    weekendQuiet: [8, 9, 17, 18, 19, 20, 21, 22]
+    weekendBusy: [10, 11, 12, 13, 14, 15, 16, 17]
+    venueId: 'ven_30775f753250563449446552456a325a51565a6e7054754a496843'
 tags:
   - "orchard road"
   - "local restaurant"

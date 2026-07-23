@@ -21,6 +21,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 37.582530299999995
   lng: 126.9836464
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [10, 16, 17]
+    weekendQuiet: [10, 17]
+    weekendBusy: [13, 14, 15]
+    venueId: 'ven_637a4a706741554e467936525544666a71746c343857704a496843'
 tags:
   - "seoul"
   - "Bukchon hanoks"

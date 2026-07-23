@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 34.395483
   lng: 132.453592
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7, 21, 22]
+    weekdayBusy: [10, 11, 12, 13, 14, 15, 16, 17]
+    weekendQuiet: [7, 22]
+    weekendBusy: [9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
+    venueId: 'ven_516a356e7048344744736c52556a57697977326e4159714a496843'
 tags:
   - "hiroshima"
   - "hidden gem"

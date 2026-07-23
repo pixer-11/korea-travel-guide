@@ -21,6 +21,11 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 24.2167726
   lng: 55.7668289
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [8]
+    weekendBusy: [16, 17, 18, 19, 20, 21, 22]
+    venueId: 'ven_595371546750375756445352346a693379425f6437554c4a496843'
 tags:
   - "al ain"
   - "trendy cafe"

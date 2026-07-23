@@ -21,6 +21,11 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 1.30137
   lng: 103.8598031
+  busyness:
+    updated: '2026-07-23'
+    weekendQuiet: [11, 12, 13, 14, 15, 20, 21, 22]
+    weekendBusy: [8, 9, 13, 14]
+    venueId: 'ven_7367307442304632724a7752456a325a385752763565424a496843'
 tags:
   - "kampong glam"
   - "hidden gem"

@@ -22,6 +22,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 16.048087199999998
   lng: 108.24602329999999
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7, 8]
+    weekdayBusy: [18, 19, 20, 21]
+    weekendQuiet: [7, 8, 9]
+    weekendBusy: [19, 20, 21, 22]
+    venueId: 'ven_454662665078663265793752456a51584d72376d7478374a496843'
 tags:
   - "da nang"
   - "trendy cafe"

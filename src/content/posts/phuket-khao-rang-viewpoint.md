@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 7.892360199999999
   lng: 98.38006279999999
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7, 8]
+    weekdayBusy: [13, 14, 15, 16, 17, 18, 19, 20, 21]
+    weekendQuiet: [7, 8]
+    weekendBusy: [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
+    venueId: 'ven_636c74384a4347626368375241445578734f47555436334a496843'
 tags:
   - "phuket"
   - "top attraction"

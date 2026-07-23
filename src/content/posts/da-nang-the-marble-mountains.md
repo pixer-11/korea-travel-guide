@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 16.0037104
   lng: 108.2631605
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7, 8, 17]
+    weekdayBusy: [11, 12, 13, 14]
+    weekendQuiet: [7, 8, 17]
+    weekendBusy: [11, 12, 13, 14, 15]
+    venueId: 'ven_777262663836634c53657852456a514e5164344c3579324a496843'
 tags:
   - "da nang"
   - "top attraction"

@@ -22,6 +22,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 12.2328272
   lng: 109.1943554
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7, 8, 9, 22]
+    weekendQuiet: [7, 8, 22]
+    weekendBusy: [11, 12, 13, 14, 15, 16, 17, 18, 19, 21]
+    venueId: 'ven_304a6b4e676f494a505854524544636e3548732d59796f4a496843'
 tags:
   - "nha trang"
   - "trendy cafe"

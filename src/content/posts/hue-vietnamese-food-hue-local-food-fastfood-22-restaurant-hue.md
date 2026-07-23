@@ -22,6 +22,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 16.467523000000003
   lng: 107.58255709999999
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [9, 19]
+    weekendQuiet: [9, 10, 18, 19]
+    weekendBusy: [13, 14]
+    venueId: 'ven_495f6e6175337776366b395245545168792d30324b624b4a496843'
 tags:
   - "hue"
   - "street food"

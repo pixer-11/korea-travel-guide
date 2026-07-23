@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 43.057817899999996
   lng: 141.357399
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [15, 16, 17, 18]
+    weekdayBusy: [10, 11, 12, 13]
+    weekendQuiet: [15, 16, 17, 18]
+    weekendBusy: [9, 10, 11, 12, 13, 14]
+    venueId: 'ven_6b536b66416255476d55685238314370416e5a6448654d4a496843'
 tags:
   - "sapporo"
   - "trendy cafe"

@@ -22,6 +22,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: -8.891216800000002
   lng: 116.27688180000001
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7, 8]
+    weekdayBusy: [19, 20, 21]
+    weekendQuiet: [7, 8, 22]
+    weekendBusy: [18, 19, 20, 21]
+    venueId: 'ven_676a644173526e35514d595230537a6f7543577749556a4a496843'
 tags:
   - "lombok"
   - "trendy cafe"

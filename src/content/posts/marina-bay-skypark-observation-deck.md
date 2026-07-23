@@ -21,6 +21,11 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 1.2852044
   lng: 103.8610313
+  busyness:
+    updated: '2026-07-23'
+    weekdayBusy: [18, 19, 20]
+    weekendBusy: [17, 18, 19, 20, 21]
+    venueId: 'ven_67774b433630613942304d52497765763253396645654f4a496843'
 tags:
   - "marina bay"
   - "top attraction"

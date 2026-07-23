@@ -21,6 +21,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 43.088875099999996
   lng: 141.2717042
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [10, 17, 18]
+    weekendQuiet: [17, 18]
+    weekendBusy: [13, 14, 15]
+    venueId: 'ven_49734838674c314b45516b523831436f49425a487638554a496843'
 tags:
   - "sapporo"
   - "hidden gem"

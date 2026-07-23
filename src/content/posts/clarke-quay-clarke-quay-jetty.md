@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 1.2899373
   lng: 103.84622879999999
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [13, 14]
+    weekdayBusy: [21]
+    weekendQuiet: [10, 11, 12, 22]
+    weekendBusy: [13, 15, 16, 17, 18, 19, 20, 21]
+    venueId: 'ven_45614265782d384b5a577352456a325a413645576464344a496843'
 tags:
   - "clarke quay"
   - "hidden gem"

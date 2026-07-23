@@ -21,6 +21,11 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 25.744386600000002
   lng: -80.21047469999999
+  busyness:
+    updated: '2026-07-23'
+    weekdayBusy: [11, 12, 13, 14]
+    weekendBusy: [11, 12, 13, 14, 15, 16]
+    venueId: 'ven_67505974536f44645453345267593232323154716a35454a496843'
 tags:
   - "miami"
   - "top attraction"

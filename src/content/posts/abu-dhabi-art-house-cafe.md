@@ -22,6 +22,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 24.4605119
   lng: 54.348698999999996
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [9, 10]
+    weekendQuiet: [9, 10]
+    weekendBusy: [17, 18, 19, 20]
+    venueId: 'ven_414d6b7266494c6b42523152346a586d6477707552555f4a496843'
 tags:
   - "abu dhabi"
   - "trendy cafe"

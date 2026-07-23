@@ -20,6 +20,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 37.559702699999995
   lng: 126.9231548
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [22]
+    weekdayBusy: [13, 14, 15, 16, 17, 18, 19, 20]
+    weekendQuiet: [22]
+    weekendBusy: [13, 14, 15, 16, 17, 18, 19, 20]
+    venueId: 'ven_736c527330507232675a6c525544665a6d6847663259334a496843'
 tags:
   - "seoul"
   - "vegan Yeonnam-dong"

@@ -22,6 +22,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 24.2354496
   lng: 55.722974099999995
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [9, 10, 11, 20]
+    weekdayBusy: [18]
+    weekendQuiet: [9, 10, 11, 22]
+    weekendBusy: [14, 15, 17, 18, 19, 20, 21]
+    venueId: 'ven_454f4673704b4439704b7952346a697a656433753055684a496843'
 tags:
   - "al ain"
   - "local restaurant"

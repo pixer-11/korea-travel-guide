@@ -22,6 +22,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 14.324827500000001
   lng: 100.575535
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [9, 10, 21]
+    weekendQuiet: [9, 21]
+    weekendBusy: [11, 12, 13, 14, 15, 16, 17, 18]
+    venueId: 'ven_63644752784e4c7755693052416a343235484b367a65744a496843'
 tags:
   - "ayutthaya"
   - "trendy cafe"

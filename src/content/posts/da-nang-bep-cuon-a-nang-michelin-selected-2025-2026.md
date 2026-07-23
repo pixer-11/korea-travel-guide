@@ -22,6 +22,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 16.0579628
   lng: 108.2451505
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [10, 11, 15, 21]
+    weekdayBusy: [18, 19]
+    weekendQuiet: [10, 21]
+    weekendBusy: [13, 18, 19]
+    venueId: 'ven_774e4663764e704854544a52456a5158515f596e67552d4a496843'
 tags:
   - "da nang"
   - "local restaurant"

@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 25.7705762
   lng: 55.939054299999995
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [9, 10]
+    weekdayBusy: [20, 21]
+    weekendQuiet: [9, 10]
+    weekendBusy: [18, 19, 20, 21, 22]
+    venueId: 'ven_5941487632336567544c5052346a397868705a665253434a496843'
 tags:
   - "ras al khaimah"
   - "local restaurant"

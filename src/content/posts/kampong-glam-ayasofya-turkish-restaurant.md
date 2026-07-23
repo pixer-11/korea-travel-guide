@@ -22,6 +22,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 1.3018398
   lng: 103.8593332
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [11, 12, 13, 14, 15, 16]
+    weekdayBusy: [19, 20]
+    weekendQuiet: [11]
+    weekendBusy: [17, 18, 19, 20, 21]
+    venueId: 'ven_51757a52594e726f61744852456a325a387963316d374c4a496843'
 tags:
   - "kampong glam"
   - "local restaurant"

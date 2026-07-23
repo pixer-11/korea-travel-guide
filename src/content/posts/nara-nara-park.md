@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 34.685047
   lng: 135.843012
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7, 20, 21, 22]
+    weekdayBusy: [10, 11, 12, 13, 14, 15, 16]
+    weekendQuiet: [7, 20, 21, 22]
+    weekendBusy: [9, 10, 11, 12, 13, 14, 15, 16, 17]
+    venueId: 'ven_6b5062734f5f5645526e565241574135595a764d4357594a496843'
 tags:
   - "nara"
   - "top attraction"

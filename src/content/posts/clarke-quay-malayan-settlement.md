@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 1.2905187999999999
   lng: 103.84535969999999
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [11, 12, 14, 15, 16]
+    weekdayBusy: [19, 20]
+    weekendQuiet: [22]
+    weekendBusy: [13, 14, 15, 16, 17, 18, 19, 20, 21]
+    venueId: 'ven_416c5a69486d6d4b48454a52456a325a555046584935634a496843'
 tags:
   - "clarke quay"
   - "local restaurant"

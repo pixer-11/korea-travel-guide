@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 19.8232669
   lng: 99.7627085
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [8, 17]
+    weekdayBusy: [11, 12]
+    weekendQuiet: [8, 17]
+    weekendBusy: [11, 12, 13]
+    venueId: 'ven_6f435f5633676a7365376f52417a31332d747a5a5235444a496843'
 tags:
   - "chiang rai"
   - "Wat Rong Khun White Temple"

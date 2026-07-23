@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: -7.2680065
   lng: 112.74113109999999
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [11, 12, 13, 14, 15]
+    weekdayBusy: [21, 22]
+    weekendQuiet: [11, 12, 13, 14, 15]
+    weekendBusy: [20, 21, 22]
+    venueId: 'ven_3864494c7130386174334d52307931374c6f54455f51634a496843'
 tags:
   - "surabaya"
   - "local restaurant"

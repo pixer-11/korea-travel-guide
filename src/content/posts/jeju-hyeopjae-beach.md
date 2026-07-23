@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 33.3942945
   lng: 126.2398813
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7, 8, 22]
+    weekdayBusy: [11, 12, 13, 14, 15, 16, 17]
+    weekendQuiet: [7]
+    weekendBusy: [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+    venueId: 'ven_776d344f7a79526953494152554444684277777a4262384a496843'
 tags:
   - "jeju"
   - "top attraction"

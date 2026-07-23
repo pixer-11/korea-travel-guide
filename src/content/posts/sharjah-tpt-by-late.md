@@ -22,6 +22,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 25.3180212
   lng: 55.4780071
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [8, 9, 10, 11]
+    weekdayBusy: [20, 21, 22]
+    weekendQuiet: [8, 9, 10]
+    weekendBusy: [18, 19, 20, 21, 22]
+    venueId: 'ven_415a6f6b765a414c6c506d52347a586646746b696b38574a496843'
 tags:
   - "sharjah"
   - "trendy cafe"

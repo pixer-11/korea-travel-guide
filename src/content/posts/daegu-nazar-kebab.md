@@ -22,6 +22,10 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 35.867793000000006
   lng: 128.5990682
+  busyness:
+    updated: '2026-07-23'
+    weekendBusy: [19, 20, 21, 22]
+    venueId: 'ven_5978305336734151414b415255545a6a58736f496653664a496843'
 tags:
   - "daegu"
   - "street food"

@@ -20,6 +20,12 @@ place:
   businessStatus: OPERATIONAL
   lat: 35.8533069
   lng: 128.5665668
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [11, 12, 19, 20]
+    weekendQuiet: [21]
+    weekendBusy: [12, 13, 14, 15, 16, 17, 18, 19, 20]
+    venueId: 'ven_38776b32373844656e586d5255545a6b443456426459324a496843'
 tags:
   - daegu
   - hidden gem

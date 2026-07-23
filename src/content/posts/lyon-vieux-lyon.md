@@ -18,6 +18,12 @@ place:
   googleMapsUrl: "https://maps.google.com/?cid=3286723342772937766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
   lat: 45.7629811
   lng: 4.8280199
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [11, 12, 13, 14]
+    weekendQuiet: [11, 22]
+    weekendBusy: [13, 14, 15, 16, 17, 18, 19, 20, 21]
+    venueId: 'ven_45554d674231684251427452634539727271354b6766444a496843'
 tags:
   - "lyon"
   - "Vieux Lyon Old Town"

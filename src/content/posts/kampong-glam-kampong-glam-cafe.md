@@ -22,6 +22,11 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 1.3012492999999998
   lng: 103.8599309
+  busyness:
+    updated: '2026-07-23'
+    weekdayBusy: [19, 20, 21, 22]
+    weekendBusy: [18, 19, 20, 21, 22]
+    venueId: 'ven_41464c4455736b6871573452456a325a454c45544d776e4a496843'
 tags:
   - "kampong glam"
   - "trendy cafe"

@@ -21,6 +21,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 1.2549696
   lng: 103.8173674
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [10, 18, 19, 20, 21]
+    weekendQuiet: [20, 21]
+    weekendBusy: [12, 13, 14, 15, 16, 17, 18]
+    venueId: 'ven_456749356f7a527533743352456a3262346636724831734a496843'
 tags:
   - "sentosa"
   - "top attraction"

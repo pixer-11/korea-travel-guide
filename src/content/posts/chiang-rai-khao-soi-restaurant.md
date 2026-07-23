@@ -22,6 +22,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 19.905168700000004
   lng: 99.8347818
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [22]
+    weekdayBusy: [12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
+    weekendQuiet: [17, 22]
+    weekendBusy: [14, 15, 16, 17, 18, 19]
+    venueId: 'ven_4d6d51394349523054766752417a31473056666f7036564a496843'
 tags:
   - "chiang rai"
   - "street food"

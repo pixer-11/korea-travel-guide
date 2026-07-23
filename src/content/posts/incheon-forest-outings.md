@@ -22,6 +22,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 37.420087699999996
   lng: 126.65237280000001
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [10, 11, 21, 22]
+    weekendQuiet: [10, 22]
+    weekendBusy: [12, 13, 14, 15, 16, 17, 18, 19, 20]
+    venueId: 'ven_4d2d436f582d4e3956736f52557a6535356c6a7a7465794a496843'
 tags:
   - "incheon"
   - "trendy cafe"

@@ -21,6 +21,11 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 43.054621999999995
   lng: 141.354535
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [22]
+    weekendQuiet: [12, 14, 16, 17, 18, 21, 22]
+    venueId: 'ven_677a7a5636524148685a625238314370307765456d55354a496843'
 tags:
   - "sapporo"
   - "local restaurant"

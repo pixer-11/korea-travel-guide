@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 34.9676945
   lng: 135.7791876
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7, 20, 21, 22]
+    weekdayBusy: [9, 10, 11, 12, 13, 14, 15, 16]
+    weekendQuiet: [20, 21, 22]
+    weekendBusy: [9, 10, 11, 12, 13, 14, 15, 16, 17]
+    venueId: 'ven_736e474b7a5264364965365241574150555250753057494a496843'
 tags:
   - "kyoto"
   - "Fushimi Inari Shrine"

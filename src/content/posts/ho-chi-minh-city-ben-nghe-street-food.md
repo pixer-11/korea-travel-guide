@@ -22,6 +22,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 10.7773167
   lng: 106.6977562
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [9, 10, 11]
+    weekdayBusy: [18, 19, 20, 21]
+    weekendQuiet: [9, 10, 11]
+    weekendBusy: [18, 19, 20, 21, 22]
+    venueId: 'ven_6f70627a717774593135455245546476676a31523379534a496843'
 tags:
   - "ho chi minh city"
   - "street food"

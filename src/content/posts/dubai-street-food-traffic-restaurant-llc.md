@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 25.0290958
   lng: 55.179215600000006
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [11, 12, 13, 14, 15]
+    weekdayBusy: [19, 20]
+    weekendQuiet: [11]
+    weekendBusy: [17, 18, 19, 20, 21, 22]
+    venueId: 'ven_7331455f796932516f694952347a5874357258755731334a496843'
 tags:
   - "dubai"
   - "street food"

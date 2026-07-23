@@ -21,6 +21,11 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 7.8224830999999995
   lng: 98.30285479999999
+  busyness:
+    updated: '2026-07-23'
+    weekdayBusy: [19, 20, 21]
+    weekendBusy: [11, 12, 18, 19, 20, 21]
+    venueId: 'ven_4159643432363835736d63524144556c304558504e78544a496843'
 tags:
   - "phuket"
   - "street food"

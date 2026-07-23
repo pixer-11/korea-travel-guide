@@ -22,6 +22,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 34.9893363
   lng: 135.7606275
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [10, 22]
+    weekdayBusy: [18, 19, 20]
+    weekendQuiet: [10, 22]
+    weekendBusy: [18, 19, 20]
+    venueId: 'ven_67556c633659496576753252415741493871384a452d384a496843'
 tags:
   - "kyoto"
   - "local restaurant"

@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: -8.3726635
   lng: 115.1932669
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [18, 19, 20]
+    weekdayBusy: [12, 13]
+    weekendQuiet: [18, 19, 20]
+    weekendBusy: [12, 13, 14, 15]
+    venueId: 'ven_73363044664c7932663037523069306873796f714177684a496843'
 tags:
   - "bali"
   - "hidden gem"

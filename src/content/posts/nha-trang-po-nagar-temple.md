@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 12.265366499999999
   lng: 109.1953678
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7]
+    weekdayBusy: [10]
+    weekendQuiet: [7]
+    weekendBusy: [9, 10, 11]
+    venueId: 'ven_45785876645a3876324266524544636e785959344b66554a496843'
 tags:
   - "nha trang"
   - "top attraction"

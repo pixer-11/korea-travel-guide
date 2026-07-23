@@ -21,6 +21,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 24.2183697
   lng: 55.762345499999995
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [9, 10]
+    weekendQuiet: [9]
+    weekendBusy: [14, 15, 16, 17, 18, 19, 20, 21, 22]
+    venueId: 'ven_5947787a377268346f684852346a6932794d58474458714a496843'
 tags:
   - "al ain"
   - "top attraction"

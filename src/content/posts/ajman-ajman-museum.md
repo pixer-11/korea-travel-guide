@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 25.413457299999997
   lng: 55.4456037
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [8, 9, 10, 11, 12, 20]
+    weekdayBusy: [17, 18, 19]
+    weekendQuiet: [8, 9, 10, 11, 20]
+    weekendBusy: [16, 17, 18, 19]
+    venueId: 'ven_596c4b574536374532396352347a5858685879685354504a496843'
 tags:
   - "ajman"
   - "top attraction"

@@ -22,6 +22,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 16.4700017
   lng: 107.59678579999999
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [8, 9, 10]
+    weekdayBusy: [18, 19, 20]
+    weekendQuiet: [8, 9, 10, 15]
+    weekendBusy: [18, 19, 20, 21]
+    venueId: 'ven_3044384c774846544749565245545168474f4c524d635a4a496843'
 tags:
   - "hue"
   - "local restaurant"

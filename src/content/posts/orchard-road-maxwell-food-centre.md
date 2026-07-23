@@ -22,6 +22,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 1.2803361
   lng: 103.844767
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [8, 9, 21, 22]
+    weekdayBusy: [11, 12, 13]
+    weekendQuiet: [8, 9, 21, 22]
+    weekendBusy: [11, 12, 13, 14]
+    venueId: 'ven_3438665a3046575442707152456a325a305154735165734a496843'
 tags:
   - "orchard road"
   - "street food"

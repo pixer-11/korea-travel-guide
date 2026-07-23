@@ -22,6 +22,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: -8.4919536
   lng: 119.87844249999999
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [10, 11, 12, 22]
+    weekdayBusy: [18, 19, 20]
+    weekendQuiet: [10, 11, 12, 13, 22]
+    weekendBusy: [18, 19, 20]
+    venueId: 'ven_6f44747446474975656a74523043746e313669454e31664a496843'
 tags:
   - "labuan bajo"
   - "street food"

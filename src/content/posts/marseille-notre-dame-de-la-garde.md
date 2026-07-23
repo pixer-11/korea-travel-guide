@@ -21,6 +21,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 43.2839533
   lng: 5.3712377
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7, 8, 9, 18]
+    weekendQuiet: [7, 8, 18]
+    weekendBusy: [10, 11, 12, 13, 14, 15, 16]
+    venueId: 'ven_6b594a50565a747533533752495279416e736434325a394a496843'
 tags:
   - "marseille"
   - "Notre-Dame de la Garde"

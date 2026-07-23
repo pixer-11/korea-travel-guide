@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 35.0168187
   lng: 135.67130129999998
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [19, 20, 21, 22]
+    weekdayBusy: [9, 10, 11, 12, 13, 14, 15]
+    weekendQuiet: [19, 20, 21, 22]
+    weekendBusy: [9, 10, 11, 12, 13, 14, 15, 16]
+    venueId: 'ven_735f6e38765876577a58335241574172752d76637459724a496843'
 tags:
   - "kyoto"
   - "Arashiyama Bamboo Grove"

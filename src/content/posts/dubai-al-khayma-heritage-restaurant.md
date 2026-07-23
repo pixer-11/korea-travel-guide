@@ -22,6 +22,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 25.2637706
   lng: 55.3007685
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [8, 9, 10, 11]
+    weekdayBusy: [20, 21]
+    weekendQuiet: [8, 9, 10]
+    weekendBusy: [13, 14, 15, 16, 19, 20, 21, 22]
+    venueId: 'ven_596474744131574756756952347a58444a336a6c57366c4a496843'
 tags:
   - "dubai"
   - "local restaurant"

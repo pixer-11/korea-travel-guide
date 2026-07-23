@@ -21,6 +21,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 26.3755374
   lng: 127.8065709
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [9, 21]
+    weekendQuiet: [7, 8, 9, 21]
+    weekendBusy: [11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+    venueId: 'ven_637071646d716e486e7a435251543552673932536932314a496843'
 tags:
   - "okinawa"
   - "top attraction"

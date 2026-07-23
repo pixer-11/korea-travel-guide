@@ -22,6 +22,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 34.6740723
   lng: 135.49803359999999
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [18, 19, 20, 22]
+    weekdayBusy: [14]
+    weekendBusy: [12, 13, 14, 15, 16]
+    venueId: 'ven_492d466161517747517468524147416e72786e753954314a496843'
 tags:
   - "osaka"
   - "trendy cafe"

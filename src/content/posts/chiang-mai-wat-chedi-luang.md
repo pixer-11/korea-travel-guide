@@ -21,6 +21,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 18.7869693
   lng: 98.9865804
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7, 8]
+    weekendQuiet: [7, 8]
+    weekendBusy: [17, 18, 19, 20, 21, 22]
+    venueId: 'ven_77313977704a424c68717552416a32366b354d525152464a496843'
 tags:
   - "chiang mai"
   - "Chiang Mai Old City Temples"

@@ -21,6 +21,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 33.5213697
   lng: 130.5348239
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [7, 8, 17, 18, 19]
+    weekdayBusy: [11, 12, 13, 14]
+    weekendQuiet: [7, 8, 17, 18, 19]
+    weekendBusy: [10, 11, 12, 13, 14, 15, 16]
+    venueId: 'ven_674c4a527636706635366c52555451622d704b7276667a4a496843'
 tags:
   - "fukuoka"
   - "hidden gem"

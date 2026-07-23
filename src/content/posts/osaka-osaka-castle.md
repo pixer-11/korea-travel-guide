@@ -21,6 +21,12 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 34.6872571
   lng: 135.5258546
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [9, 17, 18]
+    weekendQuiet: [17, 18]
+    weekendBusy: [10, 11, 12, 13, 14, 15]
+    venueId: 'ven_38514151334858683652515241474167334d586f6f545f4a496843'
 tags:
   - "osaka"
   - "Osaka Castle"

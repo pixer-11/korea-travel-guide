@@ -22,6 +22,13 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 19.921706699999998
   lng: 99.8450744
+  busyness:
+    updated: '2026-07-23'
+    weekdayQuiet: [9, 10, 21, 22]
+    weekdayBusy: [12, 13, 14]
+    weekendQuiet: [9, 10, 20, 21, 22]
+    weekendBusy: [12, 13, 14, 15, 16, 17]
+    venueId: 'ven_30545f365f66564a4e337352417a314741666b704d57654a496843'
 tags:
   - "chiang rai"
   - "local restaurant"
