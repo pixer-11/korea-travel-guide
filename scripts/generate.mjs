@@ -248,11 +248,17 @@ async function loadUsedPlaceIds() {
 // (The first `  url:` in a post's frontmatter is always the heroImage url —
 // gallery items are indented under `  - url:` and don't match this pattern.)
 async function loadUsedImageUrls() {
+  const { unsplashNum } = await import('./lib/images.mjs');
   const urls = new Set();
   for (const f of await readdir(POSTS_DIR)) {
     if (!f.endsWith('.md')) continue;
     const m = (await readFile(join(POSTS_DIR, f), 'utf8')).match(/\n {2}url:\s*"?([^"\n]+?)"?\s*$/m);
-    if (m) urls.add(m[1].trim());
+    if (m) {
+      const u = m[1].trim();
+      urls.add(u);
+      const n = unsplashNum(u); // also key on photo-id so ?param variants can't dupe
+      if (n) urls.add(n);
+    }
   }
   return urls;
 }

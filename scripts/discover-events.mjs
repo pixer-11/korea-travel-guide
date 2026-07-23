@@ -21,7 +21,7 @@ import Anthropic from '@anthropic-ai/sdk';
 import yaml from 'js-yaml';
 import { slugify } from './lib/slugify.mjs';
 import { writeArticle } from './lib/writer.mjs';
-import { resolveHero } from './lib/images.mjs';
+import { resolveHero, loadUsedImageUrls } from './lib/images.mjs';
 import { isImageAllowed } from './lib/guardrails.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -108,7 +108,17 @@ async function writeDiscovered(item, ctx) {
   const { body, quickAnswer, faq } = await writeArticle({ title, region: item.city, country, category: cat, facts });
   if (!body || body.length < 300) return false;
 
-  const hero = await resolveHero({ namedVenue: item.name, region: item.city, topic: item.name, country });
+  // Events → city/place imagery, NOT the event name (a concert query returns a
+  // photo of the performer, which is wrong for a destination tile). Hotspots keep
+  // the venue name. Pass `used` so no two posts share a photo (id-level de-dupe).
+  const isEvent = cat === 'event';
+  const hero = await resolveHero({
+    namedVenue: isEvent ? null : item.name,
+    region: item.city,
+    topic: isEvent ? null : item.name,
+    country,
+    used: ctx.usedImages,
+  });
   const heroImage = isImageAllowed(hero)
     ? { url: hero.url, credit: hero.credit, license: hero.license, source: hero.source } : undefined;
 
@@ -140,12 +150,14 @@ async function main() {
   const active = countries.filter((c) => c.active && (!only || c.name === only));
   const done = await loadDone();
   const existing = new Set((await readdir(POSTS_DIR)).map((f) => f.replace(/\.md$/, '')));
+  // Site-wide set of hero images already in use (URL + photo-id) → no dupes.
+  const usedImages = await loadUsedImageUrls(POSTS_DIR);
 
   console.log(`\n📡  Discovering events + hotspots — ${active.map((c) => c.name).join(', ')}\n`);
   let total = 0;
 
   for (const c of active) {
-    const ctx = { country: c.name, existing, done };
+    const ctx = { country: c.name, existing, done, usedImages };
     let ev = 0, hs = 0;
     for (const item of await discoverEvents(c.name)) {
       if (ev >= EVENTS_PER_COUNTRY) break;

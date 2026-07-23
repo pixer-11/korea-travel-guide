@@ -3,7 +3,7 @@
 //   2. An Unsplash photo matching the query (openly licensed)
 //   3. Our own placeholder SVG (always safe)
 // Every returned image carries a license tag that guardrails will re-check.
-import { writeFile, mkdir } from 'node:fs/promises';
+import { writeFile, mkdir, readdir, readFile } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import { createHash } from 'node:crypto';
 import { dirname, join } from 'node:path';
@@ -161,6 +161,24 @@ export async function resolveHero({ namedVenue, region, topic, place, country = 
 export function unsplashNum(url) {
   const m = String(url || '').match(/photo-(\d+)/);
   return m ? `unum:${m[1]}` : null;
+}
+
+// Build a `used` Set from every post's current hero URL — both the full URL and
+// its photo-id token — so resolveHero never hands a duplicate to a new post.
+// Shared by the daily generator AND discover-events (the latter used to skip it,
+// which is how concert posts ended up all sharing one city photo).
+export async function loadUsedImageUrls(postsDir) {
+  const used = new Set();
+  for (const f of await readdir(postsDir)) {
+    if (!f.endsWith('.md')) continue;
+    const m = (await readFile(join(postsDir, f), 'utf8')).match(/\n {2}url:\s*"?([^"\n]+?)"?\s*$/m);
+    if (!m) continue;
+    const u = m[1].trim();
+    used.add(u);
+    const n = unsplashNum(u);
+    if (n) used.add(n);
+  }
+  return used;
 }
 
 function mark(img, used) {
