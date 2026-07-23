@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Emoji from '../../components/Emoji.astro';
+import Newsletter from '../../components/Newsletter.astro';
 import { SITE } from '../../siteConfig';
 
 // Newsletter lead magnet — a genuinely useful, country-agnostic trip-planning
@@ -65,12 +66,17 @@ const groups = [
 >
   <section class="page-hero">
     <div class="wrap">
-      <p class="eyebrow">Free download</p>
+      <p class="eyebrow">Free checklist</p>
       <h1>The Wander Atlas trip-planning checklist</h1>
       <p>Everything to do before you go — from the 3-month countdown to landing day. Print it, tick it off, travel stress-free.</p>
-      <button class="btn btn-primary" onclick="window.print()"><Emoji name="printer" /> Print / Save as PDF</button>
     </div>
   </section>
+
+  <Newsletter
+    heading="Get the checklist — plus one genuinely useful guide a week"
+    dek="Pop in your email and confirm — the full checklist is below to print or save anytime. No spam, unsubscribe in one click."
+    cta="Send me the checklist"
+  />
 
   <article class="article wrap">
     <div class="checklist">
@@ -84,9 +90,13 @@ const groups = [
       ))}
     </div>
 
+    <p class="print-cta">
+      <button class="btn btn-ghost" onclick="window.print()"><Emoji name="printer" /> Print / Save as PDF</button>
+    </p>
+
     <p class="disclosure">
       A free resource from {SITE.name}. Want more like this — one genuinely useful
-      guide a week? <a href="/#newsletter">Join our newsletter</a>. Safe travels!
+      guide a week? <a href="#newsletter">Join our newsletter above</a>. Safe travels!
     </p>
   </article>
 </BaseLayout>
@@ -97,8 +107,9 @@ const groups = [
   .checklist-group ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 0.55rem; }
   .checklist-group li { display: flex; align-items: flex-start; gap: 0.6rem; line-height: 1.5; }
   .cbox { flex: none; width: 18px; height: 18px; margin-top: 0.15rem; border: 2px solid var(--accent); border-radius: 4px; }
+  .print-cta { margin-top: 2rem; text-align: center; }
   @media print {
-    .site-header, .site-footer, .page-hero .btn, .disclosure a { display: none !important; }
+    .site-header, .site-footer, .newsletter, .print-cta, .disclosure a { display: none !important; }
     .page-hero { padding-block: 1rem; }
   }
 </style>
