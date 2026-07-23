@@ -91,6 +91,9 @@ const jsonLd = {
       <p class="eyebrow"><Flag code={country.iso2} size="1.4em" class="flag-ico" /> Destination</p>
       <h1>{country.name}</h1>
       <p class="region-blurb">{country.blurb}</p>
+      {posts.length > 0 && (
+        <p class="hub-meta">{posts.length} in-depth guides · updated daily · facts checked against live Google&nbsp;data</p>
+      )}
     </div>
   </section>
 
