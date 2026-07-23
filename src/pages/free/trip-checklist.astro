@@ -91,7 +91,7 @@ const groups = [
     </div>
 
     <p class="print-cta">
-      <button class="btn btn-ghost" onclick="window.print()"><Emoji name="printer" /> Print / Save as PDF</button>
+      <button class="btn btn-ghost" onclick="if(window.plausible)window.plausible('Checklist print');window.print()"><Emoji name="printer" /> Print / Save as PDF</button>
     </p>
 
     <p class="disclosure">

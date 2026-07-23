@@ -73,6 +73,7 @@ const ML_ACTION = 'https://assets.mailerlite.com/jsonp/2523042/forms/19360998993
         const json = await res.json().catch(() => ({} as any));
         if (json && json.success) {
           form.reset();
+          if ((window as any).plausible) (window as any).plausible('Newsletter signup');
           if (note) {
             note.hidden = false;
             note.classList.add('nl-note-ok');

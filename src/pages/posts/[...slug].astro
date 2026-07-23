@@ -253,7 +253,7 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
 
     {d.heroImage && (
       <figure class="article-hero">
-        <img src={d.heroImage.url} alt={placeName ? `${placeName} in ${d.region}, ${country}` : `${(d.tags && d.tags[1]) || d.category} in ${d.region}, ${country}`} width="1200" height="675" loading="eager" fetchpriority="high" decoding="async" />
+        <img src={d.heroImage.url} alt={d.category === 'event' ? d.title.replace(/:\s*What to Know.*$/i, '') : placeName ? `${placeName} in ${d.region}, ${country}` : `${(d.tags && d.tags[1]) || d.category} in ${d.region}, ${country}`} width="1200" height="675" loading="eager" fetchpriority="high" decoding="async" />
         {d.heroImage.credit && (
           <figcaption>
             {d.heroImage.source?.startsWith('http') ? (
