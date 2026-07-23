@@ -2,13 +2,13 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Flag from '../../components/Flag.astro';
-import Icon from '../../components/Icon.astro';
+import Emoji from '../../components/Emoji.astro';
 import { SITE } from '../../siteConfig';
 import { pickRepHeroUrl } from '../../lib/repImage';
 import countriesData from '../../../data/countries.json';
 
 const CONTINENT_ORDER = ['Asia', 'Europe', 'North America', 'South America', 'Africa', 'Oceania', 'Other'];
-const CONTINENT_ICON = { Asia: 'globe-hemisphere-east', Europe: 'globe-hemisphere-west', 'North America': 'globe-hemisphere-west', 'South America': 'globe-hemisphere-west', Africa: 'globe-hemisphere-west', Oceania: 'globe-hemisphere-east', Other: 'map-trifold' };
+const CONTINENT_ICON = { Asia: 'globe-showing-asia-australia', Europe: 'globe-showing-europe-africa', 'North America': 'globe-showing-americas', 'South America': 'globe-showing-americas', Africa: 'globe-showing-europe-africa', Oceania: 'globe-showing-asia-australia', Other: 'world-map' };
 const contSlug = (name) => name.toLowerCase().replace(/\s+/g, '-');
 
 // One static page per continent that has any country in the data.
@@ -33,7 +33,7 @@ export async function getStaticPaths() {
 const { continentName, countries } = Astro.props;
 const liveCount = countries.filter((c) => c.count > 0).length;
 const guideTotal = countries.reduce((n, c) => n + c.count, 0);
-const contIcon = CONTINENT_ICON[continentName] ?? 'map-trifold';
+const contIcon = CONTINENT_ICON[continentName] ?? 'world-map';
 
 // A representative photo for the continent hero — newest real post image from
 // any country in this continent.
@@ -71,7 +71,7 @@ const jsonLd = {
 >
   <section class:list={['page-hero', { 'page-hero--photo': heroImg }]} style={heroImg ? `background-image:linear-gradient(180deg,rgba(20,20,25,.55),rgba(20,20,25,.78)),url(${heroImg});background-size:cover;background-position:center;` : ''}>
     <div class="wrap">
-      <p class="eyebrow"><a href="/destinations">Destinations</a> · <Icon name={`ph:${contIcon}`} /> Continent</p>
+      <p class="eyebrow"><a href="/destinations">Destinations</a> · <Emoji name={contIcon} /> Continent</p>
       <h1>{continentName}</h1>
       <p>{liveCount > 0 ? `${liveCount} ${liveCount === 1 ? 'country' : 'countries'} live${guideTotal ? ` · ${guideTotal} guides` : ''} — pick a country to start exploring.` : 'Guides for this continent are on the way.'}</p>
     </div>

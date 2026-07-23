@@ -6,7 +6,7 @@
 // returns {"success":true} with open CORS, so we read it for accurate feedback.
 import { SITE } from '../siteConfig';
 import { getLangFromUrl, useTranslations, type Lang } from '../i18n/utils';
-import Icon from './Icon.astro';
+import Emoji from './Emoji.astro';
 interface Props { compact?: boolean; lang?: Lang }
 const { compact = false, lang: langProp } = Astro.props;
 const lang = langProp ?? getLangFromUrl(Astro.url);
@@ -21,7 +21,7 @@ const ML_ACTION = 'https://assets.mailerlite.com/jsonp/2523042/forms/19360998993
       <p class="kicker gold">{SITE.name} {t('home.newsletterKicker')}</p>
       <h2>{t('home.newsletterTitle')}</h2>
       <p class="nl-dek">{t('home.newsletterDek')}</p>
-      <p class="nl-bonus"><Icon name="ph:gift" /> {t('home.newsletterBonus')}</p>
+      <p class="nl-bonus"><Emoji name="wrapped-gift" /> {t('home.newsletterBonus')}</p>
       <form class="nl-form" data-ml-action={ML_ACTION} novalidate>
         <input type="email" name="email" placeholder="you@email.com" aria-label="Email address" autocomplete="email" required />
         <button type="submit" class="btn btn-primary">{t('home.subscribe')}</button>

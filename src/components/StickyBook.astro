@@ -3,7 +3,7 @@
 // reader scrolls past the hero so it never covers the top of the article, and
 // gives a persistent, thumb-reachable booking CTA (most travel traffic is
 // mobile). City/place-specific Klook + Hotellook links, rel="sponsored".
-import Icon from './Icon.astro';
+import Emoji from './Emoji.astro';
 interface Props { city: string; place?: string }
 const { city, place } = Astro.props;
 const q = place || city;
@@ -11,8 +11,8 @@ const klook = `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7C
 const hotel = `https://search.hotellook.com/?marker=754088&destination=${encodeURIComponent(city)}`;
 ---
 <div class="sticky-book" data-sticky-book hidden aria-hidden="true">
-  <a class="sb-btn sb-primary" href={klook} target="_blank" rel="sponsored noopener"><Icon name="ph:ticket" /> Tours & tickets</a>
-  <a class="sb-btn" href={hotel} target="_blank" rel="sponsored noopener"><Icon name="ph:buildings" /> Hotels</a>
+  <a class="sb-btn sb-primary" href={klook} target="_blank" rel="sponsored noopener"><Emoji name="admission-tickets" /> Tours & tickets</a>
+  <a class="sb-btn" href={hotel} target="_blank" rel="sponsored noopener"><Emoji name="hotel" /> Hotels</a>
 </div>
 
 <script>

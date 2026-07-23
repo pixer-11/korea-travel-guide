@@ -4,7 +4,7 @@
 // programs use city-agnostic homepage links (readers pick their city there);
 // flights point to our own /flights page. Affiliate links use rel="sponsored".
 import { SITE } from '../siteConfig';
-import Icon from './Icon.astro';
+import Emoji from './Emoji.astro';
 interface Props { city: string; country?: string }
 const { city } = Astro.props;
 
@@ -17,11 +17,11 @@ const klookHref = city
   : 'https://klook.tpx.lv/2NXPH8MA';
 
 const services = [
-  { icon: 'ticket', label: 'Tours & tickets', desc: city ? `Things to do in ${city}` : 'Activities and skip-the-line tickets', href: klookHref },
-  { icon: 'car', label: 'Car rental', desc: 'Compare local car-hire deals', href: 'https://localrent.tpx.lv/qivp9ZCc' },
+  { icon: 'admission-tickets', label: 'Tours & tickets', desc: city ? `Things to do in ${city}` : 'Activities and skip-the-line tickets', href: klookHref },
+  { icon: 'automobile', label: 'Car rental', desc: 'Compare local car-hire deals', href: 'https://localrent.tpx.lv/qivp9ZCc' },
   { icon: 'taxi', label: 'Airport transfer', desc: 'Pre-book a private pickup', href: 'https://kiwitaxi.tpx.lv/yRbl5tlp' },
-  { icon: 'wifi-high', label: 'eSIM data', desc: 'Get online the moment you land', href: 'https://yesim.tpx.lv/KABevuVe' },
-  { icon: 'airplane-tilt', label: 'Flights', desc: city ? `Search fares to ${city}` : 'Search live fares', href: '/flights', internal: true },
+  { icon: 'antenna-bars', label: 'eSIM data', desc: 'Get online the moment you land', href: 'https://yesim.tpx.lv/KABevuVe' },
+  { icon: 'airplane', label: 'Flights', desc: city ? `Search fares to ${city}` : 'Search live fares', href: '/flights', internal: true },
 ];
 ---
 <section class="plan-trip">
@@ -34,7 +34,7 @@ const services = [
         target={s.internal ? undefined : '_blank'}
         rel={s.internal ? undefined : 'sponsored noopener'}
       >
-        <span class="plan-ico"><Icon name={`ph:${s.icon}`} /></span>
+        <span class="plan-ico"><Emoji name={s.icon} /></span>
         <span class="plan-txt"><strong>{s.label}</strong><span>{s.desc}</span></span>
         <span class="plan-arw">→</span>
       </a>

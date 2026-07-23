@@ -4,7 +4,7 @@ import { createHash } from 'node:crypto';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import PostCard from '../../components/PostCard.astro';
 import Flag from '../../components/Flag.astro';
-import Icon from '../../components/Icon.astro';
+import Emoji from '../../components/Emoji.astro';
 import Newsletter from '../../components/Newsletter.astro';
 import { pickRepHeroUrl } from '../../lib/repImage';
 import countriesData from '../../../data/countries.json';
@@ -115,7 +115,7 @@ const jsonLd = {
             <div class="region-group">
               <h2>Before you go</h2>
               <a class="essential-card" href={`/essentials/${country.slug}`} style="max-width:560px">
-                <span class="ico"><Icon name="ph:compass" /></span>
+                <span class="ico"><Emoji name="compass" /></span>
                 <div><h3>{country.name} travel essentials</h3><p>Visa & entry, getting around, money, best time to visit, and emergency numbers — with official sources.</p></div>
               </a>
             </div>
@@ -124,8 +124,8 @@ const jsonLd = {
           <div class="book-cta">
             <span class="book-cta-label">Planning a trip to {country.name}?</span>
             <div class="book-cta-btns">
-              <a class="book-btn book-btn-primary" href="/flights" rel="sponsored noopener"><Icon name="ph:airplane-tilt" /> Find flights</a>
-              <a class="book-btn" href="/destinations"><Icon name="ph:globe-hemisphere-east" /> More destinations</a>
+              <a class="book-btn book-btn-primary" href="/flights" rel="sponsored noopener"><Emoji name="airplane" /> Find flights</a>
+              <a class="book-btn" href="/destinations"><Emoji name="globe-showing-asia-australia" /> More destinations</a>
             </div>
           </div>
         </>

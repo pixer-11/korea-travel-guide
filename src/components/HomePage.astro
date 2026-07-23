@@ -3,7 +3,7 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from './PostCard.astro';
 import Flag from './Flag.astro';
-import Icon from './Icon.astro';
+import Emoji from './Emoji.astro';
 import Newsletter from './Newsletter.astro';
 import Search from './Search.astro';
 import { SITE } from '../siteConfig';
@@ -164,11 +164,11 @@ const koreaLinks = [
     <div class="wrap">
       <div class="rule-head"><span class="kicker">{t('home.travelEssentials')}</span></div>
       <div class="essentials-strip">
-        <a class="essential-card" href="/essentials/visa"><span class="ico"><Icon name="ph:identification-card" /></span><div><h3>Visa & entry</h3><p>Visa-free, K-ETA, and the e-Arrival Card.</p></div></a>
-        <a class="essential-card" href="/essentials/transport"><span class="ico"><Icon name="ph:train" /></span><div><h3>Getting around</h3><p>T-money, subway, KTX, and the right map apps.</p></div></a>
-        <a class="essential-card" href="/essentials/money"><span class="ico"><Icon name="ph:credit-card" /></span><div><h3>Money & costs</h3><p>Cards vs cash, ATMs, tipping, tax refunds.</p></div></a>
-        <a class="essential-card" href="/essentials/best-time-to-visit"><span class="ico"><Icon name="ph:flower-lotus" /></span><div><h3>Best time to visit</h3><p>Blossoms, foliage, festivals, snow.</p></div></a>
-        <a class="essential-card" href="/essentials/emergency"><span class="ico"><Icon name="ph:warning" /></span><div><h3>Emergency & help</h3><p>112, 119, and the 24/7 1330 hotline.</p></div></a>
+        <a class="essential-card" href="/essentials/visa"><span class="ico"><Emoji name="passport-control" /></span><div><h3>Visa & entry</h3><p>Visa-free, K-ETA, and the e-Arrival Card.</p></div></a>
+        <a class="essential-card" href="/essentials/transport"><span class="ico"><Emoji name="metro" /></span><div><h3>Getting around</h3><p>T-money, subway, KTX, and the right map apps.</p></div></a>
+        <a class="essential-card" href="/essentials/money"><span class="ico"><Emoji name="credit-card" /></span><div><h3>Money & costs</h3><p>Cards vs cash, ATMs, tipping, tax refunds.</p></div></a>
+        <a class="essential-card" href="/essentials/best-time-to-visit"><span class="ico"><Emoji name="cherry-blossom" /></span><div><h3>Best time to visit</h3><p>Blossoms, foliage, festivals, snow.</p></div></a>
+        <a class="essential-card" href="/essentials/emergency"><span class="ico"><Emoji name="police-car-light" /></span><div><h3>Emergency & help</h3><p>112, 119, and the 24/7 1330 hotline.</p></div></a>
       </div>
     </div>
   </section>

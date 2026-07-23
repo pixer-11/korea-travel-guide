@@ -1,6 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import Icon from '../components/Icon.astro';
+import Emoji from '../components/Emoji.astro';
 import { SITE } from '../siteConfig';
 
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
@@ -24,7 +24,7 @@ const jsonLd = {
 >
   <section class="page-hero">
     <div class="wrap">
-      <p class="eyebrow"><Icon name="ph:airplane-tilt" /> Fares</p>
+      <p class="eyebrow"><Emoji name="airplane" /> Fares</p>
       <h1>Find your flight</h1>
       <p>Search live prices across hundreds of airlines and agencies. Pick where you’re flying from and where you’re headed — fares show in your local currency.</p>
     </div>

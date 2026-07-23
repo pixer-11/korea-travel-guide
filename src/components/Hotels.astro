@@ -7,7 +7,7 @@
 // The link is a per-city Klook hotel search via the account's Klook affiliate
 // redirect (pid 754088 → preserves attribution). UPGRADE PLAN: switch to
 // Hotels.com once traffic unlocks it (~3 months) for better hotel-specific rates.
-import Icon from './Icon.astro';
+import Emoji from './Emoji.astro';
 interface Props { city: string; country?: string }
 const { city, country } = Astro.props;
 const klookSearch = `https://www.klook.com/en-US/search/?query=${city} hotels`;
@@ -17,7 +17,7 @@ const href = `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7Cp
   <div class="rule-head"><span class="kicker">Where to stay in {city}</span></div>
   <div class="hotels-cta">
     <p>Compare hotels and stays in {city} — deals, ratings, and real traveler reviews.</p>
-    <a class="btn btn-primary" href={href} target="_blank" rel="sponsored noopener"><Icon name="ph:buildings" /> Search hotels in {city} &rarr;</a>
+    <a class="btn btn-primary" href={href} target="_blank" rel="sponsored noopener"><Emoji name="hotel" /> Search hotels in {city} &rarr;</a>
   </div>
   <p class="tp-disclosure">Booking links are affiliate links — booking through them supports our free guides at no extra cost to you.</p>
 </section>
