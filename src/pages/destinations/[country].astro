@@ -7,6 +7,7 @@ import Flag from '../../components/Flag.astro';
 import Emoji from '../../components/Emoji.astro';
 import Newsletter from '../../components/Newsletter.astro';
 import { pickRepHeroUrl } from '../../lib/repImage';
+import { isEventPast, eventSortValue } from '../../lib/eventStatus';
 import countriesData from '../../../data/countries.json';
 
 // Optimized WebP thumbnail for a hero URL (scripts/build-wall.mjs), for faint
@@ -40,6 +41,11 @@ const others = [...regionCounts.keys()]
   .sort((a, b) => a.localeCompare(b));
 const regionsWithPosts = [...majors, ...others];
 const latest = posts.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
+// Upcoming events in this country — soonest first — for a "What's on" block.
+const upcomingEvents = posts
+  .filter((p) => p.data.category === 'event' && !isEventPast(p.data))
+  .sort((a, b) => eventSortValue(a.data) - eventSortValue(b.data))
+  .slice(0, 6);
 const essentialsSlugs = new Set(
   (await getCollection('essentials', ({ data }) => !data.draft)).map((e) => e.id)
 );
@@ -92,6 +98,26 @@ const jsonLd = {
                   <a class:list={['region-tile', { 'is-major': isMajor(r) }]} href={`/regions/${r.toLowerCase()}`} style={regionImage(r) ? `background-image:url(${regionImage(r)})` : ''}><span>{r}</span></a>
                 ))}
               </div>
+            </div>
+          )}
+
+          {upcomingEvents.length > 0 && (
+            <div class="region-group">
+              <h2>What's on in {country.name}</h2>
+              <div class="grid">
+                {upcomingEvents.map((post) => (
+                  <PostCard
+                    href={`/posts/${post.id}`}
+                    title={post.data.title}
+                    description={post.data.description}
+                    region={post.data.region}
+                    category={post.data.category}
+                    image={post.data.heroImage?.url}
+                    eventEndDate={post.data.eventEndDate}
+                  />
+                ))}
+              </div>
+              <p style="margin-top:1rem"><a href="/events" class="rule-link">All upcoming events →</a></p>
             </div>
           )}
 
