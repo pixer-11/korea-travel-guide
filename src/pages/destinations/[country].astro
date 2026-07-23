@@ -41,7 +41,11 @@ const others = [...regionCounts.keys()]
   .filter((r) => !majorOrder.includes(r))
   .sort((a, b) => a.localeCompare(b));
 const regionsWithPosts = [...majors, ...others];
-const latest = posts.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
+// Exclude events from "Latest guides" — they have their own "What's on" section
+// above, so including them here listed each event twice (e.g. the Turkey hub).
+const latest = posts
+  .filter((p) => p.data.category !== 'event')
+  .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
 // Upcoming events in this country — soonest first — for a "What's on" block.
 const upcomingEvents = posts
   .filter((p) => p.data.category === 'event' && !isEventPast(p.data))
