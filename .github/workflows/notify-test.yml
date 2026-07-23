@@ -17,4 +17,4 @@ jobs:
           JOB_STATUS: success
           NEW: 0
           TOTAL: 173
-        run: bash scripts/notify-telegram.sh "Telegram test ✅"
+        run: bash scripts/notify-telegram.sh "연결 테스트"

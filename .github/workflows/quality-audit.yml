@@ -81,7 +81,11 @@ jobs:
           IMG: ${{ steps.audit.outputs.img }}
         run: |
           [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
-          MSG="🧹 Quality audit fixed ${ADDR} address(es) + ${IMG} image(s) on Wander Atlas venue posts."
+          if [ "${ADDR:-0}" = "0" ] && [ "${IMG:-0}" = "0" ]; then
+            MSG="🧹 Wander Atlas 품질 점검 — 전화번호·영업시간 등 장소 세부정보를 정비했어요."
+          else
+            MSG="🧹 Wander Atlas 품질 점검 — 장소 글에서 주소 ${ADDR}건 + 사진 ${IMG}장을 수정했어요."
+          fi
           curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
             --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
             --data-urlencode text="$MSG" > /dev/null || true
