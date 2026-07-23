@@ -1,5 +1,5 @@
 ---
-title: "Chengdu Research Base of Giant Panda Breeding: Chengdu Travel Guide"
+title: "Chengdu Research Base of Giant Panda Breeding: Travel Guide"
 description: "Arrive right at opening (7:30am) to see pandas at their most active, before they retreat from the heat and crowds."
 country: "China"
 region: "Chengdu"

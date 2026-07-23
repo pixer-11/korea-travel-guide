@@ -1,5 +1,5 @@
 ---
-title: "Tongyeong Cablecar Skywalk: Tongyeong Travel Guide"
+title: "Tongyeong Cablecar Skywalk: Travel Guide"
 description: "Ride the Tongyeong Cablecar from its base station in Sanyang-eup up Mireuksan (461m), then walk the Skywalk glass-floor deck near the summit for panoramic"
 region: Tongyeong
 category: attraction

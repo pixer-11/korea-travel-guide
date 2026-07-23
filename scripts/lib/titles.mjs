@@ -39,13 +39,19 @@ export function makeTitle(name, target) {
   const reg = region.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
   const deEchoed = base.replace(new RegExp(`[\\s,\\-–—]+${reg}$`, 'i'), '').trim();
   if (deEchoed.length >= 3) base = deEchoed; // never strip down to nothing
+  // If the venue name itself contains the city ("Tokyo Tower"), don't repeat it in
+  // the suffix — "Tokyo Tower: Travel Guide", not "…: Tokyo Travel Guide".
+  const baseHasRegion = new RegExp(`\\b${reg}\\b`, 'i').test(base);
   const suffix =
     target.category === 'restaurant'
-      ? `Where to Eat in ${region}`
-      : `${region} Travel Guide`;
+      ? (baseHasRegion ? 'Where to Eat' : `Where to Eat in ${region}`)
+      : (baseHasRegion ? 'Travel Guide' : `${region} Travel Guide`);
   return `${base}: ${suffix}`;
 }
 
 export function makePlacelessTitle(target) {
-  return `${cap(target.topic)} in ${target.region}`;
+  const t = cap(target.topic);
+  const reg = target.region.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  // If the topic already names the city ("Suncheon Bay"), don't append " in City".
+  return new RegExp(`\\b${reg}\\b`, 'i').test(t) ? t : `${t} in ${target.region}`;
 }

@@ -1,5 +1,5 @@
 ---
-title: "Daegu 83 Tower: Daegu Travel Guide"
+title: "Daegu 83 Tower: Travel Guide"
 description: "Daegu 83 Tower is the observation-deck landmark inside Duryu Park in Dalseo District, best visited at sunset for city views that stretch to the surrounding"
 region: Daegu
 category: hidden-gem

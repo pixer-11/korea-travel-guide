@@ -1,5 +1,5 @@
 ---
-title: "This Is Bali - Balinese Food & Desserts: Where to Eat in Bali"
+title: "This Is Bali - Balinese Food & Desserts: Where to Eat"
 description: "This Is Bali is a casual, highly-rated Indonesian restaurant on Jl."
 country: "Indonesia"
 region: "Bali"

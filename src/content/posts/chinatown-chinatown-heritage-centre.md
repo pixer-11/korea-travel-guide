@@ -1,5 +1,5 @@
 ---
-title: "Chinatown Heritage Centre: Chinatown Travel Guide"
+title: "Chinatown Heritage Centre: Travel Guide"
 description: "The Chinatown Heritage Centre at 48 Pagoda Street occupies three restored 1900s shophouses and recreates the cramped living quarters of early Chinese"
 country: "Singapore"
 region: "Chinatown"

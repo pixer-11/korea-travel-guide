@@ -1,5 +1,5 @@
 ---
-title: "Kampong Glam Cafe: Kampong Glam Travel Guide"
+title: "Kampong Glam Cafe: Travel Guide"
 description: "Kampong Glam Cafe sits on pedestrianized Bussorah Street, a two-minute walk from Sultan Mosque, and is best for a budget-friendly plate of fried chicken"
 country: "Singapore"
 region: "Kampong Glam"

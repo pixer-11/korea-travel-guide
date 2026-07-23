@@ -54,6 +54,11 @@ for (const f of files) {
       .replace(/:\s*A Visitor'?s Guide(?:\s+in\s+.+?)?\s*$/i, '')
       .replace(/\s*[-–—]\s*A Visitor'?s Guide(?:\s+in\s+.+?)?\s*$/i, '')
       .trim();
+    // Collapse "Suncheon Bay in Suncheon" → "Suncheon Bay": if the name already
+    // contains the city, the trailing " in <city>" is a redundant echo.
+    const reg = region.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const echo = newTitle.match(new RegExp(`^(.*?)\\s+in\\s+${reg}$`, 'i'));
+    if (echo && new RegExp(`\\b${reg}\\b`, 'i').test(echo[1])) newTitle = echo[1].trim();
   }
 
   if (!newTitle || newTitle === oldTitle) { skip++; continue; }

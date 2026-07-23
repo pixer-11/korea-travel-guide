@@ -52,6 +52,21 @@ for (const p of posts) {
   if (!p.url || p.url.includes('placeholder')) issues.push(`PLACEHOLDER/no image [${p.category}]: ${p.f}`);
   if (NON_LATIN.test(p.title)) issues.push(`NON-LATIN script in title "${p.title.slice(0, 40)}…": ${p.f}`);
   if ((p.title.match(/\//g) || []).length >= 2) issues.push(`QUERY-LIKE title (multiple "/"): ${p.f}`);
+  // "A Visitor's Guide" filler was stripped site-wide (backfill-titles.mjs) and
+  // generate.mjs builds titles via lib/titles.mjs which never adds it — so ANY
+  // occurrence means the title rule regressed. Also flag a city echoed twice
+  // ("… Abu Dhabi: … in Abu Dhabi"), which the de-echo in makeTitle prevents.
+  if (/:\s*A Visitor'?s Guide/i.test(p.title)) issues.push(`FILLER "A Visitor's Guide" in title (title-rule regression): ${p.f}`);
+  // Catch a city echo that WE introduced in the suffix — i.e. the city appears in
+  // both the name half (before ": ") and again in the suffix half. A city that's
+  // repeated only inside the raw place name (e.g. "Gyukatsu Kyoto Katsugyu Kyoto")
+  // is Google's data, not ours, so it's excluded.
+  if (p.region && p.category !== 'event' && p.title.includes(': ')) {
+    const reg = new RegExp(`\\b${p.region.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'i');
+    const [head, ...rest] = p.title.split(': ');
+    const tail = rest.join(': ');
+    if (reg.test(head) && reg.test(tail)) issues.push(`CITY echoed in name + suffix ("${p.region}"): ${p.f}`);
+  }
 }
 dupBy((p) => (p.url && !p.url.includes('placeholder') ? unsplashNum(p.url) || p.url : ''), 'DUPLICATE image');
 dupBy((p) => p.placeId, 'DUPLICATE place.id');

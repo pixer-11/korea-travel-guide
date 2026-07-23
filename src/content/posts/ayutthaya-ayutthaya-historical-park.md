@@ -1,5 +1,5 @@
 ---
-title: "Ayutthaya Historical Park: Ayutthaya Travel Guide"
+title: "Ayutthaya Historical Park: Travel Guide"
 description: "Ayutthaya Historical Park is a UNESCO World Heritage site of ruined temples and palace platforms spread across the old royal island, about 80km north of"
 country: "Thailand"
 region: "Ayutthaya"

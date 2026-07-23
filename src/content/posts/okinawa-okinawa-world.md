@@ -1,5 +1,5 @@
 ---
-title: "Okinawa World: Okinawa Travel Guide"
+title: "Okinawa World: Travel Guide"
 description: "Okinawa World in Nanjo City is best visited as a half-day trip from Naha (about 30–40 minutes by car), combining a walk through the illuminated Gyokusendo"
 country: "Japan"
 region: "Okinawa"

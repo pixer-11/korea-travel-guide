@@ -1,5 +1,5 @@
 ---
-title: "Suncheon Bay in Suncheon"
+title: "Suncheon Bay"
 description: "Suncheon Bay National Garden and the adjacent Suncheon Bay Wetland Reserve (Suncheonman) are best visited together as a single day trip: start at the"
 region: Suncheon
 category: attraction

@@ -1,5 +1,5 @@
 ---
-title: "Tokyo Tower: Tokyo Travel Guide"
+title: "Tokyo Tower: Travel Guide"
 description: "Tokyo Tower, in Minato City's Shibakoen district, is best visited on a clear late afternoon so you catch sunset melting into the night skyline from the Main"
 country: "Japan"
 region: "Tokyo"

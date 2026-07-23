@@ -1,5 +1,5 @@
 ---
-title: "Chinatown Complex: Where to Eat in Chinatown"
+title: "Chinatown Complex: Where to Eat"
 description: "Chinatown Complex on Smith Street is Singapore's largest hawker centre, with hundreds of stalls on the second floor above a wet market."
 country: "Singapore"
 region: "Chinatown"

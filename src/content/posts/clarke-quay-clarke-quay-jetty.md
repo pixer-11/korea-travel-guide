@@ -1,5 +1,5 @@
 ---
-title: "Clarke Quay Jetty: Clarke Quay Travel Guide"
+title: "Clarke Quay Jetty: Travel Guide"
 description: "Clarke Quay Jetty is the small boarding point on the Singapore River where Singapore River Cruise bumboats pick up and drop off passengers along Clarke"
 country: "Singapore"
 region: "Clarke Quay"
