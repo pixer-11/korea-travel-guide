@@ -2,7 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from './PostCard.astro';
-import Icon from './Icon.astro';
+import Flag from './Flag.astro';
 import Newsletter from './Newsletter.astro';
 import Search from './Search.astro';
 import { SITE } from '../siteConfig';
@@ -111,7 +111,7 @@ const koreaLinks = [
           <img src={cover?.data.heroImage?.url ?? '/images/placeholder-market.svg'} alt="South Korea" loading="lazy" width="800" height="1000" />
         </div>
         <div class="spotlight-body">
-          <p class="kicker gold"><Icon name="circle-flags:kr" class="flag-ico" /> {t('home.destinations')}</p>
+          <p class="kicker gold"><Flag code="kr" class="flag-ico" /> {t('home.destinations')}</p>
           <h2>South Korea</h2>
           <p>
             Our launch destination — {countFor('South Korea')} in-depth guides and counting.
@@ -140,7 +140,7 @@ const koreaLinks = [
           <a class:list={['dest-tile', 'dest-live', { 'dest-feat': i === 0 }]} href={`/destinations/${c.slug}`} style={`background-image:url(${repImage(c.name)})`}>
             {i === 0 && <span class="dest-ribbon">{t('home.featured')}</span>}
             <div class="dest-tile-inner">
-              <span class="dest-flag"><Icon name={`circle-flags:${c.iso2}`} /></span>
+              <span class="dest-flag"><Flag code={c.iso2} /></span>
               <h3>{c.name}</h3>
               <p>{c.count} {t('home.guides')} →</p>
             </div>
@@ -149,7 +149,7 @@ const koreaLinks = [
         {soon.map((c) => (
           <div class="dest-tile dest-soon">
             <div class="dest-tile-inner">
-              <span class="dest-flag"><Icon name={`circle-flags:${c.iso2}`} /></span>
+              <span class="dest-flag"><Flag code={c.iso2} /></span>
               <h3>{c.name}</h3>
               <p class="dest-pill">{t('home.comingSoon')}</p>
             </div>

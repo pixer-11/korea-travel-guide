@@ -1,0 +1,36 @@
+---
+// Inline circle-flags SVG DIRECTLY (full paths), bypassing astro-icon's sprite
+// `<use href="#…">` output. Chrome skips the initial paint of sprite-referenced
+// `<symbol>`s inside cards until a repaint is forced (e.g. opening a dropdown),
+// which made the country flags "appear/disappear". Inlining the body avoids the
+// `<use>` bug entirely.
+import flagData from '@iconify-json/circle-flags/icons.json';
+
+interface Props { code?: string; size?: string | number; class?: string }
+const { code, size = '1em', class: cls } = Astro.props;
+
+const key = (code ?? '').toLowerCase();
+const icons = flagData.icons as Record<string, { body: string; width?: number; height?: number }>;
+const icon = icons[key];
+const w = icon?.width ?? flagData.width ?? 512;
+const h = icon?.height ?? flagData.height ?? 512;
+
+// circle-flags bodies contain hardcoded ids (e.g. <mask id="SVG…">) referenced via
+// url(#id) / href="#id". Inlining the same flag more than once on a page would
+// duplicate those ids, so namespace them per instance.
+let body = icon?.body ?? '';
+if (body) {
+  const uid = Math.random().toString(36).slice(2, 8);
+  const ids = [...body.matchAll(/id="([^"]+)"/g)].map((m) => m[1]);
+  for (const id of ids) {
+    const nid = `${id}_${uid}`;
+    body = body
+      .split(`id="${id}"`).join(`id="${nid}"`)
+      .split(`#${id}"`).join(`#${nid}"`)   // href="#id"
+      .split(`#${id})`).join(`#${nid})`);  // url(#id)
+  }
+}
+---
+{icon && (
+  <svg width={size} height={size} viewBox={`0 0 ${w} ${h}`} class={cls} aria-hidden="true" set:html={body} />
+)}

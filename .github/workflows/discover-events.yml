@@ -38,8 +38,22 @@ jobs:
           git add src/content/posts data/published.json public/wall data/wall.json
           if git diff --staged --quiet; then
             echo "No new events this run."
-          else
-            git commit -m "content: discovered current events ($(date -u +%Y-%m-%d))"
-            git pull --rebase origin main
-            git push
+            exit 0
           fi
+          git commit -m "content: discovered current events ($(date -u +%Y-%m-%d))"
+          # This long-running job races with the daily-publish / venue-photo jobs and
+          # manual pushes, so main often moves before we push. Rebase onto the latest
+          # main (keeping our freshly generated files on the wholesale-regenerated JSON
+          # via -X theirs) and retry with backoff.
+          pushed=0
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            if git rebase -X theirs origin/main; then
+              if git push origin HEAD:main; then pushed=1; break; fi
+            else
+              git rebase --abort || true
+            fi
+            echo "Push attempt $attempt failed; syncing and retrying…"
+            sleep $((attempt * 5))
+          done
+          if [ "$pushed" != 1 ]; then echo "Could not push after retries"; exit 1; fi

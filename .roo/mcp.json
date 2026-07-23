@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "claude-mem": {
+      "command": "C:\\Program Files\\nodejs\\node.exe",
+      "args": [
+        "C:\\Users\\user\\.claude\\plugins\\marketplaces\\thedotmack\\plugin\\scripts\\mcp-server.cjs"
+      ]
+    }
+  }
+}
