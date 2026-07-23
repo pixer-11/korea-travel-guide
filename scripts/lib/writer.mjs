@@ -22,7 +22,16 @@ SUBSTANCE:
 - Aim for 10+ discrete, concrete facts a reader can act on. Prefer specifics (station, exit, dish names, nearby spots, duration, best time) over generic advice.
 - Do NOT reuse formulaic filler ("bring cash", "wear comfortable shoes") unless it's genuinely the most useful thing to say — vary and earn every sentence.
 
-Submit via the submit_guide tool. Body = GitHub-flavored Markdown, 550-800 words, with 4-5 H2 (##) sections such as "Why go", "Getting there", "What to see / eat", "When to go", "Nearby & tips". No H1 title, no frontmatter, no hero image, no FAQ inside the body (FAQ is a separate field).`;
+LIKE-A-LOCAL (this section is REQUIRED):
+- Always include one H2 titled exactly "How to visit like a local". Fill it with BEHAVIOURAL, verifiable guidance from stable public knowledge: the calmest time of day/week to go and why, how people typically pay and tip (cash/card/mobile), whether to book or how the queue works, local etiquette, the local-language name or how to order, and the mistake tourists most often make here. Keep it concrete and specific to THIS place/dish/area — never generic. Never invent prices, hours, phone numbers, or quotes.
+
+POPULARITY — you MUST obey facts.localSignals when it is present:
+- localSignals.localSecretOk === true → you MAY frame the place as under-the-radar / a quieter find / not yet overrun.
+- localSignals.localSecretOk === false, OR localSignals.popularity === "very-popular" → do NOT call it a "hidden gem", "secret", "undiscovered", or "off the beaten path". It's well-visited; make the like-a-local advice about beating the crowds.
+- localSignals.localsFavorite === true → you MAY say locals genuinely favour it. If it is false or absent → do NOT claim "where locals go", "only locals know", or "no tourists".
+- If facts.localSignals is ABSENT entirely → give general like-a-local behavioural advice and make NO claim about secrecy or local-vs-tourist status either way.
+
+Submit via the submit_guide tool. Body = GitHub-flavored Markdown, 600-850 words, with 5-6 H2 (##) sections such as "Why go", "Getting there", "What to see / eat", "When to go", and ALWAYS one titled exactly "How to visit like a local". No H1 title, no frontmatter, no hero image, no FAQ inside the body (FAQ is a separate field).`;
 
 const TOOL = {
   name: 'submit_guide',
@@ -36,7 +45,7 @@ const TOOL = {
       },
       body: {
         type: 'string',
-        description: 'The article body as GitHub-flavored Markdown (550-800 words, 4-5 H2 sections, concrete and specific). No title, no FAQ.',
+        description: 'The article body as GitHub-flavored Markdown (600-850 words, 5-6 H2 sections, concrete and specific, always including a "How to visit like a local" H2). No title, no FAQ.',
       },
       faq: {
         type: 'array',

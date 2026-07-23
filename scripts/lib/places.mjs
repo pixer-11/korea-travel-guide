@@ -71,6 +71,48 @@ export async function getPlaceById(placeId, { throwOnQuota = false, throwOnError
   return normalizePlace(await res.json());
 }
 
+// Fields needed ONLY to tell a genuine "hidden gem / locals' favourite" apart
+// from a tourist-mobbed spot. Kept separate from FIELD_MASK because `reviews`
+// makes this a pricier Details SKU, so we only pay for it once per PUBLISHED post.
+const LOCAL_SIGNAL_MASK = [
+  'id', 'rating', 'userRatingCount', 'primaryType', 'primaryTypeDisplayName', 'types', 'reviews',
+].join(',');
+
+/**
+ * One extra Details call per published venue to gather the metadata behind the
+ * "how to visit like a local" angle. We DELIBERATELY discard all review TEXT (we
+ * never quote or paraphrase reviews — that would risk invention); we keep only
+ * each review's language code + star rating as numeric signals. Returns null on
+ * any error/quota so publishing never blocks on it.
+ */
+export async function fetchPlaceReviewSignals(placeId) {
+  if (!KEY || !placeId) return null;
+  let res;
+  try {
+    res = await fetch(`https://places.googleapis.com/v1/places/${placeId}`, {
+      headers: {
+        'X-Goog-Api-Key': KEY,
+        'X-Goog-FieldMask': LOCAL_SIGNAL_MASK,
+        'Content-Type': 'application/json',
+      },
+    });
+  } catch { return null; }
+  if (!res.ok) return null;
+  const p = await res.json();
+  const reviewLangs = (p.reviews ?? [])
+    .map((r) => r.originalText?.languageCode || r.text?.languageCode)
+    .filter(Boolean)
+    .map((l) => l.toLowerCase().split('-')[0]); // 'zh-Hant' → 'zh'; TEXT discarded
+  return {
+    rating: p.rating,
+    userRatingsTotal: p.userRatingCount,
+    primaryType: p.primaryType,
+    venueType: p.primaryTypeDisplayName?.text || null,
+    types: p.types ?? [],
+    reviewLangs,
+  };
+}
+
 function normalizePlace(p) {
   return {
     id: p.id,

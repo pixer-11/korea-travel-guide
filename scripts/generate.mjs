@@ -279,9 +279,43 @@ async function savePublished(done) {
   await writeFile(PUBLISHED_FILE, JSON.stringify({ done: [...done] }, null, 2) + '\n', 'utf8');
 }
 
+// Primary local language per country, for the "do locals actually go here?"
+// signal derived from review LANGUAGES (not text). English-official or highly
+// multilingual countries → null, so an English review there is NOT read as a
+// tourist and we never over-claim "locals' favourite".
+const COUNTRY_LANG = {
+  'South Korea': 'ko', Japan: 'ja', Thailand: 'th', France: 'fr', Italy: 'it',
+  China: 'zh', Spain: 'es', Vietnam: 'vi', Taiwan: 'zh', Indonesia: 'id',
+  Malaysia: 'ms', Turkey: 'tr',
+  'United States': null, 'United Arab Emirates': null, India: null,
+  Philippines: null, Singapore: null,
+};
+
+// Turn raw Places metadata (review LANGUAGES + star counts, text discarded) into
+// honest booleans the writer must obey. Every "hidden gem / locals' favourite"
+// claim is gated here on real data, never on the search query wording.
+function computeLocalSignals(raw, country) {
+  if (!raw) return null;
+  const n = raw.userRatingsTotal || 0;
+  const rating = raw.rating || 0;
+  const popularity = n >= 5000 ? 'very-popular' : n >= 1200 ? 'well-known' : 'under-the-radar';
+  const lang = COUNTRY_LANG[country];
+  let localReviewRatio = null;
+  let localsFavorite = false;
+  if (lang && raw.reviewLangs?.length) {
+    const local = raw.reviewLangs.filter((l) => l === lang).length;
+    localReviewRatio = Math.round((local / raw.reviewLangs.length) * 100) / 100;
+    localsFavorite = localReviewRatio >= 0.6 && n >= 80;
+  }
+  // "Hidden gem / under the radar / less touristy" is only HONEST when it's well
+  // rated AND not already mobbed — otherwise the claim is gated off.
+  const localSecretOk = rating >= 4.2 && n > 0 && n < 1500;
+  return { popularity, venueType: raw.venueType || null, localReviewRatio, localsFavorite, localSecretOk };
+}
+
 // ── LIVE path ────────────────────────────────────────────────
 async function buildLivePost(target) {
-  const { searchPlaces } = await import('./lib/places.mjs');
+  const { searchPlaces, fetchPlaceReviewSignals } = await import('./lib/places.mjs');
   const { resolveHero, pickGallery } = await import('./lib/images.mjs');
   const { writeArticle } = await import('./lib/writer.mjs');
 
@@ -316,6 +350,19 @@ async function buildLivePost(target) {
   const gallery = (await pickGallery(place, 3)).filter(isImageAllowed);
 
   const title = makeTitle(place.name, target);
+
+  // ONE extra Details call per published venue → honest "like a local" signals
+  // (review languages + counts; text discarded). Never blocks publishing.
+  let localSignals = null;
+  try {
+    const raw = await fetchPlaceReviewSignals(place.id);
+    localSignals = computeLocalSignals(raw, target.country);
+    if (localSignals) {
+      const lf = localSignals.localsFavorite ? ' · locals-favourite' : '';
+      console.log(`  📍 signals: ${localSignals.popularity}${lf}${localSignals.localSecretOk ? ' · secret-ok' : ''}`);
+    }
+  } catch { /* signals are a bonus; publishing proceeds without them */ }
+
   const facts = {
     name: place.name,
     address: place.address,
@@ -325,6 +372,7 @@ async function buildLivePost(target) {
     editorialSummary: place.editorialSummary,
     region: target.region,
     country: target.country,
+    ...(localSignals && { localSignals }),
   };
 
   const { body, quickAnswer, faq } = await writeArticle({
