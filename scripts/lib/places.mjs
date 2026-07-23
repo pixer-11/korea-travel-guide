@@ -97,6 +97,9 @@ export async function fetchPlaceReviewSignals(placeId) {
       },
     });
   } catch { return null; }
+  // Surface a Details-quota 429 instead of swallowing it — otherwise like-a-local
+  // signals silently vanish from every post once the shared Places day is drained.
+  if (res.status === 429) { console.warn('  ⚠ Places Details 429 — like-a-local signals skipped (details quota exhausted)'); return null; }
   if (!res.ok) return null;
   const p = await res.json();
   const reviewLangs = (p.reviews ?? [])

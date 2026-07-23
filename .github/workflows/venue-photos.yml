@@ -34,7 +34,10 @@ jobs:
       - name: Self-host venue photos
         env:
           GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
-          PHOTO_LIMIT: ${{ github.event.inputs.limit || '0' }}
+          # Cap per run (was 0 = unlimited): this job's Details+Photo calls share the
+          # SAME Places day as backfill (75) + publish (16). 25 keeps total Details
+          # roughly within 100/day; raise only if the day isn't otherwise busy.
+          PHOTO_LIMIT: ${{ github.event.inputs.limit || '25' }}
         run: node scripts/backfill-venue-photos.mjs
 
       - name: Build hero photo-wall thumbnails

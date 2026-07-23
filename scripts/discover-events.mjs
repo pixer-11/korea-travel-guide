@@ -73,7 +73,14 @@ const discoverHotspots = (country) =>
     `where category is one of "restaurant","trendy","hidden-gem". If nothing notable, return [].`
   );
 
-const isIsoDate = (s) => typeof s === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(s) && !Number.isNaN(Date.parse(s));
+// Validate AND round-trip: Date.parse rolls "2026-02-30" over to Mar 2, so a
+// malformed model date would be stored then silently shift everywhere (and could
+// even make z.coerce.date() throw at build). Require Y-M-D to survive a round trip.
+const isIsoDate = (s) => {
+  if (typeof s !== 'string' || !/^\d{4}-\d{2}-\d{2}$/.test(s)) return false;
+  const d = new Date(s + 'T00:00:00Z');
+  return !Number.isNaN(d.getTime()) && d.toISOString().slice(0, 10) === s;
+};
 
 function frontmatter(data) {
   return `---\n${yaml.dump(data, { lineWidth: -1, noRefs: true, sortKeys: false })}---\n\n`;

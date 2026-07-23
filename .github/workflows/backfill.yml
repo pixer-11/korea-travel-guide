@@ -45,7 +45,10 @@ jobs:
           UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
           # Cap below the Places 100/day quota so the NEXT daily auto-publish (16
           # posts, same quota cycle) still has budget: 75 backfill + 16 publish =
-          # 91 < 100, leaving headroom. Was 90 → starved publish to ~2 posts/day.
+          # 91 posts. NOTE this counts TEXT SEARCH; each published post ALSO fires
+          # 1 Details (like-a-local) + up to ~4 Photo calls, and venue-photos.yml
+          # (capped 25) shares the same Places day. If the run logs "Details 429"
+          # or publish yields ~0, lower this further. Was 90 → starved publish to ~2.
           POSTS_PER_RUN: ${{ github.event.inputs.count || '75' }}
           TARGET_PER_COUNTRY: ${{ github.event.inputs.target || '58' }}
           MIN_RATING: '4.0'
