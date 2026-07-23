@@ -98,8 +98,12 @@ const orgLd = {
     <meta property="og:site_name" content={siteName} />
     {ogImage && <meta property="og:image" content={ogImage} />}
 
-    <!-- Twitter -->
+    <!-- Twitter — explicit tags rather than relying on the OG fallback, so the
+         large-image card renders reliably on X and in link unfurlers. -->
     <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    {ogImage && <meta name="twitter:image" content={ogImage} />}
 
     <link rel="sitemap" href="/sitemap-index.xml" />
 
