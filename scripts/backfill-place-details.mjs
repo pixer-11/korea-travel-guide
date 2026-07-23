@@ -32,11 +32,12 @@ for (const f of files) {
   const t = await readFile(p, 'utf8');
 
   // Isolate the `place:` frontmatter block (top-level key + its 2-space children).
-  const block = t.match(/^place:\n((?:[ ]{2}.*\n)+)/m);
+  // CRLF-safe: many posts use \r\n, which a bare \n pattern would miss.
+  const block = t.match(/^place:\r?\n((?:[ ]{2}.*\r?\n)+)/m);
   if (!block) { skipNoPlace++; continue; }
   const placeBody = block[1];
 
-  const id = placeBody.match(/^[ ]{2}id:\s*(.+)$/m)?.[1]?.trim();
+  const id = placeBody.match(/^[ ]{2}id:[ \t]*(.+)/m)?.[1]?.replace(/[\r\n]+$/, '').trim();
   if (!id) { skipNoPlace++; continue; }
 
   const hasPhone = /^[ ]{2}phone:/m.test(placeBody);
@@ -72,8 +73,9 @@ for (const f of files) {
 
   if (APPLY) {
     // Append the new lines to the END of the place block (before the next top-level key).
-    const newBlock = `place:\n${placeBody}${inject}`;
-    const out = t.replace(/^place:\n(?:[ ]{2}.*\n)+/m, newBlock);
+    const nl = placeBody.includes('\r\n') ? '\r\n' : '\n';
+    const newBlock = `place:${nl}${placeBody}${inject.replace(/\n/g, nl)}`;
+    const out = t.replace(/^place:\r?\n(?:[ ]{2}.*\r?\n)+/m, newBlock);
     if (out !== t) await writeFile(p, out, 'utf8');
   }
 }

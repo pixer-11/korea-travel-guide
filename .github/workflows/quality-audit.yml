@@ -1,0 +1,87 @@
+name: Quality audit (intl venues)
+
+# Daily audit that fixes defects which only surface for non-English venues:
+#   - non-Latin place.address  → re-fetched English address
+#   - food/trendy venues with a landmark-fallback hero → real Google Places photo
+#
+# Runs a few times a day AFTER the Places Details quota resets (~08:00 UTC). The
+# audit script exits 0 immediately if Details is still 429, so the later runs act
+# as automatic retries until the quota is actually available ("keep checking").
+# Once every venue is clean the audit changes nothing and no commit is made, so
+# this is safe to leave scheduled forever.
+on:
+  schedule:
+    - cron: '50 8 * * *'  # 08:50 UTC — just after reset + backfill
+    - cron: '20 11 * * *' # retry if quota hadn't propagated yet
+    - cron: '20 14 * * *' # retry again
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      - name: Backfill phone + opening hours (Task 1; idempotent, no-op on 429)
+        env:
+          GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
+        run: node scripts/backfill-place-details.mjs --apply || true
+
+      - name: Run audit
+        id: audit
+        env:
+          GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
+        run: |
+          out=$(node scripts/quality-audit.mjs --apply 2>&1) || true
+          echo "$out"
+          res=$(printf '%s\n' "$out" | grep -oE 'AUDIT_RESULT addr=[0-9]+ img=[0-9]+' | tail -1)
+          addr=$(printf '%s' "$res" | grep -oE 'addr=[0-9]+' | cut -d= -f2)
+          img=$(printf '%s' "$res" | grep -oE 'img=[0-9]+' | cut -d= -f2)
+          echo "addr=${addr:-0}" >> "$GITHUB_OUTPUT"
+          echo "img=${img:-0}" >> "$GITHUB_OUTPUT"
+
+      - name: Validate content (gate — never commit a regression)
+        run: node scripts/validate-content.mjs
+
+      - name: Rebuild hero photo-wall (heroes may have changed)
+        run: node scripts/build-wall.mjs
+
+      - name: Commit fixes
+        id: commit
+        run: |
+          git config user.name "content-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add src/content/posts public/venue-photos public/wall data/wall.json
+          if git diff --staged --quiet; then
+            echo "committed=0" >> "$GITHUB_OUTPUT"
+            echo "No quality fixes this run (all clean, or quota not ready)."
+          else
+            git commit -m "fix: audit intl venues — ${{ steps.audit.outputs.addr }} addresses + ${{ steps.audit.outputs.img }} images ($(date -u +%Y-%m-%d))"
+            git pull --rebase origin main
+            git push
+            echo "committed=1" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Notify Telegram
+        if: steps.commit.outputs.committed == '1'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          ADDR: ${{ steps.audit.outputs.addr }}
+          IMG: ${{ steps.audit.outputs.img }}
+        run: |
+          [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
+          MSG="🧹 Quality audit fixed ${ADDR} address(es) + ${IMG} image(s) on Wander Atlas venue posts."
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+            --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
+            --data-urlencode text="$MSG" > /dev/null || true

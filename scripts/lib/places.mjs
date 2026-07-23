@@ -52,9 +52,13 @@ export async function searchPlaces(query, { max = 5 } = {}) {
 
 // Re-fetch a single place by its stored id — used by the freshness job to
 // detect rating changes and closures without re-running a text search.
-export async function getPlaceById(placeId, { throwOnQuota = false, throwOnError = false } = {}) {
+export async function getPlaceById(placeId, { throwOnQuota = false, throwOnError = false, languageCode } = {}) {
   if (!KEY || !placeId) return null;
-  const res = await fetch(`https://places.googleapis.com/v1/places/${placeId}`, {
+  // languageCode forces the response language — pass 'en' to get an English
+  // formattedAddress for venues whose default address comes back in local script.
+  const url = `https://places.googleapis.com/v1/places/${placeId}` +
+    (languageCode ? `?languageCode=${encodeURIComponent(languageCode)}` : '');
+  const res = await fetch(url, {
     headers: {
       'X-Goog-Api-Key': KEY,
       'X-Goog-FieldMask': FIELD_MASK.replaceAll('places.', ''),

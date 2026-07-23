@@ -37,12 +37,12 @@ for (const f of files) {
   const p = join(DIR, f);
   const t = await readFile(p, 'utf8');
 
-  const block = t.match(/^place:\n((?:[ ]{2}.*\n)+)/m);
+  const block = t.match(/^place:\r?\n((?:[ ]{2}.*\r?\n)+)/m);
   if (!block) { skipNoPlace++; continue; }
   const body = block[1];
-  const clean = (v) => v?.trim().replace(/^['"]|['"]$/g, '');
-  const name = clean(body.match(/^[ ]{2}name:\s*(.+)$/m)?.[1]);
-  const address = clean(body.match(/^[ ]{2}address:\s*(.+)$/m)?.[1]);
+  const clean = (v) => v?.replace(/[\r\n]+$/, '').trim().replace(/^['"]|['"]$/g, '');
+  const name = clean(body.match(/^[ ]{2}name:[ \t]*(.+)/m)?.[1]);
+  const address = clean(body.match(/^[ ]{2}address:[ \t]*(.+)/m)?.[1]);
   if (!name || !address) { skipNoPlace++; continue; }
   if (/^[ ]{2}busyness:/m.test(body)) { already++; continue; }
 
@@ -64,7 +64,10 @@ for (const f of files) {
   console.log(`  ✓ ${f}  wd-quiet:${arr(bz.weekdayQuiet)} wd-busy:${arr(bz.weekdayBusy)}`);
 
   if (APPLY) {
-    const out = t.replace(/^place:\n(?:[ ]{2}.*\n)+/m, `place:\n${body}${inject}`);
+    // Match the file's own line ending so we don't mix CRLF/LF inside the block.
+    const nl = body.includes('\r\n') ? '\r\n' : '\n';
+    const injectNl = inject.replace(/\n/g, nl);
+    const out = t.replace(/^place:\r?\n(?:[ ]{2}.*\r?\n)+/m, `place:${nl}${body}${injectNl}`);
     if (out !== t) await writeFile(p, out, 'utf8');
   }
 }
