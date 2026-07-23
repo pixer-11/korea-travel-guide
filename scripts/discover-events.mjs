@@ -108,14 +108,15 @@ async function writeDiscovered(item, ctx) {
   const { body, quickAnswer, faq } = await writeArticle({ title, region: item.city, country, category: cat, facts });
   if (!body || body.length < 300) return false;
 
-  // Events → city/place imagery, NOT the event name (a concert query returns a
-  // photo of the performer, which is wrong for a destination tile). Hotspots keep
-  // the venue name. Pass `used` so no two posts share a photo (id-level de-dupe).
-  const isEvent = cat === 'event';
+  // Try the event/venue's own imagery first (a concert's performer photo is fine
+  // for the ARTICLE hero) — the destination TILE already excludes events via
+  // pickRepHeroUrl, so an artist shot never stands in for the place. Pass `used`
+  // so no two posts share the same photo (id-level de-dupe), falling back to
+  // city/country imagery only when nothing specific is found.
   const hero = await resolveHero({
-    namedVenue: isEvent ? null : item.name,
+    namedVenue: item.name,
     region: item.city,
-    topic: isEvent ? null : item.name,
+    topic: item.name,
     country,
     used: ctx.usedImages,
   });

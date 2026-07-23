@@ -17,10 +17,29 @@ export const tokens = (s = '') =>
     .split(/\s+/)
     .filter((w) => w.length > 2);
 
-// First distinctive word of a name, e.g. "Gyeongbokgung Palace" -> "gyeongbokgung".
+// Generic event/tour words that must NOT become the image anchor — otherwise
+// "Post Malone…" anchors on "post" and "UFC Fight Night…" on "fight", matching
+// unrelated photos. Skipping them keeps the anchor on the distinctive proper noun
+// (the act's name), so a concert hero only matches when it's actually that act.
+const ANCHOR_STOP = new Set([
+  'concert', 'concerts', 'festival', 'festivals', 'tour', 'tours', 'live', 'world',
+  'with', 'feat', 'featuring', 'show', 'night', 'nights', 'fight', 'grand', 'prix',
+  'formula', 'open', 'cup', 'final', 'finals', 'championship', 'championships',
+  'anniversary', 'opener', 'week', 'weekend', 'music', 'international', 'presents',
+  'stadium', 'arena', 'vision', 'edition', 'official', 'post', 'big', 'ass', 'the',
+  'and', 'asia', 'asian', 'summer', 'winter', 'series', 'games', 'league',
+]);
+
+// Most distinctive word of a name — e.g. "Gyeongbokgung Palace" -> "gyeongbokgung",
+// "Post Malone – Big Ass World Tour" -> "malone", "UFC Fight Night …" -> "ufc".
 export const keyToken = (s = '') => {
-  const t = tokens(s).filter((w) => w.length > 3);
-  return t[0] || tokens(s)[0] || '';
+  const all = tokens(s); // already length > 2
+  return (
+    all.find((w) => w.length > 3 && !ANCHOR_STOP.has(w)) ||
+    all.find((w) => !ANCHOR_STOP.has(w)) ||
+    all[0] ||
+    ''
+  );
 };
 
 // Raw candidate list for a query (ranked by Commons search relevance).
