@@ -1,6 +1,6 @@
 ---
 title: 'StreetXO Ibiza in Ibiza: A Visitor''s Guide'
-description: 'StreetXO Ibiza in Ibiza, Spain — a new/trending spot: what it is, where it is, and how to visit.'
+description: "StreetXO Ibiza is chef Dabiz Muñoz's high-concept street food restaurant inside The Unexpected Ibiza Hotel, built around a central bar and open kitchen."
 country: Spain
 region: Ibiza
 category: trendy

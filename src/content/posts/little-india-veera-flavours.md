@@ -1,6 +1,6 @@
 ---
 title: "Veera Flavours: Where to Eat in Little India"
-description: "Veera Flavours is a highly rated (4.7 stars, nearly 2,000 reviews) South Indian vegetarian restaurant at 41 Kerbau Road in the heart of Little India, best…"
+description: "Veera Flavours is a highly rated (4.7 stars, nearly 2,000 reviews) South Indian vegetarian restaurant at 41 Kerbau Road in the heart of Little India, best"
 country: "Singapore"
 region: "Little India"
 category: "restaurant"

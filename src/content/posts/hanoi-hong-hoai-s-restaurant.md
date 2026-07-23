@@ -1,6 +1,6 @@
 ---
 title: "Hong Hoai's Restaurant: Where to Eat in Hanoi"
-description: "Hong Hoai's Restaurant sits in the Old Quarter near the corner of Bát Đàn and Hàng Bồ streets in Hoàn Kiếm district, a few minutes' walk from Hoàn Kiếm…"
+description: "Hong Hoai's Restaurant sits in the Old Quarter near the corner of Bát Đàn and Hàng Bồ streets in Hoàn Kiếm district, a few minutes' walk from Hoàn Kiếm Lake."
 country: "Vietnam"
 region: "Hanoi"
 category: "restaurant"

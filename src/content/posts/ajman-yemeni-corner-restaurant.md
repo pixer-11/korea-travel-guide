@@ -1,6 +1,6 @@
 ---
 title: "Yemeni Corner Restaurant: Where to Eat in Ajman"
-description: "Yemeni Corner Restaurant (مطعم الركن اليمني للمندي) on Al Zahir Street in Ajman is a go-to spot for mandi — slow-smoked, tender lamb or chicken over spiced…"
+description: "Yemeni Corner Restaurant (مطعم الركن اليمني للمندي) on Al Zahir Street in Ajman is a go-to spot for mandi — slow-smoked, tender lamb or chicken over spiced"
 country: "United Arab Emirates"
 region: "Ajman"
 category: "restaurant"

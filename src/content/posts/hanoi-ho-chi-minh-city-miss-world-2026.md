@@ -1,6 +1,6 @@
 ---
 title: 'Miss World 2026: What to Know (Hanoi)'
-description: Miss World 2026 in Hanoi, Vietnam — August 9 – September 5, 2026. What it is, when and where, and how to plan around it.
+description: "Miss World 2026 — the pageant's 75th anniversary edition — runs August 9 to September 5, 2026, with roughly 130 national delegates touring Vietnam before the"
 country: Vietnam
 region: Hanoi
 category: event

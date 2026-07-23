@@ -1,6 +1,6 @@
 ---
 title: "Lan Lek Lek: Where to Eat in Krabi"
-description: "Lan Lek Lek is a no-frills, budget-friendly Thai eatery on Soi Maharaj 10 in Krabi Town, a short walk or tuk-tuk ride from the Chao Fah Pier night market…"
+description: "Lan Lek Lek is a no-frills, budget-friendly Thai eatery on Soi Maharaj 10 in Krabi Town, a short walk or tuk-tuk ride from the Chao Fah Pier night market"
 country: "Thailand"
 region: "Krabi"
 category: "restaurant"

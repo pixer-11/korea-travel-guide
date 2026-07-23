@@ -1,6 +1,6 @@
 ---
 title: "Kinkaku-ji: A Visitor's Guide in Kyoto"
-description: "Kinkaku-ji, the Golden Pavilion, is a gold-leaf-covered Zen temple reflected in Kyōko-chi pond in northwest Kyoto's Kita Ward. Plan for 30-45 minutes on a…"
+description: "Kinkaku-ji, the Golden Pavilion, is a gold-leaf-covered Zen temple reflected in Kyōko-chi pond in northwest Kyoto's Kita Ward."
 country: "Japan"
 region: "Kyoto"
 category: "attraction"

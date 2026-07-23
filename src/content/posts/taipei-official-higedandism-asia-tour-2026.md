@@ -1,6 +1,6 @@
 ---
 title: 'Official HIGEDANDISM Asia Tour 2026: What to Know (Taipei)'
-description: Official HIGEDANDISM Asia Tour 2026 in Taipei, Taiwan — August 29–30, 2026. What it is, when and where, and how to plan around it.
+description: "Official HIGEDANDISM (Hige Dan) brings its Asia Tour 2026 to Taipei Dome for two nights, August 29–30, 2026, with the band debuting new songs \"Stardust\" and"
 country: Taiwan
 region: Taipei
 category: event

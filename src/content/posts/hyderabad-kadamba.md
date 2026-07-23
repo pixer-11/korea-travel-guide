@@ -1,6 +1,6 @@
 ---
 title: 'Kadamba in Hyderabad: A Visitor''s Guide'
-description: 'Kadamba in Hyderabad, India — a new/trending spot: what it is, where it is, and how to visit.'
+description: "Kadamba is a rooftop bar overlooking Durgam Cheruvu lake in Madhapur, Hyderabad, built around three live Kadamba trees and low, in-situ seating styled like a"
 country: India
 region: Hyderabad
 category: trendy

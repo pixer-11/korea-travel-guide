@@ -1,6 +1,6 @@
 ---
 title: "Ayasofya Turkish Restaurant: Where to Eat in Kampong Glam"
-description: "Ayasofya is a Turkish restaurant at 51 Bussorah St, on the pedestrianized heritage street leading up to Masjid Sultan in Kampong Glam. It's best for a…"
+description: "Ayasofya is a Turkish restaurant at 51 Bussorah St, on the pedestrianized heritage street leading up to Masjid Sultan in Kampong Glam."
 country: "Singapore"
 region: "Kampong Glam"
 category: "restaurant"

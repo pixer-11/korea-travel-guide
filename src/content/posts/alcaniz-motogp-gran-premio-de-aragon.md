@@ -1,6 +1,6 @@
 ---
 title: 'MotoGP Gran Premio de Aragón: What to Know (Alcañiz)'
-description: MotoGP Gran Premio de Aragón in Alcañiz, Spain — August 28-30, 2026. What it is, when and where, and how to plan around it.
+description: "The Gran Premio de Aragón takes place August 28–30, 2026 at MotorLand Aragón, about 6 km outside Alcañiz in the Teruel province of Aragón, Spain."
 country: Spain
 region: Alcañiz
 category: event

@@ -1,6 +1,6 @@
 ---
 title: "Forest Outings: A Visitor's Guide in Incheon"
-description: "Forest Outings is a large, plant-filled café-restaurant complex at 145 Cheongnyang-ro in Yeonsu-gu, Incheon, best known for its greenhouse-style dining…"
+description: "Forest Outings is a large, plant-filled café-restaurant complex at 145 Cheongnyang-ro in Yeonsu-gu, Incheon, best known for its greenhouse-style dining rooms"
 country: "South Korea"
 region: "Incheon"
 category: "trendy"

@@ -1,6 +1,6 @@
 ---
 title: "Po Nagar Temple: A Visitor's Guide in Nha Trang"
-description: "Po Nagar is a cluster of Cham brick towers built between the 8th and 13th centuries, perched on a small hill on the north bank of the Cai River in Nha…"
+description: "Po Nagar is a cluster of Cham brick towers built between the 8th and 13th centuries, perched on a small hill on the north bank of the Cai River in Nha Trang."
 country: "Vietnam"
 region: "Nha Trang"
 category: "attraction"

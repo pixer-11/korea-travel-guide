@@ -1,6 +1,6 @@
 ---
 title: "Summer Sonic 2026: What to Know (Tokyo & Osaka)"
-description: "Summer Sonic 2026 runs August 14–16, 2026, simultaneously in Chiba (Tokyo area) and Osaka, marking the festival's 25th anniversary and its first-ever…"
+description: "Summer Sonic 2026 runs August 14–16, 2026, simultaneously in Chiba (Tokyo area) and Osaka, marking the festival's 25th anniversary and its first-ever"
 country: Japan
 region: Chiba
 category: event

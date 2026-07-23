@@ -1,6 +1,6 @@
 ---
 title: 'Top Attraction in Yeosu: A Visitor''s Guide'
-description: "Yeosu's top attraction is the Yeosu Maritime Cable Car, which links Jasan Park on the mainland to Dolsan Island over Yeosu Bay, giving a sweeping view of…"
+description: "Yeosu's top attraction is the Yeosu Maritime Cable Car, which links Jasan Park on the mainland to Dolsan Island over Yeosu Bay, giving a sweeping view of the"
 region: Yeosu
 category: attraction
 pubDate: 2026-07-20T00:00:00.000Z

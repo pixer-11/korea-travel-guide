@@ -1,6 +1,6 @@
 ---
 title: "Dotonbori: Where to Eat in Osaka"
-description: "Dotonbori, along the canal in Chuo Ward, is Osaka's best one-stop strip for the city's signature street food — takoyaki, okonomiyaki, kushikatsu, and ramen…"
+description: "Dotonbori, along the canal in Chuo Ward, is Osaka's best one-stop strip for the city's signature street food — takoyaki, okonomiyaki, kushikatsu, and ramen"
 country: "Japan"
 region: "Osaka"
 category: "restaurant"

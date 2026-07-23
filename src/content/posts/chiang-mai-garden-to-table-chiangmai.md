@@ -1,6 +1,6 @@
 ---
 title: "Garden to Table Chiangmai: Where to Eat in Chiang Mai"
-description: "Garden to Table Chiangmai is a casual, plant-filled restaurant inside the Old City walls on Ratchapakhinai Road, prized for fresh Thai and Northern (Lanna)…"
+description: "Garden to Table Chiangmai is a casual, plant-filled restaurant inside the Old City walls on Ratchapakhinai Road, prized for fresh Thai and Northern (Lanna)"
 country: "Thailand"
 region: "Chiang Mai"
 category: "restaurant"

@@ -1,6 +1,6 @@
 ---
 title: 'Sabato''s in Kuala Lumpur: A Visitor''s Guide'
-description: 'Sabato''s in Kuala Lumpur, Malaysia — a new/trending spot: what it is, where it is, and how to visit.'
+description: "Sabato's is a buzzy Italian-American restaurant inside Kimpton Naluria at Tun Razak Exchange (TRX) in Kuala Lumpur, built around a 1970s New York disco theme"
 country: Malaysia
 region: Kuala Lumpur
 category: trendy

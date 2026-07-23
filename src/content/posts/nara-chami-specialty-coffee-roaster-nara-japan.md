@@ -1,6 +1,6 @@
 ---
 title: "CHAMI - Specialty Coffee Roaster - Nara, JAPAN: A Visitor's Guide in Nara"
-description: "CHAMI is a specialty coffee roaster in Nara's old town, a short walk from Nara Park and Yanagi-Chaya Station, known for single-origin pour-overs and a…"
+description: "CHAMI is a specialty coffee roaster in Nara's old town, a short walk from Nara Park and Yanagi-Chaya Station, known for single-origin pour-overs and a"
 country: "Japan"
 region: "Nara"
 category: "trendy"

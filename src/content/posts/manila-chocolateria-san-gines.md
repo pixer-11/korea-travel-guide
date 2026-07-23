@@ -1,6 +1,6 @@
 ---
 title: 'Chocolatería San Ginés in Manila: A Visitor''s Guide'
-description: 'Chocolatería San Ginés in Manila, Philippines — a new/trending spot: what it is, where it is, and how to visit.'
+description: "Chocolatería San Ginés — the 1894 Madrid institution famous for churros con chocolate — has opened its Asia flagship in Manila, bringing the same thick hot"
 country: Philippines
 region: Manila
 category: restaurant

@@ -1,6 +1,6 @@
 ---
 title: 'MULJIL in Kuala Lumpur: A Visitor''s Guide'
-description: 'MULJIL in Kuala Lumpur, Malaysia — a new/trending spot: what it is, where it is, and how to visit.'
+description: "MULJIL is a new Korean coastal-cuisine restaurant at The Five in Damansara Heights, Kuala Lumpur, born from a collaboration between Maljiro and Taan Korean"
 country: Malaysia
 region: Kuala Lumpur
 category: restaurant

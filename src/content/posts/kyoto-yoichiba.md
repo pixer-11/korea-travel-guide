@@ -1,6 +1,6 @@
 ---
 title: "yoichiba: Where to Eat in Kyoto"
-description: "Yoichiba is a small, highly-rated izakaya-style restaurant in Nakagyo Ward, central Kyoto, best booked ahead for dinner given its 4.8 rating across 421…"
+description: "Yoichiba is a small, highly-rated izakaya-style restaurant in Nakagyo Ward, central Kyoto, best booked ahead for dinner given its 4.8 rating across 421"
 country: "Japan"
 region: "Kyoto"
 category: "restaurant"

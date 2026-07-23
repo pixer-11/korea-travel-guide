@@ -1,6 +1,6 @@
 ---
 title: "The Tree Restaurant Yogyakarta: Where to Eat in Yogyakarta"
-description: "The Tree Restaurant Yogyakarta is a quiet, garden-set dining spot in Sambirejo village, Prambanan district — about 25-30 minutes' drive east of central…"
+description: "The Tree Restaurant Yogyakarta is a quiet, garden-set dining spot in Sambirejo village, Prambanan district — about 25-30 minutes' drive east of central"
 country: "Indonesia"
 region: "Yogyakarta"
 category: "restaurant"

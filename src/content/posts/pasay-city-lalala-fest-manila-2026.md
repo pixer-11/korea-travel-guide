@@ -1,6 +1,6 @@
 ---
 title: 'LaLaLa Fest Manila 2026: What to Know (Pasay City)'
-description: LaLaLa Fest Manila 2026 in Pasay City, Philippines — August 21, 2026. What it is, when and where, and how to plan around it.
+description: "LaLaLa Fest Manila 2026 is set for August 21, 2026 at the World Trade Center Manila in Pasay City, headlined by Steve Lacy and Two Door Cinema Club."
 country: Philippines
 region: Pasay City
 category: event

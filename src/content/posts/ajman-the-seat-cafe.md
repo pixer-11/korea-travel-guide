@@ -1,6 +1,6 @@
 ---
 title: "The seat cafe: A Visitor's Guide in Ajman"
-description: "The Seat Cafe is a trendy, under-the-radar coffee shop in Ajman's Al Heliow area, holding a strong 4.7 rating across 873 reviews. It's best visited on a…"
+description: "The Seat Cafe is a trendy, under-the-radar coffee shop in Ajman's Al Heliow area, holding a strong 4.7 rating across 873 reviews."
 country: "United Arab Emirates"
 region: "Ajman"
 category: "trendy"

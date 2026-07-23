@@ -1,6 +1,6 @@
 ---
 title: "GYUMON Hiroshima: Where to Eat in Hiroshima"
-description: "GYUMON Hiroshima is a highly-rated yakiniku (grilled beef) restaurant on the 4th floor of the HM Hondori Kaikan building in Naka Ward's Hondori shopping…"
+description: "GYUMON Hiroshima is a highly-rated yakiniku (grilled beef) restaurant on the 4th floor of the HM Hondori Kaikan building in Naka Ward's Hondori shopping"
 country: "Japan"
 region: "Hiroshima"
 category: "restaurant"

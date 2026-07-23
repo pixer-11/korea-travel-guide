@@ -1,6 +1,6 @@
 ---
 title: 'LaLaLa Festival 2026: What to Know (Jakarta)'
-description: LaLaLa Festival 2026 in Jakarta, Indonesia — August 22–23, 2026. What it is, when and where, and how to plan around it.
+description: "LaLaLa Festival 2026 runs August 22–23, 2026 at Jakarta International Expo (JIExpo) in Kemayoran, Central Jakarta, headlined by Steve Lacy, Two Door Cinema"
 country: Indonesia
 region: Jakarta
 category: event

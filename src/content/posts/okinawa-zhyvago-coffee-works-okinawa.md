@@ -1,6 +1,6 @@
 ---
 title: "Zhyvago Coffee Works Okinawa: A Visitor's Guide in Okinawa"
-description: "Zhyvago Coffee Works Okinawa is an industrial-chic specialty coffee shop in Mihama, Chatan — right by American Village — with a beach-facing terrace and a…"
+description: "Zhyvago Coffee Works Okinawa is an industrial-chic specialty coffee shop in Mihama, Chatan — right by American Village — with a beach-facing terrace and a"
 country: "Japan"
 region: "Okinawa"
 category: "trendy"

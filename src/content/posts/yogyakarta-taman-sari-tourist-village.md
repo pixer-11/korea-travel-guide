@@ -1,6 +1,6 @@
 ---
 title: "Taman Sari Tourist Village: A Visitor's Guide in Yogyakarta"
-description: "Taman Sari (the Water Castle) is an 18th-century royal garden and bathing complex in Yogyakarta's Kraton district, best visited early morning (around 8-9am)…"
+description: "Taman Sari (the Water Castle) is an 18th-century royal garden and bathing complex in Yogyakarta's Kraton district, best visited early morning (around 8-9am)"
 country: "Indonesia"
 region: "Yogyakarta"
 category: "attraction"

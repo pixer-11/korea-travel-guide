@@ -1,6 +1,6 @@
 ---
 title: "LiLo Coffee Roasters: A Visitor's Guide in Osaka"
-description: "LiLo Coffee Roasters is a small, highly-rated specialty coffee bar in Nishishinsaibashi, Chuo Ward — about a 5–8 minute walk from Shinsaibashi or Yotsubashi…"
+description: "LiLo Coffee Roasters is a small, highly-rated specialty coffee bar in Nishishinsaibashi, Chuo Ward — about a 5–8 minute walk from Shinsaibashi or Yotsubashi"
 country: "Japan"
 region: "Osaka"
 category: "trendy"

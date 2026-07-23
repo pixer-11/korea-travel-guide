@@ -1,6 +1,6 @@
 ---
 title: 'Futura in Rome: A Visitor''s Guide'
-description: 'Futura in Rome, Italy — a new/trending spot: what it is, where it is, and how to visit.'
+description: "Futura is a tiny, 20-seat contemporary restaurant that opened in 2025 on Via Panisperna in Monti, run by chef Anastasia Paris, with an open-air kitchen and"
 country: Italy
 region: Rome
 category: trendy

@@ -1,6 +1,6 @@
 ---
 title: "Al Fanar Restaurant & Cafe: Where to Eat in Al Ain"
-description: "Al Fanar Restaurant & Cafe in Souq Al Zafarana (Al Jimi, Al Ain) is a long-running Emirati/Gulf-style eatery known for machboos, harees, and slow-cooked…"
+description: "Al Fanar Restaurant & Cafe in Souq Al Zafarana (Al Jimi, Al Ain) is a long-running Emirati/Gulf-style eatery known for machboos, harees, and slow-cooked"
 country: "United Arab Emirates"
 region: "Al Ain"
 category: "restaurant"

@@ -1,6 +1,6 @@
 ---
 title: "Ajman Secret Beach: A Visitor's Guide in Ajman"
-description: "Ajman Secret Beach sits inside the Al Zorah district on Ajman's northern coastline, a quiet stretch of sand backed by mangroves and low dunes that sees far…"
+description: "Ajman Secret Beach sits inside the Al Zorah district on Ajman's northern coastline, a quiet stretch of sand backed by mangroves and low dunes that sees far"
 country: "United Arab Emirates"
 region: "Ajman"
 category: "hidden-gem"

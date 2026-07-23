@@ -1,6 +1,6 @@
 ---
 title: "Chengdu Research Base of Giant Panda Breeding: A Visitor's Guide in Chengdu"
-description: "Arrive right at opening (7:30am) to see pandas at their most active, before they retreat from the heat and crowds. Plan for 2.5–4 hours to cover the main…"
+description: "Arrive right at opening (7:30am) to see pandas at their most active, before they retreat from the heat and crowds."
 country: "China"
 region: "Chengdu"
 category: "attraction"

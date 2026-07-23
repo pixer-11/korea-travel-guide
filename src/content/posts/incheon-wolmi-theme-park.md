@@ -1,6 +1,6 @@
 ---
 title: 'Wolmi Theme Park: A Visitor''s Guide in Incheon'
-description: "Wolmi Theme Park is a compact, old-school amusement park on Wolmido Island in Incheon's Jung-gu, best reached via Incheon Station (Incheon Line 1) followed…"
+description: "Wolmi Theme Park is a compact, old-school amusement park on Wolmido Island in Incheon's Jung-gu, best reached via Incheon Station (Incheon Line 1) followed"
 region: Incheon
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z

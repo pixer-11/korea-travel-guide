@@ -1,6 +1,6 @@
 ---
 title: "Notre-Dame de la Garde: A Visitor's Guide in Marseille"
-description: "Notre-Dame de la Garde is the neo-Byzantine basilica atop Marseille's highest hill (154m), topped by a 9.5m gilded statue of the Virgin Mary. It's free to…"
+description: "Notre-Dame de la Garde is the neo-Byzantine basilica atop Marseille's highest hill (154m), topped by a 9.5m gilded statue of the Virgin Mary."
 country: "France"
 region: "Marseille"
 category: "attraction"

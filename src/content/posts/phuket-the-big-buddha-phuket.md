@@ -1,6 +1,6 @@
 ---
 title: "The Big Buddha, Phuket: A Visitor's Guide in Phuket"
-description: "The Big Buddha (Phra Puttamingmongkol Akenakkiri) sits atop Nakkerd Hill between Chalong and Kata, roughly a 30-45 minute drive from Patong or Phuket Town.…"
+description: "The Big Buddha (Phra Puttamingmongkol Akenakkiri) sits atop Nakkerd Hill between Chalong and Kata, roughly a 30-45 minute drive from Patong or Phuket Town."
 country: "Thailand"
 region: "Phuket"
 category: "attraction"

@@ -1,6 +1,6 @@
 ---
 title: "Lau Pa Sat: Where to Eat in Sentosa"
-description: "Lau Pa Sat is a Victorian-era cast-iron hawker hall at 18 Raffles Quay in the Downtown Core/CBD — not on Sentosa island itself, so budget about 20–30…"
+description: "Lau Pa Sat is a Victorian-era cast-iron hawker hall at 18 Raffles Quay in the Downtown Core/CBD — not on Sentosa island itself, so budget about 20–30 minutes"
 country: "Singapore"
 region: "Sentosa"
 category: "restaurant"

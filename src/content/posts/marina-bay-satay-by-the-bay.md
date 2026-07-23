@@ -1,6 +1,6 @@
 ---
 title: "Satay by the Bay: Where to Eat in Marina Bay"
-description: "Satay by the Bay is an open-air hawker-style food court inside Gardens by the Bay (18 Marina Gardens Dr, #01-19), best known for grilled satay but with…"
+description: "Satay by the Bay is an open-air hawker-style food court inside Gardens by the Bay (18 Marina Gardens Dr, #01-19), best known for grilled satay but with"
 country: "Singapore"
 region: "Marina Bay"
 category: "restaurant"

@@ -1,6 +1,6 @@
 ---
 title: "CHAI OF THE TIGER (Indian Street Food): Where to Eat in Bali"
-description: "CHAI OF THE TIGER is a small Indian street-food spot in Tebesaya, Peliatan (just southeast of central Ubud), serving chaat, kathi rolls, and masala chai in…"
+description: "CHAI OF THE TIGER is a small Indian street-food spot in Tebesaya, Peliatan (just southeast of central Ubud), serving chaat, kathi rolls, and masala chai in a"
 country: "Indonesia"
 region: "Bali"
 category: "restaurant"

@@ -1,6 +1,6 @@
 ---
 title: "Dago Dreampark: A Visitor's Guide in Bandung"
-description: "Dago Dreampark is a pine-forest adventure park on the Bandung–Lembang road, best known for ATV trails, paintball, and themed selfie spots like giant swings…"
+description: "Dago Dreampark is a pine-forest adventure park on the Bandung–Lembang road, best known for ATV trails, paintball, and themed selfie spots like giant swings"
 country: "Indonesia"
 region: "Bandung"
 category: "attraction"

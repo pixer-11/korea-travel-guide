@@ -1,6 +1,6 @@
 ---
 title: "Kampong Glam: A Visitor's Guide in Kampong Glam"
-description: "Kampong Glam is Singapore's historic Malay-Muslim quarter, anchored by the golden-domed Masjid Sultan and the pedestrianized Bussorah Street leading up to…"
+description: "Kampong Glam is Singapore's historic Malay-Muslim quarter, anchored by the golden-domed Masjid Sultan and the pedestrianized Bussorah Street leading up to"
 country: "Singapore"
 region: "Kampong Glam"
 category: "hidden-gem"

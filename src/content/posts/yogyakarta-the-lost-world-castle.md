@@ -1,6 +1,6 @@
 ---
 title: "The Lost World Castle: A Visitor's Guide in Yogyakarta"
-description: "The Lost World Castle is a medieval-fort-styled viewpoint and geology visitor center on the slopes of Mount Merapi in Cangkringan, Sleman, about 25-30km…"
+description: "The Lost World Castle is a medieval-fort-styled viewpoint and geology visitor center on the slopes of Mount Merapi in Cangkringan, Sleman, about 25-30km"
 country: "Indonesia"
 region: "Yogyakarta"
 category: "hidden-gem"

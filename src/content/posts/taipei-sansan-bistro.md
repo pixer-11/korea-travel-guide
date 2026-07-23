@@ -1,6 +1,6 @@
 ---
 title: 'Sansan Bistro in Taipei: A Visitor''s Guide'
-description: 'Sansan Bistro in Taipei, Taiwan — a new/trending spot: what it is, where it is, and how to visit.'
+description: "Sansan Bistro is a neo-Sichuan restaurant and cocktail bar in Taipei that landed in the Michelin Guide Taiwan in January 2026, known for a striking"
 country: Taiwan
 region: Taipei
 category: trendy

@@ -1,6 +1,6 @@
 ---
 title: "Manly: A Visitor's Guide in Fukuoka"
-description: "Manly is an Australian-themed all-day café in Imaizumi, a short walk south of Tenjin, best known for fluffy ricotta hotcakes, all-day breakfast plates, and…"
+description: "Manly is an Australian-themed all-day café in Imaizumi, a short walk south of Tenjin, best known for fluffy ricotta hotcakes, all-day breakfast plates, and"
 country: "Japan"
 region: "Fukuoka"
 category: "trendy"

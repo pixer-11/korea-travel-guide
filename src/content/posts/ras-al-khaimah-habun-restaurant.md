@@ -1,6 +1,6 @@
 ---
 title: "Habun Restaurant: Where to Eat in Ras Al Khaimah"
-description: "Habun Restaurant sits in Grove Village, Khuzam, a residential pocket of Ras Al Khaimah city inland from the Corniche, and has built a 4.8-star reputation…"
+description: "Habun Restaurant sits in Grove Village, Khuzam, a residential pocket of Ras Al Khaimah city inland from the Corniche, and has built a 4.8-star reputation"
 country: "United Arab Emirates"
 region: "Ras Al Khaimah"
 category: "restaurant"

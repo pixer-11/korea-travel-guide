@@ -1,6 +1,6 @@
 ---
 title: 'World Athletics Continental Tour Silver Meet: What to Know (Bhubaneswar)'
-description: World Athletics Continental Tour Silver Meet in Bhubaneswar, India — August 22, 2026. What it is, when and where, and how to plan around it.
+description: "Bhubaneswar hosts India's first World Athletics Continental Tour Silver Meet on August 22, 2026, at Kalinga Stadium — an upgrade from the Bronze-level meet"
 country: India
 region: Bhubaneswar
 category: event

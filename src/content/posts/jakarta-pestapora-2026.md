@@ -1,6 +1,6 @@
 ---
 title: 'Pestapora 2026: What to Know (Jakarta)'
-description: Pestapora 2026 in Jakarta, Indonesia — September 25–27, 2026. What it is, when and where, and how to plan around it.
+description: "Pestapora 2026 runs September 25–27, 2026 in Jakarta, marking the festival's fifth edition."
 country: Indonesia
 region: Jakarta
 category: event

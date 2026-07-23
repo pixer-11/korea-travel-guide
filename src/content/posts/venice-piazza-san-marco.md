@@ -1,6 +1,6 @@
 ---
 title: "Piazza San Marco: A Visitor's Guide in Venice"
-description: "Piazza San Marco is Venice's grand central square, framed by St. Mark's Basilica, the Campanile bell tower, and the Doge's Palace. Go early (before 9am) or…"
+description: "Piazza San Marco is Venice's grand central square, framed by St. Mark's Basilica, the Campanile bell tower, and the Doge's Palace."
 country: "Italy"
 region: "Venice"
 category: "attraction"

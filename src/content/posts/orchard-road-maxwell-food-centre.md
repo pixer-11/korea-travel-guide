@@ -1,6 +1,6 @@
 ---
 title: "Maxwell Food Centre: Where to Eat in Orchard Road"
-description: "Maxwell Food Centre is a Chinatown hawker hall, not actually on Orchard Road — it's about a 15-20 minute MRT ride away, near Chinatown MRT (Exit A/E). Go…"
+description: "Maxwell Food Centre is a Chinatown hawker hall, not actually on Orchard Road — it's about a 15-20 minute MRT ride away, near Chinatown MRT (Exit A/E)."
 country: "Singapore"
 region: "Orchard Road"
 category: "restaurant"

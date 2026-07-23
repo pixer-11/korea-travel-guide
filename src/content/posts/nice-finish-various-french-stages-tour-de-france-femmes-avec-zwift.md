@@ -1,6 +1,6 @@
 ---
 title: 'Tour de France Femmes avec Zwift: What to Know in Nice'
-description: Tour de France Femmes avec Zwift finishing in Nice, France — August 1–9, 2026. What it is, when and where, and how to plan around it.
+description: "The 2026 Tour de France Femmes avec Zwift runs August 1–9, with a Grand Départ in Lausanne, Switzerland, a summit stage on Mont Ventoux, and the finale on"
 country: France
 region: Nice
 category: event

@@ -1,6 +1,6 @@
 ---
 title: 'Local Restaurant in Incheon: A Visitor''s Guide'
-description: "For an authentic local meal in Incheon, head to Sinpo International Market (Line 1, Dongincheon Station, Exit 3) for the city's signature dak-gangjeong…"
+description: "For an authentic local meal in Incheon, head to Sinpo International Market (Line 1, Dongincheon Station, Exit 3) for the city's signature dak-gangjeong"
 region: Incheon
 category: restaurant
 pubDate: 2026-07-20T00:00:00.000Z

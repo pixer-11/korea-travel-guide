@@ -1,6 +1,6 @@
 ---
 title: 'Kubaba in Paris: A Visitor''s Guide'
-description: 'Kubaba in Paris, France — a new/trending spot: what it is, where it is, and how to visit.'
+description: "Kubaba is a splashy new Levantine restaurant from Dalia Group's Benjamin Cohen and Julien Casbas, occupying a 360-square-metre former butcher's shop near"
 country: France
 region: Paris
 category: trendy

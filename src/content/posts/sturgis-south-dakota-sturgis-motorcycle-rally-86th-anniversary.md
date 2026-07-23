@@ -1,6 +1,6 @@
 ---
 title: 'Sturgis Motorcycle Rally (86th Anniversary): What to Know (Sturgis)'
-description: Sturgis Motorcycle Rally (86th Anniversary) in Sturgis, United States — August 7–16, 2026. What it is, when and where, and how to plan around it.
+description: "The 86th Sturgis Motorcycle Rally runs August 7–16, 2026, in Sturgis, drawing around half a million riders to the Black Hills for concerts, races, and scenic"
 country: United States
 region: Sturgis
 category: event

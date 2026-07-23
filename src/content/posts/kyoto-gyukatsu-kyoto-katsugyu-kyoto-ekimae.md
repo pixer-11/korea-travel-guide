@@ -1,6 +1,6 @@
 ---
 title: "GYUKATSU Kyoto Katsugyu Kyoto Ekimae: Where to Eat in Kyoto"
-description: "GYUKATSU Kyoto Katsugyu Kyoto Ekimae is a breaded, deep-fried beef cutlet (gyukatsu) specialist steps from Kyoto Station, best eaten for lunch when queues…"
+description: "GYUKATSU Kyoto Katsugyu Kyoto Ekimae is a breaded, deep-fried beef cutlet (gyukatsu) specialist steps from Kyoto Station, best eaten for lunch when queues"
 country: "Japan"
 region: "Kyoto"
 category: "restaurant"

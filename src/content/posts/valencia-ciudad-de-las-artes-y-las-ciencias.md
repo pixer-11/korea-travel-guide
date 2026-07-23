@@ -1,6 +1,6 @@
 ---
 title: "Ciudad de las Artes y las Ciencias: A Visitor's Guide in Valencia"
-description: "The Ciudad de las Artes y las Ciencias is Valencia's futuristic museum-and-park complex at the eastern end of the drained Turia riverbed, built by…"
+description: "The Ciudad de las Artes y las Ciencias is Valencia's futuristic museum-and-park complex at the eastern end of the drained Turia riverbed, built by architects"
 country: "Spain"
 region: "Valencia"
 category: "attraction"

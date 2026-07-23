@@ -1,6 +1,6 @@
 ---
 title: 'Gyeongbokgung Palace: A Visitor''s Guide in Seoul'
-description: "Gyeongbokgung Palace, Seoul's largest and grandest Joseon-era royal palace, is best reached via Gyeongbokgung Station (Line 3), Exit 5, which leads almost…"
+description: "Gyeongbokgung Palace, Seoul's largest and grandest Joseon-era royal palace, is best reached via Gyeongbokgung Station (Line 3), Exit 5, which leads almost"
 region: Seoul
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z

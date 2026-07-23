@@ -1,6 +1,6 @@
 ---
 title: "Statue of Liberty: A Visitor's Guide in New York"
-description: "Visit the Statue of Liberty by taking the official Statue City Cruises ferry from Battery Park in Manhattan (or Liberty State Park in New Jersey), which is…"
+description: "Visit the Statue of Liberty by taking the official Statue City Cruises ferry from Battery Park in Manhattan (or Liberty State Park in New Jersey), which is"
 country: "United States"
 region: "New York"
 category: "attraction"

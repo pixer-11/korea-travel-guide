@@ -1,6 +1,6 @@
 ---
 title: "Pondok Pohon Tanjung Bunga: A Visitor's Guide in Labuan Bajo"
-description: "Pondok Pohon Tanjung Bunga is a hillside viewpoint and simple rest-stop on the Tanjung Bunga headland just outside Labuan Bajo town, best visited late…"
+description: "Pondok Pohon Tanjung Bunga is a hillside viewpoint and simple rest-stop on the Tanjung Bunga headland just outside Labuan Bajo town, best visited late"
 country: "Indonesia"
 region: "Labuan Bajo"
 category: "attraction"

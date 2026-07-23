@@ -1,6 +1,6 @@
 ---
 title: "Vieux Lyon: A Visitor's Guide in Lyon"
-description: "Vieux Lyon is the Renaissance quarter on the west bank of the Saône, best explored on foot in a half-day: wander the traboules (hidden passageways), climb…"
+description: "Vieux Lyon is the Renaissance quarter on the west bank of the Saône, best explored on foot in a half-day: wander the traboules (hidden passageways), climb to"
 country: "France"
 region: "Lyon"
 category: "hidden-gem"

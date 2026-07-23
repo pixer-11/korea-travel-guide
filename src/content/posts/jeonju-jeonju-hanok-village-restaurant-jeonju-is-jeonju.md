@@ -1,6 +1,6 @@
 ---
 title: "Jeonju hanok village restaurant jeonju is jeonju: Where to Eat in Jeonju"
-description: "Head to the Jeonju Hanok Village (Wansan-gu) for the city's signature dish, bibimbap, along with makgeolli (rice wine) and kongnamul-gukbap (bean-sprout…"
+description: "Head to the Jeonju Hanok Village (Wansan-gu) for the city's signature dish, bibimbap, along with makgeolli (rice wine) and kongnamul-gukbap (bean-sprout soup"
 country: "South Korea"
 region: "Jeonju"
 category: "restaurant"

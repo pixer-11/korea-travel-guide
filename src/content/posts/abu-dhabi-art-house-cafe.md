@@ -1,6 +1,6 @@
 ---
 title: "Art House Cafe: A Visitor's Guide in Abu Dhabi"
-description: "Art House Cafe sits inside the Etihad Modern Art Gallery in Abu Dhabi's Al Bateen neighborhood, a colorful, plant-filled spot known for all-day breakfasts,…"
+description: "Art House Cafe sits inside the Etihad Modern Art Gallery in Abu Dhabi's Al Bateen neighborhood, a colorful, plant-filled spot known for all-day breakfasts"
 country: "United Arab Emirates"
 region: "Abu Dhabi"
 category: "trendy"

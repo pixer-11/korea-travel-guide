@@ -1,6 +1,6 @@
 ---
 title: "Al Meshwar Restaurant: Where to Eat in Fujairah"
-description: "Al Meshwar is a busy, no-frills Lebanese grill restaurant on Hamad Bin Abdulla Road in Fujairah City, near Fujairah City Centre mall — a solid choice for…"
+description: "Al Meshwar is a busy, no-frills Lebanese grill restaurant on Hamad Bin Abdulla Road in Fujairah City, near Fujairah City Centre mall — a solid choice for"
 country: "United Arab Emirates"
 region: "Fujairah"
 category: "restaurant"

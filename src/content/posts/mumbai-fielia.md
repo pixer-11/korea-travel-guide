@@ -1,6 +1,6 @@
 ---
 title: 'Fielia in Mumbai: A Visitor''s Guide'
-description: 'Fielia in Mumbai, India — a new/trending spot: what it is, where it is, and how to visit.'
+description: "Fielia is an invite-only \"Cocktail Cinema\" bar designed by Gauri Khan inside a century-old mill building at Mahalaxmi Race Course in Mumbai, and it's"
 country: India
 region: Mumbai
 category: trendy

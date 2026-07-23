@@ -1,6 +1,6 @@
 ---
 title: "Home Dawn Cafe @ Clarke Quay: A Visitor's Guide in Clarke Quay"
-description: "Home Dawn Cafe @ Clarke Quay is a low-key riverside café tucked on the upper level of Block 3A River Valley Road, just behind the main Clarke Quay…"
+description: "Home Dawn Cafe @ Clarke Quay is a low-key riverside café tucked on the upper level of Block 3A River Valley Road, just behind the main Clarke Quay"
 country: "Singapore"
 region: "Clarke Quay"
 category: "trendy"

@@ -1,6 +1,6 @@
 ---
 title: 'Euljiro in Seoul: A Visitor''s Guide'
-description: "Euljiro (을지로) is central Seoul's old printing-and-hardware district, now famous for retro \"newtro\" bars and cafés tucked above metalworking shops. Base…"
+description: "Euljiro (을지로) is central Seoul's old printing-and-hardware district, now famous for retro \"newtro\" bars and cafés tucked above metalworking shops."
 region: Seoul
 category: hidden-gem
 pubDate: 2026-07-20T00:00:00.000Z

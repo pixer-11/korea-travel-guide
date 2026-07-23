@@ -1,6 +1,6 @@
 ---
 title: "Lavender Fields: A Visitor's Guide in Provence"
-description: "The best lavender viewing in Provence runs from around mid-June through early August, peaking in the second half of July, with the Valensole Plateau, the…"
+description: "The best lavender viewing in Provence runs from around mid-June through early August, peaking in the second half of July, with the Valensole Plateau, the"
 country: "France"
 region: "Provence"
 category: "attraction"

@@ -1,6 +1,6 @@
 ---
 title: "Noritake Garden: A Visitor's Guide in Nagoya"
-description: "Noritake Garden is a redeveloped ceramics-factory site in Nishi Ward, about a 10-minute walk from Kamejima Station on the Higashiyama subway line, offering…"
+description: "Noritake Garden is a redeveloped ceramics-factory site in Nishi Ward, about a 10-minute walk from Kamejima Station on the Higashiyama subway line, offering a"
 country: "Japan"
 region: "Nagoya"
 category: "hidden-gem"

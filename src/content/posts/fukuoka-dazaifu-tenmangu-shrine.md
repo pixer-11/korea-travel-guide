@@ -1,6 +1,6 @@
 ---
 title: "Dazaifu Tenmangu Shrine: A Visitor's Guide in Fukuoka"
-description: "Dazaifu Tenmangu, about 30 minutes by train from central Fukuoka, is one of Japan's most important shrines for students and scholars, built over the grave…"
+description: "Dazaifu Tenmangu, about 30 minutes by train from central Fukuoka, is one of Japan's most important shrines for students and scholars, built over the grave of"
 country: "Japan"
 region: "Fukuoka"
 category: "hidden-gem"

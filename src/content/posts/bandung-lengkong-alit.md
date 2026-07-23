@@ -1,6 +1,6 @@
 ---
 title: "Lengkong Alit: A Visitor's Guide in Bandung"
-description: "Lengkong Alit is a low-key family restaurant on Jl. Lengkong Kecil in Bandung's Lengkong/Paledang district, a short taxi or ride-hail trip south of the city…"
+description: "Lengkong Alit is a low-key family restaurant on Jl. Lengkong Kecil in Bandung's Lengkong/Paledang district, a short taxi or ride-hail trip south of the city"
 country: "Indonesia"
 region: "Bandung"
 category: "hidden-gem"

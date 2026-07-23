@@ -1,6 +1,6 @@
 ---
 title: "Khao Rang Viewpoint: A Visitor's Guide in Phuket"
-description: "Khao Rang (Rang Hill) is a hilltop park just northwest of Phuket Town offering the best panoramic views of the town's rooftops, the harbor, and surrounding…"
+description: "Khao Rang (Rang Hill) is a hilltop park just northwest of Phuket Town offering the best panoramic views of the town's rooftops, the harbor, and surrounding"
 country: "Thailand"
 region: "Phuket"
 category: "attraction"

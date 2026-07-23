@@ -1,6 +1,6 @@
 ---
 title: "Sanchon: Where to Eat in Seoul"
-description: "Sanchon is a temple-food restaurant tucked down a narrow alley off Insadong-gil in central Seoul, serving a fixed-course, no-meat, no-garlic/onion menu…"
+description: "Sanchon is a temple-food restaurant tucked down a narrow alley off Insadong-gil in central Seoul, serving a fixed-course, no-meat, no-garlic/onion menu"
 country: "South Korea"
 region: "Seoul"
 category: "restaurant"

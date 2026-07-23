@@ -1,6 +1,6 @@
 ---
 title: "Ajman Museum: A Visitor's Guide in Ajman"
-description: "Ajman Museum occupies the restored 18th-century Ajman Fort in the Al Bustan area near the Corniche, and is well worth 45–60 minutes to see its pearl-trade…"
+description: "Ajman Museum occupies the restored 18th-century Ajman Fort in the Al Bustan area near the Corniche, and is well worth 45–60 minutes to see its pearl-trade"
 country: "United Arab Emirates"
 region: "Ajman"
 category: "attraction"

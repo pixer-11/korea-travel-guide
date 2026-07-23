@@ -1,6 +1,6 @@
 ---
 title: "Le Noir: Where to Eat in Marina Bay"
-description: "Le Noir is a moody, art-filled bar-restaurant inside The Shoppes at Marina Bay Sands (unit #01-84), best booked for a pre- or post-dinner cocktail and small…"
+description: "Le Noir is a moody, art-filled bar-restaurant inside The Shoppes at Marina Bay Sands (unit #01-84), best booked for a pre- or post-dinner cocktail and small"
 country: "Singapore"
 region: "Marina Bay"
 category: "restaurant"

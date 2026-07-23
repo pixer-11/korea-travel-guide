@@ -1,6 +1,6 @@
 ---
 title: 'Lollapalooza 2026: What to Know (Chicago)'
-description: "Lollapalooza 2026 runs July 30–August 2 in Grant Park, Chicago, with headliners including Charli XCX, Lorde, and Doja Cat. Buy tickets and check set times…"
+description: "Lollapalooza 2026 runs July 30–August 2 in Grant Park, Chicago, with headliners including Charli XCX, Lorde, and Doja Cat."
 country: United States
 region: Chicago
 category: event

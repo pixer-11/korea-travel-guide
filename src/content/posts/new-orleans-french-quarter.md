@@ -1,6 +1,6 @@
 ---
 title: "French Quarter: A Visitor's Guide in New Orleans"
-description: "The French Quarter is New Orleans' original 18th-century grid, bounded roughly by Canal Street, Rampart Street, Esplanade Avenue, and the Mississippi River…"
+description: "The French Quarter is New Orleans' original 18th-century grid, bounded roughly by Canal Street, Rampart Street, Esplanade Avenue, and the Mississippi River"
 country: "United States"
 region: "New Orleans"
 category: "hidden-gem"

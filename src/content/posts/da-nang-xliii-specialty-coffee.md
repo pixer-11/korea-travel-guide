@@ -1,6 +1,6 @@
 ---
 title: "XLIII Specialty Coffee: A Visitor's Guide in Da Nang"
-description: "XLIII Specialty Coffee is a sprawling, design-forward café in the Ngũ Hành Sơn district of Da Nang, close to the Marble Mountains and a short ride from My…"
+description: "XLIII Specialty Coffee is a sprawling, design-forward café in the Ngũ Hành Sơn district of Da Nang, close to the Marble Mountains and a short ride from My"
 country: "Vietnam"
 region: "Da Nang"
 category: "trendy"

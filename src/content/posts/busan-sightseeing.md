@@ -1,6 +1,6 @@
 ---
 title: 'Sightseeing in Busan: A Visitor''s Guide'
-description: "Focus a Busan trip around three zones: Haeundae/Gwangalli for beaches and skyline views, Nampo-dong/Jagalchi for old-city harbor life and street food, and…"
+description: "Focus a Busan trip around three zones: Haeundae/Gwangalli for beaches and skyline views, Nampo-dong/Jagalchi for old-city harbor life and street food, and"
 region: Busan
 category: attraction
 pubDate: 2026-07-20T00:00:00.000Z

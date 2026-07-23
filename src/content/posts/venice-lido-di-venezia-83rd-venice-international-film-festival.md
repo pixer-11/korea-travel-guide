@@ -1,6 +1,6 @@
 ---
 title: '83rd Venice International Film Festival: What to Know (Venice)'
-description: 83rd Venice International Film Festival in Venice, Italy — September 2-12, 2026. What it is, when and where, and how to plan around it.
+description: "The 83rd Venice International Film Festival (Mostra) runs September 2–12, 2026, based at the Palazzo del Cinema on the Lido di Venezia, with Maggie"
 country: Italy
 region: Venice
 category: event

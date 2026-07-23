@@ -1,6 +1,6 @@
 ---
 title: "The Artisans Ayutthaya: Where to Eat in Ayutthaya"
-description: "The Artisans Ayutthaya is a riverside café-restaurant on the Ban Run side of the Pa Sak River, a short songthaew or taxi ride from Ayutthaya's historical…"
+description: "The Artisans Ayutthaya is a riverside café-restaurant on the Ban Run side of the Pa Sak River, a short songthaew or taxi ride from Ayutthaya's historical"
 country: "Thailand"
 region: "Ayutthaya"
 category: "restaurant"

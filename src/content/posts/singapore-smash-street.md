@@ -1,6 +1,6 @@
 ---
 title: 'Smash Street in Singapore: A Visitor''s Guide'
-description: 'Smash Street in Singapore, Singapore — a new/trending spot: what it is, where it is, and how to visit.'
+description: "Smash Street is the new smash-burger concept from the team behind the viral pasta bar Scarpetta, serving caramelised, crispy-edged smashed beef patties on"
 country: Singapore
 region: Singapore
 category: trendy

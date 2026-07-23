@@ -1,6 +1,6 @@
 ---
 title: "Oasis 21: A Visitor's Guide in Nagoya"
-description: "Oasis 21 is the glass-decked \"spaceship\" park above Sakae's bus terminal in central Nagoya — free to visit, best at sunset when the elevated \"Water…"
+description: "Oasis 21 is the glass-decked \\\"spaceship\\\" park above Sakae's bus terminal in central Nagoya — free to visit, best at sunset when the elevated \\\"Water"
 country: "Japan"
 region: "Nagoya"
 category: "attraction"

@@ -1,6 +1,6 @@
 ---
 title: "Livingstone: A Visitor's Guide in Bali"
-description: "Livingstone is a large, plant-filled café-restaurant on Jl. Petitenget in Kerobokan, one of the Seminyak-Canggu corridor's most consistently packed all-day…"
+description: "Livingstone is a large, plant-filled café-restaurant on Jl. Petitenget in Kerobokan, one of the Seminyak-Canggu corridor's most consistently packed all-day"
 country: "Indonesia"
 region: "Bali"
 category: "trendy"

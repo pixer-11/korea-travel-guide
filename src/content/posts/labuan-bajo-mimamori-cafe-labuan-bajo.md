@@ -1,6 +1,6 @@
 ---
 title: "MIMAMORI CAFE LABUAN BAJO: A Visitor's Guide in Labuan Bajo"
-description: "Mimamori Cafe is a laid-back coffee shop on Jl. Soekarno Hatta in Labuan Bajo, a short taxi or scooter ride from the harbor, worth a stop for a slow…"
+description: "Mimamori Cafe is a laid-back coffee shop on Jl. Soekarno Hatta in Labuan Bajo, a short taxi or scooter ride from the harbor, worth a stop for a slow"
 country: "Indonesia"
 region: "Labuan Bajo"
 category: "trendy"

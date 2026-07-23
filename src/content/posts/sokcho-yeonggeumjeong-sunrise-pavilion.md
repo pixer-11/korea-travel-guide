@@ -1,6 +1,6 @@
 ---
 title: "Yeonggeumjeong Sunrise Pavilion: A Visitor's Guide in Sokcho"
-description: "Yeonggeumjeong is a two-story hanok-style pavilion perched on a rocky outcrop in Sokcho's Dongmyeong-dong, reached by a short footbridge that's lit up after…"
+description: "Yeonggeumjeong is a two-story hanok-style pavilion perched on a rocky outcrop in Sokcho's Dongmyeong-dong, reached by a short footbridge that's lit up after"
 country: "South Korea"
 region: "Sokcho"
 category: "hidden-gem"

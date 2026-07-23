@@ -1,6 +1,6 @@
 ---
 title: "Bếp Cuốn Đà Nẵng"
-description: "Bếp Cuốn Đà Nẵng, a Michelin Selected restaurant for 2025-2026, specializes in Vietnamese \"cuốn\" (fresh rolls and wrap-your-own dishes) at 31-33 Trần Bạch…"
+description: "Bếp Cuốn Đà Nẵng, a Michelin Selected restaurant for 2025-2026, specializes in Vietnamese \\\"cuốn\\\" (fresh rolls and wrap-your-own dishes) at 31-33 Trần Bạch"
 country: "Vietnam"
 region: "Da Nang"
 category: "restaurant"

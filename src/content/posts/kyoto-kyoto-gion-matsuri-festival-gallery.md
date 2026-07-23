@@ -1,6 +1,6 @@
 ---
 title: "Kyoto Gion Matsuri Festival Gallery: A Visitor's Guide in Kyoto"
-description: "The Gion Matsuri Festival Gallery, tucked in Gionmachi Minamigawa in Higashiyama Ward, is a small permanent exhibition that lets visitors see Gion Matsuri's…"
+description: "The Gion Matsuri Festival Gallery, tucked in Gionmachi Minamigawa in Higashiyama Ward, is a small permanent exhibition that lets visitors see Gion Matsuri's"
 country: "Japan"
 region: "Kyoto"
 category: "event"

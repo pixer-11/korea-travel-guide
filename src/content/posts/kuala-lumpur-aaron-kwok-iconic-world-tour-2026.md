@@ -1,6 +1,6 @@
 ---
 title: 'Aaron Kwok ICONIC World Tour 2026: What to Know (Kuala Lumpur)'
-description: Aaron Kwok ICONIC World Tour 2026 in Kuala Lumpur, Malaysia — September 12, 2026. What it is, when and where, and how to plan around it.
+description: "Aaron Kwok brings his ICONIC World Tour 2026 to Unifi Arena, Bukit Jalil, Kuala Lumpur on September 12, 2026, with a 200-member touring production crew."
 country: Malaysia
 region: Kuala Lumpur
 category: event

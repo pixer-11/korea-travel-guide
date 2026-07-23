@@ -1,6 +1,6 @@
 ---
 title: 'Smith & Wollensky Tokyo in Tokyo: A Visitor''s Guide'
-description: 'Smith & Wollensky Tokyo in Tokyo, Japan — a new/trending spot: what it is, where it is, and how to visit.'
+description: "Smith & Wollensky Tokyo is the famed New York steakhouse's Japan debut, occupying three floors in Ginza and pouring from a cellar of more than 2,000"
 country: Japan
 region: Tokyo
 category: restaurant

@@ -1,6 +1,6 @@
 ---
 title: 'Bad Roman in Los Angeles: A Visitor''s Guide'
-description: 'Bad Roman in Los Angeles, United States — a new/trending spot: what it is, where it is, and how to visit.'
+description: "Bad Roman is a maximalist, see-and-be-seen Italian restaurant from Quality Branded Hospitality (the team behind Don Angie and Zou Zou's) in Beverly Hills"
 country: United States
 region: Los Angeles
 category: trendy

@@ -1,6 +1,6 @@
 ---
 title: "Kenroku-en: A Visitor's Guide in Kanazawa"
-description: "Kenroku-en is Kanazawa's celebrated Edo-period stroll garden, ranked among Japan's \"three great gardens\" alongside Kairaku-en and Koraku-en, and it's worth…"
+description: "Kenroku-en is Kanazawa's celebrated Edo-period stroll garden, ranked among Japan's \\\"three great gardens\\\" alongside Kairaku-en and Koraku-en, and it's worth"
 country: "Japan"
 region: "Kanazawa"
 category: "attraction"

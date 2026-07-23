@@ -1,6 +1,6 @@
 ---
 title: 'FB Kitchen in Taipei: A Visitor''s Guide'
-description: 'FB Kitchen in Taipei, Taiwan — a new/trending spot: what it is, where it is, and how to visit.'
+description: "FB Kitchen is the newly public-facing canteen of the Formosa Plastics Group in Neihu, Taipei, famous for a 40-year-old recipe bone-in beef short rib and a"
 country: Taiwan
 region: Taipei
 category: trendy

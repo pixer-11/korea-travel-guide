@@ -1,6 +1,6 @@
 ---
 title: 'Tyler, the Creator - Chromakopia: The World Tour: What to Know (Tokyo)'
-description: 'Tyler, the Creator - Chromakopia: The World Tour in Tokyo, Japan — September 9-10, 2026. What it is, when and where, and how to plan around it.'
+description: "Tyler, the Creator brings Chromakopia: The World Tour to Tokyo''s Ariake Arena on September 9–10, 2026, his first Japan shows in eight years."
 country: Japan
 region: Tokyo
 category: event

@@ -1,6 +1,6 @@
 ---
 title: "SkyPark Observation Deck: A Visitor's Guide in Marina Bay"
-description: "The SkyPark Observation Deck sits atop Tower 3 of Marina Bay Sands, 56 floors up, and delivers Singapore's signature panorama: the Gardens by the Bay…"
+description: "The SkyPark Observation Deck sits atop Tower 3 of Marina Bay Sands, 56 floors up, and delivers Singapore's signature panorama: the Gardens by the Bay"
 country: "Singapore"
 region: "Marina Bay"
 category: "attraction"

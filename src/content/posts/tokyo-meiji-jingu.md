@@ -1,6 +1,6 @@
 ---
 title: "Meiji Jingu: A Visitor's Guide in Tokyo"
-description: "Meiji Jingu is Tokyo's grandest Shinto shrine, tucked inside a 170-acre forest between Harajuku and Yoyogi Park. Enter via the towering wooden torii off…"
+description: "Meiji Jingu is Tokyo's grandest Shinto shrine, tucked inside a 170-acre forest between Harajuku and Yoyogi Park."
 country: "Japan"
 region: "Tokyo"
 category: "attraction"

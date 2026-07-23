@@ -1,6 +1,6 @@
 ---
 title: "Qasr Al Hosn: A Visitor's Guide in Abu Dhabi"
-description: "Qasr Al Hosn is Abu Dhabi's oldest stone building — a whitewashed fort-turned-palace-turned-museum in the heart of downtown, on Rashid Bin Saeed Al Maktoum…"
+description: "Qasr Al Hosn is Abu Dhabi's oldest stone building — a whitewashed fort-turned-palace-turned-museum in the heart of downtown, on Rashid Bin Saeed Al Maktoum"
 country: "United Arab Emirates"
 region: "Abu Dhabi"
 category: "attraction"

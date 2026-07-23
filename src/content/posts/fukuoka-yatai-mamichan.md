@@ -1,6 +1,6 @@
 ---
 title: "Yatai Mamichan: Where to Eat in Fukuoka"
-description: "Yatai Mamichan is a classic open-air food stall on Showa-dori in Tenjin, Fukuoka's Chuo Ward, known for grilled ox tongue and fluffy Japanese omelets…"
+description: "Yatai Mamichan is a classic open-air food stall on Showa-dori in Tenjin, Fukuoka's Chuo Ward, known for grilled ox tongue and fluffy Japanese omelets"
 country: "Japan"
 region: "Fukuoka"
 category: "restaurant"

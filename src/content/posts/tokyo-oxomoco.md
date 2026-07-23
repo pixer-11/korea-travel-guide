@@ -1,6 +1,6 @@
 ---
 title: 'Oxomoco in Tokyo: A Visitor''s Guide'
-description: 'Oxomoco in Tokyo, Japan — a new/trending spot: what it is, where it is, and how to visit.'
+description: "Oxomoco, the Brooklyn-born, Michelin-starred modern Mexican restaurant, has relocated to Roppongi Hills, Tokyo, bringing its wood-fired cooking, artisanal"
 country: Japan
 region: Tokyo
 category: trendy

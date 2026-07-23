@@ -1,6 +1,6 @@
 ---
 title: 'European Aquatics Championships: What to Know (Paris)'
-description: European Aquatics Championships in Paris, France — August 1–16, 2026. What it is, when and where, and how to plan around it.
+description: "The European Aquatics Championships run August 1–16, 2026, in Paris and Saint-Denis, using venues built or repurposed for the Paris 2024 Olympics, most"
 country: France
 region: Paris
 category: event

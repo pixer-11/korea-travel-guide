@@ -1,6 +1,6 @@
 ---
 title: "Basilica of the Sagrada Familia: A Visitor's Guide in Barcelona"
-description: "Book a timed-entry ticket online at least 2-3 weeks ahead (longer in summer) and arrive 15 minutes before your slot. Go for the first morning entry (9:00)…"
+description: "Book a timed-entry ticket online at least 2-3 weeks ahead (longer in summer) and arrive 15 minutes before your slot."
 country: "Spain"
 region: "Barcelona"
 category: "attraction"

@@ -1,6 +1,6 @@
 ---
 title: "Arabian Fish House Restaurant & Cafe - Al Hirah Beach, Sharjah: Where to Eat in Sharjah"
-description: "Arabian Fish House on Al Hirah (Al Heera) Beach is a casual, waterfront seafood restaurant known for whole grilled fish sold by weight, priced mid-range…"
+description: "Arabian Fish House on Al Hirah (Al Heera) Beach is a casual, waterfront seafood restaurant known for whole grilled fish sold by weight, priced mid-range"
 country: "United Arab Emirates"
 region: "Sharjah"
 category: "restaurant"

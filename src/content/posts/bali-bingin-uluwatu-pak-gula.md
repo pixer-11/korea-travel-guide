@@ -1,6 +1,6 @@
 ---
 title: 'Pak Gula in Bali: A Visitor''s Guide'
-description: 'Pak Gula in Bali, Indonesia — a new/trending spot: what it is, where it is, and how to visit.'
+description: "Pak Gula is a new two-storey Asian-fusion restaurant in Bingin, Uluwatu, from the team behind The Cashew Tree, known for shareable plates like char siu pork"
 country: Indonesia
 region: Bali
 category: trendy

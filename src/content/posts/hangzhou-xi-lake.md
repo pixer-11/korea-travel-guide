@@ -1,6 +1,6 @@
 ---
 title: "Xi Lake: A Visitor's Guide in Hangzhou"
-description: "West Lake (Xī Hú, sometimes transliterated \"Xi Lake\") is Hangzhou's freshwater centerpiece and a UNESCO World Heritage Site, best explored on foot or bike…"
+description: "West Lake (Xī Hú, sometimes transliterated \\\"Xi Lake\\\") is Hangzhou's freshwater centerpiece and a UNESCO World Heritage Site, best explored on foot or bike"
 country: "China"
 region: "Hangzhou"
 category: "attraction"

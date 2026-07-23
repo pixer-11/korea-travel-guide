@@ -1,6 +1,6 @@
 ---
 title: "Cafe Phuket Viewpoint: A Visitor's Guide in Phuket"
-description: "Cafe Phuket Viewpoint sits on Phrabaramee Road on the ridge above Patong, on the winding hill route toward Kata/Karon, and it's best visited late afternoon…"
+description: "Cafe Phuket Viewpoint sits on Phrabaramee Road on the ridge above Patong, on the winding hill route toward Kata/Karon, and it's best visited late afternoon"
 country: "Thailand"
 region: "Phuket"
 category: "trendy"

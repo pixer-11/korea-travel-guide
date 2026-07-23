@@ -1,6 +1,6 @@
 ---
 title: "Camia Restaurant: Where to Eat in Phu Quoc"
-description: "Camia Restaurant is a beachfront dining spot on Ong Lang Beach, on Le Thuc Nha Street north of Duong Dong town, best visited at sunset for fresh seafood…"
+description: "Camia Restaurant is a beachfront dining spot on Ong Lang Beach, on Le Thuc Nha Street north of Duong Dong town, best visited at sunset for fresh seafood with"
 country: "Vietnam"
 region: "Phu Quoc"
 category: "restaurant"

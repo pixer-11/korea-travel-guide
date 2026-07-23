@@ -1,6 +1,6 @@
 ---
 title: 'Street Food in Seoul: A Visitor''s Guide'
-description: "The best street food hunting grounds in Seoul are Myeongdong (Line 4, Myeongdong Station, Exit 6), Gwangjang Market (Line 1, Jongno 5-ga Station, Exit 8),…"
+description: "The best street food hunting grounds in Seoul are Myeongdong (Line 4, Myeongdong Station, Exit 6), Gwangjang Market (Line 1, Jongno 5-ga Station, Exit 8)"
 region: Seoul
 category: hidden-gem
 pubDate: 2026-07-20T00:00:00.000Z

@@ -1,6 +1,6 @@
 ---
 title: "Super Deluxe Kitchen: Where to Eat in Little India"
-description: "Super Deluxe Kitchen (29 Upper Weld Rd, Singapore 207386) is a well-reviewed Indian restaurant tucked in the backstreets of Little India, a short walk from…"
+description: "Super Deluxe Kitchen (29 Upper Weld Rd, Singapore 207386) is a well-reviewed Indian restaurant tucked in the backstreets of Little India, a short walk from"
 country: "Singapore"
 region: "Little India"
 category: "restaurant"

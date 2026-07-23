@@ -1,6 +1,6 @@
 ---
 title: "Positano: A Visitor's Guide in Amalfi Coast"
-description: "Positano is best visited as a 1–2 night stay or a well-timed day trip from Sorrento or Amalfi, arriving by SITA bus or ferry rather than car. Spend your…"
+description: "Positano is best visited as a 1–2 night stay or a well-timed day trip from Sorrento or Amalfi, arriving by SITA bus or ferry rather than car."
 country: "Italy"
 region: "Amalfi Coast"
 category: "attraction"

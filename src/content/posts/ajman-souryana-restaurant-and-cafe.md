@@ -1,6 +1,6 @@
 ---
 title: "Souryana Restaurant and Cafe: Where to Eat in Ajman"
-description: "Souryana Restaurant and Cafe in Al Nakhil 2, Ajman, is a Syrian/Levantine grill house that has built one of the highest review counts (nearly 8,000, at a…"
+description: "Souryana Restaurant and Cafe in Al Nakhil 2, Ajman, is a Syrian/Levantine grill house that has built one of the highest review counts (nearly 8,000, at a 4.8"
 country: "United Arab Emirates"
 region: "Ajman"
 category: "restaurant"

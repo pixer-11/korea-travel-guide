@@ -1,6 +1,6 @@
 ---
 title: 'Ci Siamo in New York City: A Visitor''s Guide'
-description: 'Ci Siamo in New York City, United States — a new/trending spot: what it is, where it is, and how to visit.'
+description: "Ci Siamo is a modern Italian restaurant from Danny Meyer's Union Square Hospitality Group in Manhattan's Hudson Yards/Manhattan West area, best known for its"
 country: United States
 region: New York City
 category: restaurant

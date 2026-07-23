@@ -1,6 +1,6 @@
 ---
 title: 'Bouillon Gavroche in Singapore: A Visitor''s Guide'
-description: 'Bouillon Gavroche in Singapore, Singapore — a new/trending spot: what it is, where it is, and how to visit.'
+description: "Bouillon Gavroche is a French \"bouillon\"-style brasserie inside Mandarin Gallery on Orchard Road, bringing Asia's first take on the historic 19th-century"
 country: Singapore
 region: Singapore
 category: restaurant

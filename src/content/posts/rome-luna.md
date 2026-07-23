@@ -1,6 +1,6 @@
 ---
 title: 'Luna in Rome: A Visitor''s Guide'
-description: 'Luna in Rome, Italy — a new/trending spot: what it is, where it is, and how to visit.'
+description: "Luna is a 2025 specialty coffee-and-brunch spot near Piazza Barberini, opened by the team behind Faro and Aliena Coffee Roasters, pairing a serious espresso"
 country: Italy
 region: Rome
 category: trendy

@@ -1,6 +1,6 @@
 ---
 title: 'Incheon Pentaport Rock Festival 2026: What to Know (Incheon)'
-description: "Incheon Pentaport Rock Festival 2026 runs July 31–August 2, 2026 at Songdo Moonlight Festival Park in Incheon, with the Pixies headlining alongside Korean…"
+description: "Incheon Pentaport Rock Festival 2026 runs July 31–August 2, 2026 at Songdo Moonlight Festival Park in Incheon, with the Pixies headlining alongside Korean"
 country: South Korea
 region: Incheon
 category: event

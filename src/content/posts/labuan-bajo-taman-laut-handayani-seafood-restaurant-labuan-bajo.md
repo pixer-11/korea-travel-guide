@@ -1,6 +1,6 @@
 ---
 title: "Taman Laut Handayani Seafood Restaurant Labuan Bajo: Where to Eat in Labuan Bajo"
-description: "Taman Laut Handayani is a large, harborside seafood restaurant on Jl. Ande Bole in central Labuan Bajo, known for pick-your-own fresh catch grilled to order…"
+description: "Taman Laut Handayani is a large, harborside seafood restaurant on Jl."
 country: "Indonesia"
 region: "Labuan Bajo"
 category: "restaurant"

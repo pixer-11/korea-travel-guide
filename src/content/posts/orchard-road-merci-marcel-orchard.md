@@ -1,6 +1,6 @@
 ---
 title: "MERCI MARCEL ORCHARD: Where to Eat in Orchard Road"
-description: "MERCI MARCEL ORCHARD is a French all-day café-restaurant tucked into Palais Renaissance at 390 Orchard Road, a short walk from Orchard MRT (Exits A or E).…"
+description: "MERCI MARCEL ORCHARD is a French all-day café-restaurant tucked into Palais Renaissance at 390 Orchard Road, a short walk from Orchard MRT (Exits A or E)."
 country: "Singapore"
 region: "Orchard Road"
 category: "restaurant"

@@ -1,6 +1,6 @@
 ---
 title: "Railay Beach: A Visitor's Guide in Krabi"
-description: "Railay Beach is a car-free limestone peninsula near Ao Nang reachable only by longtail boat (about 15-20 minutes from Ao Nang or Nopparat Thara pier). Come…"
+description: "Railay Beach is a car-free limestone peninsula near Ao Nang reachable only by longtail boat (about 15-20 minutes from Ao Nang or Nopparat Thara pier)."
 country: "Thailand"
 region: "Krabi"
 category: "attraction"

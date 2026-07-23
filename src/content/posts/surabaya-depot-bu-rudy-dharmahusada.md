@@ -1,6 +1,6 @@
 ---
 title: "Depot Bu Rudy Dharmahusada: Where to Eat in Surabaya"
-description: "Depot Bu Rudy Dharmahusada is a long-running Surabaya institution on Jl. Dharmahusada known for its sambal-forward East Javanese cooking, especially…"
+description: "Depot Bu Rudy Dharmahusada is a long-running Surabaya institution on Jl."
 country: "Indonesia"
 region: "Surabaya"
 category: "restaurant"

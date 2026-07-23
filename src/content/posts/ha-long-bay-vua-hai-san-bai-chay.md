@@ -1,6 +1,6 @@
 ---
 title: "Vựa Hải Sản Bãi Cháy: Where to Eat in Ha Long Bay"
-description: "Vựa Hải Sản Bãi Cháy is a large, pick-your-own seafood market-restaurant in the Bai Chay district of Ha Long City, best for groups wanting to select live…"
+description: "Vựa Hải Sản Bãi Cháy is a large, pick-your-own seafood market-restaurant in the Bai Chay district of Ha Long City, best for groups wanting to select live"
 country: "Vietnam"
 region: "Ha Long Bay"
 category: "restaurant"

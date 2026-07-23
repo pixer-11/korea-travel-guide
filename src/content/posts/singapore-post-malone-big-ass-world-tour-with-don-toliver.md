@@ -1,6 +1,6 @@
 ---
 title: 'Post Malone – Big Ass World Tour (with Don Toliver): What to Know (Singapore)'
-description: Post Malone – Big Ass World Tour (with Don Toliver) in Singapore, Singapore — 29 August 2026. What it is, when and where, and how to plan around it.
+description: "Post Malone brings the Big Ass World Tour to Singapore on 29 August 2026, playing Arena @ EXPO with support from Don Toliver — his first solo Singapore"
 country: Singapore
 region: Singapore
 category: event

@@ -1,6 +1,6 @@
 ---
 title: "Bar Txepetxa: Where to Eat in San Sebastian"
-description: "Bar Txepetxa, on Arrandegi Kalea 5 in San Sebastián's Parte Vieja, is a pintxos bar built around a single specialty: anchovies, served a dozen different…"
+description: "Bar Txepetxa, on Arrandegi Kalea 5 in San Sebastián's Parte Vieja, is a pintxos bar built around a single specialty: anchovies, served a dozen different"
 country: "Spain"
 region: "San Sebastian"
 category: "restaurant"

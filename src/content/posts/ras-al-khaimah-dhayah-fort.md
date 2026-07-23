@@ -1,6 +1,6 @@
 ---
 title: "Dhayah Fort: A Visitor's Guide in Ras Al Khaimah"
-description: "Dhayah Fort sits on a rocky hill near Ar Rams, about 30 minutes north of Ras Al Khaimah city, and is the only surviving hill fort in the UAE. Go in the late…"
+description: "Dhayah Fort sits on a rocky hill near Ar Rams, about 30 minutes north of Ras Al Khaimah city, and is the only surviving hill fort in the UAE."
 country: "United Arab Emirates"
 region: "Ras Al Khaimah"
 category: "attraction"

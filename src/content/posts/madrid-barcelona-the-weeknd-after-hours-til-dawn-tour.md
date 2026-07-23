@@ -1,6 +1,6 @@
 ---
 title: 'The Weeknd – After Hours Til Dawn Tour: What to Know (Madrid)'
-description: "The Weeknd brings the After Hours Til Dawn Tour to Spain for four dates: three nights at Riyadh Air Metropolitano Stadium in Madrid (August 28-30, 2026) and…"
+description: "The Weeknd brings the After Hours Til Dawn Tour to Spain for four dates: three nights at Riyadh Air Metropolitano Stadium in Madrid (August 28-30, 2026) and"
 country: Spain
 region: Madrid
 category: event

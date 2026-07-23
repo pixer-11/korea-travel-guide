@@ -1,6 +1,6 @@
 ---
 title: 'Post Malone Live in Malaysia: What to Know (Kuala Lumpur)'
-description: Post Malone Live in Malaysia in Kuala Lumpur, Malaysia — September 27, 2026. What it is, when and where, and how to plan around it.
+description: "Post Malone plays his debut Malaysia show on September 27, 2026, at TM National Stadium (Stadium Nasional Bukit Jalil) in Kuala Lumpur, as part of his world"
 country: Malaysia
 region: Kuala Lumpur
 category: event

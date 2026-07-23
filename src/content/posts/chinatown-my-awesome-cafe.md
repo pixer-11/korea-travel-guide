@@ -1,6 +1,6 @@
 ---
 title: "My Awesome Cafe: A Visitor's Guide in Chinatown"
-description: "My Awesome Cafe is a well-reviewed all-day cafe at 202 Telok Ayer St in Chinatown, known for handcrafted salads, sandwiches, and a solid wine list served in…"
+description: "My Awesome Cafe is a well-reviewed all-day cafe at 202 Telok Ayer St in Chinatown, known for handcrafted salads, sandwiches, and a solid wine list served in"
 country: "Singapore"
 region: "Chinatown"
 category: "trendy"

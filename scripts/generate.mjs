@@ -526,7 +526,18 @@ function assemble(target, place, title, heroImage, gallery, content) {
   // Prefer a real, unique meta description from the answer-first summary (better
   // SEO than the old templated one). Fall back to the template only if empty.
   const qa = (quickAnswer || '').trim().replace(/\s+/g, ' ');
-  const clip = (s, n = 158) => (s.length > n ? s.slice(0, n - 1).replace(/\s+\S*$/, '') + '…' : s);
+  // End meta descriptions on a FULL SENTENCE within the limit (no dangling ", …"
+  // that reads as auto-generated and depresses SERP CTR). Fall back to a word
+  // boundary + ellipsis only when no sentence fits.
+  const clip = (s, n = 158) => {
+    if (s.length <= n) return s;
+    const cut = s.slice(0, n);
+    const lastPunct = Math.max(cut.lastIndexOf('. '), cut.lastIndexOf('! '), cut.lastIndexOf('? '));
+    if (lastPunct >= 60) return cut.slice(0, lastPunct + 1).trim();
+    // No sentence fits — trim to a word and drop trailing punctuation/conjunction
+    // rather than leaving a mid-clause "…" (which reads as unfinished in SERPs).
+    return cut.replace(/\s+\S*$/, '').replace(/[\s,;:.\-–—]+$/, '').trim();
+  };
   const description = qa
     ? clip(qa)
     : place

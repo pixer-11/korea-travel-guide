@@ -1,6 +1,6 @@
 ---
 title: "Malayan Settlement: Where to Eat in Clarke Quay"
-description: "Malayan Settlement is a Peranakan-Western fusion restaurant tucked into Block B of Clarke Quay (3 River Valley Rd, #1-03), a few minutes' walk from Clarke…"
+description: "Malayan Settlement is a Peranakan-Western fusion restaurant tucked into Block B of Clarke Quay (3 River Valley Rd, #1-03), a few minutes' walk from Clarke"
 country: "Singapore"
 region: "Clarke Quay"
 category: "restaurant"

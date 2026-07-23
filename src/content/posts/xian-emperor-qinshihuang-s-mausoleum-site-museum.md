@@ -1,6 +1,6 @@
 ---
 title: "Emperor Qinshihuang's Mausoleum Site Museum: A Visitor's Guide in Xian"
-description: "Emperor Qinshihuang's Mausoleum Site Museum — better known as the Terracotta Army — is in Lintong District, about 1.5 hours (40km) east of downtown Xi'an.…"
+description: "Emperor Qinshihuang's Mausoleum Site Museum — better known as the Terracotta Army — is in Lintong District, about 1.5 hours (40km) east of downtown Xi'an."
 country: "China"
 region: "Xian"
 category: "attraction"

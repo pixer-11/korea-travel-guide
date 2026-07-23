@@ -1,6 +1,6 @@
 ---
 title: "Mamamia Pattaya Street Noodles: Where to Eat in Pattaya"
-description: "Mamamia Pattaya Street Noodles is a small, high-rated street-side noodle stall/restaurant in Muang Pattaya (Bang Lamung, Chon Buri) known for quick, cheap…"
+description: "Mamamia Pattaya Street Noodles is a small, high-rated street-side noodle stall/restaurant in Muang Pattaya (Bang Lamung, Chon Buri) known for quick, cheap"
 country: "Thailand"
 region: "Pattaya"
 category: "restaurant"

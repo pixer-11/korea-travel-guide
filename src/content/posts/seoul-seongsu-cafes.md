@@ -1,6 +1,6 @@
 ---
 title: 'Seongsu Cafes in Seoul: A Visitor''s Guide'
-description: "Seongsu-dong, Seoul's former shoe-factory district, is now the city's densest cluster of design-forward cafes housed in converted warehouses and workshops.…"
+description: "Seongsu-dong, Seoul's former shoe-factory district, is now the city's densest cluster of design-forward cafes housed in converted warehouses and workshops."
 region: Seoul
 category: trendy
 pubDate: 2026-07-20T00:00:00.000Z

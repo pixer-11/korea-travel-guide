@@ -1,6 +1,6 @@
 ---
 title: "Monumen Kapal Selam Surabaya: A Visitor's Guide in Surabaya"
-description: "Monumen Kapal Selam (Monkasel) is a real decommissioned Russian-built submarine, KRI Pasopati 410, beached and converted into a walk-through museum on Jl.…"
+description: "Monumen Kapal Selam (Monkasel) is a real decommissioned Russian-built submarine, KRI Pasopati 410, beached and converted into a walk-through museum on Jl."
 country: "Indonesia"
 region: "Surabaya"
 category: "hidden-gem"

@@ -1,6 +1,6 @@
 ---
 title: "Steki: Where to Eat in Fujairah"
-description: "Steki is a Greek restaurant on Al Faseel Road (E99) near Umbrella Beach in Fujairah, rated 4.8 from around 600 reviews — a strong pick for moussaka,…"
+description: "Steki is a Greek restaurant on Al Faseel Road (E99) near Umbrella Beach in Fujairah, rated 4.8 from around 600 reviews — a strong pick for moussaka"
 country: "United Arab Emirates"
 region: "Fujairah"
 category: "restaurant"

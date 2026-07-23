@@ -1,6 +1,6 @@
 ---
 title: 'The Third Tunnel: A Visitor''s Guide in Paju'
-description: "The Third Tunnel is a North Korean-dug infiltration tunnel inside the DMZ near Paju, best visited as part of a guided half-day or full-day DMZ tour from…"
+description: "The Third Tunnel is a North Korean-dug infiltration tunnel inside the DMZ near Paju, best visited as part of a guided half-day or full-day DMZ tour from"
 region: Paju
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z

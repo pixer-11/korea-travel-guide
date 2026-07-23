@@ -1,6 +1,6 @@
 ---
 title: "Tonkin Specialty Coffee: A Visitor's Guide in Ho Chi Minh City"
-description: "Tonkin Specialty Coffee is a small, design-forward café at 91 Lý Tự Trọng in District 1's Bến Thành ward, a short walk from the Bến Thành Market roundabout.…"
+description: "Tonkin Specialty Coffee is a small, design-forward café at 91 Lý Tự Trọng in District 1's Bến Thành ward, a short walk from the Bến Thành Market roundabout."
 country: "Vietnam"
 region: "Ho Chi Minh City"
 category: "trendy"

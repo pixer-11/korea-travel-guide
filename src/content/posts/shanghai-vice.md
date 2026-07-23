@@ -1,6 +1,6 @@
 ---
 title: 'VICE in Shanghai: A Visitor''s Guide'
-description: 'VICE in Shanghai, China — a new/trending spot: what it is, where it is, and how to visit.'
+description: "VICE is a new restaurant on Yongjia Lu in Shanghai's former French Concession, set inside a restored heritage lane house, from chef Carlos Sotomayor and"
 country: China
 region: Shanghai
 category: restaurant

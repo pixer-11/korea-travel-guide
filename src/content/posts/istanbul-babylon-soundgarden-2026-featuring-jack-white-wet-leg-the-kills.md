@@ -1,6 +1,6 @@
 ---
 title: 'Babylon Soundgarden 2026 featuring Jack White, Wet Leg & The Kills: What to Know (Istanbul)'
-description: Babylon Soundgarden 2026 featuring Jack White, Wet Leg & The Kills in Istanbul, Turkey — August 22–23, 2026. What it is, when and where, and how to plan around it.
+description: "Babylon Soundgarden 2026 is set for August 22–23, 2026, at Parkorman Nature Park in Istanbul''s Maslak/Sarıyer area, with Jack White, Wet Leg and The Kills"
 country: Turkey
 region: Istanbul
 category: event

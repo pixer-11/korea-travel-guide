@@ -1,6 +1,6 @@
 ---
 title: 'US Open Tennis Championships 2026: What to Know (New York)'
-description: US Open Tennis Championships 2026 in New York, United States — August 23 – September 13, 2026. What it is, when and where, and how to plan around it.
+description: "The 2026 US Open runs August 23–September 13 at the USTA Billie Jean King National Tennis Center in Flushing Meadows–Corona Park, Queens."
 country: United States
 region: New York
 category: event

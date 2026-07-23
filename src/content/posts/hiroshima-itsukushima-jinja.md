@@ -1,6 +1,6 @@
 ---
 title: "Itsukushima Jinja: A Visitor's Guide in Hiroshima"
-description: "Itsukushima Jinja sits on Miyajima island in Hiroshima Bay, reachable by JR ferry from Miyajimaguchi Station, and is famous for its vermilion torii gate…"
+description: "Itsukushima Jinja sits on Miyajima island in Hiroshima Bay, reachable by JR ferry from Miyajimaguchi Station, and is famous for its vermilion torii gate that"
 country: "Japan"
 region: "Hiroshima"
 category: "attraction"

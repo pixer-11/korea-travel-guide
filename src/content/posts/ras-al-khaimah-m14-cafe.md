@@ -1,6 +1,6 @@
 ---
 title: "M14 Cafe: A Visitor's Guide in Ras Al Khaimah"
-description: "M14 Cafe is a laid-back specialty coffee shop tucked near New Mall on Sheikh Humaid Al Mohammad Al Qasimi Road in Seih Al Araibi, Ras Al Khaimah — worth a…"
+description: "M14 Cafe is a laid-back specialty coffee shop tucked near New Mall on Sheikh Humaid Al Mohammad Al Qasimi Road in Seih Al Araibi, Ras Al Khaimah — worth a"
 country: "United Arab Emirates"
 region: "Ras Al Khaimah"
 category: "trendy"

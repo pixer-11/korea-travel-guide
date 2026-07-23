@@ -1,6 +1,6 @@
 ---
 title: 'Post Malone: The BIG ASS Stadium World Tour: What to Know (Bangkok)'
-description: 'Post Malone: The BIG ASS Stadium World Tour in Bangkok, Thailand — September 22, 2026. What it is, when and where, and how to plan around it.'
+description: "Post Malone brings The BIG ASS Stadium World Tour to Bangkok's Rajamangala National Stadium on September 22, 2026 — his first Bangkok concert in three years."
 country: Thailand
 region: Bangkok
 category: event

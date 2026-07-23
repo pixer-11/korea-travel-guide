@@ -1,6 +1,6 @@
 ---
 title: 'CAFE 3 STRIPES SEOUL in Seoul: A Visitor''s Guide'
-description: 'CAFE 3 STRIPES SEOUL in Seoul, South Korea — a new/trending spot: what it is, where it is, and how to visit.'
+description: "CAFE 3 STRIPES SEOUL is Adidas's branded cafe and art space in Seongsu-dong, Seoul's industrial-turned-hipster district, opened in late 2025 with a splashy"
 country: South Korea
 region: Seoul
 category: trendy

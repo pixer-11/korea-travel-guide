@@ -1,6 +1,6 @@
 ---
 title: "Royal Alcázar of Seville: A Visitor's Guide in Seville"
-description: "The Royal Alcázar of Seville is a still-functioning royal palace in the Casco Antiguo, prized for its Mudéjar palace rooms, tiled courtyards, and sprawling…"
+description: "The Royal Alcázar of Seville is a still-functioning royal palace in the Casco Antiguo, prized for its Mudéjar palace rooms, tiled courtyards, and sprawling"
 country: "Spain"
 region: "Seville"
 category: "attraction"

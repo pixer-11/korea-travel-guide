@@ -1,6 +1,6 @@
 ---
 title: "Sudirman Street Day and Night Market: Where to Eat in Bandung"
-description: "Sudirman Street Day and Night Market (Jl. Sudirman No.107, Karanganyar, Astanaanyar) is a sprawling, very-popular food court in western Bandung mixing…"
+description: "Sudirman Street Day and Night Market (Jl. Sudirman No.107, Karanganyar, Astanaanyar) is a sprawling, very-popular food court in western Bandung mixing"
 country: "Indonesia"
 region: "Bandung"
 category: "restaurant"

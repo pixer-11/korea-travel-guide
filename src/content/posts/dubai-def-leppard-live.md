@@ -1,6 +1,6 @@
 ---
 title: 'Def Leppard Live: What to Know (Dubai)'
-description: Def Leppard Live in Dubai, United Arab Emirates — August 2, 2026. What it is, when and where, and how to plan around it.
+description: "Def Leppard bring their arena show to Coca-Cola Arena in Dubai on August 2, 2026."
 country: United Arab Emirates
 region: Dubai
 category: event

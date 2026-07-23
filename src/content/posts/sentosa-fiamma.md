@@ -1,6 +1,6 @@
 ---
 title: "Fiamma: Where to Eat in Sentosa"
-description: "Fiamma is an upscale Italian restaurant tucked inside Capella Singapore at 1 The Knolls, Sentosa — a quieter, refined alternative to the island's beach-club…"
+description: "Fiamma is an upscale Italian restaurant tucked inside Capella Singapore at 1 The Knolls, Sentosa — a quieter, refined alternative to the island's beach-club"
 country: "Singapore"
 region: "Sentosa"
 category: "restaurant"

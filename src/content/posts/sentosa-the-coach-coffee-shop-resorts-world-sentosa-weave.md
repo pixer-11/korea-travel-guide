@@ -1,6 +1,6 @@
 ---
 title: "The Coach Coffee Shop (Resorts World Sentosa WEAVE): A Visitor's Guide in Sentosa"
-description: "The Coach Coffee Shop is a café inside Resorts World Sentosa's WEAVE precinct at 26 Sentosa Gateway, on Sentosa island, best reached via Sentosa Express…"
+description: "The Coach Coffee Shop is a café inside Resorts World Sentosa's WEAVE precinct at 26 Sentosa Gateway, on Sentosa island, best reached via Sentosa Express"
 country: "Singapore"
 region: "Sentosa"
 category: "trendy"

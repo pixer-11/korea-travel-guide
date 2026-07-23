@@ -1,6 +1,6 @@
 ---
 title: 'Local Restaurant in Suwon: A Visitor''s Guide'
-description: "Suwon's signature dish is wang-galbi, king-sized beef short ribs, best eaten around Paldalmun Gate and Yeongdong Market in the historic center. Come hungry…"
+description: "Suwon's signature dish is wang-galbi, king-sized beef short ribs, best eaten around Paldalmun Gate and Yeongdong Market in the historic center."
 region: Suwon
 category: restaurant
 pubDate: 2026-07-20T00:00:00.000Z

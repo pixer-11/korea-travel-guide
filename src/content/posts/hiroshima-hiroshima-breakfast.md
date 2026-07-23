@@ -1,6 +1,6 @@
 ---
 title: "Hiroshima Breakfast: A Visitor's Guide in Hiroshima"
-description: "Hiroshima Breakfast is a small, highly-rated morning café in Dohashicho, central Naka Ward, a short walk from the Hondori shopping arcade and Peace Memorial…"
+description: "Hiroshima Breakfast is a small, highly-rated morning café in Dohashicho, central Naka Ward, a short walk from the Hondori shopping arcade and Peace Memorial"
 country: "Japan"
 region: "Hiroshima"
 category: "trendy"

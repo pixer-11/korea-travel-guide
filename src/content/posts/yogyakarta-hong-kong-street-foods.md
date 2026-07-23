@@ -1,6 +1,6 @@
 ---
 title: "Hong Kong Street Foods: Where to Eat in Yogyakarta"
-description: "Hong Kong Street Foods is a Chinese-street-food restaurant on Jl. A.M. Sangaji No. 88 in Tegalrejo, north-central Yogyakarta, rated 4.7 from over 1,100…"
+description: "Hong Kong Street Foods is a Chinese-street-food restaurant on Jl. A.M. Sangaji No."
 country: "Indonesia"
 region: "Yogyakarta"
 category: "restaurant"

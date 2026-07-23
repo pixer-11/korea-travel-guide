@@ -1,6 +1,6 @@
 ---
 title: "Al Fahidi Historical Neighbourhood: A Visitor's Guide in Dubai"
-description: "Al Fahidi Historical Neighbourhood, on the Bur Dubai side of the Creek near Al Fahidi Metro Station (Green Line), is Dubai's best-preserved old quarter — a…"
+description: "Al Fahidi Historical Neighbourhood, on the Bur Dubai side of the Creek near Al Fahidi Metro Station (Green Line), is Dubai's best-preserved old quarter — a"
 country: "United Arab Emirates"
 region: "Dubai"
 category: "attraction"

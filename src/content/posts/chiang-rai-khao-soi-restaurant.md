@@ -1,6 +1,6 @@
 ---
 title: "Khao Soi Restaurant: Where to Eat in Chiang Rai"
-description: "Khao Soi Restaurant on Prasopsook Road is a no-frills, budget-friendly spot in central Chiang Rai serving the region's signature curried egg-noodle soup,…"
+description: "Khao Soi Restaurant on Prasopsook Road is a no-frills, budget-friendly spot in central Chiang Rai serving the region's signature curried egg-noodle soup"
 country: "Thailand"
 region: "Chiang Rai"
 category: "restaurant"

@@ -1,6 +1,6 @@
 ---
 title: "National Mall: A Visitor's Guide in Washington DC"
-description: "The National Mall is the 2-mile grassy corridor between the U.S. Capitol and the Lincoln Memorial, anchored by the Washington Monument and flanked by the…"
+description: "The National Mall is the 2-mile grassy corridor between the U.S."
 country: "United States"
 region: "Washington DC"
 category: "attraction"

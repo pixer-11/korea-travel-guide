@@ -1,6 +1,6 @@
 ---
 title: 'Azukitoyo in Manila: A Visitor''s Guide'
-description: 'Azukitoyo in Manila, Philippines — a new/trending spot: what it is, where it is, and how to visit.'
+description: "Azukitoyo is a kakigori (Japanese shaved ice) bar from the team behind Toyo Eatery, made in collaboration with Tokyo's Florilège, where former Inatô chef"
 country: Philippines
 region: Manila
 category: trendy

@@ -1,6 +1,6 @@
 ---
 title: "Pigeon Valley: A Visitor's Guide in Cappadocia"
-description: "Pigeon Valley (Güvercinlik Vadisi) links Uçhisar and Göreme via an easy, mostly flat-to-gentle 4-5km trail through a canyon dotted with dovecotes carved…"
+description: "Pigeon Valley (Güvercinlik Vadisi) links Uçhisar and Göreme via an easy, mostly flat-to-gentle 4-5km trail through a canyon dotted with dovecotes carved into"
 country: "Turkey"
 region: "Cappadocia"
 category: "attraction"

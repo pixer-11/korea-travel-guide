@@ -1,6 +1,6 @@
 ---
 title: "Comic Market 108 (Summer Comiket): What to Know in Tokyo"
-description: "Comic Market 108 (Summer Comiket) is scheduled for August 15–16, 2026 at Tokyo Big Sight in Odaiba/Ariake. This is the world's largest doujinshi (fan-made…"
+description: "Comic Market 108 (Summer Comiket) is scheduled for August 15–16, 2026 at Tokyo Big Sight in Odaiba/Ariake."
 country: Japan
 region: Tokyo
 category: event

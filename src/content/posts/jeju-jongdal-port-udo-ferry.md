@@ -1,6 +1,6 @@
 ---
 title: "Jongdal Port (Udo Ferry): A Visitor's Guide in Jeju"
-description: "Jongdal Port, on Jeju's northeast coast in Gujwa-eup, is one of two departure points for ferries to Udo (the other is Seongsan Port). Ferries run roughly…"
+description: "Jongdal Port, on Jeju's northeast coast in Gujwa-eup, is one of two departure points for ferries to Udo (the other is Seongsan Port)."
 region: "Jeju"
 category: "attraction"
 pubDate: 2026-07-21

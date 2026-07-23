@@ -1,6 +1,6 @@
 ---
 title: "Cloud Gate: A Visitor's Guide in Chicago"
-description: "Cloud Gate — universally nicknamed \"The Bean\" — sits in AT&T Plaza at the northwest corner of Millennium Park, 201 E Randolph St. It's free, open 24 hours,…"
+description: "Cloud Gate — universally nicknamed \\\"The Bean\\\" — sits in AT&T Plaza at the northwest corner of Millennium Park, 201 E Randolph St."
 country: "United States"
 region: "Chicago"
 category: "attraction"

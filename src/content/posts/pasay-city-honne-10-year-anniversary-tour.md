@@ -1,6 +1,6 @@
 ---
 title: 'HONNE 10 Year Anniversary Tour: What to Know (Pasay City)'
-description: HONNE 10 Year Anniversary Tour in Pasay City, Philippines — August 10-12, 2026. What it is, when and where, and how to plan around it.
+description: "British electronic-pop duo HONNE bring their 10 Year Anniversary Tour to the Philippine International Convention Center (PICC) Plenary Hall in Pasay City for"
 country: Philippines
 region: Pasay City
 category: event

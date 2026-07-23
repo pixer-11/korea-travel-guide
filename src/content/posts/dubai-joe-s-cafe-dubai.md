@@ -1,6 +1,6 @@
 ---
 title: "Joe's Café Dubai: A Visitor's Guide in Dubai"
-description: "Joe's Café Dubai is a bright, plant-filled all-day café on the first floor of Dubai Mall's Fashion Avenue extension, near the Star Atrium and Gate 6/Burj…"
+description: "Joe's Café Dubai is a bright, plant-filled all-day café on the first floor of Dubai Mall's Fashion Avenue extension, near the Star Atrium and Gate 6/Burj"
 country: "United Arab Emirates"
 region: "Dubai"
 category: "trendy"

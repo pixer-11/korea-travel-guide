@@ -1,6 +1,6 @@
 ---
 title: "Colosseum: A Visitor's Guide in Rome"
-description: "Buy a timed-entry ticket online before you go (the Colosseum, Roman Forum, and Palatine Hill share one combo ticket, valid 24 hours) and arrive at your slot…"
+description: "Buy a timed-entry ticket online before you go (the Colosseum, Roman Forum, and Palatine Hill share one combo ticket, valid 24 hours) and arrive at your slot"
 country: "Italy"
 region: "Rome"
 category: "attraction"

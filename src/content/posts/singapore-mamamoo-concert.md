@@ -1,6 +1,6 @@
 ---
 title: 'MAMAMOO Concert: What to Know (Singapore)'
-description: MAMAMOO Concert in Singapore, Singapore — 31 July 2026. What it is, when and where, and how to plan around it.
+description: "MAMAMOO is scheduled to perform at the Singapore Indoor Stadium on 31 July 2026."
 country: Singapore
 region: Singapore
 category: event

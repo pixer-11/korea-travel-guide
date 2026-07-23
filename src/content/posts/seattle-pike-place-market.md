@@ -1,6 +1,6 @@
 ---
 title: "Pike Place Market: Where to Eat in Seattle"
-description: "Skip the fish-throwing crowds and eat your way through Pike Place Market instead: start with a piroshky at Piroshky Piroshky, grab a crab cocktail or salmon…"
+description: "Skip the fish-throwing crowds and eat your way through Pike Place Market instead: start with a piroshky at Piroshky Piroshky, grab a crab cocktail or salmon"
 country: "United States"
 region: "Seattle"
 category: "restaurant"

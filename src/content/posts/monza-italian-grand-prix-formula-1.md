@@ -1,6 +1,6 @@
 ---
 title: "Formula 1 Italian Grand Prix 2026: What to Know (Monza)"
-description: "The 2026 Italian Grand Prix runs September 4-6 at the Autodromo Nazionale Monza, just north of Milan. Buy tickets as early as possible via Formula1.com or…"
+description: "The 2026 Italian Grand Prix runs September 4-6 at the Autodromo Nazionale Monza, just north of Milan."
 country: Italy
 region: Monza
 category: event

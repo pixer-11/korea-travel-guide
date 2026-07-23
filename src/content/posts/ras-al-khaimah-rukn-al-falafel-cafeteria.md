@@ -1,6 +1,6 @@
 ---
 title: "Rukn Al Falafel Cafeteria: Where to Eat in Ras Al Khaimah"
-description: "Rukn Al Falafel Cafeteria is a no-frills, counter-style Arabic eatery in the Sidrow area of Ras Al Khaimah, best for a fast, cheap falafel or shawarma…"
+description: "Rukn Al Falafel Cafeteria is a no-frills, counter-style Arabic eatery in the Sidrow area of Ras Al Khaimah, best for a fast, cheap falafel or shawarma"
 country: "United Arab Emirates"
 region: "Ras Al Khaimah"
 category: "restaurant"

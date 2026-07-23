@@ -1,6 +1,6 @@
 ---
 title: "Al Khayma Heritage Restaurant: Where to Eat in Dubai"
-description: "Al Khayma Heritage Restaurant sits in the Al Fahidi Historical Neighbourhood near Al Souq Al Kabeer, serving Emirati classics like machboos, harees, and…"
+description: "Al Khayma Heritage Restaurant sits in the Al Fahidi Historical Neighbourhood near Al Souq Al Kabeer, serving Emirati classics like machboos, harees, and"
 country: "United Arab Emirates"
 region: "Dubai"
 category: "restaurant"

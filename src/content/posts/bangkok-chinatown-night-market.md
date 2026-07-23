@@ -1,6 +1,6 @@
 ---
 title: "Chinatown Night Market: Where to Eat in Bangkok"
-description: "Head to Bangkok's Chinatown (Yaowarat) after 6pm, when the neon signs flicker on and street kitchens roll their carts onto Yaowarat Road and side streets…"
+description: "Head to Bangkok's Chinatown (Yaowarat) after 6pm, when the neon signs flicker on and street kitchens roll their carts onto Yaowarat Road and side streets"
 country: "Thailand"
 region: "Bangkok"
 category: "restaurant"

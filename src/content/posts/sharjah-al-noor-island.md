@@ -1,6 +1,6 @@
 ---
 title: "Al Noor Island: A Visitor's Guide in Sharjah"
-description: "Al Noor Island sits in Khalid Lagoon on Buhairah Corniche in central Sharjah, a short walk or taxi ride from Al Majaz Waterfront. Budget 1.5–2.5 hours to…"
+description: "Al Noor Island sits in Khalid Lagoon on Buhairah Corniche in central Sharjah, a short walk or taxi ride from Al Majaz Waterfront."
 country: "United Arab Emirates"
 region: "Sharjah"
 category: "attraction"

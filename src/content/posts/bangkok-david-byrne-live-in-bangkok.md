@@ -1,6 +1,6 @@
 ---
 title: 'David Byrne Live in Bangkok: What to Know (Bangkok)'
-description: David Byrne Live in Bangkok in Bangkok, Thailand — August 10, 2026. What it is, when and where, and how to plan around it.
+description: "David Byrne, the former Talking Heads frontman, is set to perform at UOB Live in Bangkok on Monday, August 10, 2026."
 country: Thailand
 region: Bangkok
 category: event

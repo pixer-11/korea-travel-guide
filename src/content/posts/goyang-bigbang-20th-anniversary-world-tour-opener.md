@@ -1,6 +1,6 @@
 ---
 title: 'BIGBANG 20th Anniversary World Tour Opener: What to Know (Goyang)'
-description: BIGBANG 20th Anniversary World Tour Opener in Goyang, South Korea — August 21-23, 2026. What it is, when and where, and how to plan around it.
+description: "BIGBANG kicks off its 20th anniversary world tour with three shows at Goyang Stadium on August 21–23, 2026 — the group's first world tour in nearly a decade."
 country: South Korea
 region: Goyang
 category: event

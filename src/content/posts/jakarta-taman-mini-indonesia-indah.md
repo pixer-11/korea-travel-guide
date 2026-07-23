@@ -1,6 +1,6 @@
 ---
 title: "Taman Mini Indonesia Indah: A Visitor's Guide in Jakarta"
-description: "Taman Mini Indonesia Indah (TMII) is a sprawling culture park in East Jakarta where all 34 Indonesian provinces are represented by full-scale traditional…"
+description: "Taman Mini Indonesia Indah (TMII) is a sprawling culture park in East Jakarta where all 34 Indonesian provinces are represented by full-scale traditional"
 country: "Indonesia"
 region: "Jakarta"
 category: "attraction"

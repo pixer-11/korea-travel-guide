@@ -1,6 +1,6 @@
 ---
 title: 'K-Drama Filming Site in Pohang: A Visitor''s Guide'
-description: "Pohang's best-known K-drama filming draw is Guryongpo, the retro Japanese-era fishing town on the Homigot peninsula whose old wooden storefronts and narrow…"
+description: "Pohang's best-known K-drama filming draw is Guryongpo, the retro Japanese-era fishing town on the Homigot peninsula whose old wooden storefronts and narrow"
 region: Pohang
 category: trendy
 pubDate: 2026-07-20T00:00:00.000Z

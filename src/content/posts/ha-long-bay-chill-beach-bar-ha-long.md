@@ -1,6 +1,6 @@
 ---
 title: "Chill Beach Bar - Hạ Long: Where to Eat in Ha Long Bay"
-description: "Chill Beach Bar sits right on Bãi Cháy Beach in Ha Long City, a short walk from the Sun Wheel and the beachfront promenade — go in the late afternoon for…"
+description: "Chill Beach Bar sits right on Bãi Cháy Beach in Ha Long City, a short walk from the Sun Wheel and the beachfront promenade — go in the late afternoon for"
 country: "Vietnam"
 region: "Ha Long Bay"
 category: "restaurant"

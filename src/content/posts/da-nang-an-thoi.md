@@ -1,6 +1,6 @@
 ---
 title: "Ăn Thôi: Where to Eat in Da Nang"
-description: "Ăn Thôi is a large, buzzy Vietnamese restaurant on Bạch Đằng, Da Nang's riverside promenade, best known for seafood and central Vietnamese specialties like…"
+description: "Ăn Thôi is a large, buzzy Vietnamese restaurant on Bạch Đằng, Da Nang's riverside promenade, best known for seafood and central Vietnamese specialties like"
 country: "Vietnam"
 region: "Da Nang"
 category: "restaurant"
