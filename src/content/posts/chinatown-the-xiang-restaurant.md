@@ -1,5 +1,5 @@
 ---
-title: "湘厨湖南菜 The Xiang Restaurant: Where to Eat in Chinatown"
+title: "The Xiang Restaurant: Where to Eat in Chinatown"
 description: "The Xiang Restaurant (湘厨湖南菜) at 8 Smith Street is a Hunan-style Chinese restaurant tucked into Chinatown Food Street, prized for fiery, smoky, cumin-laced…"
 country: "Singapore"
 region: "Chinatown"

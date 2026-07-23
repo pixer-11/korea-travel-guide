@@ -43,9 +43,15 @@ const dupBy = (keyFn, label) => {
   for (const [k, ps] of m) if (ps.length > 1) issues.push(`${label} ×${ps.length}: ${ps.map((p) => p.f).join(', ')}`);
 };
 
+// Non-Latin scripts (Arabic/CJK/Thai/Japanese/Hangul/…) in a title mean Google's
+// bilingual place name leaked into the English H1 — generate.mjs strips it now, so
+// this catches any that slip through (or old posts).
+const NON_LATIN = /[؀-ۿ一-鿿฀-๿぀-ヿ가-힯ༀ-࿿]/;
 for (const p of posts) {
   if (p.region.includes('/')) issues.push(`SLASH in region "${p.region}" — breaks /regions route: ${p.f}`);
   if (!p.url || p.url.includes('placeholder')) issues.push(`PLACEHOLDER/no image [${p.category}]: ${p.f}`);
+  if (NON_LATIN.test(p.title)) issues.push(`NON-LATIN script in title "${p.title.slice(0, 40)}…": ${p.f}`);
+  if ((p.title.match(/\//g) || []).length >= 2) issues.push(`QUERY-LIKE title (multiple "/"): ${p.f}`);
 }
 dupBy((p) => (p.url && !p.url.includes('placeholder') ? unsplashNum(p.url) || p.url : ''), 'DUPLICATE image');
 dupBy((p) => p.placeId, 'DUPLICATE place.id');

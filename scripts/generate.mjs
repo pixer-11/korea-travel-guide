@@ -468,10 +468,22 @@ Go on a weekday morning to avoid crowds.
 // ── shared assembly ──────────────────────────────────────────
 // Tidy a raw Google place name for use in a title (drop marketing suffixes).
 function cleanVenueName(name) {
-  return String(name)
+  let s = String(name)
     .replace(/\s*[-–—]\s*michelin[^,]*$/i, '')       // "- Michelin Selected 2025-2026"
     .replace(/\s*\((?:michelin|selected)[^)]*\)\s*$/i, '')
     .trim();
+  // Google returns BILINGUAL names in non-Latin locales, e.g.
+  // "مطعم الركن اليمني للمندي Yemeni Corner Restaurant" or "翔記 Xiang Restaurant".
+  // On an English site the local-script half doesn't belong in the H1/title, so
+  // keep only the Latin portion (Basic/Extended Latin + Latin-Extended-Additional,
+  // which preserves Vietnamese diacritics). If stripping leaves too little real
+  // text, keep the original (a purely local-script name — rare, can't romanize).
+  const latin = s.replace(/[^ -ɏḀ-ỿ]/g, ' ').replace(/\s+/g, ' ').trim();
+  if (/[A-Za-z].*[A-Za-z]/.test(latin)) s = latin;
+  // Tidy separators left dangling after stripping a bilingual half
+  // ("Al Khayma … | مطعم …" → "Al Khayma … |" → "Al Khayma …").
+  s = s.replace(/\s*[|/·–—-]+\s*$/g, '').replace(/^\s*[|/·–—-]+\s*/g, '').trim();
+  return s;
 }
 function makeTitle(name, target) {
   // Was "{name}: A Visitor's Where to Eat in {region}" — ungrammatical. Restaurants
