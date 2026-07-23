@@ -6,10 +6,10 @@ region: Monza
 category: event
 pubDate: '2026-07-21'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Hendrik_Voogd_-_Italian_landscape_with_Umbrella_Pines.jpg/1920px-Hendrik_Voogd_-_Italian_landscape_with_Umbrella_Pines.jpg"
-  credit: "Photo: Hendrik Voogd / Wikimedia Commons (Public domain)"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fale_F1_Monza_2004_77.jpg/1920px-Fale_F1_Monza_2004_77.jpg"
+  credit: "Photo: Fabio Alessandro Locati / Wikimedia Commons (CC BY-SA 3.0)"
   license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Hendrik_Voogd_-_Italian_landscape_with_Umbrella_Pines.jpg"
+  source: "https://commons.wikimedia.org/wiki/File:Fale_F1_Monza_2004_77.jpg"
 gallery: []
 tags:
   - monza

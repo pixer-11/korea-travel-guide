@@ -8,10 +8,10 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-09-12'
 eventEndDate: '2026-09-12'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Aaron_Sankt_Hans_Odense.jpg/1920px-Aaron_Sankt_Hans_Odense.jpg"
-  credit: "Photo: Jebulon / Wikimedia Commons (CC0)"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Aaron_Kwok%27s_concert_20111222.jpg/1920px-Aaron_Kwok%27s_concert_20111222.jpg"
+  credit: "Photo: Mkckim / Wikimedia Commons (CC BY-SA 3.0)"
   license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Aaron_Sankt_Hans_Odense.jpg"
+  source: "https://commons.wikimedia.org/wiki/File:Aaron_Kwok%27s_concert_20111222.jpg"
 gallery: []
 tags:
   - kuala lumpur

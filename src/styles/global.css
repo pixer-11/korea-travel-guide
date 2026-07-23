@@ -119,6 +119,11 @@ svg.icon { display: inline-block; vertical-align: -0.15em; flex: none; width: 1e
 /* Full-colour emoji (Emoji.astro, Fluent Emoji Flat) — keep their own colours;
    size in em like the native emoji they replace, opting out of the img/svg reset. */
 svg.emoji { display: inline-block; vertical-align: -0.18em; flex: none; width: 1em; height: 1em; max-width: none; }
+/* Colored emoji on a solid RED button (dancheong accent) — a red ticket on red is
+   invisible. Give it a small light chip so it reads on the accent background. */
+.book-btn-primary .emoji, .fact-ticket .emoji, .sb-primary .emoji {
+  background: rgba(255, 255, 255, 0.92); border-radius: 3px; padding: 1px;
+}
 a { color: inherit; text-decoration: none; transition: color 0.15s ease; }
 
 h1, h2, h3, h4 {

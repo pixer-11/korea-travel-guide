@@ -8,10 +8,10 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-08-10'
 eventEndDate: '2026-08-10'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Michelangelo%27s_David_-_right_view_2.jpg/1920px-Michelangelo%27s_David_-_right_view_2.jpg"
-  credit: "Photo: Commonists / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Michelangelo%27s_David_-_right_view_2.jpg"
+  url: "https://images.unsplash.com/photo-1518122230977-6dc70ce79f4b?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8QmFuZ2tvayUyMFRoYWlsYW5kJTIwY29uY2VydCUyMHN0YWdlJTIwbGl2ZSUyMG11c2ljfGVufDB8MHx8fDE3ODQ3NzUyNDd8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
+  credit: "Photo by Duangphorn Wiriya on Unsplash"
+  license: "unsplash"
+  source: "https://unsplash.com/@ph_an_tom?utm_source=korea_travel_guide&utm_medium=referral"
 gallery: []
 tags:
   - bangkok

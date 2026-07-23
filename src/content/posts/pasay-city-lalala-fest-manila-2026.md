@@ -8,10 +8,10 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-08-21'
 eventEndDate: '2026-08-21'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_013.jpg/1920px-Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_013.jpg"
-  credit: "Photo: Thesupermat / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_013.jpg"
+  url: "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8M3x8Y29uY2VydCUyMGxpdmUlMjBldmVudCUyMHN0YWdlfGVufDB8MHx8fDE3ODQ3NzU4NjJ8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
+  credit: "Photo by Aditya Chinchure on Unsplash"
+  license: "unsplash"
+  source: "https://unsplash.com/@adityachinchure?utm_source=korea_travel_guide&utm_medium=referral"
 gallery: []
 tags:
   - pasay city

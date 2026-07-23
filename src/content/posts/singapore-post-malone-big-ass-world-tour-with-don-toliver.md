@@ -8,10 +8,10 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-08-29'
 eventEndDate: '2026-08-29'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/0/0a/Malone%2C_New_York_-_5159518331.jpg"
-  credit: "Photo: Dougtone / Wikimedia Commons (CC BY-SA 2.0)"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/F1_Rocks_Singapore.jpg/1920px-F1_Rocks_Singapore.jpg"
+  credit: "Photo: Chinnian / Wikimedia Commons (CC BY-SA 2.0)"
   license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Malone,_New_York_-_5159518331.jpg"
+  source: "https://commons.wikimedia.org/wiki/File:F1_Rocks_Singapore.jpg"
 gallery: []
 tags:
   - singapore

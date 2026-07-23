@@ -8,10 +8,10 @@ pubDate: '2026-07-21'
 eventStartDate: '2026-08-01'
 eventEndDate: '2026-08-02'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Hollywood_Forever_Cemetery_Main_Building.JPG/1920px-Hollywood_Forever_Cemetery_Main_Building.JPG"
-  credit: "Photo: Ratmackay / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Hollywood_Forever_Cemetery_Main_Building.JPG"
+  url: "https://images.unsplash.com/photo-1733758168272-ee6c9ce4310d?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8M3x8QmFuZ2tvayUyMFRoYWlsYW5kJTIwY29uY2VydCUyMHN0YWdlJTIwbGl2ZSUyMG11c2ljfGVufDB8MHx8fDE3ODQ3NzUyNDd8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
+  credit: "Photo by Polina Kuzovkova on Unsplash"
+  license: "unsplash"
+  source: "https://unsplash.com/@p_kuzovkova?utm_source=korea_travel_guide&utm_medium=referral"
 gallery: []
 tags:
   - bangkok

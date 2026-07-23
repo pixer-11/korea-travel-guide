@@ -8,10 +8,10 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-09-13'
 eventEndDate: '2026-09-13'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/20220820_JumboVisma_in_Vuelta_2022.jpg/1920px-20220820_JumboVisma_in_Vuelta_2022.jpg"
-  credit: "Photo: WeeJeeVee / Wikimedia Commons (CC BY-SA 4.0)"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Vuelta_a_Espa%C3%B1a.jpg/1920px-Vuelta_a_Espa%C3%B1a.jpg"
+  credit: "Photo: Arturo Francisco Barbero / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:20220820_JumboVisma_in_Vuelta_2022.jpg"
+  source: "https://commons.wikimedia.org/wiki/File:Vuelta_a_Espa%C3%B1a.jpg"
 gallery: []
 tags:
   - granada

@@ -8,10 +8,10 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-08-22'
 eventEndDate: '2026-08-23'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Lalala_Napoli_%2828351605671%29.jpg/1920px-Lalala_Napoli_%2828351605671%29.jpg"
-  credit: "Photo: Nicolas Buffler from Guilherand Granges, France / Wikimedia Commons (CC BY 2.0)"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_013.jpg/1920px-Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_013.jpg"
+  credit: "Photo: Thesupermat / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Lalala_Napoli_(28351605671).jpg"
+  source: "https://commons.wikimedia.org/wiki/File:Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_013.jpg"
 gallery: []
 tags:
   - jakarta

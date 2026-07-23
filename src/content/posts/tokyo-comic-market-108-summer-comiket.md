@@ -8,10 +8,10 @@ pubDate: '2026-07-21'
 eventStartDate: '2026-08-15'
 eventEndDate: '2026-08-16'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Wiki-Witch_Comic_Strip.png/1920px-Wiki-Witch_Comic_Strip.png"
-  credit: "Photo: Chris (CIS-A2K) / Wikimedia Commons (CC BY-SA 4.0)"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tokyo_2017_%2838462211971%29.jpg/1920px-Tokyo_2017_%2838462211971%29.jpg"
+  credit: "Photo: _steffen from Lüdenscheid, Deutschland / Wikimedia Commons (CC BY-SA 2.0)"
   license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Wiki-Witch_Comic_Strip.png"
+  source: "https://commons.wikimedia.org/wiki/File:Tokyo_2017_(38462211971).jpg"
 gallery: []
 tags:
   - tokyo

@@ -8,10 +8,10 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-08-22'
 eventEndDate: '2026-08-22'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Women_heptathlon_LJ_French_Athletics_Championships_2013_t144221.jpg/1920px-Women_heptathlon_LJ_French_Athletics_Championships_2013_t144221.jpg"
-  credit: "Photo: Marie-Lan Nguyen / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Women_heptathlon_LJ_French_Athletics_Championships_2013_t144221.jpg"
+  url: "https://images.unsplash.com/photo-1582728961697-2deaaf2380cd?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8YXRobGV0aWNzJTIwc3RhZGl1bSUyMHRyYWNrfGVufDB8MHx8fDE3ODQ3NzU4MTl8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
+  credit: "Photo by Markus Spiske on Unsplash"
+  license: "unsplash"
+  source: "https://unsplash.com/@markusspiske?utm_source=korea_travel_guide&utm_medium=referral"
 gallery: []
 tags:
   - bhubaneswar

@@ -28,15 +28,21 @@ const ANCHOR_STOP = new Set([
   'anniversary', 'opener', 'week', 'weekend', 'music', 'international', 'presents',
   'stadium', 'arena', 'vision', 'edition', 'official', 'post', 'big', 'ass', 'the',
   'and', 'asia', 'asian', 'summer', 'winter', 'series', 'games', 'league',
+  // Nation adjectives — "Italian Grand Prix" must not anchor on "italian" (→ an
+  // Italian landscape painting); let it fall to the event-type image.
+  'italian', 'spanish', 'french', 'german', 'korean', 'japanese', 'chinese',
+  'vietnamese', 'thai', 'turkish', 'indian', 'malaysian', 'indonesian', 'filipino',
+  'taiwanese', 'continental', 'european', 'americas', 'national', 'live',
 ]);
 
 // Most distinctive word of a name — e.g. "Gyeongbokgung Palace" -> "gyeongbokgung",
 // "Post Malone – Big Ass World Tour" -> "malone", "UFC Fight Night …" -> "ufc".
 export const keyToken = (s = '') => {
   const all = tokens(s); // already length > 2
+  const ordinal = (w) => /^\d+(st|nd|rd|th)$/i.test(w); // "83rd" must not anchor
   return (
-    all.find((w) => w.length > 3 && !ANCHOR_STOP.has(w)) ||
-    all.find((w) => !ANCHOR_STOP.has(w)) ||
+    all.find((w) => w.length > 3 && !ANCHOR_STOP.has(w) && !ordinal(w)) ||
+    all.find((w) => !ANCHOR_STOP.has(w) && !ordinal(w)) ||
     all[0] ||
     ''
   );
@@ -103,18 +109,24 @@ export async function commonsCandidates(query, limit = 10) {
 // an accurately-named-but-ugly photo (e.g. "Haeundae Police Station"); relying
 // on title match alone once put a police station on the Haeundae beach post.
 const BORING =
-  /police|\bstation\b|fire station|parking|office|government|city hall|district office|hospital|clinic|\bsign\b|signage|\bmap\b|diagram|schematic|construction|scaffold|toilet|restroom|manhole|number plate|license plate|logo|\bflag\b|coat of arms|panorama of reed|\bash\b|volcanic ash|eruption|erupting|\bflood(ing|ed|s)?\b|protest|\briot\b|demonstration|funeral|\bdisaster\b|shipwreck|\bwreck\b|\bcrash\b|wildfire|\bdebris\b|rubble|demolition|aftermath|heron|egret|\bbird\b|\bduck\b|pigeon|sparrow|wildlife|butterfly|insect|squirrel|\bcat\b|\bdog\b|self.?portrait|\bancient\b|\bbabylon\b|\bpyramid|waterfall|\bcave\b|grotto|grottes|\bincense\b|coliseum|colosseum|\bruins?\b|archaeolog|\b1[0-8]\d\d\b|\b19[0-4]\d\b/i;
+  /police|\bstation\b|fire station|parking|office|government|city hall|district office|hospital|clinic|\bsign\b|signage|\bmap\b|diagram|schematic|construction|scaffold|toilet|restroom|manhole|number plate|license plate|logo|\bflag\b|coat of arms|panorama of reed|\bash\b|volcanic ash|eruption|erupting|\bflood(ing|ed|s)?\b|protest|\briot\b|demonstration|funeral|\bdisaster\b|shipwreck|\bwreck\b|\bcrash\b|wildfire|\bdebris\b|rubble|demolition|aftermath|heron|egret|\bbird\b|\bduck\b|pigeon|sparrow|wildlife|butterfly|insect|squirrel|\bcat\b|\bdog\b|self.?portrait|\bancient\b|\bbabylon\b|\bpyramid|waterfall|\bcave\b|grotto|grottes|\bincense\b|coliseum|colosseum|\bruins?\b|archaeolog|\b1[0-8]\d\d\b|\b19[0-4]\d\b|\bwar\b|warfare|\bmilitary\b|\bsoldier|\barmy\b|\bnavy\b|weapon|\bbattle\b|\bcombat\b|troops|\btank\b|artillery|refugee|prisoner|execution|massacre|genocide|\bbomb|air ?raid|casualt|\bmemorial\b|cemetery|\bgrave\b|tomb of/i;
 
-export async function commonsBest(query, { mustInclude = [], used, allowPortrait = false, minWidth = 1000 } = {}) {
+export async function commonsBest(query, { mustInclude = [], used, allowPortrait = false, minWidth = 1000, crossCheck = null, minCross = 0 } = {}) {
   const cands = await commonsCandidates(query, 14);
   if (!cands.length) return null;
   const qtok = tokens(query);
   const must = mustInclude.map((s) => String(s).toLowerCase()).filter(Boolean);
+  // crossCheck: require the image title to share ≥minCross tokens with these words
+  // (usually the full event name). Guards an anchor-only search — "david" alone
+  // must match ≥2 event-name tokens, so a "Michelangelo David" statue is rejected
+  // but "Magomed Ankalaev at UFC Fight Night" (ankalaev+ufc+fight+night) passes.
+  const cross = crossCheck && minCross > 0 ? new Set(crossCheck.map((t) => String(t).toLowerCase())) : null;
 
   const eligible = cands
     .map((c, i) => {
       const ttok = new Set(tokens(c.title));
       const overlap = qtok.filter((t) => ttok.has(t)).length;
+      const crossN = cross ? [...ttok].filter((t) => cross.has(t)).length : Infinity;
       const titleLc = c.title.toLowerCase();
       const passesMust = must.length === 0 || must.some((m) => titleLc.includes(m));
       // Scenery heroes want a wide banner. For events, the RIGHT image is the
@@ -124,7 +136,7 @@ export async function commonsBest(query, { mustInclude = [], used, allowPortrait
       const landscape = !c.w || !c.h || (allowPortrait ? c.h <= c.w * 1.8 : c.w >= c.h * 0.95);
       const bigEnough = !c.w || c.w >= minWidth;
       const scenic = !BORING.test(c.title);
-      return { c, overlap, rank: i, ok: passesMust && overlap >= 1 && landscape && bigEnough && scenic };
+      return { c, overlap, rank: i, ok: passesMust && overlap >= 1 && landscape && bigEnough && scenic && (!cross || crossN >= minCross) };
     })
     .filter((s) => s.ok)
     .filter((s) => !used || !used.has(s.c.url));

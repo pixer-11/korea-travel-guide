@@ -89,6 +89,19 @@ export async function pickGallery(place, n = 3) {
 //   4. Unsplash, strictly constrained to region + "South Korea", BEST (not random)
 //   5. Placeholder
 // `used` is an optional Set of URLs already taken by other posts (de-dupe).
+// Country/continent/major-city names must NEVER be an event's image anchor — a
+// bare "vietnam" search returns war photos, "dubai" returns skyline, etc. When the
+// anchor is one of these, skip the anchor-only lookup and use the event-TYPE image.
+const GEO_STOP = new Set([
+  'vietnam', 'korea', 'japan', 'thailand', 'china', 'france', 'italy', 'spain', 'india',
+  'indonesia', 'malaysia', 'singapore', 'taiwan', 'turkey', 'turkiye', 'philippines',
+  'emirates', 'usa', 'america', 'american', 'britain', 'england', 'germany', 'spanish',
+  'asia', 'asian', 'europe', 'european', 'africa', 'oceania', 'international', 'national',
+  'dubai', 'abu', 'dhabi', 'hong', 'kong', 'tokyo', 'osaka', 'seoul', 'busan', 'bangkok',
+  'paris', 'madrid', 'barcelona', 'rome', 'venice', 'istanbul', 'jakarta', 'manila',
+  'shanghai', 'beijing', 'taipei', 'mumbai', 'delhi', 'hanoi', 'saigon', 'bali', 'monza',
+]);
+
 export async function resolveHero({ namedVenue, region, topic, place, country = 'South Korea', used, allowUnsplash = true, selfHost = false, preferTopic = false, eventMode = false } = {}) {
   const reg = region || '';
   const ctry = country || 'South Korea';
@@ -105,16 +118,16 @@ export async function resolveHero({ namedVenue, region, topic, place, country = 
     // Events: the ideal hero is the performer/athlete, usually a portrait — allow
     // it (and a smaller ≥600px file) rather than dropping to a wrong-topic city shot.
     const copts = eventMode ? { allowPortrait: true, minWidth: 600 } : {};
+    // Full name (+region, then bare), then an anchor-ONLY search that finds the real
+    // performer/athlete ("Ankalaev") BUT is cross-checked: the image title must
+    // share ≥2 tokens with the event name, so "Magomed Ankalaev at UFC Fight Night"
+    // (ankalaev+ufc+fight+night) passes while a bare "david"→statue / "sonic"→game /
+    // "83rd"→army-division photo (1 token) is rejected → falls to the event-TYPE image.
     const byName =
       (await commonsBest(`${namedVenue} ${reg}`, { mustInclude: [anchor], used, ...copts })) ||
       (await commonsBest(namedVenue, { mustInclude: [anchor], used, ...copts })) ||
-      // Events: the full title ("UFC Fight Night: Ankalaev vs Rountree Jr …") is
-      // too specific for Commons search; the distinctive name alone ("Ankalaev")
-      // finds the actual performer/athlete. Skip when the anchor is just the city
-      // (e.g. "Hong Kong Football" → "hong") — that returns a cityscape, not the
-      // event; let it fall through to the event-TYPE image instead. ≥4 chars.
-      (eventMode && anchor.length >= 4 && !new Set(tokens(reg || '')).has(anchor)
-        ? await commonsBest(anchor, { mustInclude: [anchor], used, ...copts })
+      (eventMode && anchor.length >= 4 && !new Set(tokens(reg || '')).has(anchor) && !GEO_STOP.has(anchor)
+        ? await commonsBest(anchor, { mustInclude: [anchor], used, ...copts, crossCheck: tokens(namedVenue), minCross: 2 })
         : null);
     if (byName) return mark(byName, used);
 
