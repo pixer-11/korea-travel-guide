@@ -6,10 +6,10 @@ region: "Kampong Glam"
 category: "trendy"
 pubDate: "2026-07-23T07:42:10.108Z"
 heroImage:
-  url: "/images/placeholder-market.svg"
-  credit: "Placeholder image"
-  license: "placeholder"
-  source: "local"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/2016_Singapur%2C_Kampong_Glam%2C_Centrum_Dziedzictwa_Malajskiego%2C_Dawny_Pa%C5%82ac_Kampong_Glam_%2804%29.jpg/1920px-2016_Singapur%2C_Kampong_Glam%2C_Centrum_Dziedzictwa_Malajskiego%2C_Dawny_Pa%C5%82ac_Kampong_Glam_%2804%29.jpg"
+  credit: "Photo: Marcin Konsek / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:2016_Singapur,_Kampong_Glam,_Centrum_Dziedzictwa_Malajskiego,_Dawny_Pa%C5%82ac_Kampong_Glam_(04).jpg"
 gallery: []
 place:
   id: "ChIJnwMTELEZ2jER4WqhksUDLFA"

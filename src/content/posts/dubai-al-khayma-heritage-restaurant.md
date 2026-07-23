@@ -6,10 +6,10 @@ region: "Dubai"
 category: "restaurant"
 pubDate: "2026-07-23T07:49:39.145Z"
 heroImage:
-  url: "/images/placeholder-market.svg"
-  credit: "Placeholder image"
-  license: "placeholder"
-  source: "local"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/A_car_on_Dubai_Dune_bashing.jpg/1920px-A_car_on_Dubai_Dune_bashing.jpg"
+  credit: "Photo: iMahesh / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:A_car_on_Dubai_Dune_bashing.jpg"
 gallery: []
 place:
   id: "ChIJl6Wlj3JDXz4RiuVGW1AttdY"

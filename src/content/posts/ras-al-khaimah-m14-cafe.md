@@ -6,10 +6,10 @@ region: "Ras Al Khaimah"
 category: "trendy"
 pubDate: "2026-07-23T07:56:48.110Z"
 heroImage:
-  url: "/images/placeholder-market.svg"
-  credit: "Placeholder image"
-  license: "placeholder"
-  source: "local"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Wadi_Shahah%2C_Ras_Al_Khaimah%2C_United_Arab_Emirates.png/1920px-Wadi_Shahah%2C_Ras_Al_Khaimah%2C_United_Arab_Emirates.png"
+  credit: "Photo: Mahdithewikipedian / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Wadi_Shahah,_Ras_Al_Khaimah,_United_Arab_Emirates.png"
 gallery: []
 place:
   id: "ChIJAVY-ZYh39j4RfV0bdsnLj3I"

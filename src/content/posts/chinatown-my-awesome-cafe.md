@@ -6,10 +6,10 @@ region: "Chinatown"
 category: "trendy"
 pubDate: "2026-07-23T07:41:07.225Z"
 heroImage:
-  url: "/images/placeholder-market.svg"
-  credit: "Placeholder image"
-  license: "placeholder"
-  source: "local"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Chinese_New_Year_decorations_in_Chinatown%2C_Singapore%2C_20240122_0851_2960.jpg/1920px-Chinese_New_Year_decorations_in_Chinatown%2C_Singapore%2C_20240122_0851_2960.jpg"
+  credit: "Photo: Jakub Hałun / Wikimedia Commons (CC BY 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Chinese_New_Year_decorations_in_Chinatown,_Singapore,_20240122_0851_2960.jpg"
 gallery: []
 place:
   id: "ChIJ83SVew0Z2jERsfl0iOB4Pco"

@@ -6,10 +6,10 @@ region: "Ajman"
 category: "restaurant"
 pubDate: "2026-07-23T07:52:52.893Z"
 heroImage:
-  url: "/images/placeholder-market.svg"
-  credit: "Placeholder image"
-  license: "placeholder"
-  source: "local"
+  url: "https://upload.wikimedia.org/wikipedia/commons/8/84/Diving_equipment_at_local_diving_center_in_Ajman%2C_emirate_of_Ajman%2C_United_Arab_Emirates%2C_Spring%2C_2011_%282%29.jpg"
+  credit: "Photo: majelanmarine / Wikimedia Commons (CC BY-SA 3.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Diving_equipment_at_local_diving_center_in_Ajman,_emirate_of_Ajman,_United_Arab_Emirates,_Spring,_2011_(2).jpg"
 gallery: []
 place:
   id: "ChIJEddxDWdXXz4RY6DXDYrwt7o"

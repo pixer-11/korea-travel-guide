@@ -6,10 +6,10 @@ region: "Clarke Quay"
 category: "restaurant"
 pubDate: "2026-07-23T07:37:16.109Z"
 heroImage:
-  url: "/images/placeholder-market.svg"
-  credit: "Placeholder image"
-  license: "placeholder"
-  source: "local"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Clarke_Quay%2C_Singapore%2C_at_night_-_20150308.jpg/1920px-Clarke_Quay%2C_Singapore%2C_at_night_-_20150308.jpg"
+  credit: "Photo: C1815. / Wikimedia Commons (CC0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Clarke_Quay,_Singapore,_at_night_-_20150308.jpg"
 gallery: []
 place:
   id: "ChIJc5IXFPUZ2jERJEHKmmHiZlA"

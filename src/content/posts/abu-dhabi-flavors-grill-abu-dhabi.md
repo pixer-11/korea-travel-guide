@@ -6,10 +6,10 @@ region: "Abu Dhabi"
 category: "restaurant"
 pubDate: "2026-07-23T07:50:12.075Z"
 heroImage:
-  url: "/images/placeholder-market.svg"
-  credit: "Placeholder image"
-  license: "placeholder"
-  source: "local"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Qasr_Al_Watan%2C_Abu_Dhabi_%28P1100959%29.jpg/1920px-Qasr_Al_Watan%2C_Abu_Dhabi_%28P1100959%29.jpg"
+  credit: "Photo: Matti Blume / Wikimedia Commons (CC BY-SA)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Qasr_Al_Watan,_Abu_Dhabi_(P1100959).jpg"
 gallery: []
 place:
   id: "ChIJeUrze2pnXj4RzcDODWlOjcQ"

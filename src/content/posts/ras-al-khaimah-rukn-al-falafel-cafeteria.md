@@ -6,10 +6,10 @@ region: "Ras Al Khaimah"
 category: "restaurant"
 pubDate: "2026-07-23T08:00:47.004Z"
 heroImage:
-  url: "/images/placeholder-market.svg"
-  credit: "Placeholder image"
-  license: "placeholder"
-  source: "local"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ras_Al-Khaimah_-_Ras_al_Khaimah_-_United_Arab_Emirates_-_panoramio_%281%29.jpg/1920px-Ras_Al-Khaimah_-_Ras_al_Khaimah_-_United_Arab_Emirates_-_panoramio_%281%29.jpg"
+  credit: "Photo: Bin Al Stroker / Wikimedia Commons (CC BY 3.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Ras_Al-Khaimah_-_Ras_al_Khaimah_-_United_Arab_Emirates_-_panoramio_(1).jpg"
 gallery: []
 place:
   id: "ChIJb4vWt6Nx9j4RBSaIuGli72I"

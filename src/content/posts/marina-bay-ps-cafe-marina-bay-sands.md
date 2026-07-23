@@ -6,10 +6,10 @@ region: "Marina Bay"
 category: "trendy"
 pubDate: "2026-07-23T07:40:04.471Z"
 heroImage:
-  url: "/images/placeholder-market.svg"
-  credit: "Placeholder image"
-  license: "placeholder"
-  source: "local"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Cricket_match_and_Marina_Bay_Sands_Hotel_in_Singapore.jpg/1920px-Cricket_match_and_Marina_Bay_Sands_Hotel_in_Singapore.jpg"
+  credit: "Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Cricket_match_and_Marina_Bay_Sands_Hotel_in_Singapore.jpg"
 gallery: []
 place:
   id: "ChIJkQ3gWyEZ2jERz2KwfC2rA3w"

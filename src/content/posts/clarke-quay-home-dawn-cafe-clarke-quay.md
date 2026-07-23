@@ -6,10 +6,10 @@ region: "Clarke Quay"
 category: "trendy"
 pubDate: "2026-07-23T07:42:44.882Z"
 heroImage:
-  url: "/images/placeholder-market.svg"
-  credit: "Placeholder image"
-  license: "placeholder"
-  source: "local"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/2016_-_Singapore_Clarke_Quay_after_Sunset.jpg/1920px-2016_-_Singapore_Clarke_Quay_after_Sunset.jpg"
+  credit: "Photo: DINS-COM / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:2016_-_Singapore_Clarke_Quay_after_Sunset.jpg"
 gallery: []
 place:
   id: "ChIJQThf-gMZ2jERawFJvldJ2hM"

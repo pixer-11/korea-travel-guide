@@ -6,10 +6,10 @@ region: "Sharjah"
 category: "restaurant"
 pubDate: "2026-07-23T08:00:11.616Z"
 heroImage:
-  url: "/images/placeholder-market.svg"
-  credit: "Placeholder image"
-  license: "placeholder"
-  source: "local"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Al_Majaz_Amphitheatre_Sharjah_United_Arab_Emirates_02.jpg/1920px-Al_Majaz_Amphitheatre_Sharjah_United_Arab_Emirates_02.jpg"
+  credit: "Photo: Paasikivi / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Al_Majaz_Amphitheatre_Sharjah_United_Arab_Emirates_02.jpg"
 gallery: []
 place:
   id: "ChIJ70wYpKtbXz4RXyoSaLRe7uE"

@@ -6,10 +6,10 @@ region: "Little India"
 category: "trendy"
 pubDate: "2026-07-23T07:41:39.375Z"
 heroImage:
-  url: "/images/placeholder-market.svg"
-  credit: "Placeholder image"
-  license: "placeholder"
-  source: "local"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Little_India%2C_Singapore_%28LRM_20230818_202704-RR%29.jpg/1920px-Little_India%2C_Singapore_%28LRM_20230818_202704-RR%29.jpg"
+  credit: "Photo: Matti Blume / Wikimedia Commons (CC BY-SA)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Little_India,_Singapore_(LRM_20230818_202704-RR).jpg"
 gallery: []
 place:
   id: "ChIJxf_ZdSYZ2jERWHDSce6Gwow"

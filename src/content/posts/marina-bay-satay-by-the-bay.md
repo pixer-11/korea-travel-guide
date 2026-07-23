@@ -6,10 +6,10 @@ region: "Marina Bay"
 category: "restaurant"
 pubDate: "2026-07-23T07:43:20.889Z"
 heroImage:
-  url: "/images/placeholder-market.svg"
-  credit: "Placeholder image"
-  license: "placeholder"
-  source: "local"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Singapore_Marina_Bay_Dusk_2018-02-27.jpg/1920px-Singapore_Marina_Bay_Dusk_2018-02-27.jpg"
+  credit: "Photo: Benh LIEU SONG (Flickr) / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Singapore_Marina_Bay_Dusk_2018-02-27.jpg"
 gallery: []
 place:
   id: "ChIJp6HV3hwZ2jERvuwjdrUPNRg"

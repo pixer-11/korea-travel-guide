@@ -6,10 +6,10 @@ region: "Dubai"
 category: "trendy"
 pubDate: "2026-07-23T07:55:05.700Z"
 heroImage:
-  url: "/images/placeholder-market.svg"
-  credit: "Placeholder image"
-  license: "placeholder"
-  source: "local"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Panorama_of_Dubai_from_Jumeriah_1.jpg/1920px-Panorama_of_Dubai_from_Jumeriah_1.jpg"
+  credit: "Photo: iMahesh / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Panorama_of_Dubai_from_Jumeriah_1.jpg"
 gallery: []
 place:
   id: "ChIJAQAAMChoXz4RuJzcBOap9Mk"

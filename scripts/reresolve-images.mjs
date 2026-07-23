@@ -41,8 +41,11 @@ for (const p of posts) {
 }
 
 // Targets: every event post + non-event placeholders + non-event dup extras.
+// `--no-events` skips events entirely — use it to safely fix ONLY placeholder/dup
+// venues without touching already-good event heroes (avoids event-image regression).
+const SKIP_EVENTS = process.argv.includes('--no-events');
 const targetSet = new Map();
-for (const p of posts) if (p.category === 'event') targetSet.set(p.f, p);
+for (const p of posts) if (p.category === 'event' && !SKIP_EVENTS) targetSet.set(p.f, p);
 const groups = new Map();
 for (const p of posts) {
   if (p.category === 'event') continue;

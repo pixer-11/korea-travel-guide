@@ -6,10 +6,10 @@ region: "Sentosa"
 category: "trendy"
 pubDate: "2026-07-23T07:40:35.084Z"
 heroImage:
-  url: "/images/placeholder-market.svg"
-  credit: "Placeholder image"
-  license: "placeholder"
-  source: "local"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/%28SGP-Singapore%29_Sentosa_Development_Corporation_PD3134S_Sentosa_Bus_A_2026-03-13.jpg/1920px-%28SGP-Singapore%29_Sentosa_Development_Corporation_PD3134S_Sentosa_Bus_A_2026-03-13.jpg"
+  credit: "Photo: S5A-0043 / Wikimedia Commons (CC BY 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:(SGP-Singapore)_Sentosa_Development_Corporation_PD3134S_Sentosa_Bus_A_2026-03-13.jpg"
 gallery: []
 place:
   id: "ChIJy2LyDWwZ2jERD1C-TcAz4qc"

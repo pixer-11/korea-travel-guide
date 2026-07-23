@@ -6,10 +6,10 @@ region: "Fujairah"
 category: "restaurant"
 pubDate: "2026-07-23T08:01:19.136Z"
 heroImage:
-  url: "/images/placeholder-market.svg"
-  credit: "Placeholder image"
-  license: "placeholder"
-  source: "local"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Water_pipe_in_Wadi_Wurayah_Emirate_of_Fujairah_-_United_Arab_Emirates_-_panoramio.jpg/1920px-Water_pipe_in_Wadi_Wurayah_Emirate_of_Fujairah_-_United_Arab_Emirates_-_panoramio.jpg"
+  credit: "Photo: Bin Al Stroker / Wikimedia Commons (CC BY 3.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Water_pipe_in_Wadi_Wurayah_Emirate_of_Fujairah_-_United_Arab_Emirates_-_panoramio.jpg"
 gallery: []
 place:
   id: "ChIJT93bboz49D4Rop5Zc7He-2M"

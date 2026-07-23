@@ -6,10 +6,10 @@ region: "Sharjah"
 category: "trendy"
 pubDate: "2026-07-23T07:56:12.387Z"
 heroImage:
-  url: "/images/placeholder-market.svg"
-  credit: "Placeholder image"
-  license: "placeholder"
-  source: "local"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Al_Majaz_Amphitheatre_Sharjah_United_Arab_Emirates_01.jpg/1920px-Al_Majaz_Amphitheatre_Sharjah_United_Arab_Emirates_01.jpg"
+  credit: "Photo: Paasikivi / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Al_Majaz_Amphitheatre_Sharjah_United_Arab_Emirates_01.jpg"
 gallery: []
 place:
   id: "ChIJW8kiktFfXz4RmPlLAZvkoZA"

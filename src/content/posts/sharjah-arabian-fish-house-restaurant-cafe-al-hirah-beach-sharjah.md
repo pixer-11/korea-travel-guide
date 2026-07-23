@@ -6,10 +6,10 @@ region: "Sharjah"
 category: "restaurant"
 pubDate: "2026-07-23T07:50:46.922Z"
 heroImage:
-  url: "/images/placeholder-market.svg"
-  credit: "Placeholder image"
-  license: "placeholder"
-  source: "local"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Sharjah_Al_Khan_-_Sharafeldin_1.jpg/1920px-Sharjah_Al_Khan_-_Sharafeldin_1.jpg"
+  credit: "Photo: Sharaf01 / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Sharjah_Al_Khan_-_Sharafeldin_1.jpg"
 gallery: []
 place:
   id: "ChIJZcbdH-JZXz4RioZKuXpfEKA"

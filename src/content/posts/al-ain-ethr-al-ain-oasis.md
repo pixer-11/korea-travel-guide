@@ -6,10 +6,10 @@ region: "Al Ain"
 category: "trendy"
 pubDate: "2026-07-23T07:57:20.522Z"
 heroImage:
-  url: "/images/placeholder-market.svg"
-  credit: "Placeholder image"
-  license: "placeholder"
-  source: "local"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Al_Ain_Oasis%2C_Al_Mutawaa_-_Abu_Dhabi_-_United_Arab_Emirates_-_panoramio.jpg/1920px-Al_Ain_Oasis%2C_Al_Mutawaa_-_Abu_Dhabi_-_United_Arab_Emirates_-_panoramio.jpg"
+  credit: "Photo: trolvag / Wikimedia Commons (CC BY-SA 3.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Al_Ain_Oasis,_Al_Mutawaa_-_Abu_Dhabi_-_United_Arab_Emirates_-_panoramio.jpg"
 gallery: []
 place:
   id: "ChIJLU7d_By3ij4RSDVW7PgTqSY"

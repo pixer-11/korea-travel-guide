@@ -6,10 +6,10 @@ region: "Ras Al Khaimah"
 category: "restaurant"
 pubDate: "2026-07-23T07:51:20.246Z"
 heroImage:
-  url: "/images/placeholder-market.svg"
-  credit: "Placeholder image"
-  license: "placeholder"
-  source: "local"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Jebel_Jais_Mountain_Ranges_as_viewed_from_Ras_Al_Khaimah%2C_United_Arab_Emirates.jpg/1920px-Jebel_Jais_Mountain_Ranges_as_viewed_from_Ras_Al_Khaimah%2C_United_Arab_Emirates.jpg"
+  credit: "Photo: Ginevrajocosa88 / Wikimedia Commons (CC0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Jebel_Jais_Mountain_Ranges_as_viewed_from_Ras_Al_Khaimah,_United_Arab_Emirates.jpg"
 gallery: []
 place:
   id: "ChIJCSRfZphx9j4RPLTge32vHAY"
