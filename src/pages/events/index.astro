@@ -3,8 +3,10 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import PostCard from '../../components/PostCard.astro';
 import Newsletter from '../../components/Newsletter.astro';
+import Flag from '../../components/Flag.astro';
 import { SITE } from '../../siteConfig';
 import { isEventPast, eventSortValue } from '../../lib/eventStatus';
+import countriesData from '../../../data/countries.json';
 
 const all = await getCollection('posts', ({ data }) => !data.draft && data.category === 'event');
 const today = new Date();
@@ -16,6 +18,24 @@ const past = all
   .sort((a, b) => eventSortValue(a.data, today) - eventSortValue(b.data, today));
 
 const countries = new Set(upcoming.map((p) => p.data.country ?? 'South Korea')).size;
+
+// "Browse by country" — link to each per-country events hub (built only for
+// countries with ≥2 events). Ordered by upcoming-event count, then name.
+const slugByName = new Map(countriesData.countries.map((c) => [c.name, c]));
+const evCount = new Map();
+for (const p of all) {
+  const n = p.data.country ?? 'South Korea';
+  evCount.set(n, (evCount.get(n) ?? 0) + 1);
+}
+const upCount = new Map();
+for (const p of upcoming) {
+  const n = p.data.country ?? 'South Korea';
+  upCount.set(n, (upCount.get(n) ?? 0) + 1);
+}
+const countryLinks = [...evCount.entries()]
+  .filter(([name, n]) => n >= 2 && slugByName.has(name))
+  .map(([name]) => ({ name, slug: slugByName.get(name).slug, flag: slugByName.get(name).iso2, up: upCount.get(name) ?? 0 }))
+  .sort((a, b) => b.up - a.up || a.name.localeCompare(b.name));
 
 // Group upcoming events by month for a scannable, date-first layout.
 const monthLabel = (d) =>
@@ -61,6 +81,14 @@ const jsonLd = {
       <p class="eyebrow">Events</p>
       <h1>Upcoming events</h1>
       <p>{upcoming.length} upcoming concerts, sports events, and festivals across {countries} {countries === 1 ? 'country' : 'countries'} — pick a date, plan the trip around it.</p>
+      {countryLinks.length > 1 && (
+        <p class="event-country-nav">
+          Browse by country:{' '}
+          {countryLinks.map((c, i) => (
+            <>{i > 0 && <span aria-hidden="true"> · </span>}<a href={`/events/${c.slug}`} class="rule-link"><Flag code={c.flag} size="1em" class="flag-ico" /> {c.name}</a></>
+          ))}
+        </p>
+      )}
     </div>
   </section>
 
@@ -90,5 +118,8 @@ const jsonLd = {
     </section>
   )}
 
-  <Newsletter />
+  <Newsletter
+    heading="Never miss an event worth traveling for"
+    dek="New concerts, festivals, and sports events across our destinations — the moment we publish them. Unsubscribe anytime."
+  />
 </BaseLayout>

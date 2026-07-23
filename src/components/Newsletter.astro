@@ -7,8 +7,12 @@
 import { SITE } from '../siteConfig';
 import { getLangFromUrl, useTranslations, type Lang } from '../i18n/utils';
 import Emoji from './Emoji.astro';
-interface Props { compact?: boolean; lang?: Lang }
-const { compact = false, lang: langProp } = Astro.props;
+// `heading`/`dek` optionally override the default translated copy so the signup
+// can MESSAGE-MATCH the page context (e.g. "Planning a trip to Busan?" on a Busan
+// page). When omitted, the i18n defaults render unchanged — localized pages that
+// don't pass overrides keep full translation.
+interface Props { compact?: boolean; lang?: Lang; heading?: string; dek?: string }
+const { compact = false, lang: langProp, heading, dek } = Astro.props;
 const lang = langProp ?? getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
 // Public embedded-form endpoint (account 2523042 · form 193609989933237794).
@@ -19,8 +23,8 @@ const ML_ACTION = 'https://assets.mailerlite.com/jsonp/2523042/forms/19360998993
   <div class="wrap">
     <div class="nl-inner">
       <p class="kicker gold">{SITE.name} {t('home.newsletterKicker')}</p>
-      <h2>{t('home.newsletterTitle')}</h2>
-      <p class="nl-dek">{t('home.newsletterDek')}</p>
+      <h2>{heading ?? t('home.newsletterTitle')}</h2>
+      <p class="nl-dek">{dek ?? t('home.newsletterDek')}</p>
       <p class="nl-bonus"><Emoji name="wrapped-gift" /> {t('home.newsletterBonus')}</p>
       <form class="nl-form" data-ml-action={ML_ACTION} novalidate>
         <input type="email" name="email" placeholder="you@email.com" aria-label="Email address" autocomplete="email" required />

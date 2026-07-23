@@ -1,4 +1,4 @@
-# Deploying Korea Travel Guide
+# Deploying Wander Atlas
 
 The site is a static Astro build. Recommended host: **Cloudflare Pages** (free,
 fast) connected to a **GitHub** repo, which also runs the daily auto-publish.

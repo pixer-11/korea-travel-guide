@@ -18,6 +18,10 @@ Facts such as ratings, addresses and hours come from live Google Places data and
 - [Best time to visit](https://wanderatlasguides.com/essentials/best-time-to-visit): Seasons, weather, festivals
 - [Emergency & help](https://wanderatlasguides.com/essentials/emergency): Emergency numbers and traveler help lines
 
+## Events
+- [Upcoming events](https://wanderatlasguides.com/events): Concerts, festivals and sports events worth traveling for, by month and country
+- [Events feed (markdown)](https://wanderatlasguides.com/events.md): Machine-readable list of upcoming events with dates, cities and links
+
 ## Tools
 - [Flights](https://wanderatlasguides.com/flights): Search live flight prices to any destination
 - [Free trip-planning checklist](https://wanderatlasguides.com/free/trip-checklist): A printable pre-trip checklist

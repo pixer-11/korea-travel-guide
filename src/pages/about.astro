@@ -1,10 +1,11 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE } from '../siteConfig';
 ---
 
 <BaseLayout
   title="Editorial Policy"
-  description="How Korea Travel Guide is made: our sources, our use of AI assistance, and our commitment to accurate, licensed content."
+  description={`How ${SITE.name} is made: our sources, our use of AI assistance, and our commitment to accurate, licensed content.`}
 >
   <div class="page-hero">
     <div class="wrap">
@@ -15,7 +16,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
   <article class="article wrap">
     <div class="prose">
     <p>
-      Korea Travel Guide is a curated, editor-reviewed resource for
+      {SITE.name} is a curated, editor-reviewed resource for
       international visitors. We're transparent about how it's produced.
     </p>
 
@@ -44,7 +45,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       <li><strong>No invented details:</strong> our drafting process is explicitly instructed never to fabricate hours, prices, or addresses; specifics come from data, not guesswork.</li>
     </ul>
     <p>
-      Guides are produced by the Korea Travel Guide editorial team using this
+      Guides are produced by the {SITE.name} editorial team using this
       process. We do not claim personal visits we haven't made — we're a
       curation-and-verification resource, and we say so.
     </p>

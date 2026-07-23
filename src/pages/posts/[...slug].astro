@@ -323,7 +323,13 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
       </section>
     )}
 
-    <Newsletter compact />
+    <Newsletter
+      compact
+      heading={d.category === 'event' ? 'Get alerts for events worth traveling for' : `More ${d.region} travel tips?`}
+      dek={d.category === 'event'
+        ? 'New concerts, festivals, and sports events across our destinations — straight to your inbox.'
+        : `New ${d.region} guides and practical tips, the moment we publish them. Unsubscribe anytime.`}
+    />
 
     {related.length > 0 && (
       <section class="related">

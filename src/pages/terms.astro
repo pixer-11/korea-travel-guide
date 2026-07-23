@@ -1,10 +1,11 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE } from '../siteConfig';
 ---
 
 <BaseLayout
   title="Terms of Use"
-  description="Terms of use for Korea Travel Guide."
+  description={`Terms of use for ${SITE.name}.`}
 >
   <div class="page-hero">
     <div class="wrap">
@@ -17,7 +18,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
   <article class="article wrap">
     <div class="prose">
       <p>
-        By using Korea Travel Guide (the "Site"), you agree to these terms.
+        By using {SITE.name} (the "Site"), you agree to these terms.
         Please read them before relying on any information here.
       </p>
 

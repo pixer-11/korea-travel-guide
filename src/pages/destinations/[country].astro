@@ -55,6 +55,18 @@ const regionImage = (r) => wallThumb(pickRepHeroUrl(posts.filter((p) => p.data.r
 
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
 const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
+
+// Peak-intent affiliate CTAs for the country hub. Key Klook to the capital/lead
+// city (better "things to do" results than a whole country), hotels to the
+// country. Same attribution (marker 754088) as the post pages.
+// Link "what's on" to the dedicated per-country events hub when one exists (built
+// only for countries with ≥2 events); otherwise fall back to the global /events.
+const countryEventCount = posts.filter((p) => p.data.category === 'event').length;
+const eventsHref = countryEventCount >= 2 ? `/events/${country.slug}` : '/events';
+const leadCity = (country.regions ?? [])[0] ?? country.name;
+const klookCountry = `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7Cpid%7C754088&k_site=${encodeURIComponent(`https://www.klook.com/en-US/search/?query=${leadCity}`)}`;
+const hotelCountry = `https://search.hotellook.com/?marker=754088&destination=${encodeURIComponent(country.name)}`;
+
 const jsonLd = {
   '@context': 'https://schema.org',
   '@graph': [
@@ -117,7 +129,7 @@ const jsonLd = {
                   />
                 ))}
               </div>
-              <p style="margin-top:1rem"><a href="/events" class="rule-link">All upcoming events →</a></p>
+              <p style="margin-top:1rem"><a href={eventsHref} class="rule-link">All {country.name} events →</a></p>
             </div>
           )}
 
@@ -151,8 +163,9 @@ const jsonLd = {
           <div class="book-cta">
             <span class="book-cta-label">Planning a trip to {country.name}?</span>
             <div class="book-cta-btns">
-              <a class="book-btn book-btn-primary" href="/flights" rel="sponsored noopener"><Emoji name="airplane" /> Find flights</a>
-              <a class="book-btn" href="/destinations"><Emoji name="globe-showing-asia-australia" /> More destinations</a>
+              <a class="book-btn book-btn-primary" href={klookCountry} target="_blank" rel="sponsored noopener"><Emoji name="admission-tickets" /> Things to do</a>
+              <a class="book-btn" href={hotelCountry} target="_blank" rel="sponsored noopener"><Emoji name="hotel" /> Find hotels</a>
+              <a class="book-btn" href="/flights" rel="sponsored noopener"><Emoji name="airplane" /> Flights</a>
             </div>
           </div>
         </>
@@ -160,5 +173,8 @@ const jsonLd = {
     </div>
   </section>
 
-  <Newsletter />
+  <Newsletter
+    heading={`Planning a trip to ${country.name}?`}
+    dek={`New ${country.name} guides, upcoming events, and practical tips — straight to your inbox. No spam, unsubscribe anytime.`}
+  />
 </BaseLayout>

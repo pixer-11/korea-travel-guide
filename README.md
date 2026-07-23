@@ -1,4 +1,4 @@
-# Korea Travel Guide 🇰🇷
+# Wander Atlas 🇰🇷
 
 An automated, **legally-sourced** Korea travel guide for international visitors.
 Built with [Astro](https://astro.build) (fast static site, great SEO) and an
