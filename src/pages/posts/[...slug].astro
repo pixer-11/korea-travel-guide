@@ -80,6 +80,13 @@ const nearby = (await getCollection('posts', ({ data }) => !data.draft))
   .filter((r) => r.id !== post.id && r.data.region === d.region && !relatedIds.has(r.id))
   .slice(0, 6);
 
+// A RECURRING event (annual festival, GP, championship, film festival…) keeps
+// its page indexed after it ends AND advertises a yearly cadence in schema, so it
+// can win "when is X <next year>" as the next edition approaches. Defined once
+// here and reused by both the Event schema and the noindex decision below.
+const RECURRING = /annual|festival|championship|grand prix|gran premio|\bopen\b|world cup|olympic|marathon|matsuri|biennale|\bcup\b|rally|expo|comic ?market|comiket|\b\d{1,3}(st|nd|rd|th)\b/i;
+const isRecurringEvent = d.category === 'event' && RECURRING.test(d.title);
+
 // ---- Structured data graph (Article + Place + FAQ + Breadcrumbs) ----
 const graph: Record<string, unknown>[] = [
   {
@@ -145,6 +152,15 @@ if (d.category === 'event' && d.eventStartDate) {
     ...(d.eventEndDate && { endDate: isoDay(d.eventEndDate) }),
     eventStatus: 'https://schema.org/EventScheduled',
     eventAttendanceMode: 'https://schema.org/OfflineEventAttendanceMode',
+    // Recurring events advertise a yearly cadence (byMonth from the start date) so
+    // search engines understand the next edition is expected ~annually.
+    ...(isRecurringEvent && {
+      eventSchedule: {
+        '@type': 'Schedule',
+        repeatFrequency: 'P1Y',
+        byMonth: new Date(d.eventStartDate).getUTCMonth() + 1,
+      },
+    }),
     location: {
       '@type': 'Place',
       name: d.region,
@@ -160,10 +176,9 @@ const jsonLd = { '@context': 'https://schema.org', '@graph': graph };
 
 // Expiry 2-track (SEO): a ONE-OFF past event (single concert/tour stop) → noindex
 // to keep the young domain clean of thin/outdated pages (URL stays live at 200).
-// RECURRING events (annual festivals, GPs, championships, film festivals…) stay
-// indexed — they win "when is X 2027" as the next edition approaches.
-const RECURRING = /annual|festival|championship|grand prix|gran premio|\bopen\b|world cup|olympic|marathon|matsuri|biennale|\bcup\b|rally|expo|comic ?market|comiket|\b\d{1,3}(st|nd|rd|th)\b/i;
-const noindexPost = isEventPast(d) && !RECURRING.test(d.title);
+// RECURRING events stay indexed (see isRecurringEvent above) — they win
+// "when is X 2027" as the next edition approaches.
+const noindexPost = isEventPast(d) && !isRecurringEvent;
 ---
 
 <BaseLayout

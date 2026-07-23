@@ -49,13 +49,25 @@ const orgLd = {
       '@id': `${siteUrl}/#org`,
       name: siteName,
       url: siteUrl,
+      logo: { '@type': 'ImageObject', url: `${siteUrl}/favicon.svg` },
       description: 'Editor-reviewed, AI-assisted travel guides for destinations around the world.',
+      slogan: SITE.tagline,
+      foundingDate: '2026',
+      // Named topical expertise + a transparent editorial policy are the E-E-A-T
+      // signals AI search rewards. We deliberately attribute authorship to the
+      // organization (a real editorial team), NOT a fabricated human byline.
+      knowsAbout: [
+        'Travel', 'Tourism', 'Travel destinations', 'Local food and restaurants',
+        'Public transport', 'Visa requirements', 'Travel events and festivals',
+      ],
+      publishingPrinciples: `${siteUrl}/about`,
     },
     {
       '@type': 'WebSite',
       '@id': `${siteUrl}/#site`,
       name: siteName,
       url: siteUrl,
+      description: SITE.description,
       publisher: { '@id': `${siteUrl}/#org` },
       inLanguage: 'en',
     },
