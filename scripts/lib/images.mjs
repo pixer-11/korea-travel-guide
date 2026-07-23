@@ -113,8 +113,10 @@ export async function resolveHero({ namedVenue, region, topic, place, country = 
     if (hosted) return hosted;
   }
 
-  if (namedVenue) {
+  if (namedVenue && keyToken(namedVenue)) {
     const anchor = keyToken(namedVenue);
+    // (anchor guaranteed non-empty by the guard above; an all-stop-word name like
+    // "Italian Grand Prix" yields '' and skips straight to the event-type image.)
     // Events: the ideal hero is the performer/athlete, usually a portrait — allow
     // it (and a smaller ≥600px file) rather than dropping to a wrong-topic city shot.
     const copts = eventMode ? { allowPortrait: true, minWidth: 600 } : {};
@@ -292,7 +294,12 @@ export async function unsplashCandidates(query, perPage = 30) {
   const url =
     `https://api.unsplash.com/search/photos?per_page=${perPage}&orientation=landscape` +
     `&query=${encodeURIComponent(query)}`;
-  const res = await fetch(url, { headers: { Authorization: `Client-ID ${UNSPLASH_KEY}` } });
+  let res;
+  try {
+    res = await fetch(url, { headers: { Authorization: `Client-ID ${UNSPLASH_KEY}` } });
+  } catch {
+    return []; // transient network/DNS error must not abort the whole run (commonsCandidates already guards this way)
+  }
   if (!res.ok) return [];
   const data = await res.json();
   return (data.results ?? []).map((hit) => ({

@@ -40,10 +40,14 @@ const ANCHOR_STOP = new Set([
 export const keyToken = (s = '') => {
   const all = tokens(s); // already length > 2
   const ordinal = (w) => /^\d+(st|nd|rd|th)$/i.test(w); // "83rd" must not anchor
+  const yearLike = (w) => /^(19|20)\d{2}$/.test(w); // "2026" must not anchor either
+  const bad = (w) => ANCHOR_STOP.has(w) || ordinal(w) || yearLike(w);
+  // If EVERY token is a stop-word/ordinal (e.g. "Italian Grand Prix" → all stops),
+  // return '' — an empty anchor cleanly routes to the event-TYPE image instead of
+  // falling back to all[0] ("italian") and fetching an Italian-landscape photo.
   return (
-    all.find((w) => w.length > 3 && !ANCHOR_STOP.has(w) && !ordinal(w)) ||
-    all.find((w) => !ANCHOR_STOP.has(w) && !ordinal(w)) ||
-    all[0] ||
+    all.find((w) => w.length > 3 && !bad(w)) ||
+    all.find((w) => !bad(w)) ||
     ''
   );
 };
@@ -109,7 +113,12 @@ export async function commonsCandidates(query, limit = 10) {
 // an accurately-named-but-ugly photo (e.g. "Haeundae Police Station"); relying
 // on title match alone once put a police station on the Haeundae beach post.
 const BORING =
-  /police|\bstation\b|fire station|parking|office|government|city hall|district office|hospital|clinic|\bsign\b|signage|\bmap\b|diagram|schematic|construction|scaffold|toilet|restroom|manhole|number plate|license plate|logo|\bflag\b|coat of arms|panorama of reed|\bash\b|volcanic ash|eruption|erupting|\bflood(ing|ed|s)?\b|protest|\briot\b|demonstration|funeral|\bdisaster\b|shipwreck|\bwreck\b|\bcrash\b|wildfire|\bdebris\b|rubble|demolition|aftermath|heron|egret|\bbird\b|\bduck\b|pigeon|sparrow|wildlife|butterfly|insect|squirrel|\bcat\b|\bdog\b|self.?portrait|\bancient\b|\bbabylon\b|\bpyramid|waterfall|\bcave\b|grotto|grottes|\bincense\b|coliseum|colosseum|\bruins?\b|archaeolog|\b1[0-8]\d\d\b|\b19[0-4]\d\b|\bwar\b|warfare|\bmilitary\b|\bsoldier|\barmy\b|\bnavy\b|weapon|\bbattle\b|\bcombat\b|troops|\btank\b|artillery|refugee|prisoner|execution|massacre|genocide|\bbomb|air ?raid|casualt|\bmemorial\b|cemetery|\bgrave\b|tomb of/i;
+  /police|\bstation\b|fire station|parking|office|government|city hall|district office|hospital|clinic|\bsign\b|signage|\bmap\b|diagram|schematic|construction|scaffold|toilet|restroom|manhole|number plate|license plate|logo|\bflag\b|coat of arms|panorama of reed|\bash\b|volcanic ash|eruption|erupting|\bflood(ing|ed|s)?\b|protest|\briot\b|demonstration|funeral|\bdisaster\b|shipwreck|\bwreck\b|\bcrash\b|wildfire|\bdebris\b|rubble|demolition|aftermath|heron|egret|\bbird\b|\bduck\b|pigeon|sparrow|wildlife|butterfly|insect|squirrel|\bcat\b|\bdog\b|self.?portrait|\bbabylon\b|\bincense\b|\b1[0-8]\d\d\b|\b19[0-4]\d\b|\bwar\b|warfare|\bmilitary\b|\bsoldier|\barmy\b|\bnavy\b|weapon|\bbattle\b|\bcombat\b|troops|\btank\b|artillery|refugee|prisoner|execution|massacre|genocide|\bbomb|air ?raid|casualt|\bmemorial\b|cemetery|\bgrave\b|tomb of/i;
+// NOTE: cave/waterfall/grotto/ruins/ancient/pyramid were REMOVED from BORING —
+// they're legit scenic ATTRACTIONS (Manjanggul Cave, Cheonjiyeon Waterfall,
+// Seokguram Grotto/UNESCO). Event homonyms (Babylon→ancient, Rock en Seine→rock)
+// are now blocked by crossCheck/GEO_STOP/keyToken + the vintage-year guard, not
+// by banning these travel subjects.
 
 export async function commonsBest(query, { mustInclude = [], used, allowPortrait = false, minWidth = 1000, crossCheck = null, minCross = 0 } = {}) {
   const cands = await commonsCandidates(query, 14);
@@ -127,6 +136,11 @@ export async function commonsBest(query, { mustInclude = [], used, allowPortrait
       const ttok = new Set(tokens(c.title));
       const overlap = qtok.filter((t) => ttok.has(t)).length;
       const crossN = cross ? [...ttok].filter((t) => cross.has(t)).length : Infinity;
+      // A title token that is neither in the event name NOR a pure number is a
+      // FOREIGN proper noun ("Michelangelo", "Hedgehog") = mismatch. Zero foreign
+      // tokens means the title is just the act + a date ("Itzy 241023") → accept
+      // even at crossN=1, so ITZY/BIGBANG-style real photos aren't false-rejected.
+      const foreignN = cross ? [...ttok].filter((t) => !cross.has(t) && !/^\d+$/.test(t)).length : 0;
       const titleLc = c.title.toLowerCase();
       const passesMust = must.length === 0 || must.some((m) => titleLc.includes(m));
       // Scenery heroes want a wide banner. For events, the RIGHT image is the
@@ -136,7 +150,7 @@ export async function commonsBest(query, { mustInclude = [], used, allowPortrait
       const landscape = !c.w || !c.h || (allowPortrait ? c.h <= c.w * 1.8 : c.w >= c.h * 0.95);
       const bigEnough = !c.w || c.w >= minWidth;
       const scenic = !BORING.test(c.title);
-      return { c, overlap, rank: i, ok: passesMust && overlap >= 1 && landscape && bigEnough && scenic && (!cross || crossN >= minCross) };
+      return { c, overlap, rank: i, ok: passesMust && overlap >= 1 && landscape && bigEnough && scenic && (!cross || crossN >= minCross || foreignN === 0) };
     })
     .filter((s) => s.ok)
     .filter((s) => !used || !used.has(s.c.url));
