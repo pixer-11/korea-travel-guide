@@ -1,5 +1,5 @@
 ---
-title: 'Abai Village in Sokcho: A Visitor''s Guide'
+title: "Abai Village in Sokcho"
 description: "Abai Village sits on a narrow sandbar in Sokcho, across the harbor channel from the main downtown, reachable on foot via the hand-pulled ferry (gaetbae) at"
 region: Sokcho
 category: hidden-gem

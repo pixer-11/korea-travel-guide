@@ -1,5 +1,5 @@
 ---
-title: 'Nobu (One Za''abeel) in Dubai: A Visitor''s Guide'
+title: "Nobu (One Za'abeel) in Dubai"
 description: "Nobu's newest Dubai outpost sits inside The Link, the sky-bridge connecting the two towers of One Za'abeel, roughly 230 metres above the city — making it"
 country: United Arab Emirates
 region: Dubai

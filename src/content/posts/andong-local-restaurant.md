@@ -1,5 +1,5 @@
 ---
-title: 'Local Restaurant in Andong: A Visitor''s Guide'
+title: "Local Restaurant in Andong"
 description: "For an authentic meal in Andong, head to the Andong Jjimdak Alley (Andong Jjimdak Golmok) near Andong Bus Terminal, or the Gudam-dong/Ok-dong area near"
 region: Andong
 category: restaurant

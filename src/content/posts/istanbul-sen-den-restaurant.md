@@ -1,5 +1,5 @@
 ---
-title: 'Sen''den Restaurant in Istanbul: A Visitor''s Guide'
+title: "Sen'den Restaurant in Istanbul"
 description: "Sen'den is a newly opened restaurant in Karaköy, set inside the restored 19th-century Hovagimyan Han, pairing historic Ottoman-era architecture with a"
 country: Turkey
 region: Istanbul

@@ -1,5 +1,5 @@
 ---
-title: 'Bamboo Forest in Damyang: A Visitor''s Guide'
+title: "Bamboo Forest in Damyang"
 description: "Juknokwon (죽녹원) in Damyang is South Korea's most famous bamboo forest — a roughly 16-hectare park with eight themed walking trails through towering moso"
 region: Damyang
 category: attraction

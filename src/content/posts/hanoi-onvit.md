@@ -1,5 +1,5 @@
 ---
-title: 'ONVIT in Hanoi: A Visitor''s Guide'
+title: "ONVIT in Hanoi"
 description: "ONVIT is a Korean fine-dining restaurant inside the Grand Plaza Hanoi Hotel on Tran Duy Hung street, Cau Giay district, notable as the first Korean"
 country: Vietnam
 region: Hanoi

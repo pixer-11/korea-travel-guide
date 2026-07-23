@@ -1,5 +1,5 @@
 ---
-title: 'Khao San Sek in Bangkok: A Visitor''s Guide'
+title: "Khao San Sek in Bangkok"
 description: "Khao San Sek is a newly opened Bangkok restaurant led by Chef Pam that's already generating buzz for putting Thailand's five foundational ingredients — rice"
 country: Thailand
 region: Bangkok

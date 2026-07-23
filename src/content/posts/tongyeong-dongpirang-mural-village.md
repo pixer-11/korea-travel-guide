@@ -1,5 +1,5 @@
 ---
-title: 'Dongpirang Mural Village in Tongyeong: A Visitor''s Guide'
+title: "Dongpirang Mural Village in Tongyeong"
 description: "Dongpirang is a small hillside mural village on the east side of Tongyeong's old harbor, right next to Jungang Market and below Nammangsan Park."
 region: Tongyeong
 category: hidden-gem

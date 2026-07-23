@@ -14,8 +14,14 @@ const DIR = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 const APPLY = process.argv.includes('--apply');
 
 const field = (fm, key) => {
-  const m = new RegExp(`(?:^|\\n)${key}:[ \\t]*(?:"([^"]*)"|'([^']*)'|([^\\n]+))`).exec(fm);
-  return m ? (m[1] ?? m[2] ?? m[3] ?? '').trim() : '';
+  // Single-quoted YAML escapes an apostrophe as '' — match those so a title like
+  // 'X: A Visitor''s Guide' isn't truncated at the first inner quote (which left
+  // 77 placeless titles with the filler clause un-stripped).
+  const m = new RegExp(`(?:^|\\n)${key}:[ \\t]*(?:"([^"]*)"|'((?:[^']|'')*)'|([^\\n]+))`).exec(fm);
+  if (!m) return '';
+  if (m[1] != null) return m[1].trim();
+  if (m[2] != null) return m[2].replace(/''/g, "'").trim();
+  return (m[3] ?? '').trim();
 };
 
 const files = (await readdir(DIR)).filter((f) => f.endsWith('.md'));
@@ -29,22 +35,24 @@ for (const f of files) {
   const region = field(fm, 'region');
   const oldTitle = field(fm, 'title');
   if (!oldTitle || !region) { skip++; continue; }
-  if (category === 'event') { skip++; continue; } // discover-events owns these
 
   let newTitle;
   const placeIdx = fm.indexOf('\nplace:');
-  if (placeIdx >= 0) {
-    // Venue post — rebuild from the real Google place name (has any city echo).
+  if (category !== 'event' && placeIdx >= 0) {
+    // Real (non-event) venue post — rebuild from the Google place name.
     const afterPlace = fm.slice(placeIdx);
-    const nm = /\n[ \t]+name:[ \t]*(?:"([^"]*)"|'([^']*)'|([^\n]+))/.exec(afterPlace);
-    const name = nm ? (nm[1] ?? nm[2] ?? nm[3] ?? '').trim() : '';
+    const nm = /\n[ \t]+name:[ \t]*(?:"([^"]*)"|'((?:[^']|'')*)'|([^\n]+))/.exec(afterPlace);
+    const name = nm ? (nm[1] ?? nm[2]?.replace(/''/g, "'") ?? nm[3] ?? '').trim() : '';
     if (!name) { skip++; continue; }
     newTitle = makeTitle(name, { category, region });
   } else {
-    // Placeless post — new rule is just the old title minus the filler clause.
+    // Event OR placeless post — keep the name, strip only the trailing
+    // "A Visitor's Guide[ in <region>]" filler. Events from discover-events say
+    // "…: What to Know (City)" (no filler) and are left unchanged. Never rebuild
+    // an event via makeTitle — its "Travel Guide" suffix is wrong for a festival.
     newTitle = oldTitle
-      .replace(/:\s*A Visitor'?s Guide\s*$/i, '')
-      .replace(/\s*[-–—]\s*A Visitor'?s Guide\s*$/i, '')
+      .replace(/:\s*A Visitor'?s Guide(?:\s+in\s+.+?)?\s*$/i, '')
+      .replace(/\s*[-–—]\s*A Visitor'?s Guide(?:\s+in\s+.+?)?\s*$/i, '')
       .trim();
   }
 

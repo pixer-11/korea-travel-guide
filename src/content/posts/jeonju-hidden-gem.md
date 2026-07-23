@@ -1,5 +1,5 @@
 ---
-title: 'Hidden Gem in Jeonju: A Visitor''s Guide'
+title: "Hidden Gem in Jeonju"
 description: "Skip the crowded main alleys of Jeonju Hanok Village and head instead to the Nammusil-gil and Jaman Mural Village area east of the village core, plus the"
 region: Jeonju
 category: hidden-gem

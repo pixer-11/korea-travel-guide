@@ -1,5 +1,5 @@
 ---
-title: 'Babayan Evi in Cappadocia: A Visitor''s Guide'
+title: "Babayan Evi in Cappadocia"
 description: "Babayan Evi is a traditional Cappadocian restaurant that made history in the region's first-ever Michelin Guide (2026), earning both a Bib Gourmand (great"
 country: Turkey
 region: Cappadocia

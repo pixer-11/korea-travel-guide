@@ -1,5 +1,5 @@
 ---
-title: 'Hanok Village in Jeonju: A Visitor''s Guide'
+title: "Hanok Village in Jeonju"
 description: "Jeonju Hanok Village, in the Pungnam-dong/Gyo-dong area near Jeonju's old city center, is South Korea's largest cluster of traditional hanok houses (around"
 region: Jeonju
 category: hidden-gem

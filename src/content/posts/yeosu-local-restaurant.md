@@ -1,5 +1,5 @@
 ---
-title: 'Local Restaurant in Yeosu: A Visitor''s Guide'
+title: "Local Restaurant in Yeosu"
 description: "For genuinely local eating in Yeosu, skip the chain restaurants near the KTX station and head to Yeosu's harbor markets and Jongdapsan food streets, where"
 region: Yeosu
 category: restaurant

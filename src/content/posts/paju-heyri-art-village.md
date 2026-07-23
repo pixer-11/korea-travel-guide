@@ -1,5 +1,5 @@
 ---
-title: 'Heyri Art Village in Paju: A Visitor''s Guide'
+title: "Heyri Art Village in Paju"
 description: "Heyri Art Village is a purpose-built cultural district in Paju, about 40–50 minutes north of central Seoul, packed with small museums, galleries, bookshops"
 region: Paju
 category: hidden-gem

@@ -1,5 +1,5 @@
 ---
-title: 'Dakgalbi Street in Chuncheon: A Visitor''s Guide'
+title: "Dakgalbi Street in Chuncheon"
 description: "Myeongdong Dakgalbi Golmok (닭갈비 골목), a cluster of restaurants near Chuncheon's old Myeongdong shopping street, is the place to eat Chuncheon-style spicy"
 region: Chuncheon
 category: restaurant

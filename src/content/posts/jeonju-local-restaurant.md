@@ -1,5 +1,5 @@
 ---
-title: 'Local Restaurant in Jeonju: A Visitor''s Guide'
+title: "Local Restaurant in Jeonju"
 description: "For an authentic local meal in Jeonju, head to the Hanok Village and Nambu Market area, where family-run restaurants serve the city's signature dishes"
 region: Jeonju
 category: restaurant

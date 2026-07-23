@@ -1,5 +1,5 @@
 ---
-title: 'Coffee Street in Gangneung: A Visitor''s Guide'
+title: "Coffee Street in Gangneung"
 description: "Gangneung's Coffee Street (Anmok Coffee Street, near Anmok Beach) is a stretch of oceanfront cafés on the east coast, about 2.5 hours from Seoul by KTX and"
 region: Gangneung
 category: trendy

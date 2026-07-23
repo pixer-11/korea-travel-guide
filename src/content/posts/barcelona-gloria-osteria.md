@@ -1,5 +1,5 @@
 ---
-title: 'Gloria Osteria in Barcelona: A Visitor''s Guide'
+title: "Gloria Osteria in Barcelona"
 description: "Gloria Osteria is the Barcelona debut of Big Mamma, the French-Italian restaurant group known for turning classic osteria dining into a design-forward"
 country: Spain
 region: Barcelona

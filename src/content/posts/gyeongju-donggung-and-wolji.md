@@ -1,5 +1,5 @@
 ---
-title: 'Donggung And Wolji in Gyeongju: A Visitor''s Guide'
+title: "Donggung And Wolji in Gyeongju"
 description: "Donggung and Wolji is a reconstructed royal palace complex and man-made pond in Gyeongju, best visited at dusk when the restored pavilions light up and"
 region: Gyeongju
 category: attraction

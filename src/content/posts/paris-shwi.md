@@ -1,5 +1,5 @@
 ---
-title: 'Shwi in Paris: A Visitor''s Guide'
+title: "Shwi in Paris"
 description: "Shwi is a Lebanese grilled-chicken counter from the Kubri team, set along the Canal Saint-Martin in Paris's 10th arrondissement."
 country: France
 region: Paris

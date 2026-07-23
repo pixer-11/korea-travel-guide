@@ -1,5 +1,5 @@
 ---
-title: 'Ikseon-Dong in Seoul: A Visitor''s Guide'
+title: "Ikseon-Dong in Seoul"
 description: "Ikseon-dong is a small pocket of early-20th-century hanok (traditional Korean houses) tucked behind Jongno 3-ga, now packed with hidden-courtyard cafes"
 region: Seoul
 category: restaurant

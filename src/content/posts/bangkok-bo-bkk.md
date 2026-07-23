@@ -1,5 +1,5 @@
 ---
-title: 'Bo.bkk in Bangkok: A Visitor''s Guide'
+title: "Bo.bkk in Bangkok"
 description: "Bo.bkk is a bagel-and-coffee café tucked beneath an apartment building in Sathorn, near Lumphini Park, run by the team behind Meep Meep Run Club."
 country: Thailand
 region: Bangkok

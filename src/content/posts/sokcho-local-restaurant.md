@@ -1,5 +1,5 @@
 ---
-title: 'Local Restaurant in Sokcho: A Visitor''s Guide'
+title: "Local Restaurant in Sokcho"
 description: "For genuine local eating in Sokcho, head to Sokcho Jungang Market or the alleys around Daepo Port and Sokcho Beach, where small family-run restaurants"
 region: Sokcho
 category: restaurant

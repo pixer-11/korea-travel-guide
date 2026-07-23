@@ -1,5 +1,5 @@
 ---
-title: 'Local Restaurant in Daegu: A Visitor''s Guide'
+title: "Local Restaurant in Daegu"
 description: "For an authentic Daegu meal, head to Seomun Market for night-market street food, Jjimgalbi Alley (Namseong-ro) near Banwoldang Station for the city's"
 region: Daegu
 category: restaurant

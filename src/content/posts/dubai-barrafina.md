@@ -1,5 +1,5 @@
 ---
-title: 'Barrafina in Dubai: A Visitor''s Guide'
+title: "Barrafina in Dubai"
 description: "Barrafina — London's celebrated Spanish counter-dining institution — opened its first international outpost in Dubai's DIFC in late January 2026, serving the"
 country: United Arab Emirates
 region: Dubai

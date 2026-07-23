@@ -1,5 +1,5 @@
 ---
-title: 'Top Attraction in Daegu: A Visitor''s Guide'
+title: "Top Attraction in Daegu"
 description: "Daegu's single best first stop is Seomun Market combined with a walk through the Yangnyeongsi Herb Medicine District and Jung-gu's colonial-era alleys"
 region: Daegu
 category: attraction

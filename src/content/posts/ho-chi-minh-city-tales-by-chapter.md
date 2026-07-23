@@ -1,5 +1,5 @@
 ---
-title: 'Tales by Chapter in Ho Chi Minh City: A Visitor''s Guide'
+title: "Tales by Chapter in Ho Chi Minh City"
 description: "Tales by Chapter is a rooftop-to-table, plant-based restaurant on Nguyễn Thành Ý Street in District 1's Đa Kao ward, a short walk from the Independence"
 country: Vietnam
 region: Ho Chi Minh City

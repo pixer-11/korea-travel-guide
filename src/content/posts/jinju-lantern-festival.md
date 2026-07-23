@@ -1,5 +1,5 @@
 ---
-title: 'Lantern Festival in Jinju: A Visitor''s Guide'
+title: "Lantern Festival in Jinju"
 description: "The Jinju Namgang Yudeung (Lantern) Festival runs for about two weeks each October along the Namgang River in downtown Jinju, centered on Jinjuseong Fortress"
 region: Jinju
 category: event
