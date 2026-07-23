@@ -1,36 +1,32 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import EssentialsCountryIndex from '../../components/EssentialsCountryIndex.astro';
 
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
 const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
 
 const faq = [
   {
-    q: 'What is the best time to visit South Korea?',
-    a: 'Spring (April–May) and autumn (late September–November) are the most popular — mild, dry weather with cherry blossoms in spring and vivid foliage in autumn. Autumn is often considered the single best season for sightseeing.',
+    q: 'How do I choose the best time to visit somewhere?',
+    a: 'Weigh three things: weather (temperate places have spring/autumn sweet spots; tropical ones split into dry and rainy seasons), crowds and prices (peak season is busiest and dearest), and specific draws like cherry blossoms, autumn foliage, or a festival. The per-country guides below give each destination’s ideal months.',
   },
   {
-    q: 'When do cherry blossoms bloom in Korea?',
-    a: 'Typically late March in the south (Jeju, Busan) and early-to-mid April in Seoul, lasting only about a week or two. Exact timing shifts yearly with the weather, so check a bloom forecast close to your trip.',
+    q: 'What is “shoulder season” and is it worth it?',
+    a: 'Shoulder season is the stretch just before or after peak — often the best value. You get decent weather with noticeably smaller crowds and lower flight/hotel prices (for example late spring or early autumn in much of the northern hemisphere). Great if you’re flexible.',
   },
   {
-    q: 'Is summer a bad time to visit?',
-    a: 'Summer (June–August) is hot and humid with a rainy monsoon season ("jangma") in late June to July and occasional typhoons into September. It is fine for city trips and festivals, but pack for heat and rain.',
-  },
-  {
-    q: 'Is Korea good to visit in winter?',
-    a: 'Yes, if you like cold, dry, crisp weather. Winter (December–February) brings skiing near Pyeongchang and Gangwon, snowy palaces, and fewer crowds — just dress warmly, as temperatures often drop below freezing.',
+    q: 'When is the cheapest time to travel?',
+    a: 'Usually the off-season, avoiding school holidays, major local festivals, and the weather peak. Flights and hotels drop most when demand does — but check WHY a season is quiet (monsoon, extreme heat or cold) so cheaper doesn’t mean miserable. See each country guide.',
   },
 ];
 
 const jsonLd = {
   '@context': 'https://schema.org',
   '@graph': [
-    { '@type': 'WebPage', name: 'Best Time to Visit South Korea', description: 'Season-by-season guide to weather, cherry blossoms, autumn foliage, and festivals in South Korea.', url: pageUrl, isPartOf: { '@id': `${site}/#site` } },
+    { '@type': 'WebPage', name: 'Best Time to Visit: When to Go, by Country', description: 'How seasons, weather, crowds, and festivals shape the best time to travel, with the ideal months for each destination.', url: pageUrl, isPartOf: { '@id': `${site}/#site` } },
     { '@type': 'BreadcrumbList', itemListElement: [
       { '@type': 'ListItem', position: 1, name: 'Home', item: site + '/' },
-      { '@type': 'ListItem', position: 2, name: 'Essentials', item: `${site}/essentials/best-time-to-visit` },
-      { '@type': 'ListItem', position: 3, name: 'Best time to visit', item: pageUrl },
+      { '@type': 'ListItem', position: 2, name: 'Best time to visit', item: pageUrl },
     ] },
     { '@type': 'FAQPage', mainEntity: faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) },
   ],
@@ -38,15 +34,15 @@ const jsonLd = {
 ---
 
 <BaseLayout
-  title="Best Time to Visit South Korea"
-  description="A season-by-season guide to Korea's weather — cherry blossoms, monsoon, autumn foliage, and winter — to help you pick the right time to visit."
+  title="Best Time to Visit: When to Go, by Country"
+  description="How seasons, weather, crowds, and festivals shape the best time to travel — plus the ideal months for each destination we cover."
   jsonLd={jsonLd}
 >
   <div class="page-hero">
     <div class="wrap">
       <p class="eyebrow">Essentials</p>
-      <h1>Best Time to Visit</h1>
-      <p>Four distinct seasons — pick for blossoms, foliage, or fewer crowds.</p>
+      <h1>Best time to visit</h1>
+      <p>How to read the seasons anywhere — then check your destination’s months.</p>
     </div>
   </div>
 
@@ -54,58 +50,45 @@ const jsonLd = {
     <aside class="quick-answer">
       <span class="qa-label">Quick answer</span>
       <p>
-        <strong>Spring (April–May)</strong> and <strong>autumn (late September–November)</strong>
-        are the best times to visit — mild and dry, with cherry blossoms in spring and
-        vivid foliage in autumn. Summer is hot, humid, and has a rainy monsoon; winter
-        is cold and dry but great for snow, skiing, and quiet palaces.
+        The best time to travel balances <strong>weather</strong>, <strong>crowds &amp;
+        price</strong>, and any <strong>seasonal highlight</strong> (blossoms, foliage,
+        a festival). Temperate destinations usually shine in <strong>spring and
+        autumn</strong>; tropical ones split into a <strong>dry season</strong> (best)
+        and a rainy one. Each country guide below names the ideal months.
       </p>
     </aside>
 
     <div class="prose">
-      <h2>Spring (March–May)</h2>
+      <h2>Read the climate first</h2>
       <p>
-        Mild and increasingly dry, spring is prime season. <strong>Cherry blossoms</strong>
-        sweep north from the south — typically late March in Jeju and Busan, early-to-mid
-        April in Seoul — lasting only a week or two, so timing matters. Days are pleasant
-        for palaces, hikes, and festivals, though the most famous blossom spots get very
-        crowded. Late spring can bring occasional yellow-dust/fine-dust days.
+        Temperate destinations (much of Korea, Japan, Europe, the US) have four seasons,
+        and the sweet spots are typically <strong>spring and autumn</strong> — mild, dry,
+        and scenic. Tropical and monsoon destinations (Thailand, Vietnam, Indonesia,
+        much of India) instead have a <strong>dry season</strong> and a <strong>rainy
+        season</strong>; the dry months are usually the comfortable time to go.
       </p>
 
-      <h2>Summer (June–August)</h2>
+      <h2>Peak, shoulder, and off-season</h2>
       <p>
-        Hot and humid. The <strong>monsoon ("jangma")</strong> brings heavy rain from
-        late June into July, and typhoons are possible through September. It's still a
-        lively time for beaches (Haeundae in Busan), water festivals (like Boryeong Mud
-        Festival), and air-conditioned city sightseeing — just pack light, breathable
-        clothes, an umbrella, and sunscreen.
+        Peak season has the best weather but the biggest crowds and highest prices.
+        <strong>Shoulder season</strong> — just before or after the peak — is often the
+        smart choice: good conditions, thinner crowds, better value. The off-season is
+        cheapest, but check <em>why</em> it’s quiet (monsoon, extreme heat or cold) before
+        you book.
       </p>
 
-      <h2>Autumn (September–November)</h2>
+      <h2>Time it to a highlight</h2>
       <p>
-        For many travelers, autumn is the <strong>single best season</strong>: clear,
-        comfortable days and spectacular foliage. Colours peak in the mountains first
-        and reach the cities roughly late October to mid-November — striking at palaces,
-        temples, and parks like Naejangsan. Weather is stable and great for walking.
-      </p>
-
-      <h2>Winter (December–February)</h2>
-      <p>
-        Cold and dry, often below freezing, with periodic snow. Winter rewards visitors
-        with <strong>skiing and snow resorts</strong> in Gangwon, snow-dusted palaces,
-        bright winter-light photography, illuminations, and noticeably thinner crowds.
-        Dress in warm layers and plan indoor breaks (museums, cafés, jjimjilbang saunas).
+        Some trips are worth planning around a specific moment — <strong>cherry
+        blossoms</strong> (roughly late March–April across Korea and Japan), <strong>autumn
+        foliage</strong> (late October–November), or a major <strong>festival</strong>.
+        These dates shift a little each year with the weather, so check a current forecast
+        close to your trip, and browse our <a href="/events">upcoming events</a> for
+        dated highlights.
       </p>
     </div>
 
-    <div class="fact-box">
-      <h4>Season at a glance</h4>
-      <div class="fact-grid">
-        <div class="fact"><span class="k">Cherry blossoms</span><span class="v">Late Mar (south) – mid-Apr (Seoul)</span></div>
-        <div class="fact"><span class="k">Monsoon</span><span class="v">Late Jun – Jul</span></div>
-        <div class="fact"><span class="k">Autumn foliage</span><span class="v">Late Oct – mid-Nov</span></div>
-        <div class="fact"><span class="k">Ski season</span><span class="v">Dec – Feb</span></div>
-      </div>
-    </div>
+    <EssentialsCountryIndex heading="Best time to visit, by country" />
 
     <section class="faq">
       <h2>Frequently asked questions</h2>
@@ -118,8 +101,9 @@ const jsonLd = {
     </section>
 
     <p class="disclosure">
-      Bloom and foliage dates shift each year with the weather — check a current-year
-      forecast close to your trip. Figures here are typical ranges, not guarantees.
+      Bloom, foliage, and festival dates shift each year with the weather, and “best”
+      depends on what you want — the country guides above give each destination’s typical
+      ideal months. Check a current-year forecast close to your trip.
     </p>
   </article>
 </BaseLayout>

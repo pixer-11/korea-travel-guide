@@ -1,25 +1,22 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import EssentialsCountryIndex from '../../components/EssentialsCountryIndex.astro';
 
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
 const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
 
 const faq = [
   {
-    q: 'Do I need a visa to visit South Korea as a tourist?',
-    a: 'Many nationalities (including the US, UK, EU, Canada, Australia, and Japan) can enter visa-free for short tourist stays of 30–90 days depending on the country. Others must apply for a visa in advance through visa.go.kr or a Korean embassy. Always confirm your own nationality on the official visa portal.',
+    q: 'Do I need a visa to travel abroad?',
+    a: 'It depends on your nationality AND your destination. Many countries let visitors from the US, UK, EU, Canada, Australia and Japan enter visa-free for short tourist stays (commonly 30–90 days); others require a visa or an e-visa in advance. Always confirm your own passport against the destination’s official immigration portal — see the per-country guides below.',
   },
   {
-    q: 'What is K-ETA and do I need it?',
-    a: 'K-ETA (Korea Electronic Travel Authorization) is an online pre-travel approval for visa-free visitors. It is currently WAIVED for many nationalities through the end of 2026 and is scheduled to be required again from 1 January 2027. Check k-eta.go.kr for your dates.',
+    q: 'What is an ETA / eTA?',
+    a: 'An Electronic Travel Authorization is an online pre-approval that some countries require from visa-free visitors before they travel (for example Korea’s K-ETA, the US ESTA, or the upcoming EU ETIAS). It is not a visa. Apply on the official government site well before departure — never through look-alike paid agents.',
   },
   {
-    q: 'What is the e-Arrival Card?',
-    a: 'As of 2026, the e-Arrival Card is an online form that replaces the old paper arrival card. Complete it within 3 days before arrival at e-arrivalcard.go.kr. Even travelers who are exempt from K-ETA still need to submit it.',
-  },
-  {
-    q: 'How long can I stay visa-free?',
-    a: 'It depends on your nationality — commonly 30, 60, or 90 days for tourism. Overstaying carries fines and future entry bans, so confirm your limit and do not exceed it.',
+    q: 'What is a digital arrival card?',
+    a: 'Many countries have replaced the old paper landing card with an online “arrival card” you complete a few days before you land (Korea’s e-Arrival Card, Thailand’s TDAC, Singapore’s SG Arrival Card, and others). Being visa-free or ETA-exempt usually does NOT exempt you from it. Check the destination’s official portal.',
   },
 ];
 
@@ -28,8 +25,8 @@ const jsonLd = {
   '@graph': [
     {
       '@type': 'WebPage',
-      name: 'Korea Visa & Entry Guide for Visitors',
-      description: 'Visa-free entry, K-ETA, and the e-Arrival Card for visiting South Korea, with official sources.',
+      name: 'Visa & Entry Requirements by Country',
+      description: 'How visas, ETAs, and digital arrival cards work for international travel, with per-country guides and official sources.',
       url: pageUrl,
       isPartOf: { '@id': `${site}/#site` },
     },
@@ -37,8 +34,7 @@ const jsonLd = {
       '@type': 'BreadcrumbList',
       itemListElement: [
         { '@type': 'ListItem', position: 1, name: 'Home', item: site + '/' },
-        { '@type': 'ListItem', position: 2, name: 'Essentials', item: `${site}/essentials/visa` },
-        { '@type': 'ListItem', position: 3, name: 'Visa & Entry', item: pageUrl },
+        { '@type': 'ListItem', position: 2, name: 'Visa & Entry', item: pageUrl },
       ],
     },
     {
@@ -54,15 +50,15 @@ const jsonLd = {
 ---
 
 <BaseLayout
-  title="Korea Visa & Entry Guide for Visitors"
-  description="Plain-English guide to visa-free entry, K-ETA, and the e-Arrival Card for visiting South Korea — with the official sources to confirm your case."
+  title="Visa & Entry Requirements by Country"
+  description="How visas, ETAs, and digital arrival cards work — plus per-country entry guides and the official sources to confirm your case."
   jsonLd={jsonLd}
 >
   <div class="page-hero">
     <div class="wrap">
       <p class="eyebrow">Essentials</p>
-      <h1>Visa & Entry for Korea</h1>
-      <p>Start here, then confirm the details for your nationality.</p>
+      <h1>Visa & entry requirements</h1>
+      <p>How entry works in general — then pick your destination for the specifics.</p>
     </div>
   </div>
 
@@ -70,73 +66,52 @@ const jsonLd = {
     <aside class="quick-answer">
       <span class="qa-label">Quick answer</span>
       <p>
-        Many travelers can enter South Korea visa-free for 30–90 days. Right now
-        K-ETA is waived for many nationalities through the end of 2026 (required
-        again from 1 January 2027), but everyone still completes the online
-        <strong>e-Arrival Card</strong> within 3 days of arrival. Rules depend on
-        your passport — always confirm on the official government sites below.
+        Whether you need a visa depends on your <strong>nationality</strong> and
+        your <strong>destination</strong>. Many travelers get visa-free entry for
+        30–90 days, but some countries also require an <strong>ETA</strong>
+        (electronic pre-approval) and/or a <strong>digital arrival card</strong>
+        submitted before you land. Rules change often — confirm your case on the
+        official portal for your destination below.
       </p>
     </aside>
 
     <div class="prose">
       <blockquote>
-        Visa and entry rules change often and depend on your nationality. This is
-        general information, not immigration advice — always confirm with an
-        official source before you book.
+        Visa and entry rules change frequently and depend on your nationality.
+        This is general information, not immigration advice — always confirm with
+        an official government source before you book.
       </blockquote>
 
-      <h2>1. Do you need a visa?</h2>
+      <h2>Visa-free, visa on arrival, or apply ahead?</h2>
       <p>
-        South Korea has visa-free or visa-waiver arrangements with many countries
-        for short tourist stays, typically 30, 60, or 90 days. Travelers from the
-        United States, Canada, most of the EU, the UK, Australia, New Zealand, and
-        Japan generally do not need a visa in advance for tourism, while some
-        nationalities must apply first. Because the list and the allowed stay
-        length vary by passport, check the official visa portal for your specific
-        case before booking flights.
+        Most countries fall into three buckets for a given passport: <strong>visa-free</strong>
+        for a set number of days (often 30, 60, or 90), <strong>visa on arrival</strong>
+        (you pay and get a stamp at the airport), or <strong>apply in advance</strong>
+        (an embassy visa or an online e-visa). Which bucket you’re in depends
+        entirely on your nationality, so check the destination’s official
+        immigration portal before booking flights.
       </p>
 
-      <h2>2. K-ETA — currently waived, returning in 2027</h2>
+      <h2>ETAs — pre-approval for visa-free visitors</h2>
       <p>
-        The Korea Electronic Travel Authorization (K-ETA) is an online pre-arrival
-        approval that visa-free visitors normally apply for. To boost tourism,
-        Korea has <strong>temporarily waived K-ETA for many nationalities through
-        31 December 2026</strong>, and it is scheduled to be <strong>required
-        again from 1 January 2027</strong>. If it applies to your trip, apply at
-        least 72 hours before departure, use the official site (avoid look-alike
-        paid agents), and note the approval is valid for multiple entries over a
-        period of years. Being K-ETA-exempt does not exempt you from the
-        e-Arrival Card.
+        Several countries ask even visa-free visitors to get an <strong>Electronic
+        Travel Authorization</strong> before departure — Korea’s K-ETA, the US
+        ESTA, and the upcoming EU ETIAS are examples. It’s a quick online form, not
+        a visa. Apply early on the <em>official</em> government site and avoid
+        look-alike paid agents that charge extra.
       </p>
 
-      <h2>3. The e-Arrival Card (required)</h2>
+      <h2>Digital arrival cards</h2>
       <p>
-        Since 2026, the paper arrival card has been replaced by an online
-        <strong>e-Arrival Card</strong>. Complete it within <strong>3 days
-        before</strong> you land, with your passport details, flight, and the
-        address where you'll stay (a hotel booking confirmation is enough). It
-        takes a few minutes and saves you filling out forms on the plane.
-      </p>
-
-      <h2>4. At immigration</h2>
-      <p>
-        Have your passport (valid for the duration of your stay), proof of onward
-        or return travel, and your accommodation address ready. Foreign visitors
-        aged 17+ are photographed and fingerprinted on arrival. Keep a digital or
-        printed copy of your K-ETA (if applicable) and e-Arrival Card
-        confirmation. Do not overstay — fines and future entry bans apply.
+        The paper landing card is disappearing. Many destinations now use an online
+        <strong>arrival card</strong> you complete a few days before you land, with
+        your passport, flight, and accommodation address. Being visa-free or
+        ETA-exempt usually does not exempt you from it — check whether your
+        destination requires one.
       </p>
     </div>
 
-    <div class="fact-box">
-      <h4>Where to check — official sources</h4>
-      <div class="fact-grid">
-        <div class="fact"><span class="k">e-Arrival Card</span><span class="v"><a href="https://www.e-arrivalcard.go.kr" target="_blank" rel="noopener nofollow">e-arrivalcard.go.kr</a></span></div>
-        <div class="fact"><span class="k">K-ETA</span><span class="v"><a href="https://www.k-eta.go.kr" target="_blank" rel="noopener nofollow">k-eta.go.kr</a></span></div>
-        <div class="fact"><span class="k">Visa portal</span><span class="v"><a href="https://www.visa.go.kr" target="_blank" rel="noopener nofollow">visa.go.kr</a></span></div>
-        <div class="fact"><span class="k">Immigration (Hi Korea)</span><span class="v"><a href="https://www.hikorea.go.kr" target="_blank" rel="noopener nofollow">hikorea.go.kr</a></span></div>
-      </div>
-    </div>
+    <EssentialsCountryIndex heading="Entry requirements by country" />
 
     <section class="faq">
       <h2>Frequently asked questions</h2>
@@ -149,9 +124,9 @@ const jsonLd = {
     </section>
 
     <p class="disclosure">
-      We deliberately do not list every per-country rule here because they change
-      frequently. Verify your specific case on the official government sites
-      above. This is general information, not immigration advice.
+      We deliberately don’t list every per-country rule on this page because they
+      change frequently — the country guides above summarize each destination and
+      link its official sources. This is general information, not immigration advice.
     </p>
   </article>
 </BaseLayout>

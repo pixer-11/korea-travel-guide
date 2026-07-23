@@ -1,36 +1,32 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import EssentialsCountryIndex from '../../components/EssentialsCountryIndex.astro';
 
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
 const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
 
 const faq = [
   {
-    q: 'Can I use credit cards everywhere in Korea?',
-    a: 'Card acceptance is excellent — cafés, restaurants, shops, taxis, and even many street vendors take cards, and contactless is common. Carry some cash mainly for traditional markets, small local eateries, and temples.',
+    q: 'Cards or cash abroad?',
+    a: 'It varies a lot by country. Korea, Northern Europe and Singapore are almost cashless, while parts of Japan, Germany and Southeast Asian markets still run on cash. A good rule: carry a contactless card plus modest local cash for markets, small eateries and rural areas. Each country guide below says how card-friendly your destination is.',
   },
   {
-    q: 'Where do I withdraw cash with a foreign card?',
-    a: 'Look for ATMs labeled "Global" or "Foreign Card" — they are common at convenience stores (GS25, CU, 7-Eleven), banks, and airports. Not every ATM accepts foreign cards, so the labeled ones are the reliable choice.',
+    q: 'How do I avoid bad exchange rates and ATM fees?',
+    a: 'Use bank ATMs (or ones labelled for foreign/“Global” cards), and when a machine or terminal offers to charge you in your HOME currency, always decline and choose the LOCAL currency — “dynamic currency conversion” hides a poor rate. A no-foreign-fee debit/credit card saves the most.',
   },
   {
-    q: 'Do I tip in Korea?',
-    a: 'No. Tipping is not customary and is not expected in restaurants, taxis, or hotels. Prices are as marked, and service is included.',
-  },
-  {
-    q: 'Can tourists get a tax refund?',
-    a: 'Yes. Many stores offer Tax-Free shopping on purchases above a minimum amount. Keep the receipts and claim your VAT refund at the airport kiosks before departure, or look for immediate in-store tax-free deductions.',
+    q: 'Do I need to tip?',
+    a: 'Tipping norms differ sharply: expected (15–20%) in the US, small rounding-up in much of Europe, and not customary at all in Korea and Japan where the marked price is what you pay. Check the per-country guide so you neither under- nor over-tip.',
   },
 ];
 
 const jsonLd = {
   '@context': 'https://schema.org',
   '@graph': [
-    { '@type': 'WebPage', name: 'Money in Korea: Cards, Cash & Costs', description: 'Currency, cards vs cash, ATMs, tipping, and tax refunds for visitors to South Korea.', url: pageUrl, isPartOf: { '@id': `${site}/#site` } },
+    { '@type': 'WebPage', name: 'Money & Costs: Cards, Cash & Tipping by Country', description: 'Local currency, cards vs cash, ATMs and exchange, tipping, and tax refunds for international travelers, with per-country guides.', url: pageUrl, isPartOf: { '@id': `${site}/#site` } },
     { '@type': 'BreadcrumbList', itemListElement: [
       { '@type': 'ListItem', position: 1, name: 'Home', item: site + '/' },
-      { '@type': 'ListItem', position: 2, name: 'Essentials', item: `${site}/essentials/money` },
-      { '@type': 'ListItem', position: 3, name: 'Money', item: pageUrl },
+      { '@type': 'ListItem', position: 2, name: 'Money & costs', item: pageUrl },
     ] },
     { '@type': 'FAQPage', mainEntity: faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) },
   ],
@@ -38,15 +34,15 @@ const jsonLd = {
 ---
 
 <BaseLayout
-  title="Money in Korea: Cards, Cash & Costs"
-  description="The Korean won, card vs cash, where to find ATMs that take foreign cards, tipping, and tourist tax refunds — the money basics for visiting South Korea."
+  title="Money & Costs: Cards, Cash & Tipping by Country"
+  description="Local currency, cards vs cash, ATMs and exchange, tipping norms, and tourist tax refunds — the money basics, plus a guide for each destination."
   jsonLd={jsonLd}
 >
   <div class="page-hero">
     <div class="wrap">
       <p class="eyebrow">Essentials</p>
-      <h1>Money in Korea</h1>
-      <p>Card-friendly, cash for markets, and no tipping.</p>
+      <h1>Money & costs</h1>
+      <p>How to pay, tip, and avoid bad rates — then check your destination.</p>
     </div>
   </div>
 
@@ -54,63 +50,53 @@ const jsonLd = {
     <aside class="quick-answer">
       <span class="qa-label">Quick answer</span>
       <p>
-        The currency is the <strong>Korean won (₩ / KRW)</strong>. Cards are accepted
-        almost everywhere, so you only need modest cash for traditional markets and
-        small eateries. Withdraw won from ATMs marked <strong>"Global"</strong> at
-        convenience stores and banks. <strong>Tipping is not expected</strong>, and
-        tourists can claim <strong>tax-free refunds</strong> at the airport.
+        Carry a <strong>contactless card</strong> plus modest <strong>local cash</strong>
+        for markets and small eateries. Withdraw from bank/“Global” ATMs, and always
+        pay in the <strong>local currency</strong> (decline “charge in your home
+        currency”). <strong>Tipping</strong> ranges from expected (US) to none at all
+        (Korea, Japan) — see your destination’s guide.
       </p>
     </aside>
 
     <div class="prose">
-      <h2>1. The currency</h2>
+      <h2>Local currency</h2>
       <p>
-        Korea uses the <strong>won</strong> (₩, code KRW). Notes come in ₩1,000,
-        ₩5,000, ₩10,000, and ₩50,000; coins in ₩10, ₩50, ₩100, and ₩500. As a rough
-        mental model many travelers drop three zeros to sanity-check prices, but
-        exchange rates move, so check a live rate before you go.
+        Every destination has its own currency and price level — a coffee that’s a few
+        dollars in one country is a fraction of that in another. Check a live exchange
+        rate before you go rather than trusting airport boards, and learn the rough
+        value of the local notes so prices sanity-check at a glance. Each country guide
+        names the currency and typical costs.
       </p>
 
-      <h2>2. Cards vs cash</h2>
+      <h2>Cards vs cash</h2>
       <p>
-        Korea is one of the most card- and contactless-friendly countries in the
-        world. You can tap or swipe at cafés, restaurants, convenience stores, taxis,
-        and most shops, and mobile payments are ubiquitous. Keep some cash on hand for
-        <strong>traditional markets</strong> (like Gwangjang or Jagalchi), small
-        family-run eateries, temples, and the occasional street stall. A T-money
-        transit card can also be topped up with cash and used for small purchases.
+        Card and contactless acceptance varies enormously: some countries (Korea,
+        Sweden, Singapore) are effectively cashless, while others still lean on cash for
+        markets, taxis, temples, and small family-run places. The safe approach almost
+        everywhere is a contactless card for shops and restaurants plus a modest cash
+        buffer for the places that don’t take plastic.
       </p>
 
-      <h2>3. ATMs &amp; exchanging money</h2>
+      <h2>ATMs &amp; exchange</h2>
       <p>
-        To withdraw won with a foreign card, use ATMs labeled <strong>"Global"</strong>
-        or "Foreign Card" — they're widespread at convenience stores, banks, and
-        airports, and let you switch to English. Not every machine accepts overseas
-        cards, so stick to the labeled ones. For cash exchange, licensed money
-        changers in areas like Myeongdong (Seoul) often beat airport counters on rate;
-        compare before committing.
+        Withdraw local cash from bank ATMs or ones marked for foreign/“Global” cards,
+        which usually offer an English menu. The big money-saver: when an ATM or card
+        terminal offers to bill you in your <em>home</em> currency, decline and choose
+        the <strong>local</strong> currency — the “convenience” conversion bakes in a
+        poor rate. A card with no foreign-transaction fee helps most.
       </p>
 
-      <h2>4. Tipping &amp; tax refunds</h2>
+      <h2>Tipping &amp; tax refunds</h2>
       <p>
-        <strong>Tipping is not part of Korean culture</strong> — you don't tip in
-        restaurants, taxis, or hotels, and the price you see is the price you pay.
-        Tourists can benefit from <strong>Tax-Free shopping</strong>: on qualifying
-        purchases above a minimum, keep your receipts and claim the VAT refund at
-        airport kiosks before departure, or use immediate in-store tax deduction where
-        offered.
+        Tipping is cultural, not universal — generous in the US, light in much of
+        Europe, and simply not done in Korea or Japan. Many countries also offer
+        <strong>tax-free shopping</strong>: keep receipts above the threshold and claim
+        the VAT/GST refund at the airport before departure. The per-country guide spells
+        out both.
       </p>
     </div>
 
-    <div class="fact-box">
-      <h4>Quick facts</h4>
-      <div class="fact-grid">
-        <div class="fact"><span class="k">Currency</span><span class="v">Won (₩ / KRW)</span></div>
-        <div class="fact"><span class="k">Cards</span><span class="v">Accepted almost everywhere</span></div>
-        <div class="fact"><span class="k">ATMs</span><span class="v">Use "Global" machines</span></div>
-        <div class="fact"><span class="k">Tipping</span><span class="v">Not expected</span></div>
-      </div>
-    </div>
+    <EssentialsCountryIndex heading="Money & costs, by country" />
 
     <section class="faq">
       <h2>Frequently asked questions</h2>
@@ -123,8 +109,9 @@ const jsonLd = {
     </section>
 
     <p class="disclosure">
-      Exchange rates and tax-refund thresholds change; treat figures here as general
-      guidance and check current rates before you travel.
+      Exchange rates, tipping norms, and tax-refund thresholds vary by country and
+      change over time — the country guides above give each destination’s specifics.
+      Check current rates before you travel.
     </p>
   </article>
 </BaseLayout>

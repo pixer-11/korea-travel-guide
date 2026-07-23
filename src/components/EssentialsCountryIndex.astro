@@ -1,0 +1,53 @@
+---
+// Country index for the essentials topic hubs. Lists every country that has a
+// (non-draft) essentials guide, linking to its per-country page. Reused by all 5
+// topic hubs (visa/transport/money/best-time/emergency) so the global model is:
+// topic hub → pick a country → that country's full essentials.
+import { getCollection } from 'astro:content';
+import Flag from './Flag.astro';
+import countriesData from '../../data/countries.json';
+
+interface Props { heading?: string }
+const { heading = 'Choose your destination' } = Astro.props;
+
+const isoBySlug = new Map(countriesData.countries.map((c) => [c.slug, c.iso2]));
+const items = (await getCollection('essentials', ({ data }) => !data.draft))
+  .map((e) => ({ slug: e.id, name: e.data.country, iso: isoBySlug.get(e.id) }))
+  .sort((a, b) => a.name.localeCompare(b.name));
+---
+
+{items.length > 0 && (
+  <section class="ess-index">
+    <h2>{heading}</h2>
+    <div class="ess-index-grid">
+      {items.map((c) => (
+        <a class="ess-index-link" href={`/essentials/${c.slug}`}>
+          {c.iso && <Flag code={c.iso} size="1.2em" class="flag-ico" />}
+          <span>{c.name}</span>
+        </a>
+      ))}
+    </div>
+  </section>
+)}
+
+<style>
+  .ess-index { margin: 2.5rem 0; }
+  .ess-index h2 { margin-bottom: 1rem; }
+  .ess-index-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 0.6rem;
+  }
+  .ess-index-link {
+    display: flex; align-items: center; gap: 0.55rem;
+    padding: 0.7rem 0.9rem;
+    border: 1px solid var(--hairline, rgba(0,0,0,0.1));
+    border-radius: 12px;
+    background: var(--surface, #fff);
+    color: var(--ink, #1a1a1a);
+    text-decoration: none;
+    font-weight: 600;
+    transition: border-color 0.15s ease, transform 0.15s ease;
+  }
+  .ess-index-link:hover { border-color: var(--accent, #c0392b); transform: translateY(-1px); }
+</style>

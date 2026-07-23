@@ -53,7 +53,9 @@ async function research(country) {
 
   const msg = await client.messages.create({
     model: MODEL,
-    max_tokens: 3000,
+    // 3000 truncated guides mid-section (south-korea.md shipped with only 2 of 6
+    // H2s). 5000 comfortably fits a 700–1000-word, 6-section guide + sources.
+    max_tokens: 5000,
     tools: [{ type: 'web_search_20250305', name: 'web_search', max_uses: 6 }],
     messages: [{ role: 'user', content: prompt }],
   });
@@ -80,7 +82,17 @@ async function main() {
       let body = await research(c.name);
       // strip an accidental leading markdown fence
       body = body.replace(/^```(markdown)?\n/i, '').replace(/\n```\s*$/i, '').trim();
-      if (body.length < 400 || !/##\s/.test(body)) { console.log(`  ⚠️  ${c.name} — thin/invalid output`); failed++; continue; }
+      // Completeness gate: a guide missing any of the 6 required sections (usually
+      // from truncation) must NOT ship — the topic hubs deep-link to these anchors,
+      // and a half-written essentials page is worse than none on a young domain.
+      const REQUIRED_H2 = [
+        '## Visa & entry', '## Getting around', '## Money & costs',
+        '## Best time to visit', '## Emergencies & safety', '## Official sources',
+      ];
+      const missing = REQUIRED_H2.filter((h) => !body.includes(h));
+      if (body.length < 400 || missing.length) {
+        console.log(`  ⚠️  ${c.name} — incomplete (${missing.length ? 'missing: ' + missing.join(', ') : 'too thin'})`); failed++; continue;
+      }
       const today = new Date().toISOString().slice(0, 10);
       const fm =
         `---\n` +

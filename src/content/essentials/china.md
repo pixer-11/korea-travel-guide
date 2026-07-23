@@ -2,45 +2,60 @@
 country: "China"
 title: "China Travel Essentials: Visa, Transport & More"
 description: "Know before you go to China — current visa & entry, getting around, money, best time to visit, and emergency numbers, with official sources."
-lastReviewed: 2026-07-21
+lastReviewed: 2026-07-23
 draft: false
 ---
 
-**Quick answer:** Most tourists from Western Europe, the UK, Canada, Australia, and dozens of other countries can now enter mainland China visa-free for up to 30 days, pay for almost everything via Alipay/WeChat Pay linked to a foreign card, and get around fast on China's high-speed rail network — but always double-check current rules before you fly, since China's entry policy has changed several times in the past year.
+**Quick answer:** Citizens of 50 countries (including the UK, Canada, and most of the EU) can enter mainland China visa-free for up to 30 days through 2026, while US travelers still need a visa (or can use the 240-hour transit rule); China is cash-light and app-heavy, so set up Alipay or WeChat Pay before you land, and spring (April–May) or autumn (September–October) are the best times to visit.
 
 ## Visa & entry
 
-China has dramatically expanded visa-free access. Citizens of 50 countries holding ordinary passports can enter mainland China and stay up to 30 days for business, tourism, visits to family and friends, exchanges, or transit, with no visa and no advance application. As of February 17, 2026, ordinary passport holders from the United Kingdom and Canada can enter mainland China and stay up to 30 days with no visa at all, bringing the list to 50 countries, with the whole scheme running through December 31, 2026. The list skews heavily European, but also includes much of Asia-Pacific (Japan, South Korea, Australia, New Zealand, Singapore, Malaysia, Thailand, Indonesia, Vietnam), several countries in the Americas (Argentina, Brazil, Chile, Peru, Uruguay), and parts of the Middle East (UAE, Qatar, Saudi Arabia, Bahrain, Oman, Kuwait, Türkiye).
+As of February 17, 2026, ordinary passport holders from the United Kingdom and Canada can enter mainland China and stay up to 30 days with no visa at all, and the list now totals 50 countries, running through December 31, 2026. As of 2026, 50 countries get 30-day visa-free entry to mainland China for tourism, business, family visits, or transit, valid through December 31, 2026 (Brunei has no expiry).
 
-**Important exception:** the United States is not on the 30-day visa-free list, so US passport holders still need a visa to fly in for a normal trip. American travelers (and others not covered) can instead use the separate 240-hour (10-day) visa-free transit policy, which applies to eligible nationalities at 60+ ports of entry, useful only if you're transiting to/from a third country.
+If your country isn't on that list — notably the United States — the United States is not on the 30-day visa-free list, so US passport holders still need a visa to fly in for a normal trip; what Americans gained instead is the 240-hour visa-free transit policy, which lets US travelers stay up to 10 days at dozens of ports as long as they are passing through. Citizens of 55 countries who hold an ordinary passport with at least 3 months of validity and an onward flight, train, or cruise ticket to a third country (or region) within 240 hours can transit in designated areas of 24 provinces for up to 240 hours without a visa. A crucial catch: the 240-hour transit requires you to leave to a different country or region than the one you arrived from — same-country round trips do not qualify.
 
-Practical entry requirements for visa-free travelers: your passport must be valid for at least six months and have two blank pages, and you must register with the local Public Security Bureau within 24 hours of arrival (hotels normally do this automatically). Every day you spend in China counts against your 30 days, with no "pause" mechanism, whether you're in Beijing, Shanghai, or a remote village. Since late 2025, China has also rolled out a digital option: foreigners may fill in and submit entry information online before coming to China through the NIA official website, the "NIA 12367" app, WeChat/Alipay mini-program, or by scanning a QR code.
+Before you fly, everyone (visa-free or not) should complete the digital arrival card: foreigners can submit an online arrival card through the National Immigration Administration's official channels before travel.
 
-**Bottom line:** rules, country lists, and durations have shifted multiple times in the last 12 months and could change again — **always verify your specific nationality's status on the official NIA website or your nearest Chinese embassy/consulate before booking flights.**
+**Because eligibility, stay lengths, and port lists change frequently, always verify your specific nationality's rules on the National Immigration Administration website and your nearest Chinese embassy/consulate before booking — do not rely solely on this or any third-party summary.**
 
 ## Getting around
 
-**High-speed rail** is the backbone of long-distance travel and extremely reliable. China's high-speed rail is currently the world's largest, fastest, and most punctual transportation system, with a top speed of 350 km/h, journeys like Beijing to Shanghai taking just 4.5–6 hours, and connections to almost all provincial capitals and major cities. Tickets are booked through the official **12306** app/website or via the English-friendly reseller **Trip.com**. As of 2026, the 12306 platform fully accommodates international credit cards, including Visa, Mastercard, and JCB, and passport-based registration is standard, with the "Real-name Verification" process optimized for non-residents. Note that most train tickets are released 15 days in advance at 14:00 Beijing Time, and popular routes sell out fast around holidays. Your passport doubles as your boarding pass — China rail is fully paperless, with your passport doubling as your boarding pass all the way from purchase to platform.
+China's domestic transport is fast, cheap, and increasingly foreigner-friendly, but it runs on apps rather than paper.
 
-**Within cities**, metro systems in Beijing, Shanghai, Guangzhou, and other major hubs are modern, cheap, and English-signed; pay with a transit card, Alipay/WeChat mini-programs, or your phone tapped directly on gates. For taxis and ride-hailing, **Didi** is the dominant app since Uber doesn't operate in China; Didi has an English-language app that works reasonably well for foreigners, and can also be accessed as a mini-program inside Alipay or WeChat. For maps, locals recommend searching your destination in Apple Maps in English (since it uses accurate Chinese local data providers) rather than Google Maps, which has a GPS offset issue in China that makes it unreliable, then pasting the Chinese address into Didi.
+- **High-speed rail:** China's High-Speed Rail (HSR) system is the world's largest, connecting the majority of major cities and smaller centers and cutting travel time across the huge country. A bullet train covers Beijing to Shanghai, roughly 1,300 km, in about four and a half hours, and once booked, there is nothing to print — your passport doubles as your boarding pass. Book through the official **12306** app/site or the easier English-language **Trip.com**; foreigners can order tickets using 12306, but the process requires real-name registration and passport details.
+- **Metro/subway:** City metros use rechargeable transit cards or QR codes; metro security is not immigration control — your transit card or QR code is all you need, no passport or ID required. Most systems also accept Alipay/WeChat Pay QR scanning directly at the gate.
+- **Ride-hailing:** Didi Chuxing firmly holds the top spot in ride-hailing market share, operating in more than 400 cities, and allows registration with an international mobile number.
+- **Maps & navigation:** Google Maps is unreliable/blocked in mainland China — use Amap (Gaode) or Baidu Maps instead, as most guides recommend for real-time transit data.
 
 ## Money & costs
 
-China's currency is the Renminbi (RMB/yuan, ¥). While China is often called cashless, the reality is more nuanced — in major cities, most restaurants, supermarkets, convenience stores, taxis, and tourist attractions accept mobile payments linked to international Visa and Mastercard cards. **Alipay and WeChat Pay** are the two dominant apps, and both now support foreign cards without needing a Chinese bank account: foreigners can link international credit cards to Alipay and WeChat Pay without a Chinese bank account as of 2026. Generally, install both apps before your flight, verify your passport, test one small payment, and keep a little RMB cash as backup.
+The currency is the Renminbi/Yuan (RMB, ¥). China has moved overwhelmingly to mobile payments, so plan accordingly:
 
-Fee structures vary and are worth checking with your bank beforehand — single transactions of ≤200 RMB typically incur 0% cross-border handling fee, covering most daily tourist expenses, while transactions over 200 RMB carry a fixed 3% cross-border handling fee, on top of whatever your home bank charges. Standalone foreign credit/debit cards are hit-or-miss outside chain hotels and larger stores: international cards are usually accepted in high-end hotels and tourist restaurants/shops, but far less in small local places, where mobile payment is expected. Carry a small cash reserve — 100–300 RMB in cash — for small stalls, taxi edge cases, or network failures. Note that setup experiences and limits shift often, so verify current transaction limits directly with the platforms and your card issuer, recognizing that policies shift frequently.
+Most foreign travelers can use Alipay and WeChat Pay in China by linking an international bank card and completing passport verification in the app. As of 2026 you can bind a foreign Visa, Mastercard, American Express, JCB, Discover, or Diners Club card directly inside Alipay or Weixin Pay, with no Chinese bank account needed. That said, binding international credit cards can trigger enhanced due-diligence checks that take 24–72 hours or fail entirely, a tightening that has become common since late 2025. Set both apps up — and test a small payment — well before your trip.
+
+Cards and cash still matter as backup: the most reliable approach is to set up Alipay first, WeChat Pay second, carry 500–1,000 RMB cash, and bring two physical bank cards as backups, since many small restaurants, taxis, and street vendors still prefer QR code payments over cards. You can pay by credit card mostly in international hotels, larger stores, and tourist-facing businesses, but for everyday spending like street food and markets, QR wallets remain the practical solution.
+
+Overall costs are moderate: high-speed rail, metro fares, and street food are cheap by Western standards, while international hotels and flights are comparable to other major Asian destinations.
 
 ## Best time to visit
 
-China's size means climate varies enormously by region, but the two classic "shoulder season" windows remain the most comfortable for most itineraries:
+The most comfortable seasons across most of China are **spring (April–May)** and **autumn (September–October)**, when temperatures are mild and rainfall is lower than in summer. Summer (June–August) brings heat, humidity, and monsoon rains in southern and central China, plus peak domestic travel during school holidays. Winter is cold (often sub-zero in the north) but can be a good time for lower prices and clear skies, and is ideal if you're combining a trip with winter sports in the north.
 
-- **Spring (April–May):** Mild temperatures across eastern and central China, blooming landscapes (cherry blossoms, peonies), and generally lower rainfall than summer — ideal for Beijing, Xi'an, Yangtze/Guilin, and the eastern coast.
-- **Autumn (September–October):** Widely considered the best all-round season — clear skies, comfortable temperatures, and excellent visibility for mountain and countryside scenery (Zhangjiajie, Guilin, Tibet). This is also a peak domestic travel period.
-- **Summer (June–August):** Hot and humid in most of the country, monsoon rains in the south, but ideal for high-altitude/northern destinations like Tibet, Xinjiang, or Inner Mongolia.
-- **Winter (December–February):** Cold in the north (great for winter sports in Harbin/Heilongjiang) but mild and pleasant in the far south (Yunnan, Hainan, Guangxi).
-
-**Avoid, if possible:** Chinese New Year/Spring Festival (dates vary, roughly late Jan–mid Feb) and the first week of October (National Day "Golden Week"), when domestic tourism surges and transport, hotels, and attractions are extremely crowded — as reflected in immigration data showing tens of millions of border crossings during these holiday periods.
+Avoid, if possible, **Chinese New Year/Spring Festival** (dates vary, usually January–February) and the **National Day "Golden Week"** (October 1–7), when domestic tourism surges and trains, flights, and hotel prices spike; note that during Golden Week alone, China recorded 11.279 million border crossings over the May Day holiday in 2026, illustrating how congested peak holiday travel periods can get.
 
 ## Emergencies & safety
 
-Unlike many countries, China has no single
+China does not use a single 911/112-style number. China uses separate emergency numbers — 120 for ambulance, 110 for police, 119 for fire, 122 for traffic accidents — dial 120 nationwide for medical emergencies. Police: 110; Fire Alarm: 119; First-aid Ambulance: 120, and these are free calls.
+
+Expect a language barrier: the catch most visitors don't expect is that operators usually answer in Chinese, with limited English support outside a few major cities. Practical workarounds include having your hotel call on your behalf, using Alipay's SOS function which can connect to emergency services, or having your location and situation written in Chinese ready to read out.
+
+For consular help (lost passport, arrest, serious illness), contact your embassy or the 12308 24/7 Chinese consular hotline, and save these numbers in your phone before traveling. If you need a hospital, public hospitals treat foreigners — bring your passport, register at the front window first, and pay as you go at each step; bigger cities also have international clinics with English-speaking staff. Overall, China is considered a very safe destination for tourists, with violent crime rates low; the main risks for visitors are traffic, scams near major tourist sites, and language/logistics friction rather than personal safety.
+
+## Official sources
+
+- [National Immigration Administration (NIA) – English site](https://en.nia.gov.cn/)
+- [NIA Online Arrival Card / Visa-Free Country List](https://s.nia.gov.cn/mps/main-en.html)
+- [Visit China – China State Council official portal](https://english.www.gov.cn/services/visitchina)
+- [China Railway 12306 – official train booking](https://www.12306.cn)
+- [China National Tourist Office (via Ministry of Culture and Tourism)](https://www.mct.gov.cn)
+- [Embassy of the People's Republic of China (find your country's embassy for current visa rules)](https://www.mfa.gov.cn/eng/)

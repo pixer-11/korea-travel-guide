@@ -2,43 +2,64 @@
 country: "France"
 title: "France Travel Essentials: Visa, Transport & More"
 description: "Know before you go to France — current visa & entry, getting around, money, best time to visit, and emergency numbers, with official sources."
-lastReviewed: 2026-07-21
+lastReviewed: 2026-07-23
 draft: false
 ---
 
-**Quick answer:** Most Western visitors (US, UK, Canada, Australia, etc.) can still enter France visa-free for stays up to 90 days in any 180-day period, but from 2026 border crossings involve mandatory biometric registration (EES) and — from Q4 2026 — a paid online travel authorization (ETIAS); always verify your specific requirement on the official France-Visas and EU ETIAS portals before you fly.
+I now have enough current information to write the guide.I now have sufficient, current information to write the guide.
+
+---
+
+**Quick answer:** Most visitors from the US, UK, Canada, Australia, and 50+ other countries can still enter France visa-free for up to 90 days in any 180-day period (no ETIAS needed yet in July 2026), pay in euros with a debit/credit card almost everywhere, and can reach 112 free for any emergency — but always double-check the latest rules on official sites before you fly, since ETIAS and fees are set to change soon.
 
 ## Visa & entry
 
-Citizens of the US, UK, Canada, Australia, New Zealand, Japan, South Korea and many other countries can still travel to France and the rest of the Schengen Area visa-free for short stays of up to 90 days within any 180-day period. However, two major EU-wide systems have changed the entry process in 2026:
+Citizens of 59 visa-exempt countries — including the United States, United Kingdom, Canada, Australia, New Zealand, Japan, and most Latin American nations — can enter France without a visa for short stays of up to 90 days within any 180-day period. If your nationality isn't on that list, you'll need to apply for a Schengen short-stay visa (Type C) through the French consulate in your home country before traveling. This visa allows stays of up to 90 days within a 180-day period and typically costs €80 for adults.
 
-- **EES (Entry/Exit System):** The EES replaces the current system of manually stamping passports and enables electronic monitoring of each entry and exit for non-EU and non-Schengen nationals visiting the Schengen Area for a short stay of a maximum 90 days within a 180-day period. It reached full operational status on April 10, 2026, and in France is active at eight external-border airports: Paris-Charles-de-Gaulle, Orly, Lyon, Marseille, Nice, Toulouse, Bordeaux and Nantes. First-time crossers must submit a facial photo and fingerprints; expect this to add time at the border, and note that French airports have seen 60–120 minute waits at peak periods as biometric kiosks struggle with volumes.
-- **ETIAS (European Travel Information & Authorisation System):** ETIAS is the online travel authorization that visa-exempt nationals will need before visiting 30 European countries, launching in Q4 2026. It is not a visa but an online authorization, costs a fee per application, is valid for 3 years or until your passport expires, and allows multiple entries during that period. ETIAS will not be mandatory for entry until roughly six months after launch, giving a transitional grace period. The **only** official site is the EU's own ETIAS portal — there is only one official ETIAS website (travel-europe.europa.eu/etias); many unofficial websites charge inflated "service fees."
+A major system change is already in effect: the EES has been gradually implemented since 12 October 2025 and will be fully operational from 10 April 2026 — meaning your entries and exits are now recorded digitally and biometrically instead of via passport stamps, so accurate day-counting matters more than ever.
 
-**Important:** Rules, fees, and launch dates for ETIAS have shifted multiple times in the past. Before booking or traveling, confirm the current status, fee, and exemptions directly on the France-Visas site and the official EU ETIAS portal (both linked below). If you need to work, study, or stay longer than 90 days, you need an actual national visa, not ETIAS.
+The other big change — ETIAS — is **not yet active**. As of mid-2026, it is currently expected to come on line in the last quarter of 2026, and no websites currently issue ETIAS travel authorizations — beware fraudulent websites. However, even that timeline is shaky: eu-LISA, the EU agency developing ETIAS, has reportedly concluded that a 2026 launch is no longer feasible, with some reporting pointing to a 2027 start instead. When it does launch, a voluntary phase will run first, during which ETIAS applications will be accepted but entry without ETIAS will still be permitted at borders. Once mandatory, ETIAS is permission to travel, not permission to stay longer — the 90-days-in-180 limit applies exactly as before, and EES continues to count your days at the border.
+
+**Bottom line: confirm your specific requirements immediately before booking** on the official France-Visas portal and the French Ministry of Europe and Foreign Affairs website — rules, fees, and launch dates keep shifting.
 
 ## Getting around
 
-Paris and the wider Île-de-France region use a simplified, zone-free ticketing system as of January 2026:
+Paris and the Île-de-France region run on the RATP/SNCF network, managed by Île-de-France Mobilités. As of January 2026, Île-de-France Mobilités applied a 2.3% fare increase to both the monthly Navigo pass, rising to €90.80, and metro tickets, rising to €2.55. Practical fare options for visitors:
 
-- **Single tickets:** A single Paris metro ticket costs €2.55 for one ride on the metro, RER, or suburban trains anywhere within zones 1–5 (airports excluded), while bus and tram rides are a separate €2.05 ticket.
-- **Paper tickets are gone:** Paper tickets are officially dead — magnetic paper tickets stopped working on buses in May 2026 and on the entire rail network in June 2026, so you now need either a Navigo Easy card or the RATP/Île-de-France Mobilités smartphone app.
-- **Navigo Easy card:** The Navigo Easy Pass costs just €2 when first purchased, and this reusable card can then hold up to 20 metro/RER tickets and up to 20 bus/tram tickets. It's ideal for short visits — machines have English-language options and accept Visa and Mastercard, including contactless tap-to-pay (American Express is not accepted at most machines).
-- **Day/multi-day passes:** The unlimited **Navigo Jour** day pass costs €12.30, while the tourist-oriented **Paris Visite** pass (which also covers airport travel) is available for 1–5 days. For longer stays, the monthly Navigo pass is €90.80 for unlimited access to the metro, RER, bus, and trams.
-- **Airport transfers:** The RER B is the recommended option from CDG to central Paris, stopping at Gare du Nord (25 min), Châtelet–Les Halles (28 min) and Saint-Michel–Notre-Dame (30 min) for a flat €14 fare, with trains running roughly every 10-15 minutes from 5:00 AM to 11:30 PM. Note that Orlybus ceased operations in March 2025 and Roissybus stopped running after February 2026, so check current airport-transfer options before you travel.
-- **Outside Paris:** France's high-speed TGV network and regional TER trains connect most cities efficiently; book via SNCF Connect for the best fares, especially in advance for TGVs.
+- **Single ticket (metro/train/RER):** the €2.55 Metro-Train-RER Ticket, as long as you are not traveling to or from an airport or outside the Île-de-France region.
+- **Navigo Day Pass:** A Navigo Day Pass for €12.30 may be cheaper if you're making several trips in one day.
+- **Navigo Weekly Pass:** costs €32.40 in 2026 for all zones, valid from Monday through Sunday, not for seven days from the moment of purchase.
+- **Paris Visite (tourist pass):** provides unlimited public transport on all RATP and SNCF services in Île-de-France, valid for 1, 2, 3 or 5 days, costing €30.60 for 1 day, €45.40 for 2 days, €63.80 for 3 days or €78.00 for 5 days.
+- **Airport transfer:** Passengers traveling to Orly or Charles de Gaulle airports pay €14 for a standard connecting ticket.
+
+Paper tickets are gone: these fares apply to digital tickets, available on the Navigo Easy pass, the Île-de-France Mobilités app or via contactless payment, with paper tickets having been phased out completely since November 2025. Outside Paris, France's high-speed TGV and regional TER trains connect nearly every city; book TGV tickets online in advance for the best fares, and rent a car if you plan to explore rural regions or wine country.
 
 ## Money & costs
 
-France uses the **Euro (€)**. Contactless debit/credit cards (Visa, Mastercard) are accepted almost everywhere, from metro machines to small cafés and markets; American Express is accepted less widely. Carrying some cash is still wise for small vendors, tips, or rural areas. ATMs ("distributeurs") are widely available in cities and at airports. As a general guide to daily costs: budget travelers can manage on roughly €70–100/day (hostel, self-catering, public transport), mid-range travelers €150–250/day (hotel, restaurant meals, some paid attractions), and those wanting more comfort should budget €300+/day, especially in Paris where accommodation is priciest. Tipping is not obligatory since a service charge is included by law in restaurant and café bills, but rounding up or leaving a small tip for good service is appreciated.
+France uses the **euro (€)**. Contactless debit/credit cards (Visa, Mastercard) are accepted almost everywhere, from cafés to taxis to the metro, so you rarely need large amounts of cash — though it's wise to carry some small euro notes/coins for markets, small village shops, or public restrooms. Notify your bank of travel plans to avoid card blocks, and expect a small foreign-transaction fee on non-euro cards unless you have a fee-free travel card. ATMs (distributeurs) are widely available in cities and towns; withdraw from bank-affiliated machines rather than standalone kiosks to avoid excessive fees. Tipping is not obligatory since a service charge is included in restaurant bills by law, though rounding up or leaving a few euros for good service is appreciated.
 
 ## Best time to visit
 
-- **Spring (April–June)** and **fall (September–October)** offer the best balance of mild weather, blooming or golden scenery, and comparatively smaller crowds than peak summer.
-- **Summer (July–August)** is peak tourist season with the warmest weather, long daylight hours, and major festivals, but also the highest prices, biggest crowds at attractions, and — as noted above — the longest airport border queues due to EES rollout congestion.
-- **Winter (November–March)** is low season with fewer crowds and lower prices in most of the country (except ski resorts in the Alps/Pyrenees, which peak in this period), plus festive Christmas markets in Alsace and elsewhere.
-- Note that many French businesses, especially in smaller towns, close for August holidays, and some Paris restaurants shut for a few weeks in late summer.
+France is a year-round destination, but the ideal windows are **spring (April–June)** and **early autumn (September–October)**, when the weather is mild, crowds are thinner than summer, and prices are more reasonable. July and August are noticeably more expensive because of summer demand, and they're also the busiest months, with many French businesses closing for the traditional August holiday exodus. April or October usually gives the best balance of price and weather for flights and overall travel costs. Winter (November–March) is quietest and cheapest outside ski resorts and Christmas markets, but daylight hours are shorter and some rural attractions reduce their hours.
 
 ## Emergencies & safety
 
-The pan-European emergency number 112 connects callers to police, fire, or ambulance services from anywhere in the country at no charge, and individual dedicated lines also exist: 15 (medical emergencies/SAMU), 17 (police), and 18 (fire brigade).
+France has a well-organized emergency system with multiple numbers, all free to call:
+
+- **112** — the pan-European emergency number, connecting callers to police, fire, or ambulance services from anywhere in the country at no charge. You do not need to speak French to use this number: operators are able to assist callers in French and in other languages.
+- **15** — SAMU, for medical emergencies.
+- **17** — Police.
+- **18** — Fire brigade (pompiers); in rural areas, the pompiers (18) often arrive faster than SAMU and are equally trained for medical first response.
+- **114** — A separate number exists for emergencies involving people who are deaf or hard of hearing, while 196 covers maritime emergencies.
+
+Important caveats: emergency care is never refused on grounds of inability to pay upfront, but treatment is not automatically free for tourists or temporary visitors — what you ultimately owe depends on your residency status and whether you hold adequate insurance, so travel insurance is strongly recommended. Also note that these short codes only work within France — short emergency numbers (15, 17, 18, 112, 114, 115, 119, 196) only work inside France and are not routable from a foreign mobile network or a fixed line outside France. Overall, France is a safe destination for tourists; standard precautions against pickpocketing in crowded tourist areas (Métro, major monuments, train stations) are the main practical concern.
+
+## Official sources
+
+- [France-Visas — Official visa application portal](https://france-visas.gouv.fr/en/)
+- [France Diplomatie — EES & ETIAS entry rules for foreigners](https://www.diplomatie.gouv.fr/en/services-to-foreigners/visiting-france/ees-the-new-european-border-entryexit-system-goes-live-on-10-april-2026)
+- [Île-de-France Mobilités — official public transport fares & tickets](https://www.iledefrance-mobilites.fr/)
+- [RATP — official Paris transport operator](https://www.ratp.fr/en)
+- [France.fr — official French tourism board, emergency numbers](https://www.france.fr/en/article/emergency-numbers-to-know/)
+- [Service-Public.gouv.fr — official French government information portal](https://www.service-public.gouv.fr/)
+- [U.S. Embassy & Consulates in France — emergency services guide](https://fr.usembassy.gov/services/medical-assistance/emergency-services-in-france/)

@@ -54,8 +54,25 @@ dupBy((p) => p.placeId, 'DUPLICATE place.id');
 // otherwise collapse to just the city and false-positive.
 dupBy((p) => (!p.placeId ? topicKey(p.title, p.region) : ''), 'DUPLICATE topic (near-identical post)');
 
+// Essentials completeness — each non-draft country guide must carry all 6 H2
+// sections. A truncated guide (the max_tokens bug) is worse than none: the topic
+// hubs advertise these countries and a half-written page erodes trust + E-E-A-T.
+const ESS_DIR = fileURLToPath(new URL('../src/content/essentials/', import.meta.url));
+const REQUIRED_ESS = [
+  '## Visa & entry', '## Getting around', '## Money & costs',
+  '## Best time to visit', '## Emergencies & safety', '## Official sources',
+];
+let essCount = 0;
+for (const f of (await readdir(ESS_DIR)).filter((f) => f.endsWith('.md'))) {
+  const t = await readFile(join(ESS_DIR, f), 'utf8');
+  if (/^draft:\s*true/m.test(t)) continue;
+  essCount++;
+  const miss = REQUIRED_ESS.filter((h) => !t.includes(h));
+  if (miss.length) issues.push(`ESSENTIALS ${f} incomplete — missing: ${miss.join(', ')}`);
+}
+
 if (issues.length) {
-  console.log(`❌ ${issues.length} content issue(s) across ${posts.length} posts:\n`);
+  console.log(`❌ ${issues.length} content issue(s) across ${posts.length} posts + ${essCount} essentials:\n`);
   for (const i of issues) console.log(`  • ${i}`);
   process.exit(1);
 }
