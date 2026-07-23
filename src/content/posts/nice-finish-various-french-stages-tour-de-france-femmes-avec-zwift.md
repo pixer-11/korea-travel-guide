@@ -6,10 +6,10 @@ region: Nice
 category: event
 pubDate: '2026-07-23'
 heroImage:
-  url: https://images.unsplash.com/photo-1510766528597-60f9f1c154b6?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8TmljZSUyMCUyOGZpbmlzaCUyOSUyMCUyRiUyMHZhcmlvdXMlMjBGcmVuY2glMjBzdGFnZXMlMjBGcmFuY2V8ZW58MHwwfHx8MTc4NDc2NzIwOXww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Rob Wingate on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@robwingate?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://images.unsplash.com/photo-1753516231269-2a676b28f6fc?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8cm9hZCUyMGN5Y2xpbmclMjByYWNlJTIwcGVsb3RvbnxlbnwwfDB8fHwxNzg0Nzc1ODUwfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
+  credit: "Photo by Bryan Lucas on Unsplash"
+  license: "unsplash"
+  source: "https://unsplash.com/@bryan_lcs?utm_source=korea_travel_guide&utm_medium=referral"
 gallery: []
 tags:
   - nice

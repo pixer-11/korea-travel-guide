@@ -6,10 +6,10 @@ region: Phu Quoc
 category: event
 pubDate: '2026-07-23'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/6/6b/Speckled_tongue_of_the_Phu_Quoc_Ridgeback.jpg"
-  credit: "Photo: Frank Fox / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Speckled_tongue_of_the_Phu_Quoc_Ridgeback.jpg"
+  url: "https://images.unsplash.com/photo-1779513695013-21da6a1c2a8e?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8UGh1JTIwUXVvYyUyMFZpZXRuYW0lMjBvcmNoZXN0cmElMjBjb25jZXJ0JTIwc3RhZ2V8ZW58MHwwfHx8MTc4NDc3NTMzNHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
+  credit: "Photo by Vivu Vietnam on Unsplash"
+  license: "unsplash"
+  source: "https://unsplash.com/@bttsg?utm_source=korea_travel_guide&utm_medium=referral"
 gallery: []
 tags:
   - phu quoc

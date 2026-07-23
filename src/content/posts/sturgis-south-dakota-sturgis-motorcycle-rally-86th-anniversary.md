@@ -6,10 +6,10 @@ region: Sturgis
 category: event
 pubDate: '2026-07-23'
 heroImage:
-  url: https://images.unsplash.com/photo-1754419815163-c9bae87d39b3?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U3R1cmdpcyUyQyUyMFNvdXRoJTIwRGFrb3RhJTIwVW5pdGVkJTIwU3RhdGVzfGVufDB8MHx8fDE3ODQ3NjY5NTR8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Jessica Christian on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@lovesquish?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://upload.wikimedia.org/wikipedia/commons/4/4a/2007_Sturgis_Motorcycle_Rally%2C_Walk_the_Line.jpg"
+  credit: "Photo: Jerry Reynolds from Fargo, United States / Wikimedia Commons (CC BY-SA 2.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:2007_Sturgis_Motorcycle_Rally,_Walk_the_Line.jpg"
 gallery: []
 tags:
   - sturgis

@@ -6,10 +6,10 @@ region: Dubai
 category: event
 pubDate: '2026-07-23'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Def_Leppard_%284121627260%29.jpg/1920px-Def_Leppard_%284121627260%29.jpg
-  credit: 'Photo: Nick Ares from Auburn, CA, United States / Wikimedia Commons (CC BY-SA 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Def_Leppard_(4121627260).jpg
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Def_Leppard_%284121627260%29.jpg/1920px-Def_Leppard_%284121627260%29.jpg"
+  credit: "Photo: Nick Ares from Auburn, CA, United States / Wikimedia Commons (CC BY-SA 2.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Def_Leppard_(4121627260).jpg"
 gallery: []
 tags:
   - dubai

@@ -5,10 +5,10 @@ region: Jinju
 category: event
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Jinju_namgang_lantern_festival.jpg/1920px-Jinju_namgang_lantern_festival.jpg
-  credit: 'Photo: Asfreeas at Korean Wikipedia This photo was taken with Nikon D80 / Wikimedia Commons (CC BY 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Jinju_namgang_lantern_festival.jpg
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Jinju_namgang_lantern_festival.jpg/1920px-Jinju_namgang_lantern_festival.jpg"
+  credit: "Photo: Asfreeas at Korean Wikipedia This photo was taken with Nikon D80 / Wikimedia Commons (CC BY 3.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Jinju_namgang_lantern_festival.jpg"
 gallery: []
 tags:
   - jinju

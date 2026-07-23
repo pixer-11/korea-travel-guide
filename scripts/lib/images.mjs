@@ -89,7 +89,7 @@ export async function pickGallery(place, n = 3) {
 //   4. Unsplash, strictly constrained to region + "South Korea", BEST (not random)
 //   5. Placeholder
 // `used` is an optional Set of URLs already taken by other posts (de-dupe).
-export async function resolveHero({ namedVenue, region, topic, place, country = 'South Korea', used, allowUnsplash = true, selfHost = false } = {}) {
+export async function resolveHero({ namedVenue, region, topic, place, country = 'South Korea', used, allowUnsplash = true, selfHost = false, preferTopic = false } = {}) {
   const reg = region || '';
   const ctry = country || 'South Korea';
 
@@ -144,8 +144,12 @@ export async function resolveHero({ namedVenue, region, topic, place, country = 
     // Specific → region-level → country-level. Over-specific queries often
     // return nothing; broadening guarantees a country-accurate photo, never a
     // wrong-country one, and never a blank placeholder.
+    // For events, prefer an ON-TOPIC image (the event TYPE — "road cycling race",
+    // "mixed martial arts"…) over a generic city/landscape when the region-scoped
+    // query finds nothing. preferTopic puts the type query ahead of the city one.
     const u =
       (await unsplashStrict([reg, ctry, topic].filter(Boolean).join(' '), used)) ||
+      (preferTopic && topic ? await unsplashStrict(topic, used) : null) ||
       (await unsplashStrict([reg, ctry].filter(Boolean).join(' '), used)) ||
       (await unsplashStrict(`${ctry} travel landscape`, used));
     if (u) return mark(u, used);
@@ -161,6 +165,36 @@ export async function resolveHero({ namedVenue, region, topic, place, country = 
 export function unsplashNum(url) {
   const m = String(url || '').match(/photo-(\d+)/);
   return m ? `unum:${m[1]}` : null;
+}
+
+// Map an event NAME to a thematic image query for its TYPE, so an event hero is
+// at least on-topic (an MMA cage, a race bike, a concert stage) when we can't find
+// the specific act/fighter. Order matters: specific series before generic words.
+export function eventTopic(name = '') {
+  const s = String(name).toLowerCase();
+  if (/\bufc\b|\bmma\b|mixed martial|fight night|boxing/.test(s)) return 'mixed martial arts fight';
+  if (/moto\s?gp/.test(s)) return 'motorcycle grand prix racing';
+  if (/formula\s?1|formula one|\bf1\b/.test(s)) return 'formula 1 racing car';
+  if (/grand prix|gran premio/.test(s)) return 'motorsport racing';
+  if (/vuelta|tour de france|giro d|cyclist|cycling|\bvelo\b/.test(s)) return 'road cycling race peloton';
+  if (/marathon/.test(s)) return 'marathon running race';
+  if (/athletics|track and field|continental tour/.test(s)) return 'athletics stadium track';
+  if (/football|soccer|\bfifa\b/.test(s)) return 'football soccer stadium';
+  if (/volley/.test(s)) return 'volleyball match';
+  if (/basketball|\bnba\b|\bfiba\b/.test(s)) return 'basketball game';
+  if (/baseball/.test(s)) return 'baseball game';
+  if (/badminton|\bbwf\b/.test(s)) return 'badminton match';
+  if (/tennis|\batp\b|\bwta\b|us open|open championship/.test(s)) return 'tennis tournament';
+  if (/aquatics|swimming|water polo|diving/.test(s)) return 'swimming competition pool';
+  if (/miss world|miss universe|pageant/.test(s)) return 'beauty pageant stage';
+  if (/film festival|cinema|\bfilm\b/.test(s)) return 'film festival cinema';
+  if (/rock festival|\brock\b/.test(s)) return 'rock concert crowd';
+  if (/jazz/.test(s)) return 'jazz concert';
+  if (/flute|orchestra|symphony|classical|philharmon|opera/.test(s)) return 'orchestra concert stage';
+  if (/rally|motorcycle/.test(s)) return 'motorcycle rally';
+  if (/festival/.test(s)) return 'music festival crowd';
+  if (/concert|tour|live|world tour|k-pop|kpop/.test(s)) return 'concert stage live music';
+  return 'concert live event stage';
 }
 
 // Build a `used` Set from every post's current hero URL — both the full URL and

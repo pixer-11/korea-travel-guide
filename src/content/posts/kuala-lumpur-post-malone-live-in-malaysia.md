@@ -6,10 +6,10 @@ region: Kuala Lumpur
 category: event
 pubDate: '2026-07-23'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Passer_montanus_malaccensis_%40_Kuala_Lumpur%2C_Malaysia_%281%29.jpg/1920px-Passer_montanus_malaccensis_%40_Kuala_Lumpur%2C_Malaysia_%281%29.jpg"
-  credit: "Photo: Peter P. Othagoer / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Passer_montanus_malaccensis_@_Kuala_Lumpur,_Malaysia_(1).jpg"
+  url: "https://images.unsplash.com/photo-1578899952059-c0cd092f9d14?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8S3VhbGElMjBMdW1wdXIlMjBNYWxheXNpYSUyMGNvbmNlcnQlMjBzdGFnZSUyMGxpdmUlMjBtdXNpY3xlbnwwfDB8fHwxNzg0Nzc1Mjk5fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
+  credit: "Photo by Fauzan on Unsplash"
+  license: "unsplash"
+  source: "https://unsplash.com/@fauzanazhima?utm_source=korea_travel_guide&utm_medium=referral"
 gallery: []
 tags:
   - kuala lumpur

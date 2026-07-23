@@ -6,10 +6,10 @@ region: Hanoi
 category: event
 pubDate: '2026-07-23'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/c/c2/Miss_USA_-_DPLA_-_49842e024a86ea66a9dbf175b3defabc.jpg
-  credit: 'Photo: President (1977-1981 : Carter). White House Staff Photographers. 1/20/1977-1/20/1981 / Wikimedia Commons (Public domain)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Miss_USA_-_DPLA_-_49842e024a86ea66a9dbf175b3defabc.jpg
+  url: "https://upload.wikimedia.org/wikipedia/commons/c/c2/Miss_USA_-_DPLA_-_49842e024a86ea66a9dbf175b3defabc.jpg"
+  credit: "Photo: President (1977-1981 : Carter). White House Staff Photographers. 1/20/1977-1/20/1981 / Wikimedia Commons (Public domain)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Miss_USA_-_DPLA_-_49842e024a86ea66a9dbf175b3defabc.jpg"
 gallery: []
 tags:
   - hanoi

@@ -6,10 +6,10 @@ region: Shanghai
 category: event
 pubDate: '2026-07-23'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/ChinaJoy_2025_-_General_13.jpg/1920px-ChinaJoy_2025_-_General_13.jpg
-  credit: 'Photo: Xuthoria / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:ChinaJoy_2025_-_General_13.jpg
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/ChinaJoy_2025_-_General_13.jpg/1920px-ChinaJoy_2025_-_General_13.jpg"
+  credit: "Photo: Xuthoria / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:ChinaJoy_2025_-_General_13.jpg"
 gallery: []
 tags:
   - shanghai

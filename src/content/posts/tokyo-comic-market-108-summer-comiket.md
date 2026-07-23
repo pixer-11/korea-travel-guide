@@ -6,10 +6,10 @@ region: Tokyo
 category: event
 pubDate: '2026-07-21'
 heroImage:
-  url: https://images.unsplash.com/photo-1608874973445-de098faf870f?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8VG9reW8lMjBKYXBhbiUyMENvbWljJTIwTWFya2V0JTIwMTA4JTIwJTI4U3VtbWVyJTIwQ29taWtldCUyOXxlbnwwfDB8fHwxNzg0NjIzNTU5fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Marek Okon on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@marekokon?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tokyo_2017_%2838462211971%29.jpg/1920px-Tokyo_2017_%2838462211971%29.jpg"
+  credit: "Photo: _steffen from Lüdenscheid, Deutschland / Wikimedia Commons (CC BY-SA 2.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Tokyo_2017_(38462211971).jpg"
 gallery: []
 tags:
   - tokyo

@@ -6,10 +6,10 @@ region: Pasay City
 category: event
 pubDate: '2026-07-23'
 heroImage:
-  url: https://images.unsplash.com/photo-1706024938032-34aaf623799e?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8UGFzYXklMjBDaXR5JTIwUGhpbGlwcGluZXMlMjBMYUxhTGElMjBGZXN0JTIwTWFuaWxhJTIwMjAyNnxlbnwwfDB8fHwxNzg0NzY4NjcyfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Jonathan Ramalho on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@jonathan_ramalho?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8M3x8Y29uY2VydCUyMGxpdmUlMjBldmVudCUyMHN0YWdlfGVufDB8MHx8fDE3ODQ3NzU4NjJ8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
+  credit: "Photo by Aditya Chinchure on Unsplash"
+  license: "unsplash"
+  source: "https://unsplash.com/@adityachinchure?utm_source=korea_travel_guide&utm_medium=referral"
 gallery: []
 tags:
   - pasay city

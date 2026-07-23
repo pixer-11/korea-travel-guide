@@ -6,10 +6,10 @@ region: New York
 category: event
 pubDate: '2026-07-23'
 heroImage:
-  url: https://images.unsplash.com/photo-1451988336904-b1a6e8846746?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8VW5pdGVkJTIwU3RhdGVzJTIwdHJhdmVsJTIwbGFuZHNjYXBlfGVufDB8MHx8fDE3ODQ3NjY5Mjh8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Ioann-Mark Kuznietsov on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@mrrrk_smith?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/9-8-57_Tennis_Championship_Match_-_Forest_Hills%2C_L.I._-_DPLA_-_0321f0104a26c26cd848f00452ead486_%28page_17%29.jpg/1920px-9-8-57_Tennis_Championship_Match_-_Forest_Hills%2C_L.I._-_DPLA_-_0321f0104a26c26cd848f00452ead486_%28page_17%29.jpg"
+  credit: "Photo: Nixon, Richard M. (Richard Milhous), 1913-1994 / Wikimedia Commons (Public domain)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:9-8-57_Tennis_Championship_Match_-_Forest_Hills,_L.I._-_DPLA_-_0321f0104a26c26cd848f00452ead486_(page_17).jpg"
 gallery: []
 tags:
   - new york

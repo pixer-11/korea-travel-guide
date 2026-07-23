@@ -6,10 +6,10 @@ region: Monza
 category: event
 pubDate: '2026-07-21'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/2/23/Charles_Leclerc%2C_Ferrari_SF90_holds_off_Lewis_Hamilton%2C_Mercedes_F1_W10%2C_2019_Italian_Grand_Prix%2C_Monza%2C_8th_September.jpg
-  credit: 'Photo: Interceptor73 / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Charles_Leclerc,_Ferrari_SF90_holds_off_Lewis_Hamilton,_Mercedes_F1_W10,_2019_Italian_Grand_Prix,_Monza,_8th_September.jpg
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fale_F1_Monza_2004_77.jpg/1920px-Fale_F1_Monza_2004_77.jpg"
+  credit: "Photo: Fabio Alessandro Locati / Wikimedia Commons (CC BY-SA 3.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Fale_F1_Monza_2004_77.jpg"
 gallery: []
 tags:
   - monza

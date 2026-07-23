@@ -6,10 +6,10 @@ region: Bhubaneswar
 category: event
 pubDate: '2026-07-23'
 heroImage:
-  url: https://images.unsplash.com/photo-1617217139357-b77ae58ad4b2?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8Qmh1YmFuZXN3YXIlMjBJbmRpYXxlbnwwfDB8fHwxNzg0NzY4NTM2fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Ayiman Mohanty on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@_legend_lawrence_?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://images.unsplash.com/photo-1582728961697-2deaaf2380cd?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8YXRobGV0aWNzJTIwc3RhZGl1bSUyMHRyYWNrfGVufDB8MHx8fDE3ODQ3NzU4MTl8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
+  credit: "Photo by Markus Spiske on Unsplash"
+  license: "unsplash"
+  source: "https://unsplash.com/@markusspiske?utm_source=korea_travel_guide&utm_medium=referral"
 gallery: []
 tags:
   - bhubaneswar

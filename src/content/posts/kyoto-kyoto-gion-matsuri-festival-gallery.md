@@ -6,10 +6,10 @@ region: "Kyoto"
 category: "event"
 pubDate: 2026-07-21
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Kyoto_Gion_Matsuri_20100716_2544.jpg/1920px-Kyoto_Gion_Matsuri_20100716_2544.jpg"
-  credit: "Photo: Jakub Hałun / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Kyoto_Gion_Matsuri_20100716_2544.jpg"
+  url: "https://images.unsplash.com/photo-1721208813573-20ec1df0b2fd?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8S3lvdG8lMjBKYXBhbiUyMG11c2ljJTIwZmVzdGl2YWwlMjBjcm93ZHxlbnwwfDB8fHwxNzg0Nzc1MzA1fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
+  credit: "Photo by HANVIN CHEONG on Unsplash"
+  license: "unsplash"
+  source: "https://unsplash.com/@hktram0311?utm_source=korea_travel_guide&utm_medium=referral"
 gallery: []
 place:
   id: "ChIJYc48xcMIAWAR40ktwbmWCw8"

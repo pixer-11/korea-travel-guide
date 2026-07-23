@@ -6,10 +6,10 @@ region: Granada
 category: event
 pubDate: '2026-07-23'
 heroImage:
-  url: https://images.unsplash.com/photo-1544477597-7e30412ada8c?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8TXVsdGlwbGUlMjBjaXRpZXMlMjBhY3Jvc3MlMjBTcGFpbiUyMCUyOEFuZG9ycmElMjBlbnRyeSUyMHRocm91Z2glMjBBbmRhbHVzaWElMkMlMjBmaW5pc2hpbmclMjBpbiUyMEdyYW5hZGElMjklMjBTcGFpbiUyMFZ1ZWx0YSUyMGElMjBFc3BhJUMzJUIxYSUyMDIwMjYlMjAlMjhTcGFuaXNoJTIwc3RhZ2VzJTI5fGVufDB8MHx8fDE3ODQ3Njc2Njl8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Jorge Fernández Salas on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@jorgefdezsalas?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://images.unsplash.com/photo-1673890704132-9573476ac27c?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8cm9hZCUyMGN5Y2xpbmclMjByYWNlJTIwcGVsb3RvbnxlbnwwfDB8fHwxNzg0Nzc1ODUwfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
+  credit: "Photo by Fat Lads on Unsplash"
+  license: "unsplash"
+  source: "https://unsplash.com/@fatladattheback?utm_source=korea_travel_guide&utm_medium=referral"
 gallery: []
 tags:
   - granada

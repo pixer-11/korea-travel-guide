@@ -6,10 +6,10 @@ region: Singapore
 category: event
 pubDate: '2026-07-23'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/f/fc/190518_%EB%A7%88%EB%A7%88%EB%AC%B4%28Mamamoo%29_%EC%A0%9C25%ED%9A%8C_2019_%EB%93%9C%EB%A6%BC%EC%BD%98%EC%84%9C%ED%8A%B8_%281%29.jpg
-  credit: 'Photo: NewsInstar / Wikimedia Commons (CC BY 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:190518_%EB%A7%88%EB%A7%88%EB%AC%B4(Mamamoo)_%EC%A0%9C25%ED%9A%8C_2019_%EB%93%9C%EB%A6%BC%EC%BD%98%EC%84%9C%ED%8A%B8_(1).jpg
+  url: "https://upload.wikimedia.org/wikipedia/commons/f/fc/190518_%EB%A7%88%EB%A7%88%EB%AC%B4%28Mamamoo%29_%EC%A0%9C25%ED%9A%8C_2019_%EB%93%9C%EB%A6%BC%EC%BD%98%EC%84%9C%ED%8A%B8_%281%29.jpg"
+  credit: "Photo: NewsInstar / Wikimedia Commons (CC BY 3.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:190518_%EB%A7%88%EB%A7%88%EB%AC%B4(Mamamoo)_%EC%A0%9C25%ED%9A%8C_2019_%EB%93%9C%EB%A6%BC%EC%BD%98%EC%84%9C%ED%8A%B8_(1).jpg"
 gallery: []
 tags:
   - singapore

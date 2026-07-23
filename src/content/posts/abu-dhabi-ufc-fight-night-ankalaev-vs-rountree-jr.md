@@ -6,10 +6,10 @@ region: Abu Dhabi
 category: event
 pubDate: '2026-07-23'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Qasr_Al_Watan%2C_Abu_Dhabi_%28P1100959%29.jpg/1920px-Qasr_Al_Watan%2C_Abu_Dhabi_%28P1100959%29.jpg"
-  credit: "Photo: Matti Blume / Wikimedia Commons (CC BY-SA)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Qasr_Al_Watan,_Abu_Dhabi_(P1100959).jpg"
+  url: "https://images.unsplash.com/photo-1652784680811-a6155a369258?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8QWJ1JTIwRGhhYmklMjBVbml0ZWQlMjBBcmFiJTIwRW1pcmF0ZXMlMjBtaXhlZCUyMG1hcnRpYWwlMjBhcnRzJTIwZmlnaHR8ZW58MHwwfHx8MTc4NDc3NTIzN3ww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
+  credit: "Photo by Usen Parmanov on Unsplash"
+  license: "unsplash"
+  source: "https://unsplash.com/@parmantegin?utm_source=korea_travel_guide&utm_medium=referral"
 gallery: []
 tags:
   - abu dhabi

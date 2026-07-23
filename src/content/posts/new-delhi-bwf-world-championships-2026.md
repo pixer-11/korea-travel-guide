@@ -6,10 +6,10 @@ region: New Delhi
 category: event
 pubDate: '2026-07-23'
 heroImage:
-  url: https://images.unsplash.com/photo-1774523195578-121a2d1da490?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8TmV3JTIwRGVsaGklMjBJbmRpYSUyMEJXRiUyMFdvcmxkJTIwQ2hhbXBpb25zaGlwcyUyMDIwMjZ8ZW58MHwwfHx8MTc4NDc2ODUwN3ww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Atul Pandey on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@iatulp?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/BWF_IRS_Loading_-_Indonesia_Open_2026.jpg/1920px-BWF_IRS_Loading_-_Indonesia_Open_2026.jpg"
+  credit: "Photo: Griff88 / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:BWF_IRS_Loading_-_Indonesia_Open_2026.jpg"
 gallery: []
 tags:
   - new delhi

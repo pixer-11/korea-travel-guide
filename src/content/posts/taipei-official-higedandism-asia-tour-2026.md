@@ -6,10 +6,10 @@ region: Taipei
 category: event
 pubDate: '2026-07-23'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Taipei_Taiwan_Taipei-Bridge-01.jpg/1920px-Taipei_Taiwan_Taipei-Bridge-01.jpg"
-  credit: "Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_Taipei-Bridge-01.jpg"
+  url: "https://images.unsplash.com/photo-1601482919149-276942808d39?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8VGFpcGVpJTIwVGFpd2FuJTIwY29uY2VydCUyMHN0YWdlJTIwbGl2ZSUyMG11c2ljfGVufDB8MHx8fDE3ODQ3NzUzNTl8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
+  credit: "Photo by Lisanto 李奕良 on Unsplash"
+  license: "unsplash"
+  source: "https://unsplash.com/@lisanto_?utm_source=korea_travel_guide&utm_medium=referral"
 gallery: []
 tags:
   - taipei

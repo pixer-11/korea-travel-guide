@@ -21,7 +21,7 @@ import Anthropic from '@anthropic-ai/sdk';
 import yaml from 'js-yaml';
 import { slugify } from './lib/slugify.mjs';
 import { writeArticle } from './lib/writer.mjs';
-import { resolveHero, loadUsedImageUrls } from './lib/images.mjs';
+import { resolveHero, loadUsedImageUrls, eventTopic } from './lib/images.mjs';
 import { isImageAllowed } from './lib/guardrails.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -116,9 +116,13 @@ async function writeDiscovered(item, ctx) {
   const hero = await resolveHero({
     namedVenue: item.name,
     region: item.city,
-    topic: item.name,
+    // Events: try the specific act/fighter (namedVenue) first, then fall back to
+    // the event TYPE (MMA, racing, concert…) rather than the raw name, so a hero
+    // is at least on-topic. Hotspots keep their venue name as the topic.
+    topic: cat === 'event' ? eventTopic(item.name) : item.name,
     country,
     used: ctx.usedImages,
+    preferTopic: cat === 'event',
   });
   const heroImage = isImageAllowed(hero)
     ? { url: hero.url, credit: hero.credit, license: hero.license, source: hero.source } : undefined;

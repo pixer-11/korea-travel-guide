@@ -5,10 +5,10 @@ region: Boryeong
 category: event
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Korea-Boryeong_Mud_Festival-29.jpg/1920px-Korea-Boryeong_Mud_Festival-29.jpg
-  credit: 'Photo: Stinkie Pinkie / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Korea-Boryeong_Mud_Festival-29.jpg
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Korea-Boryeong_Mud_Festival-29.jpg/1920px-Korea-Boryeong_Mud_Festival-29.jpg"
+  credit: "Photo: Stinkie Pinkie / Wikimedia Commons (CC BY 2.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Korea-Boryeong_Mud_Festival-29.jpg"
 gallery: []
 tags:
   - boryeong

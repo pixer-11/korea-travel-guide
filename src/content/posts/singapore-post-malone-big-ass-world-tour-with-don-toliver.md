@@ -6,10 +6,10 @@ region: Singapore
 category: event
 pubDate: '2026-07-23'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/1_singapore_national_day_parade_2011_fireworks.jpg/1920px-1_singapore_national_day_parade_2011_fireworks.jpg"
-  credit: "Photo: chensiyuan / Wikimedia Commons (CC BY-SA 4.0)"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/F1_Rocks_Singapore.jpg/1920px-F1_Rocks_Singapore.jpg"
+  credit: "Photo: Chinnian / Wikimedia Commons (CC BY-SA 2.0)"
   license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:1_singapore_national_day_parade_2011_fireworks.jpg"
+  source: "https://commons.wikimedia.org/wiki/File:F1_Rocks_Singapore.jpg"
 gallery: []
 tags:
   - singapore

@@ -6,10 +6,10 @@ region: Hong Kong
 category: event
 pubDate: '2026-07-21'
 heroImage:
-  url: https://images.unsplash.com/photo-1596706273130-93120473961c?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SG9uZyUyMEtvbmclMjBDaGluYSUyMEhvbmclMjBLb25nJTIwRm9vdGJhbGwlMjBGZXN0aXZhbCUyMDIwMjZ8ZW58MHwwfHx8MTc4NDYyMzgwNXww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Fré Sonneveld on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@fresonneveld?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://images.unsplash.com/photo-1546886465-f7f7101da2cd?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SG9uZyUyMEtvbmclMjBDaGluYSUyMGZvb3RiYWxsJTIwc29jY2VyJTIwc3RhZGl1bXxlbnwwfDB8fHwxNzg0Nzc1ODI4fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
+  credit: "Photo by Mark Billante on Unsplash"
+  license: "unsplash"
+  source: "https://unsplash.com/@mibillante?utm_source=korea_travel_guide&utm_medium=referral"
 gallery: []
 tags:
   - hong kong

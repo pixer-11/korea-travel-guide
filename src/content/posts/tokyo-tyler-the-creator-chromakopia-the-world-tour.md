@@ -6,10 +6,10 @@ region: Tokyo
 category: event
 pubDate: '2026-07-23'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Minato_City%2C_Tokyo%2C_Japan.jpg/1920px-Minato_City%2C_Tokyo%2C_Japan.jpg"
-  credit: "Photo: David Kernan / Wikimedia Commons (CC BY 4.0)"
+  url: "https://upload.wikimedia.org/wikipedia/commons/f/fe/KOCIS_Korea-Japan_Festival_2011_in_Tokyo_%286259535477%29.jpg"
+  credit: "Photo: Korea.net / Korean Culture and Information Service / Wikimedia Commons (CC BY-SA 2.0)"
   license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Minato_City,_Tokyo,_Japan.jpg"
+  source: "https://commons.wikimedia.org/wiki/File:KOCIS_Korea-Japan_Festival_2011_in_Tokyo_(6259535477).jpg"
 gallery: []
 tags:
   - tokyo

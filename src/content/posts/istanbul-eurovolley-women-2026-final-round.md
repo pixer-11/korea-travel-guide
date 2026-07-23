@@ -6,10 +6,10 @@ region: Istanbul
 category: event
 pubDate: '2026-07-23'
 heroImage:
-  url: https://images.unsplash.com/photo-1505735464829-80b1329ac3c4?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SXN0YW5idWwlMjBUdXJrZXklMjBFdXJvVm9sbGV5JTIwV29tZW4lMjAyMDI2JTIwRmluYWwlMjBSb3VuZHxlbnwwfDB8fHwxNzg0NzY4ODE5fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Faruk Melik ÇEVİK on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@fmcevik?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://images.unsplash.com/photo-1505735464829-80b1329ac3c4?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SXN0YW5idWwlMjBUdXJrZXklMjB2b2xsZXliYWxsJTIwbWF0Y2h8ZW58MHwwfHx8MTc4NDc3NTgzNHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
+  credit: "Photo by Faruk Melik ÇEVİK on Unsplash"
+  license: "unsplash"
+  source: "https://unsplash.com/@fmcevik?utm_source=korea_travel_guide&utm_medium=referral"
 gallery: []
 tags:
   - istanbul

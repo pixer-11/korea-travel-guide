@@ -6,10 +6,10 @@ region: Alcañiz
 category: event
 pubDate: '2026-07-23'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ayuntamiento_de_Alca%C3%B1iz.jpg/1920px-Ayuntamiento_de_Alca%C3%B1iz.jpg"
-  credit: "Photo: Eixarch at Spanish Wikipedia / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Ayuntamiento_de_Alca%C3%B1iz.jpg"
+  url: "https://images.unsplash.com/photo-1514760263916-4ac83991b2e6?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8bW90b3JjeWNsZSUyMGdyYW5kJTIwcHJpeCUyMHJhY2luZ3xlbnwwfDB8fHwxNzg0Nzc1ODA5fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
+  credit: "Photo by Harlie Raethel on Unsplash"
+  license: "unsplash"
+  source: "https://unsplash.com/@harlsta?utm_source=korea_travel_guide&utm_medium=referral"
 gallery: []
 tags:
   - alcañiz

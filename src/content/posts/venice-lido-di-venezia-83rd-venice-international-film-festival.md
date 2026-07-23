@@ -6,10 +6,10 @@ region: Venice
 category: event
 pubDate: '2026-07-23'
 heroImage:
-  url: https://images.unsplash.com/photo-1589469238950-d2b628825609?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8VmVuaWNlJTIwJTI4TGlkbyUyMGRpJTIwVmVuZXppYSUyOSUyMEl0YWx5fGVufDB8MHx8fDE3ODQ3NjczODR8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Uta Scholl on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@uta_scholl?utm_source=korea_travel_guide&utm_medium=referral
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Venice_Film_Festival_-_73_-_Mostra_del_cinema_di_Venezia_%2829522412161%29.jpg/1920px-Venice_Film_Festival_-_73_-_Mostra_del_cinema_di_Venezia_%2829522412161%29.jpg"
+  credit: "Photo: Gianni Torre from Venice, Italy / Wikimedia Commons (CC BY-SA 2.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Venice_Film_Festival_-_73_-_Mostra_del_cinema_di_Venezia_(29522412161).jpg"
 gallery: []
 tags:
   - venice

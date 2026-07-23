@@ -6,10 +6,10 @@ region: Jakarta
 category: event
 pubDate: '2026-07-23'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Jakarta_Indonesia_Business-in-Kota-Jakarta-01.jpg/1920px-Jakarta_Indonesia_Business-in-Kota-Jakarta-01.jpg"
-  credit: "Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Jakarta_Indonesia_Business-in-Kota-Jakarta-01.jpg"
+  url: "https://images.unsplash.com/photo-1505393912938-dbe54c9cce9c?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SmFrYXJ0YSUyMEluZG9uZXNpYSUyMGNvbmNlcnQlMjBsaXZlJTIwZXZlbnQlMjBzdGFnZXxlbnwwfDB8fHwxNzg0Nzc1Mjk1fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
+  credit: "Photo by Firza Pratama on Unsplash"
+  license: "unsplash"
+  source: "https://unsplash.com/@firzaotimo?utm_source=korea_travel_guide&utm_medium=referral"
 gallery: []
 tags:
   - jakarta

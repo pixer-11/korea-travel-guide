@@ -6,10 +6,10 @@ region: Chicago
 category: event
 pubDate: '2026-07-21'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Modest_Mouse_at_Lollapalooza_2007.jpg/1920px-Modest_Mouse_at_Lollapalooza_2007.jpg
-  credit: 'Photo: Octavio Ruiz Cervera from Mexico, Mexico / Wikimedia Commons (CC BY-SA 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Modest_Mouse_at_Lollapalooza_2007.jpg
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/NewDad_Lollapalooza_2025.png/1920px-NewDad_Lollapalooza_2025.png"
+  credit: "Photo: Ben1we / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:NewDad_Lollapalooza_2025.png"
 gallery: []
 tags:
   - chicago

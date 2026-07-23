@@ -6,10 +6,10 @@ region: Kuala Lumpur
 category: event
 pubDate: '2026-07-23'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Butorides_striata_javanica_%40_Kuala_Lumpur%2C_Malaysia_%281%29.jpg/1920px-Butorides_striata_javanica_%40_Kuala_Lumpur%2C_Malaysia_%281%29.jpg"
-  credit: "Photo: GerifalteDelSabana / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Butorides_striata_javanica_@_Kuala_Lumpur,_Malaysia_(1).jpg"
+  url: "https://images.unsplash.com/photo-1566477712363-3c75dd39b416?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8S3VhbGElMjBMdW1wdXIlMjBNYWxheXNpYSUyMGNvbmNlcnQlMjBzdGFnZSUyMGxpdmUlMjBtdXNpY3xlbnwwfDB8fHwxNzg0Nzc1Mjk5fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
+  credit: "Photo by Chris Tan on Unsplash"
+  license: "unsplash"
+  source: "https://unsplash.com/@jihaotannn?utm_source=korea_travel_guide&utm_medium=referral"
 gallery: []
 tags:
   - kuala lumpur
