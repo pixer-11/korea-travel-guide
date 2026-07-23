@@ -12,7 +12,11 @@ export async function getStaticPaths() {
   const posts = await getCollection('posts', ({ data }) => !data.draft);
   // Only build region hubs that actually have posts — no thin "check back soon"
   // pages to dilute a new domain's crawl budget.
-  const regions = [...new Set(posts.map((p) => p.data.region))];
+  // A `/` in a region would split the [region] param into extra path segments and
+  // fail the whole build with "Missing parameter: region" (a clean build has no
+  // route cache to mask it). Skip such regions so one messy event title can never
+  // break every deploy again — the generator also sanitizes them at the source.
+  const regions = [...new Set(posts.map((p) => p.data.region))].filter((r) => r && !r.includes('/'));
   return regions.map((region) => ({
     params: { region: region.toLowerCase() },
     props: { region, posts: posts.filter((p) => p.data.region === region) },

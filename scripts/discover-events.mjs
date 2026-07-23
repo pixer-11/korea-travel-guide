@@ -84,6 +84,11 @@ async function loadDone() {
 async function writeDiscovered(item, ctx) {
   const { country, kind, existing, done } = ctx;
   if (!item?.name || !item?.city) return false;
+  // Multi-stage events can come back with a messy "city" like
+  // "Nice (finish) / various French stages". A "/" there becomes the post's
+  // region and breaks the /regions/[region] route on a clean build, so reduce it
+  // to the primary city (drop anything after a "/", "(", ";" or ",").
+  item.city = String(item.city).split(/\s*[/(;]/)[0].split(',')[0].trim() || item.city;
   const cat = kind === 'event' ? 'event'
     : ['restaurant', 'trendy', 'hidden-gem'].includes(item.category) ? item.category : 'trendy';
   const key = `${kind}:${slugify(`${country}-${item.name}`)}`;
