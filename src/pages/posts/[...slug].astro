@@ -7,6 +7,7 @@ import Tours from '../../components/Tours.astro';
 import PlanTrip from '../../components/PlanTrip.astro';
 import StickyBook from '../../components/StickyBook.astro';
 import Emoji from '../../components/Emoji.astro';
+import { isEventPast } from '../../lib/eventStatus';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts', ({ data }) => !data.draft);
@@ -133,6 +134,28 @@ if (d.faq.length) {
   });
 }
 
+// Event schema for event posts with a known date — lets Google/AI surface it as a
+// dated event (the whole reason the events hub can win "upcoming …" queries).
+if (d.category === 'event' && d.eventStartDate) {
+  const isoDay = (x) => new Date(x).toISOString().slice(0, 10);
+  graph.push({
+    '@type': 'Event',
+    name: d.title,
+    startDate: isoDay(d.eventStartDate),
+    ...(d.eventEndDate && { endDate: isoDay(d.eventEndDate) }),
+    eventStatus: 'https://schema.org/EventScheduled',
+    eventAttendanceMode: 'https://schema.org/OfflineEventAttendanceMode',
+    location: {
+      '@type': 'Place',
+      name: d.region,
+      address: { '@type': 'PostalAddress', addressLocality: d.region, ...(countryISO && { addressCountry: countryISO }) },
+    },
+    ...(d.heroImage?.url && { image: new URL(d.heroImage.url, Astro.site).toString() }),
+    description: d.description,
+    organizer: { '@id': `${site}/#org` },
+  });
+}
+
 const jsonLd = { '@context': 'https://schema.org', '@graph': graph };
 ---
 
@@ -186,13 +209,23 @@ const jsonLd = { '@context': 'https://schema.org', '@graph': graph };
       </aside>
     )}
 
-    <div class="book-cta">
-      <span class="book-cta-label">Planning a trip to {d.region}?</span>
-      <div class="book-cta-btns">
-        <a class="book-btn book-btn-primary" href={klookTop} target="_blank" rel="sponsored noopener"><Emoji name="admission-tickets" /> Things to do</a>
-        <a class="book-btn" href={hotelTop} target="_blank" rel="sponsored noopener"><Emoji name="hotel" /> Find hotels</a>
+    {isEventPast(d) ? (
+      <div class="book-cta">
+        <span class="book-cta-label">이 이벤트는 종료됐습니다 · This event has ended</span>
+        <div class="book-cta-btns">
+          <a class="book-btn book-btn-primary" href="/events"><Emoji name="admission-tickets" /> Upcoming events</a>
+          <a class="book-btn" href="#newsletter"><Emoji name="wrapped-gift" /> Get event updates</a>
+        </div>
       </div>
-    </div>
+    ) : (
+      <div class="book-cta">
+        <span class="book-cta-label">Planning a trip to {d.region}?</span>
+        <div class="book-cta-btns">
+          <a class="book-btn book-btn-primary" href={klookTop} target="_blank" rel="sponsored noopener"><Emoji name="admission-tickets" /> Things to do</a>
+          <a class="book-btn" href={hotelTop} target="_blank" rel="sponsored noopener"><Emoji name="hotel" /> Find hotels</a>
+        </div>
+      </div>
+    )}
 
     {p && (p.address || p.rating || p.priceLevel !== undefined) && (
       <div class="fact-box">
