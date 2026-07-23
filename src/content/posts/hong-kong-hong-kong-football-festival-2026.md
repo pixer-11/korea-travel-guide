@@ -5,6 +5,8 @@ country: China
 region: Hong Kong
 category: event
 pubDate: '2026-07-21'
+eventStartDate: '2026-08-05'
+eventEndDate: '2026-08-05'
 heroImage:
   url: "https://images.unsplash.com/photo-1546886465-f7f7101da2cd?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SG9uZyUyMEtvbmclMjBDaGluYSUyMGZvb3RiYWxsJTIwc29jY2VyJTIwc3RhZGl1bXxlbnwwfDB8fHwxNzg0Nzc1ODI4fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
   credit: "Photo by Mark Billante on Unsplash"

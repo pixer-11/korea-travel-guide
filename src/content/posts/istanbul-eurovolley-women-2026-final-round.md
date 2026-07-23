@@ -5,6 +5,8 @@ country: Turkey
 region: Istanbul
 category: event
 pubDate: '2026-07-23'
+eventStartDate: '2026-09-06'
+eventEndDate: '2026-09-06'
 heroImage:
   url: "https://images.unsplash.com/photo-1505735464829-80b1329ac3c4?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SXN0YW5idWwlMjBUdXJrZXklMjB2b2xsZXliYWxsJTIwbWF0Y2h8ZW58MHwwfHx8MTc4NDc3NTgzNHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
   credit: "Photo by Faruk Melik ÇEVİK on Unsplash"

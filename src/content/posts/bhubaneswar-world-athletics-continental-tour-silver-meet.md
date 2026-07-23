@@ -5,6 +5,8 @@ country: India
 region: Bhubaneswar
 category: event
 pubDate: '2026-07-23'
+eventStartDate: '2026-08-22'
+eventEndDate: '2026-08-22'
 heroImage:
   url: "https://images.unsplash.com/photo-1582728961697-2deaaf2380cd?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8YXRobGV0aWNzJTIwc3RhZGl1bSUyMHRyYWNrfGVufDB8MHx8fDE3ODQ3NzU4MTl8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
   credit: "Photo by Markus Spiske on Unsplash"

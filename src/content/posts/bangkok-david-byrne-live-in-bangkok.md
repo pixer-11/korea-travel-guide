@@ -5,6 +5,8 @@ country: Thailand
 region: Bangkok
 category: event
 pubDate: '2026-07-23'
+eventStartDate: '2026-08-10'
+eventEndDate: '2026-08-10'
 heroImage:
   url: "https://images.unsplash.com/photo-1518122230977-6dc70ce79f4b?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8QmFuZ2tvayUyMFRoYWlsYW5kJTIwY29uY2VydCUyMHN0YWdlJTIwbGl2ZSUyMG11c2ljfGVufDB8MHx8fDE3ODQ3NzUyNDd8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
   credit: "Photo by Duangphorn Wiriya on Unsplash"

@@ -5,6 +5,8 @@ country: Spain
 region: Alcañiz
 category: event
 pubDate: '2026-07-23'
+eventStartDate: '2026-08-28'
+eventEndDate: '2026-08-30'
 heroImage:
   url: "https://images.unsplash.com/photo-1514760263916-4ac83991b2e6?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8bW90b3JjeWNsZSUyMGdyYW5kJTIwcHJpeCUyMHJhY2luZ3xlbnwwfDB8fHwxNzg0Nzc1ODA5fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
   credit: "Photo by Harlie Raethel on Unsplash"

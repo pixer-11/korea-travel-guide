@@ -5,6 +5,8 @@ country: France
 region: Paris
 category: event
 pubDate: '2026-07-23'
+eventStartDate: '2026-08-01'
+eventEndDate: '2026-08-16'
 heroImage:
   url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/European_Aquatics_Championships_%2843146004564%29.jpg/1920px-European_Aquatics_Championships_%2843146004564%29.jpg"
   credit: "Photo: Daniel from Glasgow, United Kingdom / Wikimedia Commons (CC BY 2.0)"

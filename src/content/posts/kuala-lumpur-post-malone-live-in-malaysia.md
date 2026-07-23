@@ -5,6 +5,8 @@ country: Malaysia
 region: Kuala Lumpur
 category: event
 pubDate: '2026-07-23'
+eventStartDate: '2026-09-27'
+eventEndDate: '2026-09-27'
 heroImage:
   url: "https://images.unsplash.com/photo-1578899952059-c0cd092f9d14?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8S3VhbGElMjBMdW1wdXIlMjBNYWxheXNpYSUyMGNvbmNlcnQlMjBzdGFnZSUyMGxpdmUlMjBtdXNpY3xlbnwwfDB8fHwxNzg0Nzc1Mjk5fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
   credit: "Photo by Fauzan on Unsplash"

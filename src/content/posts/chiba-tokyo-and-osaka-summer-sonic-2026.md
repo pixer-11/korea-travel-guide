@@ -5,6 +5,8 @@ country: Japan
 region: Chiba
 category: event
 pubDate: '2026-07-21'
+eventStartDate: '2026-08-14'
+eventEndDate: '2026-08-16'
 heroImage:
   url: "https://images.unsplash.com/photo-1512352036558-e6fb1f0c8340?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8Q2hpYmElMjBKYXBhbiUyMGNvbmNlcnQlMjBsaXZlJTIwZXZlbnQlMjBzdGFnZXxlbnwwfDB8fHwxNzg0Nzc1MjYwfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
   credit: "Photo by Raychan on Unsplash"

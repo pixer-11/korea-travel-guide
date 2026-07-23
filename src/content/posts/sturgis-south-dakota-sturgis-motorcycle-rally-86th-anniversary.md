@@ -5,6 +5,8 @@ country: United States
 region: Sturgis
 category: event
 pubDate: '2026-07-23'
+eventStartDate: '2026-08-07'
+eventEndDate: '2026-08-16'
 heroImage:
   url: "https://upload.wikimedia.org/wikipedia/commons/4/4a/2007_Sturgis_Motorcycle_Rally%2C_Walk_the_Line.jpg"
   credit: "Photo: Jerry Reynolds from Fargo, United States / Wikimedia Commons (CC BY-SA 2.0)"

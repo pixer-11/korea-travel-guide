@@ -5,6 +5,8 @@ country: Indonesia
 region: Jakarta
 category: event
 pubDate: '2026-07-23'
+eventStartDate: '2026-09-25'
+eventEndDate: '2026-09-27'
 heroImage:
   url: "https://images.unsplash.com/photo-1505393912938-dbe54c9cce9c?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SmFrYXJ0YSUyMEluZG9uZXNpYSUyMGNvbmNlcnQlMjBsaXZlJTIwZXZlbnQlMjBzdGFnZXxlbnwwfDB8fHwxNzg0Nzc1Mjk1fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
   credit: "Photo by Firza Pratama on Unsplash"

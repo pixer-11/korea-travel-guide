@@ -22,6 +22,11 @@ const posts = defineCollection({
     ]),
     pubDate: z.coerce.date(),
     updatedDate: z.coerce.date().optional(),
+    // For category:event — the actual event dates (ISO). Drive the "upcoming vs
+    // ended" state, hub sorting, and Event schema. Optional so a post without a
+    // parseable date simply stays "upcoming" rather than mis-expiring.
+    eventStartDate: z.coerce.date().optional(),
+    eventEndDate: z.coerce.date().optional(),
     heroImage: z
       .object({
         url: z.string(),

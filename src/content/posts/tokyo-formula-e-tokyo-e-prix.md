@@ -5,6 +5,8 @@ country: Japan
 region: Tokyo
 category: event
 pubDate: '2026-07-23'
+eventStartDate: '2026-07-25'
+eventEndDate: '2026-07-26'
 heroImage:
   url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Porsche_Formula_E_show_car_2024_Tokyo_e-Prix.jpg/1920px-Porsche_Formula_E_show_car_2024_Tokyo_e-Prix.jpg"
   credit: "Photo: Morio / Wikimedia Commons (CC BY-SA 4.0)"

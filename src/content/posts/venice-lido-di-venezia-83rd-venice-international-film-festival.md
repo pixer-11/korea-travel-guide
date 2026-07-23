@@ -5,6 +5,8 @@ country: Italy
 region: Venice
 category: event
 pubDate: '2026-07-23'
+eventStartDate: '2026-09-02'
+eventEndDate: '2026-09-12'
 heroImage:
   url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Venice_Film_Festival_-_73_-_Mostra_del_cinema_di_Venezia_%2829522412161%29.jpg/1920px-Venice_Film_Festival_-_73_-_Mostra_del_cinema_di_Venezia_%2829522412161%29.jpg"
   credit: "Photo: Gianni Torre from Venice, Italy / Wikimedia Commons (CC BY-SA 2.0)"

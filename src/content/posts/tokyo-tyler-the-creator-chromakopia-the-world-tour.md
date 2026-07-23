@@ -5,6 +5,8 @@ country: Japan
 region: Tokyo
 category: event
 pubDate: '2026-07-23'
+eventStartDate: '2026-09-09'
+eventEndDate: '2026-09-10'
 heroImage:
   url: "https://upload.wikimedia.org/wikipedia/commons/f/fe/KOCIS_Korea-Japan_Festival_2011_in_Tokyo_%286259535477%29.jpg"
   credit: "Photo: Korea.net / Korean Culture and Information Service / Wikimedia Commons (CC BY-SA 2.0)"

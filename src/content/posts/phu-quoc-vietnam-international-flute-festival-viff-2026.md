@@ -5,6 +5,8 @@ country: Vietnam
 region: Phu Quoc
 category: event
 pubDate: '2026-07-23'
+eventStartDate: '2026-07-23'
+eventEndDate: '2026-07-28'
 heroImage:
   url: "https://images.unsplash.com/photo-1779513695013-21da6a1c2a8e?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8UGh1JTIwUXVvYyUyMFZpZXRuYW0lMjBvcmNoZXN0cmElMjBjb25jZXJ0JTIwc3RhZ2V8ZW58MHwwfHx8MTc4NDc3NTMzNHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
   credit: "Photo by Vivu Vietnam on Unsplash"

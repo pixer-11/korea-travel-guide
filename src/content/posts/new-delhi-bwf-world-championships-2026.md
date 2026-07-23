@@ -5,6 +5,8 @@ country: India
 region: New Delhi
 category: event
 pubDate: '2026-07-23'
+eventStartDate: '2026-08-17'
+eventEndDate: '2026-08-23'
 heroImage:
   url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/BWF_IRS_Loading_-_Indonesia_Open_2026.jpg/1920px-BWF_IRS_Loading_-_Indonesia_Open_2026.jpg"
   credit: "Photo: Griff88 / Wikimedia Commons (CC BY-SA 4.0)"

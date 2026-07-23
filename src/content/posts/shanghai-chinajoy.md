@@ -5,6 +5,8 @@ country: China
 region: Shanghai
 category: event
 pubDate: '2026-07-23'
+eventStartDate: '2026-08-03'
+eventEndDate: '2026-08-03'
 heroImage:
   url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/ChinaJoy_2025_-_General_13.jpg/1920px-ChinaJoy_2025_-_General_13.jpg"
   credit: "Photo: Xuthoria / Wikimedia Commons (CC BY-SA 4.0)"

@@ -5,6 +5,8 @@ country: Philippines
 region: Pasay City
 category: event
 pubDate: '2026-07-23'
+eventStartDate: '2026-08-10'
+eventEndDate: '2026-08-12'
 heroImage:
   url: "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8Y29uY2VydCUyMHN0YWdlJTIwbGl2ZSUyMG11c2ljfGVufDB8MHx8fDE3ODQ3NzU4NTl8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
   credit: "Photo by Yvette de Wit on Unsplash"

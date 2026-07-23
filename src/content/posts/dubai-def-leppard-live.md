@@ -5,6 +5,8 @@ country: United Arab Emirates
 region: Dubai
 category: event
 pubDate: '2026-07-23'
+eventStartDate: '2026-08-02'
+eventEndDate: '2026-08-02'
 heroImage:
   url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Def_Leppard_%284121627260%29.jpg/1920px-Def_Leppard_%284121627260%29.jpg"
   credit: "Photo: Nick Ares from Auburn, CA, United States / Wikimedia Commons (CC BY-SA 2.0)"

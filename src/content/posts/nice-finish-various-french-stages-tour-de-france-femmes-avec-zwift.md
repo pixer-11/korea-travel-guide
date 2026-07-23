@@ -5,6 +5,8 @@ country: France
 region: Nice
 category: event
 pubDate: '2026-07-23'
+eventStartDate: '2026-08-01'
+eventEndDate: '2026-08-09'
 heroImage:
   url: "https://images.unsplash.com/photo-1753516231269-2a676b28f6fc?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8cm9hZCUyMGN5Y2xpbmclMjByYWNlJTIwcGVsb3RvbnxlbnwwfDB8fHwxNzg0Nzc1ODUwfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
   credit: "Photo by Bryan Lucas on Unsplash"

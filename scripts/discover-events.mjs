@@ -60,7 +60,8 @@ const discoverEvents = (country) =>
     `big concerts or tours by globally famous artists, major sports events (World Cup, Olympics, Grand Prix, major finals), large festivals, or major special exhibitions. ` +
     `Only REAL, CONFIRMED, upcoming events with a known date and city. ` +
     `Respond with ONLY a JSON array (no prose, no code fence) of up to 4 items: ` +
-    `[{"name":"...","city":"...","date":"...","category":"event","summary":"1-2 factual sentences: what, where, when"}]. If nothing notable, return [].`
+    `[{"name":"...","city":"...","date":"human-readable e.g. August 1-9, 2026","startDate":"YYYY-MM-DD","endDate":"YYYY-MM-DD (same as startDate if one day; last day if multi-day)","category":"event","summary":"1-2 factual sentences: what, where, when"}]. ` +
+    `startDate/endDate MUST be valid ISO dates; omit them only if the exact date is genuinely unknown. If nothing notable, return [].`
   );
 
 const discoverHotspots = (country) =>
@@ -71,6 +72,8 @@ const discoverHotspots = (country) =>
     `[{"name":"...","city":"...","category":"restaurant","summary":"1-2 factual sentences: what it is, where, why it's notable"}] ` +
     `where category is one of "restaurant","trendy","hidden-gem". If nothing notable, return [].`
   );
+
+const isIsoDate = (s) => typeof s === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(s) && !Number.isNaN(Date.parse(s));
 
 function frontmatter(data) {
   return `---\n${yaml.dump(data, { lineWidth: -1, noRefs: true, sortKeys: false })}---\n\n`;
@@ -135,6 +138,10 @@ async function writeDiscovered(item, ctx) {
       : `${item.name} in ${item.city}, ${country} — a new/trending spot: what it is, where it is, and how to visit.`,
     country, region: item.city, category: cat,
     pubDate: new Date().toISOString().slice(0, 10),
+    // Structured event dates (ISO) drive upcoming/ended state, hub sorting, Event
+    // schema. Only stored when the model returned a valid date.
+    ...(cat === 'event' && isIsoDate(item.startDate) && { eventStartDate: item.startDate }),
+    ...(cat === 'event' && isIsoDate(item.endDate || item.startDate) && { eventEndDate: item.endDate || item.startDate }),
     heroImage, gallery: [],
     tags: [item.city.toLowerCase(), kind === 'event' ? 'event' : 'new & trending'],
     quickAnswer, faq, aiGenerated: true, draft: false,
