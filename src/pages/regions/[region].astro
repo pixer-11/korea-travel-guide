@@ -244,7 +244,15 @@ const jsonLd = {
 </BaseLayout>
 
 <style>
-  .see-all { margin-top: 1rem; }
-  .see-all a { font-weight: 600; color: var(--accent); text-decoration: none; }
-  .see-all a:hover { text-decoration: underline; }
+  .see-all { margin-top: 1.25rem; }
+  /* Pill button — prominent enough to actually get clicked, and >=44px tall so
+     it's an easy mobile touch target. */
+  .see-all a {
+    display: inline-flex; align-items: center; gap: 0.45rem;
+    min-height: 44px; padding: 0.55rem 1.2rem;
+    font-weight: 600; color: var(--accent); text-decoration: none;
+    border: 1.5px solid var(--accent); border-radius: 999px;
+    transition: background 0.15s ease, color 0.15s ease;
+  }
+  .see-all a:hover, .see-all a:focus-visible { background: var(--accent); color: #fff; }
 </style>
