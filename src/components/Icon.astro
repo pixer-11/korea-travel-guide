@@ -1,12 +1,30 @@
 ---
-// Thin wrapper over astro-icon → build-time inline SVG, zero client JS.
-// Every icon on this site is paired with a visible text label, so icons are
-// decorative: always aria-hidden. Sized in `em` so it scales with the parent's
-// font-size (matching the emoji it replaces); colour inherits `currentColor`
-// unless a class sets `color` (e.g. `--accent`, `--gold`).
-// Names: Phosphor "ph:airplane-tilt", flags "circle-flags:kr".
-import { Icon as Iconify } from 'astro-icon/components';
+// Inline Phosphor (ph:) SVG DIRECTLY from @iconify-json/ph — no astro-icon sprite
+// `<use href="#…">`, which Chrome skips painting inside cards/backdrop-filtered
+// bars until a repaint is forced (the same bug that made the flags flicker). The
+// body already carries fill="currentColor", so colour inherits from the parent.
+// Every icon is paired with a visible text label → decorative → aria-hidden.
+// Sized in `em` so it scales with the parent's font-size (matching the emoji it
+// replaces). Names: "ph:airplane-tilt" (or bare "airplane-tilt"). Flags use Flag.astro.
+import phData from '@iconify-json/ph/icons.json';
+
 interface Props { name: string; size?: string | number; class?: string }
 const { name, size = '1em', class: cls } = Astro.props;
+
+const key = name?.startsWith('ph:') ? name.slice(3) : name;
+const icons = phData.icons as Record<string, { body: string; width?: number; height?: number }>;
+const icon = icons[key];
+const w = icon?.width ?? phData.width ?? 256;
+const h = icon?.height ?? phData.height ?? 256;
 ---
-<Iconify name={name} width={size} height={size} class={cls} aria-hidden="true" />
+{icon && (
+  <svg
+    width={size}
+    height={size}
+    viewBox={`0 0 ${w} ${h}`}
+    class:list={['icon', cls]}
+    fill="currentColor"
+    aria-hidden="true"
+    set:html={icon.body}
+  />
+)}

@@ -6,6 +6,7 @@ import Hotels from '../../components/Hotels.astro';
 import Tours from '../../components/Tours.astro';
 import PlanTrip from '../../components/PlanTrip.astro';
 import StickyBook from '../../components/StickyBook.astro';
+import Icon from '../../components/Icon.astro';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts', ({ data }) => !data.draft);
@@ -188,8 +189,8 @@ const jsonLd = { '@context': 'https://schema.org', '@graph': graph };
     <div class="book-cta">
       <span class="book-cta-label">Planning a trip to {d.region}?</span>
       <div class="book-cta-btns">
-        <a class="book-btn book-btn-primary" href={klookTop} target="_blank" rel="sponsored noopener">🎟️ Things to do</a>
-        <a class="book-btn" href={hotelTop} target="_blank" rel="sponsored noopener">🏨 Find hotels</a>
+        <a class="book-btn book-btn-primary" href={klookTop} target="_blank" rel="sponsored noopener"><Icon name="ph:ticket" /> Things to do</a>
+        <a class="book-btn" href={hotelTop} target="_blank" rel="sponsored noopener"><Icon name="ph:buildings" /> Find hotels</a>
       </div>
     </div>
 
@@ -207,10 +208,10 @@ const jsonLd = { '@context': 'https://schema.org', '@graph': graph };
         </div>
         <div class="fact-actions">
           {ticketable && p.name && (
-            <a class="fact-ticket" href={klookPlace} target="_blank" rel="sponsored noopener">🎫 Tickets &amp; tours for {p.name}</a>
+            <a class="fact-ticket" href={klookPlace} target="_blank" rel="sponsored noopener"><Icon name="ph:ticket" /> Tickets &amp; tours for {p.name}</a>
           )}
           {p.googleMapsUrl && (
-            <a class="map-link" href={p.googleMapsUrl} target="_blank" rel="noopener">📍 Open in Google Maps</a>
+            <a class="map-link" href={p.googleMapsUrl} target="_blank" rel="noopener"><Icon name="ph:map-pin" /> Open in Google Maps</a>
           )}
         </div>
       </div>
@@ -228,7 +229,7 @@ const jsonLd = { '@context': 'https://schema.org', '@graph': graph };
           target="_blank"
           rel="noopener nofollow"
         >
-          📍 Explore on Google Maps
+          <Icon name="ph:map-pin" /> Explore on Google Maps
         </a>
       </p>
     )}

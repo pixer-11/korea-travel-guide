@@ -4,6 +4,7 @@
 // render a Klook city-search CTA instead of nothing, so tours (our best-
 // converting, no-approval-needed inventory) monetize on every post.
 // marker shmarker=754088, source trs=553157, category 1 = Attractions & Shows.
+import Icon from './Icon.astro';
 interface Props { city: string }
 const { city } = Astro.props;
 
@@ -47,7 +48,7 @@ const klookHref = city
       </div>
     ) : (
       <a class="plan-card tours-cta" href={klookHref} target="_blank" rel="sponsored noopener">
-        <span class="plan-ico">🎟️</span>
+        <span class="plan-ico"><Icon name="ph:ticket" /></span>
         <span class="plan-txt"><strong>Tours & tickets in {city}</strong><span>Book activities and skip-the-line tickets on Klook</span></span>
         <span class="plan-arw">→</span>
       </a>

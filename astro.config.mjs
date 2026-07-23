@@ -1,7 +1,6 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
-import icon from 'astro-icon';
 
 import react from '@astrojs/react';
 
@@ -11,7 +10,7 @@ const SITE = process.env.SITE_URL || 'https://wanderatlasguides.com';
 
 export default defineConfig({
   site: SITE,
-  integrations: [sitemap(), react(), icon()],
+  integrations: [sitemap(), react()],
   trailingSlash: 'ignore',
   i18n: {
     defaultLocale: 'en',
