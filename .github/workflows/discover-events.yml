@@ -57,3 +57,21 @@ jobs:
             sleep $((attempt * 5))
           done
           if [ "$pushed" != 1 ]; then echo "Could not push after retries"; exit 1; fi
+
+      - name: Validate content integrity
+        id: validate
+        continue-on-error: true
+        run: node scripts/validate-content.mjs
+
+      - name: Warn on content issues
+        if: steps.validate.outcome == 'failure'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
+          MSG=$(node scripts/validate-content.mjs 2>&1 | head -25)
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+            --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
+            --data-urlencode text="⚠️ 콘텐츠 검증 경고 (이벤트 발굴)
+$MSG" >/dev/null || true

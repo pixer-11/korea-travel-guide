@@ -56,6 +56,13 @@ jobs:
           total=$(ls src/content/posts/*.md | wc -l | tr -d ' ')
           echo "new=$new" >> "$GITHUB_OUTPUT"
           echo "total=$total" >> "$GITHUB_OUTPUT"
+          # Title + URL list of the newly-added posts, for the Telegram report.
+          list=$(git diff --cached --name-only --diff-filter=A -- src/content/posts | grep '\.md$' | node scripts/format-post-list.mjs || true)
+          {
+            echo "list<<POSTS_EOF"
+            echo "$list"
+            echo "POSTS_EOF"
+          } >> "$GITHUB_OUTPUT"
           if git diff --staged --quiet; then
             echo "No new posts this run."
           else
@@ -66,6 +73,24 @@ jobs:
             git push
           fi
 
+      - name: Validate content integrity
+        id: validate
+        continue-on-error: true
+        run: node scripts/validate-content.mjs
+
+      - name: Warn on content issues
+        if: steps.validate.outcome == 'failure'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
+          MSG=$(node scripts/validate-content.mjs 2>&1 | head -25)
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+            --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
+            --data-urlencode text="⚠️ 콘텐츠 검증 경고 (일일 자동발행)
+$MSG" >/dev/null || true
+
       - name: Notify Telegram
         if: always()
         env:
@@ -74,4 +99,5 @@ jobs:
           JOB_STATUS: ${{ job.status }}
           NEW: ${{ steps.commit.outputs.new }}
           TOTAL: ${{ steps.commit.outputs.total }}
+          NEW_LIST: ${{ steps.commit.outputs.list }}
         run: bash scripts/notify-telegram.sh "Daily publish"

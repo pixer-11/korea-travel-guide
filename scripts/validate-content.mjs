@@ -1,0 +1,62 @@
+// Content-integrity gate. Run AFTER a publish/discover step: it scans every post
+// for the failure modes we've hit before and prints a report. Exit code 1 if any
+// issue is found, so the workflow can fire a Telegram warning (the post is already
+// committed — this makes a problem loud instead of silently living on the site).
+//
+//   node scripts/validate-content.mjs
+import { readdir, readFile } from 'node:fs/promises';
+import { join } from 'node:path';
+import { fileURLToPath } from 'node:url';
+import { unsplashNum } from './lib/images.mjs';
+
+const DIR = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
+
+// Normalized topic key: strip the "…: What to Know (City)" suffix, tokenize, drop
+// short/filler words, sort — so "Formula 1 Italian Grand Prix" and "Italian Grand
+// Prix Formula 1" collapse to the same key (that's how a dup slipped through).
+const FILLER = new Set(['the', 'and', 'with', 'what', 'know', 'guide', 'visitor', 'visitors', 'where', 'eat', 'know', '2026', '2027']);
+// Include the region so only SAME-CITY name variants collapse (Monza F1 ×2), not
+// different cities that share a generic noun ("Tower"/"Local Restaurant").
+const topicKey = (title, region) => {
+  const name = String(title).split(/:\s*(?:What to Know|Where to Eat|A Visitor)/i)[0];
+  return `${name} ${region}`
+    .toLowerCase().replace(/[^a-z0-9\s]/g, ' ').split(/\s+/)
+    .filter((w) => w.length > 2 && !FILLER.has(w))
+    .sort().join(' ');
+};
+
+const files = (await readdir(DIR)).filter((f) => f.endsWith('.md'));
+const posts = [];
+for (const f of files) {
+  const t = await readFile(join(DIR, f), 'utf8');
+  const fm = t.slice(0, t.indexOf('\n---', 3));
+  const g = (k) => (fm.match(new RegExp(`^${k}:\\s*(.+)$`, 'm'))?.[1] || '').trim().replace(/^["']|["']$/g, '');
+  const url = ((fm.split(/^heroImage:/m)[1] || '').match(/^\s+url:\s*"?([^"\n]+?)"?\s*$/m)?.[1] || '').trim();
+  const placeId = (fm.match(/\n {2}id:\s*"?([^"\n]+?)"?\s*$/m)?.[1] || '').trim();
+  posts.push({ f, region: g('region'), category: g('category'), title: g('title'), url, placeId });
+}
+
+const issues = [];
+const dupBy = (keyFn, label) => {
+  const m = new Map();
+  for (const p of posts) { const k = keyFn(p); if (!k) continue; (m.get(k) || m.set(k, []).get(k)).push(p); }
+  for (const [k, ps] of m) if (ps.length > 1) issues.push(`${label} ×${ps.length}: ${ps.map((p) => p.f).join(', ')}`);
+};
+
+for (const p of posts) {
+  if (p.region.includes('/')) issues.push(`SLASH in region "${p.region}" — breaks /regions route: ${p.f}`);
+  if (!p.url || p.url.includes('placeholder')) issues.push(`PLACEHOLDER/no image [${p.category}]: ${p.f}`);
+}
+dupBy((p) => (p.url && !p.url.includes('placeholder') ? unsplashNum(p.url) || p.url : ''), 'DUPLICATE image');
+dupBy((p) => p.placeId, 'DUPLICATE place.id');
+// Only for posts WITHOUT a place.id (events/placeless) — venue posts are already
+// de-duped by place.id above, and non-ASCII venue names (Vietnamese/Korean) would
+// otherwise collapse to just the city and false-positive.
+dupBy((p) => (!p.placeId ? topicKey(p.title, p.region) : ''), 'DUPLICATE topic (near-identical post)');
+
+if (issues.length) {
+  console.log(`❌ ${issues.length} content issue(s) across ${posts.length} posts:\n`);
+  for (const i of issues) console.log(`  • ${i}`);
+  process.exit(1);
+}
+console.log(`✓ ${posts.length} posts clean — no slash regions, placeholders, dup images, dup places, or near-dup topics.`);

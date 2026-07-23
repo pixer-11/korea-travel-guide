@@ -40,11 +40,21 @@ else
   ICON="✅"; NOTE=""
 fi
 
+# Optional list of the posts published this run (title + URL, one entry per two
+# lines), passed via NEW_LIST env, so the reader can open and check each new post.
+LIST_BLOCK=""
+if [ -n "${NEW_LIST:-}" ]; then
+  LIST_BLOCK="
+
+📄 오늘 발행된 글:
+${NEW_LIST}"
+fi
+
 TEXT="🗺️ Wander Atlas — ${LABEL}
 ${ICON} 상태: ${STATUS_KO}
 📝 새 ${UNIT}: ${NEW}개
 📚 전체 글: ${TOTAL}개
-🕒 ${DATE}${NOTE}"
+🕒 ${DATE}${NOTE}${LIST_BLOCK}"
 
 # Print the Telegram API response so failures are diagnosable (never contains the token).
 RESP=$(curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
