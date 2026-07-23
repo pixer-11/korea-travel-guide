@@ -540,7 +540,10 @@ main { flex: 1; width: 100%; }
 .country-photo { position: relative; aspect-ratio: 16 / 10; background: var(--surface-2) center / cover no-repeat; }
 .country-photo::after { content: ''; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(20,18,15,0) 45%, rgba(20,18,15,.34)); }
 .country-card.is-live:hover .country-photo { }
-.country-flag { position: absolute; top: .6rem; left: .6rem; z-index: 1; font-size: 1.05rem; font-weight: 700; line-height: 1; padding: .22rem .5rem; border-radius: var(--r-pill); background: color-mix(in srgb, var(--surface) 86%, transparent); backdrop-filter: saturate(140%) blur(5px); box-shadow: 0 1px 4px rgba(0,0,0,.12); }
+/* NOTE: no backdrop-filter here — it triggers a Chrome bug where the inline
+   circle-flags SVG inside only paints after a repaint (flags vanished until the
+   nav dropdown opened). A slightly more opaque solid pill keeps the flag legible. */
+.country-flag { position: absolute; top: .6rem; left: .6rem; z-index: 1; font-size: 1.05rem; font-weight: 700; line-height: 1; padding: .22rem .5rem; border-radius: var(--r-pill); background: color-mix(in srgb, var(--surface) 92%, transparent); box-shadow: 0 1px 4px rgba(0,0,0,.12); }
 .country-body { padding: 1rem 1.2rem 1.3rem; }
 .country-body h3 { font-size: 1.18rem; margin-bottom: .3rem; }
 .country-body p { font-size: .9rem; color: var(--muted); line-height: 1.5; margin: 0; }
