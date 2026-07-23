@@ -70,7 +70,9 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
-          MSG=$(node scripts/validate-content.mjs 2>&1 | head -25)
+          # `|| true`: don't let set -e/pipefail abort this warn step (validate
+          # exits 1 by design) before the curl fires.
+          MSG=$(node scripts/validate-content.mjs 2>&1 | head -25 || true)
           TXT=$(printf '⚠️ 콘텐츠 검증 경고 (이벤트 발굴)\n%s' "$MSG")
           curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
             --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \

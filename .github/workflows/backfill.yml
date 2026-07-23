@@ -16,7 +16,7 @@ on:
       count:
         description: 'Max posts this run (stops early on Places quota)'
         required: false
-        default: '90'
+        default: '75' # keep in sync with the scheduled cap so a manual run doesn't starve publish
       target:
         description: 'Guides per country to fill toward'
         required: false

@@ -412,7 +412,9 @@ main { flex: 1; width: 100%; }
    readable), never color/blur alone. */
 .card--ended .thumb img { filter: grayscale(0.65); opacity: 0.82; }
 .card--ended:hover .thumb img { transform: none; }
-.badge-ended { background: color-mix(in srgb, var(--ink) 60%, transparent); color: #fff; }
+/* Specificity must beat `.card .thumb .badge` (3 classes) or it loses; a fixed
+   dark scrim also stays legible in BOTH themes (an --ink tint flips in dark mode). */
+.card .thumb .badge-ended { background: rgba(0, 0, 0, 0.62); color: #fff; }
 .card .thumb .badge { position: absolute; top: 0.75rem; left: 0.75rem; background: color-mix(in srgb, var(--surface) 90%, transparent); backdrop-filter: blur(4px); }
 .card-body { padding: 1.1rem 1.25rem 1.4rem; display: flex; flex-direction: column; gap: 0.4rem; flex: 1; }
 .card-body .region-label { font-size: 0.78rem; color: var(--muted); font-weight: 600; letter-spacing: 0.02em; }
