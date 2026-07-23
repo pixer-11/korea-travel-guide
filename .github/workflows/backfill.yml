@@ -43,7 +43,10 @@ jobs:
           GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
-          POSTS_PER_RUN: ${{ github.event.inputs.count || '90' }}
+          # Cap below the Places 100/day quota so the NEXT daily auto-publish (16
+          # posts, same quota cycle) still has budget: 75 backfill + 16 publish =
+          # 91 < 100, leaving headroom. Was 90 → starved publish to ~2 posts/day.
+          POSTS_PER_RUN: ${{ github.event.inputs.count || '75' }}
           TARGET_PER_COUNTRY: ${{ github.event.inputs.target || '58' }}
           MIN_RATING: '4.0'
           MIN_REVIEWS: '50'
