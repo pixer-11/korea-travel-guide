@@ -64,10 +64,15 @@ jobs:
           git config user.name "content-bot"
           git config user.email "bot@users.noreply.github.com"
           git add src/content/posts data/published.json public/wall data/wall.json
-          new=$(git diff --cached --name-only --diff-filter=A -- src/content/posts | grep -c '\.md$' || true)
+          newfiles=$(git diff --cached --name-only --diff-filter=A -- src/content/posts | grep '\.md$' || true)
+          new=$(printf '%s\n' "$newfiles" | grep -c . || true)
           total=$(ls src/content/posts/*.md | wc -l | tr -d ' ')
           echo "new=$new" >> "$GITHUB_OUTPUT"
           echo "total=$total" >> "$GITHUB_OUTPUT"
+          # Title + URL list of this run's new posts (shared formatter, capped for
+          # Telegram), passed to notify-telegram.sh via NEW_LIST.
+          list=$(printf '%s\n' "$newfiles" | node scripts/format-post-list.mjs || true)
+          { echo "new_list<<TGEOF"; echo "$list"; echo "TGEOF"; } >> "$GITHUB_OUTPUT"
           if git diff --staged --quiet; then
             echo "No new posts this run — countries already at target."
           else
@@ -84,4 +89,5 @@ jobs:
           JOB_STATUS: ${{ job.status }}
           NEW: ${{ steps.commit.outputs.new }}
           TOTAL: ${{ steps.commit.outputs.total }}
+          NEW_LIST: ${{ steps.commit.outputs.new_list }}
         run: bash scripts/notify-telegram.sh "Backfill"
