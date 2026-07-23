@@ -8,10 +8,10 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-07-25'
 eventEndDate: '2026-07-25'
 heroImage:
-  url: "https://images.unsplash.com/photo-1652784680811-a6155a369258?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8QWJ1JTIwRGhhYmklMjBVbml0ZWQlMjBBcmFiJTIwRW1pcmF0ZXMlMjBtaXhlZCUyMG1hcnRpYWwlMjBhcnRzJTIwZmlnaHR8ZW58MHwwfHx8MTc4NDc3NTIzN3ww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Usen Parmanov on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@parmantegin?utm_source=korea_travel_guide&utm_medium=referral"
+  url: "https://upload.wikimedia.org/wikipedia/commons/4/47/Magomed_Ankalaev_at_UFC_Fight_Night_136.png"
+  credit: "Photo: MMAnytt / Wikimedia Commons (CC BY 3.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Magomed_Ankalaev_at_UFC_Fight_Night_136.png"
 gallery: []
 tags:
   - abu dhabi

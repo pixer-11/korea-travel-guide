@@ -8,10 +8,10 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-09-13'
 eventEndDate: '2026-09-13'
 heroImage:
-  url: "https://images.unsplash.com/photo-1673890704132-9573476ac27c?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8cm9hZCUyMGN5Y2xpbmclMjByYWNlJTIwcGVsb3RvbnxlbnwwfDB8fHwxNzg0Nzc1ODUwfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Fat Lads on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@fatladattheback?utm_source=korea_travel_guide&utm_medium=referral"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/20220820_JumboVisma_in_Vuelta_2022.jpg/1920px-20220820_JumboVisma_in_Vuelta_2022.jpg"
+  credit: "Photo: WeeJeeVee / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:20220820_JumboVisma_in_Vuelta_2022.jpg"
 gallery: []
 tags:
   - granada

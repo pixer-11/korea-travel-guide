@@ -8,10 +8,10 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-07-23'
 eventEndDate: '2026-07-28'
 heroImage:
-  url: "https://images.unsplash.com/photo-1779513695013-21da6a1c2a8e?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8UGh1JTIwUXVvYyUyMFZpZXRuYW0lMjBvcmNoZXN0cmElMjBjb25jZXJ0JTIwc3RhZ2V8ZW58MHwwfHx8MTc4NDc3NTMzNHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Vivu Vietnam on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@bttsg?utm_source=korea_travel_guide&utm_medium=referral"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Thuong_Duc%2C_Vietnam_-_A_Viet_Cong_prisoner_awaits_interrogation_at_the_A-109_Special_Forces_Detachment_in_Thuong_-_NARA_-_531447.jpg/1920px-Thuong_Duc%2C_Vietnam_-_A_Viet_Cong_prisoner_awaits_interrogation_at_the_A-109_Special_Forces_Detachment_in_Thuong_-_NARA_-_531447.jpg"
+  credit: "Photo: Unknown authorUnknown author or not provided / Wikimedia Commons (Public domain)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Thuong_Duc,_Vietnam_-_A_Viet_Cong_prisoner_awaits_interrogation_at_the_A-109_Special_Forces_Detachment_in_Thuong_-_NARA_-_531447.jpg"
 gallery: []
 tags:
   - phu quoc

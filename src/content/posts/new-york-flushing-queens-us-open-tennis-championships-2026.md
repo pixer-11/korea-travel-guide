@@ -8,10 +8,10 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-09-13'
 eventEndDate: '2026-09-13'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/9-8-57_Tennis_Championship_Match_-_Forest_Hills%2C_L.I._-_DPLA_-_0321f0104a26c26cd848f00452ead486_%28page_17%29.jpg/1920px-9-8-57_Tennis_Championship_Match_-_Forest_Hills%2C_L.I._-_DPLA_-_0321f0104a26c26cd848f00452ead486_%28page_17%29.jpg"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/9-8-57_Tennis_Championship_Match_-_Forest_Hills%2C_L.I._-_DPLA_-_0321f0104a26c26cd848f00452ead486_%28page_18%29.jpg/1920px-9-8-57_Tennis_Championship_Match_-_Forest_Hills%2C_L.I._-_DPLA_-_0321f0104a26c26cd848f00452ead486_%28page_18%29.jpg"
   credit: "Photo: Nixon, Richard M. (Richard Milhous), 1913-1994 / Wikimedia Commons (Public domain)"
   license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:9-8-57_Tennis_Championship_Match_-_Forest_Hills,_L.I._-_DPLA_-_0321f0104a26c26cd848f00452ead486_(page_17).jpg"
+  source: "https://commons.wikimedia.org/wiki/File:9-8-57_Tennis_Championship_Match_-_Forest_Hills,_L.I._-_DPLA_-_0321f0104a26c26cd848f00452ead486_(page_18).jpg"
 gallery: []
 tags:
   - new york

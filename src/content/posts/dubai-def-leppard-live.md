@@ -8,10 +8,10 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-08-02'
 eventEndDate: '2026-08-02'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Def_Leppard_%284121627260%29.jpg/1920px-Def_Leppard_%284121627260%29.jpg"
-  credit: "Photo: Nick Ares from Auburn, CA, United States / Wikimedia Commons (CC BY-SA 2.0)"
+  url: "https://upload.wikimedia.org/wikipedia/commons/8/8b/Def_Leppard_%2814825665840%29.jpg"
+  credit: "Photo: Morgan Williams / Wikimedia Commons (CC BY 2.0)"
   license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Def_Leppard_(4121627260).jpg"
+  source: "https://commons.wikimedia.org/wiki/File:Def_Leppard_(14825665840).jpg"
 gallery: []
 tags:
   - dubai

@@ -8,10 +8,10 @@ pubDate: '2026-07-21'
 eventStartDate: '2026-08-14'
 eventEndDate: '2026-08-16'
 heroImage:
-  url: "https://images.unsplash.com/photo-1512352036558-e6fb1f0c8340?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8Q2hpYmElMjBKYXBhbiUyMGNvbmNlcnQlMjBsaXZlJTIwZXZlbnQlMjBzdGFnZXxlbnwwfDB8fHwxNzg0Nzc1MjYwfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Raychan on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@wx1993?utm_source=korea_travel_guide&utm_medium=referral"
+  url: "https://upload.wikimedia.org/wikipedia/commons/2/20/WW_Chicago_2011_-_Sonic_the_Hedgehog_%288168360292%29.jpg"
+  credit: "Photo: GabboT / Wikimedia Commons (CC BY-SA 2.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:WW_Chicago_2011_-_Sonic_the_Hedgehog_(8168360292).jpg"
 gallery: []
 tags:
   - chiba

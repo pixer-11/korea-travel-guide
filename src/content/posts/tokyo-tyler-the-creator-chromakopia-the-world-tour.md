@@ -8,10 +8,10 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-09-09'
 eventEndDate: '2026-09-10'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/f/fe/KOCIS_Korea-Japan_Festival_2011_in_Tokyo_%286259535477%29.jpg"
-  credit: "Photo: Korea.net / Korean Culture and Information Service / Wikimedia Commons (CC BY-SA 2.0)"
+  url: "https://upload.wikimedia.org/wikipedia/commons/f/f6/Tyler%2C_the_Creator_performing_%22Darling%2C_I%22_at_the_Barclays_Center_for_the_Chromakopia_World_Tour_%282025%29.jpg"
+  credit: "Photo: Jckndthebeanstlk / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:KOCIS_Korea-Japan_Festival_2011_in_Tokyo_(6259535477).jpg"
+  source: "https://commons.wikimedia.org/wiki/File:Tyler,_the_Creator_performing_%22Darling,_I%22_at_the_Barclays_Center_for_the_Chromakopia_World_Tour_(2025).jpg"
 gallery: []
 tags:
   - tokyo

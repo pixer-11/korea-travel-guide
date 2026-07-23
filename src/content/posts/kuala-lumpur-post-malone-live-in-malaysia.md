@@ -8,10 +8,10 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-09-27'
 eventEndDate: '2026-09-27'
 heroImage:
-  url: "https://images.unsplash.com/photo-1578899952059-c0cd092f9d14?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8S3VhbGElMjBMdW1wdXIlMjBNYWxheXNpYSUyMGNvbmNlcnQlMjBzdGFnZSUyMGxpdmUlMjBtdXNpY3xlbnwwfDB8fHwxNzg0Nzc1Mjk5fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Fauzan on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@fauzanazhima?utm_source=korea_travel_guide&utm_medium=referral"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Malone%2C_New_York_-_5160139348.jpg/1920px-Malone%2C_New_York_-_5160139348.jpg"
+  credit: "Photo: Dougtone / Wikimedia Commons (CC BY-SA 2.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Malone,_New_York_-_5160139348.jpg"
 gallery: []
 tags:
   - kuala lumpur

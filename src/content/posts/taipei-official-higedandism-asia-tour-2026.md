@@ -8,10 +8,10 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-08-29'
 eventEndDate: '2026-08-30'
 heroImage:
-  url: "https://images.unsplash.com/photo-1601482919149-276942808d39?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8VGFpcGVpJTIwVGFpd2FuJTIwY29uY2VydCUyMHN0YWdlJTIwbGl2ZSUyMG11c2ljfGVufDB8MHx8fDE3ODQ3NzUzNTl8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Lisanto 李奕良 on Unsplash"
+  url: "https://images.unsplash.com/photo-1663440237872-7d00d16d9e9b?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8VGFpcGVpJTIwVGFpd2FuJTIwY29uY2VydCUyMHN0YWdlJTIwbGl2ZSUyMG11c2ljfGVufDB8MHx8fDE3ODQ3NzUzNTl8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
+  credit: "Photo by Kenzo Tu on Unsplash"
   license: "unsplash"
-  source: "https://unsplash.com/@lisanto_?utm_source=korea_travel_guide&utm_medium=referral"
+  source: "https://unsplash.com/@kenzotu?utm_source=korea_travel_guide&utm_medium=referral"
 gallery: []
 tags:
   - taipei

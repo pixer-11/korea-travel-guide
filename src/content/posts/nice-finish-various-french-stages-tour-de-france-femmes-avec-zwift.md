@@ -8,10 +8,10 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-08-01'
 eventEndDate: '2026-08-09'
 heroImage:
-  url: "https://images.unsplash.com/photo-1753516231269-2a676b28f6fc?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8cm9hZCUyMGN5Y2xpbmclMjByYWNlJTIwcGVsb3RvbnxlbnwwfDB8fHwxNzg0Nzc1ODUwfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Bryan Lucas on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@bryan_lcs?utm_source=korea_travel_guide&utm_medium=referral"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Heuliez_GX_107_n%C2%B0337_Mend%C3%A8s_France_-_Z%C3%A9phir_Bus.JPG/1920px-Heuliez_GX_107_n%C2%B0337_Mend%C3%A8s_France_-_Z%C3%A9phir_Bus.JPG"
+  credit: "Photo: Florian Fèvre / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Heuliez_GX_107_n%C2%B0337_Mend%C3%A8s_France_-_Z%C3%A9phir_Bus.JPG"
 gallery: []
 tags:
   - nice

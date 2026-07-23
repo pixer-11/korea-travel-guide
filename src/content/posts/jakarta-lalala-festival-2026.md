@@ -8,10 +8,10 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-08-22'
 eventEndDate: '2026-08-23'
 heroImage:
-  url: "https://images.unsplash.com/photo-1625752411586-91339b654150?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SmFrYXJ0YSUyMEluZG9uZXNpYSUyMG11c2ljJTIwZmVzdGl2YWwlMjBjcm93ZHxlbnwwfDB8fHwxNzg0Nzc1MjkzfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Mufid Majnun on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@mufidpwt?utm_source=korea_travel_guide&utm_medium=referral"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Lalala_Napoli_%2828351605671%29.jpg/1920px-Lalala_Napoli_%2828351605671%29.jpg"
+  credit: "Photo: Nicolas Buffler from Guilherand Granges, France / Wikimedia Commons (CC BY 2.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Lalala_Napoli_(28351605671).jpg"
 gallery: []
 tags:
   - jakarta

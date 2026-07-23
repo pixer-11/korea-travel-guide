@@ -8,10 +8,10 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-09-12'
 eventEndDate: '2026-09-12'
 heroImage:
-  url: "https://images.unsplash.com/photo-1566477712363-3c75dd39b416?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8S3VhbGElMjBMdW1wdXIlMjBNYWxheXNpYSUyMGNvbmNlcnQlMjBzdGFnZSUyMGxpdmUlMjBtdXNpY3xlbnwwfDB8fHwxNzg0Nzc1Mjk5fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Chris Tan on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@jihaotannn?utm_source=korea_travel_guide&utm_medium=referral"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Aaron_Sankt_Hans_Odense.jpg/1920px-Aaron_Sankt_Hans_Odense.jpg"
+  credit: "Photo: Jebulon / Wikimedia Commons (CC0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Aaron_Sankt_Hans_Odense.jpg"
 gallery: []
 tags:
   - kuala lumpur

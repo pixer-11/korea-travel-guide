@@ -8,10 +8,10 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-08-21'
 eventEndDate: '2026-08-23'
 heroImage:
-  url: "https://images.unsplash.com/photo-1512671584073-0ed5878c5679?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8R295YW5nJTIwU291dGglMjBLb3JlYSUyMGNvbmNlcnQlMjBzdGFnZSUyMGxpdmUlMjBtdXNpY3xlbnwwfDB8fHwxNzg0Nzc1MjY1fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Jisu Han on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@makeitcount?utm_source=korea_travel_guide&utm_medium=referral"
+  url: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Bigbang.jpg"
+  credit: "Photo: Torstein Frogner / Wikimedia Commons (CC BY-SA 2.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Bigbang.jpg"
 gallery: []
 tags:
   - goyang
