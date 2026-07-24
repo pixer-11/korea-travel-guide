@@ -6,10 +6,10 @@ region: Ho Chi Minh City
 category: restaurant
 pubDate: '2026-07-23'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/B%C3%A1nh_tr%C3%A1ng_n%C6%B0%E1%BB%9Bng_TP._H%E1%BB%93_Ch%C3%AD_Minh_-_street_food_in_Ho_Chi_Minh_City%2C_Vietnam.jpg/1920px-B%C3%A1nh_tr%C3%A1ng_n%C6%B0%E1%BB%9Bng_TP._H%E1%BB%93_Ch%C3%AD_Minh_-_street_food_in_Ho_Chi_Minh_City%2C_Vietnam.jpg"
-  credit: "Photo: Light Write / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:B%C3%A1nh_tr%C3%A1ng_n%C6%B0%E1%BB%9Bng_TP._H%E1%BB%93_Ch%C3%AD_Minh_-_street_food_in_Ho_Chi_Minh_City,_Vietnam.jpg"
+  url: "https://images.unsplash.com/photo-1497564263966-15960bd933bf?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SG8lMjBDaGklMjBNaW5oJTIwQ2l0eSUyMFZpZXRuYW0lMjBjYWZlJTIwYm9va3Nob3B8ZW58MHwwfHx8MTc4NDkwNjU4MXww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
+  credit: "Photo by Hiep Nguyen on Unsplash"
+  license: "unsplash"
+  source: "https://unsplash.com/@hiepng?utm_source=korea_travel_guide&utm_medium=referral"
 gallery: []
 tags:
   - ho chi minh city

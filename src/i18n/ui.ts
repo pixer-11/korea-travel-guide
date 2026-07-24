@@ -81,6 +81,7 @@ export const ui = {
     'post.exploreMaps': 'Explore on Google Maps',
     'post.published': 'Published',
     'post.updated': 'Updated',
+    'post.moreTips': 'More {region} travel tips?',
 
     'cat.attraction': 'attraction',
     'cat.restaurant': 'restaurant',
@@ -285,6 +286,7 @@ export const ui = {
     'post.exploreMaps': '구글 지도에서 찾아보기',
     'post.published': '발행',
     'post.updated': '수정',
+    'post.moreTips': '{region} 여행 팁이 더 필요하신가요?',
 
     'cat.attraction': '명소',
     'cat.restaurant': '맛집',
@@ -489,6 +491,7 @@ export const ui = {
     'post.exploreMaps': 'Googleマップで探す',
     'post.published': '公開',
     'post.updated': '更新',
+    'post.moreTips': '{region}の旅行のヒントをもっと？',
 
     'cat.attraction': '観光スポット',
     'cat.restaurant': 'レストラン',
@@ -693,6 +696,7 @@ export const ui = {
     'post.exploreMaps': 'Explorar en Google Maps',
     'post.published': 'Publicado',
     'post.updated': 'Actualizado',
+    'post.moreTips': '¿Más consejos de viaje sobre {region}?',
 
     'cat.attraction': 'atracción',
     'cat.restaurant': 'restaurante',
@@ -897,6 +901,7 @@ export const ui = {
     'post.exploreMaps': '在谷歌地图中探索',
     'post.published': '发布',
     'post.updated': '更新',
+    'post.moreTips': '想要更多{region}旅行贴士？',
 
     'cat.attraction': '景点',
     'cat.restaurant': '餐厅',

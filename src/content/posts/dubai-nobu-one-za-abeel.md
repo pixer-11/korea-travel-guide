@@ -6,10 +6,10 @@ region: Dubai
 category: restaurant
 pubDate: '2026-07-23'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Panorama_of_Dubai_from_Jumeriah_1.jpg/1920px-Panorama_of_Dubai_from_Jumeriah_1.jpg"
-  credit: "Photo: iMahesh / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Panorama_of_Dubai_from_Jumeriah_1.jpg"
+  url: "https://images.unsplash.com/photo-1726109072699-44852d8fce74?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8RHViYWklMjBVbml0ZWQlMjBBcmFiJTIwRW1pcmF0ZXMlMjByZXN0YXVyYW50JTIwZm9vZCUyMGRpbmluZ3xlbnwwfDB8fHwxNzg0OTA2NDYyfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
+  credit: "Photo by Kate Trysh on Unsplash"
+  license: "unsplash"
+  source: "https://unsplash.com/@katetrysh?utm_source=korea_travel_guide&utm_medium=referral"
 gallery: []
 tags:
   - dubai

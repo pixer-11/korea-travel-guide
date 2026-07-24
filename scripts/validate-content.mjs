@@ -7,6 +7,7 @@
 import { readdir, readFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import yaml from 'js-yaml';
 import { unsplashNum } from './lib/images.mjs';
 
 const DIR = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
@@ -29,11 +30,22 @@ const files = (await readdir(DIR)).filter((f) => f.endsWith('.md'));
 const posts = [];
 for (const f of files) {
   const t = await readFile(join(DIR, f), 'utf8');
-  const fm = t.slice(0, t.indexOf('\n---', 3));
-  const g = (k) => (fm.match(new RegExp(`^${k}:\\s*(.+)$`, 'm'))?.[1] || '').trim().replace(/^["']|["']$/g, '');
-  const url = ((fm.split(/^heroImage:/m)[1] || '').match(/^\s+url:\s*"?([^"\n]+?)"?\s*$/m)?.[1] || '').trim();
-  const placeId = (fm.match(/\n {2}id:\s*"?([^"\n]+?)"?\s*$/m)?.[1] || '').trim();
-  posts.push({ f, region: g('region'), category: g('category'), title: g('title'), url, placeId });
+  // Parse the YAML frontmatter properly — a regex can't read a `credit: >-` folded
+  // scalar or a quoted URL reliably, which produced empty urls → a phantom
+  // "DUPLICATE image ×N" (all the empties collapsing to one key).
+  let fm;
+  try { fm = yaml.load(t.slice(4, t.indexOf('\n---', 3))); } catch { continue; }
+  if (!fm) continue;
+  posts.push({
+    f,
+    region: fm.region || '',
+    category: fm.category || '',
+    title: fm.title || '',
+    url: (fm.heroImage && fm.heroImage.url) || '',
+    credit: (fm.heroImage && fm.heroImage.credit) || '',
+    license: (fm.heroImage && fm.heroImage.license) || '',
+    placeId: (fm.place && fm.place.id) || '',
+  });
 }
 
 const issues = [];
@@ -66,6 +78,21 @@ for (const p of posts) {
     const [head, ...rest] = p.title.split(': ');
     const tail = rest.join(': ');
     if (reg.test(head) && reg.test(tail)) issues.push(`CITY echoed in name + suffix ("${p.region}"): ${p.f}`);
+  }
+}
+// Obvious hero-image MISMATCHES: a keyword-collision Wikimedia file whose subject
+// is clearly unrelated to a venue. These are exactly the failures the 2026-07-24
+// image audit found (a restaurant showing a moth specimen / a dune-bashing car /
+// US-Navy admirals / a British-Museum statue / an antique print / a foreign
+// geograph shot). Flag every Wikimedia hero that hits the off-topic blocklist so
+// a new post with one gets caught at publish time instead of living on the site.
+const OFFTOPIC = /_MHNT|\bAmbulyx\b|\bTheretra\b|Sphingidae|Lepidoptera|Dune_bashing|\bambulance\b|U\.?S\.?_?Navy|Vice[_-]?Admiral|_admiral|Orphanage|cosplay|SMASH_20|British_Museum|_inscription|inscription_from|Google_Art_Project|geograph\.org\.uk|Oxomoco|Ketchikan|_Glencoe/i;
+for (const p of posts) {
+  if (!p.url || p.license !== 'wikimedia') continue;
+  const hay = decodeURIComponent(p.url) + ' ' + p.credit;
+  if (OFFTOPIC.test(hay)) {
+    const fileName = (decodeURIComponent(p.url).split('/').pop() || '').replace(/\.(jpg|jpeg|png|svg).*$/i, '').slice(0, 48);
+    issues.push(`IMAGE MISMATCH suspect [${p.category}] "${p.region}" — off-topic hero (${fileName}): ${p.f}`);
   }
 }
 dupBy((p) => (p.url && !p.url.includes('placeholder') ? unsplashNum(p.url) || p.url : ''), 'DUPLICATE image');
