@@ -1,14 +1,16 @@
 ---
-import { getLangFromUrl, useTranslations, languages, type Lang } from '../i18n/utils';
+import { getLangFromUrl, useTranslations, languages, localizePath, type Lang } from '../i18n/utils';
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
-// Interim: each option links to that locale's homepage. Homepages exist for
-// every locale so this never 404s. Once all page types are localized this can
-// become path-preserving (localizePath of the current path).
+interface Props { availableLangs?: Lang[] }
+// Path-preserving: if this exact page exists in the target language, switch to
+// its translated URL; otherwise send the reader to that language's homepage
+// (which always exists) so we never link to a 404.
+const { availableLangs = ['en'] } = Astro.props;
 const items = (Object.keys(languages) as Lang[]).map((l) => ({
   code: l,
   name: languages[l],
-  href: l === 'en' ? '/' : `/${l}/`,
+  href: availableLangs.includes(l) ? localizePath(Astro.url.pathname, l) : (l === 'en' ? '/' : `/${l}/`),
   active: l === lang,
 }));
 ---

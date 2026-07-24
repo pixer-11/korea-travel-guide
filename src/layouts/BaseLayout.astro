@@ -17,14 +17,22 @@ interface Props {
   // Set on pages that have a translated version at every locale, so we emit
   // hreflang alternates. Leave false for English-only pages.
   localized?: boolean;
+  // The locales this exact page actually exists in (for the language switcher's
+  // path-preserving links). Defaults from `localized`: all 5 when true, English
+  // only when false. A post passes just the languages it's been translated into,
+  // so the switcher never offers a link to a page that would 404.
+  localizedLangs?: Lang[];
   // Set on low-value pages (e.g. a one-off event that has already ended) to keep
   // the URL live but out of the index — avoids thin/outdated pages dragging the
   // young domain's overall quality. Recurring events stay indexed.
   noindex?: boolean;
 }
 
-const { title, description, image, article = false, jsonLd, localized = false, noindex = false } = Astro.props;
+const { title, description, image, article = false, jsonLd, localized = false, localizedLangs, noindex = false } = Astro.props;
 const lang = getLangFromUrl(Astro.url);
+// Which locales the language switcher may link to WITHOUT preserving the path
+// (falls back to that locale's homepage for the rest, which always exists).
+const availableLangs: Lang[] = localizedLangs ?? (localized ? ['en', 'ko', 'ja', 'es', 'zh'] : ['en']);
 const htmlLang = localeCodes[lang];
 const canonical = new URL(Astro.url.pathname, Astro.site);
 // hreflang alternates (localized pages only). x-default points to English.
@@ -163,7 +171,7 @@ const orgLd = {
     </script>
   </head>
   <body>
-    <Header />
+    <Header availableLangs={availableLangs} />
     <main>
       <slot />
     </main>

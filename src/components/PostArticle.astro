@@ -139,6 +139,15 @@ const sameLangTitles =
 const postHref = (id: string) => (sameLangTitles.has(id) ? `/${lang}/posts/${id}/` : `/posts/${id}/`);
 const postTitle = (r: any) => sameLangTitles.get(r.id) ?? r.data.title;
 
+// Which languages THIS post exists in — English always, plus each language it's
+// been translated into — so the switcher only offers real, non-404 links.
+const translatedLangs = new Set(
+  (await getCollection('postI18n', ({ data }) => data.slug === post.id)).map((e) => e.data.lang)
+);
+const availableLangs = (['en', 'ko', 'ja', 'es', 'zh'] as const).filter(
+  (l) => l === 'en' || translatedLangs.has(l)
+);
+
 const relatedIds = new Set(related.map((r) => r.id));
 const nearby = (await getCollection('posts', ({ data }) => !data.draft))
   .filter((r) => r.id !== post.id && r.data.region === d.region && !relatedIds.has(r.id))
@@ -254,6 +263,7 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
   article={true}
   jsonLd={jsonLd}
   noindex={noindexPost}
+  localizedLangs={availableLangs}
 >
   <article class="article wrap">
     <nav class="crumbs" aria-label="Breadcrumb">

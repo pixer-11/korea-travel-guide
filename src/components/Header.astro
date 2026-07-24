@@ -4,9 +4,11 @@ import Logo from './Logo.astro';
 import Flag from './Flag.astro';
 import LanguageSwitcher from './LanguageSwitcher.astro';
 import { SITE } from '../siteConfig';
-import { getLangFromUrl, useTranslations } from '../i18n/utils';
+import { getLangFromUrl, useTranslations, type Lang } from '../i18n/utils';
 import countriesData from '../../data/countries.json';
 
+interface Props { availableLangs?: Lang[] }
+const { availableLangs } = Astro.props;
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
 
@@ -50,7 +52,7 @@ const navGroups = CONT_ORDER
       <a href="/events">{t('nav.events')}</a>
       <a href="/flights">{t('nav.flights')}</a>
       <a href="/about">{t('nav.about')}</a>
-      <LanguageSwitcher />
+      <LanguageSwitcher availableLangs={availableLangs} />
     </nav>
   </div>
 </header>
