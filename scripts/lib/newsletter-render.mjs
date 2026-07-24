@@ -43,7 +43,7 @@ export function renderSingleRegion({ edition, region, lang, links }) {
 <table role="presentation" width="600" cellpadding="0" cellspacing="0" style="width:600px;max-width:100%;background:${P.paper};border-radius:4px;overflow:hidden;">
   <tr><td style="background:${P.ink};text-align:center;padding:15px;">
     <div style="font-family:Helvetica,Arial,sans-serif;letter-spacing:.28em;text-transform:uppercase;font-size:12px;font-weight:700;color:#e9dfce;">Wander Atlas</div>
-    <div style="font-family:Helvetica,Arial,sans-serif;letter-spacing:.16em;text-transform:uppercase;font-size:8px;color:${P.gold};margin-top:5px;">The Weekly Edit · ${esc(region)}</div>
+    <div style="font-family:Helvetica,Arial,sans-serif;letter-spacing:.16em;text-transform:uppercase;font-size:8px;color:${P.gold};margin-top:5px;">${esc(c.weeklyEdit)} · ${esc(region)}</div>
   </td></tr>
   <tr><td><img src="${img(edition.hero.image)}" width="600" alt="${esc(region)}" style="width:100%;height:auto;display:block;" /></td></tr>
   <tr><td style="padding:26px 40px 4px;">
