@@ -1,0 +1,437 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Newsletter from './Newsletter.astro';
+import Hotels from './Hotels.astro';
+import Tours from './Tours.astro';
+import PlanTrip from './PlanTrip.astro';
+import StickyBook from './StickyBook.astro';
+import Emoji from './Emoji.astro';
+import { isEventPast } from '../lib/eventStatus';
+import { slugifyRegion } from '../lib/slug';
+
+// Shared article view for BOTH the English page (/posts/…) and the localized
+// pages (/ko/posts/… etc). One template, so a fix can never land on only one of
+// them. `translation` is a postI18n entry: it supplies PROSE only — every hard
+// fact (place, rating, address, hours, images, dates, schema) still comes from
+// the English source post, so a translation can't contradict verified data.
+interface Props {
+  post: any;
+  translation?: any;
+}
+const { post, translation } = Astro.props;
+const { Content } = await render(translation ?? post);
+const d = post.data;
+const tr = translation?.data;
+const title = tr?.title ?? title;
+const description = tr?.description ?? description;
+const quickAnswer = tr?.quickAnswer ?? quickAnswer;
+const faq = (tr?.faq?.length ? tr.faq : faq) ?? [];
+const p = d.place;
+
+// Country-aware values (this was a Korea-only template — everything below must
+// derive from the post's country, not hardcode "Korea"/"KR"/"South Korea").
+const country = d.country ?? 'South Korea';
+const countrySlug = country.toLowerCase().replace(/\s+/g, '-');
+// City-states (Singapore, Hong Kong) set region === country, which would render
+// a duplicated "Singapore / Singapore" breadcrumb — collapse it to one crumb.
+const sameRegionCountry = d.region.toLowerCase() === country.toLowerCase();
+const COUNTRY_ISO: Record<string, string> = {
+  'South Korea': 'KR', Japan: 'JP', 'United States': 'US', Thailand: 'TH',
+  France: 'FR', Italy: 'IT', China: 'CN', Spain: 'ES', Vietnam: 'VN',
+  'United Arab Emirates': 'AE', Taiwan: 'TW', Indonesia: 'ID', Malaysia: 'MY',
+  India: 'IN', Philippines: 'PH', Turkey: 'TR', Singapore: 'SG',
+};
+const countryISO = COUNTRY_ISO[country];
+
+// Peak-intent affiliate links for the top "Book this trip" band (city-specific,
+// correct attribution, work regardless of flight/hotel program approval).
+const klookTop = `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7Cpid%7C754088&k_site=${encodeURIComponent(`https://www.klook.com/en-US/search/?query=${d.region}`)}`;
+const hotelTop = `https://search.hotellook.com/?marker=754088&destination=${encodeURIComponent(d.region)}`;
+// Place-specific "get tickets" link for the fact box — only for ticketable
+// categories, keyed to the venue name itself.
+const ticketable = ['attraction', 'trendy', 'hidden-gem'].includes(d.category);
+const klookPlace = p?.name
+  ? `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7Cpid%7C754088&k_site=${encodeURIComponent(`https://www.klook.com/en-US/search/?query=${p.name}`)}`
+  : klookTop;
+
+// Currency-neutral relative price scale (like Google Maps' $–$$$$ worldwide).
+// Was Korean ₩ hardcoded — wrong on every non-Korea venue (e.g. a Tokyo café).
+const priceLabels = ['Free', '$', '$$', '$$$', '$$$$'];
+const stars = p?.rating ? '★'.repeat(Math.round(p.rating)) + '☆'.repeat(5 - Math.round(p.rating)) : null;
+const updated = d.updatedDate ?? d.pubDate;
+
+// Strip non-Latin scripts from the Google Places name (e.g. Arabic
+// "مطعم الركن اليمني Yemeni Corner" → "Yemeni Corner"), same rule as titles, so
+// the fact box, schema, hero alt, Klook query and related links all stay clean.
+// Falls back to the original if nothing Latin remains.
+const cleanName = (s) => {
+  const t = (s || '')
+    .replace(/[؀-ۿ一-鿿가-힣฀-๿Ѐ-ӿ぀-ヿ]/g, '')
+    .replace(/\s{2,}/g, ' ')
+    .replace(/^[\s\-–—,·|]+|[\s\-–—,·|]+$/g, '')
+    .trim();
+  return t || (s || '');
+};
+const placeName = cleanName(p?.name);
+
+// Real foot-traffic (BestTime.app): turn stored 24h hour arrays into reader-
+// friendly ranges, e.g. [8,9,10] → "8–11 AM". Honest data only — see besttime.mjs.
+function fmtHourRanges(hours) {
+  const xs = [...new Set(hours ?? [])].filter((h) => Number.isInteger(h)).sort((a, b) => a - b);
+  if (!xs.length) return null;
+  const f = (h) => { const x = ((h % 24) + 24) % 24; return { t: x % 12 === 0 ? 12 : x % 12, m: x < 12 ? 'AM' : 'PM' }; };
+  const runs = []; let s = xs[0], prev = xs[0];
+  for (let i = 1; i < xs.length; i++) { if (xs[i] === prev + 1) { prev = xs[i]; continue; } runs.push([s, prev]); s = xs[i]; prev = xs[i]; }
+  runs.push([s, prev]);
+  return runs.map(([a, b]) => { const x = f(a), y = f(b + 1); return x.m === y.m ? `${x.t}–${y.t} ${y.m}` : `${x.t} ${x.m}–${y.t} ${y.m}`; }).join(', ');
+}
+const bz = p?.busyness;
+const quietWd = fmtHourRanges(bz?.weekdayQuiet), quietWe = fmtHourRanges(bz?.weekendQuiet);
+const busyWd = fmtHourRanges(bz?.weekdayBusy), busyWe = fmtHourRanges(bz?.weekendBusy);
+const hasBusyness = !!(quietWd || quietWe || busyWd || busyWe);
+
+// Map our category to a schema.org place type (helps travel AI results).
+const placeType =
+  d.category === 'restaurant'
+    ? 'Restaurant'
+    : d.category === 'attraction' || d.category === 'trendy'
+    ? 'TouristAttraction'
+    : 'LocalBusiness';
+
+const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
+const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
+
+// Related guides for internal linking (session depth + crawl equity). Score by
+// same region (strong) then same category; stable tie-break so builds don't churn.
+const related = (await getCollection('posts', ({ data }) => !data.draft))
+  .filter((r) => r.id !== post.id)
+  .map((r) => ({
+    r,
+    score: (r.data.region === d.region ? 2 : 0) + (r.data.category === d.category ? 1 : 0),
+  }))
+  .filter((x) => x.score > 0)
+  .sort((a, b) => b.score - a.score || (b.r.data.pubDate > a.r.data.pubDate ? 1 : -1))
+  .slice(0, 4)
+  .map((x) => x.r);
+
+// More same-city guides beyond the 4 "Related" — strengthens the city cluster with
+// contextual internal links (the site otherwise has almost no in-body post→post links).
+const relatedIds = new Set(related.map((r) => r.id));
+const nearby = (await getCollection('posts', ({ data }) => !data.draft))
+  .filter((r) => r.id !== post.id && r.data.region === d.region && !relatedIds.has(r.id))
+  .slice(0, 6);
+
+// A RECURRING event (annual festival, GP, championship, film festival…) keeps
+// its page indexed after it ends AND advertises a yearly cadence in schema, so it
+// can win "when is X <next year>" as the next edition approaches. Defined once
+// here and reused by both the Event schema and the noindex decision below.
+const RECURRING = /annual|festival|championship|grand prix|gran premio|\bopen\b|world cup|olympic|marathon|matsuri|biennale|\bcup\b|rally|expo|comic ?market|comiket|\b\d{1,3}(st|nd|rd|th)\b/i;
+// Match the ENGLISH title on purpose — the recurrence patterns are English.
+const isRecurringEvent = d.category === 'event' && RECURRING.test(post.data.title);
+
+// ---- Structured data graph (Article + Place + FAQ + Breadcrumbs) ----
+const graph: Record<string, unknown>[] = [
+  {
+    '@type': 'Article',
+    headline: title,
+    description: description,
+    datePublished: d.pubDate.toISOString(),
+    dateModified: updated.toISOString(),
+    image: d.heroImage?.url ? { '@type': 'ImageObject', url: new URL(d.heroImage.url, Astro.site).toString() } : undefined,
+    author: { '@id': `${site}/#org` },
+    publisher: { '@id': `${site}/#org` },
+    isPartOf: { '@id': `${site}/#site` },
+    inLanguage: 'en',
+    mainEntityOfPage: pageUrl,
+  },
+  {
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { name: 'Home', item: site + '/' },
+      { name: country, item: `${site}/destinations/${countrySlug}/` },
+      ...(sameRegionCountry ? [] : [{ name: d.region, item: `${site}/regions/${slugifyRegion(d.region)}/` }]),
+      { name: title, item: pageUrl },
+    ].map((c, i) => ({ '@type': 'ListItem', position: i + 1, name: c.name, item: c.item })),
+  },
+];
+
+if (p?.name) {
+  graph.push({
+    '@type': placeType,
+    name: placeName,
+    address: p.address
+      ? { '@type': 'PostalAddress', streetAddress: p.address, ...(countryISO && { addressCountry: countryISO }) }
+      : undefined,
+    geo: p.lat && p.lng ? { '@type': 'GeoCoordinates', latitude: p.lat, longitude: p.lng } : undefined,
+    // NOTE: we deliberately do NOT emit aggregateRating here. The rating is
+    // Google's, not review data we host, so marking it up as our own would
+    // violate Google's review-snippet policy (manual-action risk). We still
+    // SHOW the rating on-page, clearly attributed to Google.
+    priceRange: typeof p.priceLevel === 'number' ? priceLabels[p.priceLevel] : undefined,
+    telephone: p.phone || undefined,
+    hasMap: p.googleMapsUrl,
+  });
+}
+
+if (faq.length) {
+  graph.push({
+    '@type': 'FAQPage',
+    mainEntity: faq.map((f) => ({
+      '@type': 'Question',
+      name: f.q,
+      acceptedAnswer: { '@type': 'Answer', text: f.a },
+    })),
+  });
+}
+
+// Event schema for event posts with a known date — lets Google/AI surface it as a
+// dated event (the whole reason the events hub can win "upcoming …" queries).
+if (d.category === 'event' && d.eventStartDate) {
+  const isoDay = (x) => new Date(x).toISOString().slice(0, 10);
+  graph.push({
+    '@type': 'Event',
+    name: title,
+    startDate: isoDay(d.eventStartDate),
+    ...(d.eventEndDate && { endDate: isoDay(d.eventEndDate) }),
+    eventStatus: 'https://schema.org/EventScheduled',
+    eventAttendanceMode: 'https://schema.org/OfflineEventAttendanceMode',
+    // Recurring events advertise a yearly cadence (byMonth from the start date) so
+    // search engines understand the next edition is expected ~annually.
+    ...(isRecurringEvent && {
+      eventSchedule: {
+        '@type': 'Schedule',
+        repeatFrequency: 'P1Y',
+        byMonth: new Date(d.eventStartDate).getUTCMonth() + 1,
+      },
+    }),
+    location: {
+      '@type': 'Place',
+      name: d.region,
+      address: { '@type': 'PostalAddress', addressLocality: d.region, ...(countryISO && { addressCountry: countryISO }) },
+    },
+    ...(d.heroImage?.url && { image: new URL(d.heroImage.url, Astro.site).toString() }),
+    description: description,
+    organizer: { '@id': `${site}/#org` },
+  });
+}
+
+const jsonLd = { '@context': 'https://schema.org', '@graph': graph };
+
+// Expiry 2-track (SEO): a ONE-OFF past event (single concert/tour stop) → noindex
+// to keep the young domain clean of thin/outdated pages (URL stays live at 200).
+// RECURRING events stay indexed (see isRecurringEvent above) — they win
+// "when is X 2027" as the next edition approaches.
+const noindexPost = isEventPast(d) && !isRecurringEvent;
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  image={d.heroImage?.url}
+  article={true}
+  jsonLd={jsonLd}
+  noindex={noindexPost}
+>
+  <article class="article wrap">
+    <nav class="crumbs" aria-label="Breadcrumb">
+      <a href="/">Home</a> <span>/</span>
+      <a href={`/destinations/${countrySlug}/`}>{country}</a> <span>/</span>
+      {!sameRegionCountry && (
+        <><a href={`/regions/${slugifyRegion(d.region)}/`}>{d.region}</a> <span>/</span></>
+      )}
+      <span aria-current="page">{d.category.replace('-', ' ')}</span>
+    </nav>
+
+    <div class="article-head">
+      <div class="kicker">
+        <span class="badge">{d.category.replace('-', ' ')}</span>
+        <span>{d.region}</span>
+        <span>·</span>
+        <time datetime={updated.toISOString()}>
+          {d.updatedDate ? 'Updated' : 'Published'} {updated.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+        </time>
+      </div>
+      <h1>{title}</h1>
+      <p class="byline">
+        By the <a href="/about">Wander Atlas editorial team</a> · AI-assisted, reviewed against live Google&nbsp;Places and official sources
+      </p>
+    </div>
+
+    {d.heroImage && (
+      <figure class="article-hero">
+        <img src={d.heroImage.url} alt={d.category === 'event' ? title.replace(/:\s*What to Know.*$/i, '') : placeName ? `${placeName} in ${d.region}, ${country}` : `${(d.tags && d.tags[1]) || d.category} in ${d.region}, ${country}`} width="1200" height="675" loading="eager" fetchpriority="high" decoding="async" />
+        {d.heroImage.credit && (
+          <figcaption>
+            {d.heroImage.source?.startsWith('http') ? (
+              <a href={d.heroImage.source} target="_blank" rel="noopener nofollow">{d.heroImage.credit}</a>
+            ) : d.heroImage.credit}
+          </figcaption>
+        )}
+      </figure>
+    )}
+
+    {quickAnswer && (
+      <aside class="quick-answer">
+        <span class="qa-label">Quick answer</span>
+        <p>{quickAnswer}</p>
+      </aside>
+    )}
+
+    {isEventPast(d) ? (
+      <div class="book-cta">
+        <span class="book-cta-label">This event has ended</span>
+        <div class="book-cta-btns">
+          <a class="book-btn book-btn-primary" href="/events"><Emoji name="admission-tickets" /> Upcoming events</a>
+          <a class="book-btn" href="#newsletter"><Emoji name="wrapped-gift" /> Get event updates</a>
+        </div>
+      </div>
+    ) : (
+      <div class="book-cta">
+        <span class="book-cta-label">Planning a trip to {d.region}?</span>
+        <div class="book-cta-btns">
+          <a class="book-btn book-btn-primary" href={klookTop} target="_blank" rel="sponsored noopener"><Emoji name="admission-tickets" /> Things to do</a>
+          <a class="book-btn" href={hotelTop} target="_blank" rel="sponsored noopener"><Emoji name="hotel" /> Find hotels</a>
+        </div>
+      </div>
+    )}
+
+    {p && (p.address || p.rating || p.priceLevel !== undefined) && (
+      <div class="fact-box">
+        <h4>At a glance</h4>
+        <div class="fact-grid">
+          {placeName && <div class="fact"><span class="k">Place</span><span class="v">{placeName}</span></div>}
+          {p.address && <div class="fact"><span class="k">Address</span><span class="v">{p.address}</span></div>}
+          {typeof p.rating === 'number' && (
+            <div class="fact"><span class="k">Rating</span><span class="v"><span class="stars">{stars}</span> {p.rating}
+              {p.userRatingsTotal ? ` (${p.userRatingsTotal.toLocaleString()})` : ''}</span></div>
+          )}
+          {typeof p.priceLevel === 'number' && <div class="fact"><span class="k">Price</span><span class="v">{priceLabels[p.priceLevel]}</span></div>}
+          {p.phone && (
+            <div class="fact"><span class="k">Phone</span><span class="v"><a class="phone-link" href={`tel:${p.phone.replace(/[^+\d]/g, '')}`}>{p.phone}</a></span></div>
+          )}
+        </div>
+        {p.openingHours && p.openingHours.length > 0 && (
+          <details class="hours">
+            <summary><Emoji name="three-oclock" /> Opening hours</summary>
+            <ul>
+              {p.openingHours.map((line) => <li>{line}</li>)}
+            </ul>
+          </details>
+        )}
+        {hasBusyness && (
+          <div class="busyness">
+            <span class="bz-title"><Emoji name="chart-increasing" /> Best time to visit</span>
+            {(quietWd || quietWe) && (
+              <div class="bz-row"><span class="bz-k">Quietest</span><span class="bz-v">
+                {quietWd && <><b>Weekdays</b> {quietWd}</>}{quietWd && quietWe ? ' · ' : ''}{quietWe && <><b>Weekends</b> {quietWe}</>}
+              </span></div>
+            )}
+            {(busyWd || busyWe) && (
+              <div class="bz-row"><span class="bz-k">Busiest</span><span class="bz-v">
+                {busyWd && <><b>Weekdays</b> {busyWd}</>}{busyWd && busyWe ? ' · ' : ''}{busyWe && <><b>Weekends</b> {busyWe}</>}
+              </span></div>
+            )}
+            <p class="bz-credit">Live foot-traffic data via <a href="https://besttime.app" target="_blank" rel="noopener nofollow">BestTime.app</a></p>
+          </div>
+        )}
+        <div class="fact-actions">
+          {ticketable && p.name && (
+            <a class="fact-ticket" href={klookPlace} target="_blank" rel="sponsored noopener"><Emoji name="admission-tickets" /> Tickets &amp; tours for {p.name}</a>
+          )}
+          {p.googleMapsUrl && (
+            <a class="map-link" href={p.googleMapsUrl} target="_blank" rel="noopener"><Emoji name="round-pushpin" /> Open in Google Maps</a>
+          )}
+        </div>
+      </div>
+    )}
+
+    {!(p && p.googleMapsUrl) && d.region && (
+      <p class="map-cta">
+        <a
+          class="map-link"
+          href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
+            [p?.name, (d.tags && d.tags[1]) || d.category, d.region, country]
+              .filter(Boolean)
+              .join(' ')
+          )}`}
+          target="_blank"
+          rel="noopener nofollow"
+        >
+          <Emoji name="round-pushpin" /> Explore on Google Maps
+        </a>
+      </p>
+    )}
+
+    <div class="prose">
+      <Content />
+    </div>
+
+    <Hotels city={d.region} country={d.country ?? 'South Korea'} />
+
+    <PlanTrip city={d.region} country={d.country ?? 'South Korea'} />
+
+    {d.gallery.length > 0 && (
+      <section class="gallery">
+        {d.gallery.map((img) => (
+          <figure>
+            <img src={img.url} alt={placeName ? `${placeName} — ${d.region}, ${country}` : title} loading="lazy" />
+            {img.credit && <figcaption>{img.credit}</figcaption>}
+          </figure>
+        ))}
+      </section>
+    )}
+
+    {faq.length > 0 && (
+      <section class="faq">
+        <h2>Frequently asked questions</h2>
+        {faq.map((f) => (
+          <details>
+            <summary>{f.q}</summary>
+            <p>{f.a}</p>
+          </details>
+        ))}
+      </section>
+    )}
+
+    <Newsletter
+      compact
+      heading={d.category === 'event' ? 'Get alerts for events worth traveling for' : `More ${d.region} travel tips?`}
+      dek={d.category === 'event'
+        ? 'New concerts, festivals, and sports events across our destinations — straight to your inbox.'
+        : `New ${d.region} guides and practical tips, the moment we publish them. Unsubscribe anytime.`}
+    />
+
+    {related.length > 0 && (
+      <section class="related">
+        <h2>Related guides</h2>
+        <ul>
+          {related.map((r) => (
+            <li>
+              <a href={`/posts/${r.id}`}>{r.data.title}</a>
+              <span class="rel-region">{r.data.region}</span>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    {nearby.length > 0 && (
+      <p class="nearby-links">
+        More {d.region} guides:{' '}
+        {nearby.map((r, i) => (
+          <>{i > 0 && <span aria-hidden="true"> · </span>}<a href={`/posts/${r.id}`}>{r.data.place?.name ?? r.data.title}</a></>
+        ))}
+      </p>
+    )}
+
+    <p class="disclosure">
+      This guide was produced with AI assistance and reviewed against live data
+      sources. Facts such as hours, ratings, and location come from Google Places;
+      images are licensed or public domain. Details can change — please verify
+      before visiting. See our <a href="/about">editorial policy</a>.
+    </p>
+  </article>
+
+  <StickyBook city={d.region} place={p?.name} />
+</BaseLayout>

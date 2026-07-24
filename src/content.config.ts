@@ -105,7 +105,13 @@ const essentials = defineCollection({
 // the original English post at render time, so a translation can never drift from
 // or contradict the verified Places data. Written by scripts/translate-posts.mjs.
 const postI18n = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: './src/content/i18n' }),
+  // generateId keeps the language folder in the id ("ko/seoul-…"), otherwise every
+  // language's copy of a post collapses to the same id and they overwrite each other.
+  loader: glob({
+    pattern: '**/*.md',
+    base: './src/content/i18n',
+    generateId: ({ entry }) => entry.replace(/\.md$/, ''),
+  }),
   schema: z.object({
     lang: z.enum(['ko', 'ja', 'es', 'zh']),
     slug: z.string(), // id of the source post in the `posts` collection

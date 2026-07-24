@@ -1,0 +1,28 @@
+---
+import { getCollection } from 'astro:content';
+import PostArticle from '../../../components/PostArticle.astro';
+
+// Localized post pages: /ko/posts/<slug>, /ja/…, /es/…, /zh/…
+// One page per EXISTING translation, so a language only gets a URL once its
+// translation file exists (no half-English pages while a batch is still running).
+// Facts come from the English source post — see PostArticle.
+export async function getStaticPaths() {
+  const posts = await getCollection('posts', ({ data }) => !data.draft);
+  const byId = new Map(posts.map((p) => [p.id, p]));
+  const translations = await getCollection('postI18n');
+  const paths = [];
+  for (const tr of translations) {
+    const post = byId.get(tr.data.slug);
+    if (!post) continue; // source post was removed/renamed — skip the orphan
+    paths.push({
+      params: { lang: tr.data.lang, slug: post.id },
+      props: { post, translation: tr },
+    });
+  }
+  return paths;
+}
+
+const { post, translation } = Astro.props;
+---
+
+<PostArticle post={post} translation={translation} />
