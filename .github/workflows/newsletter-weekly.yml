@@ -18,6 +18,7 @@ jobs:
         with: { fetch-depth: 0 }
       - uses: actions/setup-node@v4
         with: { node-version: '20' }
+      - run: npm ci   # the sender reads posts via gray-matter (a dependency)
       - name: Send (or dry-run)
         run: |
           if [ "${{ github.event.inputs.live }}" = "true" ]; then
