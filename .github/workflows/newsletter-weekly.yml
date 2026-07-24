@@ -29,7 +29,11 @@ jobs:
           MAILERLITE_API_TOKEN: ${{ secrets.MAILERLITE_API_TOKEN }}
           NEWSLETTER_FROM_EMAIL: ${{ secrets.NEWSLETTER_FROM_EMAIL }}
           NEWSLETTER_FROM_NAME: Wander Atlas
+      # PII guard: the subscriber CSV backup ships emails to Telegram, so it runs
+      # ONLY on an intentional owner-triggered live send — never on the automatic
+      # dry-run schedule. This keeps subscriber PII off any unattended pathway.
       - name: Weekly subscriber backup
+        if: github.event.inputs.live == 'true'
         run: node scripts/newsletter-backup.mjs
         env:
           MAILERLITE_API_TOKEN: ${{ secrets.MAILERLITE_API_TOKEN }}
