@@ -1,0 +1,59 @@
+---
+import { render } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
+import { localizePlace } from '../i18n/places';
+
+// Shared per-country essentials page for /essentials/<country> (en) +
+// /[lang]/essentials/<country>. Renders the translated body when a translation
+// exists, else the English source. Hard facts (lastReviewed, official links) come
+// from the English source's frontmatter/body.
+interface Props { entry: any; translation: any; lang: Lang }
+const { entry, translation, lang } = Astro.props;
+const t = useTranslations(lang);
+const d = entry.data;
+const countryLabel = localizePlace(d.country, lang);
+const title = translation?.data.title ?? d.title;
+const description = translation?.data.description ?? d.description;
+const { Content } = await render(translation ?? entry);
+const reviewed = d.lastReviewed.toLocaleDateString(localeCodes[lang], { year: 'numeric', month: 'long', day: 'numeric' });
+
+const policyLink = `<a href="${localizePath('/about', lang)}">${t('footer.editorialPolicy')}</a>`;
+const reviewedNote = t('ess.reviewedNote').replace('{date}', reviewed).replace('{policy}', policyLink);
+
+const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
+const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'WebPage', name: title, description, url: pageUrl, dateModified: d.lastReviewed.toISOString(), isPartOf: { '@id': `${site}/#site` } },
+    { '@type': 'BreadcrumbList', itemListElement: [
+      { '@type': 'ListItem', position: 1, name: t('post.home'), item: new URL(localizePath('/', lang), Astro.site).toString() },
+      { '@type': 'ListItem', position: 2, name: countryLabel, item: new URL(localizePath(`/destinations/${entry.id}`, lang), Astro.site).toString() },
+      { '@type': 'ListItem', position: 3, name: t('ess.label'), item: pageUrl },
+    ] },
+  ],
+};
+---
+
+<BaseLayout title={title} description={description} jsonLd={jsonLd} localized={true}>
+  <div class="page-hero">
+    <div class="wrap">
+      <p class="eyebrow">{t('ess.label')} · {countryLabel}</p>
+      <h1>{t('ess.knowBeforeYouGo').replace('{country}', countryLabel)}</h1>
+      <p>{t('ess.countryDek')}</p>
+    </div>
+  </div>
+
+  <article class="article wrap">
+    <blockquote>
+      {t('ess.disclaimer')} <strong>{t('ess.lastReviewedLabel').replace('{date}', reviewed)}</strong>
+    </blockquote>
+
+    <div class="prose">
+      <Content />
+    </div>
+
+    <p class="disclosure" set:html={reviewedNote}></p>
+  </article>
+</BaseLayout>

@@ -6,9 +6,13 @@
 import { getCollection } from 'astro:content';
 import Flag from './Flag.astro';
 import countriesData from '../../data/countries.json';
+import { getLangFromUrl, localizePath, useTranslations, type Lang } from '../i18n/utils';
+import { localizePlace } from '../i18n/places';
 
-interface Props { heading?: string }
-const { heading = 'Choose your destination' } = Astro.props;
+interface Props { heading?: string; lang?: Lang }
+const { heading, lang: langProp } = Astro.props;
+const lang = langProp ?? getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
 
 const isoBySlug = new Map(countriesData.countries.map((c) => [c.slug, c.iso2]));
 const items = (await getCollection('essentials', ({ data }) => !data.draft))
@@ -18,12 +22,12 @@ const items = (await getCollection('essentials', ({ data }) => !data.draft))
 
 {items.length > 0 && (
   <section class="ess-index">
-    <h2>{heading}</h2>
+    <h2>{heading ?? t('ess.chooseDestination')}</h2>
     <div class="ess-index-grid">
       {items.map((c) => (
-        <a class="ess-index-link" href={`/essentials/${c.slug}`}>
+        <a class="ess-index-link" href={localizePath(`/essentials/${c.slug}`, lang)}>
           {c.iso && <Flag code={c.iso} size="1.2em" class="flag-ico" />}
-          <span>{c.name}</span>
+          <span>{localizePlace(c.name, lang)}</span>
         </a>
       ))}
     </div>

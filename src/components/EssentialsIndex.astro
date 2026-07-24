@@ -1,0 +1,62 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Emoji from './Emoji.astro';
+import EssentialsCountryIndex from './EssentialsCountryIndex.astro';
+import { useTranslations, localizePath, type Lang } from '../i18n/utils';
+
+// Shared /essentials index for en + /[lang]/essentials.
+interface Props { lang: Lang }
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+
+const topics = [
+  { href: '/essentials/visa', icon: 'passport-control', h: 'ess.visa', p: 'ess.visaDek' },
+  { href: '/essentials/transport', icon: 'metro', h: 'ess.transport', p: 'ess.transportDek' },
+  { href: '/essentials/money', icon: 'credit-card', h: 'ess.money', p: 'ess.moneyDek' },
+  { href: '/essentials/best-time-to-visit', icon: 'cherry-blossom', h: 'ess.bestTime', p: 'ess.bestTimeDek' },
+  { href: '/essentials/emergency', icon: 'police-car-light', h: 'ess.emergency', p: 'ess.emergencyDek' },
+] as const;
+
+const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
+const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'CollectionPage', name: t('home.travelEssentials'), description: t('ess.indexDek'), url: pageUrl, isPartOf: { '@id': `${site}/#site` } },
+    { '@type': 'BreadcrumbList', itemListElement: [
+      { '@type': 'ListItem', position: 1, name: t('post.home'), item: new URL(localizePath('/', lang), Astro.site).toString() },
+      { '@type': 'ListItem', position: 2, name: t('home.travelEssentials'), item: pageUrl },
+    ] },
+  ],
+};
+---
+
+<BaseLayout
+  title={`${t('home.travelEssentials')} — ${t('ess.visa')}, ${t('ess.transport')}, ${t('ess.money')}`}
+  description={t('ess.indexDek')}
+  jsonLd={jsonLd}
+  localized={true}
+>
+  <div class="page-hero">
+    <div class="wrap">
+      <p class="eyebrow">{t('ess.label')}</p>
+      <h1>{t('home.travelEssentials')}</h1>
+      <p>{t('ess.indexDek')}</p>
+    </div>
+  </div>
+
+  <section class="section">
+    <div class="wrap">
+      <div class="essentials-strip">
+        {topics.map((topic) => (
+          <a class="essential-card" href={localizePath(topic.href, lang)}>
+            <span class="ico"><Emoji name={topic.icon} /></span>
+            <div><h3>{t(topic.h)}</h3><p>{t(topic.p)}</p></div>
+          </a>
+        ))}
+      </div>
+
+      <EssentialsCountryIndex heading={t('ess.byCountry')} lang={lang} />
+    </div>
+  </section>
+</BaseLayout>

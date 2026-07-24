@@ -44,6 +44,7 @@ export const ui = {
     'home.newsletterDek': 'New destinations, insider itineraries, and the practical stuff that saves your trip. No spam — unsubscribe anytime.',
     'home.subscribe': 'Subscribe',
     'home.newsletterBonus': 'Subscribe and get our free printable trip-planning checklist.',
+    'home.spotlightDesc': "A featured destination — {n} in-depth guides and counting. Joseon palaces and neon night markets, temple stays and trendy cafés, mountains, beaches, and some of the best food on earth, all wrapped in a country that's astonishingly easy to get around.",
 
     'trust.reviewedTitle': 'Editor-reviewed',
     'trust.reviewedText': 'AI-assisted, human-standards. We disclose how every guide is made.',
@@ -196,6 +197,23 @@ export const ui = {
     'roundup.best-restaurants': 'Restaurants',
     'roundup.cafes': 'Cafés',
     'roundup.hidden-gems': 'Hidden Gems',
+
+    'ess.label': 'Essentials',
+    'ess.knowBeforeYouGo': 'Know before you go: {country}',
+    'ess.countryDek': 'Visa & entry, getting around, money, best time, and emergencies — with official sources.',
+    'ess.disclaimer': 'This is a plain-English summary, not legal or medical advice. Entry and visa rules change — always confirm on the official sources linked below before you book or fly.',
+    'ess.lastReviewedLabel': 'Last reviewed: {date}.',
+    'ess.reviewedNote': 'AI-assisted and web-researched, reviewed against official sources on {date}. Rules and prices change — verify on the official links above. See our {policy}.',
+    'ess.indexDek': 'The practical know-before-you-go — pick a topic, or jump to your destination.',
+    'ess.byCountry': 'Essentials by country',
+    'ess.chooseDestination': 'Choose your destination',
+    'ess.entryByCountry': 'Entry requirements by country',
+
+    'static.lastUpdated': 'Last updated: {date}',
+    'contact.eyebrow': 'Contact',
+    'contact.h1': 'Get in touch',
+    'flights.eyebrow': 'Flights',
+    'footer.checklist': 'Free checklist',
   },
 
   ko: {
@@ -230,6 +248,7 @@ export const ui = {
     'home.newsletterDek': '새로운 여행지, 현지인처럼 다니는 코스, 여행을 살리는 실용 정보까지. 스팸은 없고, 구독 취소는 언제든 가능합니다.',
     'home.subscribe': '구독하기',
     'home.newsletterBonus': '구독하시면 인쇄해서 쓰는 여행 준비 체크리스트를 무료로 드려요.',
+    'home.spotlightDesc': '추천 여행지 — 심층 가이드 {n}편, 그리고 계속 늘어나는 중. 조선의 궁궐과 네온사인 야시장, 템플스테이와 트렌디한 카페, 산과 바다, 그리고 지구상 최고의 음식까지 — 놀랍도록 다니기 편한 나라에 모두 담겨 있습니다.',
 
     'trust.reviewedTitle': '에디터 검수',
     'trust.reviewedText': 'AI가 쓰고 사람이 검수합니다. 모든 가이드의 제작 과정을 투명하게 공개합니다.',
@@ -382,6 +401,23 @@ export const ui = {
     'roundup.best-restaurants': '맛집',
     'roundup.cafes': '카페',
     'roundup.hidden-gems': '숨은 명소',
+
+    'ess.label': '필수 정보',
+    'ess.knowBeforeYouGo': '{country} 떠나기 전에 알아두기',
+    'ess.countryDek': '비자·입국, 교통, 돈, 가기 좋은 시기, 응급 상황까지 — 공식 출처와 함께.',
+    'ess.disclaimer': '이 글은 알기 쉽게 정리한 요약이며, 법률이나 의료 자문이 아닙니다. 입국·비자 규정은 수시로 바뀌므로 예약하거나 출발하기 전에 아래 링크된 공식 출처에서 반드시 확인하세요.',
+    'ess.lastReviewedLabel': '최종 확인: {date}.',
+    'ess.reviewedNote': 'AI의 도움을 받아 웹 조사를 거쳐 작성했으며, {date}에 공식 출처와 대조해 검토했습니다. 규정과 가격은 바뀔 수 있으니 위의 공식 링크에서 확인하세요. {policy}를 참고하세요.',
+    'ess.indexDek': '떠나기 전 꼭 필요한 실용 정보 — 주제를 고르거나 여행지로 바로 이동하세요.',
+    'ess.byCountry': '나라별 필수 정보',
+    'ess.chooseDestination': '여행지를 선택하세요',
+    'ess.entryByCountry': '나라별 입국 요건',
+
+    'static.lastUpdated': '최종 업데이트: {date}',
+    'contact.eyebrow': '문의',
+    'contact.h1': '연락하기',
+    'flights.eyebrow': '항공권',
+    'footer.checklist': '무료 체크리스트',
   },
 
   ja: {
@@ -416,6 +452,7 @@ export const ui = {
     'home.newsletterDek': '新しい旅行先、現地の人のような過ごし方、旅を助ける実用情報をお届けします。スパムはなく、購読はいつでも解除できます。',
     'home.subscribe': '登録する',
     'home.newsletterBonus': 'ご登録で、印刷して使える旅の準備チェックリストを無料でプレゼント。',
+    'home.spotlightDesc': 'おすすめの旅行先 — 詳細ガイド{n}本、さらに増加中。朝鮮王朝の宮殿とネオンの夜市、テンプルステイとおしゃれなカフェ、山と海、そして地上屈指の美食まで — 驚くほど移動しやすい国にすべてが詰まっています。',
 
     'trust.reviewedTitle': '編集者レビュー済み',
     'trust.reviewedText': 'AIが下書きし、人の基準で確認。すべてのガイドの作り方を公開しています。',
@@ -568,6 +605,23 @@ export const ui = {
     'roundup.best-restaurants': 'レストラン',
     'roundup.cafes': 'カフェ',
     'roundup.hidden-gems': '穴場',
+
+    'ess.label': '基本情報',
+    'ess.knowBeforeYouGo': '出発前に知っておきたい：{country}',
+    'ess.countryDek': 'ビザ・入国、移動、お金、ベストシーズン、緊急時まで — 公式ソース付き。',
+    'ess.disclaimer': 'これはわかりやすくまとめた要約であり、法律・医療上の助言ではありません。入国・ビザの規則は頻繁に変わるため、予約や搭乗の前に下記の公式ソースで必ずご確認ください。',
+    'ess.lastReviewedLabel': '最終確認：{date}。',
+    'ess.reviewedNote': 'AIを活用しウェブ調査のうえ作成し、{date}に公式ソースと照合して確認しました。規則や料金は変わることがあるため、上記の公式リンクでご確認ください。{policy}をご覧ください。',
+    'ess.indexDek': '出発前に役立つ実用情報 — トピックを選ぶか、旅行先へどうぞ。',
+    'ess.byCountry': '国別の基本情報',
+    'ess.chooseDestination': '旅行先を選ぶ',
+    'ess.entryByCountry': '国別の入国条件',
+
+    'static.lastUpdated': '最終更新：{date}',
+    'contact.eyebrow': 'お問い合わせ',
+    'contact.h1': 'お問い合わせ',
+    'flights.eyebrow': '航空券',
+    'footer.checklist': '無料チェックリスト',
   },
 
   es: {
@@ -602,6 +656,7 @@ export const ui = {
     'home.newsletterDek': 'Nuevos destinos, itinerarios como los de un local y los detalles prácticos que salvan un viaje. Sin spam: cancela cuando quieras.',
     'home.subscribe': 'Suscribirme',
     'home.newsletterBonus': 'Suscríbete y llévate gratis nuestra checklist imprimible para preparar el viaje.',
+    'home.spotlightDesc': 'Un destino destacado: {n} guías detalladas y subiendo. Palacios Joseon y mercados nocturnos de neón, estancias en templos y cafés de moda, montañas, playas y parte de la mejor comida del mundo, todo en un país asombrosamente fácil de recorrer.',
 
     'trust.reviewedTitle': 'Revisado por editores',
     'trust.reviewedText': 'Con ayuda de IA y criterio humano. Explicamos cómo se hace cada guía.',
@@ -754,6 +809,23 @@ export const ui = {
     'roundup.best-restaurants': 'restaurantes',
     'roundup.cafes': 'cafés',
     'roundup.hidden-gems': 'joyas escondidas',
+
+    'ess.label': 'Esenciales',
+    'ess.knowBeforeYouGo': 'Lo que debes saber antes de ir: {country}',
+    'ess.countryDek': 'Visado y entrada, cómo moverse, dinero, mejor época y emergencias, con fuentes oficiales.',
+    'ess.disclaimer': 'Este es un resumen en lenguaje sencillo, no asesoramiento legal ni médico. Las normas de entrada y visado cambian: confírmalas siempre en las fuentes oficiales enlazadas abajo antes de reservar o volar.',
+    'ess.lastReviewedLabel': 'Última revisión: {date}.',
+    'ess.reviewedNote': 'Creado con ayuda de IA e investigación web, revisado con fuentes oficiales el {date}. Las normas y los precios cambian: verifícalos en los enlaces oficiales de arriba. Consulta nuestra {policy}.',
+    'ess.indexDek': 'Lo práctico que hay que saber antes de viajar: elige un tema o ve directo a tu destino.',
+    'ess.byCountry': 'Esenciales por país',
+    'ess.chooseDestination': 'Elige tu destino',
+    'ess.entryByCountry': 'Requisitos de entrada por país',
+
+    'static.lastUpdated': 'Última actualización: {date}',
+    'contact.eyebrow': 'Contacto',
+    'contact.h1': 'Ponte en contacto',
+    'flights.eyebrow': 'Vuelos',
+    'footer.checklist': 'Checklist gratis',
   },
 
   zh: {
@@ -788,6 +860,7 @@ export const ui = {
     'home.newsletterDek': '新的目的地、像当地人一样的行程，以及让旅行更顺利的实用信息。绝无垃圾邮件，随时可退订。',
     'home.subscribe': '订阅',
     'home.newsletterBonus': '订阅即可免费获得可打印的旅行准备清单。',
+    'home.spotlightDesc': '精选目的地——{n} 篇深度指南，且仍在增加。朝鲜王朝的宫殿与霓虹夜市、寺庙寄宿与潮流咖啡馆、山峦与海滩，以及地球上数一数二的美食，全都汇聚在这个便捷得惊人的国度。',
 
     'trust.reviewedTitle': '编辑审核',
     'trust.reviewedText': 'AI 辅助撰写，人工标准把关。我们公开每篇指南的制作方式。',
@@ -940,5 +1013,22 @@ export const ui = {
     'roundup.best-restaurants': '餐厅',
     'roundup.cafes': '咖啡馆',
     'roundup.hidden-gems': '小众去处',
+
+    'ess.label': '出行必备',
+    'ess.knowBeforeYouGo': '出发前须知：{country}',
+    'ess.countryDek': '签证与入境、交通、货币、最佳时间和紧急情况——并附官方来源。',
+    'ess.disclaimer': '这是通俗易懂的摘要，并非法律或医疗建议。入境与签证规定经常变化——预订或搭乘前，请务必在下方链接的官方来源核实。',
+    'ess.lastReviewedLabel': '最后核实：{date}。',
+    'ess.reviewedNote': '借助 AI 并经网络调研撰写，已于 {date} 对照官方来源核查。规定与价格可能变动——请在上方官方链接核实。另见我们的{policy}。',
+    'ess.indexDek': '出发前实用须知——选择一个主题，或直接前往你的目的地。',
+    'ess.byCountry': '各国出行必备',
+    'ess.chooseDestination': '选择你的目的地',
+    'ess.entryByCountry': '各国入境要求',
+
+    'static.lastUpdated': '最后更新：{date}',
+    'contact.eyebrow': '联系',
+    'contact.h1': '联系我们',
+    'flights.eyebrow': '机票',
+    'footer.checklist': '免费清单',
   },
 } as const;

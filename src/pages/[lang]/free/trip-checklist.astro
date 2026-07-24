@@ -1,0 +1,10 @@
+---
+import TripChecklist from '../../../components/TripChecklist.astro';
+import type { Lang } from '../../../i18n/utils';
+export function getStaticPaths() {
+  return (['ko', 'ja', 'es', 'zh'] as Lang[]).map((lang) => ({ params: { lang }, props: { lang } }));
+}
+const { lang } = Astro.props;
+---
+
+<TripChecklist lang={lang} />

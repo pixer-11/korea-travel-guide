@@ -4,7 +4,8 @@ import Logo from './Logo.astro';
 import Flag from './Flag.astro';
 import LanguageSwitcher from './LanguageSwitcher.astro';
 import { SITE } from '../siteConfig';
-import { getLangFromUrl, useTranslations, type Lang } from '../i18n/utils';
+import { getLangFromUrl, useTranslations, localizePath, type Lang } from '../i18n/utils';
+import { localizePlace } from '../i18n/places';
 import countriesData from '../../data/countries.json';
 
 interface Props { availableLangs?: Lang[] }
@@ -25,7 +26,7 @@ const navGroups = CONT_ORDER
 
 <header class="site-header">
   <div class="wrap">
-    <a href="/" class="brand"><Logo size={26} /> <span>{SITE.name}</span></a>
+    <a href={localizePath('/', lang)} class="brand"><Logo size={26} /> <span>{SITE.name}</span></a>
 
     <input type="checkbox" id="nav-toggle" hidden />
     <label for="nav-toggle" class="menu-toggle" aria-label="Menu">
@@ -36,22 +37,22 @@ const navGroups = CONT_ORDER
 
     <nav class="nav">
       <div class="nav-dd">
-        <a href="/destinations" class="nav-dd-toggle">{t('nav.destinations')} ▾</a>
+        <a href={localizePath('/destinations', lang)} class="nav-dd-toggle">{t('nav.destinations')} ▾</a>
         <div class="nav-dd-menu">
           {navGroups.map((g) => (
             <>
-              <a class="nav-dd-head nav-dd-head-link" href={`/continents/${g.slug}`}>{g.name} →</a>
+              <a class="nav-dd-head nav-dd-head-link" href={localizePath(`/continents/${g.slug}`, lang)}>{t(`continent.${g.name}` as any)} →</a>
               {g.countries.map((c) => (
-                <a href={`/destinations/${c.slug}`}><Flag code={c.iso2} class="flag-ico" /> {c.name}</a>
+                <a href={localizePath(`/destinations/${c.slug}`, lang)}><Flag code={c.iso2} class="flag-ico" /> {localizePlace(c.name, lang)}</a>
               ))}
             </>
           ))}
-          <a href="/destinations" class="nav-dd-all">{t('nav.allDestinations')} →</a>
+          <a href={localizePath('/destinations', lang)} class="nav-dd-all">{t('nav.allDestinations')} →</a>
         </div>
       </div>
-      <a href="/events">{t('nav.events')}</a>
-      <a href="/flights">{t('nav.flights')}</a>
-      <a href="/about">{t('nav.about')}</a>
+      <a href={localizePath('/events', lang)}>{t('nav.events')}</a>
+      <a href={localizePath('/flights', lang)}>{t('nav.flights')}</a>
+      <a href={localizePath('/about', lang)}>{t('nav.about')}</a>
       <LanguageSwitcher availableLangs={availableLangs} />
     </nav>
   </div>

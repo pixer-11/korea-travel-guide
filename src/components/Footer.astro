@@ -1,7 +1,7 @@
 ---
 import Logo from './Logo.astro';
 import { SITE } from '../siteConfig';
-import { getLangFromUrl, useTranslations } from '../i18n/utils';
+import { getLangFromUrl, useTranslations, localizePath } from '../i18n/utils';
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
 const year = new Date().getFullYear();
@@ -10,19 +10,19 @@ const year = new Date().getFullYear();
 <footer class="site-footer">
   <div class="wrap">
     <div>
-      <a href="/" class="brand"><Logo size={24} /> <span>{SITE.name}</span></a>
+      <a href={localizePath('/', lang)} class="brand"><Logo size={24} /> <span>{SITE.name}</span></a>
       <p>{t('footer.tagline')}</p>
       <p style="margin-top:0.6rem">&copy; {year} {SITE.name}</p>
     </div>
     <nav>
-      <a href="/destinations">{t('nav.destinations')}</a>
-      <a href="/regions">Regions</a>
-      <a href="/flights">{t('nav.flights')}</a>
-      <a href="/free/trip-checklist">Free checklist</a>
-      <a href="/about">{t('footer.editorialPolicy')}</a>
-      <a href="/contact">{t('footer.contact')}</a>
-      <a href="/privacy">{t('footer.privacy')}</a>
-      <a href="/terms">{t('footer.terms')}</a>
+      <a href={localizePath('/destinations', lang)}>{t('nav.destinations')}</a>
+      <a href={localizePath('/regions', lang)}>{t('reg.allRegions')}</a>
+      <a href={localizePath('/flights', lang)}>{t('nav.flights')}</a>
+      <a href={localizePath('/free/trip-checklist', lang)}>{t('footer.checklist')}</a>
+      <a href={localizePath('/about', lang)}>{t('footer.editorialPolicy')}</a>
+      <a href={localizePath('/contact', lang)}>{t('footer.contact')}</a>
+      <a href={localizePath('/privacy', lang)}>{t('footer.privacy')}</a>
+      <a href={localizePath('/terms', lang)}>{t('footer.terms')}</a>
     </nav>
   </div>
 </footer>

@@ -1,0 +1,143 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Emoji from './Emoji.astro';
+import Newsletter from './Newsletter.astro';
+import type { Lang } from '../i18n/utils';
+
+// Shared trip-planning checklist lead magnet for /free/trip-checklist (en) +
+// /[lang]/free/trip-checklist.
+interface Props { lang: Lang }
+const { lang } = Astro.props;
+
+const T = {
+  en: {
+    metaTitle: 'Free trip-planning checklist',
+    metaDesc: 'A practical, printable travel checklist — what to do 3 months out, 1 week out, what to pack, and what to do on arrival. Free from Wander Atlas.',
+    eyebrow: 'Free checklist', h1: 'The Wander Atlas trip-planning checklist',
+    dek: 'Everything to do before you go — from the 3-month countdown to landing day. Print it, tick it off, travel stress-free.',
+    nlHeading: 'Get the checklist — plus one genuinely useful guide a week',
+    nlDek: 'Pop in your email and confirm — the full checklist is below to print or save anytime. No spam, unsubscribe in one click.',
+    nlCta: 'Send me the checklist', printBtn: 'Print / Save as PDF',
+    disclosure: 'A free resource from Wander Atlas. Want more like this — one genuinely useful guide a week? <a href="#newsletter">Join our newsletter above</a>. Safe travels!',
+    groups: [
+      { title: '2–3 months before', items: ['Check passport validity (many countries require 6+ months)', 'Research visa / entry rules and apply early if needed', 'Set a rough budget and start watching flight prices', 'Book flights and the first few nights of accommodation', 'Check recommended/required vaccinations'] },
+      { title: '1 month before', items: ['Book the big-ticket tours and skip-the-line attraction tickets', 'Sort travel insurance (medical + trip cancellation)', 'Make copies of passport, tickets, and bookings (cloud + printed)', "Tell your bank you're traveling; check card foreign-transaction fees", 'Download offline maps and a translation app'] },
+      { title: '1 week before', items: ['Buy an eSIM or check roaming so you land connected', 'Get some local currency / confirm your cards work abroad', 'Check the weather and finalize packing', 'Confirm airport transfers and check-in times', 'Share your itinerary with someone at home'] },
+      { title: 'Carry-on essentials', items: ['Passport, boarding passes, booking confirmations', 'Phone, charger, power bank, plug adapter', 'Medications + a small first-aid kit', 'A change of clothes and basic toiletries', 'Payment cards + a little cash'] },
+      { title: 'On arrival', items: ['Activate your eSIM / connect to Wi-Fi', 'Get from the airport with a pre-booked transfer or official taxi', "Save your accommodation's address in the local language", 'Note local emergency numbers and your embassy', 'Grab a transit card and learn one or two key phrases'] },
+    ],
+  },
+  ko: {
+    metaTitle: '무료 여행 준비 체크리스트',
+    metaDesc: '실용적이고 인쇄 가능한 여행 체크리스트 — 3개월 전, 1주일 전 할 일, 짐 싸기, 도착 후 할 일까지. Wander Atlas가 무료로 드립니다.',
+    eyebrow: '무료 체크리스트', h1: 'Wander Atlas 여행 준비 체크리스트',
+    dek: '떠나기 전 해야 할 모든 것 — 3개월 전 카운트다운부터 도착 당일까지. 인쇄해서 하나씩 체크하고, 스트레스 없이 여행하세요.',
+    nlHeading: '체크리스트 받기 — 매주 진짜 쓸모 있는 가이드도 함께',
+    nlDek: '이메일을 남기고 확인만 하면 됩니다 — 전체 체크리스트는 아래에서 언제든 인쇄하거나 저장할 수 있어요. 스팸 없이, 클릭 한 번으로 구독 취소.',
+    nlCta: '체크리스트 보내주세요', printBtn: '인쇄 / PDF로 저장',
+    disclosure: 'Wander Atlas가 무료로 드리는 자료입니다. 매주 진짜 쓸모 있는 가이드를 더 받고 싶으신가요? <a href="#newsletter">위에서 뉴스레터를 구독하세요</a>. 즐거운 여행 되세요!',
+    groups: [
+      { title: '2~3개월 전', items: ['여권 유효기간 확인(많은 나라가 6개월 이상 요구)', '비자·입국 규정 확인, 필요하면 일찍 신청', '대략적인 예산 정하고 항공권 가격 살피기 시작', '항공권과 처음 며칠 숙소 예약', '권장·필수 예방접종 확인'] },
+      { title: '1개월 전', items: ['인기 투어와 우선입장 티켓 예약', '여행자 보험 준비(의료+여행 취소)', '여권·티켓·예약 사본 만들기(클라우드+인쇄)', '카드사에 여행 사실 알리고 해외 결제 수수료 확인', '오프라인 지도와 번역 앱 다운로드'] },
+      { title: '1주일 전', items: ['도착하자마자 연결되도록 eSIM 구매 또는 로밍 확인', '현지 통화 조금 준비 / 해외에서 카드 되는지 확인', '날씨 확인하고 짐 싸기 마무리', '공항 이동편과 체크인 시간 확인', '집에 있는 사람에게 일정 공유'] },
+      { title: '기내 필수품', items: ['여권, 탑승권, 예약 확인서', '휴대폰, 충전기, 보조배터리, 플러그 어댑터', '상비약 + 간단한 구급 키트', '갈아입을 옷과 기본 세면도구', '결제 카드 + 약간의 현금'] },
+      { title: '도착 후', items: ['eSIM 활성화 / Wi-Fi 연결', '미리 예약한 이동편이나 공식 택시로 공항에서 이동', '숙소 주소를 현지 언어로 저장', '현지 긴급 전화번호와 대사관 확인', '교통카드 사고 핵심 표현 한두 개 익히기'] },
+    ],
+  },
+  ja: {
+    metaTitle: '無料の旅行準備チェックリスト',
+    metaDesc: '実用的で印刷できる旅行チェックリスト — 3か月前、1週間前にやること、荷造り、到着後にやることまで。Wander Atlasが無料でお届け。',
+    eyebrow: '無料チェックリスト', h1: 'Wander Atlas 旅行準備チェックリスト',
+    dek: '出発前にやることのすべて — 3か月前のカウントダウンから到着当日まで。印刷してチェックし、ストレスなく旅立ちましょう。',
+    nlHeading: 'チェックリストを受け取る — 毎週の本当に役立つガイドも',
+    nlDek: 'メールを入力して確認するだけ — 全チェックリストは下にあり、いつでも印刷・保存できます。スパムなし、ワンクリックで解除。',
+    nlCta: 'チェックリストを送ってください', printBtn: '印刷 / PDFで保存',
+    disclosure: 'Wander Atlasが無料でお届けする資料です。毎週、本当に役立つガイドをもっと受け取りたいですか？ <a href="#newsletter">上のニュースレターに登録</a>。よいご旅行を！',
+    groups: [
+      { title: '2〜3か月前', items: ['パスポートの有効期限を確認（6か月以上を求める国が多い）', 'ビザ・入国規則を調べ、必要なら早めに申請', 'おおよその予算を決め、航空券の価格を見始める', '航空券と最初の数泊の宿を予約', '推奨・必須の予防接種を確認'] },
+      { title: '1か月前', items: ['人気ツアーや優先入場チケットを予約', '旅行保険を手配（医療＋旅行キャンセル）', 'パスポート・チケット・予約の控えを用意（クラウド＋印刷）', 'カード会社に旅行を伝え、海外取引手数料を確認', 'オフライン地図と翻訳アプリをダウンロード'] },
+      { title: '1週間前', items: ['到着後すぐ接続できるようeSIM購入かローミングを確認', '現地通貨を少し用意／海外でカードが使えるか確認', '天気を確認して荷造りを仕上げる', '空港送迎とチェックイン時刻を確認', '自宅の誰かに旅程を共有'] },
+      { title: '機内持ち込みの必需品', items: ['パスポート、搭乗券、予約確認書', 'スマホ、充電器、モバイルバッテリー、変換プラグ', '常備薬＋簡単な救急セット', '着替えと基本の洗面用具', '決済カード＋少しの現金'] },
+      { title: '到着後', items: ['eSIMを有効化／Wi-Fiに接続', '事前予約の送迎か公式タクシーで空港から移動', '宿の住所を現地の言語で保存', '現地の緊急番号と大使館を控える', '交通カードを買い、キーフレーズを1〜2個覚える'] },
+    ],
+  },
+  es: {
+    metaTitle: 'Checklist gratis para planificar tu viaje',
+    metaDesc: 'Una checklist de viaje práctica e imprimible: qué hacer 3 meses antes, 1 semana antes, qué llevar y qué hacer al llegar. Gratis, de Wander Atlas.',
+    eyebrow: 'Checklist gratis', h1: 'La checklist de planificación de viaje de Wander Atlas',
+    dek: 'Todo lo que hay que hacer antes de salir, desde la cuenta atrás de 3 meses hasta el día del aterrizaje. Imprímela, ve marcando y viaja sin estrés.',
+    nlHeading: 'Consigue la checklist, y una guía realmente útil cada semana',
+    nlDek: 'Deja tu correo y confirma: la checklist completa está abajo para imprimir o guardar cuando quieras. Sin spam, cancela con un clic.',
+    nlCta: 'Envíame la checklist', printBtn: 'Imprimir / Guardar como PDF',
+    disclosure: 'Un recurso gratuito de Wander Atlas. ¿Quieres más como esto, una guía realmente útil cada semana? <a href="#newsletter">Únete a nuestra newsletter arriba</a>. ¡Buen viaje!',
+    groups: [
+      { title: '2–3 meses antes', items: ['Comprueba la validez del pasaporte (muchos países exigen 6+ meses)', 'Infórmate sobre visados/normas de entrada y solicítalos pronto si hace falta', 'Fija un presupuesto aproximado y empieza a vigilar los precios de los vuelos', 'Reserva los vuelos y las primeras noches de alojamiento', 'Comprueba las vacunas recomendadas/obligatorias'] },
+      { title: '1 mes antes', items: ['Reserva los tours importantes y las entradas sin colas', 'Contrata un seguro de viaje (médico + cancelación)', 'Haz copias del pasaporte, billetes y reservas (nube + impresas)', 'Avisa a tu banco de que viajas; revisa las comisiones por uso en el extranjero', 'Descarga mapas sin conexión y una app de traducción'] },
+      { title: '1 semana antes', items: ['Compra una eSIM o revisa el roaming para aterrizar conectado', 'Consigue algo de moneda local / confirma que tus tarjetas funcionan fuera', 'Mira el tiempo y termina de hacer la maleta', 'Confirma los traslados al aeropuerto y las horas de facturación', 'Comparte tu itinerario con alguien en casa'] },
+      { title: 'Esenciales de equipaje de mano', items: ['Pasaporte, tarjetas de embarque, confirmaciones de reserva', 'Móvil, cargador, batería externa, adaptador de enchufe', 'Medicamentos + un pequeño botiquín', 'Una muda de ropa y artículos de aseo básicos', 'Tarjetas de pago + algo de efectivo'] },
+      { title: 'Al llegar', items: ['Activa tu eSIM / conéctate al Wi-Fi', 'Sal del aeropuerto con un traslado reservado o un taxi oficial', 'Guarda la dirección de tu alojamiento en el idioma local', 'Anota los números de emergencia locales y tu embajada', 'Coge una tarjeta de transporte y aprende una o dos frases clave'] },
+    ],
+  },
+  zh: {
+    metaTitle: '免费旅行规划清单',
+    metaDesc: '实用、可打印的旅行清单——出发前三个月、一周该做什么，如何打包，以及抵达后要做什么。Wander Atlas 免费提供。',
+    eyebrow: '免费清单', h1: 'Wander Atlas 旅行准备清单',
+    dek: '出发前要做的一切——从三个月前的倒计时到落地当天。打印出来逐项打勾，轻松出行。',
+    nlHeading: '领取清单——外加每周一篇真正实用的指南',
+    nlDek: '留下邮箱并确认即可——完整清单就在下方，随时可打印或保存。绝无垃圾邮件，一键退订。',
+    nlCta: '把清单发给我', printBtn: '打印 / 存为 PDF',
+    disclosure: '这是 Wander Atlas 提供的免费资源。想要更多这样的内容——每周一篇真正实用的指南？<a href="#newsletter">在上方订阅我们的邮件</a>。旅途平安！',
+    groups: [
+      { title: '出发前 2–3 个月', items: ['检查护照有效期（许多国家要求 6 个月以上）', '了解签证／入境规定，必要时尽早申请', '定个大致预算，开始留意机票价格', '预订机票和最初几晚的住宿', '确认建议／必需的疫苗接种'] },
+      { title: '出发前 1 个月', items: ['预订热门团和免排队景点门票', '办好旅行保险（医疗＋行程取消）', '备份护照、机票和预订（云端＋纸质）', '告知银行你要出行；查看卡片的境外交易手续费', '下载离线地图和翻译应用'] },
+      { title: '出发前 1 周', items: ['购买 eSIM 或确认漫游，落地即联网', '准备一些当地货币／确认卡片在境外可用', '查看天气，完成打包', '确认机场接送和值机时间', '把行程分享给家里的人'] },
+      { title: '随身必备', items: ['护照、登机牌、预订确认单', '手机、充电器、充电宝、转换插头', '常备药＋小型急救包', '一套换洗衣物和基本洗漱用品', '支付卡＋少量现金'] },
+      { title: '抵达后', items: ['激活 eSIM／连接 Wi-Fi', '用预订的接送或正规出租车离开机场', '用当地语言保存住宿地址', '记下当地紧急电话和你的使馆', '办张交通卡，学一两句关键用语'] },
+    ],
+  },
+}[lang];
+---
+
+<BaseLayout title={T.metaTitle} description={T.metaDesc} localized={true}>
+  <section class="page-hero">
+    <div class="wrap">
+      <p class="eyebrow">{T.eyebrow}</p>
+      <h1>{T.h1}</h1>
+      <p>{T.dek}</p>
+    </div>
+  </section>
+
+  <Newsletter lang={lang} heading={T.nlHeading} dek={T.nlDek} cta={T.nlCta} />
+
+  <article class="article wrap">
+    <div class="checklist">
+      {T.groups.map((g) => (
+        <section class="checklist-group">
+          <h2>{g.title}</h2>
+          <ul>
+            {g.items.map((it) => <li><span class="cbox" aria-hidden="true"></span>{it}</li>)}
+          </ul>
+        </section>
+      ))}
+    </div>
+
+    <p class="print-cta">
+      <button class="btn btn-ghost" onclick="if(window.plausible)window.plausible('Checklist print');window.print()"><Emoji name="printer" /> {T.printBtn}</button>
+    </p>
+
+    <p class="disclosure" set:html={T.disclosure}></p>
+  </article>
+</BaseLayout>
+
+<style>
+  .checklist { display: grid; gap: 1.6rem; }
+  .checklist-group h2 { font-size: 1.25rem; margin-bottom: 0.6rem; }
+  .checklist-group ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 0.55rem; }
+  .checklist-group li { display: flex; align-items: flex-start; gap: 0.6rem; line-height: 1.5; }
+  .cbox { flex: none; width: 18px; height: 18px; margin-top: 0.15rem; border: 2px solid var(--accent); border-radius: 4px; }
+  .print-cta { margin-top: 2rem; text-align: center; }
+  @media print {
+    .site-header, .site-footer, .newsletter, .print-cta, .disclosure a { display: none !important; }
+    .page-hero { padding-block: 1rem; }
+  }
+</style>

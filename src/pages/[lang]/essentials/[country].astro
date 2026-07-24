@@ -1,0 +1,25 @@
+---
+import { getCollection } from 'astro:content';
+import EssentialsCountryHub from '../../../components/EssentialsCountryHub.astro';
+import type { Lang } from '../../../i18n/utils';
+
+// Localized per-country essentials: /ko/essentials/japan, /ja/…, /es/…, /zh/…
+// Every country with an English guide gets all four languages; the body falls
+// back to English when its translation file doesn't exist yet.
+export async function getStaticPaths() {
+  const LANGS: Lang[] = ['ko', 'ja', 'es', 'zh'];
+  const items = await getCollection('essentials', ({ data }) => !data.draft);
+  const translations = await getCollection('essentialsI18n');
+  const trBy = new Map(translations.map((tr) => [`${tr.data.lang}/${tr.data.slug}`, tr]));
+  return LANGS.flatMap((lang) =>
+    items.map((entry) => ({
+      params: { lang, country: entry.id },
+      props: { entry, translation: trBy.get(`${lang}/${entry.id}`) ?? null, lang },
+    }))
+  );
+}
+
+const { entry, translation, lang } = Astro.props;
+---
+
+<EssentialsCountryHub entry={entry} translation={translation} lang={lang} />

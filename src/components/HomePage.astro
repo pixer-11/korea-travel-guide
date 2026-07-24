@@ -7,7 +7,7 @@ import Emoji from './Emoji.astro';
 import Newsletter from './Newsletter.astro';
 import Search from './Search.astro';
 import { SITE } from '../siteConfig';
-import { useTranslations, type Lang } from '../i18n/utils';
+import { useTranslations, localizePath, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 import { pickRepHeroUrl } from '../lib/repImage';
 import countriesData from '../../data/countries.json';
@@ -90,8 +90,8 @@ const koreaLinks = [
       <p class="cover-dek">{t('home.heroDek')}</p>
       <Search placeholder={t('home.searchPlaceholder')} />
       <div class="cover-cta-row">
-        <a class="cover-cta" href="/destinations">{t('home.exploreDestinations')} <span class="arw">→</span></a>
-        {cover && <a class="cover-cta cover-cta-soft" href={`/posts/${cover.id}`}>{t('home.featured')}: {localizePlace(cover.data.region, lang)} <span class="arw">→</span></a>}
+        <a class="cover-cta" href={localizePath('/destinations', lang)}>{t('home.exploreDestinations')} <span class="arw">→</span></a>
+        {cover && <a class="cover-cta cover-cta-soft" href={localizePath(`/posts/${cover.id}`, lang)}>{t('home.featured')}: {localizePlace(cover.data.region, lang)} <span class="arw">→</span></a>}
       </div>
       <p class="cover-scale">{t('home.trustBar').replace('{n}', String(live.length))}</p>
     </div>
@@ -103,13 +103,13 @@ const koreaLinks = [
         <div class="rule-head"><span class="kicker">{t('home.latestStories')}</span></div>
         <div class="stories">
           {latest.map((post) => (
-            <a class="story" href={`/posts/${post.id}`}>
+            <a class="story" href={localizePath(`/posts/${post.id}`, lang)}>
               <div class="story-thumb">
                 <img src={post.data.heroImage?.url ?? '/images/placeholder-market.svg'} alt={post.data.place?.name ?? post.data.title} loading="lazy" width="600" height="400" />
               </div>
-              <span class="kicker gold">{post.data.category.replace('-', ' ')}</span>
+              <span class="kicker gold">{t(`cat.${post.data.category}` as any)}</span>
               <h3>{post.data.title}</h3>
-              <p class="story-meta">{post.data.region} · {post.data.country ?? 'South Korea'}</p>
+              <p class="story-meta">{localizePlace(post.data.region, lang)} · {localizePlace(post.data.country ?? 'South Korea', lang)}</p>
             </a>
           ))}
         </div>
@@ -125,17 +125,12 @@ const koreaLinks = [
         </div>
         <div class="spotlight-body">
           <p class="kicker gold"><Flag code="kr" class="flag-ico" /> {t('home.destinations')}</p>
-          <h2>South Korea</h2>
-          <p>
-            A featured destination — {countFor('South Korea')} in-depth guides and counting.
-            Joseon palaces and neon night markets, temple stays and trendy cafés, mountains,
-            beaches, and some of the best food on earth, all wrapped in a country that's
-            astonishingly easy to get around.
-          </p>
+          <h2>{localizePlace('South Korea', lang)}</h2>
+          <p>{t('home.spotlightDesc').replace('{n}', String(countFor('South Korea')))}</p>
           <div class="spotlight-links">
-            {koreaLinks.map((l) => <a href={l.href}>{l.label}</a>)}
+            {koreaLinks.map((l) => <a href={localizePath(l.href, lang)}>{localizePlace(l.label, lang)}</a>)}
           </div>
-          <a class="btn btn-primary" href="/destinations/south-korea">South Korea →</a>
+          <a class="btn btn-primary" href={localizePath('/destinations/south-korea', lang)}>{localizePlace('South Korea', lang)} →</a>
         </div>
       </div>
     </div>
@@ -145,16 +140,16 @@ const koreaLinks = [
     <div class="wrap">
       <div class="rule-head">
         <span class="kicker">{t('home.destinations')}</span>
-        <a href="/destinations" class="rule-link">{t('nav.allDestinations')} →</a>
+        <a href={localizePath('/destinations', lang)} class="rule-link">{t('nav.allDestinations')} →</a>
       </div>
       <p class="bento-note">{t('home.bentoNote').replace('{n}', String(live.length))}</p>
       <div class="dest-bento">
         {live.map((c, i) => (
-          <a class:list={['dest-tile', 'dest-live', { 'dest-feat': i === 0 }]} href={`/destinations/${c.slug}`} style={`background-image:url(${repImage(c.name)})`}>
+          <a class:list={['dest-tile', 'dest-live', { 'dest-feat': i === 0 }]} href={localizePath(`/destinations/${c.slug}`, lang)} style={`background-image:url(${repImage(c.name)})`}>
             {i === 0 && <span class="dest-ribbon">{t('home.featured')}</span>}
             <div class="dest-tile-inner">
               <span class="dest-flag"><Flag code={c.iso2} /></span>
-              <h3>{c.name}</h3>
+              <h3>{localizePlace(c.name, lang)}</h3>
               <p>{t('home.guides').replace('{n}', String(c.count))} →</p>
             </div>
           </a>
@@ -163,7 +158,7 @@ const koreaLinks = [
           <div class="dest-tile dest-soon">
             <div class="dest-tile-inner">
               <span class="dest-flag"><Flag code={c.iso2} /></span>
-              <h3>{c.name}</h3>
+              <h3>{localizePlace(c.name, lang)}</h3>
               <p class="dest-pill">{t('home.comingSoon')}</p>
             </div>
           </div>
@@ -176,13 +171,13 @@ const koreaLinks = [
     <div class="wrap">
       <div class="rule-head"><span class="kicker">{t('home.travelEssentials')}</span></div>
       <div class="essentials-strip">
-        <a class="essential-card" href="/essentials/visa"><span class="ico"><Emoji name="passport-control" /></span><div><h3>{t('ess.visa')}</h3><p>{t('ess.visaDek')}</p></div></a>
-        <a class="essential-card" href="/essentials/transport"><span class="ico"><Emoji name="metro" /></span><div><h3>{t('ess.transport')}</h3><p>{t('ess.transportDek')}</p></div></a>
-        <a class="essential-card" href="/essentials/money"><span class="ico"><Emoji name="credit-card" /></span><div><h3>{t('ess.money')}</h3><p>{t('ess.moneyDek')}</p></div></a>
-        <a class="essential-card" href="/essentials/best-time-to-visit"><span class="ico"><Emoji name="cherry-blossom" /></span><div><h3>{t('ess.bestTime')}</h3><p>{t('ess.bestTimeDek')}</p></div></a>
-        <a class="essential-card" href="/essentials/emergency"><span class="ico"><Emoji name="police-car-light" /></span><div><h3>{t('ess.emergency')}</h3><p>{t('ess.emergencyDek')}</p></div></a>
+        <a class="essential-card" href={localizePath('/essentials/visa', lang)}><span class="ico"><Emoji name="passport-control" /></span><div><h3>{t('ess.visa')}</h3><p>{t('ess.visaDek')}</p></div></a>
+        <a class="essential-card" href={localizePath('/essentials/transport', lang)}><span class="ico"><Emoji name="metro" /></span><div><h3>{t('ess.transport')}</h3><p>{t('ess.transportDek')}</p></div></a>
+        <a class="essential-card" href={localizePath('/essentials/money', lang)}><span class="ico"><Emoji name="credit-card" /></span><div><h3>{t('ess.money')}</h3><p>{t('ess.moneyDek')}</p></div></a>
+        <a class="essential-card" href={localizePath('/essentials/best-time-to-visit', lang)}><span class="ico"><Emoji name="cherry-blossom" /></span><div><h3>{t('ess.bestTime')}</h3><p>{t('ess.bestTimeDek')}</p></div></a>
+        <a class="essential-card" href={localizePath('/essentials/emergency', lang)}><span class="ico"><Emoji name="police-car-light" /></span><div><h3>{t('ess.emergency')}</h3><p>{t('ess.emergencyDek')}</p></div></a>
       </div>
-      <p style="margin-top:1.25rem"><a href="/essentials" class="rule-link">{t('ess.all')} →</a></p>
+      <p style="margin-top:1.25rem"><a href={localizePath('/essentials', lang)} class="rule-link">{t('ess.all')} →</a></p>
     </div>
   </section>
 
@@ -205,7 +200,7 @@ const koreaLinks = [
         <div class="grid">
           {moreGuides.map((post) => (
             <PostCard
-              href={`/posts/${post.id}`}
+              href={localizePath(`/posts/${post.id}`, lang)}
               title={post.data.title}
               description={post.data.description}
               region={post.data.region}

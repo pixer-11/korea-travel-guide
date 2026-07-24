@@ -1,0 +1,29 @@
+---
+import { render } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { useTranslations, type Lang } from '../i18n/utils';
+
+// Shared prose static page (about/privacy/terms) for the English route and
+// /[lang]/<slug>. Copy comes from the staticPages collection — translated when a
+// translation exists, else English.
+interface Props { entry: any; translation: any; lang: Lang }
+const { entry, translation, lang } = Astro.props;
+const t = useTranslations(lang);
+const d = translation?.data ?? entry.data;
+const { Content } = await render(translation ?? entry);
+---
+
+<BaseLayout title={d.metaTitle} description={d.metaDescription} localized={true}>
+  <div class="page-hero">
+    <div class="wrap">
+      <p class="eyebrow">{d.eyebrow}</p>
+      <h1>{d.h1}</h1>
+      {d.lastUpdated && <p>{t('static.lastUpdated').replace('{date}', d.lastUpdated)}</p>}
+    </div>
+  </div>
+  <article class="article wrap">
+    <div class="prose">
+      <Content />
+    </div>
+  </article>
+</BaseLayout>

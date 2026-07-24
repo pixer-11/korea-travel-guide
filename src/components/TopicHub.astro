@@ -1,0 +1,65 @@
+---
+import { render } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import EssentialsCountryIndex from './EssentialsCountryIndex.astro';
+import { useTranslations, localizePath, type Lang } from '../i18n/utils';
+
+// Shared essentials-topic hub (visa/transport/money/best-time/emergency) for the
+// English route and /[lang]/essentials/<topic>. Chrome from ui.ts; the topic's
+// own copy (h1, dek, quickAnswer, prose, faq, disclosure) comes from the content
+// collection — translated when a translation exists, else English.
+interface Props { topic: any; translation: any; lang: Lang }
+const { topic, translation, lang } = Astro.props;
+const t = useTranslations(lang);
+const d = translation?.data ?? topic.data;
+const { Content } = await render(translation ?? topic);
+
+const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
+const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'WebPage', name: d.metaTitle, description: d.metaDescription, url: pageUrl, isPartOf: { '@id': `${site}/#site` } },
+    { '@type': 'BreadcrumbList', itemListElement: [
+      { '@type': 'ListItem', position: 1, name: t('post.home'), item: new URL(localizePath('/', lang), Astro.site).toString() },
+      { '@type': 'ListItem', position: 2, name: d.breadcrumbName, item: pageUrl },
+    ] },
+    { '@type': 'FAQPage', mainEntity: (d.faq ?? []).map((f: any) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) },
+  ],
+};
+---
+
+<BaseLayout title={d.metaTitle} description={d.metaDescription} jsonLd={jsonLd} localized={true}>
+  <div class="page-hero">
+    <div class="wrap">
+      <p class="eyebrow">{t('ess.label')}</p>
+      <h1>{d.h1}</h1>
+      <p>{d.dek}</p>
+    </div>
+  </div>
+
+  <article class="article wrap">
+    <aside class="quick-answer">
+      <span class="qa-label">{t('post.quickAnswer')}</span>
+      <p>{d.quickAnswer}</p>
+    </aside>
+
+    <div class="prose">
+      <Content />
+    </div>
+
+    <EssentialsCountryIndex heading={d.countryHeading} lang={lang} />
+
+    <section class="faq">
+      <h2>{t('post.faqTitle')}</h2>
+      {(d.faq ?? []).map((f: any) => (
+        <details>
+          <summary>{f.q}</summary>
+          <p>{f.a}</p>
+        </details>
+      ))}
+    </section>
+
+    <p class="disclosure">{d.disclosure}</p>
+  </article>
+</BaseLayout>

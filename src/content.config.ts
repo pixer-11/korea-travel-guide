@@ -124,4 +124,68 @@ const postI18n = defineCollection({
   }),
 });
 
-export const collections = { posts, essentials, postI18n };
+// Translated per-country essentials TEXT (ko/ja/es/zh). Same design as postI18n:
+// prose only; the English source keeps the authority (official links, lastReviewed).
+const essentialsI18n = defineCollection({
+  loader: glob({
+    pattern: '**/*.md',
+    base: './src/content/essentials-i18n',
+    generateId: ({ entry }) => entry.replace(/\.md$/, ''),
+  }),
+  schema: z.object({
+    lang: z.enum(['ko', 'ja', 'es', 'zh']),
+    slug: z.string(), // id of the source essentials entry (country slug)
+    title: z.string(),
+    description: z.string(),
+  }),
+});
+
+// The 5 cross-country "topic" hubs (visa/transport/money/best-time/emergency).
+// English source lives here as structured content; the localized copies live in
+// essentialsTopicsI18n (translated by scripts/translate-topics.mjs).
+const topicShape = {
+  metaTitle: z.string(),
+  metaDescription: z.string(),
+  h1: z.string(),
+  dek: z.string(),
+  quickAnswer: z.string(),
+  countryHeading: z.string(),
+  breadcrumbName: z.string(),
+  disclosure: z.string(),
+  faq: z.array(z.object({ q: z.string(), a: z.string() })).default([]),
+};
+const essentialsTopics = defineCollection({
+  loader: glob({ pattern: '*.md', base: './src/content/essentials-topics' }),
+  schema: z.object({ icon: z.string(), ...topicShape }),
+});
+const essentialsTopicsI18n = defineCollection({
+  loader: glob({
+    pattern: '**/*.md',
+    base: './src/content/essentials-topics-i18n',
+    generateId: ({ entry }) => entry.replace(/\.md$/, ''),
+  }),
+  schema: z.object({ lang: z.enum(['ko', 'ja', 'es', 'zh']), slug: z.string(), ...topicShape }),
+});
+
+// Static prose pages (about/privacy/terms) as content, so they can be translated.
+const staticShape = {
+  metaTitle: z.string(),
+  metaDescription: z.string(),
+  eyebrow: z.string(),
+  h1: z.string(),
+  lastUpdated: z.string().optional(),
+};
+const staticPages = defineCollection({
+  loader: glob({ pattern: '*.md', base: './src/content/static-pages' }),
+  schema: z.object(staticShape),
+});
+const staticPagesI18n = defineCollection({
+  loader: glob({
+    pattern: '**/*.md',
+    base: './src/content/static-pages-i18n',
+    generateId: ({ entry }) => entry.replace(/\.md$/, ''),
+  }),
+  schema: z.object({ lang: z.enum(['ko', 'ja', 'es', 'zh']), slug: z.string(), ...staticShape }),
+});
+
+export const collections = { posts, essentials, postI18n, essentialsI18n, essentialsTopics, essentialsTopicsI18n, staticPages, staticPagesI18n };

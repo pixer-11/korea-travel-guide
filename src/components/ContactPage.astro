@@ -1,0 +1,75 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import type { Lang } from '../i18n/utils';
+
+// Shared contact page for /contact (en) + /[lang]/contact.
+interface Props { lang: Lang }
+const { lang } = Astro.props;
+const contactEmail = 'hello@wanderatlasguides.com';
+
+const T = {
+  en: {
+    metaTitle: 'Contact', metaDesc: 'Get in touch with Wander Atlas — corrections, questions, and feedback.',
+    eyebrow: 'Get in touch', h1: 'Contact us',
+    dek: "Corrections, questions, or feedback — we'd love to hear from you.",
+    body: 'Spotted something out of date, or have a question about planning a trip? Places close and prices change, and we genuinely want to keep our guides accurate — so please tell us.',
+    emailLabel: 'Email',
+    disclosure: "We aim to reply to genuine questions and corrections. This is an informational travel site — for emergencies while traveling, always use the local emergency number for the country you're in.",
+  },
+  ko: {
+    metaTitle: '문의', metaDesc: 'Wander Atlas에 문의하기 — 오류 신고, 질문, 의견을 보내주세요.',
+    eyebrow: '문의하기', h1: '연락하기',
+    dek: '오류 신고, 질문, 의견 — 언제든 편하게 들려주세요.',
+    body: '오래된 정보를 발견하셨거나 여행 계획에 관해 궁금한 점이 있으신가요? 문을 닫는 곳도 있고 가격도 바뀝니다. 저희는 가이드를 정확하게 유지하고 싶으니, 부담 없이 알려주세요.',
+    emailLabel: '이메일',
+    disclosure: '진지한 질문과 오류 신고에는 답변을 드리려 노력합니다. 이곳은 정보 제공용 여행 사이트입니다 — 여행 중 응급 상황에는 반드시 현지 긴급 전화번호를 이용하세요.',
+  },
+  ja: {
+    metaTitle: 'お問い合わせ', metaDesc: 'Wander Atlasへのお問い合わせ — 訂正、ご質問、ご意見をお寄せください。',
+    eyebrow: 'お問い合わせ', h1: 'お問い合わせ',
+    dek: '訂正、ご質問、ご意見 — ぜひお聞かせください。',
+    body: '古い情報を見つけた、あるいは旅行の計画について質問がありますか？ お店が閉店したり価格が変わったりします。私たちはガイドを正確に保ちたいので、どうかお知らせください。',
+    emailLabel: 'メール',
+    disclosure: '真摯なご質問や訂正には返信するよう努めています。これは情報提供の旅行サイトです — 旅行中の緊急時は、必ず滞在国の緊急電話番号をご利用ください。',
+  },
+  es: {
+    metaTitle: 'Contacto', metaDesc: 'Ponte en contacto con Wander Atlas: correcciones, preguntas y comentarios.',
+    eyebrow: 'Ponte en contacto', h1: 'Contáctanos',
+    dek: 'Correcciones, preguntas o comentarios: nos encantaría saber de ti.',
+    body: '¿Has visto algo desactualizado o tienes una pregunta sobre cómo planear un viaje? Los sitios cierran y los precios cambian, y de verdad queremos mantener nuestras guías al día, así que cuéntanoslo.',
+    emailLabel: 'Correo',
+    disclosure: 'Intentamos responder a preguntas y correcciones genuinas. Este es un sitio de viajes informativo: para emergencias durante el viaje, usa siempre el número de emergencias local del país en el que estés.',
+  },
+  zh: {
+    metaTitle: '联系我们', metaDesc: '联系 Wander Atlas——纠错、提问和反馈。',
+    eyebrow: '联系我们', h1: '联系我们',
+    dek: '纠错、提问或反馈——我们很乐意听到你的声音。',
+    body: '发现了过时的信息，或对行程规划有疑问？店家会关门、价格会变动，我们真心希望让指南保持准确，所以请告诉我们。',
+    emailLabel: '邮箱',
+    disclosure: '我们会尽力回复真诚的提问与纠错。这是一个信息类旅行网站——旅行途中如遇紧急情况，请务必拨打所在国家的当地紧急电话。',
+  },
+}[lang];
+---
+
+<BaseLayout title={T.metaTitle} description={T.metaDesc} localized={true}>
+  <div class="page-hero">
+    <div class="wrap">
+      <p class="eyebrow">{T.eyebrow}</p>
+      <h1>{T.h1}</h1>
+      <p>{T.dek}</p>
+    </div>
+  </div>
+
+  <article class="article wrap">
+    <div class="prose">
+      <p>{T.body}</p>
+
+      <div class="fact-box">
+        <h4>{T.emailLabel}</h4>
+        <p><a href={`mailto:${contactEmail}`}>{contactEmail}</a></p>
+      </div>
+
+      <p class="disclosure">{T.disclosure}</p>
+    </div>
+  </article>
+</BaseLayout>

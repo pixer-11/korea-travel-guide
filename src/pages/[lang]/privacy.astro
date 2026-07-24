@@ -1,0 +1,13 @@
+---
+import { getEntry } from 'astro:content';
+import StaticPage from '../../components/StaticPage.astro';
+import type { Lang } from '../../i18n/utils';
+export function getStaticPaths() {
+  return (['ko', 'ja', 'es', 'zh'] as Lang[]).map((lang) => ({ params: { lang }, props: { lang } }));
+}
+const { lang } = Astro.props;
+const entry = await getEntry('staticPages', 'privacy');
+const translation = await getEntry('staticPagesI18n', `${lang}/privacy`);
+---
+
+<StaticPage entry={entry} translation={translation ?? null} lang={lang} />

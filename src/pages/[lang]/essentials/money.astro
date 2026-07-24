@@ -1,0 +1,13 @@
+---
+import { getEntry } from 'astro:content';
+import TopicHub from '../../../components/TopicHub.astro';
+import type { Lang } from '../../../i18n/utils';
+export function getStaticPaths() {
+  return (['ko', 'ja', 'es', 'zh'] as Lang[]).map((lang) => ({ params: { lang }, props: { lang } }));
+}
+const { lang } = Astro.props;
+const topic = await getEntry('essentialsTopics', 'money');
+const translation = await getEntry('essentialsTopicsI18n', `${lang}/money`);
+---
+
+<TopicHub topic={topic} translation={translation ?? null} lang={lang} />

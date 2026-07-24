@@ -1,0 +1,112 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Emoji from './Emoji.astro';
+import { SITE } from '../siteConfig';
+import type { Lang } from '../i18n/utils';
+
+// Shared flights page for /flights (en) + /[lang]/flights. The Aviasales search
+// widget stays in place; only the surrounding copy is localized.
+interface Props { lang: Lang }
+const { lang } = Astro.props;
+
+const T = {
+  en: {
+    metaTitle: 'Flights — Find real-time fares to anywhere',
+    metaDesc: `Search live flight prices with ${SITE.name}. Pick your departure and destination and compare fares in your local currency.`,
+    eyebrow: 'Fares', h1: 'Find your flight',
+    dek: "Search live prices across hundreds of airlines and agencies. Pick where you're flying from and where you're headed — fares show in your local currency.",
+    tips: [
+      ['How it works', 'Enter your nearest airport and destination. We send you to the booking site with the best fare — you book there directly.'],
+      ['Prices in your currency', "Fares are shown in the currency of the country you're browsing from, so there's no mental math at checkout."],
+      ['Flexible dates save money', 'If your dates can move, try a few options — midweek departures are often meaningfully cheaper.'],
+    ],
+    disclosure: `Some links on this page are affiliate links. If you book through them, ${SITE.name} may earn a commission at no extra cost to you — it helps keep our guides free.`,
+  },
+  ko: {
+    metaTitle: '항공권 — 어디로든 실시간 요금 검색',
+    metaDesc: `${SITE.name}에서 실시간 항공권 가격을 검색하세요. 출발지와 도착지를 고르면 현지 통화로 요금을 비교해 드립니다.`,
+    eyebrow: '요금', h1: '항공권 찾기',
+    dek: '수백 개 항공사와 여행사의 실시간 가격을 검색하세요. 출발지와 도착지를 고르면 요금이 현지 통화로 표시됩니다.',
+    tips: [
+      ['이용 방법', '가까운 공항과 목적지를 입력하세요. 가장 저렴한 요금의 예약 사이트로 연결해 드리며, 예약은 그곳에서 바로 하시면 됩니다.'],
+      ['현지 통화로 표시되는 요금', '지금 접속한 나라의 통화로 요금이 표시되어, 결제할 때 환산할 필요가 없습니다.'],
+      ['날짜를 유연하게 하면 절약', '일정을 조정할 수 있다면 여러 옵션을 시도해 보세요 — 주중 출발이 훨씬 저렴한 경우가 많습니다.'],
+    ],
+    disclosure: `이 페이지의 일부 링크는 제휴 링크입니다. 이 링크로 예약하시면 추가 비용 없이 ${SITE.name}가 수수료를 받을 수 있으며, 이는 무료 가이드 운영에 도움이 됩니다.`,
+  },
+  ja: {
+    metaTitle: '航空券 — どこへでもリアルタイム料金検索',
+    metaDesc: `${SITE.name}でリアルタイムの航空券価格を検索。出発地と目的地を選ぶと、現地通貨で料金を比較できます。`,
+    eyebrow: '運賃', h1: '航空券を探す',
+    dek: '何百もの航空会社と旅行代理店のリアルタイム価格を検索。出発地と目的地を選ぶと、料金が現地通貨で表示されます。',
+    tips: [
+      ['使い方', '最寄りの空港と目的地を入力してください。最安値の予約サイトへご案内します — 予約はそちらで直接どうぞ。'],
+      ['現地通貨で表示', 'ご覧になっている国の通貨で料金が表示されるので、支払い時に換算する必要はありません。'],
+      ['日程に幅を持たせると節約', '日程を動かせるなら、いくつか試してみてください — 平日出発はかなり安いことがよくあります。'],
+    ],
+    disclosure: `このページの一部リンクはアフィリエイトリンクです。このリンクから予約すると、追加料金なしで${SITE.name}が手数料を受け取ることがあり、無料ガイドの運営に役立ちます。`,
+  },
+  es: {
+    metaTitle: 'Vuelos — Encuentra tarifas en tiempo real a cualquier lugar',
+    metaDesc: `Busca precios de vuelos en tiempo real con ${SITE.name}. Elige tu salida y tu destino y compara tarifas en tu moneda local.`,
+    eyebrow: 'Tarifas', h1: 'Encuentra tu vuelo',
+    dek: 'Busca precios en tiempo real entre cientos de aerolíneas y agencias. Elige desde dónde vuelas y a dónde vas: las tarifas se muestran en tu moneda local.',
+    tips: [
+      ['Cómo funciona', 'Introduce tu aeropuerto más cercano y tu destino. Te enviamos al sitio de reservas con la mejor tarifa; reservas allí directamente.'],
+      ['Precios en tu moneda', 'Las tarifas se muestran en la moneda del país desde el que navegas, así que no hay que hacer cuentas al pagar.'],
+      ['Fechas flexibles, más ahorro', 'Si puedes mover las fechas, prueba varias opciones: las salidas entre semana suelen ser bastante más baratas.'],
+    ],
+    disclosure: `Algunos enlaces de esta página son de afiliados. Si reservas a través de ellos, ${SITE.name} puede ganar una comisión sin coste adicional para ti, y así mantenemos nuestras guías gratis.`,
+  },
+  zh: {
+    metaTitle: '机票——随时搜索前往任何地方的实时票价',
+    metaDesc: `在 ${SITE.name} 搜索实时机票价格。选择出发地和目的地，即可用当地货币比较票价。`,
+    eyebrow: '票价', h1: '查找航班',
+    dek: '在数百家航空公司和代理机构中搜索实时价格。选择出发地和目的地——票价将以你所在地的货币显示。',
+    tips: [
+      ['如何使用', '输入离你最近的机场和目的地。我们会将你引导至票价最优的预订网站——你在那里直接预订即可。'],
+      ['以你的货币显示', '票价以你浏览所在国家的货币显示，结账时无需换算。'],
+      ['灵活日期更省钱', '如果日期可以调整，不妨多试几个选项——工作日出发往往便宜不少。'],
+    ],
+    disclosure: `本页部分链接为联盟链接。通过它们预订，${SITE.name} 可能获得佣金，你无需支付额外费用——这有助于我们保持指南免费。`,
+  },
+}[lang];
+
+const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
+const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'CollectionPage', name: T.h1, description: T.dek, url: pageUrl, isPartOf: { '@id': `${site}/#site` } },
+  ],
+};
+---
+
+<BaseLayout title={T.metaTitle} description={T.metaDesc} jsonLd={jsonLd} localized={true}>
+  <section class="page-hero">
+    <div class="wrap">
+      <p class="eyebrow"><Emoji name="airplane" /> {T.eyebrow}</p>
+      <h1>{T.h1}</h1>
+      <p>{T.dek}</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <div class="tp-widget-card">
+        <script is:inline async src="https://tpemd.com/content?currency=usd&trs=553157&shmarker=754088&show_hotels=false&powered_by=true&locale=en&searchUrl=www.aviasales.com%2Fsearch&primary_override=%23c8443a&color_button=%23c8443a&color_icons=%23857c6f&dark=%23201c17&light=%23FFFFFF&secondary=%23f4eee3&special=%23e6e1d6&color_focused=%23c8443a&border_radius=10&plain=true&promo_id=7879&campaign_id=100" charset="utf-8"></script>
+      </div>
+
+      <div class="tp-flights-tips">
+        {T.tips.map(([h, p]) => (
+          <div>
+            <h3>{h}</h3>
+            <p>{p}</p>
+          </div>
+        ))}
+      </div>
+
+      <p class="tp-disclosure">{T.disclosure}</p>
+    </div>
+  </section>
+</BaseLayout>
