@@ -60,6 +60,17 @@ jobs:
           MIN_REVIEWS: '50'
         run: npm run generate
 
+      # Translate the batch into ko/ja/es/zh before committing so every backfilled
+      # post ships with its translations. Resumable + continue-on-error (see
+      # publish.yml). A big backfill = many translations; concurrency 8 keeps it
+      # within the job timeout, and anything skipped this run is caught next run.
+      - name: Translate new posts (ko/ja/es/zh)
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TRANSLATE_CONCURRENCY: '8'
+        run: node scripts/translate-posts.mjs
+
       - name: Build hero photo-wall thumbnails
         run: node scripts/build-wall.mjs
 
@@ -68,7 +79,7 @@ jobs:
         run: |
           git config user.name "content-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add src/content/posts data/published.json public/wall data/wall.json
+          git add src/content/posts src/content/i18n data/published.json public/wall data/wall.json
           newfiles=$(git diff --cached --name-only --diff-filter=A -- src/content/posts | grep '\.md$' || true)
           new=$(printf '%s\n' "$newfiles" | grep -c . || true)
           total=$(ls src/content/posts/*.md | wc -l | tr -d ' ')

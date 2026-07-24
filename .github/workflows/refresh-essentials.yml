@@ -28,11 +28,29 @@ jobs:
           FORCE: '1'
         run: node scripts/build-essentials.mjs
 
+      # Re-translate ONLY the country guides that actually changed this run. This
+      # month's refresh rewrites the English source, so its old translations are
+      # now stale — delete just those and let translate-essentials regenerate them
+      # (a brand-new country has no translation yet, so it's picked up too). We
+      # don't re-translate the ~unchanged countries, to avoid paying for 17×4 every
+      # month. continue-on-error: a failure still ships English; next month retries.
+      - name: Re-translate changed essentials (ko/ja/es/zh)
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TRANSLATE_CONCURRENCY: '8'
+        run: |
+          changed=$(git diff --name-only -- src/content/essentials | sed 's|.*/||; s|\.md$||')
+          if [ -n "$changed" ]; then
+            for slug in $changed; do rm -f src/content/essentials-i18n/*/"$slug".md; done
+          fi
+          node scripts/translate-essentials.mjs
+
       - name: Commit updates
         run: |
           git config user.name "content-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add src/content/essentials
+          git add src/content/essentials src/content/essentials-i18n
           if git diff --staged --quiet; then
             echo "No essentials changes."
           else
