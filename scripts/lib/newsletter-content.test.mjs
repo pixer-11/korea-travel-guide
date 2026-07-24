@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { audienceKey, sentSetFor, pickSingleRegionEdition } from './newsletter-content.mjs';
+import { audienceKey, sentSetFor, pickSingleRegionEdition, pickGlobalEdition, pickMultiRegionEdition } from './newsletter-content.mjs';
 
 const clean = (n) => ({ url: `https://images.unsplash.com/photo-${n}`, credit: 'x', license: 'unsplash' });
 const moth = { url: 'https://upload.wikimedia.org/x/Ambulyx_MHNT.jpg', credit: 'MHNT', license: 'wikimedia' };
@@ -85,4 +85,32 @@ test('returns null when no clean hero exists', () => {
   const posts = [post('mothy', { heroImage: moth })];
   const ed = pickSingleRegionEdition({ posts, region: 'Dubai', country: 'UAE', sent: new Set(), now, minStories: 3 });
   assert.equal(ed, null);
+});
+
+test('pickGlobalEdition spans regions, best-source first, deduped', () => {
+  const posts = [
+    post('dubai-1', { heroImage: { url: 'https://images.unsplash.com/p1', license: 'unsplash', credit: 'x' } }),
+    post('paris-1', { region: 'Paris', country: 'France', heroImage: { url: 'https://images.unsplash.com/p2', license: 'unsplash', credit: 'x' } }),
+    post('sent-x'),
+  ];
+  const ed = pickGlobalEdition({ posts, sent: new Set(['sent-x']), now, max: 5 });
+  const slugs = [ed.hero.slug, ...ed.stories.map((s) => s.slug)];
+  assert.ok(slugs.includes('dubai-1') && slugs.includes('paris-1'));
+  assert.ok(!slugs.includes('sent-x'));
+  assert.ok(ed.hero.region, 'each card carries its region');
+});
+
+test('pickMultiRegionEdition builds one section per followed region', () => {
+  const posts = [
+    post('dubai-1'),
+    post('paris-1', { region: 'Paris', country: 'France' }),
+    post('paris-2', { region: 'Paris', country: 'France' }),
+  ];
+  const ed = pickMultiRegionEdition({
+    posts, regions: ['Dubai', 'Paris'],
+    countryByRegion: { Dubai: 'UAE', Paris: 'France' },
+    sent: new Set(), now, perRegion: 2,
+  });
+  assert.deepEqual(ed.sections.map((s) => s.region), ['Dubai', 'Paris']);
+  assert.ok(ed.sections[1].stories.length >= 1);
 });

@@ -91,3 +91,42 @@ export function pickSingleRegionEdition({ posts, region, country, sent, now, min
     usedEventSlugs: events.map((e) => e.slug),
   };
 }
+
+export function pickGlobalEdition({ posts, sent, now, max = 5 }) {
+  const clean = posts
+    .filter((p) => p.data.category !== 'event' && !sent.has(p.slug) && !isOffTopicHero(p.data.heroImage))
+    .sort(bySourceThenDate)
+    .slice(0, max)
+    .map(card);
+  if (clean.length === 0) return null;
+  const events = posts
+    .filter((p) => p.data.category === 'event' && !sent.has(p.slug) && p.data.eventStartDate && new Date(p.data.eventStartDate) >= now)
+    .sort((a, b) => new Date(a.data.eventStartDate) - new Date(b.data.eventStartDate))
+    .slice(0, MAX_EVENTS)
+    .map((p) => ({ slug: p.slug, title: p.data.title, date: p.data.eventStartDate, region: p.data.region }));
+  const [hero, ...stories] = clean;
+  return { hero, stories, events, usedPostSlugs: clean.map((c) => c.slug), usedEventSlugs: events.map((e) => e.slug) };
+}
+
+export function pickMultiRegionEdition({ posts, regions, countryByRegion, sent, now, perRegion = 2 }) {
+  const used = new Set();
+  const sections = [];
+  for (const region of regions) {
+    const picks = posts
+      .filter((p) => p.data.category !== 'event' && !sent.has(p.slug) && !used.has(p.slug)
+        && !isOffTopicHero(p.data.heroImage) && eq(p.data.region, region))
+      .sort(bySourceThenDate).slice(0, perRegion).map(card);
+    for (const c of picks) used.add(c.slug);
+    if (picks.length) sections.push({ region, stories: picks });
+  }
+  if (sections.length === 0) return null;
+  const countries = new Set(regions.map((r) => (countryByRegion[r] || '').toLowerCase()).filter(Boolean));
+  const events = posts
+    .filter((p) => p.data.category === 'event' && !sent.has(p.slug) && p.data.eventStartDate && new Date(p.data.eventStartDate) >= now
+      && (regions.some((r) => eq(p.data.region, r)) || countries.has(String(p.data.country).toLowerCase())))
+    .sort((a, b) => new Date(a.data.eventStartDate) - new Date(b.data.eventStartDate))
+    .slice(0, MAX_EVENTS)
+    .map((p) => ({ slug: p.slug, title: p.data.title, date: p.data.eventStartDate, region: p.data.region }));
+  const usedPostSlugs = [...used];
+  return { sections, events, usedPostSlugs, usedEventSlugs: events.map((e) => e.slug) };
+}
