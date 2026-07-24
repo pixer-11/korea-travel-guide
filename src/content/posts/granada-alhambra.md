@@ -1,49 +1,87 @@
 ---
-title: "Alhambra: Granada Travel Guide"
-description: "Book Alhambra tickets online weeks (in high season, months) ahead at the official site tickets.alhambra-patronato.es, choosing a specific entry slot for the"
-country: "Spain"
-region: "Granada"
-category: "attraction"
-pubDate: 2026-07-21
+title: 'Alhambra: Granada Travel Guide'
+description: >-
+  Book Alhambra tickets online weeks (in high season, months) ahead at the
+  official site tickets.alhambra-patronato.es, choosing a specific entry slot
+  for the
+country: Spain
+region: Granada
+category: attraction
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Alhambra_in_the_evening.jpg/1920px-Alhambra_in_the_evening.jpg"
-  credit: "Photo: Jebulon / Wikimedia Commons (Public domain)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Alhambra_in_the_evening.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Alhambra_in_the_evening.jpg/1920px-Alhambra_in_the_evening.jpg
+  credit: 'Photo: Jebulon / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Alhambra_in_the_evening.jpg'
 gallery: []
 place:
-  id: "ChIJO7l_l7f8cQ0Rf6IhEu_RjYA"
-  name: "Alhambra"
-  address: "C. Real de la Alhambra, s/n, Centro, 18009 Granada, Spain"
+  id: ChIJO7l_l7f8cQ0Rf6IhEu_RjYA
+  name: Alhambra
+  address: 'C. Real de la Alhambra, s/n, Centro, 18009 Granada, Spain'
   rating: 4.8
-  userRatingsTotal: 157900
-  googleMapsUrl: "https://maps.google.com/?cid=9263290833302561407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 158004
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9263290833302561407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.1760783
   lng: -3.5881412999999998
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [8, 9, 18]
-    weekendQuiet: [8, 9, 18]
-    weekendBusy: [12, 13, 14, 15, 16]
-    venueId: 'ven_41596a525f754568493666523051633866376c5f6c374f4a496843'
+    weekdayQuiet:
+      - 8
+      - 9
+      - 18
+    weekendQuiet:
+      - 8
+      - 9
+      - 18
+    weekendBusy:
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+    venueId: ven_41596a525f754568493666523051633866376c5f6c374f4a496843
 tags:
-  - "granada"
-  - "Alhambra"
-quickAnswer: "Book Alhambra tickets online weeks (in high season, months) ahead at the official site tickets.alhambra-patronato.es, choosing a specific entry slot for the Nasrid Palaces — this is the one part of the visit that's timed and non-negotiable. Plan on 3-4 hours minimum to cover the Nasrid Palaces, Alcazaba fortress, and Generalife gardens, and arrive at least 30 minutes before your palace slot since latecomers are turned away."
+  - granada
+  - Alhambra
+quickAnswer: >-
+  Book Alhambra tickets online weeks (in high season, months) ahead at the
+  official site tickets.alhambra-patronato.es, choosing a specific entry slot
+  for the Nasrid Palaces — this is the one part of the visit that's timed and
+  non-negotiable. Plan on 3-4 hours minimum to cover the Nasrid Palaces,
+  Alcazaba fortress, and Generalife gardens, and arrive at least 30 minutes
+  before your palace slot since latecomers are turned away.
 faq:
-  - q: "How do I get Alhambra tickets and how far ahead should I book?"
-    a: "Book online only through the official site, tickets.alhambra-patronato.es. In peak season (spring through autumn) slots for the Nasrid Palaces can sell out weeks in advance, so book as soon as your travel dates are fixed."
-  - q: "How long should I spend at the Alhambra?"
-    a: "Budget 3-4 hours to properly cover the Nasrid Palaces, Alcazaba fortress, and Generalife gardens without rushing; add extra time if you want to photograph the gardens at leisure."
-  - q: "What happens if I'm late for my Nasrid Palaces time slot?"
-    a: "Entry is strictly timed to the half-hour window on your ticket, and staff generally refuse admission to latecomers, so arrive at least 30 minutes early and go straight to the palace entrance at your slot time."
-  - q: "What's the best way to get up to the Alhambra without a car?"
-    a: "Walk 20-25 minutes uphill from Plaza Nueva, or take the small red C3/C4 municipal minibus, which is built for Granada's narrow streets and drops you near the main entrance."
-  - q: "Is there anything worth seeing near the Alhambra afterward?"
-    a: "Cross the Darro valley to the Albaicín quarter for the Mirador de San Nicolás viewpoint, which frames the whole Alhambra against the Sierra Nevada, and continue to Sacromonte for Granada's flamenco cave venues."
+  - q: How do I get Alhambra tickets and how far ahead should I book?
+    a: >-
+      Book online only through the official site, tickets.alhambra-patronato.es.
+      In peak season (spring through autumn) slots for the Nasrid Palaces can
+      sell out weeks in advance, so book as soon as your travel dates are fixed.
+  - q: How long should I spend at the Alhambra?
+    a: >-
+      Budget 3-4 hours to properly cover the Nasrid Palaces, Alcazaba fortress,
+      and Generalife gardens without rushing; add extra time if you want to
+      photograph the gardens at leisure.
+  - q: What happens if I'm late for my Nasrid Palaces time slot?
+    a: >-
+      Entry is strictly timed to the half-hour window on your ticket, and staff
+      generally refuse admission to latecomers, so arrive at least 30 minutes
+      early and go straight to the palace entrance at your slot time.
+  - q: What's the best way to get up to the Alhambra without a car?
+    a: >-
+      Walk 20-25 minutes uphill from Plaza Nueva, or take the small red C3/C4
+      municipal minibus, which is built for Granada's narrow streets and drops
+      you near the main entrance.
+  - q: Is there anything worth seeing near the Alhambra afterward?
+    a: >-
+      Cross the Darro valley to the Albaicín quarter for the Mirador de San
+      Nicolás viewpoint, which frames the whole Alhambra against the Sierra
+      Nevada, and continue to Sacromonte for Granada's flamenco cave venues.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

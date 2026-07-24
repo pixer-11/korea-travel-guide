@@ -1,49 +1,84 @@
 ---
-title: "IMAYA Kyoto &COFFEE: Travel Guide"
-description: "IMAYA Kyoto &COFFEE is a compact, design-forward café in Nakagyo Ward serving Italian-style espresso drinks, natural wine, beer, and light bites in a"
-country: "Japan"
-region: "Kyoto"
-category: "trendy"
-pubDate: "2026-07-22T09:02:23.523Z"
+title: 'IMAYA Kyoto &COFFEE: Travel Guide'
+description: >-
+  IMAYA Kyoto &COFFEE is a compact, design-forward café in Nakagyo Ward serving
+  Italian-style espresso drinks, natural wine, beer, and light bites in a
+country: Japan
+region: Kyoto
+category: trendy
+pubDate: '2026-07-22T09:02:23.523Z'
 heroImage:
-  url: "https://images.unsplash.com/photo-1756138165844-8ff065e58b94?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8S3lvdG8lMjBKYXBhbiUyMHRyZW5keSUyMGNhZmV8ZW58MHwwfHx8MTc4NDcxMDkxNXww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Leongsan on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@leongsan?utm_source=korea_travel_guide&utm_medium=referral"
+  url: >-
+    https://images.unsplash.com/photo-1756138165844-8ff065e58b94?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8S3lvdG8lMjBKYXBhbiUyMHRyZW5keSUyMGNhZmV8ZW58MHwwfHx8MTc4NDcxMDkxNXww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Leongsan on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@leongsan?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
-  id: "ChIJUVr-PIEIAWARCXbUgBfvb34"
-  name: "IMAYA Kyoto &COFFEE"
-  address: "726-4 Shimomatsuyachō, Nakagyo Ward, Kyoto, 604-0034, Japan"
+  id: ChIJUVr-PIEIAWARCXbUgBfvb34
+  name: IMAYA Kyoto &COFFEE
+  address: '726-4 Shimomatsuyachō, Nakagyo Ward, Kyoto, 604-0034, Japan'
   rating: 4.8
-  userRatingsTotal: 1222
-  googleMapsUrl: "https://maps.google.com/?cid=9110763455418496521&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1223
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9110763455418496521&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.0114868
   lng: 135.7558071
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [12, 13]
-    weekendQuiet: [12, 13]
-    weekendBusy: [8, 9, 10, 11]
-    venueId: 'ven_343362766642675562584352415741494549502d7256554a496843'
+    weekdayQuiet:
+      - 12
+      - 13
+    weekendQuiet:
+      - 12
+      - 13
+    weekendBusy:
+      - 8
+      - 9
+      - 10
+      - 11
+    venueId: ven_343362766642675562584352415741494549502d7256554a496843
 tags:
-  - "kyoto"
-  - "trendy cafe"
-quickAnswer: "IMAYA Kyoto &COFFEE is a compact, design-forward café in Nakagyo Ward serving Italian-style espresso drinks, natural wine, beer, and light bites in a stripped-back concrete-and-wood space. It's best visited mid-morning on a weekday to snag a seat, and pairs naturally with a wander through the Nishiki Market/Teramachi shopping arcades a few minutes away. Budget 30-45 minutes for a coffee stop, longer if you're settling in with a snack or drink."
+  - kyoto
+  - trendy cafe
+quickAnswer: >-
+  IMAYA Kyoto &COFFEE is a compact, design-forward café in Nakagyo Ward serving
+  Italian-style espresso drinks, natural wine, beer, and light bites in a
+  stripped-back concrete-and-wood space. It's best visited mid-morning on a
+  weekday to snag a seat, and pairs naturally with a wander through the Nishiki
+  Market/Teramachi shopping arcades a few minutes away. Budget 30-45 minutes for
+  a coffee stop, longer if you're settling in with a snack or drink.
 faq:
-  - q: "How do I get to IMAYA Kyoto &COFFEE by subway?"
-    a: "Take the Karasuma or Tozai subway line to Karasuma Oike Station, or the Tozai Line to Kyoto Shiyakusho-mae Station. Both leave about a 10-15 minute walk to the café in Nakagyo Ward."
-  - q: "How long should I plan to spend there?"
-    a: "About 30-45 minutes for a coffee, longer if you order light food or a beer, since the space is small and better suited to a focused stop than a long work session."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Weekday mornings or the mid-afternoon lull between lunch and evening are quieter; weekends see heavier foot traffic since the café sits near Nishiki Market."
-  - q: "What should I order?"
-    a: "Go for the Italian-style espresso drinks the café is known for, and pair with one of the light snacks on the menu; it also serves beer if you're stopping by later in the day."
-  - q: "What else is nearby?"
-    a: "Nishiki Market, the Teramachi and Shinkyogoku shopping arcades, and the Kyoto International Manga Museum are all within easy walking distance in the same downtown Nakagyo district."
+  - q: How do I get to IMAYA Kyoto &COFFEE by subway?
+    a: >-
+      Take the Karasuma or Tozai subway line to Karasuma Oike Station, or the
+      Tozai Line to Kyoto Shiyakusho-mae Station. Both leave about a 10-15
+      minute walk to the café in Nakagyo Ward.
+  - q: How long should I plan to spend there?
+    a: >-
+      About 30-45 minutes for a coffee, longer if you order light food or a
+      beer, since the space is small and better suited to a focused stop than a
+      long work session.
+  - q: What's the best time to visit to avoid crowds?
+    a: >-
+      Weekday mornings or the mid-afternoon lull between lunch and evening are
+      quieter; weekends see heavier foot traffic since the café sits near
+      Nishiki Market.
+  - q: What should I order?
+    a: >-
+      Go for the Italian-style espresso drinks the café is known for, and pair
+      with one of the light snacks on the menu; it also serves beer if you're
+      stopping by later in the day.
+  - q: What else is nearby?
+    a: >-
+      Nishiki Market, the Teramachi and Shinkyogoku shopping arcades, and the
+      Kyoto International Manga Museum are all within easy walking distance in
+      the same downtown Nakagyo district.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

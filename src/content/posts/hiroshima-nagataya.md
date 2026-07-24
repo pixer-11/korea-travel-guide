@@ -1,51 +1,96 @@
 ---
-title: "Nagataya: Where to Eat in Hiroshima"
-description: "Nagataya is a long-running okonomiyaki counter-and-teppan restaurant in Otemachi, Naka Ward, a short walk from the Peace Memorial Park — order the classic"
-country: "Japan"
-region: "Hiroshima"
-category: "restaurant"
-pubDate: "2026-07-22T09:03:55.249Z"
+title: 'Nagataya: Where to Eat in Hiroshima'
+description: >-
+  Nagataya is a long-running okonomiyaki counter-and-teppan restaurant in
+  Otemachi, Naka Ward, a short walk from the Peace Memorial Park — order the
+  classic
+country: Japan
+region: Hiroshima
+category: restaurant
+pubDate: '2026-07-22T09:03:55.249Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Nagataya-Butsudanten-1.jpg/1920px-Nagataya-Butsudanten-1.jpg"
-  credit: "Photo: Evelyn-rose / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Nagataya-Butsudanten-1.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Nagataya-Butsudanten-1.jpg/1920px-Nagataya-Butsudanten-1.jpg
+  credit: 'Photo: Evelyn-rose / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Nagataya-Butsudanten-1.jpg'
 gallery: []
 place:
-  id: "ChIJOaWjGw2iWjUR5RdB0fPip1Q"
-  name: "Nagataya"
-  address: "Japan, 〒730-0051 Hiroshima, Naka Ward, Ōtemachi, 1-chōme−7−１９ 重石ビル １F"
+  id: ChIJOaWjGw2iWjUR5RdB0fPip1Q
+  name: Nagataya
+  address: 'Japan, 〒730-0051 Hiroshima, Naka Ward, Ōtemachi, 1-chōme−7−１９ 重石ビル １F'
   rating: 4.4
-  userRatingsTotal: 3356
+  userRatingsTotal: 3357
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=6100093757112260581&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6100093757112260581&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.394216
   lng: 132.454485
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [20]
-    weekdayBusy: [12, 13, 14, 15, 16, 17, 18]
-    weekendQuiet: [20]
-    weekendBusy: [11, 12, 13, 14, 15, 16, 17, 18, 19]
-    venueId: 'ven_513170695066304264523552556a57693277476a57614f4a496843'
+    weekdayQuiet:
+      - 20
+    weekdayBusy:
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+    weekendQuiet:
+      - 20
+    weekendBusy:
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+    venueId: ven_513170695066304264523552556a57693277476a57614f4a496843
 tags:
-  - "hiroshima"
-  - "street food"
-quickAnswer: "Nagataya is a long-running okonomiyaki counter-and-teppan restaurant in Otemachi, Naka Ward, a short walk from the Peace Memorial Park — order the classic Hiroshima-style \"soba-iri\" okonomiyaki with pork and egg, or ask about the vegan/vegetarian version. Expect a modest, no-frills room with a hot iron griddle in front of you, cash-friendly pricing (¥¥ range), and a wait at peak lunch and dinner hours since it holds a 4.4 rating across more than 3,300 reviews."
+  - hiroshima
+  - street food
+quickAnswer: >-
+  Nagataya is a long-running okonomiyaki counter-and-teppan restaurant in
+  Otemachi, Naka Ward, a short walk from the Peace Memorial Park — order the
+  classic Hiroshima-style "soba-iri" okonomiyaki with pork and egg, or ask about
+  the vegan/vegetarian version. Expect a modest, no-frills room with a hot iron
+  griddle in front of you, cash-friendly pricing (¥¥ range), and a wait at peak
+  lunch and dinner hours since it holds a 4.4 rating across more than 3,300
+  reviews.
 faq:
-  - q: "How do I get to Nagataya without a car?"
-    a: "Take the Hiroshima streetcar (tram) to Chuden-mae or Fukuromachi station and walk a few minutes to Otemachi 1-chome; from Hiroshima Station it's about a 15-20 minute tram ride."
-  - q: "Does Nagataya have vegan or vegetarian options?"
-    a: "Yes — it's known for offering a vegan/vegetarian version of okonomiyaki, typically swapping out the pork and adjusting the sauce. Confirm specifics with staff when ordering."
-  - q: "How much does a meal cost?"
-    a: "It falls in the moderate price range (price level 2 out of 4), roughly comparable to a casual sit-down lunch in central Hiroshima. Confirm current menu prices on-site since they can change."
-  - q: "How long should I plan to spend there?"
-    a: "Budget 45 minutes to an hour for a counter meal, plus potential wait time during lunch or dinner peak hours given its popularity."
-  - q: "What else is nearby?"
-    a: "The Peace Memorial Park and A-Bomb Dome are about a 10-minute walk away, and the Hondori shopping arcade is close by, making it easy to combine with sightseeing."
+  - q: How do I get to Nagataya without a car?
+    a: >-
+      Take the Hiroshima streetcar (tram) to Chuden-mae or Fukuromachi station
+      and walk a few minutes to Otemachi 1-chome; from Hiroshima Station it's
+      about a 15-20 minute tram ride.
+  - q: Does Nagataya have vegan or vegetarian options?
+    a: >-
+      Yes — it's known for offering a vegan/vegetarian version of okonomiyaki,
+      typically swapping out the pork and adjusting the sauce. Confirm specifics
+      with staff when ordering.
+  - q: How much does a meal cost?
+    a: >-
+      It falls in the moderate price range (price level 2 out of 4), roughly
+      comparable to a casual sit-down lunch in central Hiroshima. Confirm
+      current menu prices on-site since they can change.
+  - q: How long should I plan to spend there?
+    a: >-
+      Budget 45 minutes to an hour for a counter meal, plus potential wait time
+      during lunch or dinner peak hours given its popularity.
+  - q: What else is nearby?
+    a: >-
+      The Peace Memorial Park and A-Bomb Dome are about a 10-minute walk away,
+      and the Hondori shopping arcade is close by, making it easy to combine
+      with sightseeing.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

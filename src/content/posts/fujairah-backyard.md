@@ -1,43 +1,73 @@
 ---
-title: "Backyard: Fujairah Travel Guide"
-description: "Backyard is a laid-back specialty coffee shop tucked into the Al Faseel area of Fujairah City, best visited on a weekday morning when the shaded seating is"
-country: "United Arab Emirates"
-region: "Fujairah"
-category: "trendy"
-pubDate: "2026-07-23T07:57:51.308Z"
+title: 'Backyard: Fujairah Travel Guide'
+description: >-
+  Backyard is a laid-back specialty coffee shop tucked into the Al Faseel area
+  of Fujairah City, best visited on a weekday morning when the shaded seating is
+country: United Arab Emirates
+region: Fujairah
+category: trendy
+pubDate: '2026-07-23T07:57:51.308Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Snow_in_the_backyard_in_Visby%2C_Gotland.jpg/1920px-Snow_in_the_backyard_in_Visby%2C_Gotland.jpg"
-  credit: "Photo: W.carter / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Snow_in_the_backyard_in_Visby,_Gotland.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Snow_in_the_backyard_in_Visby%2C_Gotland.jpg/1920px-Snow_in_the_backyard_in_Visby%2C_Gotland.jpg
+  credit: 'Photo: W.carter / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Snow_in_the_backyard_in_Visby,_Gotland.jpg
 gallery: []
 place:
-  id: "ChIJIa15PgBX9D4RBzUOtfqf-zk"
-  name: "Backyard"
-  address: "49X4+F3V - Al Faseel - Fujairah - United Arab Emirates"
+  id: ChIJIa15PgBX9D4RBzUOtfqf-zk
+  name: Backyard
+  address: 49X4+F3V - Al Faseel - Fujairah - United Arab Emirates
   rating: 4.6
   userRatingsTotal: 160
-  googleMapsUrl: "https://maps.google.com/?cid=4178108978444514567&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4178108978444514567&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.149012199999998
   lng: 56.3553448
+  priceLevel: 2
 tags:
-  - "fujairah"
-  - "trendy cafe"
-quickAnswer: "Backyard is a laid-back specialty coffee shop tucked into the Al Faseel area of Fujairah City, best visited on a weekday morning when the shaded seating is quiet and the espresso machine isn't backed up. It's a coffee-and-conversation stop rather than a sightseeing landmark, so pair it with the Fujairah Fort or Al Faseel corniche and budget 30–60 minutes. Rated 4.6 from 160 reviews, it rewards visitors who go for the coffee itself, not the crowd."
+  - fujairah
+  - trendy cafe
+quickAnswer: >-
+  Backyard is a laid-back specialty coffee shop tucked into the Al Faseel area
+  of Fujairah City, best visited on a weekday morning when the shaded seating is
+  quiet and the espresso machine isn't backed up. It's a coffee-and-conversation
+  stop rather than a sightseeing landmark, so pair it with the Fujairah Fort or
+  Al Faseel corniche and budget 30–60 minutes. Rated 4.6 from 160 reviews, it
+  rewards visitors who go for the coffee itself, not the crowd.
 faq:
-  - q: "How do I get to Backyard in Fujairah without a car?"
-    a: "Fujairah has limited public transit for visitors, so ride-hailing apps or a pre-arranged taxi are the most reliable options. If you're driving from Dubai or Sharjah, it's about a 1.5–2 hour trip via the E88 or E84 highways through the Hajar Mountains."
-  - q: "What does Backyard serve?"
-    a: "It's a specialty coffee shop, so expect espresso drinks, pour-overs, and likely a small selection of pastries or light bites rather than a full food menu. Confirm current offerings on-site or via their listed contact channels, as café menus change seasonally."
-  - q: "What's the best time of day to visit?"
-    a: "Weekday mornings are quietest and most comfortable, especially given Fujairah's heat. Between May and September, aim for before 10am or after sunset if the seating area is open-air; November to March is comfortable at almost any hour."
-  - q: "How long should I plan to spend there?"
-    a: "30 to 60 minutes is typical for a coffee shop of this size — enough time to enjoy a drink without treating it as a full sightseeing stop."
-  - q: "What else can I see nearby?"
-    a: "Fujairah Fort, the Heritage Village, and the Fujairah Corniche are all a short drive away, making Backyard an easy add-on to a half-day loop of Fujairah City's historic and waterfront sights."
+  - q: How do I get to Backyard in Fujairah without a car?
+    a: >-
+      Fujairah has limited public transit for visitors, so ride-hailing apps or
+      a pre-arranged taxi are the most reliable options. If you're driving from
+      Dubai or Sharjah, it's about a 1.5–2 hour trip via the E88 or E84 highways
+      through the Hajar Mountains.
+  - q: What does Backyard serve?
+    a: >-
+      It's a specialty coffee shop, so expect espresso drinks, pour-overs, and
+      likely a small selection of pastries or light bites rather than a full
+      food menu. Confirm current offerings on-site or via their listed contact
+      channels, as café menus change seasonally.
+  - q: What's the best time of day to visit?
+    a: >-
+      Weekday mornings are quietest and most comfortable, especially given
+      Fujairah's heat. Between May and September, aim for before 10am or after
+      sunset if the seating area is open-air; November to March is comfortable
+      at almost any hour.
+  - q: How long should I plan to spend there?
+    a: >-
+      30 to 60 minutes is typical for a coffee shop of this size — enough time
+      to enjoy a drink without treating it as a full sightseeing stop.
+  - q: What else can I see nearby?
+    a: >-
+      Fujairah Fort, the Heritage Village, and the Fujairah Corniche are all a
+      short drive away, making Backyard an easy add-on to a half-day loop of
+      Fujairah City's historic and waterfront sights.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

@@ -1,50 +1,91 @@
 ---
-title: "Hong Hoai's Restaurant: Where to Eat in Hanoi"
-description: "Hong Hoai's Restaurant sits in the Old Quarter near the corner of Bát Đàn and Hàng Bồ streets in Hoàn Kiếm district, a few minutes' walk from Hoàn Kiếm Lake."
-country: "Vietnam"
-region: "Hanoi"
-category: "restaurant"
-pubDate: "2026-07-22T09:30:22.769Z"
+title: 'Hong Hoai''s Restaurant: Where to Eat in Hanoi'
+description: >-
+  Hong Hoai's Restaurant sits in the Old Quarter near the corner of Bát Đàn and
+  Hàng Bồ streets in Hoàn Kiếm district, a few minutes' walk from Hoàn Kiếm
+  Lake.
+country: Vietnam
+region: Hanoi
+category: restaurant
+pubDate: '2026-07-22T09:30:22.769Z'
 heroImage:
-  url: "https://images.unsplash.com/photo-1764745021303-c3d97bedd2c6?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SGFub2klMjBWaWV0bmFtJTIwbG9jYWwlMjByZXN0YXVyYW50fGVufDB8MHx8fDE3ODQ3MTI1NDF8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Zero on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@z3ro?utm_source=korea_travel_guide&utm_medium=referral"
+  url: >-
+    https://images.unsplash.com/photo-1764745021303-c3d97bedd2c6?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SGFub2klMjBWaWV0bmFtJTIwbG9jYWwlMjByZXN0YXVyYW50fGVufDB8MHx8fDE3ODQ3MTI1NDF8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Zero on Unsplash
+  license: unsplash
+  source: 'https://unsplash.com/@z3ro?utm_source=korea_travel_guide&utm_medium=referral'
 gallery: []
 place:
-  id: "ChIJXROtYr6rNTERRKeVXUeNGUY"
-  name: "Hong Hoai's Restaurant"
-  address: "P. Bát Đàn/20 P. Hàng Bồ, Phuờng, Hoàn Kiếm, Hà Nội 100000, Vietnam"
+  id: ChIJXROtYr6rNTERRKeVXUeNGUY
+  name: Hong Hoai's Restaurant
+  address: 'P. Bát Đàn/20 P. Hàng Bồ, Phuờng, Hoàn Kiếm, Hà Nội 100000, Vietnam'
   rating: 4.9
-  userRatingsTotal: 23426
-  googleMapsUrl: "https://maps.google.com/?cid=5051223794725005124&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 23416
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5051223794725005124&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 21.0338439
   lng: 105.8474725
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [10, 11]
-    weekdayBusy: [19, 20, 21]
-    weekendQuiet: [10, 11]
-    weekendBusy: [18, 19, 20, 21, 22]
-    venueId: 'ven_5955474e65555856654b525245544e72367259744f52584a496843'
+    weekdayQuiet:
+      - 10
+      - 11
+    weekdayBusy:
+      - 19
+      - 20
+      - 21
+    weekendQuiet:
+      - 10
+      - 11
+    weekendBusy:
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+    venueId: ven_5955474e65555856654b525245544e72367259744f52584a496843
+  priceLevel: 2
 tags:
-  - "hanoi"
-  - "local restaurant"
-quickAnswer: "Hong Hoai's Restaurant sits in the Old Quarter near the corner of Bát Đàn and Hàng Bồ streets in Hoàn Kiếm district, a few minutes' walk from Hoàn Kiếm Lake. It's a no-frills Hanoian eatery known for classic street-food style dishes served at streetside tables, and with nearly 23,500 reviews and a 4.9 rating it's become a fixture on visitor food itineraries. Go hungry, go early or mid-afternoon to dodge the worst crowds, and expect to sit on low plastic stools."
+  - hanoi
+  - local restaurant
+quickAnswer: >-
+  Hong Hoai's Restaurant sits in the Old Quarter near the corner of Bát Đàn and
+  Hàng Bồ streets in Hoàn Kiếm district, a few minutes' walk from Hoàn Kiếm
+  Lake. It's a no-frills Hanoian eatery known for classic street-food style
+  dishes served at streetside tables, and with nearly 23,500 reviews and a 4.9
+  rating it's become a fixture on visitor food itineraries. Go hungry, go early
+  or mid-afternoon to dodge the worst crowds, and expect to sit on low plastic
+  stools.
 faq:
-  - q: "How do I get to Hong Hoai's Restaurant?"
-    a: "It's located on P. Bát Đàn near 20 P. Hàng Bồ in the Old Quarter, Hoàn Kiếm district — about a 10-12 minute walk north from Hoàn Kiếm Lake. Taxi, Grab, or walking are the most practical options since there's no direct metro stop in the Old Quarter."
-  - q: "How much does a meal cost?"
-    a: "Prices aren't posted online and can change, but expect the typical low cost of Hanoi street-food eateries — bring small-denomination cash, as card payment isn't standard at this type of spot."
-  - q: "What's the best time to visit?"
-    a: "Late morning (around 10:30-11am) or mid-afternoon (2-4pm) helps avoid peak lunch crowds. October to April offers the most comfortable weather for the walk over and back."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors spend 30-45 minutes eating, since seating is casual streetside/stool-style and turnover is quick — it fits easily into a longer Old Quarter walking itinerary."
-  - q: "What's nearby if I want to explore after eating?"
-    a: "Hoàn Kiếm Lake, Đồng Xuân Market, and the cafés around Nhà Thờ Street and St. Joseph's Cathedral are all within easy walking distance."
+  - q: How do I get to Hong Hoai's Restaurant?
+    a: >-
+      It's located on P. Bát Đàn near 20 P. Hàng Bồ in the Old Quarter, Hoàn
+      Kiếm district — about a 10-12 minute walk north from Hoàn Kiếm Lake. Taxi,
+      Grab, or walking are the most practical options since there's no direct
+      metro stop in the Old Quarter.
+  - q: How much does a meal cost?
+    a: >-
+      Prices aren't posted online and can change, but expect the typical low
+      cost of Hanoi street-food eateries — bring small-denomination cash, as
+      card payment isn't standard at this type of spot.
+  - q: What's the best time to visit?
+    a: >-
+      Late morning (around 10:30-11am) or mid-afternoon (2-4pm) helps avoid peak
+      lunch crowds. October to April offers the most comfortable weather for the
+      walk over and back.
+  - q: How long should I plan to spend there?
+    a: >-
+      Most visitors spend 30-45 minutes eating, since seating is casual
+      streetside/stool-style and turnover is quick — it fits easily into a
+      longer Old Quarter walking itinerary.
+  - q: What's nearby if I want to explore after eating?
+    a: >-
+      Hoàn Kiếm Lake, Đồng Xuân Market, and the cafés around Nhà Thờ Street and
+      St. Joseph's Cathedral are all within easy walking distance.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

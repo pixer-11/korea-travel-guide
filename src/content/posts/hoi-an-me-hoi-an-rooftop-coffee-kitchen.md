@@ -1,50 +1,95 @@
 ---
-title: "Mê Hội An Rooftop Coffee & Kitchen: Hoi An Travel Guide"
-description: "Mê Hội An Rooftop Coffee & Kitchen sits at 166 Trần Phú in the heart of Hoi An's Old Town, a short walk from the Japanese Covered Bridge, and is best visited"
-country: "Vietnam"
-region: "Hoi An"
-category: "trendy"
-pubDate: "2026-07-22T09:37:10.215Z"
+title: 'Mê Hội An Rooftop Coffee & Kitchen: Hoi An Travel Guide'
+description: >-
+  Mê Hội An Rooftop Coffee & Kitchen sits at 166 Trần Phú in the heart of Hoi
+  An's Old Town, a short walk from the Japanese Covered Bridge, and is best
+  visited
+country: Vietnam
+region: Hoi An
+category: trendy
+pubDate: '2026-07-22T09:37:10.215Z'
 heroImage:
-  url: "https://images.unsplash.com/photo-1595215909290-847cb783facf?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SG9pJTIwQW4lMjBWaWV0bmFtJTIwdHJlbmR5JTIwY2FmZXxlbnwwfDB8fHwxNzg0NzEyOTM2fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by buian_photos on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@buian_photos?utm_source=korea_travel_guide&utm_medium=referral"
+  url: >-
+    https://images.unsplash.com/photo-1595215909290-847cb783facf?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SG9pJTIwQW4lMjBWaWV0bmFtJTIwdHJlbmR5JTIwY2FmZXxlbnwwfDB8fHwxNzg0NzEyOTM2fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by buian_photos on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@buian_photos?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
-  id: "ChIJb_HrObEPQjER6_deT8uf0sY"
-  name: "Mê Hội An Rooftop Coffee & Kitchen"
-  address: "166 Trần Phú, Old Town, Hội An, Đà Nẵng 560000, Vietnam"
+  id: ChIJb_HrObEPQjER6_deT8uf0sY
+  name: Mê Hội An Rooftop Coffee & Kitchen
+  address: '166 Trần Phú, Old Town, Hội An, Đà Nẵng 560000, Vietnam'
   rating: 4.9
-  userRatingsTotal: 2472
-  googleMapsUrl: "https://maps.google.com/?cid=14326689060177770475&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2479
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14326689060177770475&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 15.8771366
   lng: 108.3269249
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [8, 9, 10, 22]
-    weekdayBusy: [17, 18, 19]
-    weekendQuiet: [8, 9, 10, 21, 22]
-    weekendBusy: [15, 16, 17, 18, 19]
-    venueId: 'ven_5973306675385465645f3652456a515045624f72485f624a496843'
+    weekdayQuiet:
+      - 8
+      - 9
+      - 10
+      - 22
+    weekdayBusy:
+      - 17
+      - 18
+      - 19
+    weekendQuiet:
+      - 8
+      - 9
+      - 10
+      - 21
+      - 22
+    weekendBusy:
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+    venueId: ven_5973306675385465645f3652456a515045624f72485f624a496843
+  priceLevel: 1
 tags:
-  - "hoi an"
-  - "trendy cafe"
-quickAnswer: "Mê Hội An Rooftop Coffee & Kitchen sits at 166 Trần Phú in the heart of Hoi An's Old Town, a short walk from the Japanese Covered Bridge, and is best visited in the late afternoon (around 4:30–6pm) to snag a rooftop table before sunset and the evening lantern glow. Come for the panoramic view over the terracotta rooftops of the ancient town, not for a rushed meal — budget 1–1.5 hours and expect a queue or a wait for the top-floor tables during peak season (Feb–Aug) and Hoi An's monthly full-moon Lantern Festival nights."
+  - hoi an
+  - trendy cafe
+quickAnswer: >-
+  Mê Hội An Rooftop Coffee & Kitchen sits at 166 Trần Phú in the heart of Hoi
+  An's Old Town, a short walk from the Japanese Covered Bridge, and is best
+  visited in the late afternoon (around 4:30–6pm) to snag a rooftop table before
+  sunset and the evening lantern glow. Come for the panoramic view over the
+  terracotta rooftops of the ancient town, not for a rushed meal — budget 1–1.5
+  hours and expect a queue or a wait for the top-floor tables during peak season
+  (Feb–Aug) and Hoi An's monthly full-moon Lantern Festival nights.
 faq:
-  - q: "Where exactly is Mê Hội An Rooftop Coffee & Kitchen?"
-    a: "At 166 Trần Phú, in the pedestrian core of Hoi An's Old Town, about a 5-10 minute walk from the Japanese Covered Bridge."
-  - q: "How do I get there if cars can't enter the Old Town?"
-    a: "Walk, cycle, or take a taxi/Grab to the nearest vehicle-access edge of the pedestrian zone, then walk the rest — most of Trần Phú restricts vehicle traffic during peak hours."
-  - q: "What's the best time to visit for the view?"
-    a: "Late afternoon around 4:30-6:30pm to catch daylight rooftop views transitioning into the evening lantern glow; early morning is a quieter alternative."
-  - q: "How long should I plan to stay?"
-    a: "About 1 to 1.5 hours is typical for coffee and photos, longer if you order food from the kitchen menu."
-  - q: "Do I need a ticket to enter the café?"
-    a: "No ticket is needed for the café itself, though nearby Old Town heritage houses and monuments require the separate Hoi An Ancient Town entrance ticket."
+  - q: Where exactly is Mê Hội An Rooftop Coffee & Kitchen?
+    a: >-
+      At 166 Trần Phú, in the pedestrian core of Hoi An's Old Town, about a 5-10
+      minute walk from the Japanese Covered Bridge.
+  - q: How do I get there if cars can't enter the Old Town?
+    a: >-
+      Walk, cycle, or take a taxi/Grab to the nearest vehicle-access edge of the
+      pedestrian zone, then walk the rest — most of Trần Phú restricts vehicle
+      traffic during peak hours.
+  - q: What's the best time to visit for the view?
+    a: >-
+      Late afternoon around 4:30-6:30pm to catch daylight rooftop views
+      transitioning into the evening lantern glow; early morning is a quieter
+      alternative.
+  - q: How long should I plan to stay?
+    a: >-
+      About 1 to 1.5 hours is typical for coffee and photos, longer if you order
+      food from the kitchen menu.
+  - q: Do I need a ticket to enter the café?
+    a: >-
+      No ticket is needed for the café itself, though nearby Old Town heritage
+      houses and monuments require the separate Hoi An Ancient Town entrance
+      ticket.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

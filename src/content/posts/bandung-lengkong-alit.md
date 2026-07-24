@@ -1,48 +1,88 @@
 ---
-title: "Lengkong Alit: Bandung Travel Guide"
-description: "Lengkong Alit is a low-key family restaurant on Jl. Lengkong Kecil in Bandung's Lengkong/Paledang district, a short taxi or ride-hail trip south of the city"
-country: "Indonesia"
-region: "Bandung"
-category: "hidden-gem"
-pubDate: "2026-07-23T07:20:13.111Z"
+title: 'Lengkong Alit: Bandung Travel Guide'
+description: >-
+  Lengkong Alit is a low-key family restaurant on Jl. Lengkong Kecil in
+  Bandung's Lengkong/Paledang district, a short taxi or ride-hail trip south of
+  the city
+country: Indonesia
+region: Bandung
+category: hidden-gem
+pubDate: '2026-07-23T07:20:13.111Z'
 heroImage:
-  url: "https://images.unsplash.com/photo-1744343934350-aadc3388ca82?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8QmFuZHVuZyUyMEluZG9uZXNpYSUyMGhpZGRlbiUyMGdlbXxlbnwwfDB8fHwxNzg0NzkxMTcwfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Abdul Ridwan on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@abdulridwanrr?utm_source=korea_travel_guide&utm_medium=referral"
+  url: >-
+    https://images.unsplash.com/photo-1744343934350-aadc3388ca82?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8QmFuZHVuZyUyMEluZG9uZXNpYSUyMGhpZGRlbiUyMGdlbXxlbnwwfDB8fHwxNzg0NzkxMTcwfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Abdul Ridwan on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@abdulridwanrr?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
-  id: "ChIJsTbVDkPnaC4RdrupjhRVC6E"
-  name: "Lengkong Alit"
-  address: "Jl. Lengkong Kecil No.60, Paledang, Kec. Lengkong, Kota Bandung, Jawa Barat 40261, Indonesia"
+  id: ChIJsTbVDkPnaC4RdrupjhRVC6E
+  name: Lengkong Alit
+  address: >-
+    Jl. Lengkong Kecil No.60, Paledang, Kec. Lengkong, Kota Bandung, Jawa Barat
+    40261, Indonesia
   rating: 4.7
   userRatingsTotal: 376
-  googleMapsUrl: "https://maps.google.com/?cid=11604462411631410038&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11604462411631410038&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -6.923756999999999
   lng: 107.61545149999999
   busyness:
     updated: '2026-07-23'
-    weekendQuiet: [13, 14, 15, 16]
-    weekendBusy: [11, 12, 20, 22]
-    venueId: 'ven_4536435652686a70757264523443616e506b44566254734a496843'
+    weekendQuiet:
+      - 13
+      - 14
+      - 15
+      - 16
+    weekendBusy:
+      - 11
+      - 12
+      - 20
+      - 22
+    venueId: ven_4536435652686a70757264523443616e506b44566254734a496843
+  priceLevel: 2
 tags:
-  - "bandung"
-  - "hidden gem"
-quickAnswer: "Lengkong Alit is a low-key family restaurant on Jl. Lengkong Kecil in Bandung's Lengkong/Paledang district, a short taxi or ride-hail trip south of the city center near Jl. Braga and the Bandung Kota train station area. It's best visited at lunch on a weekday, holds a strong 4.7 rating from 376 reviews, and is worth an hour to 90 minutes including a stroll around the surrounding kampung streets."
+  - bandung
+  - hidden gem
+quickAnswer: >-
+  Lengkong Alit is a low-key family restaurant on Jl. Lengkong Kecil in
+  Bandung's Lengkong/Paledang district, a short taxi or ride-hail trip south of
+  the city center near Jl. Braga and the Bandung Kota train station area. It's
+  best visited at lunch on a weekday, holds a strong 4.7 rating from 376
+  reviews, and is worth an hour to 90 minutes including a stroll around the
+  surrounding kampung streets.
 faq:
-  - q: "How do I get to Lengkong Alit without a car?"
-    a: "Use Gojek or Grab (Indonesia's main ride-hailing apps) — it's about 10-15 minutes from Bandung Kota station or the Braga district. The street is narrow and residential, so ask your driver to drop you nearby and walk the final stretch."
-  - q: "How much does a meal cost?"
-    a: "It's priced as a casual family restaurant, so expect mid-range, everyday Indonesian dining costs. Menu prices aren't fixed publicly and can change, so check on arrival rather than relying on older listings."
-  - q: "What's the best time to visit?"
-    a: "Weekday lunchtime is calmest and most true to how locals use the place. Weekend afternoons can be busier since nearby Braga and Alun-Alun Bandung draw domestic tourist foot traffic into the area."
-  - q: "How long should I plan to spend there?"
-    a: "About an hour for a relaxed meal. Many visitors combine it with a walk through Paledang/Lengkong and on to Braga Street, turning it into a half-day loop through central Bandung."
-  - q: "What else is nearby?"
-    a: "The colonial-era Braga heritage district, the Asia-Africa Conference Museum, and Alun-Alun Bandung (city square) with the Bandung Grand Mosque are all a short ride away."
+  - q: How do I get to Lengkong Alit without a car?
+    a: >-
+      Use Gojek or Grab (Indonesia's main ride-hailing apps) — it's about 10-15
+      minutes from Bandung Kota station or the Braga district. The street is
+      narrow and residential, so ask your driver to drop you nearby and walk the
+      final stretch.
+  - q: How much does a meal cost?
+    a: >-
+      It's priced as a casual family restaurant, so expect mid-range, everyday
+      Indonesian dining costs. Menu prices aren't fixed publicly and can change,
+      so check on arrival rather than relying on older listings.
+  - q: What's the best time to visit?
+    a: >-
+      Weekday lunchtime is calmest and most true to how locals use the place.
+      Weekend afternoons can be busier since nearby Braga and Alun-Alun Bandung
+      draw domestic tourist foot traffic into the area.
+  - q: How long should I plan to spend there?
+    a: >-
+      About an hour for a relaxed meal. Many visitors combine it with a walk
+      through Paledang/Lengkong and on to Braga Street, turning it into a
+      half-day loop through central Bandung.
+  - q: What else is nearby?
+    a: >-
+      The colonial-era Braga heritage district, the Asia-Africa Conference
+      Museum, and Alun-Alun Bandung (city square) with the Bandung Grand Mosque
+      are all a short ride away.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

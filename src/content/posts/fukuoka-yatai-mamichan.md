@@ -1,44 +1,71 @@
 ---
-title: "Yatai Mamichan: Where to Eat in Fukuoka"
-description: "Yatai Mamichan is a classic open-air food stall on Showa-dori in Tenjin, Fukuoka's Chuo Ward, known for grilled ox tongue and fluffy Japanese omelets"
-country: "Japan"
-region: "Fukuoka"
-category: "restaurant"
-pubDate: 2026-07-21
+title: 'Yatai Mamichan: Where to Eat in Fukuoka'
+description: >-
+  Yatai Mamichan is a classic open-air food stall on Showa-dori in Tenjin,
+  Fukuoka's Chuo Ward, known for grilled ox tongue and fluffy Japanese omelets
+country: Japan
+region: Fukuoka
+category: restaurant
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1752400844793-ba72ac5c1bff?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8RnVrdW9rYSUyMEphcGFuJTIwRnVrdW9rYSUyMFlhdGFpJTIwRm9vZCUyMFN0YWxsc3xlbnwwfDB8fHwxNzg0NjIyMzQ1fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Wkndr on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@wkndrr?utm_source=korea_travel_guide&utm_medium=referral"
+  url: >-
+    https://images.unsplash.com/photo-1752400844793-ba72ac5c1bff?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8RnVrdW9rYSUyMEphcGFuJTIwRnVrdW9rYSUyMFlhdGFpJTIwRm9vZCUyMFN0YWxsc3xlbnwwfDB8fHwxNzg0NjIyMzQ1fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Wkndr on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@wkndrr?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
-  id: "ChIJo-IIvI-RQTUR04hr5CDJZNo"
-  name: "Yatai Mamichan"
-  address: "Japan, 〒810-0001 Fukuoka, Chuo Ward, Tenjin, 2-chōme−13−１ 昭和通り側"
+  id: ChIJo-IIvI-RQTUR04hr5CDJZNo
+  name: Yatai Mamichan
+  address: 'Japan, 〒810-0001 Fukuoka, Chuo Ward, Tenjin, 2-chōme−13−１ 昭和通り側'
   rating: 4.2
-  userRatingsTotal: 627
-  priceLevel: 1
-  googleMapsUrl: "https://maps.google.com/?cid=15736924141047744723&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 628
+  priceLevel: 2
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15736924141047744723&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 33.5920555
   lng: 130.39774269999998
 tags:
-  - "fukuoka"
-  - "Fukuoka Yatai Food Stalls"
-quickAnswer: "Yatai Mamichan is a classic open-air food stall on Showa-dori in Tenjin, Fukuoka's Chuo Ward, known for grilled ox tongue and fluffy Japanese omelets alongside ramen and yakitori. Expect counter-only seating for a dozen or so people, cash-friendly low prices, and a lively, elbow-to-elbow atmosphere best enjoyed after 7pm. It's a short walk from Tenjin Station, making it an easy add-on to a night exploring Fukuoka's famous yatai culture."
+  - fukuoka
+  - Fukuoka Yatai Food Stalls
+quickAnswer: >-
+  Yatai Mamichan is a classic open-air food stall on Showa-dori in Tenjin,
+  Fukuoka's Chuo Ward, known for grilled ox tongue and fluffy Japanese omelets
+  alongside ramen and yakitori. Expect counter-only seating for a dozen or so
+  people, cash-friendly low prices, and a lively, elbow-to-elbow atmosphere best
+  enjoyed after 7pm. It's a short walk from Tenjin Station, making it an easy
+  add-on to a night exploring Fukuoka's famous yatai culture.
 faq:
-  - q: "How do I get to Yatai Mamichan?"
-    a: "It's in Tenjin 2-chome on Showa-dori, about a 5–7 minute walk from Tenjin Station on the Fukuoka City Subway Kuko (Airport) Line. Nishitetsu Fukuoka (Tenjin) Station is also nearby."
-  - q: "What should I order?"
-    a: "Start with the ox tongue (gyutan) and the Japanese-style omelet — both are house specialties. Round it out with ramen, yakitori skewers, or oden from the broader yatai menu."
-  - q: "What time is it open?"
-    a: "Like most yatai, Mamichan sets up outdoors in the early evening, generally from around 6–7pm, and closes late. It's not open for lunch, and hours can shift seasonally, so treat evening arrival as the safe bet."
-  - q: "How much does a meal cost?"
-    a: "Yatai dishes are typically priced per item at a few hundred yen each, making it one of the more affordable dining formats in Fukuoka. Cash is strongly recommended since card acceptance is limited."
-  - q: "What's nearby if I want to keep exploring?"
-    a: "Mamichan is part of Tenjin's yatai row, so you can walk to other stalls along Showa-dori. The Tenjin Underground Mall and Tenjin Chuo Park are also within a few minutes on foot."
+  - q: How do I get to Yatai Mamichan?
+    a: >-
+      It's in Tenjin 2-chome on Showa-dori, about a 5–7 minute walk from Tenjin
+      Station on the Fukuoka City Subway Kuko (Airport) Line. Nishitetsu Fukuoka
+      (Tenjin) Station is also nearby.
+  - q: What should I order?
+    a: >-
+      Start with the ox tongue (gyutan) and the Japanese-style omelet — both are
+      house specialties. Round it out with ramen, yakitori skewers, or oden from
+      the broader yatai menu.
+  - q: What time is it open?
+    a: >-
+      Like most yatai, Mamichan sets up outdoors in the early evening, generally
+      from around 6–7pm, and closes late. It's not open for lunch, and hours can
+      shift seasonally, so treat evening arrival as the safe bet.
+  - q: How much does a meal cost?
+    a: >-
+      Yatai dishes are typically priced per item at a few hundred yen each,
+      making it one of the more affordable dining formats in Fukuoka. Cash is
+      strongly recommended since card acceptance is limited.
+  - q: What's nearby if I want to keep exploring?
+    a: >-
+      Mamichan is part of Tenjin's yatai row, so you can walk to other stalls
+      along Showa-dori. The Tenjin Underground Mall and Tenjin Chuo Park are
+      also within a few minutes on foot.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

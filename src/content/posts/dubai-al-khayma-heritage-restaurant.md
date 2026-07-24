@@ -1,51 +1,94 @@
 ---
-title: "Al Khayma Heritage Restaurant: Where to Eat in Dubai"
-description: "Al Khayma Heritage Restaurant sits in the Al Fahidi Historical Neighbourhood near Al Souq Al Kabeer, serving Emirati classics like machboos, harees, and"
-country: "United Arab Emirates"
-region: "Dubai"
-category: "restaurant"
-pubDate: "2026-07-23T07:49:39.145Z"
+title: 'Al Khayma Heritage Restaurant: Where to Eat in Dubai'
+description: >-
+  Al Khayma Heritage Restaurant sits in the Al Fahidi Historical Neighbourhood
+  near Al Souq Al Kabeer, serving Emirati classics like machboos, harees, and
+country: United Arab Emirates
+region: Dubai
+category: restaurant
+pubDate: '2026-07-23T07:49:39.145Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/A_car_on_Dubai_Dune_bashing.jpg/1920px-A_car_on_Dubai_Dune_bashing.jpg"
-  credit: "Photo: iMahesh / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:A_car_on_Dubai_Dune_bashing.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/A_car_on_Dubai_Dune_bashing.jpg/1920px-A_car_on_Dubai_Dune_bashing.jpg
+  credit: 'Photo: iMahesh / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:A_car_on_Dubai_Dune_bashing.jpg'
 gallery: []
 place:
-  id: "ChIJl6Wlj3JDXz4RiuVGW1AttdY"
-  name: "Al Khayma Heritage Restaurant | مطعم الخيمة التراثي"
-  address: "Historical Neighbourhood - 79 Al Mussallah Rd - Al Souq Al Kabeer - Al Fahidi - Dubai - United Arab Emirates"
+  id: ChIJl6Wlj3JDXz4RiuVGW1AttdY
+  name: Al Khayma Heritage Restaurant | مطعم الخيمة التراثي
+  address: >-
+    Historical Neighbourhood - 79 Al Mussallah Rd - Al Souq Al Kabeer - Al
+    Fahidi - Dubai - United Arab Emirates
   rating: 4.9
-  userRatingsTotal: 17787
+  userRatingsTotal: 17801
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=15471321918053213578&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15471321918053213578&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.2637706
   lng: 55.3007685
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [8, 9, 10, 11]
-    weekdayBusy: [20, 21]
-    weekendQuiet: [8, 9, 10]
-    weekendBusy: [13, 14, 15, 16, 19, 20, 21, 22]
-    venueId: 'ven_596474744131574756756952347a58444a336a6c57366c4a496843'
+    weekdayQuiet:
+      - 8
+      - 9
+      - 10
+      - 11
+    weekdayBusy:
+      - 20
+      - 21
+    weekendQuiet:
+      - 8
+      - 9
+      - 10
+    weekendBusy:
+      - 13
+      - 14
+      - 15
+      - 16
+      - 19
+      - 20
+      - 21
+      - 22
+    venueId: ven_596474744131574756756952347a58444a336a6c57366c4a496843
 tags:
-  - "dubai"
-  - "local restaurant"
-quickAnswer: "Al Khayma Heritage Restaurant sits in the Al Fahidi Historical Neighbourhood near Al Souq Al Kabeer, serving Emirati classics like machboos, harees, and luqaimat in a Bedouin-tent-style courtyard. It's a very-popular, well-reviewed spot (4.9 rating, nearly 18,000 reviews) at mid-range prices, so arrive early or book ahead, especially at dinner. Budget 60-90 minutes and pair it with a walk through the Al Fahidi lanes or the Dubai Museum at Al Fahidi Fort nearby."
+  - dubai
+  - local restaurant
+quickAnswer: >-
+  Al Khayma Heritage Restaurant sits in the Al Fahidi Historical Neighbourhood
+  near Al Souq Al Kabeer, serving Emirati classics like machboos, harees, and
+  luqaimat in a Bedouin-tent-style courtyard. It's a very-popular, well-reviewed
+  spot (4.9 rating, nearly 18,000 reviews) at mid-range prices, so arrive early
+  or book ahead, especially at dinner. Budget 60-90 minutes and pair it with a
+  walk through the Al Fahidi lanes or the Dubai Museum at Al Fahidi Fort nearby.
 faq:
-  - q: "How do I get to Al Khayma Heritage Restaurant without a car?"
-    a: "Take the Dubai Metro Green Line to Al Fahidi Station, then walk about 10-15 minutes through the Al Fahidi Historical Neighbourhood, or cross via abra ferry from Deira to a Bur Dubai dock nearby."
-  - q: "Is it expensive?"
-    a: "It's mid-range (price level 2 out of 4) — pricier than a casual cafe but well below fine-dining, reflecting its home-style Emirati menu and setting."
-  - q: "Do I need a reservation?"
-    a: "It's very popular with nearly 18,000 reviews, so booking ahead or arriving at opening for lunch is strongly recommended, especially for dinner."
-  - q: "How long should I plan to stay?"
-    a: "Budget 60-90 minutes for a full meal in the courtyard setting; longer if you're dining as a group with communal platters."
-  - q: "What's the best time of year or day to visit?"
-    a: "October through April is more comfortable for the courtyard seating; within the day, lunch or early evening tends to be calmer than peak dinner hours."
+  - q: How do I get to Al Khayma Heritage Restaurant without a car?
+    a: >-
+      Take the Dubai Metro Green Line to Al Fahidi Station, then walk about
+      10-15 minutes through the Al Fahidi Historical Neighbourhood, or cross via
+      abra ferry from Deira to a Bur Dubai dock nearby.
+  - q: Is it expensive?
+    a: >-
+      It's mid-range (price level 2 out of 4) — pricier than a casual cafe but
+      well below fine-dining, reflecting its home-style Emirati menu and
+      setting.
+  - q: Do I need a reservation?
+    a: >-
+      It's very popular with nearly 18,000 reviews, so booking ahead or arriving
+      at opening for lunch is strongly recommended, especially for dinner.
+  - q: How long should I plan to stay?
+    a: >-
+      Budget 60-90 minutes for a full meal in the courtyard setting; longer if
+      you're dining as a group with communal platters.
+  - q: What's the best time of year or day to visit?
+    a: >-
+      October through April is more comfortable for the courtyard seating;
+      within the day, lunch or early evening tends to be calmer than peak dinner
+      hours.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

@@ -1,50 +1,97 @@
 ---
-title: "Atomic Bomb Dome: Hiroshima Travel Guide"
-description: "The Atomic Bomb Dome sits on the bank of the Motoyasu River in Naka Ward, a two-minute walk from Peace Memorial Park — go early morning or just before sunset"
-country: "Japan"
-region: "Hiroshima"
-category: "hidden-gem"
-pubDate: 2026-07-21
+title: 'Atomic Bomb Dome: Hiroshima Travel Guide'
+description: >-
+  The Atomic Bomb Dome sits on the bank of the Motoyasu River in Naka Ward, a
+  two-minute walk from Peace Memorial Park — go early morning or just before
+  sunset
+country: Japan
+region: Hiroshima
+category: hidden-gem
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Atomic_Bomb_Dome%2C_Hiroshima%2C_South_view_20190417_1.jpg/1920px-Atomic_Bomb_Dome%2C_Hiroshima%2C_South_view_20190417_1.jpg"
-  credit: "Photo: DXR / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Atomic_Bomb_Dome,_Hiroshima,_South_view_20190417_1.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Atomic_Bomb_Dome%2C_Hiroshima%2C_South_view_20190417_1.jpg/1920px-Atomic_Bomb_Dome%2C_Hiroshima%2C_South_view_20190417_1.jpg
+  credit: 'Photo: DXR / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Atomic_Bomb_Dome,_Hiroshima,_South_view_20190417_1.jpg
 gallery: []
 place:
-  id: "ChIJqYAn2wyiWjURlsDG4Hpn5jQ"
-  name: "Atomic Bomb Dome"
-  address: "1-chōme-1-10 Ōtemachi, Naka Ward, Hiroshima, 730-0051, Japan"
+  id: ChIJqYAn2wyiWjURlsDG4Hpn5jQ
+  name: Atomic Bomb Dome
+  address: '1-chōme-1-10 Ōtemachi, Naka Ward, Hiroshima, 730-0051, Japan'
   rating: 4.7
-  userRatingsTotal: 34249
-  googleMapsUrl: "https://maps.google.com/?cid=3811847912070496406&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 34264
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3811847912070496406&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.395483
   lng: 132.453592
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [7, 21, 22]
-    weekdayBusy: [10, 11, 12, 13, 14, 15, 16, 17]
-    weekendQuiet: [7, 22]
-    weekendBusy: [9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
-    venueId: 'ven_516a356e7048344744736c52556a57697977326e4159714a496843'
+    weekdayQuiet:
+      - 7
+      - 21
+      - 22
+    weekdayBusy:
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+    weekendQuiet:
+      - 7
+      - 22
+    weekendBusy:
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+    venueId: ven_516a356e7048344744736c52556a57697977326e4159714a496843
 tags:
-  - "hiroshima"
-  - "hidden gem"
-quickAnswer: "The Atomic Bomb Dome sits on the bank of the Motoyasu River in Naka Ward, a two-minute walk from Peace Memorial Park — go early morning or just before sunset for the smallest crowds and best light. It's free to view from outside (there's no interior access), and most visitors spend 15-30 minutes at the Dome itself before continuing into the Park and Peace Memorial Museum. Nearest stop is the Genbaku Dome-mae tram stop, right across the river."
+  - hiroshima
+  - hidden gem
+quickAnswer: >-
+  The Atomic Bomb Dome sits on the bank of the Motoyasu River in Naka Ward, a
+  two-minute walk from Peace Memorial Park — go early morning or just before
+  sunset for the smallest crowds and best light. It's free to view from outside
+  (there's no interior access), and most visitors spend 15-30 minutes at the
+  Dome itself before continuing into the Park and Peace Memorial Museum. Nearest
+  stop is the Genbaku Dome-mae tram stop, right across the river.
 faq:
-  - q: "Can you go inside the Atomic Bomb Dome?"
-    a: "No. The structure is fenced off and viewed only from the surrounding path and the opposite riverbank; entry is prohibited to preserve the ruin."
-  - q: "How do I get to the Atomic Bomb Dome?"
-    a: "Take a Hiroshima tram to the Genbaku Dome-mae stop, directly across the Motoyasu River from the site, or walk 5 minutes from Peace Memorial Park."
-  - q: "Is there an entrance fee?"
-    a: "No, viewing the Dome from outside is free. The nearby Peace Memorial Museum charges a small admission fee, which is worth checking online before your visit."
-  - q: "How much time should I plan for a visit?"
-    a: "15-30 minutes at the Dome itself; add 1-2 hours if combining it with the Peace Memorial Museum and a walk through Peace Memorial Park."
-  - q: "What's the best time of day to visit?"
-    a: "Early morning or the hour before sunset for fewer crowds and better light; the Dome is also illuminated at night for atmospheric evening viewing."
+  - q: Can you go inside the Atomic Bomb Dome?
+    a: >-
+      No. The structure is fenced off and viewed only from the surrounding path
+      and the opposite riverbank; entry is prohibited to preserve the ruin.
+  - q: How do I get to the Atomic Bomb Dome?
+    a: >-
+      Take a Hiroshima tram to the Genbaku Dome-mae stop, directly across the
+      Motoyasu River from the site, or walk 5 minutes from Peace Memorial Park.
+  - q: Is there an entrance fee?
+    a: >-
+      No, viewing the Dome from outside is free. The nearby Peace Memorial
+      Museum charges a small admission fee, which is worth checking online
+      before your visit.
+  - q: How much time should I plan for a visit?
+    a: >-
+      15-30 minutes at the Dome itself; add 1-2 hours if combining it with the
+      Peace Memorial Museum and a walk through Peace Memorial Park.
+  - q: What's the best time of day to visit?
+    a: >-
+      Early morning or the hour before sunset for fewer crowds and better light;
+      the Dome is also illuminated at night for atmospheric evening viewing.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

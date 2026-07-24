@@ -1,51 +1,88 @@
 ---
-title: "GYUKATSU Kyoto Katsugyu Kyoto Ekimae: Where to Eat"
-description: "GYUKATSU Kyoto Katsugyu Kyoto Ekimae is a breaded, deep-fried beef cutlet (gyukatsu) specialist steps from Kyoto Station, best eaten for lunch when queues"
-country: "Japan"
-region: "Kyoto"
-category: "restaurant"
-pubDate: 2026-07-21
+title: 'GYUKATSU Kyoto Katsugyu Kyoto Ekimae: Where to Eat'
+description: >-
+  GYUKATSU Kyoto Katsugyu Kyoto Ekimae is a breaded, deep-fried beef cutlet
+  (gyukatsu) specialist steps from Kyoto Station, best eaten for lunch when
+  queues
+country: Japan
+region: Kyoto
+category: restaurant
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Chung_Ching_%26_Kyoto_%28%E4%B8%AD%E8%88%88%29%2C_Hillegersberg%2C_Rotterdam_%282021%29_08.jpg/1920px-Chung_Ching_%26_Kyoto_%28%E4%B8%AD%E8%88%88%29%2C_Hillegersberg%2C_Rotterdam_%282021%29_08.jpg"
-  credit: "Photo: Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International.(Want to use this image?)Original publication 📤: --Donald Trung 『徵國單』 (No Fake News 💬) (WikiProject Numismatics 💴) (Articles 📚) 22:24, 21 November 2021 (UTC) / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Chung_Ching_%26_Kyoto_(%E4%B8%AD%E8%88%88),_Hillegersberg,_Rotterdam_(2021)_08.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Chung_Ching_%26_Kyoto_%28%E4%B8%AD%E8%88%88%29%2C_Hillegersberg%2C_Rotterdam_%282021%29_08.jpg/1920px-Chung_Ching_%26_Kyoto_%28%E4%B8%AD%E8%88%88%29%2C_Hillegersberg%2C_Rotterdam_%282021%29_08.jpg
+  credit: "Photo: Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International.(Want to use this image?)Original publication \U0001F4E4: --Donald Trung 『徵國單』 (No Fake News \U0001F4AC) (WikiProject Numismatics \U0001F4B4) (Articles \U0001F4DA) 22:24, 21 November 2021 (UTC) / Wikimedia Commons (CC BY-SA 4.0)"
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Chung_Ching_%26_Kyoto_(%E4%B8%AD%E8%88%88),_Hillegersberg,_Rotterdam_(2021)_08.jpg
 gallery: []
 place:
-  id: "ChIJ8-EJ8q8IAWAR2uveIY6clUg"
-  name: "GYUKATSU Kyoto Katsugyu Kyoto Ekimae"
-  address: "211 Maoyachō, Shimogyo Ward, Kyoto, 600-8211, Japan"
+  id: ChIJ8-EJ8q8IAWAR2uveIY6clUg
+  name: GYUKATSU Kyoto Katsugyu Kyoto Ekimae
+  address: '211 Maoyachō, Shimogyo Ward, Kyoto, 600-8211, Japan'
   rating: 4.7
-  userRatingsTotal: 17096
+  userRatingsTotal: 17157
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=5230258676528245722&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5230258676528245722&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.9893363
   lng: 135.7606275
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [10, 22]
-    weekdayBusy: [18, 19, 20]
-    weekendQuiet: [10, 22]
-    weekendBusy: [18, 19, 20]
-    venueId: 'ven_67556c633659496576753252415741493871384a452d384a496843'
+    weekdayQuiet:
+      - 10
+      - 22
+    weekdayBusy:
+      - 18
+      - 19
+      - 20
+    weekendQuiet:
+      - 10
+      - 22
+    weekendBusy:
+      - 18
+      - 19
+      - 20
+    venueId: ven_67556c633659496576753252415741493871384a452d384a496843
 tags:
-  - "kyoto"
-  - "local restaurant"
-quickAnswer: "GYUKATSU Kyoto Katsugyu Kyoto Ekimae is a breaded, deep-fried beef cutlet (gyukatsu) specialist steps from Kyoto Station, best eaten for lunch when queues are shorter. Order the set menu, cook your slices on the individual tabletop stone to your preferred doneness, and expect to spend roughly ¥1,500–¥2,500 for a satisfying meal (Google's price level 2). Budget 15–30 minutes of wait outside peak lunch or dinner rush."
+  - kyoto
+  - local restaurant
+quickAnswer: >-
+  GYUKATSU Kyoto Katsugyu Kyoto Ekimae is a breaded, deep-fried beef cutlet
+  (gyukatsu) specialist steps from Kyoto Station, best eaten for lunch when
+  queues are shorter. Order the set menu, cook your slices on the individual
+  tabletop stone to your preferred doneness, and expect to spend roughly
+  ¥1,500–¥2,500 for a satisfying meal (Google's price level 2). Budget 15–30
+  minutes of wait outside peak lunch or dinner rush.
 faq:
-  - q: "How do I get to GYUKATSU Kyoto Katsugyu Kyoto Ekimae?"
-    a: "It's in Maoyachō, Shimogyo Ward, an easy walk from Kyoto Station's central/north exits — reachable via JR lines, the Karasuma subway line, or the city bus terminal at the station."
-  - q: "How much does a meal cost?"
-    a: "Google lists it at price level 2 (moderate); expect roughly ¥1,500–¥2,500 per person for a standard gyukatsu set with rice, miso soup, and cabbage."
-  - q: "How long does a meal take, including waiting?"
-    a: "Plan for 45–75 minutes total: 15–30 minutes waiting during peak lunch (12:00–13:30) or dinner (18:30–20:00), plus 30-40 minutes to eat and sear the beef at your own pace."
-  - q: "What should I order?"
-    a: "Start with the standard gyukatsu set (teishoku), which includes rice, miso soup, and cabbage; try the beef with the soy-based tare, wasabi, and salt before deciding on one sauce."
-  - q: "What's nearby if I have extra time?"
-    a: "Kyoto Tower, Higashi Hongan-ji temple, and Isetan's basement food hall are all within a 10–15 minute walk, making it easy to combine the meal with light sightseeing near the station."
+  - q: How do I get to GYUKATSU Kyoto Katsugyu Kyoto Ekimae?
+    a: >-
+      It's in Maoyachō, Shimogyo Ward, an easy walk from Kyoto Station's
+      central/north exits — reachable via JR lines, the Karasuma subway line, or
+      the city bus terminal at the station.
+  - q: How much does a meal cost?
+    a: >-
+      Google lists it at price level 2 (moderate); expect roughly ¥1,500–¥2,500
+      per person for a standard gyukatsu set with rice, miso soup, and cabbage.
+  - q: 'How long does a meal take, including waiting?'
+    a: >-
+      Plan for 45–75 minutes total: 15–30 minutes waiting during peak lunch
+      (12:00–13:30) or dinner (18:30–20:00), plus 30-40 minutes to eat and sear
+      the beef at your own pace.
+  - q: What should I order?
+    a: >-
+      Start with the standard gyukatsu set (teishoku), which includes rice, miso
+      soup, and cabbage; try the beef with the soy-based tare, wasabi, and salt
+      before deciding on one sauce.
+  - q: What's nearby if I have extra time?
+    a: >-
+      Kyoto Tower, Higashi Hongan-ji temple, and Isetan's basement food hall are
+      all within a 10–15 minute walk, making it easy to combine the meal with
+      light sightseeing near the station.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

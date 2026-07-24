@@ -1,43 +1,73 @@
 ---
-title: "Third Street: Where to Eat in Abu Dhabi"
-description: "Third Street is a food court in Mohamed Bin Zayed City (MBZ City), Zone Z4, well south of central Abu Dhabi's tourist corridor — worth the detour if you want"
-country: "United Arab Emirates"
-region: "Abu Dhabi"
-category: "restaurant"
-pubDate: "2026-07-23T07:59:34.206Z"
+title: 'Third Street: Where to Eat in Abu Dhabi'
+description: >-
+  Third Street is a food court in Mohamed Bin Zayed City (MBZ City), Zone Z4,
+  well south of central Abu Dhabi's tourist corridor — worth the detour if you
+  want
+country: United Arab Emirates
+region: Abu Dhabi
+category: restaurant
+pubDate: '2026-07-23T07:59:34.206Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Crosswalk_of_Market_at_Third%2C_San_Francisco.jpg/1920px-Crosswalk_of_Market_at_Third%2C_San_Francisco.jpg"
-  credit: "Photo: Dllu / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Crosswalk_of_Market_at_Third,_San_Francisco.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Crosswalk_of_Market_at_Third%2C_San_Francisco.jpg/1920px-Crosswalk_of_Market_at_Third%2C_San_Francisco.jpg
+  credit: 'Photo: Dllu / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Crosswalk_of_Market_at_Third,_San_Francisco.jpg
 gallery: []
 place:
-  id: "ChIJRdf9AgBHXj4RvsnTze9Qc6c"
-  name: "Third Street"
-  address: "9H85+4Q9 - Mohamed Bin Zayed City - Z4 - Abu Dhabi - United Arab Emirates"
+  id: ChIJRdf9AgBHXj4RvsnTze9Qc6c
+  name: Third Street
+  address: 9H85+4Q9 - Mohamed Bin Zayed City - Z4 - Abu Dhabi - United Arab Emirates
   rating: 4.7
   userRatingsTotal: 104
-  googleMapsUrl: "https://maps.google.com/?cid=12066076817536305598&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12066076817536305598&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 24.363910699999998
   lng: 54.5603602
+  priceLevel: 2
 tags:
-  - "abu dhabi"
-  - "street food"
-quickAnswer: "Third Street is a food court in Mohamed Bin Zayed City (MBZ City), Zone Z4, well south of central Abu Dhabi's tourist corridor — worth the detour if you want an honest, unfussy cross-section of the neighborhood's everyday food culture rather than a marina-view restaurant. It holds a strong 4.7 rating from just over 100 reviews, a sign of a small but genuinely satisfied local following. Go hungry, go with cash and small change on hand, and plan on grazing across a few stalls rather than sitting down to one big meal."
+  - abu dhabi
+  - street food
+quickAnswer: >-
+  Third Street is a food court in Mohamed Bin Zayed City (MBZ City), Zone Z4,
+  well south of central Abu Dhabi's tourist corridor — worth the detour if you
+  want an honest, unfussy cross-section of the neighborhood's everyday food
+  culture rather than a marina-view restaurant. It holds a strong 4.7 rating
+  from just over 100 reviews, a sign of a small but genuinely satisfied local
+  following. Go hungry, go with cash and small change on hand, and plan on
+  grazing across a few stalls rather than sitting down to one big meal.
 faq:
-  - q: "How do I get to Third Street food court from central Abu Dhabi?"
-    a: "It's about a 25–30 minute drive from the Corniche or Al Maryah Island. Use a taxi or ride-hail app and search the plus-code address (9H85+4Q9, Mohamed Bin Zayed City, Z4) since street numbering follows a grid system."
-  - q: "What kind of food is served at Third Street?"
-    a: "It's a food court with multiple independent stalls, typically covering South Asian, Filipino, and Arabic cuisines alongside fast-food options — expect variety rather than a single set menu."
-  - q: "Is Third Street busy or a hidden find?"
-    a: "It's under the radar, with a small but strongly positive review base (4.7 from about 100 reviews). It's not overrun with visitors, so there's no need to arrive at opening to beat crowds."
-  - q: "How much should I budget and how do I pay?"
-    a: "Food courts like this are generally affordable, with each stall pricing and taking payment independently. Carry cash in small dirham denominations, though some counters may accept cards."
-  - q: "How long should I plan to spend there?"
-    a: "An hour to 90 minutes is enough to sample a few stalls. Early evening (around 7–9pm) tends to have the fullest range of dishes available and the liveliest atmosphere."
+  - q: How do I get to Third Street food court from central Abu Dhabi?
+    a: >-
+      It's about a 25–30 minute drive from the Corniche or Al Maryah Island. Use
+      a taxi or ride-hail app and search the plus-code address (9H85+4Q9,
+      Mohamed Bin Zayed City, Z4) since street numbering follows a grid system.
+  - q: What kind of food is served at Third Street?
+    a: >-
+      It's a food court with multiple independent stalls, typically covering
+      South Asian, Filipino, and Arabic cuisines alongside fast-food options —
+      expect variety rather than a single set menu.
+  - q: Is Third Street busy or a hidden find?
+    a: >-
+      It's under the radar, with a small but strongly positive review base (4.7
+      from about 100 reviews). It's not overrun with visitors, so there's no
+      need to arrive at opening to beat crowds.
+  - q: How much should I budget and how do I pay?
+    a: >-
+      Food courts like this are generally affordable, with each stall pricing
+      and taking payment independently. Carry cash in small dirham
+      denominations, though some counters may accept cards.
+  - q: How long should I plan to spend there?
+    a: >-
+      An hour to 90 minutes is enough to sample a few stalls. Early evening
+      (around 7–9pm) tends to have the fullest range of dishes available and the
+      liveliest atmosphere.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

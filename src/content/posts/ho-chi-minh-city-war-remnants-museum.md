@@ -1,49 +1,89 @@
 ---
-title: "War Remnants Museum: Ho Chi Minh City Travel Guide"
-description: "The War Remnants Museum sits at 28 Vo Van Tan Street in District 3, a short walk or taxi ride from Reunification Palace and about 10–15 minutes from the Ben"
-country: "Vietnam"
-region: "Ho Chi Minh City"
-category: "attraction"
-pubDate: "2026-07-22T09:26:54.162Z"
+title: 'War Remnants Museum: Ho Chi Minh City Travel Guide'
+description: >-
+  The War Remnants Museum sits at 28 Vo Van Tan Street in District 3, a short
+  walk or taxi ride from Reunification Palace and about 10–15 minutes from the
+  Ben
+country: Vietnam
+region: Ho Chi Minh City
+category: attraction
+pubDate: '2026-07-22T09:26:54.162Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ho_Chi_Minh_City%2C_Vietnam%2C_War_Remnants_Museum.jpg/1920px-Ho_Chi_Minh_City%2C_Vietnam%2C_War_Remnants_Museum.jpg"
-  credit: "Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Ho_Chi_Minh_City,_Vietnam,_War_Remnants_Museum.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ho_Chi_Minh_City%2C_Vietnam%2C_War_Remnants_Museum.jpg/1920px-Ho_Chi_Minh_City%2C_Vietnam%2C_War_Remnants_Museum.jpg
+  credit: 'Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Ho_Chi_Minh_City,_Vietnam,_War_Remnants_Museum.jpg
 gallery: []
 place:
-  id: "ChIJzwg3ojAvdTERqnQUK99K2Xw"
-  name: "War Remnants Museum"
-  address: "Phường 6, Quận 3, Hồ Chí Minh 700000, Vietnam"
+  id: ChIJzwg3ojAvdTERqnQUK99K2Xw
+  name: War Remnants Museum
+  address: 'Phường 6, Quận 3, Hồ Chí Minh 700000, Vietnam'
   rating: 4.5
-  userRatingsTotal: 40854
-  googleMapsUrl: "https://maps.google.com/?cid=8996304053010199722&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 40857
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8996304053010199722&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 10.7795106
   lng: 106.6920916
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [7, 8, 17]
-    weekendQuiet: [7, 8, 17]
-    weekendBusy: [10, 11, 12, 13, 14, 15]
-    venueId: 'ven_7758324b39394b55516e715245546476416a6f3367777a4a496843'
+    weekdayQuiet:
+      - 7
+      - 8
+      - 17
+    weekendQuiet:
+      - 7
+      - 8
+      - 17
+    weekendBusy:
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+    venueId: ven_7758324b39394b55516e715245546476416a6f3367777a4a496843
 tags:
-  - "ho chi minh city"
-  - "top attraction"
-quickAnswer: "The War Remnants Museum sits at 28 Vo Van Tan Street in District 3, a short walk or taxi ride from Reunification Palace and about 10–15 minutes from the Ben Thanh Market area. Budget 1.5–2.5 hours to see the outdoor military hardware and the indoor photography galleries, which are graphic and emotionally heavy. Go early on a weekday morning to avoid tour-bus crowds and the worst of the midday heat."
+  - ho chi minh city
+  - top attraction
+quickAnswer: >-
+  The War Remnants Museum sits at 28 Vo Van Tan Street in District 3, a short
+  walk or taxi ride from Reunification Palace and about 10–15 minutes from the
+  Ben Thanh Market area. Budget 1.5–2.5 hours to see the outdoor military
+  hardware and the indoor photography galleries, which are graphic and
+  emotionally heavy. Go early on a weekday morning to avoid tour-bus crowds and
+  the worst of the midday heat.
 faq:
-  - q: "How much time should I budget for the War Remnants Museum?"
-    a: "Plan on 1.5–2 hours for a focused visit, or up to 3 hours if you read most of the photo captions and see both the outdoor military vehicle courtyard and all indoor floors."
-  - q: "How do I get to the War Remnants Museum from central Saigon?"
-    a: "It's at 28 Vo Van Tan Street, District 3, about a 10-minute walk from Reunification Palace or a 10–15 minute Grab/taxi ride from Ben Thanh Market; there's no direct metro station yet."
-  - q: "Is the museum appropriate for children?"
-    a: "Several galleries, especially the Agent Orange exhibit and war photography sections, contain graphic images of casualties and deformities, so it's generally not recommended for young children."
-  - q: "What's the best time of day to visit?"
-    a: "Weekday mornings shortly after opening are quietest and cooler, before tour groups arrive and before the midday heat makes the outdoor courtyard uncomfortable."
-  - q: "What else is nearby to combine with this visit?"
-    a: "Reunification Palace, Notre-Dame Cathedral Saigon, and the Central Post Office are all within walking distance, making a natural half-day historical walking loop."
+  - q: How much time should I budget for the War Remnants Museum?
+    a: >-
+      Plan on 1.5–2 hours for a focused visit, or up to 3 hours if you read most
+      of the photo captions and see both the outdoor military vehicle courtyard
+      and all indoor floors.
+  - q: How do I get to the War Remnants Museum from central Saigon?
+    a: >-
+      It's at 28 Vo Van Tan Street, District 3, about a 10-minute walk from
+      Reunification Palace or a 10–15 minute Grab/taxi ride from Ben Thanh
+      Market; there's no direct metro station yet.
+  - q: Is the museum appropriate for children?
+    a: >-
+      Several galleries, especially the Agent Orange exhibit and war photography
+      sections, contain graphic images of casualties and deformities, so it's
+      generally not recommended for young children.
+  - q: What's the best time of day to visit?
+    a: >-
+      Weekday mornings shortly after opening are quietest and cooler, before
+      tour groups arrive and before the midday heat makes the outdoor courtyard
+      uncomfortable.
+  - q: What else is nearby to combine with this visit?
+    a: >-
+      Reunification Palace, Notre-Dame Cathedral Saigon, and the Central Post
+      Office are all within walking distance, making a natural half-day
+      historical walking loop.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

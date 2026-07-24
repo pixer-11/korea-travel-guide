@@ -1,51 +1,95 @@
 ---
-title: "Al Fanar Restaurant & Cafe: Where to Eat in Al Ain"
-description: "Al Fanar Restaurant & Cafe in Souq Al Zafarana (Al Jimi, Al Ain) is a long-running Emirati/Gulf-style eatery known for machboos, harees, and slow-cooked"
-country: "United Arab Emirates"
-region: "Al Ain"
-category: "restaurant"
-pubDate: "2026-07-23T07:51:51.128Z"
+title: 'Al Fanar Restaurant & Cafe: Where to Eat in Al Ain'
+description: >-
+  Al Fanar Restaurant & Cafe in Souq Al Zafarana (Al Jimi, Al Ain) is a
+  long-running Emirati/Gulf-style eatery known for machboos, harees, and
+  slow-cooked
+country: United Arab Emirates
+region: Al Ain
+category: restaurant
+pubDate: '2026-07-23T07:51:51.128Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/8/8b/Al_Fanar_Restaurant_and_Cafe.jpg"
-  credit: "Photo: Teeraza88 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Al_Fanar_Restaurant_and_Cafe.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/8/8b/Al_Fanar_Restaurant_and_Cafe.jpg
+  credit: 'Photo: Teeraza88 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Al_Fanar_Restaurant_and_Cafe.jpg'
 gallery: []
 place:
-  id: "ChIJhU0u3dezij4RyKp9DKpsFOE"
-  name: "Al Fanar Restaurant & Cafe"
-  address: "Souq Al Zafarana, next to Al Khabisi Wedding Hall – Al Jimi - Al Ain - Al Jimi - Civic Center - Abu Dhabi - United Arab Emirates"
+  id: ChIJhU0u3dezij4RyKp9DKpsFOE
+  name: Al Fanar Restaurant & Cafe
+  address: >-
+    Souq Al Zafarana, next to Al Khabisi Wedding Hall – Al Jimi - Al Ain - Al
+    Jimi - Civic Center - Abu Dhabi - United Arab Emirates
   rating: 4.8
-  userRatingsTotal: 8028
+  userRatingsTotal: 8029
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=16218707635677801160&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16218707635677801160&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 24.2354496
   lng: 55.722974099999995
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [9, 10, 11, 20]
-    weekdayBusy: [18]
-    weekendQuiet: [9, 10, 11, 22]
-    weekendBusy: [14, 15, 17, 18, 19, 20, 21]
-    venueId: 'ven_454f4673704b4439704b7952346a697a656433753055684a496843'
+    weekdayQuiet:
+      - 9
+      - 10
+      - 11
+      - 20
+    weekdayBusy:
+      - 18
+    weekendQuiet:
+      - 9
+      - 10
+      - 11
+      - 22
+    weekendBusy:
+      - 14
+      - 15
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+    venueId: ven_454f4673704b4439704b7952346a697a656433753055684a496843
 tags:
-  - "al ain"
-  - "local restaurant"
-quickAnswer: "Al Fanar Restaurant & Cafe in Souq Al Zafarana (Al Jimi, Al Ain) is a long-running Emirati/Gulf-style eatery known for machboos, harees, and slow-cooked meats, backed by a rare 4.8-star rating from over 8,000 reviews. It's mid-priced, casual, and extremely popular locally, so aim for an off-peak lunch (around 1–1:30pm) or a pre-8pm dinner to avoid the wait. Budget 45–75 minutes for a full sit-down meal."
+  - al ain
+  - local restaurant
+quickAnswer: >-
+  Al Fanar Restaurant & Cafe in Souq Al Zafarana (Al Jimi, Al Ain) is a
+  long-running Emirati/Gulf-style eatery known for machboos, harees, and
+  slow-cooked meats, backed by a rare 4.8-star rating from over 8,000 reviews.
+  It's mid-priced, casual, and extremely popular locally, so aim for an off-peak
+  lunch (around 1–1:30pm) or a pre-8pm dinner to avoid the wait. Budget 45–75
+  minutes for a full sit-down meal.
 faq:
-  - q: "How do I get to Al Fanar Restaurant & Cafe without a car?"
-    a: "Take a taxi or rideshare directly to Souq Al Zafarana in Al Jimi, next to Al Khabisi Wedding Hall — Al Ain has no metro, so road transport is the standard way to reach it."
-  - q: "How much does a meal cost?"
-    a: "It's a mid-range restaurant (price level 2 of 4), so expect moderate prices for generous, shareable portions rather than fine-dining costs — confirm current menu prices on-site since they can shift."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Aim for an early lunch around 12:30–1pm on a weekday, or a dinner before 8pm; weekend (Thursday–Saturday) 1–3pm and post-8pm slots are the busiest."
-  - q: "How long should I plan for a meal here?"
-    a: "Budget 45–75 minutes for a proper sit-down meal, especially since dishes like machboos and harees are cooked and served fresh rather than pre-plated."
-  - q: "What else can I see near Al Fanar?"
-    a: "Souq Al Zafarana is right there for a stroll, and Al Ain Oasis and Al Jimi Mall are both a short drive away, making it easy to combine with other Al Ain sightseeing."
+  - q: How do I get to Al Fanar Restaurant & Cafe without a car?
+    a: >-
+      Take a taxi or rideshare directly to Souq Al Zafarana in Al Jimi, next to
+      Al Khabisi Wedding Hall — Al Ain has no metro, so road transport is the
+      standard way to reach it.
+  - q: How much does a meal cost?
+    a: >-
+      It's a mid-range restaurant (price level 2 of 4), so expect moderate
+      prices for generous, shareable portions rather than fine-dining costs —
+      confirm current menu prices on-site since they can shift.
+  - q: What's the best time to visit to avoid crowds?
+    a: >-
+      Aim for an early lunch around 12:30–1pm on a weekday, or a dinner before
+      8pm; weekend (Thursday–Saturday) 1–3pm and post-8pm slots are the busiest.
+  - q: How long should I plan for a meal here?
+    a: >-
+      Budget 45–75 minutes for a proper sit-down meal, especially since dishes
+      like machboos and harees are cooked and served fresh rather than
+      pre-plated.
+  - q: What else can I see near Al Fanar?
+    a: >-
+      Souq Al Zafarana is right there for a stroll, and Al Ain Oasis and Al Jimi
+      Mall are both a short drive away, making it easy to combine with other Al
+      Ain sightseeing.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

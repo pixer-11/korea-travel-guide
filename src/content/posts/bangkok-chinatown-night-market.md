@@ -1,48 +1,81 @@
 ---
-title: "Chinatown Night Market: Where to Eat in Bangkok"
-description: "Head to Bangkok's Chinatown (Yaowarat) after 6pm, when the neon signs flicker on and street kitchens roll their carts onto Yaowarat Road and side streets"
-country: "Thailand"
-region: "Bangkok"
-category: "restaurant"
-pubDate: "2026-07-22T09:16:13.489Z"
+title: 'Chinatown Night Market: Where to Eat in Bangkok'
+description: >-
+  Head to Bangkok's Chinatown (Yaowarat) after 6pm, when the neon signs flicker
+  on and street kitchens roll their carts onto Yaowarat Road and side streets
+country: Thailand
+region: Bangkok
+category: restaurant
+pubDate: '2026-07-22T09:16:13.489Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2025_Chinatown_International_District_Night_Market_on_King_Street.jpg/1920px-2025_Chinatown_International_District_Night_Market_on_King_Street.jpg"
-  credit: "Photo: SounderBruce / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:2025_Chinatown_International_District_Night_Market_on_King_Street.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2025_Chinatown_International_District_Night_Market_on_King_Street.jpg/1920px-2025_Chinatown_International_District_Night_Market_on_King_Street.jpg
+  credit: 'Photo: SounderBruce / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:2025_Chinatown_International_District_Night_Market_on_King_Street.jpg
 gallery: []
 place:
-  id: "ChIJD-NLSWyZ4jARCQ3OoWjiHYs"
-  name: "Chinatown Night Market"
-  address: "148 Maha Chak Rd, Khwaeng Chakkrawat, Khet Samphanthawong, Krung Thep Maha Nakhon 10100, Thailand"
+  id: ChIJD-NLSWyZ4jARCQ3OoWjiHYs
+  name: Chinatown Night Market
+  address: >-
+    148 Maha Chak Rd, Khwaeng Chakkrawat, Khet Samphanthawong, Krung Thep Maha
+    Nakhon 10100, Thailand
   rating: 4.5
-  userRatingsTotal: 3867
-  googleMapsUrl: "https://maps.google.com/?cid=10024417284615703817&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3870
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10024417284615703817&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 13.7410037
   lng: 100.50847379999999
   busyness:
     updated: '2026-07-23'
-    weekdayBusy: [19, 20, 21]
-    weekendBusy: [18, 19, 20, 21, 22]
-    venueId: 'ven_735948696a576f4f33514352416a345a7957534c4e2d444a496843'
+    weekdayBusy:
+      - 19
+      - 20
+      - 21
+    weekendBusy:
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+    venueId: ven_735948696a576f4f33514352416a345a7957534c4e2d444a496843
 tags:
-  - "bangkok"
-  - "Yaowarat Chinatown Street Food"
-quickAnswer: "Head to Bangkok's Chinatown (Yaowarat) after 6pm, when the neon signs flicker on and street kitchens roll their carts onto Yaowarat Road and side streets like Soi Texas and Phadungdao. Start near the Odeon Circle arch and graze your way toward Wat Traimit, sampling grilled seafood, boat noodles, and roast duck as you go. Plan for a 2-3 hour crawl on foot, come hungry, and go on an empty stomach rather than after a big meal."
+  - bangkok
+  - Yaowarat Chinatown Street Food
+quickAnswer: >-
+  Head to Bangkok's Chinatown (Yaowarat) after 6pm, when the neon signs flicker
+  on and street kitchens roll their carts onto Yaowarat Road and side streets
+  like Soi Texas and Phadungdao. Start near the Odeon Circle arch and graze your
+  way toward Wat Traimit, sampling grilled seafood, boat noodles, and roast duck
+  as you go. Plan for a 2-3 hour crawl on foot, come hungry, and go on an empty
+  stomach rather than after a big meal.
 faq:
-  - q: "What's the nearest train station to the Chinatown Night Market?"
-    a: "MRT Wat Mangkon station (Blue Line), Exit 1, puts you within a five-minute walk of Yaowarat Road and the market streets."
-  - q: "What time does the market start and how long should I spend there?"
-    a: "Stalls typically get going around 6pm and run until close to midnight, with the busiest, most complete lineup between 7-9pm. Plan for 2-3 hours to comfortably graze multiple stalls."
-  - q: "Do I need cash, or can I pay by card?"
-    a: "Bring Thai baht in small denominations. Nearly all street carts are cash-only and can't break large notes."
-  - q: "Is the market busy every night, or is one day better?"
-    a: "It runs nightly, but weeknights are calmer and easier to navigate than Friday and Saturday, when it gets significantly more crowded."
-  - q: "What else is nearby worth combining with a food crawl?"
-    a: "Wat Traimit (Golden Buddha temple) is about a 10-minute walk south, and Sampeng Lane market is a parallel street worth a daytime visit."
+  - q: What's the nearest train station to the Chinatown Night Market?
+    a: >-
+      MRT Wat Mangkon station (Blue Line), Exit 1, puts you within a five-minute
+      walk of Yaowarat Road and the market streets.
+  - q: What time does the market start and how long should I spend there?
+    a: >-
+      Stalls typically get going around 6pm and run until close to midnight,
+      with the busiest, most complete lineup between 7-9pm. Plan for 2-3 hours
+      to comfortably graze multiple stalls.
+  - q: 'Do I need cash, or can I pay by card?'
+    a: >-
+      Bring Thai baht in small denominations. Nearly all street carts are
+      cash-only and can't break large notes.
+  - q: 'Is the market busy every night, or is one day better?'
+    a: >-
+      It runs nightly, but weeknights are calmer and easier to navigate than
+      Friday and Saturday, when it gets significantly more crowded.
+  - q: What else is nearby worth combining with a food crawl?
+    a: >-
+      Wat Traimit (Golden Buddha temple) is about a 10-minute walk south, and
+      Sampeng Lane market is a parallel street worth a daytime visit.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

@@ -1,43 +1,69 @@
 ---
-title: "Hoi An Night Market: Travel Guide"
-description: "Hoi An Night Market runs every evening along Nguyễn Hoàng Street on the An Hội islet, just across the wooden/pedestrian bridge from the Old Town's riverside"
-country: "Vietnam"
-region: "Hoi An"
-category: "hidden-gem"
-pubDate: "2026-07-22T09:35:05.965Z"
+title: 'Hoi An Night Market: Travel Guide'
+description: >-
+  Hoi An Night Market runs every evening along Nguyễn Hoàng Street on the An Hội
+  islet, just across the wooden/pedestrian bridge from the Old Town's riverside
+country: Vietnam
+region: Hoi An
+category: hidden-gem
+pubDate: '2026-07-22T09:35:05.965Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Illuminated_Ferris_wheel%2C_bouncing_castle_and_carousel_at_night_in_a_funfair_in_Vientiane%2C_Laos.jpg/1920px-Illuminated_Ferris_wheel%2C_bouncing_castle_and_carousel_at_night_in_a_funfair_in_Vientiane%2C_Laos.jpg"
-  credit: "Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Illuminated_Ferris_wheel,_bouncing_castle_and_carousel_at_night_in_a_funfair_in_Vientiane,_Laos.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Illuminated_Ferris_wheel%2C_bouncing_castle_and_carousel_at_night_in_a_funfair_in_Vientiane%2C_Laos.jpg/1920px-Illuminated_Ferris_wheel%2C_bouncing_castle_and_carousel_at_night_in_a_funfair_in_Vientiane%2C_Laos.jpg
+  credit: 'Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Illuminated_Ferris_wheel,_bouncing_castle_and_carousel_at_night_in_a_funfair_in_Vientiane,_Laos.jpg
 gallery: []
 place:
-  id: "ChIJLUlfw30OQjER32jWkRuwRAo"
-  name: "Hoi An Night Market"
-  address: "3 Nguyễn Hoàng, An Hội, Hội An, Đà Nẵng, Vietnam"
+  id: ChIJLUlfw30OQjER32jWkRuwRAo
+  name: Hoi An Night Market
+  address: '3 Nguyễn Hoàng, An Hội, Hội An, Đà Nẵng, Vietnam'
   rating: 4.4
-  userRatingsTotal: 50043
-  googleMapsUrl: "https://maps.google.com/?cid=739909871252957407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 50048
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=739909871252957407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 15.875503
   lng: 108.3262087
 tags:
-  - "hoi an"
-  - "hidden gem"
-quickAnswer: "Hoi An Night Market runs every evening along Nguyễn Hoàng Street on the An Hội islet, just across the wooden/pedestrian bridge from the Old Town's riverside strip. Arrive around 6-7pm as lanterns switch on, budget 1.5-2 hours, and go hungry — the real draw is street food (banh mi, che, grilled skewers) plus silk lanterns and souvenirs. It's touristy but genuinely photogenic, especially with a floating candle lantern on the Thu Bon River afterward."
+  - hoi an
+  - hidden gem
+quickAnswer: >-
+  Hoi An Night Market runs every evening along Nguyễn Hoàng Street on the An Hội
+  islet, just across the wooden/pedestrian bridge from the Old Town's riverside
+  strip. Arrive around 6-7pm as lanterns switch on, budget 1.5-2 hours, and go
+  hungry — the real draw is street food (banh mi, che, grilled skewers) plus
+  silk lanterns and souvenirs. It's touristy but genuinely photogenic,
+  especially with a floating candle lantern on the Thu Bon River afterward.
 faq:
-  - q: "How do I get to Hoi An Night Market?"
-    a: "Walk across the An Hội pedestrian bridge from the Old Town's Japanese Covered Bridge area — it's about 5-10 minutes on foot from most Old Town hotels. From An Bang Beach or outside the center, a taxi or Grab ride takes 15-20 minutes."
-  - q: "Is there an entrance fee?"
-    a: "No, entry to the market is free. You only pay for food, souvenirs, and optional extras like floating river lanterns, which cost only a small amount."
-  - q: "What time should I visit?"
-    a: "The market runs roughly 6pm to 10-11pm nightly. Go early (around 6-7pm) for easier browsing, or after 8pm for the fullest lantern-lit atmosphere."
-  - q: "How much time should I plan for?"
-    a: "Most visitors spend 1.5-2 hours, including food stops and a river lantern release, plus extra time if combining it with a walk through the Old Town."
-  - q: "What food should I try there?"
-    a: "Look for chè (sweet dessert soup), grilled skewers, and bánh mì at the stalls; for Hoi An's signature cao lầu noodles, check sit-down shops just off the main market street."
+  - q: How do I get to Hoi An Night Market?
+    a: >-
+      Walk across the An Hội pedestrian bridge from the Old Town's Japanese
+      Covered Bridge area — it's about 5-10 minutes on foot from most Old Town
+      hotels. From An Bang Beach or outside the center, a taxi or Grab ride
+      takes 15-20 minutes.
+  - q: Is there an entrance fee?
+    a: >-
+      No, entry to the market is free. You only pay for food, souvenirs, and
+      optional extras like floating river lanterns, which cost only a small
+      amount.
+  - q: What time should I visit?
+    a: >-
+      The market runs roughly 6pm to 10-11pm nightly. Go early (around 6-7pm)
+      for easier browsing, or after 8pm for the fullest lantern-lit atmosphere.
+  - q: How much time should I plan for?
+    a: >-
+      Most visitors spend 1.5-2 hours, including food stops and a river lantern
+      release, plus extra time if combining it with a walk through the Old Town.
+  - q: What food should I try there?
+    a: >-
+      Look for chè (sweet dessert soup), grilled skewers, and bánh mì at the
+      stalls; for Hoi An's signature cao lầu noodles, check sit-down shops just
+      off the main market street.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

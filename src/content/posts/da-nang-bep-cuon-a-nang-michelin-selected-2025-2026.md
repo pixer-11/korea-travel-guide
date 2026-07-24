@@ -1,51 +1,91 @@
 ---
-title: "Bếp Cuốn Đà Nẵng: Where to Eat in Da Nang"
-description: "Bếp Cuốn Đà Nẵng, a Michelin Selected restaurant for 2025-2026, specializes in Vietnamese \\\"cuốn\\\" (fresh rolls and wrap-your-own dishes) at 31-33 Trần Bạch"
-country: "Vietnam"
-region: "Da Nang"
-category: "restaurant"
-pubDate: "2026-07-22T09:31:24.934Z"
+title: 'Bếp Cuốn Đà Nẵng: Where to Eat in Da Nang'
+description: >-
+  Bếp Cuốn Đà Nẵng, a Michelin Selected restaurant for 2025-2026, specializes in
+  Vietnamese \"cuốn\" (fresh rolls and wrap-your-own dishes) at 31-33 Trần Bạch
+country: Vietnam
+region: Da Nang
+category: restaurant
+pubDate: '2026-07-22T09:31:24.934Z'
 heroImage:
-  url: "https://images.unsplash.com/photo-1776236075313-df5a13934d82?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8RGElMjBOYW5nJTIwVmlldG5hbSUyMGxvY2FsJTIwcmVzdGF1cmFudHxlbnwwfDB8fHwxNzg0NzEyNjAyfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Nick Guenov on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@guenovnd?utm_source=korea_travel_guide&utm_medium=referral"
+  url: >-
+    https://images.unsplash.com/photo-1776236075313-df5a13934d82?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8RGElMjBOYW5nJTIwVmlldG5hbSUyMGxvY2FsJTIwcmVzdGF1cmFudHxlbnwwfDB8fHwxNzg0NzEyNjAyfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Nick Guenov on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@guenovnd?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
-  id: "ChIJ-UgnY_QXQjERJTTHpNvcFNw"
-  name: "Bếp Cuốn Đà Nẵng - Michelin Selected 2025-2026"
-  address: "31-33 Trần Bạch Đằng, An Hải, Đà Nẵng 550000, Vietnam"
+  id: ChIJ-UgnY_QXQjERJTTHpNvcFNw
+  name: Bếp Cuốn Đà Nẵng - Michelin Selected 2025-2026
+  address: '31-33 Trần Bạch Đằng, An Hải, Đà Nẵng 550000, Vietnam'
   rating: 4.9
-  userRatingsTotal: 17229
+  userRatingsTotal: 17244
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=15858543023798826021&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15858543023798826021&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 16.0579628
   lng: 108.2451505
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [10, 11, 15, 21]
-    weekdayBusy: [18, 19]
-    weekendQuiet: [10, 21]
-    weekendBusy: [13, 18, 19]
-    venueId: 'ven_774e4663764e704854544a52456a5158515f596e67552d4a496843'
+    weekdayQuiet:
+      - 10
+      - 11
+      - 15
+      - 21
+    weekdayBusy:
+      - 18
+      - 19
+    weekendQuiet:
+      - 10
+      - 21
+    weekendBusy:
+      - 13
+      - 18
+      - 19
+    venueId: ven_774e4663764e704854544a52456a5158515f596e67552d4a496843
 tags:
-  - "da nang"
-  - "local restaurant"
-quickAnswer: "Bếp Cuốn Đà Nẵng, a Michelin Selected restaurant for 2025-2026, specializes in Vietnamese \"cuốn\" (fresh rolls and wrap-your-own dishes) at 31-33 Trần Bạch Đằng in the An Hải area on the east bank of the Han River. Expect a mid-range bill (roughly 200,000-400,000 VND per person), a lively open-plan dining room, and dishes built around rice paper, herbs, and grilled or steamed meats and seafood. Go for an early dinner (around 5:30-6 pm) on a weekday to beat the queue that its 4.9-star, 17,000+ review reputation now draws nightly."
+  - da nang
+  - local restaurant
+quickAnswer: >-
+  Bếp Cuốn Đà Nẵng, a Michelin Selected restaurant for 2025-2026, specializes in
+  Vietnamese "cuốn" (fresh rolls and wrap-your-own dishes) at 31-33 Trần Bạch
+  Đằng in the An Hải area on the east bank of the Han River. Expect a mid-range
+  bill (roughly 200,000-400,000 VND per person), a lively open-plan dining room,
+  and dishes built around rice paper, herbs, and grilled or steamed meats and
+  seafood. Go for an early dinner (around 5:30-6 pm) on a weekday to beat the
+  queue that its 4.9-star, 17,000+ review reputation now draws nightly.
 faq:
-  - q: "Do I need a reservation at Bếp Cuốn Đà Nẵng?"
-    a: "It's highly recommended given its Michelin Selected status and thousands of reviews. Try booking through the restaurant's official contact, a hotel concierge, or a reservation platform, especially for weekend dinners between 6:30 and 8:30 pm."
-  - q: "How much does a meal cost?"
-    a: "It falls in Da Nang's mid-range price bracket, roughly 200,000-400,000 VND per person for a shared meal with drinks, though exact prices should be checked on-site as menus change."
-  - q: "How do I get to 31-33 Trần Bạch Đằng?"
-    a: "The easiest way is Grab or taxi, about 10-15 minutes from the Dragon Bridge or My Khe Beach. There's no metro in Da Nang, so ride-hailing apps are the standard option."
-  - q: "What should I order if it's my first time eating cuốn?"
-    a: "Ask staff for a quick how-to on assembling the rolls — the menu is built around wrap-it-yourself platters of rice paper, herbs, and grilled meats or seafood, so a short demo makes the meal much smoother."
-  - q: "What's the best time of year to visit?"
-    a: "Da Nang's dry season, roughly February to August, offers the most comfortable weather for dining, while September through December brings the heaviest rain and occasional storms."
+  - q: Do I need a reservation at Bếp Cuốn Đà Nẵng?
+    a: >-
+      It's highly recommended given its Michelin Selected status and thousands
+      of reviews. Try booking through the restaurant's official contact, a hotel
+      concierge, or a reservation platform, especially for weekend dinners
+      between 6:30 and 8:30 pm.
+  - q: How much does a meal cost?
+    a: >-
+      It falls in Da Nang's mid-range price bracket, roughly 200,000-400,000 VND
+      per person for a shared meal with drinks, though exact prices should be
+      checked on-site as menus change.
+  - q: How do I get to 31-33 Trần Bạch Đằng?
+    a: >-
+      The easiest way is Grab or taxi, about 10-15 minutes from the Dragon
+      Bridge or My Khe Beach. There's no metro in Da Nang, so ride-hailing apps
+      are the standard option.
+  - q: What should I order if it's my first time eating cuốn?
+    a: >-
+      Ask staff for a quick how-to on assembling the rolls — the menu is built
+      around wrap-it-yourself platters of rice paper, herbs, and grilled meats
+      or seafood, so a short demo makes the meal much smoother.
+  - q: What's the best time of year to visit?
+    a: >-
+      Da Nang's dry season, roughly February to August, offers the most
+      comfortable weather for dining, while September through December brings
+      the heaviest rain and occasional storms.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

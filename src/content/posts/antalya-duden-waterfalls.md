@@ -1,51 +1,80 @@
 ---
-title: "Duden Waterfalls: Antalya Travel Guide"
-description: "Duden Waterfalls (Düden Şelalesi) in Kepez, Antalya, is best visited in the Upper Duden Park (Düden Şelalesi Parkı) where the falls tumble in front of a"
-country: "Turkey"
-region: "Antalya"
-category: "attraction"
-pubDate: "2026-07-23T10:51:58.664Z"
+title: 'Duden Waterfalls: Antalya Travel Guide'
+description: >-
+  Duden Waterfalls (Düden Şelalesi) in Kepez, Antalya, is best visited in the
+  Upper Duden Park (Düden Şelalesi Parkı) where the falls tumble in front of a
+country: Turkey
+region: Antalya
+category: attraction
+pubDate: '2026-07-23T10:51:58.664Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Duden_waterfall.jpg/1920px-Duden_waterfall.jpg"
-  credit: "Photo: Nebras abdullah alahmad / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Duden_waterfall.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Duden_waterfall.jpg/1920px-Duden_waterfall.jpg
+  credit: 'Photo: Nebras abdullah alahmad / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Duden_waterfall.jpg'
 gallery: []
 place:
-  id: "ChIJu3F7zgmGwxQRiKcatsput3I"
-  name: "Duden Waterfalls"
-  address: "Varsak Mahallesi Düden Şelalesi Parkı içi, Şelale, 07210 Kepez/Antalya, Türkiye"
+  id: ChIJu3F7zgmGwxQRiKcatsput3I
+  name: Duden Waterfalls
+  address: >-
+    Varsak Mahallesi Düden Şelalesi Parkı içi, Şelale, 07210 Kepez/Antalya,
+    Türkiye
   rating: 4.6
-  userRatingsTotal: 38281
-  googleMapsUrl: "https://maps.google.com/?cid=8266197457979484040&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 38298
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8266197457979484040&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 36.9647146
   lng: 30.7267783
   openingHours:
-    - "Monday: 9:00 AM – 5:30 PM"
-    - "Tuesday: 9:00 AM – 5:30 PM"
-    - "Wednesday: 9:00 AM – 5:30 PM"
-    - "Thursday: 9:00 AM – 5:30 PM"
-    - "Friday: 9:00 AM – 5:30 PM"
-    - "Saturday: 9:00 AM – 5:30 PM"
-    - "Sunday: 9:00 AM – 5:30 PM"
+    - 'Monday: 9:00 AM – 5:30 PM'
+    - 'Tuesday: 9:00 AM – 5:30 PM'
+    - 'Wednesday: 9:00 AM – 5:30 PM'
+    - 'Thursday: 9:00 AM – 5:30 PM'
+    - 'Friday: 9:00 AM – 5:30 PM'
+    - 'Saturday: 9:00 AM – 5:30 PM'
+    - 'Sunday: 9:00 AM – 5:30 PM'
 tags:
-  - "antalya"
-  - "top attraction"
-quickAnswer: "Duden Waterfalls (Düden Şelalesi) in Kepez, Antalya, is best visited in the Upper Duden Park (Düden Şelalesi Parkı) where the falls tumble in front of a large cave you can walk into and view the cascade from behind. Go early morning or on a weekday to avoid tour-bus crowds, plan 1–1.5 hours, and combine it with the separate Lower Duden Falls near the coast if you have a car or taxi for the day."
+  - antalya
+  - top attraction
+quickAnswer: >-
+  Duden Waterfalls (Düden Şelalesi) in Kepez, Antalya, is best visited in the
+  Upper Duden Park (Düden Şelalesi Parkı) where the falls tumble in front of a
+  large cave you can walk into and view the cascade from behind. Go early
+  morning or on a weekday to avoid tour-bus crowds, plan 1–1.5 hours, and
+  combine it with the separate Lower Duden Falls near the coast if you have a
+  car or taxi for the day.
 faq:
-  - q: "How do I get to Duden Waterfalls from central Antalya?"
-    a: "Taxi or rental car takes about 20–30 minutes to the Upper Duden Falls in Kepez's Düden Şelalesi Parkı. Public buses run toward Kepez/Varsak but usually require a transfer, so most visitors use a taxi or a half-day organized tour."
-  - q: "How much time should I budget?"
-    a: "About 1 to 1.5 hours covers the park loop, the cave walkway behind the falls, and a tea break. Add extra time if you also plan to visit the separate Lower Duden Falls near the coast."
-  - q: "Is this the same as the waterfall that drops into the sea?"
-    a: "No — that's the Lower Duden Falls near Lara Beach, a coastal cliff cascade. This guide covers the Upper Duden Falls, set in a park with a cave you can walk into behind the cascade."
-  - q: "What's the best time of year and day to visit?"
-    a: "Spring (April–May) has the strongest water flow and mild weather. Visit early morning or close to closing time on a weekday to avoid the tour-bus crowds that peak at midday in summer."
-  - q: "Is the site accessible and family-friendly?"
-    a: "Yes, the park has paved paths and benches suitable for most fitness levels, though the walkway near the cave gets damp and slightly slippery, so sturdy shoes are recommended, especially with children."
+  - q: How do I get to Duden Waterfalls from central Antalya?
+    a: >-
+      Taxi or rental car takes about 20–30 minutes to the Upper Duden Falls in
+      Kepez's Düden Şelalesi Parkı. Public buses run toward Kepez/Varsak but
+      usually require a transfer, so most visitors use a taxi or a half-day
+      organized tour.
+  - q: How much time should I budget?
+    a: >-
+      About 1 to 1.5 hours covers the park loop, the cave walkway behind the
+      falls, and a tea break. Add extra time if you also plan to visit the
+      separate Lower Duden Falls near the coast.
+  - q: Is this the same as the waterfall that drops into the sea?
+    a: >-
+      No — that's the Lower Duden Falls near Lara Beach, a coastal cliff
+      cascade. This guide covers the Upper Duden Falls, set in a park with a
+      cave you can walk into behind the cascade.
+  - q: What's the best time of year and day to visit?
+    a: >-
+      Spring (April–May) has the strongest water flow and mild weather. Visit
+      early morning or close to closing time on a weekday to avoid the tour-bus
+      crowds that peak at midday in summer.
+  - q: Is the site accessible and family-friendly?
+    a: >-
+      Yes, the park has paved paths and benches suitable for most fitness
+      levels, though the walkway near the cave gets damp and slightly slippery,
+      so sturdy shoes are recommended, especially with children.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

@@ -1,50 +1,96 @@
 ---
-title: "Malayan Settlement: Where to Eat in Clarke Quay"
-description: "Malayan Settlement is a Peranakan-Western fusion restaurant tucked into Block B of Clarke Quay (3 River Valley Rd, #1-03), a few minutes' walk from Clarke"
-country: "Singapore"
-region: "Clarke Quay"
-category: "restaurant"
-pubDate: "2026-07-23T07:37:16.109Z"
+title: 'Malayan Settlement: Where to Eat in Clarke Quay'
+description: >-
+  Malayan Settlement is a Peranakan-Western fusion restaurant tucked into Block
+  B of Clarke Quay (3 River Valley Rd, #1-03), a few minutes' walk from Clarke
+country: Singapore
+region: Clarke Quay
+category: restaurant
+pubDate: '2026-07-23T07:37:16.109Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Clarke_Quay%2C_Singapore%2C_at_night_-_20150308.jpg/1920px-Clarke_Quay%2C_Singapore%2C_at_night_-_20150308.jpg"
-  credit: "Photo: C1815. / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Clarke_Quay,_Singapore,_at_night_-_20150308.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Clarke_Quay%2C_Singapore%2C_at_night_-_20150308.jpg/1920px-Clarke_Quay%2C_Singapore%2C_at_night_-_20150308.jpg
+  credit: 'Photo: C1815. / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Clarke_Quay,_Singapore,_at_night_-_20150308.jpg
 gallery: []
 place:
-  id: "ChIJc5IXFPUZ2jERJEHKmmHiZlA"
-  name: "Malayan Settlement"
-  address: "3 River Valley Rd, Blk B, #1-03, Singapore 179021"
+  id: ChIJc5IXFPUZ2jERJEHKmmHiZlA
+  name: Malayan Settlement
+  address: '3 River Valley Rd, Blk B, #1-03, Singapore 179021'
   rating: 4.8
   userRatingsTotal: 1319
-  googleMapsUrl: "https://maps.google.com/?cid=5793566879495373092&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5793566879495373092&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.2905187999999999
   lng: 103.84535969999999
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [11, 12, 14, 15, 16]
-    weekdayBusy: [19, 20]
-    weekendQuiet: [22]
-    weekendBusy: [13, 14, 15, 16, 17, 18, 19, 20, 21]
-    venueId: 'ven_416c5a69486d6d4b48454a52456a325a555046584935634a496843'
+    weekdayQuiet:
+      - 11
+      - 12
+      - 14
+      - 15
+      - 16
+    weekdayBusy:
+      - 19
+      - 20
+    weekendQuiet:
+      - 22
+    weekendBusy:
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+    venueId: ven_416c5a69486d6d4b48454a52456a325a555046584935634a496843
+  priceLevel: 2
 tags:
-  - "clarke quay"
-  - "local restaurant"
-quickAnswer: "Malayan Settlement is a Peranakan-Western fusion restaurant tucked into Block B of Clarke Quay (3 River Valley Rd, #1-03), a few minutes' walk from Clarke Quay MRT (NEW/NE Line, Exit E). It's rated 4.8 from over 1,300 reviews, known for reworking Malay-Peranakan flavors — think rendang, sambal, and gula melaka — into steaks, pastas, and sharing plates. Go on a weekday evening before 7pm to get a table without a long wait, and book ahead if you're coming on a Friday or Saturday night."
+  - clarke quay
+  - local restaurant
+quickAnswer: >-
+  Malayan Settlement is a Peranakan-Western fusion restaurant tucked into Block
+  B of Clarke Quay (3 River Valley Rd, #1-03), a few minutes' walk from Clarke
+  Quay MRT (NEW/NE Line, Exit E). It's rated 4.8 from over 1,300 reviews, known
+  for reworking Malay-Peranakan flavors — think rendang, sambal, and gula melaka
+  — into steaks, pastas, and sharing plates. Go on a weekday evening before 7pm
+  to get a table without a long wait, and book ahead if you're coming on a
+  Friday or Saturday night.
 faq:
-  - q: "How do I get to Malayan Settlement by public transport?"
-    a: "Take the North East Line to Clarke Quay MRT and use Exit E, which leads directly into the Clarke Quay complex. The restaurant is in Block B, #1-03, about a 5-minute walk from the exit."
-  - q: "Do I need a reservation?"
-    a: "It's not always required, but strongly recommended for Friday and Saturday dinner given its popularity and Clarke Quay's evening crowds. Weekday dinners before 7pm are generally easier to walk into."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Early weeknight dinner (5:30–6:30pm, Tuesday to Thursday) or lunch are the quietest windows. Weekend evenings coincide with Clarke Quay's busiest nightlife hours."
-  - q: "What should I order?"
-    a: "Start with a rendang- or sambal-influenced grilled main, add a pasta or rice dish to compare the fusion style, and finish with a gula melaka (palm sugar) dessert, which is a signature flavor here."
-  - q: "Is it within walking distance of other Clarke Quay attractions?"
-    a: "Yes — the Singapore River promenade, Read Bridge, and Fort Canning Park are all within a 5-10 minute walk, making it easy to combine with an evening riverside stroll."
+  - q: How do I get to Malayan Settlement by public transport?
+    a: >-
+      Take the North East Line to Clarke Quay MRT and use Exit E, which leads
+      directly into the Clarke Quay complex. The restaurant is in Block B,
+      #1-03, about a 5-minute walk from the exit.
+  - q: Do I need a reservation?
+    a: >-
+      It's not always required, but strongly recommended for Friday and Saturday
+      dinner given its popularity and Clarke Quay's evening crowds. Weekday
+      dinners before 7pm are generally easier to walk into.
+  - q: What's the best time to visit to avoid crowds?
+    a: >-
+      Early weeknight dinner (5:30–6:30pm, Tuesday to Thursday) or lunch are the
+      quietest windows. Weekend evenings coincide with Clarke Quay's busiest
+      nightlife hours.
+  - q: What should I order?
+    a: >-
+      Start with a rendang- or sambal-influenced grilled main, add a pasta or
+      rice dish to compare the fusion style, and finish with a gula melaka (palm
+      sugar) dessert, which is a signature flavor here.
+  - q: Is it within walking distance of other Clarke Quay attractions?
+    a: >-
+      Yes — the Singapore River promenade, Read Bridge, and Fort Canning Park
+      are all within a 5-10 minute walk, making it easy to combine with an
+      evening riverside stroll.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

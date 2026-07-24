@@ -1,42 +1,68 @@
 ---
-title: "Seongsan Ilchulbong: Jeju Travel Guide"
-description: "Seongsan Ilchulbong (\\\"Sunrise Peak\\\") is a dramatic volcanic tuff cone on Jeju's east coast, famous for sunrise views from its crater rim after a 20-30"
+title: 'Seongsan Ilchulbong: Jeju Travel Guide'
+description: >-
+  Seongsan Ilchulbong (\"Sunrise Peak\") is a dramatic volcanic tuff cone on
+  Jeju's east coast, famous for sunrise views from its crater rim after a 20-30
 region: Jeju
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Hydrangea_macrophylla_in_front_of_Seongsan_Ilchulbong_volcano_at_blue_hour_in_Jeju_Island_South_Korea.jpg/1920px-Hydrangea_macrophylla_in_front_of_Seongsan_Ilchulbong_volcano_at_blue_hour_in_Jeju_Island_South_Korea.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Hydrangea_macrophylla_in_front_of_Seongsan_Ilchulbong_volcano_at_blue_hour_in_Jeju_Island_South_Korea.jpg/1920px-Hydrangea_macrophylla_in_front_of_Seongsan_Ilchulbong_volcano_at_blue_hour_in_Jeju_Island_South_Korea.jpg
   credit: 'Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Hydrangea_macrophylla_in_front_of_Seongsan_Ilchulbong_volcano_at_blue_hour_in_Jeju_Island_South_Korea.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Hydrangea_macrophylla_in_front_of_Seongsan_Ilchulbong_volcano_at_blue_hour_in_Jeju_Island_South_Korea.jpg
 gallery: []
 place:
   id: ChIJd3UrcbkUDTURBbzMfk3-b2M
   name: Seongsan Ilchulbong
-  address: 78 Seongsan-ri, Seongsan-eup, Seogwipo, Jeju-do, South Korea
+  address: '78 Seongsan-ri, Seongsan-eup, Seogwipo, Jeju-do, South Korea'
   rating: 4.6
-  userRatingsTotal: 4867
-  googleMapsUrl: https://maps.google.com/?cid=7165225140963032069&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 4870
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7165225140963032069&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 33.4591306
   lng: 126.9396195
 tags:
   - jeju
   - sunrise peak
-quickAnswer: "Seongsan Ilchulbong (\"Sunrise Peak\") is a dramatic volcanic tuff cone on Jeju's east coast, famous for sunrise views from its crater rim after a 20-30 minute climb. Go early for the sunrise and lighter crowds; it's about 1-1.5 hours by intercity bus from Jeju City and pairs well with a nearby Udo island ferry trip."
+quickAnswer: >-
+  Seongsan Ilchulbong ("Sunrise Peak") is a dramatic volcanic tuff cone on
+  Jeju's east coast, famous for sunrise views from its crater rim after a 20-30
+  minute climb. Go early for the sunrise and lighter crowds; it's about 1-1.5
+  hours by intercity bus from Jeju City and pairs well with a nearby Udo island
+  ferry trip.
 faq:
   - q: How do I get to Seongsan Ilchulbong without a car?
-    a: Take an intercity bus from Jeju City's bus terminal or Jeju International Airport toward Seongsan-eup; the trip takes about 1 to 1.5 hours, and the entrance is a short walk from the bus stop.
+    a: >-
+      Take an intercity bus from Jeju City's bus terminal or Jeju International
+      Airport toward Seongsan-eup; the trip takes about 1 to 1.5 hours, and the
+      entrance is a short walk from the bus stop.
   - q: How long does the hike take?
-    a: Most visitors spend 1 to 1.5 hours total, including a 20-30 minute climb up a paved trail and staircase to the crater rim, a similar time back down, and time for photos.
+    a: >-
+      Most visitors spend 1 to 1.5 hours total, including a 20-30 minute climb
+      up a paved trail and staircase to the crater rim, a similar time back
+      down, and time for photos.
   - q: Is sunrise the best time to visit?
-    a: Sunrise is the iconic experience and gives the peak its name, but it draws large crowds, especially around New Year's. Late afternoon or early evening offers a quieter, still scenic alternative.
+    a: >-
+      Sunrise is the iconic experience and gives the peak its name, but it draws
+      large crowds, especially around New Year's. Late afternoon or early
+      evening offers a quieter, still scenic alternative.
   - q: Is there an entrance fee?
-    a: Yes, there's a paid entry ticket at the base. Prices and opening hours change seasonally, so check current rates and closing times (the gate shuts before actual sunset/sunrise) before you go.
+    a: >-
+      Yes, there's a paid entry ticket at the base. Prices and opening hours
+      change seasonally, so check current rates and closing times (the gate
+      shuts before actual sunset/sunrise) before you go.
   - q: What else is nearby?
-    a: Udo Island (via ferry from nearby Seongsan Port), Seopjikoji's coastal trails, and Gwangchigi Beach are all within a short drive or walk, making it easy to build a half-day itinerary around the peak.
+    a: >-
+      Udo Island (via ferry from nearby Seongsan Port), Seopjikoji's coastal
+      trails, and Gwangchigi Beach are all within a short drive or walk, making
+      it easy to build a half-day itinerary around the peak.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

@@ -1,49 +1,81 @@
 ---
-title: "Hanoi Old Quarter: Travel Guide"
-description: "Hanoi Old Quarter is the tangle of 36 ancient guild streets just north of Hoan Kiem Lake — come to walk the \\\"Hang\\\" streets (each once named for the trade"
-country: "Vietnam"
-region: "Hanoi"
-category: "attraction"
-pubDate: "2026-07-22T09:26:26.951Z"
+title: 'Hanoi Old Quarter: Travel Guide'
+description: >-
+  Hanoi Old Quarter is the tangle of 36 ancient guild streets just north of Hoan
+  Kiem Lake — come to walk the \"Hang\" streets (each once named for the trade
+country: Vietnam
+region: Hanoi
+category: attraction
+pubDate: '2026-07-22T09:26:26.951Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Street_seller_of_fingered_citrons_in_Old_Town_of_Hanoi%2C_20240204_1335_5772.jpg/1920px-Street_seller_of_fingered_citrons_in_Old_Town_of_Hanoi%2C_20240204_1335_5772.jpg"
-  credit: "Photo: Jakub Hałun / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Street_seller_of_fingered_citrons_in_Old_Town_of_Hanoi,_20240204_1335_5772.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Street_seller_of_fingered_citrons_in_Old_Town_of_Hanoi%2C_20240204_1335_5772.jpg/1920px-Street_seller_of_fingered_citrons_in_Old_Town_of_Hanoi%2C_20240204_1335_5772.jpg
+  credit: 'Photo: Jakub Hałun / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Street_seller_of_fingered_citrons_in_Old_Town_of_Hanoi,_20240204_1335_5772.jpg
 gallery: []
 place:
-  id: "ChIJp0o4Er6rNTERjlTif_IXU1k"
-  name: "Hanoi Old Quarter"
-  address: "P. Hàng Ngang, Hàng Đào, Hoàn Kiếm, Hà Nội 100000, Vietnam"
+  id: ChIJp0o4Er6rNTERjlTif_IXU1k
+  name: Hanoi Old Quarter
+  address: 'P. Hàng Ngang, Hàng Đào, Hoàn Kiếm, Hà Nội 100000, Vietnam'
   rating: 4.6
-  userRatingsTotal: 9981
-  googleMapsUrl: "https://maps.google.com/?cid=6436514622737634446&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 9990
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6436514622737634446&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 21.034059
   lng: 105.8506368
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [7]
-    weekendQuiet: [7]
-    weekendBusy: [17, 18, 19, 20, 21, 22]
-    venueId: 'ven_6b315558495f6669546c6a5245544e72367245346f30704a496843'
+    weekdayQuiet:
+      - 7
+    weekendQuiet:
+      - 7
+    weekendBusy:
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+    venueId: ven_6b315558495f6669546c6a5245544e72367245346f30704a496843
 tags:
-  - "hanoi"
-  - "top attraction"
-quickAnswer: "Hanoi Old Quarter is the tangle of 36 ancient guild streets just north of Hoan Kiem Lake — come to walk the \"Hang\" streets (each once named for the trade it sold), eat at street-level food stalls, and browse the weekend night market. Base yourself near Hang Bac or Ma May, allot half a day to a full evening, and go on Friday-Sunday night to catch the pedestrian street market in full swing."
+  - hanoi
+  - top attraction
+quickAnswer: >-
+  Hanoi Old Quarter is the tangle of 36 ancient guild streets just north of Hoan
+  Kiem Lake — come to walk the "Hang" streets (each once named for the trade it
+  sold), eat at street-level food stalls, and browse the weekend night market.
+  Base yourself near Hang Bac or Ma May, allot half a day to a full evening, and
+  go on Friday-Sunday night to catch the pedestrian street market in full swing.
 faq:
-  - q: "How do I get to the Old Quarter from central Hanoi?"
-    a: "It's a short taxi or Grab ride, or a 15-20 minute walk from hotels around Hoan Kiem Lake or the French Quarter. There's no metro station directly serving it yet."
-  - q: "How much time should I budget?"
-    a: "Plan at least half a day for walking and eating; if you want to catch the weekend night market, stay into the evening for a fuller experience, roughly 3-5 hours total."
-  - q: "When is the night market open?"
-    a: "The pedestrian street market runs Friday through Sunday evenings, generally from around 7pm to midnight, covering Hang Dao, Hang Ngang, and surrounding streets."
-  - q: "What's the best area for street food?"
-    a: "Ta Hien and Hang Buom streets are the go-to hubs for hawker stalls and bia hoi (draft beer), while Hang Manh is known for bun cha."
-  - q: "Is there an entry fee for the Old Quarter?"
-    a: "No, the district itself is free to walk. Only specific sights inside it, like the Ancient House at 87 Ma May, charge a small admission fee."
+  - q: How do I get to the Old Quarter from central Hanoi?
+    a: >-
+      It's a short taxi or Grab ride, or a 15-20 minute walk from hotels around
+      Hoan Kiem Lake or the French Quarter. There's no metro station directly
+      serving it yet.
+  - q: How much time should I budget?
+    a: >-
+      Plan at least half a day for walking and eating; if you want to catch the
+      weekend night market, stay into the evening for a fuller experience,
+      roughly 3-5 hours total.
+  - q: When is the night market open?
+    a: >-
+      The pedestrian street market runs Friday through Sunday evenings,
+      generally from around 7pm to midnight, covering Hang Dao, Hang Ngang, and
+      surrounding streets.
+  - q: What's the best area for street food?
+    a: >-
+      Ta Hien and Hang Buom streets are the go-to hubs for hawker stalls and bia
+      hoi (draft beer), while Hang Manh is known for bun cha.
+  - q: Is there an entry fee for the Old Quarter?
+    a: >-
+      No, the district itself is free to walk. Only specific sights inside it,
+      like the Ancient House at 87 Ma May, charge a small admission fee.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

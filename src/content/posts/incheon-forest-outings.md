@@ -1,50 +1,93 @@
 ---
-title: "Forest Outings: Incheon Travel Guide"
-description: "Forest Outings is a large, plant-filled café-restaurant complex at 145 Cheongnyang-ro in Yeonsu-gu, Incheon, best known for its greenhouse-style dining rooms"
-country: "South Korea"
-region: "Incheon"
-category: "trendy"
-pubDate: 2026-07-21
+title: 'Forest Outings: Incheon Travel Guide'
+description: >-
+  Forest Outings is a large, plant-filled café-restaurant complex at 145
+  Cheongnyang-ro in Yeonsu-gu, Incheon, best known for its greenhouse-style
+  dining rooms
+country: South Korea
+region: Incheon
+category: trendy
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/People_are_enjoying_a_spring_outing_at_Seoul_Forest_Park.jpg/1920px-People_are_enjoying_a_spring_outing_at_Seoul_Forest_Park.jpg"
-  credit: "Photo: WANGYIFAN2024 / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:People_are_enjoying_a_spring_outing_at_Seoul_Forest_Park.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/People_are_enjoying_a_spring_outing_at_Seoul_Forest_Park.jpg/1920px-People_are_enjoying_a_spring_outing_at_Seoul_Forest_Park.jpg
+  credit: 'Photo: WANGYIFAN2024 / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:People_are_enjoying_a_spring_outing_at_Seoul_Forest_Park.jpg
 gallery: []
 place:
-  id: "ChIJyetzjl55ezURosV9N-XoC-M"
-  name: "Forest Outings"
-  address: "145 Cheongnyang-ro, Yeonsu-gu, Incheon, South Korea"
+  id: ChIJyetzjl55ezURosV9N-XoC-M
+  name: Forest Outings
+  address: '145 Cheongnyang-ro, Yeonsu-gu, Incheon, South Korea'
   rating: 4.4
-  userRatingsTotal: 2148
-  priceLevel: 3
-  googleMapsUrl: "https://maps.google.com/?cid=16360426142529602978&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2149
+  priceLevel: 2
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16360426142529602978&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.420087699999996
   lng: 126.65237280000001
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [10, 11, 21, 22]
-    weekendQuiet: [10, 22]
-    weekendBusy: [12, 13, 14, 15, 16, 17, 18, 19, 20]
-    venueId: 'ven_4d2d436f582d4e3956736f52557a6535356c6a7a7465794a496843'
+    weekdayQuiet:
+      - 10
+      - 11
+      - 21
+      - 22
+    weekendQuiet:
+      - 10
+      - 22
+    weekendBusy:
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+    venueId: ven_4d2d436f582d4e3956736f52557a6535356c6a7a7465794a496843
 tags:
-  - "incheon"
-  - "trendy cafe"
-quickAnswer: "Forest Outings is a large, plant-filled café-restaurant complex at 145 Cheongnyang-ro in Yeonsu-gu, Incheon, best known for its greenhouse-style dining rooms and photogenic indoor \"forest.\" Go on a weekday morning or early afternoon (11am–1pm) to beat the weekend crowds that its 4.4-star, 2,000+ review reputation now draws. Budget mid-to-upper range (₩₩₩) for a full meal plus dessert, and set aside 1.5–2 hours to eat and explore the greenery."
+  - incheon
+  - trendy cafe
+quickAnswer: >-
+  Forest Outings is a large, plant-filled café-restaurant complex at 145
+  Cheongnyang-ro in Yeonsu-gu, Incheon, best known for its greenhouse-style
+  dining rooms and photogenic indoor "forest." Go on a weekday morning or early
+  afternoon (11am–1pm) to beat the weekend crowds that its 4.4-star, 2,000+
+  review reputation now draws. Budget mid-to-upper range (₩₩₩) for a full meal
+  plus dessert, and set aside 1.5–2 hours to eat and explore the greenery.
 faq:
-  - q: "How do I get to Forest Outings from central Incheon or the airport?"
-    a: "The address is 145 Cheongnyang-ro, Yeonsu-gu. Taxi or rideshare is the simplest option (roughly 30–40 minutes from Incheon International Airport depending on traffic); check Naver Map or Kakao Map for the closest subway stop on the Incheon Line 1 corridor before you go."
-  - q: "How much should I budget?"
-    a: "It's priced at a mid-to-upper level (₩₩₩), so expect to pay more like a sit-down restaurant meal than a casual coffee stop — plan for a full brunch or lunch plus dessert and drinks."
-  - q: "How long should I plan to stay?"
-    a: "Most visitors spend 1.5–2 hours: enough time to order food, eat at a relaxed pace, and walk through the plant-filled zones for photos."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Weekday late mornings to early afternoon (around 11am–1pm) are typically quieter. Weekends, especially Saturday afternoons, draw long waits given its 4.4-star rating and 2,000+ reviews."
-  - q: "Is it good for photos?"
-    a: "Yes — the greenhouse-style glass sections and dense indoor plantings are the main visual draw, and photograph best on bright, sunny days when natural light fills the space."
+  - q: How do I get to Forest Outings from central Incheon or the airport?
+    a: >-
+      The address is 145 Cheongnyang-ro, Yeonsu-gu. Taxi or rideshare is the
+      simplest option (roughly 30–40 minutes from Incheon International Airport
+      depending on traffic); check Naver Map or Kakao Map for the closest subway
+      stop on the Incheon Line 1 corridor before you go.
+  - q: How much should I budget?
+    a: >-
+      It's priced at a mid-to-upper level (₩₩₩), so expect to pay more like a
+      sit-down restaurant meal than a casual coffee stop — plan for a full
+      brunch or lunch plus dessert and drinks.
+  - q: How long should I plan to stay?
+    a: >-
+      Most visitors spend 1.5–2 hours: enough time to order food, eat at a
+      relaxed pace, and walk through the plant-filled zones for photos.
+  - q: When is the best time to visit to avoid crowds?
+    a: >-
+      Weekday late mornings to early afternoon (around 11am–1pm) are typically
+      quieter. Weekends, especially Saturday afternoons, draw long waits given
+      its 4.4-star rating and 2,000+ reviews.
+  - q: Is it good for photos?
+    a: >-
+      Yes — the greenhouse-style glass sections and dense indoor plantings are
+      the main visual draw, and photograph best on bright, sunny days when
+      natural light fills the space.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

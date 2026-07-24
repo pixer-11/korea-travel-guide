@@ -1,51 +1,95 @@
 ---
-title: "Livingstone: Bali Travel Guide"
-description: "Livingstone is a large, plant-filled café-restaurant on Jl. Petitenget in Kerobokan, one of the Seminyak-Canggu corridor's most consistently packed all-day"
-country: "Indonesia"
-region: "Bali"
-category: "trendy"
-pubDate: "2026-07-23T07:21:51.450Z"
+title: 'Livingstone: Bali Travel Guide'
+description: >-
+  Livingstone is a large, plant-filled café-restaurant on Jl. Petitenget in
+  Kerobokan, one of the Seminyak-Canggu corridor's most consistently packed
+  all-day
+country: Indonesia
+region: Bali
+category: trendy
+pubDate: '2026-07-23T07:21:51.450Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Livingstone_and_the_Lion.jpg/1920px-Livingstone_and_the_Lion.jpg"
-  credit: "Photo: DeFacto / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Livingstone_and_the_Lion.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Livingstone_and_the_Lion.jpg/1920px-Livingstone_and_the_Lion.jpg
+  credit: 'Photo: DeFacto / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Livingstone_and_the_Lion.jpg'
 gallery: []
 place:
-  id: "ChIJv-pCBGtH0i0RtjgHkk_uF-g"
-  name: "Livingstone"
-  address: "Jl. Petitenget No.88X, Kerobokan Kelod, Kec. Kuta Utara, Kabupaten Badung, Bali 80361, Indonesia"
+  id: ChIJv-pCBGtH0i0RtjgHkk_uF-g
+  name: Livingstone
+  address: >-
+    Jl. Petitenget No.88X, Kerobokan Kelod, Kec. Kuta Utara, Kabupaten Badung,
+    Bali 80361, Indonesia
   rating: 4.8
-  userRatingsTotal: 14180
+  userRatingsTotal: 14187
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=16724097766783400118&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16724097766783400118&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -8.6717861
   lng: 115.16142219999998
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [7, 8, 22]
-    weekdayBusy: [12, 13, 14]
-    weekendQuiet: [7, 8, 21, 22]
-    weekendBusy: [10, 11, 12, 13, 14, 15]
-    venueId: 'ven_672d46755f6b6b48676a74523069304874474243702d764a496843'
+    weekdayQuiet:
+      - 7
+      - 8
+      - 22
+    weekdayBusy:
+      - 12
+      - 13
+      - 14
+    weekendQuiet:
+      - 7
+      - 8
+      - 21
+      - 22
+    weekendBusy:
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+    venueId: ven_672d46755f6b6b48676a74523069304874474243702d764a496843
 tags:
-  - "bali"
-  - "trendy cafe"
-quickAnswer: "Livingstone is a large, plant-filled café-restaurant on Jl. Petitenget in Kerobokan, one of the Seminyak-Canggu corridor's most consistently packed all-day spots (4.8 stars, 14,000+ reviews). Go on a weekday morning to actually get a table without a wait, expect mid-range prices (roughly 100,000–180,000 IDR for mains, cocktails a bit more), and book ahead for dinner or weekends."
+  - bali
+  - trendy cafe
+quickAnswer: >-
+  Livingstone is a large, plant-filled café-restaurant on Jl. Petitenget in
+  Kerobokan, one of the Seminyak-Canggu corridor's most consistently packed
+  all-day spots (4.8 stars, 14,000+ reviews). Go on a weekday morning to
+  actually get a table without a wait, expect mid-range prices (roughly
+  100,000–180,000 IDR for mains, cocktails a bit more), and book ahead for
+  dinner or weekends.
 faq:
-  - q: "Do I need a reservation at Livingstone?"
-    a: "It's not always required for small groups at off-peak hours, but given its popularity (4.8 rating, 14,000+ reviews), booking ahead is strongly recommended for dinner, weekends, and larger parties."
-  - q: "How much does a meal cost?"
-    a: "It sits at a moderate price level for Bali — expect mid-range prices for mains and slightly higher for cocktails. Exact prices shift, so check the current menu on-site or via their listed contact channels."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Weekday mornings around opening time or the 3–5pm gap between lunch and dinner tend to be quieter than weekend brunch or evening hours."
-  - q: "How do I get to Livingstone without a car?"
-    a: "Ride-hailing apps like Gojek or Grab cover the area, though you may need to walk a short distance to a designated pickup point on Jl. Petitenget. Scooter rental is the most flexible option for getting around Kerobokan."
-  - q: "What's nearby if I want to make a half-day of it?"
-    a: "Petitenget Beach, several beach clubs, and Seminyak's main shopping streets are all a short drive or scooter ride from Livingstone, making it easy to pair with a beach or shopping stop."
+  - q: Do I need a reservation at Livingstone?
+    a: >-
+      It's not always required for small groups at off-peak hours, but given its
+      popularity (4.8 rating, 14,000+ reviews), booking ahead is strongly
+      recommended for dinner, weekends, and larger parties.
+  - q: How much does a meal cost?
+    a: >-
+      It sits at a moderate price level for Bali — expect mid-range prices for
+      mains and slightly higher for cocktails. Exact prices shift, so check the
+      current menu on-site or via their listed contact channels.
+  - q: What's the best time to visit to avoid crowds?
+    a: >-
+      Weekday mornings around opening time or the 3–5pm gap between lunch and
+      dinner tend to be quieter than weekend brunch or evening hours.
+  - q: How do I get to Livingstone without a car?
+    a: >-
+      Ride-hailing apps like Gojek or Grab cover the area, though you may need
+      to walk a short distance to a designated pickup point on Jl. Petitenget.
+      Scooter rental is the most flexible option for getting around Kerobokan.
+  - q: What's nearby if I want to make a half-day of it?
+    a: >-
+      Petitenget Beach, several beach clubs, and Seminyak's main shopping
+      streets are all a short drive or scooter ride from Livingstone, making it
+      easy to pair with a beach or shopping stop.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

@@ -1,50 +1,91 @@
 ---
-title: "Hai s Restaurant: Where to Eat in Ho Chi Minh City"
-description: "Hai's Restaurant is a long-running, expat-and-tourist-favorite Vietnamese restaurant at 257 Lý Tự Trọng in District 1's Bến Thành ward, a short walk from Ben"
-country: "Vietnam"
-region: "Ho Chi Minh City"
-category: "restaurant"
-pubDate: "2026-07-22T09:30:54.226Z"
+title: 'Hai s Restaurant: Where to Eat in Ho Chi Minh City'
+description: >-
+  Hai's Restaurant is a long-running, expat-and-tourist-favorite Vietnamese
+  restaurant at 257 Lý Tự Trọng in District 1's Bến Thành ward, a short walk
+  from Ben
+country: Vietnam
+region: Ho Chi Minh City
+category: restaurant
+pubDate: '2026-07-22T09:30:54.226Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Empty_plate%2C_Hai_Duong_restaurant%2C_Eden_Center.jpg/1920px-Empty_plate%2C_Hai_Duong_restaurant%2C_Eden_Center.jpg"
-  credit: "Photo: Ser Amantio di Nicolao / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Empty_plate,_Hai_Duong_restaurant,_Eden_Center.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Empty_plate%2C_Hai_Duong_restaurant%2C_Eden_Center.jpg/1920px-Empty_plate%2C_Hai_Duong_restaurant%2C_Eden_Center.jpg
+  credit: 'Photo: Ser Amantio di Nicolao / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Empty_plate,_Hai_Duong_restaurant,_Eden_Center.jpg
 gallery: []
 place:
-  id: "ChIJA9NJLgAvdTERFn-HEn_-hXQ"
-  name: "Hai’s Restaurant"
-  address: "257 Lý Tự Trọng, Bến Thành, Hồ Chí Minh 700000, Vietnam"
+  id: ChIJA9NJLgAvdTERFn-HEn_-hXQ
+  name: Hai’s Restaurant
+  address: '257 Lý Tự Trọng, Bến Thành, Hồ Chí Minh 700000, Vietnam'
   rating: 4.9
-  userRatingsTotal: 7931
-  googleMapsUrl: "https://maps.google.com/?cid=8396396902027329302&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 7918
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8396396902027329302&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 10.772222399999999
   lng: 106.6947276
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [10, 11]
-    weekdayBusy: [18, 19, 20]
-    weekendQuiet: [10, 11, 22]
-    weekendBusy: [18, 19, 20, 21]
-    venueId: 'ven_5158682d5f6e45482d6e46524554647641674c4a4e39414a496843'
+    weekdayQuiet:
+      - 10
+      - 11
+    weekdayBusy:
+      - 18
+      - 19
+      - 20
+    weekendQuiet:
+      - 10
+      - 11
+      - 22
+    weekendBusy:
+      - 18
+      - 19
+      - 20
+      - 21
+    venueId: ven_5158682d5f6e45482d6e46524554647641674c4a4e39414a496843
+  priceLevel: 2
 tags:
-  - "ho chi minh city"
-  - "local restaurant"
-quickAnswer: "Hai's Restaurant is a long-running, expat-and-tourist-favorite Vietnamese restaurant at 257 Lý Tự Trọng in District 1's Bến Thành ward, a short walk from Ben Thanh Market. It's known for approachable, well-cooked Vietnamese classics (spring rolls, pho, claypot dishes, seafood) served in a relaxed courtyard-style setting, and it consistently pulls a near-perfect rating from thousands of reviewers. Go for an early dinner (6–7pm) to beat the crowd and book ahead on weekends."
+  - ho chi minh city
+  - local restaurant
+quickAnswer: >-
+  Hai's Restaurant is a long-running, expat-and-tourist-favorite Vietnamese
+  restaurant at 257 Lý Tự Trọng in District 1's Bến Thành ward, a short walk
+  from Ben Thanh Market. It's known for approachable, well-cooked Vietnamese
+  classics (spring rolls, pho, claypot dishes, seafood) served in a relaxed
+  courtyard-style setting, and it consistently pulls a near-perfect rating from
+  thousands of reviewers. Go for an early dinner (6–7pm) to beat the crowd and
+  book ahead on weekends.
 faq:
-  - q: "How do I get to Hai's Restaurant from Ben Thanh Market?"
-    a: "It's about a 10-minute walk northwest along Lý Tự Trọng, or a very short Grab ride if it's raining or you're short on time."
-  - q: "Do I need a reservation?"
-    a: "It's not always required for small groups on weekdays, but given the restaurant's popularity (nearly 8,000 reviews, 4.9 rating), booking ahead is strongly recommended for weekend dinners or larger parties."
-  - q: "What should I order?"
-    a: "Start with fresh or fried spring rolls, then share claypot fish or pork, pho, and a stir-fried greens dish like rau muống xào tỏi for a well-rounded introduction to Vietnamese home-style cooking."
-  - q: "What's the best time of day to visit?"
-    a: "Early evening, around 6–7pm, offers the best balance of a lively atmosphere without the peak weekend rush; weekday lunches are the quietest option."
-  - q: "What else is nearby to combine with dinner?"
-    a: "Ben Thanh Market, Notre-Dame Cathedral, the Saigon Central Post Office, and the Bui Vien backpacker strip are all within a 15–20 minute walk, making it easy to build a half-day itinerary around the meal."
+  - q: How do I get to Hai's Restaurant from Ben Thanh Market?
+    a: >-
+      It's about a 10-minute walk northwest along Lý Tự Trọng, or a very short
+      Grab ride if it's raining or you're short on time.
+  - q: Do I need a reservation?
+    a: >-
+      It's not always required for small groups on weekdays, but given the
+      restaurant's popularity (nearly 8,000 reviews, 4.9 rating), booking ahead
+      is strongly recommended for weekend dinners or larger parties.
+  - q: What should I order?
+    a: >-
+      Start with fresh or fried spring rolls, then share claypot fish or pork,
+      pho, and a stir-fried greens dish like rau muống xào tỏi for a
+      well-rounded introduction to Vietnamese home-style cooking.
+  - q: What's the best time of day to visit?
+    a: >-
+      Early evening, around 6–7pm, offers the best balance of a lively
+      atmosphere without the peak weekend rush; weekday lunches are the quietest
+      option.
+  - q: What else is nearby to combine with dinner?
+    a: >-
+      Ben Thanh Market, Notre-Dame Cathedral, the Saigon Central Post Office,
+      and the Bui Vien backpacker strip are all within a 15–20 minute walk,
+      making it easy to build a half-day itinerary around the meal.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

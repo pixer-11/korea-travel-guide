@@ -1,44 +1,76 @@
 ---
-title: "Gyukatsu Motomura Fukuoka Parco Branch: Where to Eat"
-description: "Gyukatsu Motomura is a breaded, seared beef-cutlet specialist tucked in the basement (B2F) of Fukuoka Parco's new building in Tenjin — a fast, affordable"
-country: "Japan"
-region: "Fukuoka"
-category: "restaurant"
-pubDate: 2026-07-21
+title: 'Gyukatsu Motomura Fukuoka Parco Branch: Where to Eat'
+description: >-
+  Gyukatsu Motomura is a breaded, seared beef-cutlet specialist tucked in the
+  basement (B2F) of Fukuoka Parco's new building in Tenjin — a fast, affordable
+country: Japan
+region: Fukuoka
+category: restaurant
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1767265581515-afe9ff46ad76?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8RnVrdW9rYSUyMEphcGFuJTIwbG9jYWwlMjByZXN0YXVyYW50fGVufDB8MHx8fDE3ODQ2Mjc3NTh8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by PJH on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@dokae?utm_source=korea_travel_guide&utm_medium=referral"
+  url: >-
+    https://images.unsplash.com/photo-1767265581515-afe9ff46ad76?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8RnVrdW9rYSUyMEphcGFuJTIwbG9jYWwlMjByZXN0YXVyYW50fGVufDB8MHx8fDE3ODQ2Mjc3NTh8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by PJH on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@dokae?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
-  id: "ChIJax0RbrCRQTUR54R-05nTmuE"
-  name: "Gyukatsu Motomura Fukuoka Parco Branch"
-  address: "Japan, 〒810-0001 Fukuoka, Chuo Ward, Tenjin, 2-chōme−11−１ 福岡パルコ新館 B2F B202 区画"
+  id: ChIJax0RbrCRQTUR54R-05nTmuE
+  name: Gyukatsu Motomura Fukuoka Parco Branch
+  address: >-
+    Japan, 〒810-0001 Fukuoka, Chuo Ward, Tenjin, 2-chōme−11−１ 福岡パルコ新館 B2F B202
+    区画
   rating: 4.9
-  userRatingsTotal: 14969
+  userRatingsTotal: 14989
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=16256538462578967783&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16256538462578967783&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 33.590902799999995
   lng: 130.398055
 tags:
-  - "fukuoka"
-  - "local restaurant"
-quickAnswer: "Gyukatsu Motomura is a breaded, seared beef-cutlet specialist tucked in the basement (B2F) of Fukuoka Parco's new building in Tenjin — a fast, affordable sit-down meal (price level ¥¥, roughly a lunch-set budget) that consistently pulls near-perfect ratings from almost 15,000 reviewers. Go for the signature gyukatsu set with a personal mini hot-stone grill, order it rare-to-medium, and expect a short wait during lunch and dinner peak hours since it's inside a busy shopping complex."
+  - fukuoka
+  - local restaurant
+quickAnswer: >-
+  Gyukatsu Motomura is a breaded, seared beef-cutlet specialist tucked in the
+  basement (B2F) of Fukuoka Parco's new building in Tenjin — a fast, affordable
+  sit-down meal (price level ¥¥, roughly a lunch-set budget) that consistently
+  pulls near-perfect ratings from almost 15,000 reviewers. Go for the signature
+  gyukatsu set with a personal mini hot-stone grill, order it rare-to-medium,
+  and expect a short wait during lunch and dinner peak hours since it's inside a
+  busy shopping complex.
 faq:
-  - q: "How do I get to Gyukatsu Motomura Fukuoka Parco Branch?"
-    a: "It's on B2F of Fukuoka Parco's new building (Shinkan) in Tenjin, Chuo Ward. The closest station is Tenjin Station on the Fukuoka City Subway Kūkō Line or Nishitetsu Tenjin Ōmuta Line, a few minutes' walk mostly via underground passages; Tenjin Minami Station (Nanakuma Line) also works."
-  - q: "How much does a meal cost?"
-    a: "It's priced in the moderate range (price level ¥¥) — more than a quick noodle stand but well below a splurge dinner, roughly comparable to a standard teishoku lunch set price in central Fukuoka."
-  - q: "What should I order?"
-    a: "Start with the classic gyukatsu teishoku (set): breaded, seared beef cutlet with rice, miso soup, cabbage, and dipping sauces, cooked to your preference on the personal tabletop hot stone. Order it rare-to-medium and finish it yourself on the stone."
-  - q: "Is there usually a wait?"
-    a: "Given its nearly 15,000 reviews and 4.9 rating, lunch (11:30am–1:30pm) and dinner (6–8pm) peaks often mean a short queue. Going right at opening or after 8:30pm tends to be quieter."
-  - q: "What else is nearby?"
-    a: "It's inside Fukuoka Parco, steps from Tenjin Underground Shopping Mall (Tenchika) and Iwataya department store; Nakasu's riverside yatai food stalls are a short walk/taxi away for an evening food crawl afterward."
+  - q: How do I get to Gyukatsu Motomura Fukuoka Parco Branch?
+    a: >-
+      It's on B2F of Fukuoka Parco's new building (Shinkan) in Tenjin, Chuo
+      Ward. The closest station is Tenjin Station on the Fukuoka City Subway
+      Kūkō Line or Nishitetsu Tenjin Ōmuta Line, a few minutes' walk mostly via
+      underground passages; Tenjin Minami Station (Nanakuma Line) also works.
+  - q: How much does a meal cost?
+    a: >-
+      It's priced in the moderate range (price level ¥¥) — more than a quick
+      noodle stand but well below a splurge dinner, roughly comparable to a
+      standard teishoku lunch set price in central Fukuoka.
+  - q: What should I order?
+    a: >-
+      Start with the classic gyukatsu teishoku (set): breaded, seared beef
+      cutlet with rice, miso soup, cabbage, and dipping sauces, cooked to your
+      preference on the personal tabletop hot stone. Order it rare-to-medium and
+      finish it yourself on the stone.
+  - q: Is there usually a wait?
+    a: >-
+      Given its nearly 15,000 reviews and 4.9 rating, lunch (11:30am–1:30pm) and
+      dinner (6–8pm) peaks often mean a short queue. Going right at opening or
+      after 8:30pm tends to be quieter.
+  - q: What else is nearby?
+    a: >-
+      It's inside Fukuoka Parco, steps from Tenjin Underground Shopping Mall
+      (Tenchika) and Iwataya department store; Nakasu's riverside yatai food
+      stalls are a short walk/taxi away for an evening food crawl afterward.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

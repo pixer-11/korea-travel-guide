@@ -1,43 +1,71 @@
 ---
-title: "Chatuchak Weekend Market: Bangkok Travel Guide"
-description: "Chatuchak Weekend Market (locally \\\"JJ Market\\\") sprawls across 27 sections and over 15,000 stalls in northern Bangkok, open mainly Saturday and Sunday"
-country: "Thailand"
-region: "Bangkok"
-category: "hidden-gem"
-pubDate: "2026-07-22T09:13:57.233Z"
+title: 'Chatuchak Weekend Market: Bangkok Travel Guide'
+description: >-
+  Chatuchak Weekend Market (locally \"JJ Market\") sprawls across 27 sections
+  and over 15,000 stalls in northern Bangkok, open mainly Saturday and Sunday
+country: Thailand
+region: Bangkok
+category: hidden-gem
+pubDate: '2026-07-22T09:13:57.233Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Chatuchak_Weekend_Market%2C_Bangkok%2C_Thailand_%284570440063%29.jpg/1920px-Chatuchak_Weekend_Market%2C_Bangkok%2C_Thailand_%284570440063%29.jpg"
-  credit: "Photo: yeowatzup / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Chatuchak_Weekend_Market,_Bangkok,_Thailand_(4570440063).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Chatuchak_Weekend_Market%2C_Bangkok%2C_Thailand_%284570440063%29.jpg/1920px-Chatuchak_Weekend_Market%2C_Bangkok%2C_Thailand_%284570440063%29.jpg
+  credit: 'Photo: yeowatzup / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Chatuchak_Weekend_Market,_Bangkok,_Thailand_(4570440063).jpg
 gallery: []
 place:
-  id: "ChIJ3fiD6BSc4jARS324hNeR8ZE"
-  name: "Chatuchak Weekend Market"
-  address: "587, 10 Kamphaeng Phet 2 Rd, Khwaeng Chatuchak, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand"
+  id: ChIJ3fiD6BSc4jARS324hNeR8ZE
+  name: Chatuchak Weekend Market
+  address: >-
+    587, 10 Kamphaeng Phet 2 Rd, Khwaeng Chatuchak, Khet Chatuchak, Krung Thep
+    Maha Nakhon 10900, Thailand
   rating: 4.4
-  userRatingsTotal: 56008
-  googleMapsUrl: "https://maps.google.com/?cid=10516346959717498187&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 56019
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10516346959717498187&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 13.799781
   lng: 100.55042449999999
 tags:
-  - "bangkok"
-  - "Chatuchak Weekend Market"
-quickAnswer: "Chatuchak Weekend Market (locally \"JJ Market\") sprawls across 27 sections and over 15,000 stalls in northern Bangkok, open mainly Saturday and Sunday, roughly 9am–6pm. Take the MRT to Kamphaeng Phet station (exit 1 leads straight into the market) or Chatuchak Park/Mo Chit stations on the BTS, grab a printed section map at an information kiosk, and budget at least 3–4 hours to make a real dent in it."
+  - bangkok
+  - Chatuchak Weekend Market
+quickAnswer: >-
+  Chatuchak Weekend Market (locally "JJ Market") sprawls across 27 sections and
+  over 15,000 stalls in northern Bangkok, open mainly Saturday and Sunday,
+  roughly 9am–6pm. Take the MRT to Kamphaeng Phet station (exit 1 leads straight
+  into the market) or Chatuchak Park/Mo Chit stations on the BTS, grab a printed
+  section map at an information kiosk, and budget at least 3–4 hours to make a
+  real dent in it.
 faq:
-  - q: "How do I get to Chatuchak Weekend Market by public transport?"
-    a: "Take the MRT to Kamphaeng Phet station and use Exit 1, which opens directly onto the market. Alternatively, the BTS to Mo Chit station puts you a short walk away through Chatuchak Park."
-  - q: "What days and hours is the market open?"
-    a: "The main market runs Saturday and Sunday, roughly 9am to 6pm, though many stalls open closer to 10am. A smaller, plant-focused wholesale session runs Wednesday and Thursday."
-  - q: "How much time should I set aside?"
-    a: "Budget at least 3–4 hours for a decent first pass, or a half day if you want to explore multiple sections and eat properly. With 15,000+ stalls across 27 sections, most visitors don't see it all in one visit."
-  - q: "Can I pay by card, or do I need cash?"
-    a: "Cash is still the most reliable option at most stalls. Carry Thai baht in small denominations, since card readers exist but aren't universal, especially at food stands and smaller vendors."
-  - q: "Is bargaining expected?"
-    a: "Yes, at most clothing, antique, and craft stalls — starting around 20–30% below the asking price is normal. Food stalls typically have fixed prices."
+  - q: How do I get to Chatuchak Weekend Market by public transport?
+    a: >-
+      Take the MRT to Kamphaeng Phet station and use Exit 1, which opens
+      directly onto the market. Alternatively, the BTS to Mo Chit station puts
+      you a short walk away through Chatuchak Park.
+  - q: What days and hours is the market open?
+    a: >-
+      The main market runs Saturday and Sunday, roughly 9am to 6pm, though many
+      stalls open closer to 10am. A smaller, plant-focused wholesale session
+      runs Wednesday and Thursday.
+  - q: How much time should I set aside?
+    a: >-
+      Budget at least 3–4 hours for a decent first pass, or a half day if you
+      want to explore multiple sections and eat properly. With 15,000+ stalls
+      across 27 sections, most visitors don't see it all in one visit.
+  - q: 'Can I pay by card, or do I need cash?'
+    a: >-
+      Cash is still the most reliable option at most stalls. Carry Thai baht in
+      small denominations, since card readers exist but aren't universal,
+      especially at food stands and smaller vendors.
+  - q: Is bargaining expected?
+    a: >-
+      Yes, at most clothing, antique, and craft stalls — starting around 20–30%
+      below the asking price is normal. Food stalls typically have fixed prices.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

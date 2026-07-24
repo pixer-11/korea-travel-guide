@@ -1,50 +1,96 @@
 ---
-title: "Yemeni Corner Restaurant: Where to Eat in Ajman"
-description: "Yemeni Corner Restaurant (مطعم الركن اليمني للمندي) on Al Zahir Street in Ajman is a go-to spot for mandi — slow-smoked, tender lamb or chicken over spiced"
-country: "United Arab Emirates"
-region: "Ajman"
-category: "restaurant"
-pubDate: "2026-07-23T08:01:54.884Z"
+title: 'Yemeni Corner Restaurant: Where to Eat in Ajman'
+description: >-
+  Yemeni Corner Restaurant (مطعم الركن اليمني للمندي) on Al Zahir Street in
+  Ajman is a go-to spot for mandi — slow-smoked, tender lamb or chicken over
+  spiced
+country: United Arab Emirates
+region: Ajman
+category: restaurant
+pubDate: '2026-07-23T08:01:54.884Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/5/56/Diving_equipment_at_local_diving_center_in_Ajman%2C_emirate_of_Ajman%2C_United_Arab_Emirates%2C_Spring%2C_2011_%283%29.jpg"
-  credit: "Photo: majelanmarine / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Diving_equipment_at_local_diving_center_in_Ajman,_emirate_of_Ajman,_United_Arab_Emirates,_Spring,_2011_(3).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/5/56/Diving_equipment_at_local_diving_center_in_Ajman%2C_emirate_of_Ajman%2C_United_Arab_Emirates%2C_Spring%2C_2011_%283%29.jpg
+  credit: 'Photo: majelanmarine / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Diving_equipment_at_local_diving_center_in_Ajman,_emirate_of_Ajman,_United_Arab_Emirates,_Spring,_2011_(3).jpg
 gallery: []
 place:
-  id: "ChIJM7xyvxJZXz4RYUMGtu46rvQ"
-  name: "مطعم الركن اليمني للمندي Yemeni Corner Restaurant"
-  address: "Al Zahir Street - Ajman - United Arab Emirates"
+  id: ChIJM7xyvxJZXz4RYUMGtu46rvQ
+  name: مطعم الركن اليمني للمندي Yemeni Corner Restaurant
+  address: Al Zahir Street - Ajman - United Arab Emirates
   rating: 4.8
-  userRatingsTotal: 2134
-  googleMapsUrl: "https://maps.google.com/?cid=17631094388132561761&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2136
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17631094388132561761&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.3988455
   lng: 55.442254399999996
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [11, 12, 13]
-    weekdayBusy: [19, 21]
-    weekendQuiet: [11, 12, 13]
-    weekendBusy: [15, 16, 17, 18, 19, 20, 21, 22]
-    venueId: 'ven_51767236347574474d555952347a585a4a78767978374d4a496843'
+    weekdayQuiet:
+      - 11
+      - 12
+      - 13
+    weekdayBusy:
+      - 19
+      - 21
+    weekendQuiet:
+      - 11
+      - 12
+      - 13
+    weekendBusy:
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+    venueId: ven_51767236347574474d555952347a585a4a78767978374d4a496843
+  priceLevel: 2
 tags:
-  - "ajman"
-  - "street food"
-quickAnswer: "Yemeni Corner Restaurant (مطعم الركن اليمني للمندي) on Al Zahir Street in Ajman is a go-to spot for mandi — slow-smoked, tender lamb or chicken over spiced rice, cooked in a traditional underground pit. With a 4.8 rating from over 2,100 reviews, it's one of the most consistently praised mandi houses in Ajman. Go hungry, expect to share a platter, and arrive early for lunch or dinner to avoid the wait."
+  - ajman
+  - street food
+quickAnswer: >-
+  Yemeni Corner Restaurant (مطعم الركن اليمني للمندي) on Al Zahir Street in
+  Ajman is a go-to spot for mandi — slow-smoked, tender lamb or chicken over
+  spiced rice, cooked in a traditional underground pit. With a 4.8 rating from
+  over 2,100 reviews, it's one of the most consistently praised mandi houses in
+  Ajman. Go hungry, expect to share a platter, and arrive early for lunch or
+  dinner to avoid the wait.
 faq:
-  - q: "How do I get to Yemeni Corner Restaurant without a car?"
-    a: "Ajman has no metro, so taxis or ride-hailing apps (Careem, Uber) are the most practical way to reach Al Zahir Street. If arriving from Dubai or Sharjah, allow 20–40 minutes depending on traffic."
-  - q: "What should I order for a first visit?"
-    a: "Start with the lamb or chicken mandi platter to share between two or more people, paired with the maraq broth and daqoos sauce on the side to add flavor as you eat."
-  - q: "Is it busy, and when's the best time to go?"
-    a: "Yes — with a 4.8 rating and over 2,100 reviews, it's a well-known name in Ajman, so lunch and dinner peaks can be crowded. An early lunch or a later evening visit tends to be calmer, and Fridays are typically the busiest day."
-  - q: "How much should I expect to spend?"
-    a: "Mandi platters are generally affordable and priced for sharing, but exact menu prices can change, so it's best to check current pricing on-site or via the restaurant's listed contact before visiting."
-  - q: "What else is nearby?"
-    a: "The restaurant's location on Al Zahir Street is a short drive from the Ajman Corniche, making it easy to combine a mandi meal with a walk along the waterfront."
+  - q: How do I get to Yemeni Corner Restaurant without a car?
+    a: >-
+      Ajman has no metro, so taxis or ride-hailing apps (Careem, Uber) are the
+      most practical way to reach Al Zahir Street. If arriving from Dubai or
+      Sharjah, allow 20–40 minutes depending on traffic.
+  - q: What should I order for a first visit?
+    a: >-
+      Start with the lamb or chicken mandi platter to share between two or more
+      people, paired with the maraq broth and daqoos sauce on the side to add
+      flavor as you eat.
+  - q: 'Is it busy, and when''s the best time to go?'
+    a: >-
+      Yes — with a 4.8 rating and over 2,100 reviews, it's a well-known name in
+      Ajman, so lunch and dinner peaks can be crowded. An early lunch or a later
+      evening visit tends to be calmer, and Fridays are typically the busiest
+      day.
+  - q: How much should I expect to spend?
+    a: >-
+      Mandi platters are generally affordable and priced for sharing, but exact
+      menu prices can change, so it's best to check current pricing on-site or
+      via the restaurant's listed contact before visiting.
+  - q: What else is nearby?
+    a: >-
+      The restaurant's location on Al Zahir Street is a short drive from the
+      Ajman Corniche, making it easy to combine a mandi meal with a walk along
+      the waterfront.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

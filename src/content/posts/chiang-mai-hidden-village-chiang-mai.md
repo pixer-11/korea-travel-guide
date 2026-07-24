@@ -1,43 +1,74 @@
 ---
-title: "Hidden Village: Chiang Mai Travel Guide"
-description: "Hidden Village Chiang Mai is a rustic, jungle-style café and photo-op garden in San Phi Suea, on the northeastern edge of Chiang Mai city, best visited on a"
-country: "Thailand"
-region: "Chiang Mai"
-category: "hidden-gem"
-pubDate: "2026-07-22T09:16:53.893Z"
+title: 'Hidden Village: Chiang Mai Travel Guide'
+description: >-
+  Hidden Village Chiang Mai is a rustic, jungle-style café and photo-op garden
+  in San Phi Suea, on the northeastern edge of Chiang Mai city, best visited on
+  a
+country: Thailand
+region: Chiang Mai
+category: hidden-gem
+pubDate: '2026-07-22T09:16:53.893Z'
 heroImage:
-  url: "https://images.unsplash.com/photo-1512553353614-82a7370096dc?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8Q2hpYW5nJTIwTWFpJTIwVGhhaWxhbmQlMjBoaWRkZW4lMjBnZW18ZW58MHwwfHx8MTc4NDcxMTc0N3ww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Bharath Mohan on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@illusn?utm_source=korea_travel_guide&utm_medium=referral"
+  url: >-
+    https://images.unsplash.com/photo-1512553353614-82a7370096dc?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8Q2hpYW5nJTIwTWFpJTIwVGhhaWxhbmQlMjBoaWRkZW4lMjBnZW18ZW58MHwwfHx8MTc4NDcxMTc0N3ww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Bharath Mohan on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@illusn?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
-  id: "ChIJL3AGHyQ72jAROerj2sZPIY4"
-  name: "Hidden Village Chiang Mai"
-  address: "77/19 หมู่ 7 168 บ้านท่าหลุก ซอย 8 Tambon San Phi Suea, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50300, Thailand"
+  id: ChIJL3AGHyQ72jAROerj2sZPIY4
+  name: Hidden Village Chiang Mai
+  address: >-
+    77/19 หมู่ 7 168 บ้านท่าหลุก ซอย 8 Tambon San Phi Suea, Amphoe Mueang Chiang
+    Mai, Chang Wat Chiang Mai 50300, Thailand
   rating: 4.2
-  userRatingsTotal: 2462
-  googleMapsUrl: "https://maps.google.com/?cid=10241554743111707193&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2465
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10241554743111707193&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 18.833111
   lng: 98.997575
 tags:
-  - "chiang mai"
-  - "hidden gem"
-quickAnswer: "Hidden Village Chiang Mai is a rustic, jungle-style café and photo-op garden in San Phi Suea, on the northeastern edge of Chiang Mai city, best visited on a weekday morning or late afternoon to avoid tour-bus crowds. Budget 1–1.5 hours, arrive by private car, taxi app (Grab) or rented scooter since it's not on the songthaew grid, and expect to pay a small entry/consumption fee at the door (confirm current amount on arrival). It suits travelers who want quirky rustic-Thailand scenery and easy Instagram shots rather than a historical or cultural landmark."
+  - chiang mai
+  - hidden gem
+quickAnswer: >-
+  Hidden Village Chiang Mai is a rustic, jungle-style café and photo-op garden
+  in San Phi Suea, on the northeastern edge of Chiang Mai city, best visited on
+  a weekday morning or late afternoon to avoid tour-bus crowds. Budget 1–1.5
+  hours, arrive by private car, taxi app (Grab) or rented scooter since it's not
+  on the songthaew grid, and expect to pay a small entry/consumption fee at the
+  door (confirm current amount on arrival). It suits travelers who want quirky
+  rustic-Thailand scenery and easy Instagram shots rather than a historical or
+  cultural landmark.
 faq:
-  - q: "How do I get to Hidden Village Chiang Mai without a car?"
-    a: "Use a Grab ride-hailing app or a metered taxi from the old city — there's no direct songthaew or public bus route, and the soi network in San Phi Suea can be confusing to navigate on foot."
-  - q: "How much does it cost to enter?"
-    a: "There's typically a small entry fee or a minimum food/drink order at the attached café; exact amounts can change, so check the venue's current Google Maps listing or ask when booking your ride."
-  - q: "How long should I plan to stay?"
-    a: "Most visitors spend 60–90 minutes walking the wooden bridges and photo areas and having a drink or snack at the café."
-  - q: "What's the best time of day and year to visit?"
-    a: "Early morning or late afternoon for softer light and cooler temperatures; November to February is the most comfortable season overall, since the site is largely outdoors."
-  - q: "Is it worth visiting if I only have a couple of days in Chiang Mai?"
-    a: "It's a nice-to-have rather than essential — prioritize it if you enjoy rustic photo-op spots and have already covered temples like Wat Phra Singh or Doi Suthep."
+  - q: How do I get to Hidden Village Chiang Mai without a car?
+    a: >-
+      Use a Grab ride-hailing app or a metered taxi from the old city — there's
+      no direct songthaew or public bus route, and the soi network in San Phi
+      Suea can be confusing to navigate on foot.
+  - q: How much does it cost to enter?
+    a: >-
+      There's typically a small entry fee or a minimum food/drink order at the
+      attached café; exact amounts can change, so check the venue's current
+      Google Maps listing or ask when booking your ride.
+  - q: How long should I plan to stay?
+    a: >-
+      Most visitors spend 60–90 minutes walking the wooden bridges and photo
+      areas and having a drink or snack at the café.
+  - q: What's the best time of day and year to visit?
+    a: >-
+      Early morning or late afternoon for softer light and cooler temperatures;
+      November to February is the most comfortable season overall, since the
+      site is largely outdoors.
+  - q: Is it worth visiting if I only have a couple of days in Chiang Mai?
+    a: >-
+      It's a nice-to-have rather than essential — prioritize it if you enjoy
+      rustic photo-op spots and have already covered temples like Wat Phra Singh
+      or Doi Suthep.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

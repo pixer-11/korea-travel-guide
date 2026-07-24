@@ -1,51 +1,84 @@
 ---
-title: "Ăn Thôi: Where to Eat in Da Nang"
-description: "Ăn Thôi is a large, buzzy Vietnamese restaurant on Bạch Đằng, Da Nang's riverside promenade, best known for seafood and central Vietnamese specialties like"
-country: "Vietnam"
-region: "Da Nang"
-category: "restaurant"
-pubDate: "2026-07-22T09:40:42.388Z"
+title: 'Ăn Thôi: Where to Eat in Da Nang'
+description: >-
+  Ăn Thôi is a large, buzzy Vietnamese restaurant on Bạch Đằng, Da Nang's
+  riverside promenade, best known for seafood and central Vietnamese specialties
+  like
+country: Vietnam
+region: Da Nang
+category: restaurant
+pubDate: '2026-07-22T09:40:42.388Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Noi-u-chan-khong-giu-nhiet-da-nang.png/1920px-Noi-u-chan-khong-giu-nhiet-da-nang.png"
-  credit: "Photo: Tứ Diễm / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Noi-u-chan-khong-giu-nhiet-da-nang.png"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Noi-u-chan-khong-giu-nhiet-da-nang.png/1920px-Noi-u-chan-khong-giu-nhiet-da-nang.png
+  credit: 'Photo: Tứ Diễm / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Noi-u-chan-khong-giu-nhiet-da-nang.png
 gallery: []
 place:
-  id: "ChIJYVPRIUkZQjERH-v3yrc3lt0"
-  name: "Ăn Thôi"
-  address: "114 Bạch Đằng, Hải Châu, Đà Nẵng 550000, Vietnam"
+  id: ChIJYVPRIUkZQjERH-v3yrc3lt0
+  name: Ăn Thôi
+  address: '114 Bạch Đằng, Hải Châu, Đà Nẵng 550000, Vietnam'
   rating: 4.8
-  userRatingsTotal: 7698
+  userRatingsTotal: 7714
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=15967010791412460319&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15967010791412460319&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 16.0682463
   lng: 108.2248133
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [10, 21]
-    weekdayBusy: [18]
-    weekendQuiet: [10, 21]
-    weekendBusy: [17, 18, 19]
-    venueId: 'ven_30746c3363727933762d4852456a515a6b5549525056594a496843'
+    weekdayQuiet:
+      - 10
+      - 21
+    weekdayBusy:
+      - 18
+    weekendQuiet:
+      - 10
+      - 21
+    weekendBusy:
+      - 17
+      - 18
+      - 19
+    venueId: ven_30746c3363727933762d4852456a515a6b5549525056594a496843
 tags:
-  - "da nang"
-  - "street food"
-quickAnswer: "Ăn Thôi is a large, buzzy Vietnamese restaurant on Bạch Đằng, Da Nang's riverside promenade, best known for seafood and central Vietnamese specialties like bánh xèo, mì Quảng, and grilled dishes at moderate prices. It's a strong pick for a first big group meal in Da Nang — go early evening (5:30–7pm) to beat the dinner rush and to catch the river and Dragon Bridge lit up nearby."
+  - da nang
+  - street food
+quickAnswer: >-
+  Ăn Thôi is a large, buzzy Vietnamese restaurant on Bạch Đằng, Da Nang's
+  riverside promenade, best known for seafood and central Vietnamese specialties
+  like bánh xèo, mì Quảng, and grilled dishes at moderate prices. It's a strong
+  pick for a first big group meal in Da Nang — go early evening (5:30–7pm) to
+  beat the dinner rush and to catch the river and Dragon Bridge lit up nearby.
 faq:
-  - q: "How do I get to Ăn Thôi without a car?"
-    a: "Walk along the Bạch Đằng riverside promenade in Hải Châu district — it's about a 10–15 minute walk from either Dragon Bridge or Han River Bridge — or take a Grab/taxi directly to 114 Bạch Đằng."
-  - q: "How much does a meal cost?"
-    a: "It sits at a moderate price level (roughly $$), affordable for a full meal with drinks, though exact prices — especially for seafood — should be confirmed on-site since they can fluctuate."
-  - q: "What's the best time to visit?"
-    a: "Early evening, around 5:30–6:30pm, lets you avoid peak dinner crowds and still enjoy the riverside lit up after dark, including the Dragon Bridge's weekend fire show around 9pm."
-  - q: "How long should I plan to stay?"
-    a: "Budget 1–1.5 hours for a sit-down meal, then add time for a post-dinner walk along the Han River promenade toward Dragon Bridge."
-  - q: "What should I order?"
-    a: "Try mì Quảng and bánh xèo for local specialties, plus whatever fresh seafood is available that day — ask staff about the daily catch."
+  - q: How do I get to Ăn Thôi without a car?
+    a: >-
+      Walk along the Bạch Đằng riverside promenade in Hải Châu district — it's
+      about a 10–15 minute walk from either Dragon Bridge or Han River Bridge —
+      or take a Grab/taxi directly to 114 Bạch Đằng.
+  - q: How much does a meal cost?
+    a: >-
+      It sits at a moderate price level (roughly $$), affordable for a full meal
+      with drinks, though exact prices — especially for seafood — should be
+      confirmed on-site since they can fluctuate.
+  - q: What's the best time to visit?
+    a: >-
+      Early evening, around 5:30–6:30pm, lets you avoid peak dinner crowds and
+      still enjoy the riverside lit up after dark, including the Dragon Bridge's
+      weekend fire show around 9pm.
+  - q: How long should I plan to stay?
+    a: >-
+      Budget 1–1.5 hours for a sit-down meal, then add time for a post-dinner
+      walk along the Han River promenade toward Dragon Bridge.
+  - q: What should I order?
+    a: >-
+      Try mì Quảng and bánh xèo for local specialties, plus whatever fresh
+      seafood is available that day — ask staff about the daily catch.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

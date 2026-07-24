@@ -1,43 +1,72 @@
 ---
-title: "Qasr Al Hosn: Abu Dhabi Travel Guide"
-description: "Qasr Al Hosn is Abu Dhabi's oldest stone building — a whitewashed fort-turned-palace-turned-museum in the heart of downtown, on Rashid Bin Saeed Al Maktoum"
-country: "United Arab Emirates"
-region: "Abu Dhabi"
-category: "attraction"
-pubDate: "2026-07-23T07:46:36.451Z"
+title: 'Qasr Al Hosn: Abu Dhabi Travel Guide'
+description: >-
+  Qasr Al Hosn is Abu Dhabi's oldest stone building — a whitewashed
+  fort-turned-palace-turned-museum in the heart of downtown, on Rashid Bin Saeed
+  Al Maktoum
+country: United Arab Emirates
+region: Abu Dhabi
+category: attraction
+pubDate: '2026-07-23T07:46:36.451Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Qasr_al-Hosn_%281%29.jpg/1920px-Qasr_al-Hosn_%281%29.jpg"
-  credit: "Photo: Radosław Botev / Wikimedia Commons (CC BY 3.0 pl)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Qasr_al-Hosn_(1).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Qasr_al-Hosn_%281%29.jpg/1920px-Qasr_al-Hosn_%281%29.jpg
+  credit: 'Photo: Radosław Botev / Wikimedia Commons (CC BY 3.0 pl)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Qasr_al-Hosn_(1).jpg'
 gallery: []
 place:
-  id: "ChIJUzieB3FmXj4RL1oI-R36QmE"
-  name: "Qasr Al Hosn"
-  address: "Rashid Bin Saeed Al Maktoum St(2nd St) - Al Hisn - W3 - Abu Dhabi - United Arab Emirates"
+  id: ChIJUzieB3FmXj4RL1oI-R36QmE
+  name: Qasr Al Hosn
+  address: >-
+    Rashid Bin Saeed Al Maktoum St(2nd St) - Al Hisn - W3 - Abu Dhabi - United
+    Arab Emirates
   rating: 4.6
-  userRatingsTotal: 8005
-  googleMapsUrl: "https://maps.google.com/?cid=7008438976780982831&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 8006
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7008438976780982831&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 24.482236999999998
   lng: 54.354723
 tags:
-  - "abu dhabi"
-  - "top attraction"
-quickAnswer: "Qasr Al Hosn is Abu Dhabi's oldest stone building — a whitewashed fort-turned-palace-turned-museum in the heart of downtown, on Rashid Bin Saeed Al Maktoum Street (2nd Street) in the Al Hisn district. Budget 1.5–2 hours to see the Inner Fort, the Palace wing, and the excellent exhibits on the emirate's pre-oil history; go on a weekday morning to avoid the crowds that its 4.6-star reputation now draws."
+  - abu dhabi
+  - top attraction
+quickAnswer: >-
+  Qasr Al Hosn is Abu Dhabi's oldest stone building — a whitewashed
+  fort-turned-palace-turned-museum in the heart of downtown, on Rashid Bin Saeed
+  Al Maktoum Street (2nd Street) in the Al Hisn district. Budget 1.5–2 hours to
+  see the Inner Fort, the Palace wing, and the excellent exhibits on the
+  emirate's pre-oil history; go on a weekday morning to avoid the crowds that
+  its 4.6-star reputation now draws.
 faq:
-  - q: "How do I get to Qasr Al Hosn without a car?"
-    a: "Take a taxi or rideshare to Al Hisn on Rashid Bin Saeed Al Maktoum Street (2nd Street); Abu Dhabi has no metro, so this is the standard way for visitors staying along the Corniche or Zayed the First Street."
-  - q: "How long should I plan for the visit?"
-    a: "Allow 1.5 to 2 hours to cover both the Inner Fort and the Palace museum galleries; add extra time if a festival or temporary exhibition is on."
-  - q: "What's the best time of day or year to visit?"
-    a: "Weekday mornings shortly after opening are calmest given how popular the site is. November to March offers the most comfortable outdoor temperatures for the courtyards; in summer, focus your time on the air-conditioned galleries."
-  - q: "Is Qasr Al Hosn worth it if I've already seen Sheikh Zayed Grand Mosque?"
-    a: "Yes — it offers a completely different angle on Abu Dhabi, focusing on pre-oil social and political history rather than architecture, and it's the actual founding site of the city."
-  - q: "What else is nearby?"
-    a: "The Cultural Foundation is on the same grounds, and the Corniche, House of Artisans, and World Trade Center Souk are all a short drive or walk away, making it easy to combine into a half-day downtown itinerary."
+  - q: How do I get to Qasr Al Hosn without a car?
+    a: >-
+      Take a taxi or rideshare to Al Hisn on Rashid Bin Saeed Al Maktoum Street
+      (2nd Street); Abu Dhabi has no metro, so this is the standard way for
+      visitors staying along the Corniche or Zayed the First Street.
+  - q: How long should I plan for the visit?
+    a: >-
+      Allow 1.5 to 2 hours to cover both the Inner Fort and the Palace museum
+      galleries; add extra time if a festival or temporary exhibition is on.
+  - q: What's the best time of day or year to visit?
+    a: >-
+      Weekday mornings shortly after opening are calmest given how popular the
+      site is. November to March offers the most comfortable outdoor
+      temperatures for the courtyards; in summer, focus your time on the
+      air-conditioned galleries.
+  - q: Is Qasr Al Hosn worth it if I've already seen Sheikh Zayed Grand Mosque?
+    a: >-
+      Yes — it offers a completely different angle on Abu Dhabi, focusing on
+      pre-oil social and political history rather than architecture, and it's
+      the actual founding site of the city.
+  - q: What else is nearby?
+    a: >-
+      The Cultural Foundation is on the same grounds, and the Corniche, House of
+      Artisans, and World Trade Center Souk are all a short drive or walk away,
+      making it easy to combine into a half-day downtown itinerary.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

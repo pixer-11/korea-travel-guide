@@ -1,51 +1,88 @@
 ---
-title: "XLIII Specialty Coffee: Da Nang Travel Guide"
-description: "XLIII Specialty Coffee is a sprawling, design-forward café in the Ngũ Hành Sơn district of Da Nang, close to the Marble Mountains and a short ride from My"
-country: "Vietnam"
-region: "Da Nang"
-category: "trendy"
-pubDate: "2026-07-22T09:36:41.229Z"
+title: 'XLIII Specialty Coffee: Da Nang Travel Guide'
+description: >-
+  XLIII Specialty Coffee is a sprawling, design-forward café in the Ngũ Hành Sơn
+  district of Da Nang, close to the Marble Mountains and a short ride from My
+country: Vietnam
+region: Da Nang
+category: trendy
+pubDate: '2026-07-22T09:36:41.229Z'
 heroImage:
-  url: "https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8RGElMjBOYW5nJTIwVmlldG5hbXxlbnwwfDB8fHwxNzg0NzEyOTA4fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Andreea Popa on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@elfcodobelf?utm_source=korea_travel_guide&utm_medium=referral"
+  url: >-
+    https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8RGElMjBOYW5nJTIwVmlldG5hbXxlbnwwfDB8fHwxNzg0NzEyOTA4fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Andreea Popa on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@elfcodobelf?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
-  id: "ChIJ7xtm7rMXQjER7ye2fxPfbFE"
-  name: "XLIII Specialty Coffee"
-  address: "Lô 419, 422 Ngô Thì Sĩ, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam"
+  id: ChIJ7xtm7rMXQjER7ye2fxPfbFE
+  name: XLIII Specialty Coffee
+  address: 'Lô 419, 422 Ngô Thì Sĩ, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam'
   rating: 4.7
-  userRatingsTotal: 9525
-  priceLevel: 3
-  googleMapsUrl: "https://maps.google.com/?cid=5867309689396930543&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 9537
+  priceLevel: 2
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5867309689396930543&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 16.048087199999998
   lng: 108.24602329999999
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [7, 8]
-    weekdayBusy: [18, 19, 20, 21]
-    weekendQuiet: [7, 8, 9]
-    weekendBusy: [19, 20, 21, 22]
-    venueId: 'ven_454662665078663265793752456a51584d72376d7478374a496843'
+    weekdayQuiet:
+      - 7
+      - 8
+    weekdayBusy:
+      - 18
+      - 19
+      - 20
+      - 21
+    weekendQuiet:
+      - 7
+      - 8
+      - 9
+    weekendBusy:
+      - 19
+      - 20
+      - 21
+      - 22
+    venueId: ven_454662665078663265793752456a51584d72376d7478374a496843
 tags:
-  - "da nang"
-  - "trendy cafe"
-quickAnswer: "XLIII Specialty Coffee is a sprawling, design-forward café in the Ngũ Hành Sơn district of Da Nang, close to the Marble Mountains and a short ride from My Khe Beach. Go on a weekday morning to beat the crowds and claim a spot in its photogenic seating areas, budget a bit more than a typical Vietnamese cà phê stop (priceLevel 3), and plan on staying at least an hour to actually enjoy the space rather than just snap photos."
+  - da nang
+  - trendy cafe
+quickAnswer: >-
+  XLIII Specialty Coffee is a sprawling, design-forward café in the Ngũ Hành Sơn
+  district of Da Nang, close to the Marble Mountains and a short ride from My
+  Khe Beach. Go on a weekday morning to beat the crowds and claim a spot in its
+  photogenic seating areas, budget a bit more than a typical Vietnamese cà phê
+  stop (priceLevel 3), and plan on staying at least an hour to actually enjoy
+  the space rather than just snap photos.
 faq:
-  - q: "How do I get to XLIII Specialty Coffee from central Da Nang?"
-    a: "Use Grab or a taxi for a straightforward 10–15 minute ride to Ngũ Hành Sơn district; motorbike is also common if you're comfortable riding in Vietnamese traffic."
-  - q: "Is XLIII Specialty Coffee expensive?"
-    a: "It's priced above typical local cà phê stalls (moderate-to-higher price level), reflecting its design, space, and specialty drink menu, but it's still affordable by international café standards."
-  - q: "How long should I plan to stay?"
-    a: "At least an hour — the multi-level layout and garden seating are meant to be explored and enjoyed, not rushed through."
-  - q: "What should I order?"
-    a: "Try a classic cà phê sữa đá or a specialty single-origin drink; the café's name signals a focus on quality beans beyond basic instant coffee."
-  - q: "Can I combine this with other Da Nang attractions?"
-    a: "Yes — it's close to the Marble Mountains and a short ride from My Khe Beach, making it an easy midday stop between the two."
+  - q: How do I get to XLIII Specialty Coffee from central Da Nang?
+    a: >-
+      Use Grab or a taxi for a straightforward 10–15 minute ride to Ngũ Hành Sơn
+      district; motorbike is also common if you're comfortable riding in
+      Vietnamese traffic.
+  - q: Is XLIII Specialty Coffee expensive?
+    a: >-
+      It's priced above typical local cà phê stalls (moderate-to-higher price
+      level), reflecting its design, space, and specialty drink menu, but it's
+      still affordable by international café standards.
+  - q: How long should I plan to stay?
+    a: >-
+      At least an hour — the multi-level layout and garden seating are meant to
+      be explored and enjoyed, not rushed through.
+  - q: What should I order?
+    a: >-
+      Try a classic cà phê sữa đá or a specialty single-origin drink; the café's
+      name signals a focus on quality beans beyond basic instant coffee.
+  - q: Can I combine this with other Da Nang attractions?
+    a: >-
+      Yes — it's close to the Marble Mountains and a short ride from My Khe
+      Beach, making it an easy midday stop between the two.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

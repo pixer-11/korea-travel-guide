@@ -1,50 +1,95 @@
 ---
-title: "Rong Suea Ten Temple: Chiang Rai Travel Guide"
-description: "Rong Suea Ten (the \\\"Blue Temple\\\") is a striking cobalt-and-gold Buddhist temple on the northern edge of Chiang Rai city, best visited early morning or late"
-country: "Thailand"
-region: "Chiang Rai"
-category: "attraction"
-pubDate: "2026-07-22T09:09:54.870Z"
+title: 'Rong Suea Ten Temple: Chiang Rai Travel Guide'
+description: >-
+  Rong Suea Ten (the \"Blue Temple\") is a striking cobalt-and-gold Buddhist
+  temple on the northern edge of Chiang Rai city, best visited early morning or
+  late
+country: Thailand
+region: Chiang Rai
+category: attraction
+pubDate: '2026-07-22T09:09:54.870Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Wat_Rong_Suea_Ten_%28Blue_Temple%2C_Chiang_Rai%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%95%E0%B9%89%E0%B8%99_%28October_2021%29_-_img_01.jpg/1920px-Wat_Rong_Suea_Ten_%28Blue_Temple%2C_Chiang_Rai%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%95%E0%B9%89%E0%B8%99_%28October_2021%29_-_img_01.jpg"
-  credit: "Photo: Chainwit. / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Wat_Rong_Suea_Ten_(Blue_Temple,_Chiang_Rai)_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%95%E0%B9%89%E0%B8%99_(October_2021)_-_img_01.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Wat_Rong_Suea_Ten_%28Blue_Temple%2C_Chiang_Rai%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%95%E0%B9%89%E0%B8%99_%28October_2021%29_-_img_01.jpg/1920px-Wat_Rong_Suea_Ten_%28Blue_Temple%2C_Chiang_Rai%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%95%E0%B9%89%E0%B8%99_%28October_2021%29_-_img_01.jpg
+  credit: 'Photo: Chainwit. / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Wat_Rong_Suea_Ten_(Blue_Temple,_Chiang_Rai)_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%95%E0%B9%89%E0%B8%99_(October_2021)_-_img_01.jpg
 gallery: []
 place:
-  id: "ChIJERD0pfEG1zARLAVNEwcKLOc"
-  name: "Rong Suea Ten Temple"
-  address: "306 หมู่ที่ 2 Maekok Rd, Tambon Rim Kok, Amphoe Mueang Chiang Rai, Chang Wat Chiang Rai 57100, Thailand"
+  id: ChIJERD0pfEG1zARLAVNEwcKLOc
+  name: Rong Suea Ten Temple
+  address: >-
+    306 หมู่ที่ 2 Maekok Rd, Tambon Rim Kok, Amphoe Mueang Chiang Rai, Chang Wat
+    Chiang Rai 57100, Thailand
   rating: 4.6
-  userRatingsTotal: 26749
-  googleMapsUrl: "https://maps.google.com/?cid=16657700147241485612&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 26762
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16657700147241485612&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 19.923395199999998
   lng: 99.84187349999999
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [7, 8, 9, 19, 20]
-    weekdayBusy: [12, 13, 14, 15]
-    weekendQuiet: [7, 8, 19, 20]
-    weekendBusy: [11, 12, 13, 14, 15]
-    venueId: 'ven_634f4c4b6377454e56414c52417a3147456670304452454a496843'
+    weekdayQuiet:
+      - 7
+      - 8
+      - 9
+      - 19
+      - 20
+    weekdayBusy:
+      - 12
+      - 13
+      - 14
+      - 15
+    weekendQuiet:
+      - 7
+      - 8
+      - 19
+      - 20
+    weekendBusy:
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+    venueId: ven_634f4c4b6377454e56414c52417a3147456670304452454a496843
 tags:
-  - "chiang rai"
-  - "top attraction"
-quickAnswer: "Rong Suea Ten (the \"Blue Temple\") is a striking cobalt-and-gold Buddhist temple on the northern edge of Chiang Rai city, best visited early morning or late afternoon to avoid crowds and harsh light. Entry is free, a visit takes 30–45 minutes, and it pairs naturally with the White Temple (Wat Rong Khun) and Black House (Baan Dam) on a half-day temple loop. Dress modestly (shoulders and knees covered) since this remains an active place of worship."
+  - chiang rai
+  - top attraction
+quickAnswer: >-
+  Rong Suea Ten (the "Blue Temple") is a striking cobalt-and-gold Buddhist
+  temple on the northern edge of Chiang Rai city, best visited early morning or
+  late afternoon to avoid crowds and harsh light. Entry is free, a visit takes
+  30–45 minutes, and it pairs naturally with the White Temple (Wat Rong Khun)
+  and Black House (Baan Dam) on a half-day temple loop. Dress modestly
+  (shoulders and knees covered) since this remains an active place of worship.
 faq:
-  - q: "Is there an entrance fee for Rong Suea Ten?"
-    a: "No, entry to the Blue Temple is free, though donation boxes are placed around the grounds for temple upkeep."
-  - q: "How do I get to the Blue Temple without a car?"
-    a: "There's no direct public bus; most visitors use a rented scooter, taxi, or hired songthaew from Chiang Rai city, about a 10–15 minute ride."
-  - q: "How much time should I plan for a visit?"
-    a: "Most visitors spend 30–45 minutes, enough to walk the exterior, view the interior murals and Buddha image, and take photos at the entrance gate."
-  - q: "What should I wear?"
-    a: "Dress modestly with shoulders and knees covered, as this is an active place of worship, and be ready to remove shoes before entering raised areas."
-  - q: "Can I combine this with other Chiang Rai temples in one day?"
-    a: "Yes — it's commonly visited alongside Wat Rong Khun (White Temple) and Baan Dam Museum (Black House), both within a 15–25 minute drive, forming a popular half-day temple loop."
+  - q: Is there an entrance fee for Rong Suea Ten?
+    a: >-
+      No, entry to the Blue Temple is free, though donation boxes are placed
+      around the grounds for temple upkeep.
+  - q: How do I get to the Blue Temple without a car?
+    a: >-
+      There's no direct public bus; most visitors use a rented scooter, taxi, or
+      hired songthaew from Chiang Rai city, about a 10–15 minute ride.
+  - q: How much time should I plan for a visit?
+    a: >-
+      Most visitors spend 30–45 minutes, enough to walk the exterior, view the
+      interior murals and Buddha image, and take photos at the entrance gate.
+  - q: What should I wear?
+    a: >-
+      Dress modestly with shoulders and knees covered, as this is an active
+      place of worship, and be ready to remove shoes before entering raised
+      areas.
+  - q: Can I combine this with other Chiang Rai temples in one day?
+    a: >-
+      Yes — it's commonly visited alongside Wat Rong Khun (White Temple) and
+      Baan Dam Museum (Black House), both within a 15–25 minute drive, forming a
+      popular half-day temple loop.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

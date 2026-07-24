@@ -1,50 +1,94 @@
 ---
-title: "Basilica of the Sagrada Familia: Barcelona Travel Guide"
-description: "Book a timed-entry ticket online at least 2-3 weeks ahead (longer in summer) and arrive 15 minutes before your slot."
-country: "Spain"
-region: "Barcelona"
-category: "attraction"
-pubDate: 2026-07-21
+title: 'Basilica of the Sagrada Familia: Barcelona Travel Guide'
+description: >-
+  Book a timed-entry ticket online at least 2-3 weeks ahead (longer in summer)
+  and arrive 15 minutes before your slot.
+country: Spain
+region: Barcelona
+category: attraction
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/%28Barcelona%29_Bastidors_d%27espelmes_votives_-_dissenyat_per_Antoni_Gaud%C3%AD_-_Sagrada_Familia.jpg/1920px-%28Barcelona%29_Bastidors_d%27espelmes_votives_-_dissenyat_per_Antoni_Gaud%C3%AD_-_Sagrada_Familia.jpg"
-  credit: "Photo: Didier Descouens / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:(Barcelona)_Bastidors_d%27espelmes_votives_-_dissenyat_per_Antoni_Gaud%C3%AD_-_Sagrada_Familia.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/%28Barcelona%29_Bastidors_d%27espelmes_votives_-_dissenyat_per_Antoni_Gaud%C3%AD_-_Sagrada_Familia.jpg/1920px-%28Barcelona%29_Bastidors_d%27espelmes_votives_-_dissenyat_per_Antoni_Gaud%C3%AD_-_Sagrada_Familia.jpg
+  credit: 'Photo: Didier Descouens / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:(Barcelona)_Bastidors_d%27espelmes_votives_-_dissenyat_per_Antoni_Gaud%C3%AD_-_Sagrada_Familia.jpg
 gallery: []
 place:
-  id: "ChIJk_s92NyipBIRUMnDG8Kq2Js"
-  name: "Basilica of the Sagrada Familia"
-  address: "Carrer de Mallorca, 401, Eixample, 08013 Barcelona, Spain"
+  id: ChIJk_s92NyipBIRUMnDG8Kq2Js
+  name: Basilica of the Sagrada Familia
+  address: 'Carrer de Mallorca, 401, Eixample, 08013 Barcelona, Spain'
   rating: 4.8
-  userRatingsTotal: 326425
-  googleMapsUrl: "https://maps.google.com/?cid=11229913421514525008&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 326412
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11229913421514525008&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.4036299
   lng: 2.1743558
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [9, 18, 19, 20]
-    weekdayBusy: [12, 13, 14, 15, 16]
-    weekendQuiet: [9, 18, 19, 20]
-    weekendBusy: [11, 12, 13, 14, 15, 16, 17]
-    venueId: 'ven_734a32714b3847446e4d555249427069794e3239735f6b4a496843'
+    weekdayQuiet:
+      - 9
+      - 18
+      - 19
+      - 20
+    weekdayBusy:
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+    weekendQuiet:
+      - 9
+      - 18
+      - 19
+      - 20
+    weekendBusy:
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+    venueId: ven_734a32714b3847446e4d555249427069794e3239735f6b4a496843
 tags:
-  - "barcelona"
-  - "Sagrada Familia"
-quickAnswer: "Book a timed-entry ticket online at least 2-3 weeks ahead (longer in summer) and arrive 15 minutes before your slot. Go for the first morning entry (9:00) or the last of the day for softer light through the stained glass, and budget 90 minutes to 2 hours inside, more if you add a tower climb. The nearest metro stop, Sagrada Família (Lines 2 and 5), puts you right at the door."
+  - barcelona
+  - Sagrada Familia
+quickAnswer: >-
+  Book a timed-entry ticket online at least 2-3 weeks ahead (longer in summer)
+  and arrive 15 minutes before your slot. Go for the first morning entry (9:00)
+  or the last of the day for softer light through the stained glass, and budget
+  90 minutes to 2 hours inside, more if you add a tower climb. The nearest metro
+  stop, Sagrada Família (Lines 2 and 5), puts you right at the door.
 faq:
-  - q: "How do I get to the Sagrada Família by public transport?"
-    a: "Take the metro to Sagrada Família station, served by Line 2 (purple) and Line 5 (blue) — the exits open directly onto the plaza in front of the basilica."
-  - q: "How far in advance should I book tickets?"
-    a: "Book online at least 2-3 weeks ahead; in peak season (April-September) popular time slots can sell out a month or more in advance."
-  - q: "How long should I plan to spend there?"
-    a: "Allow 60-90 minutes for the nave, facades, and museum, plus another 45 minutes if you add a tower climb."
-  - q: "Is the tower climb worth it?"
-    a: "Yes for the close-up spire views and rooftop panorama, but note there's typically an elevator up and a narrow spiral staircase down, so it's less suited to those with mobility issues or claustrophobia."
-  - q: "What else is nearby worth visiting?"
-    a: "Other Gaudí landmarks, Casa Milà and Casa Batlló, are a short metro ride away on Passeig de Gràcia, and the surrounding Eixample district has plenty of cafes and tapas bars for a post-visit break."
+  - q: How do I get to the Sagrada Família by public transport?
+    a: >-
+      Take the metro to Sagrada Família station, served by Line 2 (purple) and
+      Line 5 (blue) — the exits open directly onto the plaza in front of the
+      basilica.
+  - q: How far in advance should I book tickets?
+    a: >-
+      Book online at least 2-3 weeks ahead; in peak season (April-September)
+      popular time slots can sell out a month or more in advance.
+  - q: How long should I plan to spend there?
+    a: >-
+      Allow 60-90 minutes for the nave, facades, and museum, plus another 45
+      minutes if you add a tower climb.
+  - q: Is the tower climb worth it?
+    a: >-
+      Yes for the close-up spire views and rooftop panorama, but note there's
+      typically an elevator up and a narrow spiral staircase down, so it's less
+      suited to those with mobility issues or claustrophobia.
+  - q: What else is nearby worth visiting?
+    a: >-
+      Other Gaudí landmarks, Casa Milà and Casa Batlló, are a short metro ride
+      away on Passeig de Gràcia, and the surrounding Eixample district has
+      plenty of cafes and tapas bars for a post-visit break.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

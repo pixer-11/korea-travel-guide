@@ -1,43 +1,72 @@
 ---
-title: "sugyeongsa: Where to Eat in Gyeongju"
-description: "Sugyeongsa (수경사) is a small, highly-rated vegan/vegetarian restaurant near Hwangridan-gil in Gyeongju's Sajeong-dong area, popular for Korean"
-country: "South Korea"
-region: "Gyeongju"
-category: "restaurant"
-pubDate: 2026-07-21
+title: 'sugyeongsa: Where to Eat in Gyeongju'
+description: >-
+  Sugyeongsa (수경사) is a small, highly-rated vegan/vegetarian restaurant near
+  Hwangridan-gil in Gyeongju's Sajeong-dong area, popular for Korean
+country: South Korea
+region: Gyeongju
+category: restaurant
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1656980598127-9b629ff64186?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8R3llb25nanUlMjBTb3V0aCUyMEtvcmVhJTIwbG9jYWwlMjByZXN0YXVyYW50fGVufDB8MHx8fDE3ODQ2MjM1NzR8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by rawkkim on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@rawkkim?utm_source=korea_travel_guide&utm_medium=referral"
+  url: >-
+    https://images.unsplash.com/photo-1656980598127-9b629ff64186?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8R3llb25nanUlMjBTb3V0aCUyMEtvcmVhJTIwbG9jYWwlMjByZXN0YXVyYW50fGVufDB8MHx8fDE3ODQ2MjM1NzR8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by rawkkim on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@rawkkim?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
-  id: "ChIJU5585rRPZjURA-9YRA7h2Tc"
-  name: "sugyeongsa 수경사 / gyeongju restaurant / gyeongju vegan / hwangridan-gil vegetarian /"
-  address: "4-1 Sajeong-dong, Gyeongju, Gyeongsangbuk-do, South Korea"
+  id: ChIJU5585rRPZjURA-9YRA7h2Tc
+  name: >-
+    sugyeongsa 수경사 / gyeongju restaurant / gyeongju vegan / hwangridan-gil
+    vegetarian /
+  address: '4-1 Sajeong-dong, Gyeongju, Gyeongsangbuk-do, South Korea'
   rating: 4.9
-  userRatingsTotal: 268
-  googleMapsUrl: "https://maps.google.com/?cid=4024495193424719619&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 269
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4024495193424719619&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.8385349
   lng: 129.2090461
+  priceLevel: 2
 tags:
-  - "gyeongju"
-  - "local restaurant"
-quickAnswer: "Sugyeongsa (수경사) is a small, highly-rated vegan/vegetarian restaurant near Hwangridan-gil in Gyeongju's Sajeong-dong area, popular for Korean temple-food-style set meals built on tofu, mushrooms, and seasonal vegetables. With a 4.9 rating from 268 reviews, it's worth a short detour from the main tourist strip — plan for lunch, arrive early or reserve if possible, and expect a modest, unhurried dining room rather than a flashy one."
+  - gyeongju
+  - local restaurant
+quickAnswer: >-
+  Sugyeongsa (수경사) is a small, highly-rated vegan/vegetarian restaurant near
+  Hwangridan-gil in Gyeongju's Sajeong-dong area, popular for Korean
+  temple-food-style set meals built on tofu, mushrooms, and seasonal vegetables.
+  With a 4.9 rating from 268 reviews, it's worth a short detour from the main
+  tourist strip — plan for lunch, arrive early or reserve if possible, and
+  expect a modest, unhurried dining room rather than a flashy one.
 faq:
-  - q: "Is Sugyeongsa fully vegan or just vegetarian-friendly?"
-    a: "It's oriented toward Korean temple-food style cooking, which is typically plant-based with tofu, mushrooms, and seasonal vegetables, but confirm specific dishes if you're strictly vegan, since honey or dairy can occasionally appear in Korean vegetarian menus."
-  - q: "How far is it from Hwangridan-gil?"
-    a: "It's in Sajeong-dong, within about a 10-15 minute walk of the main Hwangridan-gil and Daereungwon tomb park area, making it an easy add-on to that sightseeing loop."
-  - q: "Do I need a reservation?"
-    a: "Given its small size and strong reputation (4.9 rating, 268 reviews), calling ahead or arriving early for lunch is a good idea, particularly on weekends or during peak cherry blossom and autumn foliage seasons."
-  - q: "What's the best meal to have there — lunch or dinner?"
-    a: "Lunch is generally the safer choice, as small Korean restaurants often have limited dinner hours or close once the day's dishes are gone."
-  - q: "How do I get there without a car?"
-    a: "Taxi from Singyeongju KTX station or Gyeongju station is simplest; if you're already based near Hwangridan-gil, it's walkable."
+  - q: Is Sugyeongsa fully vegan or just vegetarian-friendly?
+    a: >-
+      It's oriented toward Korean temple-food style cooking, which is typically
+      plant-based with tofu, mushrooms, and seasonal vegetables, but confirm
+      specific dishes if you're strictly vegan, since honey or dairy can
+      occasionally appear in Korean vegetarian menus.
+  - q: How far is it from Hwangridan-gil?
+    a: >-
+      It's in Sajeong-dong, within about a 10-15 minute walk of the main
+      Hwangridan-gil and Daereungwon tomb park area, making it an easy add-on to
+      that sightseeing loop.
+  - q: Do I need a reservation?
+    a: >-
+      Given its small size and strong reputation (4.9 rating, 268 reviews),
+      calling ahead or arriving early for lunch is a good idea, particularly on
+      weekends or during peak cherry blossom and autumn foliage seasons.
+  - q: What's the best meal to have there — lunch or dinner?
+    a: >-
+      Lunch is generally the safer choice, as small Korean restaurants often
+      have limited dinner hours or close once the day's dishes are gone.
+  - q: How do I get there without a car?
+    a: >-
+      Taxi from Singyeongju KTX station or Gyeongju station is simplest; if
+      you're already based near Hwangridan-gil, it's walkable.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

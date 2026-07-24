@@ -1,43 +1,71 @@
 ---
-title: "Hiroshima Breakfast: Travel Guide"
-description: "Hiroshima Breakfast is a small, highly-rated morning café in Dohashicho, central Naka Ward, a short walk from the Hondori shopping arcade and Peace Memorial"
-country: "Japan"
-region: "Hiroshima"
-category: "trendy"
-pubDate: 2026-07-21
+title: 'Hiroshima Breakfast: Travel Guide'
+description: >-
+  Hiroshima Breakfast is a small, highly-rated morning café in Dohashicho,
+  central Naka Ward, a short walk from the Hondori shopping arcade and Peace
+  Memorial
+country: Japan
+region: Hiroshima
+category: trendy
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Grand_Prince_Hotel_Hiroshima_Club_Lounge_breakfast_20190615-001.jpg/1920px-Grand_Prince_Hotel_Hiroshima_Club_Lounge_breakfast_20190615-001.jpg"
-  credit: "Photo: J o / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Grand_Prince_Hotel_Hiroshima_Club_Lounge_breakfast_20190615-001.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Grand_Prince_Hotel_Hiroshima_Club_Lounge_breakfast_20190615-001.jpg/1920px-Grand_Prince_Hotel_Hiroshima_Club_Lounge_breakfast_20190615-001.jpg
+  credit: 'Photo: J o / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Grand_Prince_Hotel_Hiroshima_Club_Lounge_breakfast_20190615-001.jpg
 gallery: []
 place:
-  id: "ChIJ335XLQCjWjUR9zjRdZaSy8M"
-  name: "Hiroshima Breakfast"
-  address: "Japan, 〒730-0854 Hiroshima, Naka Ward, Dohashichō, 6−23−１０１ 1F"
+  id: ChIJ335XLQCjWjUR9zjRdZaSy8M
+  name: Hiroshima Breakfast
+  address: 'Japan, 〒730-0854 Hiroshima, Naka Ward, Dohashichō, 6−23−１０１ 1F'
   rating: 4.9
   userRatingsTotal: 175
-  googleMapsUrl: "https://maps.google.com/?cid=14108531432587606263&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14108531432587606263&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.392738
   lng: 132.447024
+  priceLevel: 2
 tags:
-  - "hiroshima"
-  - "trendy cafe"
-quickAnswer: "Hiroshima Breakfast is a small, highly-rated morning café in Dohashicho, central Naka Ward, a short walk from the Hondori shopping arcade and Peace Memorial Park. It's best visited on foot between roughly 8–10am on a weekday to avoid queues, since the space is tiny and reservations aren't typically taken. Budget 45–60 minutes, and pair the visit with a walk through Hondori or a morning at the Peace Memorial Park before the day's crowds arrive."
+  - hiroshima
+  - trendy cafe
+quickAnswer: >-
+  Hiroshima Breakfast is a small, highly-rated morning café in Dohashicho,
+  central Naka Ward, a short walk from the Hondori shopping arcade and Peace
+  Memorial Park. It's best visited on foot between roughly 8–10am on a weekday
+  to avoid queues, since the space is tiny and reservations aren't typically
+  taken. Budget 45–60 minutes, and pair the visit with a walk through Hondori or
+  a morning at the Peace Memorial Park before the day's crowds arrive.
 faq:
-  - q: "How do I get to Hiroshima Breakfast without a car?"
-    a: "Take the Hiroshima tram toward Kamiyacho and get off at Kamiyacho-nishi or Kamiyacho-higashi; from there it's a short walk into Dohashicho. It's also about 20-25 minutes on foot from Hiroshima Station."
-  - q: "Do I need a reservation?"
-    a: "Small breakfast cafés like this typically operate first-come, first-served. Given its 4.9 rating and small footprint, arriving right at opening or slightly before on weekends is the safest bet to avoid a wait."
-  - q: "How long should I plan for a visit?"
-    a: "Budget 45-60 minutes for a relaxed sit-down breakfast, longer on weekends if there's a queue."
-  - q: "What's the best time of day and year to visit?"
-    a: "Go early morning on a weekday for the shortest wait. During cherry blossom season (late March-early April) and autumn foliage weeks, expect more visitors citywide, so an early arrival matters even more."
-  - q: "What else can I see nearby?"
-    a: "The Hondori shopping arcade, Peace Memorial Park and Atomic Bomb Dome, Shukkeien Garden, and Hiroshima Castle are all within a 15-20 minute walk, making it easy to build a morning-to-afternoon downtown loop."
+  - q: How do I get to Hiroshima Breakfast without a car?
+    a: >-
+      Take the Hiroshima tram toward Kamiyacho and get off at Kamiyacho-nishi or
+      Kamiyacho-higashi; from there it's a short walk into Dohashicho. It's also
+      about 20-25 minutes on foot from Hiroshima Station.
+  - q: Do I need a reservation?
+    a: >-
+      Small breakfast cafés like this typically operate first-come,
+      first-served. Given its 4.9 rating and small footprint, arriving right at
+      opening or slightly before on weekends is the safest bet to avoid a wait.
+  - q: How long should I plan for a visit?
+    a: >-
+      Budget 45-60 minutes for a relaxed sit-down breakfast, longer on weekends
+      if there's a queue.
+  - q: What's the best time of day and year to visit?
+    a: >-
+      Go early morning on a weekday for the shortest wait. During cherry blossom
+      season (late March-early April) and autumn foliage weeks, expect more
+      visitors citywide, so an early arrival matters even more.
+  - q: What else can I see nearby?
+    a: >-
+      The Hondori shopping arcade, Peace Memorial Park and Atomic Bomb Dome,
+      Shukkeien Garden, and Hiroshima Castle are all within a 15-20 minute walk,
+      making it easy to build a morning-to-afternoon downtown loop.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

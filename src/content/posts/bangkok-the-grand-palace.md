@@ -1,49 +1,85 @@
 ---
-title: "The Grand Palace: Bangkok Travel Guide"
-description: "Set aside half a day, arrive by 8:30am when doors open at 8:30 and the heat and crowds are lowest, and dress in clothing that fully covers shoulders and"
-country: "Thailand"
-region: "Bangkok"
-category: "attraction"
-pubDate: 2026-07-21
+title: 'The Grand Palace: Bangkok Travel Guide'
+description: >-
+  Set aside half a day, arrive by 8:30am when doors open at 8:30 and the heat
+  and crowds are lowest, and dress in clothing that fully covers shoulders and
+country: Thailand
+region: Bangkok
+category: attraction
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/A_roof_of_a_building_at_the_Grand_Palace%2C_Bangkok%2C_sunrise%2C_2017.jpg/1920px-A_roof_of_a_building_at_the_Grand_Palace%2C_Bangkok%2C_sunrise%2C_2017.jpg"
-  credit: "Photo: Bjørn Erik Pedersen / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:A_roof_of_a_building_at_the_Grand_Palace,_Bangkok,_sunrise,_2017.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/A_roof_of_a_building_at_the_Grand_Palace%2C_Bangkok%2C_sunrise%2C_2017.jpg/1920px-A_roof_of_a_building_at_the_Grand_Palace%2C_Bangkok%2C_sunrise%2C_2017.jpg
+  credit: 'Photo: Bjørn Erik Pedersen / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:A_roof_of_a_building_at_the_Grand_Palace,_Bangkok,_sunrise,_2017.jpg
 gallery: []
 place:
-  id: "ChIJPzZsMU6Z4jARQUzvk913bCo"
-  name: "The Grand Palace"
-  address: "Phra Borom Maha Ratchawang, Phra Nakhon, Bangkok 10200, Thailand"
+  id: ChIJPzZsMU6Z4jARQUzvk913bCo
+  name: The Grand Palace
+  address: 'Phra Borom Maha Ratchawang, Phra Nakhon, Bangkok 10200, Thailand'
   rating: 4.6
-  userRatingsTotal: 79017
-  googleMapsUrl: "https://maps.google.com/?cid=3056950040631135297&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 79067
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3056950040631135297&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 13.7498558
   lng: 100.4915765
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [8]
-    weekendQuiet: [8, 15]
-    weekendBusy: [11]
-    venueId: 'ven_6f43623331396b767a555152416a345a36554d735a7a504a496843'
+    weekdayQuiet:
+      - 8
+    weekendQuiet:
+      - 8
+      - 15
+    weekendBusy:
+      - 11
+    venueId: ven_6f43623331396b767a555152416a345a36554d735a7a504a496843
 tags:
-  - "bangkok"
-  - "Grand Palace"
-quickAnswer: "Set aside half a day, arrive by 8:30am when doors open at 8:30 and the heat and crowds are lowest, and dress in clothing that fully covers shoulders and knees (rentals/loans are available at the gate, but bring your own to save time). The Grand Palace and its star attraction, Wat Phra Kaew (Temple of the Emerald Buddha), sit together in Bangkok's Old City near the Chao Phraya River, and a ticket typically also covers a few nearby royal museums."
+  - bangkok
+  - Grand Palace
+quickAnswer: >-
+  Set aside half a day, arrive by 8:30am when doors open at 8:30 and the heat
+  and crowds are lowest, and dress in clothing that fully covers shoulders and
+  knees (rentals/loans are available at the gate, but bring your own to save
+  time). The Grand Palace and its star attraction, Wat Phra Kaew (Temple of the
+  Emerald Buddha), sit together in Bangkok's Old City near the Chao Phraya
+  River, and a ticket typically also covers a few nearby royal museums.
 faq:
-  - q: "How much does it cost to enter the Grand Palace?"
-    a: "Foreign visitors pay a set entrance fee (historically around 500 THB), which usually bundles entry to Wat Phra Kaew and a couple of nearby royal museums. Prices and inclusions shift occasionally, so confirm the current fee on the official palace website or at the ticket counter before you go."
-  - q: "What's the nearest station to the Grand Palace?"
-    a: "MRT Blue Line to Sanam Chai station, then about a 10-15 minute walk, is the most direct rail option. The Chao Phraya Express Boat to Tha Chang Pier (N9) followed by a short walk is the classic river route and pairs well with sightseeing along the water."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors need 2-3 hours to see Wat Phra Kaew, the throne halls, and the surrounding galleries at a comfortable pace. Add extra time if you're combining it with Wat Pho and Wat Arun, which are within easy walking or ferry distance."
-  - q: "What should I wear?"
-    a: "Cover your shoulders and knees and wear closed or secure footwear; sleeveless tops, shorts, and flip-flops can get you turned away or asked to rent cover-up clothing at the gate. Bringing a light scarf or sarong of your own saves time versus queuing for a loaner."
-  - q: "Is the Grand Palace ever closed to visitors?"
-    a: "Yes — since it's an active royal site, it occasionally closes for state functions or ceremonies without much advance public notice. If your trip dates are fixed, check the day before, and be skeptical of anyone outside the gates claiming it's closed as a pretext to redirect you elsewhere."
+  - q: How much does it cost to enter the Grand Palace?
+    a: >-
+      Foreign visitors pay a set entrance fee (historically around 500 THB),
+      which usually bundles entry to Wat Phra Kaew and a couple of nearby royal
+      museums. Prices and inclusions shift occasionally, so confirm the current
+      fee on the official palace website or at the ticket counter before you go.
+  - q: What's the nearest station to the Grand Palace?
+    a: >-
+      MRT Blue Line to Sanam Chai station, then about a 10-15 minute walk, is
+      the most direct rail option. The Chao Phraya Express Boat to Tha Chang
+      Pier (N9) followed by a short walk is the classic river route and pairs
+      well with sightseeing along the water.
+  - q: How long should I plan to spend there?
+    a: >-
+      Most visitors need 2-3 hours to see Wat Phra Kaew, the throne halls, and
+      the surrounding galleries at a comfortable pace. Add extra time if you're
+      combining it with Wat Pho and Wat Arun, which are within easy walking or
+      ferry distance.
+  - q: What should I wear?
+    a: >-
+      Cover your shoulders and knees and wear closed or secure footwear;
+      sleeveless tops, shorts, and flip-flops can get you turned away or asked
+      to rent cover-up clothing at the gate. Bringing a light scarf or sarong of
+      your own saves time versus queuing for a loaner.
+  - q: Is the Grand Palace ever closed to visitors?
+    a: >-
+      Yes — since it's an active royal site, it occasionally closes for state
+      functions or ceremonies without much advance public notice. If your trip
+      dates are fixed, check the day before, and be skeptical of anyone outside
+      the gates claiming it's closed as a pretext to redirect you elsewhere.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

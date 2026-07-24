@@ -1,51 +1,96 @@
 ---
-title: "Chinatown Complex: Where to Eat"
-description: "Chinatown Complex on Smith Street is Singapore's largest hawker centre, with hundreds of stalls on the second floor above a wet market."
-country: "Singapore"
-region: "Chinatown"
-category: "restaurant"
-pubDate: "2026-07-23T07:44:27.231Z"
+title: 'Chinatown Complex: Where to Eat'
+description: >-
+  Chinatown Complex on Smith Street is Singapore's largest hawker centre, with
+  hundreds of stalls on the second floor above a wet market.
+country: Singapore
+region: Chinatown
+category: restaurant
+pubDate: '2026-07-23T07:44:27.231Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Chinatown_Complex_Market_and_Food_Centre%2C_mural.jpg/1920px-Chinatown_Complex_Market_and_Food_Centre%2C_mural.jpg"
-  credit: "Photo: Kbseah / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Chinatown_Complex_Market_and_Food_Centre,_mural.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Chinatown_Complex_Market_and_Food_Centre%2C_mural.jpg/1920px-Chinatown_Complex_Market_and_Food_Centre%2C_mural.jpg
+  credit: 'Photo: Kbseah / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Chinatown_Complex_Market_and_Food_Centre,_mural.jpg
 gallery: []
 place:
-  id: "ChIJAenlH3MZ2jERqjoWXlxEH6w"
-  name: "Chinatown Complex"
-  address: "335 Smith St, Singapore 050335"
+  id: ChIJAenlH3MZ2jERqjoWXlxEH6w
+  name: Chinatown Complex
+  address: '335 Smith St, Singapore 050335'
   rating: 4.2
-  userRatingsTotal: 8894
-  priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=12402707062307830442&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 8895
+  priceLevel: 1
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12402707062307830442&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.2825735
   lng: 103.8431104
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [7, 8, 21, 22]
-    weekdayBusy: [11, 12, 13]
-    weekendQuiet: [7, 20, 21, 22]
-    weekendBusy: [10, 11, 12, 13, 14]
-    venueId: 'ven_77364845786c58576f6a7152456a325a4d33486c6e65414a496843'
+    weekdayQuiet:
+      - 7
+      - 8
+      - 21
+      - 22
+    weekdayBusy:
+      - 11
+      - 12
+      - 13
+    weekendQuiet:
+      - 7
+      - 20
+      - 21
+      - 22
+    weekendBusy:
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+    venueId: ven_77364845786c58576f6a7152456a325a4d33486c6e65414a496843
 tags:
-  - "chinatown"
-  - "street food"
-quickAnswer: "Chinatown Complex on Smith Street is Singapore's largest hawker centre, with hundreds of stalls on the second floor above a wet market. Go on a weekday morning (before 11am) or mid-afternoon (2-4pm) to skip the lunch crush, bring small cash, and target famous names like Liao Fan Hawker Chai Tow Kway and the queue-heavy Hong Kong Soya Sauce Chicken Rice stall. Budget 45-90 minutes and expect to share a table."
+  - chinatown
+  - street food
+quickAnswer: >-
+  Chinatown Complex on Smith Street is Singapore's largest hawker centre, with
+  hundreds of stalls on the second floor above a wet market. Go on a weekday
+  morning (before 11am) or mid-afternoon (2-4pm) to skip the lunch crush, bring
+  small cash, and target famous names like Liao Fan Hawker Chai Tow Kway and the
+  queue-heavy Hong Kong Soya Sauce Chicken Rice stall. Budget 45-90 minutes and
+  expect to share a table.
 faq:
-  - q: "How do I get to Chinatown Complex by MRT?"
-    a: "Take the North-East Line or Downtown Line to Chinatown Station, use Exit A, then walk about 5-8 minutes along Pagoda Street to Smith Street. Outram Park Station is a bit further but works if you're coming from the East-West or Thomson-East Coast lines."
-  - q: "How much should I budget for a meal here?"
-    a: "It's priced as a typical hawker centre (price level 2 of 4)—most individual dishes are inexpensive, and a satisfying meal sampling two or three stalls usually costs well under what you'd pay at a sit-down restaurant. Exact prices vary by stall, so check the posted menu boards."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Weekday mornings before 11am or mid-afternoon (2-4pm) are quietest. Avoid weekday lunch (12-1:30pm) and weekend late mornings, when both the market and food stalls are at their busiest."
-  - q: "How long should I plan to spend there?"
-    a: "Budget 45-90 minutes for a meal, longer if you want to browse the ground-floor wet market or queue for a Michelin-listed stall like the soya sauce chicken rice counter."
-  - q: "What else is nearby to combine with a meal?"
-    a: "Buddha Tooth Relic Temple and Sri Mariamman Temple are both within easy walking distance, and Amoy Street Food Centre offers a second hawker option if you want to keep exploring Chinatown's food scene."
+  - q: How do I get to Chinatown Complex by MRT?
+    a: >-
+      Take the North-East Line or Downtown Line to Chinatown Station, use Exit
+      A, then walk about 5-8 minutes along Pagoda Street to Smith Street. Outram
+      Park Station is a bit further but works if you're coming from the
+      East-West or Thomson-East Coast lines.
+  - q: How much should I budget for a meal here?
+    a: >-
+      It's priced as a typical hawker centre (price level 2 of 4)—most
+      individual dishes are inexpensive, and a satisfying meal sampling two or
+      three stalls usually costs well under what you'd pay at a sit-down
+      restaurant. Exact prices vary by stall, so check the posted menu boards.
+  - q: What's the best time to visit to avoid crowds?
+    a: >-
+      Weekday mornings before 11am or mid-afternoon (2-4pm) are quietest. Avoid
+      weekday lunch (12-1:30pm) and weekend late mornings, when both the market
+      and food stalls are at their busiest.
+  - q: How long should I plan to spend there?
+    a: >-
+      Budget 45-90 minutes for a meal, longer if you want to browse the
+      ground-floor wet market or queue for a Michelin-listed stall like the soya
+      sauce chicken rice counter.
+  - q: What else is nearby to combine with a meal?
+    a: >-
+      Buddha Tooth Relic Temple and Sri Mariamman Temple are both within easy
+      walking distance, and Amoy Street Food Centre offers a second hawker
+      option if you want to keep exploring Chinatown's food scene.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

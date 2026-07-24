@@ -1,43 +1,71 @@
 ---
-title: "The Xiang Restaurant: Where to Eat in Chinatown"
-description: "The Xiang Restaurant (湘厨湖南菜) at 8 Smith Street is a Hunan-style Chinese restaurant tucked into Chinatown Food Street, prized for fiery, smoky, cumin-laced"
-country: "Singapore"
-region: "Chinatown"
-category: "restaurant"
-pubDate: "2026-07-23T07:34:56.403Z"
+title: 'The Xiang Restaurant: Where to Eat in Chinatown'
+description: >-
+  The Xiang Restaurant (湘厨湖南菜) at 8 Smith Street is a Hunan-style Chinese
+  restaurant tucked into Chinatown Food Street, prized for fiery, smoky,
+  cumin-laced
+country: Singapore
+region: Chinatown
+category: restaurant
+pubDate: '2026-07-23T07:34:56.403Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Chinatown_-_beginning_of_Temple.jpg/1920px-Chinatown_-_beginning_of_Temple.jpg"
-  credit: "Photo: Orderinchaos / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Chinatown_-_beginning_of_Temple.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Chinatown_-_beginning_of_Temple.jpg/1920px-Chinatown_-_beginning_of_Temple.jpg
+  credit: 'Photo: Orderinchaos / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Chinatown_-_beginning_of_Temple.jpg'
 gallery: []
 place:
-  id: "ChIJ73kBDVYZ2jERTiS9b6ThwLw"
-  name: "湘厨湖南菜 The Xiang Restaurant"
-  address: "8 Smith St, Singapore 058922"
+  id: ChIJ73kBDVYZ2jERTiS9b6ThwLw
+  name: 湘厨湖南菜 The Xiang Restaurant
+  address: '8 Smith St, Singapore 058922'
   rating: 4.8
   userRatingsTotal: 986
-  googleMapsUrl: "https://maps.google.com/?cid=13601118971024450638&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13601118971024450638&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.2821061999999999
   lng: 103.8447445
+  priceLevel: 2
 tags:
-  - "chinatown"
-  - "local restaurant"
-quickAnswer: "The Xiang Restaurant (湘厨湖南菜) at 8 Smith Street is a Hunan-style Chinese restaurant tucked into Chinatown Food Street, prized for fiery, smoky, cumin-laced dishes rather than the usual Cantonese/Teochew fare that dominates the area. With a 4.8 rating across nearly 1,000 reviews, it's worth seeking out deliberately rather than stumbling on — go hungry, go with a group so you can order widely, and expect real Hunan heat, not the toned-down version."
+  - chinatown
+  - local restaurant
+quickAnswer: >-
+  The Xiang Restaurant (湘厨湖南菜) at 8 Smith Street is a Hunan-style Chinese
+  restaurant tucked into Chinatown Food Street, prized for fiery, smoky,
+  cumin-laced dishes rather than the usual Cantonese/Teochew fare that dominates
+  the area. With a 4.8 rating across nearly 1,000 reviews, it's worth seeking
+  out deliberately rather than stumbling on — go hungry, go with a group so you
+  can order widely, and expect real Hunan heat, not the toned-down version.
 faq:
-  - q: "How do I get to The Xiang Restaurant?"
-    a: "It's at 8 Smith Street in Chinatown, a 2-minute walk from Chinatown MRT (Exit A) or about 10 minutes on foot from Outram Park interchange. The street is pedestrianized in the evenings, so taxis will drop you nearby rather than directly outside."
-  - q: "What should I order if I've never had Hunan food before?"
-    a: "Start with steamed fish head with chopped chili (剁椒鱼头), smoked pork with leeks, and dry-fried string beans, then add a claypot dish. Order plenty of rice — Hunan food is chili-forward and rice balances the heat."
-  - q: "Is it very spicy?"
-    a: "Hunan cuisine is 'fragrant-spicy' (xiang la) — smoky and sour-hot rather than numbing like Sichuan mala. It's genuinely spicy by most standards, so ask staff to adjust heat on a dish or two if you're sensitive."
-  - q: "Do I need a reservation?"
-    a: "Not usually for weekday lunch or early dinner, but weekend evenings can get busy with both tourists and diners seeking out regional Chinese food, so a reservation or early arrival is safer."
-  - q: "How long should I plan for a meal here?"
-    a: "Budget 60–90 minutes for a proper shared meal with several dishes — this is a sit-down regional restaurant, not a grab-and-go hawker stall."
+  - q: How do I get to The Xiang Restaurant?
+    a: >-
+      It's at 8 Smith Street in Chinatown, a 2-minute walk from Chinatown MRT
+      (Exit A) or about 10 minutes on foot from Outram Park interchange. The
+      street is pedestrianized in the evenings, so taxis will drop you nearby
+      rather than directly outside.
+  - q: What should I order if I've never had Hunan food before?
+    a: >-
+      Start with steamed fish head with chopped chili (剁椒鱼头), smoked pork with
+      leeks, and dry-fried string beans, then add a claypot dish. Order plenty
+      of rice — Hunan food is chili-forward and rice balances the heat.
+  - q: Is it very spicy?
+    a: >-
+      Hunan cuisine is 'fragrant-spicy' (xiang la) — smoky and sour-hot rather
+      than numbing like Sichuan mala. It's genuinely spicy by most standards, so
+      ask staff to adjust heat on a dish or two if you're sensitive.
+  - q: Do I need a reservation?
+    a: >-
+      Not usually for weekday lunch or early dinner, but weekend evenings can
+      get busy with both tourists and diners seeking out regional Chinese food,
+      so a reservation or early arrival is safer.
+  - q: How long should I plan for a meal here?
+    a: >-
+      Budget 60–90 minutes for a proper shared meal with several dishes — this
+      is a sit-down regional restaurant, not a grab-and-go hawker stall.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

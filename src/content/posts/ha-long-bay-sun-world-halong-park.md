@@ -1,43 +1,70 @@
 ---
-title: "Sun World Halong Park: Ha Long Bay Travel Guide"
-description: "Sun World Halong Park is a theme park in Bai Chay (9 Ha Long, Quang Ninh) with a roller coaster, a landmark bi-level carousel, and an attached water park"
-country: "Vietnam"
-region: "Ha Long Bay"
-category: "attraction"
-pubDate: "2026-07-22T09:28:22.902Z"
+title: 'Sun World Halong Park: Ha Long Bay Travel Guide'
+description: >-
+  Sun World Halong Park is a theme park in Bai Chay (9 Ha Long, Quang Ninh) with
+  a roller coaster, a landmark bi-level carousel, and an attached water park
+country: Vietnam
+region: Ha Long Bay
+category: attraction
+pubDate: '2026-07-22T09:28:22.902Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Fish_pond_in_Sun_World_Halong_Park._Ha_Long_Town%2C_Vietnam%2C_20240129_1534_4200.jpg/1920px-Fish_pond_in_Sun_World_Halong_Park._Ha_Long_Town%2C_Vietnam%2C_20240129_1534_4200.jpg"
-  credit: "Photo: Jakub Hałun / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Fish_pond_in_Sun_World_Halong_Park._Ha_Long_Town,_Vietnam,_20240129_1534_4200.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Fish_pond_in_Sun_World_Halong_Park._Ha_Long_Town%2C_Vietnam%2C_20240129_1534_4200.jpg/1920px-Fish_pond_in_Sun_World_Halong_Park._Ha_Long_Town%2C_Vietnam%2C_20240129_1534_4200.jpg
+  credit: 'Photo: Jakub Hałun / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Fish_pond_in_Sun_World_Halong_Park._Ha_Long_Town,_Vietnam,_20240129_1534_4200.jpg
 gallery: []
 place:
-  id: "ChIJUcLjLvRYSjERNl4hblMRgi8"
-  name: "Sun World Halong Park"
-  address: "9 Hạ Long, Bãi Cháy, Quảng Ninh, Vietnam"
+  id: ChIJUcLjLvRYSjERNl4hblMRgi8
+  name: Sun World Halong Park
+  address: '9 Hạ Long, Bãi Cháy, Quảng Ninh, Vietnam'
   rating: 4.4
-  userRatingsTotal: 3807
-  googleMapsUrl: "https://maps.google.com/?cid=3423317716782636598&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3812
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3423317716782636598&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 20.955588000000002
   lng: 107.04932520000001
 tags:
-  - "ha long bay"
-  - "top attraction"
-quickAnswer: "Sun World Halong Park is a theme park in Bai Chay (9 Ha Long, Quang Ninh) with a roller coaster, a landmark bi-level carousel, and an attached water park, rated 4.4 from nearly 3,800 reviews. Plan 2 hours for rides alone or up to 5 hours combining the water park, and go in the late afternoon/evening for cooler temperatures and bay views lit up at dusk. It's a quick taxi or Grab ride from Bai Chay hotels, slightly longer from the Hon Gai side across the Bai Chay Bridge."
+  - ha long bay
+  - top attraction
+quickAnswer: >-
+  Sun World Halong Park is a theme park in Bai Chay (9 Ha Long, Quang Ninh) with
+  a roller coaster, a landmark bi-level carousel, and an attached water park,
+  rated 4.4 from nearly 3,800 reviews. Plan 2 hours for rides alone or up to 5
+  hours combining the water park, and go in the late afternoon/evening for
+  cooler temperatures and bay views lit up at dusk. It's a quick taxi or Grab
+  ride from Bai Chay hotels, slightly longer from the Hon Gai side across the
+  Bai Chay Bridge.
 faq:
-  - q: "How do I get to Sun World Halong Park from Ha Long city center?"
-    a: "It's located in Bai Chay at 9 Ha Long, Quang Ninh. From Bai Chay hotels it's usually a 10-15 minute taxi or Grab ride; from the Hon Gai/harbor side, add another 10-15 minutes to cross the Bai Chay Bridge."
-  - q: "How much time should I plan for a visit?"
-    a: "Around 2 hours for the rides and roller coaster alone, or 3-5 hours if you also want to enjoy the attached water park section."
-  - q: "Is the water park included in the same ticket as the theme park?"
-    a: "This can vary by season and promotion, so it's worth checking Sun World's official site or asking your hotel whether the water park requires a separate or combo ticket before you go."
-  - q: "What's the best time of year to visit?"
-    a: "March-April and October offer the most comfortable temperatures and clear bay views; May-September is hot and humid but best for the water park; November-March is cooler and can be misty."
-  - q: "What else is nearby that I can combine with this visit?"
-    a: "The Sun Wheel (Ha Long's giant Ferris wheel) and Typhoon Water Park are part of the same Sun World complex, and the Bai Chay waterfront promenade and night market are within easy reach for an evening after the park."
+  - q: How do I get to Sun World Halong Park from Ha Long city center?
+    a: >-
+      It's located in Bai Chay at 9 Ha Long, Quang Ninh. From Bai Chay hotels
+      it's usually a 10-15 minute taxi or Grab ride; from the Hon Gai/harbor
+      side, add another 10-15 minutes to cross the Bai Chay Bridge.
+  - q: How much time should I plan for a visit?
+    a: >-
+      Around 2 hours for the rides and roller coaster alone, or 3-5 hours if you
+      also want to enjoy the attached water park section.
+  - q: Is the water park included in the same ticket as the theme park?
+    a: >-
+      This can vary by season and promotion, so it's worth checking Sun World's
+      official site or asking your hotel whether the water park requires a
+      separate or combo ticket before you go.
+  - q: What's the best time of year to visit?
+    a: >-
+      March-April and October offer the most comfortable temperatures and clear
+      bay views; May-September is hot and humid but best for the water park;
+      November-March is cooler and can be misty.
+  - q: What else is nearby that I can combine with this visit?
+    a: >-
+      The Sun Wheel (Ha Long's giant Ferris wheel) and Typhoon Water Park are
+      part of the same Sun World complex, and the Bai Chay waterfront promenade
+      and night market are within easy reach for an evening after the park.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

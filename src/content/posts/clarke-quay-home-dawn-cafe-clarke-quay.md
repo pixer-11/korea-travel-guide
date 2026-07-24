@@ -1,43 +1,71 @@
 ---
-title: "Home Dawn Cafe @: Clarke Quay Travel Guide"
-description: "Home Dawn Cafe @ Clarke Quay is a low-key riverside café tucked on the upper level of Block 3A River Valley Road, just behind the main Clarke Quay"
-country: "Singapore"
-region: "Clarke Quay"
-category: "trendy"
-pubDate: "2026-07-23T07:42:44.882Z"
+title: 'Home Dawn Cafe @: Clarke Quay Travel Guide'
+description: >-
+  Home Dawn Cafe @ Clarke Quay is a low-key riverside café tucked on the upper
+  level of Block 3A River Valley Road, just behind the main Clarke Quay
+country: Singapore
+region: Clarke Quay
+category: trendy
+pubDate: '2026-07-23T07:42:44.882Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/2016_-_Singapore_Clarke_Quay_after_Sunset.jpg/1920px-2016_-_Singapore_Clarke_Quay_after_Sunset.jpg"
-  credit: "Photo: DINS-COM / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:2016_-_Singapore_Clarke_Quay_after_Sunset.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/2016_-_Singapore_Clarke_Quay_after_Sunset.jpg/1920px-2016_-_Singapore_Clarke_Quay_after_Sunset.jpg
+  credit: 'Photo: DINS-COM / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:2016_-_Singapore_Clarke_Quay_after_Sunset.jpg
 gallery: []
 place:
-  id: "ChIJQThf-gMZ2jERawFJvldJ2hM"
-  name: "Home Dawn Cafe @ Clarke Quay"
-  address: "Blk 3A River Valley Rd, #02-03, Singapore 179020"
+  id: ChIJQThf-gMZ2jERawFJvldJ2hM
+  name: Home Dawn Cafe @ Clarke Quay
+  address: 'Blk 3A River Valley Rd, #02-03, Singapore 179020'
   rating: 4.5
-  userRatingsTotal: 891
-  googleMapsUrl: "https://maps.google.com/?cid=1430536472846991723&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 893
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1430536472846991723&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.2900277999999998
   lng: 103.8448322
+  priceLevel: 2
 tags:
-  - "clarke quay"
-  - "trendy cafe"
-quickAnswer: "Home Dawn Cafe @ Clarke Quay is a low-key riverside café tucked on the upper level of Block 3A River Valley Road, just behind the main Clarke Quay entertainment strip. Go on a weekday morning or mid-afternoon for a quiet table with river views, and expect a relaxed brunch-and-coffee menu rather than the club-district buzz Clarke Quay is known for. It's an easy 5-8 minute walk from Clarke Quay MRT (NE5), best paired with a stroll along the Singapore River."
+  - clarke quay
+  - trendy cafe
+quickAnswer: >-
+  Home Dawn Cafe @ Clarke Quay is a low-key riverside café tucked on the upper
+  level of Block 3A River Valley Road, just behind the main Clarke Quay
+  entertainment strip. Go on a weekday morning or mid-afternoon for a quiet
+  table with river views, and expect a relaxed brunch-and-coffee menu rather
+  than the club-district buzz Clarke Quay is known for. It's an easy 5-8 minute
+  walk from Clarke Quay MRT (NE5), best paired with a stroll along the Singapore
+  River.
 faq:
-  - q: "How do I get to Home Dawn Cafe @ Clarke Quay by public transport?"
-    a: "Take the North East Line to Clarke Quay MRT (NE5), exit toward Eu Tong Sen Street/Read Bridge, and walk north along River Valley Road for about 5-8 minutes to Block 3A."
-  - q: "Is this cafe in the main Clarke Quay nightlife area?"
-    a: "No — it's one block back from the riverside bar and club strip, in a quieter low-rise building, which makes it a better fit for daytime coffee or brunch than late-night socializing."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Weekday mornings to early afternoon are quietest, since Clarke Quay's foot traffic is driven mainly by its evening nightlife scene rather than daytime visitors."
-  - q: "How long should I plan to spend there?"
-    a: "A coffee or light brunch typically takes 45 minutes to an hour; pair it with a walk along the Singapore River or a visit to Fort Canning Park for a half-day outing."
-  - q: "What else is nearby worth combining with a visit?"
-    a: "Read Bridge, Coleman Bridge, the Central shopping block, river cruise jetties, and Fort Canning Park are all within a 10-15 minute walk."
+  - q: How do I get to Home Dawn Cafe @ Clarke Quay by public transport?
+    a: >-
+      Take the North East Line to Clarke Quay MRT (NE5), exit toward Eu Tong Sen
+      Street/Read Bridge, and walk north along River Valley Road for about 5-8
+      minutes to Block 3A.
+  - q: Is this cafe in the main Clarke Quay nightlife area?
+    a: >-
+      No — it's one block back from the riverside bar and club strip, in a
+      quieter low-rise building, which makes it a better fit for daytime coffee
+      or brunch than late-night socializing.
+  - q: What's the best time to visit to avoid crowds?
+    a: >-
+      Weekday mornings to early afternoon are quietest, since Clarke Quay's foot
+      traffic is driven mainly by its evening nightlife scene rather than
+      daytime visitors.
+  - q: How long should I plan to spend there?
+    a: >-
+      A coffee or light brunch typically takes 45 minutes to an hour; pair it
+      with a walk along the Singapore River or a visit to Fort Canning Park for
+      a half-day outing.
+  - q: What else is nearby worth combining with a visit?
+    a: >-
+      Read Bridge, Coleman Bridge, the Central shopping block, river cruise
+      jetties, and Fort Canning Park are all within a 10-15 minute walk.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

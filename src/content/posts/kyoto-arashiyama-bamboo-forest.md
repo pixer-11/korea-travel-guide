@@ -1,50 +1,100 @@
 ---
-title: "Arashiyama Bamboo Forest: Kyoto Travel Guide"
-description: "The Arashiyama Bamboo Grove is a free, open-air path through towering bamboo in western Kyoto's Ukyo Ward — arrive by 8am to beat crowds, spend 15-20 minutes"
-country: "Japan"
-region: "Kyoto"
-category: "attraction"
-pubDate: 2026-07-21
+title: 'Arashiyama Bamboo Forest: Kyoto Travel Guide'
+description: >-
+  The Arashiyama Bamboo Grove is a free, open-air path through towering bamboo
+  in western Kyoto's Ukyo Ward — arrive by 8am to beat crowds, spend 15-20
+  minutes
+country: Japan
+region: Kyoto
+category: attraction
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Bamboo_Forest%2C_Arashiyama%2C_Kyoto%2C_Japan.jpg/1920px-Bamboo_Forest%2C_Arashiyama%2C_Kyoto%2C_Japan.jpg"
-  credit: "Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Bamboo_Forest,_Arashiyama,_Kyoto,_Japan.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Bamboo_Forest%2C_Arashiyama%2C_Kyoto%2C_Japan.jpg/1920px-Bamboo_Forest%2C_Arashiyama%2C_Kyoto%2C_Japan.jpg
+  credit: 'Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Bamboo_Forest,_Arashiyama,_Kyoto,_Japan.jpg
 gallery: []
 place:
-  id: "ChIJrYtcv-urAWAR3XzWvXv8n_s"
-  name: "Arashiyama Bamboo Forest"
-  address: "Sagaogurayama Tabuchiyamacho, Ukyo Ward, Kyoto, 616-8394, Japan"
+  id: ChIJrYtcv-urAWAR3XzWvXv8n_s
+  name: Arashiyama Bamboo Forest
+  address: 'Sagaogurayama Tabuchiyamacho, Ukyo Ward, Kyoto, 616-8394, Japan'
   rating: 4.4
-  userRatingsTotal: 23801
-  googleMapsUrl: "https://maps.google.com/?cid=18131488233213033693&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 23877
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=18131488233213033693&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.0168187
   lng: 135.67130129999998
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [19, 20, 21, 22]
-    weekdayBusy: [9, 10, 11, 12, 13, 14, 15]
-    weekendQuiet: [19, 20, 21, 22]
-    weekendBusy: [9, 10, 11, 12, 13, 14, 15, 16]
-    venueId: 'ven_735f6e38765876577a58335241574172752d76637459724a496843'
+    weekdayQuiet:
+      - 19
+      - 20
+      - 21
+      - 22
+    weekdayBusy:
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+    weekendQuiet:
+      - 19
+      - 20
+      - 21
+      - 22
+    weekendBusy:
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+    venueId: ven_735f6e38765876577a58335241574172752d76637459724a496843
 tags:
-  - "kyoto"
-  - "Arashiyama Bamboo Grove"
-quickAnswer: "The Arashiyama Bamboo Grove is a free, open-air path through towering bamboo in western Kyoto's Ukyo Ward — arrive by 8am to beat crowds, spend 15-20 minutes walking the main path, then extend your visit to Tenryu-ji Temple and the Togetsukyo Bridge nearby. It's most atmospheric at dawn or on a slightly overcast day, and it pairs naturally with a morning in Arashiyama before the area fills up with tour groups by mid-morning."
+  - kyoto
+  - Arashiyama Bamboo Grove
+quickAnswer: >-
+  The Arashiyama Bamboo Grove is a free, open-air path through towering bamboo
+  in western Kyoto's Ukyo Ward — arrive by 8am to beat crowds, spend 15-20
+  minutes walking the main path, then extend your visit to Tenryu-ji Temple and
+  the Togetsukyo Bridge nearby. It's most atmospheric at dawn or on a slightly
+  overcast day, and it pairs naturally with a morning in Arashiyama before the
+  area fills up with tour groups by mid-morning.
 faq:
-  - q: "Is there an entrance fee for the Bamboo Forest?"
-    a: "No, the main path is a public walkway and free to enter. Nearby attractions like Tenryu-ji Temple and Okochi Sanso Villa charge separate admission."
-  - q: "How long does it take to walk through?"
-    a: "The main path takes about 10-15 minutes end to end, but plan 20-30 minutes if you're pausing for photos, and half a day if combining it with Tenryu-ji and the riverside area."
-  - q: "What's the best time of day to visit?"
-    a: "Before 8am is best for fewer crowds and softer light. By mid-morning, tour groups and day-trippers make the narrow path quite congested."
-  - q: "How do I get there from central Kyoto?"
-    a: "Take the Randen (Keifuku) Arashiyama Line to Arashiyama Station or the JR Sagano/San-in Line to JR Saga-Arashiyama Station; both are within a 10-15 minute walk of the grove."
-  - q: "What else is nearby worth visiting?"
-    a: "Tenryu-ji Temple, Okochi Sanso Villa, Togetsukyo Bridge, and Arashiyama Monkey Park are all within a 15-20 minute walk and make for a full half-day itinerary."
+  - q: Is there an entrance fee for the Bamboo Forest?
+    a: >-
+      No, the main path is a public walkway and free to enter. Nearby
+      attractions like Tenryu-ji Temple and Okochi Sanso Villa charge separate
+      admission.
+  - q: How long does it take to walk through?
+    a: >-
+      The main path takes about 10-15 minutes end to end, but plan 20-30 minutes
+      if you're pausing for photos, and half a day if combining it with
+      Tenryu-ji and the riverside area.
+  - q: What's the best time of day to visit?
+    a: >-
+      Before 8am is best for fewer crowds and softer light. By mid-morning, tour
+      groups and day-trippers make the narrow path quite congested.
+  - q: How do I get there from central Kyoto?
+    a: >-
+      Take the Randen (Keifuku) Arashiyama Line to Arashiyama Station or the JR
+      Sagano/San-in Line to JR Saga-Arashiyama Station; both are within a 10-15
+      minute walk of the grove.
+  - q: What else is nearby worth visiting?
+    a: >-
+      Tenryu-ji Temple, Okochi Sanso Villa, Togetsukyo Bridge, and Arashiyama
+      Monkey Park are all within a 15-20 minute walk and make for a full
+      half-day itinerary.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

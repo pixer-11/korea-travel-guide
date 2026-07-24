@@ -1,43 +1,77 @@
 ---
-title: "Best Khao Soi Chang mai: Where to Eat in Chiang Mai"
-description: "Head to Best Khao Soi Chang Mai in the Phra Singh area (address: 1, Tambon Phra Sing, Amphoe Mueang Chiang Mai, 50200) for a classic bowl of khao soi — the"
-country: "Thailand"
-region: "Chiang Mai"
-category: "restaurant"
-pubDate: "2026-07-22T09:23:48.793Z"
+title: 'Best Khao Soi Chang mai: Where to Eat in Chiang Mai'
+description: >-
+  Head to Best Khao Soi Chang Mai in the Phra Singh area (address: 1, Tambon
+  Phra Sing, Amphoe Mueang Chiang Mai, 50200) for a classic bowl of khao soi —
+  the
+country: Thailand
+region: Chiang Mai
+category: restaurant
+pubDate: '2026-07-22T09:23:48.793Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Street_Food_Stall%2C_Chiang_Mai%2C_Thailand_%287113967189%29.jpg/1920px-Street_Food_Stall%2C_Chiang_Mai%2C_Thailand_%287113967189%29.jpg"
-  credit: "Photo: David McKelvey from Brisbane, Australia / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Street_Food_Stall,_Chiang_Mai,_Thailand_(7113967189).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Street_Food_Stall%2C_Chiang_Mai%2C_Thailand_%287113967189%29.jpg/1920px-Street_Food_Stall%2C_Chiang_Mai%2C_Thailand_%287113967189%29.jpg
+  credit: >-
+    Photo: David McKelvey from Brisbane, Australia / Wikimedia Commons (CC BY
+    2.0)
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Street_Food_Stall,_Chiang_Mai,_Thailand_(7113967189).jpg
 gallery: []
 place:
-  id: "ChIJKVNboGg72jARJXKeBsiz0ac"
-  name: "Best Khao Soi Chang mai"
-  address: "1, Tambon Phra Sing, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200, Thailand"
+  id: ChIJKVNboGg72jARJXKeBsiz0ac
+  name: Best Khao Soi Chang mai
+  address: >-
+    1, Tambon Phra Sing, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200,
+    Thailand
   rating: 4.6
   userRatingsTotal: 252
-  googleMapsUrl: "https://maps.google.com/?cid=12092644146152370725&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12092644146152370725&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 18.7812114
   lng: 98.98839889999999
+  priceLevel: 1
 tags:
-  - "chiang mai"
-  - "street food"
-quickAnswer: "Head to Best Khao Soi Chang Mai in the Phra Singh area (address: 1, Tambon Phra Sing, Amphoe Mueang Chiang Mai, 50200) for a classic bowl of khao soi — the northern Thai curry-noodle dish topped with crispy egg noodles. It holds a strong 4.6 rating from 252 reviews, so expect a modest, no-frills shop focused on getting the bowl right rather than a fancy setting. Go at lunch, order the chicken or beef version, and budget 30–45 minutes for a full sit-down bowl plus sides."
+  - chiang mai
+  - street food
+quickAnswer: >-
+  Head to Best Khao Soi Chang Mai in the Phra Singh area (address: 1, Tambon
+  Phra Sing, Amphoe Mueang Chiang Mai, 50200) for a classic bowl of khao soi —
+  the northern Thai curry-noodle dish topped with crispy egg noodles. It holds a
+  strong 4.6 rating from 252 reviews, so expect a modest, no-frills shop focused
+  on getting the bowl right rather than a fancy setting. Go at lunch, order the
+  chicken or beef version, and budget 30–45 minutes for a full sit-down bowl
+  plus sides.
 faq:
-  - q: "How do I get to Best Khao Soi Chang Mai without a car?"
-    a: "Use Grab (Southeast Asia's ride-hailing app) or a red songthaew shared truck. It's in the Phra Singh area of the old city, so if you're staying within the moat walls, it's often walkable in 10-20 minutes."
-  - q: "What should I order on my first visit?"
-    a: "Khao soi gai (chicken) is the classic starting point — tender chicken in coconut curry broth with soft egg noodles underneath and crispy fried noodles on top. Add lime, pickled mustard greens, and chili oil to taste."
-  - q: "How much does a bowl cost?"
-    a: "Prices at Chiang Mai khao soi specialists typically run in the modest street-food-to-casual-restaurant range; exact current prices aren't listed here, so check on arrival or via a delivery app like Grab or LINE MAN."
-  - q: "How long should I plan to spend here?"
-    a: "Budget 30-45 minutes for a relaxed sit-down meal, including a possible short wait at peak lunch hours (11am-2pm), which is when the shop tends to be busiest."
-  - q: "What else is nearby worth visiting?"
-    a: "Wat Phra Singh, one of Chiang Mai's most revered temples, is in the same Phra Singh neighborhood, making it easy to combine a temple visit with lunch here."
+  - q: How do I get to Best Khao Soi Chang Mai without a car?
+    a: >-
+      Use Grab (Southeast Asia's ride-hailing app) or a red songthaew shared
+      truck. It's in the Phra Singh area of the old city, so if you're staying
+      within the moat walls, it's often walkable in 10-20 minutes.
+  - q: What should I order on my first visit?
+    a: >-
+      Khao soi gai (chicken) is the classic starting point — tender chicken in
+      coconut curry broth with soft egg noodles underneath and crispy fried
+      noodles on top. Add lime, pickled mustard greens, and chili oil to taste.
+  - q: How much does a bowl cost?
+    a: >-
+      Prices at Chiang Mai khao soi specialists typically run in the modest
+      street-food-to-casual-restaurant range; exact current prices aren't listed
+      here, so check on arrival or via a delivery app like Grab or LINE MAN.
+  - q: How long should I plan to spend here?
+    a: >-
+      Budget 30-45 minutes for a relaxed sit-down meal, including a possible
+      short wait at peak lunch hours (11am-2pm), which is when the shop tends to
+      be busiest.
+  - q: What else is nearby worth visiting?
+    a: >-
+      Wat Phra Singh, one of Chiang Mai's most revered temples, is in the same
+      Phra Singh neighborhood, making it easy to combine a temple visit with
+      lunch here.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

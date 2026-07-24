@@ -1,50 +1,93 @@
 ---
-title: "Street Food Traffic Restaurant LLC: Where to Eat in Dubai"
-description: "Street Food Traffic Restaurant LLC is a casual, high-rated (4.7★, 688 reviews) street-food spot tucked into the Midtown by Deyaar complex (Shop 1, AFNAN 01)"
-country: "United Arab Emirates"
-region: "Dubai"
-category: "restaurant"
-pubDate: "2026-07-23T07:59:01.118Z"
+title: 'Street Food Traffic Restaurant LLC: Where to Eat in Dubai'
+description: >-
+  Street Food Traffic Restaurant LLC is a casual, high-rated (4.7★, 688 reviews)
+  street-food spot tucked into the Midtown by Deyaar complex (Shop 1, AFNAN 01)
+country: United Arab Emirates
+region: Dubai
+category: restaurant
+pubDate: '2026-07-23T07:59:01.118Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dubai_Pork_Shop.jpg/1920px-Dubai_Pork_Shop.jpg"
-  credit: "Photo: Elgaard / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Dubai_Pork_Shop.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dubai_Pork_Shop.jpg/1920px-Dubai_Pork_Shop.jpg
+  credit: 'Photo: Elgaard / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Dubai_Pork_Shop.jpg'
 gallery: []
 place:
-  id: "ChIJ31WuXr5tXz4RIioQ2iy_E1s"
-  name: "Street Food Traffic Restaurant LLC"
-  address: "Midtown by Deyaar - AFNAN 01 Midtown by Deyaar - Shop 1 - معيصم الأولى - Dubai Production City - دبي - United Arab Emirates"
+  id: ChIJ31WuXr5tXz4RIioQ2iy_E1s
+  name: Street Food Traffic Restaurant LLC
+  address: >-
+    Midtown by Deyaar - AFNAN 01 Midtown by Deyaar - Shop 1 - معيصم الأولى -
+    Dubai Production City - دبي - United Arab Emirates
   rating: 4.7
   userRatingsTotal: 688
-  googleMapsUrl: "https://maps.google.com/?cid=6562799281366903330&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6562799281366903330&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.0290958
   lng: 55.179215600000006
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [11, 12, 13, 14, 15]
-    weekdayBusy: [19, 20]
-    weekendQuiet: [11]
-    weekendBusy: [17, 18, 19, 20, 21, 22]
-    venueId: 'ven_7331455f796932516f694952347a5874357258755731334a496843'
+    weekdayQuiet:
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+    weekdayBusy:
+      - 19
+      - 20
+    weekendQuiet:
+      - 11
+    weekendBusy:
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+    venueId: ven_7331455f796932516f694952347a5874357258755731334a496843
+  priceLevel: 1
 tags:
-  - "dubai"
-  - "street food"
-quickAnswer: "Street Food Traffic Restaurant LLC is a casual, high-rated (4.7★, 688 reviews) street-food spot tucked into the Midtown by Deyaar complex (Shop 1, AFNAN 01) in Dubai Production City (DPC), near Al Furjan and Jumeirah Village Circle. It's best for a relaxed, budget-friendly meal of grilled and street-style South Asian/Middle Eastern favorites away from the tourist strip — plan for a 45–75 minute visit, cash or card both usually fine, and go on a weekday evening to beat the residential-community dinner rush."
+  - dubai
+  - street food
+quickAnswer: >-
+  Street Food Traffic Restaurant LLC is a casual, high-rated (4.7★, 688 reviews)
+  street-food spot tucked into the Midtown by Deyaar complex (Shop 1, AFNAN 01)
+  in Dubai Production City (DPC), near Al Furjan and Jumeirah Village Circle.
+  It's best for a relaxed, budget-friendly meal of grilled and street-style
+  South Asian/Middle Eastern favorites away from the tourist strip — plan for a
+  45–75 minute visit, cash or card both usually fine, and go on a weekday
+  evening to beat the residential-community dinner rush.
 faq:
-  - q: "How do I get to Street Food Traffic Restaurant LLC without a car?"
-    a: "Take the Metro Red Line to a station near Dubai Internet City or Jumeirah Lakes Towers, then continue by taxi or rideshare (about 10–15 minutes) into Dubai Production City, since no metro line runs directly through DPC."
-  - q: "How much does a meal cost here?"
-    a: "It's positioned as an everyday street-food spot rather than fine dining, so expect budget-to-mid-range casual pricing; confirm current menu prices on-site or via their listing since exact rates can change."
-  - q: "How long should I plan to spend there?"
-    a: "45–75 minutes is typical for ordering, eating, and a bit of lingering, since it's a casual, quick-turnaround food format rather than a multi-course sit-down."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Weekday lunch (1–3 PM) or early evening before 7 PM tends to be quietest; weekend evenings (Thursday–Saturday nights) draw the biggest local crowds."
-  - q: "What's nearby if I want to explore after eating?"
-    a: "The restaurant sits between Jumeirah Village Circle and Al Furjan, both worth a walk for residential café and retail culture, with the IMPZ media-district area also close by."
+  - q: How do I get to Street Food Traffic Restaurant LLC without a car?
+    a: >-
+      Take the Metro Red Line to a station near Dubai Internet City or Jumeirah
+      Lakes Towers, then continue by taxi or rideshare (about 10–15 minutes)
+      into Dubai Production City, since no metro line runs directly through DPC.
+  - q: How much does a meal cost here?
+    a: >-
+      It's positioned as an everyday street-food spot rather than fine dining,
+      so expect budget-to-mid-range casual pricing; confirm current menu prices
+      on-site or via their listing since exact rates can change.
+  - q: How long should I plan to spend there?
+    a: >-
+      45–75 minutes is typical for ordering, eating, and a bit of lingering,
+      since it's a casual, quick-turnaround food format rather than a
+      multi-course sit-down.
+  - q: What's the best time to visit to avoid crowds?
+    a: >-
+      Weekday lunch (1–3 PM) or early evening before 7 PM tends to be quietest;
+      weekend evenings (Thursday–Saturday nights) draw the biggest local crowds.
+  - q: What's nearby if I want to explore after eating?
+    a: >-
+      The restaurant sits between Jumeirah Village Circle and Al Furjan, both
+      worth a walk for residential café and retail culture, with the IMPZ
+      media-district area also close by.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

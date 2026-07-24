@@ -1,48 +1,89 @@
 ---
-title: "Songdo Central Park: Incheon Travel Guide"
-description: "Songdo Central Park is a 40-hectare green space in Incheon's Songdo International Business District, built around a seawater canal where you can ride water"
+title: 'Songdo Central Park: Incheon Travel Guide'
+description: >-
+  Songdo Central Park is a 40-hectare green space in Incheon's Songdo
+  International Business District, built around a seawater canal where you can
+  ride water
 region: Incheon
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/South_Korea%2C_Incheon%2C_Songdo%2C_the_Sharp_Central_Park_Towers.jpg/1920px-South_Korea%2C_Incheon%2C_Songdo%2C_the_Sharp_Central_Park_Towers.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/South_Korea%2C_Incheon%2C_Songdo%2C_the_Sharp_Central_Park_Towers.jpg/1920px-South_Korea%2C_Incheon%2C_Songdo%2C_the_Sharp_Central_Park_Towers.jpg
   credit: 'Photo: Vincent van Zeijst / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:South_Korea,_Incheon,_Songdo,_the_Sharp_Central_Park_Towers.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:South_Korea,_Incheon,_Songdo,_the_Sharp_Central_Park_Towers.jpg
 gallery: []
 place:
   id: ChIJR-rlYap3ezURNlKAHaPpVt8
   name: Songdo Central Park
-  address: 160 Convensia-daero, Yeonsu-gu, Incheon, South Korea
+  address: '160 Convensia-daero, Yeonsu-gu, Incheon, South Korea'
   rating: 4.5
-  userRatingsTotal: 6122
-  googleMapsUrl: https://maps.google.com/?cid=16093307205238936118&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 6128
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16093307205238936118&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.392262099999996
   lng: 126.6396891
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [7, 8]
-    weekendQuiet: [7]
-    weekendBusy: [11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
-    venueId: 'ven_38745670506148414b6c4e52557a65337061596c722d524a496843'
+    weekdayQuiet:
+      - 7
+      - 8
+    weekendQuiet:
+      - 7
+    weekendBusy:
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+    venueId: ven_38745670506148414b6c4e52557a65337061596c722d524a496843
 tags:
   - incheon
   - Songdo Central Park
-quickAnswer: Songdo Central Park is a 40-hectare green space in Incheon's Songdo International Business District, built around a seawater canal where you can ride water taxis or rent paddle boats. Take Incheon Subway Line 1 to Central Park Station (Exit 4) and you'll walk straight into the park. Plan for 1.5–2 hours to stroll, more if you want to bike the perimeter path or linger over the skyline views at sunset.
+quickAnswer: >-
+  Songdo Central Park is a 40-hectare green space in Incheon's Songdo
+  International Business District, built around a seawater canal where you can
+  ride water taxis or rent paddle boats. Take Incheon Subway Line 1 to Central
+  Park Station (Exit 4) and you'll walk straight into the park. Plan for 1.5–2
+  hours to stroll, more if you want to bike the perimeter path or linger over
+  the skyline views at sunset.
 faq:
   - q: How do I get to Songdo Central Park by subway?
-    a: Take Incheon Subway Line 1 to Central Park Station and leave via Exit 4, which opens directly onto the park.
+    a: >-
+      Take Incheon Subway Line 1 to Central Park Station and leave via Exit 4,
+      which opens directly onto the park.
   - q: How much does the water taxi cost?
-    a: Prices are modest (typically a few thousand won per person) but can change seasonally, so check current rates at the boarding dock or official Incheon tourism site before visiting.
+    a: >-
+      Prices are modest (typically a few thousand won per person) but can change
+      seasonally, so check current rates at the boarding dock or official
+      Incheon tourism site before visiting.
   - q: How long should I spend at the park?
-    a: Budget 1.5–2 hours for a walk around the lake and canal; add extra time if you want to bike the full loop, rent a paddle boat, or stay for sunset skyline views.
+    a: >-
+      Budget 1.5–2 hours for a walk around the lake and canal; add extra time if
+      you want to bike the full loop, rent a paddle boat, or stay for sunset
+      skyline views.
   - q: What's the best time of day or year to visit?
-    a: Early evening is ideal year-round for the illuminated skyline reflections; spring and autumn offer the most comfortable walking weather, with cherry blossoms adding appeal in early April.
+    a: >-
+      Early evening is ideal year-round for the illuminated skyline reflections;
+      spring and autumn offer the most comfortable walking weather, with cherry
+      blossoms adding appeal in early April.
   - q: What else is nearby?
-    a: The Tri-bowl cultural landmark, Songdo Convensia convention center, and several shopping and dining complexes are all within easy walking distance of the park.
+    a: >-
+      The Tri-bowl cultural landmark, Songdo Convensia convention center, and
+      several shopping and dining complexes are all within easy walking distance
+      of the park.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

@@ -1,44 +1,75 @@
 ---
-title: "PhinHolic: Hue Travel Guide"
-description: "PhinHolic is a stylish Vietnamese phin-coffee café at 65 Bến Nghé, in Hue's Thuận Hóa ward on the south bank of the Perfume River, a short walk or cyclo ride"
-country: "Vietnam"
-region: "Hue"
-category: "trendy"
-pubDate: "2026-07-22T09:38:47.453Z"
+title: 'PhinHolic: Hue Travel Guide'
+description: >-
+  PhinHolic is a stylish Vietnamese phin-coffee café at 65 Bến Nghé, in Hue's
+  Thuận Hóa ward on the south bank of the Perfume River, a short walk or cyclo
+  ride
+country: Vietnam
+region: Hue
+category: trendy
+pubDate: '2026-07-22T09:38:47.453Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Hue_Vietnam_Citadel-of-Hu%E1%BA%BF-21.jpg/1920px-Hue_Vietnam_Citadel-of-Hu%E1%BA%BF-21.jpg"
-  credit: "Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Hue_Vietnam_Citadel-of-Hu%E1%BA%BF-21.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Hue_Vietnam_Citadel-of-Hu%E1%BA%BF-21.jpg/1920px-Hue_Vietnam_Citadel-of-Hu%E1%BA%BF-21.jpg
+  credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Hue_Vietnam_Citadel-of-Hu%E1%BA%BF-21.jpg
 gallery: []
 place:
-  id: "ChIJ1x7xMjyhQTERwjTNPo0pYVQ"
-  name: "PhinHolic"
-  address: "65 Bến Nghé, Thuận Hóa, Huế 530000, Vietnam"
+  id: ChIJ1x7xMjyhQTERwjTNPo0pYVQ
+  name: PhinHolic
+  address: '65 Bến Nghé, Thuận Hóa, Huế 530000, Vietnam'
   rating: 4.5
-  userRatingsTotal: 899
-  priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=6080186658547643586&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 903
+  priceLevel: 1
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6080186658547643586&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 16.464765
   lng: 107.59478209999999
 tags:
-  - "hue"
-  - "trendy cafe"
-quickAnswer: "PhinHolic is a stylish Vietnamese phin-coffee café at 65 Bến Nghé, in Hue's Thuận Hóa ward on the south bank of the Perfume River, a short walk or cyclo ride from Dong Ba Market and the main hotel strip along Le Loi and Hung Vuong. Go mid-morning or late afternoon, order a phin-filtered ca phe sua da or the trendy salted-cream coffee, and budget 45–60 minutes to sit, work, or people-watch. Expect to pay roughly 25,000–55,000 VND (about $1–2.50) per drink, cash or QR transfer."
+  - hue
+  - trendy cafe
+quickAnswer: >-
+  PhinHolic is a stylish Vietnamese phin-coffee café at 65 Bến Nghé, in Hue's
+  Thuận Hóa ward on the south bank of the Perfume River, a short walk or cyclo
+  ride from Dong Ba Market and the main hotel strip along Le Loi and Hung Vuong.
+  Go mid-morning or late afternoon, order a phin-filtered ca phe sua da or the
+  trendy salted-cream coffee, and budget 45–60 minutes to sit, work, or
+  people-watch. Expect to pay roughly 25,000–55,000 VND (about $1–2.50) per
+  drink, cash or QR transfer.
 faq:
-  - q: "How do I get to PhinHolic from central Hue?"
-    a: "It's at 65 Bến Nghé in Thuận Hóa ward on the south bank of the Perfume River, about a 10–15 minute walk from Dong Ba Market and Trang Tien Bridge. From the Citadel side, cross the river and continue south, or take a short Grab/taxi ride."
-  - q: "How much does a coffee cost at PhinHolic?"
-    a: "It's a moderately priced café by Vietnamese standards, with most phin-brewed drinks and specialty items typically falling in the 25,000–55,000 VND range (roughly $1–2.50 USD). Cash and QR bank transfer are both commonly accepted."
-  - q: "What should I order?"
-    a: "Start with the classic ca phe sua da (phin-filtered coffee with condensed milk over ice), and try the salted cream coffee variation if available — a modern spin on a style associated with Hue."
-  - q: "What's the best time to visit?"
-    a: "Late morning (10–11am) or late afternoon (4–6pm) avoids Hue's midday heat and, in the rainy months of October–December, reduces the chance of getting caught in a downpour. Weekday visits are quieter than weekends."
-  - q: "What else is nearby?"
-    a: "Dong Ba Market and the Perfume River promenade are both within a 10–15 minute walk, making PhinHolic an easy midday stop between a Citadel visit and an evening river walk or night market browse."
+  - q: How do I get to PhinHolic from central Hue?
+    a: >-
+      It's at 65 Bến Nghé in Thuận Hóa ward on the south bank of the Perfume
+      River, about a 10–15 minute walk from Dong Ba Market and Trang Tien
+      Bridge. From the Citadel side, cross the river and continue south, or take
+      a short Grab/taxi ride.
+  - q: How much does a coffee cost at PhinHolic?
+    a: >-
+      It's a moderately priced café by Vietnamese standards, with most
+      phin-brewed drinks and specialty items typically falling in the
+      25,000–55,000 VND range (roughly $1–2.50 USD). Cash and QR bank transfer
+      are both commonly accepted.
+  - q: What should I order?
+    a: >-
+      Start with the classic ca phe sua da (phin-filtered coffee with condensed
+      milk over ice), and try the salted cream coffee variation if available — a
+      modern spin on a style associated with Hue.
+  - q: What's the best time to visit?
+    a: >-
+      Late morning (10–11am) or late afternoon (4–6pm) avoids Hue's midday heat
+      and, in the rainy months of October–December, reduces the chance of
+      getting caught in a downpour. Weekday visits are quieter than weekends.
+  - q: What else is nearby?
+    a: >-
+      Dong Ba Market and the Perfume River promenade are both within a 10–15
+      minute walk, making PhinHolic an easy midday stop between a Citadel visit
+      and an evening river walk or night market browse.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

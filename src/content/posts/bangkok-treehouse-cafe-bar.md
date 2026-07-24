@@ -1,50 +1,91 @@
 ---
-title: "Treehouse Cafe & Bar: Bangkok Travel Guide"
-description: "Treehouse Cafe & Bar is a jungle-themed café tucked down Sukhumvit Soi 31 in Watthana, best visited on a weekday afternoon to snag a table among the vines"
-country: "Thailand"
-region: "Bangkok"
-category: "trendy"
-pubDate: "2026-07-22T09:25:23.670Z"
+title: 'Treehouse Cafe & Bar: Bangkok Travel Guide'
+description: >-
+  Treehouse Cafe & Bar is a jungle-themed café tucked down Sukhumvit Soi 31 in
+  Watthana, best visited on a weekday afternoon to snag a table among the vines
+country: Thailand
+region: Bangkok
+category: trendy
+pubDate: '2026-07-22T09:25:23.670Z'
 heroImage:
-  url: "https://images.unsplash.com/photo-1608155168168-db85cc55172e?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8QmFuZ2tvayUyMFRoYWlsYW5kJTIwdHJlbmR5JTIwY2FmZXxlbnwwfDB8fHwxNzg0NzEyMjUxfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Kamil Molendys on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@ilkamo?utm_source=korea_travel_guide&utm_medium=referral"
+  url: >-
+    https://images.unsplash.com/photo-1608155168168-db85cc55172e?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8QmFuZ2tvayUyMFRoYWlsYW5kJTIwdHJlbmR5JTIwY2FmZXxlbnwwfDB8fHwxNzg0NzEyMjUxfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Kamil Molendys on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@ilkamo?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
-  id: "ChIJh1qSmmuf4jAR_P5qjvv_Vzs"
-  name: "Treehouse Cafe & Bar"
-  address: "20 Sukhumvit 31, Khwaeng Khlong Tan Nuea, Watthana, Krung Thep Maha Nakhon 10110, Thailand"
+  id: ChIJh1qSmmuf4jAR_P5qjvv_Vzs
+  name: Treehouse Cafe & Bar
+  address: >-
+    20 Sukhumvit 31, Khwaeng Khlong Tan Nuea, Watthana, Krung Thep Maha Nakhon
+    10110, Thailand
   rating: 4.9
-  userRatingsTotal: 2606
-  googleMapsUrl: "https://maps.google.com/?cid=4276167827102826236&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2609
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4276167827102826236&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 13.7366721
   lng: 100.56697349999999
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [9, 22]
-    weekdayBusy: [19]
-    weekendQuiet: [9, 22]
-    weekendBusy: [11, 12, 13, 14, 18, 19, 20, 21]
-    venueId: 'ven_737a565f76766a7135505f52416a3466756d6d537131684a496843'
+    weekdayQuiet:
+      - 9
+      - 22
+    weekdayBusy:
+      - 19
+    weekendQuiet:
+      - 9
+      - 22
+    weekendBusy:
+      - 11
+      - 12
+      - 13
+      - 14
+      - 18
+      - 19
+      - 20
+      - 21
+    venueId: ven_737a565f76766a7135505f52416a3466756d6d537131684a496843
+  priceLevel: 2
 tags:
-  - "bangkok"
-  - "trendy cafe"
-quickAnswer: "Treehouse Cafe & Bar is a jungle-themed café tucked down Sukhumvit Soi 31 in Watthana, best visited on a weekday afternoon to snag a table among the vines and fairy lights before the evening crowd arrives. It's a 10–15 minute walk (or short taxi ride) from Phrom Phong BTS, and with a 4.9 rating from over 2,600 reviews, it's worth booking ahead or arriving early on weekends. Budget 1–1.5 hours for coffee and photos, longer if you stay for dinner and drinks."
+  - bangkok
+  - trendy cafe
+quickAnswer: >-
+  Treehouse Cafe & Bar is a jungle-themed café tucked down Sukhumvit Soi 31 in
+  Watthana, best visited on a weekday afternoon to snag a table among the vines
+  and fairy lights before the evening crowd arrives. It's a 10–15 minute walk
+  (or short taxi ride) from Phrom Phong BTS, and with a 4.9 rating from over
+  2,600 reviews, it's worth booking ahead or arriving early on weekends. Budget
+  1–1.5 hours for coffee and photos, longer if you stay for dinner and drinks.
 faq:
-  - q: "How do I get to Treehouse Cafe & Bar without a car?"
-    a: "Take the BTS Sukhumvit Line to Phrom Phong station, then walk about 10–15 minutes north into Sukhumvit Soi 31, or grab a short taxi/Grab ride directly to 20 Sukhumvit 31."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Weekday afternoons, roughly 2–5pm, tend to be quieter. Weekend evenings draw the biggest crowds given its high review volume and photogenic setup."
-  - q: "Is it more of a café or a bar?"
-    a: "Both — it operates as a coffee and dessert spot by day and shifts into a cocktail bar atmosphere in the evening, with a food menu spanning Thai and Western dishes."
-  - q: "How long should I plan to stay?"
-    a: "Budget at least 1–1.5 hours for coffee, photos, and browsing the space; longer if you're staying for a full dinner or drinks."
-  - q: "Do I need a reservation?"
-    a: "It's not always required, but given the venue's popularity (4.9 stars, 2,600+ reviews), booking ahead or arriving early is recommended for weekend evenings."
+  - q: How do I get to Treehouse Cafe & Bar without a car?
+    a: >-
+      Take the BTS Sukhumvit Line to Phrom Phong station, then walk about 10–15
+      minutes north into Sukhumvit Soi 31, or grab a short taxi/Grab ride
+      directly to 20 Sukhumvit 31.
+  - q: What's the best time to visit to avoid crowds?
+    a: >-
+      Weekday afternoons, roughly 2–5pm, tend to be quieter. Weekend evenings
+      draw the biggest crowds given its high review volume and photogenic setup.
+  - q: Is it more of a café or a bar?
+    a: >-
+      Both — it operates as a coffee and dessert spot by day and shifts into a
+      cocktail bar atmosphere in the evening, with a food menu spanning Thai and
+      Western dishes.
+  - q: How long should I plan to stay?
+    a: >-
+      Budget at least 1–1.5 hours for coffee, photos, and browsing the space;
+      longer if you're staying for a full dinner or drinks.
+  - q: Do I need a reservation?
+    a: >-
+      It's not always required, but given the venue's popularity (4.9 stars,
+      2,600+ reviews), booking ahead or arriving early is recommended for
+      weekend evenings.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

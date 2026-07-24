@@ -1,51 +1,99 @@
 ---
-title: "Chivit Thamma Da Coffee House, Bistro & Bar: Where to Eat in Chiang Rai"
-description: "Chivit Thamma Da is a riverside coffee house, bistro and bar on the Kok River just north of Chiang Rai's old town, best visited for a leisurely brunch or"
-country: "Thailand"
-region: "Chiang Rai"
-category: "restaurant"
-pubDate: "2026-07-22T09:13:26.066Z"
+title: 'Chivit Thamma Da Coffee House, Bistro & Bar: Where to Eat in Chiang Rai'
+description: >-
+  Chivit Thamma Da is a riverside coffee house, bistro and bar on the Kok River
+  just north of Chiang Rai's old town, best visited for a leisurely brunch or
+country: Thailand
+region: Chiang Rai
+category: restaurant
+pubDate: '2026-07-22T09:13:26.066Z'
 heroImage:
-  url: "https://images.unsplash.com/photo-1682826556362-2c06b7ac75c5?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8Q2hpYW5nJTIwUmFpJTIwVGhhaWxhbmR8ZW58MHwwfHx8MTc4NDcxMTU1NXww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Norbert Braun on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@medion4you?utm_source=korea_travel_guide&utm_medium=referral"
+  url: >-
+    https://images.unsplash.com/photo-1682826556362-2c06b7ac75c5?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8Q2hpYW5nJTIwUmFpJTIwVGhhaWxhbmR8ZW58MHwwfHx8MTc4NDcxMTU1NXww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Norbert Braun on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@medion4you?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
-  id: "ChIJeWMpkfAG1zARs3NJVf_6_T0"
-  name: "Chivit Thamma Da Coffee House, Bistro & Bar"
-  address: "179 หมู่ที่ 2 Bannrongseartean Soi 3, Tambon Rim Kok, Amphoe Mueang Chiang Rai, Chang Wat Chiang Rai 57100, Thailand"
+  id: ChIJeWMpkfAG1zARs3NJVf_6_T0
+  name: 'Chivit Thamma Da Coffee House, Bistro & Bar'
+  address: >-
+    179 หมู่ที่ 2 Bannrongseartean Soi 3, Tambon Rim Kok, Amphoe Mueang Chiang
+    Rai, Chang Wat Chiang Rai 57100, Thailand
   rating: 4.6
-  userRatingsTotal: 7122
+  userRatingsTotal: 7124
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=4467002379975881651&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4467002379975881651&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 19.921706699999998
   lng: 99.8450744
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [9, 10, 21, 22]
-    weekdayBusy: [12, 13, 14]
-    weekendQuiet: [9, 10, 20, 21, 22]
-    weekendBusy: [12, 13, 14, 15, 16, 17]
-    venueId: 'ven_30545f365f66564a4e337352417a314741666b704d57654a496843'
+    weekdayQuiet:
+      - 9
+      - 10
+      - 21
+      - 22
+    weekdayBusy:
+      - 12
+      - 13
+      - 14
+    weekendQuiet:
+      - 9
+      - 10
+      - 20
+      - 21
+      - 22
+    weekendBusy:
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+    venueId: ven_30545f365f66564a4e337352417a314741666b704d57654a496843
 tags:
-  - "chiang rai"
-  - "local restaurant"
-quickAnswer: "Chivit Thamma Da is a riverside coffee house, bistro and bar on the Kok River just north of Chiang Rai's old town, best visited for a leisurely brunch or sunset dinner. Expect a garden setting, international and Thai-fusion dishes made with seasonal ingredients, and a menu that spans espresso and cakes to steaks and pasta. Go by tuk-tuk or rented scooter (roughly 10-15 minutes from the clock tower), and book ahead on weekends given its 4.6-star reputation and thousands of reviews."
+  - chiang rai
+  - local restaurant
+quickAnswer: >-
+  Chivit Thamma Da is a riverside coffee house, bistro and bar on the Kok River
+  just north of Chiang Rai's old town, best visited for a leisurely brunch or
+  sunset dinner. Expect a garden setting, international and Thai-fusion dishes
+  made with seasonal ingredients, and a menu that spans espresso and cakes to
+  steaks and pasta. Go by tuk-tuk or rented scooter (roughly 10-15 minutes from
+  the clock tower), and book ahead on weekends given its 4.6-star reputation and
+  thousands of reviews.
 faq:
-  - q: "How do I get to Chivit Thamma Da from central Chiang Rai?"
-    a: "It's on the north bank of the Kok River in Rim Kok, about 10-15 minutes by tuk-tuk, Grab, or scooter from the Chiang Rai Clock Tower, crossing the Mae Fah Luang Bridge. There's no direct public songthaew route, so use a ride-hailing app or share the map pin with a driver."
-  - q: "What's the price range?"
-    a: "It sits at a mid-range price level (2 out of 4) — coffee and pastries are inexpensive, while pasta, steaks, and cocktails push the bill higher. Exact prices vary seasonally, so confirm current menu pricing on-site."
-  - q: "What's the best time of day to visit?"
-    a: "Late afternoon through sunset is ideal for riverside garden seating and a bar-to-dinner transition. Mornings are quieter for a relaxed brunch with fewer crowds."
-  - q: "How long should I plan to stay?"
-    a: "Budget at least 1.5–2 hours if you're having a full meal, longer if you want to linger in the garden or catch the sunset over the river."
-  - q: "What's nearby to combine with a visit?"
-    a: "Wat Rong Khun (White Temple) and Baan Dam Museum (Black House) are both within a reasonable drive north of the city, making a natural half-day loop that ends with a meal here."
+  - q: How do I get to Chivit Thamma Da from central Chiang Rai?
+    a: >-
+      It's on the north bank of the Kok River in Rim Kok, about 10-15 minutes by
+      tuk-tuk, Grab, or scooter from the Chiang Rai Clock Tower, crossing the
+      Mae Fah Luang Bridge. There's no direct public songthaew route, so use a
+      ride-hailing app or share the map pin with a driver.
+  - q: What's the price range?
+    a: >-
+      It sits at a mid-range price level (2 out of 4) — coffee and pastries are
+      inexpensive, while pasta, steaks, and cocktails push the bill higher.
+      Exact prices vary seasonally, so confirm current menu pricing on-site.
+  - q: What's the best time of day to visit?
+    a: >-
+      Late afternoon through sunset is ideal for riverside garden seating and a
+      bar-to-dinner transition. Mornings are quieter for a relaxed brunch with
+      fewer crowds.
+  - q: How long should I plan to stay?
+    a: >-
+      Budget at least 1.5–2 hours if you're having a full meal, longer if you
+      want to linger in the garden or catch the sunset over the river.
+  - q: What's nearby to combine with a visit?
+    a: >-
+      Wat Rong Khun (White Temple) and Baan Dam Museum (Black House) are both
+      within a reasonable drive north of the city, making a natural half-day
+      loop that ends with a meal here.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

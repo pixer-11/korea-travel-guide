@@ -1,44 +1,70 @@
 ---
-title: "Hummingbird Eatery & Space: Where to Eat in Bandung"
-description: "Hummingbird Eatery & Space is a leafy, patio-filled all-day café on Jl."
-country: "Indonesia"
-region: "Bandung"
-category: "restaurant"
-pubDate: "2026-07-23T07:16:53.685Z"
+title: 'Hummingbird Eatery & Space: Where to Eat in Bandung'
+description: 'Hummingbird Eatery & Space is a leafy, patio-filled all-day café on Jl.'
+country: Indonesia
+region: Bandung
+category: restaurant
+pubDate: '2026-07-23T07:16:53.685Z'
 heroImage:
-  url: "https://images.unsplash.com/photo-1646095507776-ae62c7db6aa2?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8QmFuZHVuZyUyMEluZG9uZXNpYSUyMGxvY2FsJTIwcmVzdGF1cmFudHxlbnwwfDB8fHwxNzg0NzkwOTc5fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Farel Yesha on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@tidaksantai?utm_source=korea_travel_guide&utm_medium=referral"
+  url: >-
+    https://images.unsplash.com/photo-1646095507776-ae62c7db6aa2?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8QmFuZHVuZyUyMEluZG9uZXNpYSUyMGxvY2FsJTIwcmVzdGF1cmFudHxlbnwwfDB8fHwxNzg0NzkwOTc5fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Farel Yesha on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@tidaksantai?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
-  id: "ChIJaa4yq0vmaC4Rlp_TQ2P0LHY"
-  name: "Hummingbird Eatery & Space"
-  address: "Jl. Progo No.16, Citarum, Kec. Bandung, Kota Bandung, Jawa Barat 40116, Indonesia"
+  id: ChIJaa4yq0vmaC4Rlp_TQ2P0LHY
+  name: Hummingbird Eatery & Space
+  address: >-
+    Jl. Progo No.16, Citarum, Kec. Bandung, Kota Bandung, Jawa Barat 40116,
+    Indonesia
   rating: 4.7
-  userRatingsTotal: 12786
+  userRatingsTotal: 12784
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=8515449702627647382&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8515449702627647382&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -6.9049353
   lng: 107.6183885
 tags:
-  - "bandung"
-  - "local restaurant"
-quickAnswer: "Hummingbird Eatery & Space is a leafy, patio-filled all-day café on Jl. Progo in Bandung's Citarum area, known for a menu that spans Indonesian classics, Western mains, crepes, and fresh juices. With a 4.7 rating from nearly 13,000 reviews, it's a genuinely popular, well-visited spot — go on a weekday morning or mid-afternoon to avoid the weekend crush, and budget around IDR 40,000–90,000 per dish (mid-range, price level 2)."
+  - bandung
+  - local restaurant
+quickAnswer: >-
+  Hummingbird Eatery & Space is a leafy, patio-filled all-day café on Jl. Progo
+  in Bandung's Citarum area, known for a menu that spans Indonesian classics,
+  Western mains, crepes, and fresh juices. With a 4.7 rating from nearly 13,000
+  reviews, it's a genuinely popular, well-visited spot — go on a weekday morning
+  or mid-afternoon to avoid the weekend crush, and budget around IDR
+  40,000–90,000 per dish (mid-range, price level 2).
 faq:
-  - q: "How do I get to Hummingbird Eatery & Space without a car?"
-    a: "Use Grab or Gojek (Indonesia's main ride-hailing apps) — the Citarum/Progo area isn't served by rail or metro, so a short ride from Bandung Station or nearby districts like Dago is the easiest option, typically 10–15 minutes."
-  - q: "How much does a meal cost?"
-    a: "It's mid-range for Bandung (price level 2 on Google), so expect a casual sit-down restaurant tab rather than street-food pricing — plan on multiple courses or a shared crepe and juice for a light meal."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Weekday mornings before 11 am or mid-afternoons around 2–4 pm are calmer; weekend lunch and brunch hours (12–2 pm) see the heaviest crowds given its popularity."
-  - q: "How long should I plan to stay?"
-    a: "Budget 45 minutes to over an hour — the garden patio and broad menu are built for a relaxed sit-down meal rather than a quick bite."
-  - q: "What should I order?"
-    a: "Try one Indonesian classic like nasi goreng or rendang alongside a crepe and a fresh juice to get a sense of the full menu range in one visit."
+  - q: How do I get to Hummingbird Eatery & Space without a car?
+    a: >-
+      Use Grab or Gojek (Indonesia's main ride-hailing apps) — the Citarum/Progo
+      area isn't served by rail or metro, so a short ride from Bandung Station
+      or nearby districts like Dago is the easiest option, typically 10–15
+      minutes.
+  - q: How much does a meal cost?
+    a: >-
+      It's mid-range for Bandung (price level 2 on Google), so expect a casual
+      sit-down restaurant tab rather than street-food pricing — plan on multiple
+      courses or a shared crepe and juice for a light meal.
+  - q: What's the best time to visit to avoid crowds?
+    a: >-
+      Weekday mornings before 11 am or mid-afternoons around 2–4 pm are calmer;
+      weekend lunch and brunch hours (12–2 pm) see the heaviest crowds given its
+      popularity.
+  - q: How long should I plan to stay?
+    a: >-
+      Budget 45 minutes to over an hour — the garden patio and broad menu are
+      built for a relaxed sit-down meal rather than a quick bite.
+  - q: What should I order?
+    a: >-
+      Try one Indonesian classic like nasi goreng or rendang alongside a crepe
+      and a fresh juice to get a sense of the full menu range in one visit.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

@@ -1,43 +1,67 @@
 ---
-title: "CQ @: Clarke Quay Travel Guide"
-description: "CQ @ Clarke Quay is the cluster of restored 19th-century godowns (riverside warehouses) at 3 River Valley Road that anchors Clarke Quay's restaurant and"
-country: "Singapore"
-region: "Clarke Quay"
-category: "attraction"
-pubDate: "2026-07-23T07:33:17.264Z"
+title: 'CQ @: Clarke Quay Travel Guide'
+description: >-
+  CQ @ Clarke Quay is the cluster of restored 19th-century godowns (riverside
+  warehouses) at 3 River Valley Road that anchors Clarke Quay's restaurant and
+country: Singapore
+region: Clarke Quay
+category: attraction
+pubDate: '2026-07-23T07:33:17.264Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/CQ_%40_Clarke_Quay_April_2024.jpg/1920px-CQ_%40_Clarke_Quay_April_2024.jpg"
-  credit: "Photo: ScribblingGeek / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:CQ_@_Clarke_Quay_April_2024.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/CQ_%40_Clarke_Quay_April_2024.jpg/1920px-CQ_%40_Clarke_Quay_April_2024.jpg
+  credit: 'Photo: ScribblingGeek / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:CQ_@_Clarke_Quay_April_2024.jpg'
 gallery: []
 place:
-  id: "ChIJnXwAOKAZ2jERAs-MHs1aDgI"
-  name: "CQ @ Clarke Quay"
-  address: "3 River Valley Rd, Singapore 179024"
+  id: ChIJnXwAOKAZ2jERAs-MHs1aDgI
+  name: CQ @ Clarke Quay
+  address: '3 River Valley Rd, Singapore 179024'
   rating: 4.5
-  userRatingsTotal: 45973
-  googleMapsUrl: "https://maps.google.com/?cid=148155674777145090&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 45974
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=148155674777145090&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.2906024
   lng: 103.84647419999999
 tags:
-  - "clarke quay"
-  - "top attraction"
-quickAnswer: "CQ @ Clarke Quay is the cluster of restored 19th-century godowns (riverside warehouses) at 3 River Valley Road that anchors Clarke Quay's restaurant and nightlife scene along the Singapore River. Come for riverside dining and bars by day or evening, expect a lively, crowded scene after dark (especially Thursday–Saturday), and pair it with a river walk to Boat Quay or Fort Canning Park. Nearest MRT is Clarke Quay (North East Line), Exit E, right at the site."
+  - clarke quay
+  - top attraction
+quickAnswer: >-
+  CQ @ Clarke Quay is the cluster of restored 19th-century godowns (riverside
+  warehouses) at 3 River Valley Road that anchors Clarke Quay's restaurant and
+  nightlife scene along the Singapore River. Come for riverside dining and bars
+  by day or evening, expect a lively, crowded scene after dark (especially
+  Thursday–Saturday), and pair it with a river walk to Boat Quay or Fort Canning
+  Park. Nearest MRT is Clarke Quay (North East Line), Exit E, right at the site.
 faq:
-  - q: "What is the nearest MRT station to CQ @ Clarke Quay?"
-    a: "Clarke Quay Station on the North East Line — take Exit E, which puts you right at the riverside cluster."
-  - q: "How much does it cost to visit?"
-    a: "There's no entry fee to walk around the district; costs come from dining, drinks, or activities like the reverse bungy. Prices vary by outlet, so check menus on-site or the venue's listing before committing."
-  - q: "What's the best time of day to go?"
-    a: "Late afternoon through early evening, so you catch daylight over the river and the lantern-lit atmosphere after dark. Weeknights are calmer than Thursday–Saturday, when the area gets busy with nightlife crowds."
-  - q: "How long should I plan to spend there?"
-    a: "An hour or two is enough for a walk and photos; half a day if you're combining a riverside meal with walking to Boat Quay or Fort Canning Park."
-  - q: "What else is nearby worth visiting?"
-    a: "Boat Quay is about a 10-minute riverside walk away with more restaurant options, and Fort Canning Park offers a quieter, green escape a short walk uphill from the river."
+  - q: What is the nearest MRT station to CQ @ Clarke Quay?
+    a: >-
+      Clarke Quay Station on the North East Line — take Exit E, which puts you
+      right at the riverside cluster.
+  - q: How much does it cost to visit?
+    a: >-
+      There's no entry fee to walk around the district; costs come from dining,
+      drinks, or activities like the reverse bungy. Prices vary by outlet, so
+      check menus on-site or the venue's listing before committing.
+  - q: What's the best time of day to go?
+    a: >-
+      Late afternoon through early evening, so you catch daylight over the river
+      and the lantern-lit atmosphere after dark. Weeknights are calmer than
+      Thursday–Saturday, when the area gets busy with nightlife crowds.
+  - q: How long should I plan to spend there?
+    a: >-
+      An hour or two is enough for a walk and photos; half a day if you're
+      combining a riverside meal with walking to Boat Quay or Fort Canning Park.
+  - q: What else is nearby worth visiting?
+    a: >-
+      Boat Quay is about a 10-minute riverside walk away with more restaurant
+      options, and Fort Canning Park offers a quieter, green escape a short walk
+      uphill from the river.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

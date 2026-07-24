@@ -1,50 +1,100 @@
 ---
-title: "Wat Phra That Doi Suthep: Chiang Mai Travel Guide"
-description: "Wat Phra That Doi Suthep sits on a forested mountain about 15 km (roughly 30–45 minutes by road) northwest of Chiang Mai's Old City, crowned by a gleaming"
-country: "Thailand"
-region: "Chiang Mai"
-category: "attraction"
-pubDate: 2026-07-21
+title: 'Wat Phra That Doi Suthep: Chiang Mai Travel Guide'
+description: >-
+  Wat Phra That Doi Suthep sits on a forested mountain about 15 km (roughly
+  30–45 minutes by road) northwest of Chiang Mai's Old City, crowned by a
+  gleaming
+country: Thailand
+region: Chiang Mai
+category: attraction
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Phra_That_Doi_Suthep_01.jpg/1920px-Phra_That_Doi_Suthep_01.jpg"
-  credit: "Photo: ผู้สร้างสรรค์ผลงาน/ส่งข้อมูลเก็บในคลังข้อมูลเสรีวิกิมีเดียคอมมอนส์ - เทวประภาส มากคล้าย / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Phra_That_Doi_Suthep_01.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Phra_That_Doi_Suthep_01.jpg/1920px-Phra_That_Doi_Suthep_01.jpg
+  credit: >-
+    Photo: ผู้สร้างสรรค์ผลงาน/ส่งข้อมูลเก็บในคลังข้อมูลเสรีวิกิมีเดียคอมมอนส์ -
+    เทวประภาส มากคล้าย / Wikimedia Commons (CC BY 3.0)
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Phra_That_Doi_Suthep_01.jpg'
 gallery: []
 place:
-  id: "ChIJtd3x37U52jARIX7FrlxMhp0"
-  name: "Wat Phra That Doi Suthep"
-  address: "Suthep, Mueang Chiang Mai District, Chiang Mai 50200, Thailand"
+  id: ChIJtd3x37U52jARIX7FrlxMhp0
+  name: Wat Phra That Doi Suthep
+  address: 'Suthep, Mueang Chiang Mai District, Chiang Mai 50200, Thailand'
   rating: 4.7
-  userRatingsTotal: 11901
-  googleMapsUrl: "https://maps.google.com/?cid=11350843871786794529&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 11914
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11350843871786794529&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 18.804988899999998
   lng: 98.92163370000002
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [7, 8, 19, 20, 21]
-    weekdayBusy: [11, 12, 13]
-    weekendQuiet: [7, 8, 19, 20, 21]
-    weekendBusy: [10, 11, 12, 13, 14, 15, 16, 17]
-    venueId: 'ven_3070684d786c724637584952416a3235553733783364744a496843'
+    weekdayQuiet:
+      - 7
+      - 8
+      - 19
+      - 20
+      - 21
+    weekdayBusy:
+      - 11
+      - 12
+      - 13
+    weekendQuiet:
+      - 7
+      - 8
+      - 19
+      - 20
+      - 21
+    weekendBusy:
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+    venueId: ven_3070684d786c724637584952416a3235553733783364744a496843
 tags:
-  - "chiang mai"
-  - "Doi Suthep Temple"
-quickAnswer: "Wat Phra That Doi Suthep sits on a forested mountain about 15 km (roughly 30–45 minutes by road) northwest of Chiang Mai's Old City, crowned by a gleaming gold chedi and wide views over the valley. Plan on 1.5–2 hours for the temple itself, more if you climb the 306-step naga staircase instead of taking the cable car. Go early morning (before 9am) or late afternoon to avoid tour-bus crowds and the midday heat."
+  - chiang mai
+  - Doi Suthep Temple
+quickAnswer: >-
+  Wat Phra That Doi Suthep sits on a forested mountain about 15 km (roughly
+  30–45 minutes by road) northwest of Chiang Mai's Old City, crowned by a
+  gleaming gold chedi and wide views over the valley. Plan on 1.5–2 hours for
+  the temple itself, more if you climb the 306-step naga staircase instead of
+  taking the cable car. Go early morning (before 9am) or late afternoon to avoid
+  tour-bus crowds and the midday heat.
 faq:
-  - q: "How do I get to Wat Phra That Doi Suthep from Chiang Mai Old City?"
-    a: "Take a shared red songthaew or minivan from near Chiang Mai University's main gate on Huay Kaew Road, book a Grab/taxi, or join a half-day tour. The drive up the mountain takes about 30–45 minutes."
-  - q: "How long should I spend at the temple?"
-    a: "Budget 1.5–2 hours for the chedi, viharns, museum, and viewpoint terrace. Add 30–45 minutes if you climb the 306-step naga staircase rather than using the cable car."
-  - q: "Is there an entrance fee?"
-    a: "Yes, there's typically a small entrance fee for foreign visitors plus an optional charge for the cable car; fees can change, so confirm current prices at the ticket booth before entering."
-  - q: "What should I wear?"
-    a: "Modest dress is required — shoulders and knees covered, shoes off before stepping onto the main chedi terrace. Sarongs are usually available to rent or borrow near the entrance if needed."
-  - q: "What else can I combine with this visit?"
-    a: "Doi Suthep pairs well with Bhubing Palace's gardens further up the mountain, a nearby Hmong hill-tribe village, and short trails in Doi Suthep–Pui National Park."
+  - q: How do I get to Wat Phra That Doi Suthep from Chiang Mai Old City?
+    a: >-
+      Take a shared red songthaew or minivan from near Chiang Mai University's
+      main gate on Huay Kaew Road, book a Grab/taxi, or join a half-day tour.
+      The drive up the mountain takes about 30–45 minutes.
+  - q: How long should I spend at the temple?
+    a: >-
+      Budget 1.5–2 hours for the chedi, viharns, museum, and viewpoint terrace.
+      Add 30–45 minutes if you climb the 306-step naga staircase rather than
+      using the cable car.
+  - q: Is there an entrance fee?
+    a: >-
+      Yes, there's typically a small entrance fee for foreign visitors plus an
+      optional charge for the cable car; fees can change, so confirm current
+      prices at the ticket booth before entering.
+  - q: What should I wear?
+    a: >-
+      Modest dress is required — shoulders and knees covered, shoes off before
+      stepping onto the main chedi terrace. Sarongs are usually available to
+      rent or borrow near the entrance if needed.
+  - q: What else can I combine with this visit?
+    a: >-
+      Doi Suthep pairs well with Bhubing Palace's gardens further up the
+      mountain, a nearby Hmong hill-tribe village, and short trails in Doi
+      Suthep–Pui National Park.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

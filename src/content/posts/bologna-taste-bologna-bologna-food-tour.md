@@ -1,43 +1,73 @@
 ---
-title: "Taste Bologna - Bologna Food Tour: Where to Eat"
-description: "Taste Bologna is a small-group, guided food-tasting tour that walks you through Bologna's historic core and market stalls, pairing tastings of mortadella"
-country: "Italy"
-region: "Bologna"
-category: "restaurant"
-pubDate: 2026-07-21
+title: 'Taste Bologna - Bologna Food Tour: Where to Eat'
+description: >-
+  Taste Bologna is a small-group, guided food-tasting tour that walks you
+  through Bologna's historic core and market stalls, pairing tastings of
+  mortadella
+country: Italy
+region: Bologna
+category: restaurant
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1635469019177-7264fc1e013c?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8Qm9sb2duYSUyMEl0YWx5JTIwQm9sb2duYSUyMEZvb2QlMjBUb3VyfGVufDB8MHx8fDE3ODQ2MjMxNzF8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Petr Slováček on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@grwood?utm_source=korea_travel_guide&utm_medium=referral"
+  url: >-
+    https://images.unsplash.com/photo-1635469019177-7264fc1e013c?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8Qm9sb2duYSUyMEl0YWx5JTIwQm9sb2duYSUyMEZvb2QlMjBUb3VyfGVufDB8MHx8fDE3ODQ2MjMxNzF8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Petr Slováček on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@grwood?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
-  id: "ChIJhRBlfrMvfkcRCP5d9lwk0sg"
-  name: "Taste Bologna - Bologna Food Tour"
-  address: "Via Malta, 19, 40135 Bologna BO, Italy"
+  id: ChIJhRBlfrMvfkcRCP5d9lwk0sg
+  name: Taste Bologna - Bologna Food Tour
+  address: 'Via Malta, 19, 40135 Bologna BO, Italy'
   rating: 5
-  userRatingsTotal: 912
-  googleMapsUrl: "https://maps.google.com/?cid=14470668534383771144&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 913
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14470668534383771144&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 44.4891055
   lng: 11.324240200000002
 tags:
-  - "bologna"
-  - "Bologna Food Tour"
-quickAnswer: "Taste Bologna is a small-group, guided food-tasting tour that walks you through Bologna's historic core and market stalls, pairing tastings of mortadella, Parmigiano Reggiano, prosciutto, tortellini and traditional balsamic vinegar with the stories behind them. It's rated 5 stars over 912 reviews, departs from a meeting point near Via Malta, and runs roughly 3-4 hours — book it for your first morning or afternoon in the city so you can identify, and return to, your favorite spots afterward."
+  - bologna
+  - Bologna Food Tour
+quickAnswer: >-
+  Taste Bologna is a small-group, guided food-tasting tour that walks you
+  through Bologna's historic core and market stalls, pairing tastings of
+  mortadella, Parmigiano Reggiano, prosciutto, tortellini and traditional
+  balsamic vinegar with the stories behind them. It's rated 5 stars over 912
+  reviews, departs from a meeting point near Via Malta, and runs roughly 3-4
+  hours — book it for your first morning or afternoon in the city so you can
+  identify, and return to, your favorite spots afterward.
 faq:
-  - q: "How much does the Taste Bologna food tour cost?"
-    a: "Pricing isn't fixed here — check the official booking page for current rates, as guided food tours in Bologna commonly range from roughly €60-€100 per person depending on group size and inclusions."
-  - q: "How long does the tour last?"
-    a: "Most tastings-style walking tours in Bologna, including this style of itinerary, run about 3 to 4 hours, covering several stops rather than one sit-down meal."
-  - q: "Where does the tour meet?"
-    a: "The listed address is Via Malta, 19, 40135 Bologna, but confirm the exact meeting point after booking — many Bologna food tours gather near the historic center (Piazza Maggiore or the Quadrilatero market area) rather than the office itself."
-  - q: "Is this tour suitable for vegetarians or people with allergies?"
-    a: "Since the tour centers on cured meats and cheese, vegetarians and those with dairy allergies should contact the operator before booking to check what substitutions are possible."
-  - q: "Should I eat breakfast before going?"
-    a: "Skip a heavy breakfast — the tour includes multiple substantial tastings (mortadella, cheese, pasta, cured ham), and most guests find it doubles as lunch."
+  - q: How much does the Taste Bologna food tour cost?
+    a: >-
+      Pricing isn't fixed here — check the official booking page for current
+      rates, as guided food tours in Bologna commonly range from roughly
+      €60-€100 per person depending on group size and inclusions.
+  - q: How long does the tour last?
+    a: >-
+      Most tastings-style walking tours in Bologna, including this style of
+      itinerary, run about 3 to 4 hours, covering several stops rather than one
+      sit-down meal.
+  - q: Where does the tour meet?
+    a: >-
+      The listed address is Via Malta, 19, 40135 Bologna, but confirm the exact
+      meeting point after booking — many Bologna food tours gather near the
+      historic center (Piazza Maggiore or the Quadrilatero market area) rather
+      than the office itself.
+  - q: Is this tour suitable for vegetarians or people with allergies?
+    a: >-
+      Since the tour centers on cured meats and cheese, vegetarians and those
+      with dairy allergies should contact the operator before booking to check
+      what substitutions are possible.
+  - q: Should I eat breakfast before going?
+    a: >-
+      Skip a heavy breakfast — the tour includes multiple substantial tastings
+      (mortadella, cheese, pasta, cured ham), and most guests find it doubles as
+      lunch.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

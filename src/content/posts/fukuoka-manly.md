@@ -1,51 +1,86 @@
 ---
-title: "Manly: Fukuoka Travel Guide"
-description: "Manly is an Australian-themed all-day café in Imaizumi, a short walk south of Tenjin, best known for fluffy ricotta hotcakes, all-day breakfast plates, and"
-country: "Japan"
-region: "Fukuoka"
-category: "trendy"
-pubDate: 2026-07-21
+title: 'Manly: Fukuoka Travel Guide'
+description: >-
+  Manly is an Australian-themed all-day café in Imaizumi, a short walk south of
+  Tenjin, best known for fluffy ricotta hotcakes, all-day breakfast plates, and
+country: Japan
+region: Fukuoka
+category: trendy
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/4/4d/2007-08-04_Manly%2C_New_South_Wales.jpg"
-  credit: "Photo: Maksym Kozlenko / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:2007-08-04_Manly,_New_South_Wales.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/4/4d/2007-08-04_Manly%2C_New_South_Wales.jpg
+  credit: 'Photo: Maksym Kozlenko / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:2007-08-04_Manly,_New_South_Wales.jpg
 gallery: []
 place:
-  id: "ChIJEwPd7ISRQTURvlcwQX4s9xM"
-  name: "Manly"
-  address: "Japan, 〒810-0021 Fukuoka, Chuo Ward, Imaizumi, 1-chōme−18−５５ 天神南ロイヤルハイツ 1F"
+  id: ChIJEwPd7ISRQTURvlcwQX4s9xM
+  name: Manly
+  address: 'Japan, 〒810-0021 Fukuoka, Chuo Ward, Imaizumi, 1-chōme−18−５５ 天神南ロイヤルハイツ 1F'
   rating: 4.5
-  userRatingsTotal: 1497
+  userRatingsTotal: 1498
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=1438667526739351486&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1438667526739351486&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 33.5848065
   lng: 130.3989908
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [22]
-    weekdayBusy: [15]
-    weekendQuiet: [21, 22]
-    weekendBusy: [15, 16, 18, 19, 20, 21]
-    venueId: 'ven_4d78397334585177636c765255545152534937645077454a496843'
+    weekdayQuiet:
+      - 22
+    weekdayBusy:
+      - 15
+    weekendQuiet:
+      - 21
+      - 22
+    weekendBusy:
+      - 15
+      - 16
+      - 18
+      - 19
+      - 20
+      - 21
+    venueId: ven_4d78397334585177636c765255545152534937645077454a496843
 tags:
-  - "fukuoka"
-  - "trendy cafe"
-quickAnswer: "Manly is an Australian-themed all-day café in Imaizumi, a short walk south of Tenjin, best known for fluffy ricotta hotcakes, all-day breakfast plates, and meat pies. Go on a weekday morning or mid-afternoon to snag one of the small outdoor tables and avoid the weekend brunch queue; budget around 1,500–2,500 yen per person and 45–75 minutes for a relaxed sit-down meal."
+  - fukuoka
+  - trendy cafe
+quickAnswer: >-
+  Manly is an Australian-themed all-day café in Imaizumi, a short walk south of
+  Tenjin, best known for fluffy ricotta hotcakes, all-day breakfast plates, and
+  meat pies. Go on a weekday morning or mid-afternoon to snag one of the small
+  outdoor tables and avoid the weekend brunch queue; budget around 1,500–2,500
+  yen per person and 45–75 minutes for a relaxed sit-down meal.
 faq:
-  - q: "How do I get to Manly in Fukuoka?"
-    a: "Walk about 5–7 minutes east from Tenjin Minami Station (Nanakuma Line) into Imaizumi, or about 10–12 minutes south from Tenjin/Nishitetsu Fukuoka Station through the Imaizumi shopping streets."
-  - q: "What is Manly known for?"
-    a: "It's an Australian-themed café known for ricotta hotcakes, meat pies, and hearty all-day breakfast plates, served in a rustic interior with outdoor seating — a change of pace from Fukuoka's typical souffle-pancake cafés."
-  - q: "How much does a meal cost?"
-    a: "It's mid-range for a Fukuoka café, roughly 1,500–2,500 yen per person for a full brunch plate and drink; confirm current menu prices on-site as they can change."
-  - q: "How long should I plan to stay?"
-    a: "Most visits run 45–75 minutes for a full sit-down meal, longer if you're claiming an outdoor table on a nice day."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Weekday late mornings (around 10:30am–noon) are calmer; weekend brunch hours, especially Saturday midday, are the busiest given its strong local following."
+  - q: How do I get to Manly in Fukuoka?
+    a: >-
+      Walk about 5–7 minutes east from Tenjin Minami Station (Nanakuma Line)
+      into Imaizumi, or about 10–12 minutes south from Tenjin/Nishitetsu Fukuoka
+      Station through the Imaizumi shopping streets.
+  - q: What is Manly known for?
+    a: >-
+      It's an Australian-themed café known for ricotta hotcakes, meat pies, and
+      hearty all-day breakfast plates, served in a rustic interior with outdoor
+      seating — a change of pace from Fukuoka's typical souffle-pancake cafés.
+  - q: How much does a meal cost?
+    a: >-
+      It's mid-range for a Fukuoka café, roughly 1,500–2,500 yen per person for
+      a full brunch plate and drink; confirm current menu prices on-site as they
+      can change.
+  - q: How long should I plan to stay?
+    a: >-
+      Most visits run 45–75 minutes for a full sit-down meal, longer if you're
+      claiming an outdoor table on a nice day.
+  - q: When is the best time to visit to avoid crowds?
+    a: >-
+      Weekday late mornings (around 10:30am–noon) are calmer; weekend brunch
+      hours, especially Saturday midday, are the busiest given its strong local
+      following.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

@@ -1,43 +1,68 @@
 ---
-title: "Pigeon Valley: Cappadocia Travel Guide"
-description: "Pigeon Valley (Güvercinlik Vadisi) links Uçhisar and Göreme via an easy, mostly flat-to-gentle 4-5km trail through a canyon dotted with dovecotes carved into"
-country: "Turkey"
-region: "Cappadocia"
-category: "attraction"
-pubDate: "2026-07-23T08:02:57.539Z"
+title: 'Pigeon Valley: Cappadocia Travel Guide'
+description: >-
+  Pigeon Valley (Güvercinlik Vadisi) links Uçhisar and Göreme via an easy,
+  mostly flat-to-gentle 4-5km trail through a canyon dotted with dovecotes
+  carved into
+country: Turkey
+region: Cappadocia
+category: attraction
+pubDate: '2026-07-23T08:02:57.539Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Cappadocia_balloon_trip%2C_Ortahisar_Castle_%2811893715185%29.jpg/1920px-Cappadocia_balloon_trip%2C_Ortahisar_Castle_%2811893715185%29.jpg"
-  credit: "Photo: Arian Zwegers from Brussels, Belgium / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Cappadocia_balloon_trip,_Ortahisar_Castle_(11893715185).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Cappadocia_balloon_trip%2C_Ortahisar_Castle_%2811893715185%29.jpg/1920px-Cappadocia_balloon_trip%2C_Ortahisar_Castle_%2811893715185%29.jpg
+  credit: 'Photo: Arian Zwegers from Brussels, Belgium / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Cappadocia_balloon_trip,_Ortahisar_Castle_(11893715185).jpg
 gallery: []
 place:
-  id: "ChIJM5r3OOVoKhURdOZ_Jxgobmk"
-  name: "Pigeon Valley"
-  address: "Göreme No:24, Aşağı, 50180 Uçhisar/Nevşehir Merkez/Nevşehir, Türkiye"
+  id: ChIJM5r3OOVoKhURdOZ_Jxgobmk
+  name: Pigeon Valley
+  address: 'Göreme No:24, Aşağı, 50180 Uçhisar/Nevşehir Merkez/Nevşehir, Türkiye'
   rating: 4.6
-  userRatingsTotal: 19469
-  googleMapsUrl: "https://maps.google.com/?cid=7597053705627625076&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 19475
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7597053705627625076&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 38.6203802
   lng: 34.8046945
 tags:
-  - "cappadocia"
-  - "top attraction"
-quickAnswer: "Pigeon Valley (Güvercinlik Vadisi) links Uçhisar and Göreme via an easy, mostly flat-to-gentle 4-5km trail through a canyon dotted with dovecotes carved into soft volcanic rock. Enter from the viewpoint below Uçhisar Castle or the Göreme end near the bus station, allow 1.5-2 hours one-way, and go early morning or late afternoon to avoid both heat and tour-bus crowds."
+  - cappadocia
+  - top attraction
+quickAnswer: >-
+  Pigeon Valley (Güvercinlik Vadisi) links Uçhisar and Göreme via an easy,
+  mostly flat-to-gentle 4-5km trail through a canyon dotted with dovecotes
+  carved into soft volcanic rock. Enter from the viewpoint below Uçhisar Castle
+  or the Göreme end near the bus station, allow 1.5-2 hours one-way, and go
+  early morning or late afternoon to avoid both heat and tour-bus crowds.
 faq:
-  - q: "How long does the Pigeon Valley walk take?"
-    a: "Plan on 1.5 to 2 hours one-way between Uçhisar and Göreme at a relaxed pace, more if you stop frequently for photos or detour to Uçhisar Castle."
-  - q: "Is there an entrance fee?"
-    a: "No ticket booth or fixed entry fee is required to walk the trail; it's an open path through the valley."
-  - q: "What's the best time of day to visit?"
-    a: "Early morning (after the sunrise balloons land, around 7:30-8:30am) or the last two hours before sunset are quietest and coolest; midday can be busy with tour groups and hot in summer."
-  - q: "How do I get back to my starting point?"
-    a: "Walk one direction (Uçhisar to Göreme is easier, as it's mostly downhill) and take a taxi or local dolmuş minibus back, since the trail is one-way point-to-point, not a loop."
-  - q: "What else is nearby?"
-    a: "Uçhisar Castle sits at one end of the valley, Göreme's otogar and Open Air Museum are near the other, and Love Valley and Rose Valley are a short drive away for additional hikes."
+  - q: How long does the Pigeon Valley walk take?
+    a: >-
+      Plan on 1.5 to 2 hours one-way between Uçhisar and Göreme at a relaxed
+      pace, more if you stop frequently for photos or detour to Uçhisar Castle.
+  - q: Is there an entrance fee?
+    a: >-
+      No ticket booth or fixed entry fee is required to walk the trail; it's an
+      open path through the valley.
+  - q: What's the best time of day to visit?
+    a: >-
+      Early morning (after the sunrise balloons land, around 7:30-8:30am) or the
+      last two hours before sunset are quietest and coolest; midday can be busy
+      with tour groups and hot in summer.
+  - q: How do I get back to my starting point?
+    a: >-
+      Walk one direction (Uçhisar to Göreme is easier, as it's mostly downhill)
+      and take a taxi or local dolmuş minibus back, since the trail is one-way
+      point-to-point, not a loop.
+  - q: What else is nearby?
+    a: >-
+      Uçhisar Castle sits at one end of the valley, Göreme's otogar and Open Air
+      Museum are near the other, and Love Valley and Rose Valley are a short
+      drive away for additional hikes.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

@@ -1,50 +1,92 @@
 ---
-title: "Sudirman Street Day and Night Market: Where to Eat in Bandung"
-description: "Sudirman Street Day and Night Market (Jl. Sudirman No.107, Karanganyar, Astanaanyar) is a sprawling, very-popular food court in western Bandung mixing"
-country: "Indonesia"
-region: "Bandung"
-category: "restaurant"
-pubDate: "2026-07-23T07:27:37.971Z"
+title: 'Sudirman Street Day and Night Market: Where to Eat in Bandung'
+description: >-
+  Sudirman Street Day and Night Market (Jl. Sudirman No.107, Karanganyar,
+  Astanaanyar) is a sprawling, very-popular food court in western Bandung mixing
+country: Indonesia
+region: Bandung
+category: restaurant
+pubDate: '2026-07-23T07:27:37.971Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Makanan_Siomay_Hokkie_Bandung.jpg/1920px-Makanan_Siomay_Hokkie_Bandung.jpg"
-  credit: "Photo: SBM9 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Makanan_Siomay_Hokkie_Bandung.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Makanan_Siomay_Hokkie_Bandung.jpg/1920px-Makanan_Siomay_Hokkie_Bandung.jpg
+  credit: 'Photo: SBM9 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Makanan_Siomay_Hokkie_Bandung.jpg'
 gallery: []
 place:
-  id: "ChIJaTt3JQjmaC4RweZEzRmPH_g"
-  name: "Sudirman Street Day and Night Market"
-  address: "Jl. Sudirman No.107, Karanganyar, Kec. Astanaanyar, Kota Bandung, Jawa Barat 40241, Indonesia"
+  id: ChIJaTt3JQjmaC4RweZEzRmPH_g
+  name: Sudirman Street Day and Night Market
+  address: >-
+    Jl. Sudirman No.107, Karanganyar, Kec. Astanaanyar, Kota Bandung, Jawa Barat
+    40241, Indonesia
   rating: 4.5
-  userRatingsTotal: 17235
+  userRatingsTotal: 17237
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=17879166386664957633&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17879166386664957633&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -6.9205556999999995
   lng: 107.6006172
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [10]
-    weekendQuiet: [10, 11, 12, 13, 14, 15]
-    weekendBusy: [17, 18, 19, 20, 21, 22]
-    venueId: 'ven_675f48506d527a455a6577523443616d6a514a337454614a496843'
+    weekdayQuiet:
+      - 10
+    weekendQuiet:
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+    weekendBusy:
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+    venueId: ven_675f48506d527a455a6577523443616d6a514a337454614a496843
 tags:
-  - "bandung"
-  - "street food"
-quickAnswer: "Sudirman Street Day and Night Market (Jl. Sudirman No.107, Karanganyar, Astanaanyar) is a sprawling, very-popular food court in western Bandung mixing Chinese-Indonesian street snacks with halal stalls side by side. Go on a weekday around 5–7pm to beat the weekend crush, bring small cash, and graze rather than sit down for one big meal — the point is sampling several stalls. Budget an hour to 90 minutes and pair it with a walk down Jl. Sudirman's older shophouses beforehand."
+  - bandung
+  - street food
+quickAnswer: >-
+  Sudirman Street Day and Night Market (Jl. Sudirman No.107, Karanganyar,
+  Astanaanyar) is a sprawling, very-popular food court in western Bandung mixing
+  Chinese-Indonesian street snacks with halal stalls side by side. Go on a
+  weekday around 5–7pm to beat the weekend crush, bring small cash, and graze
+  rather than sit down for one big meal — the point is sampling several stalls.
+  Budget an hour to 90 minutes and pair it with a walk down Jl. Sudirman's older
+  shophouses beforehand.
 faq:
-  - q: "How do I get to Sudirman Street Day and Night Market?"
-    a: "It's on Jl. Sudirman No.107 in Astanaanyar, about 10–15 minutes by taxi or Gojek/Grab from Stasiun Bandung. There's no direct rail link, so ride-hailing apps are the easiest option."
-  - q: "How much does food cost there?"
-    a: "It's a budget-to-moderate street food spot (price level 2 of 4) — most items are inexpensive per stall, and the strategy is ordering several small dishes across different vendors rather than one large meal."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Weeknight early evenings, roughly 5–7pm, are calmer than Friday and Saturday nights, which draw the biggest crowds. The market runs day and night, but night is when most stalls are in full swing."
-  - q: "Is halal food available?"
-    a: "Yes, halal stalls operate alongside non-halal ones selling Chinese-Indonesian pork dishes. Ask at individual stalls or check posted signage if halal certification is important to you."
-  - q: "How long should I plan to spend there?"
-    a: "An hour to 90 minutes is enough to walk the row, sample a few stalls, and grab a drink — it's a graze-and-move market rather than a sit-down, multi-course dinner venue."
+  - q: How do I get to Sudirman Street Day and Night Market?
+    a: >-
+      It's on Jl. Sudirman No.107 in Astanaanyar, about 10–15 minutes by taxi or
+      Gojek/Grab from Stasiun Bandung. There's no direct rail link, so
+      ride-hailing apps are the easiest option.
+  - q: How much does food cost there?
+    a: >-
+      It's a budget-to-moderate street food spot (price level 2 of 4) — most
+      items are inexpensive per stall, and the strategy is ordering several
+      small dishes across different vendors rather than one large meal.
+  - q: What's the best time to visit to avoid crowds?
+    a: >-
+      Weeknight early evenings, roughly 5–7pm, are calmer than Friday and
+      Saturday nights, which draw the biggest crowds. The market runs day and
+      night, but night is when most stalls are in full swing.
+  - q: Is halal food available?
+    a: >-
+      Yes, halal stalls operate alongside non-halal ones selling
+      Chinese-Indonesian pork dishes. Ask at individual stalls or check posted
+      signage if halal certification is important to you.
+  - q: How long should I plan to spend there?
+    a: >-
+      An hour to 90 minutes is enough to walk the row, sample a few stalls, and
+      grab a drink — it's a graze-and-move market rather than a sit-down,
+      multi-course dinner venue.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

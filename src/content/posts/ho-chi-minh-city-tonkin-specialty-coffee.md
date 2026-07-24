@@ -1,50 +1,89 @@
 ---
-title: "Tonkin Specialty Coffee: Ho Chi Minh City Travel Guide"
-description: "Tonkin Specialty Coffee is a small, design-forward café at 91 Lý Tự Trọng in District 1's Bến Thành ward, a short walk from the Bến Thành Market roundabout."
-country: "Vietnam"
-region: "Ho Chi Minh City"
-category: "trendy"
-pubDate: "2026-07-22T09:36:08.889Z"
+title: 'Tonkin Specialty Coffee: Ho Chi Minh City Travel Guide'
+description: >-
+  Tonkin Specialty Coffee is a small, design-forward café at 91 Lý Tự Trọng in
+  District 1's Bến Thành ward, a short walk from the Bến Thành Market
+  roundabout.
+country: Vietnam
+region: Ho Chi Minh City
+category: trendy
+pubDate: '2026-07-22T09:36:08.889Z'
 heroImage:
-  url: "https://images.unsplash.com/photo-1748591633514-5a7524bc38c3?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SG8lMjBDaGklMjBNaW5oJTIwQ2l0eSUyMFZpZXRuYW0lMjB0cmVuZHklMjBjYWZlfGVufDB8MHx8fDE3ODQ3MTI4NzV8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Hanna Lazar on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@potokvarte?utm_source=korea_travel_guide&utm_medium=referral"
+  url: >-
+    https://images.unsplash.com/photo-1748591633514-5a7524bc38c3?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SG8lMjBDaGklMjBNaW5oJTIwQ2l0eSUyMFZpZXRuYW0lMjB0cmVuZHklMjBjYWZlfGVufDB8MHx8fDE3ODQ3MTI4NzV8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Hanna Lazar on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@potokvarte?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
-  id: "ChIJzaevQMcvdTERYE3UhLKg5NE"
-  name: "Tonkin Specialty Coffee"
-  address: "91 Lý Tự Trọng, Bến Thành, Hồ Chí Minh 700000, Vietnam"
+  id: ChIJzaevQMcvdTERYE3UhLKg5NE
+  name: Tonkin Specialty Coffee
+  address: '91 Lý Tự Trọng, Bến Thành, Hồ Chí Minh 700000, Vietnam'
   rating: 4.8
-  userRatingsTotal: 4558
+  userRatingsTotal: 4563
   priceLevel: 1
-  googleMapsUrl: "https://maps.google.com/?cid=15124390137210096992&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15124390137210096992&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 10.7743893
   lng: 106.6978901
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [8, 20, 21]
-    weekendQuiet: [8, 20, 21]
-    weekendBusy: [11, 12, 13, 14]
-    venueId: 'ven_454e35674b4c68553345595245546476634d517665617a4a496843'
+    weekdayQuiet:
+      - 8
+      - 20
+      - 21
+    weekendQuiet:
+      - 8
+      - 20
+      - 21
+    weekendBusy:
+      - 11
+      - 12
+      - 13
+      - 14
+    venueId: ven_454e35674b4c68553345595245546476634d517665617a4a496843
 tags:
-  - "ho chi minh city"
-  - "trendy cafe"
-quickAnswer: "Tonkin Specialty Coffee is a small, design-forward café at 91 Lý Tự Trọng in District 1's Bến Thành ward, a short walk from the Bến Thành Market roundabout. Go for pour-over and Vietnamese-style specialty coffee made from single-origin Vietnamese beans (think Da Lat, Cau Dat) rather than the usual condensed-milk street brew, budget 30-45 minutes, and expect to pay street-food-level prices for café-level craft. It's compact, so aim for a mid-morning weekday visit if you want a seat rather than a takeaway cup."
+  - ho chi minh city
+  - trendy cafe
+quickAnswer: >-
+  Tonkin Specialty Coffee is a small, design-forward café at 91 Lý Tự Trọng in
+  District 1's Bến Thành ward, a short walk from the Bến Thành Market
+  roundabout. Go for pour-over and Vietnamese-style specialty coffee made from
+  single-origin Vietnamese beans (think Da Lat, Cau Dat) rather than the usual
+  condensed-milk street brew, budget 30-45 minutes, and expect to pay
+  street-food-level prices for café-level craft. It's compact, so aim for a
+  mid-morning weekday visit if you want a seat rather than a takeaway cup.
 faq:
-  - q: "How do I get to Tonkin Specialty Coffee?"
-    a: "It's at 91 Lý Tự Trọng in District 1's Bến Thành ward, about a 5-7 minute walk from Bến Thành Market. Ride-hailing apps like Grab or a metered taxi are the easiest options from elsewhere in the city."
-  - q: "How much does coffee cost there?"
-    a: "The price level is budget-friendly for a specialty café — expect to pay noticeably less than specialty coffee prices in cities like Singapore or Tokyo, though exact menu prices should be confirmed on-site since they can change."
-  - q: "How long should I plan to stay?"
-    a: "30 to 45 minutes is typical for a sit-down cup, given the small seating area. If it's busy, a takeaway order is quick."
-  - q: "What should I order?"
-    a: "Try a single-origin pour-over made from Vietnamese highland beans (Da Lat or Cau Dat are common origins), or a phin-brewed specialty coffee if you want the classic Vietnamese format with higher-grade beans."
-  - q: "What's nearby if I want to make a morning of it?"
-    a: "Bến Thành Market is a short walk away, and the Bitexco Financial Tower and Saigon Notre-Dame Cathedral / Central Post Office are both within 10-15 minutes on foot."
+  - q: How do I get to Tonkin Specialty Coffee?
+    a: >-
+      It's at 91 Lý Tự Trọng in District 1's Bến Thành ward, about a 5-7 minute
+      walk from Bến Thành Market. Ride-hailing apps like Grab or a metered taxi
+      are the easiest options from elsewhere in the city.
+  - q: How much does coffee cost there?
+    a: >-
+      The price level is budget-friendly for a specialty café — expect to pay
+      noticeably less than specialty coffee prices in cities like Singapore or
+      Tokyo, though exact menu prices should be confirmed on-site since they can
+      change.
+  - q: How long should I plan to stay?
+    a: >-
+      30 to 45 minutes is typical for a sit-down cup, given the small seating
+      area. If it's busy, a takeaway order is quick.
+  - q: What should I order?
+    a: >-
+      Try a single-origin pour-over made from Vietnamese highland beans (Da Lat
+      or Cau Dat are common origins), or a phin-brewed specialty coffee if you
+      want the classic Vietnamese format with higher-grade beans.
+  - q: What's nearby if I want to make a morning of it?
+    a: >-
+      Bến Thành Market is a short walk away, and the Bitexco Financial Tower and
+      Saigon Notre-Dame Cathedral / Central Post Office are both within 10-15
+      minutes on foot.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

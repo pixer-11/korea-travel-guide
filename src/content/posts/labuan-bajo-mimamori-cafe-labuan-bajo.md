@@ -1,50 +1,91 @@
 ---
-title: "MIMAMORI CAFE: Labuan Bajo Travel Guide"
-description: "Mimamori Cafe is a laid-back coffee shop on Jl. Soekarno Hatta in Labuan Bajo, a short taxi or scooter ride from the harbor, worth a stop for a slow"
-country: "Indonesia"
-region: "Labuan Bajo"
-category: "trendy"
-pubDate: "2026-07-23T07:24:46.448Z"
+title: 'MIMAMORI CAFE: Labuan Bajo Travel Guide'
+description: >-
+  Mimamori Cafe is a laid-back coffee shop on Jl. Soekarno Hatta in Labuan Bajo,
+  a short taxi or scooter ride from the harbor, worth a stop for a slow
+country: Indonesia
+region: Labuan Bajo
+category: trendy
+pubDate: '2026-07-23T07:24:46.448Z'
 heroImage:
-  url: "https://images.unsplash.com/photo-1657788405193-c2039edaad6b?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8NHx8TGFidWFuJTIwQmFqbyUyMEluZG9uZXNpYXxlbnwwfDB8fHwxNzg0NzkxMDQwfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by dwi damarnesia on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@damarpilau_indonesia?utm_source=korea_travel_guide&utm_medium=referral"
+  url: >-
+    https://images.unsplash.com/photo-1657788405193-c2039edaad6b?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8NHx8TGFidWFuJTIwQmFqbyUyMEluZG9uZXNpYXxlbnwwfDB8fHwxNzg0NzkxMDQwfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by dwi damarnesia on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@damarpilau_indonesia?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
-  id: "ChIJb7aGlxdntC0R2DY0bQBMPAE"
-  name: "MIMAMORI CAFE LABUAN BAJO"
-  address: "Jl. Soekarno Hatta, Labuan Bajo, Kec. Komodo, Kabupaten Manggarai Barat, Nusa Tenggara Tim. 86754, Indonesia"
+  id: ChIJb7aGlxdntC0R2DY0bQBMPAE
+  name: MIMAMORI CAFE LABUAN BAJO
+  address: >-
+    Jl. Soekarno Hatta, Labuan Bajo, Kec. Komodo, Kabupaten Manggarai Barat,
+    Nusa Tenggara Tim. 86754, Indonesia
   rating: 4.8
-  userRatingsTotal: 856
-  googleMapsUrl: "https://maps.google.com/?cid=89029657356416728&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 857
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=89029657356416728&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -8.4931356
   lng: 119.8776747
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [21, 22]
-    weekdayBusy: [9]
-    weekendQuiet: [18, 19, 21, 22]
-    weekendBusy: [8, 9, 10, 11, 13, 15, 17]
-    venueId: 'ven_4541504d42516230594432523043746e64786c476137624a496843'
+    weekdayQuiet:
+      - 21
+      - 22
+    weekdayBusy:
+      - 9
+    weekendQuiet:
+      - 18
+      - 19
+      - 21
+      - 22
+    weekendBusy:
+      - 8
+      - 9
+      - 10
+      - 11
+      - 13
+      - 15
+      - 17
+    venueId: ven_4541504d42516230594432523043746e64786c476137624a496843
+  priceLevel: 2
 tags:
-  - "labuan bajo"
-  - "trendy cafe"
-quickAnswer: "Mimamori Cafe is a laid-back coffee shop on Jl. Soekarno Hatta in Labuan Bajo, a short taxi or scooter ride from the harbor, worth a stop for a slow breakfast, an espresso-based drink, and decent wifi before or after a Komodo boat trip. It rates 4.8 from 856 reviews, so arrive at an off-peak hour to snag a seat and enjoy it while it's still uncrowded."
+  - labuan bajo
+  - trendy cafe
+quickAnswer: >-
+  Mimamori Cafe is a laid-back coffee shop on Jl. Soekarno Hatta in Labuan Bajo,
+  a short taxi or scooter ride from the harbor, worth a stop for a slow
+  breakfast, an espresso-based drink, and decent wifi before or after a Komodo
+  boat trip. It rates 4.8 from 856 reviews, so arrive at an off-peak hour to
+  snag a seat and enjoy it while it's still uncrowded.
 faq:
-  - q: "How do I get to Mimamori Cafe from the harbor or airport?"
-    a: "It's on Jl. Soekarno Hatta, the main road linking the airport and harbor area — a 10–15 minute taxi, ojek, or scooter ride from most points in town."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Right at opening or during the 2–4pm lull, when most visitors are out on Komodo National Park boat trips or gathered at harbor sunset spots."
-  - q: "How long should I plan to stay?"
-    a: "About an hour for coffee and a light bite; up to two hours if you're working, waiting out midday heat, or having a full brunch."
-  - q: "Can I pay by card, or should I bring cash?"
-    a: "Card and QRIS mobile payments are increasingly common in Labuan Bajo cafes, but carry some rupiah cash as backup in case machines or connectivity are down."
-  - q: "Is it worth visiting before a Komodo National Park boat trip?"
-    a: "Yes — its location on the main road makes it a convenient breakfast or coffee stop before an early boat departure, or a calm spot to recharge afterward."
+  - q: How do I get to Mimamori Cafe from the harbor or airport?
+    a: >-
+      It's on Jl. Soekarno Hatta, the main road linking the airport and harbor
+      area — a 10–15 minute taxi, ojek, or scooter ride from most points in
+      town.
+  - q: What's the best time to visit to avoid crowds?
+    a: >-
+      Right at opening or during the 2–4pm lull, when most visitors are out on
+      Komodo National Park boat trips or gathered at harbor sunset spots.
+  - q: How long should I plan to stay?
+    a: >-
+      About an hour for coffee and a light bite; up to two hours if you're
+      working, waiting out midday heat, or having a full brunch.
+  - q: 'Can I pay by card, or should I bring cash?'
+    a: >-
+      Card and QRIS mobile payments are increasingly common in Labuan Bajo
+      cafes, but carry some rupiah cash as backup in case machines or
+      connectivity are down.
+  - q: Is it worth visiting before a Komodo National Park boat trip?
+    a: >-
+      Yes — its location on the main road makes it a convenient breakfast or
+      coffee stop before an early boat departure, or a calm spot to recharge
+      afterward.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

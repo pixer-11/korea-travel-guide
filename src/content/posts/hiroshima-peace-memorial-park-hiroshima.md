@@ -1,43 +1,68 @@
 ---
-title: "Peace Memorial Park: Hiroshima Travel Guide"
-description: "Peace Memorial Park sits on a triangular delta in central Hiroshima, a 15-minute tram ride from Hiroshima Station."
-country: "Japan"
-region: "Hiroshima"
-category: "attraction"
-pubDate: 2026-07-21
+title: 'Peace Memorial Park: Hiroshima Travel Guide'
+description: >-
+  Peace Memorial Park sits on a triangular delta in central Hiroshima, a
+  15-minute tram ride from Hiroshima Station.
+country: Japan
+region: Hiroshima
+category: attraction
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hiroshima_Peace_Memorial_Park%2C_20240817_1032_4210.jpg/1920px-Hiroshima_Peace_Memorial_Park%2C_20240817_1032_4210.jpg"
-  credit: "Photo: Jakub Hałun / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Hiroshima_Peace_Memorial_Park,_20240817_1032_4210.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hiroshima_Peace_Memorial_Park%2C_20240817_1032_4210.jpg/1920px-Hiroshima_Peace_Memorial_Park%2C_20240817_1032_4210.jpg
+  credit: 'Photo: Jakub Hałun / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Hiroshima_Peace_Memorial_Park,_20240817_1032_4210.jpg
 gallery: []
 place:
-  id: "ChIJgzAzVG2iWjURZRZ1udXOKeE"
-  name: "Peace Memorial Park - Hiroshima"
-  address: "1 Nakajimacho, Naka Ward, Hiroshima, 730-0811, Japan"
+  id: ChIJgzAzVG2iWjURZRZ1udXOKeE
+  name: Peace Memorial Park - Hiroshima
+  address: '1 Nakajimacho, Naka Ward, Hiroshima, 730-0811, Japan'
   rating: 4.7
-  userRatingsTotal: 30107
-  googleMapsUrl: "https://maps.google.com/?cid=16224726549913736805&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 30130
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16224726549913736805&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.3926867
   lng: 132.4522012
 tags:
-  - "hiroshima"
-  - "top attraction"
-quickAnswer: "Peace Memorial Park sits on a triangular delta in central Hiroshima, a 15-minute tram ride from Hiroshima Station. Plan 2–3 hours to walk the grounds, view the Atomic Bomb Dome across the river, and visit the Peace Memorial Museum; go early morning or late afternoon to avoid tour-group crowds and summer heat. Entry to the park itself is free and it's open year-round."
+  - hiroshima
+  - top attraction
+quickAnswer: >-
+  Peace Memorial Park sits on a triangular delta in central Hiroshima, a
+  15-minute tram ride from Hiroshima Station. Plan 2–3 hours to walk the
+  grounds, view the Atomic Bomb Dome across the river, and visit the Peace
+  Memorial Museum; go early morning or late afternoon to avoid tour-group crowds
+  and summer heat. Entry to the park itself is free and it's open year-round.
 faq:
-  - q: "How do I get to Peace Memorial Park from Hiroshima Station?"
-    a: "Take Hiroden tram Line 2 or 6 to the Genbaku Dome-mae stop (about 15–20 minutes), or walk roughly 20–25 minutes through the city center."
-  - q: "Is there an entrance fee for the park?"
-    a: "The park grounds and outdoor monuments are free to visit at any time. Only the Peace Memorial Museum charges a separate, modest admission fee, so confirm current pricing and hours before you go."
-  - q: "How much time should I set aside?"
-    a: "Plan 2–3 hours for the park's monuments, the Atomic Bomb Dome, and a walk-through, plus another 60–90 minutes if you're visiting the Peace Memorial Museum."
-  - q: "What's the best time of day or year to visit?"
-    a: "Early morning or late afternoon avoid tour-group crowds; spring brings cherry blossoms along the river, and August 6th is the crowded but significant anniversary of the bombing."
-  - q: "What else is nearby?"
-    a: "Shukkeien Garden and Hiroshima Castle are within a short walk or tram ride, and Miyajima Island is reachable by tram-ferry combo or direct ferry in under an hour."
+  - q: How do I get to Peace Memorial Park from Hiroshima Station?
+    a: >-
+      Take Hiroden tram Line 2 or 6 to the Genbaku Dome-mae stop (about 15–20
+      minutes), or walk roughly 20–25 minutes through the city center.
+  - q: Is there an entrance fee for the park?
+    a: >-
+      The park grounds and outdoor monuments are free to visit at any time. Only
+      the Peace Memorial Museum charges a separate, modest admission fee, so
+      confirm current pricing and hours before you go.
+  - q: How much time should I set aside?
+    a: >-
+      Plan 2–3 hours for the park's monuments, the Atomic Bomb Dome, and a
+      walk-through, plus another 60–90 minutes if you're visiting the Peace
+      Memorial Museum.
+  - q: What's the best time of day or year to visit?
+    a: >-
+      Early morning or late afternoon avoid tour-group crowds; spring brings
+      cherry blossoms along the river, and August 6th is the crowded but
+      significant anniversary of the bombing.
+  - q: What else is nearby?
+    a: >-
+      Shukkeien Garden and Hiroshima Castle are within a short walk or tram
+      ride, and Miyajima Island is reachable by tram-ferry combo or direct ferry
+      in under an hour.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

@@ -1,51 +1,94 @@
 ---
-title: "Cheaper & Better Street Food: Where to Eat in Bangkok"
-description: "Head to Soi Silom 20 (Silom Soi 20), a narrow lunchtime alley off Silom Road in Bang Rak, for a cluster of stalls including the highly rated \\\"Cheaper &"
-country: "Thailand"
-region: "Bangkok"
-category: "restaurant"
-pubDate: "2026-07-22T09:25:55.413Z"
+title: 'Cheaper & Better Street Food: Where to Eat in Bangkok'
+description: >-
+  Head to Soi Silom 20 (Silom Soi 20), a narrow lunchtime alley off Silom Road
+  in Bang Rak, for a cluster of stalls including the highly rated \"Cheaper &
+country: Thailand
+region: Bangkok
+category: restaurant
+pubDate: '2026-07-22T09:25:55.413Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Buddhist_offering_table_with_fruits_meat_rice_confectionery_flowers_and_candles_at_Bangkok_City_Pillar_Shrine_Thailand.jpg/1920px-Buddhist_offering_table_with_fruits_meat_rice_confectionery_flowers_and_candles_at_Bangkok_City_Pillar_Shrine_Thailand.jpg"
-  credit: "Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Buddhist_offering_table_with_fruits_meat_rice_confectionery_flowers_and_candles_at_Bangkok_City_Pillar_Shrine_Thailand.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Buddhist_offering_table_with_fruits_meat_rice_confectionery_flowers_and_candles_at_Bangkok_City_Pillar_Shrine_Thailand.jpg/1920px-Buddhist_offering_table_with_fruits_meat_rice_confectionery_flowers_and_candles_at_Bangkok_City_Pillar_Shrine_Thailand.jpg
+  credit: 'Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Buddhist_offering_table_with_fruits_meat_rice_confectionery_flowers_and_candles_at_Bangkok_City_Pillar_Shrine_Thailand.jpg
 gallery: []
 place:
-  id: "ChIJLWlCk9GY4jARpNGpRcq5ABY"
-  name: "Cheaper & Better Street Food"
-  address: "57, 89 Soi Silom 20, Khwaeng Suriya Wong, Khet Bang Rak, Krung Thep Maha Nakhon 10500, Thailand"
+  id: ChIJLWlCk9GY4jARpNGpRcq5ABY
+  name: Cheaper & Better Street Food
+  address: >-
+    57, 89 Soi Silom 20, Khwaeng Suriya Wong, Khet Bang Rak, Krung Thep Maha
+    Nakhon 10500, Thailand
   rating: 4.7
-  userRatingsTotal: 1614
+  userRatingsTotal: 1617
   priceLevel: 1
-  googleMapsUrl: "https://maps.google.com/?cid=1585471347237704100&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1585471347237704100&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 13.725069999999999
   lng: 100.52293379999999
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [14, 15, 16, 17]
-    weekdayBusy: [19, 20, 21]
-    weekendQuiet: [12, 13, 14, 15, 16]
-    weekendBusy: [19, 20, 21, 22]
-    venueId: 'ven_5942413571635270474e7052416a345947396b436c574c4a496843'
+    weekdayQuiet:
+      - 14
+      - 15
+      - 16
+      - 17
+    weekdayBusy:
+      - 19
+      - 20
+      - 21
+    weekendQuiet:
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+    weekendBusy:
+      - 19
+      - 20
+      - 21
+      - 22
+    venueId: ven_5942413571635270474e7052416a345947396b436c574c4a496843
 tags:
-  - "bangkok"
-  - "street food"
-quickAnswer: "Head to Soi Silom 20 (Silom Soi 20), a narrow lunchtime alley off Silom Road in Bang Rak, for a cluster of stalls including the highly rated \"Cheaper & Better Street Food\" spot — expect plastic stools, one-plate meals under 100 baht, and a mostly local office-worker crowd. Go between 11am and 1:30pm on a weekday, when the soi is at its busiest and freshest, and bring small bills. Nearest access is Sala Daeng BTS or Silom MRT, about a 5-8 minute walk."
+  - bangkok
+  - street food
+quickAnswer: >-
+  Head to Soi Silom 20 (Silom Soi 20), a narrow lunchtime alley off Silom Road
+  in Bang Rak, for a cluster of stalls including the highly rated "Cheaper &
+  Better Street Food" spot — expect plastic stools, one-plate meals under 100
+  baht, and a mostly local office-worker crowd. Go between 11am and 1:30pm on a
+  weekday, when the soi is at its busiest and freshest, and bring small bills.
+  Nearest access is Sala Daeng BTS or Silom MRT, about a 5-8 minute walk.
 faq:
-  - q: "How do I get to Soi Silom 20?"
-    a: "Take the BTS to Sala Daeng station or the MRT to Silom station (they connect via a walkway), then walk south on Silom Road about 5-8 minutes to the soi entrance."
-  - q: "How much does a meal cost?"
-    a: "Expect roughly 40-80 baht per dish at most stalls, consistent with the area's budget, no-frills street food scene — confirm current prices on-site since they shift with ingredient costs."
-  - q: "What's the best time to visit?"
-    a: "Weekday lunch, roughly 11:00am to 1:30pm, when nearby offices break and stalls are at peak output; many pack up by mid-afternoon."
-  - q: "How long should I plan to spend there?"
-    a: "30-45 minutes is enough for a meal; it's a fast, functional lunch stop rather than a leisurely sit-down experience."
-  - q: "What else is nearby?"
-    a: "Patpong night market is a short walk north, and Lumphini Park is about 10-15 minutes on foot to the east, making this an easy add-on to a Silom-area itinerary."
+  - q: How do I get to Soi Silom 20?
+    a: >-
+      Take the BTS to Sala Daeng station or the MRT to Silom station (they
+      connect via a walkway), then walk south on Silom Road about 5-8 minutes to
+      the soi entrance.
+  - q: How much does a meal cost?
+    a: >-
+      Expect roughly 40-80 baht per dish at most stalls, consistent with the
+      area's budget, no-frills street food scene — confirm current prices
+      on-site since they shift with ingredient costs.
+  - q: What's the best time to visit?
+    a: >-
+      Weekday lunch, roughly 11:00am to 1:30pm, when nearby offices break and
+      stalls are at peak output; many pack up by mid-afternoon.
+  - q: How long should I plan to spend there?
+    a: >-
+      30-45 minutes is enough for a meal; it's a fast, functional lunch stop
+      rather than a leisurely sit-down experience.
+  - q: What else is nearby?
+    a: >-
+      Patpong night market is a short walk north, and Lumphini Park is about
+      10-15 minutes on foot to the east, making this an easy add-on to a
+      Silom-area itinerary.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

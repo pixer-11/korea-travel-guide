@@ -1,43 +1,76 @@
 ---
-title: "GYUMON: Where to Eat in Hiroshima"
-description: "GYUMON Hiroshima is a highly-rated yakiniku (grilled beef) restaurant on the 4th floor of the HM Hondori Kaikan building in Naka Ward's Hondori shopping"
-country: "Japan"
-region: "Hiroshima"
-category: "restaurant"
-pubDate: 2026-07-21
+title: 'GYUMON: Where to Eat in Hiroshima'
+description: >-
+  GYUMON Hiroshima is a highly-rated yakiniku (grilled beef) restaurant on the
+  4th floor of the HM Hondori Kaikan building in Naka Ward's Hondori shopping
+country: Japan
+region: Hiroshima
+category: restaurant
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/A_traditional_local_restaurant_just_outside_the_ferry_terminal_in_Hiroshima_%2849494979453%29.jpg/1920px-A_traditional_local_restaurant_just_outside_the_ferry_terminal_in_Hiroshima_%2849494979453%29.jpg"
-  credit: "Photo: shankar s. from Poona (pune), India, India / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:A_traditional_local_restaurant_just_outside_the_ferry_terminal_in_Hiroshima_(49494979453).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/A_traditional_local_restaurant_just_outside_the_ferry_terminal_in_Hiroshima_%2849494979453%29.jpg/1920px-A_traditional_local_restaurant_just_outside_the_ferry_terminal_in_Hiroshima_%2849494979453%29.jpg
+  credit: >-
+    Photo: shankar s. from Poona (pune), India, India / Wikimedia Commons (CC BY
+    2.0)
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:A_traditional_local_restaurant_just_outside_the_ferry_terminal_in_Hiroshima_(49494979453).jpg
 gallery: []
 place:
-  id: "ChIJAcVRZaijWjURHDDNymc2Vpo"
-  name: "GYUMON Hiroshima"
-  address: "Japan, 〒730-0035 Hiroshima, Naka Ward, Hondōri, 8−１８ ＨＭ本通会館 ４階"
+  id: ChIJAcVRZaijWjURHDDNymc2Vpo
+  name: GYUMON Hiroshima
+  address: 'Japan, 〒730-0035 Hiroshima, Naka Ward, Hondōri, 8−１８ ＨＭ本通会館 ４階'
   rating: 4.9
-  userRatingsTotal: 1206
-  googleMapsUrl: "https://maps.google.com/?cid=11121136149249994780&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1223
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11121136149249994780&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.3927896
   lng: 132.4586272
+  priceLevel: 2
 tags:
-  - "hiroshima"
-  - "local restaurant"
-quickAnswer: "GYUMON Hiroshima is a highly-rated yakiniku (grilled beef) restaurant on the 4th floor of the HM Hondori Kaikan building in Naka Ward's Hondori shopping arcade, a few minutes' walk from Hondori Station on the Astram Line and the Hiroshima Electric Railway (streetcar) stops around Chuden-mae/Kamiyacho. Expect to grill premium Japanese wagyu and Kuroge Wagyu cuts tableside, so budget 1.5–2 hours and reserve ahead given its 4.9-star, 1,200+ review reputation. Go for dinner, since yakiniku restaurants in this price bracket typically shine as an evening course-meal experience rather than a quick lunch stop."
+  - hiroshima
+  - local restaurant
+quickAnswer: >-
+  GYUMON Hiroshima is a highly-rated yakiniku (grilled beef) restaurant on the
+  4th floor of the HM Hondori Kaikan building in Naka Ward's Hondori shopping
+  arcade, a few minutes' walk from Hondori Station on the Astram Line and the
+  Hiroshima Electric Railway (streetcar) stops around Chuden-mae/Kamiyacho.
+  Expect to grill premium Japanese wagyu and Kuroge Wagyu cuts tableside, so
+  budget 1.5–2 hours and reserve ahead given its 4.9-star, 1,200+ review
+  reputation. Go for dinner, since yakiniku restaurants in this price bracket
+  typically shine as an evening course-meal experience rather than a quick lunch
+  stop.
 faq:
-  - q: "How do I get to GYUMON Hiroshima?"
-    a: "Take the Astram Line to Hondori Station, which opens directly onto the Hondori arcade, or ride the Hiroshima Electric Railway streetcar to Kamiyacho-nishi or Kamiyacho-higashi and walk about 5–8 minutes. The restaurant is on the 4th floor of the HM Hondori Kaikan building."
-  - q: "Do I need a reservation?"
-    a: "Given its 4.9 rating from over 1,200 reviews, GYUMON is popular, so booking ahead is strongly recommended, especially for dinner on weekends or holiday periods like Golden Week or Obon."
-  - q: "How much does a meal cost?"
-    a: "Prices vary with wagyu market rates and course selection, so it's best to confirm current menu and course pricing directly with the restaurant before visiting rather than relying on old listings."
-  - q: "How long should I plan to stay?"
-    a: "Budget 1.5 to 2 hours for a full course-style yakiniku meal, since cuts are grilled and served in sequence rather than all at once."
-  - q: "What's nearby if I want to combine this with sightseeing?"
-    a: "The Atomic Bomb Dome and Hiroshima Peace Memorial Park are roughly a 15–20 minute walk or short streetcar ride away, making GYUMON a convenient dinner after visiting those sites."
+  - q: How do I get to GYUMON Hiroshima?
+    a: >-
+      Take the Astram Line to Hondori Station, which opens directly onto the
+      Hondori arcade, or ride the Hiroshima Electric Railway streetcar to
+      Kamiyacho-nishi or Kamiyacho-higashi and walk about 5–8 minutes. The
+      restaurant is on the 4th floor of the HM Hondori Kaikan building.
+  - q: Do I need a reservation?
+    a: >-
+      Given its 4.9 rating from over 1,200 reviews, GYUMON is popular, so
+      booking ahead is strongly recommended, especially for dinner on weekends
+      or holiday periods like Golden Week or Obon.
+  - q: How much does a meal cost?
+    a: >-
+      Prices vary with wagyu market rates and course selection, so it's best to
+      confirm current menu and course pricing directly with the restaurant
+      before visiting rather than relying on old listings.
+  - q: How long should I plan to stay?
+    a: >-
+      Budget 1.5 to 2 hours for a full course-style yakiniku meal, since cuts
+      are grilled and served in sequence rather than all at once.
+  - q: What's nearby if I want to combine this with sightseeing?
+    a: >-
+      The Atomic Bomb Dome and Hiroshima Peace Memorial Park are roughly a 15–20
+      minute walk or short streetcar ride away, making GYUMON a convenient
+      dinner after visiting those sites.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

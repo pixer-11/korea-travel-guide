@@ -1,50 +1,95 @@
 ---
-title: "Hidden Gem Cafe: Hanoi Travel Guide"
-description: "Hidden Gem Cafe sits at 1 Hàng Mắm in Hanoi's Old Quarter, a short walk southeast of Hoàn Kiếm Lake near the Long Biên Bridge approach."
-country: "Vietnam"
-region: "Hanoi"
-category: "hidden-gem"
-pubDate: "2026-07-22T09:34:33.925Z"
+title: 'Hidden Gem Cafe: Hanoi Travel Guide'
+description: >-
+  Hidden Gem Cafe sits at 1 Hàng Mắm in Hanoi's Old Quarter, a short walk
+  southeast of Hoàn Kiếm Lake near the Long Biên Bridge approach.
+country: Vietnam
+region: Hanoi
+category: hidden-gem
+pubDate: '2026-07-22T09:34:33.925Z'
 heroImage:
-  url: "https://images.unsplash.com/photo-1712432144397-aa3da9dede31?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SGFub2klMjBWaWV0bmFtJTIwaGlkZGVuJTIwZ2VtfGVufDB8MHx8fDE3ODQ3MTI3ODJ8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by BehindTheTmuna on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@behindthetmuna?utm_source=korea_travel_guide&utm_medium=referral"
+  url: >-
+    https://images.unsplash.com/photo-1712432144397-aa3da9dede31?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SGFub2klMjBWaWV0bmFtJTIwaGlkZGVuJTIwZ2VtfGVufDB8MHx8fDE3ODQ3MTI3ODJ8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by BehindTheTmuna on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@behindthetmuna?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
-  id: "ChIJjcSe2iKrNTERdmx-UM8RZIw"
-  name: "Hidden Gem Cafe Hanoi"
-  address: "1 Hàng Mắm, Phố cổ Hà Nội, Hoàn Kiếm, Hà Nội 10000, Vietnam"
+  id: ChIJjcSe2iKrNTERdmx-UM8RZIw
+  name: Hidden Gem Cafe Hanoi
+  address: '1 Hàng Mắm, Phố cổ Hà Nội, Hoàn Kiếm, Hà Nội 10000, Vietnam'
   rating: 4.8
-  userRatingsTotal: 4352
-  googleMapsUrl: "https://maps.google.com/?cid=10116230245087341686&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 4358
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10116230245087341686&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 21.033744600000002
   lng: 105.8551911
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [7, 8, 9, 22]
-    weekdayBusy: [11, 12, 13]
-    weekendQuiet: [7, 8, 22]
-    weekendBusy: [11, 12, 13, 14, 15, 19, 20]
-    venueId: 'ven_77495a52384d552d786d645245544e724b69326553636a4a496843'
+    weekdayQuiet:
+      - 7
+      - 8
+      - 9
+      - 22
+    weekdayBusy:
+      - 11
+      - 12
+      - 13
+    weekendQuiet:
+      - 7
+      - 8
+      - 22
+    weekendBusy:
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 19
+      - 20
+    venueId: ven_77495a52384d552d786d645245544e724b69326553636a4a496843
+  priceLevel: 1
 tags:
-  - "hanoi"
-  - "hidden gem"
-quickAnswer: "Hidden Gem Cafe sits at 1 Hàng Mắm in Hanoi's Old Quarter, a short walk southeast of Hoàn Kiếm Lake near the Long Biên Bridge approach. Go for the multi-level rooftop seating, egg coffee and lotus tea, and views over a quiet corner of the Old Quarter's tube-house rooftops — plan for 45–90 minutes, ideally mid-morning or just before sunset. It's popular (4.8 stars, 4,300+ reviews), so weekend afternoons can mean a wait for the best rooftop tables."
+  - hanoi
+  - hidden gem
+quickAnswer: >-
+  Hidden Gem Cafe sits at 1 Hàng Mắm in Hanoi's Old Quarter, a short walk
+  southeast of Hoàn Kiếm Lake near the Long Biên Bridge approach. Go for the
+  multi-level rooftop seating, egg coffee and lotus tea, and views over a quiet
+  corner of the Old Quarter's tube-house rooftops — plan for 45–90 minutes,
+  ideally mid-morning or just before sunset. It's popular (4.8 stars, 4,300+
+  reviews), so weekend afternoons can mean a wait for the best rooftop tables.
 faq:
-  - q: "How do I get to Hidden Gem Cafe Hanoi?"
-    a: "It's at 1 Hàng Mắm in the Old Quarter, a 5–7 minute walk southeast of Hoàn Kiếm Lake. There's no metro station nearby yet, so walking, Grab, or a short taxi from anywhere in the Old Quarter is the way to go."
-  - q: "How much time should I plan for a visit?"
-    a: "45 to 90 minutes is typical — enough to climb through the multiple floors, find a rooftop seat, and enjoy a slow egg coffee or lotus tea while taking in the view."
-  - q: "What's the best time of day to visit?"
-    a: "Mid-morning (around 9–11am) or an hour before sunset offer the best light for photos and smaller crowds; weekend afternoons tend to be busiest for rooftop seating."
-  - q: "What should I order?"
-    a: "Cà phê trứng (Hanoi egg coffee) is the signature order, alongside cà phê sữa đá (iced milk coffee) and lotus tea — all standard specialties across Hanoi's Old Quarter cafés."
-  - q: "What else is nearby?"
-    a: "Hoàn Kiếm Lake, Ngọc Sơn Temple, and the shops of Hàng Bạc and Mã Mây streets are all within a few minutes' walk, making it easy to fold into a broader Old Quarter walking route."
+  - q: How do I get to Hidden Gem Cafe Hanoi?
+    a: >-
+      It's at 1 Hàng Mắm in the Old Quarter, a 5–7 minute walk southeast of Hoàn
+      Kiếm Lake. There's no metro station nearby yet, so walking, Grab, or a
+      short taxi from anywhere in the Old Quarter is the way to go.
+  - q: How much time should I plan for a visit?
+    a: >-
+      45 to 90 minutes is typical — enough to climb through the multiple floors,
+      find a rooftop seat, and enjoy a slow egg coffee or lotus tea while taking
+      in the view.
+  - q: What's the best time of day to visit?
+    a: >-
+      Mid-morning (around 9–11am) or an hour before sunset offer the best light
+      for photos and smaller crowds; weekend afternoons tend to be busiest for
+      rooftop seating.
+  - q: What should I order?
+    a: >-
+      Cà phê trứng (Hanoi egg coffee) is the signature order, alongside cà phê
+      sữa đá (iced milk coffee) and lotus tea — all standard specialties across
+      Hanoi's Old Quarter cafés.
+  - q: What else is nearby?
+    a: >-
+      Hoàn Kiếm Lake, Ngọc Sơn Temple, and the shops of Hàng Bạc and Mã Mây
+      streets are all within a few minutes' walk, making it easy to fold into a
+      broader Old Quarter walking route.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

@@ -1,50 +1,95 @@
 ---
-title: "Itsukushima Jinja: Hiroshima Travel Guide"
-description: "Itsukushima Jinja sits on Miyajima island in Hiroshima Bay, reachable by JR ferry from Miyajimaguchi Station, and is famous for its vermilion torii gate that"
-country: "Japan"
-region: "Hiroshima"
-category: "attraction"
-pubDate: 2026-07-21
+title: 'Itsukushima Jinja: Hiroshima Travel Guide'
+description: >-
+  Itsukushima Jinja sits on Miyajima island in Hiroshima Bay, reachable by JR
+  ferry from Miyajimaguchi Station, and is famous for its vermilion torii gate
+  that
+country: Japan
+region: Hiroshima
+category: attraction
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Itsukushima_Gate.jpg/1920px-Itsukushima_Gate.jpg"
-  credit: "Photo: JordyMeow / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Itsukushima_Gate.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Itsukushima_Gate.jpg/1920px-Itsukushima_Gate.jpg
+  credit: 'Photo: JordyMeow / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Itsukushima_Gate.jpg'
 gallery: []
 place:
-  id: "ChIJj23HfgTjGmARkNW10PcocjU"
-  name: "Itsukushima Jinja"
-  address: "1-1 Miyajimachō, Hatsukaichi, Hiroshima 739-0588, Japan"
+  id: ChIJj23HfgTjGmARkNW10PcocjU
+  name: Itsukushima Jinja
+  address: '1-1 Miyajimachō, Hatsukaichi, Hiroshima 739-0588, Japan'
   rating: 4.6
-  userRatingsTotal: 35964
-  googleMapsUrl: "https://maps.google.com/?cid=3851185676178806160&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 35993
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3851185676178806160&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.295989600000006
   lng: 132.3198285
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [7, 8, 17, 18]
-    weekdayBusy: [11, 12, 13, 14]
-    weekendQuiet: [7, 8, 17, 18]
-    weekendBusy: [10, 11, 12, 13, 14, 15]
-    venueId: 'ven_556a636f63503031574e6b52416d476a5467664833326a4a496843'
+    weekdayQuiet:
+      - 7
+      - 8
+      - 17
+      - 18
+    weekdayBusy:
+      - 11
+      - 12
+      - 13
+      - 14
+    weekendQuiet:
+      - 7
+      - 8
+      - 17
+      - 18
+    weekendBusy:
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+    venueId: ven_556a636f63503031574e6b52416d476a5467664833326a4a496843
 tags:
-  - "hiroshima"
-  - "Itsukushima Shrine"
-quickAnswer: "Itsukushima Jinja sits on Miyajima island in Hiroshima Bay, reachable by JR ferry from Miyajimaguchi Station, and is famous for its vermilion torii gate that appears to float at high tide. Aim for a half-day trip: check tide tables so you see the gate flooded (high tide) or walkable-to (low tide), and arrive early morning before the day-trip crowds land. Combine it with Mt. Misen ropeway and the deer-filled waterfront for a full Miyajima day."
+  - hiroshima
+  - Itsukushima Shrine
+quickAnswer: >-
+  Itsukushima Jinja sits on Miyajima island in Hiroshima Bay, reachable by JR
+  ferry from Miyajimaguchi Station, and is famous for its vermilion torii gate
+  that appears to float at high tide. Aim for a half-day trip: check tide tables
+  so you see the gate flooded (high tide) or walkable-to (low tide), and arrive
+  early morning before the day-trip crowds land. Combine it with Mt. Misen
+  ropeway and the deer-filled waterfront for a full Miyajima day.
 faq:
-  - q: "How do I get to Itsukushima Jinja from Hiroshima?"
-    a: "Take the JR Sanyo Line from Hiroshima Station to Miyajimaguchi (about 25 minutes), then a 10-minute ferry (JR or Matsudai Kisen line) to Miyajima island, followed by a 10-12 minute walk to the shrine."
-  - q: "Is it better to visit at high tide or low tide?"
-    a: "Both offer different experiences: high tide makes the torii gate appear to float on the water, while low tide lets you walk across the sand flats to stand at its base. Check a tide chart in advance to plan which you want to see."
-  - q: "How much time should I budget for a visit?"
-    a: "Plan on 45 minutes to an hour for the shrine itself, and a half to full day if combining it with Mt. Misen ropeway, Momijidani Park, and the food stalls on the approach street."
-  - q: "Is there an entry fee?"
-    a: "Walking around the island and viewing the exterior is free, but there is typically a small admission fee to enter the shrine's inner walkways; check current pricing at the entrance or official sources before visiting."
-  - q: "What food should I try on Miyajima?"
-    a: "Look for grilled conger eel (anagomeshi), fresh oysters, and momiji manju cakes, all sold along the Omotesando approach street near the shrine."
+  - q: How do I get to Itsukushima Jinja from Hiroshima?
+    a: >-
+      Take the JR Sanyo Line from Hiroshima Station to Miyajimaguchi (about 25
+      minutes), then a 10-minute ferry (JR or Matsudai Kisen line) to Miyajima
+      island, followed by a 10-12 minute walk to the shrine.
+  - q: Is it better to visit at high tide or low tide?
+    a: >-
+      Both offer different experiences: high tide makes the torii gate appear to
+      float on the water, while low tide lets you walk across the sand flats to
+      stand at its base. Check a tide chart in advance to plan which you want to
+      see.
+  - q: How much time should I budget for a visit?
+    a: >-
+      Plan on 45 minutes to an hour for the shrine itself, and a half to full
+      day if combining it with Mt. Misen ropeway, Momijidani Park, and the food
+      stalls on the approach street.
+  - q: Is there an entry fee?
+    a: >-
+      Walking around the island and viewing the exterior is free, but there is
+      typically a small admission fee to enter the shrine's inner walkways;
+      check current pricing at the entrance or official sources before visiting.
+  - q: What food should I try on Miyajima?
+    a: >-
+      Look for grilled conger eel (anagomeshi), fresh oysters, and momiji manju
+      cakes, all sold along the Omotesando approach street near the shrine.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

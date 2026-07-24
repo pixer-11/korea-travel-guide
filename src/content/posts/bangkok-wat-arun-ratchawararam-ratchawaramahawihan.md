@@ -1,49 +1,92 @@
 ---
-title: "Wat Arun Ratchawararam Ratchawaramahawihan: Bangkok Travel Guide"
-description: "Wat Arun (\\\"Temple of Dawn\\\") sits on the Thonburi bank of the Chao Phraya River, best reached by cross-river ferry from Tha Tien pier near the Grand Palace."
-country: "Thailand"
-region: "Bangkok"
-category: "attraction"
-pubDate: "2026-07-22T09:06:23.604Z"
+title: 'Wat Arun Ratchawararam Ratchawaramahawihan: Bangkok Travel Guide'
+description: >-
+  Wat Arun (\"Temple of Dawn\") sits on the Thonburi bank of the Chao Phraya
+  River, best reached by cross-river ferry from Tha Tien pier near the Grand
+  Palace.
+country: Thailand
+region: Bangkok
+category: attraction
+pubDate: '2026-07-22T09:06:23.604Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Templo_Wat_Arun%2C_Bangkok%2C_Tailandia%2C_2013-08-22%2C_DD_30.jpg/1920px-Templo_Wat_Arun%2C_Bangkok%2C_Tailandia%2C_2013-08-22%2C_DD_30.jpg"
-  credit: "Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Templo_Wat_Arun,_Bangkok,_Tailandia,_2013-08-22,_DD_30.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Templo_Wat_Arun%2C_Bangkok%2C_Tailandia%2C_2013-08-22%2C_DD_30.jpg/1920px-Templo_Wat_Arun%2C_Bangkok%2C_Tailandia%2C_2013-08-22%2C_DD_30.jpg
+  credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Templo_Wat_Arun,_Bangkok,_Tailandia,_2013-08-22,_DD_30.jpg
 gallery: []
 place:
-  id: "ChIJaSv_6gaZ4jARnbiUVn6Z_YY"
-  name: "Wat Arun Ratchawararam Ratchawaramahawihan"
-  address: "158 Thanon Wang Doem, Khwaeng Wat Arun, Khet Bangkok Yai, Krung Thep Maha Nakhon 10600, Thailand"
+  id: ChIJaSv_6gaZ4jARnbiUVn6Z_YY
+  name: Wat Arun Ratchawararam Ratchawaramahawihan
+  address: >-
+    158 Thanon Wang Doem, Khwaeng Wat Arun, Khet Bangkok Yai, Krung Thep Maha
+    Nakhon 10600, Thailand
   rating: 4.7
-  userRatingsTotal: 44819
-  googleMapsUrl: "https://maps.google.com/?cid=9727099538087655581&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 44818
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9727099538087655581&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 13.743865200000002
   lng: 100.488444
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [8, 9, 18]
-    weekendQuiet: [8, 9, 18]
-    weekendBusy: [11, 12, 13, 14, 15, 16]
-    venueId: 'ven_59595f5a366e565569626e52416a345a6167365f7653614a496843'
+    weekdayQuiet:
+      - 8
+      - 9
+      - 18
+    weekendQuiet:
+      - 8
+      - 9
+      - 18
+    weekendBusy:
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+    venueId: ven_59595f5a366e565569626e52416a345a6167365f7653614a496843
 tags:
-  - "bangkok"
-  - "Wat Arun"
-quickAnswer: "Wat Arun (\"Temple of Dawn\") sits on the Thonburi bank of the Chao Phraya River, best reached by cross-river ferry from Tha Tien pier near the Grand Palace. Plan on 60-90 minutes to climb the central prang, admire the porcelain-and-seashell mosaics, and photograph the classic river view — go in late afternoon for softer light or just before closing for silhouette shots, and confirm current admission and boat schedules before you go, since both change periodically."
+  - bangkok
+  - Wat Arun
+quickAnswer: >-
+  Wat Arun ("Temple of Dawn") sits on the Thonburi bank of the Chao Phraya
+  River, best reached by cross-river ferry from Tha Tien pier near the Grand
+  Palace. Plan on 60-90 minutes to climb the central prang, admire the
+  porcelain-and-seashell mosaics, and photograph the classic river view — go in
+  late afternoon for softer light or just before closing for silhouette shots,
+  and confirm current admission and boat schedules before you go, since both
+  change periodically.
 faq:
-  - q: "How do I get to Wat Arun from central Bangkok?"
-    a: "Take the BTS to Saphan Taksin, ride a Chao Phraya Express Boat north to Tha Tien pier, then cross the river on the short cross-river ferry. A taxi or Grab direct to the temple's own riverside entrance also works."
-  - q: "How much time should I plan for a visit?"
-    a: "Most visitors spend 60-90 minutes: climbing the central prang's terraces, viewing the mosaics up close, and visiting the ordination hall with its Buddha image and murals."
-  - q: "Is it worth combining with other sights?"
-    a: "Yes — Wat Pho and the Grand Palace sit a short walk apart on the opposite riverbank, so many visitors do all three in one morning using the Tha Tien pier as a hub."
-  - q: "What's the best time of day to visit?"
-    a: "Early morning for cooler temperatures and fewer crowds, or late afternoon for warm light on the mosaics; sunset views of the illuminated prang are best seen from across the river at Tha Tien."
-  - q: "Is there a dress code?"
-    a: "Yes, shoulders and knees must be covered, standard for active Buddhist temples in Thailand; sarongs are typically available to borrow or rent near the entrance if you arrive underdressed."
+  - q: How do I get to Wat Arun from central Bangkok?
+    a: >-
+      Take the BTS to Saphan Taksin, ride a Chao Phraya Express Boat north to
+      Tha Tien pier, then cross the river on the short cross-river ferry. A taxi
+      or Grab direct to the temple's own riverside entrance also works.
+  - q: How much time should I plan for a visit?
+    a: >-
+      Most visitors spend 60-90 minutes: climbing the central prang's terraces,
+      viewing the mosaics up close, and visiting the ordination hall with its
+      Buddha image and murals.
+  - q: Is it worth combining with other sights?
+    a: >-
+      Yes — Wat Pho and the Grand Palace sit a short walk apart on the opposite
+      riverbank, so many visitors do all three in one morning using the Tha Tien
+      pier as a hub.
+  - q: What's the best time of day to visit?
+    a: >-
+      Early morning for cooler temperatures and fewer crowds, or late afternoon
+      for warm light on the mosaics; sunset views of the illuminated prang are
+      best seen from across the river at Tha Tien.
+  - q: Is there a dress code?
+    a: >-
+      Yes, shoulders and knees must be covered, standard for active Buddhist
+      temples in Thailand; sarongs are typically available to borrow or rent
+      near the entrance if you arrive underdressed.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

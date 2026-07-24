@@ -1,50 +1,93 @@
 ---
-title: "SEA LIFE Bangkok Ocean World: Travel Guide"
-description: "SEA LIFE Bangkok Ocean World sits in the basement (B1-B2) of Siam Paragon mall, right above BTS Siam station, making it one of the easiest major attractions"
-country: "Thailand"
-region: "Bangkok"
-category: "attraction"
-pubDate: "2026-07-22T09:20:01.986Z"
+title: 'SEA LIFE Bangkok Ocean World: Travel Guide'
+description: >-
+  SEA LIFE Bangkok Ocean World sits in the basement (B1-B2) of Siam Paragon
+  mall, right above BTS Siam station, making it one of the easiest major
+  attractions
+country: Thailand
+region: Bangkok
+category: attraction
+pubDate: '2026-07-22T09:20:01.986Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/SEA_LIFE_Bangkok_Ocean_World_in_2018_%28217%29.jpg/1920px-SEA_LIFE_Bangkok_Ocean_World_in_2018_%28217%29.jpg"
-  credit: "Photo: กสิณธร ราชโอรส / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:SEA_LIFE_Bangkok_Ocean_World_in_2018_(217).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/SEA_LIFE_Bangkok_Ocean_World_in_2018_%28217%29.jpg/1920px-SEA_LIFE_Bangkok_Ocean_World_in_2018_%28217%29.jpg
+  credit: 'Photo: กสิณธร ราชโอรส / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:SEA_LIFE_Bangkok_Ocean_World_in_2018_(217).jpg
 gallery: []
 place:
-  id: "ChIJH4I85c2e4jARUMYLeiqfBd0"
-  name: "SEA LIFE Bangkok Ocean World"
-  address: "ชั้น บี1-บี2 สยามพารากอน 991 Rama I Rd, Khwaeng Pathum Wan, Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand"
+  id: ChIJH4I85c2e4jARUMYLeiqfBd0
+  name: SEA LIFE Bangkok Ocean World
+  address: >-
+    ชั้น บี1-บี2 สยามพารากอน 991 Rama I Rd, Khwaeng Pathum Wan, Pathum Wan,
+    Krung Thep Maha Nakhon 10330, Thailand
   rating: 4.5
-  userRatingsTotal: 30075
-  googleMapsUrl: "https://maps.google.com/?cid=15926310662050661968&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 30099
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15926310662050661968&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 13.7459351
   lng: 100.53520569999999
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [10, 11, 12, 20]
-    weekdayBusy: [18]
-    weekendQuiet: [10, 11, 20]
-    weekendBusy: [14, 15, 16, 17, 18, 19]
-    venueId: 'ven_306442667169654c594d5552416a3465326335384934484a496843'
+    weekdayQuiet:
+      - 10
+      - 11
+      - 12
+      - 20
+    weekdayBusy:
+      - 18
+    weekendQuiet:
+      - 10
+      - 11
+      - 20
+    weekendBusy:
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+    venueId: ven_306442667169654c594d5552416a3465326335384934484a496843
 tags:
-  - "bangkok"
-  - "top attraction"
-quickAnswer: "SEA LIFE Bangkok Ocean World sits in the basement (B1-B2) of Siam Paragon mall, right above BTS Siam station, making it one of the easiest major attractions in Bangkok to reach. Budget 1.5–2.5 hours to walk the glass tunnel, watch the shark and ray tanks, and catch a feeding or diving show; go on a weekday morning to avoid mall-crowd overlap on weekends. Book tickets online in advance for a meaningful discount over walk-up counter prices."
+  - bangkok
+  - top attraction
+quickAnswer: >-
+  SEA LIFE Bangkok Ocean World sits in the basement (B1-B2) of Siam Paragon
+  mall, right above BTS Siam station, making it one of the easiest major
+  attractions in Bangkok to reach. Budget 1.5–2.5 hours to walk the glass
+  tunnel, watch the shark and ray tanks, and catch a feeding or diving show; go
+  on a weekday morning to avoid mall-crowd overlap on weekends. Book tickets
+  online in advance for a meaningful discount over walk-up counter prices.
 faq:
-  - q: "How do I get to SEA LIFE Bangkok Ocean World by public transport?"
-    a: "Take the BTS Skytrain to Siam Station (interchange of the Sukhumvit and Silom lines) and walk directly into Siam Paragon mall; the aquarium entrance is on basement level B1, near the food hall."
-  - q: "How much does it cost and should I book ahead?"
-    a: "Ticket prices change periodically, so check the official SEA LIFE Bangkok site for current rates. Booking online in advance is generally cheaper than paying at the counter and helps you skip the ticket-purchase queue."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors spend 1.5 to 2 hours walking the exhibits; add 30-45 minutes if you catch the 4-D film or a shark/ray feeding session."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Weekday mornings soon after opening are quietest. Weekends, Thai public holidays, and rainy or extremely hot afternoons tend to draw more visitors since the mall setting doubles as an escape from the weather."
-  - q: "What else is nearby I can combine with this visit?"
-    a: "Madame Tussauds Bangkok is in the same building, and Siam Center, Siam Discovery, and MBK Center are all within walking distance for additional shopping and dining."
+  - q: How do I get to SEA LIFE Bangkok Ocean World by public transport?
+    a: >-
+      Take the BTS Skytrain to Siam Station (interchange of the Sukhumvit and
+      Silom lines) and walk directly into Siam Paragon mall; the aquarium
+      entrance is on basement level B1, near the food hall.
+  - q: How much does it cost and should I book ahead?
+    a: >-
+      Ticket prices change periodically, so check the official SEA LIFE Bangkok
+      site for current rates. Booking online in advance is generally cheaper
+      than paying at the counter and helps you skip the ticket-purchase queue.
+  - q: How long should I plan to spend there?
+    a: >-
+      Most visitors spend 1.5 to 2 hours walking the exhibits; add 30-45 minutes
+      if you catch the 4-D film or a shark/ray feeding session.
+  - q: What's the best time to visit to avoid crowds?
+    a: >-
+      Weekday mornings soon after opening are quietest. Weekends, Thai public
+      holidays, and rainy or extremely hot afternoons tend to draw more visitors
+      since the mall setting doubles as an escape from the weather.
+  - q: What else is nearby I can combine with this visit?
+    a: >-
+      Madame Tussauds Bangkok is in the same building, and Siam Center, Siam
+      Discovery, and MBK Center are all within walking distance for additional
+      shopping and dining.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

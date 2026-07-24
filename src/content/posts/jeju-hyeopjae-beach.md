@@ -1,50 +1,97 @@
 ---
-title: "Hyeopjae Beach: Jeju Travel Guide"
-description: "Hyeopjae Beach, on Jeju's northwest coast in Hallim-eup, is a shallow, turquoise-watered bay backed by white sand and pine trees, with clear views of"
-country: "South Korea"
-region: "Jeju"
-category: "attraction"
-pubDate: "2026-07-22T22:16:53.600Z"
+title: 'Hyeopjae Beach: Jeju Travel Guide'
+description: >-
+  Hyeopjae Beach, on Jeju's northwest coast in Hallim-eup, is a shallow,
+  turquoise-watered bay backed by white sand and pine trees, with clear views of
+country: South Korea
+region: Jeju
+category: attraction
+pubDate: '2026-07-22T22:16:53.600Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Hyeopjae_Beach_Scenery.jpg/1920px-Hyeopjae_Beach_Scenery.jpg"
-  credit: "Photo: Lcarrion88 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Hyeopjae_Beach_Scenery.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Hyeopjae_Beach_Scenery.jpg/1920px-Hyeopjae_Beach_Scenery.jpg
+  credit: 'Photo: Lcarrion88 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Hyeopjae_Beach_Scenery.jpg'
 gallery: []
 place:
-  id: "ChIJ8bBzwwBhDDURAISiRyzO4mw"
-  name: "Hyeopjae Beach"
-  address: "329-10 Hallim-ro, Hallim-eup, Cheju, Jeju-do, South Korea"
+  id: ChIJ8bBzwwBhDDURAISiRyzO4mw
+  name: Hyeopjae Beach
+  address: '329-10 Hallim-ro, Hallim-eup, Cheju, Jeju-do, South Korea'
   rating: 4.6
-  userRatingsTotal: 8750
-  googleMapsUrl: "https://maps.google.com/?cid=7846060190408541184&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 8752
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7846060190408541184&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 33.3942945
   lng: 126.2398813
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [7, 8, 22]
-    weekdayBusy: [11, 12, 13, 14, 15, 16, 17]
-    weekendQuiet: [7]
-    weekendBusy: [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
-    venueId: 'ven_776d344f7a79526953494152554444684277777a4262384a496843'
+    weekdayQuiet:
+      - 7
+      - 8
+      - 22
+    weekdayBusy:
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+    weekendQuiet:
+      - 7
+    weekendBusy:
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+    venueId: ven_776d344f7a79526953494152554444684277777a4262384a496843
 tags:
-  - "jeju"
-  - "top attraction"
-quickAnswer: "Hyeopjae Beach, on Jeju's northwest coast in Hallim-eup, is a shallow, turquoise-watered bay backed by white sand and pine trees, with clear views of Biyangdo Island offshore. It's best visited from June to early September for swimming, or at sunset year-round for the views; plan on 1.5–3 hours, more if you add the adjacent Hallim Park or a Biyangdo ferry trip."
+  - jeju
+  - top attraction
+quickAnswer: >-
+  Hyeopjae Beach, on Jeju's northwest coast in Hallim-eup, is a shallow,
+  turquoise-watered bay backed by white sand and pine trees, with clear views of
+  Biyangdo Island offshore. It's best visited from June to early September for
+  swimming, or at sunset year-round for the views; plan on 1.5–3 hours, more if
+  you add the adjacent Hallim Park or a Biyangdo ferry trip.
 faq:
-  - q: "How do I get to Hyeopjae Beach without a car?"
-    a: "Take public bus 202 from Jeju City toward Hallim-eup; it stops within walking distance of the beach, though the ride takes about 1 to 1.5 hours. A taxi or rental car cuts this to roughly 30–40 minutes."
-  - q: "Is there an entrance fee?"
-    a: "No, Hyeopjae Beach is free to access. Parking may carry a small fee in peak season, and paid rentals (parasols, tubes) are available near the entrance in summer."
-  - q: "What's the best time of year to visit?"
-    a: "June through August for swimming, when official lifeguard and beach facilities operate. For photography and a quieter atmosphere without swimming, spring and autumn afternoons are excellent too."
-  - q: "How long should I plan to stay?"
-    a: "Budget 1.5–3 hours for the beach itself. Add another 1–2 hours if visiting neighboring Hallim Park, or a half-day if taking a boat out to Biyangdo Island."
-  - q: "What's nearby if I want to see more of the area?"
-    a: "Hallim Park (gardens and lava tube caves) is a few minutes away, Biyangdo Island is reachable by seasonal boat from Hallim Port, and quieter Geumneung Eutteum Beach sits just south along the coast."
+  - q: How do I get to Hyeopjae Beach without a car?
+    a: >-
+      Take public bus 202 from Jeju City toward Hallim-eup; it stops within
+      walking distance of the beach, though the ride takes about 1 to 1.5 hours.
+      A taxi or rental car cuts this to roughly 30–40 minutes.
+  - q: Is there an entrance fee?
+    a: >-
+      No, Hyeopjae Beach is free to access. Parking may carry a small fee in
+      peak season, and paid rentals (parasols, tubes) are available near the
+      entrance in summer.
+  - q: What's the best time of year to visit?
+    a: >-
+      June through August for swimming, when official lifeguard and beach
+      facilities operate. For photography and a quieter atmosphere without
+      swimming, spring and autumn afternoons are excellent too.
+  - q: How long should I plan to stay?
+    a: >-
+      Budget 1.5–3 hours for the beach itself. Add another 1–2 hours if visiting
+      neighboring Hallim Park, or a half-day if taking a boat out to Biyangdo
+      Island.
+  - q: What's nearby if I want to see more of the area?
+    a: >-
+      Hallim Park (gardens and lava tube caves) is a few minutes away, Biyangdo
+      Island is reachable by seasonal boat from Hallim Port, and quieter
+      Geumneung Eutteum Beach sits just south along the coast.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

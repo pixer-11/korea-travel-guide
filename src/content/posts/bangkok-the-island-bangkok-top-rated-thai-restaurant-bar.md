@@ -1,50 +1,102 @@
 ---
-title: "The Island Bangkok Top Rated Thai Restaurant & Bar: Where to Eat"
-description: "The Island Bangkok is a highly-rated Thai restaurant and bar tucked into Soi Samsen 4 in the Banglamphu/Phra Nakhon area, a short walk from Khao San Road and"
-country: "Thailand"
-region: "Bangkok"
-category: "restaurant"
-pubDate: "2026-07-22T09:23:18.094Z"
+title: 'The Island Bangkok Top Rated Thai Restaurant & Bar: Where to Eat'
+description: >-
+  The Island Bangkok is a highly-rated Thai restaurant and bar tucked into Soi
+  Samsen 4 in the Banglamphu/Phra Nakhon area, a short walk from Khao San Road
+  and
+country: Thailand
+region: Bangkok
+category: restaurant
+pubDate: '2026-07-22T09:23:18.094Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Bangkok_-_Rama_VIII_Bridge_at_sunrise_Jan_2024.jpg/1920px-Bangkok_-_Rama_VIII_Bridge_at_sunrise_Jan_2024.jpg"
-  credit: "Photo: Dominic Nelson / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Bangkok_-_Rama_VIII_Bridge_at_sunrise_Jan_2024.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Bangkok_-_Rama_VIII_Bridge_at_sunrise_Jan_2024.jpg/1920px-Bangkok_-_Rama_VIII_Bridge_at_sunrise_Jan_2024.jpg
+  credit: 'Photo: Dominic Nelson / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Bangkok_-_Rama_VIII_Bridge_at_sunrise_Jan_2024.jpg
 gallery: []
 place:
-  id: "ChIJBYCkBQCZ4jARMk27YRVj-vM"
-  name: "The Island Bangkok – Top Rated Thai Restaurant & Bar"
-  address: "49 Soi Samsen 4, Khwaeng Ban Phan Thom, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200, Thailand"
+  id: ChIJBYCkBQCZ4jARMk27YRVj-vM
+  name: The Island Bangkok – Top Rated Thai Restaurant & Bar
+  address: >-
+    49 Soi Samsen 4, Khwaeng Ban Phan Thom, Khet Phra Nakhon, Krung Thep Maha
+    Nakhon 10200, Thailand
   rating: 4.9
-  userRatingsTotal: 14612
-  googleMapsUrl: "https://maps.google.com/?cid=17580473038879280434&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 14684
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17580473038879280434&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 13.763558
   lng: 100.50033599999999
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [7, 8, 9, 10]
-    weekdayBusy: [18, 19, 20, 21, 22]
-    weekendQuiet: [7, 8, 9, 10, 11, 12, 13, 14]
-    weekendBusy: [18, 19, 20, 21, 22]
-    venueId: 'ven_4d762d6a56525937326b4d52416a345a4351426b4359424a496843'
+    weekdayQuiet:
+      - 7
+      - 8
+      - 9
+      - 10
+    weekdayBusy:
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+    weekendQuiet:
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+    weekendBusy:
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+    venueId: ven_4d762d6a56525937326b4d52416a345a4351426b4359424a496843
+  priceLevel: 2
 tags:
-  - "bangkok"
-  - "local restaurant"
-quickAnswer: "The Island Bangkok is a highly-rated Thai restaurant and bar tucked into Soi Samsen 4 in the Banglamphu/Phra Nakhon area, a short walk from Khao San Road and the river. Go for a relaxed, garden-style setting with classic Thai dishes and cocktails, and plan on 1.5–2 hours for a full meal. Book ahead or arrive early on weekend evenings, since it's a local and tourist favorite with a huge review base (14,600+ ratings at 4.9 stars)."
+  - bangkok
+  - local restaurant
+quickAnswer: >-
+  The Island Bangkok is a highly-rated Thai restaurant and bar tucked into Soi
+  Samsen 4 in the Banglamphu/Phra Nakhon area, a short walk from Khao San Road
+  and the river. Go for a relaxed, garden-style setting with classic Thai dishes
+  and cocktails, and plan on 1.5–2 hours for a full meal. Book ahead or arrive
+  early on weekend evenings, since it's a local and tourist favorite with a huge
+  review base (14,600+ ratings at 4.9 stars).
 faq:
-  - q: "How do I get to The Island Bangkok without a car?"
-    a: "Use Grab or a metered taxi to Soi Samsen 4 in Phra Nakhon district, or take the Chao Phraya Express Boat to Phra Arthit Pier (N13) and walk about 10–15 minutes. There's no direct BTS/MRT station nearby."
-  - q: "Is it within walking distance of Khao San Road?"
-    a: "Yes, it's roughly a 15–20 minute walk north from Khao San Road through the Samsen soi network, making it easy to combine with a night out in that area."
-  - q: "What kind of food does The Island Bangkok serve?"
-    a: "Classic Thai dishes — tom yum goong, pad kra pao, curries, grilled seafood, and stir-fries — served alongside cocktails and beer in a garden-style, open-air setting."
-  - q: "Do I need a reservation?"
-    a: "With over 14,600 reviews and a 4.9 rating, it draws steady crowds, especially on weekend evenings. Booking ahead or arriving by 6–6:30 pm is recommended if you want to avoid a wait."
-  - q: "How long should I plan to stay?"
-    a: "Plan on 1.5–2 hours for a full dinner; the lounge-like atmosphere also makes it a good spot to linger longer over drinks after eating."
+  - q: How do I get to The Island Bangkok without a car?
+    a: >-
+      Use Grab or a metered taxi to Soi Samsen 4 in Phra Nakhon district, or
+      take the Chao Phraya Express Boat to Phra Arthit Pier (N13) and walk about
+      10–15 minutes. There's no direct BTS/MRT station nearby.
+  - q: Is it within walking distance of Khao San Road?
+    a: >-
+      Yes, it's roughly a 15–20 minute walk north from Khao San Road through the
+      Samsen soi network, making it easy to combine with a night out in that
+      area.
+  - q: What kind of food does The Island Bangkok serve?
+    a: >-
+      Classic Thai dishes — tom yum goong, pad kra pao, curries, grilled
+      seafood, and stir-fries — served alongside cocktails and beer in a
+      garden-style, open-air setting.
+  - q: Do I need a reservation?
+    a: >-
+      With over 14,600 reviews and a 4.9 rating, it draws steady crowds,
+      especially on weekend evenings. Booking ahead or arriving by 6–6:30 pm is
+      recommended if you want to avoid a wait.
+  - q: How long should I plan to stay?
+    a: >-
+      Plan on 1.5–2 hours for a full dinner; the lounge-like atmosphere also
+      makes it a good spot to linger longer over drinks after eating.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

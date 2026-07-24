@@ -1,51 +1,98 @@
 ---
-title: "Khao Soi Restaurant: Where to Eat in Chiang Rai"
-description: "Khao Soi Restaurant on Prasopsook Road is a no-frills, budget-friendly spot in central Chiang Rai serving the region's signature curried egg-noodle soup"
-country: "Thailand"
-region: "Chiang Rai"
-category: "restaurant"
-pubDate: "2026-07-22T09:22:47.024Z"
+title: 'Khao Soi Restaurant: Where to Eat in Chiang Rai'
+description: >-
+  Khao Soi Restaurant on Prasopsook Road is a no-frills, budget-friendly spot in
+  central Chiang Rai serving the region's signature curried egg-noodle soup
+country: Thailand
+region: Chiang Rai
+category: restaurant
+pubDate: '2026-07-22T09:22:47.024Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/b/b0/Khao_soi_Mae_Sai.JPG"
-  credit: "Photo: Takeaway / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Khao_soi_Mae_Sai.JPG"
+  url: 'https://upload.wikimedia.org/wikipedia/commons/b/b0/Khao_soi_Mae_Sai.JPG'
+  credit: 'Photo: Takeaway / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Khao_soi_Mae_Sai.JPG'
 gallery: []
 place:
-  id: "ChIJV6pofV0G1zARgvT0RIC9QmM"
-  name: "Khao Soi Restaurant"
-  address: "Prasopsook Rd, Tambon Wiang, Amphoe Mueang Chiang Rai, Chang Wat Chiang Rai 57000, Thailand"
+  id: ChIJV6pofV0G1zARgvT0RIC9QmM
+  name: Khao Soi Restaurant
+  address: >-
+    Prasopsook Rd, Tambon Wiang, Amphoe Mueang Chiang Rai, Chang Wat Chiang Rai
+    57000, Thailand
   rating: 4.7
-  userRatingsTotal: 839
+  userRatingsTotal: 840
   priceLevel: 1
-  googleMapsUrl: "https://maps.google.com/?cid=7152487516828136578&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7152487516828136578&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 19.905168700000004
   lng: 99.8347818
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [22]
-    weekdayBusy: [12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
-    weekendQuiet: [17, 22]
-    weekendBusy: [14, 15, 16, 17, 18, 19]
-    venueId: 'ven_4d6d51394349523054766752417a31473056666f7036564a496843'
+    weekdayQuiet:
+      - 22
+    weekdayBusy:
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+    weekendQuiet:
+      - 17
+      - 22
+    weekendBusy:
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+    venueId: ven_4d6d51394349523054766752417a31473056666f7036564a496843
 tags:
-  - "chiang rai"
-  - "street food"
-quickAnswer: "Khao Soi Restaurant on Prasopsook Road is a no-frills, budget-friendly spot in central Chiang Rai serving the region's signature curried egg-noodle soup, khao soi, alongside other northern Thai classics. With a 4.7 rating from over 800 reviews and prices in the cheapest tier, it's an easy, low-risk lunch stop while exploring the Old City — plan for 30-45 minutes and go early, as northern Thai eateries often sell out popular items by mid-afternoon."
+  - chiang rai
+  - street food
+quickAnswer: >-
+  Khao Soi Restaurant on Prasopsook Road is a no-frills, budget-friendly spot in
+  central Chiang Rai serving the region's signature curried egg-noodle soup,
+  khao soi, alongside other northern Thai classics. With a 4.7 rating from over
+  800 reviews and prices in the cheapest tier, it's an easy, low-risk lunch stop
+  while exploring the Old City — plan for 30-45 minutes and go early, as
+  northern Thai eateries often sell out popular items by mid-afternoon.
 faq:
-  - q: "How do I get to Khao Soi Restaurant without a car?"
-    a: "It's on Prasopsook Road in Chiang Rai's Old City, walkable from the Clock Tower and night bazaar area. Otherwise, a tuk-tuk, songthaew, or Grab ride from anywhere in central Chiang Rai should take just a few minutes."
-  - q: "How much does a meal cost?"
-    a: "It's listed in the lowest price tier for the area, so a bowl of khao soi and a drink typically comes to a very affordable sum by international standards — expect street-food-to-casual-restaurant pricing rather than fine-dining rates."
-  - q: "What should I order first?"
-    a: "Start with khao soi gai (chicken) or khao soi moo (pork), the house specialty. If available, sai ua (northern-style herb sausage) makes a good side to share."
-  - q: "How long should I plan to stay?"
-    a: "It's a quick, casual meal — 30 to 45 minutes is typical, making it easy to fit between temple visits or before an afternoon of exploring the Old City."
-  - q: "What's nearby to combine with a visit?"
-    a: "Wat Phra Kaew and the Chiang Rai Clock Tower are both within easy walking or short tuk-tuk distance, making this a natural lunch stop on an Old City sightseeing route."
+  - q: How do I get to Khao Soi Restaurant without a car?
+    a: >-
+      It's on Prasopsook Road in Chiang Rai's Old City, walkable from the Clock
+      Tower and night bazaar area. Otherwise, a tuk-tuk, songthaew, or Grab ride
+      from anywhere in central Chiang Rai should take just a few minutes.
+  - q: How much does a meal cost?
+    a: >-
+      It's listed in the lowest price tier for the area, so a bowl of khao soi
+      and a drink typically comes to a very affordable sum by international
+      standards — expect street-food-to-casual-restaurant pricing rather than
+      fine-dining rates.
+  - q: What should I order first?
+    a: >-
+      Start with khao soi gai (chicken) or khao soi moo (pork), the house
+      specialty. If available, sai ua (northern-style herb sausage) makes a good
+      side to share.
+  - q: How long should I plan to stay?
+    a: >-
+      It's a quick, casual meal — 30 to 45 minutes is typical, making it easy to
+      fit between temple visits or before an afternoon of exploring the Old
+      City.
+  - q: What's nearby to combine with a visit?
+    a: >-
+      Wat Phra Kaew and the Chiang Rai Clock Tower are both within easy walking
+      or short tuk-tuk distance, making this a natural lunch stop on an Old City
+      sightseeing route.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-24'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
