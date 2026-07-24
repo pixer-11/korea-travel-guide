@@ -1,0 +1,28 @@
+---
+import { getCollection } from 'astro:content';
+import EventsCountryHub from '../../../components/EventsCountryHub.astro';
+import countriesData from '../../../../data/countries.json';
+import type { Lang } from '../../../i18n/utils';
+
+export async function getStaticPaths() {
+  const LANGS: Lang[] = ['ko', 'ja', 'es', 'zh'];
+  const all = await getCollection('posts', ({ data }) => !data.draft && data.category === 'event');
+  const bySlug = new Map(countriesData.countries.map((c) => [c.name, c]));
+  const grouped = new Map();
+  for (const p of all) {
+    const name = p.data.country ?? 'South Korea';
+    (grouped.get(name) || grouped.set(name, []).get(name)).push(p);
+  }
+  const built = [...grouped.entries()].filter(([name, evs]) => bySlug.has(name) && evs.length >= 2);
+  return LANGS.flatMap((lang) =>
+    built.map(([name, evs]) => ({
+      params: { lang, country: bySlug.get(name).slug },
+      props: { country: bySlug.get(name), events: evs, lang },
+    }))
+  );
+}
+
+const { country, events, lang } = Astro.props;
+---
+
+<EventsCountryHub country={country} events={events} lang={lang} />

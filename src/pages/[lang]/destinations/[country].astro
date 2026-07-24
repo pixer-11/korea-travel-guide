@@ -1,0 +1,26 @@
+---
+import { getCollection } from 'astro:content';
+import DestinationHub from '../../../components/DestinationHub.astro';
+import countriesData from '../../../../data/countries.json';
+import type { Lang } from '../../../i18n/utils';
+
+// Localized country hubs: /ko/destinations/japan, /ja/…, /es/…, /zh/…
+// Every country that has posts gets a page in all four languages.
+export async function getStaticPaths() {
+  const LANGS: Lang[] = ['ko', 'ja', 'es', 'zh'];
+  const posts = await getCollection('posts', ({ data }) => !data.draft);
+  const built = countriesData.countries
+    .map((c) => ({ c, cPosts: posts.filter((p) => (p.data.country ?? 'South Korea') === c.name) }))
+    .filter((x) => x.cPosts.length > 0);
+  return LANGS.flatMap((lang) =>
+    built.map(({ c, cPosts }) => ({
+      params: { lang, country: c.slug },
+      props: { country: c, posts: cPosts, lang },
+    }))
+  );
+}
+
+const { country, posts, lang } = Astro.props;
+---
+
+<DestinationHub country={country} posts={posts} lang={lang} />

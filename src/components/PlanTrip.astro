@@ -5,8 +5,16 @@
 // flights point to our own /flights page. Affiliate links use rel="sponsored".
 import { SITE } from '../siteConfig';
 import Emoji from './Emoji.astro';
+import { getLangFromUrl, useTranslations } from '../i18n/utils';
+import { localizePlace } from '../i18n/places';
 interface Props { city: string; country?: string }
 const { city } = Astro.props;
+// Labels follow the page's language; the `city` in affiliate links stays English
+// (that's the search query the booking API expects), while the DISPLAYED city name
+// is localized.
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+const cityLabel = localizePlace(city, lang);
 
 // City-specific Klook affiliate link, built automatically from the city name —
 // works for every city (and every future auto-published post) with no per-city
@@ -17,15 +25,15 @@ const klookHref = city
   : 'https://klook.tpx.lv/2NXPH8MA';
 
 const services = [
-  { icon: 'admission-tickets', label: 'Tours & tickets', desc: city ? `Things to do in ${city}` : 'Activities and skip-the-line tickets', href: klookHref },
-  { icon: 'automobile', label: 'Car rental', desc: 'Compare local car-hire deals', href: 'https://localrent.tpx.lv/qivp9ZCc' },
-  { icon: 'taxi', label: 'Airport transfer', desc: 'Pre-book a private pickup', href: 'https://kiwitaxi.tpx.lv/yRbl5tlp' },
-  { icon: 'antenna-bars', label: 'eSIM data', desc: 'Get online the moment you land', href: 'https://yesim.tpx.lv/KABevuVe' },
-  { icon: 'airplane', label: 'Flights', desc: city ? `Search fares to ${city}` : 'Search live fares', href: '/flights', internal: true },
+  { icon: 'admission-tickets', label: t('widget.toursLabel'), desc: city ? t('widget.toursDescCity').replace('{city}', cityLabel) : t('widget.toursDesc'), href: klookHref },
+  { icon: 'automobile', label: t('widget.carLabel'), desc: t('widget.carDesc'), href: 'https://localrent.tpx.lv/qivp9ZCc' },
+  { icon: 'taxi', label: t('widget.transferLabel'), desc: t('widget.transferDesc'), href: 'https://kiwitaxi.tpx.lv/yRbl5tlp' },
+  { icon: 'antenna-bars', label: t('widget.esimLabel'), desc: t('widget.esimDesc'), href: 'https://yesim.tpx.lv/KABevuVe' },
+  { icon: 'airplane', label: t('widget.flightsLabel'), desc: city ? t('widget.flightsDescCity').replace('{city}', cityLabel) : t('widget.flightsDesc'), href: '/flights', internal: true },
 ];
 ---
 <section class="plan-trip">
-  <div class="rule-head"><span class="kicker">Plan your trip{city ? ` to ${city}` : ''}</span></div>
+  <div class="rule-head"><span class="kicker">{city ? t('widget.planTripCity').replace('{city}', cityLabel) : t('widget.planTrip')}</span></div>
   <div class="plan-grid">
     {services.map((s) => (
       <a
@@ -40,5 +48,5 @@ const services = [
       </a>
     ))}
   </div>
-  <p class="tp-disclosure">Some links above are affiliate links — if you book through them, {SITE.name} earns a small commission at no extra cost to you. It’s how we keep every guide free.</p>
+  <p class="tp-disclosure">{t('widget.affDisclosure').replace('{site}', SITE.name)}</p>
 </section>

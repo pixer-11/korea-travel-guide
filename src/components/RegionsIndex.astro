@@ -1,0 +1,54 @@
+---
+import { getCollection } from 'astro:content';
+import { createHash } from 'node:crypto';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { slugifyRegion } from '../lib/slug';
+import { SITE } from '../siteConfig';
+import { useTranslations, localizePath, type Lang } from '../i18n/utils';
+import { localizePlace } from '../i18n/places';
+
+// Shared /regions index for en + /[lang]/regions.
+interface Props { lang: Lang }
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+
+const posts = await getCollection('posts', ({ data }) => !data.draft);
+const wallThumb = (url: string) => (url ? `/wall/${createHash('sha1').update(url).digest('hex').slice(0, 16)}.webp` : '');
+const counts = new Map<string, number>();
+const regionImg = new Map<string, string>();
+for (const p of posts) {
+  counts.set(p.data.region, (counts.get(p.data.region) ?? 0) + 1);
+  if (!regionImg.has(p.data.region) && p.data.heroImage?.url && !p.data.heroImage.url.includes('placeholder')) {
+    regionImg.set(p.data.region, wallThumb(p.data.heroImage.url));
+  }
+}
+const regions = [...counts.entries()]
+  .map(([name, count]) => ({ name, count, img: regionImg.get(name) ?? '' }))
+  .sort((a, b) => a.name.localeCompare(b.name));
+---
+
+<BaseLayout
+  title={`${t('reg.allRegions')} — ${SITE.name}`}
+  description={t('reg.allRegionsDek').replace('{n}', String(regions.length))}
+  localized={true}
+>
+  <div class="page-hero">
+    <div class="wrap">
+      <p class="eyebrow">{t('reg.explore')}</p>
+      <h1>{t('reg.allRegions')}</h1>
+      <p>{t('reg.allRegionsDek').replace('{n}', String(regions.length))}</p>
+    </div>
+  </div>
+
+  <section class="section">
+    <div class="wrap">
+      <div class="region-grid">
+        {regions.map((r) => (
+          <a class="region-tile" href={localizePath(`/regions/${slugifyRegion(r.name)}/`, lang)} style={r.img ? `background-image:url(${r.img})` : ''}>
+            <span>{localizePlace(r.name, lang)}<br /><small style="font-size:0.7rem;opacity:0.85;font-weight:500">{t('home.guides').replace('{n}', String(r.count))}</small></span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

@@ -5,8 +5,13 @@
 // converting, no-approval-needed inventory) monetize on every post.
 // marker shmarker=754088, source trs=553157, category 1 = Attractions & Shows.
 import Emoji from './Emoji.astro';
+import { getLangFromUrl, useTranslations } from '../i18n/utils';
+import { localizePlace } from '../i18n/places';
 interface Props { city: string }
 const { city } = Astro.props;
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+const cityLabel = localizePlace(city, lang);
 
 // Travelpayouts Klook city_id map (from the widget's city dropdown) — expand as
 // more ids are confirmed. Keys must match a post's `region` value exactly.
@@ -41,7 +46,7 @@ const klookHref = city
 ---
 {city && (
   <section class="tp-tours">
-    <div class="rule-head"><span class="kicker">Top-rated things to do in {city}</span></div>
+    <div class="rule-head"><span class="kicker">{t('widget.topThingsToDo').replace('{city}', cityLabel)}</span></div>
     {src ? (
       <div class="tp-widget-card">
         <script is:inline async src={src} charset="utf-8"></script>
@@ -49,11 +54,11 @@ const klookHref = city
     ) : (
       <a class="plan-card tours-cta" href={klookHref} target="_blank" rel="sponsored noopener">
         <span class="plan-ico"><Emoji name="admission-tickets" /></span>
-        <span class="plan-txt"><strong>Tours & tickets in {city}</strong><span>Book activities and skip-the-line tickets on Klook</span></span>
+        <span class="plan-txt"><strong>{t('widget.toursInCity').replace('{city}', cityLabel)}</strong><span>{t('widget.toursCtaDesc')}</span></span>
         <span class="plan-arw">→</span>
       </a>
     )}
-    <p class="tp-disclosure">Live prices from Klook. Booking through these links supports our free guides at no extra cost to you.</p>
+    <p class="tp-disclosure">{t('widget.livePrices')}</p>
   </section>
 )}
 

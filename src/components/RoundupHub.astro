@@ -1,0 +1,117 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostCard from './PostCard.astro';
+import Hotels from './Hotels.astro';
+import PlanTrip from './PlanTrip.astro';
+import Newsletter from './Newsletter.astro';
+import StickyBook from './StickyBook.astro';
+import { slugifyRegion } from '../lib/slug';
+import { useTranslations, localizePath, type Lang } from '../i18n/utils';
+import { localizePlace } from '../i18n/places';
+import { loadCardTranslations, cardHelpers } from '../i18n/cards';
+
+// Shared city roundup hub for /regions/<region>/<roundup> (en) and the localized
+// route. Title/dek localized with per-language word order; ranked list uses the
+// translated post title when available, else the verified place name.
+interface Props { region: string; key: string; items: any[]; cfg: any; lang: Lang }
+const { region, key, items, cfg, lang } = Astro.props;
+const t = useTranslations(lang);
+const country = items[0]?.data.country ?? 'South Korea';
+const regionLabel = localizePlace(region, lang);
+const countryLabel = localizePlace(country, lang);
+const label = t(`roundup.${key}` as any);
+const countrySlug = country.toLowerCase().replace(/\s+/g, '-');
+const regionSlug = slugifyRegion(region);
+const n = items.length;
+const tr = await loadCardTranslations(lang);
+const card = cardHelpers(tr, lang);
+
+const title = t('roundup.title').replace('{n}', String(n)).replace('{label}', label).replace('{region}', regionLabel);
+const dek = t('roundup.dek').replace('{label}', label).replace('{region}', regionLabel).replace('{country}', countryLabel);
+
+const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
+const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'CollectionPage', name: title, description: dek, url: pageUrl, isPartOf: { '@id': `${site}/#site` } },
+    {
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        { name: t('post.home'), item: new URL(localizePath('/', lang), Astro.site).toString() },
+        { name: countryLabel, item: new URL(localizePath(`/destinations/${countrySlug}/`, lang), Astro.site).toString() },
+        { name: regionLabel, item: new URL(localizePath(`/regions/${regionSlug}/`, lang), Astro.site).toString() },
+        { name: label, item: pageUrl },
+      ].map((c, i) => ({ '@type': 'ListItem', position: i + 1, name: c.name, item: c.item })),
+    },
+    {
+      '@type': 'ItemList',
+      itemListElement: items.map((p, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        url: new URL(card.href(p.id, true), Astro.site).toString(),
+        name: card.title(p.id, p.data.place?.name ?? p.data.title),
+      })),
+    },
+  ],
+};
+---
+
+<BaseLayout title={title} description={dek} jsonLd={jsonLd} localized={true}>
+  <section class="page-hero">
+    <div class="wrap">
+      <nav class="crumbs" aria-label="Breadcrumb">
+        <a href={localizePath('/', lang)}>{t('post.home')}</a> <span>/</span>
+        <a href={localizePath(`/destinations/${countrySlug}/`, lang)}>{countryLabel}</a> <span>/</span>
+        <a href={localizePath(`/regions/${regionSlug}/`, lang)}>{regionLabel}</a> <span>/</span>
+        <span aria-current="page">{label}</span>
+      </nav>
+      <p class="eyebrow">{regionLabel} · {label}</p>
+      <h1>{title}</h1>
+      <p class="region-blurb">{dek}</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <ol class="roundup">
+        {items.map((post, i) => (
+          <li class="roundup-item">
+            <span class="rank" aria-hidden="true">{i + 1}</span>
+            <PostCard
+              href={card.href(post.id, true)}
+              title={card.title(post.id, post.data.place?.name ?? post.data.title)}
+              description={card.desc(post.id, post.data.description)}
+              region={post.data.region}
+              category={post.data.category}
+              image={post.data.heroImage?.url}
+            />
+          </li>
+        ))}
+      </ol>
+
+      <Hotels city={region} country={country} />
+      <PlanTrip city={region} country={country} />
+    </div>
+  </section>
+
+  <Newsletter
+    lang={lang}
+    heading={t('post.planningTrip').replace('{region}', regionLabel)}
+    dek={t('region.newsletterDek').replace('{region}', regionLabel)}
+  />
+  <StickyBook city={region} />
+</BaseLayout>
+
+<style>
+  .page-hero .crumbs { margin-bottom: 1rem; font-size: 0.9rem; }
+  .roundup { list-style: none; margin: 0 0 2.5rem; padding: 0; display: grid; gap: 1.75rem; }
+  .roundup-item { position: relative; }
+  .rank {
+    position: absolute; top: -10px; left: -10px; z-index: 2;
+    width: 36px; height: 36px; display: grid; place-items: center;
+    background: var(--accent); color: #fff; border-radius: 50%;
+    font-weight: 700; font-size: 1.05rem; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  }
+</style>

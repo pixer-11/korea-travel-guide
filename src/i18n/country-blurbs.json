@@ -1,0 +1,104 @@
+{
+  "south-korea": {
+    "ko": "궁궐과 K-팝, 템플스테이와 야시장, 산과 바다까지 — 다니기 쉽고 촘촘히 연결된 나라.",
+    "ja": "宮殿とK-POP、テンプルステイと夜市、山と海 — 移動しやすく、隅々までつながった国。",
+    "es": "Palacios y K-pop, estancias en templos y mercados nocturnos, montañas y playas: un país fácil de recorrer e hiperconectado.",
+    "zh": "宫殿与K-pop、寺庙寄宿与夜市、山峦与海滩——一个交通便利、高度互联的国度。"
+  },
+  "japan": {
+    "ko": "네온사인의 도시와 고요한 신사, 신칸센과 온천, 노점부터 스시 카운터까지 세계적 수준의 음식.",
+    "ja": "ネオンの街と静かな神社、新幹線と温泉、屋台から寿司カウンターまで世界屈指の食。",
+    "es": "Ciudades de neón y santuarios serenos, trenes bala y aguas termales, comida de primer nivel desde puestos callejeros hasta barras de sushi.",
+    "zh": "霓虹都市与静谧神社、新干线与温泉，从街边摊到寿司吧的世界级美食。"
+  },
+  "united-states": {
+    "ko": "맨해튼 스카이라인부터 사막 협곡까지, 로드트립과 국립공원, 그리고 도시마다 다른 문화.",
+    "ja": "マンハッタンのスカイラインから砂漠の峡谷まで、ロードトリップと国立公園、都市ごとに異なる文化。",
+    "es": "Desde los rascacielos de Manhattan hasta cañones desérticos, viajes por carretera, parques nacionales y una cultura distinta en cada ciudad.",
+    "zh": "从曼哈顿的天际线到沙漠峡谷，公路旅行、国家公园，每座城市各具风情。"
+  },
+  "thailand": {
+    "ko": "황금빛 사원과 섬 해변, 길거리 음식의 향연, 그리고 아담하고 저렴한 나라 곳곳의 따뜻한 환대.",
+    "ja": "黄金の寺院と島のビーチ、屋台料理の饗宴、そしてコンパクトで手頃な国に息づく温かいもてなし。",
+    "es": "Templos dorados, playas de isla, festines de comida callejera y una hospitalidad legendaria en un país compacto y asequible.",
+    "zh": "金色寺庙、海岛沙滩、街头美食盛宴，以及这个小巧实惠的国度里闻名的热情好客。"
+  },
+  "france": {
+    "ko": "파리 그리고 그 너머 — 포도밭, 리비에라 해변, 알프스 마을, 세계 최고 수준의 음식과 예술.",
+    "ja": "パリ、そしてその先へ — ぶどう畑、リビエラのビーチ、アルプスの村、そして世界最高峰の食と芸術。",
+    "es": "París y más allá: viñedos, playas de la Riviera, pueblos alpinos y algunas de las mejores comidas y arte del mundo.",
+    "zh": "巴黎及其之外——葡萄园、里维埃拉海滩、阿尔卑斯山村，以及世界顶级的美食与艺术。"
+  },
+  "italy": {
+    "ko": "고대 로마와 르네상스의 피렌체, 베네치아의 운하, 해안 절벽, 그리고 지역마다 달라지는 음식 문화.",
+    "ja": "古代ローマとルネサンスのフィレンツェ、ヴェネツィアの運河、海岸の断崖、そして地域ごとに変わる食文化。",
+    "es": "La antigua Roma, la Florencia renacentista, los canales de Venecia, acantilados costeros y una cultura gastronómica que cambia de región en región.",
+    "zh": "古罗马与文艺复兴的佛罗伦萨、威尼斯的运河、海岸悬崖，以及一地一味的饮食文化。"
+  },
+  "china": {
+    "ko": "만리장성과 자금성, 미래적인 대도시, 카르스트 산봉우리, 그리고 5천 년의 역사와 요리.",
+    "ja": "万里の長城と紫禁城、未来的な巨大都市、カルストの山々、そして5000年の歴史と料理。",
+    "es": "La Gran Muralla y la Ciudad Prohibida, megaciudades futuristas, montañas kársticas y 5000 años de historia y cocina.",
+    "zh": "长城与故宫、未来感十足的超级都市、喀斯特山峰，以及五千年的历史与美食。"
+  },
+  "spain": {
+    "ko": "가우디의 바르셀로나, 무어 양식의 안달루시아, 타파스와 늦은 밤, 햇살 가득한 해안과 세계적인 축제.",
+    "ja": "ガウディのバルセロナ、ムーア様式のアンダルシア、タパスと夜更け、陽光あふれる海岸と世界的な祭り。",
+    "es": "La Barcelona de Gaudí, la Andalucía morisca, tapas y noches largas, costas soleadas y festivales de fama mundial.",
+    "zh": "高迪的巴塞罗那、摩尔风情的安达卢西亚、塔帕斯与不眠之夜、阳光海岸与举世闻名的节庆。"
+  },
+  "vietnam": {
+    "ko": "오토바이로 붐비는 도시, 에메랄드빛 하롱베이, 계단식 논, 프랑스 식민지풍 거리, 그리고 아시아 최고의 길거리 음식.",
+    "ja": "バイクが行き交う街、エメラルド色のハロン湾、棚田、フランス植民地時代の街並み、そしてアジア屈指の屋台料理。",
+    "es": "Ciudades zumbando de motos, la esmeralda bahía de Ha Long, arrozales en terrazas, calles de estilo colonial francés y de la mejor comida callejera de Asia.",
+    "zh": "摩托车穿梭的城市、翡翠般的下龙湾、层层梯田、法式殖民风情的街道，以及亚洲数一数二的街头美食。"
+  },
+  "united-arab-emirates": {
+    "ko": "미래적인 두바이 스카이라인, 사막 사파리, 금 시장과 웅장한 모스크, 그리고 걸프 해안에 솟은 기록적인 초고층 빌딩.",
+    "ja": "未来的なドバイのスカイライン、砂漠のサファリ、金市場と壮大なモスク、湾岸にそびえる記録破りの高層ビル。",
+    "es": "Los futuristas horizontes de Dubái, safaris por el desierto, zocos de oro y grandes mezquitas, y torres que baten récords sobre el Golfo.",
+    "zh": "未来感的迪拜天际线、沙漠探险、黄金市场与宏伟清真寺，以及从海湾拔地而起、屡破纪录的高塔。"
+  },
+  "taiwan": {
+    "ko": "야시장의 먹거리, 온천과 우뚝 솟은 봉우리, 사원 마을과 타이베이의 네온사인 — 친근하고 아담해 다니기 쉬운 곳.",
+    "ja": "夜市のグルメ、温泉とそびえ立つ峰々、寺院の町と台北のネオン — 親しみやすく、コンパクトで巡りやすい。",
+    "es": "Festines en mercados nocturnos, aguas termales y picos imponentes, pueblos con templos y el bullicio de neón de Taipéi: acogedor, compacto y fácil de explorar.",
+    "zh": "夜市美食、温泉与巍峨山峰、庙宇小镇与台北的霓虹喧闹——亲切、小巧、易于游览。"
+  },
+  "indonesia": {
+    "ko": "발리의 계단식 논과 해변, 화산 위로 뜨는 일출, 코모도 왕도마뱀, 그리고 사원과 서핑, 정글로 가득한 수천 개의 섬.",
+    "ja": "バリの棚田とビーチ、火山から昇る朝日、コモドドラゴン、そして寺院やサーフィン、ジャングルが広がる何千もの島々。",
+    "es": "Los arrozales y playas de Bali, amaneceres sobre volcanes, dragones de Komodo y miles de islas de templos, surf y selva.",
+    "zh": "巴厘岛的梯田与海滩、火山日出、科莫多巨蜥，以及遍布寺庙、冲浪与丛林的数千座岛屿。"
+  },
+  "malaysia": {
+    "ko": "쿠알라룸푸르의 고층 빌딩, 섬 해변, 열대우림과 차 재배 고원, 그리고 말레이·중국·인도의 맛이 어우러진 길거리 음식.",
+    "ja": "クアラルンプールの高層ビル、島のビーチ、熱帯雨林と茶畑の高原、そしてマレー・中華・インドの味が出会う屋台料理。",
+    "es": "Las torres de Kuala Lumpur, playas de isla, selva y tierras altas del té, y una escena de comida callejera donde se encuentran los sabores malayo, chino e indio.",
+    "zh": "吉隆坡的高塔、海岛沙滩、雨林与茶园高地，以及马来、华人与印度风味交融的街头美食。"
+  },
+  "india": {
+    "ko": "타지마할과 핑크시티의 궁전, 히말라야 기슭과 백워터, 화려한 축제, 그리고 몇백 킬로마다 달라지는 음식.",
+    "ja": "タージ・マハルとピンクシティの宮殿、ヒマラヤの麓とバックウォーター、きらびやかな祭り、そして数百キロごとに変わる料理。",
+    "es": "El Taj Mahal y palacios de ciudades rosas, las estribaciones del Himalaya y los remansos, festivales deslumbrantes y una comida que cambia cada pocos cientos de kilómetros.",
+    "zh": "泰姬陵与粉红之城的宫殿、喜马拉雅山麓与回水风光、绚丽的节庆，以及每隔几百公里就变化的美食。"
+  },
+  "philippines": {
+    "ko": "새하얀 백사장과 청록빛 석호로 이루어진 수천 개의 섬, 세계적 수준의 다이빙, 계단식 논, 그리고 영어가 통하는 따뜻한 환대.",
+    "ja": "真っ白な砂浜とターコイズ色のラグーンからなる何千もの島々、世界クラスのダイビング、棚田、そして英語が通じる温かいもてなし。",
+    "es": "Miles de islas de playas de arena blanca y lagunas turquesa, buceo de primer nivel, arrozales en terrazas y una hospitalidad cálida donde se habla inglés.",
+    "zh": "由数千座白沙滩与碧绿泻湖组成的岛屿、世界级的潜水、梯田，以及通行英语的热情款待。"
+  },
+  "turkey": {
+    "ko": "두 대륙이 만나는 이스탄불, 열기구로 가득한 카파도키아의 하늘, 청록빛 해안과 고대 유적, 그리고 전설적인 바자르와 음식 문화.",
+    "ja": "二つの大陸が出会うイスタンブール、気球が舞うカッパドキアの空、ターコイズ色の海岸と古代遺跡、そして伝説的なバザールと食文化。",
+    "es": "Estambul donde se encuentran dos continentes, los cielos llenos de globos de Capadocia, costas turquesa y ruinas antiguas, y una legendaria cultura de bazares y comida.",
+    "zh": "两大洲交汇的伊斯坦布尔、卡帕多西亚满天的热气球、碧绿海岸与古代遗迹，以及传奇般的集市与美食文化。"
+  },
+  "singapore": {
+    "ko": "호커센터의 먹거리, 마리나베이의 스카이라인, 무성한 정원, 그리고 말레이·중국·인도·페라나칸 문화가 어우러진 미래도시 국가 — 깨끗하고 안전하며 다니기 편한 곳.",
+    "ja": "ホーカーの美食、マリーナベイのスカイライン、緑豊かな庭園、そしてマレー・中華・インド・プラナカン文化が交わる未来的な都市国家 — 清潔で安全、巡るのも簡単。",
+    "es": "Una ciudad-estado futurista donde se encuentran los festines de puestos de hawker, el horizonte de Marina Bay, jardines exuberantes y una mezcla de culturas malaya, china, india y peranakan: limpia, segura y fácil de recorrer.",
+    "zh": "一个未来感的城市国家，小贩中心的美食、滨海湾的天际线、郁郁葱葱的花园，以及马来、华人、印度与土生华人文化的交融——干净、安全、轻松易游。"
+  }
+}

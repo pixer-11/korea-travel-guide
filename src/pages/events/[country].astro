@@ -1,11 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
-import BaseLayout from '../../layouts/BaseLayout.astro';
-import PostCard from '../../components/PostCard.astro';
-import Newsletter from '../../components/Newsletter.astro';
-import Flag from '../../components/Flag.astro';
-import Emoji from '../../components/Emoji.astro';
-import { isEventPast, eventSortValue } from '../../lib/eventStatus';
+import EventsCountryHub from '../../components/EventsCountryHub.astro';
 import countriesData from '../../../data/countries.json';
 
 export async function getStaticPaths() {
@@ -17,8 +12,7 @@ export async function getStaticPaths() {
     (grouped.get(name) || grouped.set(name, []).get(name)).push(p);
   }
   // Only build a per-country events hub when the country has ≥2 events — a single
-  // event doesn't warrant a dedicated aggregation page (thin), and readers can go
-  // straight to that one guide. Keeps the young domain free of near-empty hubs.
+  // event doesn't warrant a dedicated aggregation page (thin).
   return [...grouped.entries()]
     .filter(([name, evs]) => bySlug.has(name) && evs.length >= 2)
     .map(([name, evs]) => ({
@@ -28,108 +22,6 @@ export async function getStaticPaths() {
 }
 
 const { country, events } = Astro.props;
-const today = new Date();
-const upcoming = events
-  .filter((p) => !isEventPast(p.data, today))
-  .sort((a, b) => eventSortValue(a.data, today) - eventSortValue(b.data, today));
-const past = events
-  .filter((p) => isEventPast(p.data, today))
-  .sort((a, b) => eventSortValue(a.data, today) - eventSortValue(b.data, today));
-
-// Group upcoming by month for a scannable, seasonal, date-first layout — the shape
-// "events in {country} in {month}" fans out to.
-const monthLabel = (d) =>
-  d ? new Date(d).toLocaleDateString('en-US', { month: 'long', year: 'numeric' }) : 'Date to be announced';
-const byMonth = new Map();
-for (const p of upcoming) {
-  const k = p.data.eventStartDate ? monthLabel(p.data.eventStartDate) : 'Date to be announced';
-  (byMonth.get(k) || byMonth.set(k, []).get(k)).push(p);
-}
-
-const card = (post) => ({
-  href: `/posts/${post.id}`,
-  title: post.data.title,
-  description: post.data.description,
-  region: `${post.data.region} · ${post.data.country ?? 'South Korea'}`,
-  category: post.data.category,
-  image: post.data.heroImage?.url,
-  eventEndDate: post.data.eventEndDate,
-});
-
-const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
-const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
-const jsonLd = {
-  '@context': 'https://schema.org',
-  '@graph': [
-    { '@type': 'CollectionPage', name: `Upcoming events in ${country.name}`, description: `Upcoming concerts, sports events and festivals in ${country.name} worth traveling for.`, url: pageUrl, isPartOf: { '@id': `${site}/#site` } },
-    { '@type': 'BreadcrumbList', itemListElement: [
-      { '@type': 'ListItem', position: 1, name: 'Home', item: site + '/' },
-      { '@type': 'ListItem', position: 2, name: 'Events', item: `${site}/events` },
-      { '@type': 'ListItem', position: 3, name: country.name, item: pageUrl },
-    ] },
-    ...(upcoming.length ? [{ '@type': 'ItemList', itemListElement: upcoming.map((p, i) => ({ '@type': 'ListItem', position: i + 1, url: `${site}/posts/${p.id}`, name: p.data.title })) }] : []),
-  ],
-};
 ---
 
-<BaseLayout
-  title={`Upcoming events in ${country.name} — Concerts, Sports & Festivals`}
-  description={`${upcoming.length} upcoming concerts, sports events and festivals in ${country.name} — dates, cities, and how to plan a trip around them.`}
-  jsonLd={jsonLd}
->
-  <section class="page-hero">
-    <div class="wrap">
-      <p class="eyebrow"><Flag code={country.iso2} size="1.4em" class="flag-ico" /> Events</p>
-      <h1>Upcoming events in {country.name}</h1>
-      <p>
-        {upcoming.length > 0
-          ? `${upcoming.length} upcoming ${upcoming.length === 1 ? 'event' : 'events'} to plan a trip around.`
-          : `No upcoming events listed in ${country.name} right now — see past events below, or browse all destinations.`}
-      </p>
-      <p style="margin-top:.75rem">
-        <a href="/events" class="rule-link">← All events</a>
-        <span aria-hidden="true"> · </span>
-        <a href={`/destinations/${country.slug}`} class="rule-link">{country.name} travel guides →</a>
-      </p>
-    </div>
-  </section>
-
-  {[...byMonth].map(([month, items]) => (
-    <section class="section">
-      <div class="wrap">
-        <div class="rule-head"><span class="kicker">{month}</span></div>
-        <div class="grid">
-          {items.map((post) => <PostCard {...card(post)} />)}
-        </div>
-      </div>
-    </section>
-  ))}
-
-  {past.length > 0 && (
-    <section class="section band">
-      <div class="wrap">
-        <div class="rule-head"><span class="kicker">지난 이벤트 · Past events</span></div>
-        <div class="grid">
-          {past.map((post) => <PostCard {...card(post)} />)}
-        </div>
-      </div>
-    </section>
-  )}
-
-  <section class="section">
-    <div class="wrap">
-      <div class="book-cta">
-        <span class="book-cta-label">Planning around an event in {country.name}?</span>
-        <div class="book-cta-btns">
-          <a class="book-btn book-btn-primary" href={`https://search.hotellook.com/?marker=754088&destination=${encodeURIComponent(country.name)}`} target="_blank" rel="sponsored noopener"><Emoji name="hotel" /> Find hotels</a>
-          <a class="book-btn" href="/flights" rel="sponsored noopener"><Emoji name="airplane" /> Flights</a>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <Newsletter
-    heading={`Never miss an event in ${country.name}`}
-    dek={`New concerts, festivals, and sports events in ${country.name} — the moment we publish them. Unsubscribe anytime.`}
-  />
-</BaseLayout>
+<EventsCountryHub country={country} events={events} lang="en" />

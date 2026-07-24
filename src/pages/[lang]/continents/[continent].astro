@@ -1,0 +1,32 @@
+---
+import { getCollection } from 'astro:content';
+import ContinentHub from '../../../components/ContinentHub.astro';
+import countriesData from '../../../../data/countries.json';
+import type { Lang } from '../../../i18n/utils';
+
+export async function getStaticPaths() {
+  const LANGS: Lang[] = ['ko', 'ja', 'es', 'zh'];
+  const posts = await getCollection('posts', ({ data }) => !data.draft);
+  const countFor = (name) => posts.filter((p) => (p.data.country ?? 'South Korea') === name).length;
+  const slugify = (name) => name.toLowerCase().replace(/\s+/g, '-');
+
+  const byContinent = {};
+  for (const c of countriesData.countries) {
+    (byContinent[c.continent || 'Other'] ||= []).push({ ...c, count: countFor(c.name) });
+  }
+  const entries = Object.entries(byContinent).map(([name, countries]) => ({
+    name,
+    countries: (countries as any[]).sort((a, b) => b.count - a.count || a.name.localeCompare(b.name)),
+  }));
+  return LANGS.flatMap((lang) =>
+    entries.map(({ name, countries }) => ({
+      params: { lang, continent: slugify(name) },
+      props: { continentName: name, countries, lang },
+    }))
+  );
+}
+
+const { continentName, countries, lang } = Astro.props;
+---
+
+<ContinentHub continentName={continentName} countries={countries} lang={lang} />

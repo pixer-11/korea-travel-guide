@@ -1,0 +1,183 @@
+---
+import { getCollection } from 'astro:content';
+import { createHash } from 'node:crypto';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostCard from './PostCard.astro';
+import Flag from './Flag.astro';
+import Emoji from './Emoji.astro';
+import Newsletter from './Newsletter.astro';
+import { pickRepHeroUrl } from '../lib/repImage';
+import { isEventPast, eventSortValue } from '../lib/eventStatus';
+import { slugifyRegion } from '../lib/slug';
+import { useTranslations, localizePath, type Lang } from '../i18n/utils';
+import { localizePlace } from '../i18n/places';
+import { localizeBlurb } from '../i18n/countryBlurbs';
+import { loadCardTranslations, cardHelpers } from '../i18n/cards';
+
+// Shared country-hub body for /destinations/<country> (en) and
+// /[lang]/destinations/<country>. Country name via localizePlace, blurb via
+// localizeBlurb, all chrome via t(); post cards + region tiles link to the
+// localized URL when a translation exists.
+interface Props {
+  country: any;
+  posts: any[];
+  lang: Lang;
+}
+const { country, posts, lang } = Astro.props;
+const t = useTranslations(lang);
+const countryLabel = localizePlace(country.name, lang);
+const blurb = localizeBlurb(country.slug, country.blurb, lang);
+const tr = await loadCardTranslations(lang);
+const card = cardHelpers(tr, lang);
+
+const wallThumb = (url: string) => (url ? `/wall/${createHash('sha1').update(url).digest('hex').slice(0, 16)}.webp` : '');
+
+const regionCounts = new Map<string, number>();
+for (const p of posts) regionCounts.set(p.data.region, (regionCounts.get(p.data.region) ?? 0) + 1);
+const majorOrder = (country.regions ?? []).slice(0, 3);
+const isMajor = (r: string) => majorOrder.includes(r);
+const majors = majorOrder.filter((r: string) => regionCounts.has(r));
+const others = [...regionCounts.keys()]
+  .filter((r) => !majorOrder.includes(r))
+  .sort((a, b) => a.localeCompare(b));
+const regionsWithPosts = [...majors, ...others];
+const latest = posts
+  .filter((p) => p.data.category !== 'event')
+  .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
+const upcomingEvents = posts
+  .filter((p) => p.data.category === 'event' && !isEventPast(p.data))
+  .sort((a, b) => eventSortValue(a.data) - eventSortValue(b.data))
+  .slice(0, 6);
+const essentialsSlugs = new Set(
+  (await getCollection('essentials', ({ data }) => !data.draft)).map((e) => e.id)
+);
+const hasEssentials = essentialsSlugs.has(country.slug);
+const regionImage = (r: string) => wallThumb(pickRepHeroUrl(posts.filter((p) => p.data.region === r)));
+
+const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
+const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
+
+const countryEventCount = posts.filter((p) => p.data.category === 'event').length;
+const eventsHref = countryEventCount >= 2 ? localizePath(`/events/${country.slug}`, lang) : localizePath('/events', lang);
+const leadCity = (country.regions ?? [])[0] ?? country.name;
+const klookCountry = `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7Cpid%7C754088&k_site=${encodeURIComponent(`https://www.klook.com/en-US/search/?query=${leadCity}`)}`;
+const hotelCountry = `https://search.hotellook.com/?marker=754088&destination=${encodeURIComponent(country.name)}`;
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'CollectionPage', name: `${countryLabel} — ${t('nav.destinations')}`, description: blurb, url: pageUrl, isPartOf: { '@id': `${site}/#site` } },
+    { '@type': 'BreadcrumbList', itemListElement: [
+      { '@type': 'ListItem', position: 1, name: t('post.home'), item: new URL(localizePath('/', lang), Astro.site).toString() },
+      { '@type': 'ListItem', position: 2, name: t('nav.destinations'), item: new URL(localizePath('/destinations', lang), Astro.site).toString() },
+      { '@type': 'ListItem', position: 3, name: countryLabel, item: pageUrl },
+    ] },
+    ...(posts.length ? [{ '@type': 'ItemList', itemListElement: latest.map((p, i) => ({ '@type': 'ListItem', position: i + 1, url: new URL(card.href(p.id), Astro.site).toString(), name: card.title(p.id, p.data.title) })) }] : []),
+  ],
+};
+
+const metaTitle = `${countryLabel} — ${t('nav.destinations')}`;
+---
+
+<BaseLayout
+  title={metaTitle}
+  description={blurb?.slice(0, 155) ?? countryLabel}
+  jsonLd={jsonLd}
+  localized={true}
+>
+  <section class="page-hero">
+    <div class="wrap">
+      <p class="eyebrow"><Flag code={country.iso2} size="1.4em" class="flag-ico" /> {t('dest.eyebrow')}</p>
+      <h1>{countryLabel}</h1>
+      <p class="region-blurb">{blurb}</p>
+      {posts.length > 0 && (
+        <p class="hub-meta">{t('dest.hubMeta').replace('{n}', String(posts.length))}</p>
+      )}
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      {posts.length === 0 ? (
+        <div class="fact-box" style="text-align:center">
+          <p>{t('dest.comingSoon').replace('{country}', countryLabel)}</p>
+        </div>
+      ) : (
+        <>
+          {regionsWithPosts.length > 0 && (
+            <div class="region-group">
+              <h2>{t('dest.whereToGo')}</h2>
+              <div class="region-grid">
+                {regionsWithPosts.map((r) => (
+                  <a class:list={['region-tile', { 'is-major': isMajor(r) }]} href={localizePath(`/regions/${slugifyRegion(r)}/`, lang)} style={regionImage(r) ? `background-image:url(${regionImage(r)})` : ''}><span>{localizePlace(r, lang)}</span></a>
+                ))}
+              </div>
+            </div>
+          )}
+
+          {upcomingEvents.length > 0 && (
+            <div class="region-group">
+              <h2>{t('dest.whatsOn').replace('{country}', countryLabel)}</h2>
+              <div class="grid">
+                {upcomingEvents.map((post) => (
+                  <PostCard
+                    href={card.href(post.id)}
+                    title={card.title(post.id, post.data.title)}
+                    description={card.desc(post.id, post.data.description)}
+                    region={post.data.region}
+                    category={post.data.category}
+                    image={post.data.heroImage?.url}
+                    eventEndDate={post.data.eventEndDate}
+                  />
+                ))}
+              </div>
+              <p style="margin-top:1rem"><a href={eventsHref} class="rule-link">{t('dest.allEvents').replace('{country}', countryLabel)}</a></p>
+            </div>
+          )}
+
+          <div class="region-group">
+            <h2>{t('dest.latest').replace('{country}', countryLabel)}</h2>
+            <div class="grid">
+              {latest.slice(0, 12).map((post) => (
+                <PostCard
+                  href={card.href(post.id)}
+                  title={card.title(post.id, post.data.title)}
+                  description={card.desc(post.id, post.data.description)}
+                  region={post.data.region}
+                  category={post.data.category}
+                  image={post.data.heroImage?.url}
+                  eventEndDate={post.data.eventEndDate}
+                />
+              ))}
+            </div>
+          </div>
+
+          {hasEssentials && (
+            <div class="region-group">
+              <h2>{t('dest.beforeYouGo')}</h2>
+              <a class="essential-card" href={localizePath(`/essentials/${country.slug}`, lang)} style="max-width:560px">
+                <span class="ico"><Emoji name="compass" /></span>
+                <div><h3>{t('dest.essentialsCard').replace('{country}', countryLabel)}</h3><p>{t('dest.essentialsCardDesc')}</p></div>
+              </a>
+            </div>
+          )}
+
+          <div class="book-cta">
+            <span class="book-cta-label">{t('post.planningTrip').replace('{region}', countryLabel)}</span>
+            <div class="book-cta-btns">
+              <a class="book-btn book-btn-primary" href={klookCountry} target="_blank" rel="sponsored noopener"><Emoji name="admission-tickets" /> {t('post.thingsToDo')}</a>
+              <a class="book-btn" href={hotelCountry} target="_blank" rel="sponsored noopener"><Emoji name="hotel" /> {t('post.findHotels')}</a>
+              <a class="book-btn" href={localizePath('/flights', lang)} rel="sponsored noopener"><Emoji name="airplane" /> {t('nav.flights')}</a>
+            </div>
+          </div>
+        </>
+      )}
+    </div>
+  </section>
+
+  <Newsletter
+    lang={lang}
+    heading={t('post.planningTrip').replace('{region}', countryLabel)}
+    dek={t('dest.newsletterDek').replace('{country}', countryLabel)}
+  />
+</BaseLayout>

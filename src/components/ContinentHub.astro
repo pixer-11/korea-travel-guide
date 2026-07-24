@@ -1,0 +1,97 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Flag from './Flag.astro';
+import Emoji from './Emoji.astro';
+import { SITE } from '../siteConfig';
+import { pickRepHeroUrl } from '../lib/repImage';
+import { useTranslations, localizePath, type Lang } from '../i18n/utils';
+import { localizePlace } from '../i18n/places';
+import { localizeBlurb } from '../i18n/countryBlurbs';
+
+// Shared continent hub for /continents/<c> (en) + /[lang]/continents/<c>.
+interface Props { continentName: string; countries: any[]; lang: Lang }
+const { continentName, countries, lang } = Astro.props;
+const t = useTranslations(lang);
+const contLabelName = t(`continent.${continentName}` as any);
+
+const CONTINENT_ICON: Record<string, string> = { Asia: 'globe-showing-asia-australia', Europe: 'globe-showing-europe-africa', 'North America': 'globe-showing-americas', 'South America': 'globe-showing-americas', Africa: 'globe-showing-europe-africa', Oceania: 'globe-showing-asia-australia', Other: 'world-map' };
+const liveCount = countries.filter((c) => c.count > 0).length;
+const guideTotal = countries.reduce((n, c) => n + c.count, 0);
+const contIcon = CONTINENT_ICON[continentName] ?? 'world-map';
+
+const posts = await getCollection('posts', ({ data }) => !data.draft);
+posts.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
+const names = new Set(countries.map((c) => c.name));
+const heroPost = posts.find(
+  (p) => names.has(p.data.country ?? 'South Korea') && p.data.heroImage?.url && !p.data.heroImage.url.includes('placeholder')
+);
+const heroImg = heroPost?.data.heroImage?.url ?? '';
+const repImage = (name: string) => pickRepHeroUrl(posts.filter((p) => (p.data.country ?? 'South Korea') === name));
+
+const liveText = liveCount > 0
+  ? `${t('cont.countriesLive').replace('{n}', String(liveCount))}${guideTotal ? ` · ${t('home.guides').replace('{n}', String(guideTotal))}` : ''} — ${t('cont.pickToStart')}`
+  : t('cont.onTheWay');
+
+const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
+const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'CollectionPage', name: `${contLabelName} — ${t('nav.destinations')}`, description: liveText, url: pageUrl, isPartOf: { '@id': `${site}/#site` } },
+    { '@type': 'BreadcrumbList', itemListElement: [
+      { '@type': 'ListItem', position: 1, name: t('post.home'), item: new URL(localizePath('/', lang), Astro.site).toString() },
+      { '@type': 'ListItem', position: 2, name: t('nav.destinations'), item: new URL(localizePath('/destinations', lang), Astro.site).toString() },
+      { '@type': 'ListItem', position: 3, name: contLabelName, item: pageUrl },
+    ] },
+  ],
+};
+---
+
+<BaseLayout
+  title={`${contLabelName} — ${t('nav.destinations')}`}
+  description={`${SITE.name} · ${contLabelName} · ${liveText}`}
+  image={heroImg || undefined}
+  jsonLd={jsonLd}
+  localized={true}
+>
+  <section class:list={['page-hero', { 'page-hero--photo': heroImg }]} style={heroImg ? `background-image:linear-gradient(180deg,rgba(20,20,25,.55),rgba(20,20,25,.78)),url(${heroImg});background-size:cover;background-position:center;` : ''}>
+    <div class="wrap">
+      <p class="eyebrow"><a href={localizePath('/destinations', lang)}>{t('nav.destinations')}</a> · <Emoji name={contIcon} /> {t('cont.label')}</p>
+      <h1>{contLabelName}</h1>
+      <p>{liveText}</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <div class="country-grid">
+        {countries.map((c) => (
+          c.count > 0 ? (
+            <a class="country-card is-live" href={localizePath(`/destinations/${c.slug}`, lang)}>
+              <div class="country-photo" style={`background-image:url(${repImage(c.name)})`}>
+                <span class="country-flag"><Flag code={c.iso2} /></span>
+              </div>
+              <div class="country-body">
+                <h3>{localizePlace(c.name, lang)}</h3>
+                <p>{localizeBlurb(c.slug, c.blurb, lang)}</p>
+                <span class="country-meta">{t('home.guides').replace('{n}', String(c.count))} →</span>
+              </div>
+            </a>
+          ) : (
+            <div class="country-card is-soon">
+              <div class="country-photo"><span class="country-flag"><Flag code={c.iso2} /></span></div>
+              <div class="country-body">
+                <h3>{localizePlace(c.name, lang)}</h3>
+                <p>{localizeBlurb(c.slug, c.blurb, lang)}</p>
+                <span class="country-meta">{t('home.comingSoon')}</span>
+              </div>
+            </div>
+          )
+        ))}
+      </div>
+
+      <p class="continent-back"><a href={localizePath('/destinations', lang)}>{t('cont.allContinents')}</a></p>
+    </div>
+  </section>
+</BaseLayout>

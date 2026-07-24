@@ -8,18 +8,23 @@
 // redirect (pid 754088 → preserves attribution). UPGRADE PLAN: switch to
 // Hotels.com once traffic unlocks it (~3 months) for better hotel-specific rates.
 import Emoji from './Emoji.astro';
+import { getLangFromUrl, useTranslations } from '../i18n/utils';
+import { localizePlace } from '../i18n/places';
 interface Props { city: string; country?: string }
 const { city, country } = Astro.props;
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+const cityLabel = localizePlace(city, lang);
 const klookSearch = `https://www.klook.com/en-US/search/?query=${city} hotels`;
 const href = `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7Cpid%7C754088&k_site=${encodeURIComponent(klookSearch)}`;
 ---
 <section class="tp-hotels">
-  <div class="rule-head"><span class="kicker">Where to stay in {city}</span></div>
+  <div class="rule-head"><span class="kicker">{t('widget.whereToStay').replace('{city}', cityLabel)}</span></div>
   <div class="hotels-cta">
-    <p>Compare hotels and stays in {city} — deals, ratings, and real traveler reviews.</p>
-    <a class="btn btn-primary" href={href} target="_blank" rel="sponsored noopener"><Emoji name="hotel" /> Search hotels in {city} &rarr;</a>
+    <p>{t('widget.hotelsDesc').replace('{city}', cityLabel)}</p>
+    <a class="btn btn-primary" href={href} target="_blank" rel="sponsored noopener"><Emoji name="hotel" /> {t('widget.searchHotels').replace('{city}', cityLabel)}</a>
   </div>
-  <p class="tp-disclosure">Booking links are affiliate links — booking through them supports our free guides at no extra cost to you.</p>
+  <p class="tp-disclosure">{t('widget.hotelsDisclosure')}</p>
 </section>
 
 <style>

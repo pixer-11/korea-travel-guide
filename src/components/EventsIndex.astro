@@ -1,0 +1,136 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostCard from './PostCard.astro';
+import Newsletter from './Newsletter.astro';
+import Flag from './Flag.astro';
+import { SITE } from '../siteConfig';
+import { isEventPast, eventSortValue } from '../lib/eventStatus';
+import countriesData from '../../data/countries.json';
+import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
+import { localizePlace } from '../i18n/places';
+import { loadCardTranslations, cardHelpers } from '../i18n/cards';
+
+// Shared /events index for en + /[lang]/events.
+interface Props { lang: Lang }
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+const tr = await loadCardTranslations(lang);
+const card = cardHelpers(tr, lang);
+
+const all = await getCollection('posts', ({ data }) => !data.draft && data.category === 'event');
+const today = new Date();
+const upcoming = all
+  .filter((p) => !isEventPast(p.data, today))
+  .sort((a, b) => eventSortValue(a.data, today) - eventSortValue(b.data, today));
+const past = all
+  .filter((p) => isEventPast(p.data, today))
+  .sort((a, b) => eventSortValue(a.data, today) - eventSortValue(b.data, today));
+
+const countries = new Set(upcoming.map((p) => p.data.country ?? 'South Korea')).size;
+
+const slugByName = new Map(countriesData.countries.map((c) => [c.name, c]));
+const evCount = new Map<string, number>();
+for (const p of all) {
+  const n = p.data.country ?? 'South Korea';
+  evCount.set(n, (evCount.get(n) ?? 0) + 1);
+}
+const upCount = new Map<string, number>();
+for (const p of upcoming) {
+  const n = p.data.country ?? 'South Korea';
+  upCount.set(n, (upCount.get(n) ?? 0) + 1);
+}
+const countryLinks = [...evCount.entries()]
+  .filter(([name, n]) => n >= 2 && slugByName.has(name))
+  .map(([name]) => ({ name, slug: slugByName.get(name)!.slug, flag: slugByName.get(name)!.iso2, up: upCount.get(name) ?? 0 }))
+  .sort((a, b) => b.up - a.up || a.name.localeCompare(b.name));
+
+const monthLabel = (d: any) =>
+  d ? new Date(d).toLocaleDateString(localeCodes[lang], { month: 'long', year: 'numeric' }) : t('ev.dateTBA');
+const byMonth = new Map<string, any[]>();
+for (const p of upcoming) {
+  const k = p.data.eventStartDate ? monthLabel(p.data.eventStartDate) : t('ev.dateTBA');
+  (byMonth.get(k) || byMonth.set(k, []).get(k)).push(p);
+}
+
+const cardProps = (post: any) => ({
+  href: card.href(post.id),
+  title: card.title(post.id, post.data.title),
+  description: card.desc(post.id, post.data.description),
+  region: `${localizePlace(post.data.region, lang)} · ${localizePlace(post.data.country ?? 'South Korea', lang)}`,
+  category: post.data.category,
+  image: post.data.heroImage?.url,
+  eventEndDate: post.data.eventEndDate,
+});
+
+const summary = t('ev.summaryGlobal').replace('{n}', String(upcoming.length)).replace('{c}', String(countries));
+
+const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
+const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'CollectionPage', name: t('ev.upcoming'), description: summary, url: pageUrl, isPartOf: { '@id': `${site}/#site` } },
+    { '@type': 'BreadcrumbList', itemListElement: [
+      { '@type': 'ListItem', position: 1, name: t('post.home'), item: new URL(localizePath('/', lang), Astro.site).toString() },
+      { '@type': 'ListItem', position: 2, name: t('nav.events'), item: pageUrl },
+    ] },
+    ...(upcoming.length ? [{ '@type': 'ItemList', itemListElement: upcoming.map((p, i) => ({ '@type': 'ListItem', position: i + 1, url: new URL(card.href(p.id), Astro.site).toString(), name: card.title(p.id, p.data.title) })) }] : []),
+  ],
+};
+---
+
+<BaseLayout
+  title={`${t('ev.upcoming')} — ${SITE.name}`}
+  description={summary}
+  jsonLd={jsonLd}
+  localized={true}
+>
+  <section class="page-hero">
+    <div class="wrap">
+      <p class="eyebrow">{t('nav.events')}</p>
+      <h1>{t('ev.upcoming')}</h1>
+      <p>{summary}</p>
+      {countryLinks.length > 1 && (
+        <p class="event-country-nav">
+          {t('ev.browseByCountry')}{' '}
+          {countryLinks.map((c, i) => (
+            <>{i > 0 && <span aria-hidden="true"> · </span>}<a href={localizePath(`/events/${c.slug}`, lang)} class="rule-link"><Flag code={c.flag} size="1em" class="flag-ico" /> {localizePlace(c.name, lang)}</a></>
+          ))}
+        </p>
+      )}
+    </div>
+  </section>
+
+  {upcoming.length === 0 && (
+    <section class="section"><div class="wrap"><div class="fact-box" style="text-align:center"><p>{t('ev.noneGlobal')}</p></div></div></section>
+  )}
+
+  {[...byMonth].map(([month, items]) => (
+    <section class="section">
+      <div class="wrap">
+        <div class="rule-head"><span class="kicker">{month}</span></div>
+        <div class="grid">
+          {items.map((post) => <PostCard {...cardProps(post)} />)}
+        </div>
+      </div>
+    </section>
+  ))}
+
+  {past.length > 0 && (
+    <section class="section band">
+      <div class="wrap">
+        <div class="rule-head"><span class="kicker">{t('ev.pastEvents')}</span></div>
+        <div class="grid">
+          {past.map((post) => <PostCard {...cardProps(post)} />)}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <Newsletter
+    lang={lang}
+    heading={t('ev.neverMissGlobal')}
+    dek={t('ev.neverMissDekGlobal')}
+  />
+</BaseLayout>

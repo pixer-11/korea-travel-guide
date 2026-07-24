@@ -170,7 +170,7 @@ const metaDesc = info?.blurb?.slice(0, 155) ?? t('region.metaDesc').replace('{re
           </div>
           {g.roundup && g.items.length >= 4 && (
             <p class="see-all">
-              <a href={`/regions/${slugifyRegion(region)}/${g.roundup}/`}>{t('region.seeAll').replace('{n}', String(g.items.length))}</a>
+              <a href={localizePath(`/regions/${slugifyRegion(region)}/${g.roundup}/`, lang)}>{t('region.seeAll').replace('{n}', String(g.items.length))}</a>
             </p>
           )}
         </div>

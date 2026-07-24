@@ -1,0 +1,13 @@
+---
+import DestinationsIndex from '../../../components/DestinationsIndex.astro';
+import type { Lang } from '../../../i18n/utils';
+
+export function getStaticPaths() {
+  const LANGS: Lang[] = ['ko', 'ja', 'es', 'zh'];
+  return LANGS.map((lang) => ({ params: { lang }, props: { lang } }));
+}
+
+const { lang } = Astro.props;
+---
+
+<DestinationsIndex lang={lang} />

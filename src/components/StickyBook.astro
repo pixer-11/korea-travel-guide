@@ -4,15 +4,17 @@
 // gives a persistent, thumb-reachable booking CTA (most travel traffic is
 // mobile). City/place-specific Klook + Hotellook links, rel="sponsored".
 import Emoji from './Emoji.astro';
+import { getLangFromUrl, useTranslations } from '../i18n/utils';
 interface Props { city: string; place?: string }
 const { city, place } = Astro.props;
+const t = useTranslations(getLangFromUrl(Astro.url));
 const q = place || city;
 const klook = `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7Cpid%7C754088&k_site=${encodeURIComponent(`https://www.klook.com/en-US/search/?query=${q}`)}`;
 const hotel = `https://search.hotellook.com/?marker=754088&destination=${encodeURIComponent(city)}`;
 ---
 <div class="sticky-book" data-sticky-book hidden aria-hidden="true">
-  <a class="sb-btn sb-primary" href={klook} target="_blank" rel="sponsored noopener"><Emoji name="admission-tickets" /> Tours & tickets</a>
-  <a class="sb-btn" href={hotel} target="_blank" rel="sponsored noopener"><Emoji name="hotel" /> Hotels</a>
+  <a class="sb-btn sb-primary" href={klook} target="_blank" rel="sponsored noopener"><Emoji name="admission-tickets" /> {t('widget.toursLabel')}</a>
+  <a class="sb-btn" href={hotel} target="_blank" rel="sponsored noopener"><Emoji name="hotel" /> {t('widget.hotelsShort')}</a>
 </div>
 
 <script>

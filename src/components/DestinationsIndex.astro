@@ -1,0 +1,97 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Flag from './Flag.astro';
+import { SITE } from '../siteConfig';
+import { pickRepHeroUrl } from '../lib/repImage';
+import countriesData from '../../data/countries.json';
+import { useTranslations, localizePath, type Lang } from '../i18n/utils';
+import { localizePlace } from '../i18n/places';
+import { localizeBlurb } from '../i18n/countryBlurbs';
+
+// Shared /destinations index for en + /[lang]/destinations. Groups countries by
+// continent; names/blurbs/continent labels are localized.
+interface Props { lang: Lang }
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+const contLabel = (name: string) => t(`continent.${name}` as any);
+
+const posts = await getCollection('posts', ({ data }) => !data.draft);
+posts.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
+const countFor = (name: string) => posts.filter((p) => (p.data.country ?? 'South Korea') === name).length;
+const repImage = (name: string) => pickRepHeroUrl(posts.filter((p) => (p.data.country ?? 'South Korea') === name));
+const countries = countriesData.countries.map((c) => ({ ...c, count: countFor(c.name) }));
+
+const CONTINENT_ORDER = ['Asia', 'Europe', 'North America', 'South America', 'Africa', 'Oceania', 'Other'];
+const byContinent: Record<string, any[]> = {};
+for (const c of countries) (byContinent[c.continent || 'Other'] ||= []).push(c);
+const continents = CONTINENT_ORDER.filter((k) => byContinent[k]).map((k) => ({
+  name: k,
+  slug: k.toLowerCase().replace(/\s+/g, '-'),
+  countries: byContinent[k].sort((a, b) => b.count - a.count || a.name.localeCompare(b.name)),
+}));
+const liveTotal = countries.filter((c) => c.count > 0).length;
+
+const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
+const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'CollectionPage', name: t('nav.destinations'), description: t('dest.indexDek'), url: pageUrl, isPartOf: { '@id': `${site}/#site` } },
+    { '@type': 'BreadcrumbList', itemListElement: [
+      { '@type': 'ListItem', position: 1, name: t('post.home'), item: new URL(localizePath('/', lang), Astro.site).toString() },
+      { '@type': 'ListItem', position: 2, name: t('nav.destinations'), item: pageUrl },
+    ] },
+  ],
+};
+---
+
+<BaseLayout
+  title={`${t('nav.destinations')} — ${t('dest.indexTitle')}`}
+  description={`${SITE.name} · ${t('dest.indexDek')}`}
+  jsonLd={jsonLd}
+  localized={true}
+>
+  <section class="page-hero">
+    <div class="wrap">
+      <p class="eyebrow">{t('nav.destinations')}</p>
+      <h1>{t('dest.indexTitle')}</h1>
+      <p>{t('dest.indexDek')}</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      {continents.map((cont) => (
+        <div class="region-group">
+          <div class="rule-head"><a class="kicker" href={localizePath(`/continents/${cont.slug}`, lang)}>{contLabel(cont.name)} →</a></div>
+          <div class="country-grid">
+            {cont.countries.map((c) => (
+              c.count > 0 ? (
+                <a class="country-card is-live" href={localizePath(`/destinations/${c.slug}`, lang)}>
+                  <div class="country-photo" style={`background-image:url(${repImage(c.name)})`}>
+                    <span class="country-flag"><Flag code={c.iso2} /></span>
+                  </div>
+                  <div class="country-body">
+                    <h3>{localizePlace(c.name, lang)}</h3>
+                    <p>{localizeBlurb(c.slug, c.blurb, lang)}</p>
+                    <span class="country-meta">{t('home.guides').replace('{n}', String(c.count))} →</span>
+                  </div>
+                </a>
+              ) : (
+                <div class="country-card is-soon">
+                  <div class="country-photo"><span class="country-flag"><Flag code={c.iso2} /></span></div>
+                  <div class="country-body">
+                    <h3>{localizePlace(c.name, lang)}</h3>
+                    <p>{localizeBlurb(c.slug, c.blurb, lang)}</p>
+                    <span class="country-meta">{t('home.comingSoon')}</span>
+                  </div>
+                </div>
+              )
+            ))}
+          </div>
+        </div>
+      ))}
+    </div>
+  </section>
+</BaseLayout>

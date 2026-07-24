@@ -1,14 +1,12 @@
 ---
 import { getCollection } from 'astro:content';
-import RoundupHub from '../../../components/RoundupHub.astro';
-import { slugifyRegion } from '../../../lib/slug';
+import RoundupHub from '../../../../components/RoundupHub.astro';
+import { slugifyRegion } from '../../../../lib/slug';
+import type { Lang } from '../../../../i18n/utils';
 
-// City roundup hubs: "N Best Restaurants in Busan", ranked from EXISTING venue
-// posts. Auto-maintained — every build re-collects the city's posts and re-ranks
-// them. A city only gets a hub for a category once it has >= MIN posts.
+// Localized city roundup hubs: /ko/regions/busan/best-restaurants, /ja/…, etc.
 export async function getStaticPaths() {
-  // Defined INSIDE getStaticPaths — Astro bundles this function on its own, so it
-  // can't see component top-level consts (they come back "not defined" here).
+  const LANGS: Lang[] = ['ko', 'ja', 'es', 'zh'];
   const ROUNDUPS = {
     'things-to-do': { cats: ['attraction'], label: 'Things to Do', word: 'attractions' },
     'best-restaurants': { cats: ['restaurant'], label: 'Restaurants', word: 'restaurants' },
@@ -19,21 +17,26 @@ export async function getStaticPaths() {
   const score = (p) => (p.data.place?.rating ?? 0) * Math.log10((p.data.place?.userRatingsTotal ?? 0) + 10);
   const posts = await getCollection('posts', ({ data }) => !data.draft);
   const regions = [...new Set(posts.map((p) => p.data.region))].filter((r) => r && !r.includes('/'));
-  const paths = [];
+  const base = [];
   for (const region of regions) {
     for (const [key, cfg] of Object.entries(ROUNDUPS)) {
       const items = posts
         .filter((p) => p.data.region === region && cfg.cats.includes(p.data.category))
         .sort((a, b) => score(b) - score(a));
       if (items.length >= MIN) {
-        paths.push({ params: { region: slugifyRegion(region), roundup: key }, props: { region, key, items, cfg } });
+        base.push({ region, key, cfg, items, slug: slugifyRegion(region) });
       }
     }
   }
-  return paths;
+  return LANGS.flatMap((lang) =>
+    base.map(({ region, key, cfg, items, slug }) => ({
+      params: { lang, region: slug, roundup: key },
+      props: { region, key, items, cfg, lang },
+    }))
+  );
 }
 
-const { region, key, items, cfg } = Astro.props;
+const { region, key, items, cfg, lang } = Astro.props;
 ---
 
-<RoundupHub region={region} key={key} items={items} cfg={cfg} lang="en" />
+<RoundupHub region={region} key={key} items={items} cfg={cfg} lang={lang} />
