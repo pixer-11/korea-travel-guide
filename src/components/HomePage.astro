@@ -92,7 +92,7 @@ const koreaLinks = [
         <a class="cover-cta" href="/destinations">{t('home.exploreDestinations')} <span class="arw">→</span></a>
         {cover && <a class="cover-cta cover-cta-soft" href={`/posts/${cover.id}`}>{t('home.featured')}: {cover.data.region} <span class="arw">→</span></a>}
       </div>
-      <p class="cover-scale">In-depth guides across 17 countries · updated daily · facts checked against live data</p>
+      <p class="cover-scale">{t('home.trustBar').replace('{n}', String(live.length))}</p>
     </div>
   </section>
 
@@ -146,7 +146,7 @@ const koreaLinks = [
         <span class="kicker">{t('home.destinations')}</span>
         <a href="/destinations" class="rule-link">{t('nav.allDestinations')} →</a>
       </div>
-      <p class="bento-note">{live.length} {t('home.bentoNote')}</p>
+      <p class="bento-note">{t('home.bentoNote').replace('{n}', String(live.length))}</p>
       <div class="dest-bento">
         {live.map((c, i) => (
           <a class:list={['dest-tile', 'dest-live', { 'dest-feat': i === 0 }]} href={`/destinations/${c.slug}`} style={`background-image:url(${repImage(c.name)})`}>
@@ -154,7 +154,7 @@ const koreaLinks = [
             <div class="dest-tile-inner">
               <span class="dest-flag"><Flag code={c.iso2} /></span>
               <h3>{c.name}</h3>
-              <p>{c.count} {t('home.guides')} →</p>
+              <p>{t('home.guides').replace('{n}', String(c.count))} →</p>
             </div>
           </a>
         ))}

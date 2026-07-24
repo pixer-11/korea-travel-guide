@@ -99,4 +99,23 @@ const essentials = defineCollection({
   }),
 });
 
-export const collections = { posts, essentials };
+// Translated post TEXT (ko/ja/es/zh), one file per language per post at
+// src/content/i18n/<lang>/<post-id>.md. Deliberately stores ONLY prose — the
+// hard facts (place, rating, address, hours, images, dates) are always read from
+// the original English post at render time, so a translation can never drift from
+// or contradict the verified Places data. Written by scripts/translate-posts.mjs.
+const postI18n = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/i18n' }),
+  schema: z.object({
+    lang: z.enum(['ko', 'ja', 'es', 'zh']),
+    slug: z.string(), // id of the source post in the `posts` collection
+    title: z.string(),
+    description: z.string(),
+    quickAnswer: z.string().optional(),
+    faq: z.array(z.object({ q: z.string(), a: z.string() })).default([]),
+    // Set when a re-translation is needed because the English post changed.
+    sourceUpdated: z.string().optional(),
+  }),
+});
+
+export const collections = { posts, essentials, postI18n };
