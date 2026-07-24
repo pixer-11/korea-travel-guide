@@ -14,3 +14,7 @@ test('empty region becomes empty string (global)', () => {
   assert.equal(f.region, '');
   assert.equal(f.lang, 'en');
 });
+
+test('folds diacritics via canonical slugger', () => {
+  assert.equal(interestFields({ region: 'Alcañiz', lang: 'en' }).region, 'alcaniz');
+});

@@ -45,7 +45,7 @@ const bySourceThenDate = (a, b) =>
   heroSourceRank(a.data.heroImage) - heroSourceRank(b.data.heroImage) || byPubDesc(a, b);
 
 function card(p) {
-  return { slug: p.slug, title: p.data.title, category: p.data.category, image: p.data.heroImage, region: p.data.region };
+  return { slug: p.slug, title: p.data.title, category: p.data.category, image: p.data.heroImage, region: p.data.region, dek: p.data.description || '' };
 }
 
 // Selection for ONE single-region audience. Pure: takes an already-loaded posts

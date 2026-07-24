@@ -10,6 +10,7 @@ function storyCard(s, c, links) {
     <img src="${img(s.image)}" width="520" alt="${esc(s.title)}" style="width:100%;max-width:520px;height:auto;border-radius:6px;display:block;" />
     <div style="font-family:Helvetica,Arial,sans-serif;font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:${P.acc};font-weight:700;margin-top:14px;">${esc(s.category)}</div>
     <h3 style="margin:6px 0 0;font-size:22px;font-weight:400;line-height:1.2;color:${P.ink};">${esc(s.title)}</h3>
+    ${s.dek ? `<p style="font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:1.6;color:#4a443c;margin:9px 0 0;">${esc(s.dek)}</p>` : ''}
     <a href="${esc(links.story(s.slug))}" style="font-family:Helvetica,Arial,sans-serif;display:inline-block;margin-top:12px;font-size:12px;font-weight:700;color:${P.accd};text-decoration:none;border-bottom:1px solid #d8b6b2;padding-bottom:2px;">${esc(c.read)}</a>
   </td></tr>
   <tr><td style="padding:0 40px;"><div style="height:1px;background:${P.gold};opacity:.5;"></div></td></tr>`;

@@ -19,6 +19,7 @@ test('subject and preheader are localized', () => {
 });
 
 test('html contains hero image, every story title, events section, unsubscribe, preheader', () => {
+  edition.hero.dek = 'A wind-tower courtyard lunch';
   const { html } = renderSingleRegion({ edition, region: 'Dubai', lang: 'en', links });
   assert.match(html, /photo-hero/);
   assert.match(html, /Al Khayma Heritage Restaurant/);
@@ -27,6 +28,7 @@ test('html contains hero image, every story title, events section, unsubscribe, 
   assert.match(html, /Upcoming events/);
   assert.match(html, /https:\/\/x\/unsub/);
   assert.match(html, /Al Khayma Heritage Restaurant/);
+  assert.match(html, /A wind-tower courtyard lunch/);
 });
 
 test('no events section when there are no events', () => {
