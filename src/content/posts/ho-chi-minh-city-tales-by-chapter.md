@@ -6,10 +6,10 @@ region: Ho Chi Minh City
 category: restaurant
 pubDate: '2026-07-23'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Hongqi_H9%2C_Ho_Chi_Minh_City_%28LRM_20230826_155017%29.jpg/1920px-Hongqi_H9%2C_Ho_Chi_Minh_City_%28LRM_20230826_155017%29.jpg"
-  credit: "Photo: MB-one / Wikimedia Commons (CC BY-SA 4.0)"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/B%C3%A1nh_tr%C3%A1ng_n%C6%B0%E1%BB%9Bng_TP._H%E1%BB%93_Ch%C3%AD_Minh_-_street_food_in_Ho_Chi_Minh_City%2C_Vietnam.jpg/1920px-B%C3%A1nh_tr%C3%A1ng_n%C6%B0%E1%BB%9Bng_TP._H%E1%BB%93_Ch%C3%AD_Minh_-_street_food_in_Ho_Chi_Minh_City%2C_Vietnam.jpg"
+  credit: "Photo: Light Write / Wikimedia Commons (CC BY-SA 2.0)"
   license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Hongqi_H9,_Ho_Chi_Minh_City_(LRM_20230826_155017).jpg"
+  source: "https://commons.wikimedia.org/wiki/File:B%C3%A1nh_tr%C3%A1ng_n%C6%B0%E1%BB%9Bng_TP._H%E1%BB%93_Ch%C3%AD_Minh_-_street_food_in_Ho_Chi_Minh_City,_Vietnam.jpg"
 gallery: []
 tags:
   - ho chi minh city

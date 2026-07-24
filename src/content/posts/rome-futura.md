@@ -6,10 +6,10 @@ region: Rome
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/StAngelo_Bridge_Rome.jpg/1920px-StAngelo_Bridge_Rome.jpg"
-  credit: "Photo: AngMoKio / Wikimedia Commons (CC BY-SA 2.5)"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Restaurant_in_Trastevere%2C_Rome_%284789517850%29.jpg/1920px-Restaurant_in_Trastevere%2C_Rome_%284789517850%29.jpg"
+  credit: "Photo: wiccahwang / Wikimedia Commons (CC BY 2.0)"
   license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:StAngelo_Bridge_Rome.jpg"
+  source: "https://commons.wikimedia.org/wiki/File:Restaurant_in_Trastevere,_Rome_(4789517850).jpg"
 gallery: []
 tags:
   - rome

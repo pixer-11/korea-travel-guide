@@ -6,10 +6,10 @@ region: Singapore
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/1_singapore_national_day_parade_2011_fireworks.jpg/1920px-1_singapore_national_day_parade_2011_fireworks.jpg"
-  credit: "Photo: chensiyuan / Wikimedia Commons (CC BY-SA 4.0)"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Hard_Rock_Cafe%2C_Singapore_%284448814810%29.jpg/1920px-Hard_Rock_Cafe%2C_Singapore_%284448814810%29.jpg"
+  credit: "Photo: Andy Mitchell from Glasgow, UK / Wikimedia Commons (CC BY-SA 2.0)"
   license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:1_singapore_national_day_parade_2011_fireworks.jpg"
+  source: "https://commons.wikimedia.org/wiki/File:Hard_Rock_Cafe,_Singapore_(4448814810).jpg"
 gallery: []
 tags:
   - singapore

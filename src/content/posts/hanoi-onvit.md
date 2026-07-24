@@ -6,10 +6,10 @@ region: Hanoi
 category: restaurant
 pubDate: '2026-07-23'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Hanoi_Vietnam_Transport-in-Hanoi-03.jpg/1920px-Hanoi_Vietnam_Transport-in-Hanoi-03.jpg"
-  credit: "Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Street_Food_-_Hanoi_-_Vietnam_%2815852884012%29.jpg/1920px-Street_Food_-_Hanoi_-_Vietnam_%2815852884012%29.jpg"
+  credit: "Photo: Esin Üstün from Istanbul, Turkey / Wikimedia Commons (CC BY 2.0)"
   license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Hanoi_Vietnam_Transport-in-Hanoi-03.jpg"
+  source: "https://commons.wikimedia.org/wiki/File:Street_Food_-_Hanoi_-_Vietnam_(15852884012).jpg"
 gallery: []
 tags:
   - hanoi

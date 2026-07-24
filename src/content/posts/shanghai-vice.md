@@ -6,10 +6,10 @@ region: Shanghai
 category: restaurant
 pubDate: '2026-07-23'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Pudong_Shanghai_November_2017_panorama.jpg/1920px-Pudong_Shanghai_November_2017_panorama.jpg"
-  credit: "Photo: King of Hearts / Wikimedia Commons (CC BY-SA 4.0)"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Shanghai%2C_fast_food_restaurant.jpg/1920px-Shanghai%2C_fast_food_restaurant.jpg"
+  credit: "Photo: Nikolamikovic82 / Wikimedia Commons (CC0)"
   license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Pudong_Shanghai_November_2017_panorama.jpg"
+  source: "https://commons.wikimedia.org/wiki/File:Shanghai,_fast_food_restaurant.jpg"
 gallery: []
 tags:
   - shanghai

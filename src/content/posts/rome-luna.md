@@ -6,10 +6,10 @@ region: Rome
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Rome_%28Italy%29%2C_Piazza_della_Rotonda%2C_Hub_of_a_Coach_--_2013_--_10.jpg/1920px-Rome_%28Italy%29%2C_Piazza_della_Rotonda%2C_Hub_of_a_Coach_--_2013_--_10.jpg"
-  credit: "Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ceiling_Giolitti_Ice_Creams%2C_Rome%2C_Italy.jpg/1920px-Ceiling_Giolitti_Ice_Creams%2C_Rome%2C_Italy.jpg"
+  credit: "Photo: Jebulon / Wikimedia Commons (CC0)"
   license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Rome_(Italy),_Piazza_della_Rotonda,_Hub_of_a_Coach_--_2013_--_10.jpg"
+  source: "https://commons.wikimedia.org/wiki/File:Ceiling_Giolitti_Ice_Creams,_Rome,_Italy.jpg"
 gallery: []
 tags:
   - rome
