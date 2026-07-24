@@ -56,6 +56,24 @@ test('collects upcoming events for the country, not past ones', () => {
   assert.ok(ev.includes('expo') && !ev.includes('old-fest'));
 });
 
+test('excludes an already-sent event from ed.events', () => {
+  const posts = [
+    post('dubai-1'),
+    post('expo', { category: 'event', region: 'Dubai', eventStartDate: new Date('2026-08-10') }),
+  ];
+  const ed = pickSingleRegionEdition({ posts, region: 'Dubai', country: 'UAE', sent: new Set(['expo']), now, minStories: 1 });
+  assert.ok(!ed.events.map((e) => e.slug).includes('expo'), 'already-sent event excluded');
+});
+
+test('includes an upcoming event that matches by country, not region', () => {
+  const posts = [
+    post('dubai-1'),
+    post('sharjah-fest', { category: 'event', region: 'Sharjah', country: 'UAE', eventStartDate: new Date('2026-08-05') }),
+  ];
+  const ed = pickSingleRegionEdition({ posts, region: 'Dubai', country: 'UAE', sent: new Set(), now, minStories: 1 });
+  assert.ok(ed.events.map((e) => e.slug).includes('sharjah-fest'), 'country-matched event included');
+});
+
 test('returns null when no clean hero exists', () => {
   const posts = [post('mothy', { heroImage: moth })];
   const ed = pickSingleRegionEdition({ posts, region: 'Dubai', country: 'UAE', sent: new Set(), now, minStories: 3 });
