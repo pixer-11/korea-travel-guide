@@ -1,0 +1,31 @@
+name: newsletter-weekly
+on:
+  schedule:
+    - cron: '13 23 * * 6'   # Sun 08:13 KST (Sat 23:13 UTC) — dry-run heartbeat
+  workflow_dispatch:
+    inputs:
+      live:
+        description: 'Type true to REALLY send (otherwise dry-run)'
+        required: false
+        default: 'false'
+permissions:
+  contents: write
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+      - uses: actions/setup-node@v4
+        with: { node-version: '20' }
+      - name: Send (or dry-run)
+        run: |
+          if [ "${{ github.event.inputs.live }}" = "true" ]; then
+            node scripts/newsletter-send.mjs --live
+          else
+            node scripts/newsletter-send.mjs
+          fi
+        env:
+          MAILERLITE_API_TOKEN: ${{ secrets.MAILERLITE_API_TOKEN }}
+          NEWSLETTER_FROM_EMAIL: ${{ secrets.NEWSLETTER_FROM_EMAIL }}
+          NEWSLETTER_FROM_NAME: Wander Atlas
