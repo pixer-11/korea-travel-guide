@@ -28,6 +28,22 @@ export function sentSetFor(log, key) {
 const eq = (a, b) => String(a || '').toLowerCase() === String(b || '').toLowerCase();
 const byPubDesc = (a, b) => new Date(b.data.pubDate) - new Date(a.data.pubDate);
 
+// Best-first hero source ranking (spec §4.3): a real self-hosted venue photo,
+// then Google Places, then curated Unsplash/KTO, then a Wikimedia keyword-match
+// fallback LAST — so a restaurant never shows a wikimedia landscape when any
+// better-sourced photo exists. Ties break by newest.
+function heroSourceRank(hero) {
+  const url = (hero && hero.url) || '';
+  const lic = (hero && hero.license) || '';
+  if (url.includes('/venue-photos/')) return 0;
+  if (lic === 'google-places') return 1;
+  if (lic === 'unsplash' || lic === 'kto-open') return 2;
+  if (lic === 'wikimedia') return 3;
+  return 4;
+}
+const bySourceThenDate = (a, b) =>
+  heroSourceRank(a.data.heroImage) - heroSourceRank(b.data.heroImage) || byPubDesc(a, b);
+
 function card(p) {
   return { slug: p.slug, title: p.data.title, category: p.data.category, image: p.data.heroImage, region: p.data.region };
 }
@@ -40,7 +56,7 @@ export function pickSingleRegionEdition({ posts, region, country, sent, now, min
     !sent.has(p.slug) &&
     !isOffTopicHero(p.data.heroImage);
 
-  const inRegion = posts.filter((p) => usable(p) && eq(p.data.region, region)).sort(byPubDesc);
+  const inRegion = posts.filter((p) => usable(p) && eq(p.data.region, region)).sort(bySourceThenDate);
   let chosen = inRegion.slice(0, MAX_STORIES);
 
   // Country top-up when the region alone is thin.
@@ -48,7 +64,7 @@ export function pickSingleRegionEdition({ posts, region, country, sent, now, min
     const chosenSlugs = new Set(chosen.map((p) => p.slug));
     const inCountry = posts
       .filter((p) => usable(p) && !chosenSlugs.has(p.slug) && eq(p.data.country, country) && !eq(p.data.region, region))
-      .sort(byPubDesc);
+      .sort(bySourceThenDate);
     chosen = chosen.concat(inCountry).slice(0, MAX_STORIES);
   }
 

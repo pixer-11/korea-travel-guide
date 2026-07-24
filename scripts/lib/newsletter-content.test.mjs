@@ -74,6 +74,13 @@ test('includes an upcoming event that matches by country, not region', () => {
   assert.ok(ed.events.map((e) => e.slug).includes('sharjah-fest'), 'country-matched event included');
 });
 
+test('prefers a better-source hero over a newer wikimedia fallback', () => {
+  const older = post('unsplash-old', { pubDate: new Date('2026-07-10'), heroImage: { url: 'https://images.unsplash.com/photo-x', credit: 'x', license: 'unsplash' } });
+  const newer = post('wiki-new', { pubDate: new Date('2026-07-24'), heroImage: { url: 'https://upload.wikimedia.org/x/Some_Building.jpg', credit: 'x', license: 'wikimedia' } });
+  const ed = pickSingleRegionEdition({ posts: [newer, older], region: 'Dubai', country: 'UAE', sent: new Set(), now, minStories: 1 });
+  assert.equal(ed.hero.slug, 'unsplash-old', 'curated source beats newer wikimedia fallback');
+});
+
 test('returns null when no clean hero exists', () => {
   const posts = [post('mothy', { heroImage: moth })];
   const ed = pickSingleRegionEdition({ posts, region: 'Dubai', country: 'UAE', sent: new Set(), now, minStories: 3 });
