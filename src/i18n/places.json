@@ -1,0 +1,1064 @@
+{
+  "Abu Dhabi": {
+    "ko": "아부다비",
+    "ja": "アブダビ",
+    "es": "Abu Dabi",
+    "zh": "阿布扎比"
+  },
+  "Agra": {
+    "ko": "아그라",
+    "ja": "アーグラ",
+    "es": "Agra",
+    "zh": "阿格拉"
+  },
+  "Ajman": {
+    "ko": "아지만",
+    "ja": "アジュマーン",
+    "es": "Ajman",
+    "zh": "阿治曼"
+  },
+  "Al Ain": {
+    "ko": "알아인",
+    "ja": "アル・アイン",
+    "es": "Al Ain",
+    "zh": "艾因"
+  },
+  "Alcañiz": {
+    "ko": "알카니스",
+    "ja": "アルカニス",
+    "es": "Alcañiz",
+    "zh": "阿尔卡尼斯"
+  },
+  "Amalfi Coast": {
+    "ko": "아말피 해안",
+    "ja": "アマルフィ海岸",
+    "es": "Costa Amalfitana",
+    "zh": "阿马尔菲海岸"
+  },
+  "Andong": {
+    "ko": "안동",
+    "ja": "安東",
+    "es": "Andong",
+    "zh": "安东"
+  },
+  "Ankara": {
+    "ko": "앙카라",
+    "ja": "アンカラ",
+    "es": "Ankara",
+    "zh": "安卡拉"
+  },
+  "Antalya": {
+    "ko": "안탈리아",
+    "ja": "アンタルヤ",
+    "es": "Antalya",
+    "zh": "安塔利亚"
+  },
+  "Ayutthaya": {
+    "ko": "아유타야",
+    "ja": "アユタヤ",
+    "es": "Ayutthaya",
+    "zh": "大城"
+  },
+  "Bali": {
+    "ko": "발리",
+    "ja": "バリ",
+    "es": "Bali",
+    "zh": "巴厘岛"
+  },
+  "Bandung": {
+    "ko": "반둥",
+    "ja": "バンドン",
+    "es": "Bandung",
+    "zh": "万隆"
+  },
+  "Bangkok": {
+    "ko": "방콕",
+    "ja": "バンコク",
+    "es": "Bangkok",
+    "zh": "曼谷"
+  },
+  "Barcelona": {
+    "ko": "바르셀로나",
+    "ja": "バルセロナ",
+    "es": "Barcelona",
+    "zh": "巴塞罗那"
+  },
+  "Beijing": {
+    "ko": "베이징",
+    "ja": "北京",
+    "es": "Pekín",
+    "zh": "北京"
+  },
+  "Bengaluru": {
+    "ko": "벵갈루루",
+    "ja": "ベンガルール",
+    "es": "Bengaluru",
+    "zh": "班加罗尔"
+  },
+  "Bhubaneswar": {
+    "ko": "부바네스와르",
+    "ja": "ブバネーシュワル",
+    "es": "Bhubaneswar",
+    "zh": "布巴内斯瓦尔"
+  },
+  "Bilbao": {
+    "ko": "빌바오",
+    "ja": "ビルバオ",
+    "es": "Bilbao",
+    "zh": "毕尔巴鄂"
+  },
+  "Bodrum": {
+    "ko": "보드룸",
+    "ja": "ボドルム",
+    "es": "Bodrum",
+    "zh": "博德鲁姆"
+  },
+  "Bohol": {
+    "ko": "보홀",
+    "ja": "ボホール",
+    "es": "Bohol",
+    "zh": "薄荷岛"
+  },
+  "Bologna": {
+    "ko": "볼로냐",
+    "ja": "ボローニャ",
+    "es": "Bolonia",
+    "zh": "博洛尼亚"
+  },
+  "Boracay": {
+    "ko": "보라카이",
+    "ja": "ボラカイ",
+    "es": "Boracay",
+    "zh": "长滩岛"
+  },
+  "Bordeaux": {
+    "ko": "보르도",
+    "ja": "ボルドー",
+    "es": "Burdeos",
+    "zh": "波尔多"
+  },
+  "Boryeong": {
+    "ko": "보령",
+    "ja": "保寧",
+    "es": "Boryeong",
+    "zh": "保宁"
+  },
+  "Boston": {
+    "ko": "보스턴",
+    "ja": "ボストン",
+    "es": "Boston",
+    "zh": "波士顿"
+  },
+  "Busan": {
+    "ko": "부산",
+    "ja": "釜山",
+    "es": "Busan",
+    "zh": "釜山"
+  },
+  "Cannes": {
+    "ko": "칸",
+    "ja": "カンヌ",
+    "es": "Cannes",
+    "zh": "戛纳"
+  },
+  "Cappadocia": {
+    "ko": "카파도키아",
+    "ja": "カッパドキア",
+    "es": "Capadocia",
+    "zh": "卡帕多西亚"
+  },
+  "Cebu": {
+    "ko": "세부",
+    "ja": "セブ",
+    "es": "Cebú",
+    "zh": "宿务"
+  },
+  "Chengdu": {
+    "ko": "청두",
+    "ja": "成都",
+    "es": "Chengdu",
+    "zh": "成都"
+  },
+  "Chiang Mai": {
+    "ko": "치앙마이",
+    "ja": "チェンマイ",
+    "es": "Chiang Mai",
+    "zh": "清迈"
+  },
+  "Chiang Rai": {
+    "ko": "치앙라이",
+    "ja": "チェンライ",
+    "es": "Chiang Rai",
+    "zh": "清莱"
+  },
+  "Chiba": {
+    "ko": "지바",
+    "ja": "千葉",
+    "es": "Chiba",
+    "zh": "千叶"
+  },
+  "Chicago": {
+    "ko": "시카고",
+    "ja": "シカゴ",
+    "es": "Chicago",
+    "zh": "芝加哥"
+  },
+  "China": {
+    "ko": "중국",
+    "ja": "中国",
+    "es": "China",
+    "zh": "中国"
+  },
+  "Chinatown": {
+    "ko": "차이나타운",
+    "ja": "チャイナタウン",
+    "es": "Barrio Chino",
+    "zh": "唐人街"
+  },
+  "Chuncheon": {
+    "ko": "춘천",
+    "ja": "春川",
+    "es": "Chuncheon",
+    "zh": "春川"
+  },
+  "Clarke Quay": {
+    "ko": "클락 키",
+    "ja": "クラークキー",
+    "es": "Clarke Quay",
+    "zh": "克拉码头"
+  },
+  "Da Nang": {
+    "ko": "다낭",
+    "ja": "ダナン",
+    "es": "Da Nang",
+    "zh": "岘港"
+  },
+  "Daegu": {
+    "ko": "대구",
+    "ja": "大邱",
+    "es": "Daegu",
+    "zh": "大邱"
+  },
+  "Damyang": {
+    "ko": "담양",
+    "ja": "潭陽",
+    "es": "Damyang",
+    "zh": "潭阳"
+  },
+  "Davao": {
+    "ko": "다바오",
+    "ja": "ダバオ",
+    "es": "Davao",
+    "zh": "达沃"
+  },
+  "Dubai": {
+    "ko": "두바이",
+    "ja": "ドバイ",
+    "es": "Dubái",
+    "zh": "迪拜"
+  },
+  "Florence": {
+    "ko": "피렌체",
+    "ja": "フィレンツェ",
+    "es": "Florencia",
+    "zh": "佛罗伦萨"
+  },
+  "France": {
+    "ko": "프랑스",
+    "ja": "フランス",
+    "es": "Francia",
+    "zh": "法国"
+  },
+  "Fujairah": {
+    "ko": "푸자이라",
+    "ja": "フジャイラ",
+    "es": "Fuyaira",
+    "zh": "富查伊拉"
+  },
+  "Fukuoka": {
+    "ko": "후쿠오카",
+    "ja": "福岡",
+    "es": "Fukuoka",
+    "zh": "福冈"
+  },
+  "Gangneung": {
+    "ko": "강릉",
+    "ja": "江陵",
+    "es": "Gangneung",
+    "zh": "江陵"
+  },
+  "Gapyeong": {
+    "ko": "가평",
+    "ja": "加平",
+    "es": "Gapyeong",
+    "zh": "加平"
+  },
+  "Goa": {
+    "ko": "고아",
+    "ja": "ゴア",
+    "es": "Goa",
+    "zh": "果阿"
+  },
+  "Goyang": {
+    "ko": "고양",
+    "ja": "高陽",
+    "es": "Goyang",
+    "zh": "高阳"
+  },
+  "Granada": {
+    "ko": "그라나다",
+    "ja": "グラナダ",
+    "es": "Granada",
+    "zh": "格拉纳达"
+  },
+  "Guangzhou": {
+    "ko": "광저우",
+    "ja": "広州",
+    "es": "Cantón",
+    "zh": "广州"
+  },
+  "Guilin": {
+    "ko": "구이린",
+    "ja": "桂林",
+    "es": "Guilin",
+    "zh": "桂林"
+  },
+  "Gyeongju": {
+    "ko": "경주",
+    "ja": "慶州",
+    "es": "Gyeongju",
+    "zh": "庆州"
+  },
+  "Ha Long Bay": {
+    "ko": "하롱베이",
+    "ja": "ハロン湾",
+    "es": "Bahía de Ha Long",
+    "zh": "下龙湾"
+  },
+  "Hangzhou": {
+    "ko": "항저우",
+    "ja": "杭州",
+    "es": "Hangzhou",
+    "zh": "杭州"
+  },
+  "Hanoi": {
+    "ko": "하노이",
+    "ja": "ハノイ",
+    "es": "Hanói",
+    "zh": "河内"
+  },
+  "Hiroshima": {
+    "ko": "히로시마",
+    "ja": "広島",
+    "es": "Hiroshima",
+    "zh": "广岛"
+  },
+  "Ho Chi Minh City": {
+    "ko": "호치민",
+    "ja": "ホーチミン市",
+    "es": "Ciudad Ho Chi Minh",
+    "zh": "胡志明市"
+  },
+  "Hoi An": {
+    "ko": "호이안",
+    "ja": "ホイアン",
+    "es": "Hoi An",
+    "zh": "会安"
+  },
+  "Hong Kong": {
+    "ko": "홍콩",
+    "ja": "香港",
+    "es": "Hong Kong",
+    "zh": "香港"
+  },
+  "Hualien": {
+    "ko": "화롄",
+    "ja": "花蓮",
+    "es": "Hualien",
+    "zh": "花莲"
+  },
+  "Hue": {
+    "ko": "후에",
+    "ja": "フエ",
+    "es": "Hue",
+    "zh": "顺化"
+  },
+  "Hyderabad": {
+    "ko": "하이데라바드",
+    "ja": "ハイデラバード",
+    "es": "Hyderabad",
+    "zh": "海得拉巴"
+  },
+  "Ibiza": {
+    "ko": "이비사",
+    "ja": "イビサ",
+    "es": "Ibiza",
+    "zh": "伊维萨"
+  },
+  "Incheon": {
+    "ko": "인천",
+    "ja": "仁川",
+    "es": "Incheon",
+    "zh": "仁川"
+  },
+  "India": {
+    "ko": "인도",
+    "ja": "インド",
+    "es": "India",
+    "zh": "印度"
+  },
+  "Indonesia": {
+    "ko": "인도네시아",
+    "ja": "インドネシア",
+    "es": "Indonesia",
+    "zh": "印度尼西亚"
+  },
+  "Ipoh": {
+    "ko": "이포",
+    "ja": "イポー",
+    "es": "Ipoh",
+    "zh": "怡保"
+  },
+  "Istanbul": {
+    "ko": "이스탄불",
+    "ja": "イスタンブール",
+    "es": "Estambul",
+    "zh": "伊斯坦布尔"
+  },
+  "Italy": {
+    "ko": "이탈리아",
+    "ja": "イタリア",
+    "es": "Italia",
+    "zh": "意大利"
+  },
+  "Izmir": {
+    "ko": "이즈미르",
+    "ja": "イズミル",
+    "es": "Esmirna",
+    "zh": "伊兹密尔"
+  },
+  "Jaipur": {
+    "ko": "자이푸르",
+    "ja": "ジャイプル",
+    "es": "Jaipur",
+    "zh": "斋浦尔"
+  },
+  "Jakarta": {
+    "ko": "자카르타",
+    "ja": "ジャカルタ",
+    "es": "Yakarta",
+    "zh": "雅加达"
+  },
+  "Japan": {
+    "ko": "일본",
+    "ja": "日本",
+    "es": "Japón",
+    "zh": "日本"
+  },
+  "Jeju": {
+    "ko": "제주",
+    "ja": "済州",
+    "es": "Jeju",
+    "zh": "济州"
+  },
+  "Jeonju": {
+    "ko": "전주",
+    "ja": "全州",
+    "es": "Jeonju",
+    "zh": "全州"
+  },
+  "Jinju": {
+    "ko": "진주",
+    "ja": "晋州",
+    "es": "Jinju",
+    "zh": "晋州"
+  },
+  "Jiufen": {
+    "ko": "지우펀",
+    "ja": "九份",
+    "es": "Jiufen",
+    "zh": "九份"
+  },
+  "Johor Bahru": {
+    "ko": "조호르바루",
+    "ja": "ジョホールバル",
+    "es": "Johor Bahru",
+    "zh": "新山"
+  },
+  "Kampong Glam": {
+    "ko": "캄퐁글램",
+    "ja": "カンポン・グラム",
+    "es": "Kampong Glam",
+    "zh": "甘榜格南"
+  },
+  "Kanazawa": {
+    "ko": "가나자와",
+    "ja": "金沢",
+    "es": "Kanazawa",
+    "zh": "金泽"
+  },
+  "Kaohsiung": {
+    "ko": "가오슝",
+    "ja": "高雄",
+    "es": "Kaohsiung",
+    "zh": "高雄"
+  },
+  "Koh Samui": {
+    "ko": "코사무이",
+    "ja": "サムイ島",
+    "es": "Koh Samui",
+    "zh": "苏梅岛"
+  },
+  "Kota Kinabalu": {
+    "ko": "코타키나발루",
+    "ja": "コタキナバル",
+    "es": "Kota Kinabalu",
+    "zh": "亚庇"
+  },
+  "Krabi": {
+    "ko": "끄라비",
+    "ja": "クラビ",
+    "es": "Krabi",
+    "zh": "甲米"
+  },
+  "Kuala Lumpur": {
+    "ko": "쿠알라룸푸르",
+    "ja": "クアラルンプール",
+    "es": "Kuala Lumpur",
+    "zh": "吉隆坡"
+  },
+  "Kyoto": {
+    "ko": "교토",
+    "ja": "京都",
+    "es": "Kioto",
+    "zh": "京都"
+  },
+  "Labuan Bajo": {
+    "ko": "라부안바조",
+    "ja": "ラブアンバジョ",
+    "es": "Labuan Bajo",
+    "zh": "拉布安巴焦"
+  },
+  "Langkawi": {
+    "ko": "랑카위",
+    "ja": "ランカウイ",
+    "es": "Langkawi",
+    "zh": "兰卡威"
+  },
+  "Las Vegas": {
+    "ko": "라스베이거스",
+    "ja": "ラスベガス",
+    "es": "Las Vegas",
+    "zh": "拉斯维加斯"
+  },
+  "Little India": {
+    "ko": "리틀인디아",
+    "ja": "リトルインディア",
+    "es": "Little India",
+    "zh": "小印度"
+  },
+  "Lombok": {
+    "ko": "롬복",
+    "ja": "ロンボク島",
+    "es": "Lombok",
+    "zh": "龙目岛"
+  },
+  "Los Angeles": {
+    "ko": "로스앤젤레스",
+    "ja": "ロサンゼルス",
+    "es": "Los Ángeles",
+    "zh": "洛杉矶"
+  },
+  "Lyon": {
+    "ko": "리옹",
+    "ja": "リヨン",
+    "es": "Lyon",
+    "zh": "里昂"
+  },
+  "Madrid": {
+    "ko": "마드리드",
+    "ja": "マドリード",
+    "es": "Madrid",
+    "zh": "马德里"
+  },
+  "Malacca": {
+    "ko": "말라카",
+    "ja": "マラッカ",
+    "es": "Malaca",
+    "zh": "马六甲"
+  },
+  "Malaga": {
+    "ko": "말라가",
+    "ja": "マラガ",
+    "es": "Málaga",
+    "zh": "马拉加"
+  },
+  "Malaysia": {
+    "ko": "말레이시아",
+    "ja": "マレーシア",
+    "es": "Malasia",
+    "zh": "马来西亚"
+  },
+  "Manila": {
+    "ko": "마닐라",
+    "ja": "マニラ",
+    "es": "Manila",
+    "zh": "马尼拉"
+  },
+  "Marina Bay": {
+    "ko": "마리나베이",
+    "ja": "マリーナベイ",
+    "es": "Marina Bay",
+    "zh": "滨海湾"
+  },
+  "Marseille": {
+    "ko": "마르세유",
+    "ja": "マルセイユ",
+    "es": "Marsella",
+    "zh": "马赛"
+  },
+  "Miami": {
+    "ko": "마이애미",
+    "ja": "マイアミ",
+    "es": "Miami",
+    "zh": "迈阿密"
+  },
+  "Milan": {
+    "ko": "밀라노",
+    "ja": "ミラノ",
+    "es": "Milán",
+    "zh": "米兰"
+  },
+  "Monza": {
+    "ko": "몬차",
+    "ja": "モンツァ",
+    "es": "Monza",
+    "zh": "蒙扎"
+  },
+  "Mumbai": {
+    "ko": "뭄바이",
+    "ja": "ムンバイ",
+    "es": "Bombay",
+    "zh": "孟买"
+  },
+  "Nagoya": {
+    "ko": "나고야",
+    "ja": "名古屋",
+    "es": "Nagoya",
+    "zh": "名古屋"
+  },
+  "Naples": {
+    "ko": "나폴리",
+    "ja": "ナポリ",
+    "es": "Nápoles",
+    "zh": "那不勒斯"
+  },
+  "Nara": {
+    "ko": "나라",
+    "ja": "奈良",
+    "es": "Nara",
+    "zh": "奈良"
+  },
+  "New Delhi": {
+    "ko": "뉴델리",
+    "ja": "ニューデリー",
+    "es": "Nueva Delhi",
+    "zh": "新德里"
+  },
+  "New Orleans": {
+    "ko": "뉴올리언스",
+    "ja": "ニューオーリンズ",
+    "es": "Nueva Orleans",
+    "zh": "新奥尔良"
+  },
+  "New Taipei": {
+    "ko": "신베이",
+    "ja": "新北市",
+    "es": "Nuevo Taipéi",
+    "zh": "新北市"
+  },
+  "New York": {
+    "ko": "뉴욕",
+    "ja": "ニューヨーク",
+    "es": "Nueva York",
+    "zh": "纽约"
+  },
+  "New York City": {
+    "ko": "뉴욕시",
+    "ja": "ニューヨーク市",
+    "es": "Nueva York",
+    "zh": "纽约市"
+  },
+  "Nha Trang": {
+    "ko": "나트랑",
+    "ja": "ニャチャン",
+    "es": "Nha Trang",
+    "zh": "芽庄"
+  },
+  "Nice": {
+    "ko": "니스",
+    "ja": "ニース",
+    "es": "Niza",
+    "zh": "尼斯"
+  },
+  "Okinawa": {
+    "ko": "오키나와",
+    "ja": "沖縄",
+    "es": "Okinawa",
+    "zh": "冲绳"
+  },
+  "Orchard Road": {
+    "ko": "오차드로드",
+    "ja": "オーチャード・ロード",
+    "es": "Orchard Road",
+    "zh": "乌节路"
+  },
+  "Osaka": {
+    "ko": "오사카",
+    "ja": "大阪",
+    "es": "Osaka",
+    "zh": "大阪"
+  },
+  "Paju": {
+    "ko": "파주",
+    "ja": "坡州",
+    "es": "Paju",
+    "zh": "坡州"
+  },
+  "Palawan": {
+    "ko": "팔라완",
+    "ja": "パラワン島",
+    "es": "Palawan",
+    "zh": "巴拉望"
+  },
+  "Pamukkale": {
+    "ko": "파묵칼레",
+    "ja": "パムッカレ",
+    "es": "Pamukkale",
+    "zh": "棉花堡"
+  },
+  "Paris": {
+    "ko": "파리",
+    "ja": "パリ",
+    "es": "París",
+    "zh": "巴黎"
+  },
+  "Pasay City": {
+    "ko": "파사이시",
+    "ja": "パサイ市",
+    "es": "Ciudad de Pasay",
+    "zh": "帕塞市"
+  },
+  "Pattaya": {
+    "ko": "파타야",
+    "ja": "パタヤ",
+    "es": "Pattaya",
+    "zh": "芭堤雅"
+  },
+  "Penang": {
+    "ko": "페낭",
+    "ja": "ペナン",
+    "es": "Penang",
+    "zh": "槟城"
+  },
+  "Philippines": {
+    "ko": "필리핀",
+    "ja": "フィリピン",
+    "es": "Filipinas",
+    "zh": "菲律宾"
+  },
+  "Phu Quoc": {
+    "ko": "푸꾸옥",
+    "ja": "フーコック島",
+    "es": "Phu Quoc",
+    "zh": "富国岛"
+  },
+  "Phuket": {
+    "ko": "푸켓",
+    "ja": "プーケット",
+    "es": "Phuket",
+    "zh": "普吉岛"
+  },
+  "Pohang": {
+    "ko": "포항",
+    "ja": "浦項",
+    "es": "Pohang",
+    "zh": "浦项"
+  },
+  "Provence": {
+    "ko": "프로방스",
+    "ja": "プロヴァンス",
+    "es": "Provenza",
+    "zh": "普罗旺斯"
+  },
+  "Qingdao": {
+    "ko": "칭다오",
+    "ja": "青島",
+    "es": "Qingdao",
+    "zh": "青岛"
+  },
+  "Ras Al Khaimah": {
+    "ko": "라스 알 카이마",
+    "ja": "ラス・アル・ハイマ",
+    "es": "Ras Al Jaima",
+    "zh": "哈伊马角"
+  },
+  "Rome": {
+    "ko": "로마",
+    "ja": "ローマ",
+    "es": "Roma",
+    "zh": "罗马"
+  },
+  "Saint-Cloud": {
+    "ko": "생클루",
+    "ja": "サン=クルー",
+    "es": "Saint-Cloud",
+    "zh": "圣克卢"
+  },
+  "San Francisco": {
+    "ko": "샌프란시스코",
+    "ja": "サンフランシスコ",
+    "es": "San Francisco",
+    "zh": "旧金山"
+  },
+  "San Sebastian": {
+    "ko": "산세바스티안",
+    "ja": "サン・セバスティアン",
+    "es": "San Sebastián",
+    "zh": "圣塞巴斯蒂安"
+  },
+  "Sapporo": {
+    "ko": "삿포로",
+    "ja": "札幌",
+    "es": "Sapporo",
+    "zh": "札幌"
+  },
+  "Seattle": {
+    "ko": "시애틀",
+    "ja": "シアトル",
+    "es": "Seattle",
+    "zh": "西雅图"
+  },
+  "Sentosa": {
+    "ko": "센토사",
+    "ja": "セントーサ島",
+    "es": "Sentosa",
+    "zh": "圣淘沙"
+  },
+  "Seoul": {
+    "ko": "서울",
+    "ja": "ソウル",
+    "es": "Seúl",
+    "zh": "首尔"
+  },
+  "Seville": {
+    "ko": "세비야",
+    "ja": "セビリア",
+    "es": "Sevilla",
+    "zh": "塞维利亚"
+  },
+  "Shanghai": {
+    "ko": "상하이",
+    "ja": "上海",
+    "es": "Shanghái",
+    "zh": "上海"
+  },
+  "Sharjah": {
+    "ko": "샤르자",
+    "ja": "シャルジャ",
+    "es": "Sharjah",
+    "zh": "沙迦"
+  },
+  "Siargao": {
+    "ko": "시아르가오",
+    "ja": "シアルガオ島",
+    "es": "Siargao",
+    "zh": "锡亚高岛"
+  },
+  "Singapore": {
+    "ko": "싱가포르",
+    "ja": "シンガポール",
+    "es": "Singapur",
+    "zh": "新加坡"
+  },
+  "Sokcho": {
+    "ko": "속초",
+    "ja": "束草",
+    "es": "Sokcho",
+    "zh": "束草"
+  },
+  "South Korea": {
+    "ko": "대한민국",
+    "ja": "韓国",
+    "es": "Corea del Sur",
+    "zh": "韩国"
+  },
+  "Spain": {
+    "ko": "스페인",
+    "ja": "スペイン",
+    "es": "España",
+    "zh": "西班牙"
+  },
+  "Strasbourg": {
+    "ko": "스트라스부르",
+    "ja": "ストラスブール",
+    "es": "Estrasburgo",
+    "zh": "斯特拉斯堡"
+  },
+  "Sturgis": {
+    "ko": "스터지스",
+    "ja": "スタージス",
+    "es": "Sturgis",
+    "zh": "斯特吉斯"
+  },
+  "Suncheon": {
+    "ko": "순천",
+    "ja": "順天",
+    "es": "Suncheon",
+    "zh": "顺天"
+  },
+  "Surabaya": {
+    "ko": "수라바야",
+    "ja": "スラバヤ",
+    "es": "Surabaya",
+    "zh": "泗水"
+  },
+  "Suwon": {
+    "ko": "수원",
+    "ja": "水原",
+    "es": "Suwon",
+    "zh": "水原"
+  },
+  "Suzhou": {
+    "ko": "쑤저우",
+    "ja": "蘇州",
+    "es": "Suzhou",
+    "zh": "苏州"
+  },
+  "Taichung": {
+    "ko": "타이중",
+    "ja": "台中",
+    "es": "Taichung",
+    "zh": "台中"
+  },
+  "Tainan": {
+    "ko": "타이난",
+    "ja": "台南",
+    "es": "Tainan",
+    "zh": "台南"
+  },
+  "Taipei": {
+    "ko": "타이베이",
+    "ja": "台北",
+    "es": "Taipéi",
+    "zh": "台北"
+  },
+  "Taiwan": {
+    "ko": "대만",
+    "ja": "台湾",
+    "es": "Taiwán",
+    "zh": "台湾"
+  },
+  "Thailand": {
+    "ko": "태국",
+    "ja": "タイ",
+    "es": "Tailandia",
+    "zh": "泰国"
+  },
+  "Tokyo": {
+    "ko": "도쿄",
+    "ja": "東京",
+    "es": "Tokio",
+    "zh": "东京"
+  },
+  "Tongyeong": {
+    "ko": "통영",
+    "ja": "統営",
+    "es": "Tongyeong",
+    "zh": "统营"
+  },
+  "Turin": {
+    "ko": "토리노",
+    "ja": "トリノ",
+    "es": "Turín",
+    "zh": "都灵"
+  },
+  "Turkey": {
+    "ko": "튀르키예",
+    "ja": "トルコ",
+    "es": "Turquía",
+    "zh": "土耳其"
+  },
+  "Udaipur": {
+    "ko": "우다이푸르",
+    "ja": "ウダイプル",
+    "es": "Udaipur",
+    "zh": "乌代浦尔"
+  },
+  "United Arab Emirates": {
+    "ko": "아랍에미리트",
+    "ja": "アラブ首長国連邦",
+    "es": "Emiratos Árabes Unidos",
+    "zh": "阿拉伯联合酋长国"
+  },
+  "United States": {
+    "ko": "미국",
+    "ja": "アメリカ",
+    "es": "Estados Unidos",
+    "zh": "美国"
+  },
+  "Valencia": {
+    "ko": "발렌시아",
+    "ja": "バレンシア",
+    "es": "Valencia",
+    "zh": "瓦伦西亚"
+  },
+  "Varanasi": {
+    "ko": "바라나시",
+    "ja": "ヴァラナシ",
+    "es": "Benarés",
+    "zh": "瓦拉纳西"
+  },
+  "Venice": {
+    "ko": "베니스",
+    "ja": "ヴェネツィア",
+    "es": "Venecia",
+    "zh": "威尼斯"
+  },
+  "Vietnam": {
+    "ko": "베트남",
+    "ja": "ベトナム",
+    "es": "Vietnam",
+    "zh": "越南"
+  },
+  "Washington DC": {
+    "ko": "워싱턴 D.C.",
+    "ja": "ワシントンD.C.",
+    "es": "Washington D.C.",
+    "zh": "华盛顿特区"
+  },
+  "Xi'an": {
+    "ko": "시안",
+    "ja": "西安",
+    "es": "Xi'an",
+    "zh": "西安"
+  },
+  "Xian": {
+    "ko": "시안",
+    "ja": "西安",
+    "es": "Xi'an",
+    "zh": "西安"
+  },
+  "Yeosu": {
+    "ko": "여수",
+    "ja": "麗水",
+    "es": "Yeosu",
+    "zh": "丽水"
+  },
+  "Yogyakarta": {
+    "ko": "족자카르타",
+    "ja": "ジョグジャカルタ",
+    "es": "Yogyakarta",
+    "zh": "日惹"
+  }
+}

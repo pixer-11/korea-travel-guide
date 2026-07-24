@@ -1,5 +1,7 @@
 ---
 import { isEventPast } from '../lib/eventStatus';
+import { getLangFromUrl } from '../i18n/utils';
+import { localizePlace } from '../i18n/places';
 interface Props {
   href: string;
   title: string;
@@ -10,6 +12,8 @@ interface Props {
   eventEndDate?: Date | string | null;
 }
 const { href, title, description, region, category, image, eventEndDate } = Astro.props;
+// Card labels follow the page's language (cards appear on localized hubs too).
+const regionLabel = localizePlace(region, getLangFromUrl(Astro.url));
 const label = category.replace('-', ' ');
 const ended = isEventPast({ category, eventEndDate });
 ---
@@ -20,7 +24,7 @@ const ended = isEventPast({ category, eventEndDate });
     {ended ? <span class="badge badge-ended">이벤트 종료 · Ended</span> : <span class="badge">{label}</span>}
   </div>
   <div class="card-body">
-    <span class="region-label">{region}</span>
+    <span class="region-label">{regionLabel}</span>
     <h3>{title}</h3>
     <p>{description}</p>
   </div>

@@ -9,7 +9,8 @@ import StickyBook from './StickyBook.astro';
 import Emoji from './Emoji.astro';
 import { isEventPast } from '../lib/eventStatus';
 import { slugifyRegion } from '../lib/slug';
-import { getLangFromUrl, useTranslations, localeCodes } from '../i18n/utils';
+import { getLangFromUrl, useTranslations, localeCodes, defaultLang } from '../i18n/utils';
+import { localizePlace } from '../i18n/places';
 
 // Shared article view for BOTH the English page (/posts/…) and the localized
 // pages (/ko/posts/… etc). One template, so a fix can never land on only one of
@@ -32,6 +33,10 @@ const title = tr?.title ?? post.data.title;
 const description = tr?.description ?? post.data.description;
 const quickAnswer = tr?.quickAnswer ?? post.data.quickAnswer;
 const faq = (tr?.faq?.length ? tr.faq : post.data.faq) ?? [];
+// Place names are data, not UI strings — localize them via the places table so a
+// Korean page reads "제주 / 아부다비", not "Jeju / Abu Dhabi". URLs keep the
+// English slug; only the visible label changes.
+const regionLabel = localizePlace(post.data.region, lang);
 const p = d.place;
 
 // Country-aware values (this was a Korea-only template — everything below must
@@ -122,6 +127,18 @@ const related = (await getCollection('posts', ({ data }) => !data.draft))
 
 // More same-city guides beyond the 4 "Related" — strengthens the city cluster with
 // contextual internal links (the site otherwise has almost no in-body post→post links).
+// Keep internal links inside the reader's language: show the translated title and
+// point at the localized URL — but only when that translation actually exists,
+// otherwise fall back to the English page rather than linking to a 404.
+const sameLangTitles =
+  lang === defaultLang
+    ? new Map<string, string>()
+    : new Map(
+        (await getCollection('postI18n', ({ data }) => data.lang === lang)).map((e) => [e.data.slug, e.data.title])
+      );
+const postHref = (id: string) => (sameLangTitles.has(id) ? `/${lang}/posts/${id}/` : `/posts/${id}/`);
+const postTitle = (r: any) => sameLangTitles.get(r.id) ?? r.data.title;
+
 const relatedIds = new Set(related.map((r) => r.id));
 const nearby = (await getCollection('posts', ({ data }) => !data.draft))
   .filter((r) => r.id !== post.id && r.data.region === d.region && !relatedIds.has(r.id))
@@ -241,9 +258,9 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
   <article class="article wrap">
     <nav class="crumbs" aria-label="Breadcrumb">
       <a href={lang === 'en' ? '/' : `/${lang}/`}>{t('post.home')}</a> <span>/</span>
-      <a href={`/destinations/${countrySlug}/`}>{country}</a> <span>/</span>
+      <a href={`/destinations/${countrySlug}/`}>{localizePlace(country, lang)}</a> <span>/</span>
       {!sameRegionCountry && (
-        <><a href={`/regions/${slugifyRegion(d.region)}/`}>{d.region}</a> <span>/</span></>
+        <><a href={`/regions/${slugifyRegion(d.region)}/`}>{regionLabel}</a> <span>/</span></>
       )}
       <span aria-current="page">{t(('cat.' + d.category) as any)}</span>
     </nav>
@@ -251,7 +268,7 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
     <div class="article-head">
       <div class="kicker">
         <span class="badge">{t(('cat.' + d.category) as any)}</span>
-        <span>{d.region}</span>
+        <span>{regionLabel}</span>
         <span>·</span>
         <time datetime={updated.toISOString()}>
           {d.updatedDate ? t('post.updated') : t('post.published')} {updated.toLocaleDateString(localeCodes[lang], { year: 'numeric', month: 'long', day: 'numeric' })}
@@ -293,7 +310,7 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
       </div>
     ) : (
       <div class="book-cta">
-        <span class="book-cta-label">{t('post.planningTrip').replace('{region}', d.region)}</span>
+        <span class="book-cta-label">{t('post.planningTrip').replace('{region}', regionLabel)}</span>
         <div class="book-cta-btns">
           <a class="book-btn book-btn-primary" href={klookTop} target="_blank" rel="sponsored noopener"><Emoji name="admission-tickets" /> {t('post.thingsToDo')}</a>
           <a class="book-btn" href={hotelTop} target="_blank" rel="sponsored noopener"><Emoji name="hotel" /> {t('post.findHotels')}</a>
@@ -413,8 +430,8 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
         <ul>
           {related.map((r) => (
             <li>
-              <a href={`/posts/${r.id}`}>{r.data.title}</a>
-              <span class="rel-region">{r.data.region}</span>
+              <a href={postHref(r.id)}>{postTitle(r)}</a>
+              <span class="rel-region">{localizePlace(r.data.region, lang)}</span>
             </li>
           ))}
         </ul>
@@ -423,9 +440,9 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
 
     {nearby.length > 0 && (
       <p class="nearby-links">
-        {t('post.moreGuides').replace('{region}', d.region)}{' '}
+        {t('post.moreGuides').replace('{region}', regionLabel)}{' '}
         {nearby.map((r, i) => (
-          <>{i > 0 && <span aria-hidden="true"> · </span>}<a href={`/posts/${r.id}`}>{r.data.place?.name ?? r.data.title}</a></>
+          <>{i > 0 && <span aria-hidden="true"> · </span>}<a href={postHref(r.id)}>{r.data.place?.name ?? postTitle(r)}</a></>
         ))}
       </p>
     )}

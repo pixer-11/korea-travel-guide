@@ -8,6 +8,7 @@ import Newsletter from './Newsletter.astro';
 import Search from './Search.astro';
 import { SITE } from '../siteConfig';
 import { useTranslations, type Lang } from '../i18n/utils';
+import { localizePlace } from '../i18n/places';
 import { pickRepHeroUrl } from '../lib/repImage';
 import countriesData from '../../data/countries.json';
 import wallData from '../../data/wall.json';
@@ -90,7 +91,7 @@ const koreaLinks = [
       <Search placeholder={t('home.searchPlaceholder')} />
       <div class="cover-cta-row">
         <a class="cover-cta" href="/destinations">{t('home.exploreDestinations')} <span class="arw">→</span></a>
-        {cover && <a class="cover-cta cover-cta-soft" href={`/posts/${cover.id}`}>{t('home.featured')}: {cover.data.region} <span class="arw">→</span></a>}
+        {cover && <a class="cover-cta cover-cta-soft" href={`/posts/${cover.id}`}>{t('home.featured')}: {localizePlace(cover.data.region, lang)} <span class="arw">→</span></a>}
       </div>
       <p class="cover-scale">{t('home.trustBar').replace('{n}', String(live.length))}</p>
     </div>
