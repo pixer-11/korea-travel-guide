@@ -9,6 +9,7 @@ import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
 import { unsplashNum } from './lib/images.mjs';
+import { OFFTOPIC } from './lib/offtopic.mjs';
 
 const DIR = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 
@@ -86,7 +87,6 @@ for (const p of posts) {
 // US-Navy admirals / a British-Museum statue / an antique print / a foreign
 // geograph shot). Flag every Wikimedia hero that hits the off-topic blocklist so
 // a new post with one gets caught at publish time instead of living on the site.
-const OFFTOPIC = /_MHNT|\bAmbulyx\b|\bTheretra\b|Sphingidae|Lepidoptera|Dune_bashing|\bambulance\b|U\.?S\.?_?Navy|Vice[_-]?Admiral|_admiral|Orphanage|cosplay|SMASH_20|British_Museum|_inscription|inscription_from|Google_Art_Project|geograph\.org\.uk|Oxomoco|Ketchikan|_Glencoe/i;
 for (const p of posts) {
   if (!p.url || p.license !== 'wikimedia') continue;
   const hay = decodeURIComponent(p.url) + ' ' + p.credit;
