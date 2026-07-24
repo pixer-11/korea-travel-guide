@@ -18,7 +18,7 @@ jobs:
         with: { fetch-depth: 0 }
       - uses: actions/setup-node@v4
         with: { node-version: '20' }
-      - run: npm install gray-matter --no-save --no-audit --no-fund   # sender parses posts via gray-matter; avoids full-lock ci drift
+      - run: npm ci
       - name: Send (or dry-run)
         run: |
           if [ "${{ github.event.inputs.live }}" = "true" ]; then
