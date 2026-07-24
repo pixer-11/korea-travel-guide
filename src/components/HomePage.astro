@@ -9,6 +9,7 @@ import Search from './Search.astro';
 import { SITE } from '../siteConfig';
 import { useTranslations, localizePath, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
+import { loadCardTranslations, cardHelpers } from '../i18n/cards';
 import { pickRepHeroUrl } from '../lib/repImage';
 import countriesData from '../../data/countries.json';
 import wallData from '../../data/wall.json';
@@ -16,6 +17,10 @@ import wallData from '../../data/wall.json';
 interface Props { lang: Lang }
 const { lang } = Astro.props;
 const t = useTranslations(lang);
+// Localized card titles/descriptions (from postI18n) so the homepage shows
+// translated post titles, not the English source — matches the region/country hubs.
+const tr = await loadCardTranslations(lang);
+const card = cardHelpers(tr, lang);
 
 const posts = (await getCollection('posts', ({ data }) => !data.draft)).sort(
   (a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime()
@@ -108,7 +113,7 @@ const koreaLinks = [
                 <img src={post.data.heroImage?.url ?? '/images/placeholder-market.svg'} alt={post.data.place?.name ?? post.data.title} loading="lazy" width="600" height="400" />
               </div>
               <span class="kicker gold">{t(`cat.${post.data.category}` as any)}</span>
-              <h3>{post.data.title}</h3>
+              <h3>{card.title(post.id, post.data.title)}</h3>
               <p class="story-meta">{localizePlace(post.data.region, lang)} · {localizePlace(post.data.country ?? 'South Korea', lang)}</p>
             </a>
           ))}
@@ -201,8 +206,8 @@ const koreaLinks = [
           {moreGuides.map((post) => (
             <PostCard
               href={localizePath(`/posts/${post.id}`, lang)}
-              title={post.data.title}
-              description={post.data.description}
+              title={card.title(post.id, post.data.title)}
+              description={card.desc(post.id, post.data.description)}
               region={post.data.region}
               category={post.data.category}
               image={post.data.heroImage?.url}
