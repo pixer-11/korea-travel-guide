@@ -1,0 +1,134 @@
+{
+  "Seoul": {
+    "ko": {
+      "blurb": "대한민국의 수도 서울은 경복궁 같은 600년 된 조선 왕조의 궁궐과 홍대·강남의 화려한 밤 문화가 어우러진 도시입니다. T-money 카드 한 장이면 세계적 수준의 지하철을 마음껏 탈 수 있어, 북촌의 한옥 골목에서 야시장까지 한 번에 오갈 수 있습니다.",
+      "getting": "인천공항(ICN)과 김포공항(GMP) 모두 공항철도(AREX)와 지하철로 도심과 연결됩니다. 서울역, 명동, 홍대입구가 중심 거점입니다.",
+      "days": "3~4일이면 궁궐, 북촌·인사동, 야시장, 쇼핑 거리를 둘러보고 근교 당일치기까지 다녀올 수 있습니다."
+    },
+    "ja": {
+      "blurb": "韓国の首都ソウルは、景福宮など築600年の朝鮮王朝の宮殿と、弘大（ホンデ）や江南（カンナム）のネオン輝く夜の街が同居する都市です。T-moneyカード1枚で世界屈指の地下鉄が乗り放題なので、北村（プクチョン）の韓屋（ハノク）路地から夜市まで一気に巡れます。",
+      "getting": "仁川空港（ICN）と金浦空港（GMP）はどちらも空港鉄道（AREX）と地下鉄で都心に直結。ソウル駅、明洞（ミョンドン）、弘大入口が主要な拠点です。",
+      "days": "3〜4日あれば宮殿、北村・仁寺洞（インサドン）、夜市、ショッピング街を巡り、近郊への日帰り旅行まで楽しめます。"
+    },
+    "es": {
+      "blurb": "La capital de Corea combina palacios de la dinastía Joseon de 600 años, como Gyeongbokgung, con la vida nocturna de neón de Hongdae y Gangnam. Una sola tarjeta T-money cubre el metro de primer nivel, así que puedes pasar de un callejón hanok en Bukchon a un mercado nocturno en un solo viaje.",
+      "getting": "Los aeropuertos de Incheon (ICN) y Gimpo (GMP) conectan con la ciudad en tren AREX y metro; los nudos centrales son la Estación de Seúl, Myeongdong y Hongik University.",
+      "days": "3–4 días bastan para los palacios, Bukchon/Insadong, un mercado nocturno y una zona comercial, con tiempo para una excursión de un día."
+    },
+    "zh": {
+      "blurb": "韩国首都首尔将景福宫等拥有600年历史的朝鲜王朝宫殿，与弘大、江南的霓虹夜生活融为一体。一张T-money卡就能畅游世界一流的地铁，让你在北村的韩屋巷弄与夜市之间一趟直达。",
+      "getting": "仁川机场（ICN）和金浦机场（GMP）都可乘坐机场铁路（AREX）和地铁进入市区；首尔站、明洞、弘大入口是主要交通枢纽。",
+      "days": "3–4天即可游览宫殿、北村／仁寺洞、夜市和购物街区，还有时间安排一次近郊一日游。"
+    }
+  },
+  "Busan": {
+    "ko": {
+      "blurb": "대한민국 제2의 도시 부산은 해운대·광안리 해변, 산비탈의 감천문화마을, 그리고 국내 최대 수산시장인 자갈치가 어우러진 여유로운 해안 도시입니다. 서울보다 따뜻하고, 바다를 곁에 두고 느긋하게 보내기 좋은 곳입니다.",
+      "getting": "김해공항(PUS)을 이용하거나 서울에서 KTX로 약 2시간 30분이면 부산역에 닿습니다. 지하철과 버스로 해변과 시장까지 이동할 수 있습니다.",
+      "days": "2~3일이면 해변, 감천문화마을, 자갈치시장, 해동용궁사 같은 사찰까지 돌아볼 수 있습니다."
+    },
+    "ja": {
+      "blurb": "韓国第2の都市・釜山（プサン）は、海雲台（ヘウンデ）や広安里（クァンアンリ）のビーチ、山の斜面に広がる甘川（カムチョン）文化村、そして韓国最大の魚市場チャガルチが集まる、のんびりとした海辺の街です。ソウルより暖かく、海辺でゆったり過ごすのにぴったりです。",
+      "getting": "金海空港（PUS）を利用するか、ソウルからKTXで約2時間30分の釜山駅へ。地下鉄とバスでビーチや市場まで行けます。",
+      "days": "2〜3日でビーチ、甘川文化村、チャガルチ市場、海東龍宮寺（ヘドンヨングンサ）などの寺を巡れます。"
+    },
+    "es": {
+      "blurb": "La segunda ciudad de Corea es una tranquila extensión costera de playas (Haeundae, Gwangalli), el pueblo artístico de ladera de Gamcheon y el mayor mercado de marisco del país, Jagalchi. Es más cálida que Seúl y está hecha para días lentos y salados junto al agua.",
+      "getting": "Aeropuerto de Gimhae (PUS) o un KTX de unas 2,5 horas desde Seúl hasta la Estación de Busan; el metro y los autobuses llegan a las playas y los mercados.",
+      "days": "2–3 días para las playas, Gamcheon, Jagalchi y un templo como Haedong Yonggungsa."
+    },
+    "zh": {
+      "blurb": "韩国第二大城市釜山是一片悠闲的海滨之地，拥有海云台、广安里等海滩，依山而建的甘川文化村，以及全国最大的海鲜市场札嘎其。这里比首尔温暖，最适合在海边度过慢悠悠的咸味时光。",
+      "getting": "可乘坐金海机场（PUS）航班，或从首尔搭乘KTX约2.5小时抵达釜山站；地铁和公交可直达海滩与市场。",
+      "days": "2–3天即可游览海滩、甘川文化村、札嘎其市场，以及海东龙宫寺等寺庙。"
+    }
+  },
+  "Jeju": {
+    "ko": {
+      "blurb": "남해안에 자리한 화산섬 제주는 한국을 대표하는 자연·해변 휴양지입니다. 한라산, 용암 동굴, 해안을 따라 걷는 올레길, 애월 해안가에 늘어선 카페까지 갖췄습니다. 흑돼지와 물질하는 해녀로도 유명합니다.",
+      "getting": "제주공항(CJU)은 서울(김포)과 부산에서 자주 오가는 짧은 비행으로 닿습니다. 대중교통이 제한적이라 렌터카를 추천합니다.",
+      "days": "3~4일이면 동쪽(성산일출봉)과 서쪽(애월 카페, 한림) 해안을 나눠 둘러보기 좋습니다."
+    },
+    "ja": {
+      "blurb": "南の海に浮かぶ火山島・済州（チェジュ）は、韓国きっての自然とビーチのリゾート。漢拏山（ハルラサン）、溶岩洞窟、海沿いを歩くオルレ・トレイル、涯月（エウォル）海岸に並ぶカフェが魅力です。黒豚と、素潜り漁をする海女（ヘニョ）でも知られています。",
+      "getting": "済州空港（CJU）はソウル（金浦）や釜山から便数の多い短時間フライトで到着。公共交通が限られるためレンタカーがおすすめです。",
+      "days": "3〜4日あれば東側（城山日出峰）と西側（涯月のカフェ、翰林）の海岸を分けて巡れます。"
+    },
+    "es": {
+      "blurb": "Una isla volcánica frente a la costa sur, Jeju es la escapada de playa y naturaleza de Corea: el volcán Hallasan, cuevas de tubos de lava, los senderos costeros Olle y cafés a lo largo de la costa de Aewol. Es famosa por su cerdo negro y sus mujeres buceadoras haenyeo.",
+      "getting": "Jeju (CJU) es un vuelo corto y muy frecuente desde Seúl (Gimpo) y Busan; alquila un coche, ya que el transporte público es limitado.",
+      "days": "3–4 días para repartir entre la costa este (pico del amanecer de Seongsan) y la oeste (cafés de Aewol, Hallim)."
+    },
+    "zh": {
+      "blurb": "济州是位于南部海域的火山岛，是韩国的海滨与自然度假胜地——汉拿山、熔岩洞窟、沿海而行的偶来小路，以及涯月海岸边一字排开的咖啡馆。这里以黑猪肉和潜水采捞的海女而闻名。",
+      "getting": "从首尔（金浦）和釜山有班次密集的短途航班直达济州机场（CJU）；由于公共交通有限，建议租车。",
+      "days": "3–4天可分别游览东部（城山日出峰）和西部（涯月咖啡馆、翰林）海岸。"
+    }
+  },
+  "Gyeongju": {
+    "ko": {
+      "blurb": "천 년 가까이 신라의 수도였던 경주는 흔히 '지붕 없는 박물관'이라 불립니다. 잔디로 덮인 왕릉, 유네스코에 등재된 불국사와 석굴암, 밤이면 불을 밝히는 동궁과 월지까지, 나지막한 옛 도심 안에서 걸어서 둘러볼 수 있습니다.",
+      "getting": "KTX로 신경주역까지 서울에서 약 2시간, 여기서 버스나 택시로 시내에 들어갑니다. 서울과 부산 사이에 들르기 좋습니다.",
+      "days": "1~2일이면 왕릉, 불국사, 그리고 해가 진 뒤의 월지를 돌아볼 수 있습니다."
+    },
+    "ja": {
+      "blurb": "千年近く新羅（シルラ）の都だった慶州（キョンジュ）は、しばしば「屋根のない博物館」と呼ばれます。芝に覆われた王陵、ユネスコ登録の仏国寺（プルグクサ）と石窟庵（ソックラム）、夜にライトアップされる東宮（トングン）と月池（ウォルジ）が、低層の古い街並みの中を歩いて巡れます。",
+      "getting": "KTXで新慶州駅までソウルから約2時間、そこからバスかタクシーで市内へ。ソウルと釜山の間に立ち寄るのに便利です。",
+      "days": "1〜2日で王陵、仏国寺、そして日没後の月池を巡れます。"
+    },
+    "es": {
+      "blurb": "Capital del reino de Silla durante casi mil años, Gyeongju es a menudo llamada un \"museo sin muros\": túmulos reales cubiertos de hierba, el templo Bulguksa y la gruta Seokguram (Patrimonio de la UNESCO), y el Palacio Donggung y el estanque Wolji iluminados de noche, todo en un casco antiguo bajo y caminable.",
+      "getting": "KTX hasta la Estación de Singyeongju (unas 2 horas desde Seúl), y luego autobús o taxi al centro; fácil como parada entre Seúl y Busan.",
+      "days": "1–2 días para los túmulos, Bulguksa y el estanque Wolji al anochecer."
+    },
+    "zh": {
+      "blurb": "作为新罗王国近千年的都城，庆州常被称为“没有围墙的博物馆”——绿草覆盖的王陵、列入联合国教科文组织名录的佛国寺与石窟庵，以及夜晚灯火通明的东宫与月池，全都坐落在一片低矮、适合步行的古城之中。",
+      "getting": "乘KTX至新庆州站（从首尔约2小时），再换乘公交或出租车进城；作为首尔与釜山之间的中途停留十分方便。",
+      "days": "1–2天即可游览王陵、佛国寺，以及入夜后的月池。"
+    }
+  },
+  "Incheon": {
+    "ko": {
+      "blurb": "대부분의 여행자가 인천공항을 통해 한국에 들어오지만, 인천은 잠시 머물 가치가 있는 도시입니다. 1883년 개항과 함께 생겨난 역사 깊은 차이나타운, 복고풍의 송월동 동화마을, 그리고 미래적인 송도 워터프런트가 있습니다.",
+      "getting": "인천국제공항(ICN)은 공항철도(AREX)로 서울과 연결됩니다. 시내 지하철과 1호선으로 차이나타운(인천역)까지 갈 수 있습니다.",
+      "days": "반나절이나 하루면 충분하며, 도착이나 출발 일정에 붙이기 좋습니다."
+    },
+    "ja": {
+      "blurb": "多くの旅行者は仁川（インチョン）空港から韓国に入りますが、この街は立ち寄る価値があります。1883年の開港とともに生まれた歴史あるチャイナタウン、レトロな松月洞（ソンウォルドン）童話村、そして未来的な松島（ソンド）のウォーターフロントが見どころです。",
+      "getting": "仁川国際空港（ICN）は空港鉄道（AREX）でソウルと結ばれています。市内の地下鉄と1号線でチャイナタウン（仁川駅）まで行けます。",
+      "days": "半日〜1日で十分。到着日や出発日に組み込みやすいです。"
+    },
+    "es": {
+      "blurb": "La mayoría de los visitantes llegan a Corea por el aeropuerto de Incheon, pero la ciudad merece una parada: un histórico barrio chino nacido del puerto abierto en 1883, el retro pueblo de cuento de Songwol-dong y el futurista paseo marítimo de Songdo.",
+      "getting": "El Aeropuerto Internacional de Incheon (ICN) conecta con Seúl por AREX; el metro de la ciudad y la Línea 1 llegan al barrio chino (Estación de Incheon).",
+      "days": "Medio día o un día entero, fácil de añadir a la llegada o la salida."
+    },
+    "zh": {
+      "blurb": "大多数游客都经由仁川机场入境韩国，但这座城市值得停留：一座因1883年开港而兴起的历史唐人街、复古的松月洞童话村，以及未来感十足的松岛海滨。",
+      "getting": "仁川国际机场（ICN）经机场铁路（AREX）与首尔相连；市内地铁及1号线可直达唐人街（仁川站）。",
+      "days": "半天或一整天即可，很适合安排在抵达或离开当天。"
+    }
+  },
+  "Jeonju": {
+    "ko": {
+      "blurb": "전주는 비빔밥이 태어난 한국의 음식 수도로, 전통 기와지붕 700여 채가 모인 한옥마을과 찻집, 막걸리 골목이 중심을 이룹니다. 유네스코 음식 창의도시답게, 옛 도심을 천천히 걸으며 먹는 즐거움이 전부인 곳입니다.",
+      "getting": "KTX로 전주역까지 서울에서 약 1시간 30분~2시간, 여기서 버스나 택시로 잠깐이면 한옥마을에 닿습니다.",
+      "days": "1~2일이면 한옥마을, 먹자골목, 남부시장을 둘러볼 수 있습니다."
+    },
+    "ja": {
+      "blurb": "全州（チョンジュ）はビビンバ発祥の地とされる韓国の食の都。伝統的な瓦屋根の家々700軒あまりが並ぶ韓屋（ハノク）村を中心に、茶屋やマッコリの店が集まります。ユネスコの食文化創造都市らしく、古い街並みをゆっくり歩きながら食べ尽くすのが醍醐味です。",
+      "getting": "KTXで全州駅までソウルから約1時間30分〜2時間、そこからバスかタクシーですぐに韓屋村へ。",
+      "days": "1〜2日で韓屋村、グルメ横丁、南部市場を巡れます。"
+    },
+    "es": {
+      "blurb": "Jeonju es la capital gastronómica de Corea y la cuna del bibimbap, centrada en un Pueblo Hanok de 700 casas de tejados tradicionales, casas de té y bares de makgeolli. Ciudad de la Gastronomía de la UNESCO, aquí todo gira en torno a comer sin prisa por el casco antiguo.",
+      "getting": "KTX hasta la Estación de Jeonju (unas 1,5–2 horas desde Seúl), y luego un corto autobús o taxi hasta el Pueblo Hanok.",
+      "days": "1–2 días para el Pueblo Hanok, los callejones de comida y el Mercado Nambu."
+    },
+    "zh": {
+      "blurb": "全州是韩国的美食之都、拌饭的发源地，以拥有700余栋传统瓦顶房屋的韩屋村、茶馆和马格利酒馆为核心。作为联合国教科文组织美食之都，这里的一切都关乎在古城中慢慢地吃个尽兴。",
+      "getting": "乘KTX至全州站（从首尔约1.5–2小时），再换乘公交或出租车很快即到韩屋村。",
+      "days": "1–2天即可游览韩屋村、美食巷弄和南部市场。"
+    }
+  }
+}

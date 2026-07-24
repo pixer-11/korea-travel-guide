@@ -1,0 +1,240 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostCard from './PostCard.astro';
+import Hotels from './Hotels.astro';
+import Tours from './Tours.astro';
+import PlanTrip from './PlanTrip.astro';
+import Newsletter from './Newsletter.astro';
+import StickyBook from './StickyBook.astro';
+import { slugifyRegion } from '../lib/slug';
+import { useTranslations, localizePath, type Lang } from '../i18n/utils';
+import { localizePlace } from '../i18n/places';
+import { getRegionInfo } from '../i18n/regions';
+
+// Shared region-hub body for BOTH the English route (/regions/<region>) and the
+// localized route (/[lang]/regions/<region>). Curated intros/FAQ come from
+// getRegionInfo (native-quality per language, English fallback); all chrome via
+// t(); place names via localizePlace(). Posts, categories, and facts are the same
+// underlying data in every language — only the display strings differ.
+interface Props {
+  region: string;
+  posts: any[];
+  lang: Lang;
+}
+const { region, posts, lang } = Astro.props;
+const t = useTranslations(lang);
+
+// The region's country (from its posts) — so fallbacks read "…, Japan" not "…, Korea".
+const country = posts[0]?.data.country ?? 'South Korea';
+const regionLabel = localizePlace(region, lang);
+const countryLabel = localizePlace(country, lang);
+
+const info = getRegionInfo(region, lang);
+
+// Localized post text (title/description) for the cards, so a Korean hub shows
+// Korean card titles. Only the current language is loaded; English uses the
+// source post directly. A post links to its localized URL only when a translation
+// exists (it always does today — all posts are translated — but this guards a
+// future untranslated post from 404-ing).
+const translations = lang === 'en' ? [] : await getCollection('postI18n', ({ data }) => data.lang === lang);
+const trBySlug = new Map(translations.map((tr) => [tr.data.slug, tr.data]));
+const cardTitle = (post: any) => trBySlug.get(post.id)?.title ?? post.data.title;
+const cardDesc = (post: any) => trBySlug.get(post.id)?.description ?? post.data.description;
+const cardHref = (post: any) =>
+  lang !== 'en' && trBySlug.has(post.id) ? localizePath(`/posts/${post.id}`, lang) : `/posts/${post.id}`;
+
+// Region-level FAQ — feeds a visible FAQ section + FAQPage schema. Questions are
+// translated chrome; answers reuse the curated (already-localized) info fields.
+const faq = info
+  ? [
+      { q: t('region.faqGetTo').replace('{region}', regionLabel), a: info.getting },
+      { q: t('region.faqDays').replace('{region}', regionLabel), a: info.days },
+      { q: t('region.faqKnownFor').replace('{region}', regionLabel), a: info.blurb },
+    ]
+  : [];
+
+// Group this region's posts by category into labelled sections. The 3rd entry is
+// the roundup-hub slug (null = none). When a category has >= 4 posts a "See all,
+// ranked" link surfaces its /regions/<city>/<slug> hub — must match ROUNDUPS + MIN
+// in regions/[region]/[roundup].astro. The roundup pages aren't localized yet, so
+// that link stays on the English route in every language (never 404s).
+const CAT_LABEL_KEY: Record<string, any> = {
+  attraction: 'region.cat.attraction',
+  trendy: 'region.cat.trendy',
+  restaurant: 'region.cat.restaurant',
+  'hidden-gem': 'region.cat.hidden-gem',
+  event: 'region.cat.event',
+};
+const CATS: [string, string | null][] = [
+  ['attraction', 'things-to-do'],
+  ['trendy', 'cafes'],
+  ['restaurant', 'best-restaurants'],
+  ['hidden-gem', 'hidden-gems'],
+  ['event', null],
+];
+const groups = CATS.map(([cat, roundup]) => ({
+  label: t(CAT_LABEL_KEY[cat]),
+  roundup,
+  items: posts.filter((p) => p.data.category === cat),
+})).filter((g) => g.items.length > 0);
+const ungrouped = posts.filter((p) => !CATS.some(([c]) => c === p.data.category));
+
+const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
+const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'CollectionPage',
+      name: t('region.guideTitle').replace('{region}', regionLabel),
+      description: info?.blurb ?? t('region.fallbackBlurb').replace('{region}', regionLabel).replace('{country}', countryLabel),
+      url: pageUrl,
+      isPartOf: { '@id': `${site}/#site` },
+    },
+    {
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: t('post.home'), item: new URL(localizePath('/', lang), Astro.site).toString() },
+        { '@type': 'ListItem', position: 2, name: regionLabel, item: pageUrl },
+      ],
+    },
+    ...(posts.length
+      ? [{
+          '@type': 'ItemList',
+          itemListElement: posts.map((p, i) => ({
+            '@type': 'ListItem',
+            position: i + 1,
+            url: new URL(cardHref(p), Astro.site).toString(),
+            name: cardTitle(p),
+          })),
+        }]
+      : []),
+    ...(faq.length
+      ? [{
+          '@type': 'FAQPage',
+          mainEntity: faq.map((f) => ({
+            '@type': 'Question',
+            name: f.q,
+            acceptedAnswer: { '@type': 'Answer', text: f.a },
+          })),
+        }]
+      : []),
+  ],
+};
+
+const metaTitle = t('region.guideTitle').replace('{region}', regionLabel);
+const metaDesc = info?.blurb?.slice(0, 155) ?? t('region.metaDesc').replace('{region}', regionLabel).replace('{country}', countryLabel);
+---
+
+<BaseLayout title={metaTitle} description={metaDesc} jsonLd={jsonLd} localized={true}>
+  <section class="page-hero">
+    <div class="wrap">
+      <p class="eyebrow">{t('region.eyebrow')}</p>
+      <h1>{regionLabel}</h1>
+      {info ? <p class="region-blurb">{info.blurb}</p> : <p>{t('region.fallbackBlurb').replace('{region}', regionLabel).replace('{country}', countryLabel)}</p>}
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      {info && (
+        <div class="region-facts">
+          <div><span class="k">{t('region.gettingThere')}</span><span class="v">{info.getting}</span></div>
+          <div><span class="k">{t('region.howLong')}</span><span class="v">{info.days}</span></div>
+        </div>
+      )}
+
+      {posts.length === 0 && (
+        <div class="fact-box" style="text-align:center">
+          <p>{t('region.comingSoon').replace('{region}', regionLabel)}</p>
+        </div>
+      )}
+
+      {groups.map((g) => (
+        <div class="region-group">
+          <h2>{g.label}</h2>
+          <div class="grid">
+            {g.items.map((post) => (
+              <PostCard
+                href={cardHref(post)}
+                title={cardTitle(post)}
+                description={cardDesc(post)}
+                region={post.data.region}
+                category={post.data.category}
+                image={post.data.heroImage?.url}
+                eventEndDate={post.data.eventEndDate}
+              />
+            ))}
+          </div>
+          {g.roundup && g.items.length >= 4 && (
+            <p class="see-all">
+              <a href={`/regions/${slugifyRegion(region)}/${g.roundup}/`}>{t('region.seeAll').replace('{n}', String(g.items.length))}</a>
+            </p>
+          )}
+        </div>
+      ))}
+
+      {ungrouped.length > 0 && (
+        <div class="region-group">
+          <h2>{t('region.more').replace('{region}', regionLabel)}</h2>
+          <div class="grid">
+            {ungrouped.map((post) => (
+              <PostCard
+                href={cardHref(post)}
+                title={cardTitle(post)}
+                description={cardDesc(post)}
+                region={post.data.region}
+                category={post.data.category}
+                image={post.data.heroImage?.url}
+                eventEndDate={post.data.eventEndDate}
+              />
+            ))}
+          </div>
+        </div>
+      )}
+
+      {posts.length > 0 && (
+        <>
+          <Tours city={region} />
+          <Hotels city={region} country={country} />
+          <PlanTrip city={region} country={country} />
+        </>
+      )}
+
+      {faq.length > 0 && (
+        <section class="faq">
+          <h2>{t('region.faqTitle').replace('{region}', regionLabel)}</h2>
+          {faq.map((f) => (
+            <details>
+              <summary>{f.q}</summary>
+              <p>{f.a}</p>
+            </details>
+          ))}
+        </section>
+      )}
+    </div>
+  </section>
+
+  <Newsletter
+    lang={lang}
+    heading={t('post.planningTrip').replace('{region}', regionLabel)}
+    dek={t('region.newsletterDek').replace('{region}', regionLabel)}
+  />
+  <StickyBook city={region} />
+</BaseLayout>
+
+<style>
+  .see-all { margin-top: 1.25rem; }
+  /* Pill button — prominent enough to actually get clicked, and >=44px tall so
+     it's an easy mobile touch target. */
+  .see-all a {
+    display: inline-flex; align-items: center; gap: 0.45rem;
+    min-height: 44px; padding: 0.55rem 1.2rem;
+    font-weight: 600; color: var(--accent); text-decoration: none;
+    border: 1.5px solid var(--accent); border-radius: 999px;
+    transition: background 0.15s ease, color 0.15s ease;
+  }
+  .see-all a:hover, .see-all a:focus-visible { background: var(--accent); color: #fff; }
+</style>

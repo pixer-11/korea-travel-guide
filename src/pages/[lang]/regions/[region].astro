@@ -1,0 +1,28 @@
+---
+import { getCollection } from 'astro:content';
+import RegionHub from '../../../components/RegionHub.astro';
+import { slugifyRegion } from '../../../lib/slug';
+import type { Lang } from '../../../i18n/utils';
+
+// Localized region hubs: /ko/regions/seoul, /ja/…, /es/…, /zh/…
+// Every region that exists in English gets a page in all four languages — the
+// curated intro/FAQ falls back to English per language when a translation is
+// missing, and the post cards localize by URL, so there are never half-pages.
+export async function getStaticPaths() {
+  // Declared inside getStaticPaths — Astro runs it in isolation and can't see
+  // module-level consts from the frontmatter.
+  const LANGS: Lang[] = ['ko', 'ja', 'es', 'zh'];
+  const posts = await getCollection('posts', ({ data }) => !data.draft);
+  const regions = [...new Set(posts.map((p) => p.data.region))].filter((r) => r && !r.includes('/'));
+  return LANGS.flatMap((lang) =>
+    regions.map((region) => ({
+      params: { lang, region: slugifyRegion(region) },
+      props: { region, posts: posts.filter((p) => p.data.region === region), lang },
+    }))
+  );
+}
+
+const { region, posts, lang } = Astro.props;
+---
+
+<RegionHub region={region} posts={posts} lang={lang} />
