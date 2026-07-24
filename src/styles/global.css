@@ -916,3 +916,18 @@ html[lang^='ko'] .cover-inner h1, html[lang^='ja'] .cover-inner h1, html[lang^='
   line-height: 1.2;
 }
 html[lang^='ko'] body, html[lang^='ja'] body, html[lang^='zh'] body { line-height: 1.75; }
+
+/* Line breaking. Korean must break on WORD (어절) boundaries — the browser
+   default breaks anywhere, which split a heading as "여 / 행 가이드". Japanese and
+   Chinese wrap per character by design, but need strict kinsoku so punctuation
+   never starts a line. overflow-wrap keeps a very long unbroken token (a URL, a
+   Latin venue name) from overflowing its container. */
+html[lang^='ko'] {
+  word-break: keep-all;
+  overflow-wrap: break-word;
+}
+html[lang^='ja'],
+html[lang^='zh'] {
+  line-break: strict;
+  overflow-wrap: break-word;
+}

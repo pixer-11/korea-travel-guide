@@ -9,6 +9,7 @@ import StickyBook from './StickyBook.astro';
 import Emoji from './Emoji.astro';
 import { isEventPast } from '../lib/eventStatus';
 import { slugifyRegion } from '../lib/slug';
+import { getLangFromUrl, useTranslations, localeCodes } from '../i18n/utils';
 
 // Shared article view for BOTH the English page (/posts/…) and the localized
 // pages (/ko/posts/… etc). One template, so a fix can never land on only one of
@@ -20,13 +21,17 @@ interface Props {
   translation?: any;
 }
 const { post, translation } = Astro.props;
+// Chrome labels (fact box, section headings, CTAs) follow the URL's locale, so a
+// /ko/ page reads Korean end-to-end rather than Korean prose in English chrome.
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
 const { Content } = await render(translation ?? post);
 const d = post.data;
 const tr = translation?.data;
-const title = tr?.title ?? title;
-const description = tr?.description ?? description;
-const quickAnswer = tr?.quickAnswer ?? quickAnswer;
-const faq = (tr?.faq?.length ? tr.faq : faq) ?? [];
+const title = tr?.title ?? post.data.title;
+const description = tr?.description ?? post.data.description;
+const quickAnswer = tr?.quickAnswer ?? post.data.quickAnswer;
+const faq = (tr?.faq?.length ? tr.faq : post.data.faq) ?? [];
 const p = d.place;
 
 // Country-aware values (this was a Korea-only template — everything below must
@@ -235,21 +240,21 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
 >
   <article class="article wrap">
     <nav class="crumbs" aria-label="Breadcrumb">
-      <a href="/">Home</a> <span>/</span>
+      <a href={lang === 'en' ? '/' : `/${lang}/`}>{t('post.home')}</a> <span>/</span>
       <a href={`/destinations/${countrySlug}/`}>{country}</a> <span>/</span>
       {!sameRegionCountry && (
         <><a href={`/regions/${slugifyRegion(d.region)}/`}>{d.region}</a> <span>/</span></>
       )}
-      <span aria-current="page">{d.category.replace('-', ' ')}</span>
+      <span aria-current="page">{t(('cat.' + d.category) as any)}</span>
     </nav>
 
     <div class="article-head">
       <div class="kicker">
-        <span class="badge">{d.category.replace('-', ' ')}</span>
+        <span class="badge">{t(('cat.' + d.category) as any)}</span>
         <span>{d.region}</span>
         <span>·</span>
         <time datetime={updated.toISOString()}>
-          {d.updatedDate ? 'Updated' : 'Published'} {updated.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+          {d.updatedDate ? t('post.updated') : t('post.published')} {updated.toLocaleDateString(localeCodes[lang], { year: 'numeric', month: 'long', day: 'numeric' })}
         </time>
       </div>
       <h1>{title}</h1>
@@ -273,47 +278,47 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
 
     {quickAnswer && (
       <aside class="quick-answer">
-        <span class="qa-label">Quick answer</span>
+        <span class="qa-label">{t('post.quickAnswer')}</span>
         <p>{quickAnswer}</p>
       </aside>
     )}
 
     {isEventPast(d) ? (
       <div class="book-cta">
-        <span class="book-cta-label">This event has ended</span>
+        <span class="book-cta-label">{t('post.eventEnded')}</span>
         <div class="book-cta-btns">
-          <a class="book-btn book-btn-primary" href="/events"><Emoji name="admission-tickets" /> Upcoming events</a>
-          <a class="book-btn" href="#newsletter"><Emoji name="wrapped-gift" /> Get event updates</a>
+          <a class="book-btn book-btn-primary" href="/events"><Emoji name="admission-tickets" /> {t('post.upcomingEvents')}</a>
+          <a class="book-btn" href="#newsletter"><Emoji name="wrapped-gift" /> {t('post.eventUpdates')}</a>
         </div>
       </div>
     ) : (
       <div class="book-cta">
-        <span class="book-cta-label">Planning a trip to {d.region}?</span>
+        <span class="book-cta-label">{t('post.planningTrip').replace('{region}', d.region)}</span>
         <div class="book-cta-btns">
-          <a class="book-btn book-btn-primary" href={klookTop} target="_blank" rel="sponsored noopener"><Emoji name="admission-tickets" /> Things to do</a>
-          <a class="book-btn" href={hotelTop} target="_blank" rel="sponsored noopener"><Emoji name="hotel" /> Find hotels</a>
+          <a class="book-btn book-btn-primary" href={klookTop} target="_blank" rel="sponsored noopener"><Emoji name="admission-tickets" /> {t('post.thingsToDo')}</a>
+          <a class="book-btn" href={hotelTop} target="_blank" rel="sponsored noopener"><Emoji name="hotel" /> {t('post.findHotels')}</a>
         </div>
       </div>
     )}
 
     {p && (p.address || p.rating || p.priceLevel !== undefined) && (
       <div class="fact-box">
-        <h4>At a glance</h4>
+        <h4>{t('post.atAGlance')}</h4>
         <div class="fact-grid">
-          {placeName && <div class="fact"><span class="k">Place</span><span class="v">{placeName}</span></div>}
-          {p.address && <div class="fact"><span class="k">Address</span><span class="v">{p.address}</span></div>}
+          {placeName && <div class="fact"><span class="k">{t('post.place')}</span><span class="v">{placeName}</span></div>}
+          {p.address && <div class="fact"><span class="k">{t('post.address')}</span><span class="v">{p.address}</span></div>}
           {typeof p.rating === 'number' && (
-            <div class="fact"><span class="k">Rating</span><span class="v"><span class="stars">{stars}</span> {p.rating}
+            <div class="fact"><span class="k">{t('post.rating')}</span><span class="v"><span class="stars">{stars}</span> {p.rating}
               {p.userRatingsTotal ? ` (${p.userRatingsTotal.toLocaleString()})` : ''}</span></div>
           )}
-          {typeof p.priceLevel === 'number' && <div class="fact"><span class="k">Price</span><span class="v">{priceLabels[p.priceLevel]}</span></div>}
+          {typeof p.priceLevel === 'number' && <div class="fact"><span class="k">{t('post.price')}</span><span class="v">{priceLabels[p.priceLevel]}</span></div>}
           {p.phone && (
-            <div class="fact"><span class="k">Phone</span><span class="v"><a class="phone-link" href={`tel:${p.phone.replace(/[^+\d]/g, '')}`}>{p.phone}</a></span></div>
+            <div class="fact"><span class="k">{t('post.phone')}</span><span class="v"><a class="phone-link" href={`tel:${p.phone.replace(/[^+\d]/g, '')}`}>{p.phone}</a></span></div>
           )}
         </div>
         {p.openingHours && p.openingHours.length > 0 && (
           <details class="hours">
-            <summary><Emoji name="three-oclock" /> Opening hours</summary>
+            <summary><Emoji name="three-oclock" /> {t('post.openingHours')}</summary>
             <ul>
               {p.openingHours.map((line) => <li>{line}</li>)}
             </ul>
@@ -321,18 +326,18 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
         )}
         {hasBusyness && (
           <div class="busyness">
-            <span class="bz-title"><Emoji name="chart-increasing" /> Best time to visit</span>
+            <span class="bz-title"><Emoji name="chart-increasing" /> {t('post.bestTime')}</span>
             {(quietWd || quietWe) && (
-              <div class="bz-row"><span class="bz-k">Quietest</span><span class="bz-v">
-                {quietWd && <><b>Weekdays</b> {quietWd}</>}{quietWd && quietWe ? ' · ' : ''}{quietWe && <><b>Weekends</b> {quietWe}</>}
+              <div class="bz-row"><span class="bz-k">{t('post.quietest')}</span><span class="bz-v">
+                {quietWd && <><b>{t('post.weekdays')}</b> {quietWd}</>}{quietWd && quietWe ? ' · ' : ''}{quietWe && <><b>{t('post.weekends')}</b> {quietWe}</>}
               </span></div>
             )}
             {(busyWd || busyWe) && (
-              <div class="bz-row"><span class="bz-k">Busiest</span><span class="bz-v">
-                {busyWd && <><b>Weekdays</b> {busyWd}</>}{busyWd && busyWe ? ' · ' : ''}{busyWe && <><b>Weekends</b> {busyWe}</>}
+              <div class="bz-row"><span class="bz-k">{t('post.busiest')}</span><span class="bz-v">
+                {busyWd && <><b>{t('post.weekdays')}</b> {busyWd}</>}{busyWd && busyWe ? ' · ' : ''}{busyWe && <><b>{t('post.weekends')}</b> {busyWe}</>}
               </span></div>
             )}
-            <p class="bz-credit">Live foot-traffic data via <a href="https://besttime.app" target="_blank" rel="noopener nofollow">BestTime.app</a></p>
+            <p class="bz-credit">{t('post.footTraffic')} <a href="https://besttime.app" target="_blank" rel="noopener nofollow">BestTime.app</a></p>
           </div>
         )}
         <div class="fact-actions">
@@ -340,7 +345,7 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
             <a class="fact-ticket" href={klookPlace} target="_blank" rel="sponsored noopener"><Emoji name="admission-tickets" /> Tickets &amp; tours for {p.name}</a>
           )}
           {p.googleMapsUrl && (
-            <a class="map-link" href={p.googleMapsUrl} target="_blank" rel="noopener"><Emoji name="round-pushpin" /> Open in Google Maps</a>
+            <a class="map-link" href={p.googleMapsUrl} target="_blank" rel="noopener"><Emoji name="round-pushpin" /> {t('post.openMaps')}</a>
           )}
         </div>
       </div>
@@ -358,7 +363,7 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
           target="_blank"
           rel="noopener nofollow"
         >
-          <Emoji name="round-pushpin" /> Explore on Google Maps
+          <Emoji name="round-pushpin" /> {t('post.exploreMaps')}
         </a>
       </p>
     )}
@@ -384,7 +389,7 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
 
     {faq.length > 0 && (
       <section class="faq">
-        <h2>Frequently asked questions</h2>
+        <h2>{t('post.faqTitle')}</h2>
         {faq.map((f) => (
           <details>
             <summary>{f.q}</summary>
@@ -404,7 +409,7 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
 
     {related.length > 0 && (
       <section class="related">
-        <h2>Related guides</h2>
+        <h2>{t('post.related')}</h2>
         <ul>
           {related.map((r) => (
             <li>
@@ -418,7 +423,7 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
 
     {nearby.length > 0 && (
       <p class="nearby-links">
-        More {d.region} guides:{' '}
+        {t('post.moreGuides').replace('{region}', d.region)}{' '}
         {nearby.map((r, i) => (
           <>{i > 0 && <span aria-hidden="true"> · </span>}<a href={`/posts/${r.id}`}>{r.data.place?.name ?? r.data.title}</a></>
         ))}
