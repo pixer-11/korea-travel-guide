@@ -221,6 +221,8 @@ const metaDesc = info?.blurb?.slice(0, 155) ?? t('region.metaDesc').replace('{re
     lang={lang}
     heading={t('post.planningTrip').replace('{region}', regionLabel)}
     dek={t('region.newsletterDek').replace('{region}', regionLabel)}
+    region={region}
+    country={country}
   />
   <StickyBook city={region} />
 </BaseLayout>

@@ -429,6 +429,8 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
     <Newsletter
       compact
       lang={lang}
+      region={post.data.region}
+      country={country}
       heading={d.category === 'event' ? t('ev.neverMissGlobal') : t('post.moreTips').replace('{region}', regionLabel)}
       dek={d.category === 'event' ? t('ev.neverMissDekGlobal') : t('region.newsletterDek').replace('{region}', regionLabel)}
     />

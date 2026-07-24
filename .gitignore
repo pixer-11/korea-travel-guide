@@ -20,3 +20,9 @@ Thumbs.db
 
 # generation cache
 .cache/
+
+# brainstorming visual companion (local only — never commit)
+.superpowers/
+
+# newsletter dry-run previews (local only)
+.newsletter-preview/

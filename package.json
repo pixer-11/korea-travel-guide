@@ -12,7 +12,8 @@
     "generate:dummy": "cross-env DUMMY=1 node scripts/generate.mjs",
     "seed": "cross-env POSTS_PER_RUN=25 node scripts/generate.mjs",
     "seed:dummy": "cross-env DUMMY=1 POSTS_PER_RUN=25 node scripts/generate.mjs",
-    "refresh": "node scripts/refresh.mjs"
+    "refresh": "node scripts/refresh.mjs",
+    "test": "node --test"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.30.1",
