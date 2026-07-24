@@ -6,10 +6,10 @@ region: Hyderabad
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/1/15/Kadamba_inscription_from_Kerala.jpg
-  credit: 'Photo: E. Hultzsch, and W. Griggs / Wikimedia Commons (Public domain)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Kadamba_inscription_from_Kerala.jpg
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Birla_Mandir_in_Hyderabad%2C_2015.JPG/1920px-Birla_Mandir_in_Hyderabad%2C_2015.JPG"
+  credit: "Photo: Nikhilb239 / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Birla_Mandir_in_Hyderabad,_2015.JPG"
 gallery: []
 tags:
   - hyderabad

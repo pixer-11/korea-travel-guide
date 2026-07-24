@@ -6,10 +6,10 @@ region: Shanghai
 category: restaurant
 pubDate: '2026-07-23'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Commander%2C_U.S._7th_Fleet%2C_Vice_Adm._Joseph_Aucoin_and_Chinese_Vice_Adm._Wang_Hai.jpg/1920px-Commander%2C_U.S._7th_Fleet%2C_Vice_Adm._Joseph_Aucoin_and_Chinese_Vice_Adm._Wang_Hai.jpg
-  credit: 'Photo: U.S. Navy photo by Mass Communication Specialist 2nd Class Indra Bosko/Released / Wikimedia Commons (Public domain)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Commander,_U.S._7th_Fleet,_Vice_Adm._Joseph_Aucoin_and_Chinese_Vice_Adm._Wang_Hai.jpg
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Pudong_Shanghai_November_2017_panorama.jpg/1920px-Pudong_Shanghai_November_2017_panorama.jpg"
+  credit: "Photo: King of Hearts / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Pudong_Shanghai_November_2017_panorama.jpg"
 gallery: []
 tags:
   - shanghai

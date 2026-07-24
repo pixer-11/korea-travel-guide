@@ -6,10 +6,10 @@ region: Rome
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Chiocciole_Luna_%28Neverita_sp.%29_-_Rome%2C_Italy_2024-03-02_%2802%29.jpg/1920px-Chiocciole_Luna_%28Neverita_sp.%29_-_Rome%2C_Italy_2024-03-02_%2802%29.jpg
-  credit: 'Photo: Ryan Hodnett / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Chiocciole_Luna_(Neverita_sp.)_-_Rome,_Italy_2024-03-02_(02).jpg
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Rome_%28Italy%29%2C_Piazza_della_Rotonda%2C_Hub_of_a_Coach_--_2013_--_10.jpg/1920px-Rome_%28Italy%29%2C_Piazza_della_Rotonda%2C_Hub_of_a_Coach_--_2013_--_10.jpg"
+  credit: "Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Rome_(Italy),_Piazza_della_Rotonda,_Hub_of_a_Coach_--_2013_--_10.jpg"
 gallery: []
 tags:
   - rome

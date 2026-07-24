@@ -6,10 +6,10 @@ region: Dubai
 category: restaurant
 pubDate: '2026-07-23'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Dubai_Jumeirah_Beach.JPG/1920px-Dubai_Jumeirah_Beach.JPG"
-  credit: "Photo: pe-sa / Wikimedia Commons (CC BY 3.0)"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Panorama_of_Dubai_from_Jumeriah_1.jpg/1920px-Panorama_of_Dubai_from_Jumeriah_1.jpg"
+  credit: "Photo: iMahesh / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Dubai_Jumeirah_Beach.JPG"
+  source: "https://commons.wikimedia.org/wiki/File:Panorama_of_Dubai_from_Jumeriah_1.jpg"
 gallery: []
 tags:
   - dubai

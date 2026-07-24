@@ -6,10 +6,10 @@ region: Rome
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/a/ae/La_futura_piazza_Venezia_nel_1870.png
-  credit: 'Photo: Unknown authorUnknown author / Wikimedia Commons (Public domain)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:La_futura_piazza_Venezia_nel_1870.png
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/StAngelo_Bridge_Rome.jpg/1920px-StAngelo_Bridge_Rome.jpg"
+  credit: "Photo: AngMoKio / Wikimedia Commons (CC BY-SA 2.5)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:StAngelo_Bridge_Rome.jpg"
 gallery: []
 tags:
   - rome

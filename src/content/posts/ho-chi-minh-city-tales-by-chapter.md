@@ -6,10 +6,10 @@ region: Ho Chi Minh City
 category: restaurant
 pubDate: '2026-07-23'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/2/27/Five_Oriental_Tales_-_chapter_heading_decoration.png
-  credit: 'Photo: Comte de Gobineau / Wikimedia Commons (Public domain)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Five_Oriental_Tales_-_chapter_heading_decoration.png
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Hongqi_H9%2C_Ho_Chi_Minh_City_%28LRM_20230826_155017%29.jpg/1920px-Hongqi_H9%2C_Ho_Chi_Minh_City_%28LRM_20230826_155017%29.jpg"
+  credit: "Photo: MB-one / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Hongqi_H9,_Ho_Chi_Minh_City_(LRM_20230826_155017).jpg"
 gallery: []
 tags:
   - ho chi minh city

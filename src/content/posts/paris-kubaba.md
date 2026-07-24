@@ -6,10 +6,10 @@ region: Paris
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Cast_of_Kubaba-British_Museum_C.149-IMG_3913-white.jpg/1920px-Cast_of_Kubaba-British_Museum_C.149-IMG_3913-white.jpg
-  credit: 'Photo: Rama / Wikimedia Commons (CC BY-SA 3.0 fr)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Cast_of_Kubaba-British_Museum_C.149-IMG_3913-white.jpg
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Paris_-_Eiffelturm_und_Marsfeld2.jpg/1920px-Paris_-_Eiffelturm_und_Marsfeld2.jpg"
+  credit: "Photo: Wladyslaw (Taxiarchos228) / Wikimedia Commons (CC BY 3.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Paris_-_Eiffelturm_und_Marsfeld2.jpg"
 gallery: []
 tags:
   - paris

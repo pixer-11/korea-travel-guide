@@ -6,10 +6,10 @@ region: Singapore
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/KAngel_cosplay_at_SMASH_2025.jpg/1920px-KAngel_cosplay_at_SMASH_2025.jpg
-  credit: 'Photo: Benlisquare / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:KAngel_cosplay_at_SMASH_2025.jpg
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/1_singapore_national_day_parade_2011_fireworks.jpg/1920px-1_singapore_national_day_parade_2011_fireworks.jpg"
+  credit: "Photo: chensiyuan / Wikimedia Commons (CC BY-SA 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:1_singapore_national_day_parade_2011_fireworks.jpg"
 gallery: []
 tags:
   - singapore

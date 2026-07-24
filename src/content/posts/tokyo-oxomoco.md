@@ -6,10 +6,10 @@ region: Tokyo
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oxomoco_NYC.jpg/1920px-Oxomoco_NYC.jpg
-  credit: 'Photo: Transpoman / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Oxomoco_NYC.jpg
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Minato_City%2C_Tokyo%2C_Japan.jpg/1920px-Minato_City%2C_Tokyo%2C_Japan.jpg"
+  credit: "Photo: David Kernan / Wikimedia Commons (CC BY 4.0)"
+  license: "wikimedia"
+  source: "https://commons.wikimedia.org/wiki/File:Minato_City,_Tokyo,_Japan.jpg"
 gallery: []
 tags:
   - tokyo
