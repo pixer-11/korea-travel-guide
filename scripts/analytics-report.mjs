@@ -17,6 +17,51 @@ const dayLabel = start.slice(0, 10);
 // Telegram report is skimmable instead of a wall of slugs.
 const LANG = { ko: '한국어', ja: '일본어', es: '스페인어', zh: '중국어' };
 const deslug = (s) => s.replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
+
+// Everything the user reads must be Korean, including place names. Reuse the
+// site's own place table (src/i18n/places.json) for country/city names, and the
+// Korean post translations for article titles, so the report never shows a raw
+// English slug like "South Korea (국가)" or "Hanoi Hanoi Old Quarter".
+import { readFileSync } from 'node:fs';
+import { join } from 'node:path';
+import { fileURLToPath } from 'node:url';
+const readJson = (rel) => {
+  try { return JSON.parse(readFileSync(fileURLToPath(new URL(rel, import.meta.url)), 'utf8')); }
+  catch { return {}; }
+};
+const PLACES = readJson('../src/i18n/places.json');
+const koPlace = (englishName) => PLACES[englishName]?.ko || englishName;
+const I18N_KO = fileURLToPath(new URL('../src/content/i18n/ko/', import.meta.url));
+function koPostTitle(slug) {
+  try {
+    const fm = readFileSync(join(I18N_KO, `${slug}.md`), 'utf8').split('---')[1] || '';
+    const m = /(?:^|\n)title:[ \t]*(?:'((?:[^']|'')*)'|"([^"]*)"|([^\n]+))/.exec(fm);
+    const v = m ? (m[1]?.replace(/''/g, "'") ?? m[2] ?? m[3] ?? '').trim() : '';
+    return v || null;
+  } catch { return null; }
+}
+// Cloudflare returns ISO-2 country codes; show the Korean name (fall back to the
+// code for anywhere not listed).
+const COUNTRY_KO = {
+  KR: '대한민국', US: '미국', JP: '일본', CN: '중국', VN: '베트남', TH: '태국', GB: '영국',
+  FR: '프랑스', DE: '독일', IN: '인도', SG: '싱가포르', PH: '필리핀', ID: '인도네시아',
+  MY: '말레이시아', TW: '대만', HK: '홍콩', MO: '마카오', AU: '호주', NZ: '뉴질랜드',
+  CA: '캐나다', ES: '스페인', IT: '이탈리아', TR: '튀르키예', AE: '아랍에미리트',
+  SA: '사우디아라비아', QA: '카타르', RU: '러시아', BR: '브라질', MX: '멕시코',
+  AR: '아르헨티나', CL: '칠레', CO: '콜롬비아', PE: '페루', NL: '네덜란드', BE: '벨기에',
+  CH: '스위스', AT: '오스트리아', SE: '스웨덴', NO: '노르웨이', DK: '덴마크', FI: '핀란드',
+  IE: '아일랜드', PT: '포르투갈', GR: '그리스', PL: '폴란드', CZ: '체코', HU: '헝가리',
+  RO: '루마니아', UA: '우크라이나', IL: '이스라엘', EG: '이집트', ZA: '남아프리카공화국',
+  NG: '나이지리아', KE: '케냐', PK: '파키스탄', BD: '방글라데시', LK: '스리랑카',
+  NP: '네팔', MM: '미얀마', KH: '캄보디아', LA: '라오스', MN: '몽골', KZ: '카자흐스탄',
+};
+const koCountry = (code) => COUNTRY_KO[String(code || '').toUpperCase()] || code || '기타';
+// Plausible's referrer buckets are English labels, not data we control.
+const koSource = (s) => {
+  const v = String(s || '').trim();
+  if (!v || /^direct/i.test(v) || v === 'None') return '직접 유입';
+  return v;
+};
 function pageLabel(path) {
   const p = (path || '/').replace(/\/+$/, '') || '/';
   if (p === '/') return '홈';
@@ -29,10 +74,19 @@ function pageLabel(path) {
     '/regions': '지역 전체', '/free/trip-checklist': '여행 체크리스트',
   };
   if (FIXED[p]) return FIXED[p];
-  if ((m = p.match(/^\/destinations\/(.+)/))) return `${deslug(m[1])} (국가)`;
-  if ((m = p.match(/^\/regions\/(.+)/))) return `${deslug(m[1])} (지역)`;
-  if ((m = p.match(/^\/essentials\/(.+)/))) return `필수정보: ${deslug(m[1])}`;
-  if ((m = p.match(/^\/posts\/(.+)/))) return `글: ${deslug(m[1])}`;
+  if ((m = p.match(/^\/destinations\/(.+)/))) return `${koPlace(deslug(m[1]))} (국가)`;
+  if ((m = p.match(/^\/regions\/(.+)/))) return `${koPlace(deslug(m[1]))} (지역)`;
+  if ((m = p.match(/^\/essentials\/(.+)/))) {
+    const ESS_KO = {
+      Visa: '비자·입국', Transport: '교통·이동', Money: '돈·비용',
+      'Best Time To Visit': '가기 좋은 시기', Emergency: '응급·도움',
+    };
+    const label = deslug(m[1]);
+    return `필수정보: ${ESS_KO[label] || koPlace(label)}`;
+  }
+  // Prefer the Korean translation's title; fall back to the slug if that post
+  // hasn't been translated yet.
+  if ((m = p.match(/^\/posts\/(.+)/))) return `글: ${koPostTitle(m[1]) || deslug(m[1])}`;
   return p;
 }
 
@@ -98,7 +152,7 @@ async function cfReport() {
   const t = a.totals?.[0] ?? { count: 0, sum: { visits: 0 } };
   const pageviews = t.count ?? 0;
   const visits = t.sum?.visits ?? 0;
-  const countries = (a.countries ?? []).map((c) => `${c.dimensions.countryName || '??'} ${c.count}`).join(' · ') || '—';
+  const countries = (a.countries ?? []).map((c) => `${koCountry(c.dimensions.countryName)} ${c.count}`).join(' · ') || '—';
   const pages = (a.pages ?? []).map((p) => `  • ${pageLabel(p.dimensions.requestPath)} — ${p.count}`).join('\n') || '  —';
 
   const text = `📊 Wander Atlas — 일일 분석 (${dayLabel} UTC)
@@ -142,12 +196,12 @@ async function plausibleReport() {
     const R = agg.results ?? {};
     const dur = Math.round((R.visit_duration?.value ?? 0));
     const topPages = (pages.results ?? []).map((p) => `  • ${pageLabel(p.page)} — ${p.visitors}`).join('\n') || '  —';
-    const topSrc = (sources.results ?? []).map((x) => `${x.source || 'Direct'} ${x.visitors}`).join(' · ') || '—';
+    const topSrc = (sources.results ?? []).map((x) => `${koSource(x.source)} ${x.visitors}`).join(' · ') || '—';
     const text = `📈 Wander Atlas — 상세 분석 · Plausible (${dayLabel} UTC)
 👥 방문자: ${(R.visitors?.value ?? 0).toLocaleString()}
 👀 페이지뷰: ${(R.pageviews?.value ?? 0).toLocaleString()}
-↩️ 이탈률: ${R.bounce_rate?.value ?? 0}% · ⏱️ 평균체류: ${dur}s
-🖱️ 제휴 클릭(Affiliate click): ${clicks}
+↩️ 이탈률: ${R.bounce_rate?.value ?? 0}% · ⏱️ 평균 체류: ${dur}초
+🖱️ 제휴 링크 클릭: ${clicks}
 🌐 유입원: ${topSrc}
 🔥 인기 페이지:
 ${topPages}`;
