@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { renderSingleRegion } from './newsletter-render.mjs';
+import { renderSingleRegion, renderGlobal, renderMultiRegion } from './newsletter-render.mjs';
 
 const edition = {
   hero: { slug: 'al-khayma', title: 'Al Khayma Heritage Restaurant', category: 'restaurant', image: { url: 'https://images.unsplash.com/photo-hero', credit: 'c' } },
@@ -34,4 +34,28 @@ test('html contains hero image, every story title, events section, unsubscribe, 
 test('no events section when there are no events', () => {
   const { html } = renderSingleRegion({ edition: { ...edition, events: [] }, region: 'Dubai', lang: 'en', links });
   assert.doesNotMatch(html, /Upcoming events/);
+});
+
+test('renderGlobal shows region labels and localized subject', () => {
+  const ed = {
+    hero: { slug: 'dubai-1', title: 'Old Dubai eats', category: 'restaurant', image: { url: 'https://i/x' }, region: 'Dubai' },
+    stories: [{ slug: 'paris-1', title: 'Paris brunch', category: 'restaurant', image: { url: 'https://i/y' }, region: 'Paris' }],
+    events: [], usedPostSlugs: [], usedEventSlugs: [],
+  };
+  const { subject, html } = renderGlobal({ edition: ed, lang: 'ko', links });
+  assert.match(subject, /Wander Atlas/);
+  assert.match(html, /Dubai/); assert.match(html, /Paris/);
+  assert.match(html, /Old Dubai eats/); assert.match(html, /Paris brunch/);
+});
+
+test('renderMultiRegion renders one labelled section per region', () => {
+  const ed = {
+    sections: [
+      { region: 'Dubai', stories: [{ slug: 'd1', title: 'Dubai thing', category: 'restaurant', image: { url: 'https://i/a' } }] },
+      { region: 'Paris', stories: [{ slug: 'p1', title: 'Paris thing', category: 'attraction', image: { url: 'https://i/b' } }] },
+    ], events: [], usedPostSlugs: [], usedEventSlugs: [],
+  };
+  const { html } = renderMultiRegion({ edition: ed, regions: ['Dubai', 'Paris'], lang: 'en', links });
+  assert.match(html, /Dubai thing/); assert.match(html, /Paris thing/);
+  assert.match(html, /Dubai/); assert.match(html, /Paris/);
 });
