@@ -1,8 +1,13 @@
 {
-  // Cloudflare Workers static-assets config — serves the built Astro site.
+  // Cloudflare Workers config — static Astro site (asset-first) + a small
+  // worker for the non-asset endpoints (/preferences, /tg Telegram webhook).
+  // Static requests never touch the worker; missing env vars only disable
+  // the endpoints, never the site.
   "name": "korea-travel-guide",
   "compatibility_date": "2025-01-01",
+  "main": "worker/index.mjs",
   "assets": {
-    "directory": "./dist"
+    "directory": "./dist",
+    "binding": "ASSETS"
   }
 }

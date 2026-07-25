@@ -1,0 +1,40 @@
+name: Telegram 원격제어 연결 (최초 1회)
+
+# One-time: registers the site worker (/tg) as the bot's webhook so the owner
+# can control the newsletter from Telegram (/현황, /미리보기, /발송).
+# secret_token = HMAC-SHA256(bot_token, "wh") — the worker derives the same
+# value from its own TELEGRAM_BOT_TOKEN env var and rejects everything else.
+# Uses the SITE bot (TELEGRAM_BOT_TOKEN secret) — a bot has exactly ONE webhook,
+# so this must never be pointed at a bot that another system already uses.
+on:
+  workflow_dispatch:
+
+jobs:
+  register:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set webhook
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        run: |
+          [ -z "$TELEGRAM_BOT_TOKEN" ] && { echo "no token"; exit 1; }
+          SECRET=$(printf 'wh' | openssl dgst -sha256 -hmac "$TELEGRAM_BOT_TOKEN" -hex | awk '{print $NF}')
+          RESP=$(curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/setWebhook" \
+            --data-urlencode "url=https://wanderatlasguides.com/tg" \
+            --data-urlencode "secret_token=$SECRET" \
+            --data-urlencode 'allowed_updates=["message","callback_query"]')
+          echo "$RESP" | grep -q '"ok":true' || { echo "setWebhook failed: $RESP"; exit 1; }
+          echo "Webhook registered."
+
+      - name: Notify Telegram
+        if: success()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+            --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
+            --data-urlencode "text=🤖 텔레그램 원격제어가 연결되었습니다! 이제 이 채팅에서 명령을 쓸 수 있어요:
+/현황 — 구독자 수 확인
+/미리보기 — 이번 주 뉴스레터 드라이런
+/발송 — 실제 발송 (버튼 확인 후)" >/dev/null || true
