@@ -25,7 +25,7 @@ faq:
 
 ## 가는 방법
 
-클라우드 게이트는 밀레니엄 파크(Millennium Park) 북서쪽 구역에 위치한 AT&T 플라자(AT&T Plaza) 내, 201 E Randolph St, Chicago, IL 60602에 있습니다. 가장 가까운 CTA 철도역은 공원 바로 아래에 위치한 메트라 일렉트릭 라인(Metra Electric line)의 Randolph/Washington Millennium역이지만, 일반적인 "L" 열차를 이용하려면 레드, 블루, 브라운, 그린, 오렌지, 퍼플, 핑크 라인을 타고 Lake역(레드 라인) 또는 Washington/Wabash역에서 내리면 됩니다. 두 역 모두 동쪽으로 5~10분 정도 걸어야 합니다. 다운타운의 여러 버스 노선도 미시간 애비뉴(Michigan Avenue)와 랜돌프 스트리트(Randolph Street)를 따라 한두 블록 이내를 지납니다. 자동차로 이동한다면 미시간 애비뉴 쪽 공원 지하에 위치한 밀레니엄 파크 주차장(Millennium Park Garage)이 가장 편리하며, 컬럼버스 드라이브(Columbus Drive)와 먼로 스트리트(Monroe Street) 쪽에서 진입할 수 있습니다. 위의 어느 지점에서 출발하든 조각품까지는 평지로 이어져 있어 완전히 접근이 용이하며, 광장까지 가는 데 계단은 필요하지 않습니다.
+클라우드 게이트는 밀레니엄 파크(Millennium Park) 북서쪽 구역에 위치한 AT&T 플라자(AT&T Plaza) 내, 201 E Randolph St, Chicago, IL 60602에 있습니다. 가장 가까운 CTA 철도역은 공원 바로 아래에 위치한 메트라 일렉트릭 라인(Metra Electric line)의 Randolph/Washington Millennium역이지만, 일반적인 "L" 열차를 이용하려면 레드, 블루, 브라운, 그린, 오렌지, 퍼플, 핑크 라인을 타고 Lake역(레드 라인) 또는 Washington/Wabash역에서 내리면 됩니다. 두 역 모두 동쪽으로 5\~10분 정도 걸어야 합니다. 다운타운의 여러 버스 노선도 미시간 애비뉴(Michigan Avenue)와 랜돌프 스트리트(Randolph Street)를 따라 한두 블록 이내를 지납니다. 자동차로 이동한다면 미시간 애비뉴 쪽 공원 지하에 위치한 밀레니엄 파크 주차장(Millennium Park Garage)이 가장 편리하며, 컬럼버스 드라이브(Columbus Drive)와 먼로 스트리트(Monroe Street) 쪽에서 진입할 수 있습니다. 위의 어느 지점에서 출발하든 조각품까지는 평지로 이어져 있어 완전히 접근이 용이하며, 광장까지 가는 데 계단은 필요하지 않습니다.
 
 ## 볼거리 및 즐길 거리
 

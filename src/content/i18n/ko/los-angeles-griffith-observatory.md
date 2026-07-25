@@ -25,7 +25,7 @@ faq:
 
 ## 가는 방법
 
-주소는 2800 E Observatory Rd, Los Angeles, CA 90027이며, 그리피스 파크(Griffith Park) 안에 위치합니다. 고속도로에서 바로 연결되는 출구는 없어서, 대부분의 방문객은 버몬트 애비뉴(Vermont Avenue)나 웨스턴 캐년 로드(Western Canyon Road)를 통해 올라갑니다. 두 길 모두 공원을 구불구불 지나 천문대의 작은 주차장으로 이어지는데, 이 주차장은 주말과 공휴일에 금세 만차가 됩니다. 일찍 도착하거나, 자리가 날 때까지 돌거나, 도로변을 따라 언덕 아래쪽에 주차할 각오를 하세요. 붐비는 날에는 버몬트/선셋(Vermont/Sunset) 메트로 레드 라인(Metro Red Line) 역 부근에서 출발하는 계절 한정 DASH 옵저버토리(DASH Observatory) 셔틀(주말·공휴일 운행)을 이용하는 편이 낫습니다. 주차 전쟁을 완전히 피할 수 있습니다. 도보로 이동하고 싶다면 로스 펠리즈 대로(Los Feliz Boulevard)에서 이어지는 펀 델(Fern Dell) 입구에서 시작하는 찰리 터너 트레일(Charlie Turner Trail)이나 베를린 포레스트 트레일(Berlin Forest trail)을 따라 오를 수도 있는데, 약 20~30분 정도의 오르막길로 작은 운동 삼아 걷기 좋고 도착하면 멋진 전망이 기다립니다.
+주소는 2800 E Observatory Rd, Los Angeles, CA 90027이며, 그리피스 파크(Griffith Park) 안에 위치합니다. 고속도로에서 바로 연결되는 출구는 없어서, 대부분의 방문객은 버몬트 애비뉴(Vermont Avenue)나 웨스턴 캐년 로드(Western Canyon Road)를 통해 올라갑니다. 두 길 모두 공원을 구불구불 지나 천문대의 작은 주차장으로 이어지는데, 이 주차장은 주말과 공휴일에 금세 만차가 됩니다. 일찍 도착하거나, 자리가 날 때까지 돌거나, 도로변을 따라 언덕 아래쪽에 주차할 각오를 하세요. 붐비는 날에는 버몬트/선셋(Vermont/Sunset) 메트로 레드 라인(Metro Red Line) 역 부근에서 출발하는 계절 한정 DASH 옵저버토리(DASH Observatory) 셔틀(주말·공휴일 운행)을 이용하는 편이 낫습니다. 주차 전쟁을 완전히 피할 수 있습니다. 도보로 이동하고 싶다면 로스 펠리즈 대로(Los Feliz Boulevard)에서 이어지는 펀 델(Fern Dell) 입구에서 시작하는 찰리 터너 트레일(Charlie Turner Trail)이나 베를린 포레스트 트레일(Berlin Forest trail)을 따라 오를 수도 있는데, 약 20\~30분 정도의 오르막길로 작은 운동 삼아 걷기 좋고 도착하면 멋진 전망이 기다립니다.
 
 ## 무엇을 보고 즐길까
 

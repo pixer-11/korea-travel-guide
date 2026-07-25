@@ -25,7 +25,7 @@ faq:
 
 ## 위치 및 가는 방법
 
-두바이 바라피나는 갤러리, 고급 다이닝, 퇴근 후 즐기는 바들이 밀집한 두바이의 금융·라이프스타일 지구인 DIFC(Dubai International Financial Centre)에 위치해 있습니다. DIFC는 셰이크 자이드 로드(Sheikh Zayed Road) 바로 옆, 레드 라인(Red Line)의 파이낸셜 센터(Financial Centre)역과 에미레이트 타워(Emirates Towers)역 사이에 자리하고 있는데, 일반적으로 에미레이트 타워역이 DIFC의 게이트 빌리지(Gate Village)와 주변 레스토랑 밀집 지역으로 걸어가기에 더 편리합니다. 다운타운 두바이(Downtown Dubai), 비즈니스 베이(Business Bay), 마리나(Marina) 등에서 온다면 택시나 차량 공유 서비스로 이동하는 것이 가장 간단한데, DIFC 내부 도로는 도착 후 도보로 다니는 것이 가장 편리하기 때문입니다. 레스토랑이 DIFC 내 정확히 어디에 위치해 있는지에 따라 지하철역에서 도보로 5~10분 정도 걸리니, 특히 여름철 더위를 고려해 시간을 넉넉히 잡는 것이 좋습니다.
+두바이 바라피나는 갤러리, 고급 다이닝, 퇴근 후 즐기는 바들이 밀집한 두바이의 금융·라이프스타일 지구인 DIFC(Dubai International Financial Centre)에 위치해 있습니다. DIFC는 셰이크 자이드 로드(Sheikh Zayed Road) 바로 옆, 레드 라인(Red Line)의 파이낸셜 센터(Financial Centre)역과 에미레이트 타워(Emirates Towers)역 사이에 자리하고 있는데, 일반적으로 에미레이트 타워역이 DIFC의 게이트 빌리지(Gate Village)와 주변 레스토랑 밀집 지역으로 걸어가기에 더 편리합니다. 다운타운 두바이(Downtown Dubai), 비즈니스 베이(Business Bay), 마리나(Marina) 등에서 온다면 택시나 차량 공유 서비스로 이동하는 것이 가장 간단한데, DIFC 내부 도로는 도착 후 도보로 다니는 것이 가장 편리하기 때문입니다. 레스토랑이 DIFC 내 정확히 어디에 위치해 있는지에 따라 지하철역에서 도보로 5\~10분 정도 걸리니, 특히 여름철 더위를 고려해 시간을 넉넉히 잡는 것이 좋습니다.
 
 ## 카운터에서 기대할 수 있는 것
 

@@ -99,7 +99,12 @@ async function translateOne(langCode, srcId, data) {
     ...(out.quickAnswer ? { quickAnswer: out.quickAnswer } : {}),
     faq: Array.isArray(out.faq) ? out.faq.filter((f) => f?.q && f?.a) : [],
   };
-  const file = `---\n${yaml.dump(fm, { lineWidth: -1 })}---\n\n${out.body.trim()}\n`;
+  // Korean/Japanese write ranges with a tilde ("4~5월", "11시~12시"). In Markdown a
+  // tilde is the strikethrough marker, so two of them in one paragraph struck out
+  // everything between (hit 308 posts). Escape them in the BODY — frontmatter
+  // (quickAnswer/faq) renders as plain text and must stay unescaped.
+  const body = out.body.trim().replace(/(?<!\\)~/g, '\\~');
+  const file = `---\n${yaml.dump(fm, { lineWidth: -1 })}---\n\n${body}\n`;
   const dir = join(OUT, langCode);
   await mkdir(dir, { recursive: true });
   await writeFile(join(dir, `${srcId}.md`), file, 'utf8');

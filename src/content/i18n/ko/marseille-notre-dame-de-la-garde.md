@@ -25,7 +25,7 @@ faq:
 
 ## 가는 방법
 
-대성당은 Rue Fort du Sanctuaire, 13006 Marseille에 위치하며, 지하철 노선망과는 떨어진 언덕 위에 있어 정상까지 바로 연결되는 기차역은 없습니다. 가장 일반적인 방법은 비외포르(Vieux-Port, Cours Jean Ballard/Rond-Point du Prado 인근)에서 성당 입구까지 바로 운행하는 60번 버스를 이용하는 것으로, 오르막을 걷고 싶지 않다면 유용합니다. 또는 비외포르 인근에서 출발해 언덕을 오르는 작은 관광 열차인 프티 트랭 드 라 본 메르(Le Petit Train de la Bonne Mère)를 타는 방법도 있는데, 가족 단위 여행객들에게 인기가 많습니다. 많은 방문객들은 비외포르에서 출발해 생빅토르(Saint-Victor)와 봉파르(Bompard) 지구를 지나 Boulevard André Aune을 따라가다 Rue Cherchell/Rue Fort du Sanctuaire로 이어지는 길을 걸어서 오르는데, 오르막이 상당히 가팔라 약 25~35분 정도 걸리므로 샌들보다는 제대로 된 신발을 신는 것이 좋습니다. 정상 인근에 주차 공간이 있지만 자리가 금방 차며, 특히 주말에는 더욱 그렇습니다.
+대성당은 Rue Fort du Sanctuaire, 13006 Marseille에 위치하며, 지하철 노선망과는 떨어진 언덕 위에 있어 정상까지 바로 연결되는 기차역은 없습니다. 가장 일반적인 방법은 비외포르(Vieux-Port, Cours Jean Ballard/Rond-Point du Prado 인근)에서 성당 입구까지 바로 운행하는 60번 버스를 이용하는 것으로, 오르막을 걷고 싶지 않다면 유용합니다. 또는 비외포르 인근에서 출발해 언덕을 오르는 작은 관광 열차인 프티 트랭 드 라 본 메르(Le Petit Train de la Bonne Mère)를 타는 방법도 있는데, 가족 단위 여행객들에게 인기가 많습니다. 많은 방문객들은 비외포르에서 출발해 생빅토르(Saint-Victor)와 봉파르(Bompard) 지구를 지나 Boulevard André Aune을 따라가다 Rue Cherchell/Rue Fort du Sanctuaire로 이어지는 길을 걸어서 오르는데, 오르막이 상당히 가팔라 약 25\~35분 정도 걸리므로 샌들보다는 제대로 된 신발을 신는 것이 좋습니다. 정상 인근에 주차 공간이 있지만 자리가 금방 차며, 특히 주말에는 더욱 그렇습니다.
 
 ## 무엇을 볼까
 

@@ -25,7 +25,7 @@ IMAYA Kyoto &COFFEE는 1,200개가 넘는 리뷰에서 평점 4.8점을 기록�
 
 ## 가는 방법
 
-주소는 726-4 Shimomatsuyachō, Nakagyo Ward, Kyoto로, 니시키 시장(Nishiki Market), 데라마치(Teramachi)와 신교고쿠(Shinkyogoku) 지붕 있는 상점가, 교토 국제만화박물관(Kyoto International Manga Museum)과 같은 나카교(Nakagyo) 중심 지구에 자리합니다. 교토 시내 중심의 주요 지하철역에서 도보로 이동 가능한 거리로, 가라스마 오이케역(Karasuma Oike Station, 가라스마선·도자이선)이나 교토 시야쿠쇼마에역(Kyoto Shiyakusho-mae Station, 도자이선) 모두에서 도보 약 10~15분이면 도착합니다. 교토역(Kyoto Station)에서 온다면 가라스마 지하철선을 타고 북쪽으로 약 10분이면 가라스마 오이케역에 도착하므로, 택시 없이도 손쉽게 이동할 수 있습니다. 카페가 큰길이 아닌 작은 뒷골목에 자리하고 있어, 출발 전에 지도 앱으로 정확한 위치를 미리 찍어두는 것이 좋습니다. 나카교의 좁은 골목길은 교토를 여러 번 방문해 본 사람에게도 헷갈릴 수 있습니다.
+주소는 726-4 Shimomatsuyachō, Nakagyo Ward, Kyoto로, 니시키 시장(Nishiki Market), 데라마치(Teramachi)와 신교고쿠(Shinkyogoku) 지붕 있는 상점가, 교토 국제만화박물관(Kyoto International Manga Museum)과 같은 나카교(Nakagyo) 중심 지구에 자리합니다. 교토 시내 중심의 주요 지하철역에서 도보로 이동 가능한 거리로, 가라스마 오이케역(Karasuma Oike Station, 가라스마선·도자이선)이나 교토 시야쿠쇼마에역(Kyoto Shiyakusho-mae Station, 도자이선) 모두에서 도보 약 10\~15분이면 도착합니다. 교토역(Kyoto Station)에서 온다면 가라스마 지하철선을 타고 북쪽으로 약 10분이면 가라스마 오이케역에 도착하므로, 택시 없이도 손쉽게 이동할 수 있습니다. 카페가 큰길이 아닌 작은 뒷골목에 자리하고 있어, 출발 전에 지도 앱으로 정확한 위치를 미리 찍어두는 것이 좋습니다. 나카교의 좁은 골목길은 교토를 여러 번 방문해 본 사람에게도 헷갈릴 수 있습니다.
 
 ## 무엇을 보고 즐길까
 

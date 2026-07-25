@@ -25,7 +25,7 @@ faq:
 
 ## 가는 방법
 
-오아시스21은 사카에역(Sakae Station) 바로 위에 자리하며, 나고야 시영 지하철(Nagoya Municipal Subway) 히가시야마선(Higashiyama Line)과 메이조선(Meijo Line)이 지나갑니다. 4번 또는 3번 출구로 나오면 곧바로 시설 지하층으로 이어집니다. 메이테쓰 세토선(Meitetsu Seto Line)의 사카에역과도 연결됩니다. 1층이 일반 버스와 고속버스가 오가는 버스터미널을 겸하고 있어, 아이치현(Aichi Prefecture) 다른 지역에서 온다면 오아시스21이 자연스러운 교통 거점이 됩니다. 도보로는 나고야 TV 타워/히사야오도리 공원 일대까지 약 5~10분, 나고야 시립 과학관(Nagoya City Science Museum)과 아이치 예술문화센터(Aichi Arts Center)까지 약 10분 거리로, 사카에 지역을 오후 일정으로 함께 묶기에 좋습니다.
+오아시스21은 사카에역(Sakae Station) 바로 위에 자리하며, 나고야 시영 지하철(Nagoya Municipal Subway) 히가시야마선(Higashiyama Line)과 메이조선(Meijo Line)이 지나갑니다. 4번 또는 3번 출구로 나오면 곧바로 시설 지하층으로 이어집니다. 메이테쓰 세토선(Meitetsu Seto Line)의 사카에역과도 연결됩니다. 1층이 일반 버스와 고속버스가 오가는 버스터미널을 겸하고 있어, 아이치현(Aichi Prefecture) 다른 지역에서 온다면 오아시스21이 자연스러운 교통 거점이 됩니다. 도보로는 나고야 TV 타워/히사야오도리 공원 일대까지 약 5\~10분, 나고야 시립 과학관(Nagoya City Science Museum)과 아이치 예술문화센터(Aichi Arts Center)까지 약 10분 거리로, 사카에 지역을 오후 일정으로 함께 묶기에 좋습니다.
 
 ## 볼거리와 즐길거리
 
