@@ -1,1 +1,104 @@
-{}
+{
+ "abu-dhabi-third-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Crosswalk_of_Market_at_Third%2C_San_Francisco.jpg/1920px-Crosswalk_of_Market_at_Third%2C_San_Francisco.jpg": {
+  "slug": "abu-dhabi-third-street",
+  "verdict": "MISMATCH",
+  "reason": "Aerial urban street scene, not a restaurant",
+  "at": "2026-07-25T02:38:17.754Z"
+ },
+ "ajman-ajman-secret-beach\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Ajman_Nov._2010_-24.jpg/1920px-Ajman_Nov._2010_-24.jpg": {
+  "slug": "ajman-ajman-secret-beach",
+  "verdict": "MISMATCH",
+  "reason": "Urban cityscape, not a beach or coastal setting",
+  "at": "2026-07-25T02:38:22.446Z"
+ },
+ "ajman-souryana-restaurant-and-cafe\u0001https://upload.wikimedia.org/wikipedia/commons/8/84/Diving_equipment_at_local_diving_center_in_Ajman%2C_emirate_of_Ajman%2C_United_Arab_Emirates%2C_Spring%2C_2011_%282%29.jpg": {
+  "slug": "ajman-souryana-restaurant-and-cafe",
+  "verdict": "MISMATCH",
+  "reason": "Diving equipment shop, not restaurant",
+  "at": "2026-07-25T02:38:24.133Z"
+ },
+ "ajman-the-seat-cafe\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Seats_in_Cafe_%26_Laundrette%2C_East_Reach%2C_Taunton_2025-07-26.jpg/1920px-Seats_in_Cafe_%26_Laundrette%2C_East_Reach%2C_Taunton_2025-07-26.jpg": {
+  "slug": "ajman-the-seat-cafe",
+  "verdict": "MATCH",
+  "reason": "Trendy café interior with modern seating, UAE location visib",
+  "at": "2026-07-25T02:38:25.854Z"
+ },
+ "ajman-yemeni-corner-restaurant\u0001https://upload.wikimedia.org/wikipedia/commons/5/56/Diving_equipment_at_local_diving_center_in_Ajman%2C_emirate_of_Ajman%2C_United_Arab_Emirates%2C_Spring%2C_2011_%283%29.jpg": {
+  "slug": "ajman-yemeni-corner-restaurant",
+  "verdict": "MISMATCH",
+  "reason": "Diving equipment, not restaurant interior/food",
+  "at": "2026-07-25T02:38:27.244Z"
+ },
+ "ayutthaya-the-summer-house\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Bodnant_Garden_summer_house_-_north_facade.jpg/1920px-Bodnant_Garden_summer_house_-_north_facade.jpg": {
+  "slug": "ayutthaya-the-summer-house",
+  "verdict": "MISMATCH",
+  "reason": "English country estate, not Thai venue",
+  "at": "2026-07-25T02:38:28.718Z"
+ },
+ "bali-bingin-uluwatu-pak-gula\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sunset%2C_Kuta%2C_Bali%2C_Indonesia%2C_20220825_1755_0879.jpg/1920px-Sunset%2C_Kuta%2C_Bali%2C_Indonesia%2C_20220825_1755_0879.jpg": {
+  "slug": "bali-bingin-uluwatu-pak-gula",
+  "verdict": "MISMATCH",
+  "reason": "Beach sunset, not restaurant interior or food",
+  "at": "2026-07-25T02:38:30.209Z"
+ },
+ "bali-bukit-peninsula-uluwatu-avli\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Kreta_%28GR%29%2C_Rethymno%2C_Taverne_%22Avli%22_--_2023_--_8186.jpg/1920px-Kreta_%28GR%29%2C_Rethymno%2C_Taverne_%22Avli%22_--_2023_--_8186.jpg": {
+  "slug": "bali-bukit-peninsula-uluwatu-avli",
+  "verdict": "MISMATCH",
+  "reason": "Sign shows European architecture, not Balinese setting",
+  "at": "2026-07-25T02:38:31.868Z"
+ },
+ "bali-chai-of-the-tiger-indian-street-food\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Benoa_Bali_Indonesia-Bakso-street-vendor-02.jpg/1920px-Benoa_Bali_Indonesia-Bakso-street-vendor-02.jpg": {
+  "slug": "bali-chai-of-the-tiger-indian-street-food",
+  "verdict": "MISMATCH",
+  "reason": "Mobile food cart, not Indian restaurant in Bali",
+  "at": "2026-07-25T02:38:33.886Z"
+ },
+ "bali-livingstone\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Livingstone_and_the_Lion.jpg/1920px-Livingstone_and_the_Lion.jpg": {
+  "slug": "bali-livingstone",
+  "verdict": "MISMATCH",
+  "reason": "Sculpture park, not Livingstone restaurant in Bali",
+  "at": "2026-07-25T02:38:35.499Z"
+ },
+ "bali-secret-garden-village\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Secret_garden%2C_Glencoe_village_-_geograph.org.uk_-_7787359.jpg/1920px-Secret_garden%2C_Glencoe_village_-_geograph.org.uk_-_7787359.jpg": {
+  "slug": "bali-secret-garden-village",
+  "verdict": "MISMATCH",
+  "reason": "English garden, not Balinese. Wrong country.",
+  "at": "2026-07-25T02:38:36.988Z"
+ },
+ "bandung-sudirman-street-day-and-night-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Makanan_Siomay_Hokkie_Bandung.jpg/1920px-Makanan_Siomay_Hokkie_Bandung.jpg": {
+  "slug": "bandung-sudirman-street-day-and-night-market",
+  "verdict": "MATCH",
+  "reason": "Indonesian street food dish, authentic presentation",
+  "at": "2026-07-25T02:38:38.640Z"
+ },
+ "bangkok-cheaper-better-street-food\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Buddhist_offering_table_with_fruits_meat_rice_confectionery_flowers_and_candles_at_Bangkok_City_Pillar_Shrine_Thailand.jpg/1920px-Buddhist_offering_table_with_fruits_meat_rice_confectionery_flowers_and_candles_at_Bangkok_City_Pillar_Shrine_Thailand.jpg": {
+  "slug": "bangkok-cheaper-better-street-food",
+  "verdict": "MISMATCH",
+  "reason": "Buddhist temple altar, not Bangkok street food",
+  "at": "2026-07-25T02:38:40.585Z"
+ },
+ "bangkok-chinatown-night-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2025_Chinatown_International_District_Night_Market_on_King_Street.jpg/1920px-2025_Chinatown_International_District_Night_Market_on_King_Street.jpg": {
+  "slug": "bangkok-chinatown-night-market",
+  "verdict": "MISMATCH",
+  "reason": "Image shows daytime street fair, not night market",
+  "at": "2026-07-25T02:38:42.131Z"
+ },
+ "bangkok-hidden-bangkok-tours\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bangkok-HuaLamPhong_-_Bangkok_Mail_Centre_%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%9B%E0%B8%A3%E0%B8%A9%E0%B8%93%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E_%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%A5%E0%B8%B3%E0%B9%82%E0%B8%9E%E0%B8%87_%282025%29_-_img_08.jpg/1920px-Bangkok-HuaLamPhong_-_Bangkok_Mail_Centre_%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%9B%E0%B8%A3%E0%B8%A9%E0%B8%93%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E_%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%A5%E0%B8%B3%E0%B9%82%E0%B8%9E%E0%B8%87_%282025%29_-_img_08.jpg": {
+  "slug": "bangkok-hidden-bangkok-tours",
+  "verdict": "MISMATCH",
+  "reason": "Train yard, not a tourist venue or hidden gem",
+  "at": "2026-07-25T02:38:44.360Z"
+ },
+ "bangkok-somsak\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Somsak_Kosaisuk.jpg/1920px-Somsak_Kosaisuk.jpg": {
+  "slug": "bangkok-somsak",
+  "verdict": "MISMATCH",
+  "reason": "Portrait of person, not venue/food/setting",
+  "at": "2026-07-25T02:38:46.302Z"
+ },
+ "bangkok-the-island-bangkok-top-rated-thai-restaurant-bar\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Bangkok_-_Rama_VIII_Bridge_at_sunrise_Jan_2024.jpg/1920px-Bangkok_-_Rama_VIII_Bridge_at_sunrise_Jan_2024.jpg": {
+  "slug": "bangkok-the-island-bangkok-top-rated-thai-restaurant-bar",
+  "verdict": "MISMATCH",
+  "reason": "Bridge landmark, not restaurant venue",
+  "at": "2026-07-25T02:38:47.603Z"
+ }
+}
