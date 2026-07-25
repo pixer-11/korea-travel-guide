@@ -41,6 +41,15 @@ if (ONLY.size) files = files.filter((f) => ONLY.has(f.replace(/\.md$/, '')));
 // Off-topic / mismatched heroes (the OFFTOPIC blocklist — a restaurant showing a
 // moth specimen, a dune-bashing car, etc.) are sorted FIRST so the ugliest get
 // fixed within the day's quota before the merely-not-yet-hosted ones.
+// Posts the vision auditor (visual-audit.mjs) marked MISMATCH are top priority for
+// a real photo, alongside the keyword OFFTOPIC ones — so the ugliest get fixed first
+// within the day's quota. Self-maintaining: reads the committed audit results.
+let VMISMATCH = new Set();
+try {
+  const va = JSON.parse(await readFile(join(POSTS_DIR, '..', '..', '..', 'data', 'visual-audit.json'), 'utf8'));
+  for (const v of Object.values(va)) if (v && v.verdict === 'MISMATCH' && v.slug) VMISMATCH.add(v.slug);
+} catch { /* audit file optional */ }
+
 const candidates = [];
 for (const f of files) {
   const src = await readFile(join(POSTS_DIR, f), 'utf8');
@@ -49,7 +58,9 @@ for (const f of files) {
   const hero = heroUrl(src);
   if (hero.includes('/venue-photos/')) { already++; continue; } // done already
   let flagged = 1;
-  try { if (OFFTOPIC.test(decodeURIComponent(hero))) flagged = 0; } catch { /* keep 1 */ }
+  try {
+    if (VMISMATCH.has(f.replace(/\.md$/, '')) || OFFTOPIC.test(decodeURIComponent(hero))) flagged = 0;
+  } catch { /* keep 1 */ }
   candidates.push({ f, src, id, flagged });
 }
 candidates.sort((a, b) => a.flagged - b.flagged); // mismatched heroes first
