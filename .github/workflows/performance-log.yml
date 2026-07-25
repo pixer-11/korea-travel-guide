@@ -1,0 +1,41 @@
+name: Weekly performance log
+
+# Sunday snapshot of the week's Cloudflare Web Analytics into
+# data/performance-log.json (top pages + risers/fallers). The Obsidian vault's
+# /sync-blog reads this to keep performance.md data-driven.
+on:
+  schedule:
+    - cron: '55 20 * * 0' # Sun 20:55 UTC = Mon 05:55 KST (off the hour)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  log:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Snapshot week
+        env:
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+        run: node scripts/performance-log.mjs
+
+      - name: Commit
+        run: |
+          git config user.name "content-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/performance-log.json
+          if git diff --staged --quiet; then
+            echo "No snapshot change."
+          else
+            git commit -m "data: weekly performance snapshot ($(date -u +%Y-%m-%d))"
+            git pull --rebase origin main
+            git push
+          fi
