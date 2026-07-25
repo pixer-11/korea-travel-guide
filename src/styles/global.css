@@ -290,6 +290,10 @@ h1, h2, h3, h4 {
   }
 }
 
+/* Calendar-subscribe CTA on the events hub. */
+.cal-sub { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem 0.9rem; margin-top: 1.1rem; }
+.cal-hint { font-size: 0.82rem; color: var(--muted); }
+
 /* Share row (post footer). The native button is revealed by JS only where
    navigator.share exists — that's how readers reach KakaoTalk / LINE / WeChat,
    which can't be shared to from the web with a plain URL. */
