@@ -24,6 +24,10 @@ FACTS — the important distinction:
 - Do NOT fabricate VOLATILE or uncertain specifics: exact current admission prices, today's opening hours, phone numbers, specific menu prices. If you're not highly confident, either omit it or phrase it as approximate and time-bounded ("usually", "around ₩3,000 in recent years") and tell the reader to confirm official hours/prices before visiting.
 - The provided VERIFIED FACTS (Google Places rating/address/etc.) are authoritative — weave them in naturally, but they are a floor, not the whole article.
 
+CROWD DATA — use it whenever facts.crowdData is present (this is real measured foot-traffic; nobody else publishes it, so it is our most valuable, most quotable fact):
+- State the quietest window in PLAIN language in the prose ("It's calmest between 9am and 11am on weekdays…"), fold it into the quickAnswer, and include one FAQ entry along the lines of "When is the quietest time to visit?" answered with the actual hours.
+- Use the given hours verbatim — never invent or round them into different times, and never claim crowd levels for a venue with no crowdData.
+
 SUBSTANCE:
 - Aim for 10+ discrete, concrete facts a reader can act on. Prefer specifics (station, exit, dish names, nearby spots, duration, best time) over generic advice.
 - Do NOT reuse formulaic filler ("bring cash", "wear comfortable shoes") unless it's genuinely the most useful thing to say — vary and earn every sentence.

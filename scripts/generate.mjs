@@ -396,6 +396,19 @@ async function buildLivePost(target) {
     }
   } catch { /* foot-traffic is a bonus; never blocks publishing */ }
 
+  // Real foot-traffic hours are our ONE data moat (nobody else publishes this per
+  // venue) — hand them to the writer in plain language so they land in the prose,
+  // quickAnswer and FAQ, not just the sidebar box. Big AI-citation signal.
+  // %24 so an end hour of 24 reads as 12am (midnight), not 12pm.
+  const hr12 = (h) => { const x = ((h % 24) + 24) % 24; return `${x % 12 || 12}${x < 12 ? 'am' : 'pm'}`; };
+  const span = (a) => (a && a.length ? `${hr12(Math.min(...a))}–${hr12(Math.max(...a) + 1)}` : null);
+  const bz = place.busyness;
+  const crowdFacts = bz && {
+    quietestWeekday: span(bz.weekdayQuiet),
+    quietestWeekend: span(bz.weekendQuiet),
+    busiestWeekend: span(bz.weekendBusy),
+  };
+
   const facts = {
     name: place.name,
     address: place.address,
@@ -406,6 +419,7 @@ async function buildLivePost(target) {
     region: target.region,
     country: target.country,
     ...(localSignals && { localSignals }),
+    ...(crowdFacts && Object.values(crowdFacts).some(Boolean) && { crowdData: crowdFacts }),
   };
 
   const { body, quickAnswer, faq } = await writeArticle({
