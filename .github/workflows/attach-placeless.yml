@@ -1,0 +1,42 @@
+name: attach-placeless-photos
+# For PLACELESS posts that visual-audit flagged MISMATCH (no place.id → no Google
+# photo): text-search the venue by name+city and swap in the real Places photo
+# (name-match guarded). Runs right AFTER venue-photos, reusing whatever daily Places
+# quota is left, capped so the daily publish keeps headroom. Resumable, stops on 429.
+on:
+  schedule:
+    - cron: '25 8 * * *'   # 17:25 KST — after venue-photos (17:05), before publish
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'Max placeless posts to fix this run'
+        required: false
+        default: '10'
+permissions:
+  contents: write
+jobs:
+  attach:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+      - uses: actions/setup-node@v4
+        with: { node-version: '20' }
+      - run: npm ci
+      - name: Attach real photos to placeless mismatches
+        run: node scripts/attach-placeless-photos.mjs --apply --limit ${{ github.event.inputs.limit || '10' }}
+        env:
+          GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
+      - name: Build hero photo-wall
+        run: node scripts/build-wall.mjs
+      - name: Commit
+        run: |
+          git config user.name "content-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add public/venue-photos src/content/posts public/wall data/wall.json
+          if git diff --staged --quiet; then
+            echo "No placeless photos attached this run."
+          else
+            git commit -m "content: real photos for placeless venues ($(date -u +%Y-%m-%d))"
+            git pull --rebase origin main && git push
+          fi
