@@ -47,6 +47,14 @@ export async function searchPlaces(query, { max = 5 } = {}) {
   }
 
   const data = await res.json();
+  // One-shot diagnostic (PLACES_DEBUG=1): every venue lookup has been coming back
+  // with zero photos even when the call succeeds, so log which fields Google
+  // actually returned — that tells us whether the photo field is being withheld
+  // or we're dropping it on our side.
+  if (process.env.PLACES_DEBUG === '1' && data.places?.[0]) {
+    const p0 = data.places[0];
+    console.log(`[PLACES_DEBUG] returned keys=${JSON.stringify(Object.keys(p0))} photos=${(p0.photos || []).length}`);
+  }
   return (data.places ?? []).map(normalizePlace);
 }
 

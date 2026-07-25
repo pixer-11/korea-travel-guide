@@ -53,6 +53,7 @@ jobs:
           # Stops cleanly on 429 and resumes next day.
           PHOTO_LIMIT: ${{ github.event.inputs.limit || '25' }}
           SLUGS: ${{ github.event.inputs.slugs || '' }}
+          PLACES_DEBUG: '1'
         run: node scripts/backfill-venue-photos.mjs 2>&1 | tee /tmp/vp.log
 
       - name: Build hero photo-wall thumbnails
@@ -85,10 +86,13 @@ jobs:
         id: diag
         run: |
           n=$(grep -o 'QUOTA_STOP after [0-9]*' /tmp/vp.log 2>/dev/null | head -1 | grep -o '[0-9]*' || true)
-          if [ -z "$n" ]; then
+          nophoto=$(grep -c 'no Places photo' /tmp/vp.log 2>/dev/null || echo 0)
+          if [ "${nophoto:-0}" -gt 5 ]; then
+            echo "diag=진단: 구글 조회는 성공했지만 사진이 하나도 오지 않음 (${nophoto}건) — 한도 문제가 아니라 사진 접근 권한 문제입니다." >> "$GITHUB_OUTPUT"
+          elif [ -z "$n" ]; then
             echo "diag=" >> "$GITHUB_OUTPUT"
           elif [ "$n" = "0" ]; then
-            echo "diag=진단: 첫 요청부터 거부됨 — 한도 배분이 아니라 계정/결제 문제입니다." >> "$GITHUB_OUTPUT"
+            echo "diag=진단: 오늘 한도를 이미 다 써서 시작하자마자 멈춤 — 다음 리셋 후 재시도합니다." >> "$GITHUB_OUTPUT"
           else
             echo "diag=진단: $n건 성공 후 한도 소진 — 한도를 나눠 쓰는 문제(정상 동작)." >> "$GITHUB_OUTPUT"
           fi
