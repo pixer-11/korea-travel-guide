@@ -102,7 +102,7 @@ const GEO_STOP = new Set([
   'shanghai', 'beijing', 'taipei', 'mumbai', 'delhi', 'hanoi', 'saigon', 'bali', 'monza',
 ]);
 
-export async function resolveHero({ namedVenue, region, topic, place, country = 'South Korea', used, allowUnsplash = true, selfHost = false, preferTopic = false, eventMode = false } = {}) {
+export async function resolveHero({ namedVenue, region, topic, place, country = 'South Korea', used, allowUnsplash = true, selfHost = false, preferTopic = false, eventMode = false, strict = false } = {}) {
   const reg = region || '';
   const ctry = country || 'South Korea';
 
@@ -120,18 +120,31 @@ export async function resolveHero({ namedVenue, region, topic, place, country = 
     // Events: the ideal hero is the performer/athlete, usually a portrait — allow
     // it (and a smaller ≥600px file) rather than dropping to a wrong-topic city shot.
     const copts = eventMode ? { allowPortrait: true, minWidth: 600 } : {};
+    // VENUE posts (non-event): a single shared token is NOT evidence the photo is
+    // of this venue — "Art House Cafe"→"Art Picture House (UK)", "Into the
+    // Forest"→a forest painting both passed that way. Require the image title to
+    // share ≥2 tokens with venue-name+region, so only a genuinely-matching file
+    // ("Steki" alone can't pass without "Fujairah") is ever accepted.
+    const venueGuard = eventMode ? {} : { crossCheck: tokens(`${namedVenue} ${reg}`), minCross: 2 };
     // Full name (+region, then bare), then an anchor-ONLY search that finds the real
     // performer/athlete ("Ankalaev") BUT is cross-checked: the image title must
     // share ≥2 tokens with the event name, so "Magomed Ankalaev at UFC Fight Night"
     // (ankalaev+ufc+fight+night) passes while a bare "david"→statue / "sonic"→game /
     // "83rd"→army-division photo (1 token) is rejected → falls to the event-TYPE image.
     const byName =
-      (await commonsBest(`${namedVenue} ${reg}`, { mustInclude: [anchor], used, ...copts })) ||
-      (await commonsBest(namedVenue, { mustInclude: [anchor], used, ...copts })) ||
+      (await commonsBest(`${namedVenue} ${reg}`, { mustInclude: [anchor], used, ...copts, ...venueGuard })) ||
+      (await commonsBest(namedVenue, { mustInclude: [anchor], used, ...copts, ...venueGuard })) ||
       (eventMode && anchor.length >= 4 && !new Set(tokens(reg || '')).has(anchor) && !GEO_STOP.has(anchor)
         ? await commonsBest(anchor, { mustInclude: [anchor], used, ...copts, crossCheck: tokens(namedVenue), minCross: 2 })
         : null);
     if (byName) return mark(byName, used);
+
+    // STRICT mode (venue posts at generation time): accuracy policy is
+    // "real/verified venue photo or DON'T write about this venue". City-level or
+    // topic imagery on a venue post is a mismatch by definition — the generator
+    // must pick a different, photo-verifiable venue instead (user directive
+    // 2026-07-25: never publish a wrong photo, never publish photoless).
+    if (strict) return null;
 
     // Google Places photos ARE the actual venue, but the returned photoUri
     // EXPIRES within hours — unusable on a static site unless self-hosted.
@@ -143,6 +156,11 @@ export async function resolveHero({ namedVenue, region, topic, place, country = 
       } catch { /* fall through */ }
     }
   }
+
+  // Strict venue mode never falls through to topic/city/stock imagery — that IS
+  // the mismatch class we're banning. (Also covers venue names with no usable
+  // anchor token, which skip the block above entirely.)
+  if (strict) return null;
 
   // The topic itself may be a place name (e.g. "Nami Island", "Abai Village",
   // "Aewol"). Try Commons by topic-as-name — but skip generic topic words so

@@ -1,51 +1,70 @@
 ---
-title: "Steki: Where to Eat in Fujairah"
-description: "Steki is a Greek restaurant on Al Faseel Road (E99) near Umbrella Beach in Fujairah, rated 4.8 from around 600 reviews — a strong pick for moussaka"
-country: "United Arab Emirates"
-region: "Fujairah"
-category: "restaurant"
-pubDate: "2026-07-23T07:52:22.299Z"
+title: 'Steki: Where to Eat in Fujairah'
+description: Steki is a Greek restaurant on Al Faseel Road (E99) near Umbrella Beach in Fujairah, rated 4.8 from around 600 reviews — a strong pick for moussaka
+country: United Arab Emirates
+region: Fujairah
+category: restaurant
+pubDate: '2026-07-23T07:52:22.299Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/8/8f/Kafenion%2C_To_Steki_-_geograph.org.uk_-_6843079.jpg"
-  credit: "Photo: Richard Webb / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Kafenion,_To_Steki_-_geograph.org.uk_-_6843079.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Steki_1.jpg/1920px-Steki_1.jpg
+  credit: 'Photo: Andrew Dalby / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Steki_1.jpg
 gallery: []
 place:
-  id: "ChIJ-4ICd2f59D4R9_ourQdM1tI"
-  name: "Steki"
-  address: "Umbrella Beach - Al Faseel Rd(E99) - Al Faseel - Fujairah - United Arab Emirates"
+  id: ChIJ-4ICd2f59D4R9_ourQdM1tI
+  name: Steki
+  address: Umbrella Beach - Al Faseel Rd(E99) - Al Faseel - Fujairah - United Arab Emirates
   rating: 4.8
   userRatingsTotal: 598
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=15192413988834966263&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=15192413988834966263&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.1463942
   lng: 56.3557086
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [9, 10]
-    weekdayBusy: [18, 19]
-    weekendQuiet: [9, 10, 11]
-    weekendBusy: [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
-    venueId: 'ven_4974314d645172756f5f3952344439356632644349342d4a496843'
+    weekdayQuiet:
+      - 9
+      - 10
+    weekdayBusy:
+      - 18
+      - 19
+    weekendQuiet:
+      - 9
+      - 10
+      - 11
+    weekendBusy:
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+    venueId: ven_4974314d645172756f5f3952344439356632644349342d4a496843
 tags:
-  - "fujairah"
-  - "local restaurant"
-quickAnswer: "Steki is a Greek restaurant on Al Faseel Road (E99) near Umbrella Beach in Fujairah, rated 4.8 from around 600 reviews — a strong pick for moussaka, souvlaki, and grilled seafood at moderate prices. Go for an early dinner around sunset, walk it off with a stroll on Umbrella Beach afterward, and book ahead or arrive right at opening since seating is limited."
+  - fujairah
+  - local restaurant
+quickAnswer: Steki is a Greek restaurant on Al Faseel Road (E99) near Umbrella Beach in Fujairah, rated 4.8 from around 600 reviews — a strong pick for moussaka, souvlaki, and grilled seafood at moderate prices. Go for an early dinner around sunset, walk it off with a stroll on Umbrella Beach afterward, and book ahead or arrive right at opening since seating is limited.
 faq:
-  - q: "How do I get to Steki without a car?"
-    a: "Taxi or a ride-hailing app is the most reliable option, since Fujairah has no metro or extensive bus network. Ask for Al Faseel Road (E99) near Umbrella Beach."
-  - q: "How much does a meal at Steki cost?"
-    a: "It sits at a moderate price level — expect mid-range pricing for a full Greek meal with shared starters and mains, more than a quick snack but well short of fine dining. Confirm current menu prices on-site since they can shift."
-  - q: "Do I need a reservation?"
-    a: "It's wise to book ahead or call for large groups, especially for Thursday or Friday evening dinner, since beachfront seating tends to be limited."
-  - q: "What's the best time of year to visit?"
-    a: "October through April offers the most comfortable weather for enjoying the beachfront setting; summer months (June-September) are very hot and humid."
-  - q: "What else can I do nearby?"
-    a: "Combine your meal with a walk on Umbrella Beach, and consider visiting Fujairah Fort, Al Bidyah Mosque, or Fujairah Museum, all a short drive away."
+  - q: How do I get to Steki without a car?
+    a: Taxi or a ride-hailing app is the most reliable option, since Fujairah has no metro or extensive bus network. Ask for Al Faseel Road (E99) near Umbrella Beach.
+  - q: How much does a meal at Steki cost?
+    a: It sits at a moderate price level — expect mid-range pricing for a full Greek meal with shared starters and mains, more than a quick snack but well short of fine dining. Confirm current menu prices on-site since they can shift.
+  - q: Do I need a reservation?
+    a: It's wise to book ahead or call for large groups, especially for Thursday or Friday evening dinner, since beachfront seating tends to be limited.
+  - q: What's the best time of year to visit?
+    a: October through April offers the most comfortable weather for enjoying the beachfront setting; summer months (June-September) are very hot and humid.
+  - q: What else can I do nearby?
+    a: Combine your meal with a walk on Umbrella Beach, and consider visiting Fujairah Fort, Al Bidyah Mosque, or Fujairah Museum, all a short drive away.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

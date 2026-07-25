@@ -1,43 +1,43 @@
 ---
-title: "Lavender & Sunflower Field"
-description: "The lavender and sunflower fields around Valensole, on the Plateau de Valensole in Provence, are at their best from roughly the last week of June through"
-country: "France"
-region: "Provence"
+title: Lavender & Sunflower Field
+description: The lavender and sunflower fields around Valensole, on the Plateau de Valensole in Provence, are at their best from roughly the last week of June through
+country: France
+region: Provence
 category: attraction
-pubDate: "2026-07-22T01:46:41.064Z"
+pubDate: '2026-07-22T01:46:41.064Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sunflower_at_Hitchin_Lavender_-_geograph.org.uk_-_6594262.jpg/1920px-Sunflower_at_Hitchin_Lavender_-_geograph.org.uk_-_6594262.jpg"
-  credit: "Photo: Christine Matthews / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Sunflower_at_Hitchin_Lavender_-_geograph.org.uk_-_6594262.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sunflower_at_Hitchin_Lavender_-_geograph.org.uk_-_6594262.jpg/1920px-Sunflower_at_Hitchin_Lavender_-_geograph.org.uk_-_6594262.jpg
+  credit: 'Photo: Christine Matthews / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Sunflower_at_Hitchin_Lavender_-_geograph.org.uk_-_6594262.jpg
 gallery: []
 place:
-  id: "ChIJjYBB61TFyxIRDXKdKPRYP24"
-  name: "Lavender & Sunflower Field"
-  address: "Unnamed Road, 04210 Valensole, France"
+  id: ChIJjYBB61TFyxIRDXKdKPRYP24
+  name: Lavender & Sunflower Field
+  address: Unnamed Road, 04210 Valensole, France
   rating: 4.6
   userRatingsTotal: 161
-  googleMapsUrl: "https://maps.google.com/?cid=7944166073381515789&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=7944166073381515789&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.835176399999995
   lng: 5.9531743
 tags:
-  - "provence"
-  - "lavender bloom"
-quickAnswer: "The lavender and sunflower fields around Valensole, on the Plateau de Valensole in Provence, are at their best from roughly the last week of June through late July, when purple lavender rows and golden sunflowers bloom side by side. Base yourself in Valensole village or nearby Riez, drive out at sunrise or two hours before sunset for the best light and fewest crowds, and plan a half-day loop by car since there's no public transit to the fields themselves."
+  - provence
+  - lavender bloom
+quickAnswer: The lavender and sunflower fields around Valensole, on the Plateau de Valensole in Provence, are at their best from roughly the last week of June through late July, when purple lavender rows and golden sunflowers bloom side by side. Base yourself in Valensole village or nearby Riez, drive out at sunrise or two hours before sunset for the best light and fewest crowds, and plan a half-day loop by car since there's no public transit to the fields themselves.
 faq:
-  - q: "How do I get to the Valensole lavender and sunflower fields without a car?"
-    a: "It's difficult — there's no train or direct bus service to the outlying fields. Most visitors rent a car from Aix-en-Provence or Marseille Provence Airport, or book a small-group lavender tour that departs from Aix or Marseille in July."
-  - q: "When exactly is peak bloom?"
-    a: "Lavender generally peaks from late June through mid-July, with harvest typically finishing by early August. Sunflowers tend to peak in July, so late June to mid-July is the best window to see both blooming together, though exact dates shift yearly with weather."
-  - q: "Is there an entrance fee to see the fields?"
-    a: "This is working farmland, not a paid attraction, so there's typically no entrance fee to view fields from public roads or margins. Always stay off planted rows out of respect for the farmers' livelihood."
-  - q: "How much time should I budget?"
-    a: "Plan 45 minutes to an hour at the fields themselves, plus travel time. Most visitors combine it with a half- or full-day loop through Valensole village, Riez, and optionally the Gorges du Verdon."
-  - q: "What's the best time of day to visit for photos?"
-    a: "Sunrise or the two hours before sunset give the softest light and smallest crowds; midday sun is harsh and the heat among the rows can be intense in July."
+  - q: How do I get to the Valensole lavender and sunflower fields without a car?
+    a: It's difficult — there's no train or direct bus service to the outlying fields. Most visitors rent a car from Aix-en-Provence or Marseille Provence Airport, or book a small-group lavender tour that departs from Aix or Marseille in July.
+  - q: When exactly is peak bloom?
+    a: Lavender generally peaks from late June through mid-July, with harvest typically finishing by early August. Sunflowers tend to peak in July, so late June to mid-July is the best window to see both blooming together, though exact dates shift yearly with weather.
+  - q: Is there an entrance fee to see the fields?
+    a: This is working farmland, not a paid attraction, so there's typically no entrance fee to view fields from public roads or margins. Always stay off planted rows out of respect for the farmers' livelihood.
+  - q: How much time should I budget?
+    a: Plan 45 minutes to an hour at the fields themselves, plus travel time. Most visitors combine it with a half- or full-day loop through Valensole village, Riez, and optionally the Gorges du Verdon.
+  - q: What's the best time of day to visit for photos?
+    a: Sunrise or the two hours before sunset give the softest light and smallest crowds; midday sun is harsh and the heat among the rows can be intense in July.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

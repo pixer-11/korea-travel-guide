@@ -1,30 +1,24 @@
 ---
 title: 'Al Khayma Heritage Restaurant: Where to Eat in Dubai'
-description: >-
-  Al Khayma Heritage Restaurant sits in the Al Fahidi Historical Neighbourhood
-  near Al Souq Al Kabeer, serving Emirati classics like machboos, harees, and
+description: Al Khayma Heritage Restaurant sits in the Al Fahidi Historical Neighbourhood near Al Souq Al Kabeer, serving Emirati classics like machboos, harees, and
 country: United Arab Emirates
 region: Dubai
 category: restaurant
 pubDate: '2026-07-23T07:49:39.145Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/A_car_on_Dubai_Dune_bashing.jpg/1920px-A_car_on_Dubai_Dune_bashing.jpg
-  credit: 'Photo: iMahesh / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:A_car_on_Dubai_Dune_bashing.jpg'
+  url: https://images.unsplash.com/photo-1580674684081-7617fbf3d745?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8NHx8RHViYWklMjBVbml0ZWQlMjBBcmFiJTIwRW1pcmF0ZXN8ZW58MHwwfHx8MTc4NDk5MzUwMHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Wael Hneini on Unsplash
+  license: unsplash
+  source: https://unsplash.com/@waelhneini?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
   id: ChIJl6Wlj3JDXz4RiuVGW1AttdY
   name: Al Khayma Heritage Restaurant | مطعم الخيمة التراثي
-  address: >-
-    Historical Neighbourhood - 79 Al Mussallah Rd - Al Souq Al Kabeer - Al
-    Fahidi - Dubai - United Arab Emirates
+  address: Historical Neighbourhood - 79 Al Mussallah Rd - Al Souq Al Kabeer - Al Fahidi - Dubai - United Arab Emirates
   rating: 4.9
   userRatingsTotal: 17801
   priceLevel: 2
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=15471321918053213578&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=15471321918053213578&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 25.2637706
   lng: 55.3007685
@@ -55,37 +49,18 @@ place:
 tags:
   - dubai
   - local restaurant
-quickAnswer: >-
-  Al Khayma Heritage Restaurant sits in the Al Fahidi Historical Neighbourhood
-  near Al Souq Al Kabeer, serving Emirati classics like machboos, harees, and
-  luqaimat in a Bedouin-tent-style courtyard. It's a very-popular, well-reviewed
-  spot (4.9 rating, nearly 18,000 reviews) at mid-range prices, so arrive early
-  or book ahead, especially at dinner. Budget 60-90 minutes and pair it with a
-  walk through the Al Fahidi lanes or the Dubai Museum at Al Fahidi Fort nearby.
+quickAnswer: Al Khayma Heritage Restaurant sits in the Al Fahidi Historical Neighbourhood near Al Souq Al Kabeer, serving Emirati classics like machboos, harees, and luqaimat in a Bedouin-tent-style courtyard. It's a very-popular, well-reviewed spot (4.9 rating, nearly 18,000 reviews) at mid-range prices, so arrive early or book ahead, especially at dinner. Budget 60-90 minutes and pair it with a walk through the Al Fahidi lanes or the Dubai Museum at Al Fahidi Fort nearby.
 faq:
   - q: How do I get to Al Khayma Heritage Restaurant without a car?
-    a: >-
-      Take the Dubai Metro Green Line to Al Fahidi Station, then walk about
-      10-15 minutes through the Al Fahidi Historical Neighbourhood, or cross via
-      abra ferry from Deira to a Bur Dubai dock nearby.
+    a: Take the Dubai Metro Green Line to Al Fahidi Station, then walk about 10-15 minutes through the Al Fahidi Historical Neighbourhood, or cross via abra ferry from Deira to a Bur Dubai dock nearby.
   - q: Is it expensive?
-    a: >-
-      It's mid-range (price level 2 out of 4) — pricier than a casual cafe but
-      well below fine-dining, reflecting its home-style Emirati menu and
-      setting.
+    a: It's mid-range (price level 2 out of 4) — pricier than a casual cafe but well below fine-dining, reflecting its home-style Emirati menu and setting.
   - q: Do I need a reservation?
-    a: >-
-      It's very popular with nearly 18,000 reviews, so booking ahead or arriving
-      at opening for lunch is strongly recommended, especially for dinner.
+    a: It's very popular with nearly 18,000 reviews, so booking ahead or arriving at opening for lunch is strongly recommended, especially for dinner.
   - q: How long should I plan to stay?
-    a: >-
-      Budget 60-90 minutes for a full meal in the courtyard setting; longer if
-      you're dining as a group with communal platters.
+    a: Budget 60-90 minutes for a full meal in the courtyard setting; longer if you're dining as a group with communal platters.
   - q: What's the best time of year or day to visit?
-    a: >-
-      October through April is more comfortable for the courtyard seating;
-      within the day, lunch or early evening tends to be calmer than peak dinner
-      hours.
+    a: October through April is more comfortable for the courtyard seating; within the day, lunch or early evening tends to be calmer than peak dinner hours.
 aiGenerated: true
 draft: false
 updatedDate: '2026-07-24'

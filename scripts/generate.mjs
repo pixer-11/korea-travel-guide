@@ -367,35 +367,56 @@ async function buildLivePost(target) {
   const { searchPlaces, fetchPlaceReviewSignals } = await import('./lib/places.mjs');
   const { resolveHero, pickGallery } = await import('./lib/images.mjs');
   const { writeArticle } = await import('./lib/writer.mjs');
+  const { verifyHeroImage } = await import('./lib/vision-check.mjs');
 
   const results = await searchPlaces(target.query, { max: 5 });
-  const place = results.find((p) => checkPlace(p).ok);
+  // ACCURACY-FIRST venue choice (user directive 2026-07-25): we only write about
+  // a venue whose photo we can VERIFY — the venue's own self-hosted Places photo
+  // or a Commons photo whose title matches name+region on ≥2 tokens. A wrong
+  // photo and a photoless post are BOTH banned, so when a candidate's photo
+  // can't be verified we move to the NEXT candidate venue in the same city
+  // rather than publish anyway. No candidate verifies → this slot is skipped.
+  let place = null;
+  let hero = null;
+  for (const cand of results) {
+    if (!checkPlace(cand).ok) continue;
+    // English-site guard: a name with no Latin letters would make a Hangul slug.
+    if (!/[a-z0-9]/i.test(cand.name || '')) continue;
+    if (cand.id && USED_PLACE_IDS.has(cand.id)) continue;
+    const h = await resolveHero({
+      namedVenue: cand.name,
+      region: target.region,
+      topic: target.topic,
+      country: target.country,
+      place: cand,
+      used: USED_IMAGE_URLS,
+      selfHost: true, // the venue's real Google photo, self-hosted, is priority 1
+      strict: true,
+    });
+    if (!isImageAllowed(h)) {
+      console.log(`  ⏭️   "${cand.name}" — no verified photo; trying next candidate`);
+      continue;
+    }
+    // Second gate: an AI actually LOOKS at the image. Filename/token matching
+    // alone shipped a fairy-tale painting on a restaurant post; "name matches
+    // but doesn't fit" is a user-directed hard reject (2026-07-26).
+    const vis = await verifyHeroImage({
+      url: h.url, name: cand.name, category: target.category,
+      region: target.region, country: target.country,
+    });
+    if (!vis.ok) {
+      console.log(`  👁️   "${cand.name}" — vision check rejected hero (${vis.reason}); trying next candidate`);
+      continue;
+    }
+    place = cand; hero = h; break;
+  }
   if (!place) {
-    console.log(`  ⏭️   skip "${target.query}" — no place passed guardrails`);
-    return null;
-  }
-  // On this English site, skip venues whose name has no Latin letters — otherwise
-  // the title/slug come out in Hangul (we can't romanize unattended). Rare.
-  if (!/[a-z0-9]/i.test(place.name || '')) {
-    console.log(`  ⏭️   skip "${target.query}" — non-Latin venue name (${place.name})`);
-    return null;
-  }
-  if (place.id && USED_PLACE_IDS.has(place.id)) {
-    console.log(`  ↩︎  skip "${target.query}" — venue already published (${place.name})`);
+    console.log(`  ⏭️   skip "${target.query}" — no candidate venue with a verified photo`);
     return null;
   }
   if (place.id) USED_PLACE_IDS.add(place.id);
 
-  const hero = await resolveHero({
-    namedVenue: place.name,
-    region: target.region,
-    topic: target.topic,
-    country: target.country,
-    place,
-    used: USED_IMAGE_URLS,
-    selfHost: true, // prefer the venue's real Google photo, self-hosted
-  });
-  const heroImage = isImageAllowed(hero) ? hero : null;
+  const heroImage = hero;
   const gallery = (await pickGallery(place, 3)).filter(isImageAllowed);
 
   const title = makeTitle(place.name, target);

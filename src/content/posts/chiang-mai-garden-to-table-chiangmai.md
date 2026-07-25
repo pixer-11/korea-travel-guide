@@ -1,71 +1,42 @@
 ---
 title: 'Garden to Table Chiangmai: Where to Eat in Chiang Mai'
-description: >-
-  Garden to Table Chiangmai is a casual, plant-filled restaurant inside the Old
-  City walls on Ratchapakhinai Road, prized for fresh Thai and Northern (Lanna)
+description: Garden to Table Chiangmai is a casual, plant-filled restaurant inside the Old City walls on Ratchapakhinai Road, prized for fresh Thai and Northern (Lanna)
 country: Thailand
 region: Chiang Mai
 category: restaurant
 pubDate: '2026-07-22T09:14:29.554Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Anambulyx_elwesi_MHNT_CUT_2010_0_146_Chiang_Mai%2C_Thailand%2C_male_ventral.jpg/1920px-Anambulyx_elwesi_MHNT_CUT_2010_0_146_Chiang_Mai%2C_Thailand%2C_male_ventral.jpg
-  credit: 'Photo: Didier Descouens / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Anambulyx_elwesi_MHNT_CUT_2010_0_146_Chiang_Mai,_Thailand,_male_ventral.jpg
+  url: https://images.unsplash.com/photo-1646850149335-f15d028036b3?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8M3x8Q2hpYW5nJTIwTWFpJTIwVGhhaWxhbmQlMjBsb2NhbCUyMHJlc3RhdXJhbnR8ZW58MHwwfHx8MTc4NDk5MzQ5Nnww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Kittitep Khotchalee on Unsplash
+  license: unsplash
+  source: https://unsplash.com/@duckman1992?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
   id: ChIJT2UZ_Hw72jARiJRwNfxTJVU
   name: Garden to Table Chiangmai
-  address: >-
-    136 4 Ratchapakhinai Rd Old City Tambon Si Phum, Amphoe Mueang Chiang Mai,
-    Chang Wat Chiang Mai 50200, Thailand
+  address: 136 4 Ratchapakhinai Rd Old City Tambon Si Phum, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200, Thailand
   rating: 4.9
   userRatingsTotal: 1961
   priceLevel: 1
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=6135402410055603336&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=6135402410055603336&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 18.786508599999998
   lng: 98.990431
 tags:
   - chiang mai
   - local restaurant
-quickAnswer: >-
-  Garden to Table Chiangmai is a casual, plant-filled restaurant inside the Old
-  City walls on Ratchapakhinai Road, prized for fresh Thai and Northern (Lanna)
-  dishes at street-food-friendly prices. It's a short walk from Wat Phra Singh
-  and Thapae Gate, so pair a meal here with temple-hopping. Go for lunch or an
-  early dinner and expect a wait, since its 4.9 rating from nearly 2,000 reviews
-  makes it one of the neighborhood's most in-demand tables.
+quickAnswer: Garden to Table Chiangmai is a casual, plant-filled restaurant inside the Old City walls on Ratchapakhinai Road, prized for fresh Thai and Northern (Lanna) dishes at street-food-friendly prices. It's a short walk from Wat Phra Singh and Thapae Gate, so pair a meal here with temple-hopping. Go for lunch or an early dinner and expect a wait, since its 4.9 rating from nearly 2,000 reviews makes it one of the neighborhood's most in-demand tables.
 faq:
   - q: How do I get to Garden to Table Chiangmai without a car?
-    a: >-
-      Use the Grab app for a direct drop-off, or flag a red songthaew truck —
-      the restaurant is on Ratchapakhinai Road inside the Old City, walking
-      distance from Wat Phra Singh and Thapae Gate.
+    a: Use the Grab app for a direct drop-off, or flag a red songthaew truck — the restaurant is on Ratchapakhinai Road inside the Old City, walking distance from Wat Phra Singh and Thapae Gate.
   - q: How much does a meal cost?
-    a: >-
-      It's listed at the lowest price tier (priceLevel 1), meaning dishes are
-      budget-friendly by international standards — expect casual Thai restaurant
-      pricing, not fine dining.
+    a: It's listed at the lowest price tier (priceLevel 1), meaning dishes are budget-friendly by international standards — expect casual Thai restaurant pricing, not fine dining.
   - q: What's the best time to visit?
-    a: >-
-      Aim for just before or after peak lunch (12-1:30pm) and dinner (7-8:30pm)
-      to avoid the wait that comes with its 4.9-star reputation. Cool season
-      (Nov-Feb) is the most pleasant time to combine it with Old City
-      sightseeing.
+    a: Aim for just before or after peak lunch (12-1:30pm) and dinner (7-8:30pm) to avoid the wait that comes with its 4.9-star reputation. Cool season (Nov-Feb) is the most pleasant time to combine it with Old City sightseeing.
   - q: How long should I plan for a meal?
-    a: >-
-      A casual sit-down meal typically runs 45 minutes to an hour, but budget
-      extra time for a possible wait given the restaurant's popularity and
-      near-2,000 review count.
+    a: A casual sit-down meal typically runs 45 minutes to an hour, but budget extra time for a possible wait given the restaurant's popularity and near-2,000 review count.
   - q: What's nearby to pair with a visit?
-    a: >-
-      Wat Phra Singh, Wat Chedi Luang, and Thapae Gate are all within walking
-      distance, and the Sunday Walking Street market passes close by if your
-      visit falls on a Sunday evening.
+    a: Wat Phra Singh, Wat Chedi Luang, and Thapae Gate are all within walking distance, and the Sunday Walking Street market passes close by if your visit falls on a Sunday evening.
 aiGenerated: true
 draft: false
 updatedDate: '2026-07-24'

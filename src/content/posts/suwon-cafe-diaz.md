@@ -1,49 +1,65 @@
 ---
-title: "Cafe Diaz: Suwon Travel Guide"
-description: "Cafe Diaz is a large, design-forward café in Paldal-gu, Suwon, best known for its striking industrial-meets-botanical interior and consistently high visitor"
-country: "South Korea"
-region: "Suwon"
-category: "trendy"
-pubDate: 2026-07-21
+title: 'Cafe Diaz: Suwon Travel Guide'
+description: Cafe Diaz is a large, design-forward café in Paldal-gu, Suwon, best known for its striking industrial-meets-botanical interior and consistently high visitor
+country: South Korea
+region: Suwon
+category: trendy
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Diaz_Cafe%2C_Ketchikan.jpg/1920px-Diaz_Cafe%2C_Ketchikan.jpg"
-  credit: "Photo: Christine / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Diaz_Cafe,_Ketchikan.jpg"
+  url: https://images.unsplash.com/photo-1659526400645-af0f75673b6c?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8U3V3b24lMjBTb3V0aCUyMEtvcmVhJTIwdHJlbmR5JTIwY2FmZXxlbnwwfDB8fHwxNzg0OTk0MDg2fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by seohoo lee on Unsplash
+  license: unsplash
+  source: https://unsplash.com/@siwol?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
-  id: "ChIJxYEe5ShDezURECuYnzzL5x4"
-  name: "Cafe Diaz"
-  address: "48-7 Ingye-ro 166beon-gil, Paldal-gu, Suwon, Gyeonggi-do, South Korea"
+  id: ChIJxYEe5ShDezURECuYnzzL5x4
+  name: Cafe Diaz
+  address: 48-7 Ingye-ro 166beon-gil, Paldal-gu, Suwon, Gyeonggi-do, South Korea
   rating: 4.9
   userRatingsTotal: 1831
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=2226972001994025744&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=2226972001994025744&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.2642059
   lng: 127.034352
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [10, 11, 12, 13, 14, 15, 22]
-    weekdayBusy: [20]
-    weekendQuiet: [10, 11, 22]
-    weekendBusy: [17, 18, 19, 20, 21]
-    venueId: 'ven_3478354c7a7a6e5975434552557a6544685335654559784a496843'
+    weekdayQuiet:
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 22
+    weekdayBusy:
+      - 20
+    weekendQuiet:
+      - 10
+      - 11
+      - 22
+    weekendBusy:
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+    venueId: ven_3478354c7a7a6e5975434552557a6544685335654559784a496843
 tags:
-  - "suwon"
-  - "trendy cafe"
-quickAnswer: "Cafe Diaz is a large, design-forward café in Paldal-gu, Suwon, best known for its striking industrial-meets-botanical interior and consistently high visitor ratings (4.9 from over 1,800 reviews). Plan for a mid-morning or weekday visit to actually get a seat, budget for a mid-range coffee-and-dessert bill, and pair it with a walk along the nearby Suwon Hwaseong Fortress walls since the café sits close to the old city center."
+  - suwon
+  - trendy cafe
+quickAnswer: Cafe Diaz is a large, design-forward café in Paldal-gu, Suwon, best known for its striking industrial-meets-botanical interior and consistently high visitor ratings (4.9 from over 1,800 reviews). Plan for a mid-morning or weekday visit to actually get a seat, budget for a mid-range coffee-and-dessert bill, and pair it with a walk along the nearby Suwon Hwaseong Fortress walls since the café sits close to the old city center.
 faq:
-  - q: "How do I get to Cafe Diaz without a car?"
-    a: "Take the subway or KTX to Suwon Station, then a short taxi ride (roughly 10-15 minutes) into Paldal-gu/Ingye-dong. Use Naver Map or Kakao Map for exact walking directions, since the café is on a small side lane."
-  - q: "How much should I expect to spend?"
-    a: "It falls in the mid-range price tier for Korean cafés — coffee plus a dessert is a moderate spend rather than budget or splurge. Confirm current menu prices on-site, as they can change seasonally."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Weekday late mornings, around 10:30-11:30am, offer the best balance of availability and atmosphere. Weekend afternoons draw the biggest crowds given the café's high review count and reputation."
-  - q: "How long should I plan to stay?"
-    a: "Most visitors spend 45 minutes to 1.5 hours, treating it as a sit-down break rather than a quick stop, especially given the size and photo-friendly design of the interior."
-  - q: "What else can I see nearby?"
-    a: "Cafe Diaz is close to Suwon Hwaseong Fortress, Hwaseong Haenggung Palace, and the Paldalmun Gate market area, making it an easy add-on to a fortress-focused day in Suwon."
+  - q: How do I get to Cafe Diaz without a car?
+    a: Take the subway or KTX to Suwon Station, then a short taxi ride (roughly 10-15 minutes) into Paldal-gu/Ingye-dong. Use Naver Map or Kakao Map for exact walking directions, since the café is on a small side lane.
+  - q: How much should I expect to spend?
+    a: It falls in the mid-range price tier for Korean cafés — coffee plus a dessert is a moderate spend rather than budget or splurge. Confirm current menu prices on-site, as they can change seasonally.
+  - q: What's the best time to visit to avoid crowds?
+    a: Weekday late mornings, around 10:30-11:30am, offer the best balance of availability and atmosphere. Weekend afternoons draw the biggest crowds given the café's high review count and reputation.
+  - q: How long should I plan to stay?
+    a: Most visitors spend 45 minutes to 1.5 hours, treating it as a sit-down break rather than a quick stop, especially given the size and photo-friendly design of the interior.
+  - q: What else can I see nearby?
+    a: Cafe Diaz is close to Suwon Hwaseong Fortress, Hwaseong Haenggung Palace, and the Paldalmun Gate market area, making it an easy add-on to a fortress-focused day in Suwon.
 aiGenerated: true
 draft: false
 ---

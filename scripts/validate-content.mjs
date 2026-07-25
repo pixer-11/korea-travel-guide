@@ -25,6 +25,7 @@ for (const f of files) {
   let fm;
   try { fm = yaml.load(t.slice(4, t.indexOf('\n---', 3))); } catch { continue; }
   if (!fm) continue;
+  if (fm.draft) continue; // unpublished (e.g. quarantined awaiting a real photo) — not on the site
   posts.push({
     f,
     region: fm.region || '',

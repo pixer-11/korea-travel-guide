@@ -1,29 +1,24 @@
 ---
 title: 'This Is Bali - Balinese Food & Desserts: Where to Eat'
-description: 'This Is Bali is a casual, highly-rated Indonesian restaurant on Jl.'
+description: This Is Bali is a casual, highly-rated Indonesian restaurant on Jl.
 country: Indonesia
 region: Bali
 category: restaurant
 pubDate: '2026-07-23T07:15:17.661Z'
 heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1555400038-63f5ba517a47?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8QmFsaSUyMEluZG9uZXNpYXxlbnwwfDB8fHwxNzg0NzkwODgyfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Niklas Weiss on Unsplash
+  url: https://images.unsplash.com/photo-1544644181-1484b3fdfc62?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8QmFsaSUyMEluZG9uZXNpYXxlbnwwfDB8fHwxNzg0OTkzNTI5fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Sebastian Pena Lambarri on Unsplash
   license: unsplash
-  source: >-
-    https://unsplash.com/@treesoftheplanet?utm_source=korea_travel_guide&utm_medium=referral
+  source: https://unsplash.com/@sebaspenalambarri?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
   id: ChIJR7MWORA90i0Rj7ugb0Lss4g
   name: This Is Bali - Balinese Food & Desserts
-  address: >-
-    Jl. Goutama No.2, Ubud, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571,
-    Indonesia
+  address: Jl. Goutama No.2, Ubud, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571, Indonesia
   rating: 4.9
   userRatingsTotal: 18071
   priceLevel: 2
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=9850476580074208143&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=9850476580074208143&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: -8.5081513
   lng: 115.2642473
@@ -52,40 +47,20 @@ place:
 tags:
   - bali
   - local restaurant
-quickAnswer: >-
-  This Is Bali is a casual, highly-rated Indonesian restaurant on Jl. Goutama in
-  central Ubud, known for affordable Balinese classics like babi guling, nasi
-  campur, and traditional desserts such as dadar gulung and bubur injin. With a
-  4.9 rating from over 18,000 reviews and mid-range prices (price level 2), it's
-  extremely popular, so plan for a wait at peak lunch and dinner hours. Go early
-  or mid-afternoon, order a mix of savory and sweet dishes to share, and pair
-  the meal with a walk down Jl. Goutama's café-and-bookshop strip afterward.
+quickAnswer: This Is Bali is a casual, highly-rated Indonesian restaurant on Jl. Goutama in central Ubud, known for affordable Balinese classics like babi guling, nasi campur, and traditional desserts such as dadar gulung and bubur injin. With a 4.9 rating from over 18,000 reviews and mid-range prices (price level 2), it's extremely popular, so plan for a wait at peak lunch and dinner hours. Go early or mid-afternoon, order a mix of savory and sweet dishes to share, and pair the meal with a walk down Jl. Goutama's café-and-bookshop strip afterward.
 faq:
   - q: Do I need a reservation at This Is Bali in Ubud?
-    a: >-
-      It's not typically required, but given its popularity (4.9 rating, 18,000+
-      reviews), arriving outside peak lunch (12–2pm) and dinner (7–8:30pm) hours
-      is the best way to avoid a wait without booking.
+    a: It's not typically required, but given its popularity (4.9 rating, 18,000+ reviews), arriving outside peak lunch (12–2pm) and dinner (7–8:30pm) hours is the best way to avoid a wait without booking.
   - q: How much does a meal cost?
-    a: >-
-      It's priced at a mid-range level for Ubud (price level 2 out of 4), making
-      it affordable to moderate by international standards. Exact current prices
-      should be checked on the menu on arrival since they can change.
+    a: It's priced at a mid-range level for Ubud (price level 2 out of 4), making it affordable to moderate by international standards. Exact current prices should be checked on the menu on arrival since they can change.
   - q: How do I get to This Is Bali from central Ubud?
-    a: >-
-      It's on Jl. Goutama No. 2, an easy 5–15 minute walk from most central Ubud
-      accommodations, near Ubud Palace and Ubud Market.
+    a: It's on Jl. Goutama No. 2, an easy 5–15 minute walk from most central Ubud accommodations, near Ubud Palace and Ubud Market.
   - q: What should I order for a first visit?
-    a: >-
-      Try a shared nasi campur for variety, babi guling if you eat pork, and
-      save room for Balinese desserts like dadar gulung or bubur injin, which
-      the restaurant handles better than most nearby spots.
+    a: Try a shared nasi campur for variety, babi guling if you eat pork, and save room for Balinese desserts like dadar gulung or bubur injin, which the restaurant handles better than most nearby spots.
   - q: How long should I plan to spend there?
-    a: >-
-      Budget around 45–75 minutes for a full meal including dessert, plus extra
-      buffer time for a possible wait during peak hours.
+    a: Budget around 45–75 minutes for a full meal including dessert, plus extra buffer time for a possible wait during peak hours.
 aiGenerated: true
-draft: false
+draft: true
 updatedDate: '2026-07-24'
 ---
 

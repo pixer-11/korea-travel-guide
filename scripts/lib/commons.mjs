@@ -112,8 +112,12 @@ export async function commonsCandidates(query, limit = 10) {
 // Drab / non-scenic subjects a travel hero should never be. Commons often has
 // an accurately-named-but-ugly photo (e.g. "Haeundae Police Station"); relying
 // on title match alone once put a police station on the Haeundae beach post.
+// geograph.org.uk is exclusively BRITISH/IRISH photography — the site covers
+// neither country, so ANY geograph file is by definition the wrong place
+// (Art Picture House UK on an Abu Dhabi cafe, Blickling Park on a Bali village,
+// Hitchin on Provence — all geograph).
 const BORING =
-  /police|\bstation\b|fire station|parking|office|government|city hall|district office|hospital|clinic|\bsign\b|signage|\bmap\b|diagram|schematic|construction|scaffold|toilet|restroom|manhole|number plate|license plate|logo|\bflag\b|coat of arms|panorama of reed|\bash\b|volcanic ash|eruption|erupting|\bflood(ing|ed|s)?\b|protest|\briot\b|demonstration|funeral|\bdisaster\b|shipwreck|\bwreck\b|\bcrash\b|wildfire|\bdebris\b|rubble|demolition|aftermath|heron|egret|\bbird\b|\bduck\b|pigeon|sparrow|wildlife|butterfly|insect|squirrel|\bcat\b|\bdog\b|self.?portrait|\bbabylon\b|\bincense\b|\b1[0-8]\d\d\b|\b19[0-4]\d\b|\bwar\b|warfare|\bmilitary\b|\bsoldier|\barmy\b|\bnavy\b|weapon|\bbattle\b|\bcombat\b|troops|\btank\b|artillery|refugee|prisoner|execution|massacre|genocide|\bbomb|air ?raid|casualt|\bmemorial\b|cemetery|\bgrave\b|tomb of/i;
+  /geograph|police|\bstation\b|fire station|parking|office|government|city hall|district office|hospital|clinic|\bsign\b|signage|\bmap\b|diagram|schematic|construction|scaffold|toilet|restroom|manhole|number plate|license plate|logo|\bflag\b|coat of arms|panorama of reed|\bash\b|volcanic ash|eruption|erupting|\bflood(ing|ed|s)?\b|protest|\briot\b|demonstration|funeral|\bdisaster\b|shipwreck|\bwreck\b|\bcrash\b|wildfire|\bdebris\b|rubble|demolition|aftermath|heron|egret|\bbird\b|\bduck\b|pigeon|sparrow|wildlife|butterfly|insect|squirrel|\bcat\b|\bdog\b|self.?portrait|\bbabylon\b|\bincense\b|\b1[0-8]\d\d\b|\b19[0-4]\d\b|\bwar\b|warfare|\bmilitary\b|\bsoldier|\barmy\b|\bnavy\b|weapon|\bbattle\b|\bcombat\b|troops|\btank\b|artillery|refugee|prisoner|execution|massacre|genocide|\bbomb|air ?raid|casualt|\bmemorial\b|cemetery|\bgrave\b|tomb of/i;
 // NOTE: cave/waterfall/grotto/ruins/ancient/pyramid were REMOVED from BORING —
 // they're legit scenic ATTRACTIONS (Manjanggul Cave, Cheonjiyeon Waterfall,
 // Seokguram Grotto/UNESCO). Event homonyms (Babylon→ancient, Rock en Seine→rock)

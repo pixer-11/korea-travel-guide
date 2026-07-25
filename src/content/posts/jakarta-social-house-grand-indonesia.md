@@ -1,51 +1,64 @@
 ---
-title: "Social House Grand Indonesia: Where to Eat in Jakarta"
-description: "Social House Grand Indonesia is a lush, greenery-filled all-day restaurant and wine bar on the ground floor of East Mall Grand Indonesia in Menteng, Central"
-country: "Indonesia"
-region: "Jakarta"
-category: "restaurant"
-pubDate: "2026-07-23T07:15:51.181Z"
+title: 'Social House Grand Indonesia: Where to Eat in Jakarta'
+description: Social House Grand Indonesia is a lush, greenery-filled all-day restaurant and wine bar on the ground floor of East Mall Grand Indonesia in Menteng, Central
+country: Indonesia
+region: Jakarta
+category: restaurant
+pubDate: '2026-07-23T07:15:51.181Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Former_Paktika_Social_Labor_and_Orphanage_Director_Speaks_at_Orphanage_Opening_DVIDS396337.jpg/1920px-Former_Paktika_Social_Labor_and_Orphanage_Director_Speaks_at_Orphanage_Opening_DVIDS396337.jpg"
-  credit: "Photo: Staff Sgt. Anna Rutherford / Wikimedia Commons (Public domain)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Former_Paktika_Social_Labor_and_Orphanage_Director_Speaks_at_Orphanage_Opening_DVIDS396337.jpg"
+  url: https://images.unsplash.com/photo-1555899434-94d1368aa7af?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SmFrYXJ0YSUyMEluZG9uZXNpYXxlbnwwfDB8fHwxNzg0OTkzNTEwfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Eko Herwantoro on Unsplash
+  license: unsplash
+  source: https://unsplash.com/@madebyekhrwntro?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
-  id: "ChIJgWKDuiH0aS4RpXOh9dwgKmU"
-  name: "Social House Grand Indonesia"
-  address: "East Mall Grand Indonesia, Jl. M.H. Thamrin No.1 Lt. 1, RT.1/RW.5, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310, Indonesia"
+  id: ChIJgWKDuiH0aS4RpXOh9dwgKmU
+  name: Social House Grand Indonesia
+  address: East Mall Grand Indonesia, Jl. M.H. Thamrin No.1 Lt. 1, RT.1/RW.5, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310, Indonesia
   rating: 4.8
   userRatingsTotal: 8265
   priceLevel: 3
-  googleMapsUrl: "https://maps.google.com/?cid=7289675080238461861&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=7289675080238461861&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -6.1966347
   lng: 106.8225149
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [11]
-    weekdayBusy: [18, 19, 20]
-    weekendQuiet: [11, 12, 13]
-    weekendBusy: [17, 18, 19, 20, 21, 22]
-    venueId: 'ven_556d4b67776439684f58705234536130486975444b57674a496843'
+    weekdayQuiet:
+      - 11
+    weekdayBusy:
+      - 18
+      - 19
+      - 20
+    weekendQuiet:
+      - 11
+      - 12
+      - 13
+    weekendBusy:
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+    venueId: ven_556d4b67776439684f58705234536130486975444b57674a496843
 tags:
-  - "jakarta"
-  - "local restaurant"
-quickAnswer: "Social House Grand Indonesia is a lush, greenery-filled all-day restaurant and wine bar on the ground floor of East Mall Grand Indonesia in Menteng, Central Jakarta — best reached via Bundaran HI MRT Station (Exit 1/2, connected by a covered pedestrian bridge). Expect an extensive international menu, roughly 300 wine labels by the glass or bottle, and a mid-to-upper price bracket (Rp150,000–400,000+ per person). It's genuinely popular, so aim for an early lunch or a weeknight dinner before 7pm to skip the wait."
+  - jakarta
+  - local restaurant
+quickAnswer: Social House Grand Indonesia is a lush, greenery-filled all-day restaurant and wine bar on the ground floor of East Mall Grand Indonesia in Menteng, Central Jakarta — best reached via Bundaran HI MRT Station (Exit 1/2, connected by a covered pedestrian bridge). Expect an extensive international menu, roughly 300 wine labels by the glass or bottle, and a mid-to-upper price bracket (Rp150,000–400,000+ per person). It's genuinely popular, so aim for an early lunch or a weeknight dinner before 7pm to skip the wait.
 faq:
-  - q: "How do I get to Social House Grand Indonesia by public transport?"
-    a: "Take the Jakarta MRT to Bundaran HI Station and use the connected pedestrian bridge into Grand Indonesia; Social House is on the ground floor (Lt. 1) of East Mall."
-  - q: "How much does a meal cost?"
-    a: "It's priced in the mid-to-upper range for Jakarta — figure roughly Rp150,000–400,000 per person depending on how many wine glasses or shared plates you order."
-  - q: "Do I need a reservation?"
-    a: "Walk-ins work on quieter weekdays, but weekend dinners get busy given its 4.8-star reputation, so booking ahead (by phone or a platform like Chope) is recommended for groups."
-  - q: "What is Social House known for?"
-    a: "An international comfort-food menu (pizza, pasta, burgers, Asian fusion plates) paired with an extensive wine list of about 300 labels, served in a plant-filled, semi-outdoor-feeling dining room."
-  - q: "What's a good time to visit to avoid crowds?"
-    a: "Weekday lunch around noon or an early dinner before 6:30pm tends to be calmer than weekend evenings, when it doubles as a post-work wine bar."
+  - q: How do I get to Social House Grand Indonesia by public transport?
+    a: Take the Jakarta MRT to Bundaran HI Station and use the connected pedestrian bridge into Grand Indonesia; Social House is on the ground floor (Lt. 1) of East Mall.
+  - q: How much does a meal cost?
+    a: It's priced in the mid-to-upper range for Jakarta — figure roughly Rp150,000–400,000 per person depending on how many wine glasses or shared plates you order.
+  - q: Do I need a reservation?
+    a: Walk-ins work on quieter weekdays, but weekend dinners get busy given its 4.8-star reputation, so booking ahead (by phone or a platform like Chope) is recommended for groups.
+  - q: What is Social House known for?
+    a: An international comfort-food menu (pizza, pasta, burgers, Asian fusion plates) paired with an extensive wine list of about 300 labels, served in a plant-filled, semi-outdoor-feeling dining room.
+  - q: What's a good time to visit to avoid crowds?
+    a: Weekday lunch around noon or an early dinner before 6:30pm tends to be calmer than weekend evenings, when it doubles as a post-work wine bar.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go
