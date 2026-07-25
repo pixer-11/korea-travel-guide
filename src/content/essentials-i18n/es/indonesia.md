@@ -16,7 +16,7 @@ Puntos prácticos clave:
 - Para prorrogar el visado es necesario acudir en persona a una oficina de inmigración local.
 - La tramitación del visado ahora está centralizada a través de la plataforma evisa.imigrasi.go.id, que sustituye a los antiguos sistemas fragmentados. Usa únicamente ese dominio oficial: la relevancia del sistema de e-visa ha dado lugar a sitios web fraudulentos que imitan la apariencia del sitio oficial del gobierno y cobran tarifas exorbitantes o roban datos personales.
 - Desde octubre de 2025, todos los pasajeros internacionales están obligados a declarar su llegada a través de la plataforma All Indonesia en allindonesia.imigrasi.go.id.
-- ¿Vuelas directamente a Bali? Desde febrero de 2024 se aplica una Tasa Turística de Bali (Bali Tourist Levy) obligatoria de IDR 150.000 (~USD 10) a todas las llegadas internacionales que vuelan directamente a Bali.
+- ¿Vuelas directamente a Bali? Desde febrero de 2024 se aplica una Tasa Turística de Bali (Bali Tourist Levy) obligatoria de IDR 150.000 (\~USD 10) a todas las llegadas internacionales que vuelan directamente a Bali.
 - Para entrar en Indonesia sin visado o con visado a la llegada, debes tener un pasaporte válido con al menos seis meses de vigencia desde la fecha de llegada.
 - Quedarse más tiempo del permitido sale caro: superar la estancia de una entrada sin visado conlleva multas de IDR 1.000.000 por día y puede derivar en deportación.
 

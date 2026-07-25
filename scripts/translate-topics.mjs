@@ -100,7 +100,8 @@ async function translateOne(langCode, slug, fm, body) {
     disclosure: out.disclosure,
     faq: Array.isArray(out.faq) ? out.faq.filter((f) => f?.q && f?.a) : [],
   };
-  const file = `---\n${yaml.dump(outFm, { lineWidth: -1 })}---\n\n${out.body.trim()}\n`;
+  // Escape range tildes in the body — markdown strikethrough guard (see translate-posts.mjs).
+  const file = `---\n${yaml.dump(outFm, { lineWidth: -1 })}---\n\n${out.body.trim().replace(/(?<!\\)~/g, '\\~')}\n`;
   const dir = join(OUT, langCode);
   await mkdir(dir, { recursive: true });
   await writeFile(join(dir, `${slug}.md`), file, 'utf8');

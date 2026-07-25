@@ -17,7 +17,7 @@ Key practical points:
 - Extending your visa requires a personal visit to a local immigration office.
 - Visa processing is now centralized through the evisa.imigrasi.go.id platform, replacing older fragmented systems. Only use that official domain — the prominence of the e-visa system has spawned scam websites that mimic the look of the official government site and charge exorbitant fees or steal personal data.
 - Effective October 2025, all international passengers are required to declare their arrival through the All Indonesia platform at allindonesia.imigrasi.go.id.
-- Flying directly into Bali? A mandatory Bali Tourist Levy of IDR 150,000 (~USD 10) applies to all international arrivals flying directly into Bali since February 2024.
+- Flying directly into Bali? A mandatory Bali Tourist Levy of IDR 150,000 (\~USD 10) applies to all international arrivals flying directly into Bali since February 2024.
 - To enter Indonesia visa-free or on arrival, you must hold a valid passport with at least six months of validity from the date of arrival.
 - Overstaying is costly: overstaying a visa-free entry incurs fines of IDR 1,000,000 per day and can lead to deportation.
 

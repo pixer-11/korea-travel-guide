@@ -150,6 +150,24 @@ for (const f of (await readdir(ESS_DIR)).filter((f) => f.endsWith('.md'))) {
   if (miss.length) issues.push(`ESSENTIALS ${f} incomplete — missing: ${miss.join(', ')}`);
 }
 
+// Unescaped tilde gate — ALL collections. CJK ranges ("4~5월") are GFM
+// strikethrough markers; a pair struck out whole paragraphs on 308 posts once and
+// then again on essentials translations because the first fix was posts-only.
+// This walks EVERY content dir so no future collection can regress silently.
+const CONTENT_ROOT = fileURLToPath(new URL('../src/content/', import.meta.url));
+async function tildeWalk(dir, rel = '') {
+  for (const e of await readdir(dir, { withFileTypes: true })) {
+    const p = join(dir, e.name);
+    if (e.isDirectory()) { await tildeWalk(p, `${rel}${e.name}/`); continue; }
+    if (!e.name.endsWith('.md')) continue;
+    const raw = await readFile(p, 'utf8');
+    const fmEnd = raw.indexOf('\n---', 3);
+    const body = fmEnd === -1 ? raw : raw.slice(fmEnd + 4);
+    if (/(^|[^\\])~/.test(body)) issues.push(`TILDE unescaped in ${rel}${e.name} body — renders as strikethrough (escape as \\~)`);
+  }
+}
+await tildeWalk(CONTENT_ROOT);
+
 if (issues.length) {
   console.log(`❌ ${issues.length} content issue(s) across ${posts.length} posts + ${essCount} essentials:\n`);
   for (const i of issues) console.log(`  • ${i}`);

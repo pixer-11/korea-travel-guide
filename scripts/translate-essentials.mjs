@@ -79,7 +79,10 @@ async function translateOne(langCode, slug, data) {
     title: out.title,
     description: out.description || out.title,
   };
-  const file = `---\n${yaml.dump(fm, { lineWidth: -1 })}---\n\n${out.body.trim()}\n`;
+  // CJK range tildes ("4~5월") are markdown strikethrough markers — escape in the
+  // BODY (same fix as translate-posts.mjs; frontmatter renders as plain text).
+  const safeBody = out.body.trim().replace(/(?<!\\)~/g, '\\~');
+  const file = `---\n${yaml.dump(fm, { lineWidth: -1 })}---\n\n${safeBody}\n`;
   const dir = join(OUT, langCode);
   await mkdir(dir, { recursive: true });
   await writeFile(join(dir, `${slug}.md`), file, 'utf8');

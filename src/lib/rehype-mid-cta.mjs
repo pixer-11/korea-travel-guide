@@ -22,6 +22,12 @@ function langFromPath(path = '') {
 
 export default function rehypeMidCta() {
   return (tree, file) => {
+    // POSTS ONLY (English source + their /i18n/<lang>/ translations). Essentials,
+    // topics and static pages share this markdown pipeline but must NOT get the
+    // CTA — they briefly did, and worse, in English (their translations live
+    // outside /i18n/ so language detection fell back to en).
+    const p = String(file?.path || file?.history?.[0] || '').replace(/\\/g, '/');
+    if (!/\/content\/(posts|i18n\/(ko|ja|es|zh))\//.test(p)) return;
     const kids = tree.children ?? [];
     const h2Idx = [];
     for (let i = 0; i < kids.length; i++) {
