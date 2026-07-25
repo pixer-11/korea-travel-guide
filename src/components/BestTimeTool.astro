@@ -68,6 +68,7 @@ const strings = {
   allCities: t('tool.allCities'),
   places: t('tool.places'),
   quietest: t('tool.quietest'),
+  quiet: t('tool.quiet'),
   empty: t('tool.empty'),
   cat: {
     restaurant: t('cat.restaurant'),
@@ -162,12 +163,19 @@ const jsonLd = {
         $count.textContent = S.places.replace('{n}', rows.length);
         $out.innerHTML = rows.slice(0, 250).map((d) => {
           const q = range(d.wq) || range(d.weq);
+          // Photo band on top, facts on a solid body below. The photo is shown at
+          // full strength instead of hiding behind the text, and the bar/labels get
+          // an opaque background — the earlier "photo behind everything" version
+          // washed the photo out AND made the neutral bar cells unreadable.
           return `<a class="card" href="${d.u}">
-            ${d.b ? `<span class="cbg" data-bg="${esc(d.b)}"></span>` : ''}
-            <div class="ctop"><span class="cat">${esc(S.cat[d.cat] || d.cat)}</span><span class="dot"></span><span class="reg">${esc(d.r)}</span></div>
-            <h3>${esc(d.t)}</h3>
-            ${q ? `<p class="quiet">🟢 ${esc(S.quietest)}: <b>${q}</b></p>` : ''}
-            ${bar(d)}
+            <div class="photo"${d.b ? ` data-bg="${esc(d.b)}"` : ''}>
+              <span class="badge">${esc(S.cat[d.cat] || d.cat)} · ${esc(d.r)}</span>
+              ${q ? `<span class="chip">🟢 ${q} ${esc(S.quiet)}</span>` : ''}
+            </div>
+            <div class="body">
+              <h3>${esc(d.t)}</h3>
+              ${bar(d)}
+            </div>
           </a>`;
         }).join('') || `<p class="empty">${esc(S.empty)}</p>`;
         lazyBackgrounds();
@@ -186,13 +194,13 @@ const jsonLd = {
             const src = el.dataset.bg;
             if (src) {
               const img = new Image();
-              img.onload = () => { el.style.setProperty('--photo', `url("${src}")`); el.classList.add('on'); };
+              img.onload = () => { el.style.backgroundImage = `url("${src}")`; el.classList.add('on'); };
               img.src = src;
             }
             io.unobserve(el);
           }
         }, { rootMargin: '300px' });
-        $out.querySelectorAll('.cbg').forEach((el) => io.observe(el));
+        $out.querySelectorAll('.photo[data-bg]').forEach((el) => io.observe(el));
       }
 
       $c.addEventListener('change', () => { refreshRegions(); render(); });
@@ -222,42 +230,23 @@ const jsonLd = {
     .tool .legend i { width: 10px; height: 10px; border-radius: 3px; display: inline-block; }
 
     .tool .results { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1rem; }
-    .tool .card { position: relative; overflow: hidden; display: flex; flex-direction: column; padding: 1rem 1.1rem 1.1rem; border: 1px solid var(--line); border-radius: var(--r-lg); background: var(--surface); text-decoration: none; color: var(--ink); transition: box-shadow .16s ease, transform .16s ease, border-color .16s ease; }
+    .tool .card { position: relative; overflow: hidden; display: flex; flex-direction: column; border: 1px solid var(--line); border-radius: var(--r-lg); background: var(--surface); text-decoration: none; color: var(--ink); transition: box-shadow .16s ease, transform .16s ease, border-color .16s ease; }
     .tool .card:hover { box-shadow: var(--shadow-md); transform: translateY(-2px); border-color: var(--accent-soft); }
-    /* The venue's own photo behind the card. Instead of fading the whole photo to
-       near-invisible, show it properly and lay a SCRIM (a tinted gradient in the
-       surface colour) over it: light at the top where the photo reads, heavy at the
-       bottom so the crowd bar and its labels keep full contrast. Photo is set from
-       JS as --photo. */
-    /* Scrim stops are tuned per band so the photo shows as much as possible while
-       every text colour still clears WCAG AA (4.5:1) even over a pure-black photo:
-       80% behind the small top labels, 64% behind the (near-black) title where the
-       photo reads best, 82% behind the green quiet-time line, 94% behind the bar. */
-    .tool { --card-scrim: linear-gradient(180deg, rgba(255,253,249,0.80) 0%, rgba(255,253,249,0.64) 24%, rgba(255,253,249,0.70) 44%, rgba(255,253,249,0.82) 62%, rgba(255,253,249,0.94) 78%, rgba(255,253,249,0.96) 100%); }
-    .tool .cbg { position: absolute; inset: 0; opacity: 0; transform: scale(1.06); filter: saturate(1.05); transition: opacity .45s ease; pointer-events: none;
-      background-image: var(--card-scrim), var(--photo, none); background-size: cover, cover; background-position: center, center; }
-    .tool .cbg.on { opacity: 1; }
-    .tool .card > *:not(.cbg) { position: relative; z-index: 1; }
+    /* Photo band on top; the venue's real photo at full strength. Overlays sit on
+       their own near-opaque pills so they clear WCAG AA over ANY photo (verified
+       worst-case: white badge text 8.4:1 on a white photo, green chip 8.0:1 on a
+       black one) — no scrim maths needed anywhere else. */
+    .tool .photo { height: 152px; background: var(--surface-2) center/cover no-repeat; position: relative; flex: none; opacity: 0; transition: opacity .4s ease; }
+    .tool .photo.on, .tool .photo:not([data-bg]) { opacity: 1; }
+    .tool .badge { position: absolute; left: 10px; top: 10px; max-width: calc(100% - 20px); background: rgba(20,18,15,0.78); color: #fff; font-size: 0.66rem; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase; padding: 0.25rem 0.5rem; border-radius: var(--r-pill); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .tool .chip { position: absolute; left: 10px; bottom: 10px; background: rgba(255,253,249,0.95); color: #14523a; font-size: 0.78rem; font-weight: 800; padding: 0.25rem 0.55rem; border-radius: var(--r-pill); }
+    .tool .body { padding: 0.85rem 1rem 1rem; display: flex; flex-direction: column; flex: 1; }
     @media (prefers-color-scheme: dark) {
-      .tool { --card-scrim: linear-gradient(180deg, rgba(30,26,21,0.80) 0%, rgba(30,26,21,0.64) 24%, rgba(30,26,21,0.70) 44%, rgba(30,26,21,0.82) 62%, rgba(30,26,21,0.94) 78%, rgba(30,26,21,0.96) 100%); }
+      .tool .chip { background: rgba(30,26,21,0.92); color: #6fd39d; }
     }
-    @media (prefers-reduced-motion: reduce) { .tool .cbg { transition: none; } }
+    @media (prefers-reduced-motion: reduce) { .tool .photo { transition: none; } }
 
-    .tool .ctop { display: flex; align-items: center; gap: 0.5rem; font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.07em; margin-bottom: 0.45rem; }
-    /* Darker than the site accent/muted: these sit over the photo, and the lighter
-       defaults dropped to ~2:1 contrast on a dark image. */
-    .tool .ctop .cat { color: #8c2a22; font-weight: 800; }
-    .tool .ctop .dot { width: 3px; height: 3px; border-radius: 50%; background: var(--ink-soft); opacity: 0.7; flex: none; }
-    .tool .ctop .reg { color: var(--ink-soft); font-weight: 700; }
-    @media (prefers-color-scheme: dark) {
-      .tool .ctop .cat { color: #f0897c; }
-      .tool .ctop .reg { color: var(--ink-soft); }
-    }
-
-    .tool .card h3 { font-size: 1.02rem; margin: 0 0 0.6rem; line-height: 1.3; font-weight: 700; }
-    .tool .quiet { font-size: 0.88rem; margin: 0 0 0.75rem; color: var(--ink); font-weight: 500; display: flex; align-items: baseline; gap: 0.35rem; }
-    .tool .quiet b { color: #14523a; font-size: 0.95rem; font-weight: 800; }
-    @media (prefers-color-scheme: dark) { .tool .quiet b { color: #6fd39d; } }
+    .tool .card h3 { font-size: 1.02rem; margin: 0 0 0.7rem; line-height: 1.3; font-weight: 700; }
 
     /* The bar sits over the photo, so each cell gets a hairline + soft shadow to
        stay crisp, and the neutral "mid" cells are opaque rather than tinted. */
