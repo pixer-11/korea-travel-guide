@@ -21,7 +21,17 @@
         "Suwon",
         "Sokcho",
         "Andong",
-        "Yeosu"
+        "Yeosu",
+        "Paju",
+        "Suncheon",
+        "Tongyeong",
+        "Boryeong",
+        "Chuncheon",
+        "Damyang",
+        "Gapyeong",
+        "Jinju",
+        "Pohang",
+        "Goyang"
       ],
       "continent": "Asia"
     },
@@ -43,7 +53,9 @@
         "Fukuoka",
         "Nagoya",
         "Kanazawa",
-        "Okinawa"
+        "Okinawa",
+        "Yokohama",
+        "Chiba"
       ],
       "continent": "Asia"
     },
@@ -125,7 +137,9 @@
         "Naples",
         "Bologna",
         "Turin",
-        "Amalfi Coast"
+        "Amalfi Coast",
+        "Siena",
+        "Monza"
       ],
       "continent": "Europe"
     },
@@ -145,7 +159,10 @@
         "Guilin",
         "Hangzhou",
         "Guangzhou",
-        "Suzhou"
+        "Suzhou",
+        "Hong Kong",
+        "Qingdao",
+        "Taiyuan"
       ],
       "continent": "Asia"
     },
@@ -165,7 +182,10 @@
         "Granada",
         "San Sebastian",
         "Malaga",
-        "Bilbao"
+        "Bilbao",
+        "Ibiza",
+        "Buñol",
+        "Alcañiz"
       ],
       "continent": "Europe"
     },
@@ -177,7 +197,16 @@
       "flag": "🇻🇳",
       "active": true,
       "blurb": "Motorbike-buzzing cities, emerald Ha Long Bay, terraced rice fields, French-colonial streets, and some of Asia's best street food.",
-      "regions": ["Hanoi", "Ho Chi Minh City", "Da Nang", "Hoi An", "Ha Long Bay", "Nha Trang", "Hue", "Phu Quoc"],
+      "regions": [
+        "Hanoi",
+        "Ho Chi Minh City",
+        "Da Nang",
+        "Hoi An",
+        "Ha Long Bay",
+        "Nha Trang",
+        "Hue",
+        "Phu Quoc"
+      ],
       "continent": "Asia"
     },
     {
@@ -188,7 +217,15 @@
       "flag": "🇦🇪",
       "active": true,
       "blurb": "Futuristic Dubai skylines, desert safaris, gold souks and grand mosques, and record-breaking towers rising from the Gulf.",
-      "regions": ["Dubai", "Abu Dhabi", "Sharjah", "Ras Al Khaimah", "Al Ain", "Fujairah", "Ajman"],
+      "regions": [
+        "Dubai",
+        "Abu Dhabi",
+        "Sharjah",
+        "Ras Al Khaimah",
+        "Al Ain",
+        "Fujairah",
+        "Ajman"
+      ],
       "continent": "Asia"
     },
     {
@@ -199,7 +236,15 @@
       "flag": "🇹🇼",
       "active": true,
       "blurb": "Night-market feasts, hot springs and towering peaks, temple towns and Taipei's neon buzz — friendly, compact, and easy to explore.",
-      "regions": ["Taipei", "New Taipei", "Taichung", "Tainan", "Kaohsiung", "Hualien", "Jiufen"],
+      "regions": [
+        "Taipei",
+        "New Taipei",
+        "Taichung",
+        "Tainan",
+        "Kaohsiung",
+        "Hualien",
+        "Jiufen"
+      ],
       "continent": "Asia"
     },
     {
@@ -210,7 +255,15 @@
       "flag": "🇮🇩",
       "active": true,
       "blurb": "Bali's rice terraces and beaches, volcano sunrises, Komodo dragons, and thousands of islands of temples, surf and jungle.",
-      "regions": ["Bali", "Jakarta", "Yogyakarta", "Bandung", "Lombok", "Labuan Bajo", "Surabaya"],
+      "regions": [
+        "Bali",
+        "Jakarta",
+        "Yogyakarta",
+        "Bandung",
+        "Lombok",
+        "Labuan Bajo",
+        "Surabaya"
+      ],
       "continent": "Asia"
     },
     {
@@ -221,7 +274,15 @@
       "flag": "🇲🇾",
       "active": true,
       "blurb": "Kuala Lumpur's towers, island beaches, rainforest and tea highlands, and a street-food scene where Malay, Chinese and Indian flavors meet.",
-      "regions": ["Kuala Lumpur", "Penang", "Langkawi", "Malacca", "Kota Kinabalu", "Ipoh", "Johor Bahru"],
+      "regions": [
+        "Kuala Lumpur",
+        "Penang",
+        "Langkawi",
+        "Malacca",
+        "Kota Kinabalu",
+        "Ipoh",
+        "Johor Bahru"
+      ],
       "continent": "Asia"
     },
     {
@@ -232,7 +293,18 @@
       "flag": "🇮🇳",
       "active": true,
       "blurb": "The Taj Mahal and pink-city palaces, Himalayan foothills and backwaters, dazzling festivals, and food that changes every few hundred kilometers.",
-      "regions": ["New Delhi", "Mumbai", "Jaipur", "Agra", "Goa", "Bengaluru", "Varanasi", "Udaipur"],
+      "regions": [
+        "New Delhi",
+        "Mumbai",
+        "Jaipur",
+        "Agra",
+        "Goa",
+        "Bengaluru",
+        "Varanasi",
+        "Udaipur",
+        "Hyderabad",
+        "Bhubaneswar"
+      ],
       "continent": "Asia"
     },
     {
@@ -243,7 +315,15 @@
       "flag": "🇵🇭",
       "active": true,
       "blurb": "Thousands of islands of white-sand beaches and turquoise lagoons, world-class diving, rice terraces, and warm, English-friendly hospitality.",
-      "regions": ["Manila", "Cebu", "Boracay", "Palawan", "Bohol", "Siargao", "Davao"],
+      "regions": [
+        "Manila",
+        "Cebu",
+        "Boracay",
+        "Palawan",
+        "Bohol",
+        "Siargao",
+        "Davao"
+      ],
       "continent": "Asia"
     },
     {
@@ -254,7 +334,15 @@
       "flag": "🇹🇷",
       "active": true,
       "blurb": "Istanbul where two continents meet, Cappadocia's balloon-filled skies, turquoise coasts and ancient ruins, and legendary bazaar and food culture.",
-      "regions": ["Istanbul", "Cappadocia", "Antalya", "Izmir", "Bodrum", "Ankara", "Pamukkale"],
+      "regions": [
+        "Istanbul",
+        "Cappadocia",
+        "Antalya",
+        "Izmir",
+        "Bodrum",
+        "Ankara",
+        "Pamukkale"
+      ],
       "continent": "Asia"
     },
     {
@@ -265,7 +353,16 @@
       "flag": "🇸🇬",
       "active": true,
       "blurb": "A futuristic city-state where hawker-stall feasts, Marina Bay's skyline, lush gardens, and a blend of Malay, Chinese, Indian and Peranakan cultures meet — clean, safe, and effortless to explore.",
-      "regions": ["Marina Bay", "Sentosa", "Chinatown", "Orchard Road", "Little India", "Kampong Glam", "Clarke Quay"],
+      "regions": [
+        "Singapore",
+        "Marina Bay",
+        "Sentosa",
+        "Chinatown",
+        "Orchard Road",
+        "Little India",
+        "Kampong Glam",
+        "Clarke Quay"
+      ],
       "continent": "Asia"
     }
   ]

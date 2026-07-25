@@ -1,16 +1,16 @@
 ---
-title: "Mud Festival in Boryeong"
-description: "The Boryeong Mud Festival runs for about two weeks each July at Daecheon Beach on Korea's west coast, roughly two hours from Seoul by train or bus."
+title: Mud Festival in Boryeong
+description: The Boryeong Mud Festival runs for about two weeks each July at Daecheon Beach on Korea's west coast, roughly two hours from Seoul by train or bus.
 region: Boryeong
 category: event
-eventStartDate: 2026-07-24
-eventEndDate: 2026-08-09
+eventStartDate: 2026-07-24T00:00:00.000Z
+eventEndDate: 2026-08-09T00:00:00.000Z
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Korea-Boryeong_Mud_Festival-29.jpg/1920px-Korea-Boryeong_Mud_Festival-29.jpg"
-  credit: "Photo: Stinkie Pinkie / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Korea-Boryeong_Mud_Festival-29.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Korea-Boryeong_Mud_Festival-29.jpg/1920px-Korea-Boryeong_Mud_Festival-29.jpg
+  credit: 'Photo: Stinkie Pinkie / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Korea-Boryeong_Mud_Festival-29.jpg
 gallery: []
 tags:
   - boryeong
@@ -29,6 +29,7 @@ faq:
     a: Muchangpo Beach's tidal 'sea-parting' phenomenon and Boryeong's Oceanographic Museum make good side trips if you want a break from the mud pools.
 aiGenerated: true
 draft: false
+country: South Korea
 ---
 
 ## Why go

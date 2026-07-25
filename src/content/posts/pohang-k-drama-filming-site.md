@@ -1,6 +1,6 @@
 ---
-title: "K-Drama Filming Site in Pohang"
-description: "Pohang's best-known K-drama filming draw is Guryongpo, the retro Japanese-era fishing town on the Homigot peninsula whose old wooden storefronts and narrow"
+title: K-Drama Filming Site in Pohang
+description: Pohang's best-known K-drama filming draw is Guryongpo, the retro Japanese-era fishing town on the Homigot peninsula whose old wooden storefronts and narrow
 region: Pohang
 category: trendy
 pubDate: 2026-07-20T00:00:00.000Z
@@ -27,6 +27,7 @@ faq:
     a: Homigot Sunrise Square (Hand of Harmony sculpture) is 10-15 minutes away, and Pohang's Yeongildae Beach and Space Walk sculpture are easy add-ons back in the city.
 aiGenerated: true
 draft: false
+country: South Korea
 ---
 
 ## Why Pohang draws K-drama fans

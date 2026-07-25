@@ -1,48 +1,61 @@
 ---
-title: "Nagan Eupseong Folk Village: Suncheon Travel Guide"
-description: "Nagan Eupseong Folk Village is a walled Joseon-dynasty town in Nagan-myeon, about 30 minutes southwest of central Suncheon, where roughly 100 families still"
-region: "Suncheon"
-category: "hidden-gem"
-pubDate: 2026-07-21
+title: 'Nagan Eupseong Folk Village: Suncheon Travel Guide'
+description: Nagan Eupseong Folk Village is a walled Joseon-dynasty town in Nagan-myeon, about 30 minutes southwest of central Suncheon, where roughly 100 families still
+region: Suncheon
+category: hidden-gem
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1584802530491-65fad8b1b92c?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U3VuY2hlb24lMjBTb3V0aCUyMEtvcmVhfGVufDB8MHx8fDE3ODQ2MTM3MTh8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Daniel Bernard on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@nardly?utm_source=korea_travel_guide&utm_medium=referral"
+  url: https://images.unsplash.com/photo-1584802530491-65fad8b1b92c?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U3VuY2hlb24lMjBTb3V0aCUyMEtvcmVhfGVufDB8MHx8fDE3ODQ2MTM3MTh8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Daniel Bernard on Unsplash
+  license: unsplash
+  source: https://unsplash.com/@nardly?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
-  id: "ChIJI5PLIS3-bTURUimpUBjPQto"
-  name: "Nagan Eupseong Folk Village"
-  address: "6-4 Pyeongchon-ri, Nagan-myeon, Suncheon, Jeollanam-do, South Korea"
+  id: ChIJI5PLIS3-bTURUimpUBjPQto
+  name: Nagan Eupseong Folk Village
+  address: 6-4 Pyeongchon-ri, Nagan-myeon, Suncheon, Jeollanam-do, South Korea
   rating: 4.3
   userRatingsTotal: 6552
-  googleMapsUrl: "https://maps.google.com/?cid=15727360552070621522&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=15727360552070621522&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.907295399999995
   lng: 127.3411258
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [9, 10, 17, 18]
-    weekendQuiet: [18]
-    weekendBusy: [10, 11, 12, 13, 14, 15, 16]
-    venueId: 'ven_6f7451506a4255706d6955525554622d3353494c5035494a496843'
+    weekdayQuiet:
+      - 9
+      - 10
+      - 17
+      - 18
+    weekendQuiet:
+      - 18
+    weekendBusy:
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+    venueId: ven_6f7451506a4255706d6955525554622d3353494c5035494a496843
 tags:
-  - "suncheon"
-  - "Naganeupseong"
-quickAnswer: "Nagan Eupseong Folk Village is a walled Joseon-dynasty town in Nagan-myeon, about 30 minutes southwest of central Suncheon, where roughly 100 families still live inside a 15th-century stone fortress amid thatched-roof houses. Plan on 1.5–2 hours to walk the fortress walls and lanes, longer if you catch a folk performance or try a hands-on craft activity. It's best visited in the cooler morning or late afternoon, and pairs well with a trip to Suncheon Bay Wetland Reserve on the same day."
+  - suncheon
+  - Naganeupseong
+quickAnswer: Nagan Eupseong Folk Village is a walled Joseon-dynasty town in Nagan-myeon, about 30 minutes southwest of central Suncheon, where roughly 100 families still live inside a 15th-century stone fortress amid thatched-roof houses. Plan on 1.5–2 hours to walk the fortress walls and lanes, longer if you catch a folk performance or try a hands-on craft activity. It's best visited in the cooler morning or late afternoon, and pairs well with a trip to Suncheon Bay Wetland Reserve on the same day.
 faq:
-  - q: "How do I get to Nagan Eupseong Folk Village without a car?"
-    a: "Take a train or bus to Suncheon Station or Suncheon's intercity bus terminal, then transfer to a regional bus heading to Nagan-myeon (limited daily departures), or take a taxi, which takes about 25–30 minutes from the station."
-  - q: "How much time should I budget for a visit?"
-    a: "Plan on 1.5–2 hours to walk the fortress wall and main lanes; allow half a day if you want to try a craft demonstration, eat locally, or catch a scheduled folk performance."
-  - q: "Is there an entrance fee?"
-    a: "There is typically a modest admission fee to enter the walled village, though exact pricing changes over time — confirm current rates locally or via Suncheon's official tourism resources before visiting."
-  - q: "What's the best time of year to visit?"
-    a: "Spring and autumn offer the mildest weather and best light for photos; summer is humid and busier with domestic visitors, while winter is quiet but colder with fewer active craft demonstrations."
-  - q: "What else can I combine with this trip in Suncheon?"
-    a: "Suncheon Bay Wetland Reserve and Suncheon Bay National Garden are both about 30–40 minutes away by car and make for a natural full-day itinerary alongside the folk village."
+  - q: How do I get to Nagan Eupseong Folk Village without a car?
+    a: Take a train or bus to Suncheon Station or Suncheon's intercity bus terminal, then transfer to a regional bus heading to Nagan-myeon (limited daily departures), or take a taxi, which takes about 25–30 minutes from the station.
+  - q: How much time should I budget for a visit?
+    a: Plan on 1.5–2 hours to walk the fortress wall and main lanes; allow half a day if you want to try a craft demonstration, eat locally, or catch a scheduled folk performance.
+  - q: Is there an entrance fee?
+    a: There is typically a modest admission fee to enter the walled village, though exact pricing changes over time — confirm current rates locally or via Suncheon's official tourism resources before visiting.
+  - q: What's the best time of year to visit?
+    a: Spring and autumn offer the mildest weather and best light for photos; summer is humid and busier with domestic visitors, while winter is quiet but colder with fewer active craft demonstrations.
+  - q: What else can I combine with this trip in Suncheon?
+    a: Suncheon Bay Wetland Reserve and Suncheon Bay National Garden are both about 30–40 minutes away by car and make for a natural full-day itinerary alongside the folk village.
 aiGenerated: true
 draft: false
+country: South Korea
 ---
 
 ## Why go

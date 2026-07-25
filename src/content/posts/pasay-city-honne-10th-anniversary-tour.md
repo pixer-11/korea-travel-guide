@@ -2,7 +2,7 @@
 title: 'HONNE 10th Anniversary Tour: What to Know (Pasay City)'
 description: HONNE 10th Anniversary Tour in Pasay City, Philippines — August 10-12, 2026. What it is, when and where, and how to plan around it.
 country: Philippines
-region: Pasay City
+region: Manila
 category: event
 pubDate: '2026-07-24'
 eventStartDate: '2026-08-10'

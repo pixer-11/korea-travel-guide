@@ -1,6 +1,6 @@
 ---
-title: "Suncheon Bay"
-description: "Suncheon Bay National Garden and the adjacent Suncheon Bay Wetland Reserve (Suncheonman) are best visited together as a single day trip: start at the"
+title: Suncheon Bay
+description: 'Suncheon Bay National Garden and the adjacent Suncheon Bay Wetland Reserve (Suncheonman) are best visited together as a single day trip: start at the'
 region: Suncheon
 category: attraction
 pubDate: 2026-07-20T00:00:00.000Z
@@ -27,6 +27,7 @@ faq:
     a: Yes — the Suncheon Drama Filming Set is nearby and makes an easy add-on, and downtown Suncheon has markets serving local seafood, including cockle (kkomak) dishes tied to the bay's tidal flats.
 aiGenerated: true
 draft: false
+country: South Korea
 ---
 
 ## Why go

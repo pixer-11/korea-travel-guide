@@ -2,7 +2,7 @@
 title: 'MAMAMOO World Tour Manila Stop: What to Know (Quezon City)'
 description: MAMAMOO World Tour Manila Stop in Quezon City, Philippines — August 8, 2026. What it is, when and where, and how to plan around it.
 country: Philippines
-region: Quezon City
+region: Manila
 category: event
 pubDate: '2026-07-24'
 eventStartDate: '2026-08-08'

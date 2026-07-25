@@ -1,6 +1,6 @@
 ---
-title: "Dakgalbi Street in Chuncheon"
-description: "Myeongdong Dakgalbi Golmok (닭갈비 골목), a cluster of restaurants near Chuncheon's old Myeongdong shopping street, is the place to eat Chuncheon-style spicy"
+title: Dakgalbi Street in Chuncheon
+description: Myeongdong Dakgalbi Golmok (닭갈비 골목), a cluster of restaurants near Chuncheon's old Myeongdong shopping street, is the place to eat Chuncheon-style spicy
 region: Chuncheon
 category: restaurant
 pubDate: 2026-07-20T00:00:00.000Z
@@ -27,6 +27,7 @@ faq:
     a: Many visitors pair the meal with a trip to Nami Island or Soyang Dam, and explore Chuncheon's Myeongdong shopping street for cafes and snacks before or after eating.
 aiGenerated: true
 draft: false
+country: South Korea
 ---
 
 ## Why Chuncheon Means Dakgalbi

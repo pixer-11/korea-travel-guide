@@ -72,6 +72,20 @@ function regionRedirects() {
     const next = regionSlug(r);
     if (oldEnc !== next) lines.push(`/regions/${oldEnc}/ /regions/${next}/ 301`);
   }
+  // Region NAME normalizations (2026-07-26 data cleanup): old region pages 301
+  // to the canonical city so any indexed URL keeps its equity.
+  const alias = {
+    'new-york-city': 'new-york',
+    'metro-manila': 'manila',
+    'pasay-city': 'manila',
+    'quezon-city': 'manila',
+    xian: 'xi-an',
+  };
+  for (const [from, to] of Object.entries(alias)) lines.push(`/regions/${from}/ /regions/${to}/ 301`);
+  // Deleted duplicate event post → its kept twin.
+  for (const p of ['', '/ko', '/ja', '/es', '/zh']) {
+    lines.push(`${p}/posts/multiple-cities-tour-de-france-femmes/ ${p}/posts/nice-finish-various-french-stages-tour-de-france-femmes-avec-zwift/ 301`);
+  }
   return lines.sort();
 }
 // Custom integration: after the build, append the region 301s to dist/_redirects

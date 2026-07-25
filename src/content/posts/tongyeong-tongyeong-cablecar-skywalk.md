@@ -1,6 +1,6 @@
 ---
-title: "Tongyeong Cablecar Skywalk: Travel Guide"
-description: "Ride the Tongyeong Cablecar from its base station in Sanyang-eup up Mireuksan (461m), then walk the Skywalk glass-floor deck near the summit for panoramic"
+title: 'Tongyeong Cablecar Skywalk: Travel Guide'
+description: Ride the Tongyeong Cablecar from its base station in Sanyang-eup up Mireuksan (461m), then walk the Skywalk glass-floor deck near the summit for panoramic
 region: Tongyeong
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
@@ -37,6 +37,7 @@ faq:
     a: Dongpirang Mural Village and Jungang Market, both known for seafood and the local chungmu gimbap, are a short drive from the cable car base station and pair well with a half-day visit.
 aiGenerated: true
 draft: false
+country: South Korea
 ---
 
 ## Why Go

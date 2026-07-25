@@ -1,6 +1,6 @@
 ---
-title: "Heyri Art Village in Paju"
-description: "Heyri Art Village is a purpose-built cultural district in Paju, about 40–50 minutes north of central Seoul, packed with small museums, galleries, bookshops"
+title: Heyri Art Village in Paju
+description: Heyri Art Village is a purpose-built cultural district in Paju, about 40–50 minutes north of central Seoul, packed with small museums, galleries, bookshops
 region: Paju
 category: hidden-gem
 pubDate: 2026-07-20T00:00:00.000Z
@@ -27,6 +27,7 @@ faq:
     a: Yes — Paju Book City and the Imjingak/DMZ tour area are both nearby along the same route north of Seoul, making it easy to build a full-day itinerary.
 aiGenerated: true
 draft: false
+country: South Korea
 ---
 
 ## Why go

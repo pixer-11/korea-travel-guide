@@ -1,6 +1,6 @@
 ---
-title: "Dongpirang Mural Village in Tongyeong"
-description: "Dongpirang is a small hillside mural village on the east side of Tongyeong's old harbor, right next to Jungang Market and below Nammangsan Park."
+title: Dongpirang Mural Village in Tongyeong
+description: Dongpirang is a small hillside mural village on the east side of Tongyeong's old harbor, right next to Jungang Market and below Nammangsan Park.
 region: Tongyeong
 category: hidden-gem
 pubDate: 2026-07-20T00:00:00.000Z
@@ -27,6 +27,7 @@ faq:
     a: Try chungmu gimbap and fresh seafood at adjoining Jungang Market — it's Tongyeong's best-known local dish and sold throughout the market stalls at the base of the hill.
 aiGenerated: true
 draft: false
+country: South Korea
 ---
 
 ## Why go

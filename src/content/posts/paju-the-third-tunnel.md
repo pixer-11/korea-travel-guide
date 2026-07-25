@@ -1,6 +1,6 @@
 ---
-title: "The Third Tunnel: Paju Travel Guide"
-description: "The Third Tunnel is a North Korean-dug infiltration tunnel inside the DMZ near Paju, best visited as part of a guided half-day or full-day DMZ tour from"
+title: 'The Third Tunnel: Paju Travel Guide'
+description: The Third Tunnel is a North Korean-dug infiltration tunnel inside the DMZ near Paju, best visited as part of a guided half-day or full-day DMZ tour from
 region: Paju
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
@@ -22,9 +22,19 @@ place:
   lng: 126.69826090000001
   busyness:
     updated: '2026-07-23'
-    weekdayBusy: [10, 11, 12, 13, 14]
-    weekendBusy: [10, 11, 12, 13, 14]
-    venueId: 'ven_6b576a635349454846336a525544667a586635764433534a496843'
+    weekdayBusy:
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+    weekendBusy:
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+    venueId: ven_6b576a635349454846336a525544667a586635764433534a496843
 tags:
   - paju
   - DMZ tour
@@ -42,6 +52,7 @@ faq:
     a: No, photography underground is prohibited; cameras and phones can generally be used at the visitor center and outdoor viewpoints instead.
 aiGenerated: true
 draft: false
+country: South Korea
 ---
 
 ## Why go

@@ -1,6 +1,6 @@
 ---
-title: "Nami Island K-Drama in Gapyeong"
-description: "Nami Island is the half-moon-shaped island on the Han/Bukhan River in Gapyeong County where the 2002 hit drama \"Winter Sonata\" was filmed, and its tree-lined"
+title: Nami Island K-Drama in Gapyeong
+description: Nami Island is the half-moon-shaped island on the Han/Bukhan River in Gapyeong County where the 2002 hit drama "Winter Sonata" was filmed, and its tree-lined
 region: Gapyeong
 category: attraction
 pubDate: 2026-07-20T00:00:00.000Z
@@ -27,6 +27,7 @@ faq:
     a: Petite France, the Garden of Morning Calm, and the Gapyeong Rail Bike park are all short drives from Gapyeong Wharf and commonly combined into one day trip.
 aiGenerated: true
 draft: false
+country: South Korea
 ---
 
 ## Why Nami Island Matters for K-Drama Fans

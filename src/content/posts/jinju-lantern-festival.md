@@ -1,16 +1,16 @@
 ---
-title: "Lantern Festival in Jinju"
-description: "The Jinju Namgang Yudeung (Lantern) Festival runs for about two weeks each October along the Namgang River in downtown Jinju, centered on Jinjuseong Fortress"
+title: Lantern Festival in Jinju
+description: The Jinju Namgang Yudeung (Lantern) Festival runs for about two weeks each October along the Namgang River in downtown Jinju, centered on Jinjuseong Fortress
 region: Jinju
 category: event
-eventStartDate: 2026-10-01
-eventEndDate: 2026-10-18
+eventStartDate: 2026-10-01T00:00:00.000Z
+eventEndDate: 2026-10-18T00:00:00.000Z
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Jinju_namgang_lantern_festival.jpg/1920px-Jinju_namgang_lantern_festival.jpg"
-  credit: "Photo: Asfreeas at Korean Wikipedia This photo was taken with Nikon D80 / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Jinju_namgang_lantern_festival.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Jinju_namgang_lantern_festival.jpg/1920px-Jinju_namgang_lantern_festival.jpg
+  credit: 'Photo: Asfreeas at Korean Wikipedia This photo was taken with Nikon D80 / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Jinju_namgang_lantern_festival.jpg
 gallery: []
 tags:
   - jinju
@@ -29,6 +29,7 @@ faq:
     a: Pair the festival with a walk through Jinjuseong Fortress's Yeongnam Grand Pavilion and Nongae shrine, a meal of Jinju-style bibimbap or naengmyeon, and a stop at the Jungangno shopping area or Jinju Fish Market for a fuller day in the city.
 aiGenerated: true
 draft: false
+country: South Korea
 ---
 
 ## Why go

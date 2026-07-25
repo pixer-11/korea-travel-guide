@@ -1,41 +1,41 @@
 ---
-title: "Emperor Qinshihuang's Mausoleum Site Museum: Xian Travel Guide"
-description: "Emperor Qinshihuang's Mausoleum Site Museum — better known as the Terracotta Army — is in Lintong District, about 1.5 hours (40km) east of downtown Xi'an."
-country: "China"
-region: "Xian"
-category: "attraction"
-pubDate: 2026-07-21
+title: 'Emperor Qinshihuang''s Mausoleum Site Museum: Xian Travel Guide'
+description: Emperor Qinshihuang's Mausoleum Site Museum — better known as the Terracotta Army — is in Lintong District, about 1.5 hours (40km) east of downtown Xi'an.
+country: China
+region: Xi'an
+category: attraction
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bronze_arrowheads%2C_Qin_dynasty%2C_Emperor_Qinshihuang%27s_Mausoleum_Site_Museum.jpg/1920px-Bronze_arrowheads%2C_Qin_dynasty%2C_Emperor_Qinshihuang%27s_Mausoleum_Site_Museum.jpg"
-  credit: "Photo: Huangdan2060 / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Bronze_arrowheads,_Qin_dynasty,_Emperor_Qinshihuang%27s_Mausoleum_Site_Museum.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bronze_arrowheads%2C_Qin_dynasty%2C_Emperor_Qinshihuang%27s_Mausoleum_Site_Museum.jpg/1920px-Bronze_arrowheads%2C_Qin_dynasty%2C_Emperor_Qinshihuang%27s_Mausoleum_Site_Museum.jpg
+  credit: 'Photo: Huangdan2060 / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Bronze_arrowheads,_Qin_dynasty,_Emperor_Qinshihuang%27s_Mausoleum_Site_Museum.jpg
 gallery: []
 place:
-  id: "ChIJowMUgi2nZDYRxz_j6XQ-48M"
-  name: "Emperor Qinshihuang's Mausoleum Site Museum"
-  address: "Lintong District, Xi'An, Shaanxi, China, 710612"
+  id: ChIJowMUgi2nZDYRxz_j6XQ-48M
+  name: Emperor Qinshihuang's Mausoleum Site Museum
+  address: Lintong District, Xi'An, Shaanxi, China, 710612
   rating: 4.6
   userRatingsTotal: 8447
-  googleMapsUrl: "https://maps.google.com/?cid=14115194328970379207&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=14115194328970379207&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.3841153
   lng: 109.2784918
 tags:
-  - "xian"
-  - "Terracotta Army"
-quickAnswer: "Emperor Qinshihuang's Mausoleum Site Museum — better known as the Terracotta Army — is in Lintong District, about 1.5 hours (40km) east of downtown Xi'an. Plan a half-day: 2.5–3.5 hours to see the three excavation pits and the bronze chariot hall. Go early on a weekday, hire an official guide or audio guide at the gate, and Pit 1 last for the full-scale \"wow\" of the army in formation."
+  - xian
+  - Terracotta Army
+quickAnswer: 'Emperor Qinshihuang''s Mausoleum Site Museum — better known as the Terracotta Army — is in Lintong District, about 1.5 hours (40km) east of downtown Xi''an. Plan a half-day: 2.5–3.5 hours to see the three excavation pits and the bronze chariot hall. Go early on a weekday, hire an official guide or audio guide at the gate, and Pit 1 last for the full-scale "wow" of the army in formation.'
 faq:
-  - q: "How do I get to the Terracotta Army from downtown Xi'an?"
-    a: "Take Tourist Bus Line 5 (You You 5 / Bus 306) from the east square of Xi'an Railway Station, or a taxi/Didi — both take about 1.5 hours for the 40km trip to Lintong District."
-  - q: "How much time should I budget for the visit?"
-    a: "Plan 2.5 to 3.5 hours to see all three pits and the bronze chariot exhibition hall without rushing; add extra time if you also visit the emperor's burial mound nearby."
-  - q: "Which pit should I see first?"
-    a: "See Pits 2 and 3 first for context on excavation and formation, then finish with Pit 1 — the largest and most visually striking, with over 6,000 warriors in formation."
-  - q: "Is it worth hiring a guide?"
-    a: "Yes — on-site signage is limited given the site's significance, and a licensed guide or audio guide explains details like faded original paint and why the main tomb remains unexcavated."
-  - q: "What's the best time of year and day to visit?"
-    a: "Go early on a weekday in spring (April–May) or autumn (September–October) to avoid tour-group crowds and extreme summer heat."
+  - q: How do I get to the Terracotta Army from downtown Xi'an?
+    a: Take Tourist Bus Line 5 (You You 5 / Bus 306) from the east square of Xi'an Railway Station, or a taxi/Didi — both take about 1.5 hours for the 40km trip to Lintong District.
+  - q: How much time should I budget for the visit?
+    a: Plan 2.5 to 3.5 hours to see all three pits and the bronze chariot exhibition hall without rushing; add extra time if you also visit the emperor's burial mound nearby.
+  - q: Which pit should I see first?
+    a: See Pits 2 and 3 first for context on excavation and formation, then finish with Pit 1 — the largest and most visually striking, with over 6,000 warriors in formation.
+  - q: Is it worth hiring a guide?
+    a: Yes — on-site signage is limited given the site's significance, and a licensed guide or audio guide explains details like faded original paint and why the main tomb remains unexcavated.
+  - q: What's the best time of year and day to visit?
+    a: Go early on a weekday in spring (April–May) or autumn (September–October) to avoid tour-group crowds and extreme summer heat.
 aiGenerated: true
 draft: false
 ---

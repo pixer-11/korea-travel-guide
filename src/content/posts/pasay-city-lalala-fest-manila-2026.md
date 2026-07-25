@@ -1,17 +1,17 @@
 ---
 title: 'LaLaLa Fest Manila 2026: What to Know (Pasay City)'
-description: "LaLaLa Fest Manila 2026 is set for August 21, 2026 at the World Trade Center Manila in Pasay City, headlined by Steve Lacy and Two Door Cinema Club."
+description: LaLaLa Fest Manila 2026 is set for August 21, 2026 at the World Trade Center Manila in Pasay City, headlined by Steve Lacy and Two Door Cinema Club.
 country: Philippines
-region: Pasay City
+region: Manila
 category: event
 pubDate: '2026-07-23'
 eventStartDate: '2026-08-21'
 eventEndDate: '2026-08-21'
 heroImage:
-  url: "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8Y29uY2VydCUyMGxpdmUlMjBldmVudCUyMHN0YWdlfGVufDB8MHx8fDE3ODQ3NzU4NjJ8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Yvette de Wit on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@yvettedewit?utm_source=korea_travel_guide&utm_medium=referral"
+  url: https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8Y29uY2VydCUyMGxpdmUlMjBldmVudCUyMHN0YWdlfGVufDB8MHx8fDE3ODQ3NzU4NjJ8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Yvette de Wit on Unsplash
+  license: unsplash
+  source: https://unsplash.com/@yvettedewit?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - pasay city
