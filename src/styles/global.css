@@ -290,6 +290,16 @@ h1, h2, h3, h4 {
   }
 }
 
+/* Share row (post footer). The native button is revealed by JS only where
+   navigator.share exists — that's how readers reach KakaoTalk / LINE / WeChat,
+   which can't be shared to from the web with a plain URL. */
+.share { display: flex; flex-wrap: wrap; align-items: center; gap: 0.6rem 0.9rem; margin: 2rem 0; padding: 1rem 1.1rem; background: var(--surface-2); border: 1px solid var(--line-soft); border-radius: var(--r-lg); }
+.share-label { font-size: 0.82rem; font-weight: 700; color: var(--ink-soft); }
+.share-btns { display: flex; flex-wrap: wrap; gap: 0.45rem; }
+.share-btn { font: inherit; font-size: 0.82rem; font-weight: 600; padding: 0.45rem 0.85rem; border-radius: var(--r-pill); border: 1px solid var(--line); background: var(--surface); color: var(--ink-soft); text-decoration: none; cursor: pointer; transition: background .15s, color .15s, border-color .15s; }
+.share-btn:hover { background: var(--accent); border-color: var(--accent); color: #fff; }
+.share-native { border-color: var(--accent); color: var(--accent); }
+
 /* ============================================================
    Main / layout
    ============================================================ */

@@ -2,6 +2,7 @@
 import { getCollection, render } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Newsletter from './Newsletter.astro';
+import ShareRow from './ShareRow.astro';
 import Hotels from './Hotels.astro';
 import Tours from './Tours.astro';
 import PlanTrip from './PlanTrip.astro';
@@ -425,6 +426,8 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
         ))}
       </section>
     )}
+
+    <ShareRow url={pageUrl} title={title} lang={lang} />
 
     <Newsletter
       compact

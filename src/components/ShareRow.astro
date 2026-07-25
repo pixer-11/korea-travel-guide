@@ -1,0 +1,84 @@
+---
+// Locale-aware share row. Mobile gets the NATIVE share sheet (navigator.share),
+// which is the only reliable way to reach KakaoTalk / LINE / WeChat — those need
+// an app key or a QR flow to share from the web directly, and the OS sheet already
+// lists whatever the reader actually uses. Desktop (and browsers without the API)
+// fall back to per-language link targets that work with a plain URL. No API keys,
+// no accounts, nothing for the owner to set up.
+import { useTranslations, type Lang } from '../i18n/utils';
+
+interface Props { url: string; title: string; lang: Lang }
+const { url, title, lang } = Astro.props;
+const t = useTranslations(lang);
+
+const u = encodeURIComponent(url);
+const ttl = encodeURIComponent(title);
+
+// Per-language fallback targets (URL-only sharing, no SDK).
+const TARGETS: Record<Lang, { name: string; href: string }[]> = {
+  en: [
+    { name: 'X', href: `https://twitter.com/intent/tweet?text=${ttl}&url=${u}` },
+    { name: 'WhatsApp', href: `https://wa.me/?text=${ttl}%20${u}` },
+    { name: 'Facebook', href: `https://www.facebook.com/sharer/sharer.php?u=${u}` },
+  ],
+  ko: [
+    { name: 'X', href: `https://twitter.com/intent/tweet?text=${ttl}&url=${u}` },
+    { name: 'Facebook', href: `https://www.facebook.com/sharer/sharer.php?u=${u}` },
+    { name: 'LINE', href: `https://social-plugins.line.me/lineit/share?url=${u}` },
+  ],
+  ja: [
+    { name: 'LINE', href: `https://social-plugins.line.me/lineit/share?url=${u}` },
+    { name: 'X', href: `https://twitter.com/intent/tweet?text=${ttl}&url=${u}` },
+    { name: 'Facebook', href: `https://www.facebook.com/sharer/sharer.php?u=${u}` },
+  ],
+  es: [
+    { name: 'WhatsApp', href: `https://wa.me/?text=${ttl}%20${u}` },
+    { name: 'X', href: `https://twitter.com/intent/tweet?text=${ttl}&url=${u}` },
+    { name: 'Facebook', href: `https://www.facebook.com/sharer/sharer.php?u=${u}` },
+  ],
+  zh: [
+    { name: 'Weibo', href: `https://service.weibo.com/share/share.php?url=${u}&title=${ttl}` },
+    { name: 'WhatsApp', href: `https://wa.me/?text=${ttl}%20${u}` },
+    { name: 'X', href: `https://twitter.com/intent/tweet?text=${ttl}&url=${u}` },
+  ],
+};
+const targets = TARGETS[lang] ?? TARGETS.en;
+---
+<div class="share" data-url={url} data-title={title}>
+  <span class="share-label">{t('share.label')}</span>
+  <div class="share-btns">
+    <button type="button" class="share-btn share-native" hidden>{t('share.native')}</button>
+    {targets.map((s) => (
+      <a class="share-btn" href={s.href} target="_blank" rel="noopener noreferrer nofollow">{s.name}</a>
+    ))}
+    <button type="button" class="share-btn share-copy" data-copied={t('share.copied')}>{t('share.copy')}</button>
+  </div>
+</div>
+
+<script>
+  document.querySelectorAll('.share').forEach((row) => {
+    const el = row as HTMLElement;
+    const url = el.dataset.url || location.href;
+    const title = el.dataset.title || document.title;
+    const native = el.querySelector('.share-native') as HTMLButtonElement | null;
+    const copy = el.querySelector('.share-copy') as HTMLButtonElement | null;
+
+    // Only offer the OS sheet where it actually exists (mostly mobile).
+    if (native && typeof (navigator as any).share === 'function') {
+      native.hidden = false;
+      native.addEventListener('click', () => {
+        (navigator as any).share({ title, url }).catch(() => {});
+      });
+    }
+
+    copy?.addEventListener('click', async () => {
+      try {
+        await navigator.clipboard.writeText(url);
+        const done = copy.dataset.copied || 'Copied';
+        const original = copy.textContent;
+        copy.textContent = done;
+        setTimeout(() => { copy.textContent = original; }, 1600);
+      } catch { /* clipboard blocked — ignore */ }
+    });
+  });
+</script>
