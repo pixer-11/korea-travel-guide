@@ -8,6 +8,23 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import { useTranslations, localizePath, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
+import { createHash } from 'node:crypto';
+import { existsSync } from 'node:fs';
+import { fileURLToPath } from 'node:url';
+
+// Faint card background = the venue's own photo. Reuse the SELF-HOSTED 640px WebP
+// thumbnails that build-wall.mjs already produces (public/wall/<sha1(heroUrl)>.webp,
+// ~39KB each). Hot-linking the remote originals instead would be slow and gets
+// rate-limited (Wikimedia 429s and restricts thumb sizes). Posts whose thumbnail
+// hasn't been built yet simply render without a background — the daily job fills
+// them in over time.
+const wallHash = (s: string) => createHash('sha1').update(s).digest('hex').slice(0, 16);
+const WALL_DIR = fileURLToPath(new URL('../../public/wall/', import.meta.url));
+const wallFor = (heroUrl?: string) => {
+  if (!heroUrl) return '';
+  const name = `${wallHash(heroUrl)}.webp`;
+  return existsSync(WALL_DIR + name) ? `/wall/${name}` : '';
+};
 
 interface Props { lang: Lang }
 const { lang } = Astro.props;
@@ -38,6 +55,7 @@ const index = posts
       r: localizePlace(p.data.region, lang),
       c: localizePlace(country, lang),
       cat: p.data.category,
+      b: wallFor(p.data.heroImage?.url),
       wq: p.data.place.busyness.weekdayQuiet ?? [],
       weq: p.data.place.busyness.weekendQuiet ?? [],
       web: p.data.place.busyness.weekendBusy ?? [],
@@ -145,12 +163,36 @@ const jsonLd = {
         $out.innerHTML = rows.slice(0, 250).map((d) => {
           const q = range(d.wq) || range(d.weq);
           return `<a class="card" href="${d.u}">
+            ${d.b ? `<span class="cbg" data-bg="${esc(d.b)}"></span>` : ''}
             <div class="ctop"><span class="cat">${esc(S.cat[d.cat] || d.cat)}</span><span class="dot"></span><span class="reg">${esc(d.r)}</span></div>
             <h3>${esc(d.t)}</h3>
             ${q ? `<p class="quiet">🟢 ${esc(S.quietest)}: <b>${q}</b></p>` : ''}
             ${bar(d)}
           </a>`;
         }).join('') || `<p class="empty">${esc(S.empty)}</p>`;
+        lazyBackgrounds();
+      }
+
+      // Load each card's photo only when it scrolls near the viewport — with 184
+      // cards, loading every background up front would cost megabytes on open.
+      let io = null;
+      function lazyBackgrounds() {
+        if (!('IntersectionObserver' in window)) return; // no lazy support → skip images entirely
+        if (io) io.disconnect();
+        io = new IntersectionObserver((entries) => {
+          for (const e of entries) {
+            if (!e.isIntersecting) continue;
+            const el = e.target;
+            const src = el.dataset.bg;
+            if (src) {
+              const img = new Image();
+              img.onload = () => { el.style.backgroundImage = `url("${src}")`; el.classList.add('on'); };
+              img.src = src;
+            }
+            io.unobserve(el);
+          }
+        }, { rootMargin: '300px' });
+        $out.querySelectorAll('.cbg').forEach((el) => io.observe(el));
       }
 
       $c.addEventListener('change', () => { refreshRegions(); render(); });
@@ -180,8 +222,19 @@ const jsonLd = {
     .tool .legend i { width: 10px; height: 10px; border-radius: 3px; display: inline-block; }
 
     .tool .results { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1rem; }
-    .tool .card { display: flex; flex-direction: column; padding: 1rem 1.1rem 1.1rem; border: 1px solid var(--line); border-radius: var(--r-lg); background: var(--surface); text-decoration: none; color: var(--ink); transition: box-shadow .16s ease, transform .16s ease, border-color .16s ease; }
+    .tool .card { position: relative; overflow: hidden; display: flex; flex-direction: column; padding: 1rem 1.1rem 1.1rem; border: 1px solid var(--line); border-radius: var(--r-lg); background: var(--surface); text-decoration: none; color: var(--ink); transition: box-shadow .16s ease, transform .16s ease, border-color .16s ease; }
     .tool .card:hover { box-shadow: var(--shadow-md); transform: translateY(-2px); border-color: var(--accent-soft); }
+    /* The venue's own photo, very faint behind the text. Kept low-contrast (and
+       scaled/blurred so edges don't show) so the copy stays readable. */
+    .tool .cbg { position: absolute; inset: 0; background-size: cover; background-position: center; opacity: 0; transform: scale(1.08); filter: blur(1.5px) saturate(1.05); transition: opacity .45s ease; pointer-events: none; }
+    .tool .cbg.on { opacity: 0.14; }
+    .tool .card:hover .cbg.on { opacity: 0.2; }
+    .tool .card > *:not(.cbg) { position: relative; z-index: 1; }
+    @media (prefers-color-scheme: dark) {
+      .tool .cbg.on { opacity: 0.2; }
+      .tool .card:hover .cbg.on { opacity: 0.28; }
+    }
+    @media (prefers-reduced-motion: reduce) { .tool .cbg { transition: none; } }
 
     .tool .ctop { display: flex; align-items: center; gap: 0.5rem; font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.07em; margin-bottom: 0.45rem; }
     .tool .ctop .cat { color: var(--accent); font-weight: 800; }
