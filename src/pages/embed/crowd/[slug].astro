@@ -1,0 +1,80 @@
+---
+// EMBEDDABLE crowd-hours widget. Other travel sites can drop this in an <iframe>;
+// every embed carries a visible "via Wander Atlas" link back to the source guide —
+// engineering-as-marketing, so the data itself earns the backlinks.
+// Deliberately standalone: no site header/footer/analytics, tiny CSS, no JS.
+import { getCollection } from 'astro:content';
+import { SITE } from '../../../siteConfig';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts', ({ data }) => !data.draft);
+  return posts
+    .filter((p) => {
+      const b = p.data.place?.busyness;
+      return b && ((b.weekdayQuiet?.length) || (b.weekendQuiet?.length) || (b.weekendBusy?.length) || (b.weekdayBusy?.length));
+    })
+    .map((p) => ({ params: { slug: p.id.replace(/\.md$/, '') }, props: { post: p } }));
+}
+
+const { post } = Astro.props;
+const d = post.data;
+const b = d.place!.busyness!;
+const slug = post.id.replace(/\.md$/, '');
+const site = Astro.site?.toString().replace(/\/$/, '') ?? 'https://wanderatlasguides.com';
+const postUrl = `${site}/posts/${slug}`;
+
+const hr = (h: number) => { const x = ((h % 24) + 24) % 24; return `${x % 12 || 12}${x < 12 ? 'am' : 'pm'}`; };
+const span = (a?: number[]) => (a && a.length ? `${hr(Math.min(...a))}–${hr(Math.max(...a) + 1)}` : null);
+
+const quiet = new Set([...(b.weekdayQuiet ?? []), ...(b.weekendQuiet ?? [])]);
+const busy = new Set([...(b.weekdayBusy ?? []), ...(b.weekendBusy ?? [])]);
+const hours = Array.from({ length: 16 }, (_, i) => i + 7); // 7am–10pm
+const quietLabel = span(b.weekdayQuiet) || span(b.weekendQuiet);
+const venue = d.place?.name || String(d.title).split(':')[0];
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>{venue} — busy times | {SITE.name}</title>
+  <meta name="robots" content="noindex,follow" />
+  <style>
+    :root { color-scheme: light dark; }
+    * { box-sizing: border-box; }
+    body { margin: 0; padding: 14px 16px; font: 14px/1.45 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; color: #201c17; background: #fffdf9; }
+    .k { font-size: 10px; letter-spacing: .09em; text-transform: uppercase; color: #8c2a22; font-weight: 800; }
+    h1 { font-size: 15px; margin: 3px 0 2px; line-height: 1.25; }
+    .loc { font-size: 12px; color: #4a443c; margin: 0 0 10px; }
+    .q { font-size: 13px; margin: 0 0 10px; color: #201c17; }
+    .q b { color: #14523a; }
+    .bar { display: flex; gap: 2px; height: 30px; align-items: flex-end; }
+    .bar i { flex: 1; border-radius: 3px; background: #e6dfd2; height: 62%; box-shadow: inset 0 0 0 1px rgba(255,255,255,.4); }
+    .bar i.q { background: linear-gradient(180deg,#45ad76,#26714b); height: 100%; }
+    .bar i.b { background: linear-gradient(180deg,#dd8b8b,#bd382e); height: 100%; }
+    .lab { display: flex; justify-content: space-between; font-size: 10px; color: #4a443c; margin-top: 4px; font-weight: 600; }
+    .via { margin: 12px 0 0; font-size: 11px; color: #4a443c; }
+    .via a { color: #a5352c; font-weight: 700; text-decoration: none; }
+    .via a:hover { text-decoration: underline; }
+    @media (prefers-color-scheme: dark) {
+      body { color: #f2ece1; background: #1e1a15; }
+      .k { color: #f0897c; } .loc, .lab, .via { color: #d5ccbd; }
+      .q { color: #f2ece1; } .q b { color: #6fd39d; }
+      .bar i { background: #3a3328; } .via a { color: #e0685c; }
+    }
+  </style>
+</head>
+<body>
+  <p class="k">Busy times</p>
+  <h1>{venue}</h1>
+  <p class="loc">{d.region}{d.country ? `, ${d.country}` : ''}</p>
+  {quietLabel && <p class="q">🟢 Quietest: <b>{quietLabel}</b></p>}
+  <div class="bar">
+    {hours.map((h) => (
+      <i class={busy.has(h) ? 'b' : quiet.has(h) ? 'q' : ''} title={hr(h)}></i>
+    ))}
+  </div>
+  <div class="lab"><span>7am</span><span>2pm</span><span>10pm</span></div>
+  <p class="via">Data & guide: <a href={postUrl} target="_blank" rel="noopener">{venue} on {SITE.name}</a></p>
+</body>
+</html>

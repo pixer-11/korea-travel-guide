@@ -331,6 +331,14 @@ h1, h2, h3, h4 {
   }
 }
 
+/* "Embed this chart" snippet under the crowd box — collapsed by default so it
+   never competes with the guide itself. */
+.bz-embed { margin-top: 0.6rem; }
+.bz-embed summary { font-size: 0.78rem; color: var(--muted); cursor: pointer; }
+.bz-embed summary:hover { color: var(--accent); }
+.bz-embed-hint { font-size: 0.75rem; color: var(--muted); margin: 0.5rem 0 0.35rem; }
+.bz-embed-code { width: 100%; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 0.7rem; line-height: 1.4; padding: 0.5rem 0.6rem; border: 1px solid var(--line); border-radius: var(--r-sm); background: var(--surface-2); color: var(--ink-soft); resize: vertical; }
+
 /* Calendar-subscribe CTA on the events hub. */
 .cal-sub { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem 0.9rem; margin-top: 1.1rem; }
 .cal-hint { font-size: 0.82rem; color: var(--muted); }

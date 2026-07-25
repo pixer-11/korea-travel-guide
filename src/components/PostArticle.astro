@@ -366,6 +366,13 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
               </span></div>
             )}
             <p class="bz-credit">{t('post.footTraffic')} <a href="https://besttime.app" target="_blank" rel="noopener nofollow">BestTime.app</a></p>
+            {/* Any site can embed this chart; the snippet carries a link back here,
+                so the data earns backlinks instead of us chasing them. */}
+            <details class="bz-embed">
+              <summary>{t('post.embedChart')}</summary>
+              <p class="bz-embed-hint">{t('post.embedHint')}</p>
+              <textarea readonly rows="3" class="bz-embed-code" onclick="this.select()">{`<iframe src="${site}/embed/crowd/${post.id.replace(/\.md$/, '')}" width="100%" height="260" style="border:1px solid #e4dccd;border-radius:12px;max-width:420px" loading="lazy" title="${(p.name || '').replace(/"/g, '&quot;')} busy times — Wander Atlas"></iframe>`}</textarea>
+            </details>
           </div>
         )}
         <div class="fact-actions">
