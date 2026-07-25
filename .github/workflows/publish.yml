@@ -64,6 +64,14 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: node scripts/build-place-names.mjs
 
+      # Country one-line blurbs. Also idempotent — only new countries (or an edited
+      # English blurb) cost anything, so this is a no-op on a normal day.
+      - name: Translate country blurbs (ko/ja/es/zh)
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/translate-country-blurbs.mjs
+
       - name: Build hero photo-wall thumbnails
         run: node scripts/build-wall.mjs
 
@@ -72,7 +80,7 @@ jobs:
         run: |
           git config user.name "content-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add src/content/posts src/content/i18n data/published.json public/wall data/wall.json src/i18n/places.json
+          git add src/content/posts src/content/i18n data/published.json public/wall data/wall.json src/i18n/places.json src/i18n/country-blurbs.json
           new=$(git diff --cached --name-only --diff-filter=A -- src/content/posts | grep -c '\.md$' || true)
           total=$(ls src/content/posts/*.md | wc -l | tr -d ' ')
           echo "new=$new" >> "$GITHUB_OUTPUT"
