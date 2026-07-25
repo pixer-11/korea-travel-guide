@@ -11,6 +11,11 @@ on:
     # other Places job, so the full daily allowance goes to real venue photos
     # until the 162 mismatched heroes are cleared. backfill.yml is paused for this.
     - cron: '5 8 * * *'
+    # SAFETY NET. GitHub delays free scheduled runs under load — measured 2h21m on
+    # 2026-07-24 — and can drop them entirely. This second slot re-runs the job;
+    # it is idempotent (skips posts already self-hosted) and quota-capped, so a
+    # duplicate run just continues the backlog instead of wasting the allowance.
+    - cron: '35 12 * * *'   # 21:35 KST
   workflow_dispatch:
     inputs:
       limit:

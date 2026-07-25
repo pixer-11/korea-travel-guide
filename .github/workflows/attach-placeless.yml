@@ -6,6 +6,9 @@ name: attach-placeless-photos
 on:
   schedule:
     - cron: '25 8 * * *'   # 17:25 KST — after venue-photos (17:05), before publish
+    # Safety net for GitHub's scheduled-run delays/drops (see venue-photos.yml).
+    # Idempotent + quota-capped, so a second run simply continues the backlog.
+    - cron: '55 12 * * *'  # 21:55 KST
   workflow_dispatch:
     inputs:
       limit:
