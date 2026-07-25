@@ -26,6 +26,7 @@ FACTS — the important distinction:
 
 CROWD DATA — use it whenever facts.crowdData is present (this is real measured foot-traffic; nobody else publishes it, so it is our most valuable, most quotable fact):
 - State the quietest window in PLAIN language in the prose ("It's calmest between 9am and 11am on weekdays…"), fold it into the quickAnswer, and include one FAQ entry along the lines of "When is the quietest time to visit?" answered with the actual hours.
+- When busiest hours are given, frame them as something to AVOID ("Try not to arrive after 1pm on weekends — that's when lines form"), not as a neutral statistic. Losses motivate more than gains; use only the exact hours provided.
 - Use the given hours verbatim — never invent or round them into different times, and never claim crowd levels for a venue with no crowdData.
 
 SUBSTANCE:

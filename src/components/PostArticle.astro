@@ -328,6 +328,11 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
           <a class="book-btn book-btn-primary" href={klookTop} target="_blank" rel="sponsored noopener"><Emoji name="admission-tickets" /> {t('post.thingsToDo')}</a>
           <a class="book-btn" href={hotelTop} target="_blank" rel="sponsored noopener"><Emoji name="hotel" /> {t('post.findHotels')}</a>
         </div>
+        {/* Trust signal beside the FIRST ask (authority bias): the fact box proving
+            the data is real sits far below, so restate it where the click happens. */}
+        {p && (
+          <p class="cta-trust">✓ {t('post.verified')} · {updated.toLocaleDateString(localeCodes[lang], { year: 'numeric', month: 'short', day: 'numeric' })}</p>
+        )}
       </div>
     )}
 
@@ -405,9 +410,30 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
       </p>
     )}
 
+    {/* The AI/data disclosure used to be the literal LAST element on the page —
+        a compliance footnote as the reader's final impression (Peak-End violation).
+        Collapsed here next to the facts it describes; related guides now end the page. */}
+    <details class="disclosure-details">
+      <summary>{t('post.disclosureTitle')}</summary>
+      <p>{t('post.disclosureBody')} <a href={localizePath('/about', lang)}>{t('post.editorialPolicy')}</a></p>
+    </details>
+
     <div class="prose">
       <Content />
     </div>
+
+    {/* Peak-motivation CTA: the reader just finished the case for visiting, so the
+        FIRST thing after the prose names the actual place — the generic city-level
+        blocks (Hotels/PlanTrip) used to sit here, wasting the strongest moment. */}
+    {p?.name && !isEventPast(d) && (
+      <div class="visit-cta">
+        <span class="visit-cta-q">{t('post.visitCta').replace('{name}', placeName)}</span>
+        <div class="book-cta-btns">
+          <a class="book-btn book-btn-primary" href={klookPlace} target="_blank" rel="sponsored noopener"><Emoji name="admission-tickets" /> {t('post.visitTickets')}</a>
+          <a class="book-btn" href={hotelTop} target="_blank" rel="sponsored noopener"><Emoji name="hotel" /> {t('post.visitHotels')}</a>
+        </div>
+      </div>
+    )}
 
     <Hotels city={d.region} country={d.country ?? 'South Korea'} />
 
@@ -470,12 +496,6 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
       </p>
     )}
 
-    <p class="disclosure">
-      This guide was produced with AI assistance and reviewed against live data
-      sources. Facts such as hours, ratings, and location come from Google Places;
-      images are licensed or public domain. Details can change — please verify
-      before visiting. See our <a href="/about">editorial policy</a>.
-    </p>
   </article>
 
   <StickyBook city={d.region} place={p?.name} />

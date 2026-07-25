@@ -95,13 +95,14 @@ async function main() {
   // harmlessly once every country is full. Unset = no cap (normal daily runs).
   const capPerCountry = Number(process.env.TARGET_PER_COUNTRY || 0) || Infinity;
   const countryCounts = await countPostsByCountry();
+  const regionCatCounts = await countPostsByRegionCategory();
 
   // Seasonal events: publish with priority when in season (current month or the
   // next month, for lead time), only for active countries.
   const activeNames = new Set(activeCountries.map((c) => c.name));
   const seasonal = await loadSeasonalTargets(activeNames);
 
-  const queue = buildRotatedQueue(targets, done, activeCountries, seasonal, { capPerCountry, countryCounts });
+  const queue = buildRotatedQueue(targets, done, activeCountries, seasonal, { capPerCountry, countryCounts, regionCatCounts });
 
   const mode = DUMMY ? 'DUMMY' : USE_PLACES ? 'LIVE + Places' : 'LIVE (no Places)';
   console.log(
@@ -145,7 +146,7 @@ async function main() {
 
 // ── Queue building + round-robin rotation ────────────────────
 function buildRotatedQueue(targets, done, countries, seasonal = [], opts = {}) {
-  const { capPerCountry = Infinity, countryCounts = new Map() } = opts;
+  const { capPerCountry = Infinity, countryCounts = new Map(), regionCatCounts = new Map() } = opts;
   const seen = new Set();
   const all = [];
   const addedPerCountry = new Map();
@@ -230,11 +231,40 @@ function buildRotatedQueue(targets, done, countries, seasonal = [], opts = {}) {
     sseen.add(e.query);
     seasonalQueue.push({ country: e.country, region: e.region, query: e.query, category: e.category, topic: e.topic });
   }
-  return [...seasonalQueue, ...rotated];
+  // Near-roundup boost: pull forward targets whose region×category sits at 2-3
+  // published posts — one more post flips a whole new city-hub page live (the
+  // roundup template requires 4). Stable partition, so the fewest-first country
+  // fairness above is preserved within each half.
+  const ROUNDUP_CATS = new Set(['attraction', 'restaurant', 'trendy', 'hidden-gem']);
+  const nearRoundup = (t) => {
+    if (!t.region || !ROUNDUP_CATS.has(t.category)) return false;
+    const n = regionCatCounts.get(t.region + '|' + t.category) || 0;
+    return n === 2 || n === 3;
+  };
+  const boosted = [...rotated.filter(nearRoundup), ...rotated.filter((t) => !nearRoundup(t))];
+  return [...seasonalQueue, ...boosted];
 }
 
 // How many published guides each country already has (from post frontmatter).
 // Drives the per-country fill cap used by the backfill workflow.
+// How many posts each region×category pair already has. Drives the near-roundup
+// boost: a city hub page ('Best Restaurants in X') auto-builds at 4 posts, so a
+// pair sitting at 2-3 is one or two posts away from a brand-new indexable page —
+// the cheapest possible content win.
+async function countPostsByRegionCategory() {
+  const counts = new Map();
+  for (const f of await readdir(POSTS_DIR)) {
+    if (!f.endsWith('.md')) continue;
+    const src = await readFile(join(POSTS_DIR, f), 'utf8');
+    const region = (src.match(/^region:\s*"?([^"\n]+?)"?\s*$/m) || [])[1]?.trim();
+    const category = (src.match(/^category:\s*"?([^"\n]+?)"?\s*$/m) || [])[1]?.trim();
+    if (!region || !category) continue;
+    const k = region + '|' + category;
+    counts.set(k, (counts.get(k) || 0) + 1);
+  }
+  return counts;
+}
+
 async function countPostsByCountry() {
   const counts = new Map();
   for (const f of await readdir(POSTS_DIR)) {
