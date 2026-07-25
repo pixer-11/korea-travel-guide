@@ -1,0 +1,58 @@
+name: Pinterest 연결 (최초 1회)
+
+# One-time OAuth hookup: the owner authorizes in the browser, lands on
+# /pinterest-callback with a short-lived code, and pastes it here. This
+# exchanges it for a refresh token, encrypts it (key derived from
+# PINTEREST_APP_SECRET) and commits data/pinterest-token.enc — after which the
+# daily pinterest.yml refreshes tokens forever with no owner involvement.
+on:
+  workflow_dispatch:
+    inputs:
+      code:
+        description: '/pinterest-callback 페이지에 표시된 코드'
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  connect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Exchange code for tokens
+        env:
+          PINTEREST_APP_SECRET: ${{ secrets.PINTEREST_APP_SECRET }}
+          CODE: ${{ github.event.inputs.code }}
+        run: node scripts/lib/pinterest-token.mjs exchange "$CODE"
+
+      - name: Commit encrypted token
+        run: |
+          git config user.name "content-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/pinterest-token.enc
+          git commit -m "chore: pinterest oauth token (encrypted)"
+          git pull --rebase origin main
+          git push
+
+      - name: Notify Telegram
+        if: always()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          JOB_STATUS: ${{ job.status }}
+        run: |
+          [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
+          if [ "$JOB_STATUS" = "success" ]; then
+            TXT="📌 핀터레스트 연결 완료! 이제 매일 아침 8:35(KST)에 새 글이 자동으로 핀 됩니다. 더 하실 일 없어요."
+          else
+            TXT="❌ 핀터레스트 연결 실패 — 코드가 만료되었을 수 있어요. 인증 링크로 다시 코드를 받아 재시도해 주세요."
+          fi
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+            --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
+            --data-urlencode "text=$TXT" >/dev/null || true

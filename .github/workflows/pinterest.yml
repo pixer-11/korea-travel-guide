@@ -23,11 +23,19 @@ jobs:
       - uses: actions/checkout@v4
 
       # Secrets can't be read in `if:` directly — surface presence as an output.
-      - name: Check token
+      # Enabled by EITHER a direct token secret OR the OAuth store (app secret +
+      # committed encrypted refresh token from the "Pinterest 연결" workflow).
+      - name: Check credentials
         id: gate
         env:
           T: ${{ secrets.PINTEREST_ACCESS_TOKEN }}
-        run: echo "on=$([ -n "$T" ] && echo true || echo false)" >> "$GITHUB_OUTPUT"
+          S: ${{ secrets.PINTEREST_APP_SECRET }}
+        run: |
+          if [ -n "$T" ] || { [ -n "$S" ] && [ -f data/pinterest-token.enc ]; }; then
+            echo "on=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "on=false" >> "$GITHUB_OUTPUT"
+          fi
 
       - if: steps.gate.outputs.on == 'true'
         uses: actions/setup-node@v4
@@ -43,6 +51,7 @@ jobs:
         if: steps.gate.outputs.on == 'true'
         env:
           PINTEREST_ACCESS_TOKEN: ${{ secrets.PINTEREST_ACCESS_TOKEN }}
+          PINTEREST_APP_SECRET: ${{ secrets.PINTEREST_APP_SECRET }}
           PINS_PER_RUN: ${{ github.event.inputs.count || '8' }}
         run: |
           set -o pipefail
@@ -57,7 +66,11 @@ jobs:
         run: |
           git config user.name "content-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add data/pinterest.json
+          # Either file may not exist yet (first run / token-secret mode) — a
+          # missing pathspec would fail the step, so add only what's there.
+          for f in data/pinterest.json data/pinterest-token.enc; do
+            [ -f "$f" ] && git add "$f" || true
+          done
           if git diff --staged --quiet; then
             echo "No state change."
           else

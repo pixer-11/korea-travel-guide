@@ -1,0 +1,76 @@
+---
+// Owner-only OAuth landing page: Pinterest redirects here with ?code=… after
+// the one-time app authorization. Shows the code + exactly what to do with it
+// (paste into the "Pinterest 연결" GitHub Actions run). Noindexed — this page
+// means nothing to readers.
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Pinterest 연결"
+  description="Pinterest OAuth callback."
+  noindex={true}
+>
+  <section class="cb">
+    <h1>📌 Pinterest 연결 코드</h1>
+    <p id="status">주소에서 코드를 읽는 중…</p>
+    <div id="ok" hidden>
+      <p>아래 코드를 복사한 뒤, <strong>몇 분 안에</strong>(코드가 곧 만료돼요) GitHub Actions에서 붙여넣어 실행하세요.</p>
+      <div class="code-row">
+        <code id="code"></code>
+        <button id="copy" type="button">복사</button>
+      </div>
+      <ol>
+        <li>아래 버튼으로 GitHub Actions의 <strong>「Pinterest 연결 (최초 1회)」</strong> 페이지 열기</li>
+        <li>오른쪽의 <strong>Run workflow</strong> 버튼 클릭</li>
+        <li><strong>code</strong> 칸에 위 코드를 붙여넣고 초록색 <strong>Run workflow</strong> 클릭</li>
+        <li>1~2분 뒤 텔레그램으로 "연결 완료" 알림이 오면 끝!</li>
+      </ol>
+      <p>
+        <a
+          class="btn"
+          href="https://github.com/pixer-11/korea-travel-guide/actions/workflows/pinterest-auth.yml"
+          target="_blank"
+          rel="noopener"
+        >GitHub Actions 열기 →</a>
+      </p>
+    </div>
+    <p id="err" hidden>
+      코드가 없습니다. Pinterest 인증 링크를 통해 다시 들어와 주세요.
+    </p>
+  </section>
+</BaseLayout>
+
+<script>
+  const params = new URLSearchParams(location.search);
+  const code = params.get('code');
+  const status = document.getElementById('status')!;
+  if (code) {
+    status.hidden = true;
+    document.getElementById('ok')!.hidden = false;
+    document.getElementById('code')!.textContent = code;
+    document.getElementById('copy')!.addEventListener('click', async (e) => {
+      await navigator.clipboard.writeText(code);
+      (e.target as HTMLButtonElement).textContent = '복사됨 ✓';
+    });
+  } else {
+    status.hidden = true;
+    document.getElementById('err')!.hidden = false;
+  }
+</script>
+
+<style>
+  .cb { max-width: 640px; margin: 3rem auto; padding: 0 1.25rem; }
+  .cb h1 { margin-bottom: 1rem; }
+  .code-row { display: flex; gap: 0.5rem; align-items: center; margin: 1rem 0; }
+  .code-row code {
+    flex: 1; padding: 0.75rem 1rem; border: 1px solid #d8d2c4; border-radius: 8px;
+    background: #faf7f0; word-break: break-all; font-size: 0.95rem;
+  }
+  .code-row button, .btn {
+    padding: 0.6rem 1.1rem; border-radius: 8px; border: none; cursor: pointer;
+    background: #c8443a; color: #fff; font-weight: 600; text-decoration: none;
+    display: inline-block;
+  }
+  .cb ol { margin: 1rem 0 1.25rem; padding-left: 1.4rem; line-height: 1.9; }
+</style>

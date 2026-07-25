@@ -20,6 +20,7 @@ import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 import matter from 'gray-matter';
 import sharp from 'sharp';
+import { getAccessToken } from './lib/pinterest-token.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
@@ -28,14 +29,17 @@ const STATE_FILE = join(ROOT, 'data', 'pinterest.json');
 const SITE_URL = 'https://wanderatlasguides.com';
 const API = 'https://api.pinterest.com/v5';
 
-const TOKEN = process.env.PINTEREST_ACCESS_TOKEN;
+// Direct token (secret override) OR the OAuth refresh store (PINTEREST_APP_SECRET
+// + data/pinterest-token.enc) — resolved in main().
+let TOKEN = process.env.PINTEREST_ACCESS_TOKEN;
 const PINS_PER_RUN = Number(process.env.PINS_PER_RUN ?? 8);
 const DRY = process.env.DRY === '1';
 
-const authHeaders = { Authorization: `Bearer ${TOKEN}`, 'Content-Type': 'application/json' };
-
 async function api(path, opts = {}) {
-  const res = await fetch(`${API}${path}`, { ...opts, headers: authHeaders });
+  const res = await fetch(`${API}${path}`, {
+    ...opts,
+    headers: { Authorization: `Bearer ${TOKEN}`, 'Content-Type': 'application/json' },
+  });
   const body = await res.json().catch(() => ({}));
   if (!res.ok) {
     const err = new Error(`${opts.method || 'GET'} ${path} → ${res.status}: ${body.message || JSON.stringify(body).slice(0, 200)}`);
@@ -130,8 +134,22 @@ async function composePin(post) {
 
 // ── main ─────────────────────────────────────────────────────
 async function main() {
+  if (!TOKEN && !DRY && process.env.PINTEREST_APP_SECRET) {
+    try {
+      TOKEN = await getAccessToken();
+    } catch (e) {
+      if (e.code === 'ENOENT') {
+        console.log('Not connected yet (no data/pinterest-token.enc) — run the "Pinterest 연결" workflow first.');
+      } else {
+        console.log(`Token refresh failed: ${e.message}`);
+        console.log('PIN_AUTH_FAILED');
+      }
+      console.log('PIN_SUMMARY new=0 total=0');
+      return;
+    }
+  }
   if (!TOKEN && !DRY) {
-    console.log('PINTEREST_ACCESS_TOKEN not set — skipping (nothing pinned).');
+    console.log('No Pinterest credentials set — skipping (nothing pinned).');
     console.log('PIN_SUMMARY new=0 total=0');
     return;
   }
