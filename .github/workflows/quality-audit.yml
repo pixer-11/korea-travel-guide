@@ -4,16 +4,14 @@ name: Quality audit (intl venues)
 #   - non-Latin place.address  → re-fetched English address
 #   - food/trendy venues with a landmark-fallback hero → real Google Places photo
 #
-# Runs a few times a day AFTER the Places Details quota resets (~08:00 UTC). The
-# audit script exits 0 immediately if Details is still 429, so the later runs act
-# as automatic retries until the quota is actually available ("keep checking").
-# Once every venue is clean the audit changes nothing and no commit is made, so
-# this is safe to leave scheduled forever.
+# ONE run a day, AFTER venue-photos has had first claim on the Places quota.
+# It used to run 3x/day with no per-run cap and tried every venue post, draining
+# the whole daily GetPlaceRequest allowance so venue-photos could never self-host
+# a single real photo. Photo replacement now belongs to venue-photos.yml; this job
+# only fixes non-Latin addresses, capped by PLACES_LIMIT.
 on:
   schedule:
-    - cron: '50 8 * * *'  # 08:50 UTC — just after reset + backfill
-    - cron: '20 11 * * *' # retry if quota hadn't propagated yet
-    - cron: '20 14 * * *' # retry again
+    - cron: '40 13 * * *'  # 22:40 KST — well after venue-photos (17:05) and its 21:35 fallback
   workflow_dispatch:
 
 permissions:

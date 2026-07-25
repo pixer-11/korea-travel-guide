@@ -26,6 +26,15 @@ import { selfHostPlacePhoto } from './lib/images.mjs';
 
 const DIR = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 const APPLY = process.argv.includes('--apply');
+// HARD CAP on Places Details calls. Without one this loop tried EVERY venue post
+// (~400) on every run, three times a day, and drained the whole daily GetPlaceRequest
+// allowance before venue-photos.yml could self-host a single real venue photo —
+// which is why zero photos ever landed. Photo replacement is venue-photos.yml's job
+// (it is capped and prioritises the worst heroes); this audit sticks to the English
+// address fix that nothing else does.
+const PLACES_LIMIT = Number(process.env.PLACES_LIMIT || 15);
+const SKIP_IMAGES = process.env.AUDIT_IMAGES !== '1';
+let calls = 0;
 const NON_LATIN = /[؀-ۿ一-鿿가-힣฀-๿Ѐ-ӿ぀-ヿ]/;
 const IMG_CATEGORIES = new Set(['restaurant', 'trendy', 'hidden-gem']);
 
@@ -58,10 +67,12 @@ try {
     const addr = field(src, 'address') || '';
     const needAddr = NON_LATIN.test(addr);
     const hero = heroUrl(src);
-    const needImg = IMG_CATEGORIES.has(category) && hero && !hero.includes('/venue-photos/');
+    const needImg = !SKIP_IMAGES && IMG_CATEGORIES.has(category) && hero && !hero.includes('/venue-photos/');
 
     if (!needAddr && !needImg) continue;
+    if (calls >= PLACES_LIMIT) { console.log(`⏹ Places cap reached (${PLACES_LIMIT}) — leaving the rest of the daily quota for venue-photos.`); break; }
     scanned++;
+    calls++;
 
     // ONE Details call (English) — gives both the English address and photo list.
     const place = await getPlaceById(id, { languageCode: 'en', throwOnQuota: true });
