@@ -32,9 +32,12 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
+          {
+            echo "🤖 텔레그램 원격제어가 연결되었습니다! 이제 이 채팅에서 명령을 쓸 수 있어요:"
+            echo "/현황 — 구독자 수 확인"
+            echo "/미리보기 — 이번 주 뉴스레터 드라이런"
+            echo "/발송 — 실제 발송 (버튼 확인 후)"
+          } > /tmp/msg.txt
           curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
             --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
-            --data-urlencode "text=🤖 텔레그램 원격제어가 연결되었습니다! 이제 이 채팅에서 명령을 쓸 수 있어요:
-/현황 — 구독자 수 확인
-/미리보기 — 이번 주 뉴스레터 드라이런
-/발송 — 실제 발송 (버튼 확인 후)" >/dev/null || true
+            --data-urlencode "text@/tmp/msg.txt" >/dev/null || true

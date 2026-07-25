@@ -26,27 +26,29 @@ jobs:
         run: |
           [ -f data/reminders/pinterest-upgrade-sent ] && { echo "Already sent — skipping."; exit 0; }
           [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
-          cat > /tmp/msg.txt <<'MSG'
-📌 핀터레스트 Standard 승격 — 아직 신청 전이라면 지금 신청하세요!
-
-Trial 등급은 실서비스 핀 생성이 막혀 있어서, Standard 승인이 나야 자동 발행이 시작됩니다. 이미 신청하셨다면 이 알림은 무시하세요.
-
-【신청 방법】
-1. developers.pinterest.com 접속 → 내 앱 → Wander Atlas Publisher 「관리」
-2. 「API 범위」 섹션의 「액세스 업그레이드」 버튼 클릭
-3. 양식에 아래 문구를 붙여넣기 (영어가 심사에 유리)
-
-【앱 설명/사용 목적 칸】
-Wander Atlas Publisher automatically shares new travel guide articles from our own website, wanderatlasguides.com (domain verified on this Pinterest business account), as Pins. Our pipeline is fully built and connected via OAuth: each day it composes a 1000x1500 vertical image from an article's hero photo and title, and posts up to 8 Pins to country-specific boards (e.g. "Italy Travel Guide", already created via the API) with links back to the original articles. Under Trial access, Pin creation on the production API is not permitted, so we are requesting Standard access to begin publishing. We only publish our own editorial content to our own account — no user data is collected, no third parties are involved, and no content is read or written on behalf of other users.
-
-【요청 범위(scopes) 칸】
-boards:read, boards:write, pins:read, pins:write, user_accounts:read
-
-【개인정보/데이터 질문이 나오면】
-We do not collect, store, or process any Pinterest user data. The app only writes our own Pins and boards and reads our own account's boards to select the destination board. Privacy policy: https://wanderatlasguides.com/privacy
-
-양식이 예상과 다르면 스크린샷을 클로드에게 보내주세요. 심사는 보통 며칠 걸리고, 승인되면 기존 핀 포함 전부 공개로 전환됩니다.
-MSG
+          # echo-assembled (a column-0 heredoc body breaks the YAML block scalar
+          # and GitHub then refuses to run the workflow at all).
+          {
+            echo "📌 핀터레스트 Standard 승격 — 아직 신청 전이라면 지금 신청하세요!"
+            echo ""
+            echo "Trial 등급은 실서비스 핀 생성이 막혀 있어서, Standard 승인이 나야 자동 발행이 시작됩니다. 이미 신청하셨다면 이 알림은 무시하세요."
+            echo ""
+            echo "【신청 방법】"
+            echo "1. developers.pinterest.com 접속 → 내 앱 → Wander Atlas Publisher 「관리」"
+            echo "2. 「API 범위」 섹션의 「액세스 업그레이드」 버튼 클릭"
+            echo "3. 양식에 아래 문구를 붙여넣기 (영어가 심사에 유리)"
+            echo ""
+            echo "【앱 설명/사용 목적 칸】"
+            echo "Wander Atlas Publisher automatically shares new travel guide articles from our own website, wanderatlasguides.com (domain verified on this Pinterest business account), as Pins. Our pipeline is fully built and connected via OAuth: each day it composes a 1000x1500 vertical image from an article's hero photo and title, and posts up to 8 Pins to country-specific boards (e.g. \"Italy Travel Guide\", already created via the API) with links back to the original articles. Under Trial access, Pin creation on the production API is not permitted, so we are requesting Standard access to begin publishing. We only publish our own editorial content to our own account — no user data is collected, no third parties are involved, and no content is read or written on behalf of other users."
+            echo ""
+            echo "【요청 범위(scopes) 칸】"
+            echo "boards:read, boards:write, pins:read, pins:write, user_accounts:read"
+            echo ""
+            echo "【개인정보/데이터 질문이 나오면】"
+            echo "We do not collect, store, or process any Pinterest user data. The app only writes our own Pins and boards and reads our own account's boards to select the destination board. Privacy policy: https://wanderatlasguides.com/privacy"
+            echo ""
+            echo "양식이 예상과 다르면 스크린샷을 클로드에게 보내주세요. 심사는 보통 며칠 걸리고, 승인되면 기존 핀 포함 전부 공개로 전환됩니다."
+          } > /tmp/msg.txt
           curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
             --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
             --data-urlencode "text@/tmp/msg.txt" \

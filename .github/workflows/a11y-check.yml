@@ -66,20 +66,22 @@ jobs:
           JOB_STATUS: ${{ job.status }}
         run: |
           [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
-          if [ "$JOB_STATUS" != "success" ]; then
-            TXT="♿ Wander Atlas — 주간 접근성 검사
-❌ 검사 실행이 실패했습니다. GitHub Actions 로그를 확인해 주세요."
-          elif [ "${ERRORS:-0}" = "0" ]; then
-            TXT="♿ Wander Atlas — 주간 접근성 검사
-✅ 대표 페이지 ${PAGES}종 모두 접근성 오류 0건 (WCAG 2.1 AA 기준)."
-          else
-            TXT="♿ Wander Atlas — 주간 접근성 검사
-⚠️ 접근성 오류 ${ERRORS}건 (대표 페이지 ${PAGES}종 검사):
-${LIST}
-
-클로드에게 '접근성 오류 고쳐줘'라고 말하면 수정합니다."
-          fi
+          # echo-assembled message — a multiline TXT="..." literal at column 0
+          # breaks the YAML block scalar (GitHub rejects the workflow).
+          {
+            echo "♿ Wander Atlas — 주간 접근성 검사"
+            if [ "$JOB_STATUS" != "success" ]; then
+              echo "❌ 검사 실행이 실패했습니다. GitHub Actions 로그를 확인해 주세요."
+            elif [ "${ERRORS:-0}" = "0" ]; then
+              echo "✅ 대표 페이지 ${PAGES}종 모두 접근성 오류 0건 (WCAG 2.1 AA 기준)."
+            else
+              echo "⚠️ 접근성 오류 ${ERRORS}건 (대표 페이지 ${PAGES}종 검사):"
+              echo "$LIST"
+              echo ""
+              echo "클로드에게 '접근성 오류 고쳐줘'라고 말하면 수정합니다."
+            fi
+          } > /tmp/msg.txt
           curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
             --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
-            --data-urlencode "text=$TXT" \
+            --data-urlencode "text@/tmp/msg.txt" \
             -d disable_web_page_preview=true >/dev/null || true

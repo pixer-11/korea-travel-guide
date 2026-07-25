@@ -54,20 +54,23 @@ jobs:
           JOB_STATUS: ${{ job.status }}
         run: |
           [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
-          if [ "$JOB_STATUS" != "success" ]; then
-            TXT="🔗 Wander Atlas — 주간 링크 검사
-❌ 검사 실행 자체가 실패했습니다. GitHub Actions 로그를 확인해 주세요."
-          elif [ "${BROKEN:-0}" = "0" ]; then
-            TXT="🔗 Wander Atlas — 주간 링크 검사
-✅ 깨진 내부 링크 0개 (전체 ${TOTAL}개 검사) — 사이트 링크 상태 완벽합니다."
-          else
-            TXT="🔗 Wander Atlas — 주간 링크 검사
-⚠️ 깨진 내부 링크 ${BROKEN}개 발견 (전체 ${TOTAL}개 중):
-${LIST}
-
-클로드에게 '깨진 링크 고쳐줘'라고 말하면 수정합니다."
-          fi
+          # Message is assembled with echo lines (NOT a multiline string literal:
+          # unindented continuation lines break the YAML block scalar and GitHub
+          # then rejects the whole workflow file).
+          {
+            echo "🔗 Wander Atlas — 주간 링크 검사"
+            if [ "$JOB_STATUS" != "success" ]; then
+              echo "❌ 검사 실행 자체가 실패했습니다. GitHub Actions 로그를 확인해 주세요."
+            elif [ "${BROKEN:-0}" = "0" ]; then
+              echo "✅ 깨진 내부 링크 0개 (전체 ${TOTAL}개 검사) — 사이트 링크 상태 완벽합니다."
+            else
+              echo "⚠️ 깨진 내부 링크 ${BROKEN}개 발견 (전체 ${TOTAL}개 중):"
+              echo "$LIST"
+              echo ""
+              echo "클로드에게 '깨진 링크 고쳐줘'라고 말하면 수정합니다."
+            fi
+          } > /tmp/msg.txt
           curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
             --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
-            --data-urlencode "text=$TXT" \
+            --data-urlencode "text@/tmp/msg.txt" \
             -d disable_web_page_preview=true >/dev/null || true
