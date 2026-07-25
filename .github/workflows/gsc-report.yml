@@ -1,0 +1,21 @@
+name: gsc-report
+# Weekly Google Search Console digest → Korean Telegram. Surfaces the "near-miss"
+# queries (page 2) that are the highest-leverage list for improving rankings.
+# Skips itself cleanly until the owner adds the two secrets.
+on:
+  schedule:
+    - cron: '23 22 * * 0'   # Mondays 07:23 KST (Sun 22:23 UTC)
+  workflow_dispatch:
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '20' }
+      - run: node scripts/gsc-report.mjs
+        env:
+          GSC_SERVICE_ACCOUNT_JSON: ${{ secrets.GSC_SERVICE_ACCOUNT_JSON }}
+          GSC_SITE_URL: ${{ secrets.GSC_SITE_URL }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
