@@ -15,6 +15,7 @@ export const ui = {
   en: {
     'nav.destinations': 'Destinations',
     'nav.flights': 'Flights',
+    'nav.tools': 'When to go',
     'nav.about': 'About',
     'nav.allDestinations': 'All destinations',
     'lang.label': 'Language',
@@ -220,6 +221,7 @@ export const ui = {
   ko: {
     'nav.destinations': '여행지',
     'nav.flights': '항공권',
+    'nav.tools': '언제 갈까',
     'nav.about': '소개',
     'nav.allDestinations': '전체 여행지',
     'lang.label': '언어',
@@ -425,6 +427,7 @@ export const ui = {
   ja: {
     'nav.destinations': '旅行先',
     'nav.flights': '航空券',
+    'nav.tools': 'いつ行く',
     'nav.about': 'サイトについて',
     'nav.allDestinations': 'すべての旅行先',
     'lang.label': '言語',
@@ -630,6 +633,7 @@ export const ui = {
   es: {
     'nav.destinations': 'Destinos',
     'nav.flights': 'Vuelos',
+    'nav.tools': 'Cuándo ir',
     'nav.about': 'Sobre nosotros',
     'nav.allDestinations': 'Todos los destinos',
     'lang.label': 'Idioma',
@@ -835,6 +839,7 @@ export const ui = {
   zh: {
     'nav.destinations': '目的地',
     'nav.flights': '机票',
+    'nav.tools': '何时去',
     'nav.about': '关于我们',
     'nav.allDestinations': '全部目的地',
     'lang.label': '语言',

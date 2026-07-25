@@ -1,0 +1,154 @@
+---
+// FREE INTERACTIVE TOOL — "Best time to visit / Crowd finder".
+// Built from the busy/quiet hour data we already collect per venue (BestTime.app),
+// which no other travel site aggregates like this → genuinely link-worthy. Pure
+// client-side filter over a build-time JSON index; no API calls, no server.
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Flag from '../../components/Flag.astro';
+import { getCollection } from 'astro:content';
+import countriesData from '../../../data/countries.json';
+
+const posts = await getCollection('posts', ({ data }) => !data.draft);
+const iso2 = Object.fromEntries(countriesData.countries.map((c) => [c.name, c.iso2]));
+
+// Compact index: only posts that actually carry busyness hour data.
+const index = posts
+  .filter((p) => p.data.place?.busyness && (
+    (p.data.place.busyness.weekdayQuiet?.length) ||
+    (p.data.place.busyness.weekendQuiet?.length) ||
+    (p.data.place.busyness.weekendBusy?.length)
+  ))
+  .map((p) => ({
+    s: p.id.replace(/\.md$/, ''),
+    t: p.data.title,
+    r: p.data.region,
+    c: p.data.country ?? 'South Korea',
+    cat: p.data.category,
+    iso: iso2[p.data.country ?? 'South Korea'] || '',
+    wq: p.data.place.busyness.weekdayQuiet ?? [],
+    weq: p.data.place.busyness.weekendQuiet ?? [],
+    web: p.data.place.busyness.weekendBusy ?? [],
+  }))
+  .sort((a, b) => a.c.localeCompare(b.c) || a.r.localeCompare(b.r) || a.t.localeCompare(b.t));
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebApplication',
+  name: 'Best Time to Visit — Crowd Finder',
+  applicationCategory: 'TravelApplication',
+  operatingSystem: 'Web',
+  offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
+  description: `Find the quietest hours to visit ${index.length}+ restaurants, cafés and attractions across ${new Set(index.map((i) => i.c)).size} countries, using real foot-traffic data.`,
+};
+---
+<BaseLayout
+  title="Best Time to Visit — Crowd Finder | Wander Atlas"
+  description="Free tool: find the quietest hours to visit restaurants, cafés and attractions worldwide, using real crowd data. Beat the queues — pick your country, city and place."
+  jsonLd={jsonLd}>
+  <section class="tool">
+    <div class="wrap">
+      <p class="kicker gold">Free tool</p>
+      <h1>Best Time to Visit — Crowd Finder</h1>
+      <p class="dek">Nobody likes queues. Pick a country, city and type of place — we'll show the <b>quietest hours</b> to go, from real foot-traffic data across {index.length} venues.</p>
+
+      <div class="filters">
+        <label>Country<select id="f-country"><option value="">All countries</option></select></label>
+        <label>City / region<select id="f-region"><option value="">All</option></select></label>
+        <label>Type<select id="f-cat">
+          <option value="">All types</option>
+          <option value="restaurant">Restaurants</option>
+          <option value="trendy">Trendy / cafés</option>
+          <option value="hidden-gem">Hidden gems</option>
+          <option value="attraction">Attractions</option>
+        </select></label>
+      </div>
+
+      <p id="count" class="count"></p>
+      <div id="results" class="results"></div>
+      <p class="foot">Crowd data is a general foot-traffic forecast — always allow for holidays and one-offs. Times shown in the venue's local time.</p>
+    </div>
+  </section>
+
+  <script type="application/json" id="data" set:html={JSON.stringify(index)} />
+  <script is:inline>
+    (() => {
+      const DATA = JSON.parse(document.getElementById('data').textContent);
+      const $c = document.getElementById('f-country');
+      const $r = document.getElementById('f-region');
+      const $cat = document.getElementById('f-cat');
+      const $out = document.getElementById('results');
+      const $count = document.getElementById('count');
+      const CAT = { restaurant: 'Restaurant', trendy: 'Trendy', 'hidden-gem': 'Hidden gem', attraction: 'Attraction' };
+
+      const countries = [...new Set(DATA.map((d) => d.c))].sort();
+      for (const c of countries) $c.add(new Option(c, c));
+
+      const hr = (h) => { const x = ((h % 24) + 24) % 24; const ap = x < 12 ? 'am' : 'pm'; const h12 = x % 12 || 12; return h12 + ap; };
+      const range = (arr) => { if (!arr || !arr.length) return null; const s = [...arr].sort((a, b) => a - b); return hr(s[0]) + '–' + hr(s[s.length - 1] + 1); };
+
+      function refreshRegions() {
+        const c = $c.value;
+        const regions = [...new Set(DATA.filter((d) => !c || d.c === c).map((d) => d.r))].sort();
+        $r.innerHTML = '<option value="">All cities</option>';
+        for (const r of regions) $r.add(new Option(r, r));
+      }
+
+      function bar(d) {
+        const busy = new Set(d.web);
+        const quiet = new Set([...d.wq, ...d.weq]);
+        let cells = '';
+        for (let h = 7; h <= 22; h++) {
+          const cls = busy.has(h) ? 'busy' : quiet.has(h) ? 'quiet' : 'mid';
+          cells += `<i class="${cls}" title="${hr(h)}"></i>`;
+        }
+        return `<div class="bar">${cells}</div><div class="barlab"><span>7am</span><span>quiet</span><span>10pm</span></div>`;
+      }
+
+      function render() {
+        const c = $c.value, r = $r.value, cat = $cat.value;
+        const rows = DATA.filter((d) => (!c || d.c === c) && (!r || d.r === r) && (!cat || d.cat === cat));
+        $count.textContent = `${rows.length} place${rows.length === 1 ? '' : 's'}`;
+        $out.innerHTML = rows.slice(0, 200).map((d) => {
+          const q = range(d.wq) || range(d.weq);
+          return `<a class="card" href="/posts/${d.s}">
+            <div class="ctop"><span class="cat">${CAT[d.cat] || d.cat}</span><span class="reg">${d.r}</span></div>
+            <h3>${d.t.replace(/</g, '&lt;')}</h3>
+            ${q ? `<p class="quiet">🟢 Quietest: <b>${q}</b></p>` : ''}
+            ${bar(d)}
+          </a>`;
+        }).join('') || '<p class="empty">No venues match — try widening the filters.</p>';
+      }
+
+      $c.addEventListener('change', () => { refreshRegions(); render(); });
+      $r.addEventListener('change', render);
+      $cat.addEventListener('change', render);
+      refreshRegions(); render();
+    })();
+  </script>
+
+  <style>
+    .tool { padding-block: clamp(2rem, 5vh, 4rem); }
+    .tool h1 { font-size: clamp(1.8rem, 4vw, 2.6rem); margin: 0.2rem 0 0.4rem; }
+    .dek { color: var(--ink-soft); max-width: 60ch; font-size: 1.05rem; }
+    .filters { display: flex; flex-wrap: wrap; gap: 0.8rem; margin: 1.5rem 0 0.5rem; }
+    .filters label { display: flex; flex-direction: column; gap: 0.25rem; font-size: 0.8rem; font-weight: 600; color: var(--muted); }
+    .filters select { padding: 0.6rem 0.7rem; border: 1px solid var(--line); border-radius: var(--r-md); background: var(--surface); color: var(--ink); font-size: 0.95rem; min-width: 12rem; }
+    .count { color: var(--muted); font-size: 0.85rem; margin: 0.5rem 0; }
+    .results { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 0.9rem; }
+    .card { display: block; padding: 0.9rem 1rem 1rem; border: 1px solid var(--line); border-radius: var(--r-lg); background: var(--surface); text-decoration: none; color: var(--ink); transition: box-shadow .15s, transform .15s; }
+    .card:hover { box-shadow: var(--shadow-md); transform: translateY(-2px); }
+    .ctop { display: flex; justify-content: space-between; font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.05em; }
+    .ctop .cat { color: var(--accent); font-weight: 700; }
+    .ctop .reg { color: var(--muted); }
+    .card h3 { font-size: 1rem; margin: 0.3rem 0 0.4rem; line-height: 1.25; }
+    .quiet { font-size: 0.85rem; margin: 0 0 0.5rem; color: var(--ink-soft); }
+    .bar { display: flex; gap: 2px; height: 22px; }
+    .bar i { flex: 1; border-radius: 2px; background: var(--surface-2); }
+    .bar i.quiet { background: #3f9e6a; }
+    .bar i.busy { background: #d98b8b; }
+    .bar i.mid { background: var(--line); }
+    .barlab { display: flex; justify-content: space-between; font-size: 0.62rem; color: var(--muted); margin-top: 2px; }
+    .foot { color: var(--muted); font-size: 0.78rem; margin-top: 1.5rem; max-width: 60ch; }
+    .empty { color: var(--muted); padding: 2rem 0; }
+  </style>
+</BaseLayout>
