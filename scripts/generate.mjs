@@ -203,13 +203,26 @@ function buildRotatedQueue(targets, done, countries, seasonal = [], opts = {}) {
   // countries — e.g. 16 posts = one each to the 16 smallest — rather than piling
   // onto one. Countries run out of queued targets independently; the loop ends
   // when every country is drained.
+  // Region totals (summed across categories) → zero/low-coverage cities FIRST
+  // within each country. Jiufen/Cebu/Penang-class regions sat at 0 posts while
+  // each country's capital kept growing, because plain rotation treats them
+  // equally; ordering buckets fewest-first makes a country's emptiest city its
+  // first pick every run, without changing cross-country fairness.
+  const regionTotals = new Map();
+  for (const [k, v] of regionCatCounts) {
+    const r = k.slice(0, k.lastIndexOf('|'));
+    regionTotals.set(r, (regionTotals.get(r) || 0) + v);
+  }
   const perCountry = orderedCountries.map((cname) => {
     const rb = new Map();
     for (const t of byCountry.get(cname)) {
       if (!rb.has(t.region)) rb.set(t.region, []);
       rb.get(t.region).push(t);
     }
-    return { buckets: [...rb.values()], i: 0 };
+    const buckets = [...rb.entries()]
+      .sort((a, b) => (regionTotals.get(a[0]) || 0) - (regionTotals.get(b[0]) || 0))
+      .map(([, v]) => v);
+    return { buckets, i: 0 };
   });
   const rotated = [];
   let remaining = all.length;
@@ -242,7 +255,12 @@ function buildRotatedQueue(targets, done, countries, seasonal = [], opts = {}) {
     return n === 2 || n === 3;
   };
   const boosted = [...rotated.filter(nearRoundup), ...rotated.filter((t) => !nearRoundup(t))];
-  return [...seasonalQueue, ...boosted];
+  const queueOut = [...seasonalQueue, ...boosted];
+  if (process.env.QUEUE_DEBUG === '1') {
+    console.log('[QUEUE_DEBUG] first 20:');
+    for (const t of queueOut.slice(0, Number(process.env.QUEUE_DEBUG_N ?? 20))) console.log(`  ${t.country ?? 'South Korea'} / ${t.region} / ${t.category}`);
+  }
+  return queueOut;
 }
 
 // How many published guides each country already has (from post frontmatter).
