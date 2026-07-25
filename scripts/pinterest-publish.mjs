@@ -27,8 +27,14 @@ const ROOT = join(__dirname, '..');
 const POSTS_DIR = join(ROOT, 'src', 'content', 'posts');
 const STATE_FILE = join(ROOT, 'data', 'pinterest.json');
 const SITE_URL = 'https://wanderatlasguides.com';
-// Overridable for API-sandbox testing (Trial apps can only create pins there).
-const API = process.env.PINTEREST_API_BASE || 'https://api.pinterest.com/v5';
+// Sandbox mode: Trial apps may only create pins on the API sandbox — used to
+// demo/verify the pipeline end-to-end before Standard access is granted.
+// Sandbox state is throwaway (separate board ids, pins invisible in production),
+// so it must never touch data/pinterest.json.
+const SANDBOX = process.env.PINTEREST_SANDBOX === '1';
+const API = SANDBOX
+  ? 'https://api-sandbox.pinterest.com/v5'
+  : (process.env.PINTEREST_API_BASE || 'https://api.pinterest.com/v5');
 
 // Direct token (secret override) OR the OAuth refresh store (PINTEREST_APP_SECRET
 // + data/pinterest-token.enc) — resolved in main().
@@ -155,7 +161,7 @@ async function main() {
     return;
   }
 
-  const state = await loadState();
+  const state = SANDBOX ? { boards: {}, pinned: {} } : await loadState();
   const today = new Date().toISOString().slice(0, 10);
 
   const files = (await readdir(POSTS_DIR)).filter((f) => f.endsWith('.md'));
@@ -174,7 +180,7 @@ async function main() {
   posts.sort((a, b) => String(b.pubDate).localeCompare(String(a.pubDate)));
   const batch = posts.slice(0, PINS_PER_RUN);
 
-  console.log(`\n📌 Pinterest — ${posts.length} unpinned post(s), pinning ${batch.length} this run${DRY ? ' (DRY)' : ''}\n`);
+  console.log(`\n📌 Pinterest — ${posts.length} unpinned post(s), pinning ${batch.length} this run${DRY ? ' (DRY)' : ''}${SANDBOX ? ' (SANDBOX)' : ''}\n`);
 
   let done = 0, failed = 0, authFailed = false, trialBlocked = false;
   for (const post of batch) {
@@ -212,7 +218,7 @@ async function main() {
   }
 
   delete state._boardList;
-  if (!DRY) await writeFile(STATE_FILE, JSON.stringify(state, null, 2) + '\n', 'utf8');
+  if (!DRY && !SANDBOX) await writeFile(STATE_FILE, JSON.stringify(state, null, 2) + '\n', 'utf8');
 
   const total = Object.keys(state.pinned).length;
   console.log(`\n📦 ${done} pinned · ${failed} failed · ${total} total pins\n`);

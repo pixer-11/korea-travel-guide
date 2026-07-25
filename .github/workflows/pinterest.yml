@@ -12,6 +12,10 @@ on:
         description: 'How many pins this run (daily auto uses 8)'
         required: false
         default: '8'
+      sandbox:
+        description: 'Sandbox test (true = pins go to the API sandbox, state untouched)'
+        required: false
+        default: 'false'
 
 permissions:
   contents: write
@@ -53,6 +57,7 @@ jobs:
           PINTEREST_ACCESS_TOKEN: ${{ secrets.PINTEREST_ACCESS_TOKEN }}
           PINTEREST_APP_SECRET: ${{ secrets.PINTEREST_APP_SECRET }}
           PINS_PER_RUN: ${{ github.event.inputs.count || '8' }}
+          PINTEREST_SANDBOX: ${{ github.event.inputs.sandbox == 'true' && '1' || '' }}
         run: |
           set -o pipefail
           node scripts/pinterest-publish.mjs | tee /tmp/pins.log
