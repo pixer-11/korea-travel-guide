@@ -248,6 +248,10 @@ h1, h2, h3, h4 {
 .lang-opt.is-active { color: var(--accent); font-weight: 600; }
 
 .menu-toggle { display: none; }
+/* Mobile drill-down controls are hidden by DEFAULT — the rules that show them all
+   live inside the ≤820px media query. Without this base rule the "Destinations ›"
+   button leaked into the desktop header next to the real dropdown toggle. */
+.nav-drill, .nav-back { display: none; }
 
 @media (max-width: 820px) {
   .nav {
