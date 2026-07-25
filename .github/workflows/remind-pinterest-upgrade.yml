@@ -1,0 +1,65 @@
+name: Reminder — Pinterest Standard upgrade
+
+# One-shot reminder: on 2026-07-27 evening (KST), after two days of Trial pins
+# have accumulated, telegram the owner the full click-path + paste-ready English
+# answers for the Standard access application. A committed marker file makes it
+# fire exactly once (the yearly cron re-hit in 2027 sees the marker and skips);
+# the workflow file itself can be deleted any time after it has fired.
+on:
+  schedule:
+    - cron: '5 10 27 7 *' # Jul 27 10:05 UTC = 19:05 KST (off the hour)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  remind:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Send reminder (once)
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          [ -f data/reminders/pinterest-upgrade-sent ] && { echo "Already sent — skipping."; exit 0; }
+          [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
+          cat > /tmp/msg.txt <<'MSG'
+📌 핀터레스트 Standard 승격 — 지금 신청하세요!
+
+이틀치 핀이 쌓여서 승인받기 좋은 타이밍입니다. 5분이면 끝나요.
+
+【신청 방법】
+1. developers.pinterest.com 접속 → 내 앱 → Wander Atlas Publisher 「관리」
+2. 「API 범위」 섹션의 「액세스 업그레이드」 버튼 클릭
+3. 양식에 아래 문구를 붙여넣기 (영어가 심사에 유리)
+
+【앱 설명/사용 목적 칸】
+Wander Atlas Publisher automatically shares new travel guide articles from our own website, wanderatlasguides.com (domain verified on this Pinterest business account), as Pins. Each day, our publishing pipeline creates up to 8 Pins: it composes a 1000x1500 vertical image from the article's hero photo and title, and posts it to a country-specific board (e.g. "Japan Travel Guide") with a link back to the original article. We only publish our own editorial content to our own account — no user data is collected, no third parties are involved, and no content is read or written on behalf of other users. We are requesting Standard access so that the Pins we create via the API are publicly visible to Pinterest users, not only to our own account as under Trial access.
+
+【요청 범위(scopes) 칸】
+boards:read, boards:write, pins:read, pins:write, user_accounts:read
+
+【개인정보/데이터 질문이 나오면】
+We do not collect, store, or process any Pinterest user data. The app only writes our own Pins and boards and reads our own account's boards to select the destination board. Privacy policy: https://wanderatlasguides.com/privacy
+
+양식이 예상과 다르면 스크린샷을 클로드에게 보내주세요. 심사는 보통 며칠 걸리고, 승인되면 기존 핀 포함 전부 공개로 전환됩니다.
+MSG
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+            --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
+            --data-urlencode "text@/tmp/msg.txt" \
+            -d disable_web_page_preview=true >/dev/null
+
+      - name: Mark as sent
+        run: |
+          [ -f data/reminders/pinterest-upgrade-sent ] && exit 0
+          git config user.name "content-bot"
+          git config user.email "bot@users.noreply.github.com"
+          mkdir -p data/reminders
+          date -u +%Y-%m-%dT%H:%M:%SZ > data/reminders/pinterest-upgrade-sent
+          git add data/reminders/pinterest-upgrade-sent
+          git commit -m "chore: pinterest upgrade reminder sent"
+          git pull --rebase origin main
+          git push
