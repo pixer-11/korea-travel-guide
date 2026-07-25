@@ -1,0 +1,52 @@
+name: visual-audit
+# Vision-based hero-image validation: LOOKS at each venue post's hero with a vision
+# model and flags images that don't match the venue (empty plate, wrong building,
+# wrong city, unrelated subject). Resumable via data/visual-audit.json. Weekly sweep
+# + manual dispatch. Sends a Korean Telegram warning when mismatches are found.
+on:
+  schedule:
+    - cron: '40 9 * * 1'   # Mondays 18:40 KST — weekly sweep of any un-checked heroes
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'Max posts to check this run (0 = all remaining)'
+        required: false
+        default: '150'
+      slugs:
+        description: 'Specific slugs (comma-separated); blank = resumable venue posts'
+        required: false
+        default: ''
+permissions:
+  contents: write
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+      - uses: actions/setup-node@v4
+        with: { node-version: '20' }
+      - run: npm ci
+      - name: Visual audit
+        run: |
+          if [ -n "${{ github.event.inputs.slugs }}" ]; then
+            node scripts/visual-audit.mjs --slugs "${{ github.event.inputs.slugs }}"
+          else
+            node scripts/visual-audit.mjs
+          fi
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          AUDIT_LIMIT: ${{ github.event.inputs.limit || '150' }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      - name: Commit audit state
+        run: |
+          git config user.name "content-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/visual-audit.json
+          if git diff --staged --quiet; then
+            echo "No audit changes."
+          else
+            git commit -m "chore: visual-audit results ($(date -u +%Y-%m-%d))"
+            git pull --rebase origin main && git push
+          fi
