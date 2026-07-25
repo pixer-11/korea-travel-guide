@@ -4,6 +4,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import Newsletter from './Newsletter.astro';
 import ShareRow from './ShareRow.astro';
 import countriesData from '../../data/countries.json';
+import { SITE } from '../siteConfig';
 import Hotels from './Hotels.astro';
 import Tours from './Tours.astro';
 import PlanTrip from './PlanTrip.astro';
@@ -11,7 +12,7 @@ import StickyBook from './StickyBook.astro';
 import Emoji from './Emoji.astro';
 import { isEventPast } from '../lib/eventStatus';
 import { slugifyRegion } from '../lib/slug';
-import { getLangFromUrl, useTranslations, localeCodes, defaultLang } from '../i18n/utils';
+import { getLangFromUrl, useTranslations, localeCodes, defaultLang, localizePath } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 
 // Shared article view for BOTH the English page (/posts/…) and the localized
@@ -264,6 +265,7 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
   article={true}
   jsonLd={jsonLd}
   noindex={noindexPost}
+  localized={true}
   localizedLangs={availableLangs}
 >
   <article class="article wrap">
@@ -287,7 +289,7 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
       </div>
       <h1>{title}</h1>
       <p class="byline">
-        By the <a href="/about">Wander Atlas editorial team</a> · AI-assisted, reviewed against live Google&nbsp;Places and official sources
+        <Fragment set:html={t('post.byline').replace('{team}', `<a href="${localizePath('/about', lang)}">${SITE.name} ${t('post.editorialTeam')}</a>`)} />
       </p>
     </div>
 

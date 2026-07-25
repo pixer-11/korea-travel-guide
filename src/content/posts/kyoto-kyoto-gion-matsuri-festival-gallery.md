@@ -3,7 +3,7 @@ title: "Kyoto Gion Matsuri Festival Gallery"
 description: "The Gion Matsuri Festival Gallery, tucked in Gionmachi Minamigawa in Higashiyama Ward, is a small permanent exhibition that lets visitors see Gion Matsuri's"
 country: "Japan"
 region: "Kyoto"
-category: "event"
+category: attraction
 pubDate: 2026-07-21
 heroImage:
   url: "https://images.unsplash.com/photo-1721208813573-20ec1df0b2fd?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8S3lvdG8lMjBKYXBhbiUyMG11c2ljJTIwZmVzdGl2YWwlMjBjcm93ZHxlbnwwfDB8fHwxNzg0Nzc1MzA1fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"

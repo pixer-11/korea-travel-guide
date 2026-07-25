@@ -3,6 +3,8 @@ title: "Mud Festival in Boryeong"
 description: "The Boryeong Mud Festival runs for about two weeks each July at Daecheon Beach on Korea's west coast, roughly two hours from Seoul by train or bus."
 region: Boryeong
 category: event
+eventStartDate: 2026-07-24
+eventEndDate: 2026-08-09
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
   url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Korea-Boryeong_Mud_Festival-29.jpg/1920px-Korea-Boryeong_Mud_Festival-29.jpg"

@@ -266,7 +266,11 @@ async function unsplashStrict(query, used) {
     const n = unsplashNum(c.url);
     return !used.has(c.url) && !(n && used.has(n)) && !used.has(`unsplash:${c.id}`);
   };
-  const pick = cands.find(free) || cands[0];
+  // If EVERY candidate is already on another post, return nothing rather than
+  // knowingly shipping a duplicate — the caller then falls through to the next
+  // query. Two posts sharing a photo is a hard "no" for a travel guide, so a
+  // fallback that silently duplicated (`|| cands[0]`) was worse than no image.
+  const pick = cands.find(free);
   if (!pick) return null;
   if (used) {
     used.add(pick.url);

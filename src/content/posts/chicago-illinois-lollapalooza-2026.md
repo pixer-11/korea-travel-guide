@@ -4,6 +4,8 @@ description: "Lollapalooza 2026 runs July 30–August 2 in Grant Park, Chicago, 
 country: United States
 region: Chicago
 category: event
+eventStartDate: 2026-07-30
+eventEndDate: 2026-08-02
 pubDate: '2026-07-21'
 heroImage:
   url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/NewDad_Lollapalooza_2025.png/1920px-NewDad_Lollapalooza_2025.png"

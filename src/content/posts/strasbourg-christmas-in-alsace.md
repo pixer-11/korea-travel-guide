@@ -4,6 +4,8 @@ description: "Strasbourg's Christmas Market (Marché de Noël) runs from late No
 country: "France"
 region: "Strasbourg"
 category: "event"
+eventStartDate: 2026-11-27
+eventEndDate: 2026-12-27
 pubDate: 2026-07-21
 heroImage:
   url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Strasbourg_Christmas_market_%2851228458506%29.jpg/1920px-Strasbourg_Christmas_market_%2851228458506%29.jpg"

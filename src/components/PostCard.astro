@@ -1,6 +1,6 @@
 ---
 import { isEventPast } from '../lib/eventStatus';
-import { getLangFromUrl } from '../i18n/utils';
+import { getLangFromUrl, useTranslations } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 interface Props {
   href: string;
@@ -13,15 +13,19 @@ interface Props {
 }
 const { href, title, description, region, category, image, eventEndDate } = Astro.props;
 // Card labels follow the page's language (cards appear on localized hubs too).
-const regionLabel = localizePlace(region, getLangFromUrl(Astro.url));
-const label = category.replace('-', ' ');
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+const regionLabel = localizePlace(region, lang);
+// Category badges are reader-facing: translate them (the same cat.* keys the
+// crowd-finder filters use) instead of printing the raw English slug.
+const label = t(`cat.${category}` as any) || category.replace('-', ' ');
 const ended = isEventPast({ category, eventEndDate });
 ---
 
 <a class:list={['card', { 'card--ended': ended }]} href={href}>
   <div class="thumb">
     <img src={image ?? '/images/placeholder-market.svg'} alt={`${title} — ${region}`} width="600" height="400" loading="lazy" decoding="async" />
-    {ended ? <span class="badge badge-ended">이벤트 종료 · Ended</span> : <span class="badge">{label}</span>}
+    {ended ? <span class="badge badge-ended">{t('card.ended')}</span> : <span class="badge">{label}</span>}
   </div>
   <div class="card-body">
     <span class="region-label">{regionLabel}</span>

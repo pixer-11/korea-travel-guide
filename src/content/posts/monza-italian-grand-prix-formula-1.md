@@ -4,6 +4,8 @@ description: "The 2026 Italian Grand Prix runs September 4-6 at the Autodromo Na
 country: Italy
 region: Monza
 category: event
+eventStartDate: 2026-09-04
+eventEndDate: 2026-09-06
 pubDate: '2026-07-21'
 heroImage:
   url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fale_F1_Monza_2004_77.jpg/1920px-Fale_F1_Monza_2004_77.jpg"

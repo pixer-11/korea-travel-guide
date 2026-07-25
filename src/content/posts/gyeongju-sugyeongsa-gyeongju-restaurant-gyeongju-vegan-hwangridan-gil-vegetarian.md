@@ -17,9 +17,7 @@ heroImage:
 gallery: []
 place:
   id: ChIJU5585rRPZjURA-9YRA7h2Tc
-  name: >-
-    sugyeongsa 수경사 / gyeongju restaurant / gyeongju vegan / hwangridan-gil
-    vegetarian /
+  name: "Sugyeongsa"
   address: '4-1 Sajeong-dong, Gyeongju, Gyeongsangbuk-do, South Korea'
   rating: 4.9
   userRatingsTotal: 269

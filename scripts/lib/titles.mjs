@@ -38,7 +38,12 @@ export function makeTitle(name, target) {
   let base = cleanVenueName(name);
   const reg = region.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
   const deEchoed = base.replace(new RegExp(`[\\s,\\-–—]+${reg}$`, 'i'), '').trim();
-  if (deEchoed.length >= 3) base = deEchoed; // never strip down to nothing
+  // Only de-echo when what's left still stands on its own. Stripping the city from
+  // "Classical Gardens of Suzhou" / "CQ @ Clarke Quay" / "Vieux Lyon" left a
+  // dangling connector — "Classical Gardens of: Suzhou Travel Guide" — or a
+  // meaningless fragment. Those names need the city to make sense.
+  const danglesConnector = /\b(of|the|de|du|des|at|in|on|and|for|à|a|el|la|le|les)$|[&@+\-–—/]$/i.test(deEchoed);
+  if (deEchoed.length >= 5 && !danglesConnector) base = deEchoed;
   // If the venue name itself contains the city ("Tokyo Tower"), don't repeat it in
   // the suffix — "Tokyo Tower: Travel Guide", not "…: Tokyo Travel Guide".
   const baseHasRegion = new RegExp(`\\b${reg}\\b`, 'i').test(base);

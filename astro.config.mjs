@@ -97,6 +97,10 @@ export default defineConfig({
   site: SITE,
   integrations: [
     sitemap({
+      // The embeddable crowd widgets are noindex iframe fragments — listing them
+      // told Google "index these" while the page itself says "don't", and wasted
+      // crawl budget on 184 non-pages.
+      filter: (page) => !page.includes('/embed/'),
       // Advertise per-page freshness. AI search + Google use <lastmod> to decide
       // what to re-crawl and cite; on a daily-rebuilt automated site this is a
       // cheap, honest ranking/citation lever.

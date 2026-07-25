@@ -10,7 +10,7 @@ import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
 import { unsplashNum } from './lib/images.mjs';
 import { OFFTOPIC } from './lib/offtopic.mjs';
-import { topicKey } from './lib/topic-key.mjs';
+import { topicKey, FILLER } from './lib/topic-key.mjs';
 
 const DIR = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 
@@ -34,6 +34,8 @@ for (const f of files) {
     credit: (fm.heroImage && fm.heroImage.credit) || '',
     license: (fm.heroImage && fm.heroImage.license) || '',
     placeId: (fm.place && fm.place.id) || '',
+    placeName: (fm.place && fm.place.name) || '',
+    eventStart: fm.eventStartDate || '',
   });
 }
 
@@ -81,6 +83,47 @@ for (const p of posts) {
   if (OFFTOPIC.test(hay)) {
     const fileName = (decodeURIComponent(p.url).split('/').pop() || '').replace(/\.(jpg|jpeg|png|svg).*$/i, '').slice(0, 48);
     issues.push(`IMAGE MISMATCH suspect [${p.category}] "${p.region}" — off-topic hero (${fileName}): ${p.f}`);
+  }
+}
+// A title left dangling on a connector — the de-echo rule stripped the city out of
+// "Classical Gardens of Suzhou" and shipped "Classical Gardens of: Suzhou …".
+for (const p of posts) {
+  if (/\b(of|the|de|du|des|at|in|on|and|for|el|la|le|les)\s*:\s/i.test(p.title) || /[&@+\-–—/]\s*:\s/.test(p.title)) {
+    issues.push(`BROKEN TITLE (dangling connector before ":"): ${p.f} — "${p.title}"`);
+  }
+}
+// A place.name that is really a leftover search-tag dump ("x / y restaurant / z vegan /")
+// renders in the fact box AND the schema.
+for (const p of posts) {
+  if (p.placeName && (p.placeName.split('/').length > 2 || p.placeName.length > 90)) {
+    issues.push(`GARBLED place.name (looks like a search-query dump): ${p.f} — "${p.placeName.slice(0, 70)}…"`);
+  }
+}
+// An event with no machine-readable start date can't sort, expire, or emit Event
+// schema — the date is usually sitting in the prose.
+for (const p of posts) {
+  if (p.category === 'event' && !p.eventStart) issues.push(`EVENT missing eventStartDate: ${p.f}`);
+}
+// Two posts about the same event on the same date in the same city = duplicate
+// coverage, and if their dates DISAGREE one of them is telling readers a lie.
+{
+  const evs = posts.filter((p) => p.category === 'event');
+  const byName = new Map();
+  const norm = (t) => String(t).replace(/:\s*What to Know.*$/i, '')
+    .toLowerCase().replace(/[^a-z0-9\s]/g, ' ').split(/\s+/)
+    .filter((w) => w.length > 2 && !FILLER.has(w)).sort().join(' ');
+  for (const p of evs) {
+    const k = `${norm(p.title)}|${p.region}`;
+    (byName.get(k) || byName.set(k, []).get(k)).push(p);
+  }
+  for (const [, group] of byName) {
+    if (group.length < 2) continue;
+    const dates = new Set(group.map((g) => (g.eventStart ? String(g.eventStart).slice(0, 10) : '?')));
+    issues.push(
+      dates.size > 1
+        ? `CONTRADICTORY event dates for the same event (${[...dates].join(' vs ')}): ${group.map((g) => g.f).join(', ')}`
+        : `DUPLICATE event coverage ×${group.length}: ${group.map((g) => g.f).join(', ')}`
+    );
   }
 }
 dupBy((p) => (p.url && !p.url.includes('placeholder') ? unsplashNum(p.url) || p.url : ''), 'DUPLICATE image');

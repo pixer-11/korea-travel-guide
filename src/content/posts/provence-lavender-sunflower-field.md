@@ -3,7 +3,7 @@ title: "Lavender & Sunflower Field"
 description: "The lavender and sunflower fields around Valensole, on the Plateau de Valensole in Provence, are at their best from roughly the last week of June through"
 country: "France"
 region: "Provence"
-category: "event"
+category: attraction
 pubDate: "2026-07-22T01:46:41.064Z"
 heroImage:
   url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sunflower_at_Hitchin_Lavender_-_geograph.org.uk_-_6594262.jpg/1920px-Sunflower_at_Hitchin_Lavender_-_geograph.org.uk_-_6594262.jpg"
