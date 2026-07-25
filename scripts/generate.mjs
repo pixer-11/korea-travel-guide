@@ -401,7 +401,7 @@ async function buildLivePost(target) {
     // English-site guard: a name with no Latin letters would make a Hangul slug.
     if (!/[a-z0-9]/i.test(cand.name || '')) continue;
     if (cand.id && USED_PLACE_IDS.has(cand.id)) continue;
-    const h = await resolveHero({
+    let h = await resolveHero({
       namedVenue: cand.name,
       region: target.region,
       topic: target.topic,
@@ -411,6 +411,17 @@ async function buildLivePost(target) {
       selfHost: true, // the venue's real Google photo, self-hosted, is priority 1
       strict: true,
     });
+    // Google photos blocked at billing level → Foursquare/Flickr supply REAL
+    // venue-photo candidates (same vision gate decides). Raises the strict-mode
+    // pass rate so venue-post output stays high despite the Google block.
+    if (!isImageAllowed(h)) {
+      const { venuePhotoCandidates } = await import('./lib/photo-sources.mjs');
+      for (const alt of await venuePhotoCandidates({ name: cand.name, lat: cand.lat, lng: cand.lng })) {
+        if (USED_IMAGE_URLS.has(alt.url)) continue;
+        h = alt;
+        break;
+      }
+    }
     if (!isImageAllowed(h)) {
       console.log(`  ⏭️   "${cand.name}" — no verified photo; trying next candidate`);
       continue;

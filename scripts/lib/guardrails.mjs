@@ -49,6 +49,8 @@ const ALLOWED_IMAGE_LICENSES = new Set([
   'wikimedia', // Wikimedia Commons (CC BY / BY-SA / public domain), attributed
   'kto-open', // Korea Tourism Org public/open data
   'placeholder', // our own generated placeholder
+  'foursquare', // Foursquare Places photos, used under API terms with attribution
+  'flickr-cc', // Flickr — Creative Commons / no-known-restrictions ONLY (filtered at query)
 ]);
 
 export function isImageAllowed(image) {
