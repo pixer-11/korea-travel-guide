@@ -9,7 +9,7 @@ import './lib/env.mjs';
 import { readFile, writeFile, readdir } from 'node:fs/promises';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { getPlaceById } from './lib/places.mjs';
+import { searchPlaces } from './lib/places.mjs';
 import { selfHostPlacePhoto } from './lib/images.mjs';
 import { OFFTOPIC } from './lib/offtopic.mjs';
 
@@ -21,6 +21,22 @@ const ONLY = new Set((process.env.SLUGS || '').split(',').map((s) => s.trim()).f
 
 const placeId = (src) => (src.match(/\n {2}id:\s*"?([^"\n]+?)"?\s*$/m) || [])[1]?.trim() || null;
 const heroUrl = (src) => (src.match(/heroImage:\r?\n {2}url:\s*"?([^"\n]+?)"?\s*$/m) || [])[1]?.trim() || '';
+const placeName = (src) => (src.match(/\n {2}name:\s*"?([^"\n]+?)"?\s*$/m) || [])[1]?.trim() || '';
+const region = (src) => (src.match(/^region:\s*"?([^"\n]+?)"?\s*$/m) || [])[1]?.trim() || '';
+const country = (src) => (src.match(/^country:\s*"?([^"\n]+?)"?\s*$/m) || [])[1]?.trim() || '';
+
+// Place DETAILS (GetPlaceRequest) is refused for this project — every call 429s from
+// the very first request, while Text Search keeps working (the daily publish uses it
+// successfully). Text Search returns `places.photos` too, so we look the venue up by
+// name+city and then require the returned place id to EQUAL the id we already stored.
+// That id match is a stronger guarantee than the old Details call: it is the same
+// venue or we take nothing, so there is no name-collision risk.
+async function findPlaceWithPhotos(src, id) {
+  const q = [placeName(src), region(src), country(src)].filter(Boolean).join(' ');
+  if (!q) return null;
+  const results = await searchPlaces(q, { max: 5 });
+  return (results || []).find((r) => r.id === id) || null;
+}
 
 async function usedUrls() {
   const urls = new Set();
@@ -71,7 +87,8 @@ for (const { f, src, id } of candidates) {
 
   let place;
   try {
-    place = await getPlaceById(id, { throwOnQuota: true, throwOnError: true });
+    place = await findPlaceWithPhotos(src, id);
+    if (!place) { console.log(`  ✗ no id-matched search result: ${f}`); failed++; continue; }
   } catch (e) {
     const m = e.message || '';
     if (/\b429\b|RESOURCE_EXHAUSTED|Quota exceeded/i.test(m)) {
@@ -85,10 +102,10 @@ for (const { f, src, id } of candidates) {
     // A permission / not-enabled / bad-request error will repeat for every post —
     // stop immediately and surface the exact reason instead of failing 200 times.
     if (/\b40[03]\b|PERMISSION_DENIED|SERVICE_DISABLED|API_KEY|not enabled/i.test(m)) {
-      console.log(`⛔ Place Details rejected — stopping. Reason: ${m.slice(0, 200)}`);
+      console.log(`⛔ Places search rejected — stopping. Reason: ${m.slice(0, 200)}`);
       break;
     }
-    console.log(`  ⚠️  details error ${f}: ${m.slice(0, 100)}`); failed++; continue;
+    console.log(`  ⚠️  search error ${f}: ${m.slice(0, 100)}`); failed++; continue;
   }
   if (!place?.photos?.length) { console.log(`  ✗ no Places photo: ${f}`); failed++; continue; }
 
