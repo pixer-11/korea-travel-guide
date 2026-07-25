@@ -260,6 +260,14 @@ h1, h2, h3, h4 {
     border-bottom: 1px solid var(--line);
     padding: 0.5rem 1rem 1rem;
     box-shadow: var(--shadow-md);
+    /* The country list is longer than the screen. Since this panel is
+       position:fixed, it does NOT scroll with the page — so cap its height to the
+       viewport below the header and let it scroll INTERNALLY, otherwise items past
+       the fold (Europe, the Americas…) are unreachable on mobile. */
+    max-height: calc(100dvh - 64px);
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    overscroll-behavior: contain;
     transform: translateY(-120%);
     transition: transform 0.25s ease;
   }
