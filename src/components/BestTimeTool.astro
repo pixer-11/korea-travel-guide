@@ -1,0 +1,210 @@
+---
+// FREE INTERACTIVE TOOL — "Best time to visit / Crowd finder", shared by the
+// English route and the [lang] routes. Built from the busy/quiet hour data we
+// already collect per venue (BestTime.app), which no other travel site aggregates
+// like this → genuinely link-worthy. Pure client-side filter over a build-time
+// JSON index; no API calls, no server.
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { useTranslations, localizePath, type Lang } from '../i18n/utils';
+import { localizePlace } from '../i18n/places';
+
+interface Props { lang: Lang }
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+
+const posts = await getCollection('posts', ({ data }) => !data.draft);
+
+// Translated post titles, so a Korean visitor sees Korean venue names.
+const i18nTitles = new Map<string, string>();
+if (lang !== 'en') {
+  const tr = await getCollection('postI18n', ({ data }) => data.lang === lang);
+  for (const e of tr) i18nTitles.set(e.data.slug, e.data.title);
+}
+
+const index = posts
+  .filter((p) => p.data.place?.busyness && (
+    (p.data.place.busyness.weekdayQuiet?.length) ||
+    (p.data.place.busyness.weekendQuiet?.length) ||
+    (p.data.place.busyness.weekendBusy?.length)
+  ))
+  .map((p) => {
+    const slug = p.id.replace(/\.md$/, '');
+    const country = p.data.country ?? 'South Korea';
+    return {
+      s: slug,
+      u: localizePath(`/posts/${slug}`, lang),
+      t: i18nTitles.get(slug) || p.data.title,
+      r: localizePlace(p.data.region, lang),
+      c: localizePlace(country, lang),
+      cat: p.data.category,
+      wq: p.data.place.busyness.weekdayQuiet ?? [],
+      weq: p.data.place.busyness.weekendQuiet ?? [],
+      web: p.data.place.busyness.weekendBusy ?? [],
+    };
+  })
+  .sort((a, b) => a.c.localeCompare(b.c) || a.r.localeCompare(b.r) || a.t.localeCompare(b.t));
+
+// Strings the client-side renderer needs.
+const strings = {
+  allCities: t('tool.allCities'),
+  places: t('tool.places'),
+  quietest: t('tool.quietest'),
+  empty: t('tool.empty'),
+  cat: {
+    restaurant: t('cat.restaurant'),
+    trendy: t('cat.trendy'),
+    'hidden-gem': t('cat.hidden-gem'),
+    attraction: t('cat.attraction'),
+  },
+};
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebApplication',
+  name: t('tool.h1'),
+  applicationCategory: 'TravelApplication',
+  operatingSystem: 'Web',
+  offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
+  description: t('tool.metaDesc'),
+};
+---
+<BaseLayout title={t('tool.metaTitle')} description={t('tool.metaDesc')} jsonLd={jsonLd} localized={true}>
+  <section class="tool">
+    <div class="wrap">
+      <p class="kicker gold">{t('tool.kicker')}</p>
+      <h1>{t('tool.h1')}</h1>
+      <p class="dek">{t('tool.dek').replace('{n}', String(index.length))}</p>
+
+      <div class="filters">
+        <label>{t('tool.country')}<select id="f-country"><option value="">{t('tool.allCountries')}</option></select></label>
+        <label>{t('tool.city')}<select id="f-region"><option value="">{t('tool.allCities')}</option></select></label>
+        <label>{t('tool.type')}<select id="f-cat">
+          <option value="">{t('tool.allTypes')}</option>
+          <option value="restaurant">{t('cat.restaurant')}</option>
+          <option value="trendy">{t('cat.trendy')}</option>
+          <option value="hidden-gem">{t('cat.hidden-gem')}</option>
+          <option value="attraction">{t('cat.attraction')}</option>
+        </select></label>
+      </div>
+
+      <div class="meta">
+        <p id="count" class="count"></p>
+        <div class="legend">
+          <span><i style="background:linear-gradient(180deg,#4bb37c,#2f7d55)"></i> {t('tool.quiet')}</span>
+          <span><i style="background:var(--line)"></i> {t('tool.normal')}</span>
+          <span><i style="background:linear-gradient(180deg,#e39a9a,#c8443a)"></i> {t('tool.busy')}</span>
+        </div>
+      </div>
+      <div id="results" class="results"></div>
+      <p class="foot">{t('tool.foot')}</p>
+    </div>
+  </section>
+
+  <script type="application/json" id="data" set:html={JSON.stringify(index)} />
+  <script type="application/json" id="strings" set:html={JSON.stringify(strings)} />
+  <script is:inline>
+    (() => {
+      const DATA = JSON.parse(document.getElementById('data').textContent);
+      const S = JSON.parse(document.getElementById('strings').textContent);
+      const $c = document.getElementById('f-country');
+      const $r = document.getElementById('f-region');
+      const $cat = document.getElementById('f-cat');
+      const $out = document.getElementById('results');
+      const $count = document.getElementById('count');
+
+      const countries = [...new Set(DATA.map((d) => d.c))].sort();
+      for (const c of countries) $c.add(new Option(c, c));
+
+      const hr = (h) => { const x = ((h % 24) + 24) % 24; const ap = x < 12 ? 'am' : 'pm'; const h12 = x % 12 || 12; return h12 + ap; };
+      const range = (arr) => { if (!arr || !arr.length) return null; const s = [...arr].sort((a, b) => a - b); return hr(s[0]) + '–' + hr(s[s.length - 1] + 1); };
+      const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+
+      function refreshRegions() {
+        const c = $c.value;
+        const regions = [...new Set(DATA.filter((d) => !c || d.c === c).map((d) => d.r))].sort();
+        $r.innerHTML = `<option value="">${esc(S.allCities)}</option>`;
+        for (const r of regions) $r.add(new Option(r, r));
+      }
+
+      function bar(d) {
+        const busy = new Set(d.web);
+        const quiet = new Set([...d.wq, ...d.weq]);
+        let cells = '';
+        for (let h = 7; h <= 22; h++) {
+          const cls = busy.has(h) ? 'busy' : quiet.has(h) ? 'quiet' : 'mid';
+          cells += `<i class="${cls}" title="${hr(h)}"></i>`;
+        }
+        return `<div class="barwrap"><div class="bar">${cells}</div><div class="barlab"><span>7am</span><span>2pm</span><span>10pm</span></div></div>`;
+      }
+
+      function render() {
+        const c = $c.value, r = $r.value, cat = $cat.value;
+        const rows = DATA.filter((d) => (!c || d.c === c) && (!r || d.r === r) && (!cat || d.cat === cat));
+        $count.textContent = S.places.replace('{n}', rows.length);
+        $out.innerHTML = rows.slice(0, 250).map((d) => {
+          const q = range(d.wq) || range(d.weq);
+          return `<a class="card" href="${d.u}">
+            <div class="ctop"><span class="cat">${esc(S.cat[d.cat] || d.cat)}</span><span class="dot"></span><span class="reg">${esc(d.r)}</span></div>
+            <h3>${esc(d.t)}</h3>
+            ${q ? `<p class="quiet">🟢 ${esc(S.quietest)}: <b>${q}</b></p>` : ''}
+            ${bar(d)}
+          </a>`;
+        }).join('') || `<p class="empty">${esc(S.empty)}</p>`;
+      }
+
+      $c.addEventListener('change', () => { refreshRegions(); render(); });
+      $r.addEventListener('change', render);
+      $cat.addEventListener('change', render);
+      refreshRegions(); render();
+    })();
+  </script>
+
+  <!-- is:global — the result cards are injected by JS, so Astro's scoped styles
+       (which only tag build-time markup) would never reach them. Scoped under
+       .tool so nothing leaks to the rest of the site. -->
+  <style is:global>
+    .tool { padding-block: clamp(2rem, 5vh, 4rem); }
+    .tool h1 { font-size: clamp(1.9rem, 4vw, 2.7rem); margin: 0.2rem 0 0.5rem; letter-spacing: -0.01em; }
+    .tool .dek { color: var(--ink-soft); max-width: 62ch; font-size: 1.05rem; line-height: 1.6; }
+
+    .tool .filters { display: flex; flex-wrap: wrap; gap: 0.75rem; margin: 1.75rem 0 0.75rem; padding: 1rem; background: var(--surface-2); border: 1px solid var(--line-soft); border-radius: var(--r-lg); }
+    .tool .filters label { display: flex; flex-direction: column; gap: 0.3rem; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); }
+    .tool .filters select { padding: 0.6rem 0.75rem; border: 1px solid var(--line); border-radius: var(--r-md); background: var(--surface); color: var(--ink); font-size: 0.95rem; min-width: 12rem; font-family: inherit; cursor: pointer; }
+    .tool .filters select:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+
+    .tool .meta { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem; margin: 0.75rem 0 1rem; }
+    .tool .count { color: var(--muted); font-size: 0.85rem; margin: 0; font-weight: 600; }
+    .tool .legend { display: flex; gap: 0.9rem; font-size: 0.72rem; color: var(--muted); }
+    .tool .legend span { display: inline-flex; align-items: center; gap: 0.3rem; }
+    .tool .legend i { width: 10px; height: 10px; border-radius: 3px; display: inline-block; }
+
+    .tool .results { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1rem; }
+    .tool .card { display: flex; flex-direction: column; padding: 1rem 1.1rem 1.1rem; border: 1px solid var(--line); border-radius: var(--r-lg); background: var(--surface); text-decoration: none; color: var(--ink); transition: box-shadow .16s ease, transform .16s ease, border-color .16s ease; }
+    .tool .card:hover { box-shadow: var(--shadow-md); transform: translateY(-2px); border-color: var(--accent-soft); }
+
+    .tool .ctop { display: flex; align-items: center; gap: 0.5rem; font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.07em; margin-bottom: 0.45rem; }
+    .tool .ctop .cat { color: var(--accent); font-weight: 800; }
+    .tool .ctop .dot { width: 3px; height: 3px; border-radius: 50%; background: var(--muted); opacity: 0.6; flex: none; }
+    .tool .ctop .reg { color: var(--muted); font-weight: 600; }
+
+    .tool .card h3 { font-size: 1.02rem; margin: 0 0 0.6rem; line-height: 1.3; font-weight: 700; }
+    .tool .quiet { font-size: 0.88rem; margin: 0 0 0.75rem; color: var(--ink-soft); display: flex; align-items: baseline; gap: 0.35rem; }
+    .tool .quiet b { color: #2f7d55; font-size: 0.95rem; }
+
+    .tool .barwrap { margin-top: auto; }
+    .tool .bar { display: flex; gap: 2px; height: 26px; align-items: flex-end; }
+    .tool .bar i { flex: 1; border-radius: 3px; background: var(--line); }
+    .tool .bar i.quiet { background: linear-gradient(180deg, #4bb37c, #2f7d55); height: 100%; }
+    .tool .bar i.busy { background: linear-gradient(180deg, #e39a9a, #c8443a); height: 100%; }
+    .tool .bar i.mid { background: var(--line); height: 60%; }
+    .tool .barlab { display: flex; justify-content: space-between; font-size: 0.64rem; color: var(--muted); margin-top: 5px; letter-spacing: 0.02em; }
+
+    .tool .foot { color: var(--muted); font-size: 0.78rem; margin-top: 2rem; max-width: 62ch; line-height: 1.6; }
+    .tool .empty { color: var(--muted); padding: 2.5rem 0; text-align: center; }
+    @media (max-width: 560px) {
+      .tool .filters { flex-direction: column; }
+      .tool .filters select { width: 100%; min-width: 0; }
+    }
+  </style>
+</BaseLayout>
