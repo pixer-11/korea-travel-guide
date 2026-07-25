@@ -16,6 +16,7 @@ case "$LABEL" in
   "Backfill")      LABEL="대량 발행" ;;
   "Daily publish") LABEL="일일 자동발행" ;;
   "Venue photos")  LABEL="장소 사진"; UNIT="장" ;;
+  "Pinterest")     LABEL="핀터레스트 자동 핀"; UNIT="핀" ;;
 esac
 
 # Korean job status.
@@ -34,8 +35,10 @@ if [ "${JOB_STATUS:-}" != "success" ]; then
   ICON="❌"; NOTE="
 ⚠️ 실행에 실패했어요. GitHub Actions 로그를 확인해 주세요."
 elif [ "${NEW}" = "0" ]; then
+  # Workflows can pass a job-specific zero-explanation via ZERO_NOTE (the default
+  # wording below is Places-quota specific and wrong for e.g. Pinterest).
   ICON="⚠️"; NOTE="
-ℹ️ 새 ${UNIT} 0개 — 오늘 Places 한도 소진(또는 이미 목표치 도달)입니다. 한도가 리셋되면 다음 실행에서 더 채워져요."
+${ZERO_NOTE:-ℹ️ 새 ${UNIT} 0개 — 오늘 Places 한도 소진(또는 이미 목표치 도달)입니다. 한도가 리셋되면 다음 실행에서 더 채워져요.}"
 else
   ICON="✅"; NOTE=""
 fi

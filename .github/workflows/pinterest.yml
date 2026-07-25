@@ -1,0 +1,90 @@
+name: Pinterest auto-pin
+
+# Daily drip of vertical pins for newly-published posts (plus backlog, newest
+# first). Runs after the nightly publish+translate so fresh posts get pinned the
+# same night. Does nothing (green no-op) until PINTEREST_ACCESS_TOKEN is set.
+on:
+  schedule:
+    - cron: '35 23 * * *' # 23:35 UTC = 08:35 KST (off the hour — GitHub drops :00 crons)
+  workflow_dispatch:
+    inputs:
+      count:
+        description: 'How many pins this run (daily auto uses 8)'
+        required: false
+        default: '8'
+
+permissions:
+  contents: write
+
+jobs:
+  pin:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Secrets can't be read in `if:` directly — surface presence as an output.
+      - name: Check token
+        id: gate
+        env:
+          T: ${{ secrets.PINTEREST_ACCESS_TOKEN }}
+        run: echo "on=$([ -n "$T" ] && echo true || echo false)" >> "$GITHUB_OUTPUT"
+
+      - if: steps.gate.outputs.on == 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - if: steps.gate.outputs.on == 'true'
+        run: npm ci
+
+      - name: Create pins
+        id: pins
+        if: steps.gate.outputs.on == 'true'
+        env:
+          PINTEREST_ACCESS_TOKEN: ${{ secrets.PINTEREST_ACCESS_TOKEN }}
+          PINS_PER_RUN: ${{ github.event.inputs.count || '8' }}
+        run: |
+          set -o pipefail
+          node scripts/pinterest-publish.mjs | tee /tmp/pins.log
+          summary=$(grep '^PIN_SUMMARY' /tmp/pins.log | tail -1)
+          echo "new=$(echo "$summary" | sed 's/.*new=\([0-9]*\).*/\1/')" >> "$GITHUB_OUTPUT"
+          echo "total=$(echo "$summary" | sed 's/.*total=\([0-9]*\).*/\1/')" >> "$GITHUB_OUTPUT"
+          grep -q '^PIN_AUTH_FAILED' /tmp/pins.log && echo "auth_failed=true" >> "$GITHUB_OUTPUT" || true
+
+      - name: Commit pin state
+        if: steps.gate.outputs.on == 'true'
+        run: |
+          git config user.name "content-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/pinterest.json
+          if git diff --staged --quiet; then
+            echo "No state change."
+          else
+            git commit -m "chore: pinterest pin state ($(date -u +%Y-%m-%d))"
+            git pull --rebase origin main
+            git push
+          fi
+
+      # Token died (expired/revoked) — that's an owner action, so say so plainly.
+      - name: Alert on dead token
+        if: steps.pins.outputs.auth_failed == 'true'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+            --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
+            --data-urlencode "text=📌 핀터레스트 토큰이 만료되었거나 무효합니다. developers.pinterest.com에서 새 토큰을 발급해 GitHub Secrets(PINTEREST_ACCESS_TOKEN)를 갱신해 주세요." >/dev/null || true
+
+      - name: Notify Telegram
+        if: always() && steps.gate.outputs.on == 'true'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          JOB_STATUS: ${{ job.status }}
+          NEW: ${{ steps.pins.outputs.new }}
+          TOTAL: ${{ steps.pins.outputs.total }}
+          ZERO_NOTE: 'ℹ️ 새 핀 0개 — 모든 글이 이미 핀 되었거나, 이번 실행에서 핀할 새 글이 없었습니다.'
+        run: bash scripts/notify-telegram.sh "Pinterest"
