@@ -18,6 +18,7 @@ import { existsSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 import Anthropic from '@anthropic-ai/sdk';
+import { makeTitle } from './lib/titles.mjs';
 import yaml from 'js-yaml';
 import { slugify } from './lib/slugify.mjs';
 import { writeArticle } from './lib/writer.mjs';
@@ -107,7 +108,7 @@ async function writeDiscovered(item, ctx) {
 
   const title = kind === 'event'
     ? `${item.name}: What to Know${item.city ? ` (${item.city})` : ''}`
-    : `${item.name} in ${item.city}: A Visitor's Guide`;
+    : makeTitle(item.name, { region: item.city, category: cat });
   const facts = {
     name: item.name, city: item.city, date: item.date, country, summary: item.summary,
     guidance:
