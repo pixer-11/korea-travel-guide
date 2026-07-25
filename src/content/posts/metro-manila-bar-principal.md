@@ -1,5 +1,5 @@
 ---
-title: 'Bar Principal in Metro Manila: A Visitor''s Guide'
+title: 'Bar Principal in Metro Manila'
 description: 'Bar Principal in Metro Manila, Philippines — a new/trending spot: what it is, where it is, and how to visit.'
 country: Philippines
 region: Metro Manila

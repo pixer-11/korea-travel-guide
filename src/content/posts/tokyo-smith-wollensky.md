@@ -1,5 +1,5 @@
 ---
-title: 'Smith & Wollensky in Tokyo: A Visitor''s Guide'
+title: 'Smith & Wollensky in Tokyo'
 description: 'Smith & Wollensky in Tokyo, Japan — a new/trending spot: what it is, where it is, and how to visit.'
 country: Japan
 region: Tokyo

@@ -1,5 +1,5 @@
 ---
-title: 'Dallas Pizza in Seoul: A Visitor''s Guide'
+title: 'Dallas Pizza in Seoul'
 description: 'Dallas Pizza in Seoul, South Korea — a new/trending spot: what it is, where it is, and how to visit.'
 country: South Korea
 region: Seoul

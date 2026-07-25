@@ -1,5 +1,5 @@
 ---
-title: 'Metropolitan Fine Dining in Jakarta: A Visitor''s Guide'
+title: 'Metropolitan Fine Dining in Jakarta'
 description: 'Metropolitan Fine Dining in Jakarta, Indonesia — a new/trending spot: what it is, where it is, and how to visit.'
 country: Indonesia
 region: Jakarta

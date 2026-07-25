@@ -1,5 +1,5 @@
 ---
-title: 'Shinobi in Dubai: A Visitor''s Guide'
+title: 'Shinobi in Dubai'
 description: 'Shinobi in Dubai, United Arab Emirates — a new/trending spot: what it is, where it is, and how to visit.'
 country: United Arab Emirates
 region: Dubai

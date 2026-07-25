@@ -1,5 +1,5 @@
 ---
-title: 'El Campero Madrid in Madrid: A Visitor''s Guide'
+title: 'El Campero Madrid in Madrid'
 description: 'El Campero Madrid in Madrid, Spain — a new/trending spot: what it is, where it is, and how to visit.'
 country: Spain
 region: Madrid

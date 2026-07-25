@@ -1,5 +1,5 @@
 ---
-title: 'Root House by Gēn in Penang: A Visitor''s Guide'
+title: 'Root House by Gēn in Penang'
 description: 'Root House by Gēn in Penang, Malaysia — a new/trending spot: what it is, where it is, and how to visit.'
 country: Malaysia
 region: Penang

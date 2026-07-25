@@ -1,5 +1,5 @@
 ---
-title: 'NAM Kitchen in Gardena: A Visitor''s Guide'
+title: 'NAM Kitchen in Gardena'
 description: 'NAM Kitchen in Gardena, United States — a new/trending spot: what it is, where it is, and how to visit.'
 country: United States
 region: Gardena

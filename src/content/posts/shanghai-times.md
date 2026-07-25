@@ -1,5 +1,5 @@
 ---
-title: 'Times in Shanghai: A Visitor''s Guide'
+title: 'Times in Shanghai'
 description: 'Times in Shanghai, China — a new/trending spot: what it is, where it is, and how to visit.'
 country: China
 region: Shanghai

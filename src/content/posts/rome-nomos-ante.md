@@ -1,5 +1,5 @@
 ---
-title: 'Nomos Ante in Rome: A Visitor''s Guide'
+title: 'Nomos Ante in Rome'
 description: 'Nomos Ante in Rome, Italy — a new/trending spot: what it is, where it is, and how to visit.'
 country: Italy
 region: Rome

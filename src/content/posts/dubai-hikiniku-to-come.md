@@ -1,5 +1,5 @@
 ---
-title: 'Hikiniku To Come in Dubai: A Visitor''s Guide'
+title: 'Hikiniku To Come in Dubai'
 description: 'Hikiniku To Come in Dubai, United Arab Emirates — a new/trending spot: what it is, where it is, and how to visit.'
 country: United Arab Emirates
 region: Dubai

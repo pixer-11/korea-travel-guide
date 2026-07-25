@@ -1,5 +1,5 @@
 ---
-title: 'Run Fun – The Eating Room in Hanoi: A Visitor''s Guide'
+title: 'Run Fun – The Eating Room in Hanoi'
 description: 'Run Fun – The Eating Room in Hanoi, Vietnam — a new/trending spot: what it is, where it is, and how to visit.'
 country: Vietnam
 region: Hanoi

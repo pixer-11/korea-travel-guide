@@ -1,5 +1,5 @@
 ---
-title: 'Saladaeng in Bangkok: A Visitor''s Guide'
+title: 'Saladaeng in Bangkok'
 description: 'Saladaeng in Bangkok, Thailand — a new/trending spot: what it is, where it is, and how to visit.'
 country: Thailand
 region: Bangkok

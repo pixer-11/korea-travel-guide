@@ -1,5 +1,5 @@
 ---
-title: 'Kiwon in Milan: A Visitor''s Guide'
+title: 'Kiwon in Milan'
 description: 'Kiwon in Milan, Italy — a new/trending spot: what it is, where it is, and how to visit.'
 country: Italy
 region: Milan

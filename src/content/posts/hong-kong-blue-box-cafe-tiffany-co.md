@@ -1,5 +1,5 @@
 ---
-title: 'Blue Box Café (Tiffany & Co.) in Hong Kong: A Visitor''s Guide'
+title: 'Blue Box Café (Tiffany & Co.) in Hong Kong'
 description: 'Blue Box Café (Tiffany & Co.) in Hong Kong, China — a new/trending spot: what it is, where it is, and how to visit.'
 country: China
 region: Hong Kong

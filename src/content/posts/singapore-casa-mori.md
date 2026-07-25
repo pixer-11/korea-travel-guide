@@ -1,5 +1,5 @@
 ---
-title: 'Casa Mori in Singapore: A Visitor''s Guide'
+title: 'Casa Mori in Singapore'
 description: 'Casa Mori in Singapore, Singapore — a new/trending spot: what it is, where it is, and how to visit.'
 country: Singapore
 region: Singapore

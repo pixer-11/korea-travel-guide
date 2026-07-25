@@ -1,5 +1,5 @@
 ---
-title: 'La Vie by Thomas Bühner in Taipei: A Visitor''s Guide'
+title: 'La Vie by Thomas Bühner in Taipei'
 description: 'La Vie by Thomas Bühner in Taipei, Taiwan — a new/trending spot: what it is, where it is, and how to visit.'
 country: Taiwan
 region: Taipei

@@ -1,5 +1,5 @@
 ---
-title: 'Cure Bali in Bali: A Visitor''s Guide'
+title: 'Cure Bali in Bali'
 description: 'Cure Bali in Bali, Indonesia — a new/trending spot: what it is, where it is, and how to visit.'
 country: Indonesia
 region: Bali

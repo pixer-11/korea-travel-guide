@@ -1,5 +1,5 @@
 ---
-title: 'Sabor in Singapore: A Visitor''s Guide'
+title: 'Sabor in Singapore'
 description: 'Sabor in Singapore, Singapore — a new/trending spot: what it is, where it is, and how to visit.'
 country: Singapore
 region: Singapore

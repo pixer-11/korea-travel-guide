@@ -1,5 +1,5 @@
 ---
-title: 'Eskal in Paris: A Visitor''s Guide'
+title: 'Eskal in Paris'
 description: 'Eskal in Paris, France — a new/trending spot: what it is, where it is, and how to visit.'
 country: France
 region: Paris

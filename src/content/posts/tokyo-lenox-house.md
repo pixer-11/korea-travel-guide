@@ -1,5 +1,5 @@
 ---
-title: 'Lenox House in Tokyo: A Visitor''s Guide'
+title: 'Lenox House in Tokyo'
 description: 'Lenox House in Tokyo, Japan — a new/trending spot: what it is, where it is, and how to visit.'
 country: Japan
 region: Tokyo

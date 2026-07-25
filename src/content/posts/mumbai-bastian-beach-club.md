@@ -1,5 +1,5 @@
 ---
-title: 'Bastian Beach Club in Mumbai: A Visitor''s Guide'
+title: 'Bastian Beach Club in Mumbai'
 description: 'Bastian Beach Club in Mumbai, India — a new/trending spot: what it is, where it is, and how to visit.'
 country: India
 region: Mumbai

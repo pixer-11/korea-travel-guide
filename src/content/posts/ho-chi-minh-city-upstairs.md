@@ -1,5 +1,5 @@
 ---
-title: 'Upstairs in Ho Chi Minh City: A Visitor''s Guide'
+title: 'Upstairs in Ho Chi Minh City'
 description: 'Upstairs in Ho Chi Minh City, Vietnam — a new/trending spot: what it is, where it is, and how to visit.'
 country: Vietnam
 region: Ho Chi Minh City

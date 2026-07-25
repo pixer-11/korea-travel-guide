@@ -1,5 +1,5 @@
 ---
-title: 'Tadhanà in Manila: A Visitor''s Guide'
+title: 'Tadhanà in Manila'
 description: 'Tadhanà in Manila, Philippines — a new/trending spot: what it is, where it is, and how to visit.'
 country: Philippines
 region: Manila

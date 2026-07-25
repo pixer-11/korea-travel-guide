@@ -1,5 +1,5 @@
 ---
-title: 'kinu in Istanbul: A Visitor''s Guide'
+title: 'kinu in Istanbul'
 description: 'kinu in Istanbul, Turkey — a new/trending spot: what it is, where it is, and how to visit.'
 country: Turkey
 region: Istanbul

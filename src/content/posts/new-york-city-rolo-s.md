@@ -1,5 +1,5 @@
 ---
-title: 'Rolo''s in New York City: A Visitor''s Guide'
+title: 'Rolo''s in New York City'
 description: 'Rolo''s in New York City, United States — a new/trending spot: what it is, where it is, and how to visit.'
 country: United States
 region: New York City

@@ -1,5 +1,5 @@
 ---
-title: 'Hakusi in Seoul: A Visitor''s Guide'
+title: 'Hakusi in Seoul'
 description: 'Hakusi in Seoul, South Korea — a new/trending spot: what it is, where it is, and how to visit.'
 country: South Korea
 region: Seoul

@@ -1,5 +1,5 @@
 ---
-title: 'TURK Fatih Tutak in Istanbul: A Visitor''s Guide'
+title: 'TURK Fatih Tutak in Istanbul'
 description: 'TURK Fatih Tutak in Istanbul, Turkey — a new/trending spot: what it is, where it is, and how to visit.'
 country: Turkey
 region: Istanbul

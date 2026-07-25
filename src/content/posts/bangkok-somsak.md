@@ -1,5 +1,5 @@
 ---
-title: 'Somsak in Bangkok: A Visitor''s Guide'
+title: 'Somsak in Bangkok'
 description: 'Somsak in Bangkok, Thailand — a new/trending spot: what it is, where it is, and how to visit.'
 country: Thailand
 region: Bangkok

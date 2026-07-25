@@ -1,5 +1,5 @@
 ---
-title: '8ish in Mumbai: A Visitor''s Guide'
+title: '8ish in Mumbai'
 description: '8ish in Mumbai, India — a new/trending spot: what it is, where it is, and how to visit.'
 country: India
 region: Mumbai

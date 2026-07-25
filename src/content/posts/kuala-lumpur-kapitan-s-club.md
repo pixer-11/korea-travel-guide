@@ -1,5 +1,5 @@
 ---
-title: 'Kapitan''s Club in Kuala Lumpur: A Visitor''s Guide'
+title: 'Kapitan''s Club in Kuala Lumpur'
 description: 'Kapitan''s Club in Kuala Lumpur, Malaysia — a new/trending spot: what it is, where it is, and how to visit.'
 country: Malaysia
 region: Kuala Lumpur

@@ -1,5 +1,5 @@
 ---
-title: 'Fuga R in Paris: A Visitor''s Guide'
+title: 'Fuga R in Paris'
 description: 'Fuga R in Paris, France — a new/trending spot: what it is, where it is, and how to visit.'
 country: France
 region: Paris

@@ -1,5 +1,5 @@
 ---
-title: 'Club Metrópolis in Madrid: A Visitor''s Guide'
+title: 'Club Metrópolis in Madrid'
 description: 'Club Metrópolis in Madrid, Spain — a new/trending spot: what it is, where it is, and how to visit.'
 country: Spain
 region: Madrid
