@@ -123,6 +123,24 @@ jobs:
             --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
             --data-urlencode "text=$TXT" >/dev/null || true
 
+      - name: Audit translation language purity
+        id: langaudit
+        continue-on-error: true
+        run: node scripts/audit-translations.mjs
+
+      - name: Warn on language-mix issues
+        if: steps.langaudit.outcome == 'failure'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
+          MSG=$(node scripts/audit-translations.mjs 2>&1 | head -20 || true)
+          TXT=$(printf '🌐 번역 언어 혼입 경고 (일일 자동발행)\n%s' "$MSG")
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+            --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
+            --data-urlencode "text=$TXT" >/dev/null || true
+
       - name: Notify Telegram
         if: always()
         env:
