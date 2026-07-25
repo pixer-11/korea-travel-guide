@@ -1,0 +1,56 @@
+name: Workflow lint (self-check)
+
+# Guard for a failure mode that is otherwise SILENT: a workflow file with
+# invalid YAML is simply ignored by GitHub — no run, no red X, nothing.
+# (Happened 2026-07-25: 4 workflows sat unrunnable until manually re-audited.)
+# This parses every workflow file on any change to .github/workflows and
+# alerts the owner in Korean if one is broken.
+on:
+  push:
+    paths:
+      - '.github/workflows/**'
+  schedule:
+    - cron: '35 15 * * 2' # weekly safety net, Tue 15:35 UTC
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Parse all workflow YAML
+        id: lint
+        run: |
+          npm install --no-save js-yaml >/dev/null 2>&1
+          node -e '
+            const yaml = require("js-yaml"), fs = require("fs");
+            const bad = [];
+            for (const f of fs.readdirSync(".github/workflows")) {
+              if (!/\.ya?ml$/.test(f)) continue;
+              try { yaml.load(fs.readFileSync(".github/workflows/" + f, "utf8")); }
+              catch (e) { bad.push(f + " — " + e.message.split("\n")[0]); }
+            }
+            if (bad.length) { fs.writeFileSync("/tmp/bad.txt", bad.join("\n")); process.exit(1); }
+            console.log("all workflows parse OK");
+          '
+
+      - name: Alert on broken workflow files
+        if: failure()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
+          {
+            echo "🚨 워크플로 파일 문법 오류 — GitHub가 해당 자동화를 조용히 무시하고 있습니다!"
+            cat /tmp/bad.txt 2>/dev/null || echo "(목록 확인 불가 — Actions 로그 참조)"
+            echo ""
+            echo "클로드에게 '워크플로 문법 고쳐줘'라고 말하면 수정합니다."
+          } > /tmp/msg.txt
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+            --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
+            --data-urlencode "text@/tmp/msg.txt" >/dev/null || true
