@@ -60,6 +60,7 @@ jobs:
           echo "new=$(echo "$summary" | sed 's/.*new=\([0-9]*\).*/\1/')" >> "$GITHUB_OUTPUT"
           echo "total=$(echo "$summary" | sed 's/.*total=\([0-9]*\).*/\1/')" >> "$GITHUB_OUTPUT"
           grep -q '^PIN_AUTH_FAILED' /tmp/pins.log && echo "auth_failed=true" >> "$GITHUB_OUTPUT" || true
+          grep -q '^PIN_TRIAL_BLOCKED' /tmp/pins.log && echo "trial_blocked=true" >> "$GITHUB_OUTPUT" || true
 
       - name: Commit pin state
         if: steps.gate.outputs.on == 'true'
@@ -99,5 +100,5 @@ jobs:
           JOB_STATUS: ${{ job.status }}
           NEW: ${{ steps.pins.outputs.new }}
           TOTAL: ${{ steps.pins.outputs.total }}
-          ZERO_NOTE: 'ℹ️ 새 핀 0개 — 모든 글이 이미 핀 되었거나, 이번 실행에서 핀할 새 글이 없었습니다.'
+          ZERO_NOTE: ${{ steps.pins.outputs.trial_blocked == 'true' && 'ℹ️ 새 핀 0개 — Pinterest Trial 등급은 실서비스 핀 생성이 막혀 있습니다. Standard 승격이 승인되면 자동으로 발행이 시작됩니다.' || 'ℹ️ 새 핀 0개 — 모든 글이 이미 핀 되었거나, 이번 실행에서 핀할 새 글이 없었습니다.' }}
         run: bash scripts/notify-telegram.sh "Pinterest"

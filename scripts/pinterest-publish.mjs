@@ -27,7 +27,8 @@ const ROOT = join(__dirname, '..');
 const POSTS_DIR = join(ROOT, 'src', 'content', 'posts');
 const STATE_FILE = join(ROOT, 'data', 'pinterest.json');
 const SITE_URL = 'https://wanderatlasguides.com';
-const API = 'https://api.pinterest.com/v5';
+// Overridable for API-sandbox testing (Trial apps can only create pins there).
+const API = process.env.PINTEREST_API_BASE || 'https://api.pinterest.com/v5';
 
 // Direct token (secret override) OR the OAuth refresh store (PINTEREST_APP_SECRET
 // + data/pinterest-token.enc) — resolved in main().
@@ -175,7 +176,7 @@ async function main() {
 
   console.log(`\n📌 Pinterest — ${posts.length} unpinned post(s), pinning ${batch.length} this run${DRY ? ' (DRY)' : ''}\n`);
 
-  let done = 0, failed = 0, authFailed = false;
+  let done = 0, failed = 0, authFailed = false, trialBlocked = false;
   for (const post of batch) {
     try {
       const img = await composePin(post);
@@ -202,6 +203,9 @@ async function main() {
     } catch (err) {
       failed++;
       console.log(`  ⚠️  ${post.slug} — ${err.message}`);
+      // Trial apps can't create production pins at all — NOT a token problem.
+      // Stop quietly; the workflow reports it as "waiting on Standard access".
+      if (/Trial access/i.test(err.message)) { trialBlocked = true; break; }
       if (err.status === 401 || err.status === 403) { authFailed = true; break; } // token dead — stop, alert
       if (err.status === 429) { console.log('  ⏸  rate-limited — stopping this run.'); break; }
     }
@@ -213,6 +217,7 @@ async function main() {
   const total = Object.keys(state.pinned).length;
   console.log(`\n📦 ${done} pinned · ${failed} failed · ${total} total pins\n`);
   if (authFailed) console.log('PIN_AUTH_FAILED'); // workflow turns this into a Korean Telegram alert
+  if (trialBlocked) console.log('PIN_TRIAL_BLOCKED');
   console.log(`PIN_SUMMARY new=${done} total=${total}`);
 }
 

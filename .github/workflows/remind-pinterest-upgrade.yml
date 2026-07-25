@@ -27,9 +27,9 @@ jobs:
           [ -f data/reminders/pinterest-upgrade-sent ] && { echo "Already sent — skipping."; exit 0; }
           [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
           cat > /tmp/msg.txt <<'MSG'
-📌 핀터레스트 Standard 승격 — 지금 신청하세요!
+📌 핀터레스트 Standard 승격 — 아직 신청 전이라면 지금 신청하세요!
 
-이틀치 핀이 쌓여서 승인받기 좋은 타이밍입니다. 5분이면 끝나요.
+Trial 등급은 실서비스 핀 생성이 막혀 있어서, Standard 승인이 나야 자동 발행이 시작됩니다. 이미 신청하셨다면 이 알림은 무시하세요.
 
 【신청 방법】
 1. developers.pinterest.com 접속 → 내 앱 → Wander Atlas Publisher 「관리」
@@ -37,7 +37,7 @@ jobs:
 3. 양식에 아래 문구를 붙여넣기 (영어가 심사에 유리)
 
 【앱 설명/사용 목적 칸】
-Wander Atlas Publisher automatically shares new travel guide articles from our own website, wanderatlasguides.com (domain verified on this Pinterest business account), as Pins. Each day, our publishing pipeline creates up to 8 Pins: it composes a 1000x1500 vertical image from the article's hero photo and title, and posts it to a country-specific board (e.g. "Japan Travel Guide") with a link back to the original article. We only publish our own editorial content to our own account — no user data is collected, no third parties are involved, and no content is read or written on behalf of other users. We are requesting Standard access so that the Pins we create via the API are publicly visible to Pinterest users, not only to our own account as under Trial access.
+Wander Atlas Publisher automatically shares new travel guide articles from our own website, wanderatlasguides.com (domain verified on this Pinterest business account), as Pins. Our pipeline is fully built and connected via OAuth: each day it composes a 1000x1500 vertical image from an article's hero photo and title, and posts up to 8 Pins to country-specific boards (e.g. "Italy Travel Guide", already created via the API) with links back to the original articles. Under Trial access, Pin creation on the production API is not permitted, so we are requesting Standard access to begin publishing. We only publish our own editorial content to our own account — no user data is collected, no third parties are involved, and no content is read or written on behalf of other users.
 
 【요청 범위(scopes) 칸】
 boards:read, boards:write, pins:read, pins:write, user_accounts:read
