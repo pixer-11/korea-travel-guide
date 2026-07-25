@@ -41,10 +41,12 @@ jobs:
       - name: Self-host venue photos
         env:
           GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
-          # No cap while clearing the 162 mismatched heroes — backfill.yml is paused,
-          # so this job can use the whole daily Places allowance. Stops cleanly on
-          # 429 and resumes next day. Restore a cap (e.g. 25) once caught up.
-          PHOTO_LIMIT: ${{ github.event.inputs.limit || '0' }}
+          # Cap = 25/run so this job never drains the whole day's Places quota — the
+          # daily auto-publish (generate.mjs) must keep enough headroom to run. The
+          # script now fixes OFF-TOPIC / mismatched heroes FIRST, so even a capped
+          # run clears the ugliest. Manual dispatch can override (limit 0 = no cap).
+          # Stops cleanly on 429 and resumes next day.
+          PHOTO_LIMIT: ${{ github.event.inputs.limit || '25' }}
           SLUGS: ${{ github.event.inputs.slugs || '' }}
         run: node scripts/backfill-venue-photos.mjs
 

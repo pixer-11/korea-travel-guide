@@ -11,6 +11,7 @@ import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { getPlaceById } from './lib/places.mjs';
 import { selfHostPlacePhoto } from './lib/images.mjs';
+import { OFFTOPIC } from './lib/offtopic.mjs';
 
 const POSTS_DIR = join(dirname(fileURLToPath(import.meta.url)), '..', 'src', 'content', 'posts');
 const LIMIT = Number(process.env.PHOTO_LIMIT || 0) || Infinity; // cap posts per run
@@ -35,14 +36,27 @@ const used = await usedUrls();
 let done = 0, already = 0, noplace = 0, failed = 0;
 let files = (await readdir(POSTS_DIR)).filter((x) => x.endsWith('.md'));
 if (ONLY.size) files = files.filter((f) => ONLY.has(f.replace(/\.md$/, '')));
-for (const f of files) {
-  if (done >= LIMIT) break;
-  const path = join(POSTS_DIR, f);
-  const src = await readFile(path, 'utf8');
 
+// Pre-scan → candidates (place.id posts that still need a self-hosted photo).
+// Off-topic / mismatched heroes (the OFFTOPIC blocklist — a restaurant showing a
+// moth specimen, a dune-bashing car, etc.) are sorted FIRST so the ugliest get
+// fixed within the day's quota before the merely-not-yet-hosted ones.
+const candidates = [];
+for (const f of files) {
+  const src = await readFile(join(POSTS_DIR, f), 'utf8');
   const id = placeId(src);
   if (!id) { noplace++; continue; }                       // placeless post
-  if (heroUrl(src).includes('/venue-photos/')) { already++; continue; } // done already
+  const hero = heroUrl(src);
+  if (hero.includes('/venue-photos/')) { already++; continue; } // done already
+  let flagged = 1;
+  try { if (OFFTOPIC.test(decodeURIComponent(hero))) flagged = 0; } catch { /* keep 1 */ }
+  candidates.push({ f, src, id, flagged });
+}
+candidates.sort((a, b) => a.flagged - b.flagged); // mismatched heroes first
+
+for (const { f, src, id } of candidates) {
+  if (done >= LIMIT) break;
+  const path = join(POSTS_DIR, f);
 
   let place;
   try {
