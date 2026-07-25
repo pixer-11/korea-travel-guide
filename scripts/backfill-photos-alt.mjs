@@ -56,13 +56,24 @@ for (const f of files) {
   const { data, content } = matter(await readFile(path, 'utf8'));
   if (!data.place?.name) continue; // venue posts only — placeless/events keep their pipeline
 
+  // AUDIT_ALL=1 → EVERY venue post is vision-checked (catches name-collision
+  // cases the filename heuristic can't see, e.g. Rolo's restaurant wearing a
+  // Rolo-candy photo). Default mode only touches the known backlog.
   const isTarget =
+    process.env.AUDIT_ALL === '1' ||
     ONLY.length > 0 ||
     data.draft === true ||
     vmismatch.has(slug) ||
     (data.heroImage?.url || '').includes('placeholder');
   if (!isTarget) continue;
   scanned++;
+
+  // Current hero first: if the AI approves what's already there, keep it.
+  if (data.heroImage?.url && data.draft !== true) {
+    const cur = await verifyHeroImage({ url: data.heroImage.url, name: data.place.name, category: data.category, region: data.region, country: data.country });
+    if (cur.ok) continue;
+    console.log(`  ✗  ${slug}: current hero rejected (${cur.reason}) — replacing`);
+  }
 
   const ctx = { name: data.place.name, category: data.category, region: data.region, country: data.country };
   const cands = await venuePhotoCandidates({ name: data.place.name, lat: data.place.lat, lng: data.place.lng });
@@ -86,7 +97,15 @@ for (const f of files) {
   if (!done) {
     unfixed++;
     rewriteList.push(slug);
-    console.log(`  ⚠️  ${slug}: no candidate passed vision (${cands.length} tried)`);
+    // Accuracy rule: a KNOWN-wrong photo may not stay live — quarantine until a
+    // real photo or a venue rewrite restores the post.
+    if (!DRY && data.draft !== true) {
+      data.draft = true;
+      await writeFile(path, `---\n${yaml.dump(data, { lineWidth: -1, noRefs: true, sortKeys: false })}---\n${content}`, 'utf8');
+      console.log(`  🚫 ${slug}: quarantined (draft) — no passing candidate (${cands.length} tried)`);
+    } else {
+      console.log(`  ⚠️  ${slug}: no candidate passed vision (${cands.length} tried)`);
+    }
   }
 }
 

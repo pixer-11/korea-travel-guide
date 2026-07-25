@@ -59,7 +59,10 @@ const TRANSLATIONS = regionsJson as Record<string, Partial<Record<Lang, RegionIn
 // a full translation or none). Returns null for regions with no curated info at
 // all (they render the generic fallback intro) — same behaviour in every language.
 export function getRegionInfo(region: string, lang: Lang): RegionInfo | null {
-  const en = REGION_INFO_EN[region];
+  // English source: the 6 hand-curated cities live here in code; every other
+  // city is generated (web-search-grounded) by scripts/gen-region-intros.mjs
+  // into regions.json under an `en` key.
+  const en = REGION_INFO_EN[region] ?? (TRANSLATIONS[region] as any)?.en ?? null;
   if (!en) return null;
   if (lang === defaultLang) return en;
   return TRANSLATIONS[region]?.[lang] ?? en;

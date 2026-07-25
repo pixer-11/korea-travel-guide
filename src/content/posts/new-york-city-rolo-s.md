@@ -27,7 +27,7 @@ faq:
   - q: How long should I plan to spend there, and what else is nearby?
     a: Budget 1.5–2 hours for a relaxed meal. Ridgewood has a growing strip of bars and cafes nearby, so pair dinner with a walk through the neighborhood before or after.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Rolo's stands out

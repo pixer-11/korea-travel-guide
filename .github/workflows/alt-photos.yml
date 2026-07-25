@@ -16,6 +16,10 @@ on:
         description: 'Max posts this run'
         required: false
         default: '300'
+      audit_all:
+        description: 'true = vision-check EVERY venue post (full sweep), not just the known backlog'
+        required: false
+        default: 'true'
 
 permissions:
   contents: write
@@ -52,6 +56,7 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           SLUGS: ${{ github.event.inputs.slugs }}
           LIMIT: ${{ github.event.inputs.limit || '300' }}
+          AUDIT_ALL: ${{ github.event.inputs.audit_all == 'false' && '' || '1' }}
         run: |
           set -o pipefail
           node scripts/backfill-photos-alt.mjs | tee /tmp/alt.log

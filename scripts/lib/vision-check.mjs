@@ -29,7 +29,7 @@ async function fetchAsBase64(url) {
 export async function verifyHeroImage({ url, name, category, region, country, eventMode = false }) {
   if (!process.env.ANTHROPIC_API_KEY) return { ok: true, reason: 'no-api-key (skipped)' };
   const what = eventMode
-    ? `the event "${name}" (an ${category}) in ${region}, ${country} — the performer/athlete/venue or the event type itself is acceptable`
+    ? `the event "${name}" (a ${category}) in ${region}, ${country}. IMPORTANT for events: a photo of the performer/athlete/team TAKEN ANYWHERE (any country, any venue, foreign signage in background is fine), or of this event type (e.g. an MMA cage, a concert stage, a race), is a CORRECT hero — do NOT require the host city to be visible`
     : `"${name}" — a ${category} in ${region}, ${country}`;
   let data;
   try {

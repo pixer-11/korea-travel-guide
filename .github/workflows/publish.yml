@@ -72,6 +72,16 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: node scripts/translate-country-blurbs.mjs
 
+      # Region intro fact-boxes ("getting there / how long") for any city that
+      # just got its FIRST post — web-search-grounded EN + 4 translations.
+      # Idempotent: covered cities are skipped, so this is a no-op most days.
+      - name: Generate region intros for new cities
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CONCURRENCY: '2'
+        run: node scripts/gen-region-intros.mjs
+
       - name: Build hero photo-wall thumbnails
         run: node scripts/build-wall.mjs
 
@@ -80,7 +90,7 @@ jobs:
         run: |
           git config user.name "content-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add src/content/posts src/content/i18n data/published.json public/wall data/wall.json src/i18n/places.json src/i18n/country-blurbs.json
+          git add src/content/posts src/content/i18n data/published.json public/wall data/wall.json src/i18n/places.json src/i18n/country-blurbs.json src/i18n/regions.json
           new=$(git diff --cached --name-only --diff-filter=A -- src/content/posts | grep -c '\.md$' || true)
           total=$(ls src/content/posts/*.md | wc -l | tr -d ' ')
           echo "new=$new" >> "$GITHUB_OUTPUT"
