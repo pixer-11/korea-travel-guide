@@ -3,6 +3,7 @@ import { getCollection, render } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Newsletter from './Newsletter.astro';
 import ShareRow from './ShareRow.astro';
+import countriesData from '../../data/countries.json';
 import Hotels from './Hotels.astro';
 import Tours from './Tours.astro';
 import PlanTrip from './PlanTrip.astro';
@@ -47,12 +48,11 @@ const countrySlug = country.toLowerCase().replace(/\s+/g, '-');
 // City-states (Singapore, Hong Kong) set region === country, which would render
 // a duplicated "Singapore / Singapore" breadcrumb — collapse it to one crumb.
 const sameRegionCountry = d.region.toLowerCase() === country.toLowerCase();
-const COUNTRY_ISO: Record<string, string> = {
-  'South Korea': 'KR', Japan: 'JP', 'United States': 'US', Thailand: 'TH',
-  France: 'FR', Italy: 'IT', China: 'CN', Spain: 'ES', Vietnam: 'VN',
-  'United Arab Emirates': 'AE', Taiwan: 'TW', Indonesia: 'ID', Malaysia: 'MY',
-  India: 'IN', Philippines: 'PH', Turkey: 'TR', Singapore: 'SG',
-};
+// Derived from data/countries.json rather than a hand-typed map, so a newly added
+// country keeps `addressCountry` in its schema instead of silently losing it.
+const COUNTRY_ISO: Record<string, string> = Object.fromEntries(
+  countriesData.countries.map((c: { name: string; iso2: string }) => [c.name, c.iso2.toUpperCase()])
+);
 const countryISO = COUNTRY_ISO[country];
 
 // Peak-intent affiliate links for the top "Book this trip" band (city-specific,

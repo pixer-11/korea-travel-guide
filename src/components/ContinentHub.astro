@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import { continentLabel } from '../lib/continents';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Flag from './Flag.astro';
 import Emoji from './Emoji.astro';
@@ -13,7 +14,7 @@ import { localizeBlurb } from '../i18n/countryBlurbs';
 interface Props { continentName: string; countries: any[]; lang: Lang }
 const { continentName, countries, lang } = Astro.props;
 const t = useTranslations(lang);
-const contLabelName = t(`continent.${continentName}` as any);
+const contLabelName = continentLabel(t, continentName);
 
 const CONTINENT_ICON: Record<string, string> = { Asia: 'globe-showing-asia-australia', Europe: 'globe-showing-europe-africa', 'North America': 'globe-showing-americas', 'South America': 'globe-showing-americas', Africa: 'globe-showing-europe-africa', Oceania: 'globe-showing-asia-australia', Other: 'world-map' };
 const liveCount = countries.filter((c) => c.count > 0).length;

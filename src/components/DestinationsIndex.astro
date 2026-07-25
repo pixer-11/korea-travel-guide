@@ -5,6 +5,7 @@ import Flag from './Flag.astro';
 import { SITE } from '../siteConfig';
 import { pickRepHeroUrl } from '../lib/repImage';
 import countriesData from '../../data/countries.json';
+import { orderedContinents, continentLabel } from '../lib/continents';
 import { useTranslations, localizePath, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 import { localizeBlurb } from '../i18n/countryBlurbs';
@@ -14,7 +15,7 @@ import { localizeBlurb } from '../i18n/countryBlurbs';
 interface Props { lang: Lang }
 const { lang } = Astro.props;
 const t = useTranslations(lang);
-const contLabel = (name: string) => t(`continent.${name}` as any);
+const contLabel = (name: string) => continentLabel(t, name);
 
 const posts = await getCollection('posts', ({ data }) => !data.draft);
 posts.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
@@ -22,7 +23,7 @@ const countFor = (name: string) => posts.filter((p) => (p.data.country ?? 'South
 const repImage = (name: string) => pickRepHeroUrl(posts.filter((p) => (p.data.country ?? 'South Korea') === name));
 const countries = countriesData.countries.map((c) => ({ ...c, count: countFor(c.name) }));
 
-const CONTINENT_ORDER = ['Asia', 'Europe', 'North America', 'South America', 'Africa', 'Oceania', 'Other'];
+const CONTINENT_ORDER = orderedContinents();
 const byContinent: Record<string, any[]> = {};
 for (const c of countries) (byContinent[c.continent || 'Other'] ||= []).push(c);
 const continents = CONTINENT_ORDER.filter((k) => byContinent[k]).map((k) => ({

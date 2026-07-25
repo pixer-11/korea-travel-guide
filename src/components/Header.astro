@@ -7,6 +7,7 @@ import { SITE } from '../siteConfig';
 import { getLangFromUrl, useTranslations, localizePath, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 import countriesData from '../../data/countries.json';
+import { orderedContinents, continentSlug, continentLabel } from '../lib/continents';
 
 interface Props { availableLangs?: Lang[] }
 const { availableLangs } = Astro.props;
@@ -17,8 +18,8 @@ const posts = await getCollection('posts', ({ data }) => !data.draft);
 const live = countriesData.countries.filter((c) =>
   posts.some((p) => (p.data.country ?? 'South Korea') === c.name)
 );
-const CONT_ORDER = ['Asia', 'Europe', 'North America', 'South America', 'Africa', 'Oceania', 'Other'];
-const contSlug = (name) => name.toLowerCase().replace(/\s+/g, '-');
+const CONT_ORDER = orderedContinents();
+const contSlug = continentSlug;
 const navGroups = CONT_ORDER
   .map((k) => ({ name: k, slug: contSlug(k), countries: live.filter((c) => (c.continent || 'Other') === k) }))
   .filter((g) => g.countries.length);
@@ -51,9 +52,9 @@ const navGroups = CONT_ORDER
         <div class="nav-dd-menu">
           {navGroups.map((g) => (
             <div class="nav-cont" data-cont={g.slug}>
-              <a class="nav-dd-head nav-dd-head-link" href={localizePath(`/continents/${g.slug}`, lang)}>{t(`continent.${g.name}` as any)} →</a>
-              <button type="button" class="nav-drill" data-to="3" data-cont={g.slug} data-label={t(`continent.${g.name}` as any)}>
-                {t(`continent.${g.name}` as any)} <span aria-hidden="true">›</span>
+              <a class="nav-dd-head nav-dd-head-link" href={localizePath(`/continents/${g.slug}`, lang)}>{continentLabel(t, g.name)} →</a>
+              <button type="button" class="nav-drill" data-to="3" data-cont={g.slug} data-label={continentLabel(t, g.name)}>
+                {continentLabel(t, g.name)} <span aria-hidden="true">›</span>
               </button>
               <div class="nav-cont-list">
                 {g.countries.map((c) => (

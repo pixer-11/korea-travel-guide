@@ -55,6 +55,15 @@ jobs:
           TRANSLATE_CONCURRENCY: '8'
         run: node scripts/translate-posts.mjs
 
+      # Country/city NAMES for ko/ja/es/zh. Idempotent (skips what it already has),
+      # so this only costs anything when a new country or city appears — without it
+      # a newly added destination shows its English name on every localized page.
+      - name: Translate new place names (ko/ja/es/zh)
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/build-place-names.mjs
+
       - name: Build hero photo-wall thumbnails
         run: node scripts/build-wall.mjs
 
@@ -63,7 +72,7 @@ jobs:
         run: |
           git config user.name "content-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add src/content/posts src/content/i18n data/published.json public/wall data/wall.json
+          git add src/content/posts src/content/i18n data/published.json public/wall data/wall.json src/i18n/places.json
           new=$(git diff --cached --name-only --diff-filter=A -- src/content/posts | grep -c '\.md$' || true)
           total=$(ls src/content/posts/*.md | wc -l | tr -d ' ')
           echo "new=$new" >> "$GITHUB_OUTPUT"
