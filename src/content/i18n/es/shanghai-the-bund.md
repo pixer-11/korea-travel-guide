@@ -17,8 +17,6 @@ faq:
     a: La calle peatonal de Nanjing Road conecta directamente con el Bund, y el Jardín Yuyuan y la zona del Templo del Dios de la Ciudad Antigua están a un corto trayecto en taxi hacia el sur.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por editores, con apoyo de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El Bund (Waitan) es el tramo ribereño por excelencia de Shanghái, un paseo de 1.500 metros a lo largo de Zhongshan Dong Yi Road, en el distrito de Huangpu. Su fama se debe al contraste que ofrece: en el lado occidental se alza una hilera de más de 20 edificios de principios del siglo XX en estilos gótico, barroco, románico y art déco, vestigios de la época en que Shanghái fue un puerto de tratado y un centro financiero internacional. En el lado oriental, al otro lado del río Huangpu, se eleva el horizonte de Pudong: la Torre de la Perla Oriental, la Torre Jin Mao, el Centro Financiero Mundial de Shanghái (apodado "el abrebotellas") y la Torre de Shanghái, actualmente entre los edificios más altos del mundo. Pocos lugares condensan de forma tan clara la transformación de la ciudad en una sola línea visual.

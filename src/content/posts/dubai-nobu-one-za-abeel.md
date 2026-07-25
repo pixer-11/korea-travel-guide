@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why go
 
 Nobu needs little introduction — the Nobu Matsuhisa-founded chain built its global reputation on Japanese cooking filtered through Peruvian technique, and this is its third location in Dubai. What sets the One Za'abeel branch apart isn't the menu so much as the setting: it occupies part of The Link, the record-breaking horizontal sky-bridge structure that joins One Za'abeel's twin towers about 230 metres above street level. That makes it one of the highest-set restaurants in a city that doesn't lack for altitude, with floor-to-ceiling views over the Downtown Dubai and DIFC skylines. For visitors who want the Nobu experience with a Dubai-specific reason to choose this branch over the others, the view is the differentiator.

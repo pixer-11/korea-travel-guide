@@ -17,8 +17,6 @@ faq:
     a: No de forma fiable en los locales familiares más pequeños. Se recomienda aprender algunas palabras coreanas relacionadas con la comida (sundubu, makguksu, hoe) o usar una aplicación de traducción.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Las imágenes están bajo licencia o son de dominio público. Se trata de una descripción general de la zona o el tema; verifica los detalles concretos de cada local antes de visitarlo. Consulta nuestra [política editorial](/about).
-
 ## Por qué merece la pena buscar los restaurantes locales de Gangneung
 
 Gangneung, en la costa de la provincia de Gangwon-do, en Corea, construyó su identidad gastronómica a partir de dos elementos: el Mar del Este y la tradición centenaria del tofu del Pueblo de Chodang (Chodang Village). A diferencia de la escena culinaria de Seúl, marcada por las tendencias, los restaurantes locales de Gangneung suelen ser negocios pequeños y familiares transmitidos de generación en generación: la casa de sundubu de una abuela, un puesto del mercado que vende caballa a la parrilla, una fideería que lleva décadas sirviendo la misma receta de caldo. Comer aquí tiene menos que ver con el espectáculo y más con probar un lugar concreto: un tofu de agua salobre que casi no se encuentra en ningún otro sitio de Corea, y fideos y mariscos moldeados por una economía pesquera de aguas frías.

@@ -17,8 +17,6 @@ faq:
     a: Calcula entre 60 y 90 minutos para una comida completa de mariscos. La ubicación del restaurante, justo en la playa de Al Hirah, hace que sea fácil combinarlo con un paseo por la corniche o una visita más larga al frente marítimo de Sharjah y a las atracciones cercanas de la ciudad.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Arabian Fish House se encuentra justo en la playa de Al Hirah (también escrita Al Heera), en el área del suburbio de Al Fisht/Alheera en Sharjah, y su calificación de 4.9 en aproximadamente 7,900 reseñas lo sitúa entre los lugares de mariscos mejor valorados del emirato de manera constante. Es un restaurante de mariscos en el sentido más directo: eliges tu pescado, se pesa, se cocina a la parrilla o frito según tu preferencia, y se sirve con arroz, ensaladas y pan mientras contemplas el Golfo. El nivel de precio es moderado (nivel 2 de 4), por lo que se ubica cómodamente entre un puesto rápido de comida en la playa y un restaurante formal de alta cocina de mariscos: el tipo de lugar donde una familia o un grupo pequeño puede comer bien sin necesitar un presupuesto de ocasión especial.

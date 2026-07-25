@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why Smith & Wollensky in Tokyo Is a Big Deal
 
 Smith & Wollensky has been a fixture of New York's steakhouse scene since 1977, known for its clubby, wood-and-brass dining rooms and USDA Prime dry-aged beef. Its arrival in Ginza marks the brand's first-ever Japan outpost, and the scale of the build-out — a full three floors — signals how seriously the operators are treating the debut. For Tokyo diners who have long associated top-tier beef with wagyu counters and yakiniku grills, this is a chance to try the classic American steakhouse format: thick-cut Prime steaks, dry-aging, and the kind of hearty, unfussy hospitality the chain is famous for back in the US.

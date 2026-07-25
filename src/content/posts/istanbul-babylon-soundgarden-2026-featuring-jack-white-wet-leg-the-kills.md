@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why go
 
 Babylon has been Istanbul's most respected name in curated live music for over two decades, and its annual Soundgarden festival is the closest thing the city has to a boutique international rock/alt festival. The 2026 edition is a genuine draw for global touring acts: Jack White (of The White Stripes fame), the buzzy UK duo Wet Leg, and garage-rock veterans The Kills headline a bill that leans heavily indie, garage and alternative rock rather than mainstream pop or EDM. For visitors already planning a Turkey trip around late August, it's a rare chance to catch acts of this caliber in an open-air park setting rather than an arena.

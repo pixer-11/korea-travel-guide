@@ -17,8 +17,6 @@ faq:
     a: De octubre a abril resulta más agradable para sentarse en el patio; en cuanto al horario del día, el almuerzo o el atardecer suelen ser más tranquilos que las horas pico de la cena.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Al Khayma Heritage Restaurant es uno de los lugares más comentados de Dubái para comer cocina tradicional emiratí en un entorno acorde: un patio inspirado en una "khayma" (tienda) beduina, con asientos bajos, textiles tejidos y luz de faroles. Se ubica dentro del Barrio Histórico de Al Fahidi (Al Fahidi Historical Neighbourhood), el barrio de las torres de viento que también alberga el Museo de Dubái y el Centro Sheikh Mohammed para el Entendimiento Cultural (Sheikh Mohammed Centre for Cultural Understanding), por lo que funciona tanto como parada para comer como referencia cultural en un paseo por el antiguo Bur Dubái. Con una calificación de 4.9 sobre aproximadamente 17,700 reseñas, no es un hallazgo discreto: se ha convertido en un destino por derecho propio, y las multitudes lo confirman.

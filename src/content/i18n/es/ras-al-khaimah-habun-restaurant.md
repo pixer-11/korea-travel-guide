@@ -17,8 +17,6 @@ faq:
     a: Combínalo con un día a lo largo de la Corniche de RAK, las playas de la isla Al Marjan, o una excursión a Jebel Jais, y termina la noche cenando en Khuzam, ya que está a poca distancia en coche tierra adentro desde la mayoría de esos lugares.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos se han extraído de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El restaurante Habun se ha ganado en silencio una de las puntuaciones más altas de cualquier local de Ras Al Khaimah: un promedio de 4,8 sobre 642 reseñas no es una cifra en la que un restaurante tropieza por accidente. Se encuentra en Khuzam, dentro de la zona de Grove Village, alejado de los resorts de playa y los centros comerciales que acaparan la atención de la mayoría de los visitantes. Esa ubicación forma parte de su atractivo: es un restaurante que ha construido su reputación de manera local y orgánica, más que gracias al tránsito de las zonas turísticas, y sigue pasando desapercibido para la mayoría de los visitantes pese a las cifras que lo respaldan.

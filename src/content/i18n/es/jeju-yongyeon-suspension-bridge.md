@@ -17,8 +17,6 @@ faq:
     a: La Roca Yongduam (Cabeza de Dragón) está a 10 minutos a pie por la costa, y el centro de Jeju City, con el Mercado Dongmun y la calle gastronómica Chilsipni, está a unos 10-15 minutos en coche.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Yongyeon ("Estanque del Dragón") es una ensenada corta y profunda donde un arroyo de agua dulce se encuentra con el mar, rodeada de acantilados de basalto cubiertos de vegetación que se curvan como un anfiteatro natural. Un único puente colgante rojo y un pabellón de estilo tradicional cruzan el punto más estrecho, y todo el conjunto es lo bastante compacto como para sentirse íntimo en lugar de monumental. Con una calificación de 4.2 basada en más de 2,600 reseñas, tiene seguidores fieles, pero sigue siendo el tipo de parada que muchos visitantes de Jeju City se saltan a favor de atracciones más conocidas, lo cual lo mantiene relativamente tranquilo, especialmente fuera del horario del atardecer.

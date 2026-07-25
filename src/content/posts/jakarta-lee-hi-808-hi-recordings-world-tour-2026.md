@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why this show matters
 
 Lee Hi, the South Korean singer known for her smoky, soul-inflected vocals on tracks like "1, 2, 3, 4," "Breathe," and "Rose," is bringing her *808 HI Recordings* world tour to Indonesia for the very first time. This Jakarta date marks her first-ever solo concert in the country, which is a notable milestone for her local fanbase after years of only catching her at group showcases or festival lineups. Joining her is special guest DOK2, a veteran Korean rapper and producer, which suggests the night will lean into a hip-hop-and-R&B-flavored set rather than a straight pop showcase. For fans of Korean R&B and AOMG/hip-hop adjacent acts, this is a rare chance to see both artists on Indonesian soil.

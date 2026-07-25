@@ -17,8 +17,6 @@ faq:
     a: Los conciertos en estadios de esta magnitud suelen abrir puertas varias horas antes de que salga el cabeza de cartel, y los fans de pista o zona preferente suelen hacer cola desde la tarde. Dado el probable calor de finales de agosto/principios de septiembre en ambas ciudades, conviene llevar agua y protección solar si se llega con antelación.
 ---
 
-> **Cómo se elaboró esta guía:** Revisado por un editor, con asistencia de IA, usando fuentes web actuales. Las fechas de los eventos y las entradas cambian: confirma siempre en la web oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué esta serie de conciertos es especial
 
 Cuatro conciertos en estadios en cinco días repartidos en dos ciudades es un tramo europeo inusualmente denso: tres noches consecutivas en Madrid seguidas de una única fecha en Barcelona plantea exigencias logísticas reales para quienes planean ver más de un concierto. La producción de After Hours Til Dawn de The Weeknd se ha apoyado en una arquitectura escénica elaborada, sistemas de iluminación y un arco visual narrativo construido en torno a su alter ego de After Hours/Dawn FM, así que hay que esperar un espectáculo a gran escala, de arena convertida en estadio, y no un montaje reducido. Playboi Carti como telonero añade un contraste de rap más contundente antes del pop-R&B más introspectivo y con base de sintetizadores del cabeza de cartel.

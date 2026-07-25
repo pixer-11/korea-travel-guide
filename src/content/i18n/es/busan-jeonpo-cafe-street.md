@@ -17,8 +17,6 @@ faq:
     a: Seomyeon, el principal distrito comercial y gastronómico de Busan, con el Lotte Department Store y galerías comerciales subterráneas, está a solo un corto paseo de la calle de cafeterías.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Datos como las calificaciones y la ubicación provienen de datos en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Jeonpo Cafe Street se ganó su fama como uno de los barrios más fotogénicos de Busan al transformar lo que antes era un tranquilo distrito residencial y de talleres de imprenta en una densa franja de cafeterías, pastelerías y bares de diseño independiente. A diferencia de las hileras de cafeterías corporativas y pulidas que se encuentran cerca de los grandes almacenes, el encanto de Jeonpo radica en sus edificios de ladrillo bajos y algo desaliñados y en sus casas reconvertidas, muchas de las cuales todavía conservan los techos bajos y los callejones estrechos del barrio original. Los locales suelen mencionarlo junto a los barrios seulitas de Yeonnam-dong o Seongsu-dong: una zona que creció de manera orgánica a medida que jóvenes emprendedores y diseñadores se instalaban allí y reutilizaban edificios antiguos en lugar de demolerlos. Con una calificación de 4.2 basada en más de 2,000 reseñas, se ha consolidado como un lugar de referencia para los propios residentes de Busan, no solo para los turistas.

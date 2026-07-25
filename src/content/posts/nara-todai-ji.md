@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Tōdai-ji matters
 
 Tōdai-ji was founded in the mid-8th century under Emperor Shōmu as the head temple of the Kegon school of Buddhism and the central temple of a nationwide network of provincial temples. Its main hall, the Daibutsuden ("Hall of the Great Buddha"), has burned down and been rebuilt twice; the current structure dates mainly from the Edo period but is still one of the largest wooden buildings on Earth, even though it's smaller than the original 8th-century version. Inside sits the Daibutsu, a seated bronze Buddha (Vairocana) roughly 15 meters tall, cast in stages over several years using an enormous amount of bronze and gold — a feat of engineering that reportedly strained Japan's economy at the time. With a 4.7 rating across more than 31,000 reviews, it's consistently ranked among Japan's most-visited historic sites, and it's part of the UNESCO World Heritage designation "Historic Monuments of Ancient Nara."

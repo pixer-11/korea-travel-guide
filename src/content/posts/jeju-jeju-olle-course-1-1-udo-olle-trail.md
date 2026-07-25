@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Course 1-1 is a spur of Jeju's famous Olle Trail network, laid out entirely on Udo (literally "Cow Island"), a small volcanic islet a short ferry ride from Jeju's east coast. Unlike the mainland Jeju routes, this one circles an island within an island — roughly 11.5km of coastal path taking in black basalt shorelines, turquoise shallows, grazing cattle in open pasture, and a lighthouse-topped hill with sweeping views back toward Seongsan Ilchulbong, Jeju's iconic tuff cone. It's popular precisely because Udo packs an outsized variety of scenery — beach, cliff, farmland, fishing village — into an island you can circle in a few hours. With a 4.5 rating across local reviews, it's consistently rated as one of the more rewarding Olle detours, especially for visitors who want a lower-key alternative to Jeju's more crowded main-island hikes.

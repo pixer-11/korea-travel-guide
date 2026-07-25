@@ -29,8 +29,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting. See our [editorial policy](/about).
-
 ## Why Jeju's Nature Stands Apart
 
 Jeju Island is a shield volcano rising from the sea, and its entire landscape reflects that origin: black basalt coastlines, hundreds of parasitic cones called oreum (there are more than 360 scattered across the island), and an extensive network of lava tube caves. UNESCO recognized this volcanic system — Hallasan, the Geomunoreum lava tube system, and Seongsan Ilchulbong — as a World Natural Heritage site in 2007, and the whole island is also a UNESCO Biosphere Reserve. Unlike mainland Korea's granite mountain ranges, Jeju feels distinctly subtropical near the coast and alpine near its summit, sometimes within the same day's drive.

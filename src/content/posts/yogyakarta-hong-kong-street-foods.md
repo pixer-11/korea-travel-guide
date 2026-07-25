@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Yogyakarta's dining scene is dominated by gudeg, angkringan carts, and Javanese warungs, so a restaurant built entirely around Hong Kong street-food staples stands out. Hong Kong Street Foods has built a strong local reputation (4.7 stars across nearly 1,200 reviews) without yet becoming a fixture on international tourist itineraries — which means you can walk in on most weeknights and actually get a table. The appeal is straightforward: char siu (barbecued pork) with that glossy caramelized edge, wonton noodle soup with thin egg noodles and springy shrimp-pork dumplings, and other Cantonese-style snacks that are hard to find elsewhere in the city.

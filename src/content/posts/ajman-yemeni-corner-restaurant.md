@@ -93,8 +93,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Mandi is one of the Arabian Peninsula's great communal dishes — rice cooked in meat drippings and broth, topped with lamb or chicken that's been slow-cooked in a sealed underground pit (or a modern gas-fired version of one) until it falls off the bone. Yemeni Corner Restaurant has built its reputation on doing this well and consistently, which is reflected in a 4.8 rating across more than 2,100 reviews — a volume and score that put it firmly among Ajman's most talked-about casual eateries. This isn't a hidden find; it's a well-known name locals and visitors alike cite when the conversation turns to where to get proper mandi in the emirate.

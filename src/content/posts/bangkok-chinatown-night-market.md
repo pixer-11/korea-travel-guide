@@ -78,8 +78,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Go
 
 Bangkok's Chinatown, known locally as Yaowarat, has been a center of Chinese-Thai commerce and street food since the late 18th century, when Chinese merchants settled along the Chao Phraya River. Today the Chinatown Night Market (centered around Maha Chak Road and Yaowarat Road, Samphanthawong district) is one of the most concentrated stretches of street-food stalls in the city, with a Google rating of 4.5 from nearly 3,900 reviews — a strong signal for a destination with no fixed menu and constantly rotating vendors. This isn't a curated food hall; it's a living, chaotic market where woks fire up after dark and the smell of charcoal-grilled seafood mixes with incense from nearby shrines.

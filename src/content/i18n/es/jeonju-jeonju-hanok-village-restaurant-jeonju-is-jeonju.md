@@ -17,8 +17,6 @@ faq:
     a: Los restaurantes más grandes suelen aceptar tarjeta, pero los puestos pequeños y los vendedores callejeros muchas veces prefieren o exigen efectivo, así que lleva algo de wones coreanos de respaldo.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué Jeonju es, ante todo, un destino gastronómico
 
 Jeonju lleva mucho tiempo considerada la capital gastronómica extraoficial de Corea del Sur, y la afirmación no es solo marketing: es el lugar de nacimiento reconocido del bibimbap tal como lo conoce hoy la mayoría de los coreanos, y la ciudad ostenta la designación de la UNESCO como "Ciudad de la Gastronomía". El motivo para venir aquí no es un único plato emblemático, sino toda una cultura culinaria en capas: pastas fermentadas de soja y de chile elaboradas con un agua local famosa por su calidad, una cultura de mercados centenaria y una aldea hanok que ha convertido la comida tradicional en su principal atractivo turístico. Los restaurantes dentro de la aldea abrazan esta identidad con fuerza, que es justo lo que busca un visitante: no hay que buscar la autenticidad, está por todas partes.

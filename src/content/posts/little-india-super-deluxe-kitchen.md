@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 With a 4.9 rating across more than 2,500 reviews, Super Deluxe Kitchen has built a loyal following for consistently good North and South Indian cooking in the heart of Little India. It's not a heritage institution with a decades-long backstory — it's a newer-generation Indian kitchen that's earned its popularity through the food itself: well-spiced curries, fresh tandoor breads, and biryani that draws repeat customers. The Upper Weld Road address puts it just off the main tourist drag of Serangoon Road, so you get the neighborhood's authentic energy without fighting through the busiest stretch of Little India's shopfronts.

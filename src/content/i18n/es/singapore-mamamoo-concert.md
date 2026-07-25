@@ -17,8 +17,6 @@ faq:
     a: La zona de Kallang tiene opciones de comida callejera (hawker) como el Old Airport Road Food Centre, y Marina Bay Sands y Gardens by the Bay están a unos 15-20 minutos en taxi si quieres extender la visita.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Las fechas de eventos y las entradas cambian: confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué importa este show
 
 MAMAMOO —Solar, Moonbyul, Wheein y Hwasa— es uno de los grupos femeninos más duraderos del K-pop, conocido por su potencia vocal, su discografía que salta entre géneros (del funk retro a las baladas y el hip-hop) y su reputación como una de las agrupaciones con mejor voz en vivo de la industria. Su parada en Singapur las llevará al Singapore Indoor Stadium, un recinto que suele ser el escenario de los conciertos más importantes de K-pop y pop del país, por lo que esta fecha se considera un evento estelar dentro del calendario de giras regionales de 2026. Los fans viajan desde Malasia, Indonesia, Tailandia y más allá para asistir a shows en este recinto, así que se espera un público genuinamente internacional y no solo local.

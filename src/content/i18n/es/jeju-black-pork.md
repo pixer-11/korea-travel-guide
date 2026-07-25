@@ -17,8 +17,6 @@ faq:
     a: Los menús deben indicar explícitamente 'Jeju heuk-dwaeji' en lugar de una etiqueta genérica de cerdo, y muchos restaurantes muestran una pegatina o cartel de certificación que hace referencia al sistema de clasificación del cerdo negro de la isla.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con ayuda de IA. Las imágenes tienen licencia o son de dominio público. Se trata de una visión general de la zona/tema — verifica los detalles concretos del establecimiento antes de tu visita. Consulta nuestra [política editorial](/about).
-
 ## Por qué el cerdo negro de Jeju es diferente
 
 El cerdo negro nativo de Jeju (heuk-dwaeji) es una raza autóctona criada en la isla desde hace siglos, apreciada por su mordida más firme, su piel más gruesa y una capa de grasa que se derrite lentamente en la parrilla en lugar de volverse grasienta. Los habitantes de la isla lo distinguen claramente del cerdo rosado común, y los menús que sirven el auténtico suelen indicarlo explícitamente — "제주 흑돼지" (Jeju heuk-dwaeji) en lugar de un genérico "돼지고기" (dwaeji-gogi). Como el cerdo negro certificado cuesta más criarlo, es normal encontrar un precio notablemente más alto que en el BBQ coreano continental; esto es habitual y no un engaño.

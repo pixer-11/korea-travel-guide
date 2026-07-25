@@ -17,8 +17,6 @@ faq:
     a: El propio Chijmes cuenta con otros locales de comida y bebida dentro del mismo complejo, y los museos del Distrito Cívico, Bugis y la zona de librerías y cafés de Bras Basah están todos a poca distancia a pie.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, utilizando fuentes web actuales. Los horarios y detalles cambian; confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué vale la pena conocer Sabor
 
 Chijmes ha albergado restaurantes y bares durante años dentro de su antigua capilla y patio conventual, pero Sabor le da al espacio una nueva identidad: tapas españolas, servidas al estilo comunitario, del mismo equipo detrás de Duomo Ristorante. Esa trayectoria importa en la escena gastronómica de Singapur: Duomo se ha ganado la reputación de ofrecer una cocina italiana refinada, y Sabor es su apuesta a que ese mismo instinto de hospitalidad funciona igual de bien con jerez, jamón y platos pequeños pensados para compartir. Al haber abierto en abril de 2026, el restaurante todavía está encontrando su ritmo, lo cual forma parte de su atractivo: la energía de una apertura genuinamente nueva, en lugar de la de una institución consolidada que vive de su reputación.

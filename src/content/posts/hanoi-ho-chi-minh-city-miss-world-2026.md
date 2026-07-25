@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why this matters for travelers
 
 Vietnam has never hosted Miss World in the contest's 73-plus year history, so the 2026 edition is a genuine first — and it lands during the pageant's 75th anniversary, which organizers are expected to treat as a milestone with extra ceremony, media coverage, and side events. For visitors, that means a rare window where two of Vietnam's biggest cities — Hanoi in the north and Ho Chi Minh City (Saigon) in the south — become a stage for a monthlong international event, drawing contestants, press, and pageant fans from well over 100 countries.

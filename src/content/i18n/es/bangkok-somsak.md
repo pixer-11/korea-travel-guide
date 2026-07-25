@@ -17,8 +17,6 @@ faq:
     a: 'No especialmente: está pensado como una experiencia festiva y llena de energía, ideal para grupos. Confirma los horarios y los detalles del menú con antelación, ya que pueden cambiar al tratarse de un local recién inaugurado.'
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, utilizando fuentes web actuales. Los horarios y detalles cambian — confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué Somsak destaca
 
 Bangkok no tiene escasez de restaurantes isaan que sirven carnes a la parrilla, som tam y arroz glutinoso, pero Somsak convierte el género en un espectáculo temático. El concepto viene del equipo detrás de Fatboy Izakaya, un nombre ya conocido en la escena gastronómica nocturna de Bangkok por combinar comida seria con un diseño maximalista y ambiente de fiesta. Somsak aplica esa misma fórmula a la cocina del noreste de Tailandia, envolviéndola en una narrativa ficticia: un taxista de Bangkok llamado Somsak que supuestamente se hizo rico en Escocia y trajo de vuelta a casa su nueva fortuna (y su gusto excéntrico). El resultado es un restaurante que se inclina hacia lo kitsch — piensa en una decoración ecléctica y cargada de historia, en lugar de los locales isaan rústicos y al aire libre típicos del género — mientras mantiene la comida arraigada en los sabores intensos y peculiares por los que se conoce a la región, como el larb, el moo yang a la parrilla y las sopas ácidas.

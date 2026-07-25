@@ -17,8 +17,6 @@ faq:
     a: El Templo de la Reliquia del Diente de Buda (Buddha Tooth Relic Temple) y el Templo Sri Mariamman están ambos a poca distancia a pie, y el Amoy Street Food Centre ofrece una segunda opción de hawker centre si quieres seguir explorando la escena gastronómica de Chinatown.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Chinatown Complex no es un food hall pulido: es un mercado húmedo en pleno funcionamiento con un enorme hawker centre apilado encima, y ahí está precisamente su atractivo. Con cientos de puestos repartidos por el segundo piso, se le considera ampliamente el hawker centre más grande de Singapur, y su calificación de 4.2 basada en casi 9,000 reseñas refleja la pura densidad de opciones buenas y baratas más que un único plato estrella. Aquí se come como lo hace el barrio: rápido, en banquitos de plástico, un plato a la vez.

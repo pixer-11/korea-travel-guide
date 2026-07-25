@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Surabaya North Quay sits atop a building overlooking Tanjung Perak, one of Indonesia's busiest ports, and turns an otherwise industrial stretch of the city into a genuine viewpoint. The draw is simple: an open-air rooftop deck where you can watch cargo ships, tugboats, and — on good days — docked cruise liners against the flat expanse of the Java Sea. It's less about historical depth and more about atmosphere and photos, which is exactly why it has racked up over 23,000 reviews and a strong 4.4 rating. Unlike a lot of Surabaya's colonial-era sights, this one is modern, designed specifically for viewing and lingering rather than passing through.

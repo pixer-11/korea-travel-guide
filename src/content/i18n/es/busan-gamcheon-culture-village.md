@@ -17,8 +17,6 @@ faq:
     a: El mercado de pescado Jagalchi (Jagalchi Fish Market) y las calles comerciales de Nampo-dong están a unos 15-20 minutos en taxi, y la playa de Songdo (Songdo Beach), con su pasarela costera elevada, está un poco más lejos siguiendo la costa.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de la información en tiempo real de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Gamcheon Culture Village se ha ganado su calificación de 4.4 estrellas y cerca de 33,000 reseñas por buenas razones: es uno de los rincones más fotogénicos de Busan, un laberinto en la ladera de una colina con casas azules, rosas y amarillas apiladas sobre el puerto, entrelazado con escalinatas pintadas, murales y galerías diminutas. El barrio comenzó como un asentamiento de refugiados en la década de 1950 (muchos de sus residentes eran seguidores de la religión Taegeukdo que huyeron durante la Guerra de Corea), y su identidad actual como "aldea de arte" se remonta a un proyecto de arte público de 2009 que invitó a estudiantes y artistas a repintar las fachadas e instalar esculturas por todo el laberinto de callejones. No es una pieza de museo: la gente sigue viviendo aquí, lo que da a los murales y a las vistas de los tejados una textura auténtica que no se encuentra en una atracción construida para tal fin.

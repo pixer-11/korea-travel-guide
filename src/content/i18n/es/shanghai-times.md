@@ -17,8 +17,6 @@ faq:
     a: Calcula entre 1 y 1,5 horas para un brunch, o más tiempo por la noche si combinas comida con bebidas y quieres explorar el resto de Yongkang Lu después.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA, utilizando fuentes web actuales. Los horarios y detalles cambian: confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Times forma parte de una pequeña ola de restaurantes de Shanghai que reinterpretan los sabores cantoneses y chaoshan para un público más joven y con sensibilidad por el diseño. Es el tipo de lugar donde un plato de calamar a la parrilla de carbón, realzado con una salsa de rábano agridulce al estilo Chaoshan, convive sin problemas con vino natural y café, una muestra de lo fluida que se ha vuelto la escena gastronómica de Shanghai entre "café", "restaurante" y "bar". Respaldado por Shanghai OUD Group, Times está pensado para funcionar a dos ritmos distintos: un brunch pausado durante el día y un bistró-bar más animado, de picoteo y bebidas, en cuanto se pone el sol.

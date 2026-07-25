@@ -17,8 +17,6 @@ faq:
     a: Sí—al tratarse de un lugar de culto activo, se espera que los visitantes cubran hombros y rodillas al entrar en la basílica.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de la información en tiempo real de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Encaramada en un afloramiento calizo a 154 metros sobre la ciudad, Notre-Dame de la Garde es el monumento más reconocible de Marsella y su ancla espiritual—los lugareños la llaman "la Bonne Mère" (la Buena Madre). La basílica neobizantina, terminada en 1864 bajo la dirección del arquitecto Henri-Jacques Espérandieu, está coronada por una estatua dorada de cobre de 9,5 metros de la Virgen con el Niño, esculpida por Charles-Auguste Lequesne, visible desde los barcos que entran al puerto y desde la mayoría de los puntos elevados de la ciudad. Con una valoración de 4,8 sobre más de 50.000 reseñas, es uno de los lugares más consistentemente elogiados de Marsella, y el motivo no es solo el interior de la iglesia, sino las vistas de 360 grados desde la terraza, que se extienden desde el Vieux-Port hasta las Islas de Frioul y, en días despejados, hacia las Calanques.

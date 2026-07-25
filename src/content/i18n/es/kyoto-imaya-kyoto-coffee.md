@@ -17,8 +17,6 @@ faq:
     a: Nishiki Market, los pasajes comerciales de Teramachi y Shinkyogoku, y el Museo Internacional del Manga de Kioto (Kyoto International Manga Museum) están todos a poca distancia a pie, en el mismo distrito céntrico de Nakagyo.
 ---
 
-> **Cómo se elaboró esta guía:** Revisado por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 IMAYA Kyoto &COFFEE se ha ganado una reputación —una calificación de 4.8 en más de 1,200 reseñas es inusualmente alta para una cafetería— por hacer muy bien un menú reducido en lugar de intentar abarcarlo todo. El concepto se inclina hacia el bar de café al estilo italiano: piensa en bebidas de espresso cortas y contundentes, en lugar del estilo lento de tercera ola que domina buena parte de la escena de cafeterías de Kioto. Además del café, sirve cerveza y mantiene una breve lista de comida ligera, lo que la hace versátil como parada de espresso durante el día o como lugar para tomar algo al comienzo de la noche antes de cenar. El interior es acogedor y minimalista, con énfasis en líneas limpias y materiales naturales, un aspecto que la ha convertido en un tema favorito en redes sociales de diseño y estilo de vida, lo que en parte explica el volumen de reseñas en relación con su tamaño.

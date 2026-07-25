@@ -29,8 +29,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting. See our [editorial policy](/about).
-
 ## Why go
 
 Ikseon-dong is one of the last surviving hanok clusters this close to downtown Seoul, and unlike the more famous Bukchon Hanok Village, these low tiled-roof houses aren't just for photos — they've been converted into working cafes, bars, tea houses, and restaurants. The neighborhood dates back to the 1920s, when it was one of Seoul's first planned hanok developments. Over the past decade it's become one of the city's most photographed "hidden alley" districts, drawing comparisons to a miniature, walkable Insadong with better food and fewer souvenir shops.

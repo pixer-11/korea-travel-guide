@@ -17,8 +17,6 @@ faq:
     a: Cuenta con una experiencia de menú degustación de entre dos y tres horas, algo habitual en restaurantes con Estrella Michelin de varios tiempos.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA, usando fuentes web actuales. Los horarios y detalles cambian: confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué ONVIT es relevante
 
 ONVIT es una de las historias gastronómicas más inusuales que ha dado Hanói en los últimos años: un restaurante coreano de alta cocina que hizo historia al convertirse en el primer restaurante coreano de Vietnam en recibir una Estrella Michelin, reconocimiento otorgado en el ciclo de la Guía Michelin 2026. Esa distinción lo sitúa en una categoría reducida y muy observada de restaurantes en la ciudad: la presencia Michelin en Hanói es todavía joven, ya que se introdujo hace apenas unos años, así que cualquier nueva estrella capta la atención tanto de la escena gastronómica local como de los viajeros internacionales que planean su viaje en torno a ella.

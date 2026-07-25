@@ -46,8 +46,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Sentosa Sensoryscape is one of the newer additions to Sentosa's already crowded roster of attractions, but it hasn't yet become a must-do stop on most itineraries — which is exactly its appeal. Unlike the theme parks and beach clubs nearby, this is a free public installation built around light, sound, water, and scent: a sequence of garden "rooms" connecting Siloso Beach to the rest of the island via a canopy of illuminated forms that shift with the time of day. With a 4.5 rating from nearly 400 reviews, it has quietly built a loyal following among visitors looking for something calmer and more atmospheric than Sentosa's bigger-ticket experiences.

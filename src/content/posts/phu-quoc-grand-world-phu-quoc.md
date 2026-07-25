@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Grand World Phu Quoc is the island's answer to a European-style entertainment town, built around a network of canals modeled loosely on Venice, complete with gondola-style boats, arched bridges, and pastel-colored villas that light up after dark. It's part of the larger Phu Quoc United Center development in Bãi Dài, on the island's northwest coast, and has become one of the most-reviewed attractions in Phu Quoc (rated 4.5 from nearly 14,000 reviews), largely thanks to its free admission and photogenic architecture. Unlike a single museum or temple, Grand World functions more like a self-contained entertainment district — you wander between zones rather than follow a fixed route, which makes it flexible for families, couples, and groups with different paces.

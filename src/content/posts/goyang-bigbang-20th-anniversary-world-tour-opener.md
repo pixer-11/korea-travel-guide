@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why this show matters
 
 BIGBANG — G-Dragon, Taeyang, Daesung, and T.O.P — helped define modern K-pop, and this run at Goyang Stadium marks the quartet's first world tour in almost ten years and the formal launch of its 20th anniversary celebrations. For long-time fans (VIPs), this is a milestone reunion; for newcomers, it's a rare chance to see a generation-defining group live on home turf before the tour moves overseas. Three consecutive nights (August 21, 22, and 23, 2026) at a single venue is a significant commitment for any act, signaling both demand and the scale of production expected for the opener.

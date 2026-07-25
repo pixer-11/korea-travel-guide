@@ -17,8 +17,6 @@ faq:
     a: Las escaleras (unos 300-400 escalones) solo llegan hasta el 2º piso y suelen ser más rápidas y baratas que las entradas de ascensor; la cima, por encima de ese nivel, solo es accesible en ascensor.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La torre de hierro forjado de Gustave Eiffel es un referente del horizonte de París desde que se construyó como pieza central de la Exposición Universal de 1889, en conmemoración del centenario de la Revolución Francesa. Con 330 metros de altura, fue la estructura artificial más alta del mundo durante más de 40 años, y sigue siendo el hito de ingeniería más reconocible de Europa. Con una calificación de 4.7 en casi medio millón de reseñas, no es solo un lugar para fotos: el entramado de hierro, los tres niveles de observación y las vistas panorámicas sobre el Sena y el Champ de Mars siguen justificando tanto la fama como las colas.

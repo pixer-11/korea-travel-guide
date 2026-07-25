@@ -17,8 +17,6 @@ faq:
     a: A finales de julio y principios de agosto en Hong Kong hace calor, hay humedad y es probable que haya tormentas eléctricas o tifones, aunque el Kai Tak Stadium cuenta con techo y sistema de refrigeración. Además, es temporada alta de turismo de verano, así que reserva alojamiento en Kowloon o en la isla de Hong Kong con bastante antelación.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Las fechas del evento y las entradas cambian: confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué importa este evento
 
 Los amistosos de pretemporada en Asia no son ninguna novedad, pero este es diferente por el escenario. El Hong Kong Football Festival 2026 (31 de julio al 5 de agosto) es uno de los primeros grandes espectáculos deportivos que se celebran en el nuevo Kai Tak Stadium, construido en el emplazamiento del antiguo aeropuerto de Kai Tak (Kai Tak Airport), en Kowloon East. El festival reúne a cuatro de los nombres más grandes del fútbol europeo —Manchester City, Inter de Milán, Chelsea FC y Juventus— para disputar dos partidos de exhibición a lo largo de esa semana. Para Hong Kong, esto tiene tanto que ver con mostrar al mundo su nuevo estadio nacional de 50.000 asientos como con el fútbol en sí, así que el viaje será tanto una primera mirada a una infraestructura cívica genuinamente nueva como un simple amistoso de verano.

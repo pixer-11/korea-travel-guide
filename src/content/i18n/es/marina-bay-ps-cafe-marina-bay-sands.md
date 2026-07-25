@@ -17,8 +17,6 @@ faq:
     a: El almuerzo entre semana o la mañana del fin de semana antes de las 11:00 tiende a ser el momento más tranquilo, antes de que se acumule la multitud de la tarde y noche del centro comercial previa a los espectáculos de luces de la bahía.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en tiempo real de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 PS.Cafe construyó su reputación en Singapur con una fórmula específica: salones de techos altos llenos de vegetación, comida reconfortante occidental disponible todo el día, y un menú que no pretende ser complicado — papas fritas trufadas tipo shoestring, pastas generosas, ensaladas contundentes y una sólida oferta de brunch. La sucursal de Marina Bay Sands traslada ese mismo ADN a un entorno de centro comercial, lo cual suena contradictorio hasta que realmente estás ahí. En lugar de ser otro restaurante llamativo y de alta rotación que compite con el ruido y el tránsito del atrio del casino, este local ocupa un rincón del nivel inferior de The Shoppes, lo que le da un ambiente más tranquilo, casi de café de barrio, a pesar de estar bajo uno de los edificios más fotografiados del mundo. Con una calificación de 4.4 en 1,036 reseñas, es una opción confiable más que llamativa — el tipo de lugar donde los clientes habituales crean una costumbre, en lugar de una parada única para tachar de una lista.

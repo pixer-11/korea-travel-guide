@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why go
 
 The Sounds Project has built a reputation as one of Jakarta's bigger multi-genre festivals, pulling in a mix of pop, rock, hip-hop, and indie acts rather than sticking to a single scene. Vol. 9 continues that format across three days, August 7–9, 2026, with a lineup that spans homegrown stars — Pamungkas and Rizky Febian among them — alongside international names like Australian rock veterans Jet. For visitors, it's a chance to see how Jakarta's live-music crowd behaves: loud, enthusiastic, and heavy on phone-light sing-alongs, but generally well organized for an outdoor event of this scale.

@@ -17,8 +17,6 @@ faq:
     a: A finales de julio y principios de agosto, Incheon vive un clima cálido, húmedo y lluvioso (temporada de monzones), así que lleva ropa ligera y transpirable, un poncho o paraguas, y protección solar para los escenarios diurnos.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Las fechas del evento y las entradas cambian: confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Pentaport es el festival de rock a gran escala más longevo de Corea del Sur, celebrado anualmente en Incheon desde mediados de la década de 2000, y es uno de los pocos festivales coreanos que reserva de forma constante a grandes artistas internacionales de rock junto a una amplia base de talento indie y rock nacional. La edición de 2026 tiene como cabeza de cartel a Pixies, una de las bandas más influyentes del rock alternativo, con los artistas coreanos hyukoh (un referente de la escena indie coreana, conocido por mezclar dream-pop y rock) y LEE SEUNG YOON también en el cartel. A diferencia del circuito de festivales coreanos centrado en el K-pop, Pentaport atrae a un público mixto de aficionados al rock locales, expatriados y viajeros internacionales que van de festival en festival y que acuden específicamente por la música de guitarra, lo que lo convierte en una buena puerta de entrada para quienes quieren vivir un festival coreano sin el enfoque en el K-pop.

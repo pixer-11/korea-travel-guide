@@ -90,8 +90,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Dubai's headline dining scene runs through Downtown, DIFC, and JBR, but the city's most consistent, well-loved street food often lives in its residential production and media hubs — places built for the people who actually live and work there. Street Food Traffic Restaurant LLC, sitting quietly inside the Midtown by Deyaar development in Dubai Production City, is exactly that kind of find: a 4.7-star rating across nearly 700 reviews in a neighborhood that rarely appears in guidebooks. It's the sort of stop that rewards travelers who want a genuine, unfussy meal rather than a stage-managed "experience."

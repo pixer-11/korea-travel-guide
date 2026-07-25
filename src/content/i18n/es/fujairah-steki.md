@@ -17,8 +17,6 @@ faq:
     a: Combina tu comida con un paseo por Umbrella Beach y considera visitar el Fuerte de Fujairah (Fujairah Fort), la Mezquita Al Bidyah (Al Bidyah Mosque) o el Museo de Fujairah (Fujairah Museum), todos a poca distancia en coche.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Steki es una rareza en la escena gastronómica de Fujairah: una auténtica taberna griega que ofrece cocina mediterránea clásica —moussaka, souvlaki, saganaki, pulpo a la parrilla, ensaladas frescas con feta y aceitunas— a pocos pasos del agua, en Al Faseel Road. Con una calificación de 4.8 sobre cerca de 600 reseñas, es evidente que conquista a los comensales sin convertirse en una trampa turística abarrotada, lo que la convierte en uno de los hallazgos más satisfactorios en una ciudad más conocida por su corniche y sus paisajes montañosos que por su gastronomía. El nivel de precios es moderado, así que es realista disfrutar de una comida griega de varios platos sin pagar precios de alta cocina.

@@ -82,8 +82,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Built in 1782 by King Rama I as the seat of the Chakri dynasty, the Grand Palace is Bangkok's most photographed landmark and, at a 4.6 rating across roughly 79,000 reviews, one of its most consistently praised. It's a walled complex of gilded spires, mirrored mosaics, and mythological guardian statues rather than a single building, and it's still used for state ceremonies, so parts remain closed to the public. The undisputed centerpiece is Wat Phra Kaew, the Temple of the Emerald Buddha, which houses Thailand's most sacred Buddha image, carved from a single block of green jade or jasper (not emerald, despite the name) and dressed in seasonal robes changed by the King three times a year.

@@ -17,8 +17,6 @@ faq:
     a: Revisa solo los canales oficiales, generalmente el sitio web de UOB Live o socios autorizados como Thai Ticket Major, y evita sitios de reventa no oficiales, ya que los precios y las categorías de entradas no se habían especificado en los anuncios oficiales al momento de la publicación.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Las fechas de eventos y las entradas cambian; confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué importa este show
 
 David Byrne no es solo un artista veterano que vive de la nostalgia: es la mente inquieta del art-rock detrás de clásicos de Talking Heads como "Once in a Lifetime" y "This Must Be the Place", y más recientemente del aclamado espectáculo "American Utopia" (una temporada en Broadway y una película-concierto dirigida por Spike Lee). Sus presentaciones en vivo son conocidas por el movimiento coreografiado, una estética de escenario despojado y una banda completa que trata las canciones antiguas como ideas nuevas, no como piezas de museo. Una fecha en Bangkok dentro de una gira mundial es una oportunidad poco común para que los fans del sudeste asiático vean a un artista que rara vez pasa por la región.

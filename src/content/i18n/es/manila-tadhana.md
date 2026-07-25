@@ -17,8 +17,6 @@ faq:
     a: Confirma la dirección actual, los días de apertura, el horario de atención y el proceso de reserva directamente con Tadhanà, ya que los detalles de los restaurantes recién abiertos pueden cambiar en sus primeros meses.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Los horarios y detalles cambian — confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué vale la pena planificar en torno a Tadhanà
 
 "Tadhanà" significa "destino" o "sino" en filipino, y el nombre lo dice todo: se trata del regreso a casa de la chef Francis Tariga tras forjarse una reputación en la exigente escena de la alta cocina de Nueva York. El restaurante se ha convertido rápidamente en una de las aperturas más comentadas de Manila, construida en torno a un menú degustación de diez tiempos que reinterpreta los sabores filipinos —la acidez, el fermentado, el ahumado y la dulzura en capas que definen esta cocina— a través del lenguaje técnico y de emplatado de la alta cocina contemporánea global. Más que un lugar para simplemente cenar, es un evento en torno al cual organizar toda una velada, más cercano en espíritu a una noche de degustación que a una comida informal.

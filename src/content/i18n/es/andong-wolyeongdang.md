@@ -17,8 +17,6 @@ faq:
     a: 'No: Wolyeongdang es una casa de huéspedes y comedor hanok independiente en la zona de Minsokchon (aldea folclórica), distinta de la más famosa Aldea Folclórica Hahoe, que está más alejada. Ambas se pueden combinar en una excursión de un día más larga.'
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Andong se promociona como el hogar espiritual de la tradición confuciana de Corea, y Wolyeongdang encaja perfectamente en esa identidad. Se trata de una propiedad hanok (casa tradicional coreana de madera) que combina habitaciones de huéspedes y un comedor, ubicada en Minsokchon-gil —literalmente "Camino de la Aldea Folclórica"— dentro del conjunto de sitios patrimoniales en el extremo este de Andong. A diferencia de una exhibición de museo, aquí los visitantes pueden sentarse realmente sobre los suelos calefaccionados ondol, comer en mesas bajas y hacerse una idea táctil de cómo podría haber vivido un hogar yangban (aristocrático) de la era Joseon, sin necesidad de pasar la noche para apreciarlo. Con una calificación de 4.3 en más de 500 reseñas, ha logrado un seguimiento constante y apreciativo entre los viajeros que recorren el circuito del patrimonio folclórico de Andong, más que funcionar como una trampa turística llamativa.

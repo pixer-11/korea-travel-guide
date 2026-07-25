@@ -17,8 +17,6 @@ faq:
     a: El distrito patrimonial de Braga, de la era colonial, el Museo de la Conferencia de Asia-África y el Alun-Alun Bandung (plaza de la ciudad) con la Gran Mezquita de Bandung están todos a un corto trayecto.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Lengkong Alit no busca atraer al turismo — es un restaurante familiar de barrio ubicado en Jl. Lengkong Kecil No.60, en la zona de Paledang, dentro de Kecamatan Lengkong, en el centro-sur de Bandung. Con una calificación de 4.7 basada en 376 reseñas, se ha ganado su reputación de forma discreta, gracias a comensales locales que regresan una y otra vez, y no a coberturas virales de recorridos gastronómicos. Para quienes ya recorrieron la calle Braga y el corredor Asia-África, esta es el tipo de parada que recompensa la curiosidad: un local genuino de calle residencial en lugar de una "experiencia" preparada, en una parte de la ciudad que todavía se siente habitada de verdad.

@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why this stop matters
 
 Foxborough's leg of the tour is a big deal for a simple reason: it's BTS's first world tour since the members completed their mandatory South Korean military service, and Gillette Stadium is one of only a handful of North American venues hosting the run. The Foxborough dates (August 5–6, 2026) sit early in a 79-date global tour, with the group also playing AT&T Stadium in Arlington, Texas on August 15–16. For ARMY on the East Coast, this is the closest full-stadium show to New England, drawing fans from across Massachusetts, Connecticut, Rhode Island, and southern New Hampshire.

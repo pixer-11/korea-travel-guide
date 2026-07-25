@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why ONVIT Matters
 
 ONVIT is one of the more unusual dining stories to come out of Hanoi in recent years: a Korean fine-dining restaurant that made history as the first Korean restaurant in Vietnam to be awarded a Michelin Star, recognized in the 2026 Michelin Guide cycle. That distinction places it in a small, closely watched category of restaurants in the city — Hanoi's Michelin presence is still young, having only been introduced a few years ago, so any new star draws attention from both the local dining scene and international food travelers plotting a trip around it.

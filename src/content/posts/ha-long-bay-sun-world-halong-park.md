@@ -67,8 +67,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Sun World Halong Park is the anchor attraction of Bai Chay — the resort side of Ha Long Bay across from the older Hon Gai district — and it's the easiest way to fill a half-day when the weather turns or when guests want a break from boat trips and cave-hopping. It's a full theme park with a roller coaster, a distinctive bi-level (double-decker) merry-go-round that's become a photo landmark on the Bai Chay waterfront, and an attached water park, all set on the hillside and shoreline near the Bai Chay Bridge. With a 4.4 rating across roughly 3,800 reviews, it's one of the most consistently well-reviewed paid attractions in the bay area, and it pairs naturally with the Sun Wheel (Ha Long's giant Ferris wheel) and Typhoon Water Park, which sit within the same Sun World complex.

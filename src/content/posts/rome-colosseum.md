@@ -46,8 +46,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Few ruins on earth carry the weight of the Colosseum. Completed in 80 AD under the Flavian emperors (its formal name is the Flavian Amphitheater), it once held an estimated 50,000–80,000 spectators across three tiers of arches for gladiatorial combat, staged animal hunts, and mock naval battles. What survives today — the travertine facade, the labyrinth of brick corridors, the partially reconstructed arena floor — is still enough to make clear why it's rated among the most visited monuments on the planet, with nearly half a million reviews and a 4.8 average. It's the single best place in Rome to physically feel the scale of imperial engineering.

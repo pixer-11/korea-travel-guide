@@ -93,8 +93,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Kodam Kitchen Is Worth the Trip
 
 Ao Nang has no shortage of restaurants chasing beach-tourist traffic with overpriced, watered-down "tourist Thai food." Kodam Kitchen branch 1 stands out precisely because it doesn't play that game. With a 4.7-star average across more than 10,000 reviews, it's built its reputation on doing simple Thai dishes well, cheaply, and fast, rather than leaning on a beachfront view or gimmicky decor. The price level is budget (level 1), meaning this is a spot for travelers who want to eat like locals without the inflated "farang menu" markup common along Ao Nang's main strip.

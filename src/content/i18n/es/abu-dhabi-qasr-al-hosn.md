@@ -17,8 +17,6 @@ faq:
     a: La Fundación Cultural (Cultural Foundation) se encuentra en el mismo predio, y el Corniche, la Casa de los Artesanos (House of Artisans) y el zoco del World Trade Center están a poca distancia en coche o a pie, por lo que es fácil combinarlo en un itinerario de medio día por el centro.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Qasr Al Hosn es el lugar en torno al cual creció Abu Dabi, y la razón por la que la ciudad existe donde existe. La torre de vigilancia original, hecha de coral y conchas marinas, se construyó en la década de 1760 para proteger el único pozo de agua dulce de la isla, y el fuerte se fue ampliando durante el siglo siguiente hasta convertirse en la sede de la familia gobernante Al Nahyan. Más tarde sirvió como residencia de los gobernantes, sede del gobierno y archivo nacional, antes de ser restaurado y reabierto como museo. A diferencia de muchas paradas "patrimoniales" que en realidad son reconstrucciones, esta es la auténtica: la estructura más antigua que se conserva en Abu Dabi, razón por la cual hoy atrae a miles de visitantes al año y mantiene una sólida calificación de 4,6 en aproximadamente 8.000 reseñas.

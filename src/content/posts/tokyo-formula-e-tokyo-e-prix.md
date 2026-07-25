@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why go
 
 Formula E's arrival in Tokyo is a landmark moment for the all-electric racing series, which has previously raced in cities like London, Monaco, Jakarta, and Sao Paulo on temporary street circuits rather than purpose-built tracks. A Tokyo Street Circuit race means the cars — silent-ish, fast, and built for tight urban corners — will run through or alongside real city infrastructure, a spectacle very different from watching Formula 1 at a permanent track like Suzuka. For motorsport fans already familiar with Japan's Super Formula and Super GT scenes, this is a chance to see how an all-electric series handles a Japanese street layout, and for general visitors it's a rare "closed roads, race cars, city skyline" event happening in the world's largest metropolitan area.

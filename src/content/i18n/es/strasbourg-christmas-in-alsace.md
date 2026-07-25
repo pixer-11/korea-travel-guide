@@ -17,8 +17,6 @@ faq:
     a: El vin chaud (vino caliente especiado), la flammekueche, los bretzels, las castañas asadas, el brioche manalas y el kougelhopf son los clásicos regionales que se venden en los puestos.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué visitar Estrasburgo en Navidad
 
 Estrasburgo se autodenomina la "Capitale de Noël" (Capital de la Navidad), y tiene los antecedentes históricos para demostrarlo: el mercado se remonta a 1570, lo que lo convierte en uno de los mercados navideños más antiguos de Europa. Las casas de entramado de madera del barrio de la Petite France, la imponente fachada de arenisca rosa de la Catedral de Estrasburgo y los canales que atraviesan el casco antiguo dan a la decoración un aire genuinamente medieval, no artificial. A diferencia de un mercado concentrado en una sola plaza, Estrasburgo reparte cerca de una decena de mercados temáticos por todo el centro de la ciudad, de modo que todo el casco histórico se convierte en un único evento continuo y recorrible a pie.

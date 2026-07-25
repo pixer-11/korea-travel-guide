@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Okinawa World is worth the detour
 
 Most visitors base themselves in Naha, and it's easy to spend a whole trip shuttling between the city and the northern beach resorts without ever seeing the island's interior. Okinawa World, in Tamagusuku, Nanjo City, is the reason to make the detour south. It bundles three distinct experiences — a genuine natural limestone cave, a reconstructed Ryukyu-era village with working artisans, and live Eisa folk drumming — into one gated attraction rated 4.3 stars across nearly 19,000 reviews, so it's popular but consistently well-regarded rather than a tourist-trap dud.

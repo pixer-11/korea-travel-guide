@@ -46,8 +46,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Kampong Glam Cafe isn't chasing culinary fame — it's a lively, no-frills spot serving regional and international staples like fried chicken, noodles, and rice dishes, and its real draw is the address. It sits at 17 Bussorah Street, one of the most photogenic stretches in Kampong Glam, with shophouse facades painted in pastel greens, blues, and yellows leading straight up to the golden dome of Sultan Mosque. With a 4.2 rating across more than 3,100 reviews and a wallet-friendly price level, it functions less as a destination restaurant and more as a reliable, well-located pit stop for anyone exploring the district on foot.

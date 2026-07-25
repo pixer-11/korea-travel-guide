@@ -46,8 +46,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Few public spaces pack in as much American history per square foot as the National Mall. Rated 4.8 by nearly 140,000 visitors, this is the ceremonial heart of Washington DC: a long, open lawn running roughly from the U.S. Capitol to the Lincoln Memorial, with the Washington Monument's 555-foot obelisk marking the center. Along the way you'll find memorials to Lincoln, FDR, Martin Luther King Jr., and the veterans of WWII and Vietnam, plus most of the free Smithsonian museums lining the sides. It's less a single "attraction" than an outdoor museum district — expect to walk a lot, and plan for at least half a day if you want to do it justice.

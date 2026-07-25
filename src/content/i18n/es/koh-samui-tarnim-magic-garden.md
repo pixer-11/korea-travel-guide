@@ -17,8 +17,6 @@ faq:
     a: 'Sí: las cascadas de Na Mueang (Na Mueang 1 y 2) están cerca, en la misma zona de Na Mueang, y combinan bien para formar un circuito de medio día por el interior de la isla.'
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Tarnim Magic Garden es uno de los lugares más surrealistas de Koh Samui: una ladera repleta de cientos de estatuas de concreto pintadas —budas en todas las posturas, animales míticos, elefantes, monjes, figuras folclóricas y dragones— dispuestas a lo largo de senderos sinuosos y escaleras que ascienden a través de la selva. Cascadas y estanques atraviesan la vegetación, y la posición elevada ofrece vistas parciales sobre las colinas circundantes hacia la costa. No es una experiencia de museo pulida; se acerca más a un excéntrico santuario de arte popular al aire libre construido a lo largo de los años, y precisamente ahí radica su atractivo. Con una calificación de 4.4 en más de 6,400 reseñas, se ha convertido en una de las paradas alternativas más fotografiadas de la isla, especialmente popular entre quienes buscan algo fuera del circuito habitual de playa y resort.

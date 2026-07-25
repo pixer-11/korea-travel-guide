@@ -17,8 +17,6 @@ faq:
     a: El propio edificio del fuerte restaurado del siglo XVIII, además de las exhibiciones sobre la historia del buceo de perlas, hallazgos arqueológicos y las armas tradicionales y la vida doméstica emiratí.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El Museo de Ajman es uno de los pocos lugares del emirato donde se puede ver la historia previa al petróleo de la región expuesta en un solo recinto compacto. El edificio en sí es la pieza principal: un fuerte restaurado del siglo XVIII que en su día sirvió de residencia a la familia gobernante Al Nuaimi y, más tarde, como sede de la policía local, antes de convertirse en museo en la década de 1980. En su interior, la colección abarca hallazgos arqueológicos de los yacimientos de la Edad de Bronce y de Hierro de Ajman, el comercio de buceo de perlas que sostuvo la costa antes del petróleo, armas tradicionales (khanjars, espadas y antiguos rifles) y escenas reconstruidas de la vida cotidiana emiratí: un zoco (souq), un majlis, una escuela tradicional (kuttab) y una sala de preparación de la novia con joyas y vestidos de época.

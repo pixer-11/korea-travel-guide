@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Myeongdong, in Jung District, is the most concentrated retail strip in central Seoul — a dense grid of pedestrian lanes lined with Korean cosmetics flagships (Innisfree, Etude, Olive Young, Nature Republic), fast-fashion stores, and duty-free department stores, threaded through with street-food carts. With over 26,000 reviews and a 4.4 rating on Google, it's one of the most consistently visited commercial districts in the city — not an undiscovered spot, but a genuinely essential one for understanding how Seoul shops and eats on the street. Expect crowds; the point isn't solitude, it's the density and energy of it.

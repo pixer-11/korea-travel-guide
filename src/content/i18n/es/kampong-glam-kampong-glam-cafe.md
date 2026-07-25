@@ -17,8 +17,6 @@ faq:
     a: La Mezquita Sultán está a dos minutos a pie, el Malay Heritage Centre se encuentra justo detrás, y las boutiques y murales de Haji Lane y Arab Street quedan a un corto paseo.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Kampong Glam Cafe no busca fama culinaria: es un local animado y sin pretensiones que sirve clásicos regionales e internacionales como pollo frito, fideos y platos de arroz, y su verdadero atractivo es su ubicación. Se encuentra en 17 Bussorah Street, uno de los tramos más fotogénicos de Kampong Glam, con fachadas de casas-tienda pintadas en verdes, azules y amarillos pastel que conducen directamente hasta la cúpula dorada de la Mezquita Sultán (Sultan Mosque). Con una calificación de 4.2 en más de 3.100 reseñas y un nivel de precios accesible, funciona menos como restaurante de destino y más como una parada fiable y bien ubicada para quienes exploran el barrio a pie.

@@ -17,8 +17,6 @@ faq:
     a: El almuerzo entre semana o una cena temprana suelen ser más tranquilos que las horas punta de la noche del fin de semana (alrededor de las 19:00 a 21:00), especialmente tratándose de un concepto recién inaugurado que todavía está construyendo su reputación.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, utilizando fuentes web actuales. Los horarios y detalles cambian: confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué vale la pena visitar Hikiniku To Come
 
 Hikiniku To Come construyó su reputación en Hong Kong con una idea única y muy enfocada: hamburguesas de carne de ternera picada, a la parrilla sobre carbón vivo, servidas sobre arroz cocido al vapor en una olla Hagama, la misma olla de fondo redondo y tapa de madera que se ha usado durante siglos en el este de Asia para retener la humedad y darle al arroz una ligera capa inferior tostada y ahumada (similar al *dolsot* coreano o al *okoge* japonés). La sede de Dubái trae ese mismo formato exacto a Al Quoz (Al Quoz), uno de los distritos de almacenes y gastronomía más dinámicos de la ciudad, dejando que el mostrador abierto hable por sí solo: te sientas lo suficientemente cerca como para ver cómo las hamburguesas tocan la parrilla, escuchar el chisporroteo y ver cómo levantan las tapas de las ollas justo en tu mesa.

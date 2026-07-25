@@ -91,8 +91,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The Baristro Asian Style has built a reputation — and a 4.7 rating across more than 3,000 reviews — on being one of Chiang Mai's most visually striking café-restaurants. The draw is the setting as much as the menu: a soaring, greenhouse-style dining room dense with hanging plants, tropical foliage, and skylights that flood the space with natural light. It reads like a cross between a botanical garden and an industrial-chic warehouse café, which makes it a magnet for photographers and anyone who wants a break from Chiang Mai's more traditional teak-and-lantern café aesthetic. It's a trendy pick precisely because it doesn't lean on old-city nostalgia — it's modern, plant-forward, and built for both eating and lingering.

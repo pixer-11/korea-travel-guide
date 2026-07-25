@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why go
 
 Times belongs to a small wave of Shanghai restaurants reworking Cantonese and Chaoshan flavors for a younger, design-conscious crowd. It's the kind of place where a plate of char-grilled squid, brightened with a tangy Chaoshan-style radish sauce, sits comfortably next to natural wine and coffee — a sign of how fluid Shanghai's dining scene has become between "café," "restaurant," and "bar." Backed by the Shanghai OUD Group, Times is built to work at two different speeds: unhurried brunch by day, and a livelier, snack-and-drink bistro-bar once the sun goes down.

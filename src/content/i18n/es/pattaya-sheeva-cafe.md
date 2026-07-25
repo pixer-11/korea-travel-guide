@@ -17,8 +17,6 @@ faq:
     a: 'No: está tierra adentro, en Sukhumvit-Pattaya 75, fuera de la carretera Sukhumvit, así que conviene planearlo como una salida aparte en lugar de combinarlo con una jornada de playa.'
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Sheeva Cafe se ha ganado una reputación —reflejada en su calificación de 4.9 con casi 4,900 reseñas— como uno de los lugares para comer más fotografiados de Pattaya para Instagram, y el motivo salta a la vista de inmediato, sin necesidad de exagerarlo. Toda la propiedad está diseñada como una jungla interior-exterior: gruesas cortinas de enredaderas, palmeras tropicales, pequeñas cascadas, estanques de koi y pasarelas de madera serpentean entre las mesas, de modo que cada asiento se siente como su propio rincón verde privado. Es el tipo de lugar que luce tan bien en fotos como sabe su comida, por lo que atrae tanto a cazadores de Instagram como a viajeros que simplemente buscan una comida genuinamente relajante, lejos del bullicio de la zona de playa. A diferencia de muchos conceptos de "café de jungla" que se apoyan en unas cuantas plantas en macetas y buena iluminación, la escala de Sheeva —varios niveles, túneles de follaje y elementos de agua por todas partes— es lo que lo distingue en una ciudad que no le faltan cafés temáticos.

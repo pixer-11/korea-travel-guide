@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why go
 
 Tales by Chapter is one of the more unusual dining stories to emerge from Ho Chi Minh City's restaurant scene in recent years: a plant-based, rooftop-to-table concept that has been awarded a Michelin Green Star for 2026. The Green Star is Michelin's distinction for restaurants combining excellent food with genuinely sustainable practice — not just recycled napkins, but a real closed-loop model. Here that means produce grown on-site on the restaurant's own rooftop garden, supplemented by ingredients sourced from a dedicated eco-farm in Đà Lạt, Vietnam's cool-climate highland region famous for its produce, coffee, and flowers. For visitors who want to taste where Vietnamese fine dining is heading beyond pho and bánh mì stalls, this is a name worth knowing.

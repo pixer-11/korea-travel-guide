@@ -17,8 +17,6 @@ faq:
     a: El puerto y el mercado de pescado de Jumunjin están justo al pie de la colina, y la playa de Jumunjin queda a poca distancia en coche, ofreciendo una alternativa más tranquila que la playa de Gyeongpo, en el centro de Gangneung.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El faro de Jumunjin se alza sobre un modesto acantilado con vistas al puerto de Jumunjin, uno de los puertos pesqueros más concurridos de la provincia de Gangwon-do, a unos 25 minutos al norte del centro de Gangneung. El faro en sí es sencillo —una torre blanca y achaparrada construida originalmente en 1918 para guiar a los barcos pesqueros por la costa este de Corea—, pero el verdadero atractivo es la panorámica desde su base: una vista amplia de la flota pesquera del puerto, el mar del Este abierto y, en días despejados, la costa rocosa que se extiende hacia Sokcho. También se ha convertido en un pequeño destino de peregrinación pop, ya que los acantilados y la escalera que lo rodean aparecieron en la exitosa serie coreana "Goblin" (Guardian: The Lonely and Great God), lo que ha mantenido un flujo constante de visitantes subiendo la colina, aunque el faro es un siglo anterior a la serie.

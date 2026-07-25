@@ -17,8 +17,6 @@ faq:
     a: 'Los platos clásicos de la comida callejera tailandesa son la apuesta más segura: pad thai, som tam (ensalada de papaya verde), moo ping (brochetas de cerdo a la parrilla) y pad kra pao (pollo con albahaca).'
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Kata Beach está repleta de restaurantes de beach clubs que cobran precios de resort por un pad thai mediocre, lo que hace que un lugar como Hug Street Food destaque. Es un local sin pretensiones, al estilo de la comida callejera, en Thanon Kake Kwan, la pequeña calle que corre detrás de la franja principal de la costa de Kata Beach, y ha logrado una calificación inusualmente alta de 4.8 en más de 400 reseñas, señal de que la cocina es consistente y no solo barata. Es el tipo de lugar al que los habituales vuelven en cada viaje a Phuket precisamente porque no se ha convertido en una trampa turística remodelada para Instagram.

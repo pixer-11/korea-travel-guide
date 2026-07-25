@@ -17,8 +17,6 @@ faq:
     a: Neihu es principalmente un distrito de negocios y tecnología, así que complementa tu comida con un paseo por el Dahu Park o una visita a la zona del Neihu Science Park, en lugar de esperar encontrar una zona turística concurrida cerca.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Los horarios y detalles cambian: confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Durante décadas, Formosa Plastics Group —uno de los mayores conglomerados industriales de Taiwán— mantuvo un comedor interno que alimentaba a directivos y empleados, pero permanecía cerrado al público. Ese comedor ha abierto ahora sus puertas a comensales externos, y el atractivo principal es un solo plato con un linaje de cuatro décadas: una receta de costilla de res con hueso que, según se dice, se ha perfeccionado durante 40 años dentro de las cocinas internas de la empresa. Junto a ella se encuentra una sopa de fideos con costilla de res, cuyo caldo se cuece a fuego lento durante tres días y se sirve solo en cantidades diarias limitadas. El atractivo aquí no es el ambiente ni un emplatado novedoso, sino la rara oportunidad de probar una comida que, hasta hace poco, era esencialmente privada, de uso exclusivamente corporativo, y que ahora se sirve a cualquiera dispuesto a presentarse.

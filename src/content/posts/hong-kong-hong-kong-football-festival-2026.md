@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why this event matters
 
 Pre-season friendlies in Asia aren't new, but this one is different because of the venue. The Hong Kong Football Festival 2026 (July 31–August 5) is one of the first major sporting spectacles to be staged at the new Kai Tak Stadium, built on the site of the old Kai Tak Airport in Kowloon East. The festival brings together four of European football's biggest names — Manchester City, Inter Milan, Chelsea FC and Juventus — for two exhibition matches over the week-long window. For Hong Kong, this is as much about showcasing its new 50,000-seat national stadium to the world as it is about the football itself, so expect the trip to double as a first look at a genuinely new piece of civic infrastructure rather than just another summer friendly.

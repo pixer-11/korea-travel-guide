@@ -17,8 +17,6 @@ faq:
     a: El parque Yoyogi está justo al lado, y la calle Takeshita de Harajuku y las boutiques de Omotesando están a cinco minutos a pie de la entrada principal del santuario.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, asistida por IA. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Meiji Jingu se construyó en 1920 para consagrar los espíritus deificados del emperador Meiji y la emperatriz Shoken, la pareja imperial a la que se atribuye haber guiado a Japón hacia la era moderna. Lo verdaderamente notable no son solo los edificios del santuario —reconstruidos en la década de 1950 tras la destrucción de los originales por los bombardeos de la guerra—, sino el bosque que los rodea. Más de 100.000 árboles, donados desde todos los rincones de Japón en la fundación del santuario, se plantaron deliberadamente para que madurasen hasta convertirse en un bosque autosuficiente, y un siglo después se siente como naturaleza salvaje ancestral más que como un parque público. Con una calificación de 4,6 en más de 51.000 reseñas, es uno de los lugares mejor valorados de Tokio de manera constante y, a diferencia de muchos templos de la ciudad, recorrer sus terrenos no cuesta nada.

@@ -17,8 +17,6 @@ faq:
     a: A primera hora de la tarde, cerca del atardecer, para aprovechar al máximo el entorno de la azotea; aun así, confirma el horario de apertura actual antes de ir, ya que puede cambiar.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA, usando fuentes web actuales. Los horarios y detalles cambian: confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Tales by Chapter es una de las historias gastronómicas más singulares que han surgido en la escena culinaria de Ciudad Ho Chi Minh en los últimos años: un concepto de cocina vegetal "rooftop-to-table" (de la azotea a la mesa) que ha recibido una Estrella Verde Michelin para 2026. La Estrella Verde es la distinción de Michelin para restaurantes que combinan una excelente cocina con una práctica genuinamente sostenible —no se trata solo de servilletas recicladas, sino de un verdadero modelo de circuito cerrado—. Aquí eso se traduce en productos cultivados in situ, en el propio huerto de la azotea del restaurante, complementados con ingredientes procedentes de una granja ecológica dedicada en Đà Lạt, la región montañosa de clima fresco de Vietnam famosa por sus productos agrícolas, su café y sus flores. Para quienes quieran probar hacia dónde se dirige la alta cocina vietnamita más allá de los puestos de pho y bánh mì, este es un nombre que vale la pena conocer.

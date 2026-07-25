@@ -17,8 +17,6 @@ faq:
     a: La calle de cafés de Seongsu-dong, el centro comercial hecho con contenedores Common Ground y varias tiendas insignia de moda coreanas e internacionales están todas a poca distancia a pie.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Los horarios y detalles cambian: confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 CAFE 3 STRIPES SEOUL es la incursión de Adidas en la tendencia del café como experiencia de marca que ha conquistado Seongsu-dong, el barrio ampliamente conocido como el "Brooklyn" de Corea por sus antiguas fábricas de calzado y almacenes ahora ocupados por tiendas insignia, galerías y estudios de diseño. El café abrió a finales de 2025 con un evento de presentación de un desfile de moda, lo que deja claro que está pensado menos como un lugar para tomar un café rápido y más como una parada cultural de marca: parte relato de marketing, parte instalación artística, parte cafetería. Su interior de estilo industrial-chic se apoya en la estética de hormigón visto y tuberías expuestas del barrio, sumándole la identidad visual de las tres franjas de Adidas e instalaciones pensadas para Instagram y las fotos. La carta, desarrollada junto con el colectivo creativo coreano DORE CREATIVE CREW, incluye unos 50 platos dirigidos claramente al gusto de la Generación Z por lo saludable, en la línea de esas cartas de comida y bebida limpias y muy cuidadas estéticamente que dominan hoy la cultura de cafés de Seúl.

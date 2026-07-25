@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Dedicated in 1886, the Statue of Liberty is one of the most recognized monuments on Earth and a National Monument administered by the National Park Service. Designed by French sculptor Frédéric Auguste Bartholdi with an internal iron framework by Gustave Eiffel, the copper statue was a gift from France marking the centennial of American independence and the two nations' alliance. With a 4.7 rating from over 112,000 reviews, it remains one of New York's most consistently praised attractions — not just for the statue itself but for the harbor views back toward Lower Manhattan and Brooklyn.

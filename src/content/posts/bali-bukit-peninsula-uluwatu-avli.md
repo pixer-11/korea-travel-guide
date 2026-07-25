@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why go
 
 Bali's Bukit Peninsula has no shortage of beach clubs and pan-Asian fusion menus, but genuine Greek cooking is rare here — which is exactly why AVLI has generated buzz since opening. It occupies a purpose-built 700 square-meter space designed by DA Bureau, an architecture practice known for sculptural, materials-forward interiors, and the scale alone sets it apart from the smaller warung-style restaurants that dominate Jalan Labuansait. For visitors who've done the rounds of Uluwatu's clifftop lounges and want a change of cuisine and atmosphere without leaving the peninsula, AVLI is the newest name to know.

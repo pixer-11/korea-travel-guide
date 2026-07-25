@@ -17,8 +17,6 @@ faq:
     a: El pargo rojo o mero a la parrilla (ikan bakar), los camarones y el calamar son opciones populares; acompáñalos con kangkung plecing, arroz y sambal. Pregunta al llegar cuál es la captura más fresca del día.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El puerto de Labuan Bajo está lleno de restaurantes de mariscos que atienden a los viajeros que van hacia el Parque Nacional de Komodo o vuelven de él, y Taman Laut Handayani es uno de los nombres más conocidos de la ciudad para este estilo de comida. El atractivo es sencillo: vitrinas con pescado fresco, camarones, calamar, cangrejo y langosta que tú mismo eliges, se pesan y cotizan en el momento, y luego se preparan a la parrilla o salteados al wok con condimentos indonesios como sambal, salsa de soya dulce (kecap manis) y ajo con mantequilla. Con una calificación de 4.6 en más de 5,700 reseñas, es sin duda una de las direcciones de mariscos con más afluencia en Labuan Bajo, no un hallazgo tranquilo — espera un comedor animado y lleno la mayoría de las noches.

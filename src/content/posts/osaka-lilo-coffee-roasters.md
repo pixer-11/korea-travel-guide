@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 LiLo Coffee Roasters has been quietly roasting its own beans in this corner of Nishishinsaibashi since 2014, long before "third wave" coffee became a buzzword in Osaka. What sets it apart from the countless café options in the area is consistency: a 4.8-star rating across more than 2,400 reviews is rare for any food or drink spot, let alone a small independent roaster competing with chains just blocks away. This is a destination for people who care about how their coffee is sourced and brewed, not just a place to sit down — though there is seating, and free Wi-Fi if you want to linger with a laptop.

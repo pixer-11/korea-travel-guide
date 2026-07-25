@@ -29,8 +29,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting. See our [editorial policy](/about).
-
 ## Why Seoul's street food scene is worth your time
 
 Street food in Seoul isn't a side note to the city's dining culture — it's a core part of it. Vendors range from centuries-old market stalls to late-night pojangmacha (orange tent bars) serving soju alongside skewers. Unlike some cities where street food is an afterthought, in Seoul it's often where the most technically skilled cooking happens, refined over decades by vendors who make one or two dishes and nothing else.

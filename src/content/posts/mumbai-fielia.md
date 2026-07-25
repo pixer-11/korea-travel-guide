@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why Fielia Is Worth Knowing About
 
 Fielia arrived in 2026 as one of Mumbai's most talked-about nightlife openings, and the buzz is less about a drinks menu than about the building itself. The bar is set inside a mill structure that is roughly a century old, repurposed and reimagined by designer-turned-entrepreneur Gauri Khan into what its team markets as India's first "Cocktail Cinema" — a concept that plays with theatrical lighting, screen-like backdrops, and a layout meant to feel like watching a film unfold rather than simply sitting at a bar. Double-height ceilings and mezzanine balconies give the space a cavernous, industrial-meets-glamorous feel that's rare in a city where most new bars are shoehorned into standard commercial units. For anyone tracking Mumbai's design-led hospitality scene, Fielia is a useful case study in how heritage industrial architecture is being repurposed for high-end leisure.

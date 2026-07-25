@@ -17,8 +17,6 @@ faq:
     a: El mercado Omicho (Omicho Market) está a un par de minutos, y el barrio de Higashi Chaya (Higashi Chaya District), el Parque del Castillo de Kanazawa (Kanazawa Castle Park) y el Jardín Kenroku-en (Kenroku-en Garden) están todos a entre 10 y 25 minutos a pie.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué Curio destaca en Kanazawa
 
 Kanazawa es una ciudad construida en torno a la laca artesanal, la hoja de oro y las casas de té de la era Edo, así que una cafetería obsesionada con el mobiliario mid-century, el espresso de origen único y el diseño analógico resulta casi desafiantemente moderna. Curio Espresso and Vintage Design Café se ha ganado un público fiel (calificación de 4.6 con más de 1,100 reseñas) precisamente porque no intenta ofrecer una experiencia tradicional de Kanazawa: es un cambio deliberado de ritmo y de paladar entre visitas a templos y tiendas de laca. El nombre es literal: la sala está llena de "curiosidades" (curios) —cámaras antiguas, carteles retro, sillones de segunda mano y tocadiscos— dispuestos como el estudio de un coleccionista, no como una cafetería de cadena.

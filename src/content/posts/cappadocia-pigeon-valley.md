@@ -65,8 +65,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Pigeon Valley (Güvercinlik Vadisi) is one of the easiest ways to experience Cappadocia's volcanic tuff landscape on foot without technical hiking gear. The valley runs between Uçhisar and Göreme and takes its name from the hundreds of pigeon houses — small rectangular openings carved into the soft rock face by villagers for centuries. Farmers kept pigeons for their droppings, an essential fertilizer for the region's vineyards and orchards before chemical alternatives existed, and painted the entrances white or outlined them with red ochre to attract the birds. Rated 4.6 from nearly 19,500 reviews, it's firmly on the mainstream circuit, but the walk still delivers genuine quiet stretches, honey-colored rock formations, and some of the best ground-level views of the fairy chimneys that make this region famous.

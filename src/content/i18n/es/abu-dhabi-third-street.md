@@ -17,8 +17,6 @@ faq:
     a: Con una hora a 90 minutos alcanza para probar varios puestos. Al principio de la noche (entre las 7 y las 9 pm) suele haber la mayor variedad de platillos disponibles y el ambiente más animado.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Third Street no es un restaurante único con chef y carta de vinos: es un food court, y precisamente ahí está el atractivo. En una ciudad donde la ruta turística está dominada por bufés de hotel y cadenas frente al mar, un food court genuinamente bien valorado y sin pretensiones en Mohamed Bin Zayed City (MBZ City) es una oportunidad para comer como realmente comen los residentes de los suburbios interiores de Abu Dabi entre semana. Una calificación de 4.7 con unas 100 reseñas es una señal significativa para un food court de este tipo: no es un destino viral que acumula miles de reseñas, sino un lugar que se ha ganado discretamente la lealtad de quienes comen allí habitualmente.

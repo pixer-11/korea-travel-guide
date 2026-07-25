@@ -45,8 +45,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Jeonju Hanok Village is packed with cafés chasing the "trendy hanok" aesthetic, but Masirange (masiranghe roughly translates from a regional dialect meaning "let's have a taste"/"delicious") stands out for consistency — it holds a 4.5 rating across more than 500 reviews, which in a neighborhood this saturated with tourist-trap options is a meaningful signal. The appeal isn't a gimmick drink; it's the combination of a genuine hanok building, traditional tea and dessert options, and a location close to the village's most photographed landmarks. It's a good stop for travelers who want the hanok-café experience without wandering into a themed chain.

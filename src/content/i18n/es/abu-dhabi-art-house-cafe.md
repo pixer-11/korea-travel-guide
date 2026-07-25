@@ -17,8 +17,6 @@ faq:
     a: Al Bateen Marina y el tramo occidental de la Corniche están a poca distancia en coche, y también se puede llegar a Qasr Al Hosn y la Cultural Foundation para una salida más amplia centrada en el arte y la historia.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Art House Cafe es menos una cafetería independiente que un pequeño descubrimiento dentro de la Etihad Modern Art Gallery, uno de los rincones culturales más discretos de Abu Dabi, en la zona de Al Bateen. La combinación funciona: encuentras un interior genuinamente fotogénico y colorido —piensa en piezas de arte dispares, murales llamativos y un ambiente de patio frondoso— junto a una carta centrada en platos de desayuno, sándwiches y café y té de especialidad. Con una valoración de 4.6 sobre más de 3,000 reseñas, se ha ganado seguidores fieles entre residentes y visitantes que buscan un brunch con estilo que no esté dentro de un centro comercial. Es el tipo de lugar ideal para una mañana tranquila: pides algo, paseas por la galería y vuelves a sentarte para un segundo café.

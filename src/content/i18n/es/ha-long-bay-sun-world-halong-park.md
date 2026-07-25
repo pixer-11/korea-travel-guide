@@ -17,8 +17,6 @@ faq:
     a: La Sun Wheel (la gigantesca noria de Ha Long) y el Typhoon Water Park forman parte del mismo complejo Sun World, y el paseo marítimo y el mercado nocturno de Bai Chay están a poca distancia para disfrutar una noche después del parque.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Sun World Halong Park es la atracción principal de Bai Chay —el lado turístico de la bahía de Ha Long, frente al más antiguo distrito de Hon Gai— y es la manera más sencilla de llenar medio día cuando cambia el clima o cuando los visitantes quieren un descanso de los paseos en barco y las visitas a cuevas. Es un parque temático completo con una montaña rusa, un llamativo carrusel de dos pisos (double-decker) que se ha convertido en un punto fotográfico icónico del paseo marítimo de Bai Chay, y un parque acuático anexo, todo ubicado en la ladera y la costa cerca del puente Bai Chay (Bai Chay Bridge). Con una calificación de 4.4 en aproximadamente 3,800 reseñas, es una de las atracciones de pago mejor valoradas de forma constante en la zona de la bahía, y combina de manera natural con la Sun Wheel (la gigantesca noria de Ha Long) y el Typhoon Water Park, que forman parte del mismo complejo Sun World.

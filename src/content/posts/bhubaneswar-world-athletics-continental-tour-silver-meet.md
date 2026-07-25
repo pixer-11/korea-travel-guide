@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why this meet matters
 
 India has hosted World Athletics Continental Tour meets before, but the 2026 edition in Bhubaneswar marks the country's first at Silver level — one rung below the Continental Tour's Gold tier and above Bronze. The same Kalinga Stadium held a Bronze-level Continental Tour meet in 2025, so this is a direct step up in status, which typically means a stronger international start list, more World Athletics ranking points on offer, and closer alignment with the global Diamond League-adjacent circuit. For a city that has spent the last decade building a reputation as India's emerging sports capital, this is a marquee date on the 2026 calendar.

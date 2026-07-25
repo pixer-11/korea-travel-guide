@@ -29,8 +29,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting. See our [editorial policy](/about).
-
 ## Why Hwaseong Fortress Matters
 
 Built between 1794 and 1796 under King Jeongjo of the Joseon Dynasty, Hwaseong Fortress was designed as both a military stronghold and a tribute to the king's father, Crown Prince Sado. Unlike Seoul's older fortress walls, Hwaseong incorporated then-cutting-edge design informed by Confucian scholar Jeong Yak-yong, blending Korean and Chinese defensive architecture with early Western-influenced engineering. It was inscribed as a UNESCO World Heritage Site in 1997, largely because construction records (the Hwaseong Seongyeok Uigwe) survived almost completely, allowing precise post-Korean War restoration. The result is one of the few Korean fortresses where you can walk an essentially unbroken 5.7-kilometer wall loop encircling a living, modern city center.

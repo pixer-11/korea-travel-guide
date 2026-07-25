@@ -41,8 +41,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Ramen Yokocho, the alley where Sapporo Ramen Haruka sits, is where the city's miso ramen identity was essentially born in the 1950s, when a cluster of stalls started serving butter- and corn-topped miso broth to workers and late-night crowds. Haruka has become one of the standouts in that lineup, pulling a 4.8 rating across more than 4,000 reviews — a remarkable number for a shop with only a handful of counter seats. The appeal isn't decor (there isn't much) but the concentration of flavor: a pork-and-vegetable-based broth built on fermented miso, finished with a knob of butter that melts into the soup tableside, plus firm, slightly curly noodles designed to hold up to the thick broth. Gyoza and cold beer round out the menu, making it a legitimate dinner stop rather than just a quick bowl.

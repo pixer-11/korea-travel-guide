@@ -17,8 +17,6 @@ faq:
     a: 殖民时期的 Braga 历史街区、亚非会议博物馆（Asia-Africa Conference Museum），以及带有万隆大清真寺（Bandung Grand Mosque）的万隆广场（Alun-Alun Bandung），都只需短途车程即可到达。
 ---
 
-> **本指南制作方式：** 经编辑审校，AI 辅助生成。信息来源于 Google Places 实时数据；图片均获得授权或来自公共领域。详见我们的[编辑政策](/about)。
-
 ## 为什么值得一去
 
 Lengkong Alit 并不追逐游客人流——它是一家藏身于 Jl. Lengkong Kecil No.60 的社区家庭餐馆，位于万隆中南部 Kecamatan Lengkong 的 Paledang 区域。凭借 376 条评价 4.7 分的成绩，它靠的是本地食客的反复光顾，而非病毒式美食探店报道，默默积累了口碑。对于已经逛过 Braga 街和亚非会议（Asia-Africa）走廊的游客来说，这正是那种值得凭好奇心一探的地方：一家地地道道的居民街小馆，而非精心打造的"体验式"餐厅，坐落在这座城市依然充满生活气息的一隅。

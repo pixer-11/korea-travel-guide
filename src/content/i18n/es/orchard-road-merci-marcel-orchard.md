@@ -17,8 +17,6 @@ faq:
     a: El propio Palais Renaissance cuenta con tiendas boutique, y ION Orchard, Ngee Ann City y Wisma Atria están todos a 5–10 minutos a pie.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 MERCI MARCEL es una importación francesa: la sucursal de Singapur se encuentra dentro de Palais Renaissance, una de las galerías comerciales de baja altura más antiguas de Orchard Road, situada entre las torres de cristal de ION Orchard y Delfi Orchard. La marca construyó su reputación en París y Niza con un concepto relajado y lleno de plantas de "comer todo el día": cruasanes y café por la mañana, ensaladas y tartines al mediodía, y vino y platos de bistró por la noche. El local de Orchard traslada ese mismo formato a un entorno de centro comercial, lo cual forma parte de su atractivo: es una opción genuina para sentarse y comer con calma en un tramo de Orchard Road dominado, por lo demás, por patios de comidas y cadenas de rotación rápida. Una calificación de 4.7 con más de 4.000 reseñas lo convierte en uno de los restaurantes occidentales mejor valorados de forma constante en esta zona.

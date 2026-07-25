@@ -17,8 +17,6 @@ faq:
     a: El Parc Monceau, con su rotonda y sus falsas ruinas ('follies'), está a poca distancia a pie, al igual que las grandiosas avenidas Belle Époque del distrito 8. El Arco de Triunfo (Arc de Triomphe) y los Campos Elíseos (Champs-Élysées) también son fácilmente accesibles a través de la línea 2.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, utilizando fuentes web actuales. Los horarios y detalles cambian: confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué Fuga R destaca
 
 París no tiene escasez de bares en azotea, pero la mayoría se concentran alrededor del Sena, el Marais o los grandes bulevares (grands boulevards). Fuga R rompe ese patrón al instalarse sobre el barrio de Monceau, en el distrito 8, un rincón más tranquilo y adinerado de la ciudad, conocido sobre todo por las fantasías clásicas del Parc Monceau y sus majestuosas mansiones haussmannianas. Inaugurado en 2026 como parte de la expansión del grupo Fuga, su rasgo distintivo es un auténtico panorama de 360 grados, algo más excepcional de lo que parece, ya que la mayoría de las azoteas parisinas solo ofrecen una porción parcial del horizonte. Esa vista completa, sumada a la reputación del grupo por sus espacios de diseño vanguardista, explica por qué ya se habla de él como una de las aperturas más marcadoras de tendencia en la ciudad para tomar algo o cenar.

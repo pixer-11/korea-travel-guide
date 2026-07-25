@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Shibuya Crossing (21 Udagawacho, Shibuya, Tokyo 150-0042) is the intersection you've already seen in dozens of films and TV segments about Tokyo — the one where five crosswalks converge and, when the lights change, hundreds of pedestrians flood the street from every direction at once. It's rated 4.5 stars across more than 22,000 reviews, making it one of the most consistently praised free attractions in the city. There's no admission fee, no ticket, and no set hours — it's a functioning street intersection that happens to be one of the world's busiest and most photographed. At peak times, estimates put the number of people crossing per light cycle well into the hundreds, sometimes over a thousand during evening rush.

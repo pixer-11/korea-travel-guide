@@ -17,8 +17,6 @@ faq:
     a: 'Sí: el casco antiguo tiene un castillo-parador del siglo XII, una plaza histórica y gastronomía aragonesa que vale la pena descubrir incluso fuera del fin de semana de carreras.'
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA, usando fuentes web actuales. Las fechas y entradas de eventos cambian: confirma siempre en la web oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 MotorLand Aragón es uno de los circuitos más técnicos y cercanos al aficionado del calendario de MotoGP: un trazado de 5,3 km con una larga recta trasera, chicanas cerradas en el interior y gradas que ofrecen una ventaja real de visibilidad frente a otros escenarios del deporte más grandes y dispersos. El Gran Premio de Aragón, que se celebra del 28 al 30 de agosto de 2026, es un fin de semana completo de tres días con entrenamientos libres, clasificación y carreras de MotoGP, Moto2 y Moto3, además de las categorías de apoyo que suelen completar el programa. Para los visitantes, también es una oportunidad de conocer un rincón de España —la comarca del Bajo Aragón, en la provincia de Teruel— que la mayoría de los turistas se salta por completo en favor de Madrid o Barcelona.

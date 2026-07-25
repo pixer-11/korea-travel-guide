@@ -17,8 +17,6 @@ faq:
     a: 'No cómodamente: es un trayecto corto en taxi, no una caminata. Muchos visitantes combinan una tarde en Dubai Mall o la zona del Burj Khalifa con una reserva para cenar en Nobu esa misma noche.'
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Los horarios y detalles cambian: confírmalos antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Nobu casi no necesita presentación: la cadena fundada por Nobu Matsuhisa construyó su reputación mundial sobre la cocina japonesa filtrada a través de la técnica peruana, y esta es su tercera sede en Dubái. Lo que distingue a la sucursal de One Za'abeel no es tanto el menú como el entorno: ocupa parte de The Link, la estructura de puente aéreo horizontal que ostenta récords y que une las torres gemelas de One Za'abeel a unos 230 metros sobre el nivel de la calle. Eso la convierte en uno de los restaurantes situados a mayor altura en una ciudad que no escasea en altitud, con vistas de suelo a techo sobre los skylines de Downtown Dubai y DIFC. Para quienes buscan la experiencia Nobu con una razón específica de Dubái para elegir esta sucursal por encima de las demás, la vista es el factor diferenciador.

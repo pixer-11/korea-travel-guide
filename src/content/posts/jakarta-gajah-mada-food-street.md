@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Gajah Mada Food Street Matters
 
 Jakarta's food-court culture usually means air-conditioned mall basements, but Gajah Mada Food Street flips that script with an open-air, semi-covered courtyard lined with independent stalls and long communal tables. It sits on Jl. Gajah Mada, the old commercial spine connecting Central Jakarta to the historic Glodok and Pancoran Chinatown district in West Jakarta (Kecamatan Taman Sari). The address puts it right in the Krukut neighborhood, an area layered with colonial-era shophouses, temples, and decades-old eateries — so the food street works as both a dinner destination and a jumping-off point for exploring one of the city's oldest quarters.

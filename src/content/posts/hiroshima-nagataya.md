@@ -93,8 +93,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Nagataya
 
 Hiroshima-style okonomiyaki is stacked, not mixed — a thin crepe, a mountain of shredded cabbage, pork belly, egg, and springy yakisoba or udon noodles, all pressed together on a teppan griddle and finished with a tangy-sweet sauce. Nagataya is one of the city's respected addresses for this dish, with a reputation built over decades and a Google rating of 4.4 from over 3,300 reviews — a strong signal in a city with hundreds of okonomiyaki shops competing for the same tourists and regulars. What sets it apart for international visitors is that it's one of the relatively few okonomiyaki spots in central Hiroshima to explicitly offer vegan and vegetarian versions, swapping the pork and traditional sauce components so plant-based travelers don't have to skip the city's signature dish.

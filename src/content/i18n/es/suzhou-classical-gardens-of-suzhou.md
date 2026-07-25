@@ -17,8 +17,6 @@ faq:
     a: La primavera (marzo–mayo) y el otoño (septiembre–noviembre) ofrecen el clima más agradable y los mejores paisajes; ve por las mañanas entre semana para evitar las mayores aglomeraciones de grupos turísticos.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por editores, con apoyo de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Los jardines clásicos de Suzhou son el punto de referencia del diseño de jardines chinos — el modelo del que se inspiraron los jardines imperiales de Beijing y un sinfín de patios privados en toda Asia Oriental. Construidos por eruditos-funcionarios y comerciantes adinerados entre los siglos XI y XIX, condensan montañas, ríos, bosques y arquitectura en espacios amurallados que a veces no superan el tamaño de una manzana, empleando técnicas como el paisaje prestado (jiejing), pasillos cubiertos y sinuosos, y "puertas lunares" enmarcadas para que unas pocas hectáreas parezcan un paisaje completo. La UNESCO inscribió nueve de ellos en conjunto en 1997 y 2000 bajo el título general de "Jardines Clásicos de Suzhou", reconociéndolos colectivamente como la cumbre del género. No se trata de una única atracción con entrada y dirección — es una red repartida por toda la ciudad, así que el reto práctico es decidir cuáles jardines priorizar.

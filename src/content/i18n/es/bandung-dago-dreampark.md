@@ -17,8 +17,6 @@ faq:
     a: El parque se ubica en el corredor Dago-Lembang, cerca de Tebing Keraton, Dago Pakar y el conjunto de atracciones familiares de Lembang, como Farmhouse Susu Lembang y el Floating Market, lo que facilita combinarlo todo en una sola salida de un día.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Dago Dreampark se encuentra en un bosque de pinos junto a Jalan Dago Giri, en la ruta que sube desde Dago, al norte de Bandung, hacia Lembang. Más que una atracción única, es un conjunto de zonas de actividades repartidas por una ladera: pistas de ATV que se abren paso entre los árboles, arenas de paintball, una tirolina, columpios gigantes suspendidos sobre el valle y una oferta cambiante de rincones pensados para Instagram (sillas de tamaño descomunal, "nidos" en las alturas, plataformas flotantes) que lo han convertido en parada fija de las excursiones de un día desde Bandung. Con casi 20.000 reseñas y una calificación de 4.2, es sin duda una de las atracciones más concurridas del corredor de Lembang, junto a vecinos como Dago Pakar y el mirador de Tebing Keraton, un poco más adelante en la misma carretera.

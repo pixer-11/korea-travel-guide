@@ -17,8 +17,6 @@ faq:
     a: Se puede combinar la reunión con visitas al Templo Lingaraj (Lingaraj Temple), el Templo Mukteshwar (Mukteshwar Temple) y las Cuevas de Khandagiri-Udayagiri (Khandagiri-Udayagiri Caves), todas a poca distancia en coche del centro de la ciudad.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Las fechas de los eventos y las entradas cambian: confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué importa esta reunión
 
 Bhubaneswar ha pasado la última década construyendo su reputación como la ciudad anfitriona más creíble de India para el deporte de élite, y el Indian Open es su prueba más reciente. Tras albergar una reunión de categoría bronce del Continental Tour en el Estadio Kalinga (Kalinga Stadium) en 2025, Bhubaneswar ha ascendido a categoría Plata para 2026, situándose un escalón por encima de la mayoría de las reuniones regionales del circuito global de World Athletics y un peldaño por debajo de las pruebas de la Diamond League. Una designación Plata suele atraer una lista de salida internacional más fuerte, más puntos para el ranking mundial en juego y estándares de competición más exigentes, por lo que se espera ver a atletas persiguiendo marcas de clasificación para campeonatos mundiales junto a un sólido talento nacional indio.

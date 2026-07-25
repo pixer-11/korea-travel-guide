@@ -17,8 +17,6 @@ faq:
     a: Consulta siempre letour.fr, el sitio web oficial del Tour de Francia, más cerca de julio de 2026 para conocer las localidades de etapa definitivas, el circuito de París y cualquier cambio de horario.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, utilizando fuentes web actuales. Las fechas y entradas de los eventos cambian: confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El Tour de Francia es el escenario más grande de este deporte, y el último fin de semana es donde se decide, y luego se celebra, el ganador general. La edición de 2026 —la 113.ª— comenzó en Barcelona el 4 de julio y recorre 3.333 km por Francia antes de un exigente paso por los Alpes en los días finales. Ver una llegada de etapa en montaña y la llegada a París en el mismo viaje permite conocer las dos caras de la carrera: el sufrimiento puro en las subidas y el puro espectáculo en los bulevares. A diferencia de la mayoría de los grandes eventos deportivos, el acceso desde la carretera es gratuito: solo hay que saber dónde y cuándo colocarse.

@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why this show matters
 
 HONNE — the British duo Andy Clutterbuck and James Hatcher — built a decade-long catalog of lush, R&B-inflected electronic pop, from early singles like "Warm on a Cold Night" to later records blending synth-funk and soul. A decade in, they're marking the milestone with an anniversary tour, and Kuala Lumpur gets two nights instead of the usual single stop — a sign of how strong their Southeast Asian fanbase has grown since their earlier Malaysia appearances. For fans, back-to-back dates mean more flexibility to catch the show around work or travel schedules, and a better shot at tickets if one night sells out first.

@@ -41,8 +41,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Into the Forest has quietly become one of Krabi's most photographed newer spots, and the numbers back up the hype: a 4.9 rating across more than 5,000 reviews is unusually high for any café-attraction in Thailand. What sets it apart from the beach-and-island itinerary most visitors default to is its setting — a landscaped jungle environment in Khao Thong, on Krabi's inland side, where raised wooden walkways, tropical greenery, and small water features are designed as much for wandering and photography as for sitting down with a coffee. It's the kind of place that rewards slow exploration rather than a quick drive-by, and it gives visitors a reason to see a side of Krabi that isn't a limestone cliff or a longtail boat.

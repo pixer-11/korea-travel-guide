@@ -17,8 +17,6 @@ faq:
     a: El mercado nocturno de Dinh Cau está a solo unos minutos en auto o scooter, lo que lo convierte en una combinación natural para el postre o para más comida callejera después de la cena.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La oferta gastronómica de Phu Quoc suele dividirse entre los puestos de mariscos frente a la playa y los restaurantes de hotel, así que un lugar como Chuồn Chuồn Bistro & Bar destaca por su ambiente cuidado y con estilo, sin llegar a sentirse como parte de una cadena de resorts. El nombre se traduce como "libélula", y el espacio se apropia de ese tema con vegetación, luces cálidas y asientos al aire libre que se sienten más como un lounge de jardín que como un restaurante convencional. Es el tipo de lugar que los viajeros eligen para una noche más pausada: unos cócteles, platos para compartir y suficiente encanto ambiental como para justificar una cena de dos horas en lugar de comer con prisa.

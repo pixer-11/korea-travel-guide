@@ -17,8 +17,6 @@ faq:
     a: Seongsan Ilchulbong, el pico volcánico de toba visible desde Udo, está a un corto trayecto en coche del puerto del ferry y combina bien como complemento en el mismo día.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El Curso 1-1 es un ramal de la famosa red de senderos Olle de Jeju, trazado íntegramente en Udo (literalmente "Isla de la Vaca"), un pequeño islote volcánico a un corto trayecto en ferry desde la costa este de Jeju. A diferencia de las rutas de la isla principal de Jeju, esta recorre una isla dentro de otra isla: unos 11,5 km de sendero costero que atraviesan litorales de basalto negro, bajíos turquesa, ganado pastando en praderas abiertas y una colina coronada por un faro con vistas amplias hacia Seongsan Ilchulbong, el icónico cono de toba de Jeju. Es popular precisamente porque Udo concentra una variedad extraordinaria de paisajes —playa, acantilado, tierras de labranza, pueblo de pescadores— en una isla que se puede recorrer por completo en unas pocas horas. Con una calificación de 4,5 en reseñas locales, se considera constantemente uno de los desvíos del Olle más gratificantes, especialmente para quienes buscan una alternativa más tranquila a las rutas de senderismo más concurridas de la isla principal de Jeju.

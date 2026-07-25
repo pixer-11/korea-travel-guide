@@ -64,8 +64,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Cloud Gate is one of the most photographed public artworks in the world, and it earns the attention. British artist Anish Kapoor designed the 110-ton, seamless stainless-steel sculpture to evoke a liquid mercury droplet, and its 168 polished plates were welded and buffed until the seams vanished — a feat of fabrication that took over two years to complete before its 2006 dedication. The mirrored skin reflects and distorts Chicago's skyline, including the Aon Center and the trees of Millennium Park, warping the whole scene into a fisheye panorama that changes with the light, the season, and where you stand. It's free, it's outdoors, and it rewards even a short visit.

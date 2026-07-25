@@ -93,8 +93,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Clarke Quay is best known for riverside clubs, chain restaurants, and tourist-priced seafood, so a restaurant scoring 4.8 across more than 1,300 reviews stands out. Malayan Settlement's premise is straightforward but well-executed: take the flavor vocabulary of Peranakan and Malay cooking — rendang spice pastes, belacan, gula melaka, sambal — and apply it to a Western-style menu of steaks, pastas, and grills. The result reads as fusion comfort food rather than gimmick, and it's become a genuine draw for both Singaporeans and visitors staying near the river.

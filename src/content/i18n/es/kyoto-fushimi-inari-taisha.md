@@ -17,8 +17,6 @@ faq:
     a: 'Sí: la mayoría de los visitantes da la vuelta después del tramo principal del Senbon Torii, así que continuar más allá de Yotsutsuji te recompensa con senderos más tranquilos, santuarios secundarios más pequeños, estatuas de zorros y vistas de la ciudad, incluso si no llegas hasta la cima.'
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El Fushimi Inari Taisha es el santuario principal dedicado a Inari, la deidad sintoísta del arroz, el sake y la prosperidad, y se alza a los pies del monte Inari desde el año 711 d.C., lo que lo convierte en uno de los emplazamientos de culto activos más antiguos de Japón. Lo que atrae a más de 89.000 reseñas y a millones de visitantes al año no es solo su antigüedad, sino el Senbon Torii, un corredor formado por miles de puertas bermellón que asciende por la ladera de la montaña en una sucesión estrecha y muy fotogénica. Cada puerta fue donada por una persona o negocio con la esperanza de obtener buena fortuna, y esta práctica continúa hoy en día: verás los nombres de los donantes y las fechas pintados en tinta negra en la parte trasera de casi todos los postes. Con una calificación de 4,6 sobre casi 90.000 reseñas, se mantiene constantemente entre las atracciones individuales más visitadas de Kioto.

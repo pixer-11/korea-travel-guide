@@ -17,8 +17,6 @@ faq:
     a: El Parque Seoul Forest está a un corto paseo para una pausa entre zonas verdes, y la zona de la Universidad Konkuk queda unas pocas paradas más adelante en la Línea 2, ideal para vida nocturna y comida de ambiente estudiantil si buscas un cambio de ritmo.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Las imágenes tienen licencia o son de dominio público. Se trata de una visión general de la zona/tema: verifica los detalles concretos de cada local antes de tu visita. Consulta nuestra [política editorial](/about).
-
 ## Por qué Seongsu se convirtió en el distrito de cafés de Seúl
 
 Seongsu-dong se encuentra en la orilla este del río Han, en el distrito de Seongdong, y hasta la década de 2010 era conocido principalmente por sus pequeños talleres de calzado y cuero; todavía se pueden ver carteles de "calle del calzado artesanal" cerca de la estación de Seongsu. A medida que subieron los alquileres en Hongdae e Itaewon, diseñadores y marcas de restauración empezaron a reconvertir las antiguas fábricas de ladrillo, imprentas y talleres mecánicos del barrio en cafés, tiendas insignia y galerías, conservando los suelos de hormigón visto, las vigas de acero y los techos de almacén. Esa estética que combina lo industrial con lo minimalista es hoy el sello distintivo de la zona, y por eso los medios locales comparan a menudo Seongsu con Brooklyn o Shoreditch. Marcas de moda (incluidas varias firmas internacionales) han abierto aquí showrooms temporales precisamente porque la cultura de cafés ya atrae a un público interesado en el diseño y en hacerse fotos.

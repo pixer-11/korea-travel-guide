@@ -17,8 +17,6 @@ faq:
     a: Petite France, el Jardín de la Calma Matutina (Garden of Morning Calm) y el parque de bicicletas sobre raíles de Gapyeong (Gapyeong Rail Bike) están a un corto trayecto en coche del muelle de Gapyeong y suelen combinarse en una misma excursión de un día.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Las imágenes tienen licencia o son de dominio público. Se trata de una descripción general de la zona o el tema — verifica los detalles concretos de cada lugar antes de visitarlo. Consulta nuestra [política editorial](/about).
-
 ## Por qué Nami Island importa a los fans del K-Drama
 
 Nami Island (Namiseom) se convirtió en un imán turístico mundial después de servir como escenario de rodaje de "Sonata de invierno" (2002), la serie a la que se atribuye el impulso inicial de la Ola Coreana (Hallyu) en Japón y el sudeste asiático. La imagen que persiguen la mayoría de los visitantes es la doble hilera de altos metasequoias y ginkgos que bordea el camino de entrada principal de la isla, por donde caminaron los protagonistas en una escena célebre. Más allá de esa escena, la isla en sí funciona casi como un parque cultural autónomo: de hecho, está registrada oficialmente como la "República de Naminara" (Naminara Republic), una fantasiosa micronación con su propio "visado" de entrada (el billete), lo que añade un aire de cuento de hadas que va más allá de cualquier serie en particular.

@@ -17,8 +17,6 @@ faq:
     a: El callejón de ramen de Susukino y el mercado Nijo (Nijo Market) están a poca distancia a pie, por lo que es fácil combinar el yakiniku con una parada más ligera de ramen o una visita matutina al mercado de mariscos al día siguiente.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué GYUMON destaca
 
 Sapporo no carece de locales de yakiniku, pero un promedio de 4.9 en más de 3,100 reseñas coloca a GYUMON en un terreno poco común para una ciudad tan reconocida por su ramen y sus mariscos como por su carne. El restaurante se encuentra bajo el nivel de la calle, en el edificio N・グランデビル de Minami 5 Jōnishi, en pleno corazón de Susukino, el distrito de vida nocturna y gastronomía más grande de Hokkaido. Al estar en el sótano, el ambiente resulta íntimo: espera una sala de parrilla compacta y con buena ventilación del humo, en lugar de un gran salón de banquetes, lo cual es parte de por qué la experiencia se siente más cuidada que la de un típico local de tabehodai (yakiniku de todo lo que puedas comer) de los alrededores.

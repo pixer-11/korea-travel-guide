@@ -31,8 +31,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting. See our [editorial policy](/about).
-
 ## Why go
 
 The Jinju Namgang Yudeung Festival is one of Korea's signature light festivals, built around a genuinely moving piece of history rather than a manufactured spectacle. The floating lanterns on the Namgang River commemorate the 1592-93 Siege of Jinju during the Imjin War, when defenders and civilians reportedly used lit lanterns on the river to communicate across the water and to signal for reinforcements. That historical layer — thousands of paper and silk lanterns drifting past the stone walls of Jinjuseong Fortress — gives the festival a gravity that distinguishes it from purely decorative lantern events elsewhere in Asia. Large-scale lantern sculptures (zodiac animals, historical figures, folk scenes) line the riverbanks and fortress grounds, and the reflections on the water roughly double the visual effect after dark.

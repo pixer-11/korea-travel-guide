@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Sapporo TV Tower has anchored the skyline at the east end of Odori Park since the late 1950s, making it one of the city's most recognizable landmarks alongside the Sapporo Clock Tower. It's not the tallest or newest observation tower in Japan, and it won't pretend to be — but that's part of its appeal. The red steel lattice structure has a genuinely retro, mid-century charm, and the observation deck delivers a clean, unobstructed view straight down Odori Park's tree-lined promenade toward Mt. Moiwa and the Teine mountain range on clear days. With a 4.1 rating from nearly 17,000 reviews, it's a well-worn but reliably satisfying stop, especially for first-time visitors trying to get their bearings on Sapporo's grid layout.

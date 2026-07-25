@@ -17,8 +17,6 @@ faq:
     a: Reserva al menos 45–60 minutos, ya que la comida se asa y está pensada para comerse sin prisa; evita programarla demasiado cerca de la salida de un vuelo.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El cerdo negro de la Isla de Jeju (heugdwaeji) es uno de los platos emblemáticos de la región, y Gozip Dol Wooluck se ha ganado una sólida reputación por él justo a la puerta del Aeropuerto Internacional de Jeju (Jeju International Airport). Con una calificación de 4.7 sobre unas 5,700 reseñas, es evidente que hace algo bien, tanto para los locales como para el flujo constante de viajeros que pasan por ahí. El nombre de "sucursal del aeropuerto" es una comodidad real: es un lugar para comer bien sin gastar media jornada de viaje en llegar, ya sea que acabas de aterrizar y necesitas comida de verdad, o que estás matando el tiempo antes de un vuelo de regreso.

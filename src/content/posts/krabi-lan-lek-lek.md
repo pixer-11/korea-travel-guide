@@ -41,8 +41,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Lan Lek Lek has built its reputation the old-fashioned way: consistently good, cheap Thai cooking served fast, with almost no marketing beyond word of mouth and a stack of five-star reviews (4.8 stars across more than 1,200 reviews at last count). In a town like Krabi, where much of the waterfront dining caters heavily to tour groups and package travelers, a restaurant with this kind of sustained local and visitor praise — at a genuinely low price level — stands out. It's the sort of place regulars return to trip after trip rather than a one-off photo stop.

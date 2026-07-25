@@ -17,8 +17,6 @@ faq:
     a: Camina por Thalang Road y Soi Rommani para ver la arquitectura del Casco Antiguo y el arte callejero, visita Chinpracha House, o programa tu visita para un domingo por la noche y así llegar caminando hasta Lard Yai Walking Street, muy cerca de allí.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El Casco Antiguo de Phuket (Old Town) no anda escaso de restaurantes que persiguen "likes" en Instagram con comida mediocre, así que un lugar con una calificación de 4.7 en más de 4,700 reseñas merece atención. Day & Night Of Phuket, ubicado en la zona de Talat Yai, dentro del distrito de Mueang Phuket, se ha ganado su reputación a la manera tradicional: cocina tailandesa consistente, porciones generosas y un menú que no se siente simplificado para turistas. El nombre sugiere su atractivo: funciona igual de bien como parada de mediodía para recargar energías después de recorrer los edificios patrimoniales de Thalang Road, que como base nocturna antes de dirigirte a Phuket Walking Street (Lard Yai), que se instala los domingos por la tarde-noche en el mismo núcleo histórico.

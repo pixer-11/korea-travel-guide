@@ -17,8 +17,6 @@ faq:
     a: El Cabo Chinen (Cape Chinen) y el sitio sagrado Sefa-utaki, declarado Patrimonio de la Humanidad por la UNESCO, están a poca distancia en coche dentro de Nanjo, lo que permite armar un buen itinerario costero si alquilas un vehículo.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes están licenciadas o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué vale la pena el desvío hasta Okinawa World
 
 La mayoría de los visitantes se alojan en Naha, y es fácil pasar todo el viaje moviéndose entre la ciudad y los resorts de playa del norte sin llegar a ver el interior de la isla. Okinawa World, en Tamagusuku, ciudad de Nanjo, es la razón para desviarse hacia el sur. Reúne tres experiencias distintas —una auténtica cueva natural de piedra caliza, una aldea reconstruida de la era Ryukyu con artesanos trabajando en vivo y actuaciones en directo de tambores folclóricos Eisa— en una sola atracción cerrada con una calificación de 4.3 estrellas entre casi 19,000 reseñas, lo que confirma que es popular pero también consistentemente bien valorada, y no una simple trampa para turistas.

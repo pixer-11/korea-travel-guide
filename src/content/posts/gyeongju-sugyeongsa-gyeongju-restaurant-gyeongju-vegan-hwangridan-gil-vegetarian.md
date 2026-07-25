@@ -67,8 +67,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Sugyeongsa stands out
 
 Gyeongju's dining scene leans heavily on grilled meats, hanjeongsik banquets, and street snacks around Hwangridan-gil, which makes a dedicated vegan/vegetarian address like Sugyeongsa (수경사) genuinely useful rather than a niche curiosity. The name itself signals its leanings toward temple-food traditions — the "sa" suffix echoes Buddhist temple naming, and the cooking style follows suit: mild seasoning, fermented pastes, tofu, wild greens (namul), and mushrooms rather than fish sauce, meat stock, or shellfish that quietly show up in a lot of "vegetarian-friendly" Korean food. A 4.9 average across 268 reviews is an unusually strong signal for a restaurant of this size, suggesting consistency rather than a one-off viral moment.

@@ -17,8 +17,6 @@ faq:
     a: El ArtScience Museum, el Sands SkyPark y el espectáculo nocturno de luces Spectra a lo largo del malecón están todos a poca distancia caminando.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Le Noir se encuentra dentro del enorme complejo comercial y gastronómico de Marina Bay Sands, pero no se siente como un restaurante de centro comercial. El interior apuesta por una estética oscura y teatral —piensa en laca negra, detalles dorados, instalaciones florales de gran tamaño e iluminación tenue— que lo ha convertido en un lugar favorito para fotos tanto como por la comida y la bebida en sí. El local funciona principalmente como bar con un menú sustancial de platos pequeños y cena, lo que lo hace flexible: puedes pasar por un solo cóctel o instalarte para una velada más larga con platos para compartir. Una calificación de 4.8 con más de 3,000 reseñas es una señal fuerte para un local de este tamaño, y refleja consistencia más que una tendencia pasajera.

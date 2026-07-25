@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why Kiwon is on Milan's radar
 
 Kiwon has become one of the names people mention when they talk about Milan's evolving nightlife scene — the wave of small, chef-driven rooms that blend serious cooking with a bar atmosphere rather than a traditional sit-down restaurant format. It's a Korean small-plates spot and wine bar led by chef Ha Neul Ko, and its identity is built as much around the room as the food: a counter designed by Oooh Studio wraps around an open-plan kitchen, so diners watch dishes being plated a few feet away rather than being tucked into a separate dining room. That format — part chef's counter, part bar — is exactly why it's been picked up by design and food press covering the city's newer openings.

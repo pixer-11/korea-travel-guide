@@ -17,8 +17,6 @@ faq:
     a: Jl. Riau es una conocida calle de compras de outlets de fábrica y patrimonio colonial, así que es fácil combinar esta visita con recorrer las tiendas de ropa cercanas y otros edificios patrimoniales a lo largo de la misma calle.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Jl. Riau —su nombre colonial para L.L.R.E. Martadinata— es una de las calles patrimoniales de compras más emblemáticas de Bandung, flanqueada por villas de la era holandesa convertidas en outlets de fábrica, cafés y tiendas de diseño. El Heritage Lifestyle Hub de Wheels Coffee Roasters aprovecha ese entorno al máximo: una casa de la época colonial convertida en un café de varias salas y espacio de estilo de vida, que tuesta sus propios granos en el lugar. Con una calificación de 4.9 en más de 18,000 reseñas, no es un café tranquilo de barrio: se ha convertido en uno de los destinos de café más visitados de la ciudad, atrayendo tanto a residentes de Bandung como a visitantes de fuera en sus escapadas de fin de semana.

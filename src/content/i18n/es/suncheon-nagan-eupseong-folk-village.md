@@ -17,8 +17,6 @@ faq:
     a: La Reserva de Humedales de la Bahía de Suncheon (Suncheon Bay Wetland Reserve) y el Jardín Nacional de la Bahía de Suncheon (Suncheon Bay National Garden) están ambos a unos 30–40 minutos en coche y forman un itinerario natural de un día completo junto con la aldea folclórica.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes son de licencia libre o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 A diferencia de las "aldeas folclóricas" restauradas construidas exclusivamente para turistas, Nagan Eupseong es un asentamiento genuinamente habitado, rodeado por una muralla de fortaleza de la era Joseon que data de finales del siglo XIV y principios del XV. Alrededor de 100 hogares todavía cultivan, cuidan huertos y mantienen sus casas dentro de las murallas, por lo que las viviendas de techo de paja, los callejones bordeados de piedra y los huertos que se ven están realmente habitados, no montados para el turismo. El pueblo conserva su trazado administrativo original, incluida una oficina de gobierno (dongheon), una zona de escuela confuciana y secciones preservadas de la muralla de granito por las que se puede caminar, algo poco común entre las aldeas folclóricas de Corea. Es una alternativa tranquila y sin prisas a lugares más famosos como Hahoe o Yangdong, y su valoración (4,3 sobre más de 6.500 reseñas) refleja el aprecio constante de los visitantes que valoran esa autenticidad.

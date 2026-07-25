@@ -17,8 +17,6 @@ faq:
     a: A primera hora de la mañana, antes de las 9:00, o durante la hora previa al atardecer, se obtiene el aire más despejado, temperaturas más frescas y la mejor luz para fotografiar Kata, Karon y la bahía de Chalong.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Con 45 metros de altura y revestido de mármol blanco de Birmania, el Buda Grande es uno de los puntos de referencia más reconocibles de Phuket, visible desde los barcos en el mar y desde varios miradores en el sur de la isla. Se encuentra a unos 400 metros de altitud en la colina Nakkerd (Nakkerd Hill), lo que significa que el verdadero atractivo no es solo la estatua en sí, sino las vistas panorámicas que domina: la bahía de Chalong y Phuket Town hacia el este, las playas de Kata y Karon hacia el oeste, y en días despejados una sensación real de lo montañoso y verde que es Phuket bajo el desarrollo costero. La estatua tiene una calificación de 4.6 sobre casi 39,000 reseñas, lo que la convierte en una de las atracciones más elogiadas de la isla de forma constante, y sigue siendo un proyecto comunitario activo e inacabado: el revestimiento de mármol se está completando por secciones gracias a donaciones, por lo que el lugar tiene un significado local genuino más allá de ser una simple parada fotográfica.

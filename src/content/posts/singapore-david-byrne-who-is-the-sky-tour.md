@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why this show matters
 
 David Byrne, the former Talking Heads frontman and one of art-rock's most idiosyncratic performers, is bringing his "Who Is The Sky?" tour to Singapore in support of his recent album of the same name. Byrne has built a reputation for staging concerts as full theatrical productions rather than standard rock shows — his 2018-2020 "American Utopia" run (later a Spike Lee-directed film and Broadway production) set a high bar with synchronized choreography, marching-band-style mobility, and a stage stripped of cables and amps. The Singapore date continues that tradition, with a live ensemble of 13 musicians, singers and dancers joining Byrne on stage. Expect a mix of new material from the "Who Is The Sky?" album alongside reworked Talking Heads-era favorites, delivered with the visual precision Byrne's shows are known for.

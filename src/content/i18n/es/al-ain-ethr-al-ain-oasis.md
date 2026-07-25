@@ -17,8 +17,6 @@ faq:
     a: El Fuerte Al Jahili (Al Jahili Fort) y el Museo Nacional de Al Ain (Al Ain National Museum) están a poca distancia en auto del oasis y combinan de forma natural con un paseo por el oasis y una parada para el café en una sola excursión de medio día.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El Oasis de Al Ain (Al Ain Oasis) es uno de los paisajes cultivados de forma continua más antiguos de los Emiratos Árabes Unidos, una extensión de más de 3,000 acres de palmeras datileras recorrida por los tradicionales canales de irrigación *falaj* que le valieron al oasis su nombramiento como Patrimonio de la Humanidad por la UNESCO en 2011. La mayoría de los visitantes viene por los senderos sombreados y el Centro Ecológico del Oasis de Al Ain (Al Ain Oasis Eco-Centre), pero pocos esperan encontrar un café realmente bien preparado dentro del recinto. Ethr — Al Ain Oasis llena ese vacío. Es una cafetería pensada para quienes quieren un espresso o un pour-over de verdad sin salir de los palmerales, y su calificación de 4.6 en más de 1,200 reseñas sugiere que cumple esa promesa de manera constante, y no solo gracias a su ubicación.

@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why go
 
 Lollapalooza is one of the few American festivals still held in the heart of a major downtown, and that's the appeal: Grant Park sits between Michigan Avenue and Lake Michigan, so between sets you can see the Chicago skyline, Buckingham Fountain, and the lake all from the festival grounds. The 2026 edition (July 30–August 2) has already confirmed Charli XCX, Lorde, and Doja Cat as headliners, continuing Lollapalooza's pattern of mixing pop, hip-hop, rock, and electronic acts across roughly eight stages. Expect the full lineup, set times, and daily posters to drop in the months before the event — treat anything you see now as a partial picture.

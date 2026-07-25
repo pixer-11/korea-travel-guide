@@ -17,8 +17,6 @@ faq:
     a: La Aldea Tradicional de Gyochon, el Gyeongju Hyanggyo, la Casa del Clan Choi, las ruinas de la fortaleza de Wolseong (Banwolseong), el Observatorio Cheomseongdae y el Palacio Donggung y el estanque Wolji están todos a poca distancia caminando.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Woljeonggyo es una de las reconstrucciones más fotogénicas de Gyeongju: un puente de madera cubierto con dos torres tipo pabellón en cada extremo, reconstruido para evocar cómo habría lucido durante el período Silla Unificado (aproximadamente en el siglo VIII), cuando servía como paso para la realeza cerca de los terrenos del palacio de Wolseong. El puente original fue destruido hace siglos, y los arqueólogos confirmaron su ubicación y dimensiones mediante excavaciones antes de que se completara la estructura actual en 2018. Lo que hace que valga la pena visitarlo hoy no es solo la historia, sino también el diseño. El puente está elevado sobre pilares de piedra, techado con tejas oscuras y pintado con los colores dancheong al estilo Silla; de noche se ilumina y se refleja en las aguas quietas del Namcheon, creando una de las tomas de reflejo más bellas y confiables de toda la ciudad.

@@ -46,8 +46,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Curio Stands Out in Kanazawa
 
 Kanazawa is a city built around lacquerware, gold leaf, and Edo-era teahouses, so a café obsessed with mid-century furniture, single-origin espresso, and analog design feels almost defiantly modern. Curio Espresso and Vintage Design Café has built a loyal following (rated 4.6 from over 1,100 reviews) precisely because it doesn't try to be a traditional Kanazawa experience — it's a deliberate palate and pace change between temple visits and lacquerware shops. The name is literal: the room is filled with curios — old cameras, retro signage, thrifted armchairs, and turntables — arranged the way a collector's studio might look, not a chain café.

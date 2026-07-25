@@ -29,8 +29,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting. See our [editorial policy](/about).
-
 ## Why Nami Island Matters for K-Drama Fans
 
 Nami Island (Namiseom) became a global tourist magnet after it served as the filming location for "Winter Sonata" (2002), the drama credited with kicking off the early Korean Wave (Hallyu) across Japan and Southeast Asia. The image most visitors chase is the double row of tall metasequoia and gingko trees along the island's main entrance path, where lead characters famously walked. Beyond that one scene, the island itself operates almost like a self-contained cultural park — it's technically registered as the "Naminara Republic," a whimsical micronation with its own entry visa (ticket), which adds to its storybook feel independent of any single drama.

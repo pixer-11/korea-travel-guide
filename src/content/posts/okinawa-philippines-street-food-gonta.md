@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Okinawa's food scene is famous for its own Ryukyu dishes, but the island's decades-long relationship with the U.S. military and nearby Southeast Asian communities has also seeded pockets of genuinely good international street food — and Philippines Street Food Gonta in Chatan is one of the better-known examples. It's a no-frills counter operation rather than a sit-down restaurant, serving Filipino staples like grilled pork or chicken skewers (inasal-style barbecue), lumpia (fried spring rolls), and halo-halo, the shaved-ice dessert layered with beans, jelly, and evaporated milk. With a 4.5 rating across 64 reviews, it has built a loyal following among both locals and visitors looking for something different from the tempura and steak houses that dominate the area.

@@ -17,8 +17,6 @@ faq:
     a: La Chapelle Expiatoire está justo ahí al lado, y a poca distancia a pie se encuentran la Église de la Madeleine, las tiendas de alimentación de la Place de la Madeleine y los grandes almacenes del Boulevard Haussmann.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA, utilizando fuentes web actuales. Los horarios y detalles cambian — confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué Eskal destaca
 
 París inaugura decenas de mesas ambiciosas cada año, pero Eskal ha llamado la atención rápidamente por un motivo concreto: une al restaurador Ken Nanaumi con el chef Alexandre Chambat, cuya cocina se apoya en técnicas lentas y deliberadas — maduración, curado, secado y fermentación — más que en el simple destello de la temporada. El resultado es una cocina francesa contemporánea construida con la paciencia propia de una charcutería o de una bodega de fermentación, un ritmo distinto al típico recorrido de bistró a menú degustación que domina las nuevas aperturas de la ciudad. La propia sala refuerza esa filosofía: es íntima, centrada en una amplia barra de cocina, de modo que los comensales — sobre todo quienes viajan solos — pueden ver cómo se montan los platos a pocos pasos, en lugar de observar la acción a distancia.

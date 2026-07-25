@@ -92,8 +92,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Old Town Hoi An is famously low-rise — a UNESCO-protected grid of 15th- to 19th-century merchant houses, tube houses, and pagodas where new construction is tightly restricted. That scarcity of height is exactly what makes a spot like Mê Hội An Rooftop Coffee & Kitchen stand out: it's one of the few places inside the historic core with a genuine multi-story rooftop terrace looking straight down over the tiled roofs, the Thu Bồn River glimpses, and the yellow-painted facades the town is known for. With a 4.9 rating across nearly 2,500 reviews, it's become one of the most talked-about "view cafés" in the Ancient Town, popular with visitors chasing the golden-hour shot before heading out for the lantern-lit evening.

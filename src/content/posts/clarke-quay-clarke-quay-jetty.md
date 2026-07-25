@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Clarke Quay Jetty is easy to overlook because it's not a monument — it's a working boat pier tucked along the riverside promenade in front of Clarke Quay's row of converted 19th-century warehouses (godowns). But that's exactly what makes it worth a stop: it's a quiet, functional slice of the Singapore River's working past, still doing the job piers have done here since the colonial trading era, just with tour boats instead of cargo lighters. With a 4.6 rating from over 400 reviews, it punches above its size for a spot that most visitors walk straight past on their way to the bars.

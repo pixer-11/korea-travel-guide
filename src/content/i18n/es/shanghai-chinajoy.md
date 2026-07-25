@@ -17,8 +17,6 @@ faq:
     a: La mayoría de los visitantes dedica uno o dos días completos al recinto; quienes asisten por motivos profesionales, centrados en reuniones y presentaciones de productos, pueden necesitar todos los días del evento.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Las fechas y entradas de los eventos cambian: confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 ChinaJoy es una de las expos de entretenimiento digital más grandes de Asia, que abarca videojuegos de consola y PC, juegos móviles, esports, animación, cosplay, VR/AR y, cada vez más, tecnología de entretenimiento impulsada por IA. Atrae a las grandes editoras nacionales (Tencent, NetEase y miHoYo han tenido presencia históricamente) junto con marcas internacionales de hardware, fabricantes de periféricos y plataformas de streaming. Para los visitantes del sector, son unos días intensos de reuniones de negocios y presentaciones de productos; para el público general, es un espectáculo de pabellones elaborados, demos jugables, merchandising y una de las escenas de cosplay más fotografiadas del mundo. Si te interesa el lado comercial de la industria del videojuego china o simplemente quieres ver de cerca la magnitud de la cultura fan china, este es el mejor escaparate anual para ello.

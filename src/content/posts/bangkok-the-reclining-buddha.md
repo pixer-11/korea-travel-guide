@@ -86,8 +86,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The Reclining Buddha is the centerpiece of Wat Pho (formally Wat Phra Chetuphon Wimon Mangkhalaram), one of Bangkok's oldest and largest temple complexes, dating to the 16th century and expanded significantly under Rama I and Rama III. The gilded statue itself is enormous — about 46 meters long and 15 meters high, plated in gold leaf, with mother-of-pearl inlay decorating the soles of its feet depicting 108 auspicious symbols of the Buddha. The hall is so tight around the statue that you view it in sections, which is part of the experience: you can't take it in from one spot, so you walk its length, past the giant curled fingers to the enclosed feet. Wat Pho is also considered the birthplace of traditional Thai massage, and the temple grounds double as a training school, so the visit pairs history with a living cultural practice. A 4.8 rating across more than 8,000 reviews reflects how consistently visitors rate it as a highlight of Bangkok, not just a photo stop.

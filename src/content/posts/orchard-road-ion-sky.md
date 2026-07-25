@@ -45,8 +45,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 ION Sky sits atop ION Orchard, the glass-and-steel shopping complex that anchors the junction of Orchard Road and Paterson Road, directly above Orchard MRT station. At 56 storeys up, it's one of the few vantage points in central Singapore where you can see Orchard Road's retail canyon on one side and the green sprawl of the Singapore Botanic Gardens and the Central Business District skyline on the other, all without leaving the shopping belt. With a 4.6 rating across more than 3,000 reviews, it's become one of the more consistently well-regarded attractions in the district — not a hidden find, but a reliably good one.

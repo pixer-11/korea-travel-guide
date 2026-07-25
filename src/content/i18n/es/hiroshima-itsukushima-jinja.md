@@ -17,8 +17,6 @@ faq:
     a: Busca anguila de mar a la parrilla (anagomeshi), ostras frescas y pasteles momiji manju, todos a la venta a lo largo de la calle de acceso Omotesando, cerca del santuario.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Itsukushima Jinja es uno de los lugares más fotografiados de Japón: un santuario sintoísta construido sobre pilotes en los bancos de marea de Miyajima, con su gran torii naranja alzándose en el mar, justo frente a la costa. Los edificios actuales del santuario datan del siglo XVI, aunque la importancia religiosa del lugar se remonta al siglo VI, y el complejo es Patrimonio de la Humanidad por la UNESCO. A diferencia de la mayoría de los santuarios, construidos sobre tierra firme, Itsukushima se erigió deliberadamente sobre el agua para que la isla en sí —considerada sagrada— no se viera alterada por la presencia humana. Durante la marea alta, toda la estructura, similar a un muelle, y la puerta parecen flotar sobre la bahía; durante la marea baja, los visitantes pueden caminar sobre los bancos de arena hasta tocar la base del torii. Ambas experiencias merecen la pena, y parecen dos lugares completamente distintos.

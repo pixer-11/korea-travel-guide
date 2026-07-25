@@ -17,8 +17,6 @@ faq:
     a: El distrito de Meieki tiene los grandes almacenes Takashimaya y Meitetsu, callejuelas llenas de izakayas y el mirador Sky Promenade de Midland Square, todo a poca distancia a pie.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos proceden de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 GLITCH COFFEE & ROASTERS se hizo un nombre en el barrio de Kanda, en Tokio, como una cafetería de especialidad rigurosa en su selección de origen único, y la sucursal de Nagoya en Meieki mantiene la misma filosofía: tuestes claros a medios que resaltan el carácter de una finca o lote concreto, en lugar de una mezcla de la casa pensada para saber siempre igual. Es todo lo contrario a una cadena de café: la lista de granos rota, los baristas pueden hablar en detalle sobre los métodos de procesado (lavado, natural, honey) y las notas de sabor, y el espacio está pensado para quienes quieren tomarse su tiempo con una taza realmente buena, no para llevarse un latte para el camino. Para los viajeros curiosos por el café que pasan por la estación de Nagoya, es un destino legítimo por derecho propio, no solo una parada rápida para cafeína.

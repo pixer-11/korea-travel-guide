@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why this show matters
 
 Official Hige Dandism — often shortened to "Hige Dan" (ヒゲダン) by fans — is one of Japan's biggest rock exports of the last decade, known for piano-driven arrangements, jazz-inflected chord work, and frontman Satoshi Fujihara's distinctive falsetto. The Taipei dates sit inside a broader 2026 Asia Tour that follows stops in Seoul and precedes Singapore and Bangkok, so Taipei is getting a full arena production rather than a scaled-down regional stop. For Taiwanese and traveling fans, two consecutive nights (August 29–30, 2026) means a real chance at tickets even if the first night sells out fast.

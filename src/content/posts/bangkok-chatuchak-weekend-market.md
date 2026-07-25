@@ -68,8 +68,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Chatuchak isn't a tidy tourist bazaar — it's a genuine working market that many Bangkokians still use for furniture, plants, and pets, which is exactly why it's worth the trip. With more than 15,000 stalls across 27 numbered sections, it's regularly cited as one of the largest weekend markets on earth, and its 4.4 rating from over 56,000 Google reviews reflects just how consistently it delivers for both first-time visitors and longtime Bangkok residents. Expect a genuinely eclectic mix: vintage Levi's and military surplus, hand-thrown ceramics, Isaan street food, second-hand vinyl, taxidermy, and yes, actual live animals for sale (more on that below).

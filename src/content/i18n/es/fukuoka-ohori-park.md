@@ -17,8 +17,6 @@ faq:
     a: El Museo de Arte de Fukuoka está justo en el borde del parque, y las ruinas del Castillo de Fukuoka, en el vecino Parque Maizuru, quedan a corta distancia a pie, por lo que se pueden recorrer los tres lugares en una sola salida de medio día.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El parque Ohori es la vía de escape del centro de Fukuoka: un parque de unas 40 hectáreas que rodea un amplio lago bordeado de sauces, justo en el distrito de Chuo, a minutos de los rascacielos de Tenjin. Tiene una calificación de 4,5 estrellas en más de 15.000 reseñas, lo cual, para un parque urbano, es una señal clara de que cumple con lo básico: senderos limpios, un lago genuinamente pintoresco y suficiente variedad (botes, jardines, un museo al lado, cafés) para llenar un par de horas sin que se sienta como un simple paseo de un solo propósito. El diseño del parque hace un guiño al Lago del Oeste de Hangzhou, en China, y tres pequeñas islas conectadas por puentes se ubican dentro del agua, dándole al circuito a pie un poco de ritmo visual en lugar de un perímetro plano y sin rasgos distintivos.

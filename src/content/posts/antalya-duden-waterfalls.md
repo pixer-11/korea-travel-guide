@@ -77,8 +77,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Duden Waterfalls are one of Antalya's most photographed natural landmarks: a partly underground river that resurfaces and drops in cascades in front of a large limestone cave. The Upper Duden Falls, set inside a landscaped municipal park in Kepez district, let you walk directly behind and beside the falling water — a rare vantage point that makes the short visit worthwhile even for travelers who've seen plenty of waterfalls elsewhere. With a 4.6 rating across nearly 38,000 reviews, it's firmly established as a must-see rather than a niche stop, so expect company.

@@ -17,8 +17,6 @@ faq:
     a: El tramo transitable mide alrededor de 1 km ida y vuelta sobre un suelo de roca volcánica mayormente plano pero irregular y a veces resbaladizo, manejable para la mayoría de los niños pero complicado para sillas de ruedas o limitaciones de movilidad importantes.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Las imágenes tienen licencia o son de dominio público. Este es un resumen general del área/tema — verifica los detalles específicos de cada lugar antes de visitarlo. Consulta nuestra [política editorial](/about).
-
 ## Por qué la naturaleza de Jeju es diferente
 
 La isla de Jeju es un volcán en escudo que emerge del mar, y todo su paisaje refleja ese origen: costas de basalto negro, cientos de conos parásitos llamados oreum (hay más de 360 repartidos por toda la isla) y una extensa red de cuevas de tubo de lava. La UNESCO reconoció este sistema volcánico —Hallasan, el sistema de tubos de lava de Geomunoreum y Seongsan Ilchulbong— como Patrimonio Natural de la Humanidad en 2007, y la isla entera es también Reserva de la Biosfera de la UNESCO. A diferencia de las cordilleras graníticas de la Corea continental, Jeju se siente claramente subtropical cerca de la costa y alpina cerca de su cima, a veces en el mismo día de recorrido.

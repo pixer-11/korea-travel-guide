@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why Hikiniku To Come is worth the trip
 
 Hikiniku To Come built its reputation in Hong Kong on a single, focused idea: minced beef patties, grilled over live charcoal, spooned over rice that's been steamed in a Hagama pot — the same round-bottomed, wooden-lidded pot used across East Asia for centuries to trap moisture and give rice a faint smoky, slightly crisp bottom layer (similar to Korean *dolsot* or Japanese *okoge*). The Dubai outpost brings that exact format to Al Quoz, one of the city's most dynamic food-and-warehouse districts, letting the open counter do the talking: you sit close enough to watch patties hit the grill, hear the char, and see the pot lids lifted table-side.

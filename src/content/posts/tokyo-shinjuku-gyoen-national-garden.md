@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Despite sitting minutes from the chaos of Shinjuku's skyscrapers and Kabukicho's neon, Shinjuku Gyoen feels like a different country. The 144-acre grounds were once a feudal lord's residence in the Edo period, later an imperial garden, and opened to the public after World War II. What sets it apart from Tokyo's other green spaces is the deliberate mix of three distinct garden styles in one walled compound: a French formal garden with symmetrical rose beds, a sweeping English landscape garden of open lawns and cedar-lined paths, and a traditional Japanese garden with ponds, islands, arched bridges, and the Kyu Goryotei pavilion overlooking the water. Because entry is ticketed and the park closes earlier than most Tokyo attractions, it draws a calmer, more deliberate crowd than the riverside parks — a rare bit of unhurried space in the world's busiest metropolis.

@@ -17,8 +17,6 @@ faq:
     a: La sucursal de Anguk está cerca de la Aldea Hanok de Bukchon (Bukchon Hanok Village), el Palacio Changdeokgung y las calles comerciales de Insadong, buenas alternativas mientras decides si esperar en la fila.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Los horarios y detalles cambian: confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué vale la pena conocer London Bagel Museum
 
 Pocas panaderías en el mundo han generado el revuelo que London Bagel Museum ha provocado en Seúl. Se sitúa en el centro de la cultura del "open run" de la ciudad, un término que usan los coreanos para describir la carrera hacia un local justo en el momento en que abre, ya que la demanda supera a la oferta prácticamente todos los días. El atractivo no es solo el hype: los bagels en sí destacan por una textura inusualmente tierna y densa, muy distinta del pan de panadería típico coreano, combinada con mezclas de sabores originales como el Potato Cheese y el Brick Lane (un guiño a la propia herencia bagelera de Londres, de ahí el nombre). Para quienes sienten curiosidad por la cultura de cafés contemporánea de Seúl —más allá de sus palacios o mercados—, esta es una de las paradas más emblemáticas del momento.

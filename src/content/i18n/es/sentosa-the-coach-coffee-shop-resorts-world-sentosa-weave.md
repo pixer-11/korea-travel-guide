@@ -17,8 +17,6 @@ faq:
     a: La cafetería está dentro del recinto WEAVE de RWS, cerca de Universal Studios Singapore, el S.E.A. Aquarium y el paseo Sentosa Waterfront, lo que la convierte en una parada fácil antes o después de esas atracciones.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 The Coach Coffee Shop se encuentra dentro de WEAVE, el nuevo conglomerado de estilo de vida y gastronomía de Resorts World Sentosa (RWS), y rápidamente se ha ganado un público fiel — una calificación de 4.9 basada en más de 4,100 reseñas es inusualmente alta para una cafetería de resort. El nombre y el interior hacen un guiño a los viajes en carruaje de antaño: texturas táctiles, madera cálida y un estilo de baúles de viaje que se ve muy bien en fotos sin caer en lo forzado. Funciona tanto como parada de café entre las atracciones de Sentosa como destino de brunch por derecho propio, razón por la cual atrae tanto a visitantes de paso por los parques temáticos como a quienes hacen una visita dedicada.

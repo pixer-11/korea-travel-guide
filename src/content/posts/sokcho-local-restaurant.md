@@ -29,8 +29,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting. See our [editorial policy](/about).
-
 ## Why Sokcho's local restaurants are worth seeking out
 
 Sokcho sits on Korea's northeastern coast, a former fishing town that's become a gateway to Seoraksan National Park and a weekend beach escape from Seoul. Its food identity is shaped by geography: cold East Sea waters bring in squid, pollock, and crab, while the region's mountain buckwheat fields gave rise to *makguksu*, a chewy cold noodle dish that Sokcho and neighboring Goseong claim as their own. Eating at a small, local restaurant here — rather than a chain or a hotel dining room — is the difference between tasting a menu item and tasting the actual place.

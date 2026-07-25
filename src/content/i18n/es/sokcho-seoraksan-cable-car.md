@@ -17,8 +17,6 @@ faq:
     a: El templo Sinheungsa está a 5 minutos a pie de la entrada del teleférico, y el parque Sogongwon, con sus estanques y su pagoda, se encuentra justo en la base; ambos se combinan fácilmente con la visita al teleférico.
 ---
 
-> **Cómo se hizo esta guía:** revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El Parque Nacional de Seoraksan es la cordillera más espectacular de Corea, toda picos de granito escarpados y valles profundos, pero no todo el mundo tiene el tiempo o las piernas para una excursión de un día completo hasta sus crestas más altas. El teleférico de Seoraksan resuelve ese problema de forma elegante: eleva a los visitantes desde el fondo del valle hasta un saliente rocoso cerca de la fortaleza Gwongeumseong en unos seis minutos, ofreciendo vistas panorámicas de los riscos de granito del parque, la costa del Mar del Este y, en días despejados, la ciudad de Sokcho abajo. Con una calificación de 4,3 basada en más de 11.500 reseñas, es una de las atracciones más recomendadas de la región de forma constante, un caso poco común en el que la opción fácil también resulta genuinamente espectacular.

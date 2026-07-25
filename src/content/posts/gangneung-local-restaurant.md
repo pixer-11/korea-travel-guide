@@ -29,8 +29,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting. See our [editorial policy](/about).
-
 ## Why Gangneung's Local Restaurants Are Worth Seeking Out
 
 Gangneung, on Korea's Gangwon-do coast, built its food identity on two things: the East Sea and Chodang Village's centuries-old tofu tradition. Unlike Seoul's trend-driven dining scene, Gangneung's local restaurants tend to be small, generational operations — a grandmother's sundubu house, a market stall selling grilled mackerel, a noodle shop that's been serving the same broth recipe for decades. Eating here is less about spectacle and more about tasting a specific place: brackish seawater tofu found almost nowhere else in Korea, and noodles and seafood shaped by a cold-water fishing economy.

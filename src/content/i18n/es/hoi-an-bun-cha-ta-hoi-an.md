@@ -17,8 +17,6 @@ faq:
     a: 'Sí: es lo bastante popular entre los visitantes internacionales como para que pedir sea sencillo, aunque un simple método de señalar y pedir o una aplicación de traducción ayuda, ya que los menús y el personal pueden estar orientados principalmente al vietnamita.'
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de datos en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El bun cha es una exportación de Hanói —cerdo a la parrilla (en forma de hamburguesas, a veces en lonchas de panceta) servido en un bol de caldo de salsa de pescado tibio, agridulce y sabroso, junto a una montaña de fideos de arroz y hierbas frescas—, pero Bun Cha Ta se ha convertido en uno de los locales más elogiados de Hoi An para probarlo, con una calificación de 4.7 en más de 1,100 reseñas. Ese volumen y esa puntuación en un pequeño pueblo ribereño son notables: no se trata tanto de una joya escondida como de una institución local bien conocida que, sin embargo, sigue sintiéndose sin pretensiones. Es un buen antídoto frente a los restaurantes con precios para turistas agrupados en el núcleo declarado Patrimonio de la Humanidad por la UNESCO del casco antiguo, y ofrece el tipo de cocina casera que realmente comen los locales.

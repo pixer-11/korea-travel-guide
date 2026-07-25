@@ -29,8 +29,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting. See our [editorial policy](/about).
-
 ## Why Jeonju Is Korea's Food Capital
 
 Jeonju has been synonymous with Korean cuisine for centuries — it's the birthplace of bibimbap and sits at the center of Jeolla Province, a region famous nationwide for generous, well-seasoned banchan (side dishes) and deep fermentation traditions (gochujang, doenjang, and rice wine). UNESCO named Jeonju a "City of Gastronomy" in 2012, and the honor is well earned: even modest neighborhood restaurants here tend to outperform fancier spots elsewhere in Korea, because local competition and pride in regional ingredients keep standards high.

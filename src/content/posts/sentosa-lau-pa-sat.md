@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why this guide starts with a correction
 
 If you searched "where to eat near Sentosa" and landed on Lau Pa Sat, it's worth flagging upfront: this legendary hawker centre sits at 18 Raffles Quay, in the CBD, not on Sentosa island. It's still very much worth the trip — a 4.4-star landmark with nearly 40,000 reviews — but plan it as a separate excursion rather than a stroll from your Sentosa hotel.

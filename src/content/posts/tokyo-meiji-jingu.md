@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Meiji Jingu was built in 1920 to enshrine the deified spirits of Emperor Meiji and Empress Shoken, the imperial couple credited with steering Japan into the modern era. What makes it remarkable isn't just the shrine buildings — rebuilt in the 1950s after wartime bombing destroyed the originals — but the forest around them. Over 100,000 trees, donated from across Japan at the shrine's founding, were deliberately planted to mature into a self-sustaining woodland, and a century later it feels like ancient wilderness rather than a public park. With a 4.6 rating across more than 51,000 reviews, it's one of Tokyo's most consistently praised sights, and unlike many temples in the city, it costs nothing to walk the grounds.

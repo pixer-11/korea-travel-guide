@@ -17,8 +17,6 @@ faq:
     a: Ve justo antes o después del horario pico de almuerzo (11:30 a. m.–1:30 p. m.) o durante una cena temprana, alrededor de las 5:30–6:30 p. m.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en tiempo real de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Lan Lek Lek se ha ganado su reputación a la manera tradicional: comida tailandesa consistentemente buena y barata, servida rápido, con casi nada de publicidad más allá del boca a boca y un cúmulo de reseñas de cinco estrellas (4.8 estrellas en más de 1.200 reseñas hasta el último conteo). En una ciudad como Krabi, donde buena parte de los restaurantes junto al río están orientados a grupos turísticos y viajeros de paquete, un local con este tipo de elogios sostenidos, tanto de locales como de visitantes, y con un nivel de precios genuinamente bajo, se destaca. Es el tipo de lugar al que los habituales vuelven viaje tras viaje, y no una simple parada para la foto.

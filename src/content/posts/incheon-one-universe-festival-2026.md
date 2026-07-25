@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why go
 
 One Universe Festival 2026 brings together an unusually eclectic bill for a single weekend — indie/electronic mainstays The xx, drum-and-bass heavyweights Pendulum, shoegaze pioneers My Bloody Valentine, and hardcore-punk breakout Turnstile all on one lineup. That range is the festival's selling point: it isn't a single-genre rave or a K-pop showcase, but a curated mix that pulls in fans of guitar music, electronic dance, and heavier sounds alike. Add the setting — Paradise City, a resort and entertainment complex rather than a bare festival field — and you get a weekend that doubles as a mini getaway near one of Asia's busiest air hubs.

@@ -17,8 +17,6 @@ faq:
     a: Prueba el ayam o bebek goreng (pollo o pato frito) con el sambal de tu elección, además del rempeyek, el crocante de maní o anchoas por el que el depot es más conocido. También se vende empacado para llevar, y es lo que la mayoría de los visitantes habituales compran en grandes cantidades.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Depot Bu Rudy es uno de los nombres más conocidos de Surabaya en cuanto a comida casera javanesa oriental, y la sucursal de Dharmahusada es la ubicación original e insignia. Su reputación se apoya menos en el ambiente que en una fórmula que hace que la gente vuelva una y otra vez: pollo y pato fritos y crujientes, toda una pared de variedades de sambal, y rempeyek (finos crocantes de maní y anchoas) que se venden tanto como guarnición como para llevar por kilo. Con casi 17,000 reseñas y una calificación de 4.5, es uno de los restaurantes con más reseñas de la ciudad, y es el tipo de lugar que tanto visitantes como residentes de Surabaya terminan recomendando a huéspedes de fuera, aunque hoy en día está firmemente en el mapa turístico y ya no es un hallazgo escondido.

@@ -29,8 +29,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting. See our [editorial policy](/about).
-
 ## Why Coffee Street Exists
 
 Gangneung's reputation as Korea's coffee capital isn't marketing spin — it dates back to the 1980s, when instant coffee vending machines lined Anmok Beach and locals began experimenting with roasting. By the 2000s, small-batch roasters had set up shop directly on the sand-facing road at Anmok, and the area organically became known as "Coffee Street" (커피거리). Gangneung also hosts an annual Coffee Festival in autumn, cementing the city's identity around bean culture. Today the street is a dense row of multi-story cafés, most with floor-to-ceiling windows facing the East Sea, making it as much a scenery stop as a caffeine stop.

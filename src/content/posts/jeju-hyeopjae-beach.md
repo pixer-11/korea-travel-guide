@@ -94,8 +94,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Hyeopjae is consistently ranked among Jeju's best beaches (a 4.6 rating across thousands of reviews isn't a fluke), and it earns the reputation honestly. The sand is fine and pale, made partly of crushed shell rather than volcanic basalt, which is why the water reads as a bright turquoise rather than the darker tones typical elsewhere on the island. The bay is shallow and calm for a long stretch from shore, making it one of the more swim-friendly beaches in Jeju rather than a wave-heavy surf spot. The postcard element is Biyangdo Island, a small, flat-topped volcanic island sitting a few kilometers offshore that frames nearly every photo taken here, especially at sunset when the sky and water pick up the same orange-pink light.

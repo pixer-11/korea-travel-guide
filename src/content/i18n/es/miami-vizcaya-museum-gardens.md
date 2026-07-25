@@ -17,8 +17,6 @@ faq:
     a: Los restaurantes y tiendas de Coconut Grove y el frente marítimo del distrito financiero de Brickell están a poca distancia en auto o en Metrorail desde Vizcaya, lo que facilita combinarlos en un itinerario de medio día.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Vizcaya es uno de los pocos lugares de Miami donde se puede recorrer una finca intacta de la Edad Dorada en lugar de una reconstrucción. Construida entre 1914 y 1922 como residencia de invierno del industrial agrícola James Deering (de la fortuna de International Harvester), la mansión combina los estilos renacentista italiano, barroco y rococó con un exterior de estilo Mediterranean Revival que ayudó a definir la identidad arquitectónica del sur de Florida durante el siglo siguiente. La calificación de 4.7 estrellas de más de 16,000 visitantes no es exageración: la combinación de una ornamentada casa histórica, diez acres de jardines formales y un complejo de grutas de piedra caliza frente a Biscayne Bay es realmente inusual para una ciudad de Estados Unidos.

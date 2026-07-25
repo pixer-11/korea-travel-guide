@@ -17,8 +17,6 @@ faq:
     a: Procura ir a primera hora de la tarde, cerca del atardecer, para ver la vista del lago Durgam Cheruvu con luz de día antes de que se transforme en un horizonte nocturno, y visítalo durante los meses más frescos de Hyderabad (noviembre-febrero) para disfrutar de la experiencia más cómoda en la azotea.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Los horarios y detalles cambian — confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Hyderabad no tiene escasez de bares en azotea, pero Kadamba se distingue porque el diseño no compite con el entorno — nace de él. La azotea está construida alrededor de tres árboles Kadamba reales, dejados en su lugar en vez de plantados en macetas como decoración, con bancos bajos integrados directamente en la distribución, de modo que todo el espacio se lee como una versión moderna de un chaupal de aldea (el punto de reunión comunitario y a la sombra que se encuentra en toda la India rural) en lugar de un lounge genérico de vidrio y acero. El resultado es un ambiente que se siente arraigado e inusualmente tranquilo para un bar tan popular, con vistas que se abren sobre Durgam Cheruvu, el lago bordeado de rocas que se ha convertido en el emblema de Madhapur.

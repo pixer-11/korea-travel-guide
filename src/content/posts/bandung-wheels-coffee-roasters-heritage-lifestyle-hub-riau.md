@@ -94,8 +94,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Jl. Riau — its colonial name for L.L.R.E. Martadinata — is one of Bandung's signature heritage shopping streets, lined with Dutch-era villas turned into factory outlets, cafés, and design stores. Wheels Coffee Roasters' Heritage Lifestyle Hub leans hard into that setting: a colonial-era house converted into a multi-room café and lifestyle space, roasting its own beans on site. With a 4.9 rating across more than 18,000 reviews, it's not a quiet corner café — it's become one of the most-visited coffee destinations in the city, drawing both Bandung residents and out-of-town visitors on weekend trips.

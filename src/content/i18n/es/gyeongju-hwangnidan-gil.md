@@ -17,8 +17,6 @@ faq:
     a: El conjunto de tumbas de Daereungwon y el observatorio Cheomseongdae quedan ambos a poca distancia a pie; el Museo Nacional de Gyeongju y el estanque Wolji (Anapji) están un poco más lejos, a un breve trayecto en taxi.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Las imágenes tienen licencia o son de dominio público. Se trata de una visión general del área/tema; verifica los detalles específicos de cada lugar antes de tu visita. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Hwangnidan-gil surgió de un tranquilo rincón residencial en Hwangnam-dong y, en el espacio de pocos años, se convirtió en la respuesta de Gyeongju a barrios como Ikseon-dong o Yeonnam-dong en Seúl: un conjunto de calles estrechas bordeadas de cafeterías independientes, tiendas de postres, pequeñas galerías y estudios de alquiler de hanbok, muchos instalados en hanok de una sola planta renovados y otras casas coreanas antiguas. El propio nombre es una combinación: "Hwangnam" (el barrio) más "-dan-gil", un sufijo que las ciudades coreanas usan ahora para cualquier calle que se haya convertido en un destino moderno y apto para Instagram (como el Garosu-dan-gil de Seúl). Lo que hace que merezca la pena parar aquí no es un monumento en concreto, sino el ambiente: tejados bajos de teja, pequeños escaparates y una escala genuinamente transitable a pie que contrasta con los sitios históricos más monumentales de Gyeongju, a solo unos minutos de distancia.

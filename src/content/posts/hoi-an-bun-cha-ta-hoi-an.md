@@ -84,8 +84,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Bun cha is a Hanoi export — grilled pork (patties, sometimes belly slices) served in a bowl of warm, sweet-sour-savory fish sauce broth alongside a mountain of rice vermicelli and fresh herbs — but Bun Cha Ta has become one of Hoi An's most consistently praised spots for it, holding a 4.7 rating across more than 1,100 reviews. That kind of volume and score in a small riverside town is notable: this isn't a hidden gem so much as a well-known local institution that happens to still feel unpretentious. It's a useful antidote to the tourist-priced restaurants clustered inside the Old Town's UNESCO core, offering the kind of home-style cooking locals actually eat.

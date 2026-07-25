@@ -17,8 +17,6 @@ faq:
     a: 'Sí: suele visitarse junto con Wat Rong Khun (el Templo Blanco) y el Museo Baan Dam (la Casa Negra), ambos a 15-25 minutos en coche, formando un popular recorrido de medio día por los templos.'
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por editores, con asistencia de IA. Los datos se obtienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Rong Suea Ten, conocido universalmente como el "Templo Azul," es uno de los edificios religiosos modernos más fotografiados de Tailandia, y con una calificación de 4.6 en casi 27,000 reseñas, ha ganado claramente su reputación más allá del boom en redes sociales. A diferencia del blanco radiante de su famoso primo Wat Rong Khun, este templo está bañado en un profundo azul índigo, realzado con detalles dorados, serpientes naga y elaboradas tallas de estuco que brillan bajo el sol tropical. El nombre se traduce aproximadamente como "Templo del Tigre Danzante," en referencia a los tigres que, según se dice, antaño merodeaban por esta zona a las afueras de Chiang Rai antes de que fuera poblada. En el interior, una llamativa imagen de Buda blanco se alza bajo un dosel de ornamentación azul y dorada, flanqueada por murales y figuras mitológicas que recompensan una mirada pausada y sin prisas, más que una parada rápida para hacer fotos.

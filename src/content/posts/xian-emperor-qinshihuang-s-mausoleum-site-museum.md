@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 This site protects one of the most important archaeological finds of the 20th century: thousands of life-sized clay soldiers, horses, and chariots buried around 210 BCE to guard Emperor Qin Shi Huang, China's first unifier, in the afterlife. Discovered accidentally by farmers digging a well in 1974, the pits reveal individually sculpted faces, armor detail, and battle formations that took an estimated 700,000 laborers decades to complete. With a 4.6 rating across more than 8,000 reviews, it's consistently ranked among the top reasons travelers visit Xi'an at all — this isn't a staged photo-op, it's a working excavation site you walk through on raised platforms above the actual dig.

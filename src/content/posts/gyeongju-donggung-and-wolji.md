@@ -29,8 +29,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting. See our [editorial policy](/about).
-
 ## Why Go
 
 Donggung and Wolji (formerly known as Anapji) was built in the 7th century during the Unified Silla period as a secondary palace and banquet site for royal receptions and to entertain visiting dignitaries. The complex fell into ruin over the centuries, and by the 20th century the pond had become an overgrown marsh known locally as Anapji ("goose and duck pond"). Excavations in the 1970s recovered tens of thousands of Silla-era artifacts — roof tiles, dice, wooden documents, and bronze items — many of which are now displayed at the Gyeongju National Museum. Three of the original more-than-twenty pavilions have been reconstructed along the pond's edge, and their lantern-lit reflections at night have made this one of the most photographed spots in Gyeongju, arguably rivaling Bulguksa temple for name recognition among international visitors.

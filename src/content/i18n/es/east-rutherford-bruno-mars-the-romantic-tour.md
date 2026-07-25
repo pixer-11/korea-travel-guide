@@ -17,8 +17,6 @@ faq:
     a: El mega centro comercial American Dream está junto al estadio y cuenta con patios de comidas y tiendas, y las cercanas Secaucus y Hackensack ofrecen opciones adicionales para comer a poca distancia en auto o en tren.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Las fechas y entradas de los eventos cambian — confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué este show importa
 
 Bruno Mars lleva casi dos décadas convirtiendo estadios en pistas de baile, y The Romantic Tour es su última vuelta triunfal, llegando justo después de los éxitos colaborativos "Die with a Smile" (con Lady Gaga) y "APT." (con Rosé). Ganador de múltiples premios Grammy y conocido por sus secciones de metales en vivo, coreografías con aire retro y un rango vocal genuino, Mars rara vez gira sin ofrecer un espectáculo con banda completa en lugar de un set con pistas grabadas. Una serie de shows que abarca del 21 al 26 de agosto de 2026 en el MetLife Stadium sugiere una demanda alta en el mercado de Nueva York/Nueva Jersey, así que no es un evento de una sola noche que se pueda dejar al azar.

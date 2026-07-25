@@ -46,8 +46,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Few cityscapes look like this. The Ciudad de las Artes y las Ciencias (City of Arts and Sciences) is a cluster of gleaming white, shell-like structures designed largely by Valencia-born architect Santiago Calatrava, built along a 2-kilometer stretch of the old Turia riverbed that was rerouted after a catastrophic 1957 flood and turned into a public park. The complex opened in stages between 1998 and 2005 and has become Valencia's defining landmark, rated 4.7 stars across nearly 154,000 reviews. Even visitors who skip every ticketed attraction still walk away impressed simply from strolling among the buildings, reflecting pools, and sculptural bridges.

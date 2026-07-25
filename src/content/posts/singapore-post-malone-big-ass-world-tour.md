@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why this show matters
 
 Post Malone has played Singapore before, but only as a surprise guest during the 2023 Formula 1 Singapore Grand Prix weekend concert series. The BIG ASS World Tour date on September 25, 2026 is different: it's his first proper solo headline concert in the city, staged at the 55,000-capacity National Stadium rather than a festival stage. Don Toliver, a regular collaborator and label-mate from the Houston hip-hop/R&B scene, opens — expect a night that swings between Post's genre-blending catalogue (pop, hip-hop, country-rock detours) and Toliver's melodic trap sound.

@@ -45,8 +45,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Kampong Glam is one of Singapore's four historic ethnic districts, set aside by Stamford Raffles' 1822 town plan as the quarter for the Malay, Arab, and Bugis communities. Its centerpiece is Masjid Sultan, a golden-domed mosque completed in 1928 (replacing an earlier 1824 structure) that remains an active place of worship and the visual anchor of the whole neighborhood. Unlike the polished, ticketed heritage sites elsewhere in the city, this district is a living one — shophouses that once housed textile traders and religious goods stores now mix with independent boutiques, kopi joints, and mural-covered lanes, while the call to prayer still marks the rhythm of the day. At 26 Bussorah St, the address most associated with the area's charm, you're standing on a pedestrianized street that frames the mosque perfectly and is lined with restored two-story shophouses in soft pastel tones.

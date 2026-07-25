@@ -17,8 +17,6 @@ faq:
     a: 'Julio es temporada de lluvias: se pueden esperar chubascos breves pero intensos por la tarde, con mañanas más despejadas. Es una buena época para playas y salidas en barco si programas las actividades al aire libre temprano en el día, aunque conviene llevar tanto ropa impermeable como protector solar.'
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, utilizando fuentes web actuales. Las fechas y las entradas de los eventos cambian: confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 VIFF 2026 se presenta como el primer festival y concurso internacional de flauta celebrado en Phu Quoc, la isla más grande de Vietnam. El elenco es inusualmente sólido para una edición debut: los organizadores mencionan a más de 40 flautistas de 12 países, encabezados por Erin Bouriakov, flautista principal de la Filarmónica de Nueva York y ganadora de un Grammy. Para los viajeros amantes de la música clásica, esta es una oportunidad poco frecuente de ver una alineación internacional concentrada de flautistas —clases magistrales, rondas de concurso y conciertos de gala— en un entorno de resort en lugar de una ciudad convencional de salas de conciertos, y de combinarlo con tiempo de playa en una isla conocida por los atardeceres de Long Beach y los arrecifes de coral frente a An Thoi.

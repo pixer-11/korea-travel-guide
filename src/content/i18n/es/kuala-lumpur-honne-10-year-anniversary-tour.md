@@ -17,8 +17,6 @@ faq:
     a: REXKL se encuentra en la zona de Chinatown/Petaling Street, cerca de Central Market y Merdeka Square, todo a poca distancia a pie, lo que facilita hacer turismo en el día libre entre los conciertos del 7 y el 8 de agosto.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA, usando fuentes web actuales. Las fechas y entradas de los eventos cambian; conviene confirmar siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué importa este concierto
 
 HONNE —el dúo británico formado por Andy Clutterbuck y James Hatcher— ha construido a lo largo de una década un catálogo de pop electrónico exuberante con influencias de R&B, desde sencillos tempranos como "Warm on a Cold Night" hasta discos más recientes que combinan synth-funk y soul. Una década después, celebran el hito con una gira de aniversario, y Kuala Lumpur recibe dos noches en lugar de la habitual parada única, una señal de lo mucho que ha crecido su base de fans en el Sudeste Asiático desde sus anteriores apariciones en Malasia. Para los fans, las fechas consecutivas significan más flexibilidad para asistir al concierto entre el trabajo o los viajes, y mejores posibilidades de conseguir entradas si una de las noches se agota primero.

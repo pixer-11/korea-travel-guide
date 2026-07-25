@@ -29,8 +29,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting. See our [editorial policy](/about).
-
 ## Why Aewol Became Jeju's Café Capital
 
 Aewol-eup, on Jeju's northwest coast, turned into the island's most photographed café district over the last decade, largely because of its coastline: black volcanic rock shelves meeting turquoise water, with Hallasan sometimes visible in the distance on clear days. Unlike Jeju City's dense urban cafes or the resort-heavy Jungmun area, Aewol's scene grew out of old fishing hamlets and converted guesthouses, so many cafes still sit inside renovated stone-walled homes or warehouses rather than purpose-built commercial blocks. The result is a stretch of coastline where you can walk from a converted hanok-style cafe to a minimalist concrete box with a rooftop deck within a few hundred meters.

@@ -17,8 +17,6 @@ faq:
     a: Llega justo a la hora de apertura, tanto para comer (alrededor de la 1pm) como para cenar (alrededor de las 8pm), para evitar las aglomeraciones, ya que se llena rápido tanto de locales como de visitantes.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué Bar Txepetxa es importante
 
 La Parte Vieja de San Sebastián es célebre por sus bares de pintxos, cada uno con una especialidad que hace mejor que nadie, y la de Bar Txepetxa es la anchoa. El boquerón —la anchoa cántabra fresca y curada, no la variedad salada en lata que conocen la mayoría de los visitantes— es la especialidad de la casa, y el bar se ha ganado una legión de fieles (una valoración de 4.7 en más de 3,600 reseñas) haciendo muy pocas cosas, pero muy bien hechas. Es una taberna pequeña y sin pretensiones más que un restaurante de destino, y ese es precisamente el punto: esto es la esencia de la gastronomía donostiarra clásica, de pie ante una barra de zinc con un pincho ensartado en un palillo en una mano y una copa de blanco local en la otra.

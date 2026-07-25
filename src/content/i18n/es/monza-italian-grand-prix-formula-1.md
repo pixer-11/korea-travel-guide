@@ -17,8 +17,6 @@ faq:
     a: 'Sí: el circuito se encuentra dentro del Parco di Monza, cerca de la Villa Reale di Monza, y el Duomo histórico de Monza (que alberga la Corona de Hierro de Lombardía) está a un corto trayecto del pueblo, lo que facilita combinar los días de carrera con el turismo.'
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, utilizando fuentes web actuales. Las fechas y entradas del evento cambian: confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Monza es la catedral de la velocidad de la Fórmula 1: el circuito más rápido del calendario y, junto a Silverstone, uno de los dos únicos trazados que han albergado una prueba del campeonato mundial todos los años desde 1950 (salvo en 1980). El Autodromo Nazionale Monza se encuentra dentro del Parco di Monza, un antiguo coto de caza real, de modo que el paddock, las tribunas y las famosas curvas Curva Grande y Parabolica están rodeados de un parque centenario en lugar de un polígono industrial construido para la ocasión. Los Tifosi convierten esto en una auténtica carrera en casa para Ferrari, y cuando gana un coche rojo, el podio y la posterior invasión de la pista son, sin exagerar, uno de los momentos más ruidosos del deporte mundial. Para 2026, la carrera está programada del 4 al 6 de septiembre, así que es pleno final de verano en Lombardía: días cálidos y largos, con los viñedos y lagos de los alrededores todavía en temporada.

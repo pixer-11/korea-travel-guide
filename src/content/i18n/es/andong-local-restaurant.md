@@ -17,8 +17,6 @@ faq:
     a: El jjimdak suele pedirse para compartir (tamaño pequeño para dos personas) y tarda entre 20 y 30 minutos en cocinarse, así que calcula cerca de una hora en total; los precios exactos varían según el restaurante y la temporada, así que consulta los menús actuales al llegar.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Las imágenes cuentan con licencia o son de dominio público. Este es un resumen general de la zona/tema — verifica los detalles específicos de cada local antes de tu visita. Consulta nuestra [política editorial](/about).
-
 ## Por qué Andong es un destino gastronómico, no solo una aldea folclórica
 
 Andong suele visitarse por la Aldea Folclórica de Hahoe y su tradición de danza con máscaras, pero la verdadera fama culinaria de la ciudad radica en la preservación de la cocina de las familias nobles confucianas. Dado que Andong fue históricamente un bastión de las familias eruditas confucianas (yangban), su cultura gastronómica gira en torno a la cocina de ritos ancestrales, en lugar de los aperitivos callejeros o los menús centrados en mariscos que se encuentran en la costa. Esto convierte a Andong en uno de los pocos lugares de Corea donde comer en un restaurante equivale también a una pequeña lección de historia sobre la etiqueta gastronómica de la era Joseon.

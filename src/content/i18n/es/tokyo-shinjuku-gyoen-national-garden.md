@@ -17,8 +17,6 @@ faq:
     a: No, cierra los lunes (se traslada al día siguiente si el lunes es festivo) y durante las vacaciones de Año Nuevo. Confirma siempre el horario vigente en línea antes de visitarlo.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes están licenciadas o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 A pesar de encontrarse a pocos minutos del caos de los rascacielos de Shinjuku y del neón de Kabukicho, Shinjuku Gyoen parece pertenecer a otro país. Los terrenos, de 144 acres, fueron en el periodo Edo la residencia de un señor feudal, más tarde un jardín imperial, y se abrieron al público tras la Segunda Guerra Mundial. Lo que lo distingue de otros espacios verdes de Tokio es la mezcla deliberada de tres estilos de jardín distintos dentro de un mismo recinto amurallado: un jardín formal francés con parterres de rosas simétricos, un amplio jardín paisajista inglés de céspedes abiertos y senderos bordeados de cedros, y un jardín tradicional japonés con estanques, islas, puentes arqueados y el pabellón Kyu Goryotei, que domina el agua. Como la entrada requiere boleto y el parque cierra antes que la mayoría de las atracciones de Tokio, atrae a un público más tranquilo y pausado que los parques junto al río: un raro espacio sin prisas en la metrópolis más ajetreada del mundo.

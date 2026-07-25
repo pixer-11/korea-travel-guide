@@ -17,8 +17,6 @@ faq:
     a: Los beignets de Café du Monde, una muffuletta de Central Grocery y clásicos criollos como el gumbo o los po'boys son imprescindibles; Galatoire's y Antoine's ofrecen una versión formal, de mesa y mantel, de esta cocina.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué visitarlo
 
 El Barrio Francés, o "Vieux Carré", es la huella original de Nueva Orleans, trazada por ingenieros franceses en 1718 y reconstruida en gran parte en estilo colonial español tras los incendios de 1788 y 1794 — por eso los balcones de hierro forjado y los patios recuerdan más a La Habana o Sevilla que a París. Es un barrio denso con 300 años de historia superpuesta: casas urbanas criollas, patios ocultos tras entradas de carruajes y una cuadrícula de calles que aún sigue el trazado francés original. La mayoría de los visitantes solo ve la franja de bares de Bourbon Street, que es apenas una fracción de lo que ofrece el barrio. El verdadero tesoro escondido está a pocas manzanas en cualquier dirección desde Bourbon: callejuelas residenciales tranquilas, talleres de artistas en funcionamiento y una arquitectura que nadie fotografía para Instagram.

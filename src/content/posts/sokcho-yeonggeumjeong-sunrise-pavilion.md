@@ -44,8 +44,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Yeonggeumjeong is one of those spots that photographs better than it sounds on paper: a compact, ornately painted hanok pavilion sitting on a dark volcanic rock outcrop, connected to the mainland by a short arched bridge. It's not a temple or a historic relic — the current structure is a modern rebuild — but its position, jutting into the East Sea with waves breaking directly beneath it, gives it a drama that draws in both sunrise chasers and evening strollers. At 4.3 stars across nearly 12,000 reviews, it's clearly become one of Sokcho's most-visited free attractions, yet it still feels smaller-scale and less packaged than the city's beaches or the Seorak cable car crowds.

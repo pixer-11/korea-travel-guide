@@ -46,8 +46,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The Lost World Castle sits on the southern slope of Mount Merapi, one of Indonesia's most active volcanoes, and its stone-fort architecture is a deliberate photo-op: crenellated towers, a broad viewing terrace, and a giant dragon-skull-like doorway built from volcanic rock. The site doubles as a small geology visitor center, with exhibits explaining the material that reshaped this landscape after Merapi's major 2010 eruption — much of the surrounding area was buried in pyroclastic flow, and the "castle" itself was constructed partly from recovered volcanic stone. On clear mornings the summit of Merapi is visible from the ramparts, which is the real draw beyond the Instagram backdrop.

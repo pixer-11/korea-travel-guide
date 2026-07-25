@@ -17,8 +17,6 @@ faq:
     a: El Castillo de Uçhisar se encuentra en un extremo del valle, el otogar (estación de autobuses) y el Museo al Aire Libre de Göreme están cerca del otro extremo, y el Valle del Amor (Love Valley) y el Valle de las Rosas (Rose Valley) están a poca distancia en coche para hacer más rutas de senderismo.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con ayuda de IA. Los datos proceden de información en tiempo real de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El Valle de las Palomas (Güvercinlik Vadisi) es una de las formas más sencillas de descubrir a pie el paisaje de toba volcánica de Capadocia, sin necesidad de equipo técnico de senderismo. El valle discurre entre Uçhisar y Göreme y debe su nombre a los cientos de palomares —pequeñas aberturas rectangulares excavadas en la blanda roca por los aldeanos a lo largo de siglos—. Los agricultores criaban palomas por sus excrementos, un fertilizante esencial para los viñedos y huertos de la región antes de que existieran alternativas químicas, y pintaban las entradas de blanco o las delineaban con ocre rojo para atraer a las aves. Con una valoración de 4,6 sobre casi 19.500 reseñas, es sin duda un destino muy popular, pero la caminata sigue ofreciendo tramos de auténtica tranquilidad, formaciones rocosas de tonos miel y algunas de las mejores vistas a ras de suelo de las chimeneas de hadas que hacen famosa a esta región.

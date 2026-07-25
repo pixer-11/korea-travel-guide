@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why go
 
 Monza is Formula 1's cathedral of speed — the fastest circuit on the calendar and, alongside Silverstone, one of only two tracks that have hosted a round of the world championship every year since 1950 (bar 1980). The Autodromo Nazionale Monza sits inside the Parco di Monza, a former royal hunting ground, so the paddock, grandstands, and famous Curva Grande and Parabolica corners are wrapped in centuries-old parkland rather than a purpose-built industrial park. The Tifosi turn this into a de facto Ferrari home race, and when a red car wins, the podium and the track invasion afterward are genuinely one of the loudest moments in world sport. For 2026 the race is scheduled for September 4-6, so this is peak late-summer Lombardy — warm, long days, and the surrounding vineyards and lakes still in season.

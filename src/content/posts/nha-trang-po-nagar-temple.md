@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Po Nagar matters
 
 Po Nagar (also written Ponagar) is one of the most important surviving groups of Cham towers in Vietnam, dedicated to the goddess Yang Po Ino Nagar, revered as the mother-protector of the former Champa kingdom. The complex once had eight or more towers; four remain standing today, with the largest — a roughly 23-meter-tall kalan — still the tallest and most photographed structure on the site. Construction spanned several centuries, from around the 8th century through the 13th, so the towers show a layered architectural history rather than a single style. Unlike a museum piece, the towers are still active: locals and Cham pilgrims come to burn incense and pray, so the atmosphere mixes archaeology with genuine, ongoing ritual life.

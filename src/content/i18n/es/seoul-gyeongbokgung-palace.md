@@ -17,8 +17,6 @@ faq:
     a: De finales de octubre a principios de noviembre se considera la temporada alta para el follaje otoñal alrededor de Gyeonghoeru y Hyangwonjeong, mientras que abril trae los cerezos en flor a lo largo de los muros del palacio. Las primeras horas de la mañana son más tranquilas que el mediodía durante todo el año.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Datos como las calificaciones y la ubicación provienen de datos en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Gyeongbokgung es el primero y más grande de los "Cinco Grandes Palacios" de Seúl, construido en 1395 como residencia real principal de la dinastía Joseon. Con una calificación de 4.6 estrellas en más de 46,000 reseñas, es el palacio más visitado de Corea y la introducción por excelencia a la arquitectura real del país, y no es para menos: su escala es enorme, su emplazamiento contra el monte Bugaksan es impresionante, y el recinto incluye algunas de las estructuras más fotografiadas del país, entre ellas el Pabellón Gyeonghoeru, un edificio de dos plantas construido sobre un lago artificial donde los reyes celebraban banquetes de estado.

@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Fushimi Inari Taisha is the head shrine of Inari, the Shinto god of rice, sake, and prosperity, and it has stood at the foot of Mount Inari since 711 A.D. — making it one of the oldest continuously active shrine sites in Japan. What draws roughly 89,000+ reviewers and millions of visitors a year isn't just the age; it's the Senbon Torii, a corridor of thousands of vermilion gates that climbs the mountainside in tight, photogenic succession. Each gate was donated by an individual or business hoping for good fortune, and the practice continues today — you'll see donor names and dates painted in black ink on the back of nearly every post. With a 4.6 rating across nearly 90,000 reviews, it's consistently ranked among the most-visited single attractions in Kyoto.

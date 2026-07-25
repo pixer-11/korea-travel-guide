@@ -17,8 +17,6 @@ faq:
     a: 'Está en pleno auge: se ubicó en el puesto n.º 3 de la lista Top 100 U.S. Restaurants 2026 de Yelp y fue el negocio más reseñado de esa lista, así que espera multitudes en lugar de un ambiente tranquilo y poco conocido.'
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Los horarios y detalles cambian: confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué NAM Kitchen destaca
 
 Los restaurantes de fusión son comunes en el condado de Los Ángeles, pero pocos combinan las tradiciones culinarias vietnamita y peruana en una misma cocina, y todavía menos lo hacen lo bastante bien como para captar la atención nacional. NAM Kitchen logró ambas cosas: se ubicó en el puesto n.º 3 de la lista Top 100 U.S. Restaurants 2026 de Yelp, y fue destacado como el negocio individual más reseñado de todos los que aparecen en esa lista. Esa combinación —una clasificación nacional entre los tres primeros puestos, más un volumen de reseñas fuera de lo común— indica un restaurante que ha pasado rápidamente de ser un favorito del barrio a convertirse en un auténtico destino gastronómico, todo esto sin dejar Gardena por un barrio más llamativo de Los Ángeles.

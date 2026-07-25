@@ -17,8 +17,6 @@ faq:
     a: Las calles de Monti, llenas de tiendas boutique, son ideales para un paseo antes o después de cenar, y la basílica de Santa Maria Maggiore está a unos 10-15 minutos a pie.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Los horarios y detalles cambian: confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué merece la pena buscar Futura
 
 Monti ha pasado la última década transformándose de un tranquilo barrio de talleres artesanos a uno de los lugares más interesantes de Roma para comer, y Futura es la última prueba de ese cambio. Abierto en 2025 por la chef Anastasia Paris, se trata de un restaurante de formato reducido —apenas 20 plazas— construido en torno a una cocina abierta y una mesa del chef, de modo que la línea entre sala y cocina prácticamente desaparece. Ese formato se ha convertido en un sello distintivo de los nuevos locales contemporáneos de Roma, y la proximidad de Futura a Retrobottega (uno de los restaurantes pioneros de este estilo de cocina abierta y menú degustación en la ciudad) no es solo una coincidencia geográfica: apunta al tipo de cocina ambiciosa y técnica por la que se ha hecho conocido el barrio.

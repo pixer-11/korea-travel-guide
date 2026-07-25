@@ -37,8 +37,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The French Quarter, or "Vieux Carré," is the original footprint of New Orleans, laid out by French engineers in 1718 and rebuilt largely in Spanish colonial style after fires in 1788 and 1794 — which is why the ironwork balconies and courtyards feel more Havana or Seville than Paris. It's dense with 300 years of layered history: Creole townhouses, hidden carriageway courtyards, and a street grid that still follows the original French plan. Most visitors only see Bourbon Street's bar strip, which is a fraction of what's here. The hidden gem angle is a few blocks in any direction from Bourbon: quiet residential lanes, working artist studios, and architecture nobody photographs for Instagram.

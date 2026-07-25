@@ -71,8 +71,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 West Lake has been eulogized by Chinese poets, painters, and emperors for over a thousand years, and it's the reason UNESCO inscribed the surrounding cultural landscape as a World Heritage Site in 2011. The lake itself covers about 6.5 square kilometers, ringed by willow-lined paths, arched stone bridges, temples, and pagodas that appear in classical Chinese landscape painting. Locals rate it highly (4.7 stars across over 1,100 reviews) not for any single monument but for the cumulative effect of walking or cycling the shoreline — the view changes with every bend, and it looks genuinely different in spring mist, summer lotus bloom, autumn moon-viewing season, and winter snow.

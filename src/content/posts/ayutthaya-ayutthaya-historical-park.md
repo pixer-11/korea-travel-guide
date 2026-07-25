@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Ayutthaya was the Siamese capital for over 400 years (1350–1767) and, at its height, rivaled contemporaries like Paris in size and wealth. Burmese armies razed the city in 1767, leaving behind the haunting brick-and-stucco chedis, headless Buddha statues, and toppled columns that now make up Ayutthaya Historical Park, inscribed as a UNESCO World Heritage Site in 1991. It's one of the most photogenic and historically dense archaeological zones in Southeast Asia — verified visitor ratings put it at 4.8 stars, reflecting how consistently it impresses even travelers who've seen Angkor or Bagan.

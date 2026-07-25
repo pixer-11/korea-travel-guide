@@ -48,8 +48,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 MERCI MARCEL is a French import — the Singapore branch sits inside Palais Renaissance, one of the older low-rise shopping arcades on Orchard Road, sandwiched between the glass towers of ION Orchard and Delfi Orchard. The brand built its reputation in Paris and Nice on a relaxed, plant-filled "eat all day" concept: croissants and coffee in the morning, salads and tartines at lunch, wine and bistro plates by evening. The Orchard outlet carries that same format into a mall setting, which is part of its appeal — a genuine sit-down, unhurried meal option in a stretch of Orchard Road otherwise dominated by food courts and quick-turnover chains. A 4.7 rating across more than 4,000 reviews makes it one of the more consistently well-reviewed Western restaurants on this strip.

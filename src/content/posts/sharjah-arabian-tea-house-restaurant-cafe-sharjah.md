@@ -48,8 +48,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Arabian Tea House is one of the most talked-about places to eat in Sharjah, and the numbers back it up — a 4.7 rating across more than 6,350 reviews for a restaurant serving Emirati and wider Arabian Gulf cuisine. The draw isn't fine dining polish; it's the format: low seating on cushions, shaded courtyard tables, and a menu built around karak tea, foul medames, balaleet (sweet vermicelli with egg), regag bread, and slow-braised meats like machboos. It's the kind of place that turns a simple breakfast into an hour of unhurried people-watching.

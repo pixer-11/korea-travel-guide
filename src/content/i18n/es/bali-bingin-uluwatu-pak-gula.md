@@ -17,8 +17,6 @@ faq:
     a: De última hora de la tarde a la noche, en torno al atardecer, encaja tanto con el ambiente de coctelería del restaurante como con el entorno escénico de acantilados y surf de Bingin. Confirma directamente el horario de apertura actual, ya que no se ha podido verificar de forma independiente aquí.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Los horarios y detalles cambian: confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Bingin ha sido durante mucho tiempo el enclave surfero de acantilados de Uluwatu, más conocido por sus warungs, sus losmen aferrados al acantilado y la famosa escalera de Bingin Beach que por su oferta gastronómica refinada. Pak Gula cambia esa ecuación. Viene del equipo detrás de The Cashew Tree, uno de los nombres más fiables de la escena gastronómica informal y "cool" de Canggu y Uluwatu, y trae ese mismo enfoque social, pensado para compartir y con cuidado diseño a Bingin. El restaurante se distribuye en dos plantas, lo que en la práctica se traduce en ambientes distintos según el nivel: espera una planta baja más tranquila para quienes llegan sin reserva y una planta superior más animada, apta para grupos y copas nocturnas. Para quienes ya han recorrido los beach clubs de Uluwatu y Padang Padang, Pak Gula es el tipo de parada que le da a la zona una auténtica identidad nocturna, más allá de ser solo una escala escénica de un día de excursión.

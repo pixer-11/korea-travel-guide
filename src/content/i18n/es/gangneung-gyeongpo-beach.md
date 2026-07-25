@@ -17,8 +17,6 @@ faq:
     a: La casa Ojukheon (lugar de nacimiento de Yi I y Sin Saimdang), el pabellón Gyeongpodae con vistas al lago, y la calle del café de la playa de Anmok, todos a poca distancia en coche o autobús.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La playa de Gyeongpo (Gyeongpo Beach) es la playa más conocida de la provincia de Gangwon-do, y no es casualidad: unos 6 kilómetros de arena ancha y firme orientada directamente al este, respaldada por un denso bosque de pinos (el pinar de Gyeongpo, Gyeongpo Pine Grove) que le da sombra y protección contra el viento, algo que la mayoría de los pueblos costeros de Corea no tiene. Tiene una calificación de 4.4 con más de 8,000 reseñas, y es uno de los lugares más fiables de la costa este para ver el amanecer, ya que la playa mira a mar abierto sin ningún cabo que bloquee el horizonte. Los locales también acuden por el lago Gyeongpo (Gyeongpo Lake) contiguo, una laguna tierra adentro separada del mar por una fina franja de dunas y pinos, una rara combinación de paisaje lacustre y marino a poca distancia a pie el uno del otro.

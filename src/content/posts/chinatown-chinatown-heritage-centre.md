@@ -46,8 +46,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Chinatown today is dominated by souvenir stalls and hawker stands, which makes it easy to forget that this district was once one of the most densely packed and impoverished immigrant enclaves in Southeast Asia. The Chinatown Heritage Centre, housed in three painstakingly restored shophouses on Pagoda Street, exists to fill in that gap. Instead of glass cases and wall text, the museum recreates actual living conditions: cramped cubicle rooms subdivided by wooden partitions, a tailor's shop, a coolie's sleeping quarters, and a reconstructed opium den, all built from oral histories and archival research on the families who once lived at this address. With a 4.6 rating across more than 4,400 reviews, it's one of the more consistently praised indoor attractions in the district, and unlike much of Chinatown's street-level commerce, it's a place to slow down.

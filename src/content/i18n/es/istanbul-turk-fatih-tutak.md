@@ -17,8 +17,6 @@ faq:
     a: 'Sí: forma parte de la selección de la Guía Michelin Türkiye 2026 y tiene una Estrella Verde Michelin por su enfoque sostenible de la gastronomía.'
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA, usando fuentes web actuales. Los horarios y detalles cambian: confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué destaca TURK Fatih Tutak
 
 Fatih Tutak ha construido su restaurante homónimo en torno a una sola idea: replantear la cocina turca y anatolia a través de una mirada contemporánea y basada en la técnica, en lugar de servirla como comida reconfortante y familiar. El resultado ha convertido a TURK Fatih Tutak en una de las direcciones de alta cocina más comentadas de Estambul, y figura en la selección de la Guía Michelin Türkiye 2026, que además le otorgó una Estrella Verde por su enfoque hacia una gastronomía sostenible, una distinción que Michelin reserva para cocinas que demuestran un compromiso real con el abastecimiento y la responsabilidad ambiental, no solo con el sabor. Para los visitantes que quieren entender hacia dónde va la cocina turca, más que de dónde viene, este es actualmente el punto de referencia.

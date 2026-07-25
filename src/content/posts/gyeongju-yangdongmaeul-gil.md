@@ -36,8 +36,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Yangdong Village (Yangdongmaeul), reached via Yangdongmaeul-gil in Gangdong-myeon, is one of Korea's two UNESCO-listed clan villages (inscribed in 2010 alongside Andong's Hahoe Village). Unlike Hahoe, which draws heavier crowds, Yangdong sees a fraction of the visitors, making it a genuine hidden-gem alternative for anyone who wants the same Joseon-era village atmosphere without the tour-bus congestion. The village has been continuously inhabited for over 500 years by the Yeogang Lee and Wolseong (Gyeongju) Son clans, and roughly 150 traditional houses remain, mixing tile-roofed *giwa* homes of the yangban aristocracy with thatched-roof *choga* homes that once housed servants and tenant farmers. The layout itself is the attraction: houses are arranged along the natural contours of Seolchangsan mountain in a pattern locals describe as a "vine on a tree," with wealthier homes higher up and commoner homes below.

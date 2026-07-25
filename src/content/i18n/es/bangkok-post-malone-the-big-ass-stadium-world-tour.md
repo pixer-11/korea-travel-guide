@@ -17,8 +17,6 @@ faq:
     a: 'Es temporada de lluvias: espera calor, humedad y la posibilidad de aguaceros repentinos, así que lleva un paraguas compacto o un poncho para la multitud a la intemperie en el estadio.'
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Las fechas de los eventos y las entradas cambian; confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué importa este show
 El regreso de Post Malone a Bangkok tras tres años de ausencia es el gran atractivo aquí. The BIG ASS Stadium World Tour está pensado para recintos de esta magnitud: una producción escénica ambiciosa, pirotecnia y un repertorio que probablemente abarque desde sus éxitos como "Circles" y "Sunflower" hasta material más reciente de su etapa con influencias country y pop. El Estadio Nacional Rajamangala (Rajamangala National Stadium), el más grande de Tailandia con una capacidad muy por encima de los 50,000 espectadores, es uno de los pocos recintos del sudeste asiático capaces de albergar físicamente una producción de este tamaño, razón por la cual se ha convertido en la parada habitual de las grandes giras de estadio que pasan por la región.
 

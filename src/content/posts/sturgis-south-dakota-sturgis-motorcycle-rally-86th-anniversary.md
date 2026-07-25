@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why go
 
 Sturgis is the largest motorcycle rally on the planet, and the 2026 edition marks its 86th anniversary with the theme "Sturgis Salutes America." What began in 1938 as a small race organized by the Jackpine Gypsies motorcycle club has grown into a ten-day, half-a-million-strong takeover of a South Dakota town whose year-round population is only a few thousand. Main Street becomes a wall-to-wall procession of custom choppers and touring bikes, vendor rows sell leather and chrome for blocks, and national touring acts play nightly at venues scattered across the Black Hills. Beyond the spectacle, the surrounding landscape — granite peaks, pine forests, and some of the best motorcycling roads in the country — is arguably the real headliner.

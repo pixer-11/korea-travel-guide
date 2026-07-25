@@ -17,8 +17,6 @@ faq:
     a: Boat Quay está a unos 10 minutos a pie junto al río y ofrece más opciones de restaurantes, y Fort Canning Park brinda un escape verde y más tranquilo, a poca distancia cuesta arriba desde el río.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 CQ @ Clarke Quay es el corazón comercial de uno de los distritos ribereños más fotografiados de Singapur: una hilera de godowns con estilo de shophouse construidos en el siglo XIX como almacenes para las mercancías que circulaban por el río Singapur (Singapore River), hoy reconvertidos en restaurantes, bares y locales de ocio nocturno. Las fachadas en tonos pastel, los pasillos cubiertos y el paseo junto al río lo convierten en una opción segura para una salida nocturna, ya sea que busques cócteles, marisco o simplemente caminar junto al agua con el perfil del Distrito Central de Negocios (Central Business District) de fondo. Con una calificación de 4.5 y casi 46,000 reseñas, es claramente parte del circuito turístico más transitado y no un rincón escondido, así que conviene planificar teniendo esto en cuenta en lugar de esperar tranquilidad.

@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why go
 
 SCBD (Sudirman Central Business District) is Jakarta's glass-and-steel nerve center, packed with corporate towers, malls like Pacific Place and fx Sudirman, and a dense cluster of upscale bars and restaurants that cater to the capital's finance and executive set. Metropolitan Fine Dining opened here in early July 2026 and has quickly become part of that scene, pitched as "Modern European Fine Dining with a View." The draw is straightforward: polished marble interiors paired with skyline views over one of Southeast Asia's busiest business districts, aimed squarely at the after-work dinner crowd, client entertaining, and special-occasion diners who want a room that photographs as well as it plates food.

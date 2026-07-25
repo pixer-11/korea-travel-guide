@@ -17,8 +17,6 @@ faq:
     a: Agosto es temporada de calor máximo (a menudo más de 40 °C con alta humedad), así que el recinto cerrado y climatizado es un alivio, pero organiza tu día en torno a atracciones bajo techo como Dubai Mall o The Green Planet en City Walk, en lugar de turismo al aire libre.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Las fechas de eventos y las entradas cambian: confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Def Leppard sigue siendo una de las bandas de arena-rock más emblemáticas surgidas de la escena NWOBHM (New Wave of British Heavy Metal) de finales de los 70 y principios de los 80, con un catálogo que incluye *Hysteria*, *Pyromania* y clásicos de estadio como "Pour Some Sugar on Me", "Photograph" y "Rock of Ages". Una fecha en Dubái dentro de su gira de 2026 es una oportunidad poco frecuente para los fans del Golfo y el sur de Asia de disfrutar de un show de producción completa sin tener que volar a Europa o Norteamérica. La fecha del 2 de agosto de 2026 se suma a lo que se perfila como un año muy activo para artistas internacionales que pasan por los Emiratos Árabes Unidos, y el Coca-Cola Arena se ha convertido en el recinto techado de referencia en la región para producciones de esta escala.

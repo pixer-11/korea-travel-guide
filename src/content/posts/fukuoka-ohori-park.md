@@ -69,8 +69,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Ohori Park is Fukuoka's answer to a downtown escape valve — a roughly 40-hectare park wrapped around a wide, willow-lined lake right in Chuo Ward, minutes from the skyscrapers of Tenjin. It's rated 4.5 stars across more than 15,000 reviews, which for a city park is a strong signal that it delivers on the basics: clean paths, a genuinely scenic lake, and enough variety (boats, gardens, a museum next door, cafés) to fill a couple of hours without feeling like a single-purpose stroll. The park's design nods to Hangzhou's West Lake in China, and three small islands connected by bridges sit within the water, giving the walking loop a bit of visual rhythm instead of a flat, featureless perimeter.

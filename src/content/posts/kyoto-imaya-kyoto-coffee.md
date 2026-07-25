@@ -81,8 +81,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 IMAYA Kyoto &COFFEE has built a reputation — a 4.8 rating across more than 1,200 reviews is unusually high for a café — on doing a small menu very well rather than trying to be everything to everyone. The concept leans Italian-style coffee bar: think tight, punchy espresso drinks rather than the slow-pour third-wave style that dominates much of Kyoto's café scene. Alongside coffee, it pours beer and keeps a short list of light food, which makes it flexible as a daytime espresso stop or an early-evening drink spot before dinner. The interior is snug and minimal, with an emphasis on clean lines and natural materials — a look that has made it a favorite subject on design and lifestyle social media, which partly explains the review volume relative to its size.

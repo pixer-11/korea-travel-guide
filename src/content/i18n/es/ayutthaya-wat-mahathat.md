@@ -17,8 +17,6 @@ faq:
     a: Wat Ratchaburana se encuentra justo enfrente, al otro lado de la calle, y Wat Phra Si Sanphet, con sus tres famosos chedis, está a solo unos minutos — ambos se pueden combinar fácilmente en una sola visita.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Wat Mahathat no es solo otro templo en ruinas en una ciudad llena de ellos — fue uno de los sitios religiosos más importantes del Reino de Ayutthaya, y se cree que fue fundado a finales del siglo XIV bajo el reinado del rey Borommarachathirat I o el rey Ramesuan, y que alguna vez albergó una reliquia de Buda en su prang central. Sin embargo, lo que atrae hoy a más de 25,000 reseñadores y un flujo constante de visitantes de un día es una sola imagen, casi accidental: una cabeza de Buda de piedra arenisca, entrelazada y elevada por las raíces de un árbol bodhi, que se cree cayó de su cuerpo cuando el templo fue arrasado por las fuerzas birmanas en 1767, y quedó allí mientras el árbol crecía a su alrededor durante el siglo siguiente. Se ha convertido en un símbolo no oficial de Ayutthaya misma.

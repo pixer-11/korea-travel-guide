@@ -29,8 +29,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting. See our [editorial policy](/about).
-
 ## Why Chuncheon Means Dakgalbi
 
 Chuncheon, the capital of Gangwon Province about 80–100 km northeast of Seoul, is the acknowledged birthplace of dakgalbi — diced chicken thigh marinated in a gochujang-based sauce and stir-fried on a flat griddle with cabbage, sweet potato, tteok (rice cake), perilla leaves, and scallions. The dish emerged in the city in the 1960s–70s as a cheap, filling meal for university students and factory workers, and it has since become Chuncheon's culinary calling card, alongside makguksu (buckwheat noodles). The dedicated strip of restaurants serving it, informally called Dakgalbi Golmok (닭갈비 골목, "Dakgalbi Alley"), sits near the old Myeongdong shopping district in downtown Chuncheon, not far from the Gonji-cheon stream.

@@ -17,8 +17,6 @@ faq:
     a: Está a poca distancia a pie del paseo marítimo principal de Pattaya, la zona comercial de Central Pattaya y el extremo norte de Walking Street, lo que facilita combinar la comida con un paseo nocturno.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 The Collective Pattaya se encuentra dentro del Holiday Inn Pattaya, justo en Beach Road, y se ha ganado la reputación de ser uno de los restaurantes de bufé y carta más consistentes de la ciudad. Un promedio de 4.8 en más de 2,173 reseñas es un resultado inusualmente sólido para un restaurante de hotel que atiende tanto a huéspedes como a visitantes externos; la mayoría de los bufés de gran formato tienen dificultades para mantener una calidad pareja, pero este se apoya en estaciones de cocina en vivo (piensa en barras de fideos, mariscos a la parrilla, huevos preparados al momento) en lugar de limitarse a las bandejas de vapor, que suele ser lo que distingue a un buen bufé de uno olvidable. Es una opción práctica si te alojas en cualquier punto de Beach Road o Central Pattaya y quieres un solo lugar que cubra comida tailandesa, japonesa, occidental e internacional reconfortante, ideal para una mesa con gustos variados: niños, amantes de los mariscos y comensales exigentes incluidos.

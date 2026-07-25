@@ -17,8 +17,6 @@ faq:
     a: La mayoría de los círculos de doujinshi individuales solo aceptan efectivo, así que lleva bastante dinero en billetes pequeños de yenes. Los puestos de empresas o editoriales más grandes, cuando los hay, tienen más probabilidades de aceptar tarjeta o pago electrónico.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, utilizando fuentes web actuales. Las fechas de los eventos y las entradas cambian: confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Qué es realmente Comiket
 
 Comic Market —universalmente abreviado como "Comiket"— no es una feria comercial organizada por editoriales, como una comic con occidental. Es un mercado de obras autopublicadas por fans: decenas de miles de "círculos" individuales (creadores, a menudo trabajando solos o en pequeños equipos) alquilan mesas para vender doujinshi, libros de fan art, música autoproducida y cómics originales. No hay stand de ningún estudio cinematográfico ni una fila de autógrafos de grandes estrellas al estilo estadounidense. El atractivo es recorrer un centro de convenciones entero lleno de creadores independientes, muchos de los cuales solo venden su trabajo dos veces al año, en este evento y en su equivalente de invierno. Comic Market 108 se celebra del 15 al 16 de agosto de 2026, íntegramente en Tokyo Big Sight.

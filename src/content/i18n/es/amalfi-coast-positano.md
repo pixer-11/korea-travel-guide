@@ -17,8 +17,6 @@ faq:
     a: Spiaggia Grande es la playa principal, justo en el centro de la ciudad, con cafés y beach clubs; Spiaggia di Fornillo, a un corto paseo o trayecto en barco hacia el oeste, es más pequeña y menos concurrida.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué Positano
 
 Positano es la imagen de postal de la Costa Amalfitana: casas de colores pastel apiladas verticalmente en un acantilado sobre el mar Tirreno, escalonadas con limoneros y conectadas por empinadas escaleras en lugar de calles llanas. A diferencia de Amalfi o Ravello, Positano no tiene un único monumento dominante: su encanto es la propia ciudad, la forma en que se derrama hacia el agua alrededor de la cúpula de la Iglesia de Santa Maria Assunta, cuyo icono bizantino del siglo XIII de una "Madonna Negra" se dice que dio nombre a la ciudad. El ensayo de John Steinbeck de 1953 para Harper's Bazaar, escrito tras una estancia aquí, ayudó a poner a Positano en el mapa internacional, y sus frases todavía se citan en placas por toda la ciudad.

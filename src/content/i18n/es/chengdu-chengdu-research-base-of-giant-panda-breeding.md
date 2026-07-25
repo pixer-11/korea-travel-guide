@@ -17,8 +17,6 @@ faq:
     a: La base está en el distrito de Chenghua, en el lado norte de Chengdu; muchos visitantes la combinan con un regreso al centro de Chengdu para visitar el Monasterio Wenshu (Wenshu Monastery) o la Calle Antigua de Jinli (Jinli Ancient Street) más tarde ese mismo día.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La Base de Investigación de Cría del Panda Gigante de Chengdu es uno de los pocos lugares del mundo donde se puede ver, de forma prácticamente garantizada, a decenas de pandas gigantes en un entorno diseñado para imitar su hábitat natural de bosque de bambú, en lugar de un recinto de zoológico reducido. Fundada en 1987 con solo seis pandas rescatados, la base se ha convertido en un extenso campus de conservación y cría que hoy alberga a más de 100 pandas gigantes, además de una población más pequeña de pandas rojos, que muchos visitantes terminan encontrando igual de encantadores. Con una calificación de 4.6 en miles de reseñas, se cita constantemente como una de las experiencias imprescindibles de Chengdu, y se trata de una instalación de investigación y conservación legítima, no de una atracción turística artificial.

@@ -17,8 +17,6 @@ faq:
     a: El patio de comidas se encuentra en el borde del histórico barrio chino de Glodok y Pancoran, en Yakarta, a poca distancia caminando para visitar templos, antiguas casas-tienda y otras paradas de comida callejera antes o después de tu comida.
 ---
 
-> **Cómo se hizo esta guía:** Revisado por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué Gajah Mada Food Street es especial
 
 La cultura de los patios de comidas en Yakarta suele significar sótanos de centros comerciales con aire acondicionado, pero Gajah Mada Food Street rompe con ese esquema gracias a un patio al aire libre, semicubierto, bordeado de puestos independientes y largas mesas comunales. Se encuentra en Jl. Gajah Mada, la antigua arteria comercial que conecta el centro de Yakarta con el histórico barrio chino de Glodok y Pancoran, en Yakarta Occidental (Kecamatan Taman Sari). La dirección lo ubica justo en el barrio de Krukut, una zona repleta de casas-tienda de la época colonial, templos y locales de comida con décadas de historia; por eso este lugar funciona tanto como destino para cenar como punto de partida para explorar uno de los barrios más antiguos de la ciudad.

@@ -92,8 +92,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Hidden Gem Cafe has earned its 4.8-star rating (from over 4,300 reviews) less for groundbreaking coffee than for the setting: a narrow tube-house on Hàng Mắm street that's been converted into a stacked, plant-draped café with several rooftop terraces layered on top of each other. The Old Quarter is full of "hidden" rooftop cafés advertised on street-corner sandwich boards, but this one delivers an actual view — corrugated rooftops, tangled power lines, tamarind trees, and glimpses of the Red River district toward Long Biên Bridge. It's a good antidote to the noise of Hàng Bạc and Mã Mây a few blocks over, and a genuinely photogenic stop if you want a break from temple-and-market sightseeing.

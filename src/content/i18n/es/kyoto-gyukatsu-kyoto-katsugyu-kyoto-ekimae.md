@@ -17,8 +17,6 @@ faq:
     a: La Torre de Kioto (Kyoto Tower), el templo Higashi Hongan-ji y el sótano gastronómico de los grandes almacenes Isetan están todos a 10–15 minutos a pie, lo que facilita combinar la comida con un poco de turismo cerca de la estación.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El gyukatsu — un corte grueso de lomo de ternera cubierto de panko y frito rápidamente para que el interior quede poco hecho — es una de las incorporaciones más recientes al repertorio japonés de frituras, distinto del tonkatsu de cerdo que la mayoría de los viajeros ya conoce. Katsugyu (también escrito GYUKATSU Kyoto Katsugyu) ha construido su reputación específicamente en torno a este plato, y la sucursal de Kyoto Ekimae ha acumulado un volumen de reseñas inusualmente alto (más de 17,000) con una calificación de 4.7, una señal fuerte en una ciudad saturada de restaurantes trampa para turistas cerca de la estación. La dirección la ubica en Maoyachō, distrito de Shimogyo, la densa cuadra de restaurantes e izakayas justo al norte/oeste de las salidas centrales de la estación de Kioto (Kyoto Station) — conveniente para una comida enmarcada por turismo o antes de tomar un Shinkansen.

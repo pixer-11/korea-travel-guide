@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The Royal Alcázar of Seville isn't a ruin or a museum piece pretending at royal life — it's a working palace, still used by the Spanish royal family when they're in the city, which makes it unique among Spain's great monuments. Its centerpiece, the Palacio de Don Pedro, was built in the 1360s by Christian King Pedro I using Moorish craftsmen from Granada, producing a building that's technically Christian but visually and structurally Mudéjar: horseshoe arches, carved stucco, gilded ceilings, and acres of 16th-century azulejo tilework. Add in the Gothic Palace, the Admiral's Hall (where voyages to the Americas were once planned), and the sprawling gardens with fountains, pavilions, and peacocks, and it's easy to see why it holds a 4.7 rating across more than 100,000 reviews. It's also a filming location for "Game of Thrones" (as the Water Gardens of Dorne), which draws a subset of visitors specifically hunting for those spots.

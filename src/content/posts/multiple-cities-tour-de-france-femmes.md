@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why go
 
 The Tour de France Femmes is the biggest annual event in women's professional cycling, run by the same organization (ASO) that stages the men's Tour. The 2026 edition, its fifth, spans nine stages and 1,175 km, gathering the world's top teams — think riders from SD Worx-Protime, Lidl-Trek, and FDJ-Suez-Futuroscope in recent years — for roughly nine days of racing. Unlike a stadium event, it's entirely free to watch from the roadside, and the race passes through dozens of towns, so most spectators build a trip around one or two stages rather than the whole race. The headline stage in 2026 is a queen stage summit finish atop Mont Ventoux, the "Giant of Provence," a climb with a brutal, treeless upper section that has decided general-classification battles for decades.

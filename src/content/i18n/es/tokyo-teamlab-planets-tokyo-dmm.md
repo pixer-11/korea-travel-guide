@@ -17,8 +17,6 @@ faq:
     a: El mercado de Toyosu (Toyosu Market), el mercado mayorista de pescado de Tokio reubicado, con excelentes puestos de desayuno de sushi, está a poca distancia y combina de forma natural con una visita matutina al museo.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 teamLab Planets TOKYO DMM no es un museo que se contempla a distancia: se camina a través de él, a menudo con el agua a la altura de los tobillos, rodeado de luces proyectadas, espejos y niebla. Con una calificación de 4.5 estrellas en más de 54,000 reseñas, se ha convertido en una de las atracciones "de moda" más emblemáticas de Tokio, menos una galería de obras estáticas que una experiencia sensorial inmersiva y ligeramente desorientadora, construida en torno a temas como la naturaleza, la impermanencia y la frontera difusa entre el cuerpo y la obra de arte. Es el tipo de lugar que fotografía de manera espectacular, pero que resulta genuinamente más conmovedor en persona: la sala de proyecciones de koi y flores y los espacios de espejos infinitos tienen una escala y una suavidad que no se traducen del todo a la pantalla de un teléfono.

@@ -17,8 +17,6 @@ faq:
     a: 'No: el Fremont Street Experience está en el centro de Las Vegas (Downtown Las Vegas), unas 4-5 millas al norte del Strip, y tiene un ambiente más antiguo y compacto, con su distrito de marquesinas de neón. Es un paseo aparte, no se puede ir caminando desde el Strip.'
 ---
 
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El Strip es menos una calle única que un skyline concentrado de mega-resorts temáticos, cada uno construido para superar en escala al anterior: la réplica de la Torre Eiffel en Paris Las Vegas, los canales de The Venetian, la pirámide del Luxor, las torres medievales del Excalibur. Recorrerlo de noche, cuando las fachadas de neón y LED están iluminadas y el calor del desierto ha cedido, es la experiencia clásica para quienes lo visitan por primera vez: casinos, restaurantes y clubes nocturnos bordean ambos lados de Las Vegas Boulevard South a lo largo de unas 4,2 millas, y buena parte de lo que lo hace famoso (las fuentes, el volcán, las luces) se puede disfrutar sin pagar nada.

@@ -41,8 +41,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Andong markets itself as Korea's spiritual home of Confucian tradition, and Wolyeongdang fits neatly into that identity. It's a hanok (traditional Korean wooden house) property combining guest rooms and a dining hall, set on Minsokchon-gil — literally "Folk Village Road" — in the cluster of heritage sites on Andong's eastern edge. Unlike a museum exhibit, it lets visitors actually sit on heated ondol floors, eat at low tables, and get a tactile sense of how a Joseon-era yangban (aristocratic) household might have lived, without needing an overnight stay to appreciate it. With a 4.3 rating across more than 500 reviews, it has built a steady, appreciative following among travelers doing the Andong folk-heritage circuit rather than functioning as a flashy tourist trap.

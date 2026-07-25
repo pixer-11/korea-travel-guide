@@ -17,8 +17,6 @@ faq:
     a: 'Sí: al ser un lugar recién abierto y de moda, los horarios, los horarios de las carreras y las políticas de reserva pueden cambiar. Confirma los horarios de apertura actuales y si la carrera de fin de semana o las mesas requieren reserva previa antes de ir.'
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Los horarios y detalles cambian: confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué Bo.bkk destaca
 
 La escena de cafeterías de Bangkok está repleta de locales pulidos y aptos para Instagram, pero Bo.bkk se abre un espacio distinto: es primero un punto de encuentro y luego una cafetería. Las personas detrás del proyecto también dirigen Meep Meep Run Club, uno de los grupos de corredores más visibles de Bangkok, y ese ADN se nota en cómo funciona el espacio. En lugar de ser una cafetería tranquila para trabajar en solitario, Bo.bkk se inclina hacia ser un punto de reunión, un lugar donde una carrera de fin de semana termina con bagels y café, en vez de un sitio pensado únicamente para lattes fotogénicos. Para quienes quieren ver un fragmento de cómo socializan realmente los jóvenes activos y con mentalidad internacional de Bangkok, este es un punto de entrada más auténtico que un bar en una azotea o el patio de comidas de un centro comercial.

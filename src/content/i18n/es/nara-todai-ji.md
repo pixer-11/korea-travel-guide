@@ -17,8 +17,6 @@ faq:
     a: El santuario Kasuga Taisha está a 15–20 minutos a pie hacia el este, y la pagoda de cinco pisos de Kōfuku-ji queda de camino de regreso hacia la estación de Kintetsu Nara. Los ciervos del Parque de Nara están por todas partes a lo largo de estas rutas, así que es fácil combinar los tres lugares en un recorrido de medio día.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué Tōdai-ji es importante
 
 Tōdai-ji fue fundado a mediados del siglo VIII bajo el emperador Shōmu como templo principal de la escuela budista Kegon y templo central de una red nacional de templos provinciales. Su salón principal, el Daibutsuden ("Salón del Gran Buda"), se ha incendiado y reconstruido dos veces; la estructura actual data principalmente del período Edo, pero sigue siendo uno de los edificios de madera más grandes del mundo, aunque es más pequeña que la versión original del siglo VIII. En su interior se encuentra el Daibutsu, un Buda de bronce sentado (Vairocana) de unos 15 metros de altura, fundido por etapas a lo largo de varios años utilizando una enorme cantidad de bronce y oro, una hazaña de ingeniería que, según se dice, tensionó la economía de Japón en su época. Con una calificación de 4,7 en más de 31,000 reseñas, se sitúa constantemente entre los sitios históricos más visitados de Japón, y forma parte de la declaración de Patrimonio Mundial de la UNESCO "Monumentos Históricos de la Antigua Nara".

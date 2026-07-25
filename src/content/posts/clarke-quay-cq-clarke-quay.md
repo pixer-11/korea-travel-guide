@@ -64,8 +64,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 CQ @ Clarke Quay is the commercial heart of one of Singapore's most photographed riverside districts — a row of shophouse-style godowns built in the 19th century as warehouses for goods moving along the Singapore River, now repurposed into restaurants, bars, and nightlife venues. The pastel-colored facades, covered walkways, and riverfront promenade make it a reliable spot for an evening out, whether you're after cocktails, seafood, or simply a walk along the water with the Central Business District skyline as backdrop. With a 4.5 rating across nearly 46,000 reviews, it's firmly on the well-trodden tourist circuit rather than a quiet find — plan around that rather than expecting solitude.

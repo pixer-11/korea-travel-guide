@@ -17,8 +17,6 @@ faq:
     a: Entre una hora y 90 minutos es suficiente para recorrer la hilera de puestos, probar algunos y tomar algo de beber; es un mercado para picar e ir avanzando, no un lugar para una cena sentada de varios tiempos.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Jl. Sudirman, en el distrito de Astanaanyar en Bandung, ha sido durante mucho tiempo una de las calles con mayor concentración de comida callejera chino-indonesia de la ciudad, y el Sudirman Street Day and Night Market es su expresión más concentrada: decenas de puestos bajo un mismo techo (o toldo continuo), con una calificación de 4.5 basada en más de 17,000 reseñas. El atractivo no es un solo plato, sino la variedad: clásicos chino-bandungueses como siomay, bakpia, kwetiau goreng y bakmi conviven con bocadillos callejeros sundaneses e indonesios en general, con puestos halal claramente disponibles junto a los no halal. Es un "patio de comidas" en el sentido más laxo del término, más parecido a un bazar nocturno techado que a la zona de comidas de un centro comercial, así que la energía, el ruido y el humo de las parrillas son parte de la experiencia.

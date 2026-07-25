@@ -88,8 +88,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Ngũ Hành Sơn, or the Five Elements Mountains, are named for the five Chinese elements—metal, wood, water, fire, and earth—each represented by its own marble-and-limestone outcrop rising abruptly from the coastal plain between Da Nang and Hoi An. Only Thuy Son (Water Mountain), the largest, is developed for visitors, honeycombed with natural caves that Vietnamese Buddhists and Cham communities have used as shrines for centuries. Inside you'll find stalactite-draped grottoes, war-era bullet scars from use as a Viet Cong hospital and hideout, and pagodas like Tam Thai and Linh Ung that still function as active places of worship. With a 4.4-star rating across nearly 42,000 reviews, it's one of the most consistently praised stops between Da Nang and Hoi An.

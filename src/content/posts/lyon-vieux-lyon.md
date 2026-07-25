@@ -43,8 +43,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Vieux Lyon is one of the largest intact Renaissance districts in Europe, a UNESCO World Heritage core since 1998, tucked between the Saône river and the Fourvière hill in Lyon's 5th arrondissement. It escaped the wrecking ball that flattened comparable quarters elsewhere in France, so what survives today is a genuine 15th- and 16th-century silk-merchants' town: narrow lanes, spiral stone staircases, and courtyards with turreted towers, built when Lyon's banking and silk trade rivaled Florence's. It's a hidden gem less for being unknown — plenty of tour groups pass through — and more because most visitors skim the surface streets and never find the passageways that make the district worth the detour.

@@ -17,8 +17,6 @@ faq:
     a: El pago con tarjeta y con aplicaciones móviles/QR es habitual en los restaurantes contemporáneos de Hanói, aunque es recomendable llevar algo de efectivo como respaldo. La propina no es obligatoria en Vietnam, pero una pequeña propina discrecional por buen servicio siempre se agradece.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Los horarios y detalles cambian: confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué destaca Run Fun
 
 La escena de alta cocina de Hanói ha ido construyendo silenciosamente una reputación internacional durante la última década, y el chef Hoang Tung ha sido uno de sus nombres más comentados, primero a través de T.U.N.G Dining y más tarde con el más experimental Å by TUNG. Run Fun – The Eating Room es su giro deliberado en la dirección opuesta: la misma mente culinaria, sin nada de la formalidad. En lugar de menús degustación de varios tiempos y salones silenciosos, el concepto cambia los manteles blancos por un espacio más animado y social, donde los ingredientes vietnamitas siguen recibiendo el tratamiento juguetón y sorprendente por el que Tung es conocido, solo que servido más rápido y con menos rigidez. Para los visitantes que han oído hablar del auge de los menús degustación de alta gama en Hanói pero no quieren dedicarles toda una velada (ni todo el presupuesto), este es el punto de entrada accesible a esa misma sensibilidad culinaria.

@@ -17,8 +17,6 @@ faq:
     a: Zonas céntricas de Kuala Lumpur como Bangsar, Mid Valley o cerca de KL Sentral ofrecen fácil acceso en LRT o auto hasta Bukit Jalil, además de más opciones de hoteles y restaurantes que la zona inmediata del recinto.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, utilizando fuentes web actuales. Las fechas de los eventos y las entradas pueden cambiar — confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué este show es importante
 
 F✦FOREVER es un verdadero evento de "supergrupo" para los fans del Mandopop y de los dramas idol taiwaneses: Jerry Yan, Van Ness Wu y Vic Chou —tres cuartas partes del legendario F4— se unen a Ashin, vocalista de Mayday, una de las bandas de rock en mandarín más grandes de las últimas dos décadas. Una alineación así, que combina a la realeza de la actuación con la composición de rock de estadio, es el tipo de colaboración única que rara vez sale de gira, razón por la cual la fecha de Kuala Lumpur dentro de la 1st World Tour del grupo ha generado tanta expectativa en las comunidades de fans del sudeste asiático y de la Gran China.

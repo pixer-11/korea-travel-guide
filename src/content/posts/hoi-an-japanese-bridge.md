@@ -69,8 +69,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Few structures pack as much symbolism into 18 meters as the Japanese Bridge (locally called Chùa Cầu, or "Pagoda Bridge"). Built by Hoi An's Japanese merchant community in the late 16th or early 17th century and rebuilt several times since, it's the only bridge in Vietnam with a Buddhist temple built directly into its structure. The curved tiled roof, weathered wood, and pairs of guardian statues (monkeys on one end, dogs on the other, believed to mark the years the bridge's construction began and ended in the Vietnamese zodiac) make it the most photographed spot in town — and it's even printed on the Vietnamese 20,000-dong note.

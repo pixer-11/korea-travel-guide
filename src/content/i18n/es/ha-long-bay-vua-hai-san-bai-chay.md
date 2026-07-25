@@ -17,8 +17,6 @@ faq:
     a: El mercado nocturno de Bai Chay, el paseo marítimo y el teleférico de Bai Chay / Sun World Ha Long Complex están a un corto trayecto, lo que convierte a este lugar en una parada fácil antes o después de una salida nocturna por Bai Chay.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en tiempo real de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El núcleo turístico de la bahía de Ha Long está saturado de restaurantes de marisco pensados directamente para los grupos de cruceros, y los precios y la calidad varían muchísimo. Vựa Hải Sản Bãi Cháy destaca porque funciona con el modelo tipo mercado tan habitual en las ciudades costeras de Vietnam: tanques y bandejas de hielo con marisco vivo en la entrada, con precio por peso, que tú mismo eliges antes de que lo lleven a la cocina. Esta transparencia explica en buena parte por qué ha acumulado más de 1,684 reseñas y una media de 4.6: los comensales ven exactamente por qué están pagando, en lugar de confiar en un menú impreso con vagas indicaciones de "precio según temporada". Es un restaurante para viajeros que buscan una experiencia de marisco genuinamente local, sin pretensiones y de gran volumen, en lugar de un bufé de hotel o una comida fija de crucero.

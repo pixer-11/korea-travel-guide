@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## What Sabato's is
 
 Sabato's is the buzzy Italian-American restaurant tucked inside Kimpton Naluria, the Kimpton hotel that anchors the Tun Razak Exchange (TRX) financial district in Kuala Lumpur. The concept leans hard into a 1970s New York feel — think disco-era energy, retro signage, and a red-sauce menu built for sharing rather than fussy fine dining. It's the kind of place designed to be loud, nostalgic, and unapologetically social, which sets it apart from the more restrained, minimalist dining rooms that dominate KL's upscale scene.

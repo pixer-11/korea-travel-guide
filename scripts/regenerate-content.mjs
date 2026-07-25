@@ -98,7 +98,9 @@ async function main() {
       data.faq = faq;
 
       const fmOut = yaml.dump(data, { lineWidth: -1, noRefs: true, sortKeys: false });
-      const md = `---\n${fmOut}---\n\n${disclosureFor(!!data.place?.name)}\n\n${body}\n`;
+      // Disclosure is page chrome now (collapsed <details>), not body content —
+      // re-adding it here would resurrect the duplicate we just stripped site-wide.
+      const md = `---\n${fmOut}---\n\n${body}\n`;
       await writeFile(path, md, 'utf8');
       done++;
       console.log(`  ✅ [${kind}] ${file} — ${body.split(/\s+/).length} words`);

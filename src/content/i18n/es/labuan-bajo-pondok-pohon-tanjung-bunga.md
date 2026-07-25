@@ -17,8 +17,6 @@ faq:
     a: 'Sí: como está en la carretera costera de Tanjung Bunga, combina bien con una ruta panorámica más amplia alrededor del cabo, y después puedes continuar hacia los restaurantes frente al puerto de Labuan Bajo para cenar.'
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Pondok Pohon Tanjung Bunga es, en esencia, un mirador con refugio construido en la ladera cubierta de matorral del cabo de Tanjung Bunga, justo al oeste del puerto de Labuan Bajo. El atractivo es simple: un mirador elevado y a la sombra de los árboles, con vistas a la bahía, los botes pesqueros y los liveaboards anclados frente a la costa, y las siluetas superpuestas de islas como Bidadari y Kanawa en el horizonte. Con una valoración de 4.8 sobre 185 reseñas, se ha ganado en silencio un grupo fiel de seguidores entre los viajeros que buscan un lugar para ver el atardecer en Labuan Bajo sin las multitudes ni los vendedores que se congregan en algunos de los miradores más promocionados cerca del centro de la ciudad.

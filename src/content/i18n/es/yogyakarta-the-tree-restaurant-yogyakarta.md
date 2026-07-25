@@ -17,8 +17,6 @@ faq:
     a: No suele ser necesario dado su perfil tranquilo y poco conocido, pero es recomendable llamar antes para confirmar el horario vigente, ya que se encuentra en un entorno rural fuera del centro de la ciudad.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 The Tree Restaurant Yogyakarta se encuentra en la aldea de Dowang Sari, parte del pueblo de Sambirejo, en Kecamatan Prambanan, Kabupaten Sleman — una zona rural de la región especial de Yogyakarta conocida sobre todo por una cosa: el Templo de Prambanan, el imponente complejo hindú del siglo IX que está a poca distancia en coche. El atractivo del restaurante es más el entorno que un plato estrella en particular: asientos al aire libre bajo la sombra de los árboles, vistas a arrozales o jardines según la disposición, y un ritmo mucho más pausado que cualquier cosa que encuentres cerca de la calle Malioboro. Con una calificación de 4.8 sobre 133 reseñas, se ha ganado una sólida reputación sin convertirse en una parada de turismo masivo, lo que mantiene un ambiente sereno.

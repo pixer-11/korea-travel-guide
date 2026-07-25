@@ -17,8 +17,6 @@ faq:
     a: 'Muchas veces sí: la tienda del lugar vende latas recién salidas de fábrica y sabores exclusivos del parque, a veces con un descuento modesto respecto a los precios del aeropuerto o de los grandes almacenes.'
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Shiroi Koibito ("Amante Blanco") es el nombre de la galleta souvenir más famosa de Hokkaido: una fina galleta sándwich de chocolate blanco elaborada por el confitero de Sapporo Ishiya desde 1976. La empresa construyó este parque temático alrededor de su fábrica para que los visitantes puedan observar la línea de producción real, conocer la historia del chocolate en Europa y Japón a través de una curiosa colección de latas antiguas, utensilios y envases, y luego comprar las galletas recién hechas a un precio más bajo que en las tiendas de regalos del aeropuerto. Es una joya escondida precisamente porque la mayoría de los viajeros solo conocen la galleta en su lata azul en el aeropuerto de Narita o en el Nuevo Chitose, sin darse cuenta de que detrás hay todo un complejo de estilo Tudor con torre del reloj, jardín de rosas y museo de juguetes, escondido en un tranquilo rincón residencial de Nishi Ward.

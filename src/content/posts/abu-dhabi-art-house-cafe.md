@@ -83,8 +83,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Art House Cafe is less a standalone café than a discovery inside the Etihad Modern Art Gallery, one of Abu Dhabi's low-key cultural spots in the Al Bateen area. The pairing works: you get a genuinely photogenic, colorful interior — think mismatched art, bold wall pieces, and a leafy courtyard feel — alongside a menu built around breakfast plates, sandwiches, and specialty coffee and tea. With a 4.6 rating from over 3,000 reviews, it has built a loyal following among residents and visitors looking for a design-forward brunch spot that isn't in a mall. It's the kind of place suited to a slow morning: order, wander the gallery, sit back down for a second coffee.

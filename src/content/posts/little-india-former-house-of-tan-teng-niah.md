@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Little India is best known for its Hindu temples, spice shops, and gold merchants, so a bright pastel Chinese villa in the middle of it feels like an anomaly — and that contrast is exactly why the Former House of Tan Teng Niah draws so many visitors. Built around 1900, it was the residence of Tan Teng Niah, a Teochew businessman who ran nearby rubber processing factories and confectionery works. It's the last remaining Chinese villa in the district, a reminder that Little India once had a sizable Chinese trading community living alongside its Indian and Malay residents. Today the building has been restored and repainted in a rotating palette of turquoise, pink, yellow, and lilac, with ornate carved shutters, decorative plaster mouldings, and a distinctly Peranakan-influenced style of ornamentation layered onto a Chinese courtyard-house structure. It now houses commercial offices, so the appeal is entirely the exterior — but that exterior is one of the most photographed facades in Singapore.

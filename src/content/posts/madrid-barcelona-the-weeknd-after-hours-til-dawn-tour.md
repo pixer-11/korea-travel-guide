@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why this run matters
 
 Four stadium shows in five days across two cities is an unusually dense European leg — three consecutive nights in Madrid followed by a single Barcelona date puts real logistical demands on fans planning to catch more than one show. The Weeknd's After Hours Til Dawn production has leaned on elaborate stage architecture, lighting rigs, and a narrative visual arc built around his After Hours/Dawn FM alter ego, so expect a full-scale arena-to-stadium spectacle rather than a stripped-down set. Playboi Carti opening adds a harder-edged rap contrast before the headliner's moodier, synth-driven pop-R&B.

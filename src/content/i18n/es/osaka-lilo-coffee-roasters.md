@@ -17,8 +17,6 @@ faq:
     a: Las tiendas de Amerikamura están a un corto paseo hacia el noroeste, y la galería comercial de Shinsaibashi-suji y la zona del canal de Dotonbori están a unos 10–15 minutos a pie.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 LiLo Coffee Roasters lleva tostando discretamente sus propios granos en este rincón de Nishishinsaibashi desde 2014, mucho antes de que el "third wave coffee" se convirtiera en una tendencia en Osaka. Lo que lo distingue de las innumerables opciones de cafeterías de la zona es la constancia: una valoración de 4.8 estrellas en más de 2,400 reseñas es algo poco común para cualquier local de comida o bebida, y más aún para un pequeño tostador independiente que compite con cadenas a pocas cuadras de distancia. Este es un destino para quienes se preocupan por el origen y la preparación de su café, no solo un lugar para sentarse, aunque cuenta con asientos y Wi-Fi gratuito por si quieres quedarte un rato con el portátil.

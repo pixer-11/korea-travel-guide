@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why go
 
 Bangkok's restaurant scene turns over constantly, but Khao San Sek has separated itself from the pack quickly enough to catch the attention of BK Magazine, which named it the most exciting new opening on its Top Tables 2026 list. The premise is deceptively simple: rather than chasing fusion trends, Chef Pam builds the menu around five ingredients that already define Thai cooking at the household level — rice, chili, coconut, fish sauce, and palm sugar. Critics describing it as a "masterclass" suggests a kitchen more interested in technique and balance than spectacle, which is a notable departure in a city where flashy plating often gets the headlines. For visitors who want to understand Thai food at its roots rather than a tourist-oriented version of it, this is shaping up to be one of the more instructive tables in the city right now.

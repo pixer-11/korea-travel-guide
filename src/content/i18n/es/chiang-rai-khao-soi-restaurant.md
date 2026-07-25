@@ -17,8 +17,6 @@ faq:
     a: Wat Phra Kaew y la Torre del Reloj de Chiang Rai (Chiang Rai Clock Tower) están a poca distancia a pie o a un corto trayecto en tuk-tuk, lo que convierte a este lugar en una parada natural para el almuerzo dentro de una ruta turística por la Ciudad Vieja.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El khao soi es el plato más asociado con el norte de Tailandia, y Chiang Rai —más tranquila y menos turística que Chiang Mai— tiene sus propias versiones muy apreciadas del plato. Khao Soi Restaurant, ubicado en la calle Prasopsook, en el distrito de Wiang (el núcleo del casco antiguo de Chiang Rai), se ha ganado un fiel seguimiento tanto de locales como de viajeros: una calificación de 4.7 en más de 800 reseñas es un consenso poco común para un restaurante especializado en un solo plato. Es el tipo de lugar que los locales recomiendan sin dudarlo, y se ubica firmemente en el rango de precios económico, lo que significa que un tazón completo y satisfactorio suele costar menos que un café en tu país de origen.

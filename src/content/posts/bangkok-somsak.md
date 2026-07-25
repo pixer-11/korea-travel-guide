@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why Somsak stands out
 
 Bangkok has no shortage of Isaan restaurants serving grilled meats, som tam, and sticky rice, but Somsak turns the genre into a themed spectacle. The concept comes from the team behind Fatboy Izakaya, a name already known in Bangkok's nightlife-dining scene for blending serious food with maximalist design and a party atmosphere. Somsak applies that same formula to northeastern Thai cuisine, wrapping it in a fictional narrative: a Bangkok taxi driver named Somsak who supposedly struck it rich in Scotland and brought his newfound wealth (and eccentric taste) back home. The result is a restaurant that leans into kitsch — think eclectic, story-driven decor rather than the rustic, open-air Isaan joints typical of the genre — while still keeping the food itself rooted in the fiery, funky flavors the region is known for, like larb, grilled moo yang, and tangy soups.

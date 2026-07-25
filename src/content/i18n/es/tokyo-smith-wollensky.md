@@ -17,8 +17,6 @@ faq:
     a: Los grandes almacenes de Ginza y el Teatro Kabukiza (Kabukiza Theatre) están a poca distancia a pie, y el Parque Hibiya (Hibiya Park), los terrenos del Palacio Imperial y el Mercado Exterior de Tsukiji (Tsukiji Outer Market) están a un corto trayecto para combinar con la comida.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Los horarios y detalles cambian: confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué Smith & Wollensky en Tokio es todo un acontecimiento
 
 Smith & Wollensky ha sido un referente de la escena de asadores de Nueva York desde 1977, conocido por sus salas de estilo clásico con madera y latón, y por su carne USDA Prime madurada en seco (dry-aged). Su llegada a Ginza marca el primer local de la marca en Japón, y la magnitud de la construcción —tres plantas completas— demuestra lo en serio que se están tomando los operadores este debut. Para los comensales de Tokio, que durante mucho tiempo han asociado la carne de primera calidad con las barras de wagyu y las parrillas de yakiniku, esta es una oportunidad de probar el clásico formato de asador estadounidense: cortes gruesos de carne Prime, maduración en seco y el tipo de hospitalidad generosa y sin pretensiones por la que la cadena es famosa en Estados Unidos.

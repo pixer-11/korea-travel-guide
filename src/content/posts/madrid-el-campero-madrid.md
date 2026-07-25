@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why El Campero Matters
 
 El Campero built its name in Barbate, a fishing town on Spain's Cádiz coast that sits at the heart of the almadraba tradition — an ancient, sustainable tuna-trapping method used since Phoenician times to catch bluefin tuna as it migrates through the Strait of Gibraltar each spring. The Barbate restaurant became a pilgrimage site for tuna obsessives, chefs, and food writers who consider almadraba bluefin among the finest fish in the world, prized for its varied cuts (each with its own texture and fat content, not unlike wagyu beef). Opening a Madrid branch in early 2026 is a significant move: it brings a coastal, seasonal delicacy that most visitors would otherwise need a five-hour drive to taste directly into the capital.

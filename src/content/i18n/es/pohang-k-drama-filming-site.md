@@ -17,8 +17,6 @@ faq:
     a: La Plaza del Amanecer de Homigot (Homigot Sunrise Square, con la escultura Hand of Harmony) está a 10-15 minutos, y la playa Yeongildae de Pohang y la escultura Space Walk son fáciles de añadir de vuelta en la ciudad.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Las imágenes tienen licencia o son de dominio público. Este es un resumen general del área/tema — verifica los detalles específicos del lugar antes de visitarlo. Consulta nuestra [política editorial](/about).
-
 ## Por qué Pohang atrae a los fans de K-dramas
 
 Pohang no es Seúl ni Busan, pero justamente eso es lo que la hace atractiva para los equipos de producción: la ciudad conserva rincones de la Corea antigua que son difíciles de encontrar en otros lugares. El más destacado es Guryongpo (구룡포), un puerto pesquero en la península de Homigot que conserva un conjunto de edificios de madera de la era colonial japonesa de principios del siglo XX, cuando el pueblo era una base para las flotas pesqueras japonesas. Sus calles de baja altura, los carteles descoloridos y las vistas al puerto le dieron a "When the Camellia Blooms" (2019) su nostálgico ambiente de pueblo pequeño, y desde entonces la zona se ha convertido en un pequeño lugar de peregrinación para fans que quieren recorrer los mismos callejones.

@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Fuglen Tokyo Stands Out
 
 Fuglen started life in Oslo in 1963 as a furniture shop and coffee bar, and the Tokyo outpost — the brand's first location outside Norway, opened in 2012 — keeps that dual identity intact. By day it runs as a serious specialty coffee bar with rotating single-origin beans roasted in-house; by night the same room transforms into a cocktail bar with a small, inventive menu often featuring Nordic-inflected infusions and bitters. The wood-paneled interior is filled with actual vintage Scandinavian furniture, much of it sourced and for sale, giving the space a lived-in, mid-century feel that's rare in Tokyo's café scene. With a 4.3 rating across nearly 3,750 reviews, it has become a fixture for both coffee obsessives and cocktail drinkers.

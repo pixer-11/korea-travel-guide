@@ -17,8 +17,6 @@ faq:
     a: Wet Leg y The Kills también están anunciados como cabezas de cartel, y normalmente se revelan artistas de apoyo adicionales más cerca de la fecha del evento.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Las fechas de los eventos y las entradas cambian; confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Babylon lleva más de dos décadas siendo el nombre más respetado de Estambul en música en vivo con curaduría propia, y su festival anual Soundgarden es lo más parecido que tiene la ciudad a un festival internacional de rock/alternativo de tipo boutique. La edición de 2026 es un verdadero atractivo por sus artistas internacionales en gira: Jack White (conocido por The White Stripes), el aclamado dúo británico Wet Leg y los veteranos del garage rock The Kills encabezan un cartel con una fuerte inclinación hacia el indie, el garage y el rock alternativo, en lugar del pop mainstream o el EDM. Para quienes ya planean un viaje a Turquía a finales de agosto, es una oportunidad poco común de ver artistas de este calibre en un entorno de parque al aire libre en lugar de en un estadio.

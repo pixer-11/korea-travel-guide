@@ -17,8 +17,6 @@ faq:
     a: 'Sí: baños, pequeños restaurantes y puestos de souvenirs y bocadillos se agrupan en la zona base cerca de la taquilla, aunque las opciones escasean conforme avanzas por la muralla.'
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué Mutianyu
 
 Mutianyu es el tramo de la Gran Muralla que la mayoría de las guías de viaje recomiendan discretamente por encima del más famoso Badaling, y con buena razón: hay menos multitudes, está mejor restaurado y se encuentra en un dramático paisaje montañoso cubierto de bosques de castaños y pinos. Este tramo se construyó originalmente durante la dinastía Qi del Norte (siglo VI) y fue reconstruido ampliamente bajo la dinastía Ming (1368–1644) para proteger las rutas que conducían a la capital. Cuenta con una densidad inusual de torres de vigilancia —aproximadamente una cada 300 metros—, incluida la conocida plataforma de Zhengguantai, una estructura de tres torres que en su día sirvió como puesto de mando. La taquilla se encuentra en la base de la zona escénica y es el punto de partida para todos, ya sea que planees caminar, subir en teleférico o bajar en tobogán.

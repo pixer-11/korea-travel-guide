@@ -46,8 +46,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Southeast Botanical Gardens (東南植物楽園, Tonan Shokubutsu Rakuen) is one of the larger cultivated garden complexes in Okinawa, spread across rolling terrain in Chibana, Okinawa City, in the center of the main island. Unlike the tightly manicured, single-theme gardens found elsewhere on the island, this one mixes native subtropical species with imported palms, orchids, cacti, and flowering trees from around the world, arranged around a series of ponds and lakes. It's a genuine half-day (or longer) destination rather than a quick photo stop, and the scale is part of the appeal — paths wind through bamboo groves, palm avenues, and a large water-lily lake that anchors the property.

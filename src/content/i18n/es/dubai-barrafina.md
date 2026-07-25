@@ -17,8 +17,6 @@ faq:
     a: Un almuerzo temprano o una cena temprana, antes de que llegue el público del DIFC que sale del trabajo, suele ofrecer la mejor oportunidad de conseguir sitio en la barra.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA, utilizando fuentes web actuales. Los horarios y detalles cambian; confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué Barrafina es relevante
 
 Barrafina es uno de los formatos de restaurante más imitados de Londres: una barra de acero inoxidable y mármol, una cocina abierta que prepara tapas al momento, y sin reservas para los puestos de la barra en sus locales originales de Soho y Covent Garden, un modelo que convirtió las tapas españolas rápidas en todo un acontecimiento gastronómico. Su llegada a Dubái a finales de enero de 2026 marca el primer paso de la marca fuera del Reino Unido, algo destacable en una ciudad que no carece de restaurantes españoles, pero sí de propuestas centradas en esta energía particular de barra y cocina a la vista. Para quienes ya han comido en los locales originales de Londres, el local de Dubái es la oportunidad de comprobar si el formato se traduce bien; para quienes no, es una introducción a uno de los conceptos de tapas más influyentes de las últimas dos décadas.

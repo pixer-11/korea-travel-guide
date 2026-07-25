@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why Root House by Gēn stands out
 
 George Town's dining scene has no shortage of hawker legends, but Root House by Gēn represents a different lane entirely: a considered, design-led restaurant built inside a genuine piece of the city's built heritage. The 1926 Heritage Hotel that houses it is one of George Town's old shophouse-era buildings, restored rather than gutted, so the restaurant sits within original bones — high ceilings, period detailing, and the kind of patina that can't be manufactured. Onto that backdrop, the team behind the acclaimed Gēn restaurant has layered a refined take on Malaysian Chinese cuisine, the cooking style that grew out of generations of Chinese immigrant communities adapting recipes to local Penang ingredients and Nyonya influences. The result is a spot that reads as both a heritage experience and a serious modern kitchen, which is a rarer combination in George Town than the sheer number of "heritage cafés" would suggest.

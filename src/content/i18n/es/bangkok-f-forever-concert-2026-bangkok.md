@@ -17,8 +17,6 @@ faq:
     a: Zonas del centro de Bangkok como Sukhumvit, Siam o Ari son más convenientes para hacer turismo y comer, con un trayecto en taxi o shuttle de 45 a 60 minutos hasta IMPACT Arena la noche del show.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Las fechas de eventos y las entradas cambian: confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué importa este show
 
 F4 fue el motor detrás de uno de los momentos definitorios de la cultura pop asiática: la serie taiwanesa de 2001 *Meteor Garden*, que convirtió a Jerry Yan, Van Ness Wu y Vic Chou (junto con el ya retirado Ken Chu) en un fenómeno regional y dio origen a un spin-off musical que encabezó las listas de éxitos. Dos décadas después, la primera Gira Mundial del trío sobreviviente es un auténtico evento de reencuentro, no una repetición nostálgica con suplentes. Sumando peso a las fechas en Bangkok está la presencia de Ashin, vocalista de Mayday —posiblemente la banda de estadios más grande del Mandopop—, quien se presenta como cuarto miembro honorario. Para los fans que crecieron con los dramas asiáticos y el C-pop de los años 2000, esta combinación de épocas (la realeza de los dramas idol junto con la voz de rock más respetada del Mandopop) es el verdadero atractivo, y no solo un gancho de cartelera.

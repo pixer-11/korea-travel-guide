@@ -48,8 +48,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Cafe Diaz stands out
 
 Suwon has no shortage of café-hopping options, but Cafe Diaz has separated itself from the pack with a 4.9 rating across more than 1,800 reviews — a figure that's rare for any café, let alone one this size. The draw isn't just the coffee; it's the space itself. Large-format Korean cafés built around a single dramatic interior concept have become their own genre of destination in cities like Suwon, and Diaz fits squarely into that "trendy mega-café" category: soaring ceilings, sculptural furniture, and Instagram-ready corners designed to be photographed as much as sat in. It's the kind of place locals treat as a half-day outing rather than a quick caffeine stop.

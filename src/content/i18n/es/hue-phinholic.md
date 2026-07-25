@@ -17,8 +17,6 @@ faq:
     a: El mercado Dong Ba y el paseo junto al río de los Perfumes están ambos a 10–15 minutos a pie, lo que convierte a PhinHolic en una parada fácil al mediodía entre una visita a la Ciudadela y un paseo nocturno junto al río o por el mercado nocturno.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué PhinHolic es relevante en la escena cafetera de Hue
 
 Hue es más conocida por sus tumbas imperiales y las murallas de su ciudadela que por su cultura del café, pero una nueva generación de cafeterías está cambiando eso — y PhinHolic, en la calle Bến Nghé, es uno de los nombres que hoy mencionan primero tanto los locales como los jóvenes viajeros vietnamitas. El nombre es un juego de palabras con "phin", el pequeño filtro metálico de goteo que es la base del café vietnamita, y anticipa el concepto: el clásico método de goteo lento presentado en un espacio de diseño moderno. Con una calificación de 4.5 en casi 900 reseñas, se ha convertido en una parada confiable para quienes buscan un descanso de los templos sin renunciar a la calidad ni al ambiente.

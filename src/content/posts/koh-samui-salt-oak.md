@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Salt & Oak stands out
 
 Koh Samui's dining scene leans heavily on beachfront seafood shacks and hotel buffets, so a restaurant built around live-fire cooking and a tightly edited menu tends to stand out fast. Salt & Oak has done exactly that, building a 4.8 rating across more than 1,200 reviews — an unusually high volume for a single restaurant on the island, which signals steady repeat traffic rather than a one-season novelty. The name itself telegraphs the concept: minimal seasoning, maximum char, dishes built around wood and smoke rather than heavy sauces. Expect an open kitchen where you can watch the grill work, a menu that changes with what's available, and a wine or cocktail list built to match richer, smokier flavors rather than the usual tropical fruit cocktails.

@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The Coach Coffee Shop sits inside WEAVE, the newer lifestyle-and-dining cluster at Resorts World Sentosa (RWS), and it has built a loyal following fast — a 4.9 rating from over 4,100 reviews is unusually high for a resort café. The name and interior riff on old-world coach travel: think tactile textures, warm wood, and travel-trunk styling that photograph well without tipping into gimmick territory. It works equally as a coffee stop between Sentosa attractions or as a sit-down brunch destination in its own right, which is why it draws both theme-park day-trippers and people making a dedicated visit.

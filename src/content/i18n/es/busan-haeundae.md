@@ -17,8 +17,6 @@ faq:
     a: Por mariscos frescos (pescado a la parrilla, bandejas de hoe o pescado crudo) en restaurantes justo a espaldas de la playa, además de bocadillos callejeros como el ssiat hotteok (panqueques dulces rellenos de semillas) que se venden en carritos cerca de la entrada de la playa.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Las imágenes tienen licencia o son de dominio público. Este es un panorama general del área/tema — verifica los detalles específicos del lugar antes de visitarlo. Consulta nuestra [política editorial](/about).
-
 ## Por qué Haeundae es la playa emblemática de Busan
 
 Haeundae es la playa urbana más famosa de Corea, una amplia media luna de arena pálida respaldada por una densa muralla de hoteles de gran altura y torres de apartamentos, entre ellos la LCT Landmark Tower, uno de los edificios residenciales más altos del país. El nombre proviene de Choi Chi-won, un erudito de la dinastía Silla cuyo seudónimo "Haeun" se dice que está grabado en las rocas cerca de Dongbaekseom. A diferencia de las playas más tranquilas de Busan, Haeundae funciona como un barrio completo: un distrito de la ciudad en plena actividad con una playa a sus puertas, razón por la cual atrae tanto a bañistas como a viajeros que solo buscan una base costera transitable a pie, rodeada de restaurantes, cafés y vida nocturna.

@@ -17,8 +17,6 @@ faq:
     a: Siloso Beach, Fort Siloso, el Skyline Luge y la estación del teleférico de Sentosa están todos a poca distancia a pie, por lo que es fácil combinarlo con un itinerario de medio día o de día completo en Sentosa.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Sentosa Sensoryscape es una de las incorporaciones más recientes a la ya abarrotada lista de atracciones de Sentosa, pero todavía no se ha convertido en una parada obligada en la mayoría de los itinerarios, y precisamente ahí radica su atractivo. A diferencia de los parques temáticos y los clubes de playa cercanos, se trata de una instalación pública gratuita construida alrededor de la luz, el sonido, el agua y el aroma: una secuencia de "salas" de jardín que conectan Siloso Beach con el resto de la isla mediante un dosel de formas iluminadas que cambian según la hora del día. Con una calificación de 4.5 basada en casi 400 reseñas, ha ido ganando en silencio un público fiel entre los visitantes que buscan algo más tranquilo y atmosférico que las experiencias más taquilleras de Sentosa.

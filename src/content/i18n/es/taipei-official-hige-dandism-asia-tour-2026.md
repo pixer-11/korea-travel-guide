@@ -17,8 +17,6 @@ faq:
     a: El mercado nocturno de la calle Raohe (Raohe Street Night Market) está a poca distancia caminando del recinto para una comida antes o después del show, y el distrito de Songshan que lo rodea tiene opciones de hotel a 10–15 minutos a pie del Taipei Arena.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por editores, asistida por IA, usando fuentes web actuales. Las fechas de eventos y las entradas cambian — confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué importa este show
 
 Official Hige Dandism — a menudo abreviado por los fans como "Hige Dan" (ヒゲダン) — es una de las mayores exportaciones del rock japonés de la última década, conocida por sus arreglos con piano protagonista, su trabajo de acordes con influencia del jazz y el característico falsete del vocalista Satoshi Fujihara. Las fechas de Taipéi forman parte de una gira asiática 2026 más amplia que sigue paradas en Seúl y precede a Singapur y Bangkok, así que Taipéi recibe una producción completa de arena en lugar de una versión reducida para la región. Para los fans taiwaneses y los que viajan desde el extranjero, dos noches consecutivas (29–30 de agosto de 2026) significan una oportunidad real de conseguir entradas incluso si la primera noche se agota rápido.

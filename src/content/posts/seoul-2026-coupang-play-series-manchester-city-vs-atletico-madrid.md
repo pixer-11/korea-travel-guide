@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why this fixture matters
 
 The Coupang Play Series has become Korea's marquee pre-season football event, and the 2026 edition is its biggest yet: Manchester City face a Team K League selection on August 5, then Atlético Madrid arrive for a second showcase match on August 9. Both fixtures are set for Seoul World Cup Stadium, the 66,000-capacity venue built for the 2002 FIFA World Cup. For fans in East Asia, this is a rare chance to see Premier League and La Liga heavyweights without flying to Europe, and it turns Sangam-dong into a football-festival zone for most of August.

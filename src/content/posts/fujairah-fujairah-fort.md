@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Fujairah Fort is widely regarded as the oldest fort in the United Arab Emirates, constructed between 1500 and 1550 CE — well before the country's other coastal forts were built. It sits on a natural rock outcrop overlooking Al Sharyah, giving it a commanding defensive position that once guarded the approach from the Hajar Mountains to the coast. The structure is built from local materials — stone, mud-brick, and coral — and its silhouette of three round towers connected by thick defensive walls is one of the most photographed sights in Fujairah city. It's not a manicured museum-piece fort; much of its appeal is that it still looks like a working fortification that has weathered five centuries, cannon fire from the early 20th century included.

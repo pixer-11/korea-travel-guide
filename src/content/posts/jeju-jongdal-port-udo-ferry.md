@@ -41,8 +41,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go via Jongdal Port
 
 Most visitors to Udo, the small volcanic island famous for its peanut ice cream, black lava coastline, and Seobinbaeksa's shell-sand beach, funnel through Seongsan Port because it sits next to Seongsan Ilchulbong (Sunrise Peak). Jongdal Port, a few kilometers north in Gujwa-eup, is the quieter alternative. It's a working fishing harbor rather than a tourist hub, so there's less congestion at the ticket window and in the parking lot, and it fits naturally into a northeast Jeju itinerary that includes Hado-ri, Sehwa Beach, and the Jeju Olle Trail's coastal routes (Olle Trail 21 runs right past this stretch of coast).

@@ -17,8 +17,6 @@ faq:
     a: La cafetería está a pocos pasos del Templo Thian Hock Keng, el Nagore Dargah y los puestos de comida hawker de Amoy Street, por lo que es fácil combinarla con un paseo patrimonial por el distrito de conservación de Telok Ayer en Chinatown.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Telok Ayer Street es uno de los tramos mejor conservados de arquitectura de shophouse en Chinatown, y My Awesome Cafe ocupa una de estas unidades restauradas, combinando ladrillo visto, muebles rescatados e iluminación cálida en un espacio que se siente más como el salón bien decorado de un amigo que como un restaurante formal. El menú apuesta por ensaladas y sándwiches artesanales, con una carta de vinos y licores que va rotando, lo que explica por qué atrae tanto al público de laptop-y-latte entre semana como a un ambiente más animado de cena y tragos los fines de semana. Con una calificación de 4.7 en casi 7,900 reseñas, es sin duda una de las cafeterías más comentadas del barrio, no un secreto local tranquilo — conviene organizar la visita en torno a las multitudes en lugar de esperar evitarlas.

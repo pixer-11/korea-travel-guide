@@ -17,8 +17,6 @@ faq:
     a: 'Funciona para ambas cosas: pídelo con arroz como comida completa, o tómalo como anju (comida para acompañar bebidas) con cerveza o soju por la noche, que es una forma habitual en que los coreanos disfrutan el dakgangjeong.'
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El dakgangjeong —pollo frito dos veces hasta que la piel queda crujiente y luego bañado en un glaseado pegajoso, dulce, con ajo y chile— es uno de los platos reconfortantes por excelencia de la provincia de Gangwon-do, y Sokcho es una de las ciudades más asociadas con hacerlo bien. Manseok Dakgangjeong se ha ganado una clientela fiel (con una valoración de alrededor de 4.0 sobre más de 2.000 reseñas) precisamente porque logra el equilibrio por el que se juzga cualquier versión de este plato: un exterior crujiente que se rompe al morderlo, carne jugosa y una salsa dulce y sabrosa con el picante justo para que sigas queriendo más. Es el tipo de lugar que los viajeros añaden a su itinerario gastronómico en Sokcho junto a los platos de calamar y el marisco fresco, pero que ofrece algo más contundente y pensado para compartir.

@@ -91,8 +91,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Souryana has become one of Ajman's most-reviewed restaurants, and the numbers back it up: close to 8,000 Google reviews with an average rating of 4.8. That kind of volume in a relatively small emirate signals a restaurant that has moved well beyond word-of-mouth among a niche crowd — it's a genuine local institution that draws residents from across Ajman and neighboring Sharjah. The kitchen specializes in Syrian and broader Levantine cuisine: char-grilled meats, fresh-baked bread, and mezze spreads built for sharing.

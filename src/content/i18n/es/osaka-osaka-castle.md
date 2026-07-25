@@ -17,8 +17,6 @@ faq:
     a: El Museo de Historia de Osaka (Osaka Museum of History) se encuentra justo al oeste del castillo, cerca de la estación Tanimachi 4-chome, y el Osaka Business Park y Morinomiya ofrecen restaurantes y tiendas a poca distancia caminando.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por editores, asistida por IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El Castillo de Osaka (Ōsakajō) es uno de los monumentos más reconocibles de Japón, construido originalmente en 1583 por Toyotomi Hideyoshi mientras consolidaba el poder tras la muerte de Oda Nobunaga. La estructura actual data de una reconstrucción de 1931 (con una restauración adicional en 1997), ya que la torre original fue destruida en el siglo XVII y una reconstrucción posterior se incendió en 1665. Lo que se ve hoy es una réplica de concreto fiel a la silueta del período Edo, coronada con motivos de tigres y dragones bañados en pan de oro, asentada sobre muros de piedra y fosos genuinamente masivos de la era Edo que sobrevivieron a los siglos. Con una calificación de 4.4 basada en casi 98,000 reseñas, es uno de los lugares más visitados de Osaka, y el parque que lo rodea —el Parque del Castillo de Osaka (Ōsakajō Kōen)— es un destino en sí mismo, especialmente por los cerezos en flor a finales de marzo/principios de abril y el follaje otoñal en noviembre.

@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why NAM Kitchen stands out
 
 Fusion restaurants are common in Los Angeles County, but few pair Vietnamese and Peruvian cooking traditions in one kitchen, and fewer still do it well enough to catch national attention. NAM Kitchen did both: it placed No. 3 on Yelp's 2026 Top 100 U.S. Restaurants list, and it was singled out as the single most-reviewed business among every entry on that list. That combination — a top-three national ranking plus an outsized volume of reviews — signals a restaurant that has moved fast from neighborhood favorite to a genuine culinary destination, all while staying in Gardena rather than a flashier LA neighborhood.

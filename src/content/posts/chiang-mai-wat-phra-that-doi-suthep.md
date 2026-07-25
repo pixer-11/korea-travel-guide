@@ -97,8 +97,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Wat Phra That Doi Suthep is Chiang Mai's most sacred temple and, at 4.7 stars across nearly 12,000 reviews, one of northern Thailand's most consistently praised sights. Founded in 1383 under King Keu Naone of the Lanna kingdom, legend holds that a white elephant carrying a Buddha relic climbed the mountain, trumpeted three times, and died on the spot chosen for the temple — hence the name Doi Suthep ("Suthep Mountain"). The centerpiece is a copper-plated gold chedi housing that relic, surrounded by smaller pagodas, bells, a small museum, and a terrace that opens onto sweeping views of Chiang Mai city and the surrounding valley on clear days.

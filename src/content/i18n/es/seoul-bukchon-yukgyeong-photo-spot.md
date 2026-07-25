@@ -17,8 +17,6 @@ faq:
     a: Los palacios de Changdeokgung y Gyeongbokgung están ambos a 15-20 minutos a pie, y las calles comerciales de Insadong quedan a un corto paseo o viaje en taxi.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La Aldea Hanok de Bukchon (Bukchon Hanok Village) es uno de los últimos conjuntos intactos de casas tradicionales *hanok* de Seúl, y el "Yukgyeong" (seis vistas escénicas) es la respuesta no oficial de la ciudad a las rutas fotográficas urbanas famosas en Instagram. A diferencia de una aldea folclórica construida para turistas, este es un barrio vivo —unos 900 hanok todavía albergan a residentes reales— encajado en las colinas entre los palacios de Gyeongbokgung y Changdeokgung. Las seis vistas numeradas te guían junto a tejados inclinados de tejas, muros de contención de granito y perspectivas de callejones que se alinean perfectamente con la Torre N Seoul en Namsan de fondo. La Vista 6, cerca de la dirección 31-48 Gahoe-dong, es la foto de postal: un callejón de piedra empinado y curvo, bordeado de aleros de tejas oscuras a ambos lados, con casi nada de señalización moderna en el encuadre. Ha obtenido una calificación de 4.6 en casi 1,300 reseñas, en su mayoría de visitantes que buscan exactamente esa foto.

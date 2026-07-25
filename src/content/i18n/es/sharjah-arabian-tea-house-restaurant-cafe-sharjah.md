@@ -17,8 +17,6 @@ faq:
     a: El Museo del Patrimonio de Sharjah (Sharjah Heritage Museum), el Souq Al Arsah y los edificios con torres de viento de Al Shanasiyah están todos a poca distancia a pie, y el paseo marítimo de Al Majaz (Al Majaz Waterfront) queda a un corto trayecto en coche.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Arabian Tea House es uno de los lugares más comentados para comer en Sharjah, y las cifras lo confirman: una calificación de 4.7 con más de 6,350 reseñas para un restaurante que sirve cocina emiratí y del golfo Arábigo en general. El atractivo no está en el refinamiento de la alta cocina, sino en el formato: asientos bajos sobre cojines, mesas a la sombra en el patio, y un menú centrado en el té karak, el foul medames, el balaleet (fideos dulces con huevo), el pan regag y carnes cocinadas lentamente como el machboos. Es el tipo de lugar que convierte un simple desayuno en una hora de observar a la gente sin prisas.

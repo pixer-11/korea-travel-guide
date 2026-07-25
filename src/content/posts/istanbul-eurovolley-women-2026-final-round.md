@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why go
 
 Istanbul isn't just a satellite venue for the 2026 Women's European Volleyball Championship — it's the city where the tournament reaches its climax. While three other host cities carry preliminary and intermediate rounds, Turkey has been awarded the grand final, meaning the new European champions will be crowned on Istanbul soil on September 6, 2026. For volleyball fans, that's a rare chance to combine a marquee sporting finale with a city that's already one of the world's great travel destinations. Turkey has become a genuine volleyball powerhouse in recent years, and a home final round means electric crowd energy, domestic broadcast buzz, and a city primed to celebrate the sport.

@@ -17,8 +17,6 @@ faq:
     a: El Ajman Corniche, el Museo de Ajman en el fuerte antiguo y el centro comercial City Centre Ajman están todos a poca distancia en coche y es fácil combinarlos con una comida.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Souryana se ha convertido en uno de los restaurantes con más reseñas de Ajman, y las cifras lo respaldan: cerca de 8,000 reseñas en Google con una calificación promedio de 4.8. Ese volumen en un emirato relativamente pequeño indica un restaurante que ha trascendido el boca a boca de un público reducido: es una auténtica institución local que atrae a residentes de toda Ajman y de la vecina Sharjah. La cocina se especializa en gastronomía siria y levantina en general: carnes a la brasa, pan recién horneado y platos de mezze pensados para compartir.

@@ -88,8 +88,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Ajman Museum is one of the few places in the emirate where you can see the region's pre-oil history laid out in one compact site. The building itself is the main artifact: a restored 18th-century fort that once served as the ruling Al Nuaimi family's residence and, later, as the local police headquarters before it was converted into a museum in the 1980s. Inside, the collection covers archaeological finds from Ajman's Bronze and Iron Age sites, the pearl-diving trade that sustained the coast before oil, traditional weaponry (khanjars, swords, and old rifles), and reconstructed scenes of everyday Emirati life — a souq, a majlis, a traditional school (kuttab), and a bride's preparation room with period jewelry and dress.

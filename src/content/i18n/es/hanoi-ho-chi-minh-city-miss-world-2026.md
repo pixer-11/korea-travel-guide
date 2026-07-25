@@ -17,8 +17,6 @@ faq:
     a: 'De principios de agosto a principios de septiembre es temporada de lluvias en Vietnam, con mucha humedad, calor y chubascos breves y frecuentes en ambas ciudades: conviene llevar ropa ligera por capas y un paraguas pequeño.'
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Las fechas y entradas de los eventos cambian: conviene confirmar siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué le importa esto al viajero
 
 Vietnam nunca ha sido sede de Miss World en los más de 73 años de historia del certamen, así que la edición de 2026 es un auténtico estreno, y llega además durante el 75.º aniversario del concurso, un hito que se espera que los organizadores celebren con ceremonias adicionales, mayor cobertura mediática y eventos paralelos. Para los visitantes, esto significa una ventana poco frecuente en la que dos de las mayores ciudades de Vietnam —Hanói (Hanoi), en el norte, y Ciudad Ho Chi Minh (Saigón), en el sur— se convierten en escenario de un evento internacional de un mes de duración, que atrae a concursantes, prensa y aficionados al certamen de más de 100 países.

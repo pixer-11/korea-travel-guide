@@ -17,8 +17,6 @@ faq:
     a: El mercado nocturno de Seomun adyacente suele funcionar de forma estacional, generalmente de primavera a otoño, con puestos de comida abiertos por la noche — confirma las fechas de funcionamiento actuales localmente, ya que los horarios pueden cambiar de un año a otro.
 ---
 
-> **Cómo se elaboró esta guía:** Revisado por un editor, con asistencia de IA. Las imágenes tienen licencia o son de dominio público. Esta es una descripción general de la zona/tema — verifica los detalles específicos de cada lugar antes de visitarlo. Consulta nuestra [política editorial](/about).
-
 ## Por qué Daegu, y por qué esta ruta
 
 Daegu no tiene un monumento icónico de postal como los palacios de Seúl o la playa de Haeundae en Busan. Su atractivo es más sutil: una cultura de mercado con historia, un distrito de medicina tradicional conservado como en ningún otro lugar de Corea a esta escala, y un complejo de templos de montaña en el extremo norte de la ciudad. La forma más gratificante de "ver la mejor atracción de Daegu" es tratar el centro de Jung-gu como una experiencia conectada, en lugar de buscar un único lugar.

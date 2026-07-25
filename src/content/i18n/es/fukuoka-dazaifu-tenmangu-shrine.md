@@ -17,8 +17,6 @@ faq:
     a: Prueba el umegae-mochi, un pastel de mochi a la plancha relleno de pasta de judía roja que se vende a lo largo de la calle de acceso y se considera la especialidad local. La calle también cuenta con un notable Starbucks diseñado por Kengo Kuma, que merece una parada rápida.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué Dazaifu Tenmangu es importante
 
 Dazaifu Tenmangu no es simplemente otro santuario bonito más en un itinerario por Kyushu: es uno de los dos santuarios Tenmangu más venerados de Japón (el otro es Kitano Tenmangu, en Kioto). Se construyó en el año 905 d.C. sobre la tumba de Sugawara no Michizane, un erudito y estadista exiliado a Dazaifu que fue deificado póstumamente como Tenjin, el dios del aprendizaje. Debido a ese legado, el santuario atrae un flujo constante de estudiantes y padres que rezan por el éxito en los exámenes, además de visitantes interesados en su arquitectura y jardines. Con una calificación de 4,5 sobre más de 43,000 reseñas, se ha ganado claramente su reputación como un auténtico punto destacado de la región de Fukuoka, y no solo como una "joya escondida" sobre el papel.

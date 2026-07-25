@@ -17,8 +17,6 @@ faq:
     a: El Templo Sri Mariamman y el Buddha Tooth Relic Temple están a poca distancia a pie, y el Chinatown Complex Food Centre, en Smith Street, es una buena opción para almorzar después.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Hoy en día, Chinatown está dominado por puestos de souvenirs y vendedores de comida callejera, lo que hace fácil olvidar que este barrio fue en su día uno de los enclaves de inmigrantes más densamente poblados y empobrecidos del Sudeste Asiático. El Chinatown Heritage Centre, alojado en tres shophouses meticulosamente restauradas en Pagoda Street, existe para llenar ese vacío. En lugar de vitrinas y textos de pared, el museo recrea las condiciones de vida reales: habitaciones-cubículo hacinadas y subdivididas por tabiques de madera, la tienda de un sastre, los dormitorios de un culi y una fumadería de opio reconstruida, todo ello basado en historias orales e investigación de archivo sobre las familias que vivieron en esta dirección. Con una calificación de 4.6 sobre más de 4,400 reseñas, es una de las atracciones bajo techo mejor valoradas de forma constante en el barrio y, a diferencia de gran parte del comercio callejero de Chinatown, es un lugar para tomarse las cosas con calma.

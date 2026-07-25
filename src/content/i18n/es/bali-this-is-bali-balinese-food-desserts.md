@@ -17,8 +17,6 @@ faq:
     a: Calcula unos 45-75 minutos para una comida completa incluyendo el postre, más un margen extra por si hay que esperar en horas pico.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 This Is Bali se ha ganado su reputación por preparar comida balinesa reconfortante de forma consistente y bien lograda —así es como un restaurante acumula más de 18,000 reseñas y mantiene una calificación de 4.9 en una ciudad saturada de competencia. El menú se inclina hacia platos que son difíciles de encontrar bien ejecutados fuera de las cocinas caseras o las ceremonias de templo: babi guling (cerdo especiado asado al espetón), lawar (carne picada o yaca mezclada con coco rallado y especias), nasi campur (plato de arroz mixto con varias guarniciones pequeñas), y una sección dedicada de postres que incluye cosas como el dadar gulung (crepes de pandan enrollados con coco dulce) y el bubur injin (pudín de arroz negro). Para los visitantes que buscan una introducción accesible, con menú en inglés, a los sabores balineses auténticos —en lugar de un menú panasiático turístico— esta es una opción sólida y de bajo riesgo.

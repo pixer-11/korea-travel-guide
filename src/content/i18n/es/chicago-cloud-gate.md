@@ -17,8 +17,6 @@ faq:
     a: La Crown Fountain, el Jay Pritzker Pavilion, el Lurie Garden y el Art Institute of Chicago (a través del Nichols Bridgeway) están todos a pocos minutos a pie.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Cloud Gate es una de las obras de arte público más fotografiadas del mundo, y se lo ha ganado a pulso. El artista británico Anish Kapoor diseñó esta escultura de acero inoxidable sin costuras visibles, de 110 toneladas, para evocar una gota de mercurio líquido; sus 168 placas pulidas fueron soldadas y pulidas hasta que las uniones desaparecieron por completo, una hazaña de fabricación que llevó más de dos años completar antes de su inauguración en 2006. Su superficie espejada refleja y distorsiona el perfil urbano de Chicago, incluidos el Aon Center y los árboles de Millennium Park, deformando toda la escena en una especie de panorama de ojo de pez que cambia según la luz, la estación del año y el punto desde el que se mire. Es gratuita, está al aire libre y recompensa incluso una visita breve.

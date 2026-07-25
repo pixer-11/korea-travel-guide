@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why London Bagel Museum Is Worth Knowing About
 
 Few bakeries anywhere have generated the kind of frenzy that London Bagel Museum has in Seoul. It sits at the center of the city's "open run" culture — a term Koreans use for sprinting to a shop the moment it opens because demand outstrips supply almost every single day. The appeal isn't just hype: the bagels themselves are noted for an unusually chewy, dense texture that stands apart from typical Korean-style bakery bread, paired with inventive flavor combinations like Potato Cheese and the Brick Lane (a nod to London's own bagel heritage, hence the name). For visitors curious about Seoul's contemporary café culture — as opposed to its palaces or markets — this is one of the defining stops of the moment.

@@ -17,8 +17,6 @@ faq:
     a: 'Sí: su ubicación sobre la calle principal lo convierte en una parada conveniente para desayunar o tomar café antes de una salida temprana en barco, o en un lugar tranquilo para recargar energías después.'
 ---
 
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El frente portuario de Labuan Bajo está repleto de operadores de barcos, tiendas de buceo y restaurantes con menús turísticos, pero Mimamori Cafe se ubica algo apartado de ese bullicio, en Jl. Soekarno Hatta, la principal arteria de la ciudad. Se ha ganado su reputación a fuego lento: una calificación de 4.8 sobre 856 reseñas es inusualmente alta para una cafetería en una ciudad donde el turismo rota con rapidez, y todavía no ha sido absorbida por el circuito estándar de las agencias de tours. Eso la convierte en una opción genuinamente relajada si buscas un buen café, un plato de comida que no se sirva con prisa, y un lugar donde sentarte con la laptop o una guía de viaje sin que los camareros ronden esperando la próxima mesa.

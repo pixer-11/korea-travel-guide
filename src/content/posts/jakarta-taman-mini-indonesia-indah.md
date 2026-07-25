@@ -91,8 +91,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Conceived by Ibu Tien Soeharto and opened in 1975, Taman Mini Indonesia Indah was built as a living map of the archipelago: a single park where visitors can walk from a Sumatran rumah gadang to a Papuan honai hut without leaving East Jakarta. With a 4.6 rating across more than 170,000 reviews, it remains one of the city's most visited attractions, popular with domestic school trips and international travelers alike who want a crash course in Indonesia's ethnic and architectural diversity before or after regional travel. The scale is genuine — the grounds cover roughly 150 hectares — so this is less a quick photo stop than a destination in its own right.

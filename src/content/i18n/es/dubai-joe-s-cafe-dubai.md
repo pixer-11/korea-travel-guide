@@ -17,8 +17,6 @@ faq:
     a: La entrada del Burj Khalifa, las zonas para ver la Fuente de Dubái, el Dubai Aquarium & Underwater Zoo y Souk Al Bahar están todos a poca distancia a pie, lo que facilita combinar la cafetería con el turismo.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Joe's Café se encuentra dentro del ala Fashion Avenue de Dubai Mall, la sección construida para conectar el corredor de tiendas de lujo del centro comercial con el Burj Khalifa y Downtown Dubai. Más que un hallazgo escondido, es toda una institución de la restauración dentro de centros comerciales: con una valoración de 4,9 sobre más de 25.000 reseñas, es uno de los locales para sentarse a comer más constantemente elogiados dentro de uno de los centros comerciales más concurridos del mundo. El atractivo es sencillo: un comedor genuinamente fotogénico y lleno de vegetación (plantas colgantes, suelos de aspecto marmóreo y claraboyas) que sirve desayuno todo el día, brunch y comida de cafetería de inspiración mediterránea a una mezcla de compradores, turistas y residentes de Downtown que buscan un descanso del calor.

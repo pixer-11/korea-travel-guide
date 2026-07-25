@@ -82,8 +82,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Ayutthaya's dining scene is mostly built around quick noodle stalls and riverside seafood shacks near the ruins, so a place like The Artisans Ayutthaya stands out. It has earned an unusually strong reputation — a 4.9 rating across more than 2,000 reviews — for combining a carefully designed space with a menu that blends Thai flavors and Western café-style dishes. It's less a "grab a quick bowl of boat noodles" stop and more a destination in itself, the kind of place worth building an hour or two of your itinerary around rather than squeezing in between temple visits.

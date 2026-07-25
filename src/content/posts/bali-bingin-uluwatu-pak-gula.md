@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why go
 
 Bingin has long been Uluwatu's cliffside surf enclave, better known for warungs, cliff-hugging losmen, and the famous Bingin Beach staircase than for polished dining. Pak Gula changes that equation. It comes from the team behind The Cashew Tree, one of Canggu and Uluwatu's more reliable names in the casual-cool dining scene, and it brings that same shareable, social, design-forward approach to Bingin. The restaurant is spread across two storeys, which in practice means different moods on different levels — expect a more low-key ground floor for walk-ins and a livelier upper level suited to groups and evening drinks. For visitors who've already done the beach clubs of Uluwatu and Padang Padang, Pak Gula is the kind of stop that gives the area a genuine after-dark identity rather than just a scenic day-trip stopover.

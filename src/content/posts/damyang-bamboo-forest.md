@@ -29,8 +29,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting. See our [editorial policy](/about).
-
 ## Why go
 
 Damyang, a small county in South Jeolla Province about 20-30 minutes north of Gwangju, has been synonymous with bamboo craftsmanship for centuries — bamboo baskets, mats, and fans from this region were once sent as tribute to the royal court. Juknokwon, opened in 2003, turned that legacy into a public park by threading boardwalks and dirt paths through a dense grove of towering moso bamboo (some stalks reach over 10 meters). The rustle of wind through thousands of stalks, the green-tinted light filtering down, and the cool air even in summer make it one of the most atmospheric natural attractions in the country — and a favorite backdrop for Korean dramas and films.

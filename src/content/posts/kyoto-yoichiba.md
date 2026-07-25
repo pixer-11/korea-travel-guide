@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Yoichiba stands out
 
 In a city with no shortage of restaurants chasing tourist foot traffic, a 4.8 rating across 421 reviews is a meaningful signal — that volume of reviews suggests consistency over time, not a lucky first month. Yoichiba sits in Nakagyo Ward, the historic commercial core of Kyoto that also holds the Nishiki Market, Kyoto's covered "Kitchen," and the nightlife strip along the Kamogawa river. The address, 595-9 Uraderachō, places it in the tangle of narrow lanes just off the main shopping arcades — the kind of location locals know well but that doesn't announce itself with a flashy storefront, which is typical of Kyoto's best small dining rooms.

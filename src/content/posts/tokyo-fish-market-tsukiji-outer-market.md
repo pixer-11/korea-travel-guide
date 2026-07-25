@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Tsukiji Outer Market is the street-food and specialty-shop half of what was once Tokyo's central wholesale fish market. When the wholesale auction and main trading floor relocated to Toyosu in October 2018, the outer market — the tangle of narrow lanes lined with seafood stalls, knife shops, dried-bonito sellers, and tiny counter restaurants — stayed put in Chuo City's Tsukiji neighborhood. It's now less about wholesale commerce and more about eating your way through Tokyo's seafood culture in a few concentrated blocks, which is exactly why it draws crowds daily.

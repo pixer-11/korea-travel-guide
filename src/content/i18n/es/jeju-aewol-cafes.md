@@ -17,8 +17,6 @@ faq:
     a: El Hallim Park con sus cuevas de tubos de lava y jardines, las playas de Hyeopjae y Bangju, y tramos de las rutas 15–16 del Jeju Olle Trail están todos a 15–20 minutos en coche o a pie.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Las imágenes tienen licencia o son de dominio público. Esta es una descripción general de la zona/tema; verifica los detalles concretos de cada local antes de visitarlo. Consulta nuestra [política editorial](/about).
-
 ## Por qué Aewol se convirtió en la capital de las cafeterías de Jeju
 
 Aewol-eup, en la costa noroeste de Jeju, se transformó en la última década en el distrito de cafeterías más fotografiado de la isla, en gran parte gracias a su litoral: plataformas de roca volcánica negra que se encuentran con aguas turquesas, con el Hallasan visible a lo lejos en los días despejados. A diferencia de las densas cafeterías urbanas de la ciudad de Jeju o de la zona de Jungmun, dominada por los resorts, el ambiente de Aewol surgió de antiguas aldeas de pescadores y casas de huéspedes reconvertidas, así que muchas cafeterías siguen instaladas en casas de piedra renovadas o antiguos almacenes, en lugar de edificios comerciales construidos para tal fin. El resultado es un tramo de costa donde puedes pasar caminando de una cafetería de estilo hanok reconvertida a una caja minimalista de hormigón con terraza en la azotea en apenas unos cientos de metros.

@@ -17,8 +17,6 @@ faq:
     a: La playa de Haeundae, el Mercado Tradicional de Haeundae (Haeundae Traditional Market), el Acuario SEA LIFE Busan y la carretera costera Dalmaji-gil están todos a poca distancia a pie o en un corto trayecto en taxi.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El distrito de Haeundae, en Busan, es conocido sobre todo por su amplia playa de arena, sus puestos de mariscos y sus vistas desde hoteles de gran altura, pero escondido en la cuadrícula de calles secundarias detrás de la arena se encuentra Namaste Haeundae, una cocina india y nepalí que se ha ganado un público fiel tanto entre extranjeros como entre comensales coreanos con ganas de algo distinto al kimchi y al pescado a la parrilla. Con una calificación de 4.8 en más de 3,200 reseñas, es uno de los restaurantes internacionales mejor valorados de forma constante en el barrio: una parada confiable si llevas días comiendo comida coreana y quieres un cambio, o si simplemente se te antoja un buen curry después de una mañana en la playa.

@@ -17,8 +17,6 @@ faq:
     a: Combina tu visita con un paseo por las galerías y tiendas de Dempsey Hill, o extiende la salida hasta los cercanos Singapore Botanic Gardens.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA, usando fuentes web actuales. Los horarios y detalles cambian: confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué Casa Mori destaca
 
 Dempsey Hill ha sido durante mucho tiempo el enclave predilecto de Singapur para restaurantes instalados en antiguos bungalós coloniales blancos y negros rodeados de árboles de lluvia (rain trees), y Casa Mori es una de las incorporaciones más comentadas de esa zona últimamente. El concepto une dos voces culinarias muy distintas: Willin Low, el chef al que ampliamente se le atribuye haber sido pionero de la cocina "mod-Sin" (cocina singapurense moderna que reinterpreta los clásicos de los puestos de comida callejera, o hawker, desde una óptica de alta cocina), y Jose Alonso, un chef español que aporta las tapas y la técnica de los platos para compartir. El resultado es un menú construido en torno a pequeños platos de estilo español sazonados con toques claramente singapurenses — piensa en el cincalok (pasta de camarón fermentado) y el sambal integrados en platos que, por lo demás, podrían leerse como ibéricos. Es precisamente esta fusión de culturas, más que cualquiera de las dos cocinas por separado, lo que le da a Casa Mori su identidad y su repercusión.

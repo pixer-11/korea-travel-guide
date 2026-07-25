@@ -31,8 +31,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting. See our [editorial policy](/about).
-
 ## Why go
 
 Boryeong Mud Festival is Korea's most famous summer event, built around the simple idea that the mineral-rich mud from the tidal flats near Daecheon Beach is good for your skin — and even better for a party. What began in the 1990s as a marketing push for a local cosmetics line has grown into a two-week beach festival drawing hundreds of thousands of visitors, including a large share of foreign tourists and expats. Expect mud wrestling rings, mud slides, giant inflatable mud pools, body-painting stations, a mud prison photo zone, and free-for-all mud fights on the sand, followed by K-pop stage shows, fireworks, and foam parties once the sun goes down. It's messy, loud, and unapologetically fun — closer to a beach carnival than a cultural heritage site.

@@ -17,8 +17,6 @@ faq:
     a: Al ser un lugar popular entre visitantes internacionales (algo que se refleja en su alto número de reseñas), es común encontrar algo de inglés o menús con fotos o traducidos, aunque una app de traducción es un buen respaldo para preguntas más detalladas.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El paseo marítimo de Nha Trang es el que sale en las postales, pero la verdadera identidad culinaria de la ciudad vive en su cultura de comida callejera: mariscos a la parrilla, ensaladas de fideos cargadas de hierbas y especialidades del centro de Vietnam que rara vez llegan a los menús de los resorts. Street Food Nha Trang, ubicado en un tramo residencial de Lý Nam Đế al sur de la franja turística principal, existe precisamente para llenar ese vacío: una sola dirección donde los visitantes pueden probar una variedad de platos que de otro modo implicaría ir de puesto en puesto por cinco lugares distintos, cada uno con sus propios banquitos de plástico y sin menú en inglés. Con una calificación de 4 estrellas basada en más de 128 reseñas, se ha convertido en una parada confiable para quienes quieren probar los sabores de la provincia de Khánh Hòa sin tener que adivinar.

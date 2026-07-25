@@ -17,8 +17,6 @@ faq:
     a: Sí — trátalo como un desvío deliberado. Visita Tōdai-ji y Kasuga Taisha por la mañana y luego dirígete a Sahha para un almuerzo tardío, ya que no está en la ruta turística principal.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué Sahha es importante en Nara
 
 La escena gastronómica de Nara se inclina hacia el soba, el kakinoha-zushi (sushi envuelto en hoja de caqui) y los locales de udon orientados al turista que se agrupan cerca del Parque de Nara y la estación Kintetsu-Nara — pero las opciones halal históricamente han escaseado. Sahha llena ese vacío de forma contundente. Con una valoración de 4.9 en más de 639 reseñas, es uno de los restaurantes más elogiados de la región, sea halal o no. Para los visitantes musulmanes que recorren Tōdai-ji, Kasuga Taisha o los ciervos del Parque de Nara, elimina el habitual quebradero de cabeza de buscar una cocina certificada, y para todos los demás es simplemente un local bien valorado por su cocina generosa y sabrosa, basada en carnes halal, platos de arroz y curry al estilo japonés.

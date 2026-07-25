@@ -17,8 +17,6 @@ faq:
     a: Calcula al menos 1.5–2 horas si quieres comer en uno de los restaurantes ancla y recorrer el resto del centro comercial, y más tiempo si tienes que esperar mesa en horas punta.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por editores, con asistencia de IA, utilizando fuentes web actuales. Los horarios y detalles cambian — confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué este patio de comidas es la comidilla de Taichung
 
 Taichung no tiene escasez de centros comerciales, pero el piso gastronómico de Hanshin Continental Mall ha logrado algo poco común: convertir un patio de comidas en un destino por derecho propio. La expectación gira en torno a dos conceptos. El primero es Sangok, una cadena de Korean BBQ que debuta en Taiwán aquí mismo con una terraza al aire libre —según se informa, la primera de este tipo para la marca en el país— ubicada de manera que da vista a un campo de béisbol, ofreciendo a los comensales carne a la parrilla y una vista casi de estadio en la misma sesión. El segundo es un local de sushi giratorio (estilo kaiten-zushi) construido en torno a un sistema de pedidos con pantalla táctil gigante, que permite a los clientes armar su pedido de forma visual en lugar de llamar al personal o rellenar una hoja de papel. Juntos, han hecho que la oferta gastronómica del centro comercial sea tanto un motivo para visitar Beitun como cualquier otro atractivo comercial.

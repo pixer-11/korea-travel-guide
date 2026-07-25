@@ -99,8 +99,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Joe's Café sits inside the Fashion Avenue wing of Dubai Mall, the section built to connect the mall's luxury retail corridor to the Burj Khalifa and Downtown Dubai. It's less a hidden find than a mall-dining institution: with a 4.9 rating across more than 25,000 reviews, it's one of the most consistently praised sit-down spots inside one of the world's busiest malls. The appeal is straightforward — a genuinely photogenic, greenery-lined dining room (think hanging plants, marble-look floors, and skylights) serving all-day breakfast, brunch, and Mediterranean-leaning café food to a mix of shoppers, tourists, and Downtown residents taking a break from the heat.

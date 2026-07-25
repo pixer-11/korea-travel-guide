@@ -46,8 +46,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Osaka Castle (Ōsakajō) is one of Japan's most recognizable landmarks, originally built in 1583 by Toyotomi Hideyoshi as he consolidated power after the death of Oda Nobunaga. The current structure dates from a 1931 reconstruction (with further restoration in 1997), since the original tower was destroyed in the 17th century and a later rebuild burned down in the 1665. What stands today is a concrete reproduction faithful to the Edo-period silhouette, topped with gold-leaf tiger and dragon motifs, sitting atop genuinely massive Edo-era stone walls and moats that survived the centuries. With a 4.4 rating from nearly 98,000 reviews, it's one of the most-visited sites in Osaka, and the park around it — Osaka Castle Park (Ōsakajō Kōen) — is a destination in its own right, especially for cherry blossoms in late March/early April and autumn foliage in November.

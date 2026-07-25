@@ -69,8 +69,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The Chengdu Research Base of Giant Panda Breeding is one of the few places on earth where you can reliably see giant pandas — dozens of them — in a setting designed to mimic their natural bamboo-forest habitat rather than a cramped zoo enclosure. Founded in 1987 with just six rescued pandas, the base has grown into a sprawling conservation and breeding campus that's home to over 100 giant pandas today, plus a smaller population of red pandas, which many visitors end up finding just as charming. With a 4.6 rating across thousands of reviews, it's consistently cited as one of Chengdu's must-do experiences, and it's a legitimate research and conservation facility, not a tourist gimmick.

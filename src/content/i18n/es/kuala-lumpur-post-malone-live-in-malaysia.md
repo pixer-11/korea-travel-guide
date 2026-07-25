@@ -17,8 +17,6 @@ faq:
     a: Ambas opciones funcionan gracias a la conexión de la línea Kelana Jaya, pero hospedarte cerca de Bukit Jalil reduce la congestión del transporte después del show, mientras que el centro de KL (Bukit Bintang, KLCC) ofrece más actividades antes y después del concierto.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, utilizando fuentes web actuales. Las fechas de los eventos y las entradas cambian — confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué importa este show
 
 El catálogo de Post Malone —"Circles," "Sunflower," "Congratulations," "White Iverson," y su material más reciente con influencias country— lo ha convertido en uno de los pocos artistas globales del cruce entre pop, rap y rock que todavía agota estadios. Esta fecha marca su primer concierto en Malasia, parte de una gira mundial más amplia que recorre el sudeste asiático. Para los fans de la región que antes tenían que volar a Singapur, Yakarta o Bangkok para verlo, una parada en Kuala Lumpur es una novedad importante — se espera una fuerte demanda no solo desde Malasia, sino también desde los países vecinos.

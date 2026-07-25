@@ -17,8 +17,6 @@ faq:
     a: Usa únicamente el socio oficial de venta de entradas de One Universe Festival una vez que se abra la venta; evita la reventa o los sitios de terceros, ya que ni los precios ni la autenticidad están garantizados.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Las fechas y entradas de los eventos cambian: confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 One Universe Festival 2026 reúne un cartel inusualmente ecléctico para un solo fin de semana: los referentes del indie/electrónica The xx, los pesos pesados del drum and bass Pendulum, los pioneros del shoegaze My Bloody Valentine y la revelación del hardcore-punk Turnstile, todos en el mismo cartel. Esa diversidad es el gran atractivo del festival: no se trata de un rave de un solo género ni de un showcase de K-pop, sino de una mezcla cuidadosamente seleccionada que atrae tanto a fans de la música de guitarra como del baile electrónico y de los sonidos más contundentes. Súmale el escenario —Paradise City, un complejo de resort y entretenimiento en lugar de un simple campo de festival— y el resultado es un fin de semana que funciona también como una minivacación cerca de uno de los aeropuertos más transitados de Asia.

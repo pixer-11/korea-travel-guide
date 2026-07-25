@@ -71,8 +71,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Chiang Mai's Old City is packed with guesthouse cafés and tourist-trap pad thai stalls, so a restaurant holding a 4.9 rating across almost 2,000 reviews stands out. Garden to Table Chiangmai has built its reputation on exactly what the name promises: dishes that lean on fresh, often locally grown produce rather than the deep-fried, heavily sauced fare that dominates backpacker menus. The price level is budget-friendly (priceLevel 1), so this isn't a splurge occasion — it's the kind of place you can eat at twice in one trip without blinking, and many visitors do.

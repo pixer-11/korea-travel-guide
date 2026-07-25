@@ -48,8 +48,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why this guide exists
 
 Search "where to eat near Orchard Road" and Maxwell Food Centre often comes up — but it's worth being upfront: this hawker centre sits in Chinatown, not Orchard Road proper. It's a fixture of Singapore's food scene and a genuinely worthwhile detour from an Orchard-based stay, roughly 15-20 minutes away by train. Think of this as the honest version of "near Orchard Road" — close enough for a half-day food trip, not a walkable lunch stop.

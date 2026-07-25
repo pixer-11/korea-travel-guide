@@ -17,8 +17,6 @@ faq:
     a: A primera hora de la mañana o en la hora previa al atardecer, para evitar multitudes y disfrutar de mejor luz; la Cúpula también se ilumina de noche, lo que crea un ambiente especial para las visitas nocturnas.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La Cúpula de la Bomba Atómica (Genbaku Dome) es lo que queda del antiguo Salón de Promoción Industrial de la Prefectura de Hiroshima, un edificio de ladrillo y acero diseñado por un arquitecto checo y terminado en 1915. El 6 de agosto de 1945, se encontraba casi directamente debajo del punto de detonación de la bomba atómica y, por una extraña particularidad de la física de la explosión, su cúpula central y algunas paredes sobrevivieron mientras todo lo que había dentro y alrededor quedó arrasado. Desde entonces se ha dejado deliberadamente intacto —sin restauración, solo con refuerzo estructural para mantenerlo en pie— y fue declarado Patrimonio de la Humanidad por la UNESCO en 1996. Con una calificación de 4.7 en más de 34,000 reseñas, es una de las estructuras individuales más visitadas de Japón, pero recompensa a los visitantes menos con grandeza que con silencio: este es un lugar para contemplar, no para fotografiar y seguir de largo.

@@ -17,8 +17,6 @@ faq:
     a: 'Sí: Gateway Mall está justo al lado del Coliseum y ofrece una amplia variedad de restaurantes, un supermercado y farmacias, lo que lo convierte en el lugar más práctico para comer antes o después del concierto.'
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Las fechas de los eventos y las entradas cambian; confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué importa este show
 
 MAMAMOO —Solar, Moonbyul, Wheein y Hwasa— tiene una de las bases de fans más fieles del sudeste asiático, y Filipinas ha sido históricamente uno de sus mercados internacionales más fuertes. Su regreso para una fecha de la gira mundial 2026 confirma a Manila (específicamente Quezon City) como una parada recurrente para los grandes actos del K-pop. El grupo es conocido por su potencia vocal en vivo más que por un espectáculo de coreografía pura, así que se espera un repertorio construido en torno a exhibiciones vocales, presentaciones por subunidades y temas favoritos de los fans junto a material más reciente, aunque el setlist oficial y la posible alineación de invitados aún no son públicos.

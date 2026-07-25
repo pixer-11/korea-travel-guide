@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why Bastian Beach Club stands out
 
 Mumbai has plenty of rooftop bars and hotel pool decks, but a dedicated beach club — one built around a central pool, daybeds, and a whitewashed Mediterranean design language — is a genuinely new format for the city. Bastian Beach Club, opened by restaurateur Ranjit Bindra and actor-entrepreneur Shilpa Shetty, fills that gap. It's the beach-club spinoff of the well-known Bastian restaurant brand, and it leans into an Ibiza-Mykonos aesthetic courtesy of designer Minal Chopra: think white cabanas, sea-facing loungers, and a pool that's as much a social stage as a place to swim. For a city that's always been sea-adjacent but rarely sea-immersed in its nightlife, this is a notable addition to Mumbai's trendy dining-and-lounging circuit.

@@ -29,8 +29,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting. See our [editorial policy](/about).
-
 ## Why Seongsu Became Seoul's Cafe District
 
 Seongsu-dong sits on the east side of the Han River in Seongdong District, and until the 2010s it was known mainly for small shoe and leather workshops — you'll still see "handmade shoe street" signage near Seongsu Station. As rents rose in Hongdae and Itaewon, designers and F&B brands started converting the neighborhood's old brick factories, printing shops, and auto-repair garages into cafes, flagship stores, and galleries, keeping the raw concrete floors, steel beams, and warehouse ceilings intact. That industrial-meets-minimalist aesthetic is now the area's signature look, and it's why Seongsu is frequently compared to Brooklyn or Shoreditch in local media. Fashion brands (including several international names) have opened pop-up showrooms here precisely because the cafe culture already draws a design-conscious, photo-taking crowd.

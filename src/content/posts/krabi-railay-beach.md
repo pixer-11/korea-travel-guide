@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Railay's draw is its geography: a small peninsula boxed in by sheer limestone cliffs, cut off from the mainland road network entirely, so the only way in or out is by boat. That isolation is what keeps it from feeling like the rest of Ao Nang — no traffic, no motorbikes weaving through, just sand, jungle, and towering karst walls that draw climbers from around the world. With a 4.4 rating across nearly 5,000 reviews, it's one of the most consistently praised spots in Krabi province, and the combination of beach, cliff, and cave scenery in one compact area is hard to match elsewhere in Thailand.

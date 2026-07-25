@@ -17,8 +17,6 @@ faq:
     a: La propia playa de Ong Lang merece un paseo antes de cenar, y varios pequeños resorts y bungalows se alinean en la misma carretera, lo que facilita combinar la cena con un paseo al atardecer sin apenas desplazarte.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Ong Lang es la alternativa más tranquila de Phu Quoc frente al concurrido tramo de Long Beach, más al sur, y Camia Restaurant se ha convertido en uno de los lugares más comentados del vecindario para comer, porque cumple tanto en ambiente como en ejecución. Una valoración de 4.8 con más de 2,400 reseñas es inusualmente alta para un restaurante de este tamaño, y normalmente eso significa que el marisco es realmente fresco, que el servicio es atento en lugar de apresurado, y que el entorno frente al mar no es solo un adorno sobre una comida mediocre. Es el tipo de lugar en torno al cual los viajeros organizan una noche entera, en lugar de encontrarlo por casualidad.

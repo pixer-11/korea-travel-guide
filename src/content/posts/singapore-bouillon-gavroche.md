@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why go
 
 Bouillon Gavroche matters because of what it revives, not just what it serves. "Bouillon" restaurants originated in Paris in the 1800s as workers' canteens — communal, brisk, and cheap, serving hearty French staples like pot-au-feu and roast chicken to the working class rather than the bourgeoisie. Chartier in Paris is the most famous survivor of that era, and the format has become a nostalgic touchstone for French dining culture: unfussy food, quick turnover, white-aproned service, and prices meant for everyday eating rather than special occasions. Bouillon Gavroche is being positioned as the first restaurant to bring that specific 19th-century bouillon concept to Asia, which makes it a genuine novelty for Singapore's dining scene rather than another generic French bistro import. For visitors curious about French food culture beyond fine dining, this is a chance to experience a format that rarely travels outside France.

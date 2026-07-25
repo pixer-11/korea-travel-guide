@@ -74,8 +74,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Khao Soi, and Why This Spot
 
 Khao soi is Chiang Mai's signature dish — a Burmese-influenced curry noodle soup built on a coconut-milk broth, egg noodles boiled soft in the bowl, and a tangle of deep-fried crispy noodles piled on top for crunch. It's typically made with chicken (khao soi gai) or beef (khao soi neua), finished with pickled mustard greens, shallots, lime, and a spoonful of chili oil (nam prik pao) stirred in table-side to taste. Best Khao Soi Chang Mai has built its reputation squarely around doing this one dish exceptionally well, which is reflected in its 4.6-star average across 252 reviews — a strong showing for a single-dish specialist in a city with hundreds of khao soi vendors.

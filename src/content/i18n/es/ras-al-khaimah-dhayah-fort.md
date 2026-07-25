@@ -17,8 +17,6 @@ faq:
     a: Es imprescindible calzado cerrado y con buen agarre para los escalones de piedra irregulares, y lleva tu propia agua, ya que no hay sombra ni vendedores ni en el camino ni en la cima.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El fuerte de Dhayah es el último fuerte de montaña que queda en pie en los EAU: la mayoría de los fuertes históricos del país están a nivel del suelo, pero este corona un afloramiento rocoso natural sobre los palmerales de Ar Rams. Sus torres de adobe y piedra datan del siglo XIX, y el fuerte ocupa un lugar realmente dramático en la historia emiratí: aquí es donde la familia gobernante Qawasim hizo su última resistencia frente a un ataque de la Compañía Británica de las Indias Orientales en 1819, un episodio que llevó directamente a los tratados que dieron forma a los actuales "Estados de la Tregua" (Trucial States). A diferencia de otros fuertes restaurados y vistosos en otras partes del Golfo, Dhayah todavía se siente crudo y expuesto en su colina, que es precisamente lo que hace que la vista desde arriba merezca la subida.

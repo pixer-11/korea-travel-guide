@@ -17,8 +17,6 @@ faq:
     a: Abai Village (al que se llega en el ferry de tracción manual), la playa de Sokcho y el mercado de Sokcho Jungang, ideal para desayunos de mariscos, están todos a poca distancia en coche o a pie a lo largo de la costa.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Yeonggeumjeong es uno de esos lugares que queda mejor en foto de lo que suena sobre el papel: un pabellón hanok compacto y ricamente decorado, situado sobre un peñasco de roca volcánica oscura, unido a tierra firme por un pequeño puente en arco. No se trata de un templo ni de una reliquia histórica —la estructura actual es una reconstrucción moderna—, pero su posición, adentrándose en el Mar del Este con las olas rompiendo justo debajo, le da un dramatismo que atrae tanto a los cazadores de amaneceres como a los paseantes nocturnos. Con 4,3 estrellas y casi 12.000 reseñas, se ha convertido claramente en una de las atracciones gratuitas más visitadas de Sokcho, y aun así conserva una escala más pequeña y menos "empaquetada" que las playas de la ciudad o las multitudes del teleférico de Seorak.

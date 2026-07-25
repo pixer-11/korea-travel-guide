@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Opened in 1935, this Art Deco landmark on the southern face of Mount Hollywood was built as a public observatory — one of the first in the world designed for ordinary visitors rather than research astronomers, and admission to the building and grounds has remained free ever since. It's earned a loyal following (4.7 stars across more than 18,500 reviews) not just for astronomy but for its role as an LA icon: the copper-domed exterior has appeared in *Rebel Without a Cause*, *La La Land*, and countless postcards of the city skyline stretching toward the Pacific. Beyond the views, the building itself is worth studying — bronze reliefs, a frieze of astronomical pioneers, and the Foucault pendulum swinging in the rotunda beneath murals by Hugo Ballin.

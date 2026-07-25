@@ -17,8 +17,6 @@ faq:
     a: Las reservas para primera hora de la tarde entre semana suelen ser más fáciles de conseguir que los horarios de fin de semana, y visitar a última hora de la tarde te permite ver el distrito de talleres en su ambiente más auténtico antes de que el servicio de cena se ponga ajetreado.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA, usando fuentes web actuales. Los horarios y detalles cambian: confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué Dallas Pizza vale la visita
 
 Mullae-dong no es donde la mayoría de los visitantes esperaría encontrar una de las aperturas de restaurantes más comentadas de Seúl. Durante décadas, este rincón del oeste de Seúl, encajado entre Yeongdeungpo y la estación de Mullae, fue conocido únicamente por la metalurgia: talleres de chapa, chispas de soldadura y el estruendo de la maquinaria. Esa columna vertebral industrial nunca desapareció, pero en los últimos quince años los artistas expulsados por los precios de otros barrios se han ido instalando en talleres vacíos, superponiendo estudios, galerías y ahora también gastronomía y bebida que merece la pena visitar sobre la base industrial y auténtica del distrito. Dallas Pizza es la incorporación más reciente y comentada a esa mezcla: una pizzería que rápidamente se ha convertido en una de las reservas más de moda del barrio, precisamente porque se encuentra donde menos lo esperarías: en un callejón estrecho, justo al lado de un taller de metalurgia que sigue en pleno funcionamiento.

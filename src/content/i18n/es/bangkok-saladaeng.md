@@ -17,8 +17,6 @@ faq:
     a: Apunta al atardecer, aproximadamente entre las 6:00 y las 6:45 pm según la temporada, y prioriza la temporada seca (noviembre-febrero) para cielos más despejados frente a los meses de lluvia.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Los horarios y detalles cambian — confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Saladaeng ocupa el piso 42 de la torre de oficinas de Dusit Central Park, uno de los desarrollos de uso mixto más esperados de Bangkok, en Silom-Rama IV, cerca del Parque Lumpini (Lumpini Park). Lo que lo distingue de la abarrotada escena de bares de azotea de la ciudad no es solo la altura, sino su linaje de diseño. El espacio está amueblado con más de 100 piezas de Fritz Hansen, la casa danesa de mobiliario responsable de iconos como la Egg Chair y la Series 7, distribuidas en cuatro zonas distintas en lugar de un único diseño uniforme de bar. Eso le da a Saladaeng una personalidad dividida: parte club social, parte muestra de diseño, parte mirador panorámico sobre el skyline de Bangkok. Para quienes están interesados en dónde convergen actualmente la arquitectura contemporánea, la cultura del diseño y la vida nocturna de Bangkok, este es un ejemplo genuinamente actual.

@@ -17,8 +17,6 @@ faq:
     a: La Cúpula de la Bomba Atómica (Atomic Bomb Dome) y el Parque Memorial de la Paz de Hiroshima (Hiroshima Peace Memorial Park) están a unos 15–20 minutos a pie o a un breve trayecto en tranvía, lo que convierte a GYUMON en una cena conveniente tras visitar esos lugares.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué GYUMON destaca
 
 La escena gastronómica de Hiroshima es famosa por el okonomiyaki y las ostras, pero la ciudad también tiene una sólida cultura del wagyu, y GYUMON Hiroshima es uno de los nombres que los locales mencionan cuando se habla de yakiniku de alta gama. Un promedio de 4,9 estrellas en más de 1.200 reseñas es una señal inusualmente fuerte en una categoría donde las calificaciones de cinco estrellas son comunes, pero rara vez se mantienen con ese volumen de opiniones: esto sugiere consistencia a lo largo de cientos de visitas, y no un puñado de reseñas afortunadas. El restaurante se encuentra en el 4º piso del edificio HM Hondori Kaikan, por encima de las tiendas a nivel de calle de Hondori, la principal galería comercial cubierta de Hiroshima, en el distrito de Naka (Naka Ward). Estar en un piso superior en lugar de a pie de calle es algo típico de los mejores locales de yakiniku e izakaya de Japón, que a menudo sacrifican visibilidad desde la calle a cambio de un ambiente más tranquilo y enfocado en la comida.

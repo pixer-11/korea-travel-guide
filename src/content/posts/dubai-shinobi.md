@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why Shinobi stands out
 
 Dubai has no shortage of glossy Japanese restaurants, but Shinobi takes a different route: it's built as an underground handroll bar, not a formal omakase room. The design leans into a subway-train motif — neon signage, graffiti-style art, and a tunnel-like sense of descent into the space — which puts it closer in spirit to a Tokyo back-alley izakaya or a Brooklyn dive bar than to the marble-and-chandelier sushi spots Dubai is known for. The centerpiece is a U-shaped counter where chefs assemble handrolls (temaki) to order, so you watch the nori get wrapped seconds before it lands in front of you. The pairing of street culture, a curated music policy, and Japanese food is the whole point of a visit here — it's a hangout as much as a restaurant.

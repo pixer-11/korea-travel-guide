@@ -17,8 +17,6 @@ faq:
     a: La playa de Gyeongpo y el pabellón Gyeongpodae están conectados por un pintoresco paseo entre pinos desde la playa de Anmok; la casa Ojukheon y el mercado de pescado de Jumunjin también están a poca distancia para una excursión más completa.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Las imágenes tienen licencia o son de dominio público. Este es un resumen general de la zona/tema: verifica los detalles específicos de cada lugar antes de visitarlo. Consulta nuestra [política editorial](/about).
-
 ## Por qué existe la Calle del Café
 
 La fama de Gangneung como la capital del café de Corea no es simple mercadotecnia: se remonta a la década de 1980, cuando las máquinas expendedoras de café instantáneo bordeaban la playa de Anmok y los habitantes locales empezaron a experimentar con el tostado. Hacia la década de 2000, pequeños tostadores artesanales habían instalado sus negocios directamente en la calle frente a la arena de Anmok, y la zona pasó a conocerse de forma natural como "Calle del Café" (커피거리). Gangneung también celebra un Festival del Café anual en otoño, que refuerza la identidad de la ciudad en torno a la cultura del grano. Hoy en día, la calle es una hilera densa de cafeterías de varios pisos, la mayoría con ventanales de suelo a techo que dan al mar del Este, lo que la convierte tanto en una parada panorámica como en una parada para tomar café.

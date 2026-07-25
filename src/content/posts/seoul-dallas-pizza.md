@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why Dallas Pizza Is Worth the Trip
 
 Mullae-dong isn't where most visitors expect to find one of Seoul's buzziest restaurant openings. For decades this pocket of western Seoul, sandwiched between Yeongdeungpo and Mullae Station, was known purely for metalworking — sheet-metal shops, welding sparks, and the clang of machinery. That industrial backbone never left, but over the past fifteen years artists priced out of other neighborhoods moved into empty workshop spaces, layering studios, galleries, and now destination-worthy food and drink on top of the district's gritty base. Dallas Pizza is the latest and most talked-about addition to that mix: a pizzeria that has quickly become one of the trendiest reservations in the neighborhood, precisely because it sits where you'd least expect it — down a narrow alley, right next to a metal shop that's still actively in operation.

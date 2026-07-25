@@ -17,8 +17,6 @@ faq:
     a: Sí, hay un restaurante/cafetería en el sitio, algo conveniente dado que la ubicación en el interior hace poco práctico desviarse a comer a un pueblo cercano.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Los Jardines Botánicos del Sudeste (東南植物楽園, Tonan Shokubutsu Rakuen) son uno de los complejos de jardines cultivados más grandes de Okinawa, extendidos por un terreno ondulado en Chibana, Okinawa City, en el centro de la isla principal. A diferencia de los jardines más cuidados y de temática única que se encuentran en otras partes de la isla, este combina especies subtropicales autóctonas con palmeras importadas, orquídeas, cactus y árboles en flor de todo el mundo, distribuidos alrededor de una serie de estanques y lagos. Es un destino genuino de medio día (o más), no una parada rápida para fotos, y la escala misma forma parte del atractivo: los senderos serpentean entre bosquecillos de bambú, avenidas de palmeras y un gran lago de nenúfares que es el eje central del recinto.

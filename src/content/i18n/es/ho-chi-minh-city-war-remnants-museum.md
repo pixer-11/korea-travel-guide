@@ -17,8 +17,6 @@ faq:
     a: El Palacio de la Reunificación, la Catedral de Notre-Dame de Saigón y la Oficina Central de Correos están todos a poca distancia a pie, lo que permite un recorrido histórico natural de medio día.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El Museo de los Vestigios de Guerra (War Remnants Museum) es uno de los lugares más visitados y comentados de Ciudad Ho Chi Minh, con más de 40.000 reseñas y una calificación de 4.5 que refleja cuán profundamente impacta a los visitantes. Documenta la Guerra de Vietnam (y el conflicto anterior de Indochina francesa) principalmente a través del fotoperiodismo, equipo militar capturado y exhibiciones reconstruidas como las "jaulas de tigre" usadas para retener a prisioneros políticos. El museo presenta una perspectiva vietnamita, y a menudo de fotógrafos antibélicos, en lugar de un relato neutral con ambas versiones; vale la pena saberlo de antemano, ya que esto determina el enfoque de cada galería. Incluso los visitantes que consideran el mensaje unilateral suelen describir las exposiciones fotográficas, especialmente la colección Requiem con las últimas imágenes de corresponsales de guerra, como algunas de las más impactantes del sudeste asiático.

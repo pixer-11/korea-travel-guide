@@ -17,8 +17,6 @@ faq:
     a: 'Sí: está a poca distancia de la franja de playa central, del Nha Trang Center y de Louisiane Brewhouse, y se encuentra en una zona residencial que vale la pena explorar a pie en busca de comida local lejos de la calle turística principal.'
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La escena cafetera de Nha Trang está dominada por cadenas relucientes y con aire acondicionado a lo largo de la calle de la playa, lo cual es precisamente lo que hace destacar a Nha He Coffee Shop. Ubicada en un callejón residencial que sale de Nguyễn Thiện Thuật, es el tipo de escondite que los locales se recomiendan entre sí por mensaje de texto, no algo con lo que te tropezarías por accidente. La calificación de 4.8 estrellas de más de 1,250 reseñas es inusualmente alta para cualquier cafetería, y más aún para una de este tamaño, lo que apunta a un lugar constante y bien gestionado más que a una moda pasajera de Instagram. Espera un diseño de patio-jardín con vegetación, taburetes bajos y un ambiente hogareño y sin prisas que se siente más como sentarse en el patio trasero de alguien que en una cafetería comercial, un contraste bienvenido si has pasado la mañana esquivando autobuses turísticos en la playa.

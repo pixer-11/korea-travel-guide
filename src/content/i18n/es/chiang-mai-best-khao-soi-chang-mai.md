@@ -17,8 +17,6 @@ faq:
     a: Wat Phra Singh, uno de los templos más venerados de Chiang Mai, está en el mismo barrio de Phra Singh, lo que facilita combinar una visita al templo con el almuerzo aquí.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué el khao soi, y por qué este lugar
 
 El khao soi es el plato insignia de Chiang Mai: una sopa de fideos con curry de influencia birmana, hecha con un caldo de leche de coco, fideos de huevo cocidos hasta quedar suaves dentro del tazón, y un montón de fideos fritos y crujientes encima para darle textura. Suele prepararse con pollo (khao soi gai) o res (khao soi neua), y se completa con col en escabeche, chalotes, lima y una cucharada de aceite de chile (nam prik pao) que se revuelve al gusto en la mesa. Best Khao Soi Chang Mai ha construido su reputación centrándose por completo en perfeccionar este único plato, algo que se refleja en su promedio de 4.6 estrellas basado en 252 reseñas, una cifra notable para un especialista en un solo plato en una ciudad con cientos de vendedores de khao soi.

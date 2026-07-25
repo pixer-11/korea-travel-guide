@@ -29,8 +29,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting. See our [editorial policy](/about).
-
 ## Why Jeju Black Pork Is Different
 
 Jeju's native black pig (heuk-dwaeji) is a heritage breed raised on the island for centuries, prized for a firmer bite, thicker skin, and a layer of fat that renders slowly on the grill instead of turning greasy. Locals distinguish it clearly from ordinary pink pork, and menus that serve the real thing usually say so explicitly — "제주 흑돼지" (Jeju heuk-dwaeji) rather than a generic "돼지고기" (dwaeji-gogi). Because certified black pork costs more to raise, expect a noticeably higher price than mainland Korean BBQ; this is normal and not a rip-off.

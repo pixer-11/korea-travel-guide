@@ -96,8 +96,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Chivit Thamma Da translates loosely from Thai as "ordinary life," and that unpretentious philosophy runs through the whole operation: a wooden riverside house turned café-bistro-bar, shaded by a garden that slopes toward the Kok River. It has become one of Chiang Rai's most reviewed restaurants — over 7,000 reviews and a 4.6 rating — for good reason. Rather than leaning purely on Northern Thai standards, the kitchen works internationally, mixing seasonal produce into a menu that spans breakfast pastries, pastas, sandwiches, and grilled mains, alongside a full coffee program and a bar for evening drinks. It suits travelers who want a relaxed half-day out of the old town rather than a quick temple-adjacent meal.

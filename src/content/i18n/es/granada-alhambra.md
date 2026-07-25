@@ -17,8 +17,6 @@ faq:
     a: Cruza el valle del Darro hasta el barrio del Albaicín para llegar al Mirador de San Nicolás, que ofrece una vista de toda la Alhambra con Sierra Nevada de fondo, y continúa hasta Sacromonte para conocer las cuevas flamencas de Granada.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La Alhambra es el complejo palaciego islámico medieval mejor conservado de Europa, construido principalmente bajo la dinastía nazarí en los siglos XIII y XIV sobre una colina con vistas a Granada. Su reputación (una valoración de 4.8 entre casi 158,000 reseñas no es casualidad) se basa en la intrincada labor de sus yeserías y azulejos, la ingeniería de sus canales de agua, y la manera en que todo el conjunto —palacios, fortaleza y jardines— narra la historia del último reino musulmán de la península ibérica antes de la conquista cristiana de 1492. Los techos de cedro tallado del Salón de los Embajadores y las cúpulas de mocárabes de la Sala de las Dos Hermanas se cuentan entre los mejores ejemplos que se conservan del arte decorativo nazarí en cualquier parte del mundo.

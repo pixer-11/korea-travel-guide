@@ -17,8 +17,6 @@ faq:
     a: Wat Chaiwatthanaram, Wat Mahathat y Wat Phra Si Sanphet están todos a un breve trayecto en coche, lo que facilita combinar una comida aquí con medio día de visitas a templos.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué The Summer House destaca
 
 El parque histórico de Ayutthaya atrae multitudes por sus prangs de ladrillo y sus cabezas de Buda medio derruidas, pero The Summer House ofrece un atractivo distinto: una terraza junto al río, sombreada y llena de plantas, donde el ritmo se ralentiza. Situado en el distrito de Ko Rian (Tambon Ko Rian), en los límites de la isla histórica de la ciudad, está construido alrededor de una casa tailandesa de madera con un jardín al aire libre que se extiende hacia el agua. El menú combina platos caseros tailandeses —piensa en ensaladas picantes, curries y platos de arroz— con repostería de inspiración francesa y café, una combinación poco habitual que lo ha convertido en uno de los cafés más comentados de la provincia. Con una calificación de 4.5 en más de 3,200 reseñas, se ha convertido en un referente del circuito "Ayutthaya de moda", tanto para tailandeses que viajan desde Bangkok los fines de semana como para visitantes internacionales que extienden su excursión de un día por los templos hasta pasar la noche.

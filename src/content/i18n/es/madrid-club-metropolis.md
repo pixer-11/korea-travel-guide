@@ -17,8 +17,6 @@ faq:
     a: La fuente de Cibeles y el Palacio de Comunicaciones (CentroCentro), la azotea del Círculo de Bellas Artes, y las tiendas y teatros de Gran Vía están todos a cinco minutos a pie.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Los horarios y detalles cambian — confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué importa Club Metrópolis
 
 Pocas direcciones en Madrid tienen tanto peso visual como la esquina de Alcalá y Gran Vía, donde el Edificio Metrópolis, con su cúpula coronada por estatuas, domina el skyline desde 1911. Club Metrópolis toma ese hito arquitectónico y convierte parte de él en un proyecto hostelero en funcionamiento: un hotel boutique combinado con seis conceptos gastronómicos distintos y un club privado de socios, todo desarrollado por Grupo Paraguas, el grupo de restauración madrileño responsable de varios comedores muy bien valorados en la capital. Para los fundadores del grupo, Marta Seco y Sandro Silva, se trata de su primera incursión en la gestión de un hotel y no solo de restaurantes, y la ambición se nota en la escala del proyecto — seis conceptos de comida y bebida independientes bajo un mismo techo es algo inusual incluso para los densos estándares hosteleros de Madrid.

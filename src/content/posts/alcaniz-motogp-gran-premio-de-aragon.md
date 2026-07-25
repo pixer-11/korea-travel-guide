@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why go
 
 MotorLand Aragón is one of the more technically demanding circuits on the MotoGP calendar, a 5.077 km track with 17 corners, blind crests and a long back straight that rewards braking and rewards riders willing to take risks. Since MotoGP first raced here in 2010, the venue has built a reputation among fans as a "riders' circuit" — less glamorous than Barcelona or Jerez, but a genuine test of skill. For visitors, the appeal is twofold: world-class racing across three classes (MotoGP, Moto2, Moto3) in one ticket, and the chance to see it in a compact, low-key Spanish town that hasn't been reshaped around tourism the way bigger race host cities have.

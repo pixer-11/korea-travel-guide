@@ -48,8 +48,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Kuta Lombok has grown fast over the last decade, evolving from a sleepy surf outpost into southern Lombok's main traveler hub, and Kenza Cafe & Restaurant has become one of the area's dependable names — a 4.6 rating from more than 3,600 reviews is a meaningful signal in a town with plenty of competing warungs and beach cafes. The draw here is the trendy-but-relaxed format: all-day breakfasts, smoothie bowls, fresh juices, and a menu that blends Indonesian standards with Western comfort food, aimed squarely at surfers, digital nomads, and beach-hoppers refueling between activities. It's a mid-range spot (price level 2), so it sits comfortably above basic street warungs but well below resort dining prices.

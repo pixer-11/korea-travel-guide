@@ -88,8 +88,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Bangkok has no shortage of concept cafés, but Treehouse Cafe & Bar has earned a rare 4.9-star average across more than 2,600 reviews — a signal that the hype holds up. The draw is the setting: a multi-level space built around lush greenery, hanging vines, wooden walkways, and warm fairy-light canopies that make it feel like a treehouse retreat dropped into the middle of the city. It photographs beautifully, but it's also a legitimate spot to eat and drink well, not just a backdrop for a five-minute photo stop.

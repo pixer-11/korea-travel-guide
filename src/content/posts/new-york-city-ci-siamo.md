@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why Ci Siamo Matters Right Now
 
 Ci Siamo isn't a legacy institution — it's a newer addition to Danny Meyer's Union Square Hospitality Group portfolio, the same team behind Union Square Cafe, Gramercy Tavern, and Shake Shack. What's put it on every traveler's radar in 2026 is a single ranking: it landed at No. 1 on Yelp's Top 100 Places to Eat in the U.S., a list that draws on millions of reviews nationwide. For a New York restaurant to top a national list, rather than just a local "best Italian in NYC" roundup, is unusual, and it's why Ci Siamo has shifted from "well-regarded neighborhood spot" to "reservation you plan a trip around."

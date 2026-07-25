@@ -41,8 +41,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Tokyo Ramen Street isn't a single restaurant but a curated lineup of roughly eight standalone ramen shops packed into one underground corridor beneath Tokyo Station. The concept, run as part of the Tokyo Station Ichibangai shopping arcade, rotates in some of Japan's most decorated ramen names — shops that have won awards at regional ramen expos or built cult followings elsewhere in the country — so first-time visitors get a crash course in Japan's regional ramen diversity (shoyu, miso, tonkotsu, tsukemen dipping noodles) without leaving one hallway. With a 4.0 rating across more than 5,000 reviews, it's become a legitimate food destination in its own right, not just a convenient station pit stop.

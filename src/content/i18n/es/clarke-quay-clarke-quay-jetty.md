@@ -17,8 +17,6 @@ faq:
     a: El Read Bridge, la hilera de shophouses de Boat Quay, el Fort Canning Park y el centro comercial Central están todos a 10-15 minutos caminando junto al río.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Clarke Quay Jetty es fácil de pasar por alto porque no es un monumento: es un embarcadero en funcionamiento, ubicado junto a la promenade ribereña, frente a la hilera de almacenes del siglo XIX (godowns) reconvertidos de Clarke Quay. Pero precisamente por eso vale la pena detenerse: es un fragmento tranquilo y funcional del pasado laboral del río Singapur (Singapore River), que sigue cumpliendo la misma función que los muelles han tenido aquí desde la era del comercio colonial, solo que ahora con barcos turísticos en lugar de gabarras de carga. Con una calificación de 4.6 basada en más de 400 reseñas, este lugar sorprende para su tamaño, ya que la mayoría de los visitantes pasan de largo camino a los bares.

@@ -17,8 +17,6 @@ faq:
     a: Las cocinas de estilo callejero como esta suelen preferir o requerir efectivo, así que lleva billetes pequeños de baht para que la transacción sea rápida.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La escena gastronómica de Pattaya está dominada por marisquerías frente a la playa y buffets internacionales, así que un puesto de fideos con una calificación de 4.9 en 450 reseñas destaca: ese nivel de consistencia en un negocio de estilo callejero suele significar que la receta y la técnica del wok no han cambiado en años. Mamamia Pattaya Street Noodles encaja en el molde clásico de la cultura de fideos tailandesa-china: una cocina compacta, trabajo de wok a fuego alto y tazones construidos alrededor de fideos, caldo y aderezos, en lugar de un menú extenso de varias páginas. Para quienes buscan una comida local honesta y sin pretensiones entre la playa y la vida nocturna, este es el tipo de lugar donde los locales realmente hacen fila, no una traducción turística de un menú.

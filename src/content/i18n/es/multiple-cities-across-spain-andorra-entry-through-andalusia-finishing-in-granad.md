@@ -17,8 +17,6 @@ faq:
     a: Sí. La entrada a la Alhambra es con horario asignado y aforo limitado, y suele agotarse con semanas de antelación, especialmente en septiembre, y no tiene ninguna relación con el evento ciclista.
 ---
 
-> **Cómo se ha elaborado esta guía:** Revisada por un editor, con ayuda de IA, usando fuentes web actuales. Las fechas y entradas de los eventos cambian: confirma siempre en la web oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La Vuelta a España es una de las tres Grandes Vueltas del ciclismo, junto con el Tour de Francia y el Giro de Italia, y la edición de 2026 marca su 81ª disputa. Lo que la hace especial para los espectadores es su accesibilidad: a diferencia de un evento en un estadio con entrada, se puede ver desde la cuneta en cualquier punto del recorrido de forma gratuita, y la carrera premia a los aficionados que la siguen por los paisajes más espectaculares de España: puertos de alta montaña, centros históricos de ciudades y, este año, una meta en uno de los monumentos más fotografiados del país, la Alhambra de Granada.

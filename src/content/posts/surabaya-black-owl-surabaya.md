@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Black Owl stands out
 
 Surabaya has no shortage of café-restaurant hybrids, but Black Owl has built one of the strongest reputations in the city, holding a 4.9 rating across close to 1,800 reviews — an unusually high volume and score for a single-location restaurant. That kind of consistency over thousands of visits suggests a kitchen and service team that has ironed out the wrinkles most new cafés struggle with. It sits in Tegalsari, one of Surabaya's more central and commercially active districts, making it an easy add-on whether you're staying near the old city, Gubeng, or the shopping strip along Jl. Basuki Rahmat.

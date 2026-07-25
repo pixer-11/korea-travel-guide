@@ -17,8 +17,6 @@ faq:
     a: El histórico mercado húmedo (wet market) de Chow Kit y la franja gastronómica y comercial de Jalan Raja Bot están a poca distancia a pie, por lo que vale la pena explorar la zona antes o después de la comida.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Los horarios y detalles cambian: confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué destaca Kapitan's Club
 
 Kapitan's Club es uno de los nombres más nuevos que están dando de qué hablar en la escena gastronómica de Kuala Lumpur, y llama la atención por una razón concreta: trata la cocina Straits —esa cultura culinaria híbrida peranakan, china, malaya y de la era colonial propia de los antiguos puertos comerciales del estrecho de Malaca— con un nivel de diseño y presentación normalmente reservado a la alta cocina. En lugar del ambiente informal de kopitiam en el que tradicionalmente se sirven estos platos, Kapitan's Club los presenta en una sala sofisticada y elegante. El propio nombre hace un guiño al histórico título de "Kapitan", otorgado a los líderes designados de las comunidades en la Malaya de la época colonial, lo que anticipa el relato patrimonial que hay detrás del concepto.

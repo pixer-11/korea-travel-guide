@@ -17,8 +17,6 @@ faq:
     a: American Village (tiendas, restaurantes, la noria) está justo al lado, y Sunset Beach queda a un corto paseo, lo que facilita combinar el café con una parada en la playa o de compras.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Zhyvago Coffee Works Okinawa se ha ganado una base de seguidores fieles —una calificación de 4.6 en más de 1,000 reseñas es inusualmente alta para una cafetería— al combinar un espresso serio con un ambiente que recuerda más a Venice Beach que al Japón continental. El interior de estilo industrial-chic (concreto a la vista, herrajes de acero, amplios ventanales) se abre a una terraza que da directamente al mar, y esa es la principal atracción: pocas cafeterías en la isla te permiten tomar un flat white prácticamente con los pies en la arena. Es el tipo de lugar al que los locales llevan a sus visitantes precisamente porque no se siente como un kissaten japonés típico, sino más bien como un bar de café de Melbourne o Los Ángeles trasplantado a la costa oeste de Okinawa.

@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why go
 
 The Palio di Siena isn't a reenactment or a tourist show staged for visitors — it's a centuries-old civic ritual that Sienese families live and breathe all year. Twice a year (July 2 and August 16), ten of Siena's seventeen contrade send a horse and rider around the perimeter of Piazza del Campo for three breakneck laps that last barely 90 seconds. The August edition, the Palio dell'Assunta, is run in honor of the Assumption of the Virgin Mary and falls squarely in Italy's Ferragosto holiday period, so the city is packed with both devotion and heat. Watching thousands of Sienese pack into the Campo, singing contrada anthems and weeping or cheering as the result unfolds, is a far more visceral experience than the race itself.

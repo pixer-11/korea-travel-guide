@@ -17,8 +17,6 @@ faq:
     a: 'Es una cocina local informal y de alta rotación, así que no es habitual reservar: solo prepárate para una breve fila en las horas pico dada su sólida reputación.'
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El casco antiguo (Old Town) de Hoi An está lleno de menús para turistas y precios inflados, así que un lugar que mantiene una calificación de 4.9 en más de 5,600 reseñas con precios genuinamente bajos merece atención. Nhan's Kitchen no es alta cocina: es el tipo de cocina familiar y sin adornos donde la comida habla por sí sola. La constancia de los elogios de miles de visitantes, en lugar de un puñado de reseñas seleccionadas, es la señal más fuerte de que la comida y el servicio se mantienen sólidos noche tras noche, no solo en un buen día.

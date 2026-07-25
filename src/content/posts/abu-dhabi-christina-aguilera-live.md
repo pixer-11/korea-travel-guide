@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why This Show Matters
 
 Christina Aguilera's return to Abu Dhabi comes on the heels of a sold-out UAE performance earlier in 2026, and the follow-up date at Etihad Arena signals just how much regional appetite there is for a full pop spectacle from an artist with a catalog spanning "Genie in a Bottle," "Beautiful," and "Fighter." Etihad Arena is the Gulf's largest indoor multipurpose venue, purpose-built for exactly this kind of large-scale touring production, with tiered seating and a flexible floor configuration that can shift from stadium-style rows to standing pits depending on the show.

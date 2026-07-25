@@ -17,8 +17,6 @@ faq:
     a: La isla Odongdo (árboles de camelia, faro) está a un corto trayecto del puerto, y la ermita Hyangiram, en la isla Dolsan, merece una visita aparte para ver el amanecer. Los cruceros por el puerto cerca del Yeosu Expo Ocean Park también muestran el puente y el teleférico iluminados por la noche.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Las imágenes cuentan con licencia o son de dominio público. Se trata de una descripción general del área/tema: verifica los detalles específicos del lugar antes de visitarlo. Consulta nuestra [política editorial](/about).
-
 ## Por qué el teleférico encabeza la lista de Yeosu
 
 Yeosu construyó su fama como ciudad portuaria rodeada de agua, y el Teleférico Marítimo de Yeosu (Yeosu Maritime Cable Car) es, sin duda, la mejor manera de contemplar esa geografía de un solo vistazo. La línea recorre aproximadamente 1,5 km sobre la bahía de Yeosu, conectando el Parque Jasan en tierra firme con el Parque Dolsan en la isla Dolsan. Desde la cabina se obtiene una vista ininterrumpida del puerto, del puente atirantado Dolsan iluminado al anochecer y, en días despejados, de la isla Odongdo asomando en el mar como una coma verde. Se ofrecen dos tipos de cabina: las estándar cerradas y las de suelo de cristal, estas últimas requieren un poco más de valor y, por lo general, una espera más larga.

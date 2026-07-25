@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why VICE Stands Out
 
 Shanghai's restaurant scene turns over constantly, but VICE has arrived with a pedigree worth noting: chef Carlos Sotomayor, whose cooking draws on Peruvian tradition, has teamed up with Raffe Ibrahamian, the operator behind Cantina Agave, one of the city's established agave-and-Mexican-food destinations. Together they've built a menu that threads Peruvian technique and flavor through an Asian-influenced lens — a combination that's still rare in Shanghai, where Latin American cooking remains a small niche compared to the city's deep bench of French, Italian, and Cantonese fine dining. The result is being watched closely by the city's food press as one of the more distinctive concept launches of the season.

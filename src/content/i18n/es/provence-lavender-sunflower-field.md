@@ -17,8 +17,6 @@ faq:
     a: El amanecer o las dos horas previas al atardecer ofrecen la luz más suave y menos aglomeraciones; el sol de mediodía es duro y el calor entre las hileras puede ser intenso en julio.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El Plateau de Valensole (la meseta de Valensole), en el departamento de Alpes-de-Haute-Provence, es la mayor zona de cultivo de lavanda de Provenza y uno de los pocos lugares donde los campos de lavanda y de girasoles florecen en ventanas que se solapan, ofreciendo a los fotógrafos una rara paleta doble de violeta y oro en un mismo paisaje. El campo concreto al que se hace referencia aquí se encuentra en una carretera rural sin nombre a las afueras de Valensole (código postal 04210) y cuenta con una sólida calificación de 4.6 sobre 161 reseñas, lo que refleja su reputación entre los visitantes como uno de los rincones más fiables y fotogénicos de la meseta. A diferencia de los museos de la lavanda vallados y de pago cerca de Sault o Gordes, se trata de terreno agrícola abierto —tierra de cultivo genuinamente en activo, no una atracción turística construida para los visitantes—, lo cual forma parte de su atractivo y también explica por qué aquí importa tanto el respeto y las buenas formas.

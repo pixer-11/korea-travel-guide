@@ -91,8 +91,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Ben Nghe Street Food solves a real problem for visitors: Ho Chi Minh City's best street food is often scattered across unmarked sidewalk carts with no English menus and inconsistent hygiene standards. This spot consolidates that experience into one address — a semi-open-air night market-style food court in District 1 with rows of grill stations, seafood tanks, and hot-pot tables. With a 4.3 rating from nearly 13,000 reviews, it's clearly a proven quantity for travelers who want a taste of Saigon's street-food culture without the guesswork. It functions less like a single restaurant and more like a curated collection of vendors under one roof, which makes it easy to sample widely in one sitting.

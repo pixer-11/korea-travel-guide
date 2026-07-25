@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why go
 
 ITZY is one of JYP Entertainment's flagship girl groups, known for high-energy performances and a discography built around confident, self-empowerment anthems. The TUNNEL VISION World Tour marks their return to Taipei with a set built around their 2026 EP Motto, giving longtime MIDZY (the group's fandom) a chance to hear new material live alongside earlier favorites. Taipei has become a regular stop for major K-pop tours, and Taipei Arena in particular has hosted numerous acts from the genre, making it a reliable, well-run venue for international fans flying in specifically for the show.

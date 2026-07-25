@@ -17,8 +17,6 @@ faq:
     a: Mamichan forma parte de la hilera de yatai de Tenjin, así que se puede caminar hasta otros puestos a lo largo de Showa-dori. El Tenjin Underground Mall y el Tenjin Chuo Park también están a pocos minutos a pie.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Fukuoka es una de las últimas ciudades de Japón donde los yatai (puestos de comida al aire libre) todavía se instalan en las aceras cada noche, y la hilera de Tenjin a lo largo de Showa-dori es la más conveniente para quienes se hospedan en el distrito comercial y de negocios del centro. Yatai Mamichan es uno de los puestos más destacados de esta hilera, construido en torno a una especialidad poco común en otros carros: lengua de res a la parrilla (gyutan), servida junto a una tortilla al estilo japonés, suave y casi con textura de flan. Ambos platos le han valido al puesto una clientela fiel, reflejada en su calificación de 4.2 sobre más de 600 reseñas, un resultado sólido para un formato con apenas unos pocos taburetes.

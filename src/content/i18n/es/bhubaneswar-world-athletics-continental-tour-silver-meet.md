@@ -17,8 +17,6 @@ faq:
     a: Visita el Templo Lingaraj (Lingaraj Temple) y el Templo Mukteshwar (Mukteshwar Temple) en la ciudad, o planea una excursión de un día al Templo del Sol de Konark (Konark Sun Temple) y Puri, ambos a unos 60-65 km.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Las fechas de los eventos y las entradas cambian: confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué importa esta reunión
 
 India ya ha albergado reuniones del World Athletics Continental Tour anteriormente, pero la edición de 2026 en Bhubaneswar marca la primera del país en nivel Plata, un escalón por debajo del nivel Oro del Continental Tour y por encima del Bronce. El mismo Estadio Kalinga (Kalinga Stadium) acogió una reunión de nivel Bronce del Continental Tour en 2025, por lo que se trata de un ascenso directo de categoría, lo que normalmente implica una lista de participantes internacionales más fuerte, más puntos de ranking de World Athletics en juego y una mayor cercanía con el circuito global adyacente a la Diamond League. Para una ciudad que lleva la última década construyendo su reputación como la capital deportiva emergente de la India, esta es una fecha destacada en el calendario de 2026.

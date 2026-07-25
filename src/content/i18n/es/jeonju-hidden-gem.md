@@ -17,8 +17,6 @@ faq:
     a: Busca el kongnamul gukbap (sopa de brotes de soja con arroz) y el moju, una bebida tradicional de arroz especiada con canela; ambas son especialidades regionales que rara vez se encuentran fuera de Jeonju.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Las imágenes tienen licencia o son de dominio público. Se trata de una visión general de la zona o el tema: verifica los detalles concretos de cada lugar antes de tu visita. Consulta nuestra [política editorial](/about).
-
 ## Por qué el verdadero encanto de Jeonju se esconde justo fuera de la ruta principal
 
 Jeonju Hanok Village atrae a las multitudes hacia sus vías centrales, pero el distrito en realidad se extiende mucho más de lo que la mayoría de los visitantes de un día imagina. La experiencia verdaderamente gratificante consiste en recorrer el perímetro, los tranquilos callejones residenciales donde aún viven familias en casas hanok, en lugar de la franja de tiendas de souvenirs y alquiler de hanbok que domina las fotos de la zona. Aquí es donde se percibe Jeonju como una ciudad viva, y no como un parque temático.

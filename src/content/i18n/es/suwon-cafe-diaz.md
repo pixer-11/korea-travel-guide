@@ -17,8 +17,6 @@ faq:
     a: Cafe Diaz está cerca de la Fortaleza Hwaseong de Suwon (Suwon Hwaseong Fortress), el Palacio Hwaseong Haenggung y la zona de mercado de la Puerta Paldalmun, lo que la convierte en un complemento fácil para un día enfocado en la fortaleza en Suwon.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué Cafe Diaz destaca
 
 Suwon no tiene escasez de opciones para recorrer cafeterías, pero Cafe Diaz se ha destacado del resto con una calificación de 4.9 en más de 1,800 reseñas, una cifra poco común para cualquier cafetería, y más aún para una de este tamaño. El atractivo no es solo el café, sino el espacio en sí. Las cafeterías coreanas de gran formato, construidas alrededor de un único concepto interior espectacular, se han convertido en su propio género de destino en ciudades como Suwon, y Diaz encaja perfectamente en esa categoría de "megacafetería de moda": techos altísimos, mobiliario escultural y rincones perfectos para Instagram, diseñados tanto para fotografiarse como para sentarse. Es el tipo de lugar que los locales tratan como una salida de medio día más que como una parada rápida para tomar café.

@@ -46,8 +46,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Al Ain Oasis is the largest and most accessible of the city's six historic oases, a 1,200-hectare expanse of more than 147,000 date palms still irrigated by the centuries-old falaj system — a UNESCO-recognized network of gravity-fed channels that has watered this part of the UAE since antiquity. Unlike a manicured park, this is a working agricultural landscape: farmers still tend plots of palm, mango, and citrus trees within its walls, and the paths thread between them rather than around them. It's one of the few places in the Gulf where you can walk for an hour under a continuous canopy of palm fronds, with dappled light and noticeably cooler air than the streets outside.

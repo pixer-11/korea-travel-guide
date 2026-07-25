@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Gardens by the Bay is the horticultural centerpiece of Singapore's Marina Bay reclaimed land, built around the idea of a "City in a Garden." Its signature Supertrees — vertical gardens ranging from 25 to 50 meters tall, several fitted with solar cells and rainwater harvesting systems — have become as recognizable a skyline feature as the Marina Bay Sands hotel they face. With a 4.7 rating across more than 158,000 reviews, it's one of the most visited attractions in Singapore, so this is not an under-the-radar find — it's a headline sight that rewards a bit of planning to avoid the busiest crowds.

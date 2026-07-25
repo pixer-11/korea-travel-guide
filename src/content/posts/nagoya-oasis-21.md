@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Oasis 21 is Nagoya's most photographed piece of modern architecture: an oval glass-and-steel canopy nicknamed the "Water Spaceship," floating above a sunken plaza and a working bus terminal in Higashi Ward. The glass roof holds a shallow layer of water that catches the sky and, after dark, reflects LED lighting in shifting colors. It's free to walk onto the elevated deck, and the structure frames a clean sightline to Nagoya TV Tower and Hisaya-odori Park just across the street, making it one of the easiest "wow" photo stops in the city without paying an admission fee.

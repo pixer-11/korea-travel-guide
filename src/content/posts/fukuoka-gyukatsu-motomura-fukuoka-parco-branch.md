@@ -73,8 +73,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Gyukatsu — deep-fried, breaded beef cutlet served rare and finished to taste on a tabletop hot stone — is one of the more recent Japanese comfort-food trends, and Motomura is one of the chains credited with popularizing it nationwide. This Fukuoka Parco branch has built an outsized reputation even within that chain: a 4.9 rating across nearly 15,000 reviews is unusual for any restaurant, let alone one inside a mall food floor, and it signals a level of consistency worth planning a meal around rather than stumbling into by chance.

@@ -17,8 +17,6 @@ faq:
     a: El paseo de Marine Drive está a poca distancia a pie y combina bien con una copa nocturna, y la zona de Churchgate cuenta con una notable arquitectura de la época colonial, ideal para pasear antes o después.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Los horarios y detalles cambian: confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué 8ish destaca
 
 Nariman Point no es el código postal habitual de la vida nocturna de Mumbai: es la vieja columna vertebral financiera de la ciudad, todo torres de cristal y oficinas gubernamentales que se vacían al caer la tarde. 8ish aprovecha ese contraste y abre como un elegante bar de copas en una zona más conocida por sus salas de juntas que por sus rutas de bares. Es el proyecto más reciente de Rachel Goenka, la restauradora detrás de algunos de los conceptos gastronómicos más conocidos de Mumbai, y está pensado para sentirse como un punto de encuentro cuidado y adulto, en lugar de otro lounge en azotea que persigue las vistas.

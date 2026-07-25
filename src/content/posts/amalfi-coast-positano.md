@@ -37,8 +37,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Positano
 
 Positano is the postcard image of the Amalfi Coast: pastel-colored houses stacked vertically on a cliffside above the Tyrrhenian Sea, terraced with lemon groves and connected by steep staircases instead of flat streets. Unlike Amalfi or Ravello, Positano has no single dominant monument — its appeal is the town itself, the way it tumbles toward the water around the dome of the Church of Santa Maria Assunta, whose 13th-century Byzantine icon of a "Black Madonna" is said to have given the town its name. John Steinbeck's 1953 essay for Harper's Bazaar, written after a stay here, helped put Positano on the international map and its lines are still quoted on plaques around town.

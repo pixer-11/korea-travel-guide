@@ -20,8 +20,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why Cure Bali is worth the trip
 
 Andrew Walsh built his reputation on Cure in Singapore, a Michelin-starred restaurant known for marrying precise European cooking with the depth of Asian flavor profiles. Bringing that concept to Bali — and specifically to a brand-new luxury property, the Regent Bali Canggu — is a genuine milestone rather than a franchise copy-paste. This is Walsh's first move outside Singapore, and for a destination that already has a crowded fine-dining scene, a chef of this caliber choosing Canggu signals how seriously the island's culinary reputation is being taken internationally. For visitors, that means a rare chance to eat food shaped by Michelin-level technique without needing to leave Bali.

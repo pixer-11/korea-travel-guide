@@ -17,8 +17,6 @@ faq:
     a: Usa Grab o un taxi en lugar de ir a pie o conducir tú mismo, y confirma la dirección exacta de antemano, ya que la ubicación del local en la planta alta (segundo piso) puede ser difícil de localizar desde la calle.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA, usando fuentes web actuales. Los horarios y detalles cambian: confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Upstairs no persigue la fama: se la ganó. En apenas 18 meses, este compacto restaurante de menú degustación pasó de ser una novedad a obtener su primera Estrella MICHELIN en la guía 2026, una trayectoria rápida y poco habitual en la escena gastronómica de alta gama de Ciudad Ho Chi Minh. La cocina construye su menú en torno a la cocina del centro de Vietnam, la región famosa por los platos de la corte imperial de Hue, la cocina de mercado de Hoi An y un perfil de sabores más intenso y complejo que el estilo más dulce del sur, el que la mayoría de los visitantes prueba primero. Para los viajeros que ya han recorrido los carritos de banh mi y los puestos de pho, Upstairs es el siguiente capítulo: la oportunidad de ver cómo un chef reinterpreta esos elementos regionales en una narrativa estructurada de varios tiempos.

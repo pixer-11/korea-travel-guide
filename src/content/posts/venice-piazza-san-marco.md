@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Piazza San Marco has been Venice's civic and religious heart since the 12th century, and it's the only public space in the city grand enough to be called a "piazza" (every other square is a campo). It's dominated by St. Mark's Basilica, whose gold-mosaic domes and Byzantine styling set it apart from anything else in Italy — a legacy of Venice's centuries-long trading ties with Constantinople. Napoleon reportedly called it "the finest drawing room in Europe," and standing in the square at dusk, with the Campanile lit up and the basilica's facade glowing, it's easy to see why. With a 4.7 rating across nearly 195,000 reviews, it's the single most-visited spot in Venice, and deservedly so — but that also means it demands a plan.

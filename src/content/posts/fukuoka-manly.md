@@ -83,8 +83,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Manly stands out in Fukuoka's café scene
 
 Fukuoka has no shortage of Instagram-ready pancake cafés, but Manly earns its 4.5-star rating (from nearly 1,500 reviews) by leaning fully into an Australian beach-town identity rather than the softer Japanese-Hawaiian style most local brunch spots chase. The name nods to Sydney's Manly Beach, and the menu backs it up with meat pies, hearty eggs, and stacked hotcakes rather than the ultra-light souffle pancakes Fukuoka is otherwise famous for. The rustic, timber-heavy interior and handful of outdoor tables give it a laid-back, sun-washed feel that's distinct from the sleek minimalism of most Tenjin cafés — it's a good pick if you want brunch that feels like a destination rather than a quick stop.

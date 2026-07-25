@@ -29,8 +29,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting. See our [editorial policy](/about).
-
 ## Why Daegu, and why this route
 
 Daegu doesn't have one iconic postcard monument the way Seoul has its palaces or Busan has Haeundae Beach. Its appeal is more textured: a historic market culture, a preserved traditional medicine district found nowhere else in Korea at this scale, and a mountain temple complex on the city's northern edge. The most rewarding way to "see Daegu's top attraction" is to treat downtown Jung-gu as one connected experience rather than hunting for a single site.

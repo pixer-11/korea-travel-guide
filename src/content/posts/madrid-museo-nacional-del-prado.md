@@ -46,8 +46,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The Museo Nacional del Prado, in Madrid's Retiro district, holds one of the deepest collections of European painting anywhere, spanning the 12th to the 19th century. Its reputation rests on three Spanish masters: Diego Velázquez, whose "Las Meninas" anchors an entire room and remains one of the most analyzed paintings in Western art; Francisco Goya, represented across his full career from lighthearted tapestry cartoons to the harrowing "Black Paintings" and "The Third of May 1808"; and El Greco, whose elongated, mystical figures fill several galleries. Beyond the Spanish canon, the Prado's Flemish and Italian holdings — Bosch's "The Garden of Earthly Delights," Titian, Rubens, van der Weyden — are strong enough to anchor major museums on their own. With a 4.7 rating across roughly 155,000 reviews, it's consistently ranked among the top two or three art museums on the planet, alongside the Louvre and the Uffizi.

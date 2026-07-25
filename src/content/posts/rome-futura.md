@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why Futura is worth seeking out
 
 Monti has spent the last decade turning from a sleepy, artisan-shop neighborhood into one of Rome's most interesting places to eat, and Futura is the latest evidence of that shift. Opened in 2025 by chef Anastasia Paris, it's a small-format restaurant — just 20 seats — built around an open-air kitchen and a chef's table, so the line between dining room and kitchen essentially disappears. That format has become a signature move for Rome's newer contemporary spots, and Futura's proximity to Retrobottega (one of the restaurants that pioneered this open-kitchen, tasting-menu style in the city) is not a coincidence of geography alone; it signals the kind of ambitious, technique-forward cooking the neighborhood has become known for.

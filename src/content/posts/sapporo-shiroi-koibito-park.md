@@ -46,8 +46,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Shiroi Koibito ("White Lover") is the name of Hokkaido's most famous souvenir cookie — a thin white-chocolate sandwich biscuit made by the Sapporo confectioner Ishiya since 1976. The company built this theme park around its factory so visitors can watch the actual production line, learn the history of chocolate in Europe and Japan through a quirky collection of antique tins, tools, and packaging, and then buy the cookies fresh at a lower price than the airport gift shops. It's a hidden gem precisely because most travelers only encounter the cookie in its blue tin at Narita or New Chitose Airport, never realizing there's a whole mock-Tudor complex behind it with a clock tower, rose garden, and toy museum tucked into a quiet residential corner of Nishi Ward.

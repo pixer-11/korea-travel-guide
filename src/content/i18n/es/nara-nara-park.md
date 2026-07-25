@@ -17,8 +17,6 @@ faq:
     a: Temprano por la mañana para evitar aglomeraciones; noviembre por el follaje otoñal alrededor de Todai-ji y Kasuga Taisha; y de finales de marzo a principios de abril por los cerezos en flor.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El Parque de Nara (Nara Kōen) es más un distrito verde salpicado de templos —que cubre unas 500 hectáreas al pie del monte Wakakusa— que una atracción única. Tiene una calificación de 4.6 en decenas de miles de reseñas, y la razón es doble: los ciervos y la densidad de sitios patrimoniales de talla mundial reunidos a poca distancia a pie unos de otros. Los ciervos sika de aquí —más de 1000— se consideran, según la tradición local, mensajeros sagrados de los dioses sintoístas, descendientes de un ciervo que, se dice, llevó a una deidad hasta el cercano Kasuga Taisha sobre un venado blanco. Siglos de contacto con visitantes los han vuelto lo suficientemente mansos como para hacer reverencias a cambio de galletas, aunque siguen siendo animales salvajes y pueden dar mordiscos o cabezazos si tardas en entregarles la comida.

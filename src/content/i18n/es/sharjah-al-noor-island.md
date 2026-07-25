@@ -17,8 +17,6 @@ faq:
     a: Al Majaz Waterfront se encuentra justo al otro lado de la laguna, con sus propios espectáculos de fuentes y restaurantes informales, lo que facilita combinarlo antes o después de visitar la isla.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La Isla Al Noor es una pequeña isla ajardinada en medio de la laguna Khalid, conectada con tierra firme por un puente peatonal cerca de Al Majaz 1. Es la respuesta de Sharjah a un tranquilo refugio verde dentro de una bulliciosa ciudad costera: una mezcla de jardines, esculturas, una casa de mariposas de cristal y un llamativo pabellón de libros, todo alrededor de la laguna con vistas al perfil urbano de Buhairah Corniche. Es lo bastante compacta como para verla sin necesidad de dedicarle un día entero, pero lo suficientemente singular como para merecer organizar una tarde en torno a ella, sobre todo si ya estás explorando Al Majaz Waterfront o la zona de Sharjah Corniche.

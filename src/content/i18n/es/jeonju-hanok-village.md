@@ -17,8 +17,6 @@ faq:
     a: El bibimbap de Jeonju es el plato imprescindible, idealmente servido al estilo dolsot en un cuenco de piedra caliente. Prueba también el kongnamul gukbap (sopa de brotes de soja) y el makgeolli acompañado de aperitivos en las tabernas locales.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Las imágenes son con licencia o de dominio público. Este es un resumen general de la zona/tema — verifica los detalles concretos de cada lugar antes de visitarlo. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La Aldea Hanok de Jeonju (Jeonju Hanok Village) es el mejor lugar de Corea para ver arquitectura hanok tradicional a gran escala, en lugar de en enclaves aislados. Cerca de 800 edificios hanok se concentran en los barrios de Pungnam-dong y Gyo-dong, muchos de los cuales aún funcionan como viviendas, alojamientos, casas de té y talleres artesanales, en vez de ser simples piezas de museo. Jeonju misma se ha considerado durante mucho tiempo la cuna espiritual de la gastronomía coreana y del legado confuciano — este es el lugar de origen del clan Jeonju Yi, ancestros de la familia real de la dinastía Joseon, razón por la cual la aldea se encuentra justo al lado del Santuario Gyeonggijeon, construido en 1410 para albergar un retrato del rey Taejo, fundador de la dinastía.

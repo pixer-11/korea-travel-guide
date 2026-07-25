@@ -17,8 +17,6 @@ faq:
     a: El recinto está cerca del mercado nocturno de la calle Raohe (Raohe Street Night Market) y a poca distancia de Taipei 101, lo que facilita combinar turismo y gastronomía con el concierto.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, utilizando fuentes web actuales. Las fechas de los eventos y las entradas cambian; confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 ITZY es uno de los grupos femeninos insignia de JYP Entertainment, conocido por sus actuaciones de alta energía y una discografía construida en torno a himnos de confianza y empoderamiento personal. La gira mundial TUNNEL VISION marca su regreso a Taipéi con un repertorio basado en su EP de 2026, Motto, dando a las MIDZY de siempre (el fandom del grupo) la oportunidad de escuchar material nuevo en vivo junto a sus favoritos de siempre. Taipéi se ha convertido en una parada habitual para las grandes giras de K-pop, y Taipei Arena en particular ha recibido a numerosos artistas del género, lo que lo convierte en un recinto confiable y bien organizado para los fans internacionales que viajan específicamente para el show.

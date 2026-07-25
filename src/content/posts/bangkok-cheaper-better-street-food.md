@@ -91,8 +91,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Soi Silom 20 Matters
 
 Bangkok's best street food isn't always on the postcard strip near Chinatown — some of it is tucked into narrow office-district sois that only fill up for a couple of hours a day. Soi Silom 20, a short alley connecting Silom Road to Soi Convent in the Bang Rak district, is one of these. It's home to a stall cluster that includes the well-reviewed "Cheaper & Better Street Food" (4.7 stars from over 1,600 reviews), a telling sign for a genre where reputations are built almost entirely by repeat local customers rather than tourist marketing. The name is basically the pitch: portions and prices aimed at office workers on a lunch break, not padded for foot traffic from a nearby hotel.

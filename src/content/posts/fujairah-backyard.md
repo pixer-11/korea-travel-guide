@@ -70,8 +70,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Fujairah doesn't have the density of café culture you'd find in Dubai or Abu Dhabi, which is exactly why a spot like Backyard stands out. It's a specialty coffee shop in the Al Faseel district, carrying a 4.6 rating across 160 reviews — a strong showing for a small emirate where good third-wave coffee is still relatively rare. This isn't a place built for Instagram crowds; it's a functional neighborhood café that happens to do coffee well, with a name and setting (an actual backyard-style layout) that suggest a relaxed, unpretentious space rather than a polished chain outlet.

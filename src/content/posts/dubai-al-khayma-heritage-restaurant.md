@@ -91,8 +91,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Al Khayma Heritage Restaurant is one of the most talked-about places in Dubai to eat traditional Emirati food in a setting built to match — a courtyard styled after a Bedouin "khayma" (tent), with low seating, woven textiles, and lantern light. It sits inside the Al Fahidi Historical Neighbourhood, the wind-tower district that's also home to the Dubai Museum and the Sheikh Mohammed Centre for Cultural Understanding, so it works as both a meal stop and a cultural anchor for a walk through old Bur Dubai. With a 4.9 rating across roughly 17,700 reviews, it's not a quiet find — it's become a genuine destination in its own right, and the crowds reflect that.

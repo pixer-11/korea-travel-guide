@@ -17,8 +17,6 @@ faq:
     a: Las tardes entre semana son más tranquilas que los fines de semana, y la primavera o el otoño hacen que la caminata cuesta arriba hacia el Parque Jayu sea más cómoda que con el calor del verano.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Las imágenes tienen licencia o son de dominio público. Esta es una descripción general del área/tema — verifica los detalles específicos del lugar antes de visitarlo. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El Barrio Chino de Incheon es el enclave chino más antiguo y grande de Corea, establecido en la década de 1880 tras la apertura del puerto al comercio extranjero, cuando comerciantes de la dinastía Qing se asentaron aquí. También se le atribuye ampliamente ser el lugar de origen del jajangmyeon, el plato de fideos con salsa de frijol negro de sabor agridulce que hoy se considera comida reconfortante coreana más que una importación china. A diferencia de los barrios chinos pulidos de otras ciudades del mundo, el de Incheon es pequeño, algo desgastado y genuinamente histórico en lugar de estar construido únicamente para turistas: las calles todavía siguen el trazado original de la concesión extranjera del siglo XIX, con edificios de estilo Qing, japonés y occidental ubicados a pocas cuadras entre sí.

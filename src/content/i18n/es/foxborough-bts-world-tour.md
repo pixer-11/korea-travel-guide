@@ -17,8 +17,6 @@ faq:
     a: 'Sí: después de Foxborough, la gira continúa en el AT&T Stadium de Arlington, Texas, el 15 y 16 de agosto de 2026, como parte de la misma vuelta mundial de 79 fechas.'
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, utilizando fuentes web actuales. Las fechas y entradas de los eventos cambian; confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué esta parada importa
 
 La etapa de Foxborough de la gira es un gran acontecimiento por una razón sencilla: es la primera gira mundial de BTS desde que los integrantes completaron su servicio militar obligatorio en Corea del Sur, y el Gillette Stadium es uno de los pocos recintos norteamericanos que reciben esta vuelta. Las fechas de Foxborough (5 y 6 de agosto de 2026) se ubican al inicio de una gira mundial de 79 fechas, en la que el grupo también se presentará en el AT&T Stadium de Arlington, Texas, el 15 y 16 de agosto. Para el ARMY de la Costa Este, este es el show completo en estadio más cercano a Nueva Inglaterra, y atraerá a fans de todo Massachusetts, Connecticut, Rhode Island y el sur de New Hampshire.

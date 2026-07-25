@@ -70,8 +70,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Izzy's Stands Out
 
 Fisherman's Village in Bo Put is Koh Samui's most walkable, photogenic strip — a former Chinese-Thai fishing settlement turned boutique-shopping and café corridor of restored wooden shophouses. Izzy's Specialty Coffee has become one of its anchor addresses, holding a rare 5-star average across more than 1,000 reviews, a signal that this isn't just another beach-town coffee stop riding on location alone. The draw is specialty-grade sourcing and a visible roasting/brewing operation, in a destination where decent espresso used to mean a resort lobby markup. For travelers who care about their coffee as much as their view, it's become something of a pilgrimage stop on the island's north shore.

@@ -29,8 +29,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting. See our [editorial policy](/about).
-
 ## Why Euljiro Is Worth Your Time
 
 Euljiro sits in the heart of Jung-gu, sandwiched between Myeongdong and Jongno, but it feels like a different city. For decades this was Seoul's manufacturing backbone — block after block of tiny workshops making everything from custom lighting fixtures to printing plates, tools, and industrial hardware. Rather than being demolished for redevelopment, much of that grit survived, and in the last several years a wave of bars, coffee shops, and galleries has moved into the upper floors and back alleys of these same buildings. Locals call the phenomenon "newtro" (new + retro): a bare-concrete stairwell leads past a welding shop to a hidden bar with vintage furniture and натural wine. The contrast — industrial daytime, bohemian nighttime — is what makes Euljiro genuinely distinctive rather than a manufactured "hidden gem."

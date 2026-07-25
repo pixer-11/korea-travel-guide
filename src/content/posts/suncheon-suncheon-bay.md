@@ -29,8 +29,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting. See our [editorial policy](/about).
-
 ## Why go
 
 Suncheon Bay is one of the largest and best-preserved tidal wetlands in the world, and it's the reason Suncheon markets itself as South Korea's "Garden City." The reserve's silver-green reed fields (called *galdae* in Korean), tidal mudflats, and resident cranes have made it a UNESCO-listed Ramsar wetland, while the neighboring Suncheon Bay National Garden — built for the 2013 Suncheon Garden Expo — turned the area into a full-day destination combining landscaped international gardens with raw coastal ecology. Few places in Korea let you walk from manicured French and Italian-style garden plots into an untouched tidal marsh within the same afternoon.

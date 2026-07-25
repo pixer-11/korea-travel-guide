@@ -17,8 +17,6 @@ faq:
     a: La ciudad de Ras Al Khaimah (el museo del antiguo fuerte, el paseo marítimo) está a unos 45 minutos, y los resorts de playa del emirato combinan bien para una escapada de dos días entre montaña y costa.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El Jebel Jais es el punto más alto de los Emiratos Árabes Unidos, parte de la cordillera de las Montañas Hajar (Hajar Mountains) que separa la costa de Ras Al Khaimah del desierto del interior. El atractivo no es un monumento en concreto, sino la montaña en sí: una carretera en zigzag que asciende hasta unos 1.680 metros de altitud asfaltada, acantilados de piedra caliza impresionantes y un clima notablemente más fresco que el de la costa, a menudo entre 10 y 15 °C por debajo del nivel del mar en RAK. Con una calificación de 4,6 sobre más de 21.000 reseñas, es sin duda una de las grandes atracciones del emirato, no un hallazgo escondido, así que hay que esperar compañía, sobre todo los fines de semana.

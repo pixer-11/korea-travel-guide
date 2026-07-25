@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Sensō-ji is Tokyo's oldest temple, completed in 645 to honor Kannon, the Buddhist goddess of mercy, after two fishermen reportedly pulled a statue of her from the Sumida River. Nearly 1,400 years later it remains the spiritual heart of Asakusa and one of the most-visited religious sites in Japan, drawing crowds that regularly pack the approach on weekends and holidays. With a 4.6 rating across roughly 97,000 reviews, it's consistently rated as an essential Tokyo stop, but its appeal isn't just the photo-ops — it's a working temple with daily rituals, incense offerings, and fortune-telling still very much in use.

@@ -17,8 +17,6 @@ faq:
     a: Sí — la zona incluye el frente de playa de Ancol Dreamland, el parque temático Dunia Fantasi y Sea World Jakarta, así que llegar un día antes te permite explorar la zona antes de que lleguen las multitudes del festival.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Las fechas y entradas de los eventos cambian — confirma siempre en la web oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 The Sounds Project se ha ganado la reputación de ser uno de los festivales multigénero más importantes de Yakarta, atrayendo una mezcla de pop, rock, hip-hop e indie en lugar de ceñirse a un solo estilo. El Vol. 9 mantiene ese formato a lo largo de tres días, del 7 al 9 de agosto de 2026, con un cartel que abarca estrellas locales —entre ellas Pamungkas y Rizky Febian— junto a nombres internacionales como los veteranos del rock australiano Jet. Para los visitantes, es una oportunidad de ver cómo se comporta el público de música en directo de Yakarta: ruidoso, entusiasta y muy dado a cantar con la luz del móvil en alto, pero generalmente bien organizado para un evento al aire libre de esta escala.

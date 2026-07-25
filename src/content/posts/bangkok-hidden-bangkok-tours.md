@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Most first-time visitors see Bangkok through the Grand Palace, Wat Pho, and Khao San Road — all on the Rattanakosin (Bangkok proper) side of the Chao Phraya River. Hidden Bangkok Tours operates from the opposite bank, in Bangkok Yai and the Wat Arun area of Thonburi, the original Siamese capital before Rattanakosin was built in 1782. This is a district of narrow sois, wooden stilt houses along klongs (canals), neighborhood temples with no entrance queues, and markets that serve residents rather than tour buses. The appeal isn't a single monument — it's the texture of daily life in a part of Bangkok that retains its 18th-century layout, just a 10-minute boat ride from the postcard skyline.

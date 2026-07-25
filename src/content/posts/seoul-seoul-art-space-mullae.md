@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Mullae-dong was once one of Seoul's densest concentrations of small-scale steel and metal fabrication shops, a legacy that stretches back to the industrial boom of the 1960s–70s. Rather than being cleared out for redevelopment, the district became an unusual hybrid starting in the mid-2000s: artists priced out of other neighborhoods moved into empty upper floors and back alleys above and beside the still-active ironworks, forming what's now branded Seoul Art Space Mullae (문래예술공장), a public arts facility that anchors a wider creative cluster known locally as Mullae Art Village. The result is one of the few places in the city where you can hear grinding metal and smell welding smoke while stepping past a mural-covered wall or a tiny experimental gallery. It's rated well by visitors (around 4 out of 5 from roughly 80 reviews), reflecting a spot that rewards curiosity more than convenience.

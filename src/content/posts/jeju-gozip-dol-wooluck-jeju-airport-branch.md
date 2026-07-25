@@ -41,8 +41,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Jeju Island's black pork (heugdwaeji) is one of the region's signature dishes, and Gozip Dol Wooluck has built a strong reputation for it right at the doorstep of Jeju International Airport. With a 4.7 rating across roughly 5,700 reviews, it's clearly doing something right for both locals and the steady stream of travelers passing through. The "airport branch" name is a genuine convenience: this is a place to eat well without burning half a travel day getting there, whether you've just touched down and need real food, or you're killing time before a flight home.

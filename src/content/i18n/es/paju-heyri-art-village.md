@@ -17,8 +17,6 @@ faq:
     a: 'Sí: tanto Paju Book City como la zona del recorrido de Imjingak/DMZ están cerca, a lo largo de la misma ruta al norte de Seúl, lo que facilita armar un itinerario de día completo.'
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Las imágenes tienen licencia o son de dominio público. Este es un resumen general de la zona/tema; verifica los detalles específicos de cada lugar antes de visitarlo. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Heyri Art Village (헤이리 예술마을) no es un barrio antiguo que se volvió artístico con el tiempo: se planificó desde cero a finales de la década de 1990 y principios de la de 2000 por un colectivo de escritores, artistas, arquitectos y músicos que querían una comunidad de baja altura y poco tráfico, construida en torno a galerías, estudios y librerías independientes. El resultado es un distrito extenso y de baja densidad con varios cientos de edificios, muchos de ellos obras notables de la arquitectura coreana contemporánea en hormigón, vidrio y acero corten, enmarcados por las colinas bajas cercanas al río Imjin. No se trata tanto de una gran atracción única, sino de pasear: jardines de esculturas inesperados, pequeños museos privados dedicados a un solo artista o tema, cafés dentro de casas de autor y callejones tranquilos que se sienten muy alejados de la densidad de Seúl, pese a estar a menos de una hora. Es un escape favorito de medio día para viajeros con sensibilidad por el diseño y familias que buscan algo más calmado que el centro de la ciudad.

@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why go
 
 ChinaJoy is one of Asia's largest digital entertainment expos, covering console and PC gaming, mobile games, esports, animation, cosplay, VR/AR, and increasingly AI-driven entertainment tech. It draws major domestic publishers (Tencent, NetEase, miHoYo have historically had a presence) alongside international hardware brands, peripheral makers, and streaming platforms. For industry visitors it's a dense few days of business meetings and product reveals; for the public segment it's a spectacle of elaborate booths, playable demos, merchandise, and one of the world's most photographed cosplay scenes. If your interest is either the business side of China's gaming industry or you simply want to see the scale of Chinese fan culture up close, this is the single best annual showcase for it.

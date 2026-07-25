@@ -48,8 +48,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Depot Bu Rudy is one of Surabaya's best-known names for home-style East Javanese food, and the Dharmahusada branch is the original, flagship location. It's built its reputation less on ambience than on a formula that keeps people coming back: crisp-fried chicken and duck, a wall of sambal variations, and rempeyek (thin peanut-and-anchovy crackers) sold both as a side dish and as a take-home snack by the kilo. Nearly 17,000 reviews and a 4.5 rating make it one of the most reviewed restaurants in the city, and it's the kind of place visitors and Surabaya residents alike end up recommending to out-of-town guests, even if it's now firmly on the tourist map rather than a hidden find.

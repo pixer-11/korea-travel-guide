@@ -17,8 +17,6 @@ faq:
     a: El mercado de Naklua (Naklua Market) y los restaurantes de mariscos a lo largo de la carretera costera forman una combinación natural, permitiéndote convertir la excursión en una salida de medio día en lugar de una sola parada.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Pocas atracciones en Tailandia igualan la pura audacia del Santuario de la Verdad. Con una altura de hasta 105 metros (aproximadamente la de un edificio de 20 pisos) sobre un acantilado con vistas al golfo de Tailandia en Naklua, al norte de Pattaya, la estructura está construida casi por completo en teca y otras maderas duras, sin refuerzos de acero — cada viga, columna y figura está tallada a mano. La construcción comenzó en 1981 y, de manera intencionada, permanece perpetuamente inacabada, con carpinteros y escultores todavía trabajando en el lugar. Las cuatro torres del edificio, que se elevan hacia el cielo, representan influencias artísticas camboyanas, chinas, jemeres y tailandesas, y las tallas representan la cosmología budista e hindú, el folclore tailandés y conceptos filosóficos sobre la relación de la humanidad con la naturaleza y entre sí. Con una calificación de 4.7 en más de 44,000 reseñas, es uno de los sitios más consistentemente elogiados de Pattaya — un raro contrapeso cultural frente a la reputación de la ciudad por sus playas y vida nocturna.

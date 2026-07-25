@@ -17,8 +17,6 @@ faq:
     a: Alojarte en la zona de Sukhumvit —Phrom Phong o Thong Lo— te deja a pocas paradas de BTS del recinto y cerca de muchísimos restaurantes para los días entre un concierto y otro.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Las fechas de los eventos y las entradas cambian: confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué importa este concierto
 
 Kodaline se hizo un nombre con un indie-rock emotivo y de gran formato —"All I Want", "High Hopes", "The One"—, el tipo de canciones que durante más de una década convirtieron tanto campos de festival como arenas enteras en coros multitudinarios. Esta gira de despedida marca el capítulo final oficial del cuarteto de Dublín, y Bangkok es una de las paradas que recibe dos fechas en lugar de una, señal de lo arraigada que está su base de fans en Tailandia. Para los visitantes, es una oportunidad poco común de presenciar un repertorio que abarca toda su carrera en un recinto pensado específicamente para conciertos, y no en un estadio adaptado ni en un festival con varios artistas.

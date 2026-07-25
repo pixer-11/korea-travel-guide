@@ -17,8 +17,6 @@ faq:
     a: El centro comercial Pavilion Bukit Jalil está justo al lado del complejo deportivo y ofrece una amplia variedad de opciones gastronómicas, y el vecindario de Sri Petaling, cercano, cuenta con una gran concentración de restaurantes locales.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Las fechas de los eventos y las entradas cambian: confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué importa este show
 
 Aaron Kwok es uno de los "Cuatro Reyes Celestiales" del Cantopop, un título que ha definido el estrellato pop de Hong Kong desde principios de los años 90 junto a Jacky Cheung, Andy Lau y Leon Lai. Décadas después, Kwok sigue siendo conocido por sus elaboradas producciones escénicas cargadas de baile, y el ICONIC World Tour 2026 continúa con esa reputación, llegando a Kuala Lumpur con un equipo de gira que se reporta en 200 integrantes, una cifra que sugiere una producción de arena a gran escala con múltiples montajes escénicos, diseño de pantallas LED y coreografía, en lugar de un formato de concierto reducido. Para los fans de todo el Sudeste Asiático, una parada en Kuala Lumpur representa una de las pocas oportunidades en la región de ver este tramo de la gira sin tener que viajar a Hong Kong, Taipéi o Singapur.

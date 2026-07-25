@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 At 45 meters tall and clad in white Burmese marble, the Big Buddha is one of Phuket's most recognizable landmarks, visible from boats out at sea and from several viewpoints across the south of the island. It sits at roughly 400 meters elevation on Nakkerd Hill, which means the real draw isn't just the statue itself but the panoramic views it commands — Chalong Bay and Phuket Town to the east, Kata and Karon beaches to the west, and on clear days a sense of just how hilly and green Phuket really is beneath the coastal development. The statue has a rating of 4.6 from nearly 39,000 reviews, making it one of the most consistently praised attractions on the island, and it's still an active, unfinished community project — the marble cladding is being completed in sections by donation, so the site has genuine local significance beyond being a photo stop.

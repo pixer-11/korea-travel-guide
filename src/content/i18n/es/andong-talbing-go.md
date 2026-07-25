@@ -17,8 +17,6 @@ faq:
     a: Busca el Andong jjimdak (pollo braseado en salsa de soja, que normalmente se pide por mesa) o el Andong-sik heotjesatbap (arroz mixto al estilo de las ofrendas ancestrales), ambos platos emblemáticos de la región.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué Talbing-Go
 
 La Aldea Folclórica de Hahoe (Hahoe Folk Village) atrae visitantes por sus casas de techo de paja y tejas declaradas Patrimonio de la Humanidad por la UNESCO, el meandro del río Nakdong y el Museo de Máscaras de Hahoe (Hahoe Mask Museum), que alberga las máscaras de madera del talchum (danza de máscaras) que dieron fama al pueblo. Talbing-Go se encuentra justo en el museo, lo que lo convierte en la parada natural para una comida que enmarca una visita al museo o una caminata por el pueblo sin necesidad de un desvío especial. Con una calificación de 4.6 sobre 119 reseñas y un nivel de precios moderado, se ha ganado una sólida reputación entre el flujo constante de visitantes de un día que pasan por este rincón de Pungcheon-myeon.

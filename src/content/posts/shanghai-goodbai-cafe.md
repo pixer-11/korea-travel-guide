@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why Goodbai Cafe Stands Out
 
 Celebrity-backed cafes open constantly in Shanghai, but few cross over into genuine viral territory the way Goodbai Cafe has. Opened by Chinese actor Bai Jing Ting, the space functions less like a conventional coffee shop and more like a cafe-concept-store hybrid — part place to drink coffee, part branded retail experience, part backdrop for the kind of styled photography that dominates Xiaohongshu (China's Instagram-meets-Pinterest platform). Its rise has been driven almost entirely by social media: a wave of posts showcasing the interior design and the signature Goodbai Latte turned it from a niche fan destination into a must-see stop for style-conscious visitors and domestic tourists alike. For anyone tracking Shanghai's trendy, design-led cafe scene, it's currently one of the names circulating most.

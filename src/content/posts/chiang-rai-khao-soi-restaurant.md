@@ -95,8 +95,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Khao soi is the dish most associated with northern Thailand, and Chiang Rai — quieter and less touristed than Chiang Mai — has its own well-loved versions of it. Khao Soi Restaurant, tucked onto Prasopsook Road in the Wiang subdistrict (Chiang Rai's old town core), has built a strong local and traveler following: a 4.7 rating across more than 800 reviews is a rare consensus for a single-dish specialist. It's the kind of place locals recommend without hesitation, and it sits firmly in the budget price bracket, meaning a full, satisfying bowl typically costs less than a coffee back home.

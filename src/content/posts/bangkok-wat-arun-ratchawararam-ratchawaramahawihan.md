@@ -89,8 +89,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Wat Arun Matters
 
 Wat Arun Ratchawararam Ratchawaramahawihan — usually shortened to Wat Arun, the "Temple of Dawn" — is one of Bangkok's most photographed landmarks, and one of only a handful of Thai temples where visitors can climb partway up the central structure itself. The temple's fame rests on its 82-meter Khmer-style prang (spire), encrusted with thousands of pieces of Chinese porcelain and seashells that were reportedly recycled from ships' ballast in the 19th century. It predates Bangkok as capital: the site held a temple as far back as the Ayutthaya period, and King Taksin enshrined the Emerald Buddha here briefly after the fall of Ayutthaya before it moved to Wat Phra Kaew. With a 4.7 rating across nearly 45,000 reviews, it's consistently ranked among the city's top temple visits.

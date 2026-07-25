@@ -17,8 +17,6 @@ faq:
     a: El parque Odori se extiende justo debajo de la torre, la Torre del Reloj de Sapporo (Sapporo Clock Tower) está a 10-15 minutos a pie hacia el noroeste, y el teleférico del monte Moiwa ofrece un panorama más alto de la ciudad a poca distancia en autobús o taxi.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en tiempo real de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La Torre de Televisión de Sapporo (Sapporo TV Tower) ha marcado el perfil urbano en el extremo este del parque Odori desde finales de la década de 1950, lo que la convierte en uno de los hitos más reconocibles de la ciudad junto con la Torre del Reloj de Sapporo. No es la torre mirador más alta ni más nueva de Japón, y no pretende serlo, pero eso forma parte de su encanto. La estructura reticular de acero rojo tiene un genuino encanto retro de mediados de siglo, y el mirador ofrece una vista limpia y despejada a lo largo del paseo arbolado del parque Odori hacia el monte Moiwa y la cordillera de Teine en los días despejados. Con una calificación de 4.1 basada en casi 17,000 reseñas, es una parada algo desgastada pero siempre satisfactoria, especialmente para quienes visitan Sapporo por primera vez y quieren orientarse en su trazado de cuadrícula.

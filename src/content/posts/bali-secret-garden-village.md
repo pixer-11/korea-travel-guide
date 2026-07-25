@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Secret Garden Village sits in the cool highlands of Baturiti, Tabanan regency, on the main Denpasar–Bedugul road (Jl. Raya Denpasar Bedugul, Km 36). It's built as an educational attraction covering Indonesian and Balinese history and culture, laid out across landscaped gardens with craft stations, cultural displays, food outlets, and shops. The name suggests a hidden find, but this is a firmly mainstream stop on the Bedugul circuit, with a 4.6 rating from more than 5,500 reviews — it draws steady tour traffic, especially from groups heading to or from Bedugul and Ulun Danu Beratan Temple. Come for the mountain air (Baturiti sits at higher elevation than the coast, so temperatures are noticeably cooler than Kuta or Seminyak) and for a curated, easy-to-digest introduction to Balinese heritage without needing a guide.

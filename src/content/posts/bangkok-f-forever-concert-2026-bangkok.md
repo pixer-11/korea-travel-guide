@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why this show matters
 
 F4 were the engine behind one of Asian pop culture's defining moments: the 2001 Taiwanese drama *Meteor Garden*, which turned Jerry Yan, Van Ness Wu, and Vic Chou (along with the now-departed Ken Chu) into a regional phenomenon and spawned a chart-topping boy-band spin-off. Two decades on, the surviving trio's first World Tour is a genuine reunion event, not a nostalgia rerun with stand-ins. Adding weight to the Bangkok dates is the presence of Ashin, frontman of Mayday — arguably Mandopop's biggest stadium band — performing as an honorary fourth member. For fans who grew up on 2000s Asian drama and C-pop, this pairing of eras (idol-drama royalty plus Mandopop's most respected rock voice) is the actual draw, not just a lineup gimmick.

@@ -88,8 +88,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Hong Hoai's Restaurant has quietly become one of the most reviewed eating spots in the Old Quarter, and the numbers back it up: a 4.9 rating across more than 23,000 reviews is rare for any restaurant, let alone a modest street-facing spot in Hanoi's oldest commercial district. The appeal isn't polish — it's the atmosphere of eating the way Hanoians actually eat, at a table that spills onto the sidewalk, surrounded by the noise, scooters, and smells of Bát Đàn and Hàng Bồ streets. For visitors trying to understand why Hanoi's street-food culture draws people back again and again, this is a legitimate entry point rather than a tourist-trap approximation of it.

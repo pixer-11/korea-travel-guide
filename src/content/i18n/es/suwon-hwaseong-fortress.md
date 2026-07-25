@@ -17,8 +17,6 @@ faq:
     a: Suwon es conocida en todo el país por su galbi (costillas cortas a la parrilla); la zona alrededor de la Puerta Paldalmun y el Mercado Yeongdong (Yeongdong Market) cuenta con restaurantes de galbi de larga tradición, ligados a esta costumbre local.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Las imágenes tienen licencia o son de dominio público. Este es un resumen general de la zona/tema — verifica los detalles específicos de cada lugar antes de tu visita. Consulta nuestra [política editorial](/about).
-
 ## Por qué importa la Fortaleza de Hwaseong
 
 Construida entre 1794 y 1796 bajo el reinado del rey Jeongjo de la dinastía Joseon, la Fortaleza de Hwaseong fue concebida tanto como un bastión militar como un homenaje al padre del rey, el príncipe heredero Sado. A diferencia de las murallas más antiguas de Seúl, Hwaseong incorporó un diseño de vanguardia para la época, inspirado por el erudito confuciano Jeong Yak-yong, que combinaba la arquitectura defensiva coreana y china con una ingeniería con influencias occidentales incipientes. Fue declarada Patrimonio de la Humanidad por la UNESCO en 1997, en gran parte porque los registros de construcción (el Hwaseong Seongyeok Uigwe) se conservaron casi por completo, lo que permitió una restauración precisa tras la Guerra de Corea. El resultado es una de las pocas fortalezas coreanas donde se puede recorrer a pie un circuito de muralla esencialmente ininterrumpido de 5,7 kilómetros que rodea un centro urbano moderno y vivo.

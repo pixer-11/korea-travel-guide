@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why go
 
 The US Open is the last Grand Slam of the tennis season and the only one played entirely at night sessions under lights, giving it a distinct, electric atmosphere compared to Wimbledon or the French Open. It's also the most fan-friendly major: grounds passes let you wander among 20+ courts, watch practice sessions up close, and catch rising players on outer courts for a fraction of the cost of Arthur Ashe Stadium seats. The 2026 edition runs August 23 to September 13 at the USTA Billie Jean King National Tennis Center in Flushing Meadows–Corona Park, Queens — the same 46-acre complex that's hosted the tournament since 1978.

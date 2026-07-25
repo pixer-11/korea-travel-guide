@@ -17,8 +17,6 @@ faq:
     a: El Pueblo Mural de Dongpirang (Dongpirang Mural Village) y el Mercado Jungang (Jungang Market), ambos conocidos por sus mariscos frescos y el chungmu gimbap típico de la zona, están a poca distancia en coche de la estación base del teleférico y combinan bien con una visita de medio día.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 A Tongyeong se le suele llamar la "Nápoles de Oriente" por su costa salpicada de islas, y la mejor forma de entender por qué es viéndola desde las alturas. El Teleférico y Skywalk de Tongyeong combina un pintoresco ascenso en teleférico por el monte Mireuksan con un mirador de suelo de cristal, ofreciendo a los visitantes una vista panorámica de 360 grados poco común sobre la ciudad portuaria, sus astilleros y las decenas de islas repartidas por el Parque Nacional Marino Hallyeohaesang. Con una puntuación de 4.4 en más de 5,500 reseñas, es una de las atracciones mejor valoradas de la región de forma constante — no una parada superficial, sino un auténtico destacado geográfico.

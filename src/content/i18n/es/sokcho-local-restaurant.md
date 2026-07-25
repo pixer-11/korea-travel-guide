@@ -17,8 +17,6 @@ faq:
     a: El almuerzo entre semana evita las multitudes; finales de primavera y otoño son menos concurridos que la temporada de playa de verano y combinan bien con una excursión al Seoraksan.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Las imágenes tienen licencia o son de dominio público. Se trata de una visión general de la zona/tema; verifica los detalles concretos de cada local antes de visitarlo. Consulta nuestra [política editorial](/about).
-
 ## Por qué vale la pena buscar los restaurantes locales de Sokcho
 
 Sokcho se encuentra en la costa noreste de Corea, un antiguo pueblo pesquero que se ha convertido en la puerta de entrada al Parque Nacional de Seoraksan (Seoraksan National Park) y en una escapada de fin de semana a la playa desde Seúl. Su identidad gastronómica está determinada por la geografía: las frías aguas del mar del Este traen calamar, abadejo y cangrejo, mientras que los campos de trigo sarraceno de las montañas de la región dieron origen al *makguksu*, un plato de fideos fríos y elásticos que tanto Sokcho como la vecina Goseong reivindican como propio. Comer en un pequeño restaurante local aquí —en lugar de en una cadena o en el comedor de un hotel— marca la diferencia entre probar un plato del menú y probar el lugar en sí mismo.

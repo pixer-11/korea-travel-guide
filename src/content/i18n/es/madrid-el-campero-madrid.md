@@ -17,8 +17,6 @@ faq:
     a: El local de Madrid destaca por tener una terraza impresionante, así que, si te atrae la idea de comer al aire libre, es recomendable mencionarlo expresamente al hacer la reserva en lugar de dar por hecho que se ofrecerá de forma automática.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con ayuda de IA, utilizando fuentes web actuales. Los horarios y detalles cambian: confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué El Campero es tan importante
 
 El Campero se hizo un nombre en Barbate, un pueblo pesquero de la costa gaditana (Cádiz) que se encuentra en el corazón de la tradición de la almadraba, un antiguo y sostenible método de captura del atún utilizado desde la época fenicia para pescar el atún rojo mientras migra por el Estrecho de Gibraltar cada primavera. El restaurante de Barbate se convirtió en un lugar de peregrinación para los amantes del atún, chefs y críticos gastronómicos que consideran el atún rojo de almadraba uno de los mejores pescados del mundo, apreciado por sus variados cortes (cada uno con su propia textura y contenido graso, de forma similar a la carne de wagyu). La apertura de una sede en Madrid a principios de 2026 supone un paso importante: trae a la capital una delicia costera y de temporada que, de otro modo, la mayoría de los visitantes solo podrían probar tras un viaje de cinco horas en coche.

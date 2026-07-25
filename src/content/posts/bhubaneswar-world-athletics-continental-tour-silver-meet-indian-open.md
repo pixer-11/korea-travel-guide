@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why this meet matters
 
 Bhubaneswar has spent the last decade building a reputation as India's most credible host city for elite sport, and the Indian Open is its latest proof point. After hosting a Continental Tour bronze-level meet at Kalinga Stadium in 2025, Bhubaneswar has been upgraded to Silver status for 2026 — putting it a tier above most regional meets on World Athletics' global circuit and a notch below Diamond League events. A Silver designation typically draws a stronger international start list, more world-ranking points on the line, and tighter competition standards, so expect athletes chasing qualification marks for global championships alongside strong Indian national talent.

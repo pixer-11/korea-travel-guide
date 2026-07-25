@@ -17,8 +17,6 @@ faq:
     a: La hilera de restaurantes de marisco de Wolmido está justo al lado del parque, y el Barrio Chino de Incheon (Chinatown) y el Jayu Park cerca de Incheon Station son un complemento fácil, ya que todos están cerca de la misma parada de metro.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Wolmi Theme Park se encuentra en Wolmido, una pequeña antigua isla (ahora conectada por un dique) frente a la parte continental de Incheon, y tiene un sabor muy distinto al de los mega parques de Corea como Everland o Lotte World. Es más pequeño, más antiguo y descaradamente retro: piensa en clásicos barcos vikingos, una noria, autos de choque y un barco pirata disco que hace girar a los pasajeros mientras suena K-pop a todo volumen, todo con vistas al mar. Con una valoración de 4.0 en más de 8,000 reseñas, es un lugar muy querido por los locales más que un escaparate turístico pulido, y eso forma parte de su encanto. Además, es realmente barato y rápido de recorrer: la mayoría de los visitantes completa todo el parque, el paseo marítimo y una comida de marisco en medio día.

@@ -17,8 +17,6 @@ faq:
     a: Ryoan-ji (famoso por su jardín de rocas) y el templo Ninna-ji están a un corto trayecto en autobús o taxi, lo que permite armar un buen recorrido de medio día por el conjunto de templos del noroeste de Kioto.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Kinkaku-ji, cuyo nombre formal es Rokuon-ji, es con razón el edificio más fotografiado de Kioto: sus dos plantas superiores están cubiertas de pan de oro auténtico, y la estructura se alza directamente sobre el estanque Kyōko-chi ("estanque espejo"), lo que duplica el efecto visual en un día sin viento. Se construyó a finales del siglo XIV como villa de retiro para el shogun Ashikaga Yoshimitsu, y tras su muerte se convirtió en un templo zen de la escuela Rinzai. El pabellón actual es una reconstrucción de 1955 —el original se quemó en 1950—, pero sigue de cerca el diseño histórico y sigue formando parte del Patrimonio de la Humanidad de la UNESCO como parte de los "Monumentos Históricos de la Antigua Kioto". Con una valoración de 4.6 en decenas de miles de reseñas, se mantiene entre las principales atracciones de la ciudad, por lo que las expectativas son altas, y el lugar generalmente las cumple, siempre que gestiones bien el momento de la visita y las aglomeraciones.

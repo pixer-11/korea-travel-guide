@@ -17,8 +17,6 @@ faq:
     a: Sí, el parque tiene caminos pavimentados y bancos adecuados para la mayoría de los niveles de condición física, aunque el paso cerca de la cueva se humedece y se pone algo resbaladizo, por lo que se recomienda calzado firme, especialmente si viajas con niños.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Las Cascadas de Duden son uno de los paisajes naturales más fotografiados de Antalya: un río en parte subterráneo que resurge y desciende en cascadas frente a una gran cueva de piedra caliza. Las Cascadas de Duden Alto, ubicadas dentro de un parque municipal ajardinado en el distrito de Kepez, permiten caminar justo detrás y junto al agua que cae, un punto de observación poco común que hace que valga la pena esta breve visita incluso para quienes ya han visto muchas cascadas en otros lugares. Con una calificación de 4.6 basada en casi 38.000 reseñas, se ha consolidado como una visita imprescindible más que como un destino de nicho, así que hay que contar con compañía.

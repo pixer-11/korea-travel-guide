@@ -17,8 +17,6 @@ faq:
     a: Po Nagar es un lugar de culto activo para visitantes cham y vietnamitas, así que viste con recato (hombros y rodillas cubiertos) y mantén un tono respetuoso cerca de la torre principal, donde se realizan ofrendas y se quema incienso.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué Po Nagar es importante
 
 Po Nagar (también escrito Ponagar) es uno de los conjuntos de torres cham más importantes que se conservan en Vietnam, dedicado a la diosa Yang Po Ino Nagar, venerada como la madre protectora del antiguo reino de Champa. El complejo llegó a tener ocho torres o más; hoy se conservan cuatro, y la más grande —un kalan de unos 23 metros de altura— sigue siendo la estructura más alta y la más fotografiada del lugar. La construcción se extendió a lo largo de varios siglos, desde aproximadamente el siglo VIII hasta el XIII, por lo que las torres muestran una historia arquitectónica en capas y no un estilo único. A diferencia de una pieza de museo, las torres siguen activas: los lugareños y los peregrinos cham acuden a quemar incienso y rezar, por lo que el ambiente combina arqueología con una vida ritual genuina y vigente.

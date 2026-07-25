@@ -76,8 +76,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Hue served as the political and cultural capital of Vietnam's Nguyen Dynasty from 1802 to 1945, and the Imperial City (locally called Đại Nội) was its walled seat of power — modeled loosely on Beijing's Forbidden City but adapted to Vietnamese geomancy and scale. Inside its roughly 2km-per-side ramparts and moat sit palaces, dynastic temples, gardens, and the remnants of the Forbidden Purple City, where only the emperor, his family, and eunuchs were once permitted. Much of it was damaged during the 1968 Tet Offensive and decades of war and neglect, but restoration since the 1990s (with UNESCO backing) has brought back gate towers, throne halls, and roof details in vivid reds, golds, and glazed tile. With a 4.6 rating across more than 23,000 reviews, it's consistently rated Hue's top attraction, and it's the anchor of the wider "Complex of Hue Monuments" World Heritage listing.

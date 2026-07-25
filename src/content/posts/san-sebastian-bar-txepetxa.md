@@ -41,8 +41,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Bar Txepetxa matters
 
 San Sebastián's Old Town is famous for pintxos bars that each stake a claim to one dish done better than anyone else, and Bar Txepetxa's claim is the anchovy. Boquerón — the fresh, cured Cantabrian anchovy, not the salty tinned kind most visitors know — is the house specialty, and the bar has built a loyal following (a 4.7 rating across more than 3,600 reviews) by doing very little else, very well. It's a small, unpretentious tavern rather than a destination restaurant, which is exactly the point: this is old-school San Sebastián eating, standing at a zinc bar with a toothpick-skewered snack in one hand and a glass of local white in the other.

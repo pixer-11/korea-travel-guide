@@ -46,8 +46,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Gustave Eiffel's wrought-iron tower has anchored the Paris skyline since it was built as the centerpiece of the 1889 Exposition Universelle, marking the centenary of the French Revolution. At 330 meters, it was the tallest man-made structure in the world for over 40 years, and it remains the most recognizable engineering landmark in Europe. With a 4.7 rating across nearly half a million reviews, it's not just a photo-op — the lattice ironwork, the three observation levels, and the panoramic views over the Seine and the Champ de Mars still justify the hype and the lines.

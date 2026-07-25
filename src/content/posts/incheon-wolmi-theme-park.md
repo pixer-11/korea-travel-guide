@@ -92,8 +92,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Wolmi Theme Park sits on Wolmido, a small former island (now connected by causeway) just off the Incheon mainland, and it has a different flavor from Korea's mega parks like Everland or Lotte World. It's smaller, older, and unabashedly retro — think classic Viking ships, a Ferris wheel, bumper cars, and a disco pirate ship that spins riders while blasting K-pop, all with sea views. With a 4.0 rating across more than 8,000 reviews, it's a well-loved local spot rather than a polished tourist showcase, and that's part of its charm. It's also genuinely cheap and fast to do — most visitors clear the whole park, boardwalk, and a seafood meal in half a day.

@@ -17,8 +17,6 @@ faq:
     a: La zona está cerca de las calles comerciales más antiguas de Yeongdeungpo, con restaurantes coreanos económicos y un número creciente de cafés y bares instalados en antiguas naves fabriles.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Mullae-dong fue en su día una de las mayores concentraciones de pequeños talleres de fabricación de acero y metal de Seúl, un legado que se remonta al boom industrial de las décadas de 1960 y 1970. En lugar de ser demolido para nuevas construcciones, el distrito se convirtió en un híbrido singular a partir de mediados de la década de 2000: artistas que no podían costear otros barrios se mudaron a los pisos superiores vacíos y a los callejones traseros, junto a los talleres de hierro que seguían activos, dando forma a lo que hoy se conoce como Seoul Art Space Mullae (문래예술공장), una instalación pública de arte que actúa como eje de un clúster creativo más amplio conocido localmente como Mullae Art Village. El resultado es uno de los pocos lugares de la ciudad donde se puede oír el chirrido del metal y oler el humo de la soldadura mientras se pasa junto a un muro cubierto de murales o una pequeña galería experimental. Los visitantes lo valoran bien (alrededor de 4 sobre 5 con unas 80 reseñas), lo que refleja un lugar que premia más la curiosidad que la comodidad.

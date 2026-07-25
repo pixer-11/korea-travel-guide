@@ -17,8 +17,6 @@ faq:
     a: El mercado Seomun (Seomun Market) y la calle de murales Kim Kwang Seok están ambos a poca distancia, y toda la franja comercial de Dongseong-ro es transitable a pie desde la puerta del restaurante.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Dongseong-ro, en Daegu, es la franja comercial y de vida nocturna más concurrida de la ciudad: un corredor peatonal repleto de boutiques de moda, cadenas de cosméticos, carritos de comida callejera y cafés. En medio de tanto pollo frito coreano y puestos de tteokbokki, Nazar Kebab destaca simplemente porque es uno de los pocos lugares del centro que sirve kebabs al estilo turco y los hace bien. Con una calificación de 4.4 sobre 469 reseñas, claramente se ha ganado una clientela fiel, tanto entre locales que buscan algo diferente como entre visitantes extranjeros que extrañan los sabores familiares de Oriente Medio. Es el tipo de lugar al que uno entra entre parada y parada de compras, no un destino gastronómico formal, y ese es justamente su encanto.

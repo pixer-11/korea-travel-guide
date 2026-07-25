@@ -17,8 +17,6 @@ faq:
     a: Flushing Meadows–Corona Park tiene el Unisphere, el Queens Museum y el New York Hall of Science a poca distancia a pie, y el Chinatown de Flushing está a un corto trayecto en metro, con una de las mejores escenas gastronómicas de Nueva York.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Las fechas del evento y las entradas cambian; confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El US Open es el último Grand Slam de la temporada de tenis y el único que se disputa por completo en sesiones nocturnas bajo luces artificiales, lo que le da un ambiente eléctrico y distintivo frente a Wimbledon o Roland Garros. Es también el major más amigable para los aficionados: los pases de recinto (grounds passes) permiten pasear entre más de 20 pistas, ver de cerca las sesiones de entrenamiento y disfrutar de jugadores emergentes en las pistas exteriores por una fracción del precio de un asiento en el Arthur Ashe Stadium. La edición de 2026 se celebra del 23 de agosto al 13 de septiembre en el USTA Billie Jean King National Tennis Center, en Flushing Meadows–Corona Park, Queens, el mismo complejo de 46 acres (unas 18,6 hectáreas) que alberga el torneo desde 1978.

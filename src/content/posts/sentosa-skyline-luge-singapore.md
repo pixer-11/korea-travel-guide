@@ -46,8 +46,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Skyline Luge Singapore is one of Sentosa's signature "do it yourself" rides: a chairlift hauls you up a wooded hillside for panoramic views over the island and the Southern Islands, then you climb into a small wheeled luge cart and steer yourself back down a winding concrete track using a simple push-pull handlebar (push forward to brake, pull back to go). It's rated 4.5 from nearly 9,800 reviews, which reflects both the novelty of the ride and how efficiently the operator moves large crowds through on a busy day. There are multiple tracks — including the longer, twistier Dragon Trail and the more flowing Jungle Trail — so repeat riders can pick different routes rather than doing the same run twice.

@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Telok Ayer Street is one of the best-preserved stretches of shophouse architecture in Chinatown, and My Awesome Cafe occupies one of these restored units, mixing exposed brick, salvaged furniture, and warm lighting into a space that feels more like a friend's well-decorated living room than a formal restaurant. The menu leans into handcrafted salads and sandwiches with a rotating wine and spirits list, which explains why it draws both the laptop-and-latte weekday crowd and a livelier dinner-and-drinks set on weekends. With a 4.7 rating across nearly 7,900 reviews, it's firmly one of the neighborhood's most talked-about cafes rather than a quiet local secret — plan around the crowds rather than expecting to beat them.

@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why StreetXO Ibiza Matters
 
 Dabiz Muñoz is one of the most decorated chefs working today — his Madrid flagship DiverXO has repeatedly placed among the World's 50 Best Restaurants and holds multiple Michelin stars. StreetXO is his more theatrical, lower-barrier concept: a loud, kinetic take on global street food filtered through fine-dining technique, built around an open kitchen and a central bar where diners watch dishes assembled in real time rather than sitting at quiet, spaced-out tables. Bringing that format to Ibiza for the summer season, housed inside The Unexpected Ibiza Hotel, is a notable arrival for an island whose dining scene is usually dominated by beach clubs and sunset-view restaurants rather than chef-driven concept spaces. For visitors who track the World's 50 Best ecosystem or have eaten at StreetXO's Madrid or London branches, this is a chance to see the format transplanted into an island context.

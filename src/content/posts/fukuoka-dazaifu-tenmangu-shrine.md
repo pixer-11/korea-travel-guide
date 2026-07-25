@@ -98,8 +98,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Dazaifu Tenmangu Matters
 
 Dazaifu Tenmangu isn't just another pretty shrine on a Kyushu itinerary — it's one of the two most revered Tenmangu shrines in Japan (the other being Kitano Tenmangu in Kyoto). It was built in 905 CE over the grave of Sugawara no Michizane, a scholar-statesman exiled to Dazaifu who was posthumously deified as Tenjin, the god of learning. Because of that legacy, the shrine draws a steady stream of students and parents praying for exam success, alongside sightseers there for the architecture and gardens. With a 4.5 rating across more than 43,000 reviews, it's clearly earned its reputation as a genuine highlight of the Fukuoka region, not just a "hidden gem" on paper.

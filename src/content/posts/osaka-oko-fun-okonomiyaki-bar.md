@@ -46,8 +46,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Okonomiyaki is Osaka's signature comfort food — a savory pancake of shredded cabbage, batter, and your choice of pork, seafood, or cheese, grilled on a teppan and finished with a lattice of okonomiyaki sauce, mayonnaise, bonito flakes, and dried seaweed. OKO - Fun Okonomiyaki Bar has built a strong reputation among both locals and visitors for doing this well at accessible prices, evidenced by a 4.7 rating across more than 2,500 reviews — an unusually high volume and score for a casual eatery. It's a low-price-tier spot (priceLevel 1), meaning it's positioned as an easy, wallet-friendly meal rather than a splurge, which makes it a solid choice for a quick dinner or a late-night bite while bar-hopping through Dotonbori.

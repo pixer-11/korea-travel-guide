@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why Sen'den Stands Out
 
 Karaköy has spent the last decade transforming from a gritty port district into one of Istanbul's most talked-about dining and nightlife quarters, and Sen'den is one of the freshest additions to that story. What sets it apart isn't just the food concept but the building itself: Sen'den occupies the Hovagimyan Han, a 19th-century han (a traditional Ottoman commercial building, originally built as a mix of offices, storage, and trade space) that has been carefully restored rather than gutted and rebuilt. Exposed stone, historic proportions, and old structural details reportedly share space with a contemporary dining room, giving the restaurant a layered, old-meets-new atmosphere that's become a signature of Karaköy's best openings.

@@ -41,8 +41,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Dakgangjeong — chicken that's double-fried until the skin crackles, then coated in a sticky-sweet, garlic-and-chili glaze — is one of Gangwon-do's signature comfort foods, and Sokcho is one of the cities most associated with doing it well. Manseok Dakgangjeong has built a loyal following (rated around 4.0 from well over 2,000 reviews) precisely because it nails the balance every version of this dish is judged on: shatteringly crisp exterior, juicy meat, and a sauce that's sweet and savory with just enough chili heat to keep you reaching for more. It's the kind of place travelers add to a Sokcho food itinerary alongside squid dishes and fresh seafood, but it delivers something heartier and more shareable.

@@ -37,8 +37,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Pike Place Market is a food destination, not just a market
 
 Pike Place Market opened in 1907 as a farmers' market to cut out middlemen between growers and shoppers, and it's still a working market today — not a themed food hall. That history matters for eating: the seafood is here because fishing boats and produce trucks still supply it, and many of the food stalls and hole-in-the-wall counters have been run by the same families for decades. The result is one of the densest, most walkable eating strips in Seattle, stacked across several levels overlooking Elliott Bay.

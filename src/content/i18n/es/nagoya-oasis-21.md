@@ -17,8 +17,6 @@ faq:
     a: La Torre de Nagoya (Nagoya TV Tower) y el parque Hisaya-odori (Hisaya-odori Park) están a 5–10 minutos a pie, y el Centro de Artes de Aichi (Aichi Arts Center) y el Museo de Ciencias de la Ciudad de Nagoya (Nagoya City Science Museum) quedan a unos 10 minutos caminando. Las galerías comerciales subterráneas de Sakae conectan directamente con la misma estación.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Oasis 21 es la pieza de arquitectura moderna más fotografiada de Nagoya: un dosel ovalado de vidrio y acero apodado la "Water Spaceship" (nave espacial acuática), que flota sobre una plaza hundida y una terminal de autobuses en funcionamiento, en el barrio de Higashi Ward. El techo de cristal contiene una fina capa de agua que refleja el cielo y, tras la puesta de sol, se ilumina con luces LED que cambian de color. Se puede subir a la plataforma elevada de forma gratuita, y la estructura enmarca una vista despejada hacia la Torre de Nagoya (Nagoya TV Tower) y el parque Hisaya-odori (Hisaya-odori Park), justo al otro lado de la calle, lo que la convierte en una de las paradas fotográficas más impactantes y fáciles de la ciudad sin pagar entrada.

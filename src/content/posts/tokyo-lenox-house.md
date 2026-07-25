@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why Lenox House stands out
 
 Tokyo has no shortage of Italian restaurants, but Lenox House earns its buzz through pedigree and restraint. It comes from the team behind The Great Burger, a long-running cult favorite in the city's burger scene, and that same instinct for doing one thing with real craft carries over here. Instead of chasing trends with fusion gimmicks, Lenox House leans into handmade pasta and regional Italian dishes, reworked with seasonal Japanese ingredients rather than imported substitutes. The result is a menu that feels distinctly Tokyo even while staying rooted in Italian technique — the kind of quiet confidence that tends to separate places built to last from places built for a single news cycle.

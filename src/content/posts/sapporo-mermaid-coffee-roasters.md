@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Mermaid Coffee Roasters has quietly become one of Sapporo's most talked-about coffee addresses, and the numbers back it up: a 4.8-star average across more than 1,500 reviews is rare for any cafe, let alone one tucked into a mid-sized city block in Chuo Ward. This isn't a mass-market chain — it's a roaster-led operation where the beans are sourced, roasted, and brewed with the kind of obsessive attention that specialty coffee fans travel for. If you care about where your cup comes from, or you just want to see what a genuinely trendy, design-conscious Japanese cafe looks like away from Tokyo, this is a worthwhile detour.

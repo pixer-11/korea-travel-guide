@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why Luna stands out
 
 Rome's café scene has historically meant standing at a marble bar for a fast espresso, but a newer wave of specialty coffee shops has been rewriting that script — and Luna, which opened in 2025 near Piazza Barberini, is one of the more talked-about additions. It comes from the team behind Faro, one of Rome's original third-wave coffee bars, and Aliena Coffee Roasters, so the beans and brewing methods are a known quantity for anyone who's tracked the city's coffee scene over the past few years. What differentiates Luna from its siblings is the format: a full all-day brunch menu plus an in-house bakery, wrapped in a loose space and moon theme that shows up in the naming and presentation rather than in heavy-handed decor gimmicks.

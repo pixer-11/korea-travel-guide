@@ -48,8 +48,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Old Town Phuket isn't short on restaurants chasing Instagram likes with mediocre food, so a spot holding a 4.7 rating across more than 4,700 reviews is worth noting. Day & Night Of Phuket, tucked into the Talat Yai area of Mueang Phuket District, has built its reputation the old-fashioned way: consistent Thai cooking, generous portions, and a menu that doesn't feel dumbed down for tourists. The name suggests its appeal — it works equally well as a midday refuel spot after wandering Thalang Road's heritage buildings, or as an evening base before you head toward Phuket Walking Street (Lard Yai), which runs Sunday evenings along the same historic core.

@@ -17,8 +17,6 @@ faq:
     a: Los hoteles a lo largo de Roxas Boulevard o en la franja de Entertainment City/Bay Area (cerca de Solaire, Okada, City of Dreams) están a un corto trayecto del WTC y cerca del SM Mall of Asia para comida y artículos esenciales.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Las fechas de los eventos y las entradas cambian — siempre confirma en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 LaLaLa Fest se ha ganado una reputación en toda Asia como un festival que combina nombres globales del indie y el alt-pop con una producción de gran calidad, y la fecha 2026 en Manila trae esa fórmula a Filipinas con Steve Lacy y Two Door Cinema Club a la cabeza del cartel. Para los fans internacionales, esta es una oportunidad poco común de ver artistas de este calibre sin necesitar un presupuesto de viaje al estilo Coachella — Manila es un centro regional bien conectado, y el show se concentra en un solo día, el 21 de agosto de 2026, lo que lo hace viable como un viaje de fin de semana largo organizado en torno a una gran noche.

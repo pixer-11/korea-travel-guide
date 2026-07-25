@@ -66,8 +66,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Hoi An's Old Town is atmospheric by day, but it's after dark — when hundreds of silk lanterns strung along Nguyễn Hoàng Street flicker on — that the town earns its reputation as one of Vietnam's most photographed places. Hoi An Night Market (3 Nguyễn Hoàng, An Hội) sits at the center of that scene, on the small An Hội islet directly across the river from the Old Town's ancient merchant houses. With over 50,000 reviews and a 4.4 rating, it's not an undiscovered secret, but it earns its "hidden gem" reputation for a different reason: most visitors treat it as a quick photo stop, missing the food stalls and side lanes that locals actually use after the lantern-buying tourists move on.

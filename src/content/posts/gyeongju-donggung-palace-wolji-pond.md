@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Donggung Palace & Wolji Pond (also still called by its older name, Anapji) was built around 674 CE as a detached palace of the Silla kingdom, used for royal banquets and to receive important guests. What survives and has been reconstructed is a cluster of pavilions arranged around a manmade pond with three small islets — a deliberate miniature landscape meant to evoke the mythical mountains of immortals. Excavations here turned up tens of thousands of artifacts, from roof tiles to a wooden 14-sided die used for drinking games, now displayed at the Gyeongju National Museum a short drive away. The site's real draw today, though, is visual: warm lighting after dark turns the pavilions and their mirror image on the water into one of the most photographed scenes in Gyeongju.

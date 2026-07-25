@@ -90,8 +90,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Forest Outings Is Worth the Trip
 
 Incheon's Yeonsu-gu district has quietly become one of the city's trendier residential-meets-lifestyle areas, and Forest Outings is a big reason why. The venue is built around an indoor "forest" concept — soaring ceilings, dense plantings, skylights, and greenhouse-glass sections that flood the dining areas with natural light. It's part café, part restaurant, part botanical showroom, and it has earned a strong 4.4 rating across more than 2,148 reviews, which for a single-location café-restaurant is a notable sign of consistent quality rather than a one-off social-media spike. For visitors exploring Incheon beyond the airport and Songdo's skyline, this is a solid example of Korea's current wave of large-scale "botanical café" destinations, where the setting is as much the draw as the food.

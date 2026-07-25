@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Mini Siam is one of Pattaya's oldest theme attractions, built around the idea of touring Thailand and the world in a single afternoon without leaving Chon Buri province. The park is split into two zones: "Siam" featuring scaled replicas of Thailand's most recognizable structures (Wat Arun, the Grand Palace, Bangkok's Democracy Monument, Phimai Historical Park, and Southern Thailand's limestone karsts), and an international section with icons like the Eiffel Tower, Tower Bridge, Big Ben, the Sydney Opera House, Angkor Wat, and the Statue of Liberty. It's a low-key, walkable outdoor museum that appeals especially to families with kids, model/architecture enthusiasts, and anyone wanting an easy half-day break from the beach. With a 4.2 rating across nearly 8,000 reviews, it's a well-established stop rather than a fly-by-night tourist trap.

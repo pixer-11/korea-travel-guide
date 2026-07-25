@@ -17,8 +17,6 @@ faq:
     a: Las casas tradicionales del Anjungan Daerah, el teleférico Skylift sobre el lago con forma de archipiélago, el Museum Indonesia y el Keong Emas IMAX Theatre son los puntos más destacados.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Concebido por Ibu Tien Soeharto e inaugurado en 1975, Taman Mini Indonesia Indah se construyó como un mapa viviente del archipiélago: un único parque donde los visitantes pueden pasar de una rumah gadang sumatrana a una choza honai papú sin salir de Yakarta Oriental. Con una calificación de 4.6 en más de 170,000 reseñas, sigue siendo una de las atracciones más visitadas de la ciudad, popular tanto entre excursiones escolares nacionales como entre viajeros internacionales que buscan un curso intensivo sobre la diversidad étnica y arquitectónica de Indonesia antes o después de recorrer las regiones. La escala es real —el terreno cubre aproximadamente 150 hectáreas—, así que esto es menos una parada rápida para fotos y más un destino en sí mismo.

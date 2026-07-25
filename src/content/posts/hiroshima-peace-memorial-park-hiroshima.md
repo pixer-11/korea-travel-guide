@@ -65,8 +65,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Peace Memorial Park (Heiwa Kinen Koen) occupies the former Nakajima district, a bustling commercial neighborhood obliterated by the atomic bomb on August 6, 1945. Since 1954 the park has served as Hiroshima's central memorial and a global symbol for the abolition of nuclear weapons. With a 4.7 rating across more than 30,000 reviews, it's one of the most consistently praised sites in Japan — not for spectacle, but for the sober, deliberate way it turns a site of destruction into a place of reflection. Most visitors pair it with the Hiroshima Peace Memorial Museum, though the park's outdoor monuments alone justify a visit.

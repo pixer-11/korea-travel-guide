@@ -17,8 +17,6 @@ faq:
     a: Busca en los puestos el chè (sopa dulce de postre), las brochetas a la parrilla y el bánh mì; para probar los famosos fideos cao lầu de Hoi An, revisa los locales con mesas justo a las afueras de la calle principal del mercado.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El Casco Antiguo de Hoi An tiene ambiente durante el día, pero es al caer la noche —cuando cientos de farolillos de seda colgados a lo largo de la calle Nguyễn Hoàng se encienden— cuando la ciudad se gana su fama de ser uno de los lugares más fotografiados de Vietnam. El Mercado Nocturno de Hoi An (3 Nguyễn Hoàng, An Hội) está en el centro de esa escena, en el pequeño islote de An Hội, justo al otro lado del río frente a las antiguas casas de comerciantes del Casco Antiguo. Con más de 50.000 reseñas y una calificación de 4.4, no es precisamente un secreto sin descubrir, pero se gana su fama de "joya escondida" por otra razón: la mayoría de los visitantes lo tratan como una parada rápida para fotos, sin descubrir los puestos de comida ni los callejones laterales que realmente usan los locales una vez que los turistas compradores de farolillos se marchan.

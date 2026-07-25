@@ -17,8 +17,6 @@ faq:
     a: 公园位于Dago-Lembang沿线，靠近Tebing Keraton悬崖观景台、Dago Pakar，以及楠榜（Lembang）一带的家庭游玩景点，比如Farmhouse Susu Lembang和水上市场（Floating Market），很方便安排在同一天一起游玩。
 ---
 
-> **本指南制作方式：** 经编辑审核，AI辅助生成。内容基于Google Places实时数据整理，图片均已获得授权或属于公共版权。详见我们的[编辑政策](/about)。
-
 ## 为什么值得一去
 
 茶谷梦幻公园（Dago Dreampark）坐落在一片松林之中，位于Jalan Dago Giri路上，这条路从万隆北部的Dago一路爬升通往楠榜（Lembang）。与其说它是单一景点，不如说是散布在山坡上的一组活动区域——越野车（ATV）赛道穿梭林间，还有彩弹射击场、飞索、悬于山谷上方的巨型秋千，以及不断更新的Instagram风打卡道具（超大座椅、悬空鸟巢、悬浮平台等），这些都让它成为万隆一日游行程中的常客。凭借近2万条评论和4.2分的评分，它无疑是楠榜沿线人气最旺的景点之一，与Dago Pakar以及同一条路再往上的Tebing Keraton悬崖观景台齐名。

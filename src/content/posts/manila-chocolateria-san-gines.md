@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why go
 
 Chocolatería San Ginés isn't just another churros stand — it's a piece of Madrid history transplanted to Manila. The original opened in 1894 in a narrow alley (Pasadizo de San Ginés) beside Madrid's Iglesia de San Ginés, just steps from Puerta del Sol, and became legendary as the place locals stumble into after a night out, or families visit on a slow Sunday morning, for one thing: churros con chocolate. That single-minded focus — thin, ridged churros fried to order and served with a cup of chocolate thick enough to stand a spoon in — is what built a 130-year reputation, and it's the same pairing anchoring the new Manila branch. For Filipino diners and expats who've had the Madrid original on a European trip, this is a chance to revisit that memory without the flight; for everyone else, it's an introduction to one of Spain's most enduring café traditions, now recontextualized in a city with its own deep Spanish colonial imprint.

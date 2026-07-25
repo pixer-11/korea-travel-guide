@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Bukit Merese ("Merese Hill") is a low, rounded hill covered in short grass on the coastal road between Kuta Lombok and Tanjung Aan beach, in Kabupaten Lombok Tengah (Central Lombok). It's become one of the most photographed viewpoints in South Lombok, and the reason is simple: from the top you get a sweeping, unobstructed panorama of turquoise bays, white-sand coves, and layered green headlands stretching toward Tanjung Aan and beyond. With a 4.7 rating from nearly 9,000 reviews, it's firmly on the mainstream Lombok circuit rather than a secret spot — expect other visitors, especially around golden hour.

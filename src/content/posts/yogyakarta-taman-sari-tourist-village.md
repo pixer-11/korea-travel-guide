@@ -46,8 +46,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Taman Sari, often called the Water Castle, was built in the 1750s as a pleasure garden and retreat for the Sultan of Yogyakarta, commissioned by Sultan Hamengkubuwono I not long after the founding of the Yogyakarta Sultanate itself. What remains today is a compact complex of bathing pools, sunken gardens, tunnels, and a multi-tiered viewing tower, all rendered in a distinctive mix of Javanese, Portuguese, and Chinese architectural details — a reminder that European and Chinese craftsmen were involved in its original construction. With a 4.6 rating across more than 45,000 reviews, it's one of the most consistently praised sites in the city, and it earns that reputation less for grandeur than for atmosphere: peeling plaster, mossy stone, and a labyrinth-like layout that rewards slow wandering rather than a quick photo stop.

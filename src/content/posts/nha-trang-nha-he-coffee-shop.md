@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Nha Trang's coffee scene is dominated by glossy, air-conditioned chains along the beach road, which is exactly what makes Nha He Coffee Shop stand out. Set down a residential alley off Nguyễn Thiện Thuật, it's the kind of hideaway locals text each other about rather than something you'd stumble into by accident. The 4.8-star rating from over 1,250 reviewers is unusually high for any café, let alone one this size, and it points to a consistent, well-run spot rather than a one-off Instagram fad. Expect a garden-courtyard layout with greenery, low stools, and a homey, unhurried atmosphere that feels more like sitting in someone's backyard than a commercial café — a welcome contrast if you've spent the morning dodging tour buses at the beach.

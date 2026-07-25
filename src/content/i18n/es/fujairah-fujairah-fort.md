@@ -17,8 +17,6 @@ faq:
     a: La Mezquita de Al Bidyah (Al Bidyah Mosque) (a unos 30 minutos al norte), el Corniche de Fujairah y las playas de los alrededores de Al Aqah son buenas opciones para completar el día.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El Fuerte de Fujairah (Fujairah Fort) está considerado ampliamente como el fuerte más antiguo de los Emiratos Árabes Unidos, construido entre 1500 y 1550 d. C. — mucho antes que los demás fuertes costeros del país. Se alza sobre un afloramiento rocoso natural que domina Al Sharyah, lo que le confería una posición defensiva privilegiada para vigilar el acceso desde las montañas Hajar hacia la costa. La estructura está construida con materiales locales — piedra, adobe y coral — y su silueta de tres torres circulares unidas por gruesos muros defensivos es una de las vistas más fotografiadas de la ciudad de Fujairah. No se trata de un fuerte convertido en pieza de museo perfectamente cuidada; buena parte de su atractivo reside en que todavía parece una fortificación en funcionamiento que ha resistido cinco siglos, incluidos los disparos de cañón de principios del siglo XX.

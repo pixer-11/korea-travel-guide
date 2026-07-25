@@ -42,8 +42,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Strasbourg at Christmas
 
 Strasbourg calls itself the "Capitale de Noël" (Capital of Christmas), and it has the paper trail to prove it — the market traces back to 1570, making it one of the oldest Christmas markets in Europe. The half-timbered houses of the Petite France district, the pink sandstone bulk of Strasbourg Cathedral, and canals threading through the old town give the decorations a backdrop that feels genuinely medieval rather than manufactured. Unlike a single-square market, Strasbourg spreads roughly a dozen themed markets across the city center, so the whole historic core becomes one continuous, walkable event.

@@ -29,8 +29,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting. See our [editorial policy](/about).
-
 ## Why go
 
 Jeonju Hanok Village is the best place in Korea to see traditional hanok architecture at scale rather than in isolated pockets. Roughly 800 hanok buildings sit clustered across the Pungnam-dong and Gyo-dong neighborhoods, many still functioning as homes, guesthouses, teahouses, and craft workshops rather than museum pieces. Jeonju itself has long been considered the spiritual home of Korean cuisine and Confucian heritage — this is the birthplace of the Jeonju Yi clan, ancestors of the Joseon dynasty's royal family, which is why the village sits directly beside Gyeonggijeon Shrine, built in 1410 to house a portrait of King Taejo, the dynasty's founder.

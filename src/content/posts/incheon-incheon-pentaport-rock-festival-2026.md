@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why go
 
 Pentaport is South Korea's longest-running large-scale rock festival, held annually in Incheon since the mid-2000s, and it's one of the few Korean festivals that consistently books major international rock acts alongside a deep bench of domestic indie and rock talent. The 2026 edition is headlined by the Pixies, one of alternative rock's most influential bands, with Korean acts hyukoh (a fixture of the Korean indie scene, known for blending dream-pop and rock) and LEE SEUNG YOON also on the bill. Unlike Korea's K-pop-centric festival circuit, Pentaport draws a mixed crowd of local rock fans, expats, and international festival-hoppers who come specifically for guitar music, making it a good entry point for visitors who want a Korean festival experience without a K-pop focus.

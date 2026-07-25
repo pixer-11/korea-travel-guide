@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why go
 
 Kubaba is the kind of opening Paris tends to produce every few years: a design-forward restaurant from an established hospitality group that turns a meal into a stage set. This one comes from Dalia Group's Benjamin Cohen and Julien Casbas, the team behind several of the city's more theatrical dining rooms, and it leans hard into Levantine cuisine and North African-inflected decor. Spread across three floors and 360 square metres of a former butcher's shop, the space was reimagined by designer Laleh Amir Assefi with leopard-print carpeting and khaïma-tent motifs — the kind of look built for both dinner and phone cameras. With 140 seats across the building, it's large enough to anchor a night out but styled enough that it already ranks among the most talked-about restaurant launches in the 1st arrondissement for 2026.

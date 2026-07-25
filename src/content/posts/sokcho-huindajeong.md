@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Sokcho has become one of Korea's most-photographed coastal escapes, thanks to its combination of East Sea beaches, Seoraksan National Park nearby, and a wave of design-forward cafés and restaurants that have opened along its coastal roads in the past few years. Huindajeong (248 Subok-ro, Sokcho-si, Gangwon-do) is part of that new generation of spots — a 4.3-rated venue with 336 reviews that draws both regional travelers and Seoul weekenders looking for a scenic, unhurried stop between the city's main sights. It's not a historic landmark or a decades-old institution; the appeal is contemporary — clean architecture, sea-facing windows or terrace seating, and a menu built around the kind of relaxed, photogenic dining that's become Sokcho's signature.

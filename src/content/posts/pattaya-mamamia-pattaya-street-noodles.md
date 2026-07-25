@@ -46,8 +46,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Pattaya's dining scene is dominated by beachfront seafood houses and international buffets, so a noodle spot pulling a 4.9 rating from 450 reviews stands out — that kind of consistency at a street-food-style operation usually means the recipe and the wok technique haven't changed in years. Mamamia Pattaya Street Noodles fits the classic mold of Thai-Chinese noodle culture: a compact kitchen, high-heat wok work, and bowls built around noodles, broth, and toppings rather than an extensive multi-page menu. For visitors who want an honest, unfussy local meal between beach time and nightlife, this is the kind of place locals actually queue for, not a tourist-menu translation of one.

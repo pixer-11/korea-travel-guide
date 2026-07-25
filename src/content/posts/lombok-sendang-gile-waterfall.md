@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Sendang Gile is one of Lombok's most photographed natural sites, and the rating (4.6 from over 2,000 reviews) reflects how consistently it delivers: a wide curtain of water dropping into a cool pool, framed by rainforest on the lower flank of Mount Rinjani. It's actually two waterfalls in one outing — Sendang Gile itself, a short walk from the entrance, and Tiu Kelep, a taller, more dramatic falls another 30–45 minutes further up the valley. Most visitors combine both into a single half-day trip.

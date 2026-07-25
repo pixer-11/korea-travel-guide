@@ -17,8 +17,6 @@ faq:
     a: 'Sí: están reconocidos conjuntamente como un único sitio Patrimonio Mundial de la UNESCO y están cerca uno del otro en el monte Tohamsan, por lo que la mayoría de los visitantes ven ambos en una excursión de medio día usando la misma línea de autobús.'
 ---
 
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Las imágenes tienen licencia o son de dominio público. Este es un panorama general del área/tema — verifica los detalles específicos de cada lugar antes de visitarlo. Consulta nuestra [política editorial](/about).
-
 ## Por qué Gyeongju es importante
 
 Gyeongju fue la capital del Reino de Silla durante aproximadamente mil años, desde el 57 a. C. hasta el 935 d. C., y por ello toda la ciudad funciona como un museo al aire libre. A diferencia de Seúl, donde la historia queda entrelazada en una metrópolis moderna, los principales sitios de Gyeongju se encuentran en barrios de baja altura rodeados de montículos funerarios cubiertos de hierba, lo que permite caminar desde un complejo de tumbas reales hasta una calle de un pueblo de la era Joseon en cuestión de minutos. La UNESCO ha reconocido tanto las Áreas Históricas de Gyeongju como, por separado, el Templo Bulguksa y la Gruta Seokguram, como Patrimonio de la Humanidad, lo cual da una estructura general a cualquier itinerario: los túmulos y ruinas de palacios del centro por un lado, y los templos de montaña por el otro.

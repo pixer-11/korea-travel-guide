@@ -17,8 +17,6 @@ faq:
     a: El mercado de Omicho está a 5 minutos a pie, y el Jardín Kenrokuen y el Parque del Castillo de Kanazawa están a unos 15-20 minutos caminando, lo que lo convierte en una parada fácil para almorzar antes de una tarde de turismo.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué Kourin Sushi
 
 La reputación de Kanazawa como destino del sushi se basa en los pescados de aguas frías del Mar de Japón (Sea of Japan) y en los productos que circulan a diario por el mercado de Omicho (Omicho Market). Kourin Sushi se encuentra justo al norte de ese mercado, en el antiguo barrio comercial de Bakuromachi, y se ha ganado seguidores fieles (4.7 estrellas en aproximadamente 1,460 reseñas) al servir ese mismo pescado de calidad de mercado en formato de cinta transportadora, lo que mantiene los precios moderados y la rotación rápida. Es el tipo de lugar al que los locales llevan a familiares de visita cuando quieren buen sushi sin reserva ni el precio de un menú formal de varios tiempos.

@@ -17,8 +17,6 @@ faq:
     a: Lo mejor es ir a primera hora de la mañana o última de la tarde para evitar el calor y las aglomeraciones, y la primavera o principios de otoño ofrecen un clima más suave que los meses de verano más intensos; además, el complejo luce muy bonito iluminado por la noche.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por editores, con ayuda de IA. Los datos proceden de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Pocos paisajes urbanos se parecen a este. La Ciudad de las Artes y las Ciencias (City of Arts and Sciences) es un conjunto de relucientes estructuras blancas con forma de concha, diseñadas en gran parte por el arquitecto valenciano Santiago Calatrava, y construidas a lo largo de un tramo de 2 kilómetros del antiguo cauce del río Turia, que fue desviado tras una catastrófica riada en 1957 y convertido en un parque público. El complejo se inauguró por fases entre 1998 y 2005 y se ha convertido en el emblema por excelencia de Valencia, con una valoración de 4,7 estrellas en casi 154.000 reseñas. Incluso quienes se saltan todas las atracciones de pago se marchan impresionados solo con pasear entre los edificios, los estanques reflectantes y los puentes escultóricos.

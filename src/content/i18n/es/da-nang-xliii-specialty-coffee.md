@@ -17,8 +17,6 @@ faq:
     a: 'Sí: está cerca de las Montañas de Mármol y a poca distancia de la playa My Khe, lo que lo convierte en una parada fácil a media jornada entre ambos lugares.'
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué XLIII merece el desvío
 
 Da Nang no carece de cafeterías, pero XLIII Specialty Coffee se ha ganado una reputación —casi 9.500 reseñas en Google y una calificación de 4,7— por ser mucho más que una parada de cafeína. Forma parte de la creciente ola de "cafés destino" de la ciudad, donde la arquitectura, el paisajismo y la calidad de las bebidas se tratan con la misma importancia. Espera asientos distribuidos en varios niveles, un diseño cargado de vegetación y suficientes rincones distintivos (miradores tipo azotea, mesas de jardín, salas con paredes de vidrio) como para que los habituales tengan su rincón favorito. Es el tipo de lugar al que los locales llevan a sus amigos de fuera para presumir de la cultura contemporánea de café de Da Nang, y no una parada rápida de carretera.

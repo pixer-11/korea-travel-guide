@@ -17,8 +17,6 @@ faq:
     a: Llega antes de las 9am si es posible, en un día entre semana, para evitar tanto el calor del mediodía como los grupos turísticos más numerosos que llegan más avanzada la mañana.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El Buda Reclinado es la pieza central de Wat Pho (formalmente Wat Phra Chetuphon Wimon Mangkhalaram), uno de los complejos de templos más antiguos y extensos de Bangkok, que data del siglo XVI y fue ampliado considerablemente bajo Rama I y Rama III. La estatua dorada en sí es enorme: mide alrededor de 46 metros de largo y 15 metros de alto, recubierta de pan de oro, con incrustaciones de nácar que decoran las plantas de los pies y representan 108 símbolos auspiciosos de Buda. El salón es tan estrecho alrededor de la estatua que se observa por secciones, lo cual es parte de la experiencia: no se puede abarcar desde un solo punto, así que caminas a lo largo de ella, pasando por los enormes dedos curvados hasta llegar a los pies cerrados. Wat Pho también se considera el lugar de nacimiento del masaje tradicional tailandés, y los terrenos del templo funcionan a la vez como escuela de formación, por lo que la visita combina historia con una práctica cultural viva. Una calificación de 4.8 en más de 8,000 reseñas refleja lo consistentemente que los visitantes lo consideran uno de los puntos más destacados de Bangkok, y no solo una parada para fotos.

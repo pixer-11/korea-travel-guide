@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why this show matters
 
 Post Malone's catalog — "Circles," "Sunflower," "Congratulations," "White Iverson," and his more recent country-leaning material — has made him one of the few global pop-rap-rock crossover acts still selling out stadiums. This date marks his first-ever concert in Malaysia, part of a broader world tour swinging through Southeast Asia. For fans in the region who've previously had to fly to Singapore, Jakarta, or Bangkok to catch him, a Kuala Lumpur stop is a notable addition — expect strong demand not just from Malaysia but neighboring countries.

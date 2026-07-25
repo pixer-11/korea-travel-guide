@@ -29,8 +29,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting. See our [editorial policy](/about).
-
 ## Why Yeosu's local food scene is worth the detour
 
 Yeosu sits on Korea's southern coast where the Namhae Sea's tidal flats and deep fishing grounds meet, giving the city an outsized reputation for raw and fermented seafood that Seoulites travel hours to eat. Unlike Busan's razzle-dazzle Jagalchi Market, Yeosu's food culture is quieter and more residential — small, family-run hapjib (set-meal restaurants) and market stalls that have served the same handful of dishes for decades. The three dishes locals point to first are ganjang gejang (blue crab marinated in soy sauce, eaten raw), dolgae-jang (a spicy blood-clam and vegetable dish, often mixed with rice and toasted seaweed), and jangeo gui (grilled conger eel, a summer specialty tied to Yeosu's reputation as Korea's eel capital). Expect banchan (side dishes) built around gat-kimchi, made from the mustard leaf grown specifically in Yeosu's Dolsan district — a hyperlocal ingredient you won't taste the same way anywhere else.

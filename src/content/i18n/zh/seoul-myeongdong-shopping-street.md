@@ -17,8 +17,6 @@ faq:
     a: 明洞圣堂（Myeongdong Cathedral）往南步行不远即到，乐天百货总店（Lotte Department Store Main Branch）和新世界百货（Shinsegae Department Store）则位于街区边缘，适合购买免税商品。
 ---
 
-> **本指南制作方式：** 编辑审校，AI辅助完成。相关信息来自Google Places实时数据；图片均已获得授权或属于公共领域。详见我们的[编辑政策](/about)。
-
 ## 为什么值得一去
 
 明洞位于中区（Jung District），是首尔市中心零售业最集中的街区——密集的步行街网络中，遍布韩国化妆品旗舰店（如Innisfree、Etude、Olive Young、Nature Republic）、快时尚门店和免税百货，中间穿插着各式街头小吃摊。在Google上拥有超过26,000条评论、4.4分的评分，明洞是首尔人气最稳定的商业街区之一——虽然算不上什么隐秘小众之地，但要理解首尔人如何在街头购物、吃东西，这里绝对是必去之处。要有心理准备会遇到人潮；这里的魅力本就不在于清静，而在于那种密集与活力。

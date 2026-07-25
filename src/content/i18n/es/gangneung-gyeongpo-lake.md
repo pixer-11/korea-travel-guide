@@ -17,8 +17,6 @@ faq:
     a: La playa de Gyeongpo (Gyeongpo Beach) está a 5-10 minutos a pie, y la casa Ojukheon (Ojukheon House), la vivienda histórica vinculada al erudito Yi I, está a un corto trayecto en vehículo desde el lago.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El lago Gyeongpo (Gyeongpo Lake) es una laguna somera y salobre separada del mar del Este (East Sea) por una estrecha franja de arena, y es uno de los paisajes emblemáticos de Gangneung — el tipo de lugar sobre el que se escribieron antiguas pinturas y poemas. El lago atrae aves migratorias en los meses más frescos, y sus orillas planas están bordeadas de pinos, parterres de flores y un sendero pavimentado que lo convierte en uno de los lagos más fáciles de recorrer por completo en Corea. Con una calificación de 4.4 basada en casi 600 reseñas, es una parada fiable y muy apreciada, no un desvío desconocido — espera encontrar a otros visitantes, especialmente al atardecer.

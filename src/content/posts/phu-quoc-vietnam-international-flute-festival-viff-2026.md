@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why go
 
 VIFF 2026 is billed as the first-ever international flute festival and competition staged on Phu Quoc, Vietnam's largest island. The roster is unusually strong for a debut edition: organizers cite more than 40 flute artists from 12 countries, headlined by Erin Bouriakov, principal flutist of the New York Philharmonic and a Grammy winner. For classical music travelers, this is a rare chance to see a concentrated international flute lineup — masterclasses, competition rounds, and gala concerts — in a resort setting rather than a conventional concert-hall city, and to combine it with beach time on an island known for Long Beach sunsets and coral reefs off An Thoi.

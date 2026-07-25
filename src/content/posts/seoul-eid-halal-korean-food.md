@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Halal Korean food sounds like a contradiction to many first-time visitors — soy sauce, gochujang, and pork are the backbone of most Korean menus — but Itaewon's Usadan-ro neighborhood has quietly built a small halal food district around the Seoul Central Mosque, and EID Halal Korean Food is one of the standout kitchens there. It takes staples like bulgogi, dak-galbi, and fried chicken and reworks them with halal-certified meat and modified sauces, so Muslim travelers (and anyone curious) can eat Korean comfort food without compromise. With a 4.5-star rating across nearly 1,200 reviews, it's become a reliable stop rather than a novelty act.

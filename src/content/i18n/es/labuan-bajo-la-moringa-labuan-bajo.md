@@ -17,8 +17,6 @@ faq:
     a: Sí, el aeropuerto de Komodo (LBJ) está aproximadamente a 15-20 minutos en coche, lo que lo hace conveniente para una primera o última cena en un viaje a Labuan Bajo.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La escena gastronómica de Labuan Bajo ha crecido enormemente junto con su papel como puerta de entrada al Parque Nacional de Komodo, y La Moringa se ha convertido en una de las direcciones más elogiadas de la ciudad: una calificación de 4.9 sobre más de 2,300 reseñas es una cifra poco común para cualquier restaurante, en cualquier lugar. Se ubica en el rango de precios medio, por lo que funciona igual de bien como parada informal para almorzar entre reservas de barcos que como cena formal después de un día en el agua. El menú combina clásicos indonesios con comida reconfortante occidental, lo que se adapta bien a la mezcla de público de la ciudad: turistas nacionales, grupos de buceo y mochileros internacionales reponiendo energías antes o después de los cruceros de varios días a Komodo.

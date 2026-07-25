@@ -17,8 +17,6 @@ faq:
     a: Muchos campos junto a la carretera en el Luberon, incluidos los cercanos a Bonnieux, se pueden ver y fotografiar gratis desde los bordes del campo; algunas granjas comerciales más grandes en otras zonas de la Provenza cobran una pequeña entrada o venden tours — conviene confirmarlo localmente, ya que varía según la granja y la temporada.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Los campos de lavanda de la Provenza son uno de los pocos paisajes naturales de Europa que resultan realmente sobrecogedores en fotos y que, además, no decepcionan en persona: hileras de un violeta azulado que se extienden hasta el horizonte, a menudo enmarcadas por una granja, una fila de cipreses o las colinas del Luberon a lo lejos. La zona alrededor de Bonnieux, un pueblo en lo alto de una colina dentro del Parque Natural Regional del Luberon, alberga algunos de los campos más fotogénicos y accesibles de la región: un lugar cerca de R7RQ+C9, 84480 Bonnieux, se ha ganado una sólida reputación local (valoración de 4,7 con 81 reseñas) como una de las parcelas mejor cuidadas y más acogedoras para los visitantes, distinta de las vastas hileras comerciales más al este, cerca de Valensole.

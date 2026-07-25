@@ -65,8 +65,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Go
 
 Seongsan Ilchulbong — "Sunrise Peak" — is a tuff cone that erupted from the seabed roughly 5,000 years ago, its walls now forming a dramatic bowl-shaped crater rimmed with jagged rock spires above the sea. It's one of Jeju's three UNESCO World Natural Heritage sites (alongside the Geomunoreum Lava Tube System and Hallasan National Park) and the island's most photographed silhouette — the volcanic cone that appears on postcards and posters of Jeju. Unlike Hallasan, this is a short, high-reward climb: most visitors are up and down within 1 to 1.5 hours, making it an easy add-on rather than a full-day commitment. The name refers to its reputation as one of Korea's best sunrise-viewing spots, though the crater itself, the sweeping coastal views, and the surrounding green pastureland make it worth a visit at any hour.

@@ -17,8 +17,6 @@ faq:
     a: La primavera y el otoño ofrecen el clima más agradable; temprano por la mañana o al final de la tarde hay mejor luz y menos multitudes que al mediodía, especialmente los fines de semana.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Yeonmudae, conocido formalmente como Dongjangdae (동장대) o el Puesto de Mando Oriental, es una de las paradas más pasadas por alto a lo largo de la Fortaleza de Hwaseong, la muralla defensiva del siglo XVIII de Suwon declarada Patrimonio de la Humanidad por la UNESCO. Mientras que la mayoría de los visitantes se dirigen directamente al Palacio Hwaseong Haenggung o a la imponente Puerta Paldalmun, Yeonmudae fue históricamente el campo de desfiles y entrenamiento militar de la fortaleza, donde las tropas se ejercitaban, los comandantes revisaban las formaciones y los arqueros practicaban. Hoy en día es una amplia plaza abierta con un pabellón elevado, flanqueada por pinos maduros, y sigue siendo uno de los pocos lugares dentro de la fortaleza donde los visitantes realmente pueden disparar con arco a un blanco real, lo que ofrece una sensación táctil de la vida militar de la era Joseon que los edificios del palacio por sí solos no proporcionan. Con una calificación de 4.5 en más de 3,000 reseñas, claramente se ha ganado un público fiel entre quienes se toman la molestia de desviarse, aunque rara vez aparece en los itinerarios de quienes visitan Suwon por primera vez.

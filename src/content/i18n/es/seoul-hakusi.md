@@ -17,8 +17,6 @@ faq:
     a: Cheongdam-dong y la vecina Apgujeong están repletas de boutiques insignia de moda, cafeterías de diseño vanguardista y galerías, lo que facilita combinar la zona con una tarde de paseo y compras antes o después de cenar.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA, utilizando fuentes web actuales. Los horarios y detalles cambian: confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué Hakusi destaca
 
 Hakusi forma parte de la creciente ola de restaurantes de menú degustación con influencia japonesa en Seúl, pero su sello distintivo es tan visual como culinario. El espacio reabierto en Cheongdam-dong está compuesto deliberadamente como una naturaleza muerta pictórica: una iluminación cuidada, cerámicas y encuadres pensados para que cada plato se sienta más escenificado que simplemente servido. Esa identidad centrada en el diseño, sumada al nuevo reconocimiento Michelin para 2026, lo ha situado firmemente en el radar de los entendidos gastronómicos de Seúl. Un ejemplo característico del estilo de la cocina es el unagi (anguila de agua dulce) acompañado de pimienta sansho y albahaca, un plato que muestra cómo los chefs se apoyan en la técnica japonesa mientras incorporan notas herbales inesperadas, casi mediterráneas.

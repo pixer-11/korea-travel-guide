@@ -29,8 +29,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting. See our [editorial policy](/about).
-
 ## Why Andong Is a Food Destination, Not Just a Folk Village
 
 Andong is often visited for Hahoe Folk Village and its mask dance tradition, but the city's real claim to culinary fame is its preservation of "Confucian noble" home cooking. Because Andong was historically a stronghold of Confucian scholar-gentry (yangban) families, its food culture centers on ancestral-rite cuisine rather than street snacks or seafood-forward menus you'd find on the coast. This makes Andong one of the few places in Korea where a restaurant meal doubles as a small history lesson in Joseon-era dining etiquette.

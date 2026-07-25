@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why Barrafina matters
 
 Barrafina is one of London's most-imitated restaurant formats: a stainless-steel and marble counter, an open kitchen firing tapas to order, and no reservations for counter seats in its original Soho and Covent Garden branches — a model that turned quick Spanish small plates into a genuine dining event. Its arrival in Dubai in late January 2026 marks the brand's first step outside the UK, which is notable in a city that has no shortage of Spanish restaurants but few built around this specific counter-first, watch-the-chefs energy. For visitors who've eaten at the London originals, the Dubai branch is a chance to see whether the format translates; for those who haven't, it's an introduction to one of the more influential tapas concepts of the last two decades.

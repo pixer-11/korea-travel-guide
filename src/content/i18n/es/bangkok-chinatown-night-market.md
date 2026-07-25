@@ -17,8 +17,6 @@ faq:
     a: Wat Traimit (el templo del Buda de Oro) está a unos 10 minutos a pie hacia el sur, y el mercado de Sampeng Lane es una calle paralela que vale la pena visitar de día.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El barrio chino de Bangkok, conocido localmente como Yaowarat, ha sido un centro del comercio y la comida callejera chino-tailandesa desde finales del siglo XVIII, cuando los comerciantes chinos se asentaron a orillas del río Chao Phraya. Hoy en día, el Mercado Nocturno de Chinatown (concentrado en torno a Maha Chak Road y Yaowarat Road, distrito de Samphanthawong) es uno de los tramos con mayor concentración de puestos de comida callejera de la ciudad, con una calificación de 4.5 en Google basada en casi 3,900 reseñas, una señal muy potente para un destino sin menú fijo y con vendedores que cambian constantemente. Esto no es un food hall curado; es un mercado vivo y caótico donde los woks se encienden al caer la noche y el olor a marisco a la parrilla con carbón se mezcla con el del incienso de los templos cercanos.

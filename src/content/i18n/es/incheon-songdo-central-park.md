@@ -17,8 +17,6 @@ faq:
     a: El emblemático espacio cultural Tri-bowl, el centro de convenciones Songdo Convensia y varios complejos comerciales y gastronómicos están todos a poca distancia a pie del parque.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Songdo Central Park es el corazón verde de una de las ciudades planificadas más ambiciosas de Asia. Construido sobre terrenos ganados al mar en el distrito de Yeonsu-gu, en Incheon, el parque se inspiró explícitamente en el Central Park de Nueva York —de ahí su nombre—, pero su rasgo distintivo es claramente coreano: un largo y sinuoso canal de agua de mar, alimentado directamente por el Mar Amarillo, que recorre unos 1,8 km a través del centro del parque. A diferencia de la mayoría de los parques urbanos, este está rodeado de rascacielos de vidrio y acero, entre ellos la torre en espiral G-Tower y la Torre de Comercio del Noreste de Asia (Northeast Asia Trade Tower, NEATT), de 68 pisos, lo que le da a todo el espacio un aire futurista, casi de ciencia ficción, que se ha convertido en uno de los horizontes más fotografiados de Incheon, especialmente al atardecer, cuando las torres se iluminan y se reflejan en el agua.

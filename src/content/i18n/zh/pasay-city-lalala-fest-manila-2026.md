@@ -17,8 +17,6 @@ faq:
     a: Roxas Boulevard沿线的酒店,或是Entertainment City/Bay Area一带(靠近Solaire、Okada、City of Dreams)都离WTC很近,车程不远,而且离SM Mall of Asia也很近,方便用餐和采购日常所需。
 ---
 
-> **本指南制作说明:** 经编辑审阅、借助AI辅助完成,并参考了当前的网络资料。活动日期和门票信息可能会有变动——请务必以官方网站信息为准。详见我们的[编辑政策](/about)。
-
 ## 为什么值得去
 
 LaLaLa Fest在亚洲一直以融合全球独立音乐(indie)与另类流行(alt-pop)阵容、并注重制作水准而闻名,2026年的马尼拉站延续了这一传统,由Steve Lacy和Two Door Cinema Club担纲压轴。对国际乐迷来说,这是一个难得的机会,能以远低于Coachella级别的旅行预算欣赏到这种量级的演出——马尼拉本身是区域交通枢纽,交通便利,而且演出集中在2026年8月21日这一天举行,非常适合安排一个围绕这一晚重头演出展开的长周末行程。

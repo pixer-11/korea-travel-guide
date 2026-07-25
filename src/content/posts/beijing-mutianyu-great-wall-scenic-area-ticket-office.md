@@ -74,8 +74,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Mutianyu
 
 Mutianyu is the Great Wall section most travel guides quietly recommend over the more famous Badaling, and for good reason: it's less crowded, better restored, and set in a dramatic mountain landscape thick with chestnut and pine forest. This stretch was originally built during the Northern Qi Dynasty (6th century) and rebuilt extensively under the Ming Dynasty (1368–1644) to protect the routes leading to the capital. It features unusually dense watchtowers — roughly one every 300 meters — including the well-known Zhengguantai platform, a triple-tower structure that once served as a command post. The ticket office sits at the base of the scenic area and is the starting point for everyone, whether you plan to hike, ride the cable car, or take the toboggan down.

@@ -17,8 +17,6 @@ faq:
     a: Los trenes de SNCF conectan la mayoría de las ciudades sede, pero un coche de alquiler da más flexibilidad para finales rurales como el del Ventoux, donde conviene aparcar en una localidad del valle como Bédoin o Malaucène y subir andando o en lanzadera.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con ayuda de IA, usando fuentes web actuales. Las fechas de los eventos y las entradas cambian; confirma siempre en la web oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El Tour de France Femmes es el evento anual más importante del ciclismo profesional femenino, organizado por la misma entidad (ASO) que organiza el Tour masculino. La edición de 2026, la quinta, consta de nueve etapas y 1175 km, y reúne a los mejores equipos del mundo —pensemos en corredoras de SD Worx-Protime, Lidl-Trek y FDJ-Suez-Futuroscope en los últimos años— durante unos nueve días de competición. A diferencia de un evento en un estadio, verlo desde la carretera es totalmente gratuito, y la carrera pasa por decenas de localidades, así que la mayoría de los espectadores organizan su viaje en torno a una o dos etapas en lugar de a toda la carrera. La etapa destacada de 2026 es una etapa reina con final en alto en la cima del Mont Ventoux, el "Gigante de la Provenza", una subida con un brutal tramo superior sin árboles que lleva décadas decidiendo las batallas por la clasificación general.

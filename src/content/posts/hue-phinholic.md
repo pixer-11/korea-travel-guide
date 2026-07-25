@@ -72,8 +72,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why PhinHolic Matters in Hue's Café Scene
 
 Hue is better known for imperial tombs and citadel walls than for coffee culture, but a new generation of cafés is changing that — and PhinHolic, on Bến Nghé street, is one of the names locals and young Vietnamese travelers now mention first. The name is a pun on "phin," the small metal drip filter that is the backbone of Vietnamese coffee, and it signals the concept: traditional slow-drip brewing dressed up in a design-forward space. With a 4.5 rating across nearly 900 reviews, it has become a reliable stop for travelers who want a break from temple-hopping without sacrificing craft or atmosphere.

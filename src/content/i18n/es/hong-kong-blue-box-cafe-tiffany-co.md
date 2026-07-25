@@ -17,8 +17,6 @@ faq:
     a: A media mañana o a primera hora de la tarde entre semana, fuera del horario típico de almuerzo, suele haber menos gente que los fines de semana, cuando las multitudes de compras de Causeway Bay alcanzan su punto máximo.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Los horarios y detalles cambian: confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El Blue Box Café de Tiffany & Co. es uno de los cruces más singulares de la escena gastronómica de Hong Kong: una casa de joyería que gestiona un concepto de café completo, envuelto en el característico azul huevo de petirrojo de la marca, dentro de una de las direcciones comerciales más pulidas de Causeway Bay. Lo que distingue a esta sede de los otros Blue Box Café de Tiffany en el mundo (Nueva York, Tokio, Shanghái) es el talento culinario detrás de ella: Agustin Balbi, chef del restaurante argentino con estrella Michelin Andō, en Wan Chai, supervisa ahora el menú. La repostería se ha convertido en la gran protagonista, con una Classic Egg Tart y una Pistachio Tart que circulan ampliamente en redes sociales y se han vuelto las tarjetas de presentación del café. Para los visitantes, la experiencia no gira tanto en torno a una comida tranquila, sino a disfrutar de un espacio muy fotogénico y de diseño cuidado, respaldado por una cocina con credenciales genuinas.

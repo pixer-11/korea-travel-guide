@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why go
 
 La Vuelta a España is one of cycling's three Grand Tours, alongside the Tour de France and Giro d'Italia, and the 2026 edition marks its 81st running. What makes it distinctive for spectators is accessibility: unlike a ticketed stadium event, you can stand roadside anywhere along the route for free, and the race rewards fans who chase it through Spain's most dramatic landscapes — high mountain passes, historic city centers, and, this year, a finish at one of the most photographed monuments in the country, the Alhambra in Granada.

@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Kuta Lombok's food scene is dominated by beach warungs and surf-cafe menus of smoothie bowls and nasi goreng, so a kitchen built around "elevated global street food" stands out. Vandal Restaurant takes cues from hawker stalls, night markets, and roadside grills across Asia and beyond, then plates them with a bit more polish — think dishes that riff on satay, bao, tacos, or noodle-bar classics rather than a single-cuisine menu. With a 4.7 rating across 243 reviews, it's built a loyal following without becoming a mass-tourist stop, which keeps the room comfortable even during Lombok's busier dry-season months (roughly May to September).

@@ -17,8 +17,6 @@ faq:
     a: El Palazzo Barberini y su Galleria Nazionale d'Arte Antica están justo en la plaza, y tanto la Fontana de Trevi como los jardines de Villa Borghese están a poca distancia a pie.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA, usando fuentes web actuales. Los horarios y detalles cambian; confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué destaca Luna
 
 La escena de cafés de Roma ha significado tradicionalmente tomar un espresso rápido de pie ante una barra de mármol, pero una nueva ola de cafeterías de especialidad ha ido cambiando ese guion — y Luna, que abrió en 2025 cerca de Piazza Barberini, es una de las incorporaciones más comentadas. Viene del equipo detrás de Faro, una de las cafeterías pioneras de la tercera ola en Roma, y de Aliena Coffee Roasters, así que los granos y los métodos de preparación son un valor conocido para quien haya seguido la escena cafetera de la ciudad en los últimos años. Lo que diferencia a Luna de sus hermanos es el formato: una carta completa de brunch durante todo el día más una panadería propia, todo envuelto en una temática espacial y lunar suelta que se refleja en los nombres y la presentación más que en una decoración recargada.

@@ -7,8 +7,6 @@ quickAnswer: 'Bouillon Gavroche es una brasserie francesa estilo "bouillon" dent
 faq: []
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Los horarios y detalles cambian; confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Bouillon Gavroche importa por lo que revive, no solo por lo que sirve. Los restaurantes "bouillon" nacieron en París en el siglo XIX como comedores para trabajadores: comunales, rápidos y económicos, que servían platos franceses contundentes como el pot-au-feu y el pollo asado a la clase obrera en lugar de a la burguesía. Chartier, en París, es el superviviente más famoso de esa época, y el formato se ha convertido en un referente nostálgico de la cultura gastronómica francesa: comida sin artificios, rotación rápida, servicio con delantal blanco y precios pensados para el día a día más que para ocasiones especiales. Bouillon Gavroche se presenta como el primer restaurante en traer a Asia ese concepto específico de bouillon del siglo XIX, lo que lo convierte en una auténtica novedad para la escena gastronómica de Singapur y no en otro bistró francés genérico más. Para quienes sienten curiosidad por la cultura gastronómica francesa más allá de la alta cocina, esta es una oportunidad de vivir un formato que rara vez sale de Francia.

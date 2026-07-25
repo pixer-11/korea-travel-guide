@@ -83,8 +83,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Al Ain Oasis is one of the oldest continuously cultivated landscapes in the UAE, a 3,000-plus-acre expanse of date palms threaded with the traditional *falaj* irrigation channels that earned the oasis its UNESCO World Heritage listing in 2011. Most visitors come for the shaded walking trails and the Al Ain Oasis Eco-Centre, but few expect to find a genuinely well-made coffee inside the grounds. Ethr — Al Ain Oasis fills that gap. It's a coffee shop built for people who want a proper espresso or pour-over without leaving the palm groves, and its 4.6 rating across more than 1,200 reviews suggests it consistently delivers on that promise rather than coasting on location alone.

@@ -17,8 +17,6 @@ faq:
     a: Sí, especialmente para el Top Deck, que utiliza entradas con horario fijo vendidas online y que permiten evitar parte de la fila de acceso directo; consulta el sitio web oficial de la Torre de Tokio para conocer los precios y horarios actuales.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La Torre de Tokio (Tokyo Tower) vigila la ciudad desde 1958, cuando se construyó como torre de radiodifusión y llegó a ser, brevemente, la estructura más alta de Japón. Con 333 metros de altura, pintada en "blanco Tokyo Tower" y naranja internacional (una combinación de colores exigida por la normativa de aviación), es una prima visual evidente de la Torre Eiffel: patas más esbeltas, pero la misma era de optimismo en celosía de acero. A diferencia del más moderno y comercialmente pulido Tokyo Skytree, al otro lado de la ciudad, la Torre de Tokio se siente como un ícono de mediados de siglo con el que Tokio creció, más que como una máquina turística construida a propósito. Con una calificación de 4.5 sobre casi 100,000 reseñas, sigue siendo uno de los monumentos más queridos de la ciudad, apreciado tanto por su atmósfera retro y el marco que ofrece del skyline (el Monte Fuji es visible en los días despejados de invierno) como por las vistas en sí.

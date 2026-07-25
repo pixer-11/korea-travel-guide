@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Jebel Jais is the highest point in the UAE, part of the Hajar Mountains range that separates Ras Al Khaimah's coastline from the interior desert. The draw isn't a single monument but the mountain itself: a switchback road climbing to around 1,680 metres of paved elevation, dramatic limestone cliffs, and a noticeably cooler climate than the coast — often 10–15°C lower than sea level in RAK. With a 4.6 rating across more than 21,000 reviews, it's firmly established as one of the emirate's headline attractions, not a hidden find, so expect company, especially on weekends.

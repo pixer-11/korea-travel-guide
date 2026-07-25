@@ -17,8 +17,6 @@ faq:
     a: El Templo Bongjeongsa (Bongjeongsa Temple), la Presa de Andong (Andong Dam) y el Museo de la Aldea Folclórica de Andong (Andong Folk Village Museum) están a poca distancia en coche, y el centro de Andong merece una parada para probar platos locales como el jjimdak y el heotjesatbap.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Hahoe ("el río que da la vuelta") se sitúa dentro de un meandro de casi 360 grados del río Nakdong, un foso natural que ha mantenido a la aldea físicamente aislada durante más de 600 años. Es Patrimonio Mundial de la UNESCO (declarada en 2010 junto con la Aldea de Yangdong, Yangdong Village) y, a diferencia de muchas "aldeas folclóricas" restauradas en Corea, esta está realmente habitada: descendientes del clan Pungsan Ryu todavía ocupan muchos de los hanok con tejado de tejas y las casas de campo con techo de paja. La aldea es inseparable del patrimonio coreano de danza enmascarada: el Hahoe Byeolsingut Talnori (un drama de danza enmascarada de origen chamánico) se originó aquí, y las máscaras de madera de Hahoe están reconocidas como Tesoros Nacionales.

@@ -17,8 +17,6 @@ faq:
     a: El Zoco Textil está justo en el borde del barrio, y un paseo en abra cruzando el Creek lleva al Zoco de las Especias y al Zoco del Oro en Deira, formando un recorrido natural de medio día.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por editores, con ayuda de IA. Los datos provienen de información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Al Fahidi (también llamado Bastakiya) es uno de los pocos rincones que sobreviven del Dubái anterior al petróleo, construido a partir de la década de 1890 por familias de comerciantes persas de Bastak que se establecieron a orillas del Creek para comerciar con textiles y perlas. Los edificios bajos de arena y yeso, los cimientos de piedra coralina y las torres de viento (barjeel) fueron diseñados para captar la brisa y refrescar los interiores mucho antes de la llegada del aire acondicionado; la zona es prácticamente una lección al aire libre de arquitectura del desierto. Con una calificación de 4.6 sobre casi 17,000 reseñas, es una de las atracciones más elogiadas de la ciudad de forma constante, así que espera encontrar bastante gente, sobre todo al mediodía y los fines de semana.

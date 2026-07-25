@@ -17,8 +17,6 @@ faq:
     a: El Wat Rong Khun (Templo Blanco) y el Baan Dam Museum (Casa Negra) están a una distancia razonable en coche al norte de la ciudad, lo que permite un recorrido natural de medio día que termina con una comida aquí.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Chivit Thamma Da se traduce libremente del tailandés como "vida ordinaria", y esa filosofía sin pretensiones impregna todo el local: una casa de madera junto al río convertida en café-bistró-bar, a la sombra de un jardín que desciende hacia el río Kok. Se ha convertido en uno de los restaurantes con más reseñas de Chiang Rai —más de 7,000 reseñas y una calificación de 4.6— y no es casualidad. En lugar de apoyarse únicamente en los clásicos del norte de Tailandia, la cocina trabaja con un enfoque internacional, mezclando productos de temporada en una carta que abarca bollería para el desayuno, pastas, sándwiches y platos a la parrilla, además de un programa completo de café y un bar para las bebidas nocturnas. Es ideal para viajeros que buscan una escapada relajada de medio día fuera del casco antiguo, más que una comida rápida cerca de un templo.

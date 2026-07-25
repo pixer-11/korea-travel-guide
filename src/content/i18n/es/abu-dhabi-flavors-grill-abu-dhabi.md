@@ -17,8 +17,6 @@ faq:
     a: Los clásicos a la parrilla de carbón, como los platos mixtos, el shish tawook, las chuletas de cordero y el kofta, servidos con salsa de ajo, hummus y pan plano, son la base de este tipo de parrilla.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Flavors Grill Abu Dabi ha acumulado uno de los mayores números de reseñas de cualquier restaurante del emirato: más de 39,000 valoraciones con un promedio de 4.9 estrellas, lo que lo coloca firmemente en el terreno de "muy popular" y no en el de un secreto local tranquilo. El atractivo es sencillo: parrillas de carbón en vivo, generosos platos mixtos y un menú centrado en carnes a la parrilla al estilo levantino y del Golfo, servidas rápido y calientes. Es el tipo de lugar donde el volumen de clientes recurrentes hace el trabajo de marketing por sí solo, sin necesidad de aparecer en una revista de diseño ni contar con un chef famoso.

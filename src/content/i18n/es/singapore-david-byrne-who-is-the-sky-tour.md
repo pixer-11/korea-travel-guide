@@ -17,8 +17,6 @@ faq:
     a: El centro comercial VivoCity está justo al lado del recinto, con opciones de comida y compras, y las atracciones de la isla Sentosa (playas, Universal Studios Singapore, teleférico) están a un corto trayecto si quieres extender la visita.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Las fechas de eventos y las entradas cambian; confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué importa este show
 
 David Byrne, el exlíder de Talking Heads y uno de los intérpretes más singulares del art-rock, trae su gira "Who Is The Sky?" a Singapur en apoyo de su reciente álbum homónimo. Byrne se ha ganado la reputación de montar conciertos como producciones teatrales completas en lugar de espectáculos de rock convencionales: su gira "American Utopia" de 2018-2020 (que después se convirtió en una película dirigida por Spike Lee y en una producción de Broadway) dejó el listón muy alto con coreografías sincronizadas, una movilidad al estilo de banda de marcha y un escenario despojado de cables y amplificadores. La fecha en Singapur continúa esa tradición, con un conjunto en vivo de 13 músicos, cantantes y bailarines que se une a Byrne sobre el escenario. Se espera una mezcla de material nuevo del álbum "Who Is The Sky?" junto con versiones reelaboradas de temas clásicos de la época de Talking Heads, presentados con la precisión visual por la que son conocidos los espectáculos de Byrne.

@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why this show matters
 Post Malone's return to Bangkok after a three-year gap is the headline here. The BIG ASS Stadium World Tour is built for arenas of this scale — expansive stage production, pyrotechnics, and a setlist likely spanning his hits from "Circles" and "Sunflower" to newer material from his more recent country-leaning and pop releases. Rajamangala National Stadium, Thailand's largest stadium with a capacity well north of 50,000, is one of the few venues in Southeast Asia that can physically accommodate a production of this size, which is why it's become the default stop for major stadium tours passing through the region.
 

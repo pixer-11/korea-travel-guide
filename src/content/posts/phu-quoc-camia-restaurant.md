@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Ong Lang is Phu Quoc's quieter alternative to the busy Long Beach strip further south, and Camia Restaurant has become one of the neighborhood's most-talked-about places to eat because it delivers on both setting and execution. A 4.8 rating from more than 2,400 reviewers is unusually high for a restaurant this size, and it typically means the seafood is genuinely fresh, service is attentive rather than rushed, and the beachfront setting isn't just a gimmick tacked onto mediocre food. This is the kind of place travelers build an evening around rather than stumble into by accident.

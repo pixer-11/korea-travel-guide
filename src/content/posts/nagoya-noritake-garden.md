@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Noritake is one of Japan's best-known tableware and porcelain brands, founded in Nagoya in 1904, and this site is the company's original factory grounds turned public park and cultural complex. Unlike a purpose-built museum, the appeal here is the sense of layered history: red-brick kiln buildings from the early 20th century sit alongside ponds, lawns, and contemporary shop pavilions, so you're walking through actual industrial heritage rather than a reconstruction. It's a genuine hidden-gem stop for anyone touring Nagoya beyond the usual castle-and-shrine circuit — quiet, walkable, and rarely thick with tour groups, which is reflected in its solid 4.1 rating across nearly 8,000 reviews.

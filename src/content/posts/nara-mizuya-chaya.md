@@ -41,8 +41,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Mizuya Chaya sits deep inside Nara Park's cedar forest, on the stone-paved path leading up to Kasuga Taisha, one of Japan's most important Shinto shrines and a UNESCO World Heritage Site. The restaurant occupies a weathered, thatched-roof building that feels closer to a mountain teahouse than a city restaurant — low wooden benches, sliding screens, and views onto moss and stone lanterns. With a 4.7 rating from over 1,200 reviews, it's become something of an institution for visitors who want a break from sightseeing without leaving the forest atmosphere. It's not a destination restaurant in the culinary sense; it's a destination because of *where* it is and *how* it feels to eat there.

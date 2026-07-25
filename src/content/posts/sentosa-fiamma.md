@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Sentosa's dining scene is dominated by beach bars, resort buffets, and theme-park snack counters, so a restaurant like Fiamma stands out simply by being a serious, quiet, chef-driven room. Set within the grounds of Capella Singapore, a colonial-era-inspired luxury hotel on the island's northeastern edge, Fiamma serves modern Italian food with the kind of polish you'd expect from a hotel of this caliber — but without the same crowds that swarm Siloso Beach or the Universal Studios area. With a 4.8 rating across 842 reviews, it has built a loyal following without becoming a tourist checkpoint, making it a genuinely under-the-radar choice for a destination that rarely gets described that way.

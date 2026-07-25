@@ -39,8 +39,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Go
 
 Tongyeong is often called the "Naples of the East" for its island-studded coastline, and the best way to grasp why is from above. The Tongyeong Cablecar Skywalk pairs a scenic cable car ascent up Mireuksan with a glass-floor observation deck, giving visitors a rare 360-degree vantage over the harbor city, its shipyards, and the dozens of islands scattered across Hallyeohaesang National Park. With a 4.4 rating across more than 5,500 reviews, it's one of the most consistently praised attractions in the region — not a gimmick stop but a genuine geographic highlight.

@@ -17,8 +17,6 @@ faq:
     a: Camina hasta la isla Odongdo para ver su faro y sus camelias, o sube al teleférico marino de Yeosu (Yeosu Marine Cable Car) entre el parque Jasan y el parque Dolsan para disfrutar de vistas costeras.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Las imágenes tienen licencia o son de dominio público. Este es un resumen general de la zona/tema; verifica los detalles específicos de cada lugar antes de visitarlo. Consulta nuestra [política editorial](/about).
-
 ## Por qué la escena gastronómica local de Yeosu vale el desvío
 
 Yeosu se encuentra en la costa sur de Corea, donde los bancos de marea del mar de Namhae se encuentran con caladeros de aguas profundas, lo que le ha dado a la ciudad una reputación desmedida por sus mariscos crudos y fermentados, tan grande que los habitantes de Seúl viajan horas solo para comerlos. A diferencia del deslumbrante mercado Jagalchi de Busan, la cultura gastronómica de Yeosu es más tranquila y residencial: pequeños restaurantes familiares de menú fijo (hapjib) y puestos de mercado que llevan décadas sirviendo el mismo puñado de platos. Los tres platos que los locales mencionan primero son el ganjang gejang (cangrejo azul marinado en salsa de soja, que se come crudo), el dolgae-jang (un plato picante de almeja de sangre y verduras, a menudo mezclado con arroz y alga tostada) y el jangeo gui (anguila de mar a la parrilla, una especialidad de verano ligada a la fama de Yeosu como la capital coreana de la anguila). Espera banchan (guarniciones) elaborados con gat-kimchi, hecho con la hoja de mostaza que se cultiva específicamente en el distrito de Dolsan, en Yeosu, un ingrediente hiperlocal que no sabrás igual en ningún otro lugar.

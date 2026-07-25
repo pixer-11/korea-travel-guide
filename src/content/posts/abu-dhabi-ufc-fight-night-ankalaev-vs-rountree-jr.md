@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why go
 
 Abu Dhabi has hosted UFC events since the "Fight Island" era during the pandemic, and it has since become a regular stop on the promotion's international calendar thanks to Etihad Arena's production quality and the emirate's tourism push around Yas Island. This card is headlined by a light heavyweight matchup between Magomed Ankalaev, one of the division's most durable contenders known for his wrestling-heavy grinding style, and Khalil Rountree Jr., a hard-hitting striker with a Muay Thai background who has become a fan favorite for his come-forward aggression. A 205-pound fight of this caliber outside the US is a genuine draw for hardcore fans, and it's paired with the kind of undercard depth UFC Fight Night cards typically deliver — expect a mix of regional prospects and veteran gatekeepers, though the full lineup will only be confirmed closer to fight week.

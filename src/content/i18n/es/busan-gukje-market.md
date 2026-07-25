@@ -17,8 +17,6 @@ faq:
     a: El mercado de pescado Jagalchi, las calles comerciales de Nampo-dong y la Plaza BIFF están todos a poca distancia a pie, lo que facilita combinarlos en un itinerario de medio día.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El mercado Gukje no es una atracción turística cuidadosamente diseñada: es un mercado en funcionamiento que abastece a Busan de productos cotidianos desde el caos de la Guerra de Corea, cuando refugiados y comerciantes desplazados montaron puestos para vender lo que pudieran conseguir, incluidos excedentes militares estadounidenses. Ese origen sigue siendo visible en la disposición del mercado: callejones estrechos que se despliegan desde Gukjesijang 2-gil, repletos de tiendas que venden herramientas de segunda mano, telas, utensilios de cocina, aperitivos importados y chaquetas de excedentes militares, junto a puestos de souvenirs más recientes. Con una calificación de 4.1 en casi 13,000 reseñas, se nota que es una parte activa de la ciudad y no un montaje para fotos, lo cual es precisamente su atractivo para quienes quieren ver la historia comercial de Busan en lugar de una versión reempaquetada de ella.

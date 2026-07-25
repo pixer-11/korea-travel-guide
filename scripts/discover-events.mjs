@@ -164,8 +164,9 @@ async function writeDiscovered(item, ctx) {
   const src = kind === 'event'
     ? 'Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site.'
     : 'Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go.';
-  const disclosure = `> **How this guide was made:** ${src} See our [editorial policy](/about).\n\n`;
-  await writeFile(join(POSTS_DIR, `${slug}.md`), frontmatter(data) + disclosure + body + '\n', 'utf8');
+  // Disclosure now lives in the page chrome (collapsed <details> next to the fact
+  // box), not the body — the inline blockquote duplicated it on every post.
+  await writeFile(join(POSTS_DIR, `${slug}.md`), frontmatter(data) + body + '\n', 'utf8');
   existing.add(slug); done.add(key); existingTopics.add(tkey);
   console.log(`    ✅ [${kind}] ${slug}`);
   return true;

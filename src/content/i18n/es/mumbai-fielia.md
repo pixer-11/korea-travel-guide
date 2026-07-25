@@ -17,8 +17,6 @@ faq:
     a: Se supone que la noche es el mejor momento para disfrutar del concepto de iluminación y diseño, pero conviene confirmar el horario de apertura actual directamente, ya que todavía no se ha publicado información confiable al respecto.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Los horarios y detalles cambian; confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué vale la pena conocer Fielia
 
 Fielia llegó en 2026 como una de las aperturas de vida nocturna más comentadas de Mumbai, y el revuelo tiene menos que ver con la carta de tragos que con el edificio en sí. El bar se ubica dentro de una estructura de molino de casi un siglo de antigüedad, reconvertida y reimaginada por la diseñadora convertida en empresaria Gauri Khan bajo lo que su equipo promociona como el primer "Cocktail Cinema" de India: un concepto que juega con iluminación teatral, fondos que evocan pantallas y una distribución pensada para sentirse como ver una película desarrollarse, más que simplemente sentarse en un bar. Los techos de doble altura y los balcones tipo mezanine le dan al espacio una sensación cavernosa, a medio camino entre lo industrial y lo glamoroso, algo poco común en una ciudad donde la mayoría de los bares nuevos se aprietan en locales comerciales estándar. Para quienes siguen la escena de hostelería con diseño de autor en Mumbai, Fielia es un caso de estudio útil sobre cómo se está reutilizando la arquitectura industrial patrimonial para el ocio de alta gama.

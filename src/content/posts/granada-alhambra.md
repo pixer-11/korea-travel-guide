@@ -84,8 +84,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The Alhambra is the best-preserved medieval Islamic palace complex in Europe, built primarily under the Nasrid dynasty in the 13th-14th centuries on a hilltop overlooking Granada. Its reputation (a 4.8 rating from nearly 158,000 reviewers isn't an accident) rests on the intricacy of its stucco and tile work, the engineering of its water channels, and the way the whole site — palaces, fortress, and gardens — tells the story of the last Muslim kingdom in Iberia before the 1492 Christian conquest. The carved cedar ceilings of the Hall of the Ambassadors and the honeycomb muqarnas domes of the Hall of the Two Sisters are among the finest surviving examples of Moorish decorative art anywhere.

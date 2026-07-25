@@ -17,8 +17,6 @@ faq:
     a: La plataforma de observación elevada de madera ofrece una vista parcial de la curva del corazón, pero la forma completa se aprecia mejor desde arriba, así que vale la pena consultar de antemano la normativa si se quiere usar un dron (donde esté permitido localmente).
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Love Lake se gana su nombre a pulso: dos lagos contiguos tallados en el desierto cerca de Al Qudra forman un par de corazones entrelazados, visibles en su totalidad solo desde arriba (las fotos con dron dominan Instagram), aunque siguen siendo impresionantes a nivel del suelo gracias a una plataforma de observación elevada de madera. Se encuentra dentro de la red de lagos Al Qudra Lakes de Dubái, una serie de lagos artificiales creados para reverdecer el desierto y dar apoyo a las aves migratorias, así que además del motivo del corazón podrás ver flamencos, garzas y algún que otro órix merodeando por la zona de conservación cercana. Con una calificación de 4,6 en más de 10.000 reseñas, es sin duda una de las atracciones gratuitas más visitadas de Dubái —hay que esperar un aparcamiento concurrido y un flujo constante de gente, más que un secreto tranquilo del desierto.

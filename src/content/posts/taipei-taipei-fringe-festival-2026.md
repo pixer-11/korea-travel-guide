@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why Go
 
 The Taipei Fringe Festival is Taiwan's answer to the open-access fringe model pioneered in Edinburgh and Adelaide: rather than a single curated program, it's a platform where independent theater makers, dancers, and performance artists — many self-produced, many pushing experimental or boundary-pushing work — rent venues and sell their own tickets under a shared festival banner. For visitors, that means a dense, unpredictable slice of Taipei's contemporary arts scene, spanning black-box theater, devised dance-theater, cabaret, and cross-disciplinary performance, much of it in Mandarin but often with English supertitles or physical/visual work that transcends language. The 2026 edition runs a long stretch — August 23 through October 7 — giving visitors far more flexibility than a typical week-long festival.

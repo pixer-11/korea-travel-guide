@@ -17,8 +17,6 @@ faq:
     a: Huinnyeoul es más pequeño y gira en torno a un espectacular camino peatonal junto al mar, en lugar del laberinto más grande de casas coloridas en la ladera de Gamcheon, y suele atraer a menos grupos turísticos.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Huinnyeoul Culture Village se asienta en una estrecha franja de tierra en la isla de Yeongdo, encajada entre una costa rocosa y una ladera empinada en el distrito de Yeongdo-gu. A diferencia de su prima más famosa, Gamcheon Culture Village, en el lado continental de Busan, Huinnyeoul (흰여울) es más pequeño, más tranquilo y está construido en torno a un único elemento espectacular: un sendero peatonal que discurre justo junto al mar, con las viviendas bajas del pueblo apiladas encima. El nombre se traduce aproximadamente como "rápidos blancos", en referencia a cómo solían romper las olas contra las rocas de abajo durante las tormentas. El barrio fue construido en gran parte por refugiados durante la Guerra de Corea, y en la década de 2010 el gobierno del distrito lo convirtió en un pueblo artístico, añadiendo murales, pequeñas galerías y cafés sin borrar el carácter obrero de las casas originales. El resultado —con una calificación de 4.4 estrellas en casi 9,000 reseñas— es uno de los rincones "escondidos" más fotografiados de Busan, aunque ya no es tan secreto.

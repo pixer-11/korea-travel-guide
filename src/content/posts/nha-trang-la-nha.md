@@ -48,8 +48,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Là Nhà stands out
 
 Nha Trang has no shortage of seafood restaurants chasing tourist dollars, but Là Nhà ("Like Home" in Vietnamese) has built its reputation almost entirely on repeat local and visitor traffic rather than street-side hawking. A 4.8-star average across more than 7,400 reviews is an unusually high and consistent score for a restaurant of its size, and it signals a kitchen that performs well night after night rather than one that got lucky with a few good write-ups. The name gives away the concept: home-style Vietnamese cooking, served in generous portions meant for sharing, in a setting that's casual rather than formal.

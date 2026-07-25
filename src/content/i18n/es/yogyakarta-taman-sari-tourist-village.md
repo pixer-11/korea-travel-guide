@@ -17,8 +17,6 @@ faq:
     a: El Palacio del Sultán de Yogyakarta (Kraton) está a 10-15 minutos caminando, y el kampung (barrio) circundante tiene puestos de batik, murales y pequeños talleres de industria doméstica que vale la pena explorar.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Taman Sari, a menudo llamado el Castillo de Agua, fue construido en la década de 1750 como jardín de placer y retiro para el Sultán de Yogyakarta, encargado por el Sultán Hamengkubuwono I poco después de la fundación del propio Sultanato de Yogyakarta. Lo que queda hoy es un complejo compacto de piscinas de baño, jardines hundidos, túneles y una torre mirador de varios niveles, todo plasmado en una mezcla distintiva de detalles arquitectónicos javaneses, portugueses y chinos —un recordatorio de que artesanos europeos y chinos participaron en su construcción original—. Con una calificación de 4.6 basada en más de 45,000 reseñas, es uno de los sitios más consistentemente elogiados de la ciudad, y se gana esa reputación menos por su grandeza que por su atmósfera: yeso descascarado, piedra cubierta de musgo y una disposición laberíntica que recompensa el paseo pausado más que una foto rápida.

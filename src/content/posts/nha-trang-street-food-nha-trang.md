@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Nha Trang's beach promenade gets the postcards, but the city's real culinary identity lives in its street-food culture — grilled seafood, herb-heavy noodle salads, and central-Vietnamese specialties that rarely make it onto resort menus. Street Food Nha Trang, tucked into a residential stretch of Lý Nam Đế south of the main tourist strip, exists precisely to bridge that gap: a single address where visitors can try a spread of dishes that would otherwise mean hopping between five different sidewalk stalls, each with its own plastic stools and no English menu. With a 4-star rating built on 128-plus reviews, it's become a reliable stop for travelers who want the flavors of Khánh Hòa province without the guesswork.

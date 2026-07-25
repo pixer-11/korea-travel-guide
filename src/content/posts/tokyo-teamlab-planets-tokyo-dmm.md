@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 teamLab Planets TOKYO DMM isn't a museum you view from a distance — you walk through it, often ankle-deep in water, surrounded by projected light, mirrors, and fog. Rated 4.5 stars across more than 54,000 reviews, it's become one of Tokyo's defining "trendy" attractions, less a gallery of static works than an immersive, slightly disorienting sensory experience built around themes of nature, impermanence, and the blurred boundary between body and artwork. It's the kind of place that photographs spectacularly but is genuinely more affecting in person — the koi-and-flower projection room and the mirrored infinity spaces have a scale and softness that don't fully translate to a phone screen.

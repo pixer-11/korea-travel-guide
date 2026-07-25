@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why go
 
 Qingdao's beer culture isn't a marketing gimmick — it's baked into the city's DNA. The Tsingtao Brewery was founded in 1903 under German colonial rule, and Qingdao remains the only Chinese city with a beer named after it recognized globally. The International Beer Festival, held nearly every summer since 1991, turns that heritage into a month-plus open-air party: rows of tented beer gardens, stage performances, fireworks on big nights, and a genuinely international guest list of breweries pouring alongside domestic giants like Tsingtao and Harbin. It's less a wine-tasting-style event and more a boisterous, all-ages carnival — food stalls, carnival rides, and a crowd that swells into the millions over its run.

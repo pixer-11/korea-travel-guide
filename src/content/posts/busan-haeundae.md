@@ -29,8 +29,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting. See our [editorial policy](/about).
-
 ## Why Haeundae Is Busan's Signature Beach
 
 Haeundae is Korea's most famous urban beach, a wide crescent of pale sand backed by a dense wall of high-rise hotels and apartment towers, including the LCT Landmark Tower — one of the tallest residential buildings in the country. The name comes from Choi Chi-won, a Silla-dynasty scholar whose pen name "Haeun" is said to be carved into rocks at nearby Dongbaekseom. Unlike Busan's quieter beaches, Haeundae functions as a full neighborhood: a functioning city district with a beach at its doorstep, which is why it draws both sunbathers and travelers who just want a walkable coastal base with restaurants, cafes, and nightlife layered around it.

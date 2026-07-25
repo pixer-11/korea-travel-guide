@@ -17,8 +17,6 @@ faq:
     a: 'Sí: el Set de Rodaje de Dramas de Suncheon (Suncheon Drama Filming Set) está cerca y es un complemento fácil, y el centro de Suncheon tiene mercados que ofrecen mariscos locales, incluidos platos de berberecho (kkomak) relacionados con las marismas de la bahía.'
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Las imágenes tienen licencia o son de dominio público. Este es un panorama general del área/tema — verifica los detalles específicos del lugar antes de visitarlo. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La Bahía de Suncheon es uno de los humedales de marea más grandes y mejor conservados del mundo, y es la razón por la que Suncheon se promociona como la "Ciudad Jardín" de Corea del Sur. Los campos de juncos de tono verde plateado de la reserva (llamados *galdae* en coreano), las marismas de marea y las grullas residentes han convertido el lugar en un humedal Ramsar declarado por la UNESCO, mientras que el vecino Jardín Nacional de la Bahía de Suncheon —construido para la Expo del Jardín de Suncheon de 2013— transformó la zona en un destino de día completo que combina jardines internacionales paisajísticos con una ecología costera virgen. Pocos lugares en Corea permiten pasar de parcelas de jardines cuidados al estilo francés e italiano a una marisma de marea intacta en la misma tarde.

@@ -69,8 +69,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Qasr Al Hosn is the site around which Abu Dhabi grew, and it's the reason the city exists where it does. The original coral-and-seashell watchtower was built in the 1760s to guard the only freshwater well on the island, and the fort was expanded over the following century into the seat of the ruling Al Nahyan family. It later served as the residence of the rulers, the seat of government, and the national archive before being restored and reopened as a museum. Unlike many "heritage" stops that are reconstructions, this is the genuine article — the oldest surviving structure in Abu Dhabi — which is why it now pulls in thousands of visitors a year and holds a strong 4.6 rating across roughly 8,000 reviews.

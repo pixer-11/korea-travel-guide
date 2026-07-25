@@ -17,8 +17,6 @@ faq:
     a: Cuenta con una experiencia de cena completa de aproximadamente 90 minutos a dos horas, dada la naturaleza de varios platos y el ambiente social del lugar. Los primeros turnos entre semana suelen ser más tranquilos, mientras que las noches de jueves a sábado atraen al público más numeroso y con más ambiente.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA, usando fuentes web actuales. Los horarios y detalles cambian: confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué Bad Roman destaca
 
 Los Ángeles no tiene escasez de restaurantes italianos, pero Bad Roman se concibió para ser diferente desde el momento en que entras. Es el último concepto de Quality Branded Hospitality, el grupo detrás de dos de los restaurantes más comentados de la ciudad en los últimos años, Don Angie y Zou Zou's. Ese linaje importa: ambos restaurantes predecesores se ganaron su reputación con espacios atrevidos y muy trabajados en el diseño, combinados con una cocina segura y de gran atractivo popular, y Bad Roman aplica esa misma fórmula a la comida italiana a una escala mayor y más teatral.

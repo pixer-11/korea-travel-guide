@@ -17,8 +17,6 @@ faq:
     a: 'Prueba el chungmu gimbap y el marisco fresco en el vecino mercado Jungang: es el plato local más conocido de Tongyeong y se vende en los puestos repartidos por todo el mercado, a los pies de la colina.'
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Las imágenes tienen licencia o son de dominio público. Se trata de una descripción general de la zona o el tema; verifica los detalles concretos de cada lugar antes de tu visita. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Dongpirang ("la aldea del acantilado del este") es una de las aldeas de murales originales de Corea, el modelo que inspiró proyectos similares en todo el país. A mediados de la década de 2000, este barrio en la ladera estaba destinado a ser demolido como parte de un plan de reurbanización urbana. Un colectivo de arte cívico y varios voluntarios pintaron murales en las paredes, escaleras y tejados de las casas bajas para llamar la atención del público y salvar la aldea. Funcionó: los murales convirtieron una tranquila ladera de un pueblo pesquero en uno de los rincones más fotografiados de Tongyeong, y el barrio sigue habitado, no es un decorado preparado para el cine. Encontrarás callejones estrechos, vistas al mar, ropa tendida junto a paredes pintadas y una subida algo empinada pero manejable.

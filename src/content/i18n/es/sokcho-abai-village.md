@@ -17,8 +17,6 @@ faq:
     a: Los fines de semana y en la temporada alta del verano hay afluencia de turistas nacionales y esperas más largas para el gaetbae. Ir a última hora de la tarde entre semana, o visitar durante la temporada media de primavera u otoño, resulta más cómodo y aun así ofrece buena luz para las fotos.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con ayuda de IA. Las imágenes tienen licencia o son de dominio público. Este es un resumen general de la zona/tema; verifica los detalles concretos del lugar antes de tu visita. Consulta nuestra [política editorial](/about).
-
 ## Por qué Abai Village es importante
 
 Abai Village (아바이마을) es un pequeño asentamiento con forma de península, encajado entre el Mar del Este y el lago Cheongcho, conectado con el centro de Sokcho por una estrecha barra de arena. Fue fundado por refugiados de la provincia de Hamgyong, en Corea del Norte, durante la Guerra de Corea (1950-53); muchos cruzaron la frontera esperando regresar en unos meses, pero acabaron asentándose de forma permanente en esta lengua de tierra ganada al mar. "Abai" es una palabra del dialecto de Hamgyong que designa a un hombre mayor o figura paterna, y la comida, la disposición del pueblo y sus residentes de más edad siguen conservando esa identidad provincial norcoreana, lo que convierte a este lugar en uno de los pocos de Corea del Sur donde una cultura regional norcoreana distintiva sobrevive abiertamente, en lugar de ser un cliché de "joya escondida".

@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why go
 
 La Vie by Thomas Bühner is the Taipei outpost of German chef Thomas Bühner, whose culinary reputation was built on precise, ingredient-forward cooking that strips dishes down to their essential flavors — what's often described as an "elemental" approach to tasting menus. The restaurant carries one Michelin star and was recently named Best Restaurant in Taiwan 2026 by Savour BlackBookAsia, a signal that it's become one of the city's most talked-about fine-dining tables. For visitors who want to understand where Taipei's high-end dining scene is heading — beyond the beef noodle soup and night market stalls — this is a place to see European technique applied with local ingredients and sensibility.

@@ -71,8 +71,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Ha Long Bay's tourist core is saturated with seafood restaurants aimed squarely at cruise-ship crowds, and prices/quality vary wildly. Vựa Hải Sản Bãi Cháy stands out because it operates on the market-style model common in Vietnamese coastal cities: tanks and ice trays of live seafood out front, priced by weight, which you select yourself before it's carried to the kitchen. This transparency is a big part of why it has built up 1,684+ reviews and a 4.6 average — diners can see exactly what they're paying for rather than trusting a printed menu with vague "seasonal price" listings. It's a restaurant for travelers who want an unpretentious, high-volume, genuinely local seafood experience rather than a hotel buffet or set cruise-boat meal.

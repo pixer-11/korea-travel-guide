@@ -17,8 +17,6 @@ faq:
     a: Las calles de los mercados antiguos de Gyodong y Jongpo están a poca distancia a pie, y las célebres vistas nocturnas de Yeosu en el puente Dolsan (Dolsan Bridge) y la isla Odongdo (Odongdo Island) están a un corto trayecto en taxi, lo que convierte este lugar en una buena parada para cenar temprano antes de dirigirte al paseo marítimo por la noche.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Jeollanam-do está ampliamente considerada como la provincia más obsesionada con la comida de Corea del Sur, y Yeosu —una ciudad portuaria en la costa sur— hereda esa reputación con mesas cargadas de mariscos y repletas de banchan (guarniciones). Bokchun Restaurant, escondido en el barrio de Gyodong, en el núcleo más antiguo del centro de Yeosu, se ha ganado con los años una sólida clientela local, reflejada en su calificación de 4.2 sobre 941 reseñas. Es el tipo de lugar donde el estilo de cocina se inclina hacia lo tradicional más que hacia lo moderno: piensa en guisos, pescado a la parrilla o estofado, y una generosa mesa de guarniciones compartidas que se rellena constantemente, en lugar de un único plato estrella.

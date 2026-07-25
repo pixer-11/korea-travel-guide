@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why go
 
 Shwi is the latest project from the team behind Kubri, one of Paris's better-known Lebanese kitchens, and it arrives with a narrower, sharper focus: Lebanese-style grilled chicken, built for eating on the move or sharing at a canal-side bench. Since opening in spring 2026, it's become one of the 10th arrondissement's talked-about newcomers, riding the same wave of Levantine street-food energy that's reshaped this stretch of Paris over the past few years. If you already know Kubri's cooking, Shwi reads as a spin-off built around a single, well-executed idea rather than a full restaurant menu — the kind of place locals fold into a canal walk rather than plan a whole evening around.

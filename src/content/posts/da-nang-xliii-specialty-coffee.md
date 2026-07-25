@@ -85,8 +85,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why XLIII Is Worth the Detour
 
 Da Nang has no shortage of coffee shops, but XLIII Specialty Coffee has built a reputation — nearly 9,500 Google reviews and a 4.7 rating — on being more than a caffeine stop. It's part of the city's growing wave of "destination cafés," where architecture, landscaping, and drink quality are all treated as equally important. Expect multi-level seating, greenery-heavy design, and enough distinct nooks (rooftop-style perches, garden tables, glass-walled rooms) that regulars often have a favorite corner. This is the kind of place locals bring out-of-town friends to show off Da Nang's contemporary café culture, rather than a quick roadside stop.

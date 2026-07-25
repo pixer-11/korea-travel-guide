@@ -17,8 +17,6 @@ faq:
     a: El restaurante se encuentra entre Jumeirah Village Circle y Al Furjan, ambos con una cultura de cafés y comercios residenciales que vale la pena recorrer a pie, además de estar cerca de la zona de medios de IMPZ.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La escena gastronómica más destacada de Dubái pasa por Downtown, DIFC y JBR, pero la comida callejera más constante y querida de la ciudad a menudo se encuentra en sus polos residenciales de producción y medios de comunicación — lugares pensados para quienes realmente viven y trabajan allí. Street Food Traffic Restaurant LLC, ubicado discretamente dentro del desarrollo Midtown by Deyaar en Dubai Production City, es exactamente ese tipo de hallazgo: una calificación de 4.7 estrellas en casi 700 reseñas, en un barrio que rara vez aparece en las guías de viaje. Es el tipo de parada que recompensa a los viajeros que buscan una comida genuina y sin pretensiones, en lugar de una "experiencia" cuidadosamente montada.

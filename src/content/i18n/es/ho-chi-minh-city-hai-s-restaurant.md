@@ -17,8 +17,6 @@ faq:
     a: El mercado Ben Thanh, la catedral de Notre-Dame, la Oficina Central de Correos de Saigón y la zona mochilera de Bui Vien están todos a 15–20 minutos caminando, lo que facilita armar un itinerario de medio día en torno a la comida.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué destaca Hai's Restaurant
 
 Con una calificación de 4,9 entre casi 8.000 reseñas, Hai's Restaurant es uno de los lugares para comer más elogiados de forma constante en Ho Chi Minh para quienes buscan comida vietnamita confiable y bien ejecutada sin arriesgarse en un puesto callejero al azar. Se ha ganado su reputación a lo largo de años sirviendo tanto a turistas como a expatriados de larga estancia, y eso se nota en los detalles: personal que habla inglés, un menú que explica los platos con claridad y un comedor cómodo para quienes se están iniciando en la cocina vietnamita. No es una joya escondida, sino una institución fiable, y ese es precisamente su atractivo.

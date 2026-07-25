@@ -17,8 +17,6 @@ faq:
     a: El observatorio Cheomseongdae, Daereungwon/Tumuli Park (los túmulos funerarios reales) y el Museo Nacional de Gyeongju están todos a poca distancia a pie o en coche, formando un recorrido histórico natural de medio día.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Las imágenes tienen licencia o son de dominio público. Se trata de una visión general del área/tema — verifica los detalles específicos del lugar antes de tu visita. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Donggung y Wolji (conocido anteriormente como Anapji) se construyó en el siglo VII durante el período de la Silla Unificada como palacio secundario y sede de banquetes para recepciones reales y para agasajar a dignatarios visitantes. El complejo cayó en ruinas con el paso de los siglos, y hacia el siglo XX el estanque se había convertido en una marisma cubierta de vegetación, conocida localmente como Anapji ("estanque de gansos y patos"). Las excavaciones realizadas en la década de 1970 recuperaron decenas de miles de objetos de la era Silla —tejas, dados, documentos de madera y piezas de bronce—, muchos de los cuales se exhiben hoy en el Museo Nacional de Gyeongju (Gyeongju National Museum). Tres de los más de veinte pabellones originales han sido reconstruidos a orillas del estanque, y sus reflejos iluminados por la noche han convertido este lugar en uno de los más fotografiados de Gyeongju, rivalizando incluso con el templo Bulguksa en reconocimiento entre los visitantes internacionales.

@@ -94,8 +94,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Flavors Grill Abu Dhabi has built one of the largest review counts of any restaurant in the emirate — north of 39,000 ratings averaging 4.9 stars — which puts it firmly in "very popular" territory rather than a quiet local secret. The draw is straightforward: live charcoal grills, generous mixed platters, and a menu built around Levantine and Gulf-style grilled meats served fast and hot. It's the kind of place where the volume of repeat custom does the marketing, not a design magazine spread or a celebrity chef.

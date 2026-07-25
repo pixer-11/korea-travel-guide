@@ -17,8 +17,6 @@ faq:
     a: Sí, el estacionamiento del lugar se llena rápido los fines de semana y días festivos. Llega temprano, prepárate para dar vueltas buscando lugar en la calle a lo largo de los caminos de acceso, o usa el shuttle DASH en su lugar.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Inaugurado en 1935, este emblemático edificio Art Decó en la cara sur del monte Hollywood fue construido como observatorio público, uno de los primeros del mundo pensado para visitantes comunes y no solo para astrónomos investigadores, y la entrada al edificio y a los terrenos ha sido gratuita desde entonces. Se ha ganado un público fiel (4.7 estrellas en más de 18,500 reseñas), no solo por la astronomía, sino por su papel como ícono de Los Ángeles: su exterior de cúpula de cobre ha aparecido en *Rebel Without a Cause*, *La La Land* y en incontables postales del horizonte de la ciudad que se extiende hacia el Pacífico. Más allá de las vistas, el propio edificio merece una mirada atenta: relieves de bronce, un friso con pioneros de la astronomía y el péndulo de Foucault que oscila en la rotonda bajo los murales de Hugo Ballin.

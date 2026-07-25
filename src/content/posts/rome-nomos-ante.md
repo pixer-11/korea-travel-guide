@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why go
 
 Nomos Ante has become one of the names Rome's dining scene keeps circling back to since it opened as part of the new Nomos Hotel. The draw is chef Giulio Luigi Zoli, a 35-year-old Roman who has built a technique-driven tasting menu that's drawing the kind of buzz usually reserved for restaurants years into their run. For visitors who want a read on where Rome's contemporary fine-dining conversation is heading right now, rather than another plate of classic carbonara, this is a place to have on the radar. It's the kind of opening food writers flag as a bellwether — young chef, hotel backing, a menu built around technique rather than nostalgia — and that combination is worth experiencing while it's still fresh news rather than established institution.

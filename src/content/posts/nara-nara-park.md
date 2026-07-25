@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Nara Park (Nara Kōen) is less a single attraction than a green, temple-studded district covering roughly 500 hectares at the base of Mount Wakakusa. It's rated 4.6 across tens of thousands of reviews, and the reason is twofold: the deer, and the density of world-class heritage sites packed into walking distance of each other. The sika deer here — over 1,000 of them — are considered sacred messengers of the Shinto gods in local tradition, descended from a deer said to have carried a deity to nearby Kasuga Taisha on a white stag. Centuries of contact with visitors have made them tame enough to bow for crackers, though they're still wild animals and can nip or headbutt if you're slow handing over food.

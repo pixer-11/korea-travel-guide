@@ -17,8 +17,6 @@ faq:
     a: Las mañanas tardías entre semana (alrededor de las 10:30 a 12:00) son más tranquilas; las horas de brunch de fin de semana, especialmente el sábado al mediodía, son las más concurridas dado su gran número de seguidores locales.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué Manly destaca en la escena de cafés de Fukuoka
 
 Fukuoka no tiene escasez de cafés de panqueques listos para Instagram, pero Manly se gana su calificación de 4.5 estrellas (con casi 1500 reseñas) al apostar de lleno por una identidad de pueblo costero australiano, en lugar del estilo japonés-hawaiano más suave que persiguen la mayoría de los locales de brunch. El nombre hace referencia a Manly Beach en Sídney, y el menú lo respalda con empanadas de carne (meat pies), huevos contundentes y pilas de hotcakes, en lugar de los panqueques soufflé ultraligeros por los que Fukuoka es famosa. El interior rústico, con mucho uso de madera, y las pocas mesas al aire libre le dan un aire relajado y soleado, muy distinto al minimalismo elegante de la mayoría de los cafés de Tenjin; es una buena opción si quieres un brunch que se sienta como un destino en sí mismo y no solo una parada rápida.

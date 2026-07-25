@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why visit the Gion Matsuri Festival Gallery
 
 Gion Matsuri is Kyoto's most famous festival, running through the month of July and culminating in the Yamaboko Junko parade on July 17 and 24, when towering wooden floats (yamaboko) are pulled through downtown streets. For the other eleven months of the year, most of that spectacle is packed away in neighborhood storehouses. The Festival Gallery in Gionmachi Minamigawa fills that gap, giving visitors a compact, year-round look at the festival's artistry — think detailed models, historic photographs, and decorative textiles or screens tied to specific floats — without needing to time a trip around the parade dates. For anyone visiting Kyoto outside of July, it's one of the few reliable ways to understand what all the fuss is about.

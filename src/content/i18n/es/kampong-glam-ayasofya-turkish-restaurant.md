@@ -17,8 +17,6 @@ faq:
     a: Masjid Sultan está a dos minutos caminando al final de Bussorah Street, el Malay Heritage Centre está a 5–10 minutos, y las tiendas de textiles y cestas de Arab Street están justo a la vuelta de la esquina.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué Ayasofya debe estar en tu lista de Kampong Glam
 
 Bussorah Street es una de las calles más fotogénicas de Singapur: una hilera de shophouses restauradas de baja altura que se extiende directamente hacia la cúpula dorada de Masjid Sultan, y Ayasofya se encuentra justo en el medio, en el número 51. El restaurante se ha ganado una sólida reputación tanto entre los locales como entre los visitantes, con una calificación de 4.8 en más de 4,500 reseñas, un volumen inusualmente alto para un restaurante de barrio. Se especializa en platos típicos turcos: carnes a la parrilla con carbón, pide (el pan plano turco a menudo descrito como "pizza turca"), sopa de lentejas y platos de mezze como hummus y cacik. El ambiente también hace gran parte del trabajo: mesas al aire libre bajo luces colgantes, con la vista del minarete de la calle como telón de fondo, hacen que sea tanto una experiencia visual como una comida.

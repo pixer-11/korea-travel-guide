@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why Kapitan's Club stands out
 
 Kapitan's Club is one of the newer names generating buzz in Kuala Lumpur's dining scene, and it earns attention for a specific reason: it treats Straits cooking — the hybrid Peranakan, Chinese, Malay, and colonial-era food culture of the old trading ports of the Malacca Strait — with a level of design and presentation usually reserved for fine dining. Rather than the casual kopitiam setting these dishes are traditionally served in, Kapitan's Club wraps them in a sophisticated, elegant room. The name itself nods to the historic "Kapitan" title given to appointed community leaders in colonial-era Malaya, hinting at the heritage storytelling behind the concept.

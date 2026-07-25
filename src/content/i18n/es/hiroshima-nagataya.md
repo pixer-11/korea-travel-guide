@@ -17,8 +17,6 @@ faq:
     a: El Parque Memorial de la Paz (Peace Memorial Park) y la Cúpula Genbaku (A-Bomb Dome) están a unos 10 minutos a pie, y la galería comercial Hondori queda muy cerca, lo que facilita combinarlo con el turismo.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes están licenciadas o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué Nagataya
 
 El okonomiyaki al estilo Hiroshima se apila, no se mezcla — una crepa fina, una montaña de repollo rallado, panceta de cerdo, huevo y fideos yakisoba o udon elásticos, todo prensado sobre una plancha teppan y rematado con una salsa agridulce. Nagataya es una de las direcciones más respetadas de la ciudad para este plato, con una reputación construida durante décadas y una calificación de Google de 4.4 en más de 3,300 reseñas — una señal sólida en una ciudad con cientos de locales de okonomiyaki compitiendo por los mismos turistas y clientes habituales. Lo que lo distingue para los visitantes internacionales es que es uno de los relativamente pocos locales de okonomiyaki en el centro de Hiroshima que ofrece explícitamente versiones veganas y vegetarianas, sustituyendo el cerdo y los componentes tradicionales de la salsa para que los viajeros que siguen una dieta basada en plantas no tengan que renunciar al plato insignia de la ciudad.

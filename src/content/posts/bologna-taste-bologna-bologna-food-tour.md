@@ -70,8 +70,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Bologna's nickname, "La Grassa" (the fat one), isn't marketing spin — the city genuinely anchors Italy's food identity, from mortadella and tortellini to Parmigiano Reggiano and traditional balsamic vinegar, all produced within an hour's drive. A guided tasting tour like Taste Bologna exists because the city's best eating happens behind unmarked counters, inside centuries-old delis, and at market stalls where the good stuff sells out by early afternoon. With a 5-star rating across 912 reviews, this tour has built its reputation on doing the legwork of vetting vendors so visitors don't waste a short trip guessing which salumeria is tourist-trap versus the real thing.

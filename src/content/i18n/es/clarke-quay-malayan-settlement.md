@@ -17,8 +17,6 @@ faq:
     a: 'Sí: el paseo del río Singapur (Singapore River), el puente Read Bridge y el Fort Canning Park están todos a entre 5 y 10 minutos a pie, lo que facilita combinarlo con un paseo nocturno junto al río.'
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Clarke Quay es conocido sobre todo por sus clubes junto al río, cadenas de restaurantes y mariscos a precio turístico, así que un restaurante con una calificación de 4.8 en más de 1,300 reseñas destaca por sí solo. La propuesta de Malayan Settlement es sencilla pero está bien ejecutada: toma el vocabulario de sabores de la cocina peranakan y malaya —pastas de especias para rendang, belacan, gula melaka, sambal— y lo aplica a un menú de estilo occidental de steaks, pastas y platos a la parrilla. El resultado se siente como comida reconfortante de fusión y no como un truco, y se ha convertido en un verdadero atractivo tanto para singapurenses como para visitantes que se alojan cerca del río.

@@ -17,8 +17,6 @@ faq:
     a: 'No: Satay by the Bay se encuentra en la zona exterior gratuita de Gardens by the Bay, así que no necesitas una entrada a los invernaderos de pago Cloud Forest o Flower Dome para comer allí.'
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Satay by the Bay se encuentra en el borde de Gardens by the Bay, cerca de Supertree Grove y de la Meadow, lo que lo convierte en la parada obvia para recargar energías si pasas el día explorando el Cloud Forest, el Flower Dome o las zonas exteriores gratuitas de los jardines. Es un extenso patio de comidas al aire libre, no un restaurante único: decenas de puestos bajo una estructura techada con vistas al jardín, así que puedes disfrutar de toda la variedad de la comida callejera de Singapur sin salir del recinto de Marina Bay. Con más de 6.600 reseñas y una calificación promedio de 4 estrellas, es un destino consolidado en el circuito turístico, pero el tamaño del lugar (y el hecho de que sea al aire libre) hace que rara vez se sienta tan agobiante como un pequeño centro hawker en el centro de la ciudad.

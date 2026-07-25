@@ -45,8 +45,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Vizcaya is one of the few places in Miami where you can walk through an intact Gilded Age estate rather than a reconstruction. Built between 1914 and 1922 as the winter residence of agricultural-industrialist James Deering (of International Harvester money), the mansion blends Italian Renaissance, Baroque, and Rococo styles with a Mediterranean Revival exterior that helped define South Florida's architectural identity for the century that followed. The 4.7-star rating from more than 16,000 visitors isn't hype — the combination of an ornate historic house, ten acres of formal gardens, and a limestone grotto complex facing directly onto Biscayne Bay is genuinely unusual for a U.S. city.

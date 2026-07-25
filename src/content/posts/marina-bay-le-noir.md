@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Le Noir sits inside the sprawling retail and dining complex at Marina Bay Sands, but it doesn't feel like a mall restaurant. The interior leans into a dark, theatrical aesthetic — think black lacquer, gold accents, oversized floral installations, and moody lighting — that has made it a favorite backdrop for photos as much as for the food and drink itself. The venue functions primarily as a bar with a substantial small-plates and dinner menu, which makes it flexible: drop in for a single cocktail, or settle in for a longer evening of shared dishes. A 4.8 rating from over 3,000 reviews is a strong signal for a venue this size, and it reflects consistency rather than a one-off trend.

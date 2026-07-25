@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why go
 
 Rock en Seine has built its reputation over two decades as one of Europe's more eclectic late-summer festivals, mixing arena-sized headliners with buzzy indie, punk, hip-hop and electronic acts across several stages set in a genuinely grand outdoor setting. The 2026 edition, scheduled for August 26–30, leans heavily into rock heritage with The Cure and Nick Cave & The Bad Seeds anchoring the bill, while Tyler, the Creator brings a very different energy, and Deftones and Turnstile add heavier, mosh-friendly sets. For visitors, the appeal isn't just the music — it's seeing a top-tier lineup inside the Domaine national de Saint-Cloud, a former royal estate with landscaped terraces and forest that feels far removed from a typical festival car park or fairground.

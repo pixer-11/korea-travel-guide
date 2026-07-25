@@ -17,8 +17,6 @@ faq:
     a: Sí, los tres lugares se encuentran en la misma península histórica de Sultanahmet, a entre 10 y 15 minutos a pie entre sí, lo que facilita organizar un solo itinerario de medio día.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué visitarlo
 
 El Palacio de Topkapi fue el corazón administrativo y residencial del Imperio otomano desde la década de 1460, cuando Mehmed II comenzó su construcción, hasta mediados del siglo XIX, cuando los sultanes se trasladaron al más nuevo Palacio de Dolmabahçe, a orillas del Bósforo. Lo que queda no es tanto un único edificio como un complejo amurallado de patios, pabellones y quioscos con vistas a la confluencia del Cuerno de Oro, el Bósforo y el Mar de Mármara. Su calificación (4.6 con más de 100,000 reseñas) refleja tanto la magnitud del sitio como la densidad de lo que alberga: el Tesoro Imperial con el Puñal de Topkapi y el Diamante del Cuchara de 86 quilates, reliquias atribuidas al profeta Mahoma en la sala de las Reliquias Sagradas, y el Harem, donde realmente vivían la familia y el servicio del sultán.

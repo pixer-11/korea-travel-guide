@@ -17,8 +17,6 @@ faq:
     a: Read Bridge, Coleman Bridge, el bloque comercial Central, los embarcaderos de cruceros fluviales y Fort Canning Park están todos a 10-15 minutos a pie.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La reputación de Clarke Quay se construye sobre su vida nocturna: shophouses iluminadas de neón, bares junto al río y el techo cubierto "Cloud Forest" sobre la franja principal. Home Dawn Cafe @ Clarke Quay ofrece un registro completamente distinto: un café más calmado y apto para el día, ubicado en el Block 3A River Valley Road, una calle atrás del flujo turístico principal. Con una calificación de 4.5 en casi 900 reseñas, se ha ganado un público fiel sin convertirse en una parada habitual del típico recorrido de bares de Clarke Quay, lo que lo convierte en una opción realmente buena si quieres disfrutar del entorno junto al río del barrio sin la multitud de la zona de clubes.

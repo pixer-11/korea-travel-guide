@@ -17,8 +17,6 @@ faq:
     a: Ropa por capas para los días cálidos y las noches más frescas, además de equipo para la lluvia, ya que el Domaine national de Saint-Cloud es un recinto al aire libre con poco refugio.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, utilizando fuentes web actuales. Las fechas y entradas de los eventos cambian: confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Rock en Seine se ha ganado su reputación a lo largo de dos décadas como uno de los festivales de final de verano más eclécticos de Europa, combinando cabezas de cartel de talla mundial con actos indie, punk, hip-hop y electrónicos en auge, repartidos en varios escenarios dentro de un entorno al aire libre realmente grandioso. La edición de 2026, programada para el 26 al 30 de agosto, apuesta con fuerza por la herencia del rock, con The Cure y Nick Cave & The Bad Seeds como pilares del cartel, mientras que Tyler, the Creator aporta una energía muy distinta, y Deftones y Turnstile suman actuaciones más contundentes y propicias para el mosh. Para los visitantes, el atractivo no es solo la música, sino ver un cartel de primer nivel dentro del Domaine national de Saint-Cloud, una antigua finca real con terrazas ajardinadas y bosque que se siente muy alejada del típico aparcamiento o recinto ferial de un festival.

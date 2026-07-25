@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Habun Restaurant has quietly earned one of the strongest review scores of any eatery in Ras Al Khaimah — a 4.8 average across 642 reviews is not a number restaurants stumble into by accident. It sits in Khuzam, inside the Grove Village area, away from the beach resorts and shopping malls that pull most visitors' attention. That location is part of the appeal: this is a restaurant that has grown its reputation locally and organically rather than through footfall from tourist strips, and it still flies under most visitors' radar despite the numbers backing it up.

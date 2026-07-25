@@ -45,8 +45,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The SkyPark Observation Deck crowns Tower 3 of Marina Bay Sands at 10 Bayfront Avenue, 56 floors above the bay. It's the only public viewpoint that puts you level with the iconic surfboard-shaped hotel silhouette while looking down at the very gardens and skyline that make Marina Bay recognizable worldwide. From the open-air deck you get an unobstructed 360-degree sweep: the Supertree Grove and domed conservatories of Gardens by the Bay directly below, the Singapore Flyer across the water, the Central Business District towers, and on clear days a view stretching toward the Southern Islands and the Strait of Singapore. At 4.6 stars across nearly 14,000 reviews, it's firmly established as one of the city's must-do attractions rather than a niche find.

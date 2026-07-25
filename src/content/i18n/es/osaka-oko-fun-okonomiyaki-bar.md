@@ -17,8 +17,6 @@ faq:
     a: El canal de Dotonbori, la galería comercial de Shinsaibashi y el mercado Kuromon Ichiba están todos a poca distancia caminando, ideales para ampliar el recorrido gastronómico por Osaka.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El okonomiyaki es el plato reconfortante por excelencia de Osaka: una especie de tortita salada de col rallada, masa y el relleno que elijas —cerdo, mariscos o queso—, cocinada en una plancha teppan y rematada con un entramado de salsa okonomiyaki, mayonesa, copos de bonito y alga seca. OKO - Fun Okonomiyaki Bar se ha ganado una sólida reputación tanto entre locales como entre visitantes por hacerlo muy bien y a precios accesibles, algo que respalda su calificación de 4.7 con más de 2,500 reseñas, un volumen y una puntuación inusualmente altos para un local informal. Se ubica en el nivel de precio más bajo (priceLevel 1), lo que significa que está pensado como una comida sencilla y económica más que como un gasto especial, y por eso resulta una excelente opción para una cena rápida o un bocado nocturno mientras recorres los bares de Dotonbori.

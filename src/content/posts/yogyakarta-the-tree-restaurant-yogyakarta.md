@@ -46,8 +46,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The Tree Restaurant Yogyakarta sits in Dowang Sari hamlet, part of Sambirejo village in Kecamatan Prambanan, Kabupaten Sleman — a rural stretch of Yogyakarta's special region best known for one thing: Prambanan Temple, the towering 9th-century Hindu complex a short drive away. The restaurant's draw is the setting rather than a single signature dish — open-air, tree-shaded seating, rice-field or garden views depending on the layout, and a slower pace than anything you'll find near Malioboro Street. With a 4.8 rating across 133 reviews, it has built a strong reputation without becoming a mass-tourism stop, which keeps the atmosphere unhurried.

@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Al Noor Island is a small, landscaped island in the middle of Khalid Lagoon, connected to the mainland by a pedestrian bridge near Al Majaz 1. It's Sharjah's answer to a quiet green escape inside a busy waterfront city: a mix of gardens, sculpture, a glass butterfly house, and a striking book pavilion, all wrapped around the lagoon with skyline views back toward Buhairah Corniche. It's compact enough to see without a full day trip but distinctive enough to be worth building an afternoon around, especially if you're already exploring Al Majaz Waterfront or the Sharjah Corniche area.

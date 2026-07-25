@@ -17,8 +17,6 @@ faq:
     a: 10月至次年4月期间，庭院座位区的体验更为舒适；至于一天之内，午餐或傍晚早些时段通常比晚餐高峰更为悠闲。
 ---
 
-> **本指南制作说明：** 经编辑审核，AI辅助生成。内容数据来自Google Places实时信息；图片为授权使用或公共领域素材。详见我们的[编辑政策](/about)。
-
 ## 为什么值得一去
 
 Al Khayma Heritage Restaurant是迪拜最受热议的传统阿联酋美食餐厅之一，其用餐环境也毫不逊色——庭院仿照贝都因"khayma"（帐篷）风格打造，低矮座椅、编织织物、灯笼光影交织。它坐落于Al Fahidi历史街区（Al Fahidi Historical Neighbourhood）内，这片风塔林立的街区同时也是迪拜博物馆（Dubai Museum）和穆罕默德文化理解中心（Sheikh Mohammed Centre for Cultural Understanding）的所在地，因此这里既是用餐地点，也是漫步老迪拜Bur Dubai区时的文化地标。凭借4.9分的高评分、近17,700条评价，这里绝非默默无闻的小店——它早已成为一个真正意义上的目的地，人潮也印证了这一点。

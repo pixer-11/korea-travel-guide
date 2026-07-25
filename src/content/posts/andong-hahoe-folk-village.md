@@ -45,8 +45,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Hahoe ("river turning back") sits inside a near-360-degree loop of the Nakdong River, a natural moat that has kept the village physically isolated for over 600 years. It's a UNESCO World Heritage Site (inscribed in 2010 alongside Yangdong Village) and, unlike many restored "folk villages" in Korea, this one is genuinely lived in — descendants of the Pungsan Ryu clan still occupy many of the tile-roofed hanok and thatched farmhouses. The village is inseparable from Korea's mask-dance heritage: the Hahoe Byeolsingut Talnori (a shamanistic mask dance drama) originated here, and the wooden Hahoe masks are recognized as National Treasures.

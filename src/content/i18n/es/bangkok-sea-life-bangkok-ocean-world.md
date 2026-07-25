@@ -17,8 +17,6 @@ faq:
     a: Madame Tussauds Bangkok está en el mismo edificio, y Siam Center, Siam Discovery y MBK Center están todos a poca distancia a pie para más opciones de compras y comida.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 SEA LIFE Bangkok Ocean World es uno de los acuarios urbanos más grandes del sudeste asiático, construido en dos niveles de sótano (B1-B2) debajo de Siam Paragon, uno de los centros comerciales insignia de Bangkok. Con aproximadamente 4.5 estrellas de más de 30,000 reseñas, se le considera de forma consistente una atracción confiable y apta para familias, en lugar de una trampa para turistas, algo poco común en un acuario dentro de un centro comercial. Su atractivo principal es la escala: cientos de especies marinas, un túnel oceánico de cristal de 270 grados, y una combinación de tanques de exhibición estática con actividades más dinámicas, como proyecciones en el cine 4-D y paseos en bote de fondo transparente sobre el tanque de tiburones.

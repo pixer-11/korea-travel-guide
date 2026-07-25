@@ -17,8 +17,6 @@ faq:
     a: La Catedral de Myeongdong está a un corto paseo hacia el sur, y la sede principal de Lotte Department Store y Shinsegae Department Store se encuentran en los límites del distrito, ideales para compras libres de impuestos.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Myeongdong, en el distrito de Jung, es la franja comercial más concentrada del centro de Seúl: una densa cuadrícula de calles peatonales bordeadas de tiendas insignia de cosmética coreana (Innisfree, Etude, Olive Young, Nature Republic), tiendas de moda rápida y grandes almacenes libres de impuestos, todo ello entrelazado con puestos de comida callejera. Con más de 26,000 reseñas y una calificación de 4.4 en Google, es uno de los distritos comerciales más visitados de la ciudad de forma constante; no es un lugar por descubrir, sino uno genuinamente esencial para entender cómo Seúl compra y come en la calle. Espera multitudes; no se trata de buscar soledad, sino de vivir su densidad y energía.

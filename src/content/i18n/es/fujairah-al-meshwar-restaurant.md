@@ -17,8 +17,6 @@ faq:
     a: El centro comercial Fujairah City Centre está muy cerca, y el Fuerte de Fujairah (Fujairah Fort), el Museo de Fujairah (Fujairah Museum), la Mezquita Al Bidyah y la Corniche de Fujairah se pueden combinar fácilmente con una comida aquí.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Al Meshwar se ha ganado su reputación de la manera más directa: carnes libanesas a la parrilla de carbón, mezze generoso y un servicio ágil, a precios que no castigan salir a comer con frecuencia. Con más de 3,600 reseñas y una calificación de 4.1, es uno de los restaurantes más reseñados de manera constante en Fujairah City, y se ha ganado ese volumen gracias a la confiabilidad más que a la novedad. Este no es un rincón romántico ni un espacio de diseño vanguardista, sino una parrilla libanesa de trabajo a la que terminan yendo tanto los locales como los expatriados y los viajeros de paso por la Costa Este, porque el shawarma y las parrilladas nunca fallan.

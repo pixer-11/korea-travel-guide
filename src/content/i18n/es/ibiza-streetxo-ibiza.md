@@ -17,8 +17,6 @@ faq:
     a: Reserva un taxi o servicio de coche con antelación en lugar de parar uno en la calle — la disponibilidad de taxis en Ibiza se reduce considerablemente durante las noches de temporada alta, sobre todo en horario de cena y de discotecas.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Los horarios y detalles cambian — confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué StreetXO Ibiza es relevante
 
 Dabiz Muñoz es uno de los chefs más condecorados del momento — su buque insignia en Madrid, DiverXO, se ha situado repetidamente entre los World's 50 Best Restaurants y ostenta varias estrellas Michelin. StreetXO es su concepto más teatral y de acceso más sencillo: una propuesta ruidosa y dinámica de street food global filtrada a través de la técnica de la alta cocina, articulada en torno a una cocina abierta y una barra central donde los comensales ven cómo se preparan los platos en tiempo real, en lugar de sentarse en mesas tranquilas y espaciadas. Traer ese formato a Ibiza para la temporada de verano, alojado dentro de The Unexpected Ibiza Hotel, supone una llegada destacada para una isla cuya escena gastronómica suele estar dominada por beach clubs y restaurantes con vistas al atardecer, más que por espacios de concepto liderados por chefs. Para los visitantes que siguen el ecosistema de World's 50 Best o que han comido en las sedes de StreetXO en Madrid o Londres, esta es una oportunidad de ver el formato trasplantado a un contexto insular.

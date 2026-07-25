@@ -17,8 +17,6 @@ faq:
     a: La ermita Hyangiram, el Parque Dolsan (con su puente y su mirador nocturno) y varios pequeños pueblos pesqueros a lo largo de la costa conforman un itinerario combinado fácil de medio día.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El 큰끝등대, o Faro Keunkkeut, se encuentra en el borde de Pyeongsa-ri, en la isla Dolsan, una de las penínsulas que hacen que la costa de Yeosu sea tan recortada y fotogénica. A diferencia de las grandes atracciones de la ciudad —la isla Odongdo, el puente Yi Sun-sin o la ermita Hyangiram—, este faro rara vez aparece en los itinerarios habituales, lo cual es precisamente su encanto. Se trata de una pequeña luz de navegación funcional más que de un monumento, pero su posición en el "extremo grande" (큰끝, su significado literal) del cabo le ofrece una vista despejada de mar abierto hacia el estrecho de Namhae. Con una valoración de 4.3 sobre 124 reseñas, es evidente que cuenta con un círculo fiel de viajeros locales y nacionales, aunque se mantenga fuera de la mayoría de los mapas en inglés.

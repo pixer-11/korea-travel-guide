@@ -17,8 +17,6 @@ faq:
     a: Las mañanas tardías o los primeros atardeceres entre semana son los momentos más tranquilos; las tardes de fin de semana se congestionan mucho en los estrechos callejones, y el ambiente de bares se anima después de las 19:00 los fines de semana.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con ayuda de IA. Las imágenes tienen licencia o son de dominio público. Este es un resumen general del área/tema; verifica los detalles específicos de cada local antes de visitarlo. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Ikseon-dong es uno de los últimos conjuntos de hanok que sobreviven tan cerca del centro de Seúl y, a diferencia del más famoso Bukchon Hanok Village, estas casas bajas de tejado de tejas no son solo para fotos: se han convertido en cafés, bares, casas de té y restaurantes en funcionamiento. El barrio se remonta a la década de 1920, cuando fue uno de los primeros desarrollos planificados de hanok en Seúl. En la última década se ha convertido en uno de los distritos de "callejones ocultos" más fotografiados de la ciudad, comparado a menudo con una versión en miniatura y muy transitable de Insadong, pero con mejor comida y menos tiendas de souvenirs.

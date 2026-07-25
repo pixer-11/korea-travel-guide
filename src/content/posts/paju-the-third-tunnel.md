@@ -44,8 +44,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The Third Tunnel of Aggression is one of four known tunnels North Korea dug under the Demilitarized Zone, discovered in 1978 after a tip from a North Korean defector. Built through solid granite roughly 73 meters below ground, it was engineered to move an estimated 30,000 soldiers per hour toward Seoul, only about 44 km away. Unlike the more remote First and Second Tunnels, the Third is the most accessible to international visitors and the most frequently included on organized DMZ itineraries, which explains its strong reputation among travelers (a 4.6 rating across roughly 3,250 reviews). It pairs history with a rare physical experience: walking into an actual invasion tunnel, hard hat on, well below the surface.

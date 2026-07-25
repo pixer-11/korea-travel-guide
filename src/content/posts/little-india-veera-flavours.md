@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Veera Flavours
 
 Little India has no shortage of banana-leaf restaurants, but Veera Flavours has built a loyal following — a 4.7-star rating across nearly 1,940 reviews is unusually strong for this category of restaurant. It sits in the well-known, well-visited category rather than being an under-the-radar find, so expect a busy dining room, especially around traditional lunch and dinner hours. The draw is straightforward: authentic South Indian vegetarian cooking served the traditional way, on a banana leaf, with rice and a rotating lineup of curries, sambar, rasam, and papadum refilled as you go.

@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why this stop matters
 
 BABYMONSTER, YG Entertainment's newest girl group, launched the "Choom" World Tour as their first major arena run, and the Yokohama dates (August 1–2, 2026) are one leg of an 11-show swing through six Japanese cities, alongside stops in Fukuoka, Chiba, and Nagoya. For fans outside Japan, Yokohama is an appealing pick over Tokyo proper: it's easy to reach from Tokyo, has its own strong hotel and dining scene, and the venue itself — Pia Arena MM — is a modern, purpose-built arena rather than a repurposed convention hall.

@@ -17,8 +17,6 @@ faq:
     a: Vinpearl Safari Phu Quoc, el parque de atracciones Vinpearl Land y Corona Casino se encuentran dentro de la misma zona de Phu Quoc United Center, en Bãi Dài, por lo que es fácil combinarlos con una visita a Grand World.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Grand World Phu Quoc es la respuesta de la isla a una ciudad de entretenimiento al estilo europeo, construida alrededor de una red de canales inspirados libremente en Venecia, con góndolas, puentes en arco y villas de colores pastel que se iluminan al caer la noche. Forma parte del desarrollo más amplio de Phu Quoc United Center, en Bãi Dài, en la costa noroeste de la isla, y se ha convertido en una de las atracciones con más reseñas de Phu Quoc (calificación de 4,5 con casi 14.000 reseñas), en gran parte gracias a su entrada gratuita y su arquitectura fotogénica. A diferencia de un museo o un templo, Grand World funciona más como un distrito de entretenimiento autónomo: se recorre por zonas en lugar de seguir una ruta fija, lo que lo hace flexible para familias, parejas y grupos con ritmos distintos.

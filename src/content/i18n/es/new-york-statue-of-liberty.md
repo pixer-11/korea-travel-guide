@@ -17,8 +17,6 @@ faq:
     a: Sí, el mismo boleto de ferry incluye una parada en Ellis Island, sede del Museo Nacional de la Inmigración en el restaurado Great Hall, que vale la pena recorrer durante 45 minutos a una hora.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Inaugurada en 1886, la Estatua de la Libertad es uno de los monumentos más reconocidos del mundo y un Monumento Nacional administrado por el National Park Service (Servicio de Parques Nacionales). Diseñada por el escultor francés Frédéric Auguste Bartholdi, con una estructura interna de hierro obra de Gustave Eiffel, la estatua de cobre fue un regalo de Francia con motivo del centenario de la independencia estadounidense y la alianza entre ambas naciones. Con una calificación de 4.7 basada en más de 112,000 reseñas, sigue siendo una de las atracciones mejor valoradas de Nueva York de forma constante, no solo por la estatua en sí, sino por las vistas de la bahía hacia el Bajo Manhattan (Lower Manhattan) y Brooklyn.

@@ -17,8 +17,6 @@ faq:
     a: Tunjungan Plaza y la histórica calle comercial de Tunjungan están muy cerca, sobre el mismo corredor central, por lo que es fácil combinarlos con una comida antes o después.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué Black Owl destaca
 
 Surabaya no tiene escasez de híbridos entre café y restaurante, pero Black Owl se ha ganado una de las reputaciones más sólidas de la ciudad, con una calificación de 4.9 en casi 1.800 reseñas, un volumen y una puntuación inusualmente altos para un restaurante de una sola ubicación. Ese nivel de consistencia a lo largo de miles de visitas sugiere un equipo de cocina y servicio que ha pulido los detalles con los que muchos cafés nuevos suelen tener problemas. Se encuentra en Tegalsari, uno de los distritos más céntricos y comercialmente activos de Surabaya, lo que lo convierte en una parada fácil de sumar, ya sea que te alojes cerca de la ciudad antigua, de Gubeng o de la zona comercial a lo largo de Jl. Basuki Rahmat.

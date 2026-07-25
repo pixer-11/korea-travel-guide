@@ -17,8 +17,6 @@ faq:
     a: El Mercado Nambu (especialmente su mercado nocturno de viernes a sábado), los pabellones en la colina de Omokdae e Imokdae, y la Iglesia Católica de Jeondong están todos a poca distancia a pie de las principales calles de restaurantes.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Las imágenes tienen licencia o son de dominio público. Este es un panorama general de la zona/tema; verifica los detalles específicos de cada local antes de visitarlo. Consulta nuestra [política editorial](/about).
-
 ## Por qué Jeonju es la capital gastronómica de Corea
 
 Jeonju ha sido sinónimo de la cocina coreana durante siglos: es la cuna del bibimbap y se encuentra en el centro de la provincia de Jeolla (Jeolla Province), una región famosa en todo el país por sus banchan (acompañamientos) generosos y bien sazonados, y por sus profundas tradiciones de fermentación (gochujang, doenjang y vino de arroz). La UNESCO nombró a Jeonju "Ciudad de la Gastronomía" en 2012, y el reconocimiento está bien merecido: incluso los restaurantes de barrio más modestos suelen superar a locales más elegantes en otras partes de Corea, porque la competencia local y el orgullo por los ingredientes de la región mantienen altos los estándares.

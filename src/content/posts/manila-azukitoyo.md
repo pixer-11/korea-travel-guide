@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why Azukitoyo Is Worth Seeking Out
 
 Manila's dining scene has no shortage of dessert cafés, but Azukitoyo is a different animal entirely. It's a kakigori bar — the Japanese art of finely shaved ice, layered with syrups, creams, and often fruit or bean-based toppings — reimagined through a distinctly Filipino lens. The project comes from Toyo Eatery, the acclaimed modern Filipino restaurant known for reinterpreting local heritage dishes with a chef's precision, working in collaboration with Florilège, the celebrated fine-dining restaurant in Tokyo. That pairing alone signals the level of craft involved: this isn't shaved ice as a quick cooling snack, but as a considered dessert course, built with the same rigor you'd expect from a tasting menu.

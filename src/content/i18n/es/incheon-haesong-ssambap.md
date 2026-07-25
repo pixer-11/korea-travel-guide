@@ -17,8 +17,6 @@ faq:
     a: La isla de Yeongjong (Yeongjong Island) tiene zonas de playa como Eurwangni Beach y el complejo turístico Paradise City cerca, ambas opciones razonables si tienes una escala más larga o te quedas cerca del aeropuerto por la noche.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Ssambap —literalmente "arroz envuelto"— es una de las comidas más comunitarias y centradas en vegetales de Corea: una mesa se llena de lechuga fresca, hojas de perilla, arroz, proteína a la parrilla o guisada, y un pequeño ejército de banchan (guarniciones) que envuelves con la mano y comes en pocos bocados. Haesong Ssambap, en Jung-gu, en la isla de Yeongjong (Yeongjong Island) de Incheon, se ha ganado una sólida reputación local por hacer esto bien a gran escala, con una calificación de 4.0 en casi 3,000 reseñas, señal de que maneja una alta rotación sin perder consistencia. Su ubicación cerca del Aeropuerto Internacional de Incheon (Incheon International Airport) lo convierte en una dirección genuinamente útil, no solo en una curiosidad: es el tipo de lugar que los viajeros usan para comer una comida coreana de verdad en el margen antes de un vuelo o justo después de aterrizar.

@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The Golden Gate Bridge is the reason San Francisco's skyline is instantly recognizable — a 4,200-foot art deco suspension bridge finished in 1937, painted in the famous burnt-orange hue officially called "International Orange." It's rated 4.8 stars across more than 85,000 reviews, and it remains open to cars, cyclists, and pedestrians alike, which means you can experience it several different ways depending on how much time you have. Beyond the engineering spectacle, the surrounding headlands and vista points offer some of the best free views in California.

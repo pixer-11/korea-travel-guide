@@ -48,8 +48,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Rukn Al Falafel Cafeteria won't show up on a "top 10 Ras Al Khaimah" list dominated by beach resorts and mountain lodges, and that's precisely its appeal. This is a working-class cafeteria in the Sidrow area — the kind of Arabic street-food counter found across the UAE's smaller emirates, where the menu revolves around falafel, shawarma, hummus, and grilled sandwiches rather than tasting menus. A 4.3 rating across 659 reviews signals consistency over years of daily service, not a viral moment. It's the sort of stop worth making if you're driving between RAK's old town, the Corniche, or the road up toward Jebel Jais and want something quick, cheap, and genuinely tasty instead of a chain outlet.

@@ -17,8 +17,6 @@ faq:
     a: Sí — anteriormente actuó como invitado durante el fin de semana de conciertos del Gran Premio de F1 de Singapur 2023, pero esta fecha del 25 de septiembre de 2026 es su primer concierto completo como cabeza de cartel en solitario en la ciudad.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Las fechas de los eventos y las entradas cambian — confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué importa este show
 
 Post Malone ya ha actuado en Singapur, pero solo como invitado sorpresa durante la serie de conciertos del fin de semana del Gran Premio de Fórmula 1 de Singapur 2023. La fecha del BIG ASS World Tour del 25 de septiembre de 2026 es diferente: se trata de su primer concierto propiamente dicho como cabeza de cartel en solitario en la ciudad, montado en el National Stadium, con capacidad para 55,000 personas, en lugar de un escenario de festival. Don Toliver, colaborador habitual y compañero de sello discográfico de la escena hip-hop/R&B de Houston, abre la noche — espera un espectáculo que oscila entre el catálogo de géneros mezclados de Post (pop, hip-hop, incursiones en el country-rock) y el sonido trap melódico de Toliver.

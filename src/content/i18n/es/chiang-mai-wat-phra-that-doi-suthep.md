@@ -17,8 +17,6 @@ faq:
     a: Doi Suthep combina bien con los jardines del Palacio Bhubing más arriba en la montaña, un cercano pueblo de la tribu montañesa hmong, y senderos cortos en el Parque Nacional Doi Suthep-Pui.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Wat Phra That Doi Suthep es el templo más sagrado de Chiang Mai y, con 4.7 estrellas en casi 12,000 reseñas, uno de los sitios mejor valorados del norte de Tailandia de forma constante. Fundado en 1383 bajo el rey Keu Naone del reino de Lanna, la leyenda cuenta que un elefante blanco que transportaba una reliquia de Buda subió la montaña, barritó tres veces y murió en el lugar elegido para el templo — de ahí el nombre Doi Suthep ("Montaña Suthep"). El elemento central es un chedi dorado enchapado en cobre que alberga esa reliquia, rodeado de pagodas más pequeñas, campanas, un pequeño museo y una terraza que se abre a vistas panorámicas de la ciudad de Chiang Mai y el valle circundante en días despejados.

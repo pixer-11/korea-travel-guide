@@ -85,8 +85,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Hue's food scene is defined by dishes you won't easily find outside central Vietnam — bún bò Huế (spicy lemongrass beef noodle soup), bánh khoái (crispy turmeric pancake), nem lụi (grilled pork skewers wrapped in rice paper), and com hen (baby clam rice, a Hue specialty tied to the Perfume River). Vietnamese Food - Hue Local Food & FastFood 22 Restaurant, at 22 Trần Huy Liệu, has built an unusually strong reputation among travelers for delivering these dishes at low prices with consistent quality — a 4.9 rating across more than 2,000 reviews is a rare combination in a city full of tourist-facing eateries near the Citadel. The price level sits at the budget end, making it a solid stop for anyone who wants an introduction to Hue's imperial-era cuisine without committing to a formal, pricier restaurant.

@@ -17,8 +17,6 @@ faq:
     a: Calcula entre 45 y 75 minutos, incluyendo una posible espera por mesa durante los picos de almuerzo y cena, especialmente en la temporada alta de noviembre a marzo.
 ---
 
-> **Cómo se hizo esta guía:** Revisado por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué vale la pena ir a Kodam Kitchen
 
 Ao Nang no tiene escasez de restaurantes que persiguen al turista de playa con "comida tailandesa para turistas" cara y aguada. Kodam Kitchen sucursal 1 destaca precisamente porque no entra en ese juego. Con un promedio de 4.7 estrellas a partir de más de 10,000 reseñas, ha construido su reputación haciendo platos tailandeses sencillos, baratos y rápidos, en lugar de apoyarse en una vista frente al mar o una decoración llamativa. El nivel de precio es económico (nivel 1), lo que significa que es un lugar para viajeros que quieren comer como los locales sin el recargo inflado del "menú para farang" común en la franja principal de Ao Nang.

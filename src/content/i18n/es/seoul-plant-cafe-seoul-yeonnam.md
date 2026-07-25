@@ -17,8 +17,6 @@ faq:
     a: Sí — el interior tipo invernadero con densos exhibidores de plantas y luz natural cerca de las ventanas es el principal atractivo, especialmente en primavera y a principios de otoño, cuando la vegetación está en su punto máximo.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Yeonnam-dong se ha convertido en uno de los barrios más fotogénicos de Seúl en cuanto a cultura de cafés, y Plant Cafe Seoul destaca incluso en un distrito repleto de cafés temáticos. Como su nombre indica, el espacio apuesta fuerte por una temática botánica — piensa en vegetación densa, enredaderas colgantes y un ambiente de invernadero o jardín de cristal que lo convierte en un favorito tanto para los amantes del café como para cualquiera que busque un respiro del concreto de Seúl. Con una calificación de 4.5 sobre 251 reseñas, se ha ganado un público fiel entre locales y visitantes por igual, lo cual, en un barrio tan saturado de nuevas aperturas, dice mucho sobre su consistencia.

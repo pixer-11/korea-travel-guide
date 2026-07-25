@@ -41,8 +41,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Talbing-Go
 
 Hahoe Folk Village draws visitors for its UNESCO-listed thatched and tile-roofed houses, the Nakdong River's oxbow bend, and the Hahoe Mask Museum, which houses the wooden talchum (mask dance) masks that gave the village its fame. Talbing-Go sits right at the museum, making it the natural stop for a meal that bookends a museum visit or a village walk without a special detour. With a 4.6 rating from 119 reviews and a moderate price level, it has built a solid reputation among the steady stream of day-trippers who pass through this corner of Pungcheon-myeon.

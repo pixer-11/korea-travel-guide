@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why this show matters
 
 F✦FOREVER is a genuine "supergroup" event for Mandopop and Taiwanese idol-drama fans: Jerry Yan, Van Ness Wu and Vic Chou — three-quarters of the legendary F4 — team up with Ashin, frontman of Mayday, one of the biggest Mandarin rock bands of the last two decades. A lineup like this, spanning acting royalty and arena-rock songwriting, is the kind of one-off collaboration that doesn't tour often, which is why the Kuala Lumpur date on the group's 1st World Tour has generated outsized buzz across Southeast Asia and Greater China fan communities.

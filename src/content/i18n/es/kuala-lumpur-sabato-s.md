@@ -17,8 +17,6 @@ faq:
     a: Las cenas de fin de semana ofrecen el ambiente más lleno y enérgico; una visita entre semana brinda un ambiente similar con algo más de espacio. Confirma el horario vigente antes de ir, ya que los detalles pueden cambiar tras la apertura.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA, usando fuentes web actuales. Los horarios y detalles cambian: confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Qué es Sabato's
 
 Sabato's es el animado restaurante ítalo-americano ubicado dentro del Kimpton Naluria, el hotel Kimpton que da anclaje al distrito financiero de Tun Razak Exchange (TRX) en Kuala Lumpur. El concepto apuesta fuerte por un ambiente neoyorquino de los años 70 —piensa en la energía de la era disco, la señalética retro y un menú de salsa roja pensado para compartir en lugar de la alta cocina recargada—. Es el tipo de lugar diseñado para ser ruidoso, nostálgico y abiertamente social, lo que lo distingue de los comedores más contenidos y minimalistas que dominan la escena gastronómica de alta gama de KL.

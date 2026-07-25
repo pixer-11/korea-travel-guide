@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why go
 
 Tiffany & Co.'s Blue Box Café is one of the more unusual crossovers in Hong Kong's dining scene: a jewelry house running a full café concept, wrapped in the brand's signature robin's-egg blue, inside one of Causeway Bay's most polished shopping addresses. What sets this outpost apart from Tiffany's other Blue Box Cafés worldwide (New York, Tokyo, Shanghai) is the kitchen talent behind it — Agustin Balbi, chef of the Michelin-starred Argentine restaurant Andō in Wan Chai, now oversees the menu. The pastry program has become the headline act, with a Classic Egg Tart and a Pistachio Tart both circulating widely on social media and turning into the café's calling cards. For visitors, it's less about a quiet meal and more about experiencing a design-forward, photogenic space with genuinely credentialed cooking behind the counter.

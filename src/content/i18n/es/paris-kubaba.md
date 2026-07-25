@@ -17,8 +17,6 @@ faq:
     a: El Louvre, el Jardin des Tuileries y la Place Vendôme están todos a 10-15 minutos caminando, lo que facilita combinarlo con una visita turística antes de la cena.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Los horarios y detalles cambian: confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Kubaba es el tipo de apertura que París suele producir cada pocos años: un restaurante con un diseño muy cuidado, de un grupo hostelero ya consolidado, que convierte una comida en toda una escenografía. Este proyecto viene de Benjamin Cohen y Julien Casbas, del Dalia Group, el equipo detrás de varios de los comedores más teatrales de la ciudad, y apuesta fuerte por la cocina levantina y una decoración con acentos norteafricanos. Repartido en tres plantas y 360 metros cuadrados de una antigua carnicería, el espacio fue reimaginado por la diseñadora Laleh Amir Assefi con alfombras de estampado de leopardo y motivos de tienda khaïma: una estética pensada tanto para la cena como para las fotos de móvil. Con 140 asientos en todo el edificio, tiene tamaño suficiente para sostener una noche entera, pero está tan cuidado en su puesta en escena que ya figura entre las aperturas de restaurantes más comentadas del distrito 1 para 2026.

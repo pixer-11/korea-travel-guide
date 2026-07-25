@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why go
 
 The Tour de France Femmes avec Zwift has quickly become one of the marquee events on the women's cycling calendar, and the 2026 edition (August 1–9) is especially notable for starting outside France entirely — a Grand Départ in Lausanne, Switzerland — before the peloton crosses into France for a route built around two legendary set pieces: a summit finish on Mont Ventoux and a closing stage that ends in Nice on the Côte d'Azur. Watching the Tour roadside costs nothing beyond getting yourself to the route, and it's one of the few elite sporting events where spectators can stand meters from the athletes.

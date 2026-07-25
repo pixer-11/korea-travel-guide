@@ -88,8 +88,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Labuan Bajo's harborfront is dense with boat operators, dive shops, and tourist-menu restaurants, but Mimamori Cafe sits a little apart from that scrum on Jl. Soekarno Hatta, the town's main arterial road. It's built its reputation the slow way — a 4.8 rating across 856 reviews is unusually high for a coffee shop in a town that turns over tourists fast, and it hasn't yet been absorbed into the standard tour-agent circuit. That makes it a genuinely relaxed option if you want a proper coffee, a plate of food that isn't rushed, and a place to sit with a laptop or a guidebook without waiters hovering for the next seating.

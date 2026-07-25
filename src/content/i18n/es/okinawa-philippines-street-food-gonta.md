@@ -17,8 +17,6 @@ faq:
     a: 'Sí: está cerca de la noria y las tiendas de American Village, y Sunset Beach queda a solo un par de minutos a pie.'
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La escena gastronómica de Okinawa es famosa por sus propios platos ryukyu, pero la relación de décadas de la isla con las fuerzas militares estadounidenses y con las comunidades del sudeste asiático cercanas también ha dado lugar a rincones de comida callejera internacional genuinamente buena; Philippines Street Food Gonta, en Chatan, es uno de los ejemplos más conocidos. Es un puesto sencillo, sin lujos, más que un restaurante para sentarse a comer, que sirve clásicos filipinos como brochetas de cerdo o pollo a la parrilla (barbacoa estilo inasal), lumpia (rollitos primavera fritos) y halo-halo, el postre de hielo raspado en capas con frijoles, gelatina y leche evaporada. Con una calificación de 4.5 sobre 64 reseñas, se ha ganado seguidores fieles tanto entre locales como entre visitantes que buscan algo distinto a las casas de tempura y bistecs que dominan la zona.

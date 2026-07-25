@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why go
 
 The Tour de France is the sport's biggest stage, and the final weekend is where the overall winner is effectively decided and then celebrated. The 2026 edition — its 113th — started in Barcelona on July 4 and covers 3,333 km across France before a grueling run through the Alps in the closing days. Watching a mountain finish and the Paris arrival in the same trip lets you see both faces of the race: raw suffering on the climbs and pure spectacle on the boulevards. Unlike most major sporting events, admission to the roadside is free — you just need to know where to stand and when.

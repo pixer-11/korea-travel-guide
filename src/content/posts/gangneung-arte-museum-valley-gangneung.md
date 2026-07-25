@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Arte Museum Valley is the Gangneung outpost of the Arte Museum brand, which built its reputation in Yeosu before expanding to Gangwon-do's east coast. Inside a converted, warehouse-scale building at 131 Nanseolheon-ro, rooms are given over entirely to projected digital art: waterfalls that seem to pour down black walls, forests that bloom and decay in loops, and mirrored valleys that multiply light into infinity. With a 4.6 rating across more than 3,000 reviews, it's become one of the most talked-about stops for visitors looking for something other than beaches and seafood in Gangneung. The draw isn't a single famous artwork but the cumulative, walk-through experience — closer to an immersive theater set than a traditional gallery.

@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Tokyo Tower has watched over the city since 1958, when it was built as a broadcasting tower and briefly stood as the tallest structure in Japan. At 333 meters, painted in "Tokyo Tower White" and international orange (a color scheme required by aviation law), it's an obvious visual cousin of the Eiffel Tower — sleeker legs, same era of steel-lattice optimism. Unlike the more modern, commercially slick Tokyo Skytree across town, Tokyo Tower feels like a mid-century icon that Tokyo grew up around rather than a purpose-built tourist machine. With a 4.5 rating across nearly 100,000 reviews, it remains one of the city's most consistently beloved landmarks, prized as much for the retro atmosphere and skyline framing (Mount Fuji is visible on clear winter days) as for the views themselves.

@@ -17,8 +17,6 @@ faq:
     a: 'Sí: la visita gratuita a la nave por sí sola permite ver el interior de la cúpula con frescos de Vasari, las vidrieras de Ghiberti y Donatello, y frescos renacentistas, y combina bien con una mirada al Campanile de Giotto y a las puertas del Baptisterio justo afuera.'
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Santa Maria del Fiore, conocida universalmente como el Duomo, es la cuarta iglesia más grande de Europa y el símbolo de la ambición renacentista de Florencia. Comenzada en 1296 según un diseño de Arnolfo di Cambio, no se terminó hasta casi 150 años después: el verdadero hito llegó en 1436, cuando Filippo Brunelleschi completó la cúpula octogonal de ladrillo sin andamiaje de soporte, usando un diseño autoportante de doble cáscara sin precedentes en su época, que sigue siendo la mayor cúpula de mampostería jamás construida. La fachada de mármol rosa, blanco y verde que se ve hoy es en realidad una incorporación del siglo XIX (1876–1887) obra de Emilio De Fabris; la fachada medieval original fue derribada sin terminar en la década de 1580. Con una valoración de 4.8 por parte de más de 110,000 visitantes, es uno de los sitios más reseñados de Italia, y con razón: este es el corazón cívico de Florencia, no solo un fondo para fotos.

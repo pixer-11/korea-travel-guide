@@ -17,8 +17,6 @@ faq:
     a: Prueba una combinación clásica con paté, cha lua (fiambre vietnamita), rábano daikon y zanahoria en escabeche, pepino, hierbas frescas y un toque de salsa picante; pide que sea 'cay' si quieres que pique más.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con ayuda de IA. Los datos se obtienen de datos en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Banh Mi 25 se ha ganado una reputación —casi 17.000 reseñas en Google y una valoración de 4,5— como una de las paradas de banh mi más fiables del Casco Antiguo (Old Quarter) de Hanói. No es un restaurante pulido; es un puesto callejero que hace una sola cosa a gran escala: rellenar baguettes vietnamitas crujientes con una amplísima variedad de rellenos, desde las combinaciones clásicas de paté y cerdo hasta carnes a la parrilla, huevo y fiambres. Para quien quiera entender por qué el banh mi se convirtió en un producto de comida rápida exportado a todo el mundo, este es un lugar sólido y sin florituras para probar el formato original hecho a gran escala.

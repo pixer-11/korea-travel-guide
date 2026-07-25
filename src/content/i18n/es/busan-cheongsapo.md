@@ -17,8 +17,6 @@ faq:
     a: Al atardecer, o temprano por la mañana entre semana para ver el puerto antes de que lleguen los visitantes de Haeundae. Los fines de semana y las tardes de verano se llena de gente el Dalmaji-gil y el skywalk.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Las imágenes tienen licencia o son de dominio público. Este es un resumen general de la zona/tema; verifica los detalles específicos del lugar antes de visitarlo. Consulta nuestra [política editorial](/about).
-
 ## Por qué vale la pena desviarse hasta Cheongsapo
 
 La mayoría de los visitantes de Busan se quedan en la playa de Haeundae y no llegan a conocer el pequeño pueblo pesquero que se encuentra justo al doblar el promontorio. Cheongsapo (청사포) está entre Haeundae y Songjeong, al pie de la colina conocida como Dalmaji-gogae ("el paso para contemplar la luna"). Sigue siendo un puerto en activo: verás pequeños botes, redes secándose y cajas de plástico con pescado recién capturado, lo que le da un aire más auténtico y menos pulido que el de las cafeterías de la ladera de arriba. El nombre proviene de una antigua historia sobre serpientes azules ("cheongsa") que se veían cerca de la orilla, y el pueblo conserva un carácter tranquilo y sencillo, aunque se ha convertido en una parada fotográfica popular por su faro y su skywalk.

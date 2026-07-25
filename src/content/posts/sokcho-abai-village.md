@@ -29,8 +29,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting. See our [editorial policy](/about).
-
 ## Why Abai Village matters
 
 Abai Village (아바이마을) is a small peninsula-like settlement wedged between the East Sea and Cheongcho Lake, connected to central Sokcho by a slender sandbar. It was founded by refugees from Hamgyong Province in North Korea during the Korean War (1950-53); many crossed the border expecting to return within months and instead settled permanently on this spit of reclaimed land. "Abai" is a Hamgyong dialect word for an older man or father figure, and the village's food, layout, and older residents still carry that North Korean provincial identity — making it one of the few places in South Korea where a distinct North Korean regional culture survives openly, rather than being a hidden-gem cliché.

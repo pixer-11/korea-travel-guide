@@ -17,8 +17,6 @@ faq:
     a: Wat Tham Sua (el Templo de la Cueva del Tigre), el paseo junto al río de Krabi Town y el mercado nocturno de fin de semana están todos a poca distancia en coche, lo que facilita armar un recorrido de medio día.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Into the Forest se ha convertido silenciosamente en uno de los rincones más fotografiados y recientes de Krabi, y las cifras respaldan el fenómeno: una calificación de 4.9 con más de 5,000 reseñas es inusualmente alta para cualquier cafetería-atracción en Tailandia. Lo que la distingue del típico itinerario de playa e islas que suelen seguir la mayoría de los visitantes es su entorno: un paisaje selvático cuidadosamente diseñado en Khao Thong, en el lado interior de Krabi, donde pasarelas de madera elevadas, vegetación tropical y pequeños elementos de agua están pensados tanto para pasear como para fotografiar, no solo para sentarse a tomar un café. Es el tipo de lugar que premia una exploración pausada más que una visita rápida, y ofrece a los visitantes una razón para conocer una faceta de Krabi que no tiene que ver con acantilados de piedra caliza ni barcos longtail.

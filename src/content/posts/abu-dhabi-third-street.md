@@ -70,8 +70,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Third Street isn't a single restaurant with a chef and a wine list — it's a food court, and that's precisely the appeal. In a city where the tourist trail is dominated by hotel buffets and waterfront chains, a genuinely well-rated, low-key food court in Mohamed Bin Zayed City (MBZ City) is a chance to eat the way residents of Abu Dhabi's inland suburbs actually eat on a weeknight. A 4.7 rating from around 100 reviews is a meaningful signal for a food court of this kind: it's not a viral destination racking up thousands of reviews, but a place that has quietly earned the loyalty of the people who eat there regularly.

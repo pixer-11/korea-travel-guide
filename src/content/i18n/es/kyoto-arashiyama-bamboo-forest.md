@@ -17,8 +17,6 @@ faq:
     a: El Templo Tenryu-ji, la Villa Okochi Sanso, el puente Togetsukyo y el Parque de los Monos de Arashiyama (Arashiyama Monkey Park) están todos a 15-20 minutos a pie, y forman un itinerario completo de medio día.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Este es uno de los lugares más fotografiados de Kioto, y con razón: un estrecho sendero sube en pendiente a través de una densa arboleda de bambú que puede alcanzar los 20 metros o más, filtrando la luz del sol en una neblina verde dorada y susurrando incluso con la más ligera brisa. Tiene una calificación de 4.4 con más de 23,000 reseñas, lo que refleja tanto el impacto visual como su capacidad de sorprender incluso cuando hay mucha gente. El bosque se encuentra en Sagaogurayama Tabuchiyamacho, distrito de Ukyo (Ukyo Ward), dentro del área más amplia de Arashiyama, que ha atraído visitantes desde el período Heian (794–1185), cuando los aristócratas construían aquí sus villas para escapar de la ciudad.

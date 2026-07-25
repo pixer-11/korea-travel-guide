@@ -17,8 +17,6 @@ faq:
     a: El Jardín Shukkeien y el Castillo de Hiroshima están a poca distancia a pie o en tranvía, y la isla de Miyajima se puede alcanzar en menos de una hora combinando tranvía y ferry o en ferry directo.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El Parque Memorial de la Paz (Heiwa Kinen Koen) ocupa el antiguo distrito de Nakajima, un bullicioso barrio comercial arrasado por la bomba atómica el 6 de agosto de 1945. Desde 1954, el parque ha servido como el memorial central de Hiroshima y un símbolo global para la abolición de las armas nucleares. Con una calificación de 4.7 en más de 30,000 reseñas, es uno de los lugares más constantemente elogiados de Japón, no por su espectacularidad, sino por la manera sobria y deliberada en que transforma un lugar de destrucción en un espacio de reflexión. La mayoría de los visitantes lo combinan con el Museo Memorial de la Paz de Hiroshima, aunque los monumentos al aire libre del parque ya justifican por sí solos la visita.

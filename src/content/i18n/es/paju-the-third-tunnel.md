@@ -17,8 +17,6 @@ faq:
     a: No, está prohibido fotografiar bajo tierra; en cambio, generalmente se pueden usar cámaras y teléfonos en el centro de visitantes y en los miradores al aire libre.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El Tercer Túnel de Agresión es uno de los cuatro túneles conocidos que Corea del Norte excavó bajo la Zona Desmilitarizada (DMZ), descubierto en 1978 gracias a un aviso de un desertor norcoreano. Construido a través de granito macizo, a unos 73 metros de profundidad, fue diseñado para mover un estimado de 30.000 soldados por hora hacia Seúl, ubicada a solo unos 44 km. A diferencia de los más remotos Primer y Segundo Túnel, el Tercero es el más accesible para los visitantes internacionales y el que se incluye con mayor frecuencia en los itinerarios organizados por la DMZ, lo que explica su sólida reputación entre los viajeros (una calificación de 4,6 en aproximadamente 3.250 reseñas). Combina historia con una experiencia física poco habitual: adentrarse en un túnel de invasión real, con casco puesto, muy por debajo de la superficie.

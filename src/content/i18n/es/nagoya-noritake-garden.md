@@ -17,8 +17,6 @@ faq:
     a: El Museo Conmemorativo de Industria y Tecnología de Toyota (Toyota Commemorative Museum of Industry and Technology) está a poca distancia a pie o en un corto trayecto en taxi, y combina de manera natural con esta visita para dedicar una media jornada en Nagoya al patrimonio industrial.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Noritake es una de las marcas de vajilla y porcelana más reconocidas de Japón, fundada en Nagoya en 1904, y este sitio corresponde a los terrenos de la fábrica original de la compañía, convertidos en un parque público y complejo cultural. A diferencia de un museo construido para tal fin, el atractivo aquí radica en la sensación de historia superpuesta: edificios de horno de ladrillo rojo de principios del siglo XX conviven con estanques, céspedes y pabellones comerciales contemporáneos, de modo que caminas por un patrimonio industrial genuino y no por una reconstrucción. Es una verdadera joya escondida para quienes recorren Nagoya más allá del circuito habitual de castillos y santuarios: tranquilo, fácil de recorrer a pie y rara vez abarrotado de grupos turísticos, lo cual se refleja en su sólida calificación de 4.1 con casi 8.000 reseñas.

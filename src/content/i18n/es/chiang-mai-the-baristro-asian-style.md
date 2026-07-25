@@ -17,8 +17,6 @@ faq:
     a: Está cerca del templo-bosque de Wat Umong, del embalse Ang Kaew de la Universidad de Chiang Mai y de la carretera que sube al Doi Suthep, lo que lo convierte en una buena parada dentro de un itinerario de medio día por la zona de Suthep.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con ayuda de IA. Los datos proceden de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 The Baristro Asian Style se ha ganado una reputación —y una calificación de 4.7 en más de 3,000 reseñas— por ser uno de los café-restaurantes más llamativos visualmente de Chiang Mai. El atractivo está tanto en el ambiente como en el menú: un comedor de techos altos, estilo invernadero, repleto de plantas colgantes, follaje tropical y claraboyas que inundan el espacio de luz natural. Parece una mezcla entre un jardín botánico y un café industrial-chic, lo que lo convierte en un imán para fotógrafos y para cualquiera que busque un descanso de la estética más tradicional de teca y farolillos de los cafés de Chiang Mai. Es una opción de moda precisamente porque no depende de la nostalgia de la ciudad vieja: es moderno, con un fuerte protagonismo vegetal, y está pensado tanto para comer como para quedarse un buen rato.

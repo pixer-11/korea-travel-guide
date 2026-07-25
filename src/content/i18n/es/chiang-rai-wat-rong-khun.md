@@ -17,8 +17,6 @@ faq:
     a: 'Sí: el Templo Azul (Wat Rong Suea Ten) y la Casa Negra (Baan Dam Museum) están en la zona de Chiang Rai y combinan muy bien con Wat Rong Khun para dedicar un día completo al arte moderno de los templos de la ciudad.'
 ---
 
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué vale la pena visitar Wat Rong Khun
 
 Wat Rong Khun, conocido universalmente como el Templo Blanco, es uno de los lugares religiosos más fotografiados de Tailandia y se cuenta constantemente entre las principales atracciones de Chiang Rai (4.6 estrellas en casi 25,000 reseñas). A diferencia de los templos centenarios de Chiang Mai o Ayutthaya, este es una obra de arte viva: el artista tailandés Chalermchai Kositpipat comenzó a reconstruir un templo local en ruinas en 1997, financiándolo íntegramente con recursos propios y donaciones, y la construcción continúa hasta hoy. El yeso completamente blanco, incrustado con fragmentos de vidrio espejado, busca simbolizar la pureza de Buda, mientras que la superficie brillante representa la sabiduría iluminando el universo. Es realmente distinto a cualquier otro wat del país —una mezcla de santuario budista, instalación de arte surrealista y curiosidad de la cultura pop (busca las figuras de Predator, Kung Fu Panda y Superman incorporadas en los murales).

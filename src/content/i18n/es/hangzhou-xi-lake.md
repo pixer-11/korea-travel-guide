@@ -17,8 +17,6 @@ faq:
     a: Busca el pescado agridulce del Lago del Oeste (xihu cuyu) y el pollo del mendigo (jiaohua ji) en los restaurantes de Hubin Road, y prueba el té verde longjing fresco, cultivado en las colinas cercanas, en las casas de té de la aldea de Meijiawu.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El Lago del Oeste ha sido elogiado por poetas, pintores y emperadores chinos durante más de mil años, y es la razón por la que la UNESCO inscribió el paisaje cultural circundante como Patrimonio de la Humanidad en 2011. El lago en sí cubre unos 6,5 kilómetros cuadrados, rodeado de senderos bordeados de sauces, puentes de piedra en arco, templos y pagodas que aparecen en la pintura paisajística clásica china. Los locales lo valoran muy bien (4,7 estrellas en más de 1.100 reseñas), no por un monumento en particular, sino por el efecto acumulativo de caminar o pedalear por la orilla: la vista cambia con cada curva, y se ve genuinamente distinta entre la neblina primaveral, la floración de los lotos en verano, la temporada de contemplación de la luna en otoño y la nieve invernal.

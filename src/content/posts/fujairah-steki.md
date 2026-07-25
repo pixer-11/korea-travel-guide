@@ -48,8 +48,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Steki is a rarity in Fujairah's restaurant scene: a dedicated Greek taverna doing classic Mediterranean cooking — moussaka, souvlaki, saganaki, grilled octopus, fresh salads with feta and olives — steps from the water on Al Faseel Road. With a 4.8 rating from close to 600 reviews, it's clearly winning over diners without being a mobbed tourist stop, which makes it one of the more satisfying finds in a city better known for its corniche and mountain scenery than its dining. The price level sits in the moderate range, so it's realistic for a proper multi-course Greek meal without fine-dining prices.

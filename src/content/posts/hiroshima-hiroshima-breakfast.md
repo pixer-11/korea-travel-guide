@@ -68,8 +68,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Hiroshima's café scene tends to skew toward lunch and coffee-and-cake spots that open mid-morning at the earliest, which makes a dedicated breakfast destination unusual. Hiroshima Breakfast, tucked into a ground-floor unit in Dohashicho, has built a loyal following largely through word of mouth and a striking 4.9 rating across 175 reviews — the kind of consensus that's rare for any food business, let alone one serving the first meal of the day. For visitors staying in the downtown hotel cluster near Hiroshima's main shopping streets, it's a genuinely useful alternative to a hotel buffet: a chance to eat well, locally, and early, before the Peace Memorial Park and Atomic Bomb Dome fill with tour groups.

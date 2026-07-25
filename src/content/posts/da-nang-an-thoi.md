@@ -81,8 +81,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Ăn Thôi Stands Out
 
 "Ăn Thôi" translates loosely to "let's just eat" — a fittingly casual name for a restaurant that has become one of the most talked-about local dining spots in Da Nang, with close to 7,700 reviews and a 4.8 rating. That volume of reviews at that score is unusual for a city where most tourist-facing restaurants top out in the 4.2–4.5 range, and it signals a kitchen that's consistently pleasing both locals and visitors, not just coasting on location.

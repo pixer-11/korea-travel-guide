@@ -17,8 +17,6 @@ faq:
     a: Temprano por la mañana, cerca de la hora de apertura (alrededor de las 5-6 de la mañana), durante la temporada seca de noviembre a marzo, para evitar el calor, las multitudes y los escalones resbaladizos.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes son de uso libre o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Wat Tham Suea, o "Templo de la Cueva del Tigre", es uno de los monasterios de bosque más evocadores del sur de Tailandia, construido sobre un acantilado de piedra caliza rodeado de selva densa, a poca distancia de Krabi Town. Atrae a peregrinos y viajeros por dos motivos: una extensa red de cuevas y santuarios excavados en la roca a nivel del suelo, y una escalinata exigente pero gratificante —a la que suele atribuírsele 1.237 escalones— que asciende hasta un chedi en lo alto de la colina y una gran estatua de Buda dorada, con vistas amplias sobre las colinas kársticas de Krabi y, en días despejados, el mar de Andamán a lo lejos. Con una calificación de 4,6 en casi 14.000 reseñas, se ha consolidado firmemente como una de las atracciones imprescindibles de la región, aunque recompensa mejor a quienes llegan preparados para una auténtica caminata y no para un simple paseo por un templo.

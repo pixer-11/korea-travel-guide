@@ -17,8 +17,6 @@ faq:
     a: La playa Non Nuoc (Non Nuoc Beach) y la playa My Khe (My Khe Beach) están a pocos minutos para un chapuzón después de la caminata, y los talleres de tallado en mármol de la aldea Non Nuoc, al pie de la montaña, son ideales para recorrer con calma.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Ngũ Hành Sơn, o las Montañas de los Cinco Elementos, deben su nombre a los cinco elementos chinos —metal, madera, agua, fuego y tierra—, cada uno representado por su propio macizo de mármol y piedra caliza que se alza abruptamente en la llanura costera entre Da Nang y Hoi An. Solo Thuy Son (Montaña del Agua), la más grande, está acondicionada para los visitantes, y está horadada por cuevas naturales que las comunidades budistas vietnamitas y cham han usado como santuarios durante siglos. En su interior encontrarás grutas cubiertas de estalactitas, cicatrices de bala de la era de la guerra por su uso como hospital y escondite del Viet Cong, y pagodas como Tam Thai y Linh Ung que aún funcionan como lugares de culto activos. Con una calificación de 4.4 estrellas en casi 42,000 reseñas, es una de las paradas mejor valoradas de forma constante entre Da Nang y Hoi An.

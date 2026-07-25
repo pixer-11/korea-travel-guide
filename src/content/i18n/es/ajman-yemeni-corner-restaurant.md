@@ -17,8 +17,6 @@ faq:
     a: La ubicación del restaurante en Al Zahir Street está a poca distancia en auto del Ajman Corniche, lo que facilita combinar una comida de mandi con un paseo por el malecón.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El mandi es uno de los grandes platos comunitarios de la península arábiga: arroz cocinado con el jugo y el caldo de la carne, coronado con cordero o pollo cocido lentamente en un horno sellado bajo tierra (o en una versión moderna a gas) hasta que se desprende del hueso. El restaurante Yemeni Corner se ha ganado su reputación haciendo esto bien y de manera constante, algo que se refleja en su calificación de 4.8 en más de 2,100 reseñas, un volumen y una puntuación que lo sitúan firmemente entre los restaurantes informales más comentados de Ajman. No se trata de un lugar escondido; es un nombre muy conocido que tanto locales como visitantes mencionan cuando la conversación gira hacia dónde conseguir un buen mandi en el emirato.

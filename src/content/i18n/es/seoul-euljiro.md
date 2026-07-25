@@ -17,8 +17,6 @@ faq:
     a: 'Sí: el Mercado Gwangjang (Gwangjang Market), famoso por el bindaetteok y el mayak gimbap, está a poca distancia caminando hacia el noreste, y el arroyo Cheonggyecheon corre justo al norte de Euljiro-ro, conectando hacia Dongdaemun y Jongno.'
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Las imágenes tienen licencia o son de dominio público. Esta es una descripción general del área/tema — verifica los detalles específicos de cada local antes de visitarlo. Consulta nuestra [política editorial](/about).
-
 ## Por qué vale la pena conocer Euljiro
 
 Euljiro se encuentra en el corazón de Jung-gu, entre Myeongdong y Jongno, pero parece otra ciudad. Durante décadas fue la columna vertebral industrial de Seúl: cuadra tras cuadra de pequeños talleres que fabricaban de todo, desde luminarias a medida hasta planchas de imprenta, herramientas y ferretería industrial. En lugar de ser demolido para dar paso a nuevas construcciones, gran parte de esa esencia sobrevivió, y en los últimos años una ola de bares, cafeterías y galerías se ha instalado en los pisos superiores y callejones traseros de esos mismos edificios. Los locales llaman a este fenómeno "newtro" (new + retro): una escalera de cemento visto pasa junto a un taller de soldadura y lleva a un bar escondido con muebles vintage y vino natural. Ese contraste —industrial de día, bohemio de noche— es lo que hace que Euljiro sea genuinamente distintivo y no una "joya escondida" fabricada artificialmente.

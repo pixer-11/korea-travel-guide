@@ -17,8 +17,6 @@ faq:
     a: Las cenas de platos para compartir en formato de barra suelen durar entre 1,5 y 2,5 horas si se pide de forma progresiva; conviene reservar tiempo extra en las noches de más afluencia si se espera un asiento sin reserva previa.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Los horarios y detalles cambian: confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué Kiwon está en el radar de Milán
 
 Kiwon se ha convertido en uno de los nombres que la gente menciona al hablar de la escena nocturna en evolución de Milán: la ola de locales pequeños liderados por chefs que combinan una cocina seria con un ambiente de bar en lugar del formato tradicional de restaurante para sentarse a comer. Es un local coreano de platos para compartir y bar de vinos liderado por la chef Ha Neul Ko, y su identidad se construye tanto en torno al espacio como a la comida: una barra diseñada por Oooh Studio envuelve una cocina de planta abierta, de modo que los comensales ven cómo se emplatan los platos a pocos metros, en lugar de estar apartados en un comedor separado. Ese formato —mitad barra de chef, mitad bar— es precisamente la razón por la que ha sido recogido por la prensa de diseño y gastronomía que cubre las nuevas aperturas de la ciudad.

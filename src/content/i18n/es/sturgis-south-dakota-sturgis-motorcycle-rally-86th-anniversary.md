@@ -17,8 +17,6 @@ faq:
     a: 'Sí: está aproximadamente a una hora en moto al sur de Sturgis y es una excursión de un día habitual para los asistentes al rally que ya están recorriendo las Black Hills.'
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Las fechas y entradas de los eventos cambian: confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Sturgis es el rally de motociclistas más grande del planeta, y la edición de 2026 marca su 86.º aniversario bajo el lema "Sturgis Salutes America". Lo que comenzó en 1938 como una pequeña carrera organizada por el club de motociclistas Jackpine Gypsies se ha convertido en una toma de posesión de diez días y medio millón de personas de un pueblo de Dakota del Sur cuya población durante el resto del año apenas alcanza unos pocos miles. Main Street se transforma en un desfile ininterrumpido de choppers personalizados y motos de turismo, las filas de vendedores ofrecen cuero y cromo a lo largo de varias cuadras, y artistas de gira nacional tocan cada noche en locales repartidos por las Black Hills. Más allá del espectáculo, el paisaje circundante —picos de granito, bosques de pinos y algunas de las mejores carreteras para motociclismo del país— es posiblemente el verdadero protagonista.

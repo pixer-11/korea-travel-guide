@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why this show matters
 
 HONNE — the British duo of Andy Clutterbuck and James Hatcher, known for silky R&B-pop tracks like "Warm on a Cold Night" and "Location Unknown" — is marking ten years together with a run of anniversary shows worldwide. Manila gets three consecutive nights, August 10–12, 2026, a rare multi-date stop that suggests strong regional demand and gives fans flexibility if one date sells out or clashes with travel plans. Multi-night runs at PICC are typically reserved for acts with a proven, loyal Southeast Asian fanbase, so expect a full house across all three evenings.

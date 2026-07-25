@@ -17,8 +17,6 @@ faq:
     a: 'Sí: el adyacente Parque Mundial de Sangam (Sangam World Cup Park) ofrece senderos para caminar y zonas verdes, y un complejo comercial cercano cuenta con restaurantes y cine para el tiempo antes o después del partido.'
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, utilizando fuentes web actuales. Las fechas de los eventos y las entradas cambian: confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué importa este partido
 
 La Coupang Play Series se ha convertido en el evento futbolístico de pretemporada más destacado de Corea, y la edición de 2026 es la más grande hasta la fecha: el Manchester City se enfrenta a una selección del Team K League el 5 de agosto, y luego llega el Atlético de Madrid para un segundo partido de exhibición el 9 de agosto. Ambos encuentros se disputarán en el Estadio de la Copa Mundial de Seúl (Seoul World Cup Stadium), el recinto con capacidad para 66,000 espectadores construido para la Copa Mundial de la FIFA 2002. Para los aficionados en el este de Asia, esta es una oportunidad poco frecuente de ver a pesos pesados de la Premier League y La Liga sin viajar a Europa, y convierte a Sangam-dong en una zona de festival futbolístico durante buena parte de agosto.

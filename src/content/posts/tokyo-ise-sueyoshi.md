@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Ise Sueyoshi has built a reputation as one of Tokyo's quietly excellent kaiseki counters — the kind of place locals whisper about rather than see splashed across neon signage. The editorial consensus is simple: intimate, minimalist room, thoughtfully plated traditional Japanese multi-course meals. With a 4.9 rating across 451 reviews, it sits firmly among Tokyo's most consistently praised fine-dining Japanese restaurants, and the praise tends to focus less on spectacle and more on precision — seasonal ingredients, restrained presentation, and a calm, unhurried pace that lets each course register on its own terms.

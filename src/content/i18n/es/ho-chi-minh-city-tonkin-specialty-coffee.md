@@ -17,8 +17,6 @@ faq:
     a: El mercado Bến Thành está a poca distancia a pie, y tanto la Torre Financiera Bitexco como la Catedral de Notre-Dame de Saigón / Correo Central están a 10-15 minutos caminando.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La escena cafetera de Ciudad Ho Chi Minh tiene dos caminos: los omnipresentes puestos callejeros de cà phê sữa đá y una nueva ola de tostadores de especialidad que tratan los granos vietnamitas como Etiopía o Colombia tratan los suyos: con abastecimiento de origen único, métodos de preparación manual y notas de cata en el menú. Tonkin Specialty Coffee se ubica firmemente en el segundo grupo. Con una calificación de 4.8 en más de 4,500 reseñas, es uno de los locales de especialidad más consistentemente elogiados del Distrito 1, y ha construido su reputación haciendo una sola cosa —café de especialidad de origen vietnamita— con esmero, en lugar de perseguir un menú extenso.

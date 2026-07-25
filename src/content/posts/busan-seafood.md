@@ -29,8 +29,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting. See our [editorial policy](/about).
-
 ## Why Busan Is Korea's Seafood City
 
 Busan grew up around its harbor, and the city's food culture still runs on what comes off the boats each morning. Unlike Seoul, where seafood restaurants are scattered across neighborhoods, Busan concentrates the experience in a handful of markets and coastal districts where you can watch the catch move from tank to table within the hour. The signature style here is **hoe** (Korean-style raw fish, sliced thicker than Japanese sashimi and eaten with ssamjang and perilla leaves), alongside grilled shellfish, spicy fish stews, and the region's own specialties like dwaeji gukbap's seafood cousin, milmyeon, served cold in summer.

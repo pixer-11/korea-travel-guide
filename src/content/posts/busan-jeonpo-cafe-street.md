@@ -46,8 +46,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts such as ratings and location come from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Jeonpo Cafe Street earned its reputation as one of Busan's most photogenic neighborhoods by transforming what used to be a quiet residential and printing-shop district into a dense strip of independently designed cafes, dessert shops, and bars. Unlike the polished corporate cafe rows found near department stores, Jeonpo's charm comes from its scrappy, low-rise brick buildings and converted homes, many still bearing the low rooflines and narrow alleys of the original neighborhood. Locals often name it in the same breath as Seoul's Yeonnam-dong or Seongsu-dong — an area that grew organically as young entrepreneurs and designers moved in and reused old buildings rather than demolishing them. With a 4.2 rating across more than 2,000 reviews, it's firmly established as a go-to spot for Busan residents, not just tourists.

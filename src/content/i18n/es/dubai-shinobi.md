@@ -17,8 +17,6 @@ faq:
     a: El formato característico son los handrolls preparados al momento en la barra. Los platos y precios concretos no se confirmaron para esta guía, así que consulta el menú actual en el propio local o a través de los canales oficiales antes de tu visita.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por editores, con ayuda de IA, usando fuentes web actuales. Los horarios y detalles cambian: confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué Shinobi destaca
 
 Dubái no tiene escasez de restaurantes japoneses relucientes, pero Shinobi toma un camino distinto: está concebido como un bar de handrolls underground, no como una sala formal de omakase. El diseño apuesta por un motivo de vagón de metro —rótulos de neón, arte al estilo grafiti y una sensación de descenso, casi como entrar en un túnel— que lo acerca más, en espíritu, a un izakaya escondido en un callejón de Tokio o a un dive bar de Brooklyn que a los locales de sushi con mármol y arañas de luces por los que Dubái es conocido. El elemento central es una barra en forma de U donde los chefs preparan los handrolls (temaki) al momento, así que puedes ver cómo envuelven el nori segundos antes de que llegue a tu mesa. La combinación de cultura urbana, una selección musical cuidada y comida japonesa es precisamente el atractivo de este lugar: es tanto un sitio de encuentro como un restaurante.

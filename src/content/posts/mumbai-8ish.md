@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why 8ish stands out
 
 Nariman Point isn't Mumbai's usual nightlife postcode — it's the city's old financial spine, all glass towers and government offices that empty out by evening. 8ish leans into that contrast, opening as a stylish drinking den in a part of town better known for boardrooms than bar crawls. It's the latest project from Rachel Goenka, the restaurateur behind some of Mumbai's better-known dining concepts, and it's designed to feel like a considered, grown-up hangout rather than another rooftop lounge chasing a view.

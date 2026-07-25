@@ -17,8 +17,6 @@ faq:
     a: Lo más sencillo es tomar un taxi desde la estación de Singyeongju KTX o la estación de Gyeongju; si ya te alojas cerca de Hwangridan-gil, se puede llegar caminando.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué Sugyeongsa destaca
 
 La escena gastronómica de Gyeongju se apoya en gran medida en carnes a la parrilla, banquetes hanjeongsik y bocados callejeros alrededor de Hwangridan-gil, lo que hace que una dirección dedicada al veganismo/vegetarianismo como Sugyeongsa (수경사) resulte genuinamente útil y no una simple curiosidad de nicho. El propio nombre ya anuncia su inclinación hacia las tradiciones de la comida de templo: el sufijo "sa" evoca la denominación de los templos budistas, y el estilo de cocina va en la misma línea: condimentos suaves, pastas fermentadas, tofu, hierbas silvestres (namul) y setas, en lugar de la salsa de pescado, el caldo de carne o los mariscos que suelen colarse silenciosamente en muchos platos coreanos "aptos para vegetarianos". Un promedio de 4.9 sobre 268 reseñas es una señal inusualmente sólida para un restaurante de este tamaño, lo que sugiere constancia y no un momento viral aislado.

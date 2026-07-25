@@ -17,8 +17,6 @@ faq:
     a: La calle de utensilios de cocina Kappabashi, el paseo junto al río Sumida y las vistas de la Tokyo Skytree se encuentran a 10-15 minutos a pie del templo.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Sensō-ji es el templo más antiguo de Tokio, terminado en el año 645 en honor a Kannon, la diosa budista de la misericordia, después de que, según se cuenta, dos pescadores sacaran una estatua suya del río Sumida. Casi 1.400 años después, sigue siendo el corazón espiritual de Asakusa y uno de los lugares religiosos más visitados de Japón, con multitudes que suelen abarrotar el acceso los fines de semana y días festivos. Con una calificación de 4,6 sobre unas 97.000 reseñas, se considera sistemáticamente una parada imprescindible en Tokio, pero su atractivo no se limita a las fotos: es un templo en pleno funcionamiento, con rituales diarios, ofrendas de incienso y adivinación de la fortuna que siguen muy vigentes.

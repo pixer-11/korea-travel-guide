@@ -17,8 +17,6 @@ faq:
     a: 'Calcula entre 60 y 90 minutos para una comida completa compartiendo varios platos: este es un restaurante regional para sentarse, no un puesto de comida rápida tipo hawker.'
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Smith Street, en Chinatown, es conocida sobre todo como "Chinatown Food Street", una calle repleta de carnes asadas cantonesas, congee teochew y puestos hawker orientados al turista. The Xiang Restaurant destaca precisamente porque no sigue ese juego: se especializa en cocina de Hunan (湘菜), el estilo ahumado, con ajo y muy picante originario de la provincia natal de Mao Zedong, mucho menos común en Singapur que la comida cantonesa o de Sichuan. Espera platos elaborados con chiles secos, frijoles negros fermentados, cerdo ahumado y comino, en lugar de los sabores más suaves y dulces típicos de la cocina chino-singapurense. Una calificación de 4.8 entre casi 1,000 reseñas es inusualmente alta para un restaurante en este rincón tan turístico de la ciudad, y es señal de una cocina que se ha ganado su reputación por la calidad de la comida y no solo por el tránsito de gente.

@@ -17,8 +17,6 @@ faq:
     a: 'Es una cafetería de servicio rápido, no un restaurante para sentarse: 20 a 30 minutos son suficientes para pedir, comer y seguir con tu día, lo que facilita combinarlo con un paseo por la Corniche o una visita al museo del fuerte antiguo de RAK.'
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Rukn Al Falafel Cafeteria no aparecerá en una lista de "los 10 mejores lugares de Ras Al Khaimah" dominada por resorts de playa y refugios de montaña, y precisamente ahí radica su encanto. Se trata de una cafetería de clase trabajadora en la zona de Sidrow, el tipo de mostrador de comida callejera árabe que se encuentra en los emiratos más pequeños de los EAU, donde el menú gira en torno al falafel, el shawarma, el hummus y los sándwiches a la parrilla, en lugar de menús degustación. Una calificación de 4.3 sobre 659 reseñas refleja consistencia a lo largo de años de servicio diario, no un momento viral. Es el tipo de parada que vale la pena hacer si estás manejando entre el casco antiguo de RAK, la Corniche o el camino hacia Jebel Jais, y buscas algo rápido, económico y verdaderamente sabroso en lugar de una cadena de comida.

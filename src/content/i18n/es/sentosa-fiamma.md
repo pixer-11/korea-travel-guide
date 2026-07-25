@@ -17,8 +17,6 @@ faq:
     a: Tanjong Beach y los senderos del paseo entablado del este de Sentosa están cerca y combinan bien con la cena, alejados de las atracciones más concurridas del oeste, como Siloso Beach y Universal Studios.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La oferta gastronómica de Sentosa está dominada por bares de playa, buffets de resort y puestos de bocadillos de parques temáticos, así que un restaurante como Fiamma destaca simplemente por ser un espacio serio, tranquilo y con identidad de chef propia. Ubicado dentro de los terrenos del Capella Singapore, un hotel de lujo de inspiración colonial en el extremo noreste de la isla, Fiamma sirve cocina italiana moderna con el nivel de refinamiento que se espera de un hotel de esta categoría, pero sin las multitudes que inundan Siloso Beach o la zona de Universal Studios. Con una calificación de 4.8 sobre 842 reseñas, se ha ganado seguidores fieles sin convertirse en un punto de paso turístico, lo que lo convierte en una opción genuinamente poco conocida en un destino que rara vez se describe así.

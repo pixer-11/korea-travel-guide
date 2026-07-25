@@ -69,8 +69,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 La Luna Coffee Hạ Long has built its reputation — a 4.4 rating across more than 2,000 reviews — on being one of the more photogenic, design-forward cafés in Bãi Cháy, the resort side of Ha Long Bay across the water from Hon Gai. It's the kind of place locals and visitors alike use for a coffee break framed by big windows, tiered terraces, and bay-adjacent views, rather than for the coffee alone. If you're spending a day in Bãi Cháy between boat tours, cable car rides, or beach time, it's an easy, comfortable stop to break up the sightseeing with something more relaxed and Instagram-friendly.

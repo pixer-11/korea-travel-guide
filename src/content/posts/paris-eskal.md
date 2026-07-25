@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why Eskal stands out
 
 Paris opens dozens of ambitious tables a year, but Eskal has attracted attention quickly for a specific reason: it pairs restaurateur Ken Nanaumi with chef Alexandre Chambat, whose cooking leans on slow, deliberate techniques — maturation, curing, drying and fermentation — rather than pure seasonal flash. The result is contemporary French food built with the patience of a charcuterie or fermentation cellar behind it, which is a different rhythm from the typical bistro-to-tasting-menu pipeline that dominates the city's newer openings. The room itself reinforces that philosophy: it's intimate, centred on a broad kitchen counter, so diners — solo travelers especially — can watch plates assembled a few feet away rather than sit at a distance from the action.

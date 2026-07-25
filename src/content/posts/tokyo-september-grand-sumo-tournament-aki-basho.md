@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why go
 
 Sumo is Japan's national sport, and the Grand Tournaments (honbasho) are the only place to see it at its highest level, with rituals largely unchanged for centuries — the salt-throwing, the stomping to drive away evil spirits, the ceremonial aprons of the top-ranked rikishi. The Aki Basho is one of six honbasho held annually across Japan and one of three staged in Tokyo (alongside the January and May tournaments), making September a rare window to catch elite sumo without leaving the capital. The 15-day format means every wrestler faces a different opponent each day, with rankings and bragging rights shifting daily until the final-day deciding bouts.

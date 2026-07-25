@@ -37,8 +37,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The Strip is less a single street than a concentrated skyline of themed mega-resorts, each built to out-scale the last: the Eiffel Tower replica at Paris Las Vegas, the canals of The Venetian, the pyramid of Luxor, the medieval towers of Excalibur. Walking it at night, when the neon and LED facades are lit and the desert heat has eased, is the classic first-time experience — casinos, restaurants, and nightclubs line both sides of Las Vegas Boulevard South for roughly 4.2 miles, and much of what makes it famous (the fountains, the volcano, the lights) costs nothing to watch.

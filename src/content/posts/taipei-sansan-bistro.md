@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why Sansan Bistro is worth knowing about
 
 Taipei's dining scene adds new contenders every season, but few arrive with as much immediate heat as Sansan Bistro. Its January 2026 addition to the Michelin Guide Taiwan cemented what word-of-mouth had already been saying: this is neo-Sichuan cooking reinterpreted for a design-conscious, cocktail-curious crowd, not a straightforward regional canteen. The kitchen takes the bold, numbing, chili-forward backbone of Sichuan cuisine and plays with technique and presentation, while the bar side pairs dishes with unusual, often playful cocktails rather than the beer-and-baijiu default. That combination — serious culinary craft plus a bar program built to match it — is what's driving the buzz and what separates it from the city's older, more traditional Sichuan restaurants.

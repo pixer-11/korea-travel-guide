@@ -17,8 +17,6 @@ faq:
     a: El mercado de antigüedades y curiosidades de Jl. Surabaya está justo enfrente, y el barrio de Menteng en general ofrece arquitectura de la época colonial que vale la pena recorrer en un breve paseo.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Giyanti Coffee Roastery se ha ganado su reputación haciendo bien una sola cosa: seleccionar y tostar granos de café indonesios y dejar que hablen por sí mismos. Instalado en un edificio de la época colonial reconvertido en Jl. Surabaya, el café tuesta en el propio local y rota sus ofertas de origen único de distintos puntos del archipiélago —piensa en el Gayo de Aceh, el Toraja de Sulawesi, el Kintamani de Bali y el Flores Bajawa— junto a granos importados para comparar. Con una calificación de 4.6 sobre más de 4,300 reseñas, se ha consolidado firmemente como uno de los lugares de referencia en Yakarta para quienes se toman en serio el café, y no solo como un telón de fondo de moda para fotos (aunque su interior, a medio camino entre lo industrial y lo patrimonial, también cumple esa función).

@@ -17,8 +17,6 @@ faq:
     a: El PICC se encuentra cerca del CCP Complex, el Manila Ocean Park y Star City, todos a poca distancia a pie o en auto dentro de Pasay, lo que facilita combinar el concierto con un día de turismo junto a la Bahía de Manila (Manila Bay).
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Las fechas y entradas de los eventos cambian; confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué importa este show
 
 HONNE —el dúo británico formado por Andy Clutterbuck y James Hatcher, conocidos por sus sedosos temas de R&B-pop como "Warm on a Cold Night" y "Location Unknown"— celebra diez años juntos con una serie de shows de aniversario alrededor del mundo. Manila recibe tres noches consecutivas, del 10 al 12 de agosto de 2026, una parada con varias fechas que no es habitual y que sugiere una fuerte demanda regional, además de dar flexibilidad a los fans si una fecha se agota o choca con sus planes de viaje. Las series de varias noches en el PICC suelen reservarse para artistas con una base de fans sólida y fiel en el Sudeste Asiático, así que se espera un lleno total las tres noches.

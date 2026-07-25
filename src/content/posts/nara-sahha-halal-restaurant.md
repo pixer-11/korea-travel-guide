@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Sahha matters in Nara
 
 Nara's food scene skews toward soba, kakinoha-zushi (persimmon-leaf sushi), and tourist-friendly udon shops clustered near Nara Park and Kintetsu-Nara Station — but halal options historically have been thin on the ground. Sahha fills that gap decisively. With a 4.9 rating across more than 639 reviews, it's one of the most consistently praised restaurants in the region, halal or otherwise. For Muslim visitors touring Tōdai-ji, Kasuga Taisha, or the deer of Nara Park, it removes the usual headache of hunting for a certified kitchen, and for everyone else it's simply a well-reviewed spot for generous, flavorful cooking that leans on halal meats, rice dishes, and Japanese-style curry.

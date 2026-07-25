@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why go
 
 LaLaLa Fest has built a reputation across Asia as a festival that mixes global indie and alt-pop names with strong production values, and the 2026 Manila stop brings that formula to the Philippines with Steve Lacy and Two Door Cinema Club topping the bill. For international fans, this is a rare chance to catch acts of this caliber without needing a Coachella-sized travel budget — Manila is a well-connected regional hub, and the show is contained to a single-day event on August 21, 2026, making it feasible as a long weekend trip built around one big night out.

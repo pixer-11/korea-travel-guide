@@ -17,8 +17,6 @@ faq:
     a: Como el restaurante está dentro de NOKE Mall, puedes combinar fácilmente la comida con recorrer las boutiques del centro comercial, y el distrito de Zhongshan en general es conocido por sus tiendas de diseño y cafeterías que vale la pena explorar antes o después.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Los horarios y detalles cambian — confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La Vie by Thomas Bühner es la sede en Taipéi del chef alemán Thomas Bühner, cuya reputación culinaria se construyó sobre una cocina precisa y centrada en el ingrediente, que despoja a los platos hasta llegar a sus sabores esenciales — lo que suele describirse como un enfoque "elemental" de los menús degustación. El restaurante cuenta con una estrella Michelin y fue nombrado recientemente Mejor Restaurante de Taiwán 2026 por Savour BlackBookAsia, señal de que se ha convertido en una de las mesas de alta cocina más comentadas de la ciudad. Para quienes quieran entender hacia dónde se dirige la escena gastronómica de alto nivel en Taipéi — más allá de la sopa de fideos con ternera y los puestos de los mercados nocturnos — este es un lugar donde ver la técnica europea aplicada con ingredientes y sensibilidad locales.

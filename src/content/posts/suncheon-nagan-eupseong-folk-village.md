@@ -45,8 +45,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Unlike restored "folk villages" built purely for tourists, Nagan Eupseong is a genuinely inhabited settlement enclosed by a Joseon-era fortress wall dating to the late 14th and early 15th centuries. Around 100 households still farm, garden, and keep house inside the walls, so the thatched-roof homes, stone-lined alleys, and vegetable patches you see are lived-in, not staged. The village retains its original administrative layout, including a government office (dongheon), a Confucian school area, and preserved sections of the granite fortress wall you can actually walk along — a rarity among Korea's folk villages. It's a low-key, unhurried counterpart to more famous sites like Hahoe or Yangdong, and its rating (4.3 from over 6,500 reviews) reflects steady appreciation from visitors who value that authenticity.

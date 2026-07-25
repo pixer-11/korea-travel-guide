@@ -29,8 +29,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting. See our [editorial policy](/about).
-
 ## Why Gyeongju Matters
 
 Gyeongju was the capital of the Silla Kingdom for roughly a thousand years, from 57 BCE to 935 CE, and the entire city functions as an open-air museum as a result. Unlike Seoul, where history is folded into a modern metropolis, Gyeongju's core sights sit in low-rise neighborhoods surrounded by grassy burial mounds, making it possible to walk from a royal tomb complex to a Joseon-era village lane in minutes. UNESCO has recognized both the Gyeongju Historic Areas and, separately, Bulguksa Temple and Seokguram Grotto as World Heritage Sites, which gives a rough shape to any itinerary: downtown tumuli and palace ruins on one side, mountain temples on the other.

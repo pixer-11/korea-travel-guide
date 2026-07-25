@@ -17,8 +17,6 @@ faq:
     a: 'Es un extra agradable, no algo imprescindible: dale prioridad si te gustan los rincones rústicos para fotos y ya has recorrido templos como Wat Phra Singh o Doi Suthep.'
 ---
 
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La ciudad antigua (old city) de Chiang Mai está repleta de templos y mercados nocturnos, pero Hidden Village Chiang Mai ofrece algo distinto: un extenso complejo de temática selvática con pasarelas de madera, chozas con techo de paja, puentes colgantes y rincones fotográficos montados alrededor de un café en funcionamiento. Es el tipo de lugar que los locales comparten en redes sociales más que algo que aparece en las guías tradicionales impresas —de ahí el "hidden" (oculto) del nombre, aunque hoy recibe un flujo constante de visitantes (más de 2,400 reseñas y una sólida calificación de 4.2 dan cuenta de su popularidad). Vale la pena ir por el ambiente y las fotos, no por una gran carga cultural; es un complemento relajado de medio día más que un monumento imprescindible.

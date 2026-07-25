@@ -17,8 +17,6 @@ faq:
     a: Agosto cae en la temporada seca de Yakarta, así que hay que esperar días calurosos y húmedos y noches cálidas. Lleva ropa ligera y transpirable, protección solar, una botella de agua reutilizable y una capa ligera para la lluvia por si acaso hay algún chaparrón tropical.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Las fechas y entradas de los eventos cambian — confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 LaLaLa Festival se ha convertido en uno de los grandes fines de semana de música internacional de Yakarta, atrayendo a un público que combina a asistentes a festivales del sudeste asiático con fans que viajan específicamente por el cartel. La edición de 2026 está programada para el 22–23 de agosto de 2026, en el Jakarta International Expo (JIExpo), y entre los cabezas de cartel anunciados están Steve Lacy, Two Door Cinema Club, Kodaline, The Flaming Lips, Rex Orange County, Honne y Flo — un cartel que abarca indie rock, alt-pop, psych-rock y artistas con tendencia al R&B, por lo que atrae a un público más amplio que un festival de un solo género. Si estás planeando un viaje por el sudeste asiático centrado en música en vivo, este es uno de los grandes eventos de referencia de la región, comparable en poder de convocatoria internacional a otros festivales de varios días en Manila, Singapur o Kuala Lumpur.

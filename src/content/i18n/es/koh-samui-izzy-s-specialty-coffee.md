@@ -17,8 +17,6 @@ faq:
     a: Bo Put Pier para ver el amanecer, las tiendas y restaurantes de mariscos de la Fisherman's Village Walking Street, y el Templo del Buda Grande (Wat Phra Yai), a unos 10 minutos en coche.
 ---
 
-> **Cómo se hizo esta guía:** Revisado por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué Izzy's destaca
 
 Fisherman's Village, en Bo Put, es la zona más caminable y fotogénica de Koh Samui — un antiguo asentamiento pesquero chino-tailandés convertido en un corredor de tiendas boutique y cafés instalados en casas-tienda de madera restauradas. Izzy's Specialty Coffee se ha convertido en una de sus direcciones de referencia, con un raro promedio de 5 estrellas en más de 1,000 reseñas, señal de que no es solo otra parada de café de pueblo playero que se apoya únicamente en su ubicación. El atractivo está en el abastecimiento de grado especial y una operación de tueste/preparación a la vista, en un destino donde un buen espresso solía significar el recargo de un lobby de resort. Para los viajeros a quienes les importa tanto su café como su vista, se ha convertido en una especie de parada de peregrinación en la costa norte de la isla.

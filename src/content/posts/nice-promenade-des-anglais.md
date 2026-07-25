@@ -39,8 +39,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The Promenade des Anglais is the single most recognizable stretch of pavement on the French Riviera — a 7-kilometer curve of blue-chair-lined boardwalk tracing the Baie des Anges from the mouth of the Paillon river near the Old Town all the way past Nice's airport. It was originally laid out in the 1820s, funded by the English winter colony (hence the name, "Walkway of the English") who wanted a proper place to stroll and take in sea air. Today it's equal parts postcard backdrop, cycling artery, and open-air living room for the whole city — locals jog it at dawn, retirees play pétanque along side paths, and in the evening the Baroque facades of Belle Époque hotels light up along its landward edge. With a 4.7-star rating across more than 2,500 reviews, it's consistently ranked as Nice's must-do free attraction.

@@ -17,8 +17,6 @@ faq:
     a: Prueba el mì Quảng y el bánh xèo como especialidades locales, además de cualquier marisco fresco disponible ese día; pregunta al personal por la pesca del día.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué destaca Ăn Thôi
 
 "Ăn Thôi" se traduce libremente como "vamos a comer" o "solo comamos", un nombre acorde a lo informal de un restaurante que se ha convertido en uno de los locales más comentados de Da Nang, con cerca de 7.700 reseñas y una calificación de 4.8. Ese volumen de reseñas con esa puntuación es poco común en una ciudad donde la mayoría de los restaurantes orientados al turista se mueven entre 4.2 y 4.5, lo que indica una cocina que satisface de forma constante tanto a locales como a visitantes, y no solo se beneficia de su ubicación.

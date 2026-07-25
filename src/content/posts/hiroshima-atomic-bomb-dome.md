@@ -94,8 +94,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The Atomic Bomb Dome (Genbaku Dome) is what remains of the former Hiroshima Prefectural Industrial Promotion Hall, a Czech-designed brick-and-steel building completed in 1915. On August 6, 1945, it stood almost directly beneath the atomic bomb's detonation point and, by a strange quirk of blast physics, its central dome and some walls survived while everything inside and around it was flattened. It's been left deliberately untouched since — no restoration, just structural reinforcement to keep it standing — and was inscribed as a UNESCO World Heritage Site in 1996. With a 4.7 rating across more than 34,000 reviews, it's one of the most visited single structures in Japan, but it rewards visitors less with grandeur than with silence: this is a place to look, not to photograph-and-move-on.

@@ -87,8 +87,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Banh Mi 25 has built a reputation — nearly 17,000 Google reviews and a 4.5 rating — as one of the most reliable banh mi stops in Hanoi's Old Quarter. It's not a polished restaurant; it's a street-side stall doing one thing at high volume: stuffing crusty Vietnamese baguettes with an extensive range of fillings, from classic pâté-and-pork combos to grilled meats, eggs, and cold cuts. For visitors trying to understand why banh mi became a global fast-food export, this is a solid, unfussy place to taste the original format done at scale.

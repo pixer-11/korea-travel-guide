@@ -17,8 +17,6 @@ faq:
     a: 'Agosto es temporada de monzón en Delhi: calor, humedad y lluvias intensas frecuentes, por lo que es temporada media para el turismo en general, aunque puede implicar mejores tarifas hoteleras fuera de la demanda generada por el torneo.'
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA, utilizando fuentes web actuales. Las fechas y entradas del evento cambian: confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El Campeonato Mundial de bádminton es el torneo individual más prestigioso del deporte fuera de los Juegos Olímpicos, y 2026 marca la primera vez en 17 años que India tiene la oportunidad de albergarlo. Solo eso convierte esta semana en un hito para los aficionados al bádminton del sur de Asia: la posibilidad de ver a las mayores figuras del deporte competir en casa por un favorito local, Lakshya Sen, y por la jugadora más laureada de India en la rama femenina, PV Sindhu, junto a estrellas globales como el chino Shi Yu Qi y la surcoreana An Se-young. Para los visitantes, también es motivo para combinar deporte de primer nivel con un primer viaje (o uno más) a Delhi, una de las grandes capitales históricas del subcontinente.

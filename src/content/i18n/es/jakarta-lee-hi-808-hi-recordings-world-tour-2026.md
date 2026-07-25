@@ -17,8 +17,6 @@ faq:
     a: Los precios de las entradas y las fechas de venta no se especificaron en el anuncio inicial. Compra únicamente a través del promotor oficial o de una plataforma de venta de entradas verificada una vez que se publiquen, y evita los listados de reventa que aparecen antes de tiempo para no caer en entradas de reventa abusiva (scalping) o falsas.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Las fechas de los eventos y las entradas cambian — confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué importa este show
 
 Lee Hi, la cantante surcoreana conocida por su voz ronca y con matices soul en temas como "1, 2, 3, 4", "Breathe" y "Rose", trae su gira mundial *808 HI Recordings* a Indonesia por primera vez. Esta fecha en Yakarta marca su primer concierto en solitario en el país, un hito notable para su fanbase local tras años de solo poder verla en showcases grupales o en carteles de festivales. La acompaña como invitado especial DOK2, un veterano rapero y productor coreano, lo que sugiere que la noche tendrá un enfoque más orientado al hip-hop y al R&B que a un show pop puro. Para los fans del R&B coreano y de artistas cercanos a AOMG/hip-hop, esta es una oportunidad poco común de ver a ambos artistas en suelo indonesio.

@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Gamcheon Culture Village earns its 4.4-star rating and near-33,000 reviews for good reason: it's one of the most photogenic corners of Busan, a hillside maze of blue, pink, and yellow houses stacked above the harbor, laced with painted stairways, murals, and pocket-sized galleries. The village began as a refugee settlement in the 1950s (many residents were followers of the Taegeukdo religion who fled during the Korean War), and its current identity as an "art village" dates to a 2009 public arts project that invited students and artists to repaint facades and install sculptures throughout the maze of alleys. It's not a museum piece — people still live here — which gives the murals and rooftop views a lived-in texture you don't get in a purpose-built attraction.

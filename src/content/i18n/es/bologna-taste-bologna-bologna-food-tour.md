@@ -17,8 +17,6 @@ faq:
     a: 'Evita un desayuno abundante: el tour incluye varias degustaciones sustanciosas (mortadela, queso, pasta, jamón curado), y la mayoría de los asistentes coincide en que funciona como almuerzo.'
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El apodo de Bolonia, "La Grassa" (la gorda), no es simple marketing: la ciudad realmente encarna la identidad gastronómica de Italia, desde la mortadela y los tortellini hasta el Parmigiano Reggiano y el vinagre balsámico tradicional, todos producidos a menos de una hora de distancia. Un tour de degustación guiado como Taste Bologna existe porque lo mejor de la comida de la ciudad ocurre detrás de mostradores sin cartel, dentro de charcuterías centenarias y en puestos de mercado donde lo bueno se agota a primera hora de la tarde. Con una calificación de 5 estrellas en 912 reseñas, este tour se ha ganado su reputación haciendo el trabajo de seleccionar a los vendedores para que los visitantes no malgasten un viaje corto adivinando qué salumeria es una trampa para turistas y cuál es la auténtica.

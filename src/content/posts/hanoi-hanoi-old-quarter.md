@@ -78,8 +78,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The Old Quarter is Hanoi's original commercial heart, dating back roughly 1,000 years to when Ly Dynasty artisans and merchants organized into guilds along Hoan Kiem Lake. Each guild took a street named "Hang" (meaning "merchandise") plus its specialty — Hang Bac for silversmiths, Hang Ma for votive paper and, now, festive decorations, Hang Gai for silk. Many of these streets still sell roughly what they did centuries ago, layered under motorbike repair shops, cafes, and backpacker bars. With a 4.6 rating across nearly 10,000 reviews, it's consistently rated as Hanoi's most essential neighborhood to walk rather than just view — the appeal is atmosphere and density, not a single ticketed sight.

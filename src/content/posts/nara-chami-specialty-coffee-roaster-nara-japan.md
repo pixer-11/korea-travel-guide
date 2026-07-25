@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why CHAMI stands out
 
 Nara is famous for wandering deer and centuries-old temples, but its old merchant quarter, Naramachi, has quietly become a pocket of design-conscious cafes and craft shops tucked into former townhouses. CHAMI - Specialty Coffee Roaster is one of the best examples of this shift. It's a working roastery and cafe with a 4.7 rating across more than 1,700 reviews, which is a rare combination of scale and consistency for a niche coffee spot. The appeal isn't just the coffee itself but the setting: an airy, architecturally considered space that treats coffee with the same seriousness Kyoto and Tokyo roasters bring to their craft, but without the crowds those cities generate.

@@ -17,8 +17,6 @@ faq:
     a: Yas Island cuenta con Ferrari World, Yas Waterworld y los restaurantes frente al mar de Yas Marina, todos a poca distancia del arena, y el Louvre Abu Dhabi y la Mezquita Sheikh Zayed están a unos 30-40 minutos.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, utilizando fuentes web actuales. Las fechas de los eventos y las entradas cambian: confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Abu Dabi ha sido sede de eventos de UFC desde la era de la "Fight Island" durante la pandemia, y desde entonces se ha convertido en una parada habitual en el calendario internacional de la promotora gracias a la calidad de producción del Etihad Arena y al impulso turístico del emirato en torno a Yas Island. Esta cartelera está encabezada por un combate de peso semipesado entre Magomed Ankalaev, uno de los contendientes más resistentes de la división, conocido por su estilo de desgaste basado en la lucha, y Khalil Rountree Jr., un golpeador contundente con base en Muay Thai que se ha convertido en favorito de la afición por su agresividad hacia adelante. Una pelea de 205 libras de este calibre fuera de Estados Unidos es un verdadero atractivo para los aficionados más entusiastas, y viene acompañada del tipo de cartelera preliminar profunda que suelen ofrecer los eventos UFC Fight Night: se espera una mezcla de promesas regionales y veteranos curtidos, aunque la alineación completa solo se confirmará más cerca de la semana de la pelea.

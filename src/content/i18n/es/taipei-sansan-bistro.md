@@ -17,8 +17,6 @@ faq:
     a: El comedor tiene un aspecto elegante y con mucho carácter de diseño, en tonos burdeos con detalles de madera y metal, así que un estilo smart-casual encaja mejor con el ambiente que la ropa estrictamente informal.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Los horarios y detalles cambian; confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué merece la pena conocer Sansan Bistro
 
 La escena gastronómica de Taipéi suma nuevos aspirantes cada temporada, pero pocos llegan con tanto ímpetu inmediato como Sansan Bistro. Su incorporación a la Guía Michelin Taiwán en enero de 2026 confirmó lo que el boca a boca ya venía diciendo: se trata de una cocina neosichuanesa reinterpretada para un público atento al diseño y curioso por la coctelería, no un simple comedor regional tradicional. La cocina toma la base atrevida, entumecedora y con mucho picante de la cocina de Sichuan y juega con la técnica y la presentación, mientras que la barra acompaña los platos con cócteles inusuales y a menudo lúdicos, en lugar de la clásica cerveza y el baijiu. Esa combinación —un oficio culinario serio junto con una propuesta de coctelería a la altura— es lo que está generando el revuelo y lo que lo distingue de los restaurantes sichuaneses más tradicionales y consolidados de la ciudad.

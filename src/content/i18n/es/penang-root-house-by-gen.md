@@ -17,8 +17,6 @@ faq:
     a: El restaurante se encuentra en pleno corazón del distrito patrimonial de George Town, cerca de la Blue Mansion, de Armenian Street y de la famosa ruta de arte urbano de la ciudad; ideal para una tarde de turismo antes de la cena.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, utilizando fuentes web actuales. Los horarios y detalles cambian: confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué destaca Root House by Gēn
 
 La escena gastronómica de George Town no carece de leyendas del hawker (puestos callejeros), pero Root House by Gēn representa un camino completamente distinto: un restaurante cuidado y con vocación de diseño, construido dentro de una pieza auténtica del patrimonio arquitectónico de la ciudad. El 1926 Heritage Hotel que lo alberga es uno de los edificios de la época de las shophouses de George Town, restaurado en lugar de vaciado por completo, de modo que el restaurante se asienta sobre su estructura original: techos altos, detalles de época y ese tipo de pátina que no se puede fabricar. Sobre ese telón de fondo, el equipo detrás del aclamado restaurante Gēn ha superpuesto una interpretación refinada de la cocina chino-malaya, el estilo culinario surgido de generaciones de comunidades de inmigrantes chinos que adaptaron sus recetas a los ingredientes locales de Penang y a las influencias nyonya. El resultado es un lugar que funciona a la vez como experiencia patrimonial y como cocina moderna seria, una combinación más rara en George Town de lo que sugiere la enorme cantidad de "cafés con encanto patrimonial".

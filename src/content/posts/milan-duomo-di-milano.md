@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The Duomo di Milano is one of the largest cathedrals on earth and took roughly six centuries to complete, from its start in 1386 under Gian Galeazzo Visconti to the final touches on the facade in the early 20th century. The result is an almost overwhelming forest of white marble spires — 135 of them — topped with more than 3,400 statues, including the gilded Madonnina that has watched over the city from the highest spire since 1774. Rated among Milan's top attractions by hundreds of thousands of visitors, it's the unmissable centerpiece of the city and a genuinely singular piece of architecture: French Gothic bones dressed in distinctly Lombard, Italian ornamentation.

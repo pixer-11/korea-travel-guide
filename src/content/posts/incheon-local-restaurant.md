@@ -29,8 +29,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting. See our [editorial policy](/about).
-
 ## Why Incheon's Local Food Scene Stands Apart
 
 Incheon isn't Seoul's food scene in miniature — it has its own culinary identity shaped by its history as Korea's first modern international port. This is where jajangmyeon (black bean noodles) was invented by Chinese immigrants in the late 1800s, and where postwar street food culture took root in markets that fed dockworkers and factory laborers. Eating here means tasting that layered history, not just chasing a trendy restaurant.

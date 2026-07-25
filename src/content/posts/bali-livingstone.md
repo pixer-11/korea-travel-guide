@@ -92,8 +92,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Livingstone Is on Every Petitenget Itinerary
 
 Livingstone sits on Jalan Petitenget, the strip of Kerobokan that bridges Seminyak's polish and Canggu's rice-field cool. It's built around a jungly, multi-level layout — think oversized rattan chairs, hanging greenery, a pool-adjacent lounge area, and enough Instagram-ready corners that it's become a fixture of Bali's "trendy café" circuit rather than a quiet neighborhood find. With a 4.8 rating across more than 14,000 reviews, it's firmly in very-popular territory, and the crowds reflect that: this is a place to enjoy for the design, the all-day menu, and the people-watching, not for solitude.

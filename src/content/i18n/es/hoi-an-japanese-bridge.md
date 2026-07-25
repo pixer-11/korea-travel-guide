@@ -17,8 +17,6 @@ faq:
     a: La Casa Tan Ky, la Casa Phung Hung, el mercado ribereño y varios puestos conocidos de fideos cao lầu están todos a cinco minutos a pie, lo que convierte al puente en un buen punto de referencia para un recorrido a pie por el casco antiguo.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Pocas estructuras concentran tanto simbolismo en 18 metros como el Puente Japonés (llamado localmente Chùa Cầu, o "Puente Pagoda"). Construido por la comunidad de comerciantes japoneses de Hoi An a finales del siglo XVI o principios del XVII, y reconstruido varias veces desde entonces, es el único puente de Vietnam que tiene un templo budista integrado directamente en su estructura. El techo curvo de tejas, la madera desgastada por el tiempo y las parejas de estatuas guardianas (monos en un extremo, perros en el otro, que se cree marcan los años en que comenzó y terminó la construcción del puente según el zodiaco vietnamita) lo convierten en el rincón más fotografiado de la ciudad, hasta el punto de que aparece impreso en el billete vietnamita de 20.000 dong.

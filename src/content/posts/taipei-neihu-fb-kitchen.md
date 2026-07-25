@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why go
 
 For decades, Formosa Plastics Group — one of Taiwan's largest industrial conglomerates — kept an in-house canteen that fed executives and staff but stayed closed to the public. That kitchen has now opened its doors to outside diners, and the draw is a single dish with a four-decade pedigree: a bone-in beef short rib recipe reportedly refined over 40 years inside the company's internal kitchens. Alongside it sits a beef short rib noodle soup, its broth simmered for three days and served only in limited daily quantities. The appeal here isn't ambiance or novelty plating — it's the rare chance to eat food that was, until recently, essentially private, corporate-only cuisine, now plated for anyone willing to show up.

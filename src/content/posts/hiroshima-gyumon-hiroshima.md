@@ -73,8 +73,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why GYUMON stands out
 
 Hiroshima's dining scene is famous for okonomiyaki and oysters, but the city also has a serious wagyu culture, and GYUMON Hiroshima is one of the names locals point to when the topic is high-grade yakiniku. A 4.9 average across more than 1,200 reviews is an unusually strong signal in a category where five-star ratings are common but rarely sustained at that volume — it suggests consistency across hundreds of visits, not a lucky handful of reviews. The restaurant sits on the 4th floor of the HM Hondori Kaikan building, tucked above the street-level shops of Hondori, Hiroshima's main covered shopping arcade in Naka Ward. Being upstairs rather than at ground level is typical of Japan's better yakiniku and izakaya spots, which often trade street visibility for a quieter, more focused dining room.

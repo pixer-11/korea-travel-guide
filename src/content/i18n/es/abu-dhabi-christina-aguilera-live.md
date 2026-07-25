@@ -17,8 +17,6 @@ faq:
     a: Yas Island alberga el Yas Mall (junto al recinto, ideal para cenar antes del show), Ferrari World y el Circuito de Yas Marina, por lo que es fácil convertir el concierto en un día completo o una escapada de fin de semana.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Las fechas de los eventos y las entradas cambian: confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué importa este concierto
 
 El regreso de Christina Aguilera a Abu Dabi llega justo después de una actuación con las entradas agotadas en los EAU a principios de 2026, y esta nueva fecha en el Etihad Arena confirma el enorme interés que despierta en la región un espectáculo pop a gran escala de una artista con un catálogo que incluye "Genie in a Bottle", "Beautiful" y "Fighter". El Etihad Arena es el recinto multiusos cubierto más grande del Golfo, construido precisamente para este tipo de producciones de gira a gran escala, con asientos escalonados y una configuración de pista flexible que puede pasar de filas estilo estadio a zonas de pie según el show.

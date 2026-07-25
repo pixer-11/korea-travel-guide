@@ -17,8 +17,6 @@ faq:
     a: Kuta Beach está a 5–10 minutos caminando, y tanto Tanjung Aan como el mirador de Bukit Merese están a un corto trayecto en scooter desde el restaurante, lo que facilita combinarlo con un día de playa.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, asistida por IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Kuta Lombok ha crecido rápidamente durante la última década, pasando de ser un tranquilo enclave surfista a convertirse en el principal centro de viajeros del sur de Lombok, y Kenza Cafe & Restaurant se ha convertido en uno de los nombres más confiables de la zona: una calificación de 4.6 con más de 3,600 reseñas es una señal significativa en un pueblo con tanta competencia de warungs y cafés de playa. El atractivo aquí es el formato moderno pero relajado: desayunos disponibles todo el día, bowls de smoothie, jugos frescos y un menú que combina platos indonesios clásicos con comida reconfortante occidental, pensado especialmente para surfistas, nómadas digitales y viajeros que recorren las playas y buscan reponer energías entre actividades. Es un local de precio medio (nivel de precio 2), por lo que está claramente por encima de los warungs callejeros básicos, pero muy por debajo de los precios de los restaurantes de resort.

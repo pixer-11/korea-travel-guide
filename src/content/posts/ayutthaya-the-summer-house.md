@@ -91,8 +91,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why The Summer House Stands Out
 
 Ayutthaya's historical park draws crowds for its brick prangs and half-collapsed Buddha heads, but The Summer House offers a different kind of pull: a shaded, plant-filled riverside terrace where the pace slows down. Set in Tambon Ko Rian, on the fringes of the historic city island, it's built around a wooden Thai-style house with an open-air garden that spills toward the water. The menu blends home-style Thai staples — think spicy salads, curries, and rice plates — with French-leaning pastries and coffee, an unusual pairing that's made it one of the most talked-about cafés in the province. With a 4.5 rating across more than 3,200 reviews, it has become a fixture on the "trendy Ayutthaya" circuit for both Thai weekenders from Bangkok and international visitors extending their temple-hopping day trip into an overnight stay.

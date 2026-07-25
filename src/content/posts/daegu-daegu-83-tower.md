@@ -86,8 +86,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Daegu 83 Tower is the closest thing the city has to a signature skyline landmark — an 83-story radio and observation tower (the name is a play on its floor count) topped with a distinctive octagon-shaped viewing deck. It anchors Duryu Park, one of Daegu's largest green spaces, and gives visitors a 360-degree look at the city ringed by mountains like Palgongsan and Biseulsan. With a 4.4 rating across more than 5,000 reviews, it's a well-liked stop for both first-time visitors and Daegu residents who bring out-of-town guests here specifically for the view.

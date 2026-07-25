@@ -17,8 +17,6 @@ faq:
     a: 'Sí: como Azukitoyo proviene del mismo equipo que Toyo Eatery, combinar una comida allí con una parada de kakigori es una forma natural de tener una visión más completa de su enfoque culinario, especialmente si ambos lugares se encuentran en la misma zona de Metro Manila.'
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, asistida por IA, con fuentes web actuales. Los horarios y detalles cambian: confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué vale la pena buscar Azukitoyo
 
 La escena gastronómica de Manila no tiene escasez de cafeterías de postres, pero Azukitoyo es un animal completamente distinto. Es un bar de kakigori —el arte japonés del hielo finamente raspado, dispuesto en capas con jarabes, cremas y a menudo toppings de fruta o frijoles— reimaginado a través de una mirada claramente filipina. El proyecto viene de Toyo Eatery, el aclamado restaurante de cocina filipina moderna conocido por reinterpretar platos tradicionales locales con precisión de chef, en colaboración con Florilège, el célebre restaurante de alta cocina en Tokio. Esa combinación por sí sola indica el nivel de oficio detrás del proyecto: esto no es hielo raspado como un simple refrigerio, sino un postre pensado con el mismo rigor que se esperaría de un menú degustación.

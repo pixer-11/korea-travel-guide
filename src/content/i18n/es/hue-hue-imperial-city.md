@@ -17,8 +17,6 @@ faq:
     a: La señalización en inglés es limitada, así que contratar un guía o alquilar una audioguía cerca de la entrada ayuda a comprender mejor la historia de la dinastía Nguyen, especialmente en las ruinas de la Ciudad Púrpura Prohibida.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Hue fue la capital política y cultural de la dinastía Nguyen de Vietnam entre 1802 y 1945, y la Ciudadela Imperial (conocida localmente como Đại Nội) era su sede de poder amurallada, inspirada vagamente en la Ciudad Prohibida de Pekín pero adaptada a la geomancia y la escala vietnamitas. Dentro de sus murallas y foso, de aproximadamente 2 km por lado, se encuentran palacios, templos dinásticos, jardines y los restos de la Ciudad Púrpura Prohibida, donde antiguamente solo se permitía la entrada al emperador, su familia y los eunucos. Gran parte del complejo resultó dañado durante la Ofensiva del Tet de 1968 y décadas de guerra y abandono, pero la restauración desde la década de 1990 (con el respaldo de la UNESCO) ha recuperado torres de acceso, salones del trono y detalles de tejados en vivos tonos rojos, dorados y azulejos vidriados. Con una calificación de 4.6 basada en más de 23,000 reseñas, se mantiene de forma constante como la principal atracción de Hue y es el eje central de la declaración más amplia de Patrimonio Mundial "Conjunto de Monumentos de Hue".

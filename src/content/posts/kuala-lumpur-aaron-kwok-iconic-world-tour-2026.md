@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why This Show Matters
 
 Aaron Kwok is one of Cantopop's "Four Heavenly Kings," a title that has defined Hong Kong pop stardom since the early 1990s alongside Jacky Cheung, Andy Lau, and Leon Lai. Decades on, Kwok remains known for elaborate, dance-heavy stage productions, and the ICONIC World Tour 2026 continues that reputation, arriving in Kuala Lumpur with a touring crew reported at 200 members — enough to suggest a full-scale arena production with multiple stage setups, LED design, and choreography rather than a stripped-down concert format. For fans across Southeast Asia, a Kuala Lumpur stop means one of the few chances in the region to catch this leg of the tour without traveling to Hong Kong, Taipei, or Singapore.

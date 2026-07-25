@@ -17,8 +17,6 @@ faq:
     a: Combina bien con los sitios del casco antiguo de Surabaya, incluido el museo House of Sampoerna y el histórico puente Jembatan Merah, ambos a poca distancia en coche hacia el sur.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Surabaya North Quay se encuentra en la azotea de un edificio con vistas a Tanjung Perak, uno de los puertos más activos de Indonesia, y convierte un tramo por lo demás industrial de la ciudad en un auténtico mirador. El atractivo es sencillo: una terraza al aire libre desde donde se pueden observar buques de carga, remolcadores y, en los mejores días, cruceros atracados, contra la extensión plana del mar de Java. No se trata tanto de profundidad histórica como de ambiente y fotografías, y precisamente por eso ha acumulado más de 23.000 reseñas y una sólida calificación de 4,4. A diferencia de muchos de los sitios de la época colonial en Surabaya, este es moderno, pensado específicamente para contemplar y quedarse un rato, en lugar de simplemente pasar por él.

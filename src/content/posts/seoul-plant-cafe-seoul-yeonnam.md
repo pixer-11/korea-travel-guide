@@ -46,8 +46,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Yeonnam-dong has become one of Seoul's most photogenic neighborhoods for café culture, and Plant Cafe Seoul stands out even in a district crowded with concept cafés. As the name suggests, the space leans hard into a botanical theme — think dense greenery, hanging vines, and a glasshouse or conservatory feel that makes it a favorite for both coffee lovers and anyone chasing a break from Seoul's concrete density. With a 4.5 rating across 251 reviews, it has built a loyal following among locals and visitors alike, which in a neighborhood this saturated with new openings says something about consistency.

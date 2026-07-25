@@ -17,8 +17,6 @@ faq:
     a: 'Sí: es del mismo equipo detrás de Scarpetta, el bar de pasta que se convirtió en un éxito viral en Singapur, así que puedes esperar un nivel similar de expectación y cuidado aplicado al formato de hamburguesa.'
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Los horarios y detalles cambian: confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Smash Street importa tanto por su linaje como por sus hamburguesas. Viene del equipo detrás de Scarpetta, el bar de pasta que se convirtió en un auténtico fenómeno viral dentro de la escena gastronómica de Singapur —el tipo de local que generó colas y revuelo en redes sociales en torno a un menú de clásicos reconfortantes elaborados con verdadera técnica—. Aplicar ese mismo instinto al formato smash-burger, un estilo que ha arrasado en las capitales gastronómicas del mundo en los últimos años, indica que esto no es un clon genérico de comida rápida-casual. El atractivo está en el contraste: hamburguesas de carne finas prensadas con fuerza sobre una plancha ardiente hasta que los bordes quedan profundamente caramelizados y casi con textura de encaje, montadas sobre panes de papa artesanales en lugar de los panes blandos y de producción masiva típicos del género. Para los visitantes que persiguen la siempre cambiante "próxima gran novedad" de Singapur, este local está actualmente en lo más alto de esa lista.

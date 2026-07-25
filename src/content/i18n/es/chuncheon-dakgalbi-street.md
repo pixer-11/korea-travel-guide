@@ -17,8 +17,6 @@ faq:
     a: Muchos visitantes combinan la comida con una excursión a la Isla Nami (Nami Island) o la Represa de Soyang (Soyang Dam), y aprovechan para explorar la calle comercial Myeongdong de Chuncheon en busca de cafeterías y bocadillos antes o después de comer.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Las imágenes tienen licencia o son de dominio público. Este es un panorama general del área o tema — verifica los detalles específicos del lugar antes de visitarlo. Consulta nuestra [política editorial](/about).
-
 ## Por qué Chuncheon es sinónimo de dakgalbi
 
 Chuncheon, la capital de la provincia de Gangwon, ubicada unos 80–100 km al noreste de Seúl, es reconocida como la cuna del dakgalbi: trozos de muslo de pollo marinados en una salsa a base de gochujang y salteados en una plancha plana junto con repollo, batata, tteok (pastel de arroz), hojas de perilla y cebollín. El plato surgió en la ciudad entre las décadas de 1960 y 1970 como una comida barata y abundante para estudiantes universitarios y trabajadores de fábricas, y desde entonces se ha convertido en la carta de presentación culinaria de Chuncheon, junto con el makguksu (fideos de trigo sarraceno). La franja de restaurantes dedicados a este plato, conocida informalmente como Dakgalbi Golmok (닭갈비 골목, "el Callejón del Dakgalbi"), se encuentra cerca del antiguo distrito comercial de Myeongdong, en el centro de Chuncheon, no lejos del arroyo Gonji-cheon.

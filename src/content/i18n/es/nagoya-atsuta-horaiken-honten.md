@@ -17,8 +17,6 @@ faq:
     a: La primavera y el otoño suelen tener esperas más cortas; el pleno verano, especialmente alrededor del día del buey (doyo no ushi no hi) a finales de julio, es la temporada tradicional para comer anguila y la época más concurrida y cara para ir.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 A Hōraiken se le atribuye la invención del hitsumabushi, el plato de anguila emblemático de Nagoya, y el honten (local principal) de Atsuta es el establecimiento original, que funciona en un edificio de madera tradicional cerca de Atsuta Jingu desde finales del siglo XIX. A diferencia de un unagi-don estándar, el hitsumabushi divide la anguila a la parrilla y el arroz en cuatro porciones dentro de un cuenco de madera lacada (ohachi), de modo que se come de una manera distinta cada vez: primero al natural, luego con condimentos como cebolleta, wasabi y nori, después bañado con caldo dashi al estilo ochazuke, y finalmente como más te haya gustado. Con una valoración de 4.5 sobre unas 7,650 reseñas, es uno de los restaurantes más elogiados de la ciudad de forma constante, y atrae tanto a locales que celebran ocasiones especiales como a viajeros que hacen un peregrinaje específico por este plato.

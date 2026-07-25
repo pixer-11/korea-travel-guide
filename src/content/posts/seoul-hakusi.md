@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why Hakusi stands out
 
 Hakusi belongs to Seoul's growing wave of Japanese-influenced tasting-menu restaurants, but its calling card is as much visual as it is culinary. The reopened space in Cheongdam-dong is deliberately composed like a still-life painting — thoughtfully arranged light, ceramics, and framing that make each course feel staged rather than simply served. That design-forward identity, combined with fresh Michelin recognition for 2026, has put it firmly on the radar of Seoul's dining cognoscenti. A signature example of the kitchen's style is unagi (freshwater eel) paired with sansho pepper and basil — a dish that shows how the chefs lean on Japanese technique while folding in unexpected, almost Mediterranean, herbal notes.

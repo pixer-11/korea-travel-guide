@@ -17,8 +17,6 @@ faq:
     a: Sí, en la mayoría de los puestos de ropa, antigüedades y artesanías; es normal empezar ofreciendo entre un 20–30% menos del precio pedido. Los puestos de comida suelen tener precios fijos.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Chatuchak no es un ordenado bazar turístico: es un mercado genuinamente activo que muchos habitantes de Bangkok todavía usan para comprar muebles, plantas y mascotas, y precisamente por eso vale la pena visitarlo. Con más de 15.000 puestos repartidos en 27 secciones numeradas, se le suele considerar uno de los mercados de fin de semana más grandes del mundo, y su calificación de 4,4 sobre más de 56.000 reseñas de Google refleja lo bien que funciona tanto para quienes lo visitan por primera vez como para los residentes de siempre en Bangkok. Espera una mezcla verdaderamente ecléctica: Levi's vintage y excedentes militares, cerámica hecha a mano, comida callejera de Isaan, vinilos de segunda mano, taxidermia y, sí, animales vivos a la venta (más sobre esto abajo).

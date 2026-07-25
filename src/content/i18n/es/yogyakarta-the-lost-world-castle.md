@@ -17,8 +17,6 @@ faq:
     a: Combina bien con el Merapi Volcano Jeep Tour, el búnker de Kaliadem y el Museo Sisa Hartaku, todos en la misma ladera volcánica y fáciles de combinar en una excursión de medio día.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 The Lost World Castle se encuentra en la ladera sur del monte Merapi, uno de los volcanes más activos de Indonesia, y su arquitectura de fortaleza de piedra es un escenario fotográfico deliberado: torres almenadas, una amplia terraza mirador y una gigantesca puerta con forma de calavera de dragón construida con roca volcánica. El lugar también funciona como un pequeño centro de visitantes de geología, con exhibiciones que explican el material que remodeló este paisaje tras la gran erupción del Merapi en 2010 —gran parte de la zona circundante quedó sepultada por el flujo piroclástico, y el propio "castillo" se construyó en parte con piedra volcánica recuperada. En las mañanas despejadas, la cima del Merapi es visible desde las murallas, lo cual es el verdadero atractivo más allá del telón de fondo para Instagram.

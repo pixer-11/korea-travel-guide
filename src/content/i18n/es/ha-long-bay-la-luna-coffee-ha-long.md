@@ -17,8 +17,6 @@ faq:
     a: Con más de 2,000 reseñas y una calificación de 4.4, es una parada popular, por lo que los fines de semana y los periodos de alta temporada pueden implicar esperar por las mejores mesas junto a la ventana o en la terraza.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en tiempo real de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La Luna Coffee Hạ Long se ha ganado su reputación —una calificación de 4.4 en más de 2,000 reseñas— por ser una de las cafeterías más fotogénicas y de diseño más cuidado de Bãi Cháy, el lado turístico de la bahía de Ha Long, al otro lado del agua respecto a Hon Gai. Es el tipo de lugar que tanto locales como visitantes usan para hacer una pausa con un café enmarcado por grandes ventanales, terrazas escalonadas y vistas cercanas a la bahía, más que por el café en sí. Si pasas un día en Bãi Cháy entre tours en barco, paseos en teleférico o tiempo de playa, es una parada fácil y cómoda para romper el ritmo de las visitas turísticas con algo más relajado y apto para Instagram.

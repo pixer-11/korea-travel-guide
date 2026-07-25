@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why this show matters
 
 MAMAMOO — Solar, Moonbyul, Wheein, and Hwasa — has one of the most loyal fanbases in Southeast Asia, and the Philippines has historically been one of their strongest overseas markets. Their return for a 2026 world tour date confirms Manila (specifically Quezon City) as a recurring stop for major K-pop acts. The group is known for live vocal power rather than pure choreography spectacle, so expect a setlist built around vocal showcases, unit stages, and fan-favorite tracks alongside newer material — though the official setlist and any guest lineup are not yet public.

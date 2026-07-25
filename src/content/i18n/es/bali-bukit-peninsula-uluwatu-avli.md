@@ -17,8 +17,6 @@ faq:
     a: El Templo de Uluwatu (Pura Luhur Uluwatu) y su danza Kecak al atardecer, además de la Playa de Padang Padang y la rompiente de surf de Uluwatu, están todos a poca distancia en coche.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Los horarios y detalles cambian — confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La península de Bukit, en Bali, no tiene escasez de beach clubs ni de menús de fusión panasiática, pero la auténtica cocina griega es rara aquí — precisamente por eso AVLI ha generado tanta expectación desde su apertura. Ocupa un espacio construido especialmente de 700 metros cuadrados, diseñado por DA Bureau, un estudio de arquitectura conocido por sus interiores escultóricos y centrados en los materiales, y solo la escala ya lo distingue de los pequeños restaurantes estilo warung que dominan Jalan Labuansait. Para los visitantes que ya han recorrido los lounges de acantilado de Uluwatu y quieren un cambio de cocina y ambiente sin salir de la península, AVLI es el nombre nuevo que hay que conocer.

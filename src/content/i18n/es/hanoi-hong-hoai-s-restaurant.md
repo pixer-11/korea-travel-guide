@@ -17,8 +17,6 @@ faq:
     a: El lago Hoàn Kiếm, el mercado Đồng Xuân y los cafés alrededor de la calle Nhà Thờ y la Catedral de San José (St. Joseph's Cathedral) están todos a poca distancia a pie.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El restaurante Hong Hoai se ha convertido silenciosamente en uno de los locales de comida más reseñados del Casco Antiguo, y las cifras lo respaldan: una calificación de 4.9 en más de 23,000 reseñas es algo poco común para cualquier restaurante, y más aún para un modesto local callejero en el distrito comercial más antiguo de Hanói. Su atractivo no está en la sofisticación, sino en el ambiente de comer tal como lo hacen los hanoyenses, en una mesa que se extiende hasta la acera, rodeada del ruido, las motos y los olores de las calles Bát Đàn y Hàng Bồ. Para los visitantes que intentan entender por qué la cultura callejera de Hanói atrae a la gente una y otra vez, este es un punto de entrada auténtico, y no una versión edulcorada para turistas.

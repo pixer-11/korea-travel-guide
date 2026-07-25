@@ -43,8 +43,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Yeonmudae, formally known as Dongjangdae (동장대) or the Eastern Command Post, is one of the more overlooked stops along Hwaseong Fortress, Suwon's UNESCO World Heritage-listed 18th-century defensive wall. While most visitors beeline for Hwaseong Haenggung Palace or the dramatic Paldalmun Gate, Yeonmudae was historically the fortress's military parade and training ground — where troops drilled, commanders reviewed formations, and archers practiced. Today it's a wide open plaza with a raised pavilion, flanked by mature pine trees, and it remains one of the few spots inside the fortress where visitors can actually fire a bow at a real target, giving a tactile sense of Joseon-era military life that the palace buildings alone don't provide. With a 4.5 rating across more than 3,000 reviews, it's clearly earned a loyal following among those who make the detour, even though it rarely appears on first-timer itineraries.

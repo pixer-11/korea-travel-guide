@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why Bad Roman Stands Out
 
 Los Angeles has no shortage of Italian restaurants, but Bad Roman was built to be different from the moment you walk in. It's the latest concept from Quality Branded Hospitality, the group behind two of the city's most talked-about restaurants of recent years, Don Angie and Zou Zou's. That pedigree matters: both predecessor restaurants built reputations on bold, design-forward rooms paired with confident, crowd-pleasing cooking, and Bad Roman applies that same playbook to Italian food on a bigger, more theatrical scale.

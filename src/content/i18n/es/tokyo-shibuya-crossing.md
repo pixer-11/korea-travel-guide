@@ -17,8 +17,6 @@ faq:
     a: Entre 20 y 30 minutos son suficientes para cruzarlo varias veces y tomar fotos a pie de calle; añade entre 45 y 60 minutos si quieres hacer cola para un mirador elevado como Shibuya Sky.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de información en tiempo real de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El Cruce de Shibuya (21 Udagawacho, Shibuya, Tokio 150-0042) es el cruce que ya has visto en decenas de películas y reportajes de televisión sobre Tokio: aquel donde confluyen cinco pasos de peatones y, cuando cambia el semáforo, cientos de personas inundan la calle desde todas las direcciones a la vez. Tiene una calificación de 4.5 estrellas en más de 22,000 reseñas, lo que lo convierte en una de las atracciones gratuitas mejor valoradas de la ciudad de forma constante. No tiene entrada, ni ticket, ni horario fijo: es un cruce de calle en pleno funcionamiento que resulta ser uno de los más transitados y fotografiados del mundo. En las horas punta, se calcula que el número de personas que cruzan en cada ciclo de semáforo llega a varios cientos, y en ocasiones supera el millar durante la hora punta nocturna.

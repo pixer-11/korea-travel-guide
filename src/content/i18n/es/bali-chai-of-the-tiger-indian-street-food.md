@@ -17,8 +17,6 @@ faq:
     a: El Palacio Real de Peliatan (Peliatan Royal Palace) con espectáculos de danza Legong, estudios de arte locales, y un paseo corto a pie o en moto hasta los mercados y los arrozales del centro de Ubud.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La oferta gastronómica de Ubud se inclina fuertemente hacia los warungs balineses, los cafés de comida cruda y los locales de brunch aptos para Instagram, así que un puesto dedicado a la comida callejera india destaca por sí solo. CHAI OF THE TIGER se centra en lo que realmente comerías en un carrito callejero de Mumbai o Delhi — chaat, rolls, chutneys y un auténtico masala chai — en lugar de una versión diluida y aburguesada de la cocina india pensada para turistas. Con una calificación de 4.6 en casi 800 reseñas, ha construido una clientela fiel mientras se mantiene fuera del radar en comparación con los restaurantes de mayor renombre de Ubud, lo que se traduce en menos esperas y un ritmo más relajado que en los locales más famosos de la ciudad.

@@ -48,8 +48,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Al Meshwar has built its reputation the straightforward way: charcoal-grilled Lebanese meats, generous mezze, and fast turnover at prices that don't punish you for eating out often. With more than 3,600 reviews and a 4.1 rating, it's one of the most consistently reviewed restaurants in Fujairah City, and it's earned that volume through reliability rather than novelty. This isn't a romantic hideaway or a design-forward space — it's a working Lebanese grill house that locals, expats, and travelers passing through the East Coast all end up at because the shawarma and grills deliver every time.

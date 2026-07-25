@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Dhayah Fort is the last hill fort standing in the UAE — most of the country's historic forts sit at ground level, but this one crowns a natural rocky outcrop above the palm groves of Ar Rams. Its mud-brick and stone towers date to the 19th century, and the fort holds a genuinely dramatic place in Emirati history: it's where the ruling Qawasim family made their final stand against a British East India Company assault in 1819, an event that led directly to the treaties that shaped the modern "Trucial States." Unlike restored showpiece forts elsewhere in the Gulf, Dhayah still feels raw and exposed on its hilltop, which is exactly what makes the view from the top worth the climb.

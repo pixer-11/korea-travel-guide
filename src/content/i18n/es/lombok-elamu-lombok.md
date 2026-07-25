@@ -17,8 +17,6 @@ faq:
     a: Kuta Beach, el mirador en lo alto del acantilado de Bukit Merese y la playa de Tanjung Aan están todos a un corto trayecto en scooter, lo que facilita armar un itinerario de medio día alrededor de la comida.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El distrito de Kuta en Lombok está lleno de warungs que sirven nasi campur y pescado a la parrilla, así que un restaurante griego que destaca con una calificación de 4.8 en más de 2400 reseñas merece atención. Elamu Lombok se ha convertido en un referente para los viajeros que buscan un descanso de los platos indonesios típicos —moussaka, souvlaki, tzatziki, halloumi a la parrilla y generosas tablas de mezze mediterráneo, servidos en un comedor al aire libre lleno de plantas, típico de la arquitectura de los pueblos costeros de Lombok. Es el tipo de lugar que funciona igual de bien para un almuerzo relajado después de surfear en Kuta o Mawun, que para una cena formal con la que cerrar un largo día recorriendo playas.

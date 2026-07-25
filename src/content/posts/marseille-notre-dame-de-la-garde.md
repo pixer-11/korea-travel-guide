@@ -46,8 +46,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Perched on a limestone outcrop 154 meters above the city, Notre-Dame de la Garde is Marseille's most recognizable landmark and its spiritual anchor—locals call it "la Bonne Mère" (the Good Mother). The neo-Byzantine basilica, completed in 1864 under architect Henri-Jacques Espérandieu, is crowned by a 9.5-meter gilded copper statue of the Virgin and Child sculpted by Charles-Auguste Lequesne, visible from ships entering the harbor and from most high points across the city. With a 4.8 rating across more than 50,000 reviews, it's one of the most consistently praised sights in Marseille, and the reason isn't just the church interior—it's the 360-degree terrace views stretching from the Vieux-Port to the Frioul Islands and, on clear days, toward the Calanques.

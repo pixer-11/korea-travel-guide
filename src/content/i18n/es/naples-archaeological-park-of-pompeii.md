@@ -17,8 +17,6 @@ faq:
     a: 'Sí, ambos están en la línea Circumvesuviana, pero son yacimientos grandes cada uno: combinarlos en un solo día implica ir con paso ligero y posiblemente saltarse algunos edificios menores en cada uno.'
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Pompeya no es una ruina en el sentido habitual: es una ciudad romana entera congelada en pleno día, sellada bajo ceniza volcánica y piedra pómez cuando el Vesubio entró en erupción en el año 79 d. C. Calles, panaderías, burdeles, templos, cuarteles de gladiadores y villas privadas con frescos y mosaicos intactos han sobrevivido porque la erupción los sofocó en lugar de destruirlos. Con una calificación de 4.7 en más de 85,000 reseñas, es uno de los sitios mejor valorados de Italia de forma constante, y sigue siendo el mejor lugar del mundo para ver cómo funcionaba realmente una ciudad romana corriente, hasta las rodadas de carros desgastadas en las calles de piedra y los mostradores de comida rápida (thermopolia) que aún las bordean.

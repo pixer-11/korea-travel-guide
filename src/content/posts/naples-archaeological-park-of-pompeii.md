@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Pompeii isn't a ruin in the usual sense — it's an entire Roman city frozen mid-day, sealed under volcanic ash and pumice when Vesuvius erupted in 79 AD. Streets, bakeries, brothels, temples, gladiator barracks, and private villas with intact frescoes and mosaics all survive because the eruption smothered rather than destroyed them. With a 4.7 rating across more than 85,000 reviews, it's one of the most consistently praised sites in Italy, and it remains the best place on earth to see how an ordinary Roman city actually functioned — down to the wheel ruts worn into the stone streets and the fast-food counters (thermopolia) still lining them.

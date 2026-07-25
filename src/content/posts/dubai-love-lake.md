@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Love Lake earns its name honestly: two adjoining lakes carved into the desert near Al Qudra form a pair of interlocking hearts, visible in full only from above (drone shots dominate Instagram) but still striking at ground level thanks to a raised wooden viewing platform. It sits within Dubai's Al Qudra Lakes network, a string of artificial lakes built to green the desert and support migratory birds, so beyond the heart motif you get flamingos, herons, and the odd oryx roaming nearby conservation land. With a 4.6 rating across more than 10,000 reviews, it's firmly established as one of Dubai's most-visited free attractions — expect a busy car park and steady foot traffic rather than a quiet desert secret.

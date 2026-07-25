@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Tarnim Magic Garden is one of Koh Samui's more surreal sights: a hillside packed with hundreds of concrete and painted statues — Buddhas in every posture, mythical animals, elephants, monks, folkloric figures, and dragons — arranged along winding paths and staircases that climb through jungle terrain. Waterfalls and ponds cut through the greenery, and the elevated position gives partial views over the surrounding hills toward the coast. It's not a polished museum experience; it's closer to an eccentric outdoor folk-art shrine built up over years, which is exactly its appeal. With a 4.4 rating across more than 6,400 reviews, it's become one of the island's most photographed offbeat stops, especially popular with visitors looking for something outside the usual beach-and-resort circuit.

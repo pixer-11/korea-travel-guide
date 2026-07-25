@@ -17,8 +17,6 @@ faq:
     a: El precio exacto no estaba disponible al momento de escribir esto. Al tratarse de un nuevo local insignia de una marca internacional reconocida, espera precios de cafetería-postre en el rango alto para Manila, pero confirma los precios actuales del menú en el lugar o en los canales oficiales del restaurante.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Los horarios y detalles cambian: confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Chocolatería San Ginés no es solo otro puesto de churros: es un pedazo de la historia de Madrid trasplantado a Manila. El local original abrió en 1894 en un callejón estrecho (Pasadizo de San Ginés) junto a la Iglesia de San Ginés de Madrid, a pocos pasos de la Puerta del Sol, y se hizo legendario como el lugar al que los madrileños llegan tras una noche de fiesta, o donde las familias van en una tranquila mañana de domingo, por una sola razón: los churros con chocolate. Ese enfoque único —churros finos y acanalados, fritos al momento y servidos con una taza de chocolate tan espeso que una cuchara se sostiene de pie— es lo que construyó una reputación de 130 años, y es el mismo emparejamiento que sostiene al nuevo local de Manila. Para comensales filipinos y expatriados que probaron el original de Madrid en un viaje por Europa, esta es una oportunidad de revivir ese recuerdo sin necesidad de volar; para el resto, es una introducción a una de las tradiciones de cafetería más perdurables de España, ahora recontextualizada en una ciudad con su propia y profunda huella colonial española.

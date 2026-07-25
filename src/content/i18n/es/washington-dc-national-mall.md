@@ -17,8 +17,6 @@ faq:
     a: El Tidal Basin (cerezos en flor, los memoriales de MLK y FDR, el Jefferson Memorial) está justo al sur, y los museos Smithsonian que bordean el Mall —de Historia Natural, de Historia Americana, de Historia y Cultura Afroamericana— pueden fácilmente llenar unas horas extra cada uno.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Pocos espacios públicos concentran tanta historia estadounidense por metro cuadrado como el National Mall. Con una calificación de 4.8 otorgada por casi 140,000 visitantes, este es el corazón ceremonial de Washington DC: un extenso césped abierto que va, a grandes rasgos, desde el Capitolio de EE. UU. (U.S. Capitol) hasta el Lincoln Memorial, con el obelisco de 555 pies del Washington Monument marcando el centro. En el camino encontrarás memoriales dedicados a Lincoln, FDR, Martin Luther King Jr. y los veteranos de la Segunda Guerra Mundial y Vietnam, además de la mayoría de los museos Smithsonian gratuitos que bordean los laterales. Más que una sola "atracción", es un distrito museístico al aire libre; espera caminar bastante y reserva al menos medio día para hacerle justicia.

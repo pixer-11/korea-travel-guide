@@ -17,8 +17,6 @@ faq:
     a: 'Sí: al ser un recinto real activo, ocasionalmente cierra por funciones o ceremonias de estado sin mucho aviso previo al público. Si tus fechas de viaje son fijas, verifica el día anterior, y desconfía de cualquiera fuera de las puertas que afirme que está cerrado como pretexto para llevarte a otro lugar.'
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué visitarlo
 
 Construido en 1782 por el rey Rama I como sede de la dinastía Chakri, el Gran Palacio es el monumento más fotografiado de Bangkok y, con una calificación de 4.6 en aproximadamente 79,000 reseñas, uno de los más elogiados de forma constante. Se trata de un complejo amurallado de agujas doradas, mosaicos de espejos y estatuas de guardianes mitológicos, más que de un solo edificio, y aún se utiliza para ceremonias de estado, por lo que algunas partes permanecen cerradas al público. La pieza central indiscutible es Wat Phra Kaew, el Templo del Buda de Esmeralda, que alberga la imagen budista más sagrada de Tailandia, tallada en un solo bloque de jade o jaspe verde (no de esmeralda, a pesar del nombre) y vestida con túnicas estacionales que el Rey cambia tres veces al año.

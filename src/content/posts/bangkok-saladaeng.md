@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why go
 
 Saladaeng occupies the 42nd floor of the office tower at Dusit Central Park, one of Bangkok's most anticipated new mixed-use developments on Silom-Rama IV, near Lumpini Park. What sets it apart from the city's crowded rooftop-bar scene isn't just altitude — it's the design pedigree. The space is furnished with more than 100 pieces from Fritz Hansen, the Danish furniture house behind icons like the Egg Chair and Series 7, arranged across four distinct zones rather than one uniform bar layout. That gives Saladaeng a split personality: part social club, part design showcase, part panoramic viewpoint over the Bangkok skyline. For visitors interested in where Bangkok's contemporary architecture, design culture, and nightlife scene are converging right now, it's a genuinely current answer.

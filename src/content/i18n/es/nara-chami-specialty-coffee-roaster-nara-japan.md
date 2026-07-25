@@ -17,8 +17,6 @@ faq:
     a: Al ser un tostador, CHAMI suele vender bolsas de su selección rotativa de granos de origen único, lo que lo convierte en un buen lugar para conseguir un recuerdo distintivo; lleva una bolsa o tote si piensas comprar algunos.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué CHAMI destaca
 
 Nara es famosa por sus ciervos que deambulan libremente y sus templos centenarios, pero su antiguo barrio comercial, Naramachi, se ha convertido silenciosamente en un rincón de cafeterías con conciencia de diseño y tiendas artesanales instaladas en antiguas casas de comerciantes. CHAMI - Specialty Coffee Roaster es uno de los mejores ejemplos de este cambio. Es a la vez un tostadero en funcionamiento y una cafetería, con una calificación de 4.7 en más de 1,700 reseñas, una combinación poco común de escala y consistencia para un local de café especializado. El atractivo no está solo en el café en sí, sino en el entorno: un espacio luminoso y cuidado arquitectónicamente que trata el café con la misma seriedad que los tostadores de Kioto y Tokio aplican a su oficio, pero sin las multitudes que generan esas ciudades.

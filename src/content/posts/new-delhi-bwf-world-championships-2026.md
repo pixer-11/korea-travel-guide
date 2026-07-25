@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why go
 
 Badminton's world championships is the sport's most prestigious individual tournament outside the Olympics, and 2026 marks the first time in 17 years that India gets to host it. That alone makes the week a landmark for South Asian badminton fans — a chance to watch the sport's biggest names compete on home soil for a home favorite, Lakshya Sen, and India's most decorated women's player, PV Sindhu, alongside global stars such as China's Shi Yu Qi and Korea's An Se-young. For visitors, it's also a reason to combine world-class sport with a first (or repeat) trip to Delhi, one of the subcontinent's great historic capitals.

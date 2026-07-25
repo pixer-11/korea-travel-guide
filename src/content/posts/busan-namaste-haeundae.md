@@ -41,8 +41,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Busan's Haeundae district is best known for its wide sandy beach, seafood stalls, and high-rise hotel views, but tucked into the grid of side streets behind the sand is Namaste Haeundae, an Indian and Nepali kitchen that has built a loyal following among both expats and Korean diners craving something other than kimchi and grilled fish. With a 4.8 rating across more than 3,200 reviews, it's one of the more consistently praised international restaurants in the neighborhood — a reliable stop if you've been eating Korean food for days and want a change of pace, or if you're simply craving a well-made curry after a morning at the beach.

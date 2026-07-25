@@ -17,8 +17,6 @@ faq:
     a: El Templo de Jing'an (Jing'an Temple), el Parque de Esculturas de Jing'an (Jing'an Sculpture Park) y la zona comercial de Nanjing Road West están todos a poca distancia a pie, lo que facilita combinar una visita a Goodbai Cafe con un recorrido turístico más amplio por el distrito.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA, usando fuentes web actuales. Los horarios y detalles cambian: confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué Goodbai Cafe destaca
 
 En Shanghái abren constantemente cafeterías respaldadas por celebridades, pero pocas llegan a convertirse en un fenómeno viral genuino como lo ha hecho Goodbai Cafe. Inaugurado por el actor chino Bai Jing Ting, el espacio funciona menos como una cafetería convencional y más como un híbrido de cafetería y concept-store: en parte lugar para tomar café, en parte experiencia de venta de marca, en parte escenario para el tipo de fotografía estilizada que domina Xiaohongshu (la plataforma china que mezcla Instagram y Pinterest). Su ascenso se ha debido casi por completo a las redes sociales: una oleada de publicaciones mostrando el diseño interior y el emblemático Goodbai Latte lo convirtió de un destino de nicho para fans en una parada obligada tanto para visitantes con sensibilidad estética como para turistas nacionales. Para quien esté siguiendo la escena de cafeterías modernas y de diseño de Shanghái, es actualmente uno de los nombres que más circula.

@@ -17,8 +17,6 @@ faq:
     a: Ariake está cerca de las atracciones frente al mar de Odaiba, los museos de arte digital teamLab y el Mercado de Toyosu, todos accesibles en un corto trayecto en tren, lo que facilita combinar el concierto con turismo.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, asistida por IA, utilizando fuentes web actuales. Las fechas de eventos y las entradas cambian; confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué importa este show
 
 Tyler, the Creator no se presenta en Japón desde hace ocho años, así que la parada de Chromakopia: The World Tour en el Ariake Arena el 9 y 10 de septiembre de 2026 es una oportunidad poco frecuente para los fans en Asia de verlo en vivo sin tener que volar a Norteamérica o Europa. Chromakopia es el ciclo del álbum detrás de la gira, y los shows en vivo de Tyler son conocidos por su elaborado diseño escénico, los cambios de vestuario y un repertorio que abarca toda su discografía, desde las épocas de "Flower Boy" e "IGOR" hasta material más reciente. Dos noches consecutivas en Tokio indican una fuerte demanda, por lo que esta se considera una fecha internacional de primer nivel y no una simple parada adicional.

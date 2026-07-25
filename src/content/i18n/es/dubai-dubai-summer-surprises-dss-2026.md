@@ -17,8 +17,6 @@ faq:
     a: The Dubai Mall está junto al Burj Khalifa y la Fuente de Dubái (Dubai Fountain), lo que facilita combinar una visita a un centro comercial de DSS con los principales atractivos turísticos de Dubái en la misma salida.
 ---
 
-> **Cómo se elaboró esta guía:** revisada por un editor, con asistencia de IA, usando fuentes web actuales. Las fechas de los eventos y las entradas cambian: confirma siempre en la web oficial. Consulta nuestra [política editorial](/about).
-
 ## Qué es realmente DSS
 
 Dubai Summer Surprises (DSS) no es un evento único, sino un festival paraguas que envuelve a toda la ciudad durante casi dos meses. Organizado por la Dubai Festivals and Retail Establishment (DFRE), el mismo organismo detrás del Dubai Shopping Festival, DSS 2026 se celebra del 3 de julio al 30 de agosto. En lugar de una única puerta de entrada, se trata de un impulso estacional de descuentos comerciales, sorteos, entretenimiento dentro de los centros comerciales y programación orientada a las familias, repartido por todo el emirato. Si visitas Dubái en pleno calor veraniego, DSS es la razón por la que los centros comerciales se sienten más animados y las actividades infantiles se multiplican.

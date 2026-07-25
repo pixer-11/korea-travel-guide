@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why go
 
 Hyderabad has no shortage of rooftop bars, but Kadamba stands apart because the design doesn't fight the site — it grows out of it. The rooftop is built around three actual Kadamba trees, left in place rather than potted as decoration, with low benches set directly into the layout so the whole space reads like a modern take on a village chaupal (the communal shaded gathering spot found across rural India) rather than a generic glass-and-steel lounge. The payoff is a setting that feels rooted and unusually calm for a bar this buzzy, with views opening out over Durgam Cheruvu, the rock-fringed lake that has become Madhapur's defining landmark.

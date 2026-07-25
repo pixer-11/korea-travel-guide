@@ -17,8 +17,6 @@ faq:
     a: Prueba el daetongbap (arroz cocido al vapor en bambú) en un restaurante local, camina por la Carretera de los Metasequoias justo al lado, y considera el parque ribereño de Gwanbangjerim o el jardín tradicional de Soswaewon si tienes un día completo en Damyang.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Las imágenes tienen licencia o son de dominio público. Este es un resumen general del área/tema — verifica los detalles específicos del lugar antes de visitarlo. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Damyang, un pequeño condado en la provincia de Jeolla del Sur a unos 20-30 minutos al norte de Gwangju, ha sido sinónimo de artesanía en bambú durante siglos: las cestas, esteras y abanicos de bambú de esta región llegaron a enviarse como tributo a la corte real. Juknokwon, inaugurado en 2003, transformó ese legado en un parque público al trazar pasarelas y caminos de tierra a través de un denso bosquecillo de imponentes bambúes moso (algunos tallos superan los 10 metros). El susurro del viento entre miles de tallos, la luz teñida de verde que se filtra desde arriba y el aire fresco incluso en verano lo convierten en una de las atracciones naturales más evocadoras del país, además de un escenario favorito para dramas y películas coreanas.

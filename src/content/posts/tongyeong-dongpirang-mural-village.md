@@ -29,8 +29,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting. See our [editorial policy](/about).
-
 ## Why go
 
 Dongpirang ("East Cliff Village") is one of Korea's original mural villages — the model that inspired similar projects across the country. In the mid-2000s, the hillside neighborhood was slated for demolition as part of an urban redevelopment plan. A civic art group and volunteers painted murals across the walls, stairways, and rooftops of the low-rise houses to draw public attention and save the village. It worked: the murals turned a quiet fishing-town hillside into one of Tongyeong's most photographed spots, and the neighborhood is still lived-in, not a staged film set. Expect narrow lanes, sea-facing views, laundry hanging next to painted walls, and a slightly steep but manageable climb.

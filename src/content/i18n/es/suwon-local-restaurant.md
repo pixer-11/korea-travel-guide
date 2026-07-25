@@ -17,8 +17,6 @@ faq:
     a: El Palacio Hwaseong Haenggung y las puertas de la fortaleza (Paldalmun, Janganmun, Hwaseomun) están todas a poca distancia a pie y son paradas naturales antes o después de comer.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Las imágenes tienen licencia o son de dominio público. Este es un resumen general del área/tema — verifica los detalles específicos del lugar antes de visitarlo. Consulta nuestra [política editorial](/about).
-
 ## Por qué Suwon, y por qué su escena gastronómica
 
 Suwon es conocida principalmente como la sede de la Fortaleza Hwaseong (Hwaseong Fortress), la ciudad amurallada del siglo XVIII declarada Patrimonio de la Humanidad por la UNESCO y construida por el rey Jeongjo. Pero la fortaleza no es solo un telón de fondo histórico: los barrios dentro y alrededor de sus murallas se han convertido en uno de los lugares más gratificantes para comer de la provincia de Gyeonggi. El plato insignia de Suwon, el **galbi de Suwon** (costillas de res a la parrilla, tradicionalmente cortadas más gruesas que el galbi al estilo de Seúl), se originó aquí a mediados del siglo XX y sigue siendo la razón por la que muchos visitantes de un día vienen específicamente a comer antes o después de recorrer la fortaleza. Más allá del galbi, la zona alrededor de la Puerta Paldalmun (Paldalmun Gate) y los mercados tradicionales cercanos ofrecen una concentración densa y caminable de restaurantes locales que rara vez aparecen en menús en inglés en otros lugares.

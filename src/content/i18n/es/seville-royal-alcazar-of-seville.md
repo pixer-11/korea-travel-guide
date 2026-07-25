@@ -17,8 +17,6 @@ faq:
     a: 'Sí: la Catedral de Sevilla y la torre de la Giralda están a pocos pasos, en la misma plaza, y el histórico barrio de Santa Cruz limita con el palacio, lo que facilita organizar un recorrido de medio día.'
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El Real Alcázar de Sevilla no es una ruina ni una pieza de museo que simula la vida real: es un palacio en funcionamiento, todavía utilizado por la familia real española cuando se encuentra en la ciudad, lo que lo hace único entre los grandes monumentos de España. Su pieza central, el Palacio de Don Pedro, fue construido en la década de 1360 por el rey cristiano Pedro I con artesanos moriscos procedentes de Granada, dando lugar a un edificio que es técnicamente cristiano pero visualmente y estructuralmente mudéjar: arcos de herradura, yeserías talladas, techos dorados y kilómetros de azulejos del siglo XVI. Si a esto se suman el Palacio Gótico, el Salón del Almirante (donde antaño se planeaban los viajes a las Américas) y los extensos jardines con fuentes, pabellones y pavos reales, se entiende fácilmente por qué mantiene una valoración de 4,7 en más de 100.000 reseñas. También es un escenario de rodaje de "Juego de Tronos" (como los Jardines del Agua de Dorne), lo que atrae a un grupo de visitantes que buscan específicamente esos rincones.

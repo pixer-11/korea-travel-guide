@@ -17,8 +17,6 @@ faq:
     a: El Palio dell'Assunta se celebra tradicionalmente el 16 de agosto, pero conviene verificar siempre la fecha exacta, la hora de inicio y cualquier cambio de última hora a través de la oficina de turismo oficial de Siena antes de cerrar los planes de viaje.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Las fechas y entradas de los eventos cambian; confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El Palio di Siena no es una recreación ni un espectáculo montado para turistas: es un ritual cívico centenario que las familias sienesas viven intensamente todo el año. Dos veces al año (2 de julio y 16 de agosto), diez de las diecisiete contrade de Siena envían un caballo y un jinete alrededor del perímetro de la Piazza del Campo para dar tres vueltas vertiginosas que duran apenas 90 segundos. La edición de agosto, el Palio dell'Assunta, se corre en honor a la Asunción de la Virgen María y coincide de lleno con el periodo festivo del Ferragosto italiano, por lo que la ciudad se llena tanto de devoción como de calor. Ver a miles de sieneses apretujados en el Campo, cantando himnos de sus contrade y llorando o vitoreando según se desarrolla el resultado, es una experiencia mucho más visceral que la propia carrera.

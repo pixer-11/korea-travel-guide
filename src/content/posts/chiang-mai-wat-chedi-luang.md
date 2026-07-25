@@ -85,8 +85,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Wat Chedi Luang is one of the most historically important temples in northern Thailand, built around a colossal chedi (stupa) that once stood over 80 meters tall before a 16th-century earthquake — and possibly cannon fire during a later Burmese siege — brought down its upper section. What remains is still an imposing, weathered brick-and-stucco mass ringed by naga serpent staircases and elephant sculptures at its base, giving it a gravitas that Chiang Mai's more polished, gilded temples don't quite match. The complex also houses the city's *lak mueang*, the guardian pillar believed to protect Chiang Mai, sheltered in a small structure beside a sacred gum tree (*sadeu mueang*) said to be as old as the city itself. Rated 4.7 from over 18,500 reviews, it's consistently one of the highest-regarded sights in the Old City.

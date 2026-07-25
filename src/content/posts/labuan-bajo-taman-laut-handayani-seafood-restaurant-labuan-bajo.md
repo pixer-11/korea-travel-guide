@@ -92,8 +92,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Labuan Bajo's harbor is lined with seafood restaurants catering to travelers heading to or from Komodo National Park, and Taman Laut Handayani is one of the town's best-known names for this style of dining. The draw is straightforward: display cases of fresh fish, prawns, squid, crab, and lobster that you select yourself, priced and weighed on the spot, then grilled or wok-fried to order with Indonesian seasonings like sambal, sweet soy (kecap manis), and butter garlic. With a 4.6 rating across more than 5,700 reviews, it's firmly established as one of the highest-volume seafood addresses in Labuan Bajo, not a quiet find — expect a lively, full dining room most evenings.

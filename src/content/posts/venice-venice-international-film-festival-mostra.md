@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why go
 
 The Mostra is the world's oldest film festival, founded in 1932, and it remains one of the "Big Three" alongside Cannes and Berlin. Unlike Cannes, its home base isn't the main Venetian islands but the Lido, a slim barrier island a short boat ride from San Marco. For the 2026 edition (September 2–12), Maggie Gyllenhaal presides over the jury that awards the Golden Lion, the festival's top prize. Beyond the competition, expect world premieres, gala screenings, and the kind of red-carpet density that turns a quiet beach town into a paparazzi corridor for ten days.

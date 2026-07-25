@@ -88,8 +88,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Hai's Restaurant Stands Out
 
 With a 4.9 rating across nearly 8,000 reviews, Hai's Restaurant is one of the most consistently praised dining spots in Ho Chi Minh City for visitors wanting reliable, well-executed Vietnamese food without gambling on a random street stall. It's built its reputation over years of serving tourists and long-term expats alike, which shows in the polish: English-speaking staff, a menu that explains dishes clearly, and a dining room that's comfortable for those easing into Vietnamese cuisine for the first time. It's not a hidden gem — it's a dependable institution, and that's exactly its appeal.

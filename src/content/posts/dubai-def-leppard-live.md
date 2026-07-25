@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why go
 
 Def Leppard remain one of the defining arena-rock acts to emerge from the late-1970s/early-1980s NWOBHM (New Wave of British Heavy Metal) scene, with a catalog that includes *Hysteria*, *Pyromania*, and stadium staples like "Pour Some Sugar on Me," "Photograph," and "Rock of Ages." A Dubai date on their 2026 touring schedule is a rare chance for fans across the Gulf and South Asia to catch a full production show without flying to Europe or North America. The August 2, 2026 date slots into what's shaping up to be a busy year for international acts routing through the UAE, and Coca-Cola Arena has become the region's go-to indoor venue for this scale of production.

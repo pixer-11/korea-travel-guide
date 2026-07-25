@@ -45,8 +45,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Kata Beach is packed with beach-club restaurants charging resort prices for so-so pad thai, which makes a spot like Hug Street Food stand out. It's a no-frills, street-food-style eatery on Thanon Kake Kwan, the small road that runs behind Kata Beach's main shoreline strip, and it's earned an unusually strong 4.8 rating across more than 400 reviews — a sign that the cooking is consistent, not just cheap. This is the kind of place regulars return to on repeat trips to Phuket precisely because it hasn't been remodeled into a Instagram-lit tourist trap.

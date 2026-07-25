@@ -17,8 +17,6 @@ faq:
     a: Principios de septiembre suele ser algo menos caluroso y húmedo que finales de agosto, aunque todo el período cae dentro de la temporada de tifones en Taipéi, así que conviene incluir flexibilidad en el itinerario en torno a las fechas de cualquier función específica.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Las fechas de los eventos y las entradas cambian — confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El Taipei Fringe Festival es la respuesta de Taiwán al modelo de acceso abierto que popularizaron los fringe de Edimburgo y Adelaida: en lugar de una programación curada de forma centralizada, es una plataforma donde creadores de teatro independiente, bailarines y artistas escénicos —muchos autoproducidos, muchos con propuestas experimentales o que rompen límites— alquilan sedes y venden sus propias entradas bajo el paraguas de un mismo festival. Para quien visita, esto significa una muestra densa e impredecible de la escena de artes contemporáneas de Taipéi, que abarca teatro de sala íntima (black-box), danza-teatro de creación colectiva, cabaret y espectáculos interdisciplinarios, gran parte en mandarín pero a menudo con sobretítulos en inglés o con propuestas físicas/visuales que trascienden el idioma. La edición 2026 se extiende por un período largo —del 23 de agosto al 7 de octubre—, lo que da a los visitantes mucha más flexibilidad que un festival típico de una semana.

@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why go
 
 The European Aquatics Championships bring together the continent's best swimmers, divers, artistic swimmers, water polo teams and open-water athletes for over two weeks of competition. The 2026 edition is notable because it returns to the exact infrastructure built for the Paris 2024 Olympic Games — meaning spectators get to experience world-class venues, such as the Olympic Aquatics Centre, in the same configuration used by Olympic medalists just two years earlier. For swimming and diving fans, this is effectively a chance to sit in an Olympic-legacy pool without an Olympic-sized crowd or price tag.

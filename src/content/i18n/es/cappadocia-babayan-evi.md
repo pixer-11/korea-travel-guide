@@ -17,8 +17,6 @@ faq:
     a: De abril a junio y de septiembre a noviembre el clima es suave, ideal para paseos en globo aerostático y caminatas por el valle, lo que convierte a estos meses en las ventanas más populares (y también más concurridas) para combinar con una comida capadocia.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, utilizando fuentes web actuales. Los horarios y detalles cambian; confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué Babayan Evi es importante
 
 Capadocia (Cappadocia) es famosa por sus globos aerostáticos y sus formaciones rocosas de chimeneas de hadas, pero hasta 2026 nunca había aparecido en el radar de la Guía Michelin. Babayan Evi cambió eso. Fue nombrado entre las primeras selecciones Michelin de la región, y se llevó dos distinciones a la vez: un Bib Gourmand, el sello de Michelin para la excelente comida a precios moderados, y una Estrella Verde, el galardón más reciente reservado para restaurantes que demuestran un compromiso genuino con la cocina sostenible y responsable con el medio ambiente. Muy pocos restaurantes en el mundo obtienen ambas distinciones a la vez, lo que convierte a Babayan Evi en una especie de caso emblemático de lo que puede ser la gastronomía capadocia cuando se apoya en su propio terruño en lugar de imitar menús internacionales.

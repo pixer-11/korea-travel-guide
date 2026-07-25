@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why Sabor is worth knowing about
 
 Chijmes has hosted restaurants and bars for years inside its former convent chapel and courtyard, but Sabor gives the space a new identity: Spanish tapas, served communal-style, from the same team behind Duomo Ristorante. That pedigree matters in Singapore's restaurant scene — Duomo has built a reputation for polished Italian dining, and Sabor is their bet that the same hospitality instincts translate well to sherry, jamón, and small plates meant for sharing. Having opened in April 2026, it's still finding its rhythm, which is part of the appeal: the energy of a genuinely new opening rather than an established institution coasting on reputation.

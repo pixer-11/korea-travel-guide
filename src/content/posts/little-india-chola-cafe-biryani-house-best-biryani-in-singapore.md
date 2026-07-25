@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Chola Cafe - Biryani House has built a reputation almost entirely on word of mouth and online reviews — a 4.9 rating across 439 reviews is unusually high for a casual eatery, and the name it's trading under, "Best Biryani in Singapore," is a bold claim it's clearly trying to live up to. Unlike the big-name biryani stalls that dominate Little India's main strip, this one sits on Clive Street, a quieter lane just off the neighborhood's tourist core, which means less foot traffic and shorter waits even though the food quality is comparable to spots that draw much bigger crowds.

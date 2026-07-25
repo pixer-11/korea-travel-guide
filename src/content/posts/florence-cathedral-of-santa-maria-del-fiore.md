@@ -70,8 +70,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Santa Maria del Fiore, universally called the Duomo, is the fourth-largest church in Europe and the symbol of Florence's Renaissance ambition. Begun in 1296 to a design by Arnolfo di Cambio, it wasn't finished for nearly 150 years — the real breakthrough came in 1436, when Filippo Brunelleschi completed the octagonal brick dome without a supporting scaffold, using a self-supporting double-shell design that was unprecedented at the time and remains the largest masonry dome ever built. The pink, white, and green marble facade you see today is actually a 19th-century addition (1876–1887) by Emilio De Fabris; the medieval original was torn down unfinished in the 1580s. Rated 4.8 by over 110,000 visitors, it's one of the most-reviewed sights in Italy, and for good reason — this is Florence's civic heart, not just a photo backdrop.

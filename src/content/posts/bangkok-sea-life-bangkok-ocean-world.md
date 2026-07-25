@@ -90,8 +90,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 SEA LIFE Bangkok Ocean World is one of Southeast Asia's largest urban aquariums, built across two basement levels (B1-B2) beneath Siam Paragon, one of Bangkok's flagship shopping malls. With roughly 4.5 stars from over 30,000 reviews, it's consistently rated as a reliable, family-friendly attraction rather than a tourist trap — a rarity for a mall-based aquarium. The draw is the sheer scale: hundreds of marine species, a 270-degree glass ocean tunnel, and a mix of static viewing tanks with more active programming like 4-D theater screenings and glass-bottom boat rides over the shark tank.

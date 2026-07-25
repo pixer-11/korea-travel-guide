@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Few attractions in Thailand match the sheer audacity of the Sanctuary of Truth. Rising up to 105 meters (roughly the height of a 20-story building) on a bluff overlooking the Gulf of Thailand in Naklua, north Pattaya, the structure is built almost entirely from teak and other hardwoods, with no steel reinforcement — every beam, pillar, and figure is carved by hand. Construction began in 1981 and, by design, remains perpetually unfinished, with carpenters and sculptors still working on-site. The building's four soaring towers represent Cambodian, Chinese, Khmer, and Thai artistic influences, and the carvings depict Buddhist and Hindu cosmology, Thai folklore, and philosophical concepts about humanity's relationship to nature and each other. With a 4.7 rating across more than 44,000 reviews, it's one of Pattaya's most consistently praised sights — a rare cultural counterweight to the city's beach-and-nightlife reputation.

@@ -29,8 +29,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting. See our [editorial policy](/about).
-
 ## Why Busan Rewards a Slow Look
 
 Korea's second city trades Seoul's density for coastline, mountains, and a working port that still smells like a fish market at 7am. Busan spreads across ridgelines and beaches rather than a single flat grid, so sightseeing here means moving between distinct neighborhoods rather than walking everything from one hub. That's the appeal: a morning at a Joseon-era fortress or Buddhist temple, an afternoon on sand, and dinner at a market that's operated since the Korean War.

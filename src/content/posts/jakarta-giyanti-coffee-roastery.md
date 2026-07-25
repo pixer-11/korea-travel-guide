@@ -48,8 +48,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Giyanti Coffee Roastery has built its reputation on doing one thing well: sourcing and roasting Indonesian coffee beans and letting them speak for themselves. Housed in a converted colonial-era building on Jl. Surabaya, the cafe roasts on-site and rotates single-origin offerings from across the archipelago — think Gayo from Aceh, Toraja from Sulawesi, Kintamani from Bali, and Flores Bajawa — alongside imported beans for comparison. With a 4.6 rating from over 4,300 reviews, it's firmly established as one of Jakarta's go-to spots for people serious about coffee, not just a trendy backdrop for photos (though the industrial-meets-heritage interior does that too).

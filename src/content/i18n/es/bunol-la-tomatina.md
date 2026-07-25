@@ -17,8 +17,6 @@ faq:
     a: 'Usa ropa vieja y calzado cerrado que estés dispuesto a desechar, considera llevar gafas de natación para proteger los ojos, y lleva una bolsa sellada para el móvil: nada que no esté protegido sobrevive a la pulpa de tomate.'
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, utilizando fuentes web actuales. Las fechas y entradas de los eventos cambian; confirma siempre en la web oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La Tomatina es la batalla campal de comida más fotogénica de España: más de 100 toneladas métricas de tomates demasiado maduros lanzados por las estrechas calles del casco antiguo de Buñol en una sola y caótica mañana. Comenzó en la década de 1940, según cuentan a raíz de una riña espontánea entre vecinos durante un desfile del pueblo, y desde entonces se ha convertido en un festival conocido mundialmente que atrae a visitantes de decenas de países. Su atractivo no es el de un espectáculo cultural refinado, sino la diversión pura, colectiva y un poco absurda de ver cómo un pequeño pueblo valenciano se transforma en un mar de pulpa roja durante una hora al año.

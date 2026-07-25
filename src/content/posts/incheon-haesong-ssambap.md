@@ -41,8 +41,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Ssambap — literally "wrapped rice" — is one of Korea's most communal, vegetable-forward meals: a table fills up with fresh lettuce, perilla leaves, rice, grilled or braised protein, and a small army of banchan (side dishes) that you wrap by hand and eat in a few bites. Haesong Ssambap, in Jung-gu on Incheon's Yeongjong Island, has built a strong local reputation for doing this well at scale, with a 4.0 rating across nearly 3,000 reviews — a sign it handles high turnover without losing consistency. Its location near Incheon International Airport makes it a genuinely useful address, not just a novelty: it's the kind of place travelers use to eat a real Korean meal in the window before a flight or right after touching down.

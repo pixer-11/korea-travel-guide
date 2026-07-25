@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Yongyeon ("Dragon Pool") is a short, deep inlet where a freshwater stream meets the sea, hemmed in by wooded basalt cliffs that curve like a natural amphitheater. A single red suspension bridge and a traditional-style pavilion span the narrowest point, and the whole scene is compact enough to feel intimate rather than monumental. With a 4.2 rating from over 2,600 reviews, it has a loyal following, but it's still the kind of stop many visitors to Jeju City skip in favor of bigger-name sights — which keeps it comparatively unhurried, especially outside of sunset hours.

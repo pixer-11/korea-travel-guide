@@ -17,8 +17,6 @@ faq:
     a: No, recorrer el barrio en sí es gratis. Solo algunos sitios específicos dentro de él, como la Casa Antigua (Ancient House) en 87 Ma May, cobran una pequeña tarifa de admisión.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El Casco Antiguo es el corazón comercial original de Hanói, con una historia de casi 1.000 años, desde que los artesanos y comerciantes de la dinastía Ly se organizaron en gremios junto al lago Hoan Kiem. Cada gremio ocupó una calle llamada "Hang" (que significa "mercancía") seguida de su especialidad — Hang Bac para los plateros, Hang Ma para el papel votivo y, hoy en día, las decoraciones festivas, Hang Gai para la seda. Muchas de estas calles todavía venden aproximadamente lo mismo que hace siglos, entremezclado ahora con talleres de motos, cafeterías y bares para mochileros. Con una calificación de 4.6 basada en casi 10.000 reseñas, se le considera de forma constante el barrio más esencial de Hanói para recorrer a pie en lugar de simplemente contemplar — el atractivo está en el ambiente y la densidad, no en un único sitio con entrada.

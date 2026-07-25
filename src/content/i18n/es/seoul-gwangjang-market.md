@@ -17,8 +17,6 @@ faq:
     a: Calcula entre 1 y 2 horas para comer y curiosear. El arroyo Cheonggyecheon (Cheonggyecheon Stream) está a pocos minutos caminando hacia el sur, y el Dongdaemun Design Plaza queda a unos 15-20 minutos a pie.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con ayuda de IA. Datos como valoraciones y ubicación provienen de datos en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué el mercado de Gwangjang es importante
 
 Inaugurado en 1905, Gwangjang está considerado ampliamente como el primer mercado permanente de Seúl, construido para comerciar textiles y artículos del hogar junto al arroyo Cheonggyecheon. Sigue funcionando de día como mercado mayorista de telas y hanbok, pero desde la década de 2010 su callejón gastronómico se ha convertido en el destino de comida callejera más famoso de la ciudad, atrayendo tanto a clientes de toda la vida que llevan décadas comiendo allí como a un flujo constante de visitantes internacionales en busca de los famosos panqueques chisporroteantes y el gimbap enrollado a mano que han visto en vídeos virales. Con una valoración de 4.3 sobre unas 42,000 reseñas, es uno de los mercados gastronómicos más reseñados del país; sin embargo, las multitudes no lo han vaciado de autenticidad como ha ocurrido en otros lugares muy turísticos, porque los vecinos siguen comprando y comiendo allí a diario.

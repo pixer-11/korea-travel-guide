@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Dotonbori is Osaka's food capital
 
 Dotonbori runs along the south bank of the Dotonbori canal in Chuo Ward, and it's less a single restaurant strip than the physical embodiment of Osaka's food culture, "kuidaore" — eat until you go broke. The district is famous for its wall of illuminated signage, above all the Glico Running Man billboard, plus giant mechanical crabs, dragons, and puffer fish marking restaurant entrances. With a 4.4 rating across nearly 85,000 Google reviews, it's firmly established as one of Japan's most-visited food destinations, and the crowds on any given evening prove it.

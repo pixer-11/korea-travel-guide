@@ -17,8 +17,6 @@ faq:
     a: Reserva una sesión matutina durante la temporada seca (noviembre-abril) para disfrutar de un clima más fresco y elefantes más activos; reserva con varios días de antelación en el período de mayor afluencia (diciembre-febrero).
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Phuket tiene decenas de empresas que ofrecen "experiencias con elefantes", pero la mayoría siguen agrupadas en torno al viejo modelo de los campamentos de paseo. Green Elephant Sanctuary Park, ubicado en Soi Cherngtalay 1, en el distrito de Thalang, se ha ganado su reputación por el camino contrario: nada de paseos, nada de cadenas a la vista, nada de trucos: solo observar, alimentar y bañar a elefantes de trabajo rescatados en un recinto arbolado y con sombra. Con una calificación de 4.9 sobre casi 3,900 reseñas, es una de las atracciones más elogiadas de la isla de forma constante, y aún pasa relativamente desapercibida frente a los parques de renombre cerca de Kata y Chalong.

@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why Fuga R stands out
 
 Paris has no shortage of rooftop bars, but most cluster around the Seine, the Marais, or the grands boulevards. Fuga R breaks that pattern by planting itself above the Monceau district in the 8th arrondissement, a quieter, moneyed pocket of the city best known for Parc Monceau's classical follies and grand Haussmannian townhouses. Opened in 2026 as part of the Fuga group's expansion, the venue's headline feature is a genuine 360-degree panorama — a rarer commodity than it sounds, since most Parisian rooftops only offer a partial skyline slice. That full-circle view, paired with the group's reputation for design-forward spaces, is why it's already being talked about as one of the city's trendsetting new openings for drinks and dining.

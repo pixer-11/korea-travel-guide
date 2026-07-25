@@ -17,8 +17,6 @@ faq:
     a: El Observatorio Cheomseongdae, el Bosque Gyerim y la Fortaleza Wolseong están a 15–20 minutos a pie, lo que permite armar un fácil recorrido nocturno a pie o en bicicleta por la Gyeongju de la era Silla.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El Palacio Donggung y el estanque Wolji (todavía conocido por su antiguo nombre, Anapji) se construyó alrededor del año 674 d. C. como palacio secundario del reino de Silla, utilizado para banquetes reales y para recibir a huéspedes importantes. Lo que sobrevive y ha sido reconstruido es un conjunto de pabellones dispuestos alrededor de un estanque artificial con tres pequeños islotes, un paisaje en miniatura diseñado deliberadamente para evocar las míticas montañas de los inmortales. Las excavaciones realizadas aquí sacaron a la luz decenas de miles de artefactos, desde tejas hasta un dado de madera de catorce lados usado en juegos de bebida, hoy exhibidos en el Museo Nacional de Gyeongju, a poca distancia en auto. El verdadero atractivo del lugar hoy, sin embargo, es visual: la cálida iluminación nocturna convierte a los pabellones y su imagen reflejada en el agua en una de las escenas más fotografiadas de Gyeongju.

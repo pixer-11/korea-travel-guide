@@ -17,8 +17,6 @@ faq:
     a: Evita las horas del mediodía los viernes debido a las oraciones congregacionales de Jumu'ah, y ten en cuenta que el salón de oración permanece cerrado a visitantes no musulmanes durante las cinco oraciones diarias.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La Mezquita del Sultán (Masjid Sultan) es el centro espiritual y visual de Kampong Glam, el histórico barrio malayo-musulmán de Singapur. Sus cúpulas doradas, ceñidas en la base por miles de fondos de botellas de vidrio donados en la década de 1930 por los miembros más humildes de la congregación, la convierten en uno de los edificios religiosos más fotografiados de la ciudad. La estructura actual data de 1932, diseñada por Denis Santry, del estudio Swan & Maclaren, en estilo indosarraceno, y sustituyó a una mezquita anterior de 1824 encargada por el sultán Hussain Shah después de que el tratado de Raffles de 1819 estableciera a la familia real malaya en este distrito. Con una calificación de 4.7 sobre casi 14,000 reseñas, es una parada obligada en Singapur, así que hay que contar con la presencia de otros visitantes.

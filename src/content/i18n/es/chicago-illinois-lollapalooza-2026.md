@@ -17,8 +17,6 @@ faq:
     a: Un pase de un solo día funciona si lo que te interesa principalmente son los cabezas de cartel, pero un pase de cuatro días te permite ver a artistas más pequeños en los numerosos escenarios de Lollapalooza; históricamente, los pases de cuatro días se agotan primero.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, utilizando fuentes web actuales. Las fechas de los eventos y las entradas cambian: confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Lollapalooza es uno de los pocos festivales estadounidenses que todavía se celebra en pleno centro de una gran ciudad, y ahí está su encanto: Grant Park se ubica entre Michigan Avenue y el lago Michigan (Lake Michigan), así que entre actuación y actuación puedes ver el skyline de Chicago, la Fuente de Buckingham (Buckingham Fountain) y el lago, todo desde el propio recinto del festival. La edición de 2026 (30 de julio–2 de agosto) ya ha confirmado a Charli XCX, Lorde y Doja Cat como cabezas de cartel, continuando con la tradición de Lollapalooza de mezclar pop, hip-hop, rock y música electrónica en unos ocho escenarios. Se espera que el cartel completo, los horarios de las actuaciones y los carteles diarios se publiquen en los meses previos al evento; considera todo lo que veas ahora como información parcial.

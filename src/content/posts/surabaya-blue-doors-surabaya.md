@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Surabaya's café scene has exploded over the past decade, but Blue Doors stands out for its look before its menu: whitewashed walls, cobalt-blue shutters and doors, and greenery spilling over a courtyard that feels more Mediterranean than East Java. With a 4.7 rating across nearly 1,200 reviews, it has built a loyal following among people chasing a good flat white and an even better photo backdrop, without becoming an overrun tourist stop. This is a trendy, design-forward hangout rather than a heritage landmark, which is exactly its appeal — a calm, aesthetic pocket in a busy commercial pocket of the city.

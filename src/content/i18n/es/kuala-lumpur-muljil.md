@@ -17,8 +17,6 @@ faq:
     a: Damansara Heights y la cercana Bangsar (a unos 5-10 minutos) ofrecen otras opciones de restaurantes y cafés, lo que facilita convertir la visita en una salida nocturna completa.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, asistida por IA, usando fuentes web actuales. Los horarios y detalles cambian — confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La oferta coreana en Kuala Lumpur se ha limitado en gran medida a las parrillas de mesa y al pollo frito crujiente, así que un concepto construido en torno a las tradiciones costeras y marineras de Corea llama la atención. MULJIL se posiciona precisamente así: un giro respecto a la fórmula de barbacoa y chimaek, que apuesta en cambio por el lado marítimo de la cocina coreana — piensa en mariscos crudos y ligeramente curados, caldos y sabores costeros regionales que rara vez tienen protagonismo fuera de Corea. El propio nombre (un juego con palabras coreanas que evocan el agua y la textura) anticipa el enfoque de la cocina.

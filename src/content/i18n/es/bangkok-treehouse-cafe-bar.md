@@ -17,8 +17,6 @@ faq:
     a: No siempre es obligatorio, pero dada la popularidad del lugar (4.9 estrellas, más de 2,600 reseñas), se recomienda reservar con antelación o llegar temprano los fines de semana por la noche.
 ---
 
-> **Cómo se hizo esta guía:** Revisado por editores, asistido por IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Bangkok no tiene escasez de cafés temáticos, pero Treehouse Cafe & Bar ha logrado un poco común promedio de 4.9 estrellas en más de 2,600 reseñas, una señal de que el revuelo está justificado. El atractivo está en el entorno: un espacio de varios niveles construido alrededor de vegetación exuberante, enredaderas colgantes, pasarelas de madera y cálidos doseles de luces decorativas que hacen que se sienta como un refugio de casa en el árbol en pleno centro de la ciudad. Es fotogénico, pero también es un lugar legítimo para comer y beber bien, no solo un fondo para una foto rápida de cinco minutos.

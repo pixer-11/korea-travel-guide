@@ -17,8 +17,6 @@ faq:
     a: Por lo general no se necesitan reservas, pero puede haber un sistema de lista de espera en horarios concurridos. El pago con tarjeta y por aplicaciones móviles (Naver Pay/Kakao Pay) es habitual en Corea, así que el efectivo no es imprescindible, y no se acostumbra dejar propina.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Gyeongju está llena de cafeterías hanok que forman parte de la reciente ola de diseño que combina lo tradicional con lo moderno, pero Cafe Arae Heon se ha convertido en una de las más destacadas, con un llamativo promedio de 4.9 estrellas en más de 1,400 reseñas. El atractivo no son solo las bebidas: es el entorno. Se trata de un hanok (casa tradicional coreana de madera) construido alrededor de grandes ventanales y vistas al patio, diseñado para que cada asiento se sienta como si enmarcara una postal. En una ciudad construida en torno a antiguas tumbas, templos y pagodas de piedra, Arae Heon ofrece a los visitantes un motivo contemporáneo, propio de la cultura de café, para quedarse un poco más en la zona de Bulguksa.

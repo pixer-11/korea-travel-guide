@@ -39,8 +39,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts such as ratings and location come from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Gyeongbokgung is the first and largest of Seoul's "Five Grand Palaces," built in 1395 as the primary royal residence of the Joseon Dynasty. Rated 4.6 stars across more than 46,000 reviews, it's the most visited palace in Korea and the default introduction to the country's royal architecture for a reason: the scale is enormous, the setting against Bugaksan Mountain is dramatic, and the compound includes some of the most photographed structures in the country, including Gyeonghoeru Pavilion, a two-story hall built on an artificial lake where kings once hosted state banquets.

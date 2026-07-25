@@ -17,8 +17,6 @@ faq:
     a: La galería comercial Hondori, el Parque Memorial de la Paz y la Cúpula de la Bomba Atómica, el Jardín Shukkeien y el Castillo de Hiroshima están todos a 15-20 minutos a pie, lo que facilita organizar un recorrido matutino y de tarde por el centro.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La escena gastronómica de Hiroshima suele inclinarse hacia lugares para comer o para tomar café con pastel que abren, como muy pronto, a media mañana, lo que hace inusual encontrar un destino dedicado específicamente al desayuno. Hiroshima Breakfast, ubicada en un local de planta baja en Dohashicho, se ha ganado una clientela fiel principalmente por el boca a boca y una impresionante valoración de 4.9 sobre 175 opiniones, un consenso poco habitual para cualquier negocio de comida, y más aún para uno dedicado a la primera comida del día. Para quienes se alojan en el conjunto de hoteles del centro, cerca de las principales calles comerciales de Hiroshima, es una alternativa realmente útil al bufé del hotel: la oportunidad de comer bien, de forma local y temprano, antes de que el Parque Memorial de la Paz y la Cúpula de la Bomba Atómica se llenen de grupos turísticos.

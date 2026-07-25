@@ -48,8 +48,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Blanco Coffee And Books has built a loyal following (4.6 stars across more than 4,100 Google reviews) by doing a simple thing well: pairing sustainably and locally sourced Indonesian coffee with a pared-back, book-lined space that feels more like a design studio than a typical Jogja warung-kopi. The editorial line on it — "trendy, pared-back cafe specializing in light fare & sustainable, locally sourced coffee" — is accurate. Expect exposed concrete, neutral tones, shelves of books for browsing, and a menu built around single-origin pour-overs, espresso drinks, and light bites rather than heavy rice-plate meals. It's the kind of place suited to a slow morning, a laptop session, or a coffee break between temple- and museum-hopping in the old city.

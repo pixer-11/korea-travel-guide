@@ -17,8 +17,6 @@ faq:
     a: 'Sí: las secciones tipo invernadero con vidrio y la densa vegetación interior son el principal atractivo visual, y lucen mejor en fotos durante los días soleados y luminosos, cuando la luz natural inunda el espacio.'
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué vale la pena visitar Forest Outings
 
 El distrito de Yeonsu-gu, en Incheon, se ha convertido silenciosamente en una de las zonas residenciales más de moda de la ciudad, con un estilo de vida cada vez más atractivo, y Forest Outings es una gran razón de ello. El local está construido alrededor de un concepto de "bosque" interior: techos altísimos, vegetación densa, tragaluces y secciones de vidrio estilo invernadero que inundan de luz natural las áreas de comedor. Es en parte café, en parte restaurante y en parte una sala de exhibición botánica, y ha logrado una sólida calificación de 4.4 en más de 2,148 reseñas, lo cual, para un café-restaurante de una sola ubicación, es una señal notable de calidad constante y no un simple pico pasajero de popularidad en redes sociales. Para quienes exploran Incheon más allá del aeropuerto y del perfil urbano de Songdo, este lugar es un buen ejemplo de la actual ola coreana de "cafés botánicos" a gran escala, donde el entorno es tan atractivo como la comida misma.

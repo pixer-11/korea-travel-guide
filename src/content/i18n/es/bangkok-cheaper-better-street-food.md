@@ -17,8 +17,6 @@ faq:
     a: El mercado nocturno de Patpong está a poca distancia caminando hacia el norte, y el parque Lumphini queda a unos 10-15 minutos a pie hacia el este, lo que hace fácil combinar esta visita con un recorrido por la zona de Silom.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué Soi Silom 20 es especial
 
 La mejor comida callejera de Bangkok no siempre está en la franja de postal cerca de Chinatown; parte de ella se esconde en estrechos sois de distritos de oficinas que solo se llenan un par de horas al día. Soi Silom 20, un callejón corto que conecta Silom Road con Soi Convent en el distrito de Bang Rak, es uno de ellos. Alberga un grupo de puestos que incluye el bien valorado "Cheaper & Better Street Food" (4.7 estrellas con más de 1,600 reseñas), una señal reveladora en un rubro donde la reputación se construye casi por completo a partir de clientes locales recurrentes y no del marketing turístico. El nombre es básicamente la propuesta: porciones y precios pensados para oficinistas en su hora de almuerzo, no inflados para el tráfico peatonal de algún hotel cercano.

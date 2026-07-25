@@ -68,8 +68,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Sung Sot Cave — its name translates to "Surprise Cave" — earns its 4.5-star reputation as the largest and most dramatic karst cavern in Ha Long Bay. French explorers first documented it in 1901, and it remains the benchmark against which every other cave in the bay is measured. What sets it apart isn't just size: the cave unfolds in two distinct chambers, and the transition between them is engineered for maximum theatrical effect, with a low, narrow passage suddenly opening into a vault estimated at over 10,000 square meters, its ceiling studded with stalactites lit in shifting colored light. With over 12,500 visitor reviews, it's one of the most consistently praised single stops on any Ha Long Bay itinerary.

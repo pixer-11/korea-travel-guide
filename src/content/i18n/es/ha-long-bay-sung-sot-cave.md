@@ -17,8 +17,6 @@ faq:
     a: Los turnos de primera hora de la mañana o última de la tarde tienen menos grupos turísticos coincidiendo a la vez; el mediodía suele ser el momento de mayor aglomeración, ya que varios barcos de crucero llegan a menudo al mismo tiempo.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La cueva Sung Sot —cuyo nombre se traduce como "Cueva de la Sorpresa"— se ha ganado su reputación de 4.5 estrellas como la caverna kárstica más grande y espectacular de la bahía de Ha Long. Exploradores franceses la documentaron por primera vez en 1901, y sigue siendo el referente con el que se compara cualquier otra cueva de la bahía. Lo que la distingue no es solo su tamaño: la cueva se despliega en dos cámaras diferenciadas, y la transición entre ellas está pensada para lograr el máximo efecto teatral, con un pasaje bajo y estrecho que de pronto se abre a una bóveda de más de 10.000 metros cuadrados, con un techo salpicado de estalactitas iluminadas con luces de colores cambiantes. Con más de 12.500 reseñas de visitantes, es una de las paradas individuales más elogiadas de cualquier itinerario por la bahía de Ha Long.

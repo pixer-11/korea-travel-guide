@@ -17,8 +17,6 @@ faq:
     a: Una sola tarde-noche (unas 3-4 horas) es suficiente para probar las carpas, ver una actuación y comer, pero el festival dura semanas, así que hacer varias visitas o quedarte desde el atardecer hasta la madrugada funciona bien si eres un entusiasta de la cerveza.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Las fechas de eventos y las entradas cambian — confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La cultura cervecera de Qingdao no es un truco de marketing, sino algo arraigado en el ADN de la ciudad. La Cervecería Tsingtao se fundó en 1903 bajo el dominio colonial alemán, y Qingdao sigue siendo la única ciudad china con una cerveza que lleva su nombre y que es reconocida a nivel mundial. El Festival Internacional de la Cerveza, celebrado casi todos los veranos desde 1991, convierte ese legado en una fiesta al aire libre de más de un mes: filas de carpas con jardines cerveceros, actuaciones en escenarios, fuegos artificiales en las noches destacadas y una lista de cervecerías genuinamente internacional que sirve junto a gigantes nacionales como Tsingtao y Harbin. Es menos un evento tipo cata de vinos y más un carnaval bullicioso para todas las edades — puestos de comida, atracciones de feria y una multitud que llega a sumar millones a lo largo de su duración.

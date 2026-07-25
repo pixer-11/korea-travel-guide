@@ -89,8 +89,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Huinnyeoul Culture Village sits tucked into a narrow strip of land on Yeongdo Island, wedged between a rocky shoreline and a steep hillside in Yeongdo-gu. Unlike its more famous cousin Gamcheon Culture Village on the mainland side of Busan, Huinnyeoul (흰여울) is smaller, quieter, and built around a single dramatic asset: a footpath that runs directly along the sea, with the village's low-rise homes stacked above it. The name roughly translates to "white rapids," a reference to how waves used to crash against the rocks below during storms. The neighborhood was largely built up by refugees during the Korean War, and in the 2010s the district government turned it into an arts village, adding murals, small galleries, and cafés without erasing the working-class character of the original houses. The result — rated 4.4 stars across nearly 9,000 reviews — is one of Busan's most photographed "hidden gem" spots, though it's no longer much of a secret.

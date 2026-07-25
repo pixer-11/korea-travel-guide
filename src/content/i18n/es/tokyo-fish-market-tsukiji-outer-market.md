@@ -17,8 +17,6 @@ faq:
     a: Muchos puestos pequeños solo aceptan efectivo. Lleva yenes en billetes de baja denominación, ya que el cambio puede ser limitado en las horas de más afluencia.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El Mercado Exterior de Tsukiji es la mitad dedicada a la comida callejera y las tiendas especializadas de lo que antes fue el mercado mayorista central de pescado de Tokio. Cuando la subasta mayorista y el salón principal de comercio se trasladaron a Toyosu en octubre de 2018, el mercado exterior —el entramado de callejones estrechos flanqueados por puestos de marisco, tiendas de cuchillos, vendedores de bonito seco y pequeños restaurantes con barra— permaneció en el barrio de Tsukiji, en Chuo City. Hoy se trata menos de comercio mayorista y más de recorrer a base de bocados la cultura marinera de Tokio en unas pocas manzanas muy concentradas, y precisamente por eso atrae multitudes a diario.

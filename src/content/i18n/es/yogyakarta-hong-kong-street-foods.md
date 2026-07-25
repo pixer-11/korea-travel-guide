@@ -17,8 +17,6 @@ faq:
     a: La mayoría de los restaurantes informales de Yogyakarta, incluidos lugares como este, aceptan pagos móviles QRIS además de efectivo, así que lleva ambos; aun así, es recomendable llevar algo de efectivo en billetes pequeños como respaldo.
 ---
 
-> **Cómo se elaboró esta guía:** Revisado por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La escena gastronómica de Yogyakarta está dominada por el gudeg, los carritos de angkringan y los warungs javaneses, así que un restaurante construido enteramente alrededor de los clásicos de la comida callejera de Hong Kong destaca por sí solo. Hong Kong Street Foods se ha ganado una sólida reputación local (4.7 estrellas en casi 1,200 reseñas) sin convertirse todavía en una parada fija de los itinerarios turísticos internacionales, lo que significa que puedes entrar la mayoría de las noches entre semana y conseguir mesa sin problema. El atractivo es sencillo: char siu (cerdo asado) con ese borde brillante y caramelizado, sopa de fideos con wonton hecha con fideos de huevo finos y wontons de camarón y cerdo con textura elástica, además de otros bocadillos al estilo cantonés difíciles de encontrar en otro lugar de la ciudad.

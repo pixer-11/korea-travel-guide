@@ -46,8 +46,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Kinkaku-ji, formally Rokuon-ji, is the single most photographed building in Kyoto for good reason: its top two floors are covered in real gold leaf, and the structure sits directly over Kyōko-chi ("mirror pond"), doubling the effect on a still day. It was built in the late 14th century as a retirement villa for shogun Ashikaga Yoshimitsu and converted into a Zen temple of the Rinzai school after his death. The current pavilion is a 1955 reconstruction — the original burned down in 1950 — but it follows the historic design closely and remains a UNESCO World Heritage Site as part of "Historic Monuments of Ancient Kyoto." With a 4.6 rating across tens of thousands of reviews, it's consistently ranked among the city's top attractions, so expectations run high, and the site generally delivers, provided you manage timing and crowds.

@@ -48,8 +48,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Ras Al Khaimah's cafe scene has grown fast in the last few years, but much of it clusters around the marina and the big hotel strips. M14 Cafe sits a bit apart — inland, near New Mall on Sheikh Humaid Al Mohammad Al Qasimi Road in the Seih Al Araibi area — and it's earned a strong 4.4 rating across 706 reviews without becoming a tourist checkpoint. That combination is rare in the emirate: a coffee shop good enough to be busy on weekends, yet still under-the-radar enough that you can usually find a seat and linger.

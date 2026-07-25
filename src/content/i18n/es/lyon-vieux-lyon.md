@@ -17,8 +17,6 @@ faq:
     a: El barrio en sí se recorre íntegramente a pie, aunque con cuestas y adoquines. El funicular cerca de la parada de metro Vieux Lyon solo es necesario si vas a subir a la basílica de Fourvière y quieres evitarte la caminata cuesta arriba de 20-25 minutos.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Vieux Lyon es uno de los distritos renacentistas intactos más grandes de Europa, núcleo declarado Patrimonio de la Humanidad por la UNESCO desde 1998, ubicado entre el río Saona y la colina de Fourvière, en el 5.º distrito de Lyon. Se libró de la piqueta que arrasó barrios comparables en otras partes de Francia, así que lo que sobrevive hoy es una auténtica ciudad de mercaderes de la seda de los siglos XV y XVI: callejones estrechos, escaleras de caracol de piedra y patios con torres almenadas, construidos cuando la banca y el comercio de la seda de Lyon rivalizaban con los de Florencia. Es una joya escondida no tanto por ser desconocida —por aquí pasan bastantes grupos turísticos— sino porque la mayoría de los visitantes solo recorre las calles superficiales y nunca descubre los pasajes que hacen que valga la pena desviarse.

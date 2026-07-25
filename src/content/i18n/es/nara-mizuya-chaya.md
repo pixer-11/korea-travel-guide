@@ -17,8 +17,6 @@ faq:
     a: Kasuga Taisha está a cinco minutos a pie, un poco más adelante por el mismo camino, y Todai-ji, los prados con ciervos del Parque de Nara y el Museo Nacional de Nara se encuentran a 15–20 minutos a pie de vuelta hacia el centro de Nara.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Mizuya Chaya se encuentra en pleno bosque de cedros del Parque de Nara, sobre el camino empedrado que sube hacia Kasuga Taisha, uno de los santuarios sintoístas más importantes de Japón y Patrimonio de la Humanidad por la UNESCO. El restaurante ocupa un edificio envejecido de techo de paja que recuerda más a una casa de té de montaña que a un restaurante urbano: bancos bajos de madera, paneles correderos y vistas al musgo y a los faroles de piedra. Con una calificación de 4.7 basada en más de 1,200 reseñas, se ha convertido en una especie de institución para quienes buscan una pausa entre visita y visita sin perder el ambiente del bosque. No es un restaurante de destino en el sentido culinario; es un destino por *dónde* está y por *cómo se siente* comer allí.

@@ -45,8 +45,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Go
 
 Gukje Market isn't a curated tourist attraction — it's a working market that has supplied Busan with everyday goods since the chaos of the Korean War, when refugees and displaced merchants set up stalls to sell whatever they could source, including U.S. military surplus. That origin story is still visible in the market's layout: narrow alleys fanning out from Gukjesijang 2-gil, packed with shops selling secondhand tools, fabric, kitchenware, imported snacks, and army-surplus jackets alongside newer souvenir stalls. With a 4.1 rating across nearly 13,000 reviews, it's clearly a working part of the city rather than a staged photo-op, which is exactly its appeal for visitors who want to see Busan's commercial history rather than a repackaged version of it.

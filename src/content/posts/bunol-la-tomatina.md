@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why go
 
 La Tomatina is Spain's most photogenic food fight: over 100 metric tons of overripe tomatoes hurled through the narrow streets of Buñol's old town in a single, chaotic morning. It began in the 1940s, reportedly from a spontaneous local scuffle during a town parade, and has since grown into a globally known festival that draws visitors from dozens of countries. The appeal isn't refined cultural spectacle — it's pure, communal, slightly absurd fun, and a chance to see a small Valencian town transform into a sea of red pulp for one hour a year.

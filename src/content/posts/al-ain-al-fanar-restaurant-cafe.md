@@ -92,8 +92,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Al Fanar Restaurant & Cafe has built one of the strongest reputations of any restaurant in Al Ain, holding a 4.8 rating across more than 8,000 reviews — an unusually high volume for a regional eatery, and a signal that it consistently satisfies both residents and visitors passing through the UAE's "Garden City." The draw is straightforward Emirati and Gulf Arabic home-style cooking: slow-cooked lamb and chicken machboos (spiced rice with meat), harees (a wheat-and-meat porridge traditionally served during Ramadan and weddings), grilled meats, and fresh Arabic bread baked in-house. It's a mid-range spot (price level 2 out of 4), which means you can eat well without paying fine-dining prices, and portions are typically generous enough to share.

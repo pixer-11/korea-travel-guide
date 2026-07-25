@@ -91,8 +91,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Ubud's dining scene leans heavily toward Balinese warungs, raw-food cafés, and Instagram-friendly brunch spots, so a dedicated Indian street-food counter stands out. CHAI OF THE TIGER focuses on the stuff you'd actually eat off a cart in Mumbai or Delhi — chaat, rolls, chutneys, and proper masala chai — rather than a diluted, fine-dining version of Indian cuisine aimed at tourists. With a 4.6 rating across nearly 800 reviews, it has built a loyal following while staying under the radar compared to Ubud's bigger-name restaurants, which means shorter waits and a more relaxed pace than you'd get at the town's headline spots.

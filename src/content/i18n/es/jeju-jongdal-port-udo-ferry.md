@@ -19,8 +19,6 @@ faq:
     a: Se requiere pasaporte o documento de identidad válido para el registro de pasajeros. También conviene consultar de antemano las condiciones del viento y del mar, ya que las salidas pueden retrasarse o cancelarse con mal tiempo, algo más frecuente en invierno.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir vía el puerto de Jongdal
 
 La mayoría de los visitantes de Udo, la pequeña isla volcánica famosa por su helado de cacahuete, su costa de lava negra y la playa de arena de conchas de Seobinbaeksa, pasan por el puerto de Seongsan porque está junto a Seongsan Ilchulbong (Pico del Amanecer). El puerto de Jongdal, unos pocos kilómetros al norte en Gujwa-eup, es la alternativa más tranquila. Se trata de un puerto pesquero en activo más que de un centro turístico, por lo que hay menos aglomeración en la taquilla y en el aparcamiento, y encaja de forma natural en un itinerario por el noreste de Jeju que incluya Hado-ri, la playa de Sehwa y las rutas costeras del Sendero Olle de Jeju (el Sendero Olle 21 pasa justo por este tramo de costa).

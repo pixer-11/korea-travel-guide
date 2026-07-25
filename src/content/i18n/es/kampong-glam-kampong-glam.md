@@ -17,8 +17,6 @@ faq:
     a: El mercado de Bugis Street y el centro comercial Bugis Junction están a poca distancia a pie, y el Distrito Cívico y la zona de Marina Bay se pueden alcanzar en unos 15-20 minutos en MRT o taxi.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Kampong Glam es uno de los cuatro barrios étnicos históricos de Singapur, reservado en el plan urbanístico de 1822 de Stamford Raffles como el barrio para las comunidades malaya, árabe y bugis. Su elemento central es Masjid Sultan, una mezquita de cúpula dorada terminada en 1928 (que sustituyó a una estructura anterior de 1824) que sigue siendo un lugar de culto activo y el referente visual de todo el barrio. A diferencia de otros sitios patrimoniales pulidos y con entrada de pago en la ciudad, este barrio sigue vivo: las shophouses que antaño albergaban a comerciantes textiles y tiendas de artículos religiosos ahora conviven con boutiques independientes, cafés de kopi y callejones cubiertos de murales, mientras la llamada a la oración sigue marcando el ritmo del día. En el número 26 de Bussorah St, la dirección más asociada con el encanto de la zona, te encuentras en una calle peatonal que enmarca la mezquita a la perfección y está bordeada de shophouses restauradas de dos plantas en suaves tonos pastel.

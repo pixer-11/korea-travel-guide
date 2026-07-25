@@ -17,8 +17,6 @@ faq:
     a: Los puestos de flores de Campbell Lane, el templo Sri Veeramakaliamman y el mercado de hawkers Tekka Centre están todos a 5-10 minutos a pie.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué Veera Flavours
 
 Little India no escasea en restaurantes de banana-leaf, pero Veera Flavours se ha ganado una clientela fiel: una calificación de 4.7 estrellas en casi 1.940 reseñas es inusualmente alta para este tipo de restaurante. Se encuentra entre los lugares conocidos y muy visitados, más que ser un hallazgo poco frecuentado, así que espera un comedor concurrido, sobre todo en los horarios tradicionales de almuerzo y cena. El atractivo es sencillo: cocina vegetariana auténtica del sur de la India, servida de manera tradicional sobre una hoja de plátano, con arroz y una selección rotativa de curries, sambar, rasam y papadums que se van reponiendo mientras comes.

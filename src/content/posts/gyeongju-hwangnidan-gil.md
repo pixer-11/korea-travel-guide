@@ -29,8 +29,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting. See our [editorial policy](/about).
-
 ## Why go
 
 Hwangnidan-gil grew out of a quiet residential pocket in Hwangnam-dong and, within the space of a few years, became Gyeongju's answer to Seoul's Ikseon-dong or Yeonnam-dong — a cluster of narrow lanes lined with independent cafes, dessert shops, small galleries, and hanbok rental studios, many of them set inside renovated single-story hanok and older Korean houses. The name itself is a mashup: "Hwangnam" (the neighborhood) plus "-dan-gil," a suffix Korean cities now use for any street that's become a hip, Instagram-friendly destination (as in Seoul's Garosu-dan-gil). What makes it worth a stop isn't a single landmark but the atmosphere: low-slung tiled roofs, small shopfronts, and a genuinely walkable scale that contrasts with Gyeongju's more monumental historic sites just a few minutes away.

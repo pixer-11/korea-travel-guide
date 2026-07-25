@@ -93,8 +93,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Hoi An's Old Town is thick with tourist-trap menus and inflated prices, so a spot that holds a 4.9 rating across more than 5,600 reviews at a genuinely low price level is worth noting. Nhan's Kitchen isn't fine dining — it's the kind of no-frills, family-style kitchen where the cooking does the talking. The consistency of praise from thousands of visitors, rather than a handful of curated reviews, is the strongest signal that the food and service hold up night after night, not just on a good day.

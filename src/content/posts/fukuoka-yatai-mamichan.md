@@ -68,8 +68,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Fukuoka is one of the last Japanese cities where street-side yatai (open-air food carts) still line the sidewalks each evening, and Tenjin's cluster along Showa-dori is the most convenient for visitors staying in the central business and shopping district. Yatai Mamichan is one of the standout stalls in this row, built around a specialty rarely seen at other carts: grilled ox tongue (gyutan), served alongside a soft, almost custardy Japanese-style omelet. Both dishes have earned the stall a loyal following, reflected in its 4.2 rating across more than 600 reviews — a strong showing for a format with only a handful of stools.

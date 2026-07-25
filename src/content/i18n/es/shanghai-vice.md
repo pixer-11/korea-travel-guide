@@ -17,8 +17,6 @@ faq:
     a: Yongjia Lu y los callejones circundantes de la Concesión Francesa, cerca de Wulumuqi Lu y Julu Lu, están llenos de cafés independientes, bares y boutiques, por lo que es fácil planear toda una velada alrededor de la cena.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Los horarios y detalles cambian: confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué VICE destaca
 
 La escena gastronómica de Shanghái se renueva constantemente, pero VICE ha llegado con un currículum digno de mención: el chef Carlos Sotomayor, cuya cocina se inspira en la tradición peruana, se ha asociado con Raffe Ibrahamian, el operador detrás de Cantina Agave, uno de los destinos consolidados de comida mexicana y agave en la ciudad. Juntos han creado una carta que entrelaza la técnica y el sabor peruanos con una mirada de influencia asiática, una combinación que todavía es poco común en Shanghái, donde la cocina latinoamericana sigue siendo un nicho pequeño frente a la sólida oferta de alta cocina francesa, italiana y cantonesa de la ciudad. La prensa gastronómica local sigue de cerca el resultado como uno de los lanzamientos de concepto más distintivos de la temporada.

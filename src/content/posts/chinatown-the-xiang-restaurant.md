@@ -68,8 +68,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Chinatown's Smith Street is best known as "Chinatown Food Street," a strip thick with Cantonese roast meats, Teochew porridge, and tourist-facing hawker stalls. The Xiang Restaurant stands out precisely because it doesn't play that game — it specializes in Hunan cuisine (湘菜), the smoky, garlicky, chili-forward cooking style from Mao Zedong's home province, which is far less common in Singapore than Cantonese or Sichuan food. Expect dishes built on dried chilies, fermented black beans, smoked pork, and cumin rather than the sweeter, gentler flavors typical of Singaporean-Chinese cooking. A 4.8 rating from nearly 1,000 reviewers is unusually high for a restaurant in this touristy pocket of the city, and it signals a kitchen that's earned its following on food quality rather than foot traffic alone.

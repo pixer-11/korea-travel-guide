@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why Club Metrópolis matters
 
 Few addresses in Madrid carry as much visual weight as the corner of Alcalá and Gran Vía, where the domed, statue-topped Edificio Metrópolis has anchored the skyline since 1911. Club Metrópolis takes that landmark and turns part of it into a working hospitality project: a boutique hotel paired with six distinct gastronomic concepts and a private members' club, all developed by Grupo Paraguas, the Madrid restaurant group behind several well-regarded dining rooms in the capital. For the group's founders, Marta Seco and Sandro Silva, this is a first foray into running a hotel rather than just restaurants, and the ambition shows in the scale of the project — six separate food and drink concepts under one roof is unusual even by Madrid's dense hospitality standards.

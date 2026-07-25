@@ -17,8 +17,6 @@ faq:
     a: Tekka Centre, el templo Sri Veeramakaliamman y Little India Arcade están todos a poca distancia a pie y son ideales para pasear antes o después de la comida.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Chola Cafe - Biryani House se ha ganado una reputación casi enteramente por el boca a boca y las reseñas en línea: una calificación de 4.9 sobre 439 reseñas es inusualmente alta para un local informal, y el nombre bajo el que opera, "Best Biryani in Singapore" (el mejor biryani de Singapur), es una afirmación atrevida que claramente busca cumplir. A diferencia de los puestos de biryani de gran nombre que dominan la calle principal de Little India, este se encuentra en Clive Street, una calle más tranquila apartada del núcleo turístico del barrio, lo que significa menos tránsito peatonal y esperas más cortas, aunque la calidad de la comida sea comparable a la de lugares que atraen multitudes mucho mayores.

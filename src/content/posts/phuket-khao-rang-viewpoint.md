@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Khao Rang, also called Rang Hill, is the highest point overlooking Phuket Town, and it's the spot locals themselves go to watch the sun set over the Andaman Sea. Unlike the more touristy viewpoints in the south of the island (Karon, Promthep Cape), Khao Rang gives you a 360-degree look at a working city: red-tiled Sino-Portuguese shophouse roofs in the old town, the port area, distant limestone islands, and on clear days the hills of Phang Nga. The 4.5-star rating from nearly 7,000 reviews reflects how consistently visitors rate the view itself, even though the surrounding park facilities are simple.

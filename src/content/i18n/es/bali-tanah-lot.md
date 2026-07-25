@@ -17,8 +17,6 @@ faq:
     a: La costa de arena negra de la playa de Tanah Lot está justo ahí, y las terrazas de arroz de Jatiluwih (declaradas Patrimonio de la Humanidad por la UNESCO) están a unos 45 minutos más hacia el interior, ideales para una excursión de día más completa.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Tanah Lot ("Tierra en el Mar") es uno de los siete templos marinos principales de Bali (pura segara) construidos para honrar a los espíritus del océano, y su silueta contra el atardecer es posiblemente la imagen más fotografiada de la isla. El templo se asienta sobre una formación rocosa natural justo frente a la costa, en el pueblo de Beraban, distrito de Kediri, Regencía de Tabanan; lo suficientemente separado de tierra firme como para que, con marea alta, parezca flotar, mientras que con marea baja un paso de arena lo conecta con la orilla. Según la tradición, fue fundado en el siglo XVI por el sacerdote Dang Hyang Nirartha, y sigue siendo un lugar activo de culto hindú, no solo un telón de fondo para fotos. Con una calificación de 4.6 sobre más de 100,000 reseñas, es uno de los sitios individuales más visitados de Bali, por lo que aquí gestionar bien el momento de la visita y las expectativas importa más que en templos más tranquilos.

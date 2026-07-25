@@ -44,8 +44,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Ajman Secret Beach earns its name honestly: it's a low-key, largely unmarked patch of coastline in the Al Zorah area of Ajman, tucked away from the emirate's busier corniche and public beach. With a 4.5 rating across more than 550 reviews, it has a loyal following among people who've found it, yet it remains genuinely under-the-radar compared to the beaches of Dubai, Sharjah, or even downtown Ajman. Expect calm turquoise-green water, soft sand, and a backdrop of mangrove channels rather than beach clubs, high-rises, or vendors. It's the kind of place suited to travelers who want open coastline and quiet over amenities.

@@ -17,8 +17,6 @@ faq:
     a: Llega hacia las 16:30–17:00, cuando los carteles ya se encienden pero aún no llega la hora punta de la cena, o visita un día entre semana para un paseo comparativamente más tranquilo.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué Dotonbori es la capital gastronómica de Osaka
 
 Dotonbori se extiende a lo largo de la orilla sur del canal Dotonbori, en el barrio de Chuo, y es más que una simple hilera de restaurantes: es la encarnación física de la cultura gastronómica de Osaka, el "kuidaore" — comer hasta arruinarse. El barrio es famoso por su muro de carteles iluminados, sobre todo el del Corredor de Glico (Glico Running Man), además de los enormes cangrejos mecánicos, dragones y peces globo que marcan las entradas de los restaurantes. Con una calificación de 4.4 en casi 85,000 reseñas de Google, se ha consolidado firmemente como uno de los destinos gastronómicos más visitados de Japón, y las multitudes de cualquier noche lo confirman.

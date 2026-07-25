@@ -17,8 +17,6 @@ faq:
     a: Marina Bay Sands, el ArtScience Museum y el Merlion Park están todos a 10–20 minutos a pie, lo que facilita combinar una visita a los jardines con un recorrido nocturno por el frente marítimo de Marina Bay.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Gardens by the Bay es la pieza central de horticultura sobre los terrenos ganados al mar de Marina Bay en Singapur, construida en torno a la idea de una "Ciudad en un Jardín". Sus emblemáticos Supertrees —jardines verticales de entre 25 y 50 metros de altura, varios equipados con celdas solares y sistemas de recolección de agua de lluvia— se han vuelto tan reconocibles en el perfil de la ciudad como el hotel Marina Bay Sands al que dan frente. Con una calificación de 4.7 en más de 158,000 reseñas, es una de las atracciones más visitadas de Singapur, por lo que no se trata de un hallazgo poco conocido, sino de un sitio destacado que recompensa un poco de planificación para evitar las horas de mayor afluencia.

@@ -17,8 +17,6 @@ faq:
     a: El SCBD está a poca distancia a pie de los centros comerciales Pacific Place y fx Sudirman, ambos repletos de opciones adicionales de restaurantes, bares y tiendas si quieres alargar la velada antes o después de la cena.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA, utilizando fuentes web actuales. Los horarios y detalles cambian: confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El SCBD (Sudirman Central Business District) es el centro neurálgico de cristal y acero de Jakarta, repleto de torres corporativas, centros comerciales como Pacific Place y fx Sudirman, y una densa concentración de bares y restaurantes de categoría dirigidos al público financiero y ejecutivo de la capital. Metropolitan Fine Dining abrió sus puertas aquí a principios de julio de 2026 y rápidamente se ha integrado a esa escena, presentándose como "Cocina Europea Moderna de Alta Categoría con Vistas". El atractivo es sencillo: interiores de mármol pulido combinados con vistas al horizonte de uno de los distritos financieros más transitados del sudeste asiático, pensado especialmente para cenas después del trabajo, comidas de negocios y ocasiones especiales, para quienes buscan un espacio que luzca tan bien en fotos como en el plato.

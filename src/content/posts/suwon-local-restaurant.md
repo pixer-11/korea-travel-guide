@@ -29,8 +29,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting. See our [editorial policy](/about).
-
 ## Why Suwon, and Why Its Food Scene
 
 Suwon is best known as the home of Hwaseong Fortress, the UNESCO-listed 18th-century walled city built by King Jeongjo. But the fortress isn't just a historic backdrop — the neighborhoods inside and around its walls have grown into one of Gyeonggi Province's most rewarding places to eat. Suwon's signature dish, **Suwon galbi** (grilled beef short ribs, traditionally cut thicker than Seoul-style galbi), originated here in the mid-20th century and remains the reason many day-trippers come specifically to eat before or after touring the fortress. Beyond galbi, the area around Paldalmun Gate and the traditional markets nearby offer a dense, walkable concentration of local eateries that rarely make it onto English-language menus elsewhere.

@@ -17,8 +17,6 @@ faq:
     a: 'No: es una playa natural sin servicios, así que hay que llevar agua, sombra y algo para picar, y usar los baños de la marina de Al Zorah o de la zona del corniche de Ajman antes o después de la visita.'
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos se obtienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La Playa Secreta de Ajman (Ajman Secret Beach) hace honor a su nombre: es un tramo de costa discreto y en gran parte sin señalizar en la zona de Al Zorah, en Ajman, apartado del bullicioso paseo marítimo (corniche) y de las playas públicas del emirato. Con una calificación de 4,5 sobre más de 550 reseñas, cuenta con seguidores fieles entre quienes la han descubierto, aunque sigue siendo un lugar realmente poco conocido en comparación con las playas de Dubái, Sharjah o incluso el centro de Ajman. Espera aguas tranquilas de color turquesa verdoso, arena suave y un telón de fondo de canales de manglar en lugar de clubes de playa, edificios altos o vendedores. Es el tipo de lugar pensado para viajeros que buscan litoral abierto y tranquilidad antes que comodidades.

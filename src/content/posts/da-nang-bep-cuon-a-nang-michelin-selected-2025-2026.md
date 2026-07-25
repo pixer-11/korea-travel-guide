@@ -88,8 +88,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Bếp Cuốn Đà Nẵng has become one of the most talked-about restaurants in the city, and its inclusion in the Michelin Selected list for 2025-2026 has only intensified that reputation. With an unusually high 4.9-star rating across more than 17,000 reviews, it's not a hidden gem anymore — it's a benchmark for what modern, casual Vietnamese "cuốn" dining can look like. The concept centers on cuốn, the broad family of Vietnamese rolls and roll-your-own dishes built on rice paper, fresh herbs, rice vermicelli, and various grilled, steamed, or marinated proteins. Rather than a single dish, expect a build-your-own experience: platters of herbs, pickled vegetables, dipping sauces, and rice paper arrive alongside the main proteins, and diners assemble their own rolls at the table.

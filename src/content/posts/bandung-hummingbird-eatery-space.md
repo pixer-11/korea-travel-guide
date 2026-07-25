@@ -67,8 +67,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Jl. Progo is one of Bandung's small cluster of tree-lined "heritage streets" in Citarum, a residential pocket a few minutes from the city center that's known for colonial-era houses converted into cafés and boutiques. Hummingbird Eatery & Space fits that mold: a restored bungalow with a garden patio, indoor seating, and a menu built to please a mixed crowd — nasi goreng and rendang sit alongside pasta, burgers, crepes, and cold-pressed juices. It's currently one of the most-reviewed restaurants in the city (nearly 13,000 reviews and a 4.7 average), which tells you two things: the food and setting are reliably good, and you should expect company, especially on weekends.

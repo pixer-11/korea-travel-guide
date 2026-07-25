@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why Tadhanà is worth planning around
 
 "Tadhanà" means "fate" or "destiny" in Filipino, and the name is the whole pitch: this is chef Francis Tariga's return home after building her reputation in New York's demanding fine-dining scene. The restaurant has quickly become one of Manila's most talked-about openings, built around a ten-course tasting menu that reframes Filipino flavors — the sourness, funk, char, and layered sweetness that define the cuisine — through the technique and plating language of contemporary global fine dining. It's less a place to grab dinner than an event to build an evening around, closer in spirit to a degustation night out than a casual meal.

@@ -17,8 +17,6 @@ faq:
     a: El museo Istanbul Modern, la Torre de Gálata, cafeterías de especialidad y Karaköy Güllüoğlu (una reconocida pastelería de baklava) están todos a poca distancia a pie, lo que facilita organizar una velada completa en torno a la cena.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, utilizando fuentes web actuales. Los horarios y detalles cambian: confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué Sen'den destaca
 
 Karaköy lleva una década transformándose de un barrio portuario y decadente en uno de los distritos gastronómicos y de vida nocturna más comentados de Estambul, y Sen'den es una de las incorporaciones más recientes a esa historia. Lo que lo distingue no es solo el concepto culinario, sino el propio edificio: Sen'den ocupa el Hovagimyan Han, un han del siglo XIX (un edificio comercial otomano tradicional, construido originalmente como una combinación de oficinas, almacenes y espacio comercial) que ha sido cuidadosamente restaurado en lugar de vaciado y reconstruido. La piedra vista, las proporciones históricas y los antiguos detalles estructurales conviven, según se informa, con un comedor contemporáneo, lo que le da al restaurante una atmósfera estratificada de lo antiguo y lo nuevo que se ha convertido en un sello distintivo de las mejores aperturas de Karaköy.

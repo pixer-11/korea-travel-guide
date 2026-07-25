@@ -17,8 +17,6 @@ faq:
     a: Gardens by the Bay (el Supertree Grove y los invernaderos Flower Dome/Cloud Forest) está justo al lado y es visible desde la plataforma, mientras que el Helix Bridge y el Singapore Flyer están a un corto paseo o a una parada de MRT a través de la estación Promenade.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de información en tiempo real de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El SkyPark Observation Deck corona la Torre 3 de Marina Bay Sands, en 10 Bayfront Avenue, a 56 pisos por encima de la bahía. Es el único mirador público que te sitúa a la altura de la icónica silueta del hotel en forma de tabla de surf, mientras contemplas desde arriba los mismos jardines y el mismo horizonte que hacen que Marina Bay sea reconocible en todo el mundo. Desde la plataforma al aire libre se obtiene una vista panorámica de 360 grados sin obstáculos: el Supertree Grove y los invernaderos de cúpula de Gardens by the Bay justo abajo, el Singapore Flyer al otro lado del agua, las torres del distrito financiero central (CBD) y, en días despejados, una vista que se extiende hacia las Southern Islands y el estrecho de Singapur. Con 4.6 estrellas de casi 14,000 reseñas, se ha consolidado firmemente como una de las atracciones imprescindibles de la ciudad, y no como un hallazgo poco conocido.

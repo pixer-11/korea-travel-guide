@@ -17,8 +17,6 @@ faq:
     a: Calcula entre 1 y 2 horas por barrio; medio día es suficiente para combinar una comida de jjimgalbi con un paseo por el Mercado Yangnyeongsi (Yangnyeongsi Market) o una visita al callejón de comida del Mercado Seomun (Seomun Market).
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por editores, con asistencia de IA. Las imágenes tienen licencia o son de dominio público. Este es un resumen general de la zona/tema: verifica los detalles específicos de cada local antes de tu visita. Consulta nuestra [política editorial](/about).
-
 ## Por qué Daegu es una auténtica ciudad gastronómica
 
 Daegu no recibe la atención turística gastronómica de Seúl o Busan, pero es una de las regiones culinarias más particulares de Corea. La ciudad es famosa por un puñado de platos que no encontrarás representados de la misma forma en ningún otro lugar: el **jjimgalbi al estilo dak-galbi** (un ardiente plato de costillas braseadas exclusivo de Daegu, más dulce y seco que el galbi-jjim al estilo de Seúl), el **makchang** (intestinos de res a la parrilla, una especialidad de Daegu que se disfruta mejor en callejones dedicados al makchang) y los **napjak mandu** (empanadillas planas fritas a la sartén que se venden en el Mercado Seomun). Como Daegu recibe menos turismo internacional que la capital, sus restaurantes suelen estar menos adaptados para visitantes, lo que precisamente hace que comer fuera se sienta más auténtico y local.

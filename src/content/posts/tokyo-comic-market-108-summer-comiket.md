@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## What Comiket Actually Is
 
 Comic Market — universally shortened to "Comiket" — is not a publisher-run trade show like a Western comic con. It's a self-published fan work market: tens of thousands of individual "circles" (creators, often working solo or in small teams) rent tables to sell doujinshi, fan art books, self-produced music, and original comics. There's no film-studio booth, no big-name autograph line in the American sense. The draw is browsing an entire convention center of independent creators, many of whom only sell work twice a year, at this event and its winter counterpart. Comic Market 108 runs August 15–16, 2026, entirely at Tokyo Big Sight.

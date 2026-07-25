@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The Bund (Waitan) is Shanghai's signature stretch of waterfront, a 1,500-meter promenade running along Zhongshan Dong Yi Road in Huangpu District. Its fame rests on the contrast it offers: on the western side stands a row of over 20 early-20th-century buildings in Gothic, Baroque, Romanesque, and Art Deco styles — remnants of Shanghai's era as a treaty port and international financial hub. On the eastern side, across the Huangpu River, rises Pudong's skyline: the Oriental Pearl Tower, Jin Mao Tower, Shanghai World Financial Center ("the bottle opener"), and the Shanghai Tower, currently among the tallest buildings on earth. Few places pack a clearer visual timeline of the city's transformation into a single sightline.

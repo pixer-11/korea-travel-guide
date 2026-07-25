@@ -46,8 +46,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Dago Dreampark sits in a pine forest along Jalan Dago Giri, on the route that climbs from Dago in northern Bandung toward Lembang. It's less a single attraction than a cluster of activity zones spread across a hillside — ATV tracks cut through the trees, paintball arenas, a flying fox, giant swings over the valley, and a rotating cast of Instagram-oriented photo props (oversized chairs, sky nests, floating platforms) that have made it a fixture on Bandung day-trip itineraries. With nearly 20,000 reviews and a 4.2 rating, it's firmly one of the busier attractions in the Lembang corridor, alongside neighbors like Dago Pakar and the Tebing Keraton cliff viewpoint further up the same road.

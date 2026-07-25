@@ -17,8 +17,6 @@ faq:
     a: El restaurante está dentro de American Village (Depot Island), así que puedes caminar hasta Sunset Beach, la noria de la zona y un conjunto de tiendas y cafés justo después de comer.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por editores, con ayuda de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La escena gastronómica de Okinawa se apoya mucho en el goya champuru, el soba de Okinawa y el taco rice, así que un bufé de marisco al vapor destaca por ser algo diferente — tanto locales como visitantes han convertido a Chatan Steam Seafood en uno de los restaurantes con más reseñas de la isla, con una calificación de 4.7 de aproximadamente 3,500 reseñas. El formato es simple y satisfactorio: recorres un mostrador refrigerado de marisco, eliges lo que quieres (patas de cangrejo de las nieves, cangrejo real, almejas, mejillones, langostinos, vieiras, y a veces langosta y oreja de mar según las existencias del día), le entregas tu selección al personal, y minutos después te lo llevan cocinado al vapor a la mesa. Es interactivo, generoso y pensado para compartir entre dos o más personas, más que para una comida rápida en solitario.

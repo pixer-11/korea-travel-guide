@@ -17,8 +17,6 @@ faq:
     a: La temporada seca de Da Nang, aproximadamente de febrero a agosto, ofrece el clima más agradable para cenar, mientras que de septiembre a diciembre llegan las lluvias más intensas y algunas tormentas ocasionales.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Bếp Cuốn Đà Nẵng se ha convertido en uno de los restaurantes más comentados de la ciudad, y su inclusión en la lista Michelin Selected para 2025-2026 no ha hecho más que intensificar esa reputación. Con una calificación inusualmente alta de 4,9 estrellas en más de 17.000 reseñas, ya no es una joya escondida: es un referente de lo que puede ser la experiencia moderna y casual del "cuốn" vietnamita. El concepto gira en torno al cuốn, esa amplia familia de rollitos vietnamitas y platos para envolver uno mismo, elaborados con papel de arroz, hierbas frescas, fideos de arroz y diversas proteínas a la parrilla, al vapor o marinadas. En lugar de un solo plato, lo que encontrarás es una experiencia de "arma tu propio rollito": llegan a la mesa fuentes de hierbas, vegetales encurtidos, salsas para mojar y papel de arroz junto con las proteínas principales, y cada comensal arma sus propios rollitos en la mesa.

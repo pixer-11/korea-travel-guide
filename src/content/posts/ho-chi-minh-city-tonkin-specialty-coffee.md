@@ -86,8 +86,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Ho Chi Minh City's coffee scene has two tracks: the ubiquitous roadside cà phê sữa đá stalls, and a newer wave of specialty roasters treating Vietnamese beans the way Ethiopia or Colombia treats theirs — with single-origin sourcing, manual brew methods, and tasting notes on the menu. Tonkin Specialty Coffee sits firmly in the second camp. With a 4.8 rating across more than 4,500 reviews, it's one of the most consistently praised specialty spots in District 1, and it's built its reputation on doing one thing — Vietnamese-grown specialty coffee — carefully rather than chasing a sprawling menu.

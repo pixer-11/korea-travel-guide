@@ -85,8 +85,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Gyukatsu — a thick-cut beef loin coated in panko and flash-fried so the inside stays rare — is one of the more recent additions to Japan's fried-food canon, distinct from the pork-based tonkatsu most travelers already know. Katsugyu (also styled GYUKATSU Kyoto Katsugyu) has built its reputation on this dish specifically, and the Kyoto Ekimae branch has racked up an unusually high volume of reviews (over 17,000) with a 4.7 rating, a strong signal in a city saturated with tourist-trap dining near the station. The address puts it in Shimogyo Ward's Maoyachō, the dense block of restaurants and izakaya just north/west of Kyoto Station's central exits — convenient for a meal bookended by sightseeing or before catching a Shinkansen.

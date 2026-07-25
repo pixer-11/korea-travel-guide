@@ -17,8 +17,6 @@ faq:
     a: Los platos concretos y los precios de este local aún no se han confirmado, así que conviene consultar los canales oficiales del restaurante cerca de la fecha de tu visita en lugar de fiarte de listados desactualizados o no oficiales.
 ---
 
-> **Cómo se ha elaborado esta guía:** Revisada por un editor, con asistencia de IA, a partir de fuentes web actuales. Los horarios y detalles cambian — confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué Gloria Osteria es noticia ahora
 
 Big Mamma lleva la última década convirtiendo el "restaurante italiano" en todo un acontecimiento sensorial en ciudades como París, Londres y otras grandes urbes, combinando interiores maximalistas con pasta y pizza que triunfan entre el público. Gloria Osteria es la primera apertura del grupo en Barcelona, y ha llegado con un revuelo poco habitual incluso en una ciudad tan saturada de buena gastronomía como esta. Se llenó por completo en su primera semana de apertura y rápidamente se ha convertido en una de las mesas más codiciadas de Barcelona — el tipo de sitio del que los locales todavía hablan con sus amigos y que los visitantes ya tienen anotado antes incluso de aterrizar.

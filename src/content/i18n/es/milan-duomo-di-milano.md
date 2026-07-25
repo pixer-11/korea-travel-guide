@@ -17,8 +17,6 @@ faq:
     a: La Galleria Vittorio Emanuele II, la galería comercial, conecta la plaza con el teatro de ópera La Scala, y el Palazzo Reale, justo al lado, alberga el Museo del Duomo con estatuas originales de la catedral y maquetas de construcción.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El Duomo di Milán es una de las catedrales más grandes del mundo y tardó unos seis siglos en completarse, desde su inicio en 1386 bajo Gian Galeazzo Visconti hasta los últimos retoques en la fachada a principios del siglo XX. El resultado es un bosque casi abrumador de agujas de mármol blanco —135 en total— coronadas por más de 3.400 estatuas, incluida la Madonnina dorada que vigila la ciudad desde la aguja más alta desde 1774. Considerada una de las principales atracciones de Milán por cientos de miles de visitantes, es el centro ineludible de la ciudad y una pieza arquitectónica genuinamente singular: una estructura gótica francesa vestida con un ornamento claramente lombardo e italiano.

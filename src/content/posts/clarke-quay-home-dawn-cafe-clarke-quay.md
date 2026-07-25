@@ -68,8 +68,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Clarke Quay's reputation is built on nightlife — neon-lit shophouses, riverside bars, and the covered "Cloud Forest" canopy over the main strip. Home Dawn Cafe @ Clarke Quay offers a different register entirely: a calmer, daytime-friendly café tucked into Block 3A River Valley Road, one row back from the main tourist flow. With a 4.5 rating across nearly 900 reviews, it has built a steady following without becoming a fixture on the typical Clarke Quay bar-hop itinerary, making it a genuinely good option if you want the neighborhood's riverside setting without the club-district crowd.

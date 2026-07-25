@@ -17,8 +17,6 @@ faq:
     a: La Mezquita Central de Seúl está a dos minutos a pie cuesta arriba y se puede visitar fuera de los horarios de oración; el barrio más amplio de Itaewon, con sus bares, boutiques y el Museo de Arte Leeum, está a poca distancia a pie o en un breve trayecto en taxi.
 ---
 
-> **Cómo se elaboró esta guía:** revisada por un editor, con apoyo de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La comida coreana halal suena a contradicción para muchos visitantes primerizos —la salsa de soja, el gochujang y el cerdo son la base de la mayoría de los menús coreanos—, pero el barrio de Usadan-ro, en Itaewon, ha ido construyendo silenciosamente un pequeño distrito de comida halal alrededor de la Mezquita Central de Seúl, y EID Halal Korean Food es una de las cocinas más destacadas de la zona. Aquí se reinterpretan clásicos como el bulgogi, el dak-galbi y el pollo frito con carne certificada halal y salsas adaptadas, para que los viajeros musulmanes (y cualquier persona con curiosidad) puedan disfrutar de la comida reconfortante coreana sin renunciar a nada. Con una calificación de 4,5 estrellas en casi 1.200 reseñas, se ha convertido en una parada fiable, no en una simple curiosidad.

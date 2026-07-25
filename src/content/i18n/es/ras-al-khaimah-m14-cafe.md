@@ -17,8 +17,6 @@ faq:
     a: 'Realmente pasa desapercibido para los visitantes: tiene muy buena valoración (4.4 sobre 706 reseñas), pero todavía no es una parada habitual en los itinerarios turísticos, así que normalmente se puede visitar sin multitudes ni necesidad de reservar.'
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La escena de cafeterías de Ras Al Khaimah ha crecido rápidamente en los últimos años, pero gran parte se concentra alrededor de la marina y las grandes franjas hoteleras. M14 Cafe está un poco más apartado —tierra adentro, cerca de New Mall, en Sheikh Humaid Al Mohammad Al Qasimi Road, en la zona de Seih Al Araibi— y se ha ganado una sólida calificación de 4.4 con 706 reseñas sin convertirse en una parada turística obligatoria. Esa combinación es poco habitual en el emirato: una cafetería lo bastante buena como para llenarse los fines de semana, pero todavía lo suficientemente discreta como para encontrar sitio y quedarse un rato.

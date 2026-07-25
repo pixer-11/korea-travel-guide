@@ -17,8 +17,6 @@ faq:
     a: Las fechas de venta y los precios de las entradas no estaban confirmados en el momento de publicación de esta guía; conviene consultar los canales oficiales de European Aquatics (LEN) y de París 2026 para conocer el calendario de ventas más reciente.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA, a partir de fuentes web actuales. Las fechas y entradas de los eventos cambian: confirma siempre en la web oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El Campeonato Europeo de Deportes Acuáticos reúne a los mejores nadadores, saltadores, nadadoras artísticas, equipos de waterpolo y atletas de aguas abiertas del continente durante más de dos semanas de competición. La edición de 2026 destaca porque vuelve exactamente a la infraestructura construida para los Juegos Olímpicos de París 2024, lo que significa que los espectadores podrán disfrutar de sedes de primer nivel mundial, como el Centro Acuático Olímpico (Olympic Aquatics Centre), en la misma configuración que usaron los medallistas olímpicos apenas dos años antes. Para los aficionados a la natación y los saltos, se trata prácticamente de una oportunidad de sentarse en una piscina con legado olímpico sin las multitudes ni los precios propios de unos Juegos Olímpicos.

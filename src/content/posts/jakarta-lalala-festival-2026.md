@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why go
 
 LaLaLa Festival has become one of Jakarta's headline international music weekends, drawing an audience that mixes Southeast Asian festival-goers with fans flying in specifically for the lineup. The 2026 edition is set for August 22–23, 2026, at Jakarta International Expo (JIExpo), and the announced headliners include Steve Lacy, Two Door Cinema Club, Kodaline, The Flaming Lips, Rex Orange County, Honne, and Flo — a lineup that spans indie rock, alt-pop, psych-rock, and R&B-leaning acts, so it appeals to a broader crowd than a single-genre festival. If you're building a Southeast Asia trip around live music, this is one of the region's bigger tentpole events, roughly on par with other multi-day festivals in Manila, Singapore, or Kuala Lumpur in terms of international drawing power.

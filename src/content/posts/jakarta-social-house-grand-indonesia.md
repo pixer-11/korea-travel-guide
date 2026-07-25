@@ -48,8 +48,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Social House built its reputation on doing two things well at once: a serious, 300-label wine list and a comfort-food-heavy international menu that ranges from pastas and burgers to Asian-leaning small plates. The design leans into an "asri" (lush, garden-like) atmosphere — think plant walls, warm wood, and a semi-outdoor terrace feel despite being tucked inside a mall — which is part of why it reads more like a standalone lifestyle restaurant than a typical food-court stop. With a 4.8 rating across more than 8,000 reviews, it's one of the more consistently well-reviewed sit-down restaurants inside Grand Indonesia, a mall that otherwise skews toward fast casual and food courts.

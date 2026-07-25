@@ -17,8 +17,6 @@ faq:
     a: Otros hitos de Gaudí, Casa Milà y Casa Batlló, están a un corto trayecto en metro por Passeig de Gràcia, y el distrito del Eixample que rodea la basílica tiene numerosos cafés y bares de tapas para hacer una pausa después de la visita.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos proceden de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La Basílica de la Sagrada Familia de Antoni Gaudí, en Carrer de Mallorca, en el distrito del Eixample, es el símbolo por excelencia de Barcelona y una de las iglesias más visitadas del mundo, con una valoración de 4.8 sobre más de 326,000 reseñas. Las obras comenzaron en 1882 y el edificio sigue sin terminarse, lo cual forma parte de su fascinación: estás contemplando una obra en construcción activa que, además, es una obra maestra declarada Patrimonio de la Humanidad por la UNESCO. Gaudí se hizo cargo del proyecto en 1883 y trabajó en él hasta su muerte en 1926, incorporando sus formas naturalistas características: columnas inspiradas en árboles, techos que imitan la copa de un bosque, fachadas repletas de piedra orgánica, casi como si se derritiera. La fecha prevista para su finalización sustancial ha cambiado muchas veces a lo largo de las décadas, así que conviene tomar cualquier fecha de finalización que se mencione como provisional.

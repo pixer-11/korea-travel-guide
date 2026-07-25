@@ -39,8 +39,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Jumunjin Lighthouse sits on a modest bluff overlooking Jumunjin Port, one of Gangwon-do's busiest fishing harbors, roughly 25 minutes north of downtown Gangneung. The lighthouse itself is unassuming — a squat white tower first built in 1918 to guide fishing boats along Korea's east coast — but the real draw is the panorama from its base: a sweeping view of the harbor's fishing fleet, the open East Sea, and, on clear days, the rocky coastline stretching toward Sokcho. It's become a minor pop-culture pilgrimage spot too, since the surrounding cliffs and staircase appeared in the hit K-drama "Goblin" (Guardian: The Lonely and Great God), which has kept a steady stream of visitors climbing the hill even though the lighthouse predates the show by a century.

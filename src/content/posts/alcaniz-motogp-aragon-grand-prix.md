@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why go
 
 MotorLand Aragón is one of the more technical, fan-friendly tracks on the MotoGP calendar — a 5.3 km circuit with a long back straight, tight infield chicanes, and grandstands that give a genuine sightline advantage over some of the sport's bigger, more sprawling venues. The Aragon Grand Prix, held August 28–30, 2026, is a full three-day weekend covering free practice, qualifying, and races across MotoGP, Moto2, and Moto3, plus supporting series that typically fill out the schedule. For visitors, it's also a chance to see a corner of Spain — the Bajo Aragón region of Teruel province — that most tourists skip entirely in favor of Madrid or Barcelona.

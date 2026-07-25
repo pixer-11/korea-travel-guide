@@ -29,8 +29,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting. See our [editorial policy](/about).
-
 ## Why Daegu Is a Real Food City
 
 Daegu doesn't get the food-tourism attention of Seoul or Busan, but it's one of Korea's most distinct culinary regions. The city is famous for a handful of dishes you won't find represented the same way elsewhere: **dak-galbi-style jjimgalbi** (a fiery braised short rib dish unique to Daegu, sweeter and drier than Seoul-style galbi-jjim), **makchang** (grilled beef intestines, a Daegu specialty best enjoyed at dedicated makchang alleys), and **napjak mandu** (flat, pan-fried dumplings sold in Seomun Market). Because Daegu sees fewer international tourists than the capital, restaurants here tend to be less adapted for visitors — which is exactly what makes eating out feel more local.

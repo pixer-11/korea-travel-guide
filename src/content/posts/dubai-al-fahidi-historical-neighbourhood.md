@@ -69,8 +69,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Al Fahidi (also called Bastakiya) is one of the few surviving pockets of pre-oil Dubai, built from the 1890s onward by Persian merchant families from Bastak who settled along the Creek to trade textiles and pearls. The low sand-and-gypsum buildings, coral-stone foundations, and barjeel wind towers were engineered to catch breezes and cool interiors long before air conditioning — the area is essentially an open-air lesson in desert architecture. With a 4.6 rating across nearly 17,000 reviews, it's one of the most consistently praised attractions in the city, so expect company, especially midday and on weekends.

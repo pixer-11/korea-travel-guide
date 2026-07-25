@@ -17,8 +17,6 @@ faq:
     a: El lago Hoàn Kiếm, el Templo Ngọc Sơn y las tiendas de las calles Hàng Bạc y Mã Mây están a pocos minutos a pie, lo que facilita incluir esta parada en una ruta más amplia por el Barrio Antiguo.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Hidden Gem Cafe se ha ganado su calificación de 4.8 estrellas (con más de 4,300 reseñas) no tanto por un café revolucionario como por el entorno: una estrecha casa tubo en la calle Hàng Mắm convertida en un café escalonado, cubierto de plantas, con varias terrazas en la azotea apiladas una sobre otra. El Barrio Antiguo está lleno de cafés "escondidos" en azoteas anunciados en pizarras de esquina, pero este ofrece una vista de verdad: tejados de chapa, cables enredados, árboles de tamarindo y vistazos del barrio del río Rojo hacia el puente Long Biên. Es un buen antídoto contra el bullicio de Hàng Bạc y Mã Mây, a solo unas calles de distancia, y una parada genuinamente fotogénica si buscas un descanso del recorrido de templos y mercados.

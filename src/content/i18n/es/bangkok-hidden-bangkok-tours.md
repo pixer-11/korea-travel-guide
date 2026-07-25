@@ -17,8 +17,6 @@ faq:
     a: Calzado cerrado y cómodo para pavimentos irregulares y visitas a templos, billetes pequeños de baht para la comida callejera y los puestos de mercado, y protección solar, dado que hay poca sombra en los sois del fondo.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La mayoría de los visitantes primerizos conocen Bangkok a través del Gran Palacio, Wat Pho y Khao San Road, todos en el lado de Rattanakosin (el Bangkok propiamente dicho) del río Chao Phraya. Hidden Bangkok Tours opera en la orilla opuesta, en Bangkok Yai y la zona de Wat Arun, en Thonburi, la capital siamesa original antes de que se construyera Rattanakosin en 1782. Es un distrito de sois estrechos, casas de madera sobre pilotes junto a los klongs (canales), templos de barrio sin colas en la entrada y mercados que atienden a los residentes, no a los autobuses turísticos. El atractivo no es un solo monumento: es la textura de la vida cotidiana en una parte de Bangkok que conserva su trazado del siglo XVIII, a solo 10 minutos en barco del perfil urbano de postal.

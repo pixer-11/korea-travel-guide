@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## What Pestapora Is
 
 Pestapora has grown into one of Indonesia's flagship multi-genre music festivals, and the 2026 edition — its fifth year — is scheduled for September 25, 26, and 27, 2026 in Jakarta. Unlike single-genre festivals, Pestapora typically spreads dozens of Indonesian and regional acts across multiple stages over a full weekend, covering pop, indie, hip-hop, punk, dangdut, and electronic sets side by side. It's organized by Boss Creator, an event company known for large-scale music productions in Indonesia. Because this is a fast-moving annual event, treat any specifics beyond the confirmed dates — venue, lineup, stage names, ticket prices — as provisional until Pestapora's official Instagram and website publish them, which usually happens in phased announcements a few months before the festival.

@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why this show matters
 
 Tyler, the Creator hasn't performed in Japan in eight years, so the Chromakopia: The World Tour stop at Ariake Arena on September 9 and 10, 2026 is a rare chance for fans in Asia to catch him without flying to North America or Europe. Chromakopia is the album cycle behind the tour, and Tyler's live shows are known for elaborate stage design, costume changes, and a setlist that pulls from across his catalog — from "Flower Boy" and "IGOR" eras through to newer material. Two consecutive nights in Tokyo signals strong demand, so this is being treated as a marquee international date rather than a quick add-on stop.

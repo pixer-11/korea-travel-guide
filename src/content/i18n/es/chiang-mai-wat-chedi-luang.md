@@ -17,8 +17,6 @@ faq:
     a: Wat Phra Singh, Wat Chiang Man y el Monumento de los Tres Reyes están todos a entre 10 y 15 minutos a pie, lo que facilita combinarlos en una ruta de templos por la ciudad antigua.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Wat Chedi Luang es uno de los templos más importantes históricamente del norte de Tailandia, construido alrededor de un colosal chedi (estupa) que en su momento superaba los 80 metros de altura, hasta que un terremoto del siglo XVI —y posiblemente los cañonazos durante un asedio birmano posterior— derribó su sección superior. Lo que queda sigue siendo una imponente mole de ladrillo y estuco desgastado, rodeada de escalinatas con serpientes naga y esculturas de elefantes en su base, lo que le da una solemnidad que los templos más pulidos y dorados de Chiang Mai no logran igualar. El complejo también alberga el *lak mueang* de la ciudad, el pilar guardián que se cree protege a Chiang Mai, resguardado en una pequeña estructura junto a un árbol de goma sagrado (*sadeu mueang*) que, según se dice, es tan antiguo como la propia ciudad. Con una calificación de 4.7 sobre más de 18,500 reseñas, es sistemáticamente uno de los sitios mejor valorados de la ciudad antigua.

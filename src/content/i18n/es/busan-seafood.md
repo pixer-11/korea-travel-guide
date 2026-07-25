@@ -17,8 +17,6 @@ faq:
     a: 'No: el Parque Millak Waterside (Millak Waterside Park), cerca de la Playa Gwangalli (Gwangalli Beach) (Línea 2 del metro, estación Millak), ofrece pescado crudo con vistas al puerto, y Gijang, a lo largo de la línea Donghae, es conocido por el erizo de mar y el cangrejo de nieve en invierno.'
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Las imágenes tienen licencia o son de dominio público. Este es un panorama general del área/tema — verifica los detalles específicos del lugar antes de visitarlo. Consulta nuestra [política editorial](/about).
-
 ## Por qué Busan es la ciudad marisquera de Corea
 
 Busan creció alrededor de su puerto, y la cultura gastronómica de la ciudad todavía funciona con lo que bajan los barcos cada mañana. A diferencia de Seúl, donde los restaurantes de mariscos están dispersos por los distintos barrios, Busan concentra la experiencia en un puñado de mercados y zonas costeras donde puedes ver cómo la captura pasa del tanque a la mesa en menos de una hora. El estilo distintivo aquí es el **hoe** (pescado crudo al estilo coreano, cortado más grueso que el sashimi japonés y que se come con ssamjang y hojas de perilla), junto con mariscos a la parrilla, guisos de pescado picantes y especialidades propias de la región como el milmyeon, el primo marisquero del dwaeji gukbap, que se sirve frío en verano.

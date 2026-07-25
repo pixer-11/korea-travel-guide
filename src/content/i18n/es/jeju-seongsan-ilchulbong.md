@@ -17,8 +17,6 @@ faq:
     a: La isla de Udo (accesible en ferry desde el cercano Puerto de Seongsan), los senderos costeros de Seopjikoji y la playa de Gwangchigi están todos a poca distancia en coche o a pie, lo que facilita armar un itinerario de medio día alrededor del pico.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Seongsan Ilchulbong —el "Pico del Amanecer"— es un cono de toba que emergió del fondo marino hace unos 5,000 años; sus paredes forman ahora un espectacular cráter en forma de cuenco, rodeado de agrestes agujas rocosas sobre el mar. Es uno de los tres sitios de Jeju declarados Patrimonio Natural de la Humanidad por la UNESCO (junto con el Sistema de Tubos de Lava de Geomunoreum y el Parque Nacional Hallasan) y la silueta más fotografiada de la isla: el cono volcánico que aparece en postales y carteles de Jeju. A diferencia del Hallasan, esta es una subida corta y de gran recompensa: la mayoría de los visitantes completa la ida y vuelta en 1 a 1.5 horas, lo que la convierte en un complemento fácil más que en un compromiso de todo el día. El nombre alude a su fama como uno de los mejores lugares de Corea para ver el amanecer, aunque el propio cráter, las amplias vistas costeras y los verdes pastizales circundantes hacen que valga la pena visitarlo a cualquier hora.

@@ -17,8 +17,6 @@ faq:
     a: Un día completo es suficiente para ver los principales atractivos en un tour estándar. Si quieres subir al mirador, bucear o explorar el pueblo de Tonsai con más calma, planea quedarte de 1 a 2 noches en Ko Phi Phi Don.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 A pesar de la etiqueta "Phuket", las Islas Phi Phi pertenecen administrativamente a la provincia de Krabi; sin embargo, Phuket es el punto de partida más común para los visitantes, y la mayoría de los tours y ferris se comercializan desde allí. El atractivo es sencillo: acantilados de piedra caliza que se elevan directamente desde el agua turquesa, playas de arena fina como polvo y calas tan cristalinas que se puede ver el fondo marino a varios metros de profundidad. Con una calificación de 4,6 en más de 7.600 reseñas, es constantemente uno de los paisajes marinos más fotografiados del sudeste asiático: los acantilados de Phi Phi Leh aparecieron en la película de 2000 *The Beach* (La playa), filmada en Maya Bay.

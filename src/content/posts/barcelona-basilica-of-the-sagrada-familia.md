@@ -91,8 +91,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Antoni Gaudí's Basilica of the Sagrada Família, on Carrer de Mallorca in the Eixample district, is Barcelona's defining landmark and one of the most visited churches in the world, rated 4.8 from over 326,000 reviews. Construction began in 1882 and the building remains unfinished, which is part of its fascination: you're watching an active construction site that also happens to be a UNESCO World Heritage-listed masterpiece. Gaudí took over the project in 1883 and worked on it until his death in 1926, folding in his signature naturalistic forms — columns modeled on trees, ceilings that mimic forest canopies, facades dense with organic, almost melting stone. The current target for substantial completion has shifted many times over the decades, so treat any finish date you hear as provisional.

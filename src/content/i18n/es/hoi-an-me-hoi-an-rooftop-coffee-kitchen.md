@@ -17,8 +17,6 @@ faq:
     a: No se necesita entrada para la cafetería en sí, aunque las casas patrimoniales y monumentos cercanos del casco antiguo requieren la entrada aparte al Casco Antiguo de Hoi An.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El casco antiguo de Hoi An es célebre por su baja altura: una cuadrícula protegida por la UNESCO de casas de comerciantes, casas tubo y pagodas de los siglos XV al XIX, donde las nuevas construcciones están muy restringidas. Precisamente esa escasez de altura es lo que hace destacar a un lugar como Mê Hội An Rooftop Coffee & Kitchen: es uno de los pocos sitios dentro del casco histórico con una auténtica terraza en azotea de varios pisos, con vistas directas sobre los tejados de teja, algún vistazo al río Thu Bồn y las fachadas pintadas de amarillo por las que es conocida la ciudad. Con una valoración de 4,9 en casi 2500 reseñas, se ha convertido en uno de los "cafés con vistas" más comentados del casco antiguo, muy popular entre quienes buscan la foto de la hora dorada antes de salir a disfrutar de la noche iluminada por los faroles.

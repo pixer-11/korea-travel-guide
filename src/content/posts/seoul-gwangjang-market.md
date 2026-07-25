@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts such as ratings and location come from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Gwangjang Market Matters
 
 Opened in 1905, Gwangjang is widely considered Seoul's first permanent standing market, built to trade textiles and household goods along the Cheonggyecheon stream. It still functions as a working fabric and hanbok wholesale market by day, but since the 2010s its food alley has become the city's most famous street-food destination, drawing both elderly regulars who've eaten there for decades and a steady stream of international visitors chasing viral videos of sizzling pancakes and hand-rolled gimbap. With a 4.3 rating across roughly 42,000 reviews, it's one of the most reviewed food markets in the country — but the crowds haven't hollowed it out the way they have some other tourist-trodden spots, because locals still shop and eat here daily.

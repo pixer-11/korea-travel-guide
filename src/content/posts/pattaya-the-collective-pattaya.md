@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The Collective Pattaya sits inside the Holiday Inn Pattaya, right on Beach Road, and has built a reputation as one of the city's most consistent buffet-and-à la carte restaurants. A 4.8 average from over 2,173 reviews is an unusually strong showing for a hotel restaurant that serves both guests and walk-ins — most large-format buffets struggle to keep quality even, but this one leans on live cooking stations (think noodle bars, grilled seafood, made-to-order eggs) rather than just steam trays, which is usually what separates a good buffet from a forgettable one. It's a practical choice if you're staying anywhere along Beach Road or Central Pattaya and want a single stop that covers Thai, Japanese, Western, and international comfort food for a table with mixed tastes — kids, seafood lovers, and picky eaters included.

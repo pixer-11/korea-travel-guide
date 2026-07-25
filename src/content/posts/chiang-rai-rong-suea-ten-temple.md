@@ -92,8 +92,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Rong Suea Ten, universally nicknamed the "Blue Temple," is one of the most photographed modern religious buildings in Thailand, and with a 4.6 rating across nearly 27,000 reviews, it's clearly earned its reputation beyond social media hype. Unlike the stark white of its famous cousin Wat Rong Khun, this temple is drenched in a deep indigo blue, accented with gold detailing, naga serpents, and intricate stucco carvings that shimmer under the tropical sun. The name translates roughly to "Dancing Tiger Temple," a nod to the tigers once said to roam this area outside Chiang Rai city before it was settled. Inside, a striking white Buddha image sits beneath a canopy of blue-and-gold ornamentation, flanked by murals and mythological figures that reward a slow, unhurried look rather than a quick photo stop.

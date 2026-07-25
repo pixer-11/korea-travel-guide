@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Sultan Mosque (Masjid Sultan) is the spiritual and visual centerpiece of Kampong Glam, Singapore's historic Malay-Muslim quarter. Its golden domes, ringed at the base with thousands of glass bottle-ends donated by poorer members of the congregation in the 1930s, make it one of the most photographed religious buildings in the city. The current structure dates to 1932, designed by Denis Santry of Swan & Maclaren in an Indo-Saracenic style, replacing an earlier 1824 mosque commissioned by Sultan Hussain Shah after Raffles' 1819 treaty settled the Malay royal family in this district. With a 4.7 rating across nearly 14,000 reviews, it's firmly on the must-see list for Singapore — expect company.

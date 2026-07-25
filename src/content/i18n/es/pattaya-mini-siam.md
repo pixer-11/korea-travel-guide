@@ -17,8 +17,6 @@ faq:
     a: 'Sí, es una parada familiar muy popular: el diseño abierto, las plataformas de observación y las maquetas a escala aptas para fotos hacen que los niños puedan disfrutarlo sin necesidad de mucha paciencia.'
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Mini Siam es una de las atracciones temáticas más antiguas de Pattaya, construida bajo la idea de recorrer Tailandia y el mundo en una sola tarde sin salir de la provincia de Chon Buri. El parque se divide en dos zonas: "Siam", con réplicas a escala de las estructuras más reconocibles de Tailandia (Wat Arun, el Gran Palacio, el Monumento a la Democracia de Bangkok, el Parque Histórico de Phimai y los karsts de piedra caliza del sur de Tailandia), y una sección internacional con íconos como la Torre Eiffel, el Tower Bridge, el Big Ben, la Ópera de Sídney, Angkor Wat y la Estatua de la Libertad. Es un museo al aire libre tranquilo y fácil de recorrer a pie, que atrae especialmente a familias con niños, a entusiastas de las maquetas y la arquitectura, y a cualquiera que busque una escapada sencilla de medio día lejos de la playa. Con una calificación de 4.2 en casi 8,000 reseñas, es una parada bien establecida y no una trampa turística improvisada.

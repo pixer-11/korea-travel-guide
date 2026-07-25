@@ -17,8 +17,6 @@ faq:
     a: El Tekka Centre (mercado húmedo y puestos de comida hawker) y el templo Sri Veeramakaliamman quedan a poca distancia a pie, junto con las callejuelas de casas-tienda de Dunlop Street y Campbell Lane.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Con una calificación de 4.9 y más de 2,500 reseñas, Super Deluxe Kitchen se ha ganado una legión de fieles gracias a su cocina consistentemente buena del norte y el sur de la India, en pleno corazón de Little India. No es una institución con décadas de historia, sino una cocina india de nueva generación que se ha ganado su popularidad gracias a la comida en sí: curries bien especiados, panes de tandoor recién hechos y un biryani que hace que los clientes vuelvan una y otra vez. Su dirección en Upper Weld Road lo sitúa justo fuera de la principal arteria turística de Serangoon Road, así que disfrutas de la energía auténtica del barrio sin tener que abrirte paso entre el tramo más transitado de las fachadas de Little India.

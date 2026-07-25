@@ -17,8 +17,6 @@ faq:
     a: 'Sí: se conecta directamente con el Parque del Castillo de Kanazawa a través de la puerta Ishikawa-mon, y está a poca distancia a pie del Museo de Arte de la Prefectura de Ishikawa y del Museo D.T. Suzuki.'
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué vale la pena visitar Kenroku-en
 
 Kenroku-en (兼六園) significa "Jardín de los Seis Atributos", en referencia a un texto clásico chino que describe las seis cualidades de un jardín paisajístico perfecto: amplitud, aislamiento, artificio, antigüedad, cursos de agua y vistas panorámicas. Es uno de los tres únicos jardines de Japón honrados tradicionalmente como "jardín perfecto", junto con Kairaku-en en Mito y Koraku-en en Okayama. Trazado a lo largo de casi dos siglos a partir de la década de 1620 por el clan Maeda, que gobernaba el próspero dominio de Kaga desde el vecino Castillo de Kanazawa, el jardín fue diseñado como un paisaje de paseo pensado para revelar una nueva composición en cada recodo del camino: estanques, casas de té, colinas artificiales y vistas prestadas de montañas lejanas, todo coreografiado con esmero.

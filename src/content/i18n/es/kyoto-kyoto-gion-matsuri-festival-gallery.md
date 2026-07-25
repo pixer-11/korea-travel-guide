@@ -17,8 +17,6 @@ faq:
     a: Dado su tamaño reducido, normalmente no hace falta reserva previa, pero el horario y una posible tarifa de entrada pueden variar según la temporada, así que conviene confirmar los detalles actuales con tu alojamiento o en el Centro de Información Turística de Kioto antes de la visita.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué visitar la Galería del Festival Gion Matsuri
 
 El Gion Matsuri es el festival más famoso de Kioto, que se extiende durante todo el mes de julio y culmina con el desfile Yamaboko Junko el 17 y el 24 de julio, cuando imponentes carrozas de madera (yamaboko) son arrastradas por las calles del centro. Durante los otros once meses del año, gran parte de ese espectáculo permanece guardado en los almacenes de los distintos barrios. La Galería del Festival, en Gionmachi Minamigawa, llena ese vacío y ofrece a los visitantes una mirada compacta y disponible todo el año al arte del festival —piensa en maquetas detalladas, fotografías históricas y textiles decorativos o biombos vinculados a carrozas concretas—, sin necesidad de organizar el viaje en torno a las fechas del desfile. Para quien visita Kioto fuera de julio, es una de las pocas maneras fiables de entender de qué trata todo el revuelo.

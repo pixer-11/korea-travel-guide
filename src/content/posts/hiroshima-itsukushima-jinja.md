@@ -92,8 +92,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Itsukushima Jinja is one of Japan's most photographed sights: a Shinto shrine built on stilts over the tidal flats of Miyajima, with its great orange torii gate standing in the sea just offshore. The current shrine buildings date to the 16th century, though the site's religious significance stretches back to the 6th century, and the complex is a UNESCO World Heritage Site. Unlike most shrines built on solid ground, Itsukushima was deliberately constructed over water so that the island itself — regarded as sacred — wouldn't be disturbed by human habitation. At high tide the entire pier-like structure and the gate appear to float on the bay; at low tide, visitors can walk out across the sand flats to touch the base of the torii. Both experiences are worth seeing, and they look like two completely different places.

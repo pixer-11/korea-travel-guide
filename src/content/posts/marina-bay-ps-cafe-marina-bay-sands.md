@@ -41,8 +41,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 PS.Cafe built its reputation in Singapore on a specific formula: high-ceilinged, greenery-filled rooms, all-day Western comfort food, and a menu that doesn't try too hard — truffle shoestring fries, generous pastas, hearty salads, and a solid brunch line-up. The Marina Bay Sands branch translates that same DNA into a mall setting, which sounds counterintuitive until you're actually in it. Instead of another glitzy, high-turnover restaurant competing with the casino atrium's noise and foot traffic, this outlet occupies a lower-level corner of The Shoppes, giving it a calmer, almost neighborhood-café feel despite sitting beneath one of the most photographed buildings in the world. With a 4.4 rating across 1,036 reviews, it's a dependable rather than flashy choice — the kind of place regulars build a habit around rather than a one-time bucket-list stop.

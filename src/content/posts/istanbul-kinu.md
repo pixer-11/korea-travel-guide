@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why kinu matters right now
 
 Istanbul's café scene has long been dominated by Turkish coffee houses and third-wave espresso bars, so the arrival of kinu in 2026 marked a genuine shift. It's a dedicated matcha bar — not a café that happens to stock matcha powder as an afterthought, but a space built entirely around the ceremony and culture of Japanese green tea. Behind it is Illusory Superiority, a local arts and lifestyle platform known for curating spaces that blend design sensibility with a specific cultural obsession. That pedigree shows: kinu isn't just selling drinks, it's presenting a whole aesthetic and ritual around matcha to a city that has been steadily building its own community of matcha devotees.

@@ -86,8 +86,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The War Remnants Museum is one of Ho Chi Minh City's most visited and most talked-about sites, with over 40,000 reviews and a 4.5 rating reflecting how consistently it affects visitors. It documents the Vietnam War (and earlier French Indochina conflict) primarily through photojournalism, captured military equipment, and reconstructed exhibits like the "tiger cages" used to hold political prisoners. The museum presents a Vietnamese and often anti-war-photographer perspective rather than a neutral, both-sides account — worth knowing going in, since it shapes the framing of every gallery. Even visitors who find the messaging one-sided generally describe the photography exhibits, especially the Requiem collection of war correspondents' final images, as some of the most powerful in Southeast Asia.

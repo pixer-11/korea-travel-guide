@@ -17,8 +17,6 @@ faq:
     a: De noviembre a abril (temporada seca) el mar está más calmo y el agua más clara; de diciembre a febrero es temporada alta. De mayo a octubre llueve más y los cruces en barco pueden ser algo agitados, aunque los chubascos suelen ser breves.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El atractivo de Railay está en su geografía: una pequeña península encajonada por acantilados de piedra caliza, totalmente desconectada de la red de carreteras del continente, por lo que la única forma de entrar o salir es en barco. Ese aislamiento es justamente lo que evita que se sienta como el resto de Ao Nang: aquí no hay tráfico ni motos zigzagueando, solo arena, selva y imponentes paredes de karst que atraen a escaladores de todo el mundo. Con una calificación de 4.4 basada en casi 5,000 reseñas, es uno de los lugares mejor valorados de forma constante en la provincia de Krabi, y la combinación de playa, acantilados y cuevas en un área tan compacta es difícil de igualar en cualquier otro lugar de Tailandia.

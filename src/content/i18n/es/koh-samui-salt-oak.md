@@ -17,8 +17,6 @@ faq:
     a: Fisherman's Village está a un corto trayecto de 5-10 minutos, ideal para visitar los viernes por la noche por su mercado callejero, o puedes combinarlo con un paseo al atardecer por la más tranquila playa de Bo Put.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué Salt & Oak destaca
 
 La oferta gastronómica de Koh Samui se apoya mucho en chiringuitos de marisco frente a la playa y bufés de hotel, así que un restaurante centrado en la cocina a fuego vivo y un menú cuidadosamente seleccionado tiende a destacar rápido. Salt & Oak lo ha logrado, alcanzando una calificación de 4.8 con más de 1,200 reseñas — un volumen inusualmente alto para un solo restaurante en la isla, lo que indica una clientela habitual constante y no una novedad de una sola temporada. El propio nombre ya anuncia el concepto: sazón mínimo, máximo carácter ahumado, platos construidos en torno a la leña y el humo en lugar de salsas pesadas. Espera una cocina abierta donde puedes ver trabajar la parrilla, un menú que cambia según la disponibilidad, y una carta de vinos o cócteles pensada para acompañar sabores más intensos y ahumados, en lugar de los típicos cócteles de fruta tropical.

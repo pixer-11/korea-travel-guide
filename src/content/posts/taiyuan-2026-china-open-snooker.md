@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why go
 
 The China Open is one of the ranking events on the World Snooker Tour's China swing, and in 2026 it lands in Taiyuan, the capital of Shanxi province, at the Riverside Sports Centre. For snooker fans, this is a rare chance to watch top-tier professional players — including defending champion Neil Robertson — compete on Chinese soil in an arena setting rather than on television. Ranking events like this feed directly into players' world rankings and the road to the World Championship in Sheffield, so matches carry real competitive weight, not just exhibition value.

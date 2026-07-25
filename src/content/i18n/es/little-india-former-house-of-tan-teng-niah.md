@@ -17,8 +17,6 @@ faq:
     a: El Templo Sri Veeramakaliamman, el mercado Tekka Centre y el Mustafa Centre están todos a 5-10 minutos a pie, por lo que es fácil combinarlo en un paseo más largo por Little India.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Little India es conocida sobre todo por sus templos hindúes, tiendas de especias y comerciantes de oro, así que una vistosa villa china en tonos pastel en pleno centro del barrio parece fuera de lugar, y ese contraste es precisamente lo que atrae a tantos visitantes a la Antigua Casa de Tan Teng Niah. Construida hacia 1900, fue la residencia de Tan Teng Niah, un empresario teochew que dirigía fábricas cercanas de procesamiento de caucho y de confitería. Es la última villa china que queda en el distrito, un recordatorio de que Little India tuvo alguna vez una importante comunidad comercial china conviviendo junto a sus residentes indios y malayos. Hoy el edificio ha sido restaurado y repintado con una paleta rotativa de turquesa, rosa, amarillo y lila, con persianas talladas de forma ornamentada, molduras decorativas de yeso y un estilo de ornamentación con clara influencia peranakan superpuesto a una estructura china de casa con patio. Actualmente alberga oficinas comerciales, así que el atractivo es enteramente su exterior, pero esa fachada es una de las más fotografiadas de Singapur.

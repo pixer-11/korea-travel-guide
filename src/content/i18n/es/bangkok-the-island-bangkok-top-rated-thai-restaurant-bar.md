@@ -17,8 +17,6 @@ faq:
     a: Calcula entre 1,5 y 2 horas para una cena completa; el ambiente tipo lounge también lo convierte en un buen lugar para quedarse más tiempo tomando algo después de comer.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 The Island Bangkok se ha ganado una de las mejores reputaciones entre los restaurantes de la zona del casco antiguo, con una valoración de 4,9 en más de 14.600 reseñas, un volumen y una puntuación que lo sitúan muy por delante de la mayoría de sus competidores en el distrito de Phra Nakhon. Es el tipo de lugar que los foros de viajes y los expatriados de Bangkok mencionan una y otra vez por ofrecer una experiencia gastronómica tailandesa fiable y con ambiente, sin necesidad de adentrarse en la zona más turística de Khao San Road. El entorno suele compararse con un lounge-jardín al aire libre: frondoso, con luz tenue y pensado para disfrutar con calma de la comida y las bebidas, más que para una parada rápida.

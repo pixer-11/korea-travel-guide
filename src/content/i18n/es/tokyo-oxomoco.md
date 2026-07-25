@@ -17,8 +17,6 @@ faq:
     a: El propio Roppongi Hills cuenta con el Museo de Arte Mori (Mori Art Museum), el mirador Tokyo City View y numerosos restaurantes y bares adicionales, lo que facilita planear una velada completa en torno a la visita.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, utilizando fuentes web actuales. Los horarios y detalles cambian: confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué Oxomoco es relevante en Tokio
 
 Oxomoco construyó su reputación en Brooklyn, donde obtuvo una estrella Michelin poco después de abrir sus puertas, una hazaña poco común para un restaurante centrado en la cocina mexicana moderna y no en los moldes de alta cocina francesa o japonesa que suelen acumular estrellas en Nueva York. Precisamente por esa trayectoria, su llegada a Tokio resulta destacable. No se trata de un pop-up ni de un acuerdo de licencia, sino del mismo ADN creativo —platos principales a la leña, tacos artesanales, cócteles a base de agave— trasplantado a Roppongi Hills, uno de los barrios de Tokio con mayor vocación internacional. Para una ciudad que no carece de buena comida mexicana, pero que cuenta con relativamente pocos restaurantes con este tipo de repercusión transcontinental, el desembarco de Oxomoco es todo un acontecimiento para quienes siguen de cerca hacia dónde se dirige la escena gastronómica de Tokio.

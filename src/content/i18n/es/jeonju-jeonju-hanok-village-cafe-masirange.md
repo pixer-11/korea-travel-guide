@@ -17,8 +17,6 @@ faq:
     a: El Santuario de Gyeonggijeon, la Catedral Católica de Jeondong y el mirador del pabellón Omokdae están todos a 10–15 minutos a pie, lo que facilita combinarlo con un paseo alquilando un hanbok por el resto de la Aldea Hanok.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La Aldea Hanok de Jeonju (Jeonju Hanok Village) está repleta de cafés que persiguen la estética "hanok de moda", pero Masirange (masiranghe, que en un dialecto regional se traduce aproximadamente como "probemos" o "delicioso") destaca por su consistencia — mantiene una calificación de 4.5 en más de 500 reseñas, lo cual, en un barrio tan saturado de opciones para turistas, es una señal significativa. El atractivo no es una bebida llamativa; es la combinación de un edificio hanok auténtico, opciones de té y postres tradicionales, y una ubicación cercana a los lugares más fotografiados de la aldea. Es una buena parada para quienes quieren vivir la experiencia del café hanok sin caer en una cadena temática.

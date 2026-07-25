@@ -91,8 +91,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Kenroku-en Is Worth Your Time
 
 Kenroku-en (兼六園) means "Garden of the Six Attributes," a reference to a classical Chinese text describing the six qualities of a perfect landscape garden: spaciousness, seclusion, artifice, antiquity, waterways, and panoramas. It's one of only three gardens in Japan traditionally honored as a "perfect garden," alongside Kairaku-en in Mito and Koraku-en in Okayama. Laid out over roughly two centuries starting in the 1620s by the Maeda clan, who ruled the wealthy Kaga domain from adjacent Kanazawa Castle, the garden was designed as a strolling landscape meant to reveal a new composition with every turn of the path — ponds, teahouses, artificial hills, and borrowed views of distant mountains all choreographed deliberately.

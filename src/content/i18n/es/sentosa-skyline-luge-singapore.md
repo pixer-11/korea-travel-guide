@@ -17,8 +17,6 @@ faq:
     a: Imbiah Lookout, Siloso Beach y la tirolina de Skypark Sentosa están todos a poca distancia a pie, lo que facilita armar un itinerario de medio día en torno al luge.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Skyline Luge Singapur es una de las atracciones "hazlo tú mismo" más emblemáticas de Sentosa: una telesilla te sube por una ladera boscosa con vistas panorámicas de la isla y de las Southern Islands, y luego te subes a un pequeño kart con ruedas para conducirlo tú mismo cuesta abajo por una sinuosa pista de hormigón usando un sencillo manillar de empuje-tirón (empuja hacia adelante para frenar, tira hacia atrás para acelerar). Tiene una calificación de 4,5 sobre casi 9.800 reseñas, lo que refleja tanto lo novedoso del recorrido como la eficiencia con la que el operador gestiona las grandes multitudes en los días de mayor afluencia. Hay varias pistas —incluyendo el Dragon Trail, más largo y sinuoso, y el Jungle Trail, de recorrido más fluido— para que los visitantes que repiten puedan elegir rutas distintas en lugar de hacer siempre el mismo trayecto.

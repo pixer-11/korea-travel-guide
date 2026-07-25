@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Gyeongpo Lake is a shallow, brackish lagoon separated from the East Sea by a narrow strip of sand, and it's one of Gangneung's signature landscapes — the kind of place old paintings and poems were written about. The lake draws migratory birds in cooler months, and its flat banks are lined with pine trees, flower beds, and a paved path that makes it one of the easiest lakes in Korea to walk around fully. With a 4.4 rating from nearly 600 reviews, it's a reliable, well-loved stop rather than an obscure detour — expect other visitors, especially at sunset.

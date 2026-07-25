@@ -29,8 +29,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting. See our [editorial policy](/about).
-
 ## Why the Cable Car Tops Yeosu's List
 
 Yeosu built its reputation on being a port city wrapped around water, and the Yeosu Maritime Cable Car is the single best way to see that geography in one sweep. The line runs roughly 1.5 km across Yeosu Bay, connecting Jasan Park on the mainland side to Dolsan Park on Dolsan Island. From the cabin you get an uninterrupted view of the harbor, the cable-stayed Dolsan Bridge lit up at dusk, and — on clear days — Odongdo Island jutting into the sea like a green comma. Two cabin types are offered: standard enclosed cabins and glass-bottom cabins, the latter requiring a bit more nerve and usually a longer wait.

@@ -17,8 +17,6 @@ faq:
     a: Es un mercado en funcionamiento de agricultores y pescaderos que data de 1907, y los locales todavía compran allí productos frescos, flores y pescado a diario, especialmente temprano por la mañana.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué Pike Place Market es un destino gastronómico, y no solo un mercado
 
 Pike Place Market abrió en 1907 como mercado de agricultores para eliminar a los intermediarios entre productores y compradores, y hoy en día sigue siendo un mercado en funcionamiento, no un centro comercial temático de comida. Esa historia importa a la hora de comer: el marisco está aquí porque los barcos pesqueros y los camiones de productos frescos todavía lo abastecen, y muchos de los puestos de comida y locales pequeños llevan décadas en manos de las mismas familias. El resultado es una de las zonas gastronómicas más densas y transitables a pie de Seattle, distribuida en varios niveles con vistas a Elliott Bay.

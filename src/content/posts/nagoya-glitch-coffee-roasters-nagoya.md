@@ -46,8 +46,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 GLITCH COFFEE & ROASTERS built its name in Tokyo's Kanda neighborhood as a rigorously sourced, single-origin specialty coffee shop, and the Nagoya branch in Meieki carries the same philosophy: light-to-medium roasts that highlight the character of a specific farm or lot rather than a house blend designed to taste the same every time. This is the opposite of a chain café — the bean list rotates, the baristas can talk in detail about processing methods (washed, natural, honey) and flavor notes, and the space is built for people who want to slow down over one very good cup rather than grab a to-go latte. For coffee-curious travelers passing through Nagoya Station, it's a legitimate destination in its own right, not just a caffeine pit stop.

@@ -17,8 +17,6 @@ faq:
     a: Ve temprano en un día laborable durante la primavera (abril–mayo) o el otoño (septiembre–octubre) para evitar las multitudes de grupos turísticos y el calor extremo del verano.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Este sitio protege uno de los hallazgos arqueológicos más importantes del siglo XX: miles de soldados, caballos y carrozas de arcilla de tamaño real, enterrados alrededor del año 210 a. C. para custodiar en la otra vida al emperador Qin Shi Huang, el primer unificador de China. Descubiertas por accidente por unos agricultores que cavaban un pozo en 1974, las fosas revelan rostros esculpidos individualmente, detalles de armaduras y formaciones de batalla que tomaron a un estimado de 700,000 trabajadores décadas en completar. Con una calificación de 4.6 en más de 8,000 reseñas, se ubica constantemente entre las principales razones por las que los viajeros visitan Xi'an — esto no es un montaje para fotos, sino un sitio de excavación en funcionamiento que se recorre sobre plataformas elevadas por encima de la excavación real.

@@ -17,8 +17,6 @@ faq:
     a: Los autobuses 28 y 29 de Muni paran cerca de la caseta de peaje en el lado de San Francisco, y los autobuses de Golden Gate Transit cruzan el puente desde el centro hasta los miradores de Marin.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El Puente Golden Gate es la razón por la que el perfil de San Francisco se reconoce al instante: un puente colgante art déco de 4,200 pies, terminado en 1937 y pintado con el famoso tono naranja quemado, oficialmente llamado "International Orange". Tiene una calificación de 4.8 estrellas en más de 85,000 reseñas, y sigue abierto tanto a autos como a ciclistas y peatones, lo que significa que puedes vivirlo de varias maneras según el tiempo del que dispongas. Más allá del espectáculo de la ingeniería, los acantilados (headlands) y miradores de los alrededores ofrecen algunas de las mejores vistas gratuitas de California.

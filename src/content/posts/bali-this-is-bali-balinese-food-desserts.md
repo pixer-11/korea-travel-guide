@@ -89,8 +89,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 This Is Bali has built its reputation on doing Balinese comfort food well and consistently — that's how a restaurant accumulates 18,000+ reviews and holds a 4.9 rating in a town saturated with competition. The menu leans into dishes that can be hard to find well-executed outside home kitchens or temple ceremonies: babi guling (spit-roasted spiced pork), lawar (minced meat or jackfruit mixed with grated coconut and spices), nasi campur (mixed rice plate with several small side dishes), and a dedicated dessert section featuring things like dadar gulung (pandan crepes rolled around sweet coconut) and bubur injin (black rice pudding). For visitors who want an accessible, English-menu introduction to real Balinese flavors — rather than a pan-Asian tourist menu — this is a solid, low-risk choice.

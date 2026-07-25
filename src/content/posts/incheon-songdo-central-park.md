@@ -86,8 +86,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Songdo Central Park is the green heart of one of Asia's most ambitious planned cities. Built on reclaimed land in Incheon's Yeonsu-gu district, the park was explicitly modeled on New York's Central Park — hence the name — but its defining feature is distinctly Korean: a long, curving seawater canal fed directly from the Yellow Sea, running roughly 1.8 km through the middle of the park. Unlike most urban parks, this one is ringed by glass-and-steel skyscrapers, including the twisting G-Tower and the 68-story Northeast Asia Trade Tower (NEATT), giving the whole space a futuristic, almost sci-fi backdrop that's become one of Incheon's most photographed skylines, especially at dusk when the towers light up and reflect on the water.

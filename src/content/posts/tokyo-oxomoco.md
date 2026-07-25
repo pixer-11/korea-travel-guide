@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why Oxomoco Matters in Tokyo
 
 Oxomoco built its reputation in Brooklyn, where it earned a Michelin star not long after opening — a rare feat for a restaurant built around modern Mexican cooking rather than the French or Japanese fine-dining templates that usually collect stars in New York. That pedigree is exactly why its arrival in Tokyo is notable. Rather than a pop-up or a licensing deal, this is the same creative DNA — wood-fired mains, artisanal tacos, agave-based cocktails — transplanted into Roppongi Hills, one of Tokyo's most internationally minded neighborhoods. For a city with no shortage of excellent Mexican food but relatively few restaurants with this kind of cross-continental buzz, Oxomoco's move is a genuine event for anyone tracking where Tokyo's dining scene is heading.

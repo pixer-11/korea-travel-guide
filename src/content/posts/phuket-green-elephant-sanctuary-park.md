@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Phuket has dozens of "elephant experience" outfits, but most are clustered around the old riding-camp model. Green Elephant Sanctuary Park, tucked into Soi Cherngtalay 1 in Thalang district, has built its reputation the other way: no riding, no chains on show, no performing tricks — just observing, feeding, and bathing rescued working elephants in a shaded, forested compound. With a 4.9 rating across nearly 3,900 reviews, it's one of the most consistently praised attractions on the island, and it still flies under the radar compared to the big-name parks near Kata and Chalong.

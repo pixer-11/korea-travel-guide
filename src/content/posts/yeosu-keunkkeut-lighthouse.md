@@ -39,8 +39,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 큰끝등대, or Keunkkeut Lighthouse, sits at the edge of Pyeongsa-ri on Dolsan Island, one of the peninsulas that make Yeosu's coastline so jagged and photogenic. Unlike the city's headline attractions — Odongdo Island, the Yi Sun-sin Bridge, or Hyangiram Hermitage — this lighthouse rarely appears on standard itineraries, which is exactly its appeal. It's a small, functional navigation light rather than a monument, but its position at the "big end" (큰끝, the literal meaning) of the headland gives it an unobstructed sweep of open water toward the Namhae Strait. With a 4.3 rating across 124 reviews, it's clearly known to a loyal circle of local and domestic travelers, even if it stays off most English-language maps.

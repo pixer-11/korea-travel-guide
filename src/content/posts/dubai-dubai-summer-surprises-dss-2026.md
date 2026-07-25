@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## What DSS Actually Is
 
 Dubai Summer Surprises (DSS) isn't one event — it's an umbrella festival that blankets the city for nearly two months. Organized by the Dubai Festivals and Retail Establishment (DFRE), the same body behind the Dubai Shopping Festival, DSS 2026 runs from July 3 through August 30. Rather than a single gate you walk through, it's a season-long push of retail discounts, raffles, in-mall entertainment, and family-oriented programming spread across the emirate. If you're visiting Dubai in peak summer heat, DSS is the reason malls feel livelier and kids' activities multiply.

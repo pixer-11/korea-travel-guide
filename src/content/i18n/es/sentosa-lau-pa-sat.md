@@ -17,8 +17,6 @@ faq:
     a: Lau Pa Sat está a poca distancia caminando de Marina Bay, el Merlion Park y Boat Quay, así que combina bien con un paseo nocturno junto al río o al malecón antes de regresar a Sentosa.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué esta guía empieza con una aclaración
 
 Si buscaste "dónde comer cerca de Sentosa" y llegaste a Lau Pa Sat, vale la pena aclararlo desde el principio: este legendario centro de comida callejera (hawker centre) se encuentra en 18 Raffles Quay, en el CBD, y no en la isla de Sentosa. Aun así, vale mucho la pena la visita —un ícono con 4.4 estrellas y casi 40,000 reseñas—, pero planéalo como una excursión aparte y no como un paseo desde tu hotel en Sentosa.

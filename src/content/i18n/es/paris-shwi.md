@@ -17,8 +17,6 @@ faq:
     a: El almuerzo entre semana o una franja más tranquila a media tarde; los fines de semana y las horas punta de almuerzo o cena pueden implicar colas, sobre todo porque abrió con gran expectación en la primavera de 2026.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Los horarios y detalles cambian: confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Shwi es el último proyecto del equipo detrás de Kubri, una de las cocinas libanesas más conocidas de París, y llega con un enfoque más acotado y definido: pollo a la parrilla al estilo libanés, pensado para comer sobre la marcha o compartir en un banco junto al canal. Desde su apertura en la primavera de 2026, se ha convertido en una de las novedades más comentadas del distrito 10, sumándose a la misma ola de energía callejera levantina que ha transformado esta zona de París en los últimos años. Si ya conoces la cocina de Kubri, Shwi se percibe como una derivación construida en torno a una sola idea bien ejecutada, más que como un menú de restaurante completo: el tipo de lugar que los parisinos incorporan a un paseo por el canal en lugar de planificar toda una velada a su alrededor.

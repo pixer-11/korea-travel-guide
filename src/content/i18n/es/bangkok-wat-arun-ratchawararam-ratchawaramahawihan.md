@@ -17,8 +17,6 @@ faq:
     a: Sí, hay que cubrirse los hombros y las rodillas, como es habitual en los templos budistas activos de Tailandia; normalmente se pueden pedir prestados o alquilar sarongs cerca de la entrada si llegas sin la vestimenta adecuada.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué Wat Arun es importante
 
 Wat Arun Ratchawararam Ratchawaramahawihan —generalmente abreviado como Wat Arun, el "Templo del Amanecer"— es uno de los monumentos más fotografiados de Bangkok, y uno de los pocos templos tailandeses donde los visitantes pueden subir parcialmente por la estructura central. La fama del templo se debe a su prang (aguja) de estilo jemer de 82 metros, cubierto de miles de fragmentos de porcelana china y conchas marinas que, según se dice, se reciclaron del lastre de barcos en el siglo XIX. Es anterior a que Bangkok fuera capital: el sitio albergó un templo desde el período de Ayutthaya, y el rey Taksin resguardó aquí brevemente al Buda de Esmeralda tras la caída de Ayutthaya, antes de que se trasladara a Wat Phra Kaew. Con una calificación de 4.7 sobre casi 45,000 reseñas, se ubica de forma constante entre las visitas a templos más destacadas de la ciudad.

@@ -17,8 +17,6 @@ faq:
     a: El Foro Romano y el Palatino están justo al lado y están incluidos en la misma entrada combinada. El Arco de Constantino queda a un corto paseo, y el barrio de Monti, un poco más al norte, tiene mejores opciones gastronómicas que la propia plaza.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en tiempo real de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Pocas ruinas en el mundo cargan con el peso histórico del Coliseo. Terminado en el año 80 d. C. bajo los emperadores flavios (su nombre oficial es Anfiteatro Flavio), llegó a albergar entre 50.000 y 80.000 espectadores repartidos en tres niveles de arcos, para presenciar combates de gladiadores, cacerías de animales escenificadas y simulacros de batallas navales. Lo que se conserva hoy —la fachada de travertino, el laberinto de corredores de ladrillo, el suelo de la arena parcialmente reconstruido— sigue siendo suficiente para entender por qué está entre los monumentos más visitados del planeta, con casi medio millón de reseñas y una valoración media de 4,8. Es el mejor lugar de Roma para sentir físicamente la escala de la ingeniería imperial.

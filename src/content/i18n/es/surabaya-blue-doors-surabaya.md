@@ -17,8 +17,6 @@ faq:
     a: 'Sí: su fachada blanca con persianas azules y su patio lleno de plantas son el principal atractivo, con una calificación de 4.7 de casi 1,200 reseñas que reflejan su popularidad como cafetería fotogénica.'
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La escena de cafeterías de Surabaya ha explotado en la última década, pero Blue Doors destaca por su aspecto antes que por su menú: paredes encaladas, persianas y puertas de un azul cobalto, y vegetación que se derrama sobre un patio que se siente más mediterráneo que del este de Java. Con una calificación de 4.7 en casi 1,200 reseñas, se ha ganado un público fiel entre quienes buscan un buen flat white y un telón de fondo fotográfico aún mejor, sin llegar a convertirse en una parada turística abarrotada. Se trata de un lugar de encuentro moderno y con diseño cuidado, más que de un hito patrimonial, y precisamente ahí radica su atractivo: un rincón tranquilo y estético en una zona comercial bulliciosa de la ciudad.

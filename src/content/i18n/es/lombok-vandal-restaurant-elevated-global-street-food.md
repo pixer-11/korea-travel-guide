@@ -17,8 +17,6 @@ faq:
     a: 'Sí: Kuta Beach, el mercado local y las tiendas de surf están todos a un corto paseo a pie o en scooter, lo que lo hace conveniente para combinar con un día de playa.'
 ---
 
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La escena gastronómica de Kuta Lombok está dominada por warungs de playa y menús de cafés de surfistas con bowls de smoothie y nasi goreng, así que una cocina construida en torno al concepto de "street food global de autor" se destaca del resto. Vandal Restaurant toma ideas de puestos hawker, mercados nocturnos y parrillas callejeras de Asia y otras partes del mundo, y luego las presenta con un toque más elaborado: piensa en platos que reinterpretan el satay, los bao, los tacos o los clásicos de los bares de fideos, en lugar de un menú de una sola cocina. Con una calificación de 4.7 sobre 243 reseñas, ha construido una clientela fiel sin convertirse en un destino de turismo masivo, lo que mantiene el ambiente agradable incluso durante los meses más concurridos de la temporada seca en Lombok (aproximadamente de mayo a septiembre).

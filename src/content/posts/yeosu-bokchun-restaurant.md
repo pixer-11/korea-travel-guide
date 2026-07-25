@@ -41,8 +41,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Jeollanam-do is widely regarded as South Korea's most food-obsessed province, and Yeosu — a port city on the southern coast — inherits that reputation with seafood-heavy tables loaded with banchan (side dishes). Bokchun Restaurant, tucked into the Gyodong neighborhood in Yeosu's older downtown core, has built a solid local following over the years, reflected in its 4.2 rating across 941 reviews. It's the kind of place where the cooking style leans traditional rather than trendy: think stews, grilled or braised fish, and a generous, ever-refilled spread of shared side dishes rather than a single showpiece plate.

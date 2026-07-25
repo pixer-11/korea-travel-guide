@@ -17,8 +17,6 @@ faq:
     a: Ve un día entre semana por la mañana, poco después de la apertura; los fines de semana y los períodos de vacaciones escolares atraen a grandes grupos turísticos nacionales que pueden congestionar los estrechos pasillos del submarino.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Monumen Kapal Selam, conocido localmente como Monkasel, es uno de los pocos lugares del sudeste asiático donde los visitantes pueden subir a bordo de un submarino de combate retirado y a tamaño real, en lugar de limitarse a ver maquetas o fotografías. La embarcación es el KRI Pasopati 410, un submarino clase Whiskey construido en la Unión Soviética y utilizado por la Marina de Indonesia desde la década de 1960 hasta la de 1990 durante las operaciones para recuperar Irian Occidental. En 1990 fue cortado en secciones, transportado a Surabaya y vuelto a soldar en tierra como museo estático, un ejemplo verdaderamente singular de ingeniería aplicada al patrimonio militar. Con una calificación de 4.5 sobre casi 17,000 reseñas, se ha consolidado firmemente como una de las atracciones más visitadas de Surabaya, así que espera encontrar compañía en lugar de soledad.

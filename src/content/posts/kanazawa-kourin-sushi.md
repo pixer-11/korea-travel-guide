@@ -41,8 +41,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Kourin Sushi
 
 Kanazawa's reputation as a sushi destination rests on the Sea of Japan's cold-water fish and the produce that flows through Omicho Market daily. Kourin Sushi sits just north of that market, in the old merchant district of Bakuromachi, and has built a loyal following (4.7 stars across roughly 1,460 reviews) by serving that same market-grade seafood in a conveyor-belt format that keeps prices moderate and turnover quick. It's the kind of place locals bring visiting family when they want good sushi without a reservation or a formal, multi-course price tag.

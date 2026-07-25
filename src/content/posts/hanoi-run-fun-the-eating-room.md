@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why Run Fun stands out
 
 Hanoi's fine-dining scene has quietly built an international reputation over the past decade, and chef Hoang Tung has been one of its most talked-about names, first through T.U.N.G Dining and later the more experimental Å by TUNG. Run Fun – The Eating Room is his deliberate swing in the opposite direction: same culinary brain, none of the formality. Instead of multi-course tasting menus and hushed dining rooms, the concept trades white tablecloths for a livelier, more social room where Vietnamese ingredients still get the playful, surprising treatment Tung is known for, just served faster and looser. For visitors who've read about Hanoi's high-end tasting-menu boom but don't want to commit an entire evening (or budget) to it, this is the accessible entry point to that same kitchen sensibility.

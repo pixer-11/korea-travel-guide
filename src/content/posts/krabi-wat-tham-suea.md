@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Wat Tham Suea, or "Tiger Cave Temple," is one of southern Thailand's most atmospheric forest monasteries, built into a limestone cliff surrounded by dense jungle a short ride from Krabi Town. It draws pilgrims and travelers for two reasons: an extensive network of caves and shrines set into the rock at ground level, and a punishing but rewarding staircase — commonly cited at 1,237 steps — that climbs to a hilltop chedi and a large gold Buddha statue with sweeping views over Krabi's karst hills and, on clear days, the Andaman Sea in the distance. With a 4.6 rating across nearly 14,000 reviews, it's firmly established as one of the region's must-see attractions, but it rewards visitors who come prepared for a genuine hike rather than a casual temple stroll.

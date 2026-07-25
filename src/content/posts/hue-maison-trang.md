@@ -48,8 +48,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Maison Trang Stands Out
 
 Hue's culinary reputation rests on its imperial-era street food — dishes once refined for the Nguyễn court kitchens and now sold on nearly every corner. Maison Trang has become one of the most consistently praised places to try this cuisine in one sitting, without gambling on a random street stall. A 4.8 rating across more than 4,300 reviews is unusually high for a restaurant of any size, let alone one at a budget price point (priceLevel 1), which signals that locals and repeat visitors, not just tour groups, keep coming back.

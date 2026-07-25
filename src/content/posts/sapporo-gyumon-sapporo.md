@@ -45,8 +45,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why GYUMON stands out
 
 Sapporo has no shortage of yakiniku counters, but a 4.9 average across more than 3,100 reviews puts GYUMON in rare territory for a city known just as much for ramen and seafood as for beef. The restaurant sits below street level in the N・グランデビル building on Minami 5 Jōnishi, in the heart of Susukino — Hokkaido's largest nightlife and dining district. The basement setting keeps things intimate: expect a tight, smoke-managed grilling room rather than a sprawling banquet hall, which is part of why the experience feels more considered than the average tabehodai (all-you-can-eat) yakiniku joint nearby.

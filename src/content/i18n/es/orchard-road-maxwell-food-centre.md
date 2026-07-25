@@ -17,8 +17,6 @@ faq:
     a: El templo Sri Mariamman, Ann Siang Hill y los mercados callejeros de Chinatown quedan todos a poca distancia a pie, por lo que es fácil armar un itinerario de medio día alrededor de la visita.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué existe esta guía
 
 Buscas "dónde comer cerca de Orchard Road" y Maxwell Food Centre suele aparecer — pero conviene ser claros desde el principio: este centro de hawkers está en Chinatown, no en Orchard Road propiamente dicho. Es un ícono de la escena gastronómica de Singapur y un desvío genuinamente que vale la pena desde una estadía en la zona de Orchard, a unos 15-20 minutos en tren. Piensa en esta guía como la versión honesta de "cerca de Orchard Road" — lo suficientemente cerca para una excursión gastronómica de medio día, pero no un almuerzo al que se pueda llegar caminando.

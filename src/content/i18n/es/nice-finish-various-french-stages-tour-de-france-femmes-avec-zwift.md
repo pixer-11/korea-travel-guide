@@ -17,8 +17,6 @@ faq:
     a: Para una etapa de montaña como el Ventoux, planea dedicar casi todo un día, incluyendo la caminata hasta un punto de observación y la espera a la caravana y los corredores. Para la llegada en Niza, unas horas por la tarde y el atardecer suelen ser suficientes.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Las fechas de eventos y las entradas cambian: confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El Tour de France Femmes avec Zwift se ha convertido rápidamente en uno de los eventos más destacados del calendario del ciclismo femenino, y la edición de 2026 (del 1 al 9 de agosto) es especialmente notable porque arranca fuera de Francia por completo —un Grand Départ en Lausana (Suiza)— antes de que el pelotón cruce a Francia para un recorrido construido en torno a dos momentos legendarios: una llegada en alto en el Mont Ventoux y una etapa final que termina en Niza, en la Côte d'Azur. Ver el Tour desde la carretera no cuesta nada más allá de desplazarte hasta el recorrido, y es uno de los pocos eventos deportivos de élite en los que los espectadores pueden estar a pocos metros de los atletas.

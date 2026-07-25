@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why Bar Principal stands out
 
 Manila's cocktail scene has no shortage of speakeasies and rooftop lounges, but Bar Principal carves out a distinct lane by leaning into a genuinely underexplored connection: the Philippines and Cuba were both Spanish colonies governed for centuries through the same transpacific trade networks, and their bar culture shares more DNA than most drinkers realize. The bar's signature move is a daiquiri built with rum, lambanog (Philippine coconut spirit), honey, and calamansi — a drink that plays the classic Cuban template against distinctly Filipino ingredients. It's a smart, specific idea rather than a vague "fusion" gimmick, and it's the reason the bar has been picking up buzz among Manila's drinks crowd.

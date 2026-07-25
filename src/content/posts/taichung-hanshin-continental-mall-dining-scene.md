@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why this food court is the talk of Taichung
 
 Taichung has no shortage of shopping malls, but Hanshin Continental Mall's dining floor has managed to do something rare: turn a food court into a destination in its own right. The buzz centers on two concepts. The first is Sangok, a Korean BBQ chain making its Taiwan debut here with an outdoor terrace — reportedly the first of its kind for the brand in the country — positioned to look out over a baseball field, giving diners grilled meat and a stadium-adjacent view in the same sitting. The second is a rotating sushi (kaiten-zushi style) outlet built around a giant touchscreen ordering system, letting guests build an order visually rather than flag down staff or fill in a paper slip. Together they've made the mall's dining scene as much a reason to visit Beitun as any single retail draw.

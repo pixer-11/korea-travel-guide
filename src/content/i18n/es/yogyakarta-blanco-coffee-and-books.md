@@ -17,8 +17,6 @@ faq:
     a: El monumento Tugu Jogja, las tiendas y puestos de comida callejera de Jl. Malioboro, y la estación de tren Tugu están todos a poca distancia a pie o a un corto trayecto en vehículo compartido, lo que hace de Jetis una parada de café conveniente antes o después de explorar la ciudad vieja.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Blanco Coffee And Books se ha ganado un público fiel (4.6 estrellas en más de 4,100 reseñas de Google) haciendo bien algo sencillo: combinar café indonesio de origen sostenible y local con un espacio austero y lleno de libros que se siente más como un estudio de diseño que como un típico warung-kopi de Jogja. La descripción editorial que circula sobre el lugar —"cafetería de moda y minimalista especializada en comidas ligeras y café sostenible de origen local"— es acertada. Espera concreto visto, tonos neutros, estantes de libros para hojear, y una carta centrada en cafés de filtro de origen único, bebidas espresso y bocados ligeros, en lugar de platos contundentes de arroz. Es el tipo de lugar ideal para una mañana tranquila, una sesión con el portátil, o una pausa para el café entre templos y museos en la ciudad vieja.

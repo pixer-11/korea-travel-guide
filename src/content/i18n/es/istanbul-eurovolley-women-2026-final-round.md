@@ -17,8 +17,6 @@ faq:
     a: Si tu objetivo es solo la final, con 3 o 4 días en Estambul basta para ver el partido y recorrer los principales lugares de interés, como Santa Sofía (Hagia Sophia), la Mezquita Azul y un crucero por el Bósforo. Añade más días si además vas a seguir rondas anteriores en otras ciudades sede.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Las fechas del evento y las entradas cambian: confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Estambul no es simplemente una sede satélite del Campeonato Europeo Femenino de Voleibol 2026: es la ciudad donde el torneo alcanza su clímax. Mientras que otras tres ciudades sede acogen las rondas preliminares e intermedias, a Turquía se le ha otorgado la gran final, lo que significa que las nuevas campeonas de Europa serán coronadas en suelo estambulí el 6 de septiembre de 2026. Para los aficionados al voleibol, es una oportunidad poco frecuente de combinar un desenlace deportivo de primer nivel con una ciudad que ya es uno de los grandes destinos turísticos del mundo. Turquía se ha convertido en los últimos años en una auténtica potencia del voleibol, y una ronda final en casa significa un ambiente eléctrico en las gradas, gran repercusión en las transmisiones nacionales y una ciudad lista para celebrar el deporte.

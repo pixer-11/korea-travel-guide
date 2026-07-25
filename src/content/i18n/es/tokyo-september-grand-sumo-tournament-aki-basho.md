@@ -17,8 +17,6 @@ faq:
     a: El barrio de Ryogoku cuenta con un pequeño museo de sumo dentro del Kokugikan, además de numerosos restaurantes de chanko-nabe (el guiso tradicional de los luchadores de sumo) y calles bordeadas de establos de sumo que vale la pena explorar antes o después de los combates.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con ayuda de IA, utilizando fuentes web actuales. Las fechas de los eventos y las entradas cambian — confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El sumo es el deporte nacional de Japón, y los Grandes Torneos (honbasho) son el único lugar donde se puede ver en su máximo nivel, con rituales que apenas han cambiado en siglos — el lanzamiento de sal, el pisoteo para ahuyentar a los malos espíritus, los delantales ceremoniales de los rikishi de mayor rango. El Aki Basho es uno de los seis honbasho que se celebran anualmente en Japón y uno de los tres que tienen lugar en Tokio (junto con los torneos de enero y mayo), lo que convierte a septiembre en una ventana poco frecuente para presenciar sumo de élite sin salir de la capital. El formato de 15 días hace que cada luchador se enfrente a un rival distinto cada día, con clasificaciones y honor en juego que cambian a diario hasta los combates decisivos del último día.

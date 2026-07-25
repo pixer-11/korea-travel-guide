@@ -17,8 +17,6 @@ faq:
     a: El Prado forma parte del 'Triángulo de Oro del Arte' de Madrid junto con el Museo Thyssen-Bornemisza y el Reina Sofía (hogar del Guernica de Picasso), ambos a unos 10 minutos a pie, y el parque del Retiro bordea el museo, ideal para descansar después.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con ayuda de IA. Los datos proceden de información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El Museo Nacional del Prado, en el barrio del Retiro de Madrid, alberga una de las colecciones de pintura europea más profundas del mundo, que abarca desde el siglo XII hasta el XIX. Su reputación se apoya en tres maestros españoles: Diego Velázquez, cuyas "Las Meninas" presiden toda una sala y siguen siendo una de las pinturas más analizadas del arte occidental; Francisco Goya, representado a lo largo de toda su carrera, desde sus alegres cartones para tapices hasta las desgarradoras "Pinturas negras" y "El tres de mayo de 1808"; y El Greco, cuyas figuras alargadas y místicas llenan varias salas. Más allá del canon español, los fondos flamencos e italianos del Prado —"El jardín de las delicias" de El Bosco, Tiziano, Rubens, van der Weyden— son lo bastante sólidos como para sostener por sí solos grandes museos. Con una calificación de 4,7 sobre unas 155.000 reseñas, se sitúa constantemente entre los dos o tres mejores museos de arte del planeta, junto al Louvre y los Uffizi.

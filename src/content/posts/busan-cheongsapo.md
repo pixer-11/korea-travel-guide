@@ -29,8 +29,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting. See our [editorial policy](/about).
-
 ## Why Cheongsapo Is Worth the Detour
 
 Most visitors to Busan see Haeundae Beach and stop there, missing the small fishing village just around the headland. Cheongsapo (청사포) sits between Haeundae and Songjeong, at the base of the hill known as Dalmaji-gogae ("Moon-Watching Pass"). It's still a working harbor — you'll see small boats, drying nets, and plastic crates of just-caught fish — which gives it a rougher, more authentic edge than the polished cafés up on the ridge above it. The name comes from an old story about blue snakes ("cheongsa") once seen near the shore, and the village retains a quiet, low-key character even as it's become a popular photo stop for its lighthouse and skywalk.

@@ -7,8 +7,6 @@ quickAnswer: Cure Bali es el primer restaurante del chef Andrew Walsh fuera de S
 faq: []
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Los horarios y detalles cambian — confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué vale la pena visitar Cure Bali
 
 Andrew Walsh construyó su reputación con Cure en Singapur, un restaurante con estrella Michelin conocido por combinar la cocina europea precisa con la profundidad de los perfiles de sabor asiáticos. Traer ese concepto a Bali —y específicamente a una propiedad de lujo totalmente nueva, el Regent Bali Canggu— es un hito genuino y no una simple copia de franquicia. Este es el primer movimiento de Walsh fuera de Singapur, y para un destino que ya cuenta con una escena de alta cocina muy concurrida, que un chef de este calibre elija Canggu demuestra lo en serio que se está tomando internacionalmente la reputación culinaria de la isla. Para los visitantes, esto significa una oportunidad poco común de probar comida moldeada por una técnica de nivel Michelin sin tener que salir de Bali.

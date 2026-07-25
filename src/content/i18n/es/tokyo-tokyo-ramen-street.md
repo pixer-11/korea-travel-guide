@@ -17,8 +17,6 @@ faq:
     a: Tokyo Character Street y Tokyo Okashi Land están en el mismo complejo subterráneo Ichibangai, y tanto el distrito de negocios de Marunouchi como Nihonbashi están a poca distancia a pie de la estación.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos se extraen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Tokyo Ramen Street no es un solo restaurante, sino una selección curada de unos ocho locales de ramen independientes reunidos en un pasillo subterráneo bajo la estación de Tokio. El concepto, que forma parte del centro comercial Tokyo Station Ichibangai, va rotando algunos de los nombres más premiados del ramen japonés —locales que han ganado premios en ferias regionales de ramen o que se han ganado un séquito de seguidores en otras partes del país—, de modo que quienes visitan por primera vez reciben un curso intensivo sobre la diversidad regional del ramen japonés (shoyu, miso, tonkotsu, tsukemen o fideos para mojar) sin salir de un solo pasillo. Con una calificación de 4.0 en más de 5,000 reseñas, se ha convertido en un destino gastronómico legítimo por derecho propio, y no solo en una parada de conveniencia dentro de la estación.

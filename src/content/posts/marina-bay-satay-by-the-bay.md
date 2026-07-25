@@ -41,8 +41,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Satay by the Bay sits at the edge of Gardens by the Bay, close to the Supertree Grove and the Meadow, making it the obvious refuelling stop if you're spending a day exploring the Cloud Forest, Flower Dome, or the free outdoor gardens. It's a sprawling, open-air hawker court rather than a single restaurant — dozens of stalls under a covered structure with garden views, so you get the breadth of Singaporean street food without leaving the Marina Bay precinct. With over 6,600 reviews and a 4-star average, it's firmly on the tourist circuit, but the scale of the place (and the fact it's outdoors) means it rarely feels as claustrophobic as a small hawker centre in town.

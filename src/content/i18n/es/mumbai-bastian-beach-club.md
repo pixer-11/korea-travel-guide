@@ -17,8 +17,6 @@ faq:
     a: No hay estación de metro ni de tren directamente en el local, así que los taxis o los autos por aplicación son la opción más práctica desde cualquier punto de Mumbai.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Los horarios y detalles cambian: confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué Bastian Beach Club destaca
 
 Mumbai tiene muchos bares en azoteas y terrazas de piscina en hoteles, pero un beach club propiamente dicho —construido alrededor de una piscina central, camas junto al agua y un lenguaje de diseño mediterráneo de paredes blancas— es un formato genuinamente nuevo para la ciudad. Bastian Beach Club, inaugurado por el restaurador Ranjit Bindra y la actriz y empresaria Shilpa Shetty, viene a llenar ese vacío. Es la extensión tipo beach club de la conocida marca de restaurantes Bastian, y apuesta por una estética Ibiza-Mykonos de la mano de la diseñadora Minal Chopra: cabañas blancas, tumbonas frente al mar y una piscina que funciona tanto de escenario social como de lugar para nadar. Para una ciudad que siempre ha estado junto al mar pero rara vez lo ha integrado en su vida nocturna, esta es una incorporación notable al circuito de moda de Mumbai en materia de gastronomía y ocio.

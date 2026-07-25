@@ -17,8 +17,6 @@ faq:
     a: El Fuerte Al Jahili y el Qasr Al Muwaiji están a poca distancia a pie, y otros oasis históricos como Al Qattara y Al Jimi, además del Museo del Palacio de Al Ain (Al Ain Palace Museum), están a poca distancia en coche.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con ayuda de IA. Los datos proceden de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El Oasis de Al Ain (Al Ain Oasis) es el más grande y accesible de los seis oasis históricos de la ciudad, una extensión de 1200 hectáreas con más de 147 000 palmeras datileras que todavía se riegan mediante el centenario sistema falaj, una red de canales por gravedad reconocida por la UNESCO que ha dado agua a esta parte de los Emiratos Árabes Unidos desde la antigüedad. A diferencia de un parque cuidado al detalle, esto es un paisaje agrícola en funcionamiento: los agricultores siguen cultivando parcelas de palmeras, mangos y cítricos dentro de sus muros, y los senderos se abren paso entre ellas en lugar de rodearlas. Es uno de los pocos lugares del Golfo donde se puede caminar durante una hora bajo un dosel continuo de hojas de palmera, con luz tamizada y un aire notablemente más fresco que en las calles de fuera.

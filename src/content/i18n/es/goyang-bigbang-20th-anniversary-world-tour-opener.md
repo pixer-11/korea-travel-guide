@@ -17,8 +17,6 @@ faq:
     a: El Parque del Lago Ilsan (Ilsan Lake Park), el acuario Aqua Planic Ilsan y el complejo comercial y gastronómico Western Dom están todos cerca del estadio y son buenas opciones para hacer tiempo antes de que abran las puertas o para relajarse después del espectáculo.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por editores, con asistencia de IA, utilizando fuentes web actuales. Las fechas del evento y las entradas cambian: confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué importa este concierto
 
 BIGBANG —G-Dragon, Taeyang, Daesung y T.O.P— ayudó a definir el K-pop moderno, y estas presentaciones en el Estadio de Goyang (Goyang Stadium) marcan la primera gira mundial del cuarteto en casi diez años y el lanzamiento formal de las celebraciones de su 20.º aniversario. Para los fans de siempre (VIPs), esto es un reencuentro histórico; para los recién llegados, es una oportunidad poco común de ver en vivo, en su propio país, a un grupo que definió toda una generación, antes de que la gira se traslade al extranjero. Tres noches consecutivas (21, 22 y 23 de agosto de 2026) en un mismo recinto representan un compromiso considerable para cualquier artista, lo que da una idea tanto de la demanda como de la magnitud de producción que se espera para este concierto inaugural.

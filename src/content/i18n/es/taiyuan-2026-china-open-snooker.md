@@ -17,8 +17,6 @@ faq:
     a: Uno o dos días bastan para disfrutar de un par de sesiones con comodidad, pero los aficionados más entusiastas suelen quedarse para el fin de semana de semifinales y final, que son las sesiones de mayor demanda.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, a partir de fuentes web actuales. Las fechas y entradas de los eventos cambian; confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El China Open es uno de los eventos de ranking de la gira china del World Snooker Tour, y en 2026 se celebra en Taiyuan, capital de la provincia de Shanxi, en el Riverside Sports Centre. Para los aficionados al snooker, es una oportunidad poco frecuente de ver a jugadores profesionales de primer nivel —incluido el campeón defensor Neil Robertson— competir en suelo chino en un entorno de arena en lugar de por televisión. Los eventos de ranking como este influyen directamente en la clasificación mundial de los jugadores y en el camino hacia el Campeonato Mundial en Sheffield, por lo que los partidos tienen un peso competitivo real y no son meros encuentros de exhibición.

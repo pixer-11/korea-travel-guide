@@ -17,8 +17,6 @@ faq:
     a: Un atuendo smart-casual o elegante encaja bien con el ambiente minimalista y refinado. Dada su calificación de 4.9 y su formato íntimo, es una excelente opción para aniversarios, celebraciones o una noche especial en Tokio.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Ise Sueyoshi se ha ganado la reputación de ser una de las barras de kaiseki más discretamente excelentes de Tokio: el tipo de lugar del que los locales hablan en voz baja, más que uno que aparece en carteles de neón. El consenso editorial es simple: una sala íntima y minimalista, con comidas tradicionales japonesas de varios tiempos cuidadosamente emplatadas. Con una calificación de 4.9 en 451 reseñas, se ubica firmemente entre los restaurantes de alta cocina japonesa más consistentemente elogiados de Tokio, y los elogios tienden a centrarse menos en el espectáculo y más en la precisión: ingredientes de temporada, presentación contenida y un ritmo calmado y sin prisas que permite que cada plato se aprecie por sí mismo.

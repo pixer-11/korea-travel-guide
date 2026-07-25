@@ -17,8 +17,6 @@ faq:
     a: El pago con tarjeta y móvil es cada vez más común, pero sigue siendo recomendable llevar algo de efectivo en billetes pequeños para los puestos más antiguos y los vendedores del mercado.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Las imágenes tienen licencia o son de dominio público. Este es un resumen general de la zona/tema — verifica los detalles específicos de cada lugar antes de visitarlo. Consulta nuestra [política editorial](/about).
-
 ## Por qué vale la pena la escena de comida callejera de Seúl
 
 La comida callejera en Seúl no es un detalle secundario de la cultura gastronómica de la ciudad: es una parte esencial de ella. Los vendedores van desde puestos de mercado centenarios hasta los pojangmacha nocturnos (carpas naranjas) que sirven soju junto con brochetas. A diferencia de otras ciudades donde la comida callejera es algo secundario, en Seúl a menudo es donde se encuentra la cocina técnicamente más depurada, perfeccionada durante décadas por vendedores que preparan uno o dos platos y nada más.

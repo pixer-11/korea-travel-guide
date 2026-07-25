@@ -72,8 +72,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Bordeaux Wine Trails
 
 Bordeaux the city is compact and walkable, but the wine that made it famous grows well outside the ring road, scattered across appellations like Médoc, Saint-Émilion, Pessac-Léognan, and Sauternes. A rental car and a phrasebook of appellation names will get you there, but the châteaux that matter most for tastings often require advance appointments, fluent French, or both. Bordeaux Wine Trails, based at 21 Rue du Chai des Farines in the city center, exists to close that gap — small-group, English-language tours that bundle transport, château access, and tastings into a single day. With a 4.9 rating across 748 reviews, it's one of the more consistently well-regarded operators working the region, which matters in a city where wine-tour quality varies wildly.

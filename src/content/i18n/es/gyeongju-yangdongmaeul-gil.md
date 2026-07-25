@@ -17,8 +17,6 @@ faq:
     a: Oksan Seowon, una histórica academia confuciana, está a unos 15 minutos en coche y combina de forma natural con una visita a la aldea de Yangdong para una excursión cultural de medio día.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La aldea de Yangdong (Yangdongmaeul), a la que se llega por Yangdongmaeul-gil en Gangdong-myeon, es una de las dos aldeas clánicas de Corea declaradas Patrimonio de la Humanidad por la UNESCO (inscrita en 2010 junto con la aldea de Hahoe, en Andong). A diferencia de Hahoe, que recibe muchas más visitas, Yangdong ve solo una fracción de los turistas, lo que la convierte en una auténtica joya escondida para quienes buscan la misma atmósfera de aldea de la era Joseon sin la congestión de los autobuses turísticos. La aldea ha estado habitada de forma continua durante más de 500 años por los clanes Yeogang Lee y Wolseong (Gyeongju) Son, y aún se conservan unas 150 casas tradicionales, que combinan las viviendas de tejas *giwa* de la aristocracia yangban con las casas de techo de paja *choga* que antes albergaban a sirvientes y arrendatarios. La disposición misma es el atractivo: las casas se organizan siguiendo los contornos naturales del monte Seolchangsan en un patrón que los lugareños describen como "una enredadera sobre un árbol", con las viviendas más acomodadas en la parte alta y las de la gente común más abajo.

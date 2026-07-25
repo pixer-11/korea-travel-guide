@@ -17,8 +17,6 @@ faq:
     a: Los requisitos dependen de la nacionalidad; Indonesia ofrece opciones de visa a la llegada (visa-on-arrival) y e-visa para muchos países, pero confirma las normas vigentes con una fuente oficial de inmigración indonesia antes de reservar los vuelos.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA, utilizando fuentes web actuales. Las fechas y entradas de los eventos cambian — confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Qué es Pestapora
 
 Pestapora se ha convertido en uno de los festivales de música multigénero insignia de Indonesia, y la edición 2026 — su quinto año — está programada para el 25, 26 y 27 de septiembre de 2026 en Yakarta (Jakarta). A diferencia de los festivales de un solo género, Pestapora suele distribuir a decenas de artistas indonesios y regionales en varios escenarios a lo largo de todo un fin de semana, abarcando pop, indie, hip-hop, punk, dangdut y sets electrónicos, todos en paralelo. Está organizado por Boss Creator, una empresa de eventos conocida por producciones musicales a gran escala en Indonesia. Como se trata de un evento anual que cambia rápidamente, conviene tratar como provisional cualquier detalle más allá de las fechas confirmadas — lugar, cartel, nombres de los escenarios, precios de las entradas — hasta que el Instagram y el sitio web oficiales de Pestapora los publiquen, algo que suele ocurrir mediante anuncios por fases unos meses antes del festival.

@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why go
 
 Smash Street matters because of its pedigree as much as its patties. It comes from the team behind Scarpetta, the pasta bar that turned into a genuine viral phenomenon in Singapore's dining scene — the kind of place that built queues and social-media buzz around a menu of comfort classics done with real technique. Applying that same instinct to the smash-burger format, a style that's swept through global food cities over the past few years, signals that this isn't a generic fast-casual clone. The draw is the contrast: thin beef patties pressed hard onto a screaming-hot griddle until the edges turn deeply caramelised and almost lace-like, then stacked onto artisanal potato buns rather than the mass-produced squishy buns typical of the genre. For visitors chasing Singapore's ever-shifting "next big thing," this is currently at the top of that list.

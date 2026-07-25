@@ -17,8 +17,6 @@ faq:
     a: Hallim Park (jardines y cuevas de tubos volcánicos) está a pocos minutos, la isla Biyangdo se puede alcanzar en barco de temporada desde el puerto de Hallim (Hallim Port), y la más tranquila playa Geumneung Eutteum se encuentra un poco más al sur a lo largo de la costa.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Hyeopjae se ubica constantemente entre las mejores playas de Jeju (una calificación de 4.6 entre miles de reseñas no es casualidad), y se ha ganado esa reputación con creces. La arena es fina y clara, compuesta en parte por conchas trituradas en lugar de basalto volcánico, razón por la cual el agua se ve de un turquesa brillante en vez de los tonos más oscuros típicos de otras zonas de la isla. La bahía es poco profunda y tranquila durante un largo tramo desde la orilla, lo que la convierte en una de las playas más aptas para nadar en Jeju, en lugar de un lugar de oleaje fuerte para surfear. El elemento de postal es la isla Biyangdo (Biyangdo Island), una pequeña isla volcánica de cima plana situada a pocos kilómetros de la costa, que enmarca casi todas las fotos que se toman aquí, especialmente al atardecer, cuando el cielo y el agua adquieren la misma luz anaranjada y rosada.

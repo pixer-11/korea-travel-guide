@@ -17,8 +17,6 @@ faq:
     a: El casco antiguo de Phuket (Phuket Old Town), con su arquitectura sino-portuguesa en Thalang Road y Soi Romanee, está a solo un corto trayecto en coche y combina muy bien con una visita a Khao Rang.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Khao Rang, también llamada Rang Hill, es el punto más alto sobre la ciudad de Phuket (Phuket Town), y es el lugar al que van los propios locales para ver la puesta de sol sobre el mar de Andamán. A diferencia de los miradores más turísticos del sur de la isla (Karon, Cabo Promthep), Khao Rang ofrece una vista de 360 grados de una ciudad en pleno funcionamiento: los tejados rojos de las casas-tienda de estilo sino-portugués del casco antiguo, la zona portuaria, islas de piedra caliza a lo lejos y, en días despejados, hasta las colinas de Phang Nga. La calificación de 4.5 estrellas basada en casi 7,000 reseñas refleja lo bien valorada que está la vista en sí, aunque las instalaciones del parque son sencillas.

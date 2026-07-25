@@ -39,8 +39,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Seoraksan National Park is Korea's most dramatic mountain range, all jagged granite peaks and deep valleys, but not everyone has the time or legs for a full-day trek to its high ridgelines. The Seoraksan Cable Car solves that problem elegantly: it lifts visitors from the valley floor to a rocky outcrop near Gwongeumseong Fortress in about six minutes, delivering panoramic views of the park's granite crags, the East Sea coastline, and on clear days, the city of Sokcho below. With a 4.3 rating from over 11,500 reviews, it's one of the most consistently recommended attractions in the region — a rare case where the easy option is also genuinely spectacular.

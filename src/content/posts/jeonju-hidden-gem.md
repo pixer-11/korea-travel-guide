@@ -29,8 +29,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting. See our [editorial policy](/about).
-
 ## Why Jeonju's real charm hides just off the main path
 
 Jeonju Hanok Village draws the crowds to its central thoroughfares, but the district actually spans a much larger footprint than most day-trippers realize. The genuinely rewarding experience is walking the perimeter — the quieter residential lanes where families still live in hanok houses, rather than the souvenir-and-hanbok-rental strip that dominates photos of the area. This is where you get a sense of Jeonju as a living city, not a theme park.

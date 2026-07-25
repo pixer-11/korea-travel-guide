@@ -17,8 +17,6 @@ faq:
     a: El café está en la misma carretera panorámica de montaña que conecta Patong con Kata y Karon, cerca de otros miradores como Karon Viewpoint, y a poca distancia en coche de Patong Beach y Bangla Road.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Phuket no tiene escasez de miradores en lo alto de sus colinas, pero Cafe Phuket Viewpoint se ha convertido en uno de los lugares más comentados de la isla por una buena razón: combina un café-restaurante que funciona de verdad con una panorámica elevada y sin obstáculos de la bahía de Patong y la costa de Andamán. Con más de 20.800 reseñas y una valoración de 4,6, ha pasado de ser un secreto local a una parada obligada para quienes se alojan en cualquier punto de la costa oeste. El atractivo no es una única estructura llamativa, sino las terrazas escalonadas talladas en la ladera sobre Phrabaramee Road, dispuestas de forma que casi todas las mesas tienen vista sobre los tejados de Patong hasta la curva de la bahía.

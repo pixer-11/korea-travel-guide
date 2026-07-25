@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Gyeongju is dotted with hanok cafés riding the recent wave of traditional-meets-modern design, but Cafe Arae Heon has become one of the standouts, holding a striking 4.9-star average across more than 1,400 reviews. The draw isn't just the drinks — it's the setting: a hanok (traditional Korean wooden house) built around big picture windows and courtyard views, designed so every seat feels like it's framing a postcard. In a city built around ancient tombs, temples, and stone pagodas, Arae Heon gives visitors a contemporary, café-culture reason to linger a little longer in the Bulguksa area.

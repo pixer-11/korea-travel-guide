@@ -17,8 +17,6 @@ faq:
     a: La Ciudad Imperial (Ciudadela de Hue) y el Mercado Dong Ba están ambos cerca, en la misma orilla del río, lo que facilita combinar una comida aquí con actividades turísticas.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La escena gastronómica de Hue se define por platos que no encontrarás fácilmente fuera del centro de Vietnam — bún bò Huế (sopa de fideos con carne de res y limoncillo picante), bánh khoái (panqueque crujiente de cúrcuma), nem lụi (brochetas de cerdo a la parrilla envueltas en papel de arroz) y com hen (arroz con almejas pequeñas, una especialidad de Hue ligada al Río Perfume). Vietnamese Food - Hue Local Food & FastFood 22 Restaurant, en el 22 Trần Huy Liệu, se ha ganado una reputación inusualmente sólida entre los viajeros por ofrecer estos platos a precios bajos y con calidad constante — una calificación de 4.9 en más de 2,000 reseñas es una combinación poco común en una ciudad llena de locales orientados al turismo cerca de la Ciudadela. El nivel de precios se ubica en la gama económica, lo que lo convierte en una buena parada para quienes quieran iniciarse en la cocina de la época imperial de Hue sin comprometerse con un restaurante formal y más caro.

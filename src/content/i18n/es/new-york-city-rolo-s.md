@@ -17,8 +17,6 @@ faq:
     a: Calcula entre 1,5 y 2 horas para una comida sin prisas. Ridgewood cuenta con una oferta creciente de bares y cafés cercanos, así que puedes combinar la cena con un paseo por el barrio antes o después.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Los horarios y detalles cambian: confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué Rolo's destaca
 
 Rolo's se ha convertido en uno de los restaurantes más comentados de Queens, y con razón: obtuvo un Bib Gourmand de la Guía Michelin, la distinción que otorga la guía a la excelente comida a precios moderados, manteniéndose firmemente en el rango accesible de $$. La cocina gira en torno a la cocción a la parrilla de leña —carnes, verduras y otros ingredientes de temporada, tostados y ahumados al fuego abierto— junto con un acompañante insignia que se ha ganado un séquito de seguidores: el pan de polenta, un pan crujiente por fuera y tierno por dentro que los habituales piden casi por norma. Con más de 1.500 reseñas en línea, ha dejado atrás claramente su condición de "secreto del barrio" para convertirse en un verdadero destino gastronómico, atrayendo a comensales de toda la ciudad hacia una zona de Queens que no suele figurar en el mapa turístico.

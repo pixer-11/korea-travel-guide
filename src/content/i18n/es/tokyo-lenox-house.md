@@ -17,8 +17,6 @@ faq:
     a: La estación de Sangubashi está cerca de la entrada norte del parque Yoyogi (Yoyogi Park) y del Estadio Nacional de Yoyogi (National Yoyogi Stadium), lo que facilita combinar un paseo por el parque o algún evento con una cena en Lenox House.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA, utilizando fuentes web actuales. Los horarios y detalles cambian; confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué Lenox House destaca
 
 Tokio no tiene escasez de restaurantes italianos, pero Lenox House se ha ganado su fama gracias a su trayectoria y su mesura. Proviene del equipo detrás de The Great Burger, un local de culto de larga trayectoria en la escena hamburguesera de la ciudad, y ese mismo instinto por hacer una sola cosa con verdadero oficio se traslada aquí. En lugar de perseguir tendencias con trucos de fusión, Lenox House apuesta por la pasta artesanal y los platos italianos regionales, reinterpretados con ingredientes japoneses de temporada en lugar de sustitutos importados. El resultado es una carta que se siente claramente tokiota sin dejar de estar arraigada en la técnica italiana, el tipo de confianza discreta que suele distinguir a los locales pensados para perdurar de los que solo buscan un momento de fama pasajera.

@@ -17,8 +17,6 @@ faq:
     a: Las tiendas de artesanía de Insadong-gil y el mercado Ssamziegil (Ssamziegil) están justo afuera, y el templo Jogyesa (Jogyesa Temple) queda a poca distancia caminando, lo que ofrece contexto sobre la cocina de templo budista que se sirve en Sanchon.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué vale la pena buscar Sanchon
 
 Sanchon (산촌) lleva décadas sirviendo comida de templo budista coreana en Insadong, desde mucho antes de que la "cocina de templo" se convirtiera en un concepto reconocido por los visitantes extranjeros. El restaurante fue fundado por un antiguo monje, y la comida sigue los principios monásticos: sin carne, sin pescado, sin huevo, y sin ninguna de las cinco verduras de olor fuerte (ajo, cebolla, cebollino, puerro y asafétida) que las normas dietéticas budistas excluyen por estimular el deseo y entorpecer la meditación. En su lugar, llega una larga sucesión de platos de verduras, hongos, hierbas silvestres y fermentados: papilla de calabaza, gelatina de bellota (dotorimuk), namul de temporada, guisos a base de doenjang, y un elenco rotativo de banchan elaborados casi por completo con tofu, hierbas silvestres y verduras de montaña (sancheol, literalmente "verduras de montaña", es de donde viene el nombre Sanchon). Con 4,1 estrellas en 733 reseñas, es una parada muy conocida para los visitantes que buscan específicamente una comida sin carne, al estilo monástico, en lugar del clásico BBQ coreano.

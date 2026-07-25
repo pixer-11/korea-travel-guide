@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Sanchon is worth seeking out
 
 Sanchon (산촌) has been serving Korean Buddhist temple food in Insadong for decades, long before "temple cuisine" became a phrase foreign visitors recognized. The restaurant was founded by a former monk, and the food follows monastic principles: no meat, no fish, no eggs, and none of the five pungent vegetables (garlic, onion, chives, leeks, and asafoetida) that Buddhist dietary rules exclude for stimulating desire and dulling meditation. What arrives instead is a long procession of vegetable, mushroom, wild-green, and fermented dishes — pumpkin porridge, acorn jelly (dotorimuk), seasonal namul, doenjang-based stews, and a rotating cast of banchan built almost entirely from tofu, wild greens, and mountain vegetables (sancheol, literally "mountain vegetables," is where the name Sanchon comes from). At 4.1 stars across 733 reviews, it's a well-worn stop for visitors specifically hunting for a meatless, monastery-style meal rather than standard Korean BBQ.

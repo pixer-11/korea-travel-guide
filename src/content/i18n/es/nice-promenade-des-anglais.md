@@ -17,8 +17,6 @@ faq:
     a: Combínala con Vieux Nice (el Casco Antiguo) y el mercado de Cours Saleya en el extremo este, o camina tierra adentro por los jardines de la Promenade du Paillon hacia el Musée Matisse en Cimiez.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La Promenade des Anglais es el tramo de pavimento más reconocible de toda la Costa Azul (French Riviera): una curva de 7 kilómetros bordeada de sillas azules que sigue el trazado de la Baie des Anges desde la desembocadura del río Paillon, cerca del Casco Antiguo, hasta pasar el aeropuerto de Niza. Se trazó originalmente en la década de 1820, financiada por la colonia inglesa que pasaba el invierno en la ciudad (de ahí su nombre, "Paseo de los Ingleses"), quienes querían un lugar adecuado para pasear y tomar el aire marino. Hoy en día es a la vez postal de la ciudad, arteria ciclista y sala de estar al aire libre para toda Niza: los vecinos salen a correr al amanecer, los jubilados juegan a la petanca en los senderos laterales y, por la noche, las fachadas barrocas de los hoteles de la Belle Époque se iluminan en el lado terrestre del paseo. Con una calificación de 4.7 estrellas y más de 2,500 reseñas, se mantiene constantemente como la atracción gratuita imprescindible de Niza.

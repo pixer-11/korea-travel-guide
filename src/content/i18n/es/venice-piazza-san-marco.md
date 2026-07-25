@@ -17,8 +17,6 @@ faq:
     a: El Puente de los Suspiros, el Museo Correr, el paseo frente al agua del Bacino di San Marco con vistas a la laguna, y las conexiones en vaporetto hacia Murano y Burano están todos a pocos minutos a pie o a un breve trayecto en barco.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La Piazza San Marco ha sido el corazón cívico y religioso de Venecia desde el siglo XII, y es el único espacio público de la ciudad lo bastante grandioso como para llamarse "piazza" (todas las demás plazas son "campo"). Está dominada por la Basílica de San Marcos, cuyas cúpulas de mosaico dorado y estilo bizantino la distinguen de cualquier otra cosa en Italia — un legado de los siglos de vínculos comerciales de Venecia con Constantinopla. Se dice que Napoleón la llamó "el salón más elegante de Europa", y al pararse en la plaza al atardecer, con el Campanile iluminado y la fachada de la basílica resplandeciendo, es fácil entender por qué. Con una calificación de 4.7 sobre casi 195,000 reseñas, es el lugar más visitado de Venecia, y con razón — pero eso también significa que exige planificación.

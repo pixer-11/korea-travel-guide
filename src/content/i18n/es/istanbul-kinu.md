@@ -17,8 +17,6 @@ faq:
     a: Los precios exactos y los artículos del menú aún no son información pública fija para este local recién inaugurado — se pueden esperar bebidas centradas en el matcha y probablemente algún bocado ligero; confirma la oferta actual y los precios en el propio local o a través de los canales oficiales de kinu antes de la visita.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, utilizando fuentes web actuales. Los horarios y detalles cambian — confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué kinu importa ahora mismo
 
 La escena de cafeterías de Estambul ha estado dominada durante mucho tiempo por las casas de café turco y los bares de espresso de tercera ola, así que la llegada de kinu en 2026 marcó un cambio genuino. Es un bar dedicado exclusivamente al matcha — no un café que resulta tener matcha en polvo como algo secundario, sino un espacio construido enteramente en torno a la ceremonia y la cultura del té verde japonés. Detrás está Illusory Superiority, una plataforma local de arte y estilo de vida conocida por curar espacios que combinan sensibilidad de diseño con una obsesión cultural específica. Esa trayectoria se nota: kinu no solo vende bebidas, presenta toda una estética y un ritual en torno al matcha a una ciudad que ha ido construyendo poco a poco su propia comunidad de devotos del matcha.

@@ -17,8 +17,6 @@ faq:
     a: El Fuerte de Fujairah (Fujairah Fort), el Poblado del Patrimonio (Heritage Village) y el paseo marítimo de Fujairah (Fujairah Corniche) están todos a poca distancia en coche, lo que hace que Backyard sea un añadido fácil a un recorrido de medio día por los lugares históricos y frente al mar de la ciudad de Fujairah.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Fujairah no tiene la densidad de cultura de café que encontrarías en Dubái o Abu Dabi, y precisamente por eso un lugar como Backyard destaca. Es una cafetería de especialidad en el distrito de Al Faseel, con una calificación de 4.6 sobre 160 reseñas, una cifra notable para un emirato pequeño donde el buen café de tercera ola todavía es relativamente escaso. No es un lugar pensado para atraer multitudes en busca de fotos para Instagram; es una cafetería de barrio funcional que resulta que hace muy bien el café, con un nombre y una ambientación (un diseño tipo patio trasero, de ahí "Backyard") que sugieren un espacio relajado y sin pretensiones, más que un local de cadena pulido.

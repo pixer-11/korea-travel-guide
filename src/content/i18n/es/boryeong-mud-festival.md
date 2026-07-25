@@ -17,8 +17,6 @@ faq:
     a: El fenómeno de marea baja conocido como la 'separación del mar' en la playa de Muchangpo (Muchangpo Beach) y el Museo Oceanográfico de Boryeong son buenas opciones para una escapada si quieres un descanso de las piscinas de barro.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Las imágenes tienen licencia o son de dominio público. Este es un resumen general del área/tema; verifica los detalles específicos del lugar antes de tu visita. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El Festival del Barro de Boryeong es el evento veraniego más famoso de Corea, construido en torno a una idea sencilla: el barro rico en minerales de las marismas cercanas a la playa de Daecheon (Daecheon Beach) es bueno para la piel, y aún mejor para una fiesta. Lo que comenzó en la década de 1990 como una campaña de marketing para una línea de cosméticos local se ha convertido en un festival de playa de dos semanas que atrae a cientos de miles de visitantes, incluida una gran proporción de turistas extranjeros y expatriados. Espera anillos de lucha en el barro, toboganes de barro, piscinas inflables gigantes llenas de barro, estaciones de pintura corporal, una zona fotográfica de "prisión de barro" y batallas de barro libres en la arena, seguidas de espectáculos musicales de K-pop, fuegos artificiales y fiestas de espuma una vez que se pone el sol. Es sucio, ruidoso y sin complejos divertido, más parecido a un carnaval de playa que a un sitio de patrimonio cultural.

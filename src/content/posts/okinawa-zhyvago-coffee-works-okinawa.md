@@ -41,8 +41,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Zhyvago Coffee Works Okinawa has built a loyal following — a 4.6 rating across more than 1,000 reviews is unusually high for a café — by pairing serious espresso with a setting that feels more Venice Beach than mainland Japan. The industrial-chic interior (exposed concrete, steel fixtures, big glass frontage) opens onto a terrace that faces the water directly, which is the main draw: few coffee shops on the island let you drink a flat white with your feet practically in the sand. It's the kind of place locals bring visitors precisely because it doesn't feel like a typical Japanese kissaten — it's closer to a Melbourne or LA coffee bar transplanted onto Okinawa's west coast.

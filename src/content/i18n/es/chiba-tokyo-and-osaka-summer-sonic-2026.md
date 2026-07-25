@@ -17,8 +17,6 @@ faq:
     a: A mediados de agosto, tanto Chiba como Osaka suelen tener un clima cálido y húmedo, con temperaturas de entre 30 y 35 °C. Los escenarios cubiertos de Makuhari Messe ofrecen alivio gracias al aire acondicionado; planifica el tiempo en el estadio al aire libre para las noches y mantente hidratado durante todo el día.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Las fechas y entradas de los eventos cambian: confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Summer Sonic es el festival de rock de doble ciudad más grande de Japón, que se celebra el mismo fin de semana en Chiba (a orillas de la bahía de Tokio) y en Osaka, con muchos artistas que se trasladan de una ciudad a otra para tocar en ambas. La edición de 2026 es un hito: su 25.º aniversario y, por primera vez en su historia, un formato completo de tres días (del 14 al 16 de agosto de 2026) en lugar del tradicional formato de dos días. El cartel anunciado hasta ahora abarca géneros de una forma que pocos festivales logran: The Strokes y Jamiroquai para el público del indie/funk, FKA Twigs para el sector alt-electrónico, L'Arc-en-Ciel representando a las leyendas del visual-kei/J-rock que ayudaron a definir el rock japonés en el extranjero, y los pesos pesados del K-pop aespa y LE SSERAFIM. Esa amplitud es el sello del festival: metal, hip-hop, city pop y pop de estadio compartiendo el mismo fin de semana.

@@ -17,8 +17,6 @@ faq:
     a: El dwaeji gukbap (sopa de cerdo con arroz) es el plato emblemático de Busan, y se encuentra mejor cerca de Seomyeon o de la estación de Busan. En el mercado de Jagalchi y en BIFF Square, prueba el pescado crudo fresco en el piso de arriba del mercado y el ssiat hotteok (panqueque dulce relleno de semillas) como bocadillo callejero.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Las imágenes están bajo licencia o son de dominio público. Este es un panorama general de la zona/tema: verifica los detalles específicos de cada lugar antes de tu visita. Consulta nuestra [política editorial](/about).
-
 ## Por qué Busan merece una mirada pausada
 
 La segunda ciudad de Corea cambia la densidad de Seúl por costa, montañas y un puerto en funcionamiento que aún huele a mercado de pescado a las 7 de la mañana. Busan se extiende sobre crestas montañosas y playas en lugar de seguir una única cuadrícula plana, así que hacer turismo aquí significa moverse entre barrios bien diferenciados en vez de caminarlo todo desde un solo punto. Ahí está el encanto: una mañana en una fortaleza de la era Joseon o en un templo budista, una tarde en la arena y una cena en un mercado que funciona desde la Guerra de Corea.

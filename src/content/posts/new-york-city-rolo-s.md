@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why Rolo's stands out
 
 Rolo's has become one of the more talked-about restaurants in Queens, and for good reason: it earned a Michelin Bib Gourmand, the guide's designation for excellent food at moderate prices, while staying firmly in accessible $$ territory. The kitchen centers on wood-fire cooking — meats, vegetables, and other seasonal ingredients charred and smoked over an open flame — paired with a namesake side that's developed a cult following: polenta bread, a crusty-yet-tender loaf that regulars order as a matter of course. With over 1,500 reviews online, it's clearly moved past "neighborhood secret" status into genuine destination-dining territory, drawing diners from across the city into a part of Queens that isn't typically on the tourist map.

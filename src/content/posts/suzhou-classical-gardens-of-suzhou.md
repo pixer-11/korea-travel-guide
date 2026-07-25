@@ -46,8 +46,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Suzhou's classical gardens are the reference point for Chinese garden design — the template that Beijing's imperial gardens and countless private courtyards across East Asia borrowed from. Built by scholar-officials and wealthy merchants between the 11th and 19th centuries, they compress mountains, rivers, forests, and architecture into walled spaces sometimes no larger than a city block, using techniques like borrowed scenery (jiejing), winding covered walkways, and framed "moon gates" to make a few acres feel like an entire landscape. UNESCO inscribed nine of them together in 1997 and 2000 under the umbrella title "Classical Gardens of Suzhou," recognizing them collectively as the high point of the genre. This isn't a single ticketed attraction with one address — it's a citywide network, so the practical challenge is choosing which gardens to prioritize.

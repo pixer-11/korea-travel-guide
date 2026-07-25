@@ -17,8 +17,6 @@ faq:
     a: La Casa Ojukheon, el Lago y la Playa de Gyeongpo, y la calle de cafés de Anmok están todos a un corto trayecto en taxi, ideales para un itinerario combinado de medio día o de día completo.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Arte Museum Valley es la sede de Gangneung de la marca Arte Museum, que se hizo famosa en Yeosu antes de expandirse a la costa este de Gangwon-do. Dentro de un edificio reconvertido, del tamaño de un almacén, en 131 Nanseolheon-ro, las salas están dedicadas por completo a arte digital proyectado: cascadas que parecen derramarse por paredes negras, bosques que florecen y se marchitan en bucle, y valles de espejos que multiplican la luz hasta el infinito. Con una calificación de 4.6 en más de 3,000 reseñas, se ha convertido en una de las paradas más comentadas para quienes buscan algo distinto a las playas y el marisco en Gangneung. El atractivo no es una obra famosa en particular, sino la experiencia acumulativa de recorrerlo todo a pie, más cercana a un montaje teatral inmersivo que a una galería tradicional.

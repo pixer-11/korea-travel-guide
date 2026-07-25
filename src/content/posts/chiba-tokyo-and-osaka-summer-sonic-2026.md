@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why go
 
 Summer Sonic is Japan's biggest twin-city rock festival, running the same weekend in Chiba (on Tokyo Bay) and Osaka, with many artists shuttling between the two cities to play both. The 2026 edition is a milestone: its 25th anniversary, and for the first time ever a full three-day run (August 14–16, 2026) rather than the traditional two-day format. The lineup announced so far spans genres in a way few festivals manage — The Strokes and Jamiroquai for indie/funk crowds, FKA Twigs for the alt-electronic set, L'Arc-en-Ciel representing the visual-kei/J-rock legends who helped define Japanese rock abroad, and K-pop heavyweights aespa and LE SSERAFIM. That range is the festival's signature: metal, hip-hop, city pop, and stadium pop all sharing the same weekend.

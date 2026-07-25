@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why go
 
 Korean dining in Kuala Lumpur has largely meant tabletop grills and crispy fried chicken, so a concept built around Korea's coastal and seafood traditions stands out. MULJIL is positioned as exactly that: a departure from the barbecue-and-chimaek formula, leaning instead into the maritime side of Korean cooking — think raw and lightly cured seafood, broths, and regional coastal flavors that rarely get spotlighted outside Korea. The name itself (a play on Korean words evoking water and texture) signals the kitchen's focus.

@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Okinawa's dining scene leans heavily on goya champuru, Okinawa soba, and taco rice, so a steam-seafood buffet stands out as something different — and locals and visitors alike have made Chatan Steam Seafood one of the most-reviewed restaurants on the island, with a 4.7 rating from roughly 3,500 reviewers. The format is simple and satisfying: browse a chilled seafood counter, choose what you want (snow crab legs, king crab, clams, mussels, shrimp, scallops, sometimes lobster and abalone depending on the day's stock), hand your selections to staff, and they're steamed and delivered to your table minutes later. It's interactive, generous, and geared toward sharing among two or more people rather than a solo quick bite.

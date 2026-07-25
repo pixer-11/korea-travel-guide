@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Provence's lavender fields are one of the few natural sights in Europe that look genuinely otherworldly in photographs and still deliver in person: rows of violet-blue lavender running to the horizon, often framed by a farmhouse, a line of cypress trees, or the Luberon hills in the distance. The area around Bonnieux, a hilltop village in the Luberon Regional Nature Park, holds some of the most photogenic and accessible fields in the region — a spot near R7RQ+C9, 84480 Bonnieux, has built a strong local reputation (4.7 rating from 81 reviews) as one of the better-tended, visitor-friendly plots, distinct from the vast commercial rows further east near Valensole.

@@ -17,8 +17,6 @@ faq:
     a: Empieza con mariscos a la parrilla o brochetas y un banh xeo, y luego añade pho o hu tieu si quieres algo más ligero; el agua de coco fresca es la bebida clásica para acompañar.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Ben Nghe Street Food resuelve un problema real para los visitantes: la mejor comida callejera de Ho Chi Minh City suele estar dispersa en carritos sin marcar en las aceras, sin menús en inglés y con estándares de higiene irregulares. Este lugar reúne toda esa experiencia en una sola dirección: un patio de comidas semiabierto, al estilo mercado nocturno, en el Distrito 1, con hileras de puestos de parrilla, peceras con mariscos y mesas de hot pot. Con una calificación de 4.3 basada en casi 13,000 reseñas, es claramente una opción probada para los viajeros que quieren probar la cultura de comida callejera de Saigón sin tener que adivinar. Funciona menos como un restaurante único y más como una colección curada de vendedores bajo un mismo techo, lo que facilita probar una gran variedad en una sola visita.

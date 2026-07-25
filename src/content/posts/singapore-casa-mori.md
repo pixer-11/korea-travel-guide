@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why Casa Mori Stands Out
 
 Dempsey Hill has long been Singapore's go-to enclave for restaurants set inside colonial-era black-and-white bungalows surrounded by rain trees, and Casa Mori is one of the more talked-about recent additions to that strip. The concept pairs two distinct culinary voices: Willin Low, the chef widely credited with pioneering "mod-Sin" cuisine (modern Singaporean cooking that reinterprets hawker classics through a fine-dining lens), and Jose Alonso, a Spanish chef bringing tapas and sharing-plate technique. The result is a menu built around Spanish-style small plates seasoned with distinctly Singaporean touches — think cincalok (fermented shrimp paste) and sambal worked into dishes that otherwise read as Iberian. It's this cross-cultural mash-up, rather than either cuisine in isolation, that gives Casa Mori its identity and its buzz.

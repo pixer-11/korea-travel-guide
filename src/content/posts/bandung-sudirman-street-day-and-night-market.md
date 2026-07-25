@@ -89,8 +89,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Jl. Sudirman in Bandung's Astanaanyar district has long been one of the city's densest strips of Chinese-Indonesian street food, and the Sudirman Street Day and Night Market is its most concentrated expression — dozens of stalls under one roof (or awning-covered strip), rated 4.5 from over 17,000 reviews. The draw isn't a single dish but the range: Chinese-Bandung classics like siomay, bakpia, kwetiau goreng, and bakmi sit alongside Sundanese and broader Indonesian street snacks, with halal stalls clearly available among the non-halal ones. It's a food court in the loosest sense — closer to a covered night bazaar than a mall food hall — so the energy, noise, and smoke from the grills are part of the experience.

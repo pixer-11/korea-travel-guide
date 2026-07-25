@@ -17,8 +17,6 @@ faq:
     a: De mayo a octubre se da el clima más fiable para pasear entre las viñas, y la temporada de vendimia (septiembre-principios de octubre) añade un ambiente especial, aunque también mayor demanda. También hay tours de invierno, centrados más en visitas a bodegas y catas.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué elegir Bordeaux Wine Trails
 
 La ciudad de Burdeos (Bordeaux) es compacta y perfecta para recorrer a pie, pero el vino que la hizo famosa crece bien fuera de la circunvalación, repartido entre denominaciones como Médoc, Saint-Émilion, Pessac-Léognan y Sauternes. Un coche de alquiler y un puñado de nombres de denominaciones te llevarán hasta allí, pero los châteaux más importantes para las catas suelen exigir cita previa, un francés fluido, o ambas cosas. Bordeaux Wine Trails, con base en 21 Rue du Chai des Farines en el centro de la ciudad, existe para cubrir ese vacío: tours en grupos reducidos y en inglés que combinan transporte, acceso a los châteaux y catas en una sola jornada. Con una valoración de 4,9 sobre 748 reseñas, es uno de los operadores mejor valorados de forma constante en la región, algo que importa en una ciudad donde la calidad de los tours de vino varía enormemente.

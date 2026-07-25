@@ -17,8 +17,6 @@ faq:
     a: Espera condiciones cálidas y húmedas típicas del verano de Tokio (a menudo más de 30°C con alta humedad). Lleva sombrero, protector solar, una botella de agua reutilizable y ropa ligera, y llega temprano para asegurar zonas de sombra si están disponibles.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, utilizando fuentes web actuales. Las fechas de eventos y las entradas cambian: confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La llegada de Formula E a Tokio es un momento histórico para esta serie de carreras totalmente eléctricas, que anteriormente ha corrido en ciudades como Londres, Mónaco, Yakarta y São Paulo en circuitos urbanos temporales en lugar de pistas construidas específicamente para carreras. Una carrera en el Tokyo Street Circuit significa que los coches —relativamente silenciosos, rápidos y diseñados para curvas urbanas cerradas— circularán a través o junto a infraestructura real de la ciudad, un espectáculo muy distinto de ver la Fórmula 1 en un circuito permanente como Suzuka. Para los aficionados al motor ya familiarizados con las categorías japonesas Super Formula y Super GT, esta es una oportunidad de ver cómo una serie totalmente eléctrica se desenvuelve en un trazado urbano japonés, y para los visitantes en general es un evento poco común de "calles cerradas, coches de carreras y skyline urbano" que tiene lugar en el área metropolitana más grande del mundo.

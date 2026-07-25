@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why TURK Fatih Tutak stands out
 
 Fatih Tutak has built his namesake restaurant around a single idea: reframe Turkish and Anatolian food through a contemporary, technique-driven lens rather than serving it as familiar comfort food. The result has made TURK Fatih Tutak one of Istanbul's most discussed fine-dining addresses, and it appears in the Michelin Guide Türkiye 2026 selection, which also awarded it a Green Star for its approach to sustainable gastronomy — a distinction Michelin reserves for kitchens that show real commitment to sourcing and environmental responsibility, not just flavor. For visitors who want to understand where Turkish cuisine is heading rather than where it's been, this is currently the reference point.

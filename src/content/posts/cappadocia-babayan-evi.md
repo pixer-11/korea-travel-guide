@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why Babayan Evi matters
 
 Cappadocia is famous for hot-air balloons and fairy-chimney rock formations, but until 2026 it had never appeared on the Michelin Guide's radar. Babayan Evi changed that. It was named among the region's first-ever Michelin selections, and it walked away with two distinctions at once: a Bib Gourmand, Michelin's marker for excellent food at moderate prices, and a Green Star, the newer accolade reserved for restaurants demonstrating genuine commitment to sustainable and environmentally responsible cooking. Very few restaurants anywhere earn both simultaneously, which makes Babayan Evi something of a flagship case study for what Cappadocian dining can be when it leans into its own terroir instead of imitating international menus.

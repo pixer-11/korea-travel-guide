@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why this show matters
 
 Kodaline built their name on widescreen, emotionally direct indie-rock — "All I Want," "High Hopes," "The One" — the kind of songs that turned festival fields and arenas alike into singalongs for over a decade. This farewell tour marks the Dublin quartet's official closing chapter, and Bangkok is one of the stops getting two dates instead of one, a sign of how deep their fanbase runs in Thailand. For visitors, that's a rare chance to catch a career-spanning setlist in a purpose-built live venue rather than a converted stadium or multi-act festival bill.

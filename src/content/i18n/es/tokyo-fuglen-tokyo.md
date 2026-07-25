@@ -17,8 +17,6 @@ faq:
     a: El parque Yoyogi está a un corto paseo, y el vecindario de Tomigaya que lo rodea tiene tiendas de diseño y boutiques tranquilas que vale la pena explorar antes o después.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué destaca Fuglen Tokyo
 
 Fuglen nació en Oslo en 1963 como tienda de muebles y café-bar, y la sede de Tokio —el primer local de la marca fuera de Noruega, abierto en 2012— mantiene intacta esa doble identidad. De día funciona como un serio café de especialidad con granos de origen único que rotan y se tuestan en el propio local; de noche, la misma sala se transforma en un bar de cócteles con una carta pequeña e ingeniosa, que suele incluir infusiones y amargos con toques nórdicos. El interior, revestido de madera, está lleno de auténticos muebles escandinavos vintage —muchos de ellos comprados y también a la venta—, lo que le da al espacio un aire habitado y de mediados de siglo poco común en la escena de cafés de Tokio. Con una valoración de 4,3 sobre casi 3.750 reseñas, se ha convertido en un punto de referencia tanto para los obsesionados con el café como para los amantes de los cócteles.

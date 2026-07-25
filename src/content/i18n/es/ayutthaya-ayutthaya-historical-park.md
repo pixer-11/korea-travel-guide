@@ -17,8 +17,6 @@ faq:
     a: Sí, la mayoría de los recintos individuales de templos (como Wat Mahathat y Wat Chaiwatthanaram) cobran una pequeña tarifa de entrada por separado en lugar de un boleto único para todo el parque. Las tarifas y horarios cambian periódicamente, así que confirma la información localmente antes de visitar.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por editores, asistida por IA. Los datos provienen de información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Ayutthaya fue la capital siamesa durante más de 400 años (1350–1767) y, en su apogeo, rivalizaba en tamaño y riqueza con ciudades contemporáneas como París. Los ejércitos birmanos arrasaron la ciudad en 1767, dejando tras de sí los inquietantes chedis de ladrillo y estuco, estatuas de Buda decapitadas y columnas derribadas que hoy conforman el Parque Histórico de Ayutthaya, inscrito como Patrimonio de la Humanidad por la UNESCO en 1991. Es una de las zonas arqueológicas más fotogénicas e históricamente densas del sudeste asiático: las calificaciones verificadas de los visitantes le otorgan 4.8 estrellas, reflejo de lo mucho que impresiona incluso a quienes ya han visto Angkor o Bagan.

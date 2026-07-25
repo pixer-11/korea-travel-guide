@@ -17,8 +17,6 @@ faq:
     a: Busca cafés que promocionen sus propios granos tostados en casa, dada la reputación regional de Daegu como centro de tueste de café, además de clásicos del café coreano como los lattes de injeolmi (pastel de arroz) y el bingsu (hielo raspado) en verano.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Las imágenes tienen licencia o son de dominio público. Este es un resumen general de la zona/tema; verifica los detalles específicos de cada local antes de visitarlo. Consulta nuestra [política editorial](/about).
-
 ## Por qué destaca la escena de cafés de Daegu
 
 Daegu no recibe el protagonismo internacional de Seúl o Busan, pero ha construido silenciosamente una de las culturas de café más interesantes de Corea, en parte porque la ciudad tiene una auténtica herencia como tostadora de café —a menudo se la menciona como un centro de tostadores especializados— y en parte porque jóvenes emprendedores han convertido antiguos hanok, almacenes y edificios residenciales en cafés de diseño en lugar de locales de cadenas. El resultado es una escena que se siente más local y menos comercializada que el circuito de cafés "instagrameables" de Seúl, sin dejar de ofrecer los interiores cuidados y las bebidas/postres elaborados que definen la cultura del café "de moda" en Corea.

@@ -17,8 +17,6 @@ faq:
     a: El Corniche de Ajman, el Museo de Ajman (Ajman Museum) y el centro comercial Ajman City Centre están a poca distancia en auto y combinan bien con una parada para tomar café.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 The Seat Cafe se ha ganado silenciosamente una de las mejores reputaciones entre las cafeterías más nuevas de Ajman, y las cifras lo respaldan: una calificación de 4.7 con 873 reseñas es inusualmente alta para un café que todavía no se ha convertido en un punto turístico consolidado. Se encuentra en Al Heliow, una zona de Ajman que combina lo residencial con lo comercial y que rara vez aparece en los itinerarios de los visitantes, lo cual es precisamente lo que la convierte en un desvío que vale la pena si buscas una experiencia de café moderno sin las multitudes que encontrarías en la escena cafetera de Dubái, a una hora por la costa.

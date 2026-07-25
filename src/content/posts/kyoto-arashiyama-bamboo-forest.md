@@ -97,8 +97,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 This is one of Kyoto's most photographed sights for good reason: a narrow path cuts uphill through a dense stand of bamboo stalks that can reach 20 meters or more, filtering sunlight into a green-gold haze and rustling in even a light breeze. It's rated 4.4 from over 23,000 reviews, which reflects both the visual payoff and how consistently it delivers even when crowded. The grove sits in Sagaogurayama Tabuchiyamacho, Ukyo Ward, part of the wider Arashiyama district that has drawn visitors since the Heian period (794–1185), when aristocrats built villas here to escape the city.

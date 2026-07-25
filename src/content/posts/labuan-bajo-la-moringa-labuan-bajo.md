@@ -48,8 +48,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Labuan Bajo's dining scene has exploded alongside its status as the gateway to Komodo National Park, and La Moringa has become one of the town's most consistently praised addresses — a 4.9 rating from over 2,300 reviews is a rare number for any restaurant, anywhere. It sits in the mid-range price bracket, so it works equally well as a casual lunch stop between boat bookings or a proper sit-down dinner after a day on the water. The menu leans into a mix of Indonesian classics and Western comfort food, which suits the town's mixed crowd of domestic tourists, dive-trip groups, and international backpackers refueling before or after multi-day Komodo liveaboards.

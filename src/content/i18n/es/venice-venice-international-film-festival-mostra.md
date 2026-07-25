@@ -17,8 +17,6 @@ faq:
     a: El tramo intermedio de la primera semana del festival suele ser más tranquilo que el fin de semana de apertura o el fin de semana de clausura y premios, cuando se anuncia el León de Oro.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Las fechas de los eventos y las entradas cambian: confirma siempre en el sitio oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La Mostra es el festival de cine más antiguo del mundo, fundado en 1932, y sigue siendo uno de los "tres grandes" junto con Cannes y Berlín. A diferencia de Cannes, su sede no está en las islas venecianas principales, sino en el Lido, una estrecha isla de barrera a poca distancia en barco de San Marco. Para la edición de 2026 (2 al 12 de septiembre), Maggie Gyllenhaal preside el jurado que otorga el León de Oro, el máximo premio del festival. Más allá de la competición, se pueden esperar estrenos mundiales, proyecciones de gala y esa densidad de alfombra roja que convierte a un tranquilo pueblo costero en un corredor de paparazzi durante diez días.

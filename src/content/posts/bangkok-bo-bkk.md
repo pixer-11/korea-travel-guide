@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why Bo.bkk stands out
 
 Bangkok's café scene is dense with polished, Instagram-ready coffee shops, but Bo.bkk carves out a different niche: it's a hangout first and a café second. The people behind it also run Meep Meep Run Club, one of Bangkok's more visible community running crews, and that DNA shows in how the space functions. Rather than a quiet solo-work café, Bo.bkk leans into being a gathering point — a place where a weekend run ends with bagels and coffee rather than a place designed purely for photogenic lattes. For visitors who want a slice of how young, active, internationally-minded Bangkokians actually socialize, this is a more honest entry point than a rooftop bar or a mall food court.

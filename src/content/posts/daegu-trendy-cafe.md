@@ -29,8 +29,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting. See our [editorial policy](/about).
-
 ## Why Daegu's Cafe Scene Stands Out
 
 Daegu doesn't get the international spotlight Seoul or Busan do, but it has quietly built one of Korea's most interesting cafe cultures, partly because the city has a genuine coffee-roasting heritage — it's often cited as a hub for specialty roasters — and partly because young entrepreneurs have converted old hanok, warehouses, and residential buildings into design-forward cafes rather than chain outlets. The result is a scene that feels more local and less commercialized than Seoul's Instagram-cafe circuit, while still delivering the polished interiors and elaborate drinks/desserts that define "trendy" cafe culture in Korea.

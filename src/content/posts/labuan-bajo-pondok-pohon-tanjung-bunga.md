@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Pondok Pohon Tanjung Bunga is essentially a viewpoint-and-shelter setup built into the sloped, scrubby headland of Tanjung Bunga, the coastal cape just west of Labuan Bajo's harbor. The draw is simple: an elevated, tree-shaded perch looking down over the bay, the fishing boats and liveaboards anchored offshore, and the layered silhouettes of islands like Bidadari and Kanawa on the horizon. With a 4.8 rating across 185 reviews, it has quietly built a loyal following among travelers who want a Labuan Bajo sunset spot without the crowds and touts that gather at some of the more heavily marketed lookout points closer to the town center.

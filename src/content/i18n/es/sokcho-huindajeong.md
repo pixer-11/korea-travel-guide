@@ -17,8 +17,6 @@ faq:
     a: La Playa de Sokcho, el Lago Yeongnangho, el cruce en ferry del Pueblo Abai (Abai Village) y el Parque Nacional Seoraksan (a unos 20–30 minutos en coche) combinan muy bien con una parada aquí.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Sokcho se ha convertido en uno de los rincones costeros más fotografiados de Corea, gracias a la combinación de sus playas frente al Mar del Este, la cercanía del Parque Nacional Seoraksan y la ola de cafés y restaurantes de diseño que han abierto en sus vías costeras en los últimos años. Huindajeong (248 Subok-ro, Sokcho-si, Gangwon-do) forma parte de esa nueva generación de locales: un establecimiento con calificación de 4.3 y 336 reseñas que atrae tanto a viajeros de la región como a quienes vienen de Seúl a pasar el fin de semana en busca de una parada tranquila y con encanto entre los principales puntos de interés de la ciudad. No es un lugar histórico ni una institución de décadas; su atractivo es contemporáneo: arquitectura limpia, ventanales o terrazas frente al mar, y un menú pensado para esa experiencia relajada y fotogénica que se ha vuelto característica de Sokcho.

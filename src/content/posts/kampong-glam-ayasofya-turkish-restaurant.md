@@ -48,8 +48,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Ayasofya belongs on your Kampong Glam list
 
 Bussorah Street is one of Singapore's most photogenic strips — a low-rise row of restored shophouses running straight toward the golden dome of Masjid Sultan — and Ayasofya sits right in the middle of it at number 51. The restaurant has built a strong reputation locally and among visitors, holding a 4.8 rating across more than 4,500 reviews, which is an unusually high volume for a neighborhood restaurant. It specializes in Turkish staples: charcoal-grilled meats, pide (Turkish flatbread often described as "Turkish pizza"), lentil soup, and mezze plates like hummus and cacik. The setting does a lot of the work too — outdoor seating under string lights, with the street's minaret view as a backdrop, makes it as much a scene as a meal.

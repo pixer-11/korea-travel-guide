@@ -17,8 +17,6 @@ faq:
     a: Wat Phra Singh, Wat Chedi Luang y Thapae Gate están todos a poca distancia a pie, y el mercado nocturno de los domingos (Sunday Walking Street) pasa cerca si tu visita coincide con un domingo por la noche.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La Ciudad Vieja de Chiang Mai está repleta de cafés de guesthouses y puestos de pad thai para turistas, así que un restaurante con una calificación de 4.9 en casi 2,000 reseñas se destaca. Garden to Table Chiangmai ha construido su reputación exactamente sobre lo que promete su nombre: platos que se apoyan en ingredientes frescos, muchas veces de origen local, en lugar de la comida frita y muy condimentada que domina los menús para mochileros. El nivel de precio es económico (priceLevel 1), así que no se trata de una ocasión especial para "darse un gusto": es el tipo de lugar al que puedes ir dos veces en un mismo viaje sin pensarlo demasiado, y muchos visitantes lo hacen.

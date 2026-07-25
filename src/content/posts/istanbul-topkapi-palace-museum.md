@@ -81,8 +81,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Topkapi Palace was the administrative and residential heart of the Ottoman Empire from the 1460s, when Mehmed II began building it, until the mid-19th century, when sultans decamped to the newer Dolmabahçe Palace on the Bosphorus. What remains is less a single building than a walled complex of courtyards, kiosks, and pavilions overlooking the confluence of the Golden Horn, the Bosphorus, and the Sea of Marmara. Its rating (4.6 from well over 100,000 reviews) reflects both the scale of the site and the density of what's inside: the Imperial Treasury with the Topkapi Dagger and the 86-carat Spoonmaker's Diamond, relics attributed to the Prophet Muhammad in the Sacred Relics room, and the Harem, where the sultan's family and household actually lived.

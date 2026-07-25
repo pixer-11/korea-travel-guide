@@ -17,8 +17,6 @@ faq:
     a: No hay transporte público directo a Senaru; la mayoría de los visitantes contrata un coche privado o una moto desde Senggigi, el aeropuerto, o toma un bote hasta Bangsal y luego organiza el transporte restante, o se une a un tour organizado de día por la zona de Rinjani.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Sendang Gile es uno de los lugares naturales más fotografiados de Lombok, y su calificación (4.6 de más de 2,000 reseñas) refleja lo bien que cumple las expectativas: una amplia cortina de agua que cae en una piscina fresca, enmarcada por la selva tropical en la falda inferior del monte Rinjani. En realidad son dos cascadas en una sola excursión: la propia Sendang Gile, a poca distancia caminando desde la entrada, y Tiu Kelep, una cascada más alta y espectacular, otros 30–45 minutos valle arriba. La mayoría de los visitantes combina ambas en una excursión de medio día.

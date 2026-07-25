@@ -17,8 +17,6 @@ faq:
     a: Está dentro de Fukuoka Parco, a pasos del Centro Comercial Subterráneo de Tenjin (Tenchika) y de los grandes almacenes Iwataya; los puestos de comida callejera (yatai) junto al río en Nakasu quedan a poca distancia a pie o en taxi para continuar la noche con un recorrido gastronómico.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El gyukatsu —corte de res empanizado y frito, servido poco cocido y terminado al gusto en una piedra caliente sobre la mesa— es una de las tendencias más recientes de la comida reconfortante japonesa, y Motomura es una de las cadenas a las que se atribuye haberla popularizado a nivel nacional. Esta sucursal de Fukuoka Parco ha construido una reputación fuera de lo común incluso dentro de esa cadena: una calificación de 4.9 en casi 15,000 reseñas es inusual para cualquier restaurante, y más aún para uno ubicado en el piso de comidas de un centro comercial, lo cual indica un nivel de consistencia que vale la pena planificar como comida principal en lugar de descubrir por casualidad.

@@ -85,8 +85,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Lengkong Alit isn't chasing tourist traffic — it's a neighborhood family restaurant tucked into Jl. Lengkong Kecil No.60, in the Paledang area of Kecamatan Lengkong, south-central Bandung. With a 4.7 rating across 376 reviews, it's earned its reputation quietly, through repeat local diners rather than viral food-tour coverage. For visitors who've already covered Braga Street and the Asia-Africa corridor, this is the kind of stop that rewards curiosity: a genuine residential-street eatery rather than a curated "experience," in a part of the city that still feels lived-in.

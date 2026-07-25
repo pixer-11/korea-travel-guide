@@ -17,8 +17,6 @@ faq:
     a: El servicio de cena suele ofrecer la experiencia de menú más completa en este tipo de restaurante; el almuerzo puede tener un menú más corto o fijo. Confirma el horario actual antes de ir, ya que los pequeños restaurantes de Kioto suelen cerrar entre el servicio de comida y el de cena.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por editores, con ayuda de IA. Los datos provienen de la información en vivo de Google Places; las imágenes son de uso libre o con licencia. Consulta nuestra [política editorial](/about).
-
 ## Por qué destaca Yoichiba
 
 En una ciudad que no escasea en restaurantes que persiguen el tráfico turístico, una calificación de 4.8 sobre 421 reseñas es una señal significativa: ese volumen de reseñas sugiere consistencia a lo largo del tiempo, no un primer mes de suerte. Yoichiba se encuentra en el distrito de Nakagyo (Nakagyo Ward), el histórico núcleo comercial de Kioto que también alberga el mercado de Nishiki (Nishiki Market), la "cocina" cubierta de Kioto, y la zona de ambiente nocturno junto al río Kamo (Kamogawa). La dirección, 595-9 Uraderachō, lo sitúa en el entramado de callejones estrechos justo al lado de las principales calles comerciales, el tipo de ubicación que los vecinos conocen bien pero que no se anuncia con una fachada llamativa, algo típico de los mejores comedores pequeños de Kioto.

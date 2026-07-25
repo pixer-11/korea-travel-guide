@@ -17,8 +17,6 @@ faq:
     a: 'Sí: su casco antiguo se articula en torno a la Plaza de España, con la Colegiata de Santa María la Mayor y el Castillo de los Calatravos (parador), ambos a poca distancia a pie de la plaza principal.'
 ---
 
-> **Cómo se elaboró esta guía:** revisada por un editor, con asistencia de IA, utilizando fuentes web actuales. Las fechas del evento y las entradas cambian; confirma siempre en la web oficial. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 MotorLand Aragón es uno de los circuitos técnicamente más exigentes del calendario de MotoGP, un trazado de 5,077 km con 17 curvas, crestas ciegas y una larga recta trasera que premia el frenado y a los pilotos dispuestos a arriesgar. Desde que MotoGP corrió aquí por primera vez en 2010, el circuito se ha ganado entre los aficionados la reputación de ser "un circuito de pilotos": menos glamuroso que Barcelona o Jerez, pero una prueba genuina de habilidad. Para los visitantes, el atractivo es doble: carreras de primer nivel en tres categorías (MotoGP, Moto2 y Moto3) con una sola entrada, y la posibilidad de vivirlo en una localidad española compacta y sin pretensiones, que no se ha transformado en torno al turismo como han hecho otras ciudades sede de mayor tamaño.

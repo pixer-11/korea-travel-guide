@@ -17,8 +17,6 @@ faq:
     a: El resto de las calles de restaurantes y ocio de Susukino están a un paso, y en invierno el recinto del Festival de la Nieve de Sapporo queda a poca distancia de la zona, lo que facilita combinar un bol de ramen con una salida nocturna.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por editores, con ayuda de IA. Los datos proceden de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Ramen Yokocho, el callejón donde se encuentra Sapporo Ramen Haruka, es el lugar donde nació esencialmente la identidad del ramen de miso de la ciudad en la década de 1950, cuando un grupo de puestos empezó a servir caldo de miso con mantequilla y maíz a trabajadores y clientes nocturnos. Haruka se ha convertido en uno de los locales más destacados de esa hilera, con una calificación de 4.8 en más de 4,000 reseñas, una cifra notable para un local con apenas unos cuantos asientos en barra. El atractivo no está en la decoración (apenas la hay), sino en la concentración de sabor: un caldo a base de cerdo y verduras elaborado con miso fermentado, rematado con una porción de mantequilla que se derrite en la sopa justo en la mesa, además de fideos firmes y ligeramente rizados pensados para aguantar un caldo tan espeso. Las gyozas y la cerveza fría completan el menú, lo que lo convierte en una parada de cena en toda regla y no solo en un bol rápido.

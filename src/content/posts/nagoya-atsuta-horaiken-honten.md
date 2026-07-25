@@ -48,8 +48,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Hōraiken is credited with inventing hitsumabushi, Nagoya's signature eel dish, and the Atsuta honten (main shop) is the original location, operating in a traditional wooden building near Atsuta Jingu since the late 19th century. Unlike a standard unagi-don, hitsumabushi divides grilled eel and rice into four portions in a lacquered wooden tub (ohachi), so you eat it a different way each time — first plain, then with condiments like scallion, wasabi and nori, then with dashi poured over as a broth, and finally however you liked it best. With a 4.5 rating across roughly 7,650 reviews, it's one of the most consistently praised restaurants in the city, and it draws both locals marking special occasions and travelers making a specific pilgrimage for the dish.

@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Arabian Fish House sits directly on Al Hirah (also spelled Al Heera) Beach in Sharjah's Al Fisht/Alheera Suburb area, and its 4.9 rating across roughly 7,900 reviews puts it among the most consistently praised seafood spots in the emirate. It's a Seafood Restaurant in the straightforward sense: you pick your fish, it's weighed, grilled or fried to order, and served with rice, salads, and bread while you look out at the Gulf. The price level is moderate (level 2 out of 4), so it sits comfortably between a quick beachside snack stand and a formal fine-dining seafood house — the kind of place where a family or small group can eat well without a special-occasion budget.

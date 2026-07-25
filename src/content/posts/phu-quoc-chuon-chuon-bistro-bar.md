@@ -48,8 +48,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Phu Quoc's dining scene tends to split between beachfront seafood shacks and hotel restaurants, so a place like Chuồn Chuồn Bistro & Bar stands out for its design-forward atmosphere without feeling like it belongs to a resort chain. The name translates to "dragonfly," and the space leans into that theme with greenery, warm lighting, and open-air seating that feels more like a garden lounge than a standard restaurant. It's the kind of spot travelers pick for a slower evening — a few cocktails, shared plates, and enough ambient charm to justify lingering over a two-hour dinner rather than rushing through a meal.

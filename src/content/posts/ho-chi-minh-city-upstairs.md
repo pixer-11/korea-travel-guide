@@ -30,8 +30,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go. See our [editorial policy](/about).
-
 ## Why go
 
 Upstairs isn't chasing hype — it earned it. In the space of just 18 months, this compact tasting-menu restaurant went from newcomer to first-time MICHELIN Star holder in the 2026 guide, a rare and fast trajectory for Ho Chi Minh City's fine-dining scene. The kitchen builds its menu around central Vietnamese cuisine — the region famous for Hue's imperial-court dishes, Hoi An's market cooking, and a more assertive, complex flavor profile than the sweeter southern style most visitors encounter first. For travelers who've already worked through banh mi carts and pho stalls, Upstairs is the next chapter: a chance to see how a chef reframes those regional building blocks into a structured, multi-course narrative.

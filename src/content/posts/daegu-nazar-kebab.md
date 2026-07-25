@@ -45,8 +45,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Daegu's Dongseong-ro is the city's densest shopping and nightlife strip — a pedestrian corridor packed with fashion boutiques, cosmetics chains, street-food carts, and cafés. Amid all the Korean fried chicken and tteokbokki stalls, Nazar Kebab stands out simply because it's one of the few places downtown serving Turkish-style kebabs done well. With a 4.4 rating across 469 reviews, it's clearly earned a loyal following among both locals craving something different and foreign visitors homesick for familiar Middle Eastern flavors. It's the kind of place you duck into between shopping stops, not a formal dining destination — and that's exactly its appeal.

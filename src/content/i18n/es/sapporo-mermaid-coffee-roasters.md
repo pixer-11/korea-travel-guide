@@ -17,8 +17,6 @@ faq:
     a: Está a poca distancia a pie del callejón Ramen Yokocho de Susukino, del parque Odori (Odori Park) y de la Torre de Televisión de Sapporo (Sapporo TV Tower), lo que facilita incluirlo en un recorrido de medio día por el centro.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Mermaid Coffee Roasters se ha convertido silenciosamente en una de las direcciones de café más comentadas de Sapporo, y las cifras lo respaldan: un promedio de 4.8 estrellas en más de 1,500 reseñas es algo poco común para cualquier cafetería, y más aún para una escondida en una manzana de tamaño mediano en el distrito de Chuo (Chuo Ward). No se trata de una cadena masiva, sino de una operación liderada por el propio tostador, donde los granos se seleccionan, tuestan y preparan con el tipo de atención obsesiva por la que los amantes del café de especialidad están dispuestos a viajar. Si te importa saber de dónde viene tu taza, o simplemente quieres ver cómo es una cafetería japonesa genuinamente de moda y con conciencia de diseño fuera de Tokio, este es un desvío que vale la pena.

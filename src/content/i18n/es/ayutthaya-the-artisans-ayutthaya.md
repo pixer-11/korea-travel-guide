@@ -17,8 +17,6 @@ faq:
     a: Con más de 2,000 reseñas y una calificación de 4.9, es popular tanto entre locales como entre turistas, por lo que se recomienda reservar con antelación o llegar temprano los fines de semana.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes están licenciadas o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La escena gastronómica de Ayutthaya se basa principalmente en puestos rápidos de fideos y locales de mariscos junto al río cerca de las ruinas, así que un lugar como The Artisans Ayutthaya destaca por sí solo. Se ha ganado una reputación inusualmente sólida —una calificación de 4.9 en más de 2,000 reseñas— por combinar un espacio cuidadosamente diseñado con un menú que mezcla sabores tailandeses con platos de estilo café occidental. No es tanto una parada para "comer rápido un bol de fideos en barco" sino un destino en sí mismo, el tipo de lugar que merece una hora o dos dedicadas en tu itinerario en lugar de encajarlo entre visitas a templos.

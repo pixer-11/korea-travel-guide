@@ -17,8 +17,6 @@ faq:
     a: 난징루 보행자 거리(Nanjing Road Pedestrian Street)가 와이탄과 바로 연결되며, 위위안 정원(Yuyuan Garden)과 청황묘(Old City God Temple) 일대는 남쪽으로 택시로 짧게 이동하면 갈 수 있습니다.
 ---
 
-> **이 가이드는 이렇게 만들어졌습니다:** 편집자 검수, AI 보조 작성. 사실 정보는 실시간 구글 플레이스(Google Places) 데이터에서 가져왔으며, 이미지는 라이선스 또는 퍼블릭 도메인입니다. 자세한 내용은 [편집 정책](/about)을 참고하세요.
-
 ## 가볼 만한 이유
 
 와이탄(Waitan, The Bund)은 상하이를 대표하는 강변 지역으로, 황푸구(Huangpu District) 중산둥이로(Zhongshan Dong Yi Road)를 따라 1,500미터 이어지는 산책로입니다. 이곳의 명성은 극명한 대비에서 나옵니다: 서쪽에는 고딕, 바로크, 로마네스크, 아르데코 양식이 어우러진 20세기 초 건물 20여 채가 늘어서 있는데, 이는 상하이가 조약항이자 국제 금융 허브였던 시절의 흔적입니다. 황푸강(Huangpu River) 건너 동쪽으로는 푸동(Pudong)의 스카이라인이 솟아 있습니다: 동방명주탑(Oriental Pearl Tower), 진마오타워(Jin Mao Tower), 상하이 국제금융센터(Shanghai World Financial Center, 일명 "병따개"), 그리고 현재 세계 최고층 건물 중 하나인 상하이타워(Shanghai Tower)까지. 도시의 변천사를 이렇게 한눈에 담을 수 있는 곳은 흔치 않습니다.

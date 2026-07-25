@@ -17,8 +17,6 @@ faq:
     a: La Sun Wheel de Ha Long está justo al lado, y el paseo marítimo de Bãi Cháy lleva hacia los muelles desde donde zarpan muchos cruceros por la bahía y excursiones en barco al pueblo flotante de Cua Van.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué destaca Chill Beach Bar
 
 La oferta gastronómica de la ciudad de Ha Long está dominada por los bufés de hotel y los menús fijos de los barcos turísticos, así que un bar de playa genuino con su propio tramo de arena es una rareza. Chill Beach Bar - Hạ Long se ha ganado una reputación inusualmente sólida dentro de esta categoría — una calificación de 4.9 en más de 4,200 reseñas es una señal seria para una ciudad de este tamaño, y apunta a la constancia más que a un golpe de suerte viral. El atractivo no está en la complejidad culinaria, sino en la combinación de acceso directo a la playa de Bãi Cháy, vistas despejadas hacia las islas kársticas, y un ambiente relajado y sin prisas difícil de encontrar en otro lugar de esta costa.

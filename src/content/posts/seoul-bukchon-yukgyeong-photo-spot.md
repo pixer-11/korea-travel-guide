@@ -46,8 +46,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Bukchon Hanok Village is one of Seoul's last intact clusters of traditional *hanok* houses, and the "Yukgyeong" (six scenic views) is the city's unofficial answer to Instagram-famous urban photo trails. Unlike a folk village built for tourists, this is a living neighborhood — around 900 hanok still house real residents — wedged into the hills between Gyeongbokgung and Changdeokgung palaces. The six numbered viewpoints guide you past sloped tile roofs, granite retaining walls, and alley perspectives that line up perfectly with the N Seoul Tower on Namsan in the background. View 6, near the address 31-48 Gahoe-dong, is the postcard shot: a steep, curving stone lane bordered by dark tiled eaves on both sides, with almost no modern signage in frame. It's earned a 4.6 rating across nearly 1,300 reviews, largely from visitors chasing that exact photo.

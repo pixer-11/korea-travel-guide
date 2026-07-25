@@ -71,8 +71,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Chiang Mai's old city is stacked with temples and night markets, but Hidden Village Chiang Mai offers something different: a sprawling, jungle-themed compound of wooden walkways, thatched huts, hanging bridges, and staged photo corners built around a working café. It's the kind of place locals share on social media rather than something printed in old-school guidebooks — hence the "hidden" in the name, even though it now pulls a steady stream of visitors (over 2,400 reviews and a solid 4.2 rating attest to its popularity). Go for the atmosphere and the pictures, not for deep cultural insight; it's a relaxed half-day add-on rather than a must-see monument.

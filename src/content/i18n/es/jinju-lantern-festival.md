@@ -17,8 +17,6 @@ faq:
     a: Combina el festival con un paseo por el Gran Pabellón de Yeongnam (Yeongnam Grand Pavilion) y el santuario de Nongae dentro de la fortaleza de Jinjuseong, una comida a base de bibimbap o naengmyeon al estilo de Jinju, y una parada en la zona comercial de Jungangno o el Mercado de Pescado de Jinju (Jinju Fish Market) para completar el día en la ciudad.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Las imágenes tienen licencia o son de dominio público. Este es un resumen general del área/tema — verifica los detalles concretos del lugar antes de tu visita. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 El Festival de los Faroles Namgang Yudeung de Jinju es uno de los festivales de luces más emblemáticos de Corea, construido en torno a un episodio histórico genuinamente conmovedor y no a un espectáculo artificial. Los faroles flotantes del río Namgang conmemoran el Sitio de Jinju de 1592-93 durante la Guerra de Imjin, cuando los defensores y civiles, según se cuenta, usaron faroles encendidos sobre el río para comunicarse a través del agua y pedir refuerzos. Esa capa histórica —miles de faroles de papel y seda a la deriva junto a las murallas de piedra de la fortaleza de Jinjuseong— da al festival una solemnidad que lo distingue de otros eventos de faroles puramente decorativos en Asia. Grandes esculturas de faroles (animales del zodíaco, personajes históricos, escenas folclóricas) bordean las orillas del río y el recinto de la fortaleza, y los reflejos en el agua prácticamente duplican el efecto visual una vez cae la noche.

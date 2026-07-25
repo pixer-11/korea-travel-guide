@@ -17,8 +17,6 @@ faq:
     a: La propina no es obligatoria en Italia; es posible que el servicio ya esté incluido. Es habitual, aunque no imprescindible, dejar una pequeña cantidad extra por un servicio destacado.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Los horarios y detalles cambian — confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Nomos Ante se ha convertido en uno de los nombres a los que la escena gastronómica de Roma no deja de volver desde que abrió como parte del nuevo Nomos Hotel. El atractivo es el chef Giulio Luigi Zoli, un romano de 35 años que ha creado un menú degustación centrado en la técnica que está generando el tipo de expectación que normalmente se reserva a restaurantes con años de trayectoria. Para quienes quieran tomarle el pulso a hacia dónde se dirige ahora la conversación de la alta cocina contemporánea en Roma, en lugar de comer otro plato de carbonara clásica, este es un lugar que conviene tener en el radar. Es el tipo de apertura que los críticos gastronómicos señalan como un indicio de tendencia — chef joven, respaldo hotelero, un menú construido en torno a la técnica más que a la nostalgia — y esa combinación merece vivirse mientras sigue siendo noticia reciente y no una institución consolidada.

@@ -17,8 +17,6 @@ faq:
     a: 'Sí: el Parque Jayu (el primer parque de estilo occidental de Corea), las coloridas calles del Barrio Chino y los murales en la ladera del Pueblo de Cuentos de Hadas de Songwol-dong están todos a poca distancia a pie.'
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Las imágenes tienen licencia o son de dominio público. Este es un panorama general de la zona/tema — verifica los detalles específicos de cada lugar antes de visitarlo. Consulta nuestra [política editorial](/about).
-
 ## Por qué la escena gastronómica local de Incheon es única
 
 Incheon no es una versión en miniatura de la escena gastronómica de Seúl: tiene su propia identidad culinaria, moldeada por su historia como el primer puerto internacional moderno de Corea. Aquí fue donde inmigrantes chinos inventaron el jajangmyeon (fideos con salsa de frijol negro) a finales del siglo XIX, y donde la cultura de comida callejera de posguerra echó raíces en mercados que alimentaban a estibadores y obreros de fábrica. Comer aquí significa saborear esa historia en capas, no solo perseguir un restaurante de moda.

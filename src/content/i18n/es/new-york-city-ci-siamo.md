@@ -17,8 +17,6 @@ faq:
     a: Combina tu comida con un paseo por las tiendas y la plaza pública de Hudson Yards, o continúa hacia el High Line, que pasa a solo unas cuadras.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Los horarios y detalles cambian; confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué Ci Siamo importa justo ahora
 
 Ci Siamo no es una institución histórica, sino una incorporación más reciente al portafolio de Union Square Hospitality Group de Danny Meyer, el mismo equipo detrás de Union Square Cafe, Gramercy Tavern y Shake Shack. Lo que lo ha puesto en el radar de todos los viajeros en 2026 es un solo reconocimiento: quedó en el puesto n.º 1 de la lista Top 100 Places to Eat in the U.S. de Yelp, un ranking que se basa en millones de reseñas de todo el país. Que un restaurante de Nueva York encabece una lista nacional, en lugar de aparecer solo en un listado local de "los mejores italianos de NYC", es poco común, y por eso Ci Siamo pasó de ser un "lugar de barrio bien valorado" a convertirse en "la reserva alrededor de la cual se planea un viaje".

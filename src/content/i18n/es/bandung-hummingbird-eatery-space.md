@@ -17,8 +17,6 @@ faq:
     a: Prueba un clásico indonesio como el nasi goreng o el rendang junto con un crepe y un jugo natural para tener una idea de toda la variedad de la carta en una sola visita.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Jl. Progo es una de las pequeñas "calles patrimoniales" arboladas de Bandung, en Citarum, un rincón residencial a pocos minutos del centro de la ciudad conocido por sus casas de la época colonial convertidas en cafés y boutiques. Hummingbird Eatery & Space encaja perfectamente en ese molde: un bungaló restaurado con un patio ajardinado, asientos interiores y una carta pensada para agradar a un público variado, donde el nasi goreng y el rendang conviven con pasta, hamburguesas, crepes y jugos prensados en frío. Actualmente es uno de los restaurantes con más reseñas de la ciudad (casi 13,000 reseñas y un promedio de 4.7), lo cual indica dos cosas: la comida y el ambiente son consistentemente buenos, y hay que esperar compañía, especialmente los fines de semana.

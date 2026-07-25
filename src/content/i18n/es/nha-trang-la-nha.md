@@ -17,8 +17,6 @@ faq:
     a: El malecón de la playa de Trần Phú y el mercado nocturno de Nha Trang (Nha Trang Night Market) están a poca distancia caminando o en auto desde Hồng Bàng, lo que facilita combinar la cena con un paseo nocturno por la playa o una visita al mercado.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué destaca Là Nhà
 
 Nha Trang no tiene escasez de restaurantes de mariscos en busca de los dólares de los turistas, pero Là Nhà ("Como en casa" en vietnamita) ha construido su reputación casi por completo gracias a clientes locales y visitantes que regresan una y otra vez, más que por la captación en la calle. Un promedio de 4.8 estrellas en más de 7,400 reseñas es una puntuación inusualmente alta y consistente para un restaurante de su tamaño, y es señal de una cocina que rinde bien noche tras noche, y no de uno que tuvo suerte con unas cuantas buenas reseñas. El nombre ya adelanta el concepto: comida vietnamita casera, servida en porciones generosas pensadas para compartir, en un ambiente informal más que formal.

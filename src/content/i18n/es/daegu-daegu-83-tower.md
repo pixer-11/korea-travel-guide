@@ -17,8 +17,6 @@ faq:
     a: El Parque Duryu (Duryu Park) rodea la torre e incluye una fuente musical, senderos para caminar, festivales de flores de temporada y el parque de atracciones E-World justo al lado, conocido por sus espectáculos nocturnos de luces LED.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La Torre Daegu 83 (Daegu 83 Tower) es lo más parecido que tiene la ciudad a un símbolo del skyline: una torre de radio y observación de 83 pisos (el nombre es un juego de palabras con su número de plantas) coronada por un mirador de forma octogonal muy característico. Se erige en el Parque Duryu (Duryu Park), uno de los espacios verdes más grandes de Daegu, y ofrece a los visitantes una vista de 360 grados de la ciudad rodeada de montañas como el Palgongsan y el Biseulsan. Con una calificación de 4.4 sobre más de 5,000 reseñas, es una parada muy apreciada tanto por quienes visitan la ciudad por primera vez como por los propios habitantes de Daegu, que suelen traer aquí a sus visitas de fuera precisamente por las vistas.

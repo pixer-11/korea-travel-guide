@@ -17,8 +17,6 @@ faq:
     a: El propio ION Orchard para ir de compras y comer, las shophouses conservadas de Emerald Hill a poca distancia a pie, y los Jardines Botánicos de Singapur (Singapore Botanic Gardens) un poco más allá por Orchard Road/Napier Road.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 ION Sky se ubica en lo alto de ION Orchard, el complejo comercial de vidrio y acero que marca el cruce de Orchard Road y Paterson Road, justo encima de la estación de MRT Orchard. A 56 pisos de altura, es uno de los pocos miradores del centro de Singapur desde donde se puede ver, por un lado, el cañón comercial de Orchard Road y, por otro, la extensión verde de los Jardines Botánicos de Singapur (Singapore Botanic Gardens) y el perfil urbano del Distrito Central de Negocios (Central Business District), todo sin salir de la zona comercial. Con una calificación de 4.6 en más de 3,000 reseñas, se ha convertido en una de las atracciones mejor valoradas de forma constante en la zona: no es un hallazgo escondido, sino un valor seguro.

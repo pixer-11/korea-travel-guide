@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The Plateau de Valensole, in the Alpes-de-Haute-Provence department, is the largest lavender-growing area in Provence and one of the few places where lavender and sunflower fields bloom in overlapping windows, giving photographers a rare double palette of violet and gold in the same landscape. The specific field referenced here sits on an unnamed rural road outside Valensole (postal code 04210) and has earned a strong 4.6 rating from 161 reviewers, reflecting its reputation among visitors as one of the more reliable and photogenic spots on the plateau. Unlike the fenced, ticketed lavender museums near Sault or Gordes, this is open farmland — genuinely working agricultural land, not a tourist attraction built for visitors, which is part of its appeal and also why etiquette matters here.

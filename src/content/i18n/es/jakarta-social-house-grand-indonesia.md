@@ -17,8 +17,6 @@ faq:
     a: El almuerzo entre semana alrededor del mediodía o una cena temprana antes de las 6:30pm suele ser más tranquilo que las noches de fin de semana, cuando el lugar también funciona como wine bar después del trabajo.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Social House construyó su reputación haciendo bien dos cosas a la vez: una seria carta de vinos con 300 etiquetas y un menú internacional cargado de comfort food que va desde pastas y hamburguesas hasta pequeños platos de inspiración asiática. El diseño apuesta por una atmósfera "asri" (exuberante, tipo jardín) — piensa en muros de plantas, madera cálida y una sensación de terraza semi-al aire libre, a pesar de estar dentro de un mall — lo que en parte explica por qué se percibe más como un restaurante lifestyle independiente que como una parada típica de food court. Con una calificación de 4.8 en más de 8.000 reseñas, es uno de los restaurantes de mesa mejor valorados de forma constante dentro de Grand Indonesia, un mall que por lo demás se inclina hacia opciones fast casual y food courts.

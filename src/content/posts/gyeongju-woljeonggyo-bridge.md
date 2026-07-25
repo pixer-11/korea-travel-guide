@@ -67,8 +67,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Go
 
 Woljeonggyo is one of Gyeongju's most photogenic reconstructions — a covered wooden bridge with twin pavilion towers on each end, rebuilt to evoke how it would have looked during the Unified Silla period (roughly 8th century), when it served as a crossing for royalty near the palace grounds of Wolseong. The original bridge was destroyed centuries ago, and archaeologists confirmed its location and scale through excavation before the current structure was completed in 2018. What makes it worth the trip today isn't just the history — it's the design. The bridge is elevated on stone piers, roofed in dark tile, and painted in Silla-style dancheong colors, and at night it's illuminated and mirrored in the still water of the Namcheon, creating one of the most reliably beautiful reflection shots in the city.

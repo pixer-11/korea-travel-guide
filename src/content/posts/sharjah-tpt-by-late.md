@@ -48,8 +48,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 TPT by Late has built one of the strongest reputations among Sharjah's newer café crop, holding a 4.9 rating across more than 7,600 reviews — a volume that signals sustained, genuine popularity rather than a fleeting trend. It sits in the Misk development in Muwaileh Commercial, an area that has quietly become one of Sharjah's go-to zones for contemporary cafés and casual dining, drawing crowds from both Sharjah and neighboring Dubai. The "trendy" tag fits: expect considered interiors, a photogenic plating style, and a menu built for lingering over coffee rather than grabbing a quick bite and leaving.

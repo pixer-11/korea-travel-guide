@@ -32,8 +32,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site. See our [editorial policy](/about).
-
 ## Why this show matters
 
 Bruno Mars has spent nearly two decades turning stadiums into dance floors, and The Romantic Tour is his latest victory lap, arriving on the heels of collaborative smashes "Die with a Smile" (with Lady Gaga) and "APT." (with Rosé). A multi-Grammy winner known for live horn sections, retro choreography, and genuine vocal range, Mars rarely tours without delivering a full-band spectacle rather than a backing-track set. A run of shows spanning August 21–26, 2026 at MetLife Stadium suggests high demand across the New York/New Jersey market, so this isn't a single-night event you can leave to chance.

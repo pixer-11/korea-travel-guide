@@ -93,8 +93,6 @@ draft: false
 updatedDate: '2026-07-24'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Chinatown Complex is not a polished food hall—it's a working wet market with a sprawling hawker centre stacked above it, and that's exactly the appeal. With hundreds of stalls spread across the second floor, it's widely regarded as Singapore's biggest hawker centre, and its 4.2 rating from nearly 9,000 reviews reflects sheer density of good, cheap options rather than any single showstopper. This is where you eat like the neighborhood does: fast, plastic stools, one dish at a time.

@@ -17,8 +17,6 @@ faq:
     a: Lo ideal es llegar justo a la apertura o durante la calma de media tarde entre el almuerzo y la cena; en las horas pico (12-1:30pm y 6:30-8pm) puede haber una pequeña espera dada su popularidad.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué Maison Trang destaca
 
 La reputación culinaria de Hue se basa en su comida callejera de la era imperial: platos que alguna vez se refinaron en las cocinas de la corte Nguyễn y que hoy se venden en casi cualquier esquina. Maison Trang se ha convertido en uno de los lugares más elogiados de forma constante para probar esta cocina en una sola sentada, sin arriesgarse con un puesto callejero al azar. Una calificación de 4.8 basada en más de 4,300 reseñas es inusualmente alta para un restaurante de cualquier tamaño, y más aún para uno con un nivel de precio económico (priceLevel 1), lo que indica que tanto los locales como los visitantes recurrentes —no solo los grupos turísticos— siguen volviendo.

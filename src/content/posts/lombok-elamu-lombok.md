@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Lombok's Kuta district is dense with warungs serving nasi campur and grilled fish, so a Greek restaurant standing out with a 4.8 rating across more than 2,400 reviews is worth noting. Elamu Lombok has become a fixture for travelers craving a break from Indonesian staples — moussaka, souvlaki, tzatziki, grilled halloumi, and generous Mediterranean mezze spreads served in an open-air, plant-filled dining room typical of Lombok's beach-town architecture. It's the kind of place that works equally well for a lazy lunch after surfing at Kuta or Mawun, or a proper sit-down dinner to end a long day of beach-hopping.

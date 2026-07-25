@@ -29,8 +29,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting. See our [editorial policy](/about).
-
 ## Why go
 
 Incheon's Chinatown is the oldest and largest Chinese enclave in Korea, established in the 1880s after the port opened to foreign trade and Qing-dynasty merchants settled here. It's also widely credited as the birthplace of jajangmyeon, the sweet-savory black bean noodle dish now considered Korean comfort food rather than Chinese import. Unlike the polished Chinatowns of other world cities, Incheon's version is small, slightly worn, and genuinely historic rather than built purely for tourists — the streets still follow the original 19th-century foreign concession layout, with Qing, Japanese, and Western-style buildings sitting within a few blocks of each other.

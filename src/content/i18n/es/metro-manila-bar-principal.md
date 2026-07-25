@@ -17,8 +17,6 @@ faq:
     a: Las noches entre semana (miércoles o jueves) suelen ser más tranquilas, mientras que las noches de viernes y sábado desde aproximadamente las 10 p.m. atraen a las mayores multitudes. Confirma el horario actual antes de ir, ya que podría seguir ajustándose por tratarse de un local nuevo.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, asistida por IA, usando fuentes web actuales. Los horarios y detalles cambian; confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué Bar Principal destaca
 
 La escena de coctelería de Manila no tiene escasez de speakeasies ni de lounges en azoteas, pero Bar Principal se abre un espacio propio al apostar por una conexión genuinamente poco explorada: Filipinas y Cuba fueron ambas colonias españolas gobernadas durante siglos a través de las mismas redes de comercio transpacífico, y su cultura de bar comparte más ADN del que la mayoría de los bebedores imagina. La jugada característica del bar es un daiquiri elaborado con ron, lambanog (aguardiente filipino de coco), miel y calamansi: un trago que juega con la plantilla clásica cubana usando ingredientes claramente filipinos. Es una idea inteligente y específica, no un vago pretexto de "fusión", y esa es la razón por la que el bar ha ido ganando popularidad entre los aficionados a la coctelería de Manila.

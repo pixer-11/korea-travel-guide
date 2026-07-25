@@ -17,8 +17,6 @@ faq:
     a: La playa de Tanjung Aan está justo al pie de la colina, ideal para nadar y con puestos de comida, y los cafés de Kuta Lombok, sus spots de surf y las olas de Gerupuk quedan a un corto trayecto en coche.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 Bukit Merese ("colina Merese") es una colina baja y redondeada cubierta de hierba corta, ubicada en la carretera costera entre Kuta Lombok y la playa de Tanjung Aan, en Kabupaten Lombok Tengah (Lombok Central). Se ha convertido en uno de los miradores más fotografiados del sur de Lombok, y la razón es sencilla: desde la cima se obtiene un panorama amplio y sin obstáculos de bahías color turquesa, calas de arena blanca y colinas verdes escalonadas que se extienden hacia Tanjung Aan y más allá. Con una calificación de 4.7 y casi 9,000 reseñas, es un punto firmemente establecido en el circuito turístico habitual de Lombok, no un lugar secreto: hay que esperar la presencia de otros visitantes, sobre todo a la hora dorada.

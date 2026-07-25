@@ -17,8 +17,6 @@ faq:
     a: Si el formato sigue una progresión de degustación a través de sus ingredientes principales, planea al menos entre 90 minutos y dos horas para disfrutar la comida sin prisas.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA, usando fuentes web actuales. Los horarios y detalles cambian — confirma antes de ir. Consulta nuestra [política editorial](/about).
-
 ## Por qué ir
 
 La escena gastronómica de Bangkok cambia constantemente, pero Khao San Sek se ha destacado del resto lo suficientemente rápido como para llamar la atención de BK Magazine, que lo nombró la apertura nueva más interesante en su lista Top Tables 2026. La premisa es engañosamente simple: en lugar de perseguir tendencias de fusión, la chef Pam construye el menú en torno a cinco ingredientes que ya definen la cocina tailandesa a nivel doméstico —arroz, chile, coco, salsa de pescado y azúcar de palma—. Los críticos que lo describen como una "clase magistral" sugieren una cocina más interesada en la técnica y el equilibrio que en el espectáculo, lo cual es un cambio notable en una ciudad donde los platos vistosos suelen acaparar los titulares. Para los visitantes que quieren entender la comida tailandesa desde sus raíces en lugar de una versión orientada al turismo, esta se perfila como una de las mesas más instructivas de la ciudad en este momento.
