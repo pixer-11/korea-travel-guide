@@ -14,6 +14,9 @@ import { selfHostPlacePhoto } from './lib/images.mjs';
 
 const POSTS_DIR = join(dirname(fileURLToPath(import.meta.url)), '..', 'src', 'content', 'posts');
 const LIMIT = Number(process.env.PHOTO_LIMIT || 0) || Infinity; // cap posts per run
+// SLUGS env (comma-separated) → process ONLY these posts. Lets a quota-limited run
+// spend the whole day's allowance on known-bad heroes first, before the rest.
+const ONLY = new Set((process.env.SLUGS || '').split(',').map((s) => s.trim()).filter(Boolean));
 
 const placeId = (src) => (src.match(/\n {2}id:\s*"?([^"\n]+?)"?\s*$/m) || [])[1]?.trim() || null;
 const heroUrl = (src) => (src.match(/heroImage:\r?\n {2}url:\s*"?([^"\n]+?)"?\s*$/m) || [])[1]?.trim() || '';
@@ -30,7 +33,9 @@ async function usedUrls() {
 
 const used = await usedUrls();
 let done = 0, already = 0, noplace = 0, failed = 0;
-for (const f of (await readdir(POSTS_DIR)).filter((x) => x.endsWith('.md'))) {
+let files = (await readdir(POSTS_DIR)).filter((x) => x.endsWith('.md'));
+if (ONLY.size) files = files.filter((f) => ONLY.has(f.replace(/\.md$/, '')));
+for (const f of files) {
   if (done >= LIMIT) break;
   const path = join(POSTS_DIR, f);
   const src = await readFile(path, 'utf8');

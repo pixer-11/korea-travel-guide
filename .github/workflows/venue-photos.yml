@@ -17,6 +17,10 @@ on:
         description: 'Max posts to photo this run (0 = no cap; stops on quota)'
         required: false
         default: '0'
+      slugs:
+        description: 'Comma-separated post slugs to process ONLY (priority run; blank = all)'
+        required: false
+        default: ''
 
 permissions:
   contents: write
@@ -41,6 +45,7 @@ jobs:
           # so this job can use the whole daily Places allowance. Stops cleanly on
           # 429 and resumes next day. Restore a cap (e.g. 25) once caught up.
           PHOTO_LIMIT: ${{ github.event.inputs.limit || '0' }}
+          SLUGS: ${{ github.event.inputs.slugs || '' }}
         run: node scripts/backfill-venue-photos.mjs
 
       - name: Build hero photo-wall thumbnails
