@@ -280,6 +280,43 @@ h1, h2, h3, h4 {
   .nav-dd-menu::before { display: none; }
   .nav-dd-menu a { padding-left: 1.2rem; }
   #nav-toggle:checked ~ .nav { transform: translateY(0); }
+
+  /* ---- Mobile drill-down menu ----
+     Level 1 = top items, 2 = continents, 3 = the chosen continent's countries.
+     The flat list was far taller than the screen; stepping down keeps each screen
+     short. Desktop is unaffected (these rules live inside the mobile media query,
+     and .nav only carries data-level for JS). */
+  .nav-drill { display: none; width: 100%; align-items: center; justify-content: space-between; gap: 0.5rem; font: inherit; font-size: 1rem; text-align: left; padding: 0.75rem 0.5rem; background: none; border: none; border-bottom: 1px solid var(--line-soft); color: var(--ink); cursor: pointer; }
+  .nav-drill span { color: var(--muted); font-size: 1.15rem; line-height: 1; }
+  .nav-back { display: none; align-items: center; gap: 0.4rem; font: inherit; font-size: 0.9rem; font-weight: 600; color: var(--muted); background: none; border: none; padding: 0.6rem 0.5rem; cursor: pointer; }
+  .nav[data-level="1"] .nav-back { display: none; }
+  .nav[data-level="2"] .nav-back, .nav[data-level="3"] .nav-back { display: inline-flex; }
+
+  /* Level 1 — only the top items; the destinations dropdown collapses to a button */
+  .nav[data-level="1"] .dest-dd .nav-dd-toggle { display: none; }
+  .nav[data-level="1"] .dest-dd .nav-drill[data-to="2"] { display: flex; }
+  .nav[data-level="1"] .dest-dd .nav-dd-menu { display: none; }
+
+  /* Level 2 — continents only: hide the other top items and the country lists */
+  .nav[data-level="2"] > a,
+  .nav[data-level="3"] > a,
+  .nav[data-level="2"] .lang-switch,
+  .nav[data-level="3"] .lang-switch { display: none; }
+  .nav[data-level="2"] .dest-dd .nav-dd-toggle,
+  .nav[data-level="3"] .dest-dd .nav-dd-toggle { display: none; }
+  .nav[data-level="2"] .dest-dd .nav-drill[data-to="2"] { display: none; }
+  .nav[data-level="2"] .dest-dd .nav-dd-menu { display: block; }
+  .nav[data-level="2"] .nav-cont .nav-dd-head-link { display: none; }
+  .nav[data-level="2"] .nav-cont .nav-drill[data-to="3"] { display: flex; }
+  .nav[data-level="2"] .nav-cont-list { display: none; }
+
+  /* Level 3 — the chosen continent's countries, plus a link to that continent hub */
+  .nav[data-level="3"] .dest-dd .nav-drill { display: none; }
+  .nav[data-level="3"] .dest-dd .nav-dd-menu { display: block; }
+  .nav[data-level="3"] .nav-cont { display: none; }
+  .nav[data-level="3"] .nav-cont.open { display: block; }
+  .nav[data-level="3"] .nav-cont.open .nav-dd-head-link { display: block; }
+  .nav[data-level="3"] .nav-cont.open .nav-cont-list { display: block; }
   .menu-toggle {
     display: inline-flex;
     cursor: pointer;

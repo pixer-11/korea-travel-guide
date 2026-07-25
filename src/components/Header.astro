@@ -35,17 +35,32 @@ const navGroups = CONT_ORDER
       </svg>
     </label>
 
-    <nav class="nav">
-      <div class="nav-dd">
+    <nav class="nav" data-level="1">
+      {/* Mobile drill-down header. On phones the flat list ran far past the fold,
+          so the menu steps down: top level → continents → that continent's
+          countries. Desktop ignores all of this and keeps the hover dropdown. */}
+      <button type="button" class="nav-back" hidden>
+        <span aria-hidden="true">←</span> <span class="nav-back-label"></span>
+      </button>
+
+      <div class="nav-dd dest-dd">
         <a href={localizePath('/destinations', lang)} class="nav-dd-toggle">{t('nav.destinations')} ▾</a>
+        <button type="button" class="nav-drill" data-to="2">
+          {t('nav.destinations')} <span aria-hidden="true">›</span>
+        </button>
         <div class="nav-dd-menu">
           {navGroups.map((g) => (
-            <>
+            <div class="nav-cont" data-cont={g.slug}>
               <a class="nav-dd-head nav-dd-head-link" href={localizePath(`/continents/${g.slug}`, lang)}>{t(`continent.${g.name}` as any)} →</a>
-              {g.countries.map((c) => (
-                <a href={localizePath(`/destinations/${c.slug}`, lang)}><Flag code={c.iso2} class="flag-ico" /> {localizePlace(c.name, lang)}</a>
-              ))}
-            </>
+              <button type="button" class="nav-drill" data-to="3" data-cont={g.slug} data-label={t(`continent.${g.name}` as any)}>
+                {t(`continent.${g.name}` as any)} <span aria-hidden="true">›</span>
+              </button>
+              <div class="nav-cont-list">
+                {g.countries.map((c) => (
+                  <a href={localizePath(`/destinations/${c.slug}`, lang)}><Flag code={c.iso2} class="flag-ico" /> {localizePlace(c.name, lang)}</a>
+                ))}
+              </div>
+            </div>
           ))}
           <a href={localizePath('/destinations', lang)} class="nav-dd-all">{t('nav.allDestinations')} →</a>
         </div>
@@ -58,3 +73,41 @@ const navGroups = CONT_ORDER
     </nav>
   </div>
 </header>
+
+<script>
+  // Mobile-only drill-down. Levels: 1 = top menu, 2 = continents, 3 = countries of
+  // the chosen continent. Desktop never changes level (the CSS only reacts to
+  // data-level below 820px), so the hover dropdown is untouched.
+  (() => {
+    const nav = document.querySelector('.nav');
+    const toggle = document.getElementById('nav-toggle') as HTMLInputElement | null;
+    if (!nav) return;
+    const back = nav.querySelector('.nav-back') as HTMLButtonElement | null;
+    const backLabel = nav.querySelector('.nav-back-label') as HTMLElement | null;
+    const rootLabel = (nav.querySelector('.nav-drill[data-to="2"]')?.textContent || '').replace('›', '').trim();
+
+    const setLevel = (level: string, contSlug?: string, label?: string) => {
+      nav.setAttribute('data-level', level);
+      nav.querySelectorAll('.nav-cont').forEach((el) => el.classList.toggle('open', el.getAttribute('data-cont') === contSlug));
+      if (back) back.hidden = level === '1';
+      if (backLabel) backLabel.textContent = level === '3' ? rootLabel : level === '2' ? '' : '';
+      if (level === '3' && backLabel && label) backLabel.textContent = rootLabel;
+      nav.scrollTop = 0;
+    };
+
+    nav.querySelectorAll('.nav-drill').forEach((btn) => {
+      btn.addEventListener('click', (e) => {
+        e.preventDefault();
+        const b = btn as HTMLButtonElement;
+        setLevel(b.dataset.to || '1', b.dataset.cont, b.dataset.label);
+      });
+    });
+
+    back?.addEventListener('click', () => {
+      setLevel(nav.getAttribute('data-level') === '3' ? '2' : '1');
+    });
+
+    // Closing the hamburger resets to the top level for the next open.
+    toggle?.addEventListener('change', () => { if (!toggle.checked) setLevel('1'); });
+  })();
+</script>
