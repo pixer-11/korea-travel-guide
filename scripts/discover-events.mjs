@@ -19,6 +19,8 @@ import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 import Anthropic from '@anthropic-ai/sdk';
 import { makeTitle } from './lib/titles.mjs';
+import matter from 'gray-matter';
+import { topicKey } from './lib/topic-key.mjs';
 import yaml from 'js-yaml';
 import { slugify } from './lib/slugify.mjs';
 import { writeArticle } from './lib/writer.mjs';
@@ -93,7 +95,7 @@ async function loadDone() {
 }
 
 async function writeDiscovered(item, ctx) {
-  const { country, kind, existing, done } = ctx;
+  const { country, kind, existing, done, existingTopics } = ctx;
   if (!item?.name || !item?.city) return false;
   // Multi-stage events can come back with a messy "city" like
   // "Nice (finish) / various French stages". A "/" there becomes the post's
@@ -109,6 +111,11 @@ async function writeDiscovered(item, ctx) {
   const title = kind === 'event'
     ? `${item.name}: What to Know${item.city ? ` (${item.city})` : ''}`
     : makeTitle(item.name, { region: item.city, category: cat });
+  // Near-duplicate guard: skip if a same-topic post already exists. Catches name
+  // variants ("ChinaJoy" vs "ChinaJoy 2026") that pass the exact-slug check above
+  // but collapse to the same normalized topic key that validate-content uses.
+  const tkey = topicKey(title, item.city);
+  if (existingTopics.has(tkey)) return false;
   const facts = {
     name: item.name, city: item.city, date: item.date, country, summary: item.summary,
     guidance:
@@ -159,7 +166,7 @@ async function writeDiscovered(item, ctx) {
     : 'Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go.';
   const disclosure = `> **How this guide was made:** ${src} See our [editorial policy](/about).\n\n`;
   await writeFile(join(POSTS_DIR, `${slug}.md`), frontmatter(data) + disclosure + body + '\n', 'utf8');
-  existing.add(slug); done.add(key);
+  existing.add(slug); done.add(key); existingTopics.add(tkey);
   console.log(`    ✅ [${kind}] ${slug}`);
   return true;
 }
@@ -171,6 +178,15 @@ async function main() {
   const active = countries.filter((c) => c.active && (!only || c.name === only));
   const done = await loadDone();
   const existing = new Set((await readdir(POSTS_DIR)).map((f) => f.replace(/\.md$/, '')));
+  // Normalized topic keys of existing posts → generation-time near-dup prevention
+  // (same rule validate-content uses to detect them after the fact).
+  const existingTopics = new Set();
+  for (const f of (await readdir(POSTS_DIR)).filter((f) => f.endsWith('.md'))) {
+    try {
+      const { data } = matter(await readFile(join(POSTS_DIR, f), 'utf8'));
+      if (data.title && data.region) existingTopics.add(topicKey(data.title, data.region));
+    } catch {}
+  }
   // Site-wide set of hero images already in use (URL + photo-id) → no dupes.
   const usedImages = await loadUsedImageUrls(POSTS_DIR);
 
@@ -178,7 +194,7 @@ async function main() {
   let total = 0;
 
   for (const c of active) {
-    const ctx = { country: c.name, existing, done, usedImages };
+    const ctx = { country: c.name, existing, done, existingTopics, usedImages };
     let ev = 0, hs = 0;
     for (const item of await discoverEvents(c.name)) {
       if (ev >= EVENTS_PER_COUNTRY) break;

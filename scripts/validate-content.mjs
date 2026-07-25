@@ -10,22 +10,10 @@ import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
 import { unsplashNum } from './lib/images.mjs';
 import { OFFTOPIC } from './lib/offtopic.mjs';
+import { topicKey } from './lib/topic-key.mjs';
 
 const DIR = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 
-// Normalized topic key: strip the "…: What to Know (City)" suffix, tokenize, drop
-// short/filler words, sort — so "Formula 1 Italian Grand Prix" and "Italian Grand
-// Prix Formula 1" collapse to the same key (that's how a dup slipped through).
-const FILLER = new Set(['the', 'and', 'with', 'what', 'know', 'guide', 'visitor', 'visitors', 'where', 'eat', 'know', '2026', '2027']);
-// Include the region so only SAME-CITY name variants collapse (Monza F1 ×2), not
-// different cities that share a generic noun ("Tower"/"Local Restaurant").
-const topicKey = (title, region) => {
-  const name = String(title).split(/:\s*(?:What to Know|Where to Eat|A Visitor)/i)[0];
-  return `${name} ${region}`
-    .toLowerCase().replace(/[^a-z0-9\s]/g, ' ').split(/\s+/)
-    .filter((w) => w.length > 2 && !FILLER.has(w))
-    .sort().join(' ');
-};
 
 const files = (await readdir(DIR)).filter((f) => f.endsWith('.md'));
 const posts = [];
