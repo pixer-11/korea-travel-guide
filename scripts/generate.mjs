@@ -178,11 +178,9 @@ function buildRotatedQueue(targets, done, countries, seasonal = [], opts = {}) {
     }
   }
 
-  // Fill order = country PRIORITY (data/countries.json `priority`, lower = first)
-  // so search/revenue-important countries COMPLETE before lower ones, instead of
-  // every country creeping up together. Within a country we still round-robin
-  // across its regions so one country's posts stay varied. Countries without a
-  // priority sort last.
+  // Fill order = fewest existing posts first (see the sort below), so under-covered
+  // countries catch up; country `priority` (data/countries.json) is now only a
+  // tie-breaker. Within a country we round-robin across its regions.
   const prio = new Map(countries.map((c) => [c.name, c.priority ?? 999]));
   const byCountry = new Map();
   for (const t of all) {
@@ -190,23 +188,37 @@ function buildRotatedQueue(targets, done, countries, seasonal = [], opts = {}) {
     if (!byCountry.has(c)) byCountry.set(c, []);
     byCountry.get(c).push(t);
   }
+  // Fewest existing posts FIRST so under-covered countries catch up instead of the
+  // biggest (Korea) always going first; country priority breaks ties. countryCounts
+  // updates every run, so the order self-balances over time.
   const orderedCountries = [...byCountry.keys()].sort(
-    (a, b) => (prio.get(a) ?? 999) - (prio.get(b) ?? 999) || a.localeCompare(b)
+    (a, b) =>
+      ((countryCounts.get(a) || 0) - (countryCounts.get(b) || 0)) ||
+      ((prio.get(a) ?? 999) - (prio.get(b) ?? 999)) ||
+      a.localeCompare(b)
   );
-  const rotated = [];
-  for (const cname of orderedCountries) {
-    const items = byCountry.get(cname);
+  // Cross-country round-robin: one post per country per pass (regions rotated
+  // within each country). A single run therefore spreads across the under-covered
+  // countries — e.g. 16 posts = one each to the 16 smallest — rather than piling
+  // onto one. Countries run out of queued targets independently; the loop ends
+  // when every country is drained.
+  const perCountry = orderedCountries.map((cname) => {
     const rb = new Map();
-    for (const t of items) {
+    for (const t of byCountry.get(cname)) {
       if (!rb.has(t.region)) rb.set(t.region, []);
       rb.get(t.region).push(t);
     }
-    const rbuckets = [...rb.values()];
-    let i = 0, added = 0;
-    while (added < items.length) {
-      const bucket = rbuckets[i % rbuckets.length];
-      if (bucket.length) { rotated.push(bucket.shift()); added++; }
-      i++;
+    return { buckets: [...rb.values()], i: 0 };
+  });
+  const rotated = [];
+  let remaining = all.length;
+  while (remaining > 0) {
+    for (const q of perCountry) {
+      for (let k = 0; k < q.buckets.length; k++) {
+        const b = q.buckets[q.i % q.buckets.length];
+        q.i++;
+        if (b.length) { rotated.push(b.shift()); remaining--; break; }
+      }
     }
   }
 
