@@ -60,8 +60,14 @@ function isLinkList(raw) {
   return lines.length > 0 && linkLines.length / lines.length >= 0.6;
 }
 
+// Model chatter leaking into a saved translation ("지금까지 … 확인했습니다",
+// "Here is the translation") — found once at the top of a ko essentials body.
+const CHATTER = /지금까지 가이드|필요한 모든 정보를 확인|다음은 번역|번역입니다|以下は翻訳|翻訳です|以下是翻译|翻译如下|He aquí la traducción|Here is the translation/;
+
 function auditBody(lang, body) {
   const flags = [];
+  const firstPara = (body.trim().split(/\n{2,}/)[0] || '').slice(0, 300);
+  if (CHATTER.test(firstPara)) flags.push(['translator-chatter', firstPara]);
   const paras = body.split(/\n{2,}/).map((p) => p.trim()).filter((p) => p.length >= 60 && !p.startsWith('|'));
   for (const raw of paras) {
     if (isLinkList(raw)) continue;
