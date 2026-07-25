@@ -1,0 +1,73 @@
+name: Broken-link check
+
+# Weekly crawl of the BUILT site for broken internal links (404s inside dist).
+# External links are skipped — third-party flakiness (rate limits, geo-blocks)
+# would drown real signal; our own 404s are what silently hurt readers + SEO.
+on:
+  schedule:
+    - cron: '25 16 * * 2' # Tue 16:25 UTC = Wed 01:25 KST (off the hour)
+  workflow_dispatch:
+
+jobs:
+  linkcheck:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      - name: Build site
+        run: npm run build
+
+      - name: Crawl internal links
+        id: crawl
+        run: |
+          set -o pipefail
+          npx --yes linkinator ./dist --recurse --silent \
+            --skip "^https?://" \
+            --format csv | tee /tmp/links.csv || true
+          # CSV: url,status,state,parent — count real breakages.
+          broken=$(awk -F, 'NR>1 && $3=="BROKEN" {c++} END{print c+0}' /tmp/links.csv)
+          total=$(awk -F, 'NR>1 {c++} END{print c+0}' /tmp/links.csv)
+          echo "broken=$broken" >> "$GITHUB_OUTPUT"
+          echo "total=$total" >> "$GITHUB_OUTPUT"
+          # First 12 broken URLs for the report.
+          {
+            echo "list<<EOF_LIST"
+            awk -F, 'NR>1 && $3=="BROKEN" {print $2" "$1}' /tmp/links.csv | head -12
+            echo "EOF_LIST"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Notify Telegram
+        if: always()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          BROKEN: ${{ steps.crawl.outputs.broken }}
+          TOTAL: ${{ steps.crawl.outputs.total }}
+          LIST: ${{ steps.crawl.outputs.list }}
+          JOB_STATUS: ${{ job.status }}
+        run: |
+          [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
+          if [ "$JOB_STATUS" != "success" ]; then
+            TXT="🔗 Wander Atlas — 주간 링크 검사
+❌ 검사 실행 자체가 실패했습니다. GitHub Actions 로그를 확인해 주세요."
+          elif [ "${BROKEN:-0}" = "0" ]; then
+            TXT="🔗 Wander Atlas — 주간 링크 검사
+✅ 깨진 내부 링크 0개 (전체 ${TOTAL}개 검사) — 사이트 링크 상태 완벽합니다."
+          else
+            TXT="🔗 Wander Atlas — 주간 링크 검사
+⚠️ 깨진 내부 링크 ${BROKEN}개 발견 (전체 ${TOTAL}개 중):
+${LIST}
+
+클로드에게 '깨진 링크 고쳐줘'라고 말하면 수정합니다."
+          fi
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+            --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
+            --data-urlencode "text=$TXT" \
+            -d disable_web_page_preview=true >/dev/null || true

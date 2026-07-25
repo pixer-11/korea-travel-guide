@@ -1,7 +1,7 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
-import { readFileSync, readdirSync, writeFileSync } from 'node:fs';
+import { readFileSync, readdirSync, writeFileSync, statSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 
@@ -93,8 +93,61 @@ function regionRedirectsIntegration() {
   };
 }
 
+// Custom integration: normalize INTERNAL link hrefs to trailing-slash form in
+// the built HTML. Canonicals/sitemap use "/path/" but templates all over the
+// codebase write "/path", so every internal click cost a 307/308 redirect hop
+// (crawl-budget + latency waste). Fixing it here — instead of in ~30 templates —
+// also covers every FUTURE template automatically (regression-proof).
+function trailingSlashIntegration() {
+  const fixUrl = (url) => {
+    if (!url.startsWith('/') || url.startsWith('//')) return url; // internal abs paths only
+    const hashAt = url.indexOf('#');
+    const hash = hashAt === -1 ? '' : url.slice(hashAt);
+    let rest = hashAt === -1 ? url : url.slice(0, hashAt);
+    const qAt = rest.indexOf('?');
+    const query = qAt === -1 ? '' : rest.slice(qAt);
+    let path = qAt === -1 ? rest : rest.slice(0, qAt);
+    if (path === '' || path.endsWith('/')) return url;
+    const last = path.slice(path.lastIndexOf('/') + 1);
+    if (last.includes('.')) return url; // real files: .xml .ics .txt .md .jpg …
+    return `${path}/${query}${hash}`;
+  };
+  const walk = (dir, out = []) => {
+    for (const f of readdirSync(dir)) {
+      const p = join(dir, f);
+      if (statSync(p).isDirectory()) walk(p, out);
+      else if (f.endsWith('.html')) out.push(p);
+    }
+    return out;
+  };
+  return {
+    name: 'trailing-slash-links',
+    hooks: {
+      'astro:build:done': ({ dir }) => {
+        const root = fileURLToPath(dir);
+        let files = 0, links = 0;
+        for (const file of walk(root)) {
+          const html = readFileSync(file, 'utf8');
+          const next = html.replace(/href="(\/[^"]*)"/g, (m, u) => {
+            const fixed = fixUrl(u);
+            if (fixed !== u) links++;
+            return `href="${fixed}"`;
+          });
+          if (next !== html) { writeFileSync(file, next); files++; }
+        }
+        console.log(`[trailing-slash-links] normalized ${links} link(s) in ${files} file(s)`);
+      },
+    },
+  };
+}
+
+import rehypeMidCta from './src/lib/rehype-mid-cta.mjs';
+
 export default defineConfig({
   site: SITE,
+  markdown: {
+    rehypePlugins: [rehypeMidCta],
+  },
   integrations: [
     sitemap({
       // The embeddable crowd widgets are noindex iframe fragments — listing them
@@ -115,6 +168,7 @@ export default defineConfig({
     }),
     react(),
     regionRedirectsIntegration(),
+    trailingSlashIntegration(),
   ],
   trailingSlash: 'ignore',
   i18n: {

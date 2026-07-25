@@ -3,6 +3,7 @@ import { render } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
+import countryFacts from '../../data/country-facts.json';
 
 // Shared per-country essentials page for /essentials/<country> (en) +
 // /[lang]/essentials/<country>. Renders the translated body when a translation
@@ -20,6 +21,17 @@ const reviewed = d.lastReviewed.toLocaleDateString(localeCodes[lang], { year: 'n
 
 const policyLink = `<a href="${localizePath('/about', lang)}">${t('footer.editorialPolicy')}</a>`;
 const reviewedNote = t('ess.reviewedNote').replace('{date}', reviewed).replace('{policy}', policyLink);
+
+// Climate + holidays from data/country-facts.json (Open-Meteo + Nager.Date,
+// refreshed monthly by refresh-country-facts.yml). Either may be absent for a
+// country — sections render only when there is real data.
+const facts = (countryFacts as any).countries?.[d.country] ?? {};
+const monthName = (m: number) =>
+  new Intl.DateTimeFormat(localeCodes[lang], { month: 'short' }).format(new Date(Date.UTC(2026, m - 1, 1)));
+const todayIso = new Date().toISOString().slice(0, 10);
+const upcomingHolidays = (facts.holidays ?? []).filter((h: any) => h.date >= todayIso).slice(0, 10);
+const holidayDate = (iso: string) =>
+  new Intl.DateTimeFormat(localeCodes[lang], { month: 'long', day: 'numeric', timeZone: 'UTC' }).format(new Date(iso + 'T00:00:00Z'));
 
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
 const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
@@ -54,6 +66,66 @@ const jsonLd = {
       <Content />
     </div>
 
+    {facts.climate && (
+      <section class="climate">
+        <h2>{t('ess.climateTitle')}</h2>
+        <p class="section-dek">{t('ess.climateDek')}</p>
+        <div class="climate-scroll">
+          <table>
+            <thead>
+              <tr>
+                <th scope="col">{t('ess.month')}</th>
+                {facts.climate.map((c: any) => <th scope="col">{monthName(c.m)}</th>)}
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th scope="row">{t('ess.hi')} °C</th>
+                {facts.climate.map((c: any) => <td>{c.hi}</td>)}
+              </tr>
+              <tr>
+                <th scope="row">{t('ess.lo')} °C</th>
+                {facts.climate.map((c: any) => <td>{c.lo}</td>)}
+              </tr>
+              <tr>
+                <th scope="row">{t('ess.rain')}</th>
+                {facts.climate.map((c: any) => <td>{c.rain}</td>)}
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+    )}
+
+    {upcomingHolidays.length > 0 && (
+      <section class="holidays">
+        <h2>{t('ess.holidaysTitle')}</h2>
+        <p class="section-dek">{t('ess.holidaysDek')}</p>
+        <ul class="holiday-list">
+          {upcomingHolidays.map((h: any) => (
+            <li>
+              <span class="holiday-date">{holidayDate(h.date)}</span>
+              <span class="holiday-name">{h.localName}{h.localName !== h.name ? ` · ${h.name}` : ''}</span>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
     <p class="disclosure" set:html={reviewedNote}></p>
   </article>
 </BaseLayout>
+
+<style>
+  .climate, .holidays { margin-top: 2.6rem; }
+  .section-dek { color: var(--muted, #6b6357); margin: 0.3rem 0 1rem; }
+  .climate-scroll { overflow-x: auto; }
+  .climate table { border-collapse: collapse; font-size: 0.92rem; min-width: 640px; }
+  .climate th, .climate td { padding: 0.45rem 0.6rem; text-align: center; border-bottom: 1px solid var(--line, #e5dfd2); }
+  .climate thead th { font-weight: 650; }
+  .climate tbody th { text-align: left; font-weight: 600; white-space: nowrap; }
+  .holiday-list { list-style: none; padding: 0; margin: 0; }
+  .holiday-list li { display: flex; gap: 0.9rem; padding: 0.45rem 0; border-bottom: 1px solid var(--line, #e5dfd2); }
+  .holiday-date { min-width: 7.5rem; font-weight: 600; white-space: nowrap; }
+  .holiday-name { color: var(--ink, #201c17); }
+</style>

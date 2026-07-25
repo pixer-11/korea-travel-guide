@@ -1,0 +1,2425 @@
+{
+  "updated": "2026-07-25",
+  "countries": {
+    "South Korea": {
+      "climate": [
+        {
+          "m": 1,
+          "hi": 4,
+          "lo": -6,
+          "rain": 8
+        },
+        {
+          "m": 2,
+          "hi": 4,
+          "lo": -6,
+          "rain": 6
+        },
+        {
+          "m": 3,
+          "hi": 14,
+          "lo": 1,
+          "rain": 41
+        },
+        {
+          "m": 4,
+          "hi": 21,
+          "lo": 6,
+          "rain": 64
+        },
+        {
+          "m": 5,
+          "hi": 23,
+          "lo": 11,
+          "rain": 100
+        },
+        {
+          "m": 6,
+          "hi": 29,
+          "lo": 18,
+          "rain": 285
+        },
+        {
+          "m": 7,
+          "hi": 33,
+          "lo": 22,
+          "rain": 149
+        },
+        {
+          "m": 8,
+          "hi": 33,
+          "lo": 23,
+          "rain": 107
+        },
+        {
+          "m": 9,
+          "hi": 27,
+          "lo": 19,
+          "rain": 144
+        },
+        {
+          "m": 10,
+          "hi": 20,
+          "lo": 12,
+          "rain": 178
+        },
+        {
+          "m": 11,
+          "hi": 14,
+          "lo": 1,
+          "rain": 6
+        },
+        {
+          "m": 12,
+          "hi": 6,
+          "lo": -4,
+          "rain": 16
+        }
+      ],
+      "holidays": [
+        {
+          "date": "2026-01-01",
+          "localName": "새해",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2026-02-16",
+          "localName": "설날",
+          "name": "Lunar New Year"
+        },
+        {
+          "date": "2026-02-17",
+          "localName": "설날",
+          "name": "Lunar New Year"
+        },
+        {
+          "date": "2026-02-18",
+          "localName": "설날",
+          "name": "Lunar New Year"
+        },
+        {
+          "date": "2026-03-02",
+          "localName": "3·1절",
+          "name": "Independence Movement Day"
+        },
+        {
+          "date": "2026-05-01",
+          "localName": "노동절",
+          "name": "Labour Day"
+        },
+        {
+          "date": "2026-05-05",
+          "localName": "어린이날",
+          "name": "Children's Day"
+        },
+        {
+          "date": "2026-05-25",
+          "localName": "부처님 오신 날",
+          "name": "Buddha's Birthday"
+        },
+        {
+          "date": "2026-06-03",
+          "localName": "지방 선거일",
+          "name": "Local Election Day"
+        },
+        {
+          "date": "2026-06-06",
+          "localName": "현충일",
+          "name": "Memorial Day"
+        },
+        {
+          "date": "2026-07-17",
+          "localName": "제헌절",
+          "name": "Constitution Day"
+        },
+        {
+          "date": "2026-08-17",
+          "localName": "광복절",
+          "name": "Liberation Day"
+        },
+        {
+          "date": "2026-09-24",
+          "localName": "추석",
+          "name": "Chuseok"
+        },
+        {
+          "date": "2026-09-25",
+          "localName": "추석",
+          "name": "Chuseok"
+        },
+        {
+          "date": "2026-09-26",
+          "localName": "추석",
+          "name": "Chuseok"
+        },
+        {
+          "date": "2026-10-05",
+          "localName": "개천절",
+          "name": "National Foundation Day"
+        },
+        {
+          "date": "2026-10-09",
+          "localName": "한글날",
+          "name": "Hangul Day"
+        },
+        {
+          "date": "2026-12-25",
+          "localName": "크리스마스",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2027-01-01",
+          "localName": "새해",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2027-02-06",
+          "localName": "설날",
+          "name": "Lunar New Year"
+        },
+        {
+          "date": "2027-02-08",
+          "localName": "설날",
+          "name": "Lunar New Year"
+        },
+        {
+          "date": "2027-02-09",
+          "localName": "설날",
+          "name": "Lunar New Year"
+        },
+        {
+          "date": "2027-03-01",
+          "localName": "3·1절",
+          "name": "Independence Movement Day"
+        },
+        {
+          "date": "2027-05-03",
+          "localName": "노동절",
+          "name": "Labour Day"
+        },
+        {
+          "date": "2027-05-05",
+          "localName": "어린이날",
+          "name": "Children's Day"
+        },
+        {
+          "date": "2027-05-13",
+          "localName": "부처님 오신 날",
+          "name": "Buddha's Birthday"
+        },
+        {
+          "date": "2027-06-06",
+          "localName": "현충일",
+          "name": "Memorial Day"
+        },
+        {
+          "date": "2027-07-19",
+          "localName": "제헌절",
+          "name": "Constitution Day"
+        },
+        {
+          "date": "2027-08-16",
+          "localName": "광복절",
+          "name": "Liberation Day"
+        },
+        {
+          "date": "2027-09-14",
+          "localName": "추석",
+          "name": "Chuseok"
+        },
+        {
+          "date": "2027-09-15",
+          "localName": "추석",
+          "name": "Chuseok"
+        },
+        {
+          "date": "2027-09-16",
+          "localName": "추석",
+          "name": "Chuseok"
+        },
+        {
+          "date": "2027-10-04",
+          "localName": "개천절",
+          "name": "National Foundation Day"
+        },
+        {
+          "date": "2027-10-11",
+          "localName": "한글날",
+          "name": "Hangul Day"
+        },
+        {
+          "date": "2027-12-25",
+          "localName": "크리스마스",
+          "name": "Christmas Day"
+        }
+      ]
+    },
+    "Japan": {
+      "climate": [
+        {
+          "m": 1,
+          "hi": 8,
+          "lo": 0,
+          "rain": 20
+        },
+        {
+          "m": 2,
+          "hi": 7,
+          "lo": -1,
+          "rain": 26
+        },
+        {
+          "m": 3,
+          "hi": 13,
+          "lo": 4,
+          "rain": 103
+        },
+        {
+          "m": 4,
+          "hi": 19,
+          "lo": 8,
+          "rain": 72
+        },
+        {
+          "m": 5,
+          "hi": 22,
+          "lo": 14,
+          "rain": 212
+        },
+        {
+          "m": 6,
+          "hi": 28,
+          "lo": 19,
+          "rain": 258
+        },
+        {
+          "m": 7,
+          "hi": 34,
+          "lo": 25,
+          "rain": 162
+        },
+        {
+          "m": 8,
+          "hi": 34,
+          "lo": 25,
+          "rain": 126
+        },
+        {
+          "m": 9,
+          "hi": 30,
+          "lo": 22,
+          "rain": 179
+        },
+        {
+          "m": 10,
+          "hi": 23,
+          "lo": 16,
+          "rain": 131
+        },
+        {
+          "m": 11,
+          "hi": 16,
+          "lo": 7,
+          "rain": 36
+        },
+        {
+          "m": 12,
+          "hi": 11,
+          "lo": 2,
+          "rain": 60
+        }
+      ],
+      "holidays": [
+        {
+          "date": "2026-01-01",
+          "localName": "元日",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2026-01-12",
+          "localName": "成人の日",
+          "name": "Coming of Age Day"
+        },
+        {
+          "date": "2026-02-11",
+          "localName": "建国記念の日",
+          "name": "Foundation Day"
+        },
+        {
+          "date": "2026-02-23",
+          "localName": "天皇誕生日",
+          "name": "The Emperor's Birthday"
+        },
+        {
+          "date": "2026-03-20",
+          "localName": "春分の日",
+          "name": "Vernal Equinox Day"
+        },
+        {
+          "date": "2026-04-29",
+          "localName": "昭和の日",
+          "name": "Shōwa Day"
+        },
+        {
+          "date": "2026-05-06",
+          "localName": "憲法記念日",
+          "name": "Constitution Memorial Day"
+        },
+        {
+          "date": "2026-05-04",
+          "localName": "みどりの日",
+          "name": "Greenery Day"
+        },
+        {
+          "date": "2026-05-05",
+          "localName": "こどもの日",
+          "name": "Children's Day"
+        },
+        {
+          "date": "2026-07-20",
+          "localName": "海の日",
+          "name": "Marine Day"
+        },
+        {
+          "date": "2026-08-11",
+          "localName": "山の日",
+          "name": "Mountain Day"
+        },
+        {
+          "date": "2026-09-21",
+          "localName": "敬老の日",
+          "name": "Respect for the Aged Day"
+        },
+        {
+          "date": "2026-09-23",
+          "localName": "秋分の日",
+          "name": "Autumnal Equinox Day"
+        },
+        {
+          "date": "2026-10-12",
+          "localName": "スポーツの日",
+          "name": "Sports Day"
+        },
+        {
+          "date": "2026-11-03",
+          "localName": "文化の日",
+          "name": "Culture Day"
+        },
+        {
+          "date": "2026-11-23",
+          "localName": "勤労感謝の日",
+          "name": "Labour Thanksgiving Day"
+        },
+        {
+          "date": "2027-01-01",
+          "localName": "元日",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2027-01-11",
+          "localName": "成人の日",
+          "name": "Coming of Age Day"
+        },
+        {
+          "date": "2027-02-11",
+          "localName": "建国記念の日",
+          "name": "Foundation Day"
+        },
+        {
+          "date": "2027-02-23",
+          "localName": "天皇誕生日",
+          "name": "The Emperor's Birthday"
+        },
+        {
+          "date": "2027-03-21",
+          "localName": "春分の日",
+          "name": "Vernal Equinox Day"
+        },
+        {
+          "date": "2027-04-29",
+          "localName": "昭和の日",
+          "name": "Shōwa Day"
+        },
+        {
+          "date": "2027-05-03",
+          "localName": "憲法記念日",
+          "name": "Constitution Memorial Day"
+        },
+        {
+          "date": "2027-05-04",
+          "localName": "みどりの日",
+          "name": "Greenery Day"
+        },
+        {
+          "date": "2027-05-05",
+          "localName": "こどもの日",
+          "name": "Children's Day"
+        },
+        {
+          "date": "2027-07-19",
+          "localName": "海の日",
+          "name": "Marine Day"
+        },
+        {
+          "date": "2027-08-11",
+          "localName": "山の日",
+          "name": "Mountain Day"
+        },
+        {
+          "date": "2027-09-20",
+          "localName": "敬老の日",
+          "name": "Respect for the Aged Day"
+        },
+        {
+          "date": "2027-09-23",
+          "localName": "秋分の日",
+          "name": "Autumnal Equinox Day"
+        },
+        {
+          "date": "2027-10-11",
+          "localName": "スポーツの日",
+          "name": "Sports Day"
+        },
+        {
+          "date": "2027-11-03",
+          "localName": "文化の日",
+          "name": "Culture Day"
+        },
+        {
+          "date": "2027-11-23",
+          "localName": "勤労感謝の日",
+          "name": "Labour Thanksgiving Day"
+        }
+      ]
+    },
+    "United States": {
+      "climate": [
+        {
+          "m": 1,
+          "hi": 3,
+          "lo": -5,
+          "rain": 91
+        },
+        {
+          "m": 2,
+          "hi": 7,
+          "lo": -3,
+          "rain": 62
+        },
+        {
+          "m": 3,
+          "hi": 18,
+          "lo": 5,
+          "rain": 56
+        },
+        {
+          "m": 4,
+          "hi": 20,
+          "lo": 10,
+          "rain": 201
+        },
+        {
+          "m": 5,
+          "hi": 22,
+          "lo": 13,
+          "rain": 109
+        },
+        {
+          "m": 6,
+          "hi": 28,
+          "lo": 20,
+          "rain": 154
+        },
+        {
+          "m": 7,
+          "hi": 31,
+          "lo": 22,
+          "rain": 86
+        },
+        {
+          "m": 8,
+          "hi": 29,
+          "lo": 19,
+          "rain": 19
+        },
+        {
+          "m": 9,
+          "hi": 28,
+          "lo": 17,
+          "rain": 50
+        },
+        {
+          "m": 10,
+          "hi": 22,
+          "lo": 12,
+          "rain": 107
+        },
+        {
+          "m": 11,
+          "hi": 14,
+          "lo": 5,
+          "rain": 59
+        },
+        {
+          "m": 12,
+          "hi": 9,
+          "lo": -1,
+          "rain": 23
+        }
+      ],
+      "holidays": [
+        {
+          "date": "2026-01-01",
+          "localName": "New Year's Day",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2026-01-19",
+          "localName": "Martin Luther King, Jr. Day",
+          "name": "Martin Luther King, Jr. Day"
+        },
+        {
+          "date": "2026-02-16",
+          "localName": "Washington's Birthday",
+          "name": "Presidents Day"
+        },
+        {
+          "date": "2026-05-25",
+          "localName": "Memorial Day",
+          "name": "Memorial Day"
+        },
+        {
+          "date": "2026-06-19",
+          "localName": "Juneteenth National Independence Day",
+          "name": "Juneteenth National Independence Day"
+        },
+        {
+          "date": "2026-07-03",
+          "localName": "Independence Day",
+          "name": "Independence Day"
+        },
+        {
+          "date": "2026-09-07",
+          "localName": "Labor Day",
+          "name": "Labour Day"
+        },
+        {
+          "date": "2026-10-12",
+          "localName": "Columbus Day",
+          "name": "Columbus Day"
+        },
+        {
+          "date": "2026-11-11",
+          "localName": "Veterans Day",
+          "name": "Veterans Day"
+        },
+        {
+          "date": "2026-11-26",
+          "localName": "Thanksgiving Day",
+          "name": "Thanksgiving Day"
+        },
+        {
+          "date": "2026-12-25",
+          "localName": "Christmas Day",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2027-01-01",
+          "localName": "New Year's Day",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2027-01-18",
+          "localName": "Martin Luther King, Jr. Day",
+          "name": "Martin Luther King, Jr. Day"
+        },
+        {
+          "date": "2027-02-15",
+          "localName": "Washington's Birthday",
+          "name": "Presidents Day"
+        },
+        {
+          "date": "2027-05-31",
+          "localName": "Memorial Day",
+          "name": "Memorial Day"
+        },
+        {
+          "date": "2027-06-18",
+          "localName": "Juneteenth National Independence Day",
+          "name": "Juneteenth National Independence Day"
+        },
+        {
+          "date": "2027-07-05",
+          "localName": "Independence Day",
+          "name": "Independence Day"
+        },
+        {
+          "date": "2027-09-06",
+          "localName": "Labor Day",
+          "name": "Labour Day"
+        },
+        {
+          "date": "2027-10-11",
+          "localName": "Columbus Day",
+          "name": "Columbus Day"
+        },
+        {
+          "date": "2027-11-11",
+          "localName": "Veterans Day",
+          "name": "Veterans Day"
+        },
+        {
+          "date": "2027-11-25",
+          "localName": "Thanksgiving Day",
+          "name": "Thanksgiving Day"
+        },
+        {
+          "date": "2027-12-24",
+          "localName": "Christmas Day",
+          "name": "Christmas Day"
+        }
+      ]
+    },
+    "Thailand": {
+      "climate": [
+        {
+          "m": 1,
+          "hi": 30,
+          "lo": 19,
+          "rain": 0
+        },
+        {
+          "m": 2,
+          "hi": 32,
+          "lo": 22,
+          "rain": 31
+        },
+        {
+          "m": 3,
+          "hi": 34,
+          "lo": 24,
+          "rain": 39
+        },
+        {
+          "m": 4,
+          "hi": 35,
+          "lo": 25,
+          "rain": 85
+        },
+        {
+          "m": 5,
+          "hi": 33,
+          "lo": 26,
+          "rain": 211
+        },
+        {
+          "m": 6,
+          "hi": 33,
+          "lo": 25,
+          "rain": 162
+        },
+        {
+          "m": 7,
+          "hi": 32,
+          "lo": 25,
+          "rain": 157
+        },
+        {
+          "m": 8,
+          "hi": 33,
+          "lo": 25,
+          "rain": 227
+        },
+        {
+          "m": 9,
+          "hi": 31,
+          "lo": 25,
+          "rain": 343
+        },
+        {
+          "m": 10,
+          "hi": 32,
+          "lo": 25,
+          "rain": 184
+        },
+        {
+          "m": 11,
+          "hi": 30,
+          "lo": 23,
+          "rain": 179
+        },
+        {
+          "m": 12,
+          "hi": 31,
+          "lo": 22,
+          "rain": 11
+        }
+      ],
+      "holidays": []
+    },
+    "France": {
+      "climate": [
+        {
+          "m": 1,
+          "hi": 4,
+          "lo": -3,
+          "rain": 153
+        },
+        {
+          "m": 2,
+          "hi": 7,
+          "lo": -1,
+          "rain": 34
+        },
+        {
+          "m": 3,
+          "hi": 8,
+          "lo": 0,
+          "rain": 103
+        },
+        {
+          "m": 4,
+          "hi": 13,
+          "lo": 4,
+          "rain": 203
+        },
+        {
+          "m": 5,
+          "hi": 15,
+          "lo": 6,
+          "rain": 97
+        },
+        {
+          "m": 6,
+          "hi": 23,
+          "lo": 14,
+          "rain": 53
+        },
+        {
+          "m": 7,
+          "hi": 21,
+          "lo": 12,
+          "rain": 61
+        },
+        {
+          "m": 8,
+          "hi": 24,
+          "lo": 13,
+          "rain": 49
+        },
+        {
+          "m": 9,
+          "hi": 17,
+          "lo": 8,
+          "rain": 149
+        },
+        {
+          "m": 10,
+          "hi": 13,
+          "lo": 5,
+          "rain": 130
+        },
+        {
+          "m": 11,
+          "hi": 7,
+          "lo": 1,
+          "rain": 136
+        },
+        {
+          "m": 12,
+          "hi": 7,
+          "lo": 0,
+          "rain": 71
+        }
+      ],
+      "holidays": [
+        {
+          "date": "2026-01-01",
+          "localName": "Jour de l'an",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2026-04-06",
+          "localName": "Lundi de Pâques",
+          "name": "Easter Monday"
+        },
+        {
+          "date": "2026-05-01",
+          "localName": "Fête du Travail",
+          "name": "Labour Day"
+        },
+        {
+          "date": "2026-05-08",
+          "localName": "Victoire 1945",
+          "name": "Victory in Europe Day"
+        },
+        {
+          "date": "2026-05-14",
+          "localName": "Ascension",
+          "name": "Ascension Day"
+        },
+        {
+          "date": "2026-05-25",
+          "localName": "Lundi de Pentecôte",
+          "name": "Whit Monday"
+        },
+        {
+          "date": "2026-07-14",
+          "localName": "Fête nationale",
+          "name": "Bastille Day"
+        },
+        {
+          "date": "2026-08-15",
+          "localName": "Assomption",
+          "name": "Assumption Day"
+        },
+        {
+          "date": "2026-11-01",
+          "localName": "Toussaint",
+          "name": "All Saints' Day"
+        },
+        {
+          "date": "2026-11-11",
+          "localName": "Armistice 1918",
+          "name": "Armistice Day"
+        },
+        {
+          "date": "2026-12-25",
+          "localName": "Noël",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2027-01-01",
+          "localName": "Jour de l'an",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2027-03-29",
+          "localName": "Lundi de Pâques",
+          "name": "Easter Monday"
+        },
+        {
+          "date": "2027-05-01",
+          "localName": "Fête du Travail",
+          "name": "Labour Day"
+        },
+        {
+          "date": "2027-05-06",
+          "localName": "Ascension",
+          "name": "Ascension Day"
+        },
+        {
+          "date": "2027-05-08",
+          "localName": "Victoire 1945",
+          "name": "Victory in Europe Day"
+        },
+        {
+          "date": "2027-05-17",
+          "localName": "Lundi de Pentecôte",
+          "name": "Whit Monday"
+        },
+        {
+          "date": "2027-07-14",
+          "localName": "Fête nationale",
+          "name": "Bastille Day"
+        },
+        {
+          "date": "2027-08-15",
+          "localName": "Assomption",
+          "name": "Assumption Day"
+        },
+        {
+          "date": "2027-11-01",
+          "localName": "Toussaint",
+          "name": "All Saints' Day"
+        },
+        {
+          "date": "2027-11-11",
+          "localName": "Armistice 1918",
+          "name": "Armistice Day"
+        },
+        {
+          "date": "2027-12-25",
+          "localName": "Noël",
+          "name": "Christmas Day"
+        }
+      ]
+    },
+    "Italy": {
+      "climate": [
+        {
+          "m": 1,
+          "hi": 7,
+          "lo": 2,
+          "rain": 62
+        },
+        {
+          "m": 2,
+          "hi": 8,
+          "lo": 1,
+          "rain": 108
+        },
+        {
+          "m": 3,
+          "hi": 11,
+          "lo": 4,
+          "rain": 140
+        },
+        {
+          "m": 4,
+          "hi": 15,
+          "lo": 7,
+          "rain": 89
+        },
+        {
+          "m": 5,
+          "hi": 18,
+          "lo": 9,
+          "rain": 83
+        },
+        {
+          "m": 6,
+          "hi": 27,
+          "lo": 17,
+          "rain": 24
+        },
+        {
+          "m": 7,
+          "hi": 26,
+          "lo": 17,
+          "rain": 99
+        },
+        {
+          "m": 8,
+          "hi": 25,
+          "lo": 17,
+          "rain": 29
+        },
+        {
+          "m": 9,
+          "hi": 23,
+          "lo": 13,
+          "rain": 32
+        },
+        {
+          "m": 10,
+          "hi": 16,
+          "lo": 8,
+          "rain": 90
+        },
+        {
+          "m": 11,
+          "hi": 11,
+          "lo": 4,
+          "rain": 119
+        },
+        {
+          "m": 12,
+          "hi": 9,
+          "lo": 3,
+          "rain": 77
+        }
+      ],
+      "holidays": [
+        {
+          "date": "2026-01-01",
+          "localName": "Capodanno",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2026-01-06",
+          "localName": "Epifania",
+          "name": "Epiphany"
+        },
+        {
+          "date": "2026-04-05",
+          "localName": "Pasqua",
+          "name": "Easter Sunday"
+        },
+        {
+          "date": "2026-04-06",
+          "localName": "Lunedì dell'Angelo",
+          "name": "Easter Monday"
+        },
+        {
+          "date": "2026-04-25",
+          "localName": "Festa della Liberazione",
+          "name": "Liberation Day"
+        },
+        {
+          "date": "2026-05-01",
+          "localName": "Festa del Lavoro",
+          "name": "International Workers Day"
+        },
+        {
+          "date": "2026-06-02",
+          "localName": "Festa della Repubblica",
+          "name": "Republic Day"
+        },
+        {
+          "date": "2026-08-15",
+          "localName": "Ferragosto o Assunzione",
+          "name": "Assumption Day"
+        },
+        {
+          "date": "2026-10-04",
+          "localName": "San Francesco d'Assisi",
+          "name": "St. Francis of Assisi's Day"
+        },
+        {
+          "date": "2026-11-01",
+          "localName": "Tutti i Santi",
+          "name": "All Saints Day"
+        },
+        {
+          "date": "2026-12-08",
+          "localName": "Immacolata Concezione",
+          "name": "Immaculate Conception"
+        },
+        {
+          "date": "2026-12-25",
+          "localName": "Natale",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2026-12-26",
+          "localName": "Santo Stefano",
+          "name": "St. Stephen's Day"
+        },
+        {
+          "date": "2027-01-01",
+          "localName": "Capodanno",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2027-01-06",
+          "localName": "Epifania",
+          "name": "Epiphany"
+        },
+        {
+          "date": "2027-03-28",
+          "localName": "Pasqua",
+          "name": "Easter Sunday"
+        },
+        {
+          "date": "2027-03-29",
+          "localName": "Lunedì dell'Angelo",
+          "name": "Easter Monday"
+        },
+        {
+          "date": "2027-04-25",
+          "localName": "Festa della Liberazione",
+          "name": "Liberation Day"
+        },
+        {
+          "date": "2027-05-01",
+          "localName": "Festa del Lavoro",
+          "name": "International Workers Day"
+        },
+        {
+          "date": "2027-06-02",
+          "localName": "Festa della Repubblica",
+          "name": "Republic Day"
+        },
+        {
+          "date": "2027-08-15",
+          "localName": "Ferragosto o Assunzione",
+          "name": "Assumption Day"
+        },
+        {
+          "date": "2027-10-04",
+          "localName": "San Francesco d'Assisi",
+          "name": "St. Francis of Assisi's Day"
+        },
+        {
+          "date": "2027-11-01",
+          "localName": "Tutti i Santi",
+          "name": "All Saints Day"
+        },
+        {
+          "date": "2027-12-08",
+          "localName": "Immacolata Concezione",
+          "name": "Immaculate Conception"
+        },
+        {
+          "date": "2027-12-25",
+          "localName": "Natale",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2027-12-26",
+          "localName": "Santo Stefano",
+          "name": "St. Stephen's Day"
+        }
+      ]
+    },
+    "China": {
+      "climate": [
+        {
+          "m": 1,
+          "hi": 8,
+          "lo": 4,
+          "rain": 11
+        },
+        {
+          "m": 2,
+          "hi": 8,
+          "lo": 4,
+          "rain": 17
+        },
+        {
+          "m": 3,
+          "hi": 15,
+          "lo": 10,
+          "rain": 45
+        },
+        {
+          "m": 4,
+          "hi": 22,
+          "lo": 16,
+          "rain": 51
+        },
+        {
+          "m": 5,
+          "hi": 26,
+          "lo": 20,
+          "rain": 132
+        },
+        {
+          "m": 6,
+          "hi": 28,
+          "lo": 24,
+          "rain": 252
+        },
+        {
+          "m": 7,
+          "hi": 32,
+          "lo": 28,
+          "rain": 198
+        },
+        {
+          "m": 8,
+          "hi": 33,
+          "lo": 29,
+          "rain": 81
+        },
+        {
+          "m": 9,
+          "hi": 30,
+          "lo": 26,
+          "rain": 124
+        },
+        {
+          "m": 10,
+          "hi": 24,
+          "lo": 20,
+          "rain": 52
+        },
+        {
+          "m": 11,
+          "hi": 15,
+          "lo": 12,
+          "rain": 22
+        },
+        {
+          "m": 12,
+          "hi": 10,
+          "lo": 7,
+          "rain": 13
+        }
+      ],
+      "holidays": [
+        {
+          "date": "2026-01-01",
+          "localName": "元旦",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2026-02-17",
+          "localName": "春节",
+          "name": "Chinese New Year (Spring Festival)"
+        },
+        {
+          "date": "2026-05-01",
+          "localName": "劳动节",
+          "name": "Labour Day"
+        },
+        {
+          "date": "2026-06-19",
+          "localName": "端午节",
+          "name": "Dragon Boat Festival"
+        },
+        {
+          "date": "2026-09-25",
+          "localName": "中秋节",
+          "name": "Mid-Autumn Festival"
+        },
+        {
+          "date": "2026-10-01",
+          "localName": "国庆节",
+          "name": "National Day"
+        },
+        {
+          "date": "2027-01-01",
+          "localName": "元旦",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2027-02-06",
+          "localName": "春节",
+          "name": "Chinese New Year (Spring Festival)"
+        },
+        {
+          "date": "2027-05-01",
+          "localName": "劳动节",
+          "name": "Labour Day"
+        },
+        {
+          "date": "2027-06-09",
+          "localName": "端午节",
+          "name": "Dragon Boat Festival"
+        },
+        {
+          "date": "2027-09-15",
+          "localName": "中秋节",
+          "name": "Mid-Autumn Festival"
+        },
+        {
+          "date": "2027-10-01",
+          "localName": "国庆节",
+          "name": "National Day"
+        }
+      ]
+    },
+    "Spain": {
+      "climate": [
+        {
+          "m": 1,
+          "hi": 5,
+          "lo": -1,
+          "rain": 118
+        },
+        {
+          "m": 2,
+          "hi": 9,
+          "lo": -1,
+          "rain": 24
+        },
+        {
+          "m": 3,
+          "hi": 7,
+          "lo": 0,
+          "rain": 164
+        },
+        {
+          "m": 4,
+          "hi": 14,
+          "lo": 3,
+          "rain": 77
+        },
+        {
+          "m": 5,
+          "hi": 17,
+          "lo": 6,
+          "rain": 82
+        },
+        {
+          "m": 6,
+          "hi": 27,
+          "lo": 14,
+          "rain": 45
+        },
+        {
+          "m": 7,
+          "hi": 27,
+          "lo": 13,
+          "rain": 33
+        },
+        {
+          "m": 8,
+          "hi": 28,
+          "lo": 15,
+          "rain": 10
+        },
+        {
+          "m": 9,
+          "hi": 22,
+          "lo": 10,
+          "rain": 6
+        },
+        {
+          "m": 10,
+          "hi": 17,
+          "lo": 7,
+          "rain": 64
+        },
+        {
+          "m": 11,
+          "hi": 8,
+          "lo": 1,
+          "rain": 85
+        },
+        {
+          "m": 12,
+          "hi": 6,
+          "lo": 0,
+          "rain": 41
+        }
+      ],
+      "holidays": [
+        {
+          "date": "2026-01-01",
+          "localName": "Año Nuevo",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2026-01-06",
+          "localName": "Día de Reyes / Epifanía del Señor",
+          "name": "Epiphany"
+        },
+        {
+          "date": "2026-04-03",
+          "localName": "Viernes Santo",
+          "name": "Good Friday"
+        },
+        {
+          "date": "2026-05-01",
+          "localName": "Fiesta del trabajo",
+          "name": "Labour Day"
+        },
+        {
+          "date": "2026-08-15",
+          "localName": "Asunción",
+          "name": "Assumption"
+        },
+        {
+          "date": "2026-10-12",
+          "localName": "Fiesta Nacional de España",
+          "name": "National Day of Spain"
+        },
+        {
+          "date": "2026-11-01",
+          "localName": "Día de todos los Santos",
+          "name": "All Saints Day"
+        },
+        {
+          "date": "2026-12-06",
+          "localName": "Día de la Constitución",
+          "name": "Constitution Day"
+        },
+        {
+          "date": "2026-12-08",
+          "localName": "Inmaculada Concepción",
+          "name": "Immaculate Conception"
+        },
+        {
+          "date": "2026-12-25",
+          "localName": "Navidad",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2027-01-01",
+          "localName": "Año Nuevo",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2027-01-06",
+          "localName": "Día de Reyes / Epifanía del Señor",
+          "name": "Epiphany"
+        },
+        {
+          "date": "2027-03-26",
+          "localName": "Viernes Santo",
+          "name": "Good Friday"
+        },
+        {
+          "date": "2027-05-01",
+          "localName": "Fiesta del trabajo",
+          "name": "Labour Day"
+        },
+        {
+          "date": "2027-08-15",
+          "localName": "Asunción",
+          "name": "Assumption"
+        },
+        {
+          "date": "2027-10-12",
+          "localName": "Fiesta Nacional de España",
+          "name": "National Day of Spain"
+        },
+        {
+          "date": "2027-11-01",
+          "localName": "Día de todos los Santos",
+          "name": "All Saints Day"
+        },
+        {
+          "date": "2027-12-06",
+          "localName": "Día de la Constitución",
+          "name": "Constitution Day"
+        },
+        {
+          "date": "2027-12-08",
+          "localName": "Inmaculada Concepción",
+          "name": "Immaculate Conception"
+        },
+        {
+          "date": "2027-12-25",
+          "localName": "Navidad",
+          "name": "Christmas Day"
+        }
+      ]
+    },
+    "Vietnam": {
+      "climate": [
+        {
+          "m": 1,
+          "hi": 19,
+          "lo": 12,
+          "rain": 145
+        },
+        {
+          "m": 2,
+          "hi": 22,
+          "lo": 15,
+          "rain": 123
+        },
+        {
+          "m": 3,
+          "hi": 25,
+          "lo": 16,
+          "rain": 112
+        },
+        {
+          "m": 4,
+          "hi": 28,
+          "lo": 19,
+          "rain": 112
+        },
+        {
+          "m": 5,
+          "hi": 29,
+          "lo": 20,
+          "rain": 287
+        },
+        {
+          "m": 6,
+          "hi": 29,
+          "lo": 21,
+          "rain": 481
+        },
+        {
+          "m": 7,
+          "hi": 28,
+          "lo": 21,
+          "rain": 191
+        },
+        {
+          "m": 8,
+          "hi": 29,
+          "lo": 20,
+          "rain": 353
+        },
+        {
+          "m": 9,
+          "hi": 27,
+          "lo": 20,
+          "rain": 455
+        },
+        {
+          "m": 10,
+          "hi": 24,
+          "lo": 19,
+          "rain": 1051
+        },
+        {
+          "m": 11,
+          "hi": 21,
+          "lo": 16,
+          "rain": 579
+        },
+        {
+          "m": 12,
+          "hi": 20,
+          "lo": 16,
+          "rain": 209
+        }
+      ],
+      "holidays": [
+        {
+          "date": "2026-01-01",
+          "localName": "Tết dương lịch",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2026-04-30",
+          "localName": "Ngày Giải phóng miền Nam, thống nhất đất nước",
+          "name": "Reunification Day"
+        },
+        {
+          "date": "2026-05-01",
+          "localName": "Ngày Quốc tế lao động",
+          "name": "Labour Day"
+        },
+        {
+          "date": "2026-09-02",
+          "localName": "Quốc khánh",
+          "name": "National Day"
+        },
+        {
+          "date": "2027-01-01",
+          "localName": "Tết dương lịch",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2027-04-30",
+          "localName": "Ngày Giải phóng miền Nam, thống nhất đất nước",
+          "name": "Reunification Day"
+        },
+        {
+          "date": "2027-05-01",
+          "localName": "Ngày Quốc tế lao động",
+          "name": "Labour Day"
+        },
+        {
+          "date": "2027-09-02",
+          "localName": "Quốc khánh",
+          "name": "National Day"
+        }
+      ]
+    },
+    "United Arab Emirates": {
+      "climate": [
+        {
+          "m": 1,
+          "hi": 25,
+          "lo": 15,
+          "rain": 2
+        },
+        {
+          "m": 2,
+          "hi": 27,
+          "lo": 17,
+          "rain": 10
+        },
+        {
+          "m": 3,
+          "hi": 31,
+          "lo": 19,
+          "rain": 2
+        },
+        {
+          "m": 4,
+          "hi": 38,
+          "lo": 22,
+          "rain": 0
+        },
+        {
+          "m": 5,
+          "hi": 40,
+          "lo": 25,
+          "rain": 0
+        },
+        {
+          "m": 6,
+          "hi": 42,
+          "lo": 27,
+          "rain": 0
+        },
+        {
+          "m": 7,
+          "hi": 44,
+          "lo": 30,
+          "rain": 0
+        },
+        {
+          "m": 8,
+          "hi": 43,
+          "lo": 31,
+          "rain": 0
+        },
+        {
+          "m": 9,
+          "hi": 41,
+          "lo": 28,
+          "rain": 0
+        },
+        {
+          "m": 10,
+          "hi": 36,
+          "lo": 25,
+          "rain": 1
+        },
+        {
+          "m": 11,
+          "hi": 32,
+          "lo": 19,
+          "rain": 0
+        },
+        {
+          "m": 12,
+          "hi": 27,
+          "lo": 17,
+          "rain": 38
+        }
+      ],
+      "holidays": []
+    },
+    "Taiwan": {
+      "holidays": []
+    },
+    "Indonesia": {
+      "climate": [
+        {
+          "m": 1,
+          "hi": 28,
+          "lo": 22,
+          "rain": 463
+        },
+        {
+          "m": 2,
+          "hi": 29,
+          "lo": 23,
+          "rain": 466
+        },
+        {
+          "m": 3,
+          "hi": 29,
+          "lo": 22,
+          "rain": 368
+        },
+        {
+          "m": 4,
+          "hi": 29,
+          "lo": 21,
+          "rain": 106
+        },
+        {
+          "m": 5,
+          "hi": 29,
+          "lo": 22,
+          "rain": 164
+        },
+        {
+          "m": 6,
+          "hi": 29,
+          "lo": 21,
+          "rain": 87
+        },
+        {
+          "m": 7,
+          "hi": 29,
+          "lo": 20,
+          "rain": 20
+        },
+        {
+          "m": 8,
+          "hi": 30,
+          "lo": 20,
+          "rain": 30
+        },
+        {
+          "m": 9,
+          "hi": 31,
+          "lo": 21,
+          "rain": 43
+        },
+        {
+          "m": 10,
+          "hi": 32,
+          "lo": 22,
+          "rain": 77
+        },
+        {
+          "m": 11,
+          "hi": 29,
+          "lo": 22,
+          "rain": 326
+        },
+        {
+          "m": 12,
+          "hi": 30,
+          "lo": 22,
+          "rain": 193
+        }
+      ],
+      "holidays": [
+        {
+          "date": "2026-01-01",
+          "localName": "Tahun Baru Masehi",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2026-04-03",
+          "localName": "Wafat Isa Almasih",
+          "name": "Good Friday"
+        },
+        {
+          "date": "2026-04-05",
+          "localName": "Paskah",
+          "name": "Easter Sunday"
+        },
+        {
+          "date": "2026-05-01",
+          "localName": "Hari Buruh Internasional",
+          "name": "Labour Day"
+        },
+        {
+          "date": "2026-05-14",
+          "localName": "Kenaikan Isa Almasih",
+          "name": "Ascension Day"
+        },
+        {
+          "date": "2026-06-01",
+          "localName": "Hari Lahir Pancasila",
+          "name": "Pancasila Day"
+        },
+        {
+          "date": "2026-08-17",
+          "localName": "Hari Ulang Tahun Kemerdekaan Republik Indonesia",
+          "name": "Independence Day"
+        },
+        {
+          "date": "2026-12-25",
+          "localName": "Hari Raya Natal",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2027-01-01",
+          "localName": "Tahun Baru Masehi",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2027-03-26",
+          "localName": "Wafat Isa Almasih",
+          "name": "Good Friday"
+        },
+        {
+          "date": "2027-03-28",
+          "localName": "Paskah",
+          "name": "Easter Sunday"
+        },
+        {
+          "date": "2027-05-01",
+          "localName": "Hari Buruh Internasional",
+          "name": "Labour Day"
+        },
+        {
+          "date": "2027-05-06",
+          "localName": "Kenaikan Isa Almasih",
+          "name": "Ascension Day"
+        },
+        {
+          "date": "2027-06-01",
+          "localName": "Hari Lahir Pancasila",
+          "name": "Pancasila Day"
+        },
+        {
+          "date": "2027-08-17",
+          "localName": "Hari Ulang Tahun Kemerdekaan Republik Indonesia",
+          "name": "Independence Day"
+        },
+        {
+          "date": "2027-12-25",
+          "localName": "Hari Raya Natal",
+          "name": "Christmas Day"
+        }
+      ]
+    },
+    "Malaysia": {
+      "holidays": []
+    },
+    "India": {
+      "holidays": []
+    },
+    "Philippines": {
+      "holidays": [
+        {
+          "date": "2026-01-01",
+          "localName": "Bagong Taon",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2026-02-17",
+          "localName": "Chinese New Year",
+          "name": "Chinese New Year"
+        },
+        {
+          "date": "2026-04-02",
+          "localName": "Huwebes Santo",
+          "name": "Maundy Thursday"
+        },
+        {
+          "date": "2026-04-03",
+          "localName": "Biyernes Santo",
+          "name": "Good Friday"
+        },
+        {
+          "date": "2026-04-04",
+          "localName": "Sabado de Gloria",
+          "name": "Holy Saturday"
+        },
+        {
+          "date": "2026-04-09",
+          "localName": "Araw ng Kagitingan",
+          "name": "Day of Valor"
+        },
+        {
+          "date": "2026-05-01",
+          "localName": "Araw ng Paggawa",
+          "name": "Labour Day"
+        },
+        {
+          "date": "2026-06-12",
+          "localName": "Araw ng Kalayaan",
+          "name": "Independence Day"
+        },
+        {
+          "date": "2026-08-21",
+          "localName": "Araw ng Kamatayan ni Senador Benigno Simeon \"Ninoy\" Aquino Jr.",
+          "name": "Ninoy Aquino Day"
+        },
+        {
+          "date": "2026-08-31",
+          "localName": "Araw ng mga Bayani",
+          "name": "National Heroes Day"
+        },
+        {
+          "date": "2026-10-31",
+          "localName": "All Saints' Day Eve",
+          "name": "All Saints' Day Eve"
+        },
+        {
+          "date": "2026-11-01",
+          "localName": "Araw ng mga Santo",
+          "name": "All Saints' Day"
+        },
+        {
+          "date": "2026-11-30",
+          "localName": "Araw ni Gat Andres Bonifacio",
+          "name": "Bonifacio Day"
+        },
+        {
+          "date": "2026-12-08",
+          "localName": "Kapistahan ng Immaculada Concepcion",
+          "name": "Feast of the Immaculate Conception of Mary"
+        },
+        {
+          "date": "2026-12-24",
+          "localName": "Christmas Eve",
+          "name": "Christmas Eve"
+        },
+        {
+          "date": "2026-12-25",
+          "localName": "Araw ng Pasko",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2026-12-30",
+          "localName": "Araw ng Kamatayan ni Dr. Jose Rizal",
+          "name": "Rizal Day"
+        },
+        {
+          "date": "2026-12-31",
+          "localName": "Huling Araw ng Taon",
+          "name": "Last Day of The Year"
+        },
+        {
+          "date": "2027-01-01",
+          "localName": "Bagong Taon",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2027-02-06",
+          "localName": "Chinese New Year",
+          "name": "Chinese New Year"
+        },
+        {
+          "date": "2027-03-25",
+          "localName": "Huwebes Santo",
+          "name": "Maundy Thursday"
+        },
+        {
+          "date": "2027-03-26",
+          "localName": "Biyernes Santo",
+          "name": "Good Friday"
+        },
+        {
+          "date": "2027-03-27",
+          "localName": "Sabado de Gloria",
+          "name": "Holy Saturday"
+        },
+        {
+          "date": "2027-04-09",
+          "localName": "Araw ng Kagitingan",
+          "name": "Day of Valor"
+        },
+        {
+          "date": "2027-05-01",
+          "localName": "Araw ng Paggawa",
+          "name": "Labour Day"
+        },
+        {
+          "date": "2027-06-12",
+          "localName": "Araw ng Kalayaan",
+          "name": "Independence Day"
+        },
+        {
+          "date": "2027-08-21",
+          "localName": "Araw ng Kamatayan ni Senador Benigno Simeon \"Ninoy\" Aquino Jr.",
+          "name": "Ninoy Aquino Day"
+        },
+        {
+          "date": "2027-08-30",
+          "localName": "Araw ng mga Bayani",
+          "name": "National Heroes Day"
+        },
+        {
+          "date": "2027-10-31",
+          "localName": "All Saints' Day Eve",
+          "name": "All Saints' Day Eve"
+        },
+        {
+          "date": "2027-11-01",
+          "localName": "Araw ng mga Santo",
+          "name": "All Saints' Day"
+        },
+        {
+          "date": "2027-11-30",
+          "localName": "Araw ni Gat Andres Bonifacio",
+          "name": "Bonifacio Day"
+        },
+        {
+          "date": "2027-12-08",
+          "localName": "Kapistahan ng Immaculada Concepcion",
+          "name": "Feast of the Immaculate Conception of Mary"
+        },
+        {
+          "date": "2027-12-24",
+          "localName": "Christmas Eve",
+          "name": "Christmas Eve"
+        },
+        {
+          "date": "2027-12-25",
+          "localName": "Araw ng Pasko",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2027-12-30",
+          "localName": "Araw ng Kamatayan ni Dr. Jose Rizal",
+          "name": "Rizal Day"
+        },
+        {
+          "date": "2027-12-31",
+          "localName": "Huling Araw ng Taon",
+          "name": "Last Day of The Year"
+        }
+      ]
+    },
+    "Turkey": {
+      "climate": [
+        {
+          "m": 1,
+          "hi": 8,
+          "lo": -3,
+          "rain": 34
+        },
+        {
+          "m": 2,
+          "hi": 3,
+          "lo": -6,
+          "rain": 23
+        },
+        {
+          "m": 3,
+          "hi": 14,
+          "lo": 0,
+          "rain": 18
+        },
+        {
+          "m": 4,
+          "hi": 13,
+          "lo": 2,
+          "rain": 100
+        },
+        {
+          "m": 5,
+          "hi": 20,
+          "lo": 6,
+          "rain": 50
+        },
+        {
+          "m": 6,
+          "hi": 25,
+          "lo": 10,
+          "rain": 6
+        },
+        {
+          "m": 7,
+          "hi": 31,
+          "lo": 14,
+          "rain": 3
+        },
+        {
+          "m": 8,
+          "hi": 30,
+          "lo": 15,
+          "rain": 6
+        },
+        {
+          "m": 9,
+          "hi": 24,
+          "lo": 10,
+          "rain": 15
+        },
+        {
+          "m": 10,
+          "hi": 17,
+          "lo": 5,
+          "rain": 33
+        },
+        {
+          "m": 11,
+          "hi": 14,
+          "lo": 1,
+          "rain": 10
+        },
+        {
+          "m": 12,
+          "hi": 6,
+          "lo": -3,
+          "rain": 37
+        }
+      ],
+      "holidays": [
+        {
+          "date": "2026-01-01",
+          "localName": "Yılbaşı",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2026-03-20",
+          "localName": "Ramazan Bayramı 1. Gün",
+          "name": "Eid al-Fitr First Day"
+        },
+        {
+          "date": "2026-03-21",
+          "localName": "Ramazan Bayramı 2. Gün",
+          "name": "Eid al-Fitr Second Day"
+        },
+        {
+          "date": "2026-03-22",
+          "localName": "Ramazan Bayramı 3. Gün",
+          "name": "Eid al-Fitr Third Day"
+        },
+        {
+          "date": "2026-04-23",
+          "localName": "Ulusal Egemenlik ve Çocuk Bayramı",
+          "name": "National Independence & Children's Day"
+        },
+        {
+          "date": "2026-05-01",
+          "localName": "İşçi Bayramı",
+          "name": "Labour Day"
+        },
+        {
+          "date": "2026-05-19",
+          "localName": "Atatürk'ü Anma, Gençlik ve Spor Bayramı",
+          "name": "Atatürk Commemoration & Youth Day"
+        },
+        {
+          "date": "2026-05-27",
+          "localName": "Kurban Bayramı 1. Gün",
+          "name": "Eid al-Adha First Day"
+        },
+        {
+          "date": "2026-05-28",
+          "localName": "Kurban Bayramı 2. Gün",
+          "name": "Eid al-Adha Second Day"
+        },
+        {
+          "date": "2026-05-29",
+          "localName": "Kurban Bayramı 3. Gün",
+          "name": "Eid al-Adha Third Day"
+        },
+        {
+          "date": "2026-05-30",
+          "localName": "Kurban Bayramı 4. Gün",
+          "name": "Eid al-Adha Fourth Day"
+        },
+        {
+          "date": "2026-07-15",
+          "localName": "Demokrasi ve Millî Birlik Günü",
+          "name": "Democracy and National Unity Day"
+        },
+        {
+          "date": "2026-08-30",
+          "localName": "Zafer Bayramı",
+          "name": "Victory Day"
+        },
+        {
+          "date": "2026-10-29",
+          "localName": "Cumhuriyet Bayramı",
+          "name": "Republic Day"
+        },
+        {
+          "date": "2027-01-01",
+          "localName": "Yılbaşı",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2027-03-10",
+          "localName": "Ramazan Bayramı 1. Gün (Tentative Date)",
+          "name": "Eid al-Fitr First Day (Tentative Date)"
+        },
+        {
+          "date": "2027-03-11",
+          "localName": "Ramazan Bayramı 2. Gün (Tentative Date)",
+          "name": "Eid al-Fitr Second Day (Tentative Date)"
+        },
+        {
+          "date": "2027-03-12",
+          "localName": "Ramazan Bayramı 3. Gün (Tentative Date)",
+          "name": "Eid al-Fitr Third Day (Tentative Date)"
+        },
+        {
+          "date": "2027-04-23",
+          "localName": "Ulusal Egemenlik ve Çocuk Bayramı",
+          "name": "National Independence & Children's Day"
+        },
+        {
+          "date": "2027-05-01",
+          "localName": "İşçi Bayramı",
+          "name": "Labour Day"
+        },
+        {
+          "date": "2027-05-16",
+          "localName": "Kurban Bayramı 1. Gün (Tentative Date)",
+          "name": "Eid al-Adha First Day (Tentative Date)"
+        },
+        {
+          "date": "2027-05-17",
+          "localName": "Kurban Bayramı 2. Gün (Tentative Date)",
+          "name": "Eid al-Adha Second Day (Tentative Date)"
+        },
+        {
+          "date": "2027-05-18",
+          "localName": "Kurban Bayramı 3. Gün (Tentative Date)",
+          "name": "Eid al-Adha Third Day (Tentative Date)"
+        },
+        {
+          "date": "2027-05-19",
+          "localName": "Atatürk'ü Anma, Gençlik ve Spor Bayramı",
+          "name": "Atatürk Commemoration & Youth Day"
+        },
+        {
+          "date": "2027-05-19",
+          "localName": "Kurban Bayramı 4. Gün (Tentative Date)",
+          "name": "Eid al-Adha Fourth Day (Tentative Date)"
+        },
+        {
+          "date": "2027-07-15",
+          "localName": "Demokrasi ve Millî Birlik Günü",
+          "name": "Democracy and National Unity Day"
+        },
+        {
+          "date": "2027-08-30",
+          "localName": "Zafer Bayramı",
+          "name": "Victory Day"
+        },
+        {
+          "date": "2027-10-29",
+          "localName": "Cumhuriyet Bayramı",
+          "name": "Republic Day"
+        }
+      ]
+    },
+    "Singapore": {
+      "climate": [
+        {
+          "m": 1,
+          "hi": 29,
+          "lo": 24,
+          "rain": 366
+        },
+        {
+          "m": 2,
+          "hi": 31,
+          "lo": 24,
+          "rain": 71
+        },
+        {
+          "m": 3,
+          "hi": 30,
+          "lo": 24,
+          "rain": 357
+        },
+        {
+          "m": 4,
+          "hi": 30,
+          "lo": 24,
+          "rain": 278
+        },
+        {
+          "m": 5,
+          "hi": 32,
+          "lo": 26,
+          "rain": 142
+        },
+        {
+          "m": 6,
+          "hi": 32,
+          "lo": 26,
+          "rain": 67
+        },
+        {
+          "m": 7,
+          "hi": 31,
+          "lo": 26,
+          "rain": 84
+        },
+        {
+          "m": 8,
+          "hi": 30,
+          "lo": 25,
+          "rain": 145
+        },
+        {
+          "m": 9,
+          "hi": 30,
+          "lo": 25,
+          "rain": 140
+        },
+        {
+          "m": 10,
+          "hi": 31,
+          "lo": 25,
+          "rain": 84
+        },
+        {
+          "m": 11,
+          "hi": 31,
+          "lo": 25,
+          "rain": 187
+        },
+        {
+          "m": 12,
+          "hi": 30,
+          "lo": 24,
+          "rain": 329
+        }
+      ],
+      "holidays": [
+        {
+          "date": "2026-01-01",
+          "localName": "New Year's Day",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2026-02-17",
+          "localName": "Chinese New Year",
+          "name": "Chinese New Year"
+        },
+        {
+          "date": "2026-02-18",
+          "localName": "Chinese New Year",
+          "name": "Chinese New Year"
+        },
+        {
+          "date": "2026-03-21",
+          "localName": "Hari Raya Puasa",
+          "name": "Hari Raya Puasa"
+        },
+        {
+          "date": "2026-04-03",
+          "localName": "Good Friday",
+          "name": "Good Friday"
+        },
+        {
+          "date": "2026-05-01",
+          "localName": "Labour Day",
+          "name": "Labour Day"
+        },
+        {
+          "date": "2026-05-27",
+          "localName": "Hari Raya Haji",
+          "name": "Hari Raya Haji"
+        },
+        {
+          "date": "2026-06-01",
+          "localName": "Vesak Day",
+          "name": "Vesak Day"
+        },
+        {
+          "date": "2026-08-10",
+          "localName": "National Day",
+          "name": "National Day"
+        },
+        {
+          "date": "2026-11-09",
+          "localName": "Deepavali",
+          "name": "Deepavali"
+        },
+        {
+          "date": "2026-12-25",
+          "localName": "Christmas Day",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2027-01-01",
+          "localName": "New Year's Day",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2027-02-06",
+          "localName": "Chinese New Year",
+          "name": "Chinese New Year"
+        },
+        {
+          "date": "2027-02-08",
+          "localName": "Chinese New Year",
+          "name": "Chinese New Year"
+        },
+        {
+          "date": "2027-03-10",
+          "localName": "Hari Raya Puasa",
+          "name": "Hari Raya Puasa"
+        },
+        {
+          "date": "2027-03-26",
+          "localName": "Good Friday",
+          "name": "Good Friday"
+        },
+        {
+          "date": "2027-05-01",
+          "localName": "Labour Day",
+          "name": "Labour Day"
+        },
+        {
+          "date": "2027-05-17",
+          "localName": "Hari Raya Haji",
+          "name": "Hari Raya Haji"
+        },
+        {
+          "date": "2027-05-20",
+          "localName": "Vesak Day",
+          "name": "Vesak Day"
+        },
+        {
+          "date": "2027-08-09",
+          "localName": "National Day",
+          "name": "National Day"
+        },
+        {
+          "date": "2027-10-28",
+          "localName": "Deepavali",
+          "name": "Deepavali"
+        },
+        {
+          "date": "2027-12-25",
+          "localName": "Christmas Day",
+          "name": "Christmas Day"
+        }
+      ]
+    }
+  }
+}
