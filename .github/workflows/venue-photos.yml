@@ -53,7 +53,7 @@ jobs:
           # Stops cleanly on 429 and resumes next day.
           PHOTO_LIMIT: ${{ github.event.inputs.limit || '25' }}
           SLUGS: ${{ github.event.inputs.slugs || '' }}
-        run: node scripts/backfill-venue-photos.mjs
+        run: node scripts/backfill-venue-photos.mjs 2>&1 | tee /tmp/vp.log
 
       - name: Build hero photo-wall thumbnails
         run: node scripts/build-wall.mjs
@@ -76,6 +76,23 @@ jobs:
             git push
           fi
 
+      # Tell the two failure modes apart. ZERO successful Details calls on a run that
+      # starts right after the daily reset means the project is being refused outright
+      # (billing/region), not that our other jobs ate the quota — same symptom, very
+      # different fix. Anything above zero means it's just quota sharing, working.
+      - name: Quota diagnosis
+        if: always()
+        id: diag
+        run: |
+          n=$(grep -o 'QUOTA_STOP after [0-9]*' /tmp/vp.log 2>/dev/null | head -1 | grep -o '[0-9]*' || true)
+          if [ -z "$n" ]; then
+            echo "diag=" >> "$GITHUB_OUTPUT"
+          elif [ "$n" = "0" ]; then
+            echo "diag=진단: 첫 요청부터 거부됨 — 한도 배분이 아니라 계정/결제 문제입니다." >> "$GITHUB_OUTPUT"
+          else
+            echo "diag=진단: $n건 성공 후 한도 소진 — 한도를 나눠 쓰는 문제(정상 동작)." >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Notify Telegram
         if: always()
         env:
@@ -84,4 +101,6 @@ jobs:
           JOB_STATUS: ${{ job.status }}
           NEW: ${{ steps.commit.outputs.new }}
           TOTAL: ${{ steps.commit.outputs.total }}
+          # Rides along in the free-text slot so a zero-photo run says WHY.
+          NEW_LIST: ${{ steps.diag.outputs.diag }}
         run: bash scripts/notify-telegram.sh "Venue photos"

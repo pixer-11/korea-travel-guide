@@ -75,7 +75,11 @@ for (const { f, src, id } of candidates) {
   } catch (e) {
     const m = e.message || '';
     if (/\b429\b|RESOURCE_EXHAUSTED|Quota exceeded/i.test(m)) {
-      console.log(`⛔ Places Details quota — stopping; next run resumes. Raw: ${m.slice(0, 220)}`);
+      // Telemetry: how many Details calls actually SUCCEEDED before the 429. If this
+      // is 0 on a run right after the daily reset, the quota isn't being "used up"
+      // by our other jobs — the project itself is being refused (billing/region),
+      // which is a completely different problem from scheduling.
+      console.log(`⛔ QUOTA_STOP after ${done} successful photo(s) this run (attempted ${done + failed + 1}). Raw: ${m.slice(0, 220)}`);
       break;
     }
     // A permission / not-enabled / bad-request error will repeat for every post —
