@@ -6,7 +6,7 @@
   "description": "Automated, legally-sourced Korea travel guide for international visitors.",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
+    "build": "node -e \"require('fs').rmSync('.astro',{recursive:true,force:true})\" && astro build",
     "preview": "astro preview",
     "generate": "node scripts/generate.mjs",
     "generate:dummy": "cross-env DUMMY=1 node scripts/generate.mjs",
