@@ -124,6 +124,74 @@ const BORING =
 // are now blocked by crossCheck/GEO_STOP/keyToken + the vintage-year guard, not
 // by banning these travel subjects.
 
+// The LEAD image of a place's Wikipedia article — the photo Wikipedia editors
+// chose as the single most representative view of that place (user directive
+// 2026-07-26: heroes must be iconic AND factual, e.g. "Amalfi Coast" should be
+// the classic coastal vista, not an accurately-named-but-obscure watchtower).
+// Identity is stronger than filename matching: the image is attached to the
+// article FOR the place. Only free Commons files pass (non-free en-wiki logos
+// resolve as missing on Commons and are dropped). Returns a commonsBest-shaped
+// candidate or null; callers fall back to commonsBest search.
+export async function wikipediaLeadImage(name, { used, minWidth = 1000 } = {}) {
+  if (!name) return null;
+  const wikiUrl =
+    'https://en.wikipedia.org/w/api.php?action=query&format=json&origin=*&redirects=1' +
+    '&titles=' + encodeURIComponent(name) +
+    '&prop=pageimages|pageprops&piprop=name&ppprop=disambiguation';
+  let page;
+  try {
+    const res = await fetch(wikiUrl, { headers: { 'User-Agent': UA } });
+    if (!res.ok) return null;
+    page = Object.values((await res.json())?.query?.pages || {})[0];
+  } catch {
+    return null;
+  }
+  if (!page || page.missing !== undefined || !page.pageimage) return null;
+  if (page.pageprops?.disambiguation !== undefined) return null;
+  // Redirect sanity: the resolved article must still be about OUR place — its
+  // title must share a token with the query (guards "Foo Cafe" → unrelated page).
+  const qtok = new Set(tokens(name));
+  if (!tokens(page.title || '').some((t) => qtok.has(t))) return null;
+  if (BORING.test(page.pageimage)) return null;
+
+  const fileUrl =
+    'https://commons.wikimedia.org/w/api.php?action=query&format=json&origin=*' +
+    '&titles=' + encodeURIComponent('File:' + page.pageimage) +
+    '&prop=imageinfo&iiprop=url|extmetadata|mime|size&iiurlwidth=1600';
+  let fp;
+  try {
+    const res = await fetch(fileUrl, { headers: { 'User-Agent': UA } });
+    if (!res.ok) return null;
+    fp = Object.values((await res.json())?.query?.pages || {})[0];
+  } catch {
+    return null;
+  }
+  const ii = fp?.imageinfo?.[0];
+  if (!ii || !/image\/(jpe?g|png)/i.test(ii.mime || '')) return null;
+  const em = ii.extmetadata || {};
+  const license = stripHtml(em.LicenseShortName?.value) || '';
+  // KOGL Type 1 = Korea Open Government License, attribution-only (free for
+  // commercial use; Commons hosts it) — common on Korean-heritage lead images.
+  if (!/cc|public domain|pdm|cc0|fal|kogl type 1/i.test(license)) return null;
+  const w = ii.thumbwidth || ii.width || 0;
+  const h = ii.thumbheight || ii.height || 0;
+  if (w && w < minWidth) return null;
+  if (w && h && w < h * 0.95) return null; // heroes need a landscape banner
+  const url = ii.thumburl || ii.url;
+  if (!url || (used && used.has(url))) return null;
+  const artist = stripHtml(em.Artist?.value) || 'Wikimedia Commons contributor';
+  return {
+    title: page.pageimage.replace(/\.(jpe?g|png)$/i, ''),
+    url,
+    credit: `Photo: ${artist} / Wikimedia Commons (${license || 'CC'})`,
+    license: 'wikimedia',
+    source:
+      ii.descriptionurl ||
+      `https://commons.wikimedia.org/wiki/File:${encodeURIComponent(page.pageimage)}`,
+    licenseShort: license,
+  };
+}
+
 export async function commonsBest(query, { mustInclude = [], used, allowPortrait = false, minWidth = 1000, crossCheck = null, minCross = 0 } = {}) {
   const cands = await commonsCandidates(query, 14);
   if (!cands.length) return null;

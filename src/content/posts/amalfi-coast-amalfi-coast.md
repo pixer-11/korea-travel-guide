@@ -6,10 +6,10 @@ region: "Amalfi Coast"
 category: "attraction"
 pubDate: "2026-07-26T08:35:08.369Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Watchtower_on_Amalfi_Coast_02.jpg/1920px-Watchtower_on_Amalfi_Coast_02.jpg"
-  credit: "Photo: Bernard Gagnon / Wikimedia Commons (CC BY 4.0)"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Amalfi_Coast_%28Italy%2C_October_2020%29_-_75_%2850558355441%29.jpg/1920px-Amalfi_Coast_%28Italy%2C_October_2020%29_-_75_%2850558355441%29.jpg"
+  credit: "Photo: Bruno Rijsman / Wikimedia Commons (CC BY-SA 2.0)"
   license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Watchtower_on_Amalfi_Coast_02.jpg"
+  source: "https://commons.wikimedia.org/wiki/File:Amalfi_Coast_(Italy,_October_2020)_-_75_(50558355441).jpg"
 gallery: []
 place:
   id: "ChIJoXFMw62VOxMR3ExPyRTP6Ew"

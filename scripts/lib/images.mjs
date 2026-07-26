@@ -9,7 +9,7 @@ import { createHash } from 'node:crypto';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { getPlacePhoto, fetchPlacePhotoBytes } from './places.mjs';
-import { commonsBest, keyToken, tokens } from './commons.mjs';
+import { commonsBest, keyToken, tokens, wikipediaLeadImage } from './commons.mjs';
 
 const UNSPLASH_KEY = process.env.UNSPLASH_ACCESS_KEY;
 
@@ -111,6 +111,15 @@ export async function resolveHero({ namedVenue, region, topic, place, country = 
   if (selfHost && place?.photos?.length) {
     const hosted = await selfHostPlacePhoto(place, { used });
     if (hosted) return hosted;
+  }
+
+  // ICONIC-FIRST for real places (non-events): the place's Wikipedia article
+  // lead image — editors already picked the most representative real photo
+  // (e.g. Amalfi Coast → the classic coastal vista, not a niche watchtower).
+  // Small venues (cafes etc.) have no article → null → normal flow continues.
+  if (namedVenue && !eventMode) {
+    const lead = await wikipediaLeadImage(namedVenue, { used });
+    if (lead) return mark(lead, used);
   }
 
   if (namedVenue && keyToken(namedVenue)) {
