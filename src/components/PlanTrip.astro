@@ -5,7 +5,7 @@
 // flights point to our own /flights page. Affiliate links use rel="sponsored".
 import { SITE } from '../siteConfig';
 import Emoji from './Emoji.astro';
-import { getLangFromUrl, useTranslations, klookLocale } from '../i18n/utils';
+import { getLangFromUrl, useTranslations, klookLocale, localizePath } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 interface Props { city: string; country?: string }
 const { city } = Astro.props;
@@ -27,16 +27,18 @@ const klookHref = city
 const services = [
   { icon: 'admission-tickets', label: t('widget.toursLabel'), desc: city ? t('widget.toursDescCity').replace('{city}', cityLabel) : t('widget.toursDesc'), href: klookHref },
   { icon: 'automobile', label: t('widget.carLabel'), desc: t('widget.carDesc'), href: 'https://localrent.tpx.lv/qivp9ZCc' },
-  // Kiwitaxi + EKTA cards TEMPORARILY REMOVED (2026-07-27): both tpx.lv short
-  // links are dead at the network (kiwitaxi → 404 "not found a link"; ekta →
-  // was generated against the WRONG program, VisitorsCoverage p=4552, which the
-  // marker isn't subscribed to → "marker is not subscribed to campaign").
-  // Restore each line as soon as the owner regenerates the link from the
-  // program's own "Generate links" button in Travelpayouts → My Programs.
-  // { icon: 'taxi', label: t('widget.transferLabel'), desc: t('widget.transferDesc'), href: '<NEW kiwitaxi link>' },
-  // { icon: 'shield', label: t('widget.insuranceLabel'), desc: t('widget.insuranceDesc'), href: '<NEW ekta link>' },
+  // Kiwitaxi shortlink code is yRbl5tIp with a CAPITAL I — it was transcribed as
+  // lowercase l on 07-21 (the two glyphs are identical in the dashboard font) and
+  // 404'd ever since. Corrected + verified: 302 → kiwitaxi.com, tpo …-754088.
+  // (Owner's Welcome Pickups link https://tpx.lv/DR9LOcP9 also works — spare.)
+  { icon: 'taxi', label: t('widget.transferLabel'), desc: t('widget.transferDesc'), href: 'https://kiwitaxi.tpx.lv/yRbl5tIp' },
   { icon: 'antenna-bars', label: t('widget.esimLabel'), desc: t('widget.esimDesc'), href: 'https://yesim.tpx.lv/KABevuVe' },
-  { icon: 'airplane', label: t('widget.flightsLabel'), desc: city ? t('widget.flightsDescCity').replace('{city}', cityLabel) : t('widget.flightsDesc'), href: '/flights', internal: true },
+  // Insurance card SHELVED until ~Oct 2026: EKTA left Travelpayouts (its links
+  // 302 to VisitorsCoverage p=4552), and VisitorsCoverage is traffic-locked
+  // ("3 consecutive months of stable traffic" review — same gate as Hotels.com).
+  // Restore with a VisitorsCoverage link once the project passes that review.
+  // { icon: 'shield', label: t('widget.insuranceLabel'), desc: t('widget.insuranceDesc'), href: '<VisitorsCoverage link after Oct review>' },
+  { icon: 'airplane', label: t('widget.flightsLabel'), desc: city ? t('widget.flightsDescCity').replace('{city}', cityLabel) : t('widget.flightsDesc'), href: localizePath('/flights', lang), internal: true },
 ];
 ---
 <section class="plan-trip">
