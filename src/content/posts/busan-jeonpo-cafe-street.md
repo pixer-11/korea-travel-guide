@@ -1,14 +1,14 @@
 ---
-title: "Jeonpo Cafe Street: Busan Travel Guide"
-description: "Jeonpo Cafe Street (전포카페거리) is a dense cluster of design-forward cafes, bakeries, and small bars along Dongcheon-ro in Busanjin District, best reached via"
+title: 'Jeonpo Cafe Street: Busan Travel Guide'
+description: Jeonpo Cafe Street (전포카페거리) is a dense cluster of design-forward cafes, bakeries, and small bars along Dongcheon-ro in Busanjin District, best reached via
 region: Busan
 category: trendy
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burimun_gate_and_pine_under_blue_sky_at_Beomeosa_temple_in_Busan%2C_South_Korea.jpg/1920px-Burimun_gate_and_pine_under_blue_sky_at_Beomeosa_temple_in_Busan%2C_South_Korea.jpg"
-  credit: "Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Burimun_gate_and_pine_under_blue_sky_at_Beomeosa_temple_in_Busan,_South_Korea.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burimun_gate_and_pine_under_blue_sky_at_Beomeosa_temple_in_Busan%2C_South_Korea.jpg/1920px-Burimun_gate_and_pine_under_blue_sky_at_Beomeosa_temple_in_Busan%2C_South_Korea.jpg
+  credit: 'Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Burimun_gate_and_pine_under_blue_sky_at_Beomeosa_temple_in_Busan,_South_Korea.jpg
 gallery: []
 place:
   id: ChIJYeuKwGTraDUR-U5PAfT2Uoo
@@ -22,11 +22,27 @@ place:
   lng: 129.0673266
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [7, 8]
-    weekdayBusy: [18, 19, 20, 21, 22]
-    weekendQuiet: [7, 8, 9]
-    weekendBusy: [17, 18, 19, 20, 21, 22]
-    venueId: 'ven_6f6f55325466415035552d52554461725447774b7565594a496843'
+    weekdayQuiet:
+      - 7
+      - 8
+    weekdayBusy:
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+    weekendQuiet:
+      - 7
+      - 8
+      - 9
+    weekendBusy:
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+    venueId: ven_6f6f55325466415035552d52554461725447774b7565594a496843
 tags:
   - busan
   - Jeonpo cafe street
@@ -43,7 +59,7 @@ faq:
   - q: What's nearby if I want to combine this with shopping?
     a: Seomyeon, Busan's major shopping and dining district with Lotte Department Store and underground arcades, is just a short walk from the cafe street.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

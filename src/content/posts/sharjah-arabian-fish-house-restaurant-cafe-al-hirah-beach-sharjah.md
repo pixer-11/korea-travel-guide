@@ -1,50 +1,69 @@
 ---
-title: "Arabian Fish House Restaurant & Cafe - Al Hirah Beach: Where to Eat in Sharjah"
-description: "Arabian Fish House on Al Hirah (Al Heera) Beach is a casual, waterfront seafood restaurant known for whole grilled fish sold by weight, priced mid-range"
-country: "United Arab Emirates"
-region: "Sharjah"
-category: "restaurant"
-pubDate: "2026-07-23T07:50:46.922Z"
+title: 'Arabian Fish House Restaurant & Cafe - Al Hirah Beach: Where to Eat in Sharjah'
+description: Arabian Fish House on Al Hirah (Al Heera) Beach is a casual, waterfront seafood restaurant known for whole grilled fish sold by weight, priced mid-range
+country: United Arab Emirates
+region: Sharjah
+category: restaurant
+pubDate: '2026-07-23T07:50:46.922Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Sharjah_Al_Khan_-_Sharafeldin_1.jpg/1920px-Sharjah_Al_Khan_-_Sharafeldin_1.jpg"
-  credit: "Photo: Sharaf01 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Sharjah_Al_Khan_-_Sharafeldin_1.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Sharjah_Al_Khan_-_Sharafeldin_1.jpg/1920px-Sharjah_Al_Khan_-_Sharafeldin_1.jpg
+  credit: 'Photo: Sharaf01 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Sharjah_Al_Khan_-_Sharafeldin_1.jpg
 gallery: []
 place:
-  id: "ChIJZcbdH-JZXz4RioZKuXpfEKA"
-  name: "Arabian Fish House Restaurant & Cafe - Al Hirah Beach, Sharjah"
-  address: "Al Hira Beach, Cluster 2, Venue 6 - Al Muntazah St - Al Fisht - Alheera Suburb - Sharjah - United Arab Emirates"
+  id: ChIJZcbdH-JZXz4RioZKuXpfEKA
+  name: Arabian Fish House Restaurant & Cafe - Al Hirah Beach, Sharjah
+  address: Al Hira Beach, Cluster 2, Venue 6 - Al Muntazah St - Al Fisht - Alheera Suburb - Sharjah - United Arab Emirates
   rating: 4.9
   userRatingsTotal: 7884
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=11533823626395158154&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=11533823626395158154&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.3858462
   lng: 55.406377199999994
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [7, 8, 9, 10, 11, 12, 13, 14, 15]
-    weekendQuiet: [7, 8, 9]
-    weekendBusy: [16, 17, 18, 19, 20, 21, 22]
-    venueId: 'ven_414b45667058754b5a6f6952347a585a4a2d486462635a4a496843'
+    weekdayQuiet:
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+    weekendQuiet:
+      - 7
+      - 8
+      - 9
+    weekendBusy:
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+    venueId: ven_414b45667058754b5a6f6952347a585a4a2d486462635a4a496843
 tags:
-  - "sharjah"
-  - "local restaurant"
-quickAnswer: "Arabian Fish House on Al Hirah (Al Heera) Beach is a casual, waterfront seafood restaurant known for whole grilled fish sold by weight, priced mid-range (price level 2) and rated an exceptional 4.9 from nearly 8,000 reviews. It's genuinely popular, so aim for an early dinner (before 7pm) or a weekday lunch to skip the queue, and go hungry — portions and the seaside setting are the draw."
+  - sharjah
+  - local restaurant
+quickAnswer: Arabian Fish House on Al Hirah (Al Heera) Beach is a casual, waterfront seafood restaurant known for whole grilled fish sold by weight, priced mid-range (price level 2) and rated an exceptional 4.9 from nearly 8,000 reviews. It's genuinely popular, so aim for an early dinner (before 7pm) or a weekday lunch to skip the queue, and go hungry — portions and the seaside setting are the draw.
 faq:
-  - q: "How do I get to Arabian Fish House from central Sharjah or Dubai?"
-    a: "It's on Al Hirah (Al Heera) Beach in the Al Fisht/Alheera Suburb, about 15-20 minutes by car from Sharjah city center and 20-30 minutes from northern Dubai via Sheikh Mohammed Bin Zayed or Emirates Road. Taxi or ride-hailing apps are the easiest way in since public transport coverage there is limited."
-  - q: "How much does a meal cost?"
-    a: "It's mid-range (price level 2 of 4). Fish is typically priced by weight and varies by species and daily market rate, so ask staff to confirm the per-kilo price before ordering rather than expecting a fixed menu price."
-  - q: "Do I need a reservation?"
-    a: "Formal reservations for specific fish aren't standard practice at pay-by-weight seafood restaurants like this. Walking in is normal, but arrive early for lunch or dinner on weekends since it's very popular and can fill up."
-  - q: "What's the best time to visit?"
-    a: "Cooler months (November-March) suit the outdoor beachside seating best. To avoid crowds, aim for a weekday lunch or an early evening sitting rather than Thursday-Saturday dinner peak times."
-  - q: "How long should I plan to stay, and what's nearby?"
-    a: "Budget around 60-90 minutes for a full seafood meal. The restaurant's location right on Al Hirah Beach makes it easy to pair with a stroll along the corniche or a longer visit to Sharjah's waterfront and nearby city attractions."
+  - q: How do I get to Arabian Fish House from central Sharjah or Dubai?
+    a: It's on Al Hirah (Al Heera) Beach in the Al Fisht/Alheera Suburb, about 15-20 minutes by car from Sharjah city center and 20-30 minutes from northern Dubai via Sheikh Mohammed Bin Zayed or Emirates Road. Taxi or ride-hailing apps are the easiest way in since public transport coverage there is limited.
+  - q: How much does a meal cost?
+    a: It's mid-range (price level 2 of 4). Fish is typically priced by weight and varies by species and daily market rate, so ask staff to confirm the per-kilo price before ordering rather than expecting a fixed menu price.
+  - q: Do I need a reservation?
+    a: Formal reservations for specific fish aren't standard practice at pay-by-weight seafood restaurants like this. Walking in is normal, but arrive early for lunch or dinner on weekends since it's very popular and can fill up.
+  - q: What's the best time to visit?
+    a: Cooler months (November-March) suit the outdoor beachside seating best. To avoid crowds, aim for a weekday lunch or an early evening sitting rather than Thursday-Saturday dinner peak times.
+  - q: How long should I plan to stay, and what's nearby?
+    a: Budget around 60-90 minutes for a full seafood meal. The restaurant's location right on Al Hirah Beach makes it easy to pair with a stroll along the corniche or a longer visit to Sharjah's waterfront and nearby city attractions.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

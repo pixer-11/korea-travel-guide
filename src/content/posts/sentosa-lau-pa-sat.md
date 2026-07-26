@@ -1,50 +1,71 @@
 ---
-title: "Lau Pa Sat: Where to Eat in Sentosa"
-description: "Lau Pa Sat is a Victorian-era cast-iron hawker hall at 18 Raffles Quay in the Downtown Core/CBD — not on Sentosa island itself, so budget about 20–30 minutes"
-country: "Singapore"
-region: "Sentosa"
-category: "restaurant"
-pubDate: "2026-07-23T07:43:54.588Z"
+title: 'Lau Pa Sat: Where to Eat in Sentosa'
+description: Lau Pa Sat is a Victorian-era cast-iron hawker hall at 18 Raffles Quay in the Downtown Core/CBD — not on Sentosa island itself, so budget about 20–30 minutes
+country: Singapore
+region: Sentosa
+category: restaurant
+pubDate: '2026-07-23T07:43:54.588Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Lau_Pa_Sat%2C_October_2024.jpg/1920px-Lau_Pa_Sat%2C_October_2024.jpg"
-  credit: "Photo: GoAheadFan95 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Lau_Pa_Sat,_October_2024.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Lau_Pa_Sat%2C_October_2024.jpg/1920px-Lau_Pa_Sat%2C_October_2024.jpg
+  credit: 'Photo: GoAheadFan95 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Lau_Pa_Sat,_October_2024.jpg
 gallery: []
 place:
-  id: "ChIJ5Y6l4Q0Z2jERYL0KDIjT6v0"
-  name: "Lau Pa Sat"
-  address: "18 Raffles Quay, Singapore 048582"
+  id: ChIJ5Y6l4Q0Z2jERYL0KDIjT6v0
+  name: Lau Pa Sat
+  address: 18 Raffles Quay, Singapore 048582
   rating: 4.4
   userRatingsTotal: 38487
-  googleMapsUrl: "https://maps.google.com/?cid=18296669017417104736&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=18296669017417104736&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.2805121
   lng: 103.8503809
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [7, 8, 9]
-    weekdayBusy: [11, 12, 13, 18, 19, 20, 21, 22]
-    weekendQuiet: [7, 8, 9, 10, 11]
-    weekendBusy: [18, 19, 20, 21, 22]
-    venueId: 'ven_307636546a49444b304c5952456a325a3051346c3659354a496843'
+    weekdayQuiet:
+      - 7
+      - 8
+      - 9
+    weekdayBusy:
+      - 11
+      - 12
+      - 13
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+    weekendQuiet:
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+    weekendBusy:
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+    venueId: ven_307636546a49444b304c5952456a325a3051346c3659354a496843
 tags:
-  - "sentosa"
-  - "street food"
-quickAnswer: "Lau Pa Sat is a Victorian-era cast-iron hawker hall at 18 Raffles Quay in the Downtown Core/CBD — not on Sentosa island itself, so budget about 20–30 minutes to travel there from Sentosa. Go for satay on Boon Tat Street after dark, or a weekday lunch inside the octagonal hall for local classics like laksa, char kway teow, and Hainanese chicken rice. Aim for off-peak hours (mid-afternoon or after 9pm) since it's rated 4.4 from over 38,000 reviews and gets packed at lunch and dinner."
+  - sentosa
+  - street food
+quickAnswer: Lau Pa Sat is a Victorian-era cast-iron hawker hall at 18 Raffles Quay in the Downtown Core/CBD — not on Sentosa island itself, so budget about 20–30 minutes to travel there from Sentosa. Go for satay on Boon Tat Street after dark, or a weekday lunch inside the octagonal hall for local classics like laksa, char kway teow, and Hainanese chicken rice. Aim for off-peak hours (mid-afternoon or after 9pm) since it's rated 4.4 from over 38,000 reviews and gets packed at lunch and dinner.
 faq:
-  - q: "Is Lau Pa Sat actually on Sentosa island?"
-    a: "No. It's in the CBD at 18 Raffles Quay, near Raffles Place MRT. From Sentosa it's about a 20–35 minute trip via the Sentosa Express to HarbourFront, then MRT to Raffles Place, or a similar-length taxi ride."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Mid-afternoon, roughly 3–5pm, is calmest inside the hall. Lunch (12–2pm) is packed with office workers, and evenings get busy once the Boon Tat Street satay stalls open, especially on weekends."
-  - q: "How much should I budget for a meal?"
-    a: "Hawker dishes are generally inexpensive by Singapore standards, though exact prices vary by stall and have risen in recent years — check the menu board at each stall before ordering, and expect satay to be priced per stick."
-  - q: "How long should I plan to spend there?"
-    a: "Allow 45 minutes to an hour to walk the full hall, choose stalls, and eat. If you're also doing the Satay Street experience in the evening, add another 30–45 minutes for that outdoor leg."
-  - q: "What else is nearby if I'm already in the CBD?"
-    a: "Lau Pa Sat sits within walking distance of Marina Bay, the Merlion Park, and Boat Quay, so it pairs well with an evening riverside or waterfront walk before heading back to Sentosa."
+  - q: Is Lau Pa Sat actually on Sentosa island?
+    a: No. It's in the CBD at 18 Raffles Quay, near Raffles Place MRT. From Sentosa it's about a 20–35 minute trip via the Sentosa Express to HarbourFront, then MRT to Raffles Place, or a similar-length taxi ride.
+  - q: What's the best time to visit to avoid crowds?
+    a: Mid-afternoon, roughly 3–5pm, is calmest inside the hall. Lunch (12–2pm) is packed with office workers, and evenings get busy once the Boon Tat Street satay stalls open, especially on weekends.
+  - q: How much should I budget for a meal?
+    a: Hawker dishes are generally inexpensive by Singapore standards, though exact prices vary by stall and have risen in recent years — check the menu board at each stall before ordering, and expect satay to be priced per stick.
+  - q: How long should I plan to spend there?
+    a: Allow 45 minutes to an hour to walk the full hall, choose stalls, and eat. If you're also doing the Satay Street experience in the evening, add another 30–45 minutes for that outdoor leg.
+  - q: What else is nearby if I'm already in the CBD?
+    a: Lau Pa Sat sits within walking distance of Marina Bay, the Merlion Park, and Boat Quay, so it pairs well with an evening riverside or waterfront walk before heading back to Sentosa.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why this guide starts with a correction

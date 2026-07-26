@@ -1,49 +1,61 @@
 ---
-title: "Museo Nacional del Prado: Madrid Travel Guide"
-description: "The Prado is Madrid's essential art museum, home to Velázquez's \\\"Las Meninas,\\\" Goya's \\\"Black Paintings,\\\" and one of the world's finest El Greco"
-country: "Spain"
-region: "Madrid"
-category: "attraction"
-pubDate: 2026-07-21
+title: 'Museo Nacional del Prado: Madrid Travel Guide'
+description: The Prado is Madrid's essential art museum, home to Velázquez's \"Las Meninas,\" Goya's \"Black Paintings,\" and one of the world's finest El Greco
+country: Spain
+region: Madrid
+category: attraction
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Maja_desnuda_%28museo_del_Prado%29.jpg/1920px-Maja_desnuda_%28museo_del_Prado%29.jpg"
-  credit: "Photo: Francisco Goya / Wikimedia Commons (Public domain)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Maja_desnuda_(museo_del_Prado).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Maja_desnuda_%28museo_del_Prado%29.jpg/1920px-Maja_desnuda_%28museo_del_Prado%29.jpg
+  credit: 'Photo: Francisco Goya / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Maja_desnuda_(museo_del_Prado).jpg
 gallery: []
 place:
-  id: "ChIJ7aLYZp0oQg0RWoitk33wlBA"
-  name: "Museo Nacional del Prado"
-  address: "Retiro, 28014 Madrid, Spain"
+  id: ChIJ7aLYZp0oQg0RWoitk33wlBA
+  name: Museo Nacional del Prado
+  address: Retiro, 28014 Madrid, Spain
   rating: 4.7
   userRatingsTotal: 154800
-  googleMapsUrl: "https://maps.google.com/?cid=1194844223299225690&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=1194844223299225690&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 40.413781799999995
   lng: -3.6921270999999996
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [10, 20]
-    weekendQuiet: [10, 19, 20]
-    weekendBusy: [12, 13, 14, 15, 16, 17, 18]
-    venueId: 'ven_41426c7733336b74696f57523067516f30705a594c61374a496843'
+    weekdayQuiet:
+      - 10
+      - 20
+    weekendQuiet:
+      - 10
+      - 19
+      - 20
+    weekendBusy:
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+    venueId: ven_41426c7733336b74696f57523067516f30705a594c61374a496843
 tags:
-  - "madrid"
-  - "Prado Museum"
-quickAnswer: "The Prado is Madrid's essential art museum, home to Velázquez's \"Las Meninas,\" Goya's \"Black Paintings,\" and one of the world's finest El Greco collections. Enter via the Jerónimos entrance on Paseo del Prado, allow at least 2.5–3 hours, and book timed tickets online in advance to skip the queue. Go early on a weekday morning or during the free evening hours for the calmest visit."
+  - madrid
+  - Prado Museum
+quickAnswer: The Prado is Madrid's essential art museum, home to Velázquez's "Las Meninas," Goya's "Black Paintings," and one of the world's finest El Greco collections. Enter via the Jerónimos entrance on Paseo del Prado, allow at least 2.5–3 hours, and book timed tickets online in advance to skip the queue. Go early on a weekday morning or during the free evening hours for the calmest visit.
 faq:
-  - q: "How do I get to the Prado by metro?"
-    a: "Take Line 2 to Banco de España station, then walk about 5 minutes south along Paseo del Prado to the Jerónimos entrance."
-  - q: "How long should I plan to spend at the Prado?"
-    a: "Budget at least 2.5–3 hours for the highlights (Velázquez, Goya, El Greco, Bosch); serious art fans often spend half a day."
-  - q: "Is there a way to visit for free?"
-    a: "The Prado offers free entry during designated evening hours most days of the week — check the official website for current times, as they can change."
-  - q: "Do I need to book tickets in advance?"
-    a: "Yes, timed online booking is highly recommended, especially in spring and autumn, to avoid long lines at the entrance."
-  - q: "What else is nearby if I want to see more art?"
-    a: "The Prado is part of Madrid's 'Golden Triangle of Art' with the Thyssen-Bornemisza Museum and Reina Sofía (home to Picasso's Guernica), both within a 10-minute walk, and Retiro Park borders the museum for a break afterward."
+  - q: How do I get to the Prado by metro?
+    a: Take Line 2 to Banco de España station, then walk about 5 minutes south along Paseo del Prado to the Jerónimos entrance.
+  - q: How long should I plan to spend at the Prado?
+    a: Budget at least 2.5–3 hours for the highlights (Velázquez, Goya, El Greco, Bosch); serious art fans often spend half a day.
+  - q: Is there a way to visit for free?
+    a: The Prado offers free entry during designated evening hours most days of the week — check the official website for current times, as they can change.
+  - q: Do I need to book tickets in advance?
+    a: Yes, timed online booking is highly recommended, especially in spring and autumn, to avoid long lines at the entrance.
+  - q: What else is nearby if I want to see more art?
+    a: The Prado is part of Madrid's 'Golden Triangle of Art' with the Thyssen-Bornemisza Museum and Reina Sofía (home to Picasso's Guernica), both within a 10-minute walk, and Retiro Park borders the museum for a break afterward.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

@@ -1,46 +1,61 @@
 ---
-title: "Vieux Lyon: Travel Guide"
-description: "Vieux Lyon is the Renaissance quarter on the west bank of the Saône, best explored on foot in a half-day: wander the traboules (hidden passageways), climb to"
-country: "France"
-region: "Lyon"
-category: "hidden-gem"
-pubDate: 2026-07-21
+title: 'Vieux Lyon: Travel Guide'
+description: 'Vieux Lyon is the Renaissance quarter on the west bank of the Saône, best explored on foot in a half-day: wander the traboules (hidden passageways), climb to'
+country: France
+region: Lyon
+category: hidden-gem
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Lyon_-_Vieux_Lyon_6692.jpg/1920px-Lyon_-_Vieux_Lyon_6692.jpg"
-  credit: "Photo: Phyrexian / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Lyon_-_Vieux_Lyon_6692.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Lyon_-_Vieux_Lyon_6692.jpg/1920px-Lyon_-_Vieux_Lyon_6692.jpg
+  credit: 'Photo: Phyrexian / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Lyon_-_Vieux_Lyon_6692.jpg
 gallery: []
 place:
-  id: "ChIJX39-76rr9EcRJiT3aHfJnC0"
-  name: "Vieux Lyon"
-  address: "Vieux Lyon, 69005 Lyon, France"
-  googleMapsUrl: "https://maps.google.com/?cid=3286723342772937766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  id: ChIJX39-76rr9EcRJiT3aHfJnC0
+  name: Vieux Lyon
+  address: Vieux Lyon, 69005 Lyon, France
+  googleMapsUrl: https://maps.google.com/?cid=3286723342772937766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   lat: 45.7629811
   lng: 4.8280199
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [11, 12, 13, 14]
-    weekendQuiet: [11, 22]
-    weekendBusy: [13, 14, 15, 16, 17, 18, 19, 20, 21]
-    venueId: 'ven_45554d674231684251427452634539727271354b6766444a496843'
+    weekdayQuiet:
+      - 11
+      - 12
+      - 13
+      - 14
+    weekendQuiet:
+      - 11
+      - 22
+    weekendBusy:
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+    venueId: ven_45554d674231684251427452634539727271354b6766444a496843
 tags:
-  - "lyon"
-  - "Vieux Lyon Old Town"
-quickAnswer: "Vieux Lyon is the Renaissance quarter on the west bank of the Saône, best explored on foot in a half-day: wander the traboules (hidden passageways), climb to Fourvière basilica by funicular, and finish with a bouchon dinner. Go on a weekday morning to avoid crowds, and wear flat shoes — the cobblestones and stairways are relentless."
+  - lyon
+  - Vieux Lyon Old Town
+quickAnswer: 'Vieux Lyon is the Renaissance quarter on the west bank of the Saône, best explored on foot in a half-day: wander the traboules (hidden passageways), climb to Fourvière basilica by funicular, and finish with a bouchon dinner. Go on a weekday morning to avoid crowds, and wear flat shoes — the cobblestones and stairways are relentless.'
 faq:
-  - q: "How do I get to Vieux Lyon?"
-    a: "Take metro Line D to the Vieux Lyon station, or walk across the Saône from Bellecour/Presqu'île via Pont Bonaparte, about 5 minutes."
-  - q: "What are traboules and can I visit them for free?"
-    a: "They're covered passageways once used by silk workers to cross between streets. Many along Rue Saint-Jean and Rue du Boeuf are open to the public free of charge during daytime hours, marked with a red-and-gold plaque, though some sit behind private residential doors and are closed to visitors."
-  - q: "How long should I spend in Vieux Lyon?"
-    a: "A half-day (3–4 hours) covers the main streets, a couple of traboules, the cathedral, and the funicular up to Fourvière; add an hour if you plan a sit-down bouchon lunch."
-  - q: "What's the best time of year to visit?"
-    a: "Spring and early autumn for comfortable walking weather; early December for the Fête des Lumières, when the district is illuminated at night, though it's also the most crowded period."
-  - q: "Is Vieux Lyon walkable or do I need the funicular?"
-    a: "The quarter itself is fully walkable, though hilly and cobbled. The funicular near the Vieux Lyon metro stop is only needed if you're heading up to Fourvière basilica and want to skip the 20-25 minute uphill walk."
+  - q: How do I get to Vieux Lyon?
+    a: Take metro Line D to the Vieux Lyon station, or walk across the Saône from Bellecour/Presqu'île via Pont Bonaparte, about 5 minutes.
+  - q: What are traboules and can I visit them for free?
+    a: They're covered passageways once used by silk workers to cross between streets. Many along Rue Saint-Jean and Rue du Boeuf are open to the public free of charge during daytime hours, marked with a red-and-gold plaque, though some sit behind private residential doors and are closed to visitors.
+  - q: How long should I spend in Vieux Lyon?
+    a: A half-day (3–4 hours) covers the main streets, a couple of traboules, the cathedral, and the funicular up to Fourvière; add an hour if you plan a sit-down bouchon lunch.
+  - q: What's the best time of year to visit?
+    a: Spring and early autumn for comfortable walking weather; early December for the Fête des Lumières, when the district is illuminated at night, though it's also the most crowded period.
+  - q: Is Vieux Lyon walkable or do I need the funicular?
+    a: The quarter itself is fully walkable, though hilly and cobbled. The funicular near the Vieux Lyon metro stop is only needed if you're heading up to Fourvière basilica and want to skip the 20-25 minute uphill walk.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

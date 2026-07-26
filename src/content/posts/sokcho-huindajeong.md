@@ -1,43 +1,43 @@
 ---
-title: "Huindajeong: Sokcho Travel Guide"
-description: "Huindajeong is a stylish café-and-seafood stop in Sokcho's Subok-ro area, best known for ocean-view seating and a laid-back East Sea vibe rather than a"
-country: "South Korea"
-region: "Sokcho"
-category: "trendy"
-pubDate: "2026-07-24T22:21:01.543Z"
+title: 'Huindajeong: Sokcho Travel Guide'
+description: Huindajeong is a stylish café-and-seafood stop in Sokcho's Subok-ro area, best known for ocean-view seating and a laid-back East Sea vibe rather than a
+country: South Korea
+region: Sokcho
+category: trendy
+pubDate: '2026-07-24T22:21:01.543Z'
 heroImage:
-  url: "https://images.unsplash.com/photo-1603031682537-ea6729c9d1bc?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8U29rY2hvJTIwU291dGglMjBLb3JlYSUyMHRyZW5keSUyMGNhZmV8ZW58MHwwfHx8MTc4NDkzMTYyOHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Daniel Bernard on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@nardly?utm_source=korea_travel_guide&utm_medium=referral"
+  url: https://images.unsplash.com/photo-1603031682537-ea6729c9d1bc?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8U29rY2hvJTIwU291dGglMjBLb3JlYSUyMHRyZW5keSUyMGNhZmV8ZW58MHwwfHx8MTc4NDkzMTYyOHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Daniel Bernard on Unsplash
+  license: unsplash
+  source: https://unsplash.com/@nardly?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
-  id: "ChIJT_9b-By92F8RiV25me3JnB0"
-  name: "Huindajeong"
-  address: "248 Subok-ro, Sokcho-si, Gangwon-do, South Korea"
+  id: ChIJT_9b-By92F8RiV25me3JnB0
+  name: Huindajeong
+  address: 248 Subok-ro, Sokcho-si, Gangwon-do, South Korea
   rating: 4.3
   userRatingsTotal: 336
-  googleMapsUrl: "https://maps.google.com/?cid=2133802345790266761&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=2133802345790266761&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 38.2092836
   lng: 128.59130679999998
 tags:
-  - "sokcho"
-  - "trendy cafe"
-quickAnswer: "Huindajeong is a stylish café-and-seafood stop in Sokcho's Subok-ro area, best known for ocean-view seating and a laid-back East Sea vibe rather than a single must-order dish. Plan on 1–1.5 hours, go on a weekday morning or late afternoon to beat weekend crowds, and pair it with a walk along the nearby beach or a drive down to Sokcho's harbor markets."
+  - sokcho
+  - trendy cafe
+quickAnswer: Huindajeong is a stylish café-and-seafood stop in Sokcho's Subok-ro area, best known for ocean-view seating and a laid-back East Sea vibe rather than a single must-order dish. Plan on 1–1.5 hours, go on a weekday morning or late afternoon to beat weekend crowds, and pair it with a walk along the nearby beach or a drive down to Sokcho's harbor markets.
 faq:
-  - q: "How do I get to Huindajeong without a car?"
-    a: "Take an intercity bus from Seoul's Dong-Seoul Terminal to Sokcho (about 2–2.5 hours), then a taxi to 248 Subok-ro, which usually takes under 15 minutes since Sokcho's coastal area is compact."
-  - q: "How long should I plan to spend there?"
-    a: "Budget 1 to 1.5 hours for a relaxed coffee or meal with a view; longer if you want to linger over sunset."
-  - q: "What's the best time of day or week to visit?"
-    a: "Weekday mornings or mid-afternoons are calmest. Weekends and sunset hours draw the biggest crowds, so arrive early if you want a window or terrace seat."
-  - q: "Is it walkable from Sokcho's main sights?"
-    a: "Not really — it's best reached by taxi or car from the bus terminal or other attractions like Sokcho Beach, since local bus frequency is limited."
-  - q: "What else is nearby to combine with a visit?"
-    a: "Sokcho Beach, Yeongnangho Lake, the Abai Village ferry crossing, and Seoraksan National Park (about 20–30 minutes by car) all pair well with a stop here."
+  - q: How do I get to Huindajeong without a car?
+    a: Take an intercity bus from Seoul's Dong-Seoul Terminal to Sokcho (about 2–2.5 hours), then a taxi to 248 Subok-ro, which usually takes under 15 minutes since Sokcho's coastal area is compact.
+  - q: How long should I plan to spend there?
+    a: Budget 1 to 1.5 hours for a relaxed coffee or meal with a view; longer if you want to linger over sunset.
+  - q: What's the best time of day or week to visit?
+    a: Weekday mornings or mid-afternoons are calmest. Weekends and sunset hours draw the biggest crowds, so arrive early if you want a window or terrace seat.
+  - q: Is it walkable from Sokcho's main sights?
+    a: Not really — it's best reached by taxi or car from the bus terminal or other attractions like Sokcho Beach, since local bus frequency is limited.
+  - q: What else is nearby to combine with a visit?
+    a: Sokcho Beach, Yeongnangho Lake, the Abai Village ferry crossing, and Seoraksan National Park (about 20–30 minutes by car) all pair well with a stop here.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

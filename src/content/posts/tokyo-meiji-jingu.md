@@ -1,43 +1,43 @@
 ---
-title: "Meiji Jingu: Tokyo Travel Guide"
-description: "Meiji Jingu is Tokyo's grandest Shinto shrine, tucked inside a 170-acre forest between Harajuku and Yoyogi Park."
-country: "Japan"
-region: "Tokyo"
-category: "attraction"
-pubDate: 2026-07-21
+title: 'Meiji Jingu: Tokyo Travel Guide'
+description: Meiji Jingu is Tokyo's grandest Shinto shrine, tucked inside a 170-acre forest between Harajuku and Yoyogi Park.
+country: Japan
+region: Tokyo
+category: attraction
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Meiji_Jingu_Stadium_aerial_view.jpg/1920px-Meiji_Jingu_Stadium_aerial_view.jpg"
-  credit: "Photo: Arne Müseler / Wikimedia Commons (CC BY-SA 3.0 de)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Meiji_Jingu_Stadium_aerial_view.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Meiji_Jingu_Stadium_aerial_view.jpg/1920px-Meiji_Jingu_Stadium_aerial_view.jpg
+  credit: 'Photo: Arne Müseler / Wikimedia Commons (CC BY-SA 3.0 de)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Meiji_Jingu_Stadium_aerial_view.jpg
 gallery: []
 place:
-  id: "ChIJ5SZMmreMGGARcz8QSTiJyo8"
-  name: "Meiji Jingu"
-  address: "1-1 Yoyogikamizonochō, Shibuya, Tokyo 151-8557, Japan"
+  id: ChIJ5SZMmreMGGARcz8QSTiJyo8
+  name: Meiji Jingu
+  address: 1-1 Yoyogikamizonochō, Shibuya, Tokyo 151-8557, Japan
   rating: 4.6
   userRatingsTotal: 51737
-  googleMapsUrl: "https://maps.google.com/?cid=10361244767556222835&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=10361244767556222835&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.6763976
   lng: 139.6993259
 tags:
-  - "tokyo"
-  - "Meiji Shrine"
-quickAnswer: "Meiji Jingu is Tokyo's grandest Shinto shrine, tucked inside a 170-acre forest between Harajuku and Yoyogi Park. Enter via the towering wooden torii off Omotesando or from Harajuku Station's Takeshita/Omotesando side, budget 60-90 minutes to walk the gravel approach to the main hall, and go early morning on a weekday to avoid the crowds that build by midday."
+  - tokyo
+  - Meiji Shrine
+quickAnswer: Meiji Jingu is Tokyo's grandest Shinto shrine, tucked inside a 170-acre forest between Harajuku and Yoyogi Park. Enter via the towering wooden torii off Omotesando or from Harajuku Station's Takeshita/Omotesando side, budget 60-90 minutes to walk the gravel approach to the main hall, and go early morning on a weekday to avoid the crowds that build by midday.
 faq:
-  - q: "How do I get to Meiji Jingu?"
-    a: "Walk from JR Harajuku Station's Omotesando exit, or take the Chiyoda or Fukutoshin subway line to Meiji-Jingumae Station, Exit 2. Both put you right at a torii gate entrance."
-  - q: "Is Meiji Jingu free to visit?"
-    a: "The main shrine grounds and Honden are free. The separate Inner Garden (Gyoen), home to the iris garden, charges a small admission fee, usually payable in cash."
-  - q: "How long should I spend there?"
-    a: "Plan for 60-90 minutes for the main shrine and forest path; add 30-45 minutes if you visit the Inner Garden as well."
-  - q: "When is the best time to visit?"
-    a: "Early weekday mornings for quiet, June for the blooming irises, and November for autumn foliage. Avoid the first week of January, when millions arrive for hatsumode."
-  - q: "What's nearby worth combining with the visit?"
-    a: "Yoyogi Park sits right next door, and Harajuku's Takeshita Street and Omotesando's boutiques are a five-minute walk from the shrine's main entrance."
+  - q: How do I get to Meiji Jingu?
+    a: Walk from JR Harajuku Station's Omotesando exit, or take the Chiyoda or Fukutoshin subway line to Meiji-Jingumae Station, Exit 2. Both put you right at a torii gate entrance.
+  - q: Is Meiji Jingu free to visit?
+    a: The main shrine grounds and Honden are free. The separate Inner Garden (Gyoen), home to the iris garden, charges a small admission fee, usually payable in cash.
+  - q: How long should I spend there?
+    a: Plan for 60-90 minutes for the main shrine and forest path; add 30-45 minutes if you visit the Inner Garden as well.
+  - q: When is the best time to visit?
+    a: Early weekday mornings for quiet, June for the blooming irises, and November for autumn foliage. Avoid the first week of January, when millions arrive for hatsumode.
+  - q: What's nearby worth combining with the visit?
+    a: Yoyogi Park sits right next door, and Harajuku's Takeshita Street and Omotesando's boutiques are a five-minute walk from the shrine's main entrance.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

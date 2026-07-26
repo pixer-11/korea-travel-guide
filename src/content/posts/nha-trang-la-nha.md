@@ -1,51 +1,61 @@
 ---
-title: "Là Nhà: Where to Eat in Nha Trang"
-description: "Là Nhà is a large, buzzy Vietnamese restaurant at 102 Đường Hồng Bàng in central Nha Trang, popular for hotpot, seafood, and grilled dishes served"
-country: "Vietnam"
-region: "Nha Trang"
-category: "restaurant"
-pubDate: "2026-07-22T09:32:58.331Z"
+title: 'Là Nhà: Where to Eat in Nha Trang'
+description: Là Nhà is a large, buzzy Vietnamese restaurant at 102 Đường Hồng Bàng in central Nha Trang, popular for hotpot, seafood, and grilled dishes served
+country: Vietnam
+region: Nha Trang
+category: restaurant
+pubDate: '2026-07-22T09:32:58.331Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Nha_Trang_Kh%C3%A1nh_Ho%C3%A0.jpg/1920px-Nha_Trang_Kh%C3%A1nh_Ho%C3%A0.jpg"
-  credit: "Photo: Victor311 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Nha_Trang_Kh%C3%A1nh_Ho%C3%A0.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Nha_Trang_Kh%C3%A1nh_Ho%C3%A0.jpg/1920px-Nha_Trang_Kh%C3%A1nh_Ho%C3%A0.jpg
+  credit: 'Photo: Victor311 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Nha_Trang_Kh%C3%A1nh_Ho%C3%A0.jpg
 gallery: []
 place:
-  id: "ChIJ3e4XhzlncDERSlXcE5egEUw"
-  name: "Là Nhà"
-  address: "102 Đ. Hồng Bàng, Nha Trang, Khánh Hòa 650000, Vietnam"
+  id: ChIJ3e4XhzlncDERSlXcE5egEUw
+  name: Là Nhà
+  address: 102 Đ. Hồng Bàng, Nha Trang, Khánh Hòa 650000, Vietnam
   rating: 4.8
   userRatingsTotal: 7424
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=5481338792220317002&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=5481338792220317002&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 12.2397861
   lng: 109.1904295
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [21, 22]
-    weekdayBusy: [19]
-    weekendQuiet: [11, 21, 22]
-    weekendBusy: [12, 13, 18, 19]
-    venueId: 'ven_7755456765354563586c53524544636e6c7a68583465334a496843'
+    weekdayQuiet:
+      - 21
+      - 22
+    weekdayBusy:
+      - 19
+    weekendQuiet:
+      - 11
+      - 21
+      - 22
+    weekendBusy:
+      - 12
+      - 13
+      - 18
+      - 19
+    venueId: ven_7755456765354563586c53524544636e6c7a68583465334a496843
 tags:
-  - "nha trang"
-  - "local restaurant"
-quickAnswer: "Là Nhà is a large, buzzy Vietnamese restaurant at 102 Đường Hồng Bàng in central Nha Trang, popular for hotpot, seafood, and grilled dishes served family-style at reasonable prices. With a 4.8 rating from over 7,400 reviews, it's best visited in a group of 2-4 so you can share several dishes, and it gets busy at dinnertime, so arrive by 6pm or expect a short wait."
+  - nha trang
+  - local restaurant
+quickAnswer: Là Nhà is a large, buzzy Vietnamese restaurant at 102 Đường Hồng Bàng in central Nha Trang, popular for hotpot, seafood, and grilled dishes served family-style at reasonable prices. With a 4.8 rating from over 7,400 reviews, it's best visited in a group of 2-4 so you can share several dishes, and it gets busy at dinnertime, so arrive by 6pm or expect a short wait.
 faq:
-  - q: "Where exactly is Là Nhà located?"
-    a: "102 Đường Hồng Bàng, Nha Trang, Khánh Hòa — a few blocks inland from the main beachfront strip along Trần Phú, about a 10-15 minute walk or short Grab ride from most beach-area hotels."
-  - q: "Do I need a reservation?"
-    a: "The restaurant doesn't require one for small groups, but given its popularity (4.8 stars, 7,400+ reviews) it's smart to arrive by 6pm or just after opening for dinner to avoid a wait, especially on weekends."
-  - q: "How much does a meal cost?"
-    a: "It sits at a moderate price level — more than a street stall but less than upscale hotel dining. Exact prices vary by dish (hotpot and seafood cost more than grilled or vegetable dishes), so confirm current menu pricing on arrival."
-  - q: "Is it better for groups or solo diners?"
-    a: "Groups. Dishes are portioned for sharing, and the hotpot and grilled items are designed for 2-4 people ordering a spread together, so solo travelers may find the format less economical."
-  - q: "What's nearby if I want to combine the visit with other stops?"
-    a: "Trần Phú Beach promenade and the Nha Trang Night Market are both a short walk or ride from Hồng Bàng, making it easy to pair dinner with an evening beach walk or market browse."
+  - q: Where exactly is Là Nhà located?
+    a: 102 Đường Hồng Bàng, Nha Trang, Khánh Hòa — a few blocks inland from the main beachfront strip along Trần Phú, about a 10-15 minute walk or short Grab ride from most beach-area hotels.
+  - q: Do I need a reservation?
+    a: The restaurant doesn't require one for small groups, but given its popularity (4.8 stars, 7,400+ reviews) it's smart to arrive by 6pm or just after opening for dinner to avoid a wait, especially on weekends.
+  - q: How much does a meal cost?
+    a: It sits at a moderate price level — more than a street stall but less than upscale hotel dining. Exact prices vary by dish (hotpot and seafood cost more than grilled or vegetable dishes), so confirm current menu pricing on arrival.
+  - q: Is it better for groups or solo diners?
+    a: Groups. Dishes are portioned for sharing, and the hotpot and grilled items are designed for 2-4 people ordering a spread together, so solo travelers may find the format less economical.
+  - q: What's nearby if I want to combine the visit with other stops?
+    a: Trần Phú Beach promenade and the Nha Trang Night Market are both a short walk or ride from Hồng Bàng, making it easy to pair dinner with an evening beach walk or market browse.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Là Nhà stands out

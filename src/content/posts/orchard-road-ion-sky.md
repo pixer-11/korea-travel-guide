@@ -1,48 +1,60 @@
 ---
-title: "ION Sky: Orchard Road Travel Guide"
-description: "ION Sky is the free-to-access (with mall spend or registration) observation deck on the 56th floor of ION Orchard mall, giving a 360-degree view over Orchard"
-country: "Singapore"
-region: "Orchard Road"
-category: "attraction"
-pubDate: "2026-07-23T07:31:29.881Z"
+title: 'ION Sky: Orchard Road Travel Guide'
+description: ION Sky is the free-to-access (with mall spend or registration) observation deck on the 56th floor of ION Orchard mall, giving a 360-degree view over Orchard
+country: Singapore
+region: Orchard Road
+category: attraction
+pubDate: '2026-07-23T07:31:29.881Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/2/2a/Ion_Cimpoia%2C_Hans%2C_Schemmel_%C8%99i_Mihai_B%C3%AEr%C4%83.jpg"
-  credit: "Photo: Unknown authorUnknown author / Wikimedia Commons (Public domain)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Ion_Cimpoia,_Hans,_Schemmel_%C8%99i_Mihai_B%C3%AEr%C4%83.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/2/2a/Ion_Cimpoia%2C_Hans%2C_Schemmel_%C8%99i_Mihai_B%C3%AEr%C4%83.jpg
+  credit: 'Photo: Unknown authorUnknown author / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Ion_Cimpoia,_Hans,_Schemmel_%C8%99i_Mihai_B%C3%AEr%C4%83.jpg
 gallery: []
 place:
-  id: "ChIJRW8Hwo0Z2jEREk5x5tk4JIg"
-  name: "ION Sky"
-  address: "2 Orchard Turn, Singapore 238801"
+  id: ChIJRW8Hwo0Z2jEREk5x5tk4JIg
+  name: ION Sky
+  address: 2 Orchard Turn, Singapore 238801
   rating: 4.6
   userRatingsTotal: 3274
-  googleMapsUrl: "https://maps.google.com/?cid=9810028396845026834&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=9810028396845026834&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.304052
   lng: 103.83176700000001
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [12, 13]
-    weekendBusy: [13, 14, 15, 16, 17, 18, 19, 20, 21, 22]
-    venueId: 'ven_67494a346b743578356b4552456a325a306f77483857524a496843'
+    weekdayQuiet:
+      - 12
+      - 13
+    weekendBusy:
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+    venueId: ven_67494a346b743578356b4552456a325a306f77483857524a496843
 tags:
-  - "orchard road"
-  - "top attraction"
-quickAnswer: "ION Sky is the free-to-access (with mall spend or registration) observation deck on the 56th floor of ION Orchard mall, giving a 360-degree view over Orchard Road, the Botanic Gardens, and the downtown skyline. Go on a clear late afternoon to catch sunset sliding into the city lights, and budget 30–45 minutes since it's compact. Access is via a dedicated lift lobby inside the mall — check current entry requirements before you go, as ION periodically changes the redemption process."
+  - orchard road
+  - top attraction
+quickAnswer: ION Sky is the free-to-access (with mall spend or registration) observation deck on the 56th floor of ION Orchard mall, giving a 360-degree view over Orchard Road, the Botanic Gardens, and the downtown skyline. Go on a clear late afternoon to catch sunset sliding into the city lights, and budget 30–45 minutes since it's compact. Access is via a dedicated lift lobby inside the mall — check current entry requirements before you go, as ION periodically changes the redemption process.
 faq:
-  - q: "How do I get to ION Sky?"
-    a: "Take the MRT to Orchard station (North-South or Thomson-East Coast Line), which connects directly into ION Orchard's basement. From there, head to the dedicated ION Sky lift lobby, separate from the mall's regular lifts."
-  - q: "How much does it cost to visit ION Sky?"
-    a: "Access has typically been linked to a minimum spend or redemption at ION Orchard's customer service, rather than a simple ticket price, and the process has changed over time. Check ION Orchard's official information for the current admission method before visiting."
-  - q: "How long should I spend at ION Sky?"
-    a: "Most visitors cover the full loop and exhibits in 30 to 45 minutes, since it's one continuous observation deck rather than a large multi-floor attraction."
-  - q: "What's the best time of day to visit?"
-    a: "Late afternoon into early evening on a weekday, so you catch daylight views transitioning into the city lights while avoiding the heavier weekend foot traffic."
-  - q: "What else is nearby?"
-    a: "ION Orchard itself for shopping and dining, Emerald Hill's conserved shophouses a short walk away, and the Singapore Botanic Gardens further along Orchard/Napier Road."
+  - q: How do I get to ION Sky?
+    a: Take the MRT to Orchard station (North-South or Thomson-East Coast Line), which connects directly into ION Orchard's basement. From there, head to the dedicated ION Sky lift lobby, separate from the mall's regular lifts.
+  - q: How much does it cost to visit ION Sky?
+    a: Access has typically been linked to a minimum spend or redemption at ION Orchard's customer service, rather than a simple ticket price, and the process has changed over time. Check ION Orchard's official information for the current admission method before visiting.
+  - q: How long should I spend at ION Sky?
+    a: Most visitors cover the full loop and exhibits in 30 to 45 minutes, since it's one continuous observation deck rather than a large multi-floor attraction.
+  - q: What's the best time of day to visit?
+    a: Late afternoon into early evening on a weekday, so you catch daylight views transitioning into the city lights while avoiding the heavier weekend foot traffic.
+  - q: What else is nearby?
+    a: ION Orchard itself for shopping and dining, Emerald Hill's conserved shophouses a short walk away, and the Singapore Botanic Gardens further along Orchard/Napier Road.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

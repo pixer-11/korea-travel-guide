@@ -1,50 +1,62 @@
 ---
-title: "Hong Kong Street Foods: Where to Eat in Yogyakarta"
-description: "Hong Kong Street Foods is a Chinese-street-food restaurant on Jl. A.M. Sangaji No."
-country: "Indonesia"
-region: "Yogyakarta"
-category: "restaurant"
-pubDate: "2026-07-23T07:27:04.498Z"
+title: 'Hong Kong Street Foods: Where to Eat in Yogyakarta'
+description: Hong Kong Street Foods is a Chinese-street-food restaurant on Jl. A.M. Sangaji No.
+country: Indonesia
+region: Yogyakarta
+category: restaurant
+pubDate: '2026-07-23T07:27:04.498Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hong_Kong_street_food-Black_sesame_roll-%E8%8A%9D%E9%BA%BB%E5%8D%B7.jpg/1920px-Hong_Kong_street_food-Black_sesame_roll-%E8%8A%9D%E9%BA%BB%E5%8D%B7.jpg"
-  credit: "Photo: Pizza Plus Pineapple / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Hong_Kong_street_food-Black_sesame_roll-%E8%8A%9D%E9%BA%BB%E5%8D%B7.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hong_Kong_street_food-Black_sesame_roll-%E8%8A%9D%E9%BA%BB%E5%8D%B7.jpg/1920px-Hong_Kong_street_food-Black_sesame_roll-%E8%8A%9D%E9%BA%BB%E5%8D%B7.jpg
+  credit: 'Photo: Pizza Plus Pineapple / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Hong_Kong_street_food-Black_sesame_roll-%E8%8A%9D%E9%BA%BB%E5%8D%B7.jpg
 gallery: []
 place:
-  id: "ChIJleyqtNdfei4RgT6163IIx0o"
-  name: "Hong Kong Street Foods"
-  address: "Jl. A.M. Sangaji No.88, Karangwaru, Kec. Tegalrejo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55241, Indonesia"
+  id: ChIJleyqtNdfei4RgT6163IIx0o
+  name: Hong Kong Street Foods
+  address: Jl. A.M. Sangaji No.88, Karangwaru, Kec. Tegalrejo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55241, Indonesia
   rating: 4.7
   userRatingsTotal: 1174
-  googleMapsUrl: "https://maps.google.com/?cid=5388284768845905537&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=5388284768845905537&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -7.7723796
   lng: 110.3684557
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [22]
-    weekdayBusy: [17, 18, 19, 20]
-    weekendQuiet: [22]
-    weekendBusy: [16, 17, 18, 19, 20, 21]
-    venueId: 'ven_6f307849493336313654675234696566644e747179656c4a496843'
+    weekdayQuiet:
+      - 22
+    weekdayBusy:
+      - 17
+      - 18
+      - 19
+      - 20
+    weekendQuiet:
+      - 22
+    weekendBusy:
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+    venueId: ven_6f307849493336313654675234696566644e747179656c4a496843
 tags:
-  - "yogyakarta"
-  - "street food"
-quickAnswer: "Hong Kong Street Foods is a Chinese-street-food restaurant on Jl. A.M. Sangaji No. 88 in Tegalrejo, north-central Yogyakarta, rated 4.7 from over 1,100 reviews. It specializes in Hong Kong-style stalls fare — think char siu, wonton noodles, and dim sum-adjacent snacks — served in a casual setting good for a quick lunch or dinner detour from the Tugu/Malioboro area. Go on a weekday evening to avoid the weekend rush and expect a short wait even then, since it's still under the radar for foreign tourists."
+  - yogyakarta
+  - street food
+quickAnswer: Hong Kong Street Foods is a Chinese-street-food restaurant on Jl. A.M. Sangaji No. 88 in Tegalrejo, north-central Yogyakarta, rated 4.7 from over 1,100 reviews. It specializes in Hong Kong-style stalls fare — think char siu, wonton noodles, and dim sum-adjacent snacks — served in a casual setting good for a quick lunch or dinner detour from the Tugu/Malioboro area. Go on a weekday evening to avoid the weekend rush and expect a short wait even then, since it's still under the radar for foreign tourists.
 faq:
-  - q: "How do I get to Hong Kong Street Foods from central Yogyakarta?"
-    a: "It's on Jl. A.M. Sangaji No. 88 in Tegalrejo, about 10–15 minutes by car or motorbike from Malioboro Street and Tugu Yogyakarta. Grab or Gojek is the easiest way to get there."
-  - q: "What should I order first?"
-    a: "Start with the char siu (Hong Kong-style barbecued pork), either as rice or noodles, and add a bowl of wonton noodle soup (wonton mee) if you want something warm and brothy."
-  - q: "Is it expensive?"
-    a: "It's a casual restaurant, not fine dining, so expect standard mid-range Indonesian restaurant pricing rather than premium prices — but confirm current menu prices on-site or via delivery apps since they can change."
-  - q: "When is it least crowded?"
-    a: "Weekday lunch or early dinner tends to be quieter; weekend evenings around 7–8 PM draw the biggest local crowds."
-  - q: "Can I pay by card or only cash?"
-    a: "Most casual Yogyakarta restaurants, including places like this, accept QRIS mobile QR payments alongside cash, so bring either — but carrying some small cash as backup is still wise."
+  - q: How do I get to Hong Kong Street Foods from central Yogyakarta?
+    a: It's on Jl. A.M. Sangaji No. 88 in Tegalrejo, about 10–15 minutes by car or motorbike from Malioboro Street and Tugu Yogyakarta. Grab or Gojek is the easiest way to get there.
+  - q: What should I order first?
+    a: Start with the char siu (Hong Kong-style barbecued pork), either as rice or noodles, and add a bowl of wonton noodle soup (wonton mee) if you want something warm and brothy.
+  - q: Is it expensive?
+    a: It's a casual restaurant, not fine dining, so expect standard mid-range Indonesian restaurant pricing rather than premium prices — but confirm current menu prices on-site or via delivery apps since they can change.
+  - q: When is it least crowded?
+    a: Weekday lunch or early dinner tends to be quieter; weekend evenings around 7–8 PM draw the biggest local crowds.
+  - q: Can I pay by card or only cash?
+    a: Most casual Yogyakarta restaurants, including places like this, accept QRIS mobile QR payments alongside cash, so bring either — but carrying some small cash as backup is still wise.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

@@ -1,29 +1,24 @@
 ---
 title: 'Bun Cha Ta: Where to Eat in Hoi An'
-description: >-
-  Bun Cha Ta is a no-frills local favorite at 197 Nguyễn Duy Hiệu, a 15-20
-  minute walk (or 5-minute taxi/bike ride) east of Hoi An's Old Town.
+description: Bun Cha Ta is a no-frills local favorite at 197 Nguyễn Duy Hiệu, a 15-20 minute walk (or 5-minute taxi/bike ride) east of Hoi An's Old Town.
 country: Vietnam
 region: Hoi An
 category: restaurant
 pubDate: '2026-07-22T09:41:13.517Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Street_food%2C_Hoi_An_%2846343904032%29.jpg/1920px-Street_food%2C_Hoi_An_%2846343904032%29.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Street_food%2C_Hoi_An_%2846343904032%29.jpg/1920px-Street_food%2C_Hoi_An_%2846343904032%29.jpg
   credit: 'Photo: Isabell Schulz / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Street_food,_Hoi_An_(46343904032).jpg
+  source: https://commons.wikimedia.org/wiki/File:Street_food,_Hoi_An_(46343904032).jpg
 gallery: []
 place:
   id: ChIJX6zEBnQNQjERoyRp6Zz6cOA
   name: Bun Cha Ta Hoi An
-  address: '197 Nguyễn Duy Hiệu, Hội An, Đà Nẵng 008454, Vietnam'
+  address: 197 Nguyễn Duy Hiệu, Hội An, Đà Nẵng 008454, Vietnam
   rating: 4.7
   userRatingsTotal: 1158
   priceLevel: 2
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=16172701813725275299&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=16172701813725275299&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 15.8782744
   lng: 108.3385285
@@ -48,39 +43,20 @@ place:
 tags:
   - hoi an
   - street food
-quickAnswer: >-
-  Bun Cha Ta is a no-frills local favorite at 197 Nguyễn Duy Hiệu, a 15-20
-  minute walk (or 5-minute taxi/bike ride) east of Hoi An's Old Town. Go for
-  grilled pork patties over rice noodles with a tangy fish-sauce broth, expect
-  to pay well under $5 for a full meal, and arrive at lunchtime (11am-1pm) when
-  it's busiest and the grill is going strong.
+quickAnswer: Bun Cha Ta is a no-frills local favorite at 197 Nguyễn Duy Hiệu, a 15-20 minute walk (or 5-minute taxi/bike ride) east of Hoi An's Old Town. Go for grilled pork patties over rice noodles with a tangy fish-sauce broth, expect to pay well under $5 for a full meal, and arrive at lunchtime (11am-1pm) when it's busiest and the grill is going strong.
 faq:
   - q: How do I get to Bun Cha Ta from the Old Town?
-    a: >-
-      It's about a 15-20 minute walk east on Nguyễn Duy Hiệu, or a quick 5-10
-      minute ride by taxi, Grab, bicycle, or motorbike.
+    a: It's about a 15-20 minute walk east on Nguyễn Duy Hiệu, or a quick 5-10 minute ride by taxi, Grab, bicycle, or motorbike.
   - q: How much does a meal cost?
-    a: >-
-      It's a budget, low-price-tier eatery — a full bowl of bun cha with
-      noodles, herbs, and a drink typically costs only a few dollars, though you
-      should treat exact figures as approximate and confirm on arrival.
+    a: It's a budget, low-price-tier eatery — a full bowl of bun cha with noodles, herbs, and a drink typically costs only a few dollars, though you should treat exact figures as approximate and confirm on arrival.
   - q: What's the best time to visit?
-    a: >-
-      Go during lunch, roughly 11am-1pm, when bun cha is traditionally eaten and
-      the grill is freshest; slightly before or after the peak hour can mean
-      less of a wait.
+    a: Go during lunch, roughly 11am-1pm, when bun cha is traditionally eaten and the grill is freshest; slightly before or after the peak hour can mean less of a wait.
   - q: What should I order?
-    a: >-
-      Start with the classic bun cha (grilled pork patties in fish sauce broth
-      with rice noodles and herbs), and add fried spring rolls (nem) if they're
-      on offer.
+    a: Start with the classic bun cha (grilled pork patties in fish sauce broth with rice noodles and herbs), and add fried spring rolls (nem) if they're on offer.
   - q: Is it tourist-friendly for non-Vietnamese speakers?
-    a: >-
-      Yes — it's popular enough with international visitors that ordering is
-      straightforward, though a simple point-and-order approach or a translation
-      app helps since menus and staff may be Vietnamese-first.
+    a: Yes — it's popular enough with international visitors that ordering is straightforward, though a simple point-and-order approach or a translation app helps since menus and staff may be Vietnamese-first.
 aiGenerated: true
-draft: false
+draft: true
 updatedDate: '2026-07-24'
 ---
 

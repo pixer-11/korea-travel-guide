@@ -1,46 +1,58 @@
 ---
-title: "Yeonmudae (Dongjangdae/Eastern Command Post): Suwon Travel Guide"
-description: "Yeonmudae (also called Dongjangdae, the Eastern Command Post) is a military training ground and archery field inside Hwaseong Fortress in Suwon, best visited"
-region: "Suwon"
-category: "hidden-gem"
-pubDate: 2026-07-21
+title: 'Yeonmudae (Dongjangdae/Eastern Command Post): Suwon Travel Guide'
+description: Yeonmudae (also called Dongjangdae, the Eastern Command Post) is a military training ground and archery field inside Hwaseong Fortress in Suwon, best visited
+region: Suwon
+category: hidden-gem
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1673201069831-b54f304484e2?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U3V3b24lMjBTb3V0aCUyMEtvcmVhJTIwaGlkZGVuJTIwZ2VtfGVufDB8MHx8fDE3ODQ2MTM4MzB8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Ratapan Anantawat on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@rtp_atw?utm_source=korea_travel_guide&utm_medium=referral"
+  url: https://images.unsplash.com/photo-1673201069831-b54f304484e2?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U3V3b24lMjBTb3V0aCUyMEtvcmVhJTIwaGlkZGVuJTIwZ2VtfGVufDB8MHx8fDE3ODQ2MTM4MzB8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Ratapan Anantawat on Unsplash
+  license: unsplash
+  source: https://unsplash.com/@rtp_atw?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
-  id: "ChIJM9G40LZcezURA0wZqKNN7OY"
-  name: "Yeonmudae (Dongjangdae/Eastern Command Post)"
-  address: "20 Changnyong-daero 103beon-gil, Maehyang-dong, Paldal-gu, Suwon, Gyeonggi-do, South Korea"
+  id: ChIJM9G40LZcezURA0wZqKNN7OY
+  name: Yeonmudae (Dongjangdae/Eastern Command Post)
+  address: 20 Changnyong-daero 103beon-gil, Maehyang-dong, Paldal-gu, Suwon, Gyeonggi-do, South Korea
   rating: 4.5
   userRatingsTotal: 3038
-  googleMapsUrl: "https://maps.google.com/?cid=16639760088522378243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=16639760088522378243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.2884637
   lng: 127.02302479999999
   busyness:
     updated: '2026-07-23'
-    weekendBusy: [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
-    venueId: 'ven_594f374e4e4b715a77304152557a65635a4c303447394d4a496843'
+    weekendBusy:
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+    venueId: ven_594f374e4e4b715a77304152557a65635a4c303447394d4a496843
 tags:
-  - "suwon"
-  - "hidden gem"
-quickAnswer: "Yeonmudae (also called Dongjangdae, the Eastern Command Post) is a military training ground and archery field inside Hwaseong Fortress in Suwon, best visited alongside a walk along the fortress walls from Janganmun Gate. Budget 30–45 minutes here, longer if you try the archery range, and pair it with the nearby Hwahongmun floodgate and Yeonpung Gate for a half-day loop. Entry to this section is generally free or included in the low-cost Hwaseong Fortress admission, but confirm current hours before going."
+  - suwon
+  - hidden gem
+quickAnswer: Yeonmudae (also called Dongjangdae, the Eastern Command Post) is a military training ground and archery field inside Hwaseong Fortress in Suwon, best visited alongside a walk along the fortress walls from Janganmun Gate. Budget 30–45 minutes here, longer if you try the archery range, and pair it with the nearby Hwahongmun floodgate and Yeonpung Gate for a half-day loop. Entry to this section is generally free or included in the low-cost Hwaseong Fortress admission, but confirm current hours before going.
 faq:
-  - q: "How do I get to Yeonmudae without a car?"
-    a: "Take a local bus toward the Dongjangdae/Yeonmudae stop from Suwon Station or Hwaseong Haenggung, or walk the fortress wall trail east from Janganmun Gate (about 20–25 minutes)."
-  - q: "Is there an entrance fee just for Yeonmudae?"
-    a: "Yeonmudae is part of the Hwaseong Fortress wall circuit, generally covered by the fortress's low general admission; some sections are freely accessible. Confirm current fees and hours before visiting since they can change."
-  - q: "Can I actually shoot a bow there?"
-    a: "Yes, an archery range next to the command post lets visitors rent a bow and arrows to shoot at a traditional target for a small fee, typically paid on site."
-  - q: "How much time should I set aside?"
-    a: "Plan 30–45 minutes for the plaza and command post, plus extra if you try archery or continue walking the wall to Hwahongmun or Yeonpungmun Gate."
-  - q: "What's the best time of year or day to visit?"
-    a: "Spring and autumn offer the most comfortable weather; early morning or late afternoon give better light and smaller crowds than midday, especially on weekends."
+  - q: How do I get to Yeonmudae without a car?
+    a: Take a local bus toward the Dongjangdae/Yeonmudae stop from Suwon Station or Hwaseong Haenggung, or walk the fortress wall trail east from Janganmun Gate (about 20–25 minutes).
+  - q: Is there an entrance fee just for Yeonmudae?
+    a: Yeonmudae is part of the Hwaseong Fortress wall circuit, generally covered by the fortress's low general admission; some sections are freely accessible. Confirm current fees and hours before visiting since they can change.
+  - q: Can I actually shoot a bow there?
+    a: Yes, an archery range next to the command post lets visitors rent a bow and arrows to shoot at a traditional target for a small fee, typically paid on site.
+  - q: How much time should I set aside?
+    a: Plan 30–45 minutes for the plaza and command post, plus extra if you try archery or continue walking the wall to Hwahongmun or Yeonpungmun Gate.
+  - q: What's the best time of year or day to visit?
+    a: Spring and autumn offer the most comfortable weather; early morning or late afternoon give better light and smaller crowds than midday, especially on weekends.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

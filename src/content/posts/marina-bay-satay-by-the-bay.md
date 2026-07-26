@@ -1,44 +1,44 @@
 ---
-title: "Satay by the Bay: Where to Eat in Marina Bay"
-description: "Satay by the Bay is an open-air hawker-style food court inside Gardens by the Bay (18 Marina Gardens Dr, #01-19), best known for grilled satay but with"
-country: "Singapore"
-region: "Marina Bay"
-category: "restaurant"
-pubDate: "2026-07-23T07:43:20.889Z"
+title: 'Satay by the Bay: Where to Eat in Marina Bay'
+description: 'Satay by the Bay is an open-air hawker-style food court inside Gardens by the Bay (18 Marina Gardens Dr, #01-19), best known for grilled satay but with'
+country: Singapore
+region: Marina Bay
+category: restaurant
+pubDate: '2026-07-23T07:43:20.889Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Singapore_Marina_Bay_Dusk_2018-02-27.jpg/1920px-Singapore_Marina_Bay_Dusk_2018-02-27.jpg"
-  credit: "Photo: Benh LIEU SONG (Flickr) / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Singapore_Marina_Bay_Dusk_2018-02-27.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Singapore_Marina_Bay_Dusk_2018-02-27.jpg/1920px-Singapore_Marina_Bay_Dusk_2018-02-27.jpg
+  credit: 'Photo: Benh LIEU SONG (Flickr) / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Singapore_Marina_Bay_Dusk_2018-02-27.jpg
 gallery: []
 place:
-  id: "ChIJp6HV3hwZ2jERvuwjdrUPNRg"
-  name: "Satay by the Bay"
-  address: "18 Marina Gardens Dr, #01-19 Gardens by the Bay, Singapore 018953"
+  id: ChIJp6HV3hwZ2jERvuwjdrUPNRg
+  name: Satay by the Bay
+  address: '18 Marina Gardens Dr, #01-19 Gardens by the Bay, Singapore 018953'
   rating: 4
   userRatingsTotal: 6639
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=1744317702721498302&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=1744317702721498302&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.2821346
   lng: 103.86887279999999
 tags:
-  - "marina bay"
-  - "street food"
-quickAnswer: "Satay by the Bay is an open-air hawker-style food court inside Gardens by the Bay (18 Marina Gardens Dr, #01-19), best known for grilled satay but with stalls covering Chinese, Malay, Indian and Western food. Go for an early dinner (around 5:30–6:30pm) before the Supertree Grove light show crowds arrive, and expect to pay hawker prices (roughly S$10–25 per person) for a filling, casual meal in a garden setting."
+  - marina bay
+  - street food
+quickAnswer: 'Satay by the Bay is an open-air hawker-style food court inside Gardens by the Bay (18 Marina Gardens Dr, #01-19), best known for grilled satay but with stalls covering Chinese, Malay, Indian and Western food. Go for an early dinner (around 5:30–6:30pm) before the Supertree Grove light show crowds arrive, and expect to pay hawker prices (roughly S$10–25 per person) for a filling, casual meal in a garden setting.'
 faq:
-  - q: "How do I get to Satay by the Bay?"
-    a: "Take the MRT to Bayfront Station (Circle or Downtown Line), then walk about 10–15 minutes through Gardens by the Bay, or use the free Gardens shuttle bus from Bayfront."
-  - q: "How much does a meal cost?"
-    a: "It's a hawker-style food court, so expect mid-range street food pricing — roughly S$10–25 per person depending on how many dishes you order. Confirm exact prices at each stall, as they vary."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Aim for an early dinner around 5:30–6:00pm or a weekday lunch. The 6:30–8pm window and weekends draw the heaviest crowds, especially before the Supertree Grove light show."
-  - q: "How long should I plan to spend here?"
-    a: "A meal typically takes 45 minutes to an hour, but many visitors linger longer to combine it with a stroll through the surrounding Gardens by the Bay grounds."
-  - q: "Do I need to pay to enter Gardens by the Bay to eat here?"
-    a: "No — Satay by the Bay sits in the free outdoor area of Gardens by the Bay, so you don't need a ticket to the paid Cloud Forest or Flower Dome conservatories to eat there."
+  - q: How do I get to Satay by the Bay?
+    a: Take the MRT to Bayfront Station (Circle or Downtown Line), then walk about 10–15 minutes through Gardens by the Bay, or use the free Gardens shuttle bus from Bayfront.
+  - q: How much does a meal cost?
+    a: It's a hawker-style food court, so expect mid-range street food pricing — roughly S$10–25 per person depending on how many dishes you order. Confirm exact prices at each stall, as they vary.
+  - q: What's the best time to visit to avoid crowds?
+    a: Aim for an early dinner around 5:30–6:00pm or a weekday lunch. The 6:30–8pm window and weekends draw the heaviest crowds, especially before the Supertree Grove light show.
+  - q: How long should I plan to spend here?
+    a: A meal typically takes 45 minutes to an hour, but many visitors linger longer to combine it with a stroll through the surrounding Gardens by the Bay grounds.
+  - q: Do I need to pay to enter Gardens by the Bay to eat here?
+    a: No — Satay by the Bay sits in the free outdoor area of Gardens by the Bay, so you don't need a ticket to the paid Cloud Forest or Flower Dome conservatories to eat there.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

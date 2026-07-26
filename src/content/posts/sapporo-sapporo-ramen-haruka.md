@@ -1,44 +1,44 @@
 ---
-title: "Sapporo Ramen Haruka: Where to Eat"
-description: "Sapporo Ramen Haruka is a small, highly-rated miso ramen shop tucked into the historic Ramen Yokocho (Ramen Alley) in Minami 5 Jonishi, Chuo Ward — a"
-country: "Japan"
-region: "Sapporo"
-category: "restaurant"
-pubDate: "2026-07-22T09:02:55.514Z"
+title: 'Sapporo Ramen Haruka: Where to Eat'
+description: Sapporo Ramen Haruka is a small, highly-rated miso ramen shop tucked into the historic Ramen Yokocho (Ramen Alley) in Minami 5 Jonishi, Chuo Ward — a
+country: Japan
+region: Sapporo
+category: restaurant
+pubDate: '2026-07-22T09:02:55.514Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ainu_food_in_Sapporo%2C_Japan_%2824%29.jpg/1920px-Ainu_food_in_Sapporo%2C_Japan_%2824%29.jpg"
-  credit: "Photo: Savannah Rivka / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Ainu_food_in_Sapporo,_Japan_(24).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ainu_food_in_Sapporo%2C_Japan_%2824%29.jpg/1920px-Ainu_food_in_Sapporo%2C_Japan_%2824%29.jpg
+  credit: 'Photo: Savannah Rivka / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Ainu_food_in_Sapporo,_Japan_(24).jpg
 gallery: []
 place:
-  id: "ChIJ07FgJIQpC18RYkRNPfQgdvw"
-  name: "Sapporo Ramen Haruka"
-  address: "Japan, 〒064-0805 Hokkaido, Sapporo, Chuo Ward, Minami 5 Jōnishi, 3-chōme 元祖さっぽろラーメン横丁"
+  id: ChIJ07FgJIQpC18RYkRNPfQgdvw
+  name: Sapporo Ramen Haruka
+  address: Japan, 〒064-0805 Hokkaido, Sapporo, Chuo Ward, Minami 5 Jōnishi, 3-chōme 元祖さっぽろラーメン横丁
   rating: 4.8
   userRatingsTotal: 4129
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=18191763978182280290&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=18191763978182280290&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.0549506
   lng: 141.3542979
 tags:
-  - "sapporo"
-  - "street food"
-quickAnswer: "Sapporo Ramen Haruka is a small, highly-rated miso ramen shop tucked into the historic Ramen Yokocho (Ramen Alley) in Minami 5 Jonishi, Chuo Ward — a two-minute walk from Susukino Station. Expect a bowl of rich miso ramen with butter and corn for around ¥1,000-1,300, a short counter with limited seats, and a wait during dinner peak hours (7-9pm), so aim for an early lunch or late-night visit instead."
+  - sapporo
+  - street food
+quickAnswer: Sapporo Ramen Haruka is a small, highly-rated miso ramen shop tucked into the historic Ramen Yokocho (Ramen Alley) in Minami 5 Jonishi, Chuo Ward — a two-minute walk from Susukino Station. Expect a bowl of rich miso ramen with butter and corn for around ¥1,000-1,300, a short counter with limited seats, and a wait during dinner peak hours (7-9pm), so aim for an early lunch or late-night visit instead.
 faq:
-  - q: "How do I get to Sapporo Ramen Haruka?"
-    a: "Take the Namboku Line subway to Susukino Station, use Exit 3, and walk about 3-5 minutes south into the Ganso Sapporo Ramen Yokocho alley in Chuo Ward."
-  - q: "How much does a bowl of ramen cost?"
-    a: "Expect roughly ¥1,000-1,300 for a standard miso ramen, placing it in the mid-range price tier; confirm current prices at the shop since they can change."
-  - q: "How long should I plan to spend there?"
-    a: "Most visits run 20-40 minutes given the counter seating and quick service typical of ramen alley shops; add time if there's a queue during peak dinner hours."
-  - q: "What's the best time to visit to avoid a wait?"
-    a: "Go for an early dinner around 5:30-6pm or later in the evening after 9pm; the 7-9pm window tends to be busiest with Susukino's dinner and nightlife crowd."
-  - q: "What else is nearby worth combining with a visit?"
-    a: "The rest of Susukino's dining and entertainment streets are steps away, and in winter the Sapporo Snow Festival grounds are a short trip from the area, making it easy to pair a bowl of ramen with an evening out."
+  - q: How do I get to Sapporo Ramen Haruka?
+    a: Take the Namboku Line subway to Susukino Station, use Exit 3, and walk about 3-5 minutes south into the Ganso Sapporo Ramen Yokocho alley in Chuo Ward.
+  - q: How much does a bowl of ramen cost?
+    a: Expect roughly ¥1,000-1,300 for a standard miso ramen, placing it in the mid-range price tier; confirm current prices at the shop since they can change.
+  - q: How long should I plan to spend there?
+    a: Most visits run 20-40 minutes given the counter seating and quick service typical of ramen alley shops; add time if there's a queue during peak dinner hours.
+  - q: What's the best time to visit to avoid a wait?
+    a: Go for an early dinner around 5:30-6pm or later in the evening after 9pm; the 7-9pm window tends to be busiest with Susukino's dinner and nightlife crowd.
+  - q: What else is nearby worth combining with a visit?
+    a: The rest of Susukino's dining and entertainment streets are steps away, and in winter the Sapporo Snow Festival grounds are a short trip from the area, making it easy to pair a bowl of ramen with an evening out.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

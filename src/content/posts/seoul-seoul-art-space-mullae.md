@@ -1,43 +1,43 @@
 ---
-title: "Seoul Art Space Mullae: Travel Guide"
-description: "Seoul Art Space Mullae is a working-class ironworks district in Yeongdeungpo turned artist enclave, where metal workshops still clang away beside painted"
-country: "South Korea"
-region: "Seoul"
-category: "hidden-gem"
-pubDate: "2026-07-24T22:18:25.380Z"
+title: 'Seoul Art Space Mullae: Travel Guide'
+description: Seoul Art Space Mullae is a working-class ironworks district in Yeongdeungpo turned artist enclave, where metal workshops still clang away beside painted
+country: South Korea
+region: Seoul
+category: hidden-gem
+pubDate: '2026-07-24T22:18:25.380Z'
 heroImage:
-  url: "https://images.unsplash.com/photo-1532649097480-b67d52743b69?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8U2VvdWwlMjBTb3V0aCUyMEtvcmVhfGVufDB8MHx8fDE3ODQ5MzE0NzZ8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Ping Onganankun on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@pingsterz?utm_source=korea_travel_guide&utm_medium=referral"
+  url: https://images.unsplash.com/photo-1532649097480-b67d52743b69?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8U2VvdWwlMjBTb3V0aCUyMEtvcmVhfGVufDB8MHx8fDE3ODQ5MzE0NzZ8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Ping Onganankun on Unsplash
+  license: unsplash
+  source: https://unsplash.com/@pingsterz?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
-  id: "ChIJj00iifeefDURpS_zqQst9MA"
-  name: "Seoul Art Space Mullae"
-  address: "5-4 Gyeongin-ro 88-gil, Yeongdeungpo District, Seoul, South Korea"
+  id: ChIJj00iifeefDURpS_zqQst9MA
+  name: Seoul Art Space Mullae
+  address: 5-4 Gyeongin-ro 88-gil, Yeongdeungpo District, Seoul, South Korea
   rating: 4
   userRatingsTotal: 80
-  googleMapsUrl: "https://maps.google.com/?cid=13903787477718740901&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=13903787477718740901&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.5132234
   lng: 126.90013889999999
 tags:
-  - "seoul"
-  - "Mullae art village"
-quickAnswer: "Seoul Art Space Mullae is a working-class ironworks district in Yeongdeungpo turned artist enclave, where metal workshops still clang away beside painted alleyways, studios, and small galleries. Go on a weekday afternoon, wander on foot for 1–2 hours, and pair it with a meal in the neighborhood's old-school eateries. Nearest access is Mullae Station (Line 2), Exit 7 or 11, a short walk into the workshop blocks."
+  - seoul
+  - Mullae art village
+quickAnswer: Seoul Art Space Mullae is a working-class ironworks district in Yeongdeungpo turned artist enclave, where metal workshops still clang away beside painted alleyways, studios, and small galleries. Go on a weekday afternoon, wander on foot for 1–2 hours, and pair it with a meal in the neighborhood's old-school eateries. Nearest access is Mullae Station (Line 2), Exit 7 or 11, a short walk into the workshop blocks.
 faq:
-  - q: "How do I get to Seoul Art Space Mullae by subway?"
-    a: "Take Line 2 to Mullae Station and use Exit 7 (closest to the ironworks/art alleys) or Exit 11; it's a 5–10 minute walk into the district on foot."
-  - q: "How much time should I plan for a visit?"
-    a: "Most visitors spend 1.5–2 hours wandering the alleys and murals; add extra time if a gallery or exhibition inside the main Art Space facility is open."
-  - q: "Is there an entrance fee?"
-    a: "Walking through the district and viewing street murals is free. Individual exhibitions or events at the Seoul Art Space Mullae facility may have their own access rules, so check current listings before you go."
-  - q: "What's the best time of day to visit?"
-    a: "Weekday afternoons, when the metal workshops are actively operating and crowds are thinnest; many art spaces and shops close or go quiet on Sundays."
-  - q: "What else is nearby?"
-    a: "The area sits close to Yeongdeungpo's older commercial streets, with inexpensive local Korean restaurants and a growing number of cafes and bars set inside converted factory units."
+  - q: How do I get to Seoul Art Space Mullae by subway?
+    a: Take Line 2 to Mullae Station and use Exit 7 (closest to the ironworks/art alleys) or Exit 11; it's a 5–10 minute walk into the district on foot.
+  - q: How much time should I plan for a visit?
+    a: Most visitors spend 1.5–2 hours wandering the alleys and murals; add extra time if a gallery or exhibition inside the main Art Space facility is open.
+  - q: Is there an entrance fee?
+    a: Walking through the district and viewing street murals is free. Individual exhibitions or events at the Seoul Art Space Mullae facility may have their own access rules, so check current listings before you go.
+  - q: What's the best time of day to visit?
+    a: Weekday afternoons, when the metal workshops are actively operating and crowds are thinnest; many art spaces and shops close or go quiet on Sundays.
+  - q: What else is nearby?
+    a: The area sits close to Yeongdeungpo's older commercial streets, with inexpensive local Korean restaurants and a growing number of cafes and bars set inside converted factory units.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

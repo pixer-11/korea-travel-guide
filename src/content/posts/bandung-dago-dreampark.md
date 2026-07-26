@@ -1,49 +1,59 @@
 ---
-title: "Dago Dreampark: Bandung Travel Guide"
-description: "Dago Dreampark is a pine-forest adventure park on the Bandung–Lembang road, best known for ATV trails, paintball, and themed selfie spots like giant swings"
-country: "Indonesia"
-region: "Bandung"
-category: "attraction"
-pubDate: "2026-07-23T07:13:03.027Z"
+title: 'Dago Dreampark: Bandung Travel Guide'
+description: Dago Dreampark is a pine-forest adventure park on the Bandung–Lembang road, best known for ATV trails, paintball, and themed selfie spots like giant swings
+country: Indonesia
+region: Bandung
+category: attraction
+pubDate: '2026-07-23T07:13:03.027Z'
 heroImage:
-  url: "https://images.unsplash.com/photo-1775565731195-77d4531ad2ed?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8QmFuZHVuZyUyMEluZG9uZXNpYSUyMHRvcCUyMGF0dHJhY3Rpb258ZW58MHwwfHx8MTc4NDc5MDc1Mnww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Anges Kei on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@keianges?utm_source=korea_travel_guide&utm_medium=referral"
+  url: https://images.unsplash.com/photo-1775565731195-77d4531ad2ed?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8QmFuZHVuZyUyMEluZG9uZXNpYSUyMHRvcCUyMGF0dHJhY3Rpb258ZW58MHwwfHx8MTc4NDc5MDc1Mnww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Anges Kei on Unsplash
+  license: unsplash
+  source: https://unsplash.com/@keianges?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
-  id: "ChIJeUGDdCvnaC4RX24Dt0esfD4"
-  name: "Dago Dreampark"
-  address: "Mekarwangi, Jl. Dago Giri No.Km. 2.2, Pagerwangi, Kec. Lembang, Kabupaten Bandung Barat, Jawa Barat 40391, Indonesia"
+  id: ChIJeUGDdCvnaC4RX24Dt0esfD4
+  name: Dago Dreampark
+  address: Mekarwangi, Jl. Dago Giri No.Km. 2.2, Pagerwangi, Kec. Lembang, Kabupaten Bandung Barat, Jawa Barat 40391, Indonesia
   rating: 4.2
   userRatingsTotal: 19919
-  googleMapsUrl: "https://maps.google.com/?cid=4502663151476764255&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=4502663151476764255&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -6.8484061
   lng: 107.6259371
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [9, 17]
-    weekendQuiet: [8, 18]
-    weekendBusy: [10, 11, 12, 13, 14, 15]
-    venueId: 'ven_3444667365307444343258523443616e764364444755654a496843'
+    weekdayQuiet:
+      - 9
+      - 17
+    weekendQuiet:
+      - 8
+      - 18
+    weekendBusy:
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+    venueId: ven_3444667365307444343258523443616e764364444755654a496843
 tags:
-  - "bandung"
-  - "top attraction"
-quickAnswer: "Dago Dreampark is a pine-forest adventure park on the Bandung–Lembang road, best known for ATV trails, paintball, and themed selfie spots like giant swings and sky-view platforms. Plan on 2-4 hours, go on a weekday morning to avoid the very large weekend crowds, and bring cash for the pay-per-activity add-ons since the base entry ticket doesn't cover most rides."
+  - bandung
+  - top attraction
+quickAnswer: Dago Dreampark is a pine-forest adventure park on the Bandung–Lembang road, best known for ATV trails, paintball, and themed selfie spots like giant swings and sky-view platforms. Plan on 2-4 hours, go on a weekday morning to avoid the very large weekend crowds, and bring cash for the pay-per-activity add-ons since the base entry ticket doesn't cover most rides.
 faq:
-  - q: "How do I get to Dago Dreampark without a car?"
-    a: "Use Gojek or Grab from central Bandung (about 20-30 minutes to Lembang, longer in weekend traffic), or arrange a chartered car/driver through your hotel — there's no direct public bus or rail link."
-  - q: "How much does it cost to visit?"
-    a: "There's a base entrance fee, but ATV rides, paintball, and most photo-prop zones are charged separately per activity. Costs vary seasonally, so confirm current pricing on-site or via the park's official channels before budgeting your visit."
-  - q: "How long should I plan to stay?"
-    a: "Most visitors spend 2-4 hours, longer if doing ATV riding and paintball plus a full circuit of the photo spots."
-  - q: "When is it least crowded?"
-    a: "Weekday mornings shortly after opening. Weekends and public holidays are significantly busier since the park is often paired with other Lembang attractions in one day trip."
-  - q: "What else is nearby?"
-    a: "The park sits along the Dago-Lembang corridor near Tebing Keraton, Dago Pakar, and Lembang's cluster of family attractions like Farmhouse Susu Lembang and the Floating Market, making it easy to combine into a single day out."
+  - q: How do I get to Dago Dreampark without a car?
+    a: Use Gojek or Grab from central Bandung (about 20-30 minutes to Lembang, longer in weekend traffic), or arrange a chartered car/driver through your hotel — there's no direct public bus or rail link.
+  - q: How much does it cost to visit?
+    a: There's a base entrance fee, but ATV rides, paintball, and most photo-prop zones are charged separately per activity. Costs vary seasonally, so confirm current pricing on-site or via the park's official channels before budgeting your visit.
+  - q: How long should I plan to stay?
+    a: Most visitors spend 2-4 hours, longer if doing ATV riding and paintball plus a full circuit of the photo spots.
+  - q: When is it least crowded?
+    a: Weekday mornings shortly after opening. Weekends and public holidays are significantly busier since the park is often paired with other Lembang attractions in one day trip.
+  - q: What else is nearby?
+    a: The park sits along the Dago-Lembang corridor near Tebing Keraton, Dago Pakar, and Lembang's cluster of family attractions like Farmhouse Susu Lembang and the Floating Market, making it easy to combine into a single day out.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

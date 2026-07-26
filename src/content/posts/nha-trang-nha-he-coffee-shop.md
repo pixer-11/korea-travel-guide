@@ -1,50 +1,67 @@
 ---
-title: "Nha He Coffee Shop: Nha Trang Travel Guide"
-description: "Nha He Coffee Shop is a laid-back, plant-filled café tucked down an alley at 120/8 Nguyễn Thiện Thuật in central Nha Trang, a short walk or cheap Grab ride"
-country: "Vietnam"
-region: "Nha Trang"
-category: "trendy"
-pubDate: "2026-07-22T09:38:14.869Z"
+title: 'Nha He Coffee Shop: Nha Trang Travel Guide'
+description: Nha He Coffee Shop is a laid-back, plant-filled café tucked down an alley at 120/8 Nguyễn Thiện Thuật in central Nha Trang, a short walk or cheap Grab ride
+country: Vietnam
+region: Nha Trang
+category: trendy
+pubDate: '2026-07-22T09:38:14.869Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Nha_Trang%2C_Vietnam_-_53120927853.jpg/1920px-Nha_Trang%2C_Vietnam_-_53120927853.jpg"
-  credit: "Photo: Leonid / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Nha_Trang,_Vietnam_-_53120927853.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Nha_Trang%2C_Vietnam_-_53120927853.jpg/1920px-Nha_Trang%2C_Vietnam_-_53120927853.jpg
+  credit: 'Photo: Leonid / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Nha_Trang,_Vietnam_-_53120927853.jpg
 gallery: []
 place:
-  id: "ChIJoyY-sH5ncDERTXPJIogNkJ0"
-  name: "Nha He Coffee Shop"
-  address: "120/8 Nguyễn Thiện Thuật, Nha Trang, Khánh Hòa 650000, Vietnam"
+  id: ChIJoyY-sH5ncDERTXPJIogNkJ0
+  name: Nha He Coffee Shop
+  address: 120/8 Nguyễn Thiện Thuật, Nha Trang, Khánh Hòa 650000, Vietnam
   rating: 4.8
   userRatingsTotal: 1253
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=11353589538951361357&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=11353589538951361357&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 12.2328272
   lng: 109.1943554
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [7, 8, 9, 22]
-    weekendQuiet: [7, 8, 22]
-    weekendBusy: [11, 12, 13, 14, 15, 16, 17, 18, 19, 21]
-    venueId: 'ven_304a6b4e676f494a505854524544636e3548732d59796f4a496843'
+    weekdayQuiet:
+      - 7
+      - 8
+      - 9
+      - 22
+    weekendQuiet:
+      - 7
+      - 8
+      - 22
+    weekendBusy:
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 21
+    venueId: ven_304a6b4e676f494a505854524544636e3548732d59796f4a496843
 tags:
-  - "nha trang"
-  - "trendy cafe"
-quickAnswer: "Nha He Coffee Shop is a laid-back, plant-filled café tucked down an alley at 120/8 Nguyễn Thiện Thuật in central Nha Trang, a short walk or cheap Grab ride from the beachfront hotel strip. Go mid-morning on a weekday to snag a seat in the garden courtyard, order a Vietnamese-style egg coffee or coconut coffee, and budget an hour or two to enjoy the slow pace. It's cash/card friendly and inexpensive (price level ~2), with a loyal following reflected in its 4.8 rating across 1,250+ reviews."
+  - nha trang
+  - trendy cafe
+quickAnswer: Nha He Coffee Shop is a laid-back, plant-filled café tucked down an alley at 120/8 Nguyễn Thiện Thuật in central Nha Trang, a short walk or cheap Grab ride from the beachfront hotel strip. Go mid-morning on a weekday to snag a seat in the garden courtyard, order a Vietnamese-style egg coffee or coconut coffee, and budget an hour or two to enjoy the slow pace. It's cash/card friendly and inexpensive (price level ~2), with a loyal following reflected in its 4.8 rating across 1,250+ reviews.
 faq:
-  - q: "How do I get to Nha He Coffee Shop from the beach?"
-    a: "It's a few blocks inland from Tran Phu beachfront on Nguyễn Thiện Thuật. A Grab car or motorbike taxi from most beachfront hotels takes under 15 minutes; walking takes about 15-20 minutes. Since the café is down an alley (120/8), navigate using the exact pinned address rather than just the street name."
-  - q: "What should I order?"
-    a: "Try the cà phê trứng (Vietnamese egg coffee) or cà phê dừa (coconut coffee) for the specialty experience, or a classic cà phê sữa đá (iced milk coffee) if you want something simpler. Prices are budget-friendly, in the lower-mid range for Nha Trang cafés."
-  - q: "How long should I plan to stay?"
-    a: "Most visitors spend 1-2 hours here given the relaxed garden-courtyard seating — it's better suited to lingering than a quick takeaway stop, though grab-and-go is possible if you're short on time."
-  - q: "What's the best time of day to visit?"
-    a: "Weekday mornings between roughly 8 and 11am are quietest and coolest. Weekends and evenings tend to draw bigger crowds given the café's strong reputation, so arrive early if visiting then."
-  - q: "Is it close to other things to see in Nha Trang?"
-    a: "Yes — it's within easy reach of the central beach strip, Nha Trang Center, and Louisiane Brewhouse, and sits in a residential pocket worth exploring on foot for local eateries away from the main tourist road."
+  - q: How do I get to Nha He Coffee Shop from the beach?
+    a: It's a few blocks inland from Tran Phu beachfront on Nguyễn Thiện Thuật. A Grab car or motorbike taxi from most beachfront hotels takes under 15 minutes; walking takes about 15-20 minutes. Since the café is down an alley (120/8), navigate using the exact pinned address rather than just the street name.
+  - q: What should I order?
+    a: Try the cà phê trứng (Vietnamese egg coffee) or cà phê dừa (coconut coffee) for the specialty experience, or a classic cà phê sữa đá (iced milk coffee) if you want something simpler. Prices are budget-friendly, in the lower-mid range for Nha Trang cafés.
+  - q: How long should I plan to stay?
+    a: Most visitors spend 1-2 hours here given the relaxed garden-courtyard seating — it's better suited to lingering than a quick takeaway stop, though grab-and-go is possible if you're short on time.
+  - q: What's the best time of day to visit?
+    a: Weekday mornings between roughly 8 and 11am are quietest and coolest. Weekends and evenings tend to draw bigger crowds given the café's strong reputation, so arrive early if visiting then.
+  - q: Is it close to other things to see in Nha Trang?
+    a: Yes — it's within easy reach of the central beach strip, Nha Trang Center, and Louisiane Brewhouse, and sits in a residential pocket worth exploring on foot for local eateries away from the main tourist road.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

@@ -1,43 +1,43 @@
 ---
-title: "The Coach Coffee Shop (Resorts World Sentosa WEAVE): Travel Guide"
-description: "The Coach Coffee Shop is a café inside Resorts World Sentosa's WEAVE precinct at 26 Sentosa Gateway, on Sentosa island, best reached via Sentosa Express"
-country: "Singapore"
-region: "Sentosa"
-category: "trendy"
-pubDate: "2026-07-23T07:40:35.084Z"
+title: 'The Coach Coffee Shop (Resorts World Sentosa WEAVE): Travel Guide'
+description: The Coach Coffee Shop is a café inside Resorts World Sentosa's WEAVE precinct at 26 Sentosa Gateway, on Sentosa island, best reached via Sentosa Express
+country: Singapore
+region: Sentosa
+category: trendy
+pubDate: '2026-07-23T07:40:35.084Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/%28SGP-Singapore%29_Sentosa_Development_Corporation_PD3134S_Sentosa_Bus_A_2026-03-13.jpg/1920px-%28SGP-Singapore%29_Sentosa_Development_Corporation_PD3134S_Sentosa_Bus_A_2026-03-13.jpg"
-  credit: "Photo: S5A-0043 / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:(SGP-Singapore)_Sentosa_Development_Corporation_PD3134S_Sentosa_Bus_A_2026-03-13.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/%28SGP-Singapore%29_Sentosa_Development_Corporation_PD3134S_Sentosa_Bus_A_2026-03-13.jpg/1920px-%28SGP-Singapore%29_Sentosa_Development_Corporation_PD3134S_Sentosa_Bus_A_2026-03-13.jpg
+  credit: 'Photo: S5A-0043 / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:(SGP-Singapore)_Sentosa_Development_Corporation_PD3134S_Sentosa_Bus_A_2026-03-13.jpg
 gallery: []
 place:
-  id: "ChIJy2LyDWwZ2jERD1C-TcAz4qc"
-  name: "The Coach Coffee Shop (Resorts World Sentosa WEAVE)"
-  address: "26 Sentosa Gateway, #01-224/225/226, Singapore 098138"
+  id: ChIJy2LyDWwZ2jERD1C-TcAz4qc
+  name: The Coach Coffee Shop (Resorts World Sentosa WEAVE)
+  address: '26 Sentosa Gateway, #01-224/225/226, Singapore 098138'
   rating: 4.9
   userRatingsTotal: 4139
-  googleMapsUrl: "https://maps.google.com/?cid=12097288450101628943&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=12097288450101628943&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.2565072000000002
   lng: 103.8204152
 tags:
-  - "sentosa"
-  - "trendy cafe"
-quickAnswer: "The Coach Coffee Shop is a café inside Resorts World Sentosa's WEAVE precinct at 26 Sentosa Gateway, on Sentosa island, best reached via Sentosa Express (Waterfront Station) or on foot from Vivocity's Sentosa Boardwalk. It's known for a coach/vintage-travel design theme, specialty coffee, and all-day brunch plates — budget 45–75 minutes, and go on a weekday morning to avoid the resort's weekend crowds. With a 4.9 rating across 4,100+ reviews, it's genuinely well-visited, so plan around peak lunch and dinner rushes rather than expecting a quiet find."
+  - sentosa
+  - trendy cafe
+quickAnswer: The Coach Coffee Shop is a café inside Resorts World Sentosa's WEAVE precinct at 26 Sentosa Gateway, on Sentosa island, best reached via Sentosa Express (Waterfront Station) or on foot from Vivocity's Sentosa Boardwalk. It's known for a coach/vintage-travel design theme, specialty coffee, and all-day brunch plates — budget 45–75 minutes, and go on a weekday morning to avoid the resort's weekend crowds. With a 4.9 rating across 4,100+ reviews, it's genuinely well-visited, so plan around peak lunch and dinner rushes rather than expecting a quiet find.
 faq:
-  - q: "How do I get to The Coach Coffee Shop without a car?"
-    a: "Take the Sentosa Express from Vivocity (Level 3, above HarbourFront MRT) to Waterfront Station, then walk a short distance to WEAVE at Resorts World Sentosa. Walking the Sentosa Boardwalk from HarbourFront is also an option, about 15–20 minutes."
-  - q: "How much time should I budget for a visit?"
-    a: "Around 45 minutes for coffee and a pastry, or 75–90 minutes if you're having a full brunch, plus extra time if visiting during a peak lunch or weekend rush."
-  - q: "Is it easy to get a table?"
-    a: "It's a popular, highly-rated café (4.9 rating, 4,100+ reviews), so weekday mornings or the 2:30–4:30pm lull are your best bet for quick seating; weekends and lunch/dinner hours can mean a wait."
-  - q: "Do I need cash?"
-    a: "No — card and mobile payment are standard across Resorts World Sentosa, and tipping isn't expected since service charge is usually included."
-  - q: "What's nearby if I want to combine the visit with other attractions?"
-    a: "The café is inside RWS's WEAVE precinct, close to Universal Studios Singapore, S.E.A. Aquarium, and the Sentosa Waterfront promenade, making it an easy stop before or after those attractions."
+  - q: How do I get to The Coach Coffee Shop without a car?
+    a: Take the Sentosa Express from Vivocity (Level 3, above HarbourFront MRT) to Waterfront Station, then walk a short distance to WEAVE at Resorts World Sentosa. Walking the Sentosa Boardwalk from HarbourFront is also an option, about 15–20 minutes.
+  - q: How much time should I budget for a visit?
+    a: Around 45 minutes for coffee and a pastry, or 75–90 minutes if you're having a full brunch, plus extra time if visiting during a peak lunch or weekend rush.
+  - q: Is it easy to get a table?
+    a: It's a popular, highly-rated café (4.9 rating, 4,100+ reviews), so weekday mornings or the 2:30–4:30pm lull are your best bet for quick seating; weekends and lunch/dinner hours can mean a wait.
+  - q: Do I need cash?
+    a: No — card and mobile payment are standard across Resorts World Sentosa, and tipping isn't expected since service charge is usually included.
+  - q: What's nearby if I want to combine the visit with other attractions?
+    a: The café is inside RWS's WEAVE precinct, close to Universal Studios Singapore, S.E.A. Aquarium, and the Sentosa Waterfront promenade, making it an easy stop before or after those attractions.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

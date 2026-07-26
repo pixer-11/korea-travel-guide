@@ -1,49 +1,57 @@
 ---
-title: "GLITCH COFFEE & ROASTERS: Nagoya Travel Guide"
-description: "GLITCH COFFEE & ROASTERS Nagoya is a specialty coffee bar in Meieki (Nakamura Ward), a short walk from Nagoya Station, known for single-origin"
-country: "Japan"
-region: "Nagoya"
-category: "trendy"
-pubDate: 2026-07-21
+title: 'GLITCH COFFEE & ROASTERS: Nagoya Travel Guide'
+description: GLITCH COFFEE & ROASTERS Nagoya is a specialty coffee bar in Meieki (Nakamura Ward), a short walk from Nagoya Station, known for single-origin
+country: Japan
+region: Nagoya
+category: trendy
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1583784412836-59db89907528?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8TmFnb3lhJTIwSmFwYW4lMjB0cmVuZHklMjBjYWZlfGVufDB8MHx8fDE3ODQ2MjgwMDZ8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Teo Zac on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@teo?utm_source=korea_travel_guide&utm_medium=referral"
+  url: https://images.unsplash.com/photo-1583784412836-59db89907528?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8TmFnb3lhJTIwSmFwYW4lMjB0cmVuZHklMjBjYWZlfGVufDB8MHx8fDE3ODQ2MjgwMDZ8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Teo Zac on Unsplash
+  license: unsplash
+  source: https://unsplash.com/@teo?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
-  id: "ChIJg5WvXRN3A2AR7kvJj3oWsjs"
-  name: "GLITCH COFFEE & ROASTERS Nagoya"
-  address: "2-chōme-42-2 Meieki, Nakamura Ward, Nagoya, Aichi 450-0002, Japan"
+  id: ChIJg5WvXRN3A2AR7kvJj3oWsjs
+  name: GLITCH COFFEE & ROASTERS Nagoya
+  address: 2-chōme-42-2 Meieki, Nakamura Ward, Nagoya, Aichi 450-0002, Japan
   rating: 4.4
   userRatingsTotal: 651
-  googleMapsUrl: "https://maps.google.com/?cid=4301525309746400238&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=4301525309746400238&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.174422199999995
   lng: 136.8844179
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [19]
-    weekendQuiet: [19]
-    weekendBusy: [11, 12, 13, 14, 15, 16]
-    venueId: 'ven_736a73576f336a4a766b3752413241334e5258765735674a496843'
+    weekdayQuiet:
+      - 19
+    weekendQuiet:
+      - 19
+    weekendBusy:
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+    venueId: ven_736a73576f336a4a766b3752413241334e5258765735674a496843
 tags:
-  - "nagoya"
-  - "trendy cafe"
-quickAnswer: "GLITCH COFFEE & ROASTERS Nagoya is a specialty coffee bar in Meieki (Nakamura Ward), a short walk from Nagoya Station, known for single-origin light-to-medium roasts and a minimalist, standing-and-perching bar setup. Go on a weekday morning to get a seat and to talk through bean options with the staff; budget 20-40 minutes for a pour-over or espresso-based drink. It's rated 4.4 from 651+ reviews, reflecting its reputation as one of the more serious coffee stops in central Nagoya."
+  - nagoya
+  - trendy cafe
+quickAnswer: GLITCH COFFEE & ROASTERS Nagoya is a specialty coffee bar in Meieki (Nakamura Ward), a short walk from Nagoya Station, known for single-origin light-to-medium roasts and a minimalist, standing-and-perching bar setup. Go on a weekday morning to get a seat and to talk through bean options with the staff; budget 20-40 minutes for a pour-over or espresso-based drink. It's rated 4.4 from 651+ reviews, reflecting its reputation as one of the more serious coffee stops in central Nagoya.
 faq:
-  - q: "How do I get to GLITCH COFFEE & ROASTERS Nagoya from the station?"
-    a: "It's in Meieki, Nakamura Ward, about a 5-10 minute walk from Nagoya Station's central or Sakura-dori exits. The station is served by JR, Meitetsu, Kintetsu, and the Nagoya Municipal Subway (Higashiyama and Sakura-dori lines)."
-  - q: "How much time should I plan for a visit?"
-    a: "20-40 minutes is typical: a few minutes choosing a single-origin pour-over or espresso drink, then time to actually drink it at the counter. It's not really set up for long laptop sessions."
-  - q: "What should I order if I've never had specialty coffee?"
-    a: "Ask the barista for a recommendation from the day's single-origin list — they're used to explaining origin and flavor notes to newcomers. If you prefer milk drinks, a flat white or cappuccino is a safer starting point than a straight pour-over."
-  - q: "Is it good for a Shinkansen layover?"
-    a: "Yes, given the short walk from Nagoya Station, it fits well into a 45-60 minute gap between trains, though allow extra buffer time on weekends when seating is limited."
-  - q: "What's nearby if I want to combine it with other sightseeing?"
-    a: "The Meieki district has Takashimaya and Meitetsu department stores, izakaya-lined side streets, and Midland Square's Sky Promenade observation deck, all within easy walking distance."
+  - q: How do I get to GLITCH COFFEE & ROASTERS Nagoya from the station?
+    a: It's in Meieki, Nakamura Ward, about a 5-10 minute walk from Nagoya Station's central or Sakura-dori exits. The station is served by JR, Meitetsu, Kintetsu, and the Nagoya Municipal Subway (Higashiyama and Sakura-dori lines).
+  - q: How much time should I plan for a visit?
+    a: '20-40 minutes is typical: a few minutes choosing a single-origin pour-over or espresso drink, then time to actually drink it at the counter. It''s not really set up for long laptop sessions.'
+  - q: What should I order if I've never had specialty coffee?
+    a: Ask the barista for a recommendation from the day's single-origin list — they're used to explaining origin and flavor notes to newcomers. If you prefer milk drinks, a flat white or cappuccino is a safer starting point than a straight pour-over.
+  - q: Is it good for a Shinkansen layover?
+    a: Yes, given the short walk from Nagoya Station, it fits well into a 45-60 minute gap between trains, though allow extra buffer time on weekends when seating is limited.
+  - q: What's nearby if I want to combine it with other sightseeing?
+    a: The Meieki district has Takashimaya and Meitetsu department stores, izakaya-lined side streets, and Midland Square's Sky Promenade observation deck, all within easy walking distance.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

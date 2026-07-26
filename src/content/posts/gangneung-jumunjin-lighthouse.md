@@ -1,42 +1,42 @@
 ---
-title: "Jumunjin Lighthouse ( ): Gangneung Travel Guide"
-description: "Jumunjin Lighthouse (주문진등대) is a small white 1918-built lighthouse perched on a hill above Jumunjin Port in Gangneung, best visited in the late afternoon for"
-region: "Gangneung"
-category: "trendy"
-pubDate: 2026-07-21
+title: 'Jumunjin Lighthouse ( ): Gangneung Travel Guide'
+description: Jumunjin Lighthouse (주문진등대) is a small white 1918-built lighthouse perched on a hill above Jumunjin Port in Gangneung, best visited in the late afternoon for
+region: Gangneung
+category: trendy
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Namdae_stream_water_reflection_of_colorful_clouds_from_Wolhwagyo_bridge_in_Gangneung_South_Korea.jpg/1920px-Namdae_stream_water_reflection_of_colorful_clouds_from_Wolhwagyo_bridge_in_Gangneung_South_Korea.jpg"
-  credit: "Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Namdae_stream_water_reflection_of_colorful_clouds_from_Wolhwagyo_bridge_in_Gangneung_South_Korea.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Namdae_stream_water_reflection_of_colorful_clouds_from_Wolhwagyo_bridge_in_Gangneung_South_Korea.jpg/1920px-Namdae_stream_water_reflection_of_colorful_clouds_from_Wolhwagyo_bridge_in_Gangneung_South_Korea.jpg
+  credit: 'Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Namdae_stream_water_reflection_of_colorful_clouds_from_Wolhwagyo_bridge_in_Gangneung_South_Korea.jpg
 gallery: []
 place:
-  id: "ChIJu5ptmLCYfDURmSbRP4bS_QM"
-  name: "Jumunjin Lighthouse (주문진등대)"
-  address: "24-7 Yetdeungdae-gil, Jumunjin-eup, Gangneung, Gangwon-do, South Korea"
+  id: ChIJu5ptmLCYfDURmSbRP4bS_QM
+  name: Jumunjin Lighthouse (주문진등대)
+  address: 24-7 Yetdeungdae-gil, Jumunjin-eup, Gangneung, Gangwon-do, South Korea
   rating: 4.4
   userRatingsTotal: 766
-  googleMapsUrl: "https://maps.google.com/?cid=287617425259701913&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=287617425259701913&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.8977544
   lng: 128.8338509
 tags:
-  - "gangneung"
-  - "K-drama filming site"
-quickAnswer: "Jumunjin Lighthouse (주문진등대) is a small white 1918-built lighthouse perched on a hill above Jumunjin Port in Gangneung, best visited in the late afternoon for sunset views over the East Sea. Plan 30–45 minutes for the hilltop itself, then combine it with Jumunjin's famous fish market and the \"Goblin\" (Dokkaebi) filming-spot beach just below. It's free to walk up, rated 4.4 from 766 reviews, and easiest to reach by taxi or car since public transit to the hill is limited."
+  - gangneung
+  - K-drama filming site
+quickAnswer: Jumunjin Lighthouse (주문진등대) is a small white 1918-built lighthouse perched on a hill above Jumunjin Port in Gangneung, best visited in the late afternoon for sunset views over the East Sea. Plan 30–45 minutes for the hilltop itself, then combine it with Jumunjin's famous fish market and the "Goblin" (Dokkaebi) filming-spot beach just below. It's free to walk up, rated 4.4 from 766 reviews, and easiest to reach by taxi or car since public transit to the hill is limited.
 faq:
-  - q: "How do I get to Jumunjin Lighthouse from Gangneung without a car?"
-    a: "Take a city bus or taxi to Jumunjin-eup; taxis run about 20-25 minutes from central Gangneung. From the bus stop near the port, it's a 10-15 minute uphill walk to the lighthouse."
-  - q: "Is there an entrance fee?"
-    a: "No, walking up to the lighthouse platform is free. It's an open outdoor site, not a ticketed attraction."
-  - q: "How long should I spend there?"
-    a: "Plan 30-45 minutes for the lighthouse and viewpoint, plus another hour if you want to explore Jumunjin Fish Market and grab seafood at the port."
-  - q: "What's the best time of day to visit?"
-    a: "Late afternoon to sunset offers the best light on the harbor and sea; mornings are quieter and cooler for photos without backlighting."
-  - q: "What else is nearby?"
-    a: "Jumunjin Port and Fish Market are right at the base of the hill, and Jumunjin Beach is a short drive away, offering a quieter alternative to Gyeongpo Beach in central Gangneung."
+  - q: How do I get to Jumunjin Lighthouse from Gangneung without a car?
+    a: Take a city bus or taxi to Jumunjin-eup; taxis run about 20-25 minutes from central Gangneung. From the bus stop near the port, it's a 10-15 minute uphill walk to the lighthouse.
+  - q: Is there an entrance fee?
+    a: No, walking up to the lighthouse platform is free. It's an open outdoor site, not a ticketed attraction.
+  - q: How long should I spend there?
+    a: Plan 30-45 minutes for the lighthouse and viewpoint, plus another hour if you want to explore Jumunjin Fish Market and grab seafood at the port.
+  - q: What's the best time of day to visit?
+    a: Late afternoon to sunset offers the best light on the harbor and sea; mornings are quieter and cooler for photos without backlighting.
+  - q: What else is nearby?
+    a: Jumunjin Port and Fish Market are right at the base of the hill, and Jumunjin Beach is a short drive away, offering a quieter alternative to Gyeongpo Beach in central Gangneung.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

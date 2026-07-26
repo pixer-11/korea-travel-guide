@@ -1,19 +1,15 @@
 ---
 title: 'Flavors Grill: Where to Eat in Abu Dhabi'
-description: >-
-  Flavors Grill Abu Dhabi is a busy, well-rated (4.9-star, 39,000+ reviews)
-  grill house on Mina Street in the Mina Zayed / Free Zone 2 area near the port
+description: Flavors Grill Abu Dhabi is a busy, well-rated (4.9-star, 39,000+ reviews) grill house on Mina Street in the Mina Zayed / Free Zone 2 area near the port
 country: United Arab Emirates
 region: Abu Dhabi
 category: restaurant
 pubDate: '2026-07-23T07:50:12.075Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Qasr_Al_Watan%2C_Abu_Dhabi_%28P1100959%29.jpg/1920px-Qasr_Al_Watan%2C_Abu_Dhabi_%28P1100959%29.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Qasr_Al_Watan%2C_Abu_Dhabi_%28P1100959%29.jpg/1920px-Qasr_Al_Watan%2C_Abu_Dhabi_%28P1100959%29.jpg
   credit: 'Photo: Matti Blume / Wikimedia Commons (CC BY-SA)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Qasr_Al_Watan,_Abu_Dhabi_(P1100959).jpg
+  source: https://commons.wikimedia.org/wiki/File:Qasr_Al_Watan,_Abu_Dhabi_(P1100959).jpg
 gallery: []
 place:
   id: ChIJeUrze2pnXj4RzcDODWlOjcQ
@@ -22,8 +18,7 @@ place:
   rating: 4.9
   userRatingsTotal: 39410
   priceLevel: 3
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=14163062616260264141&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=14163062616260264141&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 24.527863500000002
   lng: 54.363940400000004
@@ -57,40 +52,20 @@ place:
 tags:
   - abu dhabi
   - local restaurant
-quickAnswer: >-
-  Flavors Grill Abu Dhabi is a busy, well-rated (4.9-star, 39,000+ reviews)
-  grill house on Mina Street in the Mina Zayed / Free Zone 2 area near the port,
-  known for charcoal-grilled meats and mixed grill platters at mid-range prices
-  (price level ~3). Go on a weekday around opening time or mid-afternoon to skip
-  the dinner rush, and expect to share tables or wait if you arrive after 8pm.
+quickAnswer: Flavors Grill Abu Dhabi is a busy, well-rated (4.9-star, 39,000+ reviews) grill house on Mina Street in the Mina Zayed / Free Zone 2 area near the port, known for charcoal-grilled meats and mixed grill platters at mid-range prices (price level ~3). Go on a weekday around opening time or mid-afternoon to skip the dinner rush, and expect to share tables or wait if you arrive after 8pm.
 faq:
   - q: Do I need a reservation at Flavors Grill Abu Dhabi?
-    a: >-
-      It's typically a walk-in restaurant rather than one requiring formal
-      bookings, but given its high review volume, arriving right at opening for
-      lunch or dinner improves your chance of quick seating.
+    a: It's typically a walk-in restaurant rather than one requiring formal bookings, but given its high review volume, arriving right at opening for lunch or dinner improves your chance of quick seating.
   - q: How much does a meal cost?
-    a: >-
-      The listed price level is mid-range (roughly level 3 out of 4), suggesting
-      a full platter meal is moderately priced rather than budget or luxury —
-      confirm current menu prices on the day since these change.
+    a: The listed price level is mid-range (roughly level 3 out of 4), suggesting a full platter meal is moderately priced rather than budget or luxury — confirm current menu prices on the day since these change.
   - q: How do I get to Mina Street / Mina Zayed without a car?
-    a: >-
-      Abu Dhabi has no metro, so taxis or ride-hailing apps like Careem and Uber
-      are the most practical way to reach the port district from downtown or the
-      Corniche, typically 15–25 minutes.
+    a: Abu Dhabi has no metro, so taxis or ride-hailing apps like Careem and Uber are the most practical way to reach the port district from downtown or the Corniche, typically 15–25 minutes.
   - q: What's the best time to avoid crowds?
-    a: >-
-      Weekday afternoons (Tuesday–Wednesday, 1–3pm) are calmer than
-      Thursday–Saturday evenings, which are the busiest slots for a restaurant
-      this popular.
+    a: Weekday afternoons (Tuesday–Wednesday, 1–3pm) are calmer than Thursday–Saturday evenings, which are the busiest slots for a restaurant this popular.
   - q: What should I order?
-    a: >-
-      Charcoal-grilled staples like mixed grill platters, shish tawook, lamb
-      chops, and kofta served with garlic sauce, hummus, and flatbread are the
-      core of this style of grill house.
+    a: Charcoal-grilled staples like mixed grill platters, shish tawook, lamb chops, and kofta served with garlic sauce, hummus, and flatbread are the core of this style of grill house.
 aiGenerated: true
-draft: false
+draft: true
 updatedDate: '2026-07-24'
 ---
 

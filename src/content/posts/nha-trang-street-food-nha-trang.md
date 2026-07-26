@@ -1,50 +1,66 @@
 ---
-title: "Street Food: Where to Eat in Nha Trang"
-description: "For an approachable, English-friendly introduction to Vietnamese street food in Nha Trang, head to Street Food Nha Trang at 119 Lý Nam Đế in the Nam Nha"
-country: "Vietnam"
-region: "Nha Trang"
-category: "restaurant"
-pubDate: "2026-07-22T09:42:20.161Z"
+title: 'Street Food: Where to Eat in Nha Trang'
+description: For an approachable, English-friendly introduction to Vietnamese street food in Nha Trang, head to Street Food Nha Trang at 119 Lý Nam Đế in the Nam Nha
+country: Vietnam
+region: Nha Trang
+category: restaurant
+pubDate: '2026-07-22T09:42:20.161Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Nha_Trang%2C_Vietnam_-_53119835077.jpg/1920px-Nha_Trang%2C_Vietnam_-_53119835077.jpg"
-  credit: "Photo: Leonid / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Nha_Trang,_Vietnam_-_53119835077.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Nha_Trang%2C_Vietnam_-_53119835077.jpg/1920px-Nha_Trang%2C_Vietnam_-_53119835077.jpg
+  credit: 'Photo: Leonid / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Nha_Trang,_Vietnam_-_53119835077.jpg
 gallery: []
 place:
-  id: "ChIJtcwRwGhncDERhP-EjMJD0Vk"
-  name: "Street Food Nha Trang"
-  address: "119 Lý Nam Đế, Nam Nha Trang, Khánh Hòa, Vietnam"
+  id: ChIJtcwRwGhncDERhP-EjMJD0Vk
+  name: Street Food Nha Trang
+  address: 119 Lý Nam Đế, Nam Nha Trang, Khánh Hòa, Vietnam
   rating: 4
   userRatingsTotal: 128
-  googleMapsUrl: "https://maps.google.com/?cid=6472028642368356228&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=6472028642368356228&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 12.2146233
   lng: 109.1955536
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [9, 15, 21, 22]
-    weekdayBusy: [11, 12, 13]
-    weekendQuiet: [9, 15, 16, 20, 21, 22]
-    weekendBusy: [11, 12, 13]
-    venueId: 'ven_6b5630444a4d6a452d5068524544636e684777527763744a496843'
+    weekdayQuiet:
+      - 9
+      - 15
+      - 21
+      - 22
+    weekdayBusy:
+      - 11
+      - 12
+      - 13
+    weekendQuiet:
+      - 9
+      - 15
+      - 16
+      - 20
+      - 21
+      - 22
+    weekendBusy:
+      - 11
+      - 12
+      - 13
+    venueId: ven_6b5630444a4d6a452d5068524544636e684777527763744a496843
 tags:
-  - "nha trang"
-  - "street food"
-quickAnswer: "For an approachable, English-friendly introduction to Vietnamese street food in Nha Trang, head to Street Food Nha Trang at 119 Lý Nam Đế in the Nam Nha Trang area — a casual eatery (4-star average, 128+ reviews) that plates up market-style classics like bánh xèo, nem nướng, and bún chả cá in one sitting. Go at dinnertime, come hungry, and pair it with a walk through the nearby Xóm Mới night-market streets for dessert and fresh coconut afterward. Budget roughly an hour to 90 minutes and confirm current hours before heading over, since small local kitchens like this one can shift schedules seasonally."
+  - nha trang
+  - street food
+quickAnswer: For an approachable, English-friendly introduction to Vietnamese street food in Nha Trang, head to Street Food Nha Trang at 119 Lý Nam Đế in the Nam Nha Trang area — a casual eatery (4-star average, 128+ reviews) that plates up market-style classics like bánh xèo, nem nướng, and bún chả cá in one sitting. Go at dinnertime, come hungry, and pair it with a walk through the nearby Xóm Mới night-market streets for dessert and fresh coconut afterward. Budget roughly an hour to 90 minutes and confirm current hours before heading over, since small local kitchens like this one can shift schedules seasonally.
 faq:
-  - q: "How do I get to Street Food Nha Trang from the beach area?"
-    a: "It's about a 10-15 minute taxi or Grab ride from the main Trần Phú beachfront to 119 Lý Nam Đế in Nam Nha Trang; there's no rail transit in the city, so road transport is the only option."
-  - q: "What should I order first?"
-    a: "Start with nem nướng Nha Trang (grilled pork skewers with rice paper and herbs) and bún chả cá (fish-cake noodle soup) — both are signature regional dishes best tried on a first visit."
-  - q: "Is it expensive?"
-    a: "Street-food-style venues in Nha Trang are typically budget-friendly, with individual dishes costing a small fraction of resort-restaurant prices; exact current prices vary, so check the menu on arrival."
-  - q: "What's the best time of day to visit?"
-    a: "Early evening, around 6-8 p.m., when dishes are freshest and the atmosphere is liveliest; the dry season from February to August also offers more comfortable dining weather."
-  - q: "Is English spoken or menus translated?"
-    a: "As a spot popular with international visitors (reflected in its strong review count), basic English or picture/translated menus are common, though a translation app is a handy backup for detailed questions."
+  - q: How do I get to Street Food Nha Trang from the beach area?
+    a: It's about a 10-15 minute taxi or Grab ride from the main Trần Phú beachfront to 119 Lý Nam Đế in Nam Nha Trang; there's no rail transit in the city, so road transport is the only option.
+  - q: What should I order first?
+    a: Start with nem nướng Nha Trang (grilled pork skewers with rice paper and herbs) and bún chả cá (fish-cake noodle soup) — both are signature regional dishes best tried on a first visit.
+  - q: Is it expensive?
+    a: Street-food-style venues in Nha Trang are typically budget-friendly, with individual dishes costing a small fraction of resort-restaurant prices; exact current prices vary, so check the menu on arrival.
+  - q: What's the best time of day to visit?
+    a: Early evening, around 6-8 p.m., when dishes are freshest and the atmosphere is liveliest; the dry season from February to August also offers more comfortable dining weather.
+  - q: Is English spoken or menus translated?
+    a: As a spot popular with international visitors (reflected in its strong review count), basic English or picture/translated menus are common, though a translation app is a handy backup for detailed questions.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

@@ -1,50 +1,71 @@
 ---
-title: "yoichiba: Where to Eat in Kyoto"
-description: "Yoichiba is a small, highly-rated izakaya-style restaurant in Nakagyo Ward, central Kyoto, best booked ahead for dinner given its 4.8 rating across 421"
-country: "Japan"
-region: "Kyoto"
-category: "restaurant"
-pubDate: "2026-07-22T09:04:56.071Z"
+title: 'yoichiba: Where to Eat in Kyoto'
+description: Yoichiba is a small, highly-rated izakaya-style restaurant in Nakagyo Ward, central Kyoto, best booked ahead for dinner given its 4.8 rating across 421
+country: Japan
+region: Kyoto
+category: restaurant
+pubDate: '2026-07-22T09:04:56.071Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JP_%E6%97%A5%E6%9C%AC_Japan_%E4%BA%AC%E9%83%BD_Kyoto_mall_EDION_Kyoto_Kawaramachi_Main_Store_n_Food_Hall_n_crossingway_June_2026_N13P_02.jpg/1920px-JP_%E6%97%A5%E6%9C%AC_Japan_%E4%BA%AC%E9%83%BD_Kyoto_mall_EDION_Kyoto_Kawaramachi_Main_Store_n_Food_Hall_n_crossingway_June_2026_N13P_02.jpg"
-  credit: "Photo: TKdows 2026 / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:JP_%E6%97%A5%E6%9C%AC_Japan_%E4%BA%AC%E9%83%BD_Kyoto_mall_EDION_Kyoto_Kawaramachi_Main_Store_n_Food_Hall_n_crossingway_June_2026_N13P_02.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JP_%E6%97%A5%E6%9C%AC_Japan_%E4%BA%AC%E9%83%BD_Kyoto_mall_EDION_Kyoto_Kawaramachi_Main_Store_n_Food_Hall_n_crossingway_June_2026_N13P_02.jpg/1920px-JP_%E6%97%A5%E6%9C%AC_Japan_%E4%BA%AC%E9%83%BD_Kyoto_mall_EDION_Kyoto_Kawaramachi_Main_Store_n_Food_Hall_n_crossingway_June_2026_N13P_02.jpg
+  credit: 'Photo: TKdows 2026 / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:JP_%E6%97%A5%E6%9C%AC_Japan_%E4%BA%AC%E9%83%BD_Kyoto_mall_EDION_Kyoto_Kawaramachi_Main_Store_n_Food_Hall_n_crossingway_June_2026_N13P_02.jpg
 gallery: []
 place:
-  id: "ChIJpdNJYA0JAWARUbNXXyglsxo"
-  name: "yoichiba"
-  address: "595-9 Uraderachō, Nakagyo Ward, Kyoto, 604-8041, Japan"
+  id: ChIJpdNJYA0JAWARUbNXXyglsxo
+  name: yoichiba
+  address: 595-9 Uraderachō, Nakagyo Ward, Kyoto, 604-8041, Japan
   rating: 4.8
   userRatingsTotal: 421
-  googleMapsUrl: "https://maps.google.com/?cid=1923922321145836369&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=1923922321145836369&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.0059517
   lng: 135.7680301
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [11, 12, 13, 14, 15, 16, 17]
-    weekdayBusy: [19, 20, 21, 22]
-    weekendQuiet: [11, 12, 13, 14, 15, 16]
-    weekendBusy: [19, 20, 21, 22]
-    venueId: 'ven_6f78736c677958584e6255524157414a3041594a4e64704a496843'
+    weekdayQuiet:
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+    weekdayBusy:
+      - 19
+      - 20
+      - 21
+      - 22
+    weekendQuiet:
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+    weekendBusy:
+      - 19
+      - 20
+      - 21
+      - 22
+    venueId: ven_6f78736c677958584e6255524157414a3041594a4e64704a496843
 tags:
-  - "kyoto"
-  - "street food"
-quickAnswer: "Yoichiba is a small, highly-rated izakaya-style restaurant in Nakagyo Ward, central Kyoto, best booked ahead for dinner given its 4.8 rating across 421 reviews. Plan for a leisurely 1.5–2 hour seated meal rather than a quick bite, and pair it with an evening stroll through nearby Kiyamachi or Pontocho. Reserve as early as you can, since small Kyoto spots with this kind of review profile tend to fill up fast, especially on weekends."
+  - kyoto
+  - street food
+quickAnswer: Yoichiba is a small, highly-rated izakaya-style restaurant in Nakagyo Ward, central Kyoto, best booked ahead for dinner given its 4.8 rating across 421 reviews. Plan for a leisurely 1.5–2 hour seated meal rather than a quick bite, and pair it with an evening stroll through nearby Kiyamachi or Pontocho. Reserve as early as you can, since small Kyoto spots with this kind of review profile tend to fill up fast, especially on weekends.
 faq:
-  - q: "How do I get to Yoichiba from Kyoto Station?"
-    a: "Take the Karasuma Line subway north to Karasuma Oike Station (about 5–6 minutes), then walk east through Nakagyo Ward's central streets toward Uraderachō, roughly a 5–10 minute walk from the station exits."
-  - q: "Do I need a reservation?"
-    a: "Yes — with a 4.8 rating over 421 reviews, tables are likely to be in demand, especially on weekends and during cherry blossom (late March–April) or autumn foliage (November) season. Book ahead online or by phone where possible."
-  - q: "How long should I plan for the meal?"
-    a: "Expect a relaxed 1.5–2 hour seated dinner if ordering a multi-course or chef's selection menu, which is typical at small Nakagyo dining spots."
-  - q: "What's nearby if I arrive early or stay after?"
-    a: "Nishiki Market for snacking and browsing, the Pontocho alley for a classic evening atmosphere, and the Kamogawa riverbank for a stroll are all within easy walking distance in Nakagyo Ward."
-  - q: "Is it better to go for lunch or dinner?"
-    a: "Dinner service tends to offer the fuller menu experience at this style of restaurant; lunch may have a shorter or set menu. Confirm current hours before visiting since small Kyoto restaurants often close between lunch and dinner service."
+  - q: How do I get to Yoichiba from Kyoto Station?
+    a: Take the Karasuma Line subway north to Karasuma Oike Station (about 5–6 minutes), then walk east through Nakagyo Ward's central streets toward Uraderachō, roughly a 5–10 minute walk from the station exits.
+  - q: Do I need a reservation?
+    a: Yes — with a 4.8 rating over 421 reviews, tables are likely to be in demand, especially on weekends and during cherry blossom (late March–April) or autumn foliage (November) season. Book ahead online or by phone where possible.
+  - q: How long should I plan for the meal?
+    a: Expect a relaxed 1.5–2 hour seated dinner if ordering a multi-course or chef's selection menu, which is typical at small Nakagyo dining spots.
+  - q: What's nearby if I arrive early or stay after?
+    a: Nishiki Market for snacking and browsing, the Pontocho alley for a classic evening atmosphere, and the Kamogawa riverbank for a stroll are all within easy walking distance in Nakagyo Ward.
+  - q: Is it better to go for lunch or dinner?
+    a: Dinner service tends to offer the fuller menu experience at this style of restaurant; lunch may have a shorter or set menu. Confirm current hours before visiting since small Kyoto restaurants often close between lunch and dinner service.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Yoichiba stands out

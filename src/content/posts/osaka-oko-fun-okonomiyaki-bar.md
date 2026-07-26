@@ -1,49 +1,54 @@
 ---
-title: "OKO - Fun Okonomiyaki Bar: Where to Eat in Osaka"
-description: "OKO - Fun Okonomiyaki Bar is a budget-friendly okonomiyaki counter in Dotonbori, Osaka's canal-side entertainment district, rated 4.7 from over 2,500"
-country: "Japan"
-region: "Osaka"
-category: "restaurant"
-pubDate: 2026-07-21
+title: 'OKO - Fun Okonomiyaki Bar: Where to Eat in Osaka'
+description: OKO - Fun Okonomiyaki Bar is a budget-friendly okonomiyaki counter in Dotonbori, Osaka's canal-side entertainment district, rated 4.7 from over 2,500
+country: Japan
+region: Osaka
+category: restaurant
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Itoshii_Osaka%2C_Utrecht_%282023%29_01.jpg/1920px-Itoshii_Osaka%2C_Utrecht_%282023%29_01.jpg"
-  credit: "Photo: Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International.(Want to use this image?)Original publication 📤: --Donald Trung 『徵國單』 (No Fake News 💬) (WikiProject Numismatics 💴) (Articles 📚) 18:21, 13 June 2023 (UTC) / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Itoshii_Osaka,_Utrecht_(2023)_01.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Itoshii_Osaka%2C_Utrecht_%282023%29_01.jpg/1920px-Itoshii_Osaka%2C_Utrecht_%282023%29_01.jpg
+  credit: 'Photo: Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International.(Want to use this image?)Original publication 📤: --Donald Trung 『徵國單』 (No Fake News 💬) (WikiProject Numismatics 💴) (Articles 📚) 18:21, 13 June 2023 (UTC) / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Itoshii_Osaka,_Utrecht_(2023)_01.jpg
 gallery: []
 place:
-  id: "ChIJJW6hru3nAGARwQoSCpVqSvg"
-  name: "OKO - Fun Okonomiyaki Bar"
-  address: "2-chōme-4-13 Dōtonbori, Chuo Ward, Osaka, 542-0071, Japan"
+  id: ChIJJW6hru3nAGARwQoSCpVqSvg
+  name: OKO - Fun Okonomiyaki Bar
+  address: 2-chōme-4-13 Dōtonbori, Chuo Ward, Osaka, 542-0071, Japan
   rating: 4.7
   userRatingsTotal: 2573
   priceLevel: 1
-  googleMapsUrl: "https://maps.google.com/?cid=17891229658034342593&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=17891229658034342593&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.6687807
   lng: 135.49815479999998
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [18, 22]
-    weekendBusy: [19, 20, 21]
-    venueId: 'ven_67765371567043536f5177524147416e3375726836574a4a496843'
+    weekdayQuiet:
+      - 18
+      - 22
+    weekendBusy:
+      - 19
+      - 20
+      - 21
+    venueId: ven_67765371567043536f5177524147416e3375726836574a4a496843
 tags:
-  - "osaka"
-  - "local restaurant"
-quickAnswer: "OKO - Fun Okonomiyaki Bar is a budget-friendly okonomiyaki counter in Dotonbori, Osaka's canal-side entertainment district, rated 4.7 from over 2,500 reviews. Go for made-to-order okonomiyaki and negiyaki cooked on a teppan in front of you, plan for a short wait during peak dinner hours, and pair the visit with a stroll along the Dotonbori canal afterward."
+  - osaka
+  - local restaurant
+quickAnswer: OKO - Fun Okonomiyaki Bar is a budget-friendly okonomiyaki counter in Dotonbori, Osaka's canal-side entertainment district, rated 4.7 from over 2,500 reviews. Go for made-to-order okonomiyaki and negiyaki cooked on a teppan in front of you, plan for a short wait during peak dinner hours, and pair the visit with a stroll along the Dotonbori canal afterward.
 faq:
-  - q: "How do I get to OKO - Fun Okonomiyaki Bar?"
-    a: "Walk from Namba Station (Midosuji, Sennichimae, or Yotsubashi subway lines, plus Nankai and Kintetsu lines) — it's about 5-10 minutes north toward the Dotonbori canal, near the Glico Running Man sign."
-  - q: "How much does a meal cost?"
-    a: "It's listed in the lowest price tier, so expect budget-friendly pricing typical of casual okonomiyaki counters — a filling meal for one is generally inexpensive by Osaka dining standards, though menu prices should be confirmed on-site or via the current menu."
-  - q: "What's the best dish to order?"
-    a: "Start with classic pork (buta-tama) or seafood okonomiyaki; if available, negiyaki is a lighter alternative, and cheese or mochi are popular add-ins."
-  - q: "When should I visit to avoid a wait?"
-    a: "Given its 4.7 rating and Dotonbori's evening crowds, aim for an early dinner right at opening or a quieter lunch slot to minimize queuing."
-  - q: "What else is nearby?"
-    a: "The Dotonbori canal, Shinsaibashi shopping arcade, and Kuromon Ichiba Market are all within easy walking distance for a broader Osaka food crawl."
+  - q: How do I get to OKO - Fun Okonomiyaki Bar?
+    a: Walk from Namba Station (Midosuji, Sennichimae, or Yotsubashi subway lines, plus Nankai and Kintetsu lines) — it's about 5-10 minutes north toward the Dotonbori canal, near the Glico Running Man sign.
+  - q: How much does a meal cost?
+    a: It's listed in the lowest price tier, so expect budget-friendly pricing typical of casual okonomiyaki counters — a filling meal for one is generally inexpensive by Osaka dining standards, though menu prices should be confirmed on-site or via the current menu.
+  - q: What's the best dish to order?
+    a: Start with classic pork (buta-tama) or seafood okonomiyaki; if available, negiyaki is a lighter alternative, and cheese or mochi are popular add-ins.
+  - q: When should I visit to avoid a wait?
+    a: Given its 4.7 rating and Dotonbori's evening crowds, aim for an early dinner right at opening or a quieter lunch slot to minimize queuing.
+  - q: What else is nearby?
+    a: The Dotonbori canal, Shinsaibashi shopping arcade, and Kuromon Ichiba Market are all within easy walking distance for a broader Osaka food crawl.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

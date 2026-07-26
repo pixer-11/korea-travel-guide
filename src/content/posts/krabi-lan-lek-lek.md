@@ -1,44 +1,44 @@
 ---
-title: "Lan Lek Lek: Where to Eat in Krabi"
-description: "Lan Lek Lek is a no-frills, budget-friendly Thai eatery on Soi Maharaj 10 in Krabi Town, a short walk or tuk-tuk ride from the Chao Fah Pier night market"
-country: "Thailand"
-region: "Krabi"
-category: "restaurant"
-pubDate: "2026-07-22T09:21:42.332Z"
+title: 'Lan Lek Lek: Where to Eat in Krabi'
+description: Lan Lek Lek is a no-frills, budget-friendly Thai eatery on Soi Maharaj 10 in Krabi Town, a short walk or tuk-tuk ride from the Chao Fah Pier night market
+country: Thailand
+region: Krabi
+category: restaurant
+pubDate: '2026-07-22T09:21:42.332Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/2016-04-09_Street_food_vendors_in_Krabi_Town_01.jpg/1920px-2016-04-09_Street_food_vendors_in_Krabi_Town_01.jpg"
-  credit: "Photo: Maksym Kozlenko / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:2016-04-09_Street_food_vendors_in_Krabi_Town_01.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/2016-04-09_Street_food_vendors_in_Krabi_Town_01.jpg/1920px-2016-04-09_Street_food_vendors_in_Krabi_Town_01.jpg
+  credit: 'Photo: Maksym Kozlenko / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:2016-04-09_Street_food_vendors_in_Krabi_Town_01.jpg
 gallery: []
 place:
-  id: "ChIJAU6t1BaVUTARCW0Pc_0jOLo"
-  name: "Lan Lek Lek"
-  address: "25 ซอย Maharaj 10 Krabi, Tambon Pak Nam, Amphoe Mueang Krabi, Chang Wat Krabi 81000, Thailand"
+  id: ChIJAU6t1BaVUTARCW0Pc_0jOLo
+  name: Lan Lek Lek
+  address: 25 ซอย Maharaj 10 Krabi, Tambon Pak Nam, Amphoe Mueang Krabi, Chang Wat Krabi 81000, Thailand
   rating: 4.8
   userRatingsTotal: 1222
   priceLevel: 1
-  googleMapsUrl: "https://maps.google.com/?cid=13418514661214481673&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=13418514661214481673&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 8.0653706
   lng: 98.9161211
 tags:
-  - "krabi"
-  - "street food"
-quickAnswer: "Lan Lek Lek is a no-frills, budget-friendly Thai eatery on Soi Maharaj 10 in Krabi Town, a short walk or tuk-tuk ride from the Chao Fah Pier night market area. It's best visited for lunch or an early dinner, when the kitchen is freshest and queues are shorter — expect simple seating, a rapid-fire order-and-eat pace, and some of the highest review ratings (4.8 from 1,200+ reviews) of any budget spot in town. Go hungry, go with cash, and don't expect an English menu to be extensive — pointing at what others are eating works fine."
+  - krabi
+  - street food
+quickAnswer: Lan Lek Lek is a no-frills, budget-friendly Thai eatery on Soi Maharaj 10 in Krabi Town, a short walk or tuk-tuk ride from the Chao Fah Pier night market area. It's best visited for lunch or an early dinner, when the kitchen is freshest and queues are shorter — expect simple seating, a rapid-fire order-and-eat pace, and some of the highest review ratings (4.8 from 1,200+ reviews) of any budget spot in town. Go hungry, go with cash, and don't expect an English menu to be extensive — pointing at what others are eating works fine.
 faq:
-  - q: "Where exactly is Lan Lek Lek located?"
-    a: "At 25 Soi Maharaj 10 in Krabi Town (Tambon Pak Nam), close to the Krabi River promenade and Chao Fah Pier night market."
-  - q: "How do I get there without a car?"
-    a: "Walk from central Krabi Town (10–15 minutes from Utarakit Road) or take a tuk-tuk/Grab ride; from Ao Nang it's about a 25–30 minute drive."
-  - q: "Is it expensive?"
-    a: "No — it's a budget-level Thai eatery (price level 1), with dishes priced for locals and typically well under what riverside tourist restaurants charge."
-  - q: "What should I order?"
-    a: "Classic Thai staples like pad kra pao, fried rice, and tom yum are safe bets; ask staff what's freshest or check the display counter for the day's curries."
-  - q: "Best time to visit to avoid a wait?"
-    a: "Go just before or after peak lunch hours (11:30 AM–1:30 PM) or during an early dinner around 5:30–6:30 PM."
+  - q: Where exactly is Lan Lek Lek located?
+    a: At 25 Soi Maharaj 10 in Krabi Town (Tambon Pak Nam), close to the Krabi River promenade and Chao Fah Pier night market.
+  - q: How do I get there without a car?
+    a: Walk from central Krabi Town (10–15 minutes from Utarakit Road) or take a tuk-tuk/Grab ride; from Ao Nang it's about a 25–30 minute drive.
+  - q: Is it expensive?
+    a: No — it's a budget-level Thai eatery (price level 1), with dishes priced for locals and typically well under what riverside tourist restaurants charge.
+  - q: What should I order?
+    a: Classic Thai staples like pad kra pao, fried rice, and tom yum are safe bets; ask staff what's freshest or check the display counter for the day's curries.
+  - q: Best time to visit to avoid a wait?
+    a: Go just before or after peak lunch hours (11:30 AM–1:30 PM) or during an early dinner around 5:30–6:30 PM.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

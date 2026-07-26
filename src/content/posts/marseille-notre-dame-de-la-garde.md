@@ -1,49 +1,63 @@
 ---
-title: "Notre-Dame de la Garde: Marseille Travel Guide"
-description: "Notre-Dame de la Garde is the neo-Byzantine basilica atop Marseille's highest hill (154m), topped by a 9.5m gilded statue of the Virgin Mary."
-country: "France"
-region: "Marseille"
-category: "attraction"
-pubDate: 2026-07-21
+title: 'Notre-Dame de la Garde: Marseille Travel Guide'
+description: Notre-Dame de la Garde is the neo-Byzantine basilica atop Marseille's highest hill (154m), topped by a 9.5m gilded statue of the Virgin Mary.
+country: France
+region: Marseille
+category: attraction
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Hafen_von_Marseille-Notre_Dame_de_la_Garde.jpg/1920px-Hafen_von_Marseille-Notre_Dame_de_la_Garde.jpg"
-  credit: "Photo: Tobi 87 / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Hafen_von_Marseille-Notre_Dame_de_la_Garde.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Hafen_von_Marseille-Notre_Dame_de_la_Garde.jpg/1920px-Hafen_von_Marseille-Notre_Dame_de_la_Garde.jpg
+  credit: 'Photo: Tobi 87 / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Hafen_von_Marseille-Notre_Dame_de_la_Garde.jpg
 gallery: []
 place:
-  id: "ChIJ9Z24dsnAyRIR7S3utZVPJYk"
-  name: "Notre-Dame de la Garde"
-  address: "Domaine Notre Dame de la Garde, Rue Fort du Sanctuaire, 13006 Marseille, France"
+  id: ChIJ9Z24dsnAyRIR7S3utZVPJYk
+  name: Notre-Dame de la Garde
+  address: Domaine Notre Dame de la Garde, Rue Fort du Sanctuaire, 13006 Marseille, France
   rating: 4.8
   userRatingsTotal: 50657
-  googleMapsUrl: "https://maps.google.com/?cid=9882392461755428333&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=9882392461755428333&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.2839533
   lng: 5.3712377
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [7, 8, 9, 18]
-    weekendQuiet: [7, 8, 18]
-    weekendBusy: [10, 11, 12, 13, 14, 15, 16]
-    venueId: 'ven_6b594a50565a747533533752495279416e736434325a394a496843'
+    weekdayQuiet:
+      - 7
+      - 8
+      - 9
+      - 18
+    weekendQuiet:
+      - 7
+      - 8
+      - 18
+    weekendBusy:
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+    venueId: ven_6b594a50565a747533533752495279416e736434325a394a496843
 tags:
-  - "marseille"
-  - "Notre-Dame de la Garde"
-quickAnswer: "Notre-Dame de la Garde is the neo-Byzantine basilica atop Marseille's highest hill (154m), topped by a 9.5m gilded statue of the Virgin Mary. It's free to enter, open daily, and best visited at sunset or early morning for panoramic views over the Vieux-Port and Mediterranean. Plan on 45–90 minutes, and walk or take bus 60 up—the climb is steep."
+  - marseille
+  - Notre-Dame de la Garde
+quickAnswer: Notre-Dame de la Garde is the neo-Byzantine basilica atop Marseille's highest hill (154m), topped by a 9.5m gilded statue of the Virgin Mary. It's free to enter, open daily, and best visited at sunset or early morning for panoramic views over the Vieux-Port and Mediterranean. Plan on 45–90 minutes, and walk or take bus 60 up—the climb is steep.
 faq:
-  - q: "Is Notre-Dame de la Garde free to visit?"
-    a: "Yes, entry to both the basilica and the terrace is free, though donation boxes are available for upkeep of the site."
-  - q: "How do I get to Notre-Dame de la Garde without a car?"
-    a: "Take bus 60 from the Vieux-Port area directly to the entrance, ride the Petit Train de la Bonne Mère, or walk uphill from the Vieux-Port in about 25–35 minutes—it's a steep climb, so wear comfortable shoes."
-  - q: "How much time should I plan for the visit?"
-    a: "Budget 45–90 minutes to see the crypt, upper basilica, and circle the terrace for views; add time in summer for crowds."
-  - q: "What's the best time of day to visit?"
-    a: "Early morning or around sunset offer the best light, clearest views over the Vieux-Port and Calanques, and fewer crowds than midday."
-  - q: "Is there a dress code?"
-    a: "Yes—as an active place of worship, visitors are expected to cover shoulders and knees when entering the basilica."
+  - q: Is Notre-Dame de la Garde free to visit?
+    a: Yes, entry to both the basilica and the terrace is free, though donation boxes are available for upkeep of the site.
+  - q: How do I get to Notre-Dame de la Garde without a car?
+    a: Take bus 60 from the Vieux-Port area directly to the entrance, ride the Petit Train de la Bonne Mère, or walk uphill from the Vieux-Port in about 25–35 minutes—it's a steep climb, so wear comfortable shoes.
+  - q: How much time should I plan for the visit?
+    a: Budget 45–90 minutes to see the crypt, upper basilica, and circle the terrace for views; add time in summer for crowds.
+  - q: What's the best time of day to visit?
+    a: Early morning or around sunset offer the best light, clearest views over the Vieux-Port and Calanques, and fewer crowds than midday.
+  - q: Is there a dress code?
+    a: Yes—as an active place of worship, visitors are expected to cover shoulders and knees when entering the basilica.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

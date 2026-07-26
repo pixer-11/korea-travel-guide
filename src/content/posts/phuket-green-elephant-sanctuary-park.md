@@ -1,43 +1,43 @@
 ---
-title: "Green Elephant Sanctuary Park: Phuket Travel Guide"
-description: "Green Elephant Sanctuary Park sits in Cherngtalay, near Bang Tao and Layan beaches in northwest Phuket, and offers half-day ethical elephant encounters"
-country: "Thailand"
-region: "Phuket"
-category: "hidden-gem"
-pubDate: "2026-07-22T09:17:23.509Z"
+title: 'Green Elephant Sanctuary Park: Phuket Travel Guide'
+description: Green Elephant Sanctuary Park sits in Cherngtalay, near Bang Tao and Layan beaches in northwest Phuket, and offers half-day ethical elephant encounters
+country: Thailand
+region: Phuket
+category: hidden-gem
+pubDate: '2026-07-22T09:17:23.509Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Majestic_Young_Tiger_Submerged_In_A_Green_Sanctuary.jpg/1920px-Majestic_Young_Tiger_Submerged_In_A_Green_Sanctuary.jpg"
-  credit: "Photo: Megaurab09 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Majestic_Young_Tiger_Submerged_In_A_Green_Sanctuary.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Majestic_Young_Tiger_Submerged_In_A_Green_Sanctuary.jpg/1920px-Majestic_Young_Tiger_Submerged_In_A_Green_Sanctuary.jpg
+  credit: 'Photo: Megaurab09 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Majestic_Young_Tiger_Submerged_In_A_Green_Sanctuary.jpg
 gallery: []
 place:
-  id: "ChIJMVGAs1g3UDARyLMbAwlTF_c"
-  name: "Green Elephant Sanctuary Park"
-  address: "4 Soi Cherngtalay 1, Tambon Choeng Thale, Amphoe Thalang, Chang Wat Phuket 83110, Thailand"
+  id: ChIJMVGAs1g3UDARyLMbAwlTF_c
+  name: Green Elephant Sanctuary Park
+  address: 4 Soi Cherngtalay 1, Tambon Choeng Thale, Amphoe Thalang, Chang Wat Phuket 83110, Thailand
   rating: 4.9
   userRatingsTotal: 3859
-  googleMapsUrl: "https://maps.google.com/?cid=17804790950004503496&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=17804790950004503496&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 7.978758200000001
   lng: 98.3093808
 tags:
-  - "phuket"
-  - "hidden gem"
-quickAnswer: "Green Elephant Sanctuary Park sits in Cherngtalay, near Bang Tao and Layan beaches in northwest Phuket, and offers half-day ethical elephant encounters (feeding, walking, mud bath, no riding) rather than a quick photo stop. Book a morning or afternoon session directly through the sanctuary in advance, wear clothes you don't mind getting muddy, and budget roughly 3 hours including transport from most west-coast resorts."
+  - phuket
+  - hidden gem
+quickAnswer: Green Elephant Sanctuary Park sits in Cherngtalay, near Bang Tao and Layan beaches in northwest Phuket, and offers half-day ethical elephant encounters (feeding, walking, mud bath, no riding) rather than a quick photo stop. Book a morning or afternoon session directly through the sanctuary in advance, wear clothes you don't mind getting muddy, and budget roughly 3 hours including transport from most west-coast resorts.
 faq:
-  - q: "How do I get to Green Elephant Sanctuary Park without a car?"
-    a: "Take a Grab or metered taxi from your hotel — most west-coast resorts (Surin to Layan) are 10–20 minutes away. Some bookings include hotel pickup from nearby beach areas, so ask when reserving."
-  - q: "Is this an ethical, no-riding sanctuary?"
-    a: "Yes — the park is built around observing, feeding, walking with, and bathing rescued elephants rather than riding or performance shows, which is reflected in its strong review record."
-  - q: "How long does a visit take?"
-    a: "Plan for about half a day, roughly 3 hours including a feeding session, jungle walk, and mud/bath time, plus transport to and from your accommodation."
-  - q: "What should I wear or bring?"
-    a: "Wear clothes and shoes you don't mind getting wet and muddy, bring a change of clothes and a towel, and pack insect repellent since the compound is forested."
-  - q: "When is the best time to visit?"
-    a: "Book a morning session during the November–April dry season for cooler weather and more active elephants; reserve a few days ahead in the busy December–February period."
+  - q: How do I get to Green Elephant Sanctuary Park without a car?
+    a: Take a Grab or metered taxi from your hotel — most west-coast resorts (Surin to Layan) are 10–20 minutes away. Some bookings include hotel pickup from nearby beach areas, so ask when reserving.
+  - q: Is this an ethical, no-riding sanctuary?
+    a: Yes — the park is built around observing, feeding, walking with, and bathing rescued elephants rather than riding or performance shows, which is reflected in its strong review record.
+  - q: How long does a visit take?
+    a: Plan for about half a day, roughly 3 hours including a feeding session, jungle walk, and mud/bath time, plus transport to and from your accommodation.
+  - q: What should I wear or bring?
+    a: Wear clothes and shoes you don't mind getting wet and muddy, bring a change of clothes and a towel, and pack insect repellent since the compound is forested.
+  - q: When is the best time to visit?
+    a: Book a morning session during the November–April dry season for cooler weather and more active elephants; reserve a few days ahead in the busy December–February period.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

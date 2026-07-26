@@ -1,47 +1,58 @@
 ---
-title: "Yeonggeumjeong Sunrise Pavilion: Sokcho Travel Guide"
-description: "Yeonggeumjeong is a two-story hanok-style pavilion perched on a rocky outcrop in Sokcho's Dongmyeong-dong, reached by a short footbridge that's lit up after"
-country: "South Korea"
-region: "Sokcho"
-category: "hidden-gem"
-pubDate: 2026-07-21
+title: 'Yeonggeumjeong Sunrise Pavilion: Sokcho Travel Guide'
+description: Yeonggeumjeong is a two-story hanok-style pavilion perched on a rocky outcrop in Sokcho's Dongmyeong-dong, reached by a short footbridge that's lit up after
+country: South Korea
+region: Sokcho
+category: hidden-gem
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1660785462445-f9d21cad7ada?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U29rY2hvJTIwU291dGglMjBLb3JlYSUyMGhpZGRlbiUyMGdlbXxlbnwwfDB8fHwxNzg0NjIzNjA0fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Photos of Korea on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@photosofkorea?utm_source=korea_travel_guide&utm_medium=referral"
+  url: https://images.unsplash.com/photo-1660785462445-f9d21cad7ada?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U29rY2hvJTIwU291dGglMjBLb3JlYSUyMGhpZGRlbiUyMGdlbXxlbnwwfDB8fHwxNzg0NjIzNjA0fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Photos of Korea on Unsplash
+  license: unsplash
+  source: https://unsplash.com/@photosofkorea?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
-  id: "ChIJuVQp1w682F8RULr4nyAoHWU"
-  name: "Yeonggeumjeong Sunrise Pavilion"
-  address: "43 Yeonggeumjeong-ro, Dongmyeong-dong, Sokcho-si, Gangwon-do, South Korea"
+  id: ChIJuVQp1w682F8RULr4nyAoHWU
+  name: Yeonggeumjeong Sunrise Pavilion
+  address: 43 Yeonggeumjeong-ro, Dongmyeong-dong, Sokcho-si, Gangwon-do, South Korea
   rating: 4.3
   userRatingsTotal: 11921
-  googleMapsUrl: "https://maps.google.com/?cid=7286023892743273040&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=7286023892743273040&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 38.2120575
   lng: 128.60207599999998
   busyness:
     updated: '2026-07-23'
-    weekendBusy: [11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
-    venueId: 'ven_5557486f41796e34724c555238463238367731705156754a496843'
+    weekendBusy:
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+    venueId: ven_5557486f41796e34724c555238463238367731705156754a496843
 tags:
-  - "sokcho"
-  - "hidden gem"
-quickAnswer: "Yeonggeumjeong is a two-story hanok-style pavilion perched on a rocky outcrop in Sokcho's Dongmyeong-dong, reached by a short footbridge that's lit up after dark. Go for sunrise (roughly 30-45 minutes before official sunrise) or for the evening light show on the bridge — either way, budget 20-30 minutes on site plus time to walk the adjacent breakwater and harbor. It's free to enter and open around the clock, making it an easy add-on to a Sokcho beach or seafood-market visit."
+  - sokcho
+  - hidden gem
+quickAnswer: Yeonggeumjeong is a two-story hanok-style pavilion perched on a rocky outcrop in Sokcho's Dongmyeong-dong, reached by a short footbridge that's lit up after dark. Go for sunrise (roughly 30-45 minutes before official sunrise) or for the evening light show on the bridge — either way, budget 20-30 minutes on site plus time to walk the adjacent breakwater and harbor. It's free to enter and open around the clock, making it an easy add-on to a Sokcho beach or seafood-market visit.
 faq:
-  - q: "Is there an entrance fee for Yeonggeumjeong Pavilion?"
-    a: "No, it's a free public site with no ticket booth. Access is generally open around the clock, though it's worth confirming there are no temporary closures due to weather before you go."
-  - q: "What's the best time to visit for photos?"
-    a: "Sunrise is the classic choice, since the pavilion faces east over open water — arrive 20-30 minutes early to get a spot on the bridge or rocks. The illuminated bridge at night is a strong alternative with far fewer crowds."
-  - q: "How do I get to Yeonggeumjeong without a car?"
-    a: "From Sokcho's bus terminals, it's about a 10-15 minute taxi ride to Dongmyeong-dong. Local buses also run along the coastal road, but confirm the current route number locally since numbering can change."
-  - q: "How much time should I set aside?"
-    a: "20-30 minutes covers the pavilion and bridge; add another 30-45 minutes if you want to walk the nearby breakwater, tide pools, or continue on to the fishing harbor."
-  - q: "What else is nearby worth combining with this stop?"
-    a: "Abai Village (via the hand-pulled ferry), Sokcho Beach, and Sokcho Jungang Market for seafood breakfasts are all within a short drive or walk along the coast."
+  - q: Is there an entrance fee for Yeonggeumjeong Pavilion?
+    a: No, it's a free public site with no ticket booth. Access is generally open around the clock, though it's worth confirming there are no temporary closures due to weather before you go.
+  - q: What's the best time to visit for photos?
+    a: Sunrise is the classic choice, since the pavilion faces east over open water — arrive 20-30 minutes early to get a spot on the bridge or rocks. The illuminated bridge at night is a strong alternative with far fewer crowds.
+  - q: How do I get to Yeonggeumjeong without a car?
+    a: From Sokcho's bus terminals, it's about a 10-15 minute taxi ride to Dongmyeong-dong. Local buses also run along the coastal road, but confirm the current route number locally since numbering can change.
+  - q: How much time should I set aside?
+    a: 20-30 minutes covers the pavilion and bridge; add another 30-45 minutes if you want to walk the nearby breakwater, tide pools, or continue on to the fishing harbor.
+  - q: What else is nearby worth combining with this stop?
+    a: Abai Village (via the hand-pulled ferry), Sokcho Beach, and Sokcho Jungang Market for seafood breakfasts are all within a short drive or walk along the coast.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

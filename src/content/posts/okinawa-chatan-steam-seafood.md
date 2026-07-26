@@ -1,50 +1,60 @@
 ---
-title: "Chatan Steam Seafood: Where to Eat in Okinawa"
-description: "Chatan Steam Seafood is a pick-and-steam seafood buffet on the 3rd floor of a building in Mihama, Chatan — the American Village district on Okinawa's west"
-country: "Japan"
-region: "Okinawa"
-category: "restaurant"
-pubDate: 2026-07-21
+title: 'Chatan Steam Seafood: Where to Eat in Okinawa'
+description: Chatan Steam Seafood is a pick-and-steam seafood buffet on the 3rd floor of a building in Mihama, Chatan — the American Village district on Okinawa's west
+country: Japan
+region: Okinawa
+category: restaurant
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1763872790577-87955e6036c9?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8T2tpbmF3YSUyMEphcGFuJTIwbG9jYWwlMjByZXN0YXVyYW50fGVufDB8MHx8fDE3ODQ2Mjc1NzB8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Daesun Kim on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@lifeandyouth?utm_source=korea_travel_guide&utm_medium=referral"
+  url: https://images.unsplash.com/photo-1763872790577-87955e6036c9?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8T2tpbmF3YSUyMEphcGFuJTIwbG9jYWwlMjByZXN0YXVyYW50fGVufDB8MHx8fDE3ODQ2Mjc1NzB8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Daesun Kim on Unsplash
+  license: unsplash
+  source: https://unsplash.com/@lifeandyouth?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
-  id: "ChIJmR_Uxc8T5TQRUiU6osESyL4"
-  name: "Chatan Steam Seafood"
-  address: "Japan, 〒904-0115 Okinawa, Nakagami District, Chatan, Mihama, ５１−２ ３Ｆ"
+  id: ChIJmR_Uxc8T5TQRUiU6osESyL4
+  name: Chatan Steam Seafood
+  address: Japan, 〒904-0115 Okinawa, Nakagami District, Chatan, Mihama, ５１−２ ３Ｆ
   rating: 4.7
   userRatingsTotal: 3492
-  googleMapsUrl: "https://maps.google.com/?cid=13747258485408146770&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=13747258485408146770&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 26.3202086
   lng: 127.7536892
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [11, 22]
-    weekdayBusy: [19]
-    weekendQuiet: [11, 22]
-    weekendBusy: [17, 18, 19, 20, 21]
-    venueId: 'ven_344c795345736f365569555251543554386378555f526d4a496843'
+    weekdayQuiet:
+      - 11
+      - 22
+    weekdayBusy:
+      - 19
+    weekendQuiet:
+      - 11
+      - 22
+    weekendBusy:
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+    venueId: ven_344c795345736f365569555251543554386378555f526d4a496843
 tags:
-  - "okinawa"
-  - "local restaurant"
-quickAnswer: "Chatan Steam Seafood is a pick-and-steam seafood buffet on the 3rd floor of a building in Mihama, Chatan — the American Village district on Okinawa's west coast. Diners select fresh shellfish, crab legs, shrimp, and fish from an ice display, hand it to staff, and it's steamed to order and brought to the table. Go early or off-peak (weekday lunch) to avoid the wait; it regularly draws long lines despite holding a 4.7 rating across nearly 3,500 reviews."
+  - okinawa
+  - local restaurant
+quickAnswer: Chatan Steam Seafood is a pick-and-steam seafood buffet on the 3rd floor of a building in Mihama, Chatan — the American Village district on Okinawa's west coast. Diners select fresh shellfish, crab legs, shrimp, and fish from an ice display, hand it to staff, and it's steamed to order and brought to the table. Go early or off-peak (weekday lunch) to avoid the wait; it regularly draws long lines despite holding a 4.7 rating across nearly 3,500 reviews.
 faq:
-  - q: "How do I get to Chatan Steam Seafood without a car?"
-    a: "There's no train line to Chatan, so most visitors drive or take a taxi. If you're staying in Naha, a taxi takes about 30-40 minutes; some resort hotels along the Chatan coast offer shuttles into American Village."
-  - q: "How much does a meal cost?"
-    a: "Seafood is typically priced by weight or piece since it's a pick-and-steam format, so costs vary by what you order. Treat any price estimate as approximate and confirm current pricing at the counter before ordering a big spread."
-  - q: "Do I need a reservation?"
-    a: "The restaurant is very popular and wait times can be long, especially evenings and weekends. Ask locally about reservations or a waitlist system, and consider arriving right at opening or on a weekday for a shorter wait."
-  - q: "How long should I plan to spend there?"
-    a: "Budget at least 1.5 to 2 hours including wait time, since the steaming and multiple rounds of ordering make it a leisurely meal best shared among two or more people."
-  - q: "What's nearby after dinner?"
-    a: "The restaurant is inside American Village (Depot Island), so you can walk to Sunset Beach, the area's Ferris wheel, and a cluster of shops and cafés right after eating."
+  - q: How do I get to Chatan Steam Seafood without a car?
+    a: There's no train line to Chatan, so most visitors drive or take a taxi. If you're staying in Naha, a taxi takes about 30-40 minutes; some resort hotels along the Chatan coast offer shuttles into American Village.
+  - q: How much does a meal cost?
+    a: Seafood is typically priced by weight or piece since it's a pick-and-steam format, so costs vary by what you order. Treat any price estimate as approximate and confirm current pricing at the counter before ordering a big spread.
+  - q: Do I need a reservation?
+    a: The restaurant is very popular and wait times can be long, especially evenings and weekends. Ask locally about reservations or a waitlist system, and consider arriving right at opening or on a weekday for a shorter wait.
+  - q: How long should I plan to spend there?
+    a: Budget at least 1.5 to 2 hours including wait time, since the steaming and multiple rounds of ordering make it a leisurely meal best shared among two or more people.
+  - q: What's nearby after dinner?
+    a: The restaurant is inside American Village (Depot Island), so you can walk to Sunset Beach, the area's Ferris wheel, and a cluster of shops and cafés right after eating.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

@@ -1,51 +1,72 @@
 ---
-title: "MERCI MARCEL ORCHARD: Where to Eat in Orchard Road"
-description: "MERCI MARCEL ORCHARD is a French all-day café-restaurant tucked into Palais Renaissance at 390 Orchard Road, a short walk from Orchard MRT (Exits A or E)."
-country: "Singapore"
-region: "Orchard Road"
-category: "restaurant"
-pubDate: "2026-07-23T07:35:31.064Z"
+title: 'MERCI MARCEL ORCHARD: Where to Eat in Orchard Road'
+description: MERCI MARCEL ORCHARD is a French all-day café-restaurant tucked into Palais Renaissance at 390 Orchard Road, a short walk from Orchard MRT (Exits A or E).
+country: Singapore
+region: Orchard Road
+category: restaurant
+pubDate: '2026-07-23T07:35:31.064Z'
 heroImage:
-  url: "https://images.unsplash.com/photo-1739857554154-80c15b7b1af7?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8T3JjaGFyZCUyMFJvYWQlMjBTaW5nYXBvcmUlMjBsb2NhbCUyMHJlc3RhdXJhbnR8ZW58MHwwfHx8MTc4NDc5MjA2MXww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Scribbling Geek on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@scribblinggeek?utm_source=korea_travel_guide&utm_medium=referral"
+  url: https://images.unsplash.com/photo-1739857554154-80c15b7b1af7?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8T3JjaGFyZCUyMFJvYWQlMjBTaW5nYXBvcmUlMjBsb2NhbCUyMHJlc3RhdXJhbnR8ZW58MHwwfHx8MTc4NDc5MjA2MXww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Scribbling Geek on Unsplash
+  license: unsplash
+  source: https://unsplash.com/@scribblinggeek?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
-  id: "ChIJuTpnZVQZ2jEReDI4VP2u_w0"
-  name: "MERCI MARCEL ORCHARD"
-  address: "390 Orchard Road, 01-03 Palais Renaissance, 390 Orchard Rd, #01 - 03 / 04, Singapore 238871"
+  id: ChIJuTpnZVQZ2jEReDI4VP2u_w0
+  name: MERCI MARCEL ORCHARD
+  address: '390 Orchard Road, 01-03 Palais Renaissance, 390 Orchard Rd, #01 - 03 / 04, Singapore 238871'
   rating: 4.7
   userRatingsTotal: 4073
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=1008717244617208440&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=1008717244617208440&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.3065784
   lng: 103.8296124
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [8, 21, 22]
-    weekdayBusy: [11, 12]
-    weekendQuiet: [8, 9, 17, 18, 19, 20, 21, 22]
-    weekendBusy: [10, 11, 12, 13, 14, 15, 16, 17]
-    venueId: 'ven_30775f753250563449446552456a325a51565a6e7054754a496843'
+    weekdayQuiet:
+      - 8
+      - 21
+      - 22
+    weekdayBusy:
+      - 11
+      - 12
+    weekendQuiet:
+      - 8
+      - 9
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+    weekendBusy:
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+    venueId: ven_30775f753250563449446552456a325a51565a6e7054754a496843
 tags:
-  - "orchard road"
-  - "local restaurant"
-quickAnswer: "MERCI MARCEL ORCHARD is a French all-day café-restaurant tucked into Palais Renaissance at 390 Orchard Road, a short walk from Orchard MRT (Exits A or E). Go for weekday lunch or an early weeknight dinner to avoid the wait, expect mid-range pricing (mains roughly S$20–35), and budget 1–1.5 hours for a proper meal. It's a well-known, well-reviewed spot (4.7 stars, 4,000+ reviews) rather than a hidden find, so book ahead or arrive right at opening."
+  - orchard road
+  - local restaurant
+quickAnswer: MERCI MARCEL ORCHARD is a French all-day café-restaurant tucked into Palais Renaissance at 390 Orchard Road, a short walk from Orchard MRT (Exits A or E). Go for weekday lunch or an early weeknight dinner to avoid the wait, expect mid-range pricing (mains roughly S$20–35), and budget 1–1.5 hours for a proper meal. It's a well-known, well-reviewed spot (4.7 stars, 4,000+ reviews) rather than a hidden find, so book ahead or arrive right at opening.
 faq:
-  - q: "How do I get to MERCI MARCEL ORCHARD by MRT?"
-    a: "Take the North-South Line to Orchard MRT and walk about 5–8 minutes west along Orchard Road toward Palais Renaissance at 390 Orchard Road. Somerset MRT is a slightly longer alternative walk."
-  - q: "How much does a meal cost?"
-    a: "It sits in the mid-range price bracket for Orchard Road — expect mains roughly S$20–35 and coffee or pastries in the S$8–15 range. Confirm current menu prices on-site since they can shift."
-  - q: "Do I need a reservation?"
-    a: "It's not essential on quiet weekday afternoons, but booking ahead is strongly recommended for weekend brunch (11am–2pm) and Friday/Saturday dinner, when it's busiest."
-  - q: "How long should I plan to stay?"
-    a: "Budget 1 to 1.5 hours for a full lunch or dinner; a coffee-and-pastry visit can be quicker if you sit at the café counter."
-  - q: "What's nearby if I want to combine the visit with shopping?"
-    a: "Palais Renaissance itself has boutique shopping, and ION Orchard, Ngee Ann City, and Wisma Atria are all within a 5–10 minute walk."
+  - q: How do I get to MERCI MARCEL ORCHARD by MRT?
+    a: Take the North-South Line to Orchard MRT and walk about 5–8 minutes west along Orchard Road toward Palais Renaissance at 390 Orchard Road. Somerset MRT is a slightly longer alternative walk.
+  - q: How much does a meal cost?
+    a: It sits in the mid-range price bracket for Orchard Road — expect mains roughly S$20–35 and coffee or pastries in the S$8–15 range. Confirm current menu prices on-site since they can shift.
+  - q: Do I need a reservation?
+    a: It's not essential on quiet weekday afternoons, but booking ahead is strongly recommended for weekend brunch (11am–2pm) and Friday/Saturday dinner, when it's busiest.
+  - q: How long should I plan to stay?
+    a: Budget 1 to 1.5 hours for a full lunch or dinner; a coffee-and-pastry visit can be quicker if you sit at the café counter.
+  - q: What's nearby if I want to combine the visit with shopping?
+    a: Palais Renaissance itself has boutique shopping, and ION Orchard, Ngee Ann City, and Wisma Atria are all within a 5–10 minute walk.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

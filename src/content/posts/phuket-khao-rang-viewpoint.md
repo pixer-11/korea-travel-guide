@@ -1,50 +1,75 @@
 ---
-title: "Khao Rang Viewpoint: Phuket Travel Guide"
-description: "Khao Rang (Rang Hill) is a hilltop park just northwest of Phuket Town offering the best panoramic views of the town's rooftops, the harbor, and surrounding"
-country: "Thailand"
-region: "Phuket"
-category: "attraction"
-pubDate: "2026-07-22T09:10:53.913Z"
+title: 'Khao Rang Viewpoint: Phuket Travel Guide'
+description: Khao Rang (Rang Hill) is a hilltop park just northwest of Phuket Town offering the best panoramic views of the town's rooftops, the harbor, and surrounding
+country: Thailand
+region: Phuket
+category: attraction
+pubDate: '2026-07-22T09:10:53.913Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/8/83/In_Phuket_when_the_Sun_goes_down%2C_the_City_starts_to_rock%21_%284973896467%29.jpg"
-  credit: "Photo: William Cho / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:In_Phuket_when_the_Sun_goes_down,_the_City_starts_to_rock!_(4973896467).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/8/83/In_Phuket_when_the_Sun_goes_down%2C_the_City_starts_to_rock%21_%284973896467%29.jpg
+  credit: 'Photo: William Cho / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:In_Phuket_when_the_Sun_goes_down,_the_City_starts_to_rock!_(4973896467).jpg
 gallery: []
 place:
-  id: "ChIJ36TUGOsxUDAR7hcbGCJ8tlc"
-  name: "Khao Rang Viewpoint"
-  address: "145/5 Thanon Patiphat Rang Hill, Tambon Wichit, Amphoe Mueang Phuket, Chang Wat Phuket 83000, Thailand"
+  id: ChIJ36TUGOsxUDAR7hcbGCJ8tlc
+  name: Khao Rang Viewpoint
+  address: 145/5 Thanon Patiphat Rang Hill, Tambon Wichit, Amphoe Mueang Phuket, Chang Wat Phuket 83000, Thailand
   rating: 4.5
   userRatingsTotal: 6968
-  googleMapsUrl: "https://maps.google.com/?cid=6320375612936230894&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=6320375612936230894&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 7.892360199999999
   lng: 98.38006279999999
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [7, 8]
-    weekdayBusy: [13, 14, 15, 16, 17, 18, 19, 20, 21]
-    weekendQuiet: [7, 8]
-    weekendBusy: [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
-    venueId: 'ven_636c74384a4347626368375241445578734f47555436334a496843'
+    weekdayQuiet:
+      - 7
+      - 8
+    weekdayBusy:
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+    weekendQuiet:
+      - 7
+      - 8
+    weekendBusy:
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+    venueId: ven_636c74384a4347626368375241445578734f47555436334a496843
 tags:
-  - "phuket"
-  - "top attraction"
-quickAnswer: "Khao Rang (Rang Hill) is a hilltop park just northwest of Phuket Town offering the best panoramic views of the town's rooftops, the harbor, and surrounding islands—free to enter and best visited late afternoon into sunset. Plan on 45–90 minutes, bring a car or grab taxi/scooter since there's no direct public bus, and combine it with a meal at the hilltop restaurants or a walk in Phuket Town below."
+  - phuket
+  - top attraction
+quickAnswer: Khao Rang (Rang Hill) is a hilltop park just northwest of Phuket Town offering the best panoramic views of the town's rooftops, the harbor, and surrounding islands—free to enter and best visited late afternoon into sunset. Plan on 45–90 minutes, bring a car or grab taxi/scooter since there's no direct public bus, and combine it with a meal at the hilltop restaurants or a walk in Phuket Town below.
 faq:
-  - q: "Is there an entrance fee for Khao Rang Viewpoint?"
-    a: "No, the park and viewpoint are free to enter; you only pay if you eat at one of the hilltop restaurants or pay for parking during busy periods."
-  - q: "How do I get to Khao Rang without a car?"
-    a: "There's no direct public bus to the summit, so most visitors use Grab, a metered taxi, or a scooter rental; the ride from Phuket Town takes about 10-15 minutes."
-  - q: "What's the best time of day to visit?"
-    a: "Late afternoon into sunset (roughly 5:00-6:30 PM) is most popular for the light and views, while early morning offers cooler weather and fewer crowds."
-  - q: "How much time should I plan for the visit?"
-    a: "45 minutes to an hour is enough for the viewpoint and park; add extra time if dining at one of the two hilltop restaurants near the summit."
-  - q: "What else is nearby?"
-    a: "Phuket Old Town, with its Sino-Portuguese architecture on Thalang Road and Soi Romanee, is just a short drive away and pairs well with a Khao Rang visit."
+  - q: Is there an entrance fee for Khao Rang Viewpoint?
+    a: No, the park and viewpoint are free to enter; you only pay if you eat at one of the hilltop restaurants or pay for parking during busy periods.
+  - q: How do I get to Khao Rang without a car?
+    a: There's no direct public bus to the summit, so most visitors use Grab, a metered taxi, or a scooter rental; the ride from Phuket Town takes about 10-15 minutes.
+  - q: What's the best time of day to visit?
+    a: Late afternoon into sunset (roughly 5:00-6:30 PM) is most popular for the light and views, while early morning offers cooler weather and fewer crowds.
+  - q: How much time should I plan for the visit?
+    a: 45 minutes to an hour is enough for the viewpoint and park; add extra time if dining at one of the two hilltop restaurants near the summit.
+  - q: What else is nearby?
+    a: Phuket Old Town, with its Sino-Portuguese architecture on Thalang Road and Soi Romanee, is just a short drive away and pairs well with a Khao Rang visit.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

@@ -1,20 +1,15 @@
 ---
 title: 'Souryana Restaurant and Cafe: Where to Eat in Ajman'
-description: >-
-  Souryana Restaurant and Cafe in Al Nakhil 2, Ajman, is a Syrian/Levantine
-  grill house that has built one of the highest review counts (nearly 8,000, at
-  a 4.8
+description: Souryana Restaurant and Cafe in Al Nakhil 2, Ajman, is a Syrian/Levantine grill house that has built one of the highest review counts (nearly 8,000, at a 4.8
 country: United Arab Emirates
 region: Ajman
 category: restaurant
 pubDate: '2026-07-23T07:52:52.893Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/8/84/Diving_equipment_at_local_diving_center_in_Ajman%2C_emirate_of_Ajman%2C_United_Arab_Emirates%2C_Spring%2C_2011_%282%29.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/8/84/Diving_equipment_at_local_diving_center_in_Ajman%2C_emirate_of_Ajman%2C_United_Arab_Emirates%2C_Spring%2C_2011_%282%29.jpg
   credit: 'Photo: majelanmarine / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Diving_equipment_at_local_diving_center_in_Ajman,_emirate_of_Ajman,_United_Arab_Emirates,_Spring,_2011_(2).jpg
+  source: https://commons.wikimedia.org/wiki/File:Diving_equipment_at_local_diving_center_in_Ajman,_emirate_of_Ajman,_United_Arab_Emirates,_Spring,_2011_(2).jpg
 gallery: []
 place:
   id: ChIJEddxDWdXXz4RY6DXDYrwt7o
@@ -22,8 +17,7 @@ place:
   address: Souryana Restaurant and cafe - Al Nakhil 2 - Ajman - United Arab Emirates
   rating: 4.8
   userRatingsTotal: 7988
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=13454486887521034339&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=13454486887521034339&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 25.4208481
   lng: 55.4438466
@@ -57,37 +51,20 @@ place:
 tags:
   - ajman
   - local restaurant
-quickAnswer: >-
-  Souryana Restaurant and Cafe in Al Nakhil 2, Ajman, is a Syrian/Levantine
-  grill house that has built one of the highest review counts (nearly 8,000, at
-  a 4.8 rating) of any restaurant in the emirate. Go for mixed grills, shawarma,
-  and mezze plates, expect a busy dining room most evenings, and arrive early or
-  book ahead on weekends to skip the wait.
+quickAnswer: Souryana Restaurant and Cafe in Al Nakhil 2, Ajman, is a Syrian/Levantine grill house that has built one of the highest review counts (nearly 8,000, at a 4.8 rating) of any restaurant in the emirate. Go for mixed grills, shawarma, and mezze plates, expect a busy dining room most evenings, and arrive early or book ahead on weekends to skip the wait.
 faq:
   - q: Do I need a reservation at Souryana?
-    a: >-
-      It's not always required, but given the restaurant's popularity, calling
-      ahead or booking for weekend dinners (Thursday and Friday nights) is a
-      good idea, especially for larger groups.
+    a: It's not always required, but given the restaurant's popularity, calling ahead or booking for weekend dinners (Thursday and Friday nights) is a good idea, especially for larger groups.
   - q: How do I get to Souryana without a car?
-    a: >-
-      Ajman has no metro system, so a taxi or rideshare app like Careem or Uber
-      is the most practical way to reach Al Nakhil 2 from anywhere in the
-      emirate or from Dubai/Sharjah.
+    a: Ajman has no metro system, so a taxi or rideshare app like Careem or Uber is the most practical way to reach Al Nakhil 2 from anywhere in the emirate or from Dubai/Sharjah.
   - q: What's the best dish to order?
-    a: >-
-      The mixed grill platter and shish tawook are standout choices, best shared
-      alongside mezze like hummus, moutabal, and fresh-baked bread.
+    a: The mixed grill platter and shish tawook are standout choices, best shared alongside mezze like hummus, moutabal, and fresh-baked bread.
   - q: How long should I plan for a meal here?
-    a: >-
-      Budget around 60-90 minutes for a full sit-down meal with mezze and
-      grills; a shawarma-only visit can be quicker, around 20-30 minutes.
+    a: Budget around 60-90 minutes for a full sit-down meal with mezze and grills; a shawarma-only visit can be quicker, around 20-30 minutes.
   - q: What else is nearby worth visiting?
-    a: >-
-      The Ajman Corniche, Ajman Museum in the old fort, and City Centre Ajman
-      mall are all a short drive away and easy to combine with a meal.
+    a: The Ajman Corniche, Ajman Museum in the old fort, and City Centre Ajman mall are all a short drive away and easy to combine with a meal.
 aiGenerated: true
-draft: false
+draft: true
 updatedDate: '2026-07-24'
 ---
 

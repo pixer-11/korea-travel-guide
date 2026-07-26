@@ -1,50 +1,62 @@
 ---
-title: "Okinawa World: Travel Guide"
-description: "Okinawa World in Nanjo City is best visited as a half-day trip from Naha (about 30–40 minutes by car), combining a walk through the illuminated Gyokusendo"
-country: "Japan"
-region: "Okinawa"
-category: "hidden-gem"
-pubDate: 2026-07-21
+title: 'Okinawa World: Travel Guide'
+description: Okinawa World in Nanjo City is best visited as a half-day trip from Naha (about 30–40 minutes by car), combining a walk through the illuminated Gyokusendo
+country: Japan
+region: Okinawa
+category: hidden-gem
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Okinawa_Aquarium.jpg/1920px-Okinawa_Aquarium.jpg"
-  credit: "Photo: Jordy Meow / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Okinawa_Aquarium.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Okinawa_Aquarium.jpg/1920px-Okinawa_Aquarium.jpg
+  credit: 'Photo: Jordy Meow / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Okinawa_Aquarium.jpg
 gallery: []
 place:
-  id: "ChIJza_GaWlv5TQRy52qkW4L2P4"
-  name: "Okinawa World"
-  address: "Maekawa-1336 Tamagusuku, Nanjo, Okinawa 901-0616, Japan"
+  id: ChIJza_GaWlv5TQRy52qkW4L2P4
+  name: Okinawa World
+  address: Maekawa-1336 Tamagusuku, Nanjo, Okinawa 901-0616, Japan
   rating: 4.3
   userRatingsTotal: 18778
-  googleMapsUrl: "https://maps.google.com/?cid=18363440050121383371&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=18363440050121383371&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 26.140480699999998
   lng: 127.7489447
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [9, 16, 17]
-    weekdayBusy: [11, 12, 13]
-    weekendQuiet: [9, 16, 17]
-    weekendBusy: [11, 12, 13]
-    venueId: 'ven_3450324c34576b7132357952515435766c5761475f617a4a496843'
+    weekdayQuiet:
+      - 9
+      - 16
+      - 17
+    weekdayBusy:
+      - 11
+      - 12
+      - 13
+    weekendQuiet:
+      - 9
+      - 16
+      - 17
+    weekendBusy:
+      - 11
+      - 12
+      - 13
+    venueId: ven_3450324c34576b7132357952515435766c5761475f617a4a496843
 tags:
-  - "okinawa"
-  - "hidden gem"
-quickAnswer: "Okinawa World in Nanjo City is best visited as a half-day trip from Naha (about 30–40 minutes by car), combining a walk through the illuminated Gyokusendo Cave, a traditional Ryukyu-village crafts area, and an Eisa drum show. Budget 2.5–3.5 hours, go early on weekday mornings to beat tour-bus crowds, and pair it with nearby Nanjo/Itoman coastal spots afterward."
+  - okinawa
+  - hidden gem
+quickAnswer: Okinawa World in Nanjo City is best visited as a half-day trip from Naha (about 30–40 minutes by car), combining a walk through the illuminated Gyokusendo Cave, a traditional Ryukyu-village crafts area, and an Eisa drum show. Budget 2.5–3.5 hours, go early on weekday mornings to beat tour-bus crowds, and pair it with nearby Nanjo/Itoman coastal spots afterward.
 faq:
-  - q: "How do I get to Okinawa World without a car?"
-    a: "Take an Okinawa Bus or sightseeing shuttle service from Naha bus terminal or major resort hotels; there's no monorail or train service to Nanjo, so a car, taxi, or organized tour bus is the practical option."
-  - q: "How long should I plan to spend there?"
-    a: "Around 2.5 to 3.5 hours covers the Gyokusendo Cave walk (30–45 minutes), the Ryukyu Kingdom Village crafts area, and one Eisa drum show; add time for shopping or snacks."
-  - q: "What's the best time of day or season to visit?"
-    a: "Weekday mornings right after opening avoid the tour-bus crowds. The cave stays cool year-round, making it a good option during Okinawa's humid summers or rainy season (roughly May–June); winter is milder and less crowded overall."
-  - q: "Is the cave walk difficult or family-friendly?"
-    a: "The Gyokusendo Cave path is an 890-meter paved walkway suitable for most visitors, including families, but surfaces can be damp and slippery, so wear grippy, closed shoes rather than sandals."
-  - q: "What else is nearby worth combining with the visit?"
-    a: "Cape Chinen and the UNESCO-listed Sefa-utaki sacred site are both a short drive away in Nanjo, making a good coastal itinerary if you're renting a car."
+  - q: How do I get to Okinawa World without a car?
+    a: Take an Okinawa Bus or sightseeing shuttle service from Naha bus terminal or major resort hotels; there's no monorail or train service to Nanjo, so a car, taxi, or organized tour bus is the practical option.
+  - q: How long should I plan to spend there?
+    a: Around 2.5 to 3.5 hours covers the Gyokusendo Cave walk (30–45 minutes), the Ryukyu Kingdom Village crafts area, and one Eisa drum show; add time for shopping or snacks.
+  - q: What's the best time of day or season to visit?
+    a: Weekday mornings right after opening avoid the tour-bus crowds. The cave stays cool year-round, making it a good option during Okinawa's humid summers or rainy season (roughly May–June); winter is milder and less crowded overall.
+  - q: Is the cave walk difficult or family-friendly?
+    a: The Gyokusendo Cave path is an 890-meter paved walkway suitable for most visitors, including families, but surfaces can be damp and slippery, so wear grippy, closed shoes rather than sandals.
+  - q: What else is nearby worth combining with the visit?
+    a: Cape Chinen and the UNESCO-listed Sefa-utaki sacred site are both a short drive away in Nanjo, making a good coastal itinerary if you're renting a car.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Okinawa World is worth the detour

@@ -1,48 +1,52 @@
 ---
-title: "Nazar Kebab: Where to Eat in Daegu"
-description: "Nazar Kebab is a Turkish/Middle Eastern kebab counter in the Dongseong-ro shopping district of Jung-gu, Daegu — a reliable, affordable stop for döner"
-country: "South Korea"
-region: "Daegu"
-category: "restaurant"
-pubDate: 2026-07-21
+title: 'Nazar Kebab: Where to Eat in Daegu'
+description: Nazar Kebab is a Turkish/Middle Eastern kebab counter in the Dongseong-ro shopping district of Jung-gu, Daegu — a reliable, affordable stop for döner
+country: South Korea
+region: Daegu
+category: restaurant
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Nazar_Kebab_%286370191813%29.jpg/1920px-Nazar_Kebab_%286370191813%29.jpg"
-  credit: "Photo: Lucy Fisher from London, UK / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Nazar_Kebab_(6370191813).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Nazar_Kebab_%286370191813%29.jpg/1920px-Nazar_Kebab_%286370191813%29.jpg
+  credit: 'Photo: Lucy Fisher from London, UK / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Nazar_Kebab_(6370191813).jpg
 gallery: []
 place:
-  id: "ChIJfSfIosXjZTURAKAQAs6S0xY"
-  name: "Nazar Kebab"
-  address: "58-19 Dongseong-ro 3-gil, Jung-gu, Daegu, South Korea"
+  id: ChIJfSfIosXjZTURAKAQAs6S0xY
+  name: Nazar Kebab
+  address: 58-19 Dongseong-ro 3-gil, Jung-gu, Daegu, South Korea
   rating: 4.4
   userRatingsTotal: 469
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=1644819702415925248&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=1644819702415925248&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.867793000000006
   lng: 128.5990682
   busyness:
     updated: '2026-07-23'
-    weekendBusy: [19, 20, 21, 22]
-    venueId: 'ven_5978305336734151414b415255545a6a58736f496653664a496843'
+    weekendBusy:
+      - 19
+      - 20
+      - 21
+      - 22
+    venueId: ven_5978305336734151414b415255545a6a58736f496653664a496843
 tags:
-  - "daegu"
-  - "street food"
-quickAnswer: "Nazar Kebab is a Turkish/Middle Eastern kebab counter in the Dongseong-ro shopping district of Jung-gu, Daegu — a reliable, affordable stop for döner, İskender, and lahmacun-style flatbreads when you need a break from Korean food. It's rated 4.4 from 469 Google reviews, moderately priced (price level 2), and best treated as a quick lunch or late-night bite rather than a sit-down destination."
+  - daegu
+  - street food
+quickAnswer: Nazar Kebab is a Turkish/Middle Eastern kebab counter in the Dongseong-ro shopping district of Jung-gu, Daegu — a reliable, affordable stop for döner, İskender, and lahmacun-style flatbreads when you need a break from Korean food. It's rated 4.4 from 469 Google reviews, moderately priced (price level 2), and best treated as a quick lunch or late-night bite rather than a sit-down destination.
 faq:
-  - q: "How do I get to Nazar Kebab without a car?"
-    a: "Take Daegu Metro Line 1 to Jungangno Station and walk north into the Dongseong-ro pedestrian zone, about 5–10 minutes on foot; Banwoldang Station (Lines 1 and 2) is a slightly longer walk but also an option."
-  - q: "What should I order?"
-    a: "Start with a classic döner wrap (dürüm) or the plate version with rice and salad; if available, try the İskender kebab (yogurt and tomato sauce topping) or lahmacun flatbread for variety."
-  - q: "Is it expensive?"
-    a: "It sits at a moderate price level — expect a filling meal at budget-to-midrange cost by Korean restaurant standards, though you should confirm current menu prices in person or via a delivery app."
-  - q: "How long should I plan to stay?"
-    a: "It's primarily a quick-service kebab counter, so 20–40 minutes is typical for a meal; it works well as a fast lunch between shopping stops rather than a leisurely sit-down dinner."
-  - q: "What else is nearby?"
-    a: "Seomun Market and the Kim Kwang Seok mural street are both within easy reach, and the entire Dongseong-ro shopping strip is walkable from the restaurant's door."
+  - q: How do I get to Nazar Kebab without a car?
+    a: Take Daegu Metro Line 1 to Jungangno Station and walk north into the Dongseong-ro pedestrian zone, about 5–10 minutes on foot; Banwoldang Station (Lines 1 and 2) is a slightly longer walk but also an option.
+  - q: What should I order?
+    a: Start with a classic döner wrap (dürüm) or the plate version with rice and salad; if available, try the İskender kebab (yogurt and tomato sauce topping) or lahmacun flatbread for variety.
+  - q: Is it expensive?
+    a: It sits at a moderate price level — expect a filling meal at budget-to-midrange cost by Korean restaurant standards, though you should confirm current menu prices in person or via a delivery app.
+  - q: How long should I plan to stay?
+    a: It's primarily a quick-service kebab counter, so 20–40 minutes is typical for a meal; it works well as a fast lunch between shopping stops rather than a leisurely sit-down dinner.
+  - q: What else is nearby?
+    a: Seomun Market and the Kim Kwang Seok mural street are both within easy reach, and the entire Dongseong-ro shopping strip is walkable from the restaurant's door.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

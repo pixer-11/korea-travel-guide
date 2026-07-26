@@ -1,6 +1,6 @@
 ---
-title: "Gwangjang Market: Seoul Travel Guide"
-description: "Gwangjang Market in Jongno-gu is Seoul's oldest traditional market (opened 1905) and a legendary street food destination — head straight for the food alley"
+title: 'Gwangjang Market: Seoul Travel Guide'
+description: Gwangjang Market in Jongno-gu is Seoul's oldest traditional market (opened 1905) and a legendary street food destination — head straight for the food alley
 region: Seoul
 category: hidden-gem
 pubDate: 2026-07-20T00:00:00.000Z
@@ -21,11 +21,34 @@ place:
   lng: 126.9997
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [9, 19, 20, 21, 22]
-    weekdayBusy: [11, 12, 13, 14, 15]
-    weekendQuiet: [9, 10, 19, 20, 21, 22]
-    weekendBusy: [11, 12, 13, 14, 15, 16, 17]
-    venueId: 'ven_5974566a69554d49384a5252554466693275663056336d4a496843'
+    weekdayQuiet:
+      - 9
+      - 19
+      - 20
+      - 21
+      - 22
+    weekdayBusy:
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+    weekendQuiet:
+      - 9
+      - 10
+      - 19
+      - 20
+      - 21
+      - 22
+    weekendBusy:
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+    venueId: ven_5974566a69554d49384a5252554466693275663056336d4a496843
 tags:
   - seoul
   - street food
@@ -44,7 +67,7 @@ faq:
   - q: How long should I spend there, and is anything else nearby?
     a: Plan on 1-2 hours for eating and browsing. Cheonggyecheon Stream is a few minutes' walk south, and Dongdaemun Design Plaza is about 15-20 minutes away on foot.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Gwangjang Market Matters

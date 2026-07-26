@@ -1,44 +1,44 @@
 ---
-title: "Wolyeongdang: Andong Travel Guide"
-description: "Wolyeongdang is a traditional hanok-style guesthouse and dining hall inside Andong's Folk Village area, best visited as a half-day add-on to the Andong Hahoe"
-country: "South Korea"
-region: "Andong"
-category: "trendy"
-pubDate: "2026-07-24T22:21:34.616Z"
+title: 'Wolyeongdang: Andong Travel Guide'
+description: Wolyeongdang is a traditional hanok-style guesthouse and dining hall inside Andong's Folk Village area, best visited as a half-day add-on to the Andong Hahoe
+country: South Korea
+region: Andong
+category: trendy
+pubDate: '2026-07-24T22:21:34.616Z'
 heroImage:
-  url: "https://images.unsplash.com/photo-1748077228194-e7d5b947287a?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8NHx8QW5kb25nJTIwU291dGglMjBLb3JlYSUyMHRyZW5keSUyMGNhZmV8ZW58MHwwfHx8MTc4NDkzMTY1OHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Sung Jin Cho on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@mbuff?utm_source=korea_travel_guide&utm_medium=referral"
+  url: https://images.unsplash.com/photo-1748077228194-e7d5b947287a?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8NHx8QW5kb25nJTIwU291dGglMjBLb3JlYSUyMHRyZW5keSUyMGNhZmV8ZW58MHwwfHx8MTc4NDkzMTY1OHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Sung Jin Cho on Unsplash
+  license: unsplash
+  source: https://unsplash.com/@mbuff?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
-  id: "ChIJ3QgkbOGlZjURPtZ7_j0hbY8"
-  name: "Wolyeongdang"
-  address: "26 Minsokchon-gil, Andong, Gyeongsangbuk-do, South Korea"
+  id: ChIJ3QgkbOGlZjURPtZ7_j0hbY8
+  name: Wolyeongdang
+  address: 26 Minsokchon-gil, Andong, Gyeongsangbuk-do, South Korea
   rating: 4.3
   userRatingsTotal: 507
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=10334953270031406654&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=10334953270031406654&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 36.5788745
   lng: 128.76457829999998
 tags:
-  - "andong"
-  - "trendy cafe"
-quickAnswer: "Wolyeongdang is a traditional hanok-style guesthouse and dining hall inside Andong's Folk Village area, best visited as a half-day add-on to the Andong Hahoe Folk Village or Andong Folk Village Land itinerary. Go for a low-key lunch or an overnight hanok stay, budget roughly 1–2 hours if just visiting for a meal, and pair it with a walk along the Nakdong River or a stop at the Andong Folk Museum nearby. Rated 4.3 from 500+ reviews, it's a solid, unpretentious rather than flashy stop — book ahead if you want to stay overnight."
+  - andong
+  - trendy cafe
+quickAnswer: Wolyeongdang is a traditional hanok-style guesthouse and dining hall inside Andong's Folk Village area, best visited as a half-day add-on to the Andong Hahoe Folk Village or Andong Folk Village Land itinerary. Go for a low-key lunch or an overnight hanok stay, budget roughly 1–2 hours if just visiting for a meal, and pair it with a walk along the Nakdong River or a stop at the Andong Folk Museum nearby. Rated 4.3 from 500+ reviews, it's a solid, unpretentious rather than flashy stop — book ahead if you want to stay overnight.
 faq:
-  - q: "How do I get to Wolyeongdang from Andong Station?"
-    a: "Taxi is easiest, around 15–20 minutes to Minsokchon-gil. Local buses serve the folk village area but run infrequently, so confirm current schedules before relying on one."
-  - q: "How much time should I budget for a visit?"
-    a: "About 1–2 hours for a meal and a look around the hanok grounds; allow a full evening if staying overnight to enjoy the courtyard after day-trip crowds leave."
-  - q: "What's the best time of year to visit?"
-    a: "Spring (April–May) and autumn (October–November) offer the mildest weather and best scenery around the rooftops and riverside trees; summer is hot and humid, winter is cold but atmospheric indoors."
-  - q: "What should I eat there?"
-    a: "Look for Andong specialties such as Andong jjimdak (braised chicken) or heotjesabap (mixed rice historically served after ancestral rites). Ask staff what's freshly prepared that day."
-  - q: "Is Wolyeongdang the same as Hahoe Village?"
-    a: "No — Wolyeongdang is a separate hanok guesthouse/dining spot in the Minsokchon (folk village) area, distinct from the more famous Hahoe Folk Village further away. Both can be combined in a longer day trip."
+  - q: How do I get to Wolyeongdang from Andong Station?
+    a: Taxi is easiest, around 15–20 minutes to Minsokchon-gil. Local buses serve the folk village area but run infrequently, so confirm current schedules before relying on one.
+  - q: How much time should I budget for a visit?
+    a: About 1–2 hours for a meal and a look around the hanok grounds; allow a full evening if staying overnight to enjoy the courtyard after day-trip crowds leave.
+  - q: What's the best time of year to visit?
+    a: Spring (April–May) and autumn (October–November) offer the mildest weather and best scenery around the rooftops and riverside trees; summer is hot and humid, winter is cold but atmospheric indoors.
+  - q: What should I eat there?
+    a: Look for Andong specialties such as Andong jjimdak (braised chicken) or heotjesabap (mixed rice historically served after ancestral rites). Ask staff what's freshly prepared that day.
+  - q: Is Wolyeongdang the same as Hahoe Village?
+    a: No — Wolyeongdang is a separate hanok guesthouse/dining spot in the Minsokchon (folk village) area, distinct from the more famous Hahoe Folk Village further away. Both can be combined in a longer day trip.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

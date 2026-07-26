@@ -1,30 +1,23 @@
 ---
 title: 'Joe''s Café: Dubai Travel Guide'
-description: >-
-  Joe's Café Dubai is a bright, plant-filled all-day café on the first floor of
-  Dubai Mall's Fashion Avenue extension, near the Star Atrium and Gate 6/Burj
+description: Joe's Café Dubai is a bright, plant-filled all-day café on the first floor of Dubai Mall's Fashion Avenue extension, near the Star Atrium and Gate 6/Burj
 country: United Arab Emirates
 region: Dubai
 category: trendy
 pubDate: '2026-07-23T07:55:05.700Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Panorama_of_Dubai_from_Jumeriah_1.jpg/1920px-Panorama_of_Dubai_from_Jumeriah_1.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Panorama_of_Dubai_from_Jumeriah_1.jpg/1920px-Panorama_of_Dubai_from_Jumeriah_1.jpg
   credit: 'Photo: iMahesh / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Panorama_of_Dubai_from_Jumeriah_1.jpg
+  source: https://commons.wikimedia.org/wiki/File:Panorama_of_Dubai_from_Jumeriah_1.jpg
 gallery: []
 place:
   id: ChIJAQAAMChoXz4RuJzcBOap9Mk
   name: Joe's Café Dubai
-  address: >-
-    fashion Avenue First Floor, Dubai Mall Star Atrium - Gate 6 - Burj Khalifa -
-    Downtown Dubai - Dubai - United Arab Emirates
+  address: fashion Avenue First Floor, Dubai Mall Star Atrium - Gate 6 - Burj Khalifa - Downtown Dubai - Dubai - United Arab Emirates
   rating: 4.9
   userRatingsTotal: 25472
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=14552443101330054328&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=14552443101330054328&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 25.196285
   lng: 55.2774144
@@ -58,44 +51,20 @@ place:
 tags:
   - dubai
   - trendy cafe
-quickAnswer: >-
-  Joe's Café Dubai is a bright, plant-filled all-day café on the first floor of
-  Dubai Mall's Fashion Avenue extension, near the Star Atrium and Gate 6/Burj
-  Khalifa entrance. It's built for breakfast-through-dinner grazing — think eggs
-  benedict, avocado toast, pastas, and specialty coffee — and pulls a very
-  popular, near-constant crowd (4.9 rating from 25,000+ reviews), so go right at
-  opening or mid-afternoon to skip the wait. Budget 60–90 minutes and pair it
-  with a stroll past the Burj Khalifa fountains just outside.
+quickAnswer: Joe's Café Dubai is a bright, plant-filled all-day café on the first floor of Dubai Mall's Fashion Avenue extension, near the Star Atrium and Gate 6/Burj Khalifa entrance. It's built for breakfast-through-dinner grazing — think eggs benedict, avocado toast, pastas, and specialty coffee — and pulls a very popular, near-constant crowd (4.9 rating from 25,000+ reviews), so go right at opening or mid-afternoon to skip the wait. Budget 60–90 minutes and pair it with a stroll past the Burj Khalifa fountains just outside.
 faq:
   - q: How do I get to Joe's Café inside Dubai Mall?
-    a: >-
-      Take the metro Red Line to Burj Khalifa/Dubai Mall Station and follow
-      signs toward Fashion Avenue and the Burj Khalifa/Gate 6 entrance rather
-      than the aquarium side. By car or taxi, request drop-off at the Fashion
-      Avenue entrance for the shortest walk.
+    a: Take the metro Red Line to Burj Khalifa/Dubai Mall Station and follow signs toward Fashion Avenue and the Burj Khalifa/Gate 6 entrance rather than the aquarium side. By car or taxi, request drop-off at the Fashion Avenue entrance for the shortest walk.
   - q: Do I need a reservation?
-    a: >-
-      Walk-ins are common, but given its 4.9 rating and heavy review volume,
-      weekends and evenings can mean a wait. Calling ahead or arriving right at
-      opening or mid-afternoon (3–4pm) improves your odds of quick seating.
+    a: Walk-ins are common, but given its 4.9 rating and heavy review volume, weekends and evenings can mean a wait. Calling ahead or arriving right at opening or mid-afternoon (3–4pm) improves your odds of quick seating.
   - q: How much does a meal cost?
-    a: >-
-      Exact prices vary and change, so check the current menu on-site or via the
-      mall directory, but expect mid-range mall-café pricing typical of Fashion
-      Avenue's upscale positioning — budget for a full breakfast or brunch
-      rather than a quick coffee.
+    a: Exact prices vary and change, so check the current menu on-site or via the mall directory, but expect mid-range mall-café pricing typical of Fashion Avenue's upscale positioning — budget for a full breakfast or brunch rather than a quick coffee.
   - q: How long should I plan to spend there?
-    a: >-
-      Most visits run 60–90 minutes given the all-day brunch-style menu and
-      typically busy seating. Pair it with a Burj Khalifa fountain viewing
-      afterward for a half-day Downtown itinerary.
+    a: Most visits run 60–90 minutes given the all-day brunch-style menu and typically busy seating. Pair it with a Burj Khalifa fountain viewing afterward for a half-day Downtown itinerary.
   - q: What's nearby if I want to extend the visit?
-    a: >-
-      The Burj Khalifa entrance, Dubai Fountain viewing areas, Dubai Aquarium &
-      Underwater Zoo, and Souk Al Bahar are all within a short walk, making it
-      easy to combine the café with sightseeing.
+    a: The Burj Khalifa entrance, Dubai Fountain viewing areas, Dubai Aquarium & Underwater Zoo, and Souk Al Bahar are all within a short walk, making it easy to combine the café with sightseeing.
 aiGenerated: true
-draft: false
+draft: true
 updatedDate: '2026-07-24'
 ---
 

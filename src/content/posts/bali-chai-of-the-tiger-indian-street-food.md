@@ -1,31 +1,23 @@
 ---
 title: 'CHAI OF THE TIGER (Indian Street Food): Where to Eat in Bali'
-description: >-
-  CHAI OF THE TIGER is a small Indian street-food spot in Tebesaya, Peliatan
-  (just southeast of central Ubud), serving chaat, kathi rolls, and masala chai
-  in a
+description: CHAI OF THE TIGER is a small Indian street-food spot in Tebesaya, Peliatan (just southeast of central Ubud), serving chaat, kathi rolls, and masala chai in a
 country: Indonesia
 region: Bali
 category: restaurant
 pubDate: '2026-07-23T07:25:58.838Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Benoa_Bali_Indonesia-Bakso-street-vendor-02.jpg/1920px-Benoa_Bali_Indonesia-Bakso-street-vendor-02.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Benoa_Bali_Indonesia-Bakso-street-vendor-02.jpg/1920px-Benoa_Bali_Indonesia-Bakso-street-vendor-02.jpg
   credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Benoa_Bali_Indonesia-Bakso-street-vendor-02.jpg
+  source: https://commons.wikimedia.org/wiki/File:Benoa_Bali_Indonesia-Bakso-street-vendor-02.jpg
 gallery: []
 place:
   id: ChIJ_fjTq8A90i0Rif_PcK-Rcv0
   name: CHAI OF THE TIGER (Indian Street Food)
-  address: >-
-    Br Tebesaya, Jl. Sukma Kesuma No.25, Peliatan, Kecamatan Ubud, Kabupaten
-    Gianyar, Bali 80571, Indonesia
+  address: Br Tebesaya, Jl. Sukma Kesuma No.25, Peliatan, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571, Indonesia
   rating: 4.6
   userRatingsTotal: 797
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=18262819621638766473&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=18262819621638766473&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: -8.5125871
   lng: 115.2682574
@@ -54,40 +46,20 @@ place:
 tags:
   - bali
   - street food
-quickAnswer: >-
-  CHAI OF THE TIGER is a small Indian street-food spot in Tebesaya, Peliatan
-  (just southeast of central Ubud), serving chaat, kathi rolls, and masala chai
-  in a casual, informal setting. It's earned a 4.6 rating from nearly 800
-  reviews without becoming a tourist mob scene, so go for lunch or an early
-  dinner, expect a compact menu of Indian street classics rather than a full
-  curry-house spread, and bring cash as backup even if cards are accepted.
+quickAnswer: CHAI OF THE TIGER is a small Indian street-food spot in Tebesaya, Peliatan (just southeast of central Ubud), serving chaat, kathi rolls, and masala chai in a casual, informal setting. It's earned a 4.6 rating from nearly 800 reviews without becoming a tourist mob scene, so go for lunch or an early dinner, expect a compact menu of Indian street classics rather than a full curry-house spread, and bring cash as backup even if cards are accepted.
 faq:
   - q: How do I get to CHAI OF THE TIGER from central Ubud?
-    a: >-
-      It's in Banjar Tebesaya, Peliatan, about 15–20 minutes on foot from Monkey
-      Forest Road, or a few minutes by scooter, Grab, or Gojek. There's no
-      direct public transit, so private transport is easiest.
+    a: It's in Banjar Tebesaya, Peliatan, about 15–20 minutes on foot from Monkey Forest Road, or a few minutes by scooter, Grab, or Gojek. There's no direct public transit, so private transport is easiest.
   - q: What kind of food does it serve?
-    a: >-
-      Indian street food — chaat, kathi rolls, samosas, and masala chai — rather
-      than a full curry-and-biryani restaurant menu. Portions suit ordering a
-      few dishes to share.
+    a: Indian street food — chaat, kathi rolls, samosas, and masala chai — rather than a full curry-and-biryani restaurant menu. Portions suit ordering a few dishes to share.
   - q: How much does a meal cost?
-    a: >-
-      Prices aren't published here reliably since street-food menus shift;
-      expect casual, snack-style pricing typical of Ubud cafés, and confirm
-      current prices on arrival.
-  - q: 'Is it busy, and should I book ahead?'
-    a: >-
-      It's well-rated (4.6 from ~795 reviews) but still under the radar, so
-      booking generally isn't necessary — just avoid the tight 12:30–1:30pm
-      lunch rush for the easiest seating.
+    a: Prices aren't published here reliably since street-food menus shift; expect casual, snack-style pricing typical of Ubud cafés, and confirm current prices on arrival.
+  - q: Is it busy, and should I book ahead?
+    a: It's well-rated (4.6 from ~795 reviews) but still under the radar, so booking generally isn't necessary — just avoid the tight 12:30–1:30pm lunch rush for the easiest seating.
   - q: What else is nearby?
-    a: >-
-      Peliatan Royal Palace (Legong dance performances), local art studios, and
-      an easy walk or scooter ride to central Ubud's markets and rice terraces.
+    a: Peliatan Royal Palace (Legong dance performances), local art studios, and an easy walk or scooter ride to central Ubud's markets and rice terraces.
 aiGenerated: true
-draft: false
+draft: true
 updatedDate: '2026-07-24'
 ---
 

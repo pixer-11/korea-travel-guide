@@ -1,40 +1,40 @@
 ---
-title: "Pike Place Market: Where to Eat in Seattle"
-description: "Skip the fish-throwing crowds and eat your way through Pike Place Market instead: start with a piroshky at Piroshky Piroshky, grab a crab cocktail or salmon"
-country: "United States"
-region: "Seattle"
-category: "restaurant"
-pubDate: 2026-07-21
+title: 'Pike Place Market: Where to Eat in Seattle'
+description: 'Skip the fish-throwing crowds and eat your way through Pike Place Market instead: start with a piroshky at Piroshky Piroshky, grab a crab cocktail or salmon'
+country: United States
+region: Seattle
+category: restaurant
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Blown_Glass_for_sale_in_Pike_Place_Market%2C_Seattle%2C_Washington%2C_2025.jpg/1920px-Blown_Glass_for_sale_in_Pike_Place_Market%2C_Seattle%2C_Washington%2C_2025.jpg"
-  credit: "Photo: Julian Lupyan / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Blown_Glass_for_sale_in_Pike_Place_Market,_Seattle,_Washington,_2025.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Blown_Glass_for_sale_in_Pike_Place_Market%2C_Seattle%2C_Washington%2C_2025.jpg/1920px-Blown_Glass_for_sale_in_Pike_Place_Market%2C_Seattle%2C_Washington%2C_2025.jpg
+  credit: 'Photo: Julian Lupyan / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Blown_Glass_for_sale_in_Pike_Place_Market,_Seattle,_Washington,_2025.jpg
 gallery: []
 place:
-  id: "ChIJy9ZRwbJqkFQRHJ8-Y18dRGA"
-  name: "Pike Place Market"
-  address: "Pike Place Market, Seattle, WA, USA"
-  googleMapsUrl: "https://maps.google.com/?cid=6936701621581553436&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  id: ChIJy9ZRwbJqkFQRHJ8-Y18dRGA
+  name: Pike Place Market
+  address: Pike Place Market, Seattle, WA, USA
+  googleMapsUrl: https://maps.google.com/?cid=6936701621581553436&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   lat: 47.609665899999996
   lng: -122.34216709999998
 tags:
-  - "seattle"
-  - "Pike Place Market"
-quickAnswer: "Skip the fish-throwing crowds and eat your way through Pike Place Market instead: start with a piroshky at Piroshky Piroshky, grab a crab cocktail or salmon at the fishmongers along the main arcade, get a fresh doughnut from Daily Dozen, and finish with clam chowder in a bread bowl. Go on a weekday morning (8:30–10am) to beat tour buses, and budget two to three hours to eat, browse, and see the original Starbucks and Gum Wall nearby."
+  - seattle
+  - Pike Place Market
+quickAnswer: 'Skip the fish-throwing crowds and eat your way through Pike Place Market instead: start with a piroshky at Piroshky Piroshky, grab a crab cocktail or salmon at the fishmongers along the main arcade, get a fresh doughnut from Daily Dozen, and finish with clam chowder in a bread bowl. Go on a weekday morning (8:30–10am) to beat tour buses, and budget two to three hours to eat, browse, and see the original Starbucks and Gum Wall nearby.'
 faq:
-  - q: "What's the single must-eat item at Pike Place Market?"
-    a: "A savory piroshky from Piroshky Piroshky and a crab cocktail from one of the fishmonger stalls are the two most-cited classics — both are quick to eat standing up."
-  - q: "How do I get to Pike Place Market by transit?"
-    a: "Take Link light rail or a bus to Westlake Station, then walk about 10 minutes down Pike Street to the market entrance at 1st and Pike."
-  - q: "How much time should I budget?"
-    a: "Two to three hours covers eating a few things, browsing craft and produce stalls, and a quick detour to the Gum Wall in Post Alley."
-  - q: "When is the market least crowded?"
-    a: "Weekday mornings between roughly 8:30 and 10am, before tour groups and cruise passengers arrive; weekends are the busiest, especially Saturday."
-  - q: "Is the market only for tourists, or do locals actually shop there?"
-    a: "It's a working farmers' and fishmongers' market dating to 1907, and locals still buy produce, flowers, and fish there daily, especially early in the morning."
+  - q: What's the single must-eat item at Pike Place Market?
+    a: A savory piroshky from Piroshky Piroshky and a crab cocktail from one of the fishmonger stalls are the two most-cited classics — both are quick to eat standing up.
+  - q: How do I get to Pike Place Market by transit?
+    a: Take Link light rail or a bus to Westlake Station, then walk about 10 minutes down Pike Street to the market entrance at 1st and Pike.
+  - q: How much time should I budget?
+    a: Two to three hours covers eating a few things, browsing craft and produce stalls, and a quick detour to the Gum Wall in Post Alley.
+  - q: When is the market least crowded?
+    a: Weekday mornings between roughly 8:30 and 10am, before tour groups and cruise passengers arrive; weekends are the busiest, especially Saturday.
+  - q: Is the market only for tourists, or do locals actually shop there?
+    a: It's a working farmers' and fishmongers' market dating to 1907, and locals still buy produce, flowers, and fish there daily, especially early in the morning.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Pike Place Market is a food destination, not just a market

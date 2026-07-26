@@ -1,50 +1,65 @@
 ---
-title: "Super Deluxe Kitchen: Where to Eat in Little India"
-description: "Super Deluxe Kitchen (29 Upper Weld Rd, Singapore 207386) is a well-reviewed Indian restaurant tucked in the backstreets of Little India, a short walk from"
-country: "Singapore"
-region: "Little India"
-category: "restaurant"
-pubDate: "2026-07-23T07:36:04.943Z"
+title: 'Super Deluxe Kitchen: Where to Eat in Little India'
+description: Super Deluxe Kitchen (29 Upper Weld Rd, Singapore 207386) is a well-reviewed Indian restaurant tucked in the backstreets of Little India, a short walk from
+country: Singapore
+region: Little India
+category: restaurant
+pubDate: '2026-07-23T07:36:04.943Z'
 heroImage:
-  url: "https://images.unsplash.com/photo-1553771620-66573d96d4ee?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8TGl0dGxlJTIwSW5kaWElMjBTaW5nYXBvcmUlMjBsb2NhbCUyMHJlc3RhdXJhbnR8ZW58MHwwfHx8MTc4NDc5MjA5NHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Raveen Wijetilleke on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@nerdventures?utm_source=korea_travel_guide&utm_medium=referral"
+  url: https://images.unsplash.com/photo-1553771620-66573d96d4ee?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8TGl0dGxlJTIwSW5kaWElMjBTaW5nYXBvcmUlMjBsb2NhbCUyMHJlc3RhdXJhbnR8ZW58MHwwfHx8MTc4NDc5MjA5NHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Raveen Wijetilleke on Unsplash
+  license: unsplash
+  source: https://unsplash.com/@nerdventures?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
-  id: "ChIJq9I-PVUZ2jEREhaR6C5wGeU"
-  name: "Super Deluxe Kitchen"
-  address: "29 Upper Weld Rd, Singapore 207386"
+  id: ChIJq9I-PVUZ2jEREhaR6C5wGeU
+  name: Super Deluxe Kitchen
+  address: 29 Upper Weld Rd, Singapore 207386
   rating: 4.9
   userRatingsTotal: 2548
-  googleMapsUrl: "https://maps.google.com/?cid=16508349255875892754&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=16508349255875892754&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.3057785
   lng: 103.8543407
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [11, 12, 15, 16]
-    weekdayBusy: [19, 20, 21]
-    weekendQuiet: [11]
-    weekendBusy: [13, 14, 15, 18, 19, 20, 21]
-    venueId: 'ven_556547773543365261684552456a325a5556502d4939714a496843'
+    weekdayQuiet:
+      - 11
+      - 12
+      - 15
+      - 16
+    weekdayBusy:
+      - 19
+      - 20
+      - 21
+    weekendQuiet:
+      - 11
+    weekendBusy:
+      - 13
+      - 14
+      - 15
+      - 18
+      - 19
+      - 20
+      - 21
+    venueId: ven_556547773543365261684552456a325a5556502d4939714a496843
 tags:
-  - "little india"
-  - "local restaurant"
-quickAnswer: "Super Deluxe Kitchen (29 Upper Weld Rd, Singapore 207386) is a well-reviewed Indian restaurant tucked in the backstreets of Little India, a short walk from Jalan Besar and Farrer Park MRT stations. Go for North and South Indian classics — think biryani, curries, and tandoor-fired breads — and expect a genuinely busy dining room, so arrive slightly off peak (early lunch or after 8:30pm) if you want a table without a wait."
+  - little india
+  - local restaurant
+quickAnswer: Super Deluxe Kitchen (29 Upper Weld Rd, Singapore 207386) is a well-reviewed Indian restaurant tucked in the backstreets of Little India, a short walk from Jalan Besar and Farrer Park MRT stations. Go for North and South Indian classics — think biryani, curries, and tandoor-fired breads — and expect a genuinely busy dining room, so arrive slightly off peak (early lunch or after 8:30pm) if you want a table without a wait.
 faq:
-  - q: "How do I get to Super Deluxe Kitchen by MRT?"
-    a: "The nearest stations are Farrer Park (North East Line) and Jalan Besar (Downtown Line), both about a 5–8 minute walk. Little India MRT (North East Line/Downtown Line) is about 10 minutes on foot if you want to walk through the neighborhood first."
-  - q: "Is Super Deluxe Kitchen good for vegetarians?"
-    a: "Yes — like most Indian restaurants in Little India, it typically offers a solid range of vegetarian curries and breads alongside its meat and tandoor dishes, making it workable for mixed groups."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Given its high review count and popularity, weekend dinner hours (roughly 7–8:30pm) tend to be busiest. An early lunch or a dinner after 8:30pm generally means a shorter wait."
-  - q: "How long should I plan for a meal here?"
-    a: "Budget at least 45 minutes to an hour, more if you're sharing several dishes — it's a popular spot so service can take its own pace, especially at peak times."
-  - q: "What else is worth seeing near the restaurant?"
-    a: "Tekka Centre (wet market and hawker food) and Sri Veeramakaliamman Temple are both a short walk away, along with the shophouse-lined lanes of Dunlop Street and Campbell Lane."
+  - q: How do I get to Super Deluxe Kitchen by MRT?
+    a: The nearest stations are Farrer Park (North East Line) and Jalan Besar (Downtown Line), both about a 5–8 minute walk. Little India MRT (North East Line/Downtown Line) is about 10 minutes on foot if you want to walk through the neighborhood first.
+  - q: Is Super Deluxe Kitchen good for vegetarians?
+    a: Yes — like most Indian restaurants in Little India, it typically offers a solid range of vegetarian curries and breads alongside its meat and tandoor dishes, making it workable for mixed groups.
+  - q: What's the best time to visit to avoid crowds?
+    a: Given its high review count and popularity, weekend dinner hours (roughly 7–8:30pm) tend to be busiest. An early lunch or a dinner after 8:30pm generally means a shorter wait.
+  - q: How long should I plan for a meal here?
+    a: Budget at least 45 minutes to an hour, more if you're sharing several dishes — it's a popular spot so service can take its own pace, especially at peak times.
+  - q: What else is worth seeing near the restaurant?
+    a: Tekka Centre (wet market and hawker food) and Sri Veeramakaliamman Temple are both a short walk away, along with the shophouse-lined lanes of Dunlop Street and Campbell Lane.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

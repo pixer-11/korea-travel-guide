@@ -1,51 +1,67 @@
 ---
-title: "Blanco Coffee And Books: Yogyakarta Travel Guide"
-description: "Blanco Coffee And Books is a light-filled, minimalist café on Jl. Kranggan in Jetis, just north of Yogyakarta's old city walls near Tugu Jogja monument."
-country: "Indonesia"
-region: "Yogyakarta"
-category: "trendy"
-pubDate: "2026-07-23T07:23:02.841Z"
+title: 'Blanco Coffee And Books: Yogyakarta Travel Guide'
+description: Blanco Coffee And Books is a light-filled, minimalist café on Jl. Kranggan in Jetis, just north of Yogyakarta's old city walls near Tugu Jogja monument.
+country: Indonesia
+region: Yogyakarta
+category: trendy
+pubDate: '2026-07-23T07:23:02.841Z'
 heroImage:
-  url: "https://images.unsplash.com/photo-1578469550956-0e16b69c6a3d?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8WW9neWFrYXJ0YSUyMEluZG9uZXNpYXxlbnwwfDB8fHwxNzg0NzkxMzMzfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Eugenia Clara @fleetingstill on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@eugeniaclara?utm_source=korea_travel_guide&utm_medium=referral"
+  url: https://images.unsplash.com/photo-1578469550956-0e16b69c6a3d?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8WW9neWFrYXJ0YSUyMEluZG9uZXNpYXxlbnwwfDB8fHwxNzg0NzkxMzMzfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Eugenia Clara @fleetingstill on Unsplash
+  license: unsplash
+  source: https://unsplash.com/@eugeniaclara?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
-  id: "ChIJEVyHOzpYei4RDfFn31FneuU"
-  name: "Blanco Coffee And Books"
-  address: "Jl. Kranggan No.30, Cokrodiningratan, Kec. Jetis, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55233, Indonesia"
+  id: ChIJEVyHOzpYei4RDfFn31FneuU
+  name: Blanco Coffee And Books
+  address: Jl. Kranggan No.30, Cokrodiningratan, Kec. Jetis, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55233, Indonesia
   rating: 4.6
   userRatingsTotal: 4108
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=16535642583182340365&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=16535642583182340365&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -7.781408099999998
   lng: 110.36476979999999
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [7, 8]
-    weekdayBusy: [19, 20, 21]
-    weekendQuiet: [7, 8, 9, 10]
-    weekendBusy: [16, 17, 18, 19, 20, 21, 22]
-    venueId: 'ven_5575656e4631336e4666445234696559707a4f487956454a496843'
+    weekdayQuiet:
+      - 7
+      - 8
+    weekdayBusy:
+      - 19
+      - 20
+      - 21
+    weekendQuiet:
+      - 7
+      - 8
+      - 9
+      - 10
+    weekendBusy:
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+    venueId: ven_5575656e4631336e4666445234696559707a4f487956454a496843
 tags:
-  - "yogyakarta"
-  - "trendy cafe"
-quickAnswer: "Blanco Coffee And Books is a light-filled, minimalist café on Jl. Kranggan in Jetis, just north of Yogyakarta's old city walls near Tugu Jogja monument. Go for well-sourced Indonesian single-origin coffee, a short menu of light bites, and a calm reading-nook atmosphere — best enjoyed on a weekday morning before the lunchtime crowd and Instagram traffic pick up. Budget roughly 45–90 minutes and expect a mid-range, price-level-2 bill for coffee and a snack."
+  - yogyakarta
+  - trendy cafe
+quickAnswer: Blanco Coffee And Books is a light-filled, minimalist café on Jl. Kranggan in Jetis, just north of Yogyakarta's old city walls near Tugu Jogja monument. Go for well-sourced Indonesian single-origin coffee, a short menu of light bites, and a calm reading-nook atmosphere — best enjoyed on a weekday morning before the lunchtime crowd and Instagram traffic pick up. Budget roughly 45–90 minutes and expect a mid-range, price-level-2 bill for coffee and a snack.
 faq:
-  - q: "How do I get to Blanco Coffee And Books?"
-    a: "It's on Jl. Kranggan No.30 in Jetis, a short walk from the Tugu Jogja monument at the north end of Malioboro. Easiest access is by Grab/Gojek rideshare, becak, or a 10–15 minute ride from Malioboro or a 15–20 minute walk from Tugu train station."
-  - q: "How much should I budget for a visit?"
-    a: "It's a mid-range café (price level 2 of 4), so expect a moderate bill for coffee plus a light bite — similar to other specialty coffee shops in Jogja rather than warung prices. Confirm current menu prices on-site since they can change."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Weekday mornings shortly after opening or the mid-afternoon lull (around 2–4pm) tend to be calmest. Weekends and early evenings are busiest, especially with laptop users and photo-seekers."
-  - q: "How long should I plan to stay?"
-    a: "A quick coffee takes about 30–45 minutes; if you want to browse the books or work, plan for 60–90 minutes given limited seating during peak hours."
-  - q: "What else is nearby that I can combine with this stop?"
-    a: "Tugu Jogja monument, Jl. Malioboro's shops and street food stalls, and Tugu train station are all within easy walking or short rideshare distance, making Jetis a convenient coffee break before or after exploring the old city."
+  - q: How do I get to Blanco Coffee And Books?
+    a: It's on Jl. Kranggan No.30 in Jetis, a short walk from the Tugu Jogja monument at the north end of Malioboro. Easiest access is by Grab/Gojek rideshare, becak, or a 10–15 minute ride from Malioboro or a 15–20 minute walk from Tugu train station.
+  - q: How much should I budget for a visit?
+    a: It's a mid-range café (price level 2 of 4), so expect a moderate bill for coffee plus a light bite — similar to other specialty coffee shops in Jogja rather than warung prices. Confirm current menu prices on-site since they can change.
+  - q: What's the best time to visit to avoid crowds?
+    a: Weekday mornings shortly after opening or the mid-afternoon lull (around 2–4pm) tend to be calmest. Weekends and early evenings are busiest, especially with laptop users and photo-seekers.
+  - q: How long should I plan to stay?
+    a: A quick coffee takes about 30–45 minutes; if you want to browse the books or work, plan for 60–90 minutes given limited seating during peak hours.
+  - q: What else is nearby that I can combine with this stop?
+    a: Tugu Jogja monument, Jl. Malioboro's shops and street food stalls, and Tugu train station are all within easy walking or short rideshare distance, making Jetis a convenient coffee break before or after exploring the old city.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

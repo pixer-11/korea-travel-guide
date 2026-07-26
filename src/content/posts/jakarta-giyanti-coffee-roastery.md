@@ -1,51 +1,67 @@
 ---
-title: "Giyanti Coffee Roastery: Jakarta Travel Guide"
-description: "Giyanti Coffee Roastery is a specialty coffee house and roastery on Jl."
-country: "Indonesia"
-region: "Jakarta"
-category: "trendy"
-pubDate: "2026-07-23T07:22:24.834Z"
+title: 'Giyanti Coffee Roastery: Jakarta Travel Guide'
+description: Giyanti Coffee Roastery is a specialty coffee house and roastery on Jl.
+country: Indonesia
+region: Jakarta
+category: trendy
+pubDate: '2026-07-23T07:22:24.834Z'
 heroImage:
-  url: "https://images.unsplash.com/photo-1664174737284-5322455303b6?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SmFrYXJ0YSUyMEluZG9uZXNpYSUyMHRyZW5keSUyMGNhZmV8ZW58MHwwfHx8MTc4NDc5MTI5N3ww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Mahendra Putra on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@mahendra_putra?utm_source=korea_travel_guide&utm_medium=referral"
+  url: https://images.unsplash.com/photo-1664174737284-5322455303b6?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SmFrYXJ0YSUyMEluZG9uZXNpYSUyMHRyZW5keSUyMGNhZmV8ZW58MHwwfHx8MTc4NDc5MTI5N3ww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Mahendra Putra on Unsplash
+  license: unsplash
+  source: https://unsplash.com/@mahendra_putra?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
-  id: "ChIJZ3frHBX0aS4Rb3PvKlxkrHk"
-  name: "Giyanti Coffee Roastery"
-  address: "Jl. Surabaya No.20, RT.15/RW.5, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310, Indonesia"
+  id: ChIJZ3frHBX0aS4Rb3PvKlxkrHk
+  name: Giyanti Coffee Roastery
+  address: Jl. Surabaya No.20, RT.15/RW.5, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310, Indonesia
   rating: 4.6
   userRatingsTotal: 4318
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=8767492921603617647&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=8767492921603617647&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -6.1988778
   lng: 106.8394721
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [20]
-    weekdayBusy: [12, 13, 14, 15, 16, 17]
-    weekendQuiet: [20]
-    weekendBusy: [11, 12, 13, 14, 15, 16, 17, 18]
-    venueId: 'ven_6b48726b786c4b7650336252345361305842487266335a4a496843'
+    weekdayQuiet:
+      - 20
+    weekdayBusy:
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+    weekendQuiet:
+      - 20
+    weekendBusy:
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+    venueId: ven_6b48726b786c4b7650336252345361305842487266335a4a496843
 tags:
-  - "jakarta"
-  - "trendy cafe"
-quickAnswer: "Giyanti Coffee Roastery is a specialty coffee house and roastery on Jl. Surabaya in Menteng, Central Jakarta, known for single-origin Indonesian beans (Gayo, Toraja, Flores, Kintamani) and its own roasting operation on site. Go on a weekday morning to beat the crowds, budget an hour or two, and pair your cup with the antiques street market right outside the door."
+  - jakarta
+  - trendy cafe
+quickAnswer: Giyanti Coffee Roastery is a specialty coffee house and roastery on Jl. Surabaya in Menteng, Central Jakarta, known for single-origin Indonesian beans (Gayo, Toraja, Flores, Kintamani) and its own roasting operation on site. Go on a weekday morning to beat the crowds, budget an hour or two, and pair your cup with the antiques street market right outside the door.
 faq:
-  - q: "How do I get to Giyanti Coffee Roastery without a car?"
-    a: "The easiest way is a ride-hailing app like Gojek or Grab, since it's not directly on an MRT line. The nearest MRT station, Dukuh Atas BNI, is about a 15–20 minute drive away depending on traffic."
-  - q: "How much does coffee cost there?"
-    a: "It sits at a moderate price level for Jakarta specialty cafes — not cheap street-side coffee, but not high-luxury pricing either. Exact menu prices change, so check current pricing on-site or via their social channels before visiting."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Weekday mornings between roughly 9 and 11am are calmest. Weekends get busy because the Jl. Surabaya antiques market outside draws additional foot traffic."
-  - q: "How long should I plan to stay?"
-    a: "Most visitors spend around 1–2 hours, especially if pairing a coffee with browsing the antiques market right outside."
-  - q: "What's nearby worth combining with this visit?"
-    a: "The Jl. Surabaya antiques and curio market is directly outside, and the broader Menteng neighborhood offers colonial-era architecture worth a short walk."
+  - q: How do I get to Giyanti Coffee Roastery without a car?
+    a: The easiest way is a ride-hailing app like Gojek or Grab, since it's not directly on an MRT line. The nearest MRT station, Dukuh Atas BNI, is about a 15–20 minute drive away depending on traffic.
+  - q: How much does coffee cost there?
+    a: It sits at a moderate price level for Jakarta specialty cafes — not cheap street-side coffee, but not high-luxury pricing either. Exact menu prices change, so check current pricing on-site or via their social channels before visiting.
+  - q: What's the best time to visit to avoid crowds?
+    a: Weekday mornings between roughly 9 and 11am are calmest. Weekends get busy because the Jl. Surabaya antiques market outside draws additional foot traffic.
+  - q: How long should I plan to stay?
+    a: Most visitors spend around 1–2 hours, especially if pairing a coffee with browsing the antiques market right outside.
+  - q: What's nearby worth combining with this visit?
+    a: The Jl. Surabaya antiques and curio market is directly outside, and the broader Menteng neighborhood offers colonial-era architecture worth a short walk.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

@@ -1,44 +1,44 @@
 ---
-title: "Gozip Dol Wooluck Jeju Airport Branch: Where to Eat"
-description: "Gozip Dol Wooluck is a black-pork specialty restaurant near Jeju International Airport at 30 Imhang-ro, a practical pick for a first or last meal on the"
-country: "South Korea"
-region: "Jeju"
-category: "restaurant"
-pubDate: "2026-07-24T22:19:58.710Z"
+title: 'Gozip Dol Wooluck Jeju Airport Branch: Where to Eat'
+description: Gozip Dol Wooluck is a black-pork specialty restaurant near Jeju International Airport at 30 Imhang-ro, a practical pick for a first or last meal on the
+country: South Korea
+region: Jeju
+category: restaurant
+pubDate: '2026-07-24T22:19:58.710Z'
 heroImage:
-  url: "https://images.unsplash.com/photo-1668755929372-89773da5547b?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8M3x8SmVqdSUyMFNvdXRoJTIwS29yZWF8ZW58MHwwfHx8MTc4NDkzMTU2OHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by john ko on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@jko001?utm_source=korea_travel_guide&utm_medium=referral"
+  url: https://images.unsplash.com/photo-1668755929372-89773da5547b?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8M3x8SmVqdSUyMFNvdXRoJTIwS29yZWF8ZW58MHwwfHx8MTc4NDkzMTU2OHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by john ko on Unsplash
+  license: unsplash
+  source: https://unsplash.com/@jko001?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
-  id: "ChIJ4dL0M1fjDDURpXxXvaqxt_g"
-  name: "Gozip Dol Wooluck Jeju Airport Branch"
-  address: "30 Imhang-ro, 특별자치도, Cheju, Jeju-do, South Korea"
+  id: ChIJ4dL0M1fjDDURpXxXvaqxt_g
+  name: Gozip Dol Wooluck Jeju Airport Branch
+  address: 30 Imhang-ro, 특별자치도, Cheju, Jeju-do, South Korea
   rating: 4.7
   userRatingsTotal: 5694
   priceLevel: 3
-  googleMapsUrl: "https://maps.google.com/?cid=17921988589023362213&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=17921988589023362213&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 33.5163089
   lng: 126.528071
 tags:
-  - "jeju"
-  - "local restaurant"
-quickAnswer: "Gozip Dol Wooluck is a black-pork specialty restaurant near Jeju International Airport at 30 Imhang-ro, a practical pick for a first or last meal on the island. It's rated 4.7 from nearly 5,700 reviews and sits in the mid-to-upper price bracket (price level 3), so expect a proper sit-down grilled-pork meal rather than a quick snack. Go for lunch right after landing or dinner before an evening flight, and book ahead or arrive early since it's a known airport-adjacent favorite."
+  - jeju
+  - local restaurant
+quickAnswer: Gozip Dol Wooluck is a black-pork specialty restaurant near Jeju International Airport at 30 Imhang-ro, a practical pick for a first or last meal on the island. It's rated 4.7 from nearly 5,700 reviews and sits in the mid-to-upper price bracket (price level 3), so expect a proper sit-down grilled-pork meal rather than a quick snack. Go for lunch right after landing or dinner before an evening flight, and book ahead or arrive early since it's a known airport-adjacent favorite.
 faq:
-  - q: "How do I get to Gozip Dol Wooluck Jeju Airport Branch?"
-    a: "It's at 30 Imhang-ro, just a few minutes by taxi from Jeju International Airport (CJU), making it convenient right before departure or after landing."
-  - q: "Do I need a reservation?"
-    a: "Given its 4.7 rating and nearly 5,700 reviews, walk-in waits are common at peak lunch and dinner times. Calling ahead or booking, if available, is the safer bet."
-  - q: "How much should I expect to pay?"
-    a: "It sits at a mid-to-upper price level for Jeju, reflecting a proper grilled black pork meal rather than a quick snack. Exact menu prices should be confirmed on site or via their current menu, as these change over time."
-  - q: "What should I order?"
-    a: "Jeju black pork (heugdwaeji), grilled tableside and eaten wrapped in lettuce or perilla leaves with garlic and ssamjang, is the signature dish. Ask if they serve a pork bone soup or noodle side to round out the meal."
-  - q: "How long should I plan to stay?"
-    a: "Budget at least 45–60 minutes since the meal is grilled and meant to be eaten unhurried — avoid scheduling it too close to a flight departure."
+  - q: How do I get to Gozip Dol Wooluck Jeju Airport Branch?
+    a: It's at 30 Imhang-ro, just a few minutes by taxi from Jeju International Airport (CJU), making it convenient right before departure or after landing.
+  - q: Do I need a reservation?
+    a: Given its 4.7 rating and nearly 5,700 reviews, walk-in waits are common at peak lunch and dinner times. Calling ahead or booking, if available, is the safer bet.
+  - q: How much should I expect to pay?
+    a: It sits at a mid-to-upper price level for Jeju, reflecting a proper grilled black pork meal rather than a quick snack. Exact menu prices should be confirmed on site or via their current menu, as these change over time.
+  - q: What should I order?
+    a: Jeju black pork (heugdwaeji), grilled tableside and eaten wrapped in lettuce or perilla leaves with garlic and ssamjang, is the signature dish. Ask if they serve a pork bone soup or noodle side to round out the meal.
+  - q: How long should I plan to stay?
+    a: Budget at least 45–60 minutes since the meal is grilled and meant to be eaten unhurried — avoid scheduling it too close to a flight departure.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

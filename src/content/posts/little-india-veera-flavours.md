@@ -1,50 +1,65 @@
 ---
-title: "Veera Flavours: Where to Eat in Little India"
-description: "Veera Flavours is a highly rated (4.7 stars, nearly 2,000 reviews) South Indian vegetarian restaurant at 41 Kerbau Road in the heart of Little India, best"
-country: "Singapore"
-region: "Little India"
-category: "restaurant"
-pubDate: "2026-07-23T07:45:32.798Z"
+title: 'Veera Flavours: Where to Eat in Little India'
+description: Veera Flavours is a highly rated (4.7 stars, nearly 2,000 reviews) South Indian vegetarian restaurant at 41 Kerbau Road in the heart of Little India, best
+country: Singapore
+region: Little India
+category: restaurant
+pubDate: '2026-07-23T07:45:32.798Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/3/3b/Little_India%2C_Singapore_%284059104115%29.jpg"
-  credit: "Photo: Khalzuri Yazid from Petaling Jaya, Malaysia / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Little_India,_Singapore_(4059104115).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/3/3b/Little_India%2C_Singapore_%284059104115%29.jpg
+  credit: 'Photo: Khalzuri Yazid from Petaling Jaya, Malaysia / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Little_India,_Singapore_(4059104115).jpg
 gallery: []
 place:
-  id: "ChIJURcu3VkZ2jERjZBy1nhV5xg"
-  name: "Veera Flavours"
-  address: "41 Kerbau Rd, Singapore 219170"
+  id: ChIJURcu3VkZ2jERjZBy1nhV5xg
+  name: Veera Flavours
+  address: 41 Kerbau Rd, Singapore 219170
   rating: 4.7
   userRatingsTotal: 1940
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=1794496954012700813&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=1794496954012700813&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.3071513
   lng: 103.8508975
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [11, 12, 13, 14, 15, 16]
-    weekendQuiet: [11]
-    weekendBusy: [13, 14, 15, 18, 19, 20, 21, 22]
-    venueId: 'ven_67783556686e3179425a6a52456a325a6b5633756352554a496843'
+    weekdayQuiet:
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+    weekendQuiet:
+      - 11
+    weekendBusy:
+      - 13
+      - 14
+      - 15
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+    venueId: ven_67783556686e3179425a6a52456a325a6b5633756352554a496843
 tags:
-  - "little india"
-  - "street food"
-quickAnswer: "Veera Flavours is a highly rated (4.7 stars, nearly 2,000 reviews) South Indian vegetarian restaurant at 41 Kerbau Road in the heart of Little India, best known for banana-leaf meals, dosas, and thali sets at mid-range prices. Go on a weekday around 11:30am or after 2:30pm to skip the lunchtime crush, and pair the meal with a walk down Kerbau Road and Campbell Lane. It's an easy 5-minute walk from Little India MRT (Exits A or E)."
+  - little india
+  - street food
+quickAnswer: Veera Flavours is a highly rated (4.7 stars, nearly 2,000 reviews) South Indian vegetarian restaurant at 41 Kerbau Road in the heart of Little India, best known for banana-leaf meals, dosas, and thali sets at mid-range prices. Go on a weekday around 11:30am or after 2:30pm to skip the lunchtime crush, and pair the meal with a walk down Kerbau Road and Campbell Lane. It's an easy 5-minute walk from Little India MRT (Exits A or E).
 faq:
-  - q: "How do I get to Veera Flavours by public transport?"
-    a: "Take the MRT to Little India Station (North East Line or Downtown Line), leave via Exit A or Exit E, and walk about 5 minutes to 41 Kerbau Road."
-  - q: "How much does a meal cost?"
-    a: "It's mid-range for Singapore (price level 2 of 4), so expect an affordable banana-leaf meal or dosa, with thali sets costing a bit more depending on the spread."
-  - q: "What's the best dish to order?"
-    a: "The banana-leaf meal is the signature order — rice with a variety of curries, sambar, rasam, and pickle. Dosas are a quicker, equally popular option."
-  - q: "When is it least crowded?"
-    a: "Weekday early lunch (just after opening) or after 2:30pm tends to be quieter. Avoid weekday noon-1:30pm and Sunday evenings, when Little India is busiest."
-  - q: "What else is nearby?"
-    a: "Campbell Lane's flower stalls, the Sri Veeramakaliamman Temple, and Tekka Centre hawker market are all within a 5-10 minute walk."
+  - q: How do I get to Veera Flavours by public transport?
+    a: Take the MRT to Little India Station (North East Line or Downtown Line), leave via Exit A or Exit E, and walk about 5 minutes to 41 Kerbau Road.
+  - q: How much does a meal cost?
+    a: It's mid-range for Singapore (price level 2 of 4), so expect an affordable banana-leaf meal or dosa, with thali sets costing a bit more depending on the spread.
+  - q: What's the best dish to order?
+    a: The banana-leaf meal is the signature order — rice with a variety of curries, sambar, rasam, and pickle. Dosas are a quicker, equally popular option.
+  - q: When is it least crowded?
+    a: Weekday early lunch (just after opening) or after 2:30pm tends to be quieter. Avoid weekday noon-1:30pm and Sunday evenings, when Little India is busiest.
+  - q: What else is nearby?
+    a: Campbell Lane's flower stalls, the Sri Veeramakaliamman Temple, and Tekka Centre hawker market are all within a 5-10 minute walk.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Veera Flavours

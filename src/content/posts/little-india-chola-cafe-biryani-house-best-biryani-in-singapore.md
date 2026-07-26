@@ -1,50 +1,67 @@
 ---
-title: "Chola Cafe - Biryani House - Best Biryani in Singapore: Little India Travel Guide"
-description: "Chola Cafe - Biryani House sits on a quiet side street in Little India, a short walk from Little India MRT (Exit E), and is best visited slightly off peak"
-country: "Singapore"
-region: "Little India"
-category: "trendy"
-pubDate: "2026-07-23T07:41:39.375Z"
+title: 'Chola Cafe - Biryani House - Best Biryani in Singapore: Little India Travel Guide'
+description: Chola Cafe - Biryani House sits on a quiet side street in Little India, a short walk from Little India MRT (Exit E), and is best visited slightly off peak
+country: Singapore
+region: Little India
+category: trendy
+pubDate: '2026-07-23T07:41:39.375Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Little_India%2C_Singapore_%28LRM_20230818_202704-RR%29.jpg/1920px-Little_India%2C_Singapore_%28LRM_20230818_202704-RR%29.jpg"
-  credit: "Photo: Matti Blume / Wikimedia Commons (CC BY-SA)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Little_India,_Singapore_(LRM_20230818_202704-RR).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Little_India%2C_Singapore_%28LRM_20230818_202704-RR%29.jpg/1920px-Little_India%2C_Singapore_%28LRM_20230818_202704-RR%29.jpg
+  credit: 'Photo: Matti Blume / Wikimedia Commons (CC BY-SA)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Little_India,_Singapore_(LRM_20230818_202704-RR).jpg
 gallery: []
 place:
-  id: "ChIJxf_ZdSYZ2jERWHDSce6Gwow"
-  name: "Chola Cafe - Biryani House - “Best Biryani in Singapore”"
-  address: "20 Clive St, Singapore 209778"
+  id: ChIJxf_ZdSYZ2jERWHDSce6Gwow
+  name: Chola Cafe - Biryani House - “Best Biryani in Singapore”
+  address: 20 Clive St, Singapore 209778
   rating: 4.9
   userRatingsTotal: 439
-  googleMapsUrl: "https://maps.google.com/?cid=10142817669461733464&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=10142817669461733464&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.3053029
   lng: 103.85223950000001
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [12, 13, 14, 15, 16]
-    weekdayBusy: [20, 21]
-    weekendQuiet: [12, 15, 16, 17, 18]
-    weekendBusy: [13, 14, 20, 21, 22]
-    venueId: 'ven_776f77473665635344485752456a325a5953645a5f66784a496843'
+    weekdayQuiet:
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+    weekdayBusy:
+      - 20
+      - 21
+    weekendQuiet:
+      - 12
+      - 15
+      - 16
+      - 17
+      - 18
+    weekendBusy:
+      - 13
+      - 14
+      - 20
+      - 21
+      - 22
+    venueId: ven_776f77473665635344485752456a325a5953645a5f66784a496843
 tags:
-  - "little india"
-  - "trendy cafe"
-quickAnswer: "Chola Cafe - Biryani House sits on a quiet side street in Little India, a short walk from Little India MRT (Exit E), and is best visited slightly off peak lunch (around 12:00 or after 1:30pm) to get a table without a wait. Come for slow-cooked mutton or chicken biryani served with the usual accompaniments of raita and brinjal curry, and expect a no-frills, canteen-style setup rather than a polished dining room. It's a strong pick if you want an under-the-radar biryani stop rather than the queue-heavy names on Serangoon Road."
+  - little india
+  - trendy cafe
+quickAnswer: Chola Cafe - Biryani House sits on a quiet side street in Little India, a short walk from Little India MRT (Exit E), and is best visited slightly off peak lunch (around 12:00 or after 1:30pm) to get a table without a wait. Come for slow-cooked mutton or chicken biryani served with the usual accompaniments of raita and brinjal curry, and expect a no-frills, canteen-style setup rather than a polished dining room. It's a strong pick if you want an under-the-radar biryani stop rather than the queue-heavy names on Serangoon Road.
 faq:
-  - q: "How do I get to Chola Cafe - Biryani House by public transport?"
-    a: "Take the North East Line or Downtown Line to Little India MRT, leave via Exit E, and walk about 5–8 minutes to Clive Street."
-  - q: "What should I order first?"
-    a: "Start with the mutton or chicken biryani — the house specialty — served with raita and brinjal curry; add a separate curry with plain rice if you want to compare the kitchen's masala style."
-  - q: "Is it busy or a hidden find?"
-    a: "It's under-the-radar compared to Little India's famous biryani stalls on the main strip, so waits are generally shorter despite its very high review rating."
-  - q: "Do I need a reservation?"
-    a: "No formal reservation system is typical for a restaurant this size — it runs on walk-ins, so timing your visit outside peak lunch and dinner hours is the best strategy."
-  - q: "What else can I see nearby?"
-    a: "Tekka Centre, Sri Veeramakaliamman Temple, and Little India Arcade are all within easy walking distance and make for a good pre- or post-meal wander."
+  - q: How do I get to Chola Cafe - Biryani House by public transport?
+    a: Take the North East Line or Downtown Line to Little India MRT, leave via Exit E, and walk about 5–8 minutes to Clive Street.
+  - q: What should I order first?
+    a: Start with the mutton or chicken biryani — the house specialty — served with raita and brinjal curry; add a separate curry with plain rice if you want to compare the kitchen's masala style.
+  - q: Is it busy or a hidden find?
+    a: It's under-the-radar compared to Little India's famous biryani stalls on the main strip, so waits are generally shorter despite its very high review rating.
+  - q: Do I need a reservation?
+    a: No formal reservation system is typical for a restaurant this size — it runs on walk-ins, so timing your visit outside peak lunch and dinner hours is the best strategy.
+  - q: What else can I see nearby?
+    a: Tekka Centre, Sri Veeramakaliamman Temple, and Little India Arcade are all within easy walking distance and make for a good pre- or post-meal wander.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

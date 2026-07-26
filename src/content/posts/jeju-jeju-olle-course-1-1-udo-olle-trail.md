@@ -1,50 +1,73 @@
 ---
-title: "Jeju Olle Course 1-1 (Udo Olle Trail): Travel Guide"
-description: "Olle Course 1-1 is an 11.5km loop trail around Udo, the small island off Jeju's northeastern tip, combining black lava coastline, white-sand beaches and"
-country: "South Korea"
-region: "Jeju"
-category: "attraction"
-pubDate: 2026-07-21
+title: 'Jeju Olle Course 1-1 (Udo Olle Trail): Travel Guide'
+description: Olle Course 1-1 is an 11.5km loop trail around Udo, the small island off Jeju's northeastern tip, combining black lava coastline, white-sand beaches and
+country: South Korea
+region: Jeju
+category: attraction
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/2024_Jeju_Olle_Walking_Festival_Route_15B.jpg/1920px-2024_Jeju_Olle_Walking_Festival_Route_15B.jpg"
-  credit: "Photo: Jeju Olle Foundation / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:2024_Jeju_Olle_Walking_Festival_Route_15B.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/2024_Jeju_Olle_Walking_Festival_Route_15B.jpg/1920px-2024_Jeju_Olle_Walking_Festival_Route_15B.jpg
+  credit: 'Photo: Jeju Olle Foundation / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:2024_Jeju_Olle_Walking_Festival_Route_15B.jpg
 gallery: []
 place:
-  id: "ChIJXfGOezMVDTURaRmAIBtEht8"
-  name: "Jeju Olle Course 1-1 (Udo Olle Trail)"
-  address: "Yeonpyeong-ri, Udo-myeon, Jeju-si, Jeju-do, South Korea"
+  id: ChIJXfGOezMVDTURaRmAIBtEht8
+  name: Jeju Olle Course 1-1 (Udo Olle Trail)
+  address: Yeonpyeong-ri, Udo-myeon, Jeju-si, Jeju-do, South Korea
   rating: 4.5
   userRatingsTotal: 119
-  googleMapsUrl: "https://maps.google.com/?cid=16106636000637229417&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=16106636000637229417&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 33.492992199999996
   lng: 126.95186770000001
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [19, 20, 21, 22]
-    weekdayBusy: [10, 11, 12, 13, 14, 15]
-    weekendQuiet: [19, 20, 21, 22]
-    weekendBusy: [9, 10, 11, 12, 13, 14, 15, 16, 17]
-    venueId: 'ven_38746845744249416d526152555444564d7a654f4766584a496843'
+    weekdayQuiet:
+      - 19
+      - 20
+      - 21
+      - 22
+    weekdayBusy:
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+    weekendQuiet:
+      - 19
+      - 20
+      - 21
+      - 22
+    weekendBusy:
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+    venueId: ven_38746845744249416d526152555444564d7a654f4766584a496843
 tags:
-  - "jeju"
-  - "Olle trail"
-quickAnswer: "Olle Course 1-1 is an 11.5km loop trail around Udo, the small island off Jeju's northeastern tip, combining black lava coastline, white-sand beaches and grassy cliffs. Reach it by ferry from Seongsan Port, rent a bike or e-scooter on Udo, and budget half a day to a full day including the ferry crossing. Go on a clear morning for the best light on Seongsan Ilchulbong across the water and to beat afternoon tour-bus crowds."
+  - jeju
+  - Olle trail
+quickAnswer: Olle Course 1-1 is an 11.5km loop trail around Udo, the small island off Jeju's northeastern tip, combining black lava coastline, white-sand beaches and grassy cliffs. Reach it by ferry from Seongsan Port, rent a bike or e-scooter on Udo, and budget half a day to a full day including the ferry crossing. Go on a clear morning for the best light on Seongsan Ilchulbong across the water and to beat afternoon tour-bus crowds.
 faq:
-  - q: "How do I get to Olle Course 1-1?"
-    a: "Take a ferry from Seongsan Port on Jeju's northeast coast to Udo island (about 15 minutes); the Olle 1-1 trail loops the island itself. Seongsan Port is roughly 40–50 minutes from Jeju City by car or bus."
-  - q: "How long does the trail take?"
-    a: "The full loop is about 11.5km. Walking it takes 4–5 hours with stops; most visitors instead rent a bicycle or electric scooter on Udo and complete it in 2–3 hours."
-  - q: "What's the best time of day and year to go?"
-    a: "Aim for an early ferry (before 10am) to avoid midday tour crowds. Late spring and autumn offer the most comfortable temperatures and clearest views."
-  - q: "Do I need to bring my own bike or car?"
-    a: "No — most visitors leave cars on the mainland and rent bicycles, electric scooters, or small carts near Udo's ferry terminal."
-  - q: "What else is nearby worth combining with this trip?"
-    a: "Seongsan Ilchulbong, the tuff-cone volcanic peak visible from Udo, is a short drive from the ferry port and pairs well as a same-day add-on."
+  - q: How do I get to Olle Course 1-1?
+    a: Take a ferry from Seongsan Port on Jeju's northeast coast to Udo island (about 15 minutes); the Olle 1-1 trail loops the island itself. Seongsan Port is roughly 40–50 minutes from Jeju City by car or bus.
+  - q: How long does the trail take?
+    a: The full loop is about 11.5km. Walking it takes 4–5 hours with stops; most visitors instead rent a bicycle or electric scooter on Udo and complete it in 2–3 hours.
+  - q: What's the best time of day and year to go?
+    a: Aim for an early ferry (before 10am) to avoid midday tour crowds. Late spring and autumn offer the most comfortable temperatures and clearest views.
+  - q: Do I need to bring my own bike or car?
+    a: No — most visitors leave cars on the mainland and rent bicycles, electric scooters, or small carts near Udo's ferry terminal.
+  - q: What else is nearby worth combining with this trip?
+    a: Seongsan Ilchulbong, the tuff-cone volcanic peak visible from Udo, is a short drive from the ferry port and pairs well as a same-day add-on.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

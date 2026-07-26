@@ -1,28 +1,23 @@
 ---
 title: 'Chill Beach Bar - Hạ Long: Where to Eat in Ha Long Bay'
-description: >-
-  Chill Beach Bar sits right on Bãi Cháy Beach in Ha Long City, a short walk
-  from the Sun Wheel and the beachfront promenade — go in the late afternoon for
+description: Chill Beach Bar sits right on Bãi Cháy Beach in Ha Long City, a short walk from the Sun Wheel and the beachfront promenade — go in the late afternoon for
 country: Vietnam
 region: Ha Long Bay
 category: restaurant
 pubDate: '2026-07-22T09:32:25.909Z'
 heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1509072619873-adb3dc289b50?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SGElMjBMb25nJTIwQmF5JTIwVmlldG5hbSUyMGxvY2FsJTIwcmVzdGF1cmFudHxlbnwwfDB8fHwxNzg0NzEyNjYwfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  url: https://images.unsplash.com/photo-1509072619873-adb3dc289b50?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SGElMjBMb25nJTIwQmF5JTIwVmlldG5hbSUyMGxvY2FsJTIwcmVzdGF1cmFudHxlbnwwfDB8fHwxNzg0NzEyNjYwfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
   credit: Photo by René DeAnda on Unsplash
   license: unsplash
-  source: >-
-    https://unsplash.com/@renedeanda?utm_source=korea_travel_guide&utm_medium=referral
+  source: https://unsplash.com/@renedeanda?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
   id: ChIJT1EBkYJZSjERbeEkzEHwpfQ
   name: Chill Beach Bar - Hạ Long
-  address: 'Kỳ Quan, Bãi tắm, Bãi Cháy, Quảng Ninh 20000, Vietnam'
+  address: Kỳ Quan, Bãi tắm, Bãi Cháy, Quảng Ninh 20000, Vietnam
   rating: 4.9
   userRatingsTotal: 4286
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=17628760481800184173&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=17628760481800184173&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 20.9463398
   lng: 107.04832239999999
@@ -52,42 +47,20 @@ place:
 tags:
   - ha long bay
   - local restaurant
-quickAnswer: >-
-  Chill Beach Bar sits right on Bãi Cháy Beach in Ha Long City, a short walk
-  from the Sun Wheel and the beachfront promenade — go in the late afternoon for
-  sunset over the bay and stay into the evening when the strip lights up. It's a
-  casual bar-restaurant rather than fine dining: think grilled seafood, cold
-  beer, cocktails, and beach loungers with your feet basically in the sand.
-  Budget 1.5–2 hours, and arrive before 5pm on weekends to grab a front-row seat
-  facing the water.
+quickAnswer: 'Chill Beach Bar sits right on Bãi Cháy Beach in Ha Long City, a short walk from the Sun Wheel and the beachfront promenade — go in the late afternoon for sunset over the bay and stay into the evening when the strip lights up. It''s a casual bar-restaurant rather than fine dining: think grilled seafood, cold beer, cocktails, and beach loungers with your feet basically in the sand. Budget 1.5–2 hours, and arrive before 5pm on weekends to grab a front-row seat facing the water.'
 faq:
   - q: How do I get to Chill Beach Bar from central Bãi Cháy?
-    a: >-
-      It's on the Bãi Cháy beachfront near the Sun Wheel, about a 10-15 minute
-      walk from most hotel clusters in the area, or a short 10-20 minute
-      taxi/Grab ride from further out.
+    a: It's on the Bãi Cháy beachfront near the Sun Wheel, about a 10-15 minute walk from most hotel clusters in the area, or a short 10-20 minute taxi/Grab ride from further out.
   - q: What's the best time of day to visit?
-    a: >-
-      Late afternoon through evening, ideally arriving by 5pm to get a seat
-      facing the water for sunset, then staying after dark when the beach lights
-      come on.
+    a: Late afternoon through evening, ideally arriving by 5pm to get a seat facing the water for sunset, then staying after dark when the beach lights come on.
   - q: What kind of food does it serve?
-    a: >-
-      Casual beach-bar fare: grilled and fried seafood like squid, prawns, and
-      fish, plus Vietnamese beer, fruit shakes, and cocktails — good for grazing
-      rather than a formal sit-down meal.
+    a: 'Casual beach-bar fare: grilled and fried seafood like squid, prawns, and fish, plus Vietnamese beer, fruit shakes, and cocktails — good for grazing rather than a formal sit-down meal.'
   - q: Is it busy on weekends?
-    a: >-
-      Yes — weekends and high season (roughly April to August) draw the biggest
-      crowds, so weekday visits or early arrival are recommended if you want a
-      quieter beachfront table.
+    a: Yes — weekends and high season (roughly April to August) draw the biggest crowds, so weekday visits or early arrival are recommended if you want a quieter beachfront table.
   - q: What else is nearby?
-    a: >-
-      The Ha Long Sun Wheel is right next door, and the Bãi Cháy promenade leads
-      toward the piers where many bay cruises and boat tours to Cua Van floating
-      village depart.
+    a: The Ha Long Sun Wheel is right next door, and the Bãi Cháy promenade leads toward the piers where many bay cruises and boat tours to Cua Van floating village depart.
 aiGenerated: true
-draft: false
+draft: true
 updatedDate: '2026-07-24'
 ---
 

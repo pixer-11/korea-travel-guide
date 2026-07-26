@@ -1,48 +1,57 @@
 ---
-title: "Hug Street Food, Kata: Where to Eat in Phuket"
-description: "Hug Street Food is a small, high-rated street-food stall/casual eatery in Kata (Karon subdistrict), just off Kata Beach's main strip on Thanon Kake Kwan."
-country: "Thailand"
-region: "Phuket"
-category: "restaurant"
-pubDate: "2026-07-22T09:24:19.655Z"
+title: 'Hug Street Food, Kata: Where to Eat in Phuket'
+description: Hug Street Food is a small, high-rated street-food stall/casual eatery in Kata (Karon subdistrict), just off Kata Beach's main strip on Thanon Kake Kwan.
+country: Thailand
+region: Phuket
+category: restaurant
+pubDate: '2026-07-22T09:24:19.655Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Phuket_Town_Thailand-Murals-in-Phang-Nga-Road-03.jpg/1920px-Phuket_Town_Thailand-Murals-in-Phang-Nga-Road-03.jpg"
-  credit: "Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Phuket_Town_Thailand-Murals-in-Phang-Nga-Road-03.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Phuket_Town_Thailand-Murals-in-Phang-Nga-Road-03.jpg/1920px-Phuket_Town_Thailand-Murals-in-Phang-Nga-Road-03.jpg
+  credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Phuket_Town_Thailand-Murals-in-Phang-Nga-Road-03.jpg
 gallery: []
 place:
-  id: "ChIJTxNPXE0lUDARcms58624dYA"
-  name: "Hug Street Food, Kata Phuket"
-  address: "1 Thanon Kake Kwan Kata Beach, Tambon Karon, Amphoe Mueang Phuket, Chang Wat Phuket 83100, Thailand"
+  id: ChIJTxNPXE0lUDARcms58624dYA
+  name: Hug Street Food, Kata Phuket
+  address: 1 Thanon Kake Kwan Kata Beach, Tambon Karon, Amphoe Mueang Phuket, Chang Wat Phuket 83100, Thailand
   rating: 4.8
   userRatingsTotal: 421
-  googleMapsUrl: "https://maps.google.com/?cid=9256507666379402098&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=9256507666379402098&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 7.8224830999999995
   lng: 98.30285479999999
   busyness:
     updated: '2026-07-23'
-    weekdayBusy: [19, 20, 21]
-    weekendBusy: [11, 12, 18, 19, 20, 21]
-    venueId: 'ven_4159643432363835736d63524144556c304558504e78544a496843'
+    weekdayBusy:
+      - 19
+      - 20
+      - 21
+    weekendBusy:
+      - 11
+      - 12
+      - 18
+      - 19
+      - 20
+      - 21
+    venueId: ven_4159643432363835736d63524144556c304558504e78544a496843
 tags:
-  - "phuket"
-  - "street food"
-quickAnswer: "Hug Street Food is a small, high-rated street-food stall/casual eatery in Kata (Karon subdistrict), just off Kata Beach's main strip on Thanon Kake Kwan. Go for Thai classics — pad thai, som tam, grilled meats, curries — cooked fresh and cheap, ideally for an early dinner before the sunset crowds hit the beach road. With a 4.8 rating from 421+ reviews, it's best treated as a quick, satisfying stop rather than a sit-down splurge, so arrive hungry and expect to share a table or grab a stool."
+  - phuket
+  - street food
+quickAnswer: Hug Street Food is a small, high-rated street-food stall/casual eatery in Kata (Karon subdistrict), just off Kata Beach's main strip on Thanon Kake Kwan. Go for Thai classics — pad thai, som tam, grilled meats, curries — cooked fresh and cheap, ideally for an early dinner before the sunset crowds hit the beach road. With a 4.8 rating from 421+ reviews, it's best treated as a quick, satisfying stop rather than a sit-down splurge, so arrive hungry and expect to share a table or grab a stool.
 faq:
-  - q: "How do I get to Hug Street Food in Kata?"
-    a: "It's on Thanon Kake Kwan in the Kata Beach area. Easiest options are a Grab ride, taxi, or rental scooter, since Phuket has no rail transit; it's about a 10-15 minute drive from Karon Beach and 40-60 minutes from Phuket Old Town."
-  - q: "Is Hug Street Food expensive?"
-    a: "As a street-food-style eatery, it's typically far cheaper than beachfront restaurants nearby, though exact prices vary — confirm current menu prices on arrival rather than relying on old reviews."
-  - q: "What's the best time to visit?"
-    a: "Early evening (around 6-7:30pm) avoids the heat and the post-sunset dinner rush. Shoulder season (April or October) tends to be quieter than the busy November-March high season."
-  - q: "How long should I plan to spend there?"
-    a: "As a casual street-food spot, 30-60 minutes is typical — enough to order a couple of shared dishes and eat before heading to Kata Beach for sunset."
-  - q: "What should I order?"
-    a: "Classic Thai street-food dishes are the safest bet: pad thai, som tam (green papaya salad), moo ping (grilled pork skewers), and pad kra pao (basil chicken)."
+  - q: How do I get to Hug Street Food in Kata?
+    a: It's on Thanon Kake Kwan in the Kata Beach area. Easiest options are a Grab ride, taxi, or rental scooter, since Phuket has no rail transit; it's about a 10-15 minute drive from Karon Beach and 40-60 minutes from Phuket Old Town.
+  - q: Is Hug Street Food expensive?
+    a: As a street-food-style eatery, it's typically far cheaper than beachfront restaurants nearby, though exact prices vary — confirm current menu prices on arrival rather than relying on old reviews.
+  - q: What's the best time to visit?
+    a: Early evening (around 6-7:30pm) avoids the heat and the post-sunset dinner rush. Shoulder season (April or October) tends to be quieter than the busy November-March high season.
+  - q: How long should I plan to spend there?
+    a: As a casual street-food spot, 30-60 minutes is typical — enough to order a couple of shared dishes and eat before heading to Kata Beach for sunset.
+  - q: What should I order?
+    a: 'Classic Thai street-food dishes are the safest bet: pad thai, som tam (green papaya salad), moo ping (grilled pork skewers), and pad kra pao (basil chicken).'
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

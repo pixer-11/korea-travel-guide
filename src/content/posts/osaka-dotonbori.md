@@ -1,43 +1,43 @@
 ---
-title: "Dotonbori: Where to Eat in Osaka"
-description: "Dotonbori, along the canal in Chuo Ward, is Osaka's best one-stop strip for the city's signature street food — takoyaki, okonomiyaki, kushikatsu, and ramen"
-country: "Japan"
-region: "Osaka"
-category: "restaurant"
-pubDate: 2026-07-21
+title: 'Dotonbori: Where to Eat in Osaka'
+description: Dotonbori, along the canal in Chuo Ward, is Osaka's best one-stop strip for the city's signature street food — takoyaki, okonomiyaki, kushikatsu, and ramen
+country: Japan
+region: Osaka
+category: restaurant
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Osaka_Dotonbori_Canal.jpg/1920px-Osaka_Dotonbori_Canal.jpg"
-  credit: "Photo: 32linesky / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Osaka_Dotonbori_Canal.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Osaka_Dotonbori_Canal.jpg/1920px-Osaka_Dotonbori_Canal.jpg
+  credit: 'Photo: 32linesky / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Osaka_Dotonbori_Canal.jpg
 gallery: []
 place:
-  id: "ChIJ_fmKgRPnAGARkKWLtCYTu7g"
-  name: "Dotonbori"
-  address: "1 Chome-9 Dotonbori, Chuo Ward, Osaka, 542-0071, Japan"
+  id: ChIJ_fmKgRPnAGARkKWLtCYTu7g
+  name: Dotonbori
+  address: 1 Chome-9 Dotonbori, Chuo Ward, Osaka, 542-0071, Japan
   rating: 4.4
   userRatingsTotal: 84766
-  googleMapsUrl: "https://maps.google.com/?cid=13311254180582368656&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=13311254180582368656&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.6687234
   lng: 135.5012971
 tags:
-  - "osaka"
-  - "Dotonbori"
-quickAnswer: "Dotonbori, along the canal in Chuo Ward, is Osaka's best one-stop strip for the city's signature street food — takoyaki, okonomiyaki, kushikatsu, and ramen — eaten standing up under neon billboards like the Glico Running Man. Come hungry between 5–8pm for full atmosphere, spend 2–3 hours grazing rather than sitting for one meal, and expect crowds year-round."
+  - osaka
+  - Dotonbori
+quickAnswer: Dotonbori, along the canal in Chuo Ward, is Osaka's best one-stop strip for the city's signature street food — takoyaki, okonomiyaki, kushikatsu, and ramen — eaten standing up under neon billboards like the Glico Running Man. Come hungry between 5–8pm for full atmosphere, spend 2–3 hours grazing rather than sitting for one meal, and expect crowds year-round.
 faq:
-  - q: "What's the nearest station to Dotonbori?"
-    a: "Namba Station (Midosuji, Yotsubashi, Sennichimae subway lines, plus Nankai/Kintetsu) is closest — use exit 14 or 25 and walk about 5 minutes north to the canal."
-  - q: "How much time should I budget?"
-    a: "Plan on 2–3 hours to walk the strip and graze at multiple stalls; it's designed for sampling several dishes rather than one long sit-down meal."
-  - q: "What food is Dotonbori known for?"
-    a: "Takoyaki, okonomiyaki/modanyaki, kushikatsu, and Osaka-style ramen are the signature dishes; the giant mechanical crab and Glico Running Man signs mark well-known spots."
-  - q: "Is Dotonbori expensive?"
-    a: "Street food like takoyaki and skewers is inexpensive (a few hundred yen per item), making it easy to eat well on a modest budget; sit-down restaurants cost more but rarely reach high-end pricing."
-  - q: "When is the best time to visit for photos without heavy crowds?"
-    a: "Arrive around 4:30–5pm as the billboards light up but before the peak dinner crowd, or visit on a weekday for a comparatively calmer walk."
+  - q: What's the nearest station to Dotonbori?
+    a: Namba Station (Midosuji, Yotsubashi, Sennichimae subway lines, plus Nankai/Kintetsu) is closest — use exit 14 or 25 and walk about 5 minutes north to the canal.
+  - q: How much time should I budget?
+    a: Plan on 2–3 hours to walk the strip and graze at multiple stalls; it's designed for sampling several dishes rather than one long sit-down meal.
+  - q: What food is Dotonbori known for?
+    a: Takoyaki, okonomiyaki/modanyaki, kushikatsu, and Osaka-style ramen are the signature dishes; the giant mechanical crab and Glico Running Man signs mark well-known spots.
+  - q: Is Dotonbori expensive?
+    a: Street food like takoyaki and skewers is inexpensive (a few hundred yen per item), making it easy to eat well on a modest budget; sit-down restaurants cost more but rarely reach high-end pricing.
+  - q: When is the best time to visit for photos without heavy crowds?
+    a: Arrive around 4:30–5pm as the billboards light up but before the peak dinner crowd, or visit on a weekday for a comparatively calmer walk.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Dotonbori is Osaka's food capital

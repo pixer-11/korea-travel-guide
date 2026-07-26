@@ -1,44 +1,44 @@
 ---
-title: "Namaste Haeundae: Where to Eat in Busan"
-description: "Namaste Haeundae is an Indian and Nepali restaurant tucked a few minutes' walk inland from Haeundae Beach, popular for tandoori dishes, curries, and fresh"
-country: "South Korea"
-region: "Busan"
-category: "restaurant"
-pubDate: "2026-07-24T22:19:27.461Z"
+title: 'Namaste Haeundae: Where to Eat in Busan'
+description: Namaste Haeundae is an Indian and Nepali restaurant tucked a few minutes' walk inland from Haeundae Beach, popular for tandoori dishes, curries, and fresh
+country: South Korea
+region: Busan
+category: restaurant
+pubDate: '2026-07-24T22:19:27.461Z'
 heroImage:
-  url: "https://images.unsplash.com/photo-1776114003167-07537fb3f0f5?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8QnVzYW4lMjBTb3V0aCUyMEtvcmVhJTIwbG9jYWwlMjByZXN0YXVyYW50fGVufDB8MHx8fDE3ODQ5MzE1Mzh8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Baris Sari on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@barissari?utm_source=korea_travel_guide&utm_medium=referral"
+  url: https://images.unsplash.com/photo-1776114003167-07537fb3f0f5?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8QnVzYW4lMjBTb3V0aCUyMEtvcmVhJTIwbG9jYWwlMjByZXN0YXVyYW50fGVufDB8MHx8fDE3ODQ5MzE1Mzh8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Baris Sari on Unsplash
+  license: unsplash
+  source: https://unsplash.com/@barissari?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
-  id: "ChIJwRRdMVyNaDUR3gs_IgM-ACU"
-  name: "Namaste Haeundae"
-  address: "7 Haeundaehaebyeon-ro 265beon-gil, Haeundae, Busan, South Korea"
+  id: ChIJwRRdMVyNaDUR3gs_IgM-ACU
+  name: Namaste Haeundae
+  address: 7 Haeundaehaebyeon-ro 265beon-gil, Haeundae, Busan, South Korea
   rating: 4.8
   userRatingsTotal: 3268
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=2666199162583714782&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=2666199162583714782&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.160153699999995
   lng: 129.16063929999999
 tags:
-  - "busan"
-  - "local restaurant"
-quickAnswer: "Namaste Haeundae is an Indian and Nepali restaurant tucked a few minutes' walk inland from Haeundae Beach, popular for tandoori dishes, curries, and fresh naan at moderate prices (4.8 rating from over 3,200 reviews). Go for lunch or an early dinner (before 6:30pm) to avoid the wait, and pair a visit with a stroll along Haeundae Beach or the nearby Dalmaji-gil coastal road."
+  - busan
+  - local restaurant
+quickAnswer: Namaste Haeundae is an Indian and Nepali restaurant tucked a few minutes' walk inland from Haeundae Beach, popular for tandoori dishes, curries, and fresh naan at moderate prices (4.8 rating from over 3,200 reviews). Go for lunch or an early dinner (before 6:30pm) to avoid the wait, and pair a visit with a stroll along Haeundae Beach or the nearby Dalmaji-gil coastal road.
 faq:
-  - q: "How do I get to Namaste Haeundae without a car?"
-    a: "Take Busan Metro Line 2 to Haeundae Station, exit 5, then walk about 10–15 minutes toward the beachfront lanes where the restaurant is located."
-  - q: "Is it expensive?"
-    a: "It's mid-range for Busan — priced above casual street food but below upscale dining, with dishes generally meant for sharing between two or more people."
-  - q: "What should I order first?"
-    a: "Butter chicken or chicken tikka masala with garlic naan is a common starting combo, and saag paneer is a solid vegetarian pick."
-  - q: "What's the best time to avoid a wait?"
-    a: "Early lunch (around noon) or dinner before 6:30pm tends to be quieter than peak evening hours, especially in the busy summer months."
-  - q: "What else can I do nearby?"
-    a: "Haeundae Beach, the Haeundae Traditional Market, SEA LIFE Busan Aquarium, and the Dalmaji-gil coastal road are all within easy walking or short taxi distance."
+  - q: How do I get to Namaste Haeundae without a car?
+    a: Take Busan Metro Line 2 to Haeundae Station, exit 5, then walk about 10–15 minutes toward the beachfront lanes where the restaurant is located.
+  - q: Is it expensive?
+    a: It's mid-range for Busan — priced above casual street food but below upscale dining, with dishes generally meant for sharing between two or more people.
+  - q: What should I order first?
+    a: Butter chicken or chicken tikka masala with garlic naan is a common starting combo, and saag paneer is a solid vegetarian pick.
+  - q: What's the best time to avoid a wait?
+    a: Early lunch (around noon) or dinner before 6:30pm tends to be quieter than peak evening hours, especially in the busy summer months.
+  - q: What else can I do nearby?
+    a: Haeundae Beach, the Haeundae Traditional Market, SEA LIFE Busan Aquarium, and the Dalmaji-gil coastal road are all within easy walking or short taxi distance.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

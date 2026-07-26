@@ -1,43 +1,43 @@
 ---
-title: "Salt & Oak: Where to Eat in Koh Samui"
-description: "Salt & Oak is a wood-fired grill and open-kitchen restaurant in Bo Put, on the northeast side of Koh Samui near Fisherman's Village, rated 4.8 from over"
-country: "Thailand"
-region: "Koh Samui"
-category: "restaurant"
-pubDate: "2026-07-22T09:12:54.745Z"
+title: 'Salt & Oak: Where to Eat in Koh Samui'
+description: Salt & Oak is a wood-fired grill and open-kitchen restaurant in Bo Put, on the northeast side of Koh Samui near Fisherman's Village, rated 4.8 from over
+country: Thailand
+region: Koh Samui
+category: restaurant
+pubDate: '2026-07-22T09:12:54.745Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Oak_Island_Salt_Marsh_%2827156691373%29.jpg/1920px-Oak_Island_Salt_Marsh_%2827156691373%29.jpg"
-  credit: "Photo: Tom Long from Oak Island, USA / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Oak_Island_Salt_Marsh_(27156691373).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Oak_Island_Salt_Marsh_%2827156691373%29.jpg/1920px-Oak_Island_Salt_Marsh_%2827156691373%29.jpg
+  credit: 'Photo: Tom Long from Oak Island, USA / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Oak_Island_Salt_Marsh_(27156691373).jpg
 gallery: []
 place:
-  id: "ChIJR3PLtNjxVDARKME5gaIWlaw"
-  name: "Salt & Oak"
-  address: "24/36, Bo Put, Amphoe Koh samui, ตำบล บ่อผุด koh samui, สุราษฎร์ธานี 84320, Thailand"
+  id: ChIJR3PLtNjxVDARKME5gaIWlaw
+  name: Salt & Oak
+  address: 24/36, Bo Put, Amphoe Koh samui, ตำบล บ่อผุด koh samui, สุราษฎร์ธานี 84320, Thailand
   rating: 4.8
   userRatingsTotal: 1269
-  googleMapsUrl: "https://maps.google.com/?cid=12435870833262051624&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=12435870833262051624&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 9.5605841
   lng: 100.0283669
 tags:
-  - "koh samui"
-  - "local restaurant"
-quickAnswer: "Salt & Oak is a wood-fired grill and open-kitchen restaurant in Bo Put, on the northeast side of Koh Samui near Fisherman's Village, rated 4.8 from over 1,200 reviews. Go for dinner (book ahead, especially in high season from November to March), plan on 90 minutes to two hours for a multi-course meal, and pair it with an evening stroll through Fisherman's Village's walking street market if you go on a Friday."
+  - koh samui
+  - local restaurant
+quickAnswer: Salt & Oak is a wood-fired grill and open-kitchen restaurant in Bo Put, on the northeast side of Koh Samui near Fisherman's Village, rated 4.8 from over 1,200 reviews. Go for dinner (book ahead, especially in high season from November to March), plan on 90 minutes to two hours for a multi-course meal, and pair it with an evening stroll through Fisherman's Village's walking street market if you go on a Friday.
 faq:
-  - q: "Where exactly is Salt & Oak located?"
-    a: "It's in Bo Put, on Koh Samui's north coast, close to Fisherman's Village — address 24/36, Bo Put, Koh Samui, Surat Thani 84320."
-  - q: "How do I get there without a rental car?"
-    a: "Use Grab or a hotel-arranged taxi/driver; Samui has no metered taxi system, so agree on a fare upfront if hailing a car directly. From Chaweng it's about a 15-20 minute drive."
-  - q: "Do I need a reservation?"
-    a: "It's advisable, especially during high season (November-March) and on weekends, given its high review volume and small, intimate setting typical of independent Samui restaurants."
-  - q: "How long should I plan for a meal here?"
-    a: "Budget 90 minutes to two hours for a full dinner with shared starters and grilled mains, more if you linger over drinks."
-  - q: "What's nearby to combine with dinner?"
-    a: "Fisherman's Village is a short 5-10 minute ride away, best visited on Friday evenings for its walking street market, or pair with a sunset walk on quieter Bo Put beach."
+  - q: Where exactly is Salt & Oak located?
+    a: It's in Bo Put, on Koh Samui's north coast, close to Fisherman's Village — address 24/36, Bo Put, Koh Samui, Surat Thani 84320.
+  - q: How do I get there without a rental car?
+    a: Use Grab or a hotel-arranged taxi/driver; Samui has no metered taxi system, so agree on a fare upfront if hailing a car directly. From Chaweng it's about a 15-20 minute drive.
+  - q: Do I need a reservation?
+    a: It's advisable, especially during high season (November-March) and on weekends, given its high review volume and small, intimate setting typical of independent Samui restaurants.
+  - q: How long should I plan for a meal here?
+    a: Budget 90 minutes to two hours for a full dinner with shared starters and grilled mains, more if you linger over drinks.
+  - q: What's nearby to combine with dinner?
+    a: Fisherman's Village is a short 5-10 minute ride away, best visited on Friday evenings for its walking street market, or pair with a sunset walk on quieter Bo Put beach.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Salt & Oak stands out

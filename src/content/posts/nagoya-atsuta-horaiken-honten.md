@@ -1,51 +1,69 @@
 ---
-title: "Atsuta Hōraiken Honten: Where to Eat in Nagoya"
-description: "Atsuta Hōraiken Honten, near Atsuta Jingu shrine in Nagoya, is the birthplace of hitsumabushi — grilled, soy-glazed eel served over rice and eaten three"
-country: "Japan"
-region: "Nagoya"
-category: "restaurant"
-pubDate: 2026-07-21
+title: 'Atsuta Hōraiken Honten: Where to Eat in Nagoya'
+description: Atsuta Hōraiken Honten, near Atsuta Jingu shrine in Nagoya, is the birthplace of hitsumabushi — grilled, soy-glazed eel served over rice and eaten three
+country: Japan
+region: Nagoya
+category: restaurant
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1708373130353-a2d6710af5ca?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8TmFnb3lhJTIwSmFwYW58ZW58MHwwfHx8MTc4NDYyNzUwN3ww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Steffen Triekels on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@noxiderp?utm_source=korea_travel_guide&utm_medium=referral"
+  url: https://images.unsplash.com/photo-1708373130353-a2d6710af5ca?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8TmFnb3lhJTIwSmFwYW58ZW58MHwwfHx8MTc4NDYyNzUwN3ww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Steffen Triekels on Unsplash
+  license: unsplash
+  source: https://unsplash.com/@noxiderp?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
-  id: "ChIJJRIRWR96A2AR1pCxwc4H298"
-  name: "Atsuta Hōraiken Honten"
-  address: "503 Gōdochō, Atsuta Ward, Nagoya, Aichi 456-0043, Japan"
+  id: ChIJJRIRWR96A2AR1pCxwc4H298
+  name: Atsuta Hōraiken Honten
+  address: 503 Gōdochō, Atsuta Ward, Nagoya, Aichi 456-0043, Japan
   rating: 4.5
   userRatingsTotal: 7650
   priceLevel: 3
-  googleMapsUrl: "https://maps.google.com/?cid=16130495074951860438&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=16130495074951860438&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.120168899999996
   lng: 136.9068979
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [14]
-    weekdayBusy: [11, 12, 13, 16, 17, 18, 19, 20]
-    weekendQuiet: [14]
-    weekendBusy: [11, 12, 13, 16, 17, 18, 19, 20]
-    venueId: 'ven_383932483463777843703152413241363952575249524a4a496843'
+    weekdayQuiet:
+      - 14
+    weekdayBusy:
+      - 11
+      - 12
+      - 13
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+    weekendQuiet:
+      - 14
+    weekendBusy:
+      - 11
+      - 12
+      - 13
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+    venueId: ven_383932483463777843703152413241363952575249524a4a496843
 tags:
-  - "nagoya"
-  - "local restaurant"
-quickAnswer: "Atsuta Hōraiken Honten, near Atsuta Jingu shrine in Nagoya, is the birthplace of hitsumabushi — grilled, soy-glazed eel served over rice and eaten three ways. Expect a wait (no reservations for lunch at the honten), a bill in the ¥5,000–7,000 range per person, and roughly 45–60 minutes for the full meal. Go hungry, go early, and pair the visit with a stroll through Atsuta Jingu."
+  - nagoya
+  - local restaurant
+quickAnswer: Atsuta Hōraiken Honten, near Atsuta Jingu shrine in Nagoya, is the birthplace of hitsumabushi — grilled, soy-glazed eel served over rice and eaten three ways. Expect a wait (no reservations for lunch at the honten), a bill in the ¥5,000–7,000 range per person, and roughly 45–60 minutes for the full meal. Go hungry, go early, and pair the visit with a stroll through Atsuta Jingu.
 faq:
-  - q: "Do I need a reservation?"
-    a: "The Atsuta honten typically does not take reservations for lunch, so arrive at or before opening to minimize the wait; dinner may allow reservations depending on the season, so it's worth calling ahead or checking with your accommodation."
-  - q: "How much does a meal cost?"
-    a: "Plan for roughly ¥5,000–7,000 per person for a hitsumabushi set with rice, soup, and pickles, given the restaurant's mid-to-upper price level; exact prices vary by portion size and season, so confirm current menu pricing on arrival."
-  - q: "How do I get there without a car?"
-    a: "Take the Meitetsu Nagoya Main Line to Jingu-mae Station or the Meijo subway line to Jingu Nishi Station, both a short walk from Atsuta Jingu and the restaurant, roughly 10–15 minutes from central Nagoya Station."
-  - q: "How long should I budget for the visit?"
-    a: "Expect 30–60 minutes of waiting for a table (longer on weekends), plus 45–60 minutes to eat, so budgeting about two hours total, including a walk through nearby Atsuta Jingu, works well."
-  - q: "What's the best time of year to visit?"
-    a: "Spring and autumn tend to have shorter waits; midsummer, especially around the day of the ox in late July, is the traditional eel-eating season and the busiest, priciest time to go."
+  - q: Do I need a reservation?
+    a: The Atsuta honten typically does not take reservations for lunch, so arrive at or before opening to minimize the wait; dinner may allow reservations depending on the season, so it's worth calling ahead or checking with your accommodation.
+  - q: How much does a meal cost?
+    a: Plan for roughly ¥5,000–7,000 per person for a hitsumabushi set with rice, soup, and pickles, given the restaurant's mid-to-upper price level; exact prices vary by portion size and season, so confirm current menu pricing on arrival.
+  - q: How do I get there without a car?
+    a: Take the Meitetsu Nagoya Main Line to Jingu-mae Station or the Meijo subway line to Jingu Nishi Station, both a short walk from Atsuta Jingu and the restaurant, roughly 10–15 minutes from central Nagoya Station.
+  - q: How long should I budget for the visit?
+    a: Expect 30–60 minutes of waiting for a table (longer on weekends), plus 45–60 minutes to eat, so budgeting about two hours total, including a walk through nearby Atsuta Jingu, works well.
+  - q: What's the best time of year to visit?
+    a: Spring and autumn tend to have shorter waits; midsummer, especially around the day of the ox in late July, is the traditional eel-eating season and the busiest, priciest time to go.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

@@ -1,43 +1,43 @@
 ---
-title: "Le Noir: Where to Eat in Marina Bay"
-description: "Le Noir is a moody, art-filled bar-restaurant inside The Shoppes at Marina Bay Sands (unit #01-84), best booked for a pre- or post-dinner cocktail and small"
-country: "Singapore"
-region: "Marina Bay"
-category: "restaurant"
-pubDate: "2026-07-23T07:33:48.551Z"
+title: 'Le Noir: Where to Eat in Marina Bay'
+description: 'Le Noir is a moody, art-filled bar-restaurant inside The Shoppes at Marina Bay Sands (unit #01-84), best booked for a pre- or post-dinner cocktail and small'
+country: Singapore
+region: Marina Bay
+category: restaurant
+pubDate: '2026-07-23T07:33:48.551Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Les_subsistances_%28noir_et_blanc%29.jpg/1920px-Les_subsistances_%28noir_et_blanc%29.jpg"
-  credit: "Photo: Librospect / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Les_subsistances_(noir_et_blanc).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Les_subsistances_%28noir_et_blanc%29.jpg/1920px-Les_subsistances_%28noir_et_blanc%29.jpg
+  credit: 'Photo: Librospect / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Les_subsistances_(noir_et_blanc).jpg
 gallery: []
 place:
-  id: "ChIJN_ApgQsZ2jERt0GKXxIitmE"
-  name: "Le Noir"
-  address: "2 Bayfront Ave, #01 - 84, Singapore 018972"
+  id: ChIJN_ApgQsZ2jERt0GKXxIitmE
+  name: Le Noir
+  address: '2 Bayfront Ave, #01 - 84, Singapore 018972'
   rating: 4.8
   userRatingsTotal: 3071
-  googleMapsUrl: "https://maps.google.com/?cid=7040852529748001207&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=7040852529748001207&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.2845342
   lng: 103.8589185
 tags:
-  - "marina bay"
-  - "local restaurant"
-quickAnswer: "Le Noir is a moody, art-filled bar-restaurant inside The Shoppes at Marina Bay Sands (unit #01-84), best booked for a pre- or post-dinner cocktail and small plates rather than a full sit-down meal. With a 4.8 rating across more than 3,000 reviews, it's well-known rather than a secret find, so reserve ahead and aim for an early evening slot if you want a quieter table."
+  - marina bay
+  - local restaurant
+quickAnswer: 'Le Noir is a moody, art-filled bar-restaurant inside The Shoppes at Marina Bay Sands (unit #01-84), best booked for a pre- or post-dinner cocktail and small plates rather than a full sit-down meal. With a 4.8 rating across more than 3,000 reviews, it''s well-known rather than a secret find, so reserve ahead and aim for an early evening slot if you want a quieter table.'
 faq:
-  - q: "How do I get to Le Noir by public transport?"
-    a: "Take the MRT to Bayfront Station (Circle or Downtown line) and follow the underground link directly into The Shoppes at Marina Bay Sands, then head to unit #01-84 on the first floor."
-  - q: "Do I need a reservation?"
-    a: "It's strongly recommended, especially Friday and Saturday evenings, since Le Noir is a well-known bar within the Marina Bay Sands complex and tables fill quickly during peak hours."
-  - q: "What's the best time to visit for a quieter experience?"
-    a: "Early evening on a weeknight, roughly 6 to 7:30pm, tends to be calmer than the later, livelier weekend bar crowd."
-  - q: "Is Le Noir more of a bar or a restaurant?"
-    a: "It functions as both — a cocktail-forward bar with an elaborate presentation style, plus a small-plates and dinner menu, so it works for a quick drink or a longer meal."
-  - q: "What else is nearby to combine with a visit?"
-    a: "The ArtScience Museum, the Sands SkyPark, and the nightly Spectra light show along the waterfront are all within walking distance."
+  - q: How do I get to Le Noir by public transport?
+    a: 'Take the MRT to Bayfront Station (Circle or Downtown line) and follow the underground link directly into The Shoppes at Marina Bay Sands, then head to unit #01-84 on the first floor.'
+  - q: Do I need a reservation?
+    a: It's strongly recommended, especially Friday and Saturday evenings, since Le Noir is a well-known bar within the Marina Bay Sands complex and tables fill quickly during peak hours.
+  - q: What's the best time to visit for a quieter experience?
+    a: Early evening on a weeknight, roughly 6 to 7:30pm, tends to be calmer than the later, livelier weekend bar crowd.
+  - q: Is Le Noir more of a bar or a restaurant?
+    a: It functions as both — a cocktail-forward bar with an elaborate presentation style, plus a small-plates and dinner menu, so it works for a quick drink or a longer meal.
+  - q: What else is nearby to combine with a visit?
+    a: The ArtScience Museum, the Sands SkyPark, and the nightly Spectra light show along the waterfront are all within walking distance.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

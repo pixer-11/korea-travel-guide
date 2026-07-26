@@ -1,43 +1,43 @@
 ---
-title: "Sendang Gile Waterfall: Lombok Travel Guide"
-description: "Sendang Gile is a two-tier waterfall on the southern slope of Mount Rinjani, reached via a short, well-maintained trail from Senaru village in North Lombok."
-country: "Indonesia"
-region: "Lombok"
-category: "attraction"
-pubDate: "2026-07-23T07:13:35.767Z"
+title: 'Sendang Gile Waterfall: Lombok Travel Guide'
+description: Sendang Gile is a two-tier waterfall on the southern slope of Mount Rinjani, reached via a short, well-maintained trail from Senaru village in North Lombok.
+country: Indonesia
+region: Lombok
+category: attraction
+pubDate: '2026-07-23T07:13:35.767Z'
 heroImage:
-  url: "https://images.unsplash.com/photo-1607427225127-a4ae1d4b050c?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8TG9tYm9rJTIwSW5kb25lc2lhJTIwdG9wJTIwYXR0cmFjdGlvbnxlbnwwfDB8fHwxNzg0NzkwNzg1fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Denissa Devy on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@denissadevy?utm_source=korea_travel_guide&utm_medium=referral"
+  url: https://images.unsplash.com/photo-1607427225127-a4ae1d4b050c?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8TG9tYm9rJTIwSW5kb25lc2lhJTIwdG9wJTIwYXR0cmFjdGlvbnxlbnwwfDB8fHwxNzg0NzkwNzg1fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Denissa Devy on Unsplash
+  license: unsplash
+  source: https://unsplash.com/@denissadevy?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
-  id: "ChIJD87VUP_VzS0RM4YPd7ICqSE"
-  name: "Sendang Gile Waterfall"
-  address: "MCV5+G84 Air Terjun Sendang Gile, Jl. Pariwisata, Senaru, Kec. Bayan, Kabupaten Lombok Utara, Nusa Tenggara Bar. 83354, Indonesia"
+  id: ChIJD87VUP_VzS0RM4YPd7ICqSE
+  name: Sendang Gile Waterfall
+  address: MCV5+G84 Air Terjun Sendang Gile, Jl. Pariwisata, Senaru, Kec. Bayan, Kabupaten Lombok Utara, Nusa Tenggara Bar. 83354, Indonesia
   rating: 4.6
   userRatingsTotal: 2108
-  googleMapsUrl: "https://maps.google.com/?cid=2425472839840663091&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=2425472839840663091&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -8.306241199999999
   lng: 116.4083416
 tags:
-  - "lombok"
-  - "top attraction"
-quickAnswer: "Sendang Gile is a two-tier waterfall on the southern slope of Mount Rinjani, reached via a short, well-maintained trail from Senaru village in North Lombok. Budget 1.5–2 hours to see both Sendang Gile and the higher Tiu Kelep falls, wear grippy sandals or trail shoes, and go early morning (before 9am) to beat tour groups and afternoon rain."
+  - lombok
+  - top attraction
+quickAnswer: Sendang Gile is a two-tier waterfall on the southern slope of Mount Rinjani, reached via a short, well-maintained trail from Senaru village in North Lombok. Budget 1.5–2 hours to see both Sendang Gile and the higher Tiu Kelep falls, wear grippy sandals or trail shoes, and go early morning (before 9am) to beat tour groups and afternoon rain.
 faq:
-  - q: "How long does it take to see both waterfalls?"
-    a: "Budget 2–3 hours round trip: about 20 minutes down to Sendang Gile, then another 30–45 minutes each way on the rougher trail to Tiu Kelep, plus time for swimming and photos."
-  - q: "Do I need a guide?"
-    a: "Not required for Sendang Gile, but recommended for the Tiu Kelep trail, which involves river crossings that can be tricky after rain. Agree on a price in cash before starting."
-  - q: "What should I wear or bring?"
-    a: "Grippy sandals or trail shoes (not flip-flops), a swimsuit under your clothes, a dry bag for phones/cameras, and cash in small rupiah notes for entry and parking fees."
-  - q: "What's the best time of day and year to visit?"
-    a: "Go early morning, ideally before 10am, and during dry season (April–October) for safer trails and clearer pools. Afternoons often bring rain, especially November–March."
-  - q: "How do I get there without a car?"
-    a: "There's no direct public transit to Senaru; most visitors hire a private car or motorbike from Senggigi, the airport, or take a boat to Bangsal then arrange onward transport, or join an organized Rinjani-area day tour."
+  - q: How long does it take to see both waterfalls?
+    a: 'Budget 2–3 hours round trip: about 20 minutes down to Sendang Gile, then another 30–45 minutes each way on the rougher trail to Tiu Kelep, plus time for swimming and photos.'
+  - q: Do I need a guide?
+    a: Not required for Sendang Gile, but recommended for the Tiu Kelep trail, which involves river crossings that can be tricky after rain. Agree on a price in cash before starting.
+  - q: What should I wear or bring?
+    a: Grippy sandals or trail shoes (not flip-flops), a swimsuit under your clothes, a dry bag for phones/cameras, and cash in small rupiah notes for entry and parking fees.
+  - q: What's the best time of day and year to visit?
+    a: Go early morning, ideally before 10am, and during dry season (April–October) for safer trails and clearer pools. Afternoons often bring rain, especially November–March.
+  - q: How do I get there without a car?
+    a: There's no direct public transit to Senaru; most visitors hire a private car or motorbike from Senggigi, the airport, or take a boat to Bangsal then arrange onward transport, or join an organized Rinjani-area day tour.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

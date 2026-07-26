@@ -1,50 +1,61 @@
 ---
-title: "EID Halal Korean Food: Where to Eat in Seoul"
-description: "EID Halal Korean Food is a small, no-frills eatery in Itaewon's Usadan-ro area (near the Seoul Central Mosque) serving halal-certified Korean dishes like"
-region: "Seoul"
-category: "restaurant"
-pubDate: 2026-07-21
+title: 'EID Halal Korean Food: Where to Eat in Seoul'
+description: EID Halal Korean Food is a small, no-frills eatery in Itaewon's Usadan-ro area (near the Seoul Central Mosque) serving halal-certified Korean dishes like
+region: Seoul
+category: restaurant
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gyedong-gil_street_with_climbing_plants_at_golden_hour_in_Seoul_South_Korea.jpg/1920px-Gyedong-gil_street_with_climbing_plants_at_golden_hour_in_Seoul_South_Korea.jpg"
-  credit: "Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Gyedong-gil_street_with_climbing_plants_at_golden_hour_in_Seoul_South_Korea.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gyedong-gil_street_with_climbing_plants_at_golden_hour_in_Seoul_South_Korea.jpg/1920px-Gyedong-gil_street_with_climbing_plants_at_golden_hour_in_Seoul_South_Korea.jpg
+  credit: 'Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Gyedong-gil_street_with_climbing_plants_at_golden_hour_in_Seoul_South_Korea.jpg
 gallery: []
 place:
-  id: "ChIJa0VtDbWjfDURqx-5tftT9es"
-  name: "EID Halal Korean Food"
-  address: "15 Usadan-ro 10-gil, Yongsan District, Seoul, South Korea"
+  id: ChIJa0VtDbWjfDURqx-5tftT9es
+  name: EID Halal Korean Food
+  address: 15 Usadan-ro 10-gil, Yongsan District, Seoul, South Korea
   rating: 4.5
   userRatingsTotal: 1196
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=17002588308757880747&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=17002588308757880747&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.533220400000005
   lng: 126.99638899999998
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [11, 12, 21]
-    weekdayBusy: [19]
-    weekendQuiet: [11, 21]
-    weekendBusy: [13, 14, 18, 19, 20]
-    venueId: 'ven_73653954746674352d7871525544666a576244745630614a496843'
+    weekdayQuiet:
+      - 11
+      - 12
+      - 21
+    weekdayBusy:
+      - 19
+    weekendQuiet:
+      - 11
+      - 21
+    weekendBusy:
+      - 13
+      - 14
+      - 18
+      - 19
+      - 20
+    venueId: ven_73653954746674352d7871525544666a576244745630614a496843
 tags:
-  - "seoul"
-  - "halal food Itaewon"
-quickAnswer: "EID Halal Korean Food is a small, no-frills eatery in Itaewon's Usadan-ro area (near the Seoul Central Mosque) serving halal-certified Korean dishes like halal bulgogi, dak-galbi, and Korean fried chicken. Go for lunch or early dinner, expect a short wait given its 4.5-star reputation from nearly 1,200 reviews, and pair the meal with a walk up to the mosque and the Islam Central Masjid market street. Budget mid-range (price level 2) — think ₩10,000–20,000 per dish."
+  - seoul
+  - halal food Itaewon
+quickAnswer: EID Halal Korean Food is a small, no-frills eatery in Itaewon's Usadan-ro area (near the Seoul Central Mosque) serving halal-certified Korean dishes like halal bulgogi, dak-galbi, and Korean fried chicken. Go for lunch or early dinner, expect a short wait given its 4.5-star reputation from nearly 1,200 reviews, and pair the meal with a walk up to the mosque and the Islam Central Masjid market street. Budget mid-range (price level 2) — think ₩10,000–20,000 per dish.
 faq:
-  - q: "How do I get to EID Halal Korean Food?"
-    a: "Take Line 6 to Itaewon Station, use Exit 3, then walk uphill about 10–12 minutes along Usadan-ro toward the Seoul Central Mosque; the restaurant is on Usadan-ro 10-gil just below the mosque."
-  - q: "How much does a meal cost?"
-    a: "It's a mid-range spot (price level 2), with most dishes like halal bulgogi or dak-galbi typically running around ₩10,000–20,000 per person — confirm current menu prices on-site since they can shift."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Weekday early afternoons between 2:30 and 5pm tend to be quietest. Avoid Friday around midday, when the street fills up after Jummah prayers at the neighboring mosque."
-  - q: "Is the food genuinely halal-certified?"
-    a: "The restaurant markets itself specifically as halal Korean food and is popular with Muslim visitors and the local mosque community, but as always with dietary requirements, ask staff about specific certification details if you need documentation."
-  - q: "What else is nearby worth seeing?"
-    a: "The Seoul Central Mosque is a two-minute walk uphill and open to visitors outside prayer times; the broader Itaewon district with its bars, boutiques, and the Leeum Museum of Art is a short walk or taxi ride away."
+  - q: How do I get to EID Halal Korean Food?
+    a: Take Line 6 to Itaewon Station, use Exit 3, then walk uphill about 10–12 minutes along Usadan-ro toward the Seoul Central Mosque; the restaurant is on Usadan-ro 10-gil just below the mosque.
+  - q: How much does a meal cost?
+    a: It's a mid-range spot (price level 2), with most dishes like halal bulgogi or dak-galbi typically running around ₩10,000–20,000 per person — confirm current menu prices on-site since they can shift.
+  - q: What's the best time to visit to avoid crowds?
+    a: Weekday early afternoons between 2:30 and 5pm tend to be quietest. Avoid Friday around midday, when the street fills up after Jummah prayers at the neighboring mosque.
+  - q: Is the food genuinely halal-certified?
+    a: The restaurant markets itself specifically as halal Korean food and is popular with Muslim visitors and the local mosque community, but as always with dietary requirements, ask staff about specific certification details if you need documentation.
+  - q: What else is nearby worth seeing?
+    a: The Seoul Central Mosque is a two-minute walk uphill and open to visitors outside prayer times; the broader Itaewon district with its bars, boutiques, and the Leeum Museum of Art is a short walk or taxi ride away.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

@@ -1,32 +1,24 @@
 ---
 title: 'Vietnamese Food - Hue Local Food & FastFood 22 Restaurant (Huế): Where to Eat'
-description: >-
-  Head to 22 Trần Huy Liệu in Phú Xuân ward, a few minutes' walk from Hue's
-  Citadel, for cheap, high-volume Vietnamese and Hue-style local food (rated 4.9
-  from
+description: Head to 22 Trần Huy Liệu in Phú Xuân ward, a few minutes' walk from Hue's Citadel, for cheap, high-volume Vietnamese and Hue-style local food (rated 4.9 from
 country: Vietnam
 region: Hue
 category: restaurant
 pubDate: '2026-07-22T09:42:51.214Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/New_Zealand_Ice_Cream%2C_Hue_%287073478309%29.jpg/1920px-New_Zealand_Ice_Cream%2C_Hue_%287073478309%29.jpg
-  credit: >-
-    Photo: David McKelvey from Brisbane, Australia / Wikimedia Commons (CC BY
-    2.0)
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/New_Zealand_Ice_Cream%2C_Hue_%287073478309%29.jpg/1920px-New_Zealand_Ice_Cream%2C_Hue_%287073478309%29.jpg
+  credit: 'Photo: David McKelvey from Brisbane, Australia / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:New_Zealand_Ice_Cream,_Hue_(7073478309).jpg
+  source: https://commons.wikimedia.org/wiki/File:New_Zealand_Ice_Cream,_Hue_(7073478309).jpg
 gallery: []
 place:
   id: ChIJKbK20-yhQTER9k6vw3uan_I
   name: Vietnamese Food - Hue Local Food & FastFood 22 Restaurant (Huế)
-  address: '22 Trần Huy Liệu, Phú Xuân, Huế 49000, Vietnam'
+  address: 22 Trần Huy Liệu, Phú Xuân, Huế 49000, Vietnam
   rating: 4.9
   userRatingsTotal: 2015
   priceLevel: 1
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=17482862134830255862&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=17482862134830255862&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 16.467523000000003
   lng: 107.58255709999999
@@ -47,41 +39,20 @@ place:
 tags:
   - hue
   - street food
-quickAnswer: >-
-  Head to 22 Trần Huy Liệu in Phú Xuân ward, a few minutes' walk from Hue's
-  Citadel, for cheap, high-volume Vietnamese and Hue-style local food (rated 4.9
-  from over 2,000 reviews). Budget under 100,000 VND for a full meal of Hue
-  specialties like bún bò Huế, bánh khoái, or com hen, and go at lunch or early
-  evening when turnover keeps everything fresh.
+quickAnswer: Head to 22 Trần Huy Liệu in Phú Xuân ward, a few minutes' walk from Hue's Citadel, for cheap, high-volume Vietnamese and Hue-style local food (rated 4.9 from over 2,000 reviews). Budget under 100,000 VND for a full meal of Hue specialties like bún bò Huế, bánh khoái, or com hen, and go at lunch or early evening when turnover keeps everything fresh.
 faq:
   - q: Where exactly is this restaurant located?
-    a: >-
-      At 22 Trần Huy Liệu, in Phú Xuân ward on the Citadel (north) side of the
-      Perfume River in Hue — a short taxi or Grab ride from most hotels in the
-      historic center.
+    a: At 22 Trần Huy Liệu, in Phú Xuân ward on the Citadel (north) side of the Perfume River in Hue — a short taxi or Grab ride from most hotels in the historic center.
   - q: How much should I expect to spend?
-    a: >-
-      It's marked as a budget-level restaurant, so a full meal of several Hue
-      specialties for one or two people typically costs far less than a sit-down
-      tourist restaurant; confirm current prices on-site since menu costs
-      change.
+    a: It's marked as a budget-level restaurant, so a full meal of several Hue specialties for one or two people typically costs far less than a sit-down tourist restaurant; confirm current prices on-site since menu costs change.
   - q: What should I order?
-    a: >-
-      Try bún bò Huế (spicy beef noodle soup), bánh khoái (crispy pancake), nem
-      lụi (grilled pork skewers), and com hen (clam rice) — the dishes Hue is
-      best known for.
+    a: Try bún bò Huế (spicy beef noodle soup), bánh khoái (crispy pancake), nem lụi (grilled pork skewers), and com hen (clam rice) — the dishes Hue is best known for.
   - q: What's the best time to visit?
-    a: >-
-      Lunch (11:30am–1:30pm) or early dinner (6–7:30pm) for freshest food and
-      shorter waits; seasonally, the dry months from March to August are easiest
-      for exploring Hue overall.
+    a: Lunch (11:30am–1:30pm) or early dinner (6–7:30pm) for freshest food and shorter waits; seasonally, the dry months from March to August are easiest for exploring Hue overall.
   - q: What else is nearby?
-    a: >-
-      The Imperial City (Hue Citadel) and Dong Ba Market are both close by on
-      the same riverbank, making it easy to combine a meal here with
-      sightseeing.
+    a: The Imperial City (Hue Citadel) and Dong Ba Market are both close by on the same riverbank, making it easy to combine a meal here with sightseeing.
 aiGenerated: true
-draft: false
+draft: true
 updatedDate: '2026-07-24'
 ---
 

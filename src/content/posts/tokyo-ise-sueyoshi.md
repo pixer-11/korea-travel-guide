@@ -1,43 +1,43 @@
 ---
-title: "Ise Sueyoshi: Where to Eat in Tokyo"
-description: "Ise Sueyoshi is a small, counter-and-table kaiseki restaurant in Nishiazabu, Minato City, known for a meticulously plated, seasonally driven multi-course"
-country: "Japan"
-region: "Tokyo"
-category: "restaurant"
-pubDate: "2026-07-22T09:01:52.705Z"
+title: 'Ise Sueyoshi: Where to Eat in Tokyo'
+description: Ise Sueyoshi is a small, counter-and-table kaiseki restaurant in Nishiazabu, Minato City, known for a meticulously plated, seasonally driven multi-course
+country: Japan
+region: Tokyo
+category: restaurant
+pubDate: '2026-07-22T09:01:52.705Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Local_restaurant_in_Tokyo_%28Unsplash%29.jpg/1920px-Local_restaurant_in_Tokyo_%28Unsplash%29.jpg"
-  credit: "Photo: Clay Banks claybanks1989 / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Local_restaurant_in_Tokyo_(Unsplash).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Local_restaurant_in_Tokyo_%28Unsplash%29.jpg/1920px-Local_restaurant_in_Tokyo_%28Unsplash%29.jpg
+  credit: 'Photo: Clay Banks claybanks1989 / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Local_restaurant_in_Tokyo_(Unsplash).jpg
 gallery: []
 place:
-  id: "ChIJ1aKIaXCLGGARkyTMVC2TFi8"
-  name: "Ise Sueyoshi"
-  address: "Japan, 〒106-0031 Tokyo, Minato City, Nishiazabu, 4-chōme−2−１５ 水野ビル 3F"
+  id: ChIJ1aKIaXCLGGARkyTMVC2TFi8
+  name: Ise Sueyoshi
+  address: Japan, 〒106-0031 Tokyo, Minato City, Nishiazabu, 4-chōme−2−１５ 水野ビル 3F
   rating: 4.9
   userRatingsTotal: 451
-  googleMapsUrl: "https://maps.google.com/?cid=3393061192175723667&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=3393061192175723667&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.6586527
   lng: 139.7235382
 tags:
-  - "tokyo"
-  - "local restaurant"
-quickAnswer: "Ise Sueyoshi is a small, counter-and-table kaiseki restaurant in Nishiazabu, Minato City, known for a meticulously plated, seasonally driven multi-course Japanese menu and a 4.9-rating from over 450 diners. It's a reservation-only, special-occasion spot rather than a casual walk-in — book weeks ahead, dress smart-casual, and budget a full evening (roughly two to three hours) for the full course experience."
+  - tokyo
+  - local restaurant
+quickAnswer: Ise Sueyoshi is a small, counter-and-table kaiseki restaurant in Nishiazabu, Minato City, known for a meticulously plated, seasonally driven multi-course Japanese menu and a 4.9-rating from over 450 diners. It's a reservation-only, special-occasion spot rather than a casual walk-in — book weeks ahead, dress smart-casual, and budget a full evening (roughly two to three hours) for the full course experience.
 faq:
-  - q: "Do I need a reservation for Ise Sueyoshi?"
-    a: "Yes — it's a small, counter-driven kaiseki restaurant and effectively reservation-only. Book as early as possible, ideally several weeks ahead for weekend evenings, and consider asking your hotel concierge to help if you don't speak Japanese."
-  - q: "How do I get to Ise Sueyoshi?"
-    a: "It's on the 3rd floor of the Mizuno Building in Nishiazabu, Minato City. The closest stations are Roppongi (Hibiya and Oedo Lines) or Hiroo (Hibiya Line), each about a 10-15 minute walk, but a taxi directly to the address is easiest, especially after dark."
-  - q: "How much does a meal cost?"
-    a: "Exact course pricing isn't published consistently and can change seasonally, so confirm current rates when you reserve. Expect a premium, special-occasion price point typical of Tokyo's top-tier kaiseki restaurants."
-  - q: "How long does dinner take?"
-    a: "Multi-course kaiseki dinners typically run two to three hours, paced by the kitchen, so build in a relaxed evening rather than squeezing it between other plans."
-  - q: "What should I wear and is it good for special occasions?"
-    a: "Smart-casual to smart attire suits the minimalist, refined setting. Given its 4.9 rating and intimate format, it's a strong choice for anniversaries, celebrations, or a splurge night in Tokyo."
+  - q: Do I need a reservation for Ise Sueyoshi?
+    a: Yes — it's a small, counter-driven kaiseki restaurant and effectively reservation-only. Book as early as possible, ideally several weeks ahead for weekend evenings, and consider asking your hotel concierge to help if you don't speak Japanese.
+  - q: How do I get to Ise Sueyoshi?
+    a: It's on the 3rd floor of the Mizuno Building in Nishiazabu, Minato City. The closest stations are Roppongi (Hibiya and Oedo Lines) or Hiroo (Hibiya Line), each about a 10-15 minute walk, but a taxi directly to the address is easiest, especially after dark.
+  - q: How much does a meal cost?
+    a: Exact course pricing isn't published consistently and can change seasonally, so confirm current rates when you reserve. Expect a premium, special-occasion price point typical of Tokyo's top-tier kaiseki restaurants.
+  - q: How long does dinner take?
+    a: Multi-course kaiseki dinners typically run two to three hours, paced by the kitchen, so build in a relaxed evening rather than squeezing it between other plans.
+  - q: What should I wear and is it good for special occasions?
+    a: Smart-casual to smart attire suits the minimalist, refined setting. Given its 4.9 rating and intimate format, it's a strong choice for anniversaries, celebrations, or a splurge night in Tokyo.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

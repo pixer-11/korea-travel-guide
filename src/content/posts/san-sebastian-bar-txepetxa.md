@@ -1,44 +1,44 @@
 ---
-title: "Bar Txepetxa: Where to Eat in San Sebastian"
-description: "Bar Txepetxa, on Arrandegi Kalea 5 in San Sebastián's Parte Vieja, is a pintxos bar built around a single specialty: anchovies, served a dozen different"
-country: "Spain"
-region: "San Sebastian"
-category: "restaurant"
-pubDate: 2026-07-21
+title: 'Bar Txepetxa: Where to Eat in San Sebastian'
+description: 'Bar Txepetxa, on Arrandegi Kalea 5 in San Sebastián''s Parte Vieja, is a pintxos bar built around a single specialty: anchovies, served a dozen different'
+country: Spain
+region: San Sebastian
+category: restaurant
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Typische_Altstadtbar_von_Donostia_San_Sebastian%2C_Spanien.jpg/1920px-Typische_Altstadtbar_von_Donostia_San_Sebastian%2C_Spanien.jpg"
-  credit: "Photo: Gordito1869 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Typische_Altstadtbar_von_Donostia_San_Sebastian,_Spanien.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Typische_Altstadtbar_von_Donostia_San_Sebastian%2C_Spanien.jpg/1920px-Typische_Altstadtbar_von_Donostia_San_Sebastian%2C_Spanien.jpg
+  credit: 'Photo: Gordito1869 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Typische_Altstadtbar_von_Donostia_San_Sebastian,_Spanien.jpg
 gallery: []
 place:
-  id: "ChIJfQW8xU2lUQ0RRd5xky_9uBY"
-  name: "Bar Txepetxa"
-  address: "Arrandegi Kalea, 5, 20003 Donostia / San Sebastián, Gipuzkoa, Spain"
+  id: ChIJfQW8xU2lUQ0RRd5xky_9uBY
+  name: Bar Txepetxa
+  address: Arrandegi Kalea, 5, 20003 Donostia / San Sebastián, Gipuzkoa, Spain
   rating: 4.7
   userRatingsTotal: 3622
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=1637336845328178757&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=1637336845328178757&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.32373810000001
   lng: -1.9840577
 tags:
-  - "san sebastian"
-  - "San Sebastian Pintxos Bars"
-quickAnswer: "Bar Txepetxa, on Arrandegi Kalea 5 in San Sebastián's Parte Vieja, is a pintxos bar built around a single specialty: anchovies, served a dozen different ways. Go early (1pm or 8pm) to grab counter space, order 3-4 anchovy pintxos with a glass of txakoli, and expect to spend 20-30 minutes standing at the bar — it's a stop on a pintxos crawl, not a sit-down meal."
+  - san sebastian
+  - San Sebastian Pintxos Bars
+quickAnswer: 'Bar Txepetxa, on Arrandegi Kalea 5 in San Sebastián''s Parte Vieja, is a pintxos bar built around a single specialty: anchovies, served a dozen different ways. Go early (1pm or 8pm) to grab counter space, order 3-4 anchovy pintxos with a glass of txakoli, and expect to spend 20-30 minutes standing at the bar — it''s a stop on a pintxos crawl, not a sit-down meal.'
 faq:
-  - q: "Where exactly is Bar Txepetxa located?"
-    a: "At Arrandegi Kalea 5, in the heart of San Sebastián's Parte Vieja (Old Town), a short walk from Plaza de la Constitución."
-  - q: "What should I order?"
-    a: "Anchovy pintxos are the whole point — try a mix of toppings like cream cheese and seaweed, foie gras, or spider crab, paired with a glass of txakoli."
-  - q: "How much does it cost?"
-    a: "It's mid-range for the Old Town (price level 2 of 4) — not the cheapest pintxos bar, but reasonable given the quality of the anchovies."
-  - q: "Is there seating?"
-    a: "Mainly standing room at the bar; it's designed for a quick stop rather than a long sit-down meal."
-  - q: "What's the best time to visit?"
-    a: "Arrive right at opening for lunch (around 1pm) or dinner (around 8pm) to beat the crowds, since it fills up quickly with locals and visitors alike."
+  - q: Where exactly is Bar Txepetxa located?
+    a: At Arrandegi Kalea 5, in the heart of San Sebastián's Parte Vieja (Old Town), a short walk from Plaza de la Constitución.
+  - q: What should I order?
+    a: Anchovy pintxos are the whole point — try a mix of toppings like cream cheese and seaweed, foie gras, or spider crab, paired with a glass of txakoli.
+  - q: How much does it cost?
+    a: It's mid-range for the Old Town (price level 2 of 4) — not the cheapest pintxos bar, but reasonable given the quality of the anchovies.
+  - q: Is there seating?
+    a: Mainly standing room at the bar; it's designed for a quick stop rather than a long sit-down meal.
+  - q: What's the best time to visit?
+    a: Arrive right at opening for lunch (around 1pm) or dinner (around 8pm) to beat the crowds, since it fills up quickly with locals and visitors alike.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Bar Txepetxa matters

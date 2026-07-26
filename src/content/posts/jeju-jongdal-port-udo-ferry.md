@@ -1,44 +1,44 @@
 ---
-title: "Jongdal Port (Udo Ferry): Jeju Travel Guide"
-description: "Jongdal Port, on Jeju's northeast coast in Gujwa-eup, is one of two departure points for ferries to Udo (the other is Seongsan Port)."
-region: "Jeju"
-category: "attraction"
-pubDate: 2026-07-21
+title: 'Jongdal Port (Udo Ferry): Jeju Travel Guide'
+description: Jongdal Port, on Jeju's northeast coast in Gujwa-eup, is one of two departure points for ferries to Udo (the other is Seongsan Port).
+region: Jeju
+category: attraction
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1683669644020-3a090eafae1a?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SmVqdSUyMFNvdXRoJTIwS29yZWElMjBVZG8lMjBJc2xhbmR8ZW58MHwwfHx8MTc4NDYxMzk3Mnww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Yoan on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@yoan_png?utm_source=korea_travel_guide&utm_medium=referral"
+  url: https://images.unsplash.com/photo-1683669644020-3a090eafae1a?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SmVqdSUyMFNvdXRoJTIwS29yZWElMjBVZG8lMjBJc2xhbmR8ZW58MHwwfHx8MTc4NDYxMzk3Mnww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Yoan on Unsplash
+  license: unsplash
+  source: https://unsplash.com/@yoan_png?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
-  id: "ChIJV1YuogAVDTURxrtgTuhA3EE"
-  name: "Jongdal Port (Udo Ferry)"
-  address: "484-7 Jongdal-ri, Gujwa-eup, Cheju, Jeju-do, South Korea"
+  id: ChIJV1YuogAVDTURxrtgTuhA3EE
+  name: Jongdal Port (Udo Ferry)
+  address: 484-7 Jongdal-ri, Gujwa-eup, Cheju, Jeju-do, South Korea
   rating: 4.2
   userRatingsTotal: 460
-  googleMapsUrl: "https://maps.google.com/?cid=4745739473833212870&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=4745739473833212870&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 33.4965344
   lng: 126.9114739
 tags:
-  - "jeju"
-  - "Udo Island"
-quickAnswer: "Jongdal Port, on Jeju's northeast coast in Gujwa-eup, is one of two departure points for ferries to Udo (the other is Seongsan Port). Ferries run roughly every 20-30 minutes during daylight hours, the crossing takes about 10-15 minutes, and it's less crowded than Seongsan, making it a good pick if you're driving the coastal road or staying near Hado/Sehwa. Bring your passport or ID, expect a round-trip ticket plus a small Udo entry fee, and check the day's schedule and sea conditions before heading out, since departures can pause in high wind."
+  - jeju
+  - Udo Island
+quickAnswer: Jongdal Port, on Jeju's northeast coast in Gujwa-eup, is one of two departure points for ferries to Udo (the other is Seongsan Port). Ferries run roughly every 20-30 minutes during daylight hours, the crossing takes about 10-15 minutes, and it's less crowded than Seongsan, making it a good pick if you're driving the coastal road or staying near Hado/Sehwa. Bring your passport or ID, expect a round-trip ticket plus a small Udo entry fee, and check the day's schedule and sea conditions before heading out, since departures can pause in high wind.
 faq:
-  - q: "How do I get to Jongdal Port without a car?"
-    a: "Public buses along Jeju's coastal road (Route 1132) connect Jeju City and the Seongsan/Gujwa area and stop near Jongdal-ri, but service is infrequent. A rental car or taxi is the more reliable option, especially if you're combining the port visit with other northeast Jeju stops."
-  - q: "How long does the ferry to Udo take, and how often does it run?"
-    a: "The crossing takes about 10-15 minutes, with ferries departing roughly every 20-30 minutes during daylight hours. Exact schedules and the last return sailing shift by season, so confirm times at the ticket counter on the day."
-  - q: "How much does the Udo ferry cost from Jongdal Port?"
-    a: "Fares are typically sold round-trip with a small additional Udo entry fee, but prices change periodically. Check the posted fare board at the port or ask your accommodation for the current rate before planning your budget."
-  - q: "Is Jongdal Port better than Seongsan Port for the Udo ferry?"
-    a: "Jongdal tends to be less crowded and has easier parking, making it a good choice if you're staying near Hado, Sehwa, or driving the northeast coastal road. Seongsan Port is more convenient if you're also visiting Seongsan Ilchulbong the same day."
-  - q: "How much time should I budget for a Udo day trip from here?"
-    a: "Plan at least 3-4 hours on the island to rent a scooter or bike, circle the coastal road, and stop at beaches like Seobinbaeksa, plus 15-20 minutes total for the ferry crossings each way."
-  - q: "What should I bring for the ferry?"
-    a: "A passport or valid ID is required for the passenger manifest. It's also worth checking wind and sea conditions in advance, since departures can be delayed or canceled in rough weather, particularly in winter."
+  - q: How do I get to Jongdal Port without a car?
+    a: Public buses along Jeju's coastal road (Route 1132) connect Jeju City and the Seongsan/Gujwa area and stop near Jongdal-ri, but service is infrequent. A rental car or taxi is the more reliable option, especially if you're combining the port visit with other northeast Jeju stops.
+  - q: How long does the ferry to Udo take, and how often does it run?
+    a: The crossing takes about 10-15 minutes, with ferries departing roughly every 20-30 minutes during daylight hours. Exact schedules and the last return sailing shift by season, so confirm times at the ticket counter on the day.
+  - q: How much does the Udo ferry cost from Jongdal Port?
+    a: Fares are typically sold round-trip with a small additional Udo entry fee, but prices change periodically. Check the posted fare board at the port or ask your accommodation for the current rate before planning your budget.
+  - q: Is Jongdal Port better than Seongsan Port for the Udo ferry?
+    a: Jongdal tends to be less crowded and has easier parking, making it a good choice if you're staying near Hado, Sehwa, or driving the northeast coastal road. Seongsan Port is more convenient if you're also visiting Seongsan Ilchulbong the same day.
+  - q: How much time should I budget for a Udo day trip from here?
+    a: Plan at least 3-4 hours on the island to rent a scooter or bike, circle the coastal road, and stop at beaches like Seobinbaeksa, plus 15-20 minutes total for the ferry crossings each way.
+  - q: What should I bring for the ferry?
+    a: A passport or valid ID is required for the passenger manifest. It's also worth checking wind and sea conditions in advance, since departures can be delayed or canceled in rough weather, particularly in winter.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go via Jongdal Port

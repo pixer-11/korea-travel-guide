@@ -1,44 +1,44 @@
 ---
-title: "PS.Cafe Marina Bay Sands: Travel Guide"
-description: "PS.Cafe Marina Bay Sands sits at B2-119-120A inside The Shoppes at Marina Bay Sands (10 Bayfront Ave), a short walk from Bayfront MRT (Circle/Downtown lines"
-country: "Singapore"
-region: "Marina Bay"
-category: "trendy"
-pubDate: "2026-07-23T07:40:04.471Z"
+title: 'PS.Cafe Marina Bay Sands: Travel Guide'
+description: PS.Cafe Marina Bay Sands sits at B2-119-120A inside The Shoppes at Marina Bay Sands (10 Bayfront Ave), a short walk from Bayfront MRT (Circle/Downtown lines
+country: Singapore
+region: Marina Bay
+category: trendy
+pubDate: '2026-07-23T07:40:04.471Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Cricket_match_and_Marina_Bay_Sands_Hotel_in_Singapore.jpg/1920px-Cricket_match_and_Marina_Bay_Sands_Hotel_in_Singapore.jpg"
-  credit: "Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Cricket_match_and_Marina_Bay_Sands_Hotel_in_Singapore.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Cricket_match_and_Marina_Bay_Sands_Hotel_in_Singapore.jpg/1920px-Cricket_match_and_Marina_Bay_Sands_Hotel_in_Singapore.jpg
+  credit: 'Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Cricket_match_and_Marina_Bay_Sands_Hotel_in_Singapore.jpg
 gallery: []
 place:
-  id: "ChIJkQ3gWyEZ2jERz2KwfC2rA3w"
-  name: "PS.Cafe Marina Bay Sands"
-  address: "10 Bayfront Ave, B2-119-120A, Singapore 018956"
+  id: ChIJkQ3gWyEZ2jERz2KwfC2rA3w
+  name: PS.Cafe Marina Bay Sands
+  address: 10 Bayfront Ave, B2-119-120A, Singapore 018956
   rating: 4.4
   userRatingsTotal: 1036
   priceLevel: 3
-  googleMapsUrl: "https://maps.google.com/?cid=8936174297487008463&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=8936174297487008463&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.2827307
   lng: 103.8579269
 tags:
-  - "marina bay"
-  - "trendy cafe"
-quickAnswer: "PS.Cafe Marina Bay Sands sits at B2-119-120A inside The Shoppes at Marina Bay Sands (10 Bayfront Ave), a short walk from Bayfront MRT (Circle/Downtown lines, exit directly into the mall). It's the same laid-back, plant-filled Western café concept known from PS.Cafe's Dempsey and Ann Siang branches, but tucked into a quieter basement corridor of the mall — good for a lingering brunch, coffee, or pasta dinner away from the casino-floor crowds. Expect truffle fries, PS.Cafe's signature pastas and salads, and specialty coffee, in the SGD 20-40 per main range typical of Singapore's upscale casual dining."
+  - marina bay
+  - trendy cafe
+quickAnswer: PS.Cafe Marina Bay Sands sits at B2-119-120A inside The Shoppes at Marina Bay Sands (10 Bayfront Ave), a short walk from Bayfront MRT (Circle/Downtown lines, exit directly into the mall). It's the same laid-back, plant-filled Western café concept known from PS.Cafe's Dempsey and Ann Siang branches, but tucked into a quieter basement corridor of the mall — good for a lingering brunch, coffee, or pasta dinner away from the casino-floor crowds. Expect truffle fries, PS.Cafe's signature pastas and salads, and specialty coffee, in the SGD 20-40 per main range typical of Singapore's upscale casual dining.
 faq:
-  - q: "How do I get to PS.Cafe Marina Bay Sands by public transport?"
-    a: "Take the MRT to Bayfront station (Circle or Downtown Line), which connects directly underground into The Shoppes at Marina Bay Sands. Follow signs to basement level B2, unit 119-120A."
-  - q: "How much does a meal cost?"
-    a: "It sits in the mid-to-upper price bracket for Singapore, roughly SGD 20-40 for a main course, in line with PS.Cafe's other outlets. Confirm current menu prices on-site since they can shift."
-  - q: "Is it busy or a quieter option inside Marina Bay Sands?"
-    a: "It's considered under-the-radar compared to the mall's headline restaurants, with a calmer basement-corridor location — good for those wanting to avoid the busiest tourist-facing dining spots."
-  - q: "How long should I plan to spend there?"
-    a: "A brunch or lunch visit typically runs 1–1.5 hours; it pairs well with a walk to Gardens by the Bay or the Sands SkyPark before or after."
-  - q: "What's the best time to visit?"
-    a: "Weekday lunch or weekend morning before 11am tends to be quietest, before the mall's afternoon and evening crowds build up ahead of the bay's light shows."
+  - q: How do I get to PS.Cafe Marina Bay Sands by public transport?
+    a: Take the MRT to Bayfront station (Circle or Downtown Line), which connects directly underground into The Shoppes at Marina Bay Sands. Follow signs to basement level B2, unit 119-120A.
+  - q: How much does a meal cost?
+    a: It sits in the mid-to-upper price bracket for Singapore, roughly SGD 20-40 for a main course, in line with PS.Cafe's other outlets. Confirm current menu prices on-site since they can shift.
+  - q: Is it busy or a quieter option inside Marina Bay Sands?
+    a: It's considered under-the-radar compared to the mall's headline restaurants, with a calmer basement-corridor location — good for those wanting to avoid the busiest tourist-facing dining spots.
+  - q: How long should I plan to spend there?
+    a: A brunch or lunch visit typically runs 1–1.5 hours; it pairs well with a walk to Gardens by the Bay or the Sands SkyPark before or after.
+  - q: What's the best time to visit?
+    a: Weekday lunch or weekend morning before 11am tends to be quietest, before the mall's afternoon and evening crowds build up ahead of the bay's light shows.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

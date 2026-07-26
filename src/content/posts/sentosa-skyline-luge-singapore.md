@@ -1,49 +1,63 @@
 ---
-title: "Skyline Luge Singapore: Sentosa Travel Guide"
-description: "Skyline Luge Singapore, at 1 Imbiah Rd on Sentosa, combines a scenic chairlift ride up with a self-steered go-kart-style luge run back down tracks like the"
-country: "Singapore"
-region: "Sentosa"
-category: "attraction"
-pubDate: "2026-07-23T07:30:27.024Z"
+title: 'Skyline Luge Singapore: Sentosa Travel Guide'
+description: Skyline Luge Singapore, at 1 Imbiah Rd on Sentosa, combines a scenic chairlift ride up with a self-steered go-kart-style luge run back down tracks like the
+country: Singapore
+region: Sentosa
+category: attraction
+pubDate: '2026-07-23T07:30:27.024Z'
 heroImage:
-  url: "https://images.unsplash.com/photo-1600664356348-10686526af4f?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8U2VudG9zYSUyMFNpbmdhcG9yZSUyMHRvcCUyMGF0dHJhY3Rpb258ZW58MHwwfHx8MTc4NDc5MTc2OHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Jisun Han on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@hanzlog?utm_source=korea_travel_guide&utm_medium=referral"
+  url: https://images.unsplash.com/photo-1600664356348-10686526af4f?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8U2VudG9zYSUyMFNpbmdhcG9yZSUyMHRvcCUyMGF0dHJhY3Rpb258ZW58MHwwfHx8MTc4NDc5MTc2OHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Jisun Han on Unsplash
+  license: unsplash
+  source: https://unsplash.com/@hanzlog?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
-  id: "ChIJs1Hr6f4b2jER3t3uRzo5IgE"
-  name: "Skyline Luge Singapore"
-  address: "1 Imbiah Rd, Singapore 099692"
+  id: ChIJs1Hr6f4b2jER3t3uRzo5IgE
+  name: Skyline Luge Singapore
+  address: 1 Imbiah Rd, Singapore 099692
   rating: 4.5
   userRatingsTotal: 9795
-  googleMapsUrl: "https://maps.google.com/?cid=81690665723813342&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=81690665723813342&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.2549696
   lng: 103.8173674
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [10, 18, 19, 20, 21]
-    weekendQuiet: [20, 21]
-    weekendBusy: [12, 13, 14, 15, 16, 17, 18]
-    venueId: 'ven_456749356f7a527533743352456a3262346636724831734a496843'
+    weekdayQuiet:
+      - 10
+      - 18
+      - 19
+      - 20
+      - 21
+    weekendQuiet:
+      - 20
+      - 21
+    weekendBusy:
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+    venueId: ven_456749356f7a527533743352456a3262346636724831734a496843
 tags:
-  - "sentosa"
-  - "top attraction"
-quickAnswer: "Skyline Luge Singapore, at 1 Imbiah Rd on Sentosa, combines a scenic chairlift ride up with a self-steered go-kart-style luge run back down tracks like the Dragon Trail and Jungle Trail. Buy combo tickets (chairlift + multiple luge rides) online in advance, arrive on a weekday morning or after 4pm to avoid the worst crowds, and budget about 1.5–2 hours total including queueing."
+  - sentosa
+  - top attraction
+quickAnswer: Skyline Luge Singapore, at 1 Imbiah Rd on Sentosa, combines a scenic chairlift ride up with a self-steered go-kart-style luge run back down tracks like the Dragon Trail and Jungle Trail. Buy combo tickets (chairlift + multiple luge rides) online in advance, arrive on a weekday morning or after 4pm to avoid the worst crowds, and budget about 1.5–2 hours total including queueing.
 faq:
-  - q: "How do I get to Skyline Luge Singapore without a car?"
-    a: "Take the MRT to HarbourFront, transfer to the Sentosa Express monorail at VivoCity, and alight at Imbiah Station, which is right by the luge's base area."
-  - q: "How long does a visit take?"
-    a: "Plan for about 1.5 to 2 hours for a standard combo of one chairlift ride and 2–4 luge descents, including queue time; longer on weekends and holidays."
-  - q: "Which track should first-timers ride?"
-    a: "Start with the Jungle Trail to get comfortable with the push-pull brake and steering, then move to the longer, faster Dragon Trail."
-  - q: "Is it worth visiting if it rains?"
-    a: "Rides are usually paused during heavy rain or lightning for safety, so check conditions before heading over and build in flexible time if visiting in the monsoon months (roughly November to January)."
-  - q: "What else is nearby to combine with the visit?"
-    a: "Imbiah Lookout, Siloso Beach, and Skypark Sentosa's zipline are all within a short walk, making it easy to build a half-day itinerary around the luge."
+  - q: How do I get to Skyline Luge Singapore without a car?
+    a: Take the MRT to HarbourFront, transfer to the Sentosa Express monorail at VivoCity, and alight at Imbiah Station, which is right by the luge's base area.
+  - q: How long does a visit take?
+    a: Plan for about 1.5 to 2 hours for a standard combo of one chairlift ride and 2–4 luge descents, including queue time; longer on weekends and holidays.
+  - q: Which track should first-timers ride?
+    a: Start with the Jungle Trail to get comfortable with the push-pull brake and steering, then move to the longer, faster Dragon Trail.
+  - q: Is it worth visiting if it rains?
+    a: Rides are usually paused during heavy rain or lightning for safety, so check conditions before heading over and build in flexible time if visiting in the monsoon months (roughly November to January).
+  - q: What else is nearby to combine with the visit?
+    a: Imbiah Lookout, Siloso Beach, and Skypark Sentosa's zipline are all within a short walk, making it easy to build a half-day itinerary around the luge.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

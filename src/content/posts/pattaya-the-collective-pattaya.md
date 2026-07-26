@@ -1,50 +1,65 @@
 ---
-title: "The Collective: Where to Eat in Pattaya"
-description: "The Collective Pattaya is the all-day dining hall inside the Holiday Inn Pattaya on Beach Road, best known for its sprawling international buffet spreads"
-country: "Thailand"
-region: "Pattaya"
-category: "restaurant"
-pubDate: "2026-07-22T09:12:24.736Z"
+title: 'The Collective: Where to Eat in Pattaya'
+description: The Collective Pattaya is the all-day dining hall inside the Holiday Inn Pattaya on Beach Road, best known for its sprawling international buffet spreads
+country: Thailand
+region: Pattaya
+category: restaurant
+pubDate: '2026-07-22T09:12:24.736Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/DFC_4596_Evening_calm_at_a_quiet_Pattaya_marina_-_colorful_boats_reflected_in_the_still_water_as_the_waterfront_settles_in_for_dusk.jpg/1920px-DFC_4596_Evening_calm_at_a_quiet_Pattaya_marina_-_colorful_boats_reflected_in_the_still_water_as_the_waterfront_settles_in_for_dusk.jpg"
-  credit: "Photo: PattayaPatrol / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:DFC_4596_Evening_calm_at_a_quiet_Pattaya_marina_-_colorful_boats_reflected_in_the_still_water_as_the_waterfront_settles_in_for_dusk.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/DFC_4596_Evening_calm_at_a_quiet_Pattaya_marina_-_colorful_boats_reflected_in_the_still_water_as_the_waterfront_settles_in_for_dusk.jpg/1920px-DFC_4596_Evening_calm_at_a_quiet_Pattaya_marina_-_colorful_boats_reflected_in_the_still_water_as_the_waterfront_settles_in_for_dusk.jpg
+  credit: 'Photo: PattayaPatrol / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:DFC_4596_Evening_calm_at_a_quiet_Pattaya_marina_-_colorful_boats_reflected_in_the_still_water_as_the_waterfront_settles_in_for_dusk.jpg
 gallery: []
 place:
-  id: "ChIJsejiuTO9AjERnTBniNqKjII"
-  name: "The Collective Pattaya"
-  address: "463/68 Beachfront, Holiday Inn Pattaya 463/99 Beach Rd, Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150, Thailand"
+  id: ChIJsejiuTO9AjERnTBniNqKjII
+  name: The Collective Pattaya
+  address: 463/68 Beachfront, Holiday Inn Pattaya 463/99 Beach Rd, Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150, Thailand
   rating: 4.8
   userRatingsTotal: 2173
-  googleMapsUrl: "https://maps.google.com/?cid=9407046392866091165&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=9407046392866091165&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 12.9477202
   lng: 100.8847605
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [12, 13, 14, 15]
-    weekdayBusy: [19, 20, 21]
-    weekendQuiet: [12, 13, 14]
-    weekendBusy: [18, 19, 20, 21, 22]
-    venueId: 'ven_49496a4b714e696e42546e52456a41394f5475696a65734a496843'
+    weekdayQuiet:
+      - 12
+      - 13
+      - 14
+      - 15
+    weekdayBusy:
+      - 19
+      - 20
+      - 21
+    weekendQuiet:
+      - 12
+      - 13
+      - 14
+    weekendBusy:
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+    venueId: ven_49496a4b714e696e42546e52456a41394f5475696a65734a496843
 tags:
-  - "pattaya"
-  - "local restaurant"
-quickAnswer: "The Collective Pattaya is the all-day dining hall inside the Holiday Inn Pattaya on Beach Road, best known for its sprawling international buffet spreads (seafood, sushi, curries, live cooking stations) alongside an à la carte menu. With a 4.8 rating across 2,173+ reviews, it's a reliable pick for families and groups who want variety without leaving the beachfront strip — go for breakfast or the dinner buffet, and book ahead on weekends."
+  - pattaya
+  - local restaurant
+quickAnswer: The Collective Pattaya is the all-day dining hall inside the Holiday Inn Pattaya on Beach Road, best known for its sprawling international buffet spreads (seafood, sushi, curries, live cooking stations) alongside an à la carte menu. With a 4.8 rating across 2,173+ reviews, it's a reliable pick for families and groups who want variety without leaving the beachfront strip — go for breakfast or the dinner buffet, and book ahead on weekends.
 faq:
-  - q: "Where exactly is The Collective Pattaya located?"
-    a: "It's inside the Holiday Inn Pattaya at 463/99 Beach Road, Muang Pattaya, Bang Lamung, Chon Buri — on the beach side of Beach Road, easily reached by baht bus, taxi, or a walk from Central Pattaya or Walking Street."
-  - q: "Do I need to be a hotel guest to eat there?"
-    a: "No, it's open to outside diners as well as Holiday Inn guests, though reservations are recommended for dinner and peak weekends since it's a popular buffet spot."
-  - q: "How much does the buffet cost?"
-    a: "Pricing varies by meal (breakfast vs. dinner) and season, so it's best to check current rates directly with the Holiday Inn Pattaya before visiting rather than rely on older listed prices."
-  - q: "What's the best time to go?"
-    a: "Breakfast is quieter and a good value option; dinner gets busy after 7 PM, especially on weekends and holidays, so arrive early or book ahead."
-  - q: "What's nearby if I want to combine it with sightseeing?"
-    a: "It's a short walk to Pattaya's main beachfront promenade, Central Pattaya's shopping area, and the northern end of Walking Street, making it easy to pair a meal with an evening stroll."
+  - q: Where exactly is The Collective Pattaya located?
+    a: It's inside the Holiday Inn Pattaya at 463/99 Beach Road, Muang Pattaya, Bang Lamung, Chon Buri — on the beach side of Beach Road, easily reached by baht bus, taxi, or a walk from Central Pattaya or Walking Street.
+  - q: Do I need to be a hotel guest to eat there?
+    a: No, it's open to outside diners as well as Holiday Inn guests, though reservations are recommended for dinner and peak weekends since it's a popular buffet spot.
+  - q: How much does the buffet cost?
+    a: Pricing varies by meal (breakfast vs. dinner) and season, so it's best to check current rates directly with the Holiday Inn Pattaya before visiting rather than rely on older listed prices.
+  - q: What's the best time to go?
+    a: Breakfast is quieter and a good value option; dinner gets busy after 7 PM, especially on weekends and holidays, so arrive early or book ahead.
+  - q: What's nearby if I want to combine it with sightseeing?
+    a: It's a short walk to Pattaya's main beachfront promenade, Central Pattaya's shopping area, and the northern end of Walking Street, making it easy to pair a meal with an evening stroll.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

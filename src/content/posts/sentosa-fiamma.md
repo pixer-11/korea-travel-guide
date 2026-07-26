@@ -1,43 +1,43 @@
 ---
-title: "Fiamma: Where to Eat in Sentosa"
-description: "Fiamma is an upscale Italian restaurant tucked inside Capella Singapore at 1 The Knolls, Sentosa — a quieter, refined alternative to the island's beach-club"
-country: "Singapore"
-region: "Sentosa"
-category: "restaurant"
-pubDate: "2026-07-23T07:34:21.457Z"
+title: 'Fiamma: Where to Eat in Sentosa'
+description: Fiamma is an upscale Italian restaurant tucked inside Capella Singapore at 1 The Knolls, Sentosa — a quieter, refined alternative to the island's beach-club
+country: Singapore
+region: Sentosa
+category: restaurant
+pubDate: '2026-07-23T07:34:21.457Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Lorenzo_Barzon_%26_Fiamma_Nirenstein.jpg/1920px-Lorenzo_Barzon_%26_Fiamma_Nirenstein.jpg"
-  credit: "Photo: Redazionale2000 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Lorenzo_Barzon_%26_Fiamma_Nirenstein.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Lorenzo_Barzon_%26_Fiamma_Nirenstein.jpg/1920px-Lorenzo_Barzon_%26_Fiamma_Nirenstein.jpg
+  credit: 'Photo: Redazionale2000 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Lorenzo_Barzon_%26_Fiamma_Nirenstein.jpg
 gallery: []
 place:
-  id: "ChIJEWNnq5of2jER69_bjd4nzlg"
-  name: "Fiamma"
-  address: "1 The Knolls, Singapore 098297"
+  id: ChIJEWNnq5of2jER69_bjd4nzlg
+  name: Fiamma
+  address: 1 The Knolls, Singapore 098297
   rating: 4.8
   userRatingsTotal: 842
-  googleMapsUrl: "https://maps.google.com/?cid=6399095957356273643&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=6399095957356273643&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.2492482
   lng: 103.82445129999999
 tags:
-  - "sentosa"
-  - "local restaurant"
-quickAnswer: "Fiamma is an upscale Italian restaurant tucked inside Capella Singapore at 1 The Knolls, Sentosa — a quieter, refined alternative to the island's beach-club crowds. Go for a leisurely dinner (book ahead), expect modern Italian cooking with a strong wine list, and budget at least 90 minutes to two hours for a full meal. Rated 4.8 from 842 reviews, it rewards travelers who want a proper sit-down meal away from Sentosa's tourist strip."
+  - sentosa
+  - local restaurant
+quickAnswer: Fiamma is an upscale Italian restaurant tucked inside Capella Singapore at 1 The Knolls, Sentosa — a quieter, refined alternative to the island's beach-club crowds. Go for a leisurely dinner (book ahead), expect modern Italian cooking with a strong wine list, and budget at least 90 minutes to two hours for a full meal. Rated 4.8 from 842 reviews, it rewards travelers who want a proper sit-down meal away from Sentosa's tourist strip.
 faq:
-  - q: "How do I get to Fiamma without a car?"
-    a: "Take the Sentosa Express monorail from VivoCity to Waterfront Station, then a taxi, ride-hail, or Sentosa shuttle to Capella Singapore at 1 The Knolls — it's on the island's quieter eastern side, away from the main monorail stops."
-  - q: "Do I need a reservation?"
-    a: "Yes. As a hotel restaurant inside Capella Singapore, Fiamma is best booked in advance directly through the hotel rather than relying on a walk-in table."
-  - q: "What kind of food does Fiamma serve?"
-    a: "Modern Italian cuisine — handmade pasta, seafood, wood-fired or grilled mains, and a wine-focused pairing menu, geared toward a multi-course dinner rather than a quick meal."
-  - q: "How long should I plan for a meal here?"
-    a: "Budget 90 minutes to two hours for a full dinner with multiple courses, plus extra time before or after to enjoy Capella's grounds."
-  - q: "What else is nearby if I want to make a day of it?"
-    a: "Tanjong Beach and Sentosa's eastern boardwalk trails are both close by and make a good calmer pairing with dinner, away from the busier western attractions like Siloso Beach and Universal Studios."
+  - q: How do I get to Fiamma without a car?
+    a: Take the Sentosa Express monorail from VivoCity to Waterfront Station, then a taxi, ride-hail, or Sentosa shuttle to Capella Singapore at 1 The Knolls — it's on the island's quieter eastern side, away from the main monorail stops.
+  - q: Do I need a reservation?
+    a: Yes. As a hotel restaurant inside Capella Singapore, Fiamma is best booked in advance directly through the hotel rather than relying on a walk-in table.
+  - q: What kind of food does Fiamma serve?
+    a: Modern Italian cuisine — handmade pasta, seafood, wood-fired or grilled mains, and a wine-focused pairing menu, geared toward a multi-course dinner rather than a quick meal.
+  - q: How long should I plan for a meal here?
+    a: Budget 90 minutes to two hours for a full dinner with multiple courses, plus extra time before or after to enjoy Capella's grounds.
+  - q: What else is nearby if I want to make a day of it?
+    a: Tanjong Beach and Sentosa's eastern boardwalk trails are both close by and make a good calmer pairing with dinner, away from the busier western attractions like Siloso Beach and Universal Studios.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

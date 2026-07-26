@@ -1,42 +1,42 @@
 ---
-title: "Keunkkeut Lighthouse ( ): Yeosu Travel Guide"
-description: "큰끝등대 (Keunkkeut Lighthouse) is a small white lighthouse on the southeastern tip of Dolsan Island in Yeosu, best visited around sunset or sunrise for open sea"
-region: "Yeosu"
-category: "hidden-gem"
-pubDate: 2026-07-21
+title: 'Keunkkeut Lighthouse ( ): Yeosu Travel Guide'
+description: 큰끝등대 (Keunkkeut Lighthouse) is a small white lighthouse on the southeastern tip of Dolsan Island in Yeosu, best visited around sunset or sunrise for open sea
+region: Yeosu
+category: hidden-gem
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1535189043414-47a3c49a0bed?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8WWVvc3UlMjBTb3V0aCUyMEtvcmVhJTIwaGlkZGVuJTIwZ2VtfGVufDB8MHx8fDE3ODQ2MTM4NTh8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Y K on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@yokeboy?utm_source=korea_travel_guide&utm_medium=referral"
+  url: https://images.unsplash.com/photo-1535189043414-47a3c49a0bed?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8WWVvc3UlMjBTb3V0aCUyMEtvcmVhJTIwaGlkZGVuJTIwZ2VtfGVufDB8MHx8fDE3ODQ2MTM4NTh8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Y K on Unsplash
+  license: unsplash
+  source: https://unsplash.com/@yokeboy?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
-  id: "ChIJWYT5iYPbbTURqeHk9gfXwT0"
-  name: "Keunkkeut Lighthouse (큰끝등대)"
-  address: "산1-1 Pyeongsa-ri, Dolsan-eup, Yeosu, Jeollanam-do, South Korea"
+  id: ChIJWYT5iYPbbTURqeHk9gfXwT0
+  name: Keunkkeut Lighthouse (큰끝등대)
+  address: 산1-1 Pyeongsa-ri, Dolsan-eup, Yeosu, Jeollanam-do, South Korea
   rating: 4.3
   userRatingsTotal: 124
-  googleMapsUrl: "https://maps.google.com/?cid=4450074336025698729&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=4450074336025698729&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.6610496
   lng: 127.80612160000001
 tags:
-  - "yeosu"
-  - "hidden gem"
-quickAnswer: "큰끝등대 (Keunkkeut Lighthouse) is a small white lighthouse on the southeastern tip of Dolsan Island in Yeosu, best visited around sunset or sunrise for open sea views toward the Namhae Strait. It's a quiet, uncrowded coastal spot best reached by car or taxi from central Yeosu, with a short walk from the nearest parking area; plan on 30–60 minutes there, longer if paired with a coastal walk. Rated 4.3 from 124 reviews, it's a genuine hidden-gem detour for travelers who've already covered Odongdo and Hyangiram."
+  - yeosu
+  - hidden gem
+quickAnswer: 큰끝등대 (Keunkkeut Lighthouse) is a small white lighthouse on the southeastern tip of Dolsan Island in Yeosu, best visited around sunset or sunrise for open sea views toward the Namhae Strait. It's a quiet, uncrowded coastal spot best reached by car or taxi from central Yeosu, with a short walk from the nearest parking area; plan on 30–60 minutes there, longer if paired with a coastal walk. Rated 4.3 from 124 reviews, it's a genuine hidden-gem detour for travelers who've already covered Odongdo and Hyangiram.
 faq:
-  - q: "How do I get to 큰끝등대 without a car?"
-    a: "Take a taxi from downtown Yeosu or Yeosu Expo Station across the Dolsan Bridge to Pyeongsa-ri, Dolsan-eup — about 30–40 minutes. Local buses serve Dolsan-eup but connections into Pyeongsa-ri are limited, so a taxi or rental car is the more reliable option."
-  - q: "Is there an entrance fee?"
-    a: "No, it's an open coastal site with no ticket booth or admission fee — you can walk to the viewpoint and lighthouse area freely at any time."
-  - q: "How long should I spend there?"
-    a: "Most visitors spend 30–60 minutes taking in the coastline and photographing the lighthouse; add extra time if you plan to walk further along the headland or wait for sunset."
-  - q: "What's the best time of day to visit?"
-    a: "Sunset is the most popular time given the lighthouse's open sea-facing position; sunrise is also rewarding, especially if paired with a visit to nearby Hyangiram Hermitage the same morning."
-  - q: "What else is nearby on Dolsan Island?"
-    a: "Hyangiram Hermitage, Dolsan Park (with its bridge and night-view overlook), and several small seafood villages along the coast make for an easy half-day combined itinerary."
+  - q: How do I get to 큰끝등대 without a car?
+    a: Take a taxi from downtown Yeosu or Yeosu Expo Station across the Dolsan Bridge to Pyeongsa-ri, Dolsan-eup — about 30–40 minutes. Local buses serve Dolsan-eup but connections into Pyeongsa-ri are limited, so a taxi or rental car is the more reliable option.
+  - q: Is there an entrance fee?
+    a: No, it's an open coastal site with no ticket booth or admission fee — you can walk to the viewpoint and lighthouse area freely at any time.
+  - q: How long should I spend there?
+    a: Most visitors spend 30–60 minutes taking in the coastline and photographing the lighthouse; add extra time if you plan to walk further along the headland or wait for sunset.
+  - q: What's the best time of day to visit?
+    a: Sunset is the most popular time given the lighthouse's open sea-facing position; sunrise is also rewarding, especially if paired with a visit to nearby Hyangiram Hermitage the same morning.
+  - q: What else is nearby on Dolsan Island?
+    a: Hyangiram Hermitage, Dolsan Park (with its bridge and night-view overlook), and several small seafood villages along the coast make for an easy half-day combined itinerary.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

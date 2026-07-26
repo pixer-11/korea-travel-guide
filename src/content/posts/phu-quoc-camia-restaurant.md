@@ -1,43 +1,43 @@
 ---
-title: "Camia Restaurant: Where to Eat in Phu Quoc"
-description: "Camia Restaurant is a beachfront dining spot on Ong Lang Beach, on Le Thuc Nha Street north of Duong Dong town, best visited at sunset for fresh seafood with"
-country: "Vietnam"
-region: "Phu Quoc"
-category: "restaurant"
-pubDate: "2026-07-22T09:34:02.394Z"
+title: 'Camia Restaurant: Where to Eat in Phu Quoc'
+description: Camia Restaurant is a beachfront dining spot on Ong Lang Beach, on Le Thuc Nha Street north of Duong Dong town, best visited at sunset for fresh seafood with
+country: Vietnam
+region: Phu Quoc
+category: restaurant
+pubDate: '2026-07-22T09:34:02.394Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Camia_and_Rasa.jpg/1920px-Camia_and_Rasa.jpg"
-  credit: "Photo: lucyrfisher / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Camia_and_Rasa.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Camia_and_Rasa.jpg/1920px-Camia_and_Rasa.jpg
+  credit: 'Photo: lucyrfisher / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Camia_and_Rasa.jpg
 gallery: []
 place:
-  id: "ChIJF33R8xCLpzERFtTAVV7G-14"
-  name: "Camia Restaurant"
-  address: "Beach, Le Thuc Nha Street, Ông Lang, Phú Quốc, An Giang 92000, Vietnam"
+  id: ChIJF33R8xCLpzERFtTAVV7G-14
+  name: Camia Restaurant
+  address: Beach, Le Thuc Nha Street, Ông Lang, Phú Quốc, An Giang 92000, Vietnam
   rating: 4.8
   userRatingsTotal: 2445
-  googleMapsUrl: "https://maps.google.com/?cid=6844282167187526678&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=6844282167187526678&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 10.2640164
   lng: 103.92985069999999
 tags:
-  - "phu quoc"
-  - "local restaurant"
-quickAnswer: "Camia Restaurant is a beachfront dining spot on Ong Lang Beach, on Le Thuc Nha Street north of Duong Dong town, best visited at sunset for fresh seafood with your feet near the sand. It holds a rare 4.8 rating across nearly 2,500 reviews, so arrive early evening or book ahead in high season (Nov–Apr) to get a table right by the water."
+  - phu quoc
+  - local restaurant
+quickAnswer: Camia Restaurant is a beachfront dining spot on Ong Lang Beach, on Le Thuc Nha Street north of Duong Dong town, best visited at sunset for fresh seafood with your feet near the sand. It holds a rare 4.8 rating across nearly 2,500 reviews, so arrive early evening or book ahead in high season (Nov–Apr) to get a table right by the water.
 faq:
-  - q: "How do I get to Camia Restaurant without a car?"
-    a: "Book a Grab car or motorbike through the app from anywhere in Duong Dong or Long Beach — it's about 15-20 minutes to Ong Lang. Arrange your return ride before dinner, as availability thins out after dark on this quieter stretch of coast."
-  - q: "What's the best time of day to visit?"
-    a: "Aim for 5:30-6:30pm during the dry season (November to April) to catch sunset over the water while you eat. It's a west-facing beach, so the light is dramatic right through dinner."
-  - q: "Is it expensive?"
-    a: "Seafood is typically priced by weight and varies with the day's catch, so ask for the per-kilo rate before ordering whole fish, crab, or lobster. Vegetable and rice dishes are generally inexpensive by comparison."
-  - q: "Do I need a reservation?"
-    a: "With a 4.8 rating and thousands of reviews, beachfront tables can fill up on weekends and during peak season (Nov-Apr). Calling ahead or arriving right at opening is a safe bet."
-  - q: "What's nearby if I want to make a night of it?"
-    a: "Ong Lang Beach itself is worth a pre-dinner walk, and several small resorts and bungalow stays line the same road, making it easy to combine dinner with a sunset stroll without much travel."
+  - q: How do I get to Camia Restaurant without a car?
+    a: Book a Grab car or motorbike through the app from anywhere in Duong Dong or Long Beach — it's about 15-20 minutes to Ong Lang. Arrange your return ride before dinner, as availability thins out after dark on this quieter stretch of coast.
+  - q: What's the best time of day to visit?
+    a: Aim for 5:30-6:30pm during the dry season (November to April) to catch sunset over the water while you eat. It's a west-facing beach, so the light is dramatic right through dinner.
+  - q: Is it expensive?
+    a: Seafood is typically priced by weight and varies with the day's catch, so ask for the per-kilo rate before ordering whole fish, crab, or lobster. Vegetable and rice dishes are generally inexpensive by comparison.
+  - q: Do I need a reservation?
+    a: With a 4.8 rating and thousands of reviews, beachfront tables can fill up on weekends and during peak season (Nov-Apr). Calling ahead or arriving right at opening is a safe bet.
+  - q: What's nearby if I want to make a night of it?
+    a: Ong Lang Beach itself is worth a pre-dinner walk, and several small resorts and bungalow stays line the same road, making it easy to combine dinner with a sunset stroll without much travel.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go
