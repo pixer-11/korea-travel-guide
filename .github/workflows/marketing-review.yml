@@ -1,0 +1,32 @@
+name: Weekly marketing review
+
+# User standing directive (2026-07-26): continuously & periodically propose
+# better marketing / exposure / inflow optimizations. Every Sunday evening a
+# Claude strategist reviews REAL current data (GSC queries, traffic snapshot,
+# coverage, channel states) and telegrams 3-5 prioritized suggestions in Korean.
+on:
+  schedule:
+    - cron: '25 11 * * 0' # Sun 11:25 UTC = 20:25 KST (after the GSC weekly pull)
+  workflow_dispatch:
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      - name: Strategy review
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GSC_SERVICE_ACCOUNT_JSON: ${{ secrets.GSC_SERVICE_ACCOUNT_JSON }}
+          GSC_SITE_URL: ${{ secrets.GSC_SITE_URL }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: node scripts/marketing-review.mjs
