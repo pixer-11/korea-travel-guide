@@ -1,49 +1,49 @@
 ---
-title: "Yokohama Chinatown: Travel Guide"
-description: "Yokohama Chinatown (Yamashitacho, Naka Ward) is Japan's largest Chinatown — some 250 Chinese-owned restaurants and shops packed into a compact grid a short"
-country: "Japan"
-region: "Yokohama"
-category: "hidden-gem"
-pubDate: "2026-07-26T08:32:16.140Z"
+title: 'Yokohama Chinatown: Travel Guide'
+description: Yokohama Chinatown (Yamashitacho, Naka Ward) is Japan's largest Chinatown — some 250 Chinese-owned restaurants and shops packed into a compact grid a short
+country: Japan
+region: Yokohama
+category: attraction
+pubDate: '2026-07-26T08:32:16.140Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Yokohama_Chinatown_4.jpg/1920px-Yokohama_Chinatown_4.jpg"
-  credit: "Photo: Syced / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Yokohama_Chinatown_4.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Yokohama_Chinatown_4.jpg/1920px-Yokohama_Chinatown_4.jpg
+  credit: 'Photo: Syced / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Yokohama_Chinatown_4.jpg
 gallery: []
 place:
-  id: "ChIJ__-Le-9cGGARNY-CTSHwq5A"
-  name: "Yokohama Chinatown"
-  address: "Yamashitacho, Naka Ward, Yokohama, Kanagawa 231-0023, Japan"
+  id: ChIJ__-Le-9cGGARNY-CTSHwq5A
+  name: Yokohama Chinatown
+  address: Yamashitacho, Naka Ward, Yokohama, Kanagawa 231-0023, Japan
   rating: 4.1
   userRatingsTotal: 49010
-  googleMapsUrl: "https://maps.google.com/?cid=10424689788304133941&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=10424689788304133941&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.4430883
   lng: 139.64410010000003
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "yokohama"
-  - "hidden gem"
-quickAnswer: "Yokohama Chinatown (Yamashitacho, Naka Ward) is Japan's largest Chinatown — some 250 Chinese-owned restaurants and shops packed into a compact grid a short walk from Minato Mirai and Yamashita Park. It's genuinely crowded, so aim for a weekday before 11am, and budget two to three hours to eat your way through it. This is not an undiscovered spot — it's one of Yokohama's top draws, rated 4.1 from nearly 49,000 reviews — so plan around the peak lunch and weekend rush rather than expecting solitude."
+  - yokohama
+  - hidden gem
+quickAnswer: Yokohama Chinatown (Yamashitacho, Naka Ward) is Japan's largest Chinatown — some 250 Chinese-owned restaurants and shops packed into a compact grid a short walk from Minato Mirai and Yamashita Park. It's genuinely crowded, so aim for a weekday before 11am, and budget two to three hours to eat your way through it. This is not an undiscovered spot — it's one of Yokohama's top draws, rated 4.1 from nearly 49,000 reviews — so plan around the peak lunch and weekend rush rather than expecting solitude.
 faq:
-  - q: "What's the best way to get to Yokohama Chinatown?"
-    a: "Take the Minatomirai Line to Motomachi-Chukagai Station, which exits almost directly at the Zenrinmon Gate, or JR Ishikawacho Station on the Negishi Line, about a 5-minute walk away."
-  - q: "How long should I spend there?"
-    a: "Two to three hours is enough to walk the main streets, snack at a few stalls, and duck into Kanteibyo Temple; add more time if you plan a full sit-down meal."
-  - q: "When is it least crowded?"
-    a: "Weekday late mornings, before the lunch rush, are calmer than weekend afternoons, which get very congested on the main pedestrian streets."
-  - q: "Is Yokohama Chinatown a hidden gem?"
-    a: "No — it's Japan's largest Chinatown and one of Yokohama's most-visited attractions, so it's worth planning around peak hours rather than expecting a quiet, undiscovered spot."
-  - q: "What should I eat there?"
-    a: "Steamed buta-man buns, xiaolongbao, and sesame balls from stalls are the classic street snacks; for a sit-down meal, look at signage to find restaurants specializing in Cantonese, Sichuan, Shanghainese, or Taiwanese cooking."
+  - q: What's the best way to get to Yokohama Chinatown?
+    a: Take the Minatomirai Line to Motomachi-Chukagai Station, which exits almost directly at the Zenrinmon Gate, or JR Ishikawacho Station on the Negishi Line, about a 5-minute walk away.
+  - q: How long should I spend there?
+    a: Two to three hours is enough to walk the main streets, snack at a few stalls, and duck into Kanteibyo Temple; add more time if you plan a full sit-down meal.
+  - q: When is it least crowded?
+    a: Weekday late mornings, before the lunch rush, are calmer than weekend afternoons, which get very congested on the main pedestrian streets.
+  - q: Is Yokohama Chinatown a hidden gem?
+    a: No — it's Japan's largest Chinatown and one of Yokohama's most-visited attractions, so it's worth planning around peak hours rather than expecting a quiet, undiscovered spot.
+  - q: What should I eat there?
+    a: Steamed buta-man buns, xiaolongbao, and sesame balls from stalls are the classic street snacks; for a sit-down meal, look at signage to find restaurants specializing in Cantonese, Sichuan, Shanghainese, or Taiwanese cooking.
 aiGenerated: true
 draft: false
 ---
