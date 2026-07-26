@@ -44,8 +44,22 @@ export async function fsqVenuePhotos({ name, lat, lng, limit = 4 }) {
   try {
     const q = new URLSearchParams({ query: name, ll: `${lat},${lng}`, radius: '400', limit: '3' });
     const res = await fsqFetch(`/places/search?${q}`);
-    if (!res.ok) return [];
-    const { results = [] } = await res.json();
+    if (!res.ok) {
+      // Diagnose silently-failing searches ONCE (a 400 here looked like "auth
+      // OK, zero candidates" and produced a 0-fix full run).
+      if (!fsqVenuePhotos._logged) {
+        fsqVenuePhotos._logged = true;
+        console.log(`  [fsq] search FAILED ${res.status}: ${(await res.text().catch(() => '')).slice(0, 250)}`);
+      }
+      return [];
+    }
+    const body = await res.json();
+    if (!fsqVenuePhotos._shape) {
+      fsqVenuePhotos._shape = true;
+      console.log(`  [fsq] first search OK — keys: ${Object.keys(body).join(',')} · results: ${(body.results || []).length}`);
+      if ((body.results || [])[0]) console.log(`  [fsq] first result keys: ${Object.keys(body.results[0]).join(',').slice(0, 150)}`);
+    }
+    const results = body.results || [];
     // Confidence: the top result's name must share a token with ours (the
     // vision gate still has the final say — this just avoids junk lookups).
     const norm = (s) => String(s).toLowerCase().replace(/[^a-z0-9\s]/g, '');
