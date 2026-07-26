@@ -6,7 +6,7 @@ region: Clarke Quay
 category: restaurant
 pubDate: '2026-07-23T07:37:16.109Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/3275092_qH8aA2Cgth3dEI6F1NilT3I5iwIpPz1NI5sYfAuRbKk.jpg
+  url: https://fastly.4sqi.net/img/general/original/138369165_ZCHtpoTrafu6S9uPRWHWCyOmcOXO-aadwQidnX7Z5lw.jpg
   credit: 'Photo: Foursquare user content (Malayan Settlement)'
   license: foursquare
   source: https://foursquare.com/v/6791b6e123751242ab2af9a6
