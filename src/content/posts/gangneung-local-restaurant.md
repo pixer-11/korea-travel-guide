@@ -1,14 +1,14 @@
 ---
-title: "Local Restaurant in Gangneung"
-description: "For an honest sense of Gangneung''s food culture, head to the alleys around Jungang Market (Jungang-dong) and the Gangmun tidal flat near Gyeongpo Beach"
+title: Local Restaurant in Gangneung
+description: For an honest sense of Gangneung''s food culture, head to the alleys around Jungang Market (Jungang-dong) and the Gangmun tidal flat near Gyeongpo Beach
 region: Gangneung
 category: restaurant
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: https://images.unsplash.com/photo-1684042229029-8a899193a8e4?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8R2FuZ25ldW5nJTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0NjA3OTkzfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by yoo 89 on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@yoosc89?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/10426234_YAxFUV6jJr5NDXkNnPlDjMwjt72zN6iPAgvKeIy7KMg.jpg
+  credit: 'Photo: Foursquare user content (감자유원지 deli / cafe & local store)'
+  license: foursquare
+  source: https://foursquare.com/v/622c20bfdcb1130282b6c69b
 gallery: []
 tags:
   - gangneung

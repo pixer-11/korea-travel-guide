@@ -1,15 +1,15 @@
 ---
-title: "Goodbai Cafe in Shanghai"
-description: "Goodbai Cafe is a design-forward cafe-concept-store in Jing'an District, Shanghai, opened by actor Bai Jing Ting, and it has become a Xiaohongshu (Little Red"
+title: Goodbai Cafe in Shanghai
+description: Goodbai Cafe is a design-forward cafe-concept-store in Jing'an District, Shanghai, opened by actor Bai Jing Ting, and it has become a Xiaohongshu (Little Red
 country: China
 region: Shanghai
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
-  url: https://images.unsplash.com/photo-1707013533606-62919aa3aa29?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U2hhbmdoYWklMjBDaGluYSUyMEdvb2RiYWklMjBDYWZlfGVufDB8MHx8fDE3ODQ3Njc1NTR8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Zhe ZHANG on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@doublez0108?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/37314315_FR3VX2uLB5O5ZYSwJF0IpFOJmCu1qJQ5UYBCOCUf7Xg.jpg
+  credit: 'Photo: Foursquare user content (Goodbai Cafe)'
+  license: foursquare
+  source: https://foursquare.com/v/68246775c9846d77894fc900
 gallery: []
 tags:
   - shanghai

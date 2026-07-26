@@ -1,15 +1,15 @@
 ---
-title: "VICE in Shanghai"
-description: "VICE is a new restaurant on Yongjia Lu in Shanghai's former French Concession, set inside a restored heritage lane house, from chef Carlos Sotomayor and"
+title: VICE in Shanghai
+description: VICE is a new restaurant on Yongjia Lu in Shanghai's former French Concession, set inside a restored heritage lane house, from chef Carlos Sotomayor and
 country: China
 region: Shanghai
 category: restaurant
 pubDate: '2026-07-23'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Shanghai%2C_fast_food_restaurant.jpg/1920px-Shanghai%2C_fast_food_restaurant.jpg"
-  credit: "Photo: Nikolamikovic82 / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Shanghai,_fast_food_restaurant.jpg"
+  url: https://fastly.4sqi.net/img/general/original/20410869_p1dlfceER_gz4l7VvzLp-E9tjFr8MVyfOn8LtGFfzts.jpg
+  credit: 'Photo: Foursquare user content (VICE)'
+  license: foursquare
+  source: https://foursquare.com/v/6a24fb4f340f6b3d5b04dde2
 gallery: []
 tags:
   - shanghai

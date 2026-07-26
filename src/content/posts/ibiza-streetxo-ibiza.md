@@ -1,15 +1,15 @@
 ---
-title: "StreetXO Ibiza"
-description: "StreetXO Ibiza is chef Dabiz Muñoz's high-concept street food restaurant inside The Unexpected Ibiza Hotel, built around a central bar and open kitchen."
+title: StreetXO Ibiza
+description: StreetXO Ibiza is chef Dabiz Muñoz's high-concept street food restaurant inside The Unexpected Ibiza Hotel, built around a central bar and open kitchen.
 country: Spain
 region: Ibiza
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
-  url: https://images.unsplash.com/photo-1666101004884-ebe1e825f1fb?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SWJpemElMjBTcGFpbnxlbnwwfDB8fHwxNzg0NzY3NzEwfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Karol Chomka on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@karolchomka?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/4298819_RKVQfOpJyLQKxJbylLyBbqfawl33cMxs4hQjsj7gm4o.jpg
+  credit: 'Photo: Foursquare user content (Streetxo Ibiza)'
+  license: foursquare
+  source: https://foursquare.com/v/6a285f132f1cf70096f7b73f
 gallery: []
 tags:
   - ibiza

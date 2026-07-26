@@ -1,14 +1,14 @@
 ---
-title: "Local Restaurant in Jeonju"
-description: "For an authentic local meal in Jeonju, head to the Hanok Village and Nambu Market area, where family-run restaurants serve the city's signature dishes"
+title: Local Restaurant in Jeonju
+description: For an authentic local meal in Jeonju, head to the Hanok Village and Nambu Market area, where family-run restaurants serve the city's signature dishes
 region: Jeonju
 category: restaurant
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Downtown_Jeonju_-_July_2018_%284%29.jpg/1920px-Downtown_Jeonju_-_July_2018_%284%29.jpg"
-  credit: "Photo: Shamus7792003 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Downtown_Jeonju_-_July_2018_(4).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Downtown_Jeonju_-_July_2018_%284%29.jpg/1920px-Downtown_Jeonju_-_July_2018_%284%29.jpg
+  credit: 'Photo: Shamus7792003 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Downtown_Jeonju_-_July_2018_(4).jpg
 gallery: []
 tags:
   - jeonju
@@ -26,7 +26,7 @@ faq:
   - q: What else is nearby worth combining with a meal?
     a: Nambu Market (especially its Friday–Saturday night market), Omokdae and Imokdae hillside pavilions, and Jeondong Catholic Church are all within a short walk of the main restaurant streets.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Jeonju Is Korea's Food Capital

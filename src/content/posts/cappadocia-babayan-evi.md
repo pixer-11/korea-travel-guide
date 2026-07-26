@@ -1,15 +1,15 @@
 ---
-title: "Babayan Evi in Cappadocia"
-description: "Babayan Evi is a traditional Cappadocian restaurant that made history in the region's first-ever Michelin Guide (2026), earning both a Bib Gourmand (great"
+title: Babayan Evi in Cappadocia
+description: Babayan Evi is a traditional Cappadocian restaurant that made history in the region's first-ever Michelin Guide (2026), earning both a Bib Gourmand (great
 country: Turkey
 region: Cappadocia
 category: restaurant
 pubDate: '2026-07-23'
 heroImage:
-  url: https://images.unsplash.com/photo-1643354812958-b648b92dc6c5?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8Q2FwcGFkb2NpYSUyMFR1cmtleSUyMEJhYmF5YW4lMjBFdml8ZW58MHwwfHx8MTc4NDc2ODkxN3ww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Burak Arslan on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@brkarslan?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/129133343_QyNfBImCekN_S5Ge4_A25GTPJOLSM2gz4CDyNsxowzk.jpg
+  credit: 'Photo: Foursquare user content (Yaren Kahvaltı Evi)'
+  license: foursquare
+  source: https://foursquare.com/v/51cbf9ba498ed4e430382c65
 gallery: []
 tags:
   - cappadocia

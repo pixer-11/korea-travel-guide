@@ -1,5 +1,5 @@
 ---
-title: 'Upstairs in Ho Chi Minh City'
+title: Upstairs in Ho Chi Minh City
 description: 'Upstairs in Ho Chi Minh City, Vietnam — a new/trending spot: what it is, where it is, and how to visit.'
 country: Vietnam
 region: Ho Chi Minh City
@@ -27,7 +27,7 @@ faq:
   - q: What's the best way to get to Upstairs in Ho Chi Minh City?
     a: Use Grab or a taxi rather than walking or self-driving, and confirm the exact address beforehand, since the venue's upstairs/second-floor location can be tricky to spot from the street.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

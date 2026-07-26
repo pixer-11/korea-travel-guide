@@ -1,5 +1,5 @@
 ---
-title: 'Nomos Ante in Rome'
+title: Nomos Ante in Rome
 description: 'Nomos Ante in Rome, Italy — a new/trending spot: what it is, where it is, and how to visit.'
 country: Italy
 region: Rome
@@ -27,7 +27,7 @@ faq:
   - q: Do I need to tip?
     a: Tipping isn't obligatory in Italy; a service charge may already be included. A small extra amount for standout service is customary but not expected.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

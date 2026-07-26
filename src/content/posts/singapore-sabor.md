@@ -1,5 +1,5 @@
 ---
-title: 'Sabor in Singapore'
+title: Sabor in Singapore
 description: 'Sabor in Singapore, Singapore — a new/trending spot: what it is, where it is, and how to visit.'
 country: Singapore
 region: Singapore
@@ -27,7 +27,7 @@ faq:
   - q: What else is nearby if I want to make it a night out?
     a: Chijmes itself has other dining and drinking spots within the same complex, and the Civic District's museums, Bugis, and Bras Basah's bookshop-and-cafe strip are all within a short walk.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Sabor is worth knowing about

@@ -1,15 +1,15 @@
 ---
-title: "Nobu (One Za'abeel) in Dubai"
-description: "Nobu's newest Dubai outpost sits inside The Link, the sky-bridge connecting the two towers of One Za'abeel, roughly 230 metres above the city — making it"
+title: Nobu (One Za'abeel) in Dubai
+description: Nobu's newest Dubai outpost sits inside The Link, the sky-bridge connecting the two towers of One Za'abeel, roughly 230 metres above the city — making it
 country: United Arab Emirates
 region: Dubai
 category: restaurant
 pubDate: '2026-07-23'
 heroImage:
-  url: "https://images.unsplash.com/photo-1726109072699-44852d8fce74?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8RHViYWklMjBVbml0ZWQlMjBBcmFiJTIwRW1pcmF0ZXMlMjByZXN0YXVyYW50JTIwZm9vZCUyMGRpbmluZ3xlbnwwfDB8fHwxNzg0OTA2NDYyfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Kate Trysh on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@katetrysh?utm_source=korea_travel_guide&utm_medium=referral"
+  url: https://fastly.4sqi.net/img/general/original/536378159_0kcneMJv1Bb5wGN-Fx1YP5Ss9UA2w1LnWYelZjdz8kg.jpg
+  credit: 'Photo: Foursquare user content (One&Only One Za''abeel)'
+  license: foursquare
+  source: https://foursquare.com/v/6553922bd019fe4b90a2aeff
 gallery: []
 tags:
   - dubai

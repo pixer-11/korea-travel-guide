@@ -1,5 +1,5 @@
 ---
-title: 'Fuga R in Paris'
+title: Fuga R in Paris
 description: 'Fuga R in Paris, France — a new/trending spot: what it is, where it is, and how to visit.'
 country: France
 region: Paris
@@ -27,7 +27,7 @@ faq:
   - q: What else can I see nearby?
     a: Parc Monceau, with its rotunda and follies, is a short walk away, as are the grand Belle Époque avenues of the 8th arrondissement. The Arc de Triomphe and Champs-Élysées are also easily reached via Line 2.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Fuga R stands out

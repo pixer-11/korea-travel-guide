@@ -1,6 +1,6 @@
 ---
-title: "Top Attraction in Daegu"
-description: "Daegu's single best first stop is Seomun Market combined with a walk through the Yangnyeongsi Herb Medicine District and Jung-gu's colonial-era alleys"
+title: Top Attraction in Daegu
+description: Daegu's single best first stop is Seomun Market combined with a walk through the Yangnyeongsi Herb Medicine District and Jung-gu's colonial-era alleys
 region: Daegu
 category: attraction
 pubDate: 2026-07-20T00:00:00.000Z
@@ -26,7 +26,7 @@ faq:
   - q: Is Seomun Market open at night?
     a: The adjacent Seomun Night Market typically runs seasonally, generally spring through autumn, with food stalls open in the evening — confirm current operating dates locally since schedules can shift year to year.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Daegu, and why this route

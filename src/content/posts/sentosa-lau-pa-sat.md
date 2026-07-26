@@ -65,6 +65,7 @@ faq:
   - q: What else is nearby if I'm already in the CBD?
     a: Lau Pa Sat sits within walking distance of Marina Bay, the Merlion Park, and Boat Quay, so it pairs well with an evening riverside or waterfront walk before heading back to Sentosa.
 aiGenerated: true
+draft: true
 ---
 
 ## Why this guide starts with a correction

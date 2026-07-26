@@ -1,15 +1,15 @@
 ---
-title: 'Cure Bali in Bali'
+title: Cure Bali in Bali
 description: 'Cure Bali in Bali, Indonesia — a new/trending spot: what it is, where it is, and how to visit.'
 country: Indonesia
 region: Bali
 category: restaurant
 pubDate: '2026-07-24'
 heroImage:
-  url: https://images.unsplash.com/photo-1555400038-63f5ba517a47?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8QmFsaSUyMEluZG9uZXNpYXxlbnwwfDB8fHwxNzg0OTIzNjkyfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Niklas Weiss on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@treesoftheplanet?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/543233313_iOLX7_PvYnOhDXgMlx13iji9rTC7qA9f-FM_Z49IGn8.jpg
+  credit: 'Photo: Foursquare user content (Cure Bali)'
+  license: foursquare
+  source: https://foursquare.com/v/6a12e8872e47383aa224f78d
 gallery: []
 tags:
   - bali

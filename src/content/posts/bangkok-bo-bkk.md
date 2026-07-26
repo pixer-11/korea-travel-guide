@@ -1,6 +1,6 @@
 ---
-title: "Bo.bkk in Bangkok"
-description: "Bo.bkk is a bagel-and-coffee café tucked beneath an apartment building in Sathorn, near Lumphini Park, run by the team behind Meep Meep Run Club."
+title: Bo.bkk in Bangkok
+description: Bo.bkk is a bagel-and-coffee café tucked beneath an apartment building in Sathorn, near Lumphini Park, run by the team behind Meep Meep Run Club.
 country: Thailand
 region: Bangkok
 category: trendy
@@ -27,7 +27,7 @@ faq:
   - q: Do I need a reservation or should I check hours first?
     a: Yes — as a newly opened, trending spot, hours, run schedules, and reservation policies can change. Confirm current opening times and whether the weekend run or seating requires booking ahead before you go.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Bo.bkk stands out

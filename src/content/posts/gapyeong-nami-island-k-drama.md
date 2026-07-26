@@ -26,7 +26,7 @@ faq:
   - q: What else can I visit near Nami Island in Gapyeong?
     a: Petite France, the Garden of Morning Calm, and the Gapyeong Rail Bike park are all short drives from Gapyeong Wharf and commonly combined into one day trip.
 aiGenerated: true
-draft: false
+draft: true
 country: South Korea
 ---
 

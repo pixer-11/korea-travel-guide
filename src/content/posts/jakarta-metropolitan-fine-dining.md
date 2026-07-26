@@ -1,5 +1,5 @@
 ---
-title: 'Metropolitan Fine Dining in Jakarta'
+title: Metropolitan Fine Dining in Jakarta
 description: 'Metropolitan Fine Dining in Jakarta, Indonesia — a new/trending spot: what it is, where it is, and how to visit.'
 country: Indonesia
 region: Jakarta
@@ -27,7 +27,7 @@ faq:
   - q: What's nearby if I want to combine my visit with other things?
     a: SCBD is walkable to Pacific Place and fx Sudirman malls, both packed with additional dining, bars, and shopping if you want to extend the evening before or after your meal.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

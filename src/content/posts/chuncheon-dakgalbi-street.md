@@ -26,7 +26,7 @@ faq:
   - q: What else can I combine with a dakgalbi trip in Chuncheon?
     a: Many visitors pair the meal with a trip to Nami Island or Soyang Dam, and explore Chuncheon's Myeongdong shopping street for cafes and snacks before or after eating.
 aiGenerated: true
-draft: false
+draft: true
 country: South Korea
 ---
 

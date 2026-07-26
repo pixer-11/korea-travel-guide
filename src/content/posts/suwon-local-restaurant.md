@@ -1,19 +1,19 @@
 ---
-title: "Local Restaurant in Suwon"
-description: "Suwon's signature dish is wang-galbi, king-sized beef short ribs, best eaten around Paldalmun Gate and Yeongdong Market in the historic center."
+title: Local Restaurant in Suwon
+description: Suwon's signature dish is wang-galbi, king-sized beef short ribs, best eaten around Paldalmun Gate and Yeongdong Market in the historic center.
 region: Suwon
 category: restaurant
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: https://images.unsplash.com/photo-1509327522225-6ce58f4795c7?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U3V3b24lMjBTb3V0aCUyMEtvcmVhfGVufDB8MHx8fDE3ODQ2MDgwMjd8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Mathew Schwartz on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@cadop?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/46335191_LEzJHbmhPYBUGC3AtGsK6aRdbYrYVxI_K4Dt2ziD-1E.jpg
+  credit: 'Photo: Foursquare user content (Swoyambhu Restaurant (수엠부))'
+  license: foursquare
+  source: https://foursquare.com/v/500297cbe4b0c432cf19e93d
 gallery: []
 tags:
   - suwon
   - local restaurant
-quickAnswer: "Suwon's signature dish is wang-galbi, king-sized beef short ribs, best eaten around Paldalmun Gate and Yeongdong Market in the historic center. Come hungry in the evening, combine it with a walk along Hwaseong Fortress, and reach the area via Suwon Station (Line 1) then a short taxi or bus."
+quickAnswer: Suwon's signature dish is wang-galbi, king-sized beef short ribs, best eaten around Paldalmun Gate and Yeongdong Market in the historic center. Come hungry in the evening, combine it with a walk along Hwaseong Fortress, and reach the area via Suwon Station (Line 1) then a short taxi or bus.
 faq:
   - q: How do I get to Suwon's restaurant district from Seoul?
     a: Take Line 1 of the subway to Suwon Station (about 1-1.5 hours from central Seoul) or a KTX/ITX train (roughly 30-45 minutes), then a short bus ride or taxi (10-15 minutes) to Paldalmun Gate, the center of the historic dining area.

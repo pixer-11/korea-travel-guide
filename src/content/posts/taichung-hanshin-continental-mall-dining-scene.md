@@ -1,5 +1,5 @@
 ---
-title: 'Hanshin Continental Mall Dining Scene in Taichung'
+title: Hanshin Continental Mall Dining Scene in Taichung
 description: '漢神洲際購物中心 (Hanshin Continental Mall) dining scene in Taichung, Taiwan — a new/trending spot: what it is, where it is, and how to visit.'
 country: Taiwan
 region: Taichung
@@ -27,7 +27,7 @@ faq:
   - q: How long should I plan to spend there?
     a: Budget at least 1.5–2 hours if you want to eat at one of the anchor restaurants and browse the rest of the mall, more if you're waiting for a table during peak hours.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why this food court is the talk of Taichung

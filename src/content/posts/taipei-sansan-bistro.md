@@ -1,15 +1,15 @@
 ---
-title: "Sansan Bistro in Taipei"
-description: "Sansan Bistro is a neo-Sichuan restaurant and cocktail bar in Taipei that landed in the Michelin Guide Taiwan in January 2026, known for a striking"
+title: Sansan Bistro in Taipei
+description: Sansan Bistro is a neo-Sichuan restaurant and cocktail bar in Taipei that landed in the Michelin Guide Taiwan in January 2026, known for a striking
 country: Taiwan
 region: Taipei
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/1_taipei_sunrise_panorama_dxr_edit_pangen_141215_1.jpg/1920px-1_taipei_sunrise_panorama_dxr_edit_pangen_141215_1.jpg"
-  credit: "Photo: Chensiyuan, edit by DXR / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:1_taipei_sunrise_panorama_dxr_edit_pangen_141215_1.jpg"
+  url: https://fastly.4sqi.net/img/general/original/92194845_ElzWszYJTGfgPswl-uauQja32QqzQrtuYS8Un0FuhII.jpg
+  credit: 'Photo: Foursquare user content (Sugar Bistro (小食糖))'
+  license: foursquare
+  source: https://foursquare.com/v/50793e96e4b07018b62b1cef
 gallery: []
 tags:
   - taipei

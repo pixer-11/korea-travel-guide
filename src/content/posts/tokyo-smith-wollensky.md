@@ -1,15 +1,15 @@
 ---
-title: 'Smith & Wollensky in Tokyo'
+title: Smith & Wollensky in Tokyo
 description: 'Smith & Wollensky in Tokyo, Japan — a new/trending spot: what it is, where it is, and how to visit.'
 country: Japan
 region: Tokyo
 category: trendy
 pubDate: '2026-07-24'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Smith_%26_Wollensky_steakhouse_%28Manhattan%2C_New_York%29_001.jpg/1920px-Smith_%26_Wollensky_steakhouse_%28Manhattan%2C_New_York%29_001.jpg
-  credit: 'Photo: Leonard J. DeFrancisci / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Smith_%26_Wollensky_steakhouse_(Manhattan,_New_York)_001.jpg
+  url: https://fastly.4sqi.net/img/general/original/528907406_D_WjAKAGwdGuN9wplSAp2z36tEmwvyQirXoA71I_s34.jpg
+  credit: 'Photo: Foursquare user content (Smith & Wollensky GINZA)'
+  license: foursquare
+  source: https://foursquare.com/v/69ffff169545e75813a2b47f
 gallery: []
 tags:
   - tokyo

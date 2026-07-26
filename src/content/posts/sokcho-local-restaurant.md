@@ -1,14 +1,14 @@
 ---
-title: "Local Restaurant in Sokcho"
-description: "For genuine local eating in Sokcho, head to Sokcho Jungang Market or the alleys around Daepo Port and Sokcho Beach, where small family-run restaurants"
+title: Local Restaurant in Sokcho
+description: For genuine local eating in Sokcho, head to Sokcho Jungang Market or the alleys around Daepo Port and Sokcho Beach, where small family-run restaurants
 region: Sokcho
 category: restaurant
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/View_of_Sokcho_01.jpg/1920px-View_of_Sokcho_01.jpg"
-  credit: "Photo: Bernard Gagnon / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:View_of_Sokcho_01.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/View_of_Sokcho_01.jpg/1920px-View_of_Sokcho_01.jpg
+  credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:View_of_Sokcho_01.jpg
 gallery: []
 tags:
   - sokcho
@@ -26,7 +26,7 @@ faq:
   - q: Best time of day and year to visit for food?
     a: Weekday lunchtime avoids crowds; late spring and autumn are less congested than the summer beach season and pair well with a Seoraksan hike.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Sokcho's local restaurants are worth seeking out

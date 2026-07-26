@@ -1,15 +1,15 @@
 ---
-title: "Bad Roman in Los Angeles"
-description: "Bad Roman is a maximalist, see-and-be-seen Italian restaurant from Quality Branded Hospitality (the team behind Don Angie and Zou Zou's) in Beverly Hills"
+title: Bad Roman in Los Angeles
+description: Bad Roman is a maximalist, see-and-be-seen Italian restaurant from Quality Branded Hospitality (the team behind Don Angie and Zou Zou's) in Beverly Hills
 country: United States
 region: Los Angeles
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ancient_Roman_amphitheatre_in_Bad_Deutsch-Altenburg.JPG/1920px-Ancient_Roman_amphitheatre_in_Bad_Deutsch-Altenburg.JPG
-  credit: 'Photo: Pudelek (Marcin Szala) / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Ancient_Roman_amphitheatre_in_Bad_Deutsch-Altenburg.JPG
+  url: https://fastly.4sqi.net/img/general/original/463594059_7nz7Ts1VXjrzksDpOwFLwPdKlKTK4iz6Y072O7s2wSs.jpg
+  credit: 'Photo: Foursquare user content (Bad Roman)'
+  license: foursquare
+  source: https://foursquare.com/v/6a17b63d9213a20938310f3e
 gallery: []
 tags:
   - los angeles

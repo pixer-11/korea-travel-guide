@@ -1,15 +1,15 @@
 ---
-title: "ONVIT in Hanoi"
-description: "ONVIT is a Korean fine-dining restaurant inside the Grand Plaza Hanoi Hotel on Tran Duy Hung street, Cau Giay district, notable as the first Korean"
+title: ONVIT in Hanoi
+description: ONVIT is a Korean fine-dining restaurant inside the Grand Plaza Hanoi Hotel on Tran Duy Hung street, Cau Giay district, notable as the first Korean
 country: Vietnam
 region: Hanoi
 category: restaurant
 pubDate: '2026-07-23'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Street_Food_-_Hanoi_-_Vietnam_%2815852884012%29.jpg/1920px-Street_Food_-_Hanoi_-_Vietnam_%2815852884012%29.jpg"
-  credit: "Photo: Esin Üstün from Istanbul, Turkey / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Street_Food_-_Hanoi_-_Vietnam_(15852884012).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Street_Food_-_Hanoi_-_Vietnam_%2815852884012%29.jpg/1920px-Street_Food_-_Hanoi_-_Vietnam_%2815852884012%29.jpg
+  credit: 'Photo: Esin Üstün from Istanbul, Turkey / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Street_Food_-_Hanoi_-_Vietnam_(15852884012).jpg
 gallery: []
 tags:
   - hanoi
@@ -27,7 +27,7 @@ faq:
   - q: How long should I plan for a meal there?
     a: Expect a two-to-three-hour tasting menu experience, typical of Michelin-starred, multi-course dining.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why ONVIT Matters

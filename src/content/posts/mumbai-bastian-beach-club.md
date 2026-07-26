@@ -1,5 +1,5 @@
 ---
-title: 'Bastian Beach Club in Mumbai'
+title: Bastian Beach Club in Mumbai
 description: 'Bastian Beach Club in Mumbai, India — a new/trending spot: what it is, where it is, and how to visit.'
 country: India
 region: Mumbai
@@ -27,7 +27,7 @@ faq:
   - q: How do I get there without a car?
     a: There's no metro or rail station directly at the venue, so taxis or app-based cabs are the most practical option from anywhere in Mumbai.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Bastian Beach Club stands out

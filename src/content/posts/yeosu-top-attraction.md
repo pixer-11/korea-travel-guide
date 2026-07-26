@@ -1,6 +1,6 @@
 ---
-title: "Top Attraction in Yeosu"
-description: "Yeosu's top attraction is the Yeosu Maritime Cable Car, which links Jasan Park on the mainland to Dolsan Island over Yeosu Bay, giving a sweeping view of the"
+title: Top Attraction in Yeosu
+description: Yeosu's top attraction is the Yeosu Maritime Cable Car, which links Jasan Park on the mainland to Dolsan Island over Yeosu Bay, giving a sweeping view of the
 region: Yeosu
 category: attraction
 pubDate: 2026-07-20T00:00:00.000Z
@@ -26,7 +26,7 @@ faq:
   - q: What else is nearby I can combine with this visit?
     a: Odongdo Island (camellia trees, lighthouse) is a short ride from the harbor, and Hyangiram Hermitage on Dolsan Island is a worthwhile but separate trip for sunrise views. Harbor cruises near Yeosu Expo Ocean Park also show the bridge and cable car lit up at night.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why the Cable Car Tops Yeosu's List

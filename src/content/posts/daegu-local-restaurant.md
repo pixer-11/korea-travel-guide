@@ -1,6 +1,6 @@
 ---
-title: "Local Restaurant in Daegu"
-description: "For an authentic Daegu meal, head to Seomun Market for night-market street food, Jjimgalbi Alley (Namseong-ro) near Banwoldang Station for the city's"
+title: Local Restaurant in Daegu
+description: For an authentic Daegu meal, head to Seomun Market for night-market street food, Jjimgalbi Alley (Namseong-ro) near Banwoldang Station for the city's
 region: Daegu
 category: restaurant
 pubDate: 2026-07-20T00:00:00.000Z
@@ -26,7 +26,7 @@ faq:
   - q: How much time should I budget for a food-focused visit?
     a: Plan 1-2 hours per neighborhood; a half-day is enough to combine a jjimgalbi meal with a walk through Yangnyeongsi Market or a visit to Seomun Market's food alley.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Daegu Is a Real Food City

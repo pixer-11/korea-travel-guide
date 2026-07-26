@@ -1,15 +1,15 @@
 ---
-title: "Tales by Chapter in Ho Chi Minh City"
-description: "Tales by Chapter is a rooftop-to-table, plant-based restaurant on Nguyễn Thành Ý Street in District 1's Đa Kao ward, a short walk from the Independence"
+title: Tales by Chapter in Ho Chi Minh City
+description: Tales by Chapter is a rooftop-to-table, plant-based restaurant on Nguyễn Thành Ý Street in District 1's Đa Kao ward, a short walk from the Independence
 country: Vietnam
 region: Ho Chi Minh City
 category: restaurant
 pubDate: '2026-07-23'
 heroImage:
-  url: "https://images.unsplash.com/photo-1497564263966-15960bd933bf?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SG8lMjBDaGklMjBNaW5oJTIwQ2l0eSUyMFZpZXRuYW0lMjBjYWZlJTIwYm9va3Nob3B8ZW58MHwwfHx8MTc4NDkwNjU4MXww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Hiep Nguyen on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@hiepng?utm_source=korea_travel_guide&utm_medium=referral"
+  url: https://images.unsplash.com/photo-1497564263966-15960bd933bf?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SG8lMjBDaGklMjBNaW5oJTIwQ2l0eSUyMFZpZXRuYW0lMjBjYWZlJTIwYm9va3Nob3B8ZW58MHwwfHx8MTc4NDkwNjU4MXww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Hiep Nguyen on Unsplash
+  license: unsplash
+  source: https://unsplash.com/@hiepng?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - ho chi minh city
@@ -27,7 +27,7 @@ faq:
   - q: What's the best time to visit?
     a: Early evening around sunset, to make the most of the rooftop setting — but confirm current opening hours before you go, since they can change.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

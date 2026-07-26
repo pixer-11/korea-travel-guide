@@ -1,15 +1,15 @@
 ---
-title: "Smash Street in Singapore"
-description: "Smash Street is the new smash-burger concept from the team behind the viral pasta bar Scarpetta, serving caramelised, crispy-edged smashed beef patties on"
+title: Smash Street in Singapore
+description: Smash Street is the new smash-burger concept from the team behind the viral pasta bar Scarpetta, serving caramelised, crispy-edged smashed beef patties on
 country: Singapore
 region: Singapore
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Hard_Rock_Cafe%2C_Singapore_%284448814810%29.jpg/1920px-Hard_Rock_Cafe%2C_Singapore_%284448814810%29.jpg"
-  credit: "Photo: Andy Mitchell from Glasgow, UK / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Hard_Rock_Cafe,_Singapore_(4448814810).jpg"
+  url: https://fastly.4sqi.net/img/general/original/5931716_3fJXjii8WXcrmU916NlCM6SAp9ApsBAGX1--9TStNLg.jpg
+  credit: 'Photo: Foursquare user content (Smash Street)'
+  license: foursquare
+  source: https://foursquare.com/v/69d8f55c73ca0576a90e9284
 gallery: []
 tags:
   - singapore

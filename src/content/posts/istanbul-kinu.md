@@ -1,15 +1,15 @@
 ---
-title: 'kinu in Istanbul'
+title: kinu in Istanbul
 description: 'kinu in Istanbul, Turkey — a new/trending spot: what it is, where it is, and how to visit.'
 country: Turkey
 region: Istanbul
 category: trendy
 pubDate: '2026-07-24'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kinu_Bridge.jpg/1920px-Kinu_Bridge.jpg
-  credit: 'Photo: Miyuki Meinaka / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Kinu_Bridge.jpg
+  url: https://fastly.4sqi.net/img/general/original/58770682_pmfkjoOR7sivXyFd7gV8OgTn36EQKhcPb_lcK5AZ_jw.jpg
+  credit: 'Photo: Foursquare user content (Kinu Matcha Bar)'
+  license: foursquare
+  source: https://foursquare.com/v/69174a2bb0526a28831c6067
 gallery: []
 tags:
   - istanbul

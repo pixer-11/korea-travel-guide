@@ -1,5 +1,5 @@
 ---
-title: 'Kiwon in Milan'
+title: Kiwon in Milan
 description: 'Kiwon in Milan, Italy — a new/trending spot: what it is, where it is, and how to visit.'
 country: Italy
 region: Milan
@@ -27,7 +27,7 @@ faq:
   - q: How long should I plan to stay?
     a: Counter-format small-plates dinners typically run 1.5 to 2.5 hours if you're ordering progressively; allow extra time on busy nights if you're waiting for a seat without a booking.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Kiwon is on Milan's radar

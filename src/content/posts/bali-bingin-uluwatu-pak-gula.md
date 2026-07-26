@@ -1,15 +1,15 @@
 ---
-title: "Pak Gula in Bali"
-description: "Pak Gula is a new two-storey Asian-fusion restaurant in Bingin, Uluwatu, from the team behind The Cashew Tree, known for shareable plates like char siu pork"
+title: Pak Gula in Bali
+description: Pak Gula is a new two-storey Asian-fusion restaurant in Bingin, Uluwatu, from the team behind The Cashew Tree, known for shareable plates like char siu pork
 country: Indonesia
 region: Bali
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sunset%2C_Kuta%2C_Bali%2C_Indonesia%2C_20220825_1755_0879.jpg/1920px-Sunset%2C_Kuta%2C_Bali%2C_Indonesia%2C_20220825_1755_0879.jpg"
-  credit: "Photo: Jakub Hałun / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Sunset,_Kuta,_Bali,_Indonesia,_20220825_1755_0879.jpg"
+  url: https://fastly.4sqi.net/img/general/original/4203067_xZ5GvIPYGQVB1R57G8U1SBLGwZ_LD7_xS-Xc4XDXZSY.jpg
+  credit: 'Photo: Foursquare user content (Warung Gula Bali "The Joglo")'
+  license: foursquare
+  source: https://foursquare.com/v/4c550383728920a19f45ac83
 gallery: []
 tags:
   - bali

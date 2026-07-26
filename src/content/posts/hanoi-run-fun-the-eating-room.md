@@ -1,5 +1,5 @@
 ---
-title: 'Run Fun – The Eating Room in Hanoi'
+title: Run Fun – The Eating Room in Hanoi
 description: 'Run Fun – The Eating Room in Hanoi, Vietnam — a new/trending spot: what it is, where it is, and how to visit.'
 country: Vietnam
 region: Hanoi
@@ -27,7 +27,7 @@ faq:
   - q: How should I pay and tip?
     a: Card and mobile/QR payment apps are common at contemporary Hanoi restaurants, though carrying some cash is wise. Tipping isn't obligatory in Vietnam, but a small discretionary tip for good service is appreciated.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Run Fun stands out

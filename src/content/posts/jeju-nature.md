@@ -1,6 +1,6 @@
 ---
-title: "Nature in Jeju"
-description: "Jeju's essential nature circuit centers on Hallasan National Park (South Korea's tallest peak), the coastal volcanic cones (oreum) like Seongsan Ilchulbong"
+title: Nature in Jeju
+description: Jeju's essential nature circuit centers on Hallasan National Park (South Korea's tallest peak), the coastal volcanic cones (oreum) like Seongsan Ilchulbong
 region: Jeju
 category: attraction
 pubDate: 2026-07-20T00:00:00.000Z
@@ -26,7 +26,7 @@ faq:
   - q: Is Manjanggul Cave suitable for kids or people with mobility concerns?
     a: The walkable section is about 1km round trip on a mostly flat but uneven, sometimes slick lava-rock floor, manageable for most kids but challenging for wheelchairs or serious mobility limitations.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Jeju's Nature Stands Apart

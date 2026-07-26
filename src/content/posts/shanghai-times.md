@@ -1,5 +1,5 @@
 ---
-title: 'Times in Shanghai'
+title: Times in Shanghai
 description: 'Times in Shanghai, China — a new/trending spot: what it is, where it is, and how to visit.'
 country: China
 region: Shanghai
@@ -27,7 +27,7 @@ faq:
   - q: How much time should I budget?
     a: Plan for roughly 1–1.5 hours for a brunch sitting, or longer in the evening if you're pairing food with drinks and want to explore the rest of Yongkang Lu afterward.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

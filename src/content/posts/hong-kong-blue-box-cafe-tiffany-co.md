@@ -1,5 +1,5 @@
 ---
-title: 'Blue Box Café (Tiffany & Co.) in Hong Kong'
+title: Blue Box Café (Tiffany & Co.) in Hong Kong
 description: 'Blue Box Café (Tiffany & Co.) in Hong Kong, China — a new/trending spot: what it is, where it is, and how to visit.'
 country: China
 region: Hong Kong
@@ -27,7 +27,7 @@ faq:
   - q: When's the best time to visit to avoid crowds?
     a: Weekday late mornings or early afternoons outside typical lunch hours tend to be quieter than weekends, when Causeway Bay shopping crowds peak.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

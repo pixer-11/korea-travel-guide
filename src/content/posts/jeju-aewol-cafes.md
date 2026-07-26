@@ -1,6 +1,6 @@
 ---
-title: "Aewol Cafes in Jeju"
-description: "Aewol's café strip runs along the coastal road (Aewollo/Haean-ro) on Jeju's northwest coast, roughly a 30–40 minute drive or bus ride from Jeju City."
+title: Aewol Cafes in Jeju
+description: Aewol's café strip runs along the coastal road (Aewollo/Haean-ro) on Jeju's northwest coast, roughly a 30–40 minute drive or bus ride from Jeju City.
 region: Jeju
 category: trendy
 pubDate: 2026-07-20T00:00:00.000Z
@@ -26,7 +26,7 @@ faq:
   - q: What else is nearby worth combining with a café visit?
     a: Hallim Park with its lava tube caves and gardens, Hyeopjae and Bangju beaches, and sections of Jeju Olle Trail Routes 15–16 are all within a 15–20 minute drive or walk.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Aewol Became Jeju's Café Capital

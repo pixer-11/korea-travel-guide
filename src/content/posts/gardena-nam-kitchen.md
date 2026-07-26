@@ -1,15 +1,15 @@
 ---
-title: 'NAM Kitchen in Gardena'
+title: NAM Kitchen in Gardena
 description: 'NAM Kitchen in Gardena, United States — a new/trending spot: what it is, where it is, and how to visit.'
 country: United States
 region: Gardena
 category: hidden-gem
 pubDate: '2026-07-24'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Kitchen_in_Nam_Long_Congee_Shop.jpg/1920px-Kitchen_in_Nam_Long_Congee_Shop.jpg
-  credit: 'Photo: Peachyeung316 / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Kitchen_in_Nam_Long_Congee_Shop.jpg
+  url: https://fastly.4sqi.net/img/general/original/177941_KbxqBeUk5wuaAYTblRP3iPENf_UrEGGivd0FSuweJKo.jpg
+  credit: 'Photo: Foursquare user content (Three Spice Thai Kitchen)'
+  license: foursquare
+  source: https://foursquare.com/v/4b27f2d0f964a520c48c24e3
 gallery: []
 tags:
   - gardena

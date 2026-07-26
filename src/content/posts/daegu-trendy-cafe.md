@@ -1,14 +1,14 @@
 ---
-title: "Trendy Cafe in Daegu"
-description: "For Daegu's best trendy cafes, head to Dongseong-ro / Kim Kwang-seok Street area near Jungangno Station (Line 1) or the quieter Bongsan Culture Street, and"
+title: Trendy Cafe in Daegu
+description: For Daegu's best trendy cafes, head to Dongseong-ro / Kim Kwang-seok Street area near Jungangno Station (Line 1) or the quieter Bongsan Culture Street, and
 region: Daegu
 category: trendy
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: https://images.unsplash.com/photo-1609455677069-6830c8f2ee52?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8RGFlZ3UlMjBTb3V0aCUyMEtvcmVhfGVufDB8MHx8fDE3ODQ2MDc5ODd8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Danielle Austria on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@daniaustria?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/822650_E9nBhg_oiLP6W89Uhw_deZjhdzeOI8ZsQW0r3RhDp1Y.jpg
+  credit: 'Photo: Foursquare user content (CAFE JUNE)'
+  license: foursquare
+  source: https://foursquare.com/v/525f68ac498e9b8051ee46a7
 gallery: []
 tags:
   - daegu

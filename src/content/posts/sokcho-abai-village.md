@@ -1,6 +1,6 @@
 ---
-title: "Abai Village in Sokcho"
-description: "Abai Village sits on a narrow sandbar in Sokcho, across the harbor channel from the main downtown, reachable on foot via the hand-pulled ferry (gaetbae) at"
+title: Abai Village in Sokcho
+description: Abai Village sits on a narrow sandbar in Sokcho, across the harbor channel from the main downtown, reachable on foot via the hand-pulled ferry (gaetbae) at
 region: Sokcho
 category: hidden-gem
 pubDate: 2026-07-20T00:00:00.000Z
@@ -26,7 +26,7 @@ faq:
   - q: Is Abai Village crowded, and when's the best time to visit?
     a: Weekends and peak summer bring domestic tourist crowds and longer ferry waits. Late afternoon on a weekday, or a visit during spring or autumn shoulder season, is more comfortable and still gives good light for photos.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Abai Village matters

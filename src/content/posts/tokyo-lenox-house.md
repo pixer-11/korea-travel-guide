@@ -1,15 +1,15 @@
 ---
-title: 'Lenox House in Tokyo'
+title: Lenox House in Tokyo
 description: 'Lenox House in Tokyo, Japan — a new/trending spot: what it is, where it is, and how to visit.'
 country: Japan
 region: Tokyo
 category: trendy
 pubDate: '2026-07-24'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Wilson-Lenox_House.jpg/1920px-Wilson-Lenox_House.jpg
-  credit: 'Photo: Nyttend / Wikimedia Commons (Public domain)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Wilson-Lenox_House.jpg
+  url: https://fastly.4sqi.net/img/general/original/81933423_OxXxoYXDUHaTpcdNVPICQ8kgodH3Lt9T-GbGpXIS02g.jpg
+  credit: 'Photo: Foursquare user content (LENOX HOUSE)'
+  license: foursquare
+  source: https://foursquare.com/v/69e6fac56f675e5ea46fa556
 gallery: []
 tags:
   - tokyo

@@ -1,15 +1,15 @@
 ---
-title: 'Hakusi in Seoul'
+title: Hakusi in Seoul
 description: 'Hakusi in Seoul, South Korea — a new/trending spot: what it is, where it is, and how to visit.'
 country: South Korea
 region: Seoul
 category: restaurant
 pubDate: '2026-07-24'
 heroImage:
-  url: https://images.unsplash.com/photo-1597552661064-af143a5f3bee?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U2VvdWwlMjBTb3V0aCUyMEtvcmVhJTIwSGFrdXNpfGVufDB8MHx8fDE3ODQ5MjE5NzB8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Yu Kato on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@yukato?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/21899786_PiK2NI4dtBh0WWYWI7dg63qJ5EQ2HZXVyhxxcGyw6Pg.jpg
+  credit: 'Photo: Foursquare user content (Hakusi (하쿠시))'
+  license: foursquare
+  source: https://foursquare.com/v/5bd19661e97dfb002c5cfdcf
 gallery: []
 tags:
   - seoul

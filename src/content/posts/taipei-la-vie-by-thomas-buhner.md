@@ -1,5 +1,5 @@
 ---
-title: 'La Vie by Thomas Bühner in Taipei'
+title: La Vie by Thomas Bühner in Taipei
 description: 'La Vie by Thomas Bühner in Taipei, Taiwan — a new/trending spot: what it is, where it is, and how to visit.'
 country: Taiwan
 region: Taipei
@@ -27,7 +27,7 @@ faq:
   - q: What's nearby if I want to combine the visit with other plans?
     a: Since the restaurant is inside NOKE Mall, you can easily pair the meal with browsing the mall's boutiques, and Zhongshan District more broadly is known for design shops and cafes worth exploring before or after.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

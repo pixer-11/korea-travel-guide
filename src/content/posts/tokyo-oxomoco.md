@@ -1,15 +1,15 @@
 ---
-title: "Oxomoco in Tokyo"
-description: "Oxomoco, the Brooklyn-born, Michelin-starred modern Mexican restaurant, has relocated to Roppongi Hills, Tokyo, bringing its wood-fired cooking, artisanal"
+title: Oxomoco in Tokyo
+description: Oxomoco, the Brooklyn-born, Michelin-starred modern Mexican restaurant, has relocated to Roppongi Hills, Tokyo, bringing its wood-fired cooking, artisanal
 country: Japan
 region: Tokyo
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Minato_City%2C_Tokyo%2C_Japan.jpg/1920px-Minato_City%2C_Tokyo%2C_Japan.jpg"
-  credit: "Photo: David Kernan / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Minato_City,_Tokyo,_Japan.jpg"
+  url: https://fastly.4sqi.net/img/general/original/87388367_nUotSsJyC8CvOrLob6Ipcdl6bYHZ_Pt5YHqrbxWoiAk.jpg
+  credit: 'Photo: Foursquare user content (Oxomoco (オショモコ))'
+  license: foursquare
+  source: https://foursquare.com/v/5f03d9cad6e0d407d33aa09a
 gallery: []
 tags:
   - tokyo

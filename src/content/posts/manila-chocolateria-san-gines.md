@@ -1,6 +1,6 @@
 ---
-title: "Chocolatería San Ginés in Manila"
-description: "Chocolatería San Ginés — the 1894 Madrid institution famous for churros con chocolate — has opened its Asia flagship in Manila, bringing the same thick hot"
+title: Chocolatería San Ginés in Manila
+description: Chocolatería San Ginés — the 1894 Madrid institution famous for churros con chocolate — has opened its Asia flagship in Manila, bringing the same thick hot
 country: Philippines
 region: Manila
 category: restaurant
@@ -27,7 +27,7 @@ faq:
   - q: Is it expensive?
     a: Exact pricing wasn't available at time of writing. As a new flagship of a well-known international brand, expect café-dessert pricing on the higher end for Manila, but confirm current menu prices on-site or via the restaurant's official listings.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

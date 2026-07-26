@@ -1,15 +1,15 @@
 ---
-title: "FB Kitchen in Taipei"
-description: "FB Kitchen is the newly public-facing canteen of the Formosa Plastics Group in Neihu, Taipei, famous for a 40-year-old recipe bone-in beef short rib and a"
+title: FB Kitchen in Taipei
+description: FB Kitchen is the newly public-facing canteen of the Formosa Plastics Group in Neihu, Taipei, famous for a 40-year-old recipe bone-in beef short rib and a
 country: Taiwan
 region: Taipei
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/f/fa/The_Food_at_Davids_Kitchen_072.jpg
-  credit: 'Photo: David Reber from Kansas City, USA / Wikimedia Commons (CC BY-SA 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:The_Food_at_Davids_Kitchen_072.jpg
+  url: https://fastly.4sqi.net/img/general/original/48621569__P6MP0HNSOCzpDfSa9iqXru_H6MExctrSk77zP9zJqs.jpg
+  credit: 'Photo: Foursquare user content (fly''s kitchen)'
+  license: foursquare
+  source: https://foursquare.com/v/566a66a1498ed2e937934dc4
 gallery: []
 tags:
   - taipei

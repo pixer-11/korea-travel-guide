@@ -5,7 +5,7 @@ region: Seoul
 category: hidden-gem
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/4608642_e0tx0n0FMjba9q79h7sfOmm_e3Qrnbwdl_ySbMEGhgY.jpg
+  url: https://fastly.4sqi.net/img/general/original/441342_8fuo56XRXl7JPeE1Jz2wuxZE2DrccbejcKU_Chyfdns.jpg
   credit: 'Photo: Foursquare user content (Gwangjang Market (광장시장))'
   license: foursquare
   source: https://foursquare.com/v/4bdb974cc79cc928cfb283e9

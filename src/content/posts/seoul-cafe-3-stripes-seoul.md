@@ -1,15 +1,15 @@
 ---
-title: "CAFE 3 STRIPES SEOUL"
-description: "CAFE 3 STRIPES SEOUL is Adidas's branded cafe and art space in Seongsu-dong, Seoul's industrial-turned-hipster district, opened in late 2025 with a splashy"
+title: CAFE 3 STRIPES SEOUL
+description: CAFE 3 STRIPES SEOUL is Adidas's branded cafe and art space in Seongsu-dong, Seoul's industrial-turned-hipster district, opened in late 2025 with a splashy
 country: South Korea
 region: Seoul
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
-  url: https://images.unsplash.com/photo-1579858737164-f5345c1394e9?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U2VvdWwlMjBTb3V0aCUyMEtvcmVhJTIwQ0FGRSUyMDMlMjBTVFJJUEVTJTIwU0VPVUx8ZW58MHwwfHx8MTc4NDc2NjczNHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Arisya Akma on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@arisyaakma?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/2059665_kG5QBRzS8dkj7VXa4aH9GZrn8r3ds0b-DkDBxg7Bxws.jpg
+  credit: 'Photo: Foursquare user content (Cafe 3 Stripes Seoul)'
+  license: foursquare
+  source: https://foursquare.com/v/690480cb8feac838aa8e37fc
 gallery: []
 tags:
   - seoul

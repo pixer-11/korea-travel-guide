@@ -1,15 +1,15 @@
 ---
-title: 'Casa Mori in Singapore'
+title: Casa Mori in Singapore
 description: 'Casa Mori in Singapore, Singapore — a new/trending spot: what it is, where it is, and how to visit.'
 country: Singapore
 region: Singapore
 category: restaurant
 pubDate: '2026-07-24'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Fabio_Mori_-_Fondatore_della_Casa_dell%27Energia.jpg/1920px-Fabio_Mori_-_Fondatore_della_Casa_dell%27Energia.jpg
-  credit: 'Photo: Alessandro Devoto / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Fabio_Mori_-_Fondatore_della_Casa_dell%27Energia.jpg
+  url: https://fastly.4sqi.net/img/general/original/4880533_gyFSZcqWwCF8ZEI4kLz9XqlfQ8mSFm8YKSy1Jtq2pv0.jpg
+  credit: 'Photo: Foursquare user content (Casa Mori)'
+  license: foursquare
+  source: https://foursquare.com/v/6a3bbd45c899021bc0650c93
 gallery: []
 tags:
   - singapore

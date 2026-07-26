@@ -1,15 +1,15 @@
 ---
-title: 'Dallas Pizza in Seoul'
+title: Dallas Pizza in Seoul
 description: 'Dallas Pizza in Seoul, South Korea — a new/trending spot: what it is, where it is, and how to visit.'
 country: South Korea
 region: Seoul
 category: hidden-gem
 pubDate: '2026-07-24'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Pizza_Hut_Park_in_Dallas.JPG/1920px-Pizza_Hut_Park_in_Dallas.JPG
-  credit: 'Photo: Gabriel Flores / Wikimedia Commons (CC BY 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Pizza_Hut_Park_in_Dallas.JPG
+  url: https://fastly.4sqi.net/img/general/original/29102979_JJbZKxvJNdp-CWsst1CkR_qOFNEyNoy89Y07kD3_ys8.jpg
+  credit: 'Photo: Foursquare user content (California Pizza Kitchen (캘리포니아피자키친))'
+  license: foursquare
+  source: https://foursquare.com/v/56babf3f498e54e145ce9fd4
 gallery: []
 tags:
   - seoul

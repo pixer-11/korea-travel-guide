@@ -1,6 +1,6 @@
 ---
-title: "Sabato's in Kuala Lumpur"
-description: "Sabato's is a buzzy Italian-American restaurant inside Kimpton Naluria at Tun Razak Exchange (TRX) in Kuala Lumpur, built around a 1970s New York disco theme"
+title: Sabato's in Kuala Lumpur
+description: Sabato's is a buzzy Italian-American restaurant inside Kimpton Naluria at Tun Razak Exchange (TRX) in Kuala Lumpur, built around a 1970s New York disco theme
 country: Malaysia
 region: Kuala Lumpur
 category: trendy
@@ -27,7 +27,7 @@ faq:
   - q: What's the best time to visit?
     a: Weekend dinners bring the fullest, most energetic atmosphere; a weeknight visit offers a similar vibe with slightly more breathing room. Confirm current hours before you go, as details can change post-opening.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## What Sabato's is

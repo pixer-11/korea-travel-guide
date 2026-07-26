@@ -1,15 +1,15 @@
 ---
-title: "Gloria Osteria in Barcelona"
-description: "Gloria Osteria is the Barcelona debut of Big Mamma, the French-Italian restaurant group known for turning classic osteria dining into a design-forward"
+title: Gloria Osteria in Barcelona
+description: Gloria Osteria is the Barcelona debut of Big Mamma, the French-Italian restaurant group known for turning classic osteria dining into a design-forward
 country: Spain
 region: Barcelona
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
-  url: https://images.unsplash.com/photo-1504019347908-b45f9b0b8dd5?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U3BhaW4lMjB0cmF2ZWwlMjBsYW5kc2NhcGV8ZW58MHwwfHx8MTc4NDc2NzYzN3ww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Drew Dizzy Graham on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@dizzyd718?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/139930618_LFxJ-HGH_OuvRVnjikL2S-ELQ8DH9SamUDZRqrotCq0.jpg
+  credit: 'Photo: Foursquare user content (Gloria Osteria)'
+  license: foursquare
+  source: https://foursquare.com/v/68deb3f0c295142e45a73fef
 gallery: []
 tags:
   - barcelona

@@ -1,5 +1,5 @@
 ---
-title: 'Eskal in Paris'
+title: Eskal in Paris
 description: 'Eskal in Paris, France — a new/trending spot: what it is, where it is, and how to visit.'
 country: France
 region: Paris
@@ -27,7 +27,7 @@ faq:
   - q: What else can I see near Eskal?
     a: The Chapelle Expiatoire is right there, and it's a short walk to the Église de la Madeleine, Place de la Madeleine's food shops, and the Boulevard Haussmann department stores.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Eskal stands out

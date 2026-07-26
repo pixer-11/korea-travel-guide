@@ -1,5 +1,5 @@
 ---
-title: '8ish in Mumbai'
+title: 8ish in Mumbai
 description: '8ish in Mumbai, India — a new/trending spot: what it is, where it is, and how to visit.'
 country: India
 region: Mumbai
@@ -27,7 +27,7 @@ faq:
   - q: What else can I do nearby?
     a: Marine Drive's promenade is a short walk away and pairs well with an evening drink, and the Churchgate area has notable colonial-era architecture worth a wander before or after.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why 8ish stands out

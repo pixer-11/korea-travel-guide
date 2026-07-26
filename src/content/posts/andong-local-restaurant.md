@@ -1,6 +1,6 @@
 ---
-title: "Local Restaurant in Andong"
-description: "For an authentic meal in Andong, head to the Andong Jjimdak Alley (Andong Jjimdak Golmok) near Andong Bus Terminal, or the Gudam-dong/Ok-dong area near"
+title: Local Restaurant in Andong
+description: For an authentic meal in Andong, head to the Andong Jjimdak Alley (Andong Jjimdak Golmok) near Andong Bus Terminal, or the Gudam-dong/Ok-dong area near
 region: Andong
 category: restaurant
 pubDate: 2026-07-20T00:00:00.000Z
@@ -26,7 +26,7 @@ faq:
   - q: How much should I budget and how long should I plan for a meal?
     a: Jjimdak is usually ordered to share (small size for two people) and takes 20–30 minutes to cook, so budget close to an hour total; exact prices vary by restaurant and season, so check current menus on arrival.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Andong Is a Food Destination, Not Just a Folk Village

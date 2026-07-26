@@ -1,5 +1,5 @@
 ---
-title: 'Shinobi in Dubai'
+title: Shinobi in Dubai
 description: 'Shinobi in Dubai, United Arab Emirates — a new/trending spot: what it is, where it is, and how to visit.'
 country: United Arab Emirates
 region: Dubai
@@ -27,7 +27,7 @@ faq:
   - q: What should I order?
     a: The signature format is made-to-order handrolls prepared at the counter. Specific dishes and prices weren't confirmed for this guide, so check the current menu on-site or via official channels before visiting.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Shinobi stands out

@@ -1,15 +1,15 @@
 ---
-title: 'Kapitan''s Club in Kuala Lumpur'
+title: Kapitan's Club in Kuala Lumpur
 description: 'Kapitan''s Club in Kuala Lumpur, Malaysia — a new/trending spot: what it is, where it is, and how to visit.'
 country: Malaysia
 region: Kuala Lumpur
 category: restaurant
 pubDate: '2026-07-24'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/2/2f/Kapitan_Stupino_2012-12-12.jpg
-  credit: 'Photo: Mit-mit-mit / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Kapitan_Stupino_2012-12-12.jpg
+  url: https://fastly.4sqi.net/img/general/original/5813125_RjP0tvKbIWkiJCDwCOSPzRTHydeWwrIgkOtzMQxmo9o.jpg
+  credit: 'Photo: Foursquare user content (Le Meridien Club Lounge)'
+  license: foursquare
+  source: https://foursquare.com/v/4f51efece4b0b58937748dcc
 gallery: []
 tags:
   - kuala lumpur

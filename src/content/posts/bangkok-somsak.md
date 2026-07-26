@@ -1,15 +1,15 @@
 ---
-title: 'Somsak in Bangkok'
+title: Somsak in Bangkok
 description: 'Somsak in Bangkok, Thailand — a new/trending spot: what it is, where it is, and how to visit.'
 country: Thailand
 region: Bangkok
 category: trendy
 pubDate: '2026-07-24'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Somsak_Kosaisuk.jpg/1920px-Somsak_Kosaisuk.jpg
-  credit: 'Photo: 2T / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Somsak_Kosaisuk.jpg
+  url: https://fastly.4sqi.net/img/general/original/85327423_yVxvfzyV5QEJNSCmA1gsxxKZSyfmNtqr7ORFuPDvSl4.jpg
+  credit: 'Photo: Foursquare user content (SOMSAK (สมศักดิ์))'
+  license: foursquare
+  source: https://foursquare.com/v/680f8d9a38419943f01e8f02
 gallery: []
 tags:
   - bangkok

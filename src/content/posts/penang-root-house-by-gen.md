@@ -1,15 +1,15 @@
 ---
-title: 'Root House by Gēn in Penang'
+title: Root House by Gēn in Penang
 description: 'Root House by Gēn in Penang, Malaysia — a new/trending spot: what it is, where it is, and how to visit.'
 country: Malaysia
 region: Penang
 category: restaurant
 pubDate: '2026-07-24'
 heroImage:
-  url: https://images.unsplash.com/photo-1620488212381-dea91f7dd69a?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8UGVuYW5nJTIwTWFsYXlzaWF8ZW58MHwwfHx8MTc4NDkyMzg0OXww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by ONG WEI on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@wei_0226?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/5813125__zh1cKoiIYithsD4gZs6z9VO130H6boY02giDa8_VFc.jpg
+  credit: 'Photo: Foursquare user content (Root House By Gēn)'
+  license: foursquare
+  source: https://foursquare.com/v/6a2b90ffa6ff823cbbb1e61f
 gallery: []
 tags:
   - penang

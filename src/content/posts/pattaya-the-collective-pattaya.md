@@ -6,10 +6,10 @@ region: Pattaya
 category: restaurant
 pubDate: '2026-07-22T09:12:24.736Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/DFC_4596_Evening_calm_at_a_quiet_Pattaya_marina_-_colorful_boats_reflected_in_the_still_water_as_the_waterfront_settles_in_for_dusk.jpg/1920px-DFC_4596_Evening_calm_at_a_quiet_Pattaya_marina_-_colorful_boats_reflected_in_the_still_water_as_the_waterfront_settles_in_for_dusk.jpg
-  credit: 'Photo: PattayaPatrol / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:DFC_4596_Evening_calm_at_a_quiet_Pattaya_marina_-_colorful_boats_reflected_in_the_still_water_as_the_waterfront_settles_in_for_dusk.jpg
+  url: https://fastly.4sqi.net/img/general/original/52952452_aHkA2nNzYSbQze9dfaZMLHEeMjK50kvtulIw3QUn4Ws.jpg
+  credit: 'Photo: Foursquare user content (North Pattaya Beach)'
+  license: foursquare
+  source: https://foursquare.com/v/537ba766498eeca2266be38e
 gallery: []
 place:
   id: ChIJsejiuTO9AjERnTBniNqKjII
@@ -59,7 +59,6 @@ faq:
   - q: What's nearby if I want to combine it with sightseeing?
     a: It's a short walk to Pattaya's main beachfront promenade, Central Pattaya's shopping area, and the northern end of Walking Street, making it easy to pair a meal with an evening stroll.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

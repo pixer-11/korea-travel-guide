@@ -1,5 +1,5 @@
 ---
-title: 'Tadhanà in Manila'
+title: Tadhanà in Manila
 description: 'Tadhanà in Manila, Philippines — a new/trending spot: what it is, where it is, and how to visit.'
 country: Philippines
 region: Manila
@@ -27,7 +27,7 @@ faq:
   - q: What should I confirm before visiting?
     a: Confirm the current address, operating days, opening hours, and reservation process directly with Tadhanà, since details for newly opened restaurants can shift in the first months.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Tadhanà is worth planning around

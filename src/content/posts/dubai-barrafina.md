@@ -1,15 +1,15 @@
 ---
-title: "Barrafina in Dubai"
-description: "Barrafina — London's celebrated Spanish counter-dining institution — opened its first international outpost in Dubai's DIFC in late January 2026, serving the"
+title: Barrafina in Dubai
+description: Barrafina — London's celebrated Spanish counter-dining institution — opened its first international outpost in Dubai's DIFC in late January 2026, serving the
 country: United Arab Emirates
 region: Dubai
 category: restaurant
 pubDate: '2026-07-23'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Barrafina%2C_Soho%2C_W1.jpg/1920px-Barrafina%2C_Soho%2C_W1.jpg
-  credit: 'Photo: Ewan Munro / Wikimedia Commons (CC BY-SA 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Barrafina,_Soho,_W1.jpg
+  url: https://fastly.4sqi.net/img/general/original/6430939_BM13p4N-mmxcKsy1W8wPoSresx3YIKrp4UcX5pjaNXQ.jpg
+  credit: 'Photo: Foursquare user content (Barrafina Dubai)'
+  license: foursquare
+  source: https://foursquare.com/v/697e11d5e7dd691fbc009148
 gallery: []
 tags:
   - dubai

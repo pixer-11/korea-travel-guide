@@ -1,15 +1,15 @@
 ---
-title: "Kadamba in Hyderabad"
-description: "Kadamba is a rooftop bar overlooking Durgam Cheruvu lake in Madhapur, Hyderabad, built around three live Kadamba trees and low, in-situ seating styled like a"
+title: Kadamba in Hyderabad
+description: Kadamba is a rooftop bar overlooking Durgam Cheruvu lake in Madhapur, Hyderabad, built around three live Kadamba trees and low, in-situ seating styled like a
 country: India
 region: Hyderabad
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Cafe_Niloufer_Hitech_City_Hyderabad_Telangana.jpg/1920px-Cafe_Niloufer_Hitech_City_Hyderabad_Telangana.jpg"
-  credit: "Photo: Kavali Chandrakanth KCK / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Cafe_Niloufer_Hitech_City_Hyderabad_Telangana.jpg"
+  url: https://fastly.4sqi.net/img/general/original/143913_NGw95c1qXVPZqrziDXG46myA3-mxTPYmBK5Vcx1iXvE.jpg
+  credit: 'Photo: Foursquare user content (Kadamba - Cultural Compound)'
+  license: foursquare
+  source: https://foursquare.com/v/697f60dfec366b610527f9d5
 gallery: []
 tags:
   - hyderabad

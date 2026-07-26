@@ -1,15 +1,15 @@
 ---
-title: "AVLI in Bali"
-description: "AVLI is a new 700 sqm modern Greek restaurant on Jalan Labuansait in Uluwatu, on Bali's Bukit Peninsula — the same strip that feeds into Uluwatu's surf"
+title: AVLI in Bali
+description: AVLI is a new 700 sqm modern Greek restaurant on Jalan Labuansait in Uluwatu, on Bali's Bukit Peninsula — the same strip that feeds into Uluwatu's surf
 country: Indonesia
 region: Bali
 category: restaurant
 pubDate: '2026-07-23'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Kreta_%28GR%29%2C_Rethymno%2C_Taverne_%22Avli%22_--_2023_--_8186.jpg/1920px-Kreta_%28GR%29%2C_Rethymno%2C_Taverne_%22Avli%22_--_2023_--_8186.jpg
-  credit: 'Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Kreta_(GR),_Rethymno,_Taverne_%22Avli%22_--_2023_--_8186.jpg
+  url: https://fastly.4sqi.net/img/general/original/1408858710_Kv9008tNTkE9Gtu4qHw413WqY6RN2XOrn28PhKtZF4I.jpg
+  credit: 'Photo: Foursquare user content (Avli Modern Greek)'
+  license: foursquare
+  source: https://foursquare.com/v/68a31c3999ca3f5db4bfee4e
 gallery: []
 tags:
   - bali

@@ -1,15 +1,15 @@
 ---
-title: 'TURK Fatih Tutak in Istanbul'
+title: TURK Fatih Tutak in Istanbul
 description: 'TURK Fatih Tutak in Istanbul, Turkey — a new/trending spot: what it is, where it is, and how to visit.'
 country: Turkey
 region: Istanbul
 category: restaurant
 pubDate: '2026-07-24'
 heroImage:
-  url: https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SXN0YW5idWwlMjBUdXJrZXl8ZW58MHwwfHx8MTc4NDkyNDI3Nnww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Anna Berdnik on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@aberdni?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/6805087_2loaBh92qzThBVnOM3Lwp49Qw3IWy_dHstFdjO5Y9Vs.jpg
+  credit: 'Photo: Foursquare user content (Turk Fatih Tutak)'
+  license: foursquare
+  source: https://foursquare.com/v/5e04f7f1bc7b8000086f49b0
 gallery: []
 tags:
   - istanbul

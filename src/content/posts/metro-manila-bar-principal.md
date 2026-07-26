@@ -27,7 +27,7 @@ faq:
   - q: What's the best time to visit?
     a: Weekday evenings (Wednesday or Thursday) tend to be calmer, while Friday and Saturday nights from around 10 p.m. draw the biggest crowds. Confirm current hours before you go, since they may still be settling as a new venue.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Bar Principal stands out

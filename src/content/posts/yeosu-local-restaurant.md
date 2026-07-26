@@ -1,14 +1,14 @@
 ---
-title: "Local Restaurant in Yeosu"
-description: "For genuinely local eating in Yeosu, skip the chain restaurants near the KTX station and head to Yeosu's harbor markets and Jongdapsan food streets, where"
+title: Local Restaurant in Yeosu
+description: For genuinely local eating in Yeosu, skip the chain restaurants near the KTX station and head to Yeosu's harbor markets and Jongdapsan food streets, where
 region: Yeosu
 category: restaurant
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Jangdo_%28Yeosu%29_09.jpg/1920px-Jangdo_%28Yeosu%29_09.jpg"
-  credit: "Photo: Seefooddiet / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Jangdo_(Yeosu)_09.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Jangdo_%28Yeosu%29_09.jpg/1920px-Jangdo_%28Yeosu%29_09.jpg
+  credit: 'Photo: Seefooddiet / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Jangdo_(Yeosu)_09.jpg
 gallery: []
 tags:
   - yeosu
@@ -26,7 +26,7 @@ faq:
   - q: What can I do near the restaurants after eating?
     a: Walk to Odongdo Island for its lighthouse and camellia trees, or take the Yeosu Marine Cable Car between Jasan Park and Dolsan Park for coastal views.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Yeosu's local food scene is worth the detour

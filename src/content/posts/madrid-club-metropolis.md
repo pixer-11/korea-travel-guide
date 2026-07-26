@@ -1,5 +1,5 @@
 ---
-title: 'Club Metrópolis in Madrid'
+title: Club Metrópolis in Madrid
 description: 'Club Metrópolis in Madrid, Spain — a new/trending spot: what it is, where it is, and how to visit.'
 country: Spain
 region: Madrid
@@ -27,7 +27,7 @@ faq:
   - q: What else is nearby worth combining with a visit?
     a: The Cibeles fountain and Palacio de Comunicaciones (CentroCentro), the Círculo de Bellas Artes rooftop, and the shops and theaters along Gran Vía are all within a five-minute walk.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Club Metrópolis matters

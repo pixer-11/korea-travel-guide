@@ -1,5 +1,5 @@
 ---
-title: 'Hikiniku To Come in Dubai'
+title: Hikiniku To Come in Dubai
 description: 'Hikiniku To Come in Dubai, United Arab Emirates — a new/trending spot: what it is, where it is, and how to visit.'
 country: United Arab Emirates
 region: Dubai
@@ -27,7 +27,7 @@ faq:
   - q: What's the best time to visit to avoid crowds?
     a: Weekday lunch or an early dinner is typically calmer than weekend evening peak hours (around 7–9pm), especially for a recently opened concept still building its reputation.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Hikiniku To Come is worth the trip

@@ -1,6 +1,6 @@
 ---
-title: "Local Restaurant in Incheon"
-description: "For an authentic local meal in Incheon, head to Sinpo International Market (Line 1, Dongincheon Station, Exit 3) for the city's signature dak-gangjeong"
+title: Local Restaurant in Incheon
+description: For an authentic local meal in Incheon, head to Sinpo International Market (Line 1, Dongincheon Station, Exit 3) for the city's signature dak-gangjeong
 region: Incheon
 category: restaurant
 pubDate: 2026-07-20T00:00:00.000Z
@@ -26,7 +26,7 @@ faq:
   - q: Is this area worth visiting outside of food?
     a: Yes — Jayu Park (Korea's first Western-style park), Chinatown's colorful streets, and the hillside murals of Songwol-dong Fairy Tale Village are all within easy walking distance.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Incheon's Local Food Scene Stands Apart
