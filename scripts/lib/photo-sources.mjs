@@ -70,12 +70,19 @@ export async function fsqVenuePhotos({ name, lat, lng, near, limit = 4 }) {
     // vision gate still has the final say — this just avoids junk lookups).
     const norm = (s) => String(s).toLowerCase().replace(/[^a-z0-9\s]/g, '');
     const ours = new Set(norm(name).split(/\s+/).filter((w) => w.length > 2));
-    // Prefer a name-token match; otherwise fall back to the CLOSEST result
-    // within 150m (search is already ll+radius constrained — the top nearby
-    // result for "Flavors Grill" IS the venue even if FSQ spells it differently;
-    // the vision gate still has final say on the photo itself).
-    let hit = results.find((r) => norm(r.name).split(/\s+/).some((w) => ours.has(w)));
-    if (!hit && lat != null) hit = results.find((r) => (r.distance ?? 9999) <= 150);
+    // NAME MATCH ONLY — proximity is NOT identity (the 150m fallback once put
+    // the ssambap shop NEXT DOOR onto the Manseok Dakgangjeong post; vision
+    // can't tell two Korean restaurants apart from a table photo). Matching is
+    // script-aware and space-insensitive: hangul/kana/thai names match too
+    // ("주문진 등대" ↔ "Jumunjin Lighthouse (주문진등대)").
+    const flat = (s) => String(s).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').normalize('NFC').replace(/[^a-z0-9가-힣ぁ-ヶ一-鿿ก-๛]/g, '');
+    const oursFlat = flat(name);
+    const ourTokens = String(name).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').normalize('NFC').split(/[^a-z0-9가-힣ぁ-ヶ一-鿿ก-๛]+/).filter((w) => w.length >= 3);
+    const hit = results.find((r) => {
+      const rf = flat(r.name);
+      if (!rf) return false;
+      return ourTokens.some((t) => rf.includes(t)) || (rf.length >= 3 && oursFlat.includes(rf));
+    });
     if (!hit) {
       if (!fsqVenuePhotos._nohit) { fsqVenuePhotos._nohit = true; console.log(`  [fsq] no hit for "${name}" — results were: ${results.map((r) => r.name + '@' + r.distance + 'm').join(' | ').slice(0, 160)}`); }
       return [];

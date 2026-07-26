@@ -64,6 +64,7 @@ faq:
   - q: How long should I plan to spend there?
     a: It's a quick-service cafeteria, not a sit-down restaurant — 20 to 30 minutes is enough to order, eat, and move on, making it easy to combine with a Corniche walk or a visit to RAK's old fort museum.
 aiGenerated: true
+draft: true
 ---
 
 ## Why go

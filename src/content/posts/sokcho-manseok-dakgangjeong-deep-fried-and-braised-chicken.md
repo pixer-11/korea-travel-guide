@@ -38,6 +38,7 @@ faq:
   - q: Is it better for lunch or dinner, or as a drinking spot?
     a: It works for both — order it with rice as a full meal, or treat it as anju (bar food) with beer or soju in the evening, which is a common way locals enjoy dakgangjeong.
 aiGenerated: true
+draft: true
 ---
 
 ## Why go
