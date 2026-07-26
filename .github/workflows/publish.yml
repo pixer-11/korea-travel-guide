@@ -4,7 +4,11 @@ name: Auto-generate & publish posts
 # and the deploy (Cloudflare Pages / Vercel) picks up the push.
 on:
   schedule:
-    - cron: '19 21 * * *' # 21:19 UTC daily (off the hour — GitHub drops :00 crons)
+    # 07:19 UTC = 16:19 KST — right AFTER Google's hidden facts-quota reset
+    # (16:00 KST / midnight PT), so the daily run always starts on a fresh
+    # quota window and manual afternoon runs can't starve it. Off the hour
+    # because GitHub drops :00 crons.
+    - cron: '19 7 * * *'
   workflow_dispatch: # lets you run it manually from the Actions tab
     inputs:
       count:
