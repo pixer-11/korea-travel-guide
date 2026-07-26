@@ -31,7 +31,7 @@ const posts = defineCollection({
       .object({
         url: z.string(),
         credit: z.string(),
-        license: z.enum(['google-places', 'unsplash', 'wikimedia', 'kto-open', 'placeholder']),
+        license: z.enum(['google-places', 'unsplash', 'wikimedia', 'kto-open', 'placeholder', 'foursquare', 'flickr-cc']),
         source: z.string(),
       })
       .optional(),
@@ -41,7 +41,7 @@ const posts = defineCollection({
         z.object({
           url: z.string(),
           credit: z.string(),
-          license: z.enum(['google-places', 'unsplash', 'wikimedia', 'kto-open', 'placeholder']),
+          license: z.enum(['google-places', 'unsplash', 'wikimedia', 'kto-open', 'placeholder', 'foursquare', 'flickr-cc']),
           source: z.string(),
         })
       )
