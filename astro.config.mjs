@@ -99,6 +99,10 @@ function regionRedirects() {
   for (const p of ['', '/ko', '/ja', '/es', '/zh']) {
     lines.push(`${p}/posts/multiple-cities-tour-de-france-femmes/ ${p}/posts/nice-finish-various-french-stages-tour-de-france-femmes-avec-zwift/ 301`);
   }
+  // Business-card QR target: /card stays printed on physical cards forever, so
+  // it must never 404. 302 (not 301) so the destination can be repointed later
+  // (e.g. to a newsletter page) without reprinting cards.
+  lines.push('/card /?utm_source=business_card&utm_medium=offline&utm_campaign=card2026 302');
   // Retired posts (photo-unfixable venues deleted for regeneration, 2026-07-26):
   // each old URL 301s to its region hub so any indexed link keeps landing well.
   try {
