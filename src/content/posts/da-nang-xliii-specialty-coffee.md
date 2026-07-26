@@ -59,6 +59,7 @@ faq:
     a: Yes — it's close to the Marble Mountains and a short ride from My Khe Beach, making it an easy midday stop between the two.
 aiGenerated: true
 updatedDate: '2026-07-24'
+draft: true
 ---
 
 ## Why XLIII Is Worth the Detour

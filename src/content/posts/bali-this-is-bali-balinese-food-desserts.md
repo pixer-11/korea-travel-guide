@@ -61,6 +61,7 @@ faq:
     a: Budget around 45–75 minutes for a full meal including dessert, plus extra buffer time for a possible wait during peak hours.
 aiGenerated: true
 updatedDate: '2026-07-24'
+draft: true
 ---
 
 ## Why go

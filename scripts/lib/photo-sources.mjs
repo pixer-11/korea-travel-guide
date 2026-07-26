@@ -77,7 +77,11 @@ export async function fsqVenuePhotos({ name, lat, lng, near, limit = 4 }) {
     // ("주문진 등대" ↔ "Jumunjin Lighthouse (주문진등대)").
     const flat = (s) => String(s).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').normalize('NFC').replace(/[^a-z0-9가-힣ぁ-ヶ一-鿿ก-๛]/g, '');
     const oursFlat = flat(name);
-    const ourTokens = String(name).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').normalize('NFC').split(/[^a-z0-9가-힣ぁ-ヶ一-鿿ก-๛]+/).filter((w) => w.length >= 3);
+    // Generic hospitality words prove nothing — "NAM Kitchen" once matched
+    // "Three Spice Thai Kitchen" on 'kitchen' alone. Identity needs a
+    // DISTINCTIVE token (or full-name containment).
+    const GENERIC = new Set(['cafe', 'coffee', 'restaurant', 'the', 'and', 'bar', 'house', 'shop', 'store', 'food', 'kitchen', 'market', 'park', 'museum', 'beach', 'street', 'grill', 'garden', 'club', 'center', 'centre', 'hotel', 'lounge']);
+    const ourTokens = String(name).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').normalize('NFC').split(/[^a-z0-9가-힣ぁ-ヶ一-鿿ก-๛]+/).filter((w) => w.length >= 3 && !GENERIC.has(w));
     const hit = results.find((r) => {
       const rf = flat(r.name);
       if (!rf) return false;

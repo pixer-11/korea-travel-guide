@@ -27,7 +27,7 @@ faq:
   - q: Is NAM Kitchen a hidden gem or well-known now?
     a: 'It''s trending fast: it ranked No. 3 on Yelp''s 2026 Top 100 U.S. Restaurants list and was the most-reviewed business on that list, so expect crowds rather than a quiet, undiscovered scene.'
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why NAM Kitchen stands out

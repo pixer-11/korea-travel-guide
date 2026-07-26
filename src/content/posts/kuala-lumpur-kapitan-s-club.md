@@ -27,7 +27,7 @@ faq:
   - q: What else is nearby worth combining with a visit?
     a: Chow Kit's historic wet market and the surrounding Jalan Raja Bot food and retail strip are within walking distance, making the area worth exploring before or after your meal.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Kapitan's Club stands out

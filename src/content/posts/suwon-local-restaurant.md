@@ -26,7 +26,7 @@ faq:
   - q: What else is near the restaurant area worth seeing?
     a: Hwaseong Haenggung Palace and the fortress gates (Paldalmun, Janganmun, Hwaseomun) are all within walking distance and make natural stops before or after eating.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Suwon, and Why Its Food Scene

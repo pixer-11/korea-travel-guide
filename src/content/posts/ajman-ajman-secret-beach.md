@@ -46,6 +46,7 @@ faq:
   - q: Are there facilities like restrooms or food stalls?
     a: No — this is an unserviced natural beach, so bring your own water, shade, and snacks, and plan to use facilities in the Al Zorah marina or Ajman corniche area beforehand or afterward.
 aiGenerated: true
+draft: true
 ---
 
 ## Why go
