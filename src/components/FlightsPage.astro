@@ -20,6 +20,7 @@ const T = {
       ['Prices in your currency', "Fares are shown in the currency of the country you're browsing from, so there's no mental math at checkout."],
       ['Flexible dates save money', 'If your dates can move, try a few options — midweek departures are often meaningfully cheaper.'],
     ],
+    trust: 'Real-time lowest-fare comparison · No markup — the same price as the booking site',
     disclosure: `Some links on this page are affiliate links. If you book through them, ${SITE.name} may earn a commission at no extra cost to you — it helps keep our guides free.`,
   },
   ko: {
@@ -32,6 +33,7 @@ const T = {
       ['현지 통화로 표시되는 요금', '지금 접속한 나라의 통화로 요금이 표시되어, 결제할 때 환산할 필요가 없습니다.'],
       ['날짜를 유연하게 하면 절약', '일정을 조정할 수 있다면 여러 옵션을 시도해 보세요 — 주중 출발이 훨씬 저렴한 경우가 많습니다.'],
     ],
+    trust: '실시간 최저가 비교 · 추가 수수료 0원 — 예약 사이트 가격 그대로',
     disclosure: `이 페이지의 일부 링크는 제휴 링크입니다. 이 링크로 예약하시면 추가 비용 없이 ${SITE.name}가 수수료를 받을 수 있으며, 이는 무료 가이드 운영에 도움이 됩니다.`,
   },
   ja: {
@@ -44,6 +46,7 @@ const T = {
       ['現地通貨で表示', 'ご覧になっている国の通貨で料金が表示されるので、支払い時に換算する必要はありません。'],
       ['日程に幅を持たせると節約', '日程を動かせるなら、いくつか試してみてください — 平日出発はかなり安いことがよくあります。'],
     ],
+    trust: 'リアルタイム最安値比較 · 追加手数料なし — 予約サイトの価格そのまま',
     disclosure: `このページの一部リンクはアフィリエイトリンクです。このリンクから予約すると、追加料金なしで${SITE.name}が手数料を受け取ることがあり、無料ガイドの運営に役立ちます。`,
   },
   es: {
@@ -56,6 +59,7 @@ const T = {
       ['Precios en tu moneda', 'Las tarifas se muestran en la moneda del país desde el que navegas, así que no hay que hacer cuentas al pagar.'],
       ['Fechas flexibles, más ahorro', 'Si puedes mover las fechas, prueba varias opciones: las salidas entre semana suelen ser bastante más baratas.'],
     ],
+    trust: 'Comparación de tarifas más baratas en tiempo real · Sin recargos: el mismo precio que en la web de reserva',
     disclosure: `Algunos enlaces de esta página son de afiliados. Si reservas a través de ellos, ${SITE.name} puede ganar una comisión sin coste adicional para ti, y así mantenemos nuestras guías gratis.`,
   },
   zh: {
@@ -68,6 +72,7 @@ const T = {
       ['以你的货币显示', '票价以你浏览所在国家的货币显示，结账时无需换算。'],
       ['灵活日期更省钱', '如果日期可以调整，不妨多试几个选项——工作日出发往往便宜不少。'],
     ],
+    trust: '实时最低价比较 · 不加价——与预订网站价格完全一致',
     disclosure: `本页部分链接为联盟链接。通过它们预订，${SITE.name} 可能获得佣金，你无需支付额外费用——这有助于我们保持指南免费。`,
   },
 }[lang];
@@ -93,6 +98,7 @@ const jsonLd = {
 
   <section class="section">
     <div class="wrap">
+      <p class="tp-trust"><span>✓</span> {T.trust}</p>
       <div class="tp-widget-card">
         <script is:inline async src="https://tpemd.com/content?currency=usd&trs=553157&shmarker=754088&show_hotels=false&powered_by=true&locale=en&searchUrl=www.aviasales.com%2Fsearch&primary_override=%23c8443a&color_button=%23c8443a&color_icons=%23857c6f&dark=%23201c17&light=%23FFFFFF&secondary=%23f4eee3&special=%23e6e1d6&color_focused=%23c8443a&border_radius=10&plain=true&promo_id=7879&campaign_id=100" charset="utf-8"></script>
       </div>
