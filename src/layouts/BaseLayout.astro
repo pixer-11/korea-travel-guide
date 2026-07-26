@@ -5,6 +5,7 @@ import '@fontsource-variable/inter'; // body sans
 import '../styles/global.css';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import NewsletterPopup from '../components/NewsletterPopup.astro';
 import { SITE } from '../siteConfig';
 import { getLangFromUrl, localeCodes, localizePath, stripLocale, type Lang } from '../i18n/utils';
 
@@ -179,6 +180,7 @@ const orgLd = {
       <slot />
     </main>
     <Footer />
+    <NewsletterPopup />
     <script is:inline>
       // Outbound affiliate-click tracking. Fires to whatever analytics is present
       // (GA4/gtag, Plausible, or dataLayer) — a harmless no-op until one is added,
