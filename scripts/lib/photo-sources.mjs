@@ -11,17 +11,39 @@
 //  source only supplies candidates, the AI vision gate decides.
 // ─────────────────────────────────────────────────────────────
 
-const FSQ = 'https://api.foursquare.com/v3';
+// Foursquare has TWO auth generations: new "Service API Keys" (Bearer + the
+// places-api.foursquare.com host + a version header) and legacy v3 keys (raw
+// Authorization on api.foursquare.com/v3). Detect once per process by trying
+// new-style first and falling back — whichever key type the console issued
+// just works.
+let fsqMode = null; // 'new' | 'legacy' | 'dead'
+async function fsqFetch(pathAndQuery) {
+  const key = process.env.FOURSQUARE_API_KEY;
+  const tryNew = () => fetch(`https://places-api.foursquare.com${pathAndQuery}`, {
+    headers: { Authorization: `Bearer ${key}`, 'X-Places-Api-Version': '2025-06-17', Accept: 'application/json' },
+  });
+  const tryLegacy = () => fetch(`https://api.foursquare.com/v3${pathAndQuery}`, {
+    headers: { Authorization: key, Accept: 'application/json' },
+  });
+  if (fsqMode === 'new') return tryNew();
+  if (fsqMode === 'legacy') return tryLegacy();
+  let res = await tryNew();
+  if (res.status !== 401 && res.status !== 403) { fsqMode = 'new'; console.log('  [fsq] new-style Service Key auth OK'); return res; }
+  res = await tryLegacy();
+  if (res.status !== 401 && res.status !== 403) { fsqMode = 'legacy'; console.log('  [fsq] legacy v3 key auth OK'); return res; }
+  fsqMode = 'dead';
+  console.log(`  [fsq] BOTH auth styles rejected (last ${res.status}) — check the key`);
+  return res;
+}
 
 // Foursquare: match the venue by name near its stored coordinates, then pull
 // its photos. Returns [] when no key, no confident match, or no photos.
 export async function fsqVenuePhotos({ name, lat, lng, limit = 4 }) {
   const key = process.env.FOURSQUARE_API_KEY;
   if (!key || !name || lat == null || lng == null) return [];
-  const headers = { Authorization: key, Accept: 'application/json' };
   try {
     const q = new URLSearchParams({ query: name, ll: `${lat},${lng}`, radius: '400', limit: '3' });
-    const res = await fetch(`${FSQ}/places/search?${q}`, { headers });
+    const res = await fsqFetch(`/places/search?${q}`);
     if (!res.ok) return [];
     const { results = [] } = await res.json();
     // Confidence: the top result's name must share a token with ours (the
@@ -30,14 +52,15 @@ export async function fsqVenuePhotos({ name, lat, lng, limit = 4 }) {
     const ours = new Set(norm(name).split(/\s+/).filter((w) => w.length > 2));
     const hit = results.find((r) => norm(r.name).split(/\s+/).some((w) => ours.has(w)));
     if (!hit) return [];
-    const pres = await fetch(`${FSQ}/places/${hit.fsq_id}/photos?limit=${limit}`, { headers });
+    const placeId = hit.fsq_place_id || hit.fsq_id; // new API vs legacy field name
+    const pres = await fsqFetch(`/places/${placeId}/photos?limit=${limit}`);
     if (!pres.ok) return [];
     const photos = await pres.json();
     return (photos || []).map((p) => ({
       url: `${p.prefix}original${p.suffix}`,
       credit: `Photo: Foursquare user content (${hit.name})`,
       license: 'foursquare',
-      source: `https://foursquare.com/v/${hit.fsq_id}`,
+      source: `https://foursquare.com/v/${placeId}`,
     }));
   } catch {
     return [];
