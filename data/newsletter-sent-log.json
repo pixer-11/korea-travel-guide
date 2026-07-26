@@ -1,18 +1,4 @@
 {
-  "__global__:ko": {
-    "posts": [
-      "gyeongju-cafe-arae-heon",
-      "madrid-el-campero-madrid",
-      "dubai-al-khayma-heritage-restaurant",
-      "little-india-former-house-of-tan-teng-niah",
-      "surabaya-blue-doors-surabaya"
-    ],
-    "events": [
-      "chicago-illinois-lollapalooza-2026",
-      "singapore-mamamoo-concert",
-      "bangkok-f-forever-concert-2026-bangkok"
-    ]
-  },
   "__global__:en": {
     "posts": [
       "gyeongju-cafe-arae-heon",
