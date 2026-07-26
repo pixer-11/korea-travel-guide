@@ -3445,5 +3445,251 @@
       "getting": "大多数游客会飞抵位于市中心以西约8公里马尼塞斯的瓦伦西亚机场(VLC),再搭乘瓦伦西亚地铁(3号线或5号线)进城,车程约20分钟。若从西班牙其他城市前往,马德里开出的AVE高速列车会抵达华金·索罗拉火车站,从那里步行约10分钟(或搭乘短途地铁、公交)即可到达历史城区。",
       "days": "建议安排约3-4天游览老城区、艺术科学城,并留出一个下午去海滩;若想沿海岸线安排一两次一日游,可再多加一两天行程。"
     }
+  },
+  "Boracay": {
+    "en": {
+      "blurb": "Boracay is a small Philippine island famed for the powder-fine white sand and turquoise shallows of White Beach, backed by a lively strip of beach bars, dive shops, and sunset-sailing bancas. Despite its tiny size, it draws visitors from across the world for water sports, nightlife, and some of Southeast Asia's most photographed sunsets.",
+      "getting": "Boracay has no airport of its own, so travellers fly into either Caticlan Airport (MPH), just ~10 minutes from the jetty port, or the larger Kalibo Airport (KLO), roughly ~2 hours away by road, then continue by tricycle or van to Caticlan Jetty Port before a short banca boat crossing to the island.",
+      "days": "Plan for ~3-4 days, enough time to enjoy White Beach, take a day trip for island-hopping or diving, and sample the sunset and nightlife scene without rushing."
+    },
+    "ko": {
+      "blurb": "보라카이는 필리핀의 작은 섬으로, 밀가루처럼 고운 하얀 모래와 에메랄드빛 얕은 바다가 펼쳐진 화이트 비치로 유명합니다. 해변을 따라 활기찬 비치 바와 다이빙 숍, 노을을 즐기는 방카 세일링이 이어져 있죠. 작은 섬이지만 수상 스포츠와 나이트라이프, 동남아시아에서 가장 사진이 많이 찍히는 석양을 보러 전 세계에서 여행객들이 몰려듭니다.",
+      "getting": "보라카이에는 자체 공항이 없어서, 여행객들은 선착장에서 약 10분 거리에 있는 카티클란 공항(MPH) 또는 육로로 약 2시간 걸리는 더 큰 칼리보 공항(KLO)으로 입국합니다. 이후 트라이시클이나 밴을 타고 카티클란 선착장으로 이동한 뒤, 짧은 방카 보트를 타고 섬으로 건너갑니다.",
+      "days": "3~4일 정도 일정을 잡으면 화이트 비치를 충분히 즐기고, 섬 투어나 다이빙을 위한 당일 여행도 다녀오고, 서두르지 않고 노을과 나이트라이프까지 만끽할 수 있습니다."
+    },
+    "ja": {
+      "blurb": "ボラカイ島は、粉のようにきめ細かい白砂とターコイズブルーの遠浅の海が広がるホワイトビーチで有名な、フィリピンの小さな島です。ビーチ沿いには賑やかなビーチバーやダイビングショップ、夕日を眺めながら楽しむバンカ船のセーリングが並びます。小さな島ながら、マリンスポーツやナイトライフ、東南アジアでも屈指の美しさを誇る夕日を求めて世界中から旅行者が訪れます。",
+      "getting": "ボラカイ島には空港がないため、旅行者はジェッティ港から約10分のカティクラン空港(MPH)、または陸路で約2時間かかる規模の大きいカリボ空港(KLO)のいずれかに到着します。その後、トライシクルやバンでカティクラン・ジェッティ港へ向かい、短いバンカ船に乗り換えて島へ渡ります。",
+      "days": "滞在日数の目安は3〜4日です。ホワイトビーチを満喫しつつ、アイランドホッピングやダイビングの日帰りツアーにも参加でき、慌ただしくなく夕日とナイトライフも楽しめます。"
+    },
+    "es": {
+      "blurb": "Boracay es una pequeña isla filipina famosa por la arena blanca finísima y las aguas turquesas de poca profundidad de White Beach, con una animada franja de bares de playa, tiendas de buceo y paseos en banca al atardecer. A pesar de su reducido tamaño, atrae a viajeros de todo el mundo por los deportes acuáticos, la vida nocturna y algunos de los atardeceres más fotografiados del sudeste asiático.",
+      "getting": "Boracay no tiene aeropuerto propio, así que los viajeros llegan al Aeropuerto de Caticlán (MPH), a unos 10 minutos del muelle, o al más grande Aeropuerto de Kalibo (KLO), a aproximadamente 2 horas por carretera. Desde ahí, continúan en triciclo o van hasta el muelle de Caticlán, para luego cruzar en una breve travesía en banca hasta la isla.",
+      "days": "Se recomienda planear entre 3 y 4 días, tiempo suficiente para disfrutar de White Beach, hacer una excursión de un día para recorrer islas o bucear, y disfrutar del atardecer y la vida nocturna sin prisas."
+    },
+    "zh": {
+      "blurb": "长滩岛是菲律宾的一座小岛,以细腻如粉的白沙和碧绿浅滩闻名的白沙滩(White Beach)而著称,沙滩沿岸遍布热闹的海滩酒吧、潜水店,还能乘坐传统帆船(banca)欣赏日落。虽然面积不大,但长滩岛凭借丰富的水上运动、活跃的夜生活以及东南亚数一数二的绝美日落,吸引着世界各地的游客前来。",
+      "getting": "长滩岛没有自己的机场,游客通常先飞往卡蒂克兰机场(MPH),距码头仅约10分钟车程;或是飞往规模更大的卡利博机场(KLO),再乘车约2小时前往。抵达后需转乘三轮摩托车或面包车前往卡蒂克兰码头,再搭乘短程传统帆船(banca)渡海上岛。",
+      "days": "建议安排3至4天的行程,足以尽情游览白沙滩、安排一天出海跳岛或潜水,还能从容体验日落美景与夜生活,不用太赶时间。"
+    }
+  },
+  "Bodrum": {
+    "en": {
+      "blurb": "Bodrum is a whitewashed Aegean port town crowned by a 15th‑century Crusader castle, where ancient Halicarnassus history meets a buzzing marina, boutique boat trips, and a coastline of coves stretching across its own peninsula. Its harbor and windmill‑studded hills give it a distinct look among Turkey's Aegean resorts, split between the old town's nightlife and the quieter villages scattered around the peninsula.",
+      "getting": "Most travellers fly into Milas–Bodrum Airport (BJV), located roughly 36 km from the town centre, since Bodrum has no rail link of its own. From there, the Havaş shuttle bus runs to Bodrum's otogar (bus station) in ~45 minutes, while taxis or private transfers cover the same route in ~35 minutes.",
+      "days": "Plan on ~2-3 days to cover the castle, old town, and marina, or up to a week if you want to branch out to the peninsula's beaches and villages."
+    },
+    "ko": {
+      "blurb": "보드룸은 15세기 십자군 시대의 성이 내려다보는 에게해의 하얀 항구 마을로, 고대 할리카르나소스의 역사가 활기 넘치는 마리나, 감각적인 보트 투어, 그리고 자체 반도를 따라 펼쳐진 아름다운 만들과 어우러진 곳이다. 항구와 풍차가 점점이 박힌 언덕은 터키의 다른 에게해 휴양지들과는 확연히 다른 풍경을 만들어내며, 밤 문화가 살아 숨 쉬는 구시가지와 반도 곳곳에 흩어진 한적한 마을들이 서로 다른 매력으로 공존한다.",
+      "getting": "보드룸에는 철도가 연결되어 있지 않아 대부분의 여행객은 시내에서 약 36km 떨어진 밀라스-보드룸 공항(BJV)을 이용한다. 공항에서는 하바쉬(Havaş) 셔틀버스를 타면 약 45분 만에 보드룸 오토가르(버스터미널)에 도착하며, 택시나 개인 전용 차량을 이용하면 같은 구간을 약 35분에 갈 수 있다.",
+      "days": "성과 구시가지, 마리나를 둘러보는 데는 2~3일 정도면 충분하며, 반도 곳곳의 해변과 마을까지 여유롭게 돌아보고 싶다면 최대 일주일까지 계획해볼 만하다."
+    },
+    "ja": {
+      "blurb": "ボドルムは、15世紀の十字軍時代の城がそびえるエーゲ海の白壁の港町。古代ハリカルナッソスの歴史が息づく一方で、活気あるマリーナやおしゃれなボートツアー、そして半島沿いに広がる入り江の数々が旅心をくすぐる。港と風車が点在する丘陵地帯が、トルコの他のエーゲ海リゾートとは一線を画す独特の景観を生み出し、夜な夜な賑わう旧市街と、半島に点在する静かな村々という対照的な魅力を併せ持つ。",
+      "getting": "ボドルムには鉄道が通っていないため、ほとんどの旅行者は市街地から約36km離れたミラス・ボドルム空港(BJV)を利用する。空港からはハヴァシュ(Havaş)のシャトルバスでボドルムのオトガル(バスターミナル)まで約45分、タクシーや貸切送迎なら同区間を約35分で移動できる。",
+      "days": "城と旧市街、マリーナを巡るなら2〜3日ほど見ておけば十分。半島の海辺や村々まで足を延ばしたいなら、1週間ほど滞在するのもおすすめだ。"
+    },
+    "es": {
+      "blurb": "Bodrum es una localidad portuaria del Egeo, de casas encaladas, coronada por un castillo cruzado del siglo XV. Aquí, la antigua historia de Halicarnaso convive con un puerto deportivo lleno de vida, salidas en barco de estilo boutique y una costa salpicada de calas que se extiende por toda su propia península. Su puerto y las colinas con molinos de viento le dan un aspecto muy propio entre los destinos del Egeo turco, dividido entre la animada vida nocturna del casco antiguo y los pueblos más tranquilos repartidos por la península.",
+      "getting": "Como Bodrum no cuenta con conexión ferroviaria, la mayoría de los viajeros llega al aeropuerto de Milas-Bodrum (BJV), situado a unos 36 km del centro de la ciudad. Desde allí, el autobús lanzadera Havaş llega en unos 45 minutos hasta el otogar (estación de autobuses) de Bodrum, mientras que un taxi o un traslado privado cubre el mismo trayecto en unos 35 minutos.",
+      "days": "Con unos 2-3 días es suficiente para ver el castillo, el casco antiguo y el puerto deportivo, aunque se puede alargar la estancia hasta una semana si se quiere explorar también las playas y los pueblos de la península."
+    },
+    "zh": {
+      "blurb": "博德鲁姆是一座粉刷成白色的爱琴海港口小镇,由一座15世纪十字军城堡俯瞰全城。这里,古老的哈利卡纳苏斯历史与热闹的游艇码头、精致的乘船游览相映成趣,海岸线上的海湾沿着自己的半岛蜿蜒展开。港口与点缀着风车的山丘,让它在土耳其众多爱琴海度假胜地中独具一格——一边是老城区热闹的夜生活,一边是散落在半岛各处的宁静村庄。",
+      "getting": "由于博德鲁姆没有铁路连接,大多数游客都是飞抵米拉斯-博德鲁姆机场(BJV),该机场距市中心约36公里。从机场出发,Havaş班车约45分钟可到达博德鲁姆汽车站(otogar),而搭乘出租车或私人接送车走同样的路线大约只需35分钟。",
+      "days": "游览城堡、老城区和游艇码头,安排2-3天即可;若想进一步探索半岛周边的海滩与村庄,不妨预留长达一周的时间。"
+    }
+  },
+  "Cannes": {
+    "en": {
+      "blurb": "undefined",
+      "getting": "undefined",
+      "days": "undefined"
+    },
+    "es": {
+      "blurb": "undefined",
+      "getting": "undefined",
+      "days": "undefined"
+    },
+    "ja": {
+      "blurb": "undefined",
+      "getting": "undefined",
+      "days": "undefined"
+    },
+    "ko": {
+      "blurb": "undefined",
+      "getting": "undefined",
+      "days": "undefined"
+    },
+    "zh": {
+      "blurb": "undefined",
+      "getting": "undefined",
+      "days": "undefined"
+    }
+  },
+  "Boston": {
+    "en": {
+      "blurb": "Boston pairs Colonial-era brick streets and America's oldest subway with a world-class concentration of universities, hospitals, and biotech labs. Compact enough to walk end-to-end in a day, it rewards visitors who wander from the Freedom Trail's historic sites into the food halls and harbor views of the modern Seaport.",
+      "getting": "Most travelers arrive via <cite index=\"4-1\">Boston Logan International Airport, the main airport serving Boston and the closest major airport to the city center</cite>, coded BOS; from there, the free Silver Line bus connects directly to South Station, or a shuttle links to the MBTA Blue Line subway into downtown (~20-30 minutes). Long-distance rail travelers use South Station, the <cite index=\"10-1\">Northeast Corridor terminus for Acela and Northeast Regional trains linking Boston with cities like New York and Washington, D.C.</cite>",
+      "days": "Plan on ~2-3 days to cover the historic core, Back Bay, and a couple of neighborhood or museum detours, or ~4-5 days to add day trips to Cambridge, Salem, or the coast."
+    },
+    "es": {
+      "blurb": "Boston combina calles empedradas de ladrillo de la época colonial y el metro más antiguo de Estados Unidos con una concentración de primer nivel mundial de universidades, hospitales y laboratorios biotecnológicos. Lo bastante compacta como para recorrerla a pie de punta a punta en un día, premia a quienes se aventuran desde los sitios históricos del Freedom Trail hasta los mercados gastronómicos y las vistas al puerto del moderno Seaport.",
+      "getting": "La mayoría de los viajeros llega por el Boston Logan International Airport, el principal aeropuerto que sirve a Boston y el más cercano al centro de la ciudad, con código BOS; desde allí, el autobús gratuito Silver Line conecta directamente con South Station, o un shuttle enlaza con la línea azul del metro de la MBTA hacia el centro (entre 20 y 30 minutos aprox.). Los viajeros de tren de larga distancia usan South Station, la terminal del Northeast Corridor para los trenes Acela y Northeast Regional que conectan Boston con ciudades como Nueva York y Washington, D.C.",
+      "days": "Calcula entre 2 y 3 días para recorrer el casco histórico, Back Bay y un par de desvíos a barrios o museos, o entre 4 y 5 días para sumar excursiones de un día a Cambridge, Salem o la costa."
+    },
+    "ja": {
+      "blurb": "ボストンは、植民地時代の面影を残すレンガ造りの街並みとアメリカ最古の地下鉄を持ちながら、世界屈指の大学、病院、バイオテック研究所が集まる街でもある。端から端まで一日で歩ける規模のコンパクトさが魅力で、フリーダム・トレイル沿いの史跡から、フードホールや港の景色が広がる近代的なシーポート地区まで、気ままに歩き回る旅行者に応えてくれる。",
+      "getting": "ほとんどの旅行者はボストン・ローガン国際空港(空港コードBOS)を利用する。ここはボストンの玄関口であり、市中心部に最も近い主要空港だ。空港からは無料のシルバーラインバスでサウス・ステーションへ直接アクセスできるほか、シャトルバスでMBTAブルーラインの地下鉄駅に乗り継ぎ、ダウンタウンまで約20~30分で行くこともできる。長距離列車を利用する旅行者はサウス・ステーションを使う。ここはアセラ号やノースイースト・リージョナル号が発着するノースイースト・コリドーの終着駅で、ニューヨークやワシントンD.C.などの都市とボストンを結んでいる。",
+      "days": "歴史地区、バックベイ、そしていくつかの近隣エリアや美術館・博物館めぐりを含めるなら2~3日ほど、ケンブリッジやセイラム、海沿いへの日帰り旅行も加えるなら4~5日ほど見ておくとよい。"
+    },
+    "ko": {
+      "blurb": "보스턴은 식민지 시대의 정취가 남아있는 벽돌 거리와 미국에서 가장 오래된 지하철을 간직하면서도, 세계적 수준의 대학, 병원, 바이오테크 연구소가 밀집한 도시다. 하루 만에 끝에서 끝까지 걸어서 돌아볼 수 있을 만큼 아담해서, 프리덤 트레일의 유적지에서 벗어나 현대적인 시포트 지구의 푸드홀과 항구 전망까지 발길 닿는 대로 거니는 여행자에게 특히 매력적이다.",
+      "getting": "대부분의 여행자는 공항 코드 BOS인 보스턴 로건 국제공항을 통해 도착한다. 이곳은 보스턴을 오가는 주요 공항이자 시내 중심가와 가장 가까운 주요 공항이다. 공항에서는 무료 실버라인 버스가 사우스 스테이션으로 바로 연결되며, 셔틀을 이용해 MBTA 블루라인 지하철로 갈아타면 다운타운까지 약 20~30분 정도 걸린다. 장거리 열차를 이용하는 여행자는 사우스 스테이션을 이용하는데, 이곳은 아셀라(Acela)와 노스이스트 리저널(Northeast Regional) 열차가 오가는 노스이스트 코리도어의 종착역으로, 보스턴을 뉴욕이나 워싱턴 D.C. 같은 도시들과 연결해준다.",
+      "days": "역사 지구와 백베이, 그리고 몇몇 동네나 박물관 나들이까지 둘러보려면 2~3일 정도, 케임브리지, 세일럼, 혹은 해안 지역으로의 당일치기 여행까지 더하려면 4~5일 정도를 계획하면 좋다."
+    }
+  },
+  "Cebu": {
+    "en": {
+      "blurb": "Cebu is the historic heart of the Philippines' Visayas region, where Spanish-colonial forts and shrines sit alongside a fast-growing island metropolis and jumping-off points to some of the country's best diving and beaches. It's both a major business hub and a gateway to smaller islands like Bohol and Siquijor, giving it a distinct mix of city energy and easy island-hopping.",
+      "getting": "Most travelers arrive via Mactan-Cebu International Airport (CEB), which sits on Mactan Island itself rather than in Cebu City proper. From the airport, Cebu City is reached by road across one of two bridges connecting Mactan to the mainland (~30-45 minutes by taxi or Grab depending on traffic), or alternatively by a short ferry crossing to the city's piers.",
+      "days": "Plan on ~3-4 days to cover Cebu City's historic sites and food scene, with additional days needed if branching out to Mactan's beaches or nearby islands."
+    },
+    "ko": {
+      "blurb": "세부는 필리핀 비사야스 지방의 역사적 중심지로, 스페인 식민지 시대의 요새와 성지가 빠르게 성장하는 섬 대도시와 나란히 자리하고 있으며, 필리핀 최고의 다이빙 명소와 해변으로 향하는 관문 역할을 합니다. 주요 비즈니스 허브이자 보홀, 시키호르 같은 작은 섬들로 가는 관문이기도 해서, 도시 특유의 활기와 손쉬운 섬 여행이 공존하는 독특한 매력을 지니고 있습니다.",
+      "getting": "대부분의 여행객은 막탄-세부 국제공항(CEB)을 통해 도착하는데, 이 공항은 세부 시내가 아닌 막탄 섬에 위치해 있습니다. 공항에서 세부 시내까지는 막탄과 본섬을 잇는 두 개의 다리 중 하나를 건너 육로로 이동하거나(교통 상황에 따라 택시나 그랩으로 약 30~45분 소요), 시내 부두까지 짧은 페리를 타고 이동할 수 있습니다.",
+      "days": "세부 시내의 역사 유적과 먹거리를 둘러보려면 약 3~4일을 계획하는 것이 좋으며, 막탄의 해변이나 인근 섬으로 여정을 넓히려면 추가 일정이 필요합니다."
+    },
+    "ja": {
+      "blurb": "セブはフィリピン・ビサヤ地方の歴史的中心地であり、スペイン統治時代の要塞や聖堂が、急成長を続ける島の大都市と隣り合わせに存在し、フィリピン屈指のダイビングスポットやビーチへの玄関口ともなっています。主要なビジネスハブであると同時に、ボホール島やシキホール島といった小さな島々への玄関口でもあり、都会的なエネルギーと気軽な島巡りが融合した独特の魅力を持っています。",
+      "getting": "多くの旅行者はマクタン・セブ国際空港(CEB)から入国しますが、この空港はセブ市街地ではなくマクタン島に位置しています。空港からセブ市街地へは、マクタン島と本島を結ぶ2本の橋のいずれかを渡って陸路で向かうか(交通状況によりタクシーやGrabで約30~45分)、市内の埠頭まで短いフェリーで渡る方法があります。",
+      "days": "セブ市街地の史跡やグルメを一通り楽しむには3~4日ほどを見込んでおくとよいでしょう。マクタンのビーチや近隣の島々まで足を延ばす場合は、さらに日数が必要になります。"
+    },
+    "es": {
+      "blurb": "Cebú es el corazón histórico de la región de las Visayas en Filipinas, donde fuertes y santuarios de la época colonial española conviven con una metrópolis insular en pleno auge, y que además sirve de punto de partida hacia algunos de los mejores lugares de buceo y playas del país. Es a la vez un importante centro de negocios y una puerta de entrada a islas más pequeñas como Bohol y Siquijor, lo que le confiere una mezcla singular de energía urbana y fácil acceso al salto entre islas.",
+      "getting": "La mayoría de los viajeros llegan por el Aeropuerto Internacional Mactan-Cebú (CEB), ubicado en la propia isla de Mactán y no en la ciudad de Cebú. Desde el aeropuerto, se llega a la ciudad de Cebú por carretera cruzando uno de los dos puentes que conectan Mactán con tierra firme (unos 30-45 minutos en taxi o Grab, según el tráfico), o bien mediante un corto trayecto en ferry hasta los muelles de la ciudad.",
+      "days": "Se recomienda planear entre 3 y 4 días para recorrer los sitios históricos y la oferta gastronómica de la ciudad de Cebú, y sumar días adicionales si se quiere explorar las playas de Mactán u otras islas cercanas."
+    },
+    "zh": {
+      "blurb": "宿务是菲律宾维萨亚斯地区的历史中心,西班牙殖民时期的堡垒与圣殿与迅速崛起的海岛都会比邻而立,同时也是通往菲律宾顶级潜水胜地和海滩的门户。它既是重要的商业枢纽,也是通往薄荷岛、锡基霍尔岛等周边小岛的跳板,兼具都市活力与轻松跳岛的独特魅力。",
+      "getting": "大多数游客经由麦克坦-宿务国际机场(CEB)抵达,该机场位于麦克坦岛,而非宿务市区。从机场前往宿务市区,可经由连接麦克坦岛与本岛的两座桥梁之一驱车前往(视路况乘坐出租车或Grab约需30-45分钟),也可乘坐短程渡轮抵达市区码头。",
+      "days": "游览宿务市区的历史古迹与美食,建议安排约3-4天;若还想前往麦克坦岛的海滩或周边岛屿,则需额外增加天数。"
+    }
+  },
+  "Izmir": {
+    "en": {
+      "blurb": "Izmir is Turkey's laid-back Aegean powerhouse, built atop ancient Smyrna and shaped by Greek, Roman, Ottoman, and modern Turkish layers of history. Today it blends a palm-lined seafront promenade and buzzing bazaars with a role as the essential gateway to nearby Ephesus, Pamukkale, and the Aegean coast.",
+      "getting": "Most travellers arrive via İzmir Adnan Menderes Airport (ADB), located about 18 km south of the city center. From the airport, the İZBAN commuter rail line (connecting to the TCDD regional network) offers a direct, reliable link into the city, alongside shuttle buses and taxis as generic backup options.",
+      "days": "Plan on ~2-3 days to cover Izmir's own highlights like Kemeraltı Bazaar, the Kordon waterfront, and Kadifekale, with extra time needed if you're using the city as a base for day trips to Ephesus or the wider Aegean coast."
+    },
+    "es": {
+      "blurb": "İzmir es la relajada potencia egea de Turquía, construida sobre la antigua Esmirna y moldeada por capas de historia griega, romana, otomana y turca moderna. Hoy combina un paseo marítimo bordeado de palmeras y bulliciosos bazares con su papel como puerta de entrada esencial a la cercana Éfeso, Pamukkale y la costa del Egeo.",
+      "getting": "La mayoría de los viajeros llegan por el Aeropuerto Adnan Menderes de İzmir (ADB), ubicado a unos 18 km al sur del centro de la ciudad. Desde el aeropuerto, la línea de tren de cercanías İZBAN (que conecta con la red regional de TCDD) ofrece un enlace directo y fiable hacia la ciudad, junto con autobuses de enlace y taxis como opciones alternativas.",
+      "days": "Reserva entre 2 y 3 días para recorrer lo más destacado de İzmir, como el Bazar de Kemeraltı, el paseo del Kordon y Kadifekale, y suma tiempo extra si vas a usar la ciudad como base para excursiones de un día a Éfeso o al resto de la costa egea."
+    },
+    "ja": {
+      "blurb": "イズミルは、古代都市スミルナの上に築かれ、ギリシャ、ローマ、オスマン、そして近代トルコの歴史が幾重にも重なった、トルコきってののんびりとしたエーゲ海の中心都市です。今日ではヤシ並木の海岸プロムナードや活気ある市場の魅力に加え、近郊のエフェス、パムッカレ、そしてエーゲ海沿岸への玄関口としての役割も担っています。",
+      "getting": "多くの旅行者はイズミル・アドナン・メンデレス空港(ADB)を利用します。空港は市中心部から南へ約18kmの場所にあります。空港からはイズバン近郊鉄道(TCDD地域路線に接続)が市内へ直通で運行しており、便利で信頼性の高い移動手段となっています。ほかにもシャトルバスやタクシーが代替手段として利用できます。",
+      "days": "ケメラルトゥ・バザール、コルドン海岸、カディフェカレなど、イズミル市内の見どころを巡るには2〜3日ほど見ておくとよいでしょう。エフェスやエーゲ海沿岸への日帰り旅行の拠点として利用する場合は、さらに日数を追加することをおすすめします。"
+    },
+    "ko": {
+      "blurb": "이즈미르는 고대 도시 스미르나 위에 세워진, 튀르키예 에게해의 여유로운 중심 도시로, 그리스, 로마, 오스만, 그리고 현대 튀르키예에 이르는 역사의 층위가 켜켜이 쌓여 있습니다. 오늘날에는 야자수가 늘어선 해안 산책로와 활기찬 시장의 매력과 더불어, 인근의 에페소, 파묵칼레, 그리고 에게해 연안으로 향하는 필수 관문 역할도 하고 있습니다.",
+      "getting": "대부분의 여행객은 도심에서 남쪽으로 약 18km 떨어진 이즈미르 아드난 멘데레스 공항(ADB)을 이용해 도착합니다. 공항에서는 이즈반(İZBAN) 근교 전철(TCDD 지역 철도망과 연결)을 이용하면 시내까지 직행으로 편리하고 안정적으로 이동할 수 있으며, 셔틀버스와 택시도 대체 수단으로 이용할 수 있습니다.",
+      "days": "케메랄트으 바자르, 코르돈 해안가, 카디페칼레 등 이즈미르 시내의 주요 명소를 둘러보려면 약 2~3일 정도가 적당합니다. 에페소나 에게해 인근 지역으로 당일치기 여행을 위한 거점으로 삼을 계획이라면 추가 일정을 잡는 것이 좋습니다."
+    },
+    "zh": {
+      "blurb": "伊兹密尔是土耳其爱琴海沿岸悠闲惬意的重镇,建于古城士麦那之上,历经希腊、罗马、奥斯曼与现代土耳其的历史沉淀,层层叠叠。如今,这里既有棕榈树成荫的海滨长廊和热闹非凡的集市,也是前往以弗所、棉花堡以及整个爱琴海沿岸的重要门户。",
+      "getting": "大多数游客经由伊兹密尔阿德南·门德雷斯机场(ADB)抵达,该机场位于市中心以南约18公里处。从机场出发,伊兹班(İZBAN)通勤铁路(与TCDD区域铁路网相连)可直达市区,便捷可靠;此外也可选择班车或出租车作为备选交通方式。",
+      "days": "建议安排约2-3天时间游览伊兹密尔本身的亮点,如凯梅拉勒特巴扎(Kemeraltı Bazaar)、科尔顿海滨大道(Kordon)和卡迪菲卡莱城堡(Kadifekale);如果打算以此为据点前往以弗所或更广阔的爱琴海沿岸一日游,则需要预留更多时间。"
+    }
+  },
+  "Langkawi": {
+    "en": {
+      "blurb": "Langkawi is an archipelago of jungle-clad limestone islands off Malaysia's northwest coast, a duty-free haven where cable cars climb over rainforest canopy and mangrove tours cruise between karst cliffs. It pairs laid-back beach resorts with dramatic natural scenery, from Datai Bay's rainforest shoreline to the UNESCO-listed Geopark's ancient rock formations.",
+      "getting": "Most travellers fly directly into Langkawi International Airport (LGK), which has domestic and regional connections including AirAsia routes to Kuala Lumpur, Penang, Johor Bahru, and Singapore; overland travellers instead take a ferry from a mainland jetty—commonly Kuala Kedah (~1h45) or Kuala Perlis (~1h15)—arriving at Kuah Jetty on the island.",
+      "days": "Plan on ~4-5 days to cover the island's highlights at an easy pace, enough time for a beach day, the cable car and Sky Bridge, a mangrove or island-hopping boat tour, and a stretch of downtime by the resort pool."
+    },
+    "es": {
+      "ko": "placeholder",
+      "ja": "placeholder",
+      "es": "placeholder",
+      "zh": "placeholder"
+    }
+  },
+  "Jaipur": {
+    "en": {
+      "blurb": "Jaipur, Rajasthan's capital, is famed as \"The Pink City\" for the rose-hued sandstone facades of its old town, where Mughal-Rajput palaces, bazaars, and forts sit inside a still-inhabited walled city. It anchors the classic Golden Triangle route alongside Delhi and Agra, making it one of India's most-visited heritage destinations.",
+      "getting": "Most travellers fly into Jaipur International Airport (JAI), located in Sanganer a short drive from the city centre, with regular domestic connections and some international links. By rail, Jaipur Junction (station code JP) sits on the Delhi–Jaipur line and is well served by trains from Delhi and onward connections toward Mumbai and Ahmedabad, while road travel from Delhi runs via National Highway 48.",
+      "days": "Plan on ~2-3 days to cover Jaipur's core sights—Amber Fort, City Palace, Hawa Mahal, and the old bazaars—with an extra day if combining day trips to nearby forts or towns."
+    },
+    "ko": {
+      "blurb": "라자스탄의 주도인 자이푸르는 무굴-라지푸트 양식의 궁전과 시장, 요새가 지금도 사람들이 살아가는 성곽 도시 안에 어우러진 구시가지의 장밋빛 사암 건물들로 인해 \"핑크 시티\"라는 별명으로 유명합니다. 델리, 아그라와 함께 클래식 골든 트라이앵글 루트의 한 축을 이루며, 인도에서 가장 많은 관광객이 찾는 문화유산 도시 중 하나로 꼽힙니다.",
+      "getting": "대부분의 여행객은 시내에서 가까운 상가네르에 위치한 자이푸르 국제공항(JAI)을 이용하며, 국내선이 자주 운항되고 일부 국제선도 연결됩니다. 기차로는 델리-자이푸르 노선에 위치한 자이푸르 정션역(역 코드 JP)이 델리발 열차와 뭄바이·아마다바드 방면 연결편으로 잘 이어져 있으며, 델리에서 육로로 이동할 경우 국도 48호선(NH 48)을 이용합니다.",
+      "days": "암베르 성, 시티 팰리스, 하와 마할, 그리고 구시가지 시장 등 자이푸르의 핵심 명소를 둘러보려면 약 2~3일이 적당하며, 인근 요새나 소도시로 당일치기 여행을 함께 계획한다면 하루 더 여유를 두는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "ラジャスタン州の州都ジャイプールは、旧市街に立ち並ぶバラ色の砂岩造りの建物群から「ピンクシティ」として名高い都市です。今なお人々が暮らす城壁都市の中に、ムガル・ラージプート様式の宮殿やバザール、砦が息づいています。デリー、アグラとともに定番のゴールデントライアングルを形成し、インドで最も人気の高い歴史遺産都市の一つとなっています。",
+      "getting": "多くの旅行者は、市中心部から車で少し行ったサンガネールにあるジャイプール国際空港(JAI)を利用します。国内線が頻繁に発着するほか、一部国際線も就航しています。鉄道の場合、デリー~ジャイプール線上にあるジャイプール・ジャンクション駅(駅コードJP)が便利で、デリーからの列車や、ムンバイ・アーメダバード方面への乗り継ぎも充実しています。デリーから陸路で向かう場合は国道48号線(NH 48)を利用します。",
+      "days": "アンベール城、シティ・パレス、ハワー・マハル、旧市街のバザールといったジャイプールの主要な見どころを巡るには2~3日ほどが目安です。近郊の砦や町への日帰り旅行を組み合わせる場合は、もう1日追加すると良いでしょう。"
+    },
+    "es": {
+      "blurb": "Jaipur, capital de Rajastán, es célebre como \"la Ciudad Rosa\" por las fachadas de arenisca rosácea de su casco antiguo, donde palacios de estilo mogol-rajput, bazares y fortalezas conviven dentro de una ciudad amurallada que sigue habitada. Es uno de los pilares de la clásica ruta del Triángulo Dorado, junto con Delhi y Agra, lo que la convierte en uno de los destinos patrimoniales más visitados de la India.",
+      "getting": "La mayoría de los viajeros llega al Aeropuerto Internacional de Jaipur (JAI), situado en Sanganer, a poca distancia en coche del centro de la ciudad, con vuelos domésticos frecuentes y algunas conexiones internacionales. En tren, la estación de Jaipur Junction (código JP) se encuentra en la línea Delhi-Jaipur y cuenta con buenas conexiones desde Delhi, además de enlaces hacia Bombay y Ahmedabad. Por carretera, desde Delhi se llega a través de la Autopista Nacional 48 (NH 48).",
+      "days": "Se recomiendan entre 2 y 3 días para recorrer los principales atractivos de Jaipur —el Fuerte Amber, el City Palace, el Hawa Mahal y los bazares del casco antiguo—, y un día adicional si se combinan excursiones a fortalezas o pueblos cercanos."
+    },
+    "zh": {
+      "blurb": "斋浦尔是拉贾斯坦邦的首府,因老城区玫瑰色的砂岩建筑而被誉为“粉红之城”。莫卧儿-拉杰普特风格的宫殿、集市与城堡,坐落在一座至今仍有居民生活的古城墙之内。斋浦尔与德里、阿格拉一起构成了经典的“金三角”旅游线路,是印度最受欢迎的历史文化目的地之一。",
+      "getting": "大多数游客选择飞抵位于桑加内尔(Sanganer)的斋浦尔国际机场(JAI),该机场距市中心车程不远,国内航班频繁,也有少量国际航线。乘火车前往的话,斋浦尔总站(站点代码JP)位于德里—斋浦尔铁路线上,不仅有来自德里的班次,还可换乘前往孟买和艾哈迈达巴德方向的列车。若从德里自驾或乘车前往,可走48号国道(NH 48)。",
+      "days": "游览斋浦尔的核心景点——琥珀堡、城市宫殿、风之宫殿以及老城集市,大约需要2至3天时间;如果还想安排前往附近城堡或小镇的一日游,建议再多预留一天。"
+    }
+  },
+  "Malacca": {
+    "en": {
+      "blurb": "undefined",
+      "getting": "undefined",
+      "days": "undefined"
+    },
+    "ko": {
+      "blurb": "말라카(믈라카)는 해협을 사이에 두고 동서양의 무역선이 오가던 유서 깊은 항구 도시로, 포르투갈, 네덜란드, 영국 그리고 말레이 문화가 겹겹이 쌓여 독특한 매력을 자아냅니다. 유네스코 세계문화유산으로 지정된 구시가지를 거닐다 보면 알록달록한 건물, 고풍스러운 사원, 그리고 강변을 따라 이어지는 야경이 발길을 붙잡습니다.",
+      "getting": "말라카에는 자체 국제공항이 없어 대부분의 여행자는 쿠알라룸푸르 국제공항(KUL)으로 입국한 뒤 버스나 렌터카로 약 2~3시간을 이동합니다. 쿠알라룸푸르 시내에서는 고속버스가 자주 운행되며, 싱가포르에서도 육로로 4~5시간이면 도착할 수 있어 접근성이 좋은 편입니다.",
+      "days": "말라카의 핵심 명소를 둘러보기에는 2박 3일 정도가 적당합니다. 하루는 존커 스트리트와 역사 지구를 도보로 탐방하고, 다음 날은 강변 크루즈와 박물관 투어로 여유롭게 보내면 도시의 진면목을 충분히 만끽할 수 있습니다."
+    },
+    "ja": {
+      "blurb": "マラッカ（ムラカ）は、かつて東西交易の要衝として栄えた歴史ある港町。ポルトガル、オランダ、イギリス、そしてマレーの文化が幾重にも重なり合い、他にはない独特の魅力を放っています。世界遺産に登録された旧市街を歩けば、色とりどりの建物や趣あふれる寺院、川沿いに広がる夜景が旅人の心を掴みます。",
+      "getting": "マラッカには国際空港がないため、多くの旅行者はクアラルンプール国際空港（KUL）に到着後、バスやレンタカーで2〜3時間ほど移動します。クアラルンプール市内からは高速バスが頻発しており、シンガポールからも陸路で4〜5時間とアクセスしやすいのが魅力です。",
+      "days": "マラッカの主要な見どころを巡るなら、2泊3日ほどが目安です。1日目はジョンカー・ストリートや歴史地区を歩いて散策し、2日目は川沿いのクルーズや博物館巡りでゆったり過ごせば、この街の魅力を存分に味わえます。"
+    },
+    "es": {
+      "blurb": "Malaca (Melaka) es una histórica ciudad portuaria que antaño fue un cruce clave del comercio entre Oriente y Occidente. Las huellas de las culturas portuguesa, holandesa, británica y malaya se entrelazan aquí, creando un encanto único. Al pasear por su casco antiguo, declarado Patrimonio de la Humanidad por la UNESCO, te encantarán los edificios de coloridas fachadas, los templos con siglos de historia y las vistas nocturnas junto al río.",
+      "getting": "Malaca no cuenta con aeropuerto internacional propio, así que la mayoría de los viajeros llegan al Aeropuerto Internacional de Kuala Lumpur (KUL) y continúan en autobús o coche de alquiler, un trayecto de 2 a 3 horas. Desde el centro de Kuala Lumpur salen autobuses exprés con mucha frecuencia, y también es fácil llegar desde Singapur por carretera en unas 4 o 5 horas.",
+      "days": "Para conocer lo esencial de Malaca, lo ideal son 2 noches y 3 días. El primer día puedes recorrer a pie Jonker Street y el barrio histórico, y el segundo, relajarte con un paseo en barco por el río y visitas a los museos, disfrutando así del verdadero encanto de la ciudad."
+    },
+    "zh": {
+      "blurb": "马六甲（Melaka）曾是东西方贸易往来的重要港口城市，葡萄牙、荷兰、英国与马来文化在此交织沉淀，造就了独一无二的城市韵味。漫步在被列为联合国教科文组织世界遗产的老城区，色彩斑斓的建筑、古朴的庙宇，以及沿河而生的夜景，都让人流连忘返。",
+      "getting": "马六甲本身没有国际机场，大多数旅客会先抵达吉隆坡国际机场（KUL），再乘坐大巴或租车前往，车程约2至3小时。从吉隆坡市区出发有频繁的长途巴士班次，从新加坡走陆路也只需4至5小时，交通十分便利。",
+      "days": "游览马六甲的主要景点，安排2晚3天比较合适。第一天可以步行探索鸡场街和历史城区，第二天不妨乘船游览河畔风光、参观各类博物馆，从容感受这座城市的独特魅力。"
+    }
+  },
+  "Malaga": {
+    "en": {
+      "blurb": "Malaga blends a historic old town of Moorish fortresses and baroque cathedrals with a thriving contemporary art scene (it's Picasso's birthplace) and easy access to the sun-soaked beaches of the Costa del Sol. As both a cruise port and a major Andalusian gateway, it functions as a lively city break in its own right and the natural springboard for exploring southern Spain.",
+      "getting": "Most travellers arrive via Málaga-Costa del Sol Airport (AGP), one of Spain's busiest airports, connected to the centre by the Renfe Cercanías C1 commuter line, which runs directly from the airport to Málaga María Zambrano (the main rail hub for onward AVE high-speed services) and on to Málaga Centro-Alameda near the old town, in roughly 10-15 minutes. From María Zambrano, high-speed and regional trains link onward to Madrid, Seville, Córdoba and beyond, while coaches from the adjoining bus station serve the wider Costa del Sol.",
+      "days": "Plan on ~2-3 days to take in the old town, cathedral, Alcazaba and museums at an easy pace, with extra time if you intend to use Malaga as a base for coastal day trips."
+    },
+    "ko": {
+      "blurb": "말라가는 무어인의 성채와 바로크 양식 대성당이 어우러진 유서 깊은 구시가지와 활기찬 현대 미술의 현장(피카소의 출생지이기도 하죠)을 동시에 품고 있으며, 햇살 가득한 코스타 델 솔 해변까지도 쉽게 오갈 수 있는 곳입니다. 크루즈 항구이자 안달루시아로 향하는 주요 관문인 말라가는 그 자체로도 매력적인 도시 여행지이면서, 스페인 남부를 둘러보기 위한 자연스러운 출발점 역할을 합니다.",
+      "getting": "대부분의 여행객은 스페인에서 가장 분주한 공항 중 하나인 말라가-코스타 델 솔 공항(AGP)을 통해 도착합니다. 이곳은 렌페 세르카니아스 C1 통근 열차로 시내와 연결되어 있으며, 공항에서 출발해 말라가 마리아 삼브라노역(AVE 고속열차로 갈아탈 수 있는 주요 철도 허브)을 거쳐 구시가지 인근의 말라가 센트로-알라메다역까지 약 10~15분 만에 도착합니다. 마리아 삼브라노역에서는 고속열차와 지역 열차를 이용해 마드리드, 세비야, 코르도바 등지로 이동할 수 있으며, 인근 버스 터미널에서는 코스타 델 솔 전역을 오가는 버스도 이용할 수 있습니다.",
+      "days": "구시가지, 대성당, 알카사바, 박물관들을 여유롭게 둘러보려면 약 2~3일 정도를 계획하시고, 말라가를 해안 당일치기 여행의 거점으로 삼으실 계획이라면 시간을 좀 더 여유 있게 잡으세요."
+    },
+    "ja": {
+      "blurb": "マラガは、ムーア人の要塞やバロック様式の大聖堂が立ち並ぶ歴史ある旧市街と、活気あふれる現代アートシーン(ピカソの生誕地でもあります)、そして陽光降り注ぐコスタ・デル・ソルのビーチへの気軽なアクセスを兼ね備えた街です。クルーズ港であると同時にアンダルシアへの主要な玄関口でもあるマラガは、それ自体が魅力的な都市滞在先であり、スペイン南部を巡る旅の格好の起点ともなっています。",
+      "getting": "多くの旅行者はスペイン有数の利用者数を誇るマラガ・コスタデルソル空港(AGP)から入国します。空港からは、レンフェ近郊線C1が市内へ直通しており、空港からマラガ・マリア・サンブラーノ駅(AVE高速鉄道への乗り換え拠点となる主要な鉄道ハブ)を経て、旧市街近くのマラガ・セントロ-アラメダ駅まで、わずか10〜15分ほどで到着します。マリア・サンブラーノ駅からは、高速列車や地域列車でマドリード、セビリア、コルドバなどへアクセスでき、隣接するバスターミナルからはコスタ・デル・ソル各地へのバスも利用可能です。",
+      "days": "旧市街、大聖堂、アルカサバ、博物館などをゆったり巡るには2〜3日ほどを見ておくとよいでしょう。マラガを拠点に沿岸部への日帰り旅行を考えている場合は、さらに日数に余裕を持たせることをおすすめします。"
+    },
+    "es": {
+      "blurb": "Málaga combina un casco histórico repleto de fortalezas moriscas y catedrales barrocas con una vibrante escena de arte contemporáneo (no en vano es la ciudad natal de Picasso) y un fácil acceso a las soleadas playas de la Costa del Sol. Como puerto de cruceros y gran puerta de entrada a Andalucía, funciona tanto como una animada escapada urbana por derecho propio como el trampolín natural para explorar el sur de España.",
+      "getting": "La mayoría de los viajeros llegan a través del Aeropuerto de Málaga-Costa del Sol (AGP), uno de los más concurridos de España, conectado con el centro por la línea de cercanías C1 de Renfe, que va directamente desde el aeropuerto hasta Málaga María Zambrano (el principal nudo ferroviario para los trenes AVE de alta velocidad) y continúa hasta Málaga Centro-Alameda, cerca del casco antiguo, en unos 10-15 minutos. Desde María Zambrano, los trenes de alta velocidad y regionales conectan con Madrid, Sevilla, Córdoba y otros destinos, mientras que los autobuses de la estación contigua dan servicio al resto de la Costa del Sol.",
+      "days": "Calcula unos 2-3 días para disfrutar con calma del casco antiguo, la catedral, la Alcazaba y los museos, y añade algo más de tiempo si piensas usar Málaga como base para excursiones de un día por la costa."
+    }
   }
 }
