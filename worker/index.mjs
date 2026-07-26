@@ -210,6 +210,21 @@ async function handleTelegram(request, env) {
   return new Response('ok');
 }
 
+// ── /api/subscribe ───────────────────────────────────────────
+// First-party relay to the MailerLite public form endpoint. Tracker blocklists
+// (EasyPrivacy etc.) kill browser requests to assets.mailerlite.com — that was
+// every "Network hiccup" signup failure — but a same-origin request can't be
+// blocked. No env vars needed: this is the public embed-form URL, not the API.
+const ML_FORM = 'https://assets.mailerlite.com/jsonp/2523042/forms/193609989933237794/subscribe';
+async function handleSubscribe(request) {
+  const form = await request.formData().catch(() => null);
+  const email = String(form?.get('fields[email]') || '');
+  if (!/.+@.+\..+/.test(email)) return Response.json({ success: false, error: 'invalid-email' }, { status: 400 });
+  const res = await fetch(ML_FORM, { method: 'POST', body: form });
+  const body = await res.json().catch(() => ({ success: false }));
+  return Response.json(body, { status: res.ok ? 200 : res.status });
+}
+
 // ── router ───────────────────────────────────────────────────
 export default {
   async fetch(request, env) {
@@ -217,6 +232,7 @@ export default {
     try {
       if (pathname === '/preferences' || pathname === '/preferences/') return await handlePreferences(request, env);
       if (pathname === '/tg' && request.method === 'POST') return await handleTelegram(request, env);
+      if (pathname === '/api/subscribe' && request.method === 'POST') return await handleSubscribe(request);
     } catch (e) {
       return new Response(`error: ${e.message}`, { status: 500 });
     }

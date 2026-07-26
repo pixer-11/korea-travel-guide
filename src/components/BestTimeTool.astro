@@ -5,6 +5,7 @@
 // like this → genuinely link-worthy. Pure client-side filter over a build-time
 // JSON index; no API calls, no server.
 import BaseLayout from '../layouts/BaseLayout.astro';
+import Newsletter from './Newsletter.astro';
 import { getCollection } from 'astro:content';
 import { useTranslations, localizePath, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
@@ -119,6 +120,8 @@ const jsonLd = {
       <p class="foot">{t('tool.foot')}</p>
     </div>
   </section>
+
+  <Newsletter lang={lang} />
 
   <script type="application/json" id="data" set:html={JSON.stringify(index)} />
   <script type="application/json" id="strings" set:html={JSON.stringify(strings)} />

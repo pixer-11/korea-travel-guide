@@ -1,6 +1,7 @@
 ---
 import { render } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
+import Newsletter from './Newsletter.astro';
 import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 import countryFacts from '../../data/country-facts.json';
@@ -114,6 +115,12 @@ const jsonLd = {
 
     <p class="disclosure" set:html={reviewedNote}></p>
   </article>
+
+  <Newsletter
+    lang={lang}
+    heading={t('post.planningTrip').replace('{region}', countryLabel)}
+    dek={t('dest.newsletterDek').replace('{country}', countryLabel)}
+  />
 </BaseLayout>
 
 <style>

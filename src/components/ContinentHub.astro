@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import { continentLabel } from '../lib/continents';
 import BaseLayout from '../layouts/BaseLayout.astro';
+import Newsletter from './Newsletter.astro';
 import Flag from './Flag.astro';
 import Emoji from './Emoji.astro';
 import { SITE } from '../siteConfig';
@@ -95,4 +96,6 @@ const jsonLd = {
       <p class="continent-back"><a href={localizePath('/destinations', lang)}>{t('cont.allContinents')}</a></p>
     </div>
   </section>
+
+  <Newsletter lang={lang} />
 </BaseLayout>

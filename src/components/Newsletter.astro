@@ -17,9 +17,10 @@ const { compact = false, lang: langProp, heading, dek, cta, region = '', country
 const lang = langProp ?? getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
 const interest = interestFields({ region, country, lang, source: Astro.url.pathname });
-// Public embedded-form endpoint (account 2523042 · form 193609989933237794).
-// Not a secret — it's the same URL in MailerLite's public embed code.
-const ML_ACTION = 'https://assets.mailerlite.com/jsonp/2523042/forms/193609989933237794/subscribe';
+// Same-origin relay (worker/index.mjs → MailerLite form 193609989933237794).
+// Direct posts to assets.mailerlite.com get killed by tracker blocklists in
+// many browsers ("Network hiccup"); a first-party path can't be blocked.
+const ML_ACTION = '/api/subscribe';
 ---
 <section id="newsletter" class:list={['newsletter', { 'newsletter-compact': compact }]}>
   <div class="wrap">
