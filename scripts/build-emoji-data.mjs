@@ -20,7 +20,7 @@ const USED = [
   // venue fact box
   'three-oclock', 'chart-increasing',
   // plan-trip services
-  'automobile', 'taxi', 'antenna-bars',
+  'automobile', 'taxi', 'antenna-bars', 'shield',
   // continent globes
   'globe-showing-asia-australia', 'globe-showing-europe-africa', 'globe-showing-americas', 'world-map',
 ];
