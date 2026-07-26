@@ -18,7 +18,7 @@ import { readFile, writeFile, readdir } from 'node:fs/promises';
 import { existsSync, readFileSync } from 'node:fs';
 import matter from 'gray-matter';
 import yaml from 'js-yaml';
-import { loadUsedImageUrls } from './lib/images.mjs';
+import { loadUsedImageUrls, resolveHero } from './lib/images.mjs';
 import { venuePhotoCandidates } from './lib/photo-sources.mjs';
 import { verifyHeroImage } from './lib/vision-check.mjs';
 
@@ -77,6 +77,17 @@ for (const f of files) {
 
   const ctx = { name: data.place.name, category: data.category, region: data.region, country: data.country };
   const cands = await venuePhotoCandidates({ name: data.place.name, lat: data.place.lat, lng: data.place.lng });
+  // FREE source too: Wikimedia via the strict resolver (≥2-token name+region
+  // match, geograph banned). Famous landmarks (Sagrada Família, Wat Arun…)
+  // recover from here without any FSQ credits; vision still has the final say.
+  try {
+    const wiki = await resolveHero({
+      namedVenue: data.place.name, region: data.region,
+      topic: (data.tags && data.tags[1]) || data.category,
+      country: data.country, used, strict: true,
+    });
+    if (wiki?.url) cands.push(wiki);
+  } catch {}
   let done = false;
   for (const cand of cands) {
     if (used.has(cand.url)) continue;
