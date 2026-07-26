@@ -58,6 +58,7 @@ function regionRedirects() {
   let files = [];
   try { files = readdirSync(dir); } catch { return []; }
   const regions = new Set();
+  const drafts = []; // quarantined posts — temporarily unpublished, not deleted
   for (const f of files) {
     if (!f.endsWith('.md')) continue;
     let fm = '';
@@ -65,8 +66,20 @@ function regionRedirects() {
     const m = /(?:^|\n)region:\s*['"]?([^'"\n]+)/.exec(fm);
     const r = m?.[1]?.trim();
     if (r && !r.includes('/')) regions.add(r);
+    if (/(?:^|\n)draft:\s*true/.test(fm)) drafts.push({ slug: f.replace(/\.md$/, ''), region: r || '' });
   }
   const lines = [];
+  // Quarantined (draft:true) posts render no page, which would 404 any visitor
+  // holding the old link — the user hit exactly that on the Manseok post. Send
+  // them to the region hub instead; the moment the post is un-drafted the page
+  // is back and this 301 is no longer generated.
+  for (const d of drafts) {
+    const reg = regionSlug(d.region);
+    if (!reg) continue;
+    for (const p of ['', '/ko', '/ja', '/es', '/zh']) {
+      lines.push(`${p}/posts/${d.slug}/ ${p}/regions/${reg}/ 301`);
+    }
+  }
   for (const r of regions) {
     const oldEnc = encodeURI(r.toLowerCase()); // what the old href resolved to
     const next = regionSlug(r);
