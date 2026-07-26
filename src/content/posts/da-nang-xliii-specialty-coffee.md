@@ -1,24 +1,28 @@
 ---
 title: 'XLIII Specialty Coffee: Da Nang Travel Guide'
-description: XLIII Specialty Coffee is a sprawling, design-forward café in the Ngũ Hành Sơn district of Da Nang, close to the Marble Mountains and a short ride from My
+description: >-
+  XLIII Specialty Coffee is a sprawling, design-forward café in the Ngũ Hành Sơn
+  district of Da Nang, close to the Marble Mountains and a short ride from My
 country: Vietnam
 region: Da Nang
 category: trendy
 pubDate: '2026-07-22T09:36:41.229Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/24440652_FBS5VhcSoxdBBz31BcLrQSBrgT1-YdmEFqPQq6_SHAY.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/24440652_FBS5VhcSoxdBBz31BcLrQSBrgT1-YdmEFqPQq6_SHAY.jpg
   credit: 'Photo: Foursquare user content (Thanh Tâm Coffee & Bakery)'
   license: foursquare
-  source: https://foursquare.com/v/4f5d3992e4b0695cbbd29d30
+  source: 'https://foursquare.com/v/4f5d3992e4b0695cbbd29d30'
 gallery: []
 place:
   id: ChIJ7xtm7rMXQjER7ye2fxPfbFE
   name: XLIII Specialty Coffee
-  address: Lô 419, 422 Ngô Thì Sĩ, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam
+  address: 'Lô 419, 422 Ngô Thì Sĩ, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam'
   rating: 4.7
-  userRatingsTotal: 9537
+  userRatingsTotal: 9565
   priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=5867309689396930543&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5867309689396930543&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 16.048087199999998
   lng: 108.24602329999999
@@ -45,20 +49,38 @@ place:
 tags:
   - da nang
   - trendy cafe
-quickAnswer: XLIII Specialty Coffee is a sprawling, design-forward café in the Ngũ Hành Sơn district of Da Nang, close to the Marble Mountains and a short ride from My Khe Beach. Go on a weekday morning to beat the crowds and claim a spot in its photogenic seating areas, budget a bit more than a typical Vietnamese cà phê stop (priceLevel 3), and plan on staying at least an hour to actually enjoy the space rather than just snap photos.
+quickAnswer: >-
+  XLIII Specialty Coffee is a sprawling, design-forward café in the Ngũ Hành Sơn
+  district of Da Nang, close to the Marble Mountains and a short ride from My
+  Khe Beach. Go on a weekday morning to beat the crowds and claim a spot in its
+  photogenic seating areas, budget a bit more than a typical Vietnamese cà phê
+  stop (priceLevel 3), and plan on staying at least an hour to actually enjoy
+  the space rather than just snap photos.
 faq:
   - q: How do I get to XLIII Specialty Coffee from central Da Nang?
-    a: Use Grab or a taxi for a straightforward 10–15 minute ride to Ngũ Hành Sơn district; motorbike is also common if you're comfortable riding in Vietnamese traffic.
+    a: >-
+      Use Grab or a taxi for a straightforward 10–15 minute ride to Ngũ Hành Sơn
+      district; motorbike is also common if you're comfortable riding in
+      Vietnamese traffic.
   - q: Is XLIII Specialty Coffee expensive?
-    a: It's priced above typical local cà phê stalls (moderate-to-higher price level), reflecting its design, space, and specialty drink menu, but it's still affordable by international café standards.
+    a: >-
+      It's priced above typical local cà phê stalls (moderate-to-higher price
+      level), reflecting its design, space, and specialty drink menu, but it's
+      still affordable by international café standards.
   - q: How long should I plan to stay?
-    a: At least an hour — the multi-level layout and garden seating are meant to be explored and enjoyed, not rushed through.
+    a: >-
+      At least an hour — the multi-level layout and garden seating are meant to
+      be explored and enjoyed, not rushed through.
   - q: What should I order?
-    a: Try a classic cà phê sữa đá or a specialty single-origin drink; the café's name signals a focus on quality beans beyond basic instant coffee.
+    a: >-
+      Try a classic cà phê sữa đá or a specialty single-origin drink; the café's
+      name signals a focus on quality beans beyond basic instant coffee.
   - q: Can I combine this with other Da Nang attractions?
-    a: Yes — it's close to the Marble Mountains and a short ride from My Khe Beach, making it an easy midday stop between the two.
+    a: >-
+      Yes — it's close to the Marble Mountains and a short ride from My Khe
+      Beach, making it an easy midday stop between the two.
 aiGenerated: true
-updatedDate: '2026-07-24'
+updatedDate: '2026-07-26'
 draft: true
 ---
 

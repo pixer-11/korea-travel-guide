@@ -22,13 +22,13 @@ place:
     Rashid Bin Saeed Al Maktoum St(2nd St) - Al Hisn - W3 - Abu Dhabi - United
     Arab Emirates
   rating: 4.6
-  userRatingsTotal: 8006
+  userRatingsTotal: 8010
   googleMapsUrl: >-
     https://maps.google.com/?cid=7008438976780982831&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 24.482236999999998
   lng: 54.354723
-  phone: '02 697 6400'
+  phone: 02 697 6400
   openingHours:
     - 'Monday: 9:00 AM – 8:00 PM'
     - 'Tuesday: 9:00 AM – 8:00 PM'
@@ -75,7 +75,7 @@ faq:
       making it easy to combine into a half-day downtown itinerary.
 aiGenerated: true
 draft: false
-updatedDate: '2026-07-24'
+updatedDate: '2026-07-26'
 ---
 
 ## Why go

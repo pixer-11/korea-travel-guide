@@ -1,5 +1,5 @@
 ---
-title: "Home Dawn Cafe @ Clarke Quay: Travel Guide"
+title: 'Home Dawn Cafe @ Clarke Quay: Travel Guide'
 description: >-
   Home Dawn Cafe @ Clarke Quay is a low-key riverside café tucked on the upper
   level of Block 3A River Valley Road, just behind the main Clarke Quay
@@ -20,7 +20,7 @@ place:
   name: Home Dawn Cafe @ Clarke Quay
   address: 'Blk 3A River Valley Rd, #02-03, Singapore 179020'
   rating: 4.5
-  userRatingsTotal: 893
+  userRatingsTotal: 897
   googleMapsUrl: >-
     https://maps.google.com/?cid=1430536472846991723&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -65,7 +65,7 @@ faq:
       jetties, and Fort Canning Park are all within a 10-15 minute walk.
 aiGenerated: true
 draft: false
-updatedDate: '2026-07-24'
+updatedDate: '2026-07-26'
 ---
 
 ## Why go

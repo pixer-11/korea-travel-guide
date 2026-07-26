@@ -1,53 +1,79 @@
 ---
-title: "Temple of Heaven: Beijing Travel Guide"
-description: "Give the Temple of Heaven at least two to three hours — its circular Hall of Prayer for Good Harvests, the Echo Wall, and the surrounding cypress park are"
-country: "China"
-region: "Beijing"
-category: "attraction"
-pubDate: "2026-07-26T08:29:07.529Z"
+title: 'Temple of Heaven: Beijing Travel Guide'
+description: >-
+  Give the Temple of Heaven at least two to three hours — its circular Hall of
+  Prayer for Good Harvests, the Echo Wall, and the surrounding cypress park are
+country: China
+region: Beijing
+category: attraction
+pubDate: '2026-07-26T08:29:07.529Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Temple_of_Heaven%2C_Beijing%2C_China_-_010_edit.jpg/1920px-Temple_of_Heaven%2C_Beijing%2C_China_-_010_edit.jpg"
-  credit: "Photo: Maros M r a z (Maros) / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Temple_of_Heaven,_Beijing,_China_-_010_edit.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Temple_of_Heaven%2C_Beijing%2C_China_-_010_edit.jpg/1920px-Temple_of_Heaven%2C_Beijing%2C_China_-_010_edit.jpg
+  credit: 'Photo: Maros M r a z (Maros) / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Temple_of_Heaven,_Beijing,_China_-_010_edit.jpg
 gallery: []
 place:
-  id: "ChIJ65H_GWBN8DURag4RO0UVLDc"
-  name: "Temple of Heaven"
-  address: "Dongcheng, China, 100061"
+  id: ChIJ65H_GWBN8DURag4RO0UVLDc
+  name: Temple of Heaven
+  address: 'Dongcheng, China, 100061'
   rating: 4.6
-  userRatingsTotal: 3898
+  userRatingsTotal: 3845
   priceLevel: 4
-  googleMapsUrl: "https://maps.google.com/?cid=3975575958149205610&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3975575958149205610&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 39.8821803
   lng: 116.40660559999998
-  phone: "010 6702 8866"
+  phone: 010 6702 8866
   openingHours:
-    - "Monday: 6:00 AM – 9:00 PM"
-    - "Tuesday: 6:00 AM – 9:00 PM"
-    - "Wednesday: 6:00 AM – 9:00 PM"
-    - "Thursday: 6:00 AM – 9:00 PM"
-    - "Friday: 6:00 AM – 9:00 PM"
-    - "Saturday: 6:00 AM – 9:00 PM"
-    - "Sunday: 6:00 AM – 9:00 PM"
+    - 'Monday: 6:00 AM – 9:00 PM'
+    - 'Tuesday: 6:00 AM – 9:00 PM'
+    - 'Wednesday: 6:00 AM – 9:00 PM'
+    - 'Thursday: 6:00 AM – 9:00 PM'
+    - 'Friday: 6:00 AM – 9:00 PM'
+    - 'Saturday: 6:00 AM – 9:00 PM'
+    - 'Sunday: 6:00 AM – 9:00 PM'
 tags:
-  - "beijing"
-  - "Temple of Heaven"
-quickAnswer: "Give the Temple of Heaven at least two to three hours — its circular Hall of Prayer for Good Harvests, the Echo Wall, and the surrounding cypress park are all worth lingering in. Enter via the South Gate (nearest to the historic axis) and go early, since tour buses fill the site by mid-morning. It's a well-known, well-visited site rather than a hidden find, so plan around the crowds rather than expecting solitude."
+  - beijing
+  - Temple of Heaven
+quickAnswer: >-
+  Give the Temple of Heaven at least two to three hours — its circular Hall of
+  Prayer for Good Harvests, the Echo Wall, and the surrounding cypress park are
+  all worth lingering in. Enter via the South Gate (nearest to the historic
+  axis) and go early, since tour buses fill the site by mid-morning. It's a
+  well-known, well-visited site rather than a hidden find, so plan around the
+  crowds rather than expecting solitude.
 faq:
-  - q: "How do I get to the Temple of Heaven by subway?"
-    a: "Take Beijing Subway Line 5 to Tiantiandong Gate (Temple of Heaven East Gate) station, which lets you out right at the East Gate; Line 8 also serves the area nearby."
-  - q: "How much time should I plan for a visit?"
-    a: "Two to three hours covers the main axis (South Gate, Round Altar, Imperial Vault, Hall of Prayer for Good Harvests); add extra time if you want to sit in the surrounding park like local visitors do."
-  - q: "Do I need a special ticket to enter the halls?"
-    a: "Yes — a park-only ticket exists but won't admit you to the inner monuments. Buy the combined ticket that includes the Hall of Prayer for Good Harvests, Echo Wall, and Round Altar."
-  - q: "When is it least crowded?"
-    a: "Right at opening in the early morning, or after about 4pm, are calmest; tour groups tend to fill the site from mid-morning into early afternoon."
-  - q: "What's nearby if I want to combine this with another sight?"
-    a: "The Temple of Heaven sits south of the Forbidden City and Tiananmen Square along Beijing's historic axis, making it easy to pair with a full day exploring central Dongcheng District."
+  - q: How do I get to the Temple of Heaven by subway?
+    a: >-
+      Take Beijing Subway Line 5 to Tiantiandong Gate (Temple of Heaven East
+      Gate) station, which lets you out right at the East Gate; Line 8 also
+      serves the area nearby.
+  - q: How much time should I plan for a visit?
+    a: >-
+      Two to three hours covers the main axis (South Gate, Round Altar, Imperial
+      Vault, Hall of Prayer for Good Harvests); add extra time if you want to
+      sit in the surrounding park like local visitors do.
+  - q: Do I need a special ticket to enter the halls?
+    a: >-
+      Yes — a park-only ticket exists but won't admit you to the inner
+      monuments. Buy the combined ticket that includes the Hall of Prayer for
+      Good Harvests, Echo Wall, and Round Altar.
+  - q: When is it least crowded?
+    a: >-
+      Right at opening in the early morning, or after about 4pm, are calmest;
+      tour groups tend to fill the site from mid-morning into early afternoon.
+  - q: What's nearby if I want to combine this with another sight?
+    a: >-
+      The Temple of Heaven sits south of the Forbidden City and Tiananmen Square
+      along Beijing's historic axis, making it easy to pair with a full day
+      exploring central Dongcheng District.
 aiGenerated: true
 draft: false
+updatedDate: '2026-07-26'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
