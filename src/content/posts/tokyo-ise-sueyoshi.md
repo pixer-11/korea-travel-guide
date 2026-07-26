@@ -6,10 +6,10 @@ region: Tokyo
 category: restaurant
 pubDate: '2026-07-22T09:01:52.705Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Local_restaurant_in_Tokyo_%28Unsplash%29.jpg/1920px-Local_restaurant_in_Tokyo_%28Unsplash%29.jpg
-  credit: 'Photo: Clay Banks claybanks1989 / Wikimedia Commons (CC0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Local_restaurant_in_Tokyo_(Unsplash).jpg
+  url: https://fastly.4sqi.net/img/general/original/90430957_52IvefIGhXhNMG9D0po9wSOaqqmlC6j7qx_I6ZYO3zU.jpg
+  credit: 'Photo: Foursquare user content (Ise Sueyoshi (伊勢すえよし))'
+  license: foursquare
+  source: https://foursquare.com/v/577dac00498e7e15aca49d6f
 gallery: []
 place:
   id: ChIJ1aKIaXCLGGARkyTMVC2TFi8
@@ -37,7 +37,6 @@ faq:
   - q: What should I wear and is it good for special occasions?
     a: Smart-casual to smart attire suits the minimalist, refined setting. Given its 4.9 rating and intimate format, it's a strong choice for anniversaries, celebrations, or a splurge night in Tokyo.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

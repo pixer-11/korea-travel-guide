@@ -6,10 +6,10 @@ region: Labuan Bajo
 category: restaurant
 pubDate: '2026-07-23T07:28:47.842Z'
 heroImage:
-  url: https://images.unsplash.com/photo-1643044280628-64724852f409?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8NXx8TGFidWFuJTIwQmFqbyUyMEluZG9uZXNpYXxlbnwwfDB8fHwxNzg0NzkxNjY4fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Aruka Death on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@jalankaswarinomer39?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/51036101_xYB0ajhtbxAfeUK0lLrBmeg390rtMRr6HSMNe3TIiYo.jpg
+  credit: 'Photo: Foursquare user content (Taman Laut Handayani)'
+  license: foursquare
+  source: https://foursquare.com/v/5fc38eafc4507c616c0ec8fd
 gallery: []
 place:
   id: ChIJf1NEi61ntC0RtjeuIGFttDo
@@ -60,7 +60,6 @@ faq:
   - q: What should I order?
     a: Grilled red snapper or grouper (ikan bakar), prawns, and squid are popular choices; pair with kangkung plecing, rice, and sambal. Ask about the day's freshest catch when you arrive.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-24'
 ---
 

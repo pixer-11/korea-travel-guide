@@ -6,10 +6,10 @@ region: Ras Al Khaimah
 category: trendy
 pubDate: '2026-07-23T07:56:48.110Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Wadi_Shahah%2C_Ras_Al_Khaimah%2C_United_Arab_Emirates.png/1920px-Wadi_Shahah%2C_Ras_Al_Khaimah%2C_United_Arab_Emirates.png
-  credit: 'Photo: Mahdithewikipedian / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Wadi_Shahah,_Ras_Al_Khaimah,_United_Arab_Emirates.png
+  url: https://fastly.4sqi.net/img/general/original/97571018_ji0pZkdRVRBH6paKNNxE-Io9IhCG_slaU7bZDo2X86A.jpg
+  credit: 'Photo: Foursquare user content (M 14 Cafe)'
+  license: foursquare
+  source: https://foursquare.com/v/5f68457aceffc60b9e58fb81
 gallery: []
 place:
   id: ChIJAVY-ZYh39j4RfV0bdsnLj3I
@@ -59,7 +59,6 @@ faq:
   - q: Is M14 Cafe touristy or a local secret?
     a: It's genuinely under-the-radar for visitors — well-rated (4.4 from 706 reviews) but not yet a major stop on tourist itineraries, so you can usually visit without crowds or needing a reservation.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

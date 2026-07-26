@@ -6,10 +6,10 @@ region: Ajman
 category: trendy
 pubDate: '2026-07-23T07:58:23.308Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Seats_in_Cafe_%26_Laundrette%2C_East_Reach%2C_Taunton_2025-07-26.jpg/1920px-Seats_in_Cafe_%26_Laundrette%2C_East_Reach%2C_Taunton_2025-07-26.jpg
-  credit: 'Photo: Andy Li / Wikimedia Commons (CC0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Seats_in_Cafe_%26_Laundrette,_East_Reach,_Taunton_2025-07-26.jpg
+  url: https://fastly.4sqi.net/img/general/original/54152006_X7YlKOR5cIByvATNrIVcPTOkJ8PasIkaisGcrM6Vu4g.jpg
+  credit: 'Photo: Foursquare user content (The Seat Cafe)'
+  license: foursquare
+  source: https://foursquare.com/v/65c1164cb812d51dc076b778
 gallery: []
 place:
   id: ChIJzR7viUzx9T4R16XrLHCcBFw
@@ -38,7 +38,6 @@ faq:
   - q: What else is nearby worth combining with this visit?
     a: The Ajman Corniche, Ajman Museum, and Ajman City Centre mall are all a short drive away and pair well with a café stop.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-24'
 ---
 

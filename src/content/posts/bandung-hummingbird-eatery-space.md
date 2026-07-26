@@ -6,10 +6,10 @@ region: Bandung
 category: restaurant
 pubDate: '2026-07-23T07:16:53.685Z'
 heroImage:
-  url: https://images.unsplash.com/photo-1646095507776-ae62c7db6aa2?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8QmFuZHVuZyUyMEluZG9uZXNpYSUyMGxvY2FsJTIwcmVzdGF1cmFudHxlbnwwfDB8fHwxNzg0NzkwOTc5fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Farel Yesha on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@tidaksantai?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/20092480_CrleDcSELW6nqQvj4QUdbI1Fd8aZuPMPxmr0S3oaU4w.jpg
+  credit: 'Photo: Foursquare user content (Hummingbird)'
+  license: foursquare
+  source: https://foursquare.com/v/4d2af683888af04dace5dbaf
 gallery: []
 place:
   id: ChIJaa4yq0vmaC4Rlp_TQ2P0LHY
@@ -38,7 +38,6 @@ faq:
   - q: What should I order?
     a: Try one Indonesian classic like nasi goreng or rendang alongside a crepe and a fresh juice to get a sense of the full menu range in one visit.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-24'
 ---
 

@@ -6,10 +6,10 @@ region: Phuket
 category: restaurant
 pubDate: '2026-07-22T09:24:19.655Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Phuket_Town_Thailand-Murals-in-Phang-Nga-Road-03.jpg/1920px-Phuket_Town_Thailand-Murals-in-Phang-Nga-Road-03.jpg
-  credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Phuket_Town_Thailand-Murals-in-Phang-Nga-Road-03.jpg
+  url: https://fastly.4sqi.net/img/general/original/370594822_Xi41HluDEzpNo0P4NlEeXTQRVZvCVSpqo_1RSiBrOXs.jpg
+  credit: 'Photo: Foursquare user content (Hug Street Food, Kata Phuket)'
+  license: foursquare
+  source: https://foursquare.com/v/6607d073d4fb78725ef014b0
 gallery: []
 place:
   id: ChIJTxNPXE0lUDARcms58624dYA
@@ -51,7 +51,6 @@ faq:
   - q: What should I order?
     a: 'Classic Thai street-food dishes are the safest bet: pad thai, som tam (green papaya salad), moo ping (grilled pork skewers), and pad kra pao (basil chicken).'
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

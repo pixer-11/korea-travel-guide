@@ -6,10 +6,10 @@ region: Nha Trang
 category: restaurant
 pubDate: '2026-07-22T09:32:58.331Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Nha_Trang_Kh%C3%A1nh_Ho%C3%A0.jpg/1920px-Nha_Trang_Kh%C3%A1nh_Ho%C3%A0.jpg
-  credit: 'Photo: Victor311 / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Nha_Trang_Kh%C3%A1nh_Ho%C3%A0.jpg
+  url: https://fastly.4sqi.net/img/general/original/43566592_vTU2BV172-5VNX5uictWgYyC4mBdCNBfYHbCuecRqCo.jpg
+  credit: 'Photo: Foursquare user content (La Nha)'
+  license: foursquare
+  source: https://foursquare.com/v/6598eccf4db0413535e59178
 gallery: []
 place:
   id: ChIJ3e4XhzlncDERSlXcE5egEUw
@@ -55,7 +55,6 @@ faq:
   - q: What's nearby if I want to combine the visit with other stops?
     a: Trần Phú Beach promenade and the Nha Trang Night Market are both a short walk or ride from Hồng Bàng, making it easy to pair dinner with an evening beach walk or market browse.
 aiGenerated: true
-draft: true
 ---
 
 ## Why Là Nhà stands out

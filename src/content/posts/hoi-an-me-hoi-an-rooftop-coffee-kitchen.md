@@ -6,10 +6,10 @@ region: Hoi An
 category: trendy
 pubDate: '2026-07-22T09:37:10.215Z'
 heroImage:
-  url: https://images.unsplash.com/photo-1595215909290-847cb783facf?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SG9pJTIwQW4lMjBWaWV0bmFtJTIwdHJlbmR5JTIwY2FmZXxlbnwwfDB8fHwxNzg0NzEyOTM2fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by buian_photos on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@buian_photos?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/5679311_Yk_4QWNWxP3VTKPkd2S-XGRlSLBO0FV9VxCiXyKyR3I.jpg
+  credit: 'Photo: Foursquare user content (Me Hoi An Rooftop Coffee)'
+  license: foursquare
+  source: https://foursquare.com/v/67dd21eff454f47c5baf2549
 gallery: []
 place:
   id: ChIJb_HrObEPQjER6_deT8uf0sY
@@ -62,7 +62,6 @@ faq:
   - q: Do I need a ticket to enter the café?
     a: No ticket is needed for the café itself, though nearby Old Town heritage houses and monuments require the separate Hoi An Ancient Town entrance ticket.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-24'
 ---
 

@@ -6,10 +6,10 @@ region: Busan
 category: restaurant
 pubDate: '2026-07-24T22:19:27.461Z'
 heroImage:
-  url: https://images.unsplash.com/photo-1776114003167-07537fb3f0f5?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8QnVzYW4lMjBTb3V0aCUyMEtvcmVhJTIwbG9jYWwlMjByZXN0YXVyYW50fGVufDB8MHx8fDE3ODQ5MzE1Mzh8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Baris Sari on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@barissari?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/77160408_82Z2wfWi0KE4HbreRe_k72CzfA6ABRTtcYyKPPj44f4.jpg
+  credit: 'Photo: Foursquare user content (Namaste)'
+  license: foursquare
+  source: https://foursquare.com/v/4dba4d9d81548ee14d790b7a
 gallery: []
 place:
   id: ChIJwRRdMVyNaDUR3gs_IgM-ACU
@@ -38,7 +38,6 @@ faq:
   - q: What else can I do nearby?
     a: Haeundae Beach, the Haeundae Traditional Market, SEA LIFE Busan Aquarium, and the Dalmaji-gil coastal road are all within easy walking or short taxi distance.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

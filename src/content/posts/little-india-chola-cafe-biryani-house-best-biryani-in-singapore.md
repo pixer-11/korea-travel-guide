@@ -6,10 +6,10 @@ region: Little India
 category: trendy
 pubDate: '2026-07-23T07:41:39.375Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Little_India%2C_Singapore_%28LRM_20230818_202704-RR%29.jpg/1920px-Little_India%2C_Singapore_%28LRM_20230818_202704-RR%29.jpg
-  credit: 'Photo: Matti Blume / Wikimedia Commons (CC BY-SA)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Little_India,_Singapore_(LRM_20230818_202704-RR).jpg
+  url: https://fastly.4sqi.net/img/general/original/73130758__zmBdPFFfTUAlyKSM0yQLxYzGGqDU8Sr1-sVbrfjiZQ.jpg
+  credit: 'Photo: Foursquare user content (Bismillah Biryani)'
+  license: foursquare
+  source: https://foursquare.com/v/4bb18bf3f964a52014993ce3
 gallery: []
 place:
   id: ChIJxf_ZdSYZ2jERWHDSce6Gwow
@@ -61,7 +61,6 @@ faq:
   - q: What else can I see nearby?
     a: Tekka Centre, Sri Veeramakaliamman Temple, and Little India Arcade are all within easy walking distance and make for a good pre- or post-meal wander.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

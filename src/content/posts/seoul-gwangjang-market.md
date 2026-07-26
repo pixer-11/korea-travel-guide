@@ -5,10 +5,10 @@ region: Seoul
 category: hidden-gem
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Gwangjang_Market%2C_Seoul_02.jpg/1920px-Gwangjang_Market%2C_Seoul_02.jpg
-  credit: 'Photo: Bgag / Wikimedia Commons (CC0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Gwangjang_Market,_Seoul_02.jpg
+  url: https://fastly.4sqi.net/img/general/original/4608642_e0tx0n0FMjba9q79h7sfOmm_e3Qrnbwdl_ySbMEGhgY.jpg
+  credit: 'Photo: Foursquare user content (Gwangjang Market (광장시장))'
+  license: foursquare
+  source: https://foursquare.com/v/4bdb974cc79cc928cfb283e9
 place:
   name: Gwangjang Market
   address: 88 Changgyeonggung-ro, Jongno-gu, Seoul
@@ -67,7 +67,6 @@ faq:
   - q: How long should I spend there, and is anything else nearby?
     a: Plan on 1-2 hours for eating and browsing. Cheonggyecheon Stream is a few minutes' walk south, and Dongdaemun Design Plaza is about 15-20 minutes away on foot.
 aiGenerated: true
-draft: true
 ---
 
 ## Why Gwangjang Market Matters

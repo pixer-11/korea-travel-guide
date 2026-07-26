@@ -6,10 +6,10 @@ region: Gangneung
 category: hidden-gem
 pubDate: '2026-07-24T22:23:46.830Z'
 heroImage:
-  url: https://images.unsplash.com/photo-1663687609883-07ef1a0b58ba?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8R2FuZ25ldW5nJTIwU291dGglMjBLb3JlYSUyMGhpZGRlbiUyMGdlbXxlbnwwfDB8fHwxNzg0OTMxNzg2fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Photos of Korea on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@photosofkorea?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/647093_ETfdpB2DBhM8edD2zkwwwMvqX0LREOqXb7Mil_GDLQA.jpg
+  credit: 'Photo: Foursquare user content (ARTE MUSEUM GANGNEUNG (아르떼뮤지엄 강릉))'
+  license: foursquare
+  source: https://foursquare.com/v/61c3fb885620f14bbc80a081
 gallery: []
 place:
   id: ChIJoUu3n2LnYTURY4nBu-SE2qg
@@ -37,7 +37,6 @@ faq:
   - q: What else is nearby to combine with the visit?
     a: Ojukheon House, Gyeongpo Lake and Beach, and Anmok coffee street are all within easy taxi range for a combined half-day or full-day itinerary.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

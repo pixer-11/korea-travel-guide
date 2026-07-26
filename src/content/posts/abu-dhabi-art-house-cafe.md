@@ -6,10 +6,10 @@ region: Abu Dhabi
 category: trendy
 pubDate: '2026-07-23T07:55:38.824Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/1/12/Art_Picture_House_-_geograph.org.uk_-_6707062.jpg
-  credit: 'Photo: Wayland Smith / Wikimedia Commons (CC BY-SA 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Art_Picture_House_-_geograph.org.uk_-_6707062.jpg
+  url: https://fastly.4sqi.net/img/general/original/862678_9l59qYvHG6TUMtRzcgS91YY5D5mFWBywhgl2p1MM82o.jpg
+  credit: 'Photo: Foursquare user content (Art House Cafe)'
+  license: foursquare
+  source: https://foursquare.com/v/53ff53b9498ef90189445fe5
 gallery: []
 place:
   id: ChIJ_URupwdmXj4R1RBkLIfrkMA
@@ -52,7 +52,6 @@ faq:
   - q: What's nearby if I want to make a half-day of it?
     a: Al Bateen Marina and the western Corniche are a short drive away, and Qasr Al Hosn and the Cultural Foundation are also reachable for a broader arts-and-history outing.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-24'
 ---
 

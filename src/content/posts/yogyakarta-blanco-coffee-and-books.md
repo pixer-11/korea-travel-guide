@@ -6,10 +6,10 @@ region: Yogyakarta
 category: trendy
 pubDate: '2026-07-23T07:23:02.841Z'
 heroImage:
-  url: https://images.unsplash.com/photo-1578469550956-0e16b69c6a3d?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8WW9neWFrYXJ0YSUyMEluZG9uZXNpYXxlbnwwfDB8fHwxNzg0NzkxMzMzfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Eugenia Clara @fleetingstill on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@eugeniaclara?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/20092480_6kna1gCsnGY76gojPnEpZsIIlbol3U3uC4LzV64V4WU.jpg
+  credit: 'Photo: Foursquare user content (Blanco Coffee & Books)'
+  license: foursquare
+  source: https://foursquare.com/v/557d8f1d498e467de951fd02
 gallery: []
 place:
   id: ChIJEVyHOzpYei4RDfFn31FneuU
@@ -61,7 +61,6 @@ faq:
   - q: What else is nearby that I can combine with this stop?
     a: Tugu Jogja monument, Jl. Malioboro's shops and street food stalls, and Tugu train station are all within easy walking or short rideshare distance, making Jetis a convenient coffee break before or after exploring the old city.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

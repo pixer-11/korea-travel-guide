@@ -6,10 +6,10 @@ region: Chiang Rai
 category: restaurant
 pubDate: '2026-07-22T09:13:26.066Z'
 heroImage:
-  url: https://images.unsplash.com/photo-1682826556362-2c06b7ac75c5?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8Q2hpYW5nJTIwUmFpJTIwVGhhaWxhbmR8ZW58MHwwfHx8MTc4NDcxMTU1NXww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Norbert Braun on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@medion4you?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/2672020_ysF3omlXTnSdP7El8fXIyS2Ai3sI-uDIJ3Xa1RJMxlU.jpg
+  credit: 'Photo: Foursquare user content (ชีวิตธรรมดา (Chivit Thamma Da) (ชีวิตธรรมดา))'
+  license: foursquare
+  source: https://foursquare.com/v/4e3d1089c65b4ec275dd419a
 gallery: []
 place:
   id: ChIJeWMpkfAG1zARs3NJVf_6_T0
@@ -63,7 +63,6 @@ faq:
   - q: What's nearby to combine with a visit?
     a: Wat Rong Khun (White Temple) and Baan Dam Museum (Black House) are both within a reasonable drive north of the city, making a natural half-day loop that ends with a meal here.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-24'
 ---
 

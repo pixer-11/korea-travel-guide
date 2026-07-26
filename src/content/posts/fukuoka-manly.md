@@ -6,10 +6,10 @@ region: Fukuoka
 category: trendy
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/4/4d/2007-08-04_Manly%2C_New_South_Wales.jpg
-  credit: 'Photo: Maksym Kozlenko / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:2007-08-04_Manly,_New_South_Wales.jpg
+  url: https://fastly.4sqi.net/img/general/original/146963046_1d5B5BfUldW4Mu6Hbe4nn4caSIXklUdmfHIA_6RaUCI.jpg
+  credit: 'Photo: Foursquare user content (Australian Cafe & Bar Manly)'
+  license: foursquare
+  source: https://foursquare.com/v/4b5b26f3f964a520dae628e3
 gallery: []
 place:
   id: ChIJEwPd7ISRQTURvlcwQX4s9xM
@@ -55,7 +55,6 @@ faq:
   - q: When is the best time to visit to avoid crowds?
     a: Weekday late mornings (around 10:30am–noon) are calmer; weekend brunch hours, especially Saturday midday, are the busiest given its strong local following.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-24'
 ---
 

@@ -6,10 +6,10 @@ region: Marina Bay
 category: restaurant
 pubDate: '2026-07-23T07:33:48.551Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Les_subsistances_%28noir_et_blanc%29.jpg/1920px-Les_subsistances_%28noir_et_blanc%29.jpg
-  credit: 'Photo: Librospect / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Les_subsistances_(noir_et_blanc).jpg
+  url: https://fastly.4sqi.net/img/general/original/16807045_ydsyWtxxigZQgsLMMCRmVRk7pHJqnD57Tc5QDG1thjE.jpg
+  credit: 'Photo: Foursquare user content (Le Noir (Marina Bay Sands))'
+  license: foursquare
+  source: https://foursquare.com/v/5ced08007b4669002b6b05f6
 gallery: []
 place:
   id: ChIJN_ApgQsZ2jERt0GKXxIitmE
@@ -37,7 +37,6 @@ faq:
   - q: What else is nearby to combine with a visit?
     a: The ArtScience Museum, the Sands SkyPark, and the nightly Spectra light show along the waterfront are all within walking distance.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

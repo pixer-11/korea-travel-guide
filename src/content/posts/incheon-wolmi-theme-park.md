@@ -5,10 +5,10 @@ region: Incheon
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sunset_over_Incheon_Harbor.jpg/1920px-Sunset_over_Incheon_Harbor.jpg
-  credit: 'Photo: JNicol / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Sunset_over_Incheon_Harbor.jpg
+  url: https://fastly.4sqi.net/img/general/original/4064725_p80Dq1cFXCbMYyuL5wmPjvUoMEMo8NXbASfZjJKGtdc.jpg
+  credit: 'Photo: Foursquare user content (Wolmi Theme Park (월미테마파크))'
+  license: foursquare
+  source: https://foursquare.com/v/4c4af0489c8d2d7f376f3f6a
 gallery: []
 place:
   id: ChIJ_99FToiCezURBfrQIL7RhFE
@@ -60,7 +60,6 @@ faq:
   - q: What else is nearby worth combining with this visit?
     a: Wolmido's seafood restaurant strip is right next to the park, and Incheon Chinatown and Jayu Park near Incheon Station make an easy add-on since they're all close to the same subway stop.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-24'
 ---
 

@@ -6,10 +6,10 @@ region: Abu Dhabi
 category: restaurant
 pubDate: '2026-07-23T07:50:12.075Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Qasr_Al_Watan%2C_Abu_Dhabi_%28P1100959%29.jpg/1920px-Qasr_Al_Watan%2C_Abu_Dhabi_%28P1100959%29.jpg
-  credit: 'Photo: Matti Blume / Wikimedia Commons (CC BY-SA)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Qasr_Al_Watan,_Abu_Dhabi_(P1100959).jpg
+  url: https://fastly.4sqi.net/img/general/original/42481270_sFaraBmYSnTrn1w4Nlkf_rsr0WtAjNDcm_iVN_xGqy4.jpg
+  credit: 'Photo: Foursquare user content (Flavors Grill)'
+  license: foursquare
+  source: https://foursquare.com/v/5c49f07a1953f3002c42337a
 gallery: []
 place:
   id: ChIJeUrze2pnXj4RzcDODWlOjcQ
@@ -65,7 +65,6 @@ faq:
   - q: What should I order?
     a: Charcoal-grilled staples like mixed grill platters, shish tawook, lamb chops, and kofta served with garlic sauce, hummus, and flatbread are the core of this style of grill house.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-24'
 ---
 

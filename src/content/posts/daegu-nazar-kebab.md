@@ -6,10 +6,10 @@ region: Daegu
 category: restaurant
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Nazar_Kebab_%286370191813%29.jpg/1920px-Nazar_Kebab_%286370191813%29.jpg
-  credit: 'Photo: Lucy Fisher from London, UK / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Nazar_Kebab_(6370191813).jpg
+  url: https://fastly.4sqi.net/img/general/original/110474231_FgioogY1JqD4vNAhkjtSCaZhSZcUC3NV6Az7txpl5Hw.jpg
+  credit: 'Photo: Foursquare user content (Nazar Kebab (나자르 케밥))'
+  license: foursquare
+  source: https://foursquare.com/v/4dbe2156fa8cee727378c03c
 gallery: []
 place:
   id: ChIJfSfIosXjZTURAKAQAs6S0xY
@@ -46,7 +46,6 @@ faq:
   - q: What else is nearby?
     a: Seomun Market and the Kim Kwang Seok mural street are both within easy reach, and the entire Dongseong-ro shopping strip is walkable from the restaurant's door.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

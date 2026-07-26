@@ -6,10 +6,10 @@ region: Koh Samui
 category: trendy
 pubDate: '2026-07-22T09:19:32.395Z'
 heroImage:
-  url: https://images.unsplash.com/photo-1537956965359-7573183d1f57?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8S29oJTIwU2FtdWklMjBUaGFpbGFuZHxlbnwwfDB8fHwxNzg0NzExOTA5fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Max Böttinger on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@maxboettinger?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/484654207_oFgLeRnDuY4OFGvva22jdWwCpYbT3U5Ec3UiADFO2Fs.jpg
+  credit: 'Photo: Foursquare user content (Izzy‘s Coffee)'
+  license: foursquare
+  source: https://foursquare.com/v/64950fd7be119a7c0e7f7ca9
 gallery: []
 place:
   id: ChIJszhAI4DxVDAR2IAOFd7moUM
@@ -38,7 +38,6 @@ faq:
   - q: What else can I combine with a visit?
     a: Bo Put Pier for sunrise views, the Fisherman's Village Walking Street shops and seafood restaurants, and Big Buddha Temple (Wat Phra Yai), about 10 minutes away by car.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-24'
 ---
 

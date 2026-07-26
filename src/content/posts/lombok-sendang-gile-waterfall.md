@@ -6,10 +6,10 @@ region: Lombok
 category: attraction
 pubDate: '2026-07-23T07:13:35.767Z'
 heroImage:
-  url: https://images.unsplash.com/photo-1607427225127-a4ae1d4b050c?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8TG9tYm9rJTIwSW5kb25lc2lhJTIwdG9wJTIwYXR0cmFjdGlvbnxlbnwwfDB8fHwxNzg0NzkwNzg1fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Denissa Devy on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@denissadevy?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/9667588_wTfL5sYzRKtA-d4slJtSgk-KgRdPg-_rKAskVtP597g.jpg
+  credit: 'Photo: Foursquare user content (Sendang Gile Waterfall (Air Terjun Sindang Gila))'
+  license: foursquare
+  source: https://foursquare.com/v/4d352599b60937040b4912e0
 gallery: []
 place:
   id: ChIJD87VUP_VzS0RM4YPd7ICqSE
@@ -37,7 +37,6 @@ faq:
   - q: How do I get there without a car?
     a: There's no direct public transit to Senaru; most visitors hire a private car or motorbike from Senggigi, the airport, or take a boat to Bangsal then arrange onward transport, or join an organized Rinjani-area day tour.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

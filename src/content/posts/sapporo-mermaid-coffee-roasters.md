@@ -6,10 +6,10 @@ region: Sapporo
 category: trendy
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://images.unsplash.com/photo-1777554572410-abdc177b79dd?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U2FwcG9ybyUyMEphcGFuJTIwdHJlbmR5JTIwY2FmZXxlbnwwfDB8fHwxNzg0NjI4MTYzfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Our Latest Number on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@ourlatestnumber?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/355373377_dnonDwB2xBwVtIwpCC9MabZkDALWv4dxTLR3kALGAeM.jpg
+  credit: 'Photo: Foursquare user content (Mermaid Coffee Roasters (マーメイド コーヒー ロースターズ))'
+  license: foursquare
+  source: https://foursquare.com/v/643a12df065d1311281954ab
 gallery: []
 place:
   id: ChIJMeHdZnApC18RhUmGUbAfkSk
@@ -62,7 +62,6 @@ faq:
   - q: What else is nearby worth combining with the visit?
     a: It's a short walk from Susukino's Ramen Yokocho alley, Odori Park, and the Sapporo TV Tower, making it easy to fold into a half-day downtown loop.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

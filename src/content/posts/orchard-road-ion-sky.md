@@ -6,10 +6,10 @@ region: Orchard Road
 category: attraction
 pubDate: '2026-07-23T07:31:29.881Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/2/2a/Ion_Cimpoia%2C_Hans%2C_Schemmel_%C8%99i_Mihai_B%C3%AEr%C4%83.jpg
-  credit: 'Photo: Unknown authorUnknown author / Wikimedia Commons (Public domain)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Ion_Cimpoia,_Hans,_Schemmel_%C8%99i_Mihai_B%C3%AEr%C4%83.jpg
+  url: https://fastly.4sqi.net/img/general/original/72556373_wmLa8m0ng0BanpQNt5A6hvb0iXmy4Xt3yapRevfV9VU.jpg
+  credit: 'Photo: Foursquare user content (ION Sky)'
+  license: foursquare
+  source: https://foursquare.com/v/4cb52709e262b60c95d465e0
 gallery: []
 place:
   id: ChIJRW8Hwo0Z2jEREk5x5tk4JIg
@@ -54,7 +54,6 @@ faq:
   - q: What else is nearby?
     a: ION Orchard itself for shopping and dining, Emerald Hill's conserved shophouses a short walk away, and the Singapore Botanic Gardens further along Orchard/Napier Road.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

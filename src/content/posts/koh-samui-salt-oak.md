@@ -6,10 +6,10 @@ region: Koh Samui
 category: restaurant
 pubDate: '2026-07-22T09:12:54.745Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Oak_Island_Salt_Marsh_%2827156691373%29.jpg/1920px-Oak_Island_Salt_Marsh_%2827156691373%29.jpg
-  credit: 'Photo: Tom Long from Oak Island, USA / Wikimedia Commons (CC BY-SA 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Oak_Island_Salt_Marsh_(27156691373).jpg
+  url: https://fastly.4sqi.net/img/general/original/16727607_JUaXnSVY8CqSojXqr16w59Lh2alup5XenQX3z56z_RE.jpg
+  credit: 'Photo: Foursquare user content (Salt & Oak)'
+  license: foursquare
+  source: https://foursquare.com/v/68adbcc34ed70a61c469a08a
 gallery: []
 place:
   id: ChIJR3PLtNjxVDARKME5gaIWlaw
@@ -37,7 +37,6 @@ faq:
   - q: What's nearby to combine with dinner?
     a: Fisherman's Village is a short 5-10 minute ride away, best visited on Friday evenings for its walking street market, or pair with a sunset walk on quieter Bo Put beach.
 aiGenerated: true
-draft: true
 ---
 
 ## Why Salt & Oak stands out

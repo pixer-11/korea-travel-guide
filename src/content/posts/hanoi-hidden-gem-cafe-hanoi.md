@@ -6,10 +6,10 @@ region: Hanoi
 category: hidden-gem
 pubDate: '2026-07-22T09:34:33.925Z'
 heroImage:
-  url: https://images.unsplash.com/photo-1712432144397-aa3da9dede31?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SGFub2klMjBWaWV0bmFtJTIwaGlkZGVuJTIwZ2VtfGVufDB8MHx8fDE3ODQ3MTI3ODJ8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by BehindTheTmuna on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@behindthetmuna?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/17834158_el_T6kdYYvxUYE4MJ_rv556PHfL83id65egOuZR7x7M.jpg
+  credit: 'Photo: Foursquare user content (Hidden Gem Coffee)'
+  license: foursquare
+  source: https://foursquare.com/v/5c5161f7f427de002cd2eed3
 gallery: []
 place:
   id: ChIJjcSe2iKrNTERdmx-UM8RZIw
@@ -62,7 +62,6 @@ faq:
   - q: What else is nearby?
     a: Hoàn Kiếm Lake, Ngọc Sơn Temple, and the shops of Hàng Bạc and Mã Mây streets are all within a few minutes' walk, making it easy to fold into a broader Old Quarter walking route.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-24'
 ---
 

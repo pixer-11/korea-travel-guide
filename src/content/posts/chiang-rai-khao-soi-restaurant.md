@@ -6,10 +6,10 @@ region: Chiang Rai
 category: restaurant
 pubDate: '2026-07-22T09:22:47.024Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/b/b0/Khao_soi_Mae_Sai.JPG
-  credit: 'Photo: Takeaway / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Khao_soi_Mae_Sai.JPG
+  url: https://fastly.4sqi.net/img/general/original/70222083_4AfZTOTMFdXkea0M_lA6MCsNIG8yCz3LG-LVysUgIco.jpg
+  credit: 'Photo: Foursquare user content (Khao Soi Restaurant)'
+  license: foursquare
+  source: https://foursquare.com/v/63a83c3b82c8312a70c1f958
 gallery: []
 place:
   id: ChIJV6pofV0G1zARgvT0RIC9QmM
@@ -64,7 +64,6 @@ faq:
   - q: What's nearby to combine with a visit?
     a: Wat Phra Kaew and the Chiang Rai Clock Tower are both within easy walking or short tuk-tuk distance, making this a natural lunch stop on an Old City sightseeing route.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-24'
 ---
 

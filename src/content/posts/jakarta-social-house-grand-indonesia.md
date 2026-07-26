@@ -6,10 +6,10 @@ region: Jakarta
 category: restaurant
 pubDate: '2026-07-23T07:15:51.181Z'
 heroImage:
-  url: https://images.unsplash.com/photo-1555899434-94d1368aa7af?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SmFrYXJ0YSUyMEluZG9uZXNpYXxlbnwwfDB8fHwxNzg0OTkzNTEwfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Eko Herwantoro on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@madebyekhrwntro?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/48406723_Hje7WFQ-kSjgm2-FdRaDzVLXawED8VT6YrfH76WsuXI.jpg
+  credit: 'Photo: Foursquare user content (SOCIAL HOUSE)'
+  license: foursquare
+  source: https://foursquare.com/v/4b87d7aff964a520bcce31e3
 gallery: []
 place:
   id: ChIJgWKDuiH0aS4RpXOh9dwgKmU
@@ -58,7 +58,6 @@ faq:
   - q: What's a good time to visit to avoid crowds?
     a: Weekday lunch around noon or an early dinner before 6:30pm tends to be calmer than weekend evenings, when it doubles as a post-work wine bar.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

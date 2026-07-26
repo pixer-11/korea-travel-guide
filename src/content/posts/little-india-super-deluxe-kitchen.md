@@ -6,10 +6,10 @@ region: Little India
 category: restaurant
 pubDate: '2026-07-23T07:36:04.943Z'
 heroImage:
-  url: https://images.unsplash.com/photo-1553771620-66573d96d4ee?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8TGl0dGxlJTIwSW5kaWElMjBTaW5nYXBvcmUlMjBsb2NhbCUyMHJlc3RhdXJhbnR8ZW58MHwwfHx8MTc4NDc5MjA5NHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Raveen Wijetilleke on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@nerdventures?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/3391934_oGhZ3saxg8GI6dvTG8wIIZJGa3G2fKg-r_ZB2MkrUZI.jpg
+  credit: 'Photo: Foursquare user content (Super Deluxe Kitchen)'
+  license: foursquare
+  source: https://foursquare.com/v/6954d320f98999314511f074
 gallery: []
 place:
   id: ChIJq9I-PVUZ2jEREhaR6C5wGeU
@@ -59,7 +59,6 @@ faq:
   - q: What else is worth seeing near the restaurant?
     a: Tekka Centre (wet market and hawker food) and Sri Veeramakaliamman Temple are both a short walk away, along with the shophouse-lined lanes of Dunlop Street and Campbell Lane.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

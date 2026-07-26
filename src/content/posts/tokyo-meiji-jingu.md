@@ -6,10 +6,10 @@ region: Tokyo
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Meiji_Jingu_Stadium_aerial_view.jpg/1920px-Meiji_Jingu_Stadium_aerial_view.jpg
-  credit: 'Photo: Arne Müseler / Wikimedia Commons (CC BY-SA 3.0 de)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Meiji_Jingu_Stadium_aerial_view.jpg
+  url: https://fastly.4sqi.net/img/general/original/594980678_bR0Ishzzc_WPtA_5mvkKCdBXIb_KdMtBIFy_y7_QbPE.jpg
+  credit: 'Photo: Foursquare user content (Meiji Jingu Shrine (明治神宮))'
+  license: foursquare
+  source: https://foursquare.com/v/4b5bd0a2f964a520c31729e3
 gallery: []
 place:
   id: ChIJ5SZMmreMGGARcz8QSTiJyo8
@@ -37,7 +37,6 @@ faq:
   - q: What's nearby worth combining with the visit?
     a: Yoyogi Park sits right next door, and Harajuku's Takeshita Street and Omotesando's boutiques are a five-minute walk from the shrine's main entrance.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

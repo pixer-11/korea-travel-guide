@@ -5,10 +5,10 @@ region: Seoul
 category: restaurant
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gyedong-gil_street_with_climbing_plants_at_golden_hour_in_Seoul_South_Korea.jpg/1920px-Gyedong-gil_street_with_climbing_plants_at_golden_hour_in_Seoul_South_Korea.jpg
-  credit: 'Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Gyedong-gil_street_with_climbing_plants_at_golden_hour_in_Seoul_South_Korea.jpg
+  url: https://fastly.4sqi.net/img/general/original/328826555_cqzItpI9ZV10Pfe4-dbGji26RnoIkyAa-ZDFX-g-1_Q.jpg
+  credit: 'Photo: Foursquare user content (Eid)'
+  license: foursquare
+  source: https://foursquare.com/v/543cf20b498eef542d20c8a7
 gallery: []
 place:
   id: ChIJa0VtDbWjfDURqx-5tftT9es
@@ -55,7 +55,6 @@ faq:
   - q: What else is nearby worth seeing?
     a: The Seoul Central Mosque is a two-minute walk uphill and open to visitors outside prayer times; the broader Itaewon district with its bars, boutiques, and the Leeum Museum of Art is a short walk or taxi ride away.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

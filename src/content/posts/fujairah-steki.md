@@ -6,10 +6,10 @@ region: Fujairah
 category: restaurant
 pubDate: '2026-07-23T07:52:22.299Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Steki_1.jpg/1920px-Steki_1.jpg
-  credit: 'Photo: Andrew Dalby / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Steki_1.jpg
+  url: https://fastly.4sqi.net/img/general/original/570470121_Jj1AxuNgMusQGmKnEfAcM5REqMYUgtcjsZEiGNqTCt4.jpg
+  credit: 'Photo: Foursquare user content (Steki)'
+  license: foursquare
+  source: https://foursquare.com/v/636bcb38725e1827c5a07249
 gallery: []
 place:
   id: ChIJ-4ICd2f59D4R9_ourQdM1tI
@@ -64,7 +64,6 @@ faq:
   - q: What else can I do nearby?
     a: Combine your meal with a walk on Umbrella Beach, and consider visiting Fujairah Fort, Al Bidyah Mosque, or Fujairah Museum, all a short drive away.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

@@ -6,10 +6,10 @@ region: Seattle
 category: restaurant
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Blown_Glass_for_sale_in_Pike_Place_Market%2C_Seattle%2C_Washington%2C_2025.jpg/1920px-Blown_Glass_for_sale_in_Pike_Place_Market%2C_Seattle%2C_Washington%2C_2025.jpg
-  credit: 'Photo: Julian Lupyan / Wikimedia Commons (CC0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Blown_Glass_for_sale_in_Pike_Place_Market,_Seattle,_Washington,_2025.jpg
+  url: https://fastly.4sqi.net/img/general/original/1400671761_aLgxz8vpufFPVpJBzup8WNO402jzGDEy0yQfnjHNGYs.jpg
+  credit: 'Photo: Foursquare user content (Pike Place Market)'
+  license: foursquare
+  source: https://foursquare.com/v/427ea800f964a520b1211fe3
 gallery: []
 place:
   id: ChIJy9ZRwbJqkFQRHJ8-Y18dRGA
@@ -34,7 +34,6 @@ faq:
   - q: Is the market only for tourists, or do locals actually shop there?
     a: It's a working farmers' and fishmongers' market dating to 1907, and locals still buy produce, flowers, and fish there daily, especially early in the morning.
 aiGenerated: true
-draft: true
 ---
 
 ## Why Pike Place Market is a food destination, not just a market

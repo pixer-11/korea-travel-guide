@@ -6,10 +6,10 @@ region: Surabaya
 category: restaurant
 pubDate: '2026-07-23T07:29:22.158Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Danau_Food_Juction%2C_Surabaya_-_Reyhan_afif_2017_%28Unsplash%29.jpg/1920px-Danau_Food_Juction%2C_Surabaya_-_Reyhan_afif_2017_%28Unsplash%29.jpg
-  credit: 'Photo: reyhan afif reyhan / Wikimedia Commons (CC0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Danau_Food_Juction,_Surabaya_-_Reyhan_afif_2017_(Unsplash).jpg
+  url: https://fastly.4sqi.net/img/general/original/1410499986_CmQTrmWx4Y2N30xpoqv13yGC7yQvt2eGnkkKHTo4NgY.jpg
+  credit: 'Photo: Foursquare user content (Depot Madiun Masakan Khas "Bu Rudy")'
+  license: foursquare
+  source: https://foursquare.com/v/4bb848d9cf2fc9b6a5739f02
 gallery: []
 place:
   id: ChIJzclN-v351y0Rnpji2jU5UXM
@@ -63,7 +63,6 @@ faq:
   - q: What should I order?
     a: Try the ayam or bebek goreng (fried chicken or duck) with a sambal of your choice, plus rempeyek — the crispy peanut-or-anchovy cracker the depot is best known for. It's also sold pre-packed for takeaway, which most repeat visitors buy in bulk.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

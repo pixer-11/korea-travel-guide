@@ -6,10 +6,10 @@ region: Hoi An
 category: hidden-gem
 pubDate: '2026-07-22T09:35:05.965Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Illuminated_Ferris_wheel%2C_bouncing_castle_and_carousel_at_night_in_a_funfair_in_Vientiane%2C_Laos.jpg/1920px-Illuminated_Ferris_wheel%2C_bouncing_castle_and_carousel_at_night_in_a_funfair_in_Vientiane%2C_Laos.jpg
-  credit: 'Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Illuminated_Ferris_wheel,_bouncing_castle_and_carousel_at_night_in_a_funfair_in_Vientiane,_Laos.jpg
+  url: https://fastly.4sqi.net/img/general/original/38071873_oWx-FJ6-oZTK9pk-VoMEqcwmTIQJh3vIKUm47FbN4XQ.jpg
+  credit: 'Photo: Foursquare user content (An Hoi Night Market (Chợ Đêm An Hội))'
+  license: foursquare
+  source: https://foursquare.com/v/4e5a3a8fb993732579f3a04b
 gallery: []
 place:
   id: ChIJLUlfw30OQjER32jWkRuwRAo
@@ -37,7 +37,6 @@ faq:
   - q: What food should I try there?
     a: Look for chè (sweet dessert soup), grilled skewers, and bánh mì at the stalls; for Hoi An's signature cao lầu noodles, check sit-down shops just off the main market street.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-24'
 ---
 

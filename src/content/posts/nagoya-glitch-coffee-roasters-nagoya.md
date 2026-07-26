@@ -6,10 +6,10 @@ region: Nagoya
 category: trendy
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://images.unsplash.com/photo-1583784412836-59db89907528?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8TmFnb3lhJTIwSmFwYW4lMjB0cmVuZHklMjBjYWZlfGVufDB8MHx8fDE3ODQ2MjgwMDZ8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Teo Zac on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@teo?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/521946016_020chiZ0RPc3eqLJh3W_WiUByOQtsjfQitIDEUaZGdA.jpg
+  credit: 'Photo: Foursquare user content (Glitch Coffee)'
+  license: foursquare
+  source: https://foursquare.com/v/5e42004a40fc1d00089ff87b
 gallery: []
 place:
   id: ChIJg5WvXRN3A2AR7kvJj3oWsjs
@@ -51,7 +51,6 @@ faq:
   - q: What's nearby if I want to combine it with other sightseeing?
     a: The Meieki district has Takashimaya and Meitetsu department stores, izakaya-lined side streets, and Midland Square's Sky Promenade observation deck, all within easy walking distance.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

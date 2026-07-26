@@ -6,10 +6,10 @@ region: Okinawa
 category: restaurant
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://images.unsplash.com/photo-1763872790577-87955e6036c9?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8T2tpbmF3YSUyMEphcGFuJTIwbG9jYWwlMjByZXN0YXVyYW50fGVufDB8MHx8fDE3ODQ2Mjc1NzB8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Daesun Kim on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@lifeandyouth?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/11141029_9576yXdaVYCMS2fYlxQsix84hZbWpCYcOjV6ZOhFw1w.jpg
+  credit: 'Photo: Foursquare user content (Chatan Steam Seafood 蒸気海鮮)'
+  license: foursquare
+  source: https://foursquare.com/v/5bf902fd628c83002c4d27df
 gallery: []
 place:
   id: ChIJmR_Uxc8T5TQRUiU6osESyL4
@@ -54,7 +54,6 @@ faq:
   - q: What's nearby after dinner?
     a: The restaurant is inside American Village (Depot Island), so you can walk to Sunset Beach, the area's Ferris wheel, and a cluster of shops and cafés right after eating.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

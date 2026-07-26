@@ -6,10 +6,10 @@ region: Phuket
 category: hidden-gem
 pubDate: '2026-07-22T09:17:23.509Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Majestic_Young_Tiger_Submerged_In_A_Green_Sanctuary.jpg/1920px-Majestic_Young_Tiger_Submerged_In_A_Green_Sanctuary.jpg
-  credit: 'Photo: Megaurab09 / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Majestic_Young_Tiger_Submerged_In_A_Green_Sanctuary.jpg
+  url: https://fastly.4sqi.net/img/general/original/1412765494_6bWm6VGici9cAKOfrh2qZjTwJte-w1TdCFUIOCxlKCg.jpg
+  credit: 'Photo: Foursquare user content (Green Elephant Sanctuary Park Phuket)'
+  license: foursquare
+  source: https://foursquare.com/v/5a6beca3ff19023776fbfd3c
 gallery: []
 place:
   id: ChIJMVGAs1g3UDARyLMbAwlTF_c
@@ -37,7 +37,6 @@ faq:
   - q: When is the best time to visit?
     a: Book a morning session during the November–April dry season for cooler weather and more active elephants; reserve a few days ahead in the busy December–February period.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

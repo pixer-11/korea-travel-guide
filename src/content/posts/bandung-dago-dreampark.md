@@ -6,10 +6,10 @@ region: Bandung
 category: attraction
 pubDate: '2026-07-23T07:13:03.027Z'
 heroImage:
-  url: https://images.unsplash.com/photo-1775565731195-77d4531ad2ed?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8QmFuZHVuZyUyMEluZG9uZXNpYSUyMHRvcCUyMGF0dHJhY3Rpb258ZW58MHwwfHx8MTc4NDc5MDc1Mnww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Anges Kei on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@keianges?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/481329249_zgtOuRlRxUiPdbtm-poB4gioN2VWmSvbOU6LphiyzUQ.jpg
+  credit: 'Photo: Foursquare user content (Dago Dreampark)'
+  license: foursquare
+  source: https://foursquare.com/v/5779f6e9498e532e87b5e70c
 gallery: []
 place:
   id: ChIJeUGDdCvnaC4RX24Dt0esfD4
@@ -53,7 +53,6 @@ faq:
   - q: What else is nearby?
     a: The park sits along the Dago-Lembang corridor near Tebing Keraton, Dago Pakar, and Lembang's cluster of family attractions like Farmhouse Susu Lembang and the Floating Market, making it easy to combine into a single day out.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

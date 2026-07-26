@@ -6,10 +6,10 @@ region: Bali
 category: restaurant
 pubDate: '2026-07-23T07:25:58.838Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Benoa_Bali_Indonesia-Bakso-street-vendor-02.jpg/1920px-Benoa_Bali_Indonesia-Bakso-street-vendor-02.jpg
-  credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Benoa_Bali_Indonesia-Bakso-street-vendor-02.jpg
+  url: https://fastly.4sqi.net/img/general/original/25955595_gEGgt-JZ837010f-c-f4D842SrZkb2Kuq1M4ZC0lJzQ.jpg
+  credit: 'Photo: Foursquare user content (Chai Of The Tiger)'
+  license: foursquare
+  source: https://foursquare.com/v/62623645dce86767a946367f
 gallery: []
 place:
   id: ChIJ_fjTq8A90i0Rif_PcK-Rcv0
@@ -59,7 +59,6 @@ faq:
   - q: What else is nearby?
     a: Peliatan Royal Palace (Legong dance performances), local art studios, and an easy walk or scooter ride to central Ubud's markets and rice terraces.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-24'
 ---
 

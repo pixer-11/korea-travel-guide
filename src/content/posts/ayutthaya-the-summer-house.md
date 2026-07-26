@@ -6,10 +6,10 @@ region: Ayutthaya
 category: trendy
 pubDate: '2026-07-22T09:18:28.850Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Bodnant_Garden_summer_house_-_north_facade.jpg/1920px-Bodnant_Garden_summer_house_-_north_facade.jpg
-  credit: 'Photo: DeFacto / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Bodnant_Garden_summer_house_-_north_facade.jpg
+  url: https://fastly.4sqi.net/img/general/original/53417732_MgVxmMOgxY5vEOrFTqY_G38fAW2VPc3Z0b9ka8dqB30.jpg
+  credit: 'Photo: Foursquare user content (The Summer House (เดอ ซัมเมอร์ เฮาส์))'
+  license: foursquare
+  source: https://foursquare.com/v/5574131d498ef85b1d262075
 gallery: []
 place:
   id: ChIJtez6KH524jAR0iUwLNxRGdc
@@ -57,7 +57,6 @@ faq:
   - q: What else is nearby?
     a: Wat Chaiwatthanaram, Wat Mahathat, and Wat Phra Si Sanphet are all within a short drive, making it easy to combine a meal here with a half-day of temple sightseeing.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-24'
 ---
 

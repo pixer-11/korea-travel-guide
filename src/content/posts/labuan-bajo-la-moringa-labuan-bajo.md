@@ -6,10 +6,10 @@ region: Labuan Bajo
 category: restaurant
 pubDate: '2026-07-23T07:17:57.864Z'
 heroImage:
-  url: https://images.unsplash.com/photo-1619880889144-d6e252999afa?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8TGFidWFuJTIwQmFqbyUyMEluZG9uZXNpYXxlbnwwfDB8fHwxNzg0NzkxMDQwfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by FIFANI CAHYADI on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@fifani?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/30282744_hnNvFqgRMMELd6kU7ZQUtAqvaFlzAUOJcIE5b-8LaVA.jpg
+  credit: 'Photo: Foursquare user content (La Moringa)'
+  license: foursquare
+  source: https://foursquare.com/v/640ed14543d7701e790354b4
 gallery: []
 place:
   id: ChIJV5TcMYJltC0R_ptIvG0PLp0
@@ -69,7 +69,6 @@ faq:
   - q: Is it close to the airport?
     a: Yes, Komodo Airport (LBJ) is roughly a 15-20 minute drive away, making it convenient for a first or last dinner on a Labuan Bajo trip.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

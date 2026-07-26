@@ -6,10 +6,10 @@ region: Phu Quoc
 category: restaurant
 pubDate: '2026-07-22T09:34:02.394Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Camia_and_Rasa.jpg/1920px-Camia_and_Rasa.jpg
-  credit: 'Photo: lucyrfisher / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Camia_and_Rasa.jpg
+  url: https://fastly.4sqi.net/img/general/original/12001442_cw72r4SgYqopBcznN1KHAAcnEThLRu17BvM4Ums80Qo.jpg
+  credit: 'Photo: Foursquare user content (Camia Restaurant)'
+  license: foursquare
+  source: https://foursquare.com/v/686a5788cdf9476256b46db1
 gallery: []
 place:
   id: ChIJF33R8xCLpzERFtTAVV7G-14
@@ -37,7 +37,6 @@ faq:
   - q: What's nearby if I want to make a night of it?
     a: Ong Lang Beach itself is worth a pre-dinner walk, and several small resorts and bungalow stays line the same road, making it easy to combine dinner with a sunset stroll without much travel.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

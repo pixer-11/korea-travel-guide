@@ -6,10 +6,10 @@ region: Lombok
 category: restaurant
 pubDate: '2026-07-23T07:17:25.991Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Red_colour_at_sunrise_and_Lombok%27s_mountains_%2816788815848%29.jpg/1920px-Red_colour_at_sunrise_and_Lombok%27s_mountains_%2816788815848%29.jpg
-  credit: 'Photo: Jorge Láscar from Melbourne, Australia / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Red_colour_at_sunrise_and_Lombok%27s_mountains_(16788815848).jpg
+  url: https://fastly.4sqi.net/img/general/original/1370657261_Fc4De4HGgE3b0QiYtkIBo0g-a9Jj119eQzZybTdcenk.jpg
+  credit: 'Photo: Foursquare user content (Elamu Lombok)'
+  license: foursquare
+  source: https://foursquare.com/v/6584f9ce9600bd3b9dfbf090
 gallery: []
 place:
   id: ChIJH3Zcin2pzS0RkXFwxDtEsLM
@@ -62,7 +62,6 @@ faq:
   - q: What else is nearby?
     a: Kuta Beach, the clifftop viewpoint at Bukit Merese, and Tanjung Aan Beach are all within a short scooter ride, making it easy to build a half-day itinerary around the meal.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

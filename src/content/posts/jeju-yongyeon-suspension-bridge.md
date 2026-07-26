@@ -6,10 +6,10 @@ region: Jeju
 category: hidden-gem
 pubDate: '2026-07-24T22:24:56.647Z'
 heroImage:
-  url: https://images.unsplash.com/photo-1761303505953-df6647dd3a46?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SmVqdSUyMFNvdXRoJTIwS29yZWElMjBoaWRkZW4lMjBnZW18ZW58MHwwfHx8MTc4NDkzMTg1NHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Cecelia Chang on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@ceceliaccc?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/38563289_v2eGBmdWJqX8tGiAxVIGnh27OceWyeiQGWadO-KF5vE.jpg
+  credit: 'Photo: Foursquare user content (Yongyeon Cloud Bridge (용연구름다리))'
+  license: foursquare
+  source: https://foursquare.com/v/4be53edd910020a14ec0d214
 gallery: []
 place:
   id: ChIJTamoBq3kDDURccGJpkrWKZQ
@@ -37,7 +37,6 @@ faq:
   - q: What else is nearby?
     a: Yongduam (Dragon Head) Rock is a 10-minute walk along the coast, and central Jeju City with Dongmun Market and Chilsipni Food Street is about a 10–15 minute drive.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

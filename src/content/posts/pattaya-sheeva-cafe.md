@@ -6,10 +6,10 @@ region: Pattaya
 category: trendy
 pubDate: '2026-07-22T09:18:59.526Z'
 heroImage:
-  url: https://images.unsplash.com/photo-1709176001884-efc5792ba2ad?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8UGF0dGF5YSUyMFRoYWlsYW5kJTIwdHJlbmR5JTIwY2FmZXxlbnwwfDB8fHwxNzg0NzExODc5fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Zeg Young on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@zeg?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/5012659_iusbX7c9dz8z7V6gxw2DqgRkA1A3--sgv8VGkdRyaUg.jpg
+  credit: 'Photo: Foursquare user content (Sheeva Café (ชีวาคาเฟ่))'
+  license: foursquare
+  source: https://foursquare.com/v/5d52717c2f162b00088561fe
 gallery: []
 place:
   id: ChIJHT86W9yVAjERq1m5fI2V5lE
@@ -54,7 +54,6 @@ faq:
   - q: Is Sheeva Cafe near the beach or Walking Street?
     a: No — it's inland on Sukhumvit-Pattaya 75, off Sukhumvit Road, so plan it as a separate trip rather than pairing it with a beach outing.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

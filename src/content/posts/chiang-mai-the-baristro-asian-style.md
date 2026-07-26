@@ -6,10 +6,10 @@ region: Chiang Mai
 category: trendy
 pubDate: '2026-07-22T09:20:35.379Z'
 heroImage:
-  url: https://images.unsplash.com/photo-1599576838688-8a6c11263108?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8Q2hpYW5nJTIwTWFpJTIwVGhhaWxhbmQlMjB0cmVuZHklMjBjYWZlfGVufDB8MHx8fDE3ODQ3MTE5Njl8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Peter Borter on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@peter_borter?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/6752082_29QmWLDBx5muL9kjApjzkCdVgZfHgYVSyahB9BW7mT8.jpg
+  credit: 'Photo: Foursquare user content (The Baristro Asian Style)'
+  license: foursquare
+  source: https://foursquare.com/v/60a335ab2f37f100613f2ec1
 gallery: []
 place:
   id: ChIJ9T2bGy872jARyAyAWix9M0o
@@ -58,7 +58,6 @@ faq:
   - q: What else can I combine with a visit?
     a: It's close to Wat Umong's forest temple, Chiang Mai University's Ang Kaew reservoir, and the road up to Doi Suthep, making it a good stop on a Suthep-side half-day itinerary.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-24'
 ---
 

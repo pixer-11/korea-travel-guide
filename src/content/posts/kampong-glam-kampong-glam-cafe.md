@@ -6,10 +6,10 @@ region: Kampong Glam
 category: trendy
 pubDate: '2026-07-23T07:42:10.108Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2016_Singapur%2C_Kampong_Glam%2C_Meczet_Malabar_%2804%29.jpg/1920px-2016_Singapur%2C_Kampong_Glam%2C_Meczet_Malabar_%2804%29.jpg
-  credit: 'Photo: Marcin Konsek / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:2016_Singapur,_Kampong_Glam,_Meczet_Malabar_(04).jpg
+  url: https://fastly.4sqi.net/img/general/original/5990381_A8HAh9bYo0eEixBzDVe-KIUErExySV7fgw3ohk-h_Zo.jpg
+  credit: 'Photo: Foursquare user content (Kampong Glam Cafe)'
+  license: foursquare
+  source: https://foursquare.com/v/4b17cff9f964a5206dc823e3
 gallery: []
 place:
   id: ChIJnwMTELEZ2jER4WqhksUDLFA
@@ -52,7 +52,6 @@ faq:
   - q: What's nearby worth visiting?
     a: Sultan Mosque is a two-minute walk, the Malay Heritage Centre sits just behind it, and Haji Lane and Arab Street's boutiques and murals are a short stroll further.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

@@ -5,10 +5,10 @@ region: Gangneung
 category: trendy
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Namdae_stream_water_reflection_of_colorful_clouds_from_Wolhwagyo_bridge_in_Gangneung_South_Korea.jpg/1920px-Namdae_stream_water_reflection_of_colorful_clouds_from_Wolhwagyo_bridge_in_Gangneung_South_Korea.jpg
-  credit: 'Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Namdae_stream_water_reflection_of_colorful_clouds_from_Wolhwagyo_bridge_in_Gangneung_South_Korea.jpg
+  url: https://fastly.4sqi.net/img/general/original/8909789_Lvvn-ivY97r9oMUU0IQbVvO2TOCZqUPLrKcysyrwNSM.jpg
+  credit: 'Photo: Foursquare user content (주문진 등대)'
+  license: foursquare
+  source: https://foursquare.com/v/4cd5140089eb6dcb8d73261e
 gallery: []
 place:
   id: ChIJu5ptmLCYfDURmSbRP4bS_QM
@@ -36,7 +36,6 @@ faq:
   - q: What else is nearby?
     a: Jumunjin Port and Fish Market are right at the base of the hill, and Jumunjin Beach is a short drive away, offering a quieter alternative to Gyeongpo Beach in central Gangneung.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

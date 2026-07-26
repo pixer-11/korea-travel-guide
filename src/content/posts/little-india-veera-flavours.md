@@ -6,10 +6,10 @@ region: Little India
 category: restaurant
 pubDate: '2026-07-23T07:45:32.798Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/3/3b/Little_India%2C_Singapore_%284059104115%29.jpg
-  credit: 'Photo: Khalzuri Yazid from Petaling Jaya, Malaysia / Wikimedia Commons (CC BY-SA 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Little_India,_Singapore_(4059104115).jpg
+  url: https://fastly.4sqi.net/img/general/original/1399700747_U-zVoXbUmjz123smC6Z2h-pdOxpZZcw5DtGgYSdMaZs.jpg
+  credit: 'Photo: Foursquare user content (Veera Flavours (Formerly Known As Amaravathi))'
+  license: foursquare
+  source: https://foursquare.com/v/663c549a374324796e28c847
 gallery: []
 place:
   id: ChIJURcu3VkZ2jERjZBy1nhV5xg
@@ -59,7 +59,6 @@ faq:
   - q: What else is nearby?
     a: Campbell Lane's flower stalls, the Sri Veeramakaliamman Temple, and Tekka Centre hawker market are all within a 5-10 minute walk.
 aiGenerated: true
-draft: true
 ---
 
 ## Why Veera Flavours

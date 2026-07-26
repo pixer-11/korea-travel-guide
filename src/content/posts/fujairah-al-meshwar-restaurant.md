@@ -6,10 +6,10 @@ region: Fujairah
 category: restaurant
 pubDate: '2026-07-23T08:01:19.136Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Water_pipe_in_Wadi_Wurayah_Emirate_of_Fujairah_-_United_Arab_Emirates_-_panoramio.jpg/1920px-Water_pipe_in_Wadi_Wurayah_Emirate_of_Fujairah_-_United_Arab_Emirates_-_panoramio.jpg
-  credit: 'Photo: Bin Al Stroker / Wikimedia Commons (CC BY 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Water_pipe_in_Wadi_Wurayah_Emirate_of_Fujairah_-_United_Arab_Emirates_-_panoramio.jpg
+  url: https://fastly.4sqi.net/img/general/original/72215921_jbffYL9pSPRGKB5gEnx1frAhIlSqohK6qWEBBxPezEQ.jpg
+  credit: 'Photo: Foursquare user content (Al Meshwar Restaurant مطعم المشوار)'
+  license: foursquare
+  source: https://foursquare.com/v/4c0a241dbbc676b0bd5949d5
 gallery: []
 place:
   id: ChIJT93bboz49D4Rop5Zc7He-2M
@@ -63,7 +63,6 @@ faq:
   - q: What else can I see near the restaurant?
     a: Fujairah City Centre mall is right nearby, and Fujairah Fort, Fujairah Museum, Al Bidyah Mosque, and the Fujairah Corniche are all easy to combine with a meal here.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

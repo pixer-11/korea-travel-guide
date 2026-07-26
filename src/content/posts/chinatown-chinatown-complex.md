@@ -6,10 +6,10 @@ region: Chinatown
 category: restaurant
 pubDate: '2026-07-23T07:44:27.231Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Chinatown_Complex_Market_and_Food_Centre%2C_mural.jpg/1920px-Chinatown_Complex_Market_and_Food_Centre%2C_mural.jpg
-  credit: 'Photo: Kbseah / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Chinatown_Complex_Market_and_Food_Centre,_mural.jpg
+  url: https://fastly.4sqi.net/img/general/original/1409959977_t5yi8DSfHxB6kvqp-U9MR4RP3HzZ6jb9Ngzw1pb6zzg.jpg
+  credit: 'Photo: Foursquare user content (Chinatown Complex Market & Food Centre)'
+  license: foursquare
+  source: https://foursquare.com/v/4b21d6abf964a520db4124e3
 gallery: []
 place:
   id: ChIJAenlH3MZ2jERqjoWXlxEH6w
@@ -61,7 +61,6 @@ faq:
   - q: What else is nearby to combine with a meal?
     a: Buddha Tooth Relic Temple and Sri Mariamman Temple are both within easy walking distance, and Amoy Street Food Centre offers a second hawker option if you want to keep exploring Chinatown's food scene.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-24'
 ---
 

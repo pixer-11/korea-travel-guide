@@ -6,10 +6,10 @@ region: Osaka
 category: trendy
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://images.unsplash.com/photo-1732906364920-4708eacfc9ab?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8T3Nha2ElMjBKYXBhbiUyMHRyZW5keSUyMGNhZmV8ZW58MHwwfHx8MTc4NDYyODMzOXww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Bruna Santos on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@brunafisantos?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/26504858__6u-Ov1MVdPZkwjzGJlDj5P4ATtCiSjU0Zw3jlFZcl4.jpg
+  credit: 'Photo: Foursquare user content (LiLo Coffee Roasters)'
+  license: foursquare
+  source: https://foursquare.com/v/53e458d6498e40c7e22ebe7f
 gallery: []
 place:
   id: ChIJ1T9unxrnAGARhtQGwQaaF-I
@@ -54,7 +54,6 @@ faq:
   - q: What else is nearby worth combining with a visit?
     a: Amerikamura's shops are a short walk northwest, and the Shinsaibashi-suji arcade and Dotonbori canal area are about 10–15 minutes away on foot.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

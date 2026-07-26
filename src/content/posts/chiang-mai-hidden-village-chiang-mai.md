@@ -6,10 +6,10 @@ region: Chiang Mai
 category: hidden-gem
 pubDate: '2026-07-22T09:16:53.893Z'
 heroImage:
-  url: https://images.unsplash.com/photo-1512553353614-82a7370096dc?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8Q2hpYW5nJTIwTWFpJTIwVGhhaWxhbmQlMjBoaWRkZW4lMjBnZW18ZW58MHwwfHx8MTc4NDcxMTc0N3ww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Bharath Mohan on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@illusn?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/7141761_0Qx5a7vb4iTrxkHu4qdm-Aa2r4V2ct427lO9frLwGPM.jpg
+  credit: 'Photo: Foursquare user content (Hidden Village)'
+  license: foursquare
+  source: https://foursquare.com/v/58e9bfd714fb415f6a0e71d8
 gallery: []
 place:
   id: ChIJL3AGHyQ72jAROerj2sZPIY4
@@ -37,7 +37,6 @@ faq:
   - q: Is it worth visiting if I only have a couple of days in Chiang Mai?
     a: It's a nice-to-have rather than essential — prioritize it if you enjoy rustic photo-op spots and have already covered temples like Wat Phra Singh or Doi Suthep.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-24'
 ---
 

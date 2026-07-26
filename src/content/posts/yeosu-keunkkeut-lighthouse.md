@@ -5,10 +5,10 @@ region: Yeosu
 category: hidden-gem
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://images.unsplash.com/photo-1535189043414-47a3c49a0bed?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8WWVvc3UlMjBTb3V0aCUyMEtvcmVhJTIwaGlkZGVuJTIwZ2VtfGVufDB8MHx8fDE3ODQ2MTM4NTh8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Y K on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@yokeboy?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/12647493_YrlsuiioxBvAa1VNVXQGUYOr-xgG0YblPmtkli0MEAo.jpg
+  credit: 'Photo: Foursquare user content (큰끝등대)'
+  license: foursquare
+  source: https://foursquare.com/v/66346cd8b2003446227e4f39
 gallery: []
 place:
   id: ChIJWYT5iYPbbTURqeHk9gfXwT0
@@ -36,7 +36,6 @@ faq:
   - q: What else is nearby on Dolsan Island?
     a: Hyangiram Hermitage, Dolsan Park (with its bridge and night-view overlook), and several small seafood villages along the coast make for an easy half-day combined itinerary.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

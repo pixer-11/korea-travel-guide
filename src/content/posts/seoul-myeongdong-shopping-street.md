@@ -6,10 +6,10 @@ region: Seoul
 category: hidden-gem
 pubDate: '2026-07-24T22:23:13.313Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/2/23/Seoul-Myeongdong-02.jpg
-  credit: 'Photo: by thelearnr / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Seoul-Myeongdong-02.jpg
+  url: https://fastly.4sqi.net/img/general/original/25113286_HBGwnlhkq1DUlAMmmMhB7SV8yfr8tted5aPV-Nv5_mo.jpg
+  credit: 'Photo: Foursquare user content (Myeongdong Shopping Street)'
+  license: foursquare
+  source: https://foursquare.com/v/102ea7b22fd6414fe38df33f
 gallery: []
 place:
   id: ChIJXz2vx_GifDURImd3aTJZ1VA
@@ -37,7 +37,6 @@ faq:
   - q: What else is nearby?
     a: Myeongdong Cathedral is a short walk south, and Lotte Department Store Main Branch and Shinsegae Department Store sit at the edges of the district for duty-free shopping.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

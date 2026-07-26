@@ -5,10 +5,10 @@ region: Suwon
 category: hidden-gem
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://images.unsplash.com/photo-1673201069831-b54f304484e2?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U3V3b24lMjBTb3V0aCUyMEtvcmVhJTIwaGlkZGVuJTIwZ2VtfGVufDB8MHx8fDE3ODQ2MTM4MzB8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Ratapan Anantawat on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@rtp_atw?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/1408658172_2dDjOCBodevtNwV_RdvmPu0MbwnVcz-u2l2hEXaTpIY.jpg
+  credit: 'Photo: Foursquare user content (Dongjangdae (Eastern Command Post) (동장대 / 연무대))'
+  license: foursquare
+  source: https://foursquare.com/v/4bc12be974a9a5931883d1f6
 gallery: []
 place:
   id: ChIJM9G40LZcezURA0wZqKNN7OY
@@ -52,7 +52,6 @@ faq:
   - q: What's the best time of year or day to visit?
     a: Spring and autumn offer the most comfortable weather; early morning or late afternoon give better light and smaller crowds than midday, especially on weekends.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

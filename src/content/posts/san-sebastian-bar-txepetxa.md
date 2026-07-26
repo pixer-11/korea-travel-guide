@@ -6,10 +6,10 @@ region: San Sebastian
 category: restaurant
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Typische_Altstadtbar_von_Donostia_San_Sebastian%2C_Spanien.jpg/1920px-Typische_Altstadtbar_von_Donostia_San_Sebastian%2C_Spanien.jpg
-  credit: 'Photo: Gordito1869 / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Typische_Altstadtbar_von_Donostia_San_Sebastian,_Spanien.jpg
+  url: https://fastly.4sqi.net/img/general/original/2998617_HjQiy6NWZ8K7YB5Fjx3mU81X4-ozlR0ksg8Fc8EjoWs.jpg
+  credit: 'Photo: Foursquare user content (Txepetxa)'
+  license: foursquare
+  source: https://foursquare.com/v/4cd1c7381ac7a1cdcb0b2192
 gallery: []
 place:
   id: ChIJfQW8xU2lUQ0RRd5xky_9uBY
@@ -38,7 +38,6 @@ faq:
   - q: What's the best time to visit?
     a: Arrive right at opening for lunch (around 1pm) or dinner (around 8pm) to beat the crowds, since it fills up quickly with locals and visitors alike.
 aiGenerated: true
-draft: true
 ---
 
 ## Why Bar Txepetxa matters

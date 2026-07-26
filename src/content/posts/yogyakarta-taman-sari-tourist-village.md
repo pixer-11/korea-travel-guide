@@ -6,10 +6,10 @@ region: Yogyakarta
 category: attraction
 pubDate: '2026-07-22T09:44:22.363Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Ash_in_Yogyakarta_during_the_2014_eruption_of_Kelud_01.jpg/1920px-Ash_in_Yogyakarta_during_the_2014_eruption_of_Kelud_01.jpg
-  credit: 'Photo: Crisco 1492 / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Ash_in_Yogyakarta_during_the_2014_eruption_of_Kelud_01.jpg
+  url: https://fastly.4sqi.net/img/general/original/592294_fzNNKuIQ9EjAQTC6_iElCow5RP5svLhovGQtPF_BPHo.jpg
+  credit: 'Photo: Foursquare user content (Taman Sari Water Castle)'
+  license: foursquare
+  source: https://foursquare.com/v/4bad8b68f964a520535a3be3
 gallery: []
 place:
   id: ChIJK8_C0JNXei4RE74coPghaic
@@ -51,7 +51,6 @@ faq:
   - q: What else is nearby?
     a: The Yogyakarta Sultan's Palace (Kraton) is a 10-15 minute walk away, and the surrounding kampung has batik stalls, murals, and small home-industry workshops worth exploring.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

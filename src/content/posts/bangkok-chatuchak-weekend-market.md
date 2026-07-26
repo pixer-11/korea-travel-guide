@@ -6,10 +6,10 @@ region: Bangkok
 category: hidden-gem
 pubDate: '2026-07-22T09:13:57.233Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Chatuchak_Weekend_Market%2C_Bangkok%2C_Thailand_%284570440063%29.jpg/1920px-Chatuchak_Weekend_Market%2C_Bangkok%2C_Thailand_%284570440063%29.jpg
-  credit: 'Photo: yeowatzup / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Chatuchak_Weekend_Market,_Bangkok,_Thailand_(4570440063).jpg
+  url: https://fastly.4sqi.net/img/general/original/7188988_ua0EkgwYNTSRbE8Sh6CRNXPw68pEThWcrGUJuKLjPHw.jpg
+  credit: 'Photo: Foursquare user content (Chatuchak Weekend Market (ตลาดนัดจตุจักร))'
+  license: foursquare
+  source: https://foursquare.com/v/4bd401e477b29c74300a9282
 gallery: []
 place:
   id: ChIJ3fiD6BSc4jARS324hNeR8ZE
@@ -37,7 +37,6 @@ faq:
   - q: Is bargaining expected?
     a: Yes, at most clothing, antique, and craft stalls — starting around 20–30% below the asking price is normal. Food stalls typically have fixed prices.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-24'
 ---
 

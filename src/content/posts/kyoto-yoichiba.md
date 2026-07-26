@@ -6,10 +6,10 @@ region: Kyoto
 category: restaurant
 pubDate: '2026-07-22T09:04:56.071Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JP_%E6%97%A5%E6%9C%AC_Japan_%E4%BA%AC%E9%83%BD_Kyoto_mall_EDION_Kyoto_Kawaramachi_Main_Store_n_Food_Hall_n_crossingway_June_2026_N13P_02.jpg/1920px-JP_%E6%97%A5%E6%9C%AC_Japan_%E4%BA%AC%E9%83%BD_Kyoto_mall_EDION_Kyoto_Kawaramachi_Main_Store_n_Food_Hall_n_crossingway_June_2026_N13P_02.jpg
-  credit: 'Photo: TKdows 2026 / Wikimedia Commons (CC0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:JP_%E6%97%A5%E6%9C%AC_Japan_%E4%BA%AC%E9%83%BD_Kyoto_mall_EDION_Kyoto_Kawaramachi_Main_Store_n_Food_Hall_n_crossingway_June_2026_N13P_02.jpg
+  url: https://fastly.4sqi.net/img/general/original/77848690_snks_eDS7Y7RwK4ERFbkj-BQ2nz5HazV7YK2Hkak1Ew.jpg
+  credit: 'Photo: Foursquare user content (Kyoto Yoichiba)'
+  license: foursquare
+  source: https://foursquare.com/v/68d3fba601c285518723284b
 gallery: []
 place:
   id: ChIJpdNJYA0JAWARUbNXXyglsxo
@@ -65,7 +65,6 @@ faq:
   - q: Is it better to go for lunch or dinner?
     a: Dinner service tends to offer the fuller menu experience at this style of restaurant; lunch may have a shorter or set menu. Confirm current hours before visiting since small Kyoto restaurants often close between lunch and dinner service.
 aiGenerated: true
-draft: true
 ---
 
 ## Why Yoichiba stands out

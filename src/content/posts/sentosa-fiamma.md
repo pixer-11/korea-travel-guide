@@ -6,10 +6,10 @@ region: Sentosa
 category: restaurant
 pubDate: '2026-07-23T07:34:21.457Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Lorenzo_Barzon_%26_Fiamma_Nirenstein.jpg/1920px-Lorenzo_Barzon_%26_Fiamma_Nirenstein.jpg
-  credit: 'Photo: Redazionale2000 / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Lorenzo_Barzon_%26_Fiamma_Nirenstein.jpg
+  url: https://fastly.4sqi.net/img/general/original/101034445_rMl0cIl0HICDIcnZnL8-Lpfy0_WEM9eHK6PEWNPgJaY.jpg
+  credit: 'Photo: Foursquare user content (Fiamma)'
+  license: foursquare
+  source: https://foursquare.com/v/62c41fc88a443f637bdd91a1
 gallery: []
 place:
   id: ChIJEWNnq5of2jER69_bjd4nzlg
@@ -37,7 +37,6 @@ faq:
   - q: What else is nearby if I want to make a day of it?
     a: Tanjong Beach and Sentosa's eastern boardwalk trails are both close by and make a good calmer pairing with dinner, away from the busier western attractions like Siloso Beach and Universal Studios.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

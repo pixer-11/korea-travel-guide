@@ -6,10 +6,10 @@ region: Krabi
 category: trendy
 pubDate: '2026-07-22T09:17:53.767Z'
 heroImage:
-  url: https://images.unsplash.com/photo-1587535361679-1b93aeb783dd?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8S3JhYmklMjBUaGFpbGFuZCUyMHRyZW5keSUyMGNhZmV8ZW58MHwwfHx8MTc4NDk5MzUxNXww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Ranjith Alingal on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@align_all?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/192655554_7znbIxg0f1-yYQatjd3_yBgfdwPUa_2zlPrAGNvaO6s.jpg
+  credit: 'Photo: Foursquare user content (Into The Forest)'
+  license: foursquare
+  source: https://foursquare.com/v/6075519ce1da285aeb7cf417
 gallery: []
 place:
   id: ChIJf1t8FN-9UTARbL_N-UlnN3I
@@ -38,7 +38,6 @@ faq:
   - q: What's nearby I can combine with this visit?
     a: Wat Tham Sua (Tiger Cave Temple), the Krabi Town riverside promenade, and the weekend night market are all within a short drive, making it easy to build a half-day loop.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

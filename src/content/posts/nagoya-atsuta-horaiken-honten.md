@@ -6,10 +6,10 @@ region: Nagoya
 category: restaurant
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://images.unsplash.com/photo-1708373130353-a2d6710af5ca?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8TmFnb3lhJTIwSmFwYW58ZW58MHwwfHx8MTc4NDYyNzUwN3ww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Steffen Triekels on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@noxiderp?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/162728783_5ws4Xui2phicBAup-0aAQB_OR6KxsWQfkg1fSUH4EDQ.jpg
+  credit: 'Photo: Foursquare user content (Atsuta Horaiken (あつた蓬莱軒 本店))'
+  license: foursquare
+  source: https://foursquare.com/v/4b5e68ddf964a5207a8d29e3
 gallery: []
 place:
   id: ChIJJRIRWR96A2AR1pCxwc4H298
@@ -63,7 +63,6 @@ faq:
   - q: What's the best time of year to visit?
     a: Spring and autumn tend to have shorter waits; midsummer, especially around the day of the ox in late July, is the traditional eel-eating season and the busiest, priciest time to go.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

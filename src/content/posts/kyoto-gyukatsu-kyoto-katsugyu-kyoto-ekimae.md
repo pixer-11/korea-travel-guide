@@ -6,10 +6,10 @@ region: Kyoto
 category: restaurant
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Chung_Ching_%26_Kyoto_%28%E4%B8%AD%E8%88%88%29%2C_Hillegersberg%2C_Rotterdam_%282021%29_08.jpg/1920px-Chung_Ching_%26_Kyoto_%28%E4%B8%AD%E8%88%88%29%2C_Hillegersberg%2C_Rotterdam_%282021%29_08.jpg
-  credit: 'Photo: Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International.(Want to use this image?)Original publication 📤: --Donald Trung 『徵國單』 (No Fake News 💬) (WikiProject Numismatics 💴) (Articles 📚) 22:24, 21 November 2021 (UTC) / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Chung_Ching_%26_Kyoto_(%E4%B8%AD%E8%88%88),_Hillegersberg,_Rotterdam_(2021)_08.jpg
+  url: https://fastly.4sqi.net/img/general/original/4990766_c8NgKNeQbLT4S6NBBw7wQhE_41_2I6b0GnwmpvFgEmU.jpg
+  credit: 'Photo: Foursquare user content (Gyukatsu Kyoto Katsugyu (京都勝牛 京都駅前店))'
+  license: foursquare
+  source: https://foursquare.com/v/548bc2bd498e8e0d8aad8586
 gallery: []
 place:
   id: ChIJ8-EJ8q8IAWAR2uveIY6clUg
@@ -55,7 +55,6 @@ faq:
   - q: What's nearby if I have extra time?
     a: Kyoto Tower, Higashi Hongan-ji temple, and Isetan's basement food hall are all within a 10–15 minute walk, making it easy to combine the meal with light sightseeing near the station.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-24'
 ---
 

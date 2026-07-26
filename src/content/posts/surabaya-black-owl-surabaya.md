@@ -6,10 +6,10 @@ region: Surabaya
 category: restaurant
 pubDate: '2026-07-23T07:18:32.244Z'
 heroImage:
-  url: https://images.unsplash.com/photo-1688525141547-2e4c04a218d7?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U3VyYWJheWElMjBJbmRvbmVzaWF8ZW58MHwwfHx8MTc4NDc5MTA3Mnww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Kristian Tandjung on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@kristiantandjung?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/42531918_JX0CtbbJtCamTZ6Ph9F8-6DqCJ6kSL_3QkQlR7zEuHc.jpg
+  credit: 'Photo: Foursquare user content (Black Owl)'
+  license: foursquare
+  source: https://foursquare.com/v/6675637dd1a0267feefe824b
 gallery: []
 place:
   id: ChIJcQ_EToL71y0RM3ta80qLId8
@@ -59,7 +59,6 @@ faq:
   - q: What's nearby if I want to make a half-day of it?
     a: Tunjungan Plaza and the historic Tunjungan shopping street are both close by along the same central corridor, easy to combine with a meal before or after.
 aiGenerated: true
-draft: true
 ---
 
 ## Why Black Owl stands out

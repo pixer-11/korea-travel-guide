@@ -6,10 +6,10 @@ region: Barcelona
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/%28Barcelona%29_Bastidors_d%27espelmes_votives_-_dissenyat_per_Antoni_Gaud%C3%AD_-_Sagrada_Familia.jpg/1920px-%28Barcelona%29_Bastidors_d%27espelmes_votives_-_dissenyat_per_Antoni_Gaud%C3%AD_-_Sagrada_Familia.jpg
-  credit: 'Photo: Didier Descouens / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:(Barcelona)_Bastidors_d%27espelmes_votives_-_dissenyat_per_Antoni_Gaud%C3%AD_-_Sagrada_Familia.jpg
+  url: https://fastly.4sqi.net/img/general/original/21699186_yN83CHxCysGMhHNFMPlQjlqSMy_kKOF4gy-DNFqGO74.jpg
+  credit: 'Photo: Foursquare user content (The Basilica of the Sagrada Familia (Temple Expiatori de la Sagrada Família))'
+  license: foursquare
+  source: https://foursquare.com/v/4adcda50f964a520544121e3
 gallery: []
 place:
   id: ChIJk_s92NyipBIRUMnDG8Kq2Js
@@ -64,7 +64,6 @@ faq:
   - q: What else is nearby worth visiting?
     a: Other Gaudí landmarks, Casa Milà and Casa Batlló, are a short metro ride away on Passeig de Gràcia, and the surrounding Eixample district has plenty of cafes and tapas bars for a post-visit break.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-24'
 ---
 

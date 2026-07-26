@@ -6,10 +6,10 @@ region: Ajman
 category: restaurant
 pubDate: '2026-07-23T07:52:52.893Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/8/84/Diving_equipment_at_local_diving_center_in_Ajman%2C_emirate_of_Ajman%2C_United_Arab_Emirates%2C_Spring%2C_2011_%282%29.jpg
-  credit: 'Photo: majelanmarine / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Diving_equipment_at_local_diving_center_in_Ajman,_emirate_of_Ajman,_United_Arab_Emirates,_Spring,_2011_(2).jpg
+  url: https://fastly.4sqi.net/img/general/original/20215287_XIcujUyTSVj7HCl4jRXY-qUXuaRx3Yz9SRd9m8wtHz0.jpg
+  credit: 'Photo: Foursquare user content (Souryana Restarant and Café)'
+  license: foursquare
+  source: https://foursquare.com/v/65d0c53dfe22cc209d958453
 gallery: []
 place:
   id: ChIJEddxDWdXXz4RY6DXDYrwt7o
@@ -64,7 +64,6 @@ faq:
   - q: What else is nearby worth visiting?
     a: The Ajman Corniche, Ajman Museum in the old fort, and City Centre Ajman mall are all a short drive away and easy to combine with a meal.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-24'
 ---
 

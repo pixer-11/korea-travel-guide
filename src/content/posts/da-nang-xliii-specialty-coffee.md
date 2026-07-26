@@ -6,10 +6,10 @@ region: Da Nang
 category: trendy
 pubDate: '2026-07-22T09:36:41.229Z'
 heroImage:
-  url: https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8RGElMjBOYW5nJTIwVmlldG5hbXxlbnwwfDB8fHwxNzg0NzEyOTA4fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Andreea Popa on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@elfcodobelf?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/24440652_FBS5VhcSoxdBBz31BcLrQSBrgT1-YdmEFqPQq6_SHAY.jpg
+  credit: 'Photo: Foursquare user content (Thanh Tâm Coffee & Bakery)'
+  license: foursquare
+  source: https://foursquare.com/v/4f5d3992e4b0695cbbd29d30
 gallery: []
 place:
   id: ChIJ7xtm7rMXQjER7ye2fxPfbFE
@@ -58,7 +58,6 @@ faq:
   - q: Can I combine this with other Da Nang attractions?
     a: Yes — it's close to the Marble Mountains and a short ride from My Khe Beach, making it an easy midday stop between the two.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-24'
 ---
 

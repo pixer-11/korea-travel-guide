@@ -6,10 +6,10 @@ region: Chiang Mai
 category: restaurant
 pubDate: '2026-07-22T09:23:48.793Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Street_Food_Stall%2C_Chiang_Mai%2C_Thailand_%287113967189%29.jpg/1920px-Street_Food_Stall%2C_Chiang_Mai%2C_Thailand_%287113967189%29.jpg
-  credit: 'Photo: David McKelvey from Brisbane, Australia / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Street_Food_Stall,_Chiang_Mai,_Thailand_(7113967189).jpg
+  url: https://fastly.4sqi.net/img/general/original/1205313_ekXRoQi8xazZKr1qV0mnVkMQhF_IJt18mf_jOsQ0zUY.jpg
+  credit: 'Photo: Foursquare user content (Best Khao Soi Chang Mai)'
+  license: foursquare
+  source: https://foursquare.com/v/676e78c65d664d786b17c103
 gallery: []
 place:
   id: ChIJKVNboGg72jARJXKeBsiz0ac
@@ -38,7 +38,6 @@ faq:
   - q: What else is nearby worth visiting?
     a: Wat Phra Singh, one of Chiang Mai's most revered temples, is in the same Phra Singh neighborhood, making it easy to combine a temple visit with lunch here.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-24'
 ---
 

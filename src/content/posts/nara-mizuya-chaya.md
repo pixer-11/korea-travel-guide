@@ -6,10 +6,10 @@ region: Nara
 category: restaurant
 pubDate: '2026-07-22T09:03:25.722Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Nara_Food_Festival_2018_%282%29.jpg/1920px-Nara_Food_Festival_2018_%282%29.jpg
-  credit: 'Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Nara_Food_Festival_2018_(2).jpg
+  url: https://fastly.4sqi.net/img/general/original/1686706_KHwotsY4cHt3COJ5eQANrVXnph4LY2Kc68pbTPiV6O4.jpg
+  credit: 'Photo: Foursquare user content (Mizuya-Chaya (水谷茶屋))'
+  license: foursquare
+  source: https://foursquare.com/v/4be11821a7380f475b4a19b0
 gallery: []
 place:
   id: ChIJj9LYfJU5AWARbAtuh3oHDSc
@@ -38,7 +38,6 @@ faq:
   - q: What else is nearby?
     a: Kasuga Taisha is a five-minute walk further up the path, and Todai-ji, Nara Park's deer meadows, and the Nara National Museum are all within a 15–20 minute walk back toward central Nara.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

@@ -6,10 +6,10 @@ region: Sentosa
 category: attraction
 pubDate: '2026-07-23T07:30:27.024Z'
 heroImage:
-  url: https://images.unsplash.com/photo-1600664356348-10686526af4f?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8U2VudG9zYSUyMFNpbmdhcG9yZSUyMHRvcCUyMGF0dHJhY3Rpb258ZW58MHwwfHx8MTc4NDc5MTc2OHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Jisun Han on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@hanzlog?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/529436459_53JFEYm_2gQbtmztAFBHVOtf3eFI84I3T6M1VtvUVPU.jpg
+  credit: 'Photo: Foursquare user content (Skyline Sentosa Luge)'
+  license: foursquare
+  source: https://foursquare.com/v/4b05881af964a52013b222e3
 gallery: []
 place:
   id: ChIJs1Hr6f4b2jER3t3uRzo5IgE
@@ -57,7 +57,6 @@ faq:
   - q: What else is nearby to combine with the visit?
     a: Imbiah Lookout, Siloso Beach, and Skypark Sentosa's zipline are all within a short walk, making it easy to build a half-day itinerary around the luge.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

@@ -6,10 +6,10 @@ region: Jakarta
 category: restaurant
 pubDate: '2026-07-23T07:26:32.004Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Jakarta_Indonesia_Hawkers-in-Kota-Jakarta-01.jpg/1920px-Jakarta_Indonesia_Hawkers-in-Kota-Jakarta-01.jpg
-  credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Jakarta_Indonesia_Hawkers-in-Kota-Jakarta-01.jpg
+  url: https://fastly.4sqi.net/img/general/original/1588362_OYBpSS9bzBne0d3pRVclShjr8x3HoKYS7E7T6QesIYs.jpg
+  credit: 'Photo: Foursquare user content (Gajah Mada Food Centre)'
+  license: foursquare
+  source: https://foursquare.com/v/5bb21b7a57a5370039722729
 gallery: []
 place:
   id: ChIJK0fYLzP1aS4RpGSFn-LBsMM
@@ -51,7 +51,6 @@ faq:
   - q: What else is nearby?
     a: The food street sits at the edge of Jakarta's historic Glodok and Pancoran Chinatown district, walkable for temple visits, old shophouses, and additional street-food stops before or after your meal.
 aiGenerated: true
-draft: true
 ---
 
 ## Why Gajah Mada Food Street Matters

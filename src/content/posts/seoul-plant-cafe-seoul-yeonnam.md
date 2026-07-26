@@ -5,10 +5,10 @@ region: Seoul
 category: trendy
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://images.unsplash.com/photo-1546874177-9e664107314e?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U2VvdWwlMjBTb3V0aCUyMEtvcmVhfGVufDB8MHx8fDE3ODQ2MTM5MTd8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Yohan Cho on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@yohoney?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/1780186_eIf8PL6IGedrmVIrOq7seUtL5pmjTCyy5SXPIT9VOIc.jpg
+  credit: 'Photo: Foursquare user content (Plant (플랜트))'
+  license: foursquare
+  source: https://foursquare.com/v/611e32bb4901776b421f2ec9
 gallery: []
 place:
   id: ChIJ3Y2fGhmZfDURlZg2rP0sRls
@@ -61,7 +61,6 @@ faq:
   - q: Is it good for photos?
     a: Yes — the greenhouse-like interior with dense plant displays and natural light near the windows is the main draw, especially in spring and early autumn when the greenery is fullest.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

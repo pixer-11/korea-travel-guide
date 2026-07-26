@@ -6,10 +6,10 @@ region: Ajman
 category: hidden-gem
 pubDate: '2026-07-23T07:54:31.349Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Ajman_Nov._2010_-24.jpg/1920px-Ajman_Nov._2010_-24.jpg
-  credit: 'Photo: en:User:MMuzammils / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Ajman_Nov._2010_-24.jpg
+  url: https://fastly.4sqi.net/img/general/original/559749939_R7aa-Rc8tTwNOluiSD-FBKKPFIJb6k81Zs-PgOreXXY.jpg
+  credit: 'Photo: Foursquare user content (Al Zaurah Beach)'
+  license: foursquare
+  source: https://foursquare.com/v/4f06f771e4b0e624d582d64e
 gallery: []
 place:
   id: ChIJgyCOLfJXXz4RNVzyDWgGrF0
@@ -46,7 +46,6 @@ faq:
   - q: Are there facilities like restrooms or food stalls?
     a: No — this is an unserviced natural beach, so bring your own water, shade, and snacks, and plan to use facilities in the Al Zorah marina or Ajman corniche area beforehand or afterward.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

@@ -6,10 +6,10 @@ region: Provence
 category: attraction
 pubDate: '2026-07-22T01:46:41.064Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sunflower_at_Hitchin_Lavender_-_geograph.org.uk_-_6594262.jpg/1920px-Sunflower_at_Hitchin_Lavender_-_geograph.org.uk_-_6594262.jpg
-  credit: 'Photo: Christine Matthews / Wikimedia Commons (CC BY-SA 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Sunflower_at_Hitchin_Lavender_-_geograph.org.uk_-_6594262.jpg
+  url: https://fastly.4sqi.net/img/general/original/5077236_LiRrgGEeEpXps7RJB4vORC5IxUhKb_7LfXPOQjPdeJA.jpg
+  credit: 'Photo: Foursquare user content (Sunflower Field)'
+  license: foursquare
+  source: https://foursquare.com/v/668a7ff2cdcbb11d052733f4
 gallery: []
 place:
   id: ChIJjYBB61TFyxIRDXKdKPRYP24
@@ -37,7 +37,6 @@ faq:
   - q: What's the best time of day to visit for photos?
     a: Sunrise or the two hours before sunset give the softest light and smallest crowds; midday sun is harsh and the heat among the rows can be intense in July.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

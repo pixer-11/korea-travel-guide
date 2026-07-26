@@ -1,14 +1,14 @@
 ---
-title: "Andong Hahoe Folk Village: Travel Guide"
-description: "Andong Hahoe Folk Village is a still-inhabited Joseon-era village on a horseshoe bend of the Nakdong River, best visited for a half-day to see traditional"
+title: 'Andong Hahoe Folk Village: Travel Guide'
+description: Andong Hahoe Folk Village is a still-inhabited Joseon-era village on a horseshoe bend of the Nakdong River, best visited for a half-day to see traditional
 region: Andong
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/6/6d/Korea-Andong_Hahoe_Folk_Village_cropped.jpg
-  credit: 'Photo: by david alina at Flickr / Wikimedia Commons (CC BY-SA 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Korea-Andong_Hahoe_Folk_Village_cropped.jpg
+  url: https://fastly.4sqi.net/img/general/original/20301648_gxHKyQ-6zuCktRUQmGxw1zzTLN2Uc5BVBRXMEFjdo3A.jpg
+  credit: 'Photo: Foursquare user content (Bukchon House (Andong Hahoe Village) (북촌댁))'
+  license: foursquare
+  source: https://foursquare.com/v/50416ca6e4b0a10506950910
 gallery: []
 place:
   id: ChIJ70lL5f4iZDURou4DxhPonPA
@@ -22,10 +22,21 @@ place:
   lng: 128.5181474
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [9, 10, 18]
-    weekendQuiet: [18]
-    weekendBusy: [11, 12, 13, 14, 15, 16, 17]
-    venueId: 'ven_41506e6f5068784434756f5255445a693466354c6c30374a496843'
+    weekdayQuiet:
+      - 9
+      - 10
+      - 18
+    weekendQuiet:
+      - 18
+    weekendBusy:
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+    venueId: ven_41506e6f5068784434756f5255445a693466354c6c30374a496843
 tags:
   - andong
   - top attraction

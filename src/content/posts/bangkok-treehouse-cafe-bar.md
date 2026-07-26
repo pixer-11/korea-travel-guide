@@ -6,10 +6,10 @@ region: Bangkok
 category: trendy
 pubDate: '2026-07-22T09:25:23.670Z'
 heroImage:
-  url: https://images.unsplash.com/photo-1608155168168-db85cc55172e?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8QmFuZ2tvayUyMFRoYWlsYW5kJTIwdHJlbmR5JTIwY2FmZXxlbnwwfDB8fHwxNzg0NzEyMjUxfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Kamil Molendys on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@ilkamo?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/3277190_2txPxq-FhRjtPEUO8AokJTw6BP1Lb4JqYEPTpppFv98.jpg
+  credit: 'Photo: Foursquare user content (Treehouse Cafe & Bar)'
+  license: foursquare
+  source: https://foursquare.com/v/658aa714ad06766843628297
 gallery: []
 place:
   id: ChIJh1qSmmuf4jAR_P5qjvv_Vzs
@@ -58,7 +58,6 @@ faq:
   - q: Do I need a reservation?
     a: It's not always required, but given the venue's popularity (4.9 stars, 2,600+ reviews), booking ahead or arriving early is recommended for weekend evenings.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-24'
 ---
 

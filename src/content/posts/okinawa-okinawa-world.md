@@ -6,10 +6,10 @@ region: Okinawa
 category: hidden-gem
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Okinawa_Aquarium.jpg/1920px-Okinawa_Aquarium.jpg
-  credit: 'Photo: Jordy Meow / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Okinawa_Aquarium.jpg
+  url: https://fastly.4sqi.net/img/general/original/72520158_WvUuIPImqOzV0bxJByuh42N0KipXKuXXCVmzR_Nsbck.jpg
+  credit: 'Photo: Foursquare user content (Okinawa World (おきなわワールド))'
+  license: foursquare
+  source: https://foursquare.com/v/4c0fbb9896fc95218ef8c0cb
 gallery: []
 place:
   id: ChIJza_GaWlv5TQRy52qkW4L2P4
@@ -56,7 +56,6 @@ faq:
   - q: What else is nearby worth combining with the visit?
     a: Cape Chinen and the UNESCO-listed Sefa-utaki sacred site are both a short drive away in Nanjo, making a good coastal itinerary if you're renting a car.
 aiGenerated: true
-draft: true
 ---
 
 ## Why Okinawa World is worth the detour

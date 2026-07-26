@@ -6,10 +6,10 @@ region: Ras Al Khaimah
 category: restaurant
 pubDate: '2026-07-23T08:00:47.004Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ras_Al-Khaimah_-_Ras_al_Khaimah_-_United_Arab_Emirates_-_panoramio_%281%29.jpg/1920px-Ras_Al-Khaimah_-_Ras_al_Khaimah_-_United_Arab_Emirates_-_panoramio_%281%29.jpg
-  credit: 'Photo: Bin Al Stroker / Wikimedia Commons (CC BY 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Ras_Al-Khaimah_-_Ras_al_Khaimah_-_United_Arab_Emirates_-_panoramio_(1).jpg
+  url: https://fastly.4sqi.net/img/general/original/74744044_aesGSWfPLHfHMcYpY-K3Xh02uMXJC_PBV_X27btOtGo.jpg
+  credit: 'Photo: Foursquare user content (Bait Al Halabi Resturant)'
+  license: foursquare
+  source: https://foursquare.com/v/62bc16c786de442d27a7f970
 gallery: []
 place:
   id: ChIJb4vWt6Nx9j4RBSaIuGli72I
@@ -64,7 +64,6 @@ faq:
   - q: How long should I plan to spend there?
     a: It's a quick-service cafeteria, not a sit-down restaurant — 20 to 30 minutes is enough to order, eat, and move on, making it easy to combine with a Corniche walk or a visit to RAK's old fort museum.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

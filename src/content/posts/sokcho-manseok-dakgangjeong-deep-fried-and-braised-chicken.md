@@ -6,10 +6,10 @@ region: Sokcho
 category: restaurant
 pubDate: '2026-07-24T22:25:59.641Z'
 heroImage:
-  url: https://images.unsplash.com/photo-1529883406927-e996c9ae3353?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8M3x8U29rY2hvJTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0OTMxOTE4fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Jongsun Lee on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@sarahleejs?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/4288186_WWe48OIW5APBf627RCZqnLYrbKnDW9bhnS2I1zAtfDs.jpg
+  credit: 'Photo: Foursquare user content (쌈밥&청국장)'
+  license: foursquare
+  source: https://foursquare.com/v/5c7606fe27cbd10025d46f7e
 gallery: []
 place:
   id: ChIJ_anZJ3q72F8RwNtXP7C84rQ
@@ -38,7 +38,6 @@ faq:
   - q: Is it better for lunch or dinner, or as a drinking spot?
     a: It works for both — order it with rice as a full meal, or treat it as anju (bar food) with beer or soju in the evening, which is a common way locals enjoy dakgangjeong.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

@@ -6,10 +6,10 @@ region: Orchard Road
 category: restaurant
 pubDate: '2026-07-23T07:35:31.064Z'
 heroImage:
-  url: https://images.unsplash.com/photo-1739857554154-80c15b7b1af7?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8T3JjaGFyZCUyMFJvYWQlMjBTaW5nYXBvcmUlMjBsb2NhbCUyMHJlc3RhdXJhbnR8ZW58MHwwfHx8MTc4NDc5MjA2MXww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Scribbling Geek on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@scribblinggeek?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/43726211_GB-uLAb0kM9kS_INoMIiTmkRJ2eerX4LSOyoWoVsbOk.jpg
+  credit: 'Photo: Foursquare user content (Merci Marcel)'
+  license: foursquare
+  source: https://foursquare.com/v/5da1bff2aa77150007883473
 gallery: []
 place:
   id: ChIJuTpnZVQZ2jEReDI4VP2u_w0
@@ -66,7 +66,6 @@ faq:
   - q: What's nearby if I want to combine the visit with shopping?
     a: Palais Renaissance itself has boutique shopping, and ION Orchard, Ngee Ann City, and Wisma Atria are all within a 5–10 minute walk.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

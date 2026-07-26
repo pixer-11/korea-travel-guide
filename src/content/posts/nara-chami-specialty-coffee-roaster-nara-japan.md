@@ -6,10 +6,10 @@ region: Nara
 category: trendy
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://images.unsplash.com/photo-1593343534320-75e59f3f4232?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8TmFyYSUyMEphcGFuJTIwdHJlbmR5JTIwY2FmZXxlbnwwfDB8fHwxNzg0NjI4MTkzfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by note thanun on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@notethanun?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/445641_WpjJVSFA2RBwHl1ck--DlvkzJKwMBQHgNtXJXjv9ols.jpg
+  credit: 'Photo: Foursquare user content (CHAMI)'
+  license: foursquare
+  source: https://foursquare.com/v/5dbd0fc66c2a1c00082fafd2
 gallery: []
 place:
   id: ChIJUffCkl47AWARy6BKw4o3RXY
@@ -61,7 +61,6 @@ faq:
   - q: Can I buy the coffee beans to take home?
     a: As a roaster, CHAMI typically sells bagged beans of its rotating single-origin selection, making it a good spot to pick up a distinctive souvenir — bring a bag or tote if you plan to buy some.
 aiGenerated: true
-draft: true
 ---
 
 ## Why CHAMI stands out

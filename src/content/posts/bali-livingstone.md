@@ -6,10 +6,10 @@ region: Bali
 category: trendy
 pubDate: '2026-07-23T07:21:51.450Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Livingstone_and_the_Lion.jpg/1920px-Livingstone_and_the_Lion.jpg
-  credit: 'Photo: DeFacto / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Livingstone_and_the_Lion.jpg
+  url: https://fastly.4sqi.net/img/general/original/479235657_DIekptNhmOeanCOIin30L3Ff6c-bfOEWcI27F6DvQvc.jpg
+  credit: 'Photo: Foursquare user content (Livingstone)'
+  license: foursquare
+  source: https://foursquare.com/v/52d380d6498e5e87472f2b7f
 gallery: []
 place:
   id: ChIJv-pCBGtH0i0RtjgHkk_uF-g
@@ -61,7 +61,6 @@ faq:
   - q: What's nearby if I want to make a half-day of it?
     a: Petitenget Beach, several beach clubs, and Seminyak's main shopping streets are all a short drive or scooter ride from Livingstone, making it easy to pair with a beach or shopping stop.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-24'
 ---
 

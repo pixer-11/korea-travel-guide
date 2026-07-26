@@ -6,10 +6,10 @@ region: Nha Trang
 category: trendy
 pubDate: '2026-07-22T09:38:14.869Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Nha_Trang%2C_Vietnam_-_53120927853.jpg/1920px-Nha_Trang%2C_Vietnam_-_53120927853.jpg
-  credit: 'Photo: Leonid / Wikimedia Commons (CC BY-SA 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Nha_Trang,_Vietnam_-_53120927853.jpg
+  url: https://fastly.4sqi.net/img/general/original/42658048_ticdP5TZj249H7pQbV-HMAvyfhd7qCZtqurG1hPhHnU.jpg
+  credit: 'Photo: Foursquare user content (nhà hè coffee)'
+  license: foursquare
+  source: https://foursquare.com/v/5c5d057758002c002c991b03
 gallery: []
 place:
   id: ChIJoyY-sH5ncDERTXPJIogNkJ0
@@ -61,7 +61,6 @@ faq:
   - q: Is it close to other things to see in Nha Trang?
     a: Yes — it's within easy reach of the central beach strip, Nha Trang Center, and Louisiane Brewhouse, and sits in a residential pocket worth exploring on foot for local eateries away from the main tourist road.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

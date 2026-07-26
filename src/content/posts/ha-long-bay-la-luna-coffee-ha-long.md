@@ -6,10 +6,10 @@ region: Ha Long Bay
 category: trendy
 pubDate: '2026-07-22T09:37:41.722Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/View_of_sea_from_Titov_Island%2C_Ha_Long_Bay%2C_Vietnam%2C_20240128_1337_3732.jpg/1920px-View_of_sea_from_Titov_Island%2C_Ha_Long_Bay%2C_Vietnam%2C_20240128_1337_3732.jpg
-  credit: 'Photo: Jakub Hałun / Wikimedia Commons (CC BY 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:View_of_sea_from_Titov_Island,_Ha_Long_Bay,_Vietnam,_20240128_1337_3732.jpg
+  url: https://fastly.4sqi.net/img/general/original/94704269_Ebv5dhb5FZfdcf3M50ITKoHMSBYDnZwxLkqHHrWpwpY.jpg
+  credit: 'Photo: Foursquare user content (La Luna Coffee)'
+  license: foursquare
+  source: https://foursquare.com/v/6468971ae787e834bc77b37a
 gallery: []
 place:
   id: ChIJ8W4jgzlZSjERUjrTt8bb3BM
@@ -38,7 +38,6 @@ faq:
   - q: Does it get crowded?
     a: With over 2,000 reviews and a 4.4 rating, it's a popular stop, so weekends and peak holiday periods can mean waiting for the best window-side or terrace tables.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-24'
 ---
 

@@ -6,10 +6,10 @@ region: Lyon
 category: hidden-gem
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Lyon_-_Vieux_Lyon_6692.jpg/1920px-Lyon_-_Vieux_Lyon_6692.jpg
-  credit: 'Photo: Phyrexian / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Lyon_-_Vieux_Lyon_6692.jpg
+  url: https://fastly.4sqi.net/img/general/original/36858387_6QQDgZIv-nViWWYEBWXiW9-tbsMv16xiVhaM3BoCYXg.jpg
+  credit: 'Photo: Foursquare user content (Vieux Lyon)'
+  license: foursquare
+  source: https://foursquare.com/v/4b24e320f964a520546a24e3
 gallery: []
 place:
   id: ChIJX39-76rr9EcRJiT3aHfJnC0
@@ -55,7 +55,6 @@ faq:
   - q: Is Vieux Lyon walkable or do I need the funicular?
     a: The quarter itself is fully walkable, though hilly and cobbled. The funicular near the Vieux Lyon metro stop is only needed if you're heading up to Fourvière basilica and want to skip the 20-25 minute uphill walk.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

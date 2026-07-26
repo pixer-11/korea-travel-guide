@@ -6,10 +6,10 @@ region: Bali
 category: restaurant
 pubDate: '2026-07-23T07:15:17.661Z'
 heroImage:
-  url: https://images.unsplash.com/photo-1544644181-1484b3fdfc62?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8QmFsaSUyMEluZG9uZXNpYXxlbnwwfDB8fHwxNzg0OTkzNTI5fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Sebastian Pena Lambarri on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@sebaspenalambarri?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/42617440__CSB-Whxql2YMvuxLVle_Bzu-yE5dUgqhfR3sjR0jUc.jpg
+  credit: 'Photo: Foursquare user content (RM Sanak Padang Food)'
+  license: foursquare
+  source: https://foursquare.com/v/4eb52641b634a0486004274f
 gallery: []
 place:
   id: ChIJR7MWORA90i0Rj7ugb0Lss4g
@@ -60,7 +60,6 @@ faq:
   - q: How long should I plan to spend there?
     a: Budget around 45–75 minutes for a full meal including dessert, plus extra buffer time for a possible wait during peak hours.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-24'
 ---
 

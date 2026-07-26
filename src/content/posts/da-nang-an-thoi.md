@@ -6,10 +6,10 @@ region: Da Nang
 category: restaurant
 pubDate: '2026-07-22T09:40:42.388Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Noi-u-chan-khong-giu-nhiet-da-nang.png/1920px-Noi-u-chan-khong-giu-nhiet-da-nang.png
-  credit: 'Photo: Tứ Diễm / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Noi-u-chan-khong-giu-nhiet-da-nang.png
+  url: https://fastly.4sqi.net/img/general/original/382189499_RzPh80OYb7NvmmZjTY3q5l49KkcxUm0c8PU_a5BgEM8.jpg
+  credit: 'Photo: Foursquare user content (Ăn Thôi Restaurant)'
+  license: foursquare
+  source: https://foursquare.com/v/63a2d5d24598c442fc618fe5
 gallery: []
 place:
   id: ChIJYVPRIUkZQjERH-v3yrc3lt0
@@ -53,7 +53,6 @@ faq:
   - q: What should I order?
     a: Try mì Quảng and bánh xèo for local specialties, plus whatever fresh seafood is available that day — ask staff about the daily catch.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-24'
 ---
 

@@ -6,10 +6,10 @@ region: Ayutthaya
 category: restaurant
 pubDate: '2026-07-22T09:11:54.515Z'
 heroImage:
-  url: https://images.unsplash.com/photo-1680960395754-50ab855f5d9a?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8QXl1dHRoYXlhJTIwVGhhaWxhbmR8ZW58MHwwfHx8MTc4NDcxMTQ2OHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Hongbin on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@hbsun2013?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/976202_udyt18ze7RFPaUuM0cS1kgJ8g9ozZ0ThbDCz-cgWLIQ.jpg
+  credit: 'Photo: Foursquare user content (The Artisans Ayutthaya)'
+  license: foursquare
+  source: https://foursquare.com/v/605da7b10e5d7472c8851dd3
 gallery: []
 place:
   id: ChIJPSBC45t34jARawdIhdUwFWE
@@ -51,7 +51,6 @@ faq:
   - q: Should I make a reservation?
     a: With over 2,000 reviews and a 4.9 rating, it's popular locally and with tourists, so booking ahead or arriving early on weekends is recommended.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-24'
 ---
 

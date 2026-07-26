@@ -6,10 +6,10 @@ region: Nagoya
 category: hidden-gem
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/AEON_MALL_Nagoya_Noritake_Garden_-_2.jpg/1920px-AEON_MALL_Nagoya_Noritake_Garden_-_2.jpg
-  credit: 'Photo: KKPCW / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:AEON_MALL_Nagoya_Noritake_Garden_-_2.jpg
+  url: https://fastly.4sqi.net/img/general/original/24392102_6y_JHt2YHw_BbzpQnJ39XJAceFOs7wfyJF32bEcj0go.jpg
+  credit: 'Photo: Foursquare user content (Noritake Garden (ノリタケの森))'
+  license: foursquare
+  source: https://foursquare.com/v/4bb6e386ef159c7452a876f7
 gallery: []
 place:
   id: ChIJkVqv3Op2A2AR0laSdx5UWOA
@@ -37,7 +37,6 @@ faq:
   - q: What else is nearby worth combining with this visit?
     a: The Toyota Commemorative Museum of Industry and Technology is a short walk or taxi ride away and makes for a natural pairing on an industrial-heritage-themed half-day in Nagoya.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

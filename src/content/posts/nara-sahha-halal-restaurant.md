@@ -6,10 +6,10 @@ region: Nara
 category: restaurant
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sika_Deer_in_Nara%2C_Japan%2C_20240819_1546_4782.jpg/1920px-Sika_Deer_in_Nara%2C_Japan%2C_20240819_1546_4782.jpg
-  credit: 'Photo: Jakub Hałun / Wikimedia Commons (CC BY 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Sika_Deer_in_Nara,_Japan,_20240819_1546_4782.jpg
+  url: https://fastly.4sqi.net/img/general/original/565726512_QAL9kEe9Zd-z_NEShq06150osDKzn5rjJd_DC32x10Q.jpg
+  credit: 'Photo: Foursquare user content (SAHHA)'
+  license: foursquare
+  source: https://foursquare.com/v/6492734a1d6e495154668c04
 gallery: []
 place:
   id: ChIJM-p8Cqo7AWARQ4BaQnhXtp4
@@ -37,7 +37,6 @@ faq:
   - q: Should I combine this with other Nara sightseeing?
     a: Yes — treat it as a deliberate detour. Visit Tōdai-ji and Kasuga Taisha in the morning, then route to Sahha for a late lunch since it's not on the main sightseeing path.
 aiGenerated: true
-draft: true
 ---
 
 ## Why Sahha matters in Nara

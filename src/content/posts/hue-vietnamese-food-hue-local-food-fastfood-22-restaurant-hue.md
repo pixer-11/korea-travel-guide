@@ -6,10 +6,10 @@ region: Hue
 category: restaurant
 pubDate: '2026-07-22T09:42:51.214Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/New_Zealand_Ice_Cream%2C_Hue_%287073478309%29.jpg/1920px-New_Zealand_Ice_Cream%2C_Hue_%287073478309%29.jpg
-  credit: 'Photo: David McKelvey from Brisbane, Australia / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:New_Zealand_Ice_Cream,_Hue_(7073478309).jpg
+  url: https://fastly.4sqi.net/img/general/original/974224_L-eZcyBtOOrHpQGcNlNL5mde8WV2Nr6cp8IRR4K2KbE.jpg
+  credit: 'Photo: Foursquare user content (Fast Food 22)'
+  license: foursquare
+  source: https://foursquare.com/v/643e41344bc45a2f92eb8370
 gallery: []
 place:
   id: ChIJKbK20-yhQTER9k6vw3uan_I
@@ -52,7 +52,6 @@ faq:
   - q: What else is nearby?
     a: The Imperial City (Hue Citadel) and Dong Ba Market are both close by on the same riverbank, making it easy to combine a meal here with sightseeing.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-24'
 ---
 

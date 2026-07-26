@@ -6,10 +6,10 @@ region: Sentosa
 category: restaurant
 pubDate: '2026-07-23T07:43:54.588Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Lau_Pa_Sat%2C_October_2024.jpg/1920px-Lau_Pa_Sat%2C_October_2024.jpg
-  credit: 'Photo: GoAheadFan95 / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Lau_Pa_Sat,_October_2024.jpg
+  url: https://fastly.4sqi.net/img/general/original/16024448_4-Moak3yTa4O1tElIPQTth13ZTZRUsSd4KShdfk0Z08.jpg
+  credit: 'Photo: Foursquare user content (Lau Pa Sat)'
+  license: foursquare
+  source: https://foursquare.com/v/4b13fe99f964a520659b23e3
 gallery: []
 place:
   id: ChIJ5Y6l4Q0Z2jERYL0KDIjT6v0
@@ -65,7 +65,6 @@ faq:
   - q: What else is nearby if I'm already in the CBD?
     a: Lau Pa Sat sits within walking distance of Marina Bay, the Merlion Park, and Boat Quay, so it pairs well with an evening riverside or waterfront walk before heading back to Sentosa.
 aiGenerated: true
-draft: true
 ---
 
 ## Why this guide starts with a correction

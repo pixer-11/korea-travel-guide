@@ -6,10 +6,10 @@ region: Osaka
 category: restaurant
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Osaka_Dotonbori_Canal.jpg/1920px-Osaka_Dotonbori_Canal.jpg
-  credit: 'Photo: 32linesky / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Osaka_Dotonbori_Canal.jpg
+  url: https://fastly.4sqi.net/img/general/original/537048569_VG9wsShISVNBPef5zL5ZwsSJRRDrPv4YkLJXHLtuptc.jpg
+  credit: 'Photo: Foursquare user content (Dotonbori (道頓堀))'
+  license: foursquare
+  source: https://foursquare.com/v/4b5aa10ff964a52094ce28e3
 gallery: []
 place:
   id: ChIJ_fmKgRPnAGARkKWLtCYTu7g
@@ -37,7 +37,6 @@ faq:
   - q: When is the best time to visit for photos without heavy crowds?
     a: Arrive around 4:30–5pm as the billboards light up but before the peak dinner crowd, or visit on a weekday for a comparatively calmer walk.
 aiGenerated: true
-draft: true
 ---
 
 ## Why Dotonbori is Osaka's food capital

@@ -1,38 +1,38 @@
 ---
-title: "French Quarter: New Orleans Travel Guide"
-description: "The French Quarter is New Orleans' original 18th-century grid, bounded roughly by Canal Street, Rampart Street, Esplanade Avenue, and the Mississippi River"
-country: "United States"
-region: "New Orleans"
-category: "hidden-gem"
-pubDate: 2026-07-21
+title: 'French Quarter: New Orleans Travel Guide'
+description: The French Quarter is New Orleans' original 18th-century grid, bounded roughly by Canal Street, Rampart Street, Esplanade Avenue, and the Mississippi River
+country: United States
+region: New Orleans
+category: hidden-gem
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bourbon_St%2C_French_Quarter%2C_New_Orleans%2C_USA2.jpg/1920px-Bourbon_St%2C_French_Quarter%2C_New_Orleans%2C_USA2.jpg"
-  credit: "Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Bourbon_St,_French_Quarter,_New_Orleans,_USA2.jpg"
+  url: https://fastly.4sqi.net/img/general/original/66774434_LE0jVXaG65Z22TIZ8C0-ZQP5lC54nXjqGWXx55KNwtM.jpg
+  credit: 'Photo: Foursquare user content (French Quarter)'
+  license: foursquare
+  source: https://foursquare.com/v/5ddb0aa4c023bd00085e0f8e
 gallery: []
 place:
-  id: "ChIJf5407BGmIIYROiKyvb07vZg"
-  name: "French Quarter"
-  address: "French Quarter, New Orleans, LA, USA"
-  googleMapsUrl: "https://maps.google.com/?cid=11006018750480785978&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  id: ChIJf5407BGmIIYROiKyvb07vZg
+  name: French Quarter
+  address: French Quarter, New Orleans, LA, USA
+  googleMapsUrl: https://maps.google.com/?cid=11006018750480785978&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   lat: 29.958442599999998
   lng: -90.0644107
 tags:
-  - "new orleans"
-  - "French Quarter"
-quickAnswer: "The French Quarter is New Orleans' original 18th-century grid, bounded roughly by Canal Street, Rampart Street, Esplanade Avenue, and the Mississippi River — walkable in a day but worth two nights for the food and music. Base yourself near Jackson Square, walk everything (it's about 13 blocks long by 6 wide), and go early morning or weekday to see it without the Bourbon Street crowds."
+  - new orleans
+  - French Quarter
+quickAnswer: The French Quarter is New Orleans' original 18th-century grid, bounded roughly by Canal Street, Rampart Street, Esplanade Avenue, and the Mississippi River — walkable in a day but worth two nights for the food and music. Base yourself near Jackson Square, walk everything (it's about 13 blocks long by 6 wide), and go early morning or weekday to see it without the Bourbon Street crowds.
 faq:
-  - q: "How do I get to the French Quarter from the airport?"
-    a: "Louis Armstrong International Airport is about 20–30 minutes away by taxi or rideshare; there's no direct streetcar from the airport, so a car is the practical option."
-  - q: "How long should I spend in the French Quarter?"
-    a: "A full day covers the highlights (Jackson Square, Royal Street, a meal), but two days lets you catch live music on Frenchmen Street and explore courtyards and side streets at a slower pace."
-  - q: "Is the French Quarter walkable?"
-    a: "Yes — it's only about 13 blocks by 6 blocks, and nearly everything worth seeing is within a 15–20 minute walk of Jackson Square. Driving inside the Quarter is discouraged."
-  - q: "What's the best time of year to visit?"
-    a: "Spring and fall offer the most comfortable weather. Mardi Gras and French Quarter Fest are highlights but bring heavy crowds; summer is very hot and humid."
-  - q: "What should I eat in the French Quarter?"
-    a: "Beignets at Café du Monde, a muffuletta from Central Grocery, and Creole classics like gumbo or po'boys are essential; Galatoire's and Antoine's offer a formal sit-down version of the cuisine."
+  - q: How do I get to the French Quarter from the airport?
+    a: Louis Armstrong International Airport is about 20–30 minutes away by taxi or rideshare; there's no direct streetcar from the airport, so a car is the practical option.
+  - q: How long should I spend in the French Quarter?
+    a: A full day covers the highlights (Jackson Square, Royal Street, a meal), but two days lets you catch live music on Frenchmen Street and explore courtyards and side streets at a slower pace.
+  - q: Is the French Quarter walkable?
+    a: Yes — it's only about 13 blocks by 6 blocks, and nearly everything worth seeing is within a 15–20 minute walk of Jackson Square. Driving inside the Quarter is discouraged.
+  - q: What's the best time of year to visit?
+    a: Spring and fall offer the most comfortable weather. Mardi Gras and French Quarter Fest are highlights but bring heavy crowds; summer is very hot and humid.
+  - q: What should I eat in the French Quarter?
+    a: Beignets at Café du Monde, a muffuletta from Central Grocery, and Creole classics like gumbo or po'boys are essential; Galatoire's and Antoine's offer a formal sit-down version of the cuisine.
 aiGenerated: true
 draft: false
 ---

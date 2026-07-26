@@ -6,10 +6,10 @@ region: Okinawa
 category: trendy
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://images.unsplash.com/photo-1626154984793-708ab402f1c8?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8T2tpbmF3YSUyMEphcGFuJTIwdHJlbmR5JTIwY2FmZXxlbnwwfDB8fHwxNzg0NjI4MDc2fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Takafumi Yamashita on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@yamashita0129?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/441613814_OQpClzMw7a5bJq9l1rjQqoIS4hREKpK0O3pDveeH9dw.jpg
+  credit: 'Photo: Foursquare user content (zhyvago coffee works (ジバゴコーヒーワークス))'
+  license: foursquare
+  source: https://foursquare.com/v/55cd7133498e0630e0612352
 gallery: []
 place:
   id: ChIJ-Z4s2Q8T5TQR7ydGC6mwG8I
@@ -38,7 +38,6 @@ faq:
   - q: What else is nearby?
     a: American Village (shops, restaurants, the Ferris wheel) is right next door, and Sunset Beach is a short walk away, making it easy to combine coffee with a beach or shopping stop.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

@@ -6,10 +6,10 @@ region: Fujairah
 category: trendy
 pubDate: '2026-07-23T07:57:51.308Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Snow_in_the_backyard_in_Visby%2C_Gotland.jpg/1920px-Snow_in_the_backyard_in_Visby%2C_Gotland.jpg
-  credit: 'Photo: W.carter / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Snow_in_the_backyard_in_Visby,_Gotland.jpg
+  url: https://fastly.4sqi.net/img/general/original/24861975_xPesFrPbNE2a0sY4zue0uvsNZuox5ltCwOekR-cps3I.jpg
+  credit: 'Photo: Foursquare user content (Backyard)'
+  license: foursquare
+  source: https://foursquare.com/v/6a106cd2cf778f79b536eaae
 gallery: []
 place:
   id: ChIJIa15PgBX9D4RBzUOtfqf-zk
@@ -38,7 +38,6 @@ faq:
   - q: What else can I see nearby?
     a: Fujairah Fort, the Heritage Village, and the Fujairah Corniche are all a short drive away, making Backyard an easy add-on to a half-day loop of Fujairah City's historic and waterfront sights.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-24'
 ---
 

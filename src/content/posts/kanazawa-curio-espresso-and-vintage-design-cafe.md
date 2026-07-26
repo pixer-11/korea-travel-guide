@@ -6,10 +6,10 @@ region: Kanazawa
 category: trendy
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://images.unsplash.com/photo-1614640522775-71bebddd21f9?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8S2FuYXphd2ElMjBKYXBhbiUyMHRyZW5keSUyMGNhZmV8ZW58MHwwfHx8MTc4NDYyODA0NHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Yuya Yoshioka on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@superyuyakun?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/52082622_ARmpLCWcXJ3QPV7D72DBY2OrixHKtsZh8h86-k0goB4.jpg
+  credit: 'Photo: Foursquare user content (Curio Espresso and Vintage Design)'
+  license: foursquare
+  source: https://foursquare.com/v/5349f12d498e5e5f2311717e
 gallery: []
 place:
   id: ChIJide0P24z-F8RfSHcyCEZlrc
@@ -55,7 +55,6 @@ faq:
   - q: What's nearby if I want to combine this with sightseeing?
     a: Omicho Market is a couple of minutes away, and Higashi Chaya District, Kanazawa Castle Park, and Kenroku-en Garden are all within a 10–25 minute walk.
 aiGenerated: true
-draft: true
 ---
 
 ## Why Curio Stands Out in Kanazawa

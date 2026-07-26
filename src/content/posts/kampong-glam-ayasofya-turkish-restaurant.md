@@ -6,10 +6,10 @@ region: Kampong Glam
 category: restaurant
 pubDate: '2026-07-23T07:36:38.731Z'
 heroImage:
-  url: https://images.unsplash.com/photo-1623552268203-317f1618c7a9?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8S2FtcG9uZyUyMEdsYW0lMjBTaW5nYXBvcmUlMjBsb2NhbCUyMHJlc3RhdXJhbnR8ZW58MHwwfHx8MTc4NDc5MjEyNnww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by CHUTTERSNAP on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@chuttersnap?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/1365419206_ZZXpebawFAlZ-40JlCbI3UGmOV11rWozsYTlRtxtKag.jpg
+  credit: 'Photo: Foursquare user content (Ayasofya Turkish Restaurant)'
+  license: foursquare
+  source: https://foursquare.com/v/608fdaaebdb67e4cc8d23436
 gallery: []
 place:
   id: ChIJL7m1cy8Z2jERHtaorNYRzuQ
@@ -59,7 +59,6 @@ faq:
   - q: What else is worth seeing near the restaurant?
     a: Masjid Sultan is a two-minute walk to the end of Bussorah Street, the Malay Heritage Centre is 5–10 minutes away, and Arab Street's textile and basket shops are just around the corner.
 aiGenerated: true
-draft: true
 ---
 
 ## Why Ayasofya belongs on your Kampong Glam list

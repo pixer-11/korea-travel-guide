@@ -6,10 +6,10 @@ region: Phuket
 category: attraction
 pubDate: '2026-07-22T09:10:53.913Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/8/83/In_Phuket_when_the_Sun_goes_down%2C_the_City_starts_to_rock%21_%284973896467%29.jpg
-  credit: 'Photo: William Cho / Wikimedia Commons (CC BY-SA 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:In_Phuket_when_the_Sun_goes_down,_the_City_starts_to_rock!_(4973896467).jpg
+  url: https://fastly.4sqi.net/img/general/original/126110866_xVNQPjPBjpeO_iivR8G7BhmjixainSSaUZL6OumQydQ.jpg
+  credit: 'Photo: Foursquare user content (Khao Rang Viewpoint (จุดชมวิวเขารัง))'
+  license: foursquare
+  source: https://foursquare.com/v/52e4d682498ecbb0e886274a
 gallery: []
 place:
   id: ChIJ36TUGOsxUDAR7hcbGCJ8tlc
@@ -69,7 +69,6 @@ faq:
   - q: What else is nearby?
     a: Phuket Old Town, with its Sino-Portuguese architecture on Thalang Road and Soi Romanee, is just a short drive away and pairs well with a Khao Rang visit.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

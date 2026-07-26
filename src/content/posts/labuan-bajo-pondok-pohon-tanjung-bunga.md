@@ -6,10 +6,10 @@ region: Labuan Bajo
 category: attraction
 pubDate: '2026-07-23T07:14:10.471Z'
 heroImage:
-  url: https://images.unsplash.com/photo-1589309736404-2e142a2acdf0?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8TGFidWFuJTIwQmFqbyUyMEluZG9uZXNpYSUyMHRvcCUyMGF0dHJhY3Rpb258ZW58MHwwfHx8MTc4NDc5MDgxN3ww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by william kusno on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@williamkusno?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/5382107_6aOn4apwhZfOgnNYsRPMr6HdtMbOhNucbsgnK3XGTEI.jpg
+  credit: 'Photo: Foursquare user content (Pondok Pohon Tanjung Bunga)'
+  license: foursquare
+  source: https://foursquare.com/v/65f3cadc225ac1748d96612a
 gallery: []
 place:
   id: ChIJ58-SywVptC0RyxHmWkKj-90
@@ -37,7 +37,6 @@ faq:
   - q: Is it worth combining with other stops nearby?
     a: Yes — since it's on the Tanjung Bunga coastal road, it pairs well with a broader scenic loop around the cape, and you can continue back toward Labuan Bajo's harbor-front restaurants for dinner afterward.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

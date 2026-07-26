@@ -6,10 +6,10 @@ region: Bangkok
 category: attraction
 pubDate: '2026-07-22T09:06:23.604Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Templo_Wat_Arun%2C_Bangkok%2C_Tailandia%2C_2013-08-22%2C_DD_30.jpg/1920px-Templo_Wat_Arun%2C_Bangkok%2C_Tailandia%2C_2013-08-22%2C_DD_30.jpg
-  credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Templo_Wat_Arun,_Bangkok,_Tailandia,_2013-08-22,_DD_30.jpg
+  url: https://fastly.4sqi.net/img/general/original/61683720_EKCfkPK8FHt2o8Y1PAkfQWKxY6ySBgnh1hobUQVbzPw.jpg
+  credit: 'Photo: Foursquare user content (Wat Arun Rajwararam (วัดอรุณราชวรารามฯ))'
+  license: foursquare
+  source: https://foursquare.com/v/4c1326d5a5eb76b06c92bfb7
 gallery: []
 place:
   id: ChIJaSv_6gaZ4jARnbiUVn6Z_YY
@@ -55,7 +55,6 @@ faq:
   - q: Is there a dress code?
     a: Yes, shoulders and knees must be covered, standard for active Buddhist temples in Thailand; sarongs are typically available to borrow or rent near the entrance if you arrive underdressed.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-24'
 ---
 

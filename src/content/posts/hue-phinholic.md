@@ -6,10 +6,10 @@ region: Hue
 category: trendy
 pubDate: '2026-07-22T09:38:47.453Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Hue_Vietnam_Citadel-of-Hu%E1%BA%BF-21.jpg/1920px-Hue_Vietnam_Citadel-of-Hu%E1%BA%BF-21.jpg
-  credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Hue_Vietnam_Citadel-of-Hu%E1%BA%BF-21.jpg
+  url: https://fastly.4sqi.net/img/general/original/15413855_mvS3uV3YNsiHoqirm58akeNKVzHXEg5Qm3YHE7x-rMo.jpg
+  credit: 'Photo: Foursquare user content (PhinHolic)'
+  license: foursquare
+  source: https://foursquare.com/v/5ef7f1b4f2be6b0007449850
 gallery: []
 place:
   id: ChIJ1x7xMjyhQTERwjTNPo0pYVQ
@@ -38,7 +38,6 @@ faq:
   - q: What else is nearby?
     a: Dong Ba Market and the Perfume River promenade are both within a 10–15 minute walk, making PhinHolic an easy midday stop between a Citadel visit and an evening river walk or night market browse.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-24'
 ---
 

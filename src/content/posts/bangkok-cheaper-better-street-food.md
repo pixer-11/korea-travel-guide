@@ -6,10 +6,10 @@ region: Bangkok
 category: restaurant
 pubDate: '2026-07-22T09:25:55.413Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Buddhist_offering_table_with_fruits_meat_rice_confectionery_flowers_and_candles_at_Bangkok_City_Pillar_Shrine_Thailand.jpg/1920px-Buddhist_offering_table_with_fruits_meat_rice_confectionery_flowers_and_candles_at_Bangkok_City_Pillar_Shrine_Thailand.jpg
-  credit: 'Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Buddhist_offering_table_with_fruits_meat_rice_confectionery_flowers_and_candles_at_Bangkok_City_Pillar_Shrine_Thailand.jpg
+  url: https://fastly.4sqi.net/img/general/original/6135150_Bw7nE-r0VS3z35WOGLooimPlrz1c4C6FIPKO-TDo7wY.jpg
+  credit: 'Photo: Foursquare user content (CHEAPER & BETTER)'
+  license: foursquare
+  source: https://foursquare.com/v/56d41b96cd101bd7e535aaeb
 gallery: []
 place:
   id: ChIJLWlCk9GY4jARpNGpRcq5ABY
@@ -61,7 +61,6 @@ faq:
   - q: What else is nearby?
     a: Patpong night market is a short walk north, and Lumphini Park is about 10-15 minutes on foot to the east, making this an easy add-on to a Silom-area itinerary.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-24'
 ---
 

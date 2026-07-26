@@ -6,10 +6,10 @@ region: Jakarta
 category: trendy
 pubDate: '2026-07-23T07:22:24.834Z'
 heroImage:
-  url: https://images.unsplash.com/photo-1664174737284-5322455303b6?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SmFrYXJ0YSUyMEluZG9uZXNpYSUyMHRyZW5keSUyMGNhZmV8ZW58MHwwfHx8MTc4NDc5MTI5N3ww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Mahendra Putra on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@mahendra_putra?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/31222604_oDdTaOZpVEGrxIVIyF6jJZNAx9iGtzoFZZ8POEBatYs.jpg
+  credit: 'Photo: Foursquare user content (Giyanti Coffee Roastery)'
+  license: foursquare
+  source: https://foursquare.com/v/507cef82e4b076bc19770208
 gallery: []
 place:
   id: ChIJZ3frHBX0aS4Rb3PvKlxkrHk
@@ -61,7 +61,6 @@ faq:
   - q: What's nearby worth combining with this visit?
     a: The Jl. Surabaya antiques and curio market is directly outside, and the broader Menteng neighborhood offers colonial-era architecture worth a short walk.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

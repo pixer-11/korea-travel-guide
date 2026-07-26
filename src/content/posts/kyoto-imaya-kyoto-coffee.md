@@ -6,10 +6,10 @@ region: Kyoto
 category: trendy
 pubDate: '2026-07-22T09:02:23.523Z'
 heroImage:
-  url: https://images.unsplash.com/photo-1756138165844-8ff065e58b94?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8S3lvdG8lMjBKYXBhbiUyMHRyZW5keSUyMGNhZmV8ZW58MHwwfHx8MTc4NDcxMDkxNXww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Leongsan on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@leongsan?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/39040510_YD1kSIvou1MCkUpZCEcQCDvSyHeBFhbIKSYYliy-XOI.jpg
+  credit: 'Photo: Foursquare user content (Imaya Kyoto & Coffee)'
+  license: foursquare
+  source: https://foursquare.com/v/61d23d2481086d1b34b6ab86
 gallery: []
 place:
   id: ChIJUVr-PIEIAWARCXbUgBfvb34
@@ -51,7 +51,6 @@ faq:
   - q: What else is nearby?
     a: Nishiki Market, the Teramachi and Shinkyogoku shopping arcades, and the Kyoto International Manga Museum are all within easy walking distance in the same downtown Nakagyo district.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-24'
 ---
 

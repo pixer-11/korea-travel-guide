@@ -6,10 +6,10 @@ region: Ha Long Bay
 category: hidden-gem
 pubDate: '2026-07-22T09:35:35.231Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sung_Sot_Cave%2C_Ha_Long_Bay%2C_Vietnam%2C_20240128_1549_3836.jpg/1920px-Sung_Sot_Cave%2C_Ha_Long_Bay%2C_Vietnam%2C_20240128_1549_3836.jpg
-  credit: 'Photo: Jakub Hałun / Wikimedia Commons (CC BY 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Sung_Sot_Cave,_Ha_Long_Bay,_Vietnam,_20240128_1549_3836.jpg
+  url: https://fastly.4sqi.net/img/general/original/9805412_CUXk2ildix-8yG29Eq52aKw3OlIXLpK1p9PQ_HVDkqA.jpg
+  credit: 'Photo: Foursquare user content (Hang Sửng Sốt (Surprising Cave))'
+  license: foursquare
+  source: https://foursquare.com/v/4d5b304b1287a093ae651d56
 gallery: []
 place:
   id: ChIJL4jvm3xaSjERkLl09IYRBPk
@@ -37,7 +37,6 @@ faq:
   - q: What's the best time of day to visit to avoid crowds?
     a: Early morning or late afternoon slots see fewer simultaneous tour groups; midday tends to be the most congested as multiple cruise boats often arrive together.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-24'
 ---
 

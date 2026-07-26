@@ -6,10 +6,10 @@ region: Bandung
 category: trendy
 pubDate: '2026-07-23T07:23:36.846Z'
 heroImage:
-  url: https://images.unsplash.com/photo-1505993597083-3bd19fb75e57?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8QmFuZHVuZyUyMEluZG9uZXNpYXxlbnwwfDB8fHwxNzg0NzkxMzY4fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Pukpik on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@pukapika?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/44083177_upwliGeDUn_uFftewKyLQDAGi-OhXlru3Goq9Zcvlxo.jpg
+  credit: 'Photo: Foursquare user content (Heritage)'
+  license: foursquare
+  source: https://foursquare.com/v/4bd3ea809854d13a47e4fe4d
 gallery: []
 place:
   id: ChIJT3xaAvznaC4RJDnZ7npthlE
@@ -62,7 +62,6 @@ faq:
   - q: What else is nearby?
     a: Jl. Riau is a well-known factory outlet and colonial-heritage shopping street, so it's easy to pair this visit with browsing nearby clothing outlets and other heritage buildings along the same road.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-24'
 ---
 

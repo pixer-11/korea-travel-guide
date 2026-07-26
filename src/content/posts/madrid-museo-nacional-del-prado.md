@@ -6,10 +6,10 @@ region: Madrid
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Maja_desnuda_%28museo_del_Prado%29.jpg/1920px-Maja_desnuda_%28museo_del_Prado%29.jpg
-  credit: 'Photo: Francisco Goya / Wikimedia Commons (Public domain)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Maja_desnuda_(museo_del_Prado).jpg
+  url: https://fastly.4sqi.net/img/general/original/1404096713_fdCDhMiiX1lGAeyRoBaJjfBiJ8x0ErCFaaTgJBN8deo.jpg
+  credit: 'Photo: Foursquare user content (Museo Nacional del Prado)'
+  license: foursquare
+  source: https://foursquare.com/v/4adcda37f964a520fd3b21e3
 gallery: []
 place:
   id: ChIJ7aLYZp0oQg0RWoitk33wlBA
@@ -55,7 +55,6 @@ faq:
   - q: What else is nearby if I want to see more art?
     a: The Prado is part of Madrid's 'Golden Triangle of Art' with the Thyssen-Bornemisza Museum and Reina Sofía (home to Picasso's Guernica), both within a 10-minute walk, and Retiro Park borders the museum for a break afterward.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go
