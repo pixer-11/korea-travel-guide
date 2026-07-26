@@ -68,8 +68,16 @@ jobs:
           echo "unfixed=$(echo "$s" | sed 's/.* unfixed=\([0-9]*\).*/\1/')" >> "$GITHUB_OUTPUT"
           # Post lists for the Telegram report (user standing request: always
           # say WHICH posts) — first 15 each.
-          { echo "fixedlist<<EOF_FL"; { grep -E '✅ [a-z0-9-]+:' /tmp/alt.log || true; } | sed 's/^ *✅ /• /;s/:.*//' | head -15; echo "EOF_FL"; } >> "$GITHUB_OUTPUT"
-          { echo "unfixedlist<<EOF_UL"; { grep -E '🚫 [a-z0-9-]+:' /tmp/alt.log || true; } | sed 's/^ *🚫 /• /;s/:.*//' | head -15; echo "EOF_UL"; } >> "$GITHUB_OUTPUT"
+          # REPORTING MUST NEVER KILL THE RUN (a grep killed run #5, a head/sed
+          # SIGPIPE killed run #6 after 118 successful fixes). No pipes that can
+          # break: awk consumes all input and caps at 15 lines itself.
+          set +e
+          set +o pipefail
+          awk '/✅ [a-z0-9-]+:/ { sub(/^ *✅ /,"• "); sub(/:.*/,""); print; if (++n==15) exit }' /tmp/alt.log > /tmp/fl.txt
+          awk '/🚫 [a-z0-9-]+:/ { sub(/^ *🚫 /,"• "); sub(/:.*/,""); print; if (++n==15) exit }' /tmp/alt.log > /tmp/ul.txt
+          { echo "fixedlist<<EOF_FL"; cat /tmp/fl.txt; echo "EOF_FL"; } >> "$GITHUB_OUTPUT"
+          { echo "unfixedlist<<EOF_UL"; cat /tmp/ul.txt; echo "EOF_UL"; } >> "$GITHUB_OUTPUT"
+          true
 
       - name: Commit fixes
         if: steps.gate.outputs.on == 'true'
