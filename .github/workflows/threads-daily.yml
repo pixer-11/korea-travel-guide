@@ -1,0 +1,45 @@
+name: Threads daily material
+
+# Every morning (07:25 KST) write 3 Threads snippet options from one blog post
+# and Telegram them to the owner for copy-paste during the account warm-up
+# phase. State (used slugs) is committed so posts don't repeat.
+on:
+  schedule:
+    - cron: '25 22 * * *' # 22:25 UTC = 07:25 KST next day (off the hour)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  material:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      - name: Generate and send
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: node scripts/threads-daily.mjs
+
+      - name: Commit state
+        run: |
+          git config user.name "content-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/threads-daily.json
+          if git diff --staged --quiet; then
+            echo "No state change."
+          else
+            git commit -m "chore: threads material state ($(date -u +%Y-%m-%d))"
+            git pull --rebase origin main
+            git push
+          fi
