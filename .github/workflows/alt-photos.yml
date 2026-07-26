@@ -61,9 +61,15 @@ jobs:
           set -o pipefail
           node scripts/backfill-photos-alt.mjs | tee /tmp/alt.log
           s=$(grep '^ALT_SUMMARY' /tmp/alt.log | tail -1)
-          echo "fixed=$(echo "$s" | sed 's/.*fixed=\([0-9]*\).*/\1/')" >> "$GITHUB_OUTPUT"
-          echo "undrafted=$(echo "$s" | sed 's/.*undrafted=\([0-9]*\).*/\1/')" >> "$GITHUB_OUTPUT"
-          echo "unfixed=$(echo "$s" | sed 's/.*unfixed=\([0-9]*\).*/\1/')" >> "$GITHUB_OUTPUT"
+          # NOTE the leading space in ' fixed=' — 'unfixed=' CONTAINS 'fixed=',
+          # and the greedy match once reported 교체 완료 164장 when real fixed=0.
+          echo "fixed=$(echo "$s" | sed 's/.* fixed=\([0-9]*\).*/\1/')" >> "$GITHUB_OUTPUT"
+          echo "undrafted=$(echo "$s" | sed 's/.* undrafted=\([0-9]*\).*/\1/')" >> "$GITHUB_OUTPUT"
+          echo "unfixed=$(echo "$s" | sed 's/.* unfixed=\([0-9]*\).*/\1/')" >> "$GITHUB_OUTPUT"
+          # Post lists for the Telegram report (user standing request: always
+          # say WHICH posts) — first 15 each.
+          { echo "fixedlist<<EOF_FL"; grep -E '✅ [a-z0-9-]+:' /tmp/alt.log | sed 's/^ *✅ /• /;s/:.*//' | head -15; echo "EOF_FL"; } >> "$GITHUB_OUTPUT"
+          { echo "unfixedlist<<EOF_UL"; grep -E '🚫 [a-z0-9-]+:' /tmp/alt.log | sed 's/^ *🚫 /• /;s/:.*//' | head -15; echo "EOF_UL"; } >> "$GITHUB_OUTPUT"
 
       - name: Commit fixes
         if: steps.gate.outputs.on == 'true'
@@ -88,6 +94,8 @@ jobs:
           FIXED: ${{ steps.run.outputs.fixed }}
           UNDRAFTED: ${{ steps.run.outputs.undrafted }}
           UNFIXED: ${{ steps.run.outputs.unfixed }}
+          FIXED_LIST: ${{ steps.run.outputs.fixedlist }}
+          UNFIXED_LIST: ${{ steps.run.outputs.unfixedlist }}
         run: |
           [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
           {
@@ -97,8 +105,10 @@ jobs:
             else
               echo "✅ 교체 완료: ${FIXED:-0}장 (전부 AI 시각 검증 통과)"
               echo "♻️ 재공개된 글: ${UNDRAFTED:-0}편"
+              if [ -n "$FIXED_LIST" ]; then echo "📄 교체된 글:"; echo "$FIXED_LIST"; fi
               if [ "${UNFIXED:-0}" != "0" ]; then
                 echo "⚠️ 합격 사진을 못 찾은 글: ${UNFIXED}편 — 다른 장소로 재작성 대상입니다."
+                if [ -n "$UNFIXED_LIST" ]; then echo "$UNFIXED_LIST"; fi
               fi
             fi
           } > /tmp/msg.txt
