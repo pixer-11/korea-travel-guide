@@ -164,7 +164,10 @@ async function handleTelegram(request, env) {
     if (String(cq.from?.id) !== String(env.TELEGRAM_CHAT_ID)) return new Response('ok');
     const [tag, ts, sig] = String(cq.data || '').split(':');
     if (tag === 'send') {
-      const valid = timingSafeEq(await hmacHex(env.NEWSLETTER_LINK_SECRET || env.TELEGRAM_BOT_TOKEN, `send:${ts}`), sig || '');
+      // Telegram caps callback_data at 64 BYTES — "send:" + 13-digit ts + ":" +
+      // full 64-char HMAC is 83 and gets the whole message rejected, so both
+      // sides use the first 40 hex chars (160 bits — ample for a 10-min token).
+      const valid = timingSafeEq((await hmacHex(env.NEWSLETTER_LINK_SECRET || env.TELEGRAM_BOT_TOKEN, `send:${ts}`)).slice(0, 40), sig || '');
       const fresh = Date.now() - Number(ts) < 10 * 60 * 1000;
       if (!valid || !fresh) {
         await tg(env, 'answerCallbackQuery', { callback_query_id: cq.id, text: '만료된 버튼입니다. /발송 을 다시 입력하세요.' });
@@ -200,7 +203,7 @@ async function handleTelegram(request, env) {
       : '❌ 미리보기 트리거 실패 — 토큰 권한을 확인해 주세요.');
   } else if (text === '/발송' || text === '/send') {
     const ts = String(Date.now());
-    const sig = await hmacHex(env.NEWSLETTER_LINK_SECRET || env.TELEGRAM_BOT_TOKEN, `send:${ts}`);
+    const sig = (await hmacHex(env.NEWSLETTER_LINK_SECRET || env.TELEGRAM_BOT_TOKEN, `send:${ts}`)).slice(0, 40);
     await say(env, '⚠️ 구독자 전원에게 실제 이메일을 보냅니다. 정말 발송할까요? (버튼은 10분간 유효)', {
       reply_markup: { inline_keyboard: [[{ text: '📮 네, 실제로 발송합니다', callback_data: `send:${ts}:${sig}` }]] },
     });
