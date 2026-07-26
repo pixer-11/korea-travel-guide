@@ -27,7 +27,7 @@ faq:
   - q: When is the best time to visit?
     a: Aim for early evening around sunset to see the Durgam Cheruvu lake view in daylight before it transitions to a night skyline, and visit during Hyderabad's cooler months (November–February) for the most comfortable rooftop experience.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

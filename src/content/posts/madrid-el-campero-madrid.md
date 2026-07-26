@@ -1,5 +1,5 @@
 ---
-title: 'El Campero Madrid in Madrid'
+title: El Campero Madrid in Madrid
 description: 'El Campero Madrid in Madrid, Spain — a new/trending spot: what it is, where it is, and how to visit.'
 country: Spain
 region: Madrid
@@ -27,7 +27,7 @@ faq:
   - q: Is the terrace worth requesting specifically?
     a: The Madrid location is noted for an impressive terrace, so if outdoor seating appeals to you, mention it specifically when making your reservation rather than assuming it will be offered automatically.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why El Campero Matters

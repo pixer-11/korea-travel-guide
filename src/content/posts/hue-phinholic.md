@@ -6,7 +6,7 @@ region: Hue
 category: trendy
 pubDate: '2026-07-22T09:38:47.453Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/15413855_mvS3uV3YNsiHoqirm58akeNKVzHXEg5Qm3YHE7x-rMo.jpg
+  url: https://fastly.4sqi.net/img/general/original/15413855_lk07pEpiSkuARS0hGVmlL_XNrHGEVTN-J8eH4i9PRa0.jpg
   credit: 'Photo: Foursquare user content (PhinHolic)'
   license: foursquare
   source: https://foursquare.com/v/5ef7f1b4f2be6b0007449850

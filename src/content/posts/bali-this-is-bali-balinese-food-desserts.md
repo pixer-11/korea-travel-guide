@@ -6,10 +6,10 @@ region: Bali
 category: restaurant
 pubDate: '2026-07-23T07:15:17.661Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/42617440__CSB-Whxql2YMvuxLVle_Bzu-yE5dUgqhfR3sjR0jUc.jpg
-  credit: 'Photo: Foursquare user content (RM Sanak Padang Food)'
+  url: https://fastly.4sqi.net/img/general/original/45100800__dzHUfsE0sgLbseICy-_TB-3naxrwdXrt_mgWm5zgXw.jpg
+  credit: 'Photo: Foursquare user content (Coffee Bali Harum)'
   license: foursquare
-  source: https://foursquare.com/v/4eb52641b634a0486004274f
+  source: https://foursquare.com/v/5670223b498ef92b073529f8
 gallery: []
 place:
   id: ChIJR7MWORA90i0Rj7ugb0Lss4g
@@ -44,7 +44,7 @@ place:
       - 20
       - 21
     venueId: ven_673473734c30626775376a523069303941524f574d37524a496843
-  phone: '0811-3810-4002'
+  phone: 0811-3810-4002
   openingHours:
     - 'Monday: 11:00 AM – 11:00 PM'
     - 'Tuesday: 11:00 AM – 11:00 PM'
@@ -70,7 +70,6 @@ faq:
     a: Budget around 45–75 minutes for a full meal including dessert, plus extra buffer time for a possible wait during peak hours.
 aiGenerated: true
 updatedDate: '2026-07-24'
-draft: true
 ---
 
 ## Why go

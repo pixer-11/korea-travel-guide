@@ -1,51 +1,66 @@
 ---
-title: "Maxwell Food Centre: Where to Eat in Orchard Road"
-description: "Maxwell Food Centre is a Chinatown hawker hall, not actually on Orchard Road — it's about a 15-20 minute MRT ride away, near Chinatown MRT (Exit A/E)."
-country: "Singapore"
-region: "Orchard Road"
-category: "restaurant"
-pubDate: "2026-07-23T07:45:00.433Z"
+title: 'Maxwell Food Centre: Where to Eat in Orchard Road'
+description: Maxwell Food Centre is a Chinatown hawker hall, not actually on Orchard Road — it's about a 15-20 minute MRT ride away, near Chinatown MRT (Exit A/E).
+country: Singapore
+region: Orchard Road
+category: restaurant
+pubDate: '2026-07-23T07:45:00.433Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Maxwell_Food_Centre.jpg/1920px-Maxwell_Food_Centre.jpg"
-  credit: "Photo: Aaaatu / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Maxwell_Food_Centre.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Maxwell_Food_Centre.jpg/1920px-Maxwell_Food_Centre.jpg
+  credit: 'Photo: Aaaatu / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Maxwell_Food_Centre.jpg
 gallery: []
 place:
-  id: "ChIJseQsTQ0Z2jERqpBTWF0Zf84"
-  name: "Maxwell Food Centre"
-  address: "1 Kadayanallur St, Singapore 069184"
+  id: ChIJseQsTQ0Z2jERqpBTWF0Zf84
+  name: Maxwell Food Centre
+  address: 1 Kadayanallur St, Singapore 069184
   rating: 4.4
   userRatingsTotal: 23496
   priceLevel: 1
-  googleMapsUrl: "https://maps.google.com/?cid=14879639582559932586&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=14879639582559932586&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.2803361
   lng: 103.844767
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [8, 9, 21, 22]
-    weekdayBusy: [11, 12, 13]
-    weekendQuiet: [8, 9, 21, 22]
-    weekendBusy: [11, 12, 13, 14]
-    venueId: 'ven_3438665a3046575442707152456a325a305154735165734a496843'
+    weekdayQuiet:
+      - 8
+      - 9
+      - 21
+      - 22
+    weekdayBusy:
+      - 11
+      - 12
+      - 13
+    weekendQuiet:
+      - 8
+      - 9
+      - 21
+      - 22
+    weekendBusy:
+      - 11
+      - 12
+      - 13
+      - 14
+    venueId: ven_3438665a3046575442707152456a325a305154735165734a496843
 tags:
-  - "orchard road"
-  - "street food"
-quickAnswer: "Maxwell Food Centre is a Chinatown hawker hall, not actually on Orchard Road — it's about a 15-20 minute MRT ride away, near Chinatown MRT (Exit A/E). Go for Tian Tian Hainanese Chicken Rice and other hawker classics, arrive before noon or after 2pm to beat the lunch crush, and bring small cash. Budget 45-60 minutes and pair the trip with a walk through nearby Chinatown or Ann Siang Hill."
+  - orchard road
+  - street food
+quickAnswer: Maxwell Food Centre is a Chinatown hawker hall, not actually on Orchard Road — it's about a 15-20 minute MRT ride away, near Chinatown MRT (Exit A/E). Go for Tian Tian Hainanese Chicken Rice and other hawker classics, arrive before noon or after 2pm to beat the lunch crush, and bring small cash. Budget 45-60 minutes and pair the trip with a walk through nearby Chinatown or Ann Siang Hill.
 faq:
-  - q: "Is Maxwell Food Centre actually on Orchard Road?"
-    a: "No — it's in Chinatown, about 15-20 minutes from Orchard Road by MRT (Orchard to Chinatown station, Exit A or E)."
-  - q: "How much does a meal cost?"
-    a: "It's a budget hawker centre (low price tier), so most dishes run at typical Singapore hawker prices — expect to spend modestly per person for a full meal of two to three dishes."
-  - q: "What's the must-try dish?"
-    a: "Tian Tian Hainanese Chicken Rice is the best-known stall, but the centre also has strong options for dim sum, char kway teow, fish soup, and popiah."
-  - q: "How long should I plan to spend there?"
-    a: "Allow 45-60 minutes for queuing and eating, longer if you want to sample multiple stalls or if you visit during peak lunch hours."
-  - q: "What's nearby if I want to extend the trip?"
-    a: "Sri Mariamman Temple, Ann Siang Hill, and the Chinatown street markets are all within a short walk, making it easy to build a half-day itinerary around the visit."
+  - q: Is Maxwell Food Centre actually on Orchard Road?
+    a: No — it's in Chinatown, about 15-20 minutes from Orchard Road by MRT (Orchard to Chinatown station, Exit A or E).
+  - q: How much does a meal cost?
+    a: It's a budget hawker centre (low price tier), so most dishes run at typical Singapore hawker prices — expect to spend modestly per person for a full meal of two to three dishes.
+  - q: What's the must-try dish?
+    a: Tian Tian Hainanese Chicken Rice is the best-known stall, but the centre also has strong options for dim sum, char kway teow, fish soup, and popiah.
+  - q: How long should I plan to spend there?
+    a: Allow 45-60 minutes for queuing and eating, longer if you want to sample multiple stalls or if you visit during peak lunch hours.
+  - q: What's nearby if I want to extend the trip?
+    a: Sri Mariamman Temple, Ann Siang Hill, and the Chinatown street markets are all within a short walk, making it easy to build a half-day itinerary around the visit.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why this guide exists

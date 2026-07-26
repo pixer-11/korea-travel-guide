@@ -6,10 +6,10 @@ region: Taipei
 category: trendy
 pubDate: '2026-07-26T07:04:14.904Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/TW_%E5%8F%B0%E6%B9%BE_Taipei_%E5%8F%B0%E5%8C%97_Hotel_Metropolitan_Premier_Taipei_lobby_%E9%A4%90%E5%BB%B3%E9%A4%85%E5%BA%97_cafe_and_bakery_restaurant_orange_cake_March_2024_R12S.jpg/1920px-TW_%E5%8F%B0%E6%B9%BE_Taipei_%E5%8F%B0%E5%8C%97_Hotel_Metropolitan_Premier_Taipei_lobby_%E9%A4%90%E5%BB%B3%E9%A4%85%E5%BA%97_cafe_and_bakery_restaurant_orange_cake_March_2024_R12S.jpg
-  credit: 'Photo: Ounfs Robmmy 238 / Wikimedia Commons (CC0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:TW_%E5%8F%B0%E6%B9%BE_Taipei_%E5%8F%B0%E5%8C%97_Hotel_Metropolitan_Premier_Taipei_lobby_%E9%A4%90%E5%BB%B3%E9%A4%85%E5%BA%97_cafe_and_bakery_restaurant_orange_cake_March_2024_R12S.jpg
+  url: https://fastly.4sqi.net/img/general/original/56802654_yDAHZYxJnORYkFWLg0h1rxv6aL8dNOF0zZFfomYDIQA.jpg
+  credit: 'Photo: Foursquare user content (框影 the who cafe)'
+  license: foursquare
+  source: https://foursquare.com/v/5a35191c1b0ea57a2f6b39db
 gallery: []
 place:
   id: ChIJIVMfUIKpQjQRo_eG-oCfZuE
@@ -47,7 +47,6 @@ faq:
   - q: What's nearby if I want to make a morning of it?
     a: Da'an Forest Park and Yongkang Street's food stalls and dessert shops are both within easy walking distance, making this a good anchor for a slower-paced Da'an District morning.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
