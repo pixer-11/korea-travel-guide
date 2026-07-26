@@ -211,17 +211,46 @@ async function handleTelegram(request, env) {
 }
 
 // ── /api/subscribe ───────────────────────────────────────────
-// First-party relay to the MailerLite public form endpoint. Tracker blocklists
-// (EasyPrivacy etc.) kill browser requests to assets.mailerlite.com — that was
-// every "Network hiccup" signup failure — but a same-origin request can't be
-// blocked. No env vars needed: this is the public embed-form URL, not the API.
+// First-party signup relay. Tracker blocklists (EasyPrivacy etc.) kill browser
+// requests to assets.mailerlite.com — that was every "Network hiccup" signup
+// failure — and MailerLite also 403s the form endpoint when called FROM a
+// datacenter (worker) even with browser headers. So the reliable path is the
+// official Connect API with our token: upsert the subscriber into the same
+// "Newsletter Subscribers" group the embedded form fed. Form-endpoint forward
+// stays as a best-effort fallback when the token env var is absent.
 const ML_FORM = 'https://assets.mailerlite.com/jsonp/2523042/forms/193609989933237794/subscribe';
-async function handleSubscribe(request) {
+const SIGNUP_GROUP = 'Newsletter Subscribers';
+let signupGroupId = null; // cached per isolate
+async function handleSubscribe(request, env) {
   const form = await request.formData().catch(() => null);
   const email = String(form?.get('fields[email]') || '');
   if (!/.+@.+\..+/.test(email)) return Response.json({ success: false, error: 'invalid-email' }, { status: 400 });
-  // MailerLite 403s anonymous datacenter requests (no UA = bot). Present the
-  // same identity a real signup has: browser UA + our site as origin/referer.
+
+  if (env.MAILERLITE_API_TOKEN) {
+    const fields = {};
+    for (const k of ['region', 'lang', 'signup_source']) {
+      const v = String(form.get(`fields[${k}]`) || '');
+      if (v) fields[k] = v;
+    }
+    if (!signupGroupId) {
+      try {
+        const g = await ml(env, `/groups?filter[name]=${encodeURIComponent(SIGNUP_GROUP)}&limit=100`);
+        signupGroupId = (g.data || []).find((x) => x.name === SIGNUP_GROUP)?.id || null;
+      } catch { /* group lookup failing must not block the signup itself */ }
+    }
+    try {
+      await ml(env, '/subscribers', {
+        method: 'POST',
+        body: JSON.stringify({ email, fields, ...(signupGroupId ? { groups: [signupGroupId] } : {}) }),
+      });
+      return Response.json({ success: true });
+    } catch (e) {
+      return Response.json({ success: false, error: String(e.message).slice(0, 120) }, { status: 502 });
+    }
+  }
+
+  // No API token configured on the worker — forward to the form endpoint and
+  // hope this POP isn't blocked (better than dropping the signup silently).
   const res = await fetch(ML_FORM, {
     method: 'POST',
     body: form,
@@ -243,7 +272,7 @@ export default {
     try {
       if (pathname === '/preferences' || pathname === '/preferences/') return await handlePreferences(request, env);
       if (pathname === '/tg' && request.method === 'POST') return await handleTelegram(request, env);
-      if (pathname === '/api/subscribe' && request.method === 'POST') return await handleSubscribe(request);
+      if (pathname === '/api/subscribe' && request.method === 'POST') return await handleSubscribe(request, env);
     } catch (e) {
       return new Response(`error: ${e.message}`, { status: 500 });
     }
