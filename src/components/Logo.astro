@@ -1,13 +1,14 @@
 ---
-// Wander Atlas mark — a compass rose inside a globe ring. Uses currentColor so
-// the header/footer can tint it; scales cleanly to favicon size.
+// Wander Atlas mark — the brand map pin with the compass star knocked out.
+// Uses currentColor so the header/footer can tint it; scales cleanly to 16px.
+// (Pin identity adopted 2026-07-26 — matches business card, favicon, socials.)
 interface Props { size?: number; }
 const { size = 28 } = Astro.props;
 ---
 <svg width={size} height={size} viewBox="0 0 32 32" fill="none" class="logo-mark" aria-hidden="true">
-  <circle cx="16" cy="16" r="13" stroke="currentColor" stroke-width="1.5" opacity="0.4" />
   <path
-    d="M16 4.5 L18.4 13.6 L27.5 16 L18.4 18.4 L16 27.5 L13.6 18.4 L4.5 16 L13.6 13.6 Z"
     fill="currentColor"
+    fill-rule="evenodd"
+    d="M16 2.6 A 10.8 10.8 0 0 1 26.8 13.4 C 26.8 19.3 21.9 23.2 16 30.2 C 10.1 23.2 5.2 19.3 5.2 13.4 A 10.8 10.8 0 0 1 16 2.6 Z M16 7.6 L17.25 12.15 L21.8 13.4 L17.25 14.65 L16 19.2 L14.75 14.65 L10.2 13.4 L14.75 12.15 Z"
   />
 </svg>
