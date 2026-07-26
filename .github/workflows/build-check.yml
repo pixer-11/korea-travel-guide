@@ -1,0 +1,51 @@
+name: Build check (deploy guard)
+
+# Cloudflare's build failing leaves the site silently stuck on the previous
+# version — the ONLY signal was a dashboard badge nobody watches (today a
+# schema-enum miss froze deploys for ~40 min). This runs the same build on
+# every push to main and telegrams in Korean the moment a commit can't build.
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'src/**'
+      - 'data/**'
+      - 'astro.config.mjs'
+      - 'package.json'
+      - 'package-lock.json'
+
+concurrency:
+  group: build-check
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      - name: Build
+        run: npm run build
+
+      - name: Alert on build failure
+        if: failure()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
+          {
+            echo "🚨 사이트 빌드 실패 — 배포가 이전 버전에 멈춰 있습니다!"
+            echo "커밋: ${GITHUB_SHA:0:7}"
+            echo "클로드에게 '빌드 실패 고쳐줘'라고 말하면 원인을 찾아 수정합니다."
+          } > /tmp/msg.txt
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+            --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
+            --data-urlencode "text@/tmp/msg.txt" >/dev/null || true

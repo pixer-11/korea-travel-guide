@@ -79,12 +79,18 @@ jobs:
           { echo "unfixedlist<<EOF_UL"; cat /tmp/ul.txt; echo "EOF_UL"; } >> "$GITHUB_OUTPUT"
           true
 
+      # New heroes need their self-hosted 640px thumbs or downstream pages
+      # (crowd tool cards, region tiles) render BLANK — user caught this live.
+      - name: Rebuild photo-wall thumbnails
+        if: steps.gate.outputs.on == 'true'
+        run: node scripts/build-wall.mjs
+
       - name: Commit fixes
         if: steps.gate.outputs.on == 'true'
         run: |
           git config user.name "content-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add src/content/posts
+          git add src/content/posts public/wall data/wall.json
           if git diff --staged --quiet; then
             echo "No photo changes."
           else

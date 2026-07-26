@@ -151,6 +151,22 @@ for (const f of (await readdir(ESS_DIR)).filter((f) => f.endsWith('.md'))) {
   if (miss.length) issues.push(`ESSENTIALS ${f} incomplete — missing: ${miss.join(', ')}`);
 }
 
+// Wall-thumb coverage — the crowd tool + region tiles render a BLANK card when
+// a hero's self-hosted 640px thumb is missing (hero replaced without running
+// build-wall; user caught 20+ blank cards live). Alarm on any gap.
+{
+  const { createHash } = await import('node:crypto');
+  const { existsSync } = await import('node:fs');
+  const wallDir = fileURLToPath(new URL('../public/wall/', import.meta.url));
+  let missing = 0;
+  for (const p of posts) {
+    if (!p.url || p.url.includes('placeholder')) continue;
+    const name = createHash('sha1').update(p.url).digest('hex').slice(0, 16) + '.webp';
+    if (!existsSync(join(wallDir, name))) { missing++; if (missing <= 5) issues.push(`WALL THUMB missing for ${p.f} — card renders blank (run scripts/build-wall.mjs)`); }
+  }
+  if (missing > 5) issues.push(`WALL THUMB missing on ${missing} post(s) total — run scripts/build-wall.mjs`);
+}
+
 // Unescaped tilde gate — ALL collections. CJK ranges ("4~5월") are GFM
 // strikethrough markers; a pair struck out whole paragraphs on 308 posts once and
 // then again on essentials translations because the first fix was posts-only.
