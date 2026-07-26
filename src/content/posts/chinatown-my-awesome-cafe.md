@@ -33,6 +33,15 @@ place:
       - 21
       - 22
     venueId: ven_6f635034424f69306c667352456a325a307765565333384a496843
+  phone: '8798 1783'
+  openingHours:
+    - 'Monday: 11:00 AM – 11:00 PM'
+    - 'Tuesday: 11:00 AM – 12:00 AM'
+    - 'Wednesday: 11:00 AM – 12:00 AM'
+    - 'Thursday: 11:00 AM – 12:00 AM'
+    - 'Friday: 11:00 AM – 12:00 AM'
+    - 'Saturday: 10:30 AM – 12:00 AM'
+    - 'Sunday: 10:30 AM – 10:00 PM'
 tags:
   - chinatown
   - trendy cafe

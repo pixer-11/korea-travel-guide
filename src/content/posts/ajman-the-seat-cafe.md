@@ -22,6 +22,15 @@ place:
   lat: 25.4009191
   lng: 55.6210046
   priceLevel: 1
+  phone: '050 129 1451'
+  openingHours:
+    - 'Monday: 6:00 AM – 1:00 AM'
+    - 'Tuesday: 6:00 AM – 1:00 AM'
+    - 'Wednesday: 6:00 AM – 1:00 AM'
+    - 'Thursday: 6:00 AM – 1:00 AM'
+    - 'Friday: 6:00 AM – 1:00 AM'
+    - 'Saturday: 6:00 AM – 1:00 AM'
+    - 'Sunday: 6:00 AM – 1:00 AM'
 tags:
   - ajman
   - trendy cafe

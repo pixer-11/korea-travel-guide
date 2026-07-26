@@ -54,6 +54,15 @@ place:
       - 14
       - 15
     venueId: ven_634f4c4b6377454e56414c52417a3147456670304452454a496843
+  phone: '064 347 3636'
+  openingHours:
+    - 'Monday: 7:00 AM – 8:00 PM'
+    - 'Tuesday: 7:00 AM – 8:00 PM'
+    - 'Wednesday: 7:00 AM – 8:00 PM'
+    - 'Thursday: 7:00 AM – 8:00 PM'
+    - 'Friday: 7:00 AM – 8:00 PM'
+    - 'Saturday: 7:00 AM – 8:00 PM'
+    - 'Sunday: 7:00 AM – 8:00 PM'
 tags:
   - chiang rai
   - top attraction

@@ -21,6 +21,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 13.7459714
   lng: 100.48329679999999
+  phone: '081 161 6595'
+  openingHours:
+    - 'Monday: 9:00 AM – 6:00 PM'
+    - 'Tuesday: 9:00 AM – 6:00 PM'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 6:00 PM'
 tags:
   - bangkok
   - hidden gem

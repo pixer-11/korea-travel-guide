@@ -28,6 +28,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 24.482236999999998
   lng: 54.354723
+  phone: '02 697 6400'
+  openingHours:
+    - 'Monday: 9:00 AM – 8:00 PM'
+    - 'Tuesday: 9:00 AM – 8:00 PM'
+    - 'Wednesday: 9:00 AM – 8:00 PM'
+    - 'Thursday: 9:00 AM – 8:00 PM'
+    - 'Friday: 2:00 – 8:00 PM'
+    - 'Saturday: 9:00 AM – 8:00 PM'
+    - 'Sunday: 9:00 AM – 8:00 PM'
 tags:
   - abu dhabi
   - top attraction

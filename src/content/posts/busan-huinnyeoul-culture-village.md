@@ -47,6 +47,14 @@ place:
       - 17
       - 18
     venueId: ven_416a6f5654676c695967695255446170376866734765734a496843
+  openingHours:
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
   - busan
   - Huinnyeoul village

@@ -46,6 +46,15 @@ place:
       - 15
       - 16
     venueId: ven_636847724632614b51306652416a345a3669374450616d4a496843
+  phone: '083 057 7100'
+  openingHours:
+    - 'Monday: 8:00 AM – 7:30 PM'
+    - 'Tuesday: 8:00 AM – 7:30 PM'
+    - 'Wednesday: 8:00 AM – 7:30 PM'
+    - 'Thursday: 8:00 AM – 7:30 PM'
+    - 'Friday: 8:00 AM – 7:30 PM'
+    - 'Saturday: 8:00 AM – 7:30 PM'
+    - 'Sunday: 8:00 AM – 7:30 PM'
 tags:
   - bangkok
   - Wat Pho Reclining Buddha

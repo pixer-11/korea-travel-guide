@@ -39,6 +39,15 @@ place:
       - 15
       - 16
     venueId: ven_59595f5a366e565569626e52416a345a6167365f7653614a496843
+  phone: '02 891 2185'
+  openingHours:
+    - 'Monday: 8:00 AM – 6:00 PM'
+    - 'Tuesday: 8:00 AM – 6:00 PM'
+    - 'Wednesday: 8:00 AM – 6:00 PM'
+    - 'Thursday: 8:00 AM – 6:00 PM'
+    - 'Friday: 8:00 AM – 6:00 PM'
+    - 'Saturday: 8:00 AM – 6:00 PM'
+    - 'Sunday: 8:00 AM – 6:00 PM'
 tags:
   - bangkok
   - Wat Arun

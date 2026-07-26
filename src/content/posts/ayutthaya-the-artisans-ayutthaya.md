@@ -35,6 +35,15 @@ place:
       - 15
       - 16
     venueId: ven_455746775564684964776152416a3433743534434253504a496843
+  phone: '061 195 9514'
+  openingHours:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:00 PM'
+    - 'Saturday: 11:00 AM – 9:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
 tags:
   - ayutthaya
   - local restaurant

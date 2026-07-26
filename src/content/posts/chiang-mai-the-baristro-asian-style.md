@@ -42,6 +42,15 @@ place:
       - 15
       - 16
     venueId: ven_6f304d397869574179417952416a3237387947623254394a496843
+  phone: '092 455 3947'
+  openingHours:
+    - 'Monday: 8:00 AM – 6:00 PM'
+    - 'Tuesday: 8:00 AM – 6:00 PM'
+    - 'Wednesday: 8:00 AM – 6:00 PM'
+    - 'Thursday: 8:00 AM – 6:00 PM'
+    - 'Friday: 8:00 AM – 6:00 PM'
+    - 'Saturday: 8:00 AM – 6:00 PM'
+    - 'Sunday: 8:00 AM – 6:00 PM'
 tags:
   - chiang mai
   - trendy cafe

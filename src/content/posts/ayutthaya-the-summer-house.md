@@ -41,6 +41,15 @@ place:
       - 17
       - 18
     venueId: ven_63644752784e4c7755693052416a343235484b367a65744a496843
+  phone: '094 224 2223'
+  openingHours:
+    - 'Monday: 9:30 AM – 9:30 PM'
+    - 'Tuesday: 9:30 AM – 9:30 PM'
+    - 'Wednesday: 9:30 AM – 9:30 PM'
+    - 'Thursday: 9:30 AM – 9:30 PM'
+    - 'Friday: 9:30 AM – 9:30 PM'
+    - 'Saturday: 9:30 AM – 9:30 PM'
+    - 'Sunday: 9:30 AM – 9:30 PM'
 tags:
   - ayutthaya
   - trendy cafe

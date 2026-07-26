@@ -44,6 +44,15 @@ place:
       - 20
       - 21
     venueId: ven_673473734c30626775376a523069303941524f574d37524a496843
+  phone: '0811-3810-4002'
+  openingHours:
+    - 'Monday: 11:00 AM – 11:00 PM'
+    - 'Tuesday: 11:00 AM – 11:00 PM'
+    - 'Wednesday: 11:00 AM – 11:00 PM'
+    - 'Thursday: 11:00 AM – 11:00 PM'
+    - 'Friday: 11:00 AM – 11:00 PM'
+    - 'Saturday: 11:00 AM – 11:00 PM'
+    - 'Sunday: 11:00 AM – 11:00 PM'
 tags:
   - bali
   - local restaurant

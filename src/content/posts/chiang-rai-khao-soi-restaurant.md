@@ -48,6 +48,14 @@ place:
       - 18
       - 19
     venueId: ven_4d6d51394349523054766752417a31473056666f7036564a496843
+  openingHours:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 5:00 PM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
 tags:
   - chiang rai
   - street food

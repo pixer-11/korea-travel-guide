@@ -45,6 +45,14 @@ place:
       - 13
       - 14
     venueId: ven_77364845786c58576f6a7152456a325a4d33486c6e65414a496843
+  openingHours:
+    - 'Monday: 7:00 AM – 10:00 PM'
+    - 'Tuesday: 7:00 AM – 10:00 PM'
+    - 'Wednesday: 7:00 AM – 10:00 PM'
+    - 'Thursday: 7:00 AM – 10:00 PM'
+    - 'Friday: 7:00 AM – 10:00 PM'
+    - 'Saturday: 7:00 AM – 10:00 PM'
+    - 'Sunday: 7:00 AM – 10:00 PM'
 tags:
   - chinatown
   - street food

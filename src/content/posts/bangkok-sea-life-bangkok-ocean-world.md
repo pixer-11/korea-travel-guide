@@ -50,6 +50,15 @@ place:
       - 18
       - 19
     venueId: ven_306442667169654c594d5552416a3465326335384934484a496843
+  phone: '02 842 2000'
+  openingHours:
+    - 'Monday: 10:00 AM – 8:00 PM'
+    - 'Tuesday: 10:00 AM – 8:00 PM'
+    - 'Wednesday: 10:00 AM – 8:00 PM'
+    - 'Thursday: 10:00 AM – 8:00 PM'
+    - 'Friday: 10:00 AM – 8:00 PM'
+    - 'Saturday: 10:00 AM – 8:00 PM'
+    - 'Sunday: 10:00 AM – 8:00 PM'
 tags:
   - bangkok
   - top attraction

@@ -43,6 +43,15 @@ place:
       - 12
       - 13
     venueId: ven_6f435f5633676a7365376f52417a31332d747a5a5235444a496843
+  phone: '053 673 579'
+  openingHours:
+    - 'Monday: 8:00 AM – 5:00 PM'
+    - 'Tuesday: 8:00 AM – 5:00 PM'
+    - 'Wednesday: 8:00 AM – 5:00 PM'
+    - 'Thursday: 8:00 AM – 5:00 PM'
+    - 'Friday: 8:00 AM – 5:00 PM'
+    - 'Saturday: 8:00 AM – 5:00 PM'
+    - 'Sunday: 8:00 AM – 5:00 PM'
 tags:
   - chiang rai
   - Wat Rong Khun White Temple

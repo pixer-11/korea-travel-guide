@@ -46,6 +46,15 @@ place:
       - 20
     venueId: ven_456c6874706e375a6e444a523443616e7a7641617833544a496843
   priceLevel: 2
+  phone: '0812-2208-1402'
+  openingHours:
+    - 'Monday: 7:00 AM – 10:00 PM'
+    - 'Tuesday: 7:00 AM – 10:00 PM'
+    - 'Wednesday: 7:00 AM – 10:00 PM'
+    - 'Thursday: 7:00 AM – 10:00 PM'
+    - 'Friday: 7:00 AM – 10:00 PM'
+    - 'Saturday: 7:00 AM – 10:00 PM'
+    - 'Sunday: 7:00 AM – 10:00 PM'
 tags:
   - bandung
   - trendy cafe

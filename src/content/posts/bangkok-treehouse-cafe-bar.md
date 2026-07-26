@@ -42,6 +42,15 @@ place:
       - 21
     venueId: ven_737a565f76766a7135505f52416a3466756d6d537131684a496843
   priceLevel: 2
+  phone: '080 899 4249'
+  openingHours:
+    - 'Monday: 9:00 AM – 11:00 PM'
+    - 'Tuesday: 9:00 AM – 11:00 PM'
+    - 'Wednesday: 9:00 AM – 11:00 PM'
+    - 'Thursday: 9:00 AM – 11:00 PM'
+    - 'Friday: 9:00 AM – 11:00 PM'
+    - 'Saturday: 9:00 AM – 11:00 PM'
+    - 'Sunday: 9:00 AM – 11:00 PM'
 tags:
   - bangkok
   - trendy cafe

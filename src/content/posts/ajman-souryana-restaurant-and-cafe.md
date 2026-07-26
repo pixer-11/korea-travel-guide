@@ -48,6 +48,15 @@ place:
       - 22
     venueId: ven_6f3774777259445844365952347a5858645744786464454a496843
   priceLevel: 2
+  phone: '06 575 9567'
+  openingHours:
+    - 'Monday: 8:00 AM – 2:00 AM'
+    - 'Tuesday: 8:00 AM – 2:00 AM'
+    - 'Wednesday: 8:00 AM – 2:00 AM'
+    - 'Thursday: 8:00 AM – 2:00 AM'
+    - 'Friday: 8:00 AM – 2:00 AM'
+    - 'Saturday: 8:00 AM – 2:00 AM'
+    - 'Sunday: 8:00 AM – 2:00 AM'
 tags:
   - ajman
   - local restaurant

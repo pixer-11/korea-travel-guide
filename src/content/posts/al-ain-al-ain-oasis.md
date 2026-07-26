@@ -27,6 +27,15 @@ place:
     weekendQuiet: [9]
     weekendBusy: [14, 15, 16, 17, 18, 19, 20, 21, 22]
     venueId: 'ven_5947787a377268346f684852346a6932794d58474458714a496843'
+  phone: '03 711 8251'
+  openingHours:
+    - 'Monday: 9:00 AM – 12:00 AM'
+    - 'Tuesday: 9:00 AM – 12:00 AM'
+    - 'Wednesday: 9:00 AM – 12:00 AM'
+    - 'Thursday: 9:00 AM – 12:00 AM'
+    - 'Friday: 9:00 AM – 12:00 AM'
+    - 'Saturday: 9:00 AM – 12:00 AM'
+    - 'Sunday: 9:00 AM – 12:00 AM'
 tags:
   - "al ain"
   - "top attraction"

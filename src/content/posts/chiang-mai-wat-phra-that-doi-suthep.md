@@ -56,6 +56,15 @@ place:
       - 16
       - 17
     venueId: ven_3070684d786c724637584952416a3235553733783364744a496843
+  phone: '053 295 003'
+  openingHours:
+    - 'Monday: 5:00 AM – 9:00 PM'
+    - 'Tuesday: 5:00 AM – 9:00 PM'
+    - 'Wednesday: 5:00 AM – 9:00 PM'
+    - 'Thursday: 5:00 AM – 9:00 PM'
+    - 'Friday: 5:00 AM – 9:00 PM'
+    - 'Saturday: 5:00 AM – 9:00 PM'
+    - 'Sunday: 5:00 AM – 9:00 PM'
 tags:
   - chiang mai
   - Doi Suthep Temple

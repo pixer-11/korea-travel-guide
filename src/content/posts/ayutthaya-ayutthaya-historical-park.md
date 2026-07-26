@@ -21,6 +21,14 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 14.355867999999997
   lng: 100.5586727
+  openingHours:
+    - 'Monday: 8:30 AM – 6:00 PM'
+    - 'Tuesday: 8:30 AM – 6:00 PM'
+    - 'Wednesday: 8:30 AM – 6:00 PM'
+    - 'Thursday: 8:30 AM – 6:00 PM'
+    - 'Friday: 8:30 AM – 6:00 PM'
+    - 'Saturday: 8:30 AM – 6:00 PM'
+    - 'Sunday: 8:30 AM – 6:00 PM'
 tags:
   - "ayutthaya"
   - "Ayutthaya Historical Park"

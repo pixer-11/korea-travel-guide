@@ -44,6 +44,15 @@ place:
       - 21
       - 22
     venueId: ven_77313977704a424c68717552416a32366b354d525152464a496843
+  phone: '097 195 4695'
+  openingHours:
+    - 'Monday: 5:00 AM – 10:30 PM'
+    - 'Tuesday: 5:00 AM – 10:30 PM'
+    - 'Wednesday: 5:00 AM – 10:30 PM'
+    - 'Thursday: 5:00 AM – 10:30 PM'
+    - 'Friday: 5:00 AM – 10:30 PM'
+    - 'Saturday: 5:00 AM – 10:30 PM'
+    - 'Sunday: 5:00 AM – 10:30 PM'
 tags:
   - chiang mai
   - Chiang Mai Old City Temples

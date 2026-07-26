@@ -46,6 +46,15 @@ place:
       - 17
       - 18
     venueId: ven_5564314d4146474567513252416a34306c4554616b552d4a496843
+  phone: '035 242 286'
+  openingHours:
+    - 'Monday: 8:00 AM – 6:30 PM'
+    - 'Tuesday: 8:00 AM – 6:30 PM'
+    - 'Wednesday: 8:00 AM – 6:30 PM'
+    - 'Thursday: 8:00 AM – 6:30 PM'
+    - 'Friday: 8:00 AM – 6:30 PM'
+    - 'Saturday: 8:00 AM – 6:30 PM'
+    - 'Sunday: 8:00 AM – 6:30 PM'
 tags:
   - ayutthaya
   - top attraction

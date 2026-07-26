@@ -36,6 +36,14 @@ place:
     weekendBusy:
       - 11
     venueId: ven_6f43623331396b767a555152416a345a36554d735a7a504a496843
+  openingHours:
+    - 'Monday: 8:30 AM – 3:30 PM'
+    - 'Tuesday: 8:30 AM – 3:30 PM'
+    - 'Wednesday: 8:30 AM – 3:30 PM'
+    - 'Thursday: 8:30 AM – 3:30 PM'
+    - 'Friday: 8:30 AM – 3:30 PM'
+    - 'Saturday: 8:30 AM – 3:30 PM'
+    - 'Sunday: 8:30 AM – 3:30 PM'
 tags:
   - bangkok
   - Grand Palace

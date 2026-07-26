@@ -26,6 +26,15 @@ place:
     weekendQuiet: [9, 10, 18]
     weekendBusy: [12, 13, 14, 15, 16]
     venueId: 'ven_41503157356b6652436c465255446154536c654d4c59664a496843'
+  phone: '051-245-7389'
+  openingHours:
+    - 'Monday: 9:00 AM – 6:00 PM'
+    - 'Tuesday: 9:00 AM – 6:00 PM'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 6:00 PM'
 tags:
   - busan
   - Gukje Market

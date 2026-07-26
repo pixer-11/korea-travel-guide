@@ -37,6 +37,15 @@ place:
       - 14
       - 15
     venueId: ven_3444667365307444343258523443616e764364444755654a496843
+  phone: '0812-2230-068'
+  openingHours:
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 8:00 AM – 6:00 PM'
+    - 'Sunday: 8:00 AM – 6:00 PM'
 tags:
   - bandung
   - top attraction

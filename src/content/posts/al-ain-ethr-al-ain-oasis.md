@@ -42,6 +42,15 @@ place:
       - 22
     venueId: ven_595371546750375756445352346a693379425f6437554c4a496843
   priceLevel: 2
+  phone: '050 545 6180'
+  openingHours:
+    - 'Monday: 8:00 AM – 12:00 AM'
+    - 'Tuesday: 8:00 AM – 12:00 AM'
+    - 'Wednesday: 8:00 AM – 12:00 AM'
+    - 'Thursday: 8:00 AM – 12:00 AM'
+    - 'Friday: 8:00 AM – 2:00 AM'
+    - 'Saturday: 8:00 AM – 2:00 AM'
+    - 'Sunday: 8:00 AM – 2:00 AM'
 tags:
   - al ain
   - trendy cafe

@@ -21,6 +21,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 13.799781
   lng: 100.55042449999999
+  phone: '02 272 4270'
+  openingHours:
+    - 'Monday: Closed'
+    - 'Tuesday: 5:00 AM – 10:00 PM'
+    - 'Wednesday: 5:00 AM – 10:00 PM'
+    - 'Thursday: 5:00 AM – 10:00 PM'
+    - 'Friday: 5:00 AM – 12:00 AM'
+    - 'Saturday: 5:00 AM – 12:00 AM'
+    - 'Sunday: 5:00 AM – 12:00 AM'
 tags:
   - bangkok
   - Chatuchak Weekend Market

@@ -45,6 +45,15 @@ place:
       - 21
       - 22
     venueId: ven_5942413571635270474e7052416a345947396b436c574c4a496843
+  phone: '083 817 4446'
+  openingHours:
+    - 'Monday: 12:00 – 11:00 PM'
+    - 'Tuesday: 12:00 – 11:00 PM'
+    - 'Wednesday: 12:00 – 11:00 PM'
+    - 'Thursday: 12:00 – 11:00 PM'
+    - 'Friday: 12:00 – 11:00 PM'
+    - 'Saturday: 12:00 – 11:00 PM'
+    - 'Sunday: 12:00 – 11:00 PM'
 tags:
   - bangkok
   - street food

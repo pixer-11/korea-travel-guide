@@ -52,6 +52,15 @@ place:
       - 20
       - 21
     venueId: ven_454f4673704b4439704b7952346a697a656433753055684a496843
+  phone: '03 766 5200'
+  openingHours:
+    - 'Monday: 9:00 AM – 8:00 PM'
+    - 'Tuesday: 9:00 AM – 8:00 PM'
+    - 'Wednesday: 9:00 AM – 8:00 PM'
+    - 'Thursday: 9:00 AM – 8:00 PM'
+    - 'Friday: 9:00 AM – 9:00 PM'
+    - 'Saturday: 9:00 AM – 10:00 PM'
+    - 'Sunday: 9:00 AM – 10:00 PM'
 tags:
   - al ain
   - local restaurant

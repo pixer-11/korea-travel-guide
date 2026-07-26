@@ -47,6 +47,15 @@ place:
       - 16
       - 17
     venueId: ven_30545f365f66564a4e337352417a314741666b704d57654a496843
+  phone: '081 984 2925'
+  openingHours:
+    - 'Monday: 9:00 AM – 10:00 PM'
+    - 'Tuesday: 9:00 AM – 10:00 PM'
+    - 'Wednesday: 9:00 AM – 10:00 PM'
+    - 'Thursday: 9:00 AM – 10:00 PM'
+    - 'Friday: 9:00 AM – 10:00 PM'
+    - 'Saturday: 9:00 AM – 10:00 PM'
+    - 'Sunday: 9:00 AM – 10:00 PM'
 tags:
   - chiang rai
   - local restaurant

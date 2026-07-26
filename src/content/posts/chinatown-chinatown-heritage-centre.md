@@ -27,6 +27,14 @@ place:
     weekendQuiet: [10, 11, 19, 20]
     weekendBusy: [14, 15, 16, 17]
     venueId: 'ven_597955646134747475784352456a325a4d5853366765334a496843'
+  openingHours:
+    - 'Monday: 10:00 AM – 8:00 PM'
+    - 'Tuesday: 10:00 AM – 8:00 PM'
+    - 'Wednesday: 10:00 AM – 8:00 PM'
+    - 'Thursday: 10:00 AM – 8:00 PM'
+    - 'Friday: 10:00 AM – 8:00 PM'
+    - 'Saturday: 10:00 AM – 8:00 PM'
+    - 'Sunday: 10:00 AM – 8:00 PM'
 tags:
   - "chinatown"
   - "top attraction"

@@ -40,6 +40,15 @@ place:
       - 14
       - 15
     venueId: ven_73363044664c7932663037523069306873796f714177684a496843
+  phone: '(0368) 2033363'
+  openingHours:
+    - 'Monday: 10:00 AM – 8:00 PM'
+    - 'Tuesday: 10:00 AM – 8:00 PM'
+    - 'Wednesday: 10:00 AM – 8:00 PM'
+    - 'Thursday: 10:00 AM – 8:00 PM'
+    - 'Friday: 10:00 AM – 8:00 PM'
+    - 'Saturday: 10:00 AM – 8:00 PM'
+    - 'Sunday: 10:00 AM – 8:00 PM'
 tags:
   - bali
   - hidden gem

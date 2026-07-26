@@ -50,6 +50,15 @@ place:
       - 18
       - 19
     venueId: ven_596c4b574536374532396352347a5858685879685354504a496843
+  phone: '06 711 6688'
+  openingHours:
+    - 'Monday: 8:00 AM – 8:00 PM'
+    - 'Tuesday: 8:00 AM – 8:00 PM'
+    - 'Wednesday: 8:00 AM – 8:00 PM'
+    - 'Thursday: 8:00 AM – 8:00 PM'
+    - 'Friday: 8:00 AM – 8:00 PM'
+    - 'Saturday: 8:00 AM – 8:00 PM'
+    - 'Sunday: 8:00 AM – 8:00 PM'
 tags:
   - ajman
   - top attraction
