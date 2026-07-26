@@ -103,6 +103,8 @@ function regionRedirects() {
   // it must never 404. 302 (not 301) so the destination can be repointed later
   // (e.g. to a newsletter page) without reprinting cards.
   lines.push('/card /?utm_source=business_card&utm_medium=offline&utm_campaign=card2026 302');
+  // Instagram bio link (wander_atlas_guides): repointable without editing the bio.
+  lines.push('/ig /?utm_source=instagram&utm_medium=social&utm_campaign=bio 302');
   // Retired posts (photo-unfixable venues deleted for regeneration, 2026-07-26):
   // each old URL 301s to its region hub so any indexed link keeps landing well.
   try {
