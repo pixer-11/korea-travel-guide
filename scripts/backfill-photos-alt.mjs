@@ -63,7 +63,14 @@ for (const f of files) {
   if (ONLY.length && !ONLY.includes(slug)) continue;
   const path = `${POSTS}/${f}`;
   const { data, content } = matter(await readFile(path, 'utf8'));
-  if (!data.place?.name) continue; // venue posts only — placeless/events keep their pipeline
+  if (data.category === 'event') continue; // events keep their performer/type pipeline
+  // Venue-LIKE posts without a Google place object (web-discovered trendy spots
+  // e.g. Cure Bali / Pak Gula) were a blind spot — derive the venue name from
+  // the title and search by name+city instead of coordinates.
+  const VENUE_CATS = new Set(['restaurant', 'trendy', 'hidden-gem', 'attraction']);
+  const titleName = String(data.title).split(/[:—]/)[0].replace(/\s+in\s+.+$/i, '').trim();
+  const venueName = data.place?.name || (VENUE_CATS.has(data.category) ? titleName : null);
+  if (!venueName) continue;
 
   // AUDIT_ALL=1 → EVERY venue post is vision-checked (catches name-collision
   // cases the filename heuristic can't see, e.g. Rolo's restaurant wearing a
@@ -79,19 +86,23 @@ for (const f of files) {
 
   // Current hero first: if the AI approves what's already there, keep it.
   if (data.heroImage?.url && data.draft !== true) {
-    const cur = await verifyHeroImage({ url: data.heroImage.url, name: data.place.name, category: data.category, region: data.region, country: data.country });
+    const cur = await verifyHeroImage({ url: data.heroImage.url, name: venueName, category: data.category, region: data.region, country: data.country });
     if (cur.ok) continue;
     console.log(`  ✗  ${slug}: current hero rejected (${cur.reason}) — replacing`);
   }
 
-  const ctx = { name: data.place.name, category: data.category, region: data.region, country: data.country };
-  const cands = await venuePhotoCandidates({ name: data.place.name, lat: data.place.lat, lng: data.place.lng });
+  const ctx = { name: venueName, category: data.category, region: data.region, country: data.country };
+  const cands = await venuePhotoCandidates({
+    name: venueName,
+    lat: data.place?.lat, lng: data.place?.lng,
+    near: `${data.region}, ${data.country ?? 'South Korea'}`,
+  });
   // FREE source too: Wikimedia via the strict resolver (≥2-token name+region
   // match, geograph banned). Famous landmarks (Sagrada Família, Wat Arun…)
   // recover from here without any FSQ credits; vision still has the final say.
   try {
     const wiki = await resolveHero({
-      namedVenue: data.place.name, region: data.region,
+      namedVenue: venueName, region: data.region,
       topic: (data.tags && data.tags[1]) || data.category,
       country: data.country, used, strict: true,
     });

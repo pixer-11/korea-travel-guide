@@ -38,11 +38,17 @@ async function fsqFetch(pathAndQuery) {
 
 // Foursquare: match the venue by name near its stored coordinates, then pull
 // its photos. Returns [] when no key, no confident match, or no photos.
-export async function fsqVenuePhotos({ name, lat, lng, limit = 4 }) {
+export async function fsqVenuePhotos({ name, lat, lng, near, limit = 4 }) {
   const key = process.env.FOURSQUARE_API_KEY;
-  if (!key || !name || lat == null || lng == null) return [];
+  if (!key || !name) return [];
+  if (lat == null && !near) return [];
   try {
-    const q = new URLSearchParams({ query: name, ll: `${lat},${lng}`, radius: '400', limit: '3' });
+    // Coordinates when we have them (Google-sourced venue posts); otherwise a
+    // "near" text anchor ("Bali, Indonesia") — covers web-discovered trendy
+    // spots that carry no place object (the Cure Bali / Pak Gula blind spot).
+    const q = lat != null
+      ? new URLSearchParams({ query: name, ll: `${lat},${lng}`, radius: '400', limit: '3' })
+      : new URLSearchParams({ query: name, near, limit: '3' });
     const res = await fsqFetch(`/places/search?${q}`);
     if (!res.ok) {
       // Diagnose silently-failing searches ONCE (a 400 here looked like "auth
@@ -69,7 +75,7 @@ export async function fsqVenuePhotos({ name, lat, lng, limit = 4 }) {
     // result for "Flavors Grill" IS the venue even if FSQ spells it differently;
     // the vision gate still has final say on the photo itself).
     let hit = results.find((r) => norm(r.name).split(/\s+/).some((w) => ours.has(w)));
-    if (!hit) hit = results.find((r) => (r.distance ?? 9999) <= 150);
+    if (!hit && lat != null) hit = results.find((r) => (r.distance ?? 9999) <= 150);
     if (!hit) {
       if (!fsqVenuePhotos._nohit) { fsqVenuePhotos._nohit = true; console.log(`  [fsq] no hit for "${name}" — results were: ${results.map((r) => r.name + '@' + r.distance + 'm').join(' | ').slice(0, 160)}`); }
       return [];
@@ -140,9 +146,9 @@ export async function flickrPhotos({ name, lat, lng, limit = 4 }) {
 
 // Ordered candidate stream for one venue — Foursquare (actual venue) first,
 // Flickr geo (taken at the spot) second.
-export async function venuePhotoCandidates({ name, lat, lng }) {
+export async function venuePhotoCandidates({ name, lat, lng, near }) {
   const out = [];
-  out.push(...(await fsqVenuePhotos({ name, lat, lng })));
+  out.push(...(await fsqVenuePhotos({ name, lat, lng, near })));
   out.push(...(await flickrPhotos({ name, lat, lng })));
   return out;
 }
