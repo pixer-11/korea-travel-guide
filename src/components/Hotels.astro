@@ -8,14 +8,14 @@
 // redirect (pid 754088 → preserves attribution). UPGRADE PLAN: switch to
 // Hotels.com once traffic unlocks it (~3 months) for better hotel-specific rates.
 import Emoji from './Emoji.astro';
-import { getLangFromUrl, useTranslations } from '../i18n/utils';
+import { getLangFromUrl, useTranslations, klookLocale } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 interface Props { city: string; country?: string }
 const { city, country } = Astro.props;
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
 const cityLabel = localizePlace(city, lang);
-const klookSearch = `https://www.klook.com/en-US/search/?query=${city} hotels`;
+const klookSearch = `https://www.klook.com/${klookLocale(lang)}/search/?query=${city} hotels`;
 const href = `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7Cpid%7C754088&k_site=${encodeURIComponent(klookSearch)}`;
 ---
 <section class="tp-hotels">

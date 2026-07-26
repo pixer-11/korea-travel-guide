@@ -100,7 +100,10 @@ const jsonLd = {
     <div class="wrap">
       <p class="tp-trust"><span>✓</span> {T.trust}</p>
       <div class="tp-widget-card">
-        <script is:inline async src="https://tpemd.com/content?currency=usd&trs=553157&shmarker=754088&show_hotels=false&powered_by=true&locale=en&searchUrl=www.aviasales.com%2Fsearch&primary_override=%23c8443a&color_button=%23c8443a&color_icons=%23857c6f&dark=%23201c17&light=%23FFFFFF&secondary=%23f4eee3&special=%23e6e1d6&color_focused=%23c8443a&border_radius=10&plain=true&promo_id=7879&campaign_id=100" charset="utf-8"></script>
+        <!-- locale follows the page language — the widget ships ko/ja/es/zh string
+             bundles (verified by fetching the script per locale); hardcoded en
+             forced English UI on every localized page. -->
+        <script is:inline async src={`https://tpemd.com/content?currency=usd&trs=553157&shmarker=754088&show_hotels=false&powered_by=true&locale=${lang}&searchUrl=www.aviasales.com%2Fsearch&primary_override=%23c8443a&color_button=%23c8443a&color_icons=%23857c6f&dark=%23201c17&light=%23FFFFFF&secondary=%23f4eee3&special=%23e6e1d6&color_focused=%23c8443a&border_radius=10&plain=true&promo_id=7879&campaign_id=100`} charset="utf-8"></script>
       </div>
 
       <div class="tp-flights-tips">

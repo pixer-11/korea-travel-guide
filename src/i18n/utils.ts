@@ -20,6 +20,12 @@ export const localeCodes: Record<Lang, string> = {
   zh: 'zh-Hans',
 };
 
+// Klook URL locale segment per site language (klook.com/<seg>/...). Verified
+// live: /ko/ /ja/ /es/ /zh-CN/ all keep their language. Hardcoding en-US
+// forced every non-English reader onto the English store — user bug 2026-07-27.
+export const klookLocale = (lang: Lang): string =>
+  ({ en: 'en-US', ko: 'ko', ja: 'ja', es: 'es', zh: 'zh-CN' })[lang] ?? 'en-US';
+
 const NON_DEFAULT = ['ko', 'ja', 'es', 'zh'] as const;
 
 // Locale for the current URL (English is unprefixed at /).

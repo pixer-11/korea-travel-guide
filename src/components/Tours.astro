@@ -5,7 +5,7 @@
 // converting, no-approval-needed inventory) monetize on every post.
 // marker shmarker=754088, source trs=553157, category 1 = Attractions & Shows.
 import Emoji from './Emoji.astro';
-import { getLangFromUrl, useTranslations } from '../i18n/utils';
+import { getLangFromUrl, useTranslations, klookLocale } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 interface Props { city: string }
 const { city } = Astro.props;
@@ -35,13 +35,13 @@ const CITY_ID: Record<string, number> = {
 };
 const cityId = CITY_ID[city];
 const src = cityId
-  ? `https://tpemd.com/content?currency=USD&trs=553157&shmarker=754088&locale=en&city_id=${cityId}&category=1&amount=3&powered_by=true&campaign_id=137&promo_id=4497`
+  ? `https://tpemd.com/content?currency=USD&trs=553157&shmarker=754088&locale=${lang}&city_id=${cityId}&category=1&amount=3&powered_by=true&campaign_id=137&promo_id=4497`
   : null;
 
 // Fallback for unmapped cities: a city-specific Klook search link (works for any
 // city, correct attribution via the account's own Klook redirect).
 const klookHref = city
-  ? `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7Cpid%7C754088&k_site=${encodeURIComponent(`https://www.klook.com/en-US/search/?query=${city}`)}`
+  ? `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7Cpid%7C754088&k_site=${encodeURIComponent(`https://www.klook.com/${klookLocale(lang)}/search/?query=${city}`)}`
   : 'https://klook.tpx.lv/2NXPH8MA';
 ---
 {city && (

@@ -5,7 +5,7 @@
 // flights point to our own /flights page. Affiliate links use rel="sponsored".
 import { SITE } from '../siteConfig';
 import Emoji from './Emoji.astro';
-import { getLangFromUrl, useTranslations } from '../i18n/utils';
+import { getLangFromUrl, useTranslations, klookLocale } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 interface Props { city: string; country?: string }
 const { city } = Astro.props;
@@ -21,15 +21,21 @@ const cityLabel = localizePlace(city, lang);
 // setup. Uses the account's own Klook redirect (campaign 13694, pid 754088);
 // the query lands the reader on that city's tours & tickets.
 const klookHref = city
-  ? `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7Cpid%7C754088&k_site=${encodeURIComponent(`https://www.klook.com/en-US/search/?query=${city}`)}`
+  ? `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7Cpid%7C754088&k_site=${encodeURIComponent(`https://www.klook.com/${klookLocale(lang)}/search/?query=${city}`)}`
   : 'https://klook.tpx.lv/2NXPH8MA';
 
 const services = [
   { icon: 'admission-tickets', label: t('widget.toursLabel'), desc: city ? t('widget.toursDescCity').replace('{city}', cityLabel) : t('widget.toursDesc'), href: klookHref },
   { icon: 'automobile', label: t('widget.carLabel'), desc: t('widget.carDesc'), href: 'https://localrent.tpx.lv/qivp9ZCc' },
-  { icon: 'taxi', label: t('widget.transferLabel'), desc: t('widget.transferDesc'), href: 'https://kiwitaxi.tpx.lv/yRbl5tlp' },
+  // Kiwitaxi + EKTA cards TEMPORARILY REMOVED (2026-07-27): both tpx.lv short
+  // links are dead at the network (kiwitaxi → 404 "not found a link"; ekta →
+  // was generated against the WRONG program, VisitorsCoverage p=4552, which the
+  // marker isn't subscribed to → "marker is not subscribed to campaign").
+  // Restore each line as soon as the owner regenerates the link from the
+  // program's own "Generate links" button in Travelpayouts → My Programs.
+  // { icon: 'taxi', label: t('widget.transferLabel'), desc: t('widget.transferDesc'), href: '<NEW kiwitaxi link>' },
+  // { icon: 'shield', label: t('widget.insuranceLabel'), desc: t('widget.insuranceDesc'), href: '<NEW ekta link>' },
   { icon: 'antenna-bars', label: t('widget.esimLabel'), desc: t('widget.esimDesc'), href: 'https://yesim.tpx.lv/KABevuVe' },
-  { icon: 'shield', label: t('widget.insuranceLabel'), desc: t('widget.insuranceDesc'), href: 'https://ektatraveling.tpx.lv/WyiduGjq' },
   { icon: 'airplane', label: t('widget.flightsLabel'), desc: city ? t('widget.flightsDescCity').replace('{city}', cityLabel) : t('widget.flightsDesc'), href: '/flights', internal: true },
 ];
 ---
