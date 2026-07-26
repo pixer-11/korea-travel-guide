@@ -83,7 +83,7 @@ The restaurant sits on Prasopsook Road in Amphoe Mueang Chiang Rai, within walki
 
 ## When to go
 
-Aim for an early lunch, around 11:00–12:00, before the midday rush empties the kitchen of its best-selling items. Because it's a small, focused operation rather than a large tourist-oriented restaurant, popular dishes can run out on busy days, and seating is limited. Weekday visits tend to be calmer than weekends. Chiang Rai's cool season (November to February) is the most comfortable time to be walking the Old City between meals, though the restaurant itself is a good option year-round, including during the hot April-May stretch when a steaming bowl of khao soi still somehow works.
+Aim for an earlyish lunch — around 11:00–12:00 has usually been the calm window — before the midday rush empties the kitchen of its best-selling items; check current opening hours before making the trip. Because it's a small, focused operation rather than a large tourist-oriented restaurant, popular dishes can run out on busy days, and seating is limited. Weekday visits tend to be calmer than weekends. Chiang Rai's cool season (November to February) is the most comfortable time to be walking the Old City between meals, though the restaurant itself is a good option year-round, including during the hot April-May stretch when a steaming bowl of khao soi still somehow works.
 
 ## Nearby & tips
 

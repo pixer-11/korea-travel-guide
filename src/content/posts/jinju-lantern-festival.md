@@ -46,7 +46,7 @@ Jinjuseong Fortress itself is worth a daytime visit before returning after dark:
 
 ## When to go
 
-The festival is held annually in October, typically over roughly two weeks, though exact dates shift slightly each year, so confirm current dates before booking travel. Arrive in the late afternoon to explore the fortress in daylight, then stay through sunset and into the evening (around 6:30–9:30 PM) when the lanterns are lit and the crowds are largest. Weeknights are noticeably calmer than weekends; the first and last weekends tend to be busiest. Budget at least three to four hours for a proper visit, longer if you want to see both the fortress museum and the full riverside lantern route.
+The festival is held annually in October, typically over roughly two weeks, though exact dates shift slightly each year, so confirm current dates before booking travel. Arrive in the late afternoon to explore the fortress in daylight, then stay through sunset and into the evening (lighting hours vary by year, but have often run around 6:30–9:30 PM) when the lanterns are lit and the crowds are largest. Weeknights are noticeably calmer than weekends; the first and last weekends tend to be busiest. Budget at least three to four hours for a proper visit, longer if you want to see both the fortress museum and the full riverside lantern route.
 
 ## Nearby & tips
 

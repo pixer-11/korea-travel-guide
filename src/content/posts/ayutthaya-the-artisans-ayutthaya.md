@@ -60,7 +60,7 @@ Ayutthaya's dining scene is mostly built around quick noodle stalls and riversid
 
 ## Getting there
 
-The restaurant sits at 42 1, Tambon Ban Run, in Phra Nakhon Si Ayutthaya district, on the opposite side of the Pa Sak River from the main historical park where Wat Mahathat and Wat Ratchaburana stand. Most visitors are staying near the old city center or the train station, so the simplest options are a Grab (Thailand's ride-hailing app), a metered taxi, or asking your guesthouse to arrange a songthaew. If you're already exploring temples on a rented bicycle or motorbike, it's a manageable ride across one of the bridges connecting the island to Ban Run — allow 15–20 minutes from the historical park depending on traffic and which crossing you use. Because the address sits slightly outside the dense tourist core, pin the location in Google Maps before setting out rather than relying on signage alone.
+The restaurant sits at 42/1, Tambon Ban Run, in Phra Nakhon Si Ayutthaya district, on the opposite side of the Pa Sak River from the main historical park where Wat Mahathat and Wat Ratchaburana stand. Most visitors are staying near the old city center or the train station, so the simplest options are a Grab (Thailand's ride-hailing app), a metered taxi, or asking your guesthouse to arrange a songthaew. If you're already exploring temples on a rented bicycle or motorbike, it's a manageable ride across one of the bridges connecting the island to Ban Run — allow 15–20 minutes from the historical park depending on traffic and which crossing you use. Because the address sits slightly outside the dense tourist core, pin the location in Google Maps before setting out rather than relying on signage alone.
 
 ## What to eat and see
 

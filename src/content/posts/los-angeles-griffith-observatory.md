@@ -63,7 +63,7 @@ The real draw for many is the free public telescope viewing on the roof and fron
 
 ## When to go
 
-Weekday afternoons are noticeably calmer than weekends. For photography and the famous view, arrive an hour before sunset, watch the city lights switch on, then stay for telescope viewing once it's properly dark — this single visit covers daytime exhibits, golden-hour views, and night sky in one trip. Griffith Observatory is closed Mondays and Tuesdays; confirm current hours before heading up, since they shift slightly by season. Marine layer and haze are common in late spring, so autumn and winter often give the clearest long-distance views.
+Weekday afternoons are noticeably calmer than weekends. For photography and the famous view, arrive an hour before sunset, watch the city lights switch on, then stay for telescope viewing once it's properly dark — this single visit covers daytime exhibits, golden-hour views, and night sky in one trip. Griffith Observatory has typically been closed Mondays and Tuesdays; confirm current opening days and hours before heading up, since they shift slightly by season. Marine layer and haze are common in late spring, so autumn and winter often give the clearest long-distance views.
 
 ## Nearby & tips
 

@@ -43,7 +43,7 @@ The festival's main venue in recent years has been the Beer City site in Chengya
 ## What to see and do
 
 - **Tastings**: Dozens of breweries — domestic regional beers plus imported and craft labels — pour in themed tents, often organized by country or beer style.
-- **Tsingtao Brewery Museum**: If you're in town before or after the festival, the original brewery site near Dengzhou Road (in the older Shibei/Shinan area) offers tours, tasting rooms, and beer-flavored ice cream — a good primer on the city's brewing history.
+- **Tsingtao Brewery Museum**: If you're in town before or after the festival, the original brewery site near Dengzhou Road (in the older Shibei/Shinan area) offers tours, tasting rooms, and novelty treats (beer-flavored ice cream has been a fixture, though offerings change) — a good primer on the city's brewing history.
 - **Live performances**: Nightly stages feature pop acts, folk performances, and DJ sets; some nights close with fireworks over the festival grounds.
 - **Food**: Expect Qingdao specialties like fried clams (gala), spicy crayfish, and grilled seafood skewers sold alongside the beer tents — pairing local seafood with draft beer is a Qingdao summer ritual in itself.
 - **Badaguan and the waterfront**: Use downtime between festival visits to walk the German colonial-era villa district or the Zhan Bridge pier, both easy add-ons if you're staying centrally.

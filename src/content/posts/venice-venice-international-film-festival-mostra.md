@@ -38,7 +38,7 @@ The Mostra is the world's oldest film festival, founded in 1932, and it remains 
 
 ## Getting there and getting around
 
-Fly into Venice Marco Polo Airport, then take a Alilaguna waterbus or water taxi into the city, followed by a vaporetto (Line 1, 5.1, or 6) from the city center to Lido S.M.E. — the Lido's main stop. The festival's hub is the Palazzo del Cinema on the Lungomare Marconi, alongside the Palazzo del Casino and the Sala Grande, all within walking distance of the Lido vaporetto stop. During the festival, the ACTV runs a densely scheduled shuttle service between the historic center and the Lido, since most accredited guests and press stay in Venice proper or Mestre rather than on the Lido itself, where hotel inventory is limited and prices spike hard in early September.
+Fly into Venice Marco Polo Airport, then take an Alilaguna waterbus or water taxi into the city, followed by a vaporetto (Line 1, 5.1, or 6) from the city center to Lido S.M.E. — the Lido's main stop. The festival's hub is the Palazzo del Cinema on the Lungomare Marconi, alongside the Palazzo del Casino and the Sala Grande, all within walking distance of the Lido vaporetto stop. During the festival, the ACTV runs a densely scheduled shuttle service between the historic center and the Lido, since most accredited guests and press stay in Venice proper or Mestre rather than on the Lido itself, where hotel inventory is limited and prices spike hard in early September.
 
 ## What to see (even without a badge)
 

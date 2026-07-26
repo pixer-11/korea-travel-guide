@@ -64,7 +64,7 @@ Gyukatsu — a thick-cut beef loin coated in panko and flash-fried so the inside
 
 ## What to eat
 
-The format is simple and worth understanding before you sit down: you get a set (teishoku) built around a slab of breaded, fried beef loin sliced into thick strips, plain rice, miso soup, cabbage, and usually a raw egg or dipping sauces on the side. Crucially, each table has its own small stone or iron plate — the beef arrives seared on the outside but rare within, and you sear individual pieces yourself to taste, from very rare to well-done. This interactivity is part of the appeal and worth doing slowly rather than cooking everything at once. Standard cuts run in the 100–150g range with upsize options; portions can typically be increased for an extra charge, and rice/cabbage refills are often free — ask staff, as this varies by branch and season. Sauces typically include a savory soy-based tare, wasabi, and salt, so try a few pieces each way before committing to one for the rest of the plate.
+The format is simple and worth understanding before you sit down: you get a set (teishoku) built around a slab of breaded, fried beef loin sliced into thick strips, plain rice, miso soup, cabbage, and usually a raw egg or dipping sauces on the side. Crucially, each table has its own small stone or iron plate — the beef arrives seared on the outside but rare within, and you sear individual pieces yourself to taste, from very rare to well-done. This interactivity is part of the appeal and worth doing slowly rather than cooking everything at once. Standard cuts have typically run in the 100–150g range with upsize options; portions can typically be increased for an extra charge, and rice/cabbage refills are often free — ask staff, as this varies by branch and season. Sauces typically include a savory soy-based tare, wasabi, and salt, so try a few pieces each way before committing to one for the rest of the plate.
 
 ## Getting there
 
@@ -72,7 +72,7 @@ The restaurant sits in Maoyachō, Shimogyo Ward, within easy walking distance of
 
 ## When to go
 
-Given the review volume, expect a line at conventional mealtimes — roughly 12:00–13:30 for lunch and 18:30–20:00 for dinner. Arriving right at opening or in the mid-afternoon lull (around 14:30–17:00, if the restaurant runs continuous hours) meaningfully cuts wait times. As with most high-turnover restaurants near Kyoto Station, solo diners and pairs move through lines faster than larger groups. Hours and any seasonal closures should be confirmed on the day, since these details shift more often than the menu itself.
+Given the review volume, expect a line at conventional mealtimes — typically somewhere around 12:00–13:30 for lunch and 18:30–20:00 for dinner. Arriving right at opening or in the mid-afternoon lull (around 14:30–17:00, if the restaurant runs continuous hours) meaningfully cuts wait times. As with most high-turnover restaurants near Kyoto Station, solo diners and pairs move through lines faster than larger groups. Hours and any seasonal closures should be confirmed on the day, since these details shift more often than the menu itself.
 
 ## Nearby & tips
 

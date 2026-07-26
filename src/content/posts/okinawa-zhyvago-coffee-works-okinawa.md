@@ -50,7 +50,7 @@ The shop sits at 9-46 Mihama, Chatan, in the Nakagami District, inside the Disto
 
 ## What to try
 
-Espresso is the anchor here — expect standard specialty-café options like flat whites, cortados, and pour-overs alongside the espresso classics, plus a rotating case of pastries and light snacks (think croissants, muffins, and simple savory bites rather than a full food menu). Price level sits in the moderate range for Japan (¥¥), so a coffee and pastry combo won't break a resort-town budget, but it's priced above a convenience-store coffee. This isn't a sit-down-for-hours brunch spot as much as a well-executed coffee bar — plan for a focused visit rather than a full meal.
+Espresso is the anchor here — expect standard specialty-café options like flat whites, cortados, and pour-overs alongside the espresso classics, plus a rotating case of pastries and light snacks (think croissants, muffins, and simple savory bites rather than a full food menu). Prices sit in the moderate range for Japan, so a coffee and pastry combo won't break a resort-town budget, but it's priced above a convenience-store coffee. This isn't a sit-down-for-hours brunch spot as much as a well-executed coffee bar — plan for a focused visit rather than a full meal.
 
 ## When to go
 

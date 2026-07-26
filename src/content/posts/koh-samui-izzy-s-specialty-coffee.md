@@ -63,7 +63,7 @@ Seating is limited and highly sought after, consistent with its shophouse-scale 
 
 ## When to Go
 
-Mornings (opening until around 10-11am) are the sweet spot: quieter, cooler, and you'll get a table without a wait. Fisherman's Village comes alive again in the evening when the walking street's night market runs (typically Friday nights, though this varies seasonally), so an early coffee followed by a return visit for the market atmosphere makes a natural day-into-evening pairing. Avoid the midday heat lull between roughly noon and 3pm if you want a relaxed sit-down, since both crowds and temperatures peak then.
+Mornings (from opening until around 10-11am) tend to be the sweet spot: quieter, cooler, and you'll usually get a table without a wait — double-check current opening hours before you head over. Fisherman's Village comes alive again in the evening when the walking street's night market runs (typically Friday nights, though this varies seasonally), so an early coffee followed by a return visit for the market atmosphere makes a natural day-into-evening pairing. Avoid the midday heat lull between roughly noon and 3pm if you want a relaxed sit-down, since both crowds and temperatures peak then.
 
 ## Nearby & Tips
 

@@ -103,7 +103,7 @@ Wat Mahathat sits on Soi Chikun in Tambon Pratuchai, on Ayutthaya's historic isl
 
 ## When to go
 
-Ayutthaya's cool season (November–February) brings the most comfortable temperatures for walking the grounds, but also the biggest tour-bus crowds around midday. Arriving at opening time or after 3:30pm thins the crowds considerably and softens the light for photos at the tree-root Buddha. The rainy season (June–October) is quieter and greener but bring an umbrella; midday sun from March–May is intense with little shade across the open ruin field, so plan an early or late visit.
+Ayutthaya's cool season (November–February) brings the most comfortable temperatures for walking the grounds, but also the biggest tour-bus crowds around midday. Arriving at opening time or later in the afternoon (after 3:30pm or so) usually thins the crowds considerably and softens the light for photos at the tree-root Buddha. The rainy season (June–October) is quieter and greener but bring an umbrella; midday sun from March–May is intense with little shade across the open ruin field, so plan an early or late visit.
 
 ## Nearby & tips
 

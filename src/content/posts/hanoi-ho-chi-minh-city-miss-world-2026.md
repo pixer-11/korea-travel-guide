@@ -48,7 +48,7 @@ Exact venues, daily schedules, and which host city gets which segment have not b
 
 ## Getting there and getting around
 
-Both host cities have major international airports: **Noi Bai International (HAN)** in Hanoi and **Tan Son Nhat International (SGN)** in Ho Chi Minh City, both served by long-haul carriers from Europe, North America, Australia, and across Asia. Domestic flights between the two cities run roughly 2 hours and are frequent on Vietnam Airlines, Vietjet, and Bamboo Airways, making a two-city trip (arrival events in Hanoi, finale in HCMC, or vice versa) very feasible within a single visit. The high-speed **Reunification Express train** is a scenic but much slower alternative (30+ hours), better as a bonus leg than a main transport plan.
+Both host cities have major international airports: **Noi Bai International (HAN)** in Hanoi and **Tan Son Nhat International (SGN)** in Ho Chi Minh City, both served by long-haul carriers from Europe, North America, Australia, and across Asia. Domestic flights between the two cities run roughly 2 hours and are frequent on Vietnam Airlines, Vietjet, and Bamboo Airways, making a two-city trip (arrival events in Hanoi, finale in HCMC, or vice versa) very feasible within a single visit. The **Reunification Express train** is a scenic but much slower alternative (30+ hours), better as a bonus leg than a main transport plan.
 
 ## What to see while you're there
 

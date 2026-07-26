@@ -57,7 +57,7 @@ Telok Ayer Street is one of the best-preserved stretches of shophouse architectu
 
 ## Getting there
 
-The cafe sits at 202 Telok Ayer St, Singapore 068639, in the heart of Chinatown's Telok Ayer conservation district. The closest MRT station is Telok Ayer (Downlow Line), roughly a 5-minute walk — take Exit A and head north along Telok Ayer Street, passing Thian Hock Keng Temple on your left. Alternatively, Tanjong Pagar MRT (East-West Line) is about a 10-minute walk from the opposite direction via Amoy Street. Both routes are flat, shaded by shophouse facades for parts of the way, and walkable in normal daytime heat. Street parking along Telok Ayer and Amoy is metered and limited, so the train is the more reliable option, especially at lunch when the area is busy with office workers.
+The cafe sits at 202 Telok Ayer St, Singapore 068639, in the heart of Chinatown's Telok Ayer conservation district. The closest MRT station is Telok Ayer (Downtown Line), roughly a 5-minute walk — take Exit A and head north along Telok Ayer Street, passing Thian Hock Keng Temple on your left. Alternatively, Tanjong Pagar MRT (East-West Line) is about a 10-minute walk from the opposite direction via Amoy Street. Both routes are flat, shaded by shophouse facades for parts of the way, and walkable in normal daytime heat. Street parking along Telok Ayer and Amoy is metered and limited, so the train is the more reliable option, especially at lunch when the area is busy with office workers.
 
 ## What to see and eat
 

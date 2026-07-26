@@ -87,7 +87,7 @@ The falls sit inside Düden Şelalesi Parkı in Varsak Mahallesi, Kepez, a distr
 
 ## What to see and do
 
-The main draw is the cave-and-cascade combination: a paved, railed path leads into a grotto behind the falling water, where the roar and spray make for a dramatic photo spot (bring a dry bag or cover for phones and cameras). The surrounding park is shaded with pine and eucalyptus trees, laid out with walking paths, benches, small tea gardens, and viewing terraces overlooking the river gorge. Look for the network of footbridges crossing the stream and the lookout points giving a full view of the falls from a distance before you approach the cave. Simple cafés inside the park serve tea, gözleme, and cold drinks — useful for a break rather than a destination meal in themselves.
+The main draw is the cave-and-cascade combination: a paved, railed path leads into a grotto behind the falling water, where the roar and spray make for a dramatic photo spot (bring a dry bag or cover for phones and cameras). The surrounding park is shaded with pine and eucalyptus trees, laid out with walking paths, benches, small tea gardens, and viewing terraces overlooking the river gorge. Look for the network of footbridges crossing the stream and the lookout points giving a full view of the falls from a distance before you approach the cave. Simple cafés inside the park typically serve tea, gözleme, and cold drinks (offerings vary by season) — useful for a break rather than a destination meal in themselves.
 
 ## When to go
 

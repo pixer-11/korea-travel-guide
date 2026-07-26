@@ -38,7 +38,7 @@ Heyri Art Village (헤이리 예술마을) is not an old neighborhood that organ
 
 Heyri sits in Tanhyeon-myeon, Paju, roughly 30–35 km northwest of Seoul, along the same corridor that leads toward Imjingak and the DMZ border area. There is no subway station directly in the village, so most visitors combine two legs:
 
-- **Bus + subway combo:** Take Seoul Subway Line 3 to Daegok Station, then transfer to a local bus (the 021, 058, or similar routes serving Tanhyeon/Heyri) — travel time from Daegok is about 20–30 minutes depending on traffic.
+- **Bus + subway combo:** Take Seoul Subway Line 3 to Daegok Station, then transfer to a local bus (historically the 021, 058, or similar routes serving Tanhyeon/Heyri — verify current route numbers on Naver or Kakao Map, as they change) — travel time from Daegok is about 20–30 minutes depending on traffic.
 - **Direct bus from Seoul:** Intercity or express buses run from Hapjeong or Sinchon areas toward Paju's Tanhyeon/Heyri stop; check current schedules since routes are periodically adjusted.
 - **Car or taxi:** Driving takes about 40–50 minutes from central Seoul via the Jayuro (Freedom Road), and Heyri has ample parking, which makes a rental car or taxi the least fussy option for families.
 

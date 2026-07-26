@@ -50,7 +50,7 @@ Las Vegas Boulevard South is the Strip's official name and spine. If flying in, 
 Break the Strip into three rough zones rather than trying to walk it all in one go:
 
 - **South end**: Mandalay Bay, Luxor's pyramid and Sphinx, Excalibur, and New York-New York with its roller coaster and Statue of Liberty replica sit close together and are walkable as one loop.
-- **Center**: This is the densest stretch — Bellagio's fountain show (choreographed to music, running every 15-30 minutes in the evening), Caesars Palace, The Venetian's indoor canals and gondola rides, Paris Las Vegas's half-scale Eiffel Tower (with an observation deck), and the Mirage's volcano attraction. Aria and the Cosmopolitan anchor the CityCenter complex in between.
+- **Center**: This is the densest stretch — Bellagio's fountain show (choreographed to music, typically running every 15-30 minutes in the evening — check the current show schedule), Caesars Palace, The Venetian's indoor canals and gondola rides, Paris Las Vegas's half-scale Eiffel Tower (with an observation deck), and the Mirage's volcano attraction. Aria and the Cosmopolitan anchor the CityCenter complex in between.
 - **North end**: The Strip thins out toward the Sahara and the Stratosphere Tower, which has an observation deck and thrill rides at height.
 
 For food, the resorts themselves are the destination: most have a food hall or celebrity-chef restaurant (Gordon Ramsay, Julian Serrano, Guy Fieri among the recognizable names attached to various properties over the years), and buffets remain a Strip institution even as prices have climbed. For shows, expect everything from Cirque du Soleil residencies to headliner concert residencies at venues like The Colosseum at Caesars Palace.

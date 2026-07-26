@@ -68,7 +68,7 @@ Sheeva Cafe sits on Sukhumvit-Pattaya 75 (also signed as Soi 75), on the eastern
 
 The main draw is the setting itself: expect multi-level seating areas connected by wooden bridges, hanging plants forming natural canopies, ponds stocked with koi, and small waterfalls that add ambient white noise to the outdoor sections. Arrive with a bit of time to walk the grounds before or after eating — the layout rewards exploring corners you wouldn't see from your table.
 
-On the food side, Sheeva serves a broad Thai and international menu — think curries, stir-fries, pastas, and Western breakfast plates — alongside coffee and fruit-based drinks that suit the tropical setting. Portions and pricing sit in the mid-range (priceLevel 2), so this isn't a splurge destination, more an accessible one, which helps explain the review volume: it draws repeat local diners as well as tourists. Given the jungle theme, dishes with visual flair (fruit platters, elaborate iced drinks, dessert plates) tend to be the most photographed items — worth ordering at least one even if you're mainly there for a savory meal.
+On the food side, Sheeva serves a broad Thai and international menu — think curries, stir-fries, pastas, and Western breakfast plates — alongside coffee and fruit-based drinks that suit the tropical setting. Portions and pricing sit firmly in the mid-range, so this isn't a splurge destination, more an accessible one, which helps explain the review volume: it draws repeat local diners as well as tourists. Given the jungle theme, dishes with visual flair (fruit platters, elaborate iced drinks, dessert plates) tend to be the most photographed items — worth ordering at least one even if you're mainly there for a savory meal.
 
 ## When to go
 

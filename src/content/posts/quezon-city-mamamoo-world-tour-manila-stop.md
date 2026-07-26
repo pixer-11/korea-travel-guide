@@ -50,7 +50,7 @@ Araneta City is a mini-district in itself, anchored by Gateway Mall right next t
 
 ## When to go and how long to stay
 
-August is deep in the Philippines' rainy season, so pack a compact umbrella or light rain jacket for the walk between transit and the venue, and expect humidity even in the evening. Concerts at the Big Dome typically run two to three hours including opening formalities, but exact doors and show times for this date have not been confirmed publicly — treat any circulating schedule as provisional until the official promoter posts it. Plan to be in the area for most of the evening, and if traveling from outside Metro Manila, consider staying overnight nearby rather than attempting a same-day return trip.
+August typically falls deep in the Philippines' rainy season, so pack a compact umbrella or light rain jacket for the walk between transit and the venue, and expect humidity even in the evening. Concerts at the Big Dome typically run two to three hours including opening formalities, but exact doors and show times for this date have not been confirmed publicly — treat any circulating schedule as provisional until the official promoter posts it. Plan to be in the area for most of the evening, and if traveling from outside Metro Manila, consider staying overnight nearby rather than attempting a same-day return trip.
 
 ## How to visit like a local
 

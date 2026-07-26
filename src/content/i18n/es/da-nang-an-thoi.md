@@ -36,7 +36,7 @@ El menú se construye en torno a los clásicos del centro de Vietnam, más que a
 - **Marisco fresco** – dado el entorno ribereño y costero, los pescados a la parrilla o al vapor, las almejas y los platos de camarón son una apuesta segura; busca los tableros con la pesca del día o pregunta al personal qué llegó esa mañana.
 - **Carnes a la parrilla y platos para compartir estilo hot pot**, que encajan con el formato claramente orientado a grupos y familias del restaurante.
 
-El nivel de precio se sitúa en el rango moderado (aproximadamente $$ en la escala estándar), cómodo para una comida completa con bebidas sin llegar a los precios de los restaurantes turísticos de gama alta. Como suele ocurrir con este tipo de datos variables, conviene tomar los precios exactos del menú como orientativos y confirmarlos en el lugar, ya que el precio del marisco en particular puede cambiar según el mercado.
+El nivel de precio se sitúa en el rango moderado, cómodo para una comida completa con bebidas sin llegar a los precios de los restaurantes turísticos de gama alta. Como suele ocurrir con este tipo de datos variables, conviene tomar los precios exactos del menú como orientativos y confirmarlos en el lugar, ya que el precio del marisco en particular puede cambiar según el mercado.
 
 ## Cuándo ir
 

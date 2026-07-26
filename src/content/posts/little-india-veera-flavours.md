@@ -71,7 +71,7 @@ Veera Flavours is located at 41 Kerbau Road, right in the historic core of Littl
 
 ## What to eat
 
-The signature order here is the banana-leaf meal: rice served on a fresh banana leaf with an assortment of vegetable curries, sambar, rasam, curd, and pickle, typically topped up on request until you're full. For those short on time, dosas (the paper-thin, crisp rice-and-lentil crepes) and thali sets are the faster alternative, giving you a compact sampling of curries in individual portions. The restaurant falls in the mid-range price bracket (price level 2), making it accessible for a casual lunch as well as a slightly more leisurely dinner. Vegetarian and vegan diners are well catered for, as South Indian temple-style cooking here relies on lentils, vegetables, and dairy rather than meat — worth noting if you're navigating Singapore's food scene with dietary restrictions.
+The signature order here is the banana-leaf meal: rice served on a fresh banana leaf with an assortment of vegetable curries, sambar, rasam, curd, and pickle, typically topped up on request until you're full. For those short on time, dosas (the paper-thin, crisp rice-and-lentil crepes) and thali sets are the faster alternative, giving you a compact sampling of curries in individual portions. The restaurant falls in the mid-range price bracket, making it accessible for a casual lunch as well as a slightly more leisurely dinner. Vegetarian and vegan diners are well catered for, as South Indian temple-style cooking here relies on lentils, vegetables, and dairy rather than meat — worth noting if you're navigating Singapore's food scene with dietary restrictions.
 
 ## When to go
 

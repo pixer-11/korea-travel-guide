@@ -45,7 +45,7 @@ Meiji Jingu was built in 1920 to enshrine the deified spirits of Emperor Meiji a
 
 ## Getting there
 
-The shrine sits in Shibuya ward at 1-1 Yoyogikamizonochō, straddling the border of Harajuku and Yoyogi. The easiest approach is from JR Harajuku Station (Yamanote Line) — exit toward Omotesando and you'll see the first giant torii gate almost immediately. Alternatively, Meiji-Jingumae Station on the Chiyoda and Fukutoku-toshin subway lines drops you at Exit 2, a short walk from the same entrance. A second, quieter southern entrance connects to Yoyogi Park, useful if you're combining both in one visit. Both main gates lead onto a long gravel path shaded by camphor and cypress trees — this walk alone takes 15-20 minutes each way, so factor that into your visit.
+The shrine sits in Shibuya ward at 1-1 Yoyogikamizonochō, straddling the border of Harajuku and Yoyogi. The easiest approach is from JR Harajuku Station (Yamanote Line) — exit toward Omotesando and you'll see the first giant torii gate almost immediately. Alternatively, Meiji-Jingumae Station on the Chiyoda and Fukutoshin subway lines drops you at Exit 2, a short walk from the same entrance. A second, quieter southern entrance connects to Yoyogi Park, useful if you're combining both in one visit. Both main gates lead onto a long gravel path shaded by camphor and cypress trees — this walk alone takes 15-20 minutes each way, so factor that into your visit.
 
 ## What to see
 

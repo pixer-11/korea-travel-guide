@@ -65,9 +65,9 @@ Along the trail and near the entrance, small stalls sell inari-zushi (sweet frie
 
 ## When to go
 
-The shrine is outdoors, unguarded, and open 24 hours, which is unusual for a major Kyoto sight and worth exploiting. Early morning (before 8 a.m.) or after sunset offers dramatically thinner crowds through the Senbon Torii, plus better light for photos — the gates glow under lantern light at night, though the upper mountain paths are dimly lit, so bring a phone flashlight if climbing after dark. Midday, especially on weekends and during spring and autumn foliage seasons, the lower gate tunnels can be genuinely packed shoulder-to-shoulder. Rainy weekday mornings are, counterintuitively, some of the best times for an uncrowded visit.
+The shrine is outdoors, unguarded, and has traditionally been open around the clock (worth confirming if you're planning a very late visit), which is unusual for a major Kyoto sight and worth exploiting. Early morning (before 8 a.m.) or after sunset offers dramatically thinner crowds through the Senbon Torii, plus better light for photos — the gates glow under lantern light at night, though the upper mountain paths are dimly lit, so bring a phone flashlight if climbing after dark. Midday, especially on weekends and during spring and autumn foliage seasons, the lower gate tunnels can be genuinely packed shoulder-to-shoulder. Rainy weekday mornings are, counterintuitively, some of the best times for an uncrowded visit.
 
 ## Nearby & tips
 
-Entry is free and there's no ticket booth, which also means no set closing time to plan around. Wear real shoes if you intend to hike beyond Yotsutsuji, since the stone steps get uneven and can be slippery after rain. Fushimi is also known for sake breweries — the Fushimi sake district near Chushojima Station, a short train ride south, makes a good pairing for an afternoon if you've got extra time in the area.
+Entry has long been free with no ticket booth, which also means no set closing time to plan around. Wear real shoes if you intend to hike beyond Yotsutsuji, since the stone steps get uneven and can be slippery after rain. Fushimi is also known for sake breweries — the Fushimi sake district near Chushojima Station, a short train ride south, makes a good pairing for an afternoon if you've got extra time in the area.
 

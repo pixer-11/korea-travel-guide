@@ -85,7 +85,7 @@ Expect a menu built around Indonesian staples — think nasi goreng, grilled sea
 
 ## When to go
 
-Labuan Bajo runs on a dry season (roughly April to November) and wet season (December to March) cycle. Dry season brings the bulk of tourist traffic — and the bulk of Komodo tour departures — meaning dinner spots in town, including this one, get busiest in the evening hours between 7 and 9pm when boats return from day trips. Arriving for an earlier dinner, around 5:30–6:30pm, generally means shorter waits and more relaxed service. Wet season months are quieter across the whole town, restaurants included, though some boat trips run less frequently.
+Labuan Bajo runs on a dry season (roughly April to November) and wet season (December to March) cycle. Dry season brings the bulk of tourist traffic — and the bulk of Komodo tour departures — meaning dinner spots in town, including this one, tend to get busiest in the evening, often roughly between 7 and 9pm, when boats return from day trips. Arriving for an earlier dinner, around 5:30–6:30pm, generally means shorter waits and more relaxed service. Wet season months are quieter across the whole town, restaurants included, though some boat trips run less frequently.
 
 ## How to visit like a local
 

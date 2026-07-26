@@ -81,7 +81,7 @@ Hangzhou East Railway Station is the main arrival point if you're coming by high
 
 ## What to see and do
 
-The classic move is walking or renting a shared bike along the Su Causeway (Sudi) or Bai Causeway (Baidi), two historic tree-lined paths that cut across the water and connect to Solitary Hill (Gushan). From Gushan you get one of the best panoramic views of the lake and can visit the Zhejiang Provincial Museum for free.
+The classic move is walking or renting a shared bike along the Su Causeway (Sudi) or Bai Causeway (Baidi), two historic tree-lined paths that cut across the water and connect to Solitary Hill (Gushan). From Gushan you get one of the best panoramic views of the lake and can visit the Zhejiang Provincial Museum, which has typically been free to enter — check current opening days and any reservation requirements before you go.
 
 Boats (small electric ferries or hand-paddled sampans) run out to Xiaoying Island, home of the "Three Pools Mirroring the Moon" — the scene printed on the back of the 1-yuan banknote. Nearby, Leifeng Pagoda offers a rebuilt tower with an elevator and lake views, tied to the White Snake legend. On the west side, Lingyin Temple, one of China's ten most famous Buddhist temples, sits at the base of forested hills and is worth 1-2 hours alone, including the rock carvings at nearby Feilai Peak.
 

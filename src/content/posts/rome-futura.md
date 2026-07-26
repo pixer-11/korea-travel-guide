@@ -52,4 +52,4 @@ Monti is at its most pleasant in the early evening, when shops are closing and t
 
 ## Nearby & tips
 
-Pair a Futura reservation with a pre-dinner stroll past the Case Romane del Celio-style medieval streets of Monti, or a visit to the nearby Basilica di Santa Maria Maggiore, a 10–15 minute walk away. Since this is a freshly opened, high-demand address, always verify current opening days, hours, and reservation policy directly with the restaurant before finalizing plans — details for brand-new openings change fast in their first year.
+Pair a Futura reservation with a pre-dinner stroll through the medieval streets of Monti, or a visit to the nearby Basilica di Santa Maria Maggiore, a 10–15 minute walk away. Since this is a freshly opened, high-demand address, always verify current opening days, hours, and reservation policy directly with the restaurant before finalizing plans — details for brand-new openings change fast in their first year.

@@ -66,7 +66,7 @@ Given the price level (moderate for the island, roughly mid-range compared to Ph
 
 ## When to go
 
-Evenings are the main draw — the lighting, garden ambiance, and cooler air make dinner (roughly 6–9pm) the ideal window. Lunch service exists but loses much of the atmospheric appeal since the lantern and garden lighting is designed for after dark. Weekends and peak tourist season (November through April, Phu Quoc's dry season) tend to bring larger crowds, so arriving early or reserving ahead is worth doing if you have a specific time in mind. The rainy season (May–October) can still work for a visit, since much of the seating has cover, but check for outdoor umbrella arrangements if a downpour is likely.
+Evenings are the main draw — the lighting, garden ambiance, and cooler air make dinner (roughly 6–9pm) usually the ideal window. Lunch service exists but loses much of the atmospheric appeal since the lantern and garden lighting is designed for after dark. Weekends and peak tourist season (November through April, Phu Quoc's dry season) tend to bring larger crowds, so arriving early or reserving ahead is worth doing if you have a specific time in mind. The rainy season (May–October) can still work for a visit, since much of the seating has cover, but check for outdoor umbrella arrangements if a downpour is likely.
 
 ## Nearby & tips
 

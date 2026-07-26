@@ -54,7 +54,7 @@ The summit plaza surrounds the base of the marble Buddha, which visitors can wal
 
 ## When to go
 
-Early morning (before 9am) or the couple of hours before sunset are the best windows — the heat on the exposed hilltop plaza can be intense by midday, and tour buses tend to arrive mid-morning through early afternoon. Sunset visits are popular for the light over Kata and Karon, but expect more crowds and a slower drive back down in the dark. The dry season, roughly November through April, offers the clearest skies and best visibility for the panoramic views; during the rainy season (May-October), haze or cloud cover can obscure the vistas, though the site remains open. Admission is free, though donation boxes support the ongoing marble cladding work, and typical opening hours run from early morning to early evening — it's worth confirming current hours locally since they can shift seasonally.
+Early morning (before 9am) or the couple of hours before sunset are the best windows — the heat on the exposed hilltop plaza can be intense by midday, and tour buses tend to arrive mid-morning through early afternoon. Sunset visits are popular for the light over Kata and Karon, but expect more crowds and a slower drive back down in the dark. The dry season, roughly November through April, offers the clearest skies and best visibility for the panoramic views; during the rainy season (May-October), haze or cloud cover can obscure the vistas, though the site remains open. Admission has generally been free, though donation boxes support the ongoing marble cladding work, and typical opening hours run from early morning to early evening — it's worth confirming current hours locally since they can shift seasonally.
 
 ## Nearby & tips
 

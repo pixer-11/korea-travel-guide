@@ -27,7 +27,7 @@ La cafetería se encuentra en 9-46 Mihama, Chatan, en el distrito de Nakagami, e
 
 ## Qué probar
 
-El espresso es la base aquí: encontrarás las opciones habituales de una cafetería de especialidad, como flat whites, cortados y pour-overs, junto con los clásicos del espresso, además de una vitrina rotativa de repostería y bocadillos ligeros (piensa en croissants, muffins y algunos snacks salados simples, más que un menú de comida completo). El nivel de precios está en el rango moderado para Japón (¥¥), así que un combo de café y repostería no rompe el presupuesto de una ciudad turística, aunque cuesta más que un café de tienda de conveniencia. No es tanto un lugar para quedarse horas de brunch como un bar de café bien ejecutado: conviene planear una visita puntual más que una comida completa.
+El espresso es la base aquí: encontrarás las opciones habituales de una cafetería de especialidad, como flat whites, cortados y pour-overs, junto con los clásicos del espresso, además de una vitrina rotativa de repostería y bocadillos ligeros (piensa en croissants, muffins y algunos snacks salados simples, más que un menú de comida completo). El nivel de precios está en el rango moderado para Japón, así que un combo de café y repostería no rompe el presupuesto de una ciudad turística, aunque cuesta más que un café de tienda de conveniencia. No es tanto un lugar para quedarse horas de brunch como un bar de café bien ejecutado: conviene planear una visita puntual más que una comida completa.
 
 ## Cuándo ir
 

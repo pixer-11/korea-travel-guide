@@ -56,7 +56,7 @@ From Phuket, the main departure points are Rassada Pier (Ao Makham, southeast of
 - **Viking Cave** — a limestone cave on Phi Phi Leh known for swiftlet nests once harvested for bird's nest soup; usually a quick photo stop rather than a landing.
 - **Monkey Beach** (Ko Nok) — a small beach on Phi Phi Don where long-tailed macaques roam; keep food and loose items secured.
 - **Viewpoint hikes on Phi Phi Don** — a steep but short climb (20–40 minutes) up from Tonsai village leads to panoramic views over the twin bays; go for sunrise or late afternoon to avoid the midday heat.
-- **Tonsai Village** — the main pier town, packed with dive shops, bars, and seafood restaurants; try grilled fish, som tam, and fresh tiger prawns at the harborside stalls.
+- **Tonsai Village** — the main pier town, packed with dive shops, bars, and seafood restaurants; look for the likes of grilled fish, som tam, and fresh tiger prawns at the harborside stalls (offerings vary by day and season).
 
 Snorkeling and diving are the main draws beyond the scenery — expect reef fish, occasional blacktip reef sharks in shallow bays, and coral that's rebounded in areas under protection.
 

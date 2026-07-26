@@ -46,7 +46,7 @@ Tongyeong is often called the "Naples of the East" for its island-studded coastl
 
 ## Getting There
 
-The station sits at 910-2 Yeong-un-ri, Sanyang-eup, on the southern edge of Tongyeong city, a short taxi or bus ride from the downtown ferry terminal and ttongdongpalve of Jungang Market. There's no subway in Tongyeong (it's a coastal city, not connected to Korea's rail network), so most visitors arrive by intercity bus from Busan (roughly 2 hours) or Seoul (around 4.5 hours) to Tongyeong Bus Terminal, then take a local bus or taxi (about 15–20 minutes) to the cable car base station. Drivers can use on-site parking, which fills up quickly on weekends and holidays.
+The station sits at 910-2 Yeong-un-ri, Sanyang-eup, on the southern edge of Tongyeong city, a short taxi or bus ride from the downtown ferry terminal and Jungang Market. There's no subway in Tongyeong (it's a coastal city, not connected to Korea's rail network), so most visitors arrive by intercity bus from Busan (roughly 2 hours) or Seoul (around 4.5 hours) to Tongyeong Bus Terminal, then take a local bus or taxi (about 15–20 minutes) to the cable car base station. Drivers can use on-site parking, which fills up quickly on weekends and holidays.
 
 ## What to See and Do
 

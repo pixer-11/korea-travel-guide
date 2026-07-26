@@ -46,7 +46,7 @@ Dhayah Fort is the last hill fort standing in the UAE — most of the country's 
 
 ## Getting there
 
-Dhayah Fort is roughly 30-40 km north of Ras Al Khaimah city, near the town of Ar Rams, on the road toward the Musandam border. There's no metro or public rail in RAK, so the practical options are a rental car, taxi, or organized tour — a car is easiest since the site sits just off the main coastal highway with a small parking area at the base of the hill. Most visitors combine it with a loop up the northern RAK coast, pairing it with nearby Al Rams's fishing harbor or the drive toward Musandam and Jebel Jais. Signage at the base marks the start of the path up.
+Dhayah Fort is roughly 30-40 km north of Ras Al Khaimah city, near the town of Ar Rams, on the road toward the Musandam border. There's no metro or public rail in RAK, so the practical options are a rental car, taxi, or organized tour — a car is easiest since the site sits just off the main coastal highway with a small parking area at the base of the hill. Most visitors combine it with a loop up the northern RAK coast, pairing it with the fishing harbor at nearby Ar Rams or the drive toward Musandam and Jebel Jais. Signage at the base marks the start of the path up.
 
 ## What to see
 

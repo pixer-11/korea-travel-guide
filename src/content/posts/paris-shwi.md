@@ -40,7 +40,7 @@ Shwi sits along the Canal Saint-Martin, the tree-lined waterway that cuts throug
 
 ## What to set expectations for
 
-The headline dish is Lebanese grilled chicken — shawarma-adjacent, spit- or grill-cooked chicken that draws on the same Levantine street-food tradition Kubri built its name on, typically dressed with garlic sauce, pickles, and flatbread in the region's classic style. Beyond that, specifics on the rest of the menu, pricing, and portion formats haven't been locked down here, and menus at fast-moving new openings shift in the first months, so treat any secondhand price or dish list you see online as provisional. What's more reliable: this is a street-food-format spot, meaning quick service, likely a mix of counter seating and takeaway, and a focus on doing one thing — the grilled chicken — very well rather than offering an extensive menu.
+The headline dish is Lebanese grilled chicken — shawarma-adjacent, spit- or grill-cooked chicken that draws on the same Levantine street-food tradition Kubri built its name on, a style classically dressed with garlic sauce, pickles, and flatbread — though confirm on the day exactly how Shwi itself plates it. Beyond that, specifics on the rest of the menu, pricing, and portion formats haven't been locked down here, and menus at fast-moving new openings shift in the first months, so treat any secondhand price or dish list you see online as provisional. What's more reliable: this is a street-food-format spot, meaning quick service, likely a mix of counter seating and takeaway, and a focus on doing one thing — the grilled chicken — very well rather than offering an extensive menu.
 
 ## When to go
 

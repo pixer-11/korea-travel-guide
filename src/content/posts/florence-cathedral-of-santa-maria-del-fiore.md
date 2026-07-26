@@ -88,7 +88,7 @@ Next door, Giotto's Campanile (bell tower, begun 1334) offers a comparable view 
 
 ## When to go
 
-Early morning, right at the 8:15am opening for the cathedral, or after 4pm, offers the calmest visit — the piazza fills with tour groups by mid-morning and stays busy through the afternoon. Spring (April–May) and fall (September–October) bring mild weather without August's heat, when the dome climb in particular gets stuffy and airless. Avoid climbing right after rain if you can — the stone steps get slick.
+Early morning, right at the cathedral's opening (8:15am in recent seasons — confirm times on the official Duomo site), or after 4pm, offers the calmest visit — the piazza fills with tour groups by mid-morning and stays busy through the afternoon. Spring (April–May) and fall (September–October) bring mild weather without August's heat, when the dome climb in particular gets stuffy and airless. Avoid climbing right after rain if you can — the stone steps get slick.
 
 ## Nearby & tips
 

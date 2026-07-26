@@ -51,7 +51,7 @@ The address is Jl. Progo No.16, Citarum, Kecamatan Bandung Wetan, Kota Bandung, 
 
 ## What to eat
 
-The menu bridges two worlds deliberately. For Indonesian classics, look for nasi goreng, rendang, and soto — dishes that anchor the "comfort food" reputation. On the Western side, expect pasta, sandwiches, and burgers aimed at brunch-and-lunch crowds. The crepes (both sweet and savory) are a signature item worth ordering alongside one of the fresh fruit juices or espresso drinks — the combination of café-style drinks with a full restaurant menu is part of what makes this a popular all-day spot rather than just a breakfast stop. Portions and pricing sit in the mid-range (price level 2), so expect a casual-restaurant tab rather than street-food prices, but nothing approaching fine dining.
+The menu bridges two worlds deliberately. For Indonesian classics, look for nasi goreng, rendang, and soto — dishes that anchor the "comfort food" reputation. On the Western side, expect pasta, sandwiches, and burgers aimed at brunch-and-lunch crowds. The crepes (both sweet and savory) are a signature item worth ordering alongside one of the fresh fruit juices or espresso drinks — the combination of café-style drinks with a full restaurant menu is part of what makes this a popular all-day spot rather than just a breakfast stop. Portions and pricing sit comfortably in the mid-range, so expect a casual-restaurant tab rather than street-food prices, but nothing approaching fine dining.
 
 ## Atmosphere and setting
 
@@ -59,7 +59,7 @@ The draw beyond the food is the space itself: a converted house with a garden pa
 
 ## When to go
 
-Bandung's dry season (roughly April through October) makes outdoor patio seating more comfortable and reliable; the wet season (November–March) brings afternoon downpours that can push everyone indoors or delay plans. Within the day, mornings (before 11 am) and mid-afternoons (2–4 pm) tend to be calmer than the peak lunch rush (12–1:30 pm) or weekend brunch hours, when the popularity reflected in its review count becomes very visible in wait times.
+Bandung's dry season (roughly April through October) makes outdoor patio seating more comfortable and reliable; the wet season (November–March) brings afternoon downpours that can push everyone indoors or delay plans. Within the day, mornings (before 11 am or so) and mid-afternoons (roughly 2–4 pm) tend to be calmer than the usual lunch rush (around 12–1:30 pm) or weekend brunch hours — patterns shift, so treat these windows as a rough guide rather than a guarantee, when the popularity reflected in its review count becomes very visible in wait times.
 
 ## How to visit like a local
 

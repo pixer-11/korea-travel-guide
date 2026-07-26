@@ -75,11 +75,11 @@ Expect a menu built around central Vietnamese classics rather than a narrowly th
 - **Fresh seafood** – given the riverside/coastal setting, grilled or steamed fish, clams, and shrimp dishes are a strong bet; look for daily catch boards or ask staff what came in that morning.
 - **Grilled meats and hot pot-style shared plates**, which suit the restaurant's clearly group-and-family-oriented format.
 
-Price level sits in the moderate range (roughly $$ on the standard scale) — comfortable for a full meal with drinks without hitting high-end tourist-restaurant prices. As with most volatile pricing details, treat exact menu prices as approximate and confirm on-site, since seafood pricing especially can shift with market rates.
+Prices sit in the moderate range — comfortable for a full meal with drinks without hitting high-end tourist-restaurant prices. As with most volatile pricing details, treat exact menu prices as approximate and confirm on-site, since seafood pricing especially can shift with market rates.
 
 ## When to Go
 
-Da Nang's dry season, roughly February through August, is the easiest time to enjoy the riverside setting before or after dinner, with April–August also bringing the warmest, most swimmable beach weather. Evenings are the better call here: Bạch Đằng comes alive after dark when the Dragon Bridge is lit and, on weekend nights, breathes fire (typically around 9pm). Aim to arrive by 5:30–6:30pm to get seated comfortably before the dinner peak, especially if visiting as a larger group, since a restaurant with this review volume and rating routinely fills up.
+Da Nang's dry season, roughly February through August, is the easiest time to enjoy the riverside setting before or after dinner, with April–August also bringing the warmest, most swimmable beach weather. Evenings are the better call here: Bạch Đằng comes alive after dark when the Dragon Bridge is lit and, on weekend nights, breathes fire (in recent years typically around 9pm — confirm the current show schedule locally). Aiming to arrive somewhere around 5:30–6:30pm usually gets you seated comfortably before the dinner peak, especially if visiting as a larger group, since a restaurant with this review volume and rating routinely fills up.
 
 ## Nearby & Tips
 

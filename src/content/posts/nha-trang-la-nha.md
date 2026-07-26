@@ -73,7 +73,7 @@ Price level is moderate for Nha Trang — not a budget street stall, but far fro
 
 ## When to go
 
-Dinner is the main draw, and the restaurant fills up quickly between 6:30 and 8:30pm, especially on weekends when both local families and traveling groups converge. Arriving right at opening for dinner, or going for a slightly earlier meal around 5:30-6pm, is the easiest way to avoid a wait for a table, particularly if your group is larger than four. Nha Trang's dry season (roughly February through August) is the most comfortable stretch for evenings out generally, but Là Nhà itself is an indoor/covered venue, so it's a solid choice regardless of weather, including during the wetter months later in the year.
+Dinner is the main draw, and the restaurant tends to fill up quickly, usually somewhere between 6:30 and 8:30pm, especially on weekends when both local families and traveling groups converge. Arriving right at opening for dinner, or going for a slightly earlier meal around 5:30-6pm, is usually the easiest way to avoid a wait for a table, particularly if your group is larger than four. Nha Trang's dry season (roughly February through August) is the most comfortable stretch for evenings out generally, but Là Nhà itself is an indoor/covered venue, so it's a solid choice regardless of weather, including during the wetter months later in the year.
 
 ## Nearby & tips
 
