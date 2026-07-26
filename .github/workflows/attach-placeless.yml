@@ -4,11 +4,11 @@ name: attach-placeless-photos
 # (name-match guarded). Runs right AFTER venue-photos, reusing whatever daily Places
 # quota is left, capped so the daily publish keeps headroom. Resumable, stops on 429.
 on:
-  schedule:
-    - cron: '25 8 * * *'   # 17:25 KST — after venue-photos (17:05), before publish
+  # schedule: (DISABLED 2026-07-26 — Google photos are billing-blocked; these crons only burned the hidden daily quota that the morning publish needs. Alt-photo pipeline replaces them. Dispatch still works.)
+    #- cron: '25 8 * * *'   # 17:25 KST — after venue-photos (17:05), before publish
     # Safety net for GitHub's scheduled-run delays/drops (see venue-photos.yml).
     # Idempotent + quota-capped, so a second run simply continues the backlog.
-    - cron: '55 12 * * *'  # 21:55 KST
+    #- cron: '55 12 * * *'  # 21:55 KST
   workflow_dispatch:
     inputs:
       limit:
