@@ -42,6 +42,15 @@ if (existsSync('data/visual-audit.json')) {
     }
   } catch {}
 }
+// The WEEKLY full-content audit's image failures feed the fix queue too — user
+// caught live posts (Cure Bali rice terrace, Pak Gula sunset) that the old list
+// missed because this wiring didn't exist.
+if (existsSync('data/full-audit.json')) {
+  try {
+    const fa = JSON.parse(readFileSync('data/full-audit.json', 'utf8'));
+    for (const r of fa.results ?? []) if (r.image && r.slug) vmismatch.add(r.slug);
+  } catch {}
+}
 
 const used = await loadUsedImageUrls(POSTS);
 const files = (await readdir(POSTS)).filter((f) => f.endsWith('.md'));
