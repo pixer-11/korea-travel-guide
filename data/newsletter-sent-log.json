@@ -10,6 +10,36 @@
       "istanbul-sen-den-restaurant",
       "seoul-london-bagel-museum",
       "ho-chi-minh-city-tonkin-specialty-coffee",
+      "hue-maison-trang",
+      "hanoi-hong-hoai-s-restaurant",
+      "phuket-cafe-phuket-viewpoint",
+      "phuket-day-night-of-phuket",
+      "chiang-mai-garden-to-table-chiangmai",
+      "krabi-kodam-kitchen-branch-1"
+    ],
+    "events": [
+      "chicago-illinois-lollapalooza-2026",
+      "singapore-mamamoo-concert",
+      "bangkok-f-forever-concert-2026-bangkok",
+      "nice-finish-various-french-stages-tour-de-france-femmes-avec-zwift",
+      "paris-saint-denis-european-aquatics-championships",
+      "yokohama-babymonster-choom-world-tour-japan-yokohama-leg",
+      "dubai-def-leppard-live",
+      "incheon-incheon-pentaport-rock-festival-2026",
+      "shanghai-chinajoy"
+    ]
+  },
+  "__global__:ko": {
+    "posts": [
+      "gyeongju-cafe-arae-heon",
+      "madrid-el-campero-madrid",
+      "dubai-al-khayma-heritage-restaurant",
+      "little-india-former-house-of-tan-teng-niah",
+      "surabaya-blue-doors-surabaya",
+      "yogyakarta-the-tree-restaurant-yogyakarta",
+      "istanbul-sen-den-restaurant",
+      "seoul-london-bagel-museum",
+      "ho-chi-minh-city-tonkin-specialty-coffee",
       "hue-maison-trang"
     ],
     "events": [
@@ -19,20 +49,6 @@
       "nice-finish-various-french-stages-tour-de-france-femmes-avec-zwift",
       "paris-saint-denis-european-aquatics-championships",
       "yokohama-babymonster-choom-world-tour-japan-yokohama-leg"
-    ]
-  },
-  "__global__:ko": {
-    "posts": [
-      "gyeongju-cafe-arae-heon",
-      "madrid-el-campero-madrid",
-      "dubai-al-khayma-heritage-restaurant",
-      "little-india-former-house-of-tan-teng-niah",
-      "surabaya-blue-doors-surabaya"
-    ],
-    "events": [
-      "chicago-illinois-lollapalooza-2026",
-      "singapore-mamamoo-concert",
-      "bangkok-f-forever-concert-2026-bangkok"
     ]
   }
 }
