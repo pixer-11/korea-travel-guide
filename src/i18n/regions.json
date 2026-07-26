@@ -3691,5 +3691,405 @@
       "getting": "La mayoría de los viajeros llegan a través del Aeropuerto de Málaga-Costa del Sol (AGP), uno de los más concurridos de España, conectado con el centro por la línea de cercanías C1 de Renfe, que va directamente desde el aeropuerto hasta Málaga María Zambrano (el principal nudo ferroviario para los trenes AVE de alta velocidad) y continúa hasta Málaga Centro-Alameda, cerca del casco antiguo, en unos 10-15 minutos. Desde María Zambrano, los trenes de alta velocidad y regionales conectan con Madrid, Sevilla, Córdoba y otros destinos, mientras que los autobuses de la estación contigua dan servicio al resto de la Costa del Sol.",
       "days": "Calcula unos 2-3 días para disfrutar con calma del casco antiguo, la catedral, la Alcazaba y los museos, y añade algo más de tiempo si piensas usar Málaga como base para excursiones de un día por la costa."
     }
+  },
+  "Agra": {
+    "en": {
+      "blurb": "Agra is defined by the Taj Mahal, the marble mausoleum that draws visitors from around the world, but its skyline of red sandstone forts and tombs reflects centuries as a seat of Mughal power. Beyond the icon, the city's medieval lanes, bazaars, and nearby Fatehpur Sikri make it one of India's densest concentrations of Mughal-era architecture.",
+      "getting": "Agra has its own domestic airport, Agra Airport (AGR/Kheria), though most travellers instead arrive by train into Agra Cantt (AGC), the city's main railway station on the Delhi–Chennai line, with frequent services from Delhi taking roughly ~2-5 hours depending on the train. Road transport from Delhi via the expressway is also common for those visiting on a day trip.",
+      "days": "undefined"
+    },
+    "ko": {
+      "blurb": "아그라 하면 단연 타지마할이다. 세계 각지에서 찾아오는 이들의 발길을 끄는 이 대리석 영묘가 도시의 상징이지만, 붉은 사암으로 지어진 성채와 무덤들이 늘어선 스카이라인은 무굴 제국 권력의 중심지였던 수 세기의 역사를 고스란히 담고 있다. 이 대표 명소를 넘어서면, 중세의 골목길과 시장, 그리고 인근의 파테푸르 시크리까지 더해져 아그라는 인도에서 무굴 시대 건축이 가장 밀집된 지역 중 하나로 손꼽힌다.",
+      "getting": "아그라에는 자체 국내선 공항인 아그라 공항(AGR/케리아)이 있지만, 대다수의 여행자는 델리-첸나이 노선의 주요 기차역인 아그라 칸트(AGC)를 통해 기차로 도착하는 편을 택한다. 델리에서 출발하는 열차편이 자주 운행되며, 기차 종류에 따라 소요 시간은 약 2~5시간 정도다. 당일치기로 방문하는 여행자들 사이에서는 고속도로를 이용해 델리에서 육로로 이동하는 방법도 흔히 쓰인다.",
+      "days": "정보 없음"
+    },
+    "ja": {
+      "blurb": "アグラといえば、世界中から観光客を惹きつける大理石の霊廟、タージ・マハルの街として知られている。しかし、赤砂岩造りの城塞や廟が連なるスカイラインは、ムガル帝国の権力の中枢として栄えた幾世紀もの歴史を物語っている。この象徴的な建造物だけでなく、中世さながらの路地やバザール、さらに近郊のファテープル・シークリーも相まって、アグラはインド国内でもムガル時代の建築が最も密集した都市の一つとなっている。",
+      "getting": "アグラには独自の国内線空港、アグラ空港(AGR/ケリア)があるが、多くの旅行者はデリー・チェンナイ線の主要駅であるアグラ・カント駅(AGC)まで列車で訪れることを選んでいる。デリーからは頻繁に列車が運行しており、所要時間は列車の種類によって約2〜5時間ほどとなる。日帰り旅行の場合は、高速道路を利用してデリーから陸路で向かう方法もよく利用されている。",
+      "days": "情報なし"
+    },
+    "es": {
+      "blurb": "Agra se define por el Taj Mahal, el mausoleo de mármol que atrae a visitantes de todo el mundo, pero su perfil urbano de fuertes y tumbas de arenisca roja refleja siglos como sede del poder mogol. Más allá de este ícono, los callejones medievales de la ciudad, sus bazares y la cercana Fatehpur Sikri hacen de Agra una de las mayores concentraciones de arquitectura mogol de toda la India.",
+      "getting": "Agra cuenta con su propio aeropuerto doméstico, el Aeropuerto de Agra (AGR/Kheria), aunque la mayoría de los viajeros prefiere llegar en tren hasta Agra Cantt (AGC), la principal estación ferroviaria de la ciudad en la línea Delhi–Chennai, con frecuentes servicios desde Delhi que toman entre 2 y 5 horas aproximadamente, según el tren. El transporte por carretera desde Delhi a través de la autopista también es una opción común para quienes visitan la ciudad en una excursión de un día.",
+      "days": "No disponible"
+    },
+    "zh": {
+      "blurb": "提到阿格拉,人们首先想到的是泰姬陵——这座吸引着世界各地游客的大理石陵墓,但城中那由红砂岩城堡与陵墓构成的天际线,同样见证了这里作为莫卧儿帝国权力中心的数百年历史。除了这一标志性景观外,城内的中世纪街巷、集市,以及附近的法泰赫普尔西克里,共同使阿格拉成为印度莫卧儿时期建筑最为密集的地区之一。",
+      "getting": "阿格拉拥有自己的国内机场——阿格拉机场(AGR/凯里亚),不过大多数旅行者更倾向于乘火车抵达阿格拉军营站(AGC),这是位于德里—金奈铁路线上的该市主要火车站。从德里出发的列车班次频繁,车程根据车次不同约需2至5小时。对于当日往返的游客来说,经高速公路从德里自驾或乘车前往也是常见的选择。",
+      "days": "暂无信息"
+    }
+  },
+  "Ankara": {
+    "en": {
+      "blurb": "As Turkey's purpose-built capital, Ankara trades Istanbul's postcard skyline for the business of governing a nation — a hilltop Hittite-era citadel, the sober monumental mausoleum of Atatürk, and a superb museum of Anatolian civilizations sit alongside ministries and embassies. It's a working city more than a tourist showcase, which makes its layered history feel refreshingly unpolished.",
+      "getting": "Most travellers arrive via Esenboğa Airport (ESB), located roughly 30km north of the centre, from which <cite index=\"15-4,15-5,15-6,15-8\">bus line 442 runs between the airport and Ankara, operated by Ankara EGO Genel Müdürlügü, taking approximately 60 minutes</cite> to reach stops like Ulus and Kızılay; a Havaş shuttle and taxis are also available. Ankara is likewise a key stop on Turkey's high-speed rail network, with direct services connecting it to Istanbul and other major cities.",
+      "days": "~1-2 days is enough to cover the citadel, Anıtkabir, and the Museum of Anatolian Civilizations, the city's core highlights."
+    },
+    "ko": {
+      "blurb": "터키의 계획도시 수도 앙카라는 이스탄불의 그림 같은 스카이라인 대신 한 나라를 다스리는 실무의 얼굴을 보여준다. 언덕 위에 자리한 히타이트 시대의 성채, 아타튀르크의 장중한 영묘, 그리고 훌륭한 아나톨리아 문명 박물관이 각국 대사관과 정부 부처들 사이에 자연스럽게 자리 잡고 있다. 관광지라기보다는 실제로 돌아가는 도시이기에, 겹겹이 쌓인 역사가 오히려 꾸밈없이 생생하게 다가온다.",
+      "getting": "대부분의 여행객은 시내 북쪽 약 30km에 위치한 에센보아 공항(ESB)을 통해 앙카라에 도착한다. 앙카라 EGO 일반이사회(EGO Genel Müdürlüğü)가 운영하는 442번 버스가 공항과 시내를 오가며, 울루스나 클즐라이 같은 정류장까지 약 60분이 소요된다. 하바쉬(Havaş) 셔틀버스와 택시도 이용할 수 있다. 앙카라는 터키 고속철도망의 주요 거점이기도 해서, 이스탄불을 비롯한 주요 도시들과 직행 열차로 연결된다.",
+      "days": "성채, 아느트카비르(Anıtkabir), 아나톨리아 문명 박물관 등 앙카라의 핵심 명소를 둘러보는 데는 1~2일이면 충분하다."
+    },
+    "ja": {
+      "blurb": "トルコの計画首都アンカラは、イスタンブールの絵葉書のような美しい街並みの代わりに、国家統治という現実の姿を見せてくれる。丘の上にそびえるヒッタイト時代の城塞、アタテュルクの荘厳な霊廟、そして見応えのあるアナトリア文明博物館が、各国大使館や省庁と隣り合って並ぶ。観光地というより「働く街」であるからこそ、幾重にも積み重なった歴史がかえって飾らない魅力を放っている。",
+      "getting": "多くの旅行者は、市中心部から北へ約30kmに位置するエセンボア空港(ESB)を利用してアンカラに到着する。空港とアンカラ市内を結ぶ442番バス(アンカラEGO一般理事会運営)は、ウルスやクズライといった停留所まで約60分で結んでいる。ハヴァシュ社のシャトルバスやタクシーも利用可能だ。アンカラはまた、トルコの高速鉄道網における重要な拠点でもあり、イスタンブールをはじめとする主要都市と直行便で結ばれている。",
+      "days": "城塞、アヌトゥカビル(アタテュルク廟)、アナトリア文明博物館というアンカラの主要な見どころを巡るには、1〜2日あれば十分だ。"
+    },
+    "es": {
+      "blurb": "Como capital planificada de Turquía, Ankara cambia el perfil urbano de postal de Estambul por el trajín de gobernar una nación: una ciudadela hitita en lo alto de una colina, el solemne mausoleo monumental de Atatürk y un magnífico museo de las civilizaciones de Anatolia conviven junto a ministerios y embajadas. Es una ciudad que trabaja más que una ciudad que posa para el turista, y eso hace que su historia en capas se sienta refrescantemente auténtica, sin pulir.",
+      "getting": "La mayoría de los viajeros llegan por el aeropuerto de Esenboğa (ESB), situado a unos 30 km al norte del centro. Desde allí, la línea de autobús 442, operada por Ankara EGO Genel Müdürlüğü, conecta el aeropuerto con la ciudad en aproximadamente 60 minutos, llegando a paradas como Ulus y Kızılay; también hay disponibles un shuttle de Havaş y taxis. Ankara es además una parada clave en la red ferroviaria de alta velocidad de Turquía, con servicios directos que la conectan con Estambul y otras grandes ciudades.",
+      "days": "Con 1 o 2 días es suficiente para recorrer la ciudadela, el Anıtkabir y el Museo de las Civilizaciones de Anatolia, los principales atractivos de la ciudad."
+    },
+    "zh": {
+      "blurb": "作为土耳其一手规划的首都,安卡拉没有伊斯坦布尔那般如明信片般的天际线,取而代之的是治理一个国家的实务气息——山顶的赫梯时代城堡、庄严肃穆的阿塔图尔克陵墓,以及一座出色的安纳托利亚文明博物馆,与各国使馆和政府部委比邻而立。这里更像一座实实在在运转的城市,而非旅游展示窗口,这反而让它层层叠叠的历史显得格外真实、不加雕琢。",
+      "getting": "大多数游客通过位于市中心以北约30公里的埃森博阿机场(ESB)抵达安卡拉。由安卡拉EGO总局(Ankara EGO Genel Müdürlüğü)运营的442路公交车往返机场与市区之间,车程约60分钟,可抵达乌鲁斯(Ulus)、克孜勒艾(Kızılay)等站点;此外也可选择Havaş机场巴士或出租车。安卡拉同时也是土耳其高速铁路网的重要枢纽,有直达列车连接伊斯坦布尔等主要城市。",
+      "days": "用1到2天时间即可游览城堡、阿尼特卡比尔陵墓(Anıtkabir)和安纳托利亚文明博物馆这几处安卡拉的核心景点。"
+    }
+  },
+  "Bengaluru": {
+    "en": {
+      "blurb": "Bengaluru, India's \"Garden City\" turned tech powerhouse, blends leafy colonial-era parks and boulevards with the glass towers and startup energy of the country's IT capital. Spread across a high plateau in Karnataka, it offers a temperate climate that's rare among Indian metros, along with a buzzing mix of pubs, tech campuses, and heritage sites.",
+      "getting": "Most travellers arrive via Kempegowda International Airport (BLR), located roughly 35-40 km north of the city centre, with the journey by taxi, ride-hailing app, or BMTC airport bus typically taking ~1-2 hours depending on traffic. By train, the main hub is KSR Bengaluru City Junction (station code SBC), well connected to major Indian cities, from where the city centre is a short local taxi or auto-rickshaw ride away.",
+      "days": "Plan on ~2-3 days to cover Bengaluru's core sights, gardens, and markets, or extend to ~4-5 days to add day trips to nearby heritage towns and tech-hub neighbourhoods."
+    },
+    "ko": {
+      "blurb": "인도의 '가든 시티'에서 기술 강국으로 변모한 벵갈루루는 식민지 시대의 푸르른 공원과 대로, 그리고 인도 IT 수도를 상징하는 유리 마천루와 스타트업의 활기가 공존하는 도시입니다. 카르나타카주의 고원 지대에 자리한 덕분에 인도 대도시치고는 드물게 온화한 기후를 자랑하며, 펍 문화와 첨단 기술 캠퍼스, 유서 깊은 유적지가 어우러진 다채로운 매력을 선사합니다.",
+      "getting": "대부분의 여행객은 도심에서 북쪽으로 약 35~40km 떨어진 켐페고우다 국제공항(BLR)을 통해 벵갈루루에 도착합니다. 택시나 차량 호출 앱, 또는 BMTC 공항버스를 이용하면 교통 상황에 따라 보통 1~2시간 정도 소요됩니다. 기차로 이동할 경우 주요 관문은 KSR 벵갈루루 시티 정션(역 코드 SBC)으로, 인도 주요 도시들과 잘 연결되어 있으며 여기서 시내 중심가까지는 택시나 오토릭샤로 잠깐이면 갈 수 있습니다.",
+      "days": "벵갈루루의 주요 명소와 정원, 시장을 둘러보려면 2~3일 정도를 계획하시고, 근교의 유서 깊은 마을이나 IT 허브 지역으로 당일치기 여행을 더하고 싶다면 4~5일로 일정을 늘려보세요."
+    },
+    "ja": {
+      "blurb": "インドの「ガーデンシティ」からハイテク都市へと変貌を遂げたベンガルールは、緑豊かな植民地時代の公園や並木道と、インドIT産業の中心地らしいガラス張りの高層ビル群やスタートアップの活気が融合する街です。カルナータカ州の高原地帯に位置するため、インドの大都市としては珍しく温暖な気候に恵まれ、賑やかなパブ文化、先端技術キャンパス、そして歴史ある名所が入り混じる独特の魅力を放っています。",
+      "getting": "多くの旅行者は、市街地から北へ約35〜40kmに位置するケンペゴウダ国際空港(BLR)を利用して到着します。タクシーや配車アプリ、BMTC空港バスを利用する場合、交通状況にもよりますが所要時間はおおむね1〜2時間です。鉄道の場合、主要な玄関口はKSRベンガルール・シティ・ジャンクション(駅コード:SBC)で、インドの主要都市と広く接続されており、そこから市街地まではタクシーやオートリキシャですぐです。",
+      "days": "ベンガルール中心部の見どころや庭園、市場を巡るには2〜3日ほど見ておくとよいでしょう。近郊の歴史ある町やハイテク産業エリアへの日帰り旅行を加える場合は、4〜5日程度に延ばすのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Bengaluru, la antigua «Ciudad Jardín» de la India convertida en potencia tecnológica, combina parques y bulevares frondosos de la época colonial con las torres de cristal y la energía emprendedora de la capital informática del país. Situada sobre una meseta elevada en Karnataka, disfruta de un clima templado poco común entre las grandes urbes indias, además de una animada mezcla de pubs, campus tecnológicos y sitios de gran valor patrimonial.",
+      "getting": "La mayoría de los viajeros llegan por el Aeropuerto Internacional Kempegowda (BLR), situado unos 35-40 km al norte del centro de la ciudad; el trayecto en taxi, app de transporte o el autobús aeroportuario BMTC suele tomar entre 1 y 2 horas, según el tráfico. Por tren, el principal punto de acceso es la estación KSR Bengaluru City Junction (código SBC), bien conectada con las principales ciudades de la India, desde donde se llega al centro en un breve trayecto en taxi o auto-rickshaw.",
+      "days": "Se recomiendan entre 2 y 3 días para recorrer los principales atractivos, jardines y mercados de Bengaluru, o ampliar la estancia a 4-5 días si se desea incluir excursiones de un día a pueblos históricos cercanos y a los barrios tecnológicos de la ciudad."
+    },
+    "zh": {
+      "blurb": "班加罗尔曾是印度的“花园城市”,如今已蜕变为科技重镇,殖民时代遗留的绿荫公园与林荫大道,与代表印度IT之都的玻璃幕墙高楼和创业活力交相辉映。城市坐落在卡纳塔克邦的高原之上,气候温和宜人,在印度各大都市中实属难得,再加上热闹的酒吧文化、林立的科技园区和底蕴深厚的历史古迹,共同勾勒出这座城市的独特魅力。",
+      "getting": "大多数旅客经由肯佩戈达国际机场(BLR)抵达班加罗尔,该机场位于市中心以北约35-40公里处;乘坐出租车、网约车或BMTC机场大巴前往市区,视路况而定通常需要1-2小时。若乘火车抵达,主要枢纽为班加罗尔城市总站(KSR Bengaluru City Junction,站点代码SBC),与印度各大城市连接便利,从车站打车或乘嘟嘟车(auto-rickshaw)即可轻松到达市中心。",
+      "days": "游览班加罗尔的核心景点、花园和市场,建议安排2-3天;若想再增加前往附近历史古镇和科技园区的一日游,则可将行程延长至4-5天。"
+    }
+  },
+  "Bilbao": {
+    "en": {
+      "blurb": "undefined",
+      "getting": "undefined",
+      "days": "undefined"
+    },
+    "ko": {
+      "blurb": "빌바오는 구겐하임 미술관의 반짝이는 티타늄 곡선과 바스크 지방 특유의 정겨운 매력이 만나는 도시입니다. 필모어 대로를 따라 걷다 보면 미식의 도시로 명성을 얻은 이유를 금세 깨닫게 되고, 네르비온 강변의 산책로는 도시의 과거 산업 유산과 현재의 세련된 감각을 자연스럽게 이어줍니다.",
+      "getting": "빌바오 공항(BIO)은 시내 중심에서 약 12km 떨어져 있으며, 비즈크라이(Bizkaibus) A3247번 셔틀버스를 이용하면 약 30분 만에 모유아 광장까지 이동할 수 있습니다. 택시로는 20분 정도 소요되며, 유럽 주요 도시에서 오는 경우 고속열차나 장거리 버스로 시내 중심부의 아반도역이나 산 마메스 버스터미널에 바로 도착할 수도 있습니다.",
+      "days": "빌바오에서의 완벽한 하루는 구겐하임 미술관에서 시작해 아바스토스 시장에서 신선한 페르칠(핀초스)을 맛보고, 카스코 비에호(구시가지)의 좁은 골목을 거닐며 마무리하는 코스를 추천합니다. 저녁에는 리베라 시장 근처에서 현지인들과 함께 하는 핀초 순례가 이 도시를 제대로 느끼는 가장 좋은 방법입니다."
+    },
+    "ja": {
+      "blurb": "ビルバオは、グッゲンハイム美術館の輝くチタンの曲線美と、バスク地方ならではの温かみのある魅力が共存する街です。フィモ大通りを歩けば、この街が美食都市として名を馳せる理由がすぐに分かりますし、ネルビオン川沿いの遊歩道は、かつての工業都市としての面影と、洗練された現在の姿を自然な形でつないでくれます。",
+      "getting": "ビルバオ空港(BIO)は市内中心部から約12kmの場所にあり、ビスカイバス(Bizkaibus)A3247番のシャトルバスを利用すればモユア広場まで約30分で到着します。タクシーなら約20分ほど。ヨーロッパの主要都市からは、高速鉄道や長距離バスで市内中心部のアバンド駅やサンマメス・バスターミナルに直接アクセスすることもできます。",
+      "days": "ビルバオでの理想的な一日は、グッゲンハイム美術館からスタートし、リベラ市場で新鮮なピンチョスを味わい、旧市街(カスコ・ビエホ)の細い路地をのんびり散策して締めくくるのがおすすめです。夜になったらリベラ市場周辺で地元の人々に混じってピンチョス巡りをすれば、この街の本当の魅力を肌で感じられるはずです。"
+    },
+    "es": {
+      "blurb": "Bilbao es una ciudad donde las curvas relucientes de titanio del Museo Guggenheim conviven con el encanto entrañable propio del País Vasco. Basta con recorrer la Gran Vía para entender por qué esta ciudad se ha ganado su fama gastronómica, mientras que el paseo junto a la ría del Nervión conecta de forma natural su pasado industrial con su presente más sofisticado.",
+      "getting": "El aeropuerto de Bilbao (BIO) está a unos 12 km del centro, y el autobús lanzadera de Bizkaibus (línea A3247) te lleva hasta la Plaza Moyúa en apenas 30 minutos. En taxi el trayecto ronda los 20 minutos. Si vienes desde otras ciudades europeas, también puedes llegar directamente al centro en tren de alta velocidad o autobús de largo recorrido, hasta la estación de Abando o la estación de autobuses de San Mamés.",
+      "days": "Un día perfecto en Bilbao empieza en el Museo Guggenheim, sigue con unos pintxos recién hechos en el Mercado de la Ribera y termina paseando sin prisa por las callejuelas del Casco Viejo. Por la noche, unirte a los locales en un recorrido de pintxos cerca del Mercado de la Ribera es, sin duda, la mejor manera de sentir el verdadero espíritu de la ciudad."
+    },
+    "zh": {
+      "blurb": "毕尔巴鄂是一座将古根海姆博物馆闪耀的钛金属曲线与巴斯克地区独有的温暖魅力完美融合的城市。漫步在菲莫大道上，你很快就能明白这座城市为何以美食闻名；而内尔维翁河畔的滨河步道，则自然而然地将这座城市的工业历史与如今的时尚气质连接了起来。",
+      "getting": "毕尔巴鄂机场（BIO）距市中心约12公里，乘坐Bizkaibus A3247路机场巴士约30分钟即可到达莫尤阿广场；打车大约需要20分钟。如果你是从欧洲其他主要城市前来，也可以乘坐高铁或长途大巴直接抵达市中心的阿班多火车站或圣马梅斯汽车站。",
+      "days": "在毕尔巴鄂度过完美一天的方式，不妨从古根海姆博物馆开始，接着去里贝拉市场品尝新鲜的品丘思（pintxos）小吃，最后在老城区（Casco Viejo）狭窄的巷弄间悠闲漫步。到了晚上，和当地人一起在里贝拉市场附近来一场品丘思美食巡礼，绝对是感受这座城市真正魅力的最佳方式。"
+    }
+  },
+  "Goa": {
+    "en": {
+      "blurb": "Goa is India's smallest state, a former Portuguese colony where whitewashed baroque churches, spice-scented markets, and emerald paddy fields sit alongside a long stretch of Arabian Sea coastline. Its beaches shift character from lively, party-oriented stretches in the north to quieter, palm-fringed coves in the south, giving the state a dual personality that rewards a slower pace.",
+      "getting": "undefined",
+      "days": "undefined"
+    },
+    "ko": {
+      "blurb": "고아는 인도에서 가장 작은 주로, 한때 포르투갈의 식민지였던 곳입니다. 새하얀 바로크 양식 성당들과 향신료 향 가득한 시장, 에메랄드빛 논이 아라비아해를 따라 길게 펼쳐진 해안선과 어우러져 있습니다. 북부의 활기찬 파티 해변부터 남부의 야자수 그늘 드리운 한적한 만까지, 해변마다 저마다 다른 매력을 지니고 있어 여유롭게 둘러볼수록 그 진가를 느낄 수 있는 곳입니다.",
+      "getting": "undefined",
+      "days": "undefined"
+    },
+    "ja": {
+      "blurb": "ゴアはインド最小の州でありながら、かつてポルトガル領だった歴史を今に伝える場所。白亜のバロック様式の教会、スパイスの香り漂う市場、エメラルド色の水田が、アラビア海沿いに続く長い海岸線と美しく調和しています。北部は賑やかでパーティー好きにぴったりのビーチ、南部はヤシの木陰が涼しい静かな入り江と、地域によって表情が大きく変わるのも魅力。ゆったりとしたペースで巡ってこそ、その二面性の奥深さを味わえる州です。",
+      "getting": "undefined",
+      "days": "undefined"
+    },
+    "es": {
+      "blurb": "Goa es el estado más pequeño de la India, una antigua colonia portuguesa donde iglesias barrocas encaladas, mercados perfumados de especias y campos de arroz de un verde esmeralda conviven con un largo tramo de costa sobre el mar Arábigo. Sus playas cambian de carácter: animadas y volcadas a la fiesta en el norte, más tranquilas y bordeadas de palmeras en el sur. Esta doble personalidad invita a recorrerla sin prisa, para descubrir de verdad todo lo que ofrece.",
+      "getting": "undefined",
+      "days": "undefined"
+    },
+    "zh": {
+      "blurb": "果阿是印度面积最小的邦,曾是葡萄牙的殖民地。这里白墙的巴洛克教堂、香料飘香的集市与翠绿的稻田,与阿拉伯海绵长的海岸线相映成趣。北部海滩热闹奔放,是派对爱好者的天堂;南部海湾则静谧幽深,棕榈成荫。这种南北迥异的双重性格,值得你放慢脚步,细细品味。",
+      "getting": "undefined",
+      "days": "undefined"
+    }
+  },
+  "Bohol": {
+    "en": {
+      "blurb": "Bohol is the Philippine island famed for its otherworldly Chocolate Hills, saucer-eyed tarsiers, and the powder-white beaches of Panglao, all packed into a compact, easily looped landscape. It pairs laid-back diving and river-cruise scenery with some of the country's most photographed natural landmarks, making it a favorite short getaway from Cebu.",
+      "getting": "Most travellers fly directly into Bohol–Panglao International Airport (TAG), the island's main gateway, or arrive by fast ferry (~2 hours) from Cebu City's ports. Onward transfers to beaches and inland sights are typically made by taxi, van, or tricycle from the airport or Tagbilaran's port area.",
+      "days": "~3-4 days is enough to cover the highlights: a countryside loop to the Chocolate Hills and tarsier sanctuary, a Loboc River cruise, and a couple of relaxed days on Panglao's beaches or dive sites."
+    },
+    "es": {
+      "blurb": "Bohol es la isla filipina famosa por sus sobrenaturales Chocolate Hills, sus tarsiers de ojos como platos y las playas de arena blanca de Panglao, todo concentrado en un territorio compacto y fácil de recorrer. Combina un buceo relajado y paisajes de crucero fluvial con algunos de los paisajes naturales más fotografiados del país, lo que la convierte en una escapada corta favorita desde Cebú.",
+      "getting": "La mayoría de los viajeros vuelan directamente al Aeropuerto Internacional de Bohol–Panglao (TAG), la principal puerta de entrada a la isla, o llegan en ferry rápido (~2 horas) desde los puertos de Cebú. Los traslados posteriores hacia las playas y los atractivos del interior suelen hacerse en taxi, van o triciclo desde el aeropuerto o desde la zona portuaria de Tagbilaran.",
+      "days": "Con unos 3-4 días es suficiente para ver lo más destacado: un recorrido por el campo hasta las Chocolate Hills y el santuario de tarsiers, un crucero por el río Loboc y un par de días relajados en las playas o los sitios de buceo de Panglao."
+    },
+    "ja": {
+      "blurb": "ボホール島は、異世界のようなチョコレートヒルズ、つぶらな瞳のメガネザル（ターシャ）、そしてパングラオの真っ白なビーチで知られるフィリピンの島。コンパクトで周遊しやすいエリアにこれらの魅力がぎゅっと詰まっています。のんびりダイビングや川下りクルーズの景色と、フィリピン屈指のフォトジェニックな自然名所が揃い、セブからの短期旅行先として人気です。",
+      "getting": "多くの旅行者は、島の玄関口であるボホール・パングラオ国際空港（TAG）に直行便で到着するか、セブ市内の港から高速フェリー（約2時間）で渡ります。ビーチや内陸部の観光地への移動は、空港またはタグビララランの港エリアから、タクシー、バン、トライシクルを利用するのが一般的です。",
+      "days": "見どころを押さえるには3〜4日ほどあれば十分です。チョコレートヒルズとターシャ保護区を巡る田舎道ドライブ、ロボック川クルーズ、そしてパングラオのビーチやダイビングスポットでゆったり過ごす数日、という組み合わせがおすすめです。"
+    },
+    "ko": {
+      "blurb": "보홀은 신비로운 초콜릿 힐, 동그란 눈망울의 안경원숭이(타르시어), 그리고 팡라오의 새하얀 백사장으로 유명한 필리핀의 섬으로, 이 모든 매력이 아담하고 둘러보기 쉬운 지역 안에 알차게 담겨 있습니다. 여유로운 다이빙과 강 크루즈의 풍경에 더해 필리핀에서 가장 사진이 많이 찍히는 자연 명소들을 함께 즐길 수 있어, 세부에서 떠나는 짧은 여행지로 인기가 높습니다.",
+      "getting": "대부분의 여행객은 섬의 관문인 보홀-팡라오 국제공항(TAG)으로 직항편을 타고 오거나, 세부시 항구에서 쾌속 페리(약 2시간)를 이용해 도착합니다. 해변이나 내륙 관광지로의 이동은 공항이나 타그빌라란 항구 지역에서 택시, 밴, 트라이시클을 이용하는 것이 일반적입니다.",
+      "days": "핵심 명소를 둘러보기에는 약 3~4일이면 충분합니다. 초콜릿 힐과 안경원숭이 보호구역을 둘러보는 시골 투어, 로복 강 크루즈, 그리고 팡라오 해변이나 다이빙 명소에서 느긋하게 보내는 며칠이면 완벽합니다."
+    },
+    "zh": {
+      "blurb": "薄荷岛是菲律宾一座声名远扬的海岛，以奇幻般的巧克力山、圆眼萌态的眼镜猴，以及邦劳岛细白如粉的海滩闻名，所有这些精华都浓缩在一片紧凑、便于环游的区域内。这里既有悠闲的潜水和河流游船风光，又汇聚了菲律宾最上镜的自然景观，是从宿务出发的热门短途度假胜地。",
+      "getting": "大多数游客会直飞薄荷—邦劳国际机场（TAG），这是该岛的主要门户，也可以从宿务市的港口乘坐快船（约2小时）抵达。前往海滩和内陆景点的后续交通，通常是从机场或塔比拉兰港口区搭乘出租车、面包车或三轮摩托车。",
+      "days": "大约3-4天足以游览主要亮点：一趟环岛乡野之旅前往巧克力山和眼镜猴保护区、洛博克河游船，以及在邦劳岛的海滩或潜水点悠闲度过几天。"
+    }
+  },
+  "Guilin": {
+    "en": {
+      "blurb": "Guilin is southern China's iconic karst landscape hub, where jagged limestone peaks rise dramatically over the Li River and surrounding countryside. Its scenery has inspired Chinese art and poetry for centuries and remains a top draw for river cruises to Yangshuo and the wider Guangxi countryside.",
+      "getting": "Most travellers fly into Guilin Liangjiang International Airport (KWL), located <cite index=\"1-2\">about 28 km (17 mi) southwest of the city center</cite>, or arrive by high-speed rail via Guilin North Railway Station or the more central Guilin Railway Station, both connected to the <cite index=\"14-3\">Hunan Guangxi High Speed Railway and Guiyang Guangzhou High Speed Railway</cite>. From the airport or stations, buses and taxis run into the city center; onward travel to Yangshuo is typically by bus, taxi, or connecting train.",
+      "days": "Plan for ~3-4 days to cover central Guilin's karst-hill sights and a Li River cruise, with an extra day or two if extending south to Yangshuo's countryside and rural scenery."
+    },
+    "es": {
+      "blurb": "Guilin es el emblemático centro del paisaje kárstico del sur de China, donde afilados picos de piedra caliza se alzan de forma espectacular sobre el río Li y la campiña circundante. Sus paisajes han inspirado durante siglos el arte y la poesía chinos, y sigue siendo uno de los grandes atractivos para los cruceros fluviales hacia Yangshuo y el resto de la región rural de Guangxi.",
+      "getting": "La mayoría de los viajeros llega en avión al Aeropuerto Internacional de Guilin Liangjiang (KWL), situado a unos 28 km (17 mi) al suroeste del centro de la ciudad, o en tren de alta velocidad a través de la estación de Guilin Norte o la más céntrica estación de Guilin, ambas conectadas con las líneas de alta velocidad Hunan-Guangxi y Guiyang-Guangzhou. Desde el aeropuerto o las estaciones, hay autobuses y taxis que llegan al centro de la ciudad; para continuar hacia Yangshuo, lo habitual es tomar un autobús, un taxi o un tren de conexión.",
+      "days": "Se recomienda dedicar entre 3 y 4 días para recorrer los principales atractivos kársticos del centro de Guilin y hacer un crucero por el río Li, sumando uno o dos días más si se planea continuar hacia el sur, a los paisajes rurales de Yangshuo."
+    },
+    "ja": {
+      "blurb": "桂林(Guilin)は中国南部を代表するカルスト地形の拠点であり、切り立った石灰岩の峰々が漓江(Li River)や周囲の田園地帯にダイナミックにそびえ立っています。その景観は何世紀にもわたって中国の芸術や詩に影響を与えてきました。今でも陽朔(Yangshuo)や広西(Guangxi)の田舎へ向かう川下りクルーズの人気の起点として知られています。",
+      "getting": "多くの旅行者は桂林両江国際空港(KWL)を利用します。空港は市街中心部から南西へ約28km(17マイル)の場所にあります。また、高速鉄道で桂林北駅、あるいはより市街地に近い桂林駅を利用して訪れることもできます。どちらの駅も湖南広西高速鉄道および貴陽広州高速鉄道に接続しています。空港や各駅からは、バスやタクシーで市街中心部へアクセスできます。陽朔へ向かう場合は、通常バス、タクシー、または乗り継ぎの鉄道を利用します。",
+      "days": "桂林中心部のカルスト地形の観光名所と漓江クルーズを楽しむには、3〜4日ほど見ておくとよいでしょう。さらに南の陽朔の田園風景まで足を延ばす場合は、1〜2日ほど追加日程を確保することをおすすめします。"
+    },
+    "ko": {
+      "blurb": "구이린(Guilin)은 중국 남부를 대표하는 카르스트 지형의 중심지로, 날카롭게 솟은 석회암 봉우리들이 리강(Li River)과 그 주변 시골 풍경 위로 극적으로 펼쳐집니다. 이 절경은 수 세기 동안 중국의 예술과 시문학에 영감을 주었으며, 지금도 양숴(Yangshuo)와 광시(Guangxi) 지역 시골로 향하는 강 크루즈 여행의 대표적인 출발지로 손꼽힙니다.",
+      "getting": "대부분의 여행객은 구이린 량장 국제공항(KWL)을 이용해 입국합니다. 공항은 시내 중심에서 남서쪽으로 약 28km(17마일) 떨어져 있습니다. 고속철도를 이용할 경우 구이린베이역(구이린 북역)이나 시내와 더 가까운 구이린역을 이용할 수 있으며, 두 역 모두 후난-광시 고속철도 및 구이양-광저우 고속철도와 연결되어 있습니다. 공항이나 기차역에서는 버스와 택시를 이용해 시내 중심부로 이동할 수 있으며, 양숴로 이동할 때는 보통 버스, 택시 또는 환승 열차를 이용합니다.",
+      "days": "구이린 시내의 카르스트 명소와 리강 크루즈를 둘러보려면 약 3~4일 정도를 계획하는 것이 좋습니다. 남쪽으로 이동해 양숴의 전원 풍경까지 둘러보려면 하루나 이틀 정도 일정을 추가하는 것을 추천합니다."
+    },
+    "zh": {
+      "blurb": "桂林是中国南方喀斯特地貌的标志性中心,陡峭的石灰岩山峰沿漓江及周边乡野拔地而起,气势磅礴。千百年来,这里的山水风光一直是中国艺术与诗歌灵感的源泉,如今依然是前往阳朔及广西广袤乡村游船观光的热门起点。",
+      "getting": "大多数旅客乘飞机抵达桂林两江国际机场(KWL),该机场位于市中心西南约28公里(17英里)处;也可乘坐高铁,经由桂林北站或更靠近市中心的桂林站抵达,两站均与湘桂高铁及贵广高铁相连。从机场或车站出发,可乘坐大巴或出租车前往市中心;若继续前往阳朔,通常可选择大巴、出租车或转乘火车。",
+      "days": "建议安排约3至4天时间游览桂林市区的喀斯特景观并体验漓江游船;若计划继续南下前往阳朔,欣赏当地田园风光,建议再增加一到两天行程。"
+    }
+  },
+  "Kaohsiung": {
+    "en": {
+      "blurb": "Kaohsiung is Taiwan's major southern port city, blending industrial harbor grit with laid-back waterfront promenades, night markets, and a growing arts scene around the old harbor district. It's often used as a base for exploring southern Taiwan, from Kenting's beaches to the mountain temples of Tainan and beyond.",
+      "getting": "Most travellers arrive via Kaohsiung International Airport (KHH), which connects directly to the city center in ~15-20 minutes on the Kaohsiung MRT Red Line (station R4, right inside the terminal). Domestic travellers coming by rail typically arrive at Zuoying, the southern terminus of Taiwan High Speed Rail, which also links to the Kaohsiung MRT and Taiwan Railways for onward city or regional connections.",
+      "days": "Plan on ~2-3 days to cover Kaohsiung's harbor and old-town highlights, with extra time if using the city as a springboard for day trips further south."
+    },
+    "es": {
+      "blurb": "Kaohsiung es la gran ciudad portuaria del sur de Taiwán, donde conviven la energía industrial del puerto con paseos marítimos relajados, mercados nocturnos y una escena artística en auge en torno al antiguo distrito portuario. Suele usarse como base para explorar el sur de Taiwán, desde las playas de Kenting hasta los templos de montaña de Tainan y más allá.",
+      "getting": "La mayoría de los viajeros llegan por el Aeropuerto Internacional de Kaohsiung (KHH), que conecta directamente con el centro de la ciudad en unos 15-20 minutos gracias a la Línea Roja del metro de Kaohsiung (estación R4, justo dentro de la terminal). Quienes viajan en tren dentro de Taiwán suelen llegar a Zuoying, la estación terminal sur del Tren de Alta Velocidad de Taiwán, que también conecta con el metro de Kaohsiung y con Taiwan Railways para seguir viaje dentro de la ciudad o hacia otras regiones.",
+      "days": "Reserva unos 2-3 días para recorrer lo más destacado del puerto y el casco antiguo de Kaohsiung, y añade tiempo extra si usas la ciudad como punto de partida para excursiones de un día más al sur."
+    },
+    "zh": {
+      "blurb": "高雄是台湾南部的主要港口城市,兼具工业港口的粗犷气息与悠闲的滨海步道、夜市,以及围绕旧港区日渐兴盛的艺术氛围。许多旅客将高雄作为探索台湾南部的据点,从垦丁的海滩到台南的山中庙宇,行程可延伸至更远的地方。",
+      "getting": "大多数旅客经由高雄国际机场(KHH)抵达,搭乘高雄捷运红线约15-20分钟即可直达市中心(R4站就在航厦内)。搭乘台湾高铁的旅客通常会抵达高铁南端总站左营站,该站同时可转乘高雄捷运及台铁,方便继续前往市区或其他地区。",
+      "days": "建议安排2-3天游览高雄的港区与旧城区精华景点,若打算以高雄为据点前往更南边进行一日游,建议再多留些时间。"
+    },
+    "ko": {
+      "blurb": "가오슝(高雄)은 대만 남부를 대표하는 항구 도시로, 공업 항구 특유의 활기와 여유로운 해변 산책로, 야시장, 그리고 옛 항구 지구를 중심으로 성장하고 있는 예술 씬이 공존하는 곳이다. 컨딩의 해변부터 타이난의 산속 사원, 그리고 그 너머까지 대만 남부를 둘러보기 위한 거점 도시로 많이 활용된다.",
+      "getting": "대부분의 여행자는 가오슝 국제공항(KHH)을 통해 도착하며, 터미널 안에 바로 위치한 가오슝 MRT 레드라인 R4역을 이용하면 약 15~20분 만에 시내 중심부까지 직행할 수 있다. 철도로 이동하는 국내 여행자는 대만 고속철도(THSR)의 남쪽 종착역인 줘잉(左營)역에 주로 도착하며, 이곳에서 가오슝 MRT와 대만철도(台鐵)로 환승해 시내나 다른 지역으로 이동할 수 있다.",
+      "days": "가오슝의 항구와 구시가지 주요 명소를 둘러보려면 2~3일 정도를 계획하는 것이 좋으며, 더 남쪽 지역으로 당일치기 여행을 다닐 거점으로 삼는다면 추가로 시간을 더 확보하는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "高雄(カオシュン)は台湾南部を代表する港湾都市で、工業港ならではの無骨な雰囲気と、のんびりしたウォーターフロントの遊歩道、夜市、そして旧港エリアを中心に広がりつつあるアートシーンが共存している。垦丁のビーチから台南の山あいの寺院、さらにその先まで、台湾南部を巡る拠点としてもよく利用される。",
+      "getting": "多くの旅行者は高雄国際空港(KHH)から到着し、ターミナル内にある高雄MRTレッドラインのR4駅から約15~20分で市中心部まで直行できる。台湾高速鉄道(高鉄)で移動する国内旅行者は、南の終着駅である左営駅に到着することが多く、ここから高雄MRTや台湾鉄道(台鉄)に乗り換えて、市内や他地域へさらに移動できる。",
+      "days": "高雄の港エリアと旧市街の見どころを回るには2~3日程度を見ておくとよく、さらに南部への日帰り旅行の拠点として利用する場合は、その分の余裕を持たせておきたい。"
+    }
+  },
+  "Kota Kinabalu": {
+    "en": {
+      "blurb": "Kota Kinabalu is the buzzing capital of Sabah on the island of Borneo, where night markets and seafront promenades give way to some of the most famous sunsets in Southeast Asia over the South China Sea. It's best known as the launchpad for Mount Kinabalu and the coral islands of Tunku Abdul Rahman Park, making it as much a gateway to wild Borneo as a destination in itself.",
+      "getting": "Most travellers arrive via Kota Kinabalu International Airport (BKI), Sabah's main air gateway and Malaysia's second-busiest airport, located just a short ride southwest of the city centre. Overland and sea connections within Sabah typically funnel through Kota Kinabalu as the regional hub, with buses and boats linking onward to towns and islands along the coast.",
+      "days": "~2-3 days is enough to cover the city's waterfront, markets, and mosque, though most visitors extend their stay by several more days to combine it with island-hopping or a Mount Kinabalu excursion."
+    },
+    "ko": {
+      "blurb": "코타키나발루는 보르네오 섬에 위치한 사바 주의 활기찬 주도로, 야시장과 해안 산책로가 펼쳐지는 이곳에서는 남중국해 너머로 동남아시아에서 손꼽히는 아름다운 석양을 감상할 수 있습니다. 키나발루 산과 툰쿠 압둘 라만 공원의 산호섬들로 향하는 관문으로 가장 잘 알려져 있어, 야생의 보르네오로 떠나는 출발점이자 그 자체로도 매력적인 여행지입니다.",
+      "getting": "대부분의 여행객은 코타키나발루 국제공항(BKI)을 통해 입국합니다. 이곳은 사바 주의 주요 관문이자 말레이시아에서 두 번째로 붐비는 공항으로, 시내 중심에서 남서쪽으로 짧은 거리에 위치해 있습니다. 사바 주 내 육상 및 해상 교통편은 대개 지역 허브인 코타키나발루를 거쳐가며, 버스와 배편이 해안을 따라 이어지는 마을과 섬들로 연결됩니다.",
+      "days": "도심의 해안가, 시장, 모스크를 둘러보는 데는 2~3일이면 충분하지만, 대부분의 여행객은 섬 투어나 키나발루 산 등반을 함께 즐기기 위해 며칠 더 머무는 편입니다."
+    },
+    "ja": {
+      "blurb": "コタキナバルは、ボルネオ島にあるサバ州の活気あふれる州都です。ナイトマーケットや海辺の遊歩道が広がるこの街では、南シナ海に沈む東南アジア屈指の美しい夕日を眺めることができます。キナバル山やトゥンク・アブドゥル・ラーマン公園のサンゴ礁の島々への玄関口として知られ、野生のボルネオへの入り口であると同時に、それ自体が魅力的な旅の目的地でもあります。",
+      "getting": "ほとんどの旅行者はコタキナバル国際空港(BKI)を利用して到着します。ここはサバ州の主要な空の玄関口であり、マレーシアで2番目に利用者数の多い空港で、市街中心部から南西に少し行ったところに位置しています。サバ州内の陸路・海路の移動は、地域のハブであるコタキナバルを経由することが多く、バスや船で沿岸の町や島々へとつながっています。",
+      "days": "市内のウォーターフロントや市場、モスクを巡るだけなら2〜3日あれば十分ですが、多くの旅行者は島巡りやキナバル山への遠征と組み合わせるため、さらに数日滞在を延ばしています。"
+    },
+    "es": {
+      "blurb": "Kota Kinabalu es la vibrante capital de Sabah, en la isla de Borneo, donde los mercados nocturnos y los paseos frente al mar dan paso a algunos de los atardeceres más famosos del sudeste asiático sobre el mar de la China Meridional. Es conocida sobre todo como punto de partida hacia el monte Kinabalu y las islas de coral del parque Tunku Abdul Rahman, lo que la convierte tanto en la puerta de entrada al Borneo salvaje como en un destino atractivo por sí misma.",
+      "getting": "La mayoría de los viajeros llegan a través del Aeropuerto Internacional de Kota Kinabalu (BKI), la principal puerta de entrada aérea de Sabah y el segundo aeropuerto más concurrido de Malasia, ubicado a poca distancia al suroeste del centro de la ciudad. Las conexiones terrestres y marítimas dentro de Sabah suelen pasar por Kota Kinabalu como centro regional, con autobuses y barcos que enlazan con pueblos e islas a lo largo de la costa.",
+      "days": "Con unos 2-3 días es suficiente para recorrer el paseo marítimo, los mercados y la mezquita de la ciudad, aunque la mayoría de los visitantes prolonga su estancia varios días más para combinarla con una excursión por las islas o una subida al monte Kinabalu."
+    },
+    "zh": {
+      "blurb": "亚庇是婆罗洲沙巴州热闹繁华的首府,夜市与海滨大道交织,南中国海上空常常映衬出东南亚最负盛名的日落美景之一。这里最为人熟知的身份,是通往京那巴鲁山和敦拉萨公园珊瑚岛群的门户,既是探索原始婆罗洲的起点,也是一个值得停留的目的地。",
+      "getting": "大多数游客经由亚庇国际机场(BKI)抵达,这里是沙巴主要的空中门户,也是马来西亚第二繁忙的机场,距市中心西南方仅需短途车程。沙巴境内的陆路与海路交通通常都以亚庇为区域枢纽中转,巴士和船只由此通往沿海各城镇及岛屿。",
+      "days": "游览市区的海滨、市场和清真寺,2-3天时间已经足够,不过大多数游客会将行程再延长数天,以便顺道跳岛游或前往京那巴鲁山探险。"
+    }
+  },
+  "New Taipei": {
+    "en": {
+      "blurb": "New Taipei is Taiwan's largest municipality by both population and area, wrapping entirely around Taipei City in a ring that runs from riverside old streets to mountain trails and rugged coastline. Rather than one single downtown, it's a patchwork of distinct districts — from the golden-age mining town of Jiufen and lantern-lit Shifen to the historic port of Tamsui and the wind-sculpted rock formations at Yehliu.",
+      "getting": "Most travellers arrive via Taiwan Taoyuan International Airport (TPE), taking the Taoyuan Airport MRT — an express or commuter service that reaches <cite index=\"4-8\">Taipei Main Station in as little as 35 minutes</cite> via the express line, with some trains stopping directly at New Taipei Industrial Park Station within the city. From Taipei Main Station or Banqiao (New Taipei's own high-speed rail stop), onward transfers to Taipei Metro, Taiwan Railway (TRA) trains, or local buses connect to New Taipei's individual districts.",
+      "days": "undefined"
+    },
+    "es": {
+      "blurb": "Nuevo Taipéi es el municipio más grande de Taiwán tanto en población como en superficie, y rodea por completo a la ciudad de Taipéi formando un anillo que va desde antiguas calles junto al río hasta senderos de montaña y una costa escarpada. En lugar de tener un único centro urbano, se compone de un mosaico de distritos bien diferenciados: desde Jiufen, el pueblo minero de la época dorada, y Shifen, iluminado por linternas, hasta el histórico puerto de Tamsui y las formaciones rocosas esculpidas por el viento en Yehliu.",
+      "getting": "La mayoría de los viajeros llegan a través del Aeropuerto Internacional de Taiwán Taoyuan (TPE), tomando el metro del Aeropuerto de Taoyuan, un servicio exprés o de cercanías que llega a la Estación Principal de Taipéi en tan solo 35 minutos mediante la línea exprés, y algunos trenes se detienen directamente en la estación de New Taipei Industrial Park, ya dentro de la ciudad. Desde la Estación Principal de Taipéi o Banqiao (la propia estación de tren de alta velocidad de Nuevo Taipéi), los transbordos posteriores al Metro de Taipéi, los trenes de Taiwan Railway (TRA) o los autobuses locales conectan con cada uno de los distritos de Nuevo Taipéi.",
+      "days": ""
+    },
+    "ja": {
+      "blurb": "新北市は人口・面積ともに台湾最大の直轄市で、台北市をぐるりと取り囲むように広がっており、川沿いの古い街並みから山あいのハイキングコースや荒々しい海岸線まで、その表情はさまざまです。中心となる繁華街がひとつあるわけではなく、まったく個性の異なる地区が集まったモザイクのような街で、黄金時代の面影を残す鉱山の町・九份や提灯が灯る十分から、歴史ある港町・淡水、風が削り出した奇岩が並ぶ野柳まで、多彩な表情を見せてくれます。",
+      "getting": "ほとんどの旅行者は台湾桃園国際空港（TPE）から到着し、桃園空港MRTを利用します。これは急行・普通の両方の列車が走る路線で、急行なら台北駅までわずか35分ほどで到着するほか、一部の列車は市内の新北産業園区駅に直接停車します。台北駅または板橋（新北市自体の高速鉄道駅）からは、台北メトロや台湾鉄路（TRA）、路線バスへ乗り継ぐことで、新北市内の各地区へアクセスできます。",
+      "days": ""
+    },
+    "ko": {
+      "blurb": "신베이(新北)는 인구와 면적 모두 대만 최대의 지방자치단체로, 타이베이시를 완전히 둘러싼 고리 모양을 이루고 있으며, 강변의 옛 거리부터 산길, 그리고 거친 해안선까지 다채로운 풍경을 품고 있습니다. 하나의 중심 시가지가 있는 것이 아니라 저마다 개성이 뚜렷한 지역들이 모자이크처럼 모여 있는데, 황금기 광산 마을이었던 지우펀과 등불이 밝혀지는 스펀, 역사 깊은 항구 도시 단수이, 그리고 바람이 빚어낸 기암 지형이 펼쳐진 예류까지 다양합니다.",
+      "getting": "대부분의 여행객은 타이완 타오위안 국제공항(TPE)을 통해 도착해 타오위안 공항 MRT를 이용합니다. 이는 급행과 완행 서비스를 모두 제공하는 노선으로, 급행 열차를 타면 타이베이역까지 최소 35분 만에 도착할 수 있으며, 일부 열차는 신베이시 내에 있는 신베이산업단지역에 바로 정차하기도 합니다. 타이베이역이나 반차오(신베이시 자체의 고속철도 역)에서는 타이베이 메트로, 대만철로(TRA) 열차, 또는 시내버스로 환승하여 신베이시 내 각 지역으로 이동할 수 있습니다.",
+      "days": ""
+    },
+    "zh": {
+      "blurb": "新北市是台湾人口和面积均居首位的直辖市，完整环绕台北市而建，从沿河而立的老街到山间步道，再到崎岖的海岸线，风貌各异。这里并没有单一的市中心，而是由多个特色鲜明的行政区拼接而成——从曾经风光一时的采矿小镇九份、灯笼点亮夜色的十分，到历史悠久的港口小镇淡水，以及风力雕琢出奇岩地貌的野柳，处处别具风情。",
+      "getting": "多数旅客经由台湾桃园国际机场（TPE）抵达，搭乘桃园机场捷运——这条线路设有直达车和普通车两种班次，其中直达车最快只需35分钟即可抵达台北车站，部分列车还会直接停靠市内的新北产业园区站。从台北车站或板桥站（新北市自有的高铁站）出发，旅客可换乘台北捷运、台铁（TRA）列车或当地公交车，前往新北市各个行政区。",
+      "days": ""
+    }
+  },
+  "Palawan": {
+    "en": {
+      "blurb": "Palawan is the Philippines' last ecological frontier, an elongated island province of limestone karst cliffs, hidden lagoons, and coral-fringed islets stretching between the South China Sea and the Sulu Sea. It's home to the UNESCO-listed Puerto Princesa Subterranean River and the wreck-diving waters of Coron, making it one of the country's most biodiverse and photographed destinations.",
+      "getting": "Most travellers fly into Puerto Princesa International Airport (PPS), the province's main gateway, with regular domestic connections from Manila and Cebu. From there, onward hubs like El Nido or Coron are reached by van, bus, or ferry rather than rail, since Palawan has no train network.",
+      "days": "Plan for at least ~5–7 days to combine Puerto Princesa's Underground River, the lagoons and beaches of El Nido, and time for onward travel, given the ~5-hour overland transfers between hubs."
+    },
+    "ko": {
+      "blurb": "팔라완은 필리핀 최후의 생태 보고로 불리는 곳으로, 남중국해와 술루해 사이에 길게 뻗은 섬 지방이다. 석회암 카르스트 절벽과 숨겨진 라군, 산호초로 둘러싸인 작은 섬들이 이어지며, 유네스코 세계유산으로 지정된 푸에르토 프린세사 지하강과 코론의 침몰선 다이빙 스팟을 품고 있어 필리핀에서 생물 다양성이 가장 풍부하고 사진 명소로도 손꼽히는 여행지다.",
+      "getting": "대부분의 여행객은 팔라완의 관문인 푸에르토 프린세사 국제공항(PPS)을 이용하며, 마닐라와 세부에서 정기 국내선이 운항된다. 팔라완에는 철도망이 없기 때문에, 엘니도나 코론 같은 다음 목적지로 이동할 때는 밴이나 버스, 페리를 이용해야 한다.",
+      "days": "허브 간 육로 이동에 약 5시간이 걸리는 점을 감안하면, 푸에르토 프린세사의 지하강과 엘니도의 라군 및 해변을 함께 둘러보고 이동 시간까지 고려해 최소 5~7일 정도 일정을 잡는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "パラワンはフィリピン最後の自然のフロンティアと呼ばれ、南シナ海とスールー海の間に細長く広がる島嶼州だ。石灰岩のカルスト断崖、隠れたラグーン、サンゴ礁に縁取られた小島が連なり、ユネスコ世界遺産に登録されたプエルト・プリンセサ地底河川や、コロンの沈船ダイビングスポットを擁する、フィリピン屈指の生物多様性と絶景を誇る旅先だ。",
+      "getting": "多くの旅行者は、パラワンの玄関口であるプエルト・プリンセサ国際空港(PPS)を利用して入る。マニラやセブからの国内線が定期的に運航している。パラワンには鉄道網がないため、そこからエルニドやコロンなどへ向かう際は、バンやバス、フェリーで移動することになる。",
+      "days": "拠点間の陸路移動に片道約5時間かかることを踏まえると、プエルト・プリンセサの地底河川、エルニドのラグーンやビーチを組み合わせ、移動時間も見込んで少なくとも5〜7日ほどの日程を組むのがおすすめだ。"
+    },
+    "es": {
+      "blurb": "Palawan es la última frontera ecológica de Filipinas, una alargada provincia insular de acantilados kársticos de piedra caliza, lagunas escondidas e islotes bordeados de coral que se extiende entre el mar de China Meridional y el mar de Joló. Alberga el Río Subterráneo de Puerto Princesa, declarado Patrimonio de la Humanidad por la UNESCO, y las aguas de Coron, famosas por el buceo entre pecios, lo que la convierte en uno de los destinos más biodiversos y fotografiados del país.",
+      "getting": "La mayoría de los viajeros llega por el Aeropuerto Internacional de Puerto Princesa (PPS), la principal puerta de entrada a la provincia, con vuelos domésticos regulares desde Manila y Cebú. Desde allí, para llegar a otros destinos como El Nido o Coron hay que moverse en furgoneta, autobús o ferry, ya que Palawan no cuenta con red ferroviaria.",
+      "days": "Conviene reservar al menos entre 5 y 7 días para combinar el Río Subterráneo de Puerto Princesa con las lagunas y playas de El Nido, además de dejar tiempo para los traslados, ya que los desplazamientos por tierra entre destinos suelen rondar las 5 horas."
+    },
+    "zh": {
+      "blurb": "巴拉望是菲律宾最后一片生态净土,这个狭长的岛屿省份坐落在南海与苏禄海之间,拥有石灰岩喀斯特峭壁、隐秘泻湖以及珊瑚环绕的小岛。这里既有被联合国教科文组织列入名录的普林塞萨港地下河,又有科隆一带闻名遐迩的沉船潜水胜地,堪称菲律宾生物多样性最丰富、也最上镜的旅行目的地之一。",
+      "getting": "大多数游客经由巴拉望的主要门户——普林塞萨港国际机场(PPS)抵达,该机场与马尼拉、宿务之间有稳定的国内航班往来。由于巴拉望没有铁路网络,从这里前往埃尔尼多或科隆等目的地,需要乘坐面包车、巴士或渡轮。",
+      "days": "考虑到各枢纽之间约5小时的陆路车程,建议至少安排5至7天的行程,以便游览普林塞萨港地下河以及埃尔尼多的泻湖与海滩,同时留出足够的路途时间。"
+    }
+  },
+  "Tainan": {
+    "en": {
+      "blurb": "Tainan is Taiwan's oldest city and its former capital, a place where centuries-old temples, city gods, and Dutch-era fortresses sit alongside some of the island's most obsessive street-food culture. Rather than skyscrapers, its skyline is low-rise and lantern-lit, built around a dense historic core that rewards wandering on foot or by scooter.",
+      "getting": "Tainan has its own small airport (TNN), but it mainly handles domestic and a few regional flights, so most travellers arrive by rail: take the Taiwan High Speed Rail (THSR) to Tainan HSR Station, then transfer via the connecting Shalun line to reach Tainan's downtown TRA station. Coming from Taipei or Kaohsiung, the conventional Taiwan Railway (TRA) line into Tainan Station is also a reliable, city-centre option.",
+      "days": "Plan on ~2-3 days to cover Tainan's historic temples, old streets, and night markets at an easy pace, with an extra day if you want to add day trips into the surrounding countryside."
+    },
+    "ko": {
+      "blurb": "타이난은 대만에서 가장 오래된 도시이자 옛 수도로, 수백 년 역사를 지닌 사원과 성황신, 네덜란드 시대의 요새가 대만에서도 손꼽히는 열정적인 길거리 음식 문화와 어우러져 있는 곳이다. 고층 빌딩 대신 낮게 이어지는 스카이라인이 등불로 물들며, 걷거나 스쿠터를 타고 돌아다니기 좋은 밀도 높은 구시가지를 중심으로 도시가 형성되어 있다.",
+      "getting": "타이난에는 자체 소규모 공항(TNN)이 있지만 주로 국내선과 일부 지역 노선만 운항하기 때문에, 대부분의 여행객은 기차를 이용해 도착한다. 대만고속철도(THSR)를 타고 타이난고속철도역까지 간 다음, 연결되는 사룬선으로 갈아타면 타이난 시내에 위치한 타이완철도(TRA) 역에 도착할 수 있다. 타이베이나 가오슝에서 온다면, 타이난역으로 바로 연결되는 일반 타이완철도(TRA) 노선을 이용하는 것도 시내 중심으로 가는 믿을 만한 방법이다.",
+      "days": "타이난의 유서 깊은 사원, 옛 거리, 야시장을 여유롭게 둘러보려면 2~3일 정도가 적당하며, 주변 근교로 당일치기 여행을 더하고 싶다면 하루를 추가하는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "台南は台湾最古の都市であり、かつての首都でもある。何百年もの歴史を持つ寺院や城隍神、オランダ統治時代の要塞が、台湾でも屈指の熱狂的な屋台グルメ文化と隣り合わせに息づく街だ。高層ビルではなく、提灯の灯りに照らされた低層の街並みが広がり、密度の濃い旧市街を中心に、歩いてもスクーターでも気ままに巡るのが似合う。",
+      "getting": "台南には小さな空港（TNN）があるが、主に国内線と一部の地域路線のみを扱っているため、多くの旅行者は鉄道で訪れる。台湾高速鉄道（THSR）で台南高鉄駅まで行き、そこから接続する沙崙線に乗り換えれば、台南市街地にある台鉄（TRA）の駅にたどり着く。台北や高雄からなら、台南駅まで直通する在来線の台湾鉄路（TRA）を利用するのも、中心部へ確実にアクセスできる方法だ。",
+      "days": "台南の古刹や旧市街、夜市をのんびり巡るなら2〜3日ほどが目安。周辺の郊外への日帰り旅行を加えたいなら、さらに1日多く見ておくとよい。"
+    },
+    "es": {
+      "blurb": "Tainan es la ciudad más antigua de Taiwán y su antigua capital, un lugar donde templos centenarios, dioses tutelares de la ciudad y fortalezas de la era holandesa conviven con una de las culturas de comida callejera más apasionadas de la isla. En lugar de rascacielos, su perfil urbano es bajo y se ilumina con farolillos, construido alrededor de un denso casco histórico que invita a perderse a pie o en scooter.",
+      "getting": "Tainan cuenta con su propio aeropuerto pequeño (TNN), pero opera principalmente vuelos nacionales y algunos regionales, por lo que la mayoría de los viajeros llega en tren: se toma el Tren de Alta Velocidad de Taiwán (THSR) hasta la estación HSR de Tainan y luego se hace transbordo en la línea Shalun para llegar a la estación TRA del centro de Tainan. Si se viene desde Taipéi o Kaohsiung, la línea convencional de Ferrocarriles de Taiwán (TRA) hasta la estación de Tainan también es una opción fiable y céntrica.",
+      "days": "Se recomienda dedicar entre 2 y 3 días para recorrer con calma los templos históricos, las calles antiguas y los mercados nocturnos de Tainan, y sumar un día más si se quiere hacer alguna excursión de un día por el campo circundante."
+    },
+    "zh": {
+      "blurb": "台南是台湾最古老的城市，也是昔日的都城，百年古庙、城隍信仰与荷据时期的城砦，与全岛数一数二、令人痴迷的街头小吃文化交织并存。这里没有高楼林立，取而代之的是灯笼点点的低矮天际线，整座城市围绕着密集的历史街区展开，最适合徒步或骑着摩托车信步闲逛。",
+      "getting": "台南有自己的小型机场（TNN），但主要提供国内航线及少数区域航班，因此大多数旅客选择搭乘铁路前往：可先搭乘台湾高铁（THSR）至台南高铁站，再转乘沙仑线接驳，抵达位于台南市区的台铁（TRA）车站。若从台北或高雄出发，搭乘台铁（TRA）传统路线直达台南车站，也是通往市中心的可靠选择。",
+      "days": "若想从容游览台南的古迹庙宇、老街与夜市，建议安排2～3天；若还想安排前往周边郊区的一日游，则可以多留一天。"
+    }
+  },
+  "Siargao": {
+    "en": {
+      "blurb": "Siargao is a teardrop-shaped island in the southern Philippines best known as the country's surf capital, anchored by the famous Cloud 9 reef break, alongside mangrove forests, lagoons, and a cluster of laid-back beach towns. Its slower, palm-fringed pace and lively surf-and-café culture have made it one of the most talked-about island destinations in Southeast Asia.",
+      "getting": "Most travellers reach Siargao by flying into Sayak Airport (IAO) in Del Carmen, typically connecting through Mactan-Cebu International Airport with a short ~1 hour hop onward; a slower, budget alternative is an overnight ferry from Cebu to Surigao City followed by a boat crossing to the island. There is no rail link to Siargao, so air or sea transport via the Cebu hub is the reliable route for most visitors.",
+      "days": "Plan for at least ~4-5 days to surf or learn at Cloud 9, island-hop to the Naked Island/Daku/Guyam cluster, and visit inland spots like Sugba Lagoon and the Magpupungko rock pools."
+    },
+    "es": {
+      "blurb": "Siargao es una isla con forma de lágrima en el sur de Filipinas, conocida sobre todo como la capital del surf del país gracias a la famosa ola de arrecife de Cloud 9. La completan bosques de manglares, lagunas y un puñado de pueblos costeros de ambiente relajado. Su ritmo pausado entre palmeras y su animada cultura de surf y cafés la han convertido en uno de los destinos insulares más comentados del Sudeste Asiático.",
+      "getting": "La mayoría de los viajeros llegan a Siargao volando al Aeropuerto de Sayak (IAO) en Del Carmen, generalmente haciendo escala en el Aeropuerto Internacional de Mactan-Cebú, seguido de un vuelo corto de aproximadamente 1 hora. Una alternativa más lenta y económica es tomar un ferry nocturno desde Cebú hasta Surigao City y luego cruzar en barco hasta la isla. Siargao no tiene conexión ferroviaria, así que el transporte aéreo o marítimo a través del centro de conexiones de Cebú es la opción más fiable para la mayoría de los visitantes.",
+      "days": "Conviene planear al menos entre 4 y 5 días para surfear o aprender en Cloud 9, hacer una excursión por las islas del grupo Naked Island, Daku y Guyam, y visitar lugares del interior como la laguna de Sugba y las piscinas naturales de Magpupungko."
+    },
+    "ja": {
+      "blurb": "シアルガオ島は、フィリピン南部に浮かぶ涙のしずく型の島で、有名なリーフブレイク「クラウド9」を擁する同国随一のサーフィンの聖地として知られています。マングローブの森やラグーン、のんびりとした雰囲気のビーチタウンが点在し、ヤシの木に囲まれたゆったりとした時の流れと活気あるサーフ&カフェ文化が相まって、東北アジアならぬ東南アジアで今最も話題の島として注目を集めています。",
+      "getting": "多くの旅行者は、デル・カルメンにあるサヤック空港(IAO)行きの便でシアルガオ島を訪れます。通常はマクタン・セブ国際空港を経由し、そこから約1時間ほどの短いフライトで到着します。時間はかかりますが、より安く行く方法として、セブからスリガオ市までの夜行フェリーに乗り、その後、船で島へ渡るルートもあります。シアルガオ島に鉄道はないため、ほとんどの旅行者にとってはセブを経由する空路または海路が確実な行き方となります。",
+      "days": "クラウド9でのサーフィンや初心者向けレッスン、ネイキッド・アイランド/ダク島/ギヤム島群への島巡り、スグバ・ラグーンやマグププンコの岩場プールといった内陸の見どころ巡りには、少なくとも4〜5日ほど見ておくのがおすすめです。"
+    },
+    "ko": {
+      "blurb": "시아르가오는 필리핀 남부에 위치한 눈물방울 모양의 섬으로, 유명한 리프 브레이크 클라우드 9을 중심으로 한 필리핀 최고의 서핑 성지로 잘 알려져 있습니다. 맹그로브 숲과 라군, 그리고 여유로운 분위기의 해변 마을들이 곳곳에 자리하고 있죠. 야자수가 늘어선 느긋한 섬 특유의 리듬과 활기찬 서핑·카페 문화가 어우러지며, 동남아시아에서 가장 화제가 되는 섬 여행지 중 하나로 떠올랐습니다.",
+      "getting": "대부분의 여행자는 델 카르멘에 위치한 사야크 공항(IAO)으로 가는 항공편을 이용해 시아르가오에 도착합니다. 보통 막탄-세부 국제공항을 경유한 뒤, 약 1시간 정도의 짧은 국내선으로 갈아타는 방식입니다. 시간은 더 걸리지만 저렴한 대안으로는 세부에서 수리가오 시티까지 야간 페리를 타고, 이어서 배로 섬까지 건너가는 방법이 있습니다. 시아르가오에는 철도가 없기 때문에, 대부분의 방문객에게는 세부를 거치는 항공편이나 해상 교통이 가장 확실한 이동 수단입니다.",
+      "days": "클라우드 9에서 서핑을 즐기거나 배우고, 네이키드 아일랜드/다쿠/기얌 섬 무리로 섬 투어를 다니며, 수그바 라군과 막푸풍코 암반 풀 같은 내륙 명소까지 둘러보려면 최소 4~5일 정도는 일정을 잡는 것이 좋습니다."
+    }
+  },
+  "Turin": {
+    "en": {
+      "blurb": "Turin is Italy's elegant former royal capital, where Baroque palaces, grand arcaded boulevards, and Alpine views come together with a serious food and coffee culture (this is the birthplace of the Italian aperitivo and home to some of the country's finest chocolate). Once the industrial powerhouse of the Agnelli/Fiat dynasty, the city now blends grand 19th-century architecture with world-class museums, including one of the best Egyptian collections outside Cairo.",
+      "getting": "Most international travelers fly into Turin Airport (TRN), located about 16 km north of the city center, then take a bus or train into town; from within Italy, high-speed rail is the easiest option, arriving at Torino Porta Nuova or Torino Porta Susa, both central stations linked to the rest of the city by metro and tram.",
+      "days": "Plan on ~2-3 days to cover the historic center, main museums, and a taste of the local café and chocolate culture."
+    },
+    "es": {
+      "blurb": "Turín es la elegante antigua capital real de Italia, donde los palacios barrocos, los grandes bulevares con arcadas y las vistas de los Alpes se combinan con una auténtica cultura gastronómica y cafetera (aquí nació el aperitivo italiano y se elabora algunos de los mejores chocolates del país). Antaño motor industrial de la dinastía Agnelli/Fiat, la ciudad combina hoy una arquitectura decimonónica imponente con museos de talla mundial, entre ellos una de las mejores colecciones egipcias fuera de El Cairo.",
+      "getting": "La mayoría de los viajeros internacionales llegan al aeropuerto de Turín (TRN), situado a unos 16 km al norte del centro, desde donde toman un autobús o un tren hasta la ciudad; dentro de Italia, la opción más cómoda es el tren de alta velocidad, con llegada a las estaciones centrales de Torino Porta Nuova o Torino Porta Susa, ambas conectadas con el resto de la ciudad por metro y tranvía.",
+      "days": "Conviene reservar entre 2 y 3 días para recorrer el centro histórico, visitar los principales museos y disfrutar de la cultura local del café y el chocolate."
+    },
+    "ja": {
+      "blurb": "トリノは、かつてイタリア王家の首都として栄えた優雅な街。バロック様式の宮殿や、アーケードの続く壮大な通り、アルプスの山並みが、本格的な食とコーヒーの文化(イタリアン・アペリティーヴォ発祥の地であり、国内屈指のチョコレートの産地でもある)と共存している。アニェッリ家とフィアットが牽引した工業都市としての顔を持つ一方、現在では19世紀の壮麗な建築と世界クラスの博物館が共存し、その中にはカイロ以外では屈指の規模を誇るエジプトコレクションもある。",
+      "getting": "海外からの旅行者の多くは、市街地の北約16kmに位置するトリノ空港(TRN)に到着し、そこからバスや鉄道で市内へ向かう。イタリア国内からは高速鉄道が最も便利で、トリノ・ポルタ・ヌオーヴァ駅またはトリノ・ポルタ・スーザ駅という2つの中心駅に到着する。どちらの駅も地下鉄やトラムで市内各地とつながっている。",
+      "days": "歴史地区や主要な博物館を巡り、地元のカフェとチョコレート文化を味わうには、2〜3日ほど見ておくとよい。"
+    },
+    "ko": {
+      "blurb": "토리노는 이탈리아의 우아한 옛 왕실 수도로, 바로크 양식의 궁전과 아케이드가 늘어선 웅장한 대로, 알프스의 풍경이 진지한 음식과 커피 문화(이탈리아식 아페리티보가 탄생한 곳이자 이탈리아 최고의 초콜릿 산지 중 하나)와 어우러져 있다. 한때 아녤리 가문과 피아트 왕조의 산업 중심지였던 이 도시는 이제 19세기의 웅장한 건축과 세계적 수준의 박물관들이 공존하는 곳으로, 카이로 밖에서 손꼽히는 이집트 유물 컬렉션도 이곳에서 만날 수 있다.",
+      "getting": "대부분의 해외 여행객은 시내 중심에서 북쪽으로 약 16km 떨어진 토리노 공항(TRN)으로 입국한 뒤 버스나 기차를 타고 시내로 이동한다. 이탈리아 국내에서 이동한다면 고속철도가 가장 편리하며, 토리노 포르타 누오바역이나 토리노 포르타 수사역에 도착하게 되는데, 두 역 모두 시내 중심에 위치해 있으며 지하철과 트램으로 도시 곳곳과 연결된다.",
+      "days": "역사 지구와 주요 박물관을 둘러보고 현지의 카페 및 초콜릿 문화를 맛보려면 2~3일 정도 일정을 잡는 것이 좋다."
+    },
+    "zh": {
+      "blurb": "都灵是意大利昔日优雅的王室之都,巴洛克风格的宫殿、气势恢宏的拱廊大道与阿尔卑斯山景交相辉映,再加上讲究的美食与咖啡文化——这里正是意大利餐前酒(aperitivo)的发源地,也出产全国最顶级的巧克力之一。这座城市曾是阿涅利家族与菲亚特工业帝国的重镇,如今则将恢弘的19世纪建筑与世界一流的博物馆融为一体,其中包括开罗以外规模数一数二的古埃及文物收藏。",
+      "getting": "大多数国际游客会飞抵位于市中心以北约16公里处的都灵机场(TRN),再乘坐巴士或火车进城;若从意大利境内出发,最便捷的方式是搭乘高速列车,抵达都灵新门站(Torino Porta Nuova)或都灵苏萨门站(Torino Porta Susa)——这两个市中心车站均可通过地铁和有轨电车与市内其他区域相连。",
+      "days": "建议安排2-3天时间,游览历史城区、主要博物馆,并体验当地的咖啡与巧克力文化。"
+    }
+  },
+  "Xian": {
+    "en": {
+      "blurb": "Xi'an was the eastern anchor of the Silk Road and served as capital for over a dozen Chinese dynasties, leaving behind the intact Ming-era City Wall and the world-famous Terracotta Army buried nearby. Today it blends that imperial past — bell towers, ancient mosques, and a atmospheric Muslim Quarter — with the energy of a major modern Chinese metropolis.",
+      "getting": "Most travellers fly into Xi'an Xianyang International Airport (XIY), the region's main air hub, then reach the city center via the airport intercity train Metro Line 14, which connects to Xi'an North Railway Station where you transfer onto Line 2 toward downtown, a journey of roughly ~50 minutes. Xi'an North Railway Station is also the city's high-speed rail hub, so travellers arriving overland from cities like Beijing or Chengdu will typically pass through there first.",
+      "days": "Plan on ~3 days: one to explore the City Wall, Bell Tower, and Muslim Quarter, and at least one full day for a side trip to see the Terracotta Army and surrounding Lintong-area sites."
+    },
+    "ko": {
+      "blurb": "시안은 실크로드의 동쪽 종착지였으며 10여 개 중국 왕조의 수도로 기능했던 도시로, 그 시절의 흔적으로 완벽하게 보존된 명대 성벽과 인근에 묻혀 있던 세계적으로 유명한 병마용이 남아 있습니다. 오늘날 시안은 종루, 유서 깊은 모스크, 그리고 이국적인 분위기의 회족거리(무슬림 쿼터) 등 제국의 과거를 간직하면서도 현대 중국 대도시 특유의 활기를 함께 느낄 수 있는 곳입니다.",
+      "getting": "대부분의 여행자는 이 지역의 주요 관문인 시안 셴양 국제공항(XIY)으로 입국한 뒤, 공항 도시철도인 지하철 14호선을 타고 시내로 이동합니다. 14호선은 시안베이역(시안 북역)에서 2호선으로 환승할 수 있으며, 시내까지는 약 50분 정도 소요됩니다. 시안베이역은 도시의 고속철도 허브이기도 해서, 베이징이나 청두 등지에서 육로로 이동해 오는 여행자들도 보통 이곳을 먼저 거치게 됩니다.",
+      "days": "약 3일 일정을 추천합니다. 하루는 성벽, 종루, 회족거리를 둘러보는 데 쓰고, 최소 하루는 병마용과 그 주변 린퉁 지역 유적지를 방문하는 당일 여행에 할애하세요."
+    },
+    "ja": {
+      "blurb": "西安はシルクロードの東の起点であり、10以上の中国王朝の都として栄えた街です。当時の面影を今に伝える明代の城壁がほぼ完全な形で残り、近郊には世界的に有名な兵馬俑が眠っています。鐘楼や古いモスク、独特の雰囲気を持つ回民街(ムスリム地区)といった王朝時代の遺産と、現代中国有数の大都市としての活気が共存しているのが今の西安です。",
+      "getting": "多くの旅行者はこの地域の主要な玄関口である西安咸陽国際空港(XIY)を利用します。そこから市内へは、空港と都心を結ぶ都市鉄道である地下鉄14号線を利用し、西安北駅で2号線に乗り換えて中心部へ向かうのが一般的で、所要時間はおよそ50分ほどです。西安北駅は同市の高速鉄道のハブでもあるため、北京や成都など内陸の都市から陸路で訪れる旅行者も、まずこの駅を経由することが多くなります。",
+      "days": "目安として3日ほど見ておくとよいでしょう。1日は城壁、鐘楼、回民街の散策に、そして少なくとも丸1日は兵馬俑とその周辺の臨潼エリアの見どころを訪れる日帰り旅行に充てるのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Xi'an fue el punto de anclaje oriental de la Ruta de la Seda y capital de más de una decena de dinastías chinas, un legado que hoy se conserva en su intacta Muralla de la ciudad de la era Ming y en el mundialmente famoso Ejército de Terracota, enterrado en las cercanías. Hoy en día, la ciudad combina ese pasado imperial —torres del tambor y la campana, antiguas mezquitas y un evocador Barrio Musulmán— con la energía propia de una gran metrópolis china contemporánea.",
+      "getting": "La mayoría de los viajeros llega al Aeropuerto Internacional de Xi'an Xianyang (XIY), el principal centro aéreo de la región, y desde allí se dirige al centro de la ciudad en el tren interurbano del aeropuerto, la Línea 14 del metro, que conecta con la Estación de Ferrocarril Norte de Xi'an. Allí se hace trasbordo a la Línea 2 hacia el centro, en un trayecto de aproximadamente 50 minutos. La Estación Norte de Xi'an es también el principal nodo de trenes de alta velocidad de la ciudad, por lo que quienes llegan por tierra desde ciudades como Pekín o Chengdú suelen pasar primero por allí.",
+      "days": "Conviene reservar unos 3 días: uno para recorrer la Muralla de la ciudad, la Torre de la Campana y el Barrio Musulmán, y al menos un día completo para una excursión a ver el Ejército de Terracota y los alrededores de la zona de Lintong."
+    },
+    "zh": {
+      "blurb": "西安是丝绸之路的东方起点,也曾是十余个中国朝代的都城。至今保存完好的明代城墙,以及埋藏于市郊、举世闻名的兵马俑,都是这段历史留下的印记。如今的西安,将钟楼、古老清真寺、气氛独特的回民街等帝都遗风,与现代中国大都市的蓬勃活力融为一体。",
+      "getting": "大多数游客会经由该地区的主要航空枢纽——西安咸阳国际机场(XIY)入境,然后乘坐机场城际列车地铁14号线前往市区。14号线可在西安北站换乘2号线通往市中心,全程约50分钟。西安北站同时也是西安的高铁枢纽,因此从北京、成都等地陆路抵达的游客通常也会先经过这里。",
+      "days": "建议安排约3天行程:一天用来游览城墙、钟楼和回民街,再至少安排一整天前往临潼一带,参观兵马俑及周边景点。"
+    }
   }
 }
