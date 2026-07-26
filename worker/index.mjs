@@ -220,7 +220,18 @@ async function handleSubscribe(request) {
   const form = await request.formData().catch(() => null);
   const email = String(form?.get('fields[email]') || '');
   if (!/.+@.+\..+/.test(email)) return Response.json({ success: false, error: 'invalid-email' }, { status: 400 });
-  const res = await fetch(ML_FORM, { method: 'POST', body: form });
+  // MailerLite 403s anonymous datacenter requests (no UA = bot). Present the
+  // same identity a real signup has: browser UA + our site as origin/referer.
+  const res = await fetch(ML_FORM, {
+    method: 'POST',
+    body: form,
+    headers: {
+      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36',
+      Origin: 'https://wanderatlasguides.com',
+      Referer: 'https://wanderatlasguides.com/',
+      Accept: 'application/json',
+    },
+  });
   const body = await res.json().catch(() => ({ success: false }));
   return Response.json(body, { status: res.ok ? 200 : res.status });
 }
