@@ -64,12 +64,24 @@ export async function fsqVenuePhotos({ name, lat, lng, limit = 4 }) {
     // vision gate still has the final say — this just avoids junk lookups).
     const norm = (s) => String(s).toLowerCase().replace(/[^a-z0-9\s]/g, '');
     const ours = new Set(norm(name).split(/\s+/).filter((w) => w.length > 2));
-    const hit = results.find((r) => norm(r.name).split(/\s+/).some((w) => ours.has(w)));
-    if (!hit) return [];
+    // Prefer a name-token match; otherwise fall back to the CLOSEST result
+    // within 150m (search is already ll+radius constrained — the top nearby
+    // result for "Flavors Grill" IS the venue even if FSQ spells it differently;
+    // the vision gate still has final say on the photo itself).
+    let hit = results.find((r) => norm(r.name).split(/\s+/).some((w) => ours.has(w)));
+    if (!hit) hit = results.find((r) => (r.distance ?? 9999) <= 150);
+    if (!hit) {
+      if (!fsqVenuePhotos._nohit) { fsqVenuePhotos._nohit = true; console.log(`  [fsq] no hit for "${name}" — results were: ${results.map((r) => r.name + '@' + r.distance + 'm').join(' | ').slice(0, 160)}`); }
+      return [];
+    }
     const placeId = hit.fsq_place_id || hit.fsq_id; // new API vs legacy field name
     const pres = await fsqFetch(`/places/${placeId}/photos?limit=${limit}`);
-    if (!pres.ok) return [];
+    if (!pres.ok) {
+      if (!fsqVenuePhotos._pfail) { fsqVenuePhotos._pfail = true; console.log(`  [fsq] photos FAILED ${pres.status}: ${(await pres.text().catch(() => '')).slice(0, 200)}`); }
+      return [];
+    }
     const photos = await pres.json();
+    if (!fsqVenuePhotos._pshape) { fsqVenuePhotos._pshape = true; console.log(`  [fsq] first photos OK — isArray:${Array.isArray(photos)} len:${Array.isArray(photos) ? photos.length : Object.keys(photos).join(',')}`); }
     return (photos || []).map((p) => ({
       url: `${p.prefix}original${p.suffix}`,
       credit: `Photo: Foursquare user content (${hit.name})`,
