@@ -53,6 +53,8 @@ export async function verifyHeroImage({ url, name, category, region, country, ev
               `REJECT if: it clearly shows a different country/region (wrong-language signage, wrong architecture/landscape), ` +
               `it is a painting/illustration/diagram/logo/map, it shows an unrelated subject (an animal, a portrait of a person for a venue article, ` +
               `a vehicle, an unrelated building type), or it obviously contradicts the venue type (e.g. a church for a cafe).\n` +
+              `For restaurants/cafes ALSO REJECT: isolated product-style food shots (studio lighting, plain/white background, packshot look) — ` +
+              `the hero should show the actual PLACE (exterior, interior, or a dish clearly photographed inside a real venue setting).\n` +
               `ACCEPT if: it plausibly shows this venue or this exact kind of place in this locale. When unsure, REJECT.\n` +
               `Answer ONLY JSON: {"ok": true|false, "reason": "<max 12 words>"}`,
           },
