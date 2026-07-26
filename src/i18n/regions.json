@@ -4091,5 +4091,234 @@
       "getting": "大多数游客会经由该地区的主要航空枢纽——西安咸阳国际机场(XIY)入境,然后乘坐机场城际列车地铁14号线前往市区。14号线可在西安北站换乘2号线通往市中心,全程约50分钟。西安北站同时也是西安的高铁枢纽,因此从北京、成都等地陆路抵达的游客通常也会先经过这里。",
       "days": "建议安排约3天行程:一天用来游览城墙、钟楼和回民街,再至少安排一整天前往临潼一带,参观兵马俑及周边景点。"
     }
+  },
+  "Guangzhou": {
+    "en": {
+      "blurb": "Guangzhou, the sprawling Pearl River Delta capital once known to the West as Canton, blends a 2,000-year trading history with the frenetic energy of one of China's largest cargo and commerce hubs. Steamy, subtropical, and endlessly practical rather than picture-postcard pretty, it rewards travellers chasing dim sum culture, wholesale markets, and riverside skylines over conventional sightseeing.",
+      "getting": "Most international travellers arrive via Guangzhou Baiyun International Airport (CAN), one of China's busiest air hubs, with connections into the city by metro, intercity train, or airport bus. Domestic and regional travellers frequently arrive by high-speed rail into Guangzhou South Railway Station, a major terminus on lines linking Beijing, Wuhan, Shenzhen, and Hong Kong, from which the city centre is reached by subway.",
+      "days": "Plan on ~2-3 days to cover the historic core, riverside districts, and a couple of the city's famed markets, with extra time if using Guangzhou as a springboard for day trips within the Greater Bay Area."
+    },
+    "ko": {
+      "blurb": "광저우는 광둥성 주장 삼각주에 자리한 광활한 도시로, 서양에는 한때 '캔턴(Canton)'으로 알려졌었다. 2천 년에 이르는 무역의 역사와 중국 최대 규모의 화물·상업 허브다운 분주한 에너지가 공존하는 곳이다. 후덥지근한 아열대 기후에 그림엽서처럼 예쁘장한 도시라기보다는 지극히 실용적인 성격이 강하며, 딤섬 문화와 도매 시장, 강변 스카이라인을 찾아다니는 여행자들에게 전형적인 관광 명소보다 훨씬 큰 만족을 안겨준다.",
+      "getting": "대부분의 해외 여행객은 중국 최대 항공 허브 중 하나인 광저우 바이윈 국제공항(CAN)을 통해 입국하며, 지하철·시외 열차·공항버스 등을 이용해 시내로 이동할 수 있다. 국내 및 인근 지역 여행객은 베이징, 우한, 선전, 홍콩을 잇는 노선의 주요 종착역인 광저우남역으로 고속철을 타고 도착하는 경우가 많으며, 이곳에서 지하철을 통해 시내 중심부로 갈 수 있다.",
+      "days": "역사 지구와 강변 지역, 그리고 유명 시장 몇 곳을 둘러보는 데는 약 2~3일이 적당하며, 광저우를 대만구(Greater Bay Area) 당일치기 여행의 거점으로 활용할 계획이라면 여유 일정을 추가하는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "広州は珠江デルタに広がる中心都市で、かつて西洋では「カントン(Canton)」の名で知られていた。2000年におよぶ交易の歴史と、中国屈指の貨物・商業ハブとしての活気あふれるエネルギーが同居する街だ。蒸し暑い亜熱帯気候で、絵はがきのような美しさよりも徹底した実用性が際立つこの街は、定番の観光名所よりも、飲茶文化や卸売市場、川沿いのスカイラインを求めて歩く旅行者にこそ応えてくれる。",
+      "getting": "海外からの旅行者の多くは、中国屈指の航空ハブである広州白雲国際空港(CAN)を利用して入国し、地下鉄・都市間鉄道・空港バスなどで市内へアクセスする。国内および近隣地域からの旅行者は、北京・武漢・深圳・香港を結ぶ路線の主要ターミナルである広州南駅に高速鉄道で到着することが多く、そこから地下鉄で市中心部へ向かう。",
+      "days": "歴史地区や川沿いのエリア、名物市場のいくつかを巡るには2~3日程度を見込みたい。広州を大湾区(グレーターベイエリア)内の日帰り旅行の拠点として利用する場合は、さらに日数を追加するとよい。"
+    },
+    "es": {
+      "blurb": "Guangzhou, la extensa capital del delta del río Perla conocida antaño en Occidente como Cantón, combina 2.000 años de historia comercial con la energía frenética de uno de los mayores centros de carga y comercio de China. Calurosa, subtropical y marcadamente práctica antes que pintoresca, recompensa a los viajeros que buscan la cultura del dim sum, los mercados mayoristas y los perfiles urbanos junto al río, más que el turismo convencional.",
+      "getting": "La mayoría de los viajeros internacionales llegan por el Aeropuerto Internacional Baiyun de Guangzhou (CAN), uno de los hubs aéreos más activos de China, desde donde se accede a la ciudad en metro, tren interurbano o autobús del aeropuerto. Los viajeros nacionales y regionales suelen llegar en tren de alta velocidad a la estación de Guangzhou Sur, una terminal importante en las líneas que conectan Pekín, Wuhan, Shenzhen y Hong Kong, desde la cual se llega al centro de la ciudad en metro.",
+      "days": "Se recomienda dedicar entre 2 y 3 días para recorrer el casco histórico, los barrios junto al río y un par de sus famosos mercados, sumando tiempo extra si se utiliza Guangzhou como punto de partida para excursiones de un día por la Gran Área de la Bahía."
+    },
+    "zh": "{\"blurb\":\"广州,珠江三角洲广袤的核心城市,旧时西方称之为\"广州府\"(Canton),将两千年的通商历史与中国最繁忙的货运与商贸枢纽之一的蓬勃活力融于一身。气候湿热、地处亚热带的广州,与其说是明信片般的旖旎风光,不如说是极尽务实之地,更能满足那些追寻早茶文化、批发市场与江畔天际线的旅行者,而非只求打卡观光的游客。\",\"getting\":\"大多数国际旅客经由中国最繁忙的航空枢纽之一——广州白云国际机场(CAN)入境,可通过地铁、城际列车或机场巴士抵达市区。国内及周边地区旅客则常乘高铁抵达广州南站——这是连接北京、武汉、深圳与香港各线路的重要枢纽站,从此处可乘地铁前往市中心。\",\"days\":\"若要游览历史城区、江畔片区以及几处著名市场,建议安排约2至3天;若计划以广州为据点,前往大湾区内其他城市进行一日游,则需预留更多时间。\"}"
+  },
+  "Davao": {
+    "en": {
+      "blurb": "Davao City sprawls across the southeastern coast of Mindanao at the foot of Mount Apo, the Philippines' highest peak, and is best known as the country's self-styled \"durian capital\" and gateway to the wider Mindanao region. It blends a laid-back, orderly urban core with easy access to rainforest reserves, eagle sanctuaries, and the beach-fringed island of Samal just offshore.",
+      "getting": "Most travellers arrive via Francisco Bangoy International Airport (DVO), which handles direct flights from Manila (~3.5 hours) and other Philippine hubs, with taxis the standard way to cover the short hop into the city (~20–40 minutes depending on traffic); there is no rail system serving Davao, so onward travel around the region relies on jeepneys, buses, and taxis/ride-hailing.",
+      "days": "Plan on ~3-4 days to cover the city centre, a Philippine Eagle Center or Eden Nature Park excursion, and at least one overnight or day trip to Samal Island."
+    },
+    "ko": {
+      "blurb": "다바오시는 필리핀 최고봉인 아포산 자락, 민다나오 남동부 해안을 따라 넓게 펼쳐진 도시로, 필리핀이 스스로 내세우는 '두리안의 수도'이자 민다나오 지역 전체로 향하는 관문으로 잘 알려져 있습니다. 여유롭고 정돈된 도심 분위기 속에서도 열대우림 보호구역, 독수리 보호센터, 그리고 앞바다에 자리한 해변 섬 사말까지 손쉽게 오갈 수 있는 것이 매력입니다.",
+      "getting": "대부분의 여행객은 프란시스코 방고이 국제공항(DVO)을 통해 입국하며, 마닐라(약 3.5시간)를 비롯한 필리핀 주요 도시에서 직항편이 운행됩니다. 공항에서 시내까지는 택시가 일반적인 이동 수단으로, 교통 상황에 따라 약 20~40분 정도 소요됩니다. 다바오에는 철도 시스템이 없어, 인근 지역 이동은 지프니, 버스, 택시나 차량 호출 서비스에 의존해야 합니다.",
+      "days": "시내 관광, 필리핀 이글 센터 또는 에덴 네이처 파크 방문, 그리고 사말 섬으로의 최소 1박 또는 당일 여행까지 둘러보려면 약 3~4일 정도를 계획하는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "ダバオ市はフィリピン最高峰アポ山の麓、ミンダナオ島南東部の海岸沿いに広がる都市で、フィリピン自らが名乗る「ドリアンの都」であり、ミンダナオ地方全体への玄関口として知られています。落ち着いた雰囲気の整然とした市街地でありながら、熱帯雨林保護区やイーグルサンクチュアリ、そして沖合に浮かぶビーチが美しいサマル島へも気軽に足を延ばせるのが魅力です。",
+      "getting": "多くの旅行者はフランシスコ・バンゴイ国際空港(DVO)を利用して到着します。マニラ(約3.5時間)をはじめフィリピン各地のハブ都市から直行便が就航しており、空港から市内までの短い移動にはタクシーが一般的で、交通状況にもよりますが所要時間は約20~40分です。ダバオには鉄道網がないため、周辺地域への移動はジプニー、バス、タクシーや配車サービスが頼りとなります。",
+      "days": "市内観光に加え、フィリピン・イーグル・センターやエデン・ネイチャー・パークへの小旅行、さらにサマル島への1泊または日帰り旅行を含めると、3~4日程度の滞在がおすすめです。"
+    },
+    "es": {
+      "blurb": "La ciudad de Davao se extiende por la costa sureste de Mindanao, a los pies del monte Apo, el pico más alto de Filipinas, y es célebre por autodenominarse la \"capital del durián\" del país, además de ser la puerta de entrada a toda la región de Mindanao. Combina un centro urbano tranquilo y bien organizado con fácil acceso a reservas de selva tropical, santuarios de águilas y la paradisíaca isla de Samal, justo frente a la costa.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto Internacional Francisco Bangoy (DVO), que recibe vuelos directos desde Manila (~3,5 horas) y otros importantes puntos de conexión de Filipinas; los taxis son la forma habitual de cubrir el corto trayecto hasta la ciudad (entre 20 y 40 minutos según el tráfico). Davao no cuenta con red ferroviaria, por lo que los desplazamientos por la región dependen de los jeepneys, autobuses y taxis o aplicaciones de transporte.",
+      "days": "Se recomienda dedicar entre 3 y 4 días para recorrer el centro de la ciudad, visitar el Centro del Águila Filipina o el Eden Nature Park, y realizar al menos una excursión de un día o con pernoctación a la isla de Samal."
+    },
+    "zh": {
+      "blurb": "达沃市坐落于棉兰老岛东南沿海地带,依偎在菲律宾最高峰阿波山脚下,素来以自诩的“榴莲之都”闻名,也是通往整个棉兰老地区的门户。这里既有悠闲有序的城市核心,又能轻松前往热带雨林保护区、老鹰保护中心,以及近海的沙滩胜地萨马岛。",
+      "getting": "大多数旅客经弗朗西斯科·邦戈伊国际机场(DVO)抵达,该机场有来自马尼拉(约3.5小时)及菲律宾其他枢纽城市的直飞航班;从机场进城通常乘坐出租车,视路况而定约需20至40分钟。达沃没有轨道交通系统,前往周边地区一般依靠吉普尼、巴士以及出租车/网约车。",
+      "days": "建议安排约3至4天,用于游览市中心、前往菲律宾鹰保育中心或伊甸自然公园游玩,并至少安排一次到萨马岛的一日游或过夜行程。"
+    }
+  },
+  "Hualien": {
+    "en": {
+      "blurb": "Hualien is Taiwan's dramatic east-coast gateway, where the Pacific Ocean meets marble-walled canyons and forested peaks. It's best known as the launchpad for Taroko National Park, one of the island's most spectacular natural landmarks, while the city itself offers a laid-back mix of night markets, indigenous Amis culture, and coastal scenery.",
+      "getting": "Most travelers reach Hualien by train from Taipei on the Taiwan Railways Administration's East line, with the fastest express services (Taroko, Puyuma, or Tze-Chiang) taking ~2 hours to Hualien Station; visitors headed straight for Taroko Gorge can instead alight at the closer Xincheng-Taroko station. A small domestic airport (HUN) also connects Hualien with Taipei, Taichung, and Kaohsiung for those short on time.",
+      "days": "Plan on ~2-3 days to cover Taroko Gorge's main trails and viewpoints plus a relaxed day exploring Hualien City and its coastline."
+    },
+    "ko": {
+      "blurb": "화롄은 태평양이 대리석 협곡과 울창한 봉우리와 맞닿아 있는, 대만 동해안의 극적인 관문 도시입니다. 대만에서 가장 웅장한 자연 명소로 꼽히는 타이루거 국립공원(Taroko National Park)의 관문으로 가장 잘 알려져 있으며, 도시 자체는 야시장과 원주민 아미족(Amis) 문화, 그리고 해안 풍경이 어우러진 여유로운 분위기를 자랑합니다.",
+      "getting": "대부분의 여행객은 타이베이에서 대만철도관리국(TRA) 동부간선을 이용해 화롄에 도착합니다. 가장 빠른 특급 열차(타이루거호, 푸유마호, 쯔창호)를 타면 화롄역까지 약 2시간이 걸립니다. 타이루거 협곡으로 바로 향하는 여행객이라면 더 가까운 신청역(신청-타이루거역)에서 내리는 것도 좋은 방법입니다. 시간이 촉박한 여행객을 위해 화롄과 타이베이, 타이중, 가오슝을 잇는 작은 국내선 공항(HUN)도 있습니다.",
+      "days": "타이루거 협곡의 주요 트레일과 전망대를 둘러보는 데 약 2~3일, 그리고 화롄 시내와 해안을 여유롭게 둘러보는 하루를 더하는 일정을 추천합니다."
+    },
+    "ja": {
+      "blurb": "花蓮(ホワリェン)は、太平洋が大理石の渓谷や緑深い山々と出会う、台湾東海岸のダイナミックな玄関口です。台湾屈指の絶景として知られる太魯閣(タロコ)国立公園への拠点として特に有名ですが、街自体も夜市やアミ族(Amis)の先住民文化、そして海沿いの風景が溶け合う、のんびりとした魅力にあふれています。",
+      "getting": "多くの旅行者は台北から台湾鉄道(TRA)の東部幹線を利用して花蓮を訪れます。最速の優等列車(タロコ号、プユマ号、自強号)なら花蓮駅まで約2時間。太魯閣渓谷へ直行する場合は、より近い新城(太魯閣)駅で下車するのもおすすめです。時間に限りがある旅行者向けには、花蓮と台北・台中・高雄を結ぶ小さな国内線空港(HUN)もあります。",
+      "days": "太魯閣渓谷の主要なトレイルや展望スポットを巡るのに2〜3日、それに加えて花蓮市街や海岸線をのんびり散策する1日を組み合わせるのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Hualien es la espectacular puerta de entrada a la costa este de Taiwán, donde el océano Pacífico se encuentra con cañones de mármol y picos cubiertos de bosque. Es conocida sobre todo como el punto de partida hacia el Parque Nacional de Taroko, uno de los paisajes naturales más impresionantes de la isla, mientras que la propia ciudad ofrece un ambiente relajado con mercados nocturnos, la cultura indígena amis y hermosos paisajes costeros.",
+      "getting": "La mayoría de los viajeros llegan a Hualien en tren desde Taipéi por la línea Este de Taiwan Railways Administration (TRA); los servicios expresos más rápidos (Taroko, Puyuma o Tze-Chiang) tardan cerca de 2 horas hasta la estación de Hualien. Quienes se dirijan directamente al desfiladero de Taroko pueden bajarse antes, en la estación de Xincheng-Taroko, mucho más cercana. Para quienes van justos de tiempo, también existe un pequeño aeropuerto doméstico (HUN) que conecta Hualien con Taipéi, Taichung y Kaohsiung.",
+      "days": "Se recomienda destinar entre 2 y 3 días para recorrer los principales senderos y miradores del desfiladero de Taroko, además de un día tranquilo para explorar la ciudad de Hualien y su litoral."
+    },
+    "zh": {
+      "blurb": "花莲是台湾东海岸壮丽的门户城市,太平洋在这里与大理石峡谷、苍翠山峰相遇。它最广为人知的身份是通往太鲁阁国家公园的门户——这里是全岛最令人惊叹的自然景观之一;而花莲市区本身也别具风情,夜市小吃、阿美族原住民文化与海岸风光交织出悠闲的生活步调。",
+      "getting": "大多数游客搭乘台铁(TRA)东部干线火车从台北前往花莲,最快的对号列车(太鲁阁号、普悠玛号或自强号)约2小时即可抵达花莲车站;若是直奔太鲁阁峡谷,也可以选择在离景区更近的新城(太鲁阁)车站下车。对于时间紧张的旅客,花莲还有一座小型国内机场(HUN),提供往返台北、台中和高雄的航班。",
+      "days": "建议安排约2至3天游览太鲁阁峡谷的主要步道与观景点,再留一天悠闲地探索花莲市区及沿海风光。"
+    }
+  },
+  "Ipoh": {
+    "en": {
+      "blurb": "Ipoh is Perak's limestone-ringed former tin-mining capital, prized for its restored Old Town shophouses, cave temples built into karst cliffs, and a food scene built around silky bean sprout chicken and Ipoh white coffee. The city's faded colonial-era railway station and grand civic buildings give it a distinctly slower, more atmospheric feel than Malaysia's bigger urban hubs.",
+      "getting": "Most travellers reach Ipoh by KTM ETS train, which connects Ipoh railway station directly with KL Sentral in Kuala Lumpur in roughly 2–3 hours depending on service class. Ipoh also has its own small airport (IPH, Sultan Azlan Shah Airport), served by a handful of domestic and regional flights, though the train from KL remains the more common route for most visitors.",
+      "days": "Plan on ~2-3 days to cover Old Town heritage walks, the surrounding cave temples, and a proper sampling of Ipoh's famous food stalls and coffee shops."
+    },
+    "es": {
+      "blurb": "Ipoh es la antigua capital minera del estaño de Perak, rodeada de imponentes formaciones de piedra caliza. Es célebre por las restauradas casas-tienda de su Old Town, los templos-cueva excavados en los acantilados kársticos y una escena gastronómica que gira en torno al sedoso pollo con brotes de soja y el famoso café blanco de Ipoh. Su desgastada estación ferroviaria de la época colonial y sus imponentes edificios cívicos le dan un aire mucho más pausado y evocador que el de las grandes ciudades de Malasia.",
+      "getting": "La mayoría de los viajeros llega a Ipoh en el tren KTM ETS, que conecta directamente la estación de Ipoh con KL Sentral, en Kuala Lumpur, en unas 2 a 3 horas según la clase de servicio. Ipoh también cuenta con un pequeño aeropuerto propio (IPH, Aeropuerto Sultan Azlan Shah), con algunos vuelos domésticos y regionales, aunque el tren desde KL sigue siendo la opción más habitual para la mayoría de los visitantes.",
+      "days": "Conviene reservar entre 2 y 3 días para recorrer el patrimonio de Old Town, visitar los templos-cueva de los alrededores y probar como se debe los famosos puestos de comida y cafeterías de Ipoh."
+    },
+    "ja": {
+      "blurb": "イポーは石灰岩の丘に囲まれた、ペラ州のかつての錫鉱山都市。美しく修復されたオールドタウンのショップハウス群、カルスト地形の断崖に築かれた洞窟寺院、そしてなめらかな食感が自慢のもやし鶏飯とイポー・ホワイトコーヒーを中心とするグルメシーンで知られています。色あせた趣を残す植民地時代の鉄道駅や重厚な公共建築が、マレーシアの大都市とは一線を画す、どこかゆったりとした情緒を漂わせています。",
+      "getting": "多くの旅行者はKTM ETS列車でイポーを訪れます。イポー駅とクアラルンプールのKLセントラル駅を直結しており、利用する列車のクラスによって所要時間はおよそ2〜3時間です。イポーには小規模な空港(IPH、スルタン・アズラン・シャー空港)もあり、国内線・近隣国際線が数便就航していますが、多くの旅行者にとってはKLからの鉄道利用が依然として一般的なルートです。",
+      "days": "オールドタウンの史跡巡り、周辺の洞窟寺院観光、そしてイポー名物の屋台グルメやコーヒーショップをじっくり味わうには、2〜3日ほど見ておくとよいでしょう。"
+    },
+    "ko": {
+      "blurb": "이포는 석회암 봉우리로 둘러싸인 페락주의 옛 주석 광업 도시로, 말끔히 복원된 올드타운의 상점가와 카르스트 절벽 속에 자리한 동굴 사원, 그리고 부드러운 숙주나물 치킨과 이포 화이트 커피를 중심으로 한 미식 문화로 사랑받는 곳입니다. 세월이 느껴지는 식민지 시대의 기차역과 웅장한 관공서 건물들이 어우러져 말레이시아의 대도시들과는 사뭇 다른, 한결 여유롭고 운치 있는 분위기를 자아냅니다.",
+      "getting": "대부분의 여행자는 KTM ETS 열차를 이용해 이포를 방문하며, 이 열차는 이포역과 쿠알라룸푸르의 KL 센트럴역을 직접 연결해 좌석 등급에 따라 약 2~3시간 정도 소요됩니다. 이포에는 작은 규모의 자체 공항(IPH, 술탄 아즈란 샤 공항)도 있어 국내선과 일부 지역 노선이 운항되지만, 대부분의 방문객에게는 여전히 KL에서 기차로 이동하는 방법이 더 일반적입니다.",
+      "days": "올드타운의 유적 산책과 주변 동굴 사원 탐방, 그리고 이포의 유명한 노점 음식과 커피숍을 제대로 즐기려면 약 2~3일 정도를 계획하는 것이 좋습니다."
+    },
+    "zh": {
+      "blurb": "怡保是霹雳州曾经的锡矿业重镇,四周石灰岩山峦环绕。这里以修复完好的旧街场店屋、依喀斯特峭壁而建的洞穴庙宇,以及以滑嫩芽菜鸡和怡保白咖啡为代表的美食文化而闻名。斑驳的殖民时期火车站与气派的市政建筑,为这座城市增添了一种比马来西亚各大都市更加悠然、更有韵味的气息。",
+      "getting": "大多数游客乘坐KTM ETS特快列车前往怡保,该列车可直达怡保火车站与吉隆坡的KL Sentral(吉隆坡中央车站),视车次等级不同,车程约需2至3小时。怡保也拥有一座小型机场(IPH,苏丹阿兹兰沙机场),提供少量国内及区域航班,不过对大多数游客而言,从吉隆坡乘火车前往仍是更常见的方式。",
+      "days": "建议安排2至3天时间,既可漫步旧街场探访历史建筑,又能游览周边的洞穴庙宇,还能好好品尝怡保著名的street food和咖啡店。"
+    }
+  },
+  "Jiufen": {
+    "en": {
+      "blurb": "Jiufen is a former gold-mining town clinging to the hillsides above Taiwan's northeast coast, famous for its narrow, lantern-lit Old Street stacked with tea houses and snack stalls. Its maze of covered alleys and sea-view terraces are said to have inspired the atmospheric look of several well-known animated films, drawing crowds especially at dusk when the red lanterns switch on.",
+      "getting": "Jiufen has no train station of its own — the standard route is a Taiwan Railways (TRA) train from Taipei Main Station to Ruifang Station, followed by a short local bus up into Jiufen. Travelers coming from Taipei's international gateway, Taoyuan Airport (TPE), typically connect into central Taipei first (e.g., via MRT or airport bus) before making this train-plus-bus journey, which takes roughly ~1 to 1.5 hours from central Taipei once underway.",
+      "days": "Most visitors treat Jiufen as a half-day to full-day trip, which is enough time to wander the Old Street, enjoy a tea house, and take in the viewpoints, though staying one night lets you see the lanterns lit after dark once the day-trippers have left."
+    },
+    "ko": {
+      "blurb": "지우펀(九份)은 대만 북동부 해안을 굽어보는 산비탈에 자리 잡은 옛 금광촌으로, 등불이 켜진 좁다란 골목에 찻집과 간식 노점이 빼곡히 늘어선 노街(라오제, Old Street)로 유명하다. 지붕 덮인 미로 같은 골목길과 바다가 내려다보이는 테라스는 여러 유명 애니메이션 영화의 몽환적인 분위기에 영감을 주었다고 알려져 있으며, 특히 붉은 등불이 하나둘 켜지는 해 질 녘이면 수많은 인파가 몰려든다.",
+      "getting": "지우펀에는 기차역이 따로 없다. 일반적인 경로는 타이베이 기차역(Taipei Main Station)에서 대만철도(TRA)를 타고 루이팡역(Ruifang Station)까지 간 뒤, 짧은 시내버스로 갈아타고 지우펀까지 올라가는 것이다. 대만의 관문인 타오위안 국제공항(TPE)에서 오는 여행자라면 보통 먼저 MRT나 공항버스 등을 이용해 타이베이 시내로 이동한 다음, 이 기차와 버스를 이용한 여정을 시작하게 되는데, 타이베이 시내에서 출발 시 대략 1~1.5시간 정도 소요된다.",
+      "days": "대부분의 여행객은 지우펀을 반나절에서 하루 코스로 다녀오는데, 노街(라오제)를 거닐고 찻집에서 여유를 즐기며 전망대에서 경치를 감상하기에 충분한 시간이다. 다만 하룻밤 묵으면 당일치기 관광객들이 떠난 뒤 어둠 속에서 붉은 등불이 켜진 풍경을 감상할 수 있다."
+    },
+    "ja": {
+      "blurb": "九份(きゅうふん)は台湾北東部の海岸を見下ろす山の斜面にへばりつくように広がる、かつての金鉱の町。提灯が灯る細い路地に茶芸館や屋台がひしめく老街(ラオジエ)で知られている。屋根に覆われた迷路のような路地や海を望むテラスは、いくつかの有名なアニメ映画の幻想的な世界観にインスピレーションを与えたとも言われ、特に赤提灯が灯り始める夕暮れ時には多くの観光客で賑わう。",
+      "getting": "九份には鉄道の駅がなく、一般的なルートは台湾鉄路(TRA)で台北駅(Taipei Main Station)から瑞芳駅(Ruifang Station)まで行き、そこから路線バスに乗り換えて九份まで登るというもの。台湾の玄関口である桃園国際空港(TPE)から向かう旅行者は、通常まずMRTや空港バスなどで台北市内へ移動し、それからこの鉄道とバスを乗り継ぐ旅を始めることになる。台北市内から出発した場合、所要時間はおよそ1〜1.5時間程度。",
+      "days": "多くの旅行者は九份を半日から一日がかりの旅として訪れており、老街を散策し、茶芸館でひと休みし、展望スポットからの眺めを楽しむには十分な時間だ。ただし一泊すれば、日帰り客が帰った後、暗闇の中に赤提灯が灯る幻想的な風景を見ることができる。"
+    },
+    "es": {
+      "blurb": "Jiufen es un antiguo pueblo minero de oro aferrado a las laderas que dominan la costa noreste de Taiwán, famoso por su estrecha Calle Vieja (Old Street), iluminada con farolillos y repleta de casas de té y puestos de comida callejera. Se dice que su laberinto de callejones cubiertos y terrazas con vistas al mar inspiró la atmósfera de varias reconocidas películas de animación, y atrae multitudes especialmente al atardecer, cuando se encienden los farolillos rojos.",
+      "getting": "Jiufen no tiene estación de tren propia: la ruta habitual es tomar un tren de Ferrocarriles de Taiwán (TRA) desde la Estación Principal de Taipéi hasta la Estación de Ruifang, y luego un breve trayecto en autobús local hasta Jiufen. Quienes llegan por la puerta de entrada internacional de Taipéi, el Aeropuerto de Taoyuan (TPE), suelen conectar primero hacia el centro de Taipéi (por ejemplo, en MRT o autobús del aeropuerto) antes de emprender este trayecto en tren y autobús, que una vez iniciado dura aproximadamente entre 1 y 1,5 horas desde el centro de Taipéi.",
+      "days": "La mayoría de los visitantes dedica a Jiufen entre medio día y un día completo, tiempo suficiente para pasear por la Calle Vieja, disfrutar de una casa de té y contemplar los miradores; sin embargo, quedarse a pasar la noche permite ver los farolillos encendidos tras el anochecer, una vez que se han marchado los visitantes de un día."
+    }
+  },
+  "Johor Bahru": {
+    "en": {
+      "blurb": "Johor Bahru is Malaysia's southernmost major city, a bustling gateway wedged against the Strait of Johor where glossy shopping malls, street-food stalls, and colonial-era shophouses sit minutes from the Singapore border. Its identity is shaped by this cross-border pulse — a magnet for weekend shoppers, theme-park families heading to nearby Legoland, and commuters criss-crossing one of the world's busiest land frontiers.",
+      "getting": "undefined",
+      "days": "undefined"
+    },
+    "ko": {
+      "blurb": "조호바루는 말레이시아 최남단의 대도시로, 조호 해협을 마주한 활기 넘치는 관문 도시다. 세련된 쇼핑몰과 길거리 음식 노점, 그리고 식민지 시대의 숍하우스들이 싱가포르 국경에서 불과 몇 분 거리에 자리하고 있다. 이 도시의 정체성은 이러한 국경을 넘나드는 활기에서 비롯되는데, 주말이면 쇼핑객들이 몰려들고, 인근 레고랜드로 향하는 가족 단위 여행객들이 넘쳐나며, 세계에서 가장 분주한 육로 국경 중 하나를 오가는 통근자들로 붐빈다.",
+      "getting": "<UNKNOWN>",
+      "days": "<UNKNOWN>"
+    },
+    "ja": {
+      "blurb": "ジョホールバルはマレーシア最南端の主要都市であり、ジョホール海峡に面した活気あふれる玄関口だ。洗練されたショッピングモールや屋台グルメ、植民地時代のショップハウスが、シンガポールとの国境からわずか数分の距離に軒を連ねる。この街のアイデンティティは国境を越えた人の流れによって形作られており、週末には買い物客が押し寄せ、近郊のレゴランドを目指す家族連れで賑わい、世界屈指の交通量を誇る陸路国境を行き交う通勤者たちで活気づいている。",
+      "getting": "<UNKNOWN>",
+      "days": "<UNKNOWN>"
+    },
+    "es": {
+      "blurb": "Johor Bahru es la principal ciudad más meridional de Malasia, una bulliciosa puerta de entrada encajada junto al Estrecho de Johor, donde relucientes centros comerciales, puestos de comida callejera y casas-tienda de la era colonial conviven a solo minutos de la frontera con Singapur. Su identidad está marcada por este pulso transfronterizo: un imán para compradores de fin de semana, familias rumbo al cercano parque temático Legoland y viajeros que cruzan a diario una de las fronteras terrestres más transitadas del mundo.",
+      "getting": "<UNKNOWN>",
+      "days": "<UNKNOWN>"
+    },
+    "zh": {
+      "blurb": "新山是马来西亚最南端的主要城市,作为紧邻柔佛海峡的繁忙门户,这里光鲜亮丽的购物商场、街边小吃摊和殖民时期的店屋,与新加坡边境仅一步之遥。这座城市的独特气质正源于这种跨境脉动:周末涌入的购物人潮、奔赴附近乐高乐园的家庭游客,以及穿梭于全球最繁忙陆路口岸之一的通勤者,共同勾勒出新山的日常图景。",
+      "getting": "<UNKNOWN>",
+      "days": "<UNKNOWN>"
+    }
+  },
+  "Pamukkale": {
+    "en": {
+      "blurb": "Pamukkale (\"Cotton Castle\") is renowned for its cascading white travertine terraces filled with warm, mineral-rich pools, set directly beside the sprawling Roman-era ruins of Hierapolis, a UNESCO World Heritage Site. The result is a rare pairing of a striking natural mineral landscape with ancient theatre, necropolis and bathhouse ruins in a single walkable site.",
+      "getting": "undefined",
+      "days": "undefined"
+    },
+    "ko": {
+      "blurb": "\"목화의 성\"이라는 뜻을 지닌 파묵칼레는 따뜻하고 미네랄이 풍부한 온천수가 채워진 새하얀 석회화 계단식 테라스로 유명하며, 유네스코 세계문화유산인 고대 로마 시대 도시 히에라폴리스의 광활한 유적 바로 옆에 자리하고 있습니다. 그 덕분에 이곳에서는 경이로운 자연 미네랄 절경과 고대 극장, 네크로폴리스, 목욕탕 유적을 한 곳에서 걸어서 둘러볼 수 있는 보기 드문 조합을 만나볼 수 있습니다.",
+      "getting": "정보 없음",
+      "days": "정보 없음"
+    },
+    "ja": {
+      "blurb": "「綿の城」を意味するパムッカレは、温かくミネラル豊富な湯をたたえた真っ白な石灰棚が幾重にも連なることで知られ、ユネスコ世界遺産に登録されている古代ローマ都市ヒエラポリスの広大な遺跡群のすぐ隣に位置しています。この地では、息をのむような自然のミネラル景観と、古代劇場、ネクロポリス(墓地遺跡)、浴場跡といった遺跡群を、ひとつのエリア内で徒歩で巡ることができるという、またとない組み合わせを楽しむことができます。",
+      "getting": "情報なし",
+      "days": "情報なし"
+    },
+    "es": {
+      "blurb": "Pamukkale (\"Castillo de Algodón\") es famoso por sus escalonadas terrazas blancas de travertino, repletas de piscinas termales cálidas y ricas en minerales, ubicadas justo al lado de las extensas ruinas romanas de Hierápolis, declaradas Patrimonio de la Humanidad por la UNESCO. El resultado es una combinación única: un impresionante paisaje mineral natural junto a un antiguo teatro, una necrópolis y ruinas de baños romanos, todo en un mismo lugar que se puede recorrer a pie.",
+      "getting": "No disponible",
+      "days": "No disponible"
+    },
+    "zh": {
+      "blurb": "帕慕卡雷(\"棉花堡\")以层层叠叠的洁白石灰岩梯田而闻名,梯田中蓄满了温热的富含矿物质的天然温泉池,紧邻着联合国教科文组织世界遗产——古罗马时期希拉波利斯古城的广袤遗址。在这里,令人惊叹的天然矿物地貌与古剧场、墓地遗址和浴场遗迹奇妙地融为一体,游客只需步行,便可在同一片区域尽览这难得一见的自然与历史交融之美。",
+      "getting": "暂无信息",
+      "days": "暂无信息"
+    }
+  },
+  "Udaipur": {
+    "en": {
+      "blurb": "Known as the \"City of Lakes,\" Udaipur is built around a chain of artificial lakes in the Aravalli hills, its whitewashed old city, ornate havelis, and the sprawling City Palace giving it a romantic, film-set quality unlike anywhere else in Rajasthan. Boats drift across Lake Pichola past the floating Jag Niwas palace, while narrow bazaar lanes climb toward temples and viewpoints over the water.",
+      "getting": "Most travellers fly into Udaipur's Maharana Pratap Airport (UDR), located about 22 km east of the city centre, with domestic connections to major Indian hubs. There's also Udaipur City railway station (UDZ), on a broad-gauge line with services to Delhi, Mumbai, Jaipur, Ajmer and Chittorgarh, and long-distance buses from the regional hub as a further option.",
+      "days": "Plan on ~2-3 days to cover the City Palace complex, a sunset boat ride on Lake Pichola, and a wander through the old city's temples, gardens, and bazaars."
+    },
+    "es": {
+      "blurb": "Conocida como la \"Ciudad de los Lagos\", Udaipur se despliega alrededor de una cadena de lagos artificiales en las colinas de Aravalli. Su casco antiguo encalado, sus ornamentadas havelis y el vasto City Palace le dan un aire romántico y cinematográfico que no se encuentra en ningún otro lugar de Rajastán. Los botes se deslizan por el lago Pichola pasando junto al palacio flotante Jag Niwas, mientras que las estrechas callejuelas del bazar ascienden hacia templos y miradores con vistas al agua.",
+      "getting": "La mayoría de los viajeros llegan al Aeropuerto Maharana Pratap de Udaipur (UDR), situado unos 22 km al este del centro de la ciudad, con conexiones nacionales a los principales centros de la India. También está la estación de ferrocarril de Udaipur City (UDZ), en una línea de ancho ancho con servicios a Delhi, Bombay, Jaipur, Ajmer y Chittorgarh, además de autobuses de larga distancia desde el centro regional como otra opción.",
+      "days": "Calcula unos 2-3 días para recorrer el complejo del City Palace, dar un paseo en barco al atardecer por el lago Pichola y perderte por los templos, jardines y bazares del casco antiguo."
+    },
+    "ja": {
+      "blurb": "「湖の街」として知られるウダイプルは、アラヴァリ丘陵に連なる人造湖群を中心に築かれた街です。白壁の旧市街、装飾を凝らしたハヴェリ(邸宅)、そして広大なシティ・パレスが、ラジャスタン州の他のどこにも見られない、まるで映画のセットのようなロマンチックな雰囲気を醸し出しています。ピチョラ湖には浮かぶように建つジャグ・ニワス宮殿があり、その脇をボートが静かに行き交います。狭いバザールの路地を上っていくと、寺院や湖を見渡すビューポイントに辿り着きます。",
+      "getting": "多くの旅行者は、市中心部から東へ約22kmに位置するウダイプルのマハラナ・プラタップ空港(UDR)を利用し、インド国内の主要都市と結ばれています。ほかに、デリー、ムンバイ、ジャイプル、アジメール、チットールガルへの便がある広軌鉄道のウダイプル・シティ駅(UDZ)もあり、さらに地域の拠点からの長距離バスも選択肢の一つです。",
+      "days": "シティ・パレス群の見学、ピチョラ湖での夕暮れのボートクルーズ、そして旧市街の寺院や庭園、バザールをそぞろ歩くのに、目安として2〜3日を見ておくとよいでしょう。"
+    },
+    "ko": {
+      "blurb": "\"호수의 도시\"로 알려진 우다이푸르는 아라발리 구릉지대에 조성된 일련의 인공 호수를 중심으로 형성된 도시입니다. 하얗게 칠해진 구시가지와 화려한 저택(하벨리), 그리고 광대한 시티 팰리스가 어우러져 라자스탄 그 어디에서도 볼 수 없는 로맨틱하고 영화 세트장 같은 풍경을 자아냅니다. 피촐라 호수 위로는 물 위에 떠 있는 듯한 자그 니와스 궁전을 지나 보트가 유유히 떠다니고, 좁은 바자르 골목을 오르면 사원과 호수가 내려다보이는 전망대들이 나타납니다.",
+      "getting": "대부분의 여행객은 시내 중심에서 동쪽으로 약 22km 떨어진 우다이푸르의 마하라나 프라타프 공항(UDR)을 이용하며, 인도 주요 도시와 국내선으로 연결됩니다. 또한 광궤 철도가 운행되는 우다이푸르 시티 역(UDZ)도 있어 델리, 뭄바이, 자이푸르, 아즈메르, 치토르가르 등지로 열차를 이용할 수 있으며, 지역 거점에서 출발하는 장거리 버스도 또 다른 선택지입니다.",
+      "days": "시티 팰리스 단지를 둘러보고, 피촐라 호수에서 노을 지는 보트 투어를 즐기며, 구시가지의 사원과 정원, 바자르를 거니는 데에는 약 2~3일 정도를 계획하시면 됩니다."
+    },
+    "zh": {
+      "blurb": "乌代浦尔素有“湖之城”之称,依阿拉瓦利丘陵间的一串人工湖而建。粉墙老城、雕饰精美的哈维利宅邸,以及规模宏大的城市宫殿,共同赋予了它一种浪漫如电影布景般的气质,这在拉贾斯坦邦独一无二。小船漂过皮丘拉湖,掠过漂浮般的贾格尼瓦斯宫,狭窄的集市小巷则蜿蜒而上,通向寺庙与俯瞰湖面的观景点。",
+      "getting": "大多数旅行者会乘飞机抵达乌代浦尔的马哈拉纳·普拉塔普机场(UDR),该机场位于市中心以东约22公里处,有航班连接印度国内各主要城市。此外还有乌代浦尔城市火车站(UDZ),属宽轨铁路线路,可通往德里、孟买、斋浦尔、阿杰梅尔和奇托加尔;从区域枢纽出发的长途巴士也是另一种选择。",
+      "days": "建议预留约2-3天时间,用来游览城市宫殿建筑群、在皮丘拉湖上乘船欣赏日落,以及漫步于老城区的寺庙、花园与集市之间。"
+    }
+  },
+  "Varanasi": {
+    "en": {
+      "blurb": "Varanasi, one of the world's oldest continuously inhabited cities, draws pilgrims and travellers to the sacred ghats lining the Ganges, where cremation rites, sunrise boat rituals, and the evening Ganga Aarti unfold in full public view. As the spiritual heart of Hinduism and home to the Kashi Vishwanath Temple, the city offers an intense, sensory blend of devotion, chaos, and ancient tradition found almost nowhere else.",
+      "getting": "Most travellers fly into Lal Bahadur Shastri International Airport (VNS) at Babatpur, roughly 26 km from the ghats, and take a prepaid taxi or airport bus into the city; long-distance trains are another common option, arriving at Varanasi Junction (station code BSB), the city's main railway hub connecting it to Delhi, Kolkata, and other major cities. Regional buses from nearby hubs also serve Varanasi for those travelling overland from within Uttar Pradesh or Bihar.",
+      "days": "Plan for ~2-3 days to cover the essential ghats, boat rides, Kashi Vishwanath Temple, and a half-day side trip to nearby Sarnath."
+    },
+    "ko": {
+      "blurb": "세계에서 가장 오래된 도시 중 하나로 지금까지도 사람들이 살아가고 있는 바라나시는 갠지스강을 따라 늘어선 신성한 가트(계단식 강둑)로 순례자와 여행자를 끌어모읍니다. 이곳에서는 화장 의식, 해돋이 보트 순례, 그리고 저녁의 강가 아르티가 사람들이 지켜보는 가운데 공개적으로 펼쳐집니다. 힌두교의 영적 중심지이자 카시 비슈와나트 사원이 있는 이 도시는 신앙심과 혼돈, 그리고 유구한 전통이 강렬하게 뒤섞인, 다른 어디에서도 보기 힘든 독특한 경험을 선사합니다.",
+      "getting": "대부분의 여행자는 바바트푸르에 위치한 랄 바하두르 샤스트리 국제공항(VNS)을 이용하며, 이곳은 가트에서 약 26km 떨어져 있어 선불 택시나 공항버스를 타고 시내로 이동합니다. 장거리 기차도 흔히 이용되는 방법으로, 델리, 콜카타 등 주요 도시와 연결되는 바라나시의 중심 기차역인 바라나시 정션역(역 코드 BSB)에 도착하게 됩니다. 우타르프라데시나 비하르 주 내에서 육로로 이동하는 여행자라면 인근 거점에서 출발하는 지역 버스도 바라나시까지 운행됩니다.",
+      "days": "주요 가트, 보트 투어, 카시 비슈와나트 사원을 둘러보고 인근 사르나트로 반나절 다녀오려면 약 2~3일 정도를 계획하세요."
+    },
+    "ja": {
+      "blurb": "世界最古の居住都市のひとつであるヴァラナシは、ガンジス川沿いに連なる聖なるガート(沐浴場)へと巡礼者や旅行者を引き寄せます。ここでは火葬の儀式、日の出とともに行われるボートでの祈り、そして夕方のガンガー・アールティが、人々の目の前で公然と繰り広げられます。ヒンドゥー教の精神的中心地であり、カーシー・ヴィシュワナート寺院を擁するこの街は、信仰と混沌、そして古代からの伝統が凝縮された、他では味わえない濃密な体験を提供してくれます。",
+      "getting": "多くの旅行者はババトプルにあるラール・バハードゥル・シャーストリー国際空港(VNS)を利用します。ガートまでは約26kmで、そこから先払い制のタクシーや空港バスで市内へ向かいます。長距離列車も一般的な選択肢で、デリーやコルカタなど主要都市と結ばれるヴァラナシの中心駅、ヴァラナシ・ジャンクション駅(駅コードBSB)に到着します。ウッタル・プラデーシュ州やビハール州内から陸路で移動する旅行者向けには、近隣の拠点からヴァラナシへ向かう地方バスも運行しています。",
+      "days": "主要なガート巡り、ボートでの川下り、カーシー・ヴィシュワナート寺院の参拝、そして近郊サールナートへの半日旅行を含めるなら、2〜3日程度を見ておくとよいでしょう。"
+    },
+    "es": {
+      "blurb": "Varanasi, una de las ciudades habitadas de forma continua más antiguas del mundo, atrae a peregrinos y viajeros hacia los sagrados ghats que bordean el Ganges, donde los ritos de cremación, los rituales en barca al amanecer y el Ganga Aarti al anochecer se desarrollan a plena vista de todos. Como corazón espiritual del hinduismo y sede del templo Kashi Vishwanath, la ciudad ofrece una intensa mezcla sensorial de devoción, caos y tradición milenaria que resulta difícil de encontrar en cualquier otro lugar.",
+      "getting": "La mayoría de los viajeros llegan por el Aeropuerto Internacional Lal Bahadur Shastri (VNS), en Babatpur, a unos 26 km de los ghats, desde donde toman un taxi prepago o el autobús del aeropuerto hacia el centro. Los trenes de larga distancia son otra opción muy habitual, llegando a la estación de Varanasi Junction (código BSB), el principal nudo ferroviario de la ciudad, que la conecta con Delhi, Calcuta y otras grandes urbes. Quienes viajan por tierra desde Uttar Pradesh o Bihar también pueden llegar a Varanasi en autobuses regionales desde localidades cercanas.",
+      "days": "Conviene reservar entre 2 y 3 días para recorrer los ghats más importantes, dar un paseo en barca, visitar el templo Kashi Vishwanath y hacer una excursión de medio día a la cercana Sarnath."
+    }
   }
 }
