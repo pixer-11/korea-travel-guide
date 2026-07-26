@@ -86,6 +86,18 @@ function regionRedirects() {
   for (const p of ['', '/ko', '/ja', '/es', '/zh']) {
     lines.push(`${p}/posts/multiple-cities-tour-de-france-femmes/ ${p}/posts/nice-finish-various-french-stages-tour-de-france-femmes-avec-zwift/ 301`);
   }
+  // Retired posts (photo-unfixable venues deleted for regeneration, 2026-07-26):
+  // each old URL 301s to its region hub so any indexed link keeps landing well.
+  try {
+    const retired = JSON.parse(readFileSync(join(__dirname, 'data/retired-posts.json'), 'utf8'));
+    for (const r of retired) {
+      const reg = regionSlug(r.region || '');
+      if (!reg) continue;
+      for (const p of ['', '/ko', '/ja', '/es', '/zh']) {
+        lines.push(`${p}/posts/${r.slug}/ ${p}/regions/${reg}/ 301`);
+      }
+    }
+  } catch { /* no retired list */ }
   return lines.sort();
 }
 // Custom integration: after the build, append the region 301s to dist/_redirects
