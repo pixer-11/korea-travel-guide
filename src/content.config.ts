@@ -140,6 +140,56 @@ const essentialsI18n = defineCollection({
   }),
 });
 
+// Pre-generated itinerary pages (spec 2026-07-27). Stores ONLY structure + AI
+// connective prose keyed by post slug — every hard fact (rating/hours/coords/
+// quiet times) is read from the source post at render time, so an itinerary can
+// never contradict or outlive the verified data. Built by scripts/build-itineraries.mjs.
+const itineraries = defineCollection({
+  loader: glob({ pattern: '*.md', base: './src/content/itineraries' }),
+  schema: z.object({
+    city: z.string(),          // display region name, e.g. "Seoul" (matches posts' region)
+    country: z.string(),
+    days: z.number().int().min(1).max(7),
+    title: z.string(),
+    description: z.string(),
+    quickAnswer: z.string(),
+    pubDate: z.coerce.date(),
+    updatedDate: z.coerce.date().optional(),
+    stopsHash: z.string(),     // sha1 of ordered stop slugs — regen/retranslate trigger
+    packedAvailable: z.boolean().default(false), // gate ≥15 (filter option visibility)
+    faq: z.array(z.object({ q: z.string(), a: z.string() })).default([]),
+    itinerary: z.array(z.object({
+      label: z.string(),       // AI: "Palaces & hanok lanes"
+      intro: z.string(),       // AI connective prose for the day
+      stops: z.array(z.object({
+        slug: z.string(),      // MUST resolve to a live post — validator enforces
+        slot: z.enum(['morning', 'lunch', 'afternoon', 'evening']),
+        why: z.string(),       // AI 1-2 sentences, facts injected from the post
+        dwellMin: z.number(),
+        walkToNext: z.object({ km: z.number(), minutes: z.number(), transit: z.boolean() }).nullable(),
+      })),
+      rainSwapSlug: z.string().nullable().default(null),
+    })),
+    aiGenerated: z.boolean().default(true),
+    draft: z.boolean().default(false),
+  }),
+});
+// Translated itinerary PROSE (same design as postI18n: facts stay in EN sources).
+const itinerariesI18n = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/itineraries-i18n',
+    generateId: ({ entry }) => entry.replace(/\.md$/, '') }),
+  schema: z.object({
+    lang: z.enum(['ko', 'ja', 'es', 'zh']),
+    slug: z.string(),
+    sourceHash: z.string(),    // copy of stopsHash at translation time — staleness check
+    title: z.string(), description: z.string(), quickAnswer: z.string(),
+    faq: z.array(z.object({ q: z.string(), a: z.string() })).default([]),
+    days: z.array(z.object({ label: z.string(), intro: z.string() })),
+    whys: z.record(z.string(), z.string()).default({}),      // slug → translated why
+    rainWhys: z.record(z.string(), z.string()).default({}),  // slug → translated swap note
+  }),
+});
+
 // The 5 cross-country "topic" hubs (visa/transport/money/best-time/emergency).
 // English source lives here as structured content; the localized copies live in
 // essentialsTopicsI18n (translated by scripts/translate-topics.mjs).
@@ -188,4 +238,4 @@ const staticPagesI18n = defineCollection({
   schema: z.object({ lang: z.enum(['ko', 'ja', 'es', 'zh']), slug: z.string(), ...staticShape }),
 });
 
-export const collections = { posts, essentials, postI18n, essentialsI18n, essentialsTopics, essentialsTopicsI18n, staticPages, staticPagesI18n };
+export const collections = { posts, essentials, postI18n, essentialsI18n, itineraries, itinerariesI18n, essentialsTopics, essentialsTopicsI18n, staticPages, staticPagesI18n };
