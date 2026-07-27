@@ -24,7 +24,13 @@ const LIMIT = (() => {
 const yq = (s) => `'${String(s).replace(/'/g, "''")}'`;
 
 const files = (await readdir(DIR)).filter((f) => f.endsWith('.md'));
-let updated = 0, skipNoPlace = 0, already = 0, noData = 0, processed = 0;
+let updated = 0, skipNoPlace = 0, already = 0, noData = 0, processed = 0, quotaHits = 0;
+// Places Details returns null on 429 (places.mjs logs it and does NOT throw), which
+// used to land in the noData bucket — so an exhausted-quota run reported "117 no new
+// data" as if those venues simply had no phone listed, and kept firing doomed calls
+// for the rest of the list. Count it separately and give up after a short streak.
+const QUOTA_STREAK_STOP = 5;
+let quotaStreak = 0;
 
 for (const f of files) {
   if (processed >= LIMIT) break;
@@ -52,6 +58,17 @@ for (const f of files) {
     console.log(`  ⚠ ${f}: ${e.message}`);
     continue;
   }
+  // null = the Details call itself failed (429 quota). Anything else is a real answer.
+  if (raw === null) {
+    quotaHits++;
+    if (++quotaStreak >= QUOTA_STREAK_STOP) {
+      console.log(`\n⛔ Places Details quota exhausted (${quotaStreak} consecutive 429s) — stopping early.`);
+      break;
+    }
+    continue;
+  }
+  quotaStreak = 0;
+
   const phone = raw?.phone;
   const hours = raw?.openingHours;
   if ((!phone || hasPhone) && (!hours?.length || hasHours)) {
@@ -82,5 +99,7 @@ for (const f of files) {
 
 console.log(
   `\n${updated} updated, ${already} already complete, ${skipNoPlace} no place.id, ` +
-  `${noData} no new data (${APPLY ? 'APPLIED' : 'dry-run'}).`
+  `${noData} no new data` +
+  (quotaHits ? `, ${quotaHits} quota-blocked (재시도 대상)` : '') +
+  ` (${APPLY ? 'APPLIED' : 'dry-run'}).`
 );
