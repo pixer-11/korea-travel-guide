@@ -68,3 +68,28 @@ test('gateFor thresholds', () => {
   assert.deepEqual(gateFor(15), { threeDay: true, packed: true, fiveDay: false });
   assert.deepEqual(gateFor(24), { threeDay: true, packed: true, fiveDay: true });
 });
+
+test('buildItinerary: restaurant-only cluster returns ok:false (never empty days)', () => {
+  const posts = [];
+  for (let i = 0; i < 12; i++) posts.push(P(`rest${i}`, 37.5 + i * 0.001, 127.0, 'restaurant'));
+  const it = buildItinerary(posts, { days: 3 });
+  assert.equal(it.ok, false);
+  assert.match(it.reason, /restaurant|no stops/i);
+  assert.equal(it.days.length, 0);
+});
+
+test('buildItinerary: under-provisioned input (4 posts for 2 days) returns ok:false', () => {
+  const posts = [];
+  for (let i = 0; i < 4; i++) posts.push(P(`p${i}`, 37.5 + i * 0.001, 127.0));
+  const it = buildItinerary(posts, { days: 2 });
+  assert.equal(it.ok, false);
+  assert.match(it.reason, /minimum.*needed/i);
+  assert.equal(it.days.length, 0);
+});
+
+test('dwellMinutes: regex matches hyphen, en-dash, and "to" separator', () => {
+  assert.equal(dwellMinutes({ data: { category: 'attraction' }, body: 'Plan on 2-3 hours here.' }), 150);
+  assert.equal(dwellMinutes({ data: { category: 'attraction' }, body: 'Plan on 2–3 hours here.' }), 150);
+  assert.equal(dwellMinutes({ data: { category: 'attraction' }, body: 'Plan on 2 to 3 hours here.' }), 150);
+  assert.equal(dwellMinutes({ data: { category: 'attraction' }, body: 'Allow 30-45 minutes here.' }), 38);
+});

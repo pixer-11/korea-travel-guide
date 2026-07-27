@@ -40,8 +40,8 @@ export function closedDaysOf(openingHours) {
 // Take the range midpoint; clamp to sane bounds; else category default.
 export function dwellMinutes(post) {
   const body = String(post.body || '');
-  const h = /(?:plan on|allow|budget|spend)\s+(?:about\s+|around\s+)?(\d+)(?:\s*[-–to]+\s*(\d+))?\s*hours?/i.exec(body);
-  const m = /(?:plan on|allow|budget|spend)\s+(?:about\s+|around\s+)?(\d+)(?:\s*[-–to]+\s*(\d+))?\s*min/i.exec(body);
+  const h = /(?:plan on|allow|budget|spend)\s+(?:about\s+|around\s+)?(\d+)(?:\s*(?:-|–|to)\s*(\d+))?\s*hours?/i.exec(body);
+  const m = /(?:plan on|allow|budget|spend)\s+(?:about\s+|around\s+)?(\d+)(?:\s*(?:-|–|to)\s*(\d+))?\s*min/i.exec(body);
   let mins = null;
   if (h) mins = ((Number(h[1]) + Number(h[2] || h[1])) / 2) * 60;
   else if (m) mins = (Number(m[1]) + Number(m[2] || m[1])) / 2;
@@ -159,6 +159,10 @@ function planDay(cluster, stopsWanted) {
 
 export function buildItinerary(posts, { days }) {
   const q = qualifyingPosts(posts);
+  // Early guard: ensure minimum viable posts for the requested day count
+  if (q.length < 3 * days) {
+    return { ok: false, reason: `only ${q.length} qualifying posts for ${days}-day (minimum ${3 * days} needed)`, days: [] };
+  }
   const gates = gateFor(q.length);
   if ((days === 3 && !gates.threeDay) || (days === 5 && !gates.fiveDay)) {
     return { ok: false, reason: `only ${q.length} qualifying posts for ${days}-day`, days: [] };
@@ -177,6 +181,10 @@ export function buildItinerary(posts, { days }) {
       return m + dwellMinutes(s.post) + (leg ? (leg.transit ? TRANSIT_FLAT_MIN : leg.minutes) : 0);
     }, 0);
     while (stops.length > PACE.relaxed && total(stops) > DAY_BUDGET_MIN) stops.pop();
+    // Guard: no empty days
+    if (stops.length === 0) {
+      return { ok: false, reason: `day ${d + 1} has no stops (restaurant-only or under-provisioned cluster)`, days: [] };
+    }
     // indoor rain swap: an unused venue in this cluster whose category suggests indoor
     const used = new Set(out.flatMap((x) => x.stops.map((s) => s.slug)).concat(stops.map((s) => s.post.id)));
     const rain = clusters[d].find((p) => !used.has(p.id) && /museum|market|mall|gallery|aquarium|tower|temple hall/i.test(p.data.title + ' ' + (p.data.tags || []).join(' ')));
