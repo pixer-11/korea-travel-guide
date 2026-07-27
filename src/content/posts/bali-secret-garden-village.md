@@ -93,7 +93,7 @@ faq:
       mistier than coastal Bali, plus some small rupiah notes for food stalls
       and shops.
 aiGenerated: true
-draft: false
+draft: true
 updatedDate: '2026-07-26'
 ---
 

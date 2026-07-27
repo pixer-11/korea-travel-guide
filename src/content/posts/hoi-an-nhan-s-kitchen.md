@@ -89,7 +89,7 @@ faq:
       — just be prepared for a short queue at peak meal times given its strong
       reputation.
 aiGenerated: true
-draft: false
+draft: true
 updatedDate: '2026-07-24'
 ---
 
