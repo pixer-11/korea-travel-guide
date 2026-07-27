@@ -44,6 +44,15 @@ place:
       - 13
       - 14
     venueId: ven_454e35674b4c68553345595245546476634d517665617a4a496843
+  phone: '0867 990 125'
+  openingHours:
+    - 'Monday: 8:00 AM – 9:00 PM'
+    - 'Tuesday: 8:00 AM – 9:00 PM'
+    - 'Wednesday: 8:00 AM – 9:00 PM'
+    - 'Thursday: 8:00 AM – 9:00 PM'
+    - 'Friday: 8:00 AM – 9:00 PM'
+    - 'Saturday: 8:00 AM – 9:00 PM'
+    - 'Sunday: 8:00 AM – 9:00 PM'
 tags:
   - ho chi minh city
   - trendy cafe

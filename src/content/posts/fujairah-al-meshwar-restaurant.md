@@ -47,6 +47,15 @@ place:
       - 21
       - 22
     venueId: ven_4d322d654837635a35706f52344439347a6f62623339544a496843
+  phone: '09 223 1113'
+  openingHours:
+    - 'Monday: 9:00 AM – 1:00 AM'
+    - 'Tuesday: 9:00 AM – 1:00 AM'
+    - 'Wednesday: 9:00 AM – 1:00 AM'
+    - 'Thursday: 9:00 AM – 1:00 AM'
+    - 'Friday: 9:00 AM – 1:00 AM'
+    - 'Saturday: 9:00 AM – 1:00 AM'
+    - 'Sunday: 9:00 AM – 1:00 AM'
 tags:
   - fujairah
   - street food

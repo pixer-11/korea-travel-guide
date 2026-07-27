@@ -30,6 +30,15 @@ place:
       - 21
       - 22
     venueId: ven_5978305336734151414b415255545a6a58736f496653664a496843
+  phone: '053-424-9951'
+  openingHours:
+    - 'Monday: 10:30 AM – 4:00 AM'
+    - 'Tuesday: 10:30 AM – 4:00 AM'
+    - 'Wednesday: 10:30 AM – 4:00 AM'
+    - 'Thursday: 10:30 AM – 4:00 AM'
+    - 'Friday: 10:30 AM – 5:00 AM'
+    - 'Saturday: 10:30 AM – 5:00 AM'
+    - 'Sunday: 10:30 AM – 4:00 AM'
 tags:
   - daegu
   - street food

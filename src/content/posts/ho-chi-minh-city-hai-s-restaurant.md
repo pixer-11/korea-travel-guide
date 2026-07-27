@@ -41,6 +41,15 @@ place:
       - 21
     venueId: ven_5158682d5f6e45482d6e46524554647641674c4a4e39414a496843
   priceLevel: 2
+  phone: '0911 911 857'
+  openingHours:
+    - 'Monday: 10:00 AM – 11:30 PM'
+    - 'Tuesday: 10:00 AM – 11:30 PM'
+    - 'Wednesday: 10:00 AM – 11:30 PM'
+    - 'Thursday: 10:00 AM – 11:30 PM'
+    - 'Friday: 10:00 AM – 11:30 PM'
+    - 'Saturday: 10:00 AM – 11:30 PM'
+    - 'Sunday: 10:00 AM – 11:30 PM'
 tags:
   - ho chi minh city
   - local restaurant

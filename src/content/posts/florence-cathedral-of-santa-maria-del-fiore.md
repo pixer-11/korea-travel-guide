@@ -27,6 +27,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 43.773145
   lng: 11.255960199999999
+  phone: '055 230 2885'
+  openingHours:
+    - 'Monday: 10:15 AM – 3:45 PM'
+    - 'Tuesday: 10:15 AM – 3:45 PM'
+    - 'Wednesday: 10:15 AM – 3:45 PM'
+    - 'Thursday: 10:15 AM – 3:45 PM'
+    - 'Friday: 10:15 AM – 3:45 PM'
+    - 'Saturday: 10:15 AM – 3:45 PM'
+    - 'Sunday: Closed'
 tags:
   - florence
   - Florence Cathedral Duomo

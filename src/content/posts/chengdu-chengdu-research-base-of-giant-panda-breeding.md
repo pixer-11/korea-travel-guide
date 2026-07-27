@@ -28,6 +28,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 30.732969
   lng: 104.14581
+  phone: '028 8351 0033'
+  openingHours:
+    - 'Monday: 7:30 AM – 5:00 PM'
+    - 'Tuesday: 7:30 AM – 5:00 PM'
+    - 'Wednesday: 7:30 AM – 5:00 PM'
+    - 'Thursday: 7:30 AM – 5:00 PM'
+    - 'Friday: 7:30 AM – 5:00 PM'
+    - 'Saturday: 7:30 AM – 5:00 PM'
+    - 'Sunday: 7:30 AM – 5:00 PM'
 tags:
   - chengdu
   - Giant Panda Breeding Base

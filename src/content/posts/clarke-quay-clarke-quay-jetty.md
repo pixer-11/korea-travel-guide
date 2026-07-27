@@ -28,6 +28,14 @@ place:
     weekendQuiet: [10, 11, 12, 22]
     weekendBusy: [13, 15, 16, 17, 18, 19, 20, 21]
     venueId: 'ven_45614265782d384b5a577352456a325a413645576464344a496843'
+  openingHours:
+    - 'Monday: 9:00 AM – 11:00 PM'
+    - 'Tuesday: 9:00 AM – 11:00 PM'
+    - 'Wednesday: 9:00 AM – 11:00 PM'
+    - 'Thursday: 9:00 AM – 11:00 PM'
+    - 'Friday: 9:00 AM – 11:00 PM'
+    - 'Saturday: 9:00 AM – 11:00 PM'
+    - 'Sunday: 9:00 AM – 11:00 PM'
 tags:
   - "clarke quay"
   - "hidden gem"

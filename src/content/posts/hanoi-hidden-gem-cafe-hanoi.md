@@ -46,6 +46,15 @@ place:
       - 20
     venueId: ven_77495a52384d552d786d645245544e724b69326553636a4a496843
   priceLevel: 1
+  phone: '0962 011 540'
+  openingHours:
+    - 'Monday: 7:00 AM – 10:00 PM'
+    - 'Tuesday: 7:00 AM – 10:00 PM'
+    - 'Wednesday: 7:00 AM – 10:00 PM'
+    - 'Thursday: 7:00 AM – 10:00 PM'
+    - 'Friday: 7:00 AM – 10:00 PM'
+    - 'Saturday: 7:00 AM – 10:00 PM'
+    - 'Sunday: 7:00 AM – 10:00 PM'
 tags:
   - hanoi
   - hidden gem

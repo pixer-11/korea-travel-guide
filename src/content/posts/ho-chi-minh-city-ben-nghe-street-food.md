@@ -50,6 +50,15 @@ place:
       - 21
       - 22
     venueId: ven_6f70627a717774593135455245546476676a31523379534a496843
+  phone: '0901 262 830'
+  openingHours:
+    - 'Monday: 9:00 AM – 1:00 AM'
+    - 'Tuesday: 9:00 AM – 1:00 AM'
+    - 'Wednesday: 9:00 AM – 1:00 AM'
+    - 'Thursday: 9:00 AM – 1:00 AM'
+    - 'Friday: 9:00 AM – 1:00 AM'
+    - 'Saturday: 9:00 AM – 1:00 AM'
+    - 'Sunday: 9:00 AM – 1:00 AM'
 tags:
   - ho chi minh city
   - street food

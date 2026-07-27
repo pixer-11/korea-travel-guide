@@ -22,6 +22,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 35.160153699999995
   lng: 129.16063929999999
+  phone: '051-746-1946'
+  openingHours:
+    - 'Monday: 11:00 AM – 11:50 PM'
+    - 'Tuesday: 11:00 AM – 11:50 PM'
+    - 'Wednesday: 11:00 AM – 11:50 PM'
+    - 'Thursday: 11:00 AM – 11:50 PM'
+    - 'Friday: 11:00 AM – 11:50 PM'
+    - 'Saturday: 11:00 AM – 11:50 PM'
+    - 'Sunday: 11:00 AM – 11:50 PM'
 tags:
   - busan
   - local restaurant

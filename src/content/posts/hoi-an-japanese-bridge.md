@@ -26,6 +26,14 @@ place:
   businessStatus: OPERATIONAL
   lat: 15.8770873
   lng: 108.32607039999999
+  openingHours:
+    - 'Monday: 9:00 AM – 10:00 PM'
+    - 'Tuesday: 9:00 AM – 10:00 PM'
+    - 'Wednesday: 9:00 AM – 10:00 PM'
+    - 'Thursday: 9:00 AM – 10:00 PM'
+    - 'Friday: 9:00 AM – 10:00 PM'
+    - 'Saturday: 9:00 AM – 10:00 PM'
+    - 'Sunday: 9:00 AM – 10:00 PM'
 tags:
   - hoi an
   - top attraction

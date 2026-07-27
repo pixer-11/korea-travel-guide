@@ -21,6 +21,15 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 37.805475699999995
   lng: 128.9078299
+  phone: '033-640-4414'
+  openingHours:
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
   - "gangneung"
   - "Gyeongpo Beach"

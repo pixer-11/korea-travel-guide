@@ -36,6 +36,15 @@ place:
       - 13
       - 14
     venueId: ven_495f6e6175337776366b395245545168792d30324b624b4a496843
+  phone: '0934 952 994'
+  openingHours:
+    - 'Monday: 9:00 AM – 7:00 PM'
+    - 'Tuesday: 9:00 AM – 7:00 PM'
+    - 'Wednesday: 9:00 AM – 7:00 PM'
+    - 'Thursday: 9:00 AM – 7:00 PM'
+    - 'Friday: 9:00 AM – 7:00 PM'
+    - 'Saturday: 9:00 AM – 7:00 PM'
+    - 'Sunday: 9:00 AM – 7:00 PM'
 tags:
   - hue
   - street food

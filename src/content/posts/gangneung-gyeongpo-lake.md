@@ -21,6 +21,14 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 37.796698299999996
   lng: 128.9020548
+  openingHours:
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
   - "gangneung"
   - "top attraction"

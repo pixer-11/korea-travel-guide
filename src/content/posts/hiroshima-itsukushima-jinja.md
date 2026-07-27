@@ -51,6 +51,15 @@ place:
       - 14
       - 15
     venueId: ven_556a636f63503031574e6b52416d476a5467664833326a4a496843
+  phone: '0829-44-2020'
+  openingHours:
+    - 'Monday: 6:30 AM – 6:00 PM'
+    - 'Tuesday: 6:30 AM – 6:00 PM'
+    - 'Wednesday: 6:30 AM – 6:00 PM'
+    - 'Thursday: 6:30 AM – 6:00 PM'
+    - 'Friday: 6:30 AM – 6:00 PM'
+    - 'Saturday: 6:30 AM – 6:00 PM'
+    - 'Sunday: 6:30 AM – 6:00 PM'
 tags:
   - hiroshima
   - Itsukushima Shrine

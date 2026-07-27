@@ -40,6 +40,14 @@ place:
       - 21
       - 22
     venueId: ven_6b315558495f6669546c6a5245544e72367245346f30704a496843
+  openingHours:
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
   - hanoi
   - top attraction

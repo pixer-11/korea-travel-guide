@@ -22,6 +22,15 @@ place:
   lat: 25.149012199999998
   lng: 56.3553448
   priceLevel: 2
+  phone: '09 501 3298'
+  openingHours:
+    - 'Monday: 7:00 AM – 12:00 AM'
+    - 'Tuesday: 7:00 AM – 12:00 AM'
+    - 'Wednesday: 7:00 AM – 12:00 AM'
+    - 'Thursday: 7:00 AM – 12:00 AM'
+    - 'Friday: 7:00 AM – 12:00 AM'
+    - 'Saturday: 7:00 AM – 12:00 AM'
+    - 'Sunday: 7:00 AM – 12:00 AM'
 tags:
   - fujairah
   - trendy cafe

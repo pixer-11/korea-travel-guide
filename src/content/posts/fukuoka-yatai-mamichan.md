@@ -27,6 +27,14 @@ place:
   businessStatus: OPERATIONAL
   lat: 33.5920555
   lng: 130.39774269999998
+  openingHours:
+    - 'Monday: 6:00 – 11:30 PM'
+    - 'Tuesday: 6:00 – 11:30 PM'
+    - 'Wednesday: 6:00 – 11:30 PM'
+    - 'Thursday: 6:00 – 11:30 PM'
+    - 'Friday: 6:00 – 11:30 PM'
+    - 'Saturday: 6:00 – 11:30 PM'
+    - 'Sunday: Closed'
 tags:
   - fukuoka
   - Fukuoka Yatai Food Stalls

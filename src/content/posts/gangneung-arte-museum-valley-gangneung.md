@@ -21,6 +21,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 37.7917805
   lng: 128.90718999999999
+  phone: '1899-5008'
+  openingHours:
+    - 'Monday: 10:00 AM – 8:00 PM'
+    - 'Tuesday: 10:00 AM – 8:00 PM'
+    - 'Wednesday: 10:00 AM – 8:00 PM'
+    - 'Thursday: 10:00 AM – 8:00 PM'
+    - 'Friday: 10:00 AM – 8:00 PM'
+    - 'Saturday: 10:00 AM – 8:00 PM'
+    - 'Sunday: 10:00 AM – 8:00 PM'
 tags:
   - gangneung
   - hidden gem

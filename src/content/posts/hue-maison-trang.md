@@ -29,6 +29,15 @@ place:
     weekendQuiet: [8, 9, 10, 15]
     weekendBusy: [18, 19, 20, 21]
     venueId: 'ven_3044384c774846544749565245545168474f4c524d635a4a496843'
+  phone: '0935 813 636'
+  openingHours:
+    - 'Monday: 8:00 AM – 10:30 PM'
+    - 'Tuesday: 8:00 AM – 10:30 PM'
+    - 'Wednesday: 8:00 AM – 10:30 PM'
+    - 'Thursday: 8:00 AM – 10:30 PM'
+    - 'Friday: 8:00 AM – 10:30 PM'
+    - 'Saturday: 8:00 AM – 10:30 PM'
+    - 'Sunday: 8:00 AM – 10:30 PM'
 tags:
   - "hue"
   - "local restaurant"

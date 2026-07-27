@@ -55,6 +55,15 @@ place:
       - 15
       - 16
     venueId: ven_674c4a527636706635366c52555451622d704b7276667a4a496843
+  phone: '092-922-8225'
+  openingHours:
+    - 'Monday: 6:00 AM – 7:30 PM'
+    - 'Tuesday: 6:00 AM – 7:30 PM'
+    - 'Wednesday: 6:00 AM – 7:30 PM'
+    - 'Thursday: 6:00 AM – 7:30 PM'
+    - 'Friday: 6:00 AM – 7:30 PM'
+    - 'Saturday: 6:00 AM – 7:30 PM'
+    - 'Sunday: 6:00 AM – 7:30 PM'
 tags:
   - fukuoka
   - hidden gem

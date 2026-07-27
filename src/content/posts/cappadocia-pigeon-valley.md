@@ -27,6 +27,14 @@ place:
   businessStatus: OPERATIONAL
   lat: 38.6203802
   lng: 34.8046945
+  openingHours:
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
   - cappadocia
   - top attraction

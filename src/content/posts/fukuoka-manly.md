@@ -39,6 +39,15 @@ place:
       - 20
       - 21
     venueId: ven_4d78397334585177636c765255545152534937645077454a496843
+  phone: '092-791-7738'
+  openingHours:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 11:00 PM'
+    - 'Saturday: 11:00 AM – 11:00 PM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
 tags:
   - fukuoka
   - trendy cafe

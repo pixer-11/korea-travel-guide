@@ -43,6 +43,15 @@ place:
       - 15
       - 16
     venueId: ven_41596a525f754568493666523051633866376c5f6c374f4a496843
+  phone: '958 02 79 71'
+  openingHours:
+    - 'Monday: 8:30 AM – 6:00 PM'
+    - 'Tuesday: 8:30 AM – 6:00 PM'
+    - 'Wednesday: 8:30 AM – 6:00 PM'
+    - 'Thursday: 8:30 AM – 6:00 PM'
+    - 'Friday: 8:30 AM – 6:00 PM, 8:00 – 9:30 PM'
+    - 'Saturday: 8:30 AM – 6:00 PM, 8:00 – 9:30 PM'
+    - 'Sunday: 8:30 AM – 6:00 PM'
 tags:
   - granada
   - Alhambra

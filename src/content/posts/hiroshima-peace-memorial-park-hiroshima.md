@@ -26,6 +26,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 34.3926867
   lng: 132.4522012
+  phone: '082-504-2390'
+  openingHours:
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
   - hiroshima
   - top attraction

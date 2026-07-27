@@ -45,6 +45,15 @@ place:
       - 14
       - 15
     venueId: ven_7758324b39394b55516e715245546476416a6f3367777a4a496843
+  phone: '028 3930 5587'
+  openingHours:
+    - 'Monday: 7:30 AM – 5:30 PM'
+    - 'Tuesday: 7:30 AM – 5:30 PM'
+    - 'Wednesday: 7:30 AM – 5:30 PM'
+    - 'Thursday: 7:30 AM – 5:30 PM'
+    - 'Friday: 7:30 AM – 5:30 PM'
+    - 'Saturday: 7:30 AM – 5:30 PM'
+    - 'Sunday: 7:30 AM – 5:30 PM'
 tags:
   - ho chi minh city
   - top attraction

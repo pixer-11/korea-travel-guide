@@ -37,6 +37,15 @@ place:
       - 18
       - 19
     venueId: ven_30746c3363727933762d4852456a515a6b5549525056594a496843
+  phone: '0987 824 285'
+  openingHours:
+    - 'Monday: 10:30 AM – 9:30 PM'
+    - 'Tuesday: 10:30 AM – 9:30 PM'
+    - 'Wednesday: 10:30 AM – 9:30 PM'
+    - 'Thursday: 10:30 AM – 9:30 PM'
+    - 'Friday: 10:30 AM – 9:30 PM'
+    - 'Saturday: 10:30 AM – 9:30 PM'
+    - 'Sunday: 10:30 AM – 9:30 PM'
 tags:
   - da nang
   - street food

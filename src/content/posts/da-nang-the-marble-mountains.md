@@ -48,6 +48,15 @@ place:
       - 14
       - 15
     venueId: ven_777262663836634c53657852456a514e5164344c3579324a496843
+  phone: '0236 3961 114'
+  openingHours:
+    - 'Monday: 7:00 AM – 5:30 PM'
+    - 'Tuesday: 7:00 AM – 5:30 PM'
+    - 'Wednesday: 7:00 AM – 5:30 PM'
+    - 'Thursday: 7:00 AM – 5:30 PM'
+    - 'Friday: 7:00 AM – 5:30 PM'
+    - 'Saturday: 7:00 AM – 5:30 PM'
+    - 'Sunday: 7:00 AM – 5:30 PM'
 tags:
   - da nang
   - top attraction

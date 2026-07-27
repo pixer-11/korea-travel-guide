@@ -46,6 +46,15 @@ place:
       - 19
     venueId: ven_5973306675385465645f3652456a515045624f72485f624a496843
   priceLevel: 1
+  phone: '0374 099 375'
+  openingHours:
+    - 'Monday: 8:00 AM – 10:30 PM'
+    - 'Tuesday: 8:00 AM – 10:30 PM'
+    - 'Wednesday: 8:00 AM – 10:30 PM'
+    - 'Thursday: 8:00 AM – 10:30 PM'
+    - 'Friday: 8:00 AM – 10:30 PM'
+    - 'Saturday: 8:00 AM – 10:30 PM'
+    - 'Sunday: 8:00 AM – 10:30 PM'
 tags:
   - hoi an
   - trendy cafe

@@ -46,6 +46,15 @@ place:
       - 21
       - 22
     venueId: ven_454662665078663265793752456a51584d72376d7478374a496843
+  phone: '0799 343 943'
+  openingHours:
+    - 'Monday: 6:30 AM – 10:30 PM'
+    - 'Tuesday: 6:30 AM – 10:30 PM'
+    - 'Wednesday: 6:30 AM – 10:30 PM'
+    - 'Thursday: 6:30 AM – 10:30 PM'
+    - 'Friday: 6:30 AM – 10:30 PM'
+    - 'Saturday: 6:30 AM – 10:30 PM'
+    - 'Sunday: 6:30 AM – 10:30 PM'
 tags:
   - da nang
   - trendy cafe

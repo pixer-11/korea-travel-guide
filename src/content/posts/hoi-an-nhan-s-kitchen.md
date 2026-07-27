@@ -52,6 +52,15 @@ place:
       - 19
       - 20
     venueId: ven_554478334e54754256426652456a514e343842364266364a496843
+  phone: '0905 186 867'
+  openingHours:
+    - 'Monday: 10:00 AM – 9:20 PM'
+    - 'Tuesday: 10:00 AM – 9:20 PM'
+    - 'Wednesday: 10:00 AM – 9:20 PM'
+    - 'Thursday: 10:00 AM – 9:20 PM'
+    - 'Friday: 10:00 AM – 9:20 PM'
+    - 'Saturday: 10:00 AM – 9:20 PM'
+    - 'Sunday: 10:00 AM – 9:20 PM'
 tags:
   - hoi an
   - local restaurant

@@ -45,6 +45,15 @@ place:
       - 19
       - 20
     venueId: ven_38776b32373844656e586d5255545a6b443456426459324a496843
+  phone: '053-620-0001'
+  openingHours:
+    - 'Monday: 11:30 AM – 8:30 PM'
+    - 'Tuesday: 11:30 AM – 8:30 PM'
+    - 'Wednesday: 11:30 AM – 8:30 PM'
+    - 'Thursday: 11:30 AM – 8:30 PM'
+    - 'Friday: 11:30 AM – 8:30 PM'
+    - 'Saturday: 11:30 AM – 9:00 PM'
+    - 'Sunday: 11:30 AM – 9:00 PM'
 tags:
   - daegu
   - hidden gem

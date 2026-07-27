@@ -22,6 +22,15 @@ place:
   lat: 18.7812114
   lng: 98.98839889999999
   priceLevel: 1
+  phone: '098 761 7344'
+  openingHours:
+    - 'Monday: 4:00 – 10:00 PM'
+    - 'Tuesday: 4:00 – 10:00 PM'
+    - 'Wednesday: 4:00 – 10:00 PM'
+    - 'Thursday: 4:00 – 10:00 PM'
+    - 'Friday: 4:00 – 10:00 PM'
+    - 'Saturday: 3:00 – 10:00 PM'
+    - 'Sunday: Closed'
 tags:
   - chiang mai
   - street food

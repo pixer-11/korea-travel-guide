@@ -21,6 +21,14 @@ place:
   businessStatus: OPERATIONAL
   lat: 20.843978699999997
   lng: 107.0914838
+  openingHours:
+    - 'Monday: 7:00 AM – 5:00 PM'
+    - 'Tuesday: 7:00 AM – 5:00 PM'
+    - 'Wednesday: 7:00 AM – 5:00 PM'
+    - 'Thursday: 7:00 AM – 5:00 PM'
+    - 'Friday: 7:00 AM – 5:00 PM'
+    - 'Saturday: 7:00 AM – 5:00 PM'
+    - 'Sunday: 7:00 AM – 5:00 PM'
 tags:
   - ha long bay
   - hidden gem

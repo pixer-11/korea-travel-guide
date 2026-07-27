@@ -25,6 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 1.2906024
   lng: 103.84647419999999
+  phone: '6631 9931'
 tags:
   - clarke quay
   - top attraction

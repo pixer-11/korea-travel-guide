@@ -26,6 +26,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 35.8291928
   lng: 129.21812130000004
+  phone: '054-779-6138'
+  openingHours:
+    - 'Monday: 9:00 AM – 10:00 PM'
+    - 'Tuesday: 9:00 AM – 10:00 PM'
+    - 'Wednesday: 9:00 AM – 10:00 PM'
+    - 'Thursday: 9:00 AM – 10:00 PM'
+    - 'Friday: 9:00 AM – 10:00 PM'
+    - 'Saturday: 9:00 AM – 10:00 PM'
+    - 'Sunday: 9:00 AM – 10:00 PM'
 tags:
   - gyeongju
   - top attraction

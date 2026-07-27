@@ -20,6 +20,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 37.8977544
   lng: 128.8338509
+  phone: '033-662-2131'
 tags:
   - gangneung
   - K-drama filming site
