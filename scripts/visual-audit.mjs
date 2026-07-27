@@ -93,6 +93,11 @@ for (const f of files) {
   if (!hero || !hero.url) continue;
   if (hero.license === 'google-places' || (hero.url || '').includes('/venue-photos/')) continue; // real venue photo → trust
   if (!VENUE.has(data.category)) continue;
+  // Quarantined posts are already off the site (draft → 301) and are the alt-photo
+  // patrol's job. Auditing them burns vision calls and, worse, re-reports names the
+  // owner has already been told about — which reads as "the same problems keep
+  // coming back" when they are in fact already handled.
+  if (data.draft === true) continue;
   const key = `${slug}${hero.url}`;
   if (!AUDIT_ALL && !argSlugs && store[key]) continue; // already judged this exact hero
 
@@ -118,7 +123,14 @@ if (flagged.length) { console.log('\nMISMATCHES:'); console.log(flagged.join('\n
 // Telegram summary (Korean) when configured and something is off.
 const { TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID } = process.env;
 if (TELEGRAM_BOT_TOKEN && TELEGRAM_CHAT_ID && mismatch > 0) {
-  const text = `🖼️ Wander Atlas — 시각 이미지 검증\n오매칭 ${mismatch}건 / 검사 ${checked}건\n${flagged.slice(0, 15).join('\n')}`;
+  // Say what happens NEXT. Without it the list reads as an open to-do for the
+  // owner, when every flagged slug is already queued for the automatic repair
+  // patrol via data/visual-audit.json.
+  const text =
+    `🖼️ Wander Atlas — 시각 이미지 검증\n` +
+    `오매칭 ${mismatch}건 / 검사 ${checked}건 (첫 검사분만; 이미 격리된 글은 제외)\n` +
+    `${flagged.slice(0, 15).join('\n')}\n` +
+    `\n➡️ 위 글들은 내일 04:35 자동 수리 순찰이 사진 교체를 시도하고, 실패하면 자동 격리합니다. 따로 하실 일은 없습니다.`;
   await fetch(`https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage`, {
     method: 'POST', headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ chat_id: TELEGRAM_CHAT_ID, text, disable_web_page_preview: true }),

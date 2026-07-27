@@ -34,11 +34,25 @@ if (!process.env.FOURSQUARE_API_KEY && !process.env.FLICKR_API_KEY) {
 }
 
 const vmismatch = new Set();
+// visual-audit.json is keyed by slug+heroUrl and never forgets: once a post is
+// fixed, the OLD key keeps its MISMATCH verdict forever while a new key records
+// the new photo as MATCH. Adding every MISMATCH slug therefore re-queued ~200
+// already-fixed posts every night (the patrol's "scanned 399 targets"). Keep a
+// slug only when the verdict belongs to the hero it is CURRENTLY showing.
+const vmismatchUrls = new Map(); // slug → Set(url judged MISMATCH)
 if (existsSync('data/visual-audit.json')) {
   try {
     const audit = JSON.parse(readFileSync('data/visual-audit.json', 'utf8'));
-    for (const item of audit.results ?? audit ?? []) {
-      if ((item.verdict || item.status || '').toUpperCase().includes('MISMATCH') && item.slug) vmismatch.add(item.slug);
+    const entries = audit.results ?? audit ?? {};
+    for (const [key, item] of Object.entries(entries)) {
+      if (!item?.slug) continue;
+      if (!(item.verdict || item.status || '').toUpperCase().includes('MISMATCH')) continue;
+      // key === `${slug}\x01${url}` (visual-audit.mjs joins them with \x01).
+      // Tolerate a plain-concat key too, in case older entries lack the separator.
+      const rest = key.startsWith(item.slug) ? key.slice(item.slug.length) : '';
+      const url = rest.startsWith('\x01') ? rest.slice(1) : rest;
+      if (!vmismatchUrls.has(item.slug)) vmismatchUrls.set(item.slug, new Set());
+      vmismatchUrls.get(item.slug).add(url);
     }
   } catch {}
 }
@@ -75,11 +89,16 @@ for (const f of files) {
   // AUDIT_ALL=1 → EVERY venue post is vision-checked (catches name-collision
   // cases the filename heuristic can't see, e.g. Rolo's restaurant wearing a
   // Rolo-candy photo). Default mode only touches the known backlog.
+  // Stale-verdict guard: only treat a MISMATCH as current if it was recorded
+  // against the hero this post still shows (see vmismatchUrls above).
+  const flaggedNow =
+    vmismatch.has(slug) ||
+    (vmismatchUrls.get(slug)?.has(data.heroImage?.url || '') ?? false);
   const isTarget =
     process.env.AUDIT_ALL === '1' ||
     ONLY.length > 0 ||
     data.draft === true ||
-    vmismatch.has(slug) ||
+    flaggedNow ||
     (data.heroImage?.url || '').includes('placeholder');
   if (!isTarget) continue;
   scanned++;
