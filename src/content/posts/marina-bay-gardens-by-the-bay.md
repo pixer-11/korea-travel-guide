@@ -28,6 +28,15 @@ place:
     weekendQuiet: [7, 8]
     weekendBusy: [14, 15, 16, 17, 18, 19, 20, 21]
     venueId: 'ven_495743576558746671736452456a325a51776b2d5a784d4a496843'
+  phone: '6420 6848'
+  openingHours:
+    - 'Monday: 5:00 AM – 2:00 AM'
+    - 'Tuesday: 5:00 AM – 2:00 AM'
+    - 'Wednesday: 5:00 AM – 2:00 AM'
+    - 'Thursday: 5:00 AM – 2:00 AM'
+    - 'Friday: 5:00 AM – 2:00 AM'
+    - 'Saturday: 5:00 AM – 2:00 AM'
+    - 'Sunday: 5:00 AM – 2:00 AM'
 tags:
   - "marina bay"
   - "hidden gem"

@@ -36,6 +36,15 @@ place:
       - 21
       - 22
     venueId: ven_41464c4455736b6871573452456a325a454c45544d776e4a496843
+  phone: '6294 1697'
+  openingHours:
+    - 'Monday: Closed'
+    - 'Tuesday: 7:00 AM – 2:00 AM'
+    - 'Wednesday: 7:00 AM – 2:00 AM'
+    - 'Thursday: 7:00 AM – 2:00 AM'
+    - 'Friday: 7:00 AM – 2:00 AM'
+    - 'Saturday: 7:00 AM – 2:00 AM'
+    - 'Sunday: 7:00 AM – 2:00 AM'
 tags:
   - kampong glam
   - trendy cafe

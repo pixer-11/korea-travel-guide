@@ -21,6 +21,15 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 35.003562200000005
   lng: 135.77673009999998
+  phone: '075-541-5464'
+  openingHours:
+    - 'Monday: 10:00 AM – 8:00 PM'
+    - 'Tuesday: 10:00 AM – 8:00 PM'
+    - 'Wednesday: 10:00 AM – 8:00 PM'
+    - 'Thursday: 10:00 AM – 8:00 PM'
+    - 'Friday: 10:00 AM – 8:00 PM'
+    - 'Saturday: 10:00 AM – 8:00 PM'
+    - 'Sunday: 10:00 AM – 8:00 PM'
 tags:
   - "kyoto"
   - "Gion Matsuri"
