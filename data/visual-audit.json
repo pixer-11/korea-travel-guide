@@ -2482,5 +2482,905 @@
   "verdict": "MATCH",
   "reason": "Traditional Indonesian meal, authentic dining setting, Yogya",
   "at": "2026-07-25T02:51:00.568Z"
+ },
+ "abu-dhabi-art-house-cafe\u0001https://fastly.4sqi.net/img/general/original/862678_9l59qYvHG6TUMtRzcgS91YY5D5mFWBywhgl2p1MM82o.jpg": {
+  "slug": "abu-dhabi-art-house-cafe",
+  "verdict": "MATCH",
+  "reason": "Tea service in trendy café interior, artistic ambiance",
+  "at": "2026-07-27T12:44:06.669Z"
+ },
+ "abu-dhabi-flavors-grill-abu-dhabi\u0001https://fastly.4sqi.net/img/general/original/42481270_sFaraBmYSnTrn1w4Nlkf_rsr0WtAjNDcm_iVN_xGqy4.jpg": {
+  "slug": "abu-dhabi-flavors-grill-abu-dhabi",
+  "verdict": "MATCH",
+  "reason": "Restaurant storefront in Abu Dhabi at night",
+  "at": "2026-07-27T12:44:10.113Z"
+ },
+ "agra-itmad-ud-daula\u0001https://upload.wikimedia.org/wikipedia/commons/2/26/Itmad-ud-Daula_24.JPG": {
+  "slug": "agra-itmad-ud-daula",
+  "verdict": "MATCH",
+  "reason": "Itmad-ud-Daula mausoleum, distinctive architecture, Agra",
+  "at": "2026-07-27T12:44:12.257Z"
+ },
+ "ajman-ajman-secret-beach\u0001https://fastly.4sqi.net/img/general/original/559749939_R7aa-Rc8tTwNOluiSD-FBKKPFIJb6k81Zs-PgOreXXY.jpg": {
+  "slug": "ajman-ajman-secret-beach",
+  "verdict": "MATCH",
+  "reason": "Beach dining scene, UAE coastal setting, luxury experience",
+  "at": "2026-07-27T12:44:13.582Z"
+ },
+ "ajman-souryana-restaurant-and-cafe\u0001https://fastly.4sqi.net/img/general/original/20215287_XIcujUyTSVj7HCl4jRXY-qUXuaRx3Yz9SRd9m8wtHz0.jpg": {
+  "slug": "ajman-souryana-restaurant-and-cafe",
+  "verdict": "MATCH",
+  "reason": "Restaurant plated meal with Arabic branding visible",
+  "at": "2026-07-27T12:44:15.551Z"
+ },
+ "ajman-the-seat-cafe\u0001https://fastly.4sqi.net/img/general/original/54152006_X7YlKOR5cIByvATNrIVcPTOkJ8PasIkaisGcrM6Vu4g.jpg": {
+  "slug": "ajman-the-seat-cafe",
+  "verdict": "MATCH",
+  "reason": "Trendy café courtyard with modern architecture, Ajman",
+  "at": "2026-07-27T12:44:17.231Z"
+ },
+ "amalfi-coast-amalfi-coast\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Amalfi_Coast_%28Italy%2C_October_2020%29_-_75_%2850558355441%29.jpg/1920px-Amalfi_Coast_%28Italy%2C_October_2020%29_-_75_%2850558355441%29.jpg": {
+  "slug": "amalfi-coast-amalfi-coast",
+  "verdict": "MATCH",
+  "reason": "Iconic Amalfi Coast landscape with coastal villages",
+  "at": "2026-07-27T12:44:19.719Z"
+ },
+ "andong-hahoe-folk-village\u0001https://fastly.4sqi.net/img/general/original/20301648_gxHKyQ-6zuCktRUQmGxw1zzTLN2Uc5BVBRXMEFjdo3A.jpg": {
+  "slug": "andong-hahoe-folk-village",
+  "verdict": "MATCH",
+  "reason": "Traditional Korean architecture, Hahoe Folk Village style",
+  "at": "2026-07-27T12:44:22.636Z"
+ },
+ "ankara-ankara-castle\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ankara_Castle.jpg/1920px-Ankara_Castle.jpg": {
+  "slug": "ankara-ankara-castle",
+  "verdict": "MATCH",
+  "reason": "Turkish castle on hilltop with flag, fortifications visible",
+  "at": "2026-07-27T12:44:25.716Z"
+ },
+ "ankara-trilye-restaurant\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Mixed_plate_in_Trilye%2C_Ankara.jpg/1920px-Mixed_plate_in_Trilye%2C_Ankara.jpg": {
+  "slug": "ankara-trilye-restaurant",
+  "verdict": "MATCH",
+  "reason": "Fine dining seafood plate, upscale Ankara restaurant",
+  "at": "2026-07-27T12:44:28.711Z"
+ },
+ "antalya-hadrian-s-gate\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/P9271452_Hadrians_Gate.jpg/1920px-P9271452_Hadrians_Gate.jpg": {
+  "slug": "antalya-hadrian-s-gate",
+  "verdict": "MATCH",
+  "reason": "Hadrian's Gate ruins in Antalya, Turkey",
+  "at": "2026-07-27T12:44:30.528Z"
+ },
+ "ayutthaya-the-artisans-ayutthaya\u0001https://fastly.4sqi.net/img/general/original/976202_udyt18ze7RFPaUuM0cS1kgJ8g9ozZ0ThbDCz-cgWLIQ.jpg": {
+  "slug": "ayutthaya-the-artisans-ayutthaya",
+  "verdict": "MATCH",
+  "reason": "Thai restaurant menu from Ayutthaya, authentic cuisine",
+  "at": "2026-07-27T12:44:32.038Z"
+ },
+ "ayutthaya-the-summer-house\u0001https://fastly.4sqi.net/img/general/original/53417732_MgVxmMOgxY5vEOrFTqY_G38fAW2VPc3Z0b9ka8dqB30.jpg": {
+  "slug": "ayutthaya-the-summer-house",
+  "verdict": "MATCH",
+  "reason": "Storefront signage of The Summer House Ayutthaya",
+  "at": "2026-07-27T12:44:34.487Z"
+ },
+ "bali-bingin-uluwatu-pak-gula\u0001https://fastly.4sqi.net/img/general/original/4203067_xZ5GvIPYGQVB1R57G8U1SBLGwZ_LD7_xS-Xc4XDXZSY.jpg": {
+  "slug": "bali-bingin-uluwatu-pak-gula",
+  "verdict": "MATCH",
+  "reason": "Colorful tropical cocktail, trendy venue aesthetic",
+  "at": "2026-07-27T12:44:35.939Z"
+ },
+ "bali-bukit-peninsula-uluwatu-avli\u0001https://fastly.4sqi.net/img/general/original/1408858710_Kv9008tNTkE9Gtu4qHw413WqY6RN2XOrn28PhKtZF4I.jpg": {
+  "slug": "bali-bukit-peninsula-uluwatu-avli",
+  "verdict": "MATCH",
+  "reason": "Fine dining setup, tropical plants, Balinese ambiance",
+  "at": "2026-07-27T12:44:37.649Z"
+ },
+ "bali-chai-of-the-tiger-indian-street-food\u0001https://fastly.4sqi.net/img/general/original/25955595_gEGgt-JZ837010f-c-f4D842SrZkb2Kuq1M4ZC0lJzQ.jpg": {
+  "slug": "bali-chai-of-the-tiger-indian-street-food",
+  "verdict": "MATCH",
+  "reason": "Balinese temple setting, beverages plausibly from venue",
+  "at": "2026-07-27T12:44:41.295Z"
+ },
+ "bali-cure-bali\u0001https://fastly.4sqi.net/img/general/original/543233313_iOLX7_PvYnOhDXgMlx13iji9rTC7qA9f-FM_Z49IGn8.jpg": {
+  "slug": "bali-cure-bali",
+  "verdict": "MATCH",
+  "reason": "Beachfront restaurant with modern architecture, Bali setting",
+  "at": "2026-07-27T12:44:43.491Z"
+ },
+ "bali-livingstone\u0001https://fastly.4sqi.net/img/general/original/479235657_DIekptNhmOeanCOIin30L3Ff6c-bfOEWcI27F6DvQvc.jpg": {
+  "slug": "bali-livingstone",
+  "verdict": "MATCH",
+  "reason": "Livingstone Cafe Bakery storefront, Bali Indonesia",
+  "at": "2026-07-27T12:44:51.850Z"
+ },
+ "bali-secret-garden-village\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Unveiling_Gunung_Kawi%2C_Bali%E2%80%99s_Hidden_Gem.jpg/1920px-Unveiling_Gunung_Kawi%2C_Bali%E2%80%99s_Hidden_Gem.jpg": {
+  "slug": "bali-secret-garden-village",
+  "verdict": "MATCH",
+  "reason": "Rural Balinese agricultural setting with rice paddies",
+  "at": "2026-07-27T12:44:53.888Z"
+ },
+ "bali-this-is-bali-balinese-food-desserts\u0001https://fastly.4sqi.net/img/general/original/45100800__dzHUfsE0sgLbseICy-_TB-3naxrwdXrt_mgWm5zgXw.jpg": {
+  "slug": "bali-this-is-bali-balinese-food-desserts",
+  "verdict": "MATCH",
+  "reason": "Authentic Balinese rice and meat stir-fry dish",
+  "at": "2026-07-27T12:44:55.550Z"
+ },
+ "bandung-dago-dreampark\u0001https://fastly.4sqi.net/img/general/original/481329249_zgtOuRlRxUiPdbtm-poB4gioN2VWmSvbOU6LphiyzUQ.jpg": {
+  "slug": "bandung-dago-dreampark",
+  "verdict": "MATCH",
+  "reason": "Theme park entrance with 'FUN in the NATURE' signage",
+  "at": "2026-07-27T12:44:57.236Z"
+ },
+ "bandung-hummingbird-eatery-space\u0001https://fastly.4sqi.net/img/general/original/20092480_CrleDcSELW6nqQvj4QUdbI1Fd8aZuPMPxmr0S3oaU4w.jpg": {
+  "slug": "bandung-hummingbird-eatery-space",
+  "verdict": "MATCH",
+  "reason": "Pizza meal at casual dining restaurant, Bandung setting",
+  "at": "2026-07-27T12:44:59.347Z"
+ },
+ "bandung-wheels-coffee-roasters-heritage-lifestyle-hub-riau\u0001https://fastly.4sqi.net/img/general/original/44083177_upwliGeDUn_uFftewKyLQDAGi-OhXlru3Goq9Zcvlxo.jpg": {
+  "slug": "bandung-wheels-coffee-roasters-heritage-lifestyle-hub-riau",
+  "verdict": "MISMATCH",
+  "reason": "Building architecture doesn't match coffee roaster venue",
+  "at": "2026-07-27T12:45:00.844Z"
+ },
+ "bangkok-chatuchak-weekend-market\u0001https://fastly.4sqi.net/img/general/original/7188988_ua0EkgwYNTSRbE8Sh6CRNXPw68pEThWcrGUJuKLjPHw.jpg": {
+  "slug": "bangkok-chatuchak-weekend-market",
+  "verdict": "MATCH",
+  "reason": "Clothing stall typical of Chatuchak Market",
+  "at": "2026-07-27T12:45:02.657Z"
+ },
+ "bangkok-cheaper-better-street-food\u0001https://fastly.4sqi.net/img/general/original/6135150_Bw7nE-r0VS3z35WOGLooimPlrz1c4C6FIPKO-TDo7wY.jpg": {
+  "slug": "bangkok-cheaper-better-street-food",
+  "verdict": "MATCH",
+  "reason": "Bangkok street food restaurant with local cuisine, beer, cas",
+  "at": "2026-07-27T12:45:04.498Z"
+ },
+ "bangkok-hidden-bangkok-tours\u0001https://fastly.4sqi.net/img/general/original/431587360_A0YW3tZ7WwtqMcrIbdIQQZmBHckEQiOgA2IFgSqgV20.jpg": {
+  "slug": "bangkok-hidden-bangkok-tours",
+  "verdict": "MATCH",
+  "reason": "Authentic Bangkok floating community tour boat",
+  "at": "2026-07-27T12:45:07.457Z"
+ },
+ "bangkok-khao-san-sek\u0001https://fastly.4sqi.net/img/general/original/5813125_HYnaT3Kor8aa60JdU58LRfN6EF04JCikxkaB-BGIqbY.jpg": {
+  "slug": "bangkok-khao-san-sek",
+  "verdict": "MATCH",
+  "reason": "Historic wooden shophouse, Bangkok street architecture",
+  "at": "2026-07-27T12:45:09.060Z"
+ },
+ "bangkok-somsak\u0001https://fastly.4sqi.net/img/general/original/85327423_yVxvfzyV5QEJNSCmA1gsxxKZSyfmNtqr7ORFuPDvSl4.jpg": {
+  "slug": "bangkok-somsak",
+  "verdict": "MATCH",
+  "reason": "Thai restaurant table with authentic dishes and colorful bra",
+  "at": "2026-07-27T12:45:10.472Z"
+ },
+ "bangkok-the-island-bangkok-top-rated-thai-restaurant-bar\u0001https://fastly.4sqi.net/img/general/original/3144864_JKTVQrJ8k4yJLK9Z__I-iuxCZFwwCVfENweyUnbi384.jpg": {
+  "slug": "bangkok-the-island-bangkok-top-rated-thai-restaurant-bar",
+  "verdict": "WEAK",
+  "reason": "Interior decor visible, but lacks restaurant/food context",
+  "at": "2026-07-27T12:45:12.631Z"
+ },
+ "bangkok-treehouse-cafe-bar\u0001https://fastly.4sqi.net/img/general/original/3277190_2txPxq-FhRjtPEUO8AokJTw6BP1Lb4JqYEPTpppFv98.jpg": {
+  "slug": "bangkok-treehouse-cafe-bar",
+  "verdict": "MATCH",
+  "reason": "Thai cuisine, contemporary plating, trendy Bangkok restauran",
+  "at": "2026-07-27T12:45:17.440Z"
+ },
+ "bangkok-wat-arun-ratchawararam-ratchawaramahawihan\u0001https://fastly.4sqi.net/img/general/original/61683720_EKCfkPK8FHt2o8Y1PAkfQWKxY6ySBgnh1hobUQVbzPw.jpg": {
+  "slug": "bangkok-wat-arun-ratchawararam-ratchawaramahawihan",
+  "verdict": "MATCH",
+  "reason": "Water lily, temple architecture, Thai style visible",
+  "at": "2026-07-27T12:45:19.347Z"
+ },
+ "barcelona-basilica-of-the-sagrada-familia\u0001https://fastly.4sqi.net/img/general/original/21699186_yN83CHxCysGMhHNFMPlQjlqSMy_kKOF4gy-DNFqGO74.jpg": {
+  "slug": "barcelona-basilica-of-the-sagrada-familia",
+  "verdict": "MATCH",
+  "reason": "Sagrada Familia basilica with distinctive architecture and w",
+  "at": "2026-07-27T12:45:21.210Z"
+ },
+ "barcelona-gloria-osteria\u0001https://fastly.4sqi.net/img/general/original/139930618_LFxJ-HGH_OuvRVnjikL2S-ELQ8DH9SamUDZRqrotCq0.jpg": {
+  "slug": "barcelona-gloria-osteria",
+  "verdict": "MATCH",
+  "reason": "Italian pizza with decorative plates, wine, Barcelona settin",
+  "at": "2026-07-27T12:45:22.951Z"
+ },
+ "beijing-forbidden-city\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Beijing_forbidden_city_Belvedere_of_Embodying_Benevolence-20071018-RM-142403.jpg/1920px-Beijing_forbidden_city_Belvedere_of_Embodying_Benevolence-20071018-RM-142403.jpg": {
+  "slug": "beijing-forbidden-city",
+  "verdict": "MATCH",
+  "reason": "Forbidden City palace building, Beijing, China",
+  "at": "2026-07-27T12:45:24.978Z"
+ },
+ "beijing-prince-gong-mansion\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Gongwangfu1.jpg/1920px-Gongwangfu1.jpg": {
+  "slug": "beijing-prince-gong-mansion",
+  "verdict": "MATCH",
+  "reason": "Traditional Chinese architecture with red lanterns, garden s",
+  "at": "2026-07-27T12:45:29.054Z"
+ },
+ "beijing-summer-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Longevity_Hill_of_the_Summer_Palace.jpg/1920px-Longevity_Hill_of_the_Summer_Palace.jpg": {
+  "slug": "beijing-summer-palace",
+  "verdict": "MATCH",
+  "reason": "Tower of Buddhist Incense, Summer Palace, Beijing lakeside",
+  "at": "2026-07-27T12:45:30.536Z"
+ },
+ "beijing-temple-of-heaven\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Temple_of_Heaven%2C_Beijing%2C_China_-_010_edit.jpg/1920px-Temple_of_Heaven%2C_Beijing%2C_China_-_010_edit.jpg": {
+  "slug": "beijing-temple-of-heaven",
+  "verdict": "MATCH",
+  "reason": "Temple of Heaven courtyard, Beijing architecture",
+  "at": "2026-07-27T12:45:32.442Z"
+ },
+ "bengaluru-bengaluru-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bengaluru_Palace_1.jpg/1920px-Bengaluru_Palace_1.jpg": {
+  "slug": "bengaluru-bengaluru-palace",
+  "verdict": "MATCH",
+  "reason": "Bengaluru Palace exterior with distinctive architecture",
+  "at": "2026-07-27T12:45:34.221Z"
+ },
+ "bilbao-guggenheim-museum-bilbao\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Museo_Guggenheim_--_2021_--_Bilbao%2C_Euskadi%2C_Espa%C3%B1a.jpg/1920px-Museo_Guggenheim_--_2021_--_Bilbao%2C_Euskadi%2C_Espa%C3%B1a.jpg": {
+  "slug": "bilbao-guggenheim-museum-bilbao",
+  "verdict": "MATCH",
+  "reason": "Iconic Guggenheim Museum Bilbao exterior and waterfront sett",
+  "at": "2026-07-27T12:45:35.426Z"
+ },
+ "bodrum-mausoleum-at-halicarnassus\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/The_ruins_of_the_Mausoleum_at_Halicarnassus.jpg/1920px-The_ruins_of_the_Mausoleum_at_Halicarnassus.jpg": {
+  "slug": "bodrum-mausoleum-at-halicarnassus",
+  "verdict": "MATCH",
+  "reason": "Ancient ruins, stone columns, Mediterranean architecture, Bo",
+  "at": "2026-07-27T12:45:37.320Z"
+ },
+ "bohol-bilar-man-made-forest\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Loay_Interior_Road%2C_Bilar_Man-made_Forest_%28Bilar%2C_Bohol%3B_01-10-2023%29.jpg/1920px-Loay_Interior_Road%2C_Bilar_Man-made_Forest_%28Bilar%2C_Bohol%3B_01-10-2023%29.jpg": {
+  "slug": "bohol-bilar-man-made-forest",
+  "verdict": "MATCH",
+  "reason": "Forest road with curve markers, Bohol setting",
+  "at": "2026-07-27T12:45:40.804Z"
+ },
+ "bologna-piazza-maggiore\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bologna_-_Piazza_Maggiore_from_Palazzo_Comunale.jpg/1920px-Bologna_-_Piazza_Maggiore_from_Palazzo_Comunale.jpg": {
+  "slug": "bologna-piazza-maggiore",
+  "verdict": "MATCH",
+  "reason": "Piazza Maggiore Bologna, distinctive architecture visible",
+  "at": "2026-07-27T12:45:42.718Z"
+ },
+ "boracay-willy-s-rock\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Boracay_Willy%27s_Rock_front_%28Malay%2C_Aklan%3B_04-06-2024%29.jpg/1920px-Boracay_Willy%27s_Rock_front_%28Malay%2C_Aklan%3B_04-06-2024%29.jpg": {
+  "slug": "boracay-willy-s-rock",
+  "verdict": "MATCH",
+  "reason": "Willy's Rock landmark with statue visible",
+  "at": "2026-07-27T12:45:44.418Z"
+ },
+ "bordeaux-tour-pey-berland\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bordeaux_Cath%C3%A9drale_Saint-Andr%C3%A9_Tour_Pey-Berland_Vue_sur_la_Place_Pey_Berland_6.jpg/1920px-Bordeaux_Cath%C3%A9drale_Saint-Andr%C3%A9_Tour_Pey-Berland_Vue_sur_la_Place_Pey_Berland_6.jpg": {
+  "slug": "bordeaux-tour-pey-berland",
+  "verdict": "MATCH",
+  "reason": "Gothic cathedral tower overlooking Bordeaux cityscape",
+  "at": "2026-07-27T12:45:46.045Z"
+ },
+ "boston-boston-tea-party-ships-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Boston_Tea_Party_Ships_%26_Museum%2C_Boston%2C_Massachusetts%2C_US_%28PPL2-Enhanced%29_julesvernex2.jpg/1920px-Boston_Tea_Party_Ships_%26_Museum%2C_Boston%2C_Massachusetts%2C_US_%28PPL2-Enhanced%29_julesvernex2.jpg": {
+  "slug": "boston-boston-tea-party-ships-museum",
+  "verdict": "MATCH",
+  "reason": "Boston waterfront with Tea Party Ships Museum visible",
+  "at": "2026-07-27T12:45:47.648Z"
+ },
+ "busan-namaste-haeundae\u0001https://fastly.4sqi.net/img/general/original/77160408_82Z2wfWi0KE4HbreRe_k72CzfA6ABRTtcYyKPPj44f4.jpg": {
+  "slug": "busan-namaste-haeundae",
+  "verdict": "MATCH",
+  "reason": "Indian restaurant interior with themed decor, place setting",
+  "at": "2026-07-27T12:45:49.114Z"
+ },
+ "cannes-mural-cannes-cinema\u0001https://upload.wikimedia.org/wikipedia/commons/b/b8/%E2%80%9CCannes_Cinema%E2%80%9D_mural_on_Place_Cornut-Gentille.jpg": {
+  "slug": "cannes-mural-cannes-cinema",
+  "verdict": "MATCH",
+  "reason": "Cinema mural in Cannes street scene",
+  "at": "2026-07-27T12:45:56.420Z"
+ },
+ "cappadocia-babayan-evi\u0001https://fastly.4sqi.net/img/general/original/129133343_QyNfBImCekN_S5Ge4_A25GTPJOLSM2gz4CDyNsxowzk.jpg": {
+  "slug": "cappadocia-babayan-evi",
+  "verdict": "MATCH",
+  "reason": "Turkish mezze platter, typical Cappadocia restaurant cuisine",
+  "at": "2026-07-27T12:45:58.112Z"
+ },
+ "cebu-fort-san-pedro\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/San_Pedro_Fort_Cebu_03.jpg/1920px-San_Pedro_Fort_Cebu_03.jpg": {
+  "slug": "cebu-fort-san-pedro",
+  "verdict": "MATCH",
+  "reason": "Historic stone fort with wooden doors, Cebu architecture",
+  "at": "2026-07-27T12:46:00.508Z"
+ },
+ "chiang-mai-best-khao-soi-chang-mai\u0001https://fastly.4sqi.net/img/general/original/1205313_ekXRoQi8xazZKr1qV0mnVkMQhF_IJt18mf_jOsQ0zUY.jpg": {
+  "slug": "chiang-mai-best-khao-soi-chang-mai",
+  "verdict": "MATCH",
+  "reason": "Street food stall in Chiang Mai market selling khao soi",
+  "at": "2026-07-27T12:46:05.464Z"
+ },
+ "chiang-mai-garden-to-table-chiangmai\u0001https://images.unsplash.com/photo-1646850149335-f15d028036b3?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8M3x8Q2hpYW5nJTIwTWFpJTIwVGhhaWxhbmQlMjBsb2NhbCUyMHJlc3RhdXJhbnR8ZW58MHwwfHx8MTc4NDk5MzQ5Nnww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max": {
+  "slug": "chiang-mai-garden-to-table-chiangmai",
+  "verdict": "MATCH",
+  "reason": "Authentic Chiang Mai traditional cuisine, garden-fresh veget",
+  "at": "2026-07-27T12:46:07.549Z"
+ },
+ "chiang-mai-hidden-village-chiang-mai\u0001https://fastly.4sqi.net/img/general/original/7141761_0Qx5a7vb4iTrxkHu4qdm-Aa2r4V2ct427lO9frLwGPM.jpg": {
+  "slug": "chiang-mai-hidden-village-chiang-mai",
+  "verdict": "MATCH",
+  "reason": "Hidden Village signage and themed garden installation visibl",
+  "at": "2026-07-27T12:46:09.456Z"
+ },
+ "chiang-mai-the-baristro-asian-style\u0001https://fastly.4sqi.net/img/general/original/6752082_29QmWLDBx5muL9kjApjzkCdVgZfHgYVSyahB9BW7mT8.jpg": {
+  "slug": "chiang-mai-the-baristro-asian-style",
+  "verdict": "MISMATCH",
+  "reason": "Product display shelf, not restaurant/café interior",
+  "at": "2026-07-27T12:46:11.557Z"
+ },
+ "chiang-rai-chivit-thamma-da-coffee-house-bistro-bar\u0001https://fastly.4sqi.net/img/general/original/2672020_ysF3omlXTnSdP7El8fXIyS2Ai3sI-uDIJ3Xa1RJMxlU.jpg": {
+  "slug": "chiang-rai-chivit-thamma-da-coffee-house-bistro-bar",
+  "verdict": "MATCH",
+  "reason": "Desserts at Thai café, consistent with venue",
+  "at": "2026-07-27T12:46:13.163Z"
+ },
+ "chiang-rai-khao-soi-restaurant\u0001https://fastly.4sqi.net/img/general/original/70222083_4AfZTOTMFdXkea0M_lA6MCsNIG8yCz3LG-LVysUgIco.jpg": {
+  "slug": "chiang-rai-khao-soi-restaurant",
+  "verdict": "MISMATCH",
+  "reason": "Night market street food stall, not a sit-down restaurant",
+  "at": "2026-07-27T12:46:15.080Z"
+ },
+ "chiba-chiba-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Chiba_Port_Park_20111028-004.jpg/1920px-Chiba_Port_Park_20111028-004.jpg": {
+  "slug": "chiba-chiba-park",
+  "verdict": "MATCH",
+  "reason": "Park scene with modern building, Chiba cityscape",
+  "at": "2026-07-27T12:46:21.696Z"
+ },
+ "chiba-hiyodori-zaka\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Hiyodori-zaka_%28J%C5%8Dnai-ch%C5%8D%2C_Sakura%29_01.jpg/1920px-Hiyodori-zaka_%28J%C5%8Dnai-ch%C5%8D%2C_Sakura%29_01.jpg": {
+  "slug": "chiba-hiyodori-zaka",
+  "verdict": "MATCH",
+  "reason": "Japanese street entrance with signage, Chiba location",
+  "at": "2026-07-27T12:46:24.049Z"
+ },
+ "chinatown-chinatown-complex\u0001https://fastly.4sqi.net/img/general/original/1409959977_t5yi8DSfHxB6kvqp-U9MR4RP3HzZ6jb9Ngzw1pb6zzg.jpg": {
+  "slug": "chinatown-chinatown-complex",
+  "verdict": "MATCH",
+  "reason": "Chinatown Complex food stall with noodle dishes",
+  "at": "2026-07-27T12:46:26.046Z"
+ },
+ "chinatown-my-awesome-cafe\u0001https://fastly.4sqi.net/img/general/original/12411077_GsXkjQUNqD3dvpGxv7UK-xjn01vmSKJlfvlHISbwBbY.jpg": {
+  "slug": "chinatown-my-awesome-cafe",
+  "verdict": "WEAK",
+  "reason": "Generic drink photo, no distinctive cafe elements visible",
+  "at": "2026-07-27T12:46:27.494Z"
+ },
+ "chuncheon-nami-island\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Gapyeong-Nami_Island_Ferry.jpg/1920px-Gapyeong-Nami_Island_Ferry.jpg": {
+  "slug": "chuncheon-nami-island",
+  "verdict": "MATCH",
+  "reason": "Ferry boat to Nami Island, Chuncheon location",
+  "at": "2026-07-27T12:46:29.253Z"
+ },
+ "clarke-quay-malayan-settlement\u0001https://fastly.4sqi.net/img/general/original/138369165_ZCHtpoTrafu6S9uPRWHWCyOmcOXO-aadwQidnX7Z5lw.jpg": {
+  "slug": "clarke-quay-malayan-settlement",
+  "verdict": "MATCH",
+  "reason": "Upscale seafood dish, Singapore fine dining setting",
+  "at": "2026-07-27T12:46:31.151Z"
+ },
+ "da-nang-an-thoi\u0001https://fastly.4sqi.net/img/general/original/382189499_RzPh80OYb7NvmmZjTY3q5l49KkcxUm0c8PU_a5BgEM8.jpg": {
+  "slug": "da-nang-an-thoi",
+  "verdict": "MATCH",
+  "reason": "Vietnamese restaurant with coconut drink and signature prese",
+  "at": "2026-07-27T12:46:32.454Z"
+ },
+ "da-nang-xliii-specialty-coffee\u0001https://fastly.4sqi.net/img/general/original/24440652_FBS5VhcSoxdBBz31BcLrQSBrgT1-YdmEFqPQq6_SHAY.jpg": {
+  "slug": "da-nang-xliii-specialty-coffee",
+  "verdict": "MATCH",
+  "reason": "Specialty coffee café interior, Vietnamese setting, pastries",
+  "at": "2026-07-27T12:46:35.919Z"
+ },
+ "daegu-nazar-kebab\u0001https://fastly.4sqi.net/img/general/original/110474231_FgioogY1JqD4vNAhkjtSCaZhSZcUC3NV6Az7txpl5Hw.jpg": {
+  "slug": "daegu-nazar-kebab",
+  "verdict": "MATCH",
+  "reason": "Nazar Kebab menu board with food photos, Daegu",
+  "at": "2026-07-27T12:46:38.221Z"
+ },
+ "daegu-trendy-cafe\u0001https://fastly.4sqi.net/img/general/original/822650_E9nBhg_oiLP6W89Uhw_deZjhdzeOI8ZsQW0r3RhDp1Y.jpg": {
+  "slug": "daegu-trendy-cafe",
+  "verdict": "MATCH",
+  "reason": "Modern cafe interior, Korean signage, trendy aesthetic",
+  "at": "2026-07-27T12:46:39.755Z"
+ },
+ "damyang-juknokwon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Juknokwon.jpg/1920px-Juknokwon.jpg": {
+  "slug": "damyang-juknokwon",
+  "verdict": "MATCH",
+  "reason": "Waterfall with Korean signage, Damyang attraction",
+  "at": "2026-07-27T12:46:42.016Z"
+ },
+ "davao-people-s-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/People%27s_Park_Davao_%284621404876%29.jpg/1920px-People%27s_Park_Davao_%284621404876%29.jpg": {
+  "slug": "davao-people-s-park",
+  "verdict": "MATCH",
+  "reason": "People's Park Davao with distinctive white hotel and green b",
+  "at": "2026-07-27T12:46:46.483Z"
+ },
+ "dubai-al-khayma-heritage-restaurant\u0001https://images.unsplash.com/photo-1580674684081-7617fbf3d745?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8NHx8RHViYWklMjBVbml0ZWQlMjBBcmFiJTIwRW1pcmF0ZXN8ZW58MHwwfHx8MTc4NDk5MzUwMHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max": {
+  "slug": "dubai-al-khayma-heritage-restaurant",
+  "verdict": "MISMATCH",
+  "reason": "Dubai skyline, not restaurant interior/exterior",
+  "at": "2026-07-27T12:46:50.133Z"
+ },
+ "dubai-barrafina\u0001https://fastly.4sqi.net/img/general/original/6430939_BM13p4N-mmxcKsy1W8wPoSresx3YIKrp4UcX5pjaNXQ.jpg": {
+  "slug": "dubai-barrafina",
+  "verdict": "MATCH",
+  "reason": "Fine dining cured meat dish, upscale plating",
+  "at": "2026-07-27T12:46:51.609Z"
+ },
+ "dubai-nobu-one-za-abeel\u0001https://fastly.4sqi.net/img/general/original/536378159_0kcneMJv1Bb5wGN-Fx1YP5Ss9UA2w1LnWYelZjdz8kg.jpg": {
+  "slug": "dubai-nobu-one-za-abeel",
+  "verdict": "MATCH",
+  "reason": "Modern Dubai venue interior with contemporary art installati",
+  "at": "2026-07-27T12:46:56.408Z"
+ },
+ "florence-palazzo-vecchio\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Lorenzo_di_Magnifico_visits_king_Ferdinand_of_Aragon_in_Naples_%28Palazzo_Vecchio%2C_Florence%29.jpg/1920px-Lorenzo_di_Magnifico_visits_king_Ferdinand_of_Aragon_in_Naples_%28Palazzo_Vecchio%2C_Florence%29.jpg": {
+  "slug": "florence-palazzo-vecchio",
+  "verdict": "MATCH",
+  "reason": "Renaissance fresco from Palazzo Vecchio interior",
+  "at": "2026-07-27T12:46:59.950Z"
+ },
+ "florence-uffizi-galleries\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Uffizi_Gallery%2C_Florence-2.jpg/1920px-Uffizi_Gallery%2C_Florence-2.jpg": {
+  "slug": "florence-uffizi-galleries",
+  "verdict": "MATCH",
+  "reason": "Uffizi Gallery corridor with classical sculptures and fresco",
+  "at": "2026-07-27T12:47:01.637Z"
+ },
+ "fujairah-al-meshwar-restaurant\u0001https://fastly.4sqi.net/img/general/original/72215921_jbffYL9pSPRGKB5gEnx1frAhIlSqohK6qWEBBxPezEQ.jpg": {
+  "slug": "fujairah-al-meshwar-restaurant",
+  "verdict": "MATCH",
+  "reason": "Historic stone architecture, outdoor seating, UAE setting",
+  "at": "2026-07-27T12:47:13.161Z"
+ },
+ "fujairah-backyard\u0001https://fastly.4sqi.net/img/general/original/24861975_xPesFrPbNE2a0sY4zue0uvsNZuox5ltCwOekR-cps3I.jpg": {
+  "slug": "fujairah-backyard",
+  "verdict": "WEAK",
+  "reason": "Coffee cup in modern interior, plausible but generic",
+  "at": "2026-07-27T12:47:14.763Z"
+ },
+ "fujairah-steki\u0001https://fastly.4sqi.net/img/general/original/570470121_Jj1AxuNgMusQGmKnEfAcM5REqMYUgtcjsZEiGNqTCt4.jpg": {
+  "slug": "fujairah-steki",
+  "verdict": "WEAK",
+  "reason": "Beverage photo, generic restaurant setting, no distinctive S",
+  "at": "2026-07-27T12:47:16.031Z"
+ },
+ "fukuoka-manly\u0001https://fastly.4sqi.net/img/general/original/146963046_1d5B5BfUldW4Mu6Hbe4nn4caSIXklUdmfHIA_6RaUCI.jpg": {
+  "slug": "fukuoka-manly",
+  "verdict": "MATCH",
+  "reason": "Manly café exterior in Fukuoka, Japan confirmed",
+  "at": "2026-07-27T12:47:17.592Z"
+ },
+ "gangneung-arte-museum-valley-gangneung\u0001https://fastly.4sqi.net/img/general/original/647093_ETfdpB2DBhM8edD2zkwwwMvqX0LREOqXb7Mil_GDLQA.jpg": {
+  "slug": "gangneung-arte-museum-valley-gangneung",
+  "verdict": "MATCH",
+  "reason": "Modern museum entrance in Gangneung, Korea",
+  "at": "2026-07-27T12:47:19.743Z"
+ },
+ "gangneung-coffee-street\u0001https://fastly.4sqi.net/img/general/original/BI3GRQFE4FUQKFIVVTD5YU4MYRKNDHEW5UEK2GRRJ0QARAW2.jpg": {
+  "slug": "gangneung-coffee-street",
+  "verdict": "MATCH",
+  "reason": "Trendy café interior, modern lighting, Gangneung aesthetic",
+  "at": "2026-07-27T12:47:20.953Z"
+ },
+ "gangneung-jumunjin-lighthouse\u0001https://fastly.4sqi.net/img/general/original/8909789_Lvvn-ivY97r9oMUU0IQbVvO2TOCZqUPLrKcysyrwNSM.jpg": {
+  "slug": "gangneung-jumunjin-lighthouse",
+  "verdict": "MATCH",
+  "reason": "White lighthouse in Gangneung, South Korea setting",
+  "at": "2026-07-27T12:47:22.254Z"
+ },
+ "gangneung-local-restaurant\u0001https://fastly.4sqi.net/img/general/original/10426234_YAxFUV6jJr5NDXkNnPlDjMwjt72zN6iPAgvKeIy7KMg.jpg": {
+  "slug": "gangneung-local-restaurant",
+  "verdict": "MATCH",
+  "reason": "Korean restaurant shop interior with local products displaye",
+  "at": "2026-07-27T12:47:24.271Z"
+ },
+ "gapyeong-garden-of-morning-calm\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Lake_in_the_Garden_of_Morning_Calm.jpg/1920px-Lake_in_the_Garden_of_Morning_Calm.jpg": {
+  "slug": "gapyeong-garden-of-morning-calm",
+  "verdict": "MATCH",
+  "reason": "Japanese-style garden with pond, pavilion, lush vegetation",
+  "at": "2026-07-27T12:47:26.270Z"
+ },
+ "gardena-nam-kitchen\u0001https://fastly.4sqi.net/img/general/original/177941_KbxqBeUk5wuaAYTblRP3iPENf_UrEGGivd0FSuweJKo.jpg": {
+  "slug": "gardena-nam-kitchen",
+  "verdict": "MATCH",
+  "reason": "Daily specials menu board from Vietnamese restaurant",
+  "at": "2026-07-27T12:47:27.769Z"
+ },
+ "goa-fort-aguada\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Fort_Aguada_Remote_view_25012016.jpg/1920px-Fort_Aguada_Remote_view_25012016.jpg": {
+  "slug": "goa-fort-aguada",
+  "verdict": "MATCH",
+  "reason": "Fort Aguada coastal view with fortification",
+  "at": "2026-07-27T12:47:29.648Z"
+ },
+ "guangzhou-huacheng-square\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Huacheng_Square_Guangzhou.jpg/1920px-Huacheng_Square_Guangzhou.jpg": {
+  "slug": "guangzhou-huacheng-square",
+  "verdict": "MATCH",
+  "reason": "Stone marker with Chinese characters in public square",
+  "at": "2026-07-27T12:47:31.670Z"
+ },
+ "guilin-reed-flute-cave\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Reed_Flute_Cave_89145-Guilin_%2830047619307%29.jpg/1920px-Reed_Flute_Cave_89145-Guilin_%2830047619307%29.jpg": {
+  "slug": "guilin-reed-flute-cave",
+  "verdict": "MISMATCH",
+  "reason": "Stone monument in park, not Reed Flute Cave",
+  "at": "2026-07-27T12:47:33.628Z"
+ },
+ "ha-long-bay-la-luna-coffee-ha-long\u0001https://fastly.4sqi.net/img/general/original/94704269_Ebv5dhb5FZfdcf3M50ITKoHMSBYDnZwxLkqHHrWpwpY.jpg": {
+  "slug": "ha-long-bay-la-luna-coffee-ha-long",
+  "verdict": "MATCH",
+  "reason": "Menu boards of La Luna Coffee, Ha Long Bay venue",
+  "at": "2026-07-27T12:47:35.472Z"
+ },
+ "ha-long-bay-sung-sot-cave\u0001https://fastly.4sqi.net/img/general/original/9805412_CUXk2ildix-8yG29Eq52aKw3OlIXLpK1p9PQ_HVDkqA.jpg": {
+  "slug": "ha-long-bay-sung-sot-cave",
+  "verdict": "MATCH",
+  "reason": "Cave interior with stalactites, typical Sung Sot",
+  "at": "2026-07-27T12:47:38.648Z"
+ },
+ "hangzhou-leifeng-pagoda\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Leifeng_Pagoda_DJI_0593_%282%29.jpg/1920px-Leifeng_Pagoda_DJI_0593_%282%29.jpg": {
+  "slug": "hangzhou-leifeng-pagoda",
+  "verdict": "MATCH",
+  "reason": "Leifeng Pagoda aerial view, Hangzhou lakeside setting",
+  "at": "2026-07-27T12:47:40.469Z"
+ },
+ "hanoi-hidden-gem-cafe-hanoi\u0001https://fastly.4sqi.net/img/general/original/17834158_el_T6kdYYvxUYE4MJ_rv556PHfL83id65egOuZR7x7M.jpg": {
+  "slug": "hanoi-hidden-gem-cafe-hanoi",
+  "verdict": "MATCH",
+  "reason": "Authentic Hanoi cafe with Vietnamese decor, lanterns, greene",
+  "at": "2026-07-27T12:47:42.624Z"
+ },
+ "ho-chi-minh-city-hai-s-restaurant\u0001https://fastly.4sqi.net/img/general/original/1582791_51WOv5NBGHIrO93ilabfcZ7n0g-Oif2jWzN1b7zWV6s.jpg": {
+  "slug": "ho-chi-minh-city-hai-s-restaurant",
+  "verdict": "MATCH",
+  "reason": "Vietnamese cuisine with fresh herbs, rice, ornate plating",
+  "at": "2026-07-27T12:47:44.674Z"
+ },
+ "hoi-an-hoi-an-night-market\u0001https://fastly.4sqi.net/img/general/original/38071873_oWx-FJ6-oZTK9pk-VoMEqcwmTIQJh3vIKUm47FbN4XQ.jpg": {
+  "slug": "hoi-an-hoi-an-night-market",
+  "verdict": "MATCH",
+  "reason": "Illuminated gate structure, Hoi An night market setting",
+  "at": "2026-07-27T12:47:47.141Z"
+ },
+ "hoi-an-me-hoi-an-rooftop-coffee-kitchen\u0001https://fastly.4sqi.net/img/general/original/5679311_Yk_4QWNWxP3VTKPkd2S-XGRlSLBO0FV9VxCiXyKyR3I.jpg": {
+  "slug": "hoi-an-me-hoi-an-rooftop-coffee-kitchen",
+  "verdict": "MATCH",
+  "reason": "Stylish iced coffee drinks, trendy rooftop setting, Vietnam ",
+  "at": "2026-07-27T12:47:49.007Z"
+ },
+ "hualien-hualien-railway-culture-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Hualien_Railway_Culture_Park%2C_Hualien_City%2C_Hualien_County_%28Taiwan%29.jpg/1920px-Hualien_Railway_Culture_Park%2C_Hualien_City%2C_Hualien_County_%28Taiwan%29.jpg": {
+  "slug": "hualien-hualien-railway-culture-park",
+  "verdict": "MATCH",
+  "reason": "Historic locomotive and 'RAT TRAINS' sign at railway park",
+  "at": "2026-07-27T12:47:51.532Z"
+ },
+ "hue-phinholic\u0001https://fastly.4sqi.net/img/general/original/15413855_lk07pEpiSkuARS0hGVmlL_XNrHGEVTN-J8eH4i9PRa0.jpg": {
+  "slug": "hue-phinholic",
+  "verdict": "MATCH",
+  "reason": "Trendy café interior, Hue Vietnam aesthetic",
+  "at": "2026-07-27T12:47:53.522Z"
+ },
+ "hue-vietnamese-food-hue-local-food-fastfood-22-restaurant-hue\u0001https://fastly.4sqi.net/img/general/original/974224_L-eZcyBtOOrHpQGcNlNL5mde8WV2Nr6cp8IRR4K2KbE.jpg": {
+  "slug": "hue-vietnamese-food-hue-local-food-fastfood-22-restaurant-hue",
+  "verdict": "MATCH",
+  "reason": "Vietnamese noodle soup with Maggi sauce, Hue setting",
+  "at": "2026-07-27T12:47:56.073Z"
+ },
+ "hyderabad-chowmahalla-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Chowmahalla_Palace_01.jpg/1920px-Chowmahalla_Palace_01.jpg": {
+  "slug": "hyderabad-chowmahalla-palace",
+  "verdict": "MATCH",
+  "reason": "Yellow palace with reflecting pool, tropical gardens visible",
+  "at": "2026-07-27T12:47:58.255Z"
+ },
+ "hyderabad-kadamba\u0001https://fastly.4sqi.net/img/general/original/143913_NGw95c1qXVPZqrziDXG46myA3-mxTPYmBK5Vcx1iXvE.jpg": {
+  "slug": "hyderabad-kadamba",
+  "verdict": "MISMATCH",
+  "reason": "Modern building doesn't match Kadamba venue profile",
+  "at": "2026-07-27T12:48:00.449Z"
+ },
+ "ibiza-cova-de-can-marca\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Cova_de_Can_Mar%C3%A7%C3%A0-Ibiza_Spain-Andres_Larin.jpg/1920px-Cova_de_Can_Mar%C3%A7%C3%A0-Ibiza_Spain-Andres_Larin.jpg": {
+  "slug": "ibiza-cova-de-can-marca",
+  "verdict": "MATCH",
+  "reason": "Cave interior with stalactites, formations, Ibiza attraction",
+  "at": "2026-07-27T12:48:02.308Z"
+ },
+ "ibiza-streetxo-ibiza\u0001https://fastly.4sqi.net/img/general/original/4298819_RKVQfOpJyLQKxJbylLyBbqfawl33cMxs4hQjsj7gm4o.jpg": {
+  "slug": "ibiza-streetxo-ibiza",
+  "verdict": "MATCH",
+  "reason": "Trendy neon art installation, upscale Ibiza venue aesthetic",
+  "at": "2026-07-27T12:48:04.341Z"
+ },
+ "incheon-wolmi-theme-park\u0001https://fastly.4sqi.net/img/general/original/4064725_p80Dq1cFXCbMYyuL5wmPjvUoMEMo8NXbASfZjJKGtdc.jpg": {
+  "slug": "incheon-wolmi-theme-park",
+  "verdict": "MATCH",
+  "reason": "Red Ferris wheel, Wolmi Theme Park, Incheon",
+  "at": "2026-07-27T12:48:06.194Z"
+ },
+ "ipoh-gunung-lang-recreational-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gunung_Lang_recreational_park.jpg/1920px-Gunung_Lang_recreational_park.jpg": {
+  "slug": "ipoh-gunung-lang-recreational-park",
+  "verdict": "MATCH",
+  "reason": "Limestone cliffs, river, boats match Gunung Lang park",
+  "at": "2026-07-27T12:48:08.439Z"
+ },
+ "istanbul-kinu\u0001https://fastly.4sqi.net/img/general/original/58770682_pmfkjoOR7sivXyFd7gV8OgTn36EQKhcPb_lcK5AZ_jw.jpg": {
+  "slug": "istanbul-kinu",
+  "verdict": "MATCH",
+  "reason": "Branded beverage at trendy Istanbul café kinu",
+  "at": "2026-07-27T12:48:10.045Z"
+ },
+ "istanbul-turk-fatih-tutak\u0001https://fastly.4sqi.net/img/general/original/6805087_2loaBh92qzThBVnOM3Lwp49Qw3IWy_dHstFdjO5Y9Vs.jpg": {
+  "slug": "istanbul-turk-fatih-tutak",
+  "verdict": "MATCH",
+  "reason": "Meat aging room, Turkish restaurant authenticity",
+  "at": "2026-07-27T12:48:11.662Z"
+ },
+ "izmir-clock-tower-of-izmir\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/%C4%B0zmir_Clock_Tower%2C_March_2013.jpg/1920px-%C4%B0zmir_Clock_Tower%2C_March_2013.jpg": {
+  "slug": "izmir-clock-tower-of-izmir",
+  "verdict": "MATCH",
+  "reason": "Clock tower in Izmir's Konak Square, clearly identifiable",
+  "at": "2026-07-27T12:48:14.147Z"
+ },
+ "jaipur-hawa-mahal\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/East_facade_Hawa_Mahal_Jaipur_from_ground_level_%28July_2022%29_-_img_01.jpg/1920px-East_facade_Hawa_Mahal_Jaipur_from_ground_level_%28July_2022%29_-_img_01.jpg": {
+  "slug": "jaipur-hawa-mahal",
+  "verdict": "MATCH",
+  "reason": "Iconic pink palace facade, distinctive Rajasthani architectu",
+  "at": "2026-07-27T12:48:15.989Z"
+ },
+ "jaipur-suvarna-mahal\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Royal_Rajasthani_Thali_at_Suvarna_Mahal%2C_Ram_Bagh_Hotel%2C_Jaipur.jpg/1920px-Royal_Rajasthani_Thali_at_Suvarna_Mahal%2C_Ram_Bagh_Hotel%2C_Jaipur.jpg": {
+  "slug": "jaipur-suvarna-mahal",
+  "verdict": "MATCH",
+  "reason": "Authentic Indian cuisine spread, Jaipur restaurant setting",
+  "at": "2026-07-27T12:48:18.952Z"
+ },
+ "jakarta-gajah-mada-food-street\u0001https://fastly.4sqi.net/img/general/original/1588362_OYBpSS9bzBne0d3pRVclShjr8x3HoKYS7E7T6QesIYs.jpg": {
+  "slug": "jakarta-gajah-mada-food-street",
+  "verdict": "MATCH",
+  "reason": "Gajah Maja Food Street 1st Anniversary banner visible",
+  "at": "2026-07-27T12:48:20.798Z"
+ },
+ "jakarta-giyanti-coffee-roastery\u0001https://fastly.4sqi.net/img/general/original/31222604_oDdTaOZpVEGrxIVIyF6jJZNAx9iGtzoFZZ8POEBatYs.jpg": {
+  "slug": "jakarta-giyanti-coffee-roastery",
+  "verdict": "MATCH",
+  "reason": "Coffee shop pastries, beverage, Jakarta cafe setting",
+  "at": "2026-07-27T12:48:22.881Z"
+ },
+ "jakarta-social-house-grand-indonesia\u0001https://fastly.4sqi.net/img/general/original/48406723_Hje7WFQ-kSjgm2-FdRaDzVLXawED8VT6YrfH76WsuXI.jpg": {
+  "slug": "jakarta-social-house-grand-indonesia",
+  "verdict": "MATCH",
+  "reason": "Social House menu, drinks, and dishes shown",
+  "at": "2026-07-27T12:48:30.230Z"
+ },
+ "jeju-yongyeon-suspension-bridge\u0001https://fastly.4sqi.net/img/general/original/38563289_v2eGBmdWJqX8tGiAxVIGnh27OceWyeiQGWadO-KF5vE.jpg": {
+  "slug": "jeju-yongyeon-suspension-bridge",
+  "verdict": "MATCH",
+  "reason": "Suspension bridge with Asian architecture, wooden deck",
+  "at": "2026-07-27T12:48:31.911Z"
+ },
+ "jinju-jinju-national-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/The_Jinju_National_Museum.jpg/1920px-The_Jinju_National_Museum.jpg": {
+  "slug": "jinju-jinju-national-museum",
+  "verdict": "MATCH",
+  "reason": "Korean architecture museum courtyard, flags visible",
+  "at": "2026-07-27T12:48:36.245Z"
+ },
+ "jiufen-jiufen-old-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/A-Zhu_Peanut_Ice_Cream_Roll%2C_Jiufen_Old_Street%2C_2024.jpg/1920px-A-Zhu_Peanut_Ice_Cream_Roll%2C_Jiufen_Old_Street%2C_2024.jpg": {
+  "slug": "jiufen-jiufen-old-street",
+  "verdict": "MATCH",
+  "reason": "Taro ball dessert, iconic Jiufen street food",
+  "at": "2026-07-27T12:48:38.306Z"
+ },
+ "johor-bahru-johor-zoo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Johor_Zoo_lakeside_walkway_Johor_Bahru_2015.jpg/1920px-Johor_Zoo_lakeside_walkway_Johor_Bahru_2015.jpg": {
+  "slug": "johor-bahru-johor-zoo",
+  "verdict": "MISMATCH",
+  "reason": "Appears to be aquarium/zoo facility, not Johor Zoo",
+  "at": "2026-07-27T12:48:41.291Z"
+ },
+ "kampong-glam-ayasofya-turkish-restaurant\u0001https://fastly.4sqi.net/img/general/original/1365419206_ZZXpebawFAlZ-40JlCbI3UGmOV11rWozsYTlRtxtKag.jpg": {
+  "slug": "kampong-glam-ayasofya-turkish-restaurant",
+  "verdict": "MATCH",
+  "reason": "Ayasofya Turkish Restaurant storefront, Kampong Glam visible",
+  "at": "2026-07-27T12:48:42.780Z"
+ },
+ "kampong-glam-kampong-glam-cafe\u0001https://fastly.4sqi.net/img/general/original/5990381_A8HAh9bYo0eEixBzDVe-KIUErExySV7fgw3ohk-h_Zo.jpg": {
+  "slug": "kampong-glam-kampong-glam-cafe",
+  "verdict": "MATCH",
+  "reason": "Kampong Glam Cafe storefront with signage visible",
+  "at": "2026-07-27T12:48:47.158Z"
+ },
+ "kanazawa-curio-espresso-and-vintage-design-cafe\u0001https://fastly.4sqi.net/img/general/original/52082622_ARmpLCWcXJ3QPV7D72DBY2OrixHKtsZh8h86-k0goB4.jpg": {
+  "slug": "kanazawa-curio-espresso-and-vintage-design-cafe",
+  "verdict": "MATCH",
+  "reason": "Espresso with latte art, vintage chandelier, trendy café",
+  "at": "2026-07-27T12:48:50.123Z"
+ },
+ "kaohsiung-kaohsiung-central-park\u0001https://upload.wikimedia.org/wikipedia/commons/8/8d/Central_Park%2C_Kaohsiung%2C_Taiwan.jpg": {
+  "slug": "kaohsiung-kaohsiung-central-park",
+  "verdict": "MATCH",
+  "reason": "Park fountains, skyline, birds, tropical setting",
+  "at": "2026-07-27T12:48:52.430Z"
+ },
+ "koh-samui-izzy-s-specialty-coffee\u0001https://fastly.4sqi.net/img/general/original/484654207_oFgLeRnDuY4OFGvva22jdWwCpYbT3U5Ec3UiADFO2Fs.jpg": {
+  "slug": "koh-samui-izzy-s-specialty-coffee",
+  "verdict": "MATCH",
+  "reason": "Specialty coffee shop exterior, Koh Samui tropical setting",
+  "at": "2026-07-27T12:48:54.591Z"
+ },
+ "koh-samui-salt-oak\u0001https://fastly.4sqi.net/img/general/original/16727607_JUaXnSVY8CqSojXqr16w59Lh2alup5XenQX3z56z_RE.jpg": {
+  "slug": "koh-samui-salt-oak",
+  "verdict": "MATCH",
+  "reason": "Thai cuisine plating, fresh ingredients, upscale presentatio",
+  "at": "2026-07-27T12:48:56.220Z"
+ },
+ "kota-kinabalu-mari-mari-cultural-village\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Mari_Mari_Cultural_Village_-_2.jpg/1920px-Mari_Mari_Cultural_Village_-_2.jpg": {
+  "slug": "kota-kinabalu-mari-mari-cultural-village",
+  "verdict": "MATCH",
+  "reason": "Traditional woven baskets, Mari Mari Cultural Village artifa",
+  "at": "2026-07-27T12:48:59.422Z"
+ },
+ "krabi-into-the-forest\u0001https://fastly.4sqi.net/img/general/original/192655554_7znbIxg0f1-yYQatjd3_yBgfdwPUa_2zlPrAGNvaO6s.jpg": {
+  "slug": "krabi-into-the-forest",
+  "verdict": "MISMATCH",
+  "reason": "Modern bar interior, not Krabi forest setting",
+  "at": "2026-07-27T12:49:01.323Z"
+ },
+ "kuala-lumpur-kapitan-s-club\u0001https://fastly.4sqi.net/img/general/original/5813125_RjP0tvKbIWkiJCDwCOSPzRTHydeWwrIgkOtzMQxmo9o.jpg": {
+  "slug": "kuala-lumpur-kapitan-s-club",
+  "verdict": "MISMATCH",
+  "reason": "Bakery display case, not a restaurant setting",
+  "at": "2026-07-27T12:49:02.945Z"
+ },
+ "kyoto-gyukatsu-kyoto-katsugyu-kyoto-ekimae\u0001https://fastly.4sqi.net/img/general/original/4990766_c8NgKNeQbLT4S6NBBw7wQhE_41_2I6b0GnwmpvFgEmU.jpg": {
+  "slug": "kyoto-gyukatsu-kyoto-katsugyu-kyoto-ekimae",
+  "verdict": "MATCH",
+  "reason": "Restaurant storefront with authentic signage and branding",
+  "at": "2026-07-27T12:49:04.759Z"
+ },
+ "kyoto-imaya-kyoto-coffee\u0001https://fastly.4sqi.net/img/general/original/39040510_YD1kSIvou1MCkUpZCEcQCDvSyHeBFhbIKSYYliy-XOI.jpg": {
+  "slug": "kyoto-imaya-kyoto-coffee",
+  "verdict": "MATCH",
+  "reason": "Breakfast plate with sandwiches, cereal, egg. Trendy café se",
+  "at": "2026-07-27T12:49:06.670Z"
+ },
+ "kyoto-kyoto-gion-matsuri-festival-gallery\u0001https://images.unsplash.com/photo-1721208813573-20ec1df0b2fd?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8S3lvdG8lMjBKYXBhbiUyMG11c2ljJTIwZmVzdGl2YWwlMjBjcm93ZHxlbnwwfDB8fHwxNzg0Nzc1MzA1fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max": {
+  "slug": "kyoto-kyoto-gion-matsuri-festival-gallery",
+  "verdict": "MATCH",
+  "reason": "Gion Matsuri festival night scene with lanterns",
+  "at": "2026-07-27T12:49:08.937Z"
+ },
+ "kyoto-yoichiba\u0001https://fastly.4sqi.net/img/general/original/77848690_snks_eDS7Y7RwK4ERFbkj-BQ2nz5HazV7YK2Hkak1Ew.jpg": {
+  "slug": "kyoto-yoichiba",
+  "verdict": "MATCH",
+  "reason": "Edamame dish, Japanese restaurant setting, Kyoto venue",
+  "at": "2026-07-27T12:49:10.660Z"
+ },
+ "labuan-bajo-la-moringa-labuan-bajo\u0001https://fastly.4sqi.net/img/general/original/30282744_hnNvFqgRMMELd6kU7ZQUtAqvaFlzAUOJcIE5b-8LaVA.jpg": {
+  "slug": "labuan-bajo-la-moringa-labuan-bajo",
+  "verdict": "MISMATCH",
+  "reason": "Image shows 'Labuan Bajo' storefront, not 'La Moringa' resta",
+  "at": "2026-07-27T12:49:12.526Z"
+ },
+ "labuan-bajo-pondok-pohon-tanjung-bunga\u0001https://fastly.4sqi.net/img/general/original/5382107_6aOn4apwhZfOgnNYsRPMr6HdtMbOhNucbsgnK3XGTEI.jpg": {
+  "slug": "labuan-bajo-pondok-pohon-tanjung-bunga",
+  "verdict": "MATCH",
+  "reason": "Hilltop view, beer bottle, tropical setting, Labuan Bajo",
+  "at": "2026-07-27T12:49:14.441Z"
+ },
+ "labuan-bajo-taman-laut-handayani-seafood-restaurant-labuan-bajo\u0001https://fastly.4sqi.net/img/general/original/51036101_xYB0ajhtbxAfeUK0lLrBmeg390rtMRr6HSMNe3TIiYo.jpg": {
+  "slug": "labuan-bajo-taman-laut-handayani-seafood-restaurant-labuan-bajo",
+  "verdict": "MATCH",
+  "reason": "Night view of Labuan Bajo harbor with restaurant signage vis",
+  "at": "2026-07-27T12:49:15.999Z"
+ },
+ "langkawi-dataran-lang\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Langkawi_Eagle_Square_-_Dataran_Lang_%2811129976185%29.jpg/1920px-Langkawi_Eagle_Square_-_Dataran_Lang_%2811129976185%29.jpg": {
+  "slug": "langkawi-dataran-lang",
+  "verdict": "MATCH",
+  "reason": "Eagle statue is Dataran Lang's iconic landmark",
+  "at": "2026-07-27T12:49:19.270Z"
+ },
+ "las-vegas-strat-skypod\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Stratosphere_Las_Vegas_3.jpg/1920px-Stratosphere_Las_Vegas_3.jpg": {
+  "slug": "las-vegas-strat-skypod",
+  "verdict": "MATCH",
+  "reason": "Stratosphere Tower exterior, Las Vegas landmark",
+  "at": "2026-07-27T12:49:23.068Z"
+ },
+ "little-india-chola-cafe-biryani-house-best-biryani-in-singapore\u0001https://fastly.4sqi.net/img/general/original/73130758__zmBdPFFfTUAlyKSM0yQLxYzGGqDU8Sr1-sVbrfjiZQ.jpg": {
+  "slug": "little-india-chola-cafe-biryani-house-best-biryani-in-singapore",
+  "verdict": "MATCH",
+  "reason": "Biryani dish with dough top, dipping sauce",
+  "at": "2026-07-27T12:49:24.993Z"
+ },
+ "little-india-super-deluxe-kitchen\u0001https://fastly.4sqi.net/img/general/original/3391934_oGhZ3saxg8GI6dvTG8wIIZJGa3G2fKg-r_ZB2MkrUZI.jpg": {
+  "slug": "little-india-super-deluxe-kitchen",
+  "verdict": "MATCH",
+  "reason": "South Indian thali meal, Little India cuisine",
+  "at": "2026-07-27T12:49:26.531Z"
+ },
+ "little-india-veera-flavours\u0001https://fastly.4sqi.net/img/general/original/1399700747_U-zVoXbUmjz123smC6Z2h-pdOxpZZcw5DtGgYSdMaZs.jpg": {
+  "slug": "little-india-veera-flavours",
+  "verdict": "MATCH",
+  "reason": "Authentic Indian rice dish, Little India cuisine style",
+  "at": "2026-07-27T12:49:29.148Z"
+ },
+ "lombok-elamu-lombok\u0001https://fastly.4sqi.net/img/general/original/1370657261_Fc4De4HGgE3b0QiYtkIBo0g-a9Jj119eQzZybTdcenk.jpg": {
+  "slug": "lombok-elamu-lombok",
+  "verdict": "MATCH",
+  "reason": "Restaurant patio with tropical plants, Lombok aesthetic",
+  "at": "2026-07-27T12:49:30.542Z"
+ },
+ "lombok-sendang-gile-waterfall\u0001https://fastly.4sqi.net/img/general/original/9667588_wTfL5sYzRKtA-d4slJtSgk-KgRdPg-_rKAskVtP597g.jpg": {
+  "slug": "lombok-sendang-gile-waterfall",
+  "verdict": "MATCH",
+  "reason": "Waterfall with lush vegetation, Lombok setting",
+  "at": "2026-07-27T12:49:32.321Z"
+ },
+ "los-angeles-bad-roman\u0001https://fastly.4sqi.net/img/general/original/463594059_7nz7Ts1VXjrzksDpOwFLwPdKlKTK4iz6Y072O7s2wSs.jpg": {
+  "slug": "los-angeles-bad-roman",
+  "verdict": "MATCH",
+  "reason": "Trendy cocktail bar interior, upscale drinks presentation",
+  "at": "2026-07-27T12:49:34.418Z"
+ },
+ "lyon-basilica-of-notre-dame-of-fourviere\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/France-003038_-_Basilica_of_Notre-Dame_de_Fourvi%C3%A8re_%2815939822990%29.jpg/1920px-France-003038_-_Basilica_of_Notre-Dame_de_Fourvi%C3%A8re_%2815939822990%29.jpg": {
+  "slug": "lyon-basilica-of-notre-dame-of-fourviere",
+  "verdict": "MATCH",
+  "reason": "Basilica of Notre-Dame de Fourvière, Lyon exterior",
+  "at": "2026-07-27T12:49:36.728Z"
+ },
+ "lyon-vieux-lyon\u0001https://fastly.4sqi.net/img/general/original/36858387_6QQDgZIv-nViWWYEBWXiW9-tbsMv16xiVhaM3BoCYXg.jpg": {
+  "slug": "lyon-vieux-lyon",
+  "verdict": "MATCH",
+  "reason": "Vieux Lyon riverside architecture and setting",
+  "at": "2026-07-27T12:49:38.268Z"
+ },
+ "madrid-museo-nacional-del-prado\u0001https://fastly.4sqi.net/img/general/original/1404096713_fdCDhMiiX1lGAeyRoBaJjfBiJ8x0ErCFaaTgJBN8deo.jpg": {
+  "slug": "madrid-museo-nacional-del-prado",
+  "verdict": "MATCH",
+  "reason": "Prado Museum exterior with gardens and architecture",
+  "at": "2026-07-27T12:49:39.617Z"
+ },
+ "malacca-menara-taming-sari\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/I_Love_Menara_Taming_Sari.jpg/1920px-I_Love_Menara_Taming_Sari.jpg": {
+  "slug": "malacca-menara-taming-sari",
+  "verdict": "MATCH",
+  "reason": "Sign depicts Menara Taming Sari with traditional architectur",
+  "at": "2026-07-27T12:49:41.741Z"
+ },
+ "malaga-alcazaba\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Alcazaba%2C_Malaga_%28DSC02867-Pano%29.jpg/1920px-Alcazaba%2C_Malaga_%28DSC02867-Pano%29.jpg": {
+  "slug": "malaga-alcazaba",
+  "verdict": "MATCH",
+  "reason": "Alcazaba fortress walls, Malaga, Spain clearly visible",
+  "at": "2026-07-27T12:49:43.401Z"
+ },
+ "marina-bay-le-noir\u0001https://fastly.4sqi.net/img/general/original/16807045_ydsyWtxxigZQgsLMMCRmVRk7pHJqnD57Tc5QDG1thjE.jpg": {
+  "slug": "marina-bay-le-noir",
+  "verdict": "MISMATCH",
+  "reason": "Tiger beer sign visible; Le Noir is fine dining",
+  "at": "2026-07-27T12:49:44.994Z"
+ },
+ "marina-bay-satay-by-the-bay\u0001https://fastly.4sqi.net/img/general/original/95394591_hI9tR8SWiAvC74r4FBAQK9jTtk0p13b06oLjfqfhMoA.jpg": {
+  "slug": "marina-bay-satay-by-the-bay",
+  "verdict": "WEAK",
+  "reason": "Generic beverage, could be anywhere with AC",
+  "at": "2026-07-27T12:49:46.389Z"
+ },
+ "marseille-notre-dame-de-la-garde\u0001https://fastly.4sqi.net/img/general/original/60424701_y1eVAkkIRI1Z5AWaCn9erarex5b5qJ3zgaXT1F0nNWU.jpg": {
+  "slug": "marseille-notre-dame-de-la-garde",
+  "verdict": "MATCH",
+  "reason": "Notre-Dame de la Garde basilica with buses at base",
+  "at": "2026-07-27T12:49:48.083Z"
+ },
+ "marseille-parc-national-des-calanques\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Le_parc_des_calanques_de_Marseille.jpg/1920px-Le_parc_des_calanques_de_Marseille.jpg": {
+  "slug": "marseille-parc-national-des-calanques",
+  "verdict": "MATCH",
+  "reason": "Calanques coastal cliffs and Mediterranean Sea view",
+  "at": "2026-07-27T12:49:50.076Z"
+ },
+ "miami-lafayette-miami\u0001https://upload.wikimedia.org/wikipedia/commons/a/a1/Miami_Beach_-_Lafayette_Hotel.jpg": {
+  "slug": "miami-lafayette-miami",
+  "verdict": "MATCH",
+  "reason": "Vintage white building, Miami architecture, restaurant store",
+  "at": "2026-07-27T12:49:53.312Z"
+ },
+ "milan-piazza-del-duomo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Milan_2_Piazza_Duomo_21-11-2021.jpg/1920px-Milan_2_Piazza_Duomo_21-11-2021.jpg": {
+  "slug": "milan-piazza-del-duomo",
+  "verdict": "MATCH",
+  "reason": "Milan's Duomo cathedral and iconic piazza",
+  "at": "2026-07-27T12:49:55.971Z"
+ },
+ "monza-parco-di-monza\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Monza_Park_8964.jpg/1920px-Monza_Park_8964.jpg": {
+  "slug": "monza-parco-di-monza",
+  "verdict": "MATCH",
+  "reason": "Historic stone bridge in Monza park setting",
+  "at": "2026-07-27T12:49:58.037Z"
+ },
+ "mumbai-chhatrapati-shivaji-maharaj-vastu-sangrahalaya\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Mumbai_-_Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya.jpg/1920px-Mumbai_-_Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya.jpg": {
+  "slug": "mumbai-chhatrapati-shivaji-maharaj-vastu-sangrahalaya",
+  "verdict": "MATCH",
+  "reason": "Museum building with distinctive dome, Mumbai setting",
+  "at": "2026-07-27T12:50:00.518Z"
  }
 }
