@@ -31,11 +31,13 @@ Static pages at `/itinerary/<city>-<n>-days/` in all 5 locales (`/`, `/ko`, `/ja
 ## 2. Accuracy guarantees (non-negotiable design rules)
 
 - **Closed-world assembly.** Stops come ONLY from our posts collection. The model never names a venue, address, price, rating, or hour — it may only write connective prose *around* injected facts (same fabrication firewall as `writer.mjs`).
-- **Constraint solver, not vibes.** Ordering is computed in code:
-  - geographic clustering by `lat/lng` (one area per day; no cross-town zigzag),
-  - closed-day avoidance (a stop closed on Tuesday never appears on a day labeled "if this is a Tuesday…" — pages are day-generic, so closed days are surfaced as explicit warnings on the stop card),
-  - meal slots filled by `restaurant` category only,
-  - quiet-hours preference: morning slots favor venues whose `busyness.weekdayQuiet` includes 9–11.
+- **Constraint solver, not vibes.** Ordering is computed in code (owner requirement 2026-07-27: routes, travel legs, and dwell times must all be considered so the day is genuinely convenient):
+  - geographic clustering by `lat/lng` (one area per day; no cross-town zigzag), nearest-neighbor ordering within a day,
+  - **inter-stop travel legs**: haversine-derived walking time shown between consecutive stops ("~12 min walk"); legs beyond ~2 km flagged "take the subway/taxi" instead of a walking estimate; every leg gets a Google Maps *directions* deep link (origin→destination by coordinates — Google computes the live route; zero API cost, never our guess),
+  - **dwell times**: per-stop duration extracted from the post's own vetted prose/FAQ ("plan on 2–3 hours") where present, else category defaults (attraction 2h, restaurant 1h, hidden-gem/trendy 1.5h); the validator rejects any day whose dwell + walking total exceeds ~10 h,
+  - closed-day avoidance (pages are day-generic, so closed days are surfaced as explicit warnings on the stop card),
+  - meal slots filled by `restaurant` category only; morning slots favor venues whose `busyness.weekdayQuiet` includes 9–11,
+  - verified transit tips already in the post (e.g. "Line 3, Gyeongbokgung Station Exit 5") are carried onto the stop card verbatim — never model-generated.
 - **Validator gate before commit** (`scripts/validate-itineraries.mjs`, runs in CI like validate-content): every stop must resolve to a live post; no duplicate stops; no CLOSED_* businessStatus; per-day stop counts within bounds; all 5 locales present; internal links resolve. Build fails → page not published.
 - **Self-healing sync.** Pages are rebuilt from posts on every build. If a post is quarantined (draft) or deleted by the photo patrol, the next build silently drops/replaces the stop and the validator re-checks. Itinerary pages inherit every future accuracy fix automatically — no second copy of facts exists anywhere.
 - **Post-deploy verification** (standing directive): after first deploy, spawn verification subagents to check the live pages (facts vs. source posts, links, schema, all 5 locales) before reporting done.
