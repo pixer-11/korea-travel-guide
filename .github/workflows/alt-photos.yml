@@ -90,7 +90,7 @@ jobs:
         run: |
           git config user.name "content-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add src/content/posts public/wall data/wall.json
+          git add src/content/posts public/wall data/wall.json data/visual-audit.json
           if git diff --staged --quiet; then
             echo "No photo changes."
           else

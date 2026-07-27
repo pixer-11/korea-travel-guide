@@ -40,10 +40,14 @@ const vmismatch = new Set();
 // already-fixed posts every night (the patrol's "scanned 399 targets"). Keep a
 // slug only when the verdict belongs to the hero it is CURRENTLY showing.
 const vmismatchUrls = new Map(); // slug → Set(url judged MISMATCH)
+let auditStore = null;      // the parsed store, so an acquittal can be written back
+let auditDirty = false;
+const acquitted = [];
 if (existsSync('data/visual-audit.json')) {
   try {
     const audit = JSON.parse(readFileSync('data/visual-audit.json', 'utf8'));
     const entries = audit.results ?? audit ?? {};
+    if (!audit.results) auditStore = audit; // flat store → safe to edit in place
     for (const [key, item] of Object.entries(entries)) {
       if (!item?.slug) continue;
       if (!(item.verdict || item.status || '').toUpperCase().includes('MISMATCH')) continue;
@@ -106,7 +110,15 @@ for (const f of files) {
   // Current hero first: if the AI approves what's already there, keep it.
   if (data.heroImage?.url && data.draft !== true) {
     const cur = await verifyHeroImage({ url: data.heroImage.url, name: venueName, category: data.category, region: data.region, country: data.country });
-    if (cur.ok) continue;
+    if (cur.ok) {
+      // Record the acquittal. The weekly audit is a single vision call and does
+      // get landmarks wrong (2026-07-27: it called Gyeonghoeru "a Gyeongju
+      // pavilion" and the Wat Pho reclining Buddha "an upright statue" — both
+      // verified correct by eye). Without writing the appeal back, the stale
+      // MISMATCH kept re-queueing the post every night and re-alarming the owner.
+      if (flaggedNow) { acquitted.push(slug); auditDirty = true; delete auditStore[`${slug}\x01${data.heroImage.url}`]; }
+      continue;
+    }
     console.log(`  ✗  ${slug}: current hero rejected (${cur.reason}) — replacing`);
   }
 
@@ -157,6 +169,12 @@ for (const f of files) {
       console.log(`  ⚠️  ${slug}: no candidate passed vision (${cands.length} tried)`);
     }
   }
+}
+
+// Persist acquittals so a hero the patrol has cleared stops being re-queued.
+if (!DRY && auditDirty && auditStore) {
+  await writeFile('data/visual-audit.json', JSON.stringify(auditStore, null, 1) + '\n', 'utf8');
+  console.log(`\n⚖️  ${acquitted.length} previously-flagged hero(es) re-approved on review: ${acquitted.slice(0, 10).join(', ')}`);
 }
 
 console.log(`\n📦 scanned ${scanned} target(s): ${fixed} fixed · ${undrafted} republished · ${unfixed} need venue-rewrite`);
