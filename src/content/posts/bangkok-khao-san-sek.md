@@ -6,7 +6,7 @@ region: Bangkok
 category: restaurant
 pubDate: '2026-07-23'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/5813125_HYnaT3Kor8aa60JdU58LRfN6EF04JCikxkaB-BGIqbY.jpg
+  url: https://fastly.4sqi.net/img/general/original/19173375_C_1sc7A5qQMoZUCN0mINi4MwseHx24sAt6HJuqd0bN0.jpg
   credit: 'Photo: Foursquare user content (Khao San Sek (ข้าวสารเสก))'
   license: foursquare
   source: https://foursquare.com/v/67de929b42361a664ebb86d8

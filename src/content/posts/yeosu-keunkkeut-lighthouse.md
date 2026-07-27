@@ -5,7 +5,7 @@ region: Yeosu
 category: hidden-gem
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/12647493_YrlsuiioxBvAa1VNVXQGUYOr-xgG0YblPmtkli0MEAo.jpg
+  url: https://fastly.4sqi.net/img/general/original/12647493_XGbSrLLG61czWtYRdJ6GaX8ED3c-u8w1YxQ2_eJRcU4.jpg
   credit: 'Photo: Foursquare user content (큰끝등대)'
   license: foursquare
   source: https://foursquare.com/v/66346cd8b2003446227e4f39

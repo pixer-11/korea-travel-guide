@@ -6,7 +6,7 @@ region: Bali
 category: restaurant
 pubDate: '2026-07-23T07:25:58.838Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/25955595_gEGgt-JZ837010f-c-f4D842SrZkb2Kuq1M4ZC0lJzQ.jpg
+  url: https://fastly.4sqi.net/img/general/original/2210_0husGVxFSeqFitQw1FC1EVGdv_jLsOQocfVs9CMAb7Q.jpg
   credit: 'Photo: Foursquare user content (Chai Of The Tiger)'
   license: foursquare
   source: https://foursquare.com/v/62623645dce86767a946367f
@@ -43,7 +43,7 @@ place:
       - 21
     venueId: ven_307663522d4b63505f66695230693039413871546a665f4a496843
   priceLevel: 2
-  phone: '0821-1219-4853'
+  phone: 0821-1219-4853
   openingHours:
     - 'Monday: 11:00 AM – 10:30 PM'
     - 'Tuesday: 11:00 AM – 10:30 PM'

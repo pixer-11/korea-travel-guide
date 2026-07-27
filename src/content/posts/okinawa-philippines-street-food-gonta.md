@@ -1,43 +1,43 @@
 ---
-title: "Philippines Street Food Gonta: Where to Eat in Okinawa"
-description: "Philippines Street Food Gonta is a small Filipino streetfood counter in Chatan, on the American Village side of Okinawa's west coast — the go-to spot for"
-country: "Japan"
-region: "Okinawa"
-category: "restaurant"
-pubDate: 2026-07-21
+title: 'Philippines Street Food Gonta: Where to Eat in Okinawa'
+description: Philippines Street Food Gonta is a small Filipino streetfood counter in Chatan, on the American Village side of Okinawa's west coast — the go-to spot for
+country: Japan
+region: Okinawa
+category: restaurant
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/JP_%E6%97%A5%E6%9C%AC_Japan_%E6%B2%96%E7%B9%A9_OKINAWA_Keisatsusho_Street_restaurant_food_January_2025_R12S_06.jpg/1920px-JP_%E6%97%A5%E6%9C%AC_Japan_%E6%B2%96%E7%B9%A9_OKINAWA_Keisatsusho_Street_restaurant_food_January_2025_R12S_06.jpg"
-  credit: "Photo: Naha Mama Pavilionz / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:JP_%E6%97%A5%E6%9C%AC_Japan_%E6%B2%96%E7%B9%A9_OKINAWA_Keisatsusho_Street_restaurant_food_January_2025_R12S_06.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/JP_%E6%97%A5%E6%9C%AC_Japan_%E6%B2%96%E7%B9%A9_OKINAWA_Keisatsusho_Street_restaurant_food_January_2025_R12S_06.jpg/1920px-JP_%E6%97%A5%E6%9C%AC_Japan_%E6%B2%96%E7%B9%A9_OKINAWA_Keisatsusho_Street_restaurant_food_January_2025_R12S_06.jpg
+  credit: 'Photo: Naha Mama Pavilionz / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:JP_%E6%97%A5%E6%9C%AC_Japan_%E6%B2%96%E7%B9%A9_OKINAWA_Keisatsusho_Street_restaurant_food_January_2025_R12S_06.jpg
 gallery: []
 place:
-  id: "ChIJ-zc6qOUT5TQRvnEyMbnqIQg"
-  name: "Philippines Street Food Gonta"
-  address: "5Chatan, 2-chōme-16 Chatan, Nakagami District, Okinawa 904-0116, Japan"
+  id: ChIJ-zc6qOUT5TQRvnEyMbnqIQg
+  name: Philippines Street Food Gonta
+  address: 5Chatan, 2-chōme-16 Chatan, Nakagami District, Okinawa 904-0116, Japan
   rating: 4.5
   userRatingsTotal: 64
-  googleMapsUrl: "https://maps.google.com/?cid=586007507650113982&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=586007507650113982&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 26.304767899999998
   lng: 127.7599605
 tags:
-  - "okinawa"
-  - "street food"
-quickAnswer: "Philippines Street Food Gonta is a small Filipino streetfood counter in Chatan, on the American Village side of Okinawa's west coast — the go-to spot for barbecue skewers, lumpia, and halo-halo late at night. Rated 4.5 from 64 reviews, it's best treated as a casual, cash-friendly stop before or after a night out near Sunset Beach. Budget 20–40 minutes, and go hungry enough for a few small plates rather than one big meal."
+  - okinawa
+  - street food
+quickAnswer: Philippines Street Food Gonta is a small Filipino streetfood counter in Chatan, on the American Village side of Okinawa's west coast — the go-to spot for barbecue skewers, lumpia, and halo-halo late at night. Rated 4.5 from 64 reviews, it's best treated as a casual, cash-friendly stop before or after a night out near Sunset Beach. Budget 20–40 minutes, and go hungry enough for a few small plates rather than one big meal.
 faq:
-  - q: "How do I get to Philippines Street Food Gonta without a car?"
-    a: "There's no monorail or train to Chatan, so take a taxi or bus from Naha (about 30–40 minutes) — a rental car is the most flexible option since American Village has ample parking."
-  - q: "What's the best time to visit?"
-    a: "Evenings and nights, since it operates as a streetfood counter in Okinawa's nightlife district; weeknights are calmer, while Friday–Saturday nights draw the biggest crowds."
-  - q: "How long should I plan to spend there?"
-    a: "20–40 minutes is typical for ordering and eating a few shared items, though many visitors linger longer if combining it with a walk around American Village or Sunset Beach."
-  - q: "What should I order first?"
-    a: "Start with the grilled skewers and lumpia, then finish with halo-halo for dessert — ordering a few small items to share works better than one large order."
-  - q: "Is it within walking distance of other attractions?"
-    a: "Yes — it's near American Village's Ferris wheel and shops, and Sunset Beach is just a couple of minutes away on foot."
+  - q: How do I get to Philippines Street Food Gonta without a car?
+    a: There's no monorail or train to Chatan, so take a taxi or bus from Naha (about 30–40 minutes) — a rental car is the most flexible option since American Village has ample parking.
+  - q: What's the best time to visit?
+    a: Evenings and nights, since it operates as a streetfood counter in Okinawa's nightlife district; weeknights are calmer, while Friday–Saturday nights draw the biggest crowds.
+  - q: How long should I plan to spend there?
+    a: 20–40 minutes is typical for ordering and eating a few shared items, though many visitors linger longer if combining it with a walk around American Village or Sunset Beach.
+  - q: What should I order first?
+    a: Start with the grilled skewers and lumpia, then finish with halo-halo for dessert — ordering a few small items to share works better than one large order.
+  - q: Is it within walking distance of other attractions?
+    a: Yes — it's near American Village's Ferris wheel and shops, and Sunset Beach is just a couple of minutes away on foot.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go
