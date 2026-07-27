@@ -2,15 +2,21 @@ name: Backfill place details (phone/hours)
 
 # Retro-fills reservation phone + openingHours on EXISTING posts (1 Places
 # Details call per post; script skips posts that already have both, stops at
-# --limit). Scheduled 08:05 UTC = 17:05 KST — right AFTER the 16:19 KST daily
-# publish, inside the same fresh Places window that resets 16:00 KST, so it
-# spends the day's LEFTOVER quota and can never starve publish. i18n pages read
-# place data from the EN frontmatter, so filling EN serves all 5 languages.
-# Once the backlog is filled the runs turn into cheap near-no-ops; disable the
-# cron at that point (venues with no listed phone/hours get re-checked daily).
+# --limit). i18n pages read place data from the EN frontmatter, so filling EN
+# serves all 5 languages.
+#
+# CHAINED to the publish workflow rather than run on its own cron: publish must
+# always get the fresh Places window first, and GitHub delays scheduled runs by
+# hours under load (2026-07-27: publish's 16:19 KST cron actually fired at 19:52
+# KST — a fixed 17:05 backfill cron would have run FIRST and eaten the quota,
+# the exact starvation this ordering exists to prevent). workflow_run fires only
+# after publish finishes, so the order holds no matter how late publish starts.
+# Once the backlog is filled the runs turn into cheap near-no-ops; drop the
+# trigger at that point (venues with no listed phone/hours get re-checked daily).
 on:
-  schedule:
-    - cron: '5 8 * * *' # 08:05 UTC = 17:05 KST (off the hour — GitHub drops :00 crons)
+  workflow_run:
+    workflows: ['Auto-generate & publish posts']
+    types: [completed]
   workflow_dispatch:
     inputs:
       limit:
