@@ -1,0 +1,78 @@
+name: Backfill place details (phone/hours)
+
+# Retro-fills reservation phone + openingHours on EXISTING posts (1 Places
+# Details call per post; script skips posts that already have both, stops at
+# --limit). Scheduled 08:05 UTC = 17:05 KST — right AFTER the 16:19 KST daily
+# publish, inside the same fresh Places window that resets 16:00 KST, so it
+# spends the day's LEFTOVER quota and can never starve publish. i18n pages read
+# place data from the EN frontmatter, so filling EN serves all 5 languages.
+# Once the backlog is filled the runs turn into cheap near-no-ops; disable the
+# cron at that point (venues with no listed phone/hours get re-checked daily).
+on:
+  schedule:
+    - cron: '5 8 * * *' # 08:05 UTC = 17:05 KST (off the hour — GitHub drops :00 crons)
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'Max posts to process this run (1 Details call each; 429-safe)'
+        required: false
+        default: '80'
+
+permissions:
+  contents: write
+
+concurrency: backfill-details
+
+jobs:
+  details:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      - name: Backfill phone/openingHours (quota-capped)
+        env:
+          GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
+        run: node scripts/backfill-place-details.mjs --apply --limit "${{ github.event.inputs.limit || '80' }}" | tee /tmp/bf.log
+
+      - name: Commit updated posts
+        id: commit
+        run: |
+          git config user.name "content-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add src/content/posts
+          summary=$(tail -1 /tmp/bf.log)
+          echo "summary=$summary" >> "$GITHUB_OUTPUT"
+          if git diff --staged --quiet; then
+            echo "changed=0" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=1" >> "$GITHUB_OUTPUT"
+            git commit -m "content: backfill phone/openingHours ($(date -u +%Y-%m-%d))"
+            git pull --rebase origin main
+            git push
+          fi
+
+      - name: Notify Telegram (Korean)
+        if: always()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SUMMARY: ${{ steps.commit.outputs.summary }}
+          CHANGED: ${{ steps.commit.outputs.changed }}
+          JOB_STATUS: ${{ job.status }}
+        run: |
+          if [ "$JOB_STATUS" = "success" ]; then
+            if [ "$CHANGED" = "1" ]; then head="📞 전화·영업시간 채우기 완료"; else head="📞 전화·영업시간 채우기 — 오늘은 새로 채울 것 없음"; fi
+          else
+            head="⚠️ 전화·영업시간 채우기 실패 — 로그 확인 필요"
+          fi
+          curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            -d chat_id="${TELEGRAM_CHAT_ID}" \
+            --data-urlencode text="${head}
+결과: ${SUMMARY}" > /dev/null
