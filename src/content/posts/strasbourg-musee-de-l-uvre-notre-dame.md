@@ -1,50 +1,50 @@
 ---
-title: "Musée de l'Œuvre-Notre-Dame: Strasbourg Travel Guide"
-description: "The Musée de l'Œuvre-Notre-Dame, tucked into a cluster of medieval and Renaissance houses at 3 Place du Château right beside Strasbourg Cathedral, is one of"
-country: "France"
-region: "Strasbourg"
-category: "attraction"
-pubDate: "2026-07-26T08:31:00.021Z"
+title: 'Musée de l''Œuvre-Notre-Dame: Strasbourg Travel Guide'
+description: The Musée de l'Œuvre-Notre-Dame, tucked into a cluster of medieval and Renaissance houses at 3 Place du Château right beside Strasbourg Cathedral, is one of
+country: France
+region: Strasbourg
+category: attraction
+pubDate: '2026-07-26T08:31:00.021Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Renaissance_portal_of_Mus%C3%A9e_de_l%27%C5%92uvre_Notre-Dame_de_Strasbourg_01.jpg/1920px-Renaissance_portal_of_Mus%C3%A9e_de_l%27%C5%92uvre_Notre-Dame_de_Strasbourg_01.jpg"
-  credit: "Photo: John Samuel / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Renaissance_portal_of_Mus%C3%A9e_de_l%27%C5%92uvre_Notre-Dame_de_Strasbourg_01.jpg"
+  url: https://fastly.4sqi.net/img/general/original/66963966_YgwacUMKC3lN8VU5STt4ytD-KwazEbXteXZ_jM3LVvw.jpg
+  credit: 'Photo: Foursquare user content (Musée de l''Œuvre Notre-Dame)'
+  license: foursquare
+  source: https://foursquare.com/v/4d9850a4744f37047bc4eb57
 gallery: []
 place:
-  id: "ChIJcWECd1PIlkcR6CHdDgYtlzA"
-  name: "Musée de l'Œuvre-Notre-Dame"
-  address: "3 Pl. du Château, 67000 Strasbourg, France"
+  id: ChIJcWECd1PIlkcR6CHdDgYtlzA
+  name: Musée de l'Œuvre-Notre-Dame
+  address: 3 Pl. du Château, 67000 Strasbourg, France
   rating: 4.7
   userRatingsTotal: 549
-  googleMapsUrl: "https://maps.google.com/?cid=3501316739346276840&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=3501316739346276840&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 48.580977
   lng: 7.751474
-  phone: "03 68 98 50 00"
+  phone: 03 68 98 50 00
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 1:00 PM, 2:00 – 6:00 PM"
-    - "Wednesday: 10:00 AM – 1:00 PM, 2:00 – 6:00 PM"
-    - "Thursday: 10:00 AM – 1:00 PM, 2:00 – 6:00 PM"
-    - "Friday: 10:00 AM – 1:00 PM, 2:00 – 6:00 PM"
-    - "Saturday: 10:00 AM – 6:00 PM"
-    - "Sunday: 10:00 AM – 6:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 1:00 PM, 2:00 – 6:00 PM'
+    - 'Wednesday: 10:00 AM – 1:00 PM, 2:00 – 6:00 PM'
+    - 'Thursday: 10:00 AM – 1:00 PM, 2:00 – 6:00 PM'
+    - 'Friday: 10:00 AM – 1:00 PM, 2:00 – 6:00 PM'
+    - 'Saturday: 10:00 AM – 6:00 PM'
+    - 'Sunday: 10:00 AM – 6:00 PM'
 tags:
-  - "strasbourg"
-  - "top attraction"
-quickAnswer: "The Musée de l'Œuvre-Notre-Dame, tucked into a cluster of medieval and Renaissance houses at 3 Place du Château right beside Strasbourg Cathedral, is one of the city's most under-visited major sights — a 4.7-star-rated museum of medieval and Renaissance art, stained glass, and cathedral sculpture. Give it 90 minutes to two hours, go on a weekday morning, and pair it with the cathedral and its astronomical clock next door."
+  - strasbourg
+  - top attraction
+quickAnswer: The Musée de l'Œuvre-Notre-Dame, tucked into a cluster of medieval and Renaissance houses at 3 Place du Château right beside Strasbourg Cathedral, is one of the city's most under-visited major sights — a 4.7-star-rated museum of medieval and Renaissance art, stained glass, and cathedral sculpture. Give it 90 minutes to two hours, go on a weekday morning, and pair it with the cathedral and its astronomical clock next door.
 faq:
-  - q: "How do I get to the Musée de l'Œuvre-Notre-Dame?"
-    a: "It's at 3 Place du Château, right behind Strasbourg Cathedral in the Grande Île old town. Take tram A, C, or D to Langstross–Grand'Rue or Broglie, then walk about 10 minutes, or walk roughly 20 minutes from the train station."
-  - q: "How long should I spend there?"
-    a: "Budget 90 minutes for the highlights — original cathedral sculpture and the stained-glass rooms — or up to two hours if you want to read through the history of Strasbourg's guilds and Revolution-era exhibits in detail."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings soon after opening are calmest, before cathedral tour groups spread into the surrounding square. It's a genuinely under-the-radar stop compared to the cathedral, so it rarely feels crowded even in high season."
-  - q: "Is it worth visiting if I'm already seeing the cathedral?"
-    a: "Yes — many of the cathedral's original medieval statues, removed for preservation, are displayed here at eye level, and the stained glass predates much of what's currently in the cathedral. Visiting beforehand gives helpful context."
-  - q: "Do I need to book tickets in advance?"
-    a: "No advance booking is necessary; it doesn't draw the queues the cathedral does, so you can typically buy tickets at the door and walk straight in."
+  - q: How do I get to the Musée de l'Œuvre-Notre-Dame?
+    a: It's at 3 Place du Château, right behind Strasbourg Cathedral in the Grande Île old town. Take tram A, C, or D to Langstross–Grand'Rue or Broglie, then walk about 10 minutes, or walk roughly 20 minutes from the train station.
+  - q: How long should I spend there?
+    a: Budget 90 minutes for the highlights — original cathedral sculpture and the stained-glass rooms — or up to two hours if you want to read through the history of Strasbourg's guilds and Revolution-era exhibits in detail.
+  - q: When is the quietest time to visit?
+    a: Weekday mornings soon after opening are calmest, before cathedral tour groups spread into the surrounding square. It's a genuinely under-the-radar stop compared to the cathedral, so it rarely feels crowded even in high season.
+  - q: Is it worth visiting if I'm already seeing the cathedral?
+    a: Yes — many of the cathedral's original medieval statues, removed for preservation, are displayed here at eye level, and the stained glass predates much of what's currently in the cathedral. Visiting beforehand gives helpful context.
+  - q: Do I need to book tickets in advance?
+    a: No advance booking is necessary; it doesn't draw the queues the cathedral does, so you can typically buy tickets at the door and walk straight in.
 aiGenerated: true
 draft: false
 ---

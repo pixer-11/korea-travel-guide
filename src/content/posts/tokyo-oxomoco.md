@@ -6,7 +6,7 @@ region: Tokyo
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/87388367_nUotSsJyC8CvOrLob6Ipcdl6bYHZ_Pt5YHqrbxWoiAk.jpg
+  url: https://fastly.4sqi.net/img/general/original/87388367_8P_skR-il1wkw8DH2za8w1xzxbW6LTAI97sx2_WNQLg.jpg
   credit: 'Photo: Foursquare user content (Oxomoco (オショモコ))'
   license: foursquare
   source: https://foursquare.com/v/5f03d9cad6e0d407d33aa09a

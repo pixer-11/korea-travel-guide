@@ -1,31 +1,23 @@
 ---
 title: 'Secret Garden Village: Bali Travel Guide'
-description: >-
-  Secret Garden Village is a family-friendly cultural park on the
-  Denpasar–Bedugul road in Baturiti, Tabanan, about 90 minutes to 2 hours north
-  of
+description: Secret Garden Village is a family-friendly cultural park on the Denpasar–Bedugul road in Baturiti, Tabanan, about 90 minutes to 2 hours north of
 country: Indonesia
 region: Bali
 category: hidden-gem
 pubDate: '2026-07-23T07:19:07.239Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Unveiling_Gunung_Kawi%2C_Bali%E2%80%99s_Hidden_Gem.jpg/1920px-Unveiling_Gunung_Kawi%2C_Bali%E2%80%99s_Hidden_Gem.jpg
-  credit: 'Photo: Pinterpandai.com / Wikimedia Commons (CC BY 3.0)'
-  license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Unveiling_Gunung_Kawi,_Bali%E2%80%99s_Hidden_Gem.jpg
+  url: https://fastly.4sqi.net/img/general/original/3905633_46oTFRNZAuDJIr82_LnePqMMzE1I4aDM5mnkw-DKcTc.jpg
+  credit: 'Photo: Foursquare user content (Secret Garden Village)'
+  license: foursquare
+  source: https://foursquare.com/v/572c2b01498e72a55dade1b6
 gallery: []
 place:
   id: ChIJhwAqoysh0i0R70f2yLfD06s
   name: Secret Garden Village
-  address: >-
-    Jl. Raya Denpasar Bedugul No.Km. 36, Mekarsari, Kec. Baturiti, Kabupaten
-    Tabanan, Bali 82191, Indonesia
+  address: Jl. Raya Denpasar Bedugul No.Km. 36, Mekarsari, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia
   rating: 4.6
   userRatingsTotal: 5594
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=12381454994689640431&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=12381454994689640431&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: -8.3726635
   lng: 115.1932669
@@ -60,40 +52,19 @@ place:
 tags:
   - bali
   - hidden gem
-quickAnswer: >-
-  Secret Garden Village is a family-friendly cultural park on the
-  Denpasar–Bedugul road in Baturiti, Tabanan, about 90 minutes to 2 hours north
-  of Denpasar/Seminyak and roughly 20–30 minutes south of Bedugul's Ulun Danu
-  Beratan Temple. Despite the name, it's a well-known, heavily visited
-  attraction (4.6 rating, 5,500+ reviews) built around Balinese history, crafts,
-  and gardens — plan 2–3 hours and pair it with a Bedugul day trip. Go on a
-  weekday morning to avoid tour-bus crowds.
+quickAnswer: Secret Garden Village is a family-friendly cultural park on the Denpasar–Bedugul road in Baturiti, Tabanan, about 90 minutes to 2 hours north of Denpasar/Seminyak and roughly 20–30 minutes south of Bedugul's Ulun Danu Beratan Temple. Despite the name, it's a well-known, heavily visited attraction (4.6 rating, 5,500+ reviews) built around Balinese history, crafts, and gardens — plan 2–3 hours and pair it with a Bedugul day trip. Go on a weekday morning to avoid tour-bus crowds.
 faq:
   - q: How do I get to Secret Garden Village without a car?
-    a: >-
-      Public transport doesn't serve it well; almost everyone arrives by private
-      car, hired driver, or as part of a day-tour package that also covers
-      Bedugul and Ulun Danu Beratan Temple.
+    a: Public transport doesn't serve it well; almost everyone arrives by private car, hired driver, or as part of a day-tour package that also covers Bedugul and Ulun Danu Beratan Temple.
   - q: How much time should I set aside?
-    a: >-
-      Plan on 2 to 3 hours to walk the gardens, take in the cultural displays,
-      and grab food or souvenirs, rather than a quick 20-minute stop.
+    a: Plan on 2 to 3 hours to walk the gardens, take in the cultural displays, and grab food or souvenirs, rather than a quick 20-minute stop.
   - q: What's the best time of day to visit to avoid crowds?
-    a: >-
-      Go right at opening or after 3pm on a weekday — mid-morning to early
-      afternoon is when tour buses and large groups typically arrive.
+    a: Go right at opening or after 3pm on a weekday — mid-morning to early afternoon is when tour buses and large groups typically arrive.
   - q: Is it worth combining with other Bedugul attractions?
-    a: >-
-      Yes — it sits directly on the Denpasar–Bedugul highway, about 20–30
-      minutes south of Ulun Danu Beratan Temple and the Bali Botanic Garden,
-      making it easy to pair in one day trip.
+    a: Yes — it sits directly on the Denpasar–Bedugul highway, about 20–30 minutes south of Ulun Danu Beratan Temple and the Bali Botanic Garden, making it easy to pair in one day trip.
   - q: What should I bring given the location?
-    a: >-
-      A light jacket, since Baturiti's higher elevation is noticeably cooler and
-      mistier than coastal Bali, plus some small rupiah notes for food stalls
-      and shops.
+    a: A light jacket, since Baturiti's higher elevation is noticeably cooler and mistier than coastal Bali, plus some small rupiah notes for food stalls and shops.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-26'
 ---
 
