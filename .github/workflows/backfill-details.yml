@@ -72,7 +72,10 @@ jobs:
           else
             head="⚠️ 전화·영업시간 채우기 실패 — 로그 확인 필요"
           fi
+          # printf builds the line break — a literal newline inside this block
+          # scalar would have to start at column 0, which ENDS the scalar and
+          # makes the whole workflow file invalid YAML (that is exactly what
+          # broke the first two runs of this workflow).
           curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
             -d chat_id="${TELEGRAM_CHAT_ID}" \
-            --data-urlencode text="${head}
-결과: ${SUMMARY}" > /dev/null
+            --data-urlencode text="$(printf '%s\n결과: %s' "$head" "${SUMMARY:-—}")" > /dev/null
