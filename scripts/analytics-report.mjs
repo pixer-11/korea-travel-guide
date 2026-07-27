@@ -102,10 +102,15 @@ async function sendTelegram(text) {
   else console.log('Telegram sent.');
 }
 
+// Both collectors RETURN data (or null); main() composes ONE Telegram message.
+// Why two sources at all: Cloudflare RUM counts visitors that ad/tracker blockers
+// hide from Plausible (so its totals are the truer volume), while only Plausible
+// records behaviour — bounce, dwell time, affiliate clicks, referrer. Merging
+// gives one honest picture instead of two messages the reader has to reconcile.
 async function cfReport() {
   if (!CF_API_TOKEN || !CF_ACCOUNT_ID) {
     console.error('CF_API_TOKEN / CF_ACCOUNT_ID missing.');
-    return;
+    return null;
   }
 
   const filter = `{ datetime_geq: "${start}", datetime_leq: "${end}" }`;
@@ -137,15 +142,14 @@ async function cfReport() {
     });
     json = await res.json();
   } catch (e) {
-    await sendTelegram(`📊 Wander Atlas — 분석 리포트 오류\n${e.message}`);
-    return;
+    console.error('Cloudflare fetch failed:', e.message);
+    return { error: e.message };
   }
 
   if (json.errors || !json.data?.viewer?.accounts?.[0]) {
-    const msg = JSON.stringify(json.errors || json).slice(0, 350);
+    const msg = JSON.stringify(json.errors || json).slice(0, 200);
     console.error('GraphQL error:', msg);
-    await sendTelegram(`📊 Wander Atlas — 분석 리포트 실패 (${dayLabel})\nAPI 응답: ${msg}`);
-    return;
+    return { error: msg };
   }
 
   const a = json.data.viewer.accounts[0];
@@ -155,15 +159,7 @@ async function cfReport() {
   const countries = (a.countries ?? []).map((c) => `${koCountry(c.dimensions.countryName)} ${c.count}`).join(' · ') || '—';
   const pages = (a.pages ?? []).map((p) => `  • ${pageLabel(p.dimensions.requestPath)} — ${p.count}`).join('\n') || '  —';
 
-  const text = `📊 Wander Atlas — 일일 분석 (${dayLabel} UTC)
-👀 페이지뷰: ${pageviews.toLocaleString()}
-🧑 방문: ${visits.toLocaleString()}
-🌍 상위 국가: ${countries}
-🔥 인기 페이지:
-${pages}`;
-
-  console.log(text);
-  await sendTelegram(text);
+  return { pageviews, visits, countries, pages };
 }
 
 // ── Plausible (cookieless) — detailed, event-level report incl. affiliate clicks ──
@@ -179,7 +175,7 @@ async function pla(path) {
 async function plausibleReport() {
   if (!PLAUSIBLE_API_KEY || !PLAUSIBLE_SITE_ID) {
     console.log('Plausible env missing — skipping Plausible report.');
-    return;
+    return null;
   }
   const s = encodeURIComponent(PLAUSIBLE_SITE_ID);
   const q = `site_id=${s}&period=day&date=${dayLabel}`;
@@ -194,28 +190,67 @@ async function plausibleReport() {
     } catch (e) { console.log('affiliate-click metric skipped:', e.message); }
 
     const R = agg.results ?? {};
-    const dur = Math.round((R.visit_duration?.value ?? 0));
     const topPages = (pages.results ?? []).map((p) => `  • ${pageLabel(p.page)} — ${p.visitors}`).join('\n') || '  —';
     const topSrc = (sources.results ?? []).map((x) => `${koSource(x.source)} ${x.visitors}`).join(' · ') || '—';
-    const text = `📈 Wander Atlas — 상세 분석 · Plausible (${dayLabel} UTC)
-👥 방문자: ${(R.visitors?.value ?? 0).toLocaleString()}
-👀 페이지뷰: ${(R.pageviews?.value ?? 0).toLocaleString()}
-↩️ 이탈률: ${R.bounce_rate?.value ?? 0}% · ⏱️ 평균 체류: ${dur}초
-🖱️ 제휴 링크 클릭: ${clicks}
-🌐 유입원: ${topSrc}
-🔥 인기 페이지:
-${topPages}`;
-    console.log(text);
-    await sendTelegram(text);
+    return {
+      visitors: R.visitors?.value ?? 0,
+      pageviews: R.pageviews?.value ?? 0,
+      bounce: R.bounce_rate?.value ?? 0,
+      dur: Math.round(R.visit_duration?.value ?? 0),
+      clicks,
+      topSrc,
+      topPages,
+    };
   } catch (e) {
     console.error('Plausible report failed:', e.message);
-    await sendTelegram(`📈 Wander Atlas — Plausible 리포트 오류\n${e.message}`);
+    return { error: e.message };
   }
 }
 
+// "219초" is arithmetic the reader shouldn't have to do at a glance.
+const koDuration = (s) => (s >= 60 ? `${Math.floor(s / 60)}분 ${s % 60}초` : `${s}초`);
+
 async function main() {
-  await cfReport();
-  await plausibleReport();
+  const [cf, pl] = await Promise.all([cfReport(), plausibleReport()]);
+  const cfOk = cf && !cf.error;
+  const plOk = pl && !pl.error;
+
+  if (!cfOk && !plOk) {
+    const why = [cf?.error && `CF: ${cf.error}`, pl?.error && `Plausible: ${pl.error}`]
+      .filter(Boolean).join(' | ') || '설정 없음';
+    await sendTelegram(`📊 Wander Atlas — 일일 리포트 실패 (${dayLabel})\n${why}`);
+    return;
+  }
+
+  const L = [`📊 Wander Atlas — 일일 리포트 (${dayLabel} UTC)`, ''];
+
+  // Headline volume: Cloudflare when available (blocker-proof), else Plausible.
+  if (cfOk) {
+    L.push(`👥 방문 ${cf.visits.toLocaleString()}명 · 페이지뷰 ${cf.pageviews.toLocaleString()}`);
+    if (plOk) L.push(`   └ 행동 추적 가능분: ${pl.visitors.toLocaleString()}명 (광고차단 사용자는 제외됨)`);
+  } else {
+    L.push(`👥 방문 ${pl.visitors.toLocaleString()}명 · 페이지뷰 ${pl.pageviews.toLocaleString()}`);
+    L.push(`   └ ⚠️ 전체 집계(Cloudflare) 실패 — 실제 방문은 이보다 많습니다`);
+  }
+
+  if (plOk) {
+    L.push(`⏱️ 평균 체류 ${koDuration(pl.dur)} · ↩️ 이탈률 ${pl.bounce}%`);
+    L.push(`🖱️ 제휴 링크 클릭 ${pl.clicks}회`);
+  }
+
+  L.push('');
+  if (cfOk) L.push(`🌍 상위 국가: ${cf.countries}`);
+  if (plOk) L.push(`🌐 유입원: ${pl.topSrc}`);
+
+  L.push('', '🔥 인기 페이지');
+  L.push(cfOk ? cf.pages : pl.topPages);
+
+  // Surface a half-failure instead of silently dropping a section.
+  if (cfOk && pl?.error) L.push('', `⚠️ 행동 통계(Plausible) 수집 실패: ${pl.error.slice(0, 80)}`);
+
+  const text = L.join('\n');
+  console.log(text);
+  await sendTelegram(text);
 }
 
 main().catch((e) => { console.error(e); });
