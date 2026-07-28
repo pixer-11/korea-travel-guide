@@ -298,14 +298,22 @@ const LOCATION_ACCURACY_RULES =
 // (Bangkok FAQ: "each day is built around four stops" when only day one
 // actually had four), plus duration wording contradicting the given dwell
 // time (Chatuchak's `why` said "the several hours budgeted" for a 90-minute
-// dwell).
+// dwell). Strengthened in round 4: the validator's STOP-COUNT-CLAIM check
+// flags ANY "N stops" mention that isn't uniformly true across every day —
+// even a correctly-scoped, individually-true claim like "day one has 4
+// stops" still trips it, because the check can't tell scoped claims from
+// universal ones from the text alone. Rather than rely on the model always
+// phrasing around that limitation, forbid stating a specific stop-count
+// number anywhere — same closed-world treatment as hours/prices, and the
+// page renders the exact count from data regardless.
 const STRUCTURE_AND_DURATION_RULES =
-  'Any statement about how many stops, days, or meals the plan contains must match the given ' +
-  'structure exactly — if day counts differ, do not claim a uniform number (e.g. do not say ' +
-  '"each day has four stops" unless every day listed above truly has four). Each stop\'s dwell ' +
-  'time (in minutes, given above) is the authoritative visit length — any duration wording in ' +
-  'prose ("about an hour", "a couple of hours", "the whole afternoon") must be consistent with ' +
-  'that number, never vaguer or larger than it suggests.';
+  'Do not state a specific NUMBER of stops for any single day or for the whole trip, anywhere ' +
+  '(title, description, quickAnswer, FAQ, or any day intro) — say "a fuller day" or "a lighter day" ' +
+  'instead of naming a count; the page renders the exact stop counts from data. The number of DAYS ' +
+  '(e.g. "3-day itinerary") is fine to state since it is given above and always applies uniformly. ' +
+  'Each stop\'s dwell time (in minutes, given above) is the authoritative visit length — any duration ' +
+  'wording in prose ("about an hour", "a couple of hours", "the whole afternoon") must be consistent ' +
+  'with that number, never vaguer or larger than it suggests.';
 
 function buildPrompt({ city, country, days, daysArr, bySlug, retryIssues }) {
   const blocks = daysArr.map((d, i) => dayBlock(d, i, bySlug, city)).join('\n\n');
