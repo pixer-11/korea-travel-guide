@@ -464,7 +464,12 @@ test('commitOrRejectTemp: a clean temp file is renamed over the target', async (
       city: 'TestCity', country: 'Testland', days: 1,
       title: 't', description: 'd', quickAnswer: 'q',
       pubDate: '2026-01-01T00:00:00.000Z', stopsHash: 'clean-hash', packedAvailable: false, faq: [],
-      itinerary: [{ label: 'Day 1', intro: 'Intro.', stops: [stop('a', 'morning', 60), stop('b', 'lunch', 60), stop('c', 'evening', 60)], rainSwapSlug: null }],
+      // dwellMin values here must match what dwellMinutes() actually computes
+      // for TEST_POSTS (no body text -> category default: attraction 120,
+      // restaurant 60) — validate-itineraries.mjs's round-3 DWELL-STALE check
+      // now recomputes and compares, so a "clean" fixture has to be genuinely
+      // fresh, not just internally plausible.
+      itinerary: [{ label: 'Day 1', intro: 'Intro.', stops: [stop('a', 'morning', 120), stop('b', 'lunch', 60), stop('c', 'evening', 120)], rainSwapSlug: null }],
       aiGenerated: true, draft: false,
     };
     await writeFile(tmpPath, fmToMd(fm), 'utf8');
