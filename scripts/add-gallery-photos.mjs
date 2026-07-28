@@ -139,6 +139,15 @@ for (const file of files) {
       region: d.region,
       country: d.country || 'South Korea',
     });
+    // Belt and braces: even if the model says ok, a hedged reason means it was
+    // not certain — and an uncertain second photo is worse than none at all.
+    const hedged = /probabl|plausib|likely|appears to|could be|maybe|possibly/i.test(check.reason || '');
+    if (check.ok && hedged) {
+      lastReason = `불확실(${check.reason})`;
+      process.stdout.write(`
+    · 반려(확신부족): ${check.reason}`);
+      continue;
+    }
     if (check.ok) { cand = c; okReason = check.reason; break; }
     lastReason = check.reason;
     process.stdout.write(`\n    · 반려(${(c.license || '').slice(0, 10)}): ${check.reason}`);
