@@ -7,6 +7,10 @@
 //   node scripts/backfill-place-details.mjs                 # dry-run (still calls the API to preview)
 //   node scripts/backfill-place-details.mjs --apply         # write changes
 //   node scripts/backfill-place-details.mjs --limit 10      # cap posts processed (quota-safe trial)
+//   node scripts/backfill-place-details.mjs --slugs=a,b,c   # only these post ids (filename minus .md),
+//                                                            # in the given order, ignoring alphabetical
+//                                                            # scan order; --limit still applies after
+//                                                            # this filter. Everything else unchanged.
 import './lib/env.mjs'; // MUST be first — loads .env before places.mjs reads the API key
 import { readdir, readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
@@ -19,11 +23,29 @@ const LIMIT = (() => {
   const i = process.argv.indexOf('--limit');
   return i !== -1 ? Number(process.argv[i + 1]) : Infinity;
 })();
+const SLUGS = (() => {
+  const arg = process.argv.find((a) => a.startsWith('--slugs='));
+  if (!arg) return null;
+  return arg
+    .slice('--slugs='.length)
+    .split(',')
+    .map((s) => s.trim())
+    .filter(Boolean);
+})();
 
 // YAML single-quote a scalar (only ' needs escaping, as '').
 const yq = (s) => `'${String(s).replace(/'/g, "''")}'`;
 
-const files = (await readdir(DIR)).filter((f) => f.endsWith('.md'));
+let files = (await readdir(DIR)).filter((f) => f.endsWith('.md'));
+if (SLUGS) {
+  // Precision mode: resolve exactly the requested post ids, in the order given,
+  // regardless of where they'd otherwise fall in the alphabetical scan — so
+  // --limit (applied below, after this filter) can't cut them off.
+  const bySlug = new Map(files.map((f) => [f.replace(/\.md$/, ''), f]));
+  const missing = SLUGS.filter((s) => !bySlug.has(s));
+  if (missing.length) console.log(`  ⚠ --slugs: no post file for: ${missing.join(', ')}`);
+  files = SLUGS.map((s) => bySlug.get(s)).filter(Boolean);
+}
 let updated = 0, skipNoPlace = 0, already = 0, noData = 0, processed = 0, quotaHits = 0;
 // Places Details returns null on 429 (places.mjs logs it and does NOT throw), which
 // used to land in the noData bucket — so an exhausted-quota run reported "117 no new
@@ -98,8 +120,7 @@ for (const f of files) {
 }
 
 console.log(
-  `\n${updated} updated, ${already} already complete, ${skipNoPlace} no place.id, ` +
-  `${noData} no new data` +
-  (quotaHits ? `, ${quotaHits} quota-blocked (재시도 대상)` : '') +
-  ` (${APPLY ? 'APPLIED' : 'dry-run'}).`
+  `\nBACKFILL RESULT: updated ${updated}, already-complete ${already}, no-new-data ${noData}, ` +
+  `no-place ${skipNoPlace}, quota-429 ${quotaHits}, processed ${processed} of ${files.length} ` +
+  `(${APPLY ? 'APPLIED' : 'dry-run'}).`
 );
