@@ -11,14 +11,25 @@
 //  structural change (≤2 stop slugs added/removed) keeps the existing prose and
 //  only updates the numbers; a bigger change re-runs Claude for that variant.
 //
+//  Safety: every generated file is written to a temp path, sanity-checked, and
+//  only then atomically renamed over the target — a bad regeneration can never
+//  destroy a previously-good (possibly live) itinerary. Generated prose is
+//  scanned for (a) the rain-swap venue name leaking outside rainWhys and
+//  (b) clock-time/opening-hours/price language; either triggers one retry, then
+//  either a soft downgrade (rain-swap dropped to null) or a hard failure for
+//  that city (existing file left untouched either way).
+//
 //  Usage:
-//    node scripts/build-itineraries.mjs                        # sweep everything
-//    node scripts/build-itineraries.mjs --city=Seoul            # one city, all variants
-//    node scripts/build-itineraries.mjs --city=Seoul --days=3   # one city, one variant
+//    node scripts/build-itineraries.mjs                          # sweep everything
+//    node scripts/build-itineraries.mjs --city=Seoul              # one city, all variants
+//    node scripts/build-itineraries.mjs --city=Seoul --days=3     # one city, one variant
+//    node scripts/build-itineraries.mjs --city=NewCity --force-new-city
+//        # manual run for a brand-new (non-launch) city: bypasses the ≤2-new-
+//        # cities/7-days anti-spam cap, which otherwise applies to --city= too.
 // ─────────────────────────────────────────────────────────────
 import './lib/env.mjs';
 import Anthropic from '@anthropic-ai/sdk';
-import { readdir, readFile, writeFile, mkdir, rm } from 'node:fs/promises';
+import { readdir, readFile, writeFile, mkdir, rm, rename } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import { createHash } from 'node:crypto';
 import { join } from 'node:path';
@@ -40,6 +51,7 @@ const DAY_VARIANTS = [3, 5]; // only variants the solver + content gates support
 const arg = (k) => process.argv.find((a) => a.startsWith(`--${k}=`))?.split('=')[1];
 const ONLY_CITY = arg('city');
 const ONLY_DAYS = arg('days') ? Number(arg('days')) : null;
+const FORCE_NEW_CITY = process.argv.includes('--force-new-city');
 
 const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 
@@ -94,18 +106,18 @@ function countryFor(cityPosts) {
   return best;
 }
 
-function stopSlugSet(daysArr) {
+export function stopSlugSet(daysArr) {
   return new Set(daysArr.flatMap((d) => d.stops.map((s) => s.slug)));
 }
 
-function symmetricDiffSize(a, b) {
+export function symmetricDiffSize(a, b) {
   let n = 0;
   for (const x of a) if (!b.has(x)) n++;
   for (const x of b) if (!a.has(x)) n++;
   return n;
 }
 
-function stopsHashOf(daysArr) {
+export function stopsHashOf(daysArr) {
   const raw = daysArr.map((d) => d.stops.map((s) => s.slug).join(',')).join('|');
   return createHash('sha1').update(raw).digest('hex');
 }
@@ -141,21 +153,32 @@ function dayBlock(day, idx, bySlug) {
   return `Day ${idx + 1}:\n${lines.join('\n')}`;
 }
 
+// Required verbatim (spec 2026-07-27, Task 3 brief).
 const SAFETY_INSTRUCTION =
   'Write label+intro per day and a 1-2 sentence \'why\' per stop plus 3-5 FAQ entries. ' +
   'You may ONLY reference the venues and facts listed. Never introduce a venue, price, ' +
   'time, or claim not present in the input. Never state opening hours in prose (the page ' +
   'shows them from data).';
 
-function buildPrompt({ city, country, days, daysArr, bySlug }) {
+// Added in the review-fix round: rain-swap isolation + price + a nudge away
+// from "open/close" phrasing that the mechanical prose guard below also checks.
+const EXTRA_GUARDRAILS =
+  'The rain-day alternative venue named for a day (if any) may be mentioned ONLY inside that ' +
+  'day\'s rainWhys entry — it must never appear in any stop\'s "why", any day\'s "label" or ' +
+  '"intro", the title, description, quickAnswer, or any FAQ answer. Never state a price or ' +
+  'currency amount anywhere. Avoid the words "open", "opens", "close", "closes", or "opening ' +
+  'hours" entirely, even in a non-schedule sense (say "wraps up" instead of "closes out", for example).';
+
+function buildPrompt({ city, country, days, daysArr, bySlug, retryIssues }) {
   const blocks = daysArr.map((d, i) => dayBlock(d, i, bySlug)).join('\n\n');
-  return `You are writing connective prose for a ${days}-day travel itinerary in ${city}, ${country}, for a travel website.
+  let prompt = `You are writing connective prose for a ${days}-day travel itinerary in ${city}, ${country}, for a travel website.
 
 VENUES AVAILABLE (closed world — this is the ONLY source of truth; do not use outside knowledge):
 ${blocks}
 
 INSTRUCTIONS
 ${SAFETY_INSTRUCTION}
+${EXTRA_GUARDRAILS}
 
 Also write:
 - title: an SEO page title for this ${days}-day ${city} itinerary
@@ -165,6 +188,20 @@ Also write:
 - whys: an entry for EVERY stop slug listed above, a 1-2 sentence reason it's on the itinerary, grounded only in the info given for that stop
 - rainWhys: for each day that lists a rain-day alternative, one sentence on why that swap works if it rains, grounded only in its category/title
 - faq: 3-5 general FAQ entries about doing this ${days}-day ${city} itinerary (pacing, getting around, timing) — do not invent facts not given above`;
+
+  if (retryIssues && retryIssues.length) {
+    const quoted = retryIssues
+      .map((v) =>
+        v.pattern
+          ? `- field "${v.field}" matched a forbidden pattern (${v.pattern}): "${String(v.text || '').slice(0, 160)}"`
+          : `- field "${v.field}" (day ${v.dayIndex + 1}) named the rain-swap venue "${v.term}" outside of rainWhys`
+      )
+      .join('\n');
+    prompt += `\n\nYOUR PREVIOUS ANSWER VIOLATED THE RULES ABOVE. Resubmit a complete, corrected answer (every ` +
+      `field, not just the fixed ones) that fixes:\n${quoted}\n\nDo not restate any opening hours, clock times, ` +
+      `or prices anywhere. Do not name the rain-swap venue anywhere except rainWhys.`;
+  }
+  return prompt;
 }
 
 const TOOL = {
@@ -206,23 +243,156 @@ const TOOL = {
   },
 };
 
-async function callClaude({ city, country, days, daysArr, bySlug }) {
+// Validates the SHAPE of Claude's response against what the solver actually
+// produced. Throws (never silently coerces) on any mismatch, so a malformed
+// response fails this attempt loudly instead of writing a bad file.
+export function validateAiOutput(out, daysArr) {
+  if (!out || typeof out !== 'object') throw new Error('model returned no tool_use input');
+  if (typeof out.title !== 'string' || !out.title) throw new Error('model output missing title');
+  if (typeof out.description !== 'string' || !out.description) throw new Error('model output missing description');
+  if (typeof out.quickAnswer !== 'string' || !out.quickAnswer) throw new Error('model output missing quickAnswer');
+  if (!Array.isArray(out.days) || out.days.length !== daysArr.length) {
+    throw new Error(`model returned ${Array.isArray(out?.days) ? out.days.length : 'no'} day(s), expected ${daysArr.length}`);
+  }
+  out.days.forEach((d, i) => {
+    if (!d || typeof d.label !== 'string' || typeof d.intro !== 'string') {
+      throw new Error(`model day[${i}] missing label/intro`);
+    }
+  });
+  if (!Array.isArray(out.faq)) throw new Error('model output missing faq array');
+  const validSlugs = new Set(daysArr.flatMap((d) => (d.stops || []).map((s) => s.slug)));
+  const whys = out.whys && typeof out.whys === 'object' ? out.whys : {};
+  for (const slug of Object.keys(whys)) {
+    if (!validSlugs.has(slug)) throw new Error(`model returned a why for unknown stop slug "${slug}"`);
+  }
+}
+
+async function callClaude({ city, country, days, daysArr, bySlug, retryIssues }) {
   const msg = await client.messages.create({
     model: MODEL,
     max_tokens: 4000,
     tools: [TOOL],
     tool_choice: { type: 'tool', name: 'submit_itinerary' },
-    messages: [{ role: 'user', content: buildPrompt({ city, country, days, daysArr, bySlug }) }],
+    messages: [{ role: 'user', content: buildPrompt({ city, country, days, daysArr, bySlug, retryIssues }) }],
   });
   const out = msg.content.find((c) => c.type === 'tool_use')?.input;
-  if (!out?.title || !Array.isArray(out.days) || out.days.length !== daysArr.length) {
-    throw new Error('model returned an incomplete itinerary');
+  validateAiOutput(out, daysArr);
+  return out;
+}
+
+// ── prose guards (pure, no IO — used both at generation time and by tests) ──
+function collectProseFields(aiOut) {
+  const out = [];
+  out.push({ field: 'title', value: aiOut.title });
+  out.push({ field: 'description', value: aiOut.description });
+  out.push({ field: 'quickAnswer', value: aiOut.quickAnswer });
+  (aiOut.faq || []).forEach((f, i) => {
+    out.push({ field: `faq[${i}].q`, value: f?.q });
+    out.push({ field: `faq[${i}].a`, value: f?.a });
+  });
+  (aiOut.days || []).forEach((d, i) => {
+    out.push({ field: `days[${i}].label`, value: d?.label });
+    out.push({ field: `days[${i}].intro`, value: d?.intro });
+  });
+  const whys = aiOut.whys || {};
+  for (const [slug, why] of Object.entries(whys)) {
+    out.push({ field: `whys[${slug}]`, value: why });
   }
   return out;
 }
 
+const PROSE_GUARD_PATTERNS = [
+  { name: 'clock-time-ampm', re: /\b\d{1,2}\s*(:\d{2})?\s*(am|pm)\b/i },
+  { name: 'clock-time-24h', re: /\b\d{1,2}:\d{2}\b/ },
+  { name: 'hours-language', re: /\bopens?\b|\bcloses?\b|\bopening hours\b|\bclosed on\b/i },
+  { name: 'currency-symbol', re: /[$€£¥₩]\s?\d/ },
+  { name: 'currency-code', re: /\b\d+\s?(usd|krw|jpy|thb|won|baht|yen)\b/i },
+];
+
+// Pure single-string scanner — the unit under test.
+export function findProseViolations(text) {
+  const t = String(text || '');
+  const hits = [];
+  for (const { name, re } of PROSE_GUARD_PATTERNS) {
+    if (re.test(t)) hits.push({ pattern: name });
+  }
+  return hits;
+}
+
+function scanAiOutputProse(aiOut) {
+  const violations = [];
+  for (const { field, value } of collectProseFields(aiOut)) {
+    for (const hit of findProseViolations(value)) {
+      violations.push({ field, pattern: hit.pattern, text: value });
+    }
+  }
+  return violations;
+}
+
+const STOPWORDS = new Set(['the', 'and', 'of', 'at', 'in', 'on', 'a', 'an', 'to', 'for', 'by', 'with']);
+
+export function rainVenueTerms(title) {
+  const t = String(title || '').trim();
+  if (!t) return [];
+  const words = t.toLowerCase().split(/\s+/).filter((w) => w.length >= 4 && !STOPWORDS.has(w));
+  return [...new Set([t.toLowerCase(), ...words])];
+}
+
+// Scans every written prose field for each day's rain-swap venue name/main
+// token. Pure given (aiOut, daysArr, bySlug) — used both live and by tests.
+export function findRainSwapLeaks(aiOut, daysArr, bySlug) {
+  const violations = [];
+  const fields = collectProseFields(aiOut);
+  daysArr.forEach((day, dayIndex) => {
+    if (!day.rainSwapSlug) return;
+    const rainPost = bySlug.get(day.rainSwapSlug);
+    const terms = rainVenueTerms(rainPost?.data?.title);
+    if (!terms.length) return;
+    for (const { field, value } of fields) {
+      const text = String(value || '').toLowerCase();
+      if (terms.some((t) => text.includes(t))) {
+        violations.push({ field, term: rainPost.data.title, dayIndex });
+      }
+    }
+  });
+  return violations;
+}
+
+// One Claude call, then guard + at most one retry. Time/price violations that
+// survive the retry FAIL the whole variant (caller leaves any existing file
+// untouched). A rain-swap leak that survives the retry is downgraded — that
+// day's rainSwapSlug is dropped to null (mutating daysArr in place) rather
+// than shipping the leak.
+async function generateProse({ city, country, days, daysArr, bySlug, variantId }) {
+  let out = await callClaude({ city, country, days, daysArr, bySlug });
+  let proseIssues = scanAiOutputProse(out);
+  let rainIssues = findRainSwapLeaks(out, daysArr, bySlug);
+
+  if (proseIssues.length || rainIssues.length) {
+    console.log(`  ⚠ ${variantId} — guard found ${proseIssues.length} hours/price + ${rainIssues.length} rain-leak issue(s) on first pass; retrying once`);
+    out = await callClaude({ city, country, days, daysArr, bySlug, retryIssues: [...proseIssues, ...rainIssues] });
+    proseIssues = scanAiOutputProse(out);
+    rainIssues = findRainSwapLeaks(out, daysArr, bySlug);
+  }
+
+  if (proseIssues.length) {
+    for (const v of proseIssues) console.error(`PROSE-GUARD FAILED: ${variantId} — ${v.pattern} in ${v.field}`);
+    throw new Error(`prose guard failed for ${variantId} after retry (${proseIssues.length} issue(s))`);
+  }
+
+  if (rainIssues.length) {
+    const badDayIdx = new Set(rainIssues.map((r) => r.dayIndex));
+    for (const idx of badDayIdx) {
+      console.log(`  ⚠ ${variantId} — dropping rain-swap for day ${idx + 1} (venue name leaked into written prose after retry)`);
+      daysArr[idx].rainSwapSlug = null;
+    }
+  }
+
+  return out;
+}
+
 // ── frontmatter assembly ─────────────────────────────────────────────────
-function assembleFrontmatter({ city, country, days, result, aiOut, whysMap, stopsHash, packedAvailable, existingPubDate, bySlug }) {
+function assembleFrontmatter({ city, country, days, result, aiOut, whysMap, stopsHash, packedAvailable, existingPubDate, existingDraft, bySlug }) {
   const now = new Date().toISOString();
   const fm = {
     city,
@@ -248,37 +418,44 @@ function assembleFrontmatter({ city, country, days, result, aiOut, whysMap, stop
       rainSwapSlug: d.rainSwapSlug,
     })),
     aiGenerated: true,
-    draft: false,
+    // Preserve an editor's manual draft:true override across regenerations —
+    // never force a quarantined itinerary back to published.
+    draft: existingDraft === true,
   };
   if (existingPubDate) fm.updatedDate = now;
   return fm;
 }
 
-async function writeItineraryFile(filePath, fm) {
+// Writes to a TEMP path only. The real target file is never touched here.
+async function writeItineraryTemp(filePath, fm) {
   const fmOut = yaml.dump(fm, { lineWidth: -1, noRefs: true, sortKeys: false });
   const md = `---\n${fmOut}---\n\n`;
   await mkdir(OUT_DIR, { recursive: true });
-  await writeFile(filePath, md, 'utf8');
+  const tmpPath = `${filePath}.tmp-${process.pid}-${Date.now()}`;
+  await writeFile(tmpPath, md, 'utf8');
+  return tmpPath;
 }
 
-// Post-write sanity check: reload the file, confirm every stop slug resolves
-// to a real post. Never leave a bad file behind.
-async function sanityCheck(filePath, citySlug, days) {
-  const raw = await readFile(filePath, 'utf8');
-  const end = raw.indexOf('\n---', 3);
+// Validates the TEMP file only — confirms every stop slug resolves to a real
+// post. On failure the temp file is deleted and the function returns false;
+// the caller must NOT rename over the real target, so a validation failure
+// can never destroy a previously-good (possibly live) itinerary.
+async function sanityCheckTemp(tmpPath, label) {
   let parsed;
   try {
+    const raw = await readFile(tmpPath, 'utf8');
+    const end = raw.indexOf('\n---', 3);
     parsed = yaml.load(raw.slice(4, end));
   } catch (e) {
-    await rm(filePath, { force: true });
-    console.error(`FATAL: ${citySlug}-${days}-days.md failed to parse after writing (${e.message}) — file removed.`);
+    await rm(tmpPath, { force: true });
+    console.error(`FATAL: ${label} failed to parse after writing (${e.message}) — write aborted, existing file (if any) left untouched.`);
     return false;
   }
   for (const d of parsed.itinerary || []) {
     for (const s of d.stops || []) {
       if (!existsSync(join(POSTS_DIR, `${s.slug}.md`))) {
-        await rm(filePath, { force: true });
-        console.error(`FATAL: ${citySlug}-${days}-days.md referenced nonexistent post "${s.slug}" — file removed.`);
+        await rm(tmpPath, { force: true });
+        console.error(`FATAL: ${label} referenced nonexistent post "${s.slug}" — write aborted, existing file (if any) left untouched.`);
         return false;
       }
     }
@@ -286,15 +463,21 @@ async function sanityCheck(filePath, citySlug, days) {
   return true;
 }
 
+async function persistState(state) {
+  await mkdir(fileURLToPath(new URL('../data/', import.meta.url)), { recursive: true });
+  await writeFile(STATE_FILE, JSON.stringify(state, null, 2) + '\n', 'utf8');
+}
+
 // ── one city × days variant ──────────────────────────────────────────────
-async function processVariant({ city, country, days, cityPosts, packedAvailable, isNewCity }) {
+async function processVariant({ city, country, days, cityPosts, packedAvailable }) {
   const citySlug = slugify(city);
   const filePath = join(OUT_DIR, `${citySlug}-${days}-days.md`);
+  const variantId = `${city} ${days}d`;
   const bySlug = new Map(cityPosts.map((p) => [p.id, p]));
 
   const result = buildItinerary(cityPosts, { days });
   if (!result.ok) {
-    console.log(`  · ${city} ${days}d — skipped: ${result.reason}`);
+    console.log(`  · ${variantId} — skipped: ${result.reason}`);
     return { created: false, isNewFile: false };
   }
   const stopsHash = stopsHashOf(result.days);
@@ -307,7 +490,7 @@ async function processVariant({ city, country, days, cityPosts, packedAvailable,
   }
 
   if (existing && existing.stopsHash === stopsHash) {
-    console.log(`  = ${city} ${days}d — unchanged, skipping`);
+    console.log(`  = ${variantId} — unchanged, skipping`);
     return { created: false, isNewFile: false };
   }
 
@@ -319,11 +502,11 @@ async function processVariant({ city, country, days, cityPosts, packedAvailable,
     const newSlugs = stopSlugSet(result.days);
     const diff = symmetricDiffSize(oldSlugs, newSlugs);
     if (diff > 2) {
-      console.log(`  ~ ${city} ${days}d — structure changed by ${diff} slug(s), regenerating prose`);
-      aiOut = await callClaude({ city, country, days, daysArr: result.days, bySlug });
+      console.log(`  ~ ${variantId} — structure changed by ${diff} slug(s), regenerating prose`);
+      aiOut = await generateProse({ city, country, days, daysArr: result.days, bySlug, variantId });
       whysMap = aiOut.whys || {};
     } else {
-      console.log(`  ~ ${city} ${days}d — minor structure change (${diff} slug diff), keeping existing prose`);
+      console.log(`  ~ ${variantId} — minor structure change (${diff} slug diff), keeping existing prose`);
       for (const d of existing.itinerary || []) for (const s of d.stops || []) whysMap[s.slug] = s.why;
       aiOut = {
         title: existing.title,
@@ -334,22 +517,28 @@ async function processVariant({ city, country, days, cityPosts, packedAvailable,
       };
     }
   } else {
-    aiOut = await callClaude({ city, country, days, daysArr: result.days, bySlug });
+    aiOut = await generateProse({ city, country, days, daysArr: result.days, bySlug, variantId });
     whysMap = aiOut.whys || {};
   }
 
   const fm = assembleFrontmatter({
     city, country, days, result, aiOut, whysMap, stopsHash, packedAvailable,
-    existingPubDate: existing?.pubDate || null, bySlug,
+    existingPubDate: existing?.pubDate || null,
+    existingDraft: existing?.draft,
+    bySlug,
   });
 
   const isNewFile = !existing;
-  await writeItineraryFile(filePath, fm);
-  const ok = await sanityCheck(filePath, citySlug, days);
-  if (!ok) { process.exitCode = 1; return { created: false, isNewFile: false }; }
+  const tmpPath = await writeItineraryTemp(filePath, fm);
+  const ok = await sanityCheckTemp(tmpPath, `${citySlug}-${days}-days.md`);
+  if (!ok) {
+    process.exitCode = 1;
+    return { created: false, isNewFile: false };
+  }
+  await rename(tmpPath, filePath); // atomic: only now does the real target change
 
   if (isNewFile) console.log(`NEW_ITINERARY: ${city} ${days}d`);
-  else console.log(`  ✅ ${city} ${days}d — updated`);
+  else console.log(`  ✅ ${variantId} — updated`);
 
   return { created: true, isNewFile };
 }
@@ -374,7 +563,15 @@ async function main() {
 
   let cities;
   if (ONLY_CITY) {
-    cities = [ONLY_CITY];
+    // The weekly new-city cap applies to manual --city= runs too, unless
+    // explicitly overridden — otherwise a manual run is a silent bypass.
+    const isNewNonLaunch = !LAUNCH_CITIES.includes(ONLY_CITY) && !cityHasAnyFile(ONLY_CITY) && !(citySlugOf(ONLY_CITY) in state);
+    if (isNewNonLaunch && newSlotsLeft <= 0 && !FORCE_NEW_CITY) {
+      console.log(`SKIP new city "${ONLY_CITY}" — weekly new-city cap (${MAX_NEW_CITIES_PER_WEEK}/7d) reached (pass --force-new-city to override)`);
+      cities = [];
+    } else {
+      cities = [ONLY_CITY];
+    }
   } else {
     const extraCandidates = regions.filter((r) => !LAUNCH_CITIES.includes(r)).sort();
     const selectedExtra = [];
@@ -389,43 +586,53 @@ async function main() {
   }
 
   let anyCreated = false;
-  let stateChanged = false;
 
   for (const city of cities) {
-    const cityPosts = allPosts.filter((p) => p.data.region === city);
-    if (!cityPosts.length) { console.log(`  · ${city} — no posts found for this region, skipping`); continue; }
-    const q = qualifyingPosts(cityPosts);
-    const gates = gateFor(q.length);
-    const country = countryFor(cityPosts);
-    const citySlug = citySlugOf(city);
-    const hadFileBefore = cityHasAnyFile(city);
+    try {
+      const cityPosts = allPosts.filter((p) => p.data.region === city);
+      if (!cityPosts.length) { console.log(`  · ${city} — no posts found for this region, skipping`); continue; }
+      const q = qualifyingPosts(cityPosts);
+      const gates = gateFor(q.length);
+      const country = countryFor(cityPosts);
+      const citySlug = citySlugOf(city);
 
-    const variants = (ONLY_DAYS ? [ONLY_DAYS] : DAY_VARIANTS).filter((d) => (d === 5 ? gates.fiveDay : d === 3 ? gates.threeDay : true));
-    if (!variants.length) {
-      console.log(`  · ${city} — ${q.length} qualifying post(s), no day-variant gate cleared yet`);
+      const variants = (ONLY_DAYS ? [ONLY_DAYS] : DAY_VARIANTS).filter((d) => (d === 5 ? gates.fiveDay : d === 3 ? gates.threeDay : true));
+      if (!variants.length) {
+        console.log(`  · ${city} — ${q.length} qualifying post(s), no day-variant gate cleared yet`);
+        continue;
+      }
+
+      console.log(`\n${city}, ${country} — ${q.length} qualifying post(s), variants: ${variants.join(', ')}`);
+      // A city already established (has a file, or already has a state entry,
+      // or is a launch city) never needs its new-city slot recorded again.
+      let recordedNewCity = LAUNCH_CITIES.includes(city) || citySlug in state || cityHasAnyFile(city);
+      for (const days of variants) {
+        const { created, isNewFile } = await processVariant({ city, country, days, cityPosts, packedAvailable: gates.packed });
+        if (created) anyCreated = true;
+        // Persist the new-city timestamp IMMEDIATELY, not at end-of-run — a
+        // later city's failure must not lose this one's cap accounting.
+        if (created && isNewFile && !recordedNewCity) {
+          state[citySlug] = new Date().toISOString();
+          recordedNewCity = true;
+          await persistState(state);
+        }
+      }
+    } catch (e) {
+      console.error(`ERROR processing ${city}: ${e.message}`);
+      process.exitCode = 1;
+      // one city's failure must not abort the sweep
       continue;
     }
-
-    console.log(`\n${city}, ${country} — ${q.length} qualifying post(s), variants: ${variants.join(', ')}`);
-    for (const days of variants) {
-      const { created } = await processVariant({ city, country, days, cityPosts, packedAvailable: gates.packed });
-      if (created) anyCreated = true;
-    }
-
-    if (!LAUNCH_CITIES.includes(city) && !hadFileBefore && cityHasAnyFile(city) && !(citySlug in state)) {
-      state[citySlug] = new Date().toISOString();
-      stateChanged = true;
-    }
   }
 
-  // Always persist the state file so it exists for the commit step, even on a
-  // launch-cities-only run where no new-city slot was ever consumed.
-  if (stateChanged || !existsSync(STATE_FILE)) {
-    await mkdir(fileURLToPath(new URL('../data/', import.meta.url)), { recursive: true });
-    await writeFile(STATE_FILE, JSON.stringify(state, null, 2) + '\n', 'utf8');
-  }
+  // Guarantee the state file exists even on a run that never wrote it above
+  // (e.g. launch-cities-only, or zero new-city slots consumed).
+  if (!existsSync(STATE_FILE)) await persistState(state);
 
   console.log(`\nDone.${anyCreated ? '' : ' Nothing changed.'}`);
 }
 
-main().catch((e) => { console.error(e); process.exitCode = 1; });
+const isMain = process.argv[1] && fileURLToPath(import.meta.url) === process.argv[1];
+if (isMain) {
+  main().catch((e) => { console.error(e); process.exitCode = 1; });
+}
