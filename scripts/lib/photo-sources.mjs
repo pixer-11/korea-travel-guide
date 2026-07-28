@@ -80,8 +80,27 @@ export async function fsqVenuePhotos({ name, lat, lng, near, limit = 4 }) {
     // Generic hospitality words prove nothing — "NAM Kitchen" once matched
     // "Three Spice Thai Kitchen" on 'kitchen' alone. Identity needs a
     // DISTINCTIVE token (or full-name containment).
-    const GENERIC = new Set(['cafe', 'coffee', 'restaurant', 'the', 'and', 'bar', 'house', 'shop', 'store', 'food', 'kitchen', 'market', 'park', 'museum', 'beach', 'street', 'grill', 'garden', 'club', 'center', 'centre', 'hotel', 'lounge']);
-    const ourTokens = String(name).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').normalize('NFC').split(/[^a-z0-9가-힣ぁ-ヶ一-鿿ก-๛]+/).filter((w) => w.length >= 3 && !GENERIC.has(w));
+    const GENERIC = new Set(['cafe', 'coffee', 'restaurant', 'the', 'and', 'bar', 'house', 'shop', 'store',
+      'food', 'kitchen', 'market', 'park', 'museum', 'beach', 'street', 'grill', 'garden', 'club', 'center',
+      'centre', 'hotel', 'lounge',
+      // Added 2026-07-28: 'Tonkin Specialty Coffee' matched 'Shin Specialty Coffee'
+      // on the word 'specialty' alone. These describe a category, never a venue.
+      'specialty', 'speciality', 'roasters', 'roastery', 'bakery', 'bistro', 'eatery', 'diner', 'branch',
+      'village', 'viewpoint', 'view', 'night', 'day', 'walking', 'traditional', 'heritage', 'original']);
+    // The city/country the search was scoped to proves nothing about WHICH venue
+    // this is — every result shares it. 'Garden to Table Chiangmai' matched a
+    // Chiang Mai walking street on the token 'chiangmai' alone (2026-07-28).
+    const placeStop = new Set(
+      String(near || '').toLowerCase().split(/[^a-z0-9]+/).filter((w) => w.length >= 3)
+    );
+    const ourTokens = String(name).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').normalize('NFC').split(/[^a-z0-9가-힣ぁ-ヶ一-鿿ก-๛]+/)
+      .filter((w) => w.length >= 3 && !GENERIC.has(w) && !placeStop.has(w));
+    if (!ourTokens.length) {
+      // Nothing distinctive left (e.g. 'The Coffee House Bangkok'): any hit would
+      // rest on generic or city words, which is exactly how wrong venues got in.
+      console.log(`  [fsq] "${name}" has no distinctive token after stopwords — refusing a name match`);
+      return [];
+    }
     const hit = results.find((r) => {
       const rf = flat(r.name);
       if (!rf) return false;

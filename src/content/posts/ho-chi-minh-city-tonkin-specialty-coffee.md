@@ -63,7 +63,7 @@ faq:
   - q: What's nearby if I want to make a morning of it?
     a: Bến Thành Market is a short walk away, and the Bitexco Financial Tower and Saigon Notre-Dame Cathedral / Central Post Office are both within 10-15 minutes on foot.
 aiGenerated: true
-draft: false
+draft: true
 updatedDate: '2026-07-24'
 ---
 

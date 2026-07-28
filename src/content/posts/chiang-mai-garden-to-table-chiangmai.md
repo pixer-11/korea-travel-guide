@@ -47,7 +47,7 @@ faq:
   - q: What's nearby to pair with a visit?
     a: Wat Phra Singh, Wat Chedi Luang, and Thapae Gate are all within walking distance, and the Sunday Walking Street market passes close by if your visit falls on a Sunday evening.
 aiGenerated: true
-draft: false
+draft: true
 updatedDate: '2026-07-24'
 ---
 
