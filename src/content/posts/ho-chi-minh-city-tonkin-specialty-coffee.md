@@ -6,10 +6,10 @@ region: Ho Chi Minh City
 category: trendy
 pubDate: '2026-07-22T09:36:08.889Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/34417329_r2JKdV_TtWD4WKtVs-mqUTp43Ayun6cUa00J_PRSljg.jpg
-  credit: 'Photo: Foursquare user content (Shin Specialty Coffee)'
+  url: https://fastly.4sqi.net/img/general/original/1398311522_312mJ6sWjsRsnVfBTyNOPMpPiZMS4RVCwQuT99cnFxA.jpg
+  credit: 'Photo: Foursquare user content (Tonkin Specialty Cafe - The best local Coffee shop in HCMC)'
   license: foursquare
-  source: https://foursquare.com/v/668a29e04d35f3609ae505dc
+  source: https://foursquare.com/v/636b865338065636f484c7bf
 gallery: []
 place:
   id: ChIJzaevQMcvdTERYE3UhLKg5NE
@@ -63,7 +63,6 @@ faq:
   - q: What's nearby if I want to make a morning of it?
     a: Bến Thành Market is a short walk away, and the Bitexco Financial Tower and Saigon Notre-Dame Cathedral / Central Post Office are both within 10-15 minutes on foot.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-24'
 ---
 

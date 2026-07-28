@@ -1,27 +1,27 @@
 ---
-title: "Kyoto Gion Matsuri Festival Gallery"
-description: "The Gion Matsuri Festival Gallery, tucked in Gionmachi Minamigawa in Higashiyama Ward, is a small permanent exhibition that lets visitors see Gion Matsuri's"
-country: "Japan"
-region: "Kyoto"
+title: Kyoto Gion Matsuri Festival Gallery
+description: The Gion Matsuri Festival Gallery, tucked in Gionmachi Minamigawa in Higashiyama Ward, is a small permanent exhibition that lets visitors see Gion Matsuri's
+country: Japan
+region: Kyoto
 category: attraction
-pubDate: 2026-07-21
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://images.unsplash.com/photo-1721208813573-20ec1df0b2fd?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8S3lvdG8lMjBKYXBhbiUyMG11c2ljJTIwZmVzdGl2YWwlMjBjcm93ZHxlbnwwfDB8fHwxNzg0Nzc1MzA1fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by HANVIN CHEONG on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@hktram0311?utm_source=korea_travel_guide&utm_medium=referral"
+  url: https://images.unsplash.com/photo-1721208813573-20ec1df0b2fd?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8S3lvdG8lMjBKYXBhbiUyMG11c2ljJTIwZmVzdGl2YWwlMjBjcm93ZHxlbnwwfDB8fHwxNzg0Nzc1MzA1fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by HANVIN CHEONG on Unsplash
+  license: unsplash
+  source: https://unsplash.com/@hktram0311?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
-  id: "ChIJYc48xcMIAWAR40ktwbmWCw8"
-  name: "Kyoto Gion Matsuri Festival Gallery"
-  address: "551 Gionmachi Minamigawa, Higashiyama Ward, Kyoto, 605-0074, Japan"
+  id: ChIJYc48xcMIAWAR40ktwbmWCw8
+  name: Kyoto Gion Matsuri Festival Gallery
+  address: 551 Gionmachi Minamigawa, Higashiyama Ward, Kyoto, 605-0074, Japan
   rating: 4.3
   userRatingsTotal: 54
-  googleMapsUrl: "https://maps.google.com/?cid=1084125859866823139&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=1084125859866823139&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.003562200000005
   lng: 135.77673009999998
-  phone: '075-541-5464'
+  phone: 075-541-5464
   openingHours:
     - 'Monday: 10:00 AM – 8:00 PM'
     - 'Tuesday: 10:00 AM – 8:00 PM'
@@ -31,22 +31,22 @@ place:
     - 'Saturday: 10:00 AM – 8:00 PM'
     - 'Sunday: 10:00 AM – 8:00 PM'
 tags:
-  - "kyoto"
-  - "Gion Matsuri"
-quickAnswer: "The Gion Matsuri Festival Gallery, tucked in Gionmachi Minamigawa in Higashiyama Ward, is a small permanent exhibition that lets visitors see Gion Matsuri's ornate floats, screens, and lantern displays outside of the July festival dates. It's rated 4.3 from 54 reviews and works best as a 30-45 minute add-on to a Gion walking route that includes Yasaka Shrine and Hanamikoji Street. Go on foot from Gion-Shijo or Kyoto-Kawaramachi Station; no advance booking is typically needed for such a small gallery, but confirm current hours before visiting."
+  - kyoto
+  - Gion Matsuri
+quickAnswer: The Gion Matsuri Festival Gallery, tucked in Gionmachi Minamigawa in Higashiyama Ward, is a small permanent exhibition that lets visitors see Gion Matsuri's ornate floats, screens, and lantern displays outside of the July festival dates. It's rated 4.3 from 54 reviews and works best as a 30-45 minute add-on to a Gion walking route that includes Yasaka Shrine and Hanamikoji Street. Go on foot from Gion-Shijo or Kyoto-Kawaramachi Station; no advance booking is typically needed for such a small gallery, but confirm current hours before visiting.
 faq:
-  - q: "How do I get to the Gion Matsuri Festival Gallery?"
-    a: "Walk from Gion-Shijo Station (Keihan Main Line) or Kyoto-Kawaramachi Station (Hankyu Kyoto Line), both about 10 minutes away on foot. The address is 551 Gionmachi Minamigawa, Higashiyama Ward, in the heart of the Gion district south of Shijo-dori."
-  - q: "How long should I spend at the gallery?"
-    a: "Most visitors need 30 to 45 minutes, since it's a small, focused exhibition rather than a large museum. It pairs well with a longer walk through Gion."
-  - q: "Is this a substitute for seeing the actual Gion Matsuri parade?"
-    a: "It's a helpful supplement, not a replacement. If you're in Kyoto in July, prioritize the Yoiyama evenings (July 14-16, 21-23) and the Yamaboko Junko parades on July 17 and 24 for the real floats and street atmosphere."
-  - q: "What's nearby worth combining with a visit?"
-    a: "Yasaka Shrine is about five minutes east on foot and directly tied to the festival's origins, while Hanamikoji-dori's teahouse-lined lanes run right through the neighborhood, making it easy to build a half-day Gion itinerary around the gallery."
-  - q: "Do I need to book ahead or check hours?"
-    a: "Given its small size, advance booking usually isn't required, but hours and any admission fee can vary seasonally, so confirm current details with your accommodation or the Kyoto Tourist Information Center before visiting."
+  - q: How do I get to the Gion Matsuri Festival Gallery?
+    a: Walk from Gion-Shijo Station (Keihan Main Line) or Kyoto-Kawaramachi Station (Hankyu Kyoto Line), both about 10 minutes away on foot. The address is 551 Gionmachi Minamigawa, Higashiyama Ward, in the heart of the Gion district south of Shijo-dori.
+  - q: How long should I spend at the gallery?
+    a: Most visitors need 30 to 45 minutes, since it's a small, focused exhibition rather than a large museum. It pairs well with a longer walk through Gion.
+  - q: Is this a substitute for seeing the actual Gion Matsuri parade?
+    a: It's a helpful supplement, not a replacement. If you're in Kyoto in July, prioritize the Yoiyama evenings (July 14-16, 21-23) and the Yamaboko Junko parades on July 17 and 24 for the real floats and street atmosphere.
+  - q: What's nearby worth combining with a visit?
+    a: Yasaka Shrine is about five minutes east on foot and directly tied to the festival's origins, while Hanamikoji-dori's teahouse-lined lanes run right through the neighborhood, making it easy to build a half-day Gion itinerary around the gallery.
+  - q: Do I need to book ahead or check hours?
+    a: Given its small size, advance booking usually isn't required, but hours and any admission fee can vary seasonally, so confirm current details with your accommodation or the Kyoto Tourist Information Center before visiting.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why visit the Gion Matsuri Festival Gallery

@@ -1,48 +1,65 @@
 ---
-title: "Former House of Tan Teng Niah: Little India Travel Guide"
-description: "The Former House of Tan Teng Niah, at 37 Kerbau Road, is the last surviving Chinese villa in Little India — an 1900-built, two-storey mansion now painted in"
-country: "Singapore"
-region: "Little India"
-category: "attraction"
-pubDate: "2026-07-23T07:32:15.496Z"
+title: 'Former House of Tan Teng Niah: Little India Travel Guide'
+description: The Former House of Tan Teng Niah, at 37 Kerbau Road, is the last surviving Chinese villa in Little India — an 1900-built, two-storey mansion now painted in
+country: Singapore
+region: Little India
+category: attraction
+pubDate: '2026-07-23T07:32:15.496Z'
 heroImage:
-  url: "https://images.unsplash.com/photo-1585482671930-715a726570e9?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8TGl0dGxlJTIwSW5kaWElMjBTaW5nYXBvcmUlMjB0b3AlMjBhdHRyYWN0aW9ufGVufDB8MHx8fDE3ODQ3OTE4NzF8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Winel Sutanto on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@weenail?utm_source=korea_travel_guide&utm_medium=referral"
+  url: https://fastly.4sqi.net/img/general/original/97091555_g2SmOQKtM8aWwsp-rylZ76HfF-6WqoulvYDpuC1lf2w.jpg
+  credit: 'Photo: Foursquare user content (Former House of Tan Teng Niah)'
+  license: foursquare
+  source: https://foursquare.com/v/59759e0410345b5dd6b9b7a1
 gallery: []
 place:
-  id: "ChIJX0z5sbgZ2jERbP7t9-0hs_E"
-  name: "Former House of Tan Teng Niah"
-  address: "37 Kerbau Rd, Singapore 219168"
+  id: ChIJX0z5sbgZ2jERbP7t9-0hs_E
+  name: Former House of Tan Teng Niah
+  address: 37 Kerbau Rd, Singapore 219168
   rating: 4.3
   userRatingsTotal: 2312
-  googleMapsUrl: "https://maps.google.com/?cid=17416301489922375276&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=17416301489922375276&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.3070541
   lng: 103.85096019999999
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [7]
-    weekdayBusy: [18, 19, 20]
-    weekendQuiet: [7]
-    weekendBusy: [11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]
-    venueId: 'ven_455f7368302d397437506252456a325a676273357a30584a496843'
+    weekdayQuiet:
+      - 7
+    weekdayBusy:
+      - 18
+      - 19
+      - 20
+    weekendQuiet:
+      - 7
+    weekendBusy:
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+    venueId: ven_455f7368302d397437506252456a325a676273357a30584a496843
 tags:
-  - "little india"
-  - "top attraction"
-quickAnswer: "The Former House of Tan Teng Niah, at 37 Kerbau Road, is the last surviving Chinese villa in Little India — an 1900-built, two-storey mansion now painted in vivid pastel hues. It's free to view from the street (it's a private commercial building, not a museum), takes only 15-20 minutes to see, and pairs well with a walk down Kerbau Road toward Tekka Centre or Serangoon Road."
+  - little india
+  - top attraction
+quickAnswer: The Former House of Tan Teng Niah, at 37 Kerbau Road, is the last surviving Chinese villa in Little India — an 1900-built, two-storey mansion now painted in vivid pastel hues. It's free to view from the street (it's a private commercial building, not a museum), takes only 15-20 minutes to see, and pairs well with a walk down Kerbau Road toward Tekka Centre or Serangoon Road.
 faq:
-  - q: "Can you go inside the Former House of Tan Teng Niah?"
-    a: "No, it's a privately occupied commercial building today, so there's no public interior access — visits are exterior/photo stops only."
-  - q: "How do I get there by MRT?"
-    a: "Take the North East Line or Downtown Line to Little India MRT, exit E, and walk about 5-8 minutes via Serangoon Road to Kerbau Road."
-  - q: "Is there an entrance fee?"
-    a: "No, it's a public street-facing landmark with no ticket or gate; there's no charge to view or photograph it."
-  - q: "How much time should I set aside?"
-    a: "15-20 minutes is typical, since the highlight is the facade rather than an interior exhibit."
-  - q: "What else is nearby?"
-    a: "Sri Veeramakaliamman Temple, Tekka Centre market, and Mustafa Centre are all within a 5-10 minute walk, making it easy to combine into a longer Little India walk."
+  - q: Can you go inside the Former House of Tan Teng Niah?
+    a: No, it's a privately occupied commercial building today, so there's no public interior access — visits are exterior/photo stops only.
+  - q: How do I get there by MRT?
+    a: Take the North East Line or Downtown Line to Little India MRT, exit E, and walk about 5-8 minutes via Serangoon Road to Kerbau Road.
+  - q: Is there an entrance fee?
+    a: No, it's a public street-facing landmark with no ticket or gate; there's no charge to view or photograph it.
+  - q: How much time should I set aside?
+    a: 15-20 minutes is typical, since the highlight is the facade rather than an interior exhibit.
+  - q: What else is nearby?
+    a: Sri Veeramakaliamman Temple, Tekka Centre market, and Mustafa Centre are all within a 5-10 minute walk, making it easy to combine into a longer Little India walk.
 aiGenerated: true
 draft: false
 ---
