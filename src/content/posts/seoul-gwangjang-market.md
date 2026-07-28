@@ -76,7 +76,7 @@ Opened in 1905, Gwangjang is widely considered Seoul's first permanent standing 
 
 ## Getting There
 
-The market sits at 88 Changgyeonggung-ro, Jongno-gu, straddling the border of the Jongno and Euljiro districts. The most direct approach is Jongno 5(o)-ga Station on Line 1, Exit 8, which puts you almost at the market's doorstep after a one-minute walk. Euljiro 4-ga Station on Line 2 or Line 5 (Exit 4) is a slightly longer but equally workable alternative, useful if you're coming from Myeongdong or Dongdaemun. Either way, follow the crowds and the smell of sesame oil — the food alley is impossible to miss once you're within a block.
+The market sits at 88 Cheonggyecheon-ro, Jongno-gu, straddling the border of the Jongno and Euljiro districts. The most direct approach is Jongno 5(o)-ga Station on Line 1, Exit 8, which puts you almost at the market's doorstep after a one-minute walk. Euljiro 4-ga Station on Line 2 or Line 5 (Exit 4) is a slightly longer but equally workable alternative, useful if you're coming from Myeongdong or Dongdaemun. Either way, follow the crowds and the smell of sesame oil — the food alley is impossible to miss once you're within a block.
 
 ## What to Eat
 
