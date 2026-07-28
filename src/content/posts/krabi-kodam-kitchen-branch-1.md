@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Kodam Kitchen)'
   license: foursquare
   source: https://foursquare.com/v/4f5ca790e4b05cd76a6a7341
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/3535474_Meq_6n1EN8s3FtzpnbjL1WvJmgPjiaSu1wWVfEHkIug.jpg
+    credit: 'Photo: Foursquare user content (Kodam Kitchen)'
+    license: foursquare
+    source: https://foursquare.com/v/4f5ca790e4b05cd76a6a7341
 place:
   id: ChIJJSWrBQrAUTARg5DFe2jio2w
   name: Kodam Kitchen branch 1

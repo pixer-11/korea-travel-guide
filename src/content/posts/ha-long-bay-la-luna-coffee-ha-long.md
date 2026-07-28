@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (La Luna Coffee)'
   license: foursquare
   source: https://foursquare.com/v/6468971ae787e834bc77b37a
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/94704269_CFWU6XYZ6oPN0r8MYV_plkknuSHy63OMfP5WUHktVSI.jpg
+    credit: 'Photo: Foursquare user content (La Luna Coffee)'
+    license: foursquare
+    source: https://foursquare.com/v/6468971ae787e834bc77b37a
 place:
   id: ChIJ8W4jgzlZSjERUjrTt8bb3BM
   name: La Luna Coffee Hạ Long

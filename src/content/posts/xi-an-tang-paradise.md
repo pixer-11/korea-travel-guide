@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: xiquinhosilva / Wikimedia Commons (CC BY 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Tang_Paradise_2024_04.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Tang_Paradise_2024_03.jpg/1920px-Tang_Paradise_2024_03.jpg
+    credit: 'Photo: xiquinhosilva / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Tang_Paradise_2024_03.jpg
 place:
   id: "ChIJG4KcOUFwYzYRxKgvrcAbPBI"
   name: "Tang Paradise"

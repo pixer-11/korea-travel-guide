@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Mobius6 / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Gyeongpo_Beach_20220502_023.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Gyeongpo_Beach_20220502_021.jpg/1920px-Gyeongpo_Beach_20220502_021.jpg
+    credit: 'Photo: Mobius6 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Gyeongpo_Beach_20220502_021.jpg
 place:
   id: "ChIJjxBqWB3kYTUR_ft_zEchqyE"
   name: "Gyeongpo Beach"

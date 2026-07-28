@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: AnonymousUnknown author (see also [1]) / Wikimedia Commons (CC0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:%C4%B0zmir_Clock_Tower,_March_2013.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Izmir_square_clock_tower.jpg/1920px-Izmir_square_clock_tower.jpg
+    credit: 'Photo: User:Sailko / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Izmir_square_clock_tower.jpg
 place:
   id: "ChIJZ50aMOLYuxQRvGo84DXFhcU"
   name: "Clock Tower of İzmir"

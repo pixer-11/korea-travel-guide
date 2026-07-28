@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Yaren Kahvaltı Evi)'
   license: foursquare
   source: https://foursquare.com/v/51cbf9ba498ed4e430382c65
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/47057795_0A5hdVhXr7ReqIhwYiVoZbNx0v949vK3PSp2mhPxA0s.jpg
+    credit: 'Photo: Foursquare user content (Babayan Evi Restaurant)'
+    license: foursquare
+    source: https://foursquare.com/v/508bb5e7e4b08e7b432a0b18
 place:
   id: ChIJ9zQN-ctpKhURYesD9qFugs8
   name: Babayan Evi Restaurant

@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Kinu Matcha Bar)'
   license: foursquare
   source: https://foursquare.com/v/69174a2bb0526a28831c6067
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/382824581_n8tY4mL9rQfEFjw4Qqmrdjt8YC8csa9Pj-KI_44gTI0.jpg
+    credit: 'Photo: Foursquare user content (Kinu Matcha Bar)'
+    license: foursquare
+    source: https://foursquare.com/v/69174a2bb0526a28831c6067
 place:
   id: ChIJK8B_Fia3yhQRmySyReiPzP4
   name: kinu matcha bar

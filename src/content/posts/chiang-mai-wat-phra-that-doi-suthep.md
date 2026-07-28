@@ -16,7 +16,11 @@ heroImage:
     เทวประภาส มากคล้าย / Wikimedia Commons (CC BY 3.0)
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Phra_That_Doi_Suthep_01.jpg'
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/747425_wJuTEgH9OBvmrC6e1HdIUQZAibQFul0sBx9FIO-Wb60.jpg
+    credit: 'Photo: Foursquare user content (Wat Phrathat Doi Suthep (วัดพระธาตุดอยสุเทพราชวรวิหาร))'
+    license: foursquare
+    source: https://foursquare.com/v/4ce78ef094daa0901a471c29
 place:
   id: ChIJtd3x37U52jARIX7FrlxMhp0
   name: Wat Phra That Doi Suthep

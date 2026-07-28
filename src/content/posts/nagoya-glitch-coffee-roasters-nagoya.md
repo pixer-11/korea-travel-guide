@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Glitch Coffee)'
   license: foursquare
   source: https://foursquare.com/v/5e42004a40fc1d00089ff87b
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/1907031_XtAj16GdM2A9y47HuMStJeZE2WpUkVWWXCcTM3W_sIg.jpg
+    credit: 'Photo: Foursquare user content (Glitch Coffee)'
+    license: foursquare
+    source: https://foursquare.com/v/5e42004a40fc1d00089ff87b
 place:
   id: ChIJg5WvXRN3A2AR7kvJj3oWsjs
   name: GLITCH COFFEE & ROASTERS Nagoya

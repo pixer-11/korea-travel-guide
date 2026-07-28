@@ -9,7 +9,11 @@ heroImage:
   credit: 'Photo: Busan Metropolitan City Municipality / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Busan_Haeundae_Centum_City.jpg
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/U-dong%2C_Haeundae-gu%2C_Busan%2C_South_Korea_-_panoramio.jpg/1920px-U-dong%2C_Haeundae-gu%2C_Busan%2C_South_Korea_-_panoramio.jpg
+    credit: 'Photo: peter boy12qq12 / Wikimedia Commons (CC BY 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:U-dong,_Haeundae-gu,_Busan,_South_Korea_-_panoramio.jpg
 place:
   id: ChIJFaft2p-NaDURpWUIUUDNxCE
   name: Haeundae-gu

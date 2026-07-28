@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Dennis G. Jarvis / Wikimedia Commons (CC BY-SA 2.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:France-003038_-_Basilica_of_Notre-Dame_de_Fourvi%C3%A8re_(15939822990).jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Lyon_-_Notre-Dame_de_Fourvi%C3%A8re_6918.jpg/1920px-Lyon_-_Notre-Dame_de_Fourvi%C3%A8re_6918.jpg
+    credit: 'Photo: Phyrexian / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Lyon_-_Notre-Dame_de_Fourvi%C3%A8re_6918.jpg
 place:
   id: "ChIJK1Jxdanr9EcRKY5nG3nMG50"
   name: "Basilica of Notre Dame of Fourvière"

@@ -9,7 +9,11 @@ heroImage:
   credit: 'Photo: Frank Schulenburg / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Gyeonghoeru_(Royal_Banquet_Hall)_at_Gyeongbokgung_Palace,_Seoul.jpg
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/67350312_h2FqJ-DhM8cRlX91Qeg0L59R3anjSbmbKUbJmQN4tr4.jpg
+    credit: 'Photo: Foursquare user content (Gyeongbokgung Palace (경복궁))'
+    license: foursquare
+    source: https://foursquare.com/v/4b68220ef964a52087682be3
 place:
   id: ChIJod7tSseifDUR9hXHLFNGMIs
   name: Gyeongbokgung Palace

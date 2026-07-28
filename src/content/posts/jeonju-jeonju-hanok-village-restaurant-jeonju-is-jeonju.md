@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Jeonju Hanok Village Restaurant Jeonju Is Jeonju 전주는전주)'
   license: foursquare
   source: https://foursquare.com/v/6a02f0d5e9e82b58f4af7402
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/116390231_BEfv6QkOqBs3HNsqmuxHHSOZJYlUUKuxZH-IMysXwok.jpg
+    credit: 'Photo: Foursquare user content (Jeonju Hanok Village Restaurant Jeonju Is Jeonju 전주는전주)'
+    license: foursquare
+    source: https://foursquare.com/v/6a02f0d5e9e82b58f4af7402
 place:
   id: ChIJSxYQqAUlcDURTXVtvBVQq8I
   name: Jeonju hanok village restaurant jeonju is jeonju

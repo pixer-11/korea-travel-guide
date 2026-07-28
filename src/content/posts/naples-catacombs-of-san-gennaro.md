@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Derbrauni / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Catacombs_of_San_Gennaro_(Naples)_(1).jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Catacombe_di_San_Gennaro_023.jpg/1920px-Catacombe_di_San_Gennaro_023.jpg
+    credit: 'Photo: Dominik Matus / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Catacombe_di_San_Gennaro_023.jpg
 place:
   id: "ChIJr-AbDHsIOxMR7U8MwBo2riE"
   name: "Catacombs of San Gennaro"

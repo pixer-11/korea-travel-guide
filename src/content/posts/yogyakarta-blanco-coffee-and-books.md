@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Blanco Coffee & Books)'
   license: foursquare
   source: https://foursquare.com/v/557d8f1d498e467de951fd02
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/6139475_wjHB7nXpiVf_1Pidl-NRJwRa79wqNi9IP4Weiut21T8.jpg
+    credit: 'Photo: Foursquare user content (Blanco Coffee & Books)'
+    license: foursquare
+    source: https://foursquare.com/v/557d8f1d498e467de951fd02
 place:
   id: ChIJEVyHOzpYei4RDfFn31FneuU
   name: Blanco Coffee And Books

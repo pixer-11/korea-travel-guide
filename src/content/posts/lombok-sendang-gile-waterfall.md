@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Sendang Gile Waterfall (Air Terjun Sindang Gila))'
   license: foursquare
   source: https://foursquare.com/v/4d352599b60937040b4912e0
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/48382350_Y0Y0xl4CG4iWP7yVTTX5UaM34ssVIkreLaWvxhSpy9o.jpg
+    credit: 'Photo: Foursquare user content (Sendang Gile Waterfall (Air Terjun Sindang Gila))'
+    license: foursquare
+    source: https://foursquare.com/v/4d352599b60937040b4912e0
 place:
   id: ChIJD87VUP_VzS0RM4YPd7ICqSE
   name: Sendang Gile Waterfall

@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Zairon / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Taichung_Rainbow_Village_45.jpg"
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/417343717_fM1qUnFQSBGqHdG44mMXW00If64PsUS3jU-kgYmq4OY.jpg
+    credit: 'Photo: Foursquare user content (Rainbow Village (彩虹眷村))'
+    license: foursquare
+    source: https://foursquare.com/v/4c1c41cc8b3aa5933eb4985f
 place:
   id: "ChIJ25Ul-Ic-aTQRNnMAjMs2iJo"
   name: "Rainbow Village"

@@ -9,7 +9,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Ikseon-dong)'
   license: foursquare
   source: https://foursquare.com/v/5be6bc8756c89f003977c01a
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/25871419_FA8Ma2lrvbw9KAuayMoXfgVWZZpIYxWy_YRvOGnub24.jpg
+    credit: 'Photo: Foursquare user content (Ikseon-dong)'
+    license: foursquare
+    source: https://foursquare.com/v/5be6bc8756c89f003977c01a
 place:
   id: ChIJxUg7UNyifDURjrff0ykZEf0
   name: Ikseon-dong

@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Cloud_Forest,_Gardens_by_the_Bay,_Singapore.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Singapore_Flower-Dome-and-Cloud-Forest-in-The-Gardens-01.jpg/1920px-Singapore_Flower-Dome-and-Cloud-Forest-in-The-Gardens-01.jpg
+    credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Singapore_Flower-Dome-and-Cloud-Forest-in-The-Gardens-01.jpg
 place:
   id: "ChIJd0VihwEZ2jERKeREhO6G1Qg"
   name: "Cloud Forest"

@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (zhyvago coffee works (ジバゴコーヒーワークス))'
   license: foursquare
   source: https://foursquare.com/v/55cd7133498e0630e0612352
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/147795368_1lBraiQEz7KKBMS50aoiEoKCR2_GdoT_LGGZegS9Rco.jpg
+    credit: 'Photo: Foursquare user content (zhyvago coffee works (ジバゴコーヒーワークス))'
+    license: foursquare
+    source: https://foursquare.com/v/55cd7133498e0630e0612352
 place:
   id: ChIJ-Z4s2Q8T5TQR7ydGC6mwG8I
   name: Zhyvago Coffee Works Okinawa

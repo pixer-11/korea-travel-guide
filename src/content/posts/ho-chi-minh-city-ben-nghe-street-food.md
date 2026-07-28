@@ -15,7 +15,11 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:B%C3%A1nh_tr%C3%A1ng_n%C6%B0%E1%BB%9Bng_TP._H%E1%BB%93_Ch%C3%AD_Minh_-_street_food_in_Ho_Chi_Minh_City,_Vietnam.jpg
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/12371256_ttwhGMxnHnhMPtYEvtKHy9sXgUbT1zYpvgnacpivNV4.jpg
+    credit: 'Photo: Foursquare user content (Ben Nghe Street Food)'
+    license: foursquare
+    source: https://foursquare.com/v/58d3d333c30f794df7af42ba
 place:
   id: ChIJSy3R1jgvdTERE51Ytwqzbpo
   name: Ben Nghe Street Food

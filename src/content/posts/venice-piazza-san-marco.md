@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: This Photo was taken by Wolfgang Moroder. Feel free to use my photos, but please mention me as the author and send me a message. This image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate. Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons (CC BY-SA 3.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Panorama_Piazza_San_Marco_and_Venice_on_Easter_2013.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Piazza_San_Marco_%28Venice%29_-_Clock_tower_-_Lion_of_San_Marco.jpg/1920px-Piazza_San_Marco_%28Venice%29_-_Clock_tower_-_Lion_of_San_Marco.jpg
+    credit: 'Photo: Didier Descouens / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Piazza_San_Marco_(Venice)_-_Clock_tower_-_Lion_of_San_Marco.jpg
 place:
   id: "ChIJiYRBbtexfkcRG_b_RJa70AI"
   name: "Piazza San Marco"

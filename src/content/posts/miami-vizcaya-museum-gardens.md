@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Leslie Platt / Wikimedia Commons (CC BY 2.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Vizcaya_Museum_and_Gardens_,_Miami_060524_DSC6655.jpg"
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/23701706_Nhn8OYg8-yHA7rQGR01dcOj2Uyvl_TPEdE1gcrHPFkc.jpg
+    credit: 'Photo: Foursquare user content (Vizcaya Museum and Gardens)'
+    license: foursquare
+    source: https://foursquare.com/v/40e0b100f964a5207c051fe3
 place:
   id: "ChIJE5jqT1222YgR4STdDoStYPg"
   name: "Vizcaya Museum & Gardens"

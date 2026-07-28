@@ -9,7 +9,11 @@ heroImage:
   credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Jeonju_Hanok_Maeul_02.jpg
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/27324532_K5vzFyJsMqrnYarUXe49Z-MWv2pPYN1uNqIhEO8qg8w.jpg
+    credit: 'Photo: Foursquare user content (Jeonju Hanok Village (전주한옥마을))'
+    license: foursquare
+    source: https://foursquare.com/v/4bacdb0af964a52068123be3
 place:
   id: ChIJS73uEmIjcDURjoTQxhu-9I4
   name: Jeonju Hanok Village

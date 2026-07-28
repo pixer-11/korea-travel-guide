@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Noritake Garden (ノリタケの森))'
   license: foursquare
   source: https://foursquare.com/v/4bb6e386ef159c7452a876f7
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/24392102_9SEqf-gJDLrxrMBpdMUubIxzUcar2eT87SkuMTWDDvc.jpg
+    credit: 'Photo: Foursquare user content (Noritake Garden (ノリタケの森))'
+    license: foursquare
+    source: https://foursquare.com/v/4bb6e386ef159c7452a876f7
 place:
   id: ChIJkVqv3Op2A2AR0laSdx5UWOA
   name: Noritake Garden

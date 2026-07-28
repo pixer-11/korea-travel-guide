@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Julie / Wikimedia Commons (CC BY-SA 2.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Korea-Seoul-Insadong-Sanchon-04.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Korea-Seoul-Insadong-Sanchon-01.jpg/1920px-Korea-Seoul-Insadong-Sanchon-01.jpg
+    credit: 'Photo: Julie / Wikimedia Commons (CC BY-SA 2.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Korea-Seoul-Insadong-Sanchon-01.jpg
 place:
   id: "ChIJYY2vctGjfDURVRwnLTU_rhM"
   name: "Sanchon"

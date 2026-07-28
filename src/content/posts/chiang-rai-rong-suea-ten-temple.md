@@ -15,7 +15,11 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:Wat_Rong_Suea_Ten_(Blue_Temple,_Chiang_Rai)_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%95%E0%B9%89%E0%B8%99_(October_2021)_-_img_01.jpg
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/85142592_qYX53r4YbzIbKOioXcz2Esk1sZ7KS1UFic_4SKFWih8.jpg
+    credit: 'Photo: Foursquare user content (Wat Rong Suea Ten (วัดร่องเสือเต้น))'
+    license: foursquare
+    source: https://foursquare.com/v/4f8a1670e4b0e81f681c222f
 place:
   id: ChIJERD0pfEG1zARLAVNEwcKLOc
   name: Rong Suea Ten Temple

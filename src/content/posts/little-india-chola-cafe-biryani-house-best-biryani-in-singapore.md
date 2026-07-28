@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Bismillah Biryani)'
   license: foursquare
   source: https://foursquare.com/v/4bb18bf3f964a52014993ce3
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/462867962_B9zcWgMZNzN7jHld7GdflUv13MRhvnbze9CLSVGHfwo.jpg
+    credit: 'Photo: Foursquare user content (Bismillah Biryani)'
+    license: foursquare
+    source: https://foursquare.com/v/4bb18bf3f964a52014993ce3
 place:
   id: ChIJxf_ZdSYZ2jERWHDSce6Gwow
   name: Chola Cafe - Biryani House - “Best Biryani in Singapore”

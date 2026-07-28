@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Spraken eboy2887 / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Siargao_Cloud_9.jpg"
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/349475157__2L9z0T9BiTU7eF7O4iCRVCo-Y4BgCBXwuVVQ2pb0ig.jpg
+    credit: 'Photo: Foursquare user content (Cloud 9)'
+    license: foursquare
+    source: https://foursquare.com/v/4bf24e88324cc9b629f8cc92
 place:
   id: "ChIJPaM9Xu0JBDMRy9VmalHFu9I"
   name: "Cloud 9 Surfing Area"

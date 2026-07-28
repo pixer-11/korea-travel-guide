@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Green Elephant Sanctuary Park Phuket)'
   license: foursquare
   source: https://foursquare.com/v/5a6beca3ff19023776fbfd3c
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/113786749_qv4oqaZX55wXH1DCdmtiCx0QWoIlkD1yj2h5LZPxgJI.jpg
+    credit: 'Photo: Foursquare user content (Green Elephant Sanctuary Park Phuket)'
+    license: foursquare
+    source: https://foursquare.com/v/5a6beca3ff19023776fbfd3c
 place:
   id: ChIJMVGAs1g3UDARyLMbAwlTF_c
   name: Green Elephant Sanctuary Park

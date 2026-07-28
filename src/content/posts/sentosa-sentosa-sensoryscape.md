@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: ScribblingGeek / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Sentosa_Sensoryscape_2026.jpg"
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/29007429_v1DYKjdo-cWUvTTKjmrdKiYt1KiK7bRsWYsjMUAoxoo.jpg
+    credit: 'Photo: Foursquare user content (Sentosa Sensoryscape)'
+    license: foursquare
+    source: https://foursquare.com/v/65dbf4a16ca15961d952ff8d
 place:
   id: "ChIJG2tCUAAb2jER1d8J7MkyD_E"
   name: "Sentosa Sensoryscape"

@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Abasaa / Wikimedia Commons (Public domain)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Manchinro.JPG"
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/481491384_kjkHZ4fCGaykHuzU9dH7HP6Yi_1FjpVmp1ethIMhq2Q.jpg
+    credit: 'Photo: Foursquare user content (Manchinro (萬珍樓))'
+    license: foursquare
+    source: https://foursquare.com/v/4ba4af8ef964a5203bac38e3
 place:
   id: "ChIJN5Rzu-RcGGARHASwo8SYs3w"
   name: "Manchinro"

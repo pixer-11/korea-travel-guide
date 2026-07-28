@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Blue Doors)'
   license: foursquare
   source: https://foursquare.com/v/63b27d30f0ce682a79a10113
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/1415786223_3R8vnisrEdzdr5RpIdHd3KO3tIpRRV5dq0vY1yt5avg.jpg
+    credit: 'Photo: Foursquare user content (Blue Doors)'
+    license: foursquare
+    source: https://foursquare.com/v/63b27d30f0ce682a79a10113
 place:
   id: ChIJj-Wu9d771y0RJAGOSXUIvyI
   name: Blue Doors Surabaya

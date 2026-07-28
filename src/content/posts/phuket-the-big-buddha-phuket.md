@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Subhrajyoti07 / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:The_Big_Buddha,_Phuket.jpg"
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/382465217_8gTn96mkQPQhk73BO8-o4_e3ApIlcN3kbBiRaqZuq1Q.jpg
+    credit: 'Photo: Foursquare user content (The Big Buddha (พระพุทธมิ่งมงคลเอกนาคคีรี))'
+    license: foursquare
+    source: https://foursquare.com/v/538f4c9a498ea5bb8623c017
 place:
   id: "ChIJOSmXz2AvUDARXCxlBBs7y38"
   name: "The Big Buddha, Phuket"

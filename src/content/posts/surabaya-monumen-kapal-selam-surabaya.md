@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Diahasy / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Bagian_Dalam_Monumen_Kapal_Selam_(Monkasel)_Surabaya_4.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Bagian_Dalam_Monumen_Kapal_Selam_%28Monkasel%29_Surabaya_6.jpg/1920px-Bagian_Dalam_Monumen_Kapal_Selam_%28Monkasel%29_Surabaya_6.jpg
+    credit: 'Photo: Diahasy / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Bagian_Dalam_Monumen_Kapal_Selam_(Monkasel)_Surabaya_6.jpg
 place:
   id: "ChIJ5SD1jWL51y0RC_s2AXJDdFc"
   name: "Monumen Kapal Selam Surabaya"

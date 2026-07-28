@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Saaremees / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Cova_de_Can_Mar%C3%A7%C3%A0-Ibiza_Spain-Andres_Larin.jpg"
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/1385395585_JztsB34rEMgO06sxdVYQz5l4LFBYo9IyhjiSZ1KZk6E.jpg
+    credit: 'Photo: Foursquare user content (Cova de Can Marça)'
+    license: foursquare
+    source: https://foursquare.com/v/4c4ea2da9932e21eec760fce
 place:
   id: "ChIJjWdAtoo7mRIRcu-OCGE2kaU"
   name: "Cova de Can Marçà"

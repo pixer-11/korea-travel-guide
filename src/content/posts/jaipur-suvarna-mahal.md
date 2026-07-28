@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Chainwit. / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Royal_Rajasthani_Thali_at_Suvarna_Mahal,_Ram_Bagh_Hotel,_Jaipur.jpg"
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/130998_7q2Ho3bcEweGaDfvt5y6Qqe1cjKWTFkwqvZvDycdaOw.jpg
+    credit: 'Photo: Foursquare user content (Suvarna Mahal)'
+    license: foursquare
+    source: https://foursquare.com/v/4d766adc41526ea84d98548a
 place:
   id: "ChIJ0RfdzAK0bTkRIyPIfI-iC7s"
   name: "Suvarna Mahal"

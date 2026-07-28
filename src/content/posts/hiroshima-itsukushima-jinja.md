@@ -14,7 +14,11 @@ heroImage:
   credit: 'Photo: JordyMeow / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Itsukushima_Gate.jpg'
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Itsukushima-jinja_torii_at_sunset.jpg/1920px-Itsukushima-jinja_torii_at_sunset.jpg
+    credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Itsukushima-jinja_torii_at_sunset.jpg
 place:
   id: ChIJj23HfgTjGmARkNW10PcocjU
   name: Itsukushima Jinja

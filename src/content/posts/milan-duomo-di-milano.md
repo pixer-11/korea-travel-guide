@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Daniel Case / Wikimedia Commons (CC BY-SA 3.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:View_west_along_Duomo_roof,_Milan.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Milano_-_Duomo_di_Milano_-_Monumento_a_Vittorio_Emanuele_II_-_Museo_del_Novecento_-_2023-09-12_18-18-40_001.jpg/1920px-Milano_-_Duomo_di_Milano_-_Monumento_a_Vittorio_Emanuele_II_-_Museo_del_Novecento_-_2023-09-12_18-18-40_001.jpg
+    credit: 'Photo: Terragio67 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Milano_-_Duomo_di_Milano_-_Monumento_a_Vittorio_Emanuele_II_-_Museo_del_Novecento_-_2023-09-12_18-18-40_001.jpg
 place:
   id: "ChIJoTZGw67GhkcREy4aECdOf6s"
   name: "Duomo di Milano"

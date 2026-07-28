@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Gum_wall,_Seattle,_Washington,_Estados_Unidos,_2017-09-02,_DD_19-21_HDR.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Gum_Wall%2C_Pike_Place_Market%2C_Seattle_%282014%29_-_1.JPG/1920px-Gum_Wall%2C_Pike_Place_Market%2C_Seattle_%282014%29_-_1.JPG
+    credit: 'Photo: Another Believer / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Gum_Wall,_Pike_Place_Market,_Seattle_(2014)_-_1.JPG
 place:
   id: "ChIJaYxSWbJqkFQRIx56JsKqNCA"
   name: "The Gum Wall"

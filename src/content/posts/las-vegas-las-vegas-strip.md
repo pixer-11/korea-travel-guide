@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Las_Vegas_(Nevada,_USA),_The_Strip_--_2012_--_6232.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Las_Vegas_Strip_from_Resorts_World_February_2023_HDR_1.jpg/1920px-Las_Vegas_Strip_from_Resorts_World_February_2023_HDR_1.jpg
+    credit: 'Photo: King of Hearts / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Las_Vegas_Strip_from_Resorts_World_February_2023_HDR_1.jpg
 place:
   id: "ChIJ69QoNDjEyIARTIMmDF0Z4kM"
   name: "Las Vegas Strip"

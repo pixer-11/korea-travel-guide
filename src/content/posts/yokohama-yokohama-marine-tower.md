@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Zairon / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Yokohama_Marine_Tower_02a.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Yokohama_Marine_Tower_01a.jpg/1920px-Yokohama_Marine_Tower_01a.jpg
+    credit: 'Photo: Zairon / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Yokohama_Marine_Tower_01a.jpg
 place:
   id: "ChIJ_2RVhR1dGGAR98Vdq5w3DPw"
   name: "Yokohama Marine Tower"

@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Matti Blume / Wikimedia Commons (CC BY-SA)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Alcazaba,_Malaga_(DSC02867-Pano).jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/5/53/Malaga_Alcazaba_25-9-2007a.JPG
+    credit: 'Photo: Hedwig Storch / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Malaga_Alcazaba_25-9-2007a.JPG
 place:
   id: "ChIJxSK7oOr3cg0RZ7K4v2udaYQ"
   name: "Alcazaba"

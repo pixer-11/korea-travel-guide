@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Sasa0403 / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Photos_at_teamlab_planets_tokyo.jpg"
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/1413085103_IM6WIyfXSA7gukrI8OKQvGpxMeK7dcmqFPkQofw0d8o.jpg
+    credit: 'Photo: Foursquare user content (teamLab Planets (チームラボプラネッツ))'
+    license: foursquare
+    source: https://foursquare.com/v/5b3306103731ee002c2b3e78
 place:
   id: "ChIJSeco5wiJGGARItbTS8lQ5G0"
   name: "teamLab Planets TOKYO DMM"

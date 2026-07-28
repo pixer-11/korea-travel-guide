@@ -9,7 +9,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Eid)'
   license: foursquare
   source: https://foursquare.com/v/543cf20b498eef542d20c8a7
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/109762248_ZPKjFttErWKeFAgYGq7v3BZqUR7xE7IB86puHVJ2QnE.jpg
+    credit: 'Photo: Foursquare user content (Eid)'
+    license: foursquare
+    source: https://foursquare.com/v/543cf20b498eef542d20c8a7
 place:
   id: ChIJa0VtDbWjfDURqx-5tftT9es
   name: EID Halal Korean Food

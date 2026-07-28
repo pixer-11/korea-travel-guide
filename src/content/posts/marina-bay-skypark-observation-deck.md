@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Ank Kumar / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Infinity_Pool_at_Marina_Bay_Sands_SkyPark_Singapore_Ank_Kumar_Infosys_Limited_03.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Singapore_%28SG%29%2C_Marina_Bay_--_2019_--_4701-6.jpg/1920px-Singapore_%28SG%29%2C_Marina_Bay_--_2019_--_4701-6.jpg
+    credit: 'Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Singapore_(SG),_Marina_Bay_--_2019_--_4701-6.jpg
 place:
   id: "ChIJOeEf9S2vewIRM0B9a06CKwg"
   name: "SkyPark Observation Deck"

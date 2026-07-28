@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Tashmetova808 / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Mountain_view,_Jebel_Jais_Ras_al_Khaimah,_UAE.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mountain_view%2C_Jebel_Jais%2C_Ras_al_Khaimah%2C_UAE.jpg/1920px-Mountain_view%2C_Jebel_Jais%2C_Ras_al_Khaimah%2C_UAE.jpg
+    credit: 'Photo: Tashmetova808 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Mountain_view,_Jebel_Jais,_Ras_al_Khaimah,_UAE.jpg
 place:
   id: "ChIJ96_xQD5j9j4RId7hqxDC1Uo"
   name: "Jebel Jais"

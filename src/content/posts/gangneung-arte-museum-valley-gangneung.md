@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (ARTE MUSEUM GANGNEUNG (아르떼뮤지엄 강릉))'
   license: foursquare
   source: https://foursquare.com/v/61c3fb885620f14bbc80a081
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/29025250_121-OH3J-CVVQdM2FYuIB_ZAaNak4Xu15kg_F1hpnjg.jpg
+    credit: 'Photo: Foursquare user content (ARTE MUSEUM GANGNEUNG (아르떼뮤지엄 강릉))'
+    license: foursquare
+    source: https://foursquare.com/v/61c3fb885620f14bbc80a081
 place:
   id: ChIJoUu3n2LnYTURY4nBu-SE2qg
   name: Arte Museum Valley Gangneung

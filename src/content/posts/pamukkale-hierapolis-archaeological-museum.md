@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Carole Raddato from FRANKFURT, Germany / Wikimedia Commons (CC BY-SA 2.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Hierapolis_Archaeology_Museum,_Turkey_(31595600163).jpg"
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/384044792_YLPzCLv8Oik-YD-DpgDW_t0wr2tkE3kS0J-OTDdmk5U.jpg
+    credit: 'Photo: Foursquare user content (Hierapolis Arkeoloji Müzesi)'
+    license: foursquare
+    source: https://foursquare.com/v/4f72f40fe4b017b448e65e9a
 place:
   id: "ChIJBasWfzASxxQRgC-JjjFJx10"
   name: "Hierapolis Archaeological Museum"

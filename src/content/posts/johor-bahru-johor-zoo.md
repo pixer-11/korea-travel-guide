@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: KQuhen / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Johor_Zoo_lakeside_walkway_Johor_Bahru_2015.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Zoo_Johor_Sambar_Deer.jpg/1920px-Zoo_Johor_Sambar_Deer.jpg
+    credit: 'Photo: Stress 043 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Zoo_Johor_Sambar_Deer.jpg
 place:
   id: "ChIJpTA-wsAS2jERtAhAlaGjg6g"
   name: "Johor Zoo"

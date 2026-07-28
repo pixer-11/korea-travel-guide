@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:San_Francisco_(CA,_USA),_Alcatraz_--_2022_--_3133.jpg"
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/15187635_r1jaDjZpqvVGGKE2yvsJtnsKTYb1EHLBnvL_WHM4rpk.jpg
+    credit: 'Photo: Foursquare user content (Alcatraz Island)'
+    license: foursquare
+    source: https://foursquare.com/v/4451c80ef964a520a5321fe3
 place:
   id: "ChIJI09XaRWBhYARF65xWugonBg"
   name: "Alcatraz Island"

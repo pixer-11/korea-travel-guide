@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Veera Flavours (Formerly Known As Amaravathi))'
   license: foursquare
   source: https://foursquare.com/v/663c549a374324796e28c847
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/20898740_ZNHNvZat_r2z5XXWwih-vavgoRF_tu6jYoGPypr5Tsw.jpg
+    credit: 'Photo: Foursquare user content (Veera Flavours (Formerly Known As Amaravathi))'
+    license: foursquare
+    source: https://foursquare.com/v/663c549a374324796e28c847
 place:
   id: ChIJURcu3VkZ2jERjZBy1nhV5xg
   name: Veera Flavours

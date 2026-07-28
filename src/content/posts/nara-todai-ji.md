@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Martin Falbisoner / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:The_Great_Buddha_Hall_of_T%C5%8Ddai-ji,_Nara,_November_2016.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Daibutsu_Grand_bouddha_-_T%C5%8Ddai-ji_-_Nara.jpg/1920px-Daibutsu_Grand_bouddha_-_T%C5%8Ddai-ji_-_Nara.jpg
+    credit: 'Photo: Gilles Desjardins / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Daibutsu_Grand_bouddha_-_T%C5%8Ddai-ji_-_Nara.jpg
 place:
   id: "ChIJ3XYIepA5AWARjzzVnT-skPg"
   name: "Tōdai-ji"

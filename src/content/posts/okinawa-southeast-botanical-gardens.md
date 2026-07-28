@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: lienyuan lee / Wikimedia Commons (CC BY 3.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:%E6%9D%B1%E5%8D%97%E6%A4%8D%E7%89%A9%E5%9C%92_Southeast_Botanical_Gardens_-_panoramio.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Southeast_Botanical_Garden_%E6%9D%B1%E5%8D%97%E6%A4%8D%E7%89%A9%E6%A8%82%E5%9C%92_-_panoramio.jpg/1920px-Southeast_Botanical_Garden_%E6%9D%B1%E5%8D%97%E6%A4%8D%E7%89%A9%E6%A8%82%E5%9C%92_-_panoramio.jpg
+    credit: 'Photo: lienyuan lee / Wikimedia Commons (CC BY 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Southeast_Botanical_Garden_%E6%9D%B1%E5%8D%97%E6%A4%8D%E7%89%A9%E6%A8%82%E5%9C%92_-_panoramio.jpg
 place:
   id: "ChIJ12iS29gR5TQRCznHnqmdqpc"
   name: "Southeast Botanical Gardens"

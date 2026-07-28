@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Al Khayma Heritage Restaurant)'
   license: foursquare
   source: https://foursquare.com/v/60d850fe25a5381220e2738d
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/382909557_P54eknhzo3AqfFe7qVF2Mzp9CqzjTsMpkBS_rpjUcls.jpg
+    credit: 'Photo: Foursquare user content (Al Khayma Heritage Restaurant)'
+    license: foursquare
+    source: https://foursquare.com/v/60d850fe25a5381220e2738d
 place:
   id: ChIJl6Wlj3JDXz4RiuVGW1AttdY
   name: Al Khayma Heritage Restaurant | مطعم الخيمة التراثي

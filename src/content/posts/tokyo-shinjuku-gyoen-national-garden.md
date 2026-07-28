@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Shinjuku_Gyoen_National_Garden_and_NTT_DoCoMo_Yoyogi_Building,_Tokyo,_Japan.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Wooden_footbridge_in_Shinjuku_Gyoen_National_Garden%2C_Tokyo%2C_Japan%2C_a_sunny_day_with_blue_sky.jpg/1920px-Wooden_footbridge_in_Shinjuku_Gyoen_National_Garden%2C_Tokyo%2C_Japan%2C_a_sunny_day_with_blue_sky.jpg
+    credit: 'Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Wooden_footbridge_in_Shinjuku_Gyoen_National_Garden,_Tokyo,_Japan,_a_sunny_day_with_blue_sky.jpg
 place:
   id: "ChIJPyOTG8KMGGARh_IXobWxHmo"
   name: "Shinjuku Gyoen National Garden"

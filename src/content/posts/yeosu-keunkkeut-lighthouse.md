@@ -9,7 +9,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (큰끝등대)'
   license: foursquare
   source: https://foursquare.com/v/66346cd8b2003446227e4f39
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/12647493_iGtZRvSlaIE-3AhbNGXcTXeG22T8QcwIwm6RDg7Zc9E.jpg
+    credit: 'Photo: Foursquare user content (큰끝등대)'
+    license: foursquare
+    source: https://foursquare.com/v/66346cd8b2003446227e4f39
 place:
   id: ChIJWYT5iYPbbTURqeHk9gfXwT0
   name: Keunkkeut Lighthouse (큰끝등대)

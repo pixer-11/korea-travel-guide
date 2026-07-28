@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Michal Osmenda from Brussels, Belgium / Wikimedia Commons (CC BY-SA 2.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Palais_des_Papes,_Avignon,_Provence,_France_(6053013706).jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Palais_des_Papes%2C_Avignon%2C_Provence%2C_France_%286053007784%29.jpg/1920px-Palais_des_Papes%2C_Avignon%2C_Provence%2C_France_%286053007784%29.jpg
+    credit: 'Photo: Michal Osmenda from Brussels, Belgium / Wikimedia Commons (CC BY-SA 2.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Palais_des_Papes,_Avignon,_Provence,_France_(6053007784).jpg
 place:
   id: "ChIJb_jbjobrtRIRy9KIwWXljHc"
   name: "Palais des Papes"

@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Black Owl)'
   license: foursquare
   source: https://foursquare.com/v/6675637dd1a0267feefe824b
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/42531918_t2U1iybbPEKVfg3Xh9lD529-7vZtrOscCr4-ri6Aq3Y.jpg
+    credit: 'Photo: Foursquare user content (Black Owl)'
+    license: foursquare
+    source: https://foursquare.com/v/6675637dd1a0267feefe824b
 place:
   id: ChIJcQ_EToL71y0RM3ta80qLId8
   name: Black Owl - Surabaya

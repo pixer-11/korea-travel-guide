@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Tuong Lam Photos / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Chuon_Chuon_Bistro_%26_Bar,_Phu_Quoc.jpg"
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/642816_OhBPRRwt0yc9SyCbaDmVRl-e_zomjSuMId3vI2ID310.jpg
+    credit: 'Photo: Foursquare user content (Chuồn Chuồn Bistro & Sky Bar)'
+    license: foursquare
+    source: https://foursquare.com/v/58d86dfc52e32d0cc45a1b56
 place:
   id: "ChIJsY399WOMpzER7lV4UDy_2w0"
   name: "Chuồn Chuồn Bistro & Bar"

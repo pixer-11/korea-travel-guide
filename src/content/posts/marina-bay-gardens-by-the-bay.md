@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Mustang Joe / Wikimedia Commons (CC0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Supertree_Grove,_Gardens_by_the_Bay,_Singapore1.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Gardens_by_the_Bay%2C_Marina_Bay%2C_Singapur%2C_2023-08-19%2C_DD_26-28_HDR.jpg/1920px-Gardens_by_the_Bay%2C_Marina_Bay%2C_Singapur%2C_2023-08-19%2C_DD_26-28_HDR.jpg
+    credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Gardens_by_the_Bay,_Marina_Bay,_Singapur,_2023-08-19,_DD_26-28_HDR.jpg
 place:
   id: "ChIJMxZ-kwQZ2jERdsqftXeWCWI"
   name: "Gardens by the Bay"

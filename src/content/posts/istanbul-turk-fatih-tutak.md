@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Turk Fatih Tutak)'
   license: foursquare
   source: https://foursquare.com/v/5e04f7f1bc7b8000086f49b0
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/406099226_X1nDLK4jfURLL16uZBfzRiJw-4ab-qNU3aHu28tNJlk.jpg
+    credit: 'Photo: Foursquare user content (Turk Fatih Tutak)'
+    license: foursquare
+    source: https://foursquare.com/v/5e04f7f1bc7b8000086f49b0
 place:
   id: ChIJhazqsPa3yhQRWNzo3ScR25k
   name: TURK FATIH TUTAK

@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Smash Street)'
   license: foursquare
   source: https://foursquare.com/v/69d8f55c73ca0576a90e9284
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/234324_lOnqNgB29VfRevi5yRMUw-fsMjsoLR2Nx_jkZl2fmQA.jpg
+    credit: 'Photo: Foursquare user content (Smash Street)'
+    license: foursquare
+    source: https://foursquare.com/v/69d8f55c73ca0576a90e9284
 place:
   id: ChIJ9zBNNG8Z2jER2JAM0WTfPRs
   name: Smash Street

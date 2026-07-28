@@ -15,7 +15,11 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:Honden_Dazaifu_Tenmangu_Shrine_(15558158424).jpg
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/25854540_bu5gLQ20bPML-ZI0am28FQJkgufDMyo4nilmLOtLp9I.jpg
+    credit: 'Photo: Foursquare user content (Dazaifu Tenmangu Shrine (太宰府天満宮))'
+    license: foursquare
+    source: https://foursquare.com/v/4b64cd6ff964a52043d12ae3
 place:
   id: ChIJzfvrKp-bQTURl65fp6vRJLg
   name: Dazaifu Tenmangu Shrine

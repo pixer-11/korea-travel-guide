@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Anping_Taiwan_Old-houses-of-Anping-01.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Anping_Old_Street.jpg/1920px-Anping_Old_Street.jpg
+    credit: 'Photo: Chongkian / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Anping_Old_Street.jpg
 place:
   id: "ChIJ_____wN2bjQRIOio8uGV_Og"
   name: "Anping Old Street"

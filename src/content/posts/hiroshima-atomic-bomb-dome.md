@@ -15,7 +15,11 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:Atomic_Bomb_Dome,_Hiroshima,_South_view_20190417_1.jpg
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/144917183_tLmMb8iEiNsr7fGdnTY1IVlH1e48Yjqa2ngaR1JuXY8.jpg
+    credit: 'Photo: Foursquare user content (Atomic Bomb Dome (原爆ドーム))'
+    license: foursquare
+    source: https://foursquare.com/v/4b5e6edcf964a520798e29e3
 place:
   id: ChIJqYAn2wyiWjURlsDG4Hpn5jQ
   name: Atomic Bomb Dome

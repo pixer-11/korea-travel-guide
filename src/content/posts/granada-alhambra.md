@@ -14,7 +14,11 @@ heroImage:
   credit: 'Photo: Jebulon / Wikimedia Commons (Public domain)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Alhambra_in_the_evening.jpg'
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Stucco_ceiling%2C_Patio_de_los_Leones%2C_Alhambra%2C_Granada%2C_Spain%2C_crop.jpg/1920px-Stucco_ceiling%2C_Patio_de_los_Leones%2C_Alhambra%2C_Granada%2C_Spain%2C_crop.jpg
+    credit: 'Photo: Jebulon / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Stucco_ceiling,_Patio_de_los_Leones,_Alhambra,_Granada,_Spain,_crop.jpg
 place:
   id: ChIJO7l_l7f8cQ0Rf6IhEu_RjYA
   name: Alhambra

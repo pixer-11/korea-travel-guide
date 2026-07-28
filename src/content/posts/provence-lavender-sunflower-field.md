@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Sunflower Field)'
   license: foursquare
   source: https://foursquare.com/v/668a7ff2cdcbb11d052733f4
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/5077236_8Fi_GKKXr0Ifnk-ekPSKN2z80TZJ0ZhFaXOS3-hD5Dg.jpg
+    credit: 'Photo: Foursquare user content (Sunflower Field)'
+    license: foursquare
+    source: https://foursquare.com/v/668a7ff2cdcbb11d052733f4
 place:
   id: ChIJjYBB61TFyxIRDXKdKPRYP24
   name: Lavender & Sunflower Field

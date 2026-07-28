@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Philip Nalangan / Wikimedia Commons (CC BY 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:San_Pedro_Fort_Cebu_03.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/San_Pedro_Fort_Cebu_02.jpg/1920px-San_Pedro_Fort_Cebu_02.jpg
+    credit: 'Photo: Philip Nalangan / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:San_Pedro_Fort_Cebu_02.jpg
 place:
   id: "ChIJiYix3uCbqTMRAqkwfbD7es0"
   name: "Fort San Pedro"

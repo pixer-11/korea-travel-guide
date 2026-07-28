@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Clément Chevallier / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Lake_in_the_Garden_of_Morning_Calm.jpg"
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/9744875_8moFVS9pd7Ke8jwHM8ktLshGvS-qUFESMr1uQRrvB_k.jpg
+    credit: 'Photo: Foursquare user content (The Garden of Morning Calm (아침고요수목원))'
+    license: foursquare
+    source: https://foursquare.com/v/4ba040a8f964a5204b6437e3
 place:
   id: "ChIJzzJLib-ffDURjaM7pZPPh10"
   name: "Garden of Morning Calm"

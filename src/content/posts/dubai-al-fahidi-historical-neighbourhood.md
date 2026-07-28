@@ -14,7 +14,11 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:Al_Fahidi_Historical_Neighbourhood,_Dubai.jpg
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/39880223_tBpyev9R1zblDAUcaHkX9XkO9J5wgz9bJy9aSmP8oLM.jpg
+    credit: 'Photo: Foursquare user content (Al Fahidi Historical Neighbourhood)'
+    license: foursquare
+    source: https://foursquare.com/v/19eca8445d6840e2a08e9f6d
 place:
   id: ChIJpUWZXTdDXz4R_lcmpwt-qFQ
   name: Al Fahidi Historical Neighbourhood

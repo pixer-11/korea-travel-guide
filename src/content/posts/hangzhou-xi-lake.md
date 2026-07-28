@@ -17,7 +17,11 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:West_Lake_(Xi_Hu)_at_Hangzhou_(2790838851).jpg
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/West_Lake_-_Hangzhou%2C_China.jpg/1920px-West_Lake_-_Hangzhou%2C_China.jpg
+    credit: 'Photo: Louisa Salazar / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:West_Lake_-_Hangzhou,_China.jpg
 place:
   id: ChIJy_JJ0cBiSzQRyX7Tz2GI8vA
   name: Xi Lake

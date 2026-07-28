@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Superraptor123 / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Statues_at_Tarnim_Magic_Garden_in_Ko_Samui.jpg"
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/39267510_NStMi3Qzv1oESQrwyBccQkI7DBOk-W7OS7aXehQHqKE.jpg
+    credit: 'Photo: Foursquare user content (Tarnim Magic Garden)'
+    license: foursquare
+    source: https://foursquare.com/v/4d33de3ceefa8cfa756f45b3
 place:
   id: "ChIJ3372BPnzVDARcS8YSmZEUjs"
   name: "Tarnim Magic Garden"

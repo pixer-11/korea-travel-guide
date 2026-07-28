@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Bernard Spragg. NZ from Christchurch, New Zealand / Wikimedia Commons (CC0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Langkawi_Eagle_Square_-_Dataran_Lang_(11129976185).jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Langkawi_Eagle_Square_-_Dataran_Lang_%2824462248434%29.jpg/1920px-Langkawi_Eagle_Square_-_Dataran_Lang_%2824462248434%29.jpg
+    credit: 'Photo: Bernard Spragg. NZ from Christchurch, New Zealand / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Langkawi_Eagle_Square_-_Dataran_Lang_(24462248434).jpg
 place:
   id: "ChIJT5YXv4aASzARiVwJwms7Ddc"
   name: "Dataran Lang"

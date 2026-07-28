@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Martin Falbisoner / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Osaka_Castle_Outer_Moat_and_Osaka_Business_Park,_November_2016.jpg"
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/45574129_B8DWFVPaCCSvu70M9hGAg8GdyOoLkwbOzolAnJnJNA0.jpg
+    credit: 'Photo: Foursquare user content (Osaka Castle (大阪城))'
+    license: foursquare
+    source: https://foursquare.com/v/4b56c88af964a520211b28e3
 place:
   id: "ChIJ_TooXM3gAGARQR6hXH3QAQ8"
   name: "Osaka Castle"

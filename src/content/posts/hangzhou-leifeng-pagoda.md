@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: David290 / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Leifeng_Pagoda_DJI_0593_(2).jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Leifeng_Pagoda_%2820240729%29.jpg/1920px-Leifeng_Pagoda_%2820240729%29.jpg
+    credit: 'Photo: HoweyYuan / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Leifeng_Pagoda_(20240729).jpg
 place:
   id: "ChIJcZiMplJ9SzQRbdkqb6FKxzM"
   name: "Leifeng Pagoda"

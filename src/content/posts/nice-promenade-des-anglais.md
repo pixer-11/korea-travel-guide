@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Uhooep / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Promenade_des_Anglais_(Nice),_plage.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Promenade_des_Anglais_%28Nice%29%2C_France.jpg/1920px-Promenade_des_Anglais_%28Nice%29%2C_France.jpg
+    credit: 'Photo: Uhooep / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Promenade_des_Anglais_(Nice),_France.jpg
 place:
   id: "ChIJ0VoczFnQzRIR737WTal1fso"
   name: "Promenade des Anglais"

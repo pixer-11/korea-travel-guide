@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Jerry Michalski / Wikimedia Commons (CC BY-SA 2.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Caff%C3%A8_Sant_Eustacchio.jpg"
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/47771_AqLeOvkedu-liJaLpzkiJuVyIR1p5SpmfTpGTSSq_a0.jpg
+    credit: 'Photo: Foursquare user content (Sant''Eustachio Il Caffè)'
+    license: foursquare
+    source: https://foursquare.com/v/4af867d8f964a520f10c22e3
 place:
   id: "ChIJF4C_0k9gLxMR2LL_-I4HSWU"
   name: "Sant' Eustachio Caffè"

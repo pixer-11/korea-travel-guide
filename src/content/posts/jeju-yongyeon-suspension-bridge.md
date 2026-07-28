@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Yongyeon Cloud Bridge (용연구름다리))'
   license: foursquare
   source: https://foursquare.com/v/4be53edd910020a14ec0d214
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/26056341_RB4HbUJzwGkuyELQAQ5b7jnqhvcwybf3ZX93i9xoKrA.jpg
+    credit: 'Photo: Foursquare user content (Yongyeon Cloud Bridge (용연구름다리))'
+    license: foursquare
+    source: https://foursquare.com/v/4be53edd910020a14ec0d214
 place:
   id: ChIJTamoBq3kDDURccGJpkrWKZQ
   name: Yongyeon Suspension Bridge

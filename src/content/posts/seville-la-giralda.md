@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Jebulon / Wikimedia Commons (CC0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Giralda_cath%C3%A9drale_tour_Seville_Espagne.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Orange_trees_courtyard_cathedral_from_Giralda_Seville_Spain.jpg/1920px-Orange_trees_courtyard_cathedral_from_Giralda_Seville_Spain.jpg
+    credit: 'Photo: Jebulon / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Orange_trees_courtyard_cathedral_from_Giralda_Seville_Spain.jpg
 place:
   id: "ChIJK9S3HhpsEg0RR3Jr5EfWT50"
   name: "La Giralda"

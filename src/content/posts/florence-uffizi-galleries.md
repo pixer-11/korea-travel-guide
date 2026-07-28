@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Armin Kleiner / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Uffizi_Gallery,_Florence-2.jpg"
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/1413873648_QeD2899vZtdF512A8EdXBNXMm66W5jBe0pNMfltAM78.jpg
+    credit: 'Photo: Foursquare user content (Uffizi Gallery)'
+    license: foursquare
+    source: https://foursquare.com/v/8a5b7ec3d1384f0be11d5504
 place:
   id: "ChIJgZDFjQBUKhMRzcTwm8i33s0"
   name: "Uffizi Galleries"

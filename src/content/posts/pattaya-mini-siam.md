@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Jonashtand / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:202307_Mini_Siam,_Pattaya_16.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/202307_Mini_Siam%2C_Pattaya_12.jpg/1920px-202307_Mini_Siam%2C_Pattaya_12.jpg
+    credit: 'Photo: Jonashtand / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:202307_Mini_Siam,_Pattaya_12.jpg
 place:
   id: "ChIJGyhn0uCe4jARKsHCvBXG7Dw"
   name: "Mini Siam"

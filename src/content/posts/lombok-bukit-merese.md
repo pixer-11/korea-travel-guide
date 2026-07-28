@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Rina Harpani / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Keindahan_Bukit_Merese.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Merese.jpg/1920px-Merese.jpg
+    credit: 'Photo: Pradnyanandana / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Merese.jpg
 place:
   id: "ChIJn1laO6izzS0RzIjQ0qj2jA8"
   name: "Bukit Merese"

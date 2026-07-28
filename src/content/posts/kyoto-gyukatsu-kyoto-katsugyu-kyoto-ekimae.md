@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Gyukatsu Kyoto Katsugyu (京都勝牛 京都駅前店))'
   license: foursquare
   source: https://foursquare.com/v/548bc2bd498e8e0d8aad8586
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/351112_lnXmcPPGMNCKVNHaxrsHef8yuKdBONs66J4R8A3oP1Y.jpg
+    credit: 'Photo: Foursquare user content (Gyukatsu Kyoto Katsugyu (京都勝牛 京都駅前店))'
+    license: foursquare
+    source: https://foursquare.com/v/548bc2bd498e8e0d8aad8586
 place:
   id: ChIJ8-EJ8q8IAWAR2uveIY6clUg
   name: GYUKATSU Kyoto Katsugyu Kyoto Ekimae

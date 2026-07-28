@@ -15,7 +15,11 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:Florence_Cathedral_seen_from_Piazzale_Michelangelo_night_dllu.jpg
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Dome_of_Cattedrale_di_Santa_Maria_del_Fiore_%28Florence%29.jpg/1920px-Dome_of_Cattedrale_di_Santa_Maria_del_Fiore_%28Florence%29.jpg
+    credit: 'Photo: Livioandronico2013 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Dome_of_Cattedrale_di_Santa_Maria_del_Fiore_(Florence).jpg
 place:
   id: ChIJ9S_ivwNUKhMR9fGqh4RDkVU
   name: Cathedral of Santa Maria del Fiore

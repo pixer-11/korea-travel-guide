@@ -23,7 +23,11 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:Gate_in_Imperial_City,_Hu%E1%BA%BF_(III).jpg
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/3709928_NCzU6P02oFeigsVn9CZK_HBca5Y49q7yAdNMExSyCic.jpg
+    credit: 'Photo: Foursquare user content (Hue Imperial City (Kinh Thành Huế))'
+    license: foursquare
+    source: https://foursquare.com/v/4d57a31ede8f6dcb827d0191
 place:
   id: ChIJ-zZHO4GhQTER8_Eb9kDoaEE
   name: Hue Imperial City

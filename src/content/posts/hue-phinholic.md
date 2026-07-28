@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (PhinHolic)'
   license: foursquare
   source: https://foursquare.com/v/5ef7f1b4f2be6b0007449850
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/15413855_mvS3uV3YNsiHoqirm58akeNKVzHXEg5Qm3YHE7x-rMo.jpg
+    credit: 'Photo: Foursquare user content (PhinHolic)'
+    license: foursquare
+    source: https://foursquare.com/v/5ef7f1b4f2be6b0007449850
 place:
   id: ChIJ1x7xMjyhQTERwjTNPo0pYVQ
   name: PhinHolic

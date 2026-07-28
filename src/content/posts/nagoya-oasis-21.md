@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Nryate / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Oasis_21_%EF%BC%86_Nagoya_TV_Tower.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Oasis_21_Nagoya_Rainbow_Pride_2025_VLux5_hdsr_01.jpg/1920px-Oasis_21_Nagoya_Rainbow_Pride_2025_VLux5_hdsr_01.jpg
+    credit: 'Photo: Hyppolyte de Saint-Rambert / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Oasis_21_Nagoya_Rainbow_Pride_2025_VLux5_hdsr_01.jpg
 place:
   id: "ChIJT5niKdRwA2AR1oO7t2LlvlQ"
   name: "Oasis 21"

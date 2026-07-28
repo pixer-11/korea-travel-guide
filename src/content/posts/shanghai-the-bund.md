@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Dllu / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Blue_hour_view_of_the_Bund_from_the_Shanghai_World_Financial_Center_dllu.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Shanghai_Bund-20150516-RM-173803.jpg/1920px-Shanghai_Bund-20150516-RM-173803.jpg
+    credit: 'Photo: Ermell / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Shanghai_Bund-20150516-RM-173803.jpg
 place:
   id: "ChIJYUiHi1dwsjURZK_REO37Vk0"
   name: "The Bund"

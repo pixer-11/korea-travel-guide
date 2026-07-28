@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: ArpanDey80 / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Love_lake_honeymoon_in_Dubai!!.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Love_lake_Dubai_2.jpg/1920px-Love_lake_Dubai_2.jpg
+    credit: 'Photo: Japashalin / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Love_lake_Dubai_2.jpg
 place:
   id: "ChIJO4P3BkeBXz4RPbovWG84AvA"
   name: "Love Lake"

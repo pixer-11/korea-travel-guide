@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Nikhilb239 / Wikimedia Commons (CC BY 3.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Fort_Aguada_Remote_view_25012016.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Aguada_Fort_Top_View%2C_North_Goa.jpg/1920px-Aguada_Fort_Top_View%2C_North_Goa.jpg
+    credit: 'Photo: Rupeshsarkar / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Aguada_Fort_Top_View,_North_Goa.jpg
 place:
   id: "ChIJa72MxnXBvzsRHHtpszB2g6M"
   name: "Fort Aguada"

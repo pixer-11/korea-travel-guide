@@ -14,7 +14,11 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:Chicago_from_under_the_Cloud_Gate_(9694666470).jpg
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/538261247_gmH4g0UF4C7CBux4NRql7_FaYCctiCLAxzG9ra0ccHk.jpg
+    credit: 'Photo: Foursquare user content (Cloud Gate)'
+    license: foursquare
+    source: https://foursquare.com/v/4b0850dff964a520da0823e3
 place:
   id: ChIJ9Sszh6YsDogRUUo6zu8_TQY
   name: Cloud Gate

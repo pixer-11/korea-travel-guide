@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Fiamma)'
   license: foursquare
   source: https://foursquare.com/v/62c41fc88a443f637bdd91a1
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/40583305_Xp_0QY4QADnzs16ukh3bOT6KFDt2Mo0y-I3t-Yv4ZeU.jpg
+    credit: 'Photo: Foursquare user content (Fiamma)'
+    license: foursquare
+    source: https://foursquare.com/v/62c41fc88a443f637bdd91a1
 place:
   id: ChIJEWNnq5of2jER69_bjd4nzlg
   name: Fiamma

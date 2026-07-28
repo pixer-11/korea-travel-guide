@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Tonkin Specialty Cafe - The best local Coffee shop in HCMC)'
   license: foursquare
   source: https://foursquare.com/v/636b865338065636f484c7bf
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/1398311522_vjD0cvIqLpgs4Rr_Ezn7SlTAyy0gECV3zXDXKmP1Zuc.jpg
+    credit: 'Photo: Foursquare user content (Tonkin Specialty Cafe - The best local Coffee shop in HCMC)'
+    license: foursquare
+    source: https://foursquare.com/v/636b865338065636f484c7bf
 place:
   id: ChIJzaevQMcvdTERYE3UhLKg5NE
   name: Tonkin Specialty Coffee

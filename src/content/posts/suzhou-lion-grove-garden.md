@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Jakub Hałun / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:20090905_Suzhou_Lion_Grove_Garden_4502.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Lion_Grove_Garden_Suzhou_November_2017_009.jpg/1920px-Lion_Grove_Garden_Suzhou_November_2017_009.jpg
+    credit: 'Photo: King of Hearts / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Lion_Grove_Garden_Suzhou_November_2017_009.jpg
 place:
   id: "ChIJjyPSQtCmszUR4upcIiynRg8"
   name: "Lion Grove Garden"

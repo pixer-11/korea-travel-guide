@@ -14,7 +14,11 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:Hiroshima_Peace_Memorial_Park,_20240817_1032_4210.jpg
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/11987556_ILohB4hx_Pn7qiostQCrul3C_6xuetuTAxXZZYAn1UQ.jpg
+    credit: 'Photo: Foursquare user content (Hiroshima Peace Memorial Park (平和記念公園))'
+    license: foursquare
+    source: https://foursquare.com/v/4b5e5354f964a520b38929e3
 place:
   id: ChIJgzAzVG2iWjURZRZ1udXOKeE
   name: Peace Memorial Park - Hiroshima

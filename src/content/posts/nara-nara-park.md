@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Feri88 / Wikimedia Commons (CC BY 3.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Nara_Park_-_panoramio_(2).jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Deer_%28Cervus_nippon_centralis%29_drinking_from_a_ditch%2C_Nara_Park%2C_Nara%2C_2016.jpg/1920px-Deer_%28Cervus_nippon_centralis%29_drinking_from_a_ditch%2C_Nara_Park%2C_Nara%2C_2016.jpg
+    credit: 'Photo: DimiTalen / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Deer_(Cervus_nippon_centralis)_drinking_from_a_ditch,_Nara_Park,_Nara,_2016.jpg
 place:
   id: "ChIJYWCMvZY5AWARVnREV_OsbPk"
   name: "Nara Park"

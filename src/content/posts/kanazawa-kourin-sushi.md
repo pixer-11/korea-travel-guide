@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: J o / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Mitsui_Garden_Hotel_Kanazawa_1F_Noukabanzai_Mantei_breakfast_buffet_20200104-001.jpg"
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/57154149_5XFEtuRa6dqMlqAbY75LHhlztmX_Nuq8TXZJEZFLRFE.jpg
+    credit: 'Photo: Foursquare user content (Kourin Sushi (香りん寿司))'
+    license: foursquare
+    source: https://foursquare.com/v/4c8a3b2e1eafb1f72f397835
 place:
   id: "ChIJm52atXAz-F8RvmoLUL3aA4A"
   name: "Kourin Sushi"

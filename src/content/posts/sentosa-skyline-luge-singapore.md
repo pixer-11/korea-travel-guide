@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Skyline Sentosa Luge)'
   license: foursquare
   source: https://foursquare.com/v/4b05881af964a52013b222e3
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/349222_yOQXC8OAp7gKTWCZ9NC9kY3q87iLg10RokmkDHL6RvA.jpg
+    credit: 'Photo: Foursquare user content (Skyline Sentosa Luge)'
+    license: foursquare
+    source: https://foursquare.com/v/4b05881af964a52013b222e3
 place:
   id: ChIJs1Hr6f4b2jER3t3uRzo5IgE
   name: Skyline Luge Singapore

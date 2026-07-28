@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Chowmahalla_Palace_01.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Chowmahalla_Palace_03.jpg/1920px-Chowmahalla_Palace_03.jpg
+    credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Chowmahalla_Palace_03.jpg
 place:
   id: "ChIJq6qq2oqXyzsR6Ovd2kXV2U0"
   name: "Chowmahalla Palace"

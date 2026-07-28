@@ -9,7 +9,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Masirange (마시랑게))'
   license: foursquare
   source: https://foursquare.com/v/6198a0a4edfee3499ac55833
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/1800723_YFJUpbau7UzuvHjHT7OIqCahDYWrFXRqD0wP2nY7ac0.jpg
+    credit: 'Photo: Foursquare user content (Masirange (마시랑게))'
+    license: foursquare
+    source: https://foursquare.com/v/6198a0a4edfee3499ac55833
 place:
   id: ChIJVxc79EwlcDURb1xrhVQrFfI
   name: Jeonju hanok village cafe masirange

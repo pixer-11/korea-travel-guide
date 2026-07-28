@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: kallerna / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Lau_Pa_Sat_Singapore_2.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Lau_Pa_Sat_Singapore_1.jpg/1920px-Lau_Pa_Sat_Singapore_1.jpg
+    credit: 'Photo: kallerna / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Lau_Pa_Sat_Singapore_1.jpg
 place:
   id: "ChIJ5Y6l4Q0Z2jERYL0KDIjT6v0"
   name: "Lau Pa Sat"

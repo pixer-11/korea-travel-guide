@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Curio Espresso and Vintage Design)'
   license: foursquare
   source: https://foursquare.com/v/5349f12d498e5e5f2311717e
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/4468227_TFwjLkDvOAH_eA4t24mbiBnEMDt5NcUqMNLJ42Si9mo.jpg
+    credit: 'Photo: Foursquare user content (Curio Espresso and Vintage Design)'
+    license: foursquare
+    source: https://foursquare.com/v/5349f12d498e5e5f2311717e
 place:
   id: ChIJide0P24z-F8RfSHcyCEZlrc
   name: Curio Espresso and Vintage Design Café

@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Arrêt Notre-Dame de la Garde [60])'
   license: foursquare
   source: https://foursquare.com/v/4ec7c2739a52756c55fb4a25
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Hafen_von_Marseille-Notre_Dame_de_la_Garde.jpg/1920px-Hafen_von_Marseille-Notre_Dame_de_la_Garde.jpg
+    credit: 'Photo: Tobi 87 / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Hafen_von_Marseille-Notre_Dame_de_la_Garde.jpg
 place:
   id: ChIJ9Z24dsnAyRIR7S3utZVPJYk
   name: Notre-Dame de la Garde

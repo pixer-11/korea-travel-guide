@@ -9,7 +9,11 @@ heroImage:
   credit: 'Photo: by Junho Jung at Flickr from South Korea / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Korea-Tongyeong-Dongpirang_Village-10.jpg
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dongpirang_Village_20190511_19.jpg/1920px-Dongpirang_Village_20190511_19.jpg
+    credit: 'Photo: Mobius6 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Dongpirang_Village_20190511_19.jpg
 place:
   id: ChIJqdlILhXHbjURNX9wrCyu260
   name: Dongpirang Mural Village

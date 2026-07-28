@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Mobius6 / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Gyeongpo_Lake_20220502_008.jpg"
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/536782698_m45ZL75vv1cuEo8ifugEGCVRC0OCnyaIsqjFUaXM9ms.jpg
+    credit: 'Photo: Foursquare user content (Lake Gyeongpo (경포호))'
+    license: foursquare
+    source: https://foursquare.com/v/4c57648f30d82d7f16d7d962
 place:
   id: "ChIJeX0RpiXkYTUResqZFyoPnhU"
   name: "Gyeongpo Lake"

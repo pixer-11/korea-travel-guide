@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Mike Che / Wikimedia Commons (CC BY-SA 3.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Fujairah_Fort_Side_View,_Fujairah,_UAE.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/6/6d/Fujairah_Fort_UAE.jpg
+    credit: 'Photo: Aumars / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Fujairah_Fort_UAE.jpg
 place:
   id: "ChIJ2eRXTET49D4RDYL0Q16ebKs"
   name: "Fujairah Fort"

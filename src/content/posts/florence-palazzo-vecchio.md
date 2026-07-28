@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Petar Milošević / Wikimedia Commons (Public domain)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Lorenzo_di_Magnifico_visits_king_Ferdinand_of_Aragon_in_Naples_(Palazzo_Vecchio,_Florence).jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Palazzo_Vecchio_by_nigth.jpg/1920px-Palazzo_Vecchio_by_nigth.jpg
+    credit: 'Photo: Petar Milošević / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Palazzo_Vecchio_by_nigth.jpg
 place:
   id: "ChIJ-ZN45QBUKhMRh1fGVOcr4uQ"
   name: "Palazzo Vecchio"

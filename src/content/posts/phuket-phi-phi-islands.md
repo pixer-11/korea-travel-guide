@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Hari K Patibanda / Wikimedia Commons (CC BY 2.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:An_Island_Cruise_to_Phi_Phi_Islands,_Phuket,_Thailand_(3179176541).jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Phi_Phi_Island_Phuket_Thailand_-_panoramio_%284%29.jpg/1920px-Phi_Phi_Island_Phuket_Thailand_-_panoramio_%284%29.jpg
+    credit: 'Photo: Michelle Maria / Wikimedia Commons (CC BY 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Phi_Phi_Island_Phuket_Thailand_-_panoramio_(4).jpg
 place:
   id: "ChIJDT1Odr4gTjARcZ9UGni4nb8"
   name: "Phi Phi Islands"

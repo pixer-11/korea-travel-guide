@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Mizuya-Chaya (水谷茶屋))'
   license: foursquare
   source: https://foursquare.com/v/4be11821a7380f475b4a19b0
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chaya_%28teahouse%29_in_Nara_Park.jpg/1920px-Chaya_%28teahouse%29_in_Nara_Park.jpg
+    credit: 'Photo: MichaelMaggs / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Chaya_(teahouse)_in_Nara_Park.jpg
 place:
   id: ChIJj9LYfJU5AWARbAtuh3oHDSc
   name: Mizuya Chaya

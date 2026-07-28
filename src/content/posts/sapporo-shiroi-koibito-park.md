@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: MIKI Yoshihito from Sapporo City,Hokkaido., JAPAN / Wikimedia Commons (CC BY 2.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:SAKURAKO_-_Shiroi_Koibito_Park._(11927969273).jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/%E7%9F%B3%E5%B1%8B%E8%A3%BD%E8%8F%93%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC_%E7%99%BD%E3%81%84%E6%81%8B%E4%BA%BA%E3%83%91%E3%83%BC%E3%82%AF%EF%BC%88Ishiya_Chocolate_Factory_SHIROI_KOIBITO_PARK_-_panoramio.jpg/1920px-%E7%9F%B3%E5%B1%8B%E8%A3%BD%E8%8F%93%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC_%E7%99%BD%E3%81%84%E6%81%8B%E4%BA%BA%E3%83%91%E3%83%BC%E3%82%AF%EF%BC%88Ishiya_Chocolate_Factory_SHIROI_KOIBITO_PARK_-_panoramio.jpg
+    credit: 'Photo: t-konno / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:%E7%9F%B3%E5%B1%8B%E8%A3%BD%E8%8F%93%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC_%E7%99%BD%E3%81%84%E6%81%8B%E4%BA%BA%E3%83%91%E3%83%BC%E3%82%AF%EF%BC%88Ishiya_Chocolate_Factory_SHIROI_KOIBITO_PARK_-_panoramio.jpg
 place:
   id: "ChIJU8vHZBIoC18RkQEK1Lg8HsI"
   name: "Shiroi Koibito Park"

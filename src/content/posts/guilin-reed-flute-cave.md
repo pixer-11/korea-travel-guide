@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: xiquinhosilva / Wikimedia Commons (CC BY 2.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Reed_Flute_Cave_89145-Guilin_(30047619307).jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Reed_Flute_Cave_89017-Guilin_%2844934927312%29.jpg/1920px-Reed_Flute_Cave_89017-Guilin_%2844934927312%29.jpg
+    credit: 'Photo: xiquinhosilva / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Reed_Flute_Cave_89017-Guilin_(44934927312).jpg
 place:
   id: "ChIJs8zoz1f0pDYRWhx3YnA2xV0"
   name: "Reed Flute Cave"

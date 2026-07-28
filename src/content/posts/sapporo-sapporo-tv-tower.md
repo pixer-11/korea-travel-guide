@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: 掬茶 / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Sapporo_TV_Tower_at_night_20250725.jpg"
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/36050126_0_o107gGuPldY9v8EDFJFo8qyvZ7i3rRiH3OmoIxJ5s.jpg
+    credit: 'Photo: Foursquare user content (Sapporo TV Tower (さっぽろテレビ塔))'
+    license: foursquare
+    source: https://foursquare.com/v/4b569274f964a5208a1528e3
 place:
   id: "ChIJjWSHX50pC18RMSAiw3gaBOI"
   name: "Sapporo TV Tower"

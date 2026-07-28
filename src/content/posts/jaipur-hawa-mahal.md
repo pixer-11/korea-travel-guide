@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Chainwit. / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:East_facade_Hawa_Mahal_Jaipur_from_ground_level_(July_2022)_-_img_01.jpg"
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/37324048_jVm_ZYRKNs7Kky49J9Wvy4il9JmqlOtR3NNdLV796s4.jpg
+    credit: 'Photo: Foursquare user content (Hawa Mahal)'
+    license: foursquare
+    source: https://foursquare.com/v/4f1d22f8e4b044fd373c32bb
 place:
   id: "ChIJpQvTG0uxbTkRDLLMHlNdDoY"
   name: "Hawa Mahal"

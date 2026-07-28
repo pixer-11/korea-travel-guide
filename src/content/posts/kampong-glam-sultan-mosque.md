@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Erwin Soo from Singapore. / Wikimedia Commons (CC BY 2.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Gateway_to_Sultan_Mosque,_Kampong_Glam_(8125489356).jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/2016_Singapur%2C_Kampong_Glam%2C_Meczet_Su%C5%82tana_%2809%29.jpg/1920px-2016_Singapur%2C_Kampong_Glam%2C_Meczet_Su%C5%82tana_%2809%29.jpg
+    credit: 'Photo: Marcin Konsek / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:2016_Singapur,_Kampong_Glam,_Meczet_Su%C5%82tana_(09).jpg
 place:
   id: "ChIJb6xq2bAZ2jERE1P6sVKtofw"
   name: "Sultan Mosque"

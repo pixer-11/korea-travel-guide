@@ -14,7 +14,11 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:Chengdu_Sichuan_China_Panda-breeding-and-research-center-02.jpg
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Chengdu_Sichuan_China_Panda-breeding-and-research-center-01.jpg/1920px-Chengdu_Sichuan_China_Panda-breeding-and-research-center-01.jpg
+    credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Chengdu_Sichuan_China_Panda-breeding-and-research-center-01.jpg
 place:
   id: ChIJ8VuaD-DQ7zYRd5EYh3BjzdM
   name: Chengdu Research Base of Giant Panda Breeding

@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Okinawa World (おきなわワールド))'
   license: foursquare
   source: https://foursquare.com/v/4c0fbb9896fc95218ef8c0cb
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/1382802587_0brD0-fuX2THDMXCYBYkUHCpbGNJ6_n8VIBgqByexg0.jpg
+    credit: 'Photo: Foursquare user content (Okinawa World (おきなわワールド))'
+    license: foursquare
+    source: https://foursquare.com/v/4c0fbb9896fc95218ef8c0cb
 place:
   id: ChIJza_GaWlv5TQRy52qkW4L2P4
   name: Okinawa World

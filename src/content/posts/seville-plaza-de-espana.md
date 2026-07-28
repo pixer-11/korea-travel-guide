@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Dmitry Dzhus from London / Wikimedia Commons (CC BY 2.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Seville,_Plaza_de_Espa%C3%B1a_(38625005691)_(edited).jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Plaza_de_Espa%C3%B1a_%28Sevilla%29_-_01.jpg/1920px-Plaza_de_Espa%C3%B1a_%28Sevilla%29_-_01.jpg
+    credit: 'Photo: Carlos Delgado / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Plaza_de_Espa%C3%B1a_(Sevilla)_-_01.jpg
 place:
   id: "ChIJD7G2bqduEg0ROdrTdOj1Jok"
   name: "Plaza de España"

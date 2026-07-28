@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Ise Sueyoshi (伊勢すえよし))'
   license: foursquare
   source: https://foursquare.com/v/577dac00498e7e15aca49d6f
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/19679524_3XqSLPtPwSvA-aeNo4GcS3hTVRgKMRR9Fn_a1OrioAY.jpg
+    credit: 'Photo: Foursquare user content (Ise Sueyoshi (伊勢すえよし))'
+    license: foursquare
+    source: https://foursquare.com/v/577dac00498e7e15aca49d6f
 place:
   id: ChIJ1aKIaXCLGGARkyTMVC2TFi8
   name: Ise Sueyoshi

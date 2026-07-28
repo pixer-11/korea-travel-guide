@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: P. Hughes / Wikimedia Commons (CC BY 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Mumbai_-_Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya_%2828790%29.jpg/1920px-Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya_%2828790%29.jpg
+    credit: 'Photo: DesiBoy101 / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya_(28790).jpg
 place:
   id: "ChIJJ7H46sPR5zsRU5I-VRAm50Q"
   name: "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya"

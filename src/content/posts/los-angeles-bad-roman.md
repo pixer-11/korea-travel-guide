@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Bad Roman)'
   license: foursquare
   source: https://foursquare.com/v/6a17b63d9213a20938310f3e
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/545186313_Txoxkw89bc9r_OQCKCgqZNhnc0i9n8Q-qoiT7tGRBJo.jpg
+    credit: 'Photo: Foursquare user content (Bad Roman)'
+    license: foursquare
+    source: https://foursquare.com/v/6a17b63d9213a20938310f3e
 place:
   id: ChIJxZ7z6Y27woARW2zeBgk1QKk
   name: Bad Roman

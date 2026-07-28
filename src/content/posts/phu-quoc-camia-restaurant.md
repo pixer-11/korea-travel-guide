@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Camia Restaurant)'
   license: foursquare
   source: https://foursquare.com/v/686a5788cdf9476256b46db1
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/5227887_zY0b7ScXdtkSCgxGieQna0HZ3prhXoVwzwV5xpO3k_E.jpg
+    credit: 'Photo: Foursquare user content (Camia Restaurant)'
+    license: foursquare
+    source: https://foursquare.com/v/686a5788cdf9476256b46db1
 place:
   id: ChIJF33R8xCLpzERFtTAVV7G-14
   name: Camia Restaurant

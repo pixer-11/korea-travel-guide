@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Mk2010 / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Hualien_Railway_Culture_Park,_Hualien_City,_Hualien_County_(Taiwan).jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hualien_Railway_Culture_Park%2C_black_and_white%2C_Hualien_City%2C_Hualien_County_%28Taiwan%29.jpg/1920px-Hualien_Railway_Culture_Park%2C_black_and_white%2C_Hualien_City%2C_Hualien_County_%28Taiwan%29.jpg
+    credit: 'Photo: Mk2010 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Hualien_Railway_Culture_Park,_black_and_white,_Hualien_City,_Hualien_County_(Taiwan).jpg
 place:
   id: "ChIJ5xKz0XCfaDQRJ6tY8JR2bqE"
   name: "Hualien Railway Culture Park"

@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Atsuta Horaiken (あつた蓬莱軒 本店))'
   license: foursquare
   source: https://foursquare.com/v/4b5e68ddf964a5207a8d29e3
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/1402300050_KpYMubG7dMPedGiUkruvgb1bOiytBUyYLMGRzJKtrjQ.jpg
+    credit: 'Photo: Foursquare user content (Atsuta Horaiken (あつた蓬莱軒 本店))'
+    license: foursquare
+    source: https://foursquare.com/v/4b5e68ddf964a5207a8d29e3
 place:
   id: ChIJJRIRWR96A2AR1pCxwc4H298
   name: Atsuta Hōraiken Honten

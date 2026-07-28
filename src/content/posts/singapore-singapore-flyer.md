@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Singapore_(SG),_Singapore_Flyer_--_2019_--_4753.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Singapore_%28SG%29%2C_Singapore_Flyer_--_2019_--_4472.jpg/1920px-Singapore_%28SG%29%2C_Singapore_Flyer_--_2019_--_4472.jpg
+    credit: 'Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Singapore_(SG),_Singapore_Flyer_--_2019_--_4472.jpg
 place:
   id: "ChIJzVHFNqkZ2jERboLN2YrltH8"
   name: "Singapore Flyer"

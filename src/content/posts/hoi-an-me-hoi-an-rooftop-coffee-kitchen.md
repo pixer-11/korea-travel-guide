@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Me Hoi An Rooftop Coffee)'
   license: foursquare
   source: https://foursquare.com/v/67dd21eff454f47c5baf2549
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/8480041_8ufzyvwKfJAU8xdhbqaygx3oQbBXAG2DW-1PIBlrLKg.jpg
+    credit: 'Photo: Foursquare user content (Me Hoi An Rooftop Coffee)'
+    license: foursquare
+    source: https://foursquare.com/v/67dd21eff454f47c5baf2549
 place:
   id: ChIJb_HrObEPQjER6_deT8uf0sY
   name: Mê Hội An Rooftop Coffee & Kitchen

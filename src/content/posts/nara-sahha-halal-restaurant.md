@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (SAHHA)'
   license: foursquare
   source: https://foursquare.com/v/6492734a1d6e495154668c04
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/565726512_GvIYdrEyx13NcWZf0p2UoqdMQJHwy-dU16rA9Uegrlg.jpg
+    credit: 'Photo: Foursquare user content (SAHHA)'
+    license: foursquare
+    source: https://foursquare.com/v/6492734a1d6e495154668c04
 place:
   id: ChIJM-p8Cqo7AWARQ4BaQnhXtp4
   name: sahha halal restaurant

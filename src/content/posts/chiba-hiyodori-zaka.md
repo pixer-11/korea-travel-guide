@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Higa4 / Wikimedia Commons (CC0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Hiyodori-zaka_(J%C5%8Dnai-ch%C5%8D,_Sakura)_01.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Hiyodori-zaka_%28J%C5%8Dnai-ch%C5%8D%2C_Sakura%29_03.jpg/1920px-Hiyodori-zaka_%28J%C5%8Dnai-ch%C5%8D%2C_Sakura%29_03.jpg
+    credit: 'Photo: Higa4 / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Hiyodori-zaka_(J%C5%8Dnai-ch%C5%8D,_Sakura)_03.jpg
 place:
   id: "ChIJ_ZcESiqPImARMFs8nPxrVUc"
   name: "Hiyodori-Zaka"

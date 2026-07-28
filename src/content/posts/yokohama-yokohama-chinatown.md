@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Syced / Wikimedia Commons (CC0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Yokohama_Chinatown_4.jpg
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Yokohama_Chinatown_3.jpg/1920px-Yokohama_Chinatown_3.jpg
+    credit: 'Photo: Syced / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Yokohama_Chinatown_3.jpg
 place:
   id: ChIJ__-Le-9cGGARNY-CTSHwq5A
   name: Yokohama Chinatown

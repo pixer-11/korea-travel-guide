@@ -9,7 +9,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Naga Eupseong Folk Village)'
   license: foursquare
   source: https://foursquare.com/v/650a71e172bc550d2a4a63da
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/102260451_NGum3XCbJ9qkF9ghSib_Q_p6bHcw-_6tl5jqu9L7Pjo.jpg
+    credit: 'Photo: Foursquare user content (Naga Eupseong Folk Village)'
+    license: foursquare
+    source: https://foursquare.com/v/650a71e172bc550d2a4a63da
 place:
   id: ChIJI5PLIS3-bTURUimpUBjPQto
   name: Nagan Eupseong Folk Village

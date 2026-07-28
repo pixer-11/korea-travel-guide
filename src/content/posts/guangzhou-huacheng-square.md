@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Zhou Guanhuai / Wikimedia Commons (CC0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Huacheng_Square_Guangzhou.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Huacheng_Square%2C_Guangzhou.jpg/1920px-Huacheng_Square%2C_Guangzhou.jpg
+    credit: 'Photo: 钉钉 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Huacheng_Square,_Guangzhou.jpg
 place:
   id: "ChIJU-tr6NH_AjQRgIDga6dQUfc"
   name: "Huacheng Square"

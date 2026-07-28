@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Clark Mills / Wikimedia Commons (Public domain)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Jackson_Square.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jackson_Square%2C_New_Orleans%2C_USA1.jpg/1920px-Jackson_Square%2C_New_Orleans%2C_USA1.jpg
+    credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Jackson_Square,_New_Orleans,_USA1.jpg
 place:
   id: "ChIJaS5FoBGmIIYRj77fFz8J_94"
   name: "Jackson Square"

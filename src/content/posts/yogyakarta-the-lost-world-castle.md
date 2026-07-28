@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Susanti Estiningrum / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:The_Lost_World_Castle.jpg"
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/5795014_tbf2T5YpaBMw2Ix1V8okQ5PEDj743HN4xuPvPcAuIDs.jpg
+    credit: 'Photo: Foursquare user content (The Lost World Castle)'
+    license: foursquare
+    source: https://foursquare.com/v/586c32af03e29a442ea80d24
 place:
   id: "ChIJCVFD7Ztdei4RyYO2suhfTyg"
   name: "The Lost World Castle"

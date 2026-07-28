@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Jason Zhang / Wikimedia Commons (CC0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Classical_Gardens_of_Suzhou_pavilion,_August_2016.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Classical_Gardens_of_Suzhou-111933.jpg/1920px-Classical_Gardens_of_Suzhou-111933.jpg
+    credit: 'Photo: Francesco Bandarin / Wikimedia Commons (CC BY-SA 3.0 igo)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Classical_Gardens_of_Suzhou-111933.jpg
 place:
   id: "ChIJKc-Kws-mszURdVmpX1BWS_w"
   name: "Classical Gardens of Suzhou"

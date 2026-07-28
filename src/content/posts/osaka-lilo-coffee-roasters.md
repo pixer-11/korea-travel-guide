@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (LiLo Coffee Roasters)'
   license: foursquare
   source: https://foursquare.com/v/53e458d6498e40c7e22ebe7f
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/4444149_ySz7vti8r935e5vwztOg7EYC6pTXLI328b-AnrJbMjY.jpg
+    credit: 'Photo: Foursquare user content (LiLo Coffee Roasters)'
+    license: foursquare
+    source: https://foursquare.com/v/53e458d6498e40c7e22ebe7f
 place:
   id: ChIJ1T9unxrnAGARhtQGwQaaF-I
   name: LiLo Coffee Roasters

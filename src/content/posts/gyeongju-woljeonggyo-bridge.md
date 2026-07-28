@@ -14,7 +14,11 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:Illuminated_Woljeonggyo_Bridge_at_blue_hour_in_Gyeongju_South_Korea.jpg
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Southern_side_of_Woljeonggyo_Bridge_illuminated_at_sunset_in_Gyeongju_South_Korea.jpg/1920px-Southern_side_of_Woljeonggyo_Bridge_illuminated_at_sunset_in_Gyeongju_South_Korea.jpg
+    credit: 'Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Southern_side_of_Woljeonggyo_Bridge_illuminated_at_sunset_in_Gyeongju_South_Korea.jpg
 place:
   id: ChIJI6-IFWBOZjURG2fe65bJAs0
   name: Woljeonggyo Bridge

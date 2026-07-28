@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Marco Almbauer / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Omikuji,_Sens%C5%8D-ji,_Tokyo.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/2024-10-20_Tokyo%2C_Sens%C5%8D-ji_1.jpg/1920px-2024-10-20_Tokyo%2C_Sens%C5%8D-ji_1.jpg
+    credit: 'Photo: Alexkom000 / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:2024-10-20_Tokyo,_Sens%C5%8D-ji_1.jpg
 place:
   id: "ChIJ8T1GpMGOGGARDYGSgpooDWw"
   name: "Sensō-ji"

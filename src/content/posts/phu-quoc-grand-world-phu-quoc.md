@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: 松岡明芳 / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:2023-07-30_Grand_World_Ph%C3%BA_Qu%E1%BB%91c_DSCF2045.jpg"
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/560778098_DGdMSo8U6mU7nFog1XuyjyYaij8idU57PDy-jSQgTCQ.jpg
+    credit: 'Photo: Foursquare user content (Grand World Phú Quốc)'
+    license: foursquare
+    source: https://foursquare.com/v/61bdee77dcb39e48e72b9ff8
 place:
   id: "ChIJbUZGsQEfCDERXgX4I2SUCsI"
   name: "Grand World Phu Quoc"

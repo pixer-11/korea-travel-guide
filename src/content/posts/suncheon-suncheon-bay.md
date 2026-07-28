@@ -9,7 +9,11 @@ heroImage:
   credit: 'Photo: Photo and Share CC / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Suncheon_Bay_Ecological_Park_-_Flickr_-_cc.photoshare_(4).jpg
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/20181231_Suncheon_Bay_004.jpg/1920px-20181231_Suncheon_Bay_004.jpg
+    credit: 'Photo: Jjw / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:20181231_Suncheon_Bay_004.jpg
 place:
   id: ChIJFUq6TVMIbjURkptt4_ud7UA
   name: Suncheon Bay

@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Eugene Alvin Villar (seav) / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Mari_Mari_Cultural_Village_-_2.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Mari_Mari_Cultural_Village_-_3.jpg/1920px-Mari_Mari_Cultural_Village_-_3.jpg
+    credit: 'Photo: Eugene Alvin Villar (seav) / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Mari_Mari_Cultural_Village_-_3.jpg
 place:
   id: "ChIJBz9ZrIhpOzIRG6BIRQ4WRDs"
   name: "Mari Mari Cultural Village"

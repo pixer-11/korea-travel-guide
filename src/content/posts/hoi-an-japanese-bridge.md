@@ -14,7 +14,11 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:2024-12-20_Japanese_Bridge_in_Hoi_An.jpg
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Japanese_Bridge_in_Hoi_An.jpg/1920px-Japanese_Bridge_in_Hoi_An.jpg
+    credit: 'Photo: Good Morning Hoi An / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Japanese_Bridge_in_Hoi_An.jpg
 place:
   id: ChIJWewCLXwOQjERRkh9adZkWHY
   name: Japanese Bridge

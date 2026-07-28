@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Dmitry Dzhus from London / Wikimedia Commons (CC BY 2.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Royal_Alc%C3%A1zar_of_Seville_(26848889299).jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Alc%C3%A1zar_Seville_April_2019-11.jpg/1920px-Alc%C3%A1zar_Seville_April_2019-11.jpg
+    credit: 'Photo: Alvesgaspar / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Alc%C3%A1zar_Seville_April_2019-11.jpg
 place:
   id: "ChIJS6JBjBlsEg0Rh_7Brr92qbo"
   name: "Royal Alcázar of Seville"

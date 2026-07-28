@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (FUGLEN TOKYO)'
   license: foursquare
   source: https://foursquare.com/v/4c13052982a3c9b66fe6faf8
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/1954701_PMaJSx3tkmj9akzrfcjdub4s16MxoAW7aEKblcnHMhE.jpg
+    credit: 'Photo: Foursquare user content (FUGLEN TOKYO)'
+    license: foursquare
+    source: https://foursquare.com/v/4c13052982a3c9b66fe6faf8
 place:
   id: ChIJrWB6lbKMGGARp0QB0mMSNe4
   name: Fuglen Tokyo

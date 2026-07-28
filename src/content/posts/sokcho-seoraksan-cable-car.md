@@ -9,7 +9,11 @@ heroImage:
   credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Seoraksan_Cable_Car_04.jpg
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/875927_wEOmkO92pY3jWyMGl-6vMzF1_nzD0RMN60NAU_zw34s.jpg
+    credit: 'Photo: Foursquare user content (Sorak Cable Car (설악케이블카))'
+    license: foursquare
+    source: https://foursquare.com/v/4beb7e6bb3352d7f52a056d2
 place:
   id: ChIJU6refB6j2F8Rhvwfrw2-Hes
   name: Seoraksan Cable Car

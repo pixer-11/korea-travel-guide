@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: David Kernan / Wikimedia Commons (CC BY 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Tokyo_Tower,_Minato_City.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Tokyo_Tower_as_seen_from_Mori_Tower.jpg/1920px-Tokyo_Tower_as_seen_from_Mori_Tower.jpg
+    credit: 'Photo: Daniel L. Lu (user:dllu) / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Tokyo_Tower_as_seen_from_Mori_Tower.jpg
 place:
   id: "ChIJCewJkL2LGGAR3Qmk0vCTGkg"
   name: "Tokyo Tower"

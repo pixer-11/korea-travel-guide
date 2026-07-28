@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Dmytro Ivashchenko / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:France_Provence_lavender_fields.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Lavender_fields_of_Valensole%2C_2019.jpg/1920px-Lavender_fields_of_Valensole%2C_2019.jpg
+    credit: 'Photo: https://www.reddit.com/user/Grafixart-Photo / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Lavender_fields_of_Valensole,_2019.jpg
 place:
   id: "ChIJ9-c3FpgRyhIRBsiU2iqUQYY"
   name: "Lavender Fields"

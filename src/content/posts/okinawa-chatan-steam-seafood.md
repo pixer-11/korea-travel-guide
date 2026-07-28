@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Chatan Steam Seafood 蒸気海鮮)'
   license: foursquare
   source: https://foursquare.com/v/5bf902fd628c83002c4d27df
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/520196877_1ll_8Y6Axp-jGn5ssmk4k1imTJnYGmCCg3dPid9sK9M.jpg
+    credit: 'Photo: Foursquare user content (Chatan Steam Seafood 蒸気海鮮)'
+    license: foursquare
+    source: https://foursquare.com/v/5bf902fd628c83002c4d27df
 place:
   id: ChIJmR_Uxc8T5TQRUiU6osESyL4
   name: Chatan Steam Seafood

@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Georgius LXXXIX at Italian Wikipedia / Wikimedia Commons (Public domain)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Museo_Egizio_e_Galleria_sabauda,_Torino.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Edit-a-thon_in_Turin%2C_Museo_Egizio_01.jpg/1920px-Edit-a-thon_in_Turin%2C_Museo_Egizio_01.jpg
+    credit: 'Photo: Iolanda Pensa / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Edit-a-thon_in_Turin,_Museo_Egizio_01.jpg
 place:
   id: "ChIJcbdhzm9tiEcRV5jbgVsAy24"
   name: "Museo Egizio"

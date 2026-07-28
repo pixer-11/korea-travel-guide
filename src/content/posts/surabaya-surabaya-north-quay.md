@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: consigliere ivan from Bontang, Indonesia / Wikimedia Commons (CC0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Surabaya_North_Quay_-_Tanjung_Perak_at_Night.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/08_Gedung_Wisata_Surabaya_North_Quay_Pelabuhan_Tanjung_Perak.jpg/1920px-08_Gedung_Wisata_Surabaya_North_Quay_Pelabuhan_Tanjung_Perak.jpg
+    credit: 'Photo: id:User:Mujionomaruf / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:08_Gedung_Wisata_Surabaya_North_Quay_Pelabuhan_Tanjung_Perak.jpg
 place:
   id: "ChIJqU_9mSCPdy4RECfM9M_QwcE"
   name: "Surabaya North Quay"

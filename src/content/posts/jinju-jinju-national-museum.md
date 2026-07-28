@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: kangbyeongkee / Wikimedia Commons (CC BY 3.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:The_Jinju_National_Museum.jpg"
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/66774434_lNLlQfTif5R-LIfBn2XUHeXWNoMQqB_6UTHI7kzPU4U.jpg
+    credit: 'Photo: Foursquare user content (Jinju National Museum (국립진주박물관))'
+    license: foursquare
+    source: https://foursquare.com/v/4c55402c06901b8d848c254d
 place:
   id: "ChIJyVTgBRH8bjURWf4_s1eOxZg"
   name: "Jinju National Museum"

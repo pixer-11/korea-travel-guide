@@ -9,7 +9,11 @@ heroImage:
   credit: 'Photo: Seefooddiet / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Hwangnidan-gil_02.jpg
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hwangnidan-gil_01.jpg/1920px-Hwangnidan-gil_01.jpg
+    credit: 'Photo: Seefooddiet / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Hwangnidan-gil_01.jpg
 place:
   id: ChIJA8nY8ExPZjURPC-8kcf4l4E
   name: Hwangnidan-gil Street

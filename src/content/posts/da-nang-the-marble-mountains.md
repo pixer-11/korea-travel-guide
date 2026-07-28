@@ -14,7 +14,11 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:Da_Nang_Marble_Mountains_2020_IMG_4008.jpg
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Marble_Mountain_Hoi_An%2C_Da_Nang_%2871468%29.jpg/1920px-Marble_Mountain_Hoi_An%2C_Da_Nang_%2871468%29.jpg
+    credit: 'Photo: Andre Hospers / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Marble_Mountain_Hoi_An,_Da_Nang_(71468).jpg
 place:
   id: ChIJ2y5L4dQNQjERxeSLc68fbrw
   name: The Marble Mountains

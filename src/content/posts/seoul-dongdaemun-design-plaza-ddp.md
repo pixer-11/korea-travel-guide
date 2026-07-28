@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Tycho Atsma tychoa / Wikimedia Commons (CC0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:DongDaemun_Design_Plaza_(%EB%8F%99%EB%8C%80%EB%AC%B8%EB%94%94%EC%9E%90%EC%9D%B8%ED%94%8C%EB%9D%BC%EC%9E%90_(DDP)),_Seoul,_South_Korea_(Unsplash_aNSniQXO424).jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Dongdaemun_Design_Plaza_at_night%2C_Seoul%2C_Korea.jpg/1920px-Dongdaemun_Design_Plaza_at_night%2C_Seoul%2C_Korea.jpg
+    credit: 'Photo: Eugene Lim / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Dongdaemun_Design_Plaza_at_night,_Seoul,_Korea.jpg
 place:
   id: "ChIJ8xRYr29FezUR3AtFqx2pIlw"
   name: "Dongdaemun Design Plaza (DDP)"

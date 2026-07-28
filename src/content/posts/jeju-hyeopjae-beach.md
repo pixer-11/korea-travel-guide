@@ -13,7 +13,11 @@ heroImage:
   credit: 'Photo: Lcarrion88 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Hyeopjae_Beach_Scenery.jpg'
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/5785319_k8o1xmqjy4g-yUIjpLqTsHH2_V8BjqyaMhI0FRITIQc.jpg
+    credit: 'Photo: Foursquare user content (Hyeopjae Beach (협재해수욕장))'
+    license: foursquare
+    source: https://foursquare.com/v/4b67defdf964a520d05f2be3
 place:
   id: ChIJ8bBzwwBhDDURAISiRyzO4mw
   name: Hyeopjae Beach

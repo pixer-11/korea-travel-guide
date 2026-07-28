@@ -9,7 +9,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Dongjangdae (Eastern Command Post) (동장대 / 연무대))'
   license: foursquare
   source: https://foursquare.com/v/4bc12be974a9a5931883d1f6
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/63600806_Q-i9W5_aNLyXunRdYl7A-U6WRjF3DBmZMpKlF6xqp0o.jpg
+    credit: 'Photo: Foursquare user content (Dongjangdae (Eastern Command Post) (동장대 / 연무대))'
+    license: foursquare
+    source: https://foursquare.com/v/4bc12be974a9a5931883d1f6
 place:
   id: ChIJM9G40LZcezURA0wZqKNN7OY
   name: Yeonmudae (Dongjangdae/Eastern Command Post)

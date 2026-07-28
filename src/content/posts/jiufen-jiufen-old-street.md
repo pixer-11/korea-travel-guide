@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Another Believer / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:A-Zhu_Peanut_Ice_Cream_Roll,_Jiufen_Old_Street,_2024.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/2/2b/Jiufen_Old_Street_01.jpg
+    credit: 'Photo: Kabacchi / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Jiufen_Old_Street_01.jpg
 place:
   id: "ChIJcZT7-hdFXTQR0qekplqCFV8"
   name: "Jiufen Old Street"

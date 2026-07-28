@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Dragfyre / Wikimedia Commons (CC BY-SA 3.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Po_Nagar_tower_temple_east_face,_Mahisasuramardini_Durga_goddess_on_buffalo.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/04052023_Ponagar_Hindu_temples_complex%2C_Nha_Trang_Vietnam_-_240.jpg/1920px-04052023_Ponagar_Hindu_temples_complex%2C_Nha_Trang_Vietnam_-_240.jpg
+    credit: 'Photo: Ms Sarah Welch / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:04052023_Ponagar_Hindu_temples_complex,_Nha_Trang_Vietnam_-_240.jpg
 place:
   id: "ChIJUfK4YYxncDERfB2v8ZdvXxE"
   name: "Po Nagar Temple"

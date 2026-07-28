@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: kallerna / Wikimedia Commons (CC BY-SA 3.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Railay_Beach_5.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Railay%2C_Krabi%2C_Thailand.jpg/1920px-Railay%2C_Krabi%2C_Thailand.jpg
+    credit: 'Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Railay,_Krabi,_Thailand.jpg
 place:
   id: "ChIJi-WSB57qUTARgVAhfLGL2GE"
   name: "Railay Beach"

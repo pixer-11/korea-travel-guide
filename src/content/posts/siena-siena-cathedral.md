@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Raimond Spekking / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Duomo_di_Siena-9635.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Cathedral_%28Siena%29_-_Dome_interior.jpg/1920px-Cathedral_%28Siena%29_-_Dome_interior.jpg
+    credit: 'Photo: Livioandronico2013 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Cathedral_(Siena)_-_Dome_interior.jpg
 place:
   id: "ChIJw6OmtLssKhMRRd5_XIUZ_VE"
   name: "Siena Cathedral"

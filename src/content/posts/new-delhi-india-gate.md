@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Nikhilb239 / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:India_Gate,_New_Delhi_from_West.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/India_Gate%2C_New_Delhi.jpg/1920px-India_Gate%2C_New_Delhi.jpg
+    credit: 'Photo: Yann / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:India_Gate,_New_Delhi.jpg
 place:
   id: "ChIJC03rqdriDDkRXT6SJRGXFwc"
   name: "India Gate"

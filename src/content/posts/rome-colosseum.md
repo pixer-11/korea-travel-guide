@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Diliff / Wikimedia Commons (CC BY-SA 2.5)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Colosseum_in_Rome-April_2007-1-_copie_2B.jpg"
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/88311132_oowJ-5vCWQkikBxyBshxY5DWDh-_wKxwcl8usJtwjJw.jpg
+    credit: 'Photo: Foursquare user content (Colosseum (Colosseo))'
+    license: foursquare
+    source: https://foursquare.com/v/4adcdac6f964a520355321e3
 place:
   id: "ChIJrRMgU7ZhLxMRxAOFkC7I8Sg"
   name: "Colosseum"

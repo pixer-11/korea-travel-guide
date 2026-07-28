@@ -13,7 +13,11 @@ heroImage:
   credit: 'Photo: Acediscovery / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Roof-Topkapi-Palace-Museum.jpg'
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/8661505_tuj-P--LMRgw99PQS6MwCAwAQFEvg3obizBsFPpbrDM.jpg
+    credit: 'Photo: Foursquare user content (Topkapi Palace Museum Shop)'
+    license: foursquare
+    source: https://foursquare.com/v/52da816f11d2582c105fd30f
 place:
   id: ChIJM_ilr7i5yhQRAFMBw0MZqhU
   name: Topkapi Palace Museum

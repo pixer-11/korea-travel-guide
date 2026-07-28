@@ -9,7 +9,11 @@ heroImage:
   credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Hwaseong_Fortress_01.jpg
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Hwaseong_Fortress_03.jpg/1920px-Hwaseong_Fortress_03.jpg
+    credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Hwaseong_Fortress_03.jpg
 place:
   id: ChIJuy6oD8pcezURQRbto2vkJhM
   name: Suwon Hwaseong Fortress

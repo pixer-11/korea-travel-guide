@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Unknown authorUnknown author / Wikimedia Commons (Public domain)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:San_Sebastian,_Espanha,_inicio_do_S%C3%A9c._XX,_Paseo_de_la_Concha,_Arquivo_de_Villa_Maria,_Angra_do_Hero%C3%ADsmo,_A%C3%A7ores..jpg"
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/2757545_Gpwf0QeqiyAuVkcxNVR3dJ_e3lLxXB4RLxScgf-Gmu4.jpg
+    credit: 'Photo: Foursquare user content (Café de La Concha)'
+    license: foursquare
+    source: https://foursquare.com/v/4bd6e0694e32d13acf39c380
 place:
   id: "ChIJP_E2zau6UQ0R7b-CzcGsb8Y"
   name: "Paseo de La Concha"

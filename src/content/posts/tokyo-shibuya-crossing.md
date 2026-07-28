@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Benh LIEU SONG (Flickr) / Wikimedia Commons (CC BY-SA 2.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Shibuya_Crossing%2C_Aerial.jpg/1920px-Shibuya_Crossing%2C_Aerial.jpg
+    credit: 'Photo: David Kernan / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Shibuya_Crossing,_Aerial.jpg
 place:
   id: "ChIJK9EM68qLGGARacmu4KJj5SA"
   name: "Shibuya Crossing"

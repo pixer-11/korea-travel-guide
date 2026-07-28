@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: SHARON VISHAKHAM / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:AL_NOOR_ISLAND_AND_SHARJAH_AL_MAJAZ.jpg"
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/21319813_PiE4x8zaxuGW4pZA2WpWe0gqVPA8Pr9duITBDcV6g0E.jpg
+    credit: 'Photo: Foursquare user content (Al Noor Island جزيرة النور)'
+    license: foursquare
+    source: https://foursquare.com/v/566e54a6498ef09a2c921baf
 place:
   id: "ChIJDxP0NcFbXz4ReEEm2egacAI"
   name: "Al Noor Island"

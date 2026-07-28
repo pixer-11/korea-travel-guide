@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Depot Madiun Masakan Khas "Bu Rudy")'
   license: foursquare
   source: https://foursquare.com/v/4bb848d9cf2fc9b6a5739f02
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/3272431_SgJ8gpwHxEmeJ99UF5q0XbSqcFDfMaxbWRteE4ghNO4.jpg
+    credit: 'Photo: Foursquare user content (Depot Madiun Masakan Khas "Bu Rudy")'
+    license: foursquare
+    source: https://foursquare.com/v/4bb848d9cf2fc9b6a5739f02
 place:
   id: ChIJzclN-v351y0Rnpji2jU5UXM
   name: Depot Bu Rudy Dharmahusada

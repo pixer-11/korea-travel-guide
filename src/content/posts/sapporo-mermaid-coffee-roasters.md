@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Mermaid Coffee Roasters (マーメイド コーヒー ロースターズ))'
   license: foursquare
   source: https://foursquare.com/v/643a12df065d1311281954ab
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/6187870_VNKpL2EkWmZy_vamddgoFjU51CXDTQ3ct3qz4Ixtyfg.jpg
+    credit: 'Photo: Foursquare user content (Mermaid Coffee Roasters (マーメイド コーヒー ロースターズ))'
+    license: foursquare
+    source: https://foursquare.com/v/643a12df065d1311281954ab
 place:
   id: ChIJMeHdZnApC18RhUmGUbAfkSk
   name: Mermaid Coffee Roasters

@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Hai’s Restaurant)'
   license: foursquare
   source: https://foursquare.com/v/68b5a5028a3663250d525bda
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/25786771_p1myQusm5D8kDiE0hQfHKu27DFQkqTr8PP8xKGbCPPo.jpg
+    credit: 'Photo: Foursquare user content (Hai’s Restaurant)'
+    license: foursquare
+    source: https://foursquare.com/v/68b5a5028a3663250d525bda
 place:
   id: ChIJA9NJLgAvdTERFn-HEn_-hXQ
   name: Hai’s Restaurant

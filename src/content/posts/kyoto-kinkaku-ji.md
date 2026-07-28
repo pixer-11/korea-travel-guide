@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Water_reflection_of_Kinkaku-ji_Temple_a_sunny_day,_Kyoto,_Japan.jpg"
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/593865609_TRuuuc2wIMXt21C7QBefimDj_gzgnmsJVOv-f_xUPF4.jpg
+    credit: 'Photo: Foursquare user content (Kinkaku-ji Temple (鹿苑寺 (金閣寺)))'
+    license: foursquare
+    source: https://foursquare.com/v/4b779d4af964a52016a42ee3
 place:
   id: "ChIJvUbrwCCoAWARX2QiHCsn5A4"
   name: "Kinkaku-ji"

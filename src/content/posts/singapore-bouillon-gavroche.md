@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Boullion Gavroche)'
   license: foursquare
   source: https://foursquare.com/v/69f5cd250fc5a5628ee167dd
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/11182924_wnIjmpC2CaCfcoUSPJLt3_h30loYsR3ciltq1gXSBas.jpg
+    credit: 'Photo: Foursquare user content (Boullion Gavroche)'
+    license: foursquare
+    source: https://foursquare.com/v/69f5cd250fc5a5628ee167dd
 place:
   id: ChIJ71k9NkIZ2jERiLWVC5QUHag
   name: Bouillon Gavroche

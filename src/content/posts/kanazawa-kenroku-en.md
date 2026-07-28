@@ -15,7 +15,11 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:View_towards_Hanami-bashi_with_sakura,_Kenroku-en,_Kanazawa,_2016.jpg
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/20190705_Kenroku-en-6.jpg/1920px-20190705_Kenroku-en-6.jpg
+    credit: 'Photo: Balon Greyjoy / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:20190705_Kenroku-en-6.jpg
 place:
   id: ChIJBVmy-YMz-F8R5PID8D17Cpc
   name: Kenroku-en

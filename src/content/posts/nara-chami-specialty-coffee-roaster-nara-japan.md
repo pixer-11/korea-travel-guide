@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (CHAMI)'
   license: foursquare
   source: https://foursquare.com/v/5dbd0fc66c2a1c00082fafd2
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/525323437_kQ1pJ1sH_N1UMLrVSiSvWQH1ttBvmuGBtJyuZmgF9Ws.jpg
+    credit: 'Photo: Foursquare user content (CHAMI)'
+    license: foursquare
+    source: https://foursquare.com/v/5dbd0fc66c2a1c00082fafd2
 place:
   id: ChIJUffCkl47AWARy6BKw4o3RXY
   name: CHAMI - Specialty Coffee Roaster - Nara, JAPAN

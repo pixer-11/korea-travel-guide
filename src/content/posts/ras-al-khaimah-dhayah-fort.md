@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Mathewkurianp / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Dhayah_Fort_Ras_al_Khaimah.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Dhayah_Fort_of_Ras_Al_Khaimah_%28Fort_1%29.jpg/1920px-Dhayah_Fort_of_Ras_Al_Khaimah_%28Fort_1%29.jpg
+    credit: 'Photo: MoominHussain / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Dhayah_Fort_of_Ras_Al_Khaimah_(Fort_1).jpg
 place:
   id: "ChIJ6a2yXYV69j4R7EBFIcOAxQs"
   name: "Dhayah Fort"

@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Minseong Kim / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Gapyeong-Nami_Island_Ferry.jpg"
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/58905788_fDRMvfLBBK1N0YiEnanmg2iDOOSxMz1YoHfbAzaWLb0.jpg
+    credit: 'Photo: Foursquare user content (Sonata Cafe & Nami Shop (소나타카페))'
+    license: foursquare
+    source: https://foursquare.com/v/51301549e4b0f53f7e1591c1
 place:
   id: "ChIJda9gFeQmYzURIsXnKaOqStY"
   name: "Nami Island"

@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Nazar Kebab (나자르 케밥))'
   license: foursquare
   source: https://foursquare.com/v/4dbe2156fa8cee727378c03c
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/70539277_yOHxoPR6YYf_OEBe2VmQORuJju42Zl4ccn6IyN4G_ik.jpg
+    credit: 'Photo: Foursquare user content (Nazar Kebab (나자르 케밥))'
+    license: foursquare
+    source: https://foursquare.com/v/4dbe2156fa8cee727378c03c
 place:
   id: ChIJfSfIosXjZTURAKAQAs6S0xY
   name: Nazar Kebab

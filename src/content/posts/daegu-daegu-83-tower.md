@@ -13,7 +13,11 @@ heroImage:
   credit: 'Photo: Daegucity.kr / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Daegu_Banner_Lantern_Festival.jpg'
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/530608125_p7lsOU_piuSem3ToYtfT8x3bVzZz_QNzWUTWLUFc7y0.jpg
+    credit: 'Photo: Foursquare user content (83 Tower (83타워))'
+    license: foursquare
+    source: https://foursquare.com/v/4dff5a551850c16c0236fcc9
 place:
   id: ChIJ2YdBV4DkZTURmXneD872kw8
   name: Daegu 83 Tower

@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Stefan Fussan / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Wat_Tham_Suea_SF0001.jpg"
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/32301231_HP6EdFRMZDiQ8JHckJkpXrNCgu-sKYuFJOF1kig6kQ0.jpg
+    credit: 'Photo: Foursquare user content (Wat Thum Sua (วัดถ้ำเสือ))'
+    license: foursquare
+    source: https://foursquare.com/v/4d55046796ed5481fadb0370
 place:
   id: "ChIJO2O10qqWUTAREYioi4E8t1Q"
   name: "Wat Tham Suea"

@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Maxwell Food Centre)'
   license: foursquare
   source: https://foursquare.com/v/4b1f21a6f964a520432424e3
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/838688_rga36C4A6wx1LAWEW31Z-dzaYi9d_9bvBu4MhH1ISEY.jpg
+    credit: 'Photo: Foursquare user content (Maxwell Food Centre)'
+    license: foursquare
+    source: https://foursquare.com/v/4b1f21a6f964a520432424e3
 place:
   id: ChIJseQsTQ0Z2jERqpBTWF0Zf84
   name: Maxwell Food Centre

@@ -14,7 +14,11 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:Teater_Tanah_Airku,_Taman_Mini_Indonesia_Indah_(2023).jpg
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/1223595_wCiv7n5LuiwS92I7qu6fw48IwVa_VduJDxbITvFWbAA.jpg
+    credit: 'Photo: Foursquare user content (Taman Mini Indonesia Indah (TMII))'
+    license: foursquare
+    source: https://foursquare.com/v/4bc8b0a692b376b0baf7513a
 place:
   id: ChIJYaJ20FDtaS4RDNry7LknMQc
   name: Taman Mini Indonesia Indah

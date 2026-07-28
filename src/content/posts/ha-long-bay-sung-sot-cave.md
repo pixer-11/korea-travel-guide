@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Hang Sửng Sốt (Surprising Cave))'
   license: foursquare
   source: https://foursquare.com/v/4d5b304b1287a093ae651d56
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/9924840_b0sdvvGp8sRpjYihUcLJ6L09UxTZy8IW7dzToctXkn4.jpg
+    credit: 'Photo: Foursquare user content (Hang Sửng Sốt (Surprising Cave))'
+    license: foursquare
+    source: https://foursquare.com/v/4d5b304b1287a093ae651d56
 place:
   id: ChIJL4jvm3xaSjERkLl09IYRBPk
   name: Sung Sot Cave

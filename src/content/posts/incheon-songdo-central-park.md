@@ -14,7 +14,11 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:South_Korea,_Incheon,_Songdo,_the_Sharp_Central_Park_Towers.jpg
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/South_Korea%2C_Incheon%2C_Songdo%2C_Sharp_Central_Park_Towers%2C_Prugio_Central_Park_Towers%2C_Sharp_First_World_Towers.jpg/1920px-South_Korea%2C_Incheon%2C_Songdo%2C_Sharp_Central_Park_Towers%2C_Prugio_Central_Park_Towers%2C_Sharp_First_World_Towers.jpg
+    credit: 'Photo: Vincent van Zeijst / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:South_Korea,_Incheon,_Songdo,_Sharp_Central_Park_Towers,_Prugio_Central_Park_Towers,_Sharp_First_World_Towers.jpg
 place:
   id: ChIJR-rlYap3ezURNlKAHaPpVt8
   name: Songdo Central Park

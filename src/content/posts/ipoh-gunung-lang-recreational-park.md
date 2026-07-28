@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: MohdNiza85 / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Gunung_Lang_recreational_park.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Taman_Gunung_Lang.jpg/1920px-Taman_Gunung_Lang.jpg
+    credit: 'Photo: Michael / Wikimedia Commons (Public domain)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Taman_Gunung_Lang.jpg
 place:
   id: "ChIJcRlUrLnsyjERkKAQRWUhUEg"
   name: "Gunung Lang Recreational Park"

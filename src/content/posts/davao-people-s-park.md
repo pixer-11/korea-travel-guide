@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Constantine Agustin from Manila, Philippines / Wikimedia Commons (CC BY-SA 2.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:People%27s_Park_Davao_(4621404876).jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/People%27s_Park_Davao_Benches.jpg/1920px-People%27s_Park_Davao_Benches.jpg
+    credit: 'Photo: RoyKabanlit / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:People%27s_Park_Davao_Benches.jpg
 place:
   id: "ChIJf7hQMHZt-TIRGg4U2az0c6M"
   name: "People’s Park"

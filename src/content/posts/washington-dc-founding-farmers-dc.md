@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Mack Male from Edmonton, AB, Canada / Wikimedia Commons (CC BY-SA 2.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Founding_Farmers_(3564997859).jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Founding_Farmers_%283565819904%29.jpg/1920px-Founding_Farmers_%283565819904%29.jpg
+    credit: 'Photo: Mack Male from Edmonton, AB, Canada / Wikimedia Commons (CC BY-SA 2.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Founding_Farmers_(3565819904).jpg
 place:
   id: "ChIJk58zcbq3t4kR9VDFZdcB5uE"
   name: "Founding Farmers DC"

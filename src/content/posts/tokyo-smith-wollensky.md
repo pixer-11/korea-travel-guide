@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Smith & Wollensky GINZA)'
   license: foursquare
   source: https://foursquare.com/v/69ffff169545e75813a2b47f
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/7852602_TlZNoVCGj2GeuDWzsiNgUxrZdMnK9ZLfG9OmHkwpivw.jpg
+    credit: 'Photo: Foursquare user content (Smith & Wollensky GINZA)'
+    license: foursquare
+    source: https://foursquare.com/v/69ffff169545e75813a2b47f
 place:
   id: ChIJYYYAAwCLGGARNV_QjU_B4Js
   name: Smith & Wollensky GINZA

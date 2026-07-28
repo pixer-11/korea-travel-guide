@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: yeowatzup / Wikimedia Commons (CC BY 2.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Chew_Jetty,_Georgetown,_Penang,_Malaysia_(5257748526).jpg"
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/10800689_auOea5n6XvDklLDlvHH6WkKqEN9rUZZVf5CzA-KVebM.jpg
+    credit: 'Photo: Foursquare user content (The Clan Jetty - 姓周桥 Chew Jetty)'
+    license: foursquare
+    source: https://foursquare.com/v/4c49dbc1a3ace21e0d982e3c
 place:
   id: "ChIJ50W1D43DSjARlPqYV1MqscE"
   name: "Chew Jetty"

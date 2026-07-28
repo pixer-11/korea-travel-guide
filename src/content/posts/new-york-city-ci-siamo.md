@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Transpoman / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Ci_Siamo_NYC.jpg
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/119904289_WxH-9l-hMntPbhgOrzsNS3E00OAXS3BhLg6vI4wno40.jpg
+    credit: 'Photo: Foursquare user content (Ci Siamo)'
+    license: foursquare
+    source: https://foursquare.com/v/6143511ae2e30336c071a767
 place:
   id: ChIJ_ci7bvdZwokRsL4rlCOqsMk
   name: Ci Siamo

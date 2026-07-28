@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Puerto_Princesa_Subterranean_Park,_limestone_formations,_Palawan,_Philippines.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Puerto_Princesa_Subterranean_River_National_Park_Palawan_13.jpg/1920px-Puerto_Princesa_Subterranean_River_National_Park_Palawan_13.jpg
+    credit: 'Photo: Philip Nalangan / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Puerto_Princesa_Subterranean_River_National_Park_Palawan_13.jpg
 place:
   id: "ChIJ2S2fQEKRtTMRxH_ykqtdyx4"
   name: "Puerto Princesa Subterranean River National Park"

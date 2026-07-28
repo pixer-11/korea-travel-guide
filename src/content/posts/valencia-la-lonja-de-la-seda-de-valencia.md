@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Lonja_de_la_Seda,_Valencia,_Espa%C3%B1a,_2014-06-29,_DD_23-25_HDR.JPG"
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/85854221_-z3gnbhBjfvjFXHA4eJ724k6vWm6FiKeRQ8xrALq2Pk.jpg
+    credit: 'Photo: Foursquare user content (Llotja de la Seda)'
+    license: foursquare
+    source: https://foursquare.com/v/4d70af49d0f6a09051849262
 place:
   id: "ChIJ8_5rwk1PYA0RxMucY8qxErc"
   name: "La Lonja de la Seda de Valencia"

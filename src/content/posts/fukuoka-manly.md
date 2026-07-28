@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Australian Cafe & Bar Manly)'
   license: foursquare
   source: https://foursquare.com/v/4b5b26f3f964a520dae628e3
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/81002774_x_ji6d2X6LgOdAwWt7uq6Nx85lMltF8iAdrMgg2WF3A.jpg
+    credit: 'Photo: Foursquare user content (Australian Cafe & Bar Manly)'
+    license: foursquare
+    source: https://foursquare.com/v/4b5b26f3f964a520dae628e3
 place:
   id: ChIJEwPd7ISRQTURvlcwQX4s9xM
   name: Manly

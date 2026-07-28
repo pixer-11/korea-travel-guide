@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg"
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/4089262_TAGOA0XCgTQbeD3ij8-Av9l1eW6r2J38BaGBHYvE6R8.jpg
+    credit: 'Photo: Foursquare user content (Bukchon Hanok Village (북촌한옥마을))'
+    license: foursquare
+    source: https://foursquare.com/v/4bbed04dba9776b01d47fec8
 place:
   id: "ChIJpW84ltqjfDUR6yFNUAgpJzc"
   name: "Bukchon Yukgyeong (Photo Spot)"

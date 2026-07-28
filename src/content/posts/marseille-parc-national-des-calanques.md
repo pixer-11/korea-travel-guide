@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Eris.spiller / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Le_parc_des_calanques_de_Marseille.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/PN_des_Calanques_-_02.jpg/1920px-PN_des_Calanques_-_02.jpg
+    credit: 'Photo: Benjamin Smith / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:PN_des_Calanques_-_02.jpg
 place:
   id: "ChIJySHEzzW4yRIRniAPBwmntxo"
   name: "Parc national des Calanques"

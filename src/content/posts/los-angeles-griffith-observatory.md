@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Griffith Observatory)'
   license: foursquare
   source: https://foursquare.com/v/4a6e5d0df964a52093d41fe3
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Los_Angeles_Pollution.jpg/1920px-Los_Angeles_Pollution.jpg
+    credit: 'Photo: Diliff / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Los_Angeles_Pollution.jpg
 place:
   id: ChIJywjU6WG_woAR3NrWwrEH_3M
   name: Griffith Observatory

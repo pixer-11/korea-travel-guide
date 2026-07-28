@@ -9,7 +9,11 @@ heroImage:
   credit: 'Photo: Mobius6 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Chinatown,_incheon_20230430_002.jpg
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/61459891_sSCg9lxImWYJR-RX7zl0P6lLSQNbRPKG6UXBpRyvDOc.jpg
+    credit: 'Photo: Foursquare user content (Chinatown (차이나타운))'
+    license: foursquare
+    source: https://foursquare.com/v/4b64364ff964a52058a42ae3
 place:
   id: ChIJ14998Jp4ezURyTMW5UI09Jc
   name: Incheon Chinatown
