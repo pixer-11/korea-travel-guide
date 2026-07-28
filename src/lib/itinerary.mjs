@@ -155,11 +155,19 @@ export function haversineKm(aLat, aLng, bLat, bLng) {
 export function walkLeg(a, b) {
   const A = a.data.place, B = b.data.place;
   const km = haversineKm(A.lat, A.lng, B.lat, B.lng) * 1.3; // 1.3 = street-grid detour factor
-  const transit = km > TRANSIT_KM;
+
+  // R4: Check if destination is reached by water/ferry (even if <2km walking would suggest walk)
+  // If the destination post mentions ferry/pier/river crossing, it's not a walking route
+  const destText = (String(b.data?.title || '') + ' ' + String(b.body || '')).toLowerCase();
+  const isWaterCrossing = /\bferry\b/.test(destText) || /\bpier\b/.test(destText) ||
+                          /\bcross the river\b/.test(destText) || /\bboat\b/.test(destText);
+
+  const transit = km > TRANSIT_KM || isWaterCrossing;
   return {
     km: Math.round(km * 10) / 10,
     // Only return minutes for walkable legs. Transit legs use TRANSIT_FLAT_MIN (~30 min) in budget;
-    // we never estimate actual transit times as the page links Google Maps for real routing
+    // we never estimate actual transit times as the page links Google Maps for real routing.
+    // Water crossings especially: we cannot stand behind a walking estimate for something requiring a ferry.
     minutes: transit ? null : Math.round((km / WALK_KMH) * 60),
     transit
   };
@@ -230,8 +238,31 @@ function clusterByDay(posts, days) {
   return clusters;
 }
 
+// Detect time-of-day preference from post's own text (R2).
+// Returns 'evening', 'morning', or null if no strong signals.
+export function preferredSlot(post) {
+  const body = String(post.body || '');
+  const title = String(post.data?.title || '');
+  const text = (body + ' ' + title).toLowerCase();
+
+  // Evening signals override morning
+  if (/\bdinner\b/.test(text)) return 'evening';
+  if (/\bevening\b/.test(text)) return 'evening';
+  if (/\bnight(life|s)?\b/.test(text)) return 'evening';
+  if (/\bafter\s+\d+\s*pm\b/.test(text)) return 'evening';
+  if (/\bbar[\s-]club\b/.test(text)) return 'evening';
+  if (/\brooftop\s+bar\b/.test(text)) return 'evening';
+
+  // Morning signals
+  if (/\bbreakfast\b/.test(text)) return 'morning';
+  if (/\bbrunch\b/.test(text)) return 'morning';
+  if (/\bmorning\b/.test(text)) return 'morning';
+
+  return null;
+}
+
 // Order one day: quiet-morning anchor first, nearest-neighbor after, restaurant
-// into the lunch slot, latest-open venue into the evening slot (noctourism).
+// into the lunch slot with minimal detour (R1), respecting time-of-day preferences (R2).
 function planDay(cluster, stopsWanted) {
   const restaurants = cluster.filter((p) => p.data.category === 'restaurant');
   const sights = cluster.filter((p) => p.data.category !== 'restaurant');
@@ -263,9 +294,36 @@ function planDay(cluster, stopsWanted) {
   // Position 0: morning (first sight)
   stops.push({ post: picked[0], slot: 'morning' });
 
-  // Position 1: lunch (after morning, if restaurant exists)
-  if (restaurants.length > 0) {
-    stops.push({ post: restaurants.shift(), slot: 'lunch' });
+  // R1: Pick lunch restaurant with minimal detour (added distance to route)
+  // Only schedule lunch if best restaurant adds < 2.5 km detour; otherwise skip
+  const LUNCH_DETOUR_THRESHOLD = 2.5;
+  let bestLunch = null, bestLunchDetour = Infinity;
+
+  if (restaurants.length > 0 && picked.length >= 2) {
+    for (const rest of restaurants) {
+      // Detour cost: dist(morning → rest) + dist(rest → next) - dist(morning → next)
+      const prevStop = stops[0].post;
+      const nextStop = picked[1];
+      const baseDist = haversineKm(prevStop.data.place.lat, prevStop.data.place.lng, nextStop.data.place.lat, nextStop.data.place.lng);
+      const detourDist = haversineKm(prevStop.data.place.lat, prevStop.data.place.lng, rest.data.place.lat, rest.data.place.lng) +
+                        haversineKm(rest.data.place.lat, rest.data.place.lng, nextStop.data.place.lat, nextStop.data.place.lng) - baseDist;
+
+      if (detourDist < bestLunchDetour) {
+        bestLunchDetour = detourDist;
+        bestLunch = rest;
+      }
+    }
+
+    // R2: Respect time-of-day preferences — only place if preference allows lunch
+    if (bestLunch && bestLunchDetour < LUNCH_DETOUR_THRESHOLD) {
+      const pref = preferredSlot(bestLunch);
+      if (pref !== 'evening' && pref !== 'morning') {
+        stops.push({ post: bestLunch, slot: 'lunch' });
+        // Remove used restaurant
+        const idx = restaurants.indexOf(bestLunch);
+        if (idx !== -1) restaurants.splice(idx, 1);
+      }
+    }
   }
 
   // Position 2...n-1: afternoon (all sights except first and last)
@@ -316,9 +374,36 @@ export function buildItinerary(posts, { days }) {
     if (stops.length === 0) {
       return { ok: false, reason: `day ${d + 1} has no stops (restaurant-only or under-provisioned cluster)`, days: [] };
     }
-    // indoor rain swap: an unused venue in this cluster whose category suggests indoor
+    // R3: Find best indoor rain swap from entire city (not just this day's cluster)
     const used = new Set(out.flatMap((x) => x.stops.map((s) => s.slug)).concat(stops.map((s) => s.post.id)));
-    const rain = clusters[d].find((p) => !used.has(p.id) && /museum|market|mall|gallery|aquarium|tower|temple hall/i.test(p.data.title + ' ' + (p.data.tags || []).join(' ')));
+
+    // Score posts as indoor-likely by category + keywords
+    const isIndoorLikely = (p) => {
+      const cat = p.data.category;
+      if (cat === 'restaurant' || cat === 'trendy') return true;
+      const text = (p.data.title + ' ' + (p.data.tags || []).join(' ')).toLowerCase();
+      return /museum|gallery|mall|market|aquarium|arcade|spa|onsen|cafe|teahouse|department|store|hall|centre|center|library|bathhouse/i.test(text);
+    };
+
+    // Find unused indoor posts from city; pick nearest to day's geographic centre
+    let rain = null;
+    if (stops.length > 0) {
+      const dayCenter = {
+        lat: stops.reduce((s, stop) => s + stop.post.data.place.lat, 0) / stops.length,
+        lng: stops.reduce((s, stop) => s + stop.post.data.place.lng, 0) / stops.length,
+      };
+
+      let bestDist = Infinity;
+      for (const p of q) {
+        if (!used.has(p.id) && isIndoorLikely(p)) {
+          const d = haversineKm(dayCenter.lat, dayCenter.lng, p.data.place.lat, p.data.place.lng);
+          if (d < bestDist) {
+            bestDist = d;
+            rain = p;
+          }
+        }
+      }
+    }
     out.push({
       stops: stops.map((s, i) => ({
         slug: s.post.id,

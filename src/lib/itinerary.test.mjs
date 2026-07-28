@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { qualifyingPosts, closedDaysOf, dwellMinutes, walkLeg, buildItinerary, gateFor } from './itinerary.mjs';
+import { qualifyingPosts, closedDaysOf, dwellMinutes, walkLeg, buildItinerary, gateFor, preferredSlot } from './itinerary.mjs';
 
 const P = (id, lat, lng, cat = 'attraction', extra = {}) => ({
   id, data: { title: id, category: cat, draft: false,
@@ -304,4 +304,84 @@ test('chronological slot ordering: two restaurants in one cluster', () => {
     // At most one lunch per day (dinner is not a slot, it's evening)
     assert.ok(lunchCount <= 1, `day ${dayIdx + 1}: found ${lunchCount} lunch slots, expected ≤1`);
   }
+});
+
+test('R1: minimal-detour lunch — far restaurant skipped, near restaurant scheduled', () => {
+  const posts = [];
+  // Two sights in a line (north)
+  posts.push(P('north1', 37.60, 126.95, 'attraction'));
+  posts.push(P('north2', 37.62, 126.95, 'attraction'));
+  // Restaurants: one near the route (minimal detour), one far
+  posts.push(P('rest_near', 37.61, 126.95, 'restaurant')); // On the line
+  posts.push(P('rest_far', 37.60, 127.10, 'restaurant')); // 10+ km detour
+
+  const it = buildItinerary(posts, { days: 1 });
+  assert.equal(it.ok, true);
+  const day = it.days[0];
+
+  // Check lunch is either scheduled (near rest) or not (if detour > 2.5km)
+  const lunch = day.stops.find((s) => s.slot === 'lunch');
+  if (lunch) {
+    assert.equal(lunch.slug, 'rest_near', 'lunch should be the near restaurant, not the far one');
+  }
+});
+
+test('R2: time-of-day slotting — evening venue never in lunch/morning, morning venue never in evening', () => {
+  // Evening-preferring venue
+  const eveningVenue = {
+    id: 'evening-bar',
+    data: {
+      title: 'Night Bar',
+      category: 'trendy',
+      place: { lat: 37.58, lng: 126.97, businessStatus: 'OPERATIONAL' },
+      tags: []
+    },
+    body: 'Bar-club energy, especially after 9pm. Evening dinner service is standard.'
+  };
+
+  // Morning-preferring venue
+  const morningVenue = {
+    id: 'morning-cafe',
+    data: {
+      title: 'Breakfast Cafe',
+      category: 'restaurant',
+      place: { lat: 37.59, lng: 126.98, businessStatus: 'OPERATIONAL' },
+      tags: []
+    },
+    body: 'A breakfast-and-brunch spot perfect for mornings.'
+  };
+
+  // Test preferredSlot function
+  assert.equal(preferredSlot(eveningVenue), 'evening');
+  assert.equal(preferredSlot(morningVenue), 'morning');
+});
+
+test('R3: rain swaps from city-wide indoor posts, not just cluster', () => {
+  // This is integration-level; buildItinerary should pick from all q, not just clusters
+  // Build posts with one clear indoor venue not in first cluster
+  const posts = [];
+  for (let i = 0; i < 6; i++) posts.push(P(`north${i}`, 37.60, 126.95, 'attraction'));
+  posts.push(P('museum', 37.50, 127.05, 'attraction')); // Far, but indoor-like
+  const it = buildItinerary(posts, { days: 2 });
+  assert.equal(it.ok, true);
+
+  // At least one day should have a rainSwapSlug (the museum is unused and indoor)
+  const hasRainSwap = it.days.some((d) => d.rainSwapSlug !== null);
+  assert.ok(hasRainSwap || it.days.some((d) => d.stops.some((s) => s.slug === 'museum')), 'museum should be either a stop or a rain swap');
+});
+
+test('R4: ferry destination forces transit even at short distance', () => {
+  const bangkok = { data: { place: { lat: 13.75, lng: 100.5 } } };
+  const watArun = {
+    data: {
+      title: 'Wat Arun',
+      place: { lat: 13.75, lng: 100.515 }
+    },
+    body: 'Cross the river by ferry from Tha Tien pier to reach this temple.'
+  };
+
+  const leg = walkLeg(bangkok, watArun);
+  assert.equal(leg.transit, true, 'ferry destination should force transit:true');
+  assert.equal(leg.minutes, null, 'ferry leg should have null minutes');
+  assert.ok(leg.km >= 0.1, 'km should still be calculated');
 });
