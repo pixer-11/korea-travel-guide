@@ -1,0 +1,22 @@
+---
+import WhenToGoPage from '../../../../../components/WhenToGoPage.astro';
+import { whenToGoPages } from '../../../../../lib/when-to-go-paths.mjs';
+import type { Lang } from '../../../../../i18n/utils';
+
+// Localized twins of /tools/when-to-go/<country>/<month>. Paths come from the
+// same builder the English route uses, so the two sets can never disagree.
+export async function getStaticPaths() {
+  const LANGS: Lang[] = ['ko', 'ja', 'es', 'zh'];
+  const pages = await whenToGoPages();
+  return LANGS.flatMap((lang) =>
+    pages.map(({ countrySlug, monthSlug, data }) => ({
+      params: { lang, country: countrySlug, month: monthSlug },
+      props: { data, countrySlug, lang },
+    }))
+  );
+}
+
+const { data, countrySlug, lang } = Astro.props;
+---
+
+<WhenToGoPage data={data} countrySlug={countrySlug} lang={lang} />

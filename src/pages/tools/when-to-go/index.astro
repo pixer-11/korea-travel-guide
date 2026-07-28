@@ -1,0 +1,7 @@
+---
+import WhenToGoIndex from '../../../components/WhenToGoIndex.astro';
+import { whenToGoCountries } from '../../../lib/when-to-go-paths.mjs';
+const countries = await whenToGoCountries();
+---
+
+<WhenToGoIndex countries={countries} lang="en" />

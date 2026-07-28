@@ -64,22 +64,69 @@ async function climate(lat, lng) {
   }));
 }
 
+// Nager.Date covers most of Europe and the Americas but simply has no data for
+// several countries this site publishes in — Thailand, the UAE, Taiwan, Malaysia
+// and India all came back empty, which is why their essentials pages showed no
+// holidays at all. Google's public holiday calendars cover them and are free, so
+// they serve as the fallback. Two id shapes are in use (en.th, but taiwan /
+// malaysia / indian), hence the candidate list.
+// Google uses two id shapes and which one a country answers to is not guessable:
+// some are <lang>.<iso2> (en.th), others <lang>.<name> (tw.taiwan, ms.malaysia,
+// en.indian). Each country lists the forms that were verified to return events.
+const GCAL_IDS = {
+  th: ['en.th'], ae: ['en.ae'], tw: ['tw.taiwan', 'en.tw'],
+  my: ['ms.malaysia', 'en.my'], in: ['en.indian', 'en.in'],
+};
+
+/** Minimal ICS reader: all-day VEVENTs are DTSTART;VALUE=DATE:YYYYMMDD + SUMMARY. */
+function parseIcs(text, years) {
+  const out = [];
+  for (const block of text.split('BEGIN:VEVENT').slice(1)) {
+    const date = block.match(/DTSTART[^:\r\n]*:(\d{8})/)?.[1];
+    const name = block.match(/SUMMARY:(.+)/)?.[1]?.trim();
+    if (!date || !name) continue;
+    const iso = `${date.slice(0, 4)}-${date.slice(4, 6)}-${date.slice(6, 8)}`;
+    if (!years.includes(Number(date.slice(0, 4)))) continue;
+    out.push({ date: iso, localName: name, name });
+  }
+  return out;
+}
+
+async function gcalHolidays(iso2, years) {
+  for (const id of GCAL_IDS[iso2.toLowerCase()] ?? []) {
+    try {
+      const url = `https://calendar.google.com/calendar/ical/${encodeURIComponent(id)}%23holiday%40group.v.calendar.google.com/public/basic.ics`;
+      const res = await fetch(url);
+      if (!res.ok) continue;
+      const hits = parseIcs(await res.text(), years);
+      if (hits.length) return hits;
+    } catch { /* try the next id */ }
+  }
+  return [];
+}
+
 async function holidays(iso2) {
   const y = new Date().getUTCFullYear();
+  const years = [y, y + 1];
   const all = [];
-  for (const year of [y, y + 1]) {
-    const res = await fetch(`https://date.nager.at/api/v3/PublicHolidays/${year}/${iso2.toUpperCase()}`);
-    if (!res.ok) continue; // country not covered by Nager — fine
-    const list = await res.json();
-    if (!Array.isArray(list)) continue;
-    for (const h of list) {
-      if (!h.date || !(h.global ?? true)) continue; // nationwide only
-      all.push({ date: h.date, localName: h.localName, name: h.name });
-    }
+  for (const year of years) {
+    try {
+      const res = await fetch(`https://date.nager.at/api/v3/PublicHolidays/${year}/${iso2.toUpperCase()}`);
+      if (!res.ok) continue; // country not covered by Nager — the fallback handles it
+      const list = await res.json();
+      if (!Array.isArray(list)) continue;
+      for (const h of list) {
+        if (!h.date || !(h.global ?? true)) continue; // nationwide only
+        all.push({ date: h.date, localName: h.localName, name: h.name });
+      }
+    } catch { /* not covered, or a bad body — fall through */ }
   }
+  if (!all.length) all.push(...(await gcalHolidays(iso2, years)));
   // De-dupe (Nager sometimes repeats regional variants of the same day+name).
   const seen = new Set();
-  return all.filter((h) => { const k = h.date + h.name; if (seen.has(k)) return false; seen.add(k); return true; });
+  return all
+    .filter((h) => { const k = h.date + h.name; if (seen.has(k)) return false; seen.add(k); return true; })
+    .sort((a, b) => a.date.localeCompare(b.date));
 }
 
 async function main() {

@@ -1,79 +1,79 @@
 {
-  "updated": "2026-07-25",
+  "updated": "2026-07-28",
   "countries": {
     "South Korea": {
       "climate": [
         {
           "m": 1,
-          "hi": 4,
-          "lo": -6,
-          "rain": 8
+          "hi": 1,
+          "lo": -7,
+          "rain": 18
         },
         {
           "m": 2,
-          "hi": 4,
-          "lo": -6,
-          "rain": 6
+          "hi": 1,
+          "lo": -8,
+          "rain": 5
         },
         {
           "m": 3,
-          "hi": 14,
-          "lo": 1,
-          "rain": 41
+          "hi": 11,
+          "lo": -1,
+          "rain": 53
         },
         {
           "m": 4,
-          "hi": 21,
-          "lo": 6,
-          "rain": 64
+          "hi": 17,
+          "lo": 5,
+          "rain": 86
         },
         {
           "m": 5,
-          "hi": 23,
-          "lo": 11,
-          "rain": 100
+          "hi": 21,
+          "lo": 10,
+          "rain": 103
         },
         {
           "m": 6,
-          "hi": 29,
-          "lo": 18,
-          "rain": 285
+          "hi": 27,
+          "lo": 17,
+          "rain": 131
         },
         {
           "m": 7,
-          "hi": 33,
+          "hi": 30,
           "lo": 22,
-          "rain": 149
+          "rain": 259
         },
         {
           "m": 8,
-          "hi": 33,
+          "hi": 29,
           "lo": 23,
-          "rain": 107
+          "rain": 171
         },
         {
           "m": 9,
-          "hi": 27,
-          "lo": 19,
-          "rain": 144
+          "hi": 25,
+          "lo": 18,
+          "rain": 290
         },
         {
           "m": 10,
-          "hi": 20,
-          "lo": 12,
-          "rain": 178
+          "hi": 19,
+          "lo": 11,
+          "rain": 173
         },
         {
           "m": 11,
-          "hi": 14,
+          "hi": 11,
           "lo": 1,
-          "rain": 6
+          "rain": 15
         },
         {
           "m": 12,
-          "hi": 6,
-          "lo": -4,
-          "rain": 16
+          "hi": 3,
+          "lo": -6,
+          "rain": 62
         }
       ],
       "holidays": [
@@ -258,75 +258,75 @@
       "climate": [
         {
           "m": 1,
-          "hi": 8,
+          "hi": 10,
           "lo": 0,
           "rain": 20
         },
         {
           "m": 2,
-          "hi": 7,
-          "lo": -1,
-          "rain": 26
+          "hi": 9,
+          "lo": 0,
+          "rain": 28
         },
         {
           "m": 3,
-          "hi": 13,
+          "hi": 14,
           "lo": 4,
-          "rain": 103
+          "rain": 115
         },
         {
           "m": 4,
-          "hi": 19,
-          "lo": 8,
-          "rain": 72
+          "hi": 20,
+          "lo": 9,
+          "rain": 132
         },
         {
           "m": 5,
-          "hi": 22,
+          "hi": 23,
           "lo": 14,
-          "rain": 212
+          "rain": 249
         },
         {
           "m": 6,
-          "hi": 28,
+          "hi": 27,
           "lo": 19,
-          "rain": 258
+          "rain": 261
         },
         {
           "m": 7,
-          "hi": 34,
+          "hi": 32,
           "lo": 25,
-          "rain": 162
+          "rain": 192
         },
         {
           "m": 8,
-          "hi": 34,
+          "hi": 35,
           "lo": 25,
-          "rain": 126
+          "rain": 117
         },
         {
           "m": 9,
           "hi": 30,
           "lo": 22,
-          "rain": 179
+          "rain": 182
         },
         {
           "m": 10,
           "hi": 23,
           "lo": 16,
-          "rain": 131
+          "rain": 177
         },
         {
           "m": 11,
-          "hi": 16,
+          "hi": 17,
           "lo": 7,
-          "rain": 36
+          "rain": 47
         },
         {
           "m": 12,
-          "hi": 11,
-          "lo": 2,
-          "rain": 60
+          "hi": 12,
+          "lo": 3,
+          "rain": 71
         }
       ],
       "holidays": [
@@ -361,11 +361,6 @@
           "name": "Shōwa Day"
         },
         {
-          "date": "2026-05-06",
-          "localName": "憲法記念日",
-          "name": "Constitution Memorial Day"
-        },
-        {
           "date": "2026-05-04",
           "localName": "みどりの日",
           "name": "Greenery Day"
@@ -374,6 +369,11 @@
           "date": "2026-05-05",
           "localName": "こどもの日",
           "name": "Children's Day"
+        },
+        {
+          "date": "2026-05-06",
+          "localName": "憲法記念日",
+          "name": "Constitution Memorial Day"
         },
         {
           "date": "2026-07-20",
@@ -498,49 +498,49 @@
           "m": 1,
           "hi": 3,
           "lo": -5,
-          "rain": 91
+          "rain": 89
         },
         {
           "m": 2,
           "hi": 7,
           "lo": -3,
-          "rain": 62
+          "rain": 60
         },
         {
           "m": 3,
           "hi": 18,
-          "lo": 5,
-          "rain": 56
+          "lo": 6,
+          "rain": 66
         },
         {
           "m": 4,
           "hi": 20,
           "lo": 10,
-          "rain": 201
+          "rain": 196
         },
         {
           "m": 5,
           "hi": 22,
           "lo": 13,
-          "rain": 109
+          "rain": 100
         },
         {
           "m": 6,
-          "hi": 28,
+          "hi": 29,
           "lo": 20,
-          "rain": 154
+          "rain": 159
         },
         {
           "m": 7,
-          "hi": 31,
-          "lo": 22,
-          "rain": 86
+          "hi": 32,
+          "lo": 23,
+          "rain": 98
         },
         {
           "m": 8,
-          "hi": 29,
+          "hi": 30,
           "lo": 19,
-          "rain": 19
+          "rain": 12
         },
         {
           "m": 9,
@@ -552,19 +552,19 @@
           "m": 10,
           "hi": 22,
           "lo": 12,
-          "rain": 107
+          "rain": 109
         },
         {
           "m": 11,
-          "hi": 14,
+          "hi": 15,
           "lo": 5,
-          "rain": 59
+          "rain": 60
         },
         {
           "m": 12,
           "hi": 9,
           "lo": -1,
-          "rain": 23
+          "rain": 20
         }
       ],
       "holidays": [
@@ -755,81 +755,342 @@
           "rain": 11
         }
       ],
-      "holidays": []
+      "holidays": [
+        {
+          "date": "2026-01-01",
+          "localName": "New Year's Day",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2026-01-02",
+          "localName": "New Year Special Holiday",
+          "name": "New Year Special Holiday"
+        },
+        {
+          "date": "2026-02-14",
+          "localName": "Valentine's Day",
+          "name": "Valentine's Day"
+        },
+        {
+          "date": "2026-02-17",
+          "localName": "Chinese New Year's Day",
+          "name": "Chinese New Year's Day"
+        },
+        {
+          "date": "2026-02-18",
+          "localName": "Second Day of Chinese New Year",
+          "name": "Second Day of Chinese New Year"
+        },
+        {
+          "date": "2026-02-19",
+          "localName": "Third Day of Chinese New Year",
+          "name": "Third Day of Chinese New Year"
+        },
+        {
+          "date": "2026-03-03",
+          "localName": "Makha Bucha",
+          "name": "Makha Bucha"
+        },
+        {
+          "date": "2026-04-06",
+          "localName": "Chakri Day",
+          "name": "Chakri Day"
+        },
+        {
+          "date": "2026-04-13",
+          "localName": "Songkran",
+          "name": "Songkran"
+        },
+        {
+          "date": "2026-04-14",
+          "localName": "Songkran Holiday",
+          "name": "Songkran Holiday"
+        },
+        {
+          "date": "2026-04-15",
+          "localName": "Songkran Holiday",
+          "name": "Songkran Holiday"
+        },
+        {
+          "date": "2026-05-01",
+          "localName": "Labor Day",
+          "name": "Labor Day"
+        },
+        {
+          "date": "2026-05-04",
+          "localName": "Coronation Day",
+          "name": "Coronation Day"
+        },
+        {
+          "date": "2026-05-13",
+          "localName": "Royal Ploughing Ceremony Day",
+          "name": "Royal Ploughing Ceremony Day"
+        },
+        {
+          "date": "2026-05-31",
+          "localName": "Visakha Bucha",
+          "name": "Visakha Bucha"
+        },
+        {
+          "date": "2026-06-01",
+          "localName": "Day off for Visakha Bucha",
+          "name": "Day off for Visakha Bucha"
+        },
+        {
+          "date": "2026-06-03",
+          "localName": "Queen Suthida's Birthday",
+          "name": "Queen Suthida's Birthday"
+        },
+        {
+          "date": "2026-07-28",
+          "localName": "King Vajiralongkorn's Birthday",
+          "name": "King Vajiralongkorn's Birthday"
+        },
+        {
+          "date": "2026-07-29",
+          "localName": "Asalha Bucha",
+          "name": "Asalha Bucha"
+        },
+        {
+          "date": "2026-08-12",
+          "localName": "The Queen Mother's Birthday",
+          "name": "The Queen Mother's Birthday"
+        },
+        {
+          "date": "2026-10-13",
+          "localName": "Anniversary of the Death of King Bhumibol",
+          "name": "Anniversary of the Death of King Bhumibol"
+        },
+        {
+          "date": "2026-10-23",
+          "localName": "Chulalongkorn Day",
+          "name": "Chulalongkorn Day"
+        },
+        {
+          "date": "2026-12-05",
+          "localName": "King Bhumibol's Birthday",
+          "name": "King Bhumibol's Birthday"
+        },
+        {
+          "date": "2026-12-07",
+          "localName": "King Bhumibol's Birthday observed",
+          "name": "King Bhumibol's Birthday observed"
+        },
+        {
+          "date": "2026-12-10",
+          "localName": "Constitution Day",
+          "name": "Constitution Day"
+        },
+        {
+          "date": "2026-12-24",
+          "localName": "Christmas Eve",
+          "name": "Christmas Eve"
+        },
+        {
+          "date": "2026-12-25",
+          "localName": "Christmas Day",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2026-12-31",
+          "localName": "New Year's Eve",
+          "name": "New Year's Eve"
+        },
+        {
+          "date": "2027-01-01",
+          "localName": "New Year's Day",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2027-02-06",
+          "localName": "Chinese New Year's Day",
+          "name": "Chinese New Year's Day"
+        },
+        {
+          "date": "2027-02-07",
+          "localName": "Second Day of Chinese New Year",
+          "name": "Second Day of Chinese New Year"
+        },
+        {
+          "date": "2027-02-08",
+          "localName": "Third Day of Chinese New Year",
+          "name": "Third Day of Chinese New Year"
+        },
+        {
+          "date": "2027-02-14",
+          "localName": "Valentine's Day",
+          "name": "Valentine's Day"
+        },
+        {
+          "date": "2027-04-06",
+          "localName": "Chakri Day",
+          "name": "Chakri Day"
+        },
+        {
+          "date": "2027-04-13",
+          "localName": "Songkran",
+          "name": "Songkran"
+        },
+        {
+          "date": "2027-04-14",
+          "localName": "Songkran Holiday",
+          "name": "Songkran Holiday"
+        },
+        {
+          "date": "2027-04-15",
+          "localName": "Songkran Holiday",
+          "name": "Songkran Holiday"
+        },
+        {
+          "date": "2027-05-01",
+          "localName": "Labor Day",
+          "name": "Labor Day"
+        },
+        {
+          "date": "2027-05-03",
+          "localName": "Labor Day observed",
+          "name": "Labor Day observed"
+        },
+        {
+          "date": "2027-05-04",
+          "localName": "Coronation Day",
+          "name": "Coronation Day"
+        },
+        {
+          "date": "2027-06-03",
+          "localName": "Queen Suthida's Birthday",
+          "name": "Queen Suthida's Birthday"
+        },
+        {
+          "date": "2027-07-28",
+          "localName": "King Vajiralongkorn's Birthday",
+          "name": "King Vajiralongkorn's Birthday"
+        },
+        {
+          "date": "2027-08-12",
+          "localName": "The Queen Mother's Birthday",
+          "name": "The Queen Mother's Birthday"
+        },
+        {
+          "date": "2027-10-13",
+          "localName": "Anniversary of the Death of King Bhumibol",
+          "name": "Anniversary of the Death of King Bhumibol"
+        },
+        {
+          "date": "2027-10-23",
+          "localName": "Chulalongkorn Day",
+          "name": "Chulalongkorn Day"
+        },
+        {
+          "date": "2027-10-25",
+          "localName": "Day off for Chulalongkorn Day",
+          "name": "Day off for Chulalongkorn Day"
+        },
+        {
+          "date": "2027-12-05",
+          "localName": "King Bhumibol's Birthday",
+          "name": "King Bhumibol's Birthday"
+        },
+        {
+          "date": "2027-12-06",
+          "localName": "King Bhumibol's Birthday observed",
+          "name": "King Bhumibol's Birthday observed"
+        },
+        {
+          "date": "2027-12-10",
+          "localName": "Constitution Day",
+          "name": "Constitution Day"
+        },
+        {
+          "date": "2027-12-24",
+          "localName": "Christmas Eve",
+          "name": "Christmas Eve"
+        },
+        {
+          "date": "2027-12-25",
+          "localName": "Christmas Day",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2027-12-31",
+          "localName": "New Year's Eve",
+          "name": "New Year's Eve"
+        }
+      ]
     },
     "France": {
       "climate": [
         {
           "m": 1,
-          "hi": 4,
-          "lo": -3,
-          "rain": 153
+          "hi": 10,
+          "lo": 1,
+          "rain": 119
         },
         {
           "m": 2,
-          "hi": 7,
-          "lo": -1,
-          "rain": 34
+          "hi": 11,
+          "lo": 3,
+          "rain": 45
         },
         {
           "m": 3,
-          "hi": 8,
-          "lo": 0,
-          "rain": 103
+          "hi": 13,
+          "lo": 3,
+          "rain": 118
         },
         {
           "m": 4,
-          "hi": 13,
-          "lo": 4,
-          "rain": 203
+          "hi": 17,
+          "lo": 7,
+          "rain": 133
         },
         {
           "m": 5,
-          "hi": 15,
-          "lo": 6,
-          "rain": 97
+          "hi": 20,
+          "lo": 9,
+          "rain": 64
         },
         {
           "m": 6,
-          "hi": 23,
-          "lo": 14,
-          "rain": 53
+          "hi": 29,
+          "lo": 16,
+          "rain": 31
         },
         {
           "m": 7,
-          "hi": 21,
-          "lo": 12,
-          "rain": 61
+          "hi": 28,
+          "lo": 16,
+          "rain": 20
         },
         {
           "m": 8,
-          "hi": 24,
-          "lo": 13,
-          "rain": 49
+          "hi": 29,
+          "lo": 16,
+          "rain": 45
         },
         {
           "m": 9,
-          "hi": 17,
-          "lo": 8,
-          "rain": 149
+          "hi": 21,
+          "lo": 11,
+          "rain": 192
         },
         {
           "m": 10,
-          "hi": 13,
-          "lo": 5,
-          "rain": 130
+          "hi": 17,
+          "lo": 8,
+          "rain": 128
         },
         {
           "m": 11,
-          "hi": 7,
-          "lo": 1,
-          "rain": 136
+          "hi": 12,
+          "lo": 4,
+          "rain": 102
         },
         {
           "m": 12,
-          "hi": 7,
-          "lo": 0,
-          "rain": 71
+          "hi": 11,
+          "lo": 3,
+          "rain": 52
         }
       ],
       "holidays": [
@@ -949,75 +1210,75 @@
       "climate": [
         {
           "m": 1,
-          "hi": 7,
-          "lo": 2,
-          "rain": 62
+          "hi": 12,
+          "lo": 4,
+          "rain": 112
         },
         {
           "m": 2,
-          "hi": 8,
-          "lo": 1,
-          "rain": 108
+          "hi": 13,
+          "lo": 4,
+          "rain": 159
         },
         {
           "m": 3,
-          "hi": 11,
-          "lo": 4,
-          "rain": 140
+          "hi": 16,
+          "lo": 6,
+          "rain": 239
         },
         {
           "m": 4,
-          "hi": 15,
-          "lo": 7,
-          "rain": 89
+          "hi": 20,
+          "lo": 9,
+          "rain": 111
         },
         {
           "m": 5,
-          "hi": 18,
-          "lo": 9,
-          "rain": 83
+          "hi": 23,
+          "lo": 11,
+          "rain": 91
         },
         {
           "m": 6,
-          "hi": 27,
-          "lo": 17,
-          "rain": 24
+          "hi": 33,
+          "lo": 18,
+          "rain": 20
         },
         {
           "m": 7,
-          "hi": 26,
-          "lo": 17,
-          "rain": 99
+          "hi": 31,
+          "lo": 18,
+          "rain": 78
         },
         {
           "m": 8,
-          "hi": 25,
-          "lo": 17,
-          "rain": 29
+          "hi": 31,
+          "lo": 18,
+          "rain": 110
         },
         {
           "m": 9,
-          "hi": 23,
-          "lo": 13,
-          "rain": 32
+          "hi": 25,
+          "lo": 15,
+          "rain": 109
         },
         {
           "m": 10,
-          "hi": 16,
-          "lo": 8,
-          "rain": 90
+          "hi": 20,
+          "lo": 10,
+          "rain": 104
         },
         {
           "m": 11,
-          "hi": 11,
-          "lo": 4,
-          "rain": 119
+          "hi": 15,
+          "lo": 6,
+          "rain": 145
         },
         {
           "m": 12,
-          "hi": 9,
-          "lo": 3,
-          "rain": 77
+          "hi": 13,
+          "lo": 4,
+          "rain": 67
         }
       ],
       "holidays": [
@@ -1157,75 +1418,75 @@
       "climate": [
         {
           "m": 1,
-          "hi": 8,
-          "lo": 4,
-          "rain": 11
+          "hi": 10,
+          "lo": -2,
+          "rain": 43
         },
         {
           "m": 2,
-          "hi": 8,
-          "lo": 4,
-          "rain": 17
+          "hi": 10,
+          "lo": -1,
+          "rain": 29
         },
         {
           "m": 3,
-          "hi": 15,
-          "lo": 10,
-          "rain": 45
+          "hi": 16,
+          "lo": 4,
+          "rain": 61
         },
         {
           "m": 4,
-          "hi": 22,
-          "lo": 16,
-          "rain": 51
+          "hi": 24,
+          "lo": 11,
+          "rain": 75
         },
         {
           "m": 5,
           "hi": 26,
-          "lo": 20,
-          "rain": 132
+          "lo": 15,
+          "rain": 167
         },
         {
           "m": 6,
-          "hi": 28,
-          "lo": 24,
-          "rain": 252
+          "hi": 27,
+          "lo": 19,
+          "rain": 300
         },
         {
           "m": 7,
           "hi": 32,
-          "lo": 28,
-          "rain": 198
+          "lo": 23,
+          "rain": 79
         },
         {
           "m": 8,
-          "hi": 33,
-          "lo": 29,
-          "rain": 81
+          "hi": 32,
+          "lo": 23,
+          "rain": 167
         },
         {
           "m": 9,
-          "hi": 30,
-          "lo": 26,
-          "rain": 124
+          "hi": 27,
+          "lo": 20,
+          "rain": 120
         },
         {
           "m": 10,
-          "hi": 24,
-          "lo": 20,
-          "rain": 52
+          "hi": 21,
+          "lo": 13,
+          "rain": 99
         },
         {
           "m": 11,
-          "hi": 15,
-          "lo": 12,
-          "rain": 22
+          "hi": 17,
+          "lo": 5,
+          "rain": 53
         },
         {
           "m": 12,
-          "hi": 10,
-          "lo": 7,
-          "rain": 13
+          "hi": 12,
+          "lo": 1,
+          "rain": 27
         }
       ],
       "holidays": [
@@ -1295,75 +1556,75 @@
       "climate": [
         {
           "m": 1,
-          "hi": 5,
-          "lo": -1,
-          "rain": 118
+          "hi": 11,
+          "lo": 2,
+          "rain": 36
         },
         {
           "m": 2,
-          "hi": 9,
-          "lo": -1,
-          "rain": 24
+          "hi": 14,
+          "lo": 3,
+          "rain": 17
         },
         {
           "m": 3,
-          "hi": 7,
-          "lo": 0,
-          "rain": 164
+          "hi": 13,
+          "lo": 5,
+          "rain": 144
         },
         {
           "m": 4,
-          "hi": 14,
-          "lo": 3,
-          "rain": 77
+          "hi": 18,
+          "lo": 8,
+          "rain": 62
         },
         {
           "m": 5,
-          "hi": 17,
-          "lo": 6,
-          "rain": 82
+          "hi": 23,
+          "lo": 11,
+          "rain": 26
         },
         {
           "m": 6,
-          "hi": 27,
-          "lo": 14,
-          "rain": 45
+          "hi": 34,
+          "lo": 19,
+          "rain": 7
         },
         {
           "m": 7,
-          "hi": 27,
-          "lo": 13,
-          "rain": 33
+          "hi": 34,
+          "lo": 20,
+          "rain": 3
         },
         {
           "m": 8,
-          "hi": 28,
-          "lo": 15,
-          "rain": 10
+          "hi": 35,
+          "lo": 20,
+          "rain": 3
         },
         {
           "m": 9,
-          "hi": 22,
-          "lo": 10,
-          "rain": 6
+          "hi": 28,
+          "lo": 15,
+          "rain": 18
         },
         {
           "m": 10,
-          "hi": 17,
-          "lo": 7,
-          "rain": 64
+          "hi": 22,
+          "lo": 12,
+          "rain": 44
         },
         {
           "m": 11,
-          "hi": 8,
-          "lo": 1,
-          "rain": 85
+          "hi": 14,
+          "lo": 5,
+          "rain": 79
         },
         {
           "m": 12,
-          "hi": 6,
-          "lo": 0,
-          "rain": 41
+          "hi": 10,
+          "lo": 3,
+          "rain": 26
         }
       ],
       "holidays": [
@@ -1473,75 +1734,75 @@
       "climate": [
         {
           "m": 1,
-          "hi": 19,
-          "lo": 12,
-          "rain": 145
+          "hi": 15,
+          "lo": 8,
+          "rain": 70
         },
         {
           "m": 2,
-          "hi": 22,
-          "lo": 15,
-          "rain": 123
+          "hi": 17,
+          "lo": 11,
+          "rain": 106
         },
         {
           "m": 3,
-          "hi": 25,
-          "lo": 16,
-          "rain": 112
+          "hi": 20,
+          "lo": 12,
+          "rain": 56
         },
         {
           "m": 4,
-          "hi": 28,
-          "lo": 19,
-          "rain": 112
+          "hi": 23,
+          "lo": 15,
+          "rain": 90
         },
         {
           "m": 5,
-          "hi": 29,
-          "lo": 20,
-          "rain": 287
+          "hi": 24,
+          "lo": 16,
+          "rain": 258
         },
         {
           "m": 6,
-          "hi": 29,
-          "lo": 21,
-          "rain": 481
+          "hi": 24,
+          "lo": 16,
+          "rain": 491
         },
         {
           "m": 7,
-          "hi": 28,
-          "lo": 21,
-          "rain": 191
+          "hi": 24,
+          "lo": 17,
+          "rain": 205
         },
         {
           "m": 8,
-          "hi": 29,
-          "lo": 20,
-          "rain": 353
+          "hi": 24,
+          "lo": 16,
+          "rain": 316
         },
         {
           "m": 9,
-          "hi": 27,
-          "lo": 20,
-          "rain": 455
+          "hi": 23,
+          "lo": 16,
+          "rain": 442
         },
         {
           "m": 10,
-          "hi": 24,
-          "lo": 19,
-          "rain": 1051
+          "hi": 20,
+          "lo": 15,
+          "rain": 738
         },
         {
           "m": 11,
-          "hi": 21,
-          "lo": 16,
-          "rain": 579
+          "hi": 17,
+          "lo": 12,
+          "rain": 376
         },
         {
           "m": 12,
-          "hi": 20,
-          "lo": 16,
-          "rain": 209
+          "hi": 16,
+          "lo": 12,
+          "rain": 178
         }
       ],
       "holidays": [
@@ -1592,48 +1853,48 @@
         {
           "m": 1,
           "hi": 25,
-          "lo": 15,
-          "rain": 2
+          "lo": 14,
+          "rain": 1
         },
         {
           "m": 2,
           "hi": 27,
           "lo": 17,
-          "rain": 10
+          "rain": 9
         },
         {
           "m": 3,
-          "hi": 31,
-          "lo": 19,
+          "hi": 32,
+          "lo": 18,
           "rain": 2
         },
         {
           "m": 4,
-          "hi": 38,
+          "hi": 39,
           "lo": 22,
           "rain": 0
         },
         {
           "m": 5,
-          "hi": 40,
+          "hi": 42,
           "lo": 25,
           "rain": 0
         },
         {
           "m": 6,
-          "hi": 42,
+          "hi": 43,
           "lo": 27,
           "rain": 0
         },
         {
           "m": 7,
-          "hi": 44,
+          "hi": 45,
           "lo": 30,
           "rain": 0
         },
         {
           "m": 8,
-          "hi": 43,
+          "hi": 44,
           "lo": 31,
           "rain": 0
         },
@@ -1645,8 +1906,8 @@
         },
         {
           "m": 10,
-          "hi": 36,
-          "lo": 25,
+          "hi": 37,
+          "lo": 24,
           "rain": 1
         },
         {
@@ -1659,68 +1920,654 @@
           "m": 12,
           "hi": 27,
           "lo": 17,
-          "rain": 38
+          "rain": 43
         }
       ],
-      "holidays": []
+      "holidays": [
+        {
+          "date": "2026-01-01",
+          "localName": "New Year's Day",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2026-01-16",
+          "localName": "Leilat al-Meiraj",
+          "name": "Leilat al-Meiraj"
+        },
+        {
+          "date": "2026-02-18",
+          "localName": "Ramadan Start",
+          "name": "Ramadan Start"
+        },
+        {
+          "date": "2026-03-19",
+          "localName": "Eid al-Fitr Holiday",
+          "name": "Eid al-Fitr Holiday"
+        },
+        {
+          "date": "2026-03-20",
+          "localName": "Eid al-Fitr",
+          "name": "Eid al-Fitr"
+        },
+        {
+          "date": "2026-03-21",
+          "localName": "Eid al-Fitr Holiday",
+          "name": "Eid al-Fitr Holiday"
+        },
+        {
+          "date": "2026-03-22",
+          "localName": "Eid al-Fitr Holiday",
+          "name": "Eid al-Fitr Holiday"
+        },
+        {
+          "date": "2026-05-18",
+          "localName": "Hajj season begins",
+          "name": "Hajj season begins"
+        },
+        {
+          "date": "2026-05-25",
+          "localName": "Eid al-Adha public sector",
+          "name": "Eid al-Adha public sector"
+        },
+        {
+          "date": "2026-05-26",
+          "localName": "Arafat (Hajj) Day",
+          "name": "Arafat (Hajj) Day"
+        },
+        {
+          "date": "2026-05-27",
+          "localName": "Eid al-Adha (Feast of Sacrifice)",
+          "name": "Eid al-Adha (Feast of Sacrifice)"
+        },
+        {
+          "date": "2026-05-28",
+          "localName": "Eid al-Adha Holiday",
+          "name": "Eid al-Adha Holiday"
+        },
+        {
+          "date": "2026-05-29",
+          "localName": "Eid al-Adha Holiday",
+          "name": "Eid al-Adha Holiday"
+        },
+        {
+          "date": "2026-06-15",
+          "localName": "Al-Hijra (Islamic New Year)",
+          "name": "Al-Hijra (Islamic New Year)"
+        },
+        {
+          "date": "2026-08-26",
+          "localName": "Mouloud (tentative)",
+          "name": "Mouloud (tentative)"
+        },
+        {
+          "date": "2026-11-30",
+          "localName": "Commemoration Day",
+          "name": "Commemoration Day"
+        },
+        {
+          "date": "2026-12-02",
+          "localName": "National Day",
+          "name": "National Day"
+        },
+        {
+          "date": "2026-12-03",
+          "localName": "National Day Holiday",
+          "name": "National Day Holiday"
+        },
+        {
+          "date": "2026-12-31",
+          "localName": "New Year's Eve",
+          "name": "New Year's Eve"
+        },
+        {
+          "date": "2027-01-01",
+          "localName": "New Year's Day",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2027-01-06",
+          "localName": "Leilat al-Meiraj (tentative)",
+          "name": "Leilat al-Meiraj (tentative)"
+        },
+        {
+          "date": "2027-02-08",
+          "localName": "Ramadan Start (tentative)",
+          "name": "Ramadan Start (tentative)"
+        },
+        {
+          "date": "2027-03-10",
+          "localName": "Eid al-Fitr (tentative)",
+          "name": "Eid al-Fitr (tentative)"
+        },
+        {
+          "date": "2027-03-11",
+          "localName": "Eid al-Fitr Holiday (tentative)",
+          "name": "Eid al-Fitr Holiday (tentative)"
+        },
+        {
+          "date": "2027-03-12",
+          "localName": "Eid al-Fitr Holiday (tentative)",
+          "name": "Eid al-Fitr Holiday (tentative)"
+        },
+        {
+          "date": "2027-05-08",
+          "localName": "Hajj season begins (tentative)",
+          "name": "Hajj season begins (tentative)"
+        },
+        {
+          "date": "2027-05-16",
+          "localName": "Arafat (Hajj) Day (tentative)",
+          "name": "Arafat (Hajj) Day (tentative)"
+        },
+        {
+          "date": "2027-05-17",
+          "localName": "Eid al-Adha (Feast of Sacrifice) (tentative)",
+          "name": "Eid al-Adha (Feast of Sacrifice) (tentative)"
+        },
+        {
+          "date": "2027-05-17",
+          "localName": "Eid al-Adha Holiday (tentative)",
+          "name": "Eid al-Adha Holiday (tentative)"
+        },
+        {
+          "date": "2027-05-18",
+          "localName": "Eid al-Adha Holiday (tentative)",
+          "name": "Eid al-Adha Holiday (tentative)"
+        },
+        {
+          "date": "2027-06-06",
+          "localName": "Al-Hijra (Islamic New Year) (tentative)",
+          "name": "Al-Hijra (Islamic New Year) (tentative)"
+        },
+        {
+          "date": "2027-08-15",
+          "localName": "Mouloud (tentative)",
+          "name": "Mouloud (tentative)"
+        },
+        {
+          "date": "2027-11-30",
+          "localName": "Commemoration Day",
+          "name": "Commemoration Day"
+        },
+        {
+          "date": "2027-12-02",
+          "localName": "National Day",
+          "name": "National Day"
+        },
+        {
+          "date": "2027-12-03",
+          "localName": "National Day Holiday",
+          "name": "National Day Holiday"
+        },
+        {
+          "date": "2027-12-26",
+          "localName": "Leilat al-Meiraj (tentative)",
+          "name": "Leilat al-Meiraj (tentative)"
+        },
+        {
+          "date": "2027-12-31",
+          "localName": "New Year's Eve",
+          "name": "New Year's Eve"
+        }
+      ]
     },
     "Taiwan": {
-      "holidays": []
+      "climate": [
+        {
+          "m": 1,
+          "hi": 18,
+          "lo": 12,
+          "rain": 33
+        },
+        {
+          "m": 2,
+          "hi": 19,
+          "lo": 13,
+          "rain": 112
+        },
+        {
+          "m": 3,
+          "hi": 22,
+          "lo": 14,
+          "rain": 216
+        },
+        {
+          "m": 4,
+          "hi": 26,
+          "lo": 17,
+          "rain": 210
+        },
+        {
+          "m": 5,
+          "hi": 29,
+          "lo": 21,
+          "rain": 326
+        },
+        {
+          "m": 6,
+          "hi": 33,
+          "lo": 24,
+          "rain": 146
+        },
+        {
+          "m": 7,
+          "hi": 32,
+          "lo": 25,
+          "rain": 248
+        },
+        {
+          "m": 8,
+          "hi": 35,
+          "lo": 25,
+          "rain": 66
+        },
+        {
+          "m": 9,
+          "hi": 34,
+          "lo": 25,
+          "rain": 68
+        },
+        {
+          "m": 10,
+          "hi": 31,
+          "lo": 23,
+          "rain": 383
+        },
+        {
+          "m": 11,
+          "hi": 24,
+          "lo": 19,
+          "rain": 125
+        },
+        {
+          "m": 12,
+          "hi": 22,
+          "lo": 16,
+          "rain": 56
+        }
+      ],
+      "holidays": [
+        {
+          "date": "2026-01-01",
+          "localName": "Republic Day",
+          "name": "Republic Day"
+        },
+        {
+          "date": "2026-02-04",
+          "localName": "Farmer's Day",
+          "name": "Farmer's Day"
+        },
+        {
+          "date": "2026-02-14",
+          "localName": "Lunar New Year Holiday",
+          "name": "Lunar New Year Holiday"
+        },
+        {
+          "date": "2026-02-15",
+          "localName": "Lunar New Year Holiday",
+          "name": "Lunar New Year Holiday"
+        },
+        {
+          "date": "2026-02-16",
+          "localName": "Lunar New Year's Eve",
+          "name": "Lunar New Year's Eve"
+        },
+        {
+          "date": "2026-02-17",
+          "localName": "Lunar New Year's Day",
+          "name": "Lunar New Year's Day"
+        },
+        {
+          "date": "2026-02-18",
+          "localName": "Lunar New Year Holiday",
+          "name": "Lunar New Year Holiday"
+        },
+        {
+          "date": "2026-02-19",
+          "localName": "Lunar New Year Holiday",
+          "name": "Lunar New Year Holiday"
+        },
+        {
+          "date": "2026-02-20",
+          "localName": "Lunar New Year Holiday",
+          "name": "Lunar New Year Holiday"
+        },
+        {
+          "date": "2026-02-21",
+          "localName": "Lunar New Year Holiday",
+          "name": "Lunar New Year Holiday"
+        },
+        {
+          "date": "2026-02-22",
+          "localName": "Lunar New Year Holiday",
+          "name": "Lunar New Year Holiday"
+        },
+        {
+          "date": "2026-02-27",
+          "localName": "Peace Memorial Day Holiday",
+          "name": "Peace Memorial Day Holiday"
+        },
+        {
+          "date": "2026-02-28",
+          "localName": "Peace Memorial Day",
+          "name": "Peace Memorial Day"
+        },
+        {
+          "date": "2026-03-03",
+          "localName": "Lantern Festival",
+          "name": "Lantern Festival"
+        },
+        {
+          "date": "2026-03-08",
+          "localName": "International Women's Day",
+          "name": "International Women's Day"
+        },
+        {
+          "date": "2026-03-29",
+          "localName": "Youth Day",
+          "name": "Youth Day"
+        },
+        {
+          "date": "2026-04-03",
+          "localName": "Children's Day Holiday",
+          "name": "Children's Day Holiday"
+        },
+        {
+          "date": "2026-04-04",
+          "localName": "Children's Day",
+          "name": "Children's Day"
+        },
+        {
+          "date": "2026-04-05",
+          "localName": "Tomb Sweeping Day",
+          "name": "Tomb Sweeping Day"
+        },
+        {
+          "date": "2026-04-06",
+          "localName": "Tomb Sweeping Day Holiday",
+          "name": "Tomb Sweeping Day Holiday"
+        },
+        {
+          "date": "2026-05-01",
+          "localName": "Labor Day",
+          "name": "Labor Day"
+        },
+        {
+          "date": "2026-06-19",
+          "localName": "Dragon Boat Festival",
+          "name": "Dragon Boat Festival"
+        },
+        {
+          "date": "2026-08-27",
+          "localName": "Hungry Ghost Festival",
+          "name": "Hungry Ghost Festival"
+        },
+        {
+          "date": "2026-09-03",
+          "localName": "Armed Forces Day",
+          "name": "Armed Forces Day"
+        },
+        {
+          "date": "2026-09-25",
+          "localName": "Mid-Autumn Festival",
+          "name": "Mid-Autumn Festival"
+        },
+        {
+          "date": "2026-09-28",
+          "localName": "Teachers' Day",
+          "name": "Teachers' Day"
+        },
+        {
+          "date": "2026-10-09",
+          "localName": "National Day Holiday",
+          "name": "National Day Holiday"
+        },
+        {
+          "date": "2026-10-10",
+          "localName": "National Day",
+          "name": "National Day"
+        },
+        {
+          "date": "2026-10-18",
+          "localName": "Double Ninth Day",
+          "name": "Double Ninth Day"
+        },
+        {
+          "date": "2026-10-25",
+          "localName": "Taiwan's Retrocession Day",
+          "name": "Taiwan's Retrocession Day"
+        },
+        {
+          "date": "2026-10-26",
+          "localName": "Day off for Taiwan's Retrocession Day",
+          "name": "Day off for Taiwan's Retrocession Day"
+        },
+        {
+          "date": "2026-12-22",
+          "localName": "Dōngzhì Festival",
+          "name": "Dōngzhì Festival"
+        },
+        {
+          "date": "2026-12-25",
+          "localName": "Constitution Day",
+          "name": "Constitution Day"
+        },
+        {
+          "date": "2027-01-01",
+          "localName": "Republic Day",
+          "name": "Republic Day"
+        },
+        {
+          "date": "2027-02-04",
+          "localName": "Farmer's Day",
+          "name": "Farmer's Day"
+        },
+        {
+          "date": "2027-02-04",
+          "localName": "Lunar New Year Holiday",
+          "name": "Lunar New Year Holiday"
+        },
+        {
+          "date": "2027-02-05",
+          "localName": "Lunar New Year's Eve",
+          "name": "Lunar New Year's Eve"
+        },
+        {
+          "date": "2027-02-06",
+          "localName": "Lunar New Year's Day",
+          "name": "Lunar New Year's Day"
+        },
+        {
+          "date": "2027-02-07",
+          "localName": "Lunar New Year Holiday",
+          "name": "Lunar New Year Holiday"
+        },
+        {
+          "date": "2027-02-08",
+          "localName": "Lunar New Year Holiday",
+          "name": "Lunar New Year Holiday"
+        },
+        {
+          "date": "2027-02-09",
+          "localName": "Day off for Lunar New Year's Day",
+          "name": "Day off for Lunar New Year's Day"
+        },
+        {
+          "date": "2027-02-10",
+          "localName": "Day off for Lunar New Year Holiday",
+          "name": "Day off for Lunar New Year Holiday"
+        },
+        {
+          "date": "2027-02-20",
+          "localName": "Lantern Festival",
+          "name": "Lantern Festival"
+        },
+        {
+          "date": "2027-02-28",
+          "localName": "Peace Memorial Day",
+          "name": "Peace Memorial Day"
+        },
+        {
+          "date": "2027-03-01",
+          "localName": "Peace Memorial Day Holiday",
+          "name": "Peace Memorial Day Holiday"
+        },
+        {
+          "date": "2027-03-08",
+          "localName": "International Women's Day",
+          "name": "International Women's Day"
+        },
+        {
+          "date": "2027-03-29",
+          "localName": "Youth Day",
+          "name": "Youth Day"
+        },
+        {
+          "date": "2027-04-04",
+          "localName": "Children's Day",
+          "name": "Children's Day"
+        },
+        {
+          "date": "2027-04-05",
+          "localName": "Tomb Sweeping Day",
+          "name": "Tomb Sweeping Day"
+        },
+        {
+          "date": "2027-04-06",
+          "localName": "Day off for Children's Day",
+          "name": "Day off for Children's Day"
+        },
+        {
+          "date": "2027-04-30",
+          "localName": "Labor Day Holiday",
+          "name": "Labor Day Holiday"
+        },
+        {
+          "date": "2027-05-01",
+          "localName": "Labor Day",
+          "name": "Labor Day"
+        },
+        {
+          "date": "2027-06-09",
+          "localName": "Dragon Boat Festival",
+          "name": "Dragon Boat Festival"
+        },
+        {
+          "date": "2027-08-16",
+          "localName": "Hungry Ghost Festival",
+          "name": "Hungry Ghost Festival"
+        },
+        {
+          "date": "2027-09-03",
+          "localName": "Armed Forces Day",
+          "name": "Armed Forces Day"
+        },
+        {
+          "date": "2027-09-15",
+          "localName": "Mid-Autumn Festival",
+          "name": "Mid-Autumn Festival"
+        },
+        {
+          "date": "2027-09-28",
+          "localName": "Teachers' Day",
+          "name": "Teachers' Day"
+        },
+        {
+          "date": "2027-10-08",
+          "localName": "Double Ninth Day",
+          "name": "Double Ninth Day"
+        },
+        {
+          "date": "2027-10-10",
+          "localName": "National Day",
+          "name": "National Day"
+        },
+        {
+          "date": "2027-10-11",
+          "localName": "National Day Holiday",
+          "name": "National Day Holiday"
+        },
+        {
+          "date": "2027-10-25",
+          "localName": "Taiwan's Retrocession Day",
+          "name": "Taiwan's Retrocession Day"
+        },
+        {
+          "date": "2027-12-22",
+          "localName": "Dōngzhì Festival",
+          "name": "Dōngzhì Festival"
+        },
+        {
+          "date": "2027-12-24",
+          "localName": "Day off for Constitution Day",
+          "name": "Day off for Constitution Day"
+        },
+        {
+          "date": "2027-12-25",
+          "localName": "Constitution Day",
+          "name": "Constitution Day"
+        },
+        {
+          "date": "2027-12-31",
+          "localName": "Day off for Republic Day",
+          "name": "Day off for Republic Day"
+        }
+      ]
     },
     "Indonesia": {
       "climate": [
         {
           "m": 1,
-          "hi": 28,
-          "lo": 22,
+          "hi": 29,
+          "lo": 23,
           "rain": 463
         },
         {
           "m": 2,
-          "hi": 29,
+          "hi": 30,
           "lo": 23,
           "rain": 466
         },
         {
           "m": 3,
-          "hi": 29,
-          "lo": 22,
+          "hi": 30,
+          "lo": 23,
           "rain": 368
         },
         {
           "m": 4,
-          "hi": 29,
-          "lo": 21,
+          "hi": 30,
+          "lo": 22,
           "rain": 106
         },
         {
           "m": 5,
-          "hi": 29,
-          "lo": 22,
+          "hi": 30,
+          "lo": 23,
           "rain": 164
         },
         {
           "m": 6,
-          "hi": 29,
-          "lo": 21,
+          "hi": 30,
+          "lo": 22,
           "rain": 87
         },
         {
           "m": 7,
-          "hi": 29,
-          "lo": 20,
+          "hi": 30,
+          "lo": 21,
           "rain": 20
         },
         {
           "m": 8,
           "hi": 30,
-          "lo": 20,
+          "lo": 21,
           "rain": 30
         },
         {
           "m": 9,
-          "hi": 31,
-          "lo": 21,
+          "hi": 32,
+          "lo": 22,
           "rain": 43
         },
         {
@@ -1731,14 +2578,14 @@
         },
         {
           "m": 11,
-          "hi": 29,
-          "lo": 22,
+          "hi": 30,
+          "lo": 23,
           "rain": 326
         },
         {
           "m": 12,
-          "hi": 30,
-          "lo": 22,
+          "hi": 31,
+          "lo": 23,
           "rain": 193
         }
       ],
@@ -1826,12 +2673,996 @@
       ]
     },
     "Malaysia": {
-      "holidays": []
+      "climate": [
+        {
+          "m": 1,
+          "hi": 32,
+          "lo": 22,
+          "rain": 122
+        },
+        {
+          "m": 2,
+          "hi": 34,
+          "lo": 22,
+          "rain": 65
+        },
+        {
+          "m": 3,
+          "hi": 35,
+          "lo": 23,
+          "rain": 164
+        },
+        {
+          "m": 4,
+          "hi": 33,
+          "lo": 23,
+          "rain": 205
+        },
+        {
+          "m": 5,
+          "hi": 33,
+          "lo": 23,
+          "rain": 278
+        },
+        {
+          "m": 6,
+          "hi": 33,
+          "lo": 23,
+          "rain": 122
+        },
+        {
+          "m": 7,
+          "hi": 34,
+          "lo": 23,
+          "rain": 70
+        },
+        {
+          "m": 8,
+          "hi": 33,
+          "lo": 23,
+          "rain": 124
+        },
+        {
+          "m": 9,
+          "hi": 34,
+          "lo": 23,
+          "rain": 108
+        },
+        {
+          "m": 10,
+          "hi": 31,
+          "lo": 22,
+          "rain": 313
+        },
+        {
+          "m": 11,
+          "hi": 30,
+          "lo": 23,
+          "rain": 310
+        },
+        {
+          "m": 12,
+          "hi": 32,
+          "lo": 22,
+          "rain": 62
+        }
+      ],
+      "holidays": [
+        {
+          "date": "2026-01-01",
+          "localName": "Hari Tahun Baru (cuti serantau)",
+          "name": "Hari Tahun Baru (cuti serantau)"
+        },
+        {
+          "date": "2026-01-17",
+          "localName": "Israk & Mikraj (cuti serantau)",
+          "name": "Israk & Mikraj (cuti serantau)"
+        },
+        {
+          "date": "2026-02-01",
+          "localName": "Hari Wilayah Persekutuan (cuti serantau)",
+          "name": "Hari Wilayah Persekutuan (cuti serantau)"
+        },
+        {
+          "date": "2026-02-01",
+          "localName": "Hari Thaipusam (cuti serantau)",
+          "name": "Hari Thaipusam (cuti serantau)"
+        },
+        {
+          "date": "2026-02-02",
+          "localName": "Hari Wilayah Persekutuan diperhatikan (cuti serantau)",
+          "name": "Hari Wilayah Persekutuan diperhatikan (cuti serantau)"
+        },
+        {
+          "date": "2026-02-02",
+          "localName": "Hari Thaipusam hari cuti (cuti serantau)",
+          "name": "Hari Thaipusam hari cuti (cuti serantau)"
+        },
+        {
+          "date": "2026-02-14",
+          "localName": "Hari Valentine",
+          "name": "Hari Valentine"
+        },
+        {
+          "date": "2026-02-17",
+          "localName": "Tahun Baru Cina",
+          "name": "Tahun Baru Cina"
+        },
+        {
+          "date": "2026-02-18",
+          "localName": "Tahun Baru Cina (Hari ke-2) (cuti serantau)",
+          "name": "Tahun Baru Cina (Hari ke-2) (cuti serantau)"
+        },
+        {
+          "date": "2026-02-18",
+          "localName": "Tahun Baru Cina (hari kedua) (cuti serantau)",
+          "name": "Tahun Baru Cina (hari kedua) (cuti serantau)"
+        },
+        {
+          "date": "2026-02-19",
+          "localName": "Awal Ramadan (cuti serantau)",
+          "name": "Awal Ramadan (cuti serantau)"
+        },
+        {
+          "date": "2026-03-07",
+          "localName": "Hari Nuzul Al-Quran (cuti serantau)",
+          "name": "Hari Nuzul Al-Quran (cuti serantau)"
+        },
+        {
+          "date": "2026-03-20",
+          "localName": "Hari Raya Aidil Fitri (Hari Kedua)",
+          "name": "Hari Raya Aidil Fitri (Hari Kedua)"
+        },
+        {
+          "date": "2026-03-21",
+          "localName": "Hari Raya Aidil Fitri",
+          "name": "Hari Raya Aidil Fitri"
+        },
+        {
+          "date": "2026-04-03",
+          "localName": "Jumaat Agung (cuti serantau)",
+          "name": "Jumaat Agung (cuti serantau)"
+        },
+        {
+          "date": "2026-04-05",
+          "localName": "Hari Ahad Easter",
+          "name": "Hari Ahad Easter"
+        },
+        {
+          "date": "2026-05-01",
+          "localName": "Hari Pekerja",
+          "name": "Hari Pekerja"
+        },
+        {
+          "date": "2026-05-26",
+          "localName": "Hari Arafah (cuti serantau)",
+          "name": "Hari Arafah (cuti serantau)"
+        },
+        {
+          "date": "2026-05-27",
+          "localName": "Hari Raya Aidil Adha",
+          "name": "Hari Raya Aidil Adha"
+        },
+        {
+          "date": "2026-05-28",
+          "localName": "Hari Raya Aidil Adha (hari kedua) (cuti serantau)",
+          "name": "Hari Raya Aidil Adha (hari kedua) (cuti serantau)"
+        },
+        {
+          "date": "2026-05-30",
+          "localName": "Pesta Kaamatan Sabah (cuti serantau)",
+          "name": "Pesta Kaamatan Sabah (cuti serantau)"
+        },
+        {
+          "date": "2026-05-31",
+          "localName": "Pesta Kaamatan Sabah (Hari Kedua) (cuti serantau)",
+          "name": "Pesta Kaamatan Sabah (Hari Kedua) (cuti serantau)"
+        },
+        {
+          "date": "2026-05-31",
+          "localName": "Hari Wesak",
+          "name": "Hari Wesak"
+        },
+        {
+          "date": "2026-06-01",
+          "localName": "Hari Keputeraan Seri Paduka Baginda Yang di-Pertuan Agong",
+          "name": "Hari Keputeraan Seri Paduka Baginda Yang di-Pertuan Agong"
+        },
+        {
+          "date": "2026-06-01",
+          "localName": "Pesta Kaamatan Sabah (Hari Kedua) diperhatikan (cuti serantau)",
+          "name": "Pesta Kaamatan Sabah (Hari Kedua) diperhatikan (cuti serantau)"
+        },
+        {
+          "date": "2026-06-17",
+          "localName": "Awal Muharram",
+          "name": "Awal Muharram"
+        },
+        {
+          "date": "2026-08-25",
+          "localName": "Maulidur Rasul (tentatif)",
+          "name": "Maulidur Rasul (tentatif)"
+        },
+        {
+          "date": "2026-08-31",
+          "localName": "Hari Kebangsaan Malaysia",
+          "name": "Hari Kebangsaan Malaysia"
+        },
+        {
+          "date": "2026-09-16",
+          "localName": "Hari Malaysia",
+          "name": "Hari Malaysia"
+        },
+        {
+          "date": "2026-11-08",
+          "localName": "Hari Deepavali (cuti serantau)",
+          "name": "Hari Deepavali (cuti serantau)"
+        },
+        {
+          "date": "2026-12-24",
+          "localName": "Malam Krismas",
+          "name": "Malam Krismas"
+        },
+        {
+          "date": "2026-12-25",
+          "localName": "Hari Natal (Krismas)",
+          "name": "Hari Natal (Krismas)"
+        },
+        {
+          "date": "2026-12-31",
+          "localName": "Malam Tahun Baru",
+          "name": "Malam Tahun Baru"
+        },
+        {
+          "date": "2027-01-01",
+          "localName": "Hari Tahun Baru (cuti serantau)",
+          "name": "Hari Tahun Baru (cuti serantau)"
+        },
+        {
+          "date": "2027-01-06",
+          "localName": "Israk & Mikraj (cuti serantau) (tentatif)",
+          "name": "Israk & Mikraj (cuti serantau) (tentatif)"
+        },
+        {
+          "date": "2027-02-01",
+          "localName": "Hari Wilayah Persekutuan (cuti serantau)",
+          "name": "Hari Wilayah Persekutuan (cuti serantau)"
+        },
+        {
+          "date": "2027-02-06",
+          "localName": "Tahun Baru Cina",
+          "name": "Tahun Baru Cina"
+        },
+        {
+          "date": "2027-02-07",
+          "localName": "Tahun Baru Cina (Hari ke-2) (cuti serantau)",
+          "name": "Tahun Baru Cina (Hari ke-2) (cuti serantau)"
+        },
+        {
+          "date": "2027-02-07",
+          "localName": "Tahun Baru Cina (hari kedua) (cuti serantau)",
+          "name": "Tahun Baru Cina (hari kedua) (cuti serantau)"
+        },
+        {
+          "date": "2027-02-08",
+          "localName": "Awal Ramadan (cuti serantau) (tentatif)",
+          "name": "Awal Ramadan (cuti serantau) (tentatif)"
+        },
+        {
+          "date": "2027-02-14",
+          "localName": "Hari Valentine",
+          "name": "Hari Valentine"
+        },
+        {
+          "date": "2027-02-24",
+          "localName": "Hari Nuzul Al-Quran (cuti serantau) (tentatif)",
+          "name": "Hari Nuzul Al-Quran (cuti serantau) (tentatif)"
+        },
+        {
+          "date": "2027-03-10",
+          "localName": "Hari Raya Aidil Fitri (tentatif)",
+          "name": "Hari Raya Aidil Fitri (tentatif)"
+        },
+        {
+          "date": "2027-03-11",
+          "localName": "Hari Raya Aidil Fitri (Hari Kedua) (tentatif)",
+          "name": "Hari Raya Aidil Fitri (Hari Kedua) (tentatif)"
+        },
+        {
+          "date": "2027-03-26",
+          "localName": "Jumaat Agung (cuti serantau)",
+          "name": "Jumaat Agung (cuti serantau)"
+        },
+        {
+          "date": "2027-03-28",
+          "localName": "Hari Ahad Easter",
+          "name": "Hari Ahad Easter"
+        },
+        {
+          "date": "2027-05-01",
+          "localName": "Hari Pekerja",
+          "name": "Hari Pekerja"
+        },
+        {
+          "date": "2027-05-16",
+          "localName": "Hari Arafah (cuti serantau) (tentatif)",
+          "name": "Hari Arafah (cuti serantau) (tentatif)"
+        },
+        {
+          "date": "2027-05-17",
+          "localName": "Hari Raya Aidil Adha (tentatif)",
+          "name": "Hari Raya Aidil Adha (tentatif)"
+        },
+        {
+          "date": "2027-05-18",
+          "localName": "Hari Raya Aidil Adha (hari kedua) (cuti serantau) (tentatif)",
+          "name": "Hari Raya Aidil Adha (hari kedua) (cuti serantau) (tentatif)"
+        },
+        {
+          "date": "2027-05-30",
+          "localName": "Pesta Kaamatan Sabah (cuti serantau)",
+          "name": "Pesta Kaamatan Sabah (cuti serantau)"
+        },
+        {
+          "date": "2027-05-31",
+          "localName": "Pesta Kaamatan Sabah (Hari Kedua) (cuti serantau)",
+          "name": "Pesta Kaamatan Sabah (Hari Kedua) (cuti serantau)"
+        },
+        {
+          "date": "2027-05-31",
+          "localName": "Pesta Kaamatan Sabah diperhatikan (cuti serantau)",
+          "name": "Pesta Kaamatan Sabah diperhatikan (cuti serantau)"
+        },
+        {
+          "date": "2027-06-06",
+          "localName": "Awal Muharram (tentatif)",
+          "name": "Awal Muharram (tentatif)"
+        },
+        {
+          "date": "2027-06-07",
+          "localName": "Hari Keputeraan Seri Paduka Baginda Yang di-Pertuan Agong",
+          "name": "Hari Keputeraan Seri Paduka Baginda Yang di-Pertuan Agong"
+        },
+        {
+          "date": "2027-08-15",
+          "localName": "Maulidur Rasul (tentatif)",
+          "name": "Maulidur Rasul (tentatif)"
+        },
+        {
+          "date": "2027-08-31",
+          "localName": "Hari Kebangsaan Malaysia",
+          "name": "Hari Kebangsaan Malaysia"
+        },
+        {
+          "date": "2027-09-16",
+          "localName": "Hari Malaysia",
+          "name": "Hari Malaysia"
+        },
+        {
+          "date": "2027-12-24",
+          "localName": "Malam Krismas",
+          "name": "Malam Krismas"
+        },
+        {
+          "date": "2027-12-25",
+          "localName": "Hari Natal (Krismas)",
+          "name": "Hari Natal (Krismas)"
+        },
+        {
+          "date": "2027-12-26",
+          "localName": "Israk & Mikraj (cuti serantau) (tentatif)",
+          "name": "Israk & Mikraj (cuti serantau) (tentatif)"
+        },
+        {
+          "date": "2027-12-31",
+          "localName": "Malam Tahun Baru",
+          "name": "Malam Tahun Baru"
+        }
+      ]
     },
     "India": {
-      "holidays": []
+      "climate": [
+        {
+          "m": 1,
+          "hi": 23,
+          "lo": 9,
+          "rain": 5
+        },
+        {
+          "m": 2,
+          "hi": 29,
+          "lo": 14,
+          "rain": 1
+        },
+        {
+          "m": 3,
+          "hi": 34,
+          "lo": 17,
+          "rain": 0
+        },
+        {
+          "m": 4,
+          "hi": 40,
+          "lo": 23,
+          "rain": 1
+        },
+        {
+          "m": 5,
+          "hi": 39,
+          "lo": 26,
+          "rain": 21
+        },
+        {
+          "m": 6,
+          "hi": 36,
+          "lo": 26,
+          "rain": 153
+        },
+        {
+          "m": 7,
+          "hi": 31,
+          "lo": 25,
+          "rain": 594
+        },
+        {
+          "m": 8,
+          "hi": 31,
+          "lo": 25,
+          "rain": 259
+        },
+        {
+          "m": 9,
+          "hi": 32,
+          "lo": 24,
+          "rain": 81
+        },
+        {
+          "m": 10,
+          "hi": 30,
+          "lo": 20,
+          "rain": 100
+        },
+        {
+          "m": 11,
+          "hi": 26,
+          "lo": 13,
+          "rain": 2
+        },
+        {
+          "m": 12,
+          "hi": 24,
+          "lo": 9,
+          "rain": 0
+        }
+      ],
+      "holidays": [
+        {
+          "date": "2026-01-01",
+          "localName": "New Year's Day",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2026-01-03",
+          "localName": "Hazarat Ali's Birthday",
+          "name": "Hazarat Ali's Birthday"
+        },
+        {
+          "date": "2026-01-14",
+          "localName": "Pongal",
+          "name": "Pongal"
+        },
+        {
+          "date": "2026-01-14",
+          "localName": "Makar Sankranti",
+          "name": "Makar Sankranti"
+        },
+        {
+          "date": "2026-01-23",
+          "localName": "Vasant Panchami",
+          "name": "Vasant Panchami"
+        },
+        {
+          "date": "2026-01-26",
+          "localName": "Republic Day",
+          "name": "Republic Day"
+        },
+        {
+          "date": "2026-02-01",
+          "localName": "Guru Ravidas Jayanti",
+          "name": "Guru Ravidas Jayanti"
+        },
+        {
+          "date": "2026-02-12",
+          "localName": "Maharishi Dayanand Saraswati Jayanti",
+          "name": "Maharishi Dayanand Saraswati Jayanti"
+        },
+        {
+          "date": "2026-02-15",
+          "localName": "Maha Shivaratri",
+          "name": "Maha Shivaratri"
+        },
+        {
+          "date": "2026-02-19",
+          "localName": "Shivaji Jayanti",
+          "name": "Shivaji Jayanti"
+        },
+        {
+          "date": "2026-02-19",
+          "localName": "Ramadan Start",
+          "name": "Ramadan Start"
+        },
+        {
+          "date": "2026-03-03",
+          "localName": "Holika Dahana",
+          "name": "Holika Dahana"
+        },
+        {
+          "date": "2026-03-04",
+          "localName": "Holi",
+          "name": "Holi"
+        },
+        {
+          "date": "2026-03-19",
+          "localName": "Gudi Padwa",
+          "name": "Gudi Padwa"
+        },
+        {
+          "date": "2026-03-19",
+          "localName": "Ugadi",
+          "name": "Ugadi"
+        },
+        {
+          "date": "2026-03-20",
+          "localName": "Jamat Ul-Vida",
+          "name": "Jamat Ul-Vida"
+        },
+        {
+          "date": "2026-03-21",
+          "localName": "Ramzan Id",
+          "name": "Ramzan Id"
+        },
+        {
+          "date": "2026-03-26",
+          "localName": "Rama Navami",
+          "name": "Rama Navami"
+        },
+        {
+          "date": "2026-03-31",
+          "localName": "Mahavir Jayanti",
+          "name": "Mahavir Jayanti"
+        },
+        {
+          "date": "2026-04-03",
+          "localName": "Good Friday",
+          "name": "Good Friday"
+        },
+        {
+          "date": "2026-04-14",
+          "localName": "Vaisakhi",
+          "name": "Vaisakhi"
+        },
+        {
+          "date": "2026-04-14",
+          "localName": "Mesadi",
+          "name": "Mesadi"
+        },
+        {
+          "date": "2026-04-14",
+          "localName": "Ambedkar Jayanti",
+          "name": "Ambedkar Jayanti"
+        },
+        {
+          "date": "2026-04-15",
+          "localName": "Bahag Bihu",
+          "name": "Bahag Bihu"
+        },
+        {
+          "date": "2026-05-01",
+          "localName": "Buddha Purnima",
+          "name": "Buddha Purnima"
+        },
+        {
+          "date": "2026-05-09",
+          "localName": "Birthday of Rabindranath",
+          "name": "Birthday of Rabindranath"
+        },
+        {
+          "date": "2026-05-28",
+          "localName": "Bakrid",
+          "name": "Bakrid"
+        },
+        {
+          "date": "2026-06-26",
+          "localName": "Muharram/Ashura",
+          "name": "Muharram/Ashura"
+        },
+        {
+          "date": "2026-07-16",
+          "localName": "Rath Yatra",
+          "name": "Rath Yatra"
+        },
+        {
+          "date": "2026-08-15",
+          "localName": "Independence Day",
+          "name": "Independence Day"
+        },
+        {
+          "date": "2026-08-26",
+          "localName": "Onam",
+          "name": "Onam"
+        },
+        {
+          "date": "2026-08-26",
+          "localName": "Milad un-Nabi (tentative)",
+          "name": "Milad un-Nabi (tentative)"
+        },
+        {
+          "date": "2026-08-28",
+          "localName": "Raksha Bandhan",
+          "name": "Raksha Bandhan"
+        },
+        {
+          "date": "2026-09-04",
+          "localName": "Janmashtami",
+          "name": "Janmashtami"
+        },
+        {
+          "date": "2026-09-04",
+          "localName": "Janmashtami (Smarta)",
+          "name": "Janmashtami (Smarta)"
+        },
+        {
+          "date": "2026-09-14",
+          "localName": "Ganesh Chaturthi",
+          "name": "Ganesh Chaturthi"
+        },
+        {
+          "date": "2026-10-02",
+          "localName": "Mahatma Gandhi Jayanti",
+          "name": "Mahatma Gandhi Jayanti"
+        },
+        {
+          "date": "2026-10-11",
+          "localName": "First Day of Sharad Navratri",
+          "name": "First Day of Sharad Navratri"
+        },
+        {
+          "date": "2026-10-17",
+          "localName": "First Day of Durga Puja Festivities",
+          "name": "First Day of Durga Puja Festivities"
+        },
+        {
+          "date": "2026-10-18",
+          "localName": "Maha Saptami",
+          "name": "Maha Saptami"
+        },
+        {
+          "date": "2026-10-19",
+          "localName": "Maha Ashtami",
+          "name": "Maha Ashtami"
+        },
+        {
+          "date": "2026-10-20",
+          "localName": "Dussehra",
+          "name": "Dussehra"
+        },
+        {
+          "date": "2026-10-26",
+          "localName": "Maharishi Valmiki Jayanti",
+          "name": "Maharishi Valmiki Jayanti"
+        },
+        {
+          "date": "2026-10-29",
+          "localName": "Karaka Chaturthi",
+          "name": "Karaka Chaturthi"
+        },
+        {
+          "date": "2026-11-08",
+          "localName": "Diwali/Deepavali",
+          "name": "Diwali/Deepavali"
+        },
+        {
+          "date": "2026-11-08",
+          "localName": "Naraka Chaturdasi",
+          "name": "Naraka Chaturdasi"
+        },
+        {
+          "date": "2026-11-09",
+          "localName": "Govardhan Puja",
+          "name": "Govardhan Puja"
+        },
+        {
+          "date": "2026-11-11",
+          "localName": "Bhai Duj",
+          "name": "Bhai Duj"
+        },
+        {
+          "date": "2026-11-15",
+          "localName": "Chhat Puja (Pratihar Sashthi/Surya Sashthi)",
+          "name": "Chhat Puja (Pratihar Sashthi/Surya Sashthi)"
+        },
+        {
+          "date": "2026-11-24",
+          "localName": "Guru Tegh Bahadur's Martyrdom Day",
+          "name": "Guru Tegh Bahadur's Martyrdom Day"
+        },
+        {
+          "date": "2026-11-24",
+          "localName": "Guru Nanak Jayanti",
+          "name": "Guru Nanak Jayanti"
+        },
+        {
+          "date": "2026-12-23",
+          "localName": "Hazarat Ali's Birthday",
+          "name": "Hazarat Ali's Birthday"
+        },
+        {
+          "date": "2026-12-24",
+          "localName": "Christmas Eve",
+          "name": "Christmas Eve"
+        },
+        {
+          "date": "2026-12-25",
+          "localName": "Christmas",
+          "name": "Christmas"
+        },
+        {
+          "date": "2027-01-01",
+          "localName": "New Year's Day",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2027-01-15",
+          "localName": "Pongal",
+          "name": "Pongal"
+        },
+        {
+          "date": "2027-01-15",
+          "localName": "Makar Sankranti",
+          "name": "Makar Sankranti"
+        },
+        {
+          "date": "2027-01-26",
+          "localName": "Republic Day",
+          "name": "Republic Day"
+        },
+        {
+          "date": "2027-02-09",
+          "localName": "Ramadan Start (tentative)",
+          "name": "Ramadan Start (tentative)"
+        },
+        {
+          "date": "2027-02-11",
+          "localName": "Vasant Panchami",
+          "name": "Vasant Panchami"
+        },
+        {
+          "date": "2027-02-19",
+          "localName": "Shivaji Jayanti",
+          "name": "Shivaji Jayanti"
+        },
+        {
+          "date": "2027-03-06",
+          "localName": "Maha Shivaratri",
+          "name": "Maha Shivaratri"
+        },
+        {
+          "date": "2027-03-10",
+          "localName": "Ramzan Id (tentative)",
+          "name": "Ramzan Id (tentative)"
+        },
+        {
+          "date": "2027-03-22",
+          "localName": "Holi",
+          "name": "Holi"
+        },
+        {
+          "date": "2027-03-26",
+          "localName": "Good Friday",
+          "name": "Good Friday"
+        },
+        {
+          "date": "2027-04-07",
+          "localName": "Ugadi",
+          "name": "Ugadi"
+        },
+        {
+          "date": "2027-04-07",
+          "localName": "Gudi Padwa",
+          "name": "Gudi Padwa"
+        },
+        {
+          "date": "2027-04-14",
+          "localName": "Ambedkar Jayanti",
+          "name": "Ambedkar Jayanti"
+        },
+        {
+          "date": "2027-04-15",
+          "localName": "Rama Navami",
+          "name": "Rama Navami"
+        },
+        {
+          "date": "2027-05-17",
+          "localName": "Bakrid (tentative)",
+          "name": "Bakrid (tentative)"
+        },
+        {
+          "date": "2027-06-16",
+          "localName": "Muharram/Ashura (tentative)",
+          "name": "Muharram/Ashura (tentative)"
+        },
+        {
+          "date": "2027-07-05",
+          "localName": "Rath Yatra",
+          "name": "Rath Yatra"
+        },
+        {
+          "date": "2027-08-15",
+          "localName": "Independence Day",
+          "name": "Independence Day"
+        },
+        {
+          "date": "2027-08-17",
+          "localName": "Raksha Bandhan",
+          "name": "Raksha Bandhan"
+        },
+        {
+          "date": "2027-08-25",
+          "localName": "Janmashtami (Smarta)",
+          "name": "Janmashtami (Smarta)"
+        },
+        {
+          "date": "2027-08-25",
+          "localName": "Janmashtami",
+          "name": "Janmashtami"
+        },
+        {
+          "date": "2027-09-04",
+          "localName": "Ganesh Chaturthi",
+          "name": "Ganesh Chaturthi"
+        },
+        {
+          "date": "2027-09-12",
+          "localName": "Onam",
+          "name": "Onam"
+        },
+        {
+          "date": "2027-09-30",
+          "localName": "First Day of Sharad Navratri",
+          "name": "First Day of Sharad Navratri"
+        },
+        {
+          "date": "2027-10-02",
+          "localName": "Mahatma Gandhi Jayanti",
+          "name": "Mahatma Gandhi Jayanti"
+        },
+        {
+          "date": "2027-10-05",
+          "localName": "First Day of Durga Puja Festivities",
+          "name": "First Day of Durga Puja Festivities"
+        },
+        {
+          "date": "2027-10-09",
+          "localName": "Dussehra",
+          "name": "Dussehra"
+        },
+        {
+          "date": "2027-10-18",
+          "localName": "Karaka Chaturthi",
+          "name": "Karaka Chaturthi"
+        },
+        {
+          "date": "2027-10-29",
+          "localName": "Diwali/Deepavali",
+          "name": "Diwali/Deepavali"
+        },
+        {
+          "date": "2027-10-31",
+          "localName": "Bhai Duj",
+          "name": "Bhai Duj"
+        },
+        {
+          "date": "2027-11-04",
+          "localName": "Chhat Puja (Pratihar Sashthi/Surya Sashthi)",
+          "name": "Chhat Puja (Pratihar Sashthi/Surya Sashthi)"
+        },
+        {
+          "date": "2027-11-24",
+          "localName": "Guru Tegh Bahadur's Martyrdom Day",
+          "name": "Guru Tegh Bahadur's Martyrdom Day"
+        },
+        {
+          "date": "2027-12-12",
+          "localName": "Hazarat Ali's Birthday",
+          "name": "Hazarat Ali's Birthday"
+        },
+        {
+          "date": "2027-12-24",
+          "localName": "Christmas Eve",
+          "name": "Christmas Eve"
+        },
+        {
+          "date": "2027-12-25",
+          "localName": "Christmas",
+          "name": "Christmas"
+        }
+      ]
     },
     "Philippines": {
+      "climate": [
+        {
+          "m": 1,
+          "hi": 30,
+          "lo": 24,
+          "rain": 246
+        },
+        {
+          "m": 2,
+          "hi": 30,
+          "lo": 24,
+          "rain": 200
+        },
+        {
+          "m": 3,
+          "hi": 31,
+          "lo": 25,
+          "rain": 215
+        },
+        {
+          "m": 4,
+          "hi": 33,
+          "lo": 25,
+          "rain": 129
+        },
+        {
+          "m": 5,
+          "hi": 31,
+          "lo": 25,
+          "rain": 310
+        },
+        {
+          "m": 6,
+          "hi": 31,
+          "lo": 25,
+          "rain": 316
+        },
+        {
+          "m": 7,
+          "hi": 31,
+          "lo": 26,
+          "rain": 145
+        },
+        {
+          "m": 8,
+          "hi": 31,
+          "lo": 25,
+          "rain": 304
+        },
+        {
+          "m": 9,
+          "hi": 30,
+          "lo": 25,
+          "rain": 224
+        },
+        {
+          "m": 10,
+          "hi": 30,
+          "lo": 25,
+          "rain": 443
+        },
+        {
+          "m": 11,
+          "hi": 30,
+          "lo": 25,
+          "rain": 487
+        },
+        {
+          "m": 12,
+          "hi": 30,
+          "lo": 25,
+          "rain": 149
+        }
+      ],
       "holidays": [
         {
           "date": "2026-01-01",
@@ -2019,75 +3850,75 @@
       "climate": [
         {
           "m": 1,
-          "hi": 8,
-          "lo": -3,
-          "rain": 34
+          "hi": 12,
+          "lo": 2,
+          "rain": 74
         },
         {
           "m": 2,
-          "hi": 3,
-          "lo": -6,
-          "rain": 23
+          "hi": 7,
+          "lo": -2,
+          "rain": 45
         },
         {
           "m": 3,
-          "hi": 14,
-          "lo": 0,
-          "rain": 18
-        },
-        {
-          "m": 4,
-          "hi": 13,
-          "lo": 2,
-          "rain": 100
-        },
-        {
-          "m": 5,
-          "hi": 20,
-          "lo": 6,
-          "rain": 50
-        },
-        {
-          "m": 6,
-          "hi": 25,
-          "lo": 10,
-          "rain": 6
-        },
-        {
-          "m": 7,
-          "hi": 31,
-          "lo": 14,
-          "rain": 3
-        },
-        {
-          "m": 8,
-          "hi": 30,
-          "lo": 15,
-          "rain": 6
-        },
-        {
-          "m": 9,
-          "hi": 24,
-          "lo": 10,
-          "rain": 15
-        },
-        {
-          "m": 10,
-          "hi": 17,
-          "lo": 5,
+          "hi": 18,
+          "lo": 4,
           "rain": 33
         },
         {
+          "m": 4,
+          "hi": 17,
+          "lo": 6,
+          "rain": 77
+        },
+        {
+          "m": 5,
+          "hi": 24,
+          "lo": 10,
+          "rain": 44
+        },
+        {
+          "m": 6,
+          "hi": 31,
+          "lo": 15,
+          "rain": 1
+        },
+        {
+          "m": 7,
+          "hi": 36,
+          "lo": 19,
+          "rain": 0
+        },
+        {
+          "m": 8,
+          "hi": 35,
+          "lo": 19,
+          "rain": 3
+        },
+        {
+          "m": 9,
+          "hi": 29,
+          "lo": 15,
+          "rain": 26
+        },
+        {
+          "m": 10,
+          "hi": 20,
+          "lo": 9,
+          "rain": 54
+        },
+        {
           "m": 11,
-          "hi": 14,
-          "lo": 1,
-          "rain": 10
+          "hi": 18,
+          "lo": 6,
+          "rain": 27
         },
         {
           "m": 12,
-          "hi": 6,
-          "lo": -3,
-          "rain": 37
+          "hi": 11,
+          "lo": 1,
+          "rain": 40
         }
       ],
       "holidays": [

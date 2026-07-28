@@ -1,0 +1,13 @@
+---
+import WhenToGoIndex from '../../../../components/WhenToGoIndex.astro';
+import { whenToGoCountries } from '../../../../lib/when-to-go-paths.mjs';
+import type { Lang } from '../../../../i18n/utils';
+
+export function getStaticPaths() {
+  return (['ko', 'ja', 'es', 'zh'] as Lang[]).map((lang) => ({ params: { lang }, props: { lang } }));
+}
+const { lang } = Astro.props;
+const countries = await whenToGoCountries();
+---
+
+<WhenToGoIndex countries={countries} lang={lang} />

@@ -1,0 +1,74 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Newsletter from './Newsletter.astro';
+import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
+import { localizePlace } from '../i18n/places';
+import { MONTHS, monthSlug } from '../lib/when-to-go.mjs';
+
+// The grid every country-month page links back to. Its job is to be the one page
+// a crawler can reach every one of the 204 from, and to let a reader who knows
+// only "somewhere in March" start from the month instead of the country.
+interface Props { countries: { country: string; slug: string; venues: number }[]; lang: Lang }
+const { countries, lang } = Astro.props;
+const t = useTranslations(lang);
+
+const monthName = (m: number) =>
+  new Intl.DateTimeFormat(localeCodes[lang], { month: 'long' }).format(new Date(Date.UTC(2026, m - 1, 1)));
+const monthShort = (m: number) =>
+  new Intl.DateTimeFormat(localeCodes[lang], { month: 'short' }).format(new Date(Date.UTC(2026, m - 1, 1)));
+
+const title = t('wtg.indexTitle');
+const dek = t('wtg.indexDek');
+const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
+const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
+const path = (c: string, m: number) => localizePath(`/tools/when-to-go/${c}/${monthSlug(m)}`, lang);
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: title,
+  description: dek,
+  url: pageUrl,
+  isPartOf: { '@id': `${site}/#site` },
+};
+---
+
+<BaseLayout title={title} description={dek} lang={lang}>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+
+  <article class="wtgi">
+    <h1>{title}</h1>
+    <p class="dek">{dek}</p>
+
+    {countries.map((c) => (
+      <section class="wtgi-row">
+        <h2>{localizePlace(c.country, lang)}</h2>
+        <ul>
+          {MONTHS.map((m) => (
+            <li><a href={path(c.slug, m)} title={`${localizePlace(c.country, lang)} · ${monthName(m)}`}>{monthShort(m)}</a></li>
+          ))}
+        </ul>
+      </section>
+    ))}
+
+    <p class="disclosure">{t('wtg.source')}</p>
+  </article>
+
+  <Newsletter lang={lang} />
+</BaseLayout>
+
+<style>
+  .wtgi { max-width: var(--wrap); margin: 0 auto; padding: 2rem 1rem 0; }
+  .wtgi h1 { margin: 0 0 0.5rem; }
+  .dek { color: var(--muted); margin: 0 0 2rem; }
+  .wtgi-row { margin-bottom: 1.4rem; padding-bottom: 1.1rem; border-bottom: 1px solid var(--line-soft); }
+  .wtgi-row h2 { font-size: 1rem; margin: 0 0 0.55rem; }
+  .wtgi-row ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 0.4rem; }
+  .wtgi-row a {
+    display: inline-block; min-width: 3.2rem; text-align: center;
+    padding: 0.35rem 0.6rem; border: 1px solid var(--line); border-radius: var(--r-sm);
+    background: var(--surface); color: var(--ink); text-decoration: none; font-size: 0.85rem;
+  }
+  .wtgi-row a:hover { border-color: var(--accent); color: var(--accent); }
+  .disclosure { margin-top: 2rem; color: var(--muted); font-size: 0.8rem; }
+</style>
