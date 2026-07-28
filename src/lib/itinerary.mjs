@@ -149,15 +149,34 @@ function planDay(cluster, stopsWanted) {
     if (next) pool.delete(next);
     cur = next;
   }
-  // lunch after the first 1-2 stops; evening = last stop
+  // Build stops with chronologically ordered slots: morning < lunch < afternoon < evening
+  // This ensures the emitted day plan reads correctly top-to-bottom (not morning → afternoon → lunch → evening)
   const stops = [];
-  picked.forEach((p, i) => {
-    if (i === Math.min(2, picked.length - 1) && restaurants[0]) {
-      stops.push({ post: restaurants.shift(), slot: 'lunch' });
-    }
-    stops.push({ post: p, slot: i === 0 ? 'morning' : 'afternoon' });
-  });
-  if (stops.length > 1) stops[stops.length - 1].slot = 'evening';
+
+  // Morning must be a sight (not a restaurant) for proper day structure
+  // If no sights exist (restaurant-only cluster), return empty stops to trigger guard in buildItinerary
+  if (picked.length === 0) {
+    return stops;
+  }
+
+  // Position 0: morning (first sight)
+  stops.push({ post: picked[0], slot: 'morning' });
+
+  // Position 1: lunch (after morning, if restaurant exists)
+  if (restaurants.length > 0) {
+    stops.push({ post: restaurants.shift(), slot: 'lunch' });
+  }
+
+  // Position 2...n-1: afternoon (all sights except first and last)
+  for (let i = 1; i < picked.length - 1; i++) {
+    stops.push({ post: picked[i], slot: 'afternoon' });
+  }
+
+  // Position n-1: evening (last sight, if there are 2+ sights)
+  if (picked.length > 1) {
+    stops.push({ post: picked[picked.length - 1], slot: 'evening' });
+  }
+
   return stops;
 }
 

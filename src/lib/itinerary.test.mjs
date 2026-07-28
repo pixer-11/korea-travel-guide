@@ -148,3 +148,79 @@ test('buildItinerary: balanced valid input produces all days with ≥3 stops', (
     assert.ok(d.stops.length <= 5, `day ${i + 1} must have ≤5 stops, got ${d.stops.length}`);
   }
 });
+
+test('chronological slot ordering: 12-post fixture with restaurants', () => {
+  // Re-use the 12-post synthetic fixture to verify slots are chronologically ordered
+  const posts = [];
+  for (let i = 0; i < 5; i++) posts.push(P(`north${i}`, 37.58 + i * 0.002, 126.98));
+  posts.push(P('north-rest', 37.581, 126.979, 'restaurant'));
+  for (let i = 0; i < 5; i++) posts.push(P(`south${i}`, 37.51 + i * 0.002, 127.06));
+  posts.push(P('south-rest', 37.511, 127.059, 'restaurant'));
+
+  const it = buildItinerary(posts, { days: 3 });
+  assert.equal(it.ok, true);
+
+  // Slot rank: morning=0, lunch=1, afternoon=2, evening=3
+  const slotRank = { morning: 0, lunch: 1, afternoon: 2, evening: 3 };
+
+  for (let dayIdx = 0; dayIdx < it.days.length; dayIdx++) {
+    const d = it.days[dayIdx];
+    let lunchCount = 0;
+
+    // Verify chronological ordering and count lunches
+    for (let i = 0; i < d.stops.length; i++) {
+      const s = d.stops[i];
+      const rank = slotRank[s.slot];
+      assert.ok(rank !== undefined, `day ${dayIdx + 1} stop ${i}: unknown slot '${s.slot}'`);
+      if (s.slot === 'lunch') lunchCount++;
+
+      // Check non-decreasing order
+      if (i > 0) {
+        const prevRank = slotRank[d.stops[i - 1].slot];
+        assert.ok(prevRank <= rank, `day ${dayIdx + 1}: slot sequence not chronological: ${d.stops[i - 1].slot}(${prevRank}) then ${s.slot}(${rank})`);
+      }
+    }
+
+    // At most one lunch per day
+    assert.ok(lunchCount <= 1, `day ${dayIdx + 1}: found ${lunchCount} lunch slots, expected ≤1`);
+  }
+});
+
+test('chronological slot ordering: two restaurants in one cluster', () => {
+  // Test with two restaurants in the same cluster to verify dinner (second restaurant) handling
+  const posts = [];
+  // Cluster with 5 sights + 2 restaurants = 7 posts
+  for (let i = 0; i < 5; i++) posts.push(P(`venue${i}`, 37.60 + i * 0.002, 126.95));
+  posts.push(P('lunch-cafe', 37.601, 126.951, 'restaurant'));
+  posts.push(P('dinner-restaurant', 37.602, 126.952, 'restaurant'));
+  // Cluster 2: minimum viable (3 posts)
+  for (let i = 0; i < 3; i++) posts.push(P(`far${i}`, 37.40 + i * 0.002, 126.80));
+  // Cluster 3: minimum viable (3 posts)
+  for (let i = 0; i < 3; i++) posts.push(P(`other${i}`, 37.50 + i * 0.002, 127.10));
+
+  const it = buildItinerary(posts, { days: 3 });
+  assert.equal(it.ok, true);
+
+  const slotRank = { morning: 0, lunch: 1, afternoon: 2, evening: 3 };
+
+  for (let dayIdx = 0; dayIdx < it.days.length; dayIdx++) {
+    const d = it.days[dayIdx];
+    let lunchCount = 0;
+
+    // Verify chronological ordering
+    for (let i = 0; i < d.stops.length; i++) {
+      const s = d.stops[i];
+      const rank = slotRank[s.slot];
+      assert.ok(rank !== undefined, `day ${dayIdx + 1} stop ${i}: unknown slot '${s.slot}'`);
+      if (s.slot === 'lunch') lunchCount++;
+
+      if (i > 0) {
+        const prevRank = slotRank[d.stops[i - 1].slot];
+        assert.ok(prevRank <= rank, `day ${dayIdx + 1}: slot sequence not chronological: ${d.stops[i - 1].slot} then ${s.slot}`);
+      }
+    }
+
+    // At most one lunch per day (dinner is not a slot, it's evening)
+    assert.ok(lunchCount <= 1, `day ${dayIdx + 1}: found ${lunchCount} lunch slots, expected ≤1`);
+  }
+});
