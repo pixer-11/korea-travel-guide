@@ -287,14 +287,63 @@ test('insertPlaceIntoFrontmatter inserts place right after gallery, preserving a
   assert.equal('place' in fm, false);
 });
 
-// ── frontmatter round-trip write (real fixture, temp copy) ─────────────
+// ── frontmatter round-trip write (synthetic fixture, owned by the test) ──
+// Round 4: these tests used to read a REAL post (seoul-ikseon-dong.md) as
+// their fixture and assert it started placeless. Once the CI geocode run
+// actually attached a place: block to that post, the precondition went
+// false and the test broke for everyone from then on — a test must never
+// depend on the mutable state of live content. Fixtures below are built
+// entirely by the test, written to a fresh temp dir, and cleaned up after.
+// Deliberately exercises the same shapes real posts have: a quoted string
+// (title), a folded ">-" block scalar (description), a nested object
+// (heroImage), an array of objects (gallery), a plain array (tags), and a
+// Date-typed field (unquoted ISO pubDate — js-yaml parses this as a JS
+// Date, which yaml.dump must round-trip correctly).
+function syntheticCrlfFixture() {
+  const lines = [
+    '---',
+    "title: 'Test Neighborhood in Testville'",
+    'description: >-',
+    '  A folded YAML description',
+    '  that spans two lines but is',
+    '  read back as one string.',
+    'region: Testville',
+    'category: hidden-gem',
+    'pubDate: 2026-07-20T00:00:00.000Z',
+    'heroImage:',
+    '  url: https://example.com/hero.jpg',
+    "  credit: 'Photo: Test User (CC BY)'",
+    '  license: wikimedia',
+    '  source: https://example.com/source',
+    'gallery:',
+    '  - url: https://example.com/gallery1.jpg',
+    "    credit: 'Photo: Test Gallery (CC BY)'",
+    '    license: wikimedia',
+    '    source: https://example.com/gallery-source',
+    'tags:',
+    '  - testville',
+    '  - hidden-gem',
+    'quickAnswer: A short synthetic quick answer used only by this test.',
+    'aiGenerated: true',
+    'draft: false',
+    '---',
+    '',
+    '## Why go',
+    '',
+    'Synthetic CRLF body text that must survive the round-trip untouched.',
+    '',
+    'A second CRLF paragraph, with a trailing line.',
+    '',
+  ];
+  return lines.join('\r\n');
+}
 
-test('writePostFile writes a place: block and leaves every other field + the body untouched', async () => {
-  const fixturePath = new URL('../src/content/posts/seoul-ikseon-dong.md', import.meta.url);
-  const original = await readFile(fixturePath, 'utf8');
+test('writePostFile writes a place: block and leaves every other field + the body untouched (synthetic fixture)', async () => {
+  const original = syntheticCrlfFixture();
+  assert.ok(original.includes('\r\n'), 'synthetic fixture must be CRLF for this test to be meaningful');
 
   const dir = await mkdtemp(join(tmpdir(), 'geocode-placeless-test-'));
-  const tmpPath = join(dir, 'seoul-ikseon-dong.md');
+  const tmpPath = join(dir, 'synthetic-post.md');
   await writeFile(tmpPath, original, 'utf8');
 
   try {
@@ -302,15 +351,15 @@ test('writePostFile writes a place: block and leaves every other field + the bod
     assert.equal(before.data.place, undefined, 'fixture must start placeless for this test to be meaningful');
 
     const place = buildPlaceBlock({
-      id: 'ChIJ-fake-ikseon-dong',
-      name: 'Ikseon-dong',
-      address: 'Ikseon-dong, Jongno-gu, Seoul, South Korea',
+      id: 'ChIJ-fake-synthetic',
+      name: 'Test Neighborhood',
+      address: 'Test Neighborhood, Testville',
       rating: 4.4,
       userRatingsTotal: 2100,
       googleMapsUrl: 'https://maps.google.com/?cid=1234567890',
       businessStatus: 'OPERATIONAL',
       lat: 37.5735,
-      lng: 126.9910,
+      lng: 126.991,
     });
     const nextFm = insertPlaceIntoFrontmatter(before.data, place);
     await writePostFile(tmpPath, nextFm, before.content, original);
@@ -321,10 +370,15 @@ test('writePostFile writes a place: block and leaves every other field + the bod
     // place block landed with the right values
     assert.deepEqual(after.data.place, place);
 
-    // every other frontmatter field is untouched
+    // every other frontmatter field is untouched — including the folded
+    // scalar, the nested object, both array shapes, and the Date field.
+    assert.equal(Object.keys(before.data).length, Object.keys(after.data).length - 1); // +1 for the new `place` key
     for (const key of Object.keys(before.data)) {
       assert.deepEqual(after.data[key], before.data[key], `field "${key}" changed`);
     }
+    assert.ok(after.data.pubDate instanceof Date, 'pubDate should still be a Date after round-tripping');
+    assert.deepEqual(after.data.gallery, before.data.gallery);
+    assert.equal(after.data.description, 'A folded YAML description that spans two lines but is read back as one string.');
 
     // body/prose is byte-for-byte identical — round-trip must never touch it
     assert.equal(after.content, before.content);
@@ -335,10 +389,9 @@ test('writePostFile writes a place: block and leaves every other field + the bod
 
 // ── line-ending preservation (backfill-place-details.mjs pattern) ──────
 
-test('writePostFile normalizes the WHOLE output to CRLF when the source file is CRLF (no mixed line endings)', async () => {
-  const fixturePath = new URL('../src/content/posts/seoul-ikseon-dong.md', import.meta.url);
-  const original = await readFile(fixturePath, 'utf8');
-  assert.ok(original.includes('\r\n'), 'fixture must be CRLF for this test to be meaningful');
+test('writePostFile normalizes the WHOLE output to CRLF when the source file is CRLF (no mixed line endings, synthetic fixture)', async () => {
+  const original = syntheticCrlfFixture();
+  assert.ok(original.includes('\r\n'), 'synthetic fixture must be CRLF for this test to be meaningful');
 
   const dir = await mkdtemp(join(tmpdir(), 'geocode-placeless-test-'));
   const tmpPath = join(dir, 'crlf-fixture.md');
@@ -347,7 +400,7 @@ test('writePostFile normalizes the WHOLE output to CRLF when the source file is 
   try {
     const before = matter(original);
     const place = buildPlaceBlock({
-      id: 'ChIJ-fake', name: 'Ikseon-dong', address: 'Seoul, South Korea',
+      id: 'ChIJ-fake', name: 'Test Neighborhood', address: 'Testville',
       googleMapsUrl: 'https://maps.google.com/?cid=1', lat: 37.57, lng: 126.99,
     });
     const nextFm = insertPlaceIntoFrontmatter(before.data, place);
