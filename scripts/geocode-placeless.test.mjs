@@ -109,11 +109,57 @@ test('nameGatePass short-name guard: "Luna" (4 chars, under MIN_SUBSTRING_LEN) d
   assert.equal(nameGatePass(tmp, 'Rome', 'Lunar Park Zagreb'), false);
 });
 
-test('nameGatePass fold-and-contains also folds away diacritics (NFKD)', () => {
+test('nameGatePass fold-and-exact-match also folds away diacritics (NFKD)', () => {
   // Chosen so the token path (word split on stopwords/region) genuinely
-  // fails first and only the diacritic-folding substring path can pass it.
+  // fails first and only the diacritic-folding exact-match path can pass it.
   const tmp = titleMainPart('Émile in Paris', 'Paris');
   assert.equal(nameGatePass(tmp, 'Paris', 'Emile'), true);
+});
+
+// ── gate (b) fix round 3: tighten the substring path to token-boundary ──
+// anchored matches only, reject numeric sub-unit leftovers, raise the
+// short-side floor 5 → 8. These three concrete false-accepts (found by
+// re-review against real CI output) must now all FAIL.
+
+test('nameGatePass REJECTS "The Alley" vs "The Alleyway Café" (mid-word match inside a longer word, no token boundary)', () => {
+  const tmp = titleMainPart('The Alley in Bangkok', 'Bangkok');
+  assert.equal(tmp, 'The Alley');
+  assert.equal(nameGatePass(tmp, 'Bangkok', 'The Alleyway Café'), false);
+});
+
+test('nameGatePass REJECTS "Villa" vs "Villaggio Italian Restaurant" (below the round-3 8-char floor)', () => {
+  const tmp = titleMainPart('Villa in Rome', 'Rome');
+  assert.equal(tmp, 'Villa');
+  assert.equal(nameGatePass(tmp, 'Rome', 'Villaggio Italian Restaurant'), false);
+});
+
+test('nameGatePass REJECTS "Euljiro" vs "Eulji-ro 5-ga" (a specific numbered sub-block, not the street itself)', () => {
+  const tmp = titleMainPart('Euljiro in Seoul', 'Seoul');
+  assert.equal(nameGatePass(tmp, 'Seoul', 'Eulji-ro 5-ga'), false);
+});
+
+test('nameGatePass still ACCEPTS "Euljiro" vs "Eulji-ro" after the round-3 tightening (exact match after folding)', () => {
+  const tmp = titleMainPart('Euljiro in Seoul', 'Seoul');
+  assert.equal(nameGatePass(tmp, 'Seoul', 'Eulji-ro'), true);
+});
+
+test('nameGatePass still ACCEPTS "Saladaeng" vs "Sala Daeng Road" after the round-3 tightening (token-anchored, trailing "road" is not a sub-unit)', () => {
+  const tmp = titleMainPart('Saladaeng in Bangkok', 'Bangkok');
+  assert.equal(nameGatePass(tmp, 'Bangkok', 'Sala Daeng Road'), true);
+});
+
+test('nameGatePass rejects a numeric sub-unit leftover even when the shorter side clears the 8-char floor and lines up on a token boundary', () => {
+  // Deliberately a fused single-word title (no internal separator) so the
+  // pre-existing token-overlap path (unchanged by round 3) genuinely fails
+  // and control reaches the new substring/sub-unit logic being tested here
+  // — a multi-word title like "Riverside Market" would instead pass via
+  // plain word overlap ("market" aside) before ever reaching this code.
+  const tmp = titleMainPart('Saladaeng in Bangkok', 'Bangkok');
+  assert.equal(tmp, 'Saladaeng');
+  // "2" is a sub-unit qualifier (starts with a digit) → reject.
+  assert.equal(nameGatePass(tmp, 'Bangkok', 'Sala Daeng 2'), false);
+  // A plain trailing word ("Exit") is NOT a sub-unit → still accepted.
+  assert.equal(nameGatePass(tmp, 'Bangkok', 'Sala Daeng Exit'), true);
 });
 
 // ── gate (a)+(b) combined: the Oxomoco Brooklyn trap ────────────────────
