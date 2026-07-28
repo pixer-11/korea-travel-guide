@@ -29,6 +29,53 @@ test('dwellMinutes: extracted from prose else category default', () => {
   assert.equal(dwellMinutes({ data: { category: 'attraction' }, body: '' }), 120);
 });
 
+test('dwellMinutes: recognizes guide phrasings (hour-long, couple of hours, minutes, quick stop, etc.)', () => {
+  // Existing "plan on" should still work
+  assert.equal(dwellMinutes({ data: { category: 'attraction' }, body: 'Plan on 2-3 hours' }), 150);
+
+  // "hour-long"
+  assert.equal(dwellMinutes({ data: { category: 'attraction' }, body: 'ideal for an hour-long stroll' }), 60);
+
+  // Real Cheonggyecheon case: multiple sentences, guard words present
+  // First sentence has "hour-long" before "rather than", second has "full" before "3+ hours"
+  // Result should be 60 from first sentence (extracted before "rather than")
+  assert.equal(
+    dwellMinutes({
+      data: { category: 'attraction' },
+      body: 'ideal for an hour-long stroll rather than a whole-day destination. Walking the full 11 km to Dongdaemun takes 3+ hours.'
+    }),
+    60
+  );
+
+  // "a couple of hours"
+  assert.equal(dwellMinutes({ data: { category: 'attraction' }, body: 'a couple of hours exploring' }), 120);
+
+  // "a few hours"
+  assert.equal(dwellMinutes({ data: { category: 'attraction' }, body: 'allow a few hours here' }), 150);
+
+  // "half-day"
+  assert.equal(dwellMinutes({ data: { category: 'attraction' }, body: 'a half-day adventure' }), 240);
+
+  // "N-hour" with digits
+  assert.equal(dwellMinutes({ data: { category: 'attraction' }, body: 'a 2-hour walk' }), 120);
+
+  // "N-hour" with words
+  assert.equal(dwellMinutes({ data: { category: 'attraction' }, body: 'a three-hour experience' }), 180);
+
+  // "N minutes" without preceding verb
+  assert.equal(dwellMinutes({ data: { category: 'attraction' }, body: 'takes about 40 minutes' }), 40);
+
+  // "N-minute walk"
+  assert.equal(dwellMinutes({ data: { category: 'attraction' }, body: 'a 30-minute stroll' }), 30);
+
+  // "quick stop"
+  assert.equal(dwellMinutes({ data: { category: 'attraction' }, body: 'a quick stop for photos' }), 30);
+
+  // No duration phrase → category default
+  assert.equal(dwellMinutes({ data: { category: 'attraction' }, body: 'A nice place' }), 120);
+  assert.equal(dwellMinutes({ data: { category: 'restaurant' }, body: 'Great food' }), 60);
+});
+
 test('walkLeg: haversine, >2km flips to transit', () => {
   const a = { data: { place: { lat: 37.5796, lng: 126.977 } } };  // Gyeongbokgung
   const b = { data: { place: { lat: 37.5826, lng: 126.9831 } } }; // ~0.65km NE
@@ -92,6 +139,40 @@ test('dwellMinutes: regex matches hyphen, en-dash, and "to" separator', () => {
   assert.equal(dwellMinutes({ data: { category: 'attraction' }, body: 'Plan on 2–3 hours here.' }), 150);
   assert.equal(dwellMinutes({ data: { category: 'attraction' }, body: 'Plan on 2 to 3 hours here.' }), 150);
   assert.equal(dwellMinutes({ data: { category: 'attraction' }, body: 'Allow 30-45 minutes here.' }), 38);
+});
+
+test('dwellMinutes: real Seoul cases with decimals and ranges', () => {
+  // seoul-ikseon-dong.md: "Budget 1.5 to 2 hours for a relaxed wander"
+  const ik = dwellMinutes({ data: { category: 'attraction' }, body: 'Budget 1.5 to 2 hours for a relaxed wander' });
+  assert.ok(ik >= 100 && ik <= 110, `ikseon should be ~105, got ${ik}`);
+
+  // seoul-myeongdong-shopping-street.md: "Budget 2-3 hours"
+  assert.equal(dwellMinutes({ data: { category: 'attraction' }, body: 'Budget 2-3 hours' }), 150);
+
+  // seoul-cheonggyecheon.md: guard against "full 11 km takes 3+ hours", extract "30-45 minutes" instead
+  const cheon = dwellMinutes({
+    data: { category: 'attraction' },
+    body: '30-45 minutes. Walking the full 11 km to Dongdaemun takes 3+ hours.'
+  });
+  assert.ok(cheon >= 37 && cheon <= 43, `cheonggyecheon should be ~40, got ${cheon}`);
+});
+
+test('walkLeg: transit legs return null for minutes', () => {
+  const a = { data: { place: { lat: 37.5, lng: 126.9 } } };
+  const b = { data: { place: { lat: 37.4, lng: 127.1 } } }; // ~12km away (transit)
+  const leg = walkLeg(a, b);
+  assert.equal(leg.transit, true, 'should be marked as transit');
+  assert.equal(leg.minutes, null, 'transit legs should have null minutes, not an invented walking time');
+  assert.ok(leg.km > 2, 'km should still be calculated');
+});
+
+test('walkLeg: short legs have walking minutes', () => {
+  const a = { data: { place: { lat: 37.58, lng: 126.98 } } };
+  const b = { data: { place: { lat: 37.582, lng: 126.981 } } }; // ~0.3km
+  const leg = walkLeg(a, b);
+  assert.equal(leg.transit, false, 'should not be transit');
+  assert.ok(typeof leg.minutes === 'number', 'walkable legs should have numeric minutes');
+  assert.ok(leg.minutes > 0, 'minutes should be positive');
 });
 
 test('buildItinerary: regression — lopsided cluster distribution (10 tight + 2 far outliers) terminates', () => {

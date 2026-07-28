@@ -36,17 +36,112 @@ export function closedDaysOf(openingHours) {
   return out;
 }
 
-// "plan on 2-3 hours" / "allow 90 minutes" in OUR vetted prose → minutes.
-// Take the range midpoint; clamp to sane bounds; else category default.
+// Extract dwell time from OUR guides' prose. Recognizes multiple duration phrasings:
+// - existing: "plan on/allow/budget/spend N hours|minutes"
+// - "hour-long" / "an hour-long X" → 60min
+// - "a couple of hours" → 120min
+// - "a few hours" → 150min
+// - "half-day" / "half a day" → 240min
+// - "N-hour" (e.g. "2-hour walk", "three-hour visit") → N*60min
+// - "N minutes" / "takes about N minutes" / "N-minute walk" → Nmin
+// - "quick stop" / "a quick visit" → 30min
+// Guard: ignore durations in sentences containing "full", "entire", "whole", "if you walk the", or "rather than"
+// — these usually refer to alternatives, not the main visit. Precedence: first occurrence wins.
 export function dwellMinutes(post) {
   const body = String(post.body || '');
-  const h = /(?:plan on|allow|budget|spend)\s+(?:about\s+|around\s+)?(\d+)(?:\s*(?:-|–|to)\s*(\d+))?\s*hours?/i.exec(body);
-  const m = /(?:plan on|allow|budget|spend)\s+(?:about\s+|around\s+)?(\d+)(?:\s*(?:-|–|to)\s*(\d+))?\s*min/i.exec(body);
-  let mins = null;
-  if (h) mins = ((Number(h[1]) + Number(h[2] || h[1])) / 2) * 60;
-  else if (m) mins = (Number(m[1]) + Number(m[2] || m[1])) / 2;
-  if (mins == null || !Number.isFinite(mins)) mins = DWELL_DEFAULT[post.data?.category] ?? 90;
-  return Math.max(30, Math.min(300, Math.round(mins)));
+
+  // Split into sentences (avoid splitting on decimal points like "1.5")
+  // Match periods followed by space or end-of-string, or exclamation/question marks
+  const sentences = body.split(/(?<!\d)[.!?]+(?=\s|$)/).map(s => s.trim()).filter(s => s.length > 0);
+  const guardWords = ['full', 'entire', 'whole', 'if you walk the', 'rather than'];
+
+  for (const sentence of sentences) {
+    // Find earliest guard word position; only search BEFORE it
+    let guardPos = Infinity;
+    for (const guard of guardWords) {
+      const pos = sentence.toLowerCase().indexOf(guard.toLowerCase());
+      if (pos !== -1 && pos < guardPos) guardPos = pos;
+    }
+    const textToSearch = sentence.substring(0, guardPos);
+
+    let mins = null;
+
+    // Try each pattern in order of specificity (first match wins within the sentence)
+    // Priority: existing range patterns first to avoid matching individual numbers in ranges
+
+    // 0. Existing "plan on/allow/budget/spend N-M hours|minutes" (handles ranges, now with decimals like "1.5 to 2 hours")
+    {
+      const h = /(?:plan on|allow|budget|spend)\s+(?:about\s+|around\s+)?(\d+(?:\.\d+)?)\s*(?:(?:-|–|to)\s*)?(\d+(?:\.\d+)?)?\s*hours?/i.exec(textToSearch);
+      const m = /(?:plan on|allow|budget|spend)\s+(?:about\s+|around\s+)?(\d+(?:\.\d+)?)\s*(?:(?:-|–|to)\s*)?(\d+(?:\.\d+)?)?\s*min/i.exec(textToSearch);
+      if (h) {
+        const first = Number(h[1]);
+        const second = h[2] ? Number(h[2]) : first;
+        mins = ((first + second) / 2) * 60;
+      } else if (m) {
+        const first = Number(m[1]);
+        const second = m[2] ? Number(m[2]) : first;
+        mins = (first + second) / 2;
+      }
+    }
+
+    // 0b. "N-M minutes" or "N-M minute walk" patterns (e.g. "30-45 minutes", "a brisk 30-60 minute walk")
+    if (!mins && /\ba?\s*\b(?:brisk|quick|short)?\s*(\d+)(?:\s*(?:-|–|to)\s*)?(\d+)?\s*-?minute/i.test(textToSearch)) {
+      const m = /\b(?:brisk|quick|short)?\s*(\d+)(?:\s*(?:-|–|to)\s*)?(\d+)?\s*-?minutes?/i.exec(textToSearch);
+      if (m) {
+        const first = Number(m[1]);
+        const second = m[2] ? Number(m[2]) : first;
+        mins = (first + second) / 2;
+      }
+    }
+
+    // If existing pattern didn't match, try new patterns
+    if (!mins) {
+      // 1. "quick stop" / "a quick visit"
+      if (/\ba\s+quick\s+(?:stop|visit)/i.test(textToSearch)) {
+        mins = 30;
+      }
+      // 2. "hour-long" / "an hour-long X"
+      else if (/\b(?:an?\s+)?hour-long\b/i.test(textToSearch)) {
+        mins = 60;
+      }
+      // 3. "a couple of hours"
+      else if (/\ba\s+couple\s+of\s+hours\b/i.test(textToSearch)) {
+        mins = 120;
+      }
+      // 4. "a few hours"
+      else if (/\ba\s+few\s+hours\b/i.test(textToSearch)) {
+        mins = 150;
+      }
+      // 5. "half-day" / "half a day" / "a half-day"
+      else if (/(?:a\s+)?half(?:\s+a)?(?:\s+|-)?day\b/i.test(textToSearch)) {
+        mins = 240;
+      }
+      // 6. "N-hour" with dash (e.g. "a 2-hour walk", "one-hour visit")
+      else if (/\b(?:a\s+)?(?:one|two|three|four|\d+)-hours?\b/i.test(textToSearch)) {
+        const m = /\b(?:a\s+)?(?:(one|two|three|four)|(\d+))-hours?\b/i.exec(textToSearch);
+        if (m) {
+          const numWord = m[1];
+          const numDigit = m[2];
+          const num = numDigit ? Number(numDigit) : { one: 1, two: 2, three: 3, four: 4 }[numWord.toLowerCase()];
+          if (num) mins = num * 60;
+        }
+      }
+      // 7. "N minutes" / "N-minute" / "takes about N minutes" (e.g. "30 minutes", "a 40-minute walk")
+      else if (/\b(?:takes\s+about\s+|about\s+|a\s+)?(\d+)(?:-| )?min(?:utes?)?\b/i.test(textToSearch)) {
+        const m = /\b(?:takes\s+about\s+|about\s+|a\s+)?(\d+)(?:-| )?min(?:utes?)?\b/i.exec(textToSearch);
+        if (m) mins = Number(m[1]);
+      }
+    }
+
+    // If found a valid duration in this sentence, return it (first match wins)
+    if (mins != null && Number.isFinite(mins)) {
+      return Math.max(30, Math.min(300, Math.round(mins)));
+    }
+  }
+
+  // Fallback: category default
+  const defaultDwell = DWELL_DEFAULT[post.data?.category] ?? 90;
+  return Math.max(30, Math.min(300, Math.round(defaultDwell)));
 }
 
 const rad = (x) => (x * Math.PI) / 180;
@@ -61,7 +156,13 @@ export function walkLeg(a, b) {
   const A = a.data.place, B = b.data.place;
   const km = haversineKm(A.lat, A.lng, B.lat, B.lng) * 1.3; // 1.3 = street-grid detour factor
   const transit = km > TRANSIT_KM;
-  return { km: Math.round(km * 10) / 10, minutes: Math.round((km / WALK_KMH) * 60), transit };
+  return {
+    km: Math.round(km * 10) / 10,
+    // Only return minutes for walkable legs. Transit legs use TRANSIT_FLAT_MIN (~30 min) in budget;
+    // we never estimate actual transit times as the page links Google Maps for real routing
+    minutes: transit ? null : Math.round((km / WALK_KMH) * 60),
+    transit
+  };
 }
 
 // Greedy geographic clustering: seed each day with the farthest-apart anchors,
@@ -207,7 +308,8 @@ export function buildItinerary(posts, { days }) {
     // enforce the 10h budget by trimming the tail (never by shrinking dwell times)
     const total = (ss) => ss.reduce((m, s, i) => {
       const leg = i < ss.length - 1 ? walkLeg(s.post, ss[i + 1].post) : null;
-      return m + dwellMinutes(s.post) + (leg ? (leg.transit ? TRANSIT_FLAT_MIN : leg.minutes) : 0);
+      const legMinutes = leg ? (leg.transit ? TRANSIT_FLAT_MIN : (leg.minutes ?? 0)) : 0;
+      return m + dwellMinutes(s.post) + legMinutes;
     }, 0);
     while (stops.length > PACE.relaxed && total(stops) > DAY_BUDGET_MIN) stops.pop();
     // Guard: no empty days
