@@ -70,8 +70,79 @@ function normTokens(text) {
     .filter(Boolean);
 }
 
-// Gate (b): ≥50% of the significant tokens of titleMainPart appear in the
-// result's displayName, OR displayName's tokens are a subset of the title's.
+// lowercase, NFKD-fold diacritics away, strip EVERY non-alphanumeric
+// (spaces, hyphens, apostrophes, parens, ...) — used for the separator/
+// spacing-variant substring check below, e.g. "Euljiro" vs "Eulji-ro" or
+// "Saladaeng" vs "Sala Daeng Road" should read as the same string.
+function foldAlnum(text) {
+  return String(text || '')
+    .normalize('NFKD')
+    .replace(/\p{Mn}/gu, '') // strip combining diacritical marks left behind by NFKD (Unicode "Mark, nonspacing")
+    .toLowerCase()
+    .replace(/[^a-z0-9]/g, '');
+}
+
+// Below this length on the SHORTER (post-fold) side, a token-boundary
+// substring match is still too likely to be a coincidence — don't use it.
+// (Round 3: raised from 5 to 8 after "Villa" ⊂ "Villaggio Italian
+// Restaurant" false-accepted at 5.)
+const MIN_SUBSTRING_LEN = 8;
+
+// A leftover token right after the matched run that looks like a numeric
+// sub-unit qualifier ("5-ga", "3rd", "No. 3", "#12", ...) means the result
+// is a more SPECIFIC (and possibly wrong-coordinate) sub-block of the named
+// place, not the place itself — e.g. "Euljiro" must not match "Eulji-ro
+// 5-ga" (a specific numbered block of a long street). A plain trailing word
+// like "Road"/"Street"/"Village" is not a sub-unit and stays allowed.
+const SUBUNIT_RE = /^(\d|no\.?\d|#\d)/i;
+
+// lowercase + NFKD-fold diacritics away; used to build the token-run
+// prefixes of a name without collapsing them into one string (each token
+// stays separately identifiable so we can find the leftover after a match).
+function foldedTokensOf(text) {
+  return String(text || '')
+    .normalize('NFKD')
+    .replace(/\p{Mn}/gu, '')
+    .toLowerCase()
+    .split(/[^a-z0-9]+/)
+    .filter(Boolean);
+}
+
+// The longer name's tokens, folded, plus every "leading run" concatenation
+// of them: for "Sala Daeng Road" → tokens ["sala","daeng","road"], runs
+// ["sala", "saladaeng", "saladaengroad"]. A run is, by construction, always
+// a true prefix of the fully-folded string AND aligned to a token boundary
+// — this is what makes it safe against mid-word matches like "The Alley"
+// inside "The Alleyway Café" (no run of the latter ever equals "thealley").
+function leadingRunFolds(text) {
+  const tokens = foldedTokensOf(text);
+  const runs = [];
+  let acc = '';
+  for (const t of tokens) {
+    acc += t;
+    runs.push(acc);
+  }
+  return { tokens, runs };
+}
+
+// Gate (b): PASS if either —
+//  1. ≥50% of the significant tokens of titleMainPart appear in the result's
+//     displayName, OR displayName's tokens are a subset of the title's; OR
+//  2. after folding both sides to bare lowercase alphanumerics (diacritics
+//     stripped, every separator removed) the two strings are EXACTLY equal
+//     — a pure separator/spacing/diacritic variant of the identical name
+//     ("Euljiro" / "Eulji-ro", "Émile" / "Emile"). No length minimum here:
+//     an exact match isn't a substring coincidence, so there's nothing to
+//     guard against; or
+//  3. the SHORTER folded side (≥ MIN_SUBSTRING_LEN chars) equals one of the
+//     LONGER side's leading token-run folds — i.e. the shorter name is a
+//     token-boundary-anchored PREFIX of the longer one, never a mid-word
+//     fragment — AND the longer side's next token after that match isn't a
+//     numeric sub-unit qualifier. This is what accepts "Saladaeng" inside
+//     "Sala Daeng Road" while still rejecting "The Alley" inside "The
+//     Alleyway Café" (no token boundary lines up) and "Euljiro" inside
+//     "Eulji-ro 5-ga" (the leftover "5" is a sub-unit, a different, more
+//     specific place than the one meant).
 export function nameGatePass(tmp, region, displayName) {
   const regionTokens = new Set(normTokens(region));
   const titleTokens = normTokens(tmp).filter((t) => !STOPWORDS.has(t) && !regionTokens.has(t));
@@ -82,7 +153,27 @@ export function nameGatePass(tmp, region, displayName) {
   const overlapRatio = hits / titleTokens.length;
   const titleTokenSet = new Set(titleTokens);
   const subsetOk = nameTokens.every((t) => titleTokenSet.has(t) || STOPWORDS.has(t) || regionTokens.has(t));
-  return overlapRatio >= 0.5 || subsetOk;
+  if (overlapRatio >= 0.5 || subsetOk) return true;
+
+  const foldedTitle = foldAlnum(tmp);
+  const foldedName = foldAlnum(displayName);
+  if (!foldedTitle || !foldedName) return false;
+
+  if (foldedTitle === foldedName) return true;
+
+  const titleIsShorter = foldedTitle.length <= foldedName.length;
+  const shorter = titleIsShorter ? foldedTitle : foldedName;
+  const longerOriginal = titleIsShorter ? displayName : tmp;
+  if (shorter.length < MIN_SUBSTRING_LEN) return false;
+
+  const { tokens, runs } = leadingRunFolds(longerOriginal);
+  const matchIdx = runs.indexOf(shorter);
+  if (matchIdx === -1) return false;
+
+  const leftover = tokens[matchIdx + 1];
+  if (leftover && SUBUNIT_RE.test(leftover)) return false;
+
+  return true;
 }
 
 // Gate (c): if businessStatus is present it must not be a CLOSED_* value.
