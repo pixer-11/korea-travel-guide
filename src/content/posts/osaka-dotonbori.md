@@ -37,6 +37,7 @@ faq:
   - q: When is the best time to visit for photos without heavy crowds?
     a: Arrive around 4:30–5pm as the billboards light up but before the peak dinner crowd, or visit on a weekday for a comparatively calmer walk.
 aiGenerated: true
+draft: true
 ---
 
 ## Why Dotonbori is Osaka's food capital

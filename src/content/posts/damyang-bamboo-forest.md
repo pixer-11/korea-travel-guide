@@ -5,10 +5,10 @@ region: Damyang
 category: attraction
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Korea-Damyang-Bamboo_Forest_near_Soswaewon-01.jpg/1920px-Korea-Damyang-Bamboo_Forest_near_Soswaewon-01.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Korea-Damyang-Bamboo_Forest_near_Soswaewon-02.jpg/1920px-Korea-Damyang-Bamboo_Forest_near_Soswaewon-02.jpg
   credit: 'Photo: UNC - CFC - USFK from Seoul, Republic of Korea / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Korea-Damyang-Bamboo_Forest_near_Soswaewon-01.jpg
+  source: https://commons.wikimedia.org/wiki/File:Korea-Damyang-Bamboo_Forest_near_Soswaewon-02.jpg
 gallery: []
 tags:
   - damyang

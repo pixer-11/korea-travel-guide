@@ -6,7 +6,7 @@ region: Bangkok
 category: attraction
 pubDate: '2026-07-22T09:06:23.604Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/61683720_EKCfkPK8FHt2o8Y1PAkfQWKxY6ySBgnh1hobUQVbzPw.jpg
+  url: https://fastly.4sqi.net/img/general/original/403094627_ilqMU7Aj9Wg4Fn0mIyYYUad7x3GPJpy66I6PSYNlNuc.jpg
   credit: 'Photo: Foursquare user content (Wat Arun Rajwararam (วัดอรุณราชวรารามฯ))'
   license: foursquare
   source: https://foursquare.com/v/4c1326d5a5eb76b06c92bfb7
@@ -43,7 +43,7 @@ place:
       - 15
       - 16
     venueId: ven_59595f5a366e565569626e52416a345a6167365f7653614a496843
-  phone: '02 891 2185'
+  phone: 02 891 2185
   openingHours:
     - 'Monday: 8:00 AM – 6:00 PM'
     - 'Tuesday: 8:00 AM – 6:00 PM'

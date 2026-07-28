@@ -6,7 +6,7 @@ region: Fujairah
 category: restaurant
 pubDate: '2026-07-23T07:52:22.299Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/570470121_Jj1AxuNgMusQGmKnEfAcM5REqMYUgtcjsZEiGNqTCt4.jpg
+  url: https://fastly.4sqi.net/img/general/original/79285698_cUpkySSVXvnfN8xg740v4-PuX9OqeUXRis3B4_orWNg.jpg
   credit: 'Photo: Foursquare user content (Steki)'
   license: foursquare
   source: https://foursquare.com/v/636bcb38725e1827c5a07249
@@ -48,7 +48,7 @@ place:
       - 19
       - 20
     venueId: ven_4974314d645172756f5f3952344439356632644349342d4a496843
-  phone: '09 222 2882'
+  phone: 09 222 2882
   openingHours:
     - 'Monday: 9:00 AM – 12:00 AM'
     - 'Tuesday: 9:00 AM – 12:00 AM'

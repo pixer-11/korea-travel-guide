@@ -6,7 +6,7 @@ region: Sharjah
 category: trendy
 pubDate: '2026-07-23T07:56:12.387Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/543182400_s1w8iHMIU6tHHAmUhzncEjk1ym-JKqks8ATc7wjI9eo.jpg
+  url: https://fastly.4sqi.net/img/general/original/541006595_oFT2qJNxKCY-Lsj9yFh02rsjkKQK6WxSxVMqcuQ9Q_8.jpg
   credit: 'Photo: Foursquare user content (TPT By Late Lounge)'
   license: foursquare
   source: https://foursquare.com/v/643c139f4122ce6b21f6dcb1
@@ -60,7 +60,6 @@ faq:
   - q: Is it easy to combine with other things nearby?
     a: Yes — Muwaileh Commercial and the surrounding Misk area have a growing cluster of cafés and casual eateries, and it's a reasonable stop if you're exploring Sharjah's University City side of town.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

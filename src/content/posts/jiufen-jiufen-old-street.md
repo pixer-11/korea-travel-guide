@@ -1,54 +1,54 @@
 ---
-title: "Jiufen Old Street: Travel Guide"
-description: "Jiufen Old Street is a steep, lantern-lined maze of tea houses, food stalls, and mountain-sea viewpoints in Ruifang District, about 45–60 minutes from"
-country: "Taiwan"
-region: "Jiufen"
-category: "attraction"
-pubDate: "2026-07-26T08:27:55.114Z"
+title: 'Jiufen Old Street: Travel Guide'
+description: Jiufen Old Street is a steep, lantern-lined maze of tea houses, food stalls, and mountain-sea viewpoints in Ruifang District, about 45–60 minutes from
+country: Taiwan
+region: Jiufen
+category: attraction
+pubDate: '2026-07-26T08:27:55.114Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/A-Zhu_Peanut_Ice_Cream_Roll%2C_Jiufen_Old_Street%2C_2024.jpg/1920px-A-Zhu_Peanut_Ice_Cream_Roll%2C_Jiufen_Old_Street%2C_2024.jpg"
-  credit: "Photo: Another Believer / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:A-Zhu_Peanut_Ice_Cream_Roll,_Jiufen_Old_Street,_2024.jpg"
+  url: https://fastly.4sqi.net/img/general/original/559041_b_fWt1a_XtHnEFreJ1lT6Oqeom8gQiUJws7Djg3bv1M.jpg
+  credit: 'Photo: Foursquare user content (Jiufen Old Street (九份老街))'
+  license: foursquare
+  source: https://foursquare.com/v/4ddf1792d164da4f2326766e
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/2/2b/Jiufen_Old_Street_01.jpg
     credit: 'Photo: Kabacchi / Wikimedia Commons (CC BY 2.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Jiufen_Old_Street_01.jpg
 place:
-  id: "ChIJcZT7-hdFXTQR0qekplqCFV8"
-  name: "Jiufen Old Street"
-  address: "Jishan St, Ruifang District, New Taipei City, Taiwan 224"
+  id: ChIJcZT7-hdFXTQR0qekplqCFV8
+  name: Jiufen Old Street
+  address: Jishan St, Ruifang District, New Taipei City, Taiwan 224
   rating: 4.3
   userRatingsTotal: 107790
-  googleMapsUrl: "https://maps.google.com/?cid=6851525733968553938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=6851525733968553938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.109807699999998
   lng: 121.8452102
-  phone: "02 2406 3270"
+  phone: 02 2406 3270
   openingHours:
-    - "Monday: 10:00 AM – 8:00 PM"
-    - "Tuesday: 10:00 AM – 8:00 PM"
-    - "Wednesday: 10:00 AM – 8:00 PM"
-    - "Thursday: 10:00 AM – 8:00 PM"
-    - "Friday: 10:00 AM – 8:00 PM"
-    - "Saturday: 10:00 AM – 8:00 PM"
-    - "Sunday: 10:00 AM – 8:00 PM"
+    - 'Monday: 10:00 AM – 8:00 PM'
+    - 'Tuesday: 10:00 AM – 8:00 PM'
+    - 'Wednesday: 10:00 AM – 8:00 PM'
+    - 'Thursday: 10:00 AM – 8:00 PM'
+    - 'Friday: 10:00 AM – 8:00 PM'
+    - 'Saturday: 10:00 AM – 8:00 PM'
+    - 'Sunday: 10:00 AM – 8:00 PM'
 tags:
-  - "jiufen"
-  - "top attraction"
-quickAnswer: "Jiufen Old Street is a steep, lantern-lined maze of tea houses, food stalls, and mountain-sea viewpoints in Ruifang District, about 45–60 minutes from Taipei. It's extremely popular, so go on a weekday morning or catch the early-evening lantern glow after 5pm on a weekday — weekend afternoons are packed shoulder-to-shoulder. Plan for 2–3 hours, mostly on foot, with cash for the stalls."
+  - jiufen
+  - top attraction
+quickAnswer: Jiufen Old Street is a steep, lantern-lined maze of tea houses, food stalls, and mountain-sea viewpoints in Ruifang District, about 45–60 minutes from Taipei. It's extremely popular, so go on a weekday morning or catch the early-evening lantern glow after 5pm on a weekday — weekend afternoons are packed shoulder-to-shoulder. Plan for 2–3 hours, mostly on foot, with cash for the stalls.
 faq:
-  - q: "How do I get to Jiufen from Taipei?"
-    a: "Take the direct 1062 bus from Taipei City Hall Bus Station (about an hour), or ride the train to Ruifang Station and transfer to a local bus or taxi for the final 15-20 minutes uphill."
-  - q: "How much time should I budget for Jiufen Old Street?"
-    a: "Plan for at least 2-3 hours given the steep stairs, narrow lanes, and crowds — it takes longer than the small size of the street suggests."
-  - q: "When is Jiufen least crowded?"
-    a: "Weekday mornings right at opening are quietest. Avoid Saturday and Sunday afternoons, when tour buses arrive in waves and the main street slows to a shuffle."
-  - q: "Is Jiufen actually the inspiration for Spirited Away?"
-    a: "This is a popular but unverified claim; Studio Ghibli never confirmed it. The town's fame really took off after the 1989 film 'A City of Sadness' was set there."
-  - q: "Can I combine Jiufen with other sights nearby?"
-    a: "Yes — many visitors pair it in one day with Shifen (sky lanterns) and Houtong (cat village), both reachable via the same rail line or by joining a day-tour minivan from Taipei."
+  - q: How do I get to Jiufen from Taipei?
+    a: Take the direct 1062 bus from Taipei City Hall Bus Station (about an hour), or ride the train to Ruifang Station and transfer to a local bus or taxi for the final 15-20 minutes uphill.
+  - q: How much time should I budget for Jiufen Old Street?
+    a: Plan for at least 2-3 hours given the steep stairs, narrow lanes, and crowds — it takes longer than the small size of the street suggests.
+  - q: When is Jiufen least crowded?
+    a: Weekday mornings right at opening are quietest. Avoid Saturday and Sunday afternoons, when tour buses arrive in waves and the main street slows to a shuffle.
+  - q: Is Jiufen actually the inspiration for Spirited Away?
+    a: This is a popular but unverified claim; Studio Ghibli never confirmed it. The town's fame really took off after the 1989 film 'A City of Sadness' was set there.
+  - q: Can I combine Jiufen with other sights nearby?
+    a: Yes — many visitors pair it in one day with Shifen (sky lanterns) and Houtong (cat village), both reachable via the same rail line or by joining a day-tour minivan from Taipei.
 aiGenerated: true
 draft: false
 ---

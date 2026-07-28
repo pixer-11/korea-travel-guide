@@ -6,7 +6,7 @@ region: Gangneung
 category: hidden-gem
 pubDate: '2026-07-24T22:23:46.830Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/647093_ETfdpB2DBhM8edD2zkwwwMvqX0LREOqXb7Mil_GDLQA.jpg
+  url: https://fastly.4sqi.net/img/general/original/29025250_121-OH3J-CVVQdM2FYuIB_ZAaNak4Xu15kg_F1hpnjg.jpg
   credit: 'Photo: Foursquare user content (ARTE MUSEUM GANGNEUNG (아르떼뮤지엄 강릉))'
   license: foursquare
   source: https://foursquare.com/v/61c3fb885620f14bbc80a081
@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 37.7917805
   lng: 128.90718999999999
-  phone: '1899-5008'
+  phone: 1899-5008
   openingHours:
     - 'Monday: 10:00 AM – 8:00 PM'
     - 'Tuesday: 10:00 AM – 8:00 PM'

@@ -6,7 +6,7 @@ region: Surabaya
 category: trendy
 pubDate: '2026-07-23T07:25:22.961Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/17386222_C4b5FgQL27Y9NJJQv0q9n9ZYrJWut5fddK4Jl59zH8Q.jpg
+  url: https://fastly.4sqi.net/img/general/original/1415786223_3R8vnisrEdzdr5RpIdHd3KO3tIpRRV5dq0vY1yt5avg.jpg
   credit: 'Photo: Foursquare user content (Blue Doors)'
   license: foursquare
   source: https://foursquare.com/v/63b27d30f0ce682a79a10113

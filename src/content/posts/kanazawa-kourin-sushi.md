@@ -1,46 +1,46 @@
 ---
-title: "Kourin Sushi: Where to Eat in Kanazawa"
-description: "Kourin Sushi (光琳寿司) is a well-regarded, moderately priced sushi counter in Bakuromachi, a short walk from Omicho Market — Kanazawa's main fish market and the"
-country: "Japan"
-region: "Kanazawa"
-category: "restaurant"
-pubDate: 2026-07-21
+title: 'Kourin Sushi: Where to Eat in Kanazawa'
+description: Kourin Sushi (光琳寿司) is a well-regarded, moderately priced sushi counter in Bakuromachi, a short walk from Omicho Market — Kanazawa's main fish market and the
+country: Japan
+region: Kanazawa
+category: restaurant
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Mitsui_Garden_Hotel_Kanazawa_1F_Noukabanzai_Mantei_breakfast_buffet_20200104-001.jpg/1920px-Mitsui_Garden_Hotel_Kanazawa_1F_Noukabanzai_Mantei_breakfast_buffet_20200104-001.jpg"
-  credit: "Photo: J o / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Mitsui_Garden_Hotel_Kanazawa_1F_Noukabanzai_Mantei_breakfast_buffet_20200104-001.jpg"
+  url: https://fastly.4sqi.net/img/general/original/57154149_5XFEtuRa6dqMlqAbY75LHhlztmX_Nuq8TXZJEZFLRFE.jpg
+  credit: 'Photo: Foursquare user content (Kourin Sushi (香りん寿司))'
+  license: foursquare
+  source: https://foursquare.com/v/4c8a3b2e1eafb1f72f397835
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/57154149_5XFEtuRa6dqMlqAbY75LHhlztmX_Nuq8TXZJEZFLRFE.jpg
     credit: 'Photo: Foursquare user content (Kourin Sushi (香りん寿司))'
     license: foursquare
     source: https://foursquare.com/v/4c8a3b2e1eafb1f72f397835
 place:
-  id: "ChIJm52atXAz-F8RvmoLUL3aA4A"
-  name: "Kourin Sushi"
-  address: "79 Bakuromachi, Kanazawa, Ishikawa 920-0903, Japan"
+  id: ChIJm52atXAz-F8RvmoLUL3aA4A
+  name: Kourin Sushi
+  address: 79 Bakuromachi, Kanazawa, Ishikawa 920-0903, Japan
   rating: 4.7
   userRatingsTotal: 1461
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=9224456968411507390&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=9224456968411507390&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 36.569455999999995
   lng: 136.65854489999998
 tags:
-  - "kanazawa"
-  - "local restaurant"
-quickAnswer: "Kourin Sushi (光琳寿司) is a well-regarded, moderately priced sushi counter in Bakuromachi, a short walk from Omicho Market — Kanazawa's main fish market and the source of much of what lands on its conveyor or counter. With a 4.7 rating from over 1,400 reviews, it's a reliable pick for Kaga-region seafood (Nodoguro, Kanburi, Kobako crab in season) without the wait or price tag of the market's sit-down sushi-ya. Go for lunch on a weekday to avoid queues, and expect a casual, fast-paced kaiten-zushi (conveyor belt) style experience."
+  - kanazawa
+  - local restaurant
+quickAnswer: Kourin Sushi (光琳寿司) is a well-regarded, moderately priced sushi counter in Bakuromachi, a short walk from Omicho Market — Kanazawa's main fish market and the source of much of what lands on its conveyor or counter. With a 4.7 rating from over 1,400 reviews, it's a reliable pick for Kaga-region seafood (Nodoguro, Kanburi, Kobako crab in season) without the wait or price tag of the market's sit-down sushi-ya. Go for lunch on a weekday to avoid queues, and expect a casual, fast-paced kaiten-zushi (conveyor belt) style experience.
 faq:
-  - q: "Do I need a reservation at Kourin Sushi?"
-    a: "Generally not — it's a casual kaiten-zushi (conveyor-belt) restaurant, so walk-ins are the norm. Arrive before noon on weekdays to minimize waiting, since it doesn't typically take reservations for small groups."
-  - q: "How much does a meal cost?"
-    a: "It falls in the moderate price bracket for Kanazawa sushi — plates are priced individually, so a full meal of several plates plus soup typically costs noticeably less than a formal counter-service sushi-ya near Omicho Market."
-  - q: "How do I get to Kourin Sushi from Kanazawa Station?"
-    a: "It's about a 15-20 minute walk south from the station toward Omicho Market, or a short ride on the Kanazawa Loop Bus to the Omicho Market stop followed by a 5-minute walk north into Bakuromachi. A taxi takes roughly 5 minutes."
-  - q: "What's the best time of year to visit for seafood?"
-    a: "Winter (December-February) brings the richest Kanburi (yellowtail) and Kobako crab, though it's also peak tourist season. Spring and early summer bring lighter, milder fish varieties."
-  - q: "What else is nearby?"
-    a: "Omicho Market is a 5-minute walk away, and Kenrokuen Garden and Kanazawa Castle Park are about 15-20 minutes on foot, making it an easy lunch stop before an afternoon of sightseeing."
+  - q: Do I need a reservation at Kourin Sushi?
+    a: Generally not — it's a casual kaiten-zushi (conveyor-belt) restaurant, so walk-ins are the norm. Arrive before noon on weekdays to minimize waiting, since it doesn't typically take reservations for small groups.
+  - q: How much does a meal cost?
+    a: It falls in the moderate price bracket for Kanazawa sushi — plates are priced individually, so a full meal of several plates plus soup typically costs noticeably less than a formal counter-service sushi-ya near Omicho Market.
+  - q: How do I get to Kourin Sushi from Kanazawa Station?
+    a: It's about a 15-20 minute walk south from the station toward Omicho Market, or a short ride on the Kanazawa Loop Bus to the Omicho Market stop followed by a 5-minute walk north into Bakuromachi. A taxi takes roughly 5 minutes.
+  - q: What's the best time of year to visit for seafood?
+    a: Winter (December-February) brings the richest Kanburi (yellowtail) and Kobako crab, though it's also peak tourist season. Spring and early summer bring lighter, milder fish varieties.
+  - q: What else is nearby?
+    a: Omicho Market is a 5-minute walk away, and Kenrokuen Garden and Kanazawa Castle Park are about 15-20 minutes on foot, making it an easy lunch stop before an afternoon of sightseeing.
 aiGenerated: true
 draft: false
 ---

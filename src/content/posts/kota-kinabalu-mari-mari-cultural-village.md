@@ -1,54 +1,54 @@
 ---
-title: "Mari Mari Cultural Village: Kota Kinabalu Travel Guide"
-description: "Mari Mari Cultural Village, about 25 minutes inland from central Kota Kinabalu in Inanam, is a half-day guided tour through five reconstructed ethnic"
-country: "Malaysia"
-region: "Kota Kinabalu"
-category: "attraction"
-pubDate: "2026-07-26T07:44:54.670Z"
+title: 'Mari Mari Cultural Village: Kota Kinabalu Travel Guide'
+description: Mari Mari Cultural Village, about 25 minutes inland from central Kota Kinabalu in Inanam, is a half-day guided tour through five reconstructed ethnic
+country: Malaysia
+region: Kota Kinabalu
+category: attraction
+pubDate: '2026-07-26T07:44:54.670Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Mari_Mari_Cultural_Village_-_2.jpg/1920px-Mari_Mari_Cultural_Village_-_2.jpg"
-  credit: "Photo: Eugene Alvin Villar (seav) / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Mari_Mari_Cultural_Village_-_2.jpg"
+  url: https://fastly.4sqi.net/img/general/original/8956155_igLnAHVGTJSOI0CaU_WChZbRk3746BrQi4N1odVDl50.jpg
+  credit: 'Photo: Foursquare user content (Mari-Mari Cultural Village)'
+  license: foursquare
+  source: https://foursquare.com/v/4d0d58e695c1a1cd14cb01ff
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Mari_Mari_Cultural_Village_-_3.jpg/1920px-Mari_Mari_Cultural_Village_-_3.jpg
     credit: 'Photo: Eugene Alvin Villar (seav) / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Mari_Mari_Cultural_Village_-_3.jpg
 place:
-  id: "ChIJBz9ZrIhpOzIRG6BIRQ4WRDs"
-  name: "Mari Mari Cultural Village"
-  address: "Road, Jalan Kionsom, Inanam, 88450 Kota Kinabalu, Sabah, Malaysia"
+  id: ChIJBz9ZrIhpOzIRG6BIRQ4WRDs
+  name: Mari Mari Cultural Village
+  address: Road, Jalan Kionsom, Inanam, 88450 Kota Kinabalu, Sabah, Malaysia
   rating: 4.7
   userRatingsTotal: 3926
-  googleMapsUrl: "https://maps.google.com/?cid=4270562597201813531&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=4270562597201813531&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 5.9736958
   lng: 116.20366879999997
-  phone: "013-881 4921"
+  phone: 013-881 4921
   openingHours:
-    - "Monday: 10:00 AM – 1:00 PM, 2:00 – 5:00 PM"
-    - "Tuesday: 10:00 AM – 1:00 PM, 2:00 – 5:00 PM"
-    - "Wednesday: 10:00 AM – 1:00 PM, 2:00 – 5:00 PM"
-    - "Thursday: 10:00 AM – 1:00 PM, 2:00 – 5:00 PM"
-    - "Friday: 10:00 AM – 1:00 PM, 2:00 – 5:00 PM"
-    - "Saturday: 10:00 AM – 1:00 PM, 2:00 – 5:00 PM"
-    - "Sunday: 10:00 AM – 1:00 PM, 2:00 – 5:00 PM"
+    - 'Monday: 10:00 AM – 1:00 PM, 2:00 – 5:00 PM'
+    - 'Tuesday: 10:00 AM – 1:00 PM, 2:00 – 5:00 PM'
+    - 'Wednesday: 10:00 AM – 1:00 PM, 2:00 – 5:00 PM'
+    - 'Thursday: 10:00 AM – 1:00 PM, 2:00 – 5:00 PM'
+    - 'Friday: 10:00 AM – 1:00 PM, 2:00 – 5:00 PM'
+    - 'Saturday: 10:00 AM – 1:00 PM, 2:00 – 5:00 PM'
+    - 'Sunday: 10:00 AM – 1:00 PM, 2:00 – 5:00 PM'
 tags:
-  - "kota kinabalu"
-  - "top attraction"
-quickAnswer: "Mari Mari Cultural Village, about 25 minutes inland from central Kota Kinabalu in Inanam, is a half-day guided tour through five reconstructed ethnic longhouses (Kadazan-Dusun, Bajau, Murut, Lundayu, Rungus) with fire-making, tattoo, and blowpipe demos, a cooking session, and a tribal dance finale. Rated 4.7 from nearly 4,000 reviews, it's the most popular way in the city to get a compressed, sensory introduction to Sabah's indigenous cultures — book the morning or afternoon tour slot in advance since it runs on fixed departure times with hotel pickup. Budget three to four hours including transport, and go in closed shoes since the village paths are dirt and wooden planks through jungle terrain."
+  - kota kinabalu
+  - top attraction
+quickAnswer: Mari Mari Cultural Village, about 25 minutes inland from central Kota Kinabalu in Inanam, is a half-day guided tour through five reconstructed ethnic longhouses (Kadazan-Dusun, Bajau, Murut, Lundayu, Rungus) with fire-making, tattoo, and blowpipe demos, a cooking session, and a tribal dance finale. Rated 4.7 from nearly 4,000 reviews, it's the most popular way in the city to get a compressed, sensory introduction to Sabah's indigenous cultures — book the morning or afternoon tour slot in advance since it runs on fixed departure times with hotel pickup. Budget three to four hours including transport, and go in closed shoes since the village paths are dirt and wooden planks through jungle terrain.
 faq:
-  - q: "How do I get to Mari Mari Cultural Village from Kota Kinabalu city?"
-    a: "It's about 25 minutes by road in Inanam. Almost all visitors go via a booked tour that includes return hotel pickup, since public transport doesn't run directly there and the final approach road is unpaved."
-  - q: "How long does the visit take?"
-    a: "Plan on three to four hours total — the guided walk-through and demonstrations run around two hours, plus transport time and the closing dance/meal segment."
-  - q: "Do I need to book in advance?"
-    a: "Yes. Tours depart at fixed morning and afternoon times rather than continuous walk-in entry, so reserve your slot and pickup time at least a day or two ahead, especially in peak season."
-  - q: "What should I wear or bring?"
-    a: "Closed shoes are best for the dirt paths and wooden platforms, plus light, breathable clothing for the humidity. Bring small ringgit notes for souvenir stalls, since card payment there is unreliable."
-  - q: "Is the food included, and is it authentic?"
-    a: "Yes — tours typically include tasting food cooked in bamboo over open fire, such as grilled chicken and glutinous rice, plus a sample of traditional rice wine (lihing/tapai), all part of the standard package price."
+  - q: How do I get to Mari Mari Cultural Village from Kota Kinabalu city?
+    a: It's about 25 minutes by road in Inanam. Almost all visitors go via a booked tour that includes return hotel pickup, since public transport doesn't run directly there and the final approach road is unpaved.
+  - q: How long does the visit take?
+    a: Plan on three to four hours total — the guided walk-through and demonstrations run around two hours, plus transport time and the closing dance/meal segment.
+  - q: Do I need to book in advance?
+    a: Yes. Tours depart at fixed morning and afternoon times rather than continuous walk-in entry, so reserve your slot and pickup time at least a day or two ahead, especially in peak season.
+  - q: What should I wear or bring?
+    a: Closed shoes are best for the dirt paths and wooden platforms, plus light, breathable clothing for the humidity. Bring small ringgit notes for souvenir stalls, since card payment there is unreliable.
+  - q: Is the food included, and is it authentic?
+    a: Yes — tours typically include tasting food cooked in bamboo over open fire, such as grilled chicken and glutinous rice, plus a sample of traditional rice wine (lihing/tapai), all part of the standard package price.
 aiGenerated: true
 draft: false
 ---

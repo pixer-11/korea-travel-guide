@@ -1,54 +1,54 @@
 ---
-title: "Chew Jetty: Penang Travel Guide"
-description: "Chew Jetty is a 19th-century stilt-house settlement built out over the water in Georgetown, Penang, and one of the clan jetties open to visitors — expect"
-country: "Malaysia"
-region: "Penang"
-category: "attraction"
-pubDate: "2026-07-26T08:28:30.049Z"
+title: 'Chew Jetty: Penang Travel Guide'
+description: Chew Jetty is a 19th-century stilt-house settlement built out over the water in Georgetown, Penang, and one of the clan jetties open to visitors — expect
+country: Malaysia
+region: Penang
+category: attraction
+pubDate: '2026-07-26T08:28:30.049Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Chew_Jetty%2C_Georgetown%2C_Penang%2C_Malaysia_%285257748526%29.jpg/1920px-Chew_Jetty%2C_Georgetown%2C_Penang%2C_Malaysia_%285257748526%29.jpg"
-  credit: "Photo: yeowatzup / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Chew_Jetty,_Georgetown,_Penang,_Malaysia_(5257748526).jpg"
+  url: https://fastly.4sqi.net/img/general/original/10800689_auOea5n6XvDklLDlvHH6WkKqEN9rUZZVf5CzA-KVebM.jpg
+  credit: 'Photo: Foursquare user content (The Clan Jetty - 姓周桥 Chew Jetty)'
+  license: foursquare
+  source: https://foursquare.com/v/4c49dbc1a3ace21e0d982e3c
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/10800689_auOea5n6XvDklLDlvHH6WkKqEN9rUZZVf5CzA-KVebM.jpg
     credit: 'Photo: Foursquare user content (The Clan Jetty - 姓周桥 Chew Jetty)'
     license: foursquare
     source: https://foursquare.com/v/4c49dbc1a3ace21e0d982e3c
 place:
-  id: "ChIJ50W1D43DSjARlPqYV1MqscE"
-  name: "Chew Jetty"
-  address: "Georgetown, 10300 George Town, Penang, Malaysia"
+  id: ChIJ50W1D43DSjARlPqYV1MqscE
+  name: Chew Jetty
+  address: Georgetown, 10300 George Town, Penang, Malaysia
   rating: 4.1
   userRatingsTotal: 10440
-  googleMapsUrl: "https://maps.google.com/?cid=13956983257638173332&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=13956983257638173332&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 5.412717499999999
   lng: 100.3397723
-  phone: "011-6246 2884"
+  phone: 011-6246 2884
   openingHours:
-    - "Monday: 9:00 AM – 9:00 PM"
-    - "Tuesday: 9:00 AM – 9:00 PM"
-    - "Wednesday: 9:00 AM – 9:00 PM"
-    - "Thursday: 9:00 AM – 9:30 PM"
-    - "Friday: 9:00 AM – 9:00 PM"
-    - "Saturday: 9:00 AM – 9:00 PM"
-    - "Sunday: 9:00 AM – 9:00 PM"
+    - 'Monday: 9:00 AM – 9:00 PM'
+    - 'Tuesday: 9:00 AM – 9:00 PM'
+    - 'Wednesday: 9:00 AM – 9:00 PM'
+    - 'Thursday: 9:00 AM – 9:30 PM'
+    - 'Friday: 9:00 AM – 9:00 PM'
+    - 'Saturday: 9:00 AM – 9:00 PM'
+    - 'Sunday: 9:00 AM – 9:00 PM'
 tags:
-  - "penang"
-  - "top attraction"
-quickAnswer: "Chew Jetty is a 19th-century stilt-house settlement built out over the water in Georgetown, Penang, and one of the clan jetties open to visitors — expect crowds, so aim for early morning (before 9am) or after 5pm when the day-trip tour buses thin out. It's free to walk, takes about 30-45 minutes, and sits an easy 10-minute walk south of Georgetown's UNESCO core."
+  - penang
+  - top attraction
+quickAnswer: Chew Jetty is a 19th-century stilt-house settlement built out over the water in Georgetown, Penang, and one of the clan jetties open to visitors — expect crowds, so aim for early morning (before 9am) or after 5pm when the day-trip tour buses thin out. It's free to walk, takes about 30-45 minutes, and sits an easy 10-minute walk south of Georgetown's UNESCO core.
 faq:
-  - q: "How much does it cost to visit Chew Jetty?"
-    a: "It's free — there's no entrance fee or gate. You just walk in from Pengkalan Weld. You'll likely spend a little money at stalls if you buy drinks or souvenirs, but that's optional."
-  - q: "How long should I spend at Chew Jetty?"
-    a: "Most visitors spend 30-45 minutes walking the main boardwalk and side lanes, longer if you stop for food or photos."
-  - q: "When is the quietest time to visit?"
-    a: "Before 9am or after 5pm, when day-tour groups and trishaw crowds have thinned out. Midday tends to be busiest and hottest, with little shade over the water."
-  - q: "How do I get to Chew Jetty from central Georgetown?"
-    a: "It's about a 10-minute walk from Fort Cornwallis along the waterfront on Pengkalan Weld. Rapid Penang buses along the waterfront stop nearby, and it's right next to the Weld Quay ferry terminal."
-  - q: "What's nearby worth combining with a visit?"
-    a: "Armenian Street's street art and heritage shophouses, Fort Cornwallis, and the Weld Quay ferry to Butterworth are all within a short walk."
+  - q: How much does it cost to visit Chew Jetty?
+    a: It's free — there's no entrance fee or gate. You just walk in from Pengkalan Weld. You'll likely spend a little money at stalls if you buy drinks or souvenirs, but that's optional.
+  - q: How long should I spend at Chew Jetty?
+    a: Most visitors spend 30-45 minutes walking the main boardwalk and side lanes, longer if you stop for food or photos.
+  - q: When is the quietest time to visit?
+    a: Before 9am or after 5pm, when day-tour groups and trishaw crowds have thinned out. Midday tends to be busiest and hottest, with little shade over the water.
+  - q: How do I get to Chew Jetty from central Georgetown?
+    a: It's about a 10-minute walk from Fort Cornwallis along the waterfront on Pengkalan Weld. Rapid Penang buses along the waterfront stop nearby, and it's right next to the Weld Quay ferry terminal.
+  - q: What's nearby worth combining with a visit?
+    a: Armenian Street's street art and heritage shophouses, Fort Cornwallis, and the Weld Quay ferry to Butterworth are all within a short walk.
 aiGenerated: true
 draft: false
 ---

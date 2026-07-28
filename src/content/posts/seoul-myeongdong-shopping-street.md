@@ -6,7 +6,7 @@ region: Seoul
 category: hidden-gem
 pubDate: '2026-07-24T22:23:13.313Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/25113286_HBGwnlhkq1DUlAMmmMhB7SV8yfr8tted5aPV-Nv5_mo.jpg
+  url: https://fastly.4sqi.net/img/general/original/25113286_pBJtYQJR9dYqgpaA1rKspQgRRTuwZdN3GeD3n3ZYEt0.jpg
   credit: 'Photo: Foursquare user content (Myeongdong Shopping Street)'
   license: foursquare
   source: https://foursquare.com/v/102ea7b22fd6414fe38df33f

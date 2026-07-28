@@ -1,53 +1,53 @@
 ---
-title: "Fort San Pedro: Cebu Travel Guide"
-description: "Fort San Pedro sits at the edge of Plaza Independencia in downtown Cebu City, a squat triangular stone fortress you can walk through in 30–45 minutes."
-country: "Philippines"
-region: "Cebu"
-category: "attraction"
-pubDate: "2026-07-26T07:06:36.651Z"
+title: 'Fort San Pedro: Cebu Travel Guide'
+description: Fort San Pedro sits at the edge of Plaza Independencia in downtown Cebu City, a squat triangular stone fortress you can walk through in 30–45 minutes.
+country: Philippines
+region: Cebu
+category: attraction
+pubDate: '2026-07-26T07:06:36.651Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/San_Pedro_Fort_Cebu_03.jpg/1920px-San_Pedro_Fort_Cebu_03.jpg"
-  credit: "Photo: Philip Nalangan / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:San_Pedro_Fort_Cebu_03.jpg"
+  url: https://fastly.4sqi.net/img/general/original/108887013_I-DHfaWNBGtHwVYRj1lwBvCW8ZSqjoTGqTYNGEoDaQw.jpg
+  credit: 'Photo: Foursquare user content (Fort San Pedro)'
+  license: foursquare
+  source: https://foursquare.com/v/4bf34ba26ba2b713901c8977
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/San_Pedro_Fort_Cebu_02.jpg/1920px-San_Pedro_Fort_Cebu_02.jpg
     credit: 'Photo: Philip Nalangan / Wikimedia Commons (CC BY 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:San_Pedro_Fort_Cebu_02.jpg
 place:
-  id: "ChIJiYix3uCbqTMRAqkwfbD7es0"
-  name: "Fort San Pedro"
-  address: "7WR4+X7J, A. Pigafetta Street, Cebu City, 6000 Cebu, Philippines"
+  id: ChIJiYix3uCbqTMRAqkwfbD7es0
+  name: Fort San Pedro
+  address: 7WR4+X7J, A. Pigafetta Street, Cebu City, 6000 Cebu, Philippines
   rating: 4.2
   userRatingsTotal: 7995
-  googleMapsUrl: "https://maps.google.com/?cid=14806423460367083778&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=14806423460367083778&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 10.292456999999999
   lng: 123.905636
   openingHours:
-    - "Monday: 8:00 AM – 5:00 PM"
-    - "Tuesday: 8:00 AM – 5:00 PM"
-    - "Wednesday: 8:00 AM – 5:00 PM"
-    - "Thursday: 8:00 AM – 5:00 PM"
-    - "Friday: 8:00 AM – 5:00 PM"
-    - "Saturday: 8:00 AM – 5:00 PM"
-    - "Sunday: 8:00 AM – 5:00 PM"
+    - 'Monday: 8:00 AM – 5:00 PM'
+    - 'Tuesday: 8:00 AM – 5:00 PM'
+    - 'Wednesday: 8:00 AM – 5:00 PM'
+    - 'Thursday: 8:00 AM – 5:00 PM'
+    - 'Friday: 8:00 AM – 5:00 PM'
+    - 'Saturday: 8:00 AM – 5:00 PM'
+    - 'Sunday: 8:00 AM – 5:00 PM'
 tags:
-  - "cebu"
-  - "top attraction"
-quickAnswer: "Fort San Pedro sits at the edge of Plaza Independencia in downtown Cebu City, a squat triangular stone fortress you can walk through in 30–45 minutes. It's a well-visited landmark (4.2 stars, nearly 8,000 reviews), so aim for the morning right after opening or later in the afternoon to avoid tour-bus clusters. Combine it with the nearby Malacañang sa Sugbo and the Cebu port pier area for a half-day of Spanish-colonial history."
+  - cebu
+  - top attraction
+quickAnswer: Fort San Pedro sits at the edge of Plaza Independencia in downtown Cebu City, a squat triangular stone fortress you can walk through in 30–45 minutes. It's a well-visited landmark (4.2 stars, nearly 8,000 reviews), so aim for the morning right after opening or later in the afternoon to avoid tour-bus clusters. Combine it with the nearby Malacañang sa Sugbo and the Cebu port pier area for a half-day of Spanish-colonial history.
 faq:
-  - q: "How long should I spend at Fort San Pedro?"
-    a: "Most visitors spend 30–45 minutes: about 20 minutes for the small museum rooms and the rest walking the ramparts and courtyard garden."
-  - q: "How do I get to Fort San Pedro?"
-    a: "It's on Plaza Independencia in downtown Cebu City, right beside the pier. A Grab car or taxi from the Ayala/IT Park area takes roughly 15–25 minutes; if you're arriving by ferry, it's a short walk from the port."
-  - q: "Is there an entrance fee?"
-    a: "Yes, there's a modest entrance fee payable in cash pesos at the gate booth. Prices can change, so it's worth confirming the current fee locally before you go."
-  - q: "What else is nearby?"
-    a: "Malacañang sa Sugbo is a short walk away, and Magellan's Cross and the Basilica Minore del Santo Niño are about a 10–15 minute walk north, making it easy to combine into one heritage-focused morning."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Go shortly after opening in the morning or later in the afternoon — mid-morning through early afternoon tends to draw tour groups and school trips since this is one of Cebu's most-visited landmarks."
+  - q: How long should I spend at Fort San Pedro?
+    a: 'Most visitors spend 30–45 minutes: about 20 minutes for the small museum rooms and the rest walking the ramparts and courtyard garden.'
+  - q: How do I get to Fort San Pedro?
+    a: It's on Plaza Independencia in downtown Cebu City, right beside the pier. A Grab car or taxi from the Ayala/IT Park area takes roughly 15–25 minutes; if you're arriving by ferry, it's a short walk from the port.
+  - q: Is there an entrance fee?
+    a: Yes, there's a modest entrance fee payable in cash pesos at the gate booth. Prices can change, so it's worth confirming the current fee locally before you go.
+  - q: What else is nearby?
+    a: Malacañang sa Sugbo is a short walk away, and Magellan's Cross and the Basilica Minore del Santo Niño are about a 10–15 minute walk north, making it easy to combine into one heritage-focused morning.
+  - q: What's the best time to visit to avoid crowds?
+    a: Go shortly after opening in the morning or later in the afternoon — mid-morning through early afternoon tends to draw tour groups and school trips since this is one of Cebu's most-visited landmarks.
 aiGenerated: true
 draft: false
 ---

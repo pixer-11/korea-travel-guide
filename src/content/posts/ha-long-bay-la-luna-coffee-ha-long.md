@@ -26,7 +26,7 @@ place:
   lat: 20.966998999999998
   lng: 107.0211992
   priceLevel: 1
-  phone: '0889 776 886'
+  phone: 0889 776 886
   openingHours:
     - 'Monday: 7:00 AM – 11:00 PM'
     - 'Tuesday: 7:00 AM – 11:00 PM'
@@ -52,6 +52,7 @@ faq:
     a: With over 2,000 reviews and a 4.4 rating, it's a popular stop, so weekends and peak holiday periods can mean waiting for the best window-side or terrace tables.
 aiGenerated: true
 updatedDate: '2026-07-24'
+draft: true
 ---
 
 ## Why go

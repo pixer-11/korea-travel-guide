@@ -6,7 +6,7 @@ region: Singapore
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/5931716_3fJXjii8WXcrmU916NlCM6SAp9ApsBAGX1--9TStNLg.jpg
+  url: https://fastly.4sqi.net/img/general/original/234324_lOnqNgB29VfRevi5yRMUw-fsMjsoLR2Nx_jkZl2fmQA.jpg
   credit: 'Photo: Foursquare user content (Smash Street)'
   license: foursquare
   source: https://foursquare.com/v/69d8f55c73ca0576a90e9284

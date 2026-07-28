@@ -6,10 +6,10 @@ region: Xi'an
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bronze_arrowheads%2C_Qin_dynasty%2C_Emperor_Qinshihuang%27s_Mausoleum_Site_Museum.jpg/1920px-Bronze_arrowheads%2C_Qin_dynasty%2C_Emperor_Qinshihuang%27s_Mausoleum_Site_Museum.jpg
-  credit: 'Photo: Huangdan2060 / Wikimedia Commons (CC0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Bronze_arrowheads,_Qin_dynasty,_Emperor_Qinshihuang%27s_Mausoleum_Site_Museum.jpg
+  url: https://fastly.4sqi.net/img/general/original/5315953_sXUtAFywlFx3FZqyi7Yk-xEKV-_aWDVw6xzOJF0ZFYA.jpg
+  credit: 'Photo: Foursquare user content (Emperor Qinshihuang''s Mausoleum Artifacts Exhibition Hall (秦始皇帝陵文物陈列厅))'
+  license: foursquare
+  source: https://foursquare.com/v/5774c8cf498ea0c5b6e811cf
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/5315953_sXUtAFywlFx3FZqyi7Yk-xEKV-_aWDVw6xzOJF0ZFYA.jpg
     credit: 'Photo: Foursquare user content (Emperor Qinshihuang''s Mausoleum Artifacts Exhibition Hall (秦始皇帝陵文物陈列厅))'

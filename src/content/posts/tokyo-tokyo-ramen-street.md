@@ -1,29 +1,29 @@
 ---
-title: "Tokyo Ramen Street: Where to Eat"
-description: "Tokyo Ramen Street is a strip of about eight acclaimed ramen shops on the B1 level of Tokyo Station's Ichibangai underground mall, in Marunouchi, Chiyoda"
-country: "Japan"
-region: "Tokyo"
-category: "restaurant"
-pubDate: "2026-07-22T09:05:55.807Z"
+title: 'Tokyo Ramen Street: Where to Eat'
+description: Tokyo Ramen Street is a strip of about eight acclaimed ramen shops on the B1 level of Tokyo Station's Ichibangai underground mall, in Marunouchi, Chiyoda
+country: Japan
+region: Tokyo
+category: restaurant
+pubDate: '2026-07-22T09:05:55.807Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Shoyu_Ramen_%40_Shichisai_%40_Tokyo_Ramen_Street_%2813165344585%29.jpg/1920px-Shoyu_Ramen_%40_Shichisai_%40_Tokyo_Ramen_Street_%2813165344585%29.jpg"
-  credit: "Photo: Guilhem Vellut from Annecy, France / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Shoyu_Ramen_@_Shichisai_@_Tokyo_Ramen_Street_(13165344585).jpg"
+  url: https://fastly.4sqi.net/img/general/original/27653413_pjbb_IGa5_61ALgTq_cjfUEC4XiArCz9-Boci1Hyr_8.jpg
+  credit: 'Photo: Foursquare user content (Tokyo Ramen Street (東京ラーメンストリート))'
+  license: foursquare
+  source: https://foursquare.com/v/4bb06abef964a520af443ce3
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/27653413_pjbb_IGa5_61ALgTq_cjfUEC4XiArCz9-Boci1Hyr_8.jpg
     credit: 'Photo: Foursquare user content (Tokyo Ramen Street (東京ラーメンストリート))'
     license: foursquare
     source: https://foursquare.com/v/4bb06abef964a520af443ce3
 place:
-  id: "ChIJGeYlX_mLGGARwsJahMe-XZg"
-  name: "Tokyo Ramen Street"
-  address: "Japan, 〒100-0005 Tokyo, Chiyoda City, Marunouchi, 1-chōme−9−１ 東京駅一番街 B1"
+  id: ChIJGeYlX_mLGGARwsJahMe-XZg
+  name: Tokyo Ramen Street
+  address: Japan, 〒100-0005 Tokyo, Chiyoda City, Marunouchi, 1-chōme−9−１ 東京駅一番街 B1
   rating: 4
   userRatingsTotal: 5131
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=10979141230727447234&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=10979141230727447234&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.6802935
   lng: 139.7679568
   openingHours:
@@ -35,20 +35,20 @@ place:
     - 'Saturday: 7:30 AM – 11:00 PM'
     - 'Sunday: 7:30 AM – 11:00 PM'
 tags:
-  - "tokyo"
-  - "street food"
-quickAnswer: "Tokyo Ramen Street is a strip of about eight acclaimed ramen shops on the B1 level of Tokyo Station's Ichibangai underground mall, in Marunouchi, Chiyoda City. Expect to queue (15-40 minutes at peak lunch and dinner), pay by ticket machine, and eat in around 20-30 minutes total. Go right before opening (around 10:30-11am) or mid-afternoon (2-4pm) to avoid the worst lines."
+  - tokyo
+  - street food
+quickAnswer: Tokyo Ramen Street is a strip of about eight acclaimed ramen shops on the B1 level of Tokyo Station's Ichibangai underground mall, in Marunouchi, Chiyoda City. Expect to queue (15-40 minutes at peak lunch and dinner), pay by ticket machine, and eat in around 20-30 minutes total. Go right before opening (around 10:30-11am) or mid-afternoon (2-4pm) to avoid the worst lines.
 faq:
-  - q: "Where exactly is Tokyo Ramen Street located?"
-    a: "On the B1 basement floor of the Tokyo Station Ichibangai mall in Marunouchi, Chiyoda City — inside the Yaesu side of Tokyo Station, near the Yaesu Underground Central Exit."
-  - q: "Do I need a train ticket to get there?"
-    a: "No. Ramen Street is in the free-access shopping concourse of Tokyo Station, so you can walk in without a valid rail ticket."
-  - q: "How much does a bowl of ramen cost?"
-    a: "Most bowls fall in the ¥900-¥1,400 range, with extras like ajitama egg or extra chashu pork priced separately at the ticket machine."
-  - q: "How long should I plan to spend there?"
-    a: "Budget 20-30 minutes to eat once seated, plus up to 20-40 minutes of queuing if you go during lunch (12-1:30pm) or dinner (6:30-8:30pm) peak hours."
-  - q: "What's nearby if I want to combine this with other stops?"
-    a: "Tokyo Character Street and Tokyo Okashi Land are in the same underground Ichibangai complex, and Marunouchi's business district plus Nihonbashi are both a short walk from the station."
+  - q: Where exactly is Tokyo Ramen Street located?
+    a: On the B1 basement floor of the Tokyo Station Ichibangai mall in Marunouchi, Chiyoda City — inside the Yaesu side of Tokyo Station, near the Yaesu Underground Central Exit.
+  - q: Do I need a train ticket to get there?
+    a: No. Ramen Street is in the free-access shopping concourse of Tokyo Station, so you can walk in without a valid rail ticket.
+  - q: How much does a bowl of ramen cost?
+    a: Most bowls fall in the ¥900-¥1,400 range, with extras like ajitama egg or extra chashu pork priced separately at the ticket machine.
+  - q: How long should I plan to spend there?
+    a: Budget 20-30 minutes to eat once seated, plus up to 20-40 minutes of queuing if you go during lunch (12-1:30pm) or dinner (6:30-8:30pm) peak hours.
+  - q: What's nearby if I want to combine this with other stops?
+    a: Tokyo Character Street and Tokyo Okashi Land are in the same underground Ichibangai complex, and Marunouchi's business district plus Nihonbashi are both a short walk from the station.
 aiGenerated: true
 draft: false
 ---

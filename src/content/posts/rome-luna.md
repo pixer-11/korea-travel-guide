@@ -6,10 +6,10 @@ region: Rome
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ceiling_Giolitti_Ice_Creams%2C_Rome%2C_Italy.jpg/1920px-Ceiling_Giolitti_Ice_Creams%2C_Rome%2C_Italy.jpg
-  credit: 'Photo: Jebulon / Wikimedia Commons (CC0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Ceiling_Giolitti_Ice_Creams,_Rome,_Italy.jpg
+  url: https://fastly.4sqi.net/img/general/original/523294167__gLJXZj4xnor1WzGXvJZcHp1b3RtXbQ8U3u-WFI3UcY.jpg
+  credit: 'Photo: Foursquare user content (Luna By Faro - Caffè Specialty / Brunch & Lunch)'
+  license: foursquare
+  source: https://foursquare.com/v/6813a0bbfd67646c8a674eae
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/523294167__gLJXZj4xnor1WzGXvJZcHp1b3RtXbQ8U3u-WFI3UcY.jpg
     credit: 'Photo: Foursquare user content (Luna By Faro - Caffè Specialty / Brunch & Lunch)'

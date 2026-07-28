@@ -64,6 +64,7 @@ faq:
   - q: What's nearby if I want to extend the trip?
     a: Sri Mariamman Temple, Ann Siang Hill, and the Chinatown street markets are all within a short walk, making it easy to build a half-day itinerary around the visit.
 aiGenerated: true
+draft: true
 ---
 
 ## Why this guide exists

@@ -6,7 +6,7 @@ region: Bangkok
 category: trendy
 pubDate: '2026-07-22T09:25:23.670Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/3277190_2txPxq-FhRjtPEUO8AokJTw6BP1Lb4JqYEPTpppFv98.jpg
+  url: https://fastly.4sqi.net/img/general/original/1411411571_quwhlFNRIe80OJEKEW0lcHuJz9mrDTwIxDDq6a0G_cg.jpg
   credit: 'Photo: Foursquare user content (Treehouse Cafe & Bar)'
   license: foursquare
   source: https://foursquare.com/v/658aa714ad06766843628297
@@ -46,7 +46,7 @@ place:
       - 21
     venueId: ven_737a565f76766a7135505f52416a3466756d6d537131684a496843
   priceLevel: 2
-  phone: '080 899 4249'
+  phone: 080 899 4249
   openingHours:
     - 'Monday: 9:00 AM – 11:00 PM'
     - 'Tuesday: 9:00 AM – 11:00 PM'

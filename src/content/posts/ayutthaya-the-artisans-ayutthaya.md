@@ -6,7 +6,7 @@ region: Ayutthaya
 category: restaurant
 pubDate: '2026-07-22T09:11:54.515Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/976202_udyt18ze7RFPaUuM0cS1kgJ8g9ozZ0ThbDCz-cgWLIQ.jpg
+  url: https://fastly.4sqi.net/img/general/original/976202_TBZ8YqxQfuMH9OLpay5BxVTpnX-8YYatMuFYcLR7rCc.jpg
   credit: 'Photo: Foursquare user content (The Artisans Ayutthaya)'
   license: foursquare
   source: https://foursquare.com/v/605da7b10e5d7472c8851dd3
@@ -39,7 +39,7 @@ place:
       - 15
       - 16
     venueId: ven_455746775564684964776152416a3433743534434253504a496843
-  phone: '061 195 9514'
+  phone: 061 195 9514
   openingHours:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'

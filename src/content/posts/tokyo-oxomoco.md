@@ -6,10 +6,10 @@ region: Tokyo
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/87388367_nUotSsJyC8CvOrLob6Ipcdl6bYHZ_Pt5YHqrbxWoiAk.jpg
-  credit: 'Photo: Foursquare user content (Oxomoco (オショモコ))'
+  url: https://fastly.4sqi.net/img/general/original/1412222860_A6WjGSVZAaCUrCvARC7J-fWmFe-X9oF-URKbQjhcLC0.jpg
+  credit: 'Photo: Foursquare user content (Oxomoco オショモコ)'
   license: foursquare
-  source: https://foursquare.com/v/5f03d9cad6e0d407d33aa09a
+  source: https://foursquare.com/v/69fd76d47d033768f6173af0
 gallery: []
 place:
   id: ChIJ0y3_b4eLGGAR6q6oerLsBDo
@@ -21,7 +21,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 35.6611207
   lng: 139.7286823
-  phone: '03-3478-9991'
+  phone: 03-3478-9991
   openingHours:
     - 'Monday: 11:00 AM – 11:00 PM'
     - 'Tuesday: 11:00 AM – 11:00 PM'

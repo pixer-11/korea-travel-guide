@@ -1,44 +1,44 @@
 ---
-title: "Alcatraz Island: San Francisco Travel Guide"
-description: "Book Alcatraz Cruises ferry tickets from Pier 33 at least 2-3 weeks ahead (further out in summer), and choose the first morning departure — around 8:45am or"
-country: "United States"
-region: "San Francisco"
-category: "attraction"
-pubDate: "2026-07-26T07:55:25.204Z"
+title: 'Alcatraz Island: San Francisco Travel Guide'
+description: Book Alcatraz Cruises ferry tickets from Pier 33 at least 2-3 weeks ahead (further out in summer), and choose the first morning departure — around 8:45am or
+country: United States
+region: San Francisco
+category: attraction
+pubDate: '2026-07-26T07:55:25.204Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/San_Francisco_%28CA%2C_USA%29%2C_Alcatraz_--_2022_--_3133.jpg/1920px-San_Francisco_%28CA%2C_USA%29%2C_Alcatraz_--_2022_--_3133.jpg"
-  credit: "Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:San_Francisco_(CA,_USA),_Alcatraz_--_2022_--_3133.jpg"
+  url: https://fastly.4sqi.net/img/general/original/15187635_r1jaDjZpqvVGGKE2yvsJtnsKTYb1EHLBnvL_WHM4rpk.jpg
+  credit: 'Photo: Foursquare user content (Alcatraz Island)'
+  license: foursquare
+  source: https://foursquare.com/v/4451c80ef964a520a5321fe3
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/15187635_r1jaDjZpqvVGGKE2yvsJtnsKTYb1EHLBnvL_WHM4rpk.jpg
     credit: 'Photo: Foursquare user content (Alcatraz Island)'
     license: foursquare
     source: https://foursquare.com/v/4451c80ef964a520a5321fe3
 place:
-  id: "ChIJI09XaRWBhYARF65xWugonBg"
-  name: "Alcatraz Island"
-  address: "Alcatraz Island, San Francisco, CA, USA"
+  id: ChIJI09XaRWBhYARF65xWugonBg
+  name: Alcatraz Island
+  address: Alcatraz Island, San Francisco, CA, USA
   rating: 4.6
   userRatingsTotal: 2580
-  googleMapsUrl: "https://maps.google.com/?cid=1773337331692056087&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  googleMapsUrl: https://maps.google.com/?cid=1773337331692056087&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   lat: 37.826663599999996
   lng: -122.42301219999999
 tags:
-  - "san francisco"
-  - "Alcatraz Island"
-quickAnswer: "Book Alcatraz Cruises ferry tickets from Pier 33 at least 2-3 weeks ahead (further out in summer), and choose the first morning departure — around 8:45am or 9am — to see the cellhouse before tour groups thicken. Budget 2.5 to 3 hours total including the boat ride and the excellent audio tour narrated by former inmates and guards. Bring a jacket; the Bay wind on the crossing is colder than it looks from shore."
+  - san francisco
+  - Alcatraz Island
+quickAnswer: Book Alcatraz Cruises ferry tickets from Pier 33 at least 2-3 weeks ahead (further out in summer), and choose the first morning departure — around 8:45am or 9am — to see the cellhouse before tour groups thicken. Budget 2.5 to 3 hours total including the boat ride and the excellent audio tour narrated by former inmates and guards. Bring a jacket; the Bay wind on the crossing is colder than it looks from shore.
 faq:
-  - q: "How do I get tickets to Alcatraz Island?"
-    a: "Tickets are sold only through Alcatraz Cruises, the official ferry operator, departing from Pier 33 on The Embarcadero. Book online in advance — 2-3 weeks ahead is safe, longer for summer weekends — since walk-up tickets are rarely available."
-  - q: "How long should I plan for the visit?"
-    a: "Budget 2.5 to 3 hours total: about 15 minutes each way on the ferry, and 2 or more hours on the island exploring the cellhouse audio tour and gardens."
-  - q: "When is the least crowded time to go?"
-    a: "The first morning ferry departures are calmest, before tour groups build up through mid-morning and afternoon. Winter weekdays overall see noticeably thinner crowds than summer weekends."
-  - q: "Is the audio tour worth it?"
-    a: "Yes — it's included with most tickets and widely considered the highlight, narrated by former guards and inmates as you walk through the actual cellblocks."
-  - q: "What should I bring?"
-    a: "A jacket for the windy, often foggy crossing, comfortable closed-toe shoes for the steep dock path and yard, and a card for payment since cash isn't the norm on the island."
+  - q: How do I get tickets to Alcatraz Island?
+    a: Tickets are sold only through Alcatraz Cruises, the official ferry operator, departing from Pier 33 on The Embarcadero. Book online in advance — 2-3 weeks ahead is safe, longer for summer weekends — since walk-up tickets are rarely available.
+  - q: How long should I plan for the visit?
+    a: 'Budget 2.5 to 3 hours total: about 15 minutes each way on the ferry, and 2 or more hours on the island exploring the cellhouse audio tour and gardens.'
+  - q: When is the least crowded time to go?
+    a: The first morning ferry departures are calmest, before tour groups build up through mid-morning and afternoon. Winter weekdays overall see noticeably thinner crowds than summer weekends.
+  - q: Is the audio tour worth it?
+    a: Yes — it's included with most tickets and widely considered the highlight, narrated by former guards and inmates as you walk through the actual cellblocks.
+  - q: What should I bring?
+    a: A jacket for the windy, often foggy crossing, comfortable closed-toe shoes for the steep dock path and yard, and a card for payment since cash isn't the norm on the island.
 aiGenerated: true
 draft: false
 ---

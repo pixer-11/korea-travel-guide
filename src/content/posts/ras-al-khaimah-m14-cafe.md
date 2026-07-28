@@ -59,6 +59,7 @@ faq:
   - q: Is M14 Cafe touristy or a local secret?
     a: It's genuinely under-the-radar for visitors — well-rated (4.4 from 706 reviews) but not yet a major stop on tourist itineraries, so you can usually visit without crowds or needing a reservation.
 aiGenerated: true
+draft: true
 ---
 
 ## Why go

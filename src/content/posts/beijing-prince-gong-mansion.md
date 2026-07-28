@@ -1,45 +1,45 @@
 ---
-title: "Prince Gong Mansion: Beijing Travel Guide"
-description: "Prince Gong Mansion (Gong Wang Fu), in Beijing's Xicheng District near Shichahai Lake, is the best-preserved Qing-dynasty princely residence open to the"
-country: "China"
-region: "Beijing"
-category: "attraction"
-pubDate: "2026-07-27T10:53:36.819Z"
+title: 'Prince Gong Mansion: Beijing Travel Guide'
+description: Prince Gong Mansion (Gong Wang Fu), in Beijing's Xicheng District near Shichahai Lake, is the best-preserved Qing-dynasty princely residence open to the
+country: China
+region: Beijing
+category: attraction
+pubDate: '2026-07-27T10:53:36.819Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Gongwangfu1.jpg/1920px-Gongwangfu1.jpg"
-  credit: "Photo: onion83 / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Gongwangfu1.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Gongwangfu1.jpg/1920px-Gongwangfu1.jpg
+  credit: 'Photo: onion83 / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Gongwangfu1.jpg
 gallery: []
 place:
-  id: "ChIJK79axgNT8DUR9abD10lFx24"
-  name: "Prince Gong Mansion"
-  address: "17 Qian Hai Xi Jie, Xi Cheng Qu, Bei Jing Shi, China, 100035"
+  id: ChIJK79axgNT8DUR9abD10lFx24
+  name: Prince Gong Mansion
+  address: 17 Qian Hai Xi Jie, Xi Cheng Qu, Bei Jing Shi, China, 100035
   rating: 4.4
   userRatingsTotal: 1058
   priceLevel: 1
-  googleMapsUrl: "https://maps.google.com/?cid=7982425047992346357&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=7982425047992346357&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 39.935773999999995
   lng: 116.386407
-  phone: "010 8328 8149"
+  phone: 010 8328 8149
 tags:
-  - "beijing"
-  - "top attraction"
-quickAnswer: "Prince Gong Mansion (Gong Wang Fu), in Beijing's Xicheng District near Shichahai Lake, is the best-preserved Qing-dynasty princely residence open to the public — a sprawl of courtyards, painted corridors, and a walled garden built in 1777. Budget two to three hours, arrive right at opening to have the garden's rockery paths to yourself, and combine it with a stroll around Houhai/Shichahai afterward. It's rated 4.4 from over a thousand reviews yet still feels uncrowded compared to the Forbidden City."
+  - beijing
+  - top attraction
+quickAnswer: Prince Gong Mansion (Gong Wang Fu), in Beijing's Xicheng District near Shichahai Lake, is the best-preserved Qing-dynasty princely residence open to the public — a sprawl of courtyards, painted corridors, and a walled garden built in 1777. Budget two to three hours, arrive right at opening to have the garden's rockery paths to yourself, and combine it with a stroll around Houhai/Shichahai afterward. It's rated 4.4 from over a thousand reviews yet still feels uncrowded compared to the Forbidden City.
 faq:
-  - q: "How do I get to Prince Gong Mansion by subway?"
-    a: "Take Line 4 or Line 6 to Ping'anli Station, or Line 6 to Beihai North Station, then walk 15–20 minutes east through the hutongs to 17 Qian Hai Xi Jie in Xicheng District."
-  - q: "How much time should I budget for a visit?"
-    a: "Plan on two to three hours to see both the residential courtyards and the walled garden without rushing."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Go right at opening on a weekday — tour groups typically arrive mid-morning, and the garden's narrow paths get congested quickly once they do."
-  - q: "Is Prince Gong Mansion worth it compared to the Forbidden City?"
-    a: "It offers a different, quieter experience focused on how Qing nobility actually lived, including a real private garden — a good complement to, not a replacement for, the Forbidden City."
-  - q: "What's nearby after visiting?"
-    a: "Shichahai Lake and the Houhai bar/restaurant district are a short walk east, making it easy to pair the mansion with a lakeside stroll or meal."
+  - q: How do I get to Prince Gong Mansion by subway?
+    a: Take Line 4 or Line 6 to Ping'anli Station, or Line 6 to Beihai North Station, then walk 15–20 minutes east through the hutongs to 17 Qian Hai Xi Jie in Xicheng District.
+  - q: How much time should I budget for a visit?
+    a: Plan on two to three hours to see both the residential courtyards and the walled garden without rushing.
+  - q: When is the best time to visit to avoid crowds?
+    a: Go right at opening on a weekday — tour groups typically arrive mid-morning, and the garden's narrow paths get congested quickly once they do.
+  - q: Is Prince Gong Mansion worth it compared to the Forbidden City?
+    a: It offers a different, quieter experience focused on how Qing nobility actually lived, including a real private garden — a good complement to, not a replacement for, the Forbidden City.
+  - q: What's nearby after visiting?
+    a: Shichahai Lake and the Houhai bar/restaurant district are a short walk east, making it easy to pair the mansion with a lakeside stroll or meal.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

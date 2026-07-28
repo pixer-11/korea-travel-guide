@@ -1,54 +1,54 @@
 ---
-title: "Dongdaemun Design Plaza (DDP): Seoul Travel Guide"
-description: "Dongdaemun Design Plaza (DDP) is Zaha Hadid's neofuturist, riveted-aluminium landmark in Jung District, right above Dongdaemun History & Culture Park Station"
-country: "South Korea"
-region: "Seoul"
-category: "attraction"
-pubDate: "2026-07-26T07:03:19.926Z"
+title: 'Dongdaemun Design Plaza (DDP): Seoul Travel Guide'
+description: Dongdaemun Design Plaza (DDP) is Zaha Hadid's neofuturist, riveted-aluminium landmark in Jung District, right above Dongdaemun History & Culture Park Station
+country: South Korea
+region: Seoul
+category: attraction
+pubDate: '2026-07-26T07:03:19.926Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/DongDaemun_Design_Plaza_%28%EB%8F%99%EB%8C%80%EB%AC%B8%EB%94%94%EC%9E%90%EC%9D%B8%ED%94%8C%EB%9D%BC%EC%9E%90_%28DDP%29%29%2C_Seoul%2C_South_Korea_%28Unsplash_aNSniQXO424%29.jpg/1920px-DongDaemun_Design_Plaza_%28%EB%8F%99%EB%8C%80%EB%AC%B8%EB%94%94%EC%9E%90%EC%9D%B8%ED%94%8C%EB%9D%BC%EC%9E%90_%28DDP%29%29%2C_Seoul%2C_South_Korea_%28Unsplash_aNSniQXO424%29.jpg"
-  credit: "Photo: Tycho Atsma tychoa / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:DongDaemun_Design_Plaza_(%EB%8F%99%EB%8C%80%EB%AC%B8%EB%94%94%EC%9E%90%EC%9D%B8%ED%94%8C%EB%9D%BC%EC%9E%90_(DDP)),_Seoul,_South_Korea_(Unsplash_aNSniQXO424).jpg"
+  url: https://fastly.4sqi.net/img/general/original/4953223_wQu-_zHbrYFbC823vQe7BFA9dOG0XBW49-AC3xgzuog.jpg
+  credit: 'Photo: Foursquare user content (Dongdaemun Design Plaza (동대문디자인플라자))'
+  license: foursquare
+  source: https://foursquare.com/v/4b8220d2f964a52036cb30e3
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Dongdaemun_Design_Plaza_at_night%2C_Seoul%2C_Korea.jpg/1920px-Dongdaemun_Design_Plaza_at_night%2C_Seoul%2C_Korea.jpg
     credit: 'Photo: Eugene Lim / Wikimedia Commons (CC BY 2.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Dongdaemun_Design_Plaza_at_night,_Seoul,_Korea.jpg
 place:
-  id: "ChIJ8xRYr29FezUR3AtFqx2pIlw"
-  name: "Dongdaemun Design Plaza (DDP)"
-  address: "281 Eulji-ro, Jung District, Seoul, South Korea"
+  id: ChIJ8xRYr29FezUR3AtFqx2pIlw
+  name: Dongdaemun Design Plaza (DDP)
+  address: 281 Eulji-ro, Jung District, Seoul, South Korea
   rating: 4.4
   userRatingsTotal: 31815
-  googleMapsUrl: "https://maps.google.com/?cid=6639054745590107100&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=6639054745590107100&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.5665256
   lng: 127.00922360000001
-  phone: "02-2153-0000"
+  phone: 02-2153-0000
   openingHours:
-    - "Monday: 10:00 AM – 8:00 PM"
-    - "Tuesday: 10:00 AM – 8:00 PM"
-    - "Wednesday: 10:00 AM – 8:00 PM"
-    - "Thursday: 10:00 AM – 8:00 PM"
-    - "Friday: 10:00 AM – 8:00 PM"
-    - "Saturday: 10:00 AM – 8:00 PM"
-    - "Sunday: 10:00 AM – 8:00 PM"
+    - 'Monday: 10:00 AM – 8:00 PM'
+    - 'Tuesday: 10:00 AM – 8:00 PM'
+    - 'Wednesday: 10:00 AM – 8:00 PM'
+    - 'Thursday: 10:00 AM – 8:00 PM'
+    - 'Friday: 10:00 AM – 8:00 PM'
+    - 'Saturday: 10:00 AM – 8:00 PM'
+    - 'Sunday: 10:00 AM – 8:00 PM'
 tags:
-  - "seoul"
-  - "Dongdaemun night market"
-quickAnswer: "Dongdaemun Design Plaza (DDP) is Zaha Hadid's neofuturist, riveted-aluminium landmark in Jung District, right above Dongdaemun History & Culture Park Station (Lines 2, 4, and 5, exits 1 and 2). It's a very popular spot, so aim for a weekday morning before 11am if you want the plaza's curves to yourself; give yourself 2-3 hours to loop the exhibitions, Design Market, and LED Rose Garden. Entry to the building and plaza is free, though ticketed exhibitions inside vary and change seasonally."
+  - seoul
+  - Dongdaemun night market
+quickAnswer: Dongdaemun Design Plaza (DDP) is Zaha Hadid's neofuturist, riveted-aluminium landmark in Jung District, right above Dongdaemun History & Culture Park Station (Lines 2, 4, and 5, exits 1 and 2). It's a very popular spot, so aim for a weekday morning before 11am if you want the plaza's curves to yourself; give yourself 2-3 hours to loop the exhibitions, Design Market, and LED Rose Garden. Entry to the building and plaza is free, though ticketed exhibitions inside vary and change seasonally.
 faq:
-  - q: "Is DDP free to enter?"
-    a: "Yes — the building and outdoor plaza are free to walk through. Only specific rotating exhibitions inside the Art Hall or Museum charge admission, and that price varies by show."
-  - q: "How do I get to DDP by subway?"
-    a: "Take Line 2, 4, or 5 to Dongdaemun History & Culture Park Station. Exit 1 puts you near the Art Hall and Design Lab; exit 2 brings you up into the sunken plaza and LED Rose Garden."
-  - q: "How long should I plan to spend there?"
-    a: "Budget 2-3 hours for a full loop of the plaza, Design Market, and one exhibition. Add extra time if you plan to return after dark for the lit-up Rose Garden."
-  - q: "When is DDP least crowded?"
-    a: "Weekday mornings are calmest. It's a very popular site overall, so weekend afternoons and the after-dark hours around the lighting displays draw the biggest crowds."
-  - q: "What else is nearby?"
-    a: "Dongdaemun Market's wholesale fabric and clothing alleys are a short walk away, and the Cheonggyecheon stream walking path starts just north of the plaza."
+  - q: Is DDP free to enter?
+    a: Yes — the building and outdoor plaza are free to walk through. Only specific rotating exhibitions inside the Art Hall or Museum charge admission, and that price varies by show.
+  - q: How do I get to DDP by subway?
+    a: Take Line 2, 4, or 5 to Dongdaemun History & Culture Park Station. Exit 1 puts you near the Art Hall and Design Lab; exit 2 brings you up into the sunken plaza and LED Rose Garden.
+  - q: How long should I plan to spend there?
+    a: Budget 2-3 hours for a full loop of the plaza, Design Market, and one exhibition. Add extra time if you plan to return after dark for the lit-up Rose Garden.
+  - q: When is DDP least crowded?
+    a: Weekday mornings are calmest. It's a very popular site overall, so weekend afternoons and the after-dark hours around the lighting displays draw the biggest crowds.
+  - q: What else is nearby?
+    a: Dongdaemun Market's wholesale fabric and clothing alleys are a short walk away, and the Cheonggyecheon stream walking path starts just north of the plaza.
 aiGenerated: true
 draft: false
 ---

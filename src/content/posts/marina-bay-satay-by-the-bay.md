@@ -6,7 +6,7 @@ region: Marina Bay
 category: restaurant
 pubDate: '2026-07-23T07:43:20.889Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/95394591_hI9tR8SWiAvC74r4FBAQK9jTtk0p13b06oLjfqfhMoA.jpg
+  url: https://fastly.4sqi.net/img/general/original/33316225_QOG777IoBjPwytdaPLumkACVIj8qZqpu2zk2srK3hcg.jpg
   credit: 'Photo: Foursquare user content (Satay By The Bay)'
   license: foursquare
   source: https://foursquare.com/v/50a9bc28e4b089c951cfd1ca

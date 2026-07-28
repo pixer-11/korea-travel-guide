@@ -45,7 +45,7 @@ faq:
   - q: What's the best time to visit?
     a: Late afternoon into evening, timed around sunset, fits both the restaurant's cocktail-forward vibe and Bingin's scenic cliff-and-surf setting. Confirm current opening hours directly since they weren't independently verified here.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

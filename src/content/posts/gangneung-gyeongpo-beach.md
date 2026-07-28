@@ -1,31 +1,31 @@
 ---
-title: "Gyeongpo Beach: Gangneung Travel Guide"
-description: "Gyeongpo Beach is Gangneung's flagship stretch of sand on South Korea's east coast, a wide, gently sloping beach backed by a pine grove and lined with cafés"
-country: "South Korea"
-region: "Gangneung"
-category: "attraction"
-pubDate: 2026-07-21
+title: 'Gyeongpo Beach: Gangneung Travel Guide'
+description: Gyeongpo Beach is Gangneung's flagship stretch of sand on South Korea's east coast, a wide, gently sloping beach backed by a pine grove and lined with cafés
+country: South Korea
+region: Gangneung
+category: attraction
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Gyeongpo_Beach_20220502_023.jpg/1920px-Gyeongpo_Beach_20220502_023.jpg"
-  credit: "Photo: Mobius6 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Gyeongpo_Beach_20220502_023.jpg"
+  url: https://fastly.4sqi.net/img/general/original/6248688_fdLF7_zMEZiKg2o2MADQwhgv8ofuT3WW9syBJIosKoI.jpg
+  credit: 'Photo: Foursquare user content (Gyeongpo Beach (경포해수욕장))'
+  license: foursquare
+  source: https://foursquare.com/v/4bf6bc70b1a7a5934ba0d65b
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Gyeongpo_Beach_20220502_021.jpg/1920px-Gyeongpo_Beach_20220502_021.jpg
     credit: 'Photo: Mobius6 / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Gyeongpo_Beach_20220502_021.jpg
 place:
-  id: "ChIJjxBqWB3kYTUR_ft_zEchqyE"
-  name: "Gyeongpo Beach"
-  address: "Gyeongpo Beach, 산1 Gangmun-dong, Gangneung, Gangwon-do, South Korea"
+  id: ChIJjxBqWB3kYTUR_ft_zEchqyE
+  name: Gyeongpo Beach
+  address: Gyeongpo Beach, 산1 Gangmun-dong, Gangneung, Gangwon-do, South Korea
   rating: 4.4
   userRatingsTotal: 8201
-  googleMapsUrl: "https://maps.google.com/?cid=2426069416526478333&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=2426069416526478333&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.805475699999995
   lng: 128.9078299
-  phone: '033-640-4414'
+  phone: 033-640-4414
   openingHours:
     - 'Monday: Open 24 hours'
     - 'Tuesday: Open 24 hours'
@@ -35,20 +35,20 @@ place:
     - 'Saturday: Open 24 hours'
     - 'Sunday: Open 24 hours'
 tags:
-  - "gangneung"
-  - "Gyeongpo Beach"
-quickAnswer: "Gyeongpo Beach is Gangneung's flagship stretch of sand on South Korea's east coast, a wide, gently sloping beach backed by a pine grove and lined with cafés, seafood restaurants and hotels. It's busiest from late June through August but is worth visiting year-round for sunrise views, the adjacent Gyeongpo Lake loop, and a cluster of nearby museums and cafés. Plan on 2-3 hours for the beach and lake, or a half-day if you add the coffee-street cafés and Ojukheon."
+  - gangneung
+  - Gyeongpo Beach
+quickAnswer: Gyeongpo Beach is Gangneung's flagship stretch of sand on South Korea's east coast, a wide, gently sloping beach backed by a pine grove and lined with cafés, seafood restaurants and hotels. It's busiest from late June through August but is worth visiting year-round for sunrise views, the adjacent Gyeongpo Lake loop, and a cluster of nearby museums and cafés. Plan on 2-3 hours for the beach and lake, or a half-day if you add the coffee-street cafés and Ojukheon.
 faq:
-  - q: "How do I get to Gyeongpo Beach from Seoul?"
-    a: "Take the KTX Gyeonggang Line from Seoul Station or Cheongnyangni to Gangneung (about 1 hr 50 min), then a city bus or taxi (15-25 minutes) to Gyeongpo Beach."
-  - q: "Is there an entrance fee for Gyeongpo Beach?"
-    a: "No, the beach itself is free and open to the public; parking and any seasonal beach facility fees are set locally, so check current signage or the Gangneung tourism site before visiting."
-  - q: "When is the best time to visit?"
-    a: "Late June to August for swimming and festival atmosphere, but spring and autumn offer better crowds and photography conditions, especially for sunrise."
-  - q: "How long should I plan to spend there?"
-    a: "About 2-3 hours for the beach and a loop around adjacent Gyeongpo Lake; a half-day if you add Ojukheon House and Anmok coffee street nearby."
-  - q: "What's nearby worth combining with the beach?"
-    a: "Ojukheon House (birthplace of Yi I and Sin Saimdang), Gyeongpodae Pavilion overlooking the lake, and Anmok Beach's coffee street, all within a short drive or bus ride."
+  - q: How do I get to Gyeongpo Beach from Seoul?
+    a: Take the KTX Gyeonggang Line from Seoul Station or Cheongnyangni to Gangneung (about 1 hr 50 min), then a city bus or taxi (15-25 minutes) to Gyeongpo Beach.
+  - q: Is there an entrance fee for Gyeongpo Beach?
+    a: No, the beach itself is free and open to the public; parking and any seasonal beach facility fees are set locally, so check current signage or the Gangneung tourism site before visiting.
+  - q: When is the best time to visit?
+    a: Late June to August for swimming and festival atmosphere, but spring and autumn offer better crowds and photography conditions, especially for sunrise.
+  - q: How long should I plan to spend there?
+    a: About 2-3 hours for the beach and a loop around adjacent Gyeongpo Lake; a half-day if you add Ojukheon House and Anmok coffee street nearby.
+  - q: What's nearby worth combining with the beach?
+    a: Ojukheon House (birthplace of Yi I and Sin Saimdang), Gyeongpodae Pavilion overlooking the lake, and Anmok Beach's coffee street, all within a short drive or bus ride.
 aiGenerated: true
 draft: false
 ---
