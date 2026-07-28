@@ -193,16 +193,35 @@ export async function loadPosts(dir = POSTS_DIR) {
       continue; // unparsable frontmatter — not our problem to fix here
     }
     if (!parsed.data) continue;
-    out.push({ file, filePath, fm: parsed.data, body: parsed.content });
+    out.push({ file, filePath, fm: parsed.data, body: parsed.content, raw });
   }
   return out;
 }
 
-// Round-trips the frontmatter through js-yaml (load happened in loadPosts via
-// gray-matter, which uses js-yaml internally) and rewrites ONLY the
-// frontmatter block; `body` (prose/images) is passed through byte-for-byte.
-export async function writePostFile(filePath, fm, body) {
-  const out = `---\n${yaml.dump(fm, { lineWidth: -1, noRefs: true, sortKeys: false })}---\n${body}`;
+// Re-serializes the WHOLE frontmatter object via yaml.dump — the same
+// convention already used by backfill-photos-alt.mjs, discover-events.mjs,
+// build-itineraries.mjs et al. This is NOT a surgical splice of just the
+// `place:` block; every frontmatter key gets re-emitted (key order is
+// preserved via insertPlaceIntoFrontmatter, and values round-trip through
+// js-yaml load→dump). `body` (prose/images) is passed through byte-for-byte.
+//
+// yaml.dump always emits '\n'. Posts in this repo are CRLF (~2/3) or LF
+// depending on how they were originally written, and a straight concat of
+// LF frontmatter + a CRLF body produces a mixed-line-ending file (the exact
+// hazard scripts/backfill-place-details.mjs already guards against). Detect
+// the SOURCE file's line ending from `sourceRaw` (defaults to `body` when
+// not given) and normalize the ENTIRE output — frontmatter and body — to it.
+export async function writePostFile(filePath, fm, body, sourceRaw = body) {
+  const nl = String(sourceRaw).includes('\r\n') ? '\r\n' : '\n';
+  let out = `---\n${yaml.dump(fm, { lineWidth: -1, noRefs: true, sortKeys: false })}---\n${body}`;
+  if (nl === '\r\n') {
+    // Normalize every line ending to CRLF without ever doubling up on lines
+    // that already came in as CRLF (from the untouched body).
+    out = out.replace(/\r\n/g, '\n').replace(/\n/g, '\r\n');
+  } else {
+    // Source is LF-only — strip any stray \r so the whole file stays LF.
+    out = out.replace(/\r\n/g, '\n');
+  }
   await writeFile(filePath, out, 'utf8');
 }
 
@@ -236,7 +255,7 @@ async function main() {
   for (const t of targets) {
     const region = t.fm.region;
     const tmp = titleMainPart(t.fm.title, region);
-    const query = `${tmp} ${region}`.trim();
+    const query = buildQuery(t.fm.title, region);
 
     let results;
     try {
@@ -263,7 +282,7 @@ async function main() {
 
     const place = buildPlaceBlock(result);
     const nextFm = insertPlaceIntoFrontmatter(t.fm, place);
-    await writePostFile(t.filePath, nextFm, t.body);
+    await writePostFile(t.filePath, nextFm, t.body, t.raw);
     console.log(`ATTACHED: ${t.file} ← ${result.name}`);
     attached++;
   }

@@ -211,7 +211,7 @@ test('writePostFile writes a place: block and leaves every other field + the bod
       lng: 126.9910,
     });
     const nextFm = insertPlaceIntoFrontmatter(before.data, place);
-    await writePostFile(tmpPath, nextFm, before.content);
+    await writePostFile(tmpPath, nextFm, before.content, original);
 
     const rewritten = await readFile(tmpPath, 'utf8');
     const after = matter(rewritten);
@@ -225,6 +225,75 @@ test('writePostFile writes a place: block and leaves every other field + the bod
     }
 
     // body/prose is byte-for-byte identical — round-trip must never touch it
+    assert.equal(after.content, before.content);
+  } finally {
+    await rm(dir, { recursive: true, force: true });
+  }
+});
+
+// ── line-ending preservation (backfill-place-details.mjs pattern) ──────
+
+test('writePostFile normalizes the WHOLE output to CRLF when the source file is CRLF (no mixed line endings)', async () => {
+  const fixturePath = new URL('../src/content/posts/seoul-ikseon-dong.md', import.meta.url);
+  const original = await readFile(fixturePath, 'utf8');
+  assert.ok(original.includes('\r\n'), 'fixture must be CRLF for this test to be meaningful');
+
+  const dir = await mkdtemp(join(tmpdir(), 'geocode-placeless-test-'));
+  const tmpPath = join(dir, 'crlf-fixture.md');
+  await writeFile(tmpPath, original, 'utf8');
+
+  try {
+    const before = matter(original);
+    const place = buildPlaceBlock({
+      id: 'ChIJ-fake', name: 'Ikseon-dong', address: 'Seoul, South Korea',
+      googleMapsUrl: 'https://maps.google.com/?cid=1', lat: 37.57, lng: 126.99,
+    });
+    const nextFm = insertPlaceIntoFrontmatter(before.data, place);
+    await writePostFile(tmpPath, nextFm, before.content, original);
+
+    const rewritten = await readFile(tmpPath, 'utf8');
+    assert.ok(rewritten.includes('\r\n'), 'expected CRLF line endings in the output');
+    // No bare LF anywhere — every \n must be preceded by \r.
+    assert.equal(/(?<!\r)\n/.test(rewritten), false, 'found a bare LF in what should be an all-CRLF file');
+  } finally {
+    await rm(dir, { recursive: true, force: true });
+  }
+});
+
+test('writePostFile stays all-LF when the source file is LF-only (no mixed line endings)', async () => {
+  const lfRaw =
+    '---\n' +
+    'title: LF Test Post\n' +
+    'region: Testland\n' +
+    'category: restaurant\n' +
+    'heroImage:\n' +
+    '  url: https://example.com/x.jpg\n' +
+    'gallery: []\n' +
+    'draft: false\n' +
+    '---\n' +
+    '\n' +
+    '## Why go\n' +
+    '\n' +
+    'Some LF-only prose that must survive untouched.\n';
+  assert.equal(lfRaw.includes('\r'), false, 'fixture must be LF-only for this test to be meaningful');
+
+  const dir = await mkdtemp(join(tmpdir(), 'geocode-placeless-test-'));
+  const tmpPath = join(dir, 'lf-fixture.md');
+  await writeFile(tmpPath, lfRaw, 'utf8');
+
+  try {
+    const before = matter(lfRaw);
+    const place = buildPlaceBlock({
+      id: 'ChIJ-fake-lf', name: 'LF Test Post', address: 'Testland',
+      googleMapsUrl: 'https://maps.google.com/?cid=2', lat: 1.23, lng: 4.56,
+    });
+    const nextFm = insertPlaceIntoFrontmatter(before.data, place);
+    await writePostFile(tmpPath, nextFm, before.content, lfRaw);
+
+    const rewritten = await readFile(tmpPath, 'utf8');
+    assert.equal(rewritten.includes('\r'), false, 'found a CR in what should be an all-LF file');
+    const after = matter(rewritten);
+    assert.deepEqual(after.data.place, place);
     assert.equal(after.content, before.content);
   } finally {
     await rm(dir, { recursive: true, force: true });
