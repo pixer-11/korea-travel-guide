@@ -93,3 +93,58 @@ test('dwellMinutes: regex matches hyphen, en-dash, and "to" separator', () => {
   assert.equal(dwellMinutes({ data: { category: 'attraction' }, body: 'Plan on 2 to 3 hours here.' }), 150);
   assert.equal(dwellMinutes({ data: { category: 'attraction' }, body: 'Allow 30-45 minutes here.' }), 38);
 });
+
+test('buildItinerary: regression — lopsided cluster distribution (10 tight + 2 far outliers) terminates', () => {
+  // Simulates real-world distribution: 10 posts tightly clustered in Seoul core,
+  // 2 far outliers. This previously caused oscillation in rebalance loop.
+  // Test: must return (ok true or false) — assertion is termination, not plan quality.
+  const posts = [];
+  // 10 posts in tight Seoul core cluster (within ~0.01° of 37.58/126.98)
+  for (let i = 0; i < 10; i++) {
+    posts.push(P(`seoul${i}`, 37.58 + (Math.random() - 0.5) * 0.01, 126.98 + (Math.random() - 0.5) * 0.01));
+  }
+  // 2 far outliers
+  posts.push(P('outlier1', 37.51, 127.06));  // Gangnam area (~9km south-east)
+  posts.push(P('outlier2', 37.45, 126.70));  // Incheon area (~30km west)
+
+  const startTime = Date.now();
+  const it = buildItinerary(posts, { days: 3 });
+  const elapsed = Date.now() - startTime;
+
+  // Assertion 1: Must return within reasonable time (not hang)
+  assert.ok(elapsed < 5000, `buildItinerary took ${elapsed}ms (should complete in <5s)`);
+
+  // Assertion 2: Returns either ok:true (balanced plan) or ok:false (couldn't balance)
+  assert.ok(typeof it.ok === 'boolean');
+
+  // Assertion 3: If ok:true, every day has ≥1 stop (never empty days)
+  if (it.ok) {
+    assert.ok(it.days.length === 3);
+    for (const d of it.days) {
+      assert.ok(d.stops.length >= 1, 'ok:true requires all days to have ≥1 stop');
+    }
+  }
+});
+
+test('buildItinerary: balanced valid input produces all days with ≥3 stops', () => {
+  // Create a balanced, valid input: 15 posts across 3 geographic clusters,
+  // evenly distributed to avoid triggering under-provision or rebalance issues.
+  const posts = [];
+  // Cluster 1: 5 posts + 1 restaurant = 6 posts
+  for (let i = 0; i < 5; i++) posts.push(P(`c1_${i}`, 37.60 + i * 0.002, 126.95));
+  posts.push(P('c1_rest', 37.601, 126.951, 'restaurant'));
+  // Cluster 2: 5 posts + 1 restaurant = 6 posts
+  for (let i = 0; i < 5; i++) posts.push(P(`c2_${i}`, 37.50 + i * 0.002, 127.10));
+  posts.push(P('c2_rest', 37.501, 127.101, 'restaurant'));
+  // Cluster 3: 3 posts = 3 posts (minimum viable)
+  for (let i = 0; i < 3; i++) posts.push(P(`c3_${i}`, 37.40 + i * 0.002, 126.80));
+
+  const it = buildItinerary(posts, { days: 3 });
+  assert.equal(it.ok, true, 'balanced 15-post input should produce valid itinerary');
+  assert.equal(it.days.length, 3);
+  for (let i = 0; i < it.days.length; i++) {
+    const d = it.days[i];
+    assert.ok(d.stops.length >= 3, `day ${i + 1} must have ≥3 stops, got ${d.stops.length}`);
+    assert.ok(d.stops.length <= 5, `day ${i + 1} must have ≤5 stops, got ${d.stops.length}`);
+  }
+});

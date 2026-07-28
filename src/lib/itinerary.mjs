@@ -90,7 +90,11 @@ function clusterByDay(posts, days) {
   }
 
   // Rebalance: ensure each cluster has at least 3 posts by transferring from larger clusters
-  while (true) {
+  // Only transfer FROM clusters that can spare a post (length > 3, not ≥3) to avoid oscillation.
+  const maxIterations = posts.length * days; // Safety cap to prevent infinite loops
+  let iterations = 0;
+  while (iterations < maxIterations) {
+    iterations++;
     let minIdx = -1, minSize = Infinity;
     for (let i = 0; i < clusters.length; i++) {
       if (clusters[i].length < minSize) {
@@ -101,10 +105,10 @@ function clusterByDay(posts, days) {
 
     if (minSize >= 3) break; // All clusters are large enough
 
-    // Find the nearest post in other clusters
+    // Find the nearest post in other clusters that can spare it (donor.length > 3)
     let bestPost = null, bestSourceIdx = -1, bestDist = Infinity;
     for (let i = 0; i < clusters.length; i++) {
-      if (i === minIdx) continue;
+      if (i === minIdx || clusters[i].length <= 3) continue; // Only consider clusters with > 3 posts
       for (const p of clusters[i]) {
         const d = haversineKm(seeds[minIdx].data.place.lat, seeds[minIdx].data.place.lng, p.data.place.lat, p.data.place.lng);
         if (d < bestDist) {
@@ -115,7 +119,7 @@ function clusterByDay(posts, days) {
       }
     }
 
-    if (!bestPost) break; // No posts to transfer
+    if (!bestPost) break; // No posts can be transferred (no donor with > 3 posts)
 
     // Transfer the post
     clusters[bestSourceIdx].splice(clusters[bestSourceIdx].indexOf(bestPost), 1);
@@ -169,6 +173,12 @@ export function buildItinerary(posts, { days }) {
   }
   const clusters = clusterByDay(q, days).filter((c) => c.length);
   if (clusters.length < days) return { ok: false, reason: 'not enough geographic spread', days: [] };
+  // Ensure each cluster has at least 3 posts (rebalance may not achieve this with severely unbalanced input)
+  for (let i = 0; i < clusters.length; i++) {
+    if (clusters[i].length < 3) {
+      return { ok: false, reason: `cluster ${i + 1} has only ${clusters[i].length} posts, need ≥3`, days: [] };
+    }
+  }
   // biggest clusters first → Day 1 is the headline area
   clusters.sort((a, b) => b.length - a.length);
   const out = [];
