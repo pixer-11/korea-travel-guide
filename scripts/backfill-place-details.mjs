@@ -104,13 +104,19 @@ async function main() {
     const priorityCount = files.filter((f) => prioritySlugs.has(f.replace(/\.md$/, ''))).length;
     if (priorityCount) console.log(`Priority: ${priorityCount} itinerary stop(s) queued first`);
   }
-  let updated = 0, skipNoPlace = 0, already = 0, noData = 0, processed = 0, quotaHits = 0;
+  let updated = 0, skipNoPlace = 0, already = 0, noData = 0, processed = 0, quotaHits = 0, apiErrors = 0;
   // Places Details returns null on 429 (places.mjs logs it and does NOT throw), which
   // used to land in the noData bucket — so an exhausted-quota run reported "117 no new
   // data" as if those venues simply had no phone listed, and kept firing doomed calls
   // for the rest of the list. Count it separately and give up after a short streak.
+  //
+  // It also used to return that same bare null for a 403/404/500, so EVERY failure was
+  // filed under "quota-429" — a key that lacks Places API access reads exactly like an
+  // exhausted day, and the fix for one is nothing like the fix for the other. Pass
+  // reportFailure so the two are counted, logged, and reported apart; only a genuine
+  // 429 is worth retrying tomorrow, which is what the workflow's retire step keys off.
   const QUOTA_STREAK_STOP = 5;
-  let quotaStreak = 0;
+  let failStreak = 0, lastFailure = null;
 
   for (const f of files) {
     if (processed >= LIMIT) break;
@@ -133,21 +139,31 @@ async function main() {
     processed++;
     let raw;
     try {
-      raw = await fetchPlaceReviewSignals(id.replace(/^['"]|['"]$/g, ''));
+      raw = await fetchPlaceReviewSignals(id.replace(/^['"]|['"]$/g, ''), { reportFailure: true });
     } catch (e) {
       console.log(`  ⚠ ${f}: ${e.message}`);
       continue;
     }
-    // null = the Details call itself failed (429 quota). Anything else is a real answer.
-    if (raw === null) {
-      quotaHits++;
-      if (++quotaStreak >= QUOTA_STREAK_STOP) {
-        console.log(`\n⛔ Places Details quota exhausted (${quotaStreak} consecutive 429s) — stopping early.`);
+    // `failure` set = the Details call itself failed; null = no API key configured.
+    // Anything else is a real answer from Google.
+    if (raw === null || raw.failure != null) {
+      const kind = raw === null ? 'no-api-key' : raw.failure;
+      if (kind === 429) quotaHits++; else apiErrors++;
+      lastFailure = kind;
+      if (++failStreak >= QUOTA_STREAK_STOP) {
+        console.log(
+          kind === 429
+            ? `\n⛔ Places Details quota exhausted (${failStreak} consecutive 429s) — stopping early.`
+            : `\n⛔ Places Details failing with ${kind} (${failStreak} in a row) — stopping early. ` +
+              `Not reported as a quota hit; check the key has Places API (New) enabled with no ` +
+              `referrer/IP restriction. Note a drained project also returns 403 intermittently ` +
+              `alongside its 429s, so check the day's quota before assuming a key problem.`
+        );
         break;
       }
       continue;
     }
-    quotaStreak = 0;
+    failStreak = 0;
 
     const phone = raw?.phone;
     const hours = raw?.openingHours;
@@ -179,8 +195,9 @@ async function main() {
 
   console.log(
     `\nBACKFILL RESULT: updated ${updated}, already-complete ${already}, no-new-data ${noData}, ` +
-    `no-place ${skipNoPlace}, quota-429 ${quotaHits}, processed ${processed} of ${files.length} ` +
-    `(${APPLY ? 'APPLIED' : 'dry-run'}).`
+    `no-place ${skipNoPlace}, quota-429 ${quotaHits}, api-error ${apiErrors}` +
+    (apiErrors ? ` (last: ${lastFailure})` : '') +
+    `, processed ${processed} of ${files.length} (${APPLY ? 'APPLIED' : 'dry-run'}).`
   );
 }
 

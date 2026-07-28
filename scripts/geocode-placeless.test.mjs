@@ -39,6 +39,19 @@ test('titleMainPart leaves a title alone when there is no trailing "in {region}"
   assert.equal(titleMainPart('StreetXO Ibiza', 'Ibiza'), 'StreetXO Ibiza');
 });
 
+// generate.mjs writes venue posts as "{Venue}: {Region} Travel Guide". Left in,
+// that whole suffix rode into the Places query ("Gwangjang Market: Seoul Travel
+// Guide Seoul") and then into the name gate, which would compare it against the
+// result's plain "Gwangjang Market" and reject the correct venue.
+test('titleMainPart strips a trailing ": {region} Travel Guide" suffix', () => {
+  assert.equal(titleMainPart('Gwangjang Market: Seoul Travel Guide', 'Seoul'), 'Gwangjang Market');
+  assert.equal(titleMainPart('Gyeongbokgung Palace: Seoul Travel Guide', 'Seoul'), 'Gyeongbokgung Palace');
+  // only the post's OWN region is stripped — a different city stays put
+  assert.equal(titleMainPart('Somewhere: Tokyo Travel Guide', 'Seoul'), 'Somewhere: Tokyo Travel Guide');
+  // a colon that is part of the venue name is left alone
+  assert.equal(titleMainPart('Cafe: The Sequel', 'Seoul'), 'Cafe: The Sequel');
+});
+
 test('titleMainPart strips wrapping quote characters', () => {
   assert.equal(titleMainPart(`'Saladaeng in Bangkok'`, 'Bangkok'), 'Saladaeng');
   assert.equal(titleMainPart(`"Ikseon-Dong in Seoul"`, 'Seoul'), 'Ikseon-Dong');
@@ -260,6 +273,18 @@ test('isTarget selects only non-draft, non-event posts without a place block', (
   assert.equal(isTarget({ category: 'event' }), false);
 });
 
+// A post can carry a place: block that has NO id — seoul-gwangjang-market.md
+// was seeded that way, with a placeholder 'cid=example' maps URL and no way to
+// re-query Google. The id is what every downstream job keys off (Details
+// backfill, refresh, itinerary joins), so an id-less block is functionally
+// placeless and has to be re-verified, not skipped forever.
+test('isTarget also selects a post whose place block exists but has no id', () => {
+  assert.equal(isTarget({ category: 'attraction', place: { name: 'X', lat: 1, lng: 2 } }), true);
+  // still excluded for the usual reasons
+  assert.equal(isTarget({ category: 'attraction', place: { name: 'X' }, draft: true }), false);
+  assert.equal(isTarget({ category: 'event', place: { name: 'X' } }), false);
+});
+
 // ── place block shape ───────────────────────────────────────────────────
 
 test('buildPlaceBlock only includes rating/userRatingsTotal/businessStatus when present', () => {
@@ -275,6 +300,63 @@ test('buildPlaceBlock only includes rating/userRatingsTotal/businessStatus when 
     googleMapsUrl: 'https://maps.google.com/?cid=1', lat: 1.23, lng: 4.56,
   });
   assert.deepEqual(Object.keys(minimal), ['id', 'name', 'address', 'googleMapsUrl', 'lat', 'lng']);
+});
+
+// Re-verifying an id-less block must not throw away fields Places never
+// returns. seoul-gwangjang-market carries a `busyness` object bought from
+// BestTime.app (paid, with its own venueId) — losing it on a geocode pass
+// would silently delete data this repo cannot re-derive from Google.
+test('buildPlaceBlock overwrites verified fields but carries over ones Places never returns', () => {
+  const existing = {
+    name: 'Gwangjang Market',
+    address: 'stale seeded address',
+    rating: 4.3,
+    priceLevel: 1,
+    googleMapsUrl: 'https://maps.google.com/?cid=example', // placeholder, must be replaced
+    lat: 37.5701,
+    lng: 126.9997,
+    busyness: { updated: '2026-07-23', venueId: 'ven_abc', weekdayBusy: [11, 12] },
+  };
+  const out = buildPlaceBlock({
+    id: 'ChIJreal', name: 'Gwangjang Market', address: '88 Changgyeonggung-ro, Jongno-gu, Seoul',
+    rating: 4.4, userRatingsTotal: 51234, googleMapsUrl: 'https://maps.google.com/?cid=123',
+    businessStatus: 'OPERATIONAL', lat: 37.5700, lng: 126.9996,
+  }, existing);
+
+  // every Places-verified field comes from the API response, not the old block
+  assert.equal(out.id, 'ChIJreal');
+  assert.equal(out.address, '88 Changgyeonggung-ro, Jongno-gu, Seoul');
+  assert.equal(out.rating, 4.4);
+  assert.equal(out.googleMapsUrl, 'https://maps.google.com/?cid=123');
+  assert.equal(out.lat, 37.57);
+  // fields Places does not return survive untouched
+  assert.deepEqual(out.busyness, existing.busyness);
+  assert.equal(out.priceLevel, 1);
+  // id leads the block, as in every other post
+  assert.equal(Object.keys(out)[0], 'id');
+  // caller's object is not mutated
+  assert.equal('id' in existing, false);
+});
+
+test('buildPlaceBlock without an existing block behaves exactly as before', () => {
+  const out = buildPlaceBlock({
+    id: 'abc', name: 'Test Venue', address: '1 Test St',
+    googleMapsUrl: 'https://maps.google.com/?cid=1', lat: 1.23, lng: 4.56,
+  });
+  assert.deepEqual(Object.keys(out), ['id', 'name', 'address', 'googleMapsUrl', 'lat', 'lng']);
+});
+
+test('insertPlaceIntoFrontmatter replaces an existing place block in place, without duplicating it', () => {
+  const fm = {
+    title: 'X', region: 'Seoul', gallery: [],
+    place: { name: 'old', googleMapsUrl: 'https://maps.google.com/?cid=example' },
+    tags: ['a'],
+  };
+  const place = { id: '1', name: 'new', address: 'addr', googleMapsUrl: 'g', lat: 1, lng: 2 };
+  const out = insertPlaceIntoFrontmatter(fm, place);
+  assert.deepEqual(Object.keys(out), ['title', 'region', 'gallery', 'place', 'tags']);
+  assert.deepEqual(out.place, place); // the NEW block won, not the stale one
+  assert.equal(fm.place.name, 'old'); // original untouched
 });
 
 test('insertPlaceIntoFrontmatter inserts place right after gallery, preserving all other keys/order', () => {

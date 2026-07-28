@@ -1,2 +1,6 @@
 Seoul
-# run 8 — Euljiro retry with improved gate
+# run 9 — seoul-gwangjang-market: re-verify its id-less place block.
+# The post shipped with a place: block that has no id and a placeholder
+# 'googleMapsUrl: ...?cid=example', so no downstream job could ever repair it
+# (isTarget only looked for a MISSING block). Its busyness data is BestTime.app
+# paid data and is carried over untouched; every Places field is replaced.

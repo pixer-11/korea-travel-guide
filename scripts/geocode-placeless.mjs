@@ -48,8 +48,12 @@ function escapeRegExp(s) {
 export function titleMainPart(title, region) {
   let t = stripQuotes(title);
   if (region) {
-    const re = new RegExp(`\\s+in\\s+${escapeRegExp(String(region).trim())}$`, 'i');
-    t = t.replace(re, '').trim();
+    const r = escapeRegExp(String(region).trim());
+    // "{Venue}: {Region} Travel Guide" — generate.mjs's standard venue-post
+    // title. Stripped before the "in {Region}" form because the two never
+    // co-occur and this one carries a colon the other pattern won't match.
+    t = t.replace(new RegExp(`:\\s*${r}\\s+travel\\s+guide$`, 'i'), '').trim();
+    t = t.replace(new RegExp(`\\s+in\\s+${r}$`, 'i'), '').trim();
   }
   return stripQuotes(t);
 }
@@ -233,13 +237,32 @@ export function buildCentroids(posts) {
   return centroids;
 }
 
+// A block with no `id` counts as placeless. The id is the key every later job
+// re-queries Google with (backfill-place-details, refresh, the itinerary join),
+// so a block without one is a dead end no other script can repair — and it can
+// hold seeded, never-verified values (seoul-gwangjang-market shipped with
+// 'googleMapsUrl: ...?cid=example', a link that resolves to nothing).
 export function isTarget(fm) {
-  return Boolean(fm) && !fm.place && !fm.draft && fm.category !== 'event';
+  return Boolean(fm) && !fm.place?.id && !fm.draft && fm.category !== 'event';
 }
+
+// Every field Places itself returns. On a re-verify these are REPLACED wholesale
+// from the API response — never merged with what was in the file — so a stale or
+// seeded value can't survive. A field absent from the response is absent from
+// the block, rather than falling back to the old value.
+const VERIFIED_KEYS = new Set([
+  'id', 'name', 'address', 'rating', 'userRatingsTotal', 'googleMapsUrl', 'businessStatus', 'lat', 'lng',
+]);
 
 // Normalized places.mjs result → the exact `place:` block shape used
 // elsewhere in the repo (see e.g. los-angeles-griffith-observatory.md).
-export function buildPlaceBlock(result) {
+//
+// `existing` is the block already in the post, passed only when re-verifying an
+// id-less one. Anything in it that Places does NOT return is carried over: the
+// `busyness` object comes from BestTime.app (paid, keyed by its own venueId),
+// and phone/openingHours come from a separate Details call — dropping them here
+// would delete data this script has no way to rebuild.
+export function buildPlaceBlock(result, existing = null) {
   const place = { id: result.id, name: result.name, address: result.address };
   if (result.rating != null) place.rating = result.rating;
   if (result.userRatingsTotal != null) place.userRatingsTotal = result.userRatingsTotal;
@@ -247,20 +270,34 @@ export function buildPlaceBlock(result) {
   if (result.businessStatus) place.businessStatus = result.businessStatus;
   place.lat = result.lat;
   place.lng = result.lng;
+  for (const [k, v] of Object.entries(existing ?? {})) {
+    if (!VERIFIED_KEYS.has(k)) place[k] = v;
+  }
   return place;
 }
 
 // Insert `place` right after `gallery` (or `heroImage` if there's no
 // gallery key) to match the field order generate.mjs already writes.
 // Falls back to appending at the end. Every other key/value is untouched.
+// Re-verifying an id-less post means `fm` ALREADY has a place key. Copying it
+// through the loop would overwrite the freshly built block with the stale one
+// (object keys are unique, last write wins), so the old key is skipped and the
+// new block takes its slot in the original key order.
 export function insertPlaceIntoFrontmatter(fm, place) {
   const keys = Object.keys(fm);
   const afterKey = keys.includes('gallery') ? 'gallery' : keys.includes('heroImage') ? 'heroImage' : null;
   const out = {};
   let inserted = false;
   for (const k of keys) {
+    if (k === 'place') {
+      if (!inserted) {
+        out.place = place; // keep the block where the post already had it
+        inserted = true;
+      }
+      continue;
+    }
     out[k] = fm[k];
-    if (afterKey && k === afterKey) {
+    if (afterKey && k === afterKey && !inserted) {
       out.place = place;
       inserted = true;
     }
@@ -371,10 +408,19 @@ async function main() {
       continue;
     }
 
-    const place = buildPlaceBlock(result);
+    const existing = t.fm.place ?? null;
+    const place = buildPlaceBlock(result, existing);
     const nextFm = insertPlaceIntoFrontmatter(t.fm, place);
     await writePostFile(t.filePath, nextFm, t.body, t.raw);
-    console.log(`ATTACHED: ${t.file} ← ${result.name}`);
+    // Distinguish the two cases in the committed log, since a re-verify
+    // REPLACES values that were already on the page (and a human reviews
+    // every run of this workflow).
+    const carried = existing ? Object.keys(existing).filter((k) => !VERIFIED_KEYS.has(k)) : [];
+    console.log(
+      existing
+        ? `RE-VERIFIED (id-less block replaced${carried.length ? `, kept ${carried.join('/')}` : ''}): ${t.file} ← ${result.name}`
+        : `ATTACHED: ${t.file} ← ${result.name}`
+    );
     attached++;
   }
 

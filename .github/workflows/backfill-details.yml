@@ -97,14 +97,16 @@ jobs:
           cp /tmp/bf.log data/logs/backfill-last-run.txt
 
       # One-shot semantics for the targeted list: comment out the slug line once
-      # the run got through it with ZERO 429s, i.e. every listed post got a real
-      # answer from Places (hours filled, or genuinely none published). A run
-      # that hit the quota leaves the line intact so the next chained run retries
-      # it. Committed with GITHUB_TOKEN, which by design does NOT re-trigger this
+      # the run got through it with ZERO failures of either kind — every listed
+      # post got a real answer from Places (hours filled, or genuinely none
+      # published). A run that hit the quota (429) or a key/permission problem
+      # (api-error) leaves the line intact so the next chained run retries it;
+      # an api-error run needs a human fix, and retiring the list would bury it.
+      # Committed with GITHUB_TOKEN, which by design does NOT re-trigger this
       # workflow's own push filter — no loop.
       - name: Retire trigger line once its slugs are done
         run: |
-          if [ -f data/backfill-trigger ] && grep -q 'quota-429 0' /tmp/bf.log; then
+          if [ -f data/backfill-trigger ] && grep -q 'quota-429 0, api-error 0' /tmp/bf.log; then
             FIRST_LINE=$(head -1 data/backfill-trigger | tr -d '\r')
             case "$FIRST_LINE" in
               ''|'#'*) : ;;

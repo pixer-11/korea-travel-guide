@@ -99,7 +99,7 @@ const LOCAL_SIGNAL_MASK = [
  * each review's language code + star rating as numeric signals. Returns null on
  * any error/quota so publishing never blocks on it.
  */
-export async function fetchPlaceReviewSignals(placeId) {
+export async function fetchPlaceReviewSignals(placeId, { reportFailure = false } = {}) {
   if (!KEY || !placeId) return null;
   let res;
   try {
@@ -110,11 +110,29 @@ export async function fetchPlaceReviewSignals(placeId) {
         'Content-Type': 'application/json',
       },
     });
-  } catch { return null; }
+  } catch (e) {
+    return reportFailure ? { failure: 'network', detail: e.message } : null;
+  }
   // Surface a Details-quota 429 instead of swallowing it — otherwise like-a-local
   // signals silently vanish from every post once the shared Places day is drained.
-  if (res.status === 429) { console.warn('  ⚠ Places Details 429 — like-a-local signals skipped (details quota exhausted)'); return null; }
-  if (!res.ok) return null;
+  //
+  // reportFailure distinguishes WHY the call failed for bulk callers. Returning a
+  // bare null for every failure made a 403 (key without Places API access — what
+  // the dev box's own key returns) indistinguishable from a 429, so a permissions
+  // problem got counted and reported as "quota exhausted" and waited out instead
+  // of fixed. Publishing keeps the lenient default: it must never block on this.
+  if (res.status === 429) {
+    console.warn('  ⚠ Places Details 429 — like-a-local signals skipped (details quota exhausted)');
+    return reportFailure ? { failure: 429 } : null;
+  }
+  if (!res.ok) {
+    if (reportFailure) {
+      const body = await res.text().catch(() => '');
+      console.warn(`  ⚠ Places Details ${res.status} — NOT a quota problem: ${body.slice(0, 160)}`);
+      return { failure: res.status, detail: body.slice(0, 160) };
+    }
+    return null;
+  }
   const p = await res.json();
   const reviewLangs = (p.reviews ?? [])
     .map((r) => r.originalText?.languageCode || r.text?.languageCode)
