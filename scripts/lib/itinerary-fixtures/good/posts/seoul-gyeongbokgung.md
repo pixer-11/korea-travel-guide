@@ -10,6 +10,7 @@ pubDate: '2026-07-01T00:00:00.000Z'
 place:
   id: fixture-gyeongbokgung
   name: Gyeongbokgung Palace
+  address: 161 Sajik-ro, Jongno-gu, Seoul, South Korea
   lat: 37.579617
   lng: 126.977041
   businessStatus: OPERATIONAL

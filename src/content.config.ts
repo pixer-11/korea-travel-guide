@@ -166,7 +166,10 @@ const itineraries = defineCollection({
         slot: z.enum(['morning', 'lunch', 'afternoon', 'evening']),
         why: z.string(),       // AI 1-2 sentences, facts injected from the post
         dwellMin: z.number(),
-        walkToNext: z.object({ km: z.number(), minutes: z.number(), transit: z.boolean() }).nullable(),
+        // minutes is nullable: transit legs deliberately carry no invented ETA
+        // (src/lib/itinerary.mjs walkLeg() — the page links Google Maps for real
+        // routing instead of promising a number we can't stand behind).
+        walkToNext: z.object({ km: z.number(), minutes: z.number().nullable(), transit: z.boolean() }).nullable(),
       })),
       rainSwapSlug: z.string().nullable().default(null),
     })),

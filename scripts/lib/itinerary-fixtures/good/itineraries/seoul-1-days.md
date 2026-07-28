@@ -13,16 +13,16 @@ faq:
     a: About an hour of walking spread across the day, with short transfers between stops.
 itinerary:
   - label: Palace, market, and a night view
-    intro: Start at the palace before the crowds, grab noodles nearby, browse the market, then ride up for the skyline at night.
+    intro: Start in Jongno-gu near the palace before the crowds, grab noodles nearby, browse the market, then ride up for the skyline at night.
     stops:
       - slug: seoul-gyeongbokgung
         slot: morning
-        why: The grand palace is quietest right after opening, making it the natural first stop.
+        why: The grand palace is quietest right after opening, and about two hours is enough to see the throne hall and grounds without rushing.
         dwellMin: 120
         walkToNext:
-          km: 1.2
-          minutes: 16
-          transit: false
+          km: 5.7
+          minutes: null
+          transit: true
       - slug: seoul-cafe-3-stripes
         slot: lunch
         why: Cafe 3 Stripes is a short walk from the palace and serves a filling bowl of noodles.
