@@ -244,6 +244,9 @@ h1, h2, h3, h4 {
    the bottom of the viewport is unusable, and it only gets worse as the site
    expands. Mobile keeps its own drill-down (in the ≤820px block below). */
 @media (min-width: 821px) {
+  /* The top bar is a short horizontal row; icons there add width and noise
+     without helping anyone scan five words. Mobile keeps them. */
+  .nav > a > .nav-ico { display: none; }
   .nav-dd-menu { min-width: 190px; }
   .nav-cont { position: relative; }
   /* The continent row is the hover target; its country list is the flyout. */
@@ -314,6 +317,10 @@ h1, h2, h3, h4 {
     transition: transform 0.25s ease;
   }
   .nav a { padding: 0.75rem 0.5rem; border-bottom: 1px solid var(--line-soft); }
+  /* Icons only earn their place on the phone menu — a tall stack of identical
+     text rows, where an icon is the fastest thing for a thumb to aim at. They
+     sit in a fixed-width column so the labels line up regardless of glyph. */
+  .nav-ico { width: 1.15em; height: 1.15em; margin-right: 0.15rem; }
   .nav .sep { display: none; }
   .nav-dd { display: contents; }
   /* Inside the mobile hamburger the submenu is always expanded — override the

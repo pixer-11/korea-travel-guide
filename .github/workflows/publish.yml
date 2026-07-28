@@ -20,12 +20,6 @@ on:
         required: false
         default: ''
 
-# A manual dispatch or re-run overlapping the scheduled run would double-spend
-# the day's Places budget and race on the same content push.
-concurrency:
-  group: places-quota
-  cancel-in-progress: false
-
 permissions:
   contents: write
 
@@ -103,7 +97,6 @@ jobs:
       # crashed node still reports SUCCESS with a truncated log (same reasoning
       # as geocode-placeless.yml).
       - name: Build/refresh itinerary pages
-        id: itineraries
         continue-on-error: true
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
@@ -118,6 +111,18 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: node scripts/translate-itineraries.mjs
+
+      # The phone/coords backfills correct post coordinates most days, which
+      # leaves the itineraries' cached leg distances stale — and the validator
+      # further down then sent the owner the same LEG-STALE warning every single
+      # morning for a number nobody had to decide anything about. Re-syncing here
+      # (before the commit, so the fix is actually saved) keeps that warning for
+      # cases that need a human. It only rewrites `km`; a changed walk time or
+      # travel mode is deliberately left to the validator, because the prose is
+      # written against those two.
+      - name: Re-sync itinerary leg distances to current coordinates
+        continue-on-error: true
+        run: node scripts/refresh-itinerary-legs.mjs --apply
 
       # The dev box has no gh CLI and Actions logs need auth, so the build run's
       # log is committed as an artifact file — same reasoning/pattern as
@@ -172,7 +177,7 @@ jobs:
           # `set -e -o pipefail` (GitHub default) would abort this step at the
           # failing command-substitution (validate exits 1 — the very case we warn
           # on), so the curl below never fires and the job goes red. `|| true`.
-          MSG=$(node scripts/validate-content.mjs 2>&1 | head -25 || true)
+          MSG=$(node scripts/ko-report.mjs scripts/validate-content.mjs 2>&1 | head -25 || true)
           TXT=$(printf '⚠️ 콘텐츠 검증 경고 (일일 자동발행)\n%s' "$MSG")
           curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
             --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
@@ -195,7 +200,7 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
-          MSG=$(node scripts/validate-itineraries.mjs 2>&1 | head -25 || true)
+          MSG=$(node scripts/ko-report.mjs scripts/validate-itineraries.mjs 2>&1 | head -25 || true)
           TXT=$(printf '⚠️ 일정 페이지 검증 경고 (일일 자동발행)\n%s' "$MSG")
           curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
             --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
@@ -257,7 +262,7 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
-          MSG=$(node scripts/audit-translations.mjs 2>&1 | head -20 || true)
+          MSG=$(node scripts/ko-report.mjs scripts/audit-translations.mjs 2>&1 | head -20 || true)
           TXT=$(printf '🌐 번역 언어 혼입 경고 (일일 자동발행)\n%s' "$MSG")
           curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
             --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \

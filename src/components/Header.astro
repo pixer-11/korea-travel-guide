@@ -48,7 +48,7 @@ const navGroups = CONT_ORDER
       <div class="nav-dd dest-dd">
         <a href={localizePath('/destinations', lang)} class="nav-dd-toggle">{t('nav.destinations')} ▾</a>
         <button type="button" class="nav-drill" data-to="2">
-          {t('nav.destinations')} <span aria-hidden="true">›</span>
+          <span><Emoji name="round-pushpin" class="nav-ico" /> {t('nav.destinations')}</span> <span aria-hidden="true">›</span>
         </button>
         <div class="nav-dd-menu">
           {navGroups.map((g) => (
@@ -72,10 +72,15 @@ const navGroups = CONT_ORDER
           <a href={localizePath('/tools/best-time', lang)} class="nav-dd-all"><Emoji name="cherry-blossom" /> {t('nav.tools')} →</a>
         </div>
       </div>
-      <a href={localizePath('/itinerary', lang)}>{t('nav.itineraries')}</a>
-      <a href={localizePath('/events', lang)}>{t('nav.events')}</a>
-      <a href={localizePath('/flights', lang)}>{t('nav.flights')}</a>
-      <a href={localizePath('/about', lang)}>{t('nav.about')}</a>
+      {/* Icons ride along on every top item but only paint on mobile (see the
+          ≤820px rule in global.css). The phone menu is a plain vertical stack of
+          same-looking text rows, so an icon is the fastest thing to aim at; the
+          desktop bar is a short horizontal row where the same icons only add
+          noise and width. */}
+      <a href={localizePath('/itinerary', lang)}><Emoji name="spiral-calendar" class="nav-ico" /> {t('nav.itineraries')}</a>
+      <a href={localizePath('/events', lang)}><Emoji name="admission-tickets" class="nav-ico" /> {t('nav.events')}</a>
+      <a href={localizePath('/flights', lang)}><Emoji name="airplane" class="nav-ico" /> {t('nav.flights')}</a>
+      <a href={localizePath('/about', lang)}><Emoji name="compass" class="nav-ico" /> {t('nav.about')}</a>
       <LanguageSwitcher availableLangs={availableLangs} />
     </nav>
   </div>

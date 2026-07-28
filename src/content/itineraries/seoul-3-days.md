@@ -28,7 +28,7 @@ itinerary:
         why: This is Seoul's oldest traditional market and a legendary street food stop, making it a natural first-morning taste of the city before crowds build.
         dwellMin: 90
         walkToNext:
-          km: 0.8
+          km: 0.7
           minutes: 10
           transit: false
       - slug: seoul-euljiro

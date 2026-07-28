@@ -32,6 +32,18 @@ const arg = (k) => process.argv.find((a) => a.startsWith(`--${k}=`))?.split('=')
 const LIMIT = Number(arg('limit') || 0) || Infinity;
 const ONLY_LANG = arg('lang');
 const FORCE = process.argv.includes('--force');
+// Repair a named set without re-translating the whole site. Existing files are
+// skipped by default, so fixing a handful of bad translations otherwise meant
+// --force across ~2,000 files. Accepts "ko/slug" (that language only) or "slug"
+// (every language), comma-separated — the shape audit-translations reports in.
+const ONLY = (arg('only') || '')
+  .split(',')
+  .map((s) => s.trim().replace(/\.md$/, ''))
+  .filter(Boolean);
+const onlyPairs = new Set(ONLY.filter((s) => s.includes('/')));
+const onlySlugs = new Set(ONLY.filter((s) => !s.includes('/')));
+const wanted = (lang, id) =>
+  !ONLY.length || onlySlugs.has(id) || onlyPairs.has(`${lang}/${id}`);
 
 const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 
@@ -80,7 +92,25 @@ Body (markdown):
 ${data.body}`;
 }
 
-async function translateOne(langCode, srcId, data) {
+// The model occasionally spills the REST of the tool call into the first string
+// field — a `description` that ends with "</description><parameter
+// name="quickAnswer">…". The fields after the spill then arrive empty, so the
+// page silently falls back to English while the file still looks translated.
+// This shipped to 26 live posts before anyone saw it, because nothing checked.
+// Cheap to detect, so check every field and retry rather than ever write it.
+const SPILL = /<\/?(description|quickAnswer|title|body|faq|parameter|function_calls|invoke)\b|<parameter\s+name=/i;
+
+function spilledField(out) {
+  for (const [k, v] of Object.entries(out)) {
+    if (typeof v === 'string' && SPILL.test(v)) return k;
+  }
+  for (const f of Array.isArray(out.faq) ? out.faq : []) {
+    if (SPILL.test(String(f?.q ?? '')) || SPILL.test(String(f?.a ?? ''))) return 'faq';
+  }
+  return null;
+}
+
+async function translateOne(langCode, srcId, data, attempt = 1) {
   const msg = await client.messages.create({
     model: MODEL,
     max_tokens: 8000,
@@ -90,6 +120,17 @@ async function translateOne(langCode, srcId, data) {
   });
   const out = msg.content.find((c) => c.type === 'tool_use')?.input;
   if (!out?.body || !out?.title) throw new Error('model returned no translation');
+
+  // Reject a malformed translation instead of writing it. A dropped quickAnswer
+  // is the same class of defect: the source had one, so a translation without it
+  // renders the English paragraph on a Korean page.
+  const bad =
+    spilledField(out) ??
+    (data.quickAnswer && !String(out.quickAnswer || '').trim() ? 'quickAnswer(누락)' : null);
+  if (bad) {
+    if (attempt < 3) return translateOne(langCode, srcId, data, attempt + 1);
+    throw new Error(`translation malformed after ${attempt} attempts (${bad}) — not written`);
+  }
 
   const fm = {
     lang: langCode,
@@ -131,7 +172,10 @@ for (const f of files) {
   let queuedForThisPost = false;
   for (const lang of langs) {
     if (!LANGS[lang]) continue;
-    if (!FORCE && existsSync(join(OUT, lang, `${id}.md`))) continue;
+    if (!wanted(lang, id)) continue;
+    // --only names files that are already there and WRONG, so it overwrites like
+    // --force does, but scoped to what was named.
+    if (!FORCE && !ONLY.length && existsSync(join(OUT, lang, `${id}.md`))) continue;
     jobs.push({ lang, id, data });
     queuedForThisPost = true;
   }

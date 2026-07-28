@@ -31,12 +31,6 @@ on:
     branches: [main]
     paths: ['data/geocode-trigger']
 
-# Shares the daily Places Details budget with publish/backfill/quality-audit —
-# a manual run must queue behind them, never spend the window in parallel.
-concurrency:
-  group: places-quota
-  cancel-in-progress: false
-
 permissions:
   contents: write
 
@@ -118,4 +112,4 @@ jobs:
           # makes the whole workflow file invalid YAML.
           curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
             -d chat_id="${TELEGRAM_CHAT_ID}" \
-            --data-urlencode text="$(printf '%s\n결과: %s' "$head" "${SUMMARY:-—}")" > /dev/null
+            --data-urlencode text="$(printf '%s\n결과: %s' "$head" "$(node scripts/ko-report.mjs --stat "${SUMMARY:-}")")" > /dev/null

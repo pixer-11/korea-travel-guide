@@ -1,0 +1,196 @@
+// Korean rendering for validator output that goes to Telegram.
+//
+// The validators print English — they are developer tools and their messages
+// carry diagnostic detail. The workflows used to pipe that stdout straight into
+// a Telegram message under a Korean heading, so the heading was Korean and every
+// line under it was English. Patching the individual strings would not hold:
+// the next issue code someone adds would leak again, silently, and the leak only
+// shows up in the owner's chat.
+//
+// So this renders from the CODE, not from the prose. Each line is reduced to the
+// facts that identify it (file, slug, numbers) and rebuilt in Korean. An
+// unrecognised code still produces a Korean line naming the code — the English
+// sentence never survives the trip. That is the property worth having: adding a
+// validator message can no longer put English in front of the owner.
+
+/** Pull the identifying facts out of a validator line, ignoring its prose. */
+function facts(rest) {
+  const file = rest.match(/[\w./-]*[\w-]+\.md/)?.[0] ?? null;
+  const quoted = [...rest.matchAll(/"([^"]+)"/g)].map((m) => m[1]);
+  const day = rest.match(/day (\d+)/)?.[1] ?? null;
+  // A stale-leg line quotes the stored value first and the freshly computed one
+  // second. Keep FIRST-seen per key (the stored value, which is the wrong one
+  // being reported) and keep the full list so both can be shown.
+  const nums = {};
+  const numsAll = {};
+  for (const m of rest.matchAll(/\b(km|minutes|min|stops|dwell)=(-?[\d.]+)/g)) {
+    if (!(m[1] in nums)) nums[m[1]] = m[2];
+    (numsAll[m[1]] ??= []).push(m[2]);
+  }
+  const lang = rest.match(/\b(ko|ja|es|zh|en)\b(?=[/\s\]])/)?.[1] ?? null;
+  return { file, slug: quoted[0] ?? null, quoted, day, nums, numsAll, lang };
+}
+
+/** Short "where" prefix: file, day, stop — whatever the line actually carried. */
+function where(f) {
+  const parts = [];
+  if (f.file) parts.push(f.file.replace(/^.*\//, ''));
+  if (f.day) parts.push(`${f.day}일차`);
+  if (f.slug) parts.push(f.slug);
+  return parts.length ? parts.join(' · ') : '대상 미상';
+}
+
+const T = {
+  // 일정(itinerary) 정확성
+  'LEG-STALE': (f) => {
+    const [stored, fresh] = f.numsAll.km ?? [];
+    const gap = stored && fresh ? `저장값 ${stored}km → 실제 ${fresh}km` : '저장값과 실제 거리가 다름';
+    return `구간 거리가 실제와 다름 (${gap}) — 일정 재생성 필요`;
+  },
+  'DWELL-STALE': () => '머무는 시간이 원본 글과 어긋남 — 일정 재생성 필요',
+  'WALK-TOO-FAR': (f) => `걸어서 가기엔 너무 먼 구간 (${f.nums.km ?? '?'}km)`,
+  'TRANSIT-MINUTES-PRESENT': () => '대중교통 구간인데 도보 시간이 남아 있음',
+  'DAY-BUDGET-EXCEEDED': () => '하루 일정이 감당할 수 있는 시간을 넘김',
+  'DAY-TOTAL-TOO-SHORT': () => '하루 일정이 지나치게 비어 있음',
+  'DAY-STOP-COUNT': () => '하루 방문지 수가 기준을 벗어남',
+  'STOP-COUNT-CLAIM': () => '본문에 적힌 방문지 수가 실제 일정과 다름',
+  'SLOT-TIME-CONFLICT': () => '시간대가 서로 겹침',
+  'DURATION-CONTRADICTION': () => '본문의 소요시간 설명이 일정과 어긋남',
+  'LUNCH-NOT-RESTAURANT': () => '점심 자리에 식당이 아닌 곳이 들어감',
+  'CLOSED-VENUE': () => '문 닫은(폐업) 장소가 일정에 포함됨',
+  'MISSING-POST': () => '일정이 가리키는 글이 없음',
+  'MISSING-SLUG': () => '방문지 지정이 비어 있음',
+  'MISSING-COORDS': () => '좌표가 없어 거리 계산 불가',
+  'DRAFT-POST': () => '아직 공개되지 않은 글이 일정에 포함됨',
+  'DUPLICATE-SLUG': () => '같은 장소가 일정에 중복으로 들어감',
+  'RAIN-SWAP-DUPLICATE': () => '비 올 때 대체 장소가 중복됨',
+  'RAIN-SWAP-IS-STOP': () => '비 올 때 대체 장소가 이미 일정에 있는 곳임',
+  'PACKED-GATE-FAIL': () => '일정이 과도하게 빡빡함',
+  'AREA-CLAIM-UNSUPPORTED': () => '본문의 동선 설명이 실제 위치와 맞지 않음',
+  'UNIVERSAL-AREA-CLAIM': () => '"모두 같은 동네" 같은 단정 표현이 사실과 다름',
+  'EMPTY-INTRO': () => '소개 문구가 비어 있음',
+  'EMPTY-LABEL': () => '이름표가 비어 있음',
+  'EMPTY-WHY': () => '추천 이유가 비어 있음',
+  // 번역
+  'PROSE-LEAK': (f) => `번역본에 원문 언어가 섞여 있음${f.lang ? ` (${f.lang})` : ''}`,
+  'STALE-TRANSLATION': () => '원문이 바뀐 뒤 번역이 갱신되지 않음',
+  'ORPHAN-TRANSLATION': () => '원문 없는 번역 파일',
+  // 공통
+  'PARSE-ERROR': () => '파일을 읽지 못함 (형식 오류)',
+};
+
+// Stat labels used by the batch jobs' one-line RESULT summaries. Same reasoning
+// as the issue codes: translate by label, and let an unknown label degrade to
+// the label itself with its number, so a new counter still reports its count
+// instead of vanishing from the message.
+const STAT = {
+  updated: '채움',
+  attached: '좌표 붙임',
+  'already-complete': '이미 완료',
+  'no-new-data': '자료 없음',
+  'no-place': '장소 정보 없음',
+  'quota-429': '한도 초과',
+  'api-error': '오류',
+  processed: '처리',
+  skipped: '건너뜀',
+  found: '찾음',
+  fixed: '수정',
+  replaced: '교체',
+  failed: '실패',
+  total: '전체',
+};
+
+/**
+ * A job's English one-line RESULT summary → Korean.
+ * e.g. "BACKFILL RESULT: updated 18, already-complete 1, … processed 21 of 22 (APPLIED)."
+ */
+export function koStatLine(raw) {
+  const s = String(raw || '').trim();
+  if (!s) return '결과를 읽지 못했어요 — 실행 로그를 확인해 주세요.';
+
+  const dryRun = /dry.?run/i.test(s);
+  const applied = /\(APPLIED\)/i.test(s);
+  // "processed 21 of 22" / "skipped 2 of 9" — the trailing total belongs to the
+  // counter right before "of", not to a counter of its own.
+  const ofTotal = s.match(/([a-z][a-z0-9-]*)\s+(\d+)\s+of\s+(\d+)/i);
+
+  const parts = [];
+  for (const m of s.matchAll(/([a-z][a-z0-9-]*)\s+(\d+)/gi)) {
+    const key = m[1].toLowerCase();
+    if (key === 'of' || key === 'result') continue;
+    if (ofTotal && key === ofTotal[1].toLowerCase() && m[2] === ofTotal[2]) continue;
+    // An unmapped counter keeps its number and is marked 기타 rather than being
+    // dropped — a counter nobody translated yet is still information.
+    parts.push(STAT[key] ? `${STAT[key]} ${m[2]}` : `기타(${key}) ${m[2]}`);
+  }
+  if (ofTotal) parts.push(`${STAT[ofTotal[1].toLowerCase()] ?? ofTotal[1]} ${ofTotal[2]}/${ofTotal[3]}`);
+  if (!parts.length) return '결과를 읽지 못했어요 — 실행 로그를 확인해 주세요.';
+
+  const tail = dryRun ? ' (시험 실행, 실제 반영 안 함)' : applied ? ' (반영 완료)' : '';
+  return parts.join(', ') + tail;
+}
+
+/** One raw validator line → one Korean line. Never returns English prose. */
+export function koIssueLine(raw) {
+  const line = String(raw).replace(/^\s*[•*-]\s*/, '').trim();
+  if (!line) return '';
+  const m = line.match(/^([A-Z][A-Z0-9-]{2,}):\s*([\s\S]*)$/);
+  if (!m) {
+    // A line with no code carries only prose we cannot trust to be Korean.
+    const f = facts(line);
+    return `• 점검 항목 — ${where(f)}`;
+  }
+  const [, code, rest] = m;
+  const f = facts(rest);
+  const body = T[code] ? T[code](f) : `점검 필요 (코드 ${code})`;
+  return `• ${where(f)} — ${body}`;
+}
+
+/**
+ * Full validator stdout → a Korean digest safe to send.
+ *
+ * Nothing is ever dropped. A filter that only forwards lines it recognises
+ * would silence a real problem the day someone adds a new message format — the
+ * warning simply would not arrive, and nobody would know it was missing. So
+ * every non-empty line is accounted for: recognised ones are translated,
+ * unrecognised ones still produce a Korean line carrying whatever identifying
+ * facts they held, and the total count is always stated so a capped list can
+ * never hide the rest.
+ *
+ * `max` only caps how many are SHOWN (Telegram's message limit); the count of
+ * the remainder is always reported.
+ */
+export function koDigest(stdout, { max = 20 } = {}) {
+  const all = String(stdout)
+    .split('\n')
+    .map((l) => l.trim())
+    .filter(Boolean);
+
+  // The validators' own tally, e.g. "❌ 7 itinerary issue(s) across …" — trusted
+  // over our line count, so a format we parse badly still reports the true total.
+  const declared = Number(all.find((l) => /^❌\s*\d+/.test(l))?.match(/\d+/)?.[0]) || null;
+
+  // Skip only the validator's own headline/OK lines — never an issue line.
+  const isChrome = (l) => /^[❌✓✔️🌐]/.test(l) || /^-{3,}$/.test(l);
+  const issues = all.filter((l) => !isChrome(l));
+
+  if (!issues.length) {
+    if (declared) {
+      // The validator counted problems but printed them in a shape we did not
+      // parse. Say so — never report "clean" on the strength of a parse miss.
+      return `문제 ${declared}건이 보고됐지만 내용을 읽지 못했어요 — 실행 로그를 확인해 주세요.`;
+    }
+    // A clean run: a ✓ line and no ❌ tally. Distinct from "we read nothing".
+    if (all.some((l) => /^[✓✔️]/.test(l))) return '';
+    return '내용을 읽지 못했어요 — 실행 로그를 확인해 주세요.';
+  }
+
+  const total = declared ?? issues.length;
+  const shown = issues.slice(0, max).map(koIssueLine).filter(Boolean);
+  const hidden = total - shown.length;
+  return (
+    `문제 ${total}건\n` +
+    shown.join('\n') +
+    (hidden > 0 ? `\n… 외 ${hidden}건 (전체는 실행 로그에서 확인)` : '')
+  );
+}

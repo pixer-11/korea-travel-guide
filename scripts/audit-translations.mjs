@@ -23,6 +23,53 @@ const ROOTS = [
 ];
 const VERBOSE = process.argv.includes('--verbose');
 
+// Where a translation root's ENGLISH source lives, so a translated file can be
+// compared against the fields the source actually had.
+const SOURCE_OF = {
+  'src/content/i18n': 'src/content/posts',
+  'src/content/essentials-i18n': 'src/content/essentials',
+  'src/content/essentials-topics-i18n': 'src/content/essentials-topics',
+};
+
+// Tool-call markup that leaked into a field value — never legitimate prose.
+const SPILL = /<\/?(description|quickAnswer|title|body|faq|parameter|function_calls|invoke)\b|<parameter\s+name=/i;
+
+const fmField = (fm, key) => new RegExp(`^${key}:`, 'm').test(fm);
+
+async function auditFrontmatter(root, lang, file, fm) {
+  const flags = [];
+  if (!fm) return flags;
+
+  const srcDir = SOURCE_OF[root];
+  let src = '';
+  if (srcDir) {
+    try {
+      src = await readFile(join(srcDir, file), 'utf8');
+    } catch {
+      src = ''; // no source to compare against (orphan is a separate check)
+    }
+  }
+  const srcEnd = src.indexOf('\n---', 3);
+  const srcFm = srcEnd === -1 ? '' : src.slice(4, srcEnd);
+
+  // A draft never renders, so its translation cannot show anyone the wrong
+  // language. Flagging it just sends the owner the same warning every morning
+  // about a page nobody can reach; the check applies again the moment it is
+  // published, because that flips this flag. Signals the caller to skip the
+  // body checks too — otherwise a draft still gets flagged, just by a different
+  // rule.
+  if (/^draft:\s*true\s*$/m.test(srcFm)) return null;
+
+  if (SPILL.test(fm)) flags.push(['TOOL-SPILL', fm.match(SPILL)[0]]);
+  if (!srcDir || !src) return flags;
+  // A field the source has but the translation lost renders the ENGLISH value on
+  // a translated page — the exact symptom that started this check.
+  for (const key of ['quickAnswer', 'description', 'title']) {
+    if (fmField(srcFm, key) && !fmField(fm, key)) flags.push([`MISSING-${key}`, key]);
+  }
+  return flags;
+}
+
 const hangul = (s) => (s.match(/[가-힣]/g) || []).length;
 const kana = (s) => (s.match(/[ぁ-んァ-ヶ]/g) || []).length;
 const han = (s) => (s.match(/[一-鿿]/g) || []).length;
@@ -99,7 +146,7 @@ function auditBody(lang, body) {
   return flags;
 }
 
-let files = 0, flagged = 0;
+let files = 0, flagged = 0, drafts = 0;
 const report = [];
 for (const [root, label] of ROOTS) {
   let langs = [];
@@ -111,7 +158,14 @@ for (const [root, label] of ROOTS) {
       const raw = await readFile(join(root, lang, f), 'utf8');
       const fmEnd = raw.indexOf('\n---', 3);
       const body = fmEnd === -1 ? raw : raw.slice(fmEnd + 4);
-      const flags = auditBody(lang, body);
+      // The audit only ever read the BODY, so a frontmatter defect was invisible:
+      // 26 posts shipped with the tool call spilled into `description` and
+      // `quickAnswer` missing entirely, which makes the page render the ENGLISH
+      // quick answer on a translated page. That is exactly the failure this
+      // audit exists to catch, so it has to look at the frontmatter too.
+      const fmFlags = await auditFrontmatter(root, lang, f, fmEnd === -1 ? '' : raw.slice(4, fmEnd));
+      if (fmFlags === null) { drafts++; continue; } // unpublished — nothing renders
+      const flags = [...auditBody(lang, body), ...fmFlags];
       if (flags.length) {
         flagged++;
         report.push(`${label}/${lang}/${f}: ${flags.map(([t]) => t).join(', ')}`);
@@ -121,7 +175,10 @@ for (const [root, label] of ROOTS) {
   }
 }
 
-console.log(`\n🌐 Translation language audit — ${files} file(s) scanned`);
+console.log(
+  `\n🌐 Translation language audit — ${files} file(s) scanned` +
+    (drafts ? `, ${drafts} draft(s) skipped` : '')
+);
 if (report.length) {
   console.log(`❌ ${flagged} file(s) flagged:\n`);
   for (const r of report) console.log(`  • ${r}`);
