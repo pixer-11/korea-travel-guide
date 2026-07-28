@@ -5,10 +5,10 @@ region: Suncheon
 category: hidden-gem
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://images.unsplash.com/photo-1584802530491-65fad8b1b92c?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U3VuY2hlb24lMjBTb3V0aCUyMEtvcmVhfGVufDB8MHx8fDE3ODQ2MTM3MTh8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Daniel Bernard on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@nardly?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/102260451_EoQ1my0t48PIgiuSY3VGqR_Ub3DFjjytBzwcDb7AMRM.jpg
+  credit: 'Photo: Foursquare user content (Naga Eupseong Folk Village)'
+  license: foursquare
+  source: https://foursquare.com/v/650a71e172bc550d2a4a63da
 gallery: []
 place:
   id: ChIJI5PLIS3-bTURUimpUBjPQto

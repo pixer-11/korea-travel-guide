@@ -6,10 +6,10 @@ region: Seoul
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
-  url: https://images.unsplash.com/photo-1740718790688-cbe89d390695?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U2VvdWwlMjBTb3V0aCUyMEtvcmVhJTIwTG9uZG9uJTIwQmFnZWwlMjBNdXNldW18ZW58MHwwfHx8MTc4NDc2NjcwNnww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Raymond Yeung on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@optiny?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/88668594_jZjwfhW_2W6dv0-GZi2B7a2QI3lz85xHMSc_HViG390.jpg
+  credit: 'Photo: Foursquare user content (London Bagel Museum (런던베이글뮤지엄))'
+  license: foursquare
+  source: https://foursquare.com/v/613b092d6082cc326e9966c5
 gallery: []
 place:
   id: ChIJKw66zRCjfDURuaw9qYPdI-k

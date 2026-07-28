@@ -1,48 +1,61 @@
 ---
-title: "Blue Doors: Surabaya Travel Guide"
-description: "Blue Doors Surabaya is a photogenic coffee shop on Jl. Imam Bonjol in Tegalsari, a short taxi or ride-hail trip from Surabaya's city center, best visited on"
-country: "Indonesia"
-region: "Surabaya"
-category: "trendy"
-pubDate: "2026-07-23T07:25:22.961Z"
+title: 'Blue Doors: Surabaya Travel Guide'
+description: Blue Doors Surabaya is a photogenic coffee shop on Jl. Imam Bonjol in Tegalsari, a short taxi or ride-hail trip from Surabaya's city center, best visited on
+country: Indonesia
+region: Surabaya
+category: trendy
+pubDate: '2026-07-23T07:25:22.961Z'
 heroImage:
-  url: "https://images.unsplash.com/photo-1723694774661-d39b16282c18?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U3VyYWJheWElMjBJbmRvbmVzaWElMjB0cmVuZHklMjBjYWZlfGVufDB8MHx8fDE3ODQ3OTE0NzB8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Dashiell Arifin on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@dslrfn?utm_source=korea_travel_guide&utm_medium=referral"
+  url: https://fastly.4sqi.net/img/general/original/17386222_C4b5FgQL27Y9NJJQv0q9n9ZYrJWut5fddK4Jl59zH8Q.jpg
+  credit: 'Photo: Foursquare user content (Blue Doors)'
+  license: foursquare
+  source: https://foursquare.com/v/63b27d30f0ce682a79a10113
 gallery: []
 place:
-  id: "ChIJj-Wu9d771y0RJAGOSXUIvyI"
-  name: "Blue Doors Surabaya"
-  address: "No Jl. Imam Bonjol No.21, DR. Soetomo, Kec. Tegalsari, Surabaya, Jawa Timur 60264, Indonesia"
+  id: ChIJj-Wu9d771y0RJAGOSXUIvyI
+  name: Blue Doors Surabaya
+  address: No Jl. Imam Bonjol No.21, DR. Soetomo, Kec. Tegalsari, Surabaya, Jawa Timur 60264, Indonesia
   rating: 4.7
   userRatingsTotal: 1198
-  googleMapsUrl: "https://maps.google.com/?cid=2503729217679524132&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=2503729217679524132&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -7.277798300000001
   lng: 112.73565959999999
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [7, 8, 22]
-    weekdayBusy: [13]
-    weekendQuiet: [7, 8, 22]
-    weekendBusy: [13, 14, 18, 19, 20, 21]
-    venueId: 'ven_497976495558534f47414a523079313737643975572d6a4a496843'
+    weekdayQuiet:
+      - 7
+      - 8
+      - 22
+    weekdayBusy:
+      - 13
+    weekendQuiet:
+      - 7
+      - 8
+      - 22
+    weekendBusy:
+      - 13
+      - 14
+      - 18
+      - 19
+      - 20
+      - 21
+    venueId: ven_497976495558534f47414a523079313737643975572d6a4a496843
 tags:
-  - "surabaya"
-  - "trendy cafe"
-quickAnswer: "Blue Doors Surabaya is a photogenic coffee shop on Jl. Imam Bonjol in Tegalsari, a short taxi or ride-hail trip from Surabaya's city center, best visited on a weekday morning or mid-afternoon to enjoy its blue-and-white facade and shaded courtyard without a crowd. Budget an hour or two for coffee, brunch, and photos. It's an easy pairing with a walk around the DR. Soetomo/Darmo area's colonial-era streets."
+  - surabaya
+  - trendy cafe
+quickAnswer: Blue Doors Surabaya is a photogenic coffee shop on Jl. Imam Bonjol in Tegalsari, a short taxi or ride-hail trip from Surabaya's city center, best visited on a weekday morning or mid-afternoon to enjoy its blue-and-white facade and shaded courtyard without a crowd. Budget an hour or two for coffee, brunch, and photos. It's an easy pairing with a walk around the DR. Soetomo/Darmo area's colonial-era streets.
 faq:
-  - q: "How do I get to Blue Doors Surabaya without a car?"
-    a: "Use Gojek or Grab (Indonesia's main ride-hailing apps) to Jl. Imam Bonjol No. 21 in Tegalsari — it's a well-known street, so drivers recognize it easily. A metered taxi works just as well."
-  - q: "How much does it cost and how do I pay?"
-    a: "Prices aren't published here since menus change, but expect standard specialty-café pricing for Surabaya. Cash, cards, and QRIS mobile payment are all typically accepted; confirm current prices on the menu when you arrive."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Weekday mornings shortly after opening, or the mid-afternoon lull, are quietest. Weekend afternoons and evenings draw the biggest crowds for photos and brunch."
-  - q: "How long should I plan to stay?"
-    a: "About 60–90 minutes for coffee and photos, or up to two hours if you're having brunch or working from a table."
-  - q: "Is Blue Doors good for photos?"
-    a: "Yes — its blue-shuttered white facade and plant-filled courtyard are the main draw, with a 4.7 rating from nearly 1,200 reviewers reflecting its popularity as a photogenic café."
+  - q: How do I get to Blue Doors Surabaya without a car?
+    a: Use Gojek or Grab (Indonesia's main ride-hailing apps) to Jl. Imam Bonjol No. 21 in Tegalsari — it's a well-known street, so drivers recognize it easily. A metered taxi works just as well.
+  - q: How much does it cost and how do I pay?
+    a: Prices aren't published here since menus change, but expect standard specialty-café pricing for Surabaya. Cash, cards, and QRIS mobile payment are all typically accepted; confirm current prices on the menu when you arrive.
+  - q: What's the best time to visit to avoid crowds?
+    a: Weekday mornings shortly after opening, or the mid-afternoon lull, are quietest. Weekend afternoons and evenings draw the biggest crowds for photos and brunch.
+  - q: How long should I plan to stay?
+    a: About 60–90 minutes for coffee and photos, or up to two hours if you're having brunch or working from a table.
+  - q: Is Blue Doors good for photos?
+    a: Yes — its blue-shuttered white facade and plant-filled courtyard are the main draw, with a 4.7 rating from nearly 1,200 reviewers reflecting its popularity as a photogenic café.
 aiGenerated: true
 draft: false
 ---

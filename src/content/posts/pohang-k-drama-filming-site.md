@@ -26,7 +26,7 @@ faq:
   - q: What else is nearby worth combining with this trip?
     a: Homigot Sunrise Square (Hand of Harmony sculpture) is 10-15 minutes away, and Pohang's Yeongildae Beach and Space Walk sculpture are easy add-ons back in the city.
 aiGenerated: true
-draft: false
+draft: true
 country: South Korea
 ---
 

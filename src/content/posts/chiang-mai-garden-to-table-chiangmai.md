@@ -6,10 +6,10 @@ region: Chiang Mai
 category: restaurant
 pubDate: '2026-07-22T09:14:29.554Z'
 heroImage:
-  url: https://images.unsplash.com/photo-1646850149335-f15d028036b3?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8M3x8Q2hpYW5nJTIwTWFpJTIwVGhhaWxhbmQlMjBsb2NhbCUyMHJlc3RhdXJhbnR8ZW58MHwwfHx8MTc4NDk5MzQ5Nnww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Kittitep Khotchalee on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@duckman1992?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/87988854_yDRKMYYhzAmP9QNODMZMZVbnDEWac8crUkxziTjIRwo.jpg
+  credit: 'Photo: Foursquare user content (Chiangmai Walking Street (ถนนคนเดินเชียงใหม่))'
+  license: foursquare
+  source: https://foursquare.com/v/4ce79607867f60fc8e0b37c3
 gallery: []
 place:
   id: ChIJT2UZ_Hw72jARiJRwNfxTJVU
@@ -22,7 +22,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 18.786508599999998
   lng: 98.990431
-  phone: '082 583 6999'
+  phone: 082 583 6999
   openingHours:
     - 'Monday: 2:00 – 9:00 PM'
     - 'Tuesday: 2:00 – 9:00 PM'

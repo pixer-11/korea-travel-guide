@@ -6,10 +6,10 @@ region: Istanbul
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
-  url: https://images.unsplash.com/photo-1573649869423-459880124cc7?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SXN0YW5idWwlMjBUdXJrZXklMjBTZW4lMjdkZW4lMjBSZXN0YXVyYW50fGVufDB8MHx8fDE3ODQ3Njg4ODh8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Umit Okan on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@umitokan?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/12280196_BfuB_jL5K1FVV_WTOVWYrGbpPntLoo6WBGh_v-4w8bU.jpg
+  credit: 'Photo: Foursquare user content (Sen_Den)'
+  license: foursquare
+  source: https://foursquare.com/v/69b5990c7b82a275fd45c135
 gallery: []
 place:
   id: ChIJV_TZUF65yhQR6CKNYH2RyBY

@@ -1,49 +1,59 @@
 ---
-title: "The Tree Restaurant: Where to Eat in Yogyakarta"
-description: "The Tree Restaurant Yogyakarta is a quiet, garden-set dining spot in Sambirejo village, Prambanan district — about 25-30 minutes' drive east of central"
-country: "Indonesia"
-region: "Yogyakarta"
-category: "restaurant"
-pubDate: "2026-07-23T07:16:23.012Z"
+title: 'The Tree Restaurant: Where to Eat in Yogyakarta'
+description: The Tree Restaurant Yogyakarta is a quiet, garden-set dining spot in Sambirejo village, Prambanan district — about 25-30 minutes' drive east of central
+country: Indonesia
+region: Yogyakarta
+category: restaurant
+pubDate: '2026-07-23T07:16:23.012Z'
 heroImage:
-  url: "https://images.unsplash.com/photo-1630886958715-c527cfcf847b?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8WW9neWFrYXJ0YSUyMEluZG9uZXNpYSUyMGxvY2FsJTIwcmVzdGF1cmFudHxlbnwwfDB8fHwxNzg0NzkwOTQ4fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by arif ubayy on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@arifubayy?utm_source=korea_travel_guide&utm_medium=referral"
+  url: https://images.unsplash.com/photo-1630886958715-c527cfcf847b?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8WW9neWFrYXJ0YSUyMEluZG9uZXNpYSUyMGxvY2FsJTIwcmVzdGF1cmFudHxlbnwwfDB8fHwxNzg0NzkwOTQ4fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by arif ubayy on Unsplash
+  license: unsplash
+  source: https://unsplash.com/@arifubayy?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
-  id: "ChIJN8YxQOdbei4RgTiZfBdKjmw"
-  name: "The Tree Restaurant Yogyakarta"
-  address: "Dawangsari 02/03 No.45, Dowang Sari, Sambirejo, Kec. Prambanan, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55572, Indonesia"
+  id: ChIJN8YxQOdbei4RgTiZfBdKjmw
+  name: The Tree Restaurant Yogyakarta
+  address: Dawangsari 02/03 No.45, Dowang Sari, Sambirejo, Kec. Prambanan, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55572, Indonesia
   rating: 4.8
   userRatingsTotal: 133
-  googleMapsUrl: "https://maps.google.com/?cid=7822271067524249729&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=7822271067524249729&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -7.7694738
   lng: 110.50411589999999
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [7, 21]
-    weekendQuiet: [21]
-    weekendBusy: [9, 10, 11, 15, 16, 17, 18]
-    venueId: 'ven_776d6a4b6442665a6954675234696562644f517859384e4a496843'
+    weekdayQuiet:
+      - 7
+      - 21
+    weekendQuiet:
+      - 21
+    weekendBusy:
+      - 9
+      - 10
+      - 11
+      - 15
+      - 16
+      - 17
+      - 18
+    venueId: ven_776d6a4b6442665a6954675234696562644f517859384e4a496843
 tags:
-  - "yogyakarta"
-  - "local restaurant"
-quickAnswer: "The Tree Restaurant Yogyakarta is a quiet, garden-set dining spot in Sambirejo village, Prambanan district — about 25-30 minutes' drive east of central Yogyakarta and just minutes from Prambanan Temple. It's best treated as a relaxed lunch stop before or after visiting the temple complex, not a standalone destination, since it sits well outside the city center. Rated 4.8 from over 130 reviews, it rewards travelers willing to detour slightly off the standard temple-and-taxi loop."
+  - yogyakarta
+  - local restaurant
+quickAnswer: The Tree Restaurant Yogyakarta is a quiet, garden-set dining spot in Sambirejo village, Prambanan district — about 25-30 minutes' drive east of central Yogyakarta and just minutes from Prambanan Temple. It's best treated as a relaxed lunch stop before or after visiting the temple complex, not a standalone destination, since it sits well outside the city center. Rated 4.8 from over 130 reviews, it rewards travelers willing to detour slightly off the standard temple-and-taxi loop.
 faq:
-  - q: "How far is The Tree Restaurant Yogyakarta from the city center?"
-    a: "About 17-18 km east of central Yogyakarta, in Sambirejo village near Prambanan — roughly a 25-40 minute drive depending on traffic."
-  - q: "Can I combine it with visiting Prambanan Temple?"
-    a: "Yes — it's only a few minutes' drive from Prambanan Temple, making it a natural lunch stop before or after exploring the temple complex."
-  - q: "Is it accessible by public transport?"
-    a: "Not directly. There's no train or Trans Jogja stop at the door, so ride-hailing apps (Gojek/Grab), a hired car, or motorbike are the practical options."
-  - q: "What's the best time to visit?"
-    a: "Late morning to early afternoon (around 11:30am-2pm) works well after a morning temple visit, and the dry season (May-September) offers the most comfortable outdoor dining weather."
-  - q: "Do I need to book ahead?"
-    a: "It's not typically necessary given its quieter, under-the-radar status, but calling ahead to confirm current hours is wise since it's a rural setting outside the main city."
+  - q: How far is The Tree Restaurant Yogyakarta from the city center?
+    a: About 17-18 km east of central Yogyakarta, in Sambirejo village near Prambanan — roughly a 25-40 minute drive depending on traffic.
+  - q: Can I combine it with visiting Prambanan Temple?
+    a: Yes — it's only a few minutes' drive from Prambanan Temple, making it a natural lunch stop before or after exploring the temple complex.
+  - q: Is it accessible by public transport?
+    a: Not directly. There's no train or Trans Jogja stop at the door, so ride-hailing apps (Gojek/Grab), a hired car, or motorbike are the practical options.
+  - q: What's the best time to visit?
+    a: Late morning to early afternoon (around 11:30am-2pm) works well after a morning temple visit, and the dry season (May-September) offers the most comfortable outdoor dining weather.
+  - q: Do I need to book ahead?
+    a: It's not typically necessary given its quieter, under-the-radar status, but calling ahead to confirm current hours is wise since it's a rural setting outside the main city.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

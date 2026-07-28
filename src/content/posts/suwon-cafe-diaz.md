@@ -61,7 +61,7 @@ faq:
   - q: What else can I see nearby?
     a: Cafe Diaz is close to Suwon Hwaseong Fortress, Hwaseong Haenggung Palace, and the Paldalmun Gate market area, making it an easy add-on to a fortress-focused day in Suwon.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Cafe Diaz stands out

@@ -6,10 +6,10 @@ region: Dubai
 category: restaurant
 pubDate: '2026-07-23T07:49:39.145Z'
 heroImage:
-  url: https://images.unsplash.com/photo-1580674684081-7617fbf3d745?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8NHx8RHViYWklMjBVbml0ZWQlMjBBcmFiJTIwRW1pcmF0ZXN8ZW58MHwwfHx8MTc4NDk5MzUwMHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Wael Hneini on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@waelhneini?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/485109848_qrVE9F-68DlHRm8BjrGKI2sG_AtQUyiikDeKwJ6cdcY.jpg
+  credit: 'Photo: Foursquare user content (Al Khayma Heritage Restaurant)'
+  license: foursquare
+  source: https://foursquare.com/v/60d850fe25a5381220e2738d
 gallery: []
 place:
   id: ChIJl6Wlj3JDXz4RiuVGW1AttdY
@@ -46,7 +46,7 @@ place:
       - 21
       - 22
     venueId: ven_596474744131574756756952347a58444a336a6c57366c4a496843
-  phone: '055 180 2080'
+  phone: 055 180 2080
   openingHours:
     - 'Monday: 8:00 AM – 11:00 PM'
     - 'Tuesday: 8:00 AM – 11:00 PM'

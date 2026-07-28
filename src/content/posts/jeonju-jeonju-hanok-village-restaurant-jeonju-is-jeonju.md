@@ -1,29 +1,23 @@
 ---
 title: 'Jeonju hanok village restaurant jeonju is: Where to Eat'
-description: >-
-  Head to the Jeonju Hanok Village (Wansan-gu) for the city's signature dish,
-  bibimbap, along with makgeolli (rice wine) and kongnamul-gukbap (bean-sprout
-  soup
+description: Head to the Jeonju Hanok Village (Wansan-gu) for the city's signature dish, bibimbap, along with makgeolli (rice wine) and kongnamul-gukbap (bean-sprout soup
 country: South Korea
 region: Jeonju
 category: restaurant
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1718958505977-6f5790f1cf1a?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SmVvbmp1JTIwU291dGglMjBLb3JlYSUyMHN0cmVldCUyMGZvb2R8ZW58MHwwfHx8MTc4NDYyMzczMnww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Mos Sukjaroenkraisri on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@mossuk?utm_source=korea_travel_guide&utm_medium=referral
+  url: https://fastly.4sqi.net/img/general/original/116390231_XxxxBOmK7StutYDFn1lgpydpOLnol_qyBbadPgpyalw.jpg
+  credit: 'Photo: Foursquare user content (Jeonju Hanok Village Restaurant Jeonju Is Jeonju 전주는전주)'
+  license: foursquare
+  source: https://foursquare.com/v/6a02f0d5e9e82b58f4af7402
 gallery: []
 place:
   id: ChIJSxYQqAUlcDURTXVtvBVQq8I
   name: Jeonju hanok village restaurant jeonju is jeonju
-  address: '31 Taejo-ro, Wansan-gu, Jeonju, Jeonbuk State, South Korea'
+  address: 31 Taejo-ro, Wansan-gu, Jeonju, Jeonbuk State, South Korea
   rating: 4.1
   userRatingsTotal: 315
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=14027393518661367117&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=14027393518661367117&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 35.8142669
   lng: 127.15126749999999
@@ -49,40 +43,18 @@ place:
 tags:
   - jeonju
   - street food
-quickAnswer: >-
-  Head to the Jeonju Hanok Village (Wansan-gu) for the city's signature dish,
-  bibimbap, along with makgeolli (rice wine) and kongnamul-gukbap (bean-sprout
-  soup with rice). One address to anchor a visit is 31 Taejo-ro, Wansan-gu — a
-  hanok-village restaurant rated 4.1 from 315 reviews — but treat it as a
-  starting point and plan on grazing across several stalls and small dining
-  rooms nearby rather than eating just one meal. Budget 2-3 hours to eat and
-  wander the surrounding alleys.
+quickAnswer: Head to the Jeonju Hanok Village (Wansan-gu) for the city's signature dish, bibimbap, along with makgeolli (rice wine) and kongnamul-gukbap (bean-sprout soup with rice). One address to anchor a visit is 31 Taejo-ro, Wansan-gu — a hanok-village restaurant rated 4.1 from 315 reviews — but treat it as a starting point and plan on grazing across several stalls and small dining rooms nearby rather than eating just one meal. Budget 2-3 hours to eat and wander the surrounding alleys.
 faq:
   - q: How do I get to the Jeonju Hanok Village restaurant area?
-    a: >-
-      From Jeonju Station or the bus terminals, take a taxi (about 15-20
-      minutes) or a local city bus toward Wansan-gu; there's no subway in
-      Jeonju. The area, including 31 Taejo-ro, is fully walkable once you
-      arrive.
+    a: From Jeonju Station or the bus terminals, take a taxi (about 15-20 minutes) or a local city bus toward Wansan-gu; there's no subway in Jeonju. The area, including 31 Taejo-ro, is fully walkable once you arrive.
   - q: What's the one dish I shouldn't skip?
-    a: >-
-      Jeonju-style bibimbap, ideally in a hot stone (dolsot) bowl with raw egg
-      yolk and beef. It's the dish the city is named for and is done well across
-      most hanok-village restaurants.
+    a: Jeonju-style bibimbap, ideally in a hot stone (dolsot) bowl with raw egg yolk and beef. It's the dish the city is named for and is done well across most hanok-village restaurants.
   - q: How much time should I set aside?
-    a: >-
-      Two to three hours covers a sit-down meal plus some alley snacking and a
-      stroll to Gyeonggijeon Shrine and Jeondong Cathedral, both a short walk
-      away.
+    a: Two to three hours covers a sit-down meal plus some alley snacking and a stroll to Gyeonggijeon Shrine and Jeondong Cathedral, both a short walk away.
   - q: When is the best time to visit for food?
-    a: >-
-      Weekday lunches avoid the worst crowds. Spring and autumn have the best
-      weather, but they also bring festival crowds (Bibimbap Festival, film
-      festival), so plan for lines or book ahead.
+    a: Weekday lunches avoid the worst crowds. Spring and autumn have the best weather, but they also bring festival crowds (Bibimbap Festival, film festival), so plan for lines or book ahead.
   - q: Is this area cash-only?
-    a: >-
-      Larger restaurants generally take cards, but smaller stalls and street
-      vendors often prefer or require cash, so carry some Korean won as backup.
+    a: Larger restaurants generally take cards, but smaller stalls and street vendors often prefer or require cash, so carry some Korean won as backup.
 aiGenerated: true
 draft: false
 updatedDate: '2026-07-24'

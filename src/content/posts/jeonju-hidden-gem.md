@@ -1,6 +1,6 @@
 ---
-title: "Hidden Gem in Jeonju"
-description: "Skip the crowded main alleys of Jeonju Hanok Village and head instead to the Nammusil-gil and Jaman Mural Village area east of the village core, plus the"
+title: Hidden Gem in Jeonju
+description: Skip the crowded main alleys of Jeonju Hanok Village and head instead to the Nammusil-gil and Jaman Mural Village area east of the village core, plus the
 region: Jeonju
 category: hidden-gem
 pubDate: 2026-07-20T00:00:00.000Z
@@ -26,7 +26,7 @@ faq:
   - q: What food should I try beyond bibimbap?
     a: Seek out kongnamul gukbap (bean sprout soup with rice) and moju, a cinnamon-spiced traditional rice drink — both regional specialties less commonly found outside Jeonju.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Jeonju's real charm hides just off the main path
