@@ -19,4 +19,4 @@ aiGenerated: true
 draft: false
 ---
 
-Fixture post body.
+Plan on 90 minutes to browse the food alley and textile stalls.

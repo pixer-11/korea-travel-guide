@@ -16,23 +16,23 @@ itinerary:
       - slug: z-a
         slot: morning
         why: The gallery is a quiet way to start the day.
-        dwellMin: 90
+        dwellMin: 120
         walkToNext:
-          km: 0.5
-          minutes: 7
-          transit: false
+          km: 2
+          minutes: null
+          transit: true
       - slug: z-b
         slot: lunch
         why: A short walk from the gallery for a casual lunch.
         dwellMin: 60
         walkToNext:
-          km: 0.6
-          minutes: 8
-          transit: false
+          km: 2
+          minutes: null
+          transit: true
       - slug: z-c
         slot: evening
         why: The tower closes out the day with skyline views.
-        dwellMin: 90
+        dwellMin: 120
         walkToNext: null
     rainSwapSlug: null
 aiGenerated: true

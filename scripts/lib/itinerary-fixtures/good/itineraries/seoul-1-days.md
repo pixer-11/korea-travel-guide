@@ -20,25 +20,25 @@ itinerary:
         why: The grand palace is quietest right after opening, and about two hours is enough to see the throne hall and grounds without rushing.
         dwellMin: 120
         walkToNext:
-          km: 5.7
-          minutes: null
-          transit: true
+          km: 0.7
+          minutes: 9
+          transit: false
       - slug: seoul-cafe-3-stripes
         slot: lunch
         why: Cafe 3 Stripes is a short walk from the palace and serves a filling bowl of noodles.
         dwellMin: 60
         walkToNext:
-          km: 1.5
-          minutes: 20
-          transit: false
+          km: 2.7
+          minutes: null
+          transit: true
       - slug: seoul-market
         slot: afternoon
         why: The market's food stalls and textile alleys make for an easy afternoon browse.
         dwellMin: 90
         walkToNext:
-          km: 1.8
-          minutes: 24
-          transit: false
+          km: 3
+          minutes: null
+          transit: true
       - slug: seoul-tower
         slot: evening
         why: The tower caps the day with a skyline view as the city lights come on.

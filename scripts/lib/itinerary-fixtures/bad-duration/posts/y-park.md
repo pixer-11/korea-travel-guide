@@ -18,4 +18,4 @@ aiGenerated: true
 draft: false
 ---
 
-Fixture post body.
+Plan on 150 minutes for a relaxed walk through the park.

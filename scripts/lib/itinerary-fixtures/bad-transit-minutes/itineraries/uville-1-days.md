@@ -16,23 +16,23 @@ itinerary:
       - slug: u-a
         slot: morning
         why: The plaza is a pleasant way to start the day.
-        dwellMin: 90
+        dwellMin: 120
         walkToNext:
-          km: 0.5
-          minutes: 7
-          transit: false
+          km: 2
+          minutes: null
+          transit: true
       - slug: u-b
         slot: lunch
         why: A short walk from the plaza for lunch.
         dwellMin: 60
         walkToNext:
-          km: 6
+          km: 99.9
           minutes: 45
           transit: true
       - slug: u-c
         slot: evening
         why: The aquarium closes out the day, reached by transit across town.
-        dwellMin: 90
+        dwellMin: 120
         walkToNext: null
     rainSwapSlug: null
 aiGenerated: true

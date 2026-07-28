@@ -7,7 +7,7 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { execFileSync } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
-import { validateI18nEntry } from './validate-itineraries.mjs';
+import { validateI18nEntry, validateItineraryData } from './validate-itineraries.mjs';
 
 const SCRIPT = fileURLToPath(new URL('./validate-itineraries.mjs', import.meta.url));
 const fixture = (name) => fileURLToPath(new URL(`./lib/itinerary-fixtures/${name}`, import.meta.url));
@@ -120,6 +120,80 @@ test('bad-transit-minutes fixture: TRANSIT-MINUTES-PRESENT fires when a transit 
   assert.equal(status, 1);
   assert.match(out, /TRANSIT-MINUTES-PRESENT/);
   assert.match(out, /"u-b" walkToNext is transit but minutes=45/);
+  // A non-null minutes on a transit leg is ALSO, legitimately, a LEG-STALE
+  // mismatch (the solver always computes null there) — both checks firing on
+  // the same underlying defect is expected overlap, not a bug.
+  assert.match(out, /LEG-STALE/);
+});
+
+// ── round 3 (2026-07-28): staleness + implausible-day + rain-swap checks ────
+// Real defect that motivated these: a src/lib/itinerary.mjs dwellMinutes()
+// fix corrected Gyeongbokgung from a wrongly-parsed 30 min to a real 150 min,
+// but seoul-3-days.md had already been generated with the old numbers — every
+// stop's cached dwellMin was still the pre-fix under-count, day 3 totalled 90
+// minutes for a full day, and validate-itineraries.mjs (pre-round-3) reported
+// "clean" because nothing compared the file's numbers against what the solver
+// computes from the source posts TODAY.
+
+test('bad-dwell-stale fixture: DWELL-STALE fires when a stop\'s cached dwellMin disagrees with dwellMinutes(post) today', () => {
+  const { status, out } = runFixture(fixture('bad-dwell-stale'));
+  assert.equal(status, 1);
+  assert.match(out, /DWELL-STALE/);
+  assert.match(out, /"d-a" dwellMin is 30 but the source post computes 120 today/);
+});
+
+test('bad-leg-stale fixture: LEG-STALE fires when a cached walkToNext.km disagrees with walkLeg\(a,b\) today', () => {
+  const { status, out } = runFixture(fixture('bad-leg-stale'));
+  assert.equal(status, 1);
+  assert.match(out, /LEG-STALE/);
+  assert.match(out, /"l-a" walkToNext is km=1\.5\/minutes=20\/transit=false but the source posts compute km=2/);
+});
+
+test('bad-day-too-short fixture: DAY-TOTAL-TOO-SHORT fires when a day totals under the 4-hour floor', () => {
+  const { status, out } = runFixture(fixture('bad-day-too-short'));
+  assert.equal(status, 1);
+  assert.match(out, /DAY-TOTAL-TOO-SHORT/);
+  assert.match(out, /day 1 totals 230 min \(floor 240\)/);
+});
+
+test('bad-rain-swap fixture: RAIN-SWAP-IS-STOP fires when rainSwapSlug equals one of the day\'s own stop slugs', () => {
+  const { status, out } = runFixture(fixture('bad-rain-swap'));
+  assert.equal(status, 1);
+  assert.match(out, /RAIN-SWAP-IS-STOP/);
+  assert.match(out, /"e-a" is also a stop slug/);
+});
+
+test('RAIN-SWAP-DUPLICATE fires when the same rainSwapSlug is reused across two days', () => {
+  // Unit-level (not a fixture dir) since it only needs validateItineraryData
+  // directly — the postsById/postsList aren't relevant to this rule.
+  const data = {
+    city: 'Testcity', country: 'Testland', days: 2,
+    title: 't', description: 'd', quickAnswer: 'q', faq: [],
+    itinerary: [
+      {
+        label: 'Day 1', intro: 'Intro 1.',
+        stops: [
+          { slug: 'a', slot: 'morning', why: 'w', dwellMin: 120, walkToNext: null },
+          { slug: 'b', slot: 'lunch', why: 'w', dwellMin: 60, walkToNext: null },
+          { slug: 'c', slot: 'evening', why: 'w', dwellMin: 120, walkToNext: null },
+        ],
+        rainSwapSlug: 'z', // not a stop slug anywhere in the file
+      },
+      {
+        label: 'Day 2', intro: 'Intro 2.',
+        stops: [
+          { slug: 'd', slot: 'morning', why: 'w', dwellMin: 120, walkToNext: null },
+          { slug: 'e', slot: 'lunch', why: 'w', dwellMin: 60, walkToNext: null },
+          { slug: 'f', slot: 'evening', why: 'w', dwellMin: 120, walkToNext: null },
+        ],
+        rainSwapSlug: 'z', // reuses day 1's rain swap
+      },
+    ],
+    aiGenerated: true, draft: false,
+  };
+  const issues = validateItineraryData('test.md', data, new Map(), []);
+  assert.ok(issues.some((i) => i.startsWith('RAIN-SWAP-DUPLICATE:')), `expected RAIN-SWAP-DUPLICATE, got: ${issues.join(' | ')}`);
+  assert.ok(!issues.some((i) => i.startsWith('RAIN-SWAP-IS-STOP:')), `did not expect RAIN-SWAP-IS-STOP, got: ${issues.join(' | ')}`);
 });
 
 // ── validateI18nEntry: empty-string checks (fix round 1, minor) ────────────

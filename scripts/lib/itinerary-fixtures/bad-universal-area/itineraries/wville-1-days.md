@@ -16,23 +16,23 @@ itinerary:
       - slug: w-a
         slot: morning
         why: The aquarium is an easy, relaxed way to start the day.
-        dwellMin: 90
+        dwellMin: 120
         walkToNext:
-          km: 0.5
-          minutes: 7
-          transit: false
+          km: 2
+          minutes: null
+          transit: true
       - slug: w-b
         slot: lunch
         why: A short walk from the aquarium for a seafood lunch.
         dwellMin: 60
         walkToNext:
-          km: 0.6
-          minutes: 8
-          transit: false
+          km: 100
+          minutes: null
+          transit: true
       - slug: w-c
         slot: evening
         why: The rooftop closes out the day with skyline views.
-        dwellMin: 90
+        dwellMin: 120
         walkToNext: null
     rainSwapSlug: null
 aiGenerated: true

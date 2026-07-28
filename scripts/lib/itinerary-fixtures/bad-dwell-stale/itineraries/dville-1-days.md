@@ -1,35 +1,35 @@
 ---
-city: Vville
+city: Dville
 country: Testland
 days: 1
-title: A Perfect 1 Day in Vville
-description: A single-day route through central Vville.
-quickAnswer: One day in Vville covering a park, a lounge lunch, and a museum.
+title: A Perfect 1 Day in Dville
+description: A single-day route through central Dville.
+quickAnswer: One day in Dville covering a gallery, a diner lunch, and a museum.
 pubDate: '2026-07-20T00:00:00.000Z'
-stopsHash: fixturehash-bad-slot-conflict
+stopsHash: fixturehash-bad-dwell-stale
 packedAvailable: false
 faq: []
 itinerary:
-  - label: Park, lounge, and a museum
-    intro: Start at the park, grab lunch at the lounge, then finish at the museum.
+  - label: Gallery, lunch, and a museum
+    intro: Start at the gallery, grab lunch nearby, then finish at the museum.
     stops:
-      - slug: v-a
+      - slug: d-a
         slot: morning
-        why: The park is a pleasant way to start the day.
-        dwellMin: 120
+        why: The gallery is a quiet way to start the day.
+        dwellMin: 30
         walkToNext:
           km: 2
           minutes: null
           transit: true
-      - slug: v-b
+      - slug: d-b
         slot: lunch
-        why: A short walk from the park for lunch.
+        why: A short walk from the gallery for lunch.
         dwellMin: 60
         walkToNext:
           km: 2
           minutes: null
           transit: true
-      - slug: v-c
+      - slug: d-c
         slot: evening
         why: The museum closes out the day with a relaxed browse.
         dwellMin: 120

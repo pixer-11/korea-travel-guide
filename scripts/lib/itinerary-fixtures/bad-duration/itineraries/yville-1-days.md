@@ -18,21 +18,21 @@ itinerary:
         why: An hour-long stroll through the park is a relaxed way to start the day.
         dwellMin: 150
         walkToNext:
-          km: 0.5
-          minutes: 7
-          transit: false
+          km: 2
+          minutes: null
+          transit: true
       - slug: y-diner
         slot: lunch
         why: A short walk from the park for a casual lunch.
         dwellMin: 60
         walkToNext:
-          km: 0.6
-          minutes: 8
-          transit: false
+          km: 2
+          minutes: null
+          transit: true
       - slug: y-hall
         slot: evening
         why: The concert hall closes out the day with an evening show.
-        dwellMin: 90
+        dwellMin: 120
         walkToNext: null
     rainSwapSlug: null
 aiGenerated: true

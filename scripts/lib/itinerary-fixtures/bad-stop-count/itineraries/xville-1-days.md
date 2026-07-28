@@ -18,23 +18,23 @@ itinerary:
       - slug: x-park
         slot: morning
         why: The park is a pleasant, quiet way to start the day.
-        dwellMin: 90
+        dwellMin: 120
         walkToNext:
-          km: 0.5
-          minutes: 7
-          transit: false
+          km: 2
+          minutes: null
+          transit: true
       - slug: x-diner
         slot: lunch
         why: A short walk from the park for a casual lunch.
         dwellMin: 60
         walkToNext:
-          km: 0.6
-          minutes: 8
-          transit: false
+          km: 2
+          minutes: null
+          transit: true
       - slug: x-museum
         slot: evening
         why: The museum closes out the day with a relaxed browse.
-        dwellMin: 90
+        dwellMin: 120
         walkToNext: null
     rainSwapSlug: null
 aiGenerated: true

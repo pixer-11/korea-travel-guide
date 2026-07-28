@@ -16,7 +16,7 @@ import { existsSync } from 'node:fs';
 import { join, resolve, basename } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
-import { qualifyingPosts, gateFor } from '../src/lib/itinerary.mjs';
+import { qualifyingPosts, gateFor, dwellMinutes, walkLeg } from '../src/lib/itinerary.mjs';
 import { findProseViolations } from '../src/lib/prose-guard.mjs';
 
 // Mirrors the TRANSIT_FLAT_MIN / DAY_BUDGET_MIN constants in src/lib/itinerary.mjs
@@ -24,6 +24,15 @@ import { findProseViolations } from '../src/lib/prose-guard.mjs';
 // source of truth — if those numbers change there, change them here too.
 const TRANSIT_FLAT_MIN = 30;
 const DAY_BUDGET_MIN = 600;
+// Floor, not a mirror of anything in itinerary.mjs — a day that fills less
+// than 4 hours isn't a "day plan" regardless of whether its numbers are
+// internally consistent. Added 2026-07-28: a stale seoul-3-days.md totalled
+// 90 minutes for a full day (every dwellMin was a pre-fix under-count) and
+// nothing caught it, because the prose checks only compare prose against the
+// file's OWN dwellMin, not against what the solver computes today. See
+// DWELL-STALE/LEG-STALE below for the direct fix; this is the cheap
+// independent sanity net.
+const DAY_MIN_MINUTES = 240;
 
 // Prose-leak patterns (clock times / prices / opening-hours language never
 // belong in AI connective prose — the page renders those facts from data,
@@ -383,6 +392,64 @@ function checkTransitMinutes(file, di, s, issues) {
   }
 }
 
+// --- 7. DWELL-STALE / 8. LEG-STALE ------------------------------------------
+// dwellMin and walkToNext are a CACHE of what src/lib/itinerary.mjs's solver
+// computes from the source posts — never an independent source of truth. If
+// the solver's dwellMinutes()/walkLeg() logic changes (as it did — a
+// dwellMinutes fix corrected Gyeongbokgung from a wrongly-parsed 30 min to a
+// real 150 min) but a file was generated before that fix, its cached numbers
+// go stale and NOTHING else in this file would ever notice — every other
+// check here compares prose/structure against the file's OWN numbers, never
+// against what the solver would say today. Real defect (2026-07-28):
+// seoul-3-days.md day 3 totalled 90 minutes of sightseeing for a full day
+// because every dwellMin was still the pre-fix under-count, and this
+// validator reported "clean". dwellMinutes()/walkLeg() are imported directly
+// from src/lib/itinerary.mjs — never reimplemented here — so there is
+// exactly one copy of that math.
+const KM_TOLERANCE = 0.1; // float noise only; the values are otherwise deterministic given identical lat/lng
+
+function checkDwellStale(file, di, s, post, issues) {
+  if (!post) return;
+  const fresh = dwellMinutes(post);
+  const cached = Number(s?.dwellMin);
+  if (fresh !== cached) {
+    issues.push(`DWELL-STALE: ${file} — day ${di + 1} stop "${s.slug}" dwellMin is ${cached} but the source post computes ${fresh} today — regenerate`);
+  }
+}
+
+// `post` is the current stop's resolved post; `nextPost` is the following
+// stop's (undefined for the last stop of a day, where walkToNext is null).
+function checkLegStale(file, di, s, post, nextPost, issues) {
+  const leg = s?.walkToNext;
+  if (!leg || !post || !nextPost) return; // a null leg on the last stop of a day is a shape, not a staleness question
+  const fresh = walkLeg(post, nextPost);
+  const kmStale = Math.abs(Number(leg.km) - fresh.km) > KM_TOLERANCE;
+  const legMinutesNull = leg.minutes === null || leg.minutes === undefined;
+  const freshMinutesNull = fresh.minutes === null;
+  const minutesStale = legMinutesNull !== freshMinutesNull || (!freshMinutesNull && Number(leg.minutes) !== fresh.minutes);
+  const transitStale = Boolean(leg.transit) !== Boolean(fresh.transit);
+  if (kmStale || minutesStale || transitStale) {
+    issues.push(`LEG-STALE: ${file} — day ${di + 1} stop "${s.slug}" walkToNext is km=${leg.km}/minutes=${leg.minutes}/transit=${leg.transit} but the source posts compute km=${fresh.km}/minutes=${fresh.minutes}/transit=${fresh.transit} today — regenerate`);
+  }
+}
+
+// --- 9/10. RAIN-SWAP-IS-STOP / RAIN-SWAP-DUPLICATE --------------------------
+// The solver now enforces both of these (a rain swap is a genuinely UNUSED
+// venue, and each day's swap is distinct city-wide) — the validator checks
+// them too so a regression in that logic can't silently ship a rain swap
+// that IS the day's own stop, or the same swap venue repeated across days.
+function checkRainSwap(file, di, day, allStopSlugs, seenRainSwaps, issues) {
+  const rainSlug = day?.rainSwapSlug;
+  if (!rainSlug) return;
+  if (allStopSlugs.has(rainSlug)) {
+    issues.push(`RAIN-SWAP-IS-STOP: ${file} — day ${di + 1} rainSwapSlug "${rainSlug}" is also a stop slug in this itinerary`);
+  }
+  if (seenRainSwaps.has(rainSlug)) {
+    issues.push(`RAIN-SWAP-DUPLICATE: ${file} — day ${di + 1} rainSwapSlug "${rainSlug}" repeats a rain swap already used on an earlier day`);
+  }
+  seenRainSwaps.add(rainSlug);
+}
+
 export async function walkMd(dir, rel = '') {
   if (!existsSync(dir)) return [];
   const out = [];
@@ -451,6 +518,8 @@ export function validateItineraryData(file, data, postsById, postsList) {
   const days = Array.isArray(d.itinerary) ? d.itinerary : [];
   const seenSlugs = new Set();
   const dupSlugs = new Set();
+  const allStopSlugs = new Set(days.flatMap((day) => (Array.isArray(day?.stops) ? day.stops : []).map((s) => s?.slug).filter(Boolean)));
+  const seenRainSwaps = new Set();
 
   days.forEach((day, di) => {
     if (!String(day?.label ?? '').trim()) issues.push(`EMPTY-LABEL: ${file} — day ${di + 1}`);
@@ -458,6 +527,7 @@ export function validateItineraryData(file, data, postsById, postsList) {
     scanProseLeak(issues, file, `itinerary[${di}].label`, day?.label);
     scanProseLeak(issues, file, `itinerary[${di}].intro`, day?.intro);
 
+    checkRainSwap(file, di, day, allStopSlugs, seenRainSwaps, issues);
     if (postsById) checkAreaClaims(file, day, di, postsById, d.city, d.country, issues);
 
     const stops = Array.isArray(day?.stops) ? day.stops : [];
@@ -491,6 +561,10 @@ export function validateItineraryData(file, data, postsById, postsList) {
           issues.push(`LUNCH-NOT-RESTAURANT: ${file} — stop slug "${slug}" (day ${di + 1}) is category "${pd.category}", not restaurant`);
         }
         checkSlotTimeConflict(file, di, s, post, issues);
+        checkDwellStale(file, di, s, post, issues);
+        const nextSlug = stops[si + 1]?.slug;
+        const nextPost = nextSlug ? postsById?.get(nextSlug) : null;
+        checkLegStale(file, di, s, post, nextPost, issues);
       }
 
       if (!String(s?.why ?? '').trim()) issues.push(`EMPTY-WHY: ${file} — day ${di + 1} stop "${slug}"`);
@@ -510,6 +584,9 @@ export function validateItineraryData(file, data, postsById, postsList) {
 
     if (dayTotalMin > DAY_BUDGET_MIN) {
       issues.push(`DAY-BUDGET-EXCEEDED: ${file} — day ${di + 1} totals ${dayTotalMin} min (budget ${DAY_BUDGET_MIN})`);
+    }
+    if (dayTotalMin < DAY_MIN_MINUTES) {
+      issues.push(`DAY-TOTAL-TOO-SHORT: ${file} — day ${di + 1} totals ${dayTotalMin} min (floor ${DAY_MIN_MINUTES})`);
     }
   });
 
