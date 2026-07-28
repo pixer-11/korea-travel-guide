@@ -23,6 +23,12 @@ on:
         description: 'Max posts to process this run (1 Details call each; 429-safe)'
         required: false
         default: '80'
+  # No gh CLI on the dev box: committing data/backfill-trigger runs this on demand.
+  # Needed because itinerary pages surface closed-day warnings from openingHours,
+  # so a stop without hours silently loses the feature's headline differentiator.
+  push:
+    branches: [main]
+    paths: ['data/backfill-trigger']
 
 permissions:
   contents: write
