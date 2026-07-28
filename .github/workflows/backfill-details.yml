@@ -60,10 +60,17 @@ jobs:
           GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
         run: |
           SLUGS="${{ github.event.inputs.slugs }}"
-          # push-trigger path: the slug list comes from the trigger file's first
-          # line, unless it's empty or a '#' comment (same convention as
-          # data/geocode-trigger in geocode-placeless.yml).
-          if [ -z "$SLUGS" ] && [ "${{ github.event_name }}" = "push" ] && [ -f data/backfill-trigger ]; then
+          # Trigger-file path: the slug list comes from the file's first line,
+          # unless it's empty or a '#' comment (same convention as
+          # data/geocode-trigger in geocode-placeless.yml). Read on the CHAINED
+          # run too, not just on push: a push lands whenever the dev box commits,
+          # which can be mid-day with the Places quota already drained (that is
+          # exactly how the 2026-07-28 11:30 KST run filled zero posts). The
+          # chained run is the one that lands right after the daily reset, so the
+          # targeted list has to ride along with it or it never gets a good
+          # window. The retire step below clears the line once it completes
+          # without a 429, so the next chained run returns to the backlog.
+          if [ -z "$SLUGS" ] && [ -f data/backfill-trigger ]; then
             FIRST_LINE=$(head -1 data/backfill-trigger | tr -d '\r')
             case "$FIRST_LINE" in
               ''|'#'*) : ;;
@@ -89,12 +96,29 @@ jobs:
           mkdir -p data/logs
           cp /tmp/bf.log data/logs/backfill-last-run.txt
 
+      # One-shot semantics for the targeted list: comment out the slug line once
+      # the run got through it with ZERO 429s, i.e. every listed post got a real
+      # answer from Places (hours filled, or genuinely none published). A run
+      # that hit the quota leaves the line intact so the next chained run retries
+      # it. Committed with GITHUB_TOKEN, which by design does NOT re-trigger this
+      # workflow's own push filter — no loop.
+      - name: Retire trigger line once its slugs are done
+        run: |
+          if [ -f data/backfill-trigger ] && grep -q 'quota-429 0' /tmp/bf.log; then
+            FIRST_LINE=$(head -1 data/backfill-trigger | tr -d '\r')
+            case "$FIRST_LINE" in
+              ''|'#'*) : ;;
+              *) sed -i "1s|^|# done $(date -u +%Y-%m-%d): |" data/backfill-trigger
+                 echo "trigger retired" ;;
+            esac
+          fi
+
       - name: Commit updated posts
         id: commit
         run: |
           git config user.name "content-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add src/content/posts data/logs/backfill-last-run.txt
+          git add src/content/posts data/logs/backfill-last-run.txt data/backfill-trigger
           summary=$(tail -1 /tmp/bf.log)
           echo "summary=$summary" >> "$GITHUB_OUTPUT"
           if git diff --staged --quiet; then
