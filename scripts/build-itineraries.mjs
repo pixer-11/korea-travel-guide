@@ -27,6 +27,14 @@
 //  same guarantee sanityCheckTemp gives for a missing post, just the full rule
 //  set instead of one check.
 //
+//  Prompt payload (per stop): title, category, VERIFIED ADDRESS (place.address,
+//  plus place.name when it differs from the title), quickAnswer, closedDays,
+//  quiet-window summary, dwell minutes, walk-to-next. The address exists so the
+//  model can't generalize one stop's neighbourhood to a whole day it doesn't
+//  share — a real defect found in a 2026-07-28 fact-check pass. The prompt also
+//  states each day's exact stop count/slot shape so the model can't assert a
+//  uniform structure ("each day has N stops") that isn't actually true.
+//
 //  Usage:
 //    node scripts/build-itineraries.mjs                          # sweep everything
 //    node scripts/build-itineraries.mjs --city=Seoul              # one city, all variants
@@ -34,6 +42,11 @@
 //    node scripts/build-itineraries.mjs --city=NewCity --force-new-city
 //        # manual run for a brand-new (non-launch) city: bypasses the ≤2-new-
 //        # cities/7-days anti-spam cap, which otherwise applies to --city= too.
+//    node scripts/build-itineraries.mjs --force
+//        # force full prose regeneration even when stopsHash is unchanged or
+//        # the structural diff is ≤2 (which would normally just reuse existing
+//        # prose) — use after a prompt-payload change like this one, so
+//        # already-published files pick up the new facts/instructions.
 // ─────────────────────────────────────────────────────────────
 import './lib/env.mjs';
 import Anthropic from '@anthropic-ai/sdk';
@@ -62,6 +75,7 @@ const arg = (k) => process.argv.find((a) => a.startsWith(`--${k}=`))?.split('=')
 const ONLY_CITY = arg('city');
 const ONLY_DAYS = arg('days') ? Number(arg('days')) : null;
 const FORCE_NEW_CITY = process.argv.includes('--force-new-city');
+const FORCE = process.argv.includes('--force');
 
 const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 
@@ -139,20 +153,35 @@ function walkDesc(leg) {
   return `${leg.km}km, ~${leg.minutes} min walk`;
 }
 
-function dayBlock(day, idx, bySlug) {
+export function dayBlock(day, idx, bySlug) {
   const lines = day.stops.map((s) => {
     const post = bySlug.get(s.slug);
     const closed = closedDaysOf(post?.data?.place?.openingHours);
     const quiet = quietWindowSummary(post);
-    return [
-      `  - [${s.slot}] "${post?.data?.title || s.slug}" (slug: ${s.slug})`,
+    const title = post?.data?.title || s.slug;
+    const placeName = post?.data?.place?.name;
+    const address = post?.data?.place?.address;
+    const stopLines = [`  - [${s.slot}] "${title}" (slug: ${s.slug})`];
+    // Only surface the raw Places `name` when it actually differs from the
+    // post title — otherwise it's a redundant duplicate of the line above.
+    if (placeName && placeName.trim().toLowerCase() !== title.trim().toLowerCase()) {
+      stopLines.push(`      venue name: ${placeName}`);
+    }
+    stopLines.push(
       `      category: ${post?.data?.category || 'unknown'}`,
+      // Verified location — without this the model has no way to know where a
+      // stop actually is, and will generalize one stop's neighbourhood to the
+      // whole day (2026-07-28 fact-check finding: Ise Sueyoshi, near
+      // Roppongi/Omotesando, got described as "in the Yoyogi/Harajuku area";
+      // Saladaeng, at Silom/Rama IV, got described as "Sukhumvit and Ekkamai").
+      `      address: ${address || '(no address on file — do not guess or name a neighbourhood for this stop)'}`,
       `      quick answer: ${post?.data?.quickAnswer || '(none provided)'}`,
       `      closed days: ${closed.length ? closed.join(', ') : 'none listed'}`,
       `      quiet window: ${quiet || '(no data)'}`,
       `      dwell: ${s.dwellMin} minutes`,
       `      walk to next stop: ${walkDesc(s.walkToNext)}`,
-    ].join('\n');
+    );
+    return stopLines.join('\n');
   });
   const rainPost = day.rainSwapSlug ? bySlug.get(day.rainSwapSlug) : null;
   lines.push(
@@ -160,7 +189,21 @@ function dayBlock(day, idx, bySlug) {
       ? `  Rain-day alternative: "${rainPost.data.title}" (slug: ${day.rainSwapSlug}, category: ${rainPost.data.category})`
       : '  Rain-day alternative: none available'
   );
-  return `Day ${idx + 1}:\n${lines.join('\n')}`;
+  // Explicit stop count + slot list in the day header — without this the
+  // model assumes every day is shaped like the others (2026-07-28 fact-check
+  // finding, bangkok-3-days.md: FAQ claimed "each day is built around four
+  // stops" when only day 1 actually had four; days 2-3 had three).
+  const slots = day.stops.map((s) => s.slot).join(', ');
+  return `Day ${idx + 1} — ${day.stops.length} stop${day.stops.length === 1 ? '' : 's'} (${slots}):\n${lines.join('\n')}`;
+}
+
+// One line per day + an explicit overall shape, so the model can't assume a
+// uniform day count/structure it was never given.
+function structureSummary(daysArr) {
+  const perDay = daysArr
+    .map((d, i) => `day ${i + 1} has ${d.stops.length} stop${d.stops.length === 1 ? '' : 's'} (${d.stops.map((s) => s.slot).join(', ')})`)
+    .join('; ');
+  return `OVERALL STRUCTURE: ${daysArr.length} day(s) — ${perDay}.`;
 }
 
 // Required verbatim (spec 2026-07-27, Task 3 brief).
@@ -179,9 +222,41 @@ const EXTRA_GUARDRAILS =
   'currency amount anywhere. Avoid the words "open", "opens", "close", "closes", or "opening ' +
   'hours" entirely, even in a non-schedule sense (say "wraps up" instead of "closes out", for example).';
 
+// Added after a fact-verification pass on real generated prose (2026-07-28)
+// found two defect classes the guard above never checked: (1) generalizing
+// one stop's neighbourhood to a whole day it doesn't share (Tokyo: Ise
+// Sueyoshi is near Roppongi/Omotesando, but day one got called "the
+// Yoyogi/Harajuku area"; Bangkok: Saladaeng is at Silom/Rama IV, but day
+// three got called "Sukhumvit and Ekkamai" across its label, intro,
+// description, quickAnswer, AND an FAQ answer), and (2) neighbourhood/"near
+// X" claims and duration wording not actually grounded in the given facts.
+const LOCATION_ACCURACY_RULES =
+  'Each stop\'s location (address) is given above. Do NOT describe a day as being \'in\' or ' +
+  '\'around\' a single neighbourhood unless EVERY stop in that day is in that neighbourhood per ' +
+  'its given address. When stops span areas, say so plainly (e.g. \'starts in X, then crosses to ' +
+  'Y\'). Neighbourhood, district, and "near X" claims count as facts just like prices or hours: ' +
+  'they must come from a stop\'s given address or that stop\'s own quick answer text — never from ' +
+  'outside knowledge or by generalizing one stop\'s area to the whole day.';
+
+// Added after the same fact-verification pass found the model asserting
+// structural facts (stop counts) it was never given and getting them wrong
+// (Bangkok FAQ: "each day is built around four stops" when only day one
+// actually had four), plus duration wording contradicting the given dwell
+// time (Chatuchak's `why` said "the several hours budgeted" for a 90-minute
+// dwell).
+const STRUCTURE_AND_DURATION_RULES =
+  'Any statement about how many stops, days, or meals the plan contains must match the given ' +
+  'structure exactly — if day counts differ, do not claim a uniform number (e.g. do not say ' +
+  '"each day has four stops" unless every day listed above truly has four). Each stop\'s dwell ' +
+  'time (in minutes, given above) is the authoritative visit length — any duration wording in ' +
+  'prose ("about an hour", "a couple of hours", "the whole afternoon") must be consistent with ' +
+  'that number, never vaguer or larger than it suggests.';
+
 function buildPrompt({ city, country, days, daysArr, bySlug, retryIssues }) {
   const blocks = daysArr.map((d, i) => dayBlock(d, i, bySlug)).join('\n\n');
   let prompt = `You are writing connective prose for a ${days}-day travel itinerary in ${city}, ${country}, for a travel website.
+
+${structureSummary(daysArr)}
 
 VENUES AVAILABLE (closed world — this is the ONLY source of truth; do not use outside knowledge):
 ${blocks}
@@ -189,6 +264,8 @@ ${blocks}
 INSTRUCTIONS
 ${SAFETY_INSTRUCTION}
 ${EXTRA_GUARDRAILS}
+${LOCATION_ACCURACY_RULES}
+${STRUCTURE_AND_DURATION_RULES}
 
 Also write:
 - title: an SEO page title for this ${days}-day ${city} itinerary
@@ -510,7 +587,7 @@ async function processVariant({ city, country, days, cityPosts, packedAvailable 
     try { existing = yaml.load(raw.slice(4, end)); } catch { existing = null; }
   }
 
-  if (existing && existing.stopsHash === stopsHash) {
+  if (!FORCE && existing && existing.stopsHash === stopsHash) {
     console.log(`  = ${variantId} — unchanged, skipping`);
     return { created: false, isNewFile: false };
   }
@@ -518,7 +595,7 @@ async function processVariant({ city, country, days, cityPosts, packedAvailable 
   let aiOut = null;
   let whysMap = {};
 
-  if (existing) {
+  if (existing && !FORCE) {
     const oldSlugs = stopSlugSet(existing.itinerary || []);
     const newSlugs = stopSlugSet(result.days);
     const diff = symmetricDiffSize(oldSlugs, newSlugs);
@@ -538,6 +615,7 @@ async function processVariant({ city, country, days, cityPosts, packedAvailable 
       };
     }
   } else {
+    if (existing && FORCE) console.log(`  ~ ${variantId} — --force: regenerating prose against the current payload`);
     aiOut = await generateProse({ city, country, days, daysArr: result.days, bySlug, variantId });
     whysMap = aiOut.whys || {};
   }

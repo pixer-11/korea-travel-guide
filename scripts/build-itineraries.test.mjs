@@ -7,6 +7,7 @@ import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import yaml from 'js-yaml';
 import {
+  dayBlock,
   findRainSwapLeaks,
   rainVenueTerms,
   validateAiOutput,
@@ -19,6 +20,58 @@ import {
 // findProseViolations tests now live in src/lib/prose-guard.mjs's own test
 // file (src/lib/prose-guard.test.mjs) — build-itineraries.mjs imports the
 // shared implementation rather than defining its own copy (fix round 2).
+
+// ── dayBlock (prompt payload — fix round 3: per-stop address + day structure) ─
+// 2026-07-28 fact-check found the model generalizing one stop's neighbourhood
+// to a whole day (Tokyo: Ise Sueyoshi near Roppongi/Omotesando called "in the
+// Yoyogi/Harajuku area"; Bangkok: Saladaeng at Silom/Rama IV called "Sukhumvit
+// and Ekkamai") and asserting stop counts it was never given ("each day is
+// built around four stops" when only day 1 actually had four). Both defects
+// trace to the prompt payload not carrying addresses or explicit structure.
+
+const dayFixture = (stops, rainSwapSlug = null) => ({ stops, rainSwapSlug });
+const stopFixture = (slug, slot, dwellMin = 90, walkToNext = null) => ({ slug, slot, dwellMin, walkToNext });
+
+test('dayBlock: includes each stop\'s verified address', () => {
+  const bySlug = new Map([
+    ['a', { data: { title: 'Ise Sueyoshi', category: 'restaurant', place: { address: 'Sandwiched between Roppongi and Omotesando' } } }],
+  ]);
+  const block = dayBlock(dayFixture([stopFixture('a', 'lunch')]), 0, bySlug);
+  assert.match(block, /address: Sandwiched between Roppongi and Omotesando/);
+});
+
+test('dayBlock: says so explicitly when a stop has no address on file (never invents one)', () => {
+  const bySlug = new Map([['a', { data: { title: 'X', category: 'attraction', place: {} } }]]);
+  const block = dayBlock(dayFixture([stopFixture('a', 'morning')]), 0, bySlug);
+  assert.match(block, /address: \(no address on file/);
+});
+
+test('dayBlock: surfaces place.name only when it differs from the post title', () => {
+  const bySlugSame = new Map([['a', { data: { title: 'Gwangjang Market', category: 'attraction', place: { name: 'Gwangjang Market', address: 'x' } } }]]);
+  const blockSame = dayBlock(dayFixture([stopFixture('a', 'morning')]), 0, bySlugSame);
+  assert.doesNotMatch(blockSame, /venue name:/);
+
+  const bySlugDiff = new Map([['a', { data: { title: 'A Great Noodle Spot', category: 'restaurant', place: { name: 'Myeongdong Kyoja', address: 'x' } } }]]);
+  const blockDiff = dayBlock(dayFixture([stopFixture('a', 'lunch')]), 0, bySlugDiff);
+  assert.match(blockDiff, /venue name: Myeongdong Kyoja/);
+});
+
+test('dayBlock: day header states the exact stop count and slot list', () => {
+  const bySlug = new Map([
+    ['a', { data: { title: 'A', category: 'attraction', place: {} } }],
+    ['b', { data: { title: 'B', category: 'restaurant', place: {} } }],
+    ['c', { data: { title: 'C', category: 'attraction', place: {} } }],
+  ]);
+  const day = dayFixture([stopFixture('a', 'morning'), stopFixture('b', 'lunch'), stopFixture('c', 'evening')]);
+  const block = dayBlock(day, 1, bySlug); // idx 1 -> "Day 2"
+  assert.match(block, /^Day 2 — 3 stops \(morning, lunch, evening\):/);
+});
+
+test('dayBlock: singular "stop" wording for a 1-stop day', () => {
+  const bySlug = new Map([['a', { data: { title: 'A', category: 'attraction', place: {} } }]]);
+  const block = dayBlock(dayFixture([stopFixture('a', 'morning')]), 0, bySlug);
+  assert.match(block, /^Day 1 — 1 stop \(morning\):/);
+});
 
 // ── findRainSwapLeaks (rain-swap isolation, fix 3) ──────────────────────────
 
