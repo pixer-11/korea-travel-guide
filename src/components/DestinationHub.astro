@@ -30,6 +30,19 @@ const blurb = localizeBlurb(country.slug, country.blurb, lang);
 const tr = await loadCardTranslations(lang);
 const card = cardHelpers(tr, lang);
 
+// Itinerary flywheel (task 8): list this country's itineraries (usually its
+// cities' 3-day plans). Day/stop counts read from the itinerary file, never
+// hardcoded.
+const countryItineraries = (await getCollection('itineraries', ({ data }) => !data.draft))
+  .filter((it) => it.data.country.toLowerCase() === country.name.toLowerCase());
+const itinTranslations =
+  lang === 'en'
+    ? new Map<string, any>()
+    : new Map((await getCollection('itinerariesI18n', ({ data }) => data.lang === lang))
+        .map((e) => [e.data.slug, e.data]));
+const itinTitle = (it: any) => itinTranslations.get(it.id)?.title ?? it.data.title;
+const itinStopCount = (it: any) => it.data.itinerary.reduce((n: number, day: any) => n + day.stops.length, 0);
+
 const wallThumb = (url: string) => (url ? `/wall/${createHash('sha1').update(url).digest('hex').slice(0, 16)}.webp` : '');
 
 const regionCounts = new Map<string, number>();
@@ -110,6 +123,25 @@ const metaTitle = `${countryLabel} — ${t('nav.destinations')}`;
               <div class="region-grid">
                 {regionsWithPosts.map((r) => (
                   <a class:list={['region-tile', { 'is-major': isMajor(r) }]} href={localizePath(`/regions/${slugifyRegion(r)}/`, lang)} style={regionImage(r) ? `background-image:url(${regionImage(r)})` : ''}><span>{localizePlace(r, lang)}</span></a>
+                ))}
+              </div>
+            </div>
+          )}
+
+          {countryItineraries.length > 0 && (
+            <div class="region-group">
+              <h2>{t('itin.forCountry').replace('{country}', countryLabel)}</h2>
+              <div class="itin-hub-promo">
+                {countryItineraries.map((it) => (
+                  <a class="itin-hub-card" href={localizePath(`/itinerary/${it.id}`, lang)}>
+                    <span class="itin-hub-card-ico"><Emoji name="world-map" /></span>
+                    <div class="itin-hub-card-body">
+                      <span class="itin-hub-card-badge">{t('itin.badge').replace('{n}', String(it.data.days))} · {localizePlace(it.data.city, lang)}</span>
+                      <h3>{itinTitle(it)}</h3>
+                      <p>{t('itin.stopsCount').replace('{n}', String(itinStopCount(it)))}</p>
+                    </div>
+                    <span class="itin-hub-card-cta">{t('itin.viewItinerary')}</span>
+                  </a>
                 ))}
               </div>
             </div>

@@ -7,6 +7,7 @@ import Tours from './Tours.astro';
 import PlanTrip from './PlanTrip.astro';
 import Newsletter from './Newsletter.astro';
 import StickyBook from './StickyBook.astro';
+import Emoji from './Emoji.astro';
 import { slugifyRegion } from '../lib/slug';
 import { useTranslations, localizePath, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
@@ -31,6 +32,20 @@ const regionLabel = localizePlace(region, lang);
 const countryLabel = localizePlace(country, lang);
 
 const info = getRegionInfo(region, lang);
+
+// Itinerary flywheel (task 8): surface a matching itinerary prominently at the
+// top of the hub. City/day-count/stop-count are all read from the itinerary
+// file itself — never hardcoded. Usually 0 or 1 today; a list future-proofs
+// for a region eventually having more than one itinerary.
+const allItineraries = await getCollection('itineraries', ({ data }) => !data.draft);
+const regionItineraries = allItineraries.filter((it) => it.data.city.toLowerCase() === region.toLowerCase());
+const itinTranslations =
+  lang === 'en'
+    ? new Map<string, any>()
+    : new Map((await getCollection('itinerariesI18n', ({ data }) => data.lang === lang))
+        .map((e) => [e.data.slug, e.data]));
+const itinTitle = (it: any) => itinTranslations.get(it.id)?.title ?? it.data.title;
+const itinStopCount = (it: any) => it.data.itinerary.reduce((n: number, day: any) => n + day.stops.length, 0);
 
 // Localized post text (title/description) for the cards, so a Korean hub shows
 // Korean card titles. Only the current language is loaded; English uses the
@@ -139,6 +154,22 @@ const metaDesc = info?.blurb?.slice(0, 155) ?? t('region.metaDesc').replace('{re
 
   <section class="section">
     <div class="wrap">
+      {regionItineraries.length > 0 && (
+        <div class="itin-hub-promo">
+          {regionItineraries.map((it) => (
+            <a class="itin-hub-card" href={localizePath(`/itinerary/${it.id}`, lang)}>
+              <span class="itin-hub-card-ico"><Emoji name="world-map" /></span>
+              <div class="itin-hub-card-body">
+                <span class="itin-hub-card-badge">{t('itin.badge').replace('{n}', String(it.data.days))}</span>
+                <h2>{itinTitle(it)}</h2>
+                <p>{t('itin.stopsCount').replace('{n}', String(itinStopCount(it)))}</p>
+              </div>
+              <span class="itin-hub-card-cta">{t('itin.viewItinerary')}</span>
+            </a>
+          ))}
+        </div>
+      )}
+
       {info && (
         <div class="region-facts">
           <div><span class="k">{t('region.gettingThere')}</span><span class="v">{info.getting}</span></div>

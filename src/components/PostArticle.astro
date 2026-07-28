@@ -173,6 +173,25 @@ const nearby = (await getCollection('posts', ({ data }) => !data.draft))
   .filter((r) => r.id !== post.id && r.data.region === d.region && !relatedIds.has(r.id))
   .slice(0, 6);
 
+// Itinerary flywheel (spec §3): if this post is a stop in a published itinerary,
+// link back to it — "This spot is Day N of our City X-day itinerary". Computed
+// ONCE as a slug→itinerary map (not per-post work inside a loop) so N posts
+// cost one getCollection call + one pass over itineraries, not N passes.
+const itinerariesForBacklinks = await getCollection('itineraries', ({ data }) => !data.draft);
+const itinBacklinksBySlug = new Map<string, { itineraryId: string; city: string; days: number; dayNumber: number }[]>();
+for (const it of itinerariesForBacklinks) {
+  it.data.itinerary.forEach((day: any, di: number) => {
+    for (const stop of day.stops) {
+      const list = itinBacklinksBySlug.get(stop.slug) ?? [];
+      list.push({ itineraryId: it.id, city: it.data.city, days: it.data.days, dayNumber: di + 1 });
+      itinBacklinksBySlug.set(stop.slug, list);
+    }
+  });
+}
+// A post could theoretically appear in more than one itinerary — show at most 2.
+const itineraryBacklinks = (itinBacklinksBySlug.get(post.id) ?? []).slice(0, 2);
+const itineraryHref = (id: string) => localizePath(`/itinerary/${id}`, lang);
+
 // A RECURRING event (annual festival, GP, championship, film festival…) keeps
 // its page indexed after it ends AND advertises a yearly cadence in schema, so it
 // can win "when is X <next year>" as the next edition approaches. Defined once
@@ -533,6 +552,17 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
             </li>
           ))}
         </ul>
+      </section>
+    )}
+
+    {itineraryBacklinks.length > 0 && (
+      <section class="itin-backlink" aria-label={t('itin.indexEyebrow')}>
+        {itineraryBacklinks.map((b) => (
+          <a class="itin-backlink-card" href={itineraryHref(b.itineraryId)}>
+            <span class="itin-backlink-ico"><Emoji name="world-map" /></span>
+            <p>{t('itin.postBacklink').replace('{n}', String(b.dayNumber)).replace('{city}', localizePlace(b.city, lang)).replace('{days}', String(b.days))}</p>
+          </a>
+        ))}
       </section>
     )}
 

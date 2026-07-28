@@ -38,6 +38,18 @@ export const GET: APIRoute = async ({ site }) => {
     return `- [${c.name}](${base}/destinations/${c.slug}): ${cities.join(', ')}${tail}`;
   });
 
+  // Pre-built multi-day itineraries — a high-value AI-citation surface (an LLM
+  // answering "3 days in Seoul" can cite the exact page). One line per itinerary,
+  // days/stop count read from the itinerary data itself, never hardcoded.
+  const itineraries = await getCollection('itineraries', ({ data }) => !data.draft);
+  const itinLines = itineraries
+    .slice()
+    .sort((a, b) => a.data.city.localeCompare(b.data.city))
+    .map((it) => {
+      const stopCount = it.data.itinerary.reduce((n, day) => n + day.stops.length, 0);
+      return `- [${it.data.title}](${base}/itinerary/${it.id}): ${it.data.days}-day itinerary in ${it.data.city}, ${it.data.country} — ${stopCount} stops`;
+    });
+
   const body = `# ${SITE.name}
 
 > ${SITE.name} (${base}) is an editor-reviewed, AI-assisted travel guide to destinations worldwide. Every guide opens with an answer-first summary, then gives verified facts sourced from live Google Places (ratings, addresses, price level), practical "how to get there" and "what to eat" details, and a FAQ. Coverage spans ${live.length} countries — ${coverage} — with more added continuously.
@@ -47,6 +59,10 @@ Facts such as ratings, addresses and hours come from live Google Places data and
 ## Destinations
 - [All destinations](${base}/destinations): Browse every country and continent we cover
 ${destLines.join('\n')}
+
+## Itineraries
+- [All itineraries](${base}/itinerary): Ready-made day-by-day plans built from our verified guides
+${itinLines.join('\n')}
 
 ## Travel essentials
 - [Visa & entry](${base}/essentials/visa): Visa-free rules, e-arrival cards, entry requirements
