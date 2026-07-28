@@ -14,7 +14,11 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:Tanah_Lot,_Bali,_Indonesia,_20220827_1008_1159.jpg
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/462935206_QYBdsmmJF0Vm-7zGaS9rwXXQRSEgCVSrN1LoE9a1dBw.jpg
+    credit: 'Photo: Foursquare user content (Tanah Lot Beach (Pantai Tanah Lot))'
+    license: foursquare
+    source: https://foursquare.com/v/4e59c8b4aeb7d78d9f7cc7e8
 place:
   id: ChIJq95xT4I30i0RaU3j93Diq8o
   name: Tanah Lot

@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: E4024 / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Mixed_plate_in_Trilye,_Ankara.jpg"
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/60997680_ybVSR8s25XDrSwKCEc8Iw0SA0uyHpQlTC8AOw05zGfA.jpg
+    credit: 'Photo: Foursquare user content (Trilye Restaurant)'
+    license: foursquare
+    source: https://foursquare.com/v/4b9bb938f964a5201d1e36e3
 place:
   id: "ChIJgWWgw5VP0xQRPb6m-k-HePk"
   name: "Trilye Restaurant"

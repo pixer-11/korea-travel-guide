@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Secret Garden Village)'
   license: foursquare
   source: https://foursquare.com/v/572c2b01498e72a55dade1b6
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/52967221_mYR947VTCzKUUaRDvVi9pzffykBcEzFo43ICnDvHUsA.jpg
+    credit: 'Photo: Foursquare user content (Secret Garden Village)'
+    license: foursquare
+    source: https://foursquare.com/v/572c2b01498e72a55dade1b6
 place:
   id: ChIJhwAqoysh0i0R70f2yLfD06s
   name: Secret Garden Village

@@ -1,0 +1,92 @@
+
+[1] abu-dhabi-art-house-cafe.md
+  검색: "Art House Abu Dhabi"  [fsq] new-style Service Key auth OK
+  [fsq] first search OK — keys: results,context · results: 3
+  [fsq] first result keys: fsq_place_id,latitude,longitude,categories,date_created,date_refreshed,distance,extended_location,link,location,name,placemaker_url,related_places,soc
+  [fsq] first photos OK — isArray:true len:4
+  → ✅ 추가: Different area (outdoor patio), adds new venue detail
+[2] abu-dhabi-flavors-grill-abu-dhabi.md
+  검색: "Flavors Grill Abu Dhabi Abu Dhabi"  → ✅ 추가: Interior table with branded menu, adds new view of venue
+[3] agra-itmad-ud-daula.md
+  검색: "Itmad-ud-Daula Agra"
+    · 반려(wikimedia): Shows river/cityscape view, not the monument itself; too dark  → ✅ 추가: Different angle, exterior view without archway framing, adds context
+[4] ajman-souryana-restaurant-and-cafe.md
+  검색: "Souryana Ajman"  → 후보 없음
+[5] ajman-the-seat-cafe.md
+  검색: "seat Ajman"  → ✅ 추가: Interior shot with visible SEAT logo, adds food/drinks view
+[6] al-ain-al-fanar-restaurant-cafe.md
+  검색: "Al Fanar & Al Ain"
+    · 반려(foursquare): Menu cover photo/logo, not a venue photo  → ✅ 추가: Exterior view with signage confirms venue, adds new angle
+[7] al-ain-ethr-al-ain-oasis.md
+  검색: "Ethr — Al Ain Oasis Al Ain"  → ✅ 추가: Shows venue's actual signage/entrance at night, differs from Image 1
+[8] ankara-trilye-restaurant.md
+  검색: "Trilye Ankara"  → ✅ 추가: Menu clearly names Trilye Restaurant, adds new info
+[9] ayutthaya-the-artisans-ayutthaya.md
+  검색: "Artisans Ayutthaya Ayutthaya"  → ✅ 추가: Different interior dining room view, adds new visual information
+[10] ayutthaya-the-summer-house.md
+  검색: "Summer House Ayutthaya"  → ✅ 추가: Receipt confirms venue name/location, adds menu/food info
+[11] bali-bingin-uluwatu-pak-gula.md
+  검색: "PAK GULA Bali"  → 후보 없음
+[12] bali-bukit-peninsula-uluwatu-avli.md
+  검색: "AVLI Uluwatu - Modern Greek Bali"  → ✅ 추가: Different subject: plated food dish, adds new content, same venue
+[13] bali-chai-of-the-tiger-indian-street-food.md
+  검색: "CHAI TIGER (Indian Street Food) Bali"  → ✅ 추가: Different angle showing interior ceiling, chalkboard menu, matches venue
+[14] bali-cure-bali.md
+  검색: "CURE Bali Bali"
+    · 반려(foursquare): Generic beach silhouette, doesn't show the restaurant venue itself
+    · 반려(foursquare): Shows 'Bar Nua' sign, different venue, not CURE Bali  → ✅ 추가: Same venue at night, different angle, adds diners/ambiance
+[15] bali-livingstone.md
+  검색: "Livingstone Bali"  → ✅ 추가: Interior/food shot, different from exterior sign, adds new info
+[16] bali-secret-garden-village.md
+  검색: "Secret Garden Village Bali"  → ✅ 추가: Shows venue's welcome sign entrance, explicitly names Secret Garden Village
+[17] bali-tanah-lot.md
+  검색: "Tanah Lot Bali"  → ✅ 추가: Shows temple gate and shoreline, different ground-level angle, adds context
+[18] bali-this-is-bali-balinese-food-desserts.md
+  검색: "This Is Bali - Balinese Food & Desserts Bali"  → ✅ 추가: Shows restaurant interior and different dish, adds new context
+[19] bandung-dago-dreampark.md
+  검색: "Dago Dreampark Bandung"  → ✅ 추가: Different overhead forest/venue view, adds new visual context
+[20] bandung-hummingbird-eatery-space.md
+  검색: "Hummingbird Eatery & Space Bandung"  → ✅ 추가: Shows distinct exterior seating area, adds new venue context
+[21] bandung-wheels-coffee-roasters-heritage-lifestyle-hub-riau.md
+  검색: "Wheels Roasters - Heritage Lifestyle Hub (Riau) Bandung"
+    · 반려(foursquare): Spa/pedicure room unrelated to coffee roasters venue type
+    · 반려(foursquare): Generic dark fountain corner, not recognizable as this venue
+    · 반려(foursquare): Unrelated subject: a kitten, not the venue
+    · 반려(foursquare): Shows a foot spa area, unrelated to a coffee shop venue  → ❌ 전부 반려
+[22] bangkok-chatuchak-weekend-market.md
+  검색: "Chatuchak Weekend Market Bangkok"
+    · 반려(wikimedia): Generic close-up decoration, not recognizable as this market
+    · 반려(foursquare): It's a map/signboard, not a photo of the market itself  → ✅ 추가: Noodle soup dish adds food variety, plausibly from market stall
+[23] bangkok-cheaper-better-street-food.md
+  검색: "Cheaper & Better Street Food Bangkok"  → ✅ 추가: Menu board from same restaurant, adds new food info
+
+──────── 결과 ────────
+검사한 글: 23  |  ✅ 추가: 20  |  ❌ vision 반려: 1  |  후보 없음: 2
+(장소명 없어 건너뜀: 4, 이미 사진 있거나 대상 아님: 11)
+
+추가된 글:
+  ✅ abu-dhabi-art-house-cafe.md — Different area (outdoor patio), adds new venue detail
+  ✅ abu-dhabi-flavors-grill-abu-dhabi.md — Interior table with branded menu, adds new view of venue
+  ✅ agra-itmad-ud-daula.md — Different angle, exterior view without archway framing, adds context
+  ✅ ajman-the-seat-cafe.md — Interior shot with visible SEAT logo, adds food/drinks view
+  ✅ al-ain-al-fanar-restaurant-cafe.md — Exterior view with signage confirms venue, adds new angle
+  ✅ al-ain-ethr-al-ain-oasis.md — Shows venue's actual signage/entrance at night, differs from Image 1
+  ✅ ankara-trilye-restaurant.md — Menu clearly names Trilye Restaurant, adds new info
+  ✅ ayutthaya-the-artisans-ayutthaya.md — Different interior dining room view, adds new visual information
+  ✅ ayutthaya-the-summer-house.md — Receipt confirms venue name/location, adds menu/food info
+  ✅ bali-bukit-peninsula-uluwatu-avli.md — Different subject: plated food dish, adds new content, same venue
+  ✅ bali-chai-of-the-tiger-indian-street-food.md — Different angle showing interior ceiling, chalkboard menu, matches venue
+  ✅ bali-cure-bali.md — Same venue at night, different angle, adds diners/ambiance
+  ✅ bali-livingstone.md — Interior/food shot, different from exterior sign, adds new info
+  ✅ bali-secret-garden-village.md — Shows venue's welcome sign entrance, explicitly names Secret Garden Village
+  ✅ bali-tanah-lot.md — Shows temple gate and shoreline, different ground-level angle, adds context
+  ✅ bali-this-is-bali-balinese-food-desserts.md — Shows restaurant interior and different dish, adds new context
+  ✅ bandung-dago-dreampark.md — Different overhead forest/venue view, adds new visual context
+  ✅ bandung-hummingbird-eatery-space.md — Shows distinct exterior seating area, adds new venue context
+  ✅ bangkok-chatuchak-weekend-market.md — Noodle soup dish adds food variety, plausibly from market stall
+  ✅ bangkok-cheaper-better-street-food.md — Menu board from same restaurant, adds new food info
+
+반려된 글(사진 없이 유지):
+  ❌ bandung-wheels-coffee-roasters-heritage-lifestyle-hub-riau.md — Shows a foot spa area, unrelated to a coffee shop venue
+
+GALLERY_SUMMARY added=20 rejected=1 nocand=2

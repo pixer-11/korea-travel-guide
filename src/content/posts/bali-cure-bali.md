@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Cure Bali)'
   license: foursquare
   source: https://foursquare.com/v/6a12e8872e47383aa224f78d
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/13709339_xUuLiVD_PPykmOFeh2n5cLNH1AINz9_LnrXD2qtGje0.jpg
+    credit: 'Photo: Foursquare user content (Cure Bali)'
+    license: foursquare
+    source: https://foursquare.com/v/6a12e8872e47383aa224f78d
 place:
   id: ChIJe0QkbABH0i0RTLK3-rLSogI
   name: CURE Bali

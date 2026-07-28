@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Chai Of The Tiger)'
   license: foursquare
   source: https://foursquare.com/v/62623645dce86767a946367f
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/426073_Gcg67w0m3z4GgaCKDgLBYFrJqTK7GkbXSR-gmprvDqM.jpg
+    credit: 'Photo: Foursquare user content (Chai Of The Tiger)'
+    license: foursquare
+    source: https://foursquare.com/v/62623645dce86767a946367f
 place:
   id: ChIJ_fjTq8A90i0Rif_PcK-Rcv0
   name: CHAI OF THE TIGER (Indian Street Food)

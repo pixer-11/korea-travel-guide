@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Coffee Bali Harum)'
   license: foursquare
   source: https://foursquare.com/v/5670223b498ef92b073529f8
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/67748071_nlDpUKr2kAgvaFGWOiDtSiTzM663xVA9-maCRytwC3g.jpg
+    credit: 'Photo: Foursquare user content (This Is Bali)'
+    license: foursquare
+    source: https://foursquare.com/v/660688001fa2995516ef5937
 place:
   id: ChIJR7MWORA90i0Rj7ugb0Lss4g
   name: This Is Bali - Balinese Food & Desserts

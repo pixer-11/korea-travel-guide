@@ -14,7 +14,11 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:Al_Ain_Oasis,_Al_Mutawaa_-_Abu_Dhabi_-_United_Arab_Emirates_-_panoramio.jpg
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/1411689224_LcEQTAcr__6nEJDB7zGzkRnY7jXghW9h8ouDcXPnEG0.jpg
+    credit: 'Photo: Foursquare user content (Ethr Cafe)'
+    license: foursquare
+    source: https://foursquare.com/v/639d9bff2a0b131573dfb81f
 place:
   id: ChIJLU7d_By3ij4RSDVW7PgTqSY
   name: Ethr — Al Ain Oasis

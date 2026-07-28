@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Dago Dreampark)'
   license: foursquare
   source: https://foursquare.com/v/5779f6e9498e532e87b5e70c
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/3202468_QO5oQcqnGv35oKuLfW1nUTly4S9tU4Xsw1ZEWSUa03o.jpg
+    credit: 'Photo: Foursquare user content (Dago Dreampark)'
+    license: foursquare
+    source: https://foursquare.com/v/5779f6e9498e532e87b5e70c
 place:
   id: ChIJeUGDdCvnaC4RX24Dt0esfD4
   name: Dago Dreampark

@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (The Seat Cafe)'
   license: foursquare
   source: https://foursquare.com/v/65c1164cb812d51dc076b778
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/87360241_K2pGv8WrgtP_CBjes_IrJP3oTdpKiX_cj9KO6KdNlIg.jpg
+    credit: 'Photo: Foursquare user content (The Seat Cafe)'
+    license: foursquare
+    source: https://foursquare.com/v/65c1164cb812d51dc076b778
 place:
   id: ChIJzR7viUzx9T4R16XrLHCcBFw
   name: The seat cafe

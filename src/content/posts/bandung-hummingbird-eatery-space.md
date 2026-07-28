@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Hummingbird)'
   license: foursquare
   source: https://foursquare.com/v/4d2af683888af04dace5dbaf
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/81412081_XNZ9Bfm9w4QiYKle5_SdrnnRmt7AJUD1FWn2UvaBvpw.jpg
+    credit: 'Photo: Foursquare user content (Hummingbird)'
+    license: foursquare
+    source: https://foursquare.com/v/4d2af683888af04dace5dbaf
 place:
   id: ChIJaa4yq0vmaC4Rlp_TQ2P0LHY
   name: Hummingbird Eatery & Space

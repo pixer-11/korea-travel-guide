@@ -14,7 +14,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Art House Cafe)'
   license: foursquare
   source: 'https://foursquare.com/v/53ff53b9498ef90189445fe5'
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/348024470_UR6p1LsKoCgfd1gP3_gCCFyUaKftzFu_7UHHegy8Ut8.jpg
+    credit: 'Photo: Foursquare user content (Art House Cafe)'
+    license: foursquare
+    source: https://foursquare.com/v/53ff53b9498ef90189445fe5
 place:
   id: ChIJ_URupwdmXj4R1RBkLIfrkMA
   name: Art House Cafe

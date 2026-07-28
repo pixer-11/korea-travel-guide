@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Flavors Grill)'
   license: foursquare
   source: https://foursquare.com/v/5c49f07a1953f3002c42337a
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/544519003_cE15MyDdJ4GpQrq46OF5DXfam4CYyNNb9ek_W8vDMRI.jpg
+    credit: 'Photo: Foursquare user content (Flavors Grill)'
+    license: foursquare
+    source: https://foursquare.com/v/5c49f07a1953f3002c42337a
 place:
   id: ChIJeUrze2pnXj4RzcDODWlOjcQ
   name: Flavors Grill Abu Dhabi

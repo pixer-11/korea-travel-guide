@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (The Summer House (เดอ ซัมเมอร์ เฮาส์))'
   license: foursquare
   source: https://foursquare.com/v/5574131d498ef85b1d262075
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/30398649_KvlKVqtnzbPHiu_olHDU3iVaNR1BpSUAPePgIJek-80.jpg
+    credit: 'Photo: Foursquare user content (The Summer House (เดอ ซัมเมอร์ เฮาส์))'
+    license: foursquare
+    source: https://foursquare.com/v/5574131d498ef85b1d262075
 place:
   id: ChIJtez6KH524jAR0iUwLNxRGdc
   name: The Summer House

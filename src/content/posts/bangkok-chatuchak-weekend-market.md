@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Chatuchak Weekend Market (ตลาดนัดจตุจักร))'
   license: foursquare
   source: https://foursquare.com/v/4bd401e477b29c74300a9282
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/929418_3uhDciLjS_zhQ_dRnfDn_Bo7hG6PvHqPjp7NehOlo5Y.jpg
+    credit: 'Photo: Foursquare user content (Chatuchak Weekend Market (ตลาดนัดจตุจักร))'
+    license: foursquare
+    source: https://foursquare.com/v/4bd401e477b29c74300a9282
 place:
   id: ChIJ3fiD6BSc4jARS324hNeR8ZE
   name: Chatuchak Weekend Market

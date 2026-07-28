@@ -14,7 +14,11 @@ heroImage:
   credit: 'Photo: Teeraza88 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Al_Fanar_Restaurant_and_Cafe.jpg'
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/19273269_SPVGDz7M9F807hdZ9NNuf0L6SKKebG8hglgUny_Nmn8.jpg
+    credit: 'Photo: Foursquare user content (Al-Fanar Restaurant & Cafe (مطعم ومقهى الفنر))'
+    license: foursquare
+    source: https://foursquare.com/v/569e5d75498e861e77d3b60c
 place:
   id: ChIJhU0u3dezij4RyKp9DKpsFOE
   name: Al Fanar Restaurant & Cafe

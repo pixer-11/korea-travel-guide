@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Sanyam Bahga / Wikimedia Commons (CC BY-SA 3.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Itmad-ud-Daula_24.JPG"
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/32513873_TPsNMgtd3CfNyfVNpynZjZ3ZoaMiBGqGoHgD148D6RM.jpg
+    credit: 'Photo: Foursquare user content (Itimad Ud Daula)'
+    license: foursquare
+    source: https://foursquare.com/v/53152058e4b0e72a36f63370
 place:
   id: "ChIJk6aZ_cVwdDkRWMRKn2s89hM"
   name: "Itmad-ud-Daula"
