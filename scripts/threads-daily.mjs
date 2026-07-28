@@ -11,6 +11,9 @@ import { readdirSync, readFileSync, writeFileSync, mkdirSync } from 'fs';
 import { join } from 'path';
 import yaml from 'js-yaml';
 import sharp from 'sharp';
+import { commonsCandidates } from './lib/commons.mjs';
+import { venuePhotoCandidates } from './lib/photo-sources.mjs';
+import { verifyGalleryImage } from './lib/vision-check.mjs';
 
 const POSTS_DIR = 'src/content/posts';
 const STATE_FILE = 'data/threads-daily.json';
@@ -136,10 +139,102 @@ try {
   }
 } catch (e) { console.error('ig image compose failed (텍스트만 발송):', e.message); }
 
+// -------- carousel: extra REAL photos of the same place + a closing brand card --------
+// Posts carry only a hero (465 of 480 have an empty gallery), so the extra slides
+// are sourced here, at material time, and put through the same vision gate the
+// site uses. Anything that fails simply doesn't become a slide — a 2-slide
+// carousel is fine, a wrong photo is not.
+const IG_W = 1080, IG_H = 1350;
+const fetchBuf = async (u) => {
+  const r = await fetch(u, { headers: { 'User-Agent': 'WanderAtlasBot/1.0 (https://wanderatlasguides.com)' } });
+  if (!r.ok) throw new Error(`fetch ${r.status}`);
+  return Buffer.from(await r.arrayBuffer());
+};
+
+// Small corner pin so a reposted slide still carries the brand, without putting
+// text over the photo (the owner asked for the photos themselves to shine).
+const CORNER_PIN = `<svg xmlns="http://www.w3.org/2000/svg" width="${IG_W}" height="${IG_H}">
+  <g transform="translate(${IG_W - 104},${IG_H - 116}) scale(2.0)" opacity="0.92">
+    <path fill="#c8443a" d="M16 2.6 A 10.8 10.8 0 0 1 26.8 13.4 C 26.8 19.3 21.9 23.2 16 30.2 C 10.1 23.2 5.2 19.3 5.2 13.4 A 10.8 10.8 0 0 1 16 2.6 Z"/>
+    <circle cx="16" cy="13.4" r="7.7" fill="#e8a13c"/><circle cx="16" cy="13.4" r="6.6" fill="#f6f1e6"/>
+    <path fill="#c8443a" d="M16 8.6 L17 12.4 L20.8 13.4 L17 14.4 L16 18.2 L15 14.4 L11.2 13.4 L15 12.4 Z"/>
+  </g></svg>`;
+
+const slides = [];      // { buf, credit }
+const slideCredits = [];
+if (igImage) { slides.push(igImage); if (post.fm.heroImage?.credit) slideCredits.push(post.fm.heroImage.credit); }
+
+try {
+  const heroUrl = post.fm.heroImage?.url || '';
+  const venueName = post.fm.place?.name || String(title).split(/[:—]/)[0].trim();
+  const cands = [];
+  // Landmarks/areas: Commons usually has several free shots of the same subject.
+  for (const c of await commonsCandidates(`${venueName} ${region}`, 8)) {
+    cands.push({ url: c.url, credit: c.credit });
+  }
+  // Venues: the same Foursquare/Flickr sources the site's photo pipeline uses.
+  if (cands.length < 3) {
+    for (const c of await venuePhotoCandidates({
+      name: venueName, lat: post.fm.place?.lat, lng: post.fm.place?.lng,
+      near: `${region}, ${country}`,
+    })) cands.push({ url: c.url, credit: c.credit });
+  }
+
+  const seen = new Set([heroUrl]);
+  for (const c of cands) {
+    if (slides.length >= 4) break;           // 4 photos + brand card = 5 slides
+    if (!c.url || seen.has(c.url)) continue;
+    seen.add(c.url);
+    let v;
+    try {
+      v = await verifyGalleryImage({
+        url: c.url, heroUrl, name: venueName,
+        category: post.fm.category, region, country,
+      });
+    } catch { continue; }
+    if (!v?.ok) continue;
+    try {
+      const buf = await sharp(await fetchBuf(c.url))
+        .resize(IG_W, IG_H, { fit: 'cover', position: 'attention' })
+        .composite([{ input: Buffer.from(CORNER_PIN) }])
+        .jpeg({ quality: 88 }).toBuffer();
+      slides.push(buf);
+      if (c.credit) slideCredits.push(c.credit);
+    } catch { /* skip unreadable image */ }
+  }
+} catch (e) { console.error('carousel photos skipped:', e.message); }
+
+// Closing brand card — always last, even when no extra photo was found.
+let brandCard = null;
+try {
+  const card = `<svg xmlns="http://www.w3.org/2000/svg" width="${IG_W}" height="${IG_H}">
+    <rect width="${IG_W}" height="${IG_H}" fill="#f7f3ec"/>
+    <rect x="40" y="40" width="${IG_W - 80}" height="${IG_H - 80}" fill="none" stroke="#b8862f" stroke-width="3"/>
+    <g transform="translate(${IG_W / 2 - 96},300) scale(6)">
+      <path fill="#c8443a" d="M16 2.6 A 10.8 10.8 0 0 1 26.8 13.4 C 26.8 19.3 21.9 23.2 16 30.2 C 10.1 23.2 5.2 19.3 5.2 13.4 A 10.8 10.8 0 0 1 16 2.6 Z"/>
+      <circle cx="16" cy="13.4" r="7.7" fill="#e8a13c"/><circle cx="16" cy="13.4" r="6.6" fill="#f6f1e6"/>
+      <path fill="#c8443a" d="M16 8.6 L17 12.4 L20.8 13.4 L17 14.4 L16 18.2 L15 14.4 L11.2 13.4 L15 12.4 Z"/>
+    </g>
+    <text x="${IG_W / 2}" y="720" text-anchor="middle" font-family="DejaVu Serif, serif" font-size="84" font-weight="700" fill="#201c17">Wander Atlas</text>
+    <text x="${IG_W / 2}" y="800" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="30" font-weight="600" fill="#b8862f" letter-spacing="6">GUIDES TO THE WORLD</text>
+    <text x="${IG_W / 2}" y="912" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="38" fill="#4a443b">Editor-reviewed guides ·  real photos</text>
+    <text x="${IG_W / 2}" y="968" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="38" fill="#4a443b">Opening hours, quiet times, live fares</text>
+    <text x="${IG_W / 2}" y="1150" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="44" font-weight="600" fill="#c8443a">wanderatlasguides.com</text>
+  </svg>`;
+  brandCard = await sharp(Buffer.from(card)).jpeg({ quality: 92 }).toBuffer();
+  slides.push(brandCard);
+} catch (e) { console.error('brand card failed:', e.message); }
+
 // -------- messages --------
-const credit = post.fm.heroImage?.credit ? `\n📷 ${post.fm.heroImage.credit}` : '';
+// Every CC-BY/BY-SA slide must carry its photographer, so the caption lists all
+// of them — Instagram has no per-image credit field.
+const credit = slideCredits.length
+  ? '\n📷 ' + [...new Set(slideCredits)].join('\n📷 ')
+  : (post.fm.heroImage?.credit ? `\n📷 ${post.fm.heroImage.credit}` : '');
+const photoCount = Math.max(slides.length - (brandCard ? 1 : 0), 0);
 const igText = [
-  `📸 인스타 소재 — 사진은 위 이미지 저장 후 업로드, 아래 캡션 복사`,
+  `📸 인스타 카드뉴스 — 사진 ${slides.length}장 (장소 ${photoCount}장 + 마지막 소개 카드)`,
+  `순서대로 저장해서 여러 장 올리기 → 아래 캡션 복사`,
   '',
   igCaption || '(캡션 생성 실패 — 스레드 옵션 중 하나를 캡션으로 쓰세요)',
   credit,
@@ -151,17 +246,29 @@ const thText = [
   threadsPart,
   '',
   `🔗 원문: ${SITE}/posts/${post.slug}/`,
-  '사용법: 스레드는 옵션 하나 복사-붙여넣기(링크는 가끔만). 인스타는 위 사진+캡션 세트로. 인스타 게시는 주 2~3회면 충분합니다.',
+  '사용법: 스레드는 옵션 하나 복사-붙여넣기 + 위 카드뉴스의 첫 장(대표 카드) 1장만 첨부하면 반응이 더 좋습니다(여러 장은 인스타용). 인스타는 카드뉴스 전체를 순서대로. 인스타 게시는 주 2~3회면 충분합니다.',
 ].join('\n');
 
 // -------- send (or preview locally) --------
 const tok = process.env.TELEGRAM_BOT_TOKEN, chat = process.env.TELEGRAM_CHAT_ID;
 if (tok && chat) {
-  if (igImage) {
+  if (slides.length > 1) {
+    // Album, so the slides arrive in carousel order and can be saved in sequence.
+    const form = new FormData();
+    form.append('chat_id', chat);
+    form.append('media', JSON.stringify(slides.map((_, i) => ({
+      type: 'photo', media: `attach://s${i}`,
+      ...(i === 0 ? { caption: igText } : {}),   // caption rides the first item
+    }))));
+    slides.forEach((b, i) => form.append(`s${i}`, new Blob([b], { type: 'image/jpeg' }), `s${i}.jpg`));
+    const rp = await fetch(`https://api.telegram.org/bot${tok}/sendMediaGroup`, { method: 'POST', body: form });
+    if (!rp.ok) console.error('telegram album failed', rp.status, await rp.text());
+    else console.log(`telegram album sent (${slides.length} slides)`);
+  } else if (slides.length === 1) {
     const form = new FormData();
     form.append('chat_id', chat);
     form.append('caption', igText);
-    form.append('photo', new Blob([igImage], { type: 'image/jpeg' }), 'ig.jpg');
+    form.append('photo', new Blob([slides[0]], { type: 'image/jpeg' }), 'ig.jpg');
     const rp = await fetch(`https://api.telegram.org/bot${tok}/sendPhoto`, { method: 'POST', body: form });
     if (!rp.ok) console.error('telegram photo failed', rp.status, await rp.text());
     else console.log('telegram photo sent');
@@ -174,11 +281,13 @@ if (tok && chat) {
   if (!r.ok) { console.error('telegram send failed', r.status, await r.text()); process.exit(1); }
   console.log('telegram sent');
 } else {
-  if (igImage) {
+  if (slides.length) {
     const { tmpdir } = await import('os');
-    const p = join(tmpdir(), 'ig-preview.jpg');
-    writeFileSync(p, igImage);
-    console.log('preview image → ' + p);
+    slides.forEach((b, i) => {
+      const p = join(tmpdir(), `ig-slide-${i + 1}.jpg`);
+      writeFileSync(p, b);
+      console.log(`preview slide ${i + 1}/${slides.length} → ${p}`);
+    });
   }
   console.log('--- (no telegram env — preview) ---\n' + igText + '\n\n' + thText);
 }
