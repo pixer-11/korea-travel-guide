@@ -45,6 +45,7 @@ import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
 import { slugify } from './lib/slugify.mjs';
 import { buildItinerary, qualifyingPosts, gateFor, closedDaysOf } from '../src/lib/itinerary.mjs';
+import { findProseViolations } from '../src/lib/prose-guard.mjs';
 import { validateItineraryFile } from './validate-itineraries.mjs';
 
 const POSTS_DIR = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
@@ -310,23 +311,8 @@ function collectProseFields(aiOut) {
   return out;
 }
 
-const PROSE_GUARD_PATTERNS = [
-  { name: 'clock-time-ampm', re: /\b\d{1,2}\s*(:\d{2})?\s*(am|pm)\b/i },
-  { name: 'clock-time-24h', re: /\b\d{1,2}:\d{2}\b/ },
-  { name: 'hours-language', re: /\bopens?\b|\bcloses?\b|\bopening hours\b|\bclosed on\b/i },
-  { name: 'currency-symbol', re: /[$€£¥₩]\s?\d/ },
-  { name: 'currency-code', re: /\b\d+\s?(usd|krw|jpy|thb|won|baht|yen)\b/i },
-];
-
-// Pure single-string scanner — the unit under test.
-export function findProseViolations(text) {
-  const t = String(text || '');
-  const hits = [];
-  for (const { name, re } of PROSE_GUARD_PATTERNS) {
-    if (re.test(t)) hits.push({ pattern: name });
-  }
-  return hits;
-}
+// PROSE_GUARD_PATTERNS + findProseViolations now live in src/lib/prose-guard.mjs
+// (shared with scripts/validate-itineraries.mjs so the two can never drift).
 
 function scanAiOutputProse(aiOut) {
   const violations = [];
@@ -340,22 +326,30 @@ function scanAiOutputProse(aiOut) {
 
 const STOPWORDS = new Set(['the', 'and', 'of', 'at', 'in', 'on', 'a', 'an', 'to', 'for', 'by', 'with']);
 
-export function rainVenueTerms(title) {
+// `cityName` is excluded from the per-word "main token" list — many venue
+// titles are literally "<Venue> in <City>" / "<City> <Venue>", and the city
+// name legitimately appears in nearly every field (title, description, every
+// day's intro...), so treating it as a distinctive token turned "the rain
+// venue name leaked" into "the city name appears anywhere", which dropped
+// the rain-swap on almost every real itinerary. The full title is still kept
+// as a term — an exact multi-word phrase match is still a real, specific leak.
+export function rainVenueTerms(title, cityName) {
   const t = String(title || '').trim();
   if (!t) return [];
-  const words = t.toLowerCase().split(/\s+/).filter((w) => w.length >= 4 && !STOPWORDS.has(w));
+  const cityWords = new Set(String(cityName || '').toLowerCase().split(/\s+/).filter(Boolean));
+  const words = t.toLowerCase().split(/\s+/).filter((w) => w.length >= 4 && !STOPWORDS.has(w) && !cityWords.has(w));
   return [...new Set([t.toLowerCase(), ...words])];
 }
 
 // Scans every written prose field for each day's rain-swap venue name/main
-// token. Pure given (aiOut, daysArr, bySlug) — used both live and by tests.
-export function findRainSwapLeaks(aiOut, daysArr, bySlug) {
+// token. Pure given (aiOut, daysArr, bySlug, cityName) — used both live and by tests.
+export function findRainSwapLeaks(aiOut, daysArr, bySlug, cityName) {
   const violations = [];
   const fields = collectProseFields(aiOut);
   daysArr.forEach((day, dayIndex) => {
     if (!day.rainSwapSlug) return;
     const rainPost = bySlug.get(day.rainSwapSlug);
-    const terms = rainVenueTerms(rainPost?.data?.title);
+    const terms = rainVenueTerms(rainPost?.data?.title, cityName);
     if (!terms.length) return;
     for (const { field, value } of fields) {
       const text = String(value || '').toLowerCase();
@@ -375,17 +369,17 @@ export function findRainSwapLeaks(aiOut, daysArr, bySlug) {
 async function generateProse({ city, country, days, daysArr, bySlug, variantId }) {
   let out = await callClaude({ city, country, days, daysArr, bySlug });
   let proseIssues = scanAiOutputProse(out);
-  let rainIssues = findRainSwapLeaks(out, daysArr, bySlug);
+  let rainIssues = findRainSwapLeaks(out, daysArr, bySlug, city);
 
   if (proseIssues.length || rainIssues.length) {
     console.log(`  ⚠ ${variantId} — guard found ${proseIssues.length} hours/price + ${rainIssues.length} rain-leak issue(s) on first pass; retrying once`);
     out = await callClaude({ city, country, days, daysArr, bySlug, retryIssues: [...proseIssues, ...rainIssues] });
     proseIssues = scanAiOutputProse(out);
-    rainIssues = findRainSwapLeaks(out, daysArr, bySlug);
+    rainIssues = findRainSwapLeaks(out, daysArr, bySlug, city);
   }
 
   if (proseIssues.length) {
-    for (const v of proseIssues) console.error(`PROSE-GUARD FAILED: ${variantId} — ${v.pattern} in ${v.field}`);
+    for (const v of proseIssues) console.error(`PROSE-GUARD FAILED: ${variantId} — ${v.pattern} in ${v.field}: "${v.text}"`);
     throw new Error(`prose guard failed for ${variantId} after retry (${proseIssues.length} issue(s))`);
   }
 

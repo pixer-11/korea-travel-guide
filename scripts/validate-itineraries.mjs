@@ -17,6 +17,7 @@ import { join, resolve, basename } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
 import { qualifyingPosts, gateFor } from '../src/lib/itinerary.mjs';
+import { findProseViolations } from '../src/lib/prose-guard.mjs';
 
 // Mirrors the TRANSIT_FLAT_MIN / DAY_BUDGET_MIN constants in src/lib/itinerary.mjs
 // (not exported from there, so kept in sync by hand). src/lib/itinerary.mjs is the
@@ -24,17 +25,14 @@ import { qualifyingPosts, gateFor } from '../src/lib/itinerary.mjs';
 const TRANSIT_FLAT_MIN = 30;
 const DAY_BUDGET_MIN = 600;
 
-// ── prose-leak patterns (clock times / prices never belong in AI connective
-// prose — the page renders those facts from data, never from written text) ──
-const CLOCK_AMPM = /\b\d{1,2}\s*(:\d{2})?\s*(am|pm)\b/i;
-const CLOCK_24H = /\b\d{1,2}:\d{2}\b/;
-const HOURS_LANG = /\bopening hours\b|\bcloses at\b|\bopens at\b/i;
-const CURRENCY = /[$€£¥₩]\s?\d/;
-
+// Prose-leak patterns (clock times / prices / opening-hours language never
+// belong in AI connective prose — the page renders those facts from data,
+// never from written text) live in src/lib/prose-guard.mjs, shared with
+// scripts/build-itineraries.mjs so the two can never drift apart.
 function scanProseLeak(issues, file, field, text) {
   const t = String(text ?? '');
   if (!t) return;
-  if (CLOCK_AMPM.test(t) || CLOCK_24H.test(t) || HOURS_LANG.test(t) || CURRENCY.test(t)) {
+  if (findProseViolations(t).length) {
     issues.push(`PROSE-LEAK: ${file} — ${field}`);
   }
 }

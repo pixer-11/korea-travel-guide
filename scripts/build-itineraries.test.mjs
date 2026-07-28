@@ -7,7 +7,6 @@ import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import yaml from 'js-yaml';
 import {
-  findProseViolations,
   findRainSwapLeaks,
   rainVenueTerms,
   validateAiOutput,
@@ -17,42 +16,9 @@ import {
   commitOrRejectTemp,
 } from './build-itineraries.mjs';
 
-// ── findProseViolations (hours/price guard, fix 4) ─────────────────────────
-
-test('findProseViolations: clean prose passes', () => {
-  assert.deepEqual(findProseViolations('A quiet morning stop with a great view over the harbor.'), []);
-});
-
-test('findProseViolations: flags "opens at 9am"', () => {
-  const hits = findProseViolations('The market opens at 9am for early risers.');
-  assert.ok(hits.length > 0, 'expected at least one violation');
-  assert.ok(hits.some((h) => h.pattern === 'hours-language'));
-  assert.ok(hits.some((h) => h.pattern === 'clock-time-ampm'));
-});
-
-test('findProseViolations: flags "9:00"', () => {
-  const hits = findProseViolations('Arrive by 9:00 for the quiet window.');
-  assert.ok(hits.some((h) => h.pattern === 'clock-time-24h'));
-});
-
-test('findProseViolations: flags currency "₩3,000"', () => {
-  const hits = findProseViolations('Tickets run about ₩3,000 per person.');
-  assert.ok(hits.some((h) => h.pattern === 'currency-symbol'));
-});
-
-test('findProseViolations: flags a currency code like "5000 won"', () => {
-  const hits = findProseViolations('Admission is roughly 5000 won at the door.');
-  assert.ok(hits.some((h) => h.pattern === 'currency-code'));
-});
-
-test('findProseViolations: does not flag a venue name containing a digit', () => {
-  assert.deepEqual(findProseViolations('Grab a coffee at Cafe 3 Stripes before heading out.'), []);
-});
-
-test('findProseViolations: "closed on" hours-language is flagged even without a clock time', () => {
-  const hits = findProseViolations('Note that this spot is closed on Tuesdays.');
-  assert.ok(hits.some((h) => h.pattern === 'hours-language'));
-});
+// findProseViolations tests now live in src/lib/prose-guard.mjs's own test
+// file (src/lib/prose-guard.test.mjs) — build-itineraries.mjs imports the
+// shared implementation rather than defining its own copy (fix round 2).
 
 // ── findRainSwapLeaks (rain-swap isolation, fix 3) ──────────────────────────
 
@@ -94,6 +60,37 @@ test('findRainSwapLeaks: no leak when the venue is never mentioned', () => {
   assert.deepEqual(findRainSwapLeaks(aiOut, daysArr, bySlug), []);
 });
 
+test('findRainSwapLeaks: a city name embedded in the venue title is not treated as a leak signal (real-data regression)', () => {
+  // Real Seoul run: rain-swap title was "London Bagel Museum in Seoul" — since
+  // "Seoul" is >=4 chars and not a stopword, it became a "main token" that
+  // matched almost every field (title/description/every intro all say
+  // "Seoul"), dropping the rain-swap on nearly every itinerary. Passing the
+  // city name excludes it from the per-word terms.
+  const bySlug = new Map([['rain-venue', { data: { title: 'London Bagel Museum in Seoul' } }]]);
+  const daysArr = [{ rainSwapSlug: 'rain-venue', stops: [] }];
+  const aiOut = {
+    title: 'A 3-Day Seoul Itinerary', description: 'Seoul highlights.', quickAnswer: 'Seoul in 3 days.', faq: [],
+    days: [{ label: 'Seoul Day 1', intro: 'Explore central Seoul at a relaxed pace.' }],
+    whys: { x: 'A well-rated stop in Seoul worth the detour.' },
+  };
+  assert.deepEqual(findRainSwapLeaks(aiOut, daysArr, bySlug, 'Seoul'), []);
+  // Without the city-name exclusion, the same input would leak on every field.
+  const leaksWithoutCityArg = findRainSwapLeaks(aiOut, daysArr, bySlug);
+  assert.ok(leaksWithoutCityArg.length > 0, 'sanity check: the bug is real without the cityName argument');
+});
+
+test('findRainSwapLeaks: still catches an actual leak of the venue-specific words even when cityName is given', () => {
+  const bySlug = new Map([['rain-venue', { data: { title: 'London Bagel Museum in Seoul' } }]]);
+  const daysArr = [{ rainSwapSlug: 'rain-venue', stops: [] }];
+  const aiOut = {
+    title: 't', description: 'd', quickAnswer: 'q', faq: [],
+    days: [{ label: 'L', intro: 'If it rains, the bagel museum nearby is a cozy backup.' }],
+    whys: {},
+  };
+  const leaks = findRainSwapLeaks(aiOut, daysArr, bySlug, 'Seoul');
+  assert.ok(leaks.some((l) => l.field === 'days[0].intro'));
+});
+
 test('findRainSwapLeaks: days with no rainSwapSlug are never scanned', () => {
   const bySlug = new Map();
   const daysArr = [{ rainSwapSlug: null, stops: [] }];
@@ -111,6 +108,20 @@ test('rainVenueTerms: extracts the full title lowercased plus significant words'
 test('rainVenueTerms: empty/missing title yields no terms', () => {
   assert.deepEqual(rainVenueTerms(''), []);
   assert.deepEqual(rainVenueTerms(undefined), []);
+});
+
+test('rainVenueTerms: excludes the given city name from per-word terms but keeps the full title', () => {
+  const terms = rainVenueTerms('London Bagel Museum in Seoul', 'Seoul');
+  assert.ok(!terms.includes('seoul'), 'city name must not become a standalone term');
+  assert.ok(terms.includes('london'));
+  assert.ok(terms.includes('bagel'));
+  assert.ok(terms.includes('museum'));
+  assert.ok(terms.includes('london bagel museum in seoul'), 'the full title is still a term (exact-phrase match is a real signal)');
+});
+
+test('rainVenueTerms: without a cityName argument, the city name IS included (documents the bug this guards against)', () => {
+  const terms = rainVenueTerms('London Bagel Museum in Seoul');
+  assert.ok(terms.includes('seoul'));
 });
 
 // ── validateAiOutput (response-shape validation) ────────────────────────────
