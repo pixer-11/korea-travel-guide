@@ -844,7 +844,20 @@ async function processVariant({ city, country, days, cityPosts, packedAvailable 
   const preflightIssues = await validateItineraryFile(tmpPath, { posts: cityPosts, label });
   if (preflightIssues.length && isProseFixable(preflightIssues)) {
     console.log(`  ⚠ ${variantId} — validator found ${preflightIssues.length} prose-fixable issue(s); correcting once`);
-    const correctedOut = await callClaudeForCorrection({ city, country, days, daysArr: result.days, bySlug, fm, issues: preflightIssues });
+    let correctedOut;
+    try {
+      correctedOut = await callClaudeForCorrection({ city, country, days, daysArr: result.days, bySlug, fm, issues: preflightIssues });
+    } catch (e) {
+      // Malformed/incomplete correction response — treat exactly like "the
+      // correction attempt didn't fix it": delete the temp, leave any
+      // existing target untouched, non-zero exit. Never leak the pre-
+      // correction temp file (it doesn't end in .md so it can never leak
+      // into the Astro content collection, but it's still cruft).
+      await rm(tmpPath, { force: true });
+      console.error(`VALIDATE-FAILED ${label} — correction attempt threw: ${e.message}`);
+      process.exitCode = 1;
+      return { created: false, isNewFile: false };
+    }
     const correctedWhysMap = correctedOut.whys || {};
     fm = assembleFrontmatter({
       city, country, days, result, aiOut: correctedOut, whysMap: correctedWhysMap, stopsHash, packedAvailable,
