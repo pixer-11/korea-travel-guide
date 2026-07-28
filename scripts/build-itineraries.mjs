@@ -21,19 +21,31 @@
 //
 //  Before that rename, the temp file also runs through the FULL accuracy gate
 //  (scripts/validate-itineraries.mjs — stop resolution, dup/budget/lunch/walk
-//  rules, i18n-independent prose sanity+leak scan, packedAvailable recount).
-//  Any issue there deletes the temp file, logs "VALIDATE-FAILED <id>", sets a
-//  failing exit code, and leaves the existing target (if any) untouched — the
-//  same guarantee sanityCheckTemp gives for a missing post, just the full rule
-//  set instead of one check.
+//  rules, area/duration/structure-contradiction checks, prose sanity+leak scan,
+//  packedAvailable recount). If every issue reported is PROSE-FIXABLE
+//  (STOP-COUNT-CLAIM, DURATION-CONTRADICTION, AREA-CLAIM-UNSUPPORTED,
+//  UNIVERSAL-AREA-CLAIM, PROSE-LEAK, EMPTY-LABEL/INTRO/WHY), the builder
+//  re-prompts Claude ONCE more with each issue quoted verbatim (plus the
+//  current text of the field it refers to) and asks for a full corrected
+//  resubmission — then re-validates. Any STRUCTURAL issue (MISSING-POST,
+//  DRAFT-POST, MISSING-COORDS, CLOSED-VENUE, DAY-STOP-COUNT, DAY-BUDGET-
+//  EXCEEDED, WALK-TOO-FAR, TRANSIT-MINUTES-PRESENT, DUPLICATE-SLUG, or
+//  anything else not on the prose-fixable list) skips correction and fails
+//  immediately, same as before. Either way, a final failure logs
+//  "VALIDATE-FAILED <id>", deletes the temp file, leaves the existing target
+//  (if any) untouched, and sets a failing exit code. Model-call budget per
+//  variant is capped at 3: up to 2 for the prose guard (generateProse) plus
+//  at most 1 more for this correction pass.
 //
 //  Prompt payload (per stop): title, category, VERIFIED ADDRESS (place.address,
 //  plus place.name when it differs from the title), quickAnswer, closedDays,
 //  quiet-window summary, dwell minutes, walk-to-next. The address exists so the
 //  model can't generalize one stop's neighbourhood to a whole day it doesn't
-//  share — a real defect found in a 2026-07-28 fact-check pass. The prompt also
-//  states each day's exact stop count/slot shape so the model can't assert a
-//  uniform structure ("each day has N stops") that isn't actually true.
+//  share — a real defect found in a 2026-07-28 fact-check pass. Each day header
+//  also lists that day's exact stop count/slot shape AND its distinct "Areas
+//  covered" (extracted from the stops' own addresses) — the model is told to
+//  use ONLY those area names and to name the day's cross-area movement rather
+//  than claim a single neighbourhood unless every stop actually shares it.
 //
 //  Usage:
 //    node scripts/build-itineraries.mjs                          # sweep everything
@@ -153,8 +165,40 @@ function walkDesc(leg) {
   return `${leg.km}km, ~${leg.minutes} min walk`;
 }
 
-export function dayBlock(day, idx, bySlug) {
-  const lines = day.stops.map((s) => {
+// Best-effort "area" extraction from a verified Places address: the
+// comma-separated segment immediately before the one containing the city
+// name. Google Places addresses are consistently shaped "..., <district/
+// area>, <city> <postal>, <country>" — this reads the district Google itself
+// identified rather than guessing. Returns null (never invents an area) when
+// the address is missing or too short to extract from confidently.
+export function areaFromAddress(address, city) {
+  const addr = String(address || '').trim();
+  if (!addr) return null;
+  const parts = addr.split(',').map((p) => p.trim()).filter(Boolean);
+  if (parts.length < 2) return null;
+  const cityLower = String(city || '').toLowerCase();
+  if (cityLower) {
+    const cityIdx = parts.findIndex((p) => p.toLowerCase().includes(cityLower));
+    if (cityIdx > 0) return parts[cityIdx - 1];
+  }
+  return parts[1] || null; // fallback: skip the street-number/first segment
+}
+
+// Distinct area names a day's stops cover, in stop order, from verified
+// addresses only (never invented).
+export function dayAreas(day, bySlug, city) {
+  const areas = [];
+  const seen = new Set();
+  for (const s of day.stops) {
+    const post = bySlug.get(s.slug);
+    const area = areaFromAddress(post?.data?.place?.address, city);
+    if (area && !seen.has(area)) { seen.add(area); areas.push(area); }
+  }
+  return areas;
+}
+
+export function dayBlock(day, idx, bySlug, city) {
+  const stopLinesAll = day.stops.map((s) => {
     const post = bySlug.get(s.slug);
     const closed = closedDaysOf(post?.data?.place?.openingHours);
     const quiet = quietWindowSummary(post);
@@ -183,18 +227,27 @@ export function dayBlock(day, idx, bySlug) {
     );
     return stopLines.join('\n');
   });
+
   const rainPost = day.rainSwapSlug ? bySlug.get(day.rainSwapSlug) : null;
-  lines.push(
-    rainPost
-      ? `  Rain-day alternative: "${rainPost.data.title}" (slug: ${day.rainSwapSlug}, category: ${rainPost.data.category})`
-      : '  Rain-day alternative: none available'
-  );
+  const rainLine = rainPost
+    ? `  Rain-day alternative: "${rainPost.data.title}" (slug: ${day.rainSwapSlug}, category: ${rainPost.data.category})`
+    : '  Rain-day alternative: none available';
+
   // Explicit stop count + slot list in the day header — without this the
   // model assumes every day is shaped like the others (2026-07-28 fact-check
   // finding, bangkok-3-days.md: FAQ claimed "each day is built around four
   // stops" when only day 1 actually had four; days 2-3 had three).
   const slots = day.stops.map((s) => s.slot).join(', ');
-  return `Day ${idx + 1} — ${day.stops.length} stop${day.stops.length === 1 ? '' : 's'} (${slots}):\n${lines.join('\n')}`;
+  const header = `Day ${idx + 1} — ${day.stops.length} stop${day.stops.length === 1 ? '' : 's'} (${slots}):`;
+
+  // Precomputed distinct areas this day actually covers, so the model has a
+  // closed list of area names to use instead of inferring/guessing one.
+  const areas = dayAreas(day, bySlug, city);
+  const areasLine = areas.length
+    ? `  Areas covered: ${areas.join(', ')}`
+    : '  Areas covered: (no verified addresses available for this day\'s stops — do not name any area for this day)';
+
+  return [header, areasLine, ...stopLinesAll, rainLine].join('\n');
 }
 
 // One line per day + an explicit overall shape, so the model can't assume a
@@ -230,13 +283,15 @@ const EXTRA_GUARDRAILS =
 // three got called "Sukhumvit and Ekkamai" across its label, intro,
 // description, quickAnswer, AND an FAQ answer), and (2) neighbourhood/"near
 // X" claims and duration wording not actually grounded in the given facts.
+// Updated to reference each day's precomputed "Areas covered" list.
 const LOCATION_ACCURACY_RULES =
-  'Each stop\'s location (address) is given above. Do NOT describe a day as being \'in\' or ' +
-  '\'around\' a single neighbourhood unless EVERY stop in that day is in that neighbourhood per ' +
-  'its given address. When stops span areas, say so plainly (e.g. \'starts in X, then crosses to ' +
-  'Y\'). Neighbourhood, district, and "near X" claims count as facts just like prices or hours: ' +
-  'they must come from a stop\'s given address or that stop\'s own quick answer text — never from ' +
-  'outside knowledge or by generalizing one stop\'s area to the whole day.';
+  'Each stop\'s location (address) is given above, and each day header lists that day\'s distinct ' +
+  '"Areas covered" — the ONLY area names you may use for that day. Never write a universal \'all in\', ' +
+  '\'stays within\', or \'entirely in X\' phrasing unless X is that day\'s ONLY listed area; when a day ' +
+  'lists more than one area, name the movement between them (e.g. \'starts in X, then crosses to Y\'). ' +
+  'Neighbourhood, district, and "near X" claims count as facts just like prices or hours: they must come ' +
+  'from a stop\'s given address, that stop\'s own quick answer text, or the day\'s "Areas covered" list — ' +
+  'never from outside knowledge or by generalizing one stop\'s area to the whole day.';
 
 // Added after the same fact-verification pass found the model asserting
 // structural facts (stop counts) it was never given and getting them wrong
@@ -253,7 +308,7 @@ const STRUCTURE_AND_DURATION_RULES =
   'that number, never vaguer or larger than it suggests.';
 
 function buildPrompt({ city, country, days, daysArr, bySlug, retryIssues }) {
-  const blocks = daysArr.map((d, i) => dayBlock(d, i, bySlug)).join('\n\n');
+  const blocks = daysArr.map((d, i) => dayBlock(d, i, bySlug, city)).join('\n\n');
   let prompt = `You are writing connective prose for a ${days}-day travel itinerary in ${city}, ${country}, for a travel website.
 
 ${structureSummary(daysArr)}
@@ -438,11 +493,46 @@ export function findRainSwapLeaks(aiOut, daysArr, bySlug, cityName) {
   return violations;
 }
 
+// After the leak-guard drops one or more days' rainSwapSlug to null, any FAQ
+// answer about rain-contingency planning can no longer be trusted (round 4
+// fact-check finding: a generation's FAQ still claimed "day one has a listed
+// rain-day alternative" after that exact swap got dropped in the same pass —
+// the FAQ text didn't name the venue, so it never tripped findRainSwapLeaks,
+// but it was still wrong relative to the shipped rainSwapSlug: null). Rather
+// than try to surgically edit model prose, replace the rain FAQ answer with a
+// deterministically-accurate one built straight from the FINAL rainSwapSlug
+// state — this can never go stale because it isn't generated text, just a
+// plain description of the data. Mutates aiOut.faq in place; no-op if there's
+// no rain-related FAQ entry to fix, or nothing was dropped.
+export function fixRainFaqIfStale(aiOut, daysArr, droppedDayIdx) {
+  if (!droppedDayIdx || !droppedDayIdx.size) return;
+  const faq = Array.isArray(aiOut.faq) ? aiOut.faq : null;
+  if (!faq) return;
+  const rainQIdx = faq.findIndex((f) => /\brain/i.test(String(f?.q || '')));
+  if (rainQIdx === -1) return;
+
+  const withSwap = daysArr.map((d, i) => (d.rainSwapSlug ? i + 1 : null)).filter(Boolean);
+  let answer;
+  if (withSwap.length) {
+    const dayWord = withSwap.length > 1 ? 'Days' : 'Day';
+    const dayList = withSwap.length > 1 ? `${withSwap.slice(0, -1).join(', ')} and ${withSwap[withSwap.length - 1]}` : String(withSwap[0]);
+    const haveWord = withSwap.length > 1 ? 'have' : 'has';
+    const restCount = daysArr.length - withSwap.length;
+    const restClause = restCount > 0
+      ? ` the other ${restCount === 1 ? 'day doesn\'t' : 'days don\'t'}, so plans for ${restCount === 1 ? 'that day' : 'those days'} would stay as scheduled.`
+      : '';
+    answer = `${dayWord} ${dayList} ${haveWord} a listed rain-day alternative to swap in;${restClause}`;
+  } else {
+    answer = 'None of the days in this itinerary have a listed rain-day alternative, so plans would stay as scheduled regardless of weather.';
+  }
+  faq[rainQIdx] = { ...faq[rainQIdx], a: answer };
+}
+
 // One Claude call, then guard + at most one retry. Time/price violations that
 // survive the retry FAIL the whole variant (caller leaves any existing file
 // untouched). A rain-swap leak that survives the retry is downgraded — that
 // day's rainSwapSlug is dropped to null (mutating daysArr in place) rather
-// than shipping the leak.
+// than shipping the leak, and any stale rain-FAQ answer is fixed to match.
 async function generateProse({ city, country, days, daysArr, bySlug, variantId }) {
   let out = await callClaude({ city, country, days, daysArr, bySlug });
   let proseIssues = scanAiOutputProse(out);
@@ -466,8 +556,111 @@ async function generateProse({ city, country, days, daysArr, bySlug, variantId }
       console.log(`  ⚠ ${variantId} — dropping rain-swap for day ${idx + 1} (venue name leaked into written prose after retry)`);
       daysArr[idx].rainSwapSlug = null;
     }
+    fixRainFaqIfStale(out, daysArr, badDayIdx);
   }
 
+  return out;
+}
+
+// ── validator-driven self-correction (round 4) ──────────────────────────────
+// Issue-type allowlist: only these can plausibly be fixed by asking the model
+// to rewrite its wording. Everything else (MISSING-POST, DRAFT-POST,
+// MISSING-COORDS, CLOSED-VENUE, DAY-STOP-COUNT, DAY-BUDGET-EXCEEDED,
+// WALK-TOO-FAR, TRANSIT-MINUTES-PRESENT, DUPLICATE-SLUG, SLOT-TIME-CONFLICT,
+// LUNCH-NOT-RESTAURANT, MISSING-SLUG, PACKED-GATE-FAIL, PARSE-ERROR, ...) is a
+// structural/solver-side fact the prose writer has no ability to change —
+// never retried, fails immediately exactly as before.
+const PROSE_FIXABLE_TYPES = new Set([
+  'STOP-COUNT-CLAIM',
+  'DURATION-CONTRADICTION',
+  'AREA-CLAIM-UNSUPPORTED',
+  'UNIVERSAL-AREA-CLAIM',
+  'PROSE-LEAK',
+  'EMPTY-LABEL',
+  'EMPTY-INTRO',
+  'EMPTY-WHY',
+]);
+
+function issueType(issue) {
+  const m = /^([A-Z-]+):/.exec(String(issue || ''));
+  return m ? m[1] : null;
+}
+
+// True only when there's at least one issue AND every one of them is on the
+// prose-fixable allowlist — a single structural issue in the mix disqualifies
+// the whole batch from correction (matches "never retry those" exactly).
+export function isProseFixable(issues) {
+  return Array.isArray(issues) && issues.length > 0 && issues.every((i) => PROSE_FIXABLE_TYPES.has(issueType(i)));
+}
+
+function getByPath(fm, path) {
+  if (path === 'title') return fm.title;
+  if (path === 'description') return fm.description;
+  if (path === 'quickAnswer') return fm.quickAnswer;
+  let m;
+  if ((m = /^faq\[(\d+)\]\.(a|q)$/.exec(path))) return fm.faq?.[Number(m[1])]?.[m[2]];
+  if ((m = /^itinerary\[(\d+)\]\.label$/.exec(path))) return fm.itinerary?.[Number(m[1])]?.label;
+  if ((m = /^itinerary\[(\d+)\]\.intro$/.exec(path))) return fm.itinerary?.[Number(m[1])]?.intro;
+  return undefined;
+}
+
+function findStopWhy(fm, dayNum, slug) {
+  const stop = fm.itinerary?.[dayNum - 1]?.stops?.find((s) => s.slug === slug);
+  return stop?.why;
+}
+
+// Best-effort extraction of {field, text} context for a validator issue
+// string, so the correction re-prompt can show the model the FULL current
+// sentence to rewrite, not just the flagged sub-phrase. Falls back to no
+// context (the issue string alone is already specific) if the message shape
+// doesn't match a recognized pattern.
+export function contextForIssue(fm, issue) {
+  let m;
+  if ((m = /— (title|description|quickAnswer|faq\[\d+\]\.[aq]|itinerary\[\d+\]\.(?:intro|label))\b/.exec(issue))) {
+    const path = m[1];
+    return [{ field: path, text: getByPath(fm, path) }];
+  }
+  if ((m = /day (\d+) stop "([^"]+)"/.exec(issue))) {
+    const day = Number(m[1]), slug = m[2];
+    return [{ field: `day ${day} stop "${slug}" why`, text: findStopWhy(fm, day, slug) }];
+  }
+  if ((m = /— day (\d+)\b/.exec(issue))) {
+    const day = Number(m[1]);
+    return [
+      { field: `itinerary[${day - 1}].label`, text: fm.itinerary?.[day - 1]?.label },
+      { field: `itinerary[${day - 1}].intro`, text: fm.itinerary?.[day - 1]?.intro },
+    ];
+  }
+  return [];
+}
+
+// The ONE extra correction call (see cap note at the top of the file). Reuses
+// buildPrompt's base (same closed-world venue data) and appends the
+// validator's exact issues plus each one's current field text, asking for a
+// full corrected resubmission.
+async function callClaudeForCorrection({ city, country, days, daysArr, bySlug, fm, issues }) {
+  const contextBlocks = issues
+    .map((issue) => {
+      const ctx = contextForIssue(fm, issue).filter((c) => c.text != null && c.text !== '');
+      const ctxLines = ctx.map((c) => `    current "${c.field}": "${String(c.text).slice(0, 300)}"`).join('\n');
+      return `- ${issue}${ctxLines ? '\n' + ctxLines : ''}`;
+    })
+    .join('\n');
+
+  const prompt = buildPrompt({ city, country, days, daysArr, bySlug }) +
+    `\n\nYOUR PREVIOUS ANSWER WAS REJECTED BY THE ACCURACY VALIDATOR (it checks your prose against the venue ` +
+    `data above only — never against outside knowledge). Fix EXACTLY these issues and change nothing else:\n${contextBlocks}\n\n` +
+    `Resubmit a complete, corrected answer (every field, not just the fixed ones).`;
+
+  const msg = await client.messages.create({
+    model: MODEL,
+    max_tokens: 4000,
+    tools: [TOOL],
+    tool_choice: { type: 'tool', name: 'submit_itinerary' },
+    messages: [{ role: 'user', content: prompt }],
+  });
+  const out = msg.content.find((c) => c.type === 'tool_use')?.input;
+  validateAiOutput(out, daysArr);
   return out;
 }
 
@@ -620,7 +813,7 @@ async function processVariant({ city, country, days, cityPosts, packedAvailable 
     whysMap = aiOut.whys || {};
   }
 
-  const fm = assembleFrontmatter({
+  let fm = assembleFrontmatter({
     city, country, days, result, aiOut, whysMap, stopsHash, packedAvailable,
     existingPubDate: existing?.pubDate || null,
     existingDraft: existing?.draft,
@@ -628,12 +821,36 @@ async function processVariant({ city, country, days, cityPosts, packedAvailable 
   });
 
   const isNewFile = !existing;
-  const tmpPath = await writeItineraryTemp(filePath, fm);
   const label = `${citySlug}-${days}-days.md`;
-  const ok = await sanityCheckTemp(tmpPath, label);
+  let tmpPath = await writeItineraryTemp(filePath, fm);
+  let ok = await sanityCheckTemp(tmpPath, label);
   if (!ok) {
     process.exitCode = 1;
     return { created: false, isNewFile: false };
+  }
+
+  // Pre-flight validate (read-only inspection — doesn't touch the temp file)
+  // so we can attempt ONE prose correction before the authoritative
+  // commitOrRejectTemp call below. Only retries when every reported issue is
+  // prose-fixable; a single structural issue skips straight to rejection.
+  const preflightIssues = await validateItineraryFile(tmpPath, { posts: cityPosts, label });
+  if (preflightIssues.length && isProseFixable(preflightIssues)) {
+    console.log(`  ⚠ ${variantId} — validator found ${preflightIssues.length} prose-fixable issue(s); correcting once`);
+    const correctedOut = await callClaudeForCorrection({ city, country, days, daysArr: result.days, bySlug, fm, issues: preflightIssues });
+    const correctedWhysMap = correctedOut.whys || {};
+    fm = assembleFrontmatter({
+      city, country, days, result, aiOut: correctedOut, whysMap: correctedWhysMap, stopsHash, packedAvailable,
+      existingPubDate: existing?.pubDate || null,
+      existingDraft: existing?.draft,
+      bySlug,
+    });
+    await rm(tmpPath, { force: true });
+    tmpPath = await writeItineraryTemp(filePath, fm);
+    ok = await sanityCheckTemp(tmpPath, label);
+    if (!ok) {
+      process.exitCode = 1;
+      return { created: false, isNewFile: false };
+    }
   }
 
   const { ok: validated } = await commitOrRejectTemp(tmpPath, filePath, { posts: cityPosts, label });

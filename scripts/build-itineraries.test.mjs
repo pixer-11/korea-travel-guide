@@ -8,9 +8,14 @@ import { join } from 'node:path';
 import yaml from 'js-yaml';
 import {
   dayBlock,
+  areaFromAddress,
+  dayAreas,
   findRainSwapLeaks,
   rainVenueTerms,
   validateAiOutput,
+  isProseFixable,
+  contextForIssue,
+  fixRainFaqIfStale,
   stopsHashOf,
   symmetricDiffSize,
   stopSlugSet,
@@ -71,6 +76,132 @@ test('dayBlock: singular "stop" wording for a 1-stop day', () => {
   const bySlug = new Map([['a', { data: { title: 'A', category: 'attraction', place: {} } }]]);
   const block = dayBlock(dayFixture([stopFixture('a', 'morning')]), 0, bySlug);
   assert.match(block, /^Day 1 — 1 stop \(morning\):/);
+});
+
+// ── areaFromAddress / dayAreas (round 4: per-day area injection) ───────────
+
+test('areaFromAddress: extracts the segment before the city (Tokyo-style address)', () => {
+  assert.equal(areaFromAddress('1-1 Yoyogikamizonochō, Shibuya, Tokyo 151-8557, Japan', 'Tokyo'), 'Shibuya');
+});
+
+test('areaFromAddress: extracts the segment before the city (Seoul-style address)', () => {
+  assert.equal(areaFromAddress('161 Sajik-ro, Jongno District, Seoul, South Korea', 'Seoul'), 'Jongno District');
+});
+
+test('areaFromAddress: falls back to the second segment when the city isn\'t found', () => {
+  assert.equal(areaFromAddress('123 Some Road, Pathum Wan, Bangkok 10330, Thailand', 'Nonexistent'), 'Pathum Wan');
+});
+
+test('areaFromAddress: returns null (never invents) for missing or too-short addresses', () => {
+  assert.equal(areaFromAddress('', 'Tokyo'), null);
+  assert.equal(areaFromAddress(undefined, 'Tokyo'), null);
+  assert.equal(areaFromAddress('Sandwiched between Roppongi and Omotesando', 'Tokyo'), null); // no commas
+});
+
+test('dayAreas: distinct areas in stop order, from verified addresses only', () => {
+  const bySlug = new Map([
+    ['a', { data: { place: { address: '1 Rd, Pathum Wan, Bangkok, Thailand' } } }],
+    ['b', { data: { place: { address: '2 Rd, Watthana, Bangkok, Thailand' } } }],
+    ['c', { data: { place: { address: '3 Rd, Pathum Wan, Bangkok, Thailand' } } }], // duplicate area
+  ]);
+  const day = dayFixture([stopFixture('a', 'morning'), stopFixture('b', 'lunch'), stopFixture('c', 'evening')]);
+  assert.deepEqual(dayAreas(day, bySlug, 'Bangkok'), ['Pathum Wan', 'Watthana']);
+});
+
+test('dayBlock: includes an "Areas covered" line built from the stops\' addresses', () => {
+  const bySlug = new Map([
+    ['a', { data: { title: 'A', category: 'attraction', place: { address: '1 Rd, Pathum Wan, Bangkok, Thailand' } } }],
+    ['b', { data: { title: 'B', category: 'restaurant', place: { address: '2 Rd, Watthana, Bangkok, Thailand' } } }],
+  ]);
+  const day = dayFixture([stopFixture('a', 'morning'), stopFixture('b', 'lunch')]);
+  const block = dayBlock(day, 0, bySlug, 'Bangkok');
+  assert.match(block, /Areas covered: Pathum Wan, Watthana/);
+});
+
+test('dayBlock: says so explicitly when no stop has a usable address (never invents an area)', () => {
+  const bySlug = new Map([['a', { data: { title: 'A', category: 'attraction', place: {} } }]]);
+  const block = dayBlock(dayFixture([stopFixture('a', 'morning')]), 0, bySlug, 'Bangkok');
+  assert.match(block, /Areas covered: \(no verified addresses/);
+});
+
+// ── isProseFixable / contextForIssue (round 4: validator self-correction) ──
+
+test('isProseFixable: true when every issue is on the prose-fixable allowlist', () => {
+  assert.equal(isProseFixable([
+    'STOP-COUNT-CLAIM: f — x',
+    'UNIVERSAL-AREA-CLAIM: f — x',
+    'EMPTY-WHY: f — x',
+  ]), true);
+});
+
+test('isProseFixable: false when ANY issue is structural, even if others are prose-fixable', () => {
+  assert.equal(isProseFixable([
+    'STOP-COUNT-CLAIM: f — x',
+    'DAY-BUDGET-EXCEEDED: f — x',
+  ]), false);
+});
+
+test('isProseFixable: false for structural-only and for an empty list', () => {
+  assert.equal(isProseFixable(['MISSING-POST: f — x']), false);
+  assert.equal(isProseFixable([]), false);
+});
+
+test('contextForIssue: resolves a title/description/quickAnswer/faq/day field path', () => {
+  const fm = {
+    title: 'My Title', description: 'My description.', quickAnswer: 'My answer.',
+    faq: [{ q: 'Q?', a: 'The answer text.' }],
+    itinerary: [{ label: 'Day label', intro: 'Day intro text.', stops: [] }],
+  };
+  assert.deepEqual(contextForIssue(fm, 'STOP-COUNT-CLAIM: f — title claims "four stops" but...'), [{ field: 'title', text: 'My Title' }]);
+  assert.deepEqual(contextForIssue(fm, 'STOP-COUNT-CLAIM: f — faq[0].a claims "four stops" but...'), [{ field: 'faq[0].a', text: 'The answer text.' }]);
+  assert.deepEqual(contextForIssue(fm, 'STOP-COUNT-CLAIM: f — itinerary[0].intro claims "four stops" but...'), [{ field: 'itinerary[0].intro', text: 'Day intro text.' }]);
+});
+
+test('contextForIssue: resolves a "day N stop" reference to that stop\'s why', () => {
+  const fm = { itinerary: [{ label: 'L', intro: 'I', stops: [{ slug: 'x', why: 'Why for x.' }] }] };
+  const ctx = contextForIssue(fm, 'DURATION-CONTRADICTION: f — day 1 stop "x" why says "several hours" (~210 min) but dwellMin is 90');
+  assert.deepEqual(ctx, [{ field: 'day 1 stop "x" why', text: 'Why for x.' }]);
+});
+
+test('contextForIssue: resolves a day-only reference to that day\'s label+intro', () => {
+  const fm = { itinerary: [{ label: 'L', intro: 'I', stops: [] }, { label: 'Day 2 label', intro: 'Day 2 intro.', stops: [] }] };
+  const ctx = contextForIssue(fm, 'AREA-CLAIM-UNSUPPORTED: f — day 2 names "Siam Paragon" but no stop of that day attests it');
+  assert.deepEqual(ctx, [
+    { field: 'itinerary[1].label', text: 'Day 2 label' },
+    { field: 'itinerary[1].intro', text: 'Day 2 intro.' },
+  ]);
+});
+
+test('contextForIssue: returns [] for an unrecognized issue shape (no crash)', () => {
+  assert.deepEqual(contextForIssue({}, 'SOMETHING-UNEXPECTED: f — nothing to parse here'), []);
+});
+
+// ── fixRainFaqIfStale (round 4: rain-FAQ staleness fix) ─────────────────────
+
+test('fixRainFaqIfStale: rewrites the rain FAQ answer to match the day that KEPT its swap', () => {
+  const aiOut = { faq: [{ q: 'What if it rains?', a: 'Day one has a listed rain-day alternative restaurant to swap in.' }] };
+  const daysArr = [{ rainSwapSlug: 'kept-venue' }, { rainSwapSlug: null }];
+  fixRainFaqIfStale(aiOut, daysArr, new Set([1])); // day 2 (index 1) was dropped
+  assert.match(aiOut.faq[0].a, /^Day 1 has a listed rain-day alternative/);
+});
+
+test('fixRainFaqIfStale: rewrites to "none" when every rainSwapSlug ended up null', () => {
+  const aiOut = { faq: [{ q: 'What happens if it rains?', a: 'Day one has a rain plan.' }] };
+  const daysArr = [{ rainSwapSlug: null }, { rainSwapSlug: null }];
+  fixRainFaqIfStale(aiOut, daysArr, new Set([0]));
+  assert.match(aiOut.faq[0].a, /^None of the days/);
+});
+
+test('fixRainFaqIfStale: no-op when nothing was dropped', () => {
+  const aiOut = { faq: [{ q: 'What if it rains?', a: 'Original answer.' }] };
+  fixRainFaqIfStale(aiOut, [{ rainSwapSlug: 'x' }], new Set());
+  assert.equal(aiOut.faq[0].a, 'Original answer.');
+});
+
+test('fixRainFaqIfStale: no-op when there\'s no rain-related FAQ entry', () => {
+  const aiOut = { faq: [{ q: 'How much walking?', a: 'Some.' }] };
+  fixRainFaqIfStale(aiOut, [{ rainSwapSlug: null }], new Set([0]));
+  assert.equal(aiOut.faq[0].a, 'Some.');
 });
 
 // ── findRainSwapLeaks (rain-swap isolation, fix 3) ──────────────────────────
