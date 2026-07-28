@@ -1,5 +1,5 @@
 ---
-title: 'Saladaeng in Bangkok'
+title: Saladaeng in Bangkok
 description: 'Saladaeng in Bangkok, Thailand — a new/trending spot: what it is, where it is, and how to visit.'
 country: Thailand
 region: Bangkok
@@ -11,6 +11,13 @@ heroImage:
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Silom_Saladaeng_Soi_1_night_view_Don_Ramey_Logan.jpg
 gallery: []
+place:
+  id: ChIJM4N27S6f4jAR3ykXdNCDeAw
+  name: Sala Daeng Road
+  address: Thanon Sala Daeng, Si Lom, Khet Bang Rak, Krung Thep Maha Nakhon 10500, Thailand
+  googleMapsUrl: https://maps.google.com/?cid=898613056984525279&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  lat: 13.7266044
+  lng: 100.5368115
 tags:
   - bangkok
   - new & trending

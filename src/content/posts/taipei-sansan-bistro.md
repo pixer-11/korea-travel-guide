@@ -11,6 +11,16 @@ heroImage:
   license: foursquare
   source: https://foursquare.com/v/50793e96e4b07018b62b1cef
 gallery: []
+place:
+  id: ChIJP-dotkqrQjQRpaOwby3BwtM
+  name: Sansan Bistro
+  address: No. 170號, Section 2, Dunhua S Rd, Huxiao Village, Da’an District, Taipei City, Taiwan 106
+  rating: 4.8
+  userRatingsTotal: 407
+  googleMapsUrl: https://maps.google.com/?cid=15258970888376198053&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: 25.0241005
+  lng: 121.54830860000001
 tags:
   - taipei
   - new & trending

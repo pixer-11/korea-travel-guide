@@ -10,6 +10,16 @@ heroImage:
   license: foursquare
   source: https://foursquare.com/v/4bb57ea91344b7135b6c9c04
 gallery: []
+place:
+  id: ChIJb4_vGlfnYTURZKvnWLBhDpY
+  name: Gangneung Cafe Street
+  address: Gyeonso-dong, Gangneung-si, Gangwon-do, South Korea
+  rating: 4.3
+  userRatingsTotal: 1860
+  googleMapsUrl: https://maps.google.com/?cid=10812687165396855652&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: 37.7723486
+  lng: 128.9476577
 tags:
   - gangneung
   - coffee street

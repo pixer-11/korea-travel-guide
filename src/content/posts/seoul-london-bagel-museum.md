@@ -1,6 +1,6 @@
 ---
-title: "London Bagel Museum in Seoul"
-description: "London Bagel Museum is Seoul's most talked-about bakery, famous for chewy, creatively topped bagels like Potato Cheese and Brick Lane, and for the hours-long"
+title: London Bagel Museum in Seoul
+description: London Bagel Museum is Seoul's most talked-about bakery, famous for chewy, creatively topped bagels like Potato Cheese and Brick Lane, and for the hours-long
 country: South Korea
 region: Seoul
 category: trendy
@@ -11,6 +11,16 @@ heroImage:
   license: unsplash
   source: https://unsplash.com/@optiny?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
+place:
+  id: ChIJKw66zRCjfDURuaw9qYPdI-k
+  name: London Bagel Museum Anguk
+  address: 20 Bukchon-ro 4-gil, Jongno District, Seoul, South Korea
+  rating: 4.1
+  userRatingsTotal: 2304
+  googleMapsUrl: https://maps.google.com/?cid=16799514592571927737&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: 37.579182599999996
+  lng: 126.98615199999999
 tags:
   - seoul
   - new & trending

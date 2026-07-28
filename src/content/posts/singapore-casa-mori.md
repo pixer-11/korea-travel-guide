@@ -11,6 +11,16 @@ heroImage:
   license: foursquare
   source: https://foursquare.com/v/6a3bbd45c899021bc0650c93
 gallery: []
+place:
+  id: ChIJ_8KxcQ8b2jERAfy_zkIyCg8
+  name: Casa Mori Singapore
+  address: '11 Dempsey Rd, #01-17, Singapore 249673'
+  rating: 4.8
+  userRatingsTotal: 93
+  googleMapsUrl: https://maps.google.com/?cid=1083733922853944321&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: 1.3042341
+  lng: 103.81007919999999
 tags:
   - singapore
   - new & trending

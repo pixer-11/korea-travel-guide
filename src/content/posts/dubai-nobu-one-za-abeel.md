@@ -11,6 +11,16 @@ heroImage:
   license: foursquare
   source: https://foursquare.com/v/6553922bd019fe4b90a2aeff
 gallery: []
+place:
+  id: ChIJS5tOU4dDXz4RY8LgK7wSLjI
+  name: Nobu One Za'abeel
+  address: One - The Link - 24th floor - زعبيل الأولى - زعبيل - دبي - United Arab Emirates
+  rating: 4.6
+  userRatingsTotal: 198
+  googleMapsUrl: https://maps.google.com/?cid=3615848150224388707&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: 25.2275781
+  lng: 55.290918999999995
 tags:
   - dubai
   - new & trending

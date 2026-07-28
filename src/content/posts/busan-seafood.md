@@ -1,6 +1,6 @@
 ---
-title: "Seafood in Busan"
-description: "Busan's seafood scene centers on Jagalchi Market, Korea's largest fish market, where you pick a fresh catch and have it grilled or served as raw hoe"
+title: Seafood in Busan
+description: Busan's seafood scene centers on Jagalchi Market, Korea's largest fish market, where you pick a fresh catch and have it grilled or served as raw hoe
 region: Busan
 category: restaurant
 pubDate: 2026-07-20T00:00:00.000Z
@@ -13,7 +13,7 @@ gallery: []
 tags:
   - busan
   - seafood
-quickAnswer: "Busan's seafood scene centers on Jagalchi Market, Korea's largest fish market, where you pick a fresh catch and have it grilled or served as raw hoe upstairs. Go in the morning for the bustle, pair it with nearby Gukje Market street food, and take Busan Metro Line 1 to Jagalchi Station (exit 10)."
+quickAnswer: Busan's seafood scene centers on Jagalchi Market, Korea's largest fish market, where you pick a fresh catch and have it grilled or served as raw hoe upstairs. Go in the morning for the bustle, pair it with nearby Gukje Market street food, and take Busan Metro Line 1 to Jagalchi Station (exit 10).
 faq:
   - q: What's the best way to get to Jagalchi Market?
     a: Take Busan Metro Line 1 to Jagalchi Station and leave via exit 10; the market is about a 5-minute walk toward the harbor.
@@ -26,7 +26,7 @@ faq:
   - q: Is Jagalchi the only good seafood spot in Busan?
     a: No — Millak Waterside Park near Gwangalli Beach (Metro Line 2, Millak Station) offers raw fish with harbor views, and Gijang, along the Donghae Line, is known for sea urchin and winter crab.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Busan Is Korea's Seafood City

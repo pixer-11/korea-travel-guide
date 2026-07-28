@@ -11,6 +11,16 @@ heroImage:
   license: foursquare
   source: https://foursquare.com/v/6a285f132f1cf70096f7b73f
 gallery: []
+place:
+  id: ChIJ5__0NVRFmRIRXwojBSrPEFw
+  name: StreetXO Ibiza
+  address: Ctra. de Platja d'en Bossa, 10, 07817 Sant Jordi de ses Salines, Illes Balears, Spain
+  rating: 4.8
+  userRatingsTotal: 68
+  googleMapsUrl: https://maps.google.com/?cid=6634030030498499167&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: 38.8845894
+  lng: 1.4035898999999998
 tags:
   - ibiza
   - new & trending

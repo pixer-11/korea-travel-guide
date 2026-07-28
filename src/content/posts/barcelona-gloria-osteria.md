@@ -11,6 +11,16 @@ heroImage:
   license: foursquare
   source: https://foursquare.com/v/68deb3f0c295142e45a73fef
 gallery: []
+place:
+  id: ChIJ7YU7Fn6jpBIRE-ur8uBlBrg
+  name: Gloria Osteria Barcelona
+  address: Carrer d'Enric Granados, 86, Eixample, 08008 Barcelona, Spain
+  rating: 4.8
+  userRatingsTotal: 10953
+  googleMapsUrl: https://maps.google.com/?cid=13260398169657436947&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: 41.3929873
+  lng: 2.1559049
 tags:
   - barcelona
   - new & trending

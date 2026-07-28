@@ -11,6 +11,16 @@ heroImage:
   license: foursquare
   source: https://foursquare.com/v/6a2b90ffa6ff823cbbb1e61f
 gallery: []
+place:
+  id: ChIJvW2-l__DSjAR992DAVFF_h0
+  name: Root House by Gēn 根家菜
+  address: 1926, Heritage Hotel, 227, Jalan Burma, 10050 George Town, Pulau Pinang, Malaysia
+  rating: 4.4
+  userRatingsTotal: 33
+  googleMapsUrl: https://maps.google.com/?cid=2161241085404503543&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: 5.4239455
+  lng: 100.320585
 tags:
   - penang
   - new & trending

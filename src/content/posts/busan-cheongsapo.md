@@ -1,6 +1,6 @@
 ---
-title: "Cheongsapo in Busan"
-description: "Cheongsapo is a small fishing village on Busan''s east coast, tucked between Haeundae and Songjeong, best known for its red-and-white striped lighthouse"
+title: Cheongsapo in Busan
+description: Cheongsapo is a small fishing village on Busan''s east coast, tucked between Haeundae and Songjeong, best known for its red-and-white striped lighthouse
 region: Busan
 category: trendy
 pubDate: 2026-07-20T00:00:00.000Z
@@ -10,6 +10,13 @@ heroImage:
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Cheongsapo.jpg
 gallery: []
+place:
+  id: ChIJpTAE-QSNaDURyTWtiwaaWQA
+  name: Cheongsapo-ro
+  address: Cheongsapo-ro, Haeundae-gu, Busan, South Korea
+  googleMapsUrl: https://maps.google.com/?cid=25220625831114185&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  lat: 35.163485699999995
+  lng: 129.1895262
 tags:
   - busan
   - Cheongsapo

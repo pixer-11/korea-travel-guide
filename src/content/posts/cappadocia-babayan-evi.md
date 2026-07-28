@@ -11,6 +11,16 @@ heroImage:
   license: foursquare
   source: https://foursquare.com/v/51cbf9ba498ed4e430382c65
 gallery: []
+place:
+  id: ChIJ9zQN-ctpKhURYesD9qFugs8
+  name: Babayan Evi Restaurant
+  address: Yukarı, İbrahimpaşa Köyü İç Yolu No:269 D:285, 50400 İbrahimpaşa/Ürgüp/Nevşehir, Türkiye
+  rating: 4.6
+  userRatingsTotal: 149
+  googleMapsUrl: https://maps.google.com/?cid=14952635354719710049&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: 38.598890399999995
+  lng: 34.848416799999995
 tags:
   - cappadocia
   - new & trending

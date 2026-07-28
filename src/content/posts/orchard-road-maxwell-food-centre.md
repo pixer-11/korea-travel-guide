@@ -6,10 +6,10 @@ region: Orchard Road
 category: restaurant
 pubDate: '2026-07-23T07:45:00.433Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Maxwell_Food_Centre.jpg/1920px-Maxwell_Food_Centre.jpg
-  credit: 'Photo: Aaaatu / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Maxwell_Food_Centre.jpg
+  url: https://fastly.4sqi.net/img/general/original/12802501_y6DwmWodyOMAX6irH83AXEhs2EP9vgQ6orPo3xfj1H4.jpg
+  credit: 'Photo: Foursquare user content (Maxwell Food Centre)'
+  license: foursquare
+  source: https://foursquare.com/v/4b1f21a6f964a520432424e3
 gallery: []
 place:
   id: ChIJseQsTQ0Z2jERqpBTWF0Zf84
@@ -60,7 +60,6 @@ faq:
   - q: What's nearby if I want to extend the trip?
     a: Sri Mariamman Temple, Ann Siang Hill, and the Chinatown street markets are all within a short walk, making it easy to build a half-day itinerary around the visit.
 aiGenerated: true
-draft: true
 ---
 
 ## Why this guide exists

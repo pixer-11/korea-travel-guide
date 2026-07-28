@@ -23,6 +23,13 @@ on:
         description: 'Max posts to process this run (1 Places search call each)'
         required: false
         default: ''
+  # No gh CLI on the dev box, so committing data/geocode-trigger is the manual
+  # trigger: its first line is the region argument ('' = all regions). Same
+  # review-per-run intent as workflow_dispatch — the file only changes when a
+  # human (or the controller session) deliberately commits it.
+  push:
+    branches: [main]
+    paths: ['data/geocode-trigger']
 
 permissions:
   contents: write
@@ -45,17 +52,36 @@ jobs:
         env:
           GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
         run: |
+          REGION="${{ github.event.inputs.region }}"
+          # push-trigger path: the region comes from the trigger file's first line
+          if [ -z "$REGION" ] && [ "${{ github.event_name }}" = "push" ] && [ -f data/geocode-trigger ]; then
+            REGION=$(head -1 data/geocode-trigger | tr -d '\r')
+          fi
           args=()
-          if [ -n "${{ github.event.inputs.region }}" ]; then args+=("--region=${{ github.event.inputs.region }}"); fi
+          if [ -n "$REGION" ]; then args+=("--region=$REGION"); fi
           if [ -n "${{ github.event.inputs.limit }}" ]; then args+=("--limit=${{ github.event.inputs.limit }}"); fi
-          node scripts/geocode-placeless.mjs "${args[@]}" | tee /tmp/geocode.log
+          # pipefail: without it the pipeline's exit status is tee's, so a
+          # crashed node (e.g. a missing import) reported SUCCESS with an empty
+          # log — exactly what run 4c72a65 did. 2>&1 puts the crash reason in
+          # the committed log, since Actions logs need auth to read.
+          set -o pipefail
+          node scripts/geocode-placeless.mjs "${args[@]}" 2>&1 | tee /tmp/geocode.log
+
+      # The dev box has no gh CLI and Actions logs need auth, so the run's
+      # SKIPPED/ATTACHED lines are committed as an artifact file — that is how
+      # a human (or the controller session) reviews which venues the confidence
+      # gate rejected and why, per the "review every run" rule above.
+      - name: Save geocode log to repo
+        run: |
+          mkdir -p data/logs
+          cp /tmp/geocode.log data/logs/geocode-last-run.txt
 
       - name: Commit updated posts
         id: commit
         run: |
           git config user.name "content-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add src/content/posts
+          git add src/content/posts data/logs/geocode-last-run.txt
           summary=$(tail -1 /tmp/geocode.log)
           echo "summary=$summary" >> "$GITHUB_OUTPUT"
           if git diff --staged --quiet; then

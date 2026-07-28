@@ -1,6 +1,6 @@
 ---
-title: "Haeundae in Busan"
-description: "Haeundae Beach sits at the end of Busan Metro Line 2 (Haeundae Station, Exit 3 or 5, then a 10–15 minute walk down Guemgangno or Haeundaehaebyeon-ro), with"
+title: Haeundae in Busan
+description: Haeundae Beach sits at the end of Busan Metro Line 2 (Haeundae Station, Exit 3 or 5, then a 10–15 minute walk down Guemgangno or Haeundaehaebyeon-ro), with
 region: Busan
 category: attraction
 pubDate: 2026-07-20T00:00:00.000Z
@@ -10,6 +10,13 @@ heroImage:
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Busan_Haeundae_Centum_City.jpg
 gallery: []
+place:
+  id: ChIJFaft2p-NaDURpWUIUUDNxCE
+  name: Haeundae-gu
+  address: Haeundae-gu, Busan, South Korea
+  googleMapsUrl: https://maps.google.com/?cid=2433295374808016293&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  lat: 35.1719465
+  lng: 129.17410379999998
 tags:
   - busan
   - Haeundae

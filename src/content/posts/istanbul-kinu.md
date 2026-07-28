@@ -11,6 +11,16 @@ heroImage:
   license: foursquare
   source: https://foursquare.com/v/69174a2bb0526a28831c6067
 gallery: []
+place:
+  id: ChIJK8B_Fia3yhQRmySyReiPzP4
+  name: kinu matcha bar
+  address: 'Kuloğlu, Faik Paşa Cd. No: 29/A, 34433 Beyoğlu/İstanbul, Türkiye'
+  rating: 4.8
+  userRatingsTotal: 100
+  googleMapsUrl: https://maps.google.com/?cid=18360208008647156891&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: 41.0324509
+  lng: 28.9809127
 tags:
   - istanbul
   - new & trending

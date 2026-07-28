@@ -11,6 +11,16 @@ heroImage:
   license: foursquare
   source: https://foursquare.com/v/697e11d5e7dd691fbc009148
 gallery: []
+place:
+  id: ChIJb0ko4_xDXz4RrOW2NKjou8k
+  name: Barrafina Restaurant DIFC
+  address: Gate Village 01, Podium Level, Building 1 - زعبيل الثانية - DIFC - دبي - United Arab Emirates
+  rating: 4.4
+  userRatingsTotal: 96
+  googleMapsUrl: https://maps.google.com/?cid=14536468031404959148&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: 25.2132629
+  lng: 55.282391700000005
 tags:
   - dubai
   - new & trending

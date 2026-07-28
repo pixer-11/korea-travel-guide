@@ -1,6 +1,6 @@
 ---
-title: "Donggung And Wolji in Gyeongju"
-description: "Donggung and Wolji is a reconstructed royal palace complex and man-made pond in Gyeongju, best visited at dusk when the restored pavilions light up and"
+title: Donggung And Wolji in Gyeongju
+description: Donggung and Wolji is a reconstructed royal palace complex and man-made pond in Gyeongju, best visited at dusk when the restored pavilions light up and
 region: Gyeongju
 category: attraction
 pubDate: 2026-07-20T00:00:00.000Z
@@ -10,6 +10,16 @@ heroImage:
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Water_reflection_of_Donggung_Palace_in_Wolji_Pond_at_blue_hour_in_Gyeongju_South_Korea.jpg
 gallery: []
+place:
+  id: ChIJ9SUiOHBOZjUR_YnH8Lbjzt0
+  name: Donggung Palace & Wolji Pond
+  address: 102 Wonhwa-ro, Gyeongju, Gyeongsangbuk-do, South Korea
+  rating: 4.5
+  userRatingsTotal: 20599
+  googleMapsUrl: https://maps.google.com/?cid=15982962502447630845&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: 35.8348173
+  lng: 129.2265645
 tags:
   - gyeongju
   - Donggung and Wolji

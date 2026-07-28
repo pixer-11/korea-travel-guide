@@ -1,0 +1,6 @@
+SKIPPED (closed (businessStatus=CLOSED_TEMPORARILY)): seoul-cafe-3-stripes-seoul.md
+ATTACHED: seoul-euljiro.md ← Eulji-ro
+SKIPPED (closed (businessStatus=CLOSED_PERMANENTLY)): seoul-hakusi.md
+SKIPPED (name mismatch — "Seongsu Cafes" vs result name "Highline"): seoul-seongsu-cafes.md
+
+GEOCODE RESULT: attached 1, skipped 3 of 4

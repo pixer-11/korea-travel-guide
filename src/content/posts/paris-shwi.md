@@ -11,6 +11,16 @@ heroImage:
   license: foursquare
   source: https://foursquare.com/v/69f25221b6017e2fe578a235
 gallery: []
+place:
+  id: ChIJ27AVGK5v5kcRb_4bpLIQXRI
+  name: SHWI Canal
+  address: 60 Rue de Lancry, 75010 Paris, France
+  rating: 4.2
+  userRatingsTotal: 335
+  googleMapsUrl: https://maps.google.com/?cid=1323232224960314991&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: 48.8726674
+  lng: 2.3635672
 tags:
   - paris
   - new & trending

@@ -11,6 +11,16 @@ heroImage:
   license: foursquare
   source: https://foursquare.com/v/69e6fac56f675e5ea46fa556
 gallery: []
+place:
+  id: ChIJ_SMqd5aNGGARK71nsl_7w8w
+  name: LENOX HOUSE
+  address: Japan, 〒151-0053 Tokyo, Shibuya, Yoyogi, 4-chōme−9−１ feel参宮橋 1階
+  rating: 3.9
+  userRatingsTotal: 25
+  googleMapsUrl: https://maps.google.com/?cid=14754913192629484843&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: 35.6780961
+  lng: 139.6923945
 tags:
   - tokyo
   - new & trending

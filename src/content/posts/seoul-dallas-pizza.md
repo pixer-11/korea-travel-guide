@@ -11,6 +11,16 @@ heroImage:
   license: foursquare
   source: https://foursquare.com/v/56babf3f498e54e145ce9fd4
 gallery: []
+place:
+  id: ChIJNYchyFuffDURxFE7PFYMfX0
+  name: Dallas Pizza
+  address: 14-81번지 Mullae-dong 2(i)-ga, Yeongdeungpo District, Seoul, South Korea
+  rating: 4.9
+  userRatingsTotal: 222
+  googleMapsUrl: https://maps.google.com/?cid=9042397191347065284&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: 37.5134178
+  lng: 126.89482419999999
 tags:
   - seoul
   - new & trending

@@ -11,6 +11,16 @@ heroImage:
   license: foursquare
   source: https://foursquare.com/v/5e04f7f1bc7b8000086f49b0
 gallery: []
+place:
+  id: ChIJhazqsPa3yhQRWNzo3ScR25k
+  name: TURK FATIH TUTAK
+  address: Cumhuriyet Hacıahmet Silahşör Cad, Cumhuriyet, Yeniyol Sk. No:2, 34440 Şişli/İstanbul, Türkiye
+  rating: 4.7
+  userRatingsTotal: 1165
+  googleMapsUrl: https://maps.google.com/?cid=11086473770627030104&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: 41.058341899999995
+  lng: 28.977767299999996
 tags:
   - istanbul
   - new & trending

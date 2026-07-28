@@ -6,11 +6,21 @@ region: Tokyo
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/87388367_8P_skR-il1wkw8DH2za8w1xzxbW6LTAI97sx2_WNQLg.jpg
+  url: https://fastly.4sqi.net/img/general/original/87388367_nUotSsJyC8CvOrLob6Ipcdl6bYHZ_Pt5YHqrbxWoiAk.jpg
   credit: 'Photo: Foursquare user content (Oxomoco (オショモコ))'
   license: foursquare
   source: https://foursquare.com/v/5f03d9cad6e0d407d33aa09a
 gallery: []
+place:
+  id: ChIJ0y3_b4eLGGAR6q6oerLsBDo
+  name: OXOMOCO
+  address: Japan, 〒106-0032 Tokyo, Minato City, Roppongi, 6-chōme−10−２ 六本木ヒルズ West Walk, 1F
+  rating: 4.3
+  userRatingsTotal: 153
+  googleMapsUrl: https://maps.google.com/?cid=4180726605412871914&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: 35.6611207
+  lng: 139.7286823
 tags:
   - tokyo
   - new & trending

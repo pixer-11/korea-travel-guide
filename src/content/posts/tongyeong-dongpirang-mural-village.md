@@ -10,6 +10,16 @@ heroImage:
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Korea-Tongyeong-Dongpirang_Village-10.jpg
 gallery: []
+place:
+  id: ChIJqdlILhXHbjURNX9wrCyu260
+  name: Dongpirang Mural Village
+  address: 6-18 Dongpirang 1-gil, Dongho-dong, Tongyeong-si, Gyeongsangnam-do, South Korea
+  rating: 4
+  userRatingsTotal: 7766
+  googleMapsUrl: https://maps.google.com/?cid=12527798295356014389&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: 34.8456408
+  lng: 128.4276137
 tags:
   - tongyeong
   - Dongpirang mural village
