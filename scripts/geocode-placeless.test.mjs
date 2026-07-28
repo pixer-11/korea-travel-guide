@@ -60,6 +60,55 @@ test('nameGatePass rejects an unrelated venue name', () => {
   assert.equal(nameGatePass(tmp, 'Seoul', 'Bukchon Hanok Village'), false);
 });
 
+// ── gate (b) fix round 2: separator/spacing variants of the SAME place ──
+// The token check splits on hyphens/spaces, so "Euljiro" vs "Eulji-ro"
+// tokenizes to disjoint sets ({euljiro} vs {eulji, ro}) and used to be
+// rejected as a false negative even though they name the same place. The
+// fold-and-contains path added in fix round 2 catches these.
+
+test('nameGatePass ACCEPTS "Euljiro" vs result "Eulji-ro" (separator variant, same place)', () => {
+  const tmp = titleMainPart('Euljiro in Seoul', 'Seoul');
+  assert.equal(nameGatePass(tmp, 'Seoul', 'Eulji-ro'), true);
+});
+
+test('nameGatePass ACCEPTS "Saladaeng" vs result "Sala Daeng Road" (spacing variant, same place)', () => {
+  const tmp = titleMainPart('Saladaeng in Bangkok', 'Bangkok');
+  assert.equal(nameGatePass(tmp, 'Bangkok', 'Sala Daeng Road'), true);
+});
+
+test('nameGatePass still REJECTS "Seongsu Cafes" vs unrelated result "Highline"', () => {
+  const tmp = titleMainPart('Seongsu Cafes in Seoul', 'Seoul');
+  assert.equal(nameGatePass(tmp, 'Seoul', 'Highline'), false);
+});
+
+test('nameGatePass still REJECTS "Local Restaurant" vs unrelated result "Rui"', () => {
+  const tmp = titleMainPart('Local Restaurant in Gangneung', 'Gangneung');
+  assert.equal(nameGatePass(tmp, 'Gangneung', 'Rui'), false);
+});
+
+test('nameGatePass still REJECTS "Hidden Gem" vs unrelated result "Jeonju Hanok Village"', () => {
+  const tmp = titleMainPart('Hidden Gem in Jeonju', 'Jeonju');
+  assert.equal(nameGatePass(tmp, 'Jeonju', 'Jeonju Hanok Village'), false);
+});
+
+test('nameGatePass still REJECTS "K-Drama Filming Site" vs unrelated result "Hometown Cha Cha Cha (Filming Location)"', () => {
+  const tmp = titleMainPart('K-Drama Filming Site in Pohang', 'Pohang');
+  assert.equal(nameGatePass(tmp, 'Pohang', 'Hometown Cha Cha Cha (Filming Location)'), false);
+});
+
+test('nameGatePass short-name guard: "Luna" (4 chars, under MIN_SUBSTRING_LEN) does not substring-match "Lunar Park Zagreb"', () => {
+  const tmp = titleMainPart('Luna in Rome', 'Rome');
+  assert.equal(tmp, 'Luna');
+  assert.equal(nameGatePass(tmp, 'Rome', 'Lunar Park Zagreb'), false);
+});
+
+test('nameGatePass fold-and-contains also folds away diacritics (NFKD)', () => {
+  // Chosen so the token path (word split on stopwords/region) genuinely
+  // fails first and only the diacritic-folding substring path can pass it.
+  const tmp = titleMainPart('Émile in Paris', 'Paris');
+  assert.equal(nameGatePass(tmp, 'Paris', 'Emile'), true);
+});
+
 // ── gate (a)+(b) combined: the Oxomoco Brooklyn trap ────────────────────
 
 test('evaluateGate rejects "Oxomoco in Tokyo" matched to the Brooklyn NY restaurant via gate (a), even though the name matches', () => {

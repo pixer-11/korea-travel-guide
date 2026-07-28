@@ -70,8 +70,31 @@ function normTokens(text) {
     .filter(Boolean);
 }
 
-// Gate (b): ≥50% of the significant tokens of titleMainPart appear in the
-// result's displayName, OR displayName's tokens are a subset of the title's.
+// lowercase, NFKD-fold diacritics away, strip EVERY non-alphanumeric
+// (spaces, hyphens, apostrophes, parens, ...) — used for the separator/
+// spacing-variant substring check below, e.g. "Euljiro" vs "Eulji-ro" or
+// "Saladaeng" vs "Sala Daeng Road" should read as the same string.
+function foldAlnum(text) {
+  return String(text || '')
+    .normalize('NFKD')
+    .replace(/\p{Mn}/gu, '') // strip combining diacritical marks left behind by NFKD (Unicode "Mark, nonspacing")
+    .toLowerCase()
+    .replace(/[^a-z0-9]/g, '');
+}
+
+// Below this length on the SHORTER side, a substring match is too likely to
+// be a coincidence (e.g. "Luna" inside "Lunar Park Zagreb") — don't use it.
+const MIN_SUBSTRING_LEN = 5;
+
+// Gate (b): PASS if either —
+//  1. ≥50% of the significant tokens of titleMainPart appear in the result's
+//     displayName, OR displayName's tokens are a subset of the title's; OR
+//  2. after folding both sides to bare lowercase alphanumerics (diacritics
+//     stripped, every separator removed), one string contains the other —
+//     this catches pure separator/spacing variants of the SAME name
+//     ("Euljiro" / "Eulji-ro", "Saladaeng" / "Sala Daeng Road") that the
+//     token check misses because it splits ON those separators. Guarded by
+//     MIN_SUBSTRING_LEN so short names can't substring-match by accident.
 export function nameGatePass(tmp, region, displayName) {
   const regionTokens = new Set(normTokens(region));
   const titleTokens = normTokens(tmp).filter((t) => !STOPWORDS.has(t) && !regionTokens.has(t));
@@ -82,7 +105,16 @@ export function nameGatePass(tmp, region, displayName) {
   const overlapRatio = hits / titleTokens.length;
   const titleTokenSet = new Set(titleTokens);
   const subsetOk = nameTokens.every((t) => titleTokenSet.has(t) || STOPWORDS.has(t) || regionTokens.has(t));
-  return overlapRatio >= 0.5 || subsetOk;
+  if (overlapRatio >= 0.5 || subsetOk) return true;
+
+  const foldedTitle = foldAlnum(tmp);
+  const foldedName = foldAlnum(displayName);
+  const shorterLen = Math.min(foldedTitle.length, foldedName.length);
+  if (shorterLen >= MIN_SUBSTRING_LEN && (foldedTitle.includes(foldedName) || foldedName.includes(foldedTitle))) {
+    return true;
+  }
+
+  return false;
 }
 
 // Gate (c): if businessStatus is present it must not be a CLOSED_* value.
