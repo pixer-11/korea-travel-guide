@@ -60,7 +60,12 @@ jobs:
           args=()
           if [ -n "$REGION" ]; then args+=("--region=$REGION"); fi
           if [ -n "${{ github.event.inputs.limit }}" ]; then args+=("--limit=${{ github.event.inputs.limit }}"); fi
-          node scripts/geocode-placeless.mjs "${args[@]}" | tee /tmp/geocode.log
+          # pipefail: without it the pipeline's exit status is tee's, so a
+          # crashed node (e.g. a missing import) reported SUCCESS with an empty
+          # log — exactly what run 4c72a65 did. 2>&1 puts the crash reason in
+          # the committed log, since Actions logs need auth to read.
+          set -o pipefail
+          node scripts/geocode-placeless.mjs "${args[@]}" 2>&1 | tee /tmp/geocode.log
 
       # The dev box has no gh CLI and Actions logs need auth, so the run's
       # SKIPPED/ATTACHED lines are committed as an artifact file — that is how
