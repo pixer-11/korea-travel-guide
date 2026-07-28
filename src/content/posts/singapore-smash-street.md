@@ -11,6 +11,16 @@ heroImage:
   license: foursquare
   source: https://foursquare.com/v/69d8f55c73ca0576a90e9284
 gallery: []
+place:
+  id: ChIJ9zBNNG8Z2jER2JAM0WTfPRs
+  name: Smash Street
+  address: 50 Amoy St, Singapore 069876
+  rating: 4.6
+  userRatingsTotal: 349
+  googleMapsUrl: https://maps.google.com/?cid=1962970636700389592&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: 1.2802641
+  lng: 103.8468326
 tags:
   - singapore
   - new & trending

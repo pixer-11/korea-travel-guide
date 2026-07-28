@@ -11,6 +11,16 @@ heroImage:
   license: foursquare
   source: https://foursquare.com/v/4c550383728920a19f45ac83
 gallery: []
+place:
+  id: ChIJKwd_WgBF0i0RJpCkORRpfdg
+  name: PAK GULA
+  address: Jl. Pantai Bingin No.05, Pecatu, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia
+  rating: 4.9
+  userRatingsTotal: 66
+  googleMapsUrl: https://maps.google.com/?cid=15599740219868614694&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: -8.8080593
+  lng: 115.11512580000002
 tags:
   - bali
   - new & trending

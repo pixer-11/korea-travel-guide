@@ -1,16 +1,26 @@
 ---
-title: "Luna in Rome"
-description: "Luna is a 2025 specialty coffee-and-brunch spot near Piazza Barberini, opened by the team behind Faro and Aliena Coffee Roasters, pairing a serious espresso"
+title: Luna in Rome
+description: Luna is a 2025 specialty coffee-and-brunch spot near Piazza Barberini, opened by the team behind Faro and Aliena Coffee Roasters, pairing a serious espresso
 country: Italy
 region: Rome
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ceiling_Giolitti_Ice_Creams%2C_Rome%2C_Italy.jpg/1920px-Ceiling_Giolitti_Ice_Creams%2C_Rome%2C_Italy.jpg"
-  credit: "Photo: Jebulon / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Ceiling_Giolitti_Ice_Creams,_Rome,_Italy.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ceiling_Giolitti_Ice_Creams%2C_Rome%2C_Italy.jpg/1920px-Ceiling_Giolitti_Ice_Creams%2C_Rome%2C_Italy.jpg
+  credit: 'Photo: Jebulon / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Ceiling_Giolitti_Ice_Creams,_Rome,_Italy.jpg
 gallery: []
+place:
+  id: ChIJaz0BeQBhLxMRHy7J8z89YRI
+  name: LUNA by Faro - Caffè Specialty
+  address: Via delle Quattro Fontane, 175, 00184 Roma RM, Italy
+  rating: 4.5
+  userRatingsTotal: 988
+  googleMapsUrl: https://maps.google.com/?cid=1324407110305918495&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: 41.9031972
+  lng: 12.4884338
 tags:
   - rome
   - new & trending

@@ -11,6 +11,16 @@ heroImage:
   license: foursquare
   source: https://foursquare.com/v/67de929b42361a664ebb86d8
 gallery: []
+place:
+  id: ChIJIadF-Q-Z4jARaMI8nbZoV8o
+  name: Khao San Sek (ข้าวสารเสก)
+  address: 1121 1123 Song Wat Rd, Khwaeng Samphanthawong, Khet Samphanthawong, Krung Thep Maha Nakhon 10100, Thailand
+  rating: 4.4
+  userRatingsTotal: 227
+  googleMapsUrl: https://maps.google.com/?cid=14580237452166611560&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: 13.7366864
+  lng: 100.5102656
 tags:
   - bangkok
   - new & trending

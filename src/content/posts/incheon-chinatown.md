@@ -1,6 +1,6 @@
 ---
-title: "Chinatown in Incheon"
-description: "Incheon''s Chinatown sits right outside Incheon Station (Line 1, Exit 1) and is best treated as a half-day trip: wander the red-lantern-lined slope of"
+title: Chinatown in Incheon
+description: 'Incheon''''s Chinatown sits right outside Incheon Station (Line 1, Exit 1) and is best treated as a half-day trip: wander the red-lantern-lined slope of'
 region: Incheon
 category: hidden-gem
 pubDate: 2026-07-20T00:00:00.000Z
@@ -10,6 +10,16 @@ heroImage:
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Chinatown,_incheon_20230430_002.jpg
 gallery: []
+place:
+  id: ChIJ14998Jp4ezURyTMW5UI09Jc
+  name: Incheon Chinatown
+  address: 12-17 Chinatown-ro 26beon-gil, Jung-gu, Incheon, South Korea
+  rating: 4
+  userRatingsTotal: 13284
+  googleMapsUrl: https://maps.google.com/?cid=10949434055960441801&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: 37.475589
+  lng: 126.61788489999999
 tags:
   - incheon
   - Chinatown

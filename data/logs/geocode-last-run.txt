@@ -1,9 +1,53 @@
+ATTACHED: bali-bingin-uluwatu-pak-gula.md ← PAK GULA
+ATTACHED: bali-bukit-peninsula-uluwatu-avli.md ← AVLI Uluwatu - Modern Greek
+ATTACHED: bali-cure-bali.md ← CURE Bali
+ATTACHED: bangkok-khao-san-sek.md ← Khao San Sek (ข้าวสารเสก)
+SKIPPED (name mismatch — "Saladaeng" vs result name "Sala Daeng Road"): bangkok-saladaeng.md
+ATTACHED: bangkok-somsak.md ← Somsak
+ATTACHED: barcelona-gloria-osteria.md ← Gloria Osteria Barcelona
+ATTACHED: busan-cheongsapo.md ← Cheongsapo-ro
+ATTACHED: busan-haeundae.md ← Haeundae-gu
+SKIPPED (name mismatch — "Sightseeing" vs result name "Gamcheon Culture Village"): busan-sightseeing.md
+ATTACHED: cappadocia-babayan-evi.md ← Babayan Evi Restaurant
+SKIPPED (name mismatch — "Trendy Cafe" vs result name "Ryu Coffee Roasters"): daegu-trendy-cafe.md
+SKIPPED (name mismatch — "Bamboo Forest" vs result name "Juknokwon"): damyang-bamboo-forest.md
+ATTACHED: dubai-barrafina.md ← Barrafina Restaurant DIFC
+ATTACHED: dubai-nobu-one-za-abeel.md ← Nobu One Za'abeel
+ATTACHED: gangneung-coffee-street.md ← Gangneung Cafe Street
+SKIPPED (name mismatch — "Local Restaurant" vs result name "Rui"): gangneung-local-restaurant.md
+ATTACHED: gyeongju-donggung-and-wolji.md ← Donggung Palace & Wolji Pond
+SKIPPED (name mismatch — "History" vs result name "Gyeongju National Museum"): gyeongju-history.md
+ATTACHED: gyeongju-hwangnidan-gil.md ← Hwangnidan-gil Street
+ATTACHED: ibiza-streetxo-ibiza.md ← StreetXO Ibiza
+ATTACHED: incheon-chinatown.md ← Incheon Chinatown
+ATTACHED: istanbul-kinu.md ← kinu matcha bar
+ATTACHED: istanbul-sen-den-restaurant.md ← sen‘den
+ATTACHED: istanbul-turk-fatih-tutak.md ← TURK FATIH TUTAK
+ATTACHED: jeonju-hanok-village.md ← Jeonju Hanok Village
+SKIPPED (name mismatch — "Hidden Gem" vs result name "Jeonju Hanok Village"): jeonju-hidden-gem.md
+ATTACHED: los-angeles-bad-roman.md ← Bad Roman
+ATTACHED: new-york-city-ci-siamo.md ← Ci Siamo
+ATTACHED: paju-heyri-art-village.md ← Paju Heyri Art Village
+ATTACHED: paris-shwi.md ← SHWI Canal
+ATTACHED: penang-root-house-by-gen.md ← Root House by Gēn 根家菜
+SKIPPED (name mismatch — "K-Drama Filming Site" vs result name "Hometown Cha Cha Cha (Filming Location)"): pohang-k-drama-filming-site.md
+SKIPPED (closed (businessStatus=CLOSED_PERMANENTLY)): rome-futura.md
+ATTACHED: rome-luna.md ← LUNA by Faro - Caffè Specialty
 SKIPPED (closed (businessStatus=CLOSED_TEMPORARILY)): seoul-cafe-3-stripes-seoul.md
-ATTACHED: seoul-dallas-pizza.md ← Dallas Pizza
 SKIPPED (name mismatch — "Euljiro" vs result name "Eulji-ro"): seoul-euljiro.md
 SKIPPED (closed (businessStatus=CLOSED_PERMANENTLY)): seoul-hakusi.md
-ATTACHED: seoul-ikseon-dong.md ← Ikseon-dong
-ATTACHED: seoul-london-bagel-museum.md ← London Bagel Museum Anguk
 SKIPPED (name mismatch — "Seongsu Cafes" vs result name "Highline"): seoul-seongsu-cafes.md
+SKIPPED (name mismatch — "Goodbai Cafe" vs result name "Memory Cafe Bar"): shanghai-goodbai-cafe.md
+SKIPPED (no search results for "VICE Shanghai"): shanghai-vice.md
+ATTACHED: singapore-bouillon-gavroche.md ← Bouillon Gavroche
+ATTACHED: singapore-casa-mori.md ← Casa Mori Singapore
+ATTACHED: singapore-smash-street.md ← Smash Street
+ATTACHED: suncheon-suncheon-bay.md ← Suncheon Bay
+ATTACHED: suwon-hwaseong-fortress.md ← Suwon Hwaseong Fortress
+ATTACHED: taipei-sansan-bistro.md ← Sansan Bistro
+ATTACHED: tokyo-lenox-house.md ← LENOX HOUSE
+ATTACHED: tokyo-oxomoco.md ← OXOMOCO
+ATTACHED: tokyo-smith-wollensky.md ← Smith & Wollensky GINZA
+ATTACHED: tongyeong-dongpirang-mural-village.md ← Dongpirang Mural Village
 
-GEOCODE RESULT: attached 3, skipped 4 of 7
+GEOCODE RESULT: attached 36, skipped 15 of 51

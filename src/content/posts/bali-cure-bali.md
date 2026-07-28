@@ -11,6 +11,16 @@ heroImage:
   license: foursquare
   source: https://foursquare.com/v/6a12e8872e47383aa224f78d
 gallery: []
+place:
+  id: ChIJe0QkbABH0i0RTLK3-rLSogI
+  name: CURE Bali
+  address: Jl. Munduk Catu, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361, Indonesia
+  rating: 4.9
+  userRatingsTotal: 157
+  googleMapsUrl: https://maps.google.com/?cid=189945800455336524&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: -8.6571981
+  lng: 115.12829409999998
 tags:
   - bali
   - new & trending

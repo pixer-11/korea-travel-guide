@@ -10,6 +10,16 @@ heroImage:
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Art-Service_Studio,_Heyri.jpg
 gallery: []
+place:
+  id: ChIJcTadCoqLfDURjHexFkzDstI
+  name: Paju Heyri Art Village
+  address: 82-105 Heyrimaeul-gil, Tanhyeon-myeon, Paju-si, Gyeonggi-do, South Korea
+  rating: 4
+  userRatingsTotal: 8116
+  googleMapsUrl: https://maps.google.com/?cid=15182412025385023372&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: 37.788841399999995
+  lng: 126.69872199999999
 tags:
   - paju
   - Heyri Art Village

@@ -10,6 +10,15 @@ heroImage:
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Suncheon_Bay_Ecological_Park_-_Flickr_-_cc.photoshare_(4).jpg
 gallery: []
+place:
+  id: ChIJFUq6TVMIbjURkptt4_ud7UA
+  name: Suncheon Bay
+  address: Suncheon Bay, Suncheon-si
+  rating: 4.2
+  userRatingsTotal: 5
+  googleMapsUrl: https://maps.google.com/?cid=4678569293085776786&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  lat: 34.8862607
+  lng: 127.5105854
 tags:
   - suncheon
   - Suncheon Bay

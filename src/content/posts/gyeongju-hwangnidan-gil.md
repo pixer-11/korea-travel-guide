@@ -1,6 +1,6 @@
 ---
-title: "Hwangnidan-Gil in Gyeongju"
-description: "Hwangnidan-gil is Gyeongju''s trendiest strip of cafes, hanbok rental shops, and boutiques, tucked into a low-rise residential neighborhood a short walk"
+title: Hwangnidan-Gil in Gyeongju
+description: Hwangnidan-gil is Gyeongju''s trendiest strip of cafes, hanbok rental shops, and boutiques, tucked into a low-rise residential neighborhood a short walk
 region: Gyeongju
 category: trendy
 pubDate: 2026-07-20T00:00:00.000Z
@@ -10,6 +10,16 @@ heroImage:
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Hwangnidan-gil_02.jpg
 gallery: []
+place:
+  id: ChIJA8nY8ExPZjURPC-8kcf4l4E
+  name: Hwangnidan-gil Street
+  address: South Korea, Gyeongsangbuk-do, Gyeongju, 황남동 Poseok-ro, 일대
+  rating: 4.2
+  userRatingsTotal: 7756
+  googleMapsUrl: https://maps.google.com/?cid=9338205888403222332&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: 35.837660899999996
+  lng: 129.209724
 tags:
   - gyeongju
   - Hwangnidan-gil

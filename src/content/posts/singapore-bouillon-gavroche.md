@@ -11,6 +11,16 @@ heroImage:
   license: foursquare
   source: https://foursquare.com/v/69f5cd250fc5a5628ee167dd
 gallery: []
+place:
+  id: ChIJ71k9NkIZ2jERiLWVC5QUHag
+  name: Bouillon Gavroche
+  address: '333A Orchard Rd, #01-16/17, Singapore 238897'
+  rating: 4.4
+  userRatingsTotal: 105
+  googleMapsUrl: https://maps.google.com/?cid=12113861198778578312&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: 1.3020467
+  lng: 103.83663179999999
 tags:
   - singapore
   - new & trending

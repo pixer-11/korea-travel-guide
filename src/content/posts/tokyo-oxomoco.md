@@ -11,6 +11,16 @@ heroImage:
   license: foursquare
   source: https://foursquare.com/v/5f03d9cad6e0d407d33aa09a
 gallery: []
+place:
+  id: ChIJ0y3_b4eLGGAR6q6oerLsBDo
+  name: OXOMOCO
+  address: Japan, 〒106-0032 Tokyo, Minato City, Roppongi, 6-chōme−10−２ 六本木ヒルズ West Walk, 1F
+  rating: 4.3
+  userRatingsTotal: 153
+  googleMapsUrl: https://maps.google.com/?cid=4180726605412871914&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: 35.6611207
+  lng: 139.7286823
 tags:
   - tokyo
   - new & trending

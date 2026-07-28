@@ -11,6 +11,16 @@ heroImage:
   license: foursquare
   source: https://foursquare.com/v/680f8d9a38419943f01e8f02
 gallery: []
+place:
+  id: ChIJz5JqTwCf4jARL41kMcrveK4
+  name: Somsak
+  address: 1319 Sukhumvit Rd, Khwaeng Phra Khanong Nuea, Watthana, Krung Thep Maha Nakhon 10110, Thailand
+  rating: 4.8
+  userRatingsTotal: 718
+  googleMapsUrl: https://maps.google.com/?cid=12572062011495845167&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: 13.7202108
+  lng: 100.58495409999999
 tags:
   - bangkok
   - new & trending

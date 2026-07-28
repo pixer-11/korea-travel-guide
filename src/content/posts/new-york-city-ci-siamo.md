@@ -11,6 +11,16 @@ heroImage:
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Ci_Siamo_NYC.jpg
 gallery: []
+place:
+  id: ChIJ_ci7bvdZwokRsL4rlCOqsMk
+  name: Ci Siamo
+  address: 440 W 33rd St Ste 100, New York, NY 10001, USA
+  rating: 4.6
+  userRatingsTotal: 2368
+  googleMapsUrl: https://maps.google.com/?cid=14533303067311062704&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: 40.7526152
+  lng: -73.9989141
 tags:
   - new york city
   - new & trending

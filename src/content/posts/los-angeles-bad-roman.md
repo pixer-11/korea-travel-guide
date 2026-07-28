@@ -11,6 +11,16 @@ heroImage:
   license: foursquare
   source: https://foursquare.com/v/6a17b63d9213a20938310f3e
 gallery: []
+place:
+  id: ChIJxZ7z6Y27woARW2zeBgk1QKk
+  name: Bad Roman
+  address: 267 N Canon Dr, Beverly Hills, CA 90210, USA
+  rating: 4.7
+  userRatingsTotal: 34
+  googleMapsUrl: https://maps.google.com/?cid=12195806103805520987&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: 34.0688463
+  lng: -118.3995601
 tags:
   - los angeles
   - new & trending
