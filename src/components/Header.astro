@@ -64,11 +64,16 @@ const navGroups = CONT_ORDER
             </div>
           ))}
           <a href={localizePath('/destinations', lang)} class="nav-dd-all">{t('nav.allDestinations')} →</a>
+          {/* "When to go" is a where/when-to-travel tool, so it belongs beside the
+              destination list rather than competing for a top-level slot — that
+              slot now goes to itineraries, the thing this site has that plain
+              guide blogs don't. Keeps the bar at 5 items (mobile-safe). */}
+          <a href={localizePath('/tools/best-time', lang)} class="nav-dd-all">{t('nav.tools')} →</a>
         </div>
       </div>
+      <a href={localizePath('/itinerary', lang)}>{t('nav.itineraries')}</a>
       <a href={localizePath('/events', lang)}>{t('nav.events')}</a>
       <a href={localizePath('/flights', lang)}>{t('nav.flights')}</a>
-      <a href={localizePath('/tools/best-time', lang)}>{t('nav.tools')}</a>
       <a href={localizePath('/about', lang)}>{t('nav.about')}</a>
       <LanguageSwitcher availableLangs={availableLangs} />
     </nav>

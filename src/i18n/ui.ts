@@ -14,6 +14,7 @@ export type Lang = 'en' | 'ko' | 'ja' | 'es' | 'zh';
 export const ui = {
   en: {
     'nav.destinations': 'Destinations',
+    'nav.itineraries': 'Itineraries',
     'nav.flights': 'Flights',
     'nav.tools': 'When to go',
     'share.label': 'Share this guide',
@@ -326,6 +327,7 @@ export const ui = {
 
   ko: {
     'nav.destinations': '여행지',
+    'nav.itineraries': '일정 추천',
     'nav.flights': '항공권',
     'nav.tools': '언제 갈까',
     'share.label': '이 가이드 공유하기',
@@ -638,6 +640,7 @@ export const ui = {
 
   ja: {
     'nav.destinations': '旅行先',
+    'nav.itineraries': 'モデルコース',
     'nav.flights': '航空券',
     'nav.tools': 'いつ行く',
     'share.label': 'このガイドをシェア',
@@ -950,6 +953,7 @@ export const ui = {
 
   es: {
     'nav.destinations': 'Destinos',
+    'nav.itineraries': 'Itinerarios',
     'nav.flights': 'Vuelos',
     'nav.tools': 'Cuándo ir',
     'share.label': 'Comparte esta guía',
@@ -1262,6 +1266,7 @@ export const ui = {
 
   zh: {
     'nav.destinations': '目的地',
+    'nav.itineraries': '行程推荐',
     'nav.flights': '机票',
     'nav.tools': '何时去',
     'share.label': '分享这篇攻略',
