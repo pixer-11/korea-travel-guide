@@ -153,7 +153,11 @@ for (const f of files) {
       topic: (data.tags && data.tags[1]) || data.category,
       country: data.country, used, strict: true,
     });
-    if (wiki?.url) cands.push(wiki);
+    // resolveHero marks its pick in `used` before returning, and the candidate
+    // loop below skips anything already in `used` — so this rescue was skipped
+    // 100% of the time and famous landmarks were quarantined instead of fixed.
+    // Un-mark our own reservation; resolveHero already proved no OTHER post has it.
+    if (wiki?.url) { used.delete(wiki.url); cands.push(wiki); }
   } catch {}
   let done = false;
   for (const cand of cands) {

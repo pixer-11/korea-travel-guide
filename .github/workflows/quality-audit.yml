@@ -9,16 +9,31 @@ name: Quality audit (intl venues)
 # the whole daily GetPlaceRequest allowance so venue-photos could never self-host
 # a single real photo. Photo replacement now belongs to venue-photos.yml; this job
 # only fixes non-Latin addresses, capped by PLACES_LIMIT.
+# CHAINED to publish, not to a clock. GitHub has delayed the publish cron by up
+# to 3h51m, so a fixed 22:40 slot could beat it — and this job spends the SAME
+# Places Details budget publish needs, uncapped, draining the fresh window before
+# a single post is written. workflow_run makes the order structural.
 on:
-  schedule:
-    - cron: '40 13 * * *'  # 22:40 KST — well after venue-photos (17:05) and its 21:35 fallback
+  workflow_run:
+    workflows: ['Auto-generate & publish posts']
+    types: [completed]
   workflow_dispatch:
+
+concurrency:
+  group: places-quota
+  cancel-in-progress: false
 
 permissions:
   contents: write
 
 jobs:
   audit:
+    # A failed or cancelled publish must not chain a quota-spending run, and a
+    # publish on a feature branch must not spend main's budget.
+    if: >-
+      github.event_name == 'workflow_dispatch' ||
+      (github.event.workflow_run.conclusion == 'success' &&
+       github.event.workflow_run.head_branch == 'main')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -33,7 +48,7 @@ jobs:
       - name: Backfill phone + opening hours (Task 1; idempotent, no-op on 429)
         env:
           GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
-        run: node scripts/backfill-place-details.mjs --apply || true
+        run: node scripts/backfill-place-details.mjs --apply --limit 40 || true
 
       - name: Run audit
         id: audit
@@ -49,6 +64,10 @@ jobs:
           echo "img=${img:-0}" >> "$GITHUB_OUTPUT"
 
       - name: Validate content (gate — never commit a regression)
+        # continue-on-error mirrors publish.yml: a PRE-EXISTING content issue used
+        # to abort here, discarding every Places call already made and skipping
+        # both the commit and the Telegram notice, silently, day after day.
+        continue-on-error: true
         run: node scripts/validate-content.mjs
 
       - name: Rebuild hero photo-wall (heroes may have changed)

@@ -90,9 +90,17 @@ export async function fsqVenuePhotos({ name, lat, lng, near, limit = 4 }) {
     // The city/country the search was scoped to proves nothing about WHICH venue
     // this is — every result shares it. 'Garden to Table Chiangmai' matched a
     // Chiang Mai walking street on the token 'chiangmai' alone (2026-07-28).
-    const placeStop = new Set(
-      String(near || '').toLowerCase().split(/[^a-z0-9]+/).filter((w) => w.length >= 3)
-    );
+    // "Chiang Mai, Thailand" must also block the one-word spelling a venue name
+    // uses ("Garden to Table Chiangmai"), so the joined form goes in too — and the
+    // venue's own region is often written that way. Without this the city token
+    // survived and matched "Chiang Mai Walking Street".
+    const nearRaw = String(near || '').toLowerCase();
+    const nearWords = nearRaw.split(/[^a-z0-9]+/).filter((w) => w.length >= 3);
+    const placeStop = new Set(nearWords);
+    for (const part of nearRaw.split(',')) {
+      const joined = part.replace(/[^a-z0-9]/g, '');
+      if (joined.length >= 3) placeStop.add(joined);
+    }
     const ourTokens = String(name).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').normalize('NFC').split(/[^a-z0-9가-힣ぁ-ヶ一-鿿ก-๛]+/)
       .filter((w) => w.length >= 3 && !GENERIC.has(w) && !placeStop.has(w));
     if (!ourTokens.length) {
@@ -104,7 +112,22 @@ export async function fsqVenuePhotos({ name, lat, lng, near, limit = 4 }) {
     const hit = results.find((r) => {
       const rf = flat(r.name);
       if (!rf) return false;
-      return ourTokens.some((t) => rf.includes(t)) || (rf.length >= 3 && oursFlat.includes(rf));
+      // Token match must be on a WORD boundary of the result, not a substring of
+      // the flattened blob: "NAM Kitchen" matched "Vietnam Kitchen" because
+      // 'nam' sits inside 'vietnam', and "Sen Restaurant" matched "Essence".
+      const theirTokens = new Set(
+        String(r.name).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').normalize('NFC')
+          .split(/[^a-z0-9가-힣ぁ-ヶ一-鿿ก-๛]+/)
+          .filter(Boolean)
+      );
+      if (ourTokens.some((t) => theirTokens.has(t))) return true;
+      // Whole-name containment used to skip the stopword rules entirely, so
+      // "Kin Specialty Coffee" passed for "Tonkin Specialty Coffee". Require the
+      // contained name to carry a distinctive token of its own.
+      if (rf.length >= 3 && oursFlat.includes(rf)) {
+        return [...theirTokens].some((t) => t.length >= 3 && !GENERIC.has(t) && !placeStop.has(t) && ourTokens.includes(t));
+      }
+      return false;
     });
     if (!hit) {
       if (!fsqVenuePhotos._nohit) { fsqVenuePhotos._nohit = true; console.log(`  [fsq] no hit for "${name}" — results were: ${results.map((r) => r.name + '@' + r.distance + 'm').join(' | ').slice(0, 160)}`); }
@@ -138,9 +161,29 @@ const LICENSE_LABEL = {
   7: 'No known copyright restrictions', 9: 'CC0', 10: 'Public Domain Mark',
 };
 
-export async function flickrPhotos({ name, lat, lng, limit = 4 }) {
+export async function flickrPhotos({ name, lat, lng, near, limit = 4 }) {
   const key = process.env.FLICKR_API_KEY;
   if (!key || !name) return [];
+  // Flickr had NO identity check at all: a relevance search returned whatever
+  // matched loosely, and with no lat/lng it searched the whole world. Every
+  // guard in this file protected only the Foursquare branch, so the fallback
+  // path — the common one, since FSQ often has nothing — was unguarded.
+  const GENERIC_F = new Set(['cafe', 'coffee', 'restaurant', 'the', 'and', 'bar', 'house', 'shop', 'store',
+    'food', 'kitchen', 'market', 'park', 'museum', 'beach', 'street', 'grill', 'garden', 'club', 'center',
+    'centre', 'hotel', 'lounge', 'specialty', 'speciality', 'roasters', 'roastery', 'bakery', 'bistro',
+    'eatery', 'diner', 'branch', 'village', 'viewpoint', 'view', 'night', 'day', 'walking', 'traditional',
+    'heritage', 'original']);
+  const nearRawF = String(near || '').toLowerCase();
+  const stopF = new Set(nearRawF.split(/[^a-z0-9]+/).filter((w) => w.length >= 3));
+  for (const part of nearRawF.split(',')) {
+    const j = part.replace(/[^a-z0-9]/g, '');
+    if (j.length >= 3) stopF.add(j);
+  }
+  const wordsOf = (v) => String(v).toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').normalize('NFC')
+    .split(/[^a-z0-9\uac00-\ud7a3\u3041-\u30f6\u4e00-\u9fff\u0e01-\u0e5b]+/).filter(Boolean);
+  const ourWords = wordsOf(name).filter((w) => w.length >= 3 && !GENERIC_F.has(w) && !stopF.has(w));
+  if (!ourWords.length) return [];  // nothing distinctive to verify against
+  if (lat == null || lng == null) return [];  // a global text search is not evidence of place
   try {
     const q = new URLSearchParams({
       method: 'flickr.photos.search',
@@ -162,6 +205,12 @@ export async function flickrPhotos({ name, lat, lng, limit = 4 }) {
     if (!res.ok) return [];
     const j = await res.json();
     return (j.photos?.photo || [])
+      // The photo's own title must carry one of the venue's distinctive words —
+      // proximity alone puts every neighbouring shop's photo in range.
+      .filter((p) => {
+        const t = new Set(wordsOf(p.title || ''));
+        return ourWords.some((w) => t.has(w));
+      })
       .map((p) => ({
         url: p.url_l || p.url_o,
         credit: `Photo: ${p.ownername} / Flickr (${LICENSE_LABEL[p.license] || 'CC'})`,
@@ -179,6 +228,6 @@ export async function flickrPhotos({ name, lat, lng, limit = 4 }) {
 export async function venuePhotoCandidates({ name, lat, lng, near }) {
   const out = [];
   out.push(...(await fsqVenuePhotos({ name, lat, lng, near })));
-  out.push(...(await flickrPhotos({ name, lat, lng })));
+  out.push(...(await flickrPhotos({ name, lat, lng, near })));
   return out;
 }

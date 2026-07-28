@@ -87,7 +87,12 @@ export async function verifyGalleryImage({ url, heroUrl, name, category, region,
 }
 
 export async function verifyHeroImage({ url, name, category, region, country, eventMode = false }) {
-  if (!process.env.ANTHROPIC_API_KEY) return { ok: true, reason: 'no-api-key (skipped)' };
+  // Fail CLOSED. This used to return ok:true when the key was missing or the API
+  // errored, so a run with an empty secret or a rate-limited window wrote every
+  // unverified candidate straight onto the posts and logged it as ✅ FIXED.
+  // Approving a photo nobody looked at is the one outcome this gate exists to
+  // prevent; keeping the current hero is always the safer failure.
+  if (!process.env.ANTHROPIC_API_KEY) return { ok: false, reason: 'no-api-key — refusing to approve unchecked' };
   const what = eventMode
     ? `the event "${name}" (a ${category}) in ${region}, ${country}. IMPORTANT for events: a photo of the performer/athlete/team TAKEN ANYWHERE (any country, any venue, foreign signage in background is fine), or of this event type (e.g. an MMA cage, a concert stage, a race), is a CORRECT hero — do NOT require the host city to be visible`
     : `"${name}" — a ${category} in ${region}, ${country}`;
@@ -125,9 +130,8 @@ export async function verifyHeroImage({ url, name, category, region, country, ev
     const j = JSON.parse(text.replace(/^[\s\S]*?\{/, '{').replace(/\}[\s\S]*$/, '}'));
     return { ok: !!j.ok, reason: String(j.reason || '') };
   } catch (e) {
-    // Fail-open ONLY on infrastructure errors (the image itself unreachable is a
-    // reject — an unloadable hero is broken anyway).
     if (/image|fetch|url/i.test(e.message)) return { ok: false, reason: `image unusable: ${e.message.slice(0, 60)}` };
-    return { ok: true, reason: `vision check unavailable (${e.message.slice(0, 40)})` };
+    // An overloaded/rate-limited API is NOT evidence the photo is right.
+    return { ok: false, reason: `vision unavailable (${e.message.slice(0, 40)}) — not approved` };
   }
 }

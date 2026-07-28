@@ -21,11 +21,17 @@ on:
       limit:
         description: 'Max posts to photo this run (0 = no cap; stops on quota)'
         required: false
-        default: '0'
+        default: '25'  # was '0' = UNCAPPED; accepting the shown default drained the window
       slugs:
         description: 'Comma-separated post slugs to process ONLY (priority run; blank = all)'
         required: false
         default: ''
+
+# Shares the daily Places Details budget with publish/backfill/quality-audit —
+# a manual run must queue behind them, never spend the window in parallel.
+concurrency:
+  group: places-quota
+  cancel-in-progress: false
 
 permissions:
   contents: write

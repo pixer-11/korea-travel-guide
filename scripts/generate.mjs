@@ -469,7 +469,13 @@ async function buildLivePost(target) {
     // pass rate so venue-post output stays high despite the Google block.
     if (!isImageAllowed(h)) {
       const { venuePhotoCandidates } = await import('./lib/photo-sources.mjs');
-      for (const alt of await venuePhotoCandidates({ name: cand.name, lat: cand.lat, lng: cand.lng })) {
+      // `near` was missing here, so placeStop was EMPTY on the publishing path —
+      // every city/country stopword guard in photo-sources was inert exactly where
+      // new posts are created ("Bangkok Bold Kitchen" could take "Bangkok Art Cafe").
+      for (const alt of await venuePhotoCandidates({
+        name: cand.name, lat: cand.lat, lng: cand.lng,
+        near: `${target.region}, ${target.country}`,
+      })) {
         if (USED_IMAGE_URLS.has(alt.url)) continue;
         h = alt;
         break;

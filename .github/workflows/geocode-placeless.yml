@@ -31,6 +31,12 @@ on:
     branches: [main]
     paths: ['data/geocode-trigger']
 
+# Shares the daily Places Details budget with publish/backfill/quality-audit —
+# a manual run must queue behind them, never spend the window in parallel.
+concurrency:
+  group: places-quota
+  cancel-in-progress: false
+
 permissions:
   contents: write
 

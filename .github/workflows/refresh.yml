@@ -7,6 +7,11 @@ on:
     - cron: '33 20 * * 0' # Sundays 20:33 UTC (off the hour)
   workflow_dispatch: {}
 
+# Shares the daily Places Details budget with publish/backfill/quality-audit.
+concurrency:
+  group: places-quota
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -24,6 +29,10 @@ jobs:
       - name: Refresh data
         env:
           GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
+          # Unbounded before: one Details call for EVERY post with a place id,
+          # no 429 stop and no cursor, so it drained whatever the window had
+          # left and always re-refreshed the same alphabetical head.
+          REFRESH_LIMIT: '40'
         run: npm run refresh
 
       - name: Commit updates

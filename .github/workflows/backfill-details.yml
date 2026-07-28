@@ -40,10 +40,19 @@ on:
 permissions:
   contents: write
 
-concurrency: backfill-details
+concurrency:
+  group: places-quota
+  cancel-in-progress: false
 
 jobs:
   details:
+    # workflow_run fires on ANY completion, including a failed or cancelled
+    # publish that already spent part of the window — and it carries no branch
+    # filter of its own, so a publish on a feature branch would spend main.
+    if: >-
+      github.event_name != 'workflow_run' ||
+      (github.event.workflow_run.conclusion == 'success' &&
+       github.event.workflow_run.head_branch == 'main')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4

@@ -20,6 +20,12 @@ on:
         required: false
         default: ''
 
+# A manual dispatch or re-run overlapping the scheduled run would double-spend
+# the day's Places budget and race on the same content push.
+concurrency:
+  group: places-quota
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -97,6 +103,7 @@ jobs:
       # crashed node still reports SUCCESS with a truncated log (same reasoning
       # as geocode-placeless.yml).
       - name: Build/refresh itinerary pages
+        id: itineraries
         continue-on-error: true
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
