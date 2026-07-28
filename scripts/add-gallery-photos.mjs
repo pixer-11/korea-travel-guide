@@ -128,7 +128,7 @@ for (const file of files) {
 
   // Try each candidate; the gate rejects a wrong place AND a near-duplicate of
   // the hero, so a rejection is a reason to try the next one, not to give up.
-  let cand = null, lastReason = '';
+  let cand = null, lastReason = '', okReason = '';
   for (const c of candidates) {
     if (usedUrls.has(c.url)) continue;   // already the hero or gallery of another post
     const check = await verifyGalleryImage({
@@ -139,7 +139,7 @@ for (const file of files) {
       region: d.region,
       country: d.country || 'South Korea',
     });
-    if (check.ok) { cand = c; break; }
+    if (check.ok) { cand = c; okReason = check.reason; break; }
     lastReason = check.reason;
     process.stdout.write(`\n    · 반려(${(c.license || '').slice(0, 10)}): ${check.reason}`);
   }
@@ -158,8 +158,8 @@ for (const file of files) {
     writeFileSync(join(POSTS_DIR, file), out);
   }
   stats.added++;
-  added.push({ file, url: cand.url, reason: check.reason });
-  process.stdout.write(`  → ✅ 추가${DRY_RUN ? ' (모의실행)' : ''}: ${check.reason}`);
+  added.push({ file, url: cand.url, reason: okReason });
+  process.stdout.write(`  → ✅ 추가${DRY_RUN ? ' (모의실행)' : ''}: ${okReason}`);
 }
 
 console.log('\n\n──────── 결과 ────────');
