@@ -2,88 +2,88 @@
 city: Tokyo
 country: Japan
 days: 3
-title: '3-Day Tokyo Itinerary: Shrines, Digital Art, Towers & Top Eats'
-description: A 3-day Tokyo itinerary moving from Shibuya's shrine forest and Yoyogi's trendy cafés to Toyosu's digital art and Minato's tower and dining scene, then Asakusa's historic temple, underground ramen, and Ginza steak.
-quickAnswer: 'This is a 3-day Tokyo itinerary with three stops per day (morning, afternoon/lunch, evening): day one covers Shibuya''s Meiji Jingu, Yoyogi''s Lenox House, and Tomigaya''s Fuglen Tokyo; day two covers Toyosu''s teamLab Planets, Shibakoen''s Tokyo Tower, and Roppongi''s Oxomoco; day three covers Asakusa''s Sensō-ji, Marunouchi''s Tokyo Ramen Street, and Ginza''s Smith & Wollensky.'
+title: '3-Day Tokyo Itinerary: Digital Art, Shrines & Asakusa Temples'
+description: A 3-day Tokyo itinerary moving from Toyosu's digital art and Tokyo Tower views to Shibuya's shrines and gardens, then Asakusa's historic temple and Ginza's steakhouse scene.
+quickAnswer: This 3-day Tokyo itinerary covers a fuller day of digital art, market food, and skyline views around Koto City and Minato City; a day of shrine and garden calm plus café culture across Shibuya and Shinjuku City; and a final day tracing Taito City's historic temple through to a ramen lunch and a Ginza steakhouse dinner.
 pubDate: '2026-07-28T01:22:55.600Z'
-stopsHash: a42f6f3585ce17b162209fb9b310b1c67c879950
+stopsHash: 9d3f4a7d84efcc28a6f2c6582436f2009781ad76
 packedAvailable: false
 faq:
-  - q: How much walking does this 3-day Tokyo itinerary involve?
-    a: Each day mixes short walks between nearby stops with a couple of longer transit hops — for example, day one's stops are within about a kilometer of each other, while day two and day three both include legs described as beyond walking distance that call for transit.
-  - q: Do I need to book anything ahead of time?
-    a: Yes — teamLab Planets on day two requires a timed ticket booked online in advance, and the trending restaurants (Lenox House, Oxomoco, Smith & Wollensky) are worth reserving ahead given their popularity.
-  - q: What's the best time of day to start each day?
-    a: 'Morning starts are recommended throughout: Meiji Jingu and Sensō-ji are both best visited early to avoid crowds, and teamLab Planets is calmest on weekday mornings too.'
-  - q: How long should I budget at each stop?
-    a: Dwell times vary by stop, from shorter 30-minute visits at the shrines, temple, tower, teamLab, and ramen street, up to 90-minute sit-down meals at Lenox House, Oxomoco, and Smith & Wollensky.
-  - q: What happens if it rains during the trip?
-    a: Day one has a listed rain-day alternative restaurant to swap in; day two and day three don't have rain alternatives listed, so plan around the outdoor stops like Sensō-ji and Tokyo Tower accordingly.
+  - q: How should I get around for this 3-day Tokyo itinerary?
+    a: Transit is the main way to move between stops, since several are beyond walking distance from each other, though a few, like the shrine-to-garden stretch on day two, are close enough to walk.
+  - q: Which day involves the most walking?
+    a: Day two involves a notable walk between the shrine and the garden, plus more walking within the garden itself, so comfortable shoes are worth it.
+  - q: Is this itinerary heavy on any one type of activity?
+    a: 'It mixes things up: digital art and market food on day one, shrine and garden calm on day two, and historic temple sightseeing with dining on day three.'
+  - q: What should I do if it rains during the trip?
+    a: Days 1 and 3 have a listed rain-day alternative to swap in; the other day doesn't, so plans for that day would stay as scheduled.
+  - q: Do I need to plan timing carefully for any stops?
+    a: Yes — spots like the digital art museum, the market, the shrine, and the ramen strip all reward early or off-peak visits to avoid the heaviest crowds.
 itinerary:
-  - label: Shrine forest, handmade pasta, and Nordic nightcaps
-    intro: Day one starts in the forested calm of Meiji Jingu in Shibuya, then crosses over to Yoyogi for a seasonal Italian lunch at Lenox House near Sangubashi Station. The day winds down in nearby Tomigaya at Fuglen Tokyo, a Scandinavian-style café-bar for coffee or a cocktail.
-    stops:
-      - slug: tokyo-meiji-jingu
-        slot: morning
-        why: Meiji Jingu offers a calm, forested start to the trip, with a gravel approach best walked in the early morning before crowds build.
-        dwellMin: 30
-        walkToNext:
-          km: 0.9
-          minutes: 11
-          transit: false
-      - slug: tokyo-lenox-house
-        slot: afternoon
-        why: Lenox House brings seasonal Japanese produce into regional Italian cooking, in a vintage-meets-modern dining room near Sangubashi Station.
-        dwellMin: 90
-        walkToNext:
-          km: 1.7
-          minutes: 22
-          transit: false
-      - slug: tokyo-fuglen-tokyo
-        slot: evening
-        why: Fuglen Tokyo caps the day with third-wave coffee by day or inventive cocktails by night, in a cozy 1960s-Scandinavian-furnished room.
-        dwellMin: 30
-        walkToNext: null
-    rainSwapSlug: tokyo-ise-sueyoshi
-  - label: Digital art, tower views, and Roppongi tacos
-    intro: Day two opens with the immersive, barefoot world of teamLab Planets in Toyosu, then heads by transit to Shibakoen's Tokyo Tower for late-afternoon skyline views. The evening wraps up in Roppongi Hills at Oxomoco, a modern Mexican restaurant known for wood-fired cooking.
+  - label: Digital art, market bites & tower views
+    intro: The day starts in Koto City with immersive digital art, then heads toward Chuo City for a market-style lunch before crossing into Minato City for tower views as afternoon turns to evening. It's a fuller day mixing sensory art, fresh food, and classic skyline sightseeing.
     stops:
       - slug: tokyo-teamlab-planets-tokyo-dmm
         slot: morning
-        why: teamLab Planets is an immersive, barefoot water-and-light museum that's calmest on a weekday morning, making it a fitting start to day two.
-        dwellMin: 30
+        why: A barefoot, water-and-light digital art museum in Toyosu makes for an immersive, unconventional start to the day, and weekday mornings offer the calmest visit before crowds build.
+        dwellMin: 90
         walkToNext:
-          km: 5.4
+          km: 3.2
+          minutes: null
+          transit: true
+      - slug: tokyo-fish-market-tsukiji-outer-market
+        slot: lunch
+        why: This compact grid of stalls and small eateries is a great midday stop for fresh sashimi, grilled skewers, and tamagoyaki after a morning of art.
+        dwellMin: 105
+        walkToNext:
+          km: 3
           minutes: null
           transit: true
       - slug: tokyo-tokyo-tower
         slot: afternoon
-        why: Tokyo Tower rewards a late-afternoon visit with sunset turning into skyline views from its decks, plus retro charm that sets it apart from newer towers.
-        dwellMin: 30
+        why: The Eiffel-Tower-inspired silhouette and retro charm make this a fitting way to close the day, especially as afternoon light shifts toward evening.
+        dwellMin: 75
+        walkToNext: null
+    rainSwapSlug: tokyo-oxomoco
+  - label: Shrine forest, garden calm & café culture
+    intro: Day two begins among the forested grounds of a grand shrine in Shibuya, then moves to the expansive gardens of Shinjuku City for a slower-paced afternoon. The day wraps back in Shibuya with coffee and cocktails in a cozy, vintage-styled café-bar.
+    stops:
+      - slug: tokyo-meiji-jingu
+        slot: morning
+        why: Tokyo's grandest Shinto shrine sits inside a large forested approach, making it a peaceful, atmospheric start to the second day.
+        dwellMin: 75
         walkToNext:
-          km: 2
+          km: 1.8
+          minutes: 24
+          transit: false
+      - slug: tokyo-shinjuku-gyoen-national-garden
+        slot: afternoon
+        why: This expansive former imperial estate blends formal, English, and Japanese garden styles, offering a slower-paced contrast to the morning's shrine visit.
+        dwellMin: 150
+        walkToNext:
+          km: 3.4
           minutes: null
           transit: true
-      - slug: tokyo-oxomoco
+      - slug: tokyo-fuglen-tokyo
         slot: evening
-        why: Oxomoco brings Michelin-starred, wood-fired modern Mexican cooking and an agave-forward cocktail list to Roppongi Hills for a lively finish to the day.
+        why: A Norwegian-import café-bar known for third-wave coffee by day and inventive cocktails by night rounds out the day with a relaxed, cozy stop.
         dwellMin: 90
         walkToNext: null
     rainSwapSlug: null
-  - label: Old Asakusa, underground ramen, and Ginza steak
-    intro: Day three begins at Sensō-ji, Tokyo's oldest temple in Asakusa, then moves by transit to the ticket-machine ramen counters of Tokyo Ramen Street beneath Tokyo Station in Marunouchi. It closes out in Ginza with a dry-aged steak dinner at Smith & Wollensky.
+  - label: Old Asakusa temple to Ginza steak
+    intro: The final day opens in Taito City at Tokyo's oldest temple, then heads to a ramen strip for a quick, satisfying lunch. The evening closes out with a steakhouse dinner, a change of pace from the morning's historic grounds.
     stops:
       - slug: tokyo-senso-ji
         slot: morning
-        why: Sensō-ji is Tokyo's oldest temple, and an early visit lets you take in the Nakamise-dōri approach, Five-Story Pagoda, and Asakusa Shrine before the heaviest crowds.
-        dwellMin: 30
+        why: Tokyo's oldest temple, with its Nakamise-dōri approach, Five-Story Pagoda, and adjoining shrine, is a fitting historic anchor for the morning.
+        dwellMin: 105
         walkToNext:
           km: 6
           minutes: null
           transit: true
       - slug: tokyo-tokyo-ramen-street
         slot: lunch
-        why: Tokyo Ramen Street gathers around eight acclaimed ramen shops in one underground strip, ideal for a focused, efficient lunch stop.
+        why: A strip of acclaimed ramen shops offers a quick, focused lunch stop between the morning temple visit and the evening ahead.
         dwellMin: 30
         walkToNext:
           km: 1.5
@@ -91,12 +91,12 @@ itinerary:
           transit: false
       - slug: tokyo-smith-wollensky
         slot: evening
-        why: Smith & Wollensky brings the legendary New York steakhouse's USDA Prime dry-aged steaks to Ginza for a polished final dinner.
+        why: This steakhouse's USDA Prime dry-aged steaks and signature hospitality make for a memorable final stop to close out the trip.
         dwellMin: 90
         walkToNext: null
-    rainSwapSlug: null
+    rainSwapSlug: tokyo-ise-sueyoshi
 aiGenerated: true
 draft: false
-updatedDate: '2026-07-28T01:46:32.665Z'
+updatedDate: '2026-07-28T02:34:19.569Z'
 ---
 
