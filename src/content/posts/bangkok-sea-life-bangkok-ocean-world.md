@@ -15,7 +15,11 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:SEA_LIFE_Bangkok_Ocean_World_in_2018_(217).jpg
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/SEA_LIFE_Bangkok_Ocean_World_in_2018_%28113%29.jpg/1920px-SEA_LIFE_Bangkok_Ocean_World_in_2018_%28113%29.jpg
+    credit: 'Photo: กสิณธร ราชโอรส / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:SEA_LIFE_Bangkok_Ocean_World_in_2018_(113).jpg
 place:
   id: ChIJH4I85c2e4jARUMYLeiqfBd0
   name: SEA LIFE Bangkok Ocean World

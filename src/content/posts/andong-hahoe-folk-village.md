@@ -9,7 +9,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Bukchon House (Andong Hahoe Village) (북촌댁))'
   license: foursquare
   source: https://foursquare.com/v/50416ca6e4b0a10506950910
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Hahoe_Folk_Village_03.jpg/1920px-Hahoe_Folk_Village_03.jpg
+    credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Hahoe_Folk_Village_03.jpg
 place:
   id: ChIJ70lL5f4iZDURou4DxhPonPA
   name: Andong Hahoe Folk Village

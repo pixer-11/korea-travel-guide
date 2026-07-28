@@ -26,6 +26,66 @@ async function fetchAsBase64(url) {
   return (await sharp(buf).resize(1024, 1024, { fit: 'inside', withoutEnlargement: true }).jpeg({ quality: 80 }).toBuffer()).toString('base64');
 }
 
+// GALLERY CHECK — a second in-body photo has TWO ways to be wrong: it can show
+// the wrong place (same failure as a hero), or it can be a near-duplicate of the
+// hero, which reads as filler and cheapens the page. This sends BOTH images at
+// once so the model can compare them directly. Strict: reject when unsure.
+export async function verifyGalleryImage({ url, heroUrl, name, category, region, country }) {
+  if (!process.env.ANTHROPIC_API_KEY) return { ok: false, reason: 'no-api-key (gallery needs verification)' };
+  let candidate, hero;
+  try {
+    candidate = await fetchAsBase64(url);
+  } catch (e) {
+    return { ok: false, reason: `candidate unusable: ${e.message.slice(0, 50)}` };
+  }
+  try {
+    hero = await fetchAsBase64(heroUrl);
+  } catch {
+    hero = null; // hero unreadable → fall back to accuracy-only judging
+  }
+  const content = [];
+  if (hero) {
+    content.push({ type: 'text', text: 'IMAGE 1 — the photo already used at the top of the article:' });
+    content.push({ type: 'image', source: { type: 'base64', media_type: 'image/jpeg', data: hero } });
+    content.push({ type: 'text', text: 'IMAGE 2 — the candidate for a SECOND photo inside the article:' });
+  }
+  content.push({ type: 'image', source: { type: 'base64', media_type: 'image/jpeg', data: candidate } });
+  content.push({
+    type: 'text',
+    text:
+      `You are a photo editor for a travel guide where accuracy is the #1 rule. The article is about ` +
+      `"${name}" — a ${category} in ${region}, ${country}.\n` +
+      `Judge ${hero ? 'IMAGE 2' : 'this image'} as an ADDITIONAL in-body photo.\n` +
+      `REJECT if: it shows a different country/region (wrong-language signage, wrong architecture/landscape), ` +
+      `it is a painting/illustration/diagram/logo/map/screenshot, it shows an unrelated subject, ` +
+      `it contradicts the venue type, it is low quality (blurry, dark, heavily cropped), ` +
+      `or it shows an identifiable person's face in close-up.\n` +
+      (hero
+        ? `ALSO REJECT if it is essentially the SAME view as IMAGE 1 (same angle, same subject) — a second photo must ADD something: a different room, the exterior vs the interior, the food, the surroundings.\n`
+        : '') +
+      `ACCEPT only if it plausibly shows THIS venue (or unmistakably this exact place) AND adds new visual information.\n` +
+      `Answer ONLY JSON: {"ok": true|false, "reason": "<max 12 words>"}`,
+  });
+  // One retry: a truncated/preamble-wrapped reply is a transport hiccup, not a
+  // verdict — without this we silently drop photos that would have passed.
+  for (let attempt = 0; attempt < 2; attempt++) {
+    try {
+      const msg = await client.messages.create({ model: MODEL, max_tokens: 400, messages: [{ role: 'user', content }] });
+      const text = msg.content.filter((b) => b.type === 'text').map((b) => b.text).join('');
+      const m = text.match(/\{[\s\S]*\}/);
+      if (!m) throw new Error('no JSON in reply');
+      const j = JSON.parse(m[0]);
+      return { ok: !!j.ok, reason: String(j.reason || '') };
+    } catch (e) {
+      if (attempt === 1) {
+        // Unlike heroes, a gallery photo is optional — never fail open.
+        return { ok: false, reason: `vision check failed (${e.message.slice(0, 40)})` };
+      }
+    }
+  }
+  return { ok: false, reason: 'vision check failed' };
+}
+
 export async function verifyHeroImage({ url, name, category, region, country, eventMode = false }) {
   if (!process.env.ANTHROPIC_API_KEY) return { ok: true, reason: 'no-api-key (skipped)' };
   const what = eventMode

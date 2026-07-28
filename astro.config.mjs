@@ -99,6 +99,13 @@ function regionRedirects() {
   for (const p of ['', '/ko', '/ja', '/es', '/zh']) {
     lines.push(`${p}/posts/multiple-cities-tour-de-france-femmes/ ${p}/posts/nice-finish-various-french-stages-tour-de-france-femmes-avec-zwift/ 301`);
   }
+  // Same venue, two posts: the 2026-07-28 geocode backfill gave the older,
+  // weakly-titled placeless post the same Google place.id as the newer guide,
+  // surfacing a duplicate validate-content had no way to see before. Kept the
+  // better-titled one; the retired slug 301s to it in every locale.
+  for (const p of ['', '/ko', '/ja', '/es', '/zh']) {
+    lines.push(`${p}/posts/gyeongju-donggung-and-wolji/ ${p}/posts/gyeongju-donggung-palace-wolji-pond/ 301`);
+  }
   // Business-card QR target: /card stays printed on physical cards forever, so
   // it must never 404. 302 (not 301) so the destination can be repointed later
   // (e.g. to a newsletter page) without reprinting cards.

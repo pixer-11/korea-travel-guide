@@ -14,7 +14,11 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:Templo_Mahathat,_Ayutthaya,_Tailandia,_2013-08-23,_DD_06.jpg
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Templo_Mahathat%2C_Ayutthaya%2C_Tailandia%2C_2013-08-23%2C_DD_16.jpg/1920px-Templo_Mahathat%2C_Ayutthaya%2C_Tailandia%2C_2013-08-23%2C_DD_16.jpg
+    credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Templo_Mahathat,_Ayutthaya,_Tailandia,_2013-08-23,_DD_16.jpg
 place:
   id: ChIJ-UkaTEl04jAR2QgEGFAM1dU
   name: Wat Mahathat

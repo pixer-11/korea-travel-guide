@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Bernard Gagnon / Wikimedia Commons (CC BY 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Positano_(Italy)_04.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Positano_%28Italy%29_02.jpg/1920px-Positano_%28Italy%29_02.jpg
+    credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Positano_(Italy)_02.jpg
 place:
   id: "ChIJL3Qtj2-XOxMRu2koMaPqy8A"
   name: "Positano"

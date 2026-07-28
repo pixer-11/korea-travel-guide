@@ -14,12 +14,19 @@ export async function GET() {
   const posts = await getCollection('posts', ({ data }) => !data.draft);
   const entries = posts
     .filter((p) => p.data.heroImage?.url && !p.data.heroImage.url.includes('placeholder'))
-    .map(
-      (p) => `  <url>
+    // Hero AND in-body gallery photos: every image is its own entry point from
+    // Google Images, so a post with a second photo gets listed with both.
+    .map((p) => {
+      const urls = [p.data.heroImage!.url, ...(p.data.gallery ?? []).map((g) => g.url)]
+        .filter((u) => u && !u.includes('placeholder'));
+      const imgs = [...new Set(urls)]
+        .map((u) => `<image:image><image:loc>${esc(abs(u))}</image:loc></image:image>`)
+        .join('');
+      return `  <url>
     <loc>${SITE}/posts/${p.id}/</loc>
-    <image:image><image:loc>${esc(abs(p.data.heroImage!.url))}</image:loc></image:image>
-  </url>`
-    )
+    ${imgs}
+  </url>`;
+    })
     .join('\n');
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">

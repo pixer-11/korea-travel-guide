@@ -14,7 +14,11 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:Reclining_Buddha,_Wat_Pho,_Bangkok_a063.jpg
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Reclining_Buddha_Statue%2C_Wat_Pho%2C_Bangkok_a064.jpg/1920px-Reclining_Buddha_Statue%2C_Wat_Pho%2C_Bangkok_a064.jpg
+    credit: 'Photo: Michael Gunther / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Reclining_Buddha_Statue,_Wat_Pho,_Bangkok_a064.jpg
 place:
   id: ChIJmaPD7i6Z4jARf0QKa2FrGhc
   name: The Reclining Buddha

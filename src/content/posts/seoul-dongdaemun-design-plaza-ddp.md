@@ -1,6 +1,6 @@
 ---
 title: "Dongdaemun Design Plaza (DDP): Seoul Travel Guide"
-description: "Dongdaemun Design Plaza (DDP) is Zaha Hadid's neofuturist, riveted-steel landmark in Jung District, right above Dongdaemun History & Culture Park Station"
+description: "Dongdaemun Design Plaza (DDP) is Zaha Hadid's neofuturist, riveted-aluminium landmark in Jung District, right above Dongdaemun History & Culture Park Station"
 country: "South Korea"
 region: "Seoul"
 category: "attraction"
@@ -33,7 +33,7 @@ place:
 tags:
   - "seoul"
   - "Dongdaemun night market"
-quickAnswer: "Dongdaemun Design Plaza (DDP) is Zaha Hadid's neofuturist, riveted-steel landmark in Jung District, right above Dongdaemun History & Culture Park Station (Lines 2, 4, and 5, exits 1 and 2). It's a very popular spot, so aim for a weekday morning before 11am if you want the plaza's curves to yourself; give yourself 2-3 hours to loop the exhibitions, Design Market, and LED Rose Garden. Entry to the building and plaza is free, though ticketed exhibitions inside vary and change seasonally."
+quickAnswer: "Dongdaemun Design Plaza (DDP) is Zaha Hadid's neofuturist, riveted-aluminium landmark in Jung District, right above Dongdaemun History & Culture Park Station (Lines 2, 4, and 5, exits 1 and 2). It's a very popular spot, so aim for a weekday morning before 11am if you want the plaza's curves to yourself; give yourself 2-3 hours to loop the exhibitions, Design Market, and LED Rose Garden. Entry to the building and plaza is free, though ticketed exhibitions inside vary and change seasonally."
 faq:
   - q: "Is DDP free to enter?"
     a: "Yes — the building and outdoor plaza are free to walk through. Only specific rotating exhibitions inside the Art Hall or Museum charge admission, and that price varies by show."

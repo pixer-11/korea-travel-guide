@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Evilarry / Wikimedia Commons (Public domain)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Ayutthaya_Thailand_2004.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pratuchai%2C_Ayutthaya%2C_Tailandia%2C_2013-08-23%2C_DD_02.jpg/1920px-Pratuchai%2C_Ayutthaya%2C_Tailandia%2C_2013-08-23%2C_DD_02.jpg
+    credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Pratuchai,_Ayutthaya,_Tailandia,_2013-08-23,_DD_02.jpg
 place:
   id: "ChIJyX-ZWQB14jAR-NFPq1VeK04"
   name: "Ayutthaya Historical Park"

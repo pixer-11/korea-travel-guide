@@ -1,0 +1,33 @@
+---
+import { getCollection } from 'astro:content';
+import ItineraryPage from '../../../components/ItineraryPage.astro';
+import type { Lang } from '../../../i18n/utils';
+
+// Localized itinerary pages: /ko/itinerary/<slug>, /ja/…, /es/…, /zh/…
+// Unlike posts (which only get a localized URL once a translation file exists),
+// EVERY itinerary renders at EVERY locale immediately — the UI chrome is always
+// translated, and any missing prose (day labels/intros, per-stop "why", FAQ)
+// falls back to the English source field-by-field inside ItineraryPage. A
+// missing translation must never block the build or 404 a locale.
+export async function getStaticPaths() {
+  const LANGS: Lang[] = ['ko', 'ja', 'es', 'zh'];
+  const itineraries = await getCollection('itineraries', ({ data }) => !data.draft);
+  const translations = await getCollection('itinerariesI18n', () => true);
+  const trByKey = new Map(translations.map((tr) => [`${tr.data.lang}/${tr.data.slug}`, tr]));
+
+  const paths = [];
+  for (const lang of LANGS) {
+    for (const itinerary of itineraries) {
+      paths.push({
+        params: { lang, slug: itinerary.id },
+        props: { itinerary, translation: trByKey.get(`${lang}/${itinerary.id}`) },
+      });
+    }
+  }
+  return paths;
+}
+
+const { itinerary, translation } = Astro.props;
+---
+
+<ItineraryPage itinerary={itinerary} translation={translation} />

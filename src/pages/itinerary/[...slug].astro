@@ -1,0 +1,18 @@
+---
+import { getCollection } from 'astro:content';
+import ItineraryPage from '../../components/ItineraryPage.astro';
+
+// English itinerary page. The whole view lives in ItineraryPage so the
+// localized pages (/[lang]/itinerary/…) render from the exact same template.
+export async function getStaticPaths() {
+  const itineraries = await getCollection('itineraries', ({ data }) => !data.draft);
+  return itineraries.map((itinerary) => ({
+    params: { slug: itinerary.id },
+    props: { itinerary },
+  }));
+}
+
+const { itinerary } = Astro.props;
+---
+
+<ItineraryPage itinerary={itinerary} />

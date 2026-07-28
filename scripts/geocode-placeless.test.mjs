@@ -60,6 +60,108 @@ test('nameGatePass rejects an unrelated venue name', () => {
   assert.equal(nameGatePass(tmp, 'Seoul', 'Bukchon Hanok Village'), false);
 });
 
+// ── gate (b) fix round 2/3: separator/spacing variants of the SAME place ──
+// The token check splits on hyphens/spaces, so "Euljiro" vs "Eulji-ro"
+// tokenizes to disjoint sets ({euljiro} vs {eulji, ro}) and used to be
+// rejected as a false negative even though they name the same place.
+// Round 2 added a fold-and-CONTAINS path for this, but a bare `includes`
+// turned out to admit wrong venues too ("The Alley" ⊂ "The Alleyway Café",
+// "Villa" ⊂ "Villaggio Italian Restaurant", "Euljiro" ⊂ "Eulji-ro 5-ga" — a
+// different, more specific numbered sub-block). Round 3 replaced it with:
+// exact-match-after-folding (no length floor — not a coincidence risk) OR
+// the shorter (≥8 chars) side matching one of the longer side's leading
+// TOKEN-RUN folds (anchored at a token boundary, never mid-word), with a
+// trailing numeric/sub-unit leftover token rejected.
+
+test('nameGatePass ACCEPTS "Euljiro" vs result "Eulji-ro" (separator variant, same place)', () => {
+  const tmp = titleMainPart('Euljiro in Seoul', 'Seoul');
+  assert.equal(nameGatePass(tmp, 'Seoul', 'Eulji-ro'), true);
+});
+
+test('nameGatePass ACCEPTS "Saladaeng" vs result "Sala Daeng Road" (spacing variant, same place)', () => {
+  const tmp = titleMainPart('Saladaeng in Bangkok', 'Bangkok');
+  assert.equal(nameGatePass(tmp, 'Bangkok', 'Sala Daeng Road'), true);
+});
+
+test('nameGatePass still REJECTS "Seongsu Cafes" vs unrelated result "Highline"', () => {
+  const tmp = titleMainPart('Seongsu Cafes in Seoul', 'Seoul');
+  assert.equal(nameGatePass(tmp, 'Seoul', 'Highline'), false);
+});
+
+test('nameGatePass still REJECTS "Local Restaurant" vs unrelated result "Rui"', () => {
+  const tmp = titleMainPart('Local Restaurant in Gangneung', 'Gangneung');
+  assert.equal(nameGatePass(tmp, 'Gangneung', 'Rui'), false);
+});
+
+test('nameGatePass still REJECTS "Hidden Gem" vs unrelated result "Jeonju Hanok Village"', () => {
+  const tmp = titleMainPart('Hidden Gem in Jeonju', 'Jeonju');
+  assert.equal(nameGatePass(tmp, 'Jeonju', 'Jeonju Hanok Village'), false);
+});
+
+test('nameGatePass still REJECTS "K-Drama Filming Site" vs unrelated result "Hometown Cha Cha Cha (Filming Location)"', () => {
+  const tmp = titleMainPart('K-Drama Filming Site in Pohang', 'Pohang');
+  assert.equal(nameGatePass(tmp, 'Pohang', 'Hometown Cha Cha Cha (Filming Location)'), false);
+});
+
+test('nameGatePass short-name guard: "Luna" (4 chars, under MIN_SUBSTRING_LEN) does not substring-match "Lunar Park Zagreb"', () => {
+  const tmp = titleMainPart('Luna in Rome', 'Rome');
+  assert.equal(tmp, 'Luna');
+  assert.equal(nameGatePass(tmp, 'Rome', 'Lunar Park Zagreb'), false);
+});
+
+test('nameGatePass fold-and-exact-match also folds away diacritics (NFKD)', () => {
+  // Chosen so the token path (word split on stopwords/region) genuinely
+  // fails first and only the diacritic-folding exact-match path can pass it.
+  const tmp = titleMainPart('Émile in Paris', 'Paris');
+  assert.equal(nameGatePass(tmp, 'Paris', 'Emile'), true);
+});
+
+// ── gate (b) fix round 3: tighten the substring path to token-boundary ──
+// anchored matches only, reject numeric sub-unit leftovers, raise the
+// short-side floor 5 → 8. These three concrete false-accepts (found by
+// re-review against real CI output) must now all FAIL.
+
+test('nameGatePass REJECTS "The Alley" vs "The Alleyway Café" (mid-word match inside a longer word, no token boundary)', () => {
+  const tmp = titleMainPart('The Alley in Bangkok', 'Bangkok');
+  assert.equal(tmp, 'The Alley');
+  assert.equal(nameGatePass(tmp, 'Bangkok', 'The Alleyway Café'), false);
+});
+
+test('nameGatePass REJECTS "Villa" vs "Villaggio Italian Restaurant" (below the round-3 8-char floor)', () => {
+  const tmp = titleMainPart('Villa in Rome', 'Rome');
+  assert.equal(tmp, 'Villa');
+  assert.equal(nameGatePass(tmp, 'Rome', 'Villaggio Italian Restaurant'), false);
+});
+
+test('nameGatePass REJECTS "Euljiro" vs "Eulji-ro 5-ga" (a specific numbered sub-block, not the street itself)', () => {
+  const tmp = titleMainPart('Euljiro in Seoul', 'Seoul');
+  assert.equal(nameGatePass(tmp, 'Seoul', 'Eulji-ro 5-ga'), false);
+});
+
+test('nameGatePass still ACCEPTS "Euljiro" vs "Eulji-ro" after the round-3 tightening (exact match after folding)', () => {
+  const tmp = titleMainPart('Euljiro in Seoul', 'Seoul');
+  assert.equal(nameGatePass(tmp, 'Seoul', 'Eulji-ro'), true);
+});
+
+test('nameGatePass still ACCEPTS "Saladaeng" vs "Sala Daeng Road" after the round-3 tightening (token-anchored, trailing "road" is not a sub-unit)', () => {
+  const tmp = titleMainPart('Saladaeng in Bangkok', 'Bangkok');
+  assert.equal(nameGatePass(tmp, 'Bangkok', 'Sala Daeng Road'), true);
+});
+
+test('nameGatePass rejects a numeric sub-unit leftover even when the shorter side clears the 8-char floor and lines up on a token boundary', () => {
+  // Deliberately a fused single-word title (no internal separator) so the
+  // pre-existing token-overlap path (unchanged by round 3) genuinely fails
+  // and control reaches the new substring/sub-unit logic being tested here
+  // — a multi-word title like "Riverside Market" would instead pass via
+  // plain word overlap ("market" aside) before ever reaching this code.
+  const tmp = titleMainPart('Saladaeng in Bangkok', 'Bangkok');
+  assert.equal(tmp, 'Saladaeng');
+  // "2" is a sub-unit qualifier (starts with a digit) → reject.
+  assert.equal(nameGatePass(tmp, 'Bangkok', 'Sala Daeng 2'), false);
+  // A plain trailing word ("Exit") is NOT a sub-unit → still accepted.
+  assert.equal(nameGatePass(tmp, 'Bangkok', 'Sala Daeng Exit'), true);
+});
+
 // ── gate (a)+(b) combined: the Oxomoco Brooklyn trap ────────────────────
 
 test('evaluateGate rejects "Oxomoco in Tokyo" matched to the Brooklyn NY restaurant via gate (a), even though the name matches', () => {
@@ -185,14 +287,63 @@ test('insertPlaceIntoFrontmatter inserts place right after gallery, preserving a
   assert.equal('place' in fm, false);
 });
 
-// ── frontmatter round-trip write (real fixture, temp copy) ─────────────
+// ── frontmatter round-trip write (synthetic fixture, owned by the test) ──
+// Round 4: these tests used to read a REAL post (seoul-ikseon-dong.md) as
+// their fixture and assert it started placeless. Once the CI geocode run
+// actually attached a place: block to that post, the precondition went
+// false and the test broke for everyone from then on — a test must never
+// depend on the mutable state of live content. Fixtures below are built
+// entirely by the test, written to a fresh temp dir, and cleaned up after.
+// Deliberately exercises the same shapes real posts have: a quoted string
+// (title), a folded ">-" block scalar (description), a nested object
+// (heroImage), an array of objects (gallery), a plain array (tags), and a
+// Date-typed field (unquoted ISO pubDate — js-yaml parses this as a JS
+// Date, which yaml.dump must round-trip correctly).
+function syntheticCrlfFixture() {
+  const lines = [
+    '---',
+    "title: 'Test Neighborhood in Testville'",
+    'description: >-',
+    '  A folded YAML description',
+    '  that spans two lines but is',
+    '  read back as one string.',
+    'region: Testville',
+    'category: hidden-gem',
+    'pubDate: 2026-07-20T00:00:00.000Z',
+    'heroImage:',
+    '  url: https://example.com/hero.jpg',
+    "  credit: 'Photo: Test User (CC BY)'",
+    '  license: wikimedia',
+    '  source: https://example.com/source',
+    'gallery:',
+    '  - url: https://example.com/gallery1.jpg',
+    "    credit: 'Photo: Test Gallery (CC BY)'",
+    '    license: wikimedia',
+    '    source: https://example.com/gallery-source',
+    'tags:',
+    '  - testville',
+    '  - hidden-gem',
+    'quickAnswer: A short synthetic quick answer used only by this test.',
+    'aiGenerated: true',
+    'draft: false',
+    '---',
+    '',
+    '## Why go',
+    '',
+    'Synthetic CRLF body text that must survive the round-trip untouched.',
+    '',
+    'A second CRLF paragraph, with a trailing line.',
+    '',
+  ];
+  return lines.join('\r\n');
+}
 
-test('writePostFile writes a place: block and leaves every other field + the body untouched', async () => {
-  const fixturePath = new URL('../src/content/posts/seoul-ikseon-dong.md', import.meta.url);
-  const original = await readFile(fixturePath, 'utf8');
+test('writePostFile writes a place: block and leaves every other field + the body untouched (synthetic fixture)', async () => {
+  const original = syntheticCrlfFixture();
+  assert.ok(original.includes('\r\n'), 'synthetic fixture must be CRLF for this test to be meaningful');
 
   const dir = await mkdtemp(join(tmpdir(), 'geocode-placeless-test-'));
-  const tmpPath = join(dir, 'seoul-ikseon-dong.md');
+  const tmpPath = join(dir, 'synthetic-post.md');
   await writeFile(tmpPath, original, 'utf8');
 
   try {
@@ -200,15 +351,15 @@ test('writePostFile writes a place: block and leaves every other field + the bod
     assert.equal(before.data.place, undefined, 'fixture must start placeless for this test to be meaningful');
 
     const place = buildPlaceBlock({
-      id: 'ChIJ-fake-ikseon-dong',
-      name: 'Ikseon-dong',
-      address: 'Ikseon-dong, Jongno-gu, Seoul, South Korea',
+      id: 'ChIJ-fake-synthetic',
+      name: 'Test Neighborhood',
+      address: 'Test Neighborhood, Testville',
       rating: 4.4,
       userRatingsTotal: 2100,
       googleMapsUrl: 'https://maps.google.com/?cid=1234567890',
       businessStatus: 'OPERATIONAL',
       lat: 37.5735,
-      lng: 126.9910,
+      lng: 126.991,
     });
     const nextFm = insertPlaceIntoFrontmatter(before.data, place);
     await writePostFile(tmpPath, nextFm, before.content, original);
@@ -219,10 +370,15 @@ test('writePostFile writes a place: block and leaves every other field + the bod
     // place block landed with the right values
     assert.deepEqual(after.data.place, place);
 
-    // every other frontmatter field is untouched
+    // every other frontmatter field is untouched — including the folded
+    // scalar, the nested object, both array shapes, and the Date field.
+    assert.equal(Object.keys(before.data).length, Object.keys(after.data).length - 1); // +1 for the new `place` key
     for (const key of Object.keys(before.data)) {
       assert.deepEqual(after.data[key], before.data[key], `field "${key}" changed`);
     }
+    assert.ok(after.data.pubDate instanceof Date, 'pubDate should still be a Date after round-tripping');
+    assert.deepEqual(after.data.gallery, before.data.gallery);
+    assert.equal(after.data.description, 'A folded YAML description that spans two lines but is read back as one string.');
 
     // body/prose is byte-for-byte identical — round-trip must never touch it
     assert.equal(after.content, before.content);
@@ -233,10 +389,9 @@ test('writePostFile writes a place: block and leaves every other field + the bod
 
 // ── line-ending preservation (backfill-place-details.mjs pattern) ──────
 
-test('writePostFile normalizes the WHOLE output to CRLF when the source file is CRLF (no mixed line endings)', async () => {
-  const fixturePath = new URL('../src/content/posts/seoul-ikseon-dong.md', import.meta.url);
-  const original = await readFile(fixturePath, 'utf8');
-  assert.ok(original.includes('\r\n'), 'fixture must be CRLF for this test to be meaningful');
+test('writePostFile normalizes the WHOLE output to CRLF when the source file is CRLF (no mixed line endings, synthetic fixture)', async () => {
+  const original = syntheticCrlfFixture();
+  assert.ok(original.includes('\r\n'), 'synthetic fixture must be CRLF for this test to be meaningful');
 
   const dir = await mkdtemp(join(tmpdir(), 'geocode-placeless-test-'));
   const tmpPath = join(dir, 'crlf-fixture.md');
@@ -245,7 +400,7 @@ test('writePostFile normalizes the WHOLE output to CRLF when the source file is 
   try {
     const before = matter(original);
     const place = buildPlaceBlock({
-      id: 'ChIJ-fake', name: 'Ikseon-dong', address: 'Seoul, South Korea',
+      id: 'ChIJ-fake', name: 'Test Neighborhood', address: 'Testville',
       googleMapsUrl: 'https://maps.google.com/?cid=1', lat: 37.57, lng: 126.99,
     });
     const nextFm = insertPlaceIntoFrontmatter(before.data, place);
