@@ -9,7 +9,7 @@ import Newsletter from './Newsletter.astro';
 import { pickRepHeroUrl } from '../lib/repImage';
 import { isEventPast, eventSortValue } from '../lib/eventStatus';
 import { slugifyRegion } from '../lib/slug';
-import { useTranslations, localizePath, type Lang } from '../i18n/utils';
+import { useTranslations, localizePath, klookLocale, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 import { localizeBlurb } from '../i18n/countryBlurbs';
 import { loadCardTranslations, cardHelpers } from '../i18n/cards';
@@ -73,7 +73,7 @@ const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
 const countryEventCount = posts.filter((p) => p.data.category === 'event').length;
 const eventsHref = countryEventCount >= 2 ? localizePath(`/events/${country.slug}`, lang) : localizePath('/events', lang);
 const leadCity = (country.regions ?? [])[0] ?? country.name;
-const klookCountry = `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7Cpid%7C754088&k_site=${encodeURIComponent(`https://www.klook.com/en-US/search/?query=${leadCity}`)}`;
+const klookCountry = `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7Cpid%7C754088&k_site=${encodeURIComponent(`https://www.klook.com/${klookLocale(lang)}/search/?query=${leadCity}`)}`;
 const hotelCountry = `https://search.hotellook.com/?marker=754088&destination=${encodeURIComponent(country.name)}`;
 
 const jsonLd = {

@@ -86,7 +86,7 @@ const SLOT_HOURS: Record<string, [number, number]> = {
   evening: [17, 23],
 };
 function fmtHourRanges(xs: number[]): string {
-  const f = (h: number) => { const x = ((h % 24) + 24) % 24; return { t: x % 12 === 0 ? 12 : x % 12, m: x < 12 ? 'AM' : 'PM' }; };
+  const f = (h: number) => { const x = ((h % 24) + 24) % 24; return { t: x % 12 === 0 ? 12 : x % 12, m: x < 12 ? t('post.am') : t('post.pm') }; };
   const runs: [number, number][] = [];
   let s = xs[0], prev = xs[0];
   for (let i = 1; i < xs.length; i++) { if (xs[i] === prev + 1) { prev = xs[i]; continue; } runs.push([s, prev]); s = xs[i]; prev = xs[i]; }
