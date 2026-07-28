@@ -113,7 +113,14 @@ for (const f of files) {
   // this place at all (2026-07-28: 20 venue posts sat like this and a targeted
   // patrol run 'fixed' none of them). Skip the keep-it shortcut for those.
   const STOCK_BANNED_CATS = new Set(['restaurant', 'cafe', 'trendy', 'hidden-gem', 'food']);
-  const heroIsStock = data.heroImage?.license === 'unsplash' && STOCK_BANNED_CATS.has(data.category);
+  // The test is "does this post name a specific place", not "is it a restaurant":
+  // a category-only list missed two named ATTRACTIONS still wearing stock photos
+  // (Gion Matsuri gallery, House of Tan Teng Niah). Topic posts with no named
+  // place ("Sightseeing in Busan") legitimately use a city photo, and EVENTS use
+  // a topical shot of the act or sport by design, so both stay exempt.
+  const namesAPlace = Boolean(data.place?.name) || STOCK_BANNED_CATS.has(data.category);
+  const heroIsStock =
+    data.heroImage?.license === 'unsplash' && data.category !== 'event' && namesAPlace;
   if (heroIsStock) console.log(`  ✗  ${slug}: stock hero on a named venue — replacing regardless of vision`);
 
   // Current hero first: if the AI approves what's already there, keep it.
