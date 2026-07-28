@@ -70,6 +70,14 @@ jobs:
           GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
+          # Busy/quiet hours — the one dataset here that Google Maps does not
+          # expose, and therefore the only fact on these pages an AI assistant
+          # cannot answer from its own Maps grounding. generate.mjs has fetched it
+          # since July, but the key was never passed in, and the code treats a
+          # missing key as a silent no-op — so every post published since then
+          # shipped without it and nothing reported a problem. Verified: 0 of the
+          # 16 posts published 2026-07-28 carry busyness data.
+          BESTTIME_API_KEY: ${{ secrets.BESTTIME_API_KEY }}
           # `inputs` covers both workflow_dispatch and workflow_call; it is empty
           # on the schedule, which is what the fallback is for.
           POSTS_PER_RUN: ${{ inputs.count || '16' }}

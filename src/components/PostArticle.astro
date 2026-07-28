@@ -12,7 +12,7 @@ import StickyBook from './StickyBook.astro';
 import Emoji from './Emoji.astro';
 import { isEventPast } from '../lib/eventStatus';
 import { slugifyRegion } from '../lib/slug';
-import { getLangFromUrl, useTranslations, localeCodes, defaultLang, localizePath, klookLocale } from '../i18n/utils';
+import { getLangFromUrl, useTranslations, localeCodes, defaultLang, localizePath } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 
 // Shared article view for BOTH the English page (/posts/…) and the localized
@@ -76,21 +76,18 @@ const countryISO = COUNTRY_ISO[country];
 
 // Peak-intent affiliate links for the top "Book this trip" band (city-specific,
 // correct attribution, work regardless of flight/hotel program approval).
-const klookTop = `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7Cpid%7C754088&k_site=${encodeURIComponent(`https://www.klook.com/${klookLocale(lang)}/search/?query=${d.region}`)}`;
+const klookTop = `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7Cpid%7C754088&k_site=${encodeURIComponent(`https://www.klook.com/en-US/search/?query=${d.region}`)}`;
 const hotelTop = `https://search.hotellook.com/?marker=754088&destination=${encodeURIComponent(d.region)}`;
 // Place-specific "get tickets" link for the fact box — only for ticketable
 // categories, keyed to the venue name itself.
 const ticketable = ['attraction', 'trendy', 'hidden-gem'].includes(d.category);
 const klookPlace = p?.name
-  ? `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7Cpid%7C754088&k_site=${encodeURIComponent(`https://www.klook.com/${klookLocale(lang)}/search/?query=${p.name}`)}`
+  ? `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7Cpid%7C754088&k_site=${encodeURIComponent(`https://www.klook.com/en-US/search/?query=${p.name}`)}`
   : klookTop;
 
 // Currency-neutral relative price scale (like Google Maps' $–$$$$ worldwide).
 // Was Korean ₩ hardcoded — wrong on every non-Korea venue (e.g. a Tokyo café).
-// index 0 is a WORD, not a symbol — it has to follow the page language.
-const priceLabels = [t('post.free'), '$', '$$', '$$$', '$$$$'];
-// schema.org priceRange stays English regardless of the page's language.
-const priceLabelsSchema = ['Free', '$', '$$', '$$$', '$$$$'];
+const priceLabels = ['Free', '$', '$$', '$$$', '$$$$'];
 const stars = p?.rating ? '★'.repeat(Math.round(p.rating)) + '☆'.repeat(5 - Math.round(p.rating)) : null;
 const updated = d.updatedDate ?? d.pubDate;
 
@@ -107,22 +104,13 @@ const cleanName = (s) => {
   return t || (s || '');
 };
 const placeName = cleanName(p?.name);
-// The venue's own name is stored in English (Google Places) and there is no
-// per-venue translation table — but the localized TITLE carries it ("광장시장:
-// 서울 여행 가이드"), so its leading segment is the venue name in the reader's
-// language. Falls back to the English name when a translation is missing.
-const placeLabel = (lang === defaultLang
-  ? placeName
-  : String(title).split(/[:—]/)[0].trim() || placeName) || placeName;
 
 // Real foot-traffic (BestTime.app): turn stored 24h hour arrays into reader-
 // friendly ranges, e.g. [8,9,10] → "8–11 AM". Honest data only — see besttime.mjs.
 function fmtHourRanges(hours) {
   const xs = [...new Set(hours ?? [])].filter((h) => Number.isInteger(h)).sort((a, b) => a - b);
   if (!xs.length) return null;
-  // AM/PM is a locale word, not punctuation — Korean readers get 오전/오후.
-  const AM = t('post.am'), PM = t('post.pm');
-  const f = (h) => { const x = ((h % 24) + 24) % 24; return { t: x % 12 === 0 ? 12 : x % 12, m: x < 12 ? AM : PM }; };
+  const f = (h) => { const x = ((h % 24) + 24) % 24; return { t: x % 12 === 0 ? 12 : x % 12, m: x < 12 ? 'AM' : 'PM' }; };
   const runs = []; let s = xs[0], prev = xs[0];
   for (let i = 1; i < xs.length; i++) { if (xs[i] === prev + 1) { prev = xs[i]; continue; } runs.push([s, prev]); s = xs[i]; prev = xs[i]; }
   runs.push([s, prev]);
@@ -144,16 +132,44 @@ const placeType =
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
 const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
 
-// Related guides for internal linking (session depth + crawl equity). Score by
-// same region (strong) then same category; stable tie-break so builds don't churn.
+// Related guides for internal linking (session depth + crawl equity).
+//
+// The old scoring gave a point for a matching CATEGORY alone, so once a city ran
+// out of its own guides the list filled with whatever shared the category —
+// anywhere on earth. A Mumbai museum was recommending a lake park in Goyang and a
+// pier in Qingdao. Worse, the tie-break was pubDate, so the handful of posts
+// published that morning won every one of those ties and got injected across the
+// whole site: three or four slugs were collecting a hundred-plus inbound links
+// each while real hubs sat lower.
+//
+// Proximity now decides, and it never crosses a border. Same city first, then
+// genuinely nearby (within ~120km — a realistic day trip, computed from the
+// coordinates we already store), then same country. A post with no honest
+// neighbour shows fewer cards; the section below falls back to the city and
+// country hubs, which is a useful next click rather than a wrong one.
+const NEAR_KM = 120;
+const distKm = (a: any, b: any) => {
+  if (!a?.lat || !a?.lng || !b?.lat || !b?.lng) return Infinity;
+  const R = 6371, toRad = (x: number) => (x * Math.PI) / 180;
+  const dLat = toRad(b.lat - a.lat), dLng = toRad(b.lng - a.lng);
+  const s =
+    Math.sin(dLat / 2) ** 2 +
+    Math.cos(toRad(a.lat)) * Math.cos(toRad(b.lat)) * Math.sin(dLng / 2) ** 2;
+  return 2 * R * Math.asin(Math.sqrt(s));
+};
+const thisCountry = d.country ?? 'South Korea';
 const related = (await getCollection('posts', ({ data }) => !data.draft))
-  .filter((r) => r.id !== post.id)
-  .map((r) => ({
-    r,
-    score: (r.data.region === d.region ? 2 : 0) + (r.data.category === d.category ? 1 : 0),
-  }))
-  .filter((x) => x.score > 0)
-  .sort((a, b) => b.score - a.score || (b.r.data.pubDate > a.r.data.pubDate ? 1 : -1))
+  .filter((r) => r.id !== post.id && (r.data.country ?? 'South Korea') === thisCountry)
+  .map((r) => {
+    const km = distKm(d.place, r.data.place);
+    const sameCity = r.data.region === d.region;
+    // 100 same city · 60 within a day trip · 20 same country. Category only ever
+    // breaks a tie between equally close places — it can no longer summon a
+    // continent-away venue on its own.
+    const proximity = sameCity ? 100 : km <= NEAR_KM ? 60 : 20;
+    return { r, km, score: proximity + (r.data.category === d.category ? 5 : 0) };
+  })
+  .sort((a, b) => b.score - a.score || a.km - b.km || a.r.id.localeCompare(b.r.id))
   .slice(0, 4)
   .map((x) => x.r);
 
@@ -250,7 +266,7 @@ if (p?.name) {
     // Google's, not review data we host, so marking it up as our own would
     // violate Google's review-snippet policy (manual-action risk). We still
     // SHOW the rating on-page, clearly attributed to Google.
-    priceRange: typeof p.priceLevel === 'number' ? priceLabelsSchema[p.priceLevel] : undefined,
+    priceRange: typeof p.priceLevel === 'number' ? priceLabels[p.priceLevel] : undefined,
     telephone: p.phone || undefined,
     hasMap: p.googleMapsUrl,
   });
@@ -389,7 +405,7 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
       <div class="fact-box">
         <h4>{t('post.atAGlance')}</h4>
         <div class="fact-grid">
-          {placeName && <div class="fact"><span class="k">{t('post.place')}</span><span class="v">{placeLabel}</span></div>}
+          {placeName && <div class="fact"><span class="k">{t('post.place')}</span><span class="v">{placeName}</span></div>}
           {p.address && <div class="fact"><span class="k">{t('post.address')}</span><span class="v">{p.address}</span></div>}
           {typeof p.rating === 'number' && (
             <div class="fact"><span class="k">{t('post.rating')}</span><span class="v"><span class="stars">{stars}</span> {p.rating}
@@ -422,6 +438,11 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
               </span></div>
             )}
             <p class="bz-credit">{t('post.footTraffic')} <a href="https://besttime.app" target="_blank" rel="noopener nofollow">BestTime.app</a></p>
+            {/* The crowd tool is the site's #2 page, and until now the ~157 posts
+                that display this exact data linked to it from nowhere — it lived
+                only in the header dropdown. A reader looking at one venue's quiet
+                hours is precisely the person who wants to compare a whole city. */}
+            <p class="bz-more"><a href={localizePath('/tools/best-time', lang)}>{t('post.compareQuiet')} →</a></p>
             {/* Any site can embed this chart; the snippet carries a link back here,
                 so the data earns backlinks instead of us chasing them. */}
             <details class="bz-embed">
@@ -433,7 +454,7 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
         )}
         <div class="fact-actions">
           {ticketable && p.name && (
-            <a class="fact-ticket" href={klookPlace} target="_blank" rel="sponsored noopener"><Emoji name="admission-tickets" /> {t('post.ticketsFor').replace('{place}', placeLabel)}</a>
+            <a class="fact-ticket" href={klookPlace} target="_blank" rel="sponsored noopener"><Emoji name="admission-tickets" /> Tickets &amp; tours for {p.name}</a>
           )}
           {p.googleMapsUrl && (
             <a class="map-link" href={p.googleMapsUrl} target="_blank" rel="noopener"><Emoji name="round-pushpin" /> {t('post.openMaps')}</a>
@@ -518,7 +539,7 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
         blocks (Hotels/PlanTrip) used to sit here, wasting the strongest moment. */}
     {p?.name && !isEventPast(d) && (
       <div class="visit-cta">
-        <span class="visit-cta-q">{t('post.visitCta').replace('{name}', placeLabel)}</span>
+        <span class="visit-cta-q">{t('post.visitCta').replace('{name}', placeName)}</span>
         <div class="book-cta-btns">
           <a class="book-btn book-btn-primary" href={klookPlace} target="_blank" rel="sponsored noopener"><Emoji name="admission-tickets" /> {t('post.visitTickets')}</a>
           <a class="book-btn" href={hotelTop} target="_blank" rel="sponsored noopener"><Emoji name="hotel" /> {t('post.visitHotels')}</a>
@@ -581,10 +602,8 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
     {nearby.length > 0 && (
       <p class="nearby-links">
         {t('post.moreGuides').replace('{region}', regionLabel)}{' '}
-        {/* Translated title FIRST: place.name is the raw English Google name, so
-            preferring it printed "Gyeongbokgung Palace" on the Korean page. */}
         {nearby.map((r, i) => (
-          <>{i > 0 && <span aria-hidden="true"> · </span>}<a href={postHref(r.id)}>{postTitle(r).split(/[:—]/)[0].trim() || r.data.place?.name}</a></>
+          <>{i > 0 && <span aria-hidden="true"> · </span>}<a href={postHref(r.id)}>{r.data.place?.name ?? postTitle(r)}</a></>
         ))}
       </p>
     )}

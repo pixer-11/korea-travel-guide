@@ -685,6 +685,12 @@ main { flex: 1; width: 100%; }
 .fact-box .bz-v { color: var(--ink); line-height: 1.5; }
 .fact-box .bz-v b { font-weight: 600; color: var(--muted); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.03em; margin-right: 0.15rem; }
 .fact-box .bz-credit { margin: 0.1rem 0 0; font-size: 0.72rem; color: var(--muted); }
+/* Sits under the crowd chart: the reader looking at one venue's quiet hours is
+   the one who wants the whole-city comparison. Slightly larger than the credit
+   line above it, because it is a destination and that is an attribution. */
+.fact-box .bz-more { margin: 0.35rem 0 0; font-size: 0.78rem; }
+.fact-box .bz-more a { color: var(--accent); font-weight: 600; text-decoration: none; }
+.fact-box .bz-more a:hover { text-decoration: underline; }
 .fact-box .bz-credit a { color: var(--muted); text-decoration: underline; }
 
 .map-btn { margin-top: 1.2rem; }

@@ -585,14 +585,24 @@ async function buildLivePost(target) {
 
   // Real foot-traffic quiet/busy hours (BestTime.app). No-op without an API key;
   // null when BestTime can't forecast the venue → we simply store nothing.
-  try {
-    const { fetchBusyness } = await import('./lib/besttime.mjs');
-    const bz = await fetchBusyness(place.name, place.address);
-    if (bz) {
-      place.busyness = { updated: new Date().toISOString().slice(0, 10), ...bz };
-      console.log(`  📊 foot-traffic: quiet(wd) ${bz.weekdayQuiet.join(',') || '—'}`);
-    }
-  } catch { /* foot-traffic is a bonus; never blocks publishing */ }
+  //
+  // Events are skipped, and the reason is measured rather than assumed: across
+  // the 66 published event posts the forecast hit rate is 0%. BestTime forecasts
+  // PLACES from foot-traffic history, and a concert or festival is an occasion,
+  // not a place with a weekly rhythm. Every one of those calls spends a credit to
+  // be told "no data", so the category is excluded rather than retried daily.
+  // Venue categories are worth the credit — restaurants 52%, cafés 48%,
+  // hidden gems 34%, attractions 27%.
+  if (target.category !== 'event') {
+    try {
+      const { fetchBusyness } = await import('./lib/besttime.mjs');
+      const bz = await fetchBusyness(place.name, place.address);
+      if (bz) {
+        place.busyness = { updated: new Date().toISOString().slice(0, 10), ...bz };
+        console.log(`  📊 foot-traffic: quiet(wd) ${bz.weekdayQuiet.join(',') || '—'}`);
+      }
+    } catch { /* foot-traffic is a bonus; never blocks publishing */ }
+  }
 
   // Real foot-traffic hours are our ONE data moat (nobody else publishes this per
   // venue) — hand them to the writer in plain language so they land in the prose,

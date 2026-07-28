@@ -1,10 +1,12 @@
 ---
-import { render } from 'astro:content';
+import { getCollection, render } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Newsletter from './Newsletter.astro';
+import PlanTrip from './PlanTrip.astro';
 import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 import countryFacts from '../../data/country-facts.json';
+import countriesData from '../../data/countries.json';
 
 // Shared per-country essentials page for /essentials/<country> (en) +
 // /[lang]/essentials/<country>. Renders the translated body when a translation
@@ -33,6 +35,34 @@ const todayIso = new Date().toISOString().slice(0, 10);
 const upcomingHolidays = (facts.holidays ?? []).filter((h: any) => h.date >= todayIso).slice(0, 10);
 const holidayDate = (iso: string) =>
   new Intl.DateTimeFormat(localeCodes[lang], { month: 'long', day: 'numeric', timeZone: 'UTC' }).format(new Date(iso + 'T00:00:00Z'));
+
+// These pages were dead ends: eight sections of visa, money and transport advice
+// for a country, and the only body links out were /about and the trip checklist.
+// Nothing pointed at that country's cities, guides, events or itineraries — the
+// exact things someone reading its entry rules is about to want — so the reader
+// had to go back through the nav, and the crawler saw 23 leaves (115 across the
+// languages) hanging off the country hub with nothing under them.
+const countrySlug =
+  countriesData.countries.find((c: any) => c.name === d.country)?.slug ?? null;
+const countryPosts = (await getCollection('posts', ({ data }) => !data.draft))
+  .filter((p) => (p.data.country ?? 'South Korea') === d.country);
+
+// Cities, busiest first — the ones with enough guides to be worth a click.
+const cityCounts = new Map<string, number>();
+for (const p of countryPosts) {
+  if (p.data.region) cityCounts.set(p.data.region, (cityCounts.get(p.data.region) ?? 0) + 1);
+}
+const topCities = [...cityCounts.entries()]
+  .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
+  .slice(0, 12);
+
+const latestGuides = [...countryPosts]
+  .sort((a, b) => (b.data.pubDate > a.data.pubDate ? 1 : -1))
+  .slice(0, 6);
+
+const countryItineraries = (await getCollection('itineraries', ({ data }) => !data.draft))
+  .filter((it) => it.data.country === d.country)
+  .slice(0, 4);
 
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
 const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
@@ -114,7 +144,57 @@ const jsonLd = {
     </div>
 
     <p class="disclosure" set:html={reviewedNote}></p>
+
+    {(topCities.length > 0 || latestGuides.length > 0) && (
+      <section class="ess-onward">
+        <h2>{t('ess.exploreTitle').replace('{country}', countryLabel)}</h2>
+
+        {topCities.length > 0 && (
+          <ul class="ess-cities">
+            {topCities.map(([region, n]) => (
+              <li>
+                <a href={localizePath(`/regions/${region.toLowerCase().replace(/\s+/g, '-')}`, lang)}>
+                  {localizePlace(region, lang)} <span class="ess-count">{n}</span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        )}
+
+        {countryItineraries.length > 0 && (
+          <ul class="ess-links">
+            {countryItineraries.map((it: any) => (
+              <li><a href={localizePath(`/itinerary/${it.id}`, lang)}>{it.data.title}</a></li>
+            ))}
+          </ul>
+        )}
+
+        {latestGuides.length > 0 && (
+          <ul class="ess-links">
+            {latestGuides.map((g: any) => (
+              <li>
+                <a href={localizePath(`/posts/${g.id}`, lang)}>{g.data.place?.name ?? g.data.title}</a>
+                {g.data.region && <span class="ess-count">{localizePlace(g.data.region, lang)}</span>}
+              </li>
+            ))}
+          </ul>
+        )}
+
+        {countrySlug && (
+          <p class="ess-all">
+            <a href={localizePath(`/destinations/${countrySlug}`, lang)}>
+              {t('ess.allGuides').replace('{country}', countryLabel)} →
+            </a>
+          </p>
+        )}
+      </section>
+    )}
   </article>
+
+  {/* These are the highest-planning-intent pages on the site — someone reading a
+      country's visa and money rules is booking — and they carried no booking
+      surface at all. */}
+  <PlanTrip city={countryLabel} country={d.country} />
 
   <Newsletter
     lang={lang}
@@ -124,6 +204,26 @@ const jsonLd = {
 </BaseLayout>
 
 <style>
+  /* Onward links out of what used to be a dead-end page. Cities first (widest
+     net), then itineraries and recent guides. */
+  .ess-onward { margin-top: 2.8rem; padding-top: 1.6rem; border-top: 1px solid var(--line); }
+  .ess-onward h2 { margin: 0 0 0.9rem; font-size: 1.15rem; }
+  .ess-cities { list-style: none; margin: 0 0 1rem; padding: 0; display: flex; flex-wrap: wrap; gap: 0.5rem; }
+  .ess-cities a {
+    display: inline-flex; align-items: baseline; gap: 0.4rem;
+    padding: 0.4rem 0.75rem; border: 1px solid var(--line); border-radius: 999px;
+    background: var(--surface); color: var(--ink); text-decoration: none; font-size: 0.9rem;
+  }
+  .ess-cities a:hover { border-color: var(--accent); color: var(--accent); }
+  .ess-links { list-style: none; margin: 0 0 0.9rem; padding: 0; }
+  .ess-links li { padding: 0.45rem 0; border-bottom: 1px solid var(--line-soft); }
+  .ess-links a { color: var(--ink); text-decoration: none; }
+  .ess-links a:hover { color: var(--accent); text-decoration: underline; }
+  .ess-count { color: var(--muted); font-size: 0.78rem; margin-left: 0.4rem; }
+  .ess-all { margin: 0.6rem 0 0; }
+  .ess-all a { color: var(--accent); font-weight: 600; text-decoration: none; }
+  .ess-all a:hover { text-decoration: underline; }
+
   .climate, .holidays { margin-top: 2.6rem; }
   .section-dek { color: var(--muted, #6b6357); margin: 0.3rem 0 1rem; }
   .climate-scroll { overflow-x: auto; }
