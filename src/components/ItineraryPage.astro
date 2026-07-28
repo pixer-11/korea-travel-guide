@@ -67,6 +67,11 @@ const sameLangPosts =
     ? new Map<string, any>()
     : new Map((await getCollection('postI18n', ({ data }) => data.lang === lang)).map((e) => [e.data.slug, e]));
 const sameLangPostTitles = new Map([...sameLangPosts].map(([k, e]) => [k, e.data.title]));
+
+// Does any day hold more stops than the loosest pace keeps? If not, the pace
+// radios are decorative (see the filter block below).
+const maxStopsPerDay = Math.max(0, ...(d.itinerary ?? []).map((day: any) => (day.stops ?? []).length));
+const paceCanChangeSomething = maxStopsPerDay > 3;
 const postHref = (id: string) => (sameLangPostTitles.has(id) ? localizePath(`/posts/${id}`, lang) : `/posts/${id}`);
 const postTitleFor = (post: any) => sameLangPostTitles.get(post.id) ?? post.data.title;
 
@@ -295,14 +300,21 @@ const availableLangs: Lang[] = ['en', 'ko', 'ja', 'es', 'zh'];
         data-t-long-walk={t('itin.longWalkAdvisory')}
         data-t-save-heading={t('itin.savePlanHeading')}
       >
-        <fieldset>
-          <legend>{t('itin.pace')}</legend>
-          <label><input type="radio" name="pace" value="relaxed" /> {t('itin.paceRelaxed')}</label>
-          <label><input type="radio" name="pace" value="normal" checked /> {t('itin.paceNormal')}</label>
-          {d.packedAvailable && (
-            <label><input type="radio" name="pace" value="packed" /> {t('itin.pacePacked')}</label>
-          )}
-        </fieldset>
+        {/* Pace only ever trims a day's trailing stops (relaxed keeps 3, normal
+            keeps 4), so on an itinerary whose busiest day already has 3 stops
+            every option renders the identical plan. Showing it there gives the
+            reader a control that visibly does nothing — worse than not offering
+            it — so it appears only when it can actually change something. */}
+        {paceCanChangeSomething && (
+          <fieldset>
+            <legend>{t('itin.pace')}</legend>
+            <label><input type="radio" name="pace" value="relaxed" /> {t('itin.paceRelaxed')}</label>
+            <label><input type="radio" name="pace" value="normal" checked /> {t('itin.paceNormal')}</label>
+            {d.packedAvailable && (
+              <label><input type="radio" name="pace" value="packed" /> {t('itin.pacePacked')}</label>
+            )}
+          </fieldset>
+        )}
         <fieldset>
           <legend>{t('itin.party')}</legend>
           <label><input type="radio" name="party" value="solo" /> {t('itin.partySolo')}</label>
@@ -499,6 +511,34 @@ const availableLangs: Lang[] = ['en', 'ko', 'ja', 'es', 'zh'];
   .itin-filter-grid fieldset { border: none; padding: 0; margin: 0; }
   .itin-filter-grid legend { font-size: 0.78rem; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; color: var(--muted); padding: 0; margin-bottom: 0.4rem; }
   .itin-filter-grid label { display: flex; align-items: center; gap: 0.4rem; font-size: 0.92rem; padding: 0.15rem 0; }
+  /* The bare date control renders as an OS widget that ignores the site's type
+     scale and palette, so it read as an unstyled leftover next to the radios. */
+  .itin-filter-grid input[type='date'] {
+    font: inherit;
+    font-size: 0.92rem;
+    color: var(--ink);
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: var(--r-sm, 8px);
+    padding: 0.5rem 0.7rem;
+    width: 100%;
+    max-width: 15rem;
+    cursor: pointer;
+    transition: border-color 0.15s ease, box-shadow 0.15s ease;
+  }
+  .itin-filter-grid input[type='date']:hover { border-color: var(--accent); }
+  .itin-filter-grid input[type='date']:focus-visible {
+    outline: none;
+    border-color: var(--accent);
+    box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 22%, transparent);
+  }
+  /* Tint the picker glyph to the brand instead of the browser's default blue-grey. */
+  .itin-filter-grid input[type='date']::-webkit-calendar-picker-indicator {
+    cursor: pointer;
+    opacity: 0.65;
+    filter: sepia(1) saturate(4) hue-rotate(-18deg);
+  }
+  .itin-filter-grid input[type='date']::-webkit-calendar-picker-indicator:hover { opacity: 1; }
   .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; }
 
   /* IKEA-effect save-plan hint: server-hidden, un-hidden by the script after
