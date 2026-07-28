@@ -154,6 +154,27 @@ async function main() {
     ? `\n⚠️  ${detailsFailed} post(s) published WITHOUT phone/hours — the Details call FAILED (quota/network), so these are retry targets.`
     : '';
   console.log(`\n📦  Done. ${published} new post(s). ${done.size} target(s) completed total.${failNote}\n`);
+
+  // Busy-times reporting. A missing key, an exhausted account and a venue that
+  // simply has no forecast all produced the same silence before, which is how
+  // the key going unset went unnoticed for days. Lockouts now announce
+  // themselves loudly enough that the publish log and the Telegram summary
+  // carry them; 'no data' stays quiet because it is normal and expected.
+  try {
+    const { busynessDiagnostics } = await import('./lib/besttime.mjs');
+    const bd = busynessDiagnostics();
+    const attempted = Object.values(bd).reduce((a, b) => a + b, 0);
+    if (attempted) {
+      console.log(`📊 busy-times: ${bd.ok} with data, ${bd.noData} none listed` +
+        (bd.noKey ? `, ${bd.noKey} SKIPPED — BESTTIME_API_KEY not set` : '') +
+        (bd.quota ? `, ${bd.quota} BLOCKED — BestTime credits exhausted or rate-limited` : '') +
+        (bd.authFailed ? `, ${bd.authFailed} BLOCKED — BestTime key rejected` : '') +
+        (bd.apiError || bd.network ? `, ${bd.apiError + bd.network} API/network errors` : ''));
+      if (bd.noKey || bd.quota || bd.authFailed) {
+        console.log('⚠️  BUSYTIMES-BLOCKED: new posts shipped WITHOUT quiet-hours data — the one dataset Google Maps does not expose.');
+      }
+    }
+  } catch { /* reporting must never fail a publish */ }
 }
 
 // ── Queue building + round-robin rotation ────────────────────

@@ -61,8 +61,23 @@ function majorityHours(days, pick) {
  * hour arrays (24h clock), or null if there's no usable forecast (no key, no
  * data, API error, or venue-not-found — all non-fatal, publishing never blocks).
  */
+// Every failure used to return the same bare null: no key, exhausted credits, a
+// dead key, a network blip and "this venue genuinely has no forecast" were
+// indistinguishable. That is exactly how the missing API key went unnoticed for
+// days while every published post quietly lost its busy-times data. The reasons
+// are now counted apart so the publish run can say which one happened — the
+// difference between "these venues have no data" and "we are locked out" is the
+// difference between doing nothing and topping up an account.
+const diag = { noKey: 0, noData: 0, quota: 0, authFailed: 0, apiError: 0, network: 0, ok: 0 };
+
+/** Counts since process start, for the publish summary. */
+export function busynessDiagnostics() {
+  return { ...diag };
+}
+
 export async function fetchBusyness(venueName, venueAddress) {
-  if (!PRIVATE_KEY || !venueName || !venueAddress) return null;
+  if (!PRIVATE_KEY) { diag.noKey++; return null; }
+  if (!venueName || !venueAddress) { diag.noData++; return null; }
   const url =
     `${NEW_FORECAST}?api_key_private=${encodeURIComponent(PRIVATE_KEY)}` +
     `&venue_name=${encodeURIComponent(venueName)}` +
@@ -70,19 +85,31 @@ export async function fetchBusyness(venueName, venueAddress) {
   let res;
   try {
     res = await fetch(url, { method: 'POST' });
-  } catch { return null; }
-  if (!res.ok) return null;
+  } catch { diag.network++; return null; }
+  if (!res.ok) {
+    // 402/429 = out of credits or rate-limited; 401/403 = key rejected. Both mean
+    // no venue will get data today, which is worth saying out loud.
+    if (res.status === 402 || res.status === 429) diag.quota++;
+    else if (res.status === 401 || res.status === 403) diag.authFailed++;
+    else diag.apiError++;
+    return null;
+  }
   let data;
-  try { data = await res.json(); } catch { return null; }
+  try { data = await res.json(); } catch { diag.apiError++; return null; }
   // BestTime returns { status:"OK", analysis:[...7 days], venue_info:{venue_id} }
-  if (data.status && data.status !== 'OK') return null;
+  if (data.status && data.status !== 'OK') {
+    const msg = String(data.message || data.error || '').toLowerCase();
+    if (/credit|quota|limit|subscription|payment/.test(msg)) diag.quota++;
+    else diag.noData++;
+    return null;
+  }
   const analysis = data.analysis;
-  if (!Array.isArray(analysis) || analysis.length === 0) return null;
+  if (!Array.isArray(analysis) || analysis.length === 0) { diag.noData++; return null; }
 
   const byDay = (n) => analysis.find((a) => a?.day_info?.day_int === n);
   const weekdays = [0, 1, 2, 3, 4].map(byDay).filter(Boolean);
   const weekend = [5, 6].map(byDay).filter(Boolean);
-  if (!weekdays.length && !weekend.length) return null;
+  if (!weekdays.length && !weekend.length) { diag.noData++; return null; }
 
   const quiet = (d) => d?.quiet_hours;
   const busy = (d) => d?.busy_hours;
@@ -96,6 +123,7 @@ export async function fetchBusyness(venueName, venueAddress) {
   };
   // Nothing usable → treat as no data (don't write an empty box).
   if (!out.weekdayQuiet.length && !out.weekdayBusy.length &&
-      !out.weekendQuiet.length && !out.weekendBusy.length) return null;
+      !out.weekendQuiet.length && !out.weekendBusy.length) { diag.noData++; return null; }
+  diag.ok++;
   return out;
 }

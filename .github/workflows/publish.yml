@@ -87,7 +87,35 @@ jobs:
           TARGET_PER_COUNTRY: ${{ inputs.target }}
           MIN_RATING: '4.0'
           MIN_REVIEWS: '50'
-        run: npm run generate
+        run: |
+          set -o pipefail
+          npm run generate 2>&1 | tee /tmp/gen.log
+
+      # An exhausted BestTime account looks exactly like a quiet day unless someone
+      # says so: the fetch fails softly by design, so publishing never blocks on it.
+      # That softness is why a missing key went unnoticed for days. If the run was
+      # locked out — no key, no credits, key rejected — the owner hears about it the
+      # same morning, in Korean, because it is a paid account that needs a decision.
+      - name: Warn if busy-times data was blocked
+        if: always()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
+          grep -q 'BUSYTIMES-BLOCKED' /tmp/gen.log 2>/dev/null || exit 0
+          DETAIL=$(grep -m1 '📊 busy-times:' /tmp/gen.log | sed 's/.*busy-times: //')
+          if grep -q 'BESTTIME_API_KEY not set' /tmp/gen.log; then
+            CAUSE='BestTime API 키가 설정되지 않았습니다 (GitHub Secrets 확인 필요).'
+          elif grep -q 'credits exhausted' /tmp/gen.log; then
+            CAUSE='BestTime 크레딧이 소진되었습니다 — 충전이 필요합니다.'
+          else
+            CAUSE='BestTime 키가 거부되었습니다 — 키가 만료되었거나 잘못되었습니다.'
+          fi
+          TXT=$(printf '⚠️ 혼잡시간 데이터 누락\n%s\n\n오늘 발행된 글에 "한산한 시간" 정보가 들어가지 않았습니다. 이 항목은 구글 지도에 없는 우리만의 데이터입니다.\n집계: %s' "$CAUSE" "${DETAIL:-확인 불가}")
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+            --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
+            --data-urlencode "text=$TXT" >/dev/null || true
 
       # Translate the newly-generated posts into ko/ja/es/zh BEFORE committing, so
       # every post ships with its translations in the same push (no English-only
