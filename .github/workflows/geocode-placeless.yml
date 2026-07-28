@@ -23,6 +23,13 @@ on:
         description: 'Max posts to process this run (1 Places search call each)'
         required: false
         default: ''
+  # No gh CLI on the dev box, so a push of data/geocode-trigger is the manual
+  # trigger: the file's first line is the region argument ('' = all regions).
+  # Same review-per-run intent as workflow_dispatch — the file only changes when
+  # a human (or the controller session) commits it.
+  push:
+    branches: [main]
+    paths: ['data/geocode-trigger']
 
 permissions:
   contents: write
@@ -45,8 +52,13 @@ jobs:
         env:
           GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
         run: |
+          REGION="${{ github.event.inputs.region }}"
+          # push-trigger path: region comes from the trigger file's first line
+          if [ -z "$REGION" ] && [ "${{ github.event_name }}" = "push" ] && [ -f data/geocode-trigger ]; then
+            REGION=$(head -1 data/geocode-trigger | tr -d '\r')
+          fi
           args=()
-          if [ -n "${{ github.event.inputs.region }}" ]; then args+=("--region=${{ github.event.inputs.region }}"); fi
+          if [ -n "$REGION" ]; then args+=("--region=$REGION"); fi
           if [ -n "${{ github.event.inputs.limit }}" ]; then args+=("--limit=${{ github.event.inputs.limit }}"); fi
           node scripts/geocode-placeless.mjs "${args[@]}" | tee /tmp/geocode.log
 
