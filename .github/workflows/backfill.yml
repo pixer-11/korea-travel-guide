@@ -9,13 +9,19 @@ name: Backfill countries to target
 # Runs shortly after the Places quota resets (~08:00 UTC = Pacific midnight) so
 # it gets a fresh daily allowance. The normal 8/day publish.yml runs at 22:00 UTC.
 on:
-  # PAUSED 2026-07-23: new-post generation suspended so the whole daily Places
-  # quota goes to venue-photos.yml, which is replacing REAL Google photos on 162
-  # food/trendy/hidden-gem posts that currently show mismatched Commons images
-  # (a restaurant showing an ambulance, etc.). Re-enable this cron once venue
-  # photos are backfilled. Manual runs still work via workflow_dispatch.
-  # schedule:
-  #   - cron: '43 8 * * *' # 08:43 UTC daily (off the hour), just after Places quota reset
+  # Chained to publish, not scheduled — same reason as backfill-details.yml:
+  # publish must get the fresh Places window first, and GitHub has delayed the
+  # publish cron by over three hours, which would let a fixed-time cron here run
+  # first and eat the quota. The old '43 8 * * *' cron is gone for good.
+  #
+  # This does NOT mean it runs every day: the first step checks whose turn it is
+  # (scripts/fill-phase.mjs) and exits immediately unless the phone/hours backlog
+  # has finished. The July 2026 pause was a commented-out cron that nothing would
+  # ever have uncommented — the handover is now a condition the jobs evaluate
+  # themselves.
+  workflow_run:
+    workflows: ['Auto-generate & publish posts']
+    types: [completed]
   workflow_dispatch:
     inputs:
       count:
@@ -27,17 +33,49 @@ on:
         required: false
         default: '58'
 
-# Shares the daily Places Details budget with publish/backfill/quality-audit —
-# a manual run must queue behind them, never spend the window in parallel.
-concurrency:
-  group: places-quota
-  cancel-in-progress: false
-
 permissions:
   contents: write
 
+# Shared with backfill-details.yml — see the note there.
+concurrency: places-bulk
+
 jobs:
+  # Separate job so the whole batch is gated by one condition instead of every
+  # step carrying its own `if:` — a step-level guard that gets forgotten on one
+  # step is how an empty run ends up committing nothing and announcing it anyway.
+  # No npm ci here: fill-phase.mjs uses only Node built-ins, so the gate is a few
+  # seconds even when the answer is "not today".
+  gate:
+    runs-on: ubuntu-latest
+    outputs:
+      run: ${{ steps.phase.outputs.run }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Check whose turn it is
+        id: phase
+        run: |
+          PHASE=$(node scripts/fill-phase.mjs get)
+          # A manual dispatch always runs — that is a person deciding, not the schedule.
+          if [ "${{ github.event_name }}" != "workflow_run" ]; then
+            echo "run=1" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.event.workflow_run.conclusion }}" != "success" ]; then
+            # A failed publish can leave the repo mid-change; a 25-post batch on
+            # top of that buries the original failure.
+            echo "run=0" >> "$GITHUB_OUTPUT"
+            echo "발행이 실패해서 이번 대량발행은 건너뜁니다."
+          elif [ "$PHASE" != "country" ]; then
+            echo "run=0" >> "$GITHUB_OUTPUT"
+            echo "단계가 '$PHASE' 이므로 건너뜁니다 (전화·영업시간 채우기가 아직 진행 중)."
+          else
+            echo "run=1" >> "$GITHUB_OUTPUT"
+          fi
+
   backfill:
+    needs: gate
+    if: needs.gate.outputs.run == '1'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -60,7 +98,13 @@ jobs:
           # 1 Details (like-a-local) + up to ~4 Photo calls, and venue-photos.yml
           # (capped 25) shares the same Places day. If the run logs "Details 429"
           # or publish yields ~0, lower this further. Was 90 → starved publish to ~2.
-          POSTS_PER_RUN: ${{ github.event.inputs.count || '75' }}
+          # 75 was sized for a day when this ran ALONE on a fresh quota. Chained
+          # behind publish it shares the window with 16 published posts, so the
+          # chained default is 25 — measured headroom after publish was ~57
+          # Details calls, and each generated post costs a Text Search plus a
+          # Details. A manual dispatch keeps the old 75 for a deliberate catch-up
+          # run on a quiet quota day.
+          POSTS_PER_RUN: ${{ github.event.inputs.count || (github.event_name == 'workflow_run' && '25' || '75') }}
           TARGET_PER_COUNTRY: ${{ github.event.inputs.target || '58' }}
           MIN_RATING: '4.0'
           MIN_REVIEWS: '50'

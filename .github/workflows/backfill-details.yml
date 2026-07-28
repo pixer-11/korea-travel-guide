@@ -40,10 +40,44 @@ on:
 permissions:
   contents: write
 
-concurrency: backfill-details
+# Shared with backfill.yml: both chain off the same publish run, so on the day
+# the phase flips they would otherwise start together and spend the same Places
+# budget twice. Queued, not cancelled (cancel-in-progress defaults to false), so
+# the second one waits rather than being thrown away.
+concurrency: places-bulk
 
 jobs:
+  # Separate gate job: one condition for the whole batch instead of an `if:` on
+  # every step, where the one that gets forgotten produces an empty run that
+  # still commits and still announces itself. fill-phase.mjs needs no deps, so
+  # this costs seconds on the days the answer is "not your turn".
+  gate:
+    runs-on: ubuntu-latest
+    outputs:
+      run: ${{ steps.phase.outputs.run }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Check whose turn it is
+        id: phase
+        run: |
+          PHASE=$(node scripts/fill-phase.mjs get)
+          # A manual dispatch or a trigger-file push is a person asking for this
+          # run; only the daily chain defers to whose turn it is.
+          if [ "${{ github.event_name }}" != "workflow_run" ]; then
+            echo "run=1" >> "$GITHUB_OUTPUT"
+          elif [ "$PHASE" != "details" ]; then
+            echo "run=0" >> "$GITHUB_OUTPUT"
+            echo "단계가 '$PHASE' 이므로 건너뜁니다 (대량발행으로 전환됨)."
+          else
+            echo "run=1" >> "$GITHUB_OUTPUT"
+          fi
+
   details:
+    needs: gate
+    if: needs.gate.outputs.run == '1'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -89,12 +123,29 @@ jobs:
           mkdir -p data/logs
           cp /tmp/bf.log data/logs/backfill-last-run.txt
 
+      # Records what this run achieved and, after three consecutive empty days,
+      # hands the daily quota to country-fill. Only scheduled (chained) runs
+      # count: a manual dispatch is someone poking at it, not evidence about the
+      # backlog, and letting it move the streak would make the handover depend on
+      # who ran what by hand.
+      - name: Record progress (may hand over to country-fill)
+        id: phaserec
+        if: github.event_name == 'workflow_run'
+        run: |
+          UPDATED=$(grep -o 'updated [0-9]\+' /tmp/bf.log | head -1 | grep -o '[0-9]\+' || true)
+          OUT=$(node scripts/fill-phase.mjs record --updated "$UPDATED")
+          echo "$OUT"
+          if printf '%s' "$OUT" | grep -q '^HANDOVER'; then
+            echo "handover=1" >> "$GITHUB_OUTPUT"
+            printf '%s' "$OUT" | tail -n +2 > /tmp/handover.txt
+          fi
+
       - name: Commit updated posts
         id: commit
         run: |
           git config user.name "content-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add src/content/posts data/logs/backfill-last-run.txt
+          git add src/content/posts data/logs/backfill-last-run.txt data/fill-phase.json
           summary=$(tail -1 /tmp/bf.log)
           echo "summary=$summary" >> "$GITHUB_OUTPUT"
           if git diff --staged --quiet; then
@@ -119,6 +170,11 @@ jobs:
             if [ "$CHANGED" = "1" ]; then head="📞 전화·영업시간 채우기 완료"; else head="📞 전화·영업시간 채우기 — 오늘은 새로 채울 것 없음"; fi
           else
             head="⚠️ 전화·영업시간 채우기 실패 — 로그 확인 필요"
+          fi
+          # The handover is the one thing here the owner must not miss: tomorrow's
+          # automation does something different because of it.
+          if [ -f /tmp/handover.txt ]; then
+            head="$(printf '🔄 작업 전환 안내\n%s\n\n%s' "$(cat /tmp/handover.txt)" "$head")"
           fi
           # printf builds the line break — a literal newline inside this block
           # scalar would have to start at column 0, which ENDS the scalar and
