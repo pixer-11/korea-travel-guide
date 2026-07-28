@@ -99,40 +99,39 @@ const LOCAL_SIGNAL_MASK = [
  * each review's language code + star rating as numeric signals. Returns null on
  * any error/quota so publishing never blocks on it.
  */
-export async function fetchPlaceReviewSignals(placeId, { reportFailure = false } = {}) {
+export async function fetchPlaceReviewSignals(placeId) {
   if (!KEY || !placeId) return null;
-  let res;
-  try {
-    res = await fetch(`https://places.googleapis.com/v1/places/${placeId}`, {
-      headers: {
-        'X-Goog-Api-Key': KEY,
-        'X-Goog-FieldMask': LOCAL_SIGNAL_MASK,
-        'Content-Type': 'application/json',
-      },
-    });
-  } catch (e) {
-    return reportFailure ? { failure: 'network', detail: e.message } : null;
-  }
-  // Surface a Details-quota 429 instead of swallowing it — otherwise like-a-local
-  // signals silently vanish from every post once the shared Places day is drained.
-  //
-  // reportFailure distinguishes WHY the call failed for bulk callers. Returning a
-  // bare null for every failure made a 403 (key without Places API access — what
-  // the dev box's own key returns) indistinguishable from a 429, so a permissions
-  // problem got counted and reported as "quota exhausted" and waited out instead
-  // of fixed. Publishing keeps the lenient default: it must never block on this.
-  if (res.status === 429) {
-    console.warn('  ⚠ Places Details 429 — like-a-local signals skipped (details quota exhausted)');
-    return reportFailure ? { failure: 429 } : null;
-  }
-  if (!res.ok) {
-    if (reportFailure) {
-      const body = await res.text().catch(() => '');
-      console.warn(`  ⚠ Places Details ${res.status} — NOT a quota problem: ${body.slice(0, 160)}`);
-      return { failure: res.status, detail: body.slice(0, 160) };
+  // Retry transient failures before giving up. A swallowed 429/503 used to publish
+  // the post with EMPTY phone/openingHours, which then had to be back-filled by a
+  // second job on a later day — paying for the same venue twice and leaving the
+  // fact box thin in between. Google's per-minute burst limit clears in seconds,
+  // so a short backoff recovers most of these within the same run.
+  const ATTEMPTS = 3;
+  let res = null;
+  for (let attempt = 1; attempt <= ATTEMPTS; attempt++) {
+    try {
+      res = await fetch(`https://places.googleapis.com/v1/places/${placeId}`, {
+        headers: {
+          'X-Goog-Api-Key': KEY,
+          'X-Goog-FieldMask': LOCAL_SIGNAL_MASK,
+          'Content-Type': 'application/json',
+        },
+      });
+    } catch {
+      res = null; // network blip — same retry path as a 5xx
     }
+    const retryable = !res || res.status === 429 || res.status >= 500;
+    if (!retryable) break;
+    if (attempt < ATTEMPTS) {
+      await new Promise((r) => setTimeout(r, attempt * 1500));
+      continue;
+    }
+    // Out of attempts: say which failure it was, so a run that produced thin
+    // posts is diagnosable from the log instead of looking like "no data".
+    console.warn(`  ⚠ Places Details ${res ? res.status : 'network'} after ${ATTEMPTS} tries — phone/hours unavailable for this post`);
     return null;
   }
+  if (!res || !res.ok) return null;
   const p = await res.json();
   const reviewLangs = (p.reviews ?? [])
     .map((r) => r.originalText?.languageCode || r.text?.languageCode)

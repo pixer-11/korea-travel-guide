@@ -114,6 +114,9 @@ async function main() {
   );
 
   let published = 0;
+  // Posts whose Details call FAILED outright (quota/network after retries) —
+  // reported separately from venues that simply have no phone on file.
+  let detailsFailed = 0;
   for (const target of queue) {
     if (published >= POSTS_PER_RUN) break;
     try {
@@ -145,7 +148,12 @@ async function main() {
   }
 
   await savePublished(done);
-  console.log(`\n📦  Done. ${published} new post(s). ${done.size} target(s) completed total.\n`);
+  // A failed Details call and a venue with no phone on file look identical in
+  // the output, so they are counted apart: only the first kind is worth a retry.
+  const failNote = detailsFailed
+    ? `\n⚠️  ${detailsFailed} post(s) published WITHOUT phone/hours — the Details call FAILED (quota/network), so these are retry targets.`
+    : '';
+  console.log(`\n📦  Done. ${published} new post(s). ${done.size} target(s) completed total.${failNote}\n`);
 }
 
 // ── Queue building + round-robin rotation ────────────────────
@@ -504,6 +512,11 @@ async function buildLivePost(target) {
     // Verified contact/hours from the same Details call → practical fact box.
     if (raw?.phone) place.phone = raw.phone;
     if (raw?.openingHours?.length) place.openingHours = raw.openingHours;
+    // raw === null means the CALL failed (quota/network), not that the venue
+    // has no phone listed. Counting the two separately is what tells a thin
+    // run apart from a run full of ancient gates and public squares, which
+    // legitimately have neither a phone nor posted hours.
+    if (raw === null) detailsFailed++;
     if (localSignals) {
       const lf = localSignals.localsFavorite ? ' · locals-favourite' : '';
       console.log(`  📍 signals: ${localSignals.popularity}${lf}${localSignals.localSecretOk ? ' · secret-ok' : ''}`);
