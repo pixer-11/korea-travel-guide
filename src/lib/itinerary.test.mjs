@@ -326,6 +326,37 @@ test('R1: minimal-detour lunch — far restaurant skipped, near restaurant sched
   }
 });
 
+test('R2: HARD CONSTRAINT — ise-sueyoshi (evening-only kaiseki) never in lunch/morning', () => {
+  // Real case: Tokyo ise-sueyoshi says "Evening dinner service is the standard time slot"
+  const iseSueyoshi = {
+    id: 'tokyo-ise-sueyoshi',
+    data: {
+      title: 'Ise Sueyoshi Kaiseki',
+      category: 'restaurant',
+      place: { lat: 35.6762, lng: 139.7674, businessStatus: 'OPERATIONAL' },
+      tags: []
+    },
+    body: 'Evening dinner service is the standard time slot for this kind of kaiseki experience.'
+  };
+
+  assert.equal(preferredSlot(iseSueyoshi), 'evening', 'should recognize "Evening dinner service is standard"');
+
+  // If this venue appears in an itinerary, it must be in evening slot only
+  const posts = [];
+  for (let i = 0; i < 6; i++) posts.push(P(`tokyo${i}`, 35.68, 139.77, 'attraction'));
+  posts.push(iseSueyoshi);
+
+  const it = buildItinerary(posts, { days: 2 });
+  if (it.ok) {
+    for (const day of it.days) {
+      const found = day.stops.find((s) => s.slug === 'tokyo-ise-sueyoshi');
+      if (found) {
+        assert.equal(found.slot, 'evening', 'ise-sueyoshi must be evening, not ' + found.slot);
+      }
+    }
+  }
+});
+
 test('R2: time-of-day slotting — evening venue never in lunch/morning, morning venue never in evening', () => {
   // Evening-preferring venue
   const eveningVenue = {

@@ -295,12 +295,17 @@ function planDay(cluster, stopsWanted) {
   stops.push({ post: picked[0], slot: 'morning' });
 
   // R1: Pick lunch restaurant with minimal detour (added distance to route)
-  // Only schedule lunch if best restaurant adds < 2.5 km detour; otherwise skip
+  // R2: HARD CONSTRAINT — respect time-of-day preference (never mis-slot a venue)
+  // Only schedule lunch if: best lunch-compatible restaurant adds < 2.5 km detour
   const LUNCH_DETOUR_THRESHOLD = 2.5;
   let bestLunch = null, bestLunchDetour = Infinity;
 
   if (restaurants.length > 0 && picked.length >= 2) {
     for (const rest of restaurants) {
+      // R2 hard constraint: venue's preference must allow lunch
+      const pref = preferredSlot(rest);
+      if (pref === 'evening' || pref === 'morning') continue; // Skip incompatible venues
+
       // Detour cost: dist(morning → rest) + dist(rest → next) - dist(morning → next)
       const prevStop = stops[0].post;
       const nextStop = picked[1];
@@ -314,15 +319,11 @@ function planDay(cluster, stopsWanted) {
       }
     }
 
-    // R2: Respect time-of-day preferences — only place if preference allows lunch
     if (bestLunch && bestLunchDetour < LUNCH_DETOUR_THRESHOLD) {
-      const pref = preferredSlot(bestLunch);
-      if (pref !== 'evening' && pref !== 'morning') {
-        stops.push({ post: bestLunch, slot: 'lunch' });
-        // Remove used restaurant
-        const idx = restaurants.indexOf(bestLunch);
-        if (idx !== -1) restaurants.splice(idx, 1);
-      }
+      stops.push({ post: bestLunch, slot: 'lunch' });
+      // Remove used restaurant
+      const idx = restaurants.indexOf(bestLunch);
+      if (idx !== -1) restaurants.splice(idx, 1);
     }
   }
 
@@ -374,19 +375,36 @@ export function buildItinerary(posts, { days }) {
     if (stops.length === 0) {
       return { ok: false, reason: `day ${d + 1} has no stops (restaurant-only or under-provisioned cluster)`, days: [] };
     }
+    // Regression 1 fix: enforce minimum 3 stops per day
+    if (stops.length < 3) {
+      return { ok: false, reason: `day ${d + 1} has only ${stops.length} stops, need ≥3 per plan bounds`, days: [] };
+    }
     // R3: Find best indoor rain swap from entire city (not just this day's cluster)
     const used = new Set(out.flatMap((x) => x.stops.map((s) => s.slug)).concat(stops.map((s) => s.post.id)));
 
-    // Score posts as indoor-likely by category + keywords
-    const isIndoorLikely = (p) => {
+    // R3: Score posts as genuinely indoor-likely. Exclude open-air signals.
+    // Enclosed buildings: museum, gallery, mall, department, aquarium, arcade, spa, onsen, bathhouse, library, hall, centre, tower, covered market.
+    // Open-air signals to EXCLUDE: street food, outdoor, open-air, night market, weekend market, park, garden, pier, beach, plaza, square, village, alley, street.
+    const isGenuinelyIndoor = (p) => {
       const cat = p.data.category;
-      if (cat === 'restaurant' || cat === 'trendy') return true;
-      const text = (p.data.title + ' ' + (p.data.tags || []).join(' ')).toLowerCase();
-      return /museum|gallery|mall|market|aquarium|arcade|spa|onsen|cafe|teahouse|department|store|hall|centre|center|library|bathhouse/i.test(text);
+      const text = (p.data.title + ' ' + (p.data.tags || []).join(' ') + ' ' + (p.body || '')).toLowerCase();
+
+      // Exclude venues with open-air indicators
+      if (/street food|open.?air|night market|weekend market|park|garden|pier|beach|plaza|square|village|alley|street\s+(?:food|stall|market)/i.test(text)) {
+        return false;
+      }
+
+      // Only include restaurants if they're clearly enclosed (e.g., "indoor")
+      if (cat === 'restaurant' && !/indoor|covered|hall|mall|arcade/i.test(text)) return false;
+
+      // Include enclosed building categories
+      return /museum|gallery|mall|department|aquarium|arcade|spa|onsen|bathhouse|library|hall|centre|center|tower|covered market/i.test(text);
     };
 
-    // Find unused indoor posts from city; pick nearest to day's geographic centre
+    // Find unused, genuinely indoor posts from city; pick nearest to day's geographic centre
     let rain = null;
+    const usedRainSlugs = new Set(out.map((d) => d.rainSwapSlug).filter((s) => s !== null));
+
     if (stops.length > 0) {
       const dayCenter = {
         lat: stops.reduce((s, stop) => s + stop.post.data.place.lat, 0) / stops.length,
@@ -395,7 +413,7 @@ export function buildItinerary(posts, { days }) {
 
       let bestDist = Infinity;
       for (const p of q) {
-        if (!used.has(p.id) && isIndoorLikely(p)) {
+        if (!used.has(p.id) && !usedRainSlugs.has(p.id) && isGenuinelyIndoor(p)) {
           const d = haversineKm(dayCenter.lat, dayCenter.lng, p.data.place.lat, p.data.place.lng);
           if (d < bestDist) {
             bestDist = d;
