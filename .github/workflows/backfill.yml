@@ -14,7 +14,7 @@ name: Backfill countries to target
 # no content validation, no itinerary rebuild, no translation audit, and none of
 # the follow-up translations (place names, country blurbs, region intros). Every
 # guard added to publish.yml simply did not exist on this path, so this job was
-# about to publish 25 posts a day for weeks through the unguarded one. Two copies
+# about to publish a batch a day for weeks through the unguarded one. Two copies
 # of the same pipeline means the next fix lands in one of them; calling the real
 # one is the only arrangement that stays true on its own.
 on:
@@ -68,20 +68,27 @@ jobs:
           # spent 21 more with zero 429s. So the window holds ≥73 calls a day and
           # publish only claims 16 of them.
           #
-          # 45 therefore fits with room to spare (16 + 45 = 61) and is not the
-          # cautious 25 an earlier revision used, which left half the daily budget
-          # unspent and stretched the 527-guide backlog from ~9 days to ~3 weeks
-          # for no reason. Overshooting is cheap anyway: generate.mjs stops
-          # cleanly on the first 429 and leaves the targets unmarked for tomorrow.
+          # The cap is deliberately ABOVE what a slow day can deliver, because
+          # the quota enforces itself better than a guess does: on the first 429
+          # generate.mjs breaks out of the loop, saves what it published, leaves
+          # the unreached targets unmarked and exits 0 — so every step after it
+          # (translations, itinerary rebuild, all four validators, the Korean
+          # warnings) still runs on a short day exactly as on a full one. A number
+          # picked to be safe just leaves budget unspent: 25 stretched the
+          # 527-guide backlog from ~9 days to ~3 weeks for nothing.
+          #
+          # 75 leaves a small margin under the observed ceiling (16 + 75 = 91
+          # against ~100) for the odd Places call elsewhere, and on a day the
+          # window turns out smaller the run simply stops early.
           if [ "${{ github.event_name }}" != "workflow_run" ]; then
             echo "count=${{ github.event.inputs.count || '75' }}" >> "$GITHUB_OUTPUT"
             echo "run=1" >> "$GITHUB_OUTPUT"          # a person asked for this run
             exit 0
           fi
-          echo "count=45" >> "$GITHUB_OUTPUT"
+          echo "count=75" >> "$GITHUB_OUTPUT"
           if [ "${{ github.event.workflow_run.conclusion }}" != "success" ]; then
-            # A failed publish can leave the repo mid-change; a 25-post batch on
-            # top of that buries the original failure.
+            # A failed publish can leave the repo mid-change; piling a full batch
+            # on top of that buries the original failure.
             echo "run=0" >> "$GITHUB_OUTPUT"
             echo "발행이 실패해서 이번 대량발행은 건너뜁니다."
           elif [ "$PHASE" != "country" ]; then
