@@ -60,17 +60,25 @@ jobs:
         id: phase
         run: |
           PHASE=$(node scripts/fill-phase.mjs get)
-          # 75 was sized for a day when this ran ALONE on a fresh quota. Chained
-          # behind publish it shares the window with 16 published posts, and
-          # measured headroom after publish was ~57 Details calls — each post
-          # costs a Text Search plus a Details. So the chained batch is 25; a
-          # manual dispatch keeps 75 for a deliberate catch-up on a quiet day.
+          # Batch size comes from the ONE call that is actually rationed. A post
+          # costs 1 Text Search (75k/day — effectively free) and exactly 1 Place
+          # Details (~100/day — the real ceiling), taken once after the venue is
+          # chosen, not per candidate. Measured: 2026-07-27 left ~57 Details of
+          # headroom after the 16-post publish, and 2026-07-28's post-publish run
+          # spent 21 more with zero 429s. So the window holds ≥73 calls a day and
+          # publish only claims 16 of them.
+          #
+          # 45 therefore fits with room to spare (16 + 45 = 61) and is not the
+          # cautious 25 an earlier revision used, which left half the daily budget
+          # unspent and stretched the 527-guide backlog from ~9 days to ~3 weeks
+          # for no reason. Overshooting is cheap anyway: generate.mjs stops
+          # cleanly on the first 429 and leaves the targets unmarked for tomorrow.
           if [ "${{ github.event_name }}" != "workflow_run" ]; then
             echo "count=${{ github.event.inputs.count || '75' }}" >> "$GITHUB_OUTPUT"
             echo "run=1" >> "$GITHUB_OUTPUT"          # a person asked for this run
             exit 0
           fi
-          echo "count=25" >> "$GITHUB_OUTPUT"
+          echo "count=45" >> "$GITHUB_OUTPUT"
           if [ "${{ github.event.workflow_run.conclusion }}" != "success" ]; then
             # A failed publish can leave the repo mid-change; a 25-post batch on
             # top of that buries the original failure.
