@@ -1,0 +1,86 @@
+name: In-body gallery photos
+
+# Adds ONE verified second photo inside the article body. Sources: Wikimedia
+# Commons (landmarks) then the venue's own Foursquare photos (cafes/restaurants,
+# which an encyclopedia never has). Every candidate goes through the vision gate,
+# which rejects a wrong place, a photo merely NEAR the place, and a near-duplicate
+# of the hero — so a post with no good second photo simply keeps its single hero.
+#
+# No Google Places quota is involved, so this can run any time; it shares the
+# places-quota lane only to keep content pushes from racing each other.
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'How many posts to ADD a photo to (stops after this many successes)'
+        required: false
+        default: '20'
+      dry_run:
+        description: 'Judge only, write nothing (true/false)'
+        required: false
+        default: 'false'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: places-quota
+  cancel-in-progress: false
+
+jobs:
+  gallery:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+
+      - name: Add in-body photos
+        env:
+          FOURSQUARE_API_KEY: ${{ secrets.FOURSQUARE_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          LIMIT: ${{ github.event.inputs.limit || '20' }}
+          DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '' }}
+        run: |
+          set -o pipefail
+          node scripts/add-gallery-photos.mjs 2>&1 | tee /tmp/gal.log
+
+      # Actions logs need auth to read, so the run's own report is committed as a
+      # file — the same pattern the geocode and backfill jobs use.
+      - name: Save log to repo
+        if: always()
+        run: |
+          mkdir -p data/logs
+          cp /tmp/gal.log data/logs/gallery-last-run.txt || true
+
+      - name: Commit
+        id: commit
+        run: |
+          git config user.name "content-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add src/content/posts data/logs/gallery-last-run.txt
+          if git diff --staged --quiet; then
+            echo "changed=0" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=1" >> "$GITHUB_OUTPUT"
+            git commit -m "content: in-body photos ($(date -u +%Y-%m-%d))"
+            git pull --rebase origin main
+            git push
+          fi
+
+      - name: Notify Telegram (Korean)
+        if: always()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          JOB_STATUS: ${{ job.status }}
+        run: |
+          added=$(grep -c '→ ✅ 추가' /tmp/gal.log || true)
+          rej=$(grep -c '→ ❌' /tmp/gal.log || true)
+          if [ "$JOB_STATUS" = "success" ]; then head="🖼️ 본문 사진 추가"; else head="⚠️ 본문 사진 추가 실패 — 로그 확인"; fi
+          curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            -d chat_id="${TELEGRAM_CHAT_ID}" \
+            --data-urlencode "text=$(printf '%s\n추가: %s편 · 반려: %s편\n(반려는 정확한 사진이 없어 안 넣은 것 — 정상)' "$head" "${added:-0}" "${rej:-0}")" > /dev/null
