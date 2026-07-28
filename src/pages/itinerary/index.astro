@@ -1,0 +1,96 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getLangFromUrl, useTranslations } from '../../i18n/utils';
+import { localizePlace } from '../../i18n/places';
+
+// Thin-but-real hub listing every published itinerary. Facts (hero image) come
+// from the first stop's own post, same "never invent, always read from the
+// source post" rule as the itinerary page itself.
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+
+const itineraries = await getCollection('itineraries', ({ data }) => !data.draft);
+const allPosts = await getCollection('posts', ({ data }) => !data.draft);
+const postsById = new Map(allPosts.map((p) => [p.id, p]));
+
+const cards = itineraries
+  .map((it) => {
+    const firstSlug = it.data.itinerary[0]?.stops[0]?.slug;
+    const firstPost = firstSlug ? postsById.get(firstSlug) : null;
+    return {
+      id: it.id,
+      title: it.data.title,
+      description: it.data.description,
+      city: it.data.city,
+      days: it.data.days,
+      stopCount: it.data.itinerary.reduce((n, d) => n + d.stops.length, 0),
+      image: firstPost?.data.heroImage?.url,
+    };
+  })
+  .sort((a, b) => a.city.localeCompare(b.city));
+
+const metaTitle = t('itin.indexTitle');
+const metaDesc = t('itin.indexDek');
+const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
+const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'CollectionPage',
+      name: metaTitle,
+      description: metaDesc,
+      url: pageUrl,
+      isPartOf: { '@id': `${site}/#site` },
+    },
+    {
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: t('post.home'), item: `${site}${lang === 'en' ? '/' : `/${lang}/`}` },
+        { '@type': 'ListItem', position: 2, name: t('itin.indexEyebrow'), item: pageUrl },
+      ],
+    },
+  ],
+};
+---
+
+<BaseLayout title={metaTitle} description={metaDesc} jsonLd={jsonLd} localized={true}>
+  <section class="page-hero">
+    <div class="wrap">
+      <p class="eyebrow">{t('itin.indexEyebrow')}</p>
+      <h1>{metaTitle}</h1>
+      <p class="region-blurb">{metaDesc}</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      {cards.length === 0 ? (
+        <div class="fact-box" style="text-align:center"><p>{t('itin.emptyIndex')}</p></div>
+      ) : (
+        <div class="grid">
+          {cards.map((c) => (
+            <a class="card" href={`/itinerary/${c.id}`}>
+              <div class="thumb">
+                <img src={c.image ?? '/images/placeholder-market.svg'} alt={c.title} width="600" height="400" loading="lazy" decoding="async" />
+                <span class="badge">{t('itin.daysCount').replace('{n}', String(c.days))}</span>
+              </div>
+              <div class="card-body">
+                <span class="region-label">{localizePlace(c.city, lang)}</span>
+                <h3>{c.title}</h3>
+                <p>{c.description}</p>
+                <p class="itin-index-stops">{t('itin.stopsCount').replace('{n}', String(c.stopCount))}</p>
+              </div>
+            </a>
+          ))}
+        </div>
+      )}
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .itin-index-stops { margin-top: 0.4rem; font-size: 0.82rem; font-weight: 600; color: var(--accent); }
+</style>

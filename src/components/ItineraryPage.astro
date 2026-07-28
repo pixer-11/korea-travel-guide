@@ -1,0 +1,493 @@
+---
+// Shared itinerary view for BOTH the English page (/itinerary/<slug>) and the
+// localized pages (/ko/itinerary/<slug> etc). One template, same pattern as
+// PostArticle.astro. `translation` is an itinerariesI18n entry — it supplies
+// PROSE only (day labels/intros, per-stop "why", FAQ, title/description). Every
+// HARD FACT shown on a stop card (rating, review count, address, hours, closed
+// days, quiet windows, coordinates) is read from the source POST at render
+// time — never from the itinerary file, which carries connective prose only.
+// A translation is optional and never blocks the build: missing fields fall
+// back to the English source, per stop.
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Newsletter from './Newsletter.astro';
+import PlanTrip from './PlanTrip.astro';
+import Emoji from './Emoji.astro';
+import { slugifyRegion } from '../lib/slug';
+import { getLangFromUrl, useTranslations, localeCodes, localizePath, klookLocale, type Lang } from '../i18n/utils';
+import { localizePlace } from '../i18n/places';
+import { closedDaysOf } from '../lib/itinerary.mjs';
+
+interface Props {
+  itinerary: any; // CollectionEntry<'itineraries'>
+  translation?: any; // CollectionEntry<'itinerariesI18n'>
+}
+const { itinerary, translation } = Astro.props;
+const d = itinerary.data;
+const tr = translation?.data;
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+
+const title = tr?.title ?? d.title;
+const description = tr?.description ?? d.description;
+const quickAnswer = tr?.quickAnswer ?? d.quickAnswer;
+const faq = (tr?.faq?.length ? tr.faq : d.faq) ?? [];
+
+const regionLabel = localizePlace(d.city, lang);
+const countryLabel = localizePlace(d.country, lang);
+const countrySlug = String(d.country).toLowerCase().replace(/\s+/g, '-');
+const sameRegionCountry = d.city.toLowerCase() === String(d.country).toLowerCase();
+const updated = d.updatedDate ?? d.pubDate;
+
+// ---- Resolve every stop's post. Facts NEVER come from the itinerary file. ----
+// Loud failure by design: a stop that can't resolve to a live, non-draft post
+// would otherwise silently vanish from the page — a wrong itinerary is worse
+// than a broken build.
+const allPosts = await getCollection('posts');
+const postsById = new Map(allPosts.map((p) => [p.id, p]));
+function resolveStop(slug: string) {
+  const post = postsById.get(slug);
+  if (!post) {
+    throw new Error(`Itinerary "${itinerary.id}": stop slug "${slug}" has no matching post in the posts collection.`);
+  }
+  if (post.data.draft) {
+    throw new Error(`Itinerary "${itinerary.id}": stop slug "${slug}" resolves to a DRAFT post — refusing to render.`);
+  }
+  return post;
+}
+
+// Same-language post titles/links as PostArticle's postHref/postTitle: a stop
+// links to its localized post page only when that translation actually exists,
+// otherwise falls back to the English post URL rather than a 404.
+const sameLangPostTitles =
+  lang === 'en'
+    ? new Map<string, string>()
+    : new Map((await getCollection('postI18n', ({ data }) => data.lang === lang)).map((e) => [e.data.slug, e.data.title]));
+const postHref = (id: string) => (sameLangPostTitles.has(id) ? localizePath(`/posts/${id}`, lang) : `/posts/${id}`);
+const postTitleFor = (post: any) => sameLangPostTitles.get(post.id) ?? post.data.title;
+
+// Weekday name from Google's "Tuesday: Closed" style string, localized via the
+// same Intl formatter used for dates elsewhere — no separate translation table
+// needed. 2023-01-01 was a Sunday, so index 0 = Sunday.
+const WEEKDAYS = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+function localizedWeekday(name: string): string {
+  const idx = WEEKDAYS.indexOf(name);
+  if (idx === -1) return name;
+  const date = new Date(Date.UTC(2023, 0, 1 + idx));
+  return date.toLocaleDateString(localeCodes[lang], { weekday: 'long', timeZone: 'UTC' });
+}
+
+// Real foot-traffic hour ranges (same shape as PostArticle's fmtHourRanges),
+// restricted to hours that fall inside the stop's own visit slot — never guess.
+const SLOT_HOURS: Record<string, [number, number]> = {
+  morning: [6, 11],
+  lunch: [11, 14],
+  afternoon: [14, 17],
+  evening: [17, 23],
+};
+function fmtHourRanges(xs: number[]): string {
+  const f = (h: number) => { const x = ((h % 24) + 24) % 24; return { t: x % 12 === 0 ? 12 : x % 12, m: x < 12 ? 'AM' : 'PM' }; };
+  const runs: [number, number][] = [];
+  let s = xs[0], prev = xs[0];
+  for (let i = 1; i < xs.length; i++) { if (xs[i] === prev + 1) { prev = xs[i]; continue; } runs.push([s, prev]); s = xs[i]; prev = xs[i]; }
+  runs.push([s, prev]);
+  return runs.map(([a, b]) => { const x = f(a), y = f(b + 1); return x.m === y.m ? `${x.t}–${y.t} ${y.m}` : `${x.t} ${x.m}–${y.t} ${y.m}`; }).join(', ');
+}
+function quietWindowFor(post: any, slot: string): string | null {
+  const q = post.data.place?.busyness?.weekdayQuiet;
+  if (!Array.isArray(q) || !q.length) return null;
+  const [lo, hi] = SLOT_HOURS[slot] ?? [0, 24];
+  const hours = [...new Set(q)].filter((h: number) => Number.isInteger(h) && h >= lo && h <= hi).sort((a: number, b: number) => a - b);
+  if (!hours.length) return null;
+  return fmtHourRanges(hours as number[]);
+}
+
+// First line of the post's own (already vetted) body that names a concrete
+// transit detail — never invented, always lifted verbatim from the post.
+const TRANSIT_RE = /(Line\s*\d|Station|Exit\s*\d|BTS|MRT)/;
+function transitTip(post: any): string | null {
+  const body = String(post.body || '');
+  const lines = body.split(/\r?\n/).map((l) => l.replace(/^#+\s*/, '').replace(/[*_`]/g, '').trim()).filter(Boolean);
+  return lines.find((l) => TRANSIT_RE.test(l)) ?? null;
+}
+
+function formatDwell(min: number): string {
+  if (min < 60) return `~${min} min`;
+  const hours = Math.round((min / 60) * 2) / 2;
+  const hStr = Number.isInteger(hours) ? String(hours) : hours.toFixed(1);
+  return `~${hStr} h`;
+}
+
+function legText(leg: { km: number; minutes: number; transit: boolean } | null): string | null {
+  if (!leg) return null;
+  if (leg.transit) return t('itin.legTransit');
+  return t('itin.legWalk').replace('{min}', String(leg.minutes)).replace('{km}', String(leg.km));
+}
+
+function directionsUrl(a: any, b: any, transit: boolean): string {
+  const mode = transit ? 'transit' : 'walking';
+  return `https://www.google.com/maps/dir/?api=1&origin=${a.lat},${a.lng}&destination=${b.lat},${b.lng}&travelmode=${mode}`;
+}
+
+function dayRouteUrl(posts: any[]): string | null {
+  if (posts.length < 2) return null;
+  const first = posts[0].data.place, last = posts[posts.length - 1].data.place;
+  const mids = posts.slice(1, -1).map((p) => `${p.data.place.lat},${p.data.place.lng}`).join('|');
+  return `https://www.google.com/maps/dir/?api=1&origin=${first.lat},${first.lng}&destination=${last.lat},${last.lng}${mids ? `&waypoints=${encodeURIComponent(mids)}` : ''}`;
+}
+
+// Same Klook affiliate builder as PlanTrip.astro (aid/pid + locale + city query).
+const klookDayHref = `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7Cpid%7C754088&k_site=${encodeURIComponent(`https://www.klook.com/${klookLocale(lang)}/search/?query=${d.city}`)}`;
+
+// ---- Resolve every day's stops once, up front (throws loudly on any gap). ----
+const days = d.itinerary.map((day: any, di: number) => {
+  const label = tr?.days?.[di]?.label ?? day.label;
+  const intro = tr?.days?.[di]?.intro ?? day.intro;
+  const stops = day.stops.map((s: any) => {
+    const post = resolveStop(s.slug);
+    const why = tr?.whys?.[s.slug] ?? s.why;
+    return { ...s, post, why };
+  });
+  const rainPost = day.rainSwapSlug ? resolveStop(day.rainSwapSlug) : null;
+  const rainWhy = day.rainSwapSlug ? (tr?.rainWhys?.[day.rainSwapSlug] ?? rainPost?.data.description ?? null) : null;
+  return { label, intro, stops, rainPost, rainWhy };
+});
+
+// ---- Structured data: TouristTrip + BreadcrumbList + FAQPage. No aggregateRating
+// (same site precedent as PostArticle — the ratings are Google's, not ours). ----
+const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
+const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
+const allStopPosts = days.flatMap((day) => day.stops.map((s: any) => s.post));
+
+const graph: Record<string, unknown>[] = [
+  {
+    '@type': 'TouristTrip',
+    name: title,
+    description,
+    itinerary: {
+      '@type': 'ItemList',
+      itemListElement: allStopPosts.map((post, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        item: {
+          '@type': 'TouristAttraction',
+          name: post.data.place?.name || post.data.title,
+          url: new URL(postHref(post.id), Astro.site).toString(),
+        },
+      })),
+    },
+  },
+  {
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { name: t('post.home'), item: `${site}${lang === 'en' ? '/' : `/${lang}/`}` },
+      { name: countryLabel, item: `${site}${localizePath(`/destinations/${countrySlug}`, lang)}/` },
+      ...(sameRegionCountry ? [] : [{ name: regionLabel, item: `${site}${localizePath(`/regions/${slugifyRegion(d.city)}`, lang)}/` }]),
+      { name: title, item: pageUrl },
+    ].map((c, i) => ({ '@type': 'ListItem', position: i + 1, name: c.name, item: c.item })),
+  },
+];
+
+if (faq.length) {
+  graph.push({
+    '@type': 'FAQPage',
+    mainEntity: faq.map((f: any) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+  });
+}
+
+const jsonLd = { '@context': 'https://schema.org', '@graph': graph };
+
+// Which locales this itinerary route exists in — always all 5 (unlike posts,
+// every itinerary renders at every locale immediately; missing translations
+// fall back to English prose per-field rather than skipping the page).
+const availableLangs: Lang[] = ['en', 'ko', 'ja', 'es', 'zh'];
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  jsonLd={jsonLd}
+  localized={true}
+  localizedLangs={availableLangs}
+>
+  <article class="article wrap itin-page">
+    <nav class="crumbs" aria-label="Breadcrumb">
+      <a href={lang === 'en' ? '/' : `/${lang}/`}>{t('post.home')}</a> <span>/</span>
+      <a href={localizePath(`/destinations/${countrySlug}`, lang)}>{countryLabel}</a> <span>/</span>
+      {!sameRegionCountry && (
+        <><a href={localizePath(`/regions/${slugifyRegion(d.city)}`, lang)}>{regionLabel}</a> <span>/</span></>
+      )}
+      <span aria-current="page">{t('itin.indexEyebrow')}</span>
+    </nav>
+
+    {/* 1. H1 + quickAnswer (answer-first) */}
+    <div class="article-head">
+      <div class="kicker">
+        <span class="badge">{t('itin.badge').replace('{n}', String(d.days))}</span>
+        <span>{regionLabel}</span>
+      </div>
+      <h1>{title}</h1>
+    </div>
+
+    {quickAnswer && (
+      <aside class="quick-answer">
+        <span class="qa-label">{t('post.quickAnswer')}</span>
+        <p>{quickAnswer}</p>
+      </aside>
+    )}
+
+    {/* 2. Trust strip + AI disclosure */}
+    <p class="itin-trust">
+      ✓ {t('itin.trustStrip').replace('{date}', updated.toLocaleDateString(localeCodes[lang], { year: 'numeric', month: 'long', day: 'numeric' }))}
+    </p>
+    <details class="disclosure-details">
+      <summary>{t('post.disclosureTitle')}</summary>
+      <p>{t('post.disclosureBody')} <a href={localizePath('/about', lang)}>{t('post.editorialPolicy')}</a></p>
+    </details>
+
+    {/* 3. Filter bar — progressive enhancement, works as plain content without JS.
+        Task 7 wires the actual filtering behavior. */}
+    <details class="itin-filters" name="itin-filters">
+      <summary>{t('itin.filterTitle')}</summary>
+      <form class="itin-filter-grid" data-itin-filters>
+        <fieldset>
+          <legend>{t('itin.pace')}</legend>
+          <label><input type="radio" name="pace" value="relaxed" /> {t('itin.paceRelaxed')}</label>
+          <label><input type="radio" name="pace" value="normal" checked /> {t('itin.paceNormal')}</label>
+          {d.packedAvailable && (
+            <label><input type="radio" name="pace" value="packed" /> {t('itin.pacePacked')}</label>
+          )}
+        </fieldset>
+        <fieldset>
+          <legend>{t('itin.party')}</legend>
+          <label><input type="radio" name="party" value="solo" /> {t('itin.partySolo')}</label>
+          <label><input type="radio" name="party" value="couple" /> {t('itin.partyCouple')}</label>
+          <label><input type="radio" name="party" value="family" /> {t('itin.partyFamily')}</label>
+          <label><input type="radio" name="party" value="seniors" /> {t('itin.partySeniors')}</label>
+        </fieldset>
+        <fieldset>
+          <legend>{t('itin.interests')}</legend>
+          <label><input type="checkbox" name="interest" value="food" /> {t('itin.interestFood')}</label>
+          <label><input type="checkbox" name="interest" value="culture" /> {t('itin.interestCulture')}</label>
+          <label><input type="checkbox" name="interest" value="nature" /> {t('itin.interestNature')}</label>
+          <label><input type="checkbox" name="interest" value="shopping" /> {t('itin.interestShopping')}</label>
+          <label><input type="checkbox" name="interest" value="nightlife" /> {t('itin.interestNightlife')}</label>
+        </fieldset>
+        <fieldset>
+          <legend>{t('itin.arrivalDate')}</legend>
+          <label class="sr-only" for="itin-arrival">{t('itin.arrivalDate')}</label>
+          <input type="date" name="arrival" id="itin-arrival" />
+        </fieldset>
+      </form>
+    </details>
+
+    {/* 4. Sticky day nav */}
+    <nav class="itin-day-nav" aria-label={t('itin.indexEyebrow')}>
+      {days.map((_, i) => (
+        <a href={`#day-${i + 1}`}>{t('itin.day').replace('{n}', String(i + 1))}</a>
+      ))}
+    </nav>
+
+    {/* 5–7. Per-day sections: label+intro → stop cards → legs → day footer */}
+    {days.map((day, di) => (
+      <section id={`day-${di + 1}`} class="itin-day">
+        <h2 class="itin-day-title">{t('itin.day').replace('{n}', String(di + 1))} · {day.label}</h2>
+        <p class="itin-day-intro">{day.intro}</p>
+
+        <ol class="itin-stops">
+          {day.stops.map((stop: any, si: number) => {
+            const post = stop.post;
+            const p = post.data.place ?? {};
+            const rating = typeof p.rating === 'number' ? p.rating : null;
+            const stars = rating ? '★'.repeat(Math.round(rating)) + '☆'.repeat(5 - Math.round(rating)) : null;
+            const closed = closedDaysOf(p.openingHours).map(localizedWeekday);
+            const quiet = quietWindowFor(post, stop.slot);
+            const tip = transitTip(post);
+            // Prefer the clean Google Places venue name over the full SEO post
+            // title ("Gwangjang Market: Seoul Travel Guide") — an itinerary card
+            // is a list of places, not a list of articles. Falls back to the
+            // (localized, when available) post title for posts without a place.
+            const stopLabel = post.data.place?.name || postTitleFor(post);
+            const stopRegionLabel = localizePlace(post.data.region, lang);
+            const leg = stop.walkToNext;
+            return (
+              <>
+                <li class="itin-stop">
+                  <div class="itin-stop-thumb">
+                    {post.data.heroImage && (
+                      <img src={post.data.heroImage.url} alt={stopLabel} width="300" height="200" loading="lazy" decoding="async" />
+                    )}
+                  </div>
+                  <div class="itin-stop-body">
+                    <div class="itin-stop-meta">
+                      <span class="itin-slot">{t(`itin.slot.${stop.slot}` as any)}</span>
+                      <span class="itin-region-tag">{stopRegionLabel}</span>
+                    </div>
+                    <h3><a href={postHref(post.id)}>{stopLabel}</a></h3>
+                    {stars && (
+                      <p class="itin-rating"><span class="stars">{stars}</span> {rating}{p.userRatingsTotal ? ` (${p.userRatingsTotal.toLocaleString()})` : ''}</p>
+                    )}
+                    <p class="itin-why">{stop.why}</p>
+
+                    <div class="itin-chips">
+                      {closed.length > 0 && (
+                        <span class="chip chip-closed">{t('itin.closedChip').replace('{days}', closed.join(', '))}</span>
+                      )}
+                      {quiet && <span class="chip chip-quiet">{t('itin.quietBadge').replace('{range}', quiet)}</span>}
+                      <span class="chip chip-dwell"><Emoji name="three-oclock" /> {t('itin.dwellLabel')}: {formatDwell(stop.dwellMin)}</span>
+                    </div>
+
+                    {tip && (
+                      <p class="itin-transit-tip"><strong>{t('itin.transitTipLabel')}:</strong> {tip}</p>
+                    )}
+                  </div>
+                </li>
+
+                {/* 6. Leg row between cards */}
+                {leg && (
+                  <li class="itin-leg" aria-hidden="false">
+                    <span class="itin-leg-icon"><Emoji name={leg.transit ? 'metro' : 'compass'} /></span>
+                    <span class="itin-leg-text">{legText(leg)}</span>
+                    <a class="itin-leg-directions" href={directionsUrl(p, day.stops[si + 1].post.data.place, leg.transit)} target="_blank" rel="noopener">
+                      {t('itin.directions')} →
+                    </a>
+                  </li>
+                )}
+              </>
+            );
+          })}
+        </ol>
+
+        {/* 7. Day footer: rain swap + full-day route + day-scoped Klook CTA */}
+        <div class="itin-day-footer">
+          {day.rainPost && (
+            <p class="itin-rain">
+              ☂ {t('itin.ifItRains').replace('{title}', '')}
+              <a href={postHref(day.rainPost.id)}>{postTitleFor(day.rainPost)}</a>
+              {day.rainWhy && <span class="itin-rain-why"> — {day.rainWhy}</span>}
+            </p>
+          )}
+          <div class="itin-day-actions">
+            {dayRouteUrl(day.stops.map((s: any) => s.post)) && (
+              <a class="itin-day-route" href={dayRouteUrl(day.stops.map((s: any) => s.post))!} target="_blank" rel="noopener">
+                <Emoji name="round-pushpin" /> {t('itin.dayRoute').replace('{n}', String(di + 1))}
+              </a>
+            )}
+            <a class="book-btn book-btn-primary" href={klookDayHref} target="_blank" rel="sponsored noopener">
+              <Emoji name="admission-tickets" /> {t('itin.bookDay').replace('{n}', String(di + 1))}
+            </a>
+          </div>
+        </div>
+      </section>
+    ))}
+
+    {/* 8. FAQ, PlanTrip, Newsletter, related region link */}
+    {faq.length > 0 && (
+      <section class="faq">
+        <h2>{t('post.faqTitle')}</h2>
+        {faq.map((f: any) => (
+          <details>
+            <summary>{f.q}</summary>
+            <p>{f.a}</p>
+          </details>
+        ))}
+      </section>
+    )}
+
+    <PlanTrip city={d.city} country={d.country} />
+
+    <Newsletter
+      compact
+      lang={lang}
+      region={d.city}
+      country={d.country}
+      heading={t('post.moreTips').replace('{region}', regionLabel)}
+      dek={t('region.newsletterDek').replace('{region}', regionLabel)}
+    />
+
+    <p class="itin-related-link">
+      <a href={localizePath(`/regions/${slugifyRegion(d.city)}`, lang)}>{t('itin.moreRegion').replace('{region}', regionLabel)} →</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .itin-trust { font-size: 0.8rem; color: var(--ink-soft); margin: 0.6rem 0 0.4rem; }
+
+  .itin-filters { margin: 1.4rem 0; padding: 0.9rem 1.1rem; background: var(--surface-2); border: 1px solid var(--line-soft); border-radius: var(--r-lg); }
+  .itin-filters summary { cursor: pointer; font-weight: 700; color: var(--ink); }
+  .itin-filter-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 1rem 1.4rem; margin-top: 0.9rem; }
+  .itin-filter-grid fieldset { border: none; padding: 0; margin: 0; }
+  .itin-filter-grid legend { font-size: 0.78rem; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; color: var(--muted); padding: 0; margin-bottom: 0.4rem; }
+  .itin-filter-grid label { display: flex; align-items: center; gap: 0.4rem; font-size: 0.92rem; padding: 0.15rem 0; }
+  .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; }
+
+  .itin-day-nav {
+    position: sticky; top: 0; z-index: 20; display: flex; gap: 0.4rem; flex-wrap: wrap;
+    margin: 1.2rem 0; padding: 0.6rem 0.2rem; background: color-mix(in srgb, var(--surface) 92%, transparent);
+    backdrop-filter: blur(6px); border-bottom: 1px solid var(--line-soft);
+  }
+  .itin-day-nav a {
+    padding: 0.4rem 0.9rem; border-radius: var(--r-pill); font-weight: 600; font-size: 0.88rem;
+    color: var(--ink-soft); border: 1px solid var(--line); text-decoration: none; transition: background .15s, color .15s;
+  }
+  .itin-day-nav a:hover, .itin-day-nav a:focus-visible { background: var(--accent); color: #fff; border-color: var(--accent); }
+
+  .itin-day { margin: 2.2rem 0; scroll-margin-top: 4.5rem; }
+  .itin-day-title { font-family: var(--font-display); margin-bottom: 0.3rem; }
+  .itin-day-intro { color: var(--ink-soft); margin-bottom: 1.2rem; max-width: 68ch; }
+
+  .itin-stops { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0; }
+  .itin-stop {
+    display: grid; grid-template-columns: 140px 1fr; gap: 1rem;
+    padding: 1rem; border: 1px solid var(--line); border-radius: var(--r-lg); background: var(--surface);
+  }
+  .itin-stop-thumb { border-radius: var(--r-md); overflow: hidden; background: var(--surface-2); aspect-ratio: 3/2; }
+  .itin-stop-thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .itin-stop-meta { display: flex; gap: 0.5rem; align-items: center; font-size: 0.75rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; font-weight: 700; margin-bottom: 0.2rem; }
+  .itin-stop-body h3 { margin: 0 0 0.25rem; font-size: 1.15rem; }
+  .itin-stop-body h3 a { color: var(--ink); text-decoration: none; }
+  .itin-stop-body h3 a:hover { color: var(--accent); }
+  .itin-rating { margin: 0 0 0.4rem; font-size: 0.88rem; color: var(--ink-soft); }
+  .itin-why { margin: 0 0 0.6rem; color: var(--ink-soft); font-size: 0.94rem; }
+
+  .itin-chips { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-bottom: 0.4rem; }
+  .chip { display: inline-flex; align-items: center; gap: 0.3rem; font-size: 0.78rem; font-weight: 600; padding: 0.28rem 0.6rem; border-radius: var(--r-pill); border: 1px solid var(--line); background: var(--surface-2); color: var(--ink-soft); }
+  /* Closed-day chip is the feature's headline differentiator — render it loud. */
+  .chip-closed { background: var(--accent-soft); border-color: color-mix(in srgb, var(--accent) 35%, var(--line)); color: var(--accent-deep); font-weight: 700; }
+  .chip-quiet { background: color-mix(in srgb, var(--gold) 14%, var(--surface-2)); border-color: color-mix(in srgb, var(--gold) 35%, var(--line)); color: var(--ink); }
+
+  .itin-transit-tip { margin: 0.2rem 0 0; font-size: 0.85rem; color: var(--ink-soft); }
+
+  .itin-leg {
+    display: flex; align-items: center; gap: 0.6rem; padding: 0.55rem 1rem 0.55rem 1.6rem;
+    margin-left: 1.6rem; border-left: 2px dashed var(--line); font-size: 0.85rem; color: var(--muted);
+  }
+  .itin-leg-text { flex: 1; }
+  .itin-leg-directions { color: var(--accent); font-weight: 600; text-decoration: none; white-space: nowrap; }
+  .itin-leg-directions:hover { text-decoration: underline; }
+
+  .itin-day-footer { margin-top: 1.1rem; padding-top: 1rem; border-top: 1px solid var(--line-soft); }
+  .itin-rain { font-size: 0.9rem; color: var(--ink-soft); margin: 0 0 0.8rem; }
+  .itin-rain a { color: var(--accent); font-weight: 600; }
+  .itin-rain-why { color: var(--muted); }
+  .itin-day-actions { display: flex; flex-wrap: wrap; gap: 0.7rem; }
+  .itin-day-route { display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.5rem 0.95rem; border-radius: var(--r-pill); font-weight: 600; font-size: 0.9rem; border: 1px solid var(--line); background: var(--surface); color: var(--ink); text-decoration: none; }
+  .itin-day-route:hover { border-color: var(--accent); color: var(--accent); }
+
+  .itin-related-link { margin: 2rem 0; font-weight: 600; }
+  .itin-related-link a { color: var(--accent); }
+
+  @media (max-width: 640px) {
+    .itin-stop { grid-template-columns: 1fr; }
+    .itin-stop-thumb { aspect-ratio: 16/9; }
+  }
+
+  /* 10. Print stylesheet — hide interactive/monetization chrome, linearize cards. */
+  @media print {
+    .itin-filters, .itin-day-nav, .itin-day-actions, .book-cta, .newsletter, .plan-trip { display: none !important; }
+    .itin-stop { grid-template-columns: 1fr; border: none; border-bottom: 1px solid #ccc; border-radius: 0; page-break-inside: avoid; }
+    .itin-stop-thumb { display: none; }
+    .itin-leg { margin-left: 0; }
+  }
+</style>
