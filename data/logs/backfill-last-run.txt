@@ -1,9 +1,23 @@
-  ⚠ Places Details 429 — like-a-local signals skipped (details quota exhausted)
-  ⚠ Places Details 429 — like-a-local signals skipped (details quota exhausted)
-  ⚠ Places Details 429 — like-a-local signals skipped (details quota exhausted)
-  ⚠ Places Details 429 — like-a-local signals skipped (details quota exhausted)
-  ⚠ Places Details 429 — like-a-local signals skipped (details quota exhausted)
+  ✓ seoul-gwangjang-market.md +phone +7h hours
+  – seoul-euljiro.md: nothing new
+  – seoul-myeongdong-shopping-street.md: nothing new
+  ✓ seoul-dallas-pizza.md +phone +7h hours
+  ✓ seoul-eid-halal-korean-food.md +phone +7h hours
+  ✓ seoul-sanchon.md +phone +7h hours
+  ✓ seoul-plant-cafe-seoul-yeonnam.md +phone +7h hours
+  ✓ tokyo-teamlab-planets-tokyo-dmm.md +7h hours
+  ✓ tokyo-fish-market-tsukiji-outer-market.md +phone
+  ✓ tokyo-tokyo-tower.md +phone +7h hours
+  ✓ tokyo-oxomoco.md +phone +7h hours
+  ✓ tokyo-meiji-jingu.md +phone
+  ✓ tokyo-shinjuku-gyoen-national-garden.md +phone +7h hours
+  ✓ tokyo-fuglen-tokyo.md +7h hours
+  ✓ tokyo-senso-ji.md +phone
+  ✓ tokyo-tokyo-ramen-street.md +7h hours
+  ✓ tokyo-smith-wollensky.md +phone +7h hours
+  ✓ tokyo-ise-sueyoshi.md +phone +7h hours
+  ✓ bangkok-khao-san-sek.md +phone +7h hours
+  ✓ bangkok-somsak.md +phone +7h hours
+  – bangkok-saladaeng.md: nothing new
 
-⛔ Places Details quota exhausted (5 consecutive 429s) — stopping early.
-
-BACKFILL RESULT: updated 0, already-complete 1, no-new-data 0, no-place 0, quota-429 5, api-error 0, processed 5 of 22 (APPLIED).
+BACKFILL RESULT: updated 18, already-complete 1, no-new-data 3, no-place 0, quota-429 0, api-error 0, processed 21 of 22 (APPLIED).
