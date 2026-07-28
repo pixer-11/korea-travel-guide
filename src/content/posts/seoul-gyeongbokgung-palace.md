@@ -20,6 +20,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 37.579617
   lng: 126.977041
+  phone: '02-3700-3900'
+  openingHours:
+    - 'Monday: 9:00 AM – 6:30 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 9:00 AM – 6:30 PM'
+    - 'Thursday: 9:00 AM – 6:30 PM'
+    - 'Friday: 9:00 AM – 6:30 PM'
+    - 'Saturday: 9:00 AM – 6:30 PM'
+    - 'Sunday: 9:00 AM – 6:30 PM'
 tags:
   - seoul
   - palaces
