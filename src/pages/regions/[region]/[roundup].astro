@@ -2,35 +2,18 @@
 import { getCollection } from 'astro:content';
 import RoundupHub from '../../../components/RoundupHub.astro';
 import { slugifyRegion } from '../../../lib/slug';
+import { buildRoundups } from '../../../lib/roundups.mjs';
 
 // City roundup hubs: "N Best Restaurants in Busan", ranked from EXISTING venue
 // posts. Auto-maintained — every build re-collects the city's posts and re-ranks
-// them. A city only gets a hub for a category once it has >= MIN posts.
+// them. Which (city, roundup) pairs qualify lives in src/lib/roundups.mjs, shared
+// with the localized route so the two can never disagree about what exists.
 export async function getStaticPaths() {
-  // Defined INSIDE getStaticPaths — Astro bundles this function on its own, so it
-  // can't see component top-level consts (they come back "not defined" here).
-  const ROUNDUPS = {
-    'things-to-do': { cats: ['attraction'], label: 'Things to Do', word: 'attractions' },
-    'best-restaurants': { cats: ['restaurant'], label: 'Restaurants', word: 'restaurants' },
-    'cafes': { cats: ['trendy'], label: 'Cafés', word: 'cafés' },
-    'hidden-gems': { cats: ['hidden-gem'], label: 'Hidden Gems', word: 'hidden gems' },
-  };
-  const MIN = 4;
-  const score = (p) => (p.data.place?.rating ?? 0) * Math.log10((p.data.place?.userRatingsTotal ?? 0) + 10);
   const posts = await getCollection('posts', ({ data }) => !data.draft);
-  const regions = [...new Set(posts.map((p) => p.data.region))].filter((r) => r && !r.includes('/'));
-  const paths = [];
-  for (const region of regions) {
-    for (const [key, cfg] of Object.entries(ROUNDUPS)) {
-      const items = posts
-        .filter((p) => p.data.region === region && cfg.cats.includes(p.data.category))
-        .sort((a, b) => score(b) - score(a));
-      if (items.length >= MIN) {
-        paths.push({ params: { region: slugifyRegion(region), roundup: key }, props: { region, key, items, cfg } });
-      }
-    }
-  }
-  return paths;
+  return buildRoundups(posts).map(({ region, key, cfg, items }) => ({
+    params: { region: slugifyRegion(region), roundup: key },
+    props: { region, key, items, cfg },
+  }));
 }
 
 const { region, key, items, cfg } = Astro.props;

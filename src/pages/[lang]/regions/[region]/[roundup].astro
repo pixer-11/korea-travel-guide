@@ -2,35 +2,20 @@
 import { getCollection } from 'astro:content';
 import RoundupHub from '../../../../components/RoundupHub.astro';
 import { slugifyRegion } from '../../../../lib/slug';
+import { buildRoundups } from '../../../../lib/roundups.mjs';
 import type { Lang } from '../../../../i18n/utils';
 
 // Localized city roundup hubs: /ko/regions/busan/best-restaurants, /ja/…, etc.
+// Qualification comes from src/lib/roundups.mjs, the same source the English
+// route uses — otherwise a rule change lands in one of the two and the languages
+// quietly stop matching.
 export async function getStaticPaths() {
   const LANGS: Lang[] = ['ko', 'ja', 'es', 'zh'];
-  const ROUNDUPS = {
-    'things-to-do': { cats: ['attraction'], label: 'Things to Do', word: 'attractions' },
-    'best-restaurants': { cats: ['restaurant'], label: 'Restaurants', word: 'restaurants' },
-    'cafes': { cats: ['trendy'], label: 'Cafés', word: 'cafés' },
-    'hidden-gems': { cats: ['hidden-gem'], label: 'Hidden Gems', word: 'hidden gems' },
-  };
-  const MIN = 4;
-  const score = (p) => (p.data.place?.rating ?? 0) * Math.log10((p.data.place?.userRatingsTotal ?? 0) + 10);
   const posts = await getCollection('posts', ({ data }) => !data.draft);
-  const regions = [...new Set(posts.map((p) => p.data.region))].filter((r) => r && !r.includes('/'));
-  const base = [];
-  for (const region of regions) {
-    for (const [key, cfg] of Object.entries(ROUNDUPS)) {
-      const items = posts
-        .filter((p) => p.data.region === region && cfg.cats.includes(p.data.category))
-        .sort((a, b) => score(b) - score(a));
-      if (items.length >= MIN) {
-        base.push({ region, key, cfg, items, slug: slugifyRegion(region) });
-      }
-    }
-  }
+  const base = buildRoundups(posts);
   return LANGS.flatMap((lang) =>
-    base.map(({ region, key, cfg, items, slug }) => ({
-      params: { lang, region: slug, roundup: key },
+    base.map(({ region, key, cfg, items }) => ({
+      params: { lang, region: slugifyRegion(region), roundup: key },
       props: { region, key, items, cfg, lang },
     }))
   );
