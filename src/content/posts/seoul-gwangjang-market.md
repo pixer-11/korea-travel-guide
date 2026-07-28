@@ -10,15 +10,16 @@ heroImage:
   license: foursquare
   source: https://foursquare.com/v/4bdb974cc79cc928cfb283e9
 place:
+  id: ChIJm3V0fu2ifDURRJ8IMUijVtY
   name: Gwangjang Market
-  address: 88 Changgyeonggung-ro, Jongno-gu, Seoul
-  rating: 4.3
-  userRatingsTotal: 42000
-  priceLevel: 1
-  googleMapsUrl: https://maps.google.com/?cid=example
+  address: 88 Cheonggyecheon-ro, Jongno District, Seoul, South Korea
+  rating: 4.2
+  userRatingsTotal: 44118
+  googleMapsUrl: https://maps.google.com/?cid=15444711502569316164&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
-  lat: 37.5701
-  lng: 126.9997
+  lat: 37.570039799999996
+  lng: 126.99960360000001
+  priceLevel: 1
   busyness:
     updated: '2026-07-23'
     weekdayQuiet:
