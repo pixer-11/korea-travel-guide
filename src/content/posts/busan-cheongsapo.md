@@ -9,7 +9,11 @@ heroImage:
   credit: 'Photo: Andrewssi2 / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Cheongsapo.jpg
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/61395859_kfVmuShzUYLA1mbJv9QKbaJgPY2ZOlUKsHawfivLMlw.jpg
+    credit: 'Photo: Foursquare user content (Cheongsapo Sky Capsule (해운대블루라인파크 스카이캡슐))'
+    license: foursquare
+    source: https://foursquare.com/v/6440bf528831fc46afd66d01
 place:
   id: ChIJpTAE-QSNaDURyTWtiwaaWQA
   name: Cheongsapo-ro

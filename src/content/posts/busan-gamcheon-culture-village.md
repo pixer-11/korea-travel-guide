@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Colorful_houses_in_Gamcheon_Culture_Village_at_sunset_in_Busan_South_Korea.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Gamcheon_Culture_Village.jpg/1920px-Gamcheon_Culture_Village.jpg
+    credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Gamcheon_Culture_Village.jpg
 place:
   id: "ChIJUToRo7fpaDURo_ZMItcBfpc"
   name: "Gamcheon Culture Village"

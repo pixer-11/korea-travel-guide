@@ -14,7 +14,11 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:Museo_Guggenheim_--_2021_--_Bilbao,_Euskadi,_Espa%C3%B1a.jpg
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bilbao_-_Museo_Guggenheim_01.jpg/1920px-Bilbao_-_Museo_Guggenheim_01.jpg
+    credit: 'Photo: Basotxerri / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Bilbao_-_Museo_Guggenheim_01.jpg
 place:
   id: ChIJtTFg3t5PTg0RrW2vzbeTiFA
   name: Guggenheim Museum Bilbao

@@ -15,7 +15,11 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:Cappadocia_balloon_trip,_Ortahisar_Castle_(11893715185).jpg
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/100270136_RKUEScGYbeyD2HFc_UNcLO5V1WkT_PrlaK9dlsUV24E.jpg
+    credit: 'Photo: Foursquare user content (Pigeon Valley (Güvercinlik Vadisi))'
+    license: foursquare
+    source: https://foursquare.com/v/4daaf5235da3ba8a4795eef9
 place:
   id: ChIJM5r3OOVoKhURdOZ_Jxgobmk
   name: Pigeon Valley

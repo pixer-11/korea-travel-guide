@@ -1,92 +1,153 @@
 
-[1] abu-dhabi-art-house-cafe.md
-  검색: "Art House Abu Dhabi"  [fsq] new-style Service Key auth OK
+[1] ajman-souryana-restaurant-and-cafe.md
+  검색: "Souryana Ajman"  [fsq] new-style Service Key auth OK
   [fsq] first search OK — keys: results,context · results: 3
   [fsq] first result keys: fsq_place_id,latitude,longitude,categories,date_created,date_refreshed,distance,extended_location,link,location,name,placemaker_url,related_places,soc
-  [fsq] first photos OK — isArray:true len:4
-  → ✅ 추가: Different area (outdoor patio), adds new venue detail
-[2] abu-dhabi-flavors-grill-abu-dhabi.md
-  검색: "Flavors Grill Abu Dhabi Abu Dhabi"  → ✅ 추가: Interior table with branded menu, adds new view of venue
-[3] agra-itmad-ud-daula.md
-  검색: "Itmad-ud-Daula Agra"
-    · 반려(wikimedia): Shows river/cityscape view, not the monument itself; too dark  → ✅ 추가: Different angle, exterior view without archway framing, adds context
-[4] ajman-souryana-restaurant-and-cafe.md
-  검색: "Souryana Ajman"  → 후보 없음
-[5] ajman-the-seat-cafe.md
-  검색: "seat Ajman"  → ✅ 추가: Interior shot with visible SEAT logo, adds food/drinks view
-[6] al-ain-al-fanar-restaurant-cafe.md
-  검색: "Al Fanar & Al Ain"
-    · 반려(foursquare): Menu cover photo/logo, not a venue photo  → ✅ 추가: Exterior view with signage confirms venue, adds new angle
-[7] al-ain-ethr-al-ain-oasis.md
-  검색: "Ethr — Al Ain Oasis Al Ain"  → ✅ 추가: Shows venue's actual signage/entrance at night, differs from Image 1
-[8] ankara-trilye-restaurant.md
-  검색: "Trilye Ankara"  → ✅ 추가: Menu clearly names Trilye Restaurant, adds new info
-[9] ayutthaya-the-artisans-ayutthaya.md
-  검색: "Artisans Ayutthaya Ayutthaya"  → ✅ 추가: Different interior dining room view, adds new visual information
-[10] ayutthaya-the-summer-house.md
-  검색: "Summer House Ayutthaya"  → ✅ 추가: Receipt confirms venue name/location, adds menu/food info
-[11] bali-bingin-uluwatu-pak-gula.md
+  [fsq] first photos OK — isArray:true len:1
+  → 후보 없음
+[2] bali-bingin-uluwatu-pak-gula.md
   검색: "PAK GULA Bali"  → 후보 없음
-[12] bali-bukit-peninsula-uluwatu-avli.md
-  검색: "AVLI Uluwatu - Modern Greek Bali"  → ✅ 추가: Different subject: plated food dish, adds new content, same venue
-[13] bali-chai-of-the-tiger-indian-street-food.md
-  검색: "CHAI TIGER (Indian Street Food) Bali"  → ✅ 추가: Different angle showing interior ceiling, chalkboard menu, matches venue
-[14] bali-cure-bali.md
-  검색: "CURE Bali Bali"
-    · 반려(foursquare): Generic beach silhouette, doesn't show the restaurant venue itself
-    · 반려(foursquare): Shows 'Bar Nua' sign, different venue, not CURE Bali  → ✅ 추가: Same venue at night, different angle, adds diners/ambiance
-[15] bali-livingstone.md
-  검색: "Livingstone Bali"  → ✅ 추가: Interior/food shot, different from exterior sign, adds new info
-[16] bali-secret-garden-village.md
-  검색: "Secret Garden Village Bali"  → ✅ 추가: Shows venue's welcome sign entrance, explicitly names Secret Garden Village
-[17] bali-tanah-lot.md
-  검색: "Tanah Lot Bali"  → ✅ 추가: Shows temple gate and shoreline, different ground-level angle, adds context
-[18] bali-this-is-bali-balinese-food-desserts.md
-  검색: "This Is Bali - Balinese Food & Desserts Bali"  → ✅ 추가: Shows restaurant interior and different dish, adds new context
-[19] bandung-dago-dreampark.md
-  검색: "Dago Dreampark Bandung"  → ✅ 추가: Different overhead forest/venue view, adds new visual context
-[20] bandung-hummingbird-eatery-space.md
-  검색: "Hummingbird Eatery & Space Bandung"  → ✅ 추가: Shows distinct exterior seating area, adds new venue context
-[21] bandung-wheels-coffee-roasters-heritage-lifestyle-hub-riau.md
+[3] bandung-wheels-coffee-roasters-heritage-lifestyle-hub-riau.md
   검색: "Wheels Roasters - Heritage Lifestyle Hub (Riau) Bandung"
-    · 반려(foursquare): Spa/pedicure room unrelated to coffee roasters venue type
-    · 반려(foursquare): Generic dark fountain corner, not recognizable as this venue
+    · 반려(foursquare): Generic spa interior, not identifiable as this coffee venue
+    · 반려(foursquare): Generic dark fountain closeup, no venue identification, could be anywhere
     · 반려(foursquare): Unrelated subject: a kitten, not the venue
-    · 반려(foursquare): Shows a foot spa area, unrelated to a coffee shop venue  → ❌ 전부 반려
-[22] bangkok-chatuchak-weekend-market.md
+    · 반려(foursquare): Generic spa foot-soak bowls, not identifiable as this venue  → ❌ 전부 반려
+[4] bangkok-chatuchak-weekend-market.md
   검색: "Chatuchak Weekend Market Bangkok"
-    · 반려(wikimedia): Generic close-up decoration, not recognizable as this market
-    · 반려(foursquare): It's a map/signboard, not a photo of the market itself  → ✅ 추가: Noodle soup dish adds food variety, plausibly from market stall
-[23] bangkok-cheaper-better-street-food.md
-  검색: "Cheaper & Better Street Food Bangkok"  → ✅ 추가: Menu board from same restaurant, adds new food info
+    · 반려(wikimedia): Generic close-up decoration, unrelated to market, could be anywhere
+    · 반려(foursquare): It's a map diagram, not a photo of the market
+    · 반려(foursquare): Generic bowl of soup, no venue identifiers visible
+    · 반려(foursquare): Generic souvenir stall, not identifiable as this market  → ❌ 전부 반려
+[5] bangkok-hidden-bangkok-tours.md
+  검색: "Hidden Bangkok Tours Bangkok"  → ✅ 추가: Different angle: boarding dock scene, adds new context
+[6] bangkok-khao-san-sek.md
+  검색: "Khao San Sek (ข้าวสารเสก) Bangkok"  → ✅ 추가: Exterior storefront with OPEN sign, adds new view, Thai setting
+[7] bangkok-saladaeng.md
+  검색: "Sala Daeng Road Bangkok"
+    · 반려(wikimedia): Generic street/bridge scene, not identifiable as Sala Daeng Road
+    · 반려(foursquare): Generic street food stall, not identifiably Sala Daeng Road
+    · 반려(foursquare): Generic street art event, not identifiable as Sala Daeng Road
+    · 반려(foursquare): Different daytime skyline view, not clearly Sala Daeng  → ❌ 전부 반려
+[8] bangkok-somsak.md
+  검색: "Somsak Bangkok"
+    · 반려(foursquare): Generic dish close-up on plain table, unrecognizable as venue
+    · 반려(foursquare): Generic dish close-up, no venue context to confirm location
+    · 반려(foursquare): Generic dessert close-up, no venue-identifying context visible  → ❌ 전부 반려
+[9] bangkok-the-island-bangkok-top-rated-thai-restaurant-bar.md
+  검색: "Island Bangkok – Top Rated Thai & Bangkok"
+    · 반려(foursquare): Street signage/alley, not the restaurant itself
+    · 반려(foursquare): Business card for a different venue (Thai massage shop)
+    · 반려(foursquare): Shows massage chairs/spa, contradicts restaurant & bar venue type  → ❌ 전부 반려
+[10] bangkok-treehouse-cafe-bar.md
+  검색: "Treehouse & Bangkok"
+    · 반려(foursquare): generic coffee close-up, no venue context, could be anywhere  → ✅ 추가: Shows distinct interior/terrace view, different from hero photo
+[11] barcelona-basilica-of-the-sagrada-familia.md
+  검색: "Basilica Sagrada Familia Barcelona"  → ✅ 추가: Distinctive interior ceiling/vaults of Sagrada Familia, adds new view
+[12] barcelona-gloria-osteria.md
+  검색: "Gloria Osteria Barcelona Barcelona"  → ✅ 추가: Different dishes (pasta, truffle pizza), same distinctive plate, adds info
+[13] beijing-forbidden-city.md
+  검색: "Forbidden City Beijing"  → ✅ 추가: Aerial sunset view of whole Forbidden City complex, adds new perspective
+[14] beijing-prince-gong-mansion.md
+  검색: "Prince Gong Mansion Beijing"
+    · 반려(wikimedia): Street scene outside gate, not identifiable interior of mansion
+    · 반려(foursquare): Generic coffee cup and gift shop, not identifiable as venue
+    · 반려(foursquare): Generic gift shop counter, not identifiable as this venue  → ❌ 전부 반려
+[15] beijing-summer-palace.md
+  검색: "Summer Palace Beijing"  → ✅ 추가: Different view: covered corridor interior with classic Chinese decor
+[16] beijing-temple-of-heaven.md
+  검색: "Temple Heaven Beijing"  → ✅ 추가: Close-up of temple roof detail, different angle, adds info
+[17] bengaluru-bengaluru-palace.md
+  검색: "Bengaluru Palace Bengaluru"
+    · 반려(wikimedia): Same building and angle as Image 1, no new info
+    · 반려(foursquare): Generic crowd/event photo, doesn't identify Bengaluru Palace
+    · 반려(foursquare): Close-up wedding ritual photo, unrelated to palace venue  → ❌ 전부 반려
+[18] bilbao-guggenheim-museum-bilbao.md
+  검색: "Guggenheim Museum Bilbao Bilbao"  → ✅ 추가: Different angle showing full museum exterior with hillside context
+[19] bodrum-mausoleum-at-halicarnassus.md
+  검색: "Mausoleum Halicarnassus Bodrum"  [fsq] no hit for "Mausoleum at Halicarnassus" — results were: Atelier Bodrum@217m | Okan Ataç Sanat Atölyesi@46m | Atelye Sır@49m
+
+    · 반려(wikimedia): Identical image and angle as Image 1, no new information  → ❌ 전부 반려
+[20] bohol-bilar-man-made-forest.md
+  검색: "Bilar Man-Made Forest Bohol"  → ✅ 추가: Same forest road, different angle with people, adds context
+[21] bologna-piazza-maggiore.md
+  검색: "Piazza Maggiore Bologna"  → ✅ 추가: Same Palazzo but ground-level street view, different angle
+[22] boracay-willy-s-rock.md
+  검색: "Willy's Rock Boracay"  → ✅ 추가: Same rock formation, different low-tide angle showing sandbar approach
+[23] bordeaux-bordeaux-wine-trails-wine-tours.md
+  검색: "Bordeaux Wine Trails - Wine tours Bordeaux"  → 후보 없음
+[24] bordeaux-tour-pey-berland.md
+  검색: "Tour Pey Berland Bordeaux"  → ✅ 추가: Different interior view from tower, shows Bordeaux rooftop panorama
+[25] boston-boston-tea-party-ships-museum.md
+  검색: "Boston Tea Party Ships & Museum Boston"
+    · 반려(wikimedia): Same view/angle as Image 1, no new information
+    · 반려(foursquare): Same view/angle as Image 1, no new information
+    · 반려(foursquare): Close-up of a generic character card, not the venue  → ✅ 추가: Interior ship berth area, distinct from exterior hero photo
+[26] busan-cheongsapo.md
+  검색: "Cheongsapo-ro Busan"
+    · 반려(foursquare): Indoor tram/monorail station, unrelated to Cheongsapo-ro harbor scene
+    · 반려(foursquare): Generic sky tram car, not identifiable as this venue  → ✅ 추가: Shows Cheongsapo Station/Blue Line Park, different view, clearly labeled
+[27] busan-gamcheon-culture-village.md
+  검색: "Gamcheon Culture Village Busan"  → ✅ 추가: Different angle of same colorful hillside village, adds new view
+[28] busan-gukje-market.md
+  검색: "Gukje Market Busan"
+    · 반려(wikimedia): Street statue scene, not identifiable as Gukje Market
+    · 반려(foursquare): Generic accessory shop interior, not identifiable as Gukje Market  → ✅ 추가: Shows Gukje Market entrance signage, different exterior view
+[29] busan-haeundae.md
+  검색: "Haeundae-gu Busan"
+    · 반려(wikimedia): Rocky coastline near Gwangan bridge, not clearly Haeundae-gu itself  → ❌ 전부 반려
+[30] busan-huinnyeoul-culture-village.md
+  검색: "Huinnyeoul Culture Village Busan"  → ✅ 추가: Different angle: tunnel viewpoint with skyline, adds new perspective
+[31] busan-namaste-haeundae.md
+  검색: "Namaste Haeundae Busan"  → ✅ 추가: Restaurant's own logo signage, different framing, confirms venue identity
+[32] cannes-mural-cannes-cinema.md
+  검색: "Mural - Cannes Cinema Cannes"  → 후보 없음
+[33] cappadocia-babayan-evi.md
+  검색: "Babayan Evi Cappadocia"
+    · 반려(foursquare): Sign says 'Cave Boutique Hotel', not the restaurant
+    · 반려(foursquare): Generic outdoor dining scene, faces visible, not clearly this venue
+    · 반려(foursquare): Generic courtyard/oven scene, not identifiable as this venue
+    · 반려(foursquare): Generic clay oven pots, no venue-identifying features shown  → ❌ 전부 반려
+[34] cappadocia-pigeon-valley.md
+  검색: "Pigeon Valley Cappadocia"
+    · 반려(foursquare): Wish tree with person, not Pigeon Valley itself  → ✅ 추가: Different valley view showing rock formations, adds landscape perspective
 
 ──────── 결과 ────────
-검사한 글: 23  |  ✅ 추가: 20  |  ❌ vision 반려: 1  |  후보 없음: 2
-(장소명 없어 건너뜀: 4, 이미 사진 있거나 대상 아님: 11)
+검사한 글: 34  |  ✅ 추가: 20  |  ❌ vision 반려: 10  |  후보 없음: 4
+(장소명 없어 건너뜀: 13, 이미 사진 있거나 대상 아님: 34)
 
 추가된 글:
-  ✅ abu-dhabi-art-house-cafe.md — Different area (outdoor patio), adds new venue detail
-  ✅ abu-dhabi-flavors-grill-abu-dhabi.md — Interior table with branded menu, adds new view of venue
-  ✅ agra-itmad-ud-daula.md — Different angle, exterior view without archway framing, adds context
-  ✅ ajman-the-seat-cafe.md — Interior shot with visible SEAT logo, adds food/drinks view
-  ✅ al-ain-al-fanar-restaurant-cafe.md — Exterior view with signage confirms venue, adds new angle
-  ✅ al-ain-ethr-al-ain-oasis.md — Shows venue's actual signage/entrance at night, differs from Image 1
-  ✅ ankara-trilye-restaurant.md — Menu clearly names Trilye Restaurant, adds new info
-  ✅ ayutthaya-the-artisans-ayutthaya.md — Different interior dining room view, adds new visual information
-  ✅ ayutthaya-the-summer-house.md — Receipt confirms venue name/location, adds menu/food info
-  ✅ bali-bukit-peninsula-uluwatu-avli.md — Different subject: plated food dish, adds new content, same venue
-  ✅ bali-chai-of-the-tiger-indian-street-food.md — Different angle showing interior ceiling, chalkboard menu, matches venue
-  ✅ bali-cure-bali.md — Same venue at night, different angle, adds diners/ambiance
-  ✅ bali-livingstone.md — Interior/food shot, different from exterior sign, adds new info
-  ✅ bali-secret-garden-village.md — Shows venue's welcome sign entrance, explicitly names Secret Garden Village
-  ✅ bali-tanah-lot.md — Shows temple gate and shoreline, different ground-level angle, adds context
-  ✅ bali-this-is-bali-balinese-food-desserts.md — Shows restaurant interior and different dish, adds new context
-  ✅ bandung-dago-dreampark.md — Different overhead forest/venue view, adds new visual context
-  ✅ bandung-hummingbird-eatery-space.md — Shows distinct exterior seating area, adds new venue context
-  ✅ bangkok-chatuchak-weekend-market.md — Noodle soup dish adds food variety, plausibly from market stall
-  ✅ bangkok-cheaper-better-street-food.md — Menu board from same restaurant, adds new food info
+  ✅ bangkok-hidden-bangkok-tours.md — Different angle: boarding dock scene, adds new context
+  ✅ bangkok-khao-san-sek.md — Exterior storefront with OPEN sign, adds new view, Thai setting
+  ✅ bangkok-treehouse-cafe-bar.md — Shows distinct interior/terrace view, different from hero photo
+  ✅ barcelona-basilica-of-the-sagrada-familia.md — Distinctive interior ceiling/vaults of Sagrada Familia, adds new view
+  ✅ barcelona-gloria-osteria.md — Different dishes (pasta, truffle pizza), same distinctive plate, adds info
+  ✅ beijing-forbidden-city.md — Aerial sunset view of whole Forbidden City complex, adds new perspective
+  ✅ beijing-summer-palace.md — Different view: covered corridor interior with classic Chinese decor
+  ✅ beijing-temple-of-heaven.md — Close-up of temple roof detail, different angle, adds info
+  ✅ bilbao-guggenheim-museum-bilbao.md — Different angle showing full museum exterior with hillside context
+  ✅ bohol-bilar-man-made-forest.md — Same forest road, different angle with people, adds context
+  ✅ bologna-piazza-maggiore.md — Same Palazzo but ground-level street view, different angle
+  ✅ boracay-willy-s-rock.md — Same rock formation, different low-tide angle showing sandbar approach
+  ✅ bordeaux-tour-pey-berland.md — Different interior view from tower, shows Bordeaux rooftop panorama
+  ✅ boston-boston-tea-party-ships-museum.md — Interior ship berth area, distinct from exterior hero photo
+  ✅ busan-cheongsapo.md — Shows Cheongsapo Station/Blue Line Park, different view, clearly labeled
+  ✅ busan-gamcheon-culture-village.md — Different angle of same colorful hillside village, adds new view
+  ✅ busan-gukje-market.md — Shows Gukje Market entrance signage, different exterior view
+  ✅ busan-huinnyeoul-culture-village.md — Different angle: tunnel viewpoint with skyline, adds new perspective
+  ✅ busan-namaste-haeundae.md — Restaurant's own logo signage, different framing, confirms venue identity
+  ✅ cappadocia-pigeon-valley.md — Different valley view showing rock formations, adds landscape perspective
 
 반려된 글(사진 없이 유지):
-  ❌ bandung-wheels-coffee-roasters-heritage-lifestyle-hub-riau.md — Shows a foot spa area, unrelated to a coffee shop venue
+  ❌ bandung-wheels-coffee-roasters-heritage-lifestyle-hub-riau.md — Generic spa foot-soak bowls, not identifiable as this venue
+  ❌ bangkok-chatuchak-weekend-market.md — Generic souvenir stall, not identifiable as this market
+  ❌ bangkok-saladaeng.md — Different daytime skyline view, not clearly Sala Daeng
+  ❌ bangkok-somsak.md — Generic dessert close-up, no venue-identifying context visible
+  ❌ bangkok-the-island-bangkok-top-rated-thai-restaurant-bar.md — Shows massage chairs/spa, contradicts restaurant & bar venue type
+  ❌ beijing-prince-gong-mansion.md — Generic gift shop counter, not identifiable as this venue
+  ❌ bengaluru-bengaluru-palace.md — Close-up wedding ritual photo, unrelated to palace venue
+  ❌ bodrum-mausoleum-at-halicarnassus.md — Identical image and angle as Image 1, no new information
+  ❌ busan-haeundae.md — Rocky coastline near Gwangan bridge, not clearly Haeundae-gu itself
+  ❌ cappadocia-babayan-evi.md — Generic clay oven pots, no venue-identifying features shown
 
-GALLERY_SUMMARY added=20 rejected=1 nocand=2
+GALLERY_SUMMARY added=20 rejected=10 nocand=4

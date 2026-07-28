@@ -13,7 +13,11 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:Huinnyeoul_culture_village,_Busan_on_October_25th,_2019.jpg
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/955364_sfscoW1IEL6umTiR_D0LjvZBvlr4x-6PTyK08dIcyX8.jpg
+    credit: 'Photo: Foursquare user content (흰여울문화마을 Huinnyeoul Culture Village (흰여울문화마을))'
+    license: foursquare
+    source: https://foursquare.com/v/4fd6f39ee4b02f54a4c4cf7e
 place:
   id: ChIJseGsfh7paDURigYilgTVojA
   name: Huinnyeoul Culture Village

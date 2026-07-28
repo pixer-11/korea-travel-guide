@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: xiquinhosilva / Wikimedia Commons (CC BY 2.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Longevity_Hill_of_the_Summer_Palace.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/20090530_Beijing_Summer_Palace_8467.jpg/1920px-20090530_Beijing_Summer_Palace_8467.jpg
+    credit: 'Photo: Jakub Hałun / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:20090530_Beijing_Summer_Palace_8467.jpg
 place:
   id: "ChIJP4_Ducf4AjQRMqEETHex2UU"
   name: "Summer Palace"

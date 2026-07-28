@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Patrickroque01 / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Boracay_Willy%27s_Rock_front_(Malay,_Aklan;_04-06-2024).jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Willy%27s_Rock_in_Boracay_at_low_tide.jpg/1920px-Willy%27s_Rock_in_Boracay_at_low_tide.jpg
+    credit: 'Photo: Eugene Alvin Villar (seav) / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Willy%27s_Rock_in_Boracay_at_low_tide.jpg
 place:
   id: "ChIJnxiaKxE8pTMRZJ6zvUafJ6M"
   name: "Willy's Rock"

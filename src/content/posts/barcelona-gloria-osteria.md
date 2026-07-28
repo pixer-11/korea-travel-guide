@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Gloria Osteria)'
   license: foursquare
   source: https://foursquare.com/v/68deb3f0c295142e45a73fef
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/1364167954_nMgc-u2-hResp5nCYqQM3QEcwYaEsnZPU7h102dZJKU.jpg
+    credit: 'Photo: Foursquare user content (Gloria Osteria)'
+    license: foursquare
+    source: https://foursquare.com/v/68deb3f0c295142e45a73fef
 place:
   id: ChIJ7YU7Fn6jpBIRE-ur8uBlBrg
   name: Gloria Osteria Barcelona

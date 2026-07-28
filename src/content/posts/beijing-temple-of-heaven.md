@@ -14,7 +14,11 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:Temple_of_Heaven,_Beijing,_China_-_010_edit.jpg
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Temple_of_Heaven%2C_Beijing_-_February_2024.jpg/1920px-Temple_of_Heaven%2C_Beijing_-_February_2024.jpg
+    credit: 'Photo: Lloyd Tudor / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Temple_of_Heaven,_Beijing_-_February_2024.jpg
 place:
   id: ChIJ65H_GWBN8DURag4RO0UVLDc
   name: Temple of Heaven

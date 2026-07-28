@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Jules Verne Times Two / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Boston_Tea_Party_Ships_%26_Museum,_Boston,_Massachusetts,_US_(PPL2-Enhanced)_julesvernex2.jpg"
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/55710136_VrOVxRbymsmCo6IqDcSgiAhJMMoJiDvcaMQmjPVvlRM.jpg
+    credit: 'Photo: Foursquare user content (Boston Tea Party Ships and Museum)'
+    license: foursquare
+    source: https://foursquare.com/v/514f2d93e4b03aaaf9a2b250
 place:
   id: "ChIJ4bwEPIBw44kRs7STmn977tE"
   name: "Boston Tea Party Ships & Museum"

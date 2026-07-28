@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Treehouse Cafe & Bar)'
   license: foursquare
   source: https://foursquare.com/v/658aa714ad06766843628297
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/1411411571_quwhlFNRIe80OJEKEW0lcHuJz9mrDTwIxDDq6a0G_cg.jpg
+    credit: 'Photo: Foursquare user content (Treehouse Cafe & Bar)'
+    license: foursquare
+    source: https://foursquare.com/v/658aa714ad06766843628297
 place:
   id: ChIJh1qSmmuf4jAR_P5qjvv_Vzs
   name: Treehouse Cafe & Bar

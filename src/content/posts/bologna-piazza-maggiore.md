@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Ingo Mehling / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Bologna_-_Piazza_Maggiore_from_Palazzo_Comunale.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Piazza_Maggiore_--_Bologna_--.jpg/1920px-Piazza_Maggiore_--_Bologna_--.jpg
+    credit: 'Photo: Vanni Lazzari / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Piazza_Maggiore_--_Bologna_--.jpg
 place:
   id: "ChIJOVXWhpXUf0cRHrXmOpr8xD4"
   name: "Piazza Maggiore"

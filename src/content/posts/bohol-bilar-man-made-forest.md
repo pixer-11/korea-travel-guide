@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Patrickroque01 / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Loay_Interior_Road,_Bilar_Man-made_Forest_(Bilar,_Bohol;_01-10-2023).jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Man-made_Forest%2C_Bilar%2C_Bohol.jpg/1920px-Man-made_Forest%2C_Bilar%2C_Bohol.jpg
+    credit: 'Photo: Hannah Tessa Obedencio / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Man-made_Forest,_Bilar,_Bohol.jpg
 place:
   id: "ChIJV3MW-lhBqjMRYdXbTWLZk-8"
   name: "Bilar Man-Made Forest"

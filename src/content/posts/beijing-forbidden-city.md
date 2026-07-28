@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Ermell / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Beijing_forbidden_city_Belvedere_of_Embodying_Benevolence-20071018-RM-142403.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/The_Forbidden_City_-_View_from_Coal_Hill.jpg/1920px-The_Forbidden_City_-_View_from_Coal_Hill.jpg
+    credit: 'Photo: Pixelflake / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:The_Forbidden_City_-_View_from_Coal_Hill.jpg
 place:
   id: "ChIJPdQVRelS8DURnwfTTb3idAY"
   name: "Forbidden City"

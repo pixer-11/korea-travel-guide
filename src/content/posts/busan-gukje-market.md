@@ -9,7 +9,11 @@ heroImage:
   credit: 'Photo: Ka23 13 / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Gukje_Market_20241221_125352.jpg
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/5931716_bWz7B0sdP0ZmEBnqA77UDo5ZUYpmw6b2TnO8mhZTABQ.jpg
+    credit: 'Photo: Foursquare user content (Gukje Market (국제시장))'
+    license: foursquare
+    source: https://foursquare.com/v/4bb83d31b35776b0d9cbc801
 place:
   id: ChIJfYLMelSTaDURFlCRfk5W1PA
   name: Gukje Market

@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Namaste)'
   license: foursquare
   source: https://foursquare.com/v/4dba4d9d81548ee14d790b7a
-gallery: []
+gallery:
+  - url: https://fastly.4sqi.net/img/general/original/11850424_kX8mfmAjXTpluf1HgU5rE8bsLMzJ5Juh-UrSAahN-MA.jpg
+    credit: 'Photo: Foursquare user content (Namaste)'
+    license: foursquare
+    source: https://foursquare.com/v/4dba4d9d81548ee14d790b7a
 place:
   id: ChIJwRRdMVyNaDUR3gs_IgM-ACU
   name: Namaste Haeundae

@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Zairon / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Bordeaux_Cath%C3%A9drale_Saint-Andr%C3%A9_Tour_Pey-Berland_Vue_sur_la_Place_Pey_Berland_6.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bordeaux_Cath%C3%A9drale_Saint-Andr%C3%A9_Tour_Pey-Berland_Int%C3%A9rieure.jpg/1920px-Bordeaux_Cath%C3%A9drale_Saint-Andr%C3%A9_Tour_Pey-Berland_Int%C3%A9rieure.jpg
+    credit: 'Photo: Zairon / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Bordeaux_Cath%C3%A9drale_Saint-Andr%C3%A9_Tour_Pey-Berland_Int%C3%A9rieure.jpg
 place:
   id: "ChIJD-_f9MQnVQ0RcaQotYIya0c"
   name: "Tour Pey Berland"
