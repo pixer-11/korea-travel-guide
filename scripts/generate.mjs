@@ -505,7 +505,61 @@ async function buildLivePost(target) {
   if (place.id) USED_PLACE_IDS.add(place.id);
 
   const heroImage = hero;
-  const gallery = (await pickGallery(place, 3)).filter(isImageAllowed);
+  // ONE in-body photo, sourced the same way the backfill does. pickGallery()
+  // reads Google Places photos, which are blocked for this account, so it
+  // returned nothing and every new post shipped with a single hero. Commons
+  // covers landmarks; the venue's own Foursquare photos cover the cafes and
+  // restaurants an encyclopedia never has. Certainty is the bar: a candidate is
+  // dropped unless the gate is sure it shows THIS place, and a hedged verdict
+  // ("probably", "plausibly") counts as a rejection — one correct hero is a
+  // perfectly good outcome, and a doubtful second photo is worse than none.
+  const gallery = [];
+  try {
+    const { commonsBest, tokens } = await import('./lib/commons.mjs');
+    const { venuePhotoCandidates } = await import('./lib/photo-sources.mjs');
+    const { verifyGalleryImage } = await import('./lib/vision-check.mjs');
+    const heroUrl = hero?.url;
+    const near = `${target.region}, ${target.country}`;
+    const cands = [];
+    try {
+      const wiki = await commonsBest(`${place.name} ${target.region}`, {
+        used: new Set([heroUrl]),
+        minWidth: 1200,
+        crossCheck: tokens(`${place.name} ${target.region}`),
+        minCross: 2,
+      });
+      if (wiki?.url) cands.push({ ...wiki, license: 'wikimedia' });
+    } catch {}
+    try {
+      for (const c of await venuePhotoCandidates({
+        name: place.name, lat: place.lat, lng: place.lng, near,
+      })) {
+        if (c.url && c.url !== heroUrl) cands.push(c);
+        if (cands.length >= 4) break;
+      }
+    } catch {}
+    for (const c of cands) {
+      if (USED_IMAGE_URLS.has(c.url)) continue;
+      let v;
+      try {
+        v = await verifyGalleryImage({
+          url: c.url, heroUrl, name: place.name,
+          category: target.category, region: target.region, country: target.country,
+        });
+      } catch { continue; }
+      const hedged = /probabl|plausib|likely|appears to|could be|maybe|possibly/i.test(v?.reason || '');
+      if (!v?.ok || hedged) continue;
+      const entry = { url: c.url, credit: c.credit, license: c.license, source: c.source };
+      if (isImageAllowed(entry)) {
+        gallery.push(entry);
+        USED_IMAGE_URLS.add(c.url);
+        console.log(`  \u{1F5BC}  in-body photo: ${v.reason}`);
+      }
+      break;
+    }
+  } catch (e) {
+    console.log(`  in-body photo skipped: ${e.message.slice(0, 60)}`);
+  }
 
   const title = makeTitle(place.name, target);
 
