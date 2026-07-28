@@ -86,6 +86,40 @@ jobs:
           CONCURRENCY: '2'
         run: node scripts/gen-region-intros.mjs
 
+      # Assembles/refreshes src/content/itineraries/<city>-<n>-days.md for any
+      # region that clears the itinerary gates (src/lib/itinerary.mjs gateFor).
+      # Self-validating (runs scripts/validate-itineraries.mjs on a temp file
+      # before ever touching a real target — see that script's header) and
+      # capped to ≤2 brand-new cities/7 days via data/itineraries-state.json,
+      # so this can never spam new pages. continue-on-error so a bad Claude
+      # response for one city can't block the rest of the daily publish.
+      # set -o pipefail: without it, the pipeline's exit status is tee's, so a
+      # crashed node still reports SUCCESS with a truncated log (same reasoning
+      # as geocode-placeless.yml).
+      - name: Build/refresh itinerary pages
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          set -o pipefail
+          node scripts/build-itineraries.mjs 2>&1 | tee /tmp/itin.log
+
+      # Prose-only translation (ko/ja/es/zh) of whatever itinerary files exist —
+      # resumable, skips up-to-date files, re-translates when sourceHash differs.
+      - name: Translate itineraries (ko/ja/es/zh)
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/translate-itineraries.mjs
+
+      # The dev box has no gh CLI and Actions logs need auth, so the build run's
+      # log is committed as an artifact file — same reasoning/pattern as
+      # data/logs/geocode-last-run.txt in geocode-placeless.yml.
+      - name: Save itinerary build log to repo
+        run: |
+          mkdir -p data/logs
+          cp /tmp/itin.log data/logs/itinerary-last-run.txt 2>/dev/null || echo "(no itinerary log this run)" > data/logs/itinerary-last-run.txt
+
       - name: Build hero photo-wall thumbnails
         run: node scripts/build-wall.mjs
 
@@ -94,7 +128,7 @@ jobs:
         run: |
           git config user.name "content-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add src/content/posts src/content/i18n data/published.json public/wall data/wall.json src/i18n/places.json src/i18n/country-blurbs.json src/i18n/regions.json
+          git add src/content/posts src/content/i18n data/published.json public/wall data/wall.json src/i18n/places.json src/i18n/country-blurbs.json src/i18n/regions.json src/content/itineraries src/content/itineraries-i18n data/itineraries-state.json data/logs/itinerary-last-run.txt
           new=$(git diff --cached --name-only --diff-filter=A -- src/content/posts | grep -c '\.md$' || true)
           total=$(ls src/content/posts/*.md | wc -l | tr -d ' ')
           echo "new=$new" >> "$GITHUB_OUTPUT"
@@ -136,6 +170,73 @@ jobs:
           curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
             --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
             --data-urlencode "text=$TXT" >/dev/null || true
+
+      # Same accuracy gate scripts/build-itineraries.mjs already runs per-file
+      # before ever renaming a temp file over a live target — this is the
+      # belt-and-braces full sweep (catches a stale cache — e.g. DWELL-STALE/
+      # LEG-STALE if the solver's math changed after a file was generated —
+      # that a per-file pre-rename check can't see across the whole content set).
+      - name: Validate itinerary content integrity
+        id: validateitin
+        continue-on-error: true
+        run: node scripts/validate-itineraries.mjs
+
+      - name: Warn on itinerary validation issues
+        if: steps.validateitin.outcome == 'failure'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
+          MSG=$(node scripts/validate-itineraries.mjs 2>&1 | head -25 || true)
+          TXT=$(printf '⚠️ 일정 페이지 검증 경고 (일일 자동발행)\n%s' "$MSG")
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+            --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
+            --data-urlencode "text=$TXT" >/dev/null || true
+
+      # Announces a brand-new itinerary city the moment its page goes live —
+      # scripts/build-itineraries.mjs prints "NEW_ITINERARY: <city> <days>d" to
+      # stdout (captured in /tmp/itin.log above) only for a file that didn't
+      # exist before this run. Never fails the job: guarded end to end, and not
+      # gated on any earlier step's outcome (the build step is
+      # continue-on-error, so a partial run can still have produced a real new
+      # file worth announcing).
+      - name: New itinerary city notice (Korean)
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
+          [ -f /tmp/itin.log ] || exit 0
+          grep -q '^NEW_ITINERARY:' /tmp/itin.log || exit 0
+          # Derive "<Korean city name> <days>일 — <live URL>" lines the same way
+          # the builder derives its own output filename (slugify(city) + "-" +
+          # days + "-days") and using the same Korean city names already
+          # localized for the site (src/i18n/places.json) — never re-guess or
+          # hardcode a translation here.
+          node -e '
+            const fs = require("node:fs");
+            import("./scripts/lib/slugify.mjs").then(({ slugify }) => {
+              const log = fs.readFileSync("/tmp/itin.log", "utf8");
+              let places = {};
+              try { places = JSON.parse(fs.readFileSync("src/i18n/places.json", "utf8")); } catch {}
+              const out = [];
+              for (const m of log.matchAll(/^NEW_ITINERARY: (.+) (\d+)d$/gm)) {
+                const [, city, days] = m;
+                const ko = places[city]?.ko || city;
+                const slug = `${slugify(city)}-${days}-days`;
+                out.push(`🗺️ 새 일정 페이지 오픈: ${ko} ${days}일 — https://wanderatlasguides.com/itinerary/${slug}/`);
+              }
+              fs.writeFileSync("/tmp/newcity.txt", out.join("\n"), "utf8");
+            }).catch(() => fs.writeFileSync("/tmp/newcity.txt", "", "utf8"));
+          ' || true
+          [ -s /tmp/newcity.txt ] || exit 0
+          while IFS= read -r line; do
+            [ -z "$line" ] && continue
+            curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+              --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
+              --data-urlencode "text=$line" >/dev/null || true
+          done < /tmp/newcity.txt || true
 
       - name: Audit translation language purity
         id: langaudit

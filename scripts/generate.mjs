@@ -21,8 +21,11 @@ import { existsSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 
+import yaml from 'js-yaml';
+
 import { slugify } from './lib/slugify.mjs';
 import { checkPlace, isImageAllowed } from './lib/guardrails.mjs';
+import { qualifyingPosts } from '../src/lib/itinerary.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
@@ -96,13 +99,14 @@ async function main() {
   const capPerCountry = Number(process.env.TARGET_PER_COUNTRY || 0) || Infinity;
   const countryCounts = await countPostsByCountry();
   const regionCatCounts = await countPostsByRegionCategory();
+  const regionQualifyingCounts = await countQualifyingPostsByRegion();
 
   // Seasonal events: publish with priority when in season (current month or the
   // next month, for lead time), only for active countries.
   const activeNames = new Set(activeCountries.map((c) => c.name));
   const seasonal = await loadSeasonalTargets(activeNames);
 
-  const queue = buildRotatedQueue(targets, done, activeCountries, seasonal, { capPerCountry, countryCounts, regionCatCounts });
+  const queue = buildRotatedQueue(targets, done, activeCountries, seasonal, { capPerCountry, countryCounts, regionCatCounts, regionQualifyingCounts });
 
   const mode = DUMMY ? 'DUMMY' : USE_PLACES ? 'LIVE + Places' : 'LIVE (no Places)';
   console.log(
@@ -145,8 +149,13 @@ async function main() {
 }
 
 // ── Queue building + round-robin rotation ────────────────────
-function buildRotatedQueue(targets, done, countries, seasonal = [], opts = {}) {
-  const { capPerCountry = Infinity, countryCounts = new Map(), regionCatCounts = new Map() } = opts;
+export function buildRotatedQueue(targets, done, countries, seasonal = [], opts = {}) {
+  const {
+    capPerCountry = Infinity,
+    countryCounts = new Map(),
+    regionCatCounts = new Map(),
+    regionQualifyingCounts = new Map(),
+  } = opts;
   const seen = new Set();
   const all = [];
   const addedPerCountry = new Map();
@@ -255,7 +264,18 @@ function buildRotatedQueue(targets, done, countries, seasonal = [], opts = {}) {
     return n === 2 || n === 3;
   };
   const boosted = [...rotated.filter(nearRoundup), ...rotated.filter((t) => !nearRoundup(t))];
-  const queueOut = [...seasonalQueue, ...boosted];
+
+  // Itinerary-gate boost: a region at 9-11 (or 21-23) qualifying posts is close to
+  // unlocking an itinerary page — filling those first compounds (spec 2026-07-27).
+  const ITINERARY_GATE_RANGES = [[9, 11], [21, 23]]; // 3 posts below gateFor()'s 12/24 thresholds
+  const nearItineraryGate = (t) => {
+    if (!t.region) return false;
+    const n = regionQualifyingCounts.get(t.region) || 0;
+    return ITINERARY_GATE_RANGES.some(([lo, hi]) => n >= lo && n <= hi);
+  };
+  const gateBoosted = [...boosted.filter(nearItineraryGate), ...boosted.filter((t) => !nearItineraryGate(t))];
+
+  const queueOut = [...seasonalQueue, ...gateBoosted];
   if (process.env.QUEUE_DEBUG === '1') {
     console.log('[QUEUE_DEBUG] first 20:');
     for (const t of queueOut.slice(0, Number(process.env.QUEUE_DEBUG_N ?? 20))) console.log(`  ${t.country ?? 'South Korea'} / ${t.region} / ${t.category}`);
@@ -279,6 +299,31 @@ async function countPostsByRegionCategory() {
     if (!region || !category) continue;
     const k = region + '|' + category;
     counts.set(k, (counts.get(k) || 0) + 1);
+  }
+  return counts;
+}
+
+// Full-frontmatter parse per post, so "qualifying" here means EXACTLY what
+// src/lib/itinerary.mjs's qualifyingPosts()/gateFor() mean (not draft, not a
+// category:event post, numeric place.lat/lng, businessStatus not CLOSED_*) —
+// imported and reused rather than re-implemented, so the generator's boost and
+// the itinerary builder's gate can never drift apart. Unlike
+// countPostsByRegionCategory above (a cheap region+category regex scan used
+// for the near-roundup boost), this needs the full parsed place block, so it
+// reads+parses every post's frontmatter with js-yaml. Powers the
+// itinerary-gate boost below.
+async function countQualifyingPostsByRegion() {
+  const counts = new Map();
+  for (const f of await readdir(POSTS_DIR)) {
+    if (!f.endsWith('.md')) continue;
+    const raw = await readFile(join(POSTS_DIR, f), 'utf8');
+    const end = raw.indexOf('\n---', 3);
+    if (end === -1) continue;
+    let fm;
+    try { fm = yaml.load(raw.slice(4, end)); } catch { continue; }
+    if (!fm || !fm.region) continue;
+    if (!qualifyingPosts([{ data: fm }]).length) continue;
+    counts.set(fm.region, (counts.get(fm.region) || 0) + 1);
   }
   return counts;
 }
@@ -716,4 +761,13 @@ function quote(v) {
   return JSON.stringify(s);
 }
 
-main().catch((e) => { console.error(e); process.exit(1); });
+// Guarded like scripts/build-itineraries.mjs / scripts/translate-itineraries.mjs
+// — without this, merely `import`-ing this module (e.g. from a unit test, or
+// any future tool that wants to reuse buildRotatedQueue) would kick off a full
+// live generator run as a side effect. Confirmed the hard way: adding
+// scripts/generate.test.mjs without this guard triggered a real run that spent
+// Google Places quota and rewrote data/published.json just from being imported.
+const isMain = process.argv[1] && fileURLToPath(import.meta.url) === process.argv[1];
+if (isMain) {
+  main().catch((e) => { console.error(e); process.exit(1); });
+}
