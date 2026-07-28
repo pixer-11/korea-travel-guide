@@ -531,3 +531,61 @@ test('preferredSlot: reads the whole post, frontmatter FAQ included', () => {
   };
   assert.equal(preferredSlot(somsak), 'evening');
 });
+
+// --- dwellMinutes against the real published posts ---------------------------
+// The extractor used to collapse these five to the 30-minute floor, because a guide
+// mentions travel minutes ("a five-minute walk from Exit 5", "10-15 minutes from
+// Bukchon") long before it says how long to stay. That shipped a Seoul itinerary
+// claiming Gyeongbokgung Palace takes 30 minutes.
+//
+// These read the actual files: the geocode and photo pipelines rewrite frontmatter but
+// not prose, and this is the exact defect a synthetic fixture failed to catch.
+
+import { readFileSync, existsSync } from 'node:fs';
+import yaml from 'js-yaml';
+
+function loadPost(slug) {
+  const path = new URL(`../content/posts/${slug}.md`, import.meta.url);
+  const text = readFileSync(path, 'utf8');
+  const end = text.indexOf('\n---', 3);
+  return { id: slug, data: yaml.load(text.slice(4, end)), body: text.slice(end + 4) };
+}
+
+test('dwellMinutes: real launch-city posts, not the 30-minute floor', () => {
+  const cases = [
+    // slug,                             min, max, why
+    ['seoul-gyeongbokgung-palace', 150, 150, 'body says "Plan on 2-3 hours"'],
+    ['seoul-myeongdong-shopping-street', 150, 150, 'frontmatter says "Budget 2-3 hours"'],
+    ['seoul-gwangjang-market', 90, 90, 'body says "Budget 1-2 hours" / "Plan on one to two hours"'],
+    ['seoul-ikseon-dong', 100, 110, 'body says "Budget 1.5 to 2 hours"'],
+    ['seoul-cheonggyecheon', 30, 60, '"takes 30-45 minutes"; must not read "the full 11 km ... 3+ hours"'],
+  ];
+  for (const [slug, min, max, why] of cases) {
+    if (!existsSync(new URL(`../content/posts/${slug}.md`, import.meta.url))) continue;
+    const got = dwellMinutes(loadPost(slug));
+    assert.ok(got >= min && got <= max, `${slug}: expected ${min}-${max} (${why}), got ${got}`);
+    assert.notEqual(got, 30, `${slug} collapsed to the 30-minute floor`);
+  }
+});
+
+test('dwellMinutes: travel time never beats the visit recommendation', () => {
+  // The literal shapes that used to win. Each pairs an access time with a real one.
+  const d = (body) => dwellMinutes({ data: { category: 'attraction' }, body });
+  assert.equal(d('Anyone coming from Bukchon can walk over in 10-15 minutes. Plan on 2-3 hours for the palace.'), 150);
+  assert.equal(d('Take exit 6 and walk north about 3-5 minutes. Budget 1.5 to 2 hours for a relaxed wander.'), 105);
+  assert.equal(d('The closest station is a 5-minute walk. Budget 1-2 hours and roughly 15,000 won.'), 90);
+  // Word numbers.
+  assert.equal(d('Plan on one to two hours to eat and browse.'), 90);
+  assert.equal(d('Allow several hours if you are serious about it.'), 180);
+  // "takes" is a weak signal: a strong recommendation later in the post still wins.
+  assert.equal(d('This walk alone takes 15-20 minutes each way. Budget 60-90 minutes to walk the approach.'), 75);
+  // ...but "takes" still works when it is the only duration given.
+  assert.equal(d('A satisfying visit is the first stretch, which takes 30-45 minutes at an easy pace.'), 38);
+});
+
+test('dwellMinutes: a combined-outing duration is not this venue dwell', () => {
+  // "close enough to combine into a half-day" was reading a lunch counter as 4 hours.
+  const d = (body, category = 'restaurant') => dwellMinutes({ data: { category }, body });
+  assert.equal(d('The museum a short taxi ride away is close enough to combine into a half-day.'), 60);
+  assert.equal(d('Pair it with a walk along the nearby park for a full half-day itinerary.', 'trendy'), 90);
+});

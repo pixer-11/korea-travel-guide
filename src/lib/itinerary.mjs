@@ -38,112 +38,142 @@ export function closedDaysOf(openingHours) {
   return out;
 }
 
-// Extract dwell time from OUR guides' prose. Recognizes multiple duration phrasings:
-// - existing: "plan on/allow/budget/spend N hours|minutes"
-// - "hour-long" / "an hour-long X" → 60min
-// - "a couple of hours" → 120min
-// - "a few hours" → 150min
-// - "half-day" / "half a day" → 240min
-// - "N-hour" (e.g. "2-hour walk", "three-hour visit") → N*60min
-// - "N minutes" / "takes about N minutes" / "N-minute walk" → Nmin
-// - "quick stop" / "a quick visit" → 30min
-// Guard: ignore durations in sentences containing "full", "entire", "whole", "if you walk the", or "rather than"
-// — these usually refer to alternatives, not the main visit. Precedence: first occurrence wins.
+// Extract dwell time from OUR guides' prose.
+//
+// PRECEDENCE IS THE WHOLE GAME. A guide mentions minutes many times before it ever
+// recommends how long to stay — "a five-minute walk from Exit 5", "10-15 minutes from
+// Bukchon", "15-20 minutes on foot". A flat first-match-wins scan therefore read
+// Gyeongbokgung Palace as a 30-minute stop when its own text says "Plan on 2-3 hours".
+// So durations are read in tiers, strongest first:
+//   1. an explicit recommendation: plan on / allow / budget / spend / set aside / takes
+//      + a number (12, 1.5, "one to two") + hours or minutes
+//   2. idiomatic lengths: "hour-long", "a couple of hours", "several hours", "half-day",
+//      "a 2-hour walk"
+//   3. a bare "N" or "N-M minutes" — but not when the sentence is describing how to get
+//      there (from / away / exit / station / subway / taxi)
+//   4. "a quick stop" → 30, only when nothing above matched
+//   5. the category default
+//
+// Guard words (full, entire, whole, "if you walk the", "rather than") still suppress a
+// duration, but only within their own CLAUSE — Cheonggyecheon's real "…which takes 30–45
+// minutes at an easy pace" sits in the same sentence as "Most visitors don't walk the
+// whole 11 km", and sentence-level guarding threw the good number away with the bad one.
+const NUM = '(?:\\d+(?:\\.\\d+)?|one|two|three|four|five|six|seven|eight|nine|ten|twelve)';
+const SEP = '(?:\\s*(?:-|–|—|to|or)\\s*)';
+const HEDGE = '(?:(?:about|around|roughly|at least|up to)\\s+)?';
+// "plan on / allow / budget / spend" is somebody telling you how long to stay.
+// "takes" usually is not — "this walk alone takes 15-20 minutes each way", "a taxi from
+// Roppongi takes about 10-15 minutes" — so it is tried only after the strong verbs, and
+// only in a clause that is not describing the journey.
+const STRONG_VERB = '(?:plan(?:\\s+on)?|allow|budget|spend|set\\s+aside|give\\s+it|reserve|expect\\s+to\\s+spend)';
+const WEAK_VERB = '(?:takes?)';
+const WORD_NUM = { one: 1, two: 2, three: 3, four: 4, five: 5, six: 6, seven: 7, eight: 8, nine: 9, ten: 10, twelve: 12 };
+const numOf = (s) => (s == null ? null : (Number.isFinite(Number(s)) ? Number(s) : WORD_NUM[String(s).toLowerCase()] ?? null));
+
+const TAIL = '\\s+' + HEDGE + '(' + NUM + ')' + SEP + '?(' + NUM + ')?\\s*';
+const TIER1_HOURS = new RegExp(STRONG_VERB + TAIL + 'hours?', 'i');
+const TIER1_MINS = new RegExp(STRONG_VERB + TAIL + 'min', 'i');
+const TIER1B_HOURS = new RegExp(WEAK_VERB + TAIL + 'hours?', 'i');
+const TIER1B_MINS = new RegExp(WEAK_VERB + TAIL + 'min', 'i');
+const TIER3_MINS = new RegExp('(?:^|\\s)' + HEDGE + '(\\d+)' + SEP + '?(\\d+)?\\s*-?\\s*min(?:ute)?s?\\b', 'i');
+const NHOUR = new RegExp('\\b(?:a\\s+)?(' + NUM + ')\\s*-\\s*hours?\\b', 'i');
+// "a five-minute walk from Exit 5" is how you ARRIVE, not how long you stay.
+const ACCESS = /\bfrom\b|\baway\b|\bexit\b|\bstation\b|\bsubway\b|\bmetro\b|\btaxi\b|\bbus\b|\bto reach\b|\bdrop you\b|\bline \d|\bon foot\b|\bride\b|\beach way\b|\beach\b|\bnearest\b|\bclosest\b/i;
+// A duration after any of these is not this venue's dwell time: "full/entire/whole"
+// and "if you walk the" describe the maximal version of the outing, "rather than"
+// describes the alternative you were told to skip, and the combine/pair family
+// describes a day built from this venue PLUS another one — "close enough to combine
+// into a half-day" was reading a halal lunch counter as a four-hour stop.
+const GUARD_WORDS = [
+  'full', 'entire', 'whole', 'if you walk the', 'rather than',
+  'combine', 'combined', 'combining', 'pair it', 'paired with', 'pairs ', 'pair with',
+  'together with', 'alongside', 'add on', 'along with',
+];
+
+const avg = (a, b) => (b == null ? a : (a + b) / 2);
+
+// Clause, not sentence: split on sentence enders AND semicolons/commas, so one guarded
+// clause cannot suppress a good duration sitting beside it. The (?<!\d) lookbehind keeps
+// "1.5" and the trailing lookahead keeps "₩15,000" intact.
+function clausesOf(body) {
+  return body
+    .split(/(?<!\d)[.!?;,]+(?=\s|$)|\n+/)
+    .map((s) => s.trim())
+    .filter(Boolean)
+    .map((clause) => {
+      let cut = clause.length;
+      const lower = clause.toLowerCase();
+      for (const g of GUARD_WORDS) {
+        const at = lower.indexOf(g);
+        if (at !== -1 && at < cut) cut = at;
+      }
+      return clause.slice(0, cut);
+    })
+    .filter(Boolean);
+}
+
+// Where a visit length may legitimately be stated: the body first (so its recommendation
+// outranks the frontmatter), then description, quickAnswer and FAQ ANSWERS.
+// seoul-myeongdong-shopping-street has no duration in its prose at all — its
+// "Budget 2-3 hours" lives in frontmatter — so a body-only read called it a 30-minute
+// stop. FAQ questions are excluded: they are prompts, not recommendations, and
+// seoul-plant-cafe's "What's nearby if I want to make a half-day of it?" was being read
+// as a four-hour dwell. Title and tags are excluded too — a venue name is not a duration.
+function durationProse(post) {
+  const d = post.data || {};
+  const parts = [String(post.body || ''), String(d.description || ''), String(d.quickAnswer || '')];
+  if (Array.isArray(d.faq)) for (const f of d.faq) parts.push(String(f?.a || ''));
+  return parts.join('\n').toLowerCase();
+}
+
 export function dwellMinutes(post) {
-  const body = String(post.body || '');
+  const clauses = clausesOf(durationProse(post));
 
-  // Split into sentences (avoid splitting on decimal points like "1.5")
-  // Match periods followed by space or end-of-string, or exclamation/question marks
-  const sentences = body.split(/(?<!\d)[.!?]+(?=\s|$)/).map(s => s.trim()).filter(s => s.length > 0);
-  const guardWords = ['full', 'entire', 'whole', 'if you walk the', 'rather than'];
-
-  for (const sentence of sentences) {
-    // Find earliest guard word position; only search BEFORE it
-    let guardPos = Infinity;
-    for (const guard of guardWords) {
-      const pos = sentence.toLowerCase().indexOf(guard.toLowerCase());
-      if (pos !== -1 && pos < guardPos) guardPos = pos;
-    }
-    const textToSearch = sentence.substring(0, guardPos);
-
-    let mins = null;
-
-    // Try each pattern in order of specificity (first match wins within the sentence)
-    // Priority: existing range patterns first to avoid matching individual numbers in ranges
-
-    // 0. Existing "plan on/allow/budget/spend N-M hours|minutes" (handles ranges, now with decimals like "1.5 to 2 hours")
-    {
-      const h = /(?:plan on|allow|budget|spend)\s+(?:about\s+|around\s+)?(\d+(?:\.\d+)?)\s*(?:(?:-|–|to)\s*)?(\d+(?:\.\d+)?)?\s*hours?/i.exec(textToSearch);
-      const m = /(?:plan on|allow|budget|spend)\s+(?:about\s+|around\s+)?(\d+(?:\.\d+)?)\s*(?:(?:-|–|to)\s*)?(\d+(?:\.\d+)?)?\s*min/i.exec(textToSearch);
-      if (h) {
-        const first = Number(h[1]);
-        const second = h[2] ? Number(h[2]) : first;
-        mins = ((first + second) / 2) * 60;
-      } else if (m) {
-        const first = Number(m[1]);
-        const second = m[2] ? Number(m[2]) : first;
-        mins = (first + second) / 2;
-      }
-    }
-
-    // 0b. "N-M minutes" or "N-M minute walk" patterns (e.g. "30-45 minutes", "a brisk 30-60 minute walk")
-    if (!mins && /\ba?\s*\b(?:brisk|quick|short)?\s*(\d+)(?:\s*(?:-|–|to)\s*)?(\d+)?\s*-?minute/i.test(textToSearch)) {
-      const m = /\b(?:brisk|quick|short)?\s*(\d+)(?:\s*(?:-|–|to)\s*)?(\d+)?\s*-?minutes?/i.exec(textToSearch);
-      if (m) {
-        const first = Number(m[1]);
-        const second = m[2] ? Number(m[2]) : first;
-        mins = (first + second) / 2;
-      }
-    }
-
-    // If existing pattern didn't match, try new patterns
-    if (!mins) {
-      // 1. "quick stop" / "a quick visit"
-      if (/\ba\s+quick\s+(?:stop|visit)/i.test(textToSearch)) {
-        mins = 30;
-      }
-      // 2. "hour-long" / "an hour-long X"
-      else if (/\b(?:an?\s+)?hour-long\b/i.test(textToSearch)) {
-        mins = 60;
-      }
-      // 3. "a couple of hours"
-      else if (/\ba\s+couple\s+of\s+hours\b/i.test(textToSearch)) {
-        mins = 120;
-      }
-      // 4. "a few hours"
-      else if (/\ba\s+few\s+hours\b/i.test(textToSearch)) {
-        mins = 150;
-      }
-      // 5. "half-day" / "half a day" / "a half-day"
-      else if (/(?:a\s+)?half(?:\s+a)?(?:\s+|-)?day\b/i.test(textToSearch)) {
-        mins = 240;
-      }
-      // 6. "N-hour" with dash (e.g. "a 2-hour walk", "one-hour visit")
-      else if (/\b(?:a\s+)?(?:one|two|three|four|\d+)-hours?\b/i.test(textToSearch)) {
-        const m = /\b(?:a\s+)?(?:(one|two|three|four)|(\d+))-hours?\b/i.exec(textToSearch);
-        if (m) {
-          const numWord = m[1];
-          const numDigit = m[2];
-          const num = numDigit ? Number(numDigit) : { one: 1, two: 2, three: 3, four: 4 }[numWord.toLowerCase()];
-          if (num) mins = num * 60;
-        }
-      }
-      // 7. "N minutes" / "N-minute" / "takes about N minutes" (e.g. "30 minutes", "a 40-minute walk")
-      else if (/\b(?:takes\s+about\s+|about\s+|a\s+)?(\d+)(?:-| )?min(?:utes?)?\b/i.test(textToSearch)) {
-        const m = /\b(?:takes\s+about\s+|about\s+|a\s+)?(\d+)(?:-| )?min(?:utes?)?\b/i.exec(textToSearch);
-        if (m) mins = Number(m[1]);
-      }
-    }
-
-    // If found a valid duration in this sentence, return it (first match wins)
-    if (mins != null && Number.isFinite(mins)) {
-      return Math.max(30, Math.min(300, Math.round(mins)));
-    }
+  // Tier 1 — an explicit "how long to stay" recommendation. First one in the post wins.
+  for (const c of clauses) {
+    const h = TIER1_HOURS.exec(c);
+    if (h && numOf(h[1]) != null) return clamp(avg(numOf(h[1]), numOf(h[2])) * 60);
+    const m = TIER1_MINS.exec(c);
+    if (m && numOf(m[1]) != null) return clamp(avg(numOf(m[1]), numOf(m[2])));
   }
 
-  // Fallback: category default
-  const defaultDwell = DWELL_DEFAULT[post.data?.category] ?? 90;
-  return Math.max(30, Math.min(300, Math.round(defaultDwell)));
+  // Tier 1b — "takes N minutes", but only where the clause is not about getting there.
+  for (const c of clauses) {
+    if (ACCESS.test(c)) continue;
+    const h = TIER1B_HOURS.exec(c);
+    if (h && numOf(h[1]) != null) return clamp(avg(numOf(h[1]), numOf(h[2])) * 60);
+    const m = TIER1B_MINS.exec(c);
+    if (m && numOf(m[1]) != null) return clamp(avg(numOf(m[1]), numOf(m[2])));
+  }
+
+  // Tier 2 — idiomatic lengths.
+  for (const c of clauses) {
+    if (/\bhalf(?:\s+a)?[\s-]?day\b/i.test(c)) return clamp(240);
+    if (/\bseveral\s+hours\b/i.test(c)) return clamp(180);
+    if (/\ba\s+few\s+hours\b/i.test(c)) return clamp(150);
+    if (/\ba\s+couple\s+of\s+hours\b/i.test(c)) return clamp(120);
+    if (/\b(?:an?\s+)?hour-long\b/i.test(c)) return clamp(60);
+    const nh = NHOUR.exec(c);
+    if (nh && numOf(nh[1]) != null) return clamp(numOf(nh[1]) * 60);
+  }
+
+  // Tier 3 — a bare minute figure, unless the clause is describing the journey there.
+  for (const c of clauses) {
+    if (ACCESS.test(c)) continue;
+    const m = TIER3_MINS.exec(c);
+    if (m) return clamp(avg(Number(m[1]), m[2] == null ? null : Number(m[2])));
+  }
+
+  // Tier 4 — "a quick stop", only with no real duration anywhere.
+  for (const c of clauses) {
+    if (/\ba\s+quick\s+(?:stop|visit|look)\b/i.test(c)) return clamp(30);
+  }
+
+  return clamp(DWELL_DEFAULT[post.data?.category] ?? 90);
+}
+
+function clamp(mins) {
+  return Math.max(30, Math.min(300, Math.round(mins)));
 }
 
 const rad = (x) => (x * Math.PI) / 180;
