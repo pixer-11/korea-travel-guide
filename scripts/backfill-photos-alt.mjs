@@ -107,8 +107,17 @@ for (const f of files) {
   if (!isTarget) continue;
   scanned++;
 
+  // Stock photography is banned on a NAMED venue by policy, not by judgement:
+  // a generic Unsplash cafe shot looks like a perfectly plausible cafe, so the
+  // vision gate approves it every time and the post keeps a photo that is not of
+  // this place at all (2026-07-28: 20 venue posts sat like this and a targeted
+  // patrol run 'fixed' none of them). Skip the keep-it shortcut for those.
+  const STOCK_BANNED_CATS = new Set(['restaurant', 'cafe', 'trendy', 'hidden-gem', 'food']);
+  const heroIsStock = data.heroImage?.license === 'unsplash' && STOCK_BANNED_CATS.has(data.category);
+  if (heroIsStock) console.log(`  ✗  ${slug}: stock hero on a named venue — replacing regardless of vision`);
+
   // Current hero first: if the AI approves what's already there, keep it.
-  if (data.heroImage?.url && data.draft !== true) {
+  if (!heroIsStock && data.heroImage?.url && data.draft !== true) {
     const cur = await verifyHeroImage({ url: data.heroImage.url, name: venueName, category: data.category, region: data.region, country: data.country });
     if (cur.ok) {
       // Record the acquittal. The weekly audit is a single vision call and does
