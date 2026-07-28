@@ -32,6 +32,14 @@ place:
     weekendQuiet: [8, 22]
     weekendBusy: [11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
     venueId: 'ven_304735516c385354627449524147474a6977356f6365534a496843'
+  openingHours:
+    - 'Monday: 8:00 AM – 10:00 PM'
+    - 'Tuesday: 8:00 AM – 10:00 PM'
+    - 'Wednesday: 8:00 AM – 10:00 PM'
+    - 'Thursday: 8:00 AM – 10:00 PM'
+    - 'Friday: 8:00 AM – 10:00 PM'
+    - 'Saturday: 8:00 AM – 10:00 PM'
+    - 'Sunday: 8:00 AM – 10:00 PM'
 tags:
   - "tokyo"
   - "teamLab Planets"

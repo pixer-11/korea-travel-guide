@@ -46,6 +46,14 @@ place:
       - 16
       - 17
     venueId: ven_34654e534d6d3042513070524147474d4b626c364257724a496843
+  openingHours:
+    - 'Monday: 7:00 AM – 11:00 PM'
+    - 'Tuesday: 7:00 AM – 11:00 PM'
+    - 'Wednesday: 7:00 AM – 1:00 AM'
+    - 'Thursday: 7:00 AM – 1:00 AM'
+    - 'Friday: 7:00 AM – 1:00 AM'
+    - 'Saturday: 7:00 AM – 1:00 AM'
+    - 'Sunday: 7:00 AM – 1:00 AM'
 tags:
   - tokyo
   - trendy cafe

@@ -25,6 +25,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 35.6702584
   lng: 139.7643725
+  phone: '03-6274-6171'
+  openingHours:
+    - 'Monday: 11:00 AM – 11:00 PM'
+    - 'Tuesday: 11:00 AM – 11:00 PM'
+    - 'Wednesday: 11:00 AM – 11:00 PM'
+    - 'Thursday: 11:00 AM – 11:00 PM'
+    - 'Friday: 11:00 AM – 11:00 PM'
+    - 'Saturday: 11:00 AM – 11:00 PM'
+    - 'Sunday: 11:00 AM – 11:00 PM'
 tags:
   - tokyo
   - new & trending

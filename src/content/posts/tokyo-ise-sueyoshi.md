@@ -25,6 +25,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 35.6586527
   lng: 139.7235382
+  phone: '03-6427-2314'
+  openingHours:
+    - 'Monday: Closed'
+    - 'Tuesday: 5:00 – 10:00 PM'
+    - 'Wednesday: 5:00 – 10:00 PM'
+    - 'Thursday: 5:00 – 10:00 PM'
+    - 'Friday: 12:00 – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: Closed'
 tags:
   - tokyo
   - local restaurant

@@ -25,6 +25,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 41.3929873
   lng: 2.1559049
+  phone: '930 46 41 20'
+  openingHours:
+    - 'Monday: 1:00 – 4:00 PM, 6:30 – 11:30 PM'
+    - 'Tuesday: 1:00 – 4:00 PM, 6:30 – 11:30 PM'
+    - 'Wednesday: 1:00 – 4:00 PM, 6:30 – 11:30 PM'
+    - 'Thursday: 1:00 – 4:00 PM, 6:30 – 11:30 PM'
+    - 'Friday: 12:30 – 4:00 PM, 6:30 – 11:45 PM'
+    - 'Saturday: 12:30 – 4:00 PM, 6:30 – 11:45 PM'
+    - 'Sunday: 12:30 – 4:00 PM, 6:45 – 11:30 PM'
 tags:
   - barcelona
   - new & trending

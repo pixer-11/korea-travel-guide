@@ -45,6 +45,15 @@ place:
       - 19
       - 20
     venueId: ven_736c527330507232675a6c525544665a6d6847663259334a496843
+  phone: '02-749-1981'
+  openingHours:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
 tags:
   - seoul
   - vegan Yeonnam-dong

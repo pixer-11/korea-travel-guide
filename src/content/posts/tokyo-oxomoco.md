@@ -21,6 +21,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 35.6611207
   lng: 139.7286823
+  phone: '03-3478-9991'
+  openingHours:
+    - 'Monday: 11:00 AM – 11:00 PM'
+    - 'Tuesday: 11:00 AM – 11:00 PM'
+    - 'Wednesday: 11:00 AM – 11:00 PM'
+    - 'Thursday: 11:00 AM – 11:00 PM'
+    - 'Friday: 11:00 AM – 2:00 AM'
+    - 'Saturday: 11:00 AM – 2:00 AM'
+    - 'Sunday: 11:00 AM – 11:00 PM'
 tags:
   - tokyo
   - new & trending

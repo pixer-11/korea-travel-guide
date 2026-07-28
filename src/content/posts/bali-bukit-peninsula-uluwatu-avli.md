@@ -25,6 +25,15 @@ place:
   businessStatus: OPERATIONAL
   lat: -8.8165625
   lng: 115.09581249999998
+  phone: '0812-2663-8787'
+  openingHours:
+    - 'Monday: 5:00 PM – 12:00 AM'
+    - 'Tuesday: 5:00 PM – 12:00 AM'
+    - 'Wednesday: 5:00 PM – 12:00 AM'
+    - 'Thursday: 5:00 PM – 1:00 AM'
+    - 'Friday: 5:00 PM – 1:00 AM'
+    - 'Saturday: 5:00 PM – 1:00 AM'
+    - 'Sunday: 5:00 PM – 1:00 AM'
 tags:
   - bali
   - new & trending

@@ -25,6 +25,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 13.7366864
   lng: 100.5102656
+  phone: '097 016 9824'
+  openingHours:
+    - 'Monday: 11:30 AM – 10:30 PM'
+    - 'Tuesday: 4:30 – 10:30 PM'
+    - 'Wednesday: 4:30 – 10:30 PM'
+    - 'Thursday: 4:30 – 10:30 PM'
+    - 'Friday: 4:30 – 10:30 PM'
+    - 'Saturday: 11:30 AM – 10:30 PM'
+    - 'Sunday: 11:30 AM – 10:30 PM'
 tags:
   - bangkok
   - new & trending

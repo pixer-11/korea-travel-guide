@@ -21,6 +21,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 35.6647703
   lng: 139.7702515
+  phone: '03-3541-9444'
 tags:
   - "tokyo"
   - "Tsukiji Outer Market"

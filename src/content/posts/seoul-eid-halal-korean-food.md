@@ -43,6 +43,15 @@ place:
       - 19
       - 20
     venueId: ven_73653954746674352d7871525544666a576244745630614a496843
+  phone: '070-8899-8210'
+  openingHours:
+    - 'Monday: 11:30 AM – 9:00 PM'
+    - 'Tuesday: 11:30 AM – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 9:00 PM'
+    - 'Thursday: 11:30 AM – 9:00 PM'
+    - 'Friday: 11:30 AM – 9:00 PM'
+    - 'Saturday: 11:30 AM – 9:00 PM'
+    - 'Sunday: 11:30 AM – 9:00 PM'
 tags:
   - seoul
   - halal food Itaewon

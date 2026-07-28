@@ -50,6 +50,15 @@ place:
       - 16
       - 17
     venueId: ven_5974566a69554d49384a5252554466693275663056336d4a496843
+  phone: '02-2267-0291'
+  openingHours:
+    - 'Monday: 9:00 AM – 10:30 PM'
+    - 'Tuesday: 9:00 AM – 10:30 PM'
+    - 'Wednesday: 9:00 AM – 10:30 PM'
+    - 'Thursday: 9:00 AM – 10:30 PM'
+    - 'Friday: 9:00 AM – 10:30 PM'
+    - 'Saturday: 9:00 AM – 10:30 PM'
+    - 'Sunday: 9:00 AM – 10:30 PM'
 tags:
   - seoul
   - street food
