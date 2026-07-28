@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import Logo from './Logo.astro';
 import Flag from './Flag.astro';
+import Emoji from './Emoji.astro';
 import LanguageSwitcher from './LanguageSwitcher.astro';
 import { SITE } from '../siteConfig';
 import { getLangFromUrl, useTranslations, localizePath, type Lang } from '../i18n/utils';
@@ -63,12 +64,12 @@ const navGroups = CONT_ORDER
               </div>
             </div>
           ))}
-          <a href={localizePath('/destinations', lang)} class="nav-dd-all">{t('nav.allDestinations')} →</a>
+          <a href={localizePath('/destinations', lang)} class="nav-dd-all"><Emoji name="world-map" /> {t('nav.allDestinations')} →</a>
           {/* "When to go" is a where/when-to-travel tool, so it belongs beside the
               destination list rather than competing for a top-level slot — that
               slot now goes to itineraries, the thing this site has that plain
               guide blogs don't. Keeps the bar at 5 items (mobile-safe). */}
-          <a href={localizePath('/tools/best-time', lang)} class="nav-dd-all">{t('nav.tools')} →</a>
+          <a href={localizePath('/tools/best-time', lang)} class="nav-dd-all"><Emoji name="cherry-blossom" /> {t('nav.tools')} →</a>
         </div>
       </div>
       <a href={localizePath('/itinerary', lang)}>{t('nav.itineraries')}</a>

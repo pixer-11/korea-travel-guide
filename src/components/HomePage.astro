@@ -27,7 +27,40 @@ const posts = (await getCollection('posts', ({ data }) => !data.draft)).sort(
 );
 
 const flagship = ['jeju-seongsan-ilchulbong', 'seoul-gyeongbokgung-palace', 'sokcho-seoraksan-cable-car', 'busan-haeundae'];
-const cover = flagship.map((s) => posts.find((p) => p.id === s)).find(Boolean) ?? posts[0];
+// The homepage cover used to be a hardcoded list of four Korean posts, and the
+// first entry always won — so the badge read "Jeju" forever, on a site that now
+// spans dozens of countries. It is now drawn from posts that EARN the slot, and
+// the pick rotates by ISO week so a returning visitor sees somewhere new without
+// anyone editing a list. The rotation is derived, not random: the same week
+// always yields the same cover, so builds stay reproducible.
+const isoWeek = (d) => {
+  const t = new Date(Date.UTC(d.getUTCFullYear(), d.getUTCMonth(), d.getUTCDate()));
+  t.setUTCDate(t.getUTCDate() + 4 - (t.getUTCDay() || 7));           // Thursday of this week
+  const yearStart = new Date(Date.UTC(t.getUTCFullYear(), 0, 1));
+  return Math.ceil(((t - yearStart) / 86400000 + 1) / 7);
+};
+
+// Eligible = a real place, a photo good enough to fill the cover, and enough
+// reviews that it is genuinely a landmark rather than a quiet local spot.
+const coverPool = posts.filter(
+  (p) =>
+    p.data.category === 'attraction' &&
+    p.data.place?.name &&
+    p.data.heroImage?.url &&
+    !p.data.heroImage.url.includes('placeholder') &&
+    (p.data.place?.userRatingsTotal ?? 0) >= 5000
+);
+
+// One per region, so the rotation moves across the world instead of cycling
+// through four spots in one city; strongest-rated post represents its region.
+const byRegion = new Map();
+for (const p of coverPool.sort((a, b) => (b.data.place?.userRatingsTotal ?? 0) - (a.data.place?.userRatingsTotal ?? 0))) {
+  if (!byRegion.has(p.data.region)) byRegion.set(p.data.region, p);
+}
+const rotation = [...byRegion.values()].sort((a, b) => a.id.localeCompare(b.id)); // stable order
+const cover = rotation.length
+  ? rotation[isoWeek(new Date()) % rotation.length]
+  : posts[0];
 const rest = posts.filter((p) => p.id !== cover?.id);
 const latest = rest.slice(0, 3);
 // Don't showcase weak auto-generated cards on the highest-authority page. Food/

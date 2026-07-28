@@ -239,6 +239,44 @@ h1, h2, h3, h4 {
 .nav-dd-head-link { cursor: pointer; transition: color 0.15s; }
 .nav-dd-head-link:hover { color: var(--accent); }
 
+/* Desktop: continents only, countries fly out to the side. The flat list grew
+   with every country added and was already ~20 rows tall — a menu that runs off
+   the bottom of the viewport is unusable, and it only gets worse as the site
+   expands. Mobile keeps its own drill-down (in the ≤820px block below). */
+@media (min-width: 821px) {
+  .nav-dd-menu { min-width: 190px; }
+  .nav-cont { position: relative; }
+  /* The continent row is the hover target; its country list is the flyout. */
+  .nav-cont > .nav-dd-head-link {
+    display: flex; align-items: center; justify-content: space-between; gap: 0.6rem;
+    padding: 0.5rem 0.7rem; margin: 0; border: none; text-transform: none;
+    font-size: 0.95rem; font-weight: 600; letter-spacing: 0; color: var(--ink);
+    border-radius: var(--r-sm); cursor: pointer;
+  }
+  .nav-cont > .nav-dd-head-link::after { content: "›"; color: var(--muted); font-size: 1.1rem; line-height: 1; }
+  .nav-cont:hover > .nav-dd-head-link,
+  .nav-cont:focus-within > .nav-dd-head-link { background: var(--surface-2); color: var(--accent); }
+  .nav-cont > .nav-dd-head-link:not(:first-child) { border-top: none; padding-top: 0.5rem; }
+
+  .nav-cont-list {
+    opacity: 0; visibility: hidden; pointer-events: none;
+    position: absolute; top: -0.4rem; left: 100%; margin-left: 2px;
+    background: var(--surface); border: 1px solid var(--line);
+    border-radius: var(--r-md); box-shadow: var(--shadow-md);
+    padding: 0.4rem; min-width: 200px; z-index: 61;
+    max-height: 70vh; overflow-y: auto;
+    transition: opacity 0.14s ease, visibility 0s linear 0.28s;
+  }
+  /* Bridge the 2px gap so the cursor never crosses a dead zone on its way out. */
+  .nav-cont-list::before { content: ""; position: absolute; top: 0; bottom: 0; left: -6px; width: 6px; }
+  .nav-cont:hover > .nav-cont-list,
+  .nav-cont:focus-within > .nav-cont-list {
+    opacity: 1; visibility: visible; pointer-events: auto; transition: opacity 0.14s ease, visibility 0s;
+  }
+  /* Flip to the left when the flyout would run off the right edge. */
+  .nav-dd-menu > .nav-cont:last-of-type .nav-cont-list { top: auto; bottom: -0.4rem; }
+}
+
 /* Language switcher */
 .lang-switch { position: relative; }
 .lang-toggle { display: inline-flex; align-items: center; gap: 0.35rem; background: none; border: 0; font: inherit; color: inherit; cursor: pointer; padding: 0.4rem 0.6rem; border-radius: var(--r-sm); }
