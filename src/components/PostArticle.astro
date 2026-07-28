@@ -29,8 +29,26 @@ const { post, translation } = Astro.props;
 // /ko/ page reads Korean end-to-end rather than Korean prose in English chrome.
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
-const { Content } = await render(translation ?? post);
+const renderedEntry = translation ?? post;
+const { Content } = await render(renderedEntry);
 const d = post.data;
+// In-body photo placement: Google's image guidance is to put a photo next to the
+// text it illustrates, so gallery shots go INSIDE the prose (before an <h2> near
+// the middle) rather than after it. We split the already-rendered HTML at a
+// heading boundary — never mid-sentence — and fall back to <Content /> whenever
+// the split isn't clean, so a prose change can't silently break the article.
+const renderedHtml: string = (renderedEntry as any).rendered?.html ?? '';
+function splitProse(html: string): [string, string] | null {
+  if (!html) return null;
+  const heads = [...html.matchAll(/<h2\b/gi)].map((m) => m.index!);
+  if (heads.length < 2) return null; // too few sections to interrupt
+  // Prefer the heading closest to the 45% mark, but never the very first one.
+  const target = html.length * 0.45;
+  const cut = heads.slice(1).reduce((best, i) => (Math.abs(i - target) < Math.abs(best - target) ? i : best), heads[1]);
+  if (cut < html.length * 0.15 || cut > html.length * 0.85) return null;
+  return [html.slice(0, cut), html.slice(cut)];
+}
+const proseParts = d.gallery.length > 0 ? splitProse(renderedHtml) : null;
 const tr = translation?.data;
 const title = tr?.title ?? post.data.title;
 const description = tr?.description ?? post.data.description;
@@ -419,8 +437,50 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
     </details>
 
     <div class="prose">
-      <Content />
+      {proseParts ? (
+        <>
+          <Fragment set:html={proseParts[0]} />
+          <section class="gallery">
+            {d.gallery.map((img) => (
+              <figure>
+                <img
+                  src={img.url}
+                  alt={placeName ? `${placeName} — ${d.region}, ${country}` : title}
+                  width="1200"
+                  height="900"
+                  loading="lazy"
+                  decoding="async"
+                />
+                {img.credit && <figcaption>{img.credit}</figcaption>}
+              </figure>
+            ))}
+          </section>
+          <Fragment set:html={proseParts[1]} />
+        </>
+      ) : (
+        <Content />
+      )}
     </div>
+
+    {/* Gallery fallback: when the prose has too few headings to interrupt cleanly,
+        the photos still render — right after the prose, before the widgets. */}
+    {d.gallery.length > 0 && !proseParts && (
+      <section class="gallery">
+        {d.gallery.map((img) => (
+          <figure>
+            <img
+              src={img.url}
+              alt={placeName ? `${placeName} — ${d.region}, ${country}` : title}
+              width="1200"
+              height="900"
+              loading="lazy"
+              decoding="async"
+            />
+            {img.credit && <figcaption>{img.credit}</figcaption>}
+          </figure>
+        ))}
+      </section>
+    )}
 
     {/* Peak-motivation CTA: the reader just finished the case for visiting, so the
         FIRST thing after the prose names the actual place — the generic city-level
@@ -438,17 +498,6 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
     <Hotels city={d.region} country={d.country ?? 'South Korea'} />
 
     <PlanTrip city={d.region} country={d.country ?? 'South Korea'} />
-
-    {d.gallery.length > 0 && (
-      <section class="gallery">
-        {d.gallery.map((img) => (
-          <figure>
-            <img src={img.url} alt={placeName ? `${placeName} — ${d.region}, ${country}` : title} loading="lazy" />
-            {img.credit && <figcaption>{img.credit}</figcaption>}
-          </figure>
-        ))}
-      </section>
-    )}
 
     {faq.length > 0 && (
       <section class="faq">

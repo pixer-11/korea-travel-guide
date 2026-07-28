@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Slywire / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Ripe_Dates_in_the_Al_Ain_Oasis.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Al-Ain_Oasis_%283%29.jpg/1920px-Al-Ain_Oasis_%283%29.jpg
+    credit: 'Photo: Radosław Botev / Wikimedia Commons (CC BY 3.0 pl)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Al-Ain_Oasis_(3).jpg
 place:
   id: "ChIJqXDGXMy2ij4RHho4hr7zxGY"
   name: "Al Ain Oasis"

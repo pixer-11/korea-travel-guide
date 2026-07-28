@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Ankara_Castle.jpg"
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Castillo_de_Ankara%2C_Ankara%2C_Turqu%C3%ADa%2C_2024-10-03%2C_DD_47.jpg/1920px-Castillo_de_Ankara%2C_Ankara%2C_Turqu%C3%ADa%2C_2024-10-03%2C_DD_47.jpg
+    credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Castillo_de_Ankara,_Ankara,_Turqu%C3%ADa,_2024-10-03,_DD_47.jpg
 place:
   id: "ChIJezGjUW9O0xQRwAGUkwTgFXQ"
   name: "Ankara Castle"

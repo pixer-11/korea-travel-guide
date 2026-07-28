@@ -60,11 +60,18 @@ test('nameGatePass rejects an unrelated venue name', () => {
   assert.equal(nameGatePass(tmp, 'Seoul', 'Bukchon Hanok Village'), false);
 });
 
-// ── gate (b) fix round 2: separator/spacing variants of the SAME place ──
+// ── gate (b) fix round 2/3: separator/spacing variants of the SAME place ──
 // The token check splits on hyphens/spaces, so "Euljiro" vs "Eulji-ro"
 // tokenizes to disjoint sets ({euljiro} vs {eulji, ro}) and used to be
-// rejected as a false negative even though they name the same place. The
-// fold-and-contains path added in fix round 2 catches these.
+// rejected as a false negative even though they name the same place.
+// Round 2 added a fold-and-CONTAINS path for this, but a bare `includes`
+// turned out to admit wrong venues too ("The Alley" ⊂ "The Alleyway Café",
+// "Villa" ⊂ "Villaggio Italian Restaurant", "Euljiro" ⊂ "Eulji-ro 5-ga" — a
+// different, more specific numbered sub-block). Round 3 replaced it with:
+// exact-match-after-folding (no length floor — not a coincidence risk) OR
+// the shorter (≥8 chars) side matching one of the longer side's leading
+// TOKEN-RUN folds (anchored at a token boundary, never mid-word), with a
+// trailing numeric/sub-unit leftover token rejected.
 
 test('nameGatePass ACCEPTS "Euljiro" vs result "Eulji-ro" (separator variant, same place)', () => {
   const tmp = titleMainPart('Euljiro in Seoul', 'Seoul');

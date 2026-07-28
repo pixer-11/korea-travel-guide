@@ -13,7 +13,11 @@ heroImage:
   credit: 'Photo: Bahnfrend / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Ajman_Museum,_2007_(03).jpg'
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ajman_ruler_car_at_ajman_museum_by_ahmed_fouad.jpg/1920px-Ajman_ruler_car_at_ajman_museum_by_ahmed_fouad.jpg
+    credit: 'Photo: Ahmed1251985 / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Ajman_ruler_car_at_ajman_museum_by_ahmed_fouad.jpg
 place:
   id: ChIJPTShyXhXXz4Rc92E76EWKlY
   name: Ajman Museum

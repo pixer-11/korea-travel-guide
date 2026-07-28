@@ -14,7 +14,11 @@ heroImage:
   credit: 'Photo: Radosław Botev / Wikimedia Commons (CC BY 3.0 pl)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Qasr_al-Hosn_(1).jpg'
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Qasr_al-Hosn_%282%29.jpg/1920px-Qasr_al-Hosn_%282%29.jpg
+    credit: 'Photo: Radosław Botev / Wikimedia Commons (CC BY 3.0 pl)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Qasr_al-Hosn_(2).jpg
 place:
   id: ChIJUzieB3FmXj4RL1oI-R36QmE
   name: Qasr Al Hosn

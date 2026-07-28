@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Wat Arun Rajwararam (วัดอรุณราชวรารามฯ))'
   license: foursquare
   source: https://foursquare.com/v/4c1326d5a5eb76b06c92bfb7
-gallery: []
+gallery:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Templo_Wat_Arun%2C_Bangkok%2C_Tailandia%2C_2013-08-22%2C_DD_30.jpg/1920px-Templo_Wat_Arun%2C_Bangkok%2C_Tailandia%2C_2013-08-22%2C_DD_30.jpg
+    credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Templo_Wat_Arun,_Bangkok,_Tailandia,_2013-08-22,_DD_30.jpg
 place:
   id: ChIJaSv_6gaZ4jARnbiUVn6Z_YY
   name: Wat Arun Ratchawararam Ratchawaramahawihan
