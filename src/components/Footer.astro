@@ -18,12 +18,10 @@ const year = new Date().getFullYear();
       <a href={localizePath('/destinations', lang)}>{t('nav.destinations')}</a>
       <a href={localizePath('/regions', lang)}>{t('reg.allRegions')}</a>
       <a href={localizePath('/itinerary', lang)}>{t('nav.itineraries')}</a>
-      <a href={localizePath('/tools/best-time', lang)}>{t('nav.tools')}</a>
-      {/* The crowd tool is the second most-visited page on the site and had no
-          in-body link anywhere — only the header dropdown. Itineraries and events
-          were missing from here too. */}
-      <a href={localizePath('/tools/best-time', lang)}>{t('nav.tools')}</a>
-      <a href={localizePath('/itinerary', lang)}>{t('nav.itineraries')}</a>
+      {/* Two different tools that were briefly sharing one name: "when to go"
+          answers which MONTH, the crowd finder answers which HOUR. */}
+      <a href={localizePath('/tools/when-to-go', lang)}>{t('nav.tools')}</a>
+      <a href={localizePath('/tools/best-time', lang)}>{t('nav.quietTimes')}</a>
       <a href={localizePath('/events', lang)}>{t('nav.events')}</a>
       <a href={localizePath('/flights', lang)}>{t('nav.flights')}</a>
       <a href={localizePath('/free/trip-checklist', lang)}>{t('footer.checklist')}</a>

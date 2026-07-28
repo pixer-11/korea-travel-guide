@@ -69,7 +69,11 @@ const navGroups = CONT_ORDER
               destination list rather than competing for a top-level slot — that
               slot now goes to itineraries, the thing this site has that plain
               guide blogs don't. Keeps the bar at 5 items (mobile-safe). */}
-          <a href={localizePath('/tools/best-time', lang)} class="nav-dd-all"><Emoji name="cherry-blossom" /> {t('nav.tools')} →</a>
+          <a href={localizePath('/tools/when-to-go', lang)} class="nav-dd-all"><Emoji name="cherry-blossom" /> {t('nav.tools')} →</a>
+          {/* Two tools, two questions: which month to come, and which hour to
+              turn up. They shared the "when to go" label until the month one
+              existed, and the crowd finder was the one wearing it. */}
+          <a href={localizePath('/tools/best-time', lang)} class="nav-dd-all"><Emoji name="three-oclock" /> {t('nav.quietTimes')} →</a>
         </div>
       </div>
       {/* Icons ride along on every top item but only paint on mobile (see the
