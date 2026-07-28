@@ -416,3 +416,118 @@ test('R4: ferry destination forces transit even at short distance', () => {
   assert.equal(leg.minutes, null, 'ferry leg should have null minutes');
   assert.ok(leg.km >= 0.1, 'km should still be calculated');
 });
+
+// --- Backfill: a skipped lunch must never leave a short day -------------------
+// Regression: planDay used to reserve a stop for lunch whenever the cluster held any
+// restaurant. When the lunch was then skipped (detour too long, or a slot lock), the
+// reserved capacity was simply lost and the day came out with 2 stops — and the guard
+// added for that turned the whole city into ok:false. The freed slot must go back to
+// sights instead.
+
+test('backfill: only restaurant is far away → 3-stop day built from sights, no lunch', () => {
+  // Three sights in a line plus one restaurant 5km off the route: the lunch detour is
+  // way over 2.5km, so lunch is skipped and the freed capacity returns to the sights.
+  const posts = [
+    P('sight-a', 37.500, 127.100),
+    P('sight-b', 37.502, 127.100),
+    P('sight-c', 37.504, 127.100),
+    P('far-restaurant', 37.500, 127.145, 'restaurant'),
+  ];
+  const it = buildItinerary(posts, { days: 1 });
+  assert.equal(it.ok, true, `far restaurant must not fail the city: ${it.reason}`);
+  const day = it.days[0];
+  assert.equal(day.stops.length, 3, `expected a 3-stop day, got ${day.stops.length}: ${day.stops.map((s) => s.slug).join(',')}`);
+  assert.equal(day.stops.find((s) => s.slot === 'lunch'), undefined, 'a 5km-detour restaurant must not be scheduled for lunch');
+  assert.ok(!day.stops.some((s) => s.slug === 'far-restaurant'), 'the far restaurant must not appear at all');
+  assert.deepEqual(day.stops.map((s) => s.slot), ['morning', 'afternoon', 'evening']);
+
+  // Control: move the same restaurant onto the route and it IS scheduled — proving the
+  // 3-stop day above comes from the detour rule, not from lunch being broken outright.
+  const near = buildItinerary([...posts.slice(0, 3), P('near-restaurant', 37.502, 127.1005, 'restaurant')], { days: 1 });
+  assert.equal(near.ok, true);
+  assert.equal(near.days[0].stops.find((s) => s.slot === 'lunch')?.slug, 'near-restaurant');
+});
+
+test('backfill: a thin cluster is topped up from other days, never returned as ok:false', () => {
+  // Cluster B holds only 2 sights + a restaurant too far to lunch at — exactly the shape
+  // that produced "day 2 has only 2 stops" on real Seoul and Bangkok data. The solver
+  // must pull the nearest spare sight in rather than fail, and must not starve the day
+  // it borrowed from.
+  const posts = [];
+  for (let i = 0; i < 6; i++) posts.push(P(`a-sight${i}`, 37.60 + i * 0.002, 126.95));
+  posts.push(P('b-sight0', 37.500, 127.100));
+  posts.push(P('b-sight1', 37.502, 127.100));
+  posts.push(P('b-far-restaurant', 37.500, 127.145, 'restaurant'));
+  for (let i = 0; i < 3; i++) posts.push(P(`c-sight${i}`, 37.40 + i * 0.002, 126.80));
+
+  const it = buildItinerary(posts, { days: 3 });
+  assert.equal(it.ok, true, `thin cluster must be backfilled, not rejected: ${it.reason}`);
+  assert.equal(it.days.length, 3);
+  for (const [i, d] of it.days.entries()) {
+    assert.ok(d.stops.length >= 3 && d.stops.length <= 5, `day ${i + 1} has ${d.stops.length} stops`);
+  }
+  const bDay = it.days.find((d) => d.stops.some((s) => s.slug === 'b-sight0'));
+  assert.ok(bDay, 'b-sight0 must be scheduled somewhere');
+  assert.equal(bDay.stops.length, 3, 'the thin day must be topped up to 3 stops');
+  assert.ok(!bDay.stops.some((s) => s.slug === 'b-far-restaurant'), 'the far restaurant must not be used to pad the day');
+  assert.equal(bDay.stops.find((s) => s.slot === 'lunch'), undefined);
+  // Every stop is still unique across the whole trip.
+  const all = it.days.flatMap((d) => d.stops.map((s) => s.slug));
+  assert.equal(new Set(all).size, all.length);
+});
+
+test('backfill: ok:false only when nothing can be added within the day budget', () => {
+  // Twelve sights that each eat 5 hours. Any third stop blows the 600-minute cap, so no
+  // amount of moving posts around can build a legal day — this is the one case where
+  // refusing to emit an itinerary is the honest answer.
+  const posts = [];
+  for (let i = 0; i < 12; i++) {
+    posts.push({ ...P(`marathon${i}`, 37.50 + i * 0.01, 127.0), body: 'Plan on 5 hours here.' });
+  }
+  const it = buildItinerary(posts, { days: 3 });
+  assert.equal(it.ok, false, 'a day that cannot legally hold 3 stops must not be emitted');
+  assert.match(it.reason, /budget/i, `reason should name the budget, got: ${it.reason}`);
+  assert.equal(it.days.length, 0);
+});
+
+test('backfill: identical input produces identical output (determinism)', () => {
+  const build = () => {
+    const posts = [];
+    for (let i = 0; i < 6; i++) posts.push(P(`a-sight${i}`, 37.60 + i * 0.002, 126.95));
+    posts.push(P('b-sight0', 37.500, 127.100));
+    posts.push(P('b-sight1', 37.502, 127.100));
+    posts.push(P('b-far-restaurant', 37.500, 127.145, 'restaurant'));
+    for (let i = 0; i < 3; i++) posts.push(P(`c-sight${i}`, 37.40 + i * 0.002, 126.80));
+    return JSON.stringify(buildItinerary(posts, { days: 3 }));
+  };
+  assert.equal(build(), build());
+});
+
+// --- preferredSlot is a lock, not a crowd-avoidance tip -----------------------
+
+test('preferredSlot: crowd-timing prose is not a slot lock', () => {
+  // Real guide sentences. Reading these as locks made almost every venue evening-only
+  // and left no feasible plan at all — Seoul and Bangkok returned no itinerary.
+  const sight = (body) => ({ id: 'x', data: { title: 'Some Palace', category: 'attraction', tags: [] }, body });
+  assert.equal(preferredSlot(sight('Weekday mornings before 10am or evenings after dinner are calmest.')), null);
+  assert.equal(preferredSlot(sight('Go early morning (before 9am) or in the evening to avoid the crowds.')), null);
+  assert.equal(preferredSlot(sight('Joggers use the lower path at dawn and after 9pm, so keep to the side.')), null);
+  assert.equal(preferredSlot(sight('Arrive early morning to beat the tour buses that build through late morning.')), null);
+  // A nearby sushi-breakfast recommendation says nothing about THIS venue's hours.
+  assert.equal(preferredSlot(sight('Toyosu Market and its sushi breakfast spots are a short ride away.')), null);
+});
+
+test('preferredSlot: reads the whole post, frontmatter FAQ included', () => {
+  // bangkok-somsak keeps "bar-club energy, especially after 9pm" in an FAQ answer, not
+  // in the body. A body-only read left it sitting in an afternoon slot.
+  const somsak = {
+    id: 'bangkok-somsak',
+    data: {
+      title: 'Somsak in Bangkok', category: 'trendy', tags: [],
+      place: { lat: 13.7202, lng: 100.585, businessStatus: 'OPERATIONAL' },
+      faq: [{ q: 'What is the vibe?', a: "Rather than quiet dining — expect a bar-club energy, especially after 9pm." }],
+    },
+    body: 'A buzzy, recently opened spot in Thonglor.',
+  };
+  assert.equal(preferredSlot(somsak), 'evening');
+});
