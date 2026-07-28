@@ -59,10 +59,14 @@ function resolveStop(slug: string) {
 // Same-language post titles/links as PostArticle's postHref/postTitle: a stop
 // links to its localized post page only when that translation actually exists,
 // otherwise falls back to the English post URL rather than a 404.
-const sameLangPostTitles =
+// Keep the whole translation entry, not just its title: the transit tip is
+// lifted from the post BODY, so an English body here printed English prose on
+// every localized itinerary page.
+const sameLangPosts =
   lang === 'en'
-    ? new Map<string, string>()
-    : new Map((await getCollection('postI18n', ({ data }) => data.lang === lang)).map((e) => [e.data.slug, e.data.title]));
+    ? new Map<string, any>()
+    : new Map((await getCollection('postI18n', ({ data }) => data.lang === lang)).map((e) => [e.data.slug, e]));
+const sameLangPostTitles = new Map([...sameLangPosts].map(([k, e]) => [k, e.data.title]));
 const postHref = (id: string) => (sameLangPostTitles.has(id) ? localizePath(`/posts/${id}`, lang) : `/posts/${id}`);
 const postTitleFor = (post: any) => sameLangPostTitles.get(post.id) ?? post.data.title;
 
@@ -104,9 +108,14 @@ function quietWindowFor(post: any, slot: string): string | null {
 
 // First line of the post's own (already vetted) body that names a concrete
 // transit detail — never invented, always lifted verbatim from the post.
-const TRANSIT_RE = /(Line\s*\d|Station|Exit\s*\d|BTS|MRT)/;
+// Latin patterns plus the localized equivalents, so a Korean/Japanese/Chinese
+// body yields a tip instead of silently falling through to the English source.
+const TRANSIT_RE = /(Line\s*\d|Station|Exit\s*\d|BTS|MRT|호선|출구|[역駅站]|번 출구|地下鉄|地铁|捷運|Estación|Línea\s*\d)/;
 function transitTip(post: any): string | null {
-  const body = String(post.body || '');
+  // Prefer the reader's own language; fall back to the English source only when
+  // no translation exists for this post.
+  const localized = sameLangPosts.get(post.id);
+  const body = String(localized?.body || post.body || '');
   const lines = body.split(/\r?\n/).map((l) => l.replace(/^#+\s*/, '').replace(/[*_`]/g, '').trim()).filter(Boolean);
   return lines.find((l) => TRANSIT_RE.test(l)) ?? null;
 }
@@ -135,10 +144,11 @@ function interestCatsFor(post: any): string[] {
 }
 
 function formatDwell(min: number): string {
-  if (min < 60) return `~${min} min`;
+  // "min"/"h" are words, not symbols — they have to follow the page language.
+  if (min < 60) return `~${min}${t('itin.unitMin')}`;
   const hours = Math.round((min / 60) * 2) / 2;
   const hStr = Number.isInteger(hours) ? String(hours) : hours.toFixed(1);
-  return `~${hStr} h`;
+  return `~${hStr}${t('itin.unitHour')}`;
 }
 
 function legText(leg: { km: number; minutes: number; transit: boolean } | null): string | null {
@@ -349,7 +359,7 @@ const availableLangs: Lang[] = ['en', 'ko', 'ja', 'es', 'zh'];
             // title ("Gwangjang Market: Seoul Travel Guide") — an itinerary card
             // is a list of places, not a list of articles. Falls back to the
             // (localized, when available) post title for posts without a place.
-            const stopLabel = post.data.place?.name || postTitleFor(post);
+            const stopLabel = (lang === 'en' ? null : postTitleFor(post).split(/[:—]/)[0].trim()) || post.data.place?.name || postTitleFor(post);
             const stopRegionLabel = localizePlace(post.data.region, lang);
             const leg = stop.walkToNext;
             return (

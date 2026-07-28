@@ -14,6 +14,8 @@ export type Lang = 'en' | 'ko' | 'ja' | 'es' | 'zh';
 export const ui = {
   en: {
     'nav.destinations': 'Destinations',
+    'itin.unitMin': ' min',
+    'itin.unitHour': ' h',
     'nav.itineraries': 'Itineraries',
     'nav.flights': 'Flights',
     'nav.tools': 'When to go',
@@ -327,6 +329,8 @@ export const ui = {
 
   ko: {
     'nav.destinations': '여행지',
+    'itin.unitMin': '분',
+    'itin.unitHour': '시간',
     'nav.itineraries': '일정 추천',
     'nav.flights': '항공권',
     'nav.tools': '언제 갈까',
@@ -640,6 +644,8 @@ export const ui = {
 
   ja: {
     'nav.destinations': '旅行先',
+    'itin.unitMin': '分',
+    'itin.unitHour': '時間',
     'nav.itineraries': 'モデルコース',
     'nav.flights': '航空券',
     'nav.tools': 'いつ行く',
@@ -953,6 +959,8 @@ export const ui = {
 
   es: {
     'nav.destinations': 'Destinos',
+    'itin.unitMin': ' min',
+    'itin.unitHour': ' h',
     'nav.itineraries': 'Itinerarios',
     'nav.flights': 'Vuelos',
     'nav.tools': 'Cuándo ir',
@@ -1266,6 +1274,8 @@ export const ui = {
 
   zh: {
     'nav.destinations': '目的地',
+    'itin.unitMin': '分钟',
+    'itin.unitHour': '小时',
     'nav.itineraries': '行程推荐',
     'nav.flights': '机票',
     'nav.tools': '何时去',
