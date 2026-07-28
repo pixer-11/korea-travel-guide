@@ -1,24 +1,27 @@
 name: Backfill countries to target
 
-# One-time-ish bulk fill: every day it publishes as many guides as the Google
-# Places daily quota allows (stops cleanly on 429), spread across all active
-# countries, until each reaches TARGET_PER_COUNTRY guides. Once every country is
-# full the queue is empty and this run publishes nothing — so it's safe to leave
-# scheduled forever. New countries added later get filled the same way.
+# Bulk fill: publishes guides toward TARGET_PER_COUNTRY for every country that is
+# still short, until each reaches the target. Once every country is full the
+# queue is empty and a run publishes nothing, so it is safe to leave enabled.
 #
-# Runs shortly after the Places quota resets (~08:00 UTC = Pacific midnight) so
-# it gets a fresh daily allowance. The normal 8/day publish.yml runs at 22:00 UTC.
+# It does NOT run every day. The gate below checks whose turn it is
+# (scripts/fill-phase.mjs): the daily Places budget fits one bulk job behind the
+# daily publish, and this one only starts once the phone/hours backfill has
+# reported three consecutive days with nothing left to fill.
+#
+# It also does not contain a pipeline of its own. It CALLS publish.yml. It used
+# to be a parallel copy that generated and committed posts and stopped there —
+# no content validation, no itinerary rebuild, no translation audit, and none of
+# the follow-up translations (place names, country blurbs, region intros). Every
+# guard added to publish.yml simply did not exist on this path, so this job was
+# about to publish 25 posts a day for weeks through the unguarded one. Two copies
+# of the same pipeline means the next fix lands in one of them; calling the real
+# one is the only arrangement that stays true on its own.
 on:
   # Chained to publish, not scheduled — same reason as backfill-details.yml:
   # publish must get the fresh Places window first, and GitHub has delayed the
   # publish cron by over three hours, which would let a fixed-time cron here run
   # first and eat the quota. The old '43 8 * * *' cron is gone for good.
-  #
-  # This does NOT mean it runs every day: the first step checks whose turn it is
-  # (scripts/fill-phase.mjs) and exits immediately unless the phone/hours backlog
-  # has finished. The July 2026 pause was a commented-out cron that nothing would
-  # ever have uncommented — the handover is now a condition the jobs evaluate
-  # themselves.
   workflow_run:
     workflows: ['Auto-generate & publish posts']
     types: [completed]
@@ -27,7 +30,7 @@ on:
       count:
         description: 'Max posts this run (stops early on Places quota)'
         required: false
-        default: '75' # keep in sync with the scheduled cap so a manual run doesn't starve publish
+        default: '75'
       target:
         description: 'Guides per country to fill toward'
         required: false
@@ -40,15 +43,14 @@ permissions:
 concurrency: places-bulk
 
 jobs:
-  # Separate job so the whole batch is gated by one condition instead of every
-  # step carrying its own `if:` — a step-level guard that gets forgotten on one
-  # step is how an empty run ends up committing nothing and announcing it anyway.
-  # No npm ci here: fill-phase.mjs uses only Node built-ins, so the gate is a few
-  # seconds even when the answer is "not today".
+  # Separate job so the whole batch is gated by one condition. No npm ci here:
+  # fill-phase.mjs uses only Node built-ins, so the gate costs seconds on the
+  # days the answer is "not your turn".
   gate:
     runs-on: ubuntu-latest
     outputs:
       run: ${{ steps.phase.outputs.run }}
+      count: ${{ steps.phase.outputs.count }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -58,10 +60,18 @@ jobs:
         id: phase
         run: |
           PHASE=$(node scripts/fill-phase.mjs get)
-          # A manual dispatch always runs — that is a person deciding, not the schedule.
+          # 75 was sized for a day when this ran ALONE on a fresh quota. Chained
+          # behind publish it shares the window with 16 published posts, and
+          # measured headroom after publish was ~57 Details calls — each post
+          # costs a Text Search plus a Details. So the chained batch is 25; a
+          # manual dispatch keeps 75 for a deliberate catch-up on a quiet day.
           if [ "${{ github.event_name }}" != "workflow_run" ]; then
-            echo "run=1" >> "$GITHUB_OUTPUT"
-          elif [ "${{ github.event.workflow_run.conclusion }}" != "success" ]; then
+            echo "count=${{ github.event.inputs.count || '75' }}" >> "$GITHUB_OUTPUT"
+            echo "run=1" >> "$GITHUB_OUTPUT"          # a person asked for this run
+            exit 0
+          fi
+          echo "count=25" >> "$GITHUB_OUTPUT"
+          if [ "${{ github.event.workflow_run.conclusion }}" != "success" ]; then
             # A failed publish can leave the repo mid-change; a 25-post batch on
             # top of that buries the original failure.
             echo "run=0" >> "$GITHUB_OUTPUT"
@@ -73,87 +83,15 @@ jobs:
             echo "run=1" >> "$GITHUB_OUTPUT"
           fi
 
-  backfill:
+  # The real pipeline: generate → translate (posts, place names, country blurbs,
+  # region intros) → rebuild itineraries → re-sync leg distances → commit →
+  # validate content, itineraries and translation language → Korean warnings.
+  fill:
     needs: gate
     if: needs.gate.outputs.run == '1'
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 24
-          cache: npm
-
-      - run: npm ci
-
-      - name: Generate posts (capped per country)
-        env:
-          GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
-          # Cap below the Places 100/day quota so the NEXT daily auto-publish (16
-          # posts, same quota cycle) still has budget: 75 backfill + 16 publish =
-          # 91 posts. NOTE this counts TEXT SEARCH; each published post ALSO fires
-          # 1 Details (like-a-local) + up to ~4 Photo calls, and venue-photos.yml
-          # (capped 25) shares the same Places day. If the run logs "Details 429"
-          # or publish yields ~0, lower this further. Was 90 → starved publish to ~2.
-          # 75 was sized for a day when this ran ALONE on a fresh quota. Chained
-          # behind publish it shares the window with 16 published posts, so the
-          # chained default is 25 — measured headroom after publish was ~57
-          # Details calls, and each generated post costs a Text Search plus a
-          # Details. A manual dispatch keeps the old 75 for a deliberate catch-up
-          # run on a quiet quota day.
-          POSTS_PER_RUN: ${{ github.event.inputs.count || (github.event_name == 'workflow_run' && '25' || '75') }}
-          TARGET_PER_COUNTRY: ${{ github.event.inputs.target || '58' }}
-          MIN_RATING: '4.0'
-          MIN_REVIEWS: '50'
-        run: npm run generate
-
-      # Translate the batch into ko/ja/es/zh before committing so every backfilled
-      # post ships with its translations. Resumable + continue-on-error (see
-      # publish.yml). A big backfill = many translations; concurrency 8 keeps it
-      # within the job timeout, and anything skipped this run is caught next run.
-      - name: Translate new posts (ko/ja/es/zh)
-        continue-on-error: true
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          TRANSLATE_CONCURRENCY: '8'
-        run: node scripts/translate-posts.mjs
-
-      - name: Build hero photo-wall thumbnails
-        run: node scripts/build-wall.mjs
-
-      - name: Commit new posts
-        id: commit
-        run: |
-          git config user.name "content-bot"
-          git config user.email "bot@users.noreply.github.com"
-          git add src/content/posts src/content/i18n data/published.json public/wall data/wall.json
-          newfiles=$(git diff --cached --name-only --diff-filter=A -- src/content/posts | grep '\.md$' || true)
-          new=$(printf '%s\n' "$newfiles" | grep -c . || true)
-          total=$(ls src/content/posts/*.md | wc -l | tr -d ' ')
-          echo "new=$new" >> "$GITHUB_OUTPUT"
-          echo "total=$total" >> "$GITHUB_OUTPUT"
-          # Title + URL list of this run's new posts (shared formatter, capped for
-          # Telegram), passed to notify-telegram.sh via NEW_LIST.
-          list=$(printf '%s\n' "$newfiles" | node scripts/format-post-list.mjs || true)
-          { echo "new_list<<TGEOF"; echo "$list"; echo "TGEOF"; } >> "$GITHUB_OUTPUT"
-          if git diff --staged --quiet; then
-            echo "No new posts this run — countries already at target."
-          else
-            git commit -m "content: backfill posts ($(date -u +%Y-%m-%d))"
-            git pull --rebase origin main
-            git push
-          fi
-
-      - name: Notify Telegram
-        if: always()
-        env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          JOB_STATUS: ${{ job.status }}
-          NEW: ${{ steps.commit.outputs.new }}
-          TOTAL: ${{ steps.commit.outputs.total }}
-          NEW_LIST: ${{ steps.commit.outputs.new_list }}
-        run: bash scripts/notify-telegram.sh "Backfill"
+    uses: ./.github/workflows/publish.yml
+    with:
+      count: ${{ needs.gate.outputs.count }}
+      target: '58'
+      label: Backfill
+    secrets: inherit

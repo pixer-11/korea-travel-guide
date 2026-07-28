@@ -19,6 +19,35 @@ on:
         description: 'Optional: fill ONE country only, e.g. Japan (blank = all active)'
         required: false
         default: ''
+      target:
+        description: 'Optional: stop each country at this many guides (blank = no cap)'
+        required: false
+        default: ''
+  # backfill.yml calls THIS workflow instead of keeping its own copy of the
+  # pipeline. It used to be a parallel copy that generated and committed posts
+  # without any of the steps below it — no content validation, no itinerary
+  # rebuild, no translation audit, none of the follow-up translations. So the
+  # bulk job was about to publish 25 posts a day, for weeks, through a path where
+  # every guard added here simply did not exist. One pipeline, called twice, is
+  # the only version of this that stays true after the next fix lands in one
+  # place and not the other.
+  workflow_call:
+    inputs:
+      count:
+        description: 'Posts to generate this run'
+        required: false
+        type: string
+      country:
+        required: false
+        type: string
+      target:
+        description: 'Per-country guide cap (TARGET_PER_COUNTRY)'
+        required: false
+        type: string
+      label:
+        description: 'Telegram label: "Daily publish" or "Backfill"'
+        required: false
+        type: string
 
 permissions:
   contents: write
@@ -41,8 +70,13 @@ jobs:
           GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
-          POSTS_PER_RUN: ${{ github.event.inputs.count || '16' }}
-          COUNTRY: ${{ github.event.inputs.country }}
+          # `inputs` covers both workflow_dispatch and workflow_call; it is empty
+          # on the schedule, which is what the fallback is for.
+          POSTS_PER_RUN: ${{ inputs.count || '16' }}
+          COUNTRY: ${{ inputs.country }}
+          # Blank on the daily run (no cap); the bulk caller passes 58 so each
+          # country stops at the target instead of the biggest one running away.
+          TARGET_PER_COUNTRY: ${{ inputs.target }}
           MIN_RATING: '4.0'
           MIN_REVIEWS: '50'
         run: npm run generate
@@ -277,4 +311,4 @@ jobs:
           NEW: ${{ steps.commit.outputs.new }}
           TOTAL: ${{ steps.commit.outputs.total }}
           NEW_LIST: ${{ steps.commit.outputs.list }}
-        run: bash scripts/notify-telegram.sh "Daily publish"
+        run: bash scripts/notify-telegram.sh "${{ inputs.label || 'Daily publish' }}"
