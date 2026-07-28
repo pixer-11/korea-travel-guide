@@ -23,9 +23,16 @@ on:
         description: 'Max posts to process this run (1 Details call each; 429-safe)'
         required: false
         default: '80'
+      slugs:
+        description: 'Comma-separated post ids (filename minus .md) to target — leave blank for all, alphabetical'
+        required: false
+        default: ''
   # No gh CLI on the dev box: committing data/backfill-trigger runs this on demand.
   # Needed because itinerary pages surface closed-day warnings from openingHours,
   # so a stop without hours silently loses the feature's headline differentiator.
+  # The trigger file's FIRST line, when non-empty and not a '#' comment, is the
+  # comma-separated slug list passed to --slugs= — same precision-targeting idea
+  # as data/geocode-trigger's region line in geocode-placeless.yml.
   push:
     branches: [main]
     paths: ['data/backfill-trigger']
@@ -51,14 +58,43 @@ jobs:
       - name: Backfill phone/openingHours (quota-capped)
         env:
           GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
-        run: node scripts/backfill-place-details.mjs --apply --limit "${{ github.event.inputs.limit || '80' }}" | tee /tmp/bf.log
+        run: |
+          SLUGS="${{ github.event.inputs.slugs }}"
+          # push-trigger path: the slug list comes from the trigger file's first
+          # line, unless it's empty or a '#' comment (same convention as
+          # data/geocode-trigger in geocode-placeless.yml).
+          if [ -z "$SLUGS" ] && [ "${{ github.event_name }}" = "push" ] && [ -f data/backfill-trigger ]; then
+            FIRST_LINE=$(head -1 data/backfill-trigger | tr -d '\r')
+            case "$FIRST_LINE" in
+              ''|'#'*) : ;;
+              *) SLUGS="$FIRST_LINE" ;;
+            esac
+          fi
+          args=(--apply --limit "${{ github.event.inputs.limit || '80' }}")
+          if [ -n "$SLUGS" ]; then args+=("--slugs=$SLUGS"); fi
+          # pipefail: without it the pipeline's exit status is tee's, so a
+          # crashed node (e.g. a missing import) reports SUCCESS with an empty
+          # log. 2>&1 puts the crash reason in the committed log, since Actions
+          # logs need auth to read (this exact failure mode already happened
+          # once on the sibling geocode-placeless.yml workflow).
+          set -o pipefail
+          node scripts/backfill-place-details.mjs "${args[@]}" 2>&1 | tee /tmp/bf.log
+
+      # The dev box has no gh CLI and Actions logs need auth, so the run's
+      # BACKFILL RESULT line (and any per-post detail) is committed as an
+      # artifact file for review — same pattern as data/logs/geocode-last-run.txt.
+      # MUST be .txt, not .log: .gitignore ignores *.log.
+      - name: Save backfill log to repo
+        run: |
+          mkdir -p data/logs
+          cp /tmp/bf.log data/logs/backfill-last-run.txt
 
       - name: Commit updated posts
         id: commit
         run: |
           git config user.name "content-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add src/content/posts
+          git add src/content/posts data/logs/backfill-last-run.txt
           summary=$(tail -1 /tmp/bf.log)
           echo "summary=$summary" >> "$GITHUB_OUTPUT"
           if git diff --staged --quiet; then
