@@ -1,0 +1,89 @@
+name: Geocode placeless posts
+
+# Backfills a Places-verified `place:` block (id/name/address/rating/lat/lng)
+# onto posts that were generated "placeless" (neighborhood/venue guides with
+# no place.id — see scripts/geocode-placeless.mjs for the confidence gate
+# that keeps a same-named venue in the WRONG city, e.g. Tokyo's "Oxomoco" vs
+# Brooklyn's, from ever getting attached). Manual only: this rewrites
+# frontmatter on existing published posts, so it should be reviewed per run
+# rather than left on a cron.
+#
+# Ref-agnostic on purpose: this workflow is dispatched from both `main` and
+# `feature/itinerary-pages` while the itinerary-pages feature is in flight,
+# so every git command below operates on the checked-out ref
+# (${{ github.ref_name }}) instead of a hardcoded branch name.
+on:
+  workflow_dispatch:
+    inputs:
+      region:
+        description: 'Only geocode this region (e.g. Seoul) — leave blank for all regions'
+        required: false
+        default: ''
+      limit:
+        description: 'Max posts to process this run (1 Places search call each)'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+jobs:
+  geocode:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      - name: Geocode placeless posts (Places verified, confidence-gated)
+        id: geocode
+        env:
+          GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
+        run: |
+          args=()
+          if [ -n "${{ github.event.inputs.region }}" ]; then args+=("--region=${{ github.event.inputs.region }}"); fi
+          if [ -n "${{ github.event.inputs.limit }}" ]; then args+=("--limit=${{ github.event.inputs.limit }}"); fi
+          node scripts/geocode-placeless.mjs "${args[@]}" | tee /tmp/geocode.log
+
+      - name: Commit updated posts
+        id: commit
+        run: |
+          git config user.name "content-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add src/content/posts
+          summary=$(tail -1 /tmp/geocode.log)
+          echo "summary=$summary" >> "$GITHUB_OUTPUT"
+          if git diff --staged --quiet; then
+            echo "changed=0" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=1" >> "$GITHUB_OUTPUT"
+            git commit -m "data: geocode placeless posts (Places verified)"
+            git pull --rebase origin "${{ github.ref_name }}"
+            git push origin "HEAD:${{ github.ref_name }}"
+          fi
+
+      - name: Notify Telegram (Korean)
+        if: always()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SUMMARY: ${{ steps.commit.outputs.summary }}
+          CHANGED: ${{ steps.commit.outputs.changed }}
+          JOB_STATUS: ${{ job.status }}
+        run: |
+          if [ "$JOB_STATUS" = "success" ]; then
+            if [ "$CHANGED" = "1" ]; then head="📍 장소 없는 글 좌표 채우기 완료"; else head="📍 장소 없는 글 좌표 채우기 — 이번엔 새로 붙일 것 없음"; fi
+          else
+            head="⚠️ 장소 좌표 채우기 실패 — 로그 확인 필요"
+          fi
+          # printf builds the line break — a literal newline inside this block
+          # scalar would have to start at column 0, which ENDS the scalar and
+          # makes the whole workflow file invalid YAML.
+          curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            -d chat_id="${TELEGRAM_CHAT_ID}" \
+            --data-urlencode text="$(printf '%s\n결과: %s' "$head" "${SUMMARY:-—}")" > /dev/null
