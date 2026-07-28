@@ -19,6 +19,14 @@
 //  either a soft downgrade (rain-swap dropped to null) or a hard failure for
 //  that city (existing file left untouched either way).
 //
+//  Before that rename, the temp file also runs through the FULL accuracy gate
+//  (scripts/validate-itineraries.mjs — stop resolution, dup/budget/lunch/walk
+//  rules, i18n-independent prose sanity+leak scan, packedAvailable recount).
+//  Any issue there deletes the temp file, logs "VALIDATE-FAILED <id>", sets a
+//  failing exit code, and leaves the existing target (if any) untouched — the
+//  same guarantee sanityCheckTemp gives for a missing post, just the full rule
+//  set instead of one check.
+//
 //  Usage:
 //    node scripts/build-itineraries.mjs                          # sweep everything
 //    node scripts/build-itineraries.mjs --city=Seoul              # one city, all variants
@@ -37,6 +45,7 @@ import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
 import { slugify } from './lib/slugify.mjs';
 import { buildItinerary, qualifyingPosts, gateFor, closedDaysOf } from '../src/lib/itinerary.mjs';
+import { validateItineraryFile } from './validate-itineraries.mjs';
 
 const POSTS_DIR = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 const OUT_DIR = fileURLToPath(new URL('../src/content/itineraries/', import.meta.url));
@@ -463,6 +472,24 @@ async function sanityCheckTemp(tmpPath, label) {
   return true;
 }
 
+// Runs the full accuracy gate (validateItineraryFile, the SAME implementation
+// the standalone CLI uses) against a just-written temp file. Clean → renamed
+// atomically over the target. Any issue → temp file deleted, target left
+// exactly as it was (untouched if it existed, never created if it didn't).
+// Exported so tests can exercise this guarantee without going through the
+// Claude-calling generation pipeline.
+export async function commitOrRejectTemp(tmpPath, filePath, { posts, label }) {
+  const issues = await validateItineraryFile(tmpPath, { posts, label });
+  if (issues.length) {
+    await rm(tmpPath, { force: true });
+    console.error(`VALIDATE-FAILED ${label} — ${issues.length} issue(s):`);
+    for (const issue of issues) console.error(`  • ${issue}`);
+    return { ok: false, issues };
+  }
+  await rename(tmpPath, filePath); // atomic: only now does the real target change
+  return { ok: true, issues: [] };
+}
+
 async function persistState(state) {
   await mkdir(fileURLToPath(new URL('../data/', import.meta.url)), { recursive: true });
   await writeFile(STATE_FILE, JSON.stringify(state, null, 2) + '\n', 'utf8');
@@ -530,12 +557,18 @@ async function processVariant({ city, country, days, cityPosts, packedAvailable 
 
   const isNewFile = !existing;
   const tmpPath = await writeItineraryTemp(filePath, fm);
-  const ok = await sanityCheckTemp(tmpPath, `${citySlug}-${days}-days.md`);
+  const label = `${citySlug}-${days}-days.md`;
+  const ok = await sanityCheckTemp(tmpPath, label);
   if (!ok) {
     process.exitCode = 1;
     return { created: false, isNewFile: false };
   }
-  await rename(tmpPath, filePath); // atomic: only now does the real target change
+
+  const { ok: validated } = await commitOrRejectTemp(tmpPath, filePath, { posts: cityPosts, label });
+  if (!validated) {
+    process.exitCode = 1;
+    return { created: false, isNewFile: false };
+  }
 
   if (isNewFile) console.log(`NEW_ITINERARY: ${city} ${days}d`);
   else console.log(`  ✅ ${variantId} — updated`);

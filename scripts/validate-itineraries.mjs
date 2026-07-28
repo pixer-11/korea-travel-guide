@@ -1,8 +1,11 @@
 // Itinerary accuracy gate. This is the site's #1 rule enforced in code: no wrong
-// information reaches an itinerary page. Run standalone in CI (publish.yml) and
-// invoked by scripts/build-itineraries.mjs right after writing a city, so a bad
-// build never gets committed. Pattern/report/exit-code style copied from
-// scripts/validate-content.mjs — print every issue, exit 1 if any were found.
+// information reaches an itinerary page. The core checks live in ONE place —
+// validateItineraryData() below — used both by this file's CLI (standalone run
+// in publish.yml, or against a fixture dir) AND by scripts/build-itineraries.mjs
+// (validateItineraryFile(), called on the TEMP file before the atomic rename, so
+// a bad regeneration can never replace a good live itinerary). Report/exit-code
+// style copied from scripts/validate-content.mjs — print every issue, exit 1 if
+// any were found.
 //
 //   node scripts/validate-itineraries.mjs                       # real content dirs
 //   node scripts/validate-itineraries.mjs --fixture=<dir>       # a fixture dir (tests) —
@@ -10,7 +13,7 @@
 //       same layout as src/content/.
 import { readdir, readFile } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
-import { join, resolve } from 'node:path';
+import { join, resolve, basename } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
 import { qualifyingPosts, gateFor } from '../src/lib/itinerary.mjs';
@@ -21,13 +24,6 @@ import { qualifyingPosts, gateFor } from '../src/lib/itinerary.mjs';
 const TRANSIT_FLAT_MIN = 30;
 const DAY_BUDGET_MIN = 600;
 
-const fixtureArg = process.argv.find((a) => a.startsWith('--fixture='));
-const FIXTURE_DIR = fixtureArg ? fixtureArg.slice('--fixture='.length) : null;
-
-const ROOT = FIXTURE_DIR
-  ? resolve(process.cwd(), FIXTURE_DIR)
-  : fileURLToPath(new URL('../src/content/', import.meta.url));
-
 // ── prose-leak patterns (clock times / prices never belong in AI connective
 // prose — the page renders those facts from data, never from written text) ──
 const CLOCK_AMPM = /\b\d{1,2}\s*(:\d{2})?\s*(am|pm)\b/i;
@@ -35,7 +31,15 @@ const CLOCK_24H = /\b\d{1,2}:\d{2}\b/;
 const HOURS_LANG = /\bopening hours\b|\bcloses at\b|\bopens at\b/i;
 const CURRENCY = /[$€£¥₩]\s?\d/;
 
-async function walkMd(dir, rel = '') {
+function scanProseLeak(issues, file, field, text) {
+  const t = String(text ?? '');
+  if (!t) return;
+  if (CLOCK_AMPM.test(t) || CLOCK_24H.test(t) || HOURS_LANG.test(t) || CURRENCY.test(t)) {
+    issues.push(`PROSE-LEAK: ${file} — ${field}`);
+  }
+}
+
+export async function walkMd(dir, rel = '') {
   if (!existsSync(dir)) return [];
   const out = [];
   for (const e of await readdir(dir, { withFileTypes: true })) {
@@ -46,7 +50,7 @@ async function walkMd(dir, rel = '') {
   return out;
 }
 
-async function readFrontmatter(path) {
+export async function readFrontmatter(path) {
   const raw = await readFile(path, 'utf8');
   const end = raw.indexOf('\n---', 3);
   if (end === -1) return null;
@@ -58,57 +62,32 @@ async function readFrontmatter(path) {
   }
 }
 
-const issues = [];
-
-function scanProseLeak(file, field, text) {
-  const t = String(text ?? '');
-  if (!t) return;
-  if (CLOCK_AMPM.test(t) || CLOCK_24H.test(t) || HOURS_LANG.test(t) || CURRENCY.test(t)) {
-    issues.push(`PROSE-LEAK: ${file} — ${field}`);
+// Loads every post under `dir` into {id, data} pairs — same shape loadPosts()
+// in scripts/build-itineraries.mjs produces (plus `body`, which nothing here needs).
+export async function loadPostsFrom(dir) {
+  const out = [];
+  for (const { path, rel } of await walkMd(dir)) {
+    const fm = await readFrontmatter(path);
+    if (!fm) continue;
+    out.push({ id: rel.replace(/\.md$/, ''), data: fm });
   }
+  return out;
 }
 
-// ── load posts (needed to resolve stop slugs + recount qualifying posts) ───
-const POSTS_DIR = join(ROOT, 'posts');
-const postsById = new Map();
-const postsList = []; // {id, data} shaped for qualifyingPosts()
-for (const { path, rel } of await walkMd(POSTS_DIR)) {
-  const fm = await readFrontmatter(path);
-  if (!fm) { issues.push(`PARSE-ERROR: could not parse frontmatter in posts/${rel}`); continue; }
-  const id = rel.replace(/\.md$/, '');
-  postsById.set(id, fm);
-  postsList.push({ id, data: fm });
-}
+// ── THE core check — pure, no IO. Validates one itinerary's already-parsed
+// frontmatter object against a posts index. This is the single implementation
+// every caller (CLI sweep below, and build-itineraries.mjs pre-rename gate)
+// goes through — there is no second copy of these rules anywhere else. ──────
+export function validateItineraryData(file, data, postsById, postsList) {
+  const issues = [];
+  const d = data || {};
 
-// ── load itineraries ────────────────────────────────────────────────────
-const IT_DIR = join(ROOT, 'itineraries');
-const itineraries = [];
-for (const { path, rel } of await walkMd(IT_DIR)) {
-  const fm = await readFrontmatter(path);
-  if (!fm) { issues.push(`PARSE-ERROR: could not parse frontmatter in itineraries/${rel}`); continue; }
-  itineraries.push({ id: rel.replace(/\.md$/, ''), file: `itineraries/${rel}`, data: fm });
-}
-
-// ── load i18n translations ──────────────────────────────────────────────
-const I18N_DIR = join(ROOT, 'itineraries-i18n');
-const i18nEntries = [];
-for (const { path, rel } of await walkMd(I18N_DIR)) {
-  const fm = await readFrontmatter(path);
-  if (!fm) { issues.push(`PARSE-ERROR: could not parse frontmatter in itineraries-i18n/${rel}`); continue; }
-  i18nEntries.push({ file: `itineraries-i18n/${rel}`, data: fm });
-}
-
-// ── per-itinerary checks ────────────────────────────────────────────────
-for (const it of itineraries) {
-  const d = it.data || {};
-  const file = it.file;
-
-  scanProseLeak(file, 'title', d.title);
-  scanProseLeak(file, 'description', d.description);
-  scanProseLeak(file, 'quickAnswer', d.quickAnswer);
+  scanProseLeak(issues, file, 'title', d.title);
+  scanProseLeak(issues, file, 'description', d.description);
+  scanProseLeak(issues, file, 'quickAnswer', d.quickAnswer);
   (d.faq || []).forEach((f, i) => {
-    scanProseLeak(file, `faq[${i}].q`, f?.q);
-    scanProseLeak(file, `faq[${i}].a`, f?.a);
+    scanProseLeak(issues, file, `faq[${i}].q`, f?.q);
+    scanProseLeak(issues, file, `faq[${i}].a`, f?.a);
   });
 
   const days = Array.isArray(d.itinerary) ? d.itinerary : [];
@@ -118,8 +97,8 @@ for (const it of itineraries) {
   days.forEach((day, di) => {
     if (!String(day?.label ?? '').trim()) issues.push(`EMPTY-LABEL: ${file} — day ${di + 1}`);
     if (!String(day?.intro ?? '').trim()) issues.push(`EMPTY-INTRO: ${file} — day ${di + 1}`);
-    scanProseLeak(file, `itinerary[${di}].label`, day?.label);
-    scanProseLeak(file, `itinerary[${di}].intro`, day?.intro);
+    scanProseLeak(issues, file, `itinerary[${di}].label`, day?.label);
+    scanProseLeak(issues, file, `itinerary[${di}].intro`, day?.intro);
 
     const stops = Array.isArray(day?.stops) ? day.stops : [];
     if (stops.length < 3 || stops.length > 5) {
@@ -153,7 +132,7 @@ for (const it of itineraries) {
       }
 
       if (!String(s?.why ?? '').trim()) issues.push(`EMPTY-WHY: ${file} — day ${di + 1} stop "${slug}"`);
-      scanProseLeak(file, `itinerary[${di}].stops[${si}].why`, s?.why);
+      scanProseLeak(issues, file, `itinerary[${di}].stops[${si}].why`, s?.why);
 
       dayTotalMin += Number(s?.dwellMin) || 0;
       const leg = s?.walkToNext;
@@ -174,20 +153,22 @@ for (const it of itineraries) {
 
   // packedAvailable is only true if the city's LIVE qualifying count still
   // clears the gate — recounted from posts, never trusted from the frontmatter.
-  if (d.packedAvailable) {
+  if (d.packedAvailable && postsList) {
     const cityPosts = postsList.filter((p) => p.data.region === d.city);
     const q = qualifyingPosts(cityPosts);
     if (!gateFor(q.length).packed) {
       issues.push(`PACKED-GATE-FAIL: ${file} — packedAvailable=true but only ${q.length} live qualifying post(s) for "${d.city}" (gate needs 15)`);
     }
   }
+
+  return issues;
 }
 
-// ── i18n staleness + prose-leak checks ──────────────────────────────────
-const itById = new Map(itineraries.map((it) => [it.id, it.data]));
-for (const entry of i18nEntries) {
-  const d = entry.data || {};
-  const file = entry.file;
+// Same single-implementation treatment for a translation file — validated
+// against its source itinerary's stopsHash plus its own prose-sanity/leak rules.
+export function validateI18nEntry(file, data, itById) {
+  const issues = [];
+  const d = data || {};
   const source = d.slug ? itById.get(d.slug) : null;
 
   if (!source) {
@@ -196,29 +177,89 @@ for (const entry of i18nEntries) {
     issues.push(`STALE-TRANSLATION: ${file}`);
   }
 
-  scanProseLeak(file, 'title', d.title);
-  scanProseLeak(file, 'description', d.description);
-  scanProseLeak(file, 'quickAnswer', d.quickAnswer);
+  scanProseLeak(issues, file, 'title', d.title);
+  scanProseLeak(issues, file, 'description', d.description);
+  scanProseLeak(issues, file, 'quickAnswer', d.quickAnswer);
   (d.faq || []).forEach((f, i) => {
-    scanProseLeak(file, `faq[${i}].q`, f?.q);
-    scanProseLeak(file, `faq[${i}].a`, f?.a);
+    scanProseLeak(issues, file, `faq[${i}].q`, f?.q);
+    scanProseLeak(issues, file, `faq[${i}].a`, f?.a);
   });
   (d.days || []).forEach((day, i) => {
-    scanProseLeak(file, `days[${i}].label`, day?.label);
-    scanProseLeak(file, `days[${i}].intro`, day?.intro);
+    if (!String(day?.label ?? '').trim()) issues.push(`EMPTY-LABEL: ${file} — days[${i}]`);
+    if (!String(day?.intro ?? '').trim()) issues.push(`EMPTY-INTRO: ${file} — days[${i}]`);
+    scanProseLeak(issues, file, `days[${i}].label`, day?.label);
+    scanProseLeak(issues, file, `days[${i}].intro`, day?.intro);
   });
-  for (const [slug, why] of Object.entries(d.whys || {})) scanProseLeak(file, `whys[${slug}]`, why);
-  for (const [slug, why] of Object.entries(d.rainWhys || {})) scanProseLeak(file, `rainWhys[${slug}]`, why);
+  for (const [slug, why] of Object.entries(d.whys || {})) {
+    if (!String(why ?? '').trim()) issues.push(`EMPTY-WHY: ${file} — whys[${slug}]`);
+    scanProseLeak(issues, file, `whys[${slug}]`, why);
+  }
+  for (const [slug, why] of Object.entries(d.rainWhys || {})) scanProseLeak(issues, file, `rainWhys[${slug}]`, why);
+
+  return issues;
 }
 
-// ── report ───────────────────────────────────────────────────────────────
-if (issues.length) {
-  console.log(`❌ ${issues.length} itinerary issue(s) across ${itineraries.length} itinerary file(s) + ${i18nEntries.length} translation file(s):\n`);
-  for (const i of issues) console.log(`  • ${i}`);
-  process.exit(1);
+// ── file-based entry point for scripts/build-itineraries.mjs ───────────────
+// Validates a SINGLE itinerary file (typically a not-yet-renamed temp file) and
+// returns its issues array (empty = clean). Pass `posts` (an already-loaded
+// {id, data}[] array, e.g. the city's posts the caller has in memory) to avoid
+// re-reading every post off disk; otherwise posts are loaded from `postsDir`
+// (defaults to the real src/content/posts/). `label` overrides the file label
+// used in issue strings — useful because a temp path looks like
+// "seoul-3-days.md.tmp-1234-5678" and the caller usually wants the clean name.
+export async function validateItineraryFile(filePath, { posts, postsDir, label } = {}) {
+  const postsList = posts || await loadPostsFrom(postsDir || fileURLToPath(new URL('../src/content/posts/', import.meta.url)));
+  const postsById = new Map(postsList.map((p) => [p.id, p.data]));
+  const fm = await readFrontmatter(filePath);
+  const fileLabel = label || basename(filePath);
+  if (!fm) return [`PARSE-ERROR: could not parse frontmatter in ${fileLabel}`];
+  return validateItineraryData(fileLabel, fm, postsById, postsList);
 }
-if (itineraries.length === 0) {
-  console.log('✓ no itinerary files found — nothing to validate yet.');
-} else {
-  console.log(`✓ ${itineraries.length} itinerary file(s) + ${i18nEntries.length} translation file(s) clean.`);
+
+// ── CLI ──────────────────────────────────────────────────────────────────
+const isMain = process.argv[1] && fileURLToPath(import.meta.url) === process.argv[1];
+
+async function main() {
+  const fixtureArg = process.argv.find((a) => a.startsWith('--fixture='));
+  const FIXTURE_DIR = fixtureArg ? fixtureArg.slice('--fixture='.length) : null;
+  const ROOT = FIXTURE_DIR
+    ? resolve(process.cwd(), FIXTURE_DIR)
+    : fileURLToPath(new URL('../src/content/', import.meta.url));
+
+  const postsList = await loadPostsFrom(join(ROOT, 'posts'));
+  const postsById = new Map(postsList.map((p) => [p.id, p.data]));
+
+  const issues = [];
+
+  const itineraries = [];
+  for (const { path, rel } of await walkMd(join(ROOT, 'itineraries'))) {
+    const fm = await readFrontmatter(path);
+    if (!fm) { issues.push(`PARSE-ERROR: could not parse frontmatter in itineraries/${rel}`); continue; }
+    itineraries.push({ id: rel.replace(/\.md$/, ''), file: `itineraries/${rel}`, data: fm });
+  }
+  for (const it of itineraries) issues.push(...validateItineraryData(it.file, it.data, postsById, postsList));
+
+  const i18nEntries = [];
+  for (const { path, rel } of await walkMd(join(ROOT, 'itineraries-i18n'))) {
+    const fm = await readFrontmatter(path);
+    if (!fm) { issues.push(`PARSE-ERROR: could not parse frontmatter in itineraries-i18n/${rel}`); continue; }
+    i18nEntries.push({ file: `itineraries-i18n/${rel}`, data: fm });
+  }
+  const itById = new Map(itineraries.map((it) => [it.id, it.data]));
+  for (const entry of i18nEntries) issues.push(...validateI18nEntry(entry.file, entry.data, itById));
+
+  if (issues.length) {
+    console.log(`❌ ${issues.length} itinerary issue(s) across ${itineraries.length} itinerary file(s) + ${i18nEntries.length} translation file(s):\n`);
+    for (const i of issues) console.log(`  • ${i}`);
+    process.exit(1);
+  }
+  if (itineraries.length === 0) {
+    console.log('✓ no itinerary files found — nothing to validate yet.');
+  } else {
+    console.log(`✓ ${itineraries.length} itinerary file(s) + ${i18nEntries.length} translation file(s) clean.`);
+  }
+}
+
+if (isMain) {
+  main().catch((e) => { console.error(e); process.exit(1); });
 }

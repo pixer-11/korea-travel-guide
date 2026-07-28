@@ -7,6 +7,7 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { execFileSync } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
+import { validateI18nEntry } from './validate-itineraries.mjs';
 
 const SCRIPT = fileURLToPath(new URL('./validate-itineraries.mjs', import.meta.url));
 const GOOD_FIXTURE = fileURLToPath(new URL('./lib/itinerary-fixtures/good', import.meta.url));
@@ -42,4 +43,36 @@ test('real content dirs validate cleanly (exit 0) — currently zero itinerary f
   // that's the whole point of the gate. Only the message differs.
   const out = execFileSync('node', [SCRIPT], { encoding: 'utf8' });
   assert.match(out, /^✓/);
+});
+
+// ── validateI18nEntry: empty-string checks (fix round 1, minor) ────────────
+
+test('validateI18nEntry: flags empty day label/intro and empty why', () => {
+  const itById = new Map([['seoul-1-days', { stopsHash: 'h1' }]]);
+  const data = {
+    slug: 'seoul-1-days',
+    sourceHash: 'h1',
+    title: 't', description: 'd', quickAnswer: 'q', faq: [],
+    days: [{ label: '', intro: '   ' }],
+    whys: { 'seoul-x': '  ' },
+    rainWhys: {},
+  };
+  const issues = validateI18nEntry('itineraries-i18n/ko/seoul-1-days.md', data, itById);
+  assert.ok(issues.some((i) => i.startsWith('EMPTY-LABEL:')), `expected EMPTY-LABEL, got: ${issues.join(' | ')}`);
+  assert.ok(issues.some((i) => i.startsWith('EMPTY-INTRO:')), `expected EMPTY-INTRO, got: ${issues.join(' | ')}`);
+  assert.ok(issues.some((i) => i.startsWith('EMPTY-WHY:')), `expected EMPTY-WHY, got: ${issues.join(' | ')}`);
+});
+
+test('validateI18nEntry: non-empty label/intro/why produce no empty-string issues', () => {
+  const itById = new Map([['seoul-1-days', { stopsHash: 'h1' }]]);
+  const data = {
+    slug: 'seoul-1-days',
+    sourceHash: 'h1',
+    title: 't', description: 'd', quickAnswer: 'q', faq: [],
+    days: [{ label: 'A day', intro: 'Some intro.' }],
+    whys: { 'seoul-x': 'A reason.' },
+    rainWhys: {},
+  };
+  const issues = validateI18nEntry('itineraries-i18n/ko/seoul-1-days.md', data, itById);
+  assert.deepEqual(issues.filter((i) => i.startsWith('EMPTY-')), []);
 });
