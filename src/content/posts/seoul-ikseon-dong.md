@@ -10,6 +10,13 @@ heroImage:
   license: foursquare
   source: https://foursquare.com/v/5be6bc8756c89f003977c01a
 gallery: []
+place:
+  id: ChIJxUg7UNyifDURjrff0ykZEf0
+  name: Ikseon-dong
+  address: Ikseon-dong, Jongno District, Seoul, South Korea
+  googleMapsUrl: https://maps.google.com/?cid=18235384033638856590&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  lat: 37.5743484
+  lng: 126.98970569999997
 tags:
   - seoul
   - Ikseon-dong

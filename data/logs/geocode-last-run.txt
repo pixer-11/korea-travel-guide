@@ -1,0 +1,9 @@
+SKIPPED (closed (businessStatus=CLOSED_TEMPORARILY)): seoul-cafe-3-stripes-seoul.md
+ATTACHED: seoul-dallas-pizza.md ← Dallas Pizza
+SKIPPED (name mismatch — "Euljiro" vs result name "Eulji-ro"): seoul-euljiro.md
+SKIPPED (closed (businessStatus=CLOSED_PERMANENTLY)): seoul-hakusi.md
+ATTACHED: seoul-ikseon-dong.md ← Ikseon-dong
+ATTACHED: seoul-london-bagel-museum.md ← London Bagel Museum Anguk
+SKIPPED (name mismatch — "Seongsu Cafes" vs result name "Highline"): seoul-seongsu-cafes.md
+
+GEOCODE RESULT: attached 3, skipped 4 of 7
