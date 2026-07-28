@@ -1,10 +1,14 @@
 // ─────────────────────────────────────────────────────────────
 //  IN-BODY GALLERY PHOTOS — adds ONE extra, verified photo to a post.
 //
-//  Why Wikimedia only: Google Places and Foursquare both forbid storing their
-//  photos (Places: no caching; Foursquare: no >24h caching), and a second photo
-//  doubles that exposure. Wikimedia Commons is CC-licensed and safe to reference
-//  as long as we keep the attribution line — which we do, in the caption.
+//  Sources: Wikimedia Commons FIRST (landmarks), then the venue's own
+//  Foursquare photos. Commons was the only source at first, on the grounds
+//  that Foursquare forbids CACHING — but we never cache it: 163 live heroes
+//  already hotlink fastly.4sqi.net, which is the same exposure a second
+//  hotlink adds. Commons-only meant every named cafe and restaurant got
+//  nothing (0 of 23 in the pilot), because an encyclopedia has Wat Arun and
+//  not a neighbourhood coffee shop. Foursquare returns up to 4 photos per
+//  venue and the hero uses one, so a real second photo usually exists.
 //
 //  Every candidate must pass verifyGalleryImage(): the model sees the hero AND
 //  the candidate together and rejects wrong-place photos AND near-duplicates.
@@ -19,7 +23,8 @@ import './lib/env.mjs';
 import { readdirSync, readFileSync, writeFileSync } from 'fs';
 import { join } from 'path';
 import yaml from 'js-yaml';
-import { commonsBest } from './lib/commons.mjs';
+import { commonsBest, tokens } from './lib/commons.mjs';
+import { venuePhotoCandidates } from './lib/photo-sources.mjs';
 import { verifyGalleryImage } from './lib/vision-check.mjs';
 
 const POSTS_DIR = 'src/content/posts';
@@ -48,6 +53,23 @@ function withGallery(raw, gallery) {
 }
 
 const files = readdirSync(POSTS_DIR).filter((f) => f.endsWith('.md'));
+
+// Every image URL already in use ANYWHERE — heroes and existing gallery entries
+// alike. loadUsedImageUrls() only matches the hero's 2-space `url:` line, so
+// gallery entries (`  - url:`) were invisible to it and a later post's HERO
+// could be handed a photo already sitting mid-article in another post.
+const usedUrls = new Set();
+for (const f of files) {
+  const raw = readFileSync(`${POSTS_DIR}/${f}`, 'utf8');
+  // Matches a hero line ("  url: …") and a gallery item ("  - url: …") alike.
+  const re = /url:\s*"?'?([^\s"']+)"?'?/g;
+  let m;
+  while ((m = re.exec(raw)) !== null) {
+    const u = m[1];
+    if (u.startsWith('http') || u.startsWith('/')) usedUrls.add(u);
+  }
+}
+
 const stats = { scanned: 0, noVenue: 0, noCandidate: 0, rejected: 0, added: 0, skipped: 0 };
 const added = [];
 const rejected = [];
@@ -71,30 +93,65 @@ for (const file of files) {
   const query = `${venue} ${d.region}`.replace(STOP, ' ').replace(/\s+/g, ' ').trim();
   process.stdout.write(`\n[${stats.scanned}] ${file}\n  검색: "${query}"`);
 
-  let cand = null;
+  const candidates = [];
   try {
-    cand = await commonsBest(query, { used: new Set([heroUrl]), minWidth: 1200 });
+    // crossCheck/minCross mirror the HERO path: one shared token (a city name)
+    // is not evidence of identity — that hole is how a UK picture house once
+    // landed on an Abu Dhabi cafe.
+    const wiki = await commonsBest(query, {
+      used: new Set([heroUrl]),
+      minWidth: 1200,
+      crossCheck: tokens(`${venue} ${d.region}`),
+      minCross: 2,
+    });
+    if (wiki?.url) candidates.push({ ...wiki, license: 'wikimedia' });
   } catch (e) {
-    process.stdout.write(`  → 검색 실패 (${e.message.slice(0, 40)})`);
+    process.stdout.write(`  → Commons 실패 (${e.message.slice(0, 40)})`);
   }
-  if (!cand?.url) { stats.noCandidate++; process.stdout.write('  → 후보 없음'); continue; }
 
-  const check = await verifyGalleryImage({
-    url: cand.url,
-    heroUrl,
-    name: venue,
-    category: d.category || 'place',
-    region: d.region,
-    country: d.country || 'South Korea',
-  });
-  if (!check.ok) {
+  // The venue's OWN photos — the only source that has a neighbourhood cafe.
+  try {
+    for (const c of await venuePhotoCandidates({
+      name: venue,
+      lat: d.place?.lat,
+      lng: d.place?.lng,
+      near: `${d.region}, ${d.country || 'South Korea'}`,
+    })) {
+      if (c.url && c.url !== heroUrl) candidates.push(c);
+      if (candidates.length >= 4) break;
+    }
+  } catch (e) {
+    process.stdout.write(`  → 장소사진 실패 (${e.message.slice(0, 40)})`);
+  }
+
+  if (!candidates.length) { stats.noCandidate++; process.stdout.write('  → 후보 없음'); continue; }
+
+  // Try each candidate; the gate rejects a wrong place AND a near-duplicate of
+  // the hero, so a rejection is a reason to try the next one, not to give up.
+  let cand = null, lastReason = '';
+  for (const c of candidates) {
+    if (usedUrls.has(c.url)) continue;   // already the hero or gallery of another post
+    const check = await verifyGalleryImage({
+      url: c.url,
+      heroUrl,
+      name: venue,
+      category: d.category || 'place',
+      region: d.region,
+      country: d.country || 'South Korea',
+    });
+    if (check.ok) { cand = c; break; }
+    lastReason = check.reason;
+    process.stdout.write(`\n    · 반려(${(c.license || '').slice(0, 10)}): ${check.reason}`);
+  }
+  if (!cand) {
     stats.rejected++;
-    rejected.push({ file, reason: check.reason });
-    process.stdout.write(`  → ❌ 반려: ${check.reason}`);
+    rejected.push({ file, reason: lastReason || 'no candidate passed' });
+    process.stdout.write(`  → ❌ 전부 반려`);
     continue;
   }
 
-  const entry = { url: cand.url, credit: cand.credit, license: 'wikimedia', source: cand.source };
+  const entry = { url: cand.url, credit: cand.credit, license: cand.license || 'wikimedia', source: cand.source };
+  usedUrls.add(cand.url);
   if (!DRY_RUN) {
     const out = withGallery(post.raw, [entry]);
     if (!out) { process.stdout.write('  → ⚠️ frontmatter 형식 불명 — 건너뜀'); continue; }

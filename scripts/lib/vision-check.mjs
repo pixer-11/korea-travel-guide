@@ -63,7 +63,8 @@ export async function verifyGalleryImage({ url, heroUrl, name, category, region,
       (hero
         ? `ALSO REJECT if it is essentially the SAME view as IMAGE 1 (same angle, same subject) — a second photo must ADD something: a different room, the exterior vs the interior, the food, the surroundings.\n`
         : '') +
-      `ACCEPT only if it plausibly shows THIS venue (or unmistakably this exact place) AND adds new visual information.\n` +
+      `REJECT if it is only NEAR the place rather than OF it: a random building on the same street, a generic alley, a car park, a signboard, a close-up of an object that could be anywhere. Being in the right neighbourhood is NOT enough.\n` +
+      `ACCEPT only if a reader who knows this place would recognise it as THIS venue, AND the photo adds new visual information.\n` +
       `Answer ONLY JSON: {"ok": true|false, "reason": "<max 12 words>"}`,
   });
   // One retry: a truncated/preamble-wrapped reply is a transport hiccup, not a
@@ -121,7 +122,8 @@ export async function verifyHeroImage({ url, name, category, region, country, ev
               `For restaurants/cafes ALSO REJECT: isolated product-style food shots (studio lighting, plain/white background, packshot look) — ` +
               `the hero should show the actual PLACE (exterior, interior, or a dish clearly photographed inside a real venue setting).\n` +
               `ACCEPT if: it plausibly shows this venue or this exact kind of place in this locale. When unsure, REJECT.\n` +
-              `Answer ONLY JSON: {"ok": true|false, "reason": "<max 12 words>"}`,
+              `A HERO must be REPRESENTATIVE — the view a visitor would recognise this place by. Reject an incidental fragment (one house on a coastal-village page, a doorway, a wall, a parked car, a close-up of an object) even when it was taken at the right address.\n` +
+      `Answer ONLY JSON: {"ok": true|false, "reason": "<max 12 words>"}`,
           },
         ],
       }],
