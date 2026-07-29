@@ -10,11 +10,6 @@ heroImage:
   credit: 'Photo: Foursquare user content (Tokyo Ramen Street (東京ラーメンストリート))'
   license: foursquare
   source: https://foursquare.com/v/4bb06abef964a520af443ce3
-gallery:
-  - url: https://fastly.4sqi.net/img/general/original/27653413_pjbb_IGa5_61ALgTq_cjfUEC4XiArCz9-Boci1Hyr_8.jpg
-    credit: 'Photo: Foursquare user content (Tokyo Ramen Street (東京ラーメンストリート))'
-    license: foursquare
-    source: https://foursquare.com/v/4bb06abef964a520af443ce3
 place:
   id: ChIJGeYlX_mLGGARwsJahMe-XZg
   name: Tokyo Ramen Street

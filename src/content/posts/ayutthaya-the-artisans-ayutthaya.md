@@ -10,11 +10,6 @@ heroImage:
   credit: 'Photo: Foursquare user content (The Artisans Ayutthaya)'
   license: foursquare
   source: https://foursquare.com/v/605da7b10e5d7472c8851dd3
-gallery:
-  - url: https://fastly.4sqi.net/img/general/original/976202_TBZ8YqxQfuMH9OLpay5BxVTpnX-8YYatMuFYcLR7rCc.jpg
-    credit: 'Photo: Foursquare user content (The Artisans Ayutthaya)'
-    license: foursquare
-    source: https://foursquare.com/v/605da7b10e5d7472c8851dd3
 place:
   id: ChIJPSBC45t34jARawdIhdUwFWE
   name: The Artisans Ayutthaya

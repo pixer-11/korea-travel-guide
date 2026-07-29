@@ -10,11 +10,6 @@ heroImage:
   credit: 'Photo: Foursquare user content (Emperor Qinshihuang''s Mausoleum Artifacts Exhibition Hall (秦始皇帝陵文物陈列厅))'
   license: foursquare
   source: https://foursquare.com/v/5774c8cf498ea0c5b6e811cf
-gallery:
-  - url: https://fastly.4sqi.net/img/general/original/5315953_sXUtAFywlFx3FZqyi7Yk-xEKV-_aWDVw6xzOJF0ZFYA.jpg
-    credit: 'Photo: Foursquare user content (Emperor Qinshihuang''s Mausoleum Artifacts Exhibition Hall (秦始皇帝陵文物陈列厅))'
-    license: foursquare
-    source: https://foursquare.com/v/5774c8cf498ea0c5b6e811cf
 place:
   id: ChIJowMUgi2nZDYRxz_j6XQ-48M
   name: Emperor Qinshihuang's Mausoleum Site Museum

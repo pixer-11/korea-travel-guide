@@ -37,6 +37,7 @@ for (const f of files) {
     placeId: (fm.place && fm.place.id) || '',
     placeName: (fm.place && fm.place.name) || '',
     eventStart: fm.eventStartDate || '',
+    gallery: (fm.gallery || []).map((g) => g && g.url).filter(Boolean),
   });
 }
 
@@ -129,6 +130,17 @@ for (const p of posts) {
 }
 dupBy((p) => (p.url && !p.url.includes('placeholder') ? unsplashNum(p.url) || p.url : ''), 'DUPLICATE image');
 dupBy((p) => p.placeId, 'DUPLICATE place.id');
+
+// A post whose in-body photo IS its hero shows the same picture twice. The rule
+// is two DIFFERENT photos, or one — never the same one billed as two. The
+// cross-post check above compares heroes BETWEEN posts, so it was structurally
+// blind to this: 17 posts shipped that way, most created by the alt-source hero
+// swap choosing an image that was already sitting in the gallery.
+for (const p of posts) {
+  if (p.url && p.gallery.includes(p.url)) {
+    issues.push(`SAME-PHOTO-TWICE: ${p.f} — the in-body photo is the hero image`);
+  }
+}
 // Only for posts WITHOUT a place.id (events/placeless) — venue posts are already
 // de-duped by place.id above, and non-ASCII venue names (Vietnamese/Korean) would
 // otherwise collapse to just the city and false-positive.

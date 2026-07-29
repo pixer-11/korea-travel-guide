@@ -10,11 +10,6 @@ heroImage:
   credit: 'Photo: Foursquare user content (Pike Place Market)'
   license: foursquare
   source: https://foursquare.com/v/427ea800f964a520b1211fe3
-gallery:
-  - url: https://fastly.4sqi.net/img/general/original/3241052_vk5L5KPFFuaskrKAoDQQXeB6uXJMu9Xg3OUXgElIN1k.jpg
-    credit: 'Photo: Foursquare user content (Pike Place Market)'
-    license: foursquare
-    source: https://foursquare.com/v/427ea800f964a520b1211fe3
 place:
   id: ChIJy9ZRwbJqkFQRHJ8-Y18dRGA
   name: Pike Place Market

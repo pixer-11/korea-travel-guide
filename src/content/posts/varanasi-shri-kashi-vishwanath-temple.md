@@ -10,11 +10,6 @@ heroImage:
   credit: 'Photo: Gannu03 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Shri_Kashi_Vishwanath_Temple_3.jpg
-gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Shri_Kashi_Vishwanath_Temple_3.jpg/1920px-Shri_Kashi_Vishwanath_Temple_3.jpg
-    credit: 'Photo: Gannu03 / Wikimedia Commons (CC BY-SA 4.0)'
-    license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Shri_Kashi_Vishwanath_Temple_3.jpg
 place:
   id: ChIJFwuU7iEujjkRE3v7zU8OYEg
   name: Shri Kashi Vishwanath Temple

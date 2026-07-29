@@ -10,11 +10,6 @@ heroImage:
   credit: 'Photo: Foursquare user content (Luna By Faro - Caffè Specialty / Brunch & Lunch)'
   license: foursquare
   source: https://foursquare.com/v/6813a0bbfd67646c8a674eae
-gallery:
-  - url: https://fastly.4sqi.net/img/general/original/523294167__gLJXZj4xnor1WzGXvJZcHp1b3RtXbQ8U3u-WFI3UcY.jpg
-    credit: 'Photo: Foursquare user content (Luna By Faro - Caffè Specialty / Brunch & Lunch)'
-    license: foursquare
-    source: https://foursquare.com/v/6813a0bbfd67646c8a674eae
 place:
   id: ChIJaz0BeQBhLxMRHy7J8z89YRI
   name: LUNA by Faro - Caffè Specialty

@@ -141,12 +141,24 @@ export async function fsqVenuePhotos({ name, lat, lng, near, limit = 4 }) {
     }
     const photos = await pres.json();
     if (!fsqVenuePhotos._pshape) { fsqVenuePhotos._pshape = true; console.log(`  [fsq] first photos OK — isArray:${Array.isArray(photos)} len:${Array.isArray(photos) ? photos.length : Object.keys(photos).join(',')}`); }
-    return (photos || []).map((p) => ({
-      url: `${p.prefix}original${p.suffix}`,
-      credit: `Photo: Foursquare user content (${hit.name})`,
-      license: 'foursquare',
-      source: `https://foursquare.com/v/${placeId}`,
-    }));
+    // Foursquare photos are phone uploads, so most are portrait — and the hero
+    // slot crops to 16:9, which takes a 1080×1920 shot and throws away most of
+    // it, frequently the part that identified the place. A landscape frame of the
+    // same venue survives that crop intact, so landscape sorts first while
+    // portrait stays available for venues that have nothing else.
+    return (photos || [])
+      .map((p) => ({
+        url: `${p.prefix}original${p.suffix}`,
+        credit: `Photo: Foursquare user content (${hit.name})`,
+        license: 'foursquare',
+        source: `https://foursquare.com/v/${placeId}`,
+        w: p.width || 0,
+        h: p.height || 0,
+      }))
+      .sort((a, b) => {
+        const land = (x) => (x.w && x.h ? (x.w > x.h ? 0 : 1) : 0.5); // unknown sits between
+        return land(a) - land(b);
+      });
   } catch {
     return [];
   }

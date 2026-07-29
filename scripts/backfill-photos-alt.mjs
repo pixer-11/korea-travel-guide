@@ -166,6 +166,21 @@ for (const f of files) {
     if (!vis.ok) { console.log(`   ${slug}: rejected (${vis.reason})`); continue; }
     if (DRY) { console.log(`  · would fix ${slug} ← ${cand.url.slice(0, 70)}`); done = true; fixed++; break; }
     data.heroImage = { url: cand.url, credit: cand.credit, license: cand.license, source: cand.source };
+    // The in-body photo was chosen earlier, from the same pool of candidates, so
+    // a replacement hero can land on the picture already sitting in the gallery —
+    // and then the post shows one photo twice while claiming two. It happened on
+    // 17 posts before anything checked. Drop the gallery entry rather than the
+    // hero: the hero is the better-verified of the two, and a post with one real
+    // photo is the outcome the rules already allow. The gallery backfill can fill
+    // the slot again later with something different.
+    if (Array.isArray(data.gallery)) {
+      const kept = data.gallery.filter((g) => g?.url !== cand.url);
+      if (kept.length !== data.gallery.length) {
+        console.log(`   ${slug}: dropped in-body photo — it is now the hero`);
+      }
+      if (kept.length) data.gallery = kept;
+      else delete data.gallery;
+    }
     const wasDraft = data.draft === true;
     if (wasDraft) delete data.draft;
     await writeFile(path, `---\n${yaml.dump(data, { lineWidth: -1, noRefs: true, sortKeys: false })}---\n${content}`, 'utf8');
