@@ -12,6 +12,7 @@ import { slugifyRegion } from '../lib/slug';
 import { useTranslations, localizePath, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 import { getRegionInfo } from '../i18n/regions';
+import { wallFor } from '../lib/wall';
 
 // Shared region-hub body for BOTH the English route (/regions/<region>) and the
 // localized route (/[lang]/regions/<region>). Curated intros/FAQ come from
@@ -141,9 +142,13 @@ const jsonLd = {
 
 const metaTitle = t('region.guideTitle').replace('{region}', regionLabel);
 const metaDesc = info?.blurb?.slice(0, 155) ?? t('region.metaDesc').replace('{region}', regionLabel).replace('{country}', countryLabel);
+// Share card: a hub about a place should unfurl as that place, not the logo.
+// Falls through to the brand default in BaseLayout when nothing has a thumbnail.
+const ogPhoto = wallFor((posts ?? []).find((p) => p?.data?.heroImage?.url)?.data?.heroImage?.url);
+
 ---
 
-<BaseLayout title={metaTitle} description={metaDesc} jsonLd={jsonLd} localized={true}>
+<BaseLayout image={ogPhoto} title={metaTitle} description={metaDesc} jsonLd={jsonLd} localized={true}>
   <section class="page-hero">
     <div class="wrap">
       <p class="eyebrow">{t('region.eyebrow')}</p>

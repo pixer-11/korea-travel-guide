@@ -13,6 +13,7 @@ import { useTranslations, localizePath, klookLocale, type Lang } from '../i18n/u
 import { localizePlace } from '../i18n/places';
 import { localizeBlurb } from '../i18n/countryBlurbs';
 import { loadCardTranslations, cardHelpers } from '../i18n/cards';
+import { wallFor } from '../lib/wall';
 
 // Shared country-hub body for /destinations/<country> (en) and
 // /[lang]/destinations/<country>. Country name via localizePlace, blurb via
@@ -90,9 +91,14 @@ const jsonLd = {
 };
 
 const metaTitle = `${countryLabel} — ${t('nav.destinations')}`;
+// Share card: a hub about a place should unfurl as that place, not the
+// logo. Falls through to the brand default in BaseLayout when the list is
+// empty or the hero has no built thumbnail yet.
+const ogPhoto = wallFor((posts ?? []).find((p: any) => p?.data?.heroImage?.url)?.data?.heroImage?.url);
+
 ---
 
-<BaseLayout
+<BaseLayout image={ogPhoto}
   title={metaTitle}
   description={blurb?.slice(0, 155) ?? countryLabel}
   jsonLd={jsonLd}

@@ -9,6 +9,7 @@ import { localizeEvent } from '../i18n/events';
 import { formatHourRanges } from '../lib/hours.mjs';
 import { loadCardTranslations, cardHelpers } from '../i18n/cards';
 import { MONTHS, monthSlug } from '../lib/when-to-go.mjs';
+import { wallFor } from '../lib/wall';
 
 // One country × month page. Every sentence is assembled from measured values —
 // climate normals, holiday dates, our own foot-traffic records — so these build
@@ -91,9 +92,14 @@ const jsonLd = {
     },
   ],
 };
+// Share card: a hub about a place should unfurl as that place, not the
+// logo. Falls through to the brand default in BaseLayout when the list is
+// empty or the hero has no built thumbnail yet.
+const ogPhoto = wallFor((data.topVenues ?? []).find((p: any) => p?.data?.heroImage?.url)?.data?.heroImage?.url);
+
 ---
 
-<BaseLayout title={title} description={dek} lang={lang} localized={true}>
+<BaseLayout image={ogPhoto} title={title} description={dek} lang={lang} localized={true}>
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 
   <article class="wtg">

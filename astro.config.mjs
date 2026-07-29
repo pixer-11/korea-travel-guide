@@ -5,7 +5,6 @@ import { readFileSync, readdirSync, writeFileSync, statSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 
-import react from '@astrojs/react';
 
 // IMPORTANT: change this to your real domain before deploying.
 // It is used for canonical URLs, sitemap, and Open Graph tags.
@@ -218,7 +217,6 @@ export default defineConfig({
         return item;
       },
     }),
-    react(),
     regionRedirectsIntegration(),
     trailingSlashIntegration(),
   ],

@@ -44,7 +44,14 @@ const alternates = localized
       href: new URL(localizePath(canonicalPath, l), Astro.site).toString(),
     }))
   : [];
-const ogImage = image ? new URL(image, Astro.site) : undefined;
+// Share cards. 2,529 of 4,869 built pages had no og:image — every region hub,
+// every when-to-go page, essentials, destinations, events, itineraries and the
+// static pages — so they unfurled on KakaoTalk, LINE, X and Pinterest as a bare
+// text link. A page-specific photo is still much better, and the components pass
+// one where they have it; this guarantees the tag is never absent, which is the
+// part that was costing distribution on exactly the page types the Pinterest and
+// Instagram pipelines feed.
+const ogImage = new URL(image || '/og-default.jpg', Astro.site);
 const siteName = SITE.name;
 const siteUrl = Astro.site?.toString().replace(/\/$/, '') ?? '';
 
@@ -133,7 +140,11 @@ const orgLd = {
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical} />
     <meta property="og:site_name" content={siteName} />
-    {ogImage && <meta property="og:image" content={ogImage} />}
+    <meta property="og:image" content={ogImage} />
+    {/* Dimensions let an unfurler reserve the card before the image loads; the
+        fallback is a known 1200×630 and post heroes are rendered at that ratio. */}
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
 
     <!-- Twitter — explicit tags rather than relying on the OG fallback, so the
          large-image card renders reliably on X and in link unfurlers. -->

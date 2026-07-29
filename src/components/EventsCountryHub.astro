@@ -8,6 +8,7 @@ import { isEventPast, eventSortValue } from '../lib/eventStatus';
 import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 import { loadCardTranslations, cardHelpers } from '../i18n/cards';
+import { wallFor } from '../lib/wall';
 
 // Shared per-country events hub for /events/<country> (en) + /[lang]/events/<country>.
 interface Props { country: any; events: any[]; lang: Lang }
@@ -58,9 +59,14 @@ const jsonLd = {
     ...(upcoming.length ? [{ '@type': 'ItemList', itemListElement: upcoming.map((p, i) => ({ '@type': 'ListItem', position: i + 1, url: new URL(card.href(p.id), Astro.site).toString(), name: card.title(p.id, p.data.title) })) }] : []),
   ],
 };
+// Share card: a hub about a place should unfurl as that place, not the
+// logo. Falls through to the brand default in BaseLayout when the list is
+// empty or the hero has no built thumbnail yet.
+const ogPhoto = wallFor((events ?? []).find((p: any) => p?.data?.heroImage?.url)?.data?.heroImage?.url);
+
 ---
 
-<BaseLayout
+<BaseLayout image={ogPhoto}
   title={t('ev.upcomingIn').replace('{country}', countryLabel)}
   description={t('ev.upcomingIn').replace('{country}', countryLabel)}
   jsonLd={jsonLd}
