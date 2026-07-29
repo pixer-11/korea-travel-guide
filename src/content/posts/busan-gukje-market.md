@@ -1,15 +1,15 @@
 ---
-title: "Gukje Market: Busan Travel Guide"
-description: "Gukje Market in Busan's Jung-gu district is a sprawling, postwar-era market best explored on foot for 1.5–2 hours, ideally in late afternoon when food stalls"
+title: 'Gukje Market: Busan Travel Guide'
+description: Gukje Market in Busan's Jung-gu district is a sprawling, postwar-era market best explored on foot for 1.5–2 hours, ideally in late afternoon when food stalls
 region: Busan
-country: "South Korea"
+country: South Korea
 category: hidden-gem
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Gukje_Market_20241221_125352.jpg/1920px-Gukje_Market_20241221_125352.jpg
-  credit: 'Photo: Ka23 13 / Wikimedia Commons (CC BY 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Gukje_Market_20241221_125352.jpg
+  url: https://fastly.4sqi.net/img/general/original/5931716_K-q57PzIFTkBzWXsYSavXUpLe47C0cbGl0g5ow6MV5Y.jpg
+  credit: 'Photo: Foursquare user content (Gukje Market (국제시장))'
+  license: foursquare
+  source: https://foursquare.com/v/4bb83d31b35776b0d9cbc801
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/5931716_bWz7B0sdP0ZmEBnqA77UDo5ZUYpmw6b2TnO8mhZTABQ.jpg
     credit: 'Photo: Foursquare user content (Gukje Market (국제시장))'
@@ -27,11 +27,22 @@ place:
   lng: 129.0281978
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [9, 10, 18]
-    weekendQuiet: [9, 10, 18]
-    weekendBusy: [12, 13, 14, 15, 16]
-    venueId: 'ven_41503157356b6652436c465255446154536c654d4c59664a496843'
-  phone: '051-245-7389'
+    weekdayQuiet:
+      - 9
+      - 10
+      - 18
+    weekendQuiet:
+      - 9
+      - 10
+      - 18
+    weekendBusy:
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+    venueId: ven_41503157356b6652436c465255446154536c654d4c59664a496843
+  phone: 051-245-7389
   openingHours:
     - 'Monday: 9:00 AM – 6:00 PM'
     - 'Tuesday: 9:00 AM – 6:00 PM'

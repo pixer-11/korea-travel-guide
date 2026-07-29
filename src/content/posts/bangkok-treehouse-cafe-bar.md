@@ -6,7 +6,7 @@ region: Bangkok
 category: trendy
 pubDate: '2026-07-22T09:25:23.670Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/1411411571_quwhlFNRIe80OJEKEW0lcHuJz9mrDTwIxDDq6a0G_cg.jpg
+  url: https://fastly.4sqi.net/img/general/original/51649650_5zo9noe0V8wYegKbQFG5viCar862LRNJtdL7a5w3ty8.jpg
   credit: 'Photo: Foursquare user content (Treehouse Cafe & Bar)'
   license: foursquare
   source: https://foursquare.com/v/658aa714ad06766843628297

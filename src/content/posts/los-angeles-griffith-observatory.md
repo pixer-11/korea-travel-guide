@@ -6,7 +6,7 @@ region: Los Angeles
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/72549817_6l3JFEGaENM-COtNWUl9oLxpLwA2ham8iKb5yxRvheY.jpg
+  url: https://fastly.4sqi.net/img/general/original/503969044_KCr7xciVs4fA5VMP2sMs65Ra83dA1n228uI_bogGmCM.jpg
   credit: 'Photo: Foursquare user content (Griffith Observatory)'
   license: foursquare
   source: https://foursquare.com/v/4a6e5d0df964a52093d41fe3

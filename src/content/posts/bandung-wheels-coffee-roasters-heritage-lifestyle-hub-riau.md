@@ -1,29 +1,23 @@
 ---
 title: 'Wheels Coffee Roasters - Heritage Lifestyle Hub (Riau): Bandung Travel Guide'
-description: >-
-  Wheels Coffee Roasters' Heritage Lifestyle Hub sits on Jl. Riau (officially
-  Jl. L.L.R.E. Martadinata No.
+description: Wheels Coffee Roasters' Heritage Lifestyle Hub sits on Jl. Riau (officially Jl. L.L.R.E. Martadinata No.
 country: Indonesia
 region: Bandung
 category: trendy
 pubDate: '2026-07-23T07:23:36.846Z'
 heroImage:
-  url: >-
-    https://fastly.4sqi.net/img/general/original/44083177_upwliGeDUn_uFftewKyLQDAGi-OhXlru3Goq9Zcvlxo.jpg
+  url: https://fastly.4sqi.net/img/general/original/44083177_upwliGeDUn_uFftewKyLQDAGi-OhXlru3Goq9Zcvlxo.jpg
   credit: 'Photo: Foursquare user content (Heritage)'
   license: foursquare
-  source: 'https://foursquare.com/v/4bd3ea809854d13a47e4fe4d'
+  source: https://foursquare.com/v/4bd3ea809854d13a47e4fe4d
 gallery: []
 place:
   id: ChIJT3xaAvznaC4RJDnZ7npthlE
   name: Wheels Coffee Roasters - Heritage Lifestyle Hub (Riau)
-  address: >-
-    Jl. L. L. R.E. Martadinata No.65, Citarum, Kec. Bandung Wetan, Kota Bandung,
-    Jawa Barat 40115, Indonesia
+  address: Jl. L. L. R.E. Martadinata No.65, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115, Indonesia
   rating: 4.9
   userRatingsTotal: 18436
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=5874503138712041764&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=5874503138712041764&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: -6.9055862999999995
   lng: 107.617391
@@ -64,41 +58,21 @@ place:
 tags:
   - bandung
   - trendy cafe
-quickAnswer: >-
-  Wheels Coffee Roasters' Heritage Lifestyle Hub sits on Jl. Riau (officially
-  Jl. L.L.R.E. Martadinata No. 65) in Bandung Wetan, inside a restored
-  Dutch-colonial-era building — one of Bandung's most-reviewed coffee spots (4.9
-  rating, 18,000+ reviews). Go on a weekday morning to actually get a seat,
-  order at the counter, and budget 1–1.5 hours to enjoy the coffee, food, and
-  heritage architecture without the weekend crowd crush.
+quickAnswer: Wheels Coffee Roasters' Heritage Lifestyle Hub sits on Jl. Riau (officially Jl. L.L.R.E. Martadinata No. 65) in Bandung Wetan, inside a restored Dutch-colonial-era building — one of Bandung's most-reviewed coffee spots (4.9 rating, 18,000+ reviews). Go on a weekday morning to actually get a seat, order at the counter, and budget 1–1.5 hours to enjoy the coffee, food, and heritage architecture without the weekend crowd crush.
 faq:
   - q: How do I get to Wheels Coffee Roasters Heritage Lifestyle Hub?
-    a: >-
-      It's on Jl. L.L.R.E. Martadinata No. 65 (Jl. Riau) in Bandung Wetan.
-      Bandung has no metro, so most visitors arrive by car, taxi, or Gojek/Grab;
-      it's about a 10–15 minute drive from the city center.
+    a: It's on Jl. L.L.R.E. Martadinata No. 65 (Jl. Riau) in Bandung Wetan. Bandung has no metro, so most visitors arrive by car, taxi, or Gojek/Grab; it's about a 10–15 minute drive from the city center.
   - q: How much does a visit typically cost?
-    a: >-
-      Exact prices vary and change over time, but it's positioned as a specialty
-      coffee and brunch café, so expect café-level pricing for coffee and mains
-      — confirm current menu prices on-site or via their social media before
-      visiting.
+    a: Exact prices vary and change over time, but it's positioned as a specialty coffee and brunch café, so expect café-level pricing for coffee and mains — confirm current menu prices on-site or via their social media before visiting.
   - q: What's the best time to visit to avoid crowds?
-    a: >-
-      Weekday mornings between about 9:30 and 11:30 AM are calmest. Weekends,
-      especially Saturday afternoons, are the busiest as it draws heavy local
-      and out-of-town foot traffic.
+    a: Weekday mornings between about 9:30 and 11:30 AM are calmest. Weekends, especially Saturday afternoons, are the busiest as it draws heavy local and out-of-town foot traffic.
   - q: How long should I plan to stay?
-    a: >-
-      Plan for at least an hour, closer to 1.5 hours if you want to explore the
-      heritage building, order food, and find seating during busier periods.
+    a: Plan for at least an hour, closer to 1.5 hours if you want to explore the heritage building, order food, and find seating during busier periods.
   - q: What else is nearby?
-    a: >-
-      Jl. Riau is a well-known factory outlet and colonial-heritage shopping
-      street, so it's easy to pair this visit with browsing nearby clothing
-      outlets and other heritage buildings along the same road.
+    a: Jl. Riau is a well-known factory outlet and colonial-heritage shopping street, so it's easy to pair this visit with browsing nearby clothing outlets and other heritage buildings along the same road.
 aiGenerated: true
 updatedDate: '2026-07-26'
+draft: true
 ---
 
 ## Why go

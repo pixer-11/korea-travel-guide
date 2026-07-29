@@ -1,18 +1,18 @@
 ---
-title: "Cheaper & Better Street Food: Where to Eat in Bangkok"
+title: 'Cheaper & Better Street Food: Where to Eat in Bangkok'
 description: Head to Soi Silom 20 (Silom Soi 20), a narrow lunchtime alley off Silom Road in Bang Rak, for a cluster of stalls including the highly rated \"Cheaper &
 country: Thailand
 region: Bangkok
 category: restaurant
-pubDate: "2026-07-22T09:25:55.413Z"
+pubDate: '2026-07-22T09:25:55.413Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/6135150_Bw7nE-r0VS3z35WOGLooimPlrz1c4C6FIPKO-TDo7wY.jpg
-  credit: "Photo: Foursquare user content (CHEAPER & BETTER)"
+  url: https://fastly.4sqi.net/img/general/original/88336484_5BFi2HoRczOqjHhBbXDAYfOAdmb-jRnDxUAURfYMjio.jpg
+  credit: 'Photo: Foursquare user content (CHEAPER & BETTER)'
   license: foursquare
   source: https://foursquare.com/v/56d41b96cd101bd7e535aaeb
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/140039019_F2qKHWenLcn5FNMwA0fQX08OonVTnmH9FTgVuXcb7gY.jpg
-    credit: "Photo: Foursquare user content (CHEAPER & BETTER)"
+    credit: 'Photo: Foursquare user content (CHEAPER & BETTER)'
     license: foursquare
     source: https://foursquare.com/v/56d41b96cd101bd7e535aaeb
 place:
@@ -27,7 +27,7 @@ place:
   lat: 13.725069999999999
   lng: 100.52293379999999
   busyness:
-    updated: "2026-07-23"
+    updated: '2026-07-23'
     weekdayQuiet:
       - 14
       - 15
@@ -51,13 +51,13 @@ place:
     venueId: ven_5942413571635270474e7052416a345947396b436c574c4a496843
   phone: 083 817 4446
   openingHours:
-    - "Monday: 12:00 – 11:00 PM"
-    - "Tuesday: 12:00 – 11:00 PM"
-    - "Wednesday: 12:00 – 11:00 PM"
-    - "Thursday: 12:00 – 11:00 PM"
-    - "Friday: 12:00 – 11:00 PM"
-    - "Saturday: 12:00 – 11:00 PM"
-    - "Sunday: 12:00 – 11:00 PM"
+    - 'Monday: 12:00 – 11:00 PM'
+    - 'Tuesday: 12:00 – 11:00 PM'
+    - 'Wednesday: 12:00 – 11:00 PM'
+    - 'Thursday: 12:00 – 11:00 PM'
+    - 'Friday: 12:00 – 11:00 PM'
+    - 'Saturday: 12:00 – 11:00 PM'
+    - 'Sunday: 12:00 – 11:00 PM'
 tags:
   - bangkok
   - street food
@@ -74,7 +74,7 @@ faq:
   - q: What else is nearby?
     a: Patpong night market is a short walk north, and Lumphini Park is about 10-15 minutes on foot to the east, making this an easy add-on to a Silom-area itinerary.
 aiGenerated: true
-updatedDate: "2026-07-24"
+updatedDate: '2026-07-24'
 ---
 
 ## Why Soi Silom 20 Matters

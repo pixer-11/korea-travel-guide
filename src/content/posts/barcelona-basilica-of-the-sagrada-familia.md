@@ -6,7 +6,7 @@ region: Barcelona
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/21699186_yN83CHxCysGMhHNFMPlQjlqSMy_kKOF4gy-DNFqGO74.jpg
+  url: https://fastly.4sqi.net/img/general/original/142920510_5MNmXEb8ip1sdHdwvIBgAEOa1j8sQHOlIP2mixeKSws.jpg
   credit: 'Photo: Foursquare user content (The Basilica of the Sagrada Familia (Temple Expiatori de la Sagrada Família))'
   license: foursquare
   source: https://foursquare.com/v/4adcda50f964a520544121e3
@@ -52,7 +52,7 @@ place:
       - 16
       - 17
     venueId: ven_734a32714b3847446e4d555249427069794e3239735f6b4a496843
-  phone: '932 08 04 14'
+  phone: 932 08 04 14
   openingHours:
     - 'Monday: 9:00 AM – 8:00 PM'
     - 'Tuesday: 9:00 AM – 8:00 PM'

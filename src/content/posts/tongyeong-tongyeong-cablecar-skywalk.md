@@ -36,7 +36,7 @@ faq:
   - q: What else is nearby?
     a: Dongpirang Mural Village and Jungang Market, both known for seafood and the local chungmu gimbap, are a short drive from the cable car base station and pair well with a half-day visit.
 aiGenerated: true
-draft: false
+draft: true
 country: South Korea
 ---
 

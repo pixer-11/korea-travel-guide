@@ -1,51 +1,50 @@
 ---
-title: "Víctor Montes: Where to Eat in Bilbao"
-description: "Víctor Montes sits on Plaza Nueva (Plaza Berria) in Bilbao's Casco Viejo, in a handsome former market building with a painted facade—come for classic Basque"
-country: "Spain"
-region: "Bilbao"
-category: "restaurant"
-pubDate: "2026-07-28T10:08:33.058Z"
+title: 'Víctor Montes: Where to Eat in Bilbao'
+description: Víctor Montes sits on Plaza Nueva (Plaza Berria) in Bilbao's Casco Viejo, in a handsome former market building with a painted facade—come for classic Basque
+country: Spain
+region: Bilbao
+category: restaurant
+pubDate: '2026-07-28T10:08:33.058Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Restaurant_traditionnel_Victor_Montes_%28Plaza_Nueva_%C3%A0_Bilbao%29_%283452776026%29.jpg"
-  credit: "Photo: dalbera from Paris, France / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Restaurant_traditionnel_Victor_Montes_(Plaza_Nueva_%C3%A0_Bilbao)_(3452776026).jpg"
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/12849932_kaIxMuSIcWjAgrq3q9uwCjf80vkuMJgpLuHuaTE7S50.jpg
+  credit: 'Photo: Foursquare user content (Víctor Montes)'
+  license: foursquare
+  source: https://foursquare.com/v/4b9aa998f964a520ddca35e3
 place:
-  id: "ChIJfW8y1c1PTg0RsCMs2FPQIiM"
-  name: "Víctor Montes"
-  address: "Pl. Berria, 8, Ibaiondo, 48005 Bilbao, Bizkaia, Spain"
+  id: ChIJfW8y1c1PTg0RsCMs2FPQIiM
+  name: Víctor Montes
+  address: Pl. Berria, 8, Ibaiondo, 48005 Bilbao, Bizkaia, Spain
   rating: 4.4
   userRatingsTotal: 5007
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=2531814999063274416&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=2531814999063274416&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.2589036
   lng: -2.9223596
-  phone: "944 15 70 67"
+  phone: 944 15 70 67
   openingHours:
-    - "Monday: 11:00 AM – 11:00 PM"
-    - "Tuesday: 11:00 AM – 11:00 PM"
-    - "Wednesday: 11:00 AM – 11:00 PM"
-    - "Thursday: 11:00 AM – 11:00 PM"
-    - "Friday: 11:00 AM – 12:00 AM"
-    - "Saturday: 11:00 AM – 12:00 AM"
-    - "Sunday: 11:00 AM – 11:00 PM"
+    - 'Monday: 11:00 AM – 11:00 PM'
+    - 'Tuesday: 11:00 AM – 11:00 PM'
+    - 'Wednesday: 11:00 AM – 11:00 PM'
+    - 'Thursday: 11:00 AM – 11:00 PM'
+    - 'Friday: 11:00 AM – 12:00 AM'
+    - 'Saturday: 11:00 AM – 12:00 AM'
+    - 'Sunday: 11:00 AM – 11:00 PM'
 tags:
-  - "bilbao"
-  - "local restaurant"
-quickAnswer: "Víctor Montes sits on Plaza Nueva (Plaza Berria) in Bilbao's Casco Viejo, in a handsome former market building with a painted facade—come for classic Basque pintxos at the bar and a mid-range sit-down menu in back. It's genuinely popular (4.4 stars, over 5,000 reviews), so aim for a weekday lunch around 1pm or an early evening pintxo run before 8pm to dodge the crush. Budget €3-5 per pintxo standing at the bar, more for a seated meal."
+  - bilbao
+  - local restaurant
+quickAnswer: Víctor Montes sits on Plaza Nueva (Plaza Berria) in Bilbao's Casco Viejo, in a handsome former market building with a painted facade—come for classic Basque pintxos at the bar and a mid-range sit-down menu in back. It's genuinely popular (4.4 stars, over 5,000 reviews), so aim for a weekday lunch around 1pm or an early evening pintxo run before 8pm to dodge the crush. Budget €3-5 per pintxo standing at the bar, more for a seated meal.
 faq:
-  - q: "How do I get to Víctor Montes?"
-    a: "It's on Plaza Nueva (Plaza Berria) in Casco Viejo. The nearest metro stop is Casco Viejo (Lines 1 and 2), about a 5-minute walk, or a scenic 20-minute riverside walk from the Guggenheim area."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Weekday lunch before 1pm is calmer. Avoid weekends and anytime after 8pm on weekdays, when the counter gets three-deep with people waiting for pintxos."
-  - q: "How much should I budget?"
-    a: "It's mid-range for Bilbao. Standing pintxos with a drink run roughly €3-5 each, while a full seated meal in the dining room costs considerably more per person."
-  - q: "Should I eat at the bar or book a table?"
-    a: "For a quick pintxos sampling, just walk up to the counter and grab a plate—no reservation needed. For the sit-down menu in the back dining room, especially on weekend evenings, it's worth asking ahead about a table."
-  - q: "What should I order?"
-    a: "Start with the tortilla de patata, bacalao pintxos, and jamón-topped bread, paired with a glass of txakoli or a caña of beer. The seasonal specials on the chalkboard near the register are also worth trying."
+  - q: How do I get to Víctor Montes?
+    a: It's on Plaza Nueva (Plaza Berria) in Casco Viejo. The nearest metro stop is Casco Viejo (Lines 1 and 2), about a 5-minute walk, or a scenic 20-minute riverside walk from the Guggenheim area.
+  - q: What's the best time to visit to avoid crowds?
+    a: Weekday lunch before 1pm is calmer. Avoid weekends and anytime after 8pm on weekdays, when the counter gets three-deep with people waiting for pintxos.
+  - q: How much should I budget?
+    a: It's mid-range for Bilbao. Standing pintxos with a drink run roughly €3-5 each, while a full seated meal in the dining room costs considerably more per person.
+  - q: Should I eat at the bar or book a table?
+    a: For a quick pintxos sampling, just walk up to the counter and grab a plate—no reservation needed. For the sit-down menu in the back dining room, especially on weekend evenings, it's worth asking ahead about a table.
+  - q: What should I order?
+    a: Start with the tortilla de patata, bacalao pintxos, and jamón-topped bread, paired with a glass of txakoli or a caña of beer. The seasonal specials on the chalkboard near the register are also worth trying.
 aiGenerated: true
 draft: false
 ---

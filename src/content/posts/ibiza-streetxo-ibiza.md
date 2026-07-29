@@ -21,7 +21,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 38.8845894
   lng: 1.4035898999999998
-  phone: '626 38 43 78'
+  phone: 626 38 43 78
   openingHours:
     - 'Monday: 7:00 PM – 1:00 AM'
     - 'Tuesday: 7:00 PM – 1:00 AM'
@@ -46,7 +46,7 @@ faq:
   - q: How do I get there at night?
     a: Pre-book a taxi or car service rather than hailing one on the spot — Ibiza's taxi availability tightens considerably during peak summer evenings, particularly around dinner and club hours.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why StreetXO Ibiza Matters

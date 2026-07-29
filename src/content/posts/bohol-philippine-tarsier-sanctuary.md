@@ -1,53 +1,53 @@
 ---
-title: "Philippine Tarsier Sanctuary: Bohol Travel Guide"
-description: "The Philippine Tarsier Sanctuary in Corella, about 20–25 minutes from Tagbilaran City, is the most reliable place on Bohol to see wild tarsiers up close in"
-country: "Philippines"
-region: "Bohol"
-category: "hidden-gem"
-pubDate: "2026-07-29T10:09:48.653Z"
+title: 'Philippine Tarsier Sanctuary: Bohol Travel Guide'
+description: The Philippine Tarsier Sanctuary in Corella, about 20–25 minutes from Tagbilaran City, is the most reliable place on Bohol to see wild tarsiers up close in
+country: Philippines
+region: Bohol
+category: hidden-gem
+pubDate: '2026-07-29T10:09:48.653Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Philippine_Tarsier_Bohol.jpg/1920px-Philippine_Tarsier_Bohol.jpg"
-  credit: "Photo: John Martin PERRY / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Philippine_Tarsier_Bohol.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Philippine_Tarsier_Sanctuary_entrance.jpg/3840px-Philippine_Tarsier_Sanctuary_entrance.jpg
+  credit: 'Photo: ACTA314 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Philippine_Tarsier_Sanctuary_entrance.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tarsier_Sanctuary%2C_Corella%2C_Bohol_%282052878890%29.jpg/1920px-Tarsier_Sanctuary%2C_Corella%2C_Bohol_%282052878890%29.jpg"
-    credit: "Photo: yeowatzup / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Tarsier_Sanctuary,_Corella,_Bohol_(2052878890).jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tarsier_Sanctuary%2C_Corella%2C_Bohol_%282052878890%29.jpg/1920px-Tarsier_Sanctuary%2C_Corella%2C_Bohol_%282052878890%29.jpg
+    credit: 'Photo: yeowatzup / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Tarsier_Sanctuary,_Corella,_Bohol_(2052878890).jpg
 place:
-  id: "ChIJiygR7CVJqjMRN6KOwTPZm78"
-  name: "Philippine Tarsier Sanctuary"
-  address: "Tarsier Sunctuary Rd, Corella, Bohol, Philippines"
+  id: ChIJiygR7CVJqjMRN6KOwTPZm78
+  name: Philippine Tarsier Sanctuary
+  address: Tarsier Sunctuary Rd, Corella, Bohol, Philippines
   rating: 4.3
   userRatingsTotal: 3895
-  googleMapsUrl: "https://maps.google.com/?cid=13806867898948297271&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=13806867898948297271&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 9.6907827
   lng: 123.9526892
   openingHours:
-    - "Monday: 8:30 AM – 3:30 PM"
-    - "Tuesday: 8:30 AM – 3:30 PM"
-    - "Wednesday: 8:30 AM – 3:30 PM"
-    - "Thursday: 8:30 AM – 3:30 PM"
-    - "Friday: 8:30 AM – 3:30 PM"
-    - "Saturday: 8:30 AM – 3:30 PM"
-    - "Sunday: 8:30 AM – 3:00 PM"
+    - 'Monday: 8:30 AM – 3:30 PM'
+    - 'Tuesday: 8:30 AM – 3:30 PM'
+    - 'Wednesday: 8:30 AM – 3:30 PM'
+    - 'Thursday: 8:30 AM – 3:30 PM'
+    - 'Friday: 8:30 AM – 3:30 PM'
+    - 'Saturday: 8:30 AM – 3:30 PM'
+    - 'Sunday: 8:30 AM – 3:00 PM'
 tags:
-  - "bohol"
-  - "hidden gem"
-quickAnswer: "The Philippine Tarsier Sanctuary in Corella, about 20–25 minutes from Tagbilaran City, is the most reliable place on Bohol to see wild tarsiers up close in protected forest rather than in a cage. Budget 45 minutes to an hour, go early in the morning when the animals are least stressed and the forest is coolest, and combine it with the Chocolate Hills and Loboc River loop since they sit along the same inland route."
+  - bohol
+  - hidden gem
+quickAnswer: The Philippine Tarsier Sanctuary in Corella, about 20–25 minutes from Tagbilaran City, is the most reliable place on Bohol to see wild tarsiers up close in protected forest rather than in a cage. Budget 45 minutes to an hour, go early in the morning when the animals are least stressed and the forest is coolest, and combine it with the Chocolate Hills and Loboc River loop since they sit along the same inland route.
 faq:
-  - q: "How do I get to the Philippine Tarsier Sanctuary from Tagbilaran?"
-    a: "It's about 14 km inland in Corella, roughly 20–25 minutes by car, van, or habal-habal (motorcycle taxi). There's no direct public bus, so most visitors go by rented vehicle or as part of a private countryside tour."
-  - q: "How long should I plan to spend there?"
-    a: "The forest boardwalk loop takes 30–45 minutes at a relaxed pace; with the entrance displays, most visits run under an hour."
-  - q: "What's the best time of day to visit?"
-    a: "Go early in the morning shortly after opening, before mid-morning tour groups build up, and while the tarsiers are still settled and calm from the night."
-  - q: "Can I take photos of the tarsiers?"
-    a: "Photos without flash are fine; flash photography and touching the animals are strictly discouraged because tarsiers are extremely stress-sensitive and can die from rough handling."
-  - q: "What else can I combine this with in one day?"
-    a: "Loboc River (river cruise) and the Chocolate Hills in Carmen sit along the same inland route, and Baclayon Church works well as a coastal stop on the way back to Tagbilaran."
+  - q: How do I get to the Philippine Tarsier Sanctuary from Tagbilaran?
+    a: It's about 14 km inland in Corella, roughly 20–25 minutes by car, van, or habal-habal (motorcycle taxi). There's no direct public bus, so most visitors go by rented vehicle or as part of a private countryside tour.
+  - q: How long should I plan to spend there?
+    a: The forest boardwalk loop takes 30–45 minutes at a relaxed pace; with the entrance displays, most visits run under an hour.
+  - q: What's the best time of day to visit?
+    a: Go early in the morning shortly after opening, before mid-morning tour groups build up, and while the tarsiers are still settled and calm from the night.
+  - q: Can I take photos of the tarsiers?
+    a: Photos without flash are fine; flash photography and touching the animals are strictly discouraged because tarsiers are extremely stress-sensitive and can die from rough handling.
+  - q: What else can I combine this with in one day?
+    a: Loboc River (river cruise) and the Chocolate Hills in Carmen sit along the same inland route, and Baclayon Church works well as a coastal stop on the way back to Tagbilaran.
 aiGenerated: true
 draft: false
 ---

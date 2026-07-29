@@ -1,44 +1,44 @@
 ---
-title: "Phi Phi Islands: Phuket Travel Guide"
-description: "The Phi Phi Islands are a day-trip or overnight boat excursion from Phuket, best reached by speedboat (roughly 1–1.5 hours each way) from Rassada Pier or"
-country: "Thailand"
-region: "Phuket"
-category: "attraction"
-pubDate: "2026-07-22T09:07:24.136Z"
+title: 'Phi Phi Islands: Phuket Travel Guide'
+description: The Phi Phi Islands are a day-trip or overnight boat excursion from Phuket, best reached by speedboat (roughly 1–1.5 hours each way) from Rassada Pier or
+country: Thailand
+region: Phuket
+category: attraction
+pubDate: '2026-07-22T09:07:24.136Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/8/8b/An_Island_Cruise_to_Phi_Phi_Islands%2C_Phuket%2C_Thailand_%283179176541%29.jpg"
-  credit: "Photo: Hari K Patibanda / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:An_Island_Cruise_to_Phi_Phi_Islands,_Phuket,_Thailand_(3179176541).jpg"
+  url: https://fastly.4sqi.net/img/general/original/15698837_drxNPJlVapuROMFPYfgZkYuqU087f3gf6-FDtRgUA-w.jpg
+  credit: 'Photo: Foursquare user content (Phi Phi Viewpoint 1)'
+  license: foursquare
+  source: https://foursquare.com/v/50bc7ff3e4b05858848549ca
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Phi_Phi_Island_Phuket_Thailand_-_panoramio_%284%29.jpg/1920px-Phi_Phi_Island_Phuket_Thailand_-_panoramio_%284%29.jpg
     credit: 'Photo: Michelle Maria / Wikimedia Commons (CC BY 3.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Phi_Phi_Island_Phuket_Thailand_-_panoramio_(4).jpg
 place:
-  id: "ChIJDT1Odr4gTjARcZ9UGni4nb8"
-  name: "Phi Phi Islands"
-  address: "Phi Phi Islands, Mueang Krabi District, Krabi, Thailand"
+  id: ChIJDT1Odr4gTjARcZ9UGni4nb8
+  name: Phi Phi Islands
+  address: Phi Phi Islands, Mueang Krabi District, Krabi, Thailand
   rating: 4.6
   userRatingsTotal: 7638
-  googleMapsUrl: "https://maps.google.com/?cid=13807394858565148529&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  googleMapsUrl: https://maps.google.com/?cid=13807394858565148529&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   lat: 7.740738
   lng: 98.77841
 tags:
-  - "phuket"
-  - "Phi Phi Islands"
-quickAnswer: "The Phi Phi Islands are a day-trip or overnight boat excursion from Phuket, best reached by speedboat (roughly 1–1.5 hours each way) from Rassada Pier or Chalong Pier. Go for Maya Bay, the limestone cliffs of Phi Phi Leh, and snorkeling at Pileh Lagoon; budget a full day if you're not staying overnight. Book a tour or ferry a day or two ahead, especially in high season (November–April)."
+  - phuket
+  - Phi Phi Islands
+quickAnswer: The Phi Phi Islands are a day-trip or overnight boat excursion from Phuket, best reached by speedboat (roughly 1–1.5 hours each way) from Rassada Pier or Chalong Pier. Go for Maya Bay, the limestone cliffs of Phi Phi Leh, and snorkeling at Pileh Lagoon; budget a full day if you're not staying overnight. Book a tour or ferry a day or two ahead, especially in high season (November–April).
 faq:
-  - q: "How do I get to the Phi Phi Islands from Phuket?"
-    a: "Take a speedboat or ferry from Rassada Pier or Chalong Pier; speedboats take about 1–1.5 hours, ferries around 2 hours. Most visitors book a day-tour package that includes transfer, snorkeling stops, and lunch."
-  - q: "Is Phi Phi a day trip or should I stay overnight?"
-    a: "A day trip covers the highlights (Maya Bay, Pileh Lagoon, Monkey Beach) but overnighting in Tonsai village or Loh Dalum lets you see the viewpoint at sunrise/sunset and avoid the midday crowds of day-tour boats."
-  - q: "Can you still swim at Maya Bay?"
-    a: "Access and swimming rules have changed periodically as authorities protect the reef from overtourism damage; visits are usually limited to set daytime hours. Check current restrictions with your tour operator before booking."
-  - q: "What's the best time of year to visit?"
-    a: "November to April (dry season) offers calmer seas and clearer water for snorkeling. May to October is monsoon season with rougher water and occasional cancelled boat trips, but fewer crowds and lower prices."
-  - q: "How much time do I need?"
-    a: "A full day is enough to hit the main sights on a standard tour. If you want to hike the viewpoint, dive, or explore Tonsai village at a slower pace, plan for 1–2 nights on Ko Phi Phi Don."
+  - q: How do I get to the Phi Phi Islands from Phuket?
+    a: Take a speedboat or ferry from Rassada Pier or Chalong Pier; speedboats take about 1–1.5 hours, ferries around 2 hours. Most visitors book a day-tour package that includes transfer, snorkeling stops, and lunch.
+  - q: Is Phi Phi a day trip or should I stay overnight?
+    a: A day trip covers the highlights (Maya Bay, Pileh Lagoon, Monkey Beach) but overnighting in Tonsai village or Loh Dalum lets you see the viewpoint at sunrise/sunset and avoid the midday crowds of day-tour boats.
+  - q: Can you still swim at Maya Bay?
+    a: Access and swimming rules have changed periodically as authorities protect the reef from overtourism damage; visits are usually limited to set daytime hours. Check current restrictions with your tour operator before booking.
+  - q: What's the best time of year to visit?
+    a: November to April (dry season) offers calmer seas and clearer water for snorkeling. May to October is monsoon season with rougher water and occasional cancelled boat trips, but fewer crowds and lower prices.
+  - q: How much time do I need?
+    a: A full day is enough to hit the main sights on a standard tour. If you want to hike the viewpoint, dive, or explore Tonsai village at a slower pace, plan for 1–2 nights on Ko Phi Phi Don.
 aiGenerated: true
 draft: false
 ---

@@ -1,45 +1,40 @@
 ---
-title: "Al Noor Island: Sharjah Travel Guide"
-description: "Al Noor Island sits in Khalid Lagoon on Buhairah Corniche in central Sharjah, a short walk or taxi ride from Al Majaz Waterfront."
-country: "United Arab Emirates"
-region: "Sharjah"
-category: "attraction"
-pubDate: "2026-07-23T07:47:07.616Z"
+title: 'Al Noor Island: Sharjah Travel Guide'
+description: Al Noor Island sits in Khalid Lagoon on Buhairah Corniche in central Sharjah, a short walk or taxi ride from Al Majaz Waterfront.
+country: United Arab Emirates
+region: Sharjah
+category: attraction
+pubDate: '2026-07-23T07:47:07.616Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/AL_NOOR_ISLAND_AND_SHARJAH_AL_MAJAZ.jpg/1920px-AL_NOOR_ISLAND_AND_SHARJAH_AL_MAJAZ.jpg"
-  credit: "Photo: SHARON VISHAKHAM / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:AL_NOOR_ISLAND_AND_SHARJAH_AL_MAJAZ.jpg"
-gallery:
-  - url: https://fastly.4sqi.net/img/general/original/21319813_PiE4x8zaxuGW4pZA2WpWe0gqVPA8Pr9duITBDcV6g0E.jpg
-    credit: 'Photo: Foursquare user content (Al Noor Island جزيرة النور)'
-    license: foursquare
-    source: https://foursquare.com/v/566e54a6498ef09a2c921baf
+  url: https://fastly.4sqi.net/img/general/original/21319813_PiE4x8zaxuGW4pZA2WpWe0gqVPA8Pr9duITBDcV6g0E.jpg
+  credit: 'Photo: Foursquare user content (Al Noor Island جزيرة النور)'
+  license: foursquare
+  source: https://foursquare.com/v/566e54a6498ef09a2c921baf
 place:
-  id: "ChIJDxP0NcFbXz4ReEEm2egacAI"
-  name: "Al Noor Island"
-  address: "89MM+RRC Khalid Lagoon، Buhairah - Corniche Road - Al Majaz 1 - Al Majaz - Sharjah - United Arab Emirates"
+  id: ChIJDxP0NcFbXz4ReEEm2egacAI
+  name: Al Noor Island
+  address: 89MM+RRC Khalid Lagoon، Buhairah - Corniche Road - Al Majaz 1 - Al Majaz - Sharjah - United Arab Emirates
   rating: 4.4
   userRatingsTotal: 3642
-  googleMapsUrl: "https://maps.google.com/?cid=175669972845347192&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=175669972845347192&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.3343834
   lng: 55.3848622
 tags:
-  - "sharjah"
-  - "top attraction"
-quickAnswer: "Al Noor Island sits in Khalid Lagoon on Buhairah Corniche in central Sharjah, a short walk or taxi ride from Al Majaz Waterfront. Budget 1.5–2.5 hours to walk the boardwalk, browse the book pavilion, wander the butterfly house, and see the scattered modern art installations. Go in the late afternoon or early evening, especially in cooler months (October–April), when the light and temperature both work in your favor."
+  - sharjah
+  - top attraction
+quickAnswer: Al Noor Island sits in Khalid Lagoon on Buhairah Corniche in central Sharjah, a short walk or taxi ride from Al Majaz Waterfront. Budget 1.5–2.5 hours to walk the boardwalk, browse the book pavilion, wander the butterfly house, and see the scattered modern art installations. Go in the late afternoon or early evening, especially in cooler months (October–April), when the light and temperature both work in your favor.
 faq:
-  - q: "How do I get to Al Noor Island?"
-    a: "It's located in Khalid Lagoon off Buhairah Corniche Road at Al Majaz 1 in Sharjah. Taxi or ride-hailing apps are the easiest options since no direct bus route serves the entrance bridge; from Dubai, expect a 30–45 minute drive."
-  - q: "How much time should I budget?"
-    a: "Plan for 1.5 to 2.5 hours to walk the full loop, including the butterfly house, book pavilion, art installations, and a coffee stop, without feeling rushed."
-  - q: "What's the best time of day or year to visit?"
-    a: "Late afternoon into early evening works best year-round for light and comfort. October through April offers the most pleasant outdoor temperatures; in summer, an after-sunset visit is far more comfortable than midday."
-  - q: "Is Al Noor Island good for kids?"
-    a: "Yes — there's a dedicated playground alongside the butterfly house and gardens, making it workable as a family outing rather than only a couples' or solo stop."
-  - q: "What else is nearby?"
-    a: "Al Majaz Waterfront sits directly across the lagoon, with its own fountain shows and casual restaurants, making it an easy pairing before or after visiting the island."
+  - q: How do I get to Al Noor Island?
+    a: It's located in Khalid Lagoon off Buhairah Corniche Road at Al Majaz 1 in Sharjah. Taxi or ride-hailing apps are the easiest options since no direct bus route serves the entrance bridge; from Dubai, expect a 30–45 minute drive.
+  - q: How much time should I budget?
+    a: Plan for 1.5 to 2.5 hours to walk the full loop, including the butterfly house, book pavilion, art installations, and a coffee stop, without feeling rushed.
+  - q: What's the best time of day or year to visit?
+    a: Late afternoon into early evening works best year-round for light and comfort. October through April offers the most pleasant outdoor temperatures; in summer, an after-sunset visit is far more comfortable than midday.
+  - q: Is Al Noor Island good for kids?
+    a: Yes — there's a dedicated playground alongside the butterfly house and gardens, making it workable as a family outing rather than only a couples' or solo stop.
+  - q: What else is nearby?
+    a: Al Majaz Waterfront sits directly across the lagoon, with its own fountain shows and casual restaurants, making it an easy pairing before or after visiting the island.
 aiGenerated: true
 draft: false
 ---

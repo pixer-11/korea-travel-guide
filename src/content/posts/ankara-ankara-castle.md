@@ -1,53 +1,53 @@
 ---
-title: "Ankara Castle: Travel Guide"
-description: "Ankara Castle (Ankara Kalesi) crowns the old Kale district on a rocky hill above the city center — climb up in the late afternoon for panoramic views over"
-country: "Turkey"
-region: "Ankara"
-category: "attraction"
-pubDate: "2026-07-26T07:45:29.883Z"
+title: 'Ankara Castle: Travel Guide'
+description: Ankara Castle (Ankara Kalesi) crowns the old Kale district on a rocky hill above the city center — climb up in the late afternoon for panoramic views over
+country: Turkey
+region: Ankara
+category: attraction
+pubDate: '2026-07-26T07:45:29.883Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ankara_Castle.jpg/1920px-Ankara_Castle.jpg"
-  credit: "Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Ankara_Castle.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ankara_Castle.jpg/3840px-Ankara_Castle.jpg
+  credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Ankara_Castle.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Castillo_de_Ankara%2C_Ankara%2C_Turqu%C3%ADa%2C_2024-10-03%2C_DD_47.jpg/1920px-Castillo_de_Ankara%2C_Ankara%2C_Turqu%C3%ADa%2C_2024-10-03%2C_DD_47.jpg
     credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Castillo_de_Ankara,_Ankara,_Turqu%C3%ADa,_2024-10-03,_DD_47.jpg
 place:
-  id: "ChIJezGjUW9O0xQRwAGUkwTgFXQ"
-  name: "Ankara Castle"
-  address: "Kale, 06240 Altındağ/Ankara, Türkiye"
+  id: ChIJezGjUW9O0xQRwAGUkwTgFXQ
+  name: Ankara Castle
+  address: Kale, 06240 Altındağ/Ankara, Türkiye
   rating: 4.4
   userRatingsTotal: 22840
-  googleMapsUrl: "https://maps.google.com/?cid=8364838193171005888&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=8364838193171005888&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 39.9390359
   lng: 32.8654212
   openingHours:
-    - "Monday: 10:00 AM – 8:00 PM"
-    - "Tuesday: 10:00 AM – 8:00 PM"
-    - "Wednesday: 10:00 AM – 8:00 PM"
-    - "Thursday: 10:00 AM – 8:00 PM"
-    - "Friday: 10:00 AM – 8:00 PM"
-    - "Saturday: 8:00 AM – 10:00 PM"
-    - "Sunday: 8:00 AM – 9:00 PM"
+    - 'Monday: 10:00 AM – 8:00 PM'
+    - 'Tuesday: 10:00 AM – 8:00 PM'
+    - 'Wednesday: 10:00 AM – 8:00 PM'
+    - 'Thursday: 10:00 AM – 8:00 PM'
+    - 'Friday: 10:00 AM – 8:00 PM'
+    - 'Saturday: 8:00 AM – 10:00 PM'
+    - 'Sunday: 8:00 AM – 9:00 PM'
 tags:
-  - "ankara"
-  - "top attraction"
-quickAnswer: "Ankara Castle (Ankara Kalesi) crowns the old Kale district on a rocky hill above the city center — climb up in the late afternoon for panoramic views over Ankara's rooftops and minarets, and budget about 1.5–2 hours to wander the walls, towers, and narrow lanes of the historic neighborhood inside. Entry to the walls and streets is free (some tower viewpoints may charge a small fee), and it's a well-visited site, so weekday mornings are calmer than weekend afternoons."
+  - ankara
+  - top attraction
+quickAnswer: Ankara Castle (Ankara Kalesi) crowns the old Kale district on a rocky hill above the city center — climb up in the late afternoon for panoramic views over Ankara's rooftops and minarets, and budget about 1.5–2 hours to wander the walls, towers, and narrow lanes of the historic neighborhood inside. Entry to the walls and streets is free (some tower viewpoints may charge a small fee), and it's a well-visited site, so weekday mornings are calmer than weekend afternoons.
 faq:
-  - q: "How do I get to Ankara Castle from the city center?"
-    a: "Take the Ankaray light rail or a city bus to Ulus Square, then walk uphill about 15–20 minutes through the Atpazarı area following the walls; a taxi can also drop you near the upper gate."
-  - q: "Is there an entrance fee for Ankara Castle?"
-    a: "Walking the walls and exploring the Kale neighborhood's streets is free; some individual tower viewpoints or small museum stops nearby may charge a modest fee, so it's worth confirming current prices on arrival."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors spend 1.5 to 2 hours exploring the walls and old town lanes, longer if you stop for tea at one of the rooftop cafés with a view of the citadel."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Weekday mornings are noticeably calmer than weekend afternoons, when the popular viewpoints along the inner walls get busiest; late afternoon on a weekday combines good light with fewer crowds."
-  - q: "What else can I combine with a visit to the castle?"
-    a: "Anıtkabir (Atatürk's mausoleum) and the Museum of Anatolian Civilizations are both within easy reach of Ulus and pair naturally with a castle visit in the same day."
+  - q: How do I get to Ankara Castle from the city center?
+    a: Take the Ankaray light rail or a city bus to Ulus Square, then walk uphill about 15–20 minutes through the Atpazarı area following the walls; a taxi can also drop you near the upper gate.
+  - q: Is there an entrance fee for Ankara Castle?
+    a: Walking the walls and exploring the Kale neighborhood's streets is free; some individual tower viewpoints or small museum stops nearby may charge a modest fee, so it's worth confirming current prices on arrival.
+  - q: How long should I plan to spend there?
+    a: Most visitors spend 1.5 to 2 hours exploring the walls and old town lanes, longer if you stop for tea at one of the rooftop cafés with a view of the citadel.
+  - q: When is the best time to visit to avoid crowds?
+    a: Weekday mornings are noticeably calmer than weekend afternoons, when the popular viewpoints along the inner walls get busiest; late afternoon on a weekday combines good light with fewer crowds.
+  - q: What else can I combine with a visit to the castle?
+    a: Anıtkabir (Atatürk's mausoleum) and the Museum of Anatolian Civilizations are both within easy reach of Ulus and pair naturally with a castle visit in the same day.
 aiGenerated: true
 draft: false
 ---

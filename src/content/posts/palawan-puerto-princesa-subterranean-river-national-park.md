@@ -1,45 +1,45 @@
 ---
-title: "Puerto Princesa Subterranean River National Park: Palawan Travel Guide"
-description: "Book your Puerto Princesa Underground River tour through an accredited operator or the Puerto Princesa tourism office before you go — same-day permits are"
-country: "Philippines"
-region: "Palawan"
-category: "attraction"
-pubDate: "2026-07-26T07:43:04.004Z"
+title: 'Puerto Princesa Subterranean River National Park: Palawan Travel Guide'
+description: Book your Puerto Princesa Underground River tour through an accredited operator or the Puerto Princesa tourism office before you go — same-day permits are
+country: Philippines
+region: Palawan
+category: attraction
+pubDate: '2026-07-26T07:43:04.004Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Puerto_Princesa_Subterranean_Park%2C_limestone_formations%2C_Palawan%2C_Philippines.jpg/1920px-Puerto_Princesa_Subterranean_Park%2C_limestone_formations%2C_Palawan%2C_Philippines.jpg"
-  credit: "Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Puerto_Princesa_Subterranean_Park,_limestone_formations,_Palawan,_Philippines.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Puerto-Princesa_Subterranean_River_National_Park-112012.jpg/1920px-Puerto-Princesa_Subterranean_River_National_Park-112012.jpg
+  credit: 'Photo: Ron Van Oers / Wikimedia Commons (CC BY-SA 3.0 igo)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Puerto-Princesa_Subterranean_River_National_Park-112012.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Puerto_Princesa_Subterranean_River_National_Park_Palawan_13.jpg/1920px-Puerto_Princesa_Subterranean_River_National_Park_Palawan_13.jpg
     credit: 'Photo: Philip Nalangan / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Puerto_Princesa_Subterranean_River_National_Park_Palawan_13.jpg
 place:
-  id: "ChIJ2S2fQEKRtTMRxH_ykqtdyx4"
-  name: "Puerto Princesa Subterranean River National Park"
-  address: "Puerto Princesa City, Palawan, Philippines"
+  id: ChIJ2S2fQEKRtTMRxH_ykqtdyx4
+  name: Puerto Princesa Subterranean River National Park
+  address: Puerto Princesa City, Palawan, Philippines
   rating: 4.6
   userRatingsTotal: 3494
-  googleMapsUrl: "https://maps.google.com/?cid=2218970232896257988&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=2218970232896257988&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 10.1925595
   lng: 118.92658290000001
 tags:
-  - "palawan"
-  - "top attraction"
-quickAnswer: "Book your Puerto Princesa Underground River tour through an accredited operator or the Puerto Princesa tourism office before you go — same-day permits are capped and often sell out. Arrive at Sabang wharf as early as your permit allows (ideally before 9am), take the 20–25 minute paddled boat ride into the 5-mile limestone cave system, and budget half a day round-trip from the city, including the roughly 1.5–2 hour van or jeepney transfer each way."
+  - palawan
+  - top attraction
+quickAnswer: Book your Puerto Princesa Underground River tour through an accredited operator or the Puerto Princesa tourism office before you go — same-day permits are capped and often sell out. Arrive at Sabang wharf as early as your permit allows (ideally before 9am), take the 20–25 minute paddled boat ride into the 5-mile limestone cave system, and budget half a day round-trip from the city, including the roughly 1.5–2 hour van or jeepney transfer each way.
 faq:
-  - q: "How do I get a permit for the Underground River tour?"
-    a: "Arrange it in advance through the Puerto Princesa City tourism office or an accredited tour operator — daily entries are capped and slots for a specific time are assigned, so booking ahead (not on arrival) is what secures your spot."
-  - q: "How long does the whole trip take from Puerto Princesa City?"
-    a: "Plan on a half-day at minimum: about 1.5–2 hours each way by van or jeepney to Sabang, plus a short boat crossing, then roughly 20–25 minutes inside the cave on the paddled tour."
-  - q: "What's the best time of day and year to visit?"
-    a: "Go during dry season, November to May, for calmer boat crossings and fewer weather-related closures, and aim for the earliest permitted morning slot before midday tour groups arrive."
-  - q: "Is the underground river tour suitable for kids or non-swimmers?"
-    a: "Yes — boats are paddled, not motored, life vests are provided and mandatory, and you stay seated in the boat the entire time, so swimming ability isn't required."
-  - q: "What else is there to do at Sabang besides the cave?"
-    a: "The Monkey Trail, a short boardwalk near the park entrance through mangrove and forest, is a common add-on where you'll likely spot long-tailed macaques and monitor lizards, and Sabang beach is a good lunch stop before heading back."
+  - q: How do I get a permit for the Underground River tour?
+    a: Arrange it in advance through the Puerto Princesa City tourism office or an accredited tour operator — daily entries are capped and slots for a specific time are assigned, so booking ahead (not on arrival) is what secures your spot.
+  - q: How long does the whole trip take from Puerto Princesa City?
+    a: 'Plan on a half-day at minimum: about 1.5–2 hours each way by van or jeepney to Sabang, plus a short boat crossing, then roughly 20–25 minutes inside the cave on the paddled tour.'
+  - q: What's the best time of day and year to visit?
+    a: Go during dry season, November to May, for calmer boat crossings and fewer weather-related closures, and aim for the earliest permitted morning slot before midday tour groups arrive.
+  - q: Is the underground river tour suitable for kids or non-swimmers?
+    a: Yes — boats are paddled, not motored, life vests are provided and mandatory, and you stay seated in the boat the entire time, so swimming ability isn't required.
+  - q: What else is there to do at Sabang besides the cave?
+    a: The Monkey Trail, a short boardwalk near the park entrance through mangrove and forest, is a common add-on where you'll likely spot long-tailed macaques and monitor lizards, and Sabang beach is a good lunch stop before heading back.
 aiGenerated: true
 draft: false
 ---

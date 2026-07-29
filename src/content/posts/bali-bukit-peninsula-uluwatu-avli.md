@@ -6,7 +6,7 @@ region: Bali
 category: restaurant
 pubDate: '2026-07-23'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/1408858710_Kv9008tNTkE9Gtu4qHw413WqY6RN2XOrn28PhKtZF4I.jpg
+  url: https://fastly.4sqi.net/img/general/original/522251798_OdsZOTdl8dQtQ6tkXbxtZ2bK95igES4-oQLM4S9YwEA.jpg
   credit: 'Photo: Foursquare user content (Avli Modern Greek)'
   license: foursquare
   source: https://foursquare.com/v/68a31c3999ca3f5db4bfee4e
@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: -8.8165625
   lng: 115.09581249999998
-  phone: '0812-2663-8787'
+  phone: 0812-2663-8787
   openingHours:
     - 'Monday: 5:00 PM – 12:00 AM'
     - 'Tuesday: 5:00 PM – 12:00 AM'

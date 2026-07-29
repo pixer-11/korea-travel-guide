@@ -1,55 +1,55 @@
 ---
-title: "Trilye Restaurant: Where to Eat in Ankara"
-description: "Trilye is a long-running seafood restaurant in Ankara's Kazım Özalp neighborhood (Çankaya), known for impeccably fresh fish, meze, and pasta in a bright"
-country: "Turkey"
-region: "Ankara"
-category: "restaurant"
-pubDate: "2026-07-27T10:55:23.193Z"
+title: 'Trilye Restaurant: Where to Eat in Ankara'
+description: Trilye is a long-running seafood restaurant in Ankara's Kazım Özalp neighborhood (Çankaya), known for impeccably fresh fish, meze, and pasta in a bright
+country: Turkey
+region: Ankara
+category: restaurant
+pubDate: '2026-07-27T10:55:23.193Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Mixed_plate_in_Trilye%2C_Ankara.jpg/1920px-Mixed_plate_in_Trilye%2C_Ankara.jpg"
-  credit: "Photo: E4024 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Mixed_plate_in_Trilye,_Ankara.jpg"
+  url: https://fastly.4sqi.net/img/general/original/536647529_qS5xpk7AGlr2PAkzNOwUNeiD7ECbZe-KsZqfv3tLH7Y.jpg
+  credit: 'Photo: Foursquare user content (Trilye Restaurant)'
+  license: foursquare
+  source: https://foursquare.com/v/4b9bb938f964a5201d1e36e3
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/60997680_ybVSR8s25XDrSwKCEc8Iw0SA0uyHpQlTC8AOw05zGfA.jpg
     credit: 'Photo: Foursquare user content (Trilye Restaurant)'
     license: foursquare
     source: https://foursquare.com/v/4b9bb938f964a5201d1e36e3
 place:
-  id: "ChIJgWWgw5VP0xQRPb6m-k-HePk"
-  name: "Trilye Restaurant"
-  address: "Kazım Özalp, Kuleli Sokağı No: 32, 06680 Çankaya/Ankara, Türkiye"
+  id: ChIJgWWgw5VP0xQRPb6m-k-HePk
+  name: Trilye Restaurant
+  address: 'Kazım Özalp, Kuleli Sokağı No: 32, 06680 Çankaya/Ankara, Türkiye'
   rating: 4.5
   userRatingsTotal: 3097
   priceLevel: 4
-  googleMapsUrl: "https://maps.google.com/?cid=17976266690226732605&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=17976266690226732605&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 39.8940686
   lng: 32.8719779
-  phone: "(0312) 447 12 00"
+  phone: (0312) 447 12 00
   openingHours:
-    - "Monday: 12:00 PM – 12:00 AM"
-    - "Tuesday: 12:00 PM – 12:00 AM"
-    - "Wednesday: 12:00 PM – 12:00 AM"
-    - "Thursday: 12:00 PM – 12:00 AM"
-    - "Friday: 12:00 PM – 12:00 AM"
-    - "Saturday: 12:00 PM – 12:00 AM"
-    - "Sunday: 12:00 PM – 12:00 AM"
+    - 'Monday: 12:00 PM – 12:00 AM'
+    - 'Tuesday: 12:00 PM – 12:00 AM'
+    - 'Wednesday: 12:00 PM – 12:00 AM'
+    - 'Thursday: 12:00 PM – 12:00 AM'
+    - 'Friday: 12:00 PM – 12:00 AM'
+    - 'Saturday: 12:00 PM – 12:00 AM'
+    - 'Sunday: 12:00 PM – 12:00 AM'
 tags:
-  - "ankara"
-  - "local restaurant"
-quickAnswer: "Trilye is a long-running seafood restaurant in Ankara's Kazım Özalp neighborhood (Çankaya), known for impeccably fresh fish, meze, and pasta in a bright, contemporary dining room with outdoor tables. It's on the pricier side and well-known locally, so book ahead for dinner, especially Thursday–Saturday, and expect a fuller room after 8pm."
+  - ankara
+  - local restaurant
+quickAnswer: Trilye is a long-running seafood restaurant in Ankara's Kazım Özalp neighborhood (Çankaya), known for impeccably fresh fish, meze, and pasta in a bright, contemporary dining room with outdoor tables. It's on the pricier side and well-known locally, so book ahead for dinner, especially Thursday–Saturday, and expect a fuller room after 8pm.
 faq:
-  - q: "Where exactly is Trilye Restaurant located?"
-    a: "It's at Kuleli Sokağı No: 32 in the Kazım Özalp neighborhood of Çankaya, Ankara — a short taxi ride from Kızılay and the Tunalı Hilmi shopping area."
-  - q: "Do I need a reservation?"
-    a: "Yes, especially for dinner Thursday through Saturday. It's a well-known, consistently busy restaurant, so booking ahead by phone is strongly recommended."
-  - q: "Is Trilye expensive?"
-    a: "It's on the pricier end for Ankara, reflecting its seafood focus — fish is typically priced by weight and varies daily, so ask your server the day's rate before ordering."
-  - q: "What should I order?"
-    a: "Start with a meze selection, then ask about the day's fresh whole fish, grilled or baked. Pasta and salads are also available if you're not set on seafood."
-  - q: "How do I get there without a car?"
-    a: "Take the Ankaray or Metro to Kızılay station, then a taxi or ride-hail for the final 10-15 minutes into Çankaya, since the neighborhood's streets are hilly with limited parking."
+  - q: Where exactly is Trilye Restaurant located?
+    a: 'It''s at Kuleli Sokağı No: 32 in the Kazım Özalp neighborhood of Çankaya, Ankara — a short taxi ride from Kızılay and the Tunalı Hilmi shopping area.'
+  - q: Do I need a reservation?
+    a: Yes, especially for dinner Thursday through Saturday. It's a well-known, consistently busy restaurant, so booking ahead by phone is strongly recommended.
+  - q: Is Trilye expensive?
+    a: It's on the pricier end for Ankara, reflecting its seafood focus — fish is typically priced by weight and varies daily, so ask your server the day's rate before ordering.
+  - q: What should I order?
+    a: Start with a meze selection, then ask about the day's fresh whole fish, grilled or baked. Pasta and salads are also available if you're not set on seafood.
+  - q: How do I get there without a car?
+    a: Take the Ankaray or Metro to Kızılay station, then a taxi or ride-hail for the final 10-15 minutes into Çankaya, since the neighborhood's streets are hilly with limited parking.
 aiGenerated: true
 draft: false
 ---

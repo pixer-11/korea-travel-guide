@@ -2,7 +2,7 @@
 title: 'Jumunjin Lighthouse ( ): Gangneung Travel Guide'
 description: Jumunjin Lighthouse (주문진등대) is a small white 1918-built lighthouse perched on a hill above Jumunjin Port in Gangneung, best visited in the late afternoon for
 region: Gangneung
-country: "South Korea"
+country: South Korea
 category: trendy
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 37.8977544
   lng: 128.8338509
-  phone: '033-662-2131'
+  phone: 033-662-2131
 tags:
   - gangneung
   - K-drama filming site
@@ -42,6 +42,7 @@ faq:
   - q: What else is nearby?
     a: Jumunjin Port and Fish Market are right at the base of the hill, and Jumunjin Beach is a short drive away, offering a quieter alternative to Gyeongpo Beach in central Gangneung.
 aiGenerated: true
+draft: true
 ---
 
 ## Why go

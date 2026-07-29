@@ -6,7 +6,7 @@ region: Fujairah
 category: restaurant
 pubDate: '2026-07-23T08:01:19.136Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/72215921_jbffYL9pSPRGKB5gEnx1frAhIlSqohK6qWEBBxPezEQ.jpg
+  url: https://fastly.4sqi.net/img/general/original/406410069_4q0AuNGBHpsZYGyEAd1lY4dCohUEXnS-uKggHvDgyJQ.jpg
   credit: 'Photo: Foursquare user content (Al Meshwar Restaurant مطعم المشوار)'
   license: foursquare
   source: https://foursquare.com/v/4c0a241dbbc676b0bd5949d5
@@ -51,7 +51,7 @@ place:
       - 21
       - 22
     venueId: ven_4d322d654837635a35706f52344439347a6f62623339544a496843
-  phone: '09 223 1113'
+  phone: 09 223 1113
   openingHours:
     - 'Monday: 9:00 AM – 1:00 AM'
     - 'Tuesday: 9:00 AM – 1:00 AM'

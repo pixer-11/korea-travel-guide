@@ -6,7 +6,7 @@ region: Tokyo
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/1416138310_W_fnutyZXNan8-rZo90MQHO2U-KRuOg6SnnXebsBX_0.jpg
+  url: https://fastly.4sqi.net/img/general/original/1385146177_rWXFXMM8kHCoFT0qgjoFv7-iXwFFwx8AS6pVrTopANU.jpg
   credit: 'Photo: Foursquare user content (Senso-ji Temple (浅草寺))'
   license: foursquare
   source: https://foursquare.com/v/4b0587a1f964a5207f9d22e3

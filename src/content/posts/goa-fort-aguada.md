@@ -1,53 +1,53 @@
 ---
-title: "Fort Aguada: Goa Travel Guide"
-description: "Fort Aguada sits on the headland above Sinquerim beach at the mouth of the Mandovi River, about 30–40 minutes by taxi from Dabolim/Goa airport and 15 minutes"
-country: "India"
-region: "Goa"
-category: "attraction"
-pubDate: "2026-07-26T07:50:45.452Z"
+title: 'Fort Aguada: Goa Travel Guide'
+description: Fort Aguada sits on the headland above Sinquerim beach at the mouth of the Mandovi River, about 30–40 minutes by taxi from Dabolim/Goa airport and 15 minutes
+country: India
+region: Goa
+category: attraction
+pubDate: '2026-07-26T07:50:45.452Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Fort_Aguada_Remote_view_25012016.jpg/1920px-Fort_Aguada_Remote_view_25012016.jpg"
-  credit: "Photo: Nikhilb239 / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Fort_Aguada_Remote_view_25012016.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/a/ad/Fort_aguada.jpg
+  credit: 'Photo: Nanasur at English Wikipedia / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Fort_aguada.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Aguada_Fort_Top_View%2C_North_Goa.jpg/1920px-Aguada_Fort_Top_View%2C_North_Goa.jpg
     credit: 'Photo: Rupeshsarkar / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Aguada_Fort_Top_View,_North_Goa.jpg
 place:
-  id: "ChIJa72MxnXBvzsRHHtpszB2g6M"
-  name: "Fort Aguada"
-  address: "Fort Aguada Rd, Aguada Fort Area, Candolim, Goa 403515, India"
+  id: ChIJa72MxnXBvzsRHHtpszB2g6M
+  name: Fort Aguada
+  address: Fort Aguada Rd, Aguada Fort Area, Candolim, Goa 403515, India
   rating: 4.2
   userRatingsTotal: 110957
-  googleMapsUrl: "https://maps.google.com/?cid=11782391001671891740&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=11782391001671891740&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 15.492251900000001
   lng: 73.77374619999999
   openingHours:
-    - "Monday: 9:30 AM – 6:00 PM"
-    - "Tuesday: 9:30 AM – 6:00 PM"
-    - "Wednesday: 9:30 AM – 6:00 PM"
-    - "Thursday: 9:30 AM – 6:00 PM"
-    - "Friday: 9:30 AM – 6:00 PM"
-    - "Saturday: 9:30 AM – 6:00 PM"
-    - "Sunday: 9:30 AM – 6:00 PM"
+    - 'Monday: 9:30 AM – 6:00 PM'
+    - 'Tuesday: 9:30 AM – 6:00 PM'
+    - 'Wednesday: 9:30 AM – 6:00 PM'
+    - 'Thursday: 9:30 AM – 6:00 PM'
+    - 'Friday: 9:30 AM – 6:00 PM'
+    - 'Saturday: 9:30 AM – 6:00 PM'
+    - 'Sunday: 9:30 AM – 6:00 PM'
 tags:
-  - "goa"
-  - "top attraction"
-quickAnswer: "Fort Aguada sits on the headland above Sinquerim beach at the mouth of the Mandovi River, about 30–40 minutes by taxi from Dabolim/Goa airport and 15 minutes from Panaji. Go early morning (before 9:30am) or late afternoon toward sunset to avoid the tour-bus crush, and budget 1–1.5 hours to walk the ramparts and lighthouse. It's a genuinely well-visited landmark, not a secret, so plan around the crowds rather than expecting solitude."
+  - goa
+  - top attraction
+quickAnswer: Fort Aguada sits on the headland above Sinquerim beach at the mouth of the Mandovi River, about 30–40 minutes by taxi from Dabolim/Goa airport and 15 minutes from Panaji. Go early morning (before 9:30am) or late afternoon toward sunset to avoid the tour-bus crush, and budget 1–1.5 hours to walk the ramparts and lighthouse. It's a genuinely well-visited landmark, not a secret, so plan around the crowds rather than expecting solitude.
 faq:
-  - q: "How do I get to Fort Aguada without a car?"
-    a: "Take a taxi or app-based cab from anywhere in North Goa — it's about 30–40 minutes from Dabolim airport and 15–20 minutes from Panaji. Renting a scooter is also common if you're staying in Candolim, Calangute, or Sinquerim, all a short ride away."
-  - q: "How much time should I set aside?"
-    a: "Plan for 60–90 minutes to walk the ramparts, lighthouse area, and old jail section at an unhurried pace, plus extra time if you want to walk down to Sinquerim beach afterward."
-  - q: "When is it least crowded?"
-    a: "Right at opening in the morning is your best bet for smaller crowds; late afternoon near sunset looks the most beautiful but is also the busiest window, since it draws the same crowd chasing the same light."
-  - q: "Is there an entry fee?"
-    a: "Yes, there's a modest ticketed entry fee typical of government-maintained monuments in India — carry small cash since card payment isn't always reliable at the gate, and check current rates locally as they can change."
-  - q: "What else is nearby?"
-    a: "Sinquerim beach sits right below the fort, and the Taj Fort Aguada resort occupies part of the old fort grounds. Candolim and Calangute beaches are a short drive north if you want to extend the day."
+  - q: How do I get to Fort Aguada without a car?
+    a: Take a taxi or app-based cab from anywhere in North Goa — it's about 30–40 minutes from Dabolim airport and 15–20 minutes from Panaji. Renting a scooter is also common if you're staying in Candolim, Calangute, or Sinquerim, all a short ride away.
+  - q: How much time should I set aside?
+    a: Plan for 60–90 minutes to walk the ramparts, lighthouse area, and old jail section at an unhurried pace, plus extra time if you want to walk down to Sinquerim beach afterward.
+  - q: When is it least crowded?
+    a: Right at opening in the morning is your best bet for smaller crowds; late afternoon near sunset looks the most beautiful but is also the busiest window, since it draws the same crowd chasing the same light.
+  - q: Is there an entry fee?
+    a: Yes, there's a modest ticketed entry fee typical of government-maintained monuments in India — carry small cash since card payment isn't always reliable at the gate, and check current rates locally as they can change.
+  - q: What else is nearby?
+    a: Sinquerim beach sits right below the fort, and the Taj Fort Aguada resort occupies part of the old fort grounds. Candolim and Calangute beaches are a short drive north if you want to extend the day.
 aiGenerated: true
 draft: false
 ---

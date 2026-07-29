@@ -1,20 +1,15 @@
 ---
-title: "Manly: Fukuoka Travel Guide"
+title: 'Manly: Fukuoka Travel Guide'
 description: Manly is an Australian-themed all-day café in Imaizumi, a short walk south of Tenjin, best known for fluffy ricotta hotcakes, all-day breakfast plates, and
 country: Japan
 region: Fukuoka
 category: trendy
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/146963046_1d5B5BfUldW4Mu6Hbe4nn4caSIXklUdmfHIA_6RaUCI.jpg
-  credit: "Photo: Foursquare user content (Australian Cafe & Bar Manly)"
+  url: https://fastly.4sqi.net/img/general/original/81002774_x_ji6d2X6LgOdAwWt7uq6Nx85lMltF8iAdrMgg2WF3A.jpg
+  credit: 'Photo: Foursquare user content (Australian Cafe & Bar Manly)'
   license: foursquare
   source: https://foursquare.com/v/4b5b26f3f964a520dae628e3
-gallery:
-  - url: https://fastly.4sqi.net/img/general/original/81002774_x_ji6d2X6LgOdAwWt7uq6Nx85lMltF8iAdrMgg2WF3A.jpg
-    credit: "Photo: Foursquare user content (Australian Cafe & Bar Manly)"
-    license: foursquare
-    source: https://foursquare.com/v/4b5b26f3f964a520dae628e3
 place:
   id: ChIJEwPd7ISRQTURvlcwQX4s9xM
   name: Manly
@@ -27,7 +22,7 @@ place:
   lat: 33.5848065
   lng: 130.3989908
   busyness:
-    updated: "2026-07-23"
+    updated: '2026-07-23'
     weekdayQuiet:
       - 22
     weekdayBusy:
@@ -45,13 +40,13 @@ place:
     venueId: ven_4d78397334585177636c765255545152534937645077454a496843
   phone: 092-791-7738
   openingHours:
-    - "Monday: 11:00 AM – 10:00 PM"
-    - "Tuesday: 11:00 AM – 10:00 PM"
-    - "Wednesday: 11:00 AM – 10:00 PM"
-    - "Thursday: 11:00 AM – 10:00 PM"
-    - "Friday: 11:00 AM – 11:00 PM"
-    - "Saturday: 11:00 AM – 11:00 PM"
-    - "Sunday: 11:00 AM – 10:00 PM"
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 11:00 PM'
+    - 'Saturday: 11:00 AM – 11:00 PM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
 tags:
   - fukuoka
   - trendy cafe
@@ -68,7 +63,7 @@ faq:
   - q: When is the best time to visit to avoid crowds?
     a: Weekday mornings right at opening (11am) through noon are calmer; weekend brunch hours, especially Saturday midday, are the busiest given its strong local following.
 aiGenerated: true
-updatedDate: "2026-07-24"
+updatedDate: '2026-07-24'
 ---
 
 ## Why Manly stands out in Fukuoka's café scene

@@ -1,44 +1,44 @@
 ---
-title: "Positano: Amalfi Coast Travel Guide"
-description: "Positano is best visited as a 1–2 night stay or a well-timed day trip from Sorrento or Amalfi, arriving by SITA bus or ferry rather than car."
-country: "Italy"
-region: "Amalfi Coast"
-category: "attraction"
-pubDate: 2026-07-21
+title: 'Positano: Amalfi Coast Travel Guide'
+description: Positano is best visited as a 1–2 night stay or a well-timed day trip from Sorrento or Amalfi, arriving by SITA bus or ferry rather than car.
+country: Italy
+region: Amalfi Coast
+category: attraction
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Positano_%28Italy%29_04.jpg/1920px-Positano_%28Italy%29_04.jpg"
-  credit: "Photo: Bernard Gagnon / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Positano_(Italy)_04.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Positano_%28Italy%29_04.jpg/1920px-Positano_%28Italy%29_04.jpg
+  credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Positano_(Italy)_04.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Positano_%28Italy%29_02.jpg/1920px-Positano_%28Italy%29_02.jpg
     credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC BY 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Positano_(Italy)_02.jpg
 place:
-  id: "ChIJL3Qtj2-XOxMRu2koMaPqy8A"
-  name: "Positano"
-  address: "Positano, SA, Italy"
-  googleMapsUrl: "https://maps.google.com/?cid=13892455462179727803&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  id: ChIJL3Qtj2-XOxMRu2koMaPqy8A
+  name: Positano
+  address: Positano, SA, Italy
+  googleMapsUrl: https://maps.google.com/?cid=13892455462179727803&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   lat: 40.6294837
   lng: 14.482348700000001
 tags:
-  - "amalfi coast"
-  - "Positano"
-quickAnswer: "Positano is best visited as a 1–2 night stay or a well-timed day trip from Sorrento or Amalfi, arriving by SITA bus or ferry rather than car. Spend your time walking down (not up) Via dei Mulini to Spiaggia Grande, eat lakeside at a beach-club terrace, and go in May, June or late September to skip the August crush. Budget a full day minimum — the town rewards slow wandering more than a checklist visit."
+  - amalfi coast
+  - Positano
+quickAnswer: Positano is best visited as a 1–2 night stay or a well-timed day trip from Sorrento or Amalfi, arriving by SITA bus or ferry rather than car. Spend your time walking down (not up) Via dei Mulini to Spiaggia Grande, eat lakeside at a beach-club terrace, and go in May, June or late September to skip the August crush. Budget a full day minimum — the town rewards slow wandering more than a checklist visit.
 faq:
-  - q: "How do I get to Positano without a car?"
-    a: "Take the SITA Sud bus along the SS163 coastal road from Sorrento, Amalfi, or Salerno, or catch a seasonal ferry/hydrofoil (roughly April–October) from those same towns plus Naples and Capri. Ferries are often faster and give better views."
-  - q: "How much time do I need in Positano?"
-    a: "A half-day is enough to walk the main staircases, see the church, and have lunch by the beach, but an overnight stay lets you enjoy the town in the quieter early morning and evening hours and avoid doing it all in day-trip crowds."
-  - q: "When is the best time to visit Positano?"
-    a: "Late May–June and mid-September–early October offer warm sea temperatures with fewer crowds than peak summer. July–August is hottest and busiest; November–March/April sees many businesses closed."
-  - q: "Is Positano walkable, and should I drive there?"
-    a: "It's walkable but very steep, built almost entirely as staircases down a cliff. Driving is not recommended — the coastal road is narrow and parking is limited and costly; most visitors leave cars in Sorrento or Naples and use buses or ferries."
-  - q: "What's the best beach in Positano?"
-    a: "Spiaggia Grande is the main beach right in town, with cafés and beach clubs; Spiaggia di Fornillo, a short walk or boat ride west, is smaller and less crowded."
+  - q: How do I get to Positano without a car?
+    a: Take the SITA Sud bus along the SS163 coastal road from Sorrento, Amalfi, or Salerno, or catch a seasonal ferry/hydrofoil (roughly April–October) from those same towns plus Naples and Capri. Ferries are often faster and give better views.
+  - q: How much time do I need in Positano?
+    a: A half-day is enough to walk the main staircases, see the church, and have lunch by the beach, but an overnight stay lets you enjoy the town in the quieter early morning and evening hours and avoid doing it all in day-trip crowds.
+  - q: When is the best time to visit Positano?
+    a: Late May–June and mid-September–early October offer warm sea temperatures with fewer crowds than peak summer. July–August is hottest and busiest; November–March/April sees many businesses closed.
+  - q: Is Positano walkable, and should I drive there?
+    a: It's walkable but very steep, built almost entirely as staircases down a cliff. Driving is not recommended — the coastal road is narrow and parking is limited and costly; most visitors leave cars in Sorrento or Naples and use buses or ferries.
+  - q: What's the best beach in Positano?
+    a: Spiaggia Grande is the main beach right in town, with cafés and beach clubs; Spiaggia di Fornillo, a short walk or boat ride west, is smaller and less crowded.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Positano

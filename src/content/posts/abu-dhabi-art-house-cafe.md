@@ -1,19 +1,15 @@
 ---
 title: 'Art House Cafe: Abu Dhabi Travel Guide'
-description: >-
-  Art House Cafe sits inside the Etihad Modern Art Gallery in Abu Dhabi's Al
-  Bateen neighborhood, a colorful, plant-filled spot known for all-day
-  breakfasts
+description: Art House Cafe sits inside the Etihad Modern Art Gallery in Abu Dhabi's Al Bateen neighborhood, a colorful, plant-filled spot known for all-day breakfasts
 country: United Arab Emirates
 region: Abu Dhabi
 category: trendy
 pubDate: '2026-07-23T07:55:38.824Z'
 heroImage:
-  url: >-
-    https://fastly.4sqi.net/img/general/original/862678_9l59qYvHG6TUMtRzcgS91YY5D5mFWBywhgl2p1MM82o.jpg
+  url: https://fastly.4sqi.net/img/general/original/862678_9l59qYvHG6TUMtRzcgS91YY5D5mFWBywhgl2p1MM82o.jpg
   credit: 'Photo: Foursquare user content (Art House Cafe)'
   license: foursquare
-  source: 'https://foursquare.com/v/53ff53b9498ef90189445fe5'
+  source: https://foursquare.com/v/53ff53b9498ef90189445fe5
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/348024470_UR6p1LsKoCgfd1gP3_gCCFyUaKftzFu_7UHHegy8Ut8.jpg
     credit: 'Photo: Foursquare user content (Art House Cafe)'
@@ -22,14 +18,11 @@ gallery:
 place:
   id: ChIJ_URupwdmXj4R1RBkLIfrkMA
   name: Art House Cafe
-  address: >-
-    Al Huwelat street - Villa No 15 - 4 Al Falah St - opp. Al Bateen - Bateen
-    Area - W17 03 - Abu Dhabi - United Arab Emirates
+  address: Al Huwelat street - Villa No 15 - 4 Al Falah St - opp. Al Bateen - Bateen Area - W17 03 - Abu Dhabi - United Arab Emirates
   rating: 4.6
   userRatingsTotal: 3067
   priceLevel: 2
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=13875849417726365909&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=13875849417726365909&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 24.4605119
   lng: 54.348698999999996
@@ -59,39 +52,21 @@ place:
 tags:
   - abu dhabi
   - trendy cafe
-quickAnswer: >-
-  Art House Cafe sits inside the Etihad Modern Art Gallery in Abu Dhabi's Al
-  Bateen neighborhood, a colorful, plant-filled spot known for all-day
-  breakfasts, sandwiches, and specialty coffee. Go on a weekday morning to enjoy
-  the gallery setting without a wait, and budget 45–90 minutes to eat and browse
-  the art. It's well-known and busy on weekends, so book ahead or arrive early.
+quickAnswer: Art House Cafe sits inside the Etihad Modern Art Gallery in Abu Dhabi's Al Bateen neighborhood, a colorful, plant-filled spot known for all-day breakfasts, sandwiches, and specialty coffee. Go on a weekday morning to enjoy the gallery setting without a wait, and budget 45–90 minutes to eat and browse the art. It's well-known and busy on weekends, so book ahead or arrive early.
 faq:
   - q: Do I need a reservation at Art House Cafe?
-    a: >-
-      It's not always required, but weekends (Friday–Saturday) get busy given
-      its popularity and gallery setting, so calling ahead or booking if
-      possible is recommended, especially for late-morning brunch slots.
+    a: It's not always required, but weekends (Friday–Saturday) get busy given its popularity and gallery setting, so calling ahead or booking if possible is recommended, especially for late-morning brunch slots.
   - q: How do I get to Art House Cafe without a car?
-    a: >-
-      Abu Dhabi has no metro, so use a taxi or ride-hailing app like Careem or
-      Uber. It's roughly a 10–15 minute ride from the central Corniche area to
-      the Al Bateen/Al Falah Street location.
+    a: Abu Dhabi has no metro, so use a taxi or ride-hailing app like Careem or Uber. It's roughly a 10–15 minute ride from the central Corniche area to the Al Bateen/Al Falah Street location.
   - q: What's the price range and what should I order?
-    a: >-
-      It's a mid-range ($$) café. Popular picks include all-day breakfast
-      plates, sandwiches, fresh juices, and specialty coffee or tea.
+    a: It's a mid-range ($$) café. Popular picks include all-day breakfast plates, sandwiches, fresh juices, and specialty coffee or tea.
   - q: How long should I plan to spend there?
-    a: >-
-      Budget 45 minutes for a straightforward meal, or up to 90 minutes if you
-      want to browse the Etihad Modern Art Gallery exhibits woven through the
-      space.
+    a: Budget 45 minutes for a straightforward meal, or up to 90 minutes if you want to browse the Etihad Modern Art Gallery exhibits woven through the space.
   - q: What's nearby if I want to make a half-day of it?
-    a: >-
-      Al Bateen Marina and the western Corniche are a short drive away, and Qasr
-      Al Hosn and the Cultural Foundation are also reachable for a broader
-      arts-and-history outing.
+    a: Al Bateen Marina and the western Corniche are a short drive away, and Qasr Al Hosn and the Cultural Foundation are also reachable for a broader arts-and-history outing.
 aiGenerated: true
 updatedDate: '2026-07-26'
+draft: true
 ---
 
 ## Why go

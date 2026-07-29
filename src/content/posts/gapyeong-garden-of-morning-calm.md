@@ -1,54 +1,49 @@
 ---
-title: "Garden of Morning Calm: Gapyeong Travel Guide"
-description: "The Garden of Morning Calm (아침고요수목원) is a themed botanical garden in Sang-myeon, Gapyeong-gun, about 90 minutes northeast of Seoul — best reached by car"
-country: "South Korea"
-region: "Gapyeong"
-category: "hidden-gem"
-pubDate: "2026-07-27T10:58:25.413Z"
+title: 'Garden of Morning Calm: Gapyeong Travel Guide'
+description: The Garden of Morning Calm (아침고요수목원) is a themed botanical garden in Sang-myeon, Gapyeong-gun, about 90 minutes northeast of Seoul — best reached by car
+country: South Korea
+region: Gapyeong
+category: hidden-gem
+pubDate: '2026-07-27T10:58:25.413Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Lake_in_the_Garden_of_Morning_Calm.jpg/1920px-Lake_in_the_Garden_of_Morning_Calm.jpg"
-  credit: "Photo: Clément Chevallier / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Lake_in_the_Garden_of_Morning_Calm.jpg"
-gallery:
-  - url: https://fastly.4sqi.net/img/general/original/9744875_8moFVS9pd7Ke8jwHM8ktLshGvS-qUFESMr1uQRrvB_k.jpg
-    credit: 'Photo: Foursquare user content (The Garden of Morning Calm (아침고요수목원))'
-    license: foursquare
-    source: https://foursquare.com/v/4ba040a8f964a5204b6437e3
+  url: https://fastly.4sqi.net/img/general/original/9744875_8moFVS9pd7Ke8jwHM8ktLshGvS-qUFESMr1uQRrvB_k.jpg
+  credit: 'Photo: Foursquare user content (The Garden of Morning Calm (아침고요수목원))'
+  license: foursquare
+  source: https://foursquare.com/v/4ba040a8f964a5204b6437e3
 place:
-  id: "ChIJzzJLib-ffDURjaM7pZPPh10"
-  name: "Garden of Morning Calm"
-  address: "432 Sumogwon-ro, Sang-myeon, Gapyeong-gun, Gyeonggi-do, South Korea"
+  id: ChIJzzJLib-ffDURjaM7pZPPh10
+  name: Garden of Morning Calm
+  address: 432 Sumogwon-ro, Sang-myeon, Gapyeong-gun, Gyeonggi-do, South Korea
   rating: 4.4
   userRatingsTotal: 17257
-  googleMapsUrl: "https://maps.google.com/?cid=6739583600422527885&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=6739583600422527885&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.7439678
   lng: 127.35248639999999
-  phone: "1544-6703"
+  phone: 1544-6703
   openingHours:
-    - "Monday: 8:30 AM – 7:00 PM"
-    - "Tuesday: 8:30 AM – 7:00 PM"
-    - "Wednesday: 8:30 AM – 7:00 PM"
-    - "Thursday: 8:30 AM – 7:00 PM"
-    - "Friday: 8:30 AM – 7:00 PM"
-    - "Saturday: 8:30 AM – 7:00 PM"
-    - "Sunday: 8:30 AM – 7:00 PM"
+    - 'Monday: 8:30 AM – 7:00 PM'
+    - 'Tuesday: 8:30 AM – 7:00 PM'
+    - 'Wednesday: 8:30 AM – 7:00 PM'
+    - 'Thursday: 8:30 AM – 7:00 PM'
+    - 'Friday: 8:30 AM – 7:00 PM'
+    - 'Saturday: 8:30 AM – 7:00 PM'
+    - 'Sunday: 8:30 AM – 7:00 PM'
 tags:
-  - "gapyeong"
-  - "hidden gem"
-quickAnswer: "The Garden of Morning Calm (아침고요수목원) is a themed botanical garden in Sang-myeon, Gapyeong-gun, about 90 minutes northeast of Seoul — best reached by car, shuttle bus, or a taxi from Cheongpyeong Station on the Gyeongchun Line. With 17,000+ reviews and a 4.4 rating, it's a well-known destination, not a hidden find, so go on a weekday morning or plan around its seasonal light festivals to avoid the crush. Budget two to three hours to walk the full loop of themed gardens."
+  - gapyeong
+  - hidden gem
+quickAnswer: The Garden of Morning Calm (아침고요수목원) is a themed botanical garden in Sang-myeon, Gapyeong-gun, about 90 minutes northeast of Seoul — best reached by car, shuttle bus, or a taxi from Cheongpyeong Station on the Gyeongchun Line. With 17,000+ reviews and a 4.4 rating, it's a well-known destination, not a hidden find, so go on a weekday morning or plan around its seasonal light festivals to avoid the crush. Budget two to three hours to walk the full loop of themed gardens.
 faq:
-  - q: "How do I get to the Garden of Morning Calm without a car?"
-    a: "Take the Gyeongchun Line train to Cheongpyeong Station, then a taxi (about 20 minutes) or a seasonal shuttle bus to the garden. Many tour operators also run combined Nami Island–Garden of Morning Calm bus trips from Seoul."
-  - q: "How long should I spend there?"
-    a: "Plan on two to three hours to walk the full loop of themed garden sections at a relaxed pace, longer during the winter Lighting Festival when many stay into the evening."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Weekday mornings, right at opening, are calmest. Weekends and holidays, especially during spring bloom and the winter light festival, draw large crowds and tour buses by midday."
-  - q: "What's the best season to go?"
-    a: "Spring for flowering displays, and late autumn through winter (roughly November–March) for the Lighting Festival, when the garden is illuminated after dark. Check current dates before you go, as they shift yearly."
-  - q: "What else is nearby in Gapyeong?"
-    a: "Nami Island is about 20–30 minutes away and is commonly visited on the same day, along with the Petite France theme village."
+  - q: How do I get to the Garden of Morning Calm without a car?
+    a: Take the Gyeongchun Line train to Cheongpyeong Station, then a taxi (about 20 minutes) or a seasonal shuttle bus to the garden. Many tour operators also run combined Nami Island–Garden of Morning Calm bus trips from Seoul.
+  - q: How long should I spend there?
+    a: Plan on two to three hours to walk the full loop of themed garden sections at a relaxed pace, longer during the winter Lighting Festival when many stay into the evening.
+  - q: When is the best time to visit to avoid crowds?
+    a: Weekday mornings, right at opening, are calmest. Weekends and holidays, especially during spring bloom and the winter light festival, draw large crowds and tour buses by midday.
+  - q: What's the best season to go?
+    a: Spring for flowering displays, and late autumn through winter (roughly November–March) for the Lighting Festival, when the garden is illuminated after dark. Check current dates before you go, as they shift yearly.
+  - q: What else is nearby in Gapyeong?
+    a: Nami Island is about 20–30 minutes away and is commonly visited on the same day, along with the Petite France theme village.
 aiGenerated: true
 draft: false
 ---

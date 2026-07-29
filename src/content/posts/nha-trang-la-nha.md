@@ -55,6 +55,7 @@ faq:
   - q: What's nearby if I want to combine the visit with other stops?
     a: Trần Phú Beach promenade and the Nha Trang Night Market are both a short walk or ride from Hồng Bàng, making it easy to pair dinner with an evening beach walk or market browse.
 aiGenerated: true
+draft: true
 ---
 
 ## Why Là Nhà stands out

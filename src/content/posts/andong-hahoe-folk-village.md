@@ -2,11 +2,11 @@
 title: 'Andong Hahoe Folk Village: Travel Guide'
 description: Andong Hahoe Folk Village is a still-inhabited Joseon-era village on a horseshoe bend of the Nakdong River, best visited for a half-day to see traditional
 region: Andong
-country: "South Korea"
+country: South Korea
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/20301648_gxHKyQ-6zuCktRUQmGxw1zzTLN2Uc5BVBRXMEFjdo3A.jpg
+  url: https://fastly.4sqi.net/img/general/original/27211649_vCuskuUvib4iLacsTDg0JhW52srT11fghbX8ZMBR6Is.jpg
   credit: 'Photo: Foursquare user content (Bukchon House (Andong Hahoe Village) (북촌댁))'
   license: foursquare
   source: https://foursquare.com/v/50416ca6e4b0a10506950910
@@ -42,7 +42,7 @@ place:
       - 16
       - 17
     venueId: ven_41506e6f5068784434756f5255445a693466354c6c30374a496843
-  phone: '054-853-0109'
+  phone: 054-853-0109
   openingHours:
     - 'Monday: 9:00 AM – 6:00 PM'
     - 'Tuesday: 9:00 AM – 6:00 PM'

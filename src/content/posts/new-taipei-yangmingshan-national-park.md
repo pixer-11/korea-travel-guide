@@ -1,42 +1,41 @@
 ---
-title: "Yangmingshan National Park: New Taipei Travel Guide"
-description: "Yangmingshan National Park sits just north of central Taipei, reachable by bus in under an hour, and is best visited on a weekday morning when the sulfur"
-country: "Taiwan"
-region: "New Taipei"
-category: "attraction"
-pubDate: "2026-07-26T07:08:02.019Z"
+title: 'Yangmingshan National Park: New Taipei Travel Guide'
+description: Yangmingshan National Park sits just north of central Taipei, reachable by bus in under an hour, and is best visited on a weekday morning when the sulfur
+country: Taiwan
+region: New Taipei
+category: attraction
+pubDate: '2026-07-26T07:08:02.019Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cherry_Blossoms_in_Yangmingshan_National_Park%2C_New_Taipei_City%2C_Taiwan_2018-03-13.jpg/1920px-Cherry_Blossoms_in_Yangmingshan_National_Park%2C_New_Taipei_City%2C_Taiwan_2018-03-13.jpg"
-  credit: "Photo: 燈火闌珊處 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Cherry_Blossoms_in_Yangmingshan_National_Park,_New_Taipei_City,_Taiwan_2018-03-13.jpg"
-gallery: []
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Mount_Qixing_under_clear_sky_on_13th_February_2016.jpg/1920px-Mount_Qixing_under_clear_sky_on_13th_February_2016.jpg
+  credit: 'Photo: Wei-Te Wong / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Mount_Qixing_under_clear_sky_on_13th_February_2016.jpg
 place:
-  id: "ChIJS8fPJPitQjQRebDDT6PjC1w"
-  name: "Yangmingshan National Park"
-  address: "Taiwan"
+  id: ChIJS8fPJPitQjQRebDDT6PjC1w
+  name: Yangmingshan National Park
+  address: Taiwan
   rating: 4.5
   userRatingsTotal: 25879
-  googleMapsUrl: "https://maps.google.com/?cid=6632645166790586489&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=6632645166790586489&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.1942462
   lng: 121.5609363
-  phone: "02 2861 3601"
+  phone: 02 2861 3601
 tags:
-  - "new taipei"
-  - "top attraction"
-quickAnswer: "Yangmingshan National Park sits just north of central Taipei, reachable by bus in under an hour, and is best visited on a weekday morning when the sulfur vents at Xiaoyoukeng are still wreathed in mist and the crowds haven't arrived. Come for the dormant volcano crater at Qixing Mountain, the steaming fumaroles, and (in season) hot springs and cherry blossoms — plan on a half or full day. Weekends and the spring flower season pack the shuttle buses and viewing platforms, so go early or midweek if you can."
+  - new taipei
+  - top attraction
+quickAnswer: Yangmingshan National Park sits just north of central Taipei, reachable by bus in under an hour, and is best visited on a weekday morning when the sulfur vents at Xiaoyoukeng are still wreathed in mist and the crowds haven't arrived. Come for the dormant volcano crater at Qixing Mountain, the steaming fumaroles, and (in season) hot springs and cherry blossoms — plan on a half or full day. Weekends and the spring flower season pack the shuttle buses and viewing platforms, so go early or midweek if you can.
 faq:
-  - q: "How do I get to Yangmingshan without a car?"
-    a: "Take the MRT Red Line to Jiantan or Shilin Station and transfer to bus S15 or 260 up into the park, or go via Xin Beitou Station if you're heading for the hot springs area first."
-  - q: "How long should I plan to spend there?"
-    a: "A half day covers Xiaoyoukeng's fumaroles and a short walk; a full day lets you add the Qixing Mountain summit hike (2-3 hours round trip) and a hot spring soak in Beitou afterward."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Weekday mornings are calmest. Weekends and the March-April flower season bring the heaviest crowds and full shuttle buses, so arrive early or pick a weekday if possible."
-  - q: "Is there an entrance fee?"
-    a: "The park itself is generally free to enter, though some individual hot spring facilities and specific attractions charge their own admission — check current prices locally before visiting."
-  - q: "What else is nearby worth combining with the visit?"
-    a: "Beitou's hot spring district sits just south of the park and is easily combined with a hike, along with the Beitou Thermal Valley and hot spring museum a short walk from Xin Beitou Station."
+  - q: How do I get to Yangmingshan without a car?
+    a: Take the MRT Red Line to Jiantan or Shilin Station and transfer to bus S15 or 260 up into the park, or go via Xin Beitou Station if you're heading for the hot springs area first.
+  - q: How long should I plan to spend there?
+    a: A half day covers Xiaoyoukeng's fumaroles and a short walk; a full day lets you add the Qixing Mountain summit hike (2-3 hours round trip) and a hot spring soak in Beitou afterward.
+  - q: When is the best time to visit to avoid crowds?
+    a: Weekday mornings are calmest. Weekends and the March-April flower season bring the heaviest crowds and full shuttle buses, so arrive early or pick a weekday if possible.
+  - q: Is there an entrance fee?
+    a: The park itself is generally free to enter, though some individual hot spring facilities and specific attractions charge their own admission — check current prices locally before visiting.
+  - q: What else is nearby worth combining with the visit?
+    a: Beitou's hot spring district sits just south of the park and is easily combined with a hike, along with the Beitou Thermal Valley and hot spring museum a short walk from Xin Beitou Station.
 aiGenerated: true
 draft: false
 ---

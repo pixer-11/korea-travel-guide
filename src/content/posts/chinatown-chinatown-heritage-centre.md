@@ -1,36 +1,47 @@
 ---
-title: "Chinatown Heritage Centre: Travel Guide"
-description: "The Chinatown Heritage Centre at 48 Pagoda Street occupies three restored 1900s shophouses and recreates the cramped living quarters of early Chinese"
-country: "Singapore"
-region: "Chinatown"
-category: "attraction"
-pubDate: "2026-07-23T07:30:57.548Z"
+title: 'Chinatown Heritage Centre: Travel Guide'
+description: The Chinatown Heritage Centre at 48 Pagoda Street occupies three restored 1900s shophouses and recreates the cramped living quarters of early Chinese
+country: Singapore
+region: Chinatown
+category: attraction
+pubDate: '2026-07-23T07:30:57.548Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/8/89/Chinatown_Heritage_Centre.JPG"
-  credit: "Photo: Terence Ong / Wikimedia Commons (CC BY 2.5)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Chinatown_Heritage_Centre.JPG"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Chinatown_Heritage_Centre%2C_Singapore.jpg/3840px-Chinatown_Heritage_Centre%2C_Singapore.jpg
+  credit: 'Photo: Ralff Nestor Nacor / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Chinatown_Heritage_Centre,_Singapore.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Chinatown_Heritage_Centre%2C_Singapore.jpg/1920px-Chinatown_Heritage_Centre%2C_Singapore.jpg
     credit: 'Photo: Ralff Nestor Nacor / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Chinatown_Heritage_Centre,_Singapore.jpg
 place:
-  id: "ChIJ3eg6SXMZ2jERCxutt4adUyY"
-  name: "Chinatown Heritage Centre"
-  address: "48 Pagoda St, Singapore 059207"
+  id: ChIJ3eg6SXMZ2jERCxutt4adUyY
+  name: Chinatown Heritage Centre
+  address: 48 Pagoda St, Singapore 059207
   rating: 4.6
   userRatingsTotal: 4419
-  googleMapsUrl: "https://maps.google.com/?cid=2761724198440999691&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=2761724198440999691&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.2835298
   lng: 103.8442036
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [10, 11, 20]
-    weekendQuiet: [10, 11, 19, 20]
-    weekendBusy: [14, 15, 16, 17]
-    venueId: 'ven_597955646134747475784352456a325a4d5853366765334a496843'
+    weekdayQuiet:
+      - 10
+      - 11
+      - 20
+    weekendQuiet:
+      - 10
+      - 11
+      - 19
+      - 20
+    weekendBusy:
+      - 14
+      - 15
+      - 16
+      - 17
+    venueId: ven_597955646134747475784352456a325a4d5853366765334a496843
   openingHours:
     - 'Monday: 10:00 AM – 8:00 PM'
     - 'Tuesday: 10:00 AM – 8:00 PM'
@@ -40,20 +51,20 @@ place:
     - 'Saturday: 10:00 AM – 8:00 PM'
     - 'Sunday: 10:00 AM – 8:00 PM'
 tags:
-  - "chinatown"
-  - "top attraction"
-quickAnswer: "The Chinatown Heritage Centre at 48 Pagoda Street occupies three restored 1900s shophouses and recreates the cramped living quarters of early Chinese migrants, including a reconstructed cubicle apartment and opium den. Budget 60–90 minutes, visit on a weekday morning to avoid tour groups, and combine it with a walk through Pagoda Street's market stalls and the nearby Sri Mariamman Temple. Nearest MRT is Chinatown Station (Exits A or E), about a 3–5 minute walk."
+  - chinatown
+  - top attraction
+quickAnswer: The Chinatown Heritage Centre at 48 Pagoda Street occupies three restored 1900s shophouses and recreates the cramped living quarters of early Chinese migrants, including a reconstructed cubicle apartment and opium den. Budget 60–90 minutes, visit on a weekday morning to avoid tour groups, and combine it with a walk through Pagoda Street's market stalls and the nearby Sri Mariamman Temple. Nearest MRT is Chinatown Station (Exits A or E), about a 3–5 minute walk.
 faq:
-  - q: "How do I get to the Chinatown Heritage Centre by MRT?"
-    a: "Take the North East Line or Downtown Line to Chinatown Station and use Exit A or Exit E; it's a 3–5 minute walk down Pagoda Street to number 48."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors take 60–90 minutes to go through all three shophouse levels; allow up to 2 hours if you're reading the oral history displays in full or visiting with kids."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Weekday mornings shortly after opening are quietest. Late morning through afternoon, especially on weekends, sees the heaviest tour-group and visitor traffic."
-  - q: "Is the Chinatown Heritage Centre suitable for children?"
-    a: "Yes, the recreated rooms and interactive touchscreens tend to engage kids, though some content (like the opium den display) is more historical/educational than playful."
-  - q: "What else is nearby worth combining with this visit?"
-    a: "Sri Mariamman Temple and the Buddha Tooth Relic Temple are both a short walk away, and Chinatown Complex Food Centre on Smith Street is a good lunch stop afterward."
+  - q: How do I get to the Chinatown Heritage Centre by MRT?
+    a: Take the North East Line or Downtown Line to Chinatown Station and use Exit A or Exit E; it's a 3–5 minute walk down Pagoda Street to number 48.
+  - q: How long should I plan to spend there?
+    a: Most visitors take 60–90 minutes to go through all three shophouse levels; allow up to 2 hours if you're reading the oral history displays in full or visiting with kids.
+  - q: What's the best time to visit to avoid crowds?
+    a: Weekday mornings shortly after opening are quietest. Late morning through afternoon, especially on weekends, sees the heaviest tour-group and visitor traffic.
+  - q: Is the Chinatown Heritage Centre suitable for children?
+    a: Yes, the recreated rooms and interactive touchscreens tend to engage kids, though some content (like the opium den display) is more historical/educational than playful.
+  - q: What else is nearby worth combining with this visit?
+    a: Sri Mariamman Temple and the Buddha Tooth Relic Temple are both a short walk away, and Chinatown Complex Food Centre on Smith Street is a good lunch stop afterward.
 aiGenerated: true
 draft: false
 ---

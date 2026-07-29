@@ -21,7 +21,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 37.5134178
   lng: 126.89482419999999
-  phone: '010-5864-0845'
+  phone: 010-5864-0845
   openingHours:
     - 'Monday: Closed'
     - 'Tuesday: 5:00 – 11:00 PM'
@@ -46,7 +46,7 @@ faq:
   - q: What's the best time to visit?
     a: Weekday early-evening reservations are generally easier to secure than weekend slots, and visiting in late afternoon lets you see the workshop district at its most atmospheric before dinner service gets busy.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Dallas Pizza Is Worth the Trip

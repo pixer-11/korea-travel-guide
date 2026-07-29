@@ -1,43 +1,43 @@
 ---
-title: "I Love: Boracay Travel Guide"
-description: "\"I Love Boracay\" is the wooden-letter viewpoint/photo-stop tucked into the Malay side of the island — a quiet, under-the-radar spot rather than a mobbed"
-country: "Philippines"
-region: "Boracay"
-category: "hidden-gem"
-pubDate: "2026-07-28T10:10:49.073Z"
+title: 'I Love: Boracay Travel Guide'
+description: '"I Love Boracay" is the wooden-letter viewpoint/photo-stop tucked into the Malay side of the island — a quiet, under-the-radar spot rather than a mobbed'
+country: Philippines
+region: Boracay
+category: hidden-gem
+pubDate: '2026-07-28T10:10:49.073Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/I_love_Boracay.jpg/1920px-I_love_Boracay.jpg"
-  credit: "Photo: Shella Marie L. Olea / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:I_love_Boracay.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/I_love_Boracay.jpg/1920px-I_love_Boracay.jpg
+  credit: 'Photo: Shella Marie L. Olea / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:I_love_Boracay.jpg
 gallery: []
 place:
-  id: "ChIJHae4G7g9pTMR-fEMTDzw9yM"
-  name: "I Love Boracay"
-  address: "XW7H+WCC, Malay, Aklan, Philippines"
+  id: ChIJHae4G7g9pTMR-fEMTDzw9yM
+  name: I Love Boracay
+  address: XW7H+WCC, Malay, Aklan, Philippines
   rating: 4.7
   userRatingsTotal: 69
-  googleMapsUrl: "https://maps.google.com/?cid=2591804252339630585&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=2591804252339630585&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 11.9657454
   lng: 121.92862249999999
 tags:
-  - "boracay"
-  - "hidden gem"
-quickAnswer: "\"I Love Boracay\" is the wooden-letter viewpoint/photo-stop tucked into the Malay side of the island — a quiet, under-the-radar spot rather than a mobbed selfie factory. Go in the late afternoon on a weekday, budget 20-30 minutes, and pair it with a walk toward White Beach a few minutes away. It's rated 4.7 from a small but enthusiastic set of reviewers, which tells you it rewards travelers who seek it out rather than stumble onto it."
+  - boracay
+  - hidden gem
+quickAnswer: '"I Love Boracay" is the wooden-letter viewpoint/photo-stop tucked into the Malay side of the island — a quiet, under-the-radar spot rather than a mobbed selfie factory. Go in the late afternoon on a weekday, budget 20-30 minutes, and pair it with a walk toward White Beach a few minutes away. It''s rated 4.7 from a small but enthusiastic set of reviewers, which tells you it rewards travelers who seek it out rather than stumble onto it.'
 faq:
-  - q: "How do I get to Boracay from the nearest airport?"
-    a: "Fly into Caticlan (Godofredo P. Ramos Airport, MPH) or Kalibo International Airport, then take a short van/tricycle ride to the Caticlan jetty port and a 5-10 minute boat crossing to Cagban or Tabon jetty on Boracay."
-  - q: "How much time should I set aside for the 'I Love Boracay' sign?"
-    a: "About 20-30 minutes is enough — it's a photo/viewpoint stop, not a full attraction with exhibits or facilities."
-  - q: "Is it crowded?"
-    a: "No — it's an under-the-radar spot compared to White Beach, so you can generally visit without queuing for a photo, especially outside midday."
-  - q: "What's the best time of year to visit Boracay overall?"
-    a: "November through May is dry season; December to February has the coolest, most comfortable weather. Avoid the June-October wet season if you can."
-  - q: "What else is nearby?"
-    a: "White Beach, D'Mall (dining and shopping), and Bulabog Beach (kiteboarding, best November-April) are all a short tricycle ride away."
+  - q: How do I get to Boracay from the nearest airport?
+    a: Fly into Caticlan (Godofredo P. Ramos Airport, MPH) or Kalibo International Airport, then take a short van/tricycle ride to the Caticlan jetty port and a 5-10 minute boat crossing to Cagban or Tabon jetty on Boracay.
+  - q: How much time should I set aside for the 'I Love Boracay' sign?
+    a: About 20-30 minutes is enough — it's a photo/viewpoint stop, not a full attraction with exhibits or facilities.
+  - q: Is it crowded?
+    a: No — it's an under-the-radar spot compared to White Beach, so you can generally visit without queuing for a photo, especially outside midday.
+  - q: What's the best time of year to visit Boracay overall?
+    a: November through May is dry season; December to February has the coolest, most comfortable weather. Avoid the June-October wet season if you can.
+  - q: What else is nearby?
+    a: White Beach, D'Mall (dining and shopping), and Bulabog Beach (kiteboarding, best November-April) are all a short tricycle ride away.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

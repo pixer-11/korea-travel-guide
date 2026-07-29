@@ -1,20 +1,15 @@
 ---
 title: 'Atomic Bomb Dome: Hiroshima Travel Guide'
-description: >-
-  The Atomic Bomb Dome sits on the bank of the Motoyasu River in Naka Ward, a
-  two-minute walk from Peace Memorial Park — go early morning or just before
-  sunset
+description: The Atomic Bomb Dome sits on the bank of the Motoyasu River in Naka Ward, a two-minute walk from Peace Memorial Park — go early morning or just before sunset
 country: Japan
 region: Hiroshima
 category: hidden-gem
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Atomic_Bomb_Dome%2C_Hiroshima%2C_South_view_20190417_1.jpg/1920px-Atomic_Bomb_Dome%2C_Hiroshima%2C_South_view_20190417_1.jpg
-  credit: 'Photo: DXR / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Atomic_Bomb_Dome,_Hiroshima,_South_view_20190417_1.jpg
+  url: https://fastly.4sqi.net/img/general/original/543114558_1vryFPc80PrOjew5pc6eZ_HXr101udgJoEop9uVvXhE.jpg
+  credit: 'Photo: Foursquare user content (Atomic Bomb Dome (原爆ドーム))'
+  license: foursquare
+  source: https://foursquare.com/v/4b5e6edcf964a520798e29e3
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/144917183_tLmMb8iEiNsr7fGdnTY1IVlH1e48Yjqa2ngaR1JuXY8.jpg
     credit: 'Photo: Foursquare user content (Atomic Bomb Dome (原爆ドーム))'
@@ -23,11 +18,10 @@ gallery:
 place:
   id: ChIJqYAn2wyiWjURlsDG4Hpn5jQ
   name: Atomic Bomb Dome
-  address: '1-chōme-1-10 Ōtemachi, Naka Ward, Hiroshima, 730-0051, Japan'
+  address: 1-chōme-1-10 Ōtemachi, Naka Ward, Hiroshima, 730-0051, Japan
   rating: 4.7
   userRatingsTotal: 34264
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=3811847912070496406&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=3811847912070496406&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 34.395483
   lng: 132.453592
@@ -61,7 +55,7 @@ place:
       - 17
       - 18
     venueId: ven_516a356e7048344744736c52556a57697977326e4159714a496843
-  phone: '082-504-2898'
+  phone: 082-504-2898
   openingHours:
     - 'Monday: Open 24 hours'
     - 'Tuesday: Open 24 hours'
@@ -73,35 +67,18 @@ place:
 tags:
   - hiroshima
   - hidden gem
-quickAnswer: >-
-  The Atomic Bomb Dome sits on the bank of the Motoyasu River in Naka Ward, a
-  two-minute walk from Peace Memorial Park — go early morning or just before
-  sunset for the smallest crowds and best light. It's free to view from outside
-  (there's no interior access), and most visitors spend 15-30 minutes at the
-  Dome itself before continuing into the Park and Peace Memorial Museum. Nearest
-  stop is the Genbaku Dome-mae tram stop, right across the river.
+quickAnswer: The Atomic Bomb Dome sits on the bank of the Motoyasu River in Naka Ward, a two-minute walk from Peace Memorial Park — go early morning or just before sunset for the smallest crowds and best light. It's free to view from outside (there's no interior access), and most visitors spend 15-30 minutes at the Dome itself before continuing into the Park and Peace Memorial Museum. Nearest stop is the Genbaku Dome-mae tram stop, right across the river.
 faq:
   - q: Can you go inside the Atomic Bomb Dome?
-    a: >-
-      No. The structure is fenced off and viewed only from the surrounding path
-      and the opposite riverbank; entry is prohibited to preserve the ruin.
+    a: No. The structure is fenced off and viewed only from the surrounding path and the opposite riverbank; entry is prohibited to preserve the ruin.
   - q: How do I get to the Atomic Bomb Dome?
-    a: >-
-      Take a Hiroshima tram to the Genbaku Dome-mae stop, directly across the
-      Motoyasu River from the site, or walk 5 minutes from Peace Memorial Park.
+    a: Take a Hiroshima tram to the Genbaku Dome-mae stop, directly across the Motoyasu River from the site, or walk 5 minutes from Peace Memorial Park.
   - q: Is there an entrance fee?
-    a: >-
-      No, viewing the Dome from outside is free. The nearby Peace Memorial
-      Museum charges a small admission fee, which is worth checking online
-      before your visit.
+    a: No, viewing the Dome from outside is free. The nearby Peace Memorial Museum charges a small admission fee, which is worth checking online before your visit.
   - q: How much time should I plan for a visit?
-    a: >-
-      15-30 minutes at the Dome itself; add 1-2 hours if combining it with the
-      Peace Memorial Museum and a walk through Peace Memorial Park.
+    a: 15-30 minutes at the Dome itself; add 1-2 hours if combining it with the Peace Memorial Museum and a walk through Peace Memorial Park.
   - q: What's the best time of day to visit?
-    a: >-
-      Early morning or the hour before sunset for fewer crowds and better light;
-      the Dome is also illuminated at night for atmospheric evening viewing.
+    a: Early morning or the hour before sunset for fewer crowds and better light; the Dome is also illuminated at night for atmospheric evening viewing.
 aiGenerated: true
 draft: false
 updatedDate: '2026-07-24'

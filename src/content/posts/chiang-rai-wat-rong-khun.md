@@ -1,20 +1,15 @@
 ---
 title: 'Wat Rong Khun: Chiang Rai Travel Guide'
-description: >-
-  Wat Rong Khun, better known as the White Temple, sits about 13 km (20–25
-  minutes by car) south of central Chiang Rai on the road to Bangkok, and is
-  best
+description: Wat Rong Khun, better known as the White Temple, sits about 13 km (20–25 minutes by car) south of central Chiang Rai on the road to Bangkok, and is best
 country: Thailand
 region: Chiang Rai
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Chiang_Rai_-_Wat_Rong_Khun_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%B8%E0%B9%88%E0%B8%99_%282026%29_-_img_11.jpg/1920px-Chiang_Rai_-_Wat_Rong_Khun_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%B8%E0%B9%88%E0%B8%99_%282026%29_-_img_11.jpg
-  credit: 'Photo: Chainwit. / Wikimedia Commons (CC BY 4.0)'
-  license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Chiang_Rai_-_Wat_Rong_Khun_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%B8%E0%B9%88%E0%B8%99_(2026)_-_img_11.jpg
+  url: https://fastly.4sqi.net/img/general/original/15032541_l3EemQV6IIwEvnJ5bYSHwiGiJ5KrsfjzBlPc5Gk2d-k.jpg
+  credit: 'Photo: Foursquare user content (Wat Rong Khun (วัดร่องขุ่น))'
+  license: foursquare
+  source: https://foursquare.com/v/4cd51a0d89eb6dcbbd90261e
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Wat_Rong_Khun-001.jpg/1920px-Wat_Rong_Khun-001.jpg
     credit: 'Photo: Ddalbiez / Wikimedia Commons (CC BY-SA 3.0)'
@@ -23,11 +18,10 @@ gallery:
 place:
   id: ChIJD5RZzt-31zARo7esjg3V_Co
   name: Wat Rong Khun
-  address: 'Pa O Don Chai, Mueang Chiang Rai District, Chiang Rai 57000, Thailand'
+  address: Pa O Don Chai, Mueang Chiang Rai District, Chiang Rai 57000, Thailand
   rating: 4.6
   userRatingsTotal: 25007
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=3097584897929033635&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=3097584897929033635&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 19.8232669
   lng: 99.7627085
@@ -47,7 +41,7 @@ place:
       - 12
       - 13
     venueId: ven_6f435f5633676a7365376f52417a31332d747a5a5235444a496843
-  phone: '053 673 579'
+  phone: 053 673 579
   openingHours:
     - 'Monday: 8:00 AM – 5:00 PM'
     - 'Tuesday: 8:00 AM – 5:00 PM'
@@ -59,39 +53,18 @@ place:
 tags:
   - chiang rai
   - Wat Rong Khun White Temple
-quickAnswer: >-
-  Wat Rong Khun, better known as the White Temple, sits about 13 km (20–25
-  minutes by car) south of central Chiang Rai on the road to Bangkok, and is
-  best visited right at opening (around 8am) before tour buses arrive. Budget
-  1–1.5 hours to cross the mirrored bridge over the "Cycle of Rebirth," see the
-  Ubosot's murals, and browse the golden restroom pavilion and gift hall. Modest
-  dress (shoulders and knees covered) is required, and it's still an active,
-  evolving art project by artist Chalermchai Kositpipat, not an ancient ruin.
+quickAnswer: Wat Rong Khun, better known as the White Temple, sits about 13 km (20–25 minutes by car) south of central Chiang Rai on the road to Bangkok, and is best visited right at opening (around 8am) before tour buses arrive. Budget 1–1.5 hours to cross the mirrored bridge over the "Cycle of Rebirth," see the Ubosot's murals, and browse the golden restroom pavilion and gift hall. Modest dress (shoulders and knees covered) is required, and it's still an active, evolving art project by artist Chalermchai Kositpipat, not an ancient ruin.
 faq:
   - q: How do I get to Wat Rong Khun from Chiang Rai city?
-    a: >-
-      It's about 13 km south of central Chiang Rai off Highway 1, roughly 20–25
-      minutes by taxi, Grab, songthaew, or rented scooter.
+    a: It's about 13 km south of central Chiang Rai off Highway 1, roughly 20–25 minutes by taxi, Grab, songthaew, or rented scooter.
   - q: How much time should I plan for the visit?
-    a: >-
-      Most visitors spend 60–90 minutes covering the entrance bridge, the main
-      Ubosot hall, the gold restroom pavilion, and the gift gallery.
+    a: Most visitors spend 60–90 minutes covering the entrance bridge, the main Ubosot hall, the gold restroom pavilion, and the gift gallery.
   - q: Is there an entrance fee?
-    a: >-
-      Yes, there's typically a small entrance fee for foreign visitors (often
-      just a token amount, with an extra charge if you want to enter the Ubosot
-      itself). Fees can change, so confirm current pricing on arrival or via the
-      temple's official channels.
+    a: Yes, there's typically a small entrance fee for foreign visitors (often just a token amount, with an extra charge if you want to enter the Ubosot itself). Fees can change, so confirm current pricing on arrival or via the temple's official channels.
   - q: What should I wear?
-    a: >-
-      Modest clothing is required — shoulders and knees covered, nothing sheer
-      or sleeveless. Bring a light scarf or shawl as backup in case you need
-      extra coverage.
+    a: Modest clothing is required — shoulders and knees covered, nothing sheer or sleeveless. Bring a light scarf or shawl as backup in case you need extra coverage.
   - q: Can I combine it with other sights nearby?
-    a: >-
-      Yes — the Blue Temple (Wat Rong Suea Ten) and the Black House (Baan Dam
-      Museum) are both in the Chiang Rai area and pair naturally with Wat Rong
-      Khun for a full day of the city's modern temple art.
+    a: Yes — the Blue Temple (Wat Rong Suea Ten) and the Black House (Baan Dam Museum) are both in the Chiang Rai area and pair naturally with Wat Rong Khun for a full day of the city's modern temple art.
 aiGenerated: true
 draft: false
 updatedDate: '2026-07-24'

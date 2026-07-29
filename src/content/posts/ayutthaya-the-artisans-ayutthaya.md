@@ -6,7 +6,7 @@ region: Ayutthaya
 category: restaurant
 pubDate: '2026-07-22T09:11:54.515Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/976202_TBZ8YqxQfuMH9OLpay5BxVTpnX-8YYatMuFYcLR7rCc.jpg
+  url: https://fastly.4sqi.net/img/general/original/3709928__aTS8pr9tY9JMmdi_wC0iFWEZHkeLfEq46ulAPc2Vac.jpg
   credit: 'Photo: Foursquare user content (The Artisans Ayutthaya)'
   license: foursquare
   source: https://foursquare.com/v/605da7b10e5d7472c8851dd3

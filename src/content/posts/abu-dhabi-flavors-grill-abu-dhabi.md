@@ -6,15 +6,10 @@ region: Abu Dhabi
 category: restaurant
 pubDate: '2026-07-23T07:50:12.075Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/42481270_sFaraBmYSnTrn1w4Nlkf_rsr0WtAjNDcm_iVN_xGqy4.jpg
+  url: https://fastly.4sqi.net/img/general/original/544519003_cE15MyDdJ4GpQrq46OF5DXfam4CYyNNb9ek_W8vDMRI.jpg
   credit: 'Photo: Foursquare user content (Flavors Grill)'
   license: foursquare
   source: https://foursquare.com/v/5c49f07a1953f3002c42337a
-gallery:
-  - url: https://fastly.4sqi.net/img/general/original/544519003_cE15MyDdJ4GpQrq46OF5DXfam4CYyNNb9ek_W8vDMRI.jpg
-    credit: 'Photo: Foursquare user content (Flavors Grill)'
-    license: foursquare
-    source: https://foursquare.com/v/5c49f07a1953f3002c42337a
 place:
   id: ChIJeUrze2pnXj4RzcDODWlOjcQ
   name: Flavors Grill Abu Dhabi
@@ -53,7 +48,7 @@ place:
       - 21
       - 22
     venueId: ven_51636a4f6c57444f44637a52346a586e7032657a7255654a496843
-  phone: '056 338 9222'
+  phone: 056 338 9222
   openingHours:
     - 'Monday: 7:00 AM – 12:00 AM'
     - 'Tuesday: 7:00 AM – 12:00 AM'

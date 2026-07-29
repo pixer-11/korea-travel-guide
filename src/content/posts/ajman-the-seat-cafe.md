@@ -6,15 +6,10 @@ region: Ajman
 category: trendy
 pubDate: '2026-07-23T07:58:23.308Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/54152006_X7YlKOR5cIByvATNrIVcPTOkJ8PasIkaisGcrM6Vu4g.jpg
+  url: https://fastly.4sqi.net/img/general/original/87360241_K2pGv8WrgtP_CBjes_IrJP3oTdpKiX_cj9KO6KdNlIg.jpg
   credit: 'Photo: Foursquare user content (The Seat Cafe)'
   license: foursquare
   source: https://foursquare.com/v/65c1164cb812d51dc076b778
-gallery:
-  - url: https://fastly.4sqi.net/img/general/original/87360241_K2pGv8WrgtP_CBjes_IrJP3oTdpKiX_cj9KO6KdNlIg.jpg
-    credit: 'Photo: Foursquare user content (The Seat Cafe)'
-    license: foursquare
-    source: https://foursquare.com/v/65c1164cb812d51dc076b778
 place:
   id: ChIJzR7viUzx9T4R16XrLHCcBFw
   name: The seat cafe
@@ -26,7 +21,7 @@ place:
   lat: 25.4009191
   lng: 55.6210046
   priceLevel: 1
-  phone: '050 129 1451'
+  phone: 050 129 1451
   openingHours:
     - 'Monday: 6:00 AM – 1:00 AM'
     - 'Tuesday: 6:00 AM – 1:00 AM'

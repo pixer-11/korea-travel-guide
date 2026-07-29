@@ -6,11 +6,10 @@ region: Labuan Bajo
 category: restaurant
 pubDate: '2026-07-23T07:28:47.842Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/51036101_xYB0ajhtbxAfeUK0lLrBmeg390rtMRr6HSMNe3TIiYo.jpg
+  url: https://fastly.4sqi.net/img/general/original/1165129_dOR1qKyFJtLVQuj883xi7HVimaWVdoSvQnsanUY_Tpw.jpg
   credit: 'Photo: Foursquare user content (Taman Laut Handayani)'
   license: foursquare
   source: https://foursquare.com/v/5fc38eafc4507c616c0ec8fd
-gallery: []
 place:
   id: ChIJf1NEi61ntC0RtjeuIGFttDo
   name: Taman Laut Handayani Seafood Restaurant Labuan Bajo

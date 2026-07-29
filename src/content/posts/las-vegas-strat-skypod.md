@@ -1,52 +1,52 @@
 ---
-title: "STRAT SkyPod: Las Vegas Travel Guide"
-description: "The STRAT SkyPod sits atop the STRAT hotel tower at 2000 S Las Vegas Blvd, at the north end of the Strip, and offers 360-degree views from over 100 stories"
-country: "United States"
-region: "Las Vegas"
-category: "attraction"
-pubDate: "2026-07-26T08:26:17.746Z"
+title: 'STRAT SkyPod: Las Vegas Travel Guide'
+description: The STRAT SkyPod sits atop the STRAT hotel tower at 2000 S Las Vegas Blvd, at the north end of the Strip, and offers 360-degree views from over 100 stories
+country: United States
+region: Las Vegas
+category: attraction
+pubDate: '2026-07-26T08:26:17.746Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Stratosphere_Las_Vegas_3.jpg/1920px-Stratosphere_Las_Vegas_3.jpg"
-  credit: "Photo: Antoine Taveneaux / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Stratosphere_Las_Vegas_3.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Stratosphere_Las_Vegas_3.jpg/1920px-Stratosphere_Las_Vegas_3.jpg
+  credit: 'Photo: Antoine Taveneaux / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Stratosphere_Las_Vegas_3.jpg
 gallery: []
 place:
-  id: "ChIJq2ONwrfDyIARimMcsmRjzAE"
-  name: "STRAT SkyPod"
-  address: "2000 S Las Vegas Blvd, Las Vegas, NV 89104, USA"
+  id: ChIJq2ONwrfDyIARimMcsmRjzAE
+  name: STRAT SkyPod
+  address: 2000 S Las Vegas Blvd, Las Vegas, NV 89104, USA
   rating: 4.5
   userRatingsTotal: 1099
-  googleMapsUrl: "https://maps.google.com/?cid=129587773422986122&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=129587773422986122&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 36.1475157
   lng: -115.15550929999998
-  phone: "(702) 380-7711"
+  phone: (702) 380-7711
   openingHours:
-    - "Monday: 10:00 AM – 1:00 AM"
-    - "Tuesday: 10:00 AM – 1:00 AM"
-    - "Wednesday: 10:00 AM – 1:00 AM"
-    - "Thursday: 10:00 AM – 1:00 AM"
-    - "Friday: 10:00 AM – 1:00 AM"
-    - "Saturday: 10:00 AM – 1:00 AM"
-    - "Sunday: 10:00 AM – 1:00 AM"
+    - 'Monday: 10:00 AM – 1:00 AM'
+    - 'Tuesday: 10:00 AM – 1:00 AM'
+    - 'Wednesday: 10:00 AM – 1:00 AM'
+    - 'Thursday: 10:00 AM – 1:00 AM'
+    - 'Friday: 10:00 AM – 1:00 AM'
+    - 'Saturday: 10:00 AM – 1:00 AM'
+    - 'Sunday: 10:00 AM – 1:00 AM'
 tags:
-  - "las vegas"
-  - "top attraction"
-quickAnswer: "The STRAT SkyPod sits atop the STRAT hotel tower at 2000 S Las Vegas Blvd, at the north end of the Strip, and offers 360-degree views from over 100 stories up plus a cluster of thrill rides (Big Shot, Insanity, X-Scream, SkyJump). Budget 1.5–2 hours, go at sunset for the best light, and expect noticeably shorter lines than the big attractions further south on the Strip. Rated 4.5 from over 1,000 reviews, it's an underrated add-on if you're already staying north of the main casino corridor."
+  - las vegas
+  - top attraction
+quickAnswer: The STRAT SkyPod sits atop the STRAT hotel tower at 2000 S Las Vegas Blvd, at the north end of the Strip, and offers 360-degree views from over 100 stories up plus a cluster of thrill rides (Big Shot, Insanity, X-Scream, SkyJump). Budget 1.5–2 hours, go at sunset for the best light, and expect noticeably shorter lines than the big attractions further south on the Strip. Rated 4.5 from over 1,000 reviews, it's an underrated add-on if you're already staying north of the main casino corridor.
 faq:
-  - q: "How do I get to the STRAT SkyPod?"
-    a: "It's at 2000 S Las Vegas Blvd, the far north end of the Strip. Take a rideshare/taxi, the RTC Deuce bus, or walk from the Las Vegas Monorail's Sahara station just south of the tower."
-  - q: "How long should I plan to spend there?"
-    a: "Budget 1.5–2 hours for the observation deck alone; add 30–60 minutes if you plan to ride Big Shot, Insanity, X-Scream, or SkyJump."
-  - q: "What's the best time of day to visit?"
-    a: "Sunset is ideal for the light and skyline transition, but weekday afternoons are the quietest overall, with noticeably shorter lines than mid-Strip attractions."
-  - q: "Is it crowded compared to other Vegas observation decks?"
-    a: "It tends to be less crowded than attractions further down the Strip, since it sits at the quieter north end away from the main casino cluster."
-  - q: "What's nearby if I want to combine this with other sights?"
-    a: "The Neon Museum and Fremont Street Experience are a short ride north, and the Sahara and Circus Circus resorts are within walking distance to the south."
+  - q: How do I get to the STRAT SkyPod?
+    a: It's at 2000 S Las Vegas Blvd, the far north end of the Strip. Take a rideshare/taxi, the RTC Deuce bus, or walk from the Las Vegas Monorail's Sahara station just south of the tower.
+  - q: How long should I plan to spend there?
+    a: Budget 1.5–2 hours for the observation deck alone; add 30–60 minutes if you plan to ride Big Shot, Insanity, X-Scream, or SkyJump.
+  - q: What's the best time of day to visit?
+    a: Sunset is ideal for the light and skyline transition, but weekday afternoons are the quietest overall, with noticeably shorter lines than mid-Strip attractions.
+  - q: Is it crowded compared to other Vegas observation decks?
+    a: It tends to be less crowded than attractions further down the Strip, since it sits at the quieter north end away from the main casino cluster.
+  - q: What's nearby if I want to combine this with other sights?
+    a: The Neon Museum and Fremont Street Experience are a short ride north, and the Sahara and Circus Circus resorts are within walking distance to the south.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

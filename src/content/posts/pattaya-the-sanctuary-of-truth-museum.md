@@ -37,6 +37,7 @@ faq:
   - q: What else is nearby worth combining with this visit?
     a: The Naklua Market and seafood restaurants along the coast road make a natural pairing, letting you turn the trip into a half-day outing rather than a single stop.
 aiGenerated: true
+draft: true
 ---
 
 ## Why go

@@ -6,7 +6,7 @@ region: Daegu
 category: restaurant
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/110474231_FgioogY1JqD4vNAhkjtSCaZhSZcUC3NV6Az7txpl5Hw.jpg
+  url: https://fastly.4sqi.net/img/general/original/48419145_vUj48AIN-fw61ZGYsbNw_ecl0ThR0zPzmEN2mhE_8AA.jpg
   credit: 'Photo: Foursquare user content (Nazar Kebab (나자르 케밥))'
   license: foursquare
   source: https://foursquare.com/v/4dbe2156fa8cee727378c03c
@@ -34,7 +34,7 @@ place:
       - 21
       - 22
     venueId: ven_5978305336734151414b415255545a6a58736f496653664a496843
-  phone: '053-424-9951'
+  phone: 053-424-9951
   openingHours:
     - 'Monday: 10:30 AM – 4:00 AM'
     - 'Tuesday: 10:30 AM – 4:00 AM'

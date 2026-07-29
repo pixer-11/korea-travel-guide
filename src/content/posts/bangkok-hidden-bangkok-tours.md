@@ -6,15 +6,10 @@ region: Bangkok
 category: hidden-gem
 pubDate: '2026-07-22T09:24:53.154Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/431587360_A0YW3tZ7WwtqMcrIbdIQQZmBHckEQiOgA2IFgSqgV20.jpg
+  url: https://fastly.4sqi.net/img/general/original/431587360_0J4hSetrtmzYN_zP4oVOjE6E93KUpCBKO5OpiwiaUDs.jpg
   credit: 'Photo: Foursquare user content (Hidden Bangkok Boat Tours)'
   license: foursquare
   source: https://foursquare.com/v/656c514bbb726a74d1bac44c
-gallery:
-  - url: https://fastly.4sqi.net/img/general/original/431587360_0J4hSetrtmzYN_zP4oVOjE6E93KUpCBKO5OpiwiaUDs.jpg
-    credit: 'Photo: Foursquare user content (Hidden Bangkok Boat Tours)'
-    license: foursquare
-    source: https://foursquare.com/v/656c514bbb726a74d1bac44c
 place:
   id: ChIJTQgF826Z4jARKr0ePspKknY
   name: Hidden Bangkok Tours
@@ -25,7 +20,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 13.7459714
   lng: 100.48329679999999
-  phone: '081 161 6595'
+  phone: 081 161 6595
   openingHours:
     - 'Monday: 9:00 AM – 6:00 PM'
     - 'Tuesday: 9:00 AM – 6:00 PM'

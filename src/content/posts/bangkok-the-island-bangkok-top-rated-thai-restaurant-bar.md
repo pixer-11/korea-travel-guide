@@ -51,7 +51,7 @@ place:
       - 22
     venueId: ven_4d762d6a56525937326b4d52416a345a4351426b4359424a496843
   priceLevel: 2
-  phone: '096 404 8625'
+  phone: 096 404 8625
   openingHours:
     - 'Monday: 7:00 AM – 2:00 AM'
     - 'Tuesday: 7:00 AM – 2:00 AM'
@@ -77,6 +77,7 @@ faq:
     a: Plan on 1.5–2 hours for a full dinner; the lounge-like atmosphere also makes it a good spot to linger longer over drinks after eating.
 aiGenerated: true
 updatedDate: '2026-07-24'
+draft: true
 ---
 
 ## Why go

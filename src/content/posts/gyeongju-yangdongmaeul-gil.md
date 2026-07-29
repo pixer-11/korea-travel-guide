@@ -1,8 +1,8 @@
 ---
-title: "Yangdongmaeul-gil: Gyeongju Travel Guide"
-description: "Yangdongmaeul-gil is the access road into Yangdong Village, a centuries-old Yangban (noble-class) clan village in Gangdong-myeon, about 40 minutes northeast"
+title: 'Yangdongmaeul-gil: Gyeongju Travel Guide'
+description: Yangdongmaeul-gil is the access road into Yangdong Village, a centuries-old Yangban (noble-class) clan village in Gangdong-myeon, about 40 minutes northeast
 region: Gyeongju
-country: "South Korea"
+country: South Korea
 category: hidden-gem
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
@@ -34,7 +34,7 @@ faq:
   - q: What else is nearby?
     a: Oksan Seowon, a historic Confucian academy, is about 15 minutes away by car and pairs naturally with a Yangdong Village visit for a half-day trip.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

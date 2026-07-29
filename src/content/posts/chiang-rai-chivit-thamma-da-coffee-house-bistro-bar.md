@@ -6,11 +6,10 @@ region: Chiang Rai
 category: restaurant
 pubDate: '2026-07-22T09:13:26.066Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/2672020_ysF3omlXTnSdP7El8fXIyS2Ai3sI-uDIJ3Xa1RJMxlU.jpg
-  credit: 'Photo: Foursquare user content (ชีวิตธรรมดา (Chivit Thamma Da) (ชีวิตธรรมดา))'
+  url: https://fastly.4sqi.net/img/general/original/E9DSjP0_Gy3DhInRt-Mm__bGC0S2zJ8dcIotOGblAP0.jpg
+  credit: 'Photo: Foursquare user content (Chivit Thamma Da (ชีวิตธรรมดา))'
   license: foursquare
   source: https://foursquare.com/v/4e3d1089c65b4ec275dd419a
-gallery: []
 place:
   id: ChIJeWMpkfAG1zARs3NJVf_6_T0
   name: Chivit Thamma Da Coffee House, Bistro & Bar
@@ -47,7 +46,7 @@ place:
       - 16
       - 17
     venueId: ven_30545f365f66564a4e337352417a314741666b704d57654a496843
-  phone: '081 984 2925'
+  phone: 081 984 2925
   openingHours:
     - 'Monday: 9:00 AM – 10:00 PM'
     - 'Tuesday: 9:00 AM – 10:00 PM'

@@ -1,5 +1,5 @@
 ---
-title: "Cathedral of Santa Maria del Fiore: Florence Travel Guide"
+title: 'Cathedral of Santa Maria del Fiore: Florence Travel Guide'
 description: The Duomo (Cathedral of Santa Maria del Fiore) is Florence's free-to-enter cathedral crowned by Brunelleschi's red-tiled dome; climbing the dome or Giotto's
 country: Italy
 region: Florence
@@ -7,12 +7,12 @@ category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
   url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Florence_Cathedral_seen_from_Piazzale_Michelangelo_night_dllu.jpg/1920px-Florence_Cathedral_seen_from_Piazzale_Michelangelo_night_dllu.jpg
-  credit: "Photo: Dllu / Wikimedia Commons (CC BY-SA 4.0)"
+  credit: 'Photo: Dllu / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Florence_Cathedral_seen_from_Piazzale_Michelangelo_night_dllu.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Dome_of_Cattedrale_di_Santa_Maria_del_Fiore_%28Florence%29.jpg/1920px-Dome_of_Cattedrale_di_Santa_Maria_del_Fiore_%28Florence%29.jpg
-    credit: "Photo: Livioandronico2013 / Wikimedia Commons (CC BY-SA 4.0)"
+    credit: 'Photo: Livioandronico2013 / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Dome_of_Cattedrale_di_Santa_Maria_del_Fiore_(Florence).jpg
 place:
@@ -27,13 +27,13 @@ place:
   lng: 11.255960199999999
   phone: 055 230 2885
   openingHours:
-    - "Monday: 10:15 AM – 3:45 PM"
-    - "Tuesday: 10:15 AM – 3:45 PM"
-    - "Wednesday: 10:15 AM – 3:45 PM"
-    - "Thursday: 10:15 AM – 3:45 PM"
-    - "Friday: 10:15 AM – 3:45 PM"
-    - "Saturday: 10:15 AM – 3:45 PM"
-    - "Sunday: Closed"
+    - 'Monday: 10:15 AM – 3:45 PM'
+    - 'Tuesday: 10:15 AM – 3:45 PM'
+    - 'Wednesday: 10:15 AM – 3:45 PM'
+    - 'Thursday: 10:15 AM – 3:45 PM'
+    - 'Friday: 10:15 AM – 3:45 PM'
+    - 'Saturday: 10:15 AM – 3:45 PM'
+    - 'Sunday: Closed'
 tags:
   - florence
   - Florence Cathedral Duomo
@@ -50,8 +50,8 @@ faq:
   - q: Is the Duomo worth visiting if I skip the dome climb?
     a: Yes — the free nave visit alone shows Vasari's frescoed dome interior, Ghiberti and Donatello's stained glass, and Renaissance frescoes, and pairs well with a look at Giotto's Campanile and the Baptistery doors just outside.
 aiGenerated: true
-draft: false
-updatedDate: "2026-07-24"
+draft: true
+updatedDate: '2026-07-24'
 ---
 
 ## Why go

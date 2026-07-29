@@ -6,7 +6,7 @@ region: Kota Kinabalu
 category: attraction
 pubDate: '2026-07-26T07:44:54.670Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/8956155_igLnAHVGTJSOI0CaU_WChZbRk3746BrQi4N1odVDl50.jpg
+  url: https://fastly.4sqi.net/img/general/original/464839231_cnQ51Yt6HQH2ngowhEQoOLq7C8H4WZ6qO55aEN1PPKg.jpg
   credit: 'Photo: Foursquare user content (Mari-Mari Cultural Village)'
   license: foursquare
   source: https://foursquare.com/v/4d0d58e695c1a1cd14cb01ff

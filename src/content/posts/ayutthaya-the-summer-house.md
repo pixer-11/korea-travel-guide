@@ -6,7 +6,7 @@ region: Ayutthaya
 category: trendy
 pubDate: '2026-07-22T09:18:28.850Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/53417732_MgVxmMOgxY5vEOrFTqY_G38fAW2VPc3Z0b9ka8dqB30.jpg
+  url: https://fastly.4sqi.net/img/general/original/19173375_AX4zAdZIOPAHAjWgYCdRvcCXxX7GnWm9ad1Vwya8FM4.jpg
   credit: 'Photo: Foursquare user content (The Summer House (เดอ ซัมเมอร์ เฮาส์))'
   license: foursquare
   source: https://foursquare.com/v/5574131d498ef85b1d262075
@@ -45,7 +45,7 @@ place:
       - 17
       - 18
     venueId: ven_63644752784e4c7755693052416a343235484b367a65744a496843
-  phone: '094 224 2223'
+  phone: 094 224 2223
   openingHours:
     - 'Monday: 9:30 AM – 9:30 PM'
     - 'Tuesday: 9:30 AM – 9:30 PM'

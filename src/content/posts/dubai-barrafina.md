@@ -21,7 +21,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 25.2132629
   lng: 55.282391700000005
-  phone: '04 234 1543'
+  phone: 04 234 1543
   openingHours:
     - 'Monday: 12:00 – 11:30 PM'
     - 'Tuesday: 12:00 – 11:30 PM'
@@ -46,7 +46,7 @@ faq:
   - q: What's the best time to visit to avoid a wait?
     a: Early lunch or an early dinner, before the after-work DIFC crowd arrives, tends to offer the best shot at counter seating.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Barrafina matters

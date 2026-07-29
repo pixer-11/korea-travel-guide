@@ -6,7 +6,7 @@ region: Jakarta
 category: restaurant
 pubDate: '2026-07-23T07:26:32.004Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/1002803_g2SqJYWHmrV88QTkToOk5Z1k5GSwOzYoWMbsE9RsS9Y.jpg
+  url: https://fastly.4sqi.net/img/general/original/30562620_6K2mLfXiPM5puVd0kNQiuFfy4MeJZHTl7hj22kDgZsM.jpg
   credit: 'Photo: Foursquare user content (Gajah Mada Food Centre)'
   license: foursquare
   source: https://foursquare.com/v/5bb21b7a57a5370039722729

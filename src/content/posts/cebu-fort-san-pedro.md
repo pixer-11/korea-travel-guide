@@ -6,7 +6,7 @@ region: Cebu
 category: attraction
 pubDate: '2026-07-26T07:06:36.651Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/108887013_I-DHfaWNBGtHwVYRj1lwBvCW8ZSqjoTGqTYNGEoDaQw.jpg
+  url: https://fastly.4sqi.net/img/general/original/42114401_rMQ-BPdIBGKNyfRAJxJRhfAxWogAejMGO06icCGpzOs.jpg
   credit: 'Photo: Foursquare user content (Fort San Pedro)'
   license: foursquare
   source: https://foursquare.com/v/4bf34ba26ba2b713901c8977

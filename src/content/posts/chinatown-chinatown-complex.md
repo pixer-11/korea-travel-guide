@@ -6,11 +6,10 @@ region: Chinatown
 category: restaurant
 pubDate: '2026-07-23T07:44:27.231Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/1409959977_t5yi8DSfHxB6kvqp-U9MR4RP3HzZ6jb9Ngzw1pb6zzg.jpg
+  url: https://fastly.4sqi.net/img/general/original/559549572_rh1K6qOBC_00Ym58QJZQKznYUYgv5Vs-f9f2ax7UuBw.jpg
   credit: 'Photo: Foursquare user content (Chinatown Complex Market & Food Centre)'
   license: foursquare
   source: https://foursquare.com/v/4b21d6abf964a520db4124e3
-gallery: []
 place:
   id: ChIJAenlH3MZ2jERqjoWXlxEH6w
   name: Chinatown Complex

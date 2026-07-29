@@ -1,54 +1,49 @@
 ---
-title: "Menara Taming Sari: Malacca Travel Guide"
-description: "Menara Taming Sari is the 80-metre revolving gyro tower on Jalan Merdeka in Banda Hilir, right beside the Malacca River mouth and a 5-minute walk from A"
-country: "Malaysia"
-region: "Malacca"
-category: "attraction"
-pubDate: "2026-07-26T07:16:08.116Z"
+title: 'Menara Taming Sari: Malacca Travel Guide'
+description: Menara Taming Sari is the 80-metre revolving gyro tower on Jalan Merdeka in Banda Hilir, right beside the Malacca River mouth and a 5-minute walk from A
+country: Malaysia
+region: Malacca
+category: attraction
+pubDate: '2026-07-26T07:16:08.116Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/I_Love_Menara_Taming_Sari.jpg/1920px-I_Love_Menara_Taming_Sari.jpg"
-  credit: "Photo: Taufik / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:I_Love_Menara_Taming_Sari.jpg"
-gallery:
-  - url: https://fastly.4sqi.net/img/general/original/46193174_ryhlILGrOSxddR3m5kpDJ50NmG8xwrgsotb9qg5APDc.jpg
-    credit: 'Photo: Foursquare user content (Menara Taming Sari)'
-    license: foursquare
-    source: https://foursquare.com/v/4ba37cd6f964a520674138e3
+  url: https://fastly.4sqi.net/img/general/original/46193174_ryhlILGrOSxddR3m5kpDJ50NmG8xwrgsotb9qg5APDc.jpg
+  credit: 'Photo: Foursquare user content (Menara Taming Sari)'
+  license: foursquare
+  source: https://foursquare.com/v/4ba37cd6f964a520674138e3
 place:
-  id: "ChIJOXdXEefx0TERIBvPIoH5sX8"
-  name: "Menara Taming Sari"
-  address: "Jln Merdeka, Banda Hilir, 75000 Melaka, Malaysia"
+  id: ChIJOXdXEefx0TERIBvPIoH5sX8
+  name: Menara Taming Sari
+  address: Jln Merdeka, Banda Hilir, 75000 Melaka, Malaysia
   rating: 4.4
   userRatingsTotal: 24056
-  googleMapsUrl: "https://maps.google.com/?cid=9201409846724729632&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=9201409846724729632&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 2.1909232000000003
   lng: 102.2469033
-  phone: "06-288 1100"
+  phone: 06-288 1100
   openingHours:
-    - "Monday: 9:00 AM – 10:00 PM"
-    - "Tuesday: 9:00 AM – 10:00 PM"
-    - "Wednesday: 9:00 AM – 10:00 PM"
-    - "Thursday: 9:00 AM – 10:00 PM"
-    - "Friday: 9:00 AM – 11:00 PM"
-    - "Saturday: 9:00 AM – 11:00 PM"
-    - "Sunday: 9:00 AM – 11:00 PM"
+    - 'Monday: 9:00 AM – 10:00 PM'
+    - 'Tuesday: 9:00 AM – 10:00 PM'
+    - 'Wednesday: 9:00 AM – 10:00 PM'
+    - 'Thursday: 9:00 AM – 10:00 PM'
+    - 'Friday: 9:00 AM – 11:00 PM'
+    - 'Saturday: 9:00 AM – 11:00 PM'
+    - 'Sunday: 9:00 AM – 11:00 PM'
 tags:
-  - "malacca"
-  - "top attraction"
-quickAnswer: "Menara Taming Sari is the 80-metre revolving gyro tower on Jalan Merdeka in Banda Hilir, right beside the Malacca River mouth and a 5-minute walk from A Famosa and the Stadthuys. A ride takes about 7 minutes as the enclosed pod slowly spins its way up and back down, giving a full 360-degree view over the old town, the Straits of Malacca and the port cranes beyond. It's extremely popular, so aim for the first hour after opening or just before sunset to avoid the worst queues."
+  - malacca
+  - top attraction
+quickAnswer: Menara Taming Sari is the 80-metre revolving gyro tower on Jalan Merdeka in Banda Hilir, right beside the Malacca River mouth and a 5-minute walk from A Famosa and the Stadthuys. A ride takes about 7 minutes as the enclosed pod slowly spins its way up and back down, giving a full 360-degree view over the old town, the Straits of Malacca and the port cranes beyond. It's extremely popular, so aim for the first hour after opening or just before sunset to avoid the worst queues.
 faq:
-  - q: "How long does the ride last?"
-    a: "About 7 minutes for the full rise, rotation, and descent — enough for roughly two full 360-degree turns."
-  - q: "What's the best time to avoid crowds?"
-    a: "Go right at opening or in the hour before sunset. Weekend afternoons and Malaysian school holidays bring the longest queues."
-  - q: "How do I get there from Jonker Street or Dutch Square?"
-    a: "It's an easy 5-10 minute walk through Banda Hilir, right across from the A Famosa gatehouse, or a short Grab/taxi ride."
-  - q: "How much time should I set aside?"
-    a: "Budget 45 minutes to an hour including queueing, since the ride itself is short but the wait can be long at peak times."
-  - q: "What else is nearby to combine with a visit?"
-    a: "A Famosa, the Stadthuys, Christ Church, St Paul's Hill and the Melaka River cruise jetties are all within walking distance."
+  - q: How long does the ride last?
+    a: About 7 minutes for the full rise, rotation, and descent — enough for roughly two full 360-degree turns.
+  - q: What's the best time to avoid crowds?
+    a: Go right at opening or in the hour before sunset. Weekend afternoons and Malaysian school holidays bring the longest queues.
+  - q: How do I get there from Jonker Street or Dutch Square?
+    a: It's an easy 5-10 minute walk through Banda Hilir, right across from the A Famosa gatehouse, or a short Grab/taxi ride.
+  - q: How much time should I set aside?
+    a: Budget 45 minutes to an hour including queueing, since the ride itself is short but the wait can be long at peak times.
+  - q: What else is nearby to combine with a visit?
+    a: A Famosa, the Stadthuys, Christ Church, St Paul's Hill and the Melaka River cruise jetties are all within walking distance.
 aiGenerated: true
 draft: false
 ---

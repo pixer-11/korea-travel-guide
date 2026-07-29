@@ -1,33 +1,48 @@
 ---
-title: "Clarke Quay Jetty: Travel Guide"
-description: "Clarke Quay Jetty is the small boarding point on the Singapore River where Singapore River Cruise bumboats pick up and drop off passengers along Clarke"
-country: "Singapore"
-region: "Clarke Quay"
-category: "hidden-gem"
-pubDate: "2026-07-23T07:39:28.640Z"
+title: 'Clarke Quay Jetty: Travel Guide'
+description: Clarke Quay Jetty is the small boarding point on the Singapore River where Singapore River Cruise bumboats pick up and drop off passengers along Clarke
+country: Singapore
+region: Clarke Quay
+category: hidden-gem
+pubDate: '2026-07-23T07:39:28.640Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Clarke_Quay%2C_Singapore_%2842344723700%29.jpg/1920px-Clarke_Quay%2C_Singapore_%2842344723700%29.jpg"
-  credit: "Photo: Fabio Achilli from Milano, Italy / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Clarke_Quay,_Singapore_(42344723700).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Clarke_Quay%2C_Singapore_%2842344723700%29.jpg/1920px-Clarke_Quay%2C_Singapore_%2842344723700%29.jpg
+  credit: 'Photo: Fabio Achilli from Milano, Italy / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Clarke_Quay,_Singapore_(42344723700).jpg
 gallery: []
 place:
-  id: "ChIJ4ddWE6AZ2jERsWZK8-xeBaE"
-  name: "Clarke Quay Jetty"
-  address: "Singapore"
+  id: ChIJ4ddWE6AZ2jERsWZK8-xeBaE
+  name: Clarke Quay Jetty
+  address: Singapore
   rating: 4.6
   userRatingsTotal: 409
-  googleMapsUrl: "https://maps.google.com/?cid=11602784386776983217&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=11602784386776983217&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.2899373
   lng: 103.84622879999999
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [13, 14]
-    weekdayBusy: [21]
-    weekendQuiet: [10, 11, 12, 22]
-    weekendBusy: [13, 15, 16, 17, 18, 19, 20, 21]
-    venueId: 'ven_45614265782d384b5a577352456a325a413645576464344a496843'
+    weekdayQuiet:
+      - 13
+      - 14
+    weekdayBusy:
+      - 21
+    weekendQuiet:
+      - 10
+      - 11
+      - 12
+      - 22
+    weekendBusy:
+      - 13
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+    venueId: ven_45614265782d384b5a577352456a325a413645576464344a496843
   openingHours:
     - 'Monday: 9:00 AM – 11:00 PM'
     - 'Tuesday: 9:00 AM – 11:00 PM'
@@ -37,22 +52,22 @@ place:
     - 'Saturday: 9:00 AM – 11:00 PM'
     - 'Sunday: 9:00 AM – 11:00 PM'
 tags:
-  - "clarke quay"
-  - "hidden gem"
-quickAnswer: "Clarke Quay Jetty is the small boarding point on the Singapore River where Singapore River Cruise bumboats pick up and drop off passengers along Clarke Quay's restored godown row. It's best visited in the late afternoon before sunset, when you can catch the river cruise, watch the Read Bridge crowd thin out, and see the quay's canopy lights switch on. Budget 20-30 minutes at the jetty itself, or up to an hour if you're waiting to board a cruise."
+  - clarke quay
+  - hidden gem
+quickAnswer: Clarke Quay Jetty is the small boarding point on the Singapore River where Singapore River Cruise bumboats pick up and drop off passengers along Clarke Quay's restored godown row. It's best visited in the late afternoon before sunset, when you can catch the river cruise, watch the Read Bridge crowd thin out, and see the quay's canopy lights switch on. Budget 20-30 minutes at the jetty itself, or up to an hour if you're waiting to board a cruise.
 faq:
-  - q: "How do I get to Clarke Quay Jetty by MRT?"
-    a: "Take the North East Line (purple) to Clarke Quay station and leave via Exit E, which opens directly onto the riverside promenade a 2-3 minute walk from the jetty."
-  - q: "Is there an entrance fee for the jetty?"
-    a: "The jetty itself is free to visit and photograph; you only pay if you board the Singapore River Cruise boats that depart from it. Confirm current cruise ticket prices online before you go, as they can change."
-  - q: "How long should I spend at Clarke Quay Jetty?"
-    a: "Plan for 20-30 minutes if you're just viewing and photographing it, or up to an hour if you're catching a river cruise, including boarding time."
-  - q: "What's the best time of day to visit?"
-    a: "Late afternoon into early evening (around 5-6:30pm) offers the best light and a good balance of activity without the peak nightlife crowds; early morning is best for a quiet, uncrowded look."
-  - q: "What else is nearby worth combining with a visit?"
-    a: "Read Bridge, Boat Quay's shophouse row, Fort Canning Park, and the Central mall are all within a 10-15 minute walk along the river."
+  - q: How do I get to Clarke Quay Jetty by MRT?
+    a: Take the North East Line (purple) to Clarke Quay station and leave via Exit E, which opens directly onto the riverside promenade a 2-3 minute walk from the jetty.
+  - q: Is there an entrance fee for the jetty?
+    a: The jetty itself is free to visit and photograph; you only pay if you board the Singapore River Cruise boats that depart from it. Confirm current cruise ticket prices online before you go, as they can change.
+  - q: How long should I spend at Clarke Quay Jetty?
+    a: Plan for 20-30 minutes if you're just viewing and photographing it, or up to an hour if you're catching a river cruise, including boarding time.
+  - q: What's the best time of day to visit?
+    a: Late afternoon into early evening (around 5-6:30pm) offers the best light and a good balance of activity without the peak nightlife crowds; early morning is best for a quiet, uncrowded look.
+  - q: What else is nearby worth combining with a visit?
+    a: Read Bridge, Boat Quay's shophouse row, Fort Canning Park, and the Central mall are all within a 10-15 minute walk along the river.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

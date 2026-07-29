@@ -59,6 +59,7 @@ faq:
   - q: What else is worth seeing near the restaurant?
     a: Tekka Centre (wet market and hawker food) and Sri Veeramakaliamman Temple are both a short walk away, along with the shophouse-lined lanes of Dunlop Street and Campbell Lane.
 aiGenerated: true
+draft: true
 ---
 
 ## Why go

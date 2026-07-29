@@ -2795,12 +2795,6 @@
   "reason": "photo credit names a different business (California Pizza Kitchen (캘리포니아피자키친) than the post (Dallas Pizza)",
   "at": "2026-07-29"
  },
- "taipei-sansan-bistro\u0001https://fastly.4sqi.net/img/general/original/92194845_ElzWszYJTGfgPswl-uauQja32QqzQrtuYS8Un0FuhII.jpg": {
-  "slug": "taipei-sansan-bistro",
-  "verdict": "MISMATCH",
-  "reason": "photo credit names a different business (Sugar Bistro (小食糖) than the post (Sansan Bistro)",
-  "at": "2026-07-29"
- },
  "chicago-cloud-gate\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Chicago_from_under_the_Cloud_Gate_%289694666470%29.jpg/1920px-Chicago_from_under_the_Cloud_Gate_%289694666470%29.jpg": {
   "slug": "chicago-cloud-gate",
   "verdict": "MISMATCH",

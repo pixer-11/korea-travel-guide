@@ -1,50 +1,49 @@
 ---
-title: "Taj Terrace: Where to Eat in Agra"
-description: "Taj Terrace is a rooftop restaurant at Hotel Taj Resorts, right by the Eastern Gate of the Taj Mahal in Tajganj, Agra — go for the candlelit tables, live"
-country: "India"
-region: "Agra"
-category: "restaurant"
-pubDate: "2026-07-28T10:00:48.018Z"
+title: 'Taj Terrace: Where to Eat in Agra'
+description: Taj Terrace is a rooftop restaurant at Hotel Taj Resorts, right by the Eastern Gate of the Taj Mahal in Tajganj, Agra — go for the candlelit tables, live
+country: India
+region: Agra
+category: restaurant
+pubDate: '2026-07-28T10:00:48.018Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Agra_1_Taj_viewed_from_the_terrace_DSCN2687_%2841814705524%29.jpg/1920px-Agra_1_Taj_viewed_from_the_terrace_DSCN2687_%2841814705524%29.jpg"
-  credit: "Photo: juggadery / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Agra_1_Taj_viewed_from_the_terrace_DSCN2687_(41814705524).jpg"
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/81452891_PA2yuZFwzTBP-A-g0K81xgc0D9d6kSSDTUAFqComDkU.jpg
+  credit: 'Photo: Foursquare user content (Taj Terrace)'
+  license: foursquare
+  source: https://foursquare.com/v/5dc815435c05fe0007969afb
 place:
-  id: "ChIJdQ2x_xpxdDkRop4GCxirNDU"
-  name: "Taj Terrace"
-  address: "Hotel taj resorts ,Eastern gate of tajmahal, near shilpgram, tajganj, Forest Colony, Tajganj, Agra, Uttar Pradesh 282006, India"
+  id: ChIJdQ2x_xpxdDkRop4GCxirNDU
+  name: Taj Terrace
+  address: Hotel taj resorts ,Eastern gate of tajmahal, near shilpgram, tajganj, Forest Colony, Tajganj, Agra, Uttar Pradesh 282006, India
   rating: 4.8
   userRatingsTotal: 1151
-  googleMapsUrl: "https://maps.google.com/?cid=3833877302551682722&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=3833877302551682722&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 27.168394
   lng: 78.05107799999999
-  phone: "070600 05331"
+  phone: 070600 05331
   openingHours:
-    - "Monday: 10:00 AM – 11:00 PM"
-    - "Tuesday: 10:00 AM – 11:00 PM"
-    - "Wednesday: 10:00 AM – 11:00 PM"
-    - "Thursday: 10:00 AM – 11:00 PM"
-    - "Friday: 10:00 AM – 11:00 PM"
-    - "Saturday: 10:00 AM – 11:00 PM"
-    - "Sunday: 10:00 AM – 11:00 PM"
+    - 'Monday: 10:00 AM – 11:00 PM'
+    - 'Tuesday: 10:00 AM – 11:00 PM'
+    - 'Wednesday: 10:00 AM – 11:00 PM'
+    - 'Thursday: 10:00 AM – 11:00 PM'
+    - 'Friday: 10:00 AM – 11:00 PM'
+    - 'Saturday: 10:00 AM – 11:00 PM'
+    - 'Sunday: 10:00 AM – 11:00 PM'
 tags:
-  - "agra"
-  - "local restaurant"
-quickAnswer: "Taj Terrace is a rooftop restaurant at Hotel Taj Resorts, right by the Eastern Gate of the Taj Mahal in Tajganj, Agra — go for the candlelit tables, live music, and a straight-on view of the marble dome at sunset or after dark. It's a fine-dining spot (rated 4.8 from over 1,150 reviews) that stays relatively calm even though it sits steps from Agra's biggest monument, so book an evening table and arrive before the post-sunset rush of Taj visitors filters into Tajganj's restaurants."
+  - agra
+  - local restaurant
+quickAnswer: Taj Terrace is a rooftop restaurant at Hotel Taj Resorts, right by the Eastern Gate of the Taj Mahal in Tajganj, Agra — go for the candlelit tables, live music, and a straight-on view of the marble dome at sunset or after dark. It's a fine-dining spot (rated 4.8 from over 1,150 reviews) that stays relatively calm even though it sits steps from Agra's biggest monument, so book an evening table and arrive before the post-sunset rush of Taj visitors filters into Tajganj's restaurants.
 faq:
-  - q: "How do I get to Taj Terrace from the Taj Mahal?"
-    a: "It's a short walk from the Eastern Gate of the Taj Mahal, near the Shilpgram crafts village in Tajganj — most visitors walk over after their monument visit or take a quick auto-rickshaw if coming from further in the city."
-  - q: "Do I need a reservation?"
-    a: "It's a fine-dining rooftop restaurant with live music, so booking ahead — directly or through your hotel — is recommended, especially for sunset and evening tables with a Taj Mahal view."
-  - q: "What kind of food does Taj Terrace serve?"
-    a: "The menu is global rather than strictly regional Indian, mixing Indian classics with continental dishes, served on a candlelit rooftop with live acoustic music."
-  - q: "When is the best time to visit?"
-    a: "Early evening around sunset for the light and view, or slightly later once the Taj Mahal has closed for the day and the surrounding Tajganj lanes have quieted down from the day-tripper crowd."
-  - q: "Is Taj Terrace easy to combine with a Taj Mahal visit?"
-    a: "Yes — its location right by the Eastern Gate makes it a natural stop for dinner right after touring the Taj Mahal, without needing to travel elsewhere in Agra."
+  - q: How do I get to Taj Terrace from the Taj Mahal?
+    a: It's a short walk from the Eastern Gate of the Taj Mahal, near the Shilpgram crafts village in Tajganj — most visitors walk over after their monument visit or take a quick auto-rickshaw if coming from further in the city.
+  - q: Do I need a reservation?
+    a: It's a fine-dining rooftop restaurant with live music, so booking ahead — directly or through your hotel — is recommended, especially for sunset and evening tables with a Taj Mahal view.
+  - q: What kind of food does Taj Terrace serve?
+    a: The menu is global rather than strictly regional Indian, mixing Indian classics with continental dishes, served on a candlelit rooftop with live acoustic music.
+  - q: When is the best time to visit?
+    a: Early evening around sunset for the light and view, or slightly later once the Taj Mahal has closed for the day and the surrounding Tajganj lanes have quieted down from the day-tripper crowd.
+  - q: Is Taj Terrace easy to combine with a Taj Mahal visit?
+    a: Yes — its location right by the Eastern Gate makes it a natural stop for dinner right after touring the Taj Mahal, without needing to travel elsewhere in Agra.
 aiGenerated: true
 draft: false
 ---

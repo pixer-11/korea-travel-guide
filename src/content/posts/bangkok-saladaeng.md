@@ -6,11 +6,10 @@ region: Bangkok
 category: trendy
 pubDate: '2026-07-24'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Silom_Saladaeng_Soi_1_night_view_Don_Ramey_Logan.jpg/1920px-Silom_Saladaeng_Soi_1_night_view_Don_Ramey_Logan.jpg
-  credit: 'Photo: Don Ramey Logan / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Silom_Saladaeng_Soi_1_night_view_Don_Ramey_Logan.jpg
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/3469731_ZH6pk4ZDZc3mFJowhlXiL3NDNd5KENqk9xHjHoasD9k.jpg
+  credit: 'Photo: Foursquare user content (Sala Daeng Road (ถนนศาลาแดง))'
+  license: foursquare
+  source: https://foursquare.com/v/4c67a7ff9cedd13a2c2f79a1
 place:
   id: ChIJM4N27S6f4jAR3ykXdNCDeAw
   name: Sala Daeng Road

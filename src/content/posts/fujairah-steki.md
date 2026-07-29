@@ -6,11 +6,10 @@ region: Fujairah
 category: restaurant
 pubDate: '2026-07-23T07:52:22.299Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/79285698_cUpkySSVXvnfN8xg740v4-PuX9OqeUXRis3B4_orWNg.jpg
+  url: https://fastly.4sqi.net/img/general/original/84154256_rYKZ3_8wCk3Pne81EkLmh6oIXQhBxSAsxc2rfsC_Okg.jpg
   credit: 'Photo: Foursquare user content (Steki)'
   license: foursquare
   source: https://foursquare.com/v/636bcb38725e1827c5a07249
-gallery: []
 place:
   id: ChIJ-4ICd2f59D4R9_ourQdM1tI
   name: Steki

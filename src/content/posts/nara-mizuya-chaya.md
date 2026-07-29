@@ -6,7 +6,7 @@ region: Nara
 category: restaurant
 pubDate: '2026-07-22T09:03:25.722Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/1686706_KHwotsY4cHt3COJ5eQANrVXnph4LY2Kc68pbTPiV6O4.jpg
+  url: https://fastly.4sqi.net/img/general/original/10469860_Cjxy4-AuDDr7n4Mt2gDsEiSrcmi8s7I2q38wWYSWTcw.jpg
   credit: 'Photo: Foursquare user content (Mizuya-Chaya (水谷茶屋))'
   license: foursquare
   source: https://foursquare.com/v/4be11821a7380f475b4a19b0

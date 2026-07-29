@@ -58,6 +58,7 @@ faq:
   - q: What else is nearby?
     a: ION Orchard itself for shopping and dining, Emerald Hill's conserved shophouses a short walk away, and the Singapore Botanic Gardens further along Orchard/Napier Road.
 aiGenerated: true
+draft: true
 ---
 
 ## Why go

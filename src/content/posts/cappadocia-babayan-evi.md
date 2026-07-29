@@ -6,10 +6,10 @@ region: Cappadocia
 category: restaurant
 pubDate: '2026-07-23'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/129133343_QyNfBImCekN_S5Ge4_A25GTPJOLSM2gz4CDyNsxowzk.jpg
-  credit: 'Photo: Foursquare user content (Yaren Kahvaltı Evi)'
+  url: https://fastly.4sqi.net/img/general/original/59219805_GJ1RFSkqm70XOoIf5P8eWKgvupopzPVmbHx2FJ0_EFE.jpg
+  credit: 'Photo: Foursquare user content (Babayan Evi Restaurant)'
   license: foursquare
-  source: https://foursquare.com/v/51cbf9ba498ed4e430382c65
+  source: https://foursquare.com/v/508bb5e7e4b08e7b432a0b18
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/47057795_0A5hdVhXr7ReqIhwYiVoZbNx0v949vK3PSp2mhPxA0s.jpg
     credit: 'Photo: Foursquare user content (Babayan Evi Restaurant)'
@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 38.598890399999995
   lng: 34.848416799999995
-  phone: '0543 208 18 97'
+  phone: 0543 208 18 97
   openingHours:
     - 'Monday: 8:00 AM – 12:00 AM'
     - 'Tuesday: 8:00 AM – 12:00 AM'

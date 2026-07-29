@@ -37,6 +37,7 @@ faq:
   - q: What else is nearby to combine with a visit?
     a: The ArtScience Museum, the Sands SkyPark, and the nightly Spectra light show along the waterfront are all within walking distance.
 aiGenerated: true
+draft: true
 ---
 
 ## Why go

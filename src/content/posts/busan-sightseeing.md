@@ -1,8 +1,8 @@
 ---
-title: "Sightseeing in Busan"
-description: "Focus a Busan trip around three zones: Haeundae/Gwangalli for beaches and skyline views, Nampo-dong/Jagalchi for old-city harbor life and street food, and"
+title: Sightseeing in Busan
+description: 'Focus a Busan trip around three zones: Haeundae/Gwangalli for beaches and skyline views, Nampo-dong/Jagalchi for old-city harbor life and street food, and'
 region: Busan
-country: "South Korea"
+country: South Korea
 category: attraction
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
@@ -27,7 +27,7 @@ faq:
   - q: What food should I try while sightseeing?
     a: Dwaeji gukbap (pork and rice soup) is Busan's signature dish, best found near Seomyeon or Busan Station. At Jagalchi Market and BIFF Square, try fresh raw fish upstairs at the market and ssiat hotteok (seed-filled sweet pancakes) as a street snack.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Busan Rewards a Slow Look
