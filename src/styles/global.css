@@ -616,7 +616,12 @@ main { flex: 1; width: 100%; }
 .article-head .kicker { display: flex; gap: 0.6rem; align-items: center; color: var(--muted); font-size: 0.9rem; margin-bottom: 0.8rem; flex-wrap: wrap; }
 .article-head h1 { font-size: clamp(2rem, 5vw, 3rem); line-height: 1.08; }
 .article-hero { margin: 1.5rem 0; border-radius: var(--r-lg); overflow: hidden; box-shadow: var(--shadow-md); }
-.article-hero img { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; }
+/* height:auto is load-bearing: the <img> carries height="675" for layout
+   stability, and without this the attribute wins over aspect-ratio — every
+   post rendered a 675px-tall hero on a 375px phone, eating 83% of the first
+   screen and pushing the summary below the fold. .gallery img below always
+   had it; this one did not. */
+.article-hero img { width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; }
 .article-hero figcaption { padding: 0.6rem 1rem; font-size: 0.8rem; color: var(--muted); background: var(--surface-2); }
 
 .prose { font-size: 1.08rem; line-height: 1.8; color: var(--ink-soft); }

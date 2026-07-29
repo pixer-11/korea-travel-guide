@@ -1,0 +1,146 @@
+{
+  "Autumn Foliage in Seoul": {
+    "ko": "서울 단풍철",
+    "ja": "ソウルの紅葉",
+    "es": "Otoño en Seúl (hojas de otoño)",
+    "zh": "首尔赏枫"
+  },
+  "Autumn Leaves (Koyo) in Japan": {
+    "ko": "일본 단풍(고요, 紅葉)",
+    "ja": "紅葉",
+    "es": "Koyo, el otoño en Japón",
+    "zh": "日本红叶(紅葉)"
+  },
+  "Boryeong Mud Festival": {
+    "ko": "보령 머드축제",
+    "ja": "保寧マッドフェスティバル",
+    "es": "Festival del Barro de Boryeong",
+    "zh": "保宁泥浆节"
+  },
+  "Cannes Film Festival": {
+    "ko": "칸 영화제",
+    "ja": "カンヌ国際映画祭",
+    "es": "Festival de Cannes",
+    "zh": "戛纳电影节"
+  },
+  "Cherry Blossom Season in Japan": {
+    "ko": "일본 벚꽃철",
+    "ja": "お花見",
+    "es": "Temporada de los cerezos en flor en Japón (Sakura)",
+    "zh": "日本樱花季"
+  },
+  "Cherry Blossom Season in Seoul": {
+    "ko": "서울 벚꽃철",
+    "ja": "ソウルの桜",
+    "es": "Temporada de los cerezos en flor en Seúl",
+    "zh": "首尔樱花季"
+  },
+  "Chinese New Year (Spring Festival)": {
+    "ko": "춘절(春節)",
+    "ja": "春節",
+    "es": "Año Nuevo Chino (Fiesta de la Primavera)",
+    "zh": "春节"
+  },
+  "Christmas in Rome": {
+    "ko": "로마 크리스마스",
+    "ja": "ローマのクリスマス",
+    "es": "Navidad en Roma",
+    "zh": "罗马圣诞节"
+  },
+  "Gion Matsuri Festival": {
+    "ko": "기온 마쓰리(祇園祭)",
+    "ja": "祇園祭",
+    "es": "Festival Gion Matsuri",
+    "zh": "祇园祭"
+  },
+  "Jinju Namgang Lantern Festival": {
+    "ko": "진주남강유등축제",
+    "ja": "晋州南江流灯祭り(チンジュ ナムガン ユドゥンチェ)",
+    "es": "Festival de los Faroles del Río Namgang de Jinju",
+    "zh": "晋州南江灯会"
+  },
+  "La Tomatina": {
+    "ko": "라 토마티나(La Tomatina)",
+    "ja": "トマティーナ",
+    "es": "La Tomatina",
+    "zh": "西红柿节(La Tomatina)"
+  },
+  "Las Fallas Festival": {
+    "ko": "라스 파야스(Las Fallas)",
+    "ja": "サン・ホセの火祭り(ラス・ファリャス)",
+    "es": "Las Fallas",
+    "zh": "法雅节(Las Fallas)"
+  },
+  "Mardi Gras": {
+    "ko": "마르디 그라(Mardi Gras)",
+    "ja": "マルディグラ",
+    "es": "Martes de Carnaval (Mardi Gras)",
+    "zh": "狂欢节(Mardi Gras)"
+  },
+  "Mid-Autumn Festival": {
+    "ko": "중추절(中秋節)",
+    "ja": "中秋節",
+    "es": "Festival del Medio Otoño",
+    "zh": "中秋节"
+  },
+  "National Cherry Blossom Festival": {
+    "ko": "워싱턴 D.C. 벚꽃축제",
+    "ja": "全米桜祭り(ナショナル・チェリー・ブロッサム・フェスティバル)",
+    "es": "Festival Nacional de los Cerezos en Flor de Washington D. C.",
+    "zh": "美国国家樱花节"
+  },
+  "New Year's Eve in Times Square": {
+    "ko": "타임스스퀘어 신년맞이 행사",
+    "ja": "タイムズスクエアのカウントダウン",
+    "es": "Nochevieja en Times Square",
+    "zh": "时代广场跨年"
+  },
+  "Nice Carnival": {
+    "ko": "니스 카니발",
+    "ja": "ニース・カーニバル",
+    "es": "Carnaval de Niza",
+    "zh": "尼斯狂欢节"
+  },
+  "Provence Lavender Bloom": {
+    "ko": "프로방스 라벤더 개화",
+    "ja": "プロヴァンスのラベンダー畑",
+    "es": "Floración de la lavanda en Provenza",
+    "zh": "普罗旺斯薰衣草花期"
+  },
+  "Sapporo Snow Festival": {
+    "ko": "삿포로 눈축제",
+    "ja": "さっぽろ雪まつり",
+    "es": "Festival de la Nieve de Sapporo",
+    "zh": "札幌雪祭"
+  },
+  "Semana Santa (Holy Week)": {
+    "ko": "세마나 산타(성주간)",
+    "ja": "セマナ・サンタ(聖週間)",
+    "es": "Semana Santa",
+    "zh": "圣周(Semana Santa)"
+  },
+  "Songkran Water Festival": {
+    "ko": "송끄란(Songkran) 축제",
+    "ja": "ソンクラーン",
+    "es": "Songkran, el festival del agua",
+    "zh": "泼水节(宋干节)"
+  },
+  "Strasbourg Christmas Market": {
+    "ko": "스트라스부르 크리스마스 마켓",
+    "ja": "ストラスブールのクリスマスマーケット",
+    "es": "Mercado de Navidad de Estrasburgo",
+    "zh": "斯特拉斯堡圣诞市集"
+  },
+  "Venice Carnival": {
+    "ko": "베네치아 카니발",
+    "ja": "ヴェネツィア・カーニバル",
+    "es": "Carnaval de Venecia",
+    "zh": "威尼斯狂欢节"
+  },
+  "Yi Peng Lantern Festival": {
+    "ko": "이뻥(Yi Peng) 등불축제",
+    "ja": "イーペン(ローイクラトンの灯篭祭り)",
+    "es": "Festival de los Faroles de Yi Peng",
+    "zh": "耶peng天灯节(Yi Peng)"
+  }
+}

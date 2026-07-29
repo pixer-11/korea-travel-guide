@@ -26,6 +26,13 @@ const TYPES = [
   { name: 'essentials', dir: 'essentials' },
   { name: 'continent', dir: 'continents' },
   { name: 'tools', dir: 'tools' },
+  // when-to-go lives under tools/, but the sampler fills its quota walking that
+  // directory alphabetically and never reaches it — so 1,025 pages sat unchecked
+  // behind a type that reported clean. Same shape as the miss that let itinerary
+  // pages ship with English stop names: a type is only audited if it is named.
+  // Anything added under an existing directory needs its own entry here.
+  { name: 'when-to-go', dir: 'tools/when-to-go' },
+  { name: 'roundup', dir: 'regions' },
 ];
 
 // Leaks are checked against VISIBLE html only — schema.org JSON-LD and other

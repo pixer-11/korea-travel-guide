@@ -14,6 +14,7 @@ import { isEventPast } from '../lib/eventStatus';
 import { slugifyRegion } from '../lib/slug';
 import { getLangFromUrl, useTranslations, localeCodes, defaultLang, localizePath, klookLocale } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
+import { formatHourRanges } from '../lib/hours.mjs';
 
 // Shared article view for BOTH the English page (/posts/…) and the localized
 // pages (/ko/posts/… etc). One template, so a fix can never land on only one of
@@ -115,19 +116,11 @@ const placeLabel = (lang === defaultLang
   ? placeName
   : String(title).split(/[:—]/)[0].trim() || placeName) || placeName;
 
-// Real foot-traffic (BestTime.app): turn stored 24h hour arrays into reader-
-// friendly ranges, e.g. [8,9,10] → "8–11 AM". Honest data only — see besttime.mjs.
-function fmtHourRanges(hours) {
-  const xs = [...new Set(hours ?? [])].filter((h) => Number.isInteger(h)).sort((a, b) => a - b);
-  if (!xs.length) return null;
-  // AM/PM is a locale word, not punctuation — Korean readers get 오전/오후.
-  const AM = t('post.am'), PM = t('post.pm');
-  const f = (h) => { const x = ((h % 24) + 24) % 24; return { t: x % 12 === 0 ? 12 : x % 12, m: x < 12 ? AM : PM }; };
-  const runs = []; let s = xs[0], prev = xs[0];
-  for (let i = 1; i < xs.length; i++) { if (xs[i] === prev + 1) { prev = xs[i]; continue; } runs.push([s, prev]); s = xs[i]; prev = xs[i]; }
-  runs.push([s, prev]);
-  return runs.map(([a, b]) => { const x = f(a), y = f(b + 1); return x.m === y.m ? `${x.t}–${y.t} ${y.m}` : `${x.t} ${x.m}–${y.t} ${y.m}`; }).join(', ');
-}
+// Real foot-traffic (BestTime.app): stored 24h hour arrays become reader-friendly
+// ranges. The formatter moved to src/lib/hours.mjs so the when-to-go pages can
+// print the same thing — they were headlining "verified quiet times" and showing
+// venue cards with no times on them.
+const fmtHourRanges = (hours) => formatHourRanges(hours, { am: t('post.am'), pm: t('post.pm') });
 const bz = p?.busyness;
 const quietWd = fmtHourRanges(bz?.weekdayQuiet), quietWe = fmtHourRanges(bz?.weekendQuiet);
 const busyWd = fmtHourRanges(bz?.weekdayBusy), busyWe = fmtHourRanges(bz?.weekendBusy);

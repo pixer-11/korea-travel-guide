@@ -5,6 +5,8 @@ import PlanTrip from './PlanTrip.astro';
 import Newsletter from './Newsletter.astro';
 import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
+import { localizeEvent } from '../i18n/events';
+import { formatHourRanges } from '../lib/hours.mjs';
 import { loadCardTranslations, cardHelpers } from '../i18n/cards';
 import { MONTHS, monthSlug } from '../lib/when-to-go.mjs';
 
@@ -51,6 +53,16 @@ const rainLine = data.wettest
   ? t('wtg.driest')
   : fill('wtg.rainRank', { rank: ordinal(data.rainRank), share: data.rainShare });
 
+// The section is headlined "verified quiet times" and was rendering plain venue
+// cards — the one dataset no competing travel site holds, promised and then not
+// shown. Same formatter the venue pages use.
+const quietFor = (p: any) => {
+  const bz = p?.data?.place?.busyness;
+  if (!bz) return null;
+  const labels = { am: t('post.am'), pm: t('post.pm') };
+  return formatHourRanges(bz.weekdayQuiet, labels) || formatHourRanges(bz.weekendQuiet, labels);
+};
+
 const holidayDate = (iso: string) =>
   new Intl.DateTimeFormat(localeCodes[lang], { month: 'long', day: 'numeric', timeZone: 'UTC' })
     .format(new Date(iso + 'T00:00:00Z'));
@@ -81,7 +93,7 @@ const jsonLd = {
 };
 ---
 
-<BaseLayout title={title} description={dek} lang={lang}>
+<BaseLayout title={title} description={dek} lang={lang} localized={true}>
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 
   <article class="wtg">
@@ -150,7 +162,7 @@ const jsonLd = {
         <h2>{fill('wtg.events', { month: thisMonth })}</h2>
         <ul class="wtg-list">
           {data.events.map((e: any) => (
-            <li><span>{e.name}</span>{e.region && <span class="wtg-date">{localizePlace(e.region, lang)}</span>}</li>
+            <li><span>{localizeEvent(e.name, lang)}</span>{e.region && <span class="wtg-date">{localizePlace(e.region, lang)}</span>}</li>
           ))}
         </ul>
       </section>
@@ -160,18 +172,15 @@ const jsonLd = {
       <section class="wtg-quiet">
         <h2>{t('wtg.quiet')}</h2>
         <p class="section-dek">{t('wtg.quietDek')}</p>
-        <div class="grid">
+        <ul class="wtg-quietlist">
           {data.quietVenues.map((p: any) => (
-            <PostCard
-              href={card.href(p.id, true)}
-              title={card.title(p.id, p.data.place?.name ?? p.data.title)}
-              description={card.desc(p.id, p.data.description)}
-              region={p.data.region}
-              category={p.data.category}
-              image={p.data.heroImage?.url}
-            />
+            <li>
+              <a href={card.href(p.id, true)}>{card.title(p.id, p.data.place?.name ?? p.data.title).split(/[:—]/)[0].trim()}</a>
+              <span class="wtg-q-region">{localizePlace(p.data.region, lang)}</span>
+              {quietFor(p) && <span class="wtg-q-hours">{quietFor(p)}</span>}
+            </li>
           ))}
-        </div>
+        </ul>
       </section>
     )}
 
@@ -179,7 +188,7 @@ const jsonLd = {
       <section class="wtg-places">
         <h2>{fill('wtg.places', { country: countryLabel })}</h2>
         <div class="grid">
-          {data.topVenues.map((p: any) => (
+          {data.topVenues.filter((p: any) => !data.quietVenues.some((q: any) => q.id === p.id)).map((p: any) => (
             <PostCard
               href={card.href(p.id, true)}
               title={card.title(p.id, p.data.place?.name ?? p.data.title)}
@@ -248,6 +257,22 @@ const jsonLd = {
   .wtg-date { color: var(--muted); font-size: 0.85rem; white-space: nowrap; }
 
   .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 1rem; }
+
+  /* Quiet hours as a compact list, not photo cards: the hour IS the content, and
+     a grid of images buried it. Also keeps the page short enough that the
+     booking and newsletter blocks are not 8,000px down on a phone. */
+  .wtg-quietlist { list-style: none; margin: 0; padding: 0; }
+  .wtg-quietlist li {
+    display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.5rem;
+    padding: 0.6rem 0; border-bottom: 1px solid var(--line-soft);
+  }
+  .wtg-quietlist a { color: var(--ink); text-decoration: none; font-weight: 600; }
+  .wtg-quietlist a:hover { color: var(--accent); text-decoration: underline; }
+  .wtg-q-region { color: var(--muted); font-size: 0.82rem; }
+  .wtg-q-hours {
+    margin-left: auto; font-variant-numeric: tabular-nums; font-weight: 700;
+    color: var(--accent); white-space: nowrap;
+  }
 
   .wtg-months ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 0.5rem; }
   .wtg-months a {
