@@ -73,6 +73,12 @@ const T = {
   'EMPTY-WHY': () => '추천 이유가 비어 있음',
   // 번역
   'PROSE-LEAK': (f) => `번역본에 원문 언어가 섞여 있음${f.lang ? ` (${f.lang})` : ''}`,
+  'MISSING-COUNTRY': () => '국가 정보가 비어 있음 — 국가별 목록·기후·소셜 카드에서 누락됨',
+  'PHOTO-WRONG-VENUE': (f) =>
+    `사진이 다른 가게의 것${f.quoted[1] ? ` (글: ${f.quoted[0]} / 사진: ${f.quoted[1]})` : ''}`,
+  'SAME-PHOTO-TWICE': () => '같은 사진이 한 글에 두 번 쓰임',
+  'STALE-RATING': () => '평점 정보가 오래되어 실제와 다를 수 있음',
+  'PLACEHOLDER-TEXT': () => '자리표시 문구가 그대로 남아 있음',
   'STALE-TRANSLATION': () => '원문이 바뀐 뒤 번역이 갱신되지 않음',
   'ORPHAN-TRANSLATION': () => '원문 없는 번역 파일',
   // 공통
@@ -131,9 +137,47 @@ export function koStatLine(raw) {
 }
 
 /** One raw validator line → one Korean line. Never returns English prose. */
+// What each audit-i18n-leaks rule actually means, in plain Korean. A rule id
+// added there without an entry here still reports — it just names the rule.
+const LEAK_RULE = {
+  'klook-en-US': '예약 링크가 영어(en-US) 페이지로 연결됨',
+  'tickets-tours': '"Tickets & tours for" 문구가 영어 그대로',
+  'price-Free': '요금 표시가 "Free"로 영어',
+  'time-unit': '소요시간 단위(h/min)가 영어',
+  'am-pm': '시간이 "9–10 AM" 식 영어 표기 (한국어는 "오전 9~10시")',
+  'ui-where-to-stay': '"Where to stay in" 제목이 영어',
+  'ui-plan-your-trip': '"Plan your trip" 제목이 영어',
+  'ui-getting-there': '"Getting there" 항목이 영어',
+  'ui-all-destinations': '"All destinations" 링크가 영어',
+  'ui-when-to-go': '"When to go" 링크가 영어',
+};
+
 export function koIssueLine(raw) {
-  const line = String(raw).replace(/^\s*[•*-]\s*/, '').trim();
+  const line = String(raw).replace(/^\s*[•*-]\s*/, '').replace(/^❌\s*/, '').trim();
   if (!line) return '';
+
+  // audit-i18n-leaks.mjs writes "ko/roundup — am-pm — dist/ko/…/index.html":
+  // the rule id sits in the middle and is lower-case, so the CODE: form below
+  // never matched and every leak arrived as "점검 항목 — 대상 미상".
+  // The same audit's two ⚠️ shapes. "built pages missing" means a whole language
+  // was not checked at all, which is the most important line it can print and
+  // read as "대상 미상" until this existed.
+  const noPages = line.match(/^⚠️?\s*(ko|ja|es|zh)(?:\/(\S+))?:\s*(built pages missing|no pages found)/);
+  if (noPages) {
+    const [, lang, type, kind] = noPages;
+    return kind === 'built pages missing'
+      ? `• ${lang} — 빌드된 페이지가 없어 이 언어는 검사조차 못 했습니다`
+      : `• ${lang}/${type} — 해당 페이지가 하나도 없어 검사에서 빠졌습니다`;
+  }
+
+  const leak = line.match(/^(ko|ja|es|zh)\/(\S+)\s+—\s+([\w-]+)\s+—\s+(.+)$/);
+  if (leak) {
+    const [, lang, type, rule, path] = leak;
+    const what = LEAK_RULE[rule] ?? `영어가 남아 있음 (${rule})`;
+    const page = path.replace(/^dist\//, '').replace(/index\.html$/, '');
+    return `• ${lang}/${type} · ${page} — ${what}`;
+  }
+
   const m = line.match(/^([A-Z][A-Z0-9-]{2,}):\s*([\s\S]*)$/);
   if (!m) {
     // A line with no code carries only prose we cannot trust to be Korean.
@@ -171,7 +215,18 @@ export function koDigest(stdout, { max = 20 } = {}) {
   const declared = Number(all.find((l) => /^❌\s*\d+/.test(l))?.match(/\d+/)?.[0]) || null;
 
   // Skip only the validator's own headline/OK lines — never an issue line.
-  const isChrome = (l) => /^[❌✓✔️🌐]/.test(l) || /^-{3,}$/.test(l);
+  // ✅ and 📋 were missing here, so audit-i18n-leaks.mjs — which ends a CLEAN run
+  // with "📋 checked 224 page(s)…" and "✅ no English leaks" — produced "문제 2건"
+  // out of its own success message. A false alarm teaches the owner to ignore
+  // the alarms, which is worse than no alarm at all.
+  // ❌ is used for BOTH the closing tally ("❌ 7 leak(s)") and for each individual
+  // finding ("❌ ko/roundup — am-pm — path.html"). Treating every ❌ line as
+  // chrome silenced the findings themselves: the owner got a count with no
+  // content, for the exact audit — English leaking into Korean pages — he has
+  // complained about most. Only the tally is chrome.
+  const isChrome = (l) =>
+    /^❌\s*\d/.test(l) || /^[✓✔️🌐✅📋]/.test(l) || /^-{3,}$/.test(l) ||
+    /^\d+\s*type\(s\) had no pages/.test(l);
   const issues = all.filter((l) => !isChrome(l));
 
   if (!issues.length) {
@@ -181,7 +236,7 @@ export function koDigest(stdout, { max = 20 } = {}) {
       return `문제 ${declared}건이 보고됐지만 내용을 읽지 못했어요 — 실행 로그를 확인해 주세요.`;
     }
     // A clean run: a ✓ line and no ❌ tally. Distinct from "we read nothing".
-    if (all.some((l) => /^[✓✔️]/.test(l))) return '';
+    if (all.some((l) => /^[✓✔️✅]/.test(l))) return '';
     return '내용을 읽지 못했어요 — 실행 로그를 확인해 주세요.';
   }
 

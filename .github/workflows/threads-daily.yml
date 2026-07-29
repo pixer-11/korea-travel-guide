@@ -29,6 +29,13 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          # The carousel's fallback photo sources. Commons has nothing for a café
+          # or a restaurant, so venuePhotoCandidates() is what fills those posts'
+          # slides — and with no keys it returns an empty array without logging
+          # anything, so that half of the carousel has never run in CI. Same
+          # shape as the BestTime key that went missing for days.
+          FOURSQUARE_API_KEY: ${{ secrets.FOURSQUARE_API_KEY }}
+          FLICKR_API_KEY: ${{ secrets.FLICKR_API_KEY }}
         run: node scripts/threads-daily.mjs
 
       - name: Commit state

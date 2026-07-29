@@ -135,14 +135,23 @@ export async function resolveHero({ namedVenue, region, topic, place, country = 
     // share ≥2 tokens with venue-name+region, so only a genuinely-matching file
     // ("Steki" alone can't pass without "Fujairah") is ever accepted.
     const venueGuard = eventMode ? {} : { crossCheck: tokens(`${namedVenue} ${reg}`), minCross: 2 };
+    // The name-and-coordinates tests. Without these the hero search accepts a
+    // photo taken FROM the landmark, and a same-named place anywhere on earth:
+    // a "Secret Lagoon" post about El Nido was headed by a lagoon in Batanes,
+    // 1,000km north. Events are excluded — a performer's photo is correctly
+    // taken somewhere other than the venue, and often has no coordinates.
+    const identity = eventMode ? {} : {
+      subject: namedVenue,
+      near: place?.lat && place?.lng ? { lat: place.lat, lng: place.lng } : null,
+    };
     // Full name (+region, then bare), then an anchor-ONLY search that finds the real
     // performer/athlete ("Ankalaev") BUT is cross-checked: the image title must
     // share ≥2 tokens with the event name, so "Magomed Ankalaev at UFC Fight Night"
     // (ankalaev+ufc+fight+night) passes while a bare "david"→statue / "sonic"→game /
     // "83rd"→army-division photo (1 token) is rejected → falls to the event-TYPE image.
     const byName =
-      (await commonsBest(`${namedVenue} ${reg}`, { mustInclude: [anchor], used, ...copts, ...venueGuard })) ||
-      (await commonsBest(namedVenue, { mustInclude: [anchor], used, ...copts, ...venueGuard })) ||
+      (await commonsBest(`${namedVenue} ${reg}`, { mustInclude: [anchor], used, ...copts, ...venueGuard, ...identity })) ||
+      (await commonsBest(namedVenue, { mustInclude: [anchor], used, ...copts, ...venueGuard, ...identity })) ||
       (eventMode && anchor.length >= 4 && !new Set(tokens(reg || '')).has(anchor) && !GEO_STOP.has(anchor)
         ? await commonsBest(anchor, { mustInclude: [anchor], used, ...copts, crossCheck: tokens(namedVenue), minCross: 2 })
         : null);

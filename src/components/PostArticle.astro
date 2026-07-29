@@ -15,7 +15,7 @@ import { isEventPast } from '../lib/eventStatus';
 import { slugifyRegion } from '../lib/slug';
 import { getLangFromUrl, useTranslations, localeCodes, defaultLang, localizePath, klookLocale } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
-import { formatHourRanges } from '../lib/hours.mjs';
+import { formatHourRanges, localizeOpeningLine } from '../lib/hours.mjs';
 
 // Shared article view for BOTH the English page (/posts/…) and the localized
 // pages (/ko/posts/… etc). One template, so a fix can never land on only one of
@@ -121,7 +121,7 @@ const placeLabel = (lang === defaultLang
 // ranges. The formatter moved to src/lib/hours.mjs so the when-to-go pages can
 // print the same thing — they were headlining "verified quiet times" and showing
 // venue cards with no times on them.
-const fmtHourRanges = (hours) => formatHourRanges(hours, { am: t('post.am'), pm: t('post.pm') });
+const fmtHourRanges = (hours) => formatHourRanges(hours, { am: t('post.am'), pm: t('post.pm'), lang });
 const bz = p?.busyness;
 const quietWd = fmtHourRanges(bz?.weekdayQuiet), quietWe = fmtHourRanges(bz?.weekendQuiet);
 const busyWd = fmtHourRanges(bz?.weekdayBusy), busyWe = fmtHourRanges(bz?.weekendBusy);
@@ -333,8 +333,10 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
 // day name, so 54 venues saved hours wrong on up to six days and 16 — including
 // Chatuchak WEEKEND Market and the Forbidden City — saved the word "Closed" as
 // their hours. /my-trip picks the line for the day the reader is actually looking.
+// Weekday names went untranslated here too — the saved trip showed a Korean
+// reader "Monday: 8:00 오전". Same helper as the fact box, so they cannot drift.
 const saveHours = (p?.openingHours ?? []).map((l) =>
-  String(l).replace(/AM/g, t("post.am")).replace(/PM/g, t("post.pm"))
+  localizeOpeningLine(l, lang, { am: t('post.am'), pm: t('post.pm') })
 );
 // Weekday and weekend quiet windows differ at 15 of the 26 venues that have both,
 // so both travel and /my-trip shows whichever matches today.
@@ -439,7 +441,7 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
           <details class="hours">
             <summary><Emoji name="three-oclock" /> {t('post.openingHours')}</summary>
             <ul>
-              {p.openingHours.map((line) => <li>{line}</li>)}
+              {p.openingHours.map((line) => <li>{localizeOpeningLine(line, lang, { am: t('post.am'), pm: t('post.pm') })}</li>)}
             </ul>
           </details>
         )}

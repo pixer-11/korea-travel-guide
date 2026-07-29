@@ -64,7 +64,7 @@ async function auditFrontmatter(root, lang, file, fm, body = '') {
   // A body or answer that is literally the word 'placeholder'. One Chinese page
   // shipped with both — the whole article was that word — and nothing noticed,
   // because the file existed, parsed, and had a real title.
-  if (/^s*placeholders*$/im.test(body) || /:s*placeholders*$/im.test(fm)) {
+  if (/^\s*placeholder\s*$/im.test(body) || /:\s*placeholder\s*$/im.test(fm)) {
     flags.push(['PLACEHOLDER-BODY', 'placeholder']);
   }
   if (!srcDir || !src) return flags;

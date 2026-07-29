@@ -248,6 +248,14 @@ jobs:
       - name: Build hero photo-wall thumbnails
         run: node scripts/build-wall.mjs
 
+      # Runs BEFORE the commit on purpose. It sat after it for one day, and in
+      # that position the queue it writes was destroyed with the runner every
+      # single time — an audit that changed nothing and told nobody.
+      - name: Audit hero file names
+        id: heroaudit
+        continue-on-error: true
+        run: node scripts/audit-hero-titles.mjs --fix
+
       - name: Commit new posts
         id: commit
         run: |
@@ -256,7 +264,7 @@ jobs:
           # country-facts.json and the essentials guides are here because the
           # step above can create them for a newly added country; without them
           # staged, that work is generated and then thrown away on every run.
-          git add src/content/posts src/content/i18n data/published.json public/wall data/wall.json src/i18n/places.json src/i18n/country-blurbs.json src/i18n/regions.json src/content/itineraries src/content/itineraries-i18n data/itineraries-state.json data/logs/itinerary-last-run.txt data/country-facts.json src/content/essentials src/content/essentials-i18n
+          git add data/visual-audit.json src/content/posts src/content/i18n data/published.json public/wall data/wall.json src/i18n/places.json src/i18n/country-blurbs.json src/i18n/regions.json src/content/itineraries src/content/itineraries-i18n data/itineraries-state.json data/logs/itinerary-last-run.txt data/country-facts.json src/content/essentials src/content/essentials-i18n
           new=$(git diff --cached --name-only --diff-filter=A -- src/content/posts | grep -c '\.md$' || true)
           total=$(ls src/content/posts/*.md | wc -l | tr -d ' ')
           echo "new=$new" >> "$GITHUB_OUTPUT"
@@ -304,9 +312,47 @@ jobs:
       # while standing at the landmark, and it headed the Cloud Gate guide. Only
       # the file name gives that away, so it is read here and the failures are
       # queued into visual-audit.json for the next re-resolution run.
-      - name: Audit hero file names
+      - name: Warn if a hero photo was queued for replacement
+        if: steps.heroaudit.outcome == 'failure'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
+          MSG=$(node scripts/audit-hero-titles.mjs 2>&1 | grep -E '^(vantage|unusable)' | head -10 || true)
+          TXT=$(printf '⚠️ 대표사진이 장소를 제대로 안 보여줍니다\n아래 글은 사진 교체 대기열에 넣었습니다.\n%s' "$MSG")
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+            --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
+            --data-urlencode "text=$TXT" >/dev/null || true
+
+      # English leaking into a localized page is the complaint the owner has
+      # raised most often, and the audit that catches it existed for weeks
+      # without anything running it — so it only ever ran when someone thought
+      # to type the command. A check nobody triggers is not a check.
+      # A regex that lost its backslashes is still valid and simply matches the
+      # wrong thing, so it survives review and every diff. Four landed in one day;
+      # one of them silently disabled a placeholder check for a week.
+      - name: Lint regexes for lost backslashes
         continue-on-error: true
-        run: node scripts/audit-hero-titles.mjs --fix
+        run: node scripts/lint-regex.mjs
+
+      - name: Audit localized pages for English leaks
+        id: i18nleaks
+        continue-on-error: true
+        run: node scripts/audit-i18n-leaks.mjs
+
+      - name: Warn on English leaks
+        if: steps.i18nleaks.outcome == 'failure'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
+          MSG=$(node scripts/ko-report.mjs scripts/audit-i18n-leaks.mjs 2>&1 | head -20 || true)
+          TXT=$(printf '⚠️ 번역 페이지에 영어가 섞였습니다\n%s' "$MSG")
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+            --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
+            --data-urlencode "text=$TXT" >/dev/null || true
 
       # Same accuracy gate scripts/build-itineraries.mjs already runs per-file
       # before ever renaming a temp file over a live target — this is the

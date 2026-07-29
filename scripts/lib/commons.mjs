@@ -290,8 +290,13 @@ export async function wikipediaLeadImage(name, { used, minWidth = 1000 } = {}) {
   };
 }
 
-export async function commonsBest(query, { mustInclude = [], used, allowPortrait = false, minWidth = 1000, crossCheck = null, minCross = 0 } = {}) {
-  const cands = await commonsCandidates(query, 14);
+export async function commonsBest(query, { mustInclude = [], used, allowPortrait = false, minWidth = 1000, crossCheck = null, minCross = 0, subject = '', near = null } = {}) {
+  // subject/near were added to commonsCandidates for the Instagram carousel and,
+  // for a while, ONLY the carousel passed them — so the vantage test and the
+  // geo limit did nothing at all on the path that picks the hero image every
+  // article is published with. An empty subject makes namesSubjectNotVantage
+  // return true for everything, so the filter was not merely weaker, it was off.
+  const cands = await commonsCandidates(query, 14, subject, near);
   if (!cands.length) return null;
   const qtok = tokens(query);
   const must = mustInclude.map((s) => String(s).toLowerCase()).filter(Boolean);

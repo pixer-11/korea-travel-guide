@@ -61,7 +61,8 @@ Look at the image. Does it plausibly depict THIS venue, its food, its interior/e
 Answer MISMATCH if the image is clearly wrong — e.g. an empty/finished plate with only scraps, a building whose architecture is from the wrong country, the wrong city/country, or an unrelated subject (a grocery/convenience store for a café, an insect specimen, a museum statue/object, a random person's portrait, diving equipment, a vehicle/landscape/bridge for a restaurant, unrelated stock).
 Answer WEAK if it's the right place/country but generic and only loosely related.
 Answer MATCH if it plausibly fits.
-Reply with ONLY a compact JSON object: {"verdict":"MATCH|WEAK|MISMATCH","reason":"<8 words max>"}`;
+Reply with ONLY a compact JSON object: {"verdict":"MATCH|WEAK|MISMATCH","reason":"<8 words max>","reasonKo":"<같은 내용을 한국어로, 12자 이내>"}
+reasonKo must be written in Korean — it is sent to the site owner, who reads Korean, and an English reason has reached him twice before.`;
   const msg = await anthropic.messages.create({
     model: MODEL,
     max_tokens: 120,
@@ -76,7 +77,15 @@ Reply with ONLY a compact JSON object: {"verdict":"MATCH|WEAK|MISMATCH","reason"
   const text = (msg.content.find((c) => c.type === 'text') || {}).text || '';
   const m = text.match(/\{[\s\S]*\}/);
   const j = m ? JSON.parse(m[0]) : { verdict: 'WEAK', reason: 'unparseable' };
-  return { verdict: String(j.verdict || 'WEAK').toUpperCase(), reason: String(j.reason || '').slice(0, 60) };
+  // Only keep reasonKo if it actually contains Hangul — a model that answers in
+  // English regardless would otherwise put English back into the owner's chat
+  // through the very field added to prevent it.
+  const ko = String(j.reasonKo || '').slice(0, 40);
+  return {
+    verdict: String(j.verdict || 'WEAK').toUpperCase(),
+    reason: String(j.reason || '').slice(0, 60),
+    reasonKo: /[가-힣]/.test(ko) ? ko : '',
+  };
 }
 
 const files = (await readdir(POSTS_DIR)).filter((f) => f.endsWith('.md'));
@@ -104,9 +113,12 @@ for (const f of files) {
   try {
     const img = await toBase64(hero.url);
     const v = await judge({ title: data.title, category: data.category, region: data.region, country: data.country || 'South Korea' }, img);
-    store[key] = { slug, verdict: v.verdict, reason: v.reason, at: new Date().toISOString() };
+    store[key] = { slug, verdict: v.verdict, reason: v.reason, reasonKo: v.reasonKo || null, at: new Date().toISOString() };
     checked++;
-    if (v.verdict === 'MISMATCH') { mismatch++; flagged.push(`  ✗ ${slug} — ${v.reason}`); }
+    // Korean only. The model's English `reason` used to be interpolated straight
+    // into the Telegram message — the third time English reached the owner that
+    // way. If the model skips reasonKo, the slug alone is sent rather than English.
+    if (v.verdict === 'MISMATCH') { mismatch++; flagged.push(`  ✗ ${slug}${v.reasonKo ? ` — ${v.reasonKo}` : ''}`); }
     else if (v.verdict === 'WEAK') { weak++; }
     console.log(`  ${v.verdict === 'MISMATCH' ? '✗' : v.verdict === 'WEAK' ? '~' : '✓'} ${slug}: ${v.verdict} (${v.reason})`);
   } catch (e) {
