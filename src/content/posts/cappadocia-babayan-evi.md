@@ -25,6 +25,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 38.598890399999995
   lng: 34.848416799999995
+  phone: '0543 208 18 97'
+  openingHours:
+    - 'Monday: 8:00 AM – 12:00 AM'
+    - 'Tuesday: 8:00 AM – 12:00 AM'
+    - 'Wednesday: 8:00 AM – 12:00 AM'
+    - 'Thursday: 8:00 AM – 12:00 AM'
+    - 'Friday: 8:00 AM – 12:00 AM'
+    - 'Saturday: 8:00 AM – 12:00 AM'
+    - 'Sunday: 8:00 AM – 12:00 AM'
 tags:
   - cappadocia
   - new & trending
