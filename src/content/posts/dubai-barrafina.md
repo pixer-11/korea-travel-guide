@@ -21,6 +21,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 25.2132629
   lng: 55.282391700000005
+  phone: '04 234 1543'
+  openingHours:
+    - 'Monday: 12:00 – 11:30 PM'
+    - 'Tuesday: 12:00 – 11:30 PM'
+    - 'Wednesday: 12:00 – 11:30 PM'
+    - 'Thursday: 12:00 – 11:30 PM'
+    - 'Friday: 12:00 – 11:30 PM'
+    - 'Saturday: 12:00 – 11:30 PM'
+    - 'Sunday: 12:00 – 11:30 PM'
 tags:
   - dubai
   - new & trending

@@ -24,6 +24,14 @@ place:
   businessStatus: OPERATIONAL
   lat: 35.837660899999996
   lng: 129.209724
+  openingHours:
+    - 'Monday: 9:00 AM – 9:30 PM'
+    - 'Tuesday: 9:00 AM – 9:30 PM'
+    - 'Wednesday: 9:00 AM – 9:30 PM'
+    - 'Thursday: 9:00 AM – 9:30 PM'
+    - 'Friday: 9:00 AM – 9:30 PM'
+    - 'Saturday: 9:00 AM – 9:30 PM'
+    - 'Sunday: 9:00 AM – 9:30 PM'
 tags:
   - gyeongju
   - Hwangnidan-gil

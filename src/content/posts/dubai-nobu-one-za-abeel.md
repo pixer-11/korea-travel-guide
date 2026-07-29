@@ -25,6 +25,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 25.2275781
   lng: 55.290918999999995
+  phone: '04 666 1617'
+  openingHours:
+    - 'Monday: Closed'
+    - 'Tuesday: 5:00 PM – 12:00 AM'
+    - 'Wednesday: 5:00 PM – 12:00 AM'
+    - 'Thursday: 5:00 PM – 12:00 AM'
+    - 'Friday: 12:00 – 3:30 PM, 5:00 PM – 1:00 AM'
+    - 'Saturday: 12:00 – 3:30 PM, 5:00 PM – 1:00 AM'
+    - 'Sunday: 12:00 – 3:30 PM, 5:00 PM – 12:00 AM'
 tags:
   - dubai
   - new & trending

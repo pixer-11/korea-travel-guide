@@ -1,23 +1,74 @@
-  ✓ seoul-gwangjang-market.md +phone +7h hours
+Priority: 32 itinerary stop(s) queued first
+  – bangkok-saladaeng.md: nothing new
+  – bangkok-the-grand-palace.md: nothing new
   – seoul-euljiro.md: nothing new
   – seoul-myeongdong-shopping-street.md: nothing new
-  ✓ seoul-dallas-pizza.md +phone +7h hours
-  ✓ seoul-eid-halal-korean-food.md +phone +7h hours
-  ✓ seoul-sanchon.md +phone +7h hours
-  ✓ seoul-plant-cafe-seoul-yeonnam.md +phone +7h hours
-  ✓ tokyo-teamlab-planets-tokyo-dmm.md +7h hours
-  ✓ tokyo-fish-market-tsukiji-outer-market.md +phone
-  ✓ tokyo-tokyo-tower.md +phone +7h hours
-  ✓ tokyo-oxomoco.md +phone +7h hours
-  ✓ tokyo-meiji-jingu.md +phone
-  ✓ tokyo-shinjuku-gyoen-national-garden.md +phone +7h hours
-  ✓ tokyo-fuglen-tokyo.md +7h hours
-  ✓ tokyo-senso-ji.md +phone
-  ✓ tokyo-tokyo-ramen-street.md +7h hours
-  ✓ tokyo-smith-wollensky.md +phone +7h hours
-  ✓ tokyo-ise-sueyoshi.md +phone +7h hours
-  ✓ bangkok-khao-san-sek.md +phone +7h hours
-  ✓ bangkok-somsak.md +phone +7h hours
-  – bangkok-saladaeng.md: nothing new
+  – tokyo-fish-market-tsukiji-outer-market.md: nothing new
+  – tokyo-fuglen-tokyo.md: nothing new
+  – tokyo-meiji-jingu.md: nothing new
+  – tokyo-senso-ji.md: nothing new
+  – tokyo-teamlab-planets-tokyo-dmm.md: nothing new
+  – tokyo-tokyo-ramen-street.md: nothing new
+  – ajman-ajman-secret-beach.md: nothing new
+  – amalfi-coast-amalfi-coast.md: nothing new
+  – amalfi-coast-positano.md: nothing new
+  – ankara-ankara-castle.md: nothing new
+  – antalya-duden-waterfalls.md: nothing new
+  – antalya-hadrian-s-gate.md: nothing new
+  – ayutthaya-ayutthaya-historical-park.md: nothing new
+  – bali-bingin-uluwatu-pak-gula.md: nothing new
+  – bandung-hummingbird-eatery-space.md: nothing new
+  – beijing-prince-gong-mansion.md: nothing new
+  – bohol-bilar-man-made-forest.md: nothing new
+  – bohol-philippine-tarsier-sanctuary.md: nothing new
+  – bologna-piazza-maggiore.md: nothing new
+  – boracay-i-love-boracay.md: nothing new
+  – boracay-willy-s-rock.md: nothing new
+  – bunol-posada-venta-pilar.md: nothing new
+  – busan-cheongsapo.md: nothing new
+  – busan-haeundae.md: nothing new
+  – busan-huinnyeoul-culture-village.md: nothing new
+  – cannes-mural-cannes-cinema.md: nothing new
+  – cannes-vue-depuis-le-suquet.md: nothing new
+  ✓ cappadocia-babayan-evi.md +phone +7h hours
+  – cappadocia-pigeon-valley.md: nothing new
+  – cebu-fort-san-pedro.md: nothing new
+  – chiang-rai-khao-soi-restaurant.md: nothing new
+  – chicago-cloud-gate.md: nothing new
+  – chinatown-chinatown-complex.md: nothing new
+  – chinatown-chinatown-heritage-centre.md: nothing new
+  – clarke-quay-clarke-quay-jetty.md: nothing new
+  – clarke-quay-cq-clarke-quay.md: nothing new
+  – davao-people-s-park.md: nothing new
+  ✓ dubai-barrafina.md +phone +7h hours
+  – dubai-love-lake.md: nothing new
+  ✓ dubai-nobu-one-za-abeel.md +phone +7h hours
+  – fukuoka-yatai-mamichan.md: nothing new
+  ✓ gangneung-coffee-street.md +7h hours
+  – gangneung-gyeongpo-lake.md: nothing new
+  – gangneung-jumunjin-lighthouse.md: nothing new
+  – goa-fort-aguada.md: nothing new
+  – guangzhou-huacheng-square.md: nothing new
+  – guilin-reed-flute-cave.md: nothing new
+  ✓ gyeongju-hwangnidan-gil.md +7h hours
+  – gyeongju-yangdongmaeul-gil.md: nothing new
+  – ha-long-bay-sung-sot-cave.md: nothing new
+  – hangzhou-xi-lake.md: nothing new
+  – hanoi-hanoi-old-quarter.md: nothing new
+  – hiroshima-hiroshima-breakfast.md: nothing new
+  – hoi-an-hoi-an-night-market.md: nothing new
+  – hoi-an-japanese-bridge.md: nothing new
+  – hyderabad-chowmahalla-palace.md: nothing new
+  ✓ ibiza-streetxo-ibiza.md +phone +7h hours
+  ✓ incheon-chinatown.md +7h hours
+  ✓ incheon-songdo-central-park.md +phone +7h hours
+  ✓ incheon-wolmi-theme-park.md +7h hours
+  ⚠ Places Details 429 after 3 tries — phone/hours unavailable for this post
+  ⚠ Places Details 429 after 3 tries — phone/hours unavailable for this post
+  ⚠ Places Details 429 after 3 tries — phone/hours unavailable for this post
+  ⚠ Places Details 429 after 3 tries — phone/hours unavailable for this post
+  ⚠ Places Details 429 after 3 tries — phone/hours unavailable for this post
 
-BACKFILL RESULT: updated 18, already-complete 1, no-new-data 3, no-place 0, quota-429 0, api-error 0, processed 21 of 22 (APPLIED).
+⛔ Places Details failing with no-api-key (5 in a row) — stopping early. Not reported as a quota hit; check the key has Places API (New) enabled with no referrer/IP restriction. Note a drained project also returns 403 intermittently alongside its 429s, so check the day's quota before assuming a key problem.
+
+BACKFILL RESULT: updated 9, already-complete 134, no-new-data 55, no-place 33, quota-429 0, api-error 5 (last: no-api-key), processed 69 of 512 (APPLIED).
