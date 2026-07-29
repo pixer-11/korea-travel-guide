@@ -2,6 +2,7 @@
 title: 'Wolmi Theme Park: Incheon Travel Guide'
 description: Wolmi Theme Park is a compact, old-school amusement park on Wolmido Island in Incheon's Jung-gu, best reached via Incheon Station (Incheon Line 1) followed
 region: Incheon
+country: "South Korea"
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:

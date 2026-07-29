@@ -299,6 +299,15 @@ jobs:
             --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
             --data-urlencode "text=$TXT" >/dev/null || true
 
+      # A hero can pass the vision gate and still be the wrong picture: "Chicago
+      # from under the Cloud Gate" is a real photo of real skyscrapers, taken
+      # while standing at the landmark, and it headed the Cloud Gate guide. Only
+      # the file name gives that away, so it is read here and the failures are
+      # queued into visual-audit.json for the next re-resolution run.
+      - name: Audit hero file names
+        continue-on-error: true
+        run: node scripts/audit-hero-titles.mjs --fix
+
       # Same accuracy gate scripts/build-itineraries.mjs already runs per-file
       # before ever renaming a temp file over a live target — this is the
       # belt-and-braces full sweep (catches a stale cache — e.g. DWELL-STALE/

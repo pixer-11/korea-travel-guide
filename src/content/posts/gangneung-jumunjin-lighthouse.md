@@ -2,6 +2,7 @@
 title: 'Jumunjin Lighthouse ( ): Gangneung Travel Guide'
 description: Jumunjin Lighthouse (주문진등대) is a small white 1918-built lighthouse perched on a hill above Jumunjin Port in Gangneung, best visited in the late afternoon for
 region: Gangneung
+country: "South Korea"
 category: trendy
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:

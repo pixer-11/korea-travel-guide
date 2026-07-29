@@ -2,6 +2,7 @@
 title: "Gukje Market: Busan Travel Guide"
 description: "Gukje Market in Busan's Jung-gu district is a sprawling, postwar-era market best explored on foot for 1.5–2 hours, ideally in late afternoon when food stalls"
 region: Busan
+country: "South Korea"
 category: hidden-gem
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:

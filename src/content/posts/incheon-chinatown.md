@@ -2,6 +2,7 @@
 title: Chinatown in Incheon
 description: 'Incheon''''s Chinatown sits right outside Incheon Station (Line 1, Exit 1) and is best treated as a half-day trip: wander the red-lantern-lined slope of'
 region: Incheon
+country: "South Korea"
 category: hidden-gem
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:

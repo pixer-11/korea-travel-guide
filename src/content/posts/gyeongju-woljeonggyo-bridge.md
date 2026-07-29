@@ -5,6 +5,7 @@ description: >-
   Namcheon (Nam Stream) in Gyeongju's Gyo-dong village, best visited around
   sunset
 region: Gyeongju
+country: "South Korea"
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:

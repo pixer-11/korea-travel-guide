@@ -36,6 +36,7 @@ for (const f of files) {
     license: (fm.heroImage && fm.heroImage.license) || '',
     placeId: (fm.place && fm.place.id) || '',
     placeName: (fm.place && fm.place.name) || '',
+    country: fm.country || '',
     eventStart: fm.eventStartDate || '',
     gallery: (fm.gallery || []).map((g) => g && g.url).filter(Boolean),
     heroCredit: (fm.heroImage && fm.heroImage.credit) || '',
@@ -108,6 +109,10 @@ for (const p of posts) {
 // schema — the date is usually sitting in the prose.
 for (const p of posts) {
   if (p.category === 'event' && !p.eventStart) issues.push(`EVENT missing eventStartDate: ${p.f}`);
+  // 35 Korean posts shipped with no country at all. Nothing crashed — the field
+  // just read `undefined`, so they were skipped by the climate backfill, missing
+  // from country hubs, and the Instagram card printed "Busan, undefined".
+  if (!p.country) issues.push(`MISSING-COUNTRY: ${p.f} — dropped from country hubs, facts and social cards`);
 }
 // Two posts about the same event on the same date in the same city = duplicate
 // coverage, and if their dates DISAGREE one of them is telling readers a lie.

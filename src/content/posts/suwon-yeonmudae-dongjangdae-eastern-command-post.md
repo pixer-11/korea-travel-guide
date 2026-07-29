@@ -2,6 +2,7 @@
 title: 'Yeonmudae (Dongjangdae/Eastern Command Post): Suwon Travel Guide'
 description: Yeonmudae (also called Dongjangdae, the Eastern Command Post) is a military training ground and archery field inside Hwaseong Fortress in Suwon, best visited
 region: Suwon
+country: "South Korea"
 category: hidden-gem
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:

@@ -2,6 +2,7 @@
 title: 'Gwangjang Market: Seoul Travel Guide'
 description: Gwangjang Market in Jongno-gu is Seoul's oldest traditional market (opened 1905) and a legendary street food destination — head straight for the food alley
 region: Seoul
+country: "South Korea"
 category: hidden-gem
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:

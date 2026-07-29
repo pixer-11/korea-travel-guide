@@ -5,6 +5,7 @@ description: >-
   International Business District, built around a seawater canal where you can
   ride water
 region: Incheon
+country: "South Korea"
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:

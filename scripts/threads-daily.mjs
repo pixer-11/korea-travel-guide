@@ -44,7 +44,20 @@ const pool = candidates.length ? candidates : files.map(f => {
   const m = raw.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n([\s\S]*)$/);
   return m ? { slug: f.replace(/\.md$/, ''), fm: yaml.load(m[1]), body: m[2] } : null;
 }).filter(p => p && !p.fm?.draft);
-const post = pool[Math.floor(Math.random() * pool.length)];
+// `--slug=x` picks one post instead of drawing at random. The carousel bugs are
+// only visible in the finished image, and re-rolling the dice hoping to land on
+// the broken post again is no way to check a fix.
+// Read from disk, not from `pool` — the pool excludes posts already used, and a
+// post you want to re-check is by definition one that already went out.
+const wanted = (process.argv.find((a) => a.startsWith('--slug=')) || '').slice(7);
+let forced = null;
+if (wanted && files.includes(`${wanted}.md`)) {
+  const m = readFileSync(join(POSTS_DIR, `${wanted}.md`), 'utf8')
+    .match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n([\s\S]*)$/);
+  if (m) forced = { slug: wanted, fm: yaml.load(m[1]), body: m[2] };
+}
+if (wanted && !forced) { console.error(`--slug=${wanted} not found among published posts`); process.exit(1); }
+const post = forced || pool[Math.floor(Math.random() * pool.length)];
 const { title, country, region, description } = post.fm;
 console.log(`post: ${post.slug}`);
 
@@ -112,7 +125,17 @@ try {
   let heroUrl = post.fm.heroImage?.url;
   if (heroUrl) {
     if (heroUrl.startsWith('/')) heroUrl = SITE + heroUrl;
-    const res = await fetch(heroUrl, { headers: { 'User-Agent': 'WanderAtlasBot/1.0 (https://wanderatlasguides.com)' } });
+    // Heroes are stored as 1920px-wide Wikimedia thumbnails, sized for an article
+    // where they run wide and short. This card is 1080x1350 PORTRAIT, so a
+    // landscape hero gets scaled up on the height axis and lands soft. Wikimedia
+    // renders any width on request, so ask for one that survives the crop.
+    // Commons refuses to upscale: ask for 2600px on a 2000px original and it
+    // answers 400, which cost this run its card entirely. So try big, keep the
+    // stored URL as the fallback.
+    const bigUrl = heroUrl.replace(/\/(\d{3,4})px-/, (m, w) => (Number(w) < 2600 ? '/2600px-' : m));
+    const UAH = { 'User-Agent': 'WanderAtlasBot/1.0 (https://wanderatlasguides.com)' };
+    let res = await fetch(bigUrl, { headers: UAH });
+    if (!res.ok && bigUrl !== heroUrl) res = await fetch(heroUrl, { headers: UAH });
     if (!res.ok) throw new Error(`hero fetch ${res.status}`);
     const heroBuf = Buffer.from(await res.arrayBuffer());
     const W = 1080, H = 1350;
@@ -135,7 +158,7 @@ try {
       ${lines.map((l, i) => `<text x="64" y="${textTop + 34 + i * lineH}" font-family="DejaVu Serif, serif" font-size="70" font-weight="700" fill="#ffffff">${esc(l)}</text>`).join('\n')}
       <text x="64" y="${H - 56}" font-family="DejaVu Sans, sans-serif" font-size="32" fill="#e8e2d5">wanderatlasguides.com</text>
     </svg>`;
-    igImage = await sharp(base).composite([{ input: Buffer.from(overlay) }]).jpeg({ quality: 88 }).toBuffer();
+    igImage = await sharp(base).composite([{ input: Buffer.from(overlay) }]).jpeg({ quality: 92, chromaSubsampling: "4:4:4" }).toBuffer();
   }
 } catch (e) { console.error('ig image compose failed (텍스트만 발송):', e.message); }
 
@@ -160,16 +183,33 @@ const CORNER_PIN = `<svg xmlns="http://www.w3.org/2000/svg" width="${IG_W}" heig
     <path fill="#c8443a" d="M16 8.6 L17 12.4 L20.8 13.4 L17 14.4 L16 18.2 L15 14.4 L11.2 13.4 L15 12.4 Z"/>
   </g></svg>`;
 
+// Slide 1 is the post's hero, which is chosen to head an article rather than to
+// open a carousel: "Chicago from under the Cloud Gate" is a fine article image
+// and a poor first slide, because the sculpture is not in it. Nothing here can
+// fix that — it is the hero pipeline's job — but the extra slides must at least
+// not repeat the failure.
 const slides = [];      // { buf, credit }
 const slideCredits = [];
 if (igImage) { slides.push(igImage); if (post.fm.heroImage?.credit) slideCredits.push(post.fm.heroImage.credit); }
 
 try {
   const heroUrl = post.fm.heroImage?.url || '';
-  const venueName = post.fm.place?.name || String(title).split(/[:—]/)[0].trim();
+  // place.name is whatever the maps lookup returned, which is sometimes the
+  // STREET rather than the place: Cheongsapo village came back "Cheongsapo-ro",
+  // and searching a road name for photos found nothing. The title names the
+  // place, so fall back to it whenever place.name looks like an address.
+  const titleName = String(title).split(/[:—]/)[0].trim();
+  const rawName = post.fm.place?.name || '';
+  // Only when the name ENDS in a road word. An earlier, looser test also caught
+  // "Daegu 83 Tower" and "CHAI OF THE TIGER (Indian Street Food)", which are the
+  // actual names of the places.
+  const looksLikeStreet = /(-(ro|gil|daero)|\b(street|road|avenue|lane|boulevard))\s*$/i.test(rawName);
+  const venueName = !rawName || looksLikeStreet ? titleName : rawName;
   const cands = [];
   // Landmarks/areas: Commons usually has several free shots of the same subject.
-  for (const c of await commonsCandidates(`${venueName} ${region}`, 8)) {
+  const at = post.fm.place?.lat && post.fm.place?.lng
+    ? { lat: post.fm.place.lat, lng: post.fm.place.lng } : null;
+  for (const c of await commonsCandidates(`${venueName} ${region}`, 8, venueName, at)) {
     cands.push({ url: c.url, credit: c.credit });
   }
   // Venues: the same Foursquare/Flickr sources the site's photo pipeline uses.
@@ -197,7 +237,7 @@ try {
       const buf = await sharp(await fetchBuf(c.url))
         .resize(IG_W, IG_H, { fit: 'cover', position: 'attention' })
         .composite([{ input: Buffer.from(CORNER_PIN) }])
-        .jpeg({ quality: 88 }).toBuffer();
+        .jpeg({ quality: 92, chromaSubsampling: "4:4:4" }).toBuffer();
       slides.push(buf);
       if (c.credit) slideCredits.push(c.credit);
     } catch { /* skip unreadable image */ }

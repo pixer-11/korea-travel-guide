@@ -2,6 +2,7 @@
 title: Local Restaurant in Gangneung
 description: For an honest sense of Gangneung''s food culture, head to the alleys around Jungang Market (Jungang-dong) and the Gangmun tidal flat near Gyeongpo Beach
 region: Gangneung
+country: "South Korea"
 category: restaurant
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:

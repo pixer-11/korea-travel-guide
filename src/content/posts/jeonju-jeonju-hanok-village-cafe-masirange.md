@@ -1,63 +1,47 @@
 ---
-title: 'Jeonju hanok village cafe masirange: Travel Guide'
-description: Masirange is a hanok-style café tucked in the Jeondong side of Jeonju Hanok Village, a short walk from Jeondong Catholic Church, best visited on a weekday
-region: Jeonju
-category: trendy
-pubDate: 2026-07-21T00:00:00.000Z
+title: "Jeonju hanok village cafe masirange: Travel Guide"
+description: "Masirange is a hanok-style café tucked in the Jeondong side of Jeonju Hanok Village, a short walk from Jeondong Catholic Church, best visited on a weekday"
+region: "Jeonju"
+country: "South Korea"
+category: "trendy"
+pubDate: 2026-07-21
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/1800723_xMzlui6lqM7hIxIZEhLUivSOEcqt_4X62ryuOpU81dw.jpg
-  credit: 'Photo: Foursquare user content (Masirange (마시랑게))'
-  license: foursquare
-  source: https://foursquare.com/v/6198a0a4edfee3499ac55833
-gallery:
-  - url: https://fastly.4sqi.net/img/general/original/1800723_YFJUpbau7UzuvHjHT7OIqCahDYWrFXRqD0wP2nY7ac0.jpg
-    credit: 'Photo: Foursquare user content (Masirange (마시랑게))'
-    license: foursquare
-    source: https://foursquare.com/v/6198a0a4edfee3499ac55833
+  url: "https://images.unsplash.com/photo-1672831722161-0edc8cecf071?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SmVvbmp1JTIwU291dGglMjBLb3JlYSUyMHRyZW5keSUyMGNhZmV8ZW58MHwwfHx8MTc4NDYxMzg4OHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
+  credit: "Photo by Minku Kang on Unsplash"
+  license: "unsplash"
+  source: "https://unsplash.com/@minkus?utm_source=korea_travel_guide&utm_medium=referral"
+gallery: []
 place:
-  id: ChIJVxc79EwlcDURb1xrhVQrFfI
-  name: Jeonju hanok village cafe masirange
-  address: 100 Jeondongseongdang-gil, Wansan-gu, Jeonju, Jeonbuk State, South Korea
+  id: "ChIJVxc79EwlcDURb1xrhVQrFfI"
+  name: "Jeonju hanok village cafe masirange"
+  address: "100 Jeondongseongdang-gil, Wansan-gu, Jeonju, Jeonbuk State, South Korea"
   rating: 4.5
   userRatingsTotal: 519
-  googleMapsUrl: https://maps.google.com/?cid=17443896373705137263&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
-  businessStatus: OPERATIONAL
+  googleMapsUrl: "https://maps.google.com/?cid=17443896373705137263&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  businessStatus: "OPERATIONAL"
   lat: 35.8144827
   lng: 127.14888669999999
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 10
-      - 19
-      - 20
-      - 21
-    weekendQuiet:
-      - 20
-      - 21
-    weekendBusy:
-      - 12
-      - 13
-      - 14
-      - 15
-      - 16
-      - 17
-      - 18
-    venueId: ven_4966467251566872783162525544636c774539376378564a496843
+    weekdayQuiet: [10, 19, 20, 21]
+    weekendQuiet: [20, 21]
+    weekendBusy: [12, 13, 14, 15, 16, 17, 18]
+    venueId: 'ven_4966467251566872783162525544636c774539376378564a496843'
 tags:
-  - jeonju
-  - trendy cafe
-quickAnswer: Masirange is a hanok-style café tucked in the Jeondong side of Jeonju Hanok Village, a short walk from Jeondong Catholic Church, best visited on a weekday morning or late afternoon to avoid the tour-group crush. Expect traditional tea, hanok-inspired desserts, and a courtyard/rooftop setting good for photos; budget 45–60 minutes for a drink and a look around. It pairs naturally with a hanbok-rental stroll through the village and a stop at Gyeonggijeon Shrine nearby.
+  - "jeonju"
+  - "trendy cafe"
+quickAnswer: "Masirange is a hanok-style café tucked in the Jeondong side of Jeonju Hanok Village, a short walk from Jeondong Catholic Church, best visited on a weekday morning or late afternoon to avoid the tour-group crush. Expect traditional tea, hanok-inspired desserts, and a courtyard/rooftop setting good for photos; budget 45–60 minutes for a drink and a look around. It pairs naturally with a hanbok-rental stroll through the village and a stop at Gyeonggijeon Shrine nearby."
 faq:
-  - q: How do I get to Masirange in Jeonju Hanok Village?
-    a: It's located at 100 Jeondongseongdang-gil, Wansan-gu, near Jeondong Catholic Church. From Jeonju Station or the bus terminal, take a 15–20 minute taxi to the Hanok Village, then walk in — the village core is pedestrian-only in most alleys.
-  - q: How much time should I plan for a visit?
-    a: Around 45 minutes to an hour for tea/coffee and a look around the hanok interior and courtyard; longer if you plan to sit and relax or if you're waiting for a hanbok photo session nearby.
-  - q: What's the best time of day or year to visit?
-    a: Early morning (before 11 AM) or after 4 PM avoids the worst crowds. Spring cherry blossom season and fall foliage (April and October–November) are the most popular and busiest times to visit the whole village.
-  - q: What should I order?
-    a: Traditional Korean teas and hanok-style desserts are the specialty of this genre of café — expect options like grain-based lattes, rice cake toast, and seasonal bingsu, alongside standard espresso drinks.
-  - q: What else is nearby?
-    a: Gyeonggijeon Shrine, Jeondong Catholic Church, and Omokdae pavilion are all within a 10–15 minute walk, making it easy to combine with a hanbok-rental stroll through the rest of the Hanok Village.
+  - q: "How do I get to Masirange in Jeonju Hanok Village?"
+    a: "It's located at 100 Jeondongseongdang-gil, Wansan-gu, near Jeondong Catholic Church. From Jeonju Station or the bus terminal, take a 15–20 minute taxi to the Hanok Village, then walk in — the village core is pedestrian-only in most alleys."
+  - q: "How much time should I plan for a visit?"
+    a: "Around 45 minutes to an hour for tea/coffee and a look around the hanok interior and courtyard; longer if you plan to sit and relax or if you're waiting for a hanbok photo session nearby."
+  - q: "What's the best time of day or year to visit?"
+    a: "Early morning (before 11 AM) or after 4 PM avoids the worst crowds. Spring cherry blossom season and fall foliage (April and October–November) are the most popular and busiest times to visit the whole village."
+  - q: "What should I order?"
+    a: "Traditional Korean teas and hanok-style desserts are the specialty of this genre of café — expect options like grain-based lattes, rice cake toast, and seasonal bingsu, alongside standard espresso drinks."
+  - q: "What else is nearby?"
+    a: "Gyeonggijeon Shrine, Jeondong Catholic Church, and Omokdae pavilion are all within a 10–15 minute walk, making it easy to combine with a hanbok-rental stroll through the rest of the Hanok Village."
 aiGenerated: true
 draft: false
 ---

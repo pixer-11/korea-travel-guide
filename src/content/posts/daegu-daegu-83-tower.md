@@ -5,6 +5,7 @@ description: >-
   District, best visited at sunset for city views that stretch to the
   surrounding
 region: Daegu
+country: "South Korea"
 category: hidden-gem
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:

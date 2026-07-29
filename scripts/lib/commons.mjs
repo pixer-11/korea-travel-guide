@@ -54,25 +54,94 @@ export const keyToken = (s = '') => {
 
 // Raw candidate list for a query (ranked by Commons search relevance).
 // Only free (CC / public-domain) JPEG/PNG files are returned.
-export async function commonsCandidates(query, limit = 10) {
-  const url =
-    'https://commons.wikimedia.org/w/api.php?action=query&format=json' +
-    '&generator=search&gsrnamespace=6&gsrlimit=' + limit +
-    '&gsrsearch=' + encodeURIComponent(query) +
-    '&prop=imageinfo&iiprop=url|extmetadata|mime|size&iiurlwidth=1600&origin=*';
+// File titles describing something other than the place as a visitor sees it.
+// Construction shots are the common trap: correctly tagged with the landmark's
+// name, and full of scaffolding.
+// The landmark named as a VANTAGE POINT rather than the subject: 'Chicago from
+// under the Cloud Gate' is a photo of office towers, 'Michigan Avenue from Cloud
+// Gate' is a photo of a street. Both name the landmark, both pass a subject
+// check, and neither shows it — the Cloud Gate carousel opened with one.
+const SHOT_FROM_NOT_OF = /\b(?:from|by|near|beside|outside|toward|towards|overlooking|seen\s+from|view\s+from|looking\s+at)\s+(?:the\s+|under\s+the\s+|inside\s+the\s+|in\s+front\s+of\s+the\s+)?$/i;
+// Commons search is loose: a "Cloud Gate" query returned an Alan Bean NASA
+// portrait (the sculpture is nicknamed The Bean) and a coffee-bean diagram.
+// A candidate must actually name the subject, and must name it as the subject
+// rather than as the spot the photo was taken from.
+// Matched word by word rather than as one string, because Commons file names
+// pluralise freely: "Phi Phi Islands" found nothing until "Phi Phi Island"
+// (singular, as the uploaders wrote it) also counted.
+const stem = (w) => w.replace(/(?:es|s)$/i, '');
+const namesSubjectNotVantage = (title, subject) => {
+  const words = String(subject || '').toLowerCase().match(/[\p{L}\p{N}]{2,}/gu) || [];
+  if (!words.length) return true;
+  const hay = title.toLowerCase();
+  const haystack = (hay.match(/[\p{L}\p{N}]{2,}/gu) || []).map(stem);
+  if (!words.every((w) => haystack.includes(stem(w)))) return false;
 
-  let res;
-  try {
-    res = await fetch(url, { headers: { 'User-Agent': UA } });
-  } catch {
-    return [];
+  // Where the subject is first mentioned; everything before it decides whether
+  // the photo is OF the place or merely taken FROM it.
+  const first = words[0];
+  const at = hay.search(new RegExp('\\b' + first.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'i'));
+  return !SHOT_FROM_NOT_OF.test(title.slice(0, at < 0 ? 0 : at));
+};
+
+const UNUSABLE_SUBJECT =
+  /\b(?:construction|scaffold|scaffolding|crane|renovation|restoration|demolition|closed|closure|notice|signboard|plaque|placard|floor\s?plan|diagram|blueprint|schematic|logo|poster|screenshot)\b/i;
+
+// Why a file name disqualifies a photo, or '' if it does not. Exported so the
+// hero audit applies the same test the carousel does — the Cloud Gate guide
+// failed both places at once, and fixing one would have left the other.
+export function heroTitleProblem(fileName, subject) {
+  if (UNUSABLE_SUBJECT.test(fileName)) return 'unusable';   // construction, signage, plans
+  if (!namesSubjectNotVantage(fileName, subject)) {
+    const words = String(subject || '').toLowerCase().match(/[\p{L}\p{N}]{2,}/gu) || [];
+    const hay = (fileName.toLowerCase().match(/[\p{L}\p{N}]{2,}/gu) || []).map(stem);
+    return words.every((w) => hay.includes(stem(w))) ? 'vantage' : 'off-subject';
   }
-  if (!res.ok) return [];
-  const data = await res.json().catch(() => null);
-  const pages = data?.query?.pages;
-  if (!pages) return [];
+  return '';
+}
 
-  return Object.values(pages)
+// Great-circle distance in km.
+const haversine = (a, b, c, d) => {
+  const R = 6371, r = Math.PI / 180;
+  const dLat = (c - a) * r, dLng = (d - b) * r;
+  const h = Math.sin(dLat / 2) ** 2 + Math.cos(a * r) * Math.cos(c * r) * Math.sin(dLng / 2) ** 2;
+  return 2 * R * Math.asin(Math.sqrt(h));
+};
+// How far a photo may sit from the place before it is a different place. Wide
+// enough for a city-scale subject, far short of "another country".
+const SAME_PLACE_KM = 30;
+
+export async function commonsCandidates(query, limit = 10, subject = '', near = null) {
+  // Ask for far more than we need. The filters below are aggressive on purpose,
+  // and a Cloud Gate search that returned 8 rows kept only 1 of them — a
+  // carousel needs several. Over-fetching costs one request either way.
+  const fetchLimit = Math.min(50, Math.max(limit * 5, 20));
+  // With coordinates, restrict the search itself to that spot on earth. This is
+  // the only thing that separates Chicago's Cloud Gate from the Cloud Gate
+  // Theater in Tamsui, Taiwan: both are genuinely named Cloud Gate, so the file
+  // name proves nothing and neither does looking at the picture. A search for
+  // the sculpture came back twelve-for-twelve Taiwanese; with nearcoord, zero.
+  const geoQuery = near?.lat && near?.lng
+    ? `${query} nearcoord:${SAME_PLACE_KM}km,${near.lat},${near.lng}`
+    : query;
+
+  const ask = async (search) => {
+    const url =
+      'https://commons.wikimedia.org/w/api.php?action=query&format=json' +
+      '&generator=search&gsrnamespace=6&gsrlimit=' + fetchLimit +
+      '&gsrsearch=' + encodeURIComponent(search) +
+      // 2400 rather than 1600: these feed a 1080x1350 portrait social card, and
+      // a 1600-wide landscape shot is blown up to fill 1350px of height.
+      '&prop=imageinfo|coordinates&coprop=type&colimit=1' +
+      '&iiprop=url|extmetadata|mime|size&iiurlwidth=2400&origin=*';
+    try {
+      const r = await fetch(url, { headers: { 'User-Agent': UA } });
+      if (!r.ok) return null;
+      return (await r.json().catch(() => null))?.query?.pages ?? null;
+    } catch { return null; }
+  };
+
+  const keep = (pages) => Object.values(pages || {})
     .map((p) => {
       const ii = p.imageinfo?.[0];
       if (!ii || !/image\/(jpe?g|png)/i.test(ii.mime || '')) return null;
@@ -94,12 +163,41 @@ export async function commonsCandidates(query, limit = 10) {
           ii.descriptionurl ||
           `https://commons.wikimedia.org/wiki/${encodeURIComponent(p.title || '')}`,
         licenseShort: license,
+        lat: p.coordinates?.[0]?.lat ?? null,
+        lng: p.coordinates?.[0]?.lon ?? null,
       };
     })
     .filter(Boolean)
+    // Geotagged somewhere else entirely — a different place with the same name.
+    // Untagged files pass: most Commons uploads carry no coordinates, and
+    // dropping them would leave nothing to choose from.
+    .filter((c) => {
+      if (!near?.lat || !near?.lng || c.lat == null) return true;
+      return haversine(near.lat, near.lng, c.lat, c.lng) <= SAME_PLACE_KM;
+    })
     // keep only clearly-free licenses (drops "all rights reserved" edge cases)
     .filter((c) => /cc|public domain|pdm|cc0|fal/i.test(c.licenseShort))
+    // A photo can be genuinely OF the subject and still be unusable. Commons has
+    // deep archives, so searching a landmark surfaces its construction site, its
+    // closure notice, its floor plan and its plaque alongside the landmark — and
+    // a vision check passes all of them, because they ARE about it. A Cloud Gate
+    // carousel went out with a crane lifting the unfinished frame and a blurred
+    // "temporarily closed" sign.
+    .filter((c) => !UNUSABLE_SUBJECT.test(c.title))
+    .filter((c) => namesSubjectNotVantage(c.title, subject))
+    // Below 1200px is upscaling into a 1080-wide social card; the closure-notice
+    // slide shipped visibly soft.
+    .filter((c) => (c.w || 0) >= 1200)
     .sort((a, b) => a.index - b.index);
+
+  // With coordinates, the geo-limited search is the ONLY search. Falling back to
+  // the plain one when it comes up empty is exactly how Taiwan's Cloud Gate
+  // Theater got into a Chicago carousel — the fallback re-admits every
+  // same-name-different-place file the coordinates just excluded. Four of five
+  // test places filled all eight slots from the geo search alone; the fifth
+  // (Cloud Gate) has no free photos of the sculpture at all, US copyright law
+  // being what it is, and a short carousel is the right answer there.
+  return keep(await ask(geoQuery)).slice(0, limit);
 }
 
 /**
