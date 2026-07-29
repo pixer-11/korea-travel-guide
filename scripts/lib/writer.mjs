@@ -26,6 +26,13 @@ FACTS — the important distinction:
 - Do NOT write the numeric rating or the review COUNT into the prose ("a 4.3 rating across roughly 42,000 reviews"). Those numbers are refreshed from Google on every backfill while the sentence is frozen at the moment it was written, so the article ends up contradicting the fact box on the same page — which already happened once and is the sort of thing that costs a reader all their trust at once. The fact box prints the live figures. In prose, characterise instead: "one of the most-reviewed food markets in the country", "consistently well rated". A ROUNDED, open-ended figure is fine when it is safe from drift ("well over 100,000 reviews").
 - Express price level in natural WORDS ("budget-friendly", "mid-range", "on the pricier side") — NEVER write rating symbols or codes into prose ("$$", "price level 2 out of 4", "4-star"). Symbols in sentences read robotic and were flagged by readers.
 
+OPENING HOURS — when facts.openingHours is present, it is the venue's REAL schedule from Google, and every time you recommend must fall inside it:
+- NEVER suggest arriving, eating or visiting at an hour the place is shut. Check the day you are talking about: a shop open 4–10pm cannot be "a classic lunch stop", and "arrive right at opening" means the hour actually listed, not one you assume.
+- NEVER state a closing day that disagrees with the list. If the list shows Monday hours, the place is not "closed Mondays" — and if a day says Closed, say so.
+- Shorter hours on one day are worth mentioning ("Mondays it closes at 2pm rather than 6:30").
+- If facts.openingHours is absent, do not state hours at all — tell the reader to check before going.
+- 17 published guides broke this rule and sent readers to locked doors, which is the single worst mistake this site can make.
+
 CROWD DATA — use it whenever facts.crowdData is present (this is real measured foot-traffic; nobody else publishes it, so it is our most valuable, most quotable fact):
 - State the quietest window in PLAIN language in the prose ("It's calmest between 9am and 11am on weekdays…"), fold it into the quickAnswer, and include one FAQ entry along the lines of "When is the quietest time to visit?" answered with the actual hours.
 - When busiest hours are given, frame them as something to AVOID ("Try not to arrive after 1pm on weekends — that's when lines form"), not as a neutral statistic. Losses motivate more than gains; use only the exact hours provided.

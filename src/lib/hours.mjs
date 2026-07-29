@@ -91,3 +91,31 @@ export function localizeOpeningLine(line, lang, { am = 'AM', pm = 'PM' } = {}) {
   }
   return out;
 }
+
+// Every hour (0–23) the venue is open on at least one day of the week.
+// Used to keep foot-traffic windows inside real opening hours before they reach
+// the writer: BestTime measures the pavement, not the business.
+export function openHourSet(lines) {
+  if (!Array.isArray(lines) || !lines.length) return null;
+  const set = new Set();
+  const re = /(\d{1,2})(?::(\d{2}))?\s*([AP])?\.?M?\.?\s*[–—-]\s*(\d{1,2})(?::(\d{2}))?\s*([AP])\.?M?\.?/gi;
+  const to24 = (h, mer) => {
+    let x = Number(h);
+    if (!mer) return x;
+    const pm = /p/i.test(mer);
+    if (x === 12) return pm ? 12 : 0;
+    return pm ? x + 12 : x;
+  };
+  for (const line of lines) {
+    const s = String(line);
+    if (/open 24 hours/i.test(s)) { for (let h = 0; h < 24; h++) set.add(h); continue; }
+    if (/closed/i.test(s)) continue;
+    for (const m of s.matchAll(re)) {
+      const a = to24(m[1], m[3] || m[6]);
+      let b = to24(m[4], m[6]);
+      if (b <= a) b += 24;                       // closes after midnight
+      for (let h = a; h < b; h++) set.add(h % 24);
+    }
+  }
+  return set.size ? set : null;
+}

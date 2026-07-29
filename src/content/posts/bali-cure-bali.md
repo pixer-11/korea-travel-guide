@@ -38,7 +38,17 @@ tags:
   - bali
   - new & trending
 quickAnswer: Cure Bali is chef Andrew Walsh's first restaurant outside Singapore, now open inside the newly launched Regent Bali Canggu. It pairs European technique with Asian flavors and is one of Canggu's most talked-about openings, so book ahead rather than walking in. Treat it as a destination dinner (or lunch) rather than a casual drop-in, given the Michelin pedigree behind it.
-faq: []
+faq:
+  - q: Who is the chef behind Cure Bali, and why does that matter?
+    a: Cure Bali was created by Andrew Walsh, who built his reputation on Cure in Singapore, a Michelin-starred restaurant known for combining precise European cooking with Asian flavor depth. This Bali outpost is his first move outside Singapore, making it a notable culinary milestone rather than a simple copy of the original.
+  - q: Where exactly is Cure Bali located?
+    a: Cure Bali is located inside the Regent Bali Canggu, one of the area's newest five-star resorts, situated within Canggu's growing dining and lifestyle corridor. Since it's part of a resort rather than a standalone restaurant, it's best reached by car or scooter, and it's worth asking your driver or the hotel to confirm the correct entrance for dining guests.
+  - q: What kind of food does Cure Bali serve?
+    a: Cure Bali is built around the deliberate contrast between European culinary technique—classical sauce work, precise plating, ingredient-forward composition—and the bold, layered flavors typical of Asian cooking. This is the same style that earned Andrew Walsh his Michelin star in Singapore, continued here rather than simplified for a resort setting.
+  - q: Should I book a table in advance?
+    a: Yes. As a newly opened, buzzworthy restaurant inside a new luxury resort, Cure Bali is expected to draw early interest from both tourists and Bali's expat dining crowd, so booking well ahead of your trip is recommended rather than deciding spontaneously.
+  - q: What should I keep in mind about menu, pricing, and dress code?
+    a: Because Cure Bali is newly opened, the article advises confirming current menu offerings, tasting menu structure, pricing, and hours directly with the restaurant or resort rather than trusting secondhand listings online, since new openings often adjust their format early on. Dress smart-casual, as Bali resort dining skews relaxed but elevated, and expect payment by card, with service charge and tax typically already included in the bill.
 aiGenerated: true
 draft: false
 ---

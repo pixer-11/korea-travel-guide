@@ -31,13 +31,13 @@ const navGroups = CONT_ORDER
     <a href={localizePath('/', lang)} class="brand"><Logo size={26} /> <span>{SITE.name}</span></a>
 
     <input type="checkbox" id="nav-toggle" hidden />
-    <label for="nav-toggle" class="menu-toggle" aria-label="Menu">
+    <label for="nav-toggle" class="menu-toggle" aria-label="Menu" role="button" tabindex="0" aria-expanded="false" aria-controls="site-nav">
       <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
         <line x1="3" y1="6" x2="21" y2="6" /><line x1="3" y1="12" x2="21" y2="12" /><line x1="3" y1="18" x2="21" y2="18" />
       </svg>
     </label>
 
-    <nav class="nav" data-level="1">
+    <nav class="nav" id="site-nav" data-level="1">
       {/* Mobile drill-down header. On phones the flat list ran far past the fold,
           so the menu steps down: top level → continents → that continent's
           countries. Desktop ignores all of this and keeps the hover dropdown. */}
@@ -156,4 +156,33 @@ const navGroups = CONT_ORDER
     // Closing the hamburger resets to the top level for the next open.
     toggle?.addEventListener('change', () => { if (!toggle.checked) setLevel('1'); });
   })();
+</script>
+
+<script>
+  // A <label> is not keyboard-operable: browsers give it no tab stop and no
+  // activation key, so the phone menu button could be neither reached nor
+  // pressed. Enter and Space now toggle it, Escape closes it, and aria-expanded
+  // tells a screen reader which state it is in.
+  {
+    const box = document.getElementById('nav-toggle');
+    const btn = document.querySelector('.menu-toggle');
+    if (box && btn) {
+      const sync = () => btn.setAttribute('aria-expanded', String(box.checked));
+      btn.addEventListener('keydown', (e) => {
+        if (e.key !== 'Enter' && e.key !== ' ') return;
+        e.preventDefault();
+        box.checked = !box.checked;
+        sync();
+        if (box.checked) document.querySelector('.nav a, .nav button')?.focus();
+      });
+      box.addEventListener('change', sync);
+      document.addEventListener('keydown', (e) => {
+        if (e.key !== 'Escape' || !box.checked) return;
+        box.checked = false;
+        sync();
+        btn.focus();
+      });
+      sync();
+    }
+  }
 </script>

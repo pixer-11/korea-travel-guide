@@ -113,7 +113,12 @@ function spilledField(out) {
 async function translateOne(langCode, srcId, data, attempt = 1) {
   const msg = await client.messages.create({
     model: MODEL,
-    max_tokens: 8000,
+    // 8000 silently truncated the longest posts: the tool-use input was cut off
+    // mid-JSON, the parser salvaged what it could, and the FIELDS AT THE END of
+    // the schema — faq above all — came back empty. bangkok-the-grand-palace
+    // (9KB source) failed its faq three retries in a row for exactly this
+    // reason; the retries could never succeed, because the ceiling was the cause.
+    max_tokens: 16000,
     tools: [TOOL],
     tool_choice: { type: 'tool', name: 'submit_translation' },
     messages: [{ role: 'user', content: prompt(LANGS[langCode], data) }],
@@ -126,7 +131,16 @@ async function translateOne(langCode, srcId, data, attempt = 1) {
   // renders the English paragraph on a Korean page.
   const bad =
     spilledField(out) ??
-    (data.quickAnswer && !String(out.quickAnswer || '').trim() ? 'quickAnswer(누락)' : null);
+    (data.quickAnswer && !String(out.quickAnswer || '').trim() ? 'quickAnswer(누락)' : null) ??
+    // Same defect, different field: the source has FAQs and the translation came
+    // back without them. This slipped for months because only quickAnswer was
+    // guarded — 21 translations shipped with `faq: []`, and since the page falls
+    // back to the English FAQ when the translated one is empty, every one of
+    // them rendered five English questions inside a Chinese or Spanish article.
+    ((data.faq?.length ?? 0) > 0 &&
+     (Array.isArray(out.faq) ? out.faq.filter((f) => f?.q && f?.a).length : 0) < data.faq.length
+      ? `faq(${Array.isArray(out.faq) ? out.faq.length : 0}/${data.faq.length})`
+      : null);
   if (bad) {
     if (attempt < 3) return translateOne(langCode, srcId, data, attempt + 1);
     throw new Error(`translation malformed after ${attempt} attempts (${bad}) — not written`);

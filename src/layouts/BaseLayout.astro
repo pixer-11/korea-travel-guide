@@ -38,8 +38,15 @@ const htmlLang = localeCodes[lang];
 const canonical = new URL(Astro.url.pathname, Astro.site);
 // hreflang alternates (localized pages only). x-default points to English.
 const canonicalPath = stripLocale(Astro.url.pathname);
+// Built from availableLangs, NOT from a hardcoded five. The list above already
+// knows which translations exist; this block used to ignore it and advertise all
+// five regardless, so a post translated into es and zh still told Google that
+// /ko/ and /ja/ versions existed — and those URLs 404, because the route only
+// builds a page per translation file that is actually on disk. One post trips it
+// today; the four translation steps in publish.yml are continue-on-error, so any
+// API hiccup makes the next one.
 const alternates = localized
-  ? (['en', 'ko', 'ja', 'es', 'zh'] as Lang[]).map((l) => ({
+  ? availableLangs.map((l) => ({
       hreflang: localeCodes[l],
       href: new URL(localizePath(canonicalPath, l), Astro.site).toString(),
     }))

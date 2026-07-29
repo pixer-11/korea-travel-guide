@@ -230,12 +230,12 @@ const BORING =
 // article FOR the place. Only free Commons files pass (non-free en-wiki logos
 // resolve as missing on Commons and are dropped). Returns a commonsBest-shaped
 // candidate or null; callers fall back to commonsBest search.
-export async function wikipediaLeadImage(name, { used, minWidth = 1000 } = {}) {
+export async function wikipediaLeadImage(name, { used, minWidth = 1000, near = null } = {}) {
   if (!name) return null;
   const wikiUrl =
     'https://en.wikipedia.org/w/api.php?action=query&format=json&origin=*&redirects=1' +
     '&titles=' + encodeURIComponent(name) +
-    '&prop=pageimages|pageprops&piprop=name&ppprop=disambiguation';
+    '&prop=pageimages|pageprops|coordinates&piprop=name&ppprop=disambiguation';
   let page;
   try {
     const res = await fetch(wikiUrl, { headers: { 'User-Agent': UA } });
@@ -251,6 +251,13 @@ export async function wikipediaLeadImage(name, { used, minWidth = 1000 } = {}) {
   const qtok = new Set(tokens(name));
   if (!tokens(page.title || '').some((t) => qtok.has(t))) return null;
   if (BORING.test(page.pageimage)) return null;
+  // The article is about a place somewhere else entirely.
+  const co = page.coordinates?.[0];
+  if (near?.lat && near?.lng && co && haversine(near.lat, near.lng, co.lat, co.lon) > SAME_PLACE_KM) return null;
+  // The same two file-name tests every other candidate goes through: a lead
+  // image can be the landmark's construction site, or the view FROM it.
+  const leadName = String(page.pageimage).replace(/\.(jpe?g|png)$/i, '').replace(/_/g, ' ');
+  if (heroTitleProblem(leadName, name) === 'vantage' || heroTitleProblem(leadName, name) === 'unusable') return null;
 
   const fileUrl =
     'https://commons.wikimedia.org/w/api.php?action=query&format=json&origin=*' +

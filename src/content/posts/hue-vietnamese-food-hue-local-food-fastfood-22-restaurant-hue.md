@@ -1,13 +1,13 @@
 ---
-title: 'Vietnamese Food - Hue Local Food & FastFood 22 Restaurant (Huế): Where to Eat'
+title: "Vietnamese Food - Hue Local Food & FastFood 22 Restaurant (Huế): Where to Eat"
 description: Head to 22 Trần Huy Liệu in Phú Xuân ward, a few minutes' walk from Hue's Citadel, for cheap, high-volume Vietnamese and Hue-style local food (rated 4.9 from
 country: Vietnam
 region: Hue
 category: restaurant
-pubDate: '2026-07-22T09:42:51.214Z'
+pubDate: "2026-07-22T09:42:51.214Z"
 heroImage:
   url: https://fastly.4sqi.net/img/general/original/974224_L-eZcyBtOOrHpQGcNlNL5mde8WV2Nr6cp8IRR4K2KbE.jpg
-  credit: 'Photo: Foursquare user content (Fast Food 22)'
+  credit: "Photo: Foursquare user content (Fast Food 22)"
   license: foursquare
   source: https://foursquare.com/v/643e41344bc45a2f92eb8370
 gallery: []
@@ -23,7 +23,7 @@ place:
   lat: 16.467523000000003
   lng: 107.58255709999999
   busyness:
-    updated: '2026-07-23'
+    updated: "2026-07-23"
     weekdayQuiet:
       - 9
       - 19
@@ -36,15 +36,15 @@ place:
       - 13
       - 14
     venueId: ven_495f6e6175337776366b395245545168792d30324b624b4a496843
-  phone: '0934 952 994'
+  phone: 0934 952 994
   openingHours:
-    - 'Monday: 9:00 AM – 7:00 PM'
-    - 'Tuesday: 9:00 AM – 7:00 PM'
-    - 'Wednesday: 9:00 AM – 7:00 PM'
-    - 'Thursday: 9:00 AM – 7:00 PM'
-    - 'Friday: 9:00 AM – 7:00 PM'
-    - 'Saturday: 9:00 AM – 7:00 PM'
-    - 'Sunday: 9:00 AM – 7:00 PM'
+    - "Monday: 9:00 AM – 7:00 PM"
+    - "Tuesday: 9:00 AM – 7:00 PM"
+    - "Wednesday: 9:00 AM – 7:00 PM"
+    - "Thursday: 9:00 AM – 7:00 PM"
+    - "Friday: 9:00 AM – 7:00 PM"
+    - "Saturday: 9:00 AM – 7:00 PM"
+    - "Sunday: 9:00 AM – 7:00 PM"
 tags:
   - hue
   - street food
@@ -57,11 +57,11 @@ faq:
   - q: What should I order?
     a: Try bún bò Huế (spicy beef noodle soup), bánh khoái (crispy pancake), nem lụi (grilled pork skewers), and com hen (clam rice) — the dishes Hue is best known for.
   - q: What's the best time to visit?
-    a: Lunch (11:30am–1:30pm) or early dinner (6–7:30pm) for freshest food and shorter waits; seasonally, the dry months from March to August are easiest for exploring Hue overall.
+    a: Lunch (11:30am–1:30pm) or early dinner (6–7pm) for freshest food and shorter waits, given the restaurant is open daily from 9am to 7pm; seasonally, the dry months from March to August are easiest for exploring Hue overall.
   - q: What else is nearby?
     a: The Imperial City (Hue Citadel) and Dong Ba Market are both close by on the same riverbank, making it easy to combine a meal here with sightseeing.
 aiGenerated: true
-updatedDate: '2026-07-24'
+updatedDate: "2026-07-24"
 ---
 
 ## Why go
@@ -86,7 +86,7 @@ Given the budget price level, a generous multi-dish meal for two typically stays
 
 ## When to go
 
-Lunch (11:30 am–1:30 pm) and early dinner (6–7:30 pm) are the safest windows for freshness and shorter waits, since a high-volume, high-turnover spot like this cooks continuously through service rather than holding food. Hue's climate is a genuine planning factor: the dry season from roughly March to August is hot but reliable, while October to December brings the region's heaviest rain and occasional flooding — plan streetside or open-air seating accordingly and keep an eye on weather if visiting in autumn.
+Lunch (11:30 am–1:30 pm) and early dinner (6–7 pm) are the safest windows for freshness and shorter waits, since a high-volume, high-turnover spot like this cooks continuously through service rather than holding food. The restaurant runs on a single continuous schedule, open 9am–7pm every day, so there's no need to time a visit around a midday closure. Hue's climate is a genuine planning factor: the dry season from roughly March to August is hot but reliable, while October to December brings the region's heaviest rain and occasional flooding — plan streetside or open-air seating accordingly and keep an eye on weather if visiting in autumn.
 
 ## Nearby & tips
 

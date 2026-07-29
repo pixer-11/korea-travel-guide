@@ -93,6 +93,22 @@ const strings = JSON.stringify({
   }
   .trip-btn:hover { border-color: var(--accent); color: var(--accent); }
 
+  .trip-note { margin: 2rem 0 0; color: var(--muted); font-size: 0.8rem; }
+
+  @media print {
+    .trip-bar, .trip-note, .dek { display: none; }
+  }
+</style>
+
+<!-- Everything below styles nodes this page BUILDS WITH innerHTML, so it cannot
+     be scoped. Astro compiles a scoped rule to `.trip-item[data-astro-cid-…]`
+     and only stamps that attribute on markup it renders itself — the injected
+     rows never carry it. The result was a polished header bar sitting directly
+     above a list with no layout at all: zero-size thumbnails, default grey
+     system buttons for "Remove", and an empty-state CTA that looked like plain
+     black text instead of a link. The comment above says TripChecklist hit this
+     same wall; it is the second time, so these rules live out here now. -->
+<style is:global>
   .trip-item {
     display: flex; gap: 1rem; align-items: flex-start;
     padding: 1rem 0; border-bottom: 1px solid var(--line-soft);
@@ -117,12 +133,8 @@ const strings = JSON.stringify({
 
   .trip-empty { padding: 2.5rem 0; color: var(--muted); }
   .trip-empty a { color: var(--accent); font-weight: 600; }
-  .trip-note { margin: 2rem 0 0; color: var(--muted); font-size: 0.8rem; }
 
-  /* Printed on the trip, probably without data. Drop everything that is not the
-     list itself — the same reasoning as the checklist page's print rules. */
   @media print {
-    .trip-bar, .trip-note, .dek { display: none; }
     .trip-item { break-inside: avoid; border-bottom: 1px solid #ddd; }
     .trip-thumb { display: none; }
     .trip-facts a { color: #000; text-decoration: none; }
@@ -164,6 +176,14 @@ const strings = JSON.stringify({
         bar.hidden = true;
         list.innerHTML =
           `<p class="trip-empty">${esc(S.empty)} <a href="${esc(S.emptyHref)}">${esc(S.emptyCta)} →</a></p>`;
+        // This early return used to skip the count and the live region, so after
+        // removing the last place the page read "Nothing saved yet." while the
+        // header still said "1 saved" — and because the live region's text never
+        // changed, a screen reader announced nothing at all. Both are updated
+        // here before returning.
+        document.querySelector('.trip-count').textContent = (S.count || '{n}').replace('{n}', '0');
+        const liveEmpty = document.querySelector('[aria-live]');
+        if (liveEmpty) liveEmpty.textContent = S.empty;
         return;
       }
 
@@ -238,13 +258,20 @@ const strings = JSON.stringify({
       write(read().filter((x) => x.slug !== btn.dataset.slug));
       render();
       const now = list.querySelectorAll('.trip-remove');
-      (now[Math.min(idx, now.length - 1)] || document.querySelector('.trip-clear'))?.focus();
+      // Removing the LAST row hid the action bar, and the fallback target lived
+      // inside it — so .focus() silently did nothing and focus fell to <body>.
+      // The empty state's own link is the only thing left on the page worth
+      // landing on.
+      (now[Math.min(idx, now.length - 1)]
+        || list.querySelector('.trip-empty a')
+        || document.querySelector('.trip-clear'))?.focus();
     });
 
     document.querySelector('.trip-clear')?.addEventListener('click', () => {
       if (!confirm(S.clearConfirm)) return;
       write([]);
       render();
+      list.querySelector('.trip-empty a')?.focus();   // same reason as above
     });
     document.querySelector('.trip-print')?.addEventListener('click', () => window.print());
 

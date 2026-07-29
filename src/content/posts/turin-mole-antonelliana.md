@@ -1,31 +1,31 @@
 ---
 title: "Mole Antonelliana: Turin Travel Guide"
-description: "The Mole Antonelliana is Turin's soaring 19th-century landmark on Via Montebello, home to the National Museum of Cinema and a glass lift that shoots you up"
-country: "Italy"
-region: "Turin"
-category: "hidden-gem"
+description: The Mole Antonelliana is Turin's soaring 19th-century landmark on Via Montebello, home to the National Museum of Cinema and a glass lift that shoots you up
+country: Italy
+region: Turin
+category: hidden-gem
 pubDate: "2026-07-29T10:14:17.068Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mole_Antonelliana_di_sera.jpg/1920px-Mole_Antonelliana_di_sera.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mole_Antonelliana_di_sera.jpg/1920px-Mole_Antonelliana_di_sera.jpg
   credit: "Photo: Abbrey82 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Mole_Antonelliana_di_sera.jpg"
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Mole_Antonelliana_di_sera.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Mole_Antonelliana_da_sotto.JPG/1920px-Mole_Antonelliana_da_sotto.JPG"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Mole_Antonelliana_da_sotto.JPG/1920px-Mole_Antonelliana_da_sotto.JPG
     credit: "Photo: Pmk58 / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Mole_Antonelliana_da_sotto.JPG"
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Mole_Antonelliana_da_sotto.JPG
 place:
-  id: "ChIJdeBgpXxtiEcRCA1w65O0FjM"
-  name: "Mole Antonelliana"
-  address: "Via Montebello, 20, 10124 Torino TO, Italy"
+  id: ChIJdeBgpXxtiEcRCA1w65O0FjM
+  name: Mole Antonelliana
+  address: Via Montebello, 20, 10124 Torino TO, Italy
   rating: 4.6
   userRatingsTotal: 57895
-  googleMapsUrl: "https://maps.google.com/?cid=3681328292825140488&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=3681328292825140488&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.0691807
   lng: 7.693233900000001
-  phone: "011 813 8564"
+  phone: 011 813 8564
   openingHours:
     - "Monday: 9:00 AM – 7:00 PM"
     - "Tuesday: Closed"
@@ -35,7 +35,7 @@ place:
     - "Saturday: 9:00 AM – 7:00 PM"
     - "Sunday: 9:00 AM – 7:00 PM"
   busyness:
-    updated: 2026-07-29
+    updated: 2026-07-29T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 19
@@ -53,27 +53,25 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_4d6a46304f3536773141435263456974785870674265644a496843"
+    venueId: ven_4d6a46304f3536773141435263456974785870674265644a496843
 tags:
-  - "turin"
-  - "hidden gem"
-quickAnswer: "The Mole Antonelliana is Turin's soaring 19th-century landmark on Via Montebello, home to the National Museum of Cinema and a glass lift that shoots you up to a panoramic terrace 85 metres above the city, with the full spire topping out at 121 metres. It's very popular, so aim for a weekday any time from 9am to 8pm, or a weekend evening between 7 and 8pm, to skip the worst of the crowds — weekends from 11am to 7pm are the busiest stretch. Budget half a day: roughly 45 minutes for the lift and view, longer if you linger in the cinema museum below."
+  - turin
+  - hidden gem
+quickAnswer: "The Mole Antonelliana is Turin's soaring 19th-century landmark on Via Montebello, home to the National Museum of Cinema and a glass lift that shoots you up to a panoramic terrace 85 metres above the city, with the full spire topping out at 121 metres. It's very popular, so aim for a weekday any time from 9am to 7pm, or a weekend right at opening, 9am, to skip the worst of the crowds — weekends from 11am to 7pm are the busiest stretch. Budget half a day: roughly 45 minutes for the lift and view, longer if you linger in the cinema museum below."
 faq:
-  - q: "How do I get to the Mole Antonelliana?"
-    a: "It's on Via Montebello in central Turin, an easy 5-10 minute walk from Piazza Castello. The nearest metro is Line 1, getting off at Vinzaglio or Porta Nuova station, followed by a short walk through the city's arcaded streets."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays are calm any time from 9am to 8pm. On weekends, avoid 11am to 7pm when it's busiest, and instead aim for the 7pm-8pm window, which is noticeably quieter."
-  - q: "How long should I spend there?"
+  - q: How do I get to the Mole Antonelliana?
+    a: It's on Via Montebello in central Turin, an easy 5-10 minute walk from Piazza Castello. The nearest metro is Line 1, getting off at Vinzaglio or Porta Nuova station, followed by a short walk through the city's arcaded streets.
+  - q: When is the quietest time to visit?
+    a: Weekdays are calm any time from 9am to 7pm. On weekends, avoid 11am to 7pm when it's busiest, and instead aim for right at opening, 9am, which is noticeably quieter.
+  - q: How long should I spend there?
     a: "Plan on about 45 minutes to an hour total: a quick ride up in the panoramic lift plus time on the terrace, and more if you explore the National Museum of Cinema's galleries around the central hall."
-  - q: "Is it worth booking tickets in advance?"
-    a: "Yes — the panoramic lift uses timed-entry tickets separate from general museum admission, and weekend slots can sell out, so booking online ahead is the safer bet."
-  - q: "What else is nearby?"
-    a: "Piazza San Carlo, the Egyptian Museum, and the riverside Parco del Valentino are all within easy walking distance, making it simple to combine the Mole with a few hours of central Turin sightseeing."
+  - q: Is it worth booking tickets in advance?
+    a: Yes — the panoramic lift uses timed-entry tickets separate from general museum admission, and weekend slots can sell out, so booking online ahead is the safer bet.
+  - q: What else is nearby?
+    a: Piazza San Carlo, the Egyptian Museum, and the riverside Parco del Valentino are all within easy walking distance, making it simple to combine the Mole with a few hours of central Turin sightseeing.
 aiGenerated: true
 draft: false
 ---
-
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You see it before you see anything else in Turin. From the Po's riverbanks, from the arcaded stretch of Via Roma, even from a train pulling into Porta Nuova, the Mole Antonelliana pokes up over the rooftops like a needle stitched into the sky, its aluminum spire catching the light differently depending on the hour. Up close, the building is stranger and more theatrical than photos suggest — a squat, heavily colonnaded base topped by a dome that keeps rising, tier after tier, until it narrows into that impossibly thin spire. It doesn't look like it should hold together, and for a while, structurally, it barely did.
 
@@ -91,7 +89,7 @@ The Mole sits on Via Montebello, a five-to-ten-minute walk from Piazza Castello 
 
 ## When to go
 
-Given how popular this landmark has become, timing matters more than most places in the city. Weekdays are calmer across the whole span from opening to 8pm, so a Tuesday or Wednesday morning visit lets you take the lift without a long wait. Weekends are a different story — expect the heaviest crowds from 11am to 7pm, with the museum's ticket line for the elevator stretching well into the entrance hall. If a weekend is your only option, the window from 7 to 8pm is noticeably quieter, and it comes with the bonus of Turin's rooftops catching the last of the evening light.
+Given how popular this landmark has become, timing matters more than most places in the city. Weekdays are calmer across the whole span from opening to 7pm, so a Monday or Wednesday morning visit lets you take the lift without a long wait. Weekends are a different story — expect the heaviest crowds from 11am to 7pm, with the museum's ticket line for the elevator stretching well into the entrance hall. If a weekend is your only option, the window right at opening, 9am, is noticeably quieter, and it lets you beat the crowds before they build through the day.
 
 ## How to visit like a local
 

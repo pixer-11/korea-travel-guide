@@ -1,18 +1,18 @@
 ---
-title: 'Mê Hội An Rooftop Coffee & Kitchen: Hoi An Travel Guide'
+title: "Mê Hội An Rooftop Coffee & Kitchen: Hoi An Travel Guide"
 description: Mê Hội An Rooftop Coffee & Kitchen sits at 166 Trần Phú in the heart of Hoi An's Old Town, a short walk from the Japanese Covered Bridge, and is best visited
 country: Vietnam
 region: Hoi An
 category: trendy
-pubDate: '2026-07-22T09:37:10.215Z'
+pubDate: "2026-07-22T09:37:10.215Z"
 heroImage:
   url: https://fastly.4sqi.net/img/general/original/5679311_Yk_4QWNWxP3VTKPkd2S-XGRlSLBO0FV9VxCiXyKyR3I.jpg
-  credit: 'Photo: Foursquare user content (Me Hoi An Rooftop Coffee)'
+  credit: "Photo: Foursquare user content (Me Hoi An Rooftop Coffee)"
   license: foursquare
   source: https://foursquare.com/v/67dd21eff454f47c5baf2549
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/8480041_8ufzyvwKfJAU8xdhbqaygx3oQbBXAG2DW-1PIBlrLKg.jpg
-    credit: 'Photo: Foursquare user content (Me Hoi An Rooftop Coffee)'
+    credit: "Photo: Foursquare user content (Me Hoi An Rooftop Coffee)"
     license: foursquare
     source: https://foursquare.com/v/67dd21eff454f47c5baf2549
 place:
@@ -26,7 +26,7 @@ place:
   lat: 15.8771366
   lng: 108.3269249
   busyness:
-    updated: '2026-07-23'
+    updated: "2026-07-23"
     weekdayQuiet:
       - 8
       - 9
@@ -50,15 +50,15 @@ place:
       - 19
     venueId: ven_5973306675385465645f3652456a515045624f72485f624a496843
   priceLevel: 1
-  phone: '0374 099 375'
+  phone: 0374 099 375
   openingHours:
-    - 'Monday: 8:00 AM – 10:30 PM'
-    - 'Tuesday: 8:00 AM – 10:30 PM'
-    - 'Wednesday: 8:00 AM – 10:30 PM'
-    - 'Thursday: 8:00 AM – 10:30 PM'
-    - 'Friday: 8:00 AM – 10:30 PM'
-    - 'Saturday: 8:00 AM – 10:30 PM'
-    - 'Sunday: 8:00 AM – 10:30 PM'
+    - "Monday: 8:00 AM – 10:30 PM"
+    - "Tuesday: 8:00 AM – 10:30 PM"
+    - "Wednesday: 8:00 AM – 10:30 PM"
+    - "Thursday: 8:00 AM – 10:30 PM"
+    - "Friday: 8:00 AM – 10:30 PM"
+    - "Saturday: 8:00 AM – 10:30 PM"
+    - "Sunday: 8:00 AM – 10:30 PM"
 tags:
   - hoi an
   - trendy cafe
@@ -69,13 +69,13 @@ faq:
   - q: How do I get there if cars can't enter the Old Town?
     a: Walk, cycle, or take a taxi/Grab to the nearest vehicle-access edge of the pedestrian zone, then walk the rest — most of Trần Phú restricts vehicle traffic during peak hours.
   - q: What's the best time to visit for the view?
-    a: Late afternoon around 4:30-6:30pm to catch daylight rooftop views transitioning into the evening lantern glow; early morning is a quieter alternative.
+    a: Late afternoon around 4:30-6:30pm to catch daylight rooftop views transitioning into the evening lantern glow; right at opening (8am) is a quieter alternative.
   - q: How long should I plan to stay?
     a: About 1 to 1.5 hours is typical for coffee and photos, longer if you order food from the kitchen menu.
   - q: Do I need a ticket to enter the café?
     a: No ticket is needed for the café itself, though nearby Old Town heritage houses and monuments require the separate Hoi An Ancient Town entrance ticket.
 aiGenerated: true
-updatedDate: '2026-07-24'
+updatedDate: "2026-07-24"
 ---
 
 ## Why go
@@ -92,7 +92,7 @@ The draw here is vertical: multiple open-air rooftop levels stacked above a grou
 
 ## When to go
 
-Late afternoon, roughly 4:30–6:30pm, is the sweet spot — you get daylight views of the Old Town roofscape, then watch the transition into the lantern-lit evening without having to change location. Sunrise (around 6–7am) is a quieter, cooler alternative with far thinner crowds. Hoi An's dry season, February through May, offers the most reliable clear skies for the rooftop view; the wetter months (September–December) bring dramatic light but a real chance of rain closing the open-air terrace early. If your visit coincides with the monthly Hoi An Lantern Festival (held on the 14th day of the lunar month, when the Old Town switches off electric lights in favor of lanterns), expect the rooftop to be significantly busier and arrive well before dusk.
+Late afternoon, roughly 4:30–6:30pm, is the sweet spot — you get daylight views of the Old Town roofscape, then watch the transition into the lantern-lit evening without having to change location. Right at opening, 8am, is a quieter, cooler alternative with far thinner crowds. Hoi An's dry season, February through May, offers the most reliable clear skies for the rooftop view; the wetter months (September–December) bring dramatic light but a real chance of rain closing the open-air terrace early. If your visit coincides with the monthly Hoi An Lantern Festival (held on the 14th day of the lunar month, when the Old Town switches off electric lights in favor of lanterns), expect the rooftop to be significantly busier and arrive well before dusk.
 
 ## Nearby & tips
 

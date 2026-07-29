@@ -1,13 +1,13 @@
 ---
-title: 'Hoi An Night Market: Travel Guide'
+title: "Hoi An Night Market: Travel Guide"
 description: Hoi An Night Market runs every evening along Nguyễn Hoàng Street on the An Hội islet, just across the wooden/pedestrian bridge from the Old Town's riverside
 country: Vietnam
 region: Hoi An
 category: hidden-gem
-pubDate: '2026-07-22T09:35:05.965Z'
+pubDate: "2026-07-22T09:35:05.965Z"
 heroImage:
   url: https://fastly.4sqi.net/img/general/original/38071873_oWx-FJ6-oZTK9pk-VoMEqcwmTIQJh3vIKUm47FbN4XQ.jpg
-  credit: 'Photo: Foursquare user content (An Hoi Night Market (Chợ Đêm An Hội))'
+  credit: "Photo: Foursquare user content (An Hoi Night Market (Chợ Đêm An Hội))"
   license: foursquare
   source: https://foursquare.com/v/4e5a3a8fb993732579f3a04b
 gallery: []
@@ -22,13 +22,13 @@ place:
   lat: 15.875503
   lng: 108.3262087
   openingHours:
-    - 'Monday: 9:00 AM – 10:00 PM'
-    - 'Tuesday: 9:00 AM – 10:00 PM'
-    - 'Wednesday: 9:00 AM – 10:00 PM'
-    - 'Thursday: 9:00 AM – 10:00 PM'
-    - 'Friday: 9:00 AM – 10:00 PM'
-    - 'Saturday: 9:00 AM – 10:00 PM'
-    - 'Sunday: 9:00 AM – 10:00 PM'
+    - "Monday: 9:00 AM – 10:00 PM"
+    - "Tuesday: 9:00 AM – 10:00 PM"
+    - "Wednesday: 9:00 AM – 10:00 PM"
+    - "Thursday: 9:00 AM – 10:00 PM"
+    - "Friday: 9:00 AM – 10:00 PM"
+    - "Saturday: 9:00 AM – 10:00 PM"
+    - "Sunday: 9:00 AM – 10:00 PM"
 tags:
   - hoi an
   - hidden gem
@@ -39,13 +39,13 @@ faq:
   - q: Is there an entrance fee?
     a: No, entry to the market is free. You only pay for food, souvenirs, and optional extras like floating river lanterns, which cost only a small amount.
   - q: What time should I visit?
-    a: The market runs roughly 6pm to 10-11pm nightly. Go early (around 6-7pm) for easier browsing, or after 8pm for the fullest lantern-lit atmosphere.
+    a: The market runs daily from about 9am to 10pm. Go early (around 6-7pm) for easier browsing, or after 8pm for the fullest lantern-lit atmosphere.
   - q: How much time should I plan for?
     a: Most visitors spend 1.5-2 hours, including food stops and a river lantern release, plus extra time if combining it with a walk through the Old Town.
   - q: What food should I try there?
     a: Look for chè (sweet dessert soup), grilled skewers, and bánh mì at the stalls; for Hoi An's signature cao lầu noodles, check sit-down shops just off the main market street.
 aiGenerated: true
-updatedDate: '2026-07-24'
+updatedDate: "2026-07-24"
 ---
 
 ## Why go
@@ -66,7 +66,7 @@ The single most photographed activity here is releasing a small floating candle 
 
 ## When to go
 
-The market operates every evening, picking up energy from around 6pm and staying busy until roughly 10-11pm. Go right at opening if you want space to browse stalls without heavy crowds; return closer to 8-9pm for the fullest lantern-lit atmosphere along the river. The two lunar-calendar Lantern Festival nights each month (14th day of the lunar month, when the town famously turns off electric lights in favor of lanterns) are spectacular but significantly more crowded — worth it if your dates align, but arrive early.
+The market operates daily from around 9am, but really picks up energy from around 6pm and stays busy until closing around 10pm. Go right at opening if you want space to browse stalls without heavy crowds; return closer to 8-9pm for the fullest lantern-lit atmosphere along the river. The two lunar-calendar Lantern Festival nights each month (14th day of the lunar month, when the town famously turns off electric lights in favor of lanterns) are spectacular but significantly more crowded — worth it if your dates align, but arrive early.
 
 ## Nearby & tips
 

@@ -1,84 +1,56 @@
 ---
-title: 'Japanese Bridge: Hoi An Travel Guide'
-description: >-
-  The Japanese Bridge (Chùa Cầu) is Hoi An's iconic 18th-century covered wooden
-  bridge spanning a small canal off Nguyễn Thị Minh Khai Street in the heart of
+title: "Japanese Bridge: Hoi An Travel Guide"
+description: The Japanese Bridge (Chùa Cầu) is Hoi An's iconic 18th-century covered wooden bridge spanning a small canal off Nguyễn Thị Minh Khai Street in the heart of
 country: Vietnam
 region: Hoi An
 category: attraction
-pubDate: '2026-07-22T09:27:52.164Z'
+pubDate: "2026-07-22T09:27:52.164Z"
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024-12-20_Japanese_Bridge_in_Hoi_An.jpg/1920px-2024-12-20_Japanese_Bridge_in_Hoi_An.jpg
-  credit: 'Photo: Alexkom000 / Wikimedia Commons (CC BY 4.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024-12-20_Japanese_Bridge_in_Hoi_An.jpg/1920px-2024-12-20_Japanese_Bridge_in_Hoi_An.jpg
+  credit: "Photo: Alexkom000 / Wikimedia Commons (CC BY 4.0)"
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:2024-12-20_Japanese_Bridge_in_Hoi_An.jpg
+  source: https://commons.wikimedia.org/wiki/File:2024-12-20_Japanese_Bridge_in_Hoi_An.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Japanese_Bridge_in_Hoi_An.jpg/1920px-Japanese_Bridge_in_Hoi_An.jpg
-    credit: 'Photo: Good Morning Hoi An / Wikimedia Commons (CC BY-SA 4.0)'
+    credit: "Photo: Good Morning Hoi An / Wikimedia Commons (CC BY-SA 4.0)"
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Japanese_Bridge_in_Hoi_An.jpg
 place:
   id: ChIJWewCLXwOQjERRkh9adZkWHY
   name: Japanese Bridge
-  address: 'Nguyễn Thị Minh Khai, Hội An, Đà Nẵng 564010, Vietnam'
+  address: Nguyễn Thị Minh Khai, Hội An, Đà Nẵng 564010, Vietnam
   rating: 4.3
   userRatingsTotal: 28537
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=8527676766481631302&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=8527676766481631302&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 15.8770873
   lng: 108.32607039999999
   openingHours:
-    - 'Monday: 9:00 AM – 10:00 PM'
-    - 'Tuesday: 9:00 AM – 10:00 PM'
-    - 'Wednesday: 9:00 AM – 10:00 PM'
-    - 'Thursday: 9:00 AM – 10:00 PM'
-    - 'Friday: 9:00 AM – 10:00 PM'
-    - 'Saturday: 9:00 AM – 10:00 PM'
-    - 'Sunday: 9:00 AM – 10:00 PM'
+    - "Monday: 9:00 AM – 10:00 PM"
+    - "Tuesday: 9:00 AM – 10:00 PM"
+    - "Wednesday: 9:00 AM – 10:00 PM"
+    - "Thursday: 9:00 AM – 10:00 PM"
+    - "Friday: 9:00 AM – 10:00 PM"
+    - "Saturday: 9:00 AM – 10:00 PM"
+    - "Sunday: 9:00 AM – 10:00 PM"
 tags:
   - hoi an
   - top attraction
-quickAnswer: >-
-  The Japanese Bridge (Chùa Cầu) is Hoi An's iconic 18th-century covered wooden
-  bridge spanning a small canal off Nguyễn Thị Minh Khai Street in the heart of
-  the Ancient Town. Visit early morning (before 8am) or after sunset when
-  lanterns light up the structure, and budget 15-20 minutes to see it plus the
-  small shrine inside — entry requires the Hoi An Ancient Town heritage ticket.
-  Combine it with a walk along the riverfront and nearby merchant houses since
-  it sits right at the old town's western edge.
+quickAnswer: The Japanese Bridge (Chùa Cầu) is Hoi An's iconic 18th-century covered wooden bridge spanning a small canal off Nguyễn Thị Minh Khai Street in the heart of the Ancient Town. Visit right at opening (9am) or after sunset when lanterns light up the structure (it stays open until 10pm), and budget 15-20 minutes to see it plus the small shrine inside — entry requires the Hoi An Ancient Town heritage ticket. Combine it with a walk along the riverfront and nearby merchant houses since it sits right at the old town's western edge.
 faq:
   - q: Do I need a ticket to see the Japanese Bridge?
-    a: >-
-      Yes — entry is included in Hoi An's Ancient Town heritage ticket, sold at
-      booths around the old town's edges. The same ticket covers several
-      historic houses and museums, so it's worth exploring more than just the
-      bridge.
+    a: Yes — entry is included in Hoi An's Ancient Town heritage ticket, sold at booths around the old town's edges. The same ticket covers several historic houses and museums, so it's worth exploring more than just the bridge.
   - q: How long should I spend at the bridge?
-    a: >-
-      Most visitors spend 15-20 minutes crossing it, viewing the small shrine,
-      and taking photos from the adjacent side street. It pairs naturally with a
-      longer 1-2 hour walk through the surrounding Ancient Town.
+    a: Most visitors spend 15-20 minutes crossing it, viewing the small shrine, and taking photos from the adjacent side street. It pairs naturally with a longer 1-2 hour walk through the surrounding Ancient Town.
   - q: What's the best time to visit to avoid crowds?
-    a: >-
-      Arrive right at opening (around 7:30-8am) or come after sunset when
-      lanterns are lit. Midday and late afternoon see heavy tour group traffic.
+    a: Arrive right at opening (around 9am) or come after sunset when lanterns are lit — the bridge stays open until 10pm. Midday and late afternoon see heavy tour group traffic.
   - q: How do I get to the Japanese Bridge?
-    a: >-
-      It's at the western edge of Hoi An's pedestrian Ancient Town on Nguyễn Thị
-      Minh Khai Street. Park a bicycle or scooter near the old town's perimeter
-      (cars and bikes are restricted inside) and walk in — it's about 5 minutes
-      from the riverside market.
+    a: It's at the western edge of Hoi An's pedestrian Ancient Town on Nguyễn Thị Minh Khai Street. Park a bicycle or scooter near the old town's perimeter (cars and bikes are restricted inside) and walk in — it's about 5 minutes from the riverside market.
   - q: What else is nearby?
-    a: >-
-      The Tan Ky House, Phung Hung House, riverside market, and several
-      well-known cao lầu noodle stalls are all within a five-minute walk, making
-      the bridge a good anchor point for an old town walking loop.
+    a: The Tan Ky House, Phung Hung House, riverside market, and several well-known cao lầu noodle stalls are all within a five-minute walk, making the bridge a good anchor point for an old town walking loop.
 aiGenerated: true
 draft: false
-updatedDate: '2026-07-24'
+updatedDate: "2026-07-24"
 ---
 
 ## Why go
@@ -97,7 +69,7 @@ Entry to the bridge is included in Hoi An's Ancient Town heritage ticket, sold a
 
 ## When to go
 
-Early morning, right after the old town opens (around 7:30-8am), is the best window for photos without the crowd — Chùa Cầu is a mandatory stop for every tour group, so mid-morning through late afternoon gets packed. The other prime time is just after sunset, when the surrounding streets glow with silk lanterns and the bridge is lit from within; this is especially atmospheric during the Hoi An Lantern Festival, held on the 14th day of each lunar month, when motorbikes are banned and candles float on the canal below. Dry season (February to July) offers the most reliable weather, while the rainy season (October-November) occasionally brings flooding that can affect access to the old town entirely.
+Early morning, right after the bridge opens at 9am, is the best window for photos without the crowd — Chùa Cầu is a mandatory stop for every tour group, so mid-morning through late afternoon gets packed. The other prime time is just after sunset, when the surrounding streets glow with silk lanterns and the bridge is lit from within (it stays open until 10pm); this is especially atmospheric during the Hoi An Lantern Festival, held on the 14th day of each lunar month, when motorbikes are banned and candles float on the canal below. Dry season (February to July) offers the most reliable weather, while the rainy season (October-November) occasionally brings flooding that can affect access to the old town entirely.
 
 ## Nearby and tips
 

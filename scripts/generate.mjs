@@ -26,6 +26,7 @@ import yaml from 'js-yaml';
 import { slugify } from './lib/slugify.mjs';
 import { checkPlace, isImageAllowed } from './lib/guardrails.mjs';
 import { qualifyingPosts } from '../src/lib/itinerary.mjs';
+import { openHourSet } from '../src/lib/hours.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
@@ -631,10 +632,16 @@ async function buildLivePost(target) {
   const hr12 = (h) => { const x = ((h % 24) + 24) % 24; return `${x % 12 || 12}${x < 12 ? 'am' : 'pm'}`; };
   const span = (a) => (a && a.length ? `${hr12(Math.min(...a))}–${hr12(Math.max(...a) + 1)}` : null);
   const bz = place.busyness;
+  // BestTime reports foot traffic around the venue, which does not stop when the
+  // doors do — a café that opens at 11 still has a quiet 7–9am on the pavement
+  // outside. The writer is told to quote these hours verbatim, so an unfiltered
+  // quiet window becomes "come at 7am" for a place that is shut until 11.
+  const openHours = openHourSet(place.openingHours);
+  const inOpen = (a) => (!openHours ? a : (a ?? []).filter((h) => openHours.has(((h % 24) + 24) % 24)));
   const crowdFacts = bz && {
-    quietestWeekday: span(bz.weekdayQuiet),
-    quietestWeekend: span(bz.weekendQuiet),
-    busiestWeekend: span(bz.weekendBusy),
+    quietestWeekday: span(inOpen(bz.weekdayQuiet)),
+    quietestWeekend: span(inOpen(bz.weekendQuiet)),
+    busiestWeekend: span(inOpen(bz.weekendBusy)),
   };
 
   const facts = {
@@ -646,6 +653,14 @@ async function buildLivePost(target) {
     editorialSummary: place.editorialSummary,
     region: target.region,
     country: target.country,
+    // The writer was never shown the opening hours, though they were fetched
+    // fifty lines above and printed in the fact box beside its prose. So it
+    // guessed, and 17 published guides told readers to turn up at a time the
+    // venue is shut — a Chiang Mai noodle shop recommended "for lunch, 11am-2pm"
+    // when it opens at 4pm, a museum described as "closed Mondays" that opens at
+    // 9 on Mondays. Nothing in the pipeline could have caught that, because the
+    // model had no way to know.
+    ...(place.openingHours?.length && { openingHours: place.openingHours }),
     ...(localSignals && { localSignals }),
     ...(crowdFacts && Object.values(crowdFacts).some(Boolean) && { crowdData: crowdFacts }),
   };

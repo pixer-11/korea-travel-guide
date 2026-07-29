@@ -126,6 +126,16 @@ export async function verifyHeroImage({ url, name, category, region, country, ev
               `the hero should show the actual PLACE (exterior, interior, or a dish clearly photographed inside a real venue setting).\n` +
               `ACCEPT if: it plausibly shows this venue or this exact kind of place in this locale. When unsure, REJECT.\n` +
               `A HERO must be REPRESENTATIVE — the view a visitor would recognise this place by. Reject an incidental fragment (one house on a coastal-village page, a doorway, a wall, a parked car, a close-up of an object) even when it was taken at the right address.\n` +
+              // These three clauses were on the GALLERY prompt and not on this one,
+              // so the optional second photo was judged more strictly than the
+              // image at the top of the article. A Cloud Gate carousel shipped
+              // with a crane over the unfinished sculpture and a blurred closure
+              // notice, and its hero was the skyline photographed from under the
+              // sculpture — all three passed a gate that only asked "is this
+              // about the right place?", which they were.
+              `REJECT a photo taken FROM this place rather than OF it: if the landmark is where the camera stood and is not itself in the frame, it is the wrong picture however correctly it is captioned.\n` +
+              `REJECT the place in a state a visitor will not see: under construction, scaffolded, being restored, closed off, or before it was finished.\n` +
+              `REJECT a photograph OF A SIGN, notice, plaque, map, poster, banner or screen — text about the place is not a picture of it, however clearly it names it.\n` +
       `Answer ONLY JSON: {"ok": true|false, "reason": "<max 12 words>"}`,
           },
         ],

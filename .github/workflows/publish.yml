@@ -256,6 +256,60 @@ jobs:
         continue-on-error: true
         run: node scripts/audit-hero-titles.mjs --fix
 
+      # THE GATE. Every validator below this file used to run AFTER the commit and
+      # push, which meant a post with the wrong photo, or advice to visit a venue
+      # on the day it is shut, went live first and produced a warning second. The
+      # checks were real; their position made them a post-mortem.
+      #
+      # This runs before the commit and flips any offending post to draft, so it
+      # never reaches the site. It does not fail the run — one bad post must not
+      # throw away fifteen good ones and a day of Places quota. Scoped to posts
+      # THIS run added, so a pre-existing defect is left to the repair patrol
+      # rather than silently unpublishing a page that has been live for weeks.
+      - name: Hold back defective posts (publish gate)
+        id: gate
+        continue-on-error: true
+        run: |
+          set -o pipefail
+          node scripts/gate-new-posts.mjs --since=HEAD 2>&1 | tee /tmp/gate.log
+
+      # The day's output must not shrink because the gate caught something. If it
+      # held N posts back, generate exactly N replacements from the queue and put
+      # THOSE through the same gate. One top-up round only — a queue that keeps
+      # producing rejects is a problem to be told about, not to loop on.
+      - name: Top up the held-back posts
+        if: steps.gate.outputs.held != '' && steps.gate.outputs.held != '0'
+        continue-on-error: true
+        env:
+          GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
+          BESTTIME_API_KEY: ${{ secrets.BESTTIME_API_KEY }}
+          POSTS_PER_RUN: ${{ steps.gate.outputs.held }}
+          COUNTRY: ${{ inputs.country }}
+          TARGET_PER_COUNTRY: ${{ inputs.target }}
+          MIN_RATING: '4.0'
+          MIN_REVIEWS: '50'
+        run: |
+          set -o pipefail
+          npm run generate 2>&1 | tee -a /tmp/gen.log
+          node scripts/translate-posts.mjs || true
+          node scripts/gate-new-posts.mjs --since=HEAD 2>&1 | tee -a /tmp/gate.log
+
+      - name: Report held-back posts (Korean)
+        if: always()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
+          grep -q 'HELD BACK' /tmp/gate.log 2>/dev/null || exit 0
+          BODY=$(sed -n '/HELD BACK/,$p' /tmp/gate.log | head -30)
+          TXT=$(printf '🚧 문제가 있는 글을 발행 직전에 걸러냈습니다\n%s' "$BODY")
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+            --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
+            --data-urlencode "text=$TXT" >/dev/null || true
+
       - name: Commit new posts
         id: commit
         run: |

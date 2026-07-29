@@ -118,7 +118,13 @@ export async function resolveHero({ namedVenue, region, topic, place, country = 
   // (e.g. Amalfi Coast → the classic coastal vista, not a niche watchtower).
   // Small venues (cafes etc.) have no article → null → normal flow continues.
   if (namedVenue && !eventMode) {
-    const lead = await wikipediaLeadImage(namedVenue, { used });
+    // Pass the coordinates: this is the FIRST hero source tried, and without them
+    // it was also the only one that could return a photo of a same-named place in
+    // another country.
+    const lead = await wikipediaLeadImage(namedVenue, {
+      used,
+      near: place?.lat && place?.lng ? { lat: place.lat, lng: place.lng } : null,
+    });
     if (lead) return mark(lead, used);
   }
 
