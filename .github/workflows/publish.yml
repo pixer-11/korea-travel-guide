@@ -156,6 +156,49 @@ jobs:
           CONCURRENCY: '2'
         run: node scripts/gen-region-intros.mjs
 
+      # Climate/holiday facts and the country essentials guides are refreshed on
+      # monthly crons, which is right for keeping them current and wrong for a
+      # country that has just appeared: added on the 4th, it waits until the 3rd
+      # of the next month for climate — and no climate means no when-to-go pages
+      # at all, so twelve pages per language simply do not exist for a month.
+      # That is not hypothetical: Taiwan, Malaysia, India and the Philippines
+      # published their first guides on 2026-07-26, one day after the refresh ran,
+      # and sat without climate data until it was noticed by hand three days later.
+      #
+      # So the gap is closed here rather than waited out. Both steps no-op when
+      # nothing is missing: refresh-country-facts uses free APIs, and
+      # build-essentials skips any country whose guide already exists.
+      - name: Fill facts for newly added countries
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          MISSING=$(node -e "
+            const cf = require('./data/country-facts.json').countries || {};
+            const cs = require('./data/countries.json').countries.filter((c) => c.active);
+            const fs = require('fs');
+            const ess = fs.existsSync('src/content/essentials')
+              ? fs.readdirSync('src/content/essentials').map((f) => f.replace('.md', ''))
+              : [];
+            const noClimate = cs.filter((c) => !((cf[c.name] || {}).climate || []).length);
+            const noEssentials = cs.filter((c) => !ess.includes(c.slug));
+            console.log(JSON.stringify({
+              climate: noClimate.map((c) => c.name),
+              essentials: noEssentials.map((c) => c.name),
+            }));
+          ")
+          echo "누락 현황: $MISSING"
+          if echo "$MISSING" | grep -q '"climate":\[\]'; then
+            echo "기후·공휴일: 빠진 나라 없음 — 건너뜁니다."
+          else
+            node scripts/refresh-country-facts.mjs
+          fi
+          if echo "$MISSING" | grep -q '"essentials":\[\]'; then
+            echo "나라 실용정보: 빠진 나라 없음 — 건너뜁니다."
+          else
+            node scripts/build-essentials.mjs
+          fi
+
       # Assembles/refreshes src/content/itineraries/<city>-<n>-days.md for any
       # region that clears the itinerary gates (src/lib/itinerary.mjs gateFor).
       # Self-validating (runs scripts/validate-itineraries.mjs on a temp file
@@ -210,7 +253,10 @@ jobs:
         run: |
           git config user.name "content-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add src/content/posts src/content/i18n data/published.json public/wall data/wall.json src/i18n/places.json src/i18n/country-blurbs.json src/i18n/regions.json src/content/itineraries src/content/itineraries-i18n data/itineraries-state.json data/logs/itinerary-last-run.txt
+          # country-facts.json and the essentials guides are here because the
+          # step above can create them for a newly added country; without them
+          # staged, that work is generated and then thrown away on every run.
+          git add src/content/posts src/content/i18n data/published.json public/wall data/wall.json src/i18n/places.json src/i18n/country-blurbs.json src/i18n/regions.json src/content/itineraries src/content/itineraries-i18n data/itineraries-state.json data/logs/itinerary-last-run.txt data/country-facts.json src/content/essentials src/content/essentials-i18n
           new=$(git diff --cached --name-only --diff-filter=A -- src/content/posts | grep -c '\.md$' || true)
           total=$(ls src/content/posts/*.md | wc -l | tr -d ' ')
           echo "new=$new" >> "$GITHUB_OUTPUT"
