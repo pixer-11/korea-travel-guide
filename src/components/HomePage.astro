@@ -10,7 +10,7 @@ import { SITE } from '../siteConfig';
 import { useTranslations, localizePath, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 import { loadCardTranslations, cardHelpers } from '../i18n/cards';
-import { pickRepHeroUrl } from '../lib/repImage';
+import { pickRepHeroUrl, tileSize } from '../lib/repImage';
 import countriesData from '../../data/countries.json';
 import wallData from '../../data/wall.json';
 
@@ -143,7 +143,7 @@ const koreaLinks = [
           {latest.map((post) => (
             <a class="story" href={localizePath(`/posts/${post.id}`, lang)}>
               <div class="story-thumb">
-                <img src={post.data.heroImage?.url ?? '/images/placeholder-market.svg'} alt={post.data.place?.name ?? post.data.title} loading="lazy" width="600" height="400" />
+                <img src={tileSize(post.data.heroImage?.url ?? '/images/placeholder-market.svg')} alt={post.data.place?.name ?? post.data.title} loading="lazy" width="600" height="400" />
               </div>
               <span class="kicker gold">{t(`cat.${post.data.category}` as any)}</span>
               <h3>{card.title(post.id, post.data.title)}</h3>
@@ -159,7 +159,7 @@ const koreaLinks = [
     <div class="wrap">
       <div class="spotlight">
         <div class="spotlight-media">
-          <img src={cover?.data.heroImage?.url ?? '/images/placeholder-market.svg'} alt="South Korea" loading="lazy" width="800" height="1000" />
+          <img src={tileSize(cover?.data.heroImage?.url ?? '/images/placeholder-market.svg')} alt="South Korea" loading="lazy" width="800" height="1000" />
         </div>
         <div class="spotlight-body">
           <p class="kicker gold"><Flag code="kr" class="flag-ico" /> {t('home.destinations')}</p>

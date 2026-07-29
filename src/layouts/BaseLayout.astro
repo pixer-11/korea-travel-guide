@@ -7,7 +7,7 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import NewsletterPopup from '../components/NewsletterPopup.astro';
 import { SITE } from '../siteConfig';
-import { getLangFromUrl, localeCodes, localizePath, stripLocale, type Lang } from '../i18n/utils';
+import { getLangFromUrl, localeCodes, localizePath, stripLocale, useTranslations, type Lang } from '../i18n/utils';
 
 interface Props {
   title: string;
@@ -31,6 +31,7 @@ interface Props {
 
 const { title, description, image, article = false, jsonLd, localized = false, localizedLangs, noindex = false } = Astro.props;
 const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
 // Which locales the language switcher may link to WITHOUT preserving the path
 // (falls back to that locale's homepage for the rest, which always exists).
 const availableLangs: Lang[] = localizedLangs ?? (localized ? ['en', 'ko', 'ja', 'es', 'zh'] : ['en']);
@@ -107,6 +108,11 @@ const orgLd = {
         rich pins + attribution on every pin pointing at this site. */}
     <meta name="p:domain_verify" content="1431a0577ccfe0a5fe2da9ba3c582bc2" />
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    {/* Every post hero lives on one of these two hosts; opening the connection
+        during HTML parse saves the measured 150ms of DNS+TCP+TLS on the LCP
+        image. Wikimedia also sends no Cache-Control, so this is paid often. */}
+    <link rel="preconnect" href="https://upload.wikimedia.org" crossorigin />
+    <link rel="preconnect" href="https://fastly.4sqi.net" crossorigin />
     {/* Per-language webfont, loaded ONLY on that language's pages — the Latin
         faces have no CJK glyphs. Pretendard ships a dynamic subset (downloads
         just the glyphs used); Google serves Noto with unicode-range subsets.
@@ -200,8 +206,12 @@ const orgLd = {
     */}
   </head>
   <body>
+    {/* First tabbable element on every page. Without it a keyboard user
+        re-traverses the whole header on each navigation — and when the mobile
+        menu bug made the header unreachable, there was no way past it at all. */}
+    <a class="skip-link" href="#main">{t('a11y.skipToContent')}</a>
     <Header availableLangs={availableLangs} />
-    <main>
+    <main id="main" tabindex="-1">
       <slot />
     </main>
     <Footer />

@@ -513,7 +513,7 @@ main { flex: 1; width: 100%; }
 /* ---- Card grid ---- */
 .grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(min(300px, 100%), 1fr));
   gap: 1.5rem;
 }
 .card {
@@ -536,10 +536,13 @@ main { flex: 1; width: 100%; }
    readable), never color/blur alone. */
 .card--ended .thumb img { filter: grayscale(0.65); opacity: 0.82; }
 .card--ended:hover .thumb img { transform: none; }
-/* Specificity must beat `.card .thumb .badge` (3 classes) or it loses; a fixed
-   dark scrim also stays legible in BOTH themes (an --ink tint flips in dark mode). */
-.card .thumb .badge-ended { background: rgba(0, 0, 0, 0.62); color: #fff; }
 .card .thumb .badge { position: absolute; top: 0.75rem; left: 0.75rem; background: color-mix(in srgb, var(--surface) 90%, transparent); backdrop-filter: blur(4px); }
+/* AFTER the base rule and with the extra class: the two selectors tie at (0,3,0),
+   so source order decides, and with this rule first the base won — white text on
+   the white surface tint, a 1.15:1 "Ended" badge. The comment that used to sit
+   here said specificity "must beat" the base rule while writing a selector that
+   merely tied it. */
+.card .thumb .badge.badge-ended { background: rgba(0, 0, 0, 0.62); color: #fff; }
 .card-body { padding: 1.1rem 1.25rem 1.4rem; display: flex; flex-direction: column; gap: 0.4rem; flex: 1; }
 .card-body .region-label { font-size: 0.78rem; color: var(--muted); font-weight: 600; letter-spacing: 0.02em; }
 .card-body h3 { font-size: 1.2rem; line-height: 1.25; }
@@ -598,7 +601,7 @@ main { flex: 1; width: 100%; }
 /* ---- Essentials strip ---- */
 .essentials-strip {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(min(240px, 100%), 1fr));
   gap: 1rem;
 }
 .essential-card {
@@ -720,7 +723,7 @@ main { flex: 1; width: 100%; }
 .region-group { margin-bottom: 2.75rem; }
 .region-group h2 { font-size: 1.3rem; margin-bottom: 1.1rem; }
 
-.country-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.3rem; }
+.country-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(280px, 100%), 1fr)); gap: 1.3rem; }
 .country-card { display: flex; flex-direction: column; overflow: hidden; border: 1px solid var(--line); border-radius: 16px; background: var(--surface); text-decoration: none; color: inherit; box-shadow: var(--shadow-sm); transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease; }
 .country-card.is-live:hover { transform: translateY(-4px); border-color: var(--accent); box-shadow: 0 14px 34px rgba(0,0,0,.11); }
 /* Photo banner — each country's newest real destination image. */
@@ -1014,7 +1017,7 @@ main { flex: 1; width: 100%; }
 /* "Plan your trip" affiliate services block on posts */
 .plan-trip { margin: 2.4rem 0; }
 .plan-trip .rule-head { margin-bottom: 1rem; }
-.plan-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 0.75rem; }
+.plan-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(240px, 100%), 1fr)); gap: 0.75rem; }
 .plan-card { display: flex; align-items: center; gap: 0.85rem; padding: 0.9rem 1.05rem; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-md); box-shadow: var(--shadow-sm); transition: transform .15s ease, border-color .15s ease, box-shadow .15s ease; }
 .plan-card:hover { transform: translateY(-2px); border-color: var(--accent); box-shadow: 0 10px 24px rgba(0,0,0,.08); }
 .plan-ico { font-size: 1.7rem; line-height: 1; flex: none; }
@@ -1146,3 +1149,12 @@ html[lang^='zh'] {
   border-radius: 999px; background: var(--accent); color: #fff;
   font-size: 0.72rem; font-weight: 700; text-align: center; line-height: 1.5;
 }
+
+/* Skip link: first tabbable on every page; visually hidden until focused. */
+.skip-link {
+  position: absolute; left: -9999px; top: 0; z-index: 200;
+  background: var(--accent); color: #fff; padding: 0.6rem 1rem;
+  border-radius: 0 0 var(--r-sm) 0; font-weight: 600; text-decoration: none;
+}
+.skip-link:focus { left: 0; }
+main:focus { outline: none; }

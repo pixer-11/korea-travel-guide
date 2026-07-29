@@ -1,0 +1,44 @@
+---
+// This file existing at all is the fix: without it Astro builds no dist/404.html,
+// and Cloudflare answered every wrong URL — in all five languages — with a
+// 0-byte body. The status code was right and the visitor saw a blank white
+// screen with no header, no search, no way anywhere.
+//
+// One page serves every locale (Cloudflare serves a single 404.html), so it
+// offers its links in all five languages rather than guessing the reader's.
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE } from '../siteConfig';
+
+const langs = [
+  { code: '', label: 'English', cta: 'Back to the homepage', search: 'Or try the search on any page.' },
+  { code: 'ko', label: '한국어', cta: '홈으로 돌아가기', search: '어느 페이지에서든 검색을 이용해 보세요.' },
+  { code: 'ja', label: '日本語', cta: 'ホームへ戻る', search: 'どのページでも検索をご利用いただけます。' },
+  { code: 'es', label: 'Español', cta: 'Volver a la página principal', search: 'O usa el buscador en cualquier página.' },
+  { code: 'zh', label: '中文', cta: '返回首页', search: '也可以在任意页面使用搜索。' },
+];
+---
+
+<BaseLayout title={`Page not found · ${SITE.name}`} description="This page does not exist." noindex={true}>
+  <section class="nf">
+    <h1>404</h1>
+    <p class="nf-sub">This page doesn't exist — but the rest of the atlas does.</p>
+    <ul class="nf-langs">
+      {langs.map((l) => (
+        <li>
+          <a href={l.code ? `/${l.code}/` : '/'}>{l.label} — {l.cta} →</a>
+          <span class="nf-hint">{l.search}</span>
+        </li>
+      ))}
+    </ul>
+  </section>
+</BaseLayout>
+
+<style>
+  .nf { max-width: 560px; margin: 0 auto; padding: 4rem 1.5rem 6rem; }
+  .nf h1 { font-size: 5rem; margin: 0; color: var(--accent); }
+  .nf-sub { font-size: 1.15rem; color: var(--muted); margin: 0 0 2rem; }
+  .nf-langs { list-style: none; padding: 0; margin: 0; display: grid; gap: 1rem; }
+  .nf-langs a { font-weight: 600; color: var(--accent); text-decoration: none; }
+  .nf-langs a:hover { text-decoration: underline; }
+  .nf-hint { display: block; color: var(--muted); font-size: 0.85rem; margin-top: 0.15rem; }
+</style>

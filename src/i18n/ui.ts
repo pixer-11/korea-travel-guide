@@ -13,6 +13,11 @@ export type Lang = 'en' | 'ko' | 'ja' | 'es' | 'zh';
 
 export const ui = {
   en: {
+    'nl.msgOk': "You're in! Grab your free trip-planning checklist",
+    'nl.msgErr': "Hmm, that didn't go through. Please try again in a moment.",
+    'nl.msgNet': "Network hiccup — please try again in a moment.",
+    'a11y.breadcrumb': 'Breadcrumb',
+    'a11y.skipToContent': 'Skip to content',
     'nav.destinations': 'Destinations',
     'itin.unitMin': ' min',
     'itin.unitHour': ' h',
@@ -373,6 +378,16 @@ export const ui = {
   },
 
   ko: {
+
+
+
+    'nl.msgOk': "가입 완료! 무료 여행 준비 체크리스트를 받아 가세요",
+
+    'nl.msgErr': "전송이 안 됐어요. 잠시 후 다시 시도해 주세요.",
+
+    'nl.msgNet': "연결이 불안정해요 — 잠시 후 다시 시도해 주세요.",
+    'a11y.breadcrumb': '현재 위치',
+    'a11y.skipToContent': '본문으로 건너뛰기',
     'nav.destinations': '여행지',
     'itin.unitMin': '분',
     'itin.unitHour': '시간',
@@ -733,6 +748,16 @@ export const ui = {
   },
 
   ja: {
+
+
+
+    'nl.msgOk': "登録完了！無料の旅行準備チェックリストをどうぞ",
+
+    'nl.msgErr': "送信できませんでした。しばらくしてからもう一度お試しください。",
+
+    'nl.msgNet': "接続が不安定です — しばらくしてからもう一度お試しください。",
+    'a11y.breadcrumb': 'パンくずリスト',
+    'a11y.skipToContent': '本文へスキップ',
     'nav.destinations': '旅行先',
     'itin.unitMin': '分',
     'itin.unitHour': '時間',
@@ -1093,6 +1118,16 @@ export const ui = {
   },
 
   es: {
+
+
+
+    'nl.msgOk': "¡Listo! Descarga tu lista de preparación de viaje gratis",
+
+    'nl.msgErr': "No se pudo enviar. Inténtalo de nuevo en un momento.",
+
+    'nl.msgNet': "Problema de conexión: inténtalo de nuevo en un momento.",
+    'a11y.breadcrumb': 'Ruta de navegación',
+    'a11y.skipToContent': 'Saltar al contenido',
     'nav.destinations': 'Destinos',
     'itin.unitMin': ' min',
     'itin.unitHour': ' h',
@@ -1453,6 +1488,16 @@ export const ui = {
   },
 
   zh: {
+
+
+
+    'nl.msgOk': "订阅成功！领取免费行前清单",
+
+    'nl.msgErr': "提交失败，请稍后再试。",
+
+    'nl.msgNet': "网络不稳定 — 请稍后再试。",
+    'a11y.breadcrumb': '面包屑导航',
+    'a11y.skipToContent': '跳到正文',
     'nav.destinations': '目的地',
     'itin.unitMin': '分钟',
     'itin.unitHour': '小时',

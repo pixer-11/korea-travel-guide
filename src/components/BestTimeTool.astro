@@ -239,8 +239,11 @@ const jsonLd = {
        their own near-opaque pills so they clear WCAG AA over ANY photo (verified
        worst-case: white badge text 8.4:1 on a white photo, green chip 8.0:1 on a
        black one) — no scrim maths needed anywhere else. */
-    .tool .photo { height: 152px; background: var(--surface-2) center/cover no-repeat; position: relative; flex: none; opacity: 0; transition: opacity .4s ease; }
-    .tool .photo.on, .tool .photo:not([data-bg]) { opacity: 1; }
+    /* No opacity fade: Chrome does not record LCP for an element that is not yet
+       opaque, so the fade pushed measured LCP from 596ms to 4,160ms — the page
+       looked slow to Google while being fast. The lazy-load reveal keeps working;
+       the image simply appears when ready instead of fading in. */
+    .tool .photo { height: 152px; background: var(--surface-2) center/cover no-repeat; position: relative; flex: none; }
     .tool .badge { position: absolute; left: 10px; top: 10px; max-width: calc(100% - 20px); background: rgba(20,18,15,0.78); color: #fff; font-size: 0.66rem; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase; padding: 0.25rem 0.5rem; border-radius: var(--r-pill); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
     .tool .chip { position: absolute; left: 10px; bottom: 10px; background: rgba(255,253,249,0.95); color: #14523a; font-size: 0.78rem; font-weight: 800; padding: 0.25rem 0.55rem; border-radius: var(--r-pill); }
     .tool .body { padding: 0.85rem 1rem 1rem; display: flex; flex-direction: column; flex: 1; }

@@ -24,5 +24,17 @@ export function pickRepHeroUrl(posts: HeroPost[]): string {
   if (!withHero.length) return '';
   // Stable sort by category rank — ties keep the caller's order (usually newest first).
   withHero.sort((a, b) => (CAT_RANK[a.data.category] ?? 5) - (CAT_RANK[b.data.category] ?? 5));
-  return withHero[0].data.heroImage!.url!;
+  return tileSize(withHero[0].data.heroImage!.url!);
+}
+
+// These URLs become CSS background-image on ~156px-wide tiles, which can take
+// neither srcset nor lazy-loading — so whatever size this returns is downloaded
+// in full, immediately, for every tile. As stored they are 1920px originals:
+// 17 tiles made the homepage a 12.6MB page that took 62 seconds on slow 4G.
+// Both hosts render any width on request; 960 is the smallest Wikimedia
+// reliably serves for these files (below that some return HTTP 400).
+export function tileSize(url: string): string {
+  return url
+    .replace(/\/(\d{3,4})px-/, (m, w) => (Number(w) > 960 ? '/960px-' : m))
+    .replace(/(fastly\.4sqi\.net\/img\/general\/)original\//, '$1width960/');
 }

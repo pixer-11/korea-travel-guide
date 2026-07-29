@@ -335,6 +335,14 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
 // their hours. /my-trip picks the line for the day the reader is actually looking.
 // Weekday names went untranslated here too — the saved trip showed a Korean
 // reader "Monday: 8:00 오전". Same helper as the fact box, so they cannot drift.
+// The list thumbnail is 92x68; the stored hero URL is a 1920px original, and
+// saving it as-is meant six saved places downloaded 3.2MB of image into a page
+// of thumbnails. Both hosts render smaller sizes on request — ask for one.
+// (Wikimedia refuses widths below ~400 on some files, so 480 is the safe rung.)
+const saveThumb = String(d.heroImage?.url ?? '')
+  .replace(/\/(\d{3,4})px-/, '/480px-')
+  .replace(/(fastly\.4sqi\.net\/img\/general\/)original\//, '$1width320/');
+
 const saveHours = (p?.openingHours ?? []).map((l) =>
   localizeOpeningLine(l, lang, { am: t('post.am'), pm: t('post.pm') })
 );
@@ -355,11 +363,16 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
   localizedLangs={availableLangs}
 >
   <article class="article wrap">
-    <nav class="crumbs" aria-label="Breadcrumb">
-      <a href={lang === 'en' ? '/' : `/${lang}/`}>{t('post.home')}</a> <span>/</span>
-      <a href={`/destinations/${countrySlug}/`}>{localizePlace(country, lang)}</a> <span>/</span>
+    {/* Every crumb goes through localizePath. The country and region hrefs were
+        hardcoded English while their labels were translated, so a Korean reader
+        tapping "아랍에미리트" was dropped onto the English country page — 3,796
+        links, the single biggest way translated readers fell out of their
+        language. The label was right and the destination was wrong. */}
+    <nav class="crumbs" aria-label={t('a11y.breadcrumb')}>
+      <a href={localizePath('/', lang)}>{t('post.home')}</a> <span>/</span>
+      <a href={localizePath(`/destinations/${countrySlug}/`, lang)}>{localizePlace(country, lang)}</a> <span>/</span>
       {!sameRegionCountry && (
-        <><a href={`/regions/${slugifyRegion(d.region)}/`}>{regionLabel}</a> <span>/</span></>
+        <><a href={localizePath(`/regions/${slugifyRegion(d.region)}/`, lang)}>{regionLabel}</a> <span>/</span></>
       )}
       <span aria-current="page">{t(('cat.' + d.category) as any)}</span>
     </nav>
@@ -486,7 +499,7 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
               phone={p.phone ?? ""}
               hours={saveHours}
               quiet={saveQuiet}
-              image={d.heroImage?.url}
+              image={saveThumb}
               lang={lang}
             />
           )}
