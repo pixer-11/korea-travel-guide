@@ -38,6 +38,8 @@ for (const f of files) {
     placeName: (fm.place && fm.place.name) || '',
     eventStart: fm.eventStartDate || '',
     gallery: (fm.gallery || []).map((g) => g && g.url).filter(Boolean),
+    rating: (fm.place && fm.place.rating) || 0,
+    body: t.slice(t.indexOf(String.fromCharCode(10) + "---", 3) + 4),
   });
 }
 
@@ -130,6 +132,19 @@ for (const p of posts) {
 }
 dupBy((p) => (p.url && !p.url.includes('placeholder') ? unsplashNum(p.url) || p.url : ''), 'DUPLICATE image');
 dupBy((p) => p.placeId, 'DUPLICATE place.id');
+
+// A rating written into the prose freezes at the moment it was written, while the
+// fact box on the same page keeps being refreshed from Google. Gwangjang Market
+// shipped "a 4.3 rating" above a box reading 4.2. Prose should characterise and
+// leave the live number to the box — the writer prompt now says so — but an older
+// post can still drift when Google updates its figure.
+for (const p of posts) {
+  if (!p.rating || !p.body) continue;
+  const m = p.body.match(/\b([1-5]\.\d)\s*(?:\/\s*5\b|rating|stars?|점)/i);
+  if (m && Math.abs(parseFloat(m[1]) - p.rating) >= 0.05) {
+    issues.push(`STALE-RATING: ${p.f} — prose says ${m[1]}, live data says ${p.rating}`);
+  }
+}
 
 // Placeholder text that reached readers. "undefined" got into 10 region entries
 // as String(undefined) and rendered in the visible intro, the meta description
