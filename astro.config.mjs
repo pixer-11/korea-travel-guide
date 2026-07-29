@@ -37,6 +37,32 @@ function contentLastmod() {
   grab(join(__dirname, 'src/content/essentials'), (slug) => `/essentials/${slug}`);
   return map;
 }
+
+// Slugs the site itself marks noindex, so the sitemap never contradicts the page.
+// Past events go noindex and drop out of every listing the moment their end date
+// passes, but were still being submitted — Search Console flags each one.
+function noindexSlugs() {
+  const out = new Set();
+  const today = new Date().toISOString().slice(0, 10);
+  try {
+    const dir = join(__dirname, 'src/content/posts');
+    for (const f of readdirSync(dir)) {
+      if (!f.endsWith('.md')) continue;
+      const raw = readFileSync(join(dir, f), 'utf8');
+      const fm = raw.slice(4, raw.indexOf(String.fromCharCode(10) + '---', 3));
+      const val = (k) => {
+        const line = fm.split(String.fromCharCode(10)).find((l) => l.trimStart().startsWith(k + ':'));
+        return line ? line.trimStart().slice(k.length + 1).trim().replace(/^["']|["']$/g, '') : '';
+      };
+      if (val('category') !== 'event') continue;
+      const end = (val('eventEndDate') || val('eventStartDate')).slice(0, 10);
+      if (end && end < today) out.add('/posts/' + f.replace(/.md$/, ''));
+    }
+  } catch { /* partial checkout */ }
+  return out;
+}
+const NOINDEX_SLUGS = noindexSlugs();
+
 const LASTMOD = contentLastmod();
 
 // Freshness for pages that aren't a file: region, country, continent, roundup,
@@ -262,7 +288,8 @@ export default defineConfig({
       filter: (page) =>
         !page.includes('/embed/') &&
         !page.includes('/my-trip') &&
-        !page.includes('/pinterest-callback'),
+        !page.includes('/pinterest-callback') &&
+        ![...NOINDEX_SLUGS].some((slug) => page.includes(slug + '/') || page.endsWith(slug)),
       // Advertise per-page freshness. AI search + Google use <lastmod> to decide
       // what to re-crawl and cite; on a daily-rebuilt automated site this is a
       // cheap, honest ranking/citation lever.

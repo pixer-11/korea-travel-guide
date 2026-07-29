@@ -36,7 +36,7 @@ const SPILL = /<\/?(description|quickAnswer|title|body|faq|parameter|function_ca
 
 const fmField = (fm, key) => new RegExp(`^${key}:`, 'm').test(fm);
 
-async function auditFrontmatter(root, lang, file, fm) {
+async function auditFrontmatter(root, lang, file, fm, body = '') {
   const flags = [];
   if (!fm) return flags;
 
@@ -61,6 +61,12 @@ async function auditFrontmatter(root, lang, file, fm) {
   if (/^draft:\s*true\s*$/m.test(srcFm)) return null;
 
   if (SPILL.test(fm)) flags.push(['TOOL-SPILL', fm.match(SPILL)[0]]);
+  // A body or answer that is literally the word 'placeholder'. One Chinese page
+  // shipped with both — the whole article was that word — and nothing noticed,
+  // because the file existed, parsed, and had a real title.
+  if (/^s*placeholders*$/im.test(body) || /:s*placeholders*$/im.test(fm)) {
+    flags.push(['PLACEHOLDER-BODY', 'placeholder']);
+  }
   if (!srcDir || !src) return flags;
   // A field the source has but the translation lost renders the ENGLISH value on
   // a translated page — the exact symptom that started this check.
@@ -163,7 +169,7 @@ for (const [root, label] of ROOTS) {
       // `quickAnswer` missing entirely, which makes the page render the ENGLISH
       // quick answer on a translated page. That is exactly the failure this
       // audit exists to catch, so it has to look at the frontmatter too.
-      const fmFlags = await auditFrontmatter(root, lang, f, fmEnd === -1 ? '' : raw.slice(4, fmEnd));
+      const fmFlags = await auditFrontmatter(root, lang, f, fmEnd === -1 ? '' : raw.slice(4, fmEnd), body);
       if (fmFlags === null) { drafts++; continue; } // unpublished — nothing renders
       const flags = [...auditBody(lang, body), ...fmFlags];
       if (flags.length) {

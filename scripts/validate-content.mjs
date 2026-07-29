@@ -38,6 +38,7 @@ for (const f of files) {
     placeName: (fm.place && fm.place.name) || '',
     eventStart: fm.eventStartDate || '',
     gallery: (fm.gallery || []).map((g) => g && g.url).filter(Boolean),
+    heroCredit: (fm.heroImage && fm.heroImage.credit) || '',
     rating: (fm.place && fm.place.rating) || 0,
     body: t.slice(t.indexOf(String.fromCharCode(10) + "---", 3) + 4),
   });
@@ -143,6 +144,41 @@ for (const p of posts) {
   const m = p.body.match(/\b([1-5]\.\d)\s*(?:\/\s*5\b|rating|stars?|점)/i);
   if (m && Math.abs(parseFloat(m[1]) - p.rating) >= 0.05) {
     issues.push(`STALE-RATING: ${p.f} — prose says ${m[1]}, live data says ${p.rating}`);
+  }
+}
+
+// A Foursquare photo whose credit names a DIFFERENT business than the article.
+// The vision gate cannot catch this: a real photo of a real café IS a plausible
+// café, so a picture of California Pizza Kitchen passes on a Dallas Pizza post.
+// Only the credit line knows, and nothing was reading it — four posts shipped
+// that way, including a Thai massage parlour illustrating a restaurant.
+//
+// Business-type words are stripped before comparing, because that is exactly how
+// this hid: "Dallas Pizza" and "California Pizza Kitchen" share "pizza",
+// "Sansan Bistro" and "Sugar Bistro" share "bistro".
+{
+  const GENERIC = new Set([
+    'the', 'cafe', 'café', 'coffee', 'restaurant', 'bar', 'bistro', 'pizza', 'house',
+    'shop', 'store', 'hotel', 'market', 'street', 'food', 'temple', 'museum', 'park',
+    'garden', 'palace', 'tower', 'beach', 'thai', 'korean', 'japanese', 'chinese',
+    'italian', 'indian', 'grill', 'kitchen', 'bakery', 'lounge', 'club', 'center',
+    'centre', 'hall', 'gallery', 'tour', 'tours',
+  ]);
+  const flat = (v) =>
+    String(v || '').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9가-힣]/g, '');
+  const words = (v) =>
+    (String(v || '').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').match(/[a-z0-9가-힣]{3,}/g) || [])
+      .filter((w) => !GENERIC.has(w));
+
+  for (const p of posts) {
+    if (!p.placeName || !/foursquare/i.test(p.credit)) continue;
+    const credited = (p.heroCredit.match(/\(([^)]+)\)/) || [])[1];
+    if (!credited) continue;
+    const a = flat(p.placeName), b = flat(credited);
+    if (a.includes(b) || b.includes(a)) continue;      // same name, different spelling
+    const mine = words(p.placeName), theirs = new Set(words(credited));
+    if (mine.length && mine.some((w) => theirs.has(w))) continue;  // a proper noun matches
+    issues.push(`PHOTO-WRONG-VENUE: ${p.f} — post is "${p.placeName}", photo credits "${credited}"`);
   }
 }
 
