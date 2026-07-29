@@ -13,6 +13,7 @@ import { useTranslations, localizePath, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 import { getRegionInfo } from '../i18n/regions';
 import { wallFor } from '../lib/wall';
+import { buildRoundups } from '../lib/roundups.mjs';
 
 // Shared region-hub body for BOTH the English route (/regions/<region>) and the
 // localized route (/[lang]/regions/<region>). Curated intros/FAQ come from
@@ -146,6 +147,18 @@ const metaDesc = info?.blurb?.slice(0, 155) ?? t('region.metaDesc').replace('{re
 // Falls through to the brand default in BaseLayout when nothing has a thumbnail.
 const ogPhoto = wallFor((posts ?? []).find((p) => p?.data?.heroImage?.url)?.data?.heroImage?.url);
 
+// Which roundups this city actually HAS, from the same builder that creates the
+// pages. The link used to be gated on this hub's own count of one category, so a
+// city whose guides were spread across categories had a live roundup page that
+// nothing linked to — 26 cities were in that state. It also means the "See all
+// N" number is the roundup’s real length rather than this section’s.
+const allPosts = await getCollection('posts', ({ data }) => !data.draft);
+const roundupsHere = new Map(
+  buildRoundups(allPosts)
+    .filter((r) => r.region === region)
+    .map((r) => [r.key, r.items.length])
+);
+
 ---
 
 <BaseLayout image={ogPhoto} title={metaTitle} description={metaDesc} jsonLd={jsonLd} localized={true}>
@@ -204,9 +217,9 @@ const ogPhoto = wallFor((posts ?? []).find((p) => p?.data?.heroImage?.url)?.data
               />
             ))}
           </div>
-          {g.roundup && g.items.length >= 4 && (
+          {g.roundup && roundupsHere.has(g.roundup) && (
             <p class="see-all">
-              <a href={localizePath(`/regions/${slugifyRegion(region)}/${g.roundup}/`, lang)}>{t('region.seeAll').replace('{n}', String(g.items.length))}</a>
+              <a href={localizePath(`/regions/${slugifyRegion(region)}/${g.roundup}/`, lang)}>{t('region.seeAll').replace('{n}', String(roundupsHere.get(g.roundup)))}</a>
             </p>
           )}
         </div>

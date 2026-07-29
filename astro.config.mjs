@@ -39,6 +39,58 @@ function contentLastmod() {
 }
 const LASTMOD = contentLastmod();
 
+// Freshness for pages that aren't a file: region, country, continent, roundup,
+// events and when-to-go hubs. Each takes the newest date among the posts it
+// covers, which is what "when did this page last change" actually means for a
+// listing.
+function hubLastmod() {
+  const map = new Map();
+  const bump = (path, date) => {
+    if (!date) return;
+    const prev = map.get(path);
+    if (!prev || date > prev) map.set(path, date);
+  };
+  const slugify = (s) => String(s).toLowerCase().trim().replace(/\s+/g, '-');
+  try {
+    const dir = join(__dirname, 'src/content/posts');
+    for (const f of readdirSync(dir)) {
+      if (!f.endsWith('.md')) continue;
+      const raw = readFileSync(join(dir, f), 'utf8');
+      const fm = raw.slice(4, raw.indexOf(String.fromCharCode(10) + "---", 3));
+      if (/^draft:\s*true/m.test(fm)) continue;
+      const val = (k) => {
+        const line = fm.split('\n').find((l) => l.trimStart().startsWith(k + ':'));
+        if (!line) return '';
+        return line.trimStart().slice(k.length + 1).trim().replace(/^["']|["']$/g, '');
+      };
+      const date = (val('updatedDate') || val('pubDate') || '').slice(0, 10);
+      if (!date) continue;
+      const region = val('region');
+      const country = val('country') || 'South Korea';
+      const countrySlug = slugify(country);
+      if (region) {
+        const r = slugify(region);
+        bump(`/regions/${r}`, date);
+        for (const k of ['things-to-do', 'best-restaurants', 'cafes', 'hidden-gems']) {
+          bump(`/regions/${r}/${k}`, date);
+        }
+      }
+      bump(`/destinations/${countrySlug}`, date);
+      bump(`/essentials/${countrySlug}`, date);
+      bump(`/events/${countrySlug}`, date);
+      for (const m of ['january','february','march','april','may','june','july','august','september','october','november','december']) {
+        bump(`/tools/when-to-go/${countrySlug}/${m}`, date);
+      }
+      bump('/destinations', date);
+      bump('/regions', date);
+      bump('/tools/when-to-go', date);
+      bump('/', date);
+    }
+  } catch { /* a partial checkout just means no hub dates */ }
+  return map;
+}
+const HUB_LASTMOD = hubLastmod();
+
 // Region URLs switched from raw `region.toLowerCase()` (spaces left as %20 on 32
 // of 125 pages, e.g. /regions/abu%20dhabi/) to a proper slug. Emit 301s from the
 // old encoded paths so any already-indexed %20 URL passes its equity to the new
@@ -211,7 +263,18 @@ export default defineConfig({
       serialize(item) {
         try {
           const path = new URL(item.url).pathname.replace(/\/$/, '');
-          const d = LASTMOD.get(path);
+          // The map is keyed on English paths, so /ko/posts/x never matched it and
+          // lastmod covered 481 of 4,721 URLs — 10%. A translation is the same
+          // content with the same freshness, so strip the locale before looking up.
+          const enPath = path.replace(/^\/(ko|ja|es|zh)(?=\/|$)/, '') || '/';
+          let d = LASTMOD.get(enPath);
+
+          // Hubs have no file of their own, but they genuinely change when their
+          // children do: a city page is stale the moment a new guide lands in that
+          // city. Derive their date from the newest page beneath them rather than
+          // leaving 4,000 URLs with no freshness signal at all.
+          if (!d) d = HUB_LASTMOD.get(enPath);
+
           if (d) item.lastmod = new Date(`${d}T00:00:00Z`).toISOString();
         } catch { /* leave lastmod unset on any parse issue */ }
         return item;
