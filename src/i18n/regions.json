@@ -1884,28 +1884,23 @@
   "Cappadocia": {
     "en": {
       "blurb": "Cappadocia's surreal volcanic landscape is defined by wind-carved \"fairy chimney\" rock formations, honeycombed cave dwellings, and underground cities—all best seen at sunrise from one of the region's famous hot air balloons drifting over valleys like Göreme and Love Valley.",
-      "getting": "There's no airport directly in Cappadocia; most travelers fly into <cite index=\"2-1,2-5\">Nevşehir-Kapadokya Airport (NAV), which is closer to the main towns of Nevşehir, Göreme, Uçhisar, Ürgüp and Avanos</cite>, or the larger <cite index=\"2-1\">Kayseri Erkilet (ASR)</cite> further away, then continue by road—<cite index=\"15-16\">the distance from Nevşehir Airport to Göreme is ~40 km and takes 40–50 minutes by car</cite>, via a pre-booked private transfer, taxi, or shared airport shuttle bus; overnight coaches from Istanbul or Ankara to Göreme's bus station are also common for budget travelers.",
-      "days": "undefined"
+      "getting": "There's no airport directly in Cappadocia; most travelers fly into <cite index=\"2-1,2-5\">Nevşehir-Kapadokya Airport (NAV), which is closer to the main towns of Nevşehir, Göreme, Uçhisar, Ürgüp and Avanos</cite>, or the larger <cite index=\"2-1\">Kayseri Erkilet (ASR)</cite> further away, then continue by road—<cite index=\"15-16\">the distance from Nevşehir Airport to Göreme is ~40 km and takes 40–50 minutes by car</cite>, via a pre-booked private transfer, taxi, or shared airport shuttle bus; overnight coaches from Istanbul or Ankara to Göreme's bus station are also common for budget travelers."
     },
     "es": {
       "blurb": "El paisaje volcánico y surrealista de Capadocia se caracteriza por sus formaciones rocosas conocidas como \"chimeneas de hadas\", esculpidas por el viento, sus viviendas trogloditas excavadas en la roca a modo de panal, y sus ciudades subterráneas; todo esto se aprecia mejor al amanecer, a bordo de uno de los famosos globos aerostáticos de la región, que se deslizan sobre valles como Göreme y el Valle del Amor.",
-      "getting": "Capadocia no cuenta con un aeropuerto propio, así que la mayoría de los viajeros llega al Aeropuerto de Nevşehir-Kapadokya (NAV), más cercano a las principales localidades de Nevşehir, Göreme, Uçhisar, Ürgüp y Avanos, o bien al más grande Aeropuerto de Kayseri Erkilet (ASR), algo más alejado, para luego continuar por carretera —la distancia desde el aeropuerto de Nevşehir hasta Göreme es de unos 40 km y el trayecto en coche dura entre 40 y 50 minutos— mediante un traslado privado reservado con antelación, un taxi o un autobús lanzadera compartido del aeropuerto; los viajeros con presupuesto ajustado también suelen optar por los autobuses nocturnos desde Estambul o Ankara hasta la estación de autobuses de Göreme.",
-      "days": "undefined"
+      "getting": "Capadocia no cuenta con un aeropuerto propio, así que la mayoría de los viajeros llega al Aeropuerto de Nevşehir-Kapadokya (NAV), más cercano a las principales localidades de Nevşehir, Göreme, Uçhisar, Ürgüp y Avanos, o bien al más grande Aeropuerto de Kayseri Erkilet (ASR), algo más alejado, para luego continuar por carretera —la distancia desde el aeropuerto de Nevşehir hasta Göreme es de unos 40 km y el trayecto en coche dura entre 40 y 50 minutos— mediante un traslado privado reservado con antelación, un taxi o un autobús lanzadera compartido del aeropuerto; los viajeros con presupuesto ajustado también suelen optar por los autobuses nocturnos desde Estambul o Ankara hasta la estación de autobuses de Göreme."
     },
     "ja": {
       "blurb": "カッポドキアの幻想的な火山景観を形づくるのは、風が刻んだ「妖精の煙突」と呼ばれる奇岩群、蜂の巣のような洞窟住居、そして地下都市だ。これらを最も美しく眺められるのは、ギョレメやラブバレーなどの渓谷の上空をゆっくりと漂う、この地方名物の熱気球に乗って迎える日の出の瞬間だろう。",
-      "getting": "カッパドキアには直接乗り入れる空港がなく、多くの旅行者はネヴシェヒル、ギョレメ、ウチヒサール、ユルギュップ、アヴァノスといった主要な町に近いネヴシェヒル・カッパドキア空港(NAV)、あるいはやや離れた場所にあるより大きなケイセリ・エルキレット空港(ASR)を利用し、その後陸路で移動する。ネヴシェヒル空港からギョレメまでの距離は約40kmで、車で40〜50分ほどかかり、事前予約の専用送迎車、タクシー、または空港シャトルバスの乗り合いなどで向かうのが一般的だ。予算を抑えたい旅行者には、イスタンブールやアンカラからギョレメのバスターミナルまでの夜行バスもよく利用されている。",
-      "days": "undefined"
+      "getting": "カッパドキアには直接乗り入れる空港がなく、多くの旅行者はネヴシェヒル、ギョレメ、ウチヒサール、ユルギュップ、アヴァノスといった主要な町に近いネヴシェヒル・カッパドキア空港(NAV)、あるいはやや離れた場所にあるより大きなケイセリ・エルキレット空港(ASR)を利用し、その後陸路で移動する。ネヴシェヒル空港からギョレメまでの距離は約40kmで、車で40〜50分ほどかかり、事前予約の専用送迎車、タクシー、または空港シャトルバスの乗り合いなどで向かうのが一般的だ。予算を抑えたい旅行者には、イスタンブールやアンカラからギョレメのバスターミナルまでの夜行バスもよく利用されている。"
     },
     "ko": {
       "blurb": "카파도키아의 몽환적인 화산 지형은 바람이 깎아 만든 '요정 굴뚝' 기암들과 벌집처럼 뚫린 동굴 주거지, 그리고 지하 도시로 대표된다. 이 모든 풍경은 괴레메와 러브 밸리 같은 계곡 위를 유유히 떠다니는 이 지역의 명물인 열기구를 타고 맞이하는 일출 때 가장 아름답게 펼쳐진다.",
-      "getting": "카파도키아에는 직접 연결되는 공항이 없어, 대부분의 여행자는 네브셰히르, 괴레메, 우치사르, 우르귀프, 아바노스 등 주요 마을과 가까운 네브셰히르-카파도키아 공항(NAV)이나, 다소 멀리 떨어진 더 큰 규모의 카이세리 에르킬레트 공항(ASR)을 이용한 뒤 육로로 이동한다. 네브셰히르 공항에서 괴레메까지는 약 40km 거리로 차로 40~50분 정도 걸리며, 사전 예약한 프라이빗 транс퍼(전용 셔틀), 택시, 혹은 공항 합승 셔틀버스를 이용하는 것이 일반적이다. 예산을 아끼려는 여행자들 사이에서는 이스탄불이나 앙카라에서 괴레메 버스터미널까지 가는 야간 버스도 흔히 이용된다.",
-      "days": "undefined"
+      "getting": "카파도키아에는 직접 연결되는 공항이 없어, 대부분의 여행자는 네브셰히르, 괴레메, 우치사르, 우르귀프, 아바노스 등 주요 마을과 가까운 네브셰히르-카파도키아 공항(NAV)이나, 다소 멀리 떨어진 더 큰 규모의 카이세리 에르킬레트 공항(ASR)을 이용한 뒤 육로로 이동한다. 네브셰히르 공항에서 괴레메까지는 약 40km 거리로 차로 40~50분 정도 걸리며, 사전 예약한 프라이빗 транс퍼(전용 셔틀), 택시, 혹은 공항 합승 셔틀버스를 이용하는 것이 일반적이다. 예산을 아끼려는 여행자들 사이에서는 이스탄불이나 앙카라에서 괴레메 버스터미널까지 가는 야간 버스도 흔히 이용된다."
     },
     "zh": {
       "blurb": "卡帕多奇亚超现实的火山地貌,以风蚀而成的“精灵烟囱”奇石、蜂窝般的洞穴民居和神秘的地下城闻名于世。欣赏这一切最好的方式,莫过于清晨乘坐当地著名的热气球,缓缓飘过格雷梅、爱情谷等峡谷上空,俯瞰日出下的壮丽景色。",
-      "getting": "卡帕多奇亚并没有直达的机场,大多数游客会选择飞往距离内夫谢希尔、格雷梅、于奇萨尔、于尔居普和阿瓦诺斯等主要城镇较近的内夫谢希尔-卡帕多奇亚机场(NAV),或是稍远一些、规模更大的开塞利埃尔基莱特机场(ASR),再转乘陆路交通前往目的地——从内夫谢希尔机场到格雷梅约40公里,车程约40到50分钟,可选择提前预订的私人接送、出租车或机场拼车班车;对于预算有限的旅行者来说,从伊斯坦布尔或安卡拉乘坐夜班大巴前往格雷梅汽车站也是常见的选择。",
-      "days": "undefined"
+      "getting": "卡帕多奇亚并没有直达的机场,大多数游客会选择飞往距离内夫谢希尔、格雷梅、于奇萨尔、于尔居普和阿瓦诺斯等主要城镇较近的内夫谢希尔-卡帕多奇亚机场(NAV),或是稍远一些、规模更大的开塞利埃尔基莱特机场(ASR),再转乘陆路交通前往目的地——从内夫谢希尔机场到格雷梅约40公里,车程约40到50分钟,可选择提前预订的私人接送、出租车或机场拼车班车;对于预算有限的旅行者来说,从伊斯坦布尔或安卡拉乘坐夜班大巴前往格雷梅汽车站也是常见的选择。"
     }
   },
   "Chengdu": {
@@ -2094,11 +2089,6 @@
     }
   },
   "Damyang": {
-    "en": {
-      "blurb": "undefined",
-      "getting": "undefined",
-      "days": "undefined"
-    },
     "ko": {
       "blurb": "담양은 울창한 대나무 숲과 고즈넉한 정원, 그리고 여유로운 강변 풍경이 어우러진 힐링 여행지입니다. 도심의 번잡함을 잠시 잊고 자연 속에서 진짜 휴식을 찾고 싶은 분들에게 완벽한 곳이죠.",
       "getting": "인천국제공항(ICN)이나 김포공항(GMP)으로 입국한 뒤, KTX나 고속버스를 이용해 광주로 이동하시면 됩니다. 광주에서 담양까지는 버스나 택시로 약 30~40분이면 도착할 수 있어요.",
@@ -2177,8 +2167,7 @@
   "Gardena": {
     "en": {
       "blurb": "Gardena is a diverse South Bay suburb of Los Angeles once nicknamed \"Berryland\" for its early 20th-century strawberry farms, and today known for its large Japanese American community that has shaped the city's restaurants, markets, and cultural institutions. Nissin Foods' U.S. headquarters and a mix of aerospace, logistics, and professional-service businesses give the city a workaday character alongside its parks, bowling centers, and craft breweries.",
-      "getting": "Most visitors arrive via Los Angeles International Airport (LAX), which sits only about 10 miles northwest of Gardena and is typically reached by car or rideshare in ~20-30 minutes via I-105/I-405, with public transit options connecting through LAX shuttle buses and Metro rail/bus transfers for those without a car. Gardena also has its own Metro rail stop at Rosecrans, linking the city to the wider LA Metro network.",
-      "days": "undefined"
+      "getting": "Most visitors arrive via Los Angeles International Airport (LAX), which sits only about 10 miles northwest of Gardena and is typically reached by car or rideshare in ~20-30 minutes via I-105/I-405, with public transit options connecting through LAX shuttle buses and Metro rail/bus transfers for those without a car. Gardena also has its own Metro rail stop at Rosecrans, linking the city to the wider LA Metro network."
     },
     "ko": {
       "blurb": "가데나(Gardena)는 로스앤젤레스 사우스베이 지역에 자리한 다채로운 매력의 교외 도시로, 20세기 초 딸기 농장이 번성했던 시절에는 '베리랜드(Berryland)'라는 애칭으로 불리기도 했습니다. 오늘날에는 대규모 일본계 미국인 커뮤니티가 자리 잡아 이 도시의 레스토랑, 마켓, 문화 시설 전반에 깊은 영향을 남긴 곳으로 잘 알려져 있습니다. 닛신식품(Nissin Foods)의 미국 본사를 비롯해 항공우주, 물류, 전문 서비스 업체들이 밀집해 있어 도시 전반에 실용적이고 활기찬 분위기가 느껴지며, 공원과 볼링장, 크래프트 맥주 양조장 등도 함께 즐길 수 있습니다.",
@@ -2329,8 +2318,7 @@
   "Jinju": {
     "en": {
       "blurb": "Jinju is built around Jinjuseong Fortress, a riverside stronghold on the Namgang River where Korean defenders made their last stand against Japanese invaders in 1592–93, a history still honored every autumn when the river fills with thousands of floating lanterns. It's a compact, unhurried city where a 400-year-old battle site, a national museum, and a lively riverside promenade sit within easy walking distance of one another.",
-      "getting": "Jinju has no major international airport of its own, so most travellers arrive by intercity bus or train via Busan/Gimhae — buses run from Gimhae Airport's international terminal to Jinju's Intercity Bus Terminal in about 1.5 hours, and trains connect via Dongdaegu or Masan to Jinju Station. Direct long-distance buses also link Jinju with Seoul's bus terminals in roughly 3.5 hours.",
-      "days": "undefined"
+      "getting": "Jinju has no major international airport of its own, so most travellers arrive by intercity bus or train via Busan/Gimhae — buses run from Gimhae Airport's international terminal to Jinju's Intercity Bus Terminal in about 1.5 hours, and trains connect via Dongdaegu or Masan to Jinju Station. Direct long-distance buses also link Jinju with Seoul's bus terminals in roughly 3.5 hours."
     },
     "ko": {
       "blurb": "진주는 남강 변에 자리한 진주성을 중심으로 형성된 도시로, 1592~93년 임진왜란 당시 조선의 수비군이 왜군에 맞서 최후까지 항전했던 격전지입니다. 그 역사는 매년 가을 남강을 수천 개의 유등이 수놓는 축제로 지금까지 기려지고 있습니다. 400년 역사를 품은 전적지와 국립박물관, 활기 넘치는 강변 산책로가 모두 걸어서 오갈 수 있는 거리에 모여 있는, 아담하고 여유로운 도시입니다.",
@@ -2435,11 +2423,6 @@
     }
   },
   "Little India": {
-    "en": {
-      "blurb": "undefined",
-      "getting": "undefined",
-      "days": "undefined"
-    },
     "ko": {
       "blurb": "리틀 인디아는 향신료 향기, 화려한 색채, 활기찬 에너지가 어우러진 곳으로, 진짜 인도 문화를 그대로 옮겨놓은 듯한 매력을 자랑합니다. 골목마다 늘어선 사원과 시장, 노점상들을 거닐다 보면 마치 다른 나라에 온 듯한 기분을 느낄 수 있습니다.",
       "getting": "공항에서 이동하기: 택시나 차량 공유 서비스를 이용하면 가장 편리하며, 대부분의 주요 공항에서 30~45분 정도 소요됩니다. 대중교통을 선호한다면 지하철이나 기차를 이용한 뒤 도보로 이동하는 것도 좋은 방법입니다.",
@@ -2921,8 +2904,7 @@
   "Saint-Cloud": {
     "en": {
       "blurb": "Just west of Paris on a wooded bluff above the Seine, Saint-Cloud is anchored by the sprawling Domaine national de Saint-Cloud, a 460-hectare royal park laid out by André Le Nôtre with cascading fountains, formal gardens, and sweeping views over the capital. Once home to a château that hosted French royalty and Napoleon before burning in 1870, the estate today mixes quiet garden walks and historic ruins with a lively modern edge as host of the Rock en Seine festival.",
-      "getting": "Most visitors reach Saint-Cloud from central Paris via Gare Saint-Lazare, taking Transilien line L or U trains directly to Saint-Cloud station, or by Paris Métro Line 10 to its western terminus at Boulogne–Pont de Saint-Cloud, with tram T2 also stopping near the park entrance. International travelers typically fly into one of the Paris airports (CDG or Orly) and connect into the city center before making this short suburban rail or metro hop.",
-      "days": "undefined"
+      "getting": "Most visitors reach Saint-Cloud from central Paris via Gare Saint-Lazare, taking Transilien line L or U trains directly to Saint-Cloud station, or by Paris Métro Line 10 to its western terminus at Boulogne–Pont de Saint-Cloud, with tram T2 also stopping near the park entrance. International travelers typically fly into one of the Paris airports (CDG or Orly) and connect into the city center before making this short suburban rail or metro hop."
     },
     "ko": {
       "blurb": "파리 서쪽, 센 강이 내려다보이는 숲 우거진 언덕 위에 자리한 생클루(Saint-Cloud)는 앙드레 르 노트르가 조성한 460헥타르 규모의 왕실 정원, 도멘 나시오날 드 생클루(Domaine national de Saint-Cloud)를 중심으로 펼쳐진다. 계단식 분수와 격식 있는 정원, 파리 시내를 한눈에 담는 전망이 인상적이다. 한때 프랑스 왕가와 나폴레옹이 머물렀던 성이 있었지만 1870년 화재로 소실되었고, 오늘날 이 부지는 고즈넉한 정원 산책로와 역사적인 폐허, 그리고 록 앙 센(Rock en Seine) 페스티벌을 개최하는 활기찬 현대적 면모가 공존하는 공간으로 남아 있다.",
@@ -3265,28 +3247,23 @@
   "Taichung": {
     "en": {
       "blurb": "Taichung trades Taipei's intensity for a sunnier, slower pace — a sprawling city of night markets, coffeehouses, and creative spaces built around wide boulevards and the artsy Calligraphy Greenway. It's Taiwan's design and culinary lab, credited as the birthplace of bubble tea and home to sights ranging from the pastel-painted Rainbow Village to the striking National Taichung Theater.",
-      "getting": "Most travelers fly into Taiwan Taoyuan International Airport near Taipei, then ride the High Speed Rail (~1 hour) to Taichung HSR Station in Wuri District; from there a free shuttle or the adjoining Xinwuri TRA station connects onward by regional train (~15 minutes) into central Taichung Station. <cite index=\"15-15\">Taichung also has its own international airport (RMQ), with bus connections running to the city center throughout the day.</cite>",
-      "days": "undefined"
+      "getting": "Most travelers fly into Taiwan Taoyuan International Airport near Taipei, then ride the High Speed Rail (~1 hour) to Taichung HSR Station in Wuri District; from there a free shuttle or the adjoining Xinwuri TRA station connects onward by regional train (~15 minutes) into central Taichung Station. <cite index=\"15-15\">Taichung also has its own international airport (RMQ), with bus connections running to the city center throughout the day.</cite>"
     },
     "ko": {
       "blurb": "타이중은 타이베이의 강렬함 대신 더 따뜻하고 느긋한 매력을 선택한 도시다. 야시장과 커피하우스, 창의적인 공간들이 넓은 대로와 예술적인 감성 가득한 캘리그래피 그린웨이(Calligraphy Greenway)를 중심으로 펼쳐져 있다. 대만 디자인과 미식의 실험실이라 불리는 이곳은 버블티의 발상지로도 유명하며, 파스텔톤으로 물든 레인보우 빌리지(Rainbow Village)부터 인상적인 국립 타이중 극장(National Taichung Theater)까지 다채로운 볼거리를 자랑한다.",
-      "getting": "대부분의 여행자는 타이베이 인근의 타오위안 국제공항(Taiwan Taoyuan International Airport)으로 입국한 뒤, 고속철도(HSR)를 타고 약 1시간 만에 우리구(Wuri District)에 위치한 타이중 HSR역에 도착한다. 이곳에서 무료 셔틀버스를 이용하거나, 바로 옆에 있는 신우리(Xinwuri) TRA역에서 지역열차로 갈아타면 약 15분 만에 타이중 시내에 위치한 타이중역까지 이동할 수 있다. 타이중에는 자체 국제공항(RMQ)도 있으며, 하루 종일 시내 중심가로 연결되는 버스가 운행된다.",
-      "days": "undefined"
+      "getting": "대부분의 여행자는 타이베이 인근의 타오위안 국제공항(Taiwan Taoyuan International Airport)으로 입국한 뒤, 고속철도(HSR)를 타고 약 1시간 만에 우리구(Wuri District)에 위치한 타이중 HSR역에 도착한다. 이곳에서 무료 셔틀버스를 이용하거나, 바로 옆에 있는 신우리(Xinwuri) TRA역에서 지역열차로 갈아타면 약 15분 만에 타이중 시내에 위치한 타이중역까지 이동할 수 있다. 타이중에는 자체 국제공항(RMQ)도 있으며, 하루 종일 시내 중심가로 연결되는 버스가 운행된다."
     },
     "ja": {
       "blurb": "台中は台北の喧騒とは対照的に、より穏やかで陽光あふれるゆったりとした街だ。広々とした大通りと詩情漂う「経国緑園道(カリグラフィー・グリーンウェイ)」を中心に、夜市やコーヒーハウス、クリエイティブな空間が広がっている。台湾のデザインと美食の実験場とも言われ、タピオカミルクティー発祥の地としても知られる。パステルカラーが可愛らしい「彩虹眷村(レインボービレッジ)」から、目を引く「台中国家歌劇院(国立台中劇場)」まで、見どころも多彩だ。",
-      "getting": "多くの旅行者はまず台北近郊の台湾桃園国際空港に到着し、そこから高速鉄道(高鉄)に乗り換えて約1時間で烏日区にある台中高鉄駅へ向かう。そこから無料シャトルバス、または隣接する新烏日駅から在来線(台鉄)に乗り継げば、約15分で台中市中心部の台中駅に到着する。台中には独自の国際空港(RMQ)もあり、終日市内中心部へのバスが運行している。",
-      "days": "undefined"
+      "getting": "多くの旅行者はまず台北近郊の台湾桃園国際空港に到着し、そこから高速鉄道(高鉄)に乗り換えて約1時間で烏日区にある台中高鉄駅へ向かう。そこから無料シャトルバス、または隣接する新烏日駅から在来線(台鉄)に乗り継げば、約15分で台中市中心部の台中駅に到着する。台中には独自の国際空港(RMQ)もあり、終日市内中心部へのバスが運行している。"
     },
     "es": {
       "blurb": "Taichung cambia la intensidad de Taipéi por un ritmo más soleado y relajado: una ciudad extensa de mercados nocturnos, cafeterías y espacios creativos que se despliegan alrededor de amplios bulevares y del artístico Calligraphy Greenway. Es el laboratorio del diseño y la gastronomía de Taiwán, cuna reconocida del bubble tea, y alberga desde el colorido Rainbow Village, pintado en tonos pastel, hasta el imponente National Taichung Theater.",
-      "getting": "La mayoría de los viajeros llega al Aeropuerto Internacional de Taiwán Taoyuan, cerca de Taipéi, y desde allí toma el tren de alta velocidad (HSR, aproximadamente 1 hora) hasta la estación Taichung HSR, en el distrito de Wuri; desde ahí, un shuttle gratuito o la estación contigua de Xinwuri (TRA) permite continuar en tren regional (unos 15 minutos) hasta la Estación de Taichung, en el centro de la ciudad. Taichung también cuenta con su propio aeropuerto internacional (RMQ), con autobuses que conectan con el centro de la ciudad durante todo el día.",
-      "days": "undefined"
+      "getting": "La mayoría de los viajeros llega al Aeropuerto Internacional de Taiwán Taoyuan, cerca de Taipéi, y desde allí toma el tren de alta velocidad (HSR, aproximadamente 1 hora) hasta la estación Taichung HSR, en el distrito de Wuri; desde ahí, un shuttle gratuito o la estación contigua de Xinwuri (TRA) permite continuar en tren regional (unos 15 minutos) hasta la Estación de Taichung, en el centro de la ciudad. Taichung también cuenta con su propio aeropuerto internacional (RMQ), con autobuses que conectan con el centro de la ciudad durante todo el día."
     },
     "zh": {
       "blurb": "相较台北的紧凑与热闹,台中多了几分阳光与悠闲。这座城市街道宽阔、绿意盎然,散布着夜市、咖啡馆与充满创意的空间,而充满艺术气息的绿园道更为其增添了几分文艺气息。作为台湾设计与美食的实验室,台中被誉为珍珠奶茶的发源地,从粉彩缤纷的彩虹眷村到令人惊艳的台中国家歌剧院,处处皆是亮点。",
-      "getting": "大多数旅客会先抵达台北附近的台湾桃园国际机场,再搭乘高铁(约1小时)前往位于乌日区的台中高铁站;从那里可搭乘免费接驳车,或经由紧邻的新乌日台铁站转乘区间车(约15分钟),抵达位于台中市区的台中火车站。台中也拥有自己的国际机场(RMQ),全天都有巴士往返市区。",
-      "days": "undefined"
+      "getting": "大多数旅客会先抵达台北附近的台湾桃园国际机场,再搭乘高铁(约1小时)前往位于乌日区的台中高铁站;从那里可搭乘免费接驳车,或经由紧邻的新乌日台铁站转乘区间车(约15分钟),抵达位于台中市区的台中火车站。台中也拥有自己的国际机场(RMQ),全天都有巴士往返市区。"
     }
   },
   "Tongyeong": {
@@ -3346,8 +3323,7 @@
   "Gapyeong": {
     "en": {
       "blurb": "Gapyeong is a riverside county in Gyeonggi Province best known as the gateway to Nami Island's tree-lined avenues, the French-themed village of Petite France, and the manicured grounds of the Garden of Morning Calm. <cite index=\"8-1\">It's a leisure-oriented county famous for Nami Island, the Garden of Morning Calm, and riverside activities,</cite> making it one of the most popular escapes from Seoul's urban sprawl.",
-      "getting": "The most reliable way in is the <cite index=\"8-3,8-5\">ITX-Cheongchun and regional commuter trains departing from Seoul Station or Yongsan and arriving at Gapyeong Station</cite>, with the ride taking <cite index=\"7-3\">approximately 45 to 65 minutes</cite>. A cheaper but slower alternative is the Gyeongchun Line subway from Cheongnyangni, or long-distance buses from Seoul's regional bus terminals.",
-      "days": "undefined"
+      "getting": "The most reliable way in is the <cite index=\"8-3,8-5\">ITX-Cheongchun and regional commuter trains departing from Seoul Station or Yongsan and arriving at Gapyeong Station</cite>, with the ride taking <cite index=\"7-3\">approximately 45 to 65 minutes</cite>. A cheaper but slower alternative is the Gyeongchun Line subway from Cheongnyangni, or long-distance buses from Seoul's regional bus terminals."
     },
     "es": {
       "blurb": "Gapyeong es un condado ribereño en la provincia de Gyeonggi, conocido sobre todo como la puerta de entrada a las avenidas arboladas de la isla Nami, al pueblo de temática francesa Petite France y a los jardines cuidados del Garden of Morning Calm. Es un condado orientado al ocio, famoso por la isla Nami, el Garden of Morning Calm y las actividades junto al río, lo que lo convierte en una de las escapadas más populares para huir del bullicio urbano de Seúl.",
@@ -3371,11 +3347,6 @@
     }
   },
   "Goyang": {
-    "en": {
-      "blurb": "undefined",
-      "getting": "undefined",
-      "days": "undefined"
-    },
     "ko": {
       "blurb": "고양은 서울 근교에 자리한 활기찬 도시로, 탄현동의 한류 명소와 일산호수공원의 여유로움, 그리고 킨텍스에서 열리는 대형 전시와 컨벤션이 조화를 이루는 곳입니다. 서울과 인접해 있어 접근성이 뛰어나면서도 도심과는 또 다른 매력을 느낄 수 있어, 짧은 여행이나 비즈니스 출장 모두에 안성맞춤인 여행지입니다.",
       "getting": "고양으로 가는 가장 편리한 방법은 인천국제공항(ICN)이나 김포국제공항(GMP)을 이용하는 것입니다. 두 공항 모두 고양까지 차로 30~40분 정도면 도착할 수 있으며, 공항버스나 리무진, 지하철과 택시를 조합해 이동하면 편리합니다. 서울역이나 강남 등 서울 시내에서 출발할 경우에도 지하철과 버스로 어렵지 않게 고양에 닿을 수 있습니다.",
@@ -3500,33 +3471,7 @@
       "days": "游览城堡、老城区和游艇码头,安排2-3天即可;若想进一步探索半岛周边的海滩与村庄,不妨预留长达一周的时间。"
     }
   },
-  "Cannes": {
-    "en": {
-      "blurb": "undefined",
-      "getting": "undefined",
-      "days": "undefined"
-    },
-    "es": {
-      "blurb": "undefined",
-      "getting": "undefined",
-      "days": "undefined"
-    },
-    "ja": {
-      "blurb": "undefined",
-      "getting": "undefined",
-      "days": "undefined"
-    },
-    "ko": {
-      "blurb": "undefined",
-      "getting": "undefined",
-      "days": "undefined"
-    },
-    "zh": {
-      "blurb": "undefined",
-      "getting": "undefined",
-      "days": "undefined"
-    }
-  },
+  "Cannes": {},
   "Boston": {
     "en": {
       "blurb": "Boston pairs Colonial-era brick streets and America's oldest subway with a world-class concentration of universities, hospitals, and biotech labs. Compact enough to walk end-to-end in a day, it rewards visitors who wander from the Freedom Trail's historic sites into the food halls and harbor views of the modern Seaport.",
@@ -3644,11 +3589,6 @@
     }
   },
   "Malacca": {
-    "en": {
-      "blurb": "undefined",
-      "getting": "undefined",
-      "days": "undefined"
-    },
     "ko": {
       "blurb": "말라카(믈라카)는 해협을 사이에 두고 동서양의 무역선이 오가던 유서 깊은 항구 도시로, 포르투갈, 네덜란드, 영국 그리고 말레이 문화가 겹겹이 쌓여 독특한 매력을 자아냅니다. 유네스코 세계문화유산으로 지정된 구시가지를 거닐다 보면 알록달록한 건물, 고풍스러운 사원, 그리고 강변을 따라 이어지는 야경이 발길을 붙잡습니다.",
       "getting": "말라카에는 자체 국제공항이 없어 대부분의 여행자는 쿠알라룸푸르 국제공항(KUL)으로 입국한 뒤 버스나 렌터카로 약 2~3시간을 이동합니다. 쿠알라룸푸르 시내에서는 고속버스가 자주 운행되며, 싱가포르에서도 육로로 4~5시간이면 도착할 수 있어 접근성이 좋은 편입니다.",
@@ -3695,8 +3635,7 @@
   "Agra": {
     "en": {
       "blurb": "Agra is defined by the Taj Mahal, the marble mausoleum that draws visitors from around the world, but its skyline of red sandstone forts and tombs reflects centuries as a seat of Mughal power. Beyond the icon, the city's medieval lanes, bazaars, and nearby Fatehpur Sikri make it one of India's densest concentrations of Mughal-era architecture.",
-      "getting": "Agra has its own domestic airport, Agra Airport (AGR/Kheria), though most travellers instead arrive by train into Agra Cantt (AGC), the city's main railway station on the Delhi–Chennai line, with frequent services from Delhi taking roughly ~2-5 hours depending on the train. Road transport from Delhi via the expressway is also common for those visiting on a day trip.",
-      "days": "undefined"
+      "getting": "Agra has its own domestic airport, Agra Airport (AGR/Kheria), though most travellers instead arrive by train into Agra Cantt (AGC), the city's main railway station on the Delhi–Chennai line, with frequent services from Delhi taking roughly ~2-5 hours depending on the train. Road transport from Delhi via the expressway is also common for those visiting on a day trip."
     },
     "ko": {
       "blurb": "아그라 하면 단연 타지마할이다. 세계 각지에서 찾아오는 이들의 발길을 끄는 이 대리석 영묘가 도시의 상징이지만, 붉은 사암으로 지어진 성채와 무덤들이 늘어선 스카이라인은 무굴 제국 권력의 중심지였던 수 세기의 역사를 고스란히 담고 있다. 이 대표 명소를 넘어서면, 중세의 골목길과 시장, 그리고 인근의 파테푸르 시크리까지 더해져 아그라는 인도에서 무굴 시대 건축이 가장 밀집된 지역 중 하나로 손꼽힌다.",
@@ -3774,11 +3713,6 @@
     }
   },
   "Bilbao": {
-    "en": {
-      "blurb": "undefined",
-      "getting": "undefined",
-      "days": "undefined"
-    },
     "ko": {
       "blurb": "빌바오는 구겐하임 미술관의 반짝이는 티타늄 곡선과 바스크 지방 특유의 정겨운 매력이 만나는 도시입니다. 필모어 대로를 따라 걷다 보면 미식의 도시로 명성을 얻은 이유를 금세 깨닫게 되고, 네르비온 강변의 산책로는 도시의 과거 산업 유산과 현재의 세련된 감각을 자연스럽게 이어줍니다.",
       "getting": "빌바오 공항(BIO)은 시내 중심에서 약 12km 떨어져 있으며, 비즈크라이(Bizkaibus) A3247번 셔틀버스를 이용하면 약 30분 만에 모유아 광장까지 이동할 수 있습니다. 택시로는 20분 정도 소요되며, 유럽 주요 도시에서 오는 경우 고속열차나 장거리 버스로 시내 중심부의 아반도역이나 산 마메스 버스터미널에 바로 도착할 수도 있습니다.",
@@ -3802,29 +3736,19 @@
   },
   "Goa": {
     "en": {
-      "blurb": "Goa is India's smallest state, a former Portuguese colony where whitewashed baroque churches, spice-scented markets, and emerald paddy fields sit alongside a long stretch of Arabian Sea coastline. Its beaches shift character from lively, party-oriented stretches in the north to quieter, palm-fringed coves in the south, giving the state a dual personality that rewards a slower pace.",
-      "getting": "undefined",
-      "days": "undefined"
+      "blurb": "Goa is India's smallest state, a former Portuguese colony where whitewashed baroque churches, spice-scented markets, and emerald paddy fields sit alongside a long stretch of Arabian Sea coastline. Its beaches shift character from lively, party-oriented stretches in the north to quieter, palm-fringed coves in the south, giving the state a dual personality that rewards a slower pace."
     },
     "ko": {
-      "blurb": "고아는 인도에서 가장 작은 주로, 한때 포르투갈의 식민지였던 곳입니다. 새하얀 바로크 양식 성당들과 향신료 향 가득한 시장, 에메랄드빛 논이 아라비아해를 따라 길게 펼쳐진 해안선과 어우러져 있습니다. 북부의 활기찬 파티 해변부터 남부의 야자수 그늘 드리운 한적한 만까지, 해변마다 저마다 다른 매력을 지니고 있어 여유롭게 둘러볼수록 그 진가를 느낄 수 있는 곳입니다.",
-      "getting": "undefined",
-      "days": "undefined"
+      "blurb": "고아는 인도에서 가장 작은 주로, 한때 포르투갈의 식민지였던 곳입니다. 새하얀 바로크 양식 성당들과 향신료 향 가득한 시장, 에메랄드빛 논이 아라비아해를 따라 길게 펼쳐진 해안선과 어우러져 있습니다. 북부의 활기찬 파티 해변부터 남부의 야자수 그늘 드리운 한적한 만까지, 해변마다 저마다 다른 매력을 지니고 있어 여유롭게 둘러볼수록 그 진가를 느낄 수 있는 곳입니다."
     },
     "ja": {
-      "blurb": "ゴアはインド最小の州でありながら、かつてポルトガル領だった歴史を今に伝える場所。白亜のバロック様式の教会、スパイスの香り漂う市場、エメラルド色の水田が、アラビア海沿いに続く長い海岸線と美しく調和しています。北部は賑やかでパーティー好きにぴったりのビーチ、南部はヤシの木陰が涼しい静かな入り江と、地域によって表情が大きく変わるのも魅力。ゆったりとしたペースで巡ってこそ、その二面性の奥深さを味わえる州です。",
-      "getting": "undefined",
-      "days": "undefined"
+      "blurb": "ゴアはインド最小の州でありながら、かつてポルトガル領だった歴史を今に伝える場所。白亜のバロック様式の教会、スパイスの香り漂う市場、エメラルド色の水田が、アラビア海沿いに続く長い海岸線と美しく調和しています。北部は賑やかでパーティー好きにぴったりのビーチ、南部はヤシの木陰が涼しい静かな入り江と、地域によって表情が大きく変わるのも魅力。ゆったりとしたペースで巡ってこそ、その二面性の奥深さを味わえる州です。"
     },
     "es": {
-      "blurb": "Goa es el estado más pequeño de la India, una antigua colonia portuguesa donde iglesias barrocas encaladas, mercados perfumados de especias y campos de arroz de un verde esmeralda conviven con un largo tramo de costa sobre el mar Arábigo. Sus playas cambian de carácter: animadas y volcadas a la fiesta en el norte, más tranquilas y bordeadas de palmeras en el sur. Esta doble personalidad invita a recorrerla sin prisa, para descubrir de verdad todo lo que ofrece.",
-      "getting": "undefined",
-      "days": "undefined"
+      "blurb": "Goa es el estado más pequeño de la India, una antigua colonia portuguesa donde iglesias barrocas encaladas, mercados perfumados de especias y campos de arroz de un verde esmeralda conviven con un largo tramo de costa sobre el mar Arábigo. Sus playas cambian de carácter: animadas y volcadas a la fiesta en el norte, más tranquilas y bordeadas de palmeras en el sur. Esta doble personalidad invita a recorrerla sin prisa, para descubrir de verdad todo lo que ofrece."
     },
     "zh": {
-      "blurb": "果阿是印度面积最小的邦,曾是葡萄牙的殖民地。这里白墙的巴洛克教堂、香料飘香的集市与翠绿的稻田,与阿拉伯海绵长的海岸线相映成趣。北部海滩热闹奔放,是派对爱好者的天堂;南部海湾则静谧幽深,棕榈成荫。这种南北迥异的双重性格,值得你放慢脚步,细细品味。",
-      "getting": "undefined",
-      "days": "undefined"
+      "blurb": "果阿是印度面积最小的邦,曾是葡萄牙的殖民地。这里白墙的巴洛克教堂、香料飘香的集市与翠绿的稻田,与阿拉伯海绵长的海岸线相映成趣。北部海滩热闹奔放,是派对爱好者的天堂;南部海湾则静谧幽深,棕榈成荫。这种南北迥异的双重性格,值得你放慢脚步,细细品味。"
     }
   },
   "Bohol": {
@@ -3938,28 +3862,23 @@
   "New Taipei": {
     "en": {
       "blurb": "New Taipei is Taiwan's largest municipality by both population and area, wrapping entirely around Taipei City in a ring that runs from riverside old streets to mountain trails and rugged coastline. Rather than one single downtown, it's a patchwork of distinct districts — from the golden-age mining town of Jiufen and lantern-lit Shifen to the historic port of Tamsui and the wind-sculpted rock formations at Yehliu.",
-      "getting": "Most travellers arrive via Taiwan Taoyuan International Airport (TPE), taking the Taoyuan Airport MRT — an express or commuter service that reaches <cite index=\"4-8\">Taipei Main Station in as little as 35 minutes</cite> via the express line, with some trains stopping directly at New Taipei Industrial Park Station within the city. From Taipei Main Station or Banqiao (New Taipei's own high-speed rail stop), onward transfers to Taipei Metro, Taiwan Railway (TRA) trains, or local buses connect to New Taipei's individual districts.",
-      "days": "undefined"
+      "getting": "Most travellers arrive via Taiwan Taoyuan International Airport (TPE), taking the Taoyuan Airport MRT — an express or commuter service that reaches <cite index=\"4-8\">Taipei Main Station in as little as 35 minutes</cite> via the express line, with some trains stopping directly at New Taipei Industrial Park Station within the city. From Taipei Main Station or Banqiao (New Taipei's own high-speed rail stop), onward transfers to Taipei Metro, Taiwan Railway (TRA) trains, or local buses connect to New Taipei's individual districts."
     },
     "es": {
       "blurb": "Nuevo Taipéi es el municipio más grande de Taiwán tanto en población como en superficie, y rodea por completo a la ciudad de Taipéi formando un anillo que va desde antiguas calles junto al río hasta senderos de montaña y una costa escarpada. En lugar de tener un único centro urbano, se compone de un mosaico de distritos bien diferenciados: desde Jiufen, el pueblo minero de la época dorada, y Shifen, iluminado por linternas, hasta el histórico puerto de Tamsui y las formaciones rocosas esculpidas por el viento en Yehliu.",
-      "getting": "La mayoría de los viajeros llegan a través del Aeropuerto Internacional de Taiwán Taoyuan (TPE), tomando el metro del Aeropuerto de Taoyuan, un servicio exprés o de cercanías que llega a la Estación Principal de Taipéi en tan solo 35 minutos mediante la línea exprés, y algunos trenes se detienen directamente en la estación de New Taipei Industrial Park, ya dentro de la ciudad. Desde la Estación Principal de Taipéi o Banqiao (la propia estación de tren de alta velocidad de Nuevo Taipéi), los transbordos posteriores al Metro de Taipéi, los trenes de Taiwan Railway (TRA) o los autobuses locales conectan con cada uno de los distritos de Nuevo Taipéi.",
-      "days": ""
+      "getting": "La mayoría de los viajeros llegan a través del Aeropuerto Internacional de Taiwán Taoyuan (TPE), tomando el metro del Aeropuerto de Taoyuan, un servicio exprés o de cercanías que llega a la Estación Principal de Taipéi en tan solo 35 minutos mediante la línea exprés, y algunos trenes se detienen directamente en la estación de New Taipei Industrial Park, ya dentro de la ciudad. Desde la Estación Principal de Taipéi o Banqiao (la propia estación de tren de alta velocidad de Nuevo Taipéi), los transbordos posteriores al Metro de Taipéi, los trenes de Taiwan Railway (TRA) o los autobuses locales conectan con cada uno de los distritos de Nuevo Taipéi."
     },
     "ja": {
       "blurb": "新北市は人口・面積ともに台湾最大の直轄市で、台北市をぐるりと取り囲むように広がっており、川沿いの古い街並みから山あいのハイキングコースや荒々しい海岸線まで、その表情はさまざまです。中心となる繁華街がひとつあるわけではなく、まったく個性の異なる地区が集まったモザイクのような街で、黄金時代の面影を残す鉱山の町・九份や提灯が灯る十分から、歴史ある港町・淡水、風が削り出した奇岩が並ぶ野柳まで、多彩な表情を見せてくれます。",
-      "getting": "ほとんどの旅行者は台湾桃園国際空港（TPE）から到着し、桃園空港MRTを利用します。これは急行・普通の両方の列車が走る路線で、急行なら台北駅までわずか35分ほどで到着するほか、一部の列車は市内の新北産業園区駅に直接停車します。台北駅または板橋（新北市自体の高速鉄道駅）からは、台北メトロや台湾鉄路（TRA）、路線バスへ乗り継ぐことで、新北市内の各地区へアクセスできます。",
-      "days": ""
+      "getting": "ほとんどの旅行者は台湾桃園国際空港（TPE）から到着し、桃園空港MRTを利用します。これは急行・普通の両方の列車が走る路線で、急行なら台北駅までわずか35分ほどで到着するほか、一部の列車は市内の新北産業園区駅に直接停車します。台北駅または板橋（新北市自体の高速鉄道駅）からは、台北メトロや台湾鉄路（TRA）、路線バスへ乗り継ぐことで、新北市内の各地区へアクセスできます。"
     },
     "ko": {
       "blurb": "신베이(新北)는 인구와 면적 모두 대만 최대의 지방자치단체로, 타이베이시를 완전히 둘러싼 고리 모양을 이루고 있으며, 강변의 옛 거리부터 산길, 그리고 거친 해안선까지 다채로운 풍경을 품고 있습니다. 하나의 중심 시가지가 있는 것이 아니라 저마다 개성이 뚜렷한 지역들이 모자이크처럼 모여 있는데, 황금기 광산 마을이었던 지우펀과 등불이 밝혀지는 스펀, 역사 깊은 항구 도시 단수이, 그리고 바람이 빚어낸 기암 지형이 펼쳐진 예류까지 다양합니다.",
-      "getting": "대부분의 여행객은 타이완 타오위안 국제공항(TPE)을 통해 도착해 타오위안 공항 MRT를 이용합니다. 이는 급행과 완행 서비스를 모두 제공하는 노선으로, 급행 열차를 타면 타이베이역까지 최소 35분 만에 도착할 수 있으며, 일부 열차는 신베이시 내에 있는 신베이산업단지역에 바로 정차하기도 합니다. 타이베이역이나 반차오(신베이시 자체의 고속철도 역)에서는 타이베이 메트로, 대만철로(TRA) 열차, 또는 시내버스로 환승하여 신베이시 내 각 지역으로 이동할 수 있습니다.",
-      "days": ""
+      "getting": "대부분의 여행객은 타이완 타오위안 국제공항(TPE)을 통해 도착해 타오위안 공항 MRT를 이용합니다. 이는 급행과 완행 서비스를 모두 제공하는 노선으로, 급행 열차를 타면 타이베이역까지 최소 35분 만에 도착할 수 있으며, 일부 열차는 신베이시 내에 있는 신베이산업단지역에 바로 정차하기도 합니다. 타이베이역이나 반차오(신베이시 자체의 고속철도 역)에서는 타이베이 메트로, 대만철로(TRA) 열차, 또는 시내버스로 환승하여 신베이시 내 각 지역으로 이동할 수 있습니다."
     },
     "zh": {
       "blurb": "新北市是台湾人口和面积均居首位的直辖市，完整环绕台北市而建，从沿河而立的老街到山间步道，再到崎岖的海岸线，风貌各异。这里并没有单一的市中心，而是由多个特色鲜明的行政区拼接而成——从曾经风光一时的采矿小镇九份、灯笼点亮夜色的十分，到历史悠久的港口小镇淡水，以及风力雕琢出奇岩地貌的野柳，处处别具风情。",
-      "getting": "多数旅客经由台湾桃园国际机场（TPE）抵达，搭乘桃园机场捷运——这条线路设有直达车和普通车两种班次，其中直达车最快只需35分钟即可抵达台北车站，部分列车还会直接停靠市内的新北产业园区站。从台北车站或板桥站（新北市自有的高铁站）出发，旅客可换乘台北捷运、台铁（TRA）列车或当地公交车，前往新北市各个行政区。",
-      "days": ""
+      "getting": "多数旅客经由台湾桃园国际机场（TPE）抵达，搭乘桃园机场捷运——这条线路设有直达车和普通车两种班次，其中直达车最快只需35分钟即可抵达台北车站，部分列车还会直接停靠市内的新北产业园区站。从台北车站或板桥站（新北市自有的高铁站）出发，旅客可换乘台北捷运、台铁（TRA）列车或当地公交车，前往新北市各个行政区。"
     }
   },
   "Palawan": {
@@ -4220,9 +4139,7 @@
   },
   "Johor Bahru": {
     "en": {
-      "blurb": "Johor Bahru is Malaysia's southernmost major city, a bustling gateway wedged against the Strait of Johor where glossy shopping malls, street-food stalls, and colonial-era shophouses sit minutes from the Singapore border. Its identity is shaped by this cross-border pulse — a magnet for weekend shoppers, theme-park families heading to nearby Legoland, and commuters criss-crossing one of the world's busiest land frontiers.",
-      "getting": "undefined",
-      "days": "undefined"
+      "blurb": "Johor Bahru is Malaysia's southernmost major city, a bustling gateway wedged against the Strait of Johor where glossy shopping malls, street-food stalls, and colonial-era shophouses sit minutes from the Singapore border. Its identity is shaped by this cross-border pulse — a magnet for weekend shoppers, theme-park families heading to nearby Legoland, and commuters criss-crossing one of the world's busiest land frontiers."
     },
     "ko": {
       "blurb": "조호바루는 말레이시아 최남단의 대도시로, 조호 해협을 마주한 활기 넘치는 관문 도시다. 세련된 쇼핑몰과 길거리 음식 노점, 그리고 식민지 시대의 숍하우스들이 싱가포르 국경에서 불과 몇 분 거리에 자리하고 있다. 이 도시의 정체성은 이러한 국경을 넘나드는 활기에서 비롯되는데, 주말이면 쇼핑객들이 몰려들고, 인근 레고랜드로 향하는 가족 단위 여행객들이 넘쳐나며, 세계에서 가장 분주한 육로 국경 중 하나를 오가는 통근자들로 붐빈다.",
@@ -4247,9 +4164,7 @@
   },
   "Pamukkale": {
     "en": {
-      "blurb": "Pamukkale (\"Cotton Castle\") is renowned for its cascading white travertine terraces filled with warm, mineral-rich pools, set directly beside the sprawling Roman-era ruins of Hierapolis, a UNESCO World Heritage Site. The result is a rare pairing of a striking natural mineral landscape with ancient theatre, necropolis and bathhouse ruins in a single walkable site.",
-      "getting": "undefined",
-      "days": "undefined"
+      "blurb": "Pamukkale (\"Cotton Castle\") is renowned for its cascading white travertine terraces filled with warm, mineral-rich pools, set directly beside the sprawling Roman-era ruins of Hierapolis, a UNESCO World Heritage Site. The result is a rare pairing of a striking natural mineral landscape with ancient theatre, necropolis and bathhouse ruins in a single walkable site."
     },
     "ko": {
       "blurb": "\"목화의 성\"이라는 뜻을 지닌 파묵칼레는 따뜻하고 미네랄이 풍부한 온천수가 채워진 새하얀 석회화 계단식 테라스로 유명하며, 유네스코 세계문화유산인 고대 로마 시대 도시 히에라폴리스의 광활한 유적 바로 옆에 자리하고 있습니다. 그 덕분에 이곳에서는 경이로운 자연 미네랄 절경과 고대 극장, 네크로폴리스, 목욕탕 유적을 한 곳에서 걸어서 둘러볼 수 있는 보기 드문 조합을 만나볼 수 있습니다.",

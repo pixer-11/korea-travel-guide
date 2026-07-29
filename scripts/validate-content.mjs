@@ -131,6 +131,27 @@ for (const p of posts) {
 dupBy((p) => (p.url && !p.url.includes('placeholder') ? unsplashNum(p.url) || p.url : ''), 'DUPLICATE image');
 dupBy((p) => p.placeId, 'DUPLICATE place.id');
 
+// Placeholder text that reached readers. "undefined" got into 10 region entries
+// as String(undefined) and rendered in the visible intro, the meta description
+// and the FAQPage structured data on 11 live pages, because the components fall
+// back with `??` and a non-empty string is not nullish. Generated copy is checked
+// here rather than trusted, since nothing else reads these files before a build.
+try {
+  const regionsPath = fileURLToPath(new URL('../src/i18n/regions.json', import.meta.url));
+  const regions = JSON.parse(await readFile(regionsPath, 'utf8'));
+  const BAD = /^(undefined|null|n\/a|tbd|todo)$/i;
+  for (const [region, langs] of Object.entries(regions)) {
+    for (const [lang, fields] of Object.entries(langs || {})) {
+      if (!fields || typeof fields !== 'object') continue;
+      for (const [field, value] of Object.entries(fields)) {
+        if (typeof value === 'string' && (BAD.test(value.trim()) || !value.trim())) {
+          issues.push(`PLACEHOLDER-TEXT: regions.json ${region}/${lang}.${field} = "${value}"`);
+        }
+      }
+    }
+  }
+} catch { /* file absent in a partial checkout — not this check's business */ }
+
 // A post whose in-body photo IS its hero shows the same picture twice. The rule
 // is two DIFFERENT photos, or one — never the same one billed as two. The
 // cross-post check above compares heroes BETWEEN posts, so it was structurally

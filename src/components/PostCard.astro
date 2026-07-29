@@ -2,6 +2,7 @@
 import { isEventPast } from '../lib/eventStatus';
 import { getLangFromUrl, useTranslations } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
+import { thumbOr } from '../lib/wall';
 interface Props {
   href: string;
   title: string;
@@ -10,8 +11,16 @@ interface Props {
   category: string;
   image?: string;
   eventEndDate?: Date | string | null;
+  /** Set on the first card of a grid: it is usually the LCP element. */
+  priority?: boolean;
 }
-const { href, title, description, region, category, image, eventEndDate } = Astro.props;
+const { href, title, description, region, category, image, eventEndDate, priority = false } = Astro.props;
+// Cards were rendering the remote hero at full size — 1920px Wikimedia originals
+// and w=1600 Unsplash, drawn at 325 CSS px. One city roundup shipped 3.49 MB of
+// images for seven thumbnails. Every published hero already has a 640px WebP
+// (~40 KB) from build-wall.mjs; this uses it, falling back to the original when a
+// hero is newer than the last wall build.
+const src = thumbOr(image) || '/images/placeholder-market.svg';
 // Card labels follow the page's language (cards appear on localized hubs too).
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
@@ -24,7 +33,15 @@ const ended = isEventPast({ category, eventEndDate });
 
 <a class:list={['card', { 'card--ended': ended }]} href={href}>
   <div class="thumb">
-    <img src={image ?? '/images/placeholder-market.svg'} alt={`${title} — ${region}`} width="600" height="400" loading="lazy" decoding="async" />
+    <img
+      src={src}
+      alt={`${title} — ${region}`}
+      width="600"
+      height="400"
+      loading={priority ? 'eager' : 'lazy'}
+      fetchpriority={priority ? 'high' : undefined}
+      decoding="async"
+    />
     {ended ? <span class="badge badge-ended">{t('card.ended')}</span> : <span class="badge">{label}</span>}
   </div>
   <div class="card-body">

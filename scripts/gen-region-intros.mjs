@@ -75,7 +75,16 @@ async function genEnglish(region, country) {
     }],
   });
   const j = toolArgs(msg, 'submit_intro');
-  return { blurb: String(j.blurb).trim(), getting: String(j.getting).trim(), days: String(j.days).trim() };
+  // String(undefined) is the string "undefined", and that is exactly how the word
+  // reached 11 live region pages — in the visible intro, the meta description AND
+  // the FAQPage structured data. A field the model omitted must come back absent
+  // so the page falls back, never as text that renders.
+  const clean = (v) => {
+    const s = typeof v === 'string' ? v.trim() : '';
+    return s && s !== 'undefined' && s !== 'null' ? s : null;
+  };
+  const out = { blurb: clean(j.blurb), getting: clean(j.getting), days: clean(j.days) };
+  return Object.fromEntries(Object.entries(out).filter(([, v]) => v));
 }
 
 async function translate(region, en) {
@@ -92,7 +101,21 @@ async function translate(region, en) {
         JSON.stringify(en),
     }],
   });
-  return toolArgs(msg, 'submit_translations');
+  // Same guard as the English path: a missing or literal-"undefined" field must
+  // not be stored, or it renders as that word on the localized page.
+  const tr = toolArgs(msg, 'submit_translations') || {};
+  const out = {};
+  for (const [lang, fields] of Object.entries(tr)) {
+    if (!fields || typeof fields !== 'object') continue;
+    const kept = Object.fromEntries(
+      Object.entries(fields).filter(([, v]) => {
+        const t = typeof v === 'string' ? v.trim() : '';
+        return t && t !== 'undefined' && t !== 'null';
+      })
+    );
+    if (Object.keys(kept).length) out[lang] = kept;
+  }
+  return out;
 }
 
 async function main() {

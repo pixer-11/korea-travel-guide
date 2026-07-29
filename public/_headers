@@ -1,0 +1,17 @@
+# Content-hashed and immutable assets were being served max-age=0,
+# must-revalidate — so a stylesheet whose filename contains its own hash, and
+# WebP thumbnails that never change, were revalidated on every navigation. That
+# is seven-plus extra round trips per page on mobile.
+/_astro/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/wall/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/fonts/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# HTML stays revalidated: the site republishes daily and a stale page is worse
+# than a round trip.
+/*
+  Cache-Control: public, max-age=0, must-revalidate
