@@ -163,16 +163,23 @@ const orgLd = {
       )
     }
 
-    <!-- Travelpayouts Drive — affiliate analytics + monetization (marker 553157).
-         data-cfasync=false keeps Cloudflare Rocket Loader from deferring it. -->
-    <script is:inline data-cfasync="false">
-      (function () {
-        var s = document.createElement('script');
-        s.async = 1;
-        s.src = 'https://emrld.ltd/NTUzMTU3.js?t=553157';
-        document.head.appendChild(s);
-      })();
-    </script>
+    {/*
+    Travelpayouts Drive (marker 553157) loaded here on every page and has been
+         removed. Measured on a live venue page: 26 of the page's 38 requests went
+         to emrld.ltd, and it pulled in doubleclick, googlesyndication, a
+         third-party error collector, a duplicate Google Fonts copy of a font we
+         already self-host, and a tracking cookie — while drawing nothing on the
+         page itself.
+
+         Removing it costs no revenue. Attribution does not depend on it:
+         marker=754088 is written directly into the hotel, flight and tour links
+         (15 places across the components), and the July dashboard attributes all
+         94 clicks through those programs — Klook 32, Kiwi 31, Localrent 13,
+         Yesim 7 — with nothing recorded against 553157.
+
+         Worth revisiting if the site ever has the traffic for Drive's
+         auto-monetization to matter; re-adding it is four lines.
+    */}
   </head>
   <body>
     <Header availableLangs={availableLangs} />
