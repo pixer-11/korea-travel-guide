@@ -22,6 +22,10 @@ const strings = JSON.stringify({
   empty: t('trip.empty'),
   emptyCta: t('trip.emptyCta'),
   emptyHref: localizePath('/destinations', lang),
+  // Saved hrefs freeze the language they were saved in, so someone who saved
+  // in Korean and later reads in Spanish was thrown back into Korean. The slug
+  // is language-neutral, so the path is rebuilt for the current locale.
+  postBase: localizePath('/posts', lang) + '/',
   count: t('trip.count'),
   quiet: t('trip.quiet'),
   remove: t('trip.remove'),
@@ -48,16 +52,32 @@ const strings = JSON.stringify({
     </div>
 
     <div class="trip-list" data-strings={strings}></div>
+    {/* Removing an item silently told a screen-reader user nothing. */}
+    <p class="sr-only" role="status" aria-live="polite"></p>
 
     <p class="trip-note">{t('trip.local')}</p>
   </article>
 </BaseLayout>
+
+<!-- Global, not scoped: the header and footer belong to other components, and a
+     scoped rule cannot reach them. TripChecklist has the same rule scoped, which
+     is why it never worked there either. -->
+<style is:global>
+  @media print {
+    .site-header, .site-footer, .newsletter, .sticky-book { display: none !important; }
+  }
+</style>
 
 <style>
   .trip { max-width: var(--wrap); margin: 0 auto; padding: 2rem 1rem 0; }
   .trip h1 { margin: 0 0 0.5rem; }
   .dek { color: var(--muted); margin: 0 0 1.5rem; }
 
+  /* `hidden` alone loses here: Astro scopes .trip-bar to an attribute selector,
+     which outranks the [hidden]{display:none} in the reset. The toolbar rendered
+     over the empty state on a first visit, with a Maps link pointing at "#".
+     ItineraryPage.astro and .sticky-book already solve it this way. */
+  .trip-bar[hidden], .trip-btn[hidden] { display: none; }
   .trip-bar {
     display: flex; flex-wrap: wrap; align-items: center; gap: 0.75rem;
     padding: 0.9rem 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line);
@@ -106,7 +126,9 @@ const strings = JSON.stringify({
     .trip-item { break-inside: avoid; border-bottom: 1px solid #ddd; }
     .trip-thumb { display: none; }
     .trip-facts a { color: #000; text-decoration: none; }
-    .trip-facts a::after { content: ' (' attr(href) ')'; font-size: 0.75em; color: #555; }
+    /* A printed tel: link does not need its own href stapled on — the number is
+       already the visible text — and a Maps URL is 60 characters nobody can type. */
+    .trip-facts .map-one { display: none; }
   }
 </style>
 
@@ -146,17 +168,21 @@ const strings = JSON.stringify({
       }
 
       bar.hidden = false;
+      const live = document.querySelector('[aria-live]');
+      if (live) live.textContent = (S.count || '{n}').replace('{n}', String(items.length));
       document.querySelector('.trip-count').textContent = (S.count || '{n}').replace('{n}', String(items.length));
 
-      // One Maps URL for the whole list: search works with any number of places,
-      // while the directions API caps waypoints and would silently drop some.
-      const withCoords = items.filter((i) => i.lat && i.lng);
+      // Maps' `search` action takes ONE place — the previous version encoded every
+      // coordinate into a single query string, so Google geocoded the lot as one
+      // piece of free text and plotted nothing. The /dir/ path form takes any
+      // number of points as path segments and is what actually shows the list.
+      const withCoords = items.filter((i) => i.lat != null && i.lng != null);
       const maps = document.querySelector('.trip-maps');
       if (withCoords.length) {
         maps.hidden = false;
         maps.href =
-          'https://www.google.com/maps/search/?api=1&query=' +
-          encodeURIComponent(withCoords.map((i) => `${i.lat},${i.lng}`).join('/'));
+          'https://www.google.com/maps/dir/' +
+          withCoords.map((i) => `${Number(i.lat)},${Number(i.lng)}`).join('/');
       } else {
         maps.hidden = true;
       }
@@ -165,11 +191,26 @@ const strings = JSON.stringify({
         .map((i) => {
           const facts = [];
           if (i.phone) facts.push(`<a href="tel:${esc(i.phone.replace(/[^\d+]/g, ''))}">${esc(i.phone)}</a>`);
-          if (i.hours) facts.push(esc(i.hours));
-          if (i.quiet) facts.push(`<span class="k">${esc(S.quiet)}</span> <span class="trip-quiet">${esc(i.quiet)}</span>`);
-          if (i.lat && i.lng) {
+
+          // Hours arrive as Google's seven lines starting Monday. Show the one for
+          // the day the reader is looking at it — the old code kept only Monday's,
+          // which told 16 venues' visitors "Closed" (Chatuchak, the Forbidden City)
+          // and was wrong on up to six days for 54 more. Strings are older saves.
+          const hoursToday = Array.isArray(i.hours)
+            ? i.hours[(new Date().getDay() + 6) % 7] || ''
+            : i.hours || '';
+          if (hoursToday) facts.push(esc(hoursToday));
+
+          // Weekday and weekend quiet windows differ at most venues that have both.
+          const weekend = [0, 6].includes(new Date().getDay());
+          const quiet = typeof i.quiet === 'object' && i.quiet
+            ? (weekend ? i.quiet.we || i.quiet.wd : i.quiet.wd || i.quiet.we)
+            : i.quiet || '';
+          if (quiet) facts.push(`<span class="k">${esc(S.quiet)}</span> <span class="trip-quiet">${esc(quiet)}</span>`);
+
+          if (i.lat != null && i.lng != null) {
             facts.push(
-              `<a href="https://www.google.com/maps/search/?api=1&query=${i.lat},${i.lng}" target="_blank" rel="noopener">Google Maps</a>`
+              `<a class="map-one" href="https://www.google.com/maps/search/?api=1&query=${Number(i.lat)},${Number(i.lng)}" target="_blank" rel="noopener">Google Maps</a>`
             );
           }
           const where = [i.region, i.country].filter(Boolean).join(' · ');
@@ -177,7 +218,7 @@ const strings = JSON.stringify({
             <div class="trip-item">
               ${i.image ? `<img class="trip-thumb" src="${esc(i.image)}" alt="" loading="lazy" decoding="async">` : ''}
               <div class="trip-body">
-                <a class="trip-name" href="${esc(i.href)}">${esc(i.title)}</a>
+                <a class="trip-name" href="${esc(S.postBase)}${esc(i.slug)}/">${esc(i.title)}</a>
                 ${where ? `<p class="trip-where">${esc(where)}</p>` : ''}
                 ${facts.length ? `<p class="trip-facts">${facts.join(' · ')}</p>` : ''}
               </div>
@@ -190,8 +231,14 @@ const strings = JSON.stringify({
     list.addEventListener('click', (e) => {
       const btn = e.target instanceof Element ? e.target.closest('.trip-remove') : null;
       if (!btn) return;
+      // render() replaces innerHTML, which destroys the focused button and dumps a
+      // keyboard user back at the top of the document. Land them on the next row.
+      const buttons = [...list.querySelectorAll('.trip-remove')];
+      const idx = buttons.indexOf(btn);
       write(read().filter((x) => x.slug !== btn.dataset.slug));
       render();
+      const now = list.querySelectorAll('.trip-remove');
+      (now[Math.min(idx, now.length - 1)] || document.querySelector('.trip-clear'))?.focus();
     });
 
     document.querySelector('.trip-clear')?.addEventListener('click', () => {

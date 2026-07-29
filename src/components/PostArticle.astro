@@ -329,11 +329,16 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
 // What the visitor carries away. Written at save time so /my-trip needs no
 // lookup: the phone number, hours and quiet window are the things people
 // actually want once they are standing outside the place.
-const saveHours = (p?.openingHours ?? []).length
-  ? String(p.openingHours[0]).split(": ").slice(1).join(": ")
-      .replace(/AM/g, t("post.am")).replace(/PM/g, t("post.pm"))
-  : "";
-const saveQuiet = quietWd || quietWe || "";
+// The WHOLE week, not one line. Taking openingHours[0] took MONDAY and dropped the
+// day name, so 54 venues saved hours wrong on up to six days and 16 — including
+// Chatuchak WEEKEND Market and the Forbidden City — saved the word "Closed" as
+// their hours. /my-trip picks the line for the day the reader is actually looking.
+const saveHours = (p?.openingHours ?? []).map((l) =>
+  String(l).replace(/AM/g, t("post.am")).replace(/PM/g, t("post.pm"))
+);
+// Weekday and weekend quiet windows differ at 15 of the 26 venues that have both,
+// so both travel and /my-trip shows whichever matches today.
+const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
 
 ---
 

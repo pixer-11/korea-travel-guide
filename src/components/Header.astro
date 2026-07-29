@@ -82,6 +82,12 @@ const navGroups = CONT_ORDER
           desktop bar is a short horizontal row where the same icons only add
           noise and width. */}
       <a href={localizePath('/itinerary', lang)}><Emoji name="spiral-calendar" class="nav-ico" /> {t('nav.itineraries')}</a>
+      {/* Appears only once something is saved. Without it a visitor taps Save, the
+          button says "Saved", and nothing else on the site ever acknowledges that a
+          list exists — the footer link alone was not discovery. */}
+      <a href={localizePath('/my-trip', lang)} class="nav-trip" hidden>
+        <Emoji name="round-pushpin" class="nav-ico" /> {t('trip.title')} <span class="nav-trip-n"></span>
+      </a>
       <a href={localizePath('/events', lang)}><Emoji name="admission-tickets" class="nav-ico" /> {t('nav.events')}</a>
       <a href={localizePath('/flights', lang)}><Emoji name="airplane" class="nav-ico" /> {t('nav.flights')}</a>
       <a href={localizePath('/about', lang)}><Emoji name="compass" class="nav-ico" /> {t('nav.about')}</a>
@@ -89,6 +95,30 @@ const navGroups = CONT_ORDER
     </nav>
   </div>
 </header>
+
+<script>
+  // Reveals the header link and keeps its count current. Listens for both the
+  // in-page event and `storage`, so another tab saving is reflected here too.
+  (() => {
+    const KEY = 'wa_trip_v1';
+    const paint = () => {
+      let n = 0;
+      try {
+        const v = JSON.parse(localStorage.getItem(KEY) || '[]');
+        n = Array.isArray(v) ? v.length : 0;
+      } catch { n = 0; }
+      document.querySelectorAll('.nav-trip').forEach((el) => {
+        el.hidden = n === 0;
+        const badge = el.querySelector('.nav-trip-n');
+        if (badge) badge.textContent = n ? String(n) : '';
+      });
+    };
+    if (document.readyState !== 'loading') paint();
+    else document.addEventListener('DOMContentLoaded', paint);
+    window.addEventListener('wa-trip-change', paint);
+    window.addEventListener('storage', (e) => { if (e.key === KEY) paint(); });
+  })();
+</script>
 
 <script>
   // Mobile-only drill-down. Levels: 1 = top menu, 2 = continents, 3 = countries of

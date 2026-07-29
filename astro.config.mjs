@@ -256,7 +256,13 @@ export default defineConfig({
       // The embeddable crowd widgets are noindex iframe fragments — listing them
       // told Google "index these" while the page itself says "don't", and wasted
       // crawl budget on 184 non-pages.
-      filter: (page) => !page.includes('/embed/'),
+      // Anything the page marks noindex must not be submitted, or Search Console
+      // reports "Submitted URL marked noindex" for every one. /my-trip is
+      // per-visitor, /pinterest-callback is an OAuth landing.
+      filter: (page) =>
+        !page.includes('/embed/') &&
+        !page.includes('/my-trip') &&
+        !page.includes('/pinterest-callback'),
       // Advertise per-page freshness. AI search + Google use <lastmod> to decide
       // what to re-crawl and cite; on a daily-rebuilt automated site this is a
       // cheap, honest ranking/citation lever.

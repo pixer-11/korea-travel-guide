@@ -223,7 +223,10 @@ const ogPhoto = wallFor((data.topVenues ?? []).find((p: any) => p?.data?.heroIma
       <p class="wtg-all"><a href={localizePath('/tools/when-to-go', lang)}>{t('wtg.allCountries')} →</a></p>
     </nav>
 
-    <p class="disclosure">{t('wtg.source')}</p>
+    <p class="disclosure">{fill('wtg.source', {
+      city: localizePlace(data.climateCity ?? countryLabel, lang),
+      years: data.climateYears ?? 10,
+    })}</p>
   </article>
 
   <PlanTrip city={countryLabel} country={data.country} />

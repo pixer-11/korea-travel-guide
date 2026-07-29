@@ -24,8 +24,10 @@ interface Props {
   lat?: number;
   lng?: number;
   phone?: string;
-  hours?: string;
-  quiet?: string;
+  /** Google's seven weekday lines, localized. */
+  hours?: string[];
+  /** Weekday and weekend quiet windows kept apart — they differ at most venues. */
+  quiet?: { wd: string; we: string };
   image?: string;
   lang: Lang;
   compact?: boolean;
@@ -50,6 +52,7 @@ const payload = JSON.stringify({
   data-save={payload}
   data-label-save={t('save.add')}
   data-label-saved={t('save.added')}
+  data-label-blocked={t('save.blocked')}
   aria-pressed="false"
 >
   <span class="save-ico" aria-hidden="true"><Emoji name="round-pushpin" /></span>
@@ -66,6 +69,7 @@ const payload = JSON.stringify({
     cursor: pointer; transition: border-color 0.15s ease, background 0.15s ease;
   }
   .save-btn:hover { border-color: var(--accent); color: var(--accent); }
+  .save-btn[disabled] { opacity: 0.5; cursor: not-allowed; }
   .save-btn[aria-pressed='true'] {
     background: var(--accent); border-color: var(--accent); color: #fff;
   }
@@ -96,8 +100,24 @@ const payload = JSON.stringify({
         localStorage.setItem(KEY, JSON.stringify(list));
         // Lets /my-trip and the header counter react without a reload.
         window.dispatchEvent(new CustomEvent('wa-trip-change', { detail: { count: list.length } }));
-      } catch { /* storage unavailable — the click just does nothing visible */ }
+        return true;
+      } catch {
+        return false; // private mode, partitioned storage, or quota
+      }
     };
+
+    // Saving needs storage. When it is blocked the button used to flicker and
+    // revert, which reads as a broken site rather than a browser setting — so the
+    // buttons say plainly that they cannot work instead of pretending to.
+    const storageUsable = (() => {
+      try {
+        localStorage.setItem('wa_probe', '1');
+        localStorage.removeItem('wa_probe');
+        return true;
+      } catch {
+        return false;
+      }
+    })();
 
     const paint = (btn, saved) => {
       btn.setAttribute('aria-pressed', saved ? 'true' : 'false');
@@ -112,6 +132,11 @@ const payload = JSON.stringify({
     const sync = () => {
       const saved = new Set(read().map((x) => x.slug));
       document.querySelectorAll('.save-btn[data-save]').forEach((btn) => {
+        if (!storageUsable) {
+          btn.disabled = true;
+          btn.title = btn.dataset.labelBlocked || '';
+          return;
+        }
         paint(btn, saved.has(slugOf(btn)));
       });
     };
@@ -131,7 +156,7 @@ const payload = JSON.stringify({
       const i = list.findIndex((x) => x.slug === item.slug);
       if (i >= 0) list.splice(i, 1);
       else list.push({ ...item, savedAt: new Date().toISOString() });
-      write(list);
+      if (!write(list)) return; // storage refused — leave the button as it was
       sync();
     });
 

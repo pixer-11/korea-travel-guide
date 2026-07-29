@@ -39,6 +39,15 @@ const rank = (values, target, dir) => {
   return sorted.indexOf(target) + 1;
 };
 
+// How many months share the top spot. A superlative is only true when it is
+// unique: seven UAE months each round to 0mm, so all seven printed "the driest
+// month of the year" — a page contradicting itself six times over. 175 pages
+// across the site carried one of these.
+const tiedAtTop = (values, dir) => {
+  const best = dir === 'desc' ? Math.max(...values) : Math.min(...values);
+  return values.filter((v) => v === best).length;
+};
+
 /**
  * Everything one country-month page needs. Pure: same inputs, same output.
  * Returns null when the country has no usable climate record.
@@ -82,14 +91,17 @@ export function whenToGo(country, month, { countryFacts, events = [], posts = []
     // Where this month sits in the year — the comparison a traveller is making.
     heatRank: rank(highs, here.hi, 'desc'),
     rainRank: rank(rains, here.rain, 'desc'),
-    driest: rank(rains, here.rain, 'asc') === 1,
-    coolest: rank(highs, here.hi, 'asc') === 1,
-    hottest: rank(highs, here.hi, 'desc') === 1,
-    wettest: rank(rains, here.rain, 'desc') === 1,
+    driest: rank(rains, here.rain, 'asc') === 1 && tiedAtTop(rains, 'asc') === 1,
+    coolest: rank(highs, here.hi, 'asc') === 1 && tiedAtTop(highs, 'asc') === 1,
+    hottest: rank(highs, here.hi, 'desc') === 1 && tiedAtTop(highs, 'desc') === 1,
+    wettest: rank(rains, here.rain, 'desc') === 1 && tiedAtTop(rains, 'desc') === 1,
     // Share of the year's rain that falls this month, rounded — a monsoon month
     // is obvious in this number in a way that millimetres alone are not.
     rainShare: yearRain ? Math.round((here.rain / yearRain) * 100) : 0,
     climate,
+    // Named on the page so the provenance line is checkable.
+    climateCity: facts.climateCity ?? null,
+    climateYears: facts.climateYears ?? null,
     holidays,
     events: monthEvents,
     topVenues: [...countryPosts].sort((a, b) => score(b) - score(a)).slice(0, 8),

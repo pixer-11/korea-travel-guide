@@ -1,17 +1,21 @@
-# Content-hashed and immutable assets were being served max-age=0,
-# must-revalidate — so a stylesheet whose filename contains its own hash, and
-# WebP thumbnails that never change, were revalidated on every navigation. That
-# is seven-plus extra round trips per page on mobile.
+# Content-hashed and immutable assets. These were being revalidated on every
+# navigation because nothing set a max-age.
+#
+# There is deliberately NO /* rule here: Cloudflare merges a matching catch-all
+# into the specific rule, so "max-age=0, must-revalidate" from /* landed in front
+# of "max-age=31536000, immutable" and browsers honoured the first one. Verified
+# live: /og-default.jpg was still returning max-age=0. HTML keeps Cloudflare's
+# own default, which is already revalidate-always.
 /_astro/*
   Cache-Control: public, max-age=31536000, immutable
+  X-Content-Type-Options: nosniff
 
 /wall/*
   Cache-Control: public, max-age=31536000, immutable
+  X-Content-Type-Options: nosniff
 
 /fonts/*
   Cache-Control: public, max-age=31536000, immutable
 
-# HTML stays revalidated: the site republishes daily and a stale page is worse
-# than a round trip.
-/*
-  Cache-Control: public, max-age=0, must-revalidate
+/og-default.jpg
+  Cache-Control: public, max-age=604800

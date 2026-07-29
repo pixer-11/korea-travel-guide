@@ -24,7 +24,21 @@ const site = Astro.site?.toString().replace(/\/$/, '') ?? 'https://wanderatlasgu
 const postUrl = `${site}/posts/${slug}`;
 
 const hr = (h: number) => { const x = ((h % 24) + 24) % 24; return `${x % 12 || 12}${x < 12 ? 'am' : 'pm'}`; };
-const span = (a?: number[]) => (a && a.length ? `${hr(Math.min(...a))}–${hr(Math.max(...a) + 1)}` : null);
+// Quiet hours are not one block: Gwangjang is quiet 9–10am AND 7–11pm. Taking
+// min..max merged them into "9am–11pm", which advertised the busiest hours of the
+// day as the quietest. Consecutive runs are printed separately instead.
+const span = (a?: number[]) => {
+  const xs = [...new Set(a ?? [])].filter((h) => Number.isInteger(h)).sort((x, y) => x - y);
+  if (!xs.length) return null;
+  const runs: [number, number][] = [];
+  let start = xs[0], prev = xs[0];
+  for (let i = 1; i < xs.length; i++) {
+    if (xs[i] === prev + 1) { prev = xs[i]; continue; }
+    runs.push([start, prev]); start = xs[i]; prev = xs[i];
+  }
+  runs.push([start, prev]);
+  return runs.map(([a2, b2]) => `${hr(a2)}–${hr(b2 + 1)}`).join(', ');
+};
 
 const quiet = new Set([...(b.weekdayQuiet ?? []), ...(b.weekendQuiet ?? [])]);
 const busy = new Set([...(b.weekdayBusy ?? []), ...(b.weekendBusy ?? [])]);
