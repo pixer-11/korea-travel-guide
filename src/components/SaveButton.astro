@@ -1,0 +1,145 @@
+---
+import Emoji from './Emoji.astro';
+import { useTranslations, type Lang } from '../i18n/utils';
+
+// "Save to my trip" — the site's only reason to come back.
+//
+// Every audit of this site reached the same conclusion independently: a visitor
+// searches, gets their answer, and leaves, because nothing here is theirs. The
+// newsletter is the only retention mechanism and it asks for an email before
+// giving anything. Meanwhile each guide already holds the things a traveller
+// wants ON the trip — phone number, opening hours, the quiet window, coordinates
+// — with no way to carry them.
+//
+// Everything lives in localStorage, so this works on a static site with no
+// account, no server and no cookie banner. The payload is written at save time
+// rather than looked up later, which means /my-trip needs no database and no
+// per-page data dump: it renders whatever the visitor put in it.
+interface Props {
+  slug: string;
+  title: string;
+  region?: string;
+  country?: string;
+  href: string;
+  lat?: number;
+  lng?: number;
+  phone?: string;
+  hours?: string;
+  quiet?: string;
+  image?: string;
+  lang: Lang;
+  compact?: boolean;
+}
+const {
+  slug, title, region = '', country = '', href,
+  lat, lng, phone = '', hours = '', quiet = '', image = '',
+  lang, compact = false,
+} = Astro.props;
+const t = useTranslations(lang);
+
+const payload = JSON.stringify({
+  slug, title, region, country, href,
+  lat: lat ?? null, lng: lng ?? null,
+  phone, hours, quiet, image,
+});
+---
+
+<button
+  type="button"
+  class:list={['save-btn', { 'save-btn--compact': compact }]}
+  data-save={payload}
+  data-label-save={t('save.add')}
+  data-label-saved={t('save.added')}
+  aria-pressed="false"
+>
+  <span class="save-ico" aria-hidden="true"><Emoji name="round-pushpin" /></span>
+  <span class="save-text">{t('save.add')}</span>
+</button>
+
+<style>
+  .save-btn {
+    display: inline-flex; align-items: center; gap: 0.4rem;
+    padding: 0.5rem 0.9rem;
+    border: 1px solid var(--line); border-radius: 999px;
+    background: var(--surface); color: var(--ink);
+    font: inherit; font-size: 0.88rem; font-weight: 600;
+    cursor: pointer; transition: border-color 0.15s ease, background 0.15s ease;
+  }
+  .save-btn:hover { border-color: var(--accent); color: var(--accent); }
+  .save-btn[aria-pressed='true'] {
+    background: var(--accent); border-color: var(--accent); color: #fff;
+  }
+  .save-btn[aria-pressed='true'] .save-ico { filter: brightness(0) invert(1); }
+  .save-btn--compact { padding: 0.35rem 0.7rem; font-size: 0.8rem; }
+  /* A saved list is for taking out; the button itself is never part of that. */
+  @media print { .save-btn { display: none; } }
+</style>
+
+<script>
+  // One delegated listener for the whole page: cards render many of these, and a
+  // listener per button would be wasteful and would miss anything added later.
+  (() => {
+    const KEY = 'wa_trip_v1';
+
+    const read = () => {
+      try {
+        const raw = localStorage.getItem(KEY);
+        const list = raw ? JSON.parse(raw) : [];
+        return Array.isArray(list) ? list : [];
+      } catch {
+        return []; // private mode, quota, or corrupted value — behave as empty
+      }
+    };
+
+    const write = (list) => {
+      try {
+        localStorage.setItem(KEY, JSON.stringify(list));
+        // Lets /my-trip and the header counter react without a reload.
+        window.dispatchEvent(new CustomEvent('wa-trip-change', { detail: { count: list.length } }));
+      } catch { /* storage unavailable — the click just does nothing visible */ }
+    };
+
+    const paint = (btn, saved) => {
+      btn.setAttribute('aria-pressed', saved ? 'true' : 'false');
+      const text = btn.querySelector('.save-text');
+      if (text) text.textContent = saved ? btn.dataset.labelSaved : btn.dataset.labelSave;
+    };
+
+    const slugOf = (btn) => {
+      try { return JSON.parse(btn.dataset.save || '{}').slug || ''; } catch { return ''; }
+    };
+
+    const sync = () => {
+      const saved = new Set(read().map((x) => x.slug));
+      document.querySelectorAll('.save-btn[data-save]').forEach((btn) => {
+        paint(btn, saved.has(slugOf(btn)));
+      });
+    };
+
+    document.addEventListener('click', (e) => {
+      const btn = e.target instanceof Element ? e.target.closest('.save-btn[data-save]') : null;
+      if (!btn) return;
+      // Cards wrap their whole body in a link; without this, saving navigates.
+      e.preventDefault();
+      e.stopPropagation();
+
+      let item;
+      try { item = JSON.parse(btn.dataset.save); } catch { return; }
+      if (!item?.slug) return;
+
+      const list = read();
+      const i = list.findIndex((x) => x.slug === item.slug);
+      if (i >= 0) list.splice(i, 1);
+      else list.push({ ...item, savedAt: new Date().toISOString() });
+      write(list);
+      sync();
+    });
+
+    document.addEventListener('DOMContentLoaded', sync);
+    // Astro ships static HTML, so DOMContentLoaded may already have fired.
+    if (document.readyState !== 'loading') sync();
+    window.addEventListener('wa-trip-change', sync);
+    // Saved in another tab.
+    window.addEventListener('storage', (e) => { if (e.key === KEY) sync(); });
+  })();
+</script>

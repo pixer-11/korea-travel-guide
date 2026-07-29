@@ -3,6 +3,7 @@ import { getCollection, render } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Newsletter from './Newsletter.astro';
 import ShareRow from './ShareRow.astro';
+import SaveButton from './SaveButton.astro';
 import countriesData from '../../data/countries.json';
 import { SITE } from '../siteConfig';
 import Hotels from './Hotels.astro';
@@ -325,6 +326,15 @@ const jsonLd = { '@context': 'https://schema.org', '@graph': graph };
 // RECURRING events stay indexed (see isRecurringEvent above) — they win
 // "when is X 2027" as the next edition approaches.
 const noindexPost = isEventPast(d) && !isRecurringEvent;
+// What the visitor carries away. Written at save time so /my-trip needs no
+// lookup: the phone number, hours and quiet window are the things people
+// actually want once they are standing outside the place.
+const saveHours = (p?.openingHours ?? []).length
+  ? String(p.openingHours[0]).split(": ").slice(1).join(": ")
+      .replace(/AM/g, t("post.am")).replace(/PM/g, t("post.pm"))
+  : "";
+const saveQuiet = quietWd || quietWe || "";
+
 ---
 
 <BaseLayout
@@ -457,6 +467,22 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
           </div>
         )}
         <div class="fact-actions">
+          {p?.name && (
+            <SaveButton
+              slug={post.id}
+              title={placeLabel}
+              region={regionLabel}
+              country={localizePlace(country, lang)}
+              href={Astro.url.pathname}
+              lat={p.lat}
+              lng={p.lng}
+              phone={p.phone ?? ""}
+              hours={saveHours}
+              quiet={saveQuiet}
+              image={d.heroImage?.url}
+              lang={lang}
+            />
+          )}
           {ticketable && p.name && (
             <a class="fact-ticket" href={klookPlace} target="_blank" rel="sponsored noopener"><Emoji name="admission-tickets" /> {t('post.ticketsFor').replace('{place}', placeLabel)}</a>
           )}

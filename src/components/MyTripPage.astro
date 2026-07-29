@@ -1,0 +1,208 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Emoji from './Emoji.astro';
+import { useTranslations, localizePath, type Lang } from '../i18n/utils';
+
+// The saved list. Rendered entirely on the client from localStorage, because the
+// list belongs to the visitor and this is a static site — no account, no server,
+// nothing transmitted. The page ships empty and fills itself in.
+//
+// noindex: there is no content here for a crawler, and every visitor's copy is
+// different.
+interface Props { lang: Lang }
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+
+const title = t('trip.title');
+const dek = t('trip.dek');
+
+// Strings the client script needs; passing them through data-attributes keeps
+// the translation lookup on the server where the dictionary lives.
+const strings = JSON.stringify({
+  empty: t('trip.empty'),
+  emptyCta: t('trip.emptyCta'),
+  emptyHref: localizePath('/destinations', lang),
+  count: t('trip.count'),
+  quiet: t('trip.quiet'),
+  remove: t('trip.remove'),
+  clearConfirm: t('trip.clearConfirm'),
+});
+---
+
+<BaseLayout title={title} description={dek} lang={lang} localized={true} noindex={true}>
+  <article class="trip">
+    <h1>{title}</h1>
+    <p class="dek">{dek}</p>
+
+    <div class="trip-bar" hidden>
+      <span class="trip-count"></span>
+      <div class="trip-actions">
+        <a class="trip-btn trip-maps" href="#" target="_blank" rel="noopener">
+          <Emoji name="round-pushpin" /> {t('trip.openAll')}
+        </a>
+        <button type="button" class="trip-btn trip-print">
+          <Emoji name="printer" /> {t('trip.print')}
+        </button>
+        <button type="button" class="trip-btn trip-clear">{t('trip.clear')}</button>
+      </div>
+    </div>
+
+    <div class="trip-list" data-strings={strings}></div>
+
+    <p class="trip-note">{t('trip.local')}</p>
+  </article>
+</BaseLayout>
+
+<style>
+  .trip { max-width: var(--wrap); margin: 0 auto; padding: 2rem 1rem 0; }
+  .trip h1 { margin: 0 0 0.5rem; }
+  .dek { color: var(--muted); margin: 0 0 1.5rem; }
+
+  .trip-bar {
+    display: flex; flex-wrap: wrap; align-items: center; gap: 0.75rem;
+    padding: 0.9rem 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line);
+    margin-bottom: 1.4rem;
+  }
+  .trip-count { font-weight: 700; }
+  .trip-actions { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-left: auto; }
+  .trip-btn {
+    display: inline-flex; align-items: center; gap: 0.35rem;
+    padding: 0.45rem 0.85rem; border: 1px solid var(--line); border-radius: 999px;
+    background: var(--surface); color: var(--ink); font: inherit; font-size: 0.85rem;
+    font-weight: 600; text-decoration: none; cursor: pointer;
+  }
+  .trip-btn:hover { border-color: var(--accent); color: var(--accent); }
+
+  .trip-item {
+    display: flex; gap: 1rem; align-items: flex-start;
+    padding: 1rem 0; border-bottom: 1px solid var(--line-soft);
+  }
+  .trip-thumb {
+    width: 92px; height: 68px; flex: none; border-radius: var(--r-sm);
+    object-fit: cover; background: var(--surface-2);
+  }
+  .trip-body { flex: 1; min-width: 0; }
+  .trip-name { font-weight: 700; color: var(--ink); text-decoration: none; }
+  .trip-name:hover { color: var(--accent); text-decoration: underline; }
+  .trip-where { color: var(--muted); font-size: 0.85rem; margin: 0.15rem 0 0; }
+  .trip-facts { margin: 0.4rem 0 0; font-size: 0.85rem; line-height: 1.7; }
+  .trip-facts a { color: var(--accent); text-decoration: none; }
+  .trip-facts .k { color: var(--muted); }
+  .trip-quiet { font-weight: 700; color: var(--accent); }
+  .trip-remove {
+    flex: none; background: none; border: none; color: var(--muted);
+    font: inherit; font-size: 0.8rem; cursor: pointer; padding: 0.2rem 0.4rem;
+  }
+  .trip-remove:hover { color: var(--accent); text-decoration: underline; }
+
+  .trip-empty { padding: 2.5rem 0; color: var(--muted); }
+  .trip-empty a { color: var(--accent); font-weight: 600; }
+  .trip-note { margin: 2rem 0 0; color: var(--muted); font-size: 0.8rem; }
+
+  /* Printed on the trip, probably without data. Drop everything that is not the
+     list itself — the same reasoning as the checklist page's print rules. */
+  @media print {
+    .trip-bar, .trip-note, .dek { display: none; }
+    .trip-item { break-inside: avoid; border-bottom: 1px solid #ddd; }
+    .trip-thumb { display: none; }
+    .trip-facts a { color: #000; text-decoration: none; }
+    .trip-facts a::after { content: ' (' attr(href) ')'; font-size: 0.75em; color: #555; }
+  }
+</style>
+
+<script>
+  (() => {
+    const KEY = 'wa_trip_v1';
+    const list = document.querySelector('.trip-list');
+    if (!list) return;
+    const bar = document.querySelector('.trip-bar');
+    const S = JSON.parse(list.dataset.strings || '{}');
+
+    const read = () => {
+      try {
+        const raw = localStorage.getItem(KEY);
+        const v = raw ? JSON.parse(raw) : [];
+        return Array.isArray(v) ? v : [];
+      } catch { return []; }
+    };
+    const write = (v) => {
+      try {
+        localStorage.setItem(KEY, JSON.stringify(v));
+        window.dispatchEvent(new CustomEvent('wa-trip-change', { detail: { count: v.length } }));
+      } catch { /* storage unavailable */ }
+    };
+
+    const esc = (s) =>
+      String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+
+    const render = () => {
+      const items = read();
+
+      if (!items.length) {
+        bar.hidden = true;
+        list.innerHTML =
+          `<p class="trip-empty">${esc(S.empty)} <a href="${esc(S.emptyHref)}">${esc(S.emptyCta)} →</a></p>`;
+        return;
+      }
+
+      bar.hidden = false;
+      document.querySelector('.trip-count').textContent = (S.count || '{n}').replace('{n}', String(items.length));
+
+      // One Maps URL for the whole list: search works with any number of places,
+      // while the directions API caps waypoints and would silently drop some.
+      const withCoords = items.filter((i) => i.lat && i.lng);
+      const maps = document.querySelector('.trip-maps');
+      if (withCoords.length) {
+        maps.hidden = false;
+        maps.href =
+          'https://www.google.com/maps/search/?api=1&query=' +
+          encodeURIComponent(withCoords.map((i) => `${i.lat},${i.lng}`).join('/'));
+      } else {
+        maps.hidden = true;
+      }
+
+      list.innerHTML = items
+        .map((i) => {
+          const facts = [];
+          if (i.phone) facts.push(`<a href="tel:${esc(i.phone.replace(/[^\d+]/g, ''))}">${esc(i.phone)}</a>`);
+          if (i.hours) facts.push(esc(i.hours));
+          if (i.quiet) facts.push(`<span class="k">${esc(S.quiet)}</span> <span class="trip-quiet">${esc(i.quiet)}</span>`);
+          if (i.lat && i.lng) {
+            facts.push(
+              `<a href="https://www.google.com/maps/search/?api=1&query=${i.lat},${i.lng}" target="_blank" rel="noopener">Google Maps</a>`
+            );
+          }
+          const where = [i.region, i.country].filter(Boolean).join(' · ');
+          return `
+            <div class="trip-item">
+              ${i.image ? `<img class="trip-thumb" src="${esc(i.image)}" alt="" loading="lazy" decoding="async">` : ''}
+              <div class="trip-body">
+                <a class="trip-name" href="${esc(i.href)}">${esc(i.title)}</a>
+                ${where ? `<p class="trip-where">${esc(where)}</p>` : ''}
+                ${facts.length ? `<p class="trip-facts">${facts.join(' · ')}</p>` : ''}
+              </div>
+              <button type="button" class="trip-remove" data-slug="${esc(i.slug)}">${esc(S.remove)}</button>
+            </div>`;
+        })
+        .join('');
+    };
+
+    list.addEventListener('click', (e) => {
+      const btn = e.target instanceof Element ? e.target.closest('.trip-remove') : null;
+      if (!btn) return;
+      write(read().filter((x) => x.slug !== btn.dataset.slug));
+      render();
+    });
+
+    document.querySelector('.trip-clear')?.addEventListener('click', () => {
+      if (!confirm(S.clearConfirm)) return;
+      write([]);
+      render();
+    });
+    document.querySelector('.trip-print')?.addEventListener('click', () => window.print());
+
+    window.addEventListener('wa-trip-change', render);
+    window.addEventListener('storage', (e) => { if (e.key === KEY) render(); });
+    render();
+  })();
+</script>
