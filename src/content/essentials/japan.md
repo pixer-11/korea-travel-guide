@@ -47,8 +47,8 @@ Language can be a barrier: while English and a handful of other foreign language
 - [Japan National Tourism Organization (JNTO)](https://www.japan.travel/en/)
 - [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 - [JR East – Suica & Welcome Suica](https://www.jreast.co.jp/e/pass/suica.html)
-- [PASMO Official Site](https://www.pasmo.co.jp/en/)
-- [Japan Rail Pass – Official Information](https://www.japanrailpass.net/en/)
+- [PASMO Official Site](https://www.pasmo.co.jp/visitors/)
+- [Japan Rail Pass – Official Information](https://japanrailpass.net/en/)
 - [GO TOKYO – Official Tokyo Travel Guide (transport & IC cards)](https://www.gotokyo.org/en/plan/getting-around/ic-card/index.html)
 - [Japan Meteorological Agency (weather/typhoon warnings)](https://www.jma.go.jp/jma/indexe.html)
 

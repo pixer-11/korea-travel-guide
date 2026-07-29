@@ -46,8 +46,8 @@ El idioma puede ser una barrera: aunque el inglés y algunos otros idiomas extra
 - [Organización Nacional de Turismo de Japón (JNTO)](https://www.japan.travel/en/)
 - [Agencia de Servicios de Inmigración de Japón](https://www.isa.go.jp/en/)
 - [JR East – Suica y Welcome Suica](https://www.jreast.co.jp/e/pass/suica.html)
-- [Sitio oficial de PASMO](https://www.pasmo.co.jp/en/)
-- [Japan Rail Pass – Información oficial](https://www.japanrailpass.net/en/)
+- [Sitio oficial de PASMO](https://www.pasmo.co.jp/visitors/)
+- [Japan Rail Pass – Información oficial](https://japanrailpass.net/en/)
 - [GO TOKYO – Guía oficial de viaje de Tokio (transporte y tarjetas IC)](https://www.gotokyo.org/en/plan/getting-around/ic-card/index.html)
 - [Agencia Meteorológica de Japón (avisos de tiempo/tifones)](https://www.jma.go.jp/jma/indexe.html)
 

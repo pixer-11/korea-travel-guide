@@ -46,8 +46,8 @@ description: 日本へ渡航する前に知っておきたい、最新のビザ�
 - [日本政府観光局(JNTO)](https://www.japan.travel/en/)
 - [出入国在留管理庁(Immigration Services Agency of Japan)](https://www.isa.go.jp/en/)
 - [JR東日本 – Suica & Welcome Suica](https://www.jreast.co.jp/e/pass/suica.html)
-- [PASMO公式サイト](https://www.pasmo.co.jp/en/)
-- [ジャパンレールパス – 公式情報](https://www.japanrailpass.net/en/)
+- [PASMO公式サイト](https://www.pasmo.co.jp/visitors/)
+- [ジャパンレールパス – 公式情報](https://japanrailpass.net/en/)
 - [GO TOKYO – 東京都公式観光ガイド(交通・ICカード)](https://www.gotokyo.org/en/plan/getting-around/ic-card/index.html)
 - [気象庁(天気・台風情報)](https://www.jma.go.jp/jma/indexe.html)
 

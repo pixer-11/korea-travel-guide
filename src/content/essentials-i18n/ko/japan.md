@@ -46,8 +46,8 @@ description: 일본 여행 전 꼭 알아야 할 것들 — 최신 비자 및 �
 - [일본정부관광국(Japan National Tourism Organization, JNTO)](https://www.japan.travel/en/)
 - [일본 출입국재류관리청(Immigration Services Agency of Japan)](https://www.isa.go.jp/en/)
 - [JR East – Suica & Welcome Suica](https://www.jreast.co.jp/e/pass/suica.html)
-- [PASMO 공식 사이트](https://www.pasmo.co.jp/en/)
-- [Japan Rail Pass – 공식 정보](https://www.japanrailpass.net/en/)
+- [PASMO 공식 사이트](https://www.pasmo.co.jp/visitors/)
+- [Japan Rail Pass – 공식 정보](https://japanrailpass.net/en/)
 - [GO TOKYO – 도쿄 공식 여행 가이드(교통 및 IC카드)](https://www.gotokyo.org/en/plan/getting-around/ic-card/index.html)
 - [일본 기상청(Japan Meteorological Agency, 날씨·태풍 경보)](https://www.jma.go.jp/jma/indexe.html)
 

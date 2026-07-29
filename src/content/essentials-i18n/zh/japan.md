@@ -46,8 +46,8 @@ description: 出发前必读——最新签证与入境信息、市内交通、�
 - [日本国家旅游局 (Japan National Tourism Organization, JNTO)](https://www.japan.travel/en/)
 - [日本出入国在留管理厅 (Immigration Services Agency of Japan)](https://www.isa.go.jp/en/)
 - [JR东日本 – Suica与Welcome Suica](https://www.jreast.co.jp/e/pass/suica.html)
-- [PASMO官方网站](https://www.pasmo.co.jp/en/)
-- [Japan Rail Pass – 官方信息](https://www.japanrailpass.net/en/)
+- [PASMO官方网站](https://www.pasmo.co.jp/visitors/)
+- [Japan Rail Pass – 官方信息](https://japanrailpass.net/en/)
 - [GO TOKYO – 东京官方旅游指南（交通与IC卡）](https://www.gotokyo.org/en/plan/getting-around/ic-card/index.html)
 - [日本气象厅（天气/台风预警）](https://www.jma.go.jp/jma/indexe.html)
 
