@@ -90,7 +90,7 @@ export async function verifyGalleryImage({ url, heroUrl, name, category, region,
   return { ok: false, reason: 'vision check failed' };
 }
 
-export async function verifyHeroImage({ url, name, category, region, country, eventMode = false }) {
+export async function verifyHeroImage({ url, name, category, region, country, eventMode = false, existing = false }) {
   // Fail CLOSED. This used to return ok:true when the key was missing or the API
   // errored, so a run with an empty secret or a rate-limited window wrote every
   // unverified candidate straight onto the posts and logged it as ✅ FIXED.
@@ -136,6 +136,15 @@ export async function verifyHeroImage({ url, name, category, region, country, ev
               `REJECT a photo taken FROM this place rather than OF it: if the landmark is where the camera stood and is not itself in the frame, it is the wrong picture however correctly it is captioned.\n` +
               `REJECT the place in a state a visitor will not see: under construction, scaffolded, being restored, closed off, or before it was finished.\n` +
               `REJECT a photograph OF A SIGN, notice, plaque, map, poster, banner or screen — text about the place is not a picture of it, however clearly it names it.\n` +
+              // Re-audit is the OPPOSITE bar. "When unsure, REJECT" is right for
+              // choosing a new photo and wrong for judging one that already
+              // passed: the night the selection rules got stricter, the patrol
+              // re-ran them against live heroes and unpublished 29 posts —
+              // Positano, the Grand Palace, Florence's cathedral — over photos
+              // that were real, correct, and merely unglamorous.
+              (existing
+                ? `THIS PHOTO IS ALREADY PUBLISHED on this article and passed review before. You are re-auditing, not selecting. Answer ok:false ONLY if it is CLEARLY wrong: a different place or business, construction, signage, an unrelated subject. A stylistically weak but genuine photo of the right place (a rooftop detail, an interior, a quiet corner) must be KEPT — unpublishing a real page over taste is worse than an unglamorous photo. When unsure, KEEP (ok:true).\n`
+                : '') +
       `Answer ONLY JSON: {"ok": true|false, "reason": "<max 12 words>"}`,
           },
         ],

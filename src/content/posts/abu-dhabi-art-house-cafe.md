@@ -66,7 +66,7 @@ faq:
     a: Al Bateen Marina and the western Corniche are a short drive away, and Qasr Al Hosn and the Cultural Foundation are also reachable for a broader arts-and-history outing.
 aiGenerated: true
 updatedDate: '2026-07-26'
-draft: true
+draft: false
 ---
 
 ## Why go

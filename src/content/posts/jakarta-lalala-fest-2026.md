@@ -29,7 +29,7 @@ faq:
   - q: What should I wear given Jakarta's weather in August?
     a: August falls in Jakarta's dry season — expect hot, humid, sunny afternoons and only slightly cooler evenings. Light, breathable clothing, sun protection, and a refillable water bottle are worth packing.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why this one's worth the trip

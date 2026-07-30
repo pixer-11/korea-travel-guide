@@ -59,7 +59,7 @@ faq:
   - q: Is the Grand Palace ever closed to visitors?
     a: Yes — since it's an active royal site, it occasionally closes for state functions or ceremonies without much advance public notice. If your trip dates are fixed, check the day before, and be skeptical of anyone outside the gates claiming it's closed as a pretext to redirect you elsewhere.
 aiGenerated: true
-draft: true
+draft: false
 updatedDate: '2026-07-24'
 ---
 

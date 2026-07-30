@@ -46,7 +46,7 @@ faq:
   - q: What's nearby if I want to make a day of it?
     a: Chiba Shrine is just outside the park, and Chiba Zoological Park is a short trip away, making them easy to combine with a park visit.
 aiGenerated: true
-draft: true
+draft: false
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

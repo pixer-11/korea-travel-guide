@@ -178,6 +178,39 @@ export function koIssueLine(raw) {
     return `• ${lang}/${type} · ${page} — ${what}`;
   }
 
+  // validate-content.mjs writes most findings as an English PHRASE, not a
+  // CODE: — "PLACEHOLDER/no image [restaurant]: file.md", "TILDE unescaped in
+  // …". None matched below, so a night's warning arrived as five lines of
+  // "점검 항목 — 대상 미상": a count with no content, about placeholder heroes
+  // that were already live. Every phrase that script can print is mapped here;
+  // one it can't maps to the fallback, which at least names the file.
+  const PHRASES = [
+    [/^PLACEHOLDER\/no image(?:\s*\[([^\]]+)\])?/, (mm) => `대표사진이 없음 — 자리표시 이미지로 발행됨${mm[1] ? ` (${mm[1]})` : ''}`],
+    [/^TILDE unescaped/, () => '물결표(~)가 그대로 있어 본문 일부가 취소선으로 보임'],
+    [/^IMAGE MISMATCH suspect/, () => '대표사진이 주제와 무관해 보임'],
+    [/^EVENT missing eventStartDate/, () => '행사 시작일이 비어 있음 — 정렬·만료·검색 노출 불가'],
+    [/^NON-LATIN script in title/, () => '제목에 현지 문자가 섞여 있음'],
+    [/^QUERY-LIKE title/, () => '제목이 검색어 덩어리처럼 보임'],
+    [/^FILLER .*in title/, () => '제목에 상투 문구가 되살아남'],
+    [/^CITY echoed/, () => '제목에 도시명이 두 번 반복됨'],
+    [/^BROKEN TITLE/, () => '제목이 접속사에서 끊겨 있음'],
+    [/^GARBLED place\.name/, () => '장소 이름이 검색어 덤프처럼 저장됨'],
+    [/^DUPLICATE image/, () => '두 글이 같은 대표사진을 씀'],
+    [/^DUPLICATE place\.id/, () => '같은 장소가 두 글로 발행됨'],
+    [/^DUPLICATE event coverage/, () => '같은 행사를 두 글이 다룸'],
+    [/^CONTRADICTORY event dates/, () => '같은 행사인데 글마다 날짜가 다름'],
+    [/^SLASH in region/, () => '지역명에 "/"가 있어 주소가 깨짐'],
+    [/^ESSENTIALS .*incomplete/, () => '국가 기본정보 페이지에 빠진 항목이 있음'],
+    [/^WALL THUMB missing/, () => '카드 썸네일이 없어 빈 카드로 보임 (build-wall 실행 필요)'],
+  ];
+  for (const [re, render] of PHRASES) {
+    const mm = line.match(re);
+    if (mm) {
+      const f = facts(line);
+      return `• ${where(f)} — ${render(mm)}`;
+    }
+  }
+
   const m = line.match(/^([A-Z][A-Z0-9-]{2,}):\s*([\s\S]*)$/);
   if (!m) {
     // A line with no code carries only prose we cannot trust to be Korean.

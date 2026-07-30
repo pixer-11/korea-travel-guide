@@ -73,7 +73,7 @@ faq:
     a: Peliatan Royal Palace (Legong dance performances), local art studios, and an easy walk or scooter ride to central Ubud's markets and rice terraces.
 aiGenerated: true
 updatedDate: '2026-07-24'
-draft: true
+draft: false
 ---
 
 ## Why go

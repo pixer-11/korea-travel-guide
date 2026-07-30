@@ -37,7 +37,7 @@ faq:
   - q: What should I wear or expect atmosphere-wise?
     a: The dining room has a moody, design-led look — burgundy-red tones with wood and metal accents — so smart-casual dress fits the vibe better than strictly casual attire.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Sansan Bistro is worth knowing about

@@ -27,7 +27,7 @@ faq:
   - q: How much time should I plan for a visit?
     a: Most visitors spend 45 minutes to an hour here, enough time for a drink and to explore the different textured nooks for photos, especially if you're also planning to explore the rest of Blok M afterward.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

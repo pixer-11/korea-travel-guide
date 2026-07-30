@@ -29,7 +29,7 @@ faq:
   - q: Is there anything nearby to combine with the show?
     a: Bukit Jalil is home to the National Stadium and Axiata Arena, plus shopping malls with food courts right by the LRT station — useful for a pre-show meal before heading into the venue.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why this show matters

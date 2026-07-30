@@ -67,7 +67,7 @@ faq:
   - q: What else is nearby worth combining with a visit?
     a: Read Bridge, Boat Quay's shophouse row, Fort Canning Park, and the Central mall are all within a 10-15 minute walk along the river.
 aiGenerated: true
-draft: true
+draft: false
 ---
 
 ## Why go

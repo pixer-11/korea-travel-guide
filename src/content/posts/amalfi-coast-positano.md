@@ -38,7 +38,7 @@ faq:
   - q: What's the best beach in Positano?
     a: Spiaggia Grande is the main beach right in town, with cafés and beach clubs; Spiaggia di Fornillo, a short walk or boat ride west, is smaller and less crowded.
 aiGenerated: true
-draft: true
+draft: false
 ---
 
 ## Why Positano

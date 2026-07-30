@@ -50,7 +50,7 @@ faq:
   - q: What's nearby worth combining with the beach?
     a: Ojukheon House (birthplace of Yi I and Sin Saimdang), Gyeongpodae Pavilion overlooking the lake, and Anmok Beach's coffee street, all within a short drive or bus ride.
 aiGenerated: true
-draft: true
+draft: false
 ---
 
 ## Why go

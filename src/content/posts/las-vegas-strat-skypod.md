@@ -46,7 +46,7 @@ faq:
   - q: What's nearby if I want to combine this with other sights?
     a: The Neon Museum and Fremont Street Experience are a short ride north, and the Sahara and Circus Circus resorts are within walking distance to the south.
 aiGenerated: true
-draft: true
+draft: false
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

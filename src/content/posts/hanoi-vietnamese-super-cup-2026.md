@@ -50,7 +50,7 @@ Because the Super Cup is a single-city, single-night event, most travelers build
 
 ## When to go and how long to budget
 
-Plan to be in the neighborhood at least two to three hours before kickoff — not because gates necessarily open that early, but because street food, pre-match beer culture, and simply soaking in the build-up outside the stadium are half the experience. The match itself runs the standard ~90 minutes plus stoppage time, with extra time and penalties possible since a winner must be decided on the night. Late August in Hanoi is deep in the hot, humid, rainy season, so pack a light rain layer and expect the air to be thick and warm even after sunset.
+Plan to be in the neighborhood at least two to three hours before kickoff — not because gates necessarily open that early, but because street food, pre-match beer culture, and simply soaking in the build-up outside the stadium are half the experience. The match itself runs the standard \~90 minutes plus stoppage time, with extra time and penalties possible since a winner must be decided on the night. Late August in Hanoi is deep in the hot, humid, rainy season, so pack a light rain layer and expect the air to be thick and warm even after sunset.
 
 ## How to visit like a local
 

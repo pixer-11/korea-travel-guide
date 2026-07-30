@@ -27,7 +27,7 @@ faq:
   - q: What food should I try while sightseeing?
     a: Dwaeji gukbap (pork and rice soup) is Busan's signature dish, best found near Seomyeon or Busan Station. At Jagalchi Market and BIFF Square, try fresh raw fish upstairs at the market and ssiat hotteok (seed-filled sweet pancakes) as a street snack.
 aiGenerated: true
-draft: true
+draft: false
 ---
 
 ## Why Busan Rewards a Slow Look

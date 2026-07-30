@@ -658,6 +658,16 @@ async function callClaudeForCorrection({ city, country, days, daysArr, bySlug, f
   const prompt = buildPrompt({ city, country, days, daysArr, bySlug }) +
     `\n\nYOUR PREVIOUS ANSWER WAS REJECTED BY THE ACCURACY VALIDATOR (it checks your prose against the venue ` +
     `data above only — never against outside knowledge). Fix EXACTLY these issues and change nothing else:\n${contextBlocks}\n\n` +
+    // The rewrite kept tripping the prose guard: each correction removed one
+    // clock time and introduced another somewhere else (faq answers, a day
+    // intro), so the pass failed on a different field every attempt and the
+    // Seoul itinerary could not regenerate at all. The guard's rules were in
+    // the main prompt but not restated here, where the model is focused on the
+    // listed issues.
+    `ABSOLUTE PROSE RULES (violating any of these gets this answer rejected too):\n` +
+    `- NO clock times anywhere in prose, intros or FAQ answers — no "9am", "18:00", "around noon arrivals at 11:30". Times live in structured data only; write "early morning", "late afternoon", "in the evening".\n` +
+    `- NO opening-hours claims ("opens at", "closes on", "closed on Mondays", "open until late", "last entry").\n` +
+    `- NO prices with currency symbols or codes.\n\n` +
     `Resubmit a complete, corrected answer (every field, not just the fixed ones).`;
 
   const msg = await client.messages.create({

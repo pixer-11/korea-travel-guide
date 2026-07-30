@@ -27,7 +27,7 @@ faq:
   - q: Is ORYn easy to get to without a car?
     a: Yes — it's on Monkey Forest Road, so it's walkable from most central Ubud hotels and guesthouses, and any local driver or ride-hailing app will recognize the street by name if you need transport.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

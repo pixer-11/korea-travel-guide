@@ -40,6 +40,31 @@ jobs:
       - name: Build hero photo-wall thumbnails
         run: node scripts/build-wall.mjs
 
+      # Same gate publish.yml runs, same position: BEFORE the commit. This
+      # workflow pushes to main on its own, and the night it was left ungated it
+      # published four posts whose hero was the placeholder SVG — the exact
+      # defect the gate quarantines. Every path that commits posts needs the
+      # gate, or the gate is a fence with one panel missing.
+      - name: Hold back defective posts (publish gate)
+        continue-on-error: true
+        run: |
+          set -o pipefail
+          node scripts/gate-new-posts.mjs --since=HEAD 2>&1 | tee /tmp/gate.log
+
+      - name: Report held-back posts (Korean)
+        if: always()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
+          grep -q 'HELD BACK' /tmp/gate.log 2>/dev/null || exit 0
+          BODY=$(sed -n '/HELD BACK/,$p' /tmp/gate.log | head -30)
+          TXT=$(printf '🚧 문제가 있는 이벤트 글을 발행 직전에 걸러냈습니다\n%s' "$BODY")
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+            --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
+            --data-urlencode "text=$TXT" >/dev/null || true
+
       - name: Commit new events
         run: |
           git config user.name "content-bot"

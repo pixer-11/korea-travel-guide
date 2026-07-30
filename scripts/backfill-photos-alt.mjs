@@ -125,7 +125,7 @@ for (const f of files) {
 
   // Current hero first: if the AI approves what's already there, keep it.
   if (!heroIsStock && data.heroImage?.url && data.draft !== true) {
-    const cur = await verifyHeroImage({ url: data.heroImage.url, name: venueName, category: data.category, region: data.region, country: data.country });
+    const cur = await verifyHeroImage({ url: data.heroImage.url, name: venueName, category: data.category, region: data.region, country: data.country, existing: true });
     if (cur.ok) {
       // Record the acquittal. The weekly audit is a single vision call and does
       // get landmarks wrong (2026-07-27: it called Gyeonghoeru "a Gyeongju

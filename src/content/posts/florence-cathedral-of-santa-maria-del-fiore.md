@@ -50,7 +50,7 @@ faq:
   - q: Is the Duomo worth visiting if I skip the dome climb?
     a: Yes — the free nave visit alone shows Vasari's frescoed dome interior, Ghiberti and Donatello's stained glass, and Renaissance frescoes, and pairs well with a look at Giotto's Campanile and the Baptistery doors just outside.
 aiGenerated: true
-draft: true
+draft: false
 updatedDate: '2026-07-24'
 ---
 

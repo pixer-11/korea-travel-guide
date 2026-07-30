@@ -37,7 +37,7 @@ faq:
   - q: What else is nearby?
     a: Myeongdong Cathedral is a short walk south, and Lotte Department Store Main Branch and Shinsegae Department Store sit at the edges of the district for duty-free shopping.
 aiGenerated: true
-draft: true
+draft: false
 ---
 
 ## Why go

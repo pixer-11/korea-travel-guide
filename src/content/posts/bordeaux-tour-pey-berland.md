@@ -50,7 +50,7 @@ faq:
   - q: What else is nearby worth combining with the visit?
     a: Bordeaux Cathedral (Cathédrale Saint-André) is right across the square, and it's a short walk to the Grand Théâtre, Place Gambetta, and the shopping street Rue Sainte-Catherine.
 aiGenerated: true
-draft: true
+draft: false
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

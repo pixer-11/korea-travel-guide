@@ -34,7 +34,7 @@ faq:
   - q: What else is nearby?
     a: Oksan Seowon, a historic Confucian academy, is about 15 minutes away by car and pairs naturally with a Yangdong Village visit for a half-day trip.
 aiGenerated: true
-draft: true
+draft: false
 ---
 
 ## Why go
