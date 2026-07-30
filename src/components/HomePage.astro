@@ -138,7 +138,7 @@ const koreaLinks = [
   {latest.length > 0 && (
     <section class="section">
       <div class="wrap">
-        <div class="rule-head"><span class="kicker">{t('home.latestStories')}</span></div>
+        <div class="rule-head"><h2 class="kicker">{t('home.latestStories')}</h2></div>
         <div class="stories">
           {latest.map((post) => (
             <a class="story" href={localizePath(`/posts/${post.id}`, lang)}>
@@ -177,7 +177,7 @@ const koreaLinks = [
   <section class="section">
     <div class="wrap">
       <div class="rule-head">
-        <span class="kicker">{t('home.destinations')}</span>
+        <h2 class="kicker">{t('home.destinations')}</h2>
         <a href={localizePath('/destinations', lang)} class="rule-link">{t('nav.allDestinations')} →</a>
       </div>
       <p class="bento-note">{t('home.bentoNote').replace('{n}', String(live.length))}</p>
@@ -207,7 +207,7 @@ const koreaLinks = [
 
   <section class="section band">
     <div class="wrap">
-      <div class="rule-head"><span class="kicker">{t('home.travelEssentials')}</span></div>
+      <div class="rule-head"><h2 class="kicker">{t('home.travelEssentials')}</h2></div>
       <div class="essentials-strip">
         <a class="essential-card" href={localizePath('/essentials/visa', lang)}><span class="ico"><Emoji name="passport-control" /></span><div><h3>{t('ess.visa')}</h3><p>{t('ess.visaDek')}</p></div></a>
         <a class="essential-card" href={localizePath('/essentials/transport', lang)}><span class="ico"><Emoji name="metro" /></span><div><h3>{t('ess.transport')}</h3><p>{t('ess.transportDek')}</p></div></a>
@@ -234,7 +234,7 @@ const koreaLinks = [
   {moreGuides.length > 0 && (
     <section class="section">
       <div class="wrap">
-        <div class="rule-head"><span class="kicker">{t('home.moreToRead')}</span></div>
+        <div class="rule-head"><h2 class="kicker">{t('home.moreToRead')}</h2></div>
         <div class="grid">
           {moreGuides.map((post) => (
             <PostCard

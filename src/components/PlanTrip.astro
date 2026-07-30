@@ -42,7 +42,7 @@ const services = [
 ];
 ---
 <section class="plan-trip">
-  <div class="rule-head"><span class="kicker">{city ? t('widget.planTripCity').replace('{city}', cityLabel) : t('widget.planTrip')}</span></div>
+  <div class="rule-head"><h2 class="kicker">{city ? t('widget.planTripCity').replace('{city}', cityLabel) : t('widget.planTrip')}</h2></div>
   <div class="plan-grid">
     {services.map((s) => (
       <a

@@ -73,6 +73,7 @@ const ogPhoto = wallFor((posts ?? []).find((p: any) => p?.data?.heroImage?.url)?
 
   <section class="section">
     <div class="wrap">
+      <h2 class="sr-only">{t('nav.destinations')}</h2>
       <div class="country-grid">
         {countries.map((c) => (
           c.count > 0 ? (

@@ -440,7 +440,7 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
 
     {p && (p.address || p.rating || p.priceLevel !== undefined) && (
       <div class="fact-box">
-        <h4>{t('post.atAGlance')}</h4>
+        <h2>{t('post.atAGlance')}</h2>
         <div class="fact-grid">
           {placeName && <div class="fact"><span class="k">{t('post.place')}</span><span class="v">{placeLabel}</span></div>}
           {p.address && <div class="fact"><span class="k">{t('post.address')}</span><span class="v">{p.address}</span></div>}

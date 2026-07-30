@@ -13,6 +13,8 @@ export type Lang = 'en' | 'ko' | 'ja' | 'es' | 'zh';
 
 export const ui = {
   en: {
+    'a11y.list': 'The list',
+    'a11y.results': 'Matching places',
     'a11y.menu': 'Menu',
     'a11y.close': 'Close',
     'a11y.email': 'Email address',
@@ -385,6 +387,10 @@ export const ui = {
 
 
 
+
+
+    'a11y.list': '추천 목록',
+    'a11y.results': '검색 결과',
     'a11y.menu': '메뉴',
 
     'a11y.close': '닫기',
@@ -761,6 +767,10 @@ export const ui = {
 
 
 
+
+
+    'a11y.list': 'おすすめ一覧',
+    'a11y.results': '検索結果',
     'a11y.menu': 'メニュー',
 
     'a11y.close': '閉じる',
@@ -1137,6 +1147,10 @@ export const ui = {
 
 
 
+
+
+    'a11y.list': 'La selección',
+    'a11y.results': 'Resultados',
     'a11y.menu': 'Menú',
 
     'a11y.close': 'Cerrar',
@@ -1513,6 +1527,10 @@ export const ui = {
 
 
 
+
+
+    'a11y.list': '推荐列表',
+    'a11y.results': '搜索结果',
     'a11y.menu': '菜单',
 
     'a11y.close': '关闭',

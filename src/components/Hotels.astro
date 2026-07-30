@@ -19,7 +19,7 @@ const klookSearch = `https://www.klook.com/${klookLocale(lang)}/search/?query=${
 const href = `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7Cpid%7C754088&k_site=${encodeURIComponent(klookSearch)}`;
 ---
 <section class="tp-hotels">
-  <div class="rule-head"><span class="kicker">{t('widget.whereToStay').replace('{city}', cityLabel)}</span></div>
+  <div class="rule-head"><h2 class="kicker">{t('widget.whereToStay').replace('{city}', cityLabel)}</h2></div>
   <div class="hotels-cta">
     <p>{t('widget.hotelsDesc').replace('{city}', cityLabel)}</p>
     <a class="btn btn-primary" href={href} target="_blank" rel="sponsored noopener"><Emoji name="hotel" /> {t('widget.searchHotels').replace('{city}', cityLabel)}</a>

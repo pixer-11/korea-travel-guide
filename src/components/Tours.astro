@@ -46,7 +46,7 @@ const klookHref = city
 ---
 {city && (
   <section class="tp-tours">
-    <div class="rule-head"><span class="kicker">{t('widget.topThingsToDo').replace('{city}', cityLabel)}</span></div>
+    <div class="rule-head"><h2 class="kicker">{t('widget.topThingsToDo').replace('{city}', cityLabel)}</h2></div>
     {src ? (
       <div class="tp-widget-card">
         <script is:inline async src={src} charset="utf-8"></script>

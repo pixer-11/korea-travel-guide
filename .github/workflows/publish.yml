@@ -428,6 +428,15 @@ jobs:
         continue-on-error: true
         run: node scripts/check-wall-refs.mjs
 
+      # h1->h3 reads fine to the eye and as a broken outline to screen readers,
+      # crawlers and page-quality scorers. 245 pages had it; every one traced to
+      # a section label styled as text instead of written as a heading. Zero
+      # today — this keeps the next component honest.
+      - name: Check heading hierarchy
+        if: steps.distbuild.outcome == 'success'
+        continue-on-error: true
+        run: node scripts/check-heading-skips.mjs
+
       - name: Warn on missing tile thumbnails
         if: steps.wallrefs.outcome == 'failure'
         env:

@@ -75,6 +75,7 @@ const jsonLd = {
       {cards.length === 0 ? (
         <div class="fact-box" style="text-align:center"><p>{t('itin.emptyIndex')}</p></div>
       ) : (
+        <h2 class="sr-only">{t('a11y.list')}</h2>
         <div class="grid">
           {cards.map((c) => (
             <a class="card" href={localizePath(`/itinerary/${c.id}`, lang)}>

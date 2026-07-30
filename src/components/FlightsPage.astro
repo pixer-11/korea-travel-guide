@@ -2,12 +2,13 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Emoji from './Emoji.astro';
 import { SITE } from '../siteConfig';
-import type { Lang } from '../i18n/utils';
+import { useTranslations, type Lang } from '../i18n/utils';
 
 // Shared flights page for /flights (en) + /[lang]/flights. The Aviasales search
 // widget stays in place; only the surrounding copy is localized.
 interface Props { lang: Lang }
 const { lang } = Astro.props;
+const t = useTranslations(lang);
 
 const T = {
   en: {
@@ -106,6 +107,7 @@ const jsonLd = {
         <script is:inline async src={`https://tpemd.com/content?currency=usd&trs=553157&shmarker=754088&show_hotels=false&powered_by=true&locale=${lang}&searchUrl=www.aviasales.com%2Fsearch&primary_override=%23c8443a&color_button=%23c8443a&color_icons=%23857c6f&dark=%23201c17&light=%23FFFFFF&secondary=%23f4eee3&special=%23e6e1d6&color_focused=%23c8443a&border_radius=10&plain=true&promo_id=7879&campaign_id=100`} charset="utf-8"></script>
       </div>
 
+      <h2 class="sr-only">{t('a11y.list')}</h2>
       <div class="tp-flights-tips">
         {T.tips.map(([h, p]) => (
           <div>

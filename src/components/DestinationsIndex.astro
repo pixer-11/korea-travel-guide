@@ -65,7 +65,7 @@ const jsonLd = {
     <div class="wrap">
       {continents.map((cont) => (
         <div class="region-group">
-          <div class="rule-head"><a class="kicker" href={localizePath(`/continents/${cont.slug}`, lang)}>{contLabel(cont.name)} →</a></div>
+          <div class="rule-head"><h2 class="kicker"><a href={localizePath(`/continents/${cont.slug}`, lang)}>{contLabel(cont.name)} →</a></h2></div>
           <div class="country-grid">
             {cont.countries.map((c) => (
               c.count > 0 ? (

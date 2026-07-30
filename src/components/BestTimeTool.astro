@@ -116,6 +116,10 @@ const jsonLd = {
           <span><i style="background:linear-gradient(180deg,#e39a9a,#c8443a)"></i> {t('tool.busy')}</span>
         </div>
       </div>
+      {/* The page ran h1 straight into 157 h3 cards with no h2 anywhere — the
+          largest single heading skip on the site. The results list is the
+          section; it just never had a name a screen reader could see. */}
+      <h2 class="sr-only">{t('a11y.results')}</h2>
       <div id="results" class="results"></div>
       <p class="foot">{t('tool.foot')}</p>
     </div>

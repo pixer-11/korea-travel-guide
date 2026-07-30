@@ -80,6 +80,10 @@ const ogPhoto = wallFor((items ?? []).find((p) => p?.data?.heroImage?.url)?.data
 
   <section class="section">
     <div class="wrap">
+      {/* The ranked cards are h3s and there was nothing between them and the
+          h1 — 215 pages, five languages, all skipping a level. Invisible on
+          purpose: the h1 already names the list for sighted readers. */}
+      <h2 class="sr-only">{t('a11y.list')}</h2>
       <ol class="roundup">
         {items.map((post, i) => (
           <li class="roundup-item">
