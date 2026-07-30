@@ -207,9 +207,12 @@ try {
   const venueName = !rawName || looksLikeStreet ? titleName : rawName;
   const cands = [];
   // Landmarks/areas: Commons usually has several free shots of the same subject.
+  // Featured/quality-assessed Commons files first: when the pool has a shot the
+  // Wikimedia community itself flagged as excellent, it should lead.
+  const rank = (arr) => arr.sort((a, b) => (b.featured ? 1 : 0) - (a.featured ? 1 : 0));
   const at = post.fm.place?.lat && post.fm.place?.lng
     ? { lat: post.fm.place.lat, lng: post.fm.place.lng } : null;
-  for (const c of await commonsCandidates(`${venueName} ${region}`, 8, venueName, at)) {
+  for (const c of rank(await commonsCandidates(`${venueName} ${region}`, 8, venueName, at))) {
     cands.push({ url: c.url, credit: c.credit });
   }
   // Venues: the same Foursquare/Flickr sources the site's photo pipeline uses.
@@ -222,7 +225,10 @@ try {
 
   const seen = new Set([heroUrl]);
   for (const c of cands) {
-    if (slides.length >= 4) break;           // 4 photos + brand card = 5 slides
+    // Owner's spec (2026-07-31): 2-3 place photos + the closing name card.
+    // The title card is place photo #1, so up to two more real shots join it —
+    // a tighter set reads better than five slides of diminishing quality.
+    if (slides.length >= 3) break;           // 3 place photos + name card = 4 slides
     if (!c.url || seen.has(c.url)) continue;
     seen.add(c.url);
     let v;
@@ -286,7 +292,7 @@ const thText = [
   threadsPart,
   '',
   `🔗 원문: ${SITE}/posts/${post.slug}/`,
-  '사용법: 스레드는 옵션 하나 복사-붙여넣기 + 위 카드뉴스의 첫 장(대표 카드) 1장만 첨부하면 반응이 더 좋습니다(여러 장은 인스타용). 인스타는 카드뉴스 전체를 순서대로. 인스타 게시는 주 2~3회면 충분합니다.',
+  '사용법: 인스타·스레드 모두 위 사진 세트를 순서대로 전부 첨부하세요 (장소 사진 2~3장 + 마지막 네임카드). 스레드는 옵션 하나를 골라 글로, 인스타는 IG 캡션을 쓰면 됩니다. 게시는 주 2~3회면 충분합니다.',
 ].join('\n');
 
 // -------- send (or preview locally) --------
