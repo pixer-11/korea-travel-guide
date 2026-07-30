@@ -32,7 +32,7 @@ const ML_ACTION = '/api/subscribe';
       <form class="nl-form" data-ml-action={ML_ACTION} novalidate
         data-msg-ok={t('nl.msgOk')} data-msg-err={t('nl.msgErr')} data-msg-net={t('nl.msgNet')}
         data-checklist-href={lang === 'en' ? '/free/trip-checklist' : `/${lang}/free/trip-checklist`}>
-        <input type="email" name="email" placeholder="you@email.com" aria-label="Email address" autocomplete="email" required />
+        <input type="email" name="email" placeholder="you@email.com" aria-label={t('a11y.email')} autocomplete="email" required />
         <input type="hidden" name="region" value={interest.region} />
         <input type="hidden" name="lang" value={interest.lang} />
         <input type="hidden" name="source" value={interest.source} />

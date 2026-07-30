@@ -13,6 +13,9 @@ export type Lang = 'en' | 'ko' | 'ja' | 'es' | 'zh';
 
 export const ui = {
   en: {
+    'a11y.menu': 'Menu',
+    'a11y.close': 'Close',
+    'a11y.email': 'Email address',
     'nl.msgOk': "You're in! Grab your free trip-planning checklist",
     'nl.msgErr': "Hmm, that didn't go through. Please try again in a moment.",
     'nl.msgNet': "Network hiccup — please try again in a moment.",
@@ -381,6 +384,12 @@ export const ui = {
 
 
 
+
+    'a11y.menu': '메뉴',
+
+    'a11y.close': '닫기',
+
+    'a11y.email': '이메일 주소',
     'nl.msgOk': "가입 완료! 무료 여행 준비 체크리스트를 받아 가세요",
 
     'nl.msgErr': "전송이 안 됐어요. 잠시 후 다시 시도해 주세요.",
@@ -751,6 +760,12 @@ export const ui = {
 
 
 
+
+    'a11y.menu': 'メニュー',
+
+    'a11y.close': '閉じる',
+
+    'a11y.email': 'メールアドレス',
     'nl.msgOk': "登録完了！無料の旅行準備チェックリストをどうぞ",
 
     'nl.msgErr': "送信できませんでした。しばらくしてからもう一度お試しください。",
@@ -1121,6 +1136,12 @@ export const ui = {
 
 
 
+
+    'a11y.menu': 'Menú',
+
+    'a11y.close': 'Cerrar',
+
+    'a11y.email': 'Correo electrónico',
     'nl.msgOk': "¡Listo! Descarga tu lista de preparación de viaje gratis",
 
     'nl.msgErr': "No se pudo enviar. Inténtalo de nuevo en un momento.",
@@ -1491,6 +1512,12 @@ export const ui = {
 
 
 
+
+    'a11y.menu': '菜单',
+
+    'a11y.close': '关闭',
+
+    'a11y.email': '电子邮箱',
     'nl.msgOk': "订阅成功！领取免费行前清单",
 
     'nl.msgErr': "提交失败，请稍后再试。",

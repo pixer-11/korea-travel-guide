@@ -135,35 +135,41 @@ function regionRedirects() {
   let files = [];
   try { files = readdirSync(dir); } catch { return []; }
   const regions = new Set();
+  // Region hubs are built from LIVE posts only. A redirect may only point at a
+  // region that still has one — Gardena's single post was quarantined, its hub
+  // was therefore never built, and the "rescue" 301 delivered visitors to a
+  // 404 in five languages.
+  const liveRegions = new Set();
   const drafts = []; // quarantined posts — temporarily unpublished, not deleted
   for (const f of files) {
     if (!f.endsWith('.md')) continue;
     let fm = '';
     try { fm = readFileSync(join(dir, f), 'utf8').split('---')[1] || ''; } catch { continue; }
-    const m = /(?:^|\n)region:\s*['"]?([^'"\n]+)/.exec(fm);
-    const r = m?.[1]?.trim();
+    // Capture the whole line, then strip wrapping quotes. The old character
+    // class [^'"\n] stopped at the FIRST quote of any kind, so `region: Xi'an`
+    // was read as "Xi" — the live hub check then couldn't see Xi'an existed,
+    // and a quarantined Xian post fell back to the homepage instead of its hub.
+    const m = /(?:^|\n)region:\s*(.+)/.exec(fm);
+    const r = m?.[1]?.trim().replace(/^(['"])(.*)\1$/, '$2').trim();
     if (r && !r.includes('/')) regions.add(r);
     if (/(?:^|\n)draft:\s*true/.test(fm)) drafts.push({ slug: f.replace(/\.md$/, ''), region: r || '' });
+    else if (r && !r.includes('/')) liveRegions.add(r);
   }
   const lines = [];
+  // Host normalization. www. and the apex both answer 200 with full content;
+  // canonical tags mitigate the duplicate-index risk but no 301 consolidates
+  // link equity or stops crawlers spending budget on both hosts. Cloudflare
+  // honours absolute-URL rules in _redirects when the host is attached to the
+  // project, which www is (it serves the site today).
+  lines.push('https://www.wanderatlasguides.com/* https://wanderatlasguides.com/:splat 301');
   // Quarantined (draft:true) posts render no page, which would 404 any visitor
   // holding the old link — the user hit exactly that on the Manseok post. Send
   // them to the region hub instead; the moment the post is un-drafted the page
   // is back and this 301 is no longer generated.
-  for (const d of drafts) {
-    const reg = regionSlug(d.region);
-    if (!reg) continue;
-    for (const p of ['', '/ko', '/ja', '/es', '/zh']) {
-      lines.push(`${p}/posts/${d.slug}/ ${p}/regions/${reg}/ 301`);
-    }
-  }
-  for (const r of regions) {
-    const oldEnc = encodeURI(r.toLowerCase()); // what the old href resolved to
-    const next = regionSlug(r);
-    if (oldEnc !== next) lines.push(`/regions/${oldEnc}/ /regions/${next}/ 301`);
-  }
-  // Region NAME normalizations (2026-07-26 data cleanup): old region pages 301
-  // to the canonical city so any indexed URL keeps its equity.
+  // Region NAME normalizations: old region pages 301 to the canonical city so
+  // an indexed URL keeps its equity. Defined before the drafts loop because the
+  // drafts loop must apply it too — a quarantined Xian post used to redirect to
+  // /regions/xian/, a spelling whose hub never existed.
   const alias = {
     'new-york-city': 'new-york',
     'metro-manila': 'manila',
@@ -171,7 +177,32 @@ function regionRedirects() {
     'quezon-city': 'manila',
     xian: 'xi-an',
   };
-  for (const [from, to] of Object.entries(alias)) lines.push(`/regions/${from}/ /regions/${to}/ 301`);
+  const canon = (name) => {
+    const raw = regionSlug(name);
+    return alias[raw] ?? raw;
+  };
+  // Region hubs are built from LIVE posts only, so a redirect may only point at
+  // one that still has a live post: Gardena's single post was quarantined, its
+  // hub was therefore never built, and the "rescue" 301 delivered visitors to a
+  // 404 in five languages. No live hub → fall back to the homepage, a poor
+  // landing but an existing one.
+  const liveHubs = new Set([...liveRegions].map(canon));
+  for (const d of drafts) {
+    const reg = canon(d.region);
+    for (const p of ['', '/ko', '/ja', '/es', '/zh']) {
+      lines.push(`${p}/posts/${d.slug}/ ${reg && liveHubs.has(reg) ? `${p}/regions/${reg}/` : (p || '/')} 301`);
+    }
+  }
+  for (const r of regions) {
+    const oldEnc = encodeURI(r.toLowerCase()); // what the old href resolved to
+    const next = regionSlug(r);
+    if (oldEnc !== next) lines.push(`/regions/${oldEnc}/ /regions/${next}/ 301`);
+  }
+  // The alias lines used to exist only for the English path, so
+  // /ko/regions/xian/ (reachable from redirected localized post URLs) 404ed.
+  for (const [from, to] of Object.entries(alias)) {
+    for (const p of ['', '/ko', '/ja', '/es', '/zh']) lines.push(`${p}/regions/${from}/ ${p}/regions/${to}/ 301`);
+  }
   // Deleted duplicate event post → its kept twin.
   for (const p of ['', '/ko', '/ja', '/es', '/zh']) {
     lines.push(`${p}/posts/multiple-cities-tour-de-france-femmes/ ${p}/posts/nice-finish-various-french-stages-tour-de-france-femmes-avec-zwift/ 301`);

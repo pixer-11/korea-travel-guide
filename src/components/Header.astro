@@ -31,7 +31,7 @@ const navGroups = CONT_ORDER
     <a href={localizePath('/', lang)} class="brand"><Logo size={26} /> <span>{SITE.name}</span></a>
 
     <input type="checkbox" id="nav-toggle" hidden />
-    <label for="nav-toggle" class="menu-toggle" aria-label="Menu" role="button" tabindex="0" aria-expanded="false" aria-controls="site-nav">
+    <label for="nav-toggle" class="menu-toggle" aria-label={t('a11y.menu')} role="button" tabindex="0" aria-expanded="false" aria-controls="site-nav">
       <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
         <line x1="3" y1="6" x2="21" y2="6" /><line x1="3" y1="12" x2="21" y2="12" /><line x1="3" y1="18" x2="21" y2="18" />
       </svg>

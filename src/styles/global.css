@@ -23,6 +23,12 @@
   /* Dancheong-inspired accents */
   --accent: #c8443a;      /* vermilion */
   --accent-deep: #a5352c;
+  /* Text-on-background needs more contrast than a fill behind white text does:
+     --accent measures 4.37:1 on the paper background (AA wants 4.5) and --gold
+     2.93:1. These two exist ONLY for text; fills keep --accent. */
+  --accent-text: #a5352c;
+  --gold-text: #8a6414;
+  --line-strong: #b3a689; /* interactive borders — --line is 1.23:1, invisible */
   --accent-soft: #f6e3df;
   --pine: #2f5d4f;        /* traditional green */
   --gold: #b8862f;
@@ -66,6 +72,9 @@ html.dark {
     --bg-glow: rgba(52, 74, 66, 0.22);
     --accent: #e0685c;
     --accent-deep: #c8534a;
+    --accent-text: #ef8d80; /* dark bg wants LIGHTER text, not deeper */
+    --gold-text: #d6ab5c;   /* passes on the dark background as-is */
+    --line-strong: #5c5240;
     --accent-soft: #33221f;
     --pine: #6fae98;
     --gold: #d6ab5c;
@@ -682,9 +691,9 @@ main { flex: 1; width: 100%; }
 .fact { display: flex; flex-direction: column; gap: 0.15rem; }
 .fact .k { font-size: 0.74rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted); }
 .fact .v { font-weight: 600; color: var(--ink); }
-.fact .phone-link { color: var(--accent); text-decoration: none; }
+.fact .phone-link { color: var(--accent-text); text-decoration: none; }
 .fact .phone-link:hover { text-decoration: underline; }
-.stars { color: var(--gold); }
+.stars { color: var(--gold-text); }
 
 .fact-box .hours { margin-top: 1.1rem; border-top: 1px solid var(--line); padding-top: 0.9rem; }
 .fact-box .hours > summary { display: flex; align-items: center; gap: 0.4rem; cursor: pointer; font-size: 0.74rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted); list-style: none; }
@@ -705,7 +714,7 @@ main { flex: 1; width: 100%; }
    the one who wants the whole-city comparison. Slightly larger than the credit
    line above it, because it is a destination and that is an attribution. */
 .fact-box .bz-more { margin: 0.35rem 0 0; font-size: 0.78rem; }
-.fact-box .bz-more a { color: var(--accent); font-weight: 600; text-decoration: none; }
+.fact-box .bz-more a { color: var(--accent-text); font-weight: 600; text-decoration: none; }
 .fact-box .bz-more a:hover { text-decoration: underline; }
 .fact-box .bz-credit a { color: var(--muted); text-decoration: underline; }
 
@@ -744,9 +753,9 @@ main { flex: 1; width: 100%; }
 
 /* ===== Homepage — Wander Atlas magazine ===== */
 .kicker { font-family: var(--font-body); font-size: 0.8125rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); }
-.kicker.gold { color: var(--gold); }
+.kicker.gold { color: var(--gold-text); }
 .rule-head { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; margin-bottom: 1.6rem; padding-bottom: 0.8rem; border-bottom: 1px solid var(--line); }
-.rule-link { font-size: 0.85rem; font-weight: 600; color: var(--accent); text-decoration: none; white-space: nowrap; }
+.rule-link { font-size: 0.85rem; font-weight: 600; color: var(--accent-text); text-decoration: none; white-space: nowrap; }
 .rule-link:hover { text-decoration: underline; }
 
 /* Cover story */
@@ -845,9 +854,11 @@ main { flex: 1; width: 100%; }
 /* Newsletter */
 .newsletter { background: var(--accent); color: #fff; padding: clamp(3rem, 7vh, 5.5rem) 0; }
 .nl-inner { max-width: 620px; margin: 0 auto; text-align: center; }
-.nl-inner .kicker.gold { color: #f4d9a8; }
+/* On the vermilion band the gold kicker measured 2.43:1 and the dek 2.99:1 —
+   the band is the one place the reader has just been asked for an email. */
+.nl-inner .kicker.gold { color: #ffffff; }
 .nl-inner h2 { font-family: var(--font-display); font-weight: 400; font-size: clamp(1.7rem, 3.2vw, 2.6rem); margin: 0.5rem 0 0.7rem; color: #fff; }
-.nl-dek { color: rgba(255,255,255,0.9); line-height: 1.6; }
+.nl-dek { color: #ffffff; line-height: 1.6; }
 .nl-form { display: flex; gap: 0.6rem; margin: 1.6rem auto 0; max-width: 460px; }
 .nl-form input { flex: 1; min-width: 0; padding: 0.85rem 1rem; border-radius: var(--r-pill); border: none; font-size: 1rem; font-family: inherit; }
 .nl-form .btn-primary { background: #fff; color: var(--accent); border-radius: var(--r-pill); }
@@ -856,7 +867,7 @@ main { flex: 1; width: 100%; }
 .nl-note-ok { color: #b8f0d0; font-weight: 600; }
 .nl-note-ok a { color: #fff; text-decoration: underline; font-weight: 700; }
 .nl-note-err { color: #ffc9c2; }
-.nl-bonus { margin-top: 0.5rem; font-size: 0.92rem; font-weight: 600; color: #ffdc8a; }
+.nl-bonus { margin-top: 0.5rem; font-size: 0.92rem; font-weight: 600; color: #ffe9c9; }
 .newsletter-compact { padding: clamp(1.8rem, 4vw, 2.6rem) 0; border-radius: var(--r-lg); margin: 2.75rem 0 0.5rem; }
 .newsletter-compact .nl-inner h2 { font-size: clamp(1.35rem, 2.4vw, 1.8rem); }
 .newsletter-compact .nl-dek { font-size: 0.92rem; }
@@ -1158,3 +1169,26 @@ html[lang^='zh'] {
 }
 .skip-link:focus { left: 0; }
 main:focus { outline: none; }
+
+
+/* Dark mode: --accent lightens to #e0685c for TEXT legibility, but as a FILL
+   behind white text that same lightening drops the buttons to 3.33:1. Fills
+   go back down to a deep vermilion here; text elsewhere keeps the light one. */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) .btn-primary,
+  :root:not([data-theme='light']) .book-btn-primary,
+  :root:not([data-theme='light']) .sb-primary,
+  :root:not([data-theme='light']) .newsletter,
+  :root:not([data-theme='light']) .nav-trip-n,
+  :root:not([data-theme='light']) .save-btn[aria-pressed='true'] {
+    background: #b3443a;
+  }
+}
+:root[data-theme='dark'] .btn-primary,
+:root[data-theme='dark'] .book-btn-primary,
+:root[data-theme='dark'] .sb-primary,
+:root[data-theme='dark'] .newsletter,
+:root[data-theme='dark'] .nav-trip-n,
+:root[data-theme='dark'] .save-btn[aria-pressed='true'] {
+  background: #b3443a;
+}

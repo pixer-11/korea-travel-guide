@@ -31,9 +31,22 @@ export function pickRepHeroUrl(posts: HeroPost[]): string {
 // neither srcset nor lazy-loading — so whatever size this returns is downloaded
 // in full, immediately, for every tile. As stored they are 1920px originals:
 // 17 tiles made the homepage a 12.6MB page that took 62 seconds on slow 4G.
-// Both hosts render any width on request; 960 is the smallest Wikimedia
-// reliably serves for these files (below that some return HTTP 400).
+//
+// First choice is our own /wall/ thumbnail: build-wall.mjs already renders every
+// hero as a 640px WebP (15–90KB) named sha1(heroUrl), so the tile can be served
+// from our domain — no Wikimedia hotlink, no missing Cache-Control, no 12MB.
+// The hash must be computed on the STORED url, exactly as build-wall saw it.
+// Posts newer than the last wall build fall back to a downsized remote render;
+// 960 is the smallest width Wikimedia reliably serves (below that, HTTP 400).
+import { createHash } from 'node:crypto';
+import { existsSync } from 'node:fs';
+import { join } from 'node:path';
+
+const WALL_DIR = join(process.cwd(), 'public', 'wall');
+
 export function tileSize(url: string): string {
+  const name = `${createHash('sha1').update(url).digest('hex').slice(0, 16)}.webp`;
+  if (existsSync(join(WALL_DIR, name))) return `/wall/${name}`;
   return url
     .replace(/\/(\d{3,4})px-/, (m, w) => (Number(w) > 960 ? '/960px-' : m))
     .replace(/(fastly\.4sqi\.net\/img\/general\/)original\//, '$1width960/');

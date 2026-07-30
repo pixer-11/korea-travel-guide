@@ -5,6 +5,7 @@ import Newsletter from './Newsletter.astro';
 import PlanTrip from './PlanTrip.astro';
 import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
+import { slugifyRegion } from '../lib/slug';
 import countryFacts from '../../data/country-facts.json';
 import countriesData from '../../data/countries.json';
 import { wallFor } from '../lib/wall';
@@ -158,7 +159,11 @@ const ogPhoto = wallFor((countryPosts ?? []).find((p: any) => p?.data?.heroImage
           <ul class="ess-cities">
             {topCities.map(([region, n]) => (
               <li>
-                <a href={localizePath(`/regions/${region.toLowerCase().replace(/\s+/g, '-')}`, lang)}>
+                {/* slugifyRegion, not a local lowercase-and-dash: the ad-hoc
+                    version kept apostrophes and accents, so Xi'an, Alcañiz and
+                    Buñol linked to /regions/xi'an/ etc. — 13 dead links on the
+                    localized essentials pages, where no rescue redirect exists. */}
+                <a href={localizePath(`/regions/${slugifyRegion(region)}`, lang)}>
                   {localizePlace(region, lang)} <span class="ess-count">{n}</span>
                 </a>
               </li>

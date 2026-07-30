@@ -249,7 +249,7 @@ const availableLangs: Lang[] = ['en', 'ko', 'ja', 'es', 'zh'];
   localizedLangs={availableLangs}
 >
   <article class="article wrap itin-page">
-    <nav class="crumbs" aria-label="Breadcrumb">
+    <nav class="crumbs" aria-label={t('a11y.breadcrumb')}>
       <a href={lang === 'en' ? '/' : `/${lang}/`}>{t('post.home')}</a> <span>/</span>
       <a href={localizePath(`/destinations/${countrySlug}`, lang)}>{countryLabel}</a> <span>/</span>
       {!sameRegionCountry && (
