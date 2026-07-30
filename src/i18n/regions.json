@@ -4283,5 +4283,282 @@
       "getting": "La mayoría de los viajeros llegan por el Aeropuerto Internacional Lal Bahadur Shastri (VNS), en Babatpur, a unos 26 km de los ghats, desde donde toman un taxi prepago o el autobús del aeropuerto hacia el centro. Los trenes de larga distancia son otra opción muy habitual, llegando a la estación de Varanasi Junction (código BSB), el principal nudo ferroviario de la ciudad, que la conecta con Delhi, Calcuta y otras grandes urbes. Quienes viajan por tierra desde Uttar Pradesh o Bihar también pueden llegar a Varanasi en autobuses regionales desde localidades cercanas.",
       "days": "Conviene reservar entre 2 y 3 días para recorrer los ghats más importantes, dar un paseo en barca, visitar el templo Kashi Vishwanath y hacer una excursión de medio día a la cercana Sarnath."
     }
+  },
+  "Aomori": {
+    "en": {
+      "blurb": "Aomori sits at the northern tip of Honshu, where volcanic peaks, deep lakes, and the Sea of Japan meet — a region famous for its wild Nebuta Festival, prized apple orchards, and some of Japan's heaviest snowfall. It's a gateway city too, perched at the mouth of the Seikan Tunnel that links Honshu to Hokkaido.",
+      "getting": "Most travellers arrive via the Tohoku Shinkansen, which terminates at Shin-Aomori Station roughly ~3 hours from Tokyo on the Hayabusa service, with a short local train connecting on to central Aomori Station. Flying into Aomori Airport (AOJ), served by domestic routes from cities like Tokyo, Osaka, and Sapporo, is the faster alternative, with buses linking the airport to the city center.",
+      "days": "Plan on ~2-3 days to cover Aomori City's main sights and a taste of the surrounding region, or longer if you want to venture out to Lake Towada or Mount Hakkoda."
+    },
+    "ko": {
+      "blurb": "아오모리는 혼슈 최북단에 자리해 있으며, 화산 봉우리와 깊은 호수, 그리고 동해(일본해)가 만나는 곳입니다. 역동적인 네부타 마츠리 축제와 최상급 사과 과수원, 그리고 일본에서 손꼽히는 폭설 지대로도 유명하죠. 혼슈와 홋카이도를 잇는 세이칸 터널의 입구에 자리한 만큼, 관문 도시로서의 역할도 톡톡히 하고 있습니다.",
+      "getting": "대부분의 여행자는 도호쿠 신칸센을 이용해 도착하는데, 하야부사 열차로 도쿄에서 약 3시간이면 종착역인 신아오모리역에 닿습니다. 이후 짧은 재래선 열차로 갈아타면 아오모리 중심역까지 이동할 수 있어요. 좀 더 빠르게 이동하고 싶다면 아오모리 공항(AOJ)을 이용하는 방법도 있습니다. 도쿄, 오사카, 삿포로 등 일본 주요 도시에서 국내선이 운항되며, 공항에서 시내까지는 버스로 연결됩니다.",
+      "days": "아오모리 시내의 주요 명소와 주변 지역을 둘러보려면 약 2~3일 정도를 계획하면 좋습니다. 도와다 호수나 핫코다산까지 발길을 넓히고 싶다면 며칠 더 여유를 두는 것이 좋아요."
+    },
+    "ja": {
+      "blurb": "青森は本州最北端に位置し、火山の峰々と深い湖、そして日本海が出会う地。勇壮なねぶた祭、実り豊かなりんご畑、そして日本屈指の豪雪地帯として知られています。本州と北海道を結ぶ青函トンネルの入り口にあたる、まさに玄関口の街でもあります。",
+      "getting": "多くの旅行者は東北新幹線を利用して訪れます。はやぶさ号なら東京から約3時間で終点の新青森駅に到着し、そこから短い区間を在来線に乗り換えて青森駅へ向かいます。より早く着きたい場合は青森空港(AOJ)を利用するのがおすすめで、東京・大阪・札幌など国内各都市からの便があり、空港からはバスで市内へアクセスできます。",
+      "days": "青森市内の主な見どころと周辺エリアを一通り楽しむなら2~3日程度を見ておくとよいでしょう。十和田湖や八甲田山まで足を延ばしたい場合は、もう少し日数を確保するのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Aomori se encuentra en la punta norte de Honshu, donde picos volcánicos, lagos profundos y el mar de Japón convergen en un paisaje único. Es una región célebre por su desenfrenado Festival Nebuta, sus preciados huertos de manzanas y algunas de las nevadas más intensas de todo Japón. Además, es una auténtica ciudad puerta de entrada, situada justo en la boca del túnel Seikan, que conecta Honshu con Hokkaido.",
+      "getting": "La mayoría de los viajeros llegan en el Shinkansen Tohoku: el servicio Hayabusa hace el trayecto desde Tokio en unas 3 horas hasta su terminal en la estación de Shin-Aomori, desde donde un breve trayecto en tren local lleva hasta la estación central de Aomori. Volar hasta el Aeropuerto de Aomori (AOJ) es la alternativa más rápida, con vuelos domésticos desde ciudades como Tokio, Osaka y Sapporo, y autobuses que conectan el aeropuerto con el centro de la ciudad.",
+      "days": "Conviene reservar entre 2 y 3 días para recorrer los principales atractivos de la ciudad de Aomori y probar un poco de la región circundante, o más tiempo si quieres aventurarte hasta el lago Towada o el monte Hakkoda."
+    },
+    "zh": {
+      "blurb": "青森坐落于本州最北端,是火山群峰、幽深湖泊与日本海交汇之地。这里以狂野奔放的睡魔祭(Nebuta Festival)、品质上乘的苹果园,以及日本数一数二的暴雪天气而闻名。作为连接本州与北海道的青函隧道的门户城市,青森同时也是一座重要的交通枢纽。",
+      "getting": "大多数游客选择乘坐东北新干线前往青森,搭乘隼号(Hayabusa)列车从东京出发约3小时即可抵达终点站新青森站,再换乘一小段在来线列车便可到达青森站市中心。若想更快抵达,也可以选择飞往青森机场(AOJ),该机场有来自东京、大阪、札幌等城市的国内航班,机场也有巴士连接市区。",
+      "days": "游览青森市的主要景点并体验周边地区,建议安排2-3天;若还想前往十和田湖或八甲田山,则需要预留更多时间。"
+    }
+  },
+  "Chandigarh": {
+    "en": {
+      "blurb": "Chandigarh is India's first planned city, laid out by Swiss-French architect Le Corbusier with wide sector-based boulevards, and today shares its role as capital of both Punjab and Haryana. Known for its ordered grid, expansive gardens, and modernist civic architecture, it stands apart from the organic sprawl of most Indian cities.",
+      "getting": "Most travellers fly into Chandigarh International Airport (IXC), located in Mohali on the edge of the tri-city area, or arrive by train at Chandigarh Junction (station code CDG), which sits on the Delhi–Kalka line with connections such as the Shatabdi from New Delhi. From the airport or station, the city centre is a short taxi or auto-rickshaw ride away.",
+      "days": "Plan on ~2 days to take in the city's signature sights, including its planned sectors, gardens, and Le Corbusier-designed civic buildings."
+    },
+    "es": {
+      "blurb": "Chandigarh es la primera ciudad planificada de la India, diseñada por el arquitecto suizo-francés Le Corbusier con amplios bulevares organizados por sectores. Hoy en día comparte su papel como capital de Punjab y Haryana. Reconocida por su trazado ordenado en cuadrícula, sus extensos jardines y su arquitectura cívica modernista, se distingue del crecimiento orgánico y desordenado de la mayoría de las ciudades indias.",
+      "getting": "La mayoría de los viajeros llegan en avión al Aeropuerto Internacional de Chandigarh (IXC), ubicado en Mohali, en el borde del área conocida como la tri-city, o en tren a Chandigarh Junction (código de estación CDG), que se encuentra en la línea Delhi–Kalka con conexiones como el Shatabdi desde Nueva Delhi. Desde el aeropuerto o la estación, el centro de la ciudad está a un corto trayecto en taxi o auto-rickshaw.",
+      "days": "Se recomienda dedicar unos 2 días para recorrer los principales atractivos de la ciudad, incluidos sus sectores planificados, sus jardines y los edificios cívicos diseñados por Le Corbusier."
+    },
+    "ja": {
+      "blurb": "チャンディーガルはインド初の計画都市で、スイス系フランス人建築家ル・コルビュジエによって、セクター制の広い並木道を基本デザインとして設計されました。現在はパンジャーブ州とハリヤーナー州の州都を兼ねています。整然とした格子状の区画、広大な庭園、モダニズム建築の公共施設で知られ、多くのインドの都市に見られる有機的で無秩序な広がりとは一線を画しています。",
+      "getting": "多くの旅行者は、トリシティ地域の端に位置するモハーリーにあるチャンディーガル国際空港(IXC)を利用するか、デリー・カルカ線上にあり、ニューデリーからのシャタブディ号などが発着するチャンディーガル・ジャンクション駅(駅コードCDG)から列車で訪れます。空港や駅からは、タクシーやオートリクシャーで市街中心部まで短時間で行くことができます。",
+      "days": "計画都市ならではのセクター、庭園、ル・コルビュジエ設計の公共建築など、街の見どころを巡るには2日ほどを見ておくとよいでしょう。"
+    },
+    "ko": {
+      "blurb": "찬디가르는 인도 최초의 계획도시로, 스위스계 프랑스인 건축가 르 코르뷔지에가 구역(섹터) 단위의 넓은 대로를 중심으로 설계했습니다. 오늘날에는 펀자브주와 하리아나주의 주도 역할을 함께 맡고 있습니다. 질서정연한 격자형 구조와 광활한 정원, 모더니즘 양식의 공공 건축물로 유명하며, 대부분의 인도 도시들이 보여주는 유기적이고 무질서한 확장과는 뚜렷한 차이를 보입니다.",
+      "getting": "대부분의 여행객은 트라이시티 지역 외곽 모할리에 위치한 찬디가르 국제공항(IXC)을 이용하거나, 델리-칼카 노선에 위치하며 뉴델리발 샤타브디 등의 열차가 연결되는 찬디가르 정션역(역 코드 CDG)을 통해 기차로 도착합니다. 공항이나 역에서 시내 중심가까지는 택시나 오토릭샤로 짧게 이동할 수 있습니다.",
+      "days": "구역별로 나뉜 계획도시의 모습과 정원, 르 코르뷔지에가 설계한 공공 건축물 등 도시의 대표적인 볼거리를 둘러보려면 약 2일 정도를 계획하는 것이 좋습니다."
+    },
+    "zh": {
+      "blurb": "昌迪加尔是印度第一座规划城市,由瑞士裔法国建筑师勒·柯布西耶设计,以宽阔的分区大道为特色。如今,它同时担任旁遮普邦和哈里亚纳邦的首府。这座城市以整齐的网格布局、广阔的园林以及现代主义公共建筑而闻名,与印度大多数城市有机蔓延、杂乱无章的格局形成鲜明对比。",
+      "getting": "大多数游客选择飞抵位于莫哈里(Mohali)、地处三城区边缘的昌迪加尔国际机场(IXC),或乘火车抵达昌迪加尔总站(站点代码CDG)。该站位于德里—卡尔卡铁路线上,可衔接从新德里始发的沙塔布迪特快等列车。从机场或车站前往市中心,只需搭乘出租车或人力三轮车(auto-rickshaw)即可轻松抵达。",
+      "days": "建议预留约2天时间,游览这座城市的标志性景点,包括其规划分区、园林景观,以及勒·柯布西耶设计的公共建筑。"
+    }
+  },
+  "Makati City": {
+    "en": {
+      "blurb": "Makati is the financial and business heart of Metro Manila, a dense skyline of glass towers, embassies, and five-star hotels wrapped around the manicured Ayala Center shopping and green space. It's as much a lifestyle destination as a business one, known for upscale malls, rooftop bars, and leafy pockets like Ayala Triangle Gardens amid the high-rise bustle.",
+      "getting": "Most travellers arrive via Ninoy Aquino International Airport (MNL), roughly 6 km/~15 minutes by car or taxi/rideshare from the city center (longer in heavy traffic); within the city, the elevated MRT-3 line's Ayala and Buendia stations connect Makati's central business district to greater Metro Manila.",
+      "days": "Allow ~2-3 days to cover Makati's malls, museums, dining, and nightlife at a comfortable pace, or use it as a 1-2 night base before exploring the wider Metro Manila area."
+    },
+    "ko": {
+      "blurb": "마카티는 메트로 마닐라의 금융·비즈니스 중심지로, 유리 마천루와 각국 대사관, 5성급 호텔들이 잘 정돈된 아얄라 센터 쇼핑가와 녹지 공간을 둘러싸고 빼곡히 늘어서 있습니다. 이곳은 비즈니스 지구인 동시에 라이프스타일의 중심지이기도 해서, 고급 쇼핑몰과 루프탑 바, 그리고 고층 빌딩 사이사이 자리한 아얄라 트라이앵글 가든 같은 녹음이 우거진 쉼터로도 유명합니다.",
+      "getting": "대부분의 여행객은 니노이 아키노 국제공항(MNL)을 통해 입국하며, 시내 중심가까지는 차나 택시·차량 공유 서비스로 약 6km, 15분 정도 소요됩니다(교통 체증 시 더 오래 걸릴 수 있음). 시내에서는 고가로 운행되는 MRT-3 노선의 아얄라역과 부엔디아역이 마카티 중심업무지구와 메트로 마닐라 전역을 연결해 줍니다.",
+      "days": "마카티의 쇼핑몰, 박물관, 다양한 맛집과 나이트라이프를 여유롭게 둘러보려면 약 2~3일 정도가 적당하며, 메트로 마닐라 전역을 더 폭넓게 탐방하기 전 1~2박 머무는 거점 도시로 활용하기에도 좋습니다."
+    },
+    "ja": {
+      "blurb": "マカティはメトロマニラの金融・ビジネスの中心地で、ガラス張りの高層ビル群や各国大使館、五つ星ホテルが、緑豊かで整然としたアヤラ・センターのショッピングエリアを取り囲むように密集しています。ビジネス街であると同時にライフスタイルの発信地でもあり、高級ショッピングモールやルーフトップバー、そして高層ビルの合間に広がるアヤラ・トライアングル・ガーデンのような緑地でも知られています。",
+      "getting": "多くの旅行者はニノイ・アキノ国際空港(MNL)を利用して到着します。市街中心部までは車やタクシー・配車サービスで約6km、15分ほど(渋滞時はそれ以上)です。市内では高架鉄道MRT-3のアヤラ駅とブエンディア駅が、マカティの中心business地区とメトロマニラ各地を結んでいます。",
+      "days": "マカティのショッピングモールや博物館、グルメ、ナイトライフをゆったり楽しむには2〜3日ほど見ておくとよいでしょう。あるいは、メトロマニラ全域を巡る旅の拠点として1〜2泊するのもおすすめです。"
+    },
+    "es": {
+      "blurb": "Makati es el corazón financiero y empresarial del Gran Manila, un denso perfil urbano de torres de cristal, embajadas y hoteles de cinco estrellas que rodean el cuidado Ayala Center, con sus tiendas y zonas verdes. Es tanto un destino de estilo de vida como de negocios, conocido por sus centros comerciales de lujo, bares en azoteas y rincones frondosos como los Jardines del Triángulo Ayala en medio del bullicio de los rascacielos.",
+      "getting": "La mayoría de los viajeros llegan por el Aeropuerto Internacional Ninoy Aquino (MNL), a unos 6 km/~15 minutos en coche, taxi o servicio de transporte privado del centro de la ciudad (más tiempo si hay mucho tráfico); dentro de la ciudad, las estaciones Ayala y Buendia de la línea elevada MRT-3 conectan el distrito financiero de Makati con el resto del Gran Manila.",
+      "days": "Se recomienda dedicar entre 2 y 3 días para recorrer con calma los centros comerciales, museos, restaurantes y la vida nocturna de Makati, o bien usarlo como base de 1 a 2 noches antes de explorar el resto del Gran Manila."
+    },
+    "zh": {
+      "blurb": "马卡蒂是大马尼拉地区的金融与商业中心,鳞次栉比的玻璃摩天大楼、各国使馆和五星级酒店环绕着精心打理的阿亚拉中心购物区与绿地。这里不仅是商业枢纽,也是极具生活气息的目的地,以高档购物中心、屋顶酒吧,以及在高楼林立中难得一见的阿亚拉三角公园等绿意盎然的角落而闻名。",
+      "getting": "大多数游客经尼诺伊·阿基诺国际机场(MNL)抵达,乘车、出租车或网约车到市中心约6公里,车程约15分钟(交通拥堵时会更久);市内可搭乘高架的MRT-3线,通过阿亚拉站和布恩迪亚站,将马卡蒂中央商务区与大马尼拉其他地区连接起来。",
+      "days": "建议预留约2到3天时间,从容游览马卡蒂的商场、博物馆、美食与夜生活,或者以此为据点住上1到2晚,再前往大马尼拉其他地区探索。"
+    }
+  },
+  "Makati": {
+    "en": {
+      "blurb": "Makati is the Philippines' financial and business capital, a dense skyline of glass towers, embassies, and malls layered over leafy residential enclaves like Forbes Park. It's also one of Metro Manila's most walkable and orderly districts, with the upscale Ayala Center and Poblacion's nightlife giving it a split personality of boardroom by day and bar-hop by night.",
+      "getting": "The nearest airport is Ninoy Aquino International Airport (MNL), roughly 4.8 km south of the city center, with taxis, Grab, or airport buses being the most reliable way in given Metro Manila traffic. Travelers can also reach Makati via MRT-3, alighting at Ayala, Buendia, or Guadalupe stations, though connecting from the airport usually means a taxi or jeepney to Taft Avenue station first.",
+      "days": "Plan on ~2-3 days to cover the Ayala Center malls, Ayala Museum, and Greenbelt/Legazpi park areas, plus an evening or two in Poblacion for its restaurant and bar scene."
+    },
+    "es": {
+      "blurb": "Makati es la capital financiera y empresarial de Filipinas, un denso perfil urbano de torres de cristal, embajadas y centros comerciales que se alza sobre frondosos enclaves residenciales como Forbes Park. También es uno de los distritos más ordenados y fáciles de recorrer a pie de Metro Manila: el elegante Ayala Center y la animada vida nocturna de Poblacion le dan una doble personalidad, de sala de juntas de día a bar en bar de noche.",
+      "getting": "El aeropuerto más cercano es el Aeropuerto Internacional Ninoy Aquino (MNL), a unos 4,8 km al sur del centro de la ciudad. Dado el tráfico de Metro Manila, la forma más segura de llegar es en taxi, Grab o autobús del aeropuerto. También se puede llegar a Makati en el MRT-3, bajándose en las estaciones Ayala, Buendia o Guadalupe, aunque para conectar desde el aeropuerto normalmente hay que tomar antes un taxi o jeepney hasta la estación Taft Avenue.",
+      "days": "Calcula entre 2 y 3 días para recorrer los centros comerciales de Ayala Center, el Museo Ayala y las zonas de Greenbelt/Parque Legazpi, además de una o dos noches en Poblacion para disfrutar de su ambiente de restaurantes y bares."
+    },
+    "ja": {
+      "blurb": "マカティはフィリピンの金融・ビジネスの中心地で、ガラス張りの高層ビルや各国大使館、ショッピングモールが密集する一方、フォーブス・パークのような緑豊かな高級住宅街も内包しています。メトロマニラの中でも特に歩きやすく整然としたエリアの一つでもあり、洗練されたアヤラ・センターと、夜になると賑わうポブラシオンのナイトライフが同居する、昼は会議室、夜はバー巡りという二面性を持っています。",
+      "getting": "最寄りの空港はニノイ・アキノ国際空港(MNL)で、市中心部から南へ約4.8kmの距離にあります。メトロマニラの交通渋滞を考えると、タクシー、Grab、または空港バスを利用するのが最も確実な移動手段です。MRT-3を利用してアヤラ駅、ブエンディア駅、グアダルーペ駅で下車してマカティに向かうこともできますが、空港からの接続は通常、まずタクシーやジプニーでタフト・アベニュー駅まで行く必要があります。",
+      "days": "アヤラ・センターのモール群、アヤラ美術館、グリーンベルト/レガスピ公園周辺を巡るには2〜3日を見込んでおくとよいでしょう。加えて、レストランやバーが充実するポブラシオンで夜を1〜2晩過ごすのもおすすめです。"
+    },
+    "zh": {
+      "blurb": "马卡蒂是菲律宾的金融和商业中心,林立的玻璃幕墙高楼、各国使馆和购物中心之下,还分布着如福布斯公园这样绿树成荫的高档住宅区。这里也是大马尼拉地区最适合步行、秩序最井然的城区之一:高档的阿亚拉中心与波布拉西翁热闹的夜生活,让马卡蒂呈现出白天西装革履、夜晚穿梭酒吧的双重性格。",
+      "getting": "最近的机场是尼诺伊·阿基诺国际机场(MNL),位于市中心以南约4.8公里处。考虑到大马尼拉的交通状况,乘坐出租车、Grab叫车或机场巴士是最可靠的进城方式。游客也可以搭乘MRT-3轻轨前往马卡蒂,在阿亚拉站、布恩迪亚站或瓜达卢佩站下车,不过从机场出发通常需要先乘出租车或吉普尼到塔夫特大道站换乘。",
+      "days": "游览阿亚拉中心的各大商场、阿亚拉博物馆以及绿地公园/雷加斯皮公园一带,建议安排2-3天;此外,不妨再花一两个晚上前往波布拉西翁,体验那里丰富的餐厅与酒吧氛围。"
+    },
+    "ko": {
+      "blurb": "마카티는 필리핀의 금융·비즈니스 중심지로, 유리로 뒤덮인 고층 빌딩과 대사관, 쇼핑몰이 빽빽이 들어선 스카이라인 아래로 포브스 파크 같은 녹음이 우거진 고급 주택가가 자리하고 있습니다. 메트로 마닐라에서도 손꼽히게 걷기 좋고 정돈된 지역으로, 고급스러운 아얄라 센터와 밤이면 활기를 띠는 포블라시온의 나이트라이프가 공존해 낮에는 비즈니스, 밤에는 바 투어라는 이중적인 매력을 보여줍니다.",
+      "getting": "가장 가까운 공항은 니노이 아키노 국제공항(MNL)으로, 시내 중심에서 남쪽으로 약 4.8km 떨어져 있습니다. 메트로 마닐라의 교통 체증을 감안하면 택시, Grab, 또는 공항버스를 이용하는 것이 가장 안전한 방법입니다. MRT-3를 타고 아얄라역, 부엔디아역, 과달루페역에서 내려 마카티에 도착할 수도 있지만, 공항에서 환승하려면 보통 먼저 택시나 지프니를 타고 태프트 애비뉴역까지 이동해야 합니다.",
+      "days": "아얄라 센터의 쇼핑몰들과 아얄라 박물관, 그린벨트/레가스피 공원 일대를 둘러보려면 2~3일 정도를 계획하는 것이 좋고, 여기에 레스토랑과 바가 즐비한 포블라시온에서 하루나 이틀 저녁을 보내는 것도 추천합니다."
+    }
+  },
+  "Misano Adriatico": {
+    "en": {
+      "blurb": "Misano Adriatico is a low-key Adriatic beach town best known for the Misano World Circuit Marco Simoncelli, drawing MotoGP and motorsport fans alongside sun-seekers on its sandy shoreline. It sits on Italy's Romagna Riviera between the busier resorts of Riccione and Cattolica, offering a quieter base with the same wide beaches and seaside promenades.",
+      "getting": "The nearest airport is Rimini's Federico Fellini Airport (RMI), just a few kilometres away, though its flight offer is mostly seasonal/charter, so many travellers instead fly into Bologna (BLQ) and continue by train (~2-3 hours) or regional bus. Misano Adriatico has its own station on the Bologna–Ancona railway line, served by regional trains, with buses and taxis covering the short final stretch into town and to the circuit.",
+      "days": "Plan on ~1-2 days to enjoy the beach and town centre at a relaxed pace, or longer if timing a visit around a race weekend at the Misano World Circuit."
+    },
+    "es": {
+      "blurb": "Misano Adriatico es un tranquilo pueblo costero del Adriático, conocido sobre todo por el Misano World Circuit Marco Simoncelli, que atrae tanto a aficionados a MotoGP y al motociclismo como a amantes del sol en su playa de arena. Se encuentra en la Riviera de Romaña, en Italia, entre los concurridos centros turísticos de Riccione y Cattolica, y ofrece una base más tranquila con las mismas playas amplias y paseos marítimos.",
+      "getting": "El aeropuerto más cercano es el Federico Fellini de Rímini (RMI), a solo unos kilómetros, aunque su oferta de vuelos es sobre todo estacional o chárter, por lo que muchos viajeros prefieren volar a Bolonia (BLQ) y continuar en tren (unas 2-3 horas) o en autobús regional. Misano Adriatico cuenta con su propia estación en la línea ferroviaria Bolonia-Ancona, servida por trenes regionales, y autobuses y taxis cubren el corto tramo final hasta el pueblo y el circuito.",
+      "days": "Se recomiendan entre 1 y 2 días para disfrutar de la playa y el centro del pueblo con calma, o más tiempo si se planea la visita coincidiendo con un fin de semana de carreras en el Misano World Circuit."
+    },
+    "ja": {
+      "blurb": "ミザーノ・アドリアティコは、アドリア海に面した落ち着いた雰囲気のビーチタウンで、ミザーノ・ワールド・サーキット“マルコ・シモンチェッリ”があることで知られています。MotoGPやモータースポーツのファンだけでなく、砂浜を目当てに訪れる海水浴客も惹きつけています。イタリアのロマーニャ・リヴィエラに位置し、賑やかなリッチョーネやカットリカの間にありながら、同じように広々としたビーチと海沿いの遊歩道を持つ、より静かな滞在拠点となっています。",
+      "getting": "最寄り空港はリミニのフェデリコ・フェリーニ空港(RMI)で、わずか数キロの距離にありますが、就航便は季節運航やチャーター便が中心です。そのため多くの旅行者はボローニャ空港(BLQ)を利用し、そこから鉄道(約2〜3時間)や地域バスで向かいます。ミザーノ・アドリアティコにはボローニャ〜アンコーナ線の自駅があり、地域列車が発着するほか、バスやタクシーで町や サーキットまでの最後の短い区間を移動できます。",
+      "days": "ビーチと町の中心部をのんびり楽しむなら1〜2日ほどが目安ですが、ミザーノ・ワールド・サーキットでのレース開催週末に合わせて訪れる場合は、もう少し長めに滞在するのがおすすめです。"
+    },
+    "ko": {
+      "blurb": "미사노 아드리아티코는 아드리아해에 자리한 한적한 해변 마을로, 미사노 월드 서킷 마르코 시몬첼리(Misano World Circuit Marco Simoncelli)로 가장 잘 알려져 있습니다. 모래사장을 찾는 피서객뿐 아니라 MotoGP와 모터스포츠 팬들도 이곳으로 모여듭니다. 이탈리아 로마냐 리비에라에 위치하며, 좀 더 번화한 리치오네와 카톨리카 사이에 자리해 있어 같은 넓은 해변과 해안 산책로를 즐기면서도 한층 조용한 여행 거점이 되어줍니다.",
+      "getting": "가장 가까운 공항은 불과 몇 킬로미터 떨어진 리미니의 페데리코 펠리니 공항(RMI)이지만, 취항 노선이 대부분 계절/전세기 위주라 많은 여행객들은 볼로냐 공항(BLQ)으로 입국해 기차(약 2~3시간)나 지역 버스를 이용해 이동합니다. 미사노 아드리아티코에는 볼로냐-안코나 철도 노선상에 자체 역이 있어 지역 열차가 운행되며, 버스와 택시로 마을과 서킷까지 남은 짧은 구간을 이동할 수 있습니다.",
+      "days": "해변과 시내를 여유롭게 즐기려면 1~2일 정도가 적당하며, 미사노 월드 서킷의 레이스 주말에 맞춰 방문할 계획이라면 좀 더 길게 일정을 잡는 것이 좋습니다."
+    },
+    "zh": {
+      "blurb": "米萨诺阿德里亚蒂科是亚得里亚海边一座低调的海滨小镇，最为人熟知的是米萨诺世界赛道（马可·西蒙切利赛道），吸引了众多MotoGP和摩托车运动爱好者，也吸引着喜欢阳光沙滩的游客前来度假。小镇坐落于意大利罗马涅海岸线，位于更为繁华的里乔内和卡托利卡之间，同样拥有宽阔的沙滩和海滨长廊，却提供了一个更为宁静的落脚之地。",
+      "getting": "最近的机场是里米尼的费德里科·费里尼机场（RMI），距离仅几公里，不过该机场的航班多为季节性或包机航班，因此许多旅客会选择飞往博洛尼亚机场（BLQ），再乘火车（约2-3小时）或长途汽车前往。米萨诺阿德里亚蒂科在博洛尼亚至安科纳铁路线上设有自己的火车站，有区域列车停靠，剩下前往镇上和赛道的最后一小段路程则可乘坐公交或出租车。",
+      "days": "若想悠闲地游览海滩和镇中心，安排1-2天即可；如果计划配合米萨诺世界赛道的比赛周末前往，建议安排更长的停留时间。"
+    }
+  },
+  "Multiple cities": {
+    "en": {
+      "blurb": "Spain's multi-city trail links a strikingly varied set of destinations — from Madrid's museum-lined boulevards and Barcelona's Gaudí-shaped skyline to Andalusia's Moorish palaces in Seville and Granada — each with its own architecture, cuisine, and pace of life. Together they let travellers experience everything from cosmopolitan capital energy to sun-baked southern courtyards within the space of a single trip.",
+      "getting": "Most journeys begin by flying into Madrid–Barajas (MAD) or Barcelona–El Prat (BCN), Spain's two main international gateways, both directly connected to their city centres by metro and rail. From there, Renfe's AVE high-speed rail network links Madrid, Barcelona, Seville, and other major cities in as little as ~2.5 hours, making city-to-city travel by train faster and more convenient than flying.\n\n<cite index=\"16-1\">Madrid is the central node of the AVE high-speed rail network, which has brought major cities such as Seville and Barcelona within 2.5 hours travel time.</cite> <cite index=\"12-1,12-4\">Barcelona-El Prat Airport (BCN) is an important international airport, and Madrid airport transportation options include the metro, train, and other links into the city.</cite>",
+      "days": "Allow ~7-10 days to comfortably cover a handful of these cities by high-speed train, with 2-3 nights in each to explore its historic centre without feeling rushed."
+    },
+    "es": {
+      "blurb": "La ruta multidestino de España conecta lugares sorprendentemente diversos: desde los bulevares llenos de museos de Madrid y el perfil urbano modelado por Gaudí en Barcelona, hasta los palacios moriscos de Andalucía en Sevilla y Granada, cada uno con su propia arquitectura, gastronomía y ritmo de vida. Juntos permiten a los viajeros experimentar todo, desde la energía cosmopolita de una capital hasta los patios soleados del sur, en un solo viaje.",
+      "getting": "La mayoría de los viajes comienzan volando a Madrid-Barajas (MAD) o Barcelona-El Prat (BCN), las dos principales puertas de entrada internacionales de España, ambas conectadas directamente con sus centros urbanos por metro y tren. Desde allí, la red de alta velocidad AVE de Renfe une Madrid, Barcelona, Sevilla y otras grandes ciudades en tan solo ~2.5 horas, lo que hace que viajar de ciudad en ciudad en tren sea más rápido y cómodo que volar.\n\nMadrid es el nodo central de la red ferroviaria de alta velocidad AVE, que ha acercado ciudades importantes como Sevilla y Barcelona a solo 2.5 horas de viaje. El aeropuerto de Barcelona-El Prat (BCN) es un importante aeropuerto internacional, y el aeropuerto de Madrid ofrece opciones de transporte como metro, tren y otras conexiones hacia la ciudad.",
+      "days": "Reserva entre 7 y 10 días para recorrer con comodidad varias de estas ciudades en tren de alta velocidad, con 2-3 noches en cada una para explorar su centro histórico sin sentirte apurado."
+    },
+    "ja": {
+      "blurb": "スペインのマルチシティ路線は、驚くほど多彩な目的地を結んでいます。美術館が立ち並ぶマドリードの大通り、ガウディが形作ったバルセロナのスカイラインから、セビリアやグラナダに残るアンダルシアのムーア様式の宮殿まで——それぞれに独自の建築、食文化、暮らしのリズムがあります。これらを組み合わせることで、洗練された首都のエネルギーから、太陽が降り注ぐ南部の中庭までを、一度の旅で味わうことができます。",
+      "getting": "多くの旅は、スペインの二大国際玄関口であるマドリード・バラハス空港(MAD)またはバルセロナ・エル・プラット空港(BCN)への到着から始まります。どちらの空港も地下鉄や鉄道で市街地と直結しています。そこから、レンフェのAVE高速鉄道網を利用すれば、マドリード、バルセロナ、セビリアをはじめとする主要都市間を最短約2.5時間で移動でき、飛行機よりも速く便利に都市間を移動できます。\n\nマドリードはAVE高速鉄道網の中心拠点であり、セビリアやバルセロナといった主要都市への所要時間を2.5時間以内に短縮しています。バルセロナ・エル・プラット空港(BCN)は重要な国際空港であり、マドリードの空港には地下鉄や鉄道など、市内へのさまざまなアクセス手段があります。",
+      "days": "高速鉄道でこれらの都市をいくつか無理なく巡るには、約7〜10日を見込みましょう。各都市に2〜3泊すれば、慌ただしさを感じることなく歴史地区をじっくり探索できます。"
+    },
+    "ko": {
+      "blurb": "스페인의 멀티시티 여행 경로는 놀랍도록 다채로운 목적지들을 연결합니다. 미술관이 늘어선 마드리드의 대로와 가우디가 빚어낸 바르셀로나의 스카이라인부터, 세비야와 그라나다에 남아있는 안달루시아의 무어 양식 궁전까지 — 각 도시는 저마다의 건축, 음식, 삶의 리듬을 지니고 있습니다. 이 도시들을 함께 여행하면 세련된 수도의 활기부터 햇살 가득한 남부의 안뜰까지, 단 한 번의 여행에서 모두 경험할 수 있습니다.",
+      "getting": "대부분의 여정은 스페인의 양대 국제 관문인 마드리드-바라하스 공항(MAD) 또는 바르셀로나-엘프라트 공항(BCN)으로 입국하며 시작됩니다. 두 공항 모두 지하철과 열차로 시내와 바로 연결됩니다. 이곳에서 렌페의 AVE 고속철도망을 이용하면 마드리드, 바르셀로나, 세비야를 비롯한 주요 도시들을 최단 약 2.5시간 만에 이동할 수 있어, 도시 간 이동에는 비행기보다 기차가 더 빠르고 편리합니다.\n\n마드리드는 AVE 고속철도망의 중심 거점으로, 세비야와 바르셀로나 같은 주요 도시들을 2.5시간 이내로 연결합니다. 바르셀로나-엘프라트 공항(BCN)은 주요 국제공항이며, 마드리드 공항에서는 지하철, 열차 등 다양한 시내 교통수단을 이용할 수 있습니다.",
+      "days": "고속철도로 이 도시들 중 몇 곳을 여유롭게 둘러보려면 약 7~10일을 잡는 것이 좋으며, 각 도시에서 2~3박씩 머물면 서두르지 않고 역사 지구를 둘러볼 수 있습니다."
+    }
+  },
+  "New York City": {
+    "en": {
+      "blurb": "New York City is a dense, five-borough metropolis where Manhattan skyscrapers, Broadway theaters, and world-class museums sit alongside distinct neighborhoods shaped by generations of immigration. It's a 24-hour city built around an extensive subway network, iconic green spaces like Central Park, and a relentless energy that has made it a global capital of finance, culture, and media.",
+      "getting": "Most international travelers arrive via John F. Kennedy International Airport (JFK) or Newark Liberty International Airport (EWR); from JFK, the AirTrain connects to the subway at Howard Beach or to the Long Island Rail Road and subway at Jamaica Station for the trip into Manhattan, while from Newark, the AirTrain links to NJ Transit and Amtrak trains at Newark Liberty International Airport Station for the ~30-minute ride to Penn Station. LaGuardia Airport (LGA), used mainly for domestic flights, is reached primarily by bus/taxi connections into the city.",
+      "days": "Plan on at least 4-5 days to cover Manhattan's major sights along with a taste of the outer boroughs, though many visitors happily spend a week or more without running out of things to do."
+    },
+    "ko": {
+      "blurb": "뉴욕시는 5개 자치구로 이루어진 밀도 높은 대도시로, 맨해튼의 마천루와 브로드웨이 극장, 세계적 수준의 박물관들이 여러 세대에 걸친 이민의 역사가 빚어낸 개성 넘치는 동네들과 어우러져 있다. 방대한 지하철망과 센트럴 파크 같은 상징적인 녹지 공간을 중심으로 돌아가는 24시간 도시이며, 금융·문화·미디어의 세계적 중심지로 자리매김한 그 특유의 끊임없는 에너지가 도시 전체에 넘쳐흐른다.",
+      "getting": "대부분의 해외 여행객은 존 F. 케네디 국제공항(JFK)이나 뉴어크 리버티 국제공항(EWR)을 통해 도착한다. JFK에서는 에어트레인을 타고 하워드 비치역에서 지하철로 갈아타거나, 자메이카역에서 롱아일랜드 철도(LIRR)와 지하철로 환승해 맨해튼까지 이동할 수 있다. 뉴어크에서는 에어트레인이 뉴어크 리버티 국제공항역에서 NJ 트랜짓 및 암트랙 열차와 연결되며, 약 30분이면 펜 스테이션에 도착한다. 주로 국내선이 오가는 라과디아 공항(LGA)은 버스나 택시를 이용해 시내로 들어가는 것이 일반적이다.",
+      "days": "맨해튼의 주요 명소와 다른 자치구들의 매력을 함께 둘러보려면 최소 4~5일은 계획하는 것이 좋다. 다만 많은 여행객들이 일주일 이상 머물러도 볼거리가 끊이지 않는다고 말한다."
+    },
+    "ja": {
+      "blurb": "ニューヨーク市は5つの行政区からなる密度の高い大都市で、マンハッタンの摩天楼、ブロードウェイの劇場、世界屈指の博物館群が、幾世代にもわたる移民の歴史によって形作られた個性豊かな街々と隣り合って存在している。広大な地下鉄網とセントラルパークのような象徴的な緑地を中心に回る24時間都市であり、金融・文化・メディアの世界的な中心地たらしめてきた、その尽きることのないエネルギーに満ちている。",
+      "getting": "海外からの旅行者の多くは、ジョン・F・ケネディ国際空港(JFK)またはニューアーク・リバティ国際空港(EWR)を利用して入国する。JFKからは、エアトレインでハワード・ビーチ駅に出て地下鉄に乗り換えるか、ジャマイカ駅でロングアイランド鉄道(LIRR)と地下鉄に乗り換えてマンハッタンへ向かうことができる。ニューアークからは、エアトレインがニューアーク・リバティ国際空港駅でNJトランジットおよびアムトラックの列車と接続しており、約30分でペンシルベニア駅に到着する。主に国内線が発着するラガーディア空港(LGA)へは、バスやタクシーを利用して市内へ向かうのが一般的だ。",
+      "days": "マンハッタンの主要な見どころに加え、他の行政区の雰囲気も味わうなら、少なくとも4〜5日は予定しておきたい。とはいえ、1週間以上滞在しても飽きることがないと語る旅行者も多い。"
+    },
+    "es": {
+      "blurb": "Nueva York es una metrópolis densa de cinco distritos donde los rascacielos de Manhattan, los teatros de Broadway y museos de talla mundial conviven con barrios muy singulares moldeados por generaciones de inmigrantes. Es una ciudad que nunca duerme, articulada en torno a una extensa red de metro, espacios verdes emblemáticos como Central Park, y una energía imparable que la ha convertido en una capital global de las finanzas, la cultura y los medios de comunicación.",
+      "getting": "La mayoría de los viajeros internacionales llegan a través del Aeropuerto Internacional John F. Kennedy (JFK) o el Aeropuerto Internacional Newark Liberty (EWR); desde el JFK, el AirTrain conecta con el metro en Howard Beach o con el tren Long Island Rail Road y el metro en la estación Jamaica para llegar a Manhattan, mientras que desde Newark, el AirTrain enlaza con los trenes de NJ Transit y Amtrak en la estación Newark Liberty International Airport para un trayecto de unos 30 minutos hasta Penn Station. El aeropuerto LaGuardia (LGA), utilizado principalmente para vuelos nacionales, se conecta con la ciudad sobre todo mediante autobús o taxi.",
+      "days": "Conviene reservar al menos 4-5 días para recorrer los principales atractivos de Manhattan y darse una idea de los demás distritos, aunque muchos visitantes se quedan encantados una semana o más sin quedarse sin cosas por hacer."
+    }
+  },
+  "Nonthaburi": {
+    "en": {
+      "blurb": "Nonthaburi is a riverside province on the Chao Phraya just north of Bangkok, prized for its historic temples, riverside markets, and the Mon pottery village of Koh Kret. It offers a slower, more local alternative to the capital's bustle, with durian orchards and government-era architecture alongside its waterfront charm.",
+      "getting": "Most travellers fly into one of Bangkok's international airports and connect via the city's MRT network — the Purple Line runs directly into central Nonthaburi, with the newer Pink Line also serving the area — or take a Chao Phraya express boat upriver to Nonthaburi Pier.",
+      "days": "A single day covers the main markets and central temples, while ~2 days allows time to add a Koh Kret pottery-village excursion and a slower riverside pace."
+    },
+    "ko": {
+      "blurb": "논타부리는 방콕 바로 북쪽, 짜오프라야강을 따라 자리한 강변 도시로 유서 깊은 사원과 강변 시장, 몬족 도자기 마을로 유명한 꺼끄렛(Koh Kret)으로 잘 알려져 있습니다. 분주한 방콕과는 다른 느긋하고 현지인다운 분위기를 느낄 수 있으며, 두리안 과수원과 관공서 시대의 건축물들이 강변의 정취와 어우러져 독특한 매력을 자아냅니다.",
+      "getting": "대부분의 여행객은 방콕의 국제공항 중 한 곳으로 입국한 뒤, 방콕 지하철(MRT)을 이용해 이동합니다. 퍼플 라인(Purple Line)이 논타부리 중심부까지 직접 연결되며, 최근 개통된 핑크 라인(Pink Line)도 이 지역을 지납니다. 짜오프라야 익스프레스 보트를 타고 강을 거슬러 올라가 논타부리 선착장(Nonthaburi Pier)에 도착하는 방법도 있습니다.",
+      "days": "하루 일정이면 주요 시장과 중심가의 사원들을 둘러볼 수 있으며, 이틀 정도 머문다면 꺼끄렛 도자기 마을 나들이를 추가하고 강변의 여유로운 분위기를 좀 더 만끽할 수 있습니다."
+    },
+    "ja": {
+      "blurb": "ノンタブリーは、バンコクのすぐ北、チャオプラヤー川沿いに広がる県で、歴史ある寺院や川辺の市場、モン族の陶器の村として知られるコークレット島で有名です。喧騒に包まれた首都とは一味違う、のんびりとした地元らしい雰囲気が魅力で、ドリアン農園や官庁建築時代の建物が、川沿いの情緒とともに独特の味わいを添えています。",
+      "getting": "多くの旅行者はバンコクの国際空港のいずれかに到着し、そこからバンコクのMRT(地下鉄)を利用して移動します。パープルラインはノンタブリー中心部まで直通しており、比較的新しいピンクラインもこのエリアをカバーしています。また、チャオプラヤー・エクスプレスボートで川を遡り、ノンタブリー桟橋(Nonthaburi Pier)へ向かう方法もあります。",
+      "days": "1日あれば主要な市場と中心部の寺院を巡ることができ、2日ほど滞在すれば、コークレット島の陶器の村への小旅行を加えたり、川沿いでよりゆったりとした時間を過ごしたりする余裕が生まれます。"
+    },
+    "es": {
+      "blurb": "Nonthaburi es una provincia ribereña a orillas del río Chao Phraya, justo al norte de Bangkok, célebre por sus templos históricos, sus mercados junto al río y Koh Kret, el pintoresco pueblo alfarero de la etnia mon. Ofrece una alternativa más tranquila y auténtica al bullicio de la capital, donde los huertos de durián y la arquitectura de la era gubernamental conviven con el encanto de su paseo fluvial.",
+      "getting": "La mayoría de los viajeros llegan a uno de los aeropuertos internacionales de Bangkok y continúan en la red de metro MRT de la ciudad: la Línea Púrpura llega directamente al centro de Nonthaburi, y la más reciente Línea Rosa también da servicio a la zona. Otra opción es tomar un barco express del río Chao Phraya y remontar el río hasta el embarcadero de Nonthaburi (Nonthaburi Pier).",
+      "days": "Con un solo día alcanza para recorrer los principales mercados y templos del centro, mientras que unos 2 días permiten sumar una excursión al pueblo alfarero de Koh Kret y disfrutar con más calma del ritmo junto al río."
+    },
+    "zh": {
+      "blurb": "暖武里府是湄南河畔的一座省份,就在曼谷以北,以历史悠久的寺庙、河畔市场以及孟族陶艺村格叻岛(Koh Kret)而闻名。相较于首都的喧嚣繁忙,这里节奏更慢、更具本地生活气息,榴莲果园与政府时期的建筑与河畔风情相映成趣,别具韵味。",
+      "getting": "大多数游客会先抵达曼谷的国际机场之一,然后换乘曼谷的地铁(MRT)前往——紫线可直达暖武里市中心,较新开通的粉线也覆盖这一区域;此外,也可以搭乘湄南河快船溯流而上,抵达暖武里码头(Nonthaburi Pier)。",
+      "days": "一天时间足以游览主要市场和市中心的寺庙,而若停留约两天,则可以从容加入格叻岛陶艺村之行,并以更悠闲的节奏体验河畔风光。"
+    }
+  },
+  "Shenzhen": {
+    "en": {
+      "blurb": "Shenzhen is the boomtown of modern China — a fishing village turned tech megacity in barely four decades, now home to giants like Huawei and Tencent alongside a skyline of glass towers. It sits right on the border with Hong Kong, making it a fascinating study in contrasts between mainland dynamism and the former British colony just a subway ride away.",
+      "getting": "Most international travellers fly into Shenzhen Bao'an International Airport (SZX), which connects to the city via Metro Line 11. Many visitors also arrive overland from Hong Kong, crossing the border at checkpoints like Luohu or Futian, or via the high-speed rail link into Hong Kong West Kowloon.",
+      "days": "Plan on ~2-3 days to cover Shenzhen's mix of tech districts, theme parks, and skyline views, with an extra day if combining it with a Hong Kong border crossing."
+    },
+    "ko": {
+      "blurb": "선전은 현대 중국의 대표적인 신흥 도시다. 작은 어촌 마을이 불과 40년 만에 첨단 기술 메가시티로 탈바꿈했고, 지금은 화웨이와 텐센트 같은 거대 기업들이 유리 타워 스카이라인 속에 자리 잡고 있다. 홍콩과 국경을 맞대고 있어, 지하철로 한 정거장 거리에 있는 옛 영국 식민지와 중국 본토의 활력을 대비해 보기에 더없이 흥미로운 도시다.",
+      "getting": "대부분의 해외 여행객은 선전 바오안 국제공항(SZX)으로 입국하며, 지하철 11호선을 통해 시내와 연결된다. 많은 방문객들은 홍콩에서 육로로 이동해 뤄후(羅湖)나 푸톈(福田) 같은 검문소를 통해 국경을 넘거나, 홍콩 웨스트 카우룽(West Kowloon)으로 이어지는 고속철도를 이용하기도 한다.",
+      "days": "첨단 기술 지구, 테마파크, 스카이라인 전망까지 선전을 둘러보려면 약 2~3일이 필요하며, 홍콩 국경을 함께 넘을 계획이라면 하루를 더 잡는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "深圳は現代中国の急成長を象徴する都市だ。わずか40年足らずで小さな漁村からハイテクメガシティへと変貌を遂げ、今ではファーウェイやテンセントといった巨大企業がガラス張りの高層ビル群とともに軒を連ねる。香港とすぐ隣り合っており、地下鉄一本で行き来できる旧英国植民地と、中国本土のダイナミズムとの対比を肌で感じられる、実に興味深い場所だ。",
+      "getting": "海外からの旅行者の多くは深圳宝安国際空港（SZX）を利用し、地下鉄11号線で市内へアクセスする。香港からは陸路で入る旅行者も多く、羅湖（ローフー）や福田（フーティエン）などの検問所を通過するほか、香港ウェストカウルーン（West Kowloon）行きの高速鉄道を利用するルートもある。",
+      "days": "ハイテク地区やテーマパーク、スカイラインの眺めなど深圳の魅力を巡るには2〜3日ほどが目安。香港との国境越えを組み合わせる場合は、もう1日プラスするのがおすすめだ。"
+    },
+    "es": {
+      "blurb": "Shenzhen es el gran boom de la China moderna: una aldea de pescadores convertida en megaciudad tecnológica en apenas cuatro décadas, hoy sede de gigantes como Huawei y Tencent, todo bajo un skyline de rascacielos de cristal. Está justo en la frontera con Hong Kong, lo que la convierte en un fascinante ejercicio de contrastes entre el dinamismo de la China continental y la antigua colonia británica, a solo una parada de metro de distancia.",
+      "getting": "La mayoría de los viajeros internacionales llegan al Aeropuerto Internacional de Shenzhen Bao'an (SZX), conectado con la ciudad a través de la Línea 11 del metro. Muchos visitantes también entran por tierra desde Hong Kong, cruzando la frontera en puestos como Luohu o Futian, o bien mediante el tren de alta velocidad que llega hasta Hong Kong West Kowloon.",
+      "days": "Conviene reservar entre 2 y 3 días para conocer la mezcla de distritos tecnológicos, parques temáticos y vistas panorámicas de Shenzhen, y sumar un día extra si se combina con un cruce fronterizo hacia Hong Kong."
+    },
+    "zh": {
+      "blurb": "深圳是现代中国高速发展的缩影——一个渔村在短短四十年间蜕变为科技巨型都市，如今华为、腾讯等巨头与林立的玻璃幕墙高楼交相辉映。深圳与香港一线之隔，让人可以在地铁一站之间，鲜明感受内地的蓬勃活力与这座昔日英属殖民地之间的巨大反差，别具魅力。",
+      "getting": "大多数国际旅客乘飞机抵达深圳宝安国际机场（SZX），可通过地铁11号线直达市区。许多游客也会经陆路从香港入境，经罗湖或福田等口岸过关，或乘坐高铁直达香港西九龙。",
+      "days": "要游览深圳的科技园区、主题乐园和城市天际线，建议安排2-3天；如果计划顺道跨境前往香港，最好再多留一天。"
+    }
+  },
+  "Quezon City": {
+    "en": {
+      "blurb": "Quezon City is the Philippines' most populous city and a former national capital, sprawling across Metro Manila's north side with leafy university districts, government landmarks like the Quezon Memorial Circle, and one of the country's biggest concentrations of malls, media studios, and street-food scenes. It's less a single \"sight\" than a vast urban patchwork—home to Diliman's academic core, Cubao's transit-and-shopping hub, and fast-growing residential sprawl toward Novaliches in the north.",
+      "getting": "Most travellers arrive via Ninoy Aquino International Airport (NAIA, code MNL) in Pasay/Parañaque, then reach Quezon City by taxi/ride-hailing, P2P bus, or a combination of MRT-3 and LRT-2/LRT-1 lines that run through the city along EDSA and other corridors; the trip typically takes ~45 minutes to over 2 hours depending on traffic. Within the city, the EDSA-hugging MRT-3 and LRT-2 stations (e.g., Cubao, Quezon Avenue) are the most reliable rail access points, supplemented by extensive jeepney and bus networks.",
+      "days": "Plan on ~2-3 days to cover the main areas—Diliman's UP campus and cafes, Cubao's malls and transport terminals, and the Quezon Memorial Circle—though the city's size means many visitors treat it as a base for exploring wider Metro Manila rather than a single-destination stop."
+    },
+    "ko": {
+      "blurb": "케손시티(Quezon City)는 필리핀에서 인구가 가장 많은 도시이자 과거 국가 수도로, 메트로 마닐라 북쪽에 넓게 자리하고 있습니다. 녹음이 우거진 대학가, 케손 메모리얼 서클(Quezon Memorial Circle) 같은 정부 관련 랜드마크, 그리고 국내 최대 규모로 밀집한 쇼핑몰과 방송사, 길거리 음식 문화가 어우러진 곳입니다. 단일 관광지라기보다는 거대한 도시의 모자이크에 가까운데, 학문의 중심지인 딜리만(Diliman), 교통과 쇼핑의 허브인 쿠바오(Cubao), 그리고 북쪽으로 빠르게 확장되는 노발리체스(Novaliches) 주거 지역까지 다양한 얼굴을 지니고 있습니다.",
+      "getting": "대부분의 여행자는 파사이/파라냐케(Pasay/Parañaque)에 위치한 니노이 아키노 국제공항(NAIA, 공항 코드 MNL)을 통해 입국한 뒤, 택시나 차량 호출 서비스, P2P 버스, 혹은 MRT-3와 LRT-2/LRT-1 노선을 조합해 케손시티로 이동합니다. 이 열차 노선들은 EDSA를 비롯한 주요 도로를 따라 도시를 관통합니다. 소요 시간은 교통 상황에 따라 약 45분에서 2시간 이상까지 다양합니다. 시내에서는 EDSA를 따라 이어지는 MRT-3와 LRT-2 역들(예: 쿠바오, 케손 애비뉴)이 가장 신뢰할 수 있는 철도 교통수단이며, 여기에 촘촘한 지프니와 버스 노선망이 더해집니다.",
+      "days": "딜리만의 UP 캠퍼스와 카페들, 쿠바오의 쇼핑몰과 교통 터미널, 그리고 케손 메모리얼 서클 등 주요 지역을 둘러보려면 약 2~3일 정도를 계획하는 것이 좋습니다. 다만 도시의 방대한 규모 때문에 많은 여행자들은 이곳을 단일 목적지라기보다는 메트로 마닐라 전역을 탐방하기 위한 거점으로 활용하는 경우가 많습니다."
+    },
+    "ja": {
+      "blurb": "ケソンシティ(Quezon City)はフィリピン最大の人口を擁する都市であり、かつての首都でもあります。メトロマニラの北側に広がり、緑豊かな大学地区や、ケソン記念サークル(Quezon Memorial Circle)といった政府関連のランドマーク、そして国内屈指の規模を誇るショッピングモール群、メディアスタジオ、屋台グルメが集まるエリアなど、多彩な顔を持っています。単一の「観光名所」というよりは広大な都市のパッチワークのような場所で、学術の中心地ディリマン(Diliman)、交通と買い物のハブであるクバオ(Cubao)、そして北部で急速に発展する住宅地ノバリチェス(Novaliches)などから成り立っています。",
+      "getting": "多くの旅行者は、パサイ/パラニャーケ(Pasay/Parañaque)にあるニノイ・アキノ国際空港(NAIA、空港コードMNL)から入国し、その後タクシーや配車サービス、P2Pバス、あるいはMRT-3とLRT-2/LRT-1を組み合わせてケソンシティへ向かいます。これらの鉄道路線はEDSAをはじめとする主要道路沿いに市内を走っています。所要時間は交通状況により約45分から2時間以上とさまざまです。市内では、EDSA沿いのMRT-3およびLRT-2の駅(クバオ駅、ケソンアベニュー駅など)が最も信頼できる鉄道アクセス手段で、これに広範なジプニーやバスのネットワークが加わります。",
+      "days": "ディリマンのUPキャンパスやカフェ、クバオのショッピングモールや交通ターミナル、そしてケソン記念サークルといった主要エリアを巡るには、2〜3日ほど見ておくとよいでしょう。ただし、この都市の規模の大きさから、多くの旅行者は単一の目的地としてではなく、メトロマニラ全体を巡る際の拠点として利用しています。"
+    }
+  },
+  "Tokushima": {
+    "en": {
+      "blurb": "Tokushima, on the eastern coast of Shikoku, is best known for two dramatically different spectacles: the thunderous Naruto Strait whirlpools — among the largest tidal whirlpools in the world — and the exuberant summer street dancing of Awa Odori, a 400-year-old tradition that turns the prefectural capital into an all-night party each mid-August. Beyond these headline draws, the prefecture's interior hides the remote, vine-bridged Iya Valley and deep mountain scenery, since roughly 80% of Tokushima is covered by mountains.",
+      "getting": "Tokushima Awa Odori Airport (TKS) has regular domestic flights from Tokyo Haneda and Fukuoka, with bus services connecting the airport to Tokushima Station; travellers from the Kansai region typically arrive by highway bus from Osaka or Kobe, or by JR Shikoku's limited express \"Uzushio\" train from Okayama.",
+      "days": "Plan on ~2-3 days to cover the essentials — a day in Tokushima City for Awa Odori culture and Mt. Bizan, plus a side trip to the Naruto whirlpools — or extend to 4-5 days if venturing further into the mountainous Iya Valley."
+    },
+    "ko": {
+      "blurb": "시코쿠 동쪽 해안에 자리한 도쿠시마는 서로 완전히 다른 두 가지 볼거리로 유명하다. 세계 최대급 조수 소용돌이로 꼽히는 요란한 나루토 해협의 소용돌이와, 400년 전통을 자랑하며 매년 8월 중순 현청 소재지를 밤새 축제 분위기로 물들이는 활기찬 여름 거리 춤 아와오도리가 그것이다. 이 두 대표 명소 외에도, 도쿠시마 내륙에는 덩굴 다리로 유명한 오지 이야 계곡과 깊은 산악 절경이 숨어 있는데, 이는 도쿠시마 전체 면적의 약 80%가 산지이기 때문이다.",
+      "getting": "도쿠시마 아와오도리 공항(TKS)은 도쿄 하네다와 후쿠오카에서 정기 국내선이 운항하며, 공항과 도쿠시마역을 잇는 버스 서비스도 마련되어 있다. 간사이 지역에서 오는 여행객은 보통 오사카나 고베에서 고속버스를 이용하거나, JR 시코쿠의 특급열차 '우즈시오'를 타고 오카야마에서 이동한다.",
+      "days": "핵심 명소만 둘러본다면 2~3일 정도면 충분하다. 도쿠시마 시내에서 아와오도리 문화와 비잔산을 하루 동안 즐기고, 나루토 소용돌이로 당일치기 여행을 다녀오는 일정이면 된다. 산악 지대인 이야 계곡까지 깊이 들어가고 싶다면 4~5일로 일정을 늘리는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "四国東岸に位置する徳島県は、まったく趣の異なる二つの見どころで知られている。世界最大級ともいわれる渦潮が轟く鳴門海峡と、400年の歴史を持ち、お盆過ぎの8月中旬に県都を一晩中お祭り騒ぎへと変える活気あふれる阿波おどりだ。こうした代表的な魅力の奥には、蔓橋で知られる秘境・祖谷渓谷や深い山々の景観が広がっており、実に県土の約8割を山地が占めている。",
+      "getting": "徳島阿波おどり空港(TKS)には東京羽田・福岡からの定期国内便が就航しており、空港と徳島駅を結ぶバスも運行している。関西方面からは、大阪や神戸発の高速バスを利用するか、JR四国の特急「うずしお」で岡山から向かうのが一般的だ。",
+      "days": "見どころを押さえるなら2〜3日が目安。徳島市内で阿波おどり文化と眉山を1日かけて楽しみ、鳴門の渦潮へ足を延ばすプランがおすすめだ。山深い祖谷渓谷まで足を伸ばすなら、4〜5日に延ばすとよいだろう。"
+    },
+    "es": {
+      "blurb": "Situada en la costa este de Shikoku, Tokushima es célebre por dos espectáculos radicalmente distintos: los atronadores remolinos del estrecho de Naruto —entre los más grandes del mundo— y el desbordante baile callejero de verano del Awa Odori, una tradición de 400 años que convierte a la capital de la prefectura en una fiesta ininterrumpida durante toda la noche a mediados de agosto. Más allá de estos grandes reclamos, el interior de la prefectura esconde el remoto valle de Iya, cruzado por puentes de enredaderas, y paisajes montañosos de gran profundidad, ya que cerca del 80% del territorio de Tokushima está cubierto de montañas.",
+      "getting": "El aeropuerto de Tokushima Awa Odori (TKS) cuenta con vuelos nacionales regulares desde Tokio Haneda y Fukuoka, con servicios de autobús que lo conectan con la estación de Tokushima. Los viajeros procedentes de la región de Kansai suelen llegar en autobús interurbano desde Osaka o Kobe, o bien en el tren expreso limitado \"Uzushio\" de JR Shikoku desde Okayama.",
+      "days": "Basta con unos 2-3 días para lo esencial: un día en la ciudad de Tokushima dedicado a la cultura del Awa Odori y al monte Bizan, más una excursión a los remolinos de Naruto. Si se quiere explorar más a fondo el montañoso valle de Iya, conviene ampliar la estancia a 4-5 días."
+    },
+    "zh": {
+      "blurb": "德岛县位于四国东岸,以两种截然不同的景观闻名于世:轰鸣澎湃的鸣门海峡漩涡——堪称世界最大的潮汐漩涡之一,以及热闹奔放的夏日街舞“阿波舞”——这项传承400年的传统,每年8月中旬都会让县厅所在地彻夜狂欢。除了这两大招牌景点,德岛内陆还藏着以藤蔓桥闻名的秘境祖谷溪谷,以及层峦叠嶂的深山美景,毕竟德岛境内约八成土地都被群山覆盖。",
+      "getting": "德岛阿波舞机场(TKS)有往返东京羽田和福冈的定期国内航班,并设有连接机场与德岛站的巴士服务；来自关西地区的游客通常乘坐从大阪或神户出发的高速巴士,或搭乘JR四国的“漩涡号”（Uzushio）特急列车从冈山前往。",
+      "days": "游览核心景点安排2-3天即可——用一天时间在德岛市内感受阿波舞文化并游览眉山,再抽空前往鸣门漩涡一日游；若想深入山区探访祖谷溪谷,则建议将行程延长至4-5天。"
+    }
   }
 }

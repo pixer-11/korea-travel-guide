@@ -53,6 +53,12 @@
     "es": "Antalya",
     "zh": "安塔利亚"
   },
+  "Aomori": {
+    "ko": "아오모리",
+    "ja": "青森",
+    "es": "Aomori",
+    "zh": "青森"
+  },
   "Ayutthaya": {
     "ko": "아유타야",
     "ja": "アユタヤ",
@@ -178,6 +184,12 @@
     "ja": "セブ",
     "es": "Cebú",
     "zh": "宿务"
+  },
+  "Chandigarh": {
+    "ko": "찬디가르",
+    "ja": "チャンディーガル",
+    "es": "Chandigarh",
+    "zh": "昌迪加尔"
   },
   "Chengdu": {
     "ko": "청두",
@@ -605,6 +617,18 @@
     "es": "Madrid",
     "zh": "马德里"
   },
+  "Makati": {
+    "ko": "마카티",
+    "ja": "マカティ",
+    "es": "Makati",
+    "zh": "马卡蒂"
+  },
+  "Makati City": {
+    "ko": "마카티",
+    "ja": "マカティ",
+    "es": "Makati",
+    "zh": "马卡蒂"
+  },
   "Malacca": {
     "ko": "말라카",
     "ja": "マラッカ",
@@ -653,11 +677,23 @@
     "es": "Milán",
     "zh": "米兰"
   },
+  "Misano Adriatico": {
+    "ko": "미사노 아드리아티코",
+    "ja": "ミサノ・アドリアティコ",
+    "es": "Misano Adriatico",
+    "zh": "米萨诺阿德里亚蒂科"
+  },
   "Monza": {
     "ko": "몬차",
     "ja": "モンツァ",
     "es": "Monza",
     "zh": "蒙扎"
+  },
+  "Multiple cities": {
+    "ko": "여러 도시",
+    "ja": "複数の都市",
+    "es": "Varias ciudades",
+    "zh": "多个城市"
   },
   "Mumbai": {
     "ko": "뭄바이",
@@ -724,6 +760,12 @@
     "ja": "ニース",
     "es": "Niza",
     "zh": "尼斯"
+  },
+  "Nonthaburi": {
+    "ko": "논타부리",
+    "ja": "ノンタブリー",
+    "es": "Nonthaburi",
+    "zh": "暖武里"
   },
   "Okinawa": {
     "ko": "오키나와",
@@ -821,6 +863,12 @@
     "es": "Qingdao",
     "zh": "青岛"
   },
+  "Quezon City": {
+    "ko": "케손시티",
+    "ja": "ケソンシティ",
+    "es": "Quezon City",
+    "zh": "奎松市"
+  },
   "Ras Al Khaimah": {
     "ko": "라스 알 카이마",
     "ja": "ラス・アル・ハイマ",
@@ -892,6 +940,12 @@
     "ja": "シャルジャ",
     "es": "Sharjah",
     "zh": "沙迦"
+  },
+  "Shenzhen": {
+    "ko": "선전",
+    "ja": "深圳",
+    "es": "Shenzhen",
+    "zh": "深圳"
   },
   "Siargao": {
     "ko": "시아르가오",
@@ -1000,6 +1054,12 @@
     "ja": "タイ",
     "es": "Tailandia",
     "zh": "泰国"
+  },
+  "Tokushima": {
+    "ko": "도쿠시마",
+    "ja": "徳島",
+    "es": "Tokushima",
+    "zh": "德岛"
   },
   "Tokyo": {
     "ko": "도쿄",
