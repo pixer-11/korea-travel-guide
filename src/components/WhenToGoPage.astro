@@ -89,6 +89,23 @@ const jsonLd = {
       url: pageUrl,
       creator: { '@id': `${site}/#org` },
       isAccessibleForFree: true,
+      // Search Console flagged the missing license on all 1,020 of these pages
+      // (2026-07-30). CC BY 4.0 matches the sources: Open-Meteo publishes under
+      // it, and our figures are a derived aggregation of theirs.
+      license: 'https://creativecommons.org/licenses/by/4.0/',
+      // The rest of Google's recommended Dataset fields, so this is the last
+      // time this schema generates a warning: what is measured, over which
+      // period, and where the numbers come from.
+      variableMeasured: [
+        { '@type': 'PropertyValue', name: 'Average daily high temperature', unitText: '°C' },
+        { '@type': 'PropertyValue', name: 'Average daily low temperature', unitText: '°C' },
+        { '@type': 'PropertyValue', name: 'Monthly precipitation', unitText: 'mm' },
+      ],
+      ...(data.climateYears && {
+        temporalCoverage: `${new Date().getUTCFullYear() - data.climateYears}/${new Date().getUTCFullYear() - 1}`,
+      }),
+      ...(data.climateCity && { spatialCoverage: { '@type': 'Place', name: data.climateCity } }),
+      isBasedOn: 'https://open-meteo.com/',
     },
   ],
 };
