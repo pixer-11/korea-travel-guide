@@ -212,7 +212,14 @@ try {
   const rank = (arr) => arr.sort((a, b) => (b.featured ? 1 : 0) - (a.featured ? 1 : 0));
   const at = post.fm.place?.lat && post.fm.place?.lng
     ? { lat: post.fm.place.lat, lng: post.fm.place.lng } : null;
-  for (const c of rank(await commonsCandidates(`${venueName} ${region}`, 8, venueName, at))) {
+  // EVENT posts search without the town and without the subject-name test:
+  // uploaders tag riders and circuits, not municipalities — "MotoGP … Alcañiz"
+  // returned one usable file while the bare event name returns pages of them,
+  // and the owner got a two-slide set for a race with hundreds of free photos.
+  // The event-mode vision gate below still judges every candidate.
+  const isEvent = post.fm.category === 'event';
+  const q = isEvent ? venueName : `${venueName} ${region}`;
+  for (const c of rank(await commonsCandidates(q, 8, isEvent ? '' : venueName, isEvent ? null : at))) {
     cands.push({ url: c.url, credit: c.credit });
   }
   // Venues: the same Foursquare/Flickr sources the site's photo pipeline uses.
@@ -235,7 +242,7 @@ try {
     try {
       v = await verifyGalleryImage({
         url: c.url, heroUrl, name: venueName,
-        category: post.fm.category, region, country,
+        category: post.fm.category, region, country, eventMode: isEvent,
       });
     } catch { continue; }
     if (!v?.ok) continue;

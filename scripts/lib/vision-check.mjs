@@ -30,7 +30,7 @@ async function fetchAsBase64(url) {
 // the wrong place (same failure as a hero), or it can be a near-duplicate of the
 // hero, which reads as filler and cheapens the page. This sends BOTH images at
 // once so the model can compare them directly. Strict: reject when unsure.
-export async function verifyGalleryImage({ url, heroUrl, name, category, region, country }) {
+export async function verifyGalleryImage({ url, heroUrl, name, category, region, country, eventMode = false }) {
   if (!process.env.ANTHROPIC_API_KEY) return { ok: false, reason: 'no-api-key (gallery needs verification)' };
   let candidate, hero;
   try {
@@ -55,6 +55,13 @@ export async function verifyGalleryImage({ url, heroUrl, name, category, region,
     text:
       `You are a photo editor for a travel guide where accuracy is the #1 rule. The article is about ` +
       `"${name}" — a ${category} in ${region}, ${country}.\n` +
+      // Events flip the identity rule, exactly as the hero check does: the
+      // right photo is the rider, the band, the race — taken at ANY venue, any
+      // year. Requiring the host town to be recognisable is how a MotoGP round
+      // with hundreds of free photos went out as a two-slide set.
+      (eventMode
+        ? `THIS IS AN EVENT ARTICLE: a photo of the performer/athlete/team taken anywhere, or of this event type in action (the race, the stage, the ring), IS CORRECT — do NOT require this specific venue or town to be visible. Still reject: unrelated people, logos/posters/screens, a different sport or act.\n`
+        : '') +
       `Judge ${hero ? 'IMAGE 2' : 'this image'} as an ADDITIONAL in-body photo.\n` +
       `REJECT if: it shows a different country/region (wrong-language signage, wrong architecture/landscape), ` +
       `it is a painting/illustration/diagram/logo/map/screenshot, it shows an unrelated subject, ` +
@@ -63,11 +70,13 @@ export async function verifyGalleryImage({ url, heroUrl, name, category, region,
       (hero
         ? `ALSO REJECT if it is essentially the SAME view as IMAGE 1 (same angle, same subject) — a second photo must ADD something: a different room, the exterior vs the interior, the food, the surroundings.\n`
         : '') +
-      `REJECT if it is only NEAR the place rather than OF it: a random building on the same street, a generic alley, a car park, a signboard, a close-up of an object that could be anywhere. Being in the right neighbourhood is NOT enough.\n` +
+      (eventMode ? '' : `REJECT if it is only NEAR the place rather than OF it: a random building on the same street, a generic alley, a car park, a signboard, a close-up of an object that could be anywhere. Being in the right neighbourhood is NOT enough.\n`) +
       `REJECT if the photo shows the place in a state a visitor will not see: under construction, scaffolded, being restored, closed off, or before it was finished. REJECT a photograph OF A SIGN, notice, plaque, map, poster, banner or screen — text about the place is not a picture of it, however clearly it names it. These pass a "is this the right subject" test and still cannot be published.\n` +
       `The bar is CERTAINTY, not plausibility. If your own reason would contain "probably", "plausibly", "likely", "appears to be" or "could be", the answer is false. A dish photographed on a plain table, a drink, a menu close-up or any framing that could have been taken at a thousand other places does NOT identify this venue, however appetising it looks — reject it unless the venue itself is visible around it (its room, its signage, its terrace, its view).\n` +
       `A post with ONE correct hero is a perfectly good outcome; a second photo is a bonus and is never worth a doubt.\n` +
-      `ACCEPT only if a reader who knows this place would recognise it as THIS venue, AND the photo adds new visual information.\n` +
+      (eventMode
+        ? `ACCEPT if it clearly shows this event's sport/act or its performers, AND adds new visual information.\n`
+        : `ACCEPT only if a reader who knows this place would recognise it as THIS venue, AND the photo adds new visual information.\n`) +
       `Answer ONLY JSON: {"ok": true|false, "reason": "<max 12 words>"}`,
   });
   // One retry: a truncated/preamble-wrapped reply is a transport hiccup, not a

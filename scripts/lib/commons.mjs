@@ -70,12 +70,25 @@ const SHOT_FROM_NOT_OF = /\b(?:from|by|near|beside|outside|toward|towards|overlo
 // pluralise freely: "Phi Phi Islands" found nothing until "Phi Phi Island"
 // (singular, as the uploaders wrote it) also counted.
 const stem = (w) => w.replace(/(?:es|s)$/i, '');
+// Connectives carry no identity — "Gran Premio DE Aragón" is not more specific
+// for containing "de", and requiring it rejected every real photo of the race.
+const NAME_STOP = new Set(['de', 'del', 'la', 'las', 'los', 'the', 'of', 'and', 'el', 'le', 'les', 'da', 'do', 'di']);
 const namesSubjectNotVantage = (title, subject) => {
   const words = String(subject || '').toLowerCase().match(/[\p{L}\p{N}]{2,}/gu) || [];
   if (!words.length) return true;
   const hay = title.toLowerCase();
   const haystack = (hay.match(/[\p{L}\p{N}]{2,}/gu) || []).map(stem);
-  if (!words.every((w) => haystack.includes(stem(w)))) return false;
+
+  // Short names must match whole: "Cloud Gate" with one word missing is a
+  // different place. Long EVENT-style names ("MotoGP Gran Premio de Aragón")
+  // must not: Commons files say "Gran Premio de Aragón 2019" or "MotoGP Aragon"
+  // — never the full ceremonial title — and the all-words rule sent the owner a
+  // two-slide set for a race with hundreds of free photos. 60% of the
+  // distinctive words is enough to be talking about the same thing.
+  const sig = [...new Set(words.filter((w) => !NAME_STOP.has(w)).map(stem))];
+  const matched = sig.filter((w) => haystack.includes(w)).length;
+  const needed = sig.length <= 2 ? sig.length : Math.ceil(sig.length * 0.6);
+  if (matched < needed) return false;
 
   // Where the subject is first mentioned; everything before it decides whether
   // the photo is OF the place or merely taken FROM it.
