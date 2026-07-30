@@ -8,6 +8,10 @@
   "main": "worker/index.mjs",
   "assets": {
     "directory": "./dist",
-    "binding": "ASSETS"
+    "binding": "ASSETS",
+    // Serve dist/404.html for unknown paths. Without this, Workers assets
+    // answers a wrong URL with a ZERO-BYTE 404 — the custom page shipped on
+    // 07-29 was built into every deploy and never shown to anyone.
+    "not_found_handling": "404-page"
   }
 }
