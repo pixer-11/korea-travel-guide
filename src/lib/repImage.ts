@@ -24,7 +24,13 @@ export function pickRepHeroUrl(posts: HeroPost[]): string {
   if (!withHero.length) return '';
   // Stable sort by category rank — ties keep the caller's order (usually newest first).
   withHero.sort((a, b) => (CAT_RANK[a.data.category] ?? 5) - (CAT_RANK[b.data.category] ?? 5));
-  return tileSize(withHero[0].data.heroImage!.url!);
+  // Returns the RAW stored URL. For one day this returned tileSize(url), and
+  // two callers — DestinationHub and RegionsIndex — hashed the return value to
+  // derive their /wall/ thumbnail name. Hashing the transformed string produced
+  // file names that exist nowhere, and every city tile on the country pages
+  // went dark. A picker must not transform; the consumer that wants a
+  // thumbnail calls tileSize() itself, exactly once.
+  return withHero[0].data.heroImage!.url!;
 }
 
 // These URLs become CSS background-image on ~156px-wide tiles, which can take

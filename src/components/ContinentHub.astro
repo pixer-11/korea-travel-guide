@@ -6,7 +6,7 @@ import Newsletter from './Newsletter.astro';
 import Flag from './Flag.astro';
 import Emoji from './Emoji.astro';
 import { SITE } from '../siteConfig';
-import { pickRepHeroUrl } from '../lib/repImage';
+import { pickRepHeroUrl, tileSize } from '../lib/repImage';
 import { useTranslations, localizePath, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 import { localizeBlurb } from '../i18n/countryBlurbs';
@@ -30,7 +30,7 @@ const heroPost = posts.find(
   (p) => names.has(p.data.country ?? 'South Korea') && p.data.heroImage?.url && !p.data.heroImage.url.includes('placeholder')
 );
 const heroImg = heroPost?.data.heroImage?.url ?? '';
-const repImage = (name: string) => pickRepHeroUrl(posts.filter((p) => (p.data.country ?? 'South Korea') === name));
+const repImage = (name: string) => tileSize(pickRepHeroUrl(posts.filter((p) => (p.data.country ?? 'South Korea') === name)));
 
 const liveText = liveCount > 0
   ? `${t('cont.countriesLive').replace('{n}', String(liveCount))}${guideTotal ? ` · ${t('home.guides').replace('{n}', String(guideTotal))}` : ''} — ${t('cont.pickToStart')}`

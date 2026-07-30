@@ -6,7 +6,7 @@ import PostCard from './PostCard.astro';
 import Flag from './Flag.astro';
 import Emoji from './Emoji.astro';
 import Newsletter from './Newsletter.astro';
-import { pickRepHeroUrl } from '../lib/repImage';
+import { pickRepHeroUrl, tileSize } from '../lib/repImage';
 import { isEventPast, eventSortValue } from '../lib/eventStatus';
 import { slugifyRegion } from '../lib/slug';
 import { useTranslations, localizePath, klookLocale, type Lang } from '../i18n/utils';
@@ -44,7 +44,9 @@ const itinTranslations =
 const itinTitle = (it: any) => itinTranslations.get(it.id)?.title ?? it.data.title;
 const itinStopCount = (it: any) => it.data.itinerary.reduce((n: number, day: any) => n + day.stops.length, 0);
 
-const wallThumb = (url: string) => (url ? `/wall/${createHash('sha1').update(url).digest('hex').slice(0, 16)}.webp` : '');
+// tileSize checks the thumbnail actually EXISTS and falls back to a downsized
+// remote render. The local hash-only version this replaces emitted names for
+// files that were never built, which is how every city tile went dark.
 
 const regionCounts = new Map<string, number>();
 for (const p of posts) regionCounts.set(p.data.region, (regionCounts.get(p.data.region) ?? 0) + 1);
@@ -66,7 +68,7 @@ const essentialsSlugs = new Set(
   (await getCollection('essentials', ({ data }) => !data.draft)).map((e) => e.id)
 );
 const hasEssentials = essentialsSlugs.has(country.slug);
-const regionImage = (r: string) => wallThumb(pickRepHeroUrl(posts.filter((p) => p.data.region === r)));
+const regionImage = (r: string) => tileSize(pickRepHeroUrl(posts.filter((p) => p.data.region === r)));
 
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
 const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();

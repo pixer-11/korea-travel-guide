@@ -1,6 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
-import { createHash } from 'node:crypto';
+import { tileSize } from '../lib/repImage';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Newsletter from './Newsletter.astro';
 import { slugifyRegion } from '../lib/slug';
@@ -14,13 +14,13 @@ const { lang } = Astro.props;
 const t = useTranslations(lang);
 
 const posts = await getCollection('posts', ({ data }) => !data.draft);
-const wallThumb = (url: string) => (url ? `/wall/${createHash('sha1').update(url).digest('hex').slice(0, 16)}.webp` : '');
+// Same dark-tile trap as DestinationHub: hash-only, no existence check.
 const counts = new Map<string, number>();
 const regionImg = new Map<string, string>();
 for (const p of posts) {
   counts.set(p.data.region, (counts.get(p.data.region) ?? 0) + 1);
   if (!regionImg.has(p.data.region) && p.data.heroImage?.url && !p.data.heroImage.url.includes('placeholder')) {
-    regionImg.set(p.data.region, wallThumb(p.data.heroImage.url));
+    regionImg.set(p.data.region, tileSize(p.data.heroImage.url));
   }
 }
 const regions = [...counts.entries()]

@@ -96,7 +96,7 @@ const countFor = (name) => posts.filter((p) => (p.data.country ?? 'South Korea')
 const countries = countriesData.countries.map((c) => ({ ...c, count: countFor(c.name) }));
 const live = countries.filter((c) => c.count > 0);
 const soon = countries.filter((c) => c.count === 0);
-const repImage = (name) => pickRepHeroUrl(posts.filter((p) => (p.data.country ?? 'South Korea') === name));
+const repImage = (name) => tileSize(pickRepHeroUrl(posts.filter((p) => (p.data.country ?? 'South Korea') === name)));
 
 const koreaLinks = [
   { label: 'Seoul', href: '/regions/seoul' },
