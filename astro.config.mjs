@@ -156,12 +156,12 @@ function regionRedirects() {
     else if (r && !r.includes('/')) liveRegions.add(r);
   }
   const lines = [];
-  // Host normalization. www. and the apex both answer 200 with full content;
-  // canonical tags mitigate the duplicate-index risk but no 301 consolidates
-  // link equity or stops crawlers spending budget on both hosts. Cloudflare
-  // honours absolute-URL rules in _redirects when the host is attached to the
-  // project, which www is (it serves the site today).
-  lines.push('https://www.wanderatlasguides.com/* https://wanderatlasguides.com/:splat 301');
+  // Host normalization (www -> apex) deliberately does NOT live here. This
+  // project deploys as a WORKER with static assets, and absolute-URL sources in
+  // _redirects are a Pages-only feature — the deploy validator refused the file
+  // and every build after this line landed failed, freezing the site at the
+  // morning's version while the day's fixes piled up unpublished. The www 301
+  // belongs in a Cloudflare dashboard Redirect Rule, set once by the owner.
   // Quarantined (draft:true) posts render no page, which would 404 any visitor
   // holding the old link — the user hit exactly that on the Manseok post. Send
   // them to the region hub instead; the moment the post is un-drafted the page
