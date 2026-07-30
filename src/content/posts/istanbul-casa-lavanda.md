@@ -27,7 +27,7 @@ faq:
   - q: What's the best time of year to go?
     a: Late spring through early autumn, when the kitchen garden is at its most productive and the Şile countryside is greenest. Confirm current opening days and hours directly with the restaurant before planning your trip.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Casa Lavanda is worth the drive

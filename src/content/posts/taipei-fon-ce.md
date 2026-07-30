@@ -27,7 +27,7 @@ faq:
   - q: Is Fon-Ce good for a special occasion?
     a: The terracotta-and-cactus dining room and its recent MICHELIN recognition make it a strong pick for an anchor dinner rather than a quick meal — plan your evening around it.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Fon-Ce stands out

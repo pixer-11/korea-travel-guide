@@ -27,7 +27,7 @@ faq:
   - q: How should I pay?
     a: Mobile payment — Alipay or WeChat Pay — is standard practice in Shanghai and the fastest option; tipping isn't expected.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why everyone's talking about it

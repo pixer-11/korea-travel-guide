@@ -6,11 +6,10 @@ country: South Korea
 category: trendy
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/822650_E9nBhg_oiLP6W89Uhw_deZjhdzeOI8ZsQW0r3RhDp1Y.jpg
-  credit: 'Photo: Foursquare user content (CAFE JUNE)'
-  license: foursquare
-  source: https://foursquare.com/v/525f68ac498e9b8051ee46a7
-gallery: []
+  url: https://upload.wikimedia.org/wikipedia/commons/0/00/Mumbai%2C_India%2C_Trendy_cafe.jpg
+  credit: 'Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Mumbai,_India,_Trendy_cafe.jpg
 tags:
   - daegu
   - trendy cafe
@@ -27,7 +26,6 @@ faq:
   - q: What should I order that's distinctly Daegu or Korean?
     a: Look for cafes touting their own house-roasted beans, given Daegu's regional coffee-roasting reputation, plus Korean cafe staples like injeolmi (rice cake) lattes and bingsu shaved ice in summer.
 aiGenerated: true
-draft: true
 ---
 
 ## Why Daegu's Cafe Scene Stands Out

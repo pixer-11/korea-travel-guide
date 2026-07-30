@@ -27,7 +27,7 @@ faq:
   - q: Is City Cup touristy or crowded?
     a: No — it's inside a working office building rather than a tourist zone, so it draws far fewer visitors than Bangkok's well-known rooftop bars, though seating is limited simply because the space itself is small.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why City Cup is worth the detour

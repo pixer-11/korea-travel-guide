@@ -6,11 +6,10 @@ region: Seoul
 category: hidden-gem
 pubDate: '2026-07-29'
 heroImage:
-  url: https://images.unsplash.com/photo-1546874177-9e664107314e?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U2VvdWwlMjBTb3V0aCUyMEtvcmVhfGVufDB8MHx8fDE3ODUzNjA2ODJ8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Yohan Cho on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@yohoney?utm_source=korea_travel_guide&utm_medium=referral
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/1031332_-rpqby6juzcDn7SkOnA40vqxgepHItP9LnyPSsfewAg.jpg
+  credit: 'Photo: Foursquare user content (Artist Bakery (아티스트베이커리))'
+  license: foursquare
+  source: https://foursquare.com/v/69ce0d3a931d8e6bfaee69df
 tags:
   - seoul
   - new & trending

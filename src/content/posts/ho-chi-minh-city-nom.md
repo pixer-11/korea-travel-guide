@@ -6,11 +6,10 @@ region: Ho Chi Minh City
 category: restaurant
 pubDate: '2026-07-29'
 heroImage:
-  url: https://images.unsplash.com/photo-1583417319070-4a69db38a482?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SG8lMjBDaGklMjBNaW5oJTIwQ2l0eSUyMFZpZXRuYW0lMjBOJUMzJTk0TXxlbnwwfDB8fHwxNzg1MzYxNzg4fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Tron Le on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@tronle_sg?utm_source=korea_travel_guide&utm_medium=referral
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/42418573_oqPm8hEpiCAk9hJM97fuTzDMnGcWY7DvZ3GuEN_YNP0.jpg
+  credit: 'Photo: Foursquare user content (Cơm Gà Ta Quảng Nôm)'
+  license: foursquare
+  source: https://foursquare.com/v/6964982ee745175e19dd9a74
 tags:
   - ho chi minh city
   - new & trending

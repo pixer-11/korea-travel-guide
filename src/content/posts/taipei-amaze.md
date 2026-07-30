@@ -27,7 +27,7 @@ faq:
   - q: Is aMaze easy to reach by public transit?
     a: Taipei's MRT network covers most of the city's dining districts well, but confirm aMaze's current address and nearest station directly with the restaurant before your visit, as details can change.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why aMaze stands out

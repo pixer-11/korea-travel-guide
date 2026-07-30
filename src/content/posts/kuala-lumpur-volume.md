@@ -27,7 +27,7 @@ faq:
   - q: Is there anything nearby to pair with a visit?
     a: Since Volume sits within the Klang Valley's wider bar and café scene, it pairs naturally with an evening exploring other nearby music bars or cafés in the same neighborhood — worth checking what's within walking distance once you confirm its exact address.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

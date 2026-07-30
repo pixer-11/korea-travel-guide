@@ -6,11 +6,10 @@ region: Dubai
 category: restaurant
 pubDate: '2026-07-23'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/6430939_BM13p4N-mmxcKsy1W8wPoSresx3YIKrp4UcX5pjaNXQ.jpg
-  credit: 'Photo: Foursquare user content (Barrafina Dubai)'
+  url: https://fastly.4sqi.net/img/general/original/20545493_0RjAAOhZd5Q_scHLHgJLakRDBabDS1xoYeyaIulJiBI.jpg
+  credit: 'Photo: Foursquare user content (Mercato - DIFC)'
   license: foursquare
-  source: https://foursquare.com/v/697e11d5e7dd691fbc009148
-gallery: []
+  source: https://foursquare.com/v/574d8a59498e4e4889ccbf77
 place:
   id: ChIJb0ko4_xDXz4RrOW2NKjou8k
   name: Barrafina Restaurant DIFC
@@ -46,7 +45,6 @@ faq:
   - q: What's the best time to visit to avoid a wait?
     a: Early lunch or an early dinner, before the after-work DIFC crowd arrives, tends to offer the best shot at counter seating.
 aiGenerated: true
-draft: true
 ---
 
 ## Why Barrafina matters

@@ -6,11 +6,10 @@ region: Istanbul
 category: trendy
 pubDate: '2026-07-29'
 heroImage:
-  url: https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SXN0YW5idWwlMjBUdXJrZXl8ZW58MHwwfHx8MTc4NTM2MjkzM3ww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Anna Berdnik on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@aberdni?utm_source=korea_travel_guide&utm_medium=referral
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/1401319416_J-HZqLm4CfGwlYHCFgxB1Wrxqn0Rum4QixP47ogoQwQ.jpg
+  credit: 'Photo: Foursquare user content (Sankai by Nagaya)'
+  license: foursquare
+  source: https://foursquare.com/v/63d38d2afa15ed3e9bbf1519
 tags:
   - istanbul
   - new & trending

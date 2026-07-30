@@ -6,10 +6,10 @@ region: Siargao
 category: attraction
 pubDate: '2026-07-26T07:56:39.861Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Siargao_Cloud_9.jpg/1920px-Siargao_Cloud_9.jpg
-  credit: 'Photo: Spraken eboy2887 / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Siargao_Cloud_9.jpg
+  url: https://fastly.4sqi.net/img/general/original/15266569_9L8y5XQYXbihBmkPY1-V6R0LxYlFWm94IxPh2K6PW1o.jpg
+  credit: 'Photo: Foursquare user content (Cloud 9)'
+  license: foursquare
+  source: https://foursquare.com/v/4bf24e88324cc9b629f8cc92
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/349475157__2L9z0T9BiTU7eF7O4iCRVCo-Y4BgCBXwuVVQ2pb0ig.jpg
     credit: 'Photo: Foursquare user content (Cloud 9)'
@@ -49,7 +49,6 @@ faq:
   - q: Do I need to book a surf lesson in advance?
     a: Not usually — equipment rental stalls and instructors are available right at the beach access near the boardwalk, and lessons are typically arranged and paid for in cash on the spot.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

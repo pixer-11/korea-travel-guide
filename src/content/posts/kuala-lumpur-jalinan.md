@@ -27,7 +27,7 @@ faq:
   - q: What's the best time to visit?
     a: Dinner and evening drinks suit the concept best. Since it's a recent opening, confirm the actual hours and any closed days directly before you go, as schedules can shift in the early months.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Jalinan is worth your evening

@@ -6,11 +6,10 @@ region: Barcelona
 category: trendy
 pubDate: '2026-07-29'
 heroImage:
-  url: https://images.unsplash.com/photo-1583422409516-2895a77efded?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8QmFyY2Vsb25hJTIwU3BhaW58ZW58MHwwfHx8MTc4NTM2MTYwN3ww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Logan Armstrong on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@loganstrongarms?utm_source=korea_travel_guide&utm_medium=referral
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/55309605_EPZV2RdS-1MhKYXITtlESRDOzewMiWteG0AC_1xwhtA.jpg
+  credit: 'Photo: Foursquare user content (El Nacional Barra de Vins)'
+  license: foursquare
+  source: https://foursquare.com/v/5b2171e5a795bd0039e1a214
 tags:
   - barcelona
   - new & trending

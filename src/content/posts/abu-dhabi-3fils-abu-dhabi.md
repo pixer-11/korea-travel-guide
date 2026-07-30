@@ -6,11 +6,10 @@ region: Abu Dhabi
 category: trendy
 pubDate: '2026-07-29'
 heroImage:
-  url: https://images.unsplash.com/photo-1613835579153-9bfe32e50da6?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8QWJ1JTIwRGhhYmklMjBVbml0ZWQlMjBBcmFiJTIwRW1pcmF0ZXMlMjAzRmlscyUyMEFidSUyMERoYWJpfGVufDB8MHx8fDE3ODUzNjE5Mzl8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Imtiyaz Ali on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@imtiiiyaazz?utm_source=korea_travel_guide&utm_medium=referral
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/1399899968_oly9dPvnB_OlWLsGSxQyyi324KzyrdjU0ZD5azPUfvo.jpg
+  credit: 'Photo: Foursquare user content (3Fils)'
+  license: foursquare
+  source: https://foursquare.com/v/686bed347f38376c9795c0e3
 tags:
   - abu dhabi
   - new & trending

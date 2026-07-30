@@ -27,7 +27,7 @@ faq:
   - q: How do I get to Yana from central Abu Dhabi?
     a: By car or taxi is easiest — the drive from downtown is typically under 30 minutes, since public transport to Saadiyat Island is limited.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Yana stands out

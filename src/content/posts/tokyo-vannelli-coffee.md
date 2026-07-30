@@ -6,11 +6,10 @@ region: Tokyo
 category: trendy
 pubDate: '2026-07-29'
 heroImage:
-  url: https://images.unsplash.com/photo-1545569341-9eb8b30979d9?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8VG9reW8lMjBKYXBhbnxlbnwwfDB8fHwxNzg1MzYwODA5fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Su San Lee on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@blackodc?utm_source=korea_travel_guide&utm_medium=referral
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/150480670_SqXtspuhy_6_CFk8iTQqZ7FMxlvIcIvYiJ03W7DzsVs.jpg
+  credit: 'Photo: Foursquare user content (Vannelli Coffee)'
+  license: foursquare
+  source: https://foursquare.com/v/699005d8c60a9b5a8ff43190
 tags:
   - tokyo
   - new & trending

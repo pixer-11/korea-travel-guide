@@ -27,7 +27,7 @@ faq:
   - q: How do I get there from South Mumbai?
     a: Car or auto-rickshaw is easiest, though allow extra time for traffic, especially in the evening. If coming from the suburbs, Bandra railway station on the Western Line puts you within a short ride of the neighborhood.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Seasee, why now

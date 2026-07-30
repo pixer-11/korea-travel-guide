@@ -6,11 +6,10 @@ region: Milan
 category: trendy
 pubDate: '2026-07-29'
 heroImage:
-  url: https://images.unsplash.com/photo-1499678329028-101435549a4e?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8TWlsYW4lMjBJdGFseXxlbnwwfDB8fHwxNzg1MzYxMjc1fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Anders Jildén on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@andersjilden?utm_source=korea_travel_guide&utm_medium=referral
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/2805260_4WNU5c2ZqSOKr8VRMzsNz3VQBhm5o0mykkzcGsW-7JQ.jpg
+  credit: 'Photo: Foursquare user content (Langosteria Café)'
+  license: foursquare
+  source: https://foursquare.com/v/56f29273498e4d47d6f4381d
 tags:
   - milan
   - new & trending

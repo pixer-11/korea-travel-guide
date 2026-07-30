@@ -6,11 +6,10 @@ region: Seoul
 category: restaurant
 pubDate: '2026-07-29'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hakka_Restaurant_-_San_Francisco%2C_CA.jpg/3840px-Hakka_Restaurant_-_San_Francisco%2C_CA.jpg
-  credit: 'Photo: Daderot / Wikimedia Commons (CC0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Hakka_Restaurant_-_San_Francisco,_CA.jpg
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/sJ7WouHt3xPzCYi1UBqQ2-WZVOzew3GkGBWleJTYNZI.jpg
+  credit: 'Photo: Foursquare user content (SAN DAMIANO (산다미아노))'
+  license: foursquare
+  source: https://foursquare.com/v/4bbc36fae452952183af55a4
 tags:
   - seoul
   - new & trending

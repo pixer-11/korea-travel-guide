@@ -27,7 +27,7 @@ faq:
   - q: What's nearby if I want to make a night of it?
     a: It's connected to Hanoi's established bar and café scene through its founders' other projects, Tê Bar and Cong Cafe, both worth knowing as reference points for the kind of night out this city offers.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

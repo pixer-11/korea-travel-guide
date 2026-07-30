@@ -6,11 +6,10 @@ region: Makati
 category: trendy
 pubDate: '2026-07-29'
 heroImage:
-  url: https://images.unsplash.com/photo-1607282729548-e1d13feae36f?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8TWFrYXRpJTIwUGhpbGlwcGluZXN8ZW58MHwwfHx8MTc4NTM2Mjc2N3ww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Sean Yoro on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@seanyoro?utm_source=korea_travel_guide&utm_medium=referral
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/24569583_e7rtiCMvd85PFlB61xvMkHij4HDQDChP7NcClflBqc0.jpg
+  credit: 'Photo: Foursquare user content (Kariton x Sabi Sounds)'
+  license: foursquare
+  source: https://foursquare.com/v/6a0e8e4281d650359f0e76ee
 tags:
   - makati
   - new & trending

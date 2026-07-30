@@ -6,11 +6,10 @@ region: New York City
 category: restaurant
 pubDate: '2026-07-29'
 heroImage:
-  url: https://images.unsplash.com/photo-1499092346589-b9b6be3e94b2?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8TmV3JTIwWW9yayUyMENpdHklMjBVbml0ZWQlMjBTdGF0ZXN8ZW58MHwwfHx8MTc4NTM2MDg5Nnww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Patrick Tomasso on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@impatrickt?utm_source=korea_travel_guide&utm_medium=referral
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/2488950_m3DGWWkDUawf5k7DNt3SRuWCr_cXtwE1KUBYZINX-RY.jpg
+  credit: 'Photo: Foursquare user content (Atomix)'
+  license: foursquare
+  source: https://foursquare.com/v/5b08ede88e886a002c2e85d8
 tags:
   - new york city
   - new & trending

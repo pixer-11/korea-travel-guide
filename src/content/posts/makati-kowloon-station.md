@@ -6,11 +6,10 @@ region: Makati
 category: restaurant
 pubDate: '2026-07-29'
 heroImage:
-  url: https://images.unsplash.com/photo-1597285952775-1382215fbff0?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8TWFrYXRpJTIwUGhpbGlwcGluZXN8ZW58MHwwfHx8MTc4NTM2MjgwMHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Alexes Gerard on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@xlexes?utm_source=korea_travel_guide&utm_medium=referral
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/8807240_LfGUgcw6G2N5fxO7VdVYOYq_Uh6qjf_ldQRS4uNLZ1U.jpg
+  credit: 'Photo: Foursquare user content (Kowloon Station)'
+  license: foursquare
+  source: https://foursquare.com/v/6a3782ef723dd632c91a3dd4
 tags:
   - makati
   - new & trending

@@ -6,11 +6,10 @@ region: Barcelona
 category: restaurant
 pubDate: '2026-07-29'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Placa_da_Parada_da_EMTU_Torres_Tibagy.jpg/3840px-Placa_da_Parada_da_EMTU_Torres_Tibagy.jpg
-  credit: 'Photo: FrangoBoy / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Placa_da_Parada_da_EMTU_Torres_Tibagy.jpg
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/5091439_qWXBvKS1-KO3Bxj8v-X27kZIn7uu-n3IT5NpXX_RxlU.jpg
+  credit: 'Photo: Foursquare user content (Parada Torres)'
+  license: foursquare
+  source: https://foursquare.com/v/6a16c956345c747e9a3dbfa7
 tags:
   - barcelona
   - new & trending

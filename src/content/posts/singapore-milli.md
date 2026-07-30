@@ -6,11 +6,10 @@ region: Singapore
 category: trendy
 pubDate: '2026-07-29'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Folding_Rules_2.jpg/1920px-Folding_Rules_2.jpg
-  credit: 'Photo: Goele / Wikimedia Commons (Public domain)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Folding_Rules_2.jpg
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/2846870_KUhZlbZqM1Qllm8uz_Mxvrnfhh_aayFPdaICKQ_gYJQ.jpg
+  credit: 'Photo: Foursquare user content (Milli - Sky Dining, Bar & Lounge)'
+  license: foursquare
+  source: https://foursquare.com/v/6a1d56ee85811439a81db763
 tags:
   - singapore
   - new & trending

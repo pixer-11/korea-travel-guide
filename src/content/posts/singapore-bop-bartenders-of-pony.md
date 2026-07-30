@@ -6,11 +6,10 @@ region: Singapore
 category: trendy
 pubDate: '2026-07-29'
 heroImage:
-  url: https://images.unsplash.com/photo-1525625293386-3f8f99389edd?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U2luZ2Fwb3JlJTIwU2luZ2Fwb3JlfGVufDB8MHx8fDE3ODUzNjMxMjJ8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Hu Chen on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@huchenme?utm_source=korea_travel_guide&utm_medium=referral
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/13010698_STrLYC5Zf3uqd_RzKs77Ar5H1rFdVGpwlnU1jkXmYqE.jpg
+  credit: 'Photo: Foursquare user content (Bop - Bartenders Of Pony)'
+  license: foursquare
+  source: https://foursquare.com/v/69833becdc2beb24db950d36
 tags:
   - singapore
   - new & trending

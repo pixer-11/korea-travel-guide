@@ -6,11 +6,10 @@ region: Milan
 category: trendy
 pubDate: '2026-07-29'
 heroImage:
-  url: https://images.unsplash.com/photo-1610016302534-6f67f1c968d8?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8TWlsYW4lMjBJdGFseXxlbnwwfDB8fHwxNzg1MzYxMjc1fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Ouael Ben Salah on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@benwksi?utm_source=korea_travel_guide&utm_medium=referral
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/6927758_10HXPzyv7io7Ns-v1k8A5jDr0PwVTaAAWbh4sv5Tx7k.jpg
+  credit: 'Photo: Foursquare user content (Sandì)'
+  license: foursquare
+  source: https://foursquare.com/v/67714dea84c2ac6a317d1294
 tags:
   - milan
   - new & trending

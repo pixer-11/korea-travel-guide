@@ -27,7 +27,7 @@ faq:
   - q: What's nearby if I want to make an evening of it?
     a: The Mahalaxmi Temple and Mahalaxmi Racecourse are both close by, and the neighbourhood sits within easy reach of Worli and Bandra for a longer night out.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 You feel the shift the moment you turn off the traffic-choked stretch of Mahalaxmi and pass through the gates of the Royal Western India Turf Club. Outside, it's auto-rickshaws, honking, the smell of the flower market drifting over from Dadar. Inside, the noise falls away and you're suddenly walking a path lined with clipped hedges toward a fountain that looks like it belongs in a much older, much grander building. This is Soraia — Mumbai's newest attempt to reinvent what a "club" in this city can look like, and one of the more talked-about openings feeding into what's being called the city's emerging club landscape heading into 2026.

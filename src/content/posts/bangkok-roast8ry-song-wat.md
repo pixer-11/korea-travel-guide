@@ -17,7 +17,7 @@ tags:
 quickAnswer: Roast8ry Song Wat is the Bangkok flagship of Chiang Mai's award-winning specialty coffee brand, founded by 2017 World Latte Art Champion Arnon Thitiprasert, tucked into the old shophouse lanes of Song Wat Road on the western edge of Chinatown. Go for a slow mid-morning coffee rather than a quick grab-and-go, and pair it with a walk along the Chao Phraya riverside warehouses nearby. Confirm current hours and whether reservations are accepted before you head over, since a spot this newly hyped can shift its schedule.
 faq: []
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 Song Wat Road doesn't look like a coffee pilgrimage site. It's a narrow, sun-baked strip of century-old shophouses running parallel to the Chao Phraya River, wedged between Chinatown's wholesale dry-goods trade and the water. Trucks idle outside warehouses stacked with dried mushrooms and paper goods, the air smells faintly of cardboard and river silt, and then — in the middle of it all — there's a queue of people cradling glass cups of pour-over like it's a sacrament. That's Roast8ry.

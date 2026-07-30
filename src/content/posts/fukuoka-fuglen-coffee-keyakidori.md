@@ -6,11 +6,10 @@ region: Fukuoka
 category: hidden-gem
 pubDate: '2026-07-29'
 heroImage:
-  url: https://images.unsplash.com/photo-1742395166051-a9463e4b510b?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8RnVrdW9rYSUyMEphcGFuJTIwRnVnbGVuJTIwQ29mZmVlJTIwJUUyJTgwJTkzJTIwS2V5YWtpZG9yaXxlbnwwfDB8fHwxNzg1MzYwODM5fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by K.T. Francis on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@ktfrancis?utm_source=korea_travel_guide&utm_medium=referral
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/66805671_TcriChD9yv7A1egWZ3X97_AalkLtgcaPozEiWUtSd7s.jpg
+  credit: 'Photo: Foursquare user content (Fuglen Keyakidori)'
+  license: foursquare
+  source: https://foursquare.com/v/69fa74ddf1dd8e03f96a420a
 tags:
   - fukuoka
   - new & trending

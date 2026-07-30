@@ -6,11 +6,10 @@ region: Los Angeles
 category: trendy
 pubDate: '2026-07-29'
 heroImage:
-  url: https://images.unsplash.com/photo-1570658379397-89d15db1b0de?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8TG9zJTIwQW5nZWxlcyUyMFVuaXRlZCUyMFN0YXRlc3xlbnwwfDB8fHwxNzg1MzYwOTMwfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Andy Feliciotti on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@someguy?utm_source=korea_travel_guide&utm_medium=referral
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/46708380_XELveRcacvn-Uh0TL1fo7Gm_o5Ch77rwYx5T44VvfL0.jpg
+  credit: 'Photo: Foursquare user content (Regalade)'
+  license: foursquare
+  source: https://foursquare.com/v/69437e859f3d3a0fe017c72d
 tags:
   - los angeles
   - new & trending

@@ -6,11 +6,10 @@ region: Shanghai
 category: restaurant
 pubDate: '2026-07-29'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/I_love_SUSHI_exhibition_in_Sabah_Islamic_Civilization_Museum_03052026_-_16.jpg/3840px-I_love_SUSHI_exhibition_in_Sabah_Islamic_Civilization_Museum_03052026_-_16.jpg
-  credit: 'Photo: Wiki Asmah / Wikimedia Commons (CC BY 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:I_love_SUSHI_exhibition_in_Sabah_Islamic_Civilization_Museum_03052026_-_16.jpg
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/1665930_66QQHlFQsX1JaUl7L9X7Fd517b10iZdVPMdqiyzMqYA.jpg
+  credit: 'Photo: Foursquare user content (Love Concept Cafe)'
+  license: foursquare
+  source: https://foursquare.com/v/56d4415dcd10c2bb85c38cda
 tags:
   - shanghai
   - new & trending
