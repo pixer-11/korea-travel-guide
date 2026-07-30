@@ -1,59 +1,67 @@
 ---
 title: "Bukchon Yukgyeong (Photo Spot): Seoul Travel Guide"
-description: "Bukchon Yukgyeong (\\\"Six Scenic Views of Bukchon\\\") is a self-guided walking route through Bukchon Hanok Village's steep alleys in Jongno District, with"
-country: "South Korea"
-region: "Seoul"
-category: "attraction"
+description: Bukchon Yukgyeong ("Six Scenic Views of Bukchon") is a self-guided walking route through Bukchon Hanok Village's steep alleys in Jongno District, with
+country: South Korea
+region: Seoul
+category: attraction
 pubDate: "2026-07-22T22:16:23.436Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg/1920px-Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg/1920px-Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg
   credit: "Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg"
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/4089262_TAGOA0XCgTQbeD3ij8-Av9l1eW6r2J38BaGBHYvE6R8.jpg
-    credit: 'Photo: Foursquare user content (Bukchon Hanok Village (북촌한옥마을))'
+    credit: "Photo: Foursquare user content (Bukchon Hanok Village (북촌한옥마을))"
     license: foursquare
     source: https://foursquare.com/v/4bbed04dba9776b01d47fec8
 place:
-  id: "ChIJpW84ltqjfDUR6yFNUAgpJzc"
-  name: "Bukchon Yukgyeong (Photo Spot)"
-  address: "31-48 Gahoe-dong, Jongno District, Seoul, South Korea"
+  id: ChIJpW84ltqjfDUR6yFNUAgpJzc
+  name: Bukchon Yukgyeong (Photo Spot)
+  address: 31-48 Gahoe-dong, Jongno District, Seoul, South Korea
   rating: 4.6
   userRatingsTotal: 1278
-  googleMapsUrl: "https://maps.google.com/?cid=3974190311861461483&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=3974190311861461483&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.582530299999995
   lng: 126.9836464
   busyness:
-    updated: '2026-07-23'
-    weekdayQuiet: [10, 16, 17]
-    weekendQuiet: [10, 17]
-    weekendBusy: [13, 14, 15]
-    venueId: 'ven_637a4a706741554e467936525544666a71746c343857704a496843'
+    updated: "2026-07-23"
+    weekdayQuiet:
+      - 10
+      - 16
+      - 17
+    weekendQuiet:
+      - 10
+      - 17
+    weekendBusy:
+      - 13
+      - 14
+      - 15
+    venueId: ven_637a4a706741554e467936525544666a71746c343857704a496843
   openingHours:
-    - 'Monday: 10:00 AM – 5:00 PM'
-    - 'Tuesday: 10:00 AM – 5:00 PM'
-    - 'Wednesday: 10:00 AM – 5:00 PM'
-    - 'Thursday: 10:00 AM – 5:00 PM'
-    - 'Friday: 10:00 AM – 5:00 PM'
-    - 'Saturday: 10:00 AM – 5:00 PM'
-    - 'Sunday: 10:00 AM – 5:00 PM'
+    - "Monday: 10:00 AM – 5:00 PM"
+    - "Tuesday: 10:00 AM – 5:00 PM"
+    - "Wednesday: 10:00 AM – 5:00 PM"
+    - "Thursday: 10:00 AM – 5:00 PM"
+    - "Friday: 10:00 AM – 5:00 PM"
+    - "Saturday: 10:00 AM – 5:00 PM"
+    - "Sunday: 10:00 AM – 5:00 PM"
 tags:
-  - "seoul"
-  - "Bukchon hanoks"
-quickAnswer: "Bukchon Yukgyeong (\"Six Scenic Views of Bukchon\") is a self-guided walking route through Bukchon Hanok Village's steep alleys in Jongno District, with \"View 6,\" on Gahoe-dong's hillside lanes (31-48 Gahoe-dong), the single most-photographed spot — a narrow stone alley framed by curved tiled hanok roofs with Namsan Tower visible in the distance. Go early morning (before 9am) or late afternoon on a weekday to shoot it without crowds, since this is a residential neighborhood where people actually live. Budget 1–2 hours to walk all six viewpoints from Anguk Station (Line 3) to Jaedong Elementary School."
+  - seoul
+  - Bukchon hanoks
+quickAnswer: Bukchon Yukgyeong ("Six Scenic Views of Bukchon") is a self-guided walking route through Bukchon Hanok Village's steep alleys in Jongno District, with "View 6," on Gahoe-dong's hillside lanes (31-48 Gahoe-dong), the single most-photographed spot — a narrow stone alley framed by curved tiled hanok roofs with Namsan Tower visible in the distance. Go right at opening, 10am, or late afternoon on a weekday to shoot it without crowds, since this is a residential neighborhood where people actually live. Budget 1–2 hours to walk all six viewpoints from Anguk Station (Line 3) to Jaedong Elementary School.
 faq:
-  - q: "How do I get to Bukchon Yukgyeong by subway?"
-    a: "Take Line 3 to Anguk Station, Exit 2, then walk uphill about 10-15 minutes into Gahoe-dong. Jongno 3-ga Station (Lines 1, 3, 5) is a nearby alternative."
-  - q: "Is there an entrance fee?"
-    a: "No — it's an open residential neighborhood with a walking route marked by numbered signposts, not a ticketed attraction. Nearby sites like Gahoe Museum or hanbok rentals charge separately."
-  - q: "How long does it take to see all six views?"
-    a: "Plan on 1-2 hours at a relaxed pace, including photo stops; add extra time if you rent hanbok or visit a tea house along the way."
-  - q: "What's the best time to visit for photos?"
-    a: "Before 9am on a weekday for empty alleys and soft light, or October-November and April for the best weather; weekends and midday get crowded."
-  - q: "What else is nearby?"
-    a: "Changdeokgung and Gyeongbokgung palaces are both within a 15-20 minute walk, and Insadong's shopping streets are a short taxi or walk away."
+  - q: How do I get to Bukchon Yukgyeong by subway?
+    a: Take Line 3 to Anguk Station, Exit 2, then walk uphill about 10-15 minutes into Gahoe-dong. Jongno 3-ga Station (Lines 1, 3, 5) is a nearby alternative.
+  - q: Is there an entrance fee?
+    a: No — it's an open residential neighborhood with a walking route marked by numbered signposts, not a ticketed attraction. Nearby sites like Gahoe Museum or hanbok rentals charge separately.
+  - q: How long does it take to see all six views?
+    a: Plan on 1-2 hours at a relaxed pace, including photo stops; add extra time if you rent hanbok or visit a tea house along the way.
+  - q: What's the best time to visit for photos?
+    a: Right at opening, 10am, on a weekday for the quietest alleys and soft light, or October-November and April for the best weather; weekends and midday get crowded.
+  - q: What else is nearby?
+    a: Changdeokgung and Gyeongbokgung palaces are both within a 15-20 minute walk, and Insadong's shopping streets are a short taxi or walk away.
 aiGenerated: true
 draft: false
 ---
@@ -76,7 +84,7 @@ Take Seoul Subway Line 3 to Anguk Station and leave via Exit 2. From there it's 
 
 ## When to go
 
-Early morning, ideally before 9am, is the best window — soft light, minimal foot traffic, and respectful of residents still asleep. Late afternoon on a weekday works too, though weekends get dense with tour groups by mid-morning. Spring (April) and autumn (October–November) bring the most flattering light and comfortable walking temperatures; midsummer is humid and the uphill sections get strenuous, while winter alleys can be icy underfoot. Plan on 1–2 hours to walk the full six-view route at a relaxed pace with photo stops.
+Right at opening, 10am, is the best window — soft light, minimal foot traffic, and respectful of residents still asleep. Late afternoon on a weekday works too, though weekends get dense with tour groups by mid-morning. Spring (April) and autumn (October–November) bring the most flattering light and comfortable walking temperatures; midsummer is humid and the uphill sections get strenuous, while winter alleys can be icy underfoot. Plan on 1–2 hours to walk the full six-view route at a relaxed pace with photo stops.
 
 ## Nearby & tips
 

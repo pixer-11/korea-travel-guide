@@ -294,7 +294,22 @@ jobs:
           set -o pipefail
           npm run generate 2>&1 | tee -a /tmp/gen.log
           node scripts/translate-posts.mjs || true
+          # Replacement posts are generated AFTER the wall-thumbnail step ran,
+          # so without this their cards rendered blank (bordeaux-miroir-d-eau,
+          # first gated run).
+          node scripts/build-wall.mjs || true
           node scripts/gate-new-posts.mjs --since=HEAD 2>&1 | tee -a /tmp/gate.log
+
+      # The gate's Telegram message promises the held posts come back fixed;
+      # this is the machinery behind that sentence. Hours-contradiction drafts
+      # are rewritten against the real hours, re-audited, republished only when
+      # clean, and their four translations refreshed. Photo quarantines are left
+      # to the photo patrol, which has the API keys this step does not.
+      - name: Repair and republish held posts
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/repair-held-posts.mjs 2>&1 | tee -a /tmp/gate.log
 
       - name: Report held-back posts (Korean)
         if: always()
@@ -390,10 +405,41 @@ jobs:
         continue-on-error: true
         run: node scripts/lint-regex.mjs
 
+      # These two read the BUILT site, and CI never had one — the leak audit's
+      # first scheduled run reported "빌드된 페이지가 없어 검사조차 못 했습니다"
+      # for all four languages, which is a check that has never checked anything.
+      # ~6 minutes of runner time buys the two audits only dist/ can answer.
+      - name: Build site for output audits
+        id: distbuild
+        continue-on-error: true
+        run: npm run build
+
       - name: Audit localized pages for English leaks
         id: i18nleaks
+        if: steps.distbuild.outcome == 'success'
         continue-on-error: true
         run: node scripts/audit-i18n-leaks.mjs
+
+      # Every /wall/ thumbnail the built pages reference must exist — the check
+      # that would have caught the dark city tiles before any visitor did.
+      - name: Check built pages' thumbnail references
+        id: wallrefs
+        if: steps.distbuild.outcome == 'success'
+        continue-on-error: true
+        run: node scripts/check-wall-refs.mjs
+
+      - name: Warn on missing tile thumbnails
+        if: steps.wallrefs.outcome == 'failure'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
+          MSG=$(node scripts/check-wall-refs.mjs 2>&1 | head -12 || true)
+          TXT=$(printf '⚠️ 일부 카드가 빈 상자로 보입니다 (썸네일 없음)\n%s' "$MSG")
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+            --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
+            --data-urlencode "text=$TXT" >/dev/null || true
 
       - name: Warn on English leaks
         if: steps.i18nleaks.outcome == 'failure'

@@ -1,13 +1,13 @@
 ---
-title: 'Garden to Table Chiangmai: Where to Eat in Chiang Mai'
+title: "Garden to Table Chiangmai: Where to Eat in Chiang Mai"
 description: Garden to Table Chiangmai is a casual, plant-filled restaurant inside the Old City walls on Ratchapakhinai Road, prized for fresh Thai and Northern (Lanna)
 country: Thailand
 region: Chiang Mai
 category: restaurant
-pubDate: '2026-07-22T09:14:29.554Z'
+pubDate: "2026-07-22T09:14:29.554Z"
 heroImage:
   url: https://fastly.4sqi.net/img/general/original/87988854_yDRKMYYhzAmP9QNODMZMZVbnDEWac8crUkxziTjIRwo.jpg
-  credit: 'Photo: Foursquare user content (Chiangmai Walking Street (ถนนคนเดินเชียงใหม่))'
+  credit: "Photo: Foursquare user content (Chiangmai Walking Street (ถนนคนเดินเชียงใหม่))"
   license: foursquare
   source: https://foursquare.com/v/4ce79607867f60fc8e0b37c3
 gallery: []
@@ -24,31 +24,31 @@ place:
   lng: 98.990431
   phone: 082 583 6999
   openingHours:
-    - 'Monday: 2:00 – 9:00 PM'
-    - 'Tuesday: 2:00 – 9:00 PM'
-    - 'Wednesday: 2:00 – 9:00 PM'
-    - 'Thursday: 2:00 – 8:30 PM'
-    - 'Friday: 2:00 – 9:00 PM'
-    - 'Saturday: 2:00 – 8:30 PM'
-    - 'Sunday: Closed'
+    - "Monday: 2:00 – 9:00 PM"
+    - "Tuesday: 2:00 – 9:00 PM"
+    - "Wednesday: 2:00 – 9:00 PM"
+    - "Thursday: 2:00 – 8:30 PM"
+    - "Friday: 2:00 – 9:00 PM"
+    - "Saturday: 2:00 – 8:30 PM"
+    - "Sunday: Closed"
 tags:
   - chiang mai
   - local restaurant
-quickAnswer: Garden to Table Chiangmai is a casual, plant-filled restaurant inside the Old City walls on Ratchapakhinai Road, prized for fresh Thai and Northern (Lanna) dishes at street-food-friendly prices. It's a short walk from Wat Phra Singh and Thapae Gate, so pair a meal here with temple-hopping. Go for lunch or an early dinner and expect a wait, since its 4.9 rating from nearly 2,000 reviews makes it one of the neighborhood's most in-demand tables.
+quickAnswer: Garden to Table Chiangmai is a casual, plant-filled restaurant inside the Old City walls on Ratchapakhinai Road, prized for fresh Thai and Northern (Lanna) dishes at street-food-friendly prices. It's a short walk from Wat Phra Singh and Thapae Gate, so pair a meal here with temple-hopping. Go right at opening (2pm) or for an early dinner and expect a wait, since its 4.9 rating from nearly 2,000 reviews makes it one of the neighborhood's most in-demand tables. Note that it's closed on Sundays.
 faq:
   - q: How do I get to Garden to Table Chiangmai without a car?
     a: Use the Grab app for a direct drop-off, or flag a red songthaew truck — the restaurant is on Ratchapakhinai Road inside the Old City, walking distance from Wat Phra Singh and Thapae Gate.
   - q: How much does a meal cost?
     a: It's listed at the lowest price tier (priceLevel 1), meaning dishes are budget-friendly by international standards — expect casual Thai restaurant pricing, not fine dining.
   - q: What's the best time to visit?
-    a: Aim for just before or after peak lunch (12-1:30pm) and dinner (7-8:30pm) to avoid the wait that comes with its 4.9-star reputation. Cool season (Nov-Feb) is the most pleasant time to combine it with Old City sightseeing.
+    a: Aim to arrive right at opening (2pm) or after the dinner rush (after 8:30pm) to avoid the wait that comes with its 4.9-star reputation — the restaurant opens daily at 2pm and is closed on Sundays. Cool season (Nov-Feb) is the most pleasant time to combine it with Old City sightseeing.
   - q: How long should I plan for a meal?
     a: A casual sit-down meal typically runs 45 minutes to an hour, but budget extra time for a possible wait given the restaurant's popularity and near-2,000 review count.
   - q: What's nearby to pair with a visit?
-    a: Wat Phra Singh, Wat Chedi Luang, and Thapae Gate are all within walking distance, and the Sunday Walking Street market passes close by if your visit falls on a Sunday evening.
+    a: Wat Phra Singh, Wat Chedi Luang, and Thapae Gate are all within walking distance, and the Sunday Walking Street market passes close by if your visit falls on a Sunday evening — though note Garden to Table itself is closed on Sundays, so plan your meal here on another day.
 aiGenerated: true
-draft: true
-updatedDate: '2026-07-24'
+draft: false
+updatedDate: "2026-07-24"
 ---
 
 ## Why go
@@ -70,7 +70,7 @@ Ratchapakhinai Road runs roughly north-south inside the western half of the Old 
 
 Expect a menu built around Thai home-style cooking with a Northern Thai (Lanna) accent — think herb-forward salads, curries, and stir-fries that use greens and vegetables sourced with more care than a typical tourist-strip kitchen. The "garden to table" concept suggests an emphasis on seasonal vegetables and herbs, so dishes like som tam (papaya salad), morning glory stir-fry, and Northern-style curries such as gaeng hang lay are worth asking about if they're on the day's menu. Portions and pricing sit firmly in the budget-to-moderate range, making it realistic to order two or three dishes to share.
 
-Given the volume of reviews, service can slow during peak lunch (noon-1:30pm) and dinner (7-8:30pm) windows — arriving just before or after these windows usually means a shorter wait.
+Given the volume of reviews, service can slow during peak dinner hours (7-8:30pm) — arriving right at opening, 2pm, or later in the evening usually means a shorter wait.
 
 ## When to go
 
@@ -78,4 +78,4 @@ Chiang Mai's cool season (November through February) is the most comfortable tim
 
 ## Nearby & tips
 
-Combine a visit with the Sunday Walking Street market on Ratchadamnoen Road if your trip coincides with a Sunday evening — it passes near this stretch of the Old City. Wat Chedi Luang and Wat Phra Singh are both walkable additions to build into the same afternoon. Since the restaurant is well-reviewed and modestly priced, it tends to fill quickly with both tourists and locals; reserving ahead if the option exists, or arriving slightly outside standard meal times, will save you a wait. As with most independent Chiang Mai restaurants, cash is still commonly preferred alongside card payments, so carrying some Thai baht is a sensible backup.
+If your trip coincides with a Sunday evening, you can still enjoy the Sunday Walking Street market on Ratchadamnoen Road — just note that Garden to Table itself is closed on Sundays, so plan your meal here on another day of your trip. Wat Chedi Luang and Wat Phra Singh are both walkable additions to build into the same afternoon. Since the restaurant is well-reviewed and modestly priced, it tends to fill quickly with both tourists and locals; reserving ahead if the option exists, or arriving slightly outside standard meal times, will save you a wait. As with most independent Chiang Mai restaurants, cash is still commonly preferred alongside card payments, so carrying some Thai baht is a sensible backup.

@@ -26,7 +26,8 @@ const only = (process.argv.find((a) => a.startsWith('--only=')) || '').slice(7)
 // The auditor exits 1 when it finds something, which is the normal case here —
 // execSync throws on a non-zero exit, so read stdout off the error too.
 const auditOut = (() => {
-  try { return execSync('node scripts/audit-hours-claims.mjs', { encoding: 'utf8', maxBuffer: 1e8 }); }
+  const flags = process.argv.includes('--drafts') ? ' --drafts' : '';
+  try { return execSync('node scripts/audit-hours-claims.mjs' + flags, { encoding: 'utf8', maxBuffer: 1e8 }); }
   catch (e) { return String(e.stdout ?? ''); }
 })();
 const flagged = auditOut

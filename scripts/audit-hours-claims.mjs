@@ -21,6 +21,11 @@ import yaml from 'js-yaml';
 
 const DIR = 'src/content/posts';
 const verbose = process.argv.includes('--verbose');
+// --drafts: include quarantined posts. The gate flips an offending post to
+// draft, and this audit normally skips drafts — so a held post could never be
+// found by the fixer again, and "자동 수리 순찰이 고친 뒤 재발행" was a promise
+// with no machinery behind it.
+const includeDrafts = process.argv.includes('--drafts');
 const DAYS = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
 
 /** "8:00 AM" / "5 PM" / "10:30pm" → minutes since midnight, or null. */
@@ -67,7 +72,7 @@ for (const f of files) {
   const cut = raw.indexOf('\n---', 3);
   let fm;
   try { fm = yaml.load(raw.slice(4, cut)); } catch { continue; }
-  if (!fm || fm.draft) continue;
+  if (!fm || (fm.draft && !includeDrafts)) continue;
 
   const lines = fm.place?.openingHours ?? [];
   if (!lines.length) continue;
@@ -112,7 +117,12 @@ for (const f of files) {
     // because "3–10pm on Saturdays, and closed Sundays" otherwise reads as a
     // claim about Saturday: the gap between "Saturdays" and "closed" is just
     // ", and ", with no day in it to disqualify the match.
-    if (new RegExp(`closed\\s+(?:on\\s+)?\\b${d}s?\\b`, 'i').test(text)) return true;
+    // Day LISTS count: "closed both Sunday and Monday" is a closed-claim about
+    // Monday too, but the general pattern below disqualifies any gap containing
+    // another day name — correctly for most sentences, wrongly for a list. So
+    // a run of day names joined by commas/and, directly after "closed", claims
+    // every day in it.
+    if (new RegExp(`closed\\s+(?:on\\s+|both\\s+)?(?:(?:${DAY_ALT})s?(?:,\\s*|\\s+and\\s+))*${d}s?\\b`, 'i').test(text)) return true;
     const closedThenOtherDay = new RegExp(`closed\\s+(?:on\\s+|all day\\s+)?\\b(?:${DAY_ALT})s?\\b`, 'gi');
     const stripped = text.replace(closedThenOtherDay, ' ');
     return new RegExp(`closed${gap}\\b${d}s?\\b|\\b${d}s?\\b${gap}closed`, 'i').test(stripped);
@@ -123,8 +133,14 @@ for (const f of files) {
     const isClosed = closedDays.includes(d);
     if (claimsClosed && !isClosed) found.push(`prose says closed ${d}, fact box lists it as open`);
     if (!claimsClosed && isClosed && new RegExp(`\\b${d}\\b`, 'i').test(prose)) {
-      const suggests = new RegExp(`\\b${d}\\b[^.]{0,60}(visit|go|arrive|morning|afternoon|evening)`, 'i').test(prose);
-      if (suggests) found.push(`prose suggests visiting on ${d}, fact box says closed`);
+      // Negations must not read as recommendations: "closed Sunday and Monday,
+      // so don't plan a visit around those days" is the CORRECT sentence, and
+      // this rule quarantined the post for it — twice, because the fixer then
+      // couldn't find anything to fix.
+      const windowRe = new RegExp(`\\b${d}\\b([^.]{0,60})(visit|go|arrive|morning|afternoon|evening)`, 'i');
+      const m2 = prose.match(windowRe);
+      const negated = m2 && /(don'?t|do not|avoid|rather than|instead of|skip|except|closed)/i.test(m2[1]);
+      if (m2 && !negated) found.push(`prose suggests visiting on ${d}, fact box says closed`);
     }
   }
 

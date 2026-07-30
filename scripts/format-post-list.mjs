@@ -14,6 +14,11 @@ const out = [];
 for (const p of paths) {
   let title = '';
   try {
+    // The gate flips a defective new post to draft BEFORE the commit, but this
+    // list is built from "files added this run" — so the first gated publish
+    // proudly reported all 19 posts, live links included, while five of those
+    // links led to region-hub redirects. A held post is not news to announce.
+    if (/^draft:\s*true\s*$/m.test(readFileSync(p, 'utf8'))) continue;
     title = readTitle(p);
   } catch { continue; }
   const slug = p.split('/').pop().replace(/\.md$/, '');
