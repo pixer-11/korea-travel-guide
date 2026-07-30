@@ -31,6 +31,14 @@ place:
     weekendQuiet: [10, 17]
     weekendBusy: [13, 14, 15]
     venueId: 'ven_637a4a706741554e467936525544666a71746c343857704a496843'
+  openingHours:
+    - 'Monday: 10:00 AM – 5:00 PM'
+    - 'Tuesday: 10:00 AM – 5:00 PM'
+    - 'Wednesday: 10:00 AM – 5:00 PM'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: 10:00 AM – 5:00 PM'
+    - 'Saturday: 10:00 AM – 5:00 PM'
+    - 'Sunday: 10:00 AM – 5:00 PM'
 tags:
   - "seoul"
   - "Bukchon hanoks"

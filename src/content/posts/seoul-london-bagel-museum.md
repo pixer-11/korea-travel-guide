@@ -25,6 +25,14 @@ place:
   businessStatus: OPERATIONAL
   lat: 37.579182599999996
   lng: 126.98615199999999
+  openingHours:
+    - 'Monday: 7:00 AM – 6:00 PM'
+    - 'Tuesday: 7:00 AM – 6:00 PM'
+    - 'Wednesday: 7:00 AM – 6:00 PM'
+    - 'Thursday: 7:00 AM – 6:00 PM'
+    - 'Friday: 7:00 AM – 6:00 PM'
+    - 'Saturday: 7:00 AM – 6:00 PM'
+    - 'Sunday: 7:00 AM – 6:00 PM'
 tags:
   - seoul
   - new & trending
