@@ -2,7 +2,7 @@
 title: 'John Legend: An Evening of Songs & Stories: What to Know (Makati City)'
 description: 'John Legend: An Evening of Songs & Stories in Makati City, Philippines — September 3-4, 2026. What it is, when and where, and how to plan around it.'
 country: Philippines
-region: Makati City
+region: "Makati"
 category: event
 pubDate: '2026-07-29'
 eventStartDate: '2026-09-03'

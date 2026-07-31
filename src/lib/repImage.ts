@@ -21,7 +21,17 @@ export function pickRepHeroUrl(posts: HeroPost[]): string {
       p.data.heroImage?.url &&
       !p.data.heroImage.url.includes('placeholder')
   );
-  if (!withHero.length) return '';
+  if (!withHero.length) {
+    // Event-only cities (Manila's guides today are all concerts) used to render
+    // a BLANK tile here, on the theory that a musician's photo says nothing
+    // about the place. The owner saw the Philippines hub and ruled the other
+    // way — a dark empty box says even less. Last resort only: the moment the
+    // city gets one real venue guide, that photo takes over.
+    const eventHero = posts.find(
+      (p) => p.data.heroImage?.url && !p.data.heroImage.url.includes('placeholder')
+    );
+    return eventHero ? eventHero.data.heroImage!.url! : '';
+  }
   // Stable sort by category rank — ties keep the caller's order (usually newest first).
   withHero.sort((a, b) => (CAT_RANK[a.data.category] ?? 5) - (CAT_RANK[b.data.category] ?? 5));
   // Returns the RAW stored URL. For one day this returned tileSize(url), and

@@ -25,9 +25,36 @@ const refs = new Map(); // name -> first page that references it
   }
 })('dist');
 
+// A tile can also fail by having NO image reference at all — the Philippines
+// hub shipped Manila, Quezon City and a duplicate Makati as dark empty boxes,
+// and this file's existence check was satisfied because nothing was referenced.
+// Every destination/region/country tile must carry a background-image.
+const blank = new Map();
+(function walk2(d) {
+  for (const e of readdirSync(d, { withFileTypes: true })) {
+    const p2 = `${d}/${e.name}`;
+    if (e.isDirectory()) { if (e.name !== 'wall' && e.name !== 'embed') walk2(p2); }
+    else if (e.name.endsWith('.html')) {
+      const s2 = readFileSync(p2, 'utf8');
+      // Token-delimited: dest-tile-inner (the label wrapper INSIDE a tile, which
+      // never carries a background) must not read as a dest-tile — it did, and
+      // 34 phantom blanks hid the one real report line.
+      for (const m of s2.matchAll(/class="(?:[^"]* )?(region-tile|dest-tile|country-photo)(?: [^"]*)?"[^>]*/g)) {
+        if (!/background-image:url\(/.test(m[0])) {
+          const label = (s2.slice(m.index, m.index + 400).match(/<span[^>]*>([^<]{1,30})/) || [])[1] ?? '?';
+          const key = `${m[1]}:${label}`;
+          if (!blank.has(key)) blank.set(key, p2.replace(/^dist/, ''));
+        }
+      }
+    }
+  }
+})('dist');
+for (const [what, page] of blank) console.log(`BLANK-TILE ${what} — ${page}`);
+
 const missing = [...refs].filter(([name]) => !existsSync(`dist/wall/${name}`));
 for (const [name, page] of missing.slice(0, 10)) console.log(`WALL-REF-MISSING: ${name} — first used on ${page}`);
-console.log(missing.length
-  ? `❌ ${missing.length} of ${refs.size} referenced thumbnail(s) do not exist — tiles render as dark boxes.`
-  : `✓ ${refs.size} referenced thumbnail(s) all exist.`);
-process.exit(missing.length ? 1 : 0);
+const bad = missing.length + blank.size;
+console.log(bad
+  ? `❌ ${missing.length} missing thumbnail(s) + ${blank.size} tile(s) with no image at all.`
+  : `✓ ${refs.size} referenced thumbnail(s) all exist, and no tile is blank.`);
+process.exit(bad ? 1 : 0);

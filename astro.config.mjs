@@ -175,6 +175,7 @@ function regionRedirects() {
     'metro-manila': 'manila',
     'pasay-city': 'manila',
     'quezon-city': 'manila',
+  'makati-city': 'makati',
     xian: 'xi-an',
   };
   const canon = (name) => {
