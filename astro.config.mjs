@@ -225,10 +225,12 @@ function regionRedirects() {
   try {
     const retired = JSON.parse(readFileSync(join(__dirname, 'data/retired-posts.json'), 'utf8'));
     for (const r of retired) {
-      const reg = regionSlug(r.region || '');
-      if (!reg) continue;
+      // Same alias + live-hub rule as the drafts loop above: a retired post
+      // whose whole city has since gone dark lands on the homepage, not a 404.
+      const reg = canon(r.region || '');
+      const ok = reg && liveHubs.has(reg);
       for (const p of ['', '/ko', '/ja', '/es', '/zh']) {
-        lines.push(`${p}/posts/${r.slug}/ ${p}/regions/${reg}/ 301`);
+        lines.push(`${p}/posts/${r.slug}/ ${ok ? `${p}/regions/${reg}/` : (p || '/')} 301`);
       }
     }
   } catch { /* no retired list */ }

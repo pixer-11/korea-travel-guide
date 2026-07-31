@@ -74,6 +74,16 @@ const used = await loadUsedImageUrls(POSTS);
 const files = (await readdir(POSTS)).filter((f) => f.endsWith('.md'));
 let fixed = 0, undrafted = 0, unfixed = 0, scanned = 0;
 const rewriteList = [];
+// Consecutive nightly failures per slug. Seven strikes retires the post: these
+// are small venues (a café in Yana, a noodle stall) that no free photo source
+// has ever covered — after a week of the same empty answer, retrying is only a
+// vision-API bill. Owner-approved 2026-07-31, with the volume rule attached:
+// retirement never touches a LIVE page (only quarantined drafts qualify), so
+// the published count is unchanged and the country-fill keeps adding new
+// venues that DO have photos.
+const RETRY_FILE = 'data/photo-retry.json';
+const RETIRE_AFTER = 7;
+const retryCount = existsSync(RETRY_FILE) ? JSON.parse(readFileSync(RETRY_FILE, 'utf8')) : {};
 
 for (const f of files) {
   if (fixed + unfixed >= LIMIT) break;
@@ -191,9 +201,13 @@ for (const f of files) {
     done = true;
     break;
   }
+  if (done) {
+    delete retryCount[slug];               // a success resets the retirement clock
+  }
   if (!done) {
     unfixed++;
     rewriteList.push(slug);
+    retryCount[slug] = (retryCount[slug] ?? 0) + 1;
     // Accuracy rule: a KNOWN-wrong photo may not stay live — quarantine until a
     // real photo or a venue rewrite restores the post.
     if (!DRY && data.draft !== true) {
@@ -212,6 +226,39 @@ if (!DRY && auditDirty && auditStore) {
   console.log(`\n⚖️  ${acquitted.length} previously-flagged hero(es) re-approved on review: ${acquitted.slice(0, 10).join(', ')}`);
 }
 
+// ── Retirement: seven consecutive empty nights and a quarantined post leaves
+// the repo — its URL 301s to the region hub (astro.config reads the retired
+// list), its translations go with it, and the country-fill replaces the slot
+// with a venue that has photos. Guard rails: only draft:true files are ever
+// deleted, and the live-page count cannot change by construction.
+const retiredNow = [];
+if (!DRY) {
+  for (const [slug, n] of Object.entries(retryCount)) {
+    if (n < RETIRE_AFTER) continue;
+    const p = `src/content/posts/${slug}.md`;
+    if (!existsSync(p)) { delete retryCount[slug]; continue; }
+    let fm;
+    try { fm = matter(readFileSync(p, 'utf8')).data; } catch { continue; }
+    if (fm.draft !== true) { delete retryCount[slug]; continue; }   // never a live page
+
+    const retired = JSON.parse(await readFile('data/retired-posts.json', 'utf8'));
+    retired.push({ slug, region: fm.region ?? '', country: fm.country ?? '' });
+    await writeFile('data/retired-posts.json', JSON.stringify(retired, null, 1) + '\n', 'utf8');
+
+    const { unlink } = await import('node:fs/promises');
+    await unlink(p);
+    for (const l of ['ko', 'ja', 'es', 'zh']) {
+      const t = `src/content/i18n/${l}/${slug}.md`;
+      if (existsSync(t)) await unlink(t);
+    }
+    delete retryCount[slug];
+    retiredNow.push(slug);
+    console.log(`  🗑️  ${slug}: retired after ${n} empty nights — URL 301s to its region`);
+  }
+}
+if (!DRY) await writeFile(RETRY_FILE, JSON.stringify(retryCount, null, 1) + '\n', 'utf8');
+
 console.log(`\n📦 scanned ${scanned} target(s): ${fixed} fixed · ${undrafted} republished · ${unfixed} need venue-rewrite`);
 if (rewriteList.length) console.log('REWRITE_LIST ' + rewriteList.join(','));
-console.log(`ALT_SUMMARY fixed=${fixed} undrafted=${undrafted} unfixed=${unfixed}`);
+if (retiredNow.length) console.log('RETIRED_LIST ' + retiredNow.join(','));
+console.log(`ALT_SUMMARY fixed=${fixed} undrafted=${undrafted} unfixed=${unfixed} retired=${retiredNow.length}`);

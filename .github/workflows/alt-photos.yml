@@ -66,6 +66,7 @@ jobs:
           echo "fixed=$(echo "$s" | sed 's/.* fixed=\([0-9]*\).*/\1/')" >> "$GITHUB_OUTPUT"
           echo "undrafted=$(echo "$s" | sed 's/.* undrafted=\([0-9]*\).*/\1/')" >> "$GITHUB_OUTPUT"
           echo "unfixed=$(echo "$s" | sed 's/.* unfixed=\([0-9]*\).*/\1/')" >> "$GITHUB_OUTPUT"
+          echo "retired=$(echo "$s" | sed 's/.* retired=\([0-9]*\).*/\1/')" >> "$GITHUB_OUTPUT"
           # Post lists for the Telegram report (user standing request: always
           # say WHICH posts) — first 15 each.
           # REPORTING MUST NEVER KILL THE RUN (a grep killed run #5, a head/sed
@@ -75,8 +76,10 @@ jobs:
           set +o pipefail
           awk '/✅ [a-z0-9-]+:/ { sub(/^ *✅ /,"• "); sub(/:.*/,""); print; if (++n==15) exit }' /tmp/alt.log > /tmp/fl.txt
           awk '/🚫 [a-z0-9-]+:/ { sub(/^ *🚫 /,"• "); sub(/:.*/,""); print; if (++n==15) exit }' /tmp/alt.log > /tmp/ul.txt
+          awk '/🗑️  [a-z0-9-]+:/ { sub(/^ *🗑️  /,"• "); sub(/:.*/,""); print; if (++n==15) exit }' /tmp/alt.log > /tmp/rl.txt
           { echo "fixedlist<<EOF_FL"; cat /tmp/fl.txt; echo "EOF_FL"; } >> "$GITHUB_OUTPUT"
           { echo "unfixedlist<<EOF_UL"; cat /tmp/ul.txt; echo "EOF_UL"; } >> "$GITHUB_OUTPUT"
+          { echo "retiredlist<<EOF_RL"; cat /tmp/rl.txt; echo "EOF_RL"; } >> "$GITHUB_OUTPUT"
           true
 
       # New heroes need their self-hosted 640px thumbs or downstream pages
@@ -110,6 +113,8 @@ jobs:
           UNFIXED: ${{ steps.run.outputs.unfixed }}
           FIXED_LIST: ${{ steps.run.outputs.fixedlist }}
           UNFIXED_LIST: ${{ steps.run.outputs.unfixedlist }}
+          RETIRED: ${{ steps.run.outputs.retired }}
+          RETIRED_LIST: ${{ steps.run.outputs.retiredlist }}
         run: |
           [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
           {
@@ -121,8 +126,12 @@ jobs:
               echo "♻️ 재공개된 글: ${UNDRAFTED:-0}편"
               if [ -n "$FIXED_LIST" ]; then echo "📄 교체된 글:"; echo "$FIXED_LIST"; fi
               if [ "${UNFIXED:-0}" != "0" ]; then
-                echo "⚠️ 합격 사진을 못 찾은 글: ${UNFIXED}편 — 다른 장소로 재작성 대상입니다."
+                echo "⚠️ 합격 사진을 못 찾은 글: ${UNFIXED}편 — 7일 연속 실패 시 자동 은퇴됩니다."
                 if [ -n "$UNFIXED_LIST" ]; then echo "$UNFIXED_LIST"; fi
+              fi
+              if [ "${RETIRED:-0}" != "0" ] && [ -n "${RETIRED:-}" ]; then
+                echo "🗑️ 은퇴 처리: ${RETIRED}편 — 7일간 사진을 못 구해 삭제했고, 옛 주소는 지역 페이지로 자동 연결됩니다. 빈자리는 국가 채우기 발행이 사진 있는 새 장소로 메웁니다."
+                if [ -n "$RETIRED_LIST" ]; then echo "$RETIRED_LIST"; fi
               fi
             fi
           } > /tmp/msg.txt
