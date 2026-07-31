@@ -11,6 +11,7 @@ import yaml from 'js-yaml';
 import { unsplashNum } from './lib/images.mjs';
 import { OFFTOPIC } from './lib/offtopic.mjs';
 import { topicKey, FILLER } from './lib/topic-key.mjs';
+import { keyToken } from './lib/commons.mjs';
 
 const DIR = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 
@@ -38,6 +39,7 @@ for (const f of files) {
     placeName: (fm.place && fm.place.name) || '',
     country: fm.country || '',
     eventStart: fm.eventStartDate || '',
+    eventEnd: fm.eventEndDate || fm.eventStartDate || '',
     gallery: (fm.gallery || []).map((g) => g && g.url).filter(Boolean),
     heroCredit: (fm.heroImage && fm.heroImage.credit) || '',
     rating: (fm.place && fm.place.rating) || 0,
@@ -117,23 +119,26 @@ for (const p of posts) {
 // Two posts about the same event on the same date in the same city = duplicate
 // coverage, and if their dates DISAGREE one of them is telling readers a lie.
 {
-  const evs = posts.filter((p) => p.category === 'event');
-  const byName = new Map();
-  const norm = (t) => String(t).replace(/:\s*What to Know.*$/i, '')
-    .toLowerCase().replace(/[^a-z0-9\s]/g, ' ').split(/\s+/)
-    .filter((w) => w.length > 2 && !FILLER.has(w)).sort().join(' ');
-  for (const p of evs) {
-    const k = `${norm(p.title)}|${p.region}`;
-    (byName.get(k) || byName.set(k, []).get(k)).push(p);
-  }
-  for (const [, group] of byName) {
-    if (group.length < 2) continue;
-    const dates = new Set(group.map((g) => (g.eventStart ? String(g.eventStart).slice(0, 10) : '?')));
-    issues.push(
-      dates.size > 1
-        ? `CONTRADICTORY event dates for the same event (${[...dates].join(' vs ')}): ${group.map((g) => g.f).join(', ')}`
-        : `DUPLICATE event coverage ×${group.length}: ${group.map((g) => g.f).join(', ')}`
-    );
+  // Anchored, not title-token-equal. ELEVEN live pairs — the same MAMAMOO show,
+  // the same MotoGP round, the same Vuelta — slipped the old check, because
+  // each twin was discovered days apart under different phrasing ("Manila
+  // Stop" vs "2026 World Tour") and their sorted tokens never matched. The
+  // act's anchor word, the country, and overlapping dates identify an event no
+  // matter how the discovery run phrased it that day.
+  const evs = posts.filter((p) => p.category === 'event' && p.eventStart);
+  const near = (a, b) => Math.abs(new Date(a) - new Date(b)) <= 3 * 864e5;
+  for (let i = 0; i < evs.length; i++) {
+    for (let j = i + 1; j < evs.length; j++) {
+      const a = evs[i], b = evs[j];
+      const anchor = keyToken(a.title);
+      if (!anchor || anchor !== keyToken(b.title) || a.country !== b.country) continue;
+      const overlap = near(a.eventStart, b.eventStart) || (String(a.eventStart) <= String(b.eventEnd) && String(b.eventStart) <= String(a.eventEnd));
+      if (!overlap) continue;
+      const sameDates = String(a.eventStart) === String(b.eventStart) && String(a.eventEnd) === String(b.eventEnd);
+      issues.push(sameDates
+        ? `DUPLICATE event coverage (${anchor}): ${a.f}, ${b.f}`
+        : `CONTRADICTORY event dates (${anchor}, ${a.eventStart}~${a.eventEnd} vs ${b.eventStart}~${b.eventEnd}): ${a.f}, ${b.f}`);
+    }
   }
 }
 dupBy((p) => (p.url && !p.url.includes('placeholder') ? unsplashNum(p.url) || p.url : ''), 'DUPLICATE image');

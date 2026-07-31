@@ -205,8 +205,30 @@ function regionRedirects() {
     for (const p of ['', '/ko', '/ja', '/es', '/zh']) lines.push(`${p}/regions/${from}/ ${p}/regions/${to}/ 301`);
   }
   // Deleted duplicate event post → its kept twin.
-  for (const p of ['', '/ko', '/ja', '/es', '/zh']) {
-    lines.push(`${p}/posts/multiple-cities-tour-de-france-femmes/ ${p}/posts/nice-finish-various-french-stages-tour-de-france-femmes-avec-zwift/ 301`);
+  const twinned = [
+    ['multiple-cities-tour-de-france-femmes', 'nice-finish-various-french-stages-tour-de-france-femmes-avec-zwift'],
+    // The same MAMAMOO Manila show, discovered twice five days apart under
+    // different phrasings — and with contradicting dates (8/8 vs 8/8–10). The
+    // owner spotted the pair side by side on the Philippines events hub.
+    ['quezon-city-mamamoo-world-tour-manila-stop', 'quezon-city-mamamoo-2026-world-tour'],
+    // Nine more of the same disease, found by the sitewide anchored-duplicate
+    // sweep the MAMAMOO pair triggered: each event discovered twice days apart
+    // under different phrasings. Newer discovery kept in every pair.
+    ['alcaniz-motogp-gran-premio-de-aragon', 'alcaniz-motogp-aragon-grand-prix'],
+    ['bangkok-f-forever-concert-2026-bangkok', 'nonthaburi-f-forever-1st-world-tour-in-bangkok'],
+    ['bhubaneswar-world-athletics-continental-tour-silver-meet', 'bhubaneswar-world-athletics-continental-tour-silver-meet-indian-open'],
+    ['dubai-def-leppard-live', 'dubai-def-leppard-live-in-concert'],
+    ['goyang-bigbang-20th-anniversary-world-tour-opener', 'goyang-bigbang-2026-2027-world-tour-xx-cosmos-goyang-opening-shows'],
+    ['istanbul-eurovolley-women-2026-final-round', 'istanbul-eurovolley-women-2026-final-stage'],
+    ['kuala-lumpur-honne-10-year-anniversary-tour', 'kuala-lumpur-honne-10-year-anniversary-world-tour-kuala-lumpur'],
+    ['multiple-cities-across-spain-andorra-entry-through-andalusia-finishing-in-granad', 'multiple-cities-la-vuelta-a-espana-2026'],
+    ['taipei-official-hige-dandism-asia-tour-2026', 'taipei-official-hige-dandism-asia-tour-2026-taipei'],
+    ['venice-venice-international-film-festival-mostra', 'venice-venice-international-film-festival-mostra-del-cinema'],
+  ];
+  for (const [gone, kept] of twinned) {
+    for (const p of ['', '/ko', '/ja', '/es', '/zh']) {
+      lines.push(`${p}/posts/${gone}/ ${p}/posts/${kept}/ 301`);
+    }
   }
   // Same venue, two posts: the 2026-07-28 geocode backfill gave the older,
   // weakly-titled placeless post the same Google place.id as the newer guide,

@@ -2,7 +2,7 @@
 title: 'Ancient City Wall: Xian Travel Guide'
 description: Xi'an's Ming-dynasty City Wall is the most complete ancient city wall in China, forming a rectangular loop of roughly 13.7 km around the old city center.
 country: China
-region: Xian
+region: "Xi'an"
 category: attraction
 pubDate: '2026-07-26T07:46:05.165Z'
 heroImage:

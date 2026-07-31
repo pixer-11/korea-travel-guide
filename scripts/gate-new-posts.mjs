@@ -57,7 +57,7 @@ const CHECKS = [
     // Only the post-level codes. A duplicate-image line names two files and is
     // about the pair, not about one bad post, so it is deliberately not here.
     pick: (l) =>
-      l.match(/(?:MISSING-COUNTRY|PHOTO-WRONG-VENUE|PLACEHOLDER\/no image|NON-LATIN script in title|BROKEN TITLE|GARBLED place\.name|EVENT missing eventStartDate)[^:]*:\s*(\S+\.md)/)?.[1]
+      l.match(/(?:MISSING-COUNTRY|PHOTO-WRONG-VENUE|PLACEHOLDER\/no image|NON-LATIN script in title|BROKEN TITLE|GARBLED place\.name|EVENT missing eventStartDate|DUPLICATE event coverage|CONTRADICTORY event dates)[^:]*:\s*(\S+\.md)/)?.[1]
       ?? l.match(/^\s*•\s*(?:MISSING-COUNTRY|PHOTO-WRONG-VENUE):\s*(\S+\.md)/)?.[1],
   },
 ];

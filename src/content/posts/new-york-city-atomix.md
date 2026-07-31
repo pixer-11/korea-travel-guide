@@ -2,7 +2,7 @@
 title: 'Atomix: Where to Eat in New York City'
 description: 'Atomix in New York City, United States — a new/trending spot: what it is, where it is, and how to visit.'
 country: United States
-region: New York City
+region: "New York"
 category: restaurant
 pubDate: '2026-07-29'
 heroImage:
