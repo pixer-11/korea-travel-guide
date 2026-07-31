@@ -1,18 +1,18 @@
 ---
-title: "Springs Preserve: Las Vegas Travel Guide"
+title: 'Springs Preserve: Las Vegas Travel Guide'
 description: Springs Preserve is a 180-acre desert oasis at 333 S Valley View Blvd, about 10 minutes from the Strip, built around the actual freshwater springs that gave
 country: United States
 region: Las Vegas
 category: hidden-gem
-pubDate: "2026-07-31T10:23:47.641Z"
+pubDate: '2026-07-31T10:23:47.641Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Springs_Preserve_%2847980254981%29.jpg/1920px-Springs_Preserve_%2847980254981%29.jpg
-  credit: "Photo: Renee Grayson from Las Vegas, USA / Wikimedia Commons (CC BY 2.0)"
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Springs_Preserve_(47980254981).jpg
+  url: https://fastly.4sqi.net/img/general/original/716631_pL0UpjcTeY_DinwOgky6UEsFb4Zz7whKkSguaAG2ojQ.jpg
+  credit: 'Photo: Foursquare user content (Springs Preserve)'
+  license: foursquare
+  source: https://foursquare.com/v/4ae3a059f964a520699721e3
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/8/85/Springs_Preserve_garden_building.jpg
-    credit: "Photo: Stan Shebs / Wikimedia Commons (CC BY-SA 3.0)"
+    credit: 'Photo: Stan Shebs / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Springs_Preserve_garden_building.jpg
 place:
@@ -28,13 +28,13 @@ place:
   lng: -115.1906908
   phone: (702) 822-7700
   openingHours:
-    - "Monday: 9:00 AM – 4:00 PM"
-    - "Tuesday: Closed"
-    - "Wednesday: Closed"
-    - "Thursday: 9:00 AM – 4:00 PM"
-    - "Friday: 9:00 AM – 4:00 PM"
-    - "Saturday: 9:00 AM – 4:00 PM"
-    - "Sunday: 9:00 AM – 4:00 PM"
+    - 'Monday: 9:00 AM – 4:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: Closed'
+    - 'Thursday: 9:00 AM – 4:00 PM'
+    - 'Friday: 9:00 AM – 4:00 PM'
+    - 'Saturday: 9:00 AM – 4:00 PM'
+    - 'Sunday: 9:00 AM – 4:00 PM'
   busyness:
     updated: 2026-07-31T00:00:00.000Z
     weekdayQuiet:
@@ -71,7 +71,6 @@ faq:
   - q: Is Springs Preserve good to visit in summer?
     a: The trails are mostly unshaded, so summer afternoons (often over 100°F) can be tough going. Spring and fall, or an early-morning summer visit right at opening, make for a far more comfortable walk.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

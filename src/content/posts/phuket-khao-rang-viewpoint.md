@@ -73,6 +73,7 @@ faq:
   - q: What else is nearby?
     a: Phuket Old Town, with its Sino-Portuguese architecture on Thalang Road and Soi Romanee, is just a short drive away and pairs well with a Khao Rang visit.
 aiGenerated: true
+draft: true
 ---
 
 ## Why go

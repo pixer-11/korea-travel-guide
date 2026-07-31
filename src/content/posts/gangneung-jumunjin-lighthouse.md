@@ -6,10 +6,10 @@ country: South Korea
 category: trendy
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/8909789_Lvvn-ivY97r9oMUU0IQbVvO2TOCZqUPLrKcysyrwNSM.jpg
-  credit: 'Photo: Foursquare user content (주문진 등대)'
-  license: foursquare
-  source: https://foursquare.com/v/4cd5140089eb6dcb8d73261e
+  url: https://upload.wikimedia.org/wikipedia/commons/5/5c/Jumunjin_Lighthouse_20220501_004.jpg
+  credit: 'Photo: Mobius6 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Jumunjin_Lighthouse_20220501_004.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Jumunjin_Lighthouse_20220501_004.jpg/1920px-Jumunjin_Lighthouse_20220501_004.jpg
     credit: 'Photo: Mobius6 / Wikimedia Commons (CC BY-SA 4.0)'
@@ -42,7 +42,6 @@ faq:
   - q: What else is nearby?
     a: Jumunjin Port and Fish Market are right at the base of the hill, and Jumunjin Beach is a short drive away, offering a quieter alternative to Gyeongpo Beach in central Gangneung.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

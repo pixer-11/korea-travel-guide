@@ -1,18 +1,18 @@
 ---
-title: "Fort Point National Historic Site: San Francisco Travel Guide"
+title: 'Fort Point National Historic Site: San Francisco Travel Guide'
 description: Fort Point is the brick Civil War-era fort tucked directly beneath the Golden Gate Bridge's south anchorage, open Thursday through Monday, 10am–5pm (closed
 country: United States
 region: San Francisco
 category: hidden-gem
-pubDate: "2026-07-31T10:19:14.402Z"
+pubDate: '2026-07-31T10:19:14.402Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Golden_Gate_Bridge_tower_views_07.jpg/1920px-Golden_Gate_Bridge_tower_views_07.jpg
-  credit: "Photo: Ɱ / Wikimedia Commons (CC BY-SA 4.0)"
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_tower_views_07.jpg
+  url: https://fastly.4sqi.net/img/general/original/22755244_QXhlxSs_efKrnV8qk3gH0-tW4g1qKRNM3Ia4drREX3o.jpg
+  credit: 'Photo: Foursquare user content (Fort Point National Historic Site)'
+  license: foursquare
+  source: https://foursquare.com/v/46dabca2f964a5207c4a1fe3
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/San_Francisco_%28CA%2C_USA%29%2C_Golden_Gate_Bridge_--_2022_--_3023_%28bw%29.jpg/3840px-San_Francisco_%28CA%2C_USA%29%2C_Golden_Gate_Bridge_--_2022_--_3023_%28bw%29.jpg
-    credit: "Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)"
+    credit: 'Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:San_Francisco_(CA,_USA),_Golden_Gate_Bridge_--_2022_--_3023_(bw).jpg
 place:
@@ -28,13 +28,13 @@ place:
   lng: -122.47708999999999
   phone: (415) 561-4959
   openingHours:
-    - "Monday: 10:00 AM – 5:00 PM"
-    - "Tuesday: Closed"
-    - "Wednesday: Closed"
-    - "Thursday: 10:00 AM – 5:00 PM"
-    - "Friday: 10:00 AM – 5:00 PM"
-    - "Saturday: 10:00 AM – 5:00 PM"
-    - "Sunday: 10:00 AM – 5:00 PM"
+    - 'Monday: 10:00 AM – 5:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: Closed'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: 10:00 AM – 5:00 PM'
+    - 'Saturday: 10:00 AM – 5:00 PM'
+    - 'Sunday: 10:00 AM – 5:00 PM'
 tags:
   - san francisco
   - hidden gem
@@ -51,7 +51,6 @@ faq:
   - q: What's nearby if I want to make a day of it?
     a: Crissy Field's beach and marsh trails, the Golden Gate Bridge Welcome Center, and the Presidio's forested trails are all within easy walking or biking distance.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

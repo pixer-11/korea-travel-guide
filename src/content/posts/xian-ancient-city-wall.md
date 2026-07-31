@@ -2,15 +2,14 @@
 title: 'Ancient City Wall: Xian Travel Guide'
 description: Xi'an's Ming-dynasty City Wall is the most complete ancient city wall in China, forming a rectangular loop of roughly 13.7 km around the old city center.
 country: China
-region: "Xi'an"
+region: Xi'an
 category: attraction
 pubDate: '2026-07-26T07:46:05.165Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Linhai_Ancient_City_Wall_05.jpg/1920px-Linhai_Ancient_City_Wall_05.jpg
-  credit: 'Photo: 黑揍红 / Wikimedia Commons (CC BY 2.5)'
+  url: https://upload.wikimedia.org/wikipedia/commons/b/bf/Towers_of_ancient_city_wall%2C_Xi%27an%2C_China_-_panoramio.jpg
+  credit: 'Photo: Aaron Zhu / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Linhai_Ancient_City_Wall_05.jpg
-gallery: []
+  source: https://commons.wikimedia.org/wiki/File:Towers_of_ancient_city_wall,_Xi%27an,_China_-_panoramio.jpg
 place:
   id: ChIJkbIeAoh6YzYR1Ej2JoWm1EA
   name: Ancient City Wall
@@ -38,7 +37,6 @@ faq:
   - q: Is the wall walkable in summer heat?
     a: Yes, but there's minimal shade on top, so bring sun protection and water, or aim for early morning/late afternoon instead of midday in summer.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
