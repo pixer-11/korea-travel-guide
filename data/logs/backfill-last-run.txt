@@ -1,9 +1,9 @@
 Priority: 33 itinerary stop(s) queued first
   – bangkok-saladaeng.md: nothing new
   – bangkok-the-grand-palace.md: nothing new
-  ✓ seoul-bukchon-yukgyeong-photo-spot.md +7h hours
+  – seoul-bukchon-yukgyeong-photo-spot.md: nothing new
   – seoul-euljiro.md: nothing new
-  ✓ seoul-london-bagel-museum.md +7h hours
+  – seoul-london-bagel-museum.md: nothing new
   – seoul-myeongdong-shopping-street.md: nothing new
   – tokyo-fish-market-tsukiji-outer-market.md: nothing new
   – tokyo-fuglen-tokyo.md: nothing new
@@ -11,6 +11,7 @@ Priority: 33 itinerary stop(s) queued first
   – tokyo-senso-ji.md: nothing new
   – tokyo-teamlab-planets-tokyo-dmm.md: nothing new
   – tokyo-tokyo-ramen-street.md: nothing new
+  – agra-agra-fort.md: nothing new
   – ajman-ajman-secret-beach.md: nothing new
   – amalfi-coast-amalfi-coast.md: nothing new
   – amalfi-coast-positano.md: nothing new
@@ -49,6 +50,7 @@ Priority: 33 itinerary stop(s) queued first
   – gangneung-gyeongpo-lake.md: nothing new
   – gangneung-jumunjin-lighthouse.md: nothing new
   – goa-fort-aguada.md: nothing new
+  – guangzhou-chen-clan-ancestral-hall.md: nothing new
   – guangzhou-huacheng-square.md: nothing new
   – guilin-reed-flute-cave.md: nothing new
   – gyeongju-hwangnidan-gil.md: nothing new
@@ -58,8 +60,6 @@ Priority: 33 itinerary stop(s) queued first
   – hanoi-hanoi-old-quarter.md: nothing new
   – hiroshima-hiroshima-breakfast.md: nothing new
   – hoi-an-hoi-an-night-market.md: nothing new
-  – hoi-an-japanese-bridge.md: nothing new
-  – hyderabad-chowmahalla-palace.md: nothing new
   ⚠ Places Details 429 after 3 tries — phone/hours unavailable for this post
   ⚠ Places Details 429 after 3 tries — phone/hours unavailable for this post
   ⚠ Places Details 429 after 3 tries — phone/hours unavailable for this post
@@ -68,4 +68,4 @@ Priority: 33 itinerary stop(s) queued first
 
 ⛔ Places Details failing with no-api-key (5 in a row) — stopping early. Not reported as a quota hit; check the key has Places API (New) enabled with no referrer/IP restriction. Note a drained project also returns 403 intermittently alongside its 429s, so check the day's quota before assuming a key problem.
 
-BACKFILL RESULT: updated 2, already-complete 141, no-new-data 59, no-place 56, quota-429 0, api-error 5 (last: no-api-key), processed 66 of 592 (APPLIED).
+BACKFILL RESULT: updated 0, already-complete 141, no-new-data 61, no-place 45, quota-429 0, api-error 5 (last: no-api-key), processed 66 of 599 (APPLIED).
