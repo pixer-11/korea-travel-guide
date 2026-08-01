@@ -29,9 +29,10 @@ jobs:
       - name: Refresh data
         env:
           GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
-          # Unbounded before: one Details call for EVERY post with a place id,
-          # no 429 stop and no cursor, so it drained whatever the window had
-          # left and always re-refreshed the same alphabetical head.
+          # Caps Details calls per run; refresh.mjs also keeps a cursor
+          # (data/refresh-cursor.json, committed below) so successive runs
+          # rotate oldest-checked-first through the whole catalogue instead
+          # of re-refreshing the same alphabetical head every week.
           REFRESH_LIMIT: '40'
         run: npm run refresh
 
@@ -39,7 +40,9 @@ jobs:
         run: |
           git config user.name "content-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add src/content/posts
+          # The cursor must be committed even when no post changed — otherwise
+          # a no-change week forgets its progress and re-checks the same posts.
+          git add src/content/posts data/refresh-cursor.json
           if git diff --staged --quiet; then
             echo "Nothing to refresh."
           else
