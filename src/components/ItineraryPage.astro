@@ -11,6 +11,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Newsletter from './Newsletter.astro';
+import ItineraryEmailBox from './ItineraryEmailBox.astro';
 import PlanTrip from './PlanTrip.astro';
 import Emoji from './Emoji.astro';
 import { slugifyRegion } from '../lib/slug';
@@ -350,6 +351,7 @@ const availableLangs: Lang[] = ['en', 'ko', 'ja', 'es', 'zh'];
 
     {/* 5–7. Per-day sections: label+intro → stop cards → legs → day footer */}
     {days.map((day, di) => (
+      <>
       <section id={`day-${di + 1}`} class="itin-day" data-has-rain={day.rainPost ? '1' : ''}>
         <h2 class="itin-day-title">
           {t('itin.day').replace('{n}', String(di + 1))}
@@ -470,6 +472,15 @@ const availableLangs: Lang[] = ['en', 'ko', 'ja', 'es', 'zh'];
           </div>
         </div>
       </section>
+      {/* Contextual lead magnet after Day 1 — the reader has just seen the
+          plan's value; "email me this itinerary" converts here, not at the
+          footer. */}
+      {di === 0 && (
+        <div class="itin-email-slot">
+          <ItineraryEmailBox lang={lang} region={d.city} country={d.country} slug={itinerary.id} />
+        </div>
+      )}
+      </>
     ))}
 
     {/* 8. FAQ, PlanTrip, Newsletter, related region link */}
@@ -626,7 +637,7 @@ const availableLangs: Lang[] = ['en', 'ko', 'ja', 'es', 'zh'];
 
   /* 10. Print stylesheet — hide interactive/monetization chrome, linearize cards. */
   @media print {
-    .itin-filters, .itin-day-nav, .itin-day-actions, .book-cta, .newsletter, .plan-trip { display: none !important; }
+    .itin-filters, .itin-day-nav, .itin-day-actions, .book-cta, .newsletter, .plan-trip, .itin-email-slot { display: none !important; }
     .itin-stop { grid-template-columns: 1fr; border: none; border-bottom: 1px solid #ccc; border-radius: 0; page-break-inside: avoid; }
     .itin-stop-thumb { display: none; }
     .itin-leg { margin-left: 0; }

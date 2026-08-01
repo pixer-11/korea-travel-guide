@@ -6,7 +6,7 @@ import { mailerlite } from './lib/mailerlite.mjs';
 const token = process.env.MAILERLITE_API_TOKEN;
 if (!token) { console.error('MAILERLITE_API_TOKEN missing'); process.exit(1); }
 
-const WANT = ['region', 'lang', 'signup_source'];
+const WANT = ['region', 'lang', 'signup_source', 'itinerary_url'];
 const ml = mailerlite(token);
 
 const existing = await ml.listFields();

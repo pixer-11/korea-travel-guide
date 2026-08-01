@@ -1,0 +1,16 @@
+name: mailerlite-fields
+# One-shot, idempotent: ensures the custom fields the signup forms post
+# (region, lang, signup_source, itinerary_url) exist in MailerLite. Run it
+# via workflow_dispatch whenever a new field is added to the setup script.
+on:
+  workflow_dispatch:
+jobs:
+  setup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '20' }
+      - run: node scripts/setup-mailerlite-fields.mjs
+        env:
+          MAILERLITE_API_TOKEN: ${{ secrets.MAILERLITE_API_TOKEN }}

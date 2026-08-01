@@ -1,0 +1,64 @@
+---
+// Contextual lead magnet on itinerary pages: "Email me this itinerary".
+// Same backend as every other signup (worker /api/subscribe → MailerLite
+// upsert, double opt-in) — the visitor is explicitly ASKING for this plan,
+// which is what keeps the invite-only consent policy intact. Ships no JS of
+// its own: Newsletter.astro renders further down every itinerary page and
+// its script wires ALL .nl-form instances, this one included. The extra
+// hidden `itinerary` input becomes fields[itinerary_url] so the welcome
+// email can link straight back to this exact page.
+import { useTranslations, type Lang } from '../i18n/utils';
+import { interestFields } from '../lib/interest';
+import Emoji from './Emoji.astro';
+
+interface Props { lang: Lang; region: string; country: string; slug: string }
+const { lang, region, country, slug } = Astro.props;
+const t = useTranslations(lang);
+const interest = interestFields({ region, country, lang, source: `itinerary:${slug}` });
+const itineraryUrl = new URL(Astro.url.pathname, Astro.site ?? 'https://wanderatlasguides.com').toString();
+---
+<aside class="itin-email" aria-labelledby="itin-email-title">
+  <p class="itin-email-title" id="itin-email-title"><Emoji name="world-map" /> {t('itin.emailTitle')}</p>
+  <p class="itin-email-dek">{t('itin.emailDek')}</p>
+  <form class="nl-form itin-email-form" data-ml-action="/api/subscribe" novalidate
+    data-ok-plain="1" data-via="itinerary"
+    data-msg-ok={t('itin.emailOk')} data-msg-err={t('nl.msgErr')} data-msg-net={t('nl.msgNet')}>
+    <input type="email" name="email" placeholder="you@email.com" aria-label={t('a11y.email')} autocomplete="email" required />
+    <input type="hidden" name="region" value={interest.region} />
+    <input type="hidden" name="lang" value={interest.lang} />
+    <input type="hidden" name="source" value={interest.source} />
+    <input type="hidden" name="itinerary" value={itineraryUrl} />
+    <button type="submit" class="btn btn-primary">{t('itin.emailCta')}</button>
+  </form>
+  <p class="nl-note" hidden aria-live="polite"></p>
+</aside>
+
+<style>
+  .itin-email {
+    margin: 2rem 0;
+    padding: 1.2rem 1.4rem 1.1rem;
+    background: var(--surface-2);
+    border: 1px solid var(--line-soft);
+    border-left: 3px solid var(--gold);
+    border-radius: var(--r-lg);
+  }
+  .itin-email-title {
+    font-family: var(--font-display);
+    font-size: 1.12rem;
+    font-weight: 550;
+    margin: 0 0 0.35rem;
+  }
+  .itin-email-dek { font-size: 0.9rem; color: var(--muted); line-height: 1.5; margin: 0 0 0.85rem; }
+  .itin-email-form { display: flex; gap: 0.55rem; flex-wrap: wrap; }
+  .itin-email-form input[type='email'] {
+    flex: 1 1 220px;
+    border: 1px solid var(--line);
+    border-radius: var(--r-sm, 8px);
+    padding: 0.6rem 0.8rem;
+    font-size: 0.95rem;
+    background: var(--surface);
+    color: inherit;
+  }
+  .itin-email :global(.nl-note) { font-size: 0.88rem; margin: 0.6rem 0 0; }
+  .itin-email :global(.nl-note-ok) { color: var(--accent-text); font-weight: 600; }
+</style>

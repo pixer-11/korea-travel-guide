@@ -73,6 +73,9 @@ const ML_ACTION = '/api/subscribe';
       if (rd('region')) data.append('fields[region]', rd('region'));
       data.append('fields[lang]', rd('lang') || 'en');
       data.append('fields[signup_source]', rd('source'));
+      // Itinerary lead-magnet forms carry the page URL so the welcome email
+      // can link straight back to the plan the reader asked for.
+      if (rd('itinerary')) data.append('fields[itinerary_url]', rd('itinerary'));
       data.append('ml-submit', '1');
       data.append('anticsrf', 'true');
 
@@ -87,20 +90,28 @@ const ML_ACTION = '/api/subscribe';
           form.reset();
           // Also suppresses the site-wide capture popup for this browser.
           try { localStorage.setItem('wa_nl_subscribed', '1'); } catch {}
-          if ((window as any).plausible) (window as any).plausible('Newsletter signup');
+          if ((window as any).plausible)
+            (window as any).plausible('Newsletter signup', form.dataset.via ? { props: { via: form.dataset.via } } : undefined);
           if (note) {
             note.hidden = false;
             note.classList.add('nl-note-ok');
             note.classList.remove('nl-note-err');
-            // Copy comes from the form's data attributes, which the component
-            // filled from the page's language. This string was hardcoded English
-            // — URL and all — on 3,786 localized pages: the one moment a reader
-            // has just handed over their email, answered in the wrong language.
-            const a = document.createElement('a');
-            a.href = form.dataset.checklistHref || '/free/trip-checklist';
-            a.textContent = (form.dataset.msgOk || '') + ' →';
-            note.textContent = '';
-            note.appendChild(a);
+            if (form.dataset.okPlain) {
+              // Itinerary box: the success line stands alone ("check your
+              // inbox") — a link back to the page the reader is already on
+              // would be noise.
+              note.textContent = form.dataset.msgOk || '';
+            } else {
+              // Copy comes from the form's data attributes, which the component
+              // filled from the page's language. This string was hardcoded English
+              // — URL and all — on 3,786 localized pages: the one moment a reader
+              // has just handed over their email, answered in the wrong language.
+              const a = document.createElement('a');
+              a.href = form.dataset.checklistHref || '/free/trip-checklist';
+              a.textContent = (form.dataset.msgOk || '') + ' →';
+              note.textContent = '';
+              note.appendChild(a);
+            }
           }
         } else {
           say(form.dataset.msgErr || 'Please try again in a moment.');

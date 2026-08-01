@@ -231,7 +231,9 @@ async function handleSubscribe(request, env) {
 
   if (env.MAILERLITE_API_TOKEN) {
     const fields = {};
-    for (const k of ['region', 'lang', 'signup_source']) {
+    // itinerary_url: set by the itinerary-page lead magnet; the welcome
+    // automation uses it to link the subscriber back to the exact plan.
+    for (const k of ['region', 'lang', 'signup_source', 'itinerary_url']) {
       const v = String(form.get(`fields[${k}]`) || '');
       if (v) fields[k] = v;
     }
@@ -241,13 +243,24 @@ async function handleSubscribe(request, env) {
         signupGroupId = (g.data || []).find((x) => x.name === SIGNUP_GROUP)?.id || null;
       } catch { /* group lookup failing must not block the signup itself */ }
     }
+    const upsert = (f) => ml(env, '/subscribers', {
+      method: 'POST',
+      body: JSON.stringify({ email, fields: f, ...(signupGroupId ? { groups: [signupGroupId] } : {}) }),
+    });
     try {
-      await ml(env, '/subscribers', {
-        method: 'POST',
-        body: JSON.stringify({ email, fields, ...(signupGroupId ? { groups: [signupGroupId] } : {}) }),
-      });
+      await upsert(fields);
       return Response.json({ success: true });
     } catch (e) {
+      // A custom field that doesn't exist in MailerLite yet 422s the whole
+      // upsert. Losing the signup over metadata is never acceptable — retry
+      // once with only the battle-tested core fields.
+      if (fields.itinerary_url) {
+        const { itinerary_url, ...core } = fields;
+        try {
+          await upsert(core);
+          return Response.json({ success: true });
+        } catch { /* fall through to the real error */ }
+      }
       return Response.json({ success: false, error: String(e.message).slice(0, 120) }, { status: 502 });
     }
   }
