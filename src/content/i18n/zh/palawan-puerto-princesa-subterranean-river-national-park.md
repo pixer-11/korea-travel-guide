@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: palawan-puerto-princesa-subterranean-river-national-park
+srcHash: 0d4d662e22f0
 title: 普林塞萨港地下河国家公园：巴拉望旅行指南
 description: 出发前请通过认证旅行社或普林塞萨港旅游局预订普林塞萨港地下河（Underground River）之旅——当日许可名额有限，常常一早售罄。
 quickAnswer: 出发前请通过认证旅行社或普林塞萨港旅游局预订普林塞萨港地下河之旅——当日许可名额有限，常常很快售罄。请尽量在许可允许的最早时间抵达萨邦（Sabang）码头（最好在早上9点前），乘坐20-25分钟的手划船进入长达5英里的石灰岩洞穴系统，并预留半天时间往返市区，其中包括单程约1.5-2小时的面包车或吉普尼（jeepney）车程。

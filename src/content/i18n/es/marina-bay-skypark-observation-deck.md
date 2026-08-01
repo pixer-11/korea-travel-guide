@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: marina-bay-skypark-observation-deck
+srcHash: dcaa33bf50d3
 title: 'SkyPark Observation Deck: Guía de viaje de Marina Bay'
-description: 'El SkyPark Observation Deck se encuentra en lo alto de la Torre 3 de Marina Bay Sands, a 56 pisos de altura, y ofrece el panorama emblemático de Singapur: los jardines de Gardens by the Bay'
+description: 'El SkyPark Observation Deck se encuentra en lo alto de la Torre 3 de Marina Bay Sands, a 56 pisos de altura, y ofrece el panorama emblemático de Singapur: los Supertrees de Gardens by the Bay, el Singapore Flyer y el horizonte del centro de la ciudad en una sola vista panorámica.'
 quickAnswer: 'El SkyPark Observation Deck se encuentra en lo alto de la Torre 3 de Marina Bay Sands, a 56 pisos de altura, y ofrece el panorama emblemático de Singapur: los Supertrees de Gardens by the Bay, el Singapore Flyer y el horizonte del centro de la ciudad en una sola vista panorámica. Compra las entradas con horario asignado en línea con antelación, llega entre 30 y 45 minutos antes del atardecer, y calcula unos 45–60 minutos en la parte superior. Es una de las atracciones más visitadas de la ciudad (4.6 estrellas, casi 14,000 reseñas), así que espera encontrar aglomeraciones y planifica en consecuencia en lugar de esperar tranquilidad.'
 faq:
   - q: ¿Cómo llego al SkyPark Observation Deck?

@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: fukuoka-fuglen-coffee-keyakidori
+srcHash: 5563c99cc17d
 title: 'Fuglen Coffee Keyakidori: Guía de viaje de Fukuoka'
 description: 'Fuglen Coffee – Keyakidori en Fukuoka, Japón — un lugar nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: La segunda sucursal de Fuglen Coffee en Fukuoka se encuentra en una tranquila calle secundaria cerca de la avenida Keyakidori, en el frondoso distrito de Chuo Ward, conocido por sus boutiques y su paseo arbolado. Funciona como café de especialidad de barrio durante el día y se transforma en bar de cócteles al caer la noche, un formato que Fuglen creó originalmente en Oslo y llevó luego a Tokio. Como abrió recién en mayo de 2026, conviene confirmar los horarios actuales, la disponibilidad de asientos y si es necesario reservar antes de ir.

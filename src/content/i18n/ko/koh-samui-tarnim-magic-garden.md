@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: koh-samui-tarnim-magic-garden
+srcHash: 7469bcb21ac0
 title: '타르님 매직 가든: 코사무이 여행 가이드'
 description: 타르님 매직 가든(Tarnim Magic Garden, "부처 매직 가든"이라고도 불림)은 코사무이 남쪽 나므앙(Na Mueang)에 있는 언덕 위 조각 정원입니다.
 quickAnswer: 타르님 매직 가든(Tarnim Magic Garden, "부처 매직 가든"이라고도 불림)은 코사무이 남쪽 나므앙(Na Mueang)에 있는 언덕 위 조각 정원으로, 한낮의 더위와 사진 찍기에 부적합한 강한 햇빛을 피하려면 이른 아침이나 늦은 오후에 방문하는 것이 가장 좋습니다. 45~90분 정도 시간을 잡고, 벗기 편한 신발을 신고 가서 도로를 따라 가까이 있는 나므앙 폭포(Na Mueang Waterfalls)와 함께 둘러보는 것을 추천합니다. 이곳은 4169번 도로에서 갈라져 나오는 가파른 언덕길 위에 있어서, 자동차나 스쿠터를 이용하는 것이 실질적인 접근 방법입니다.

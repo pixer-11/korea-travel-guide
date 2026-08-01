@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: taipei-the-who-cafe
+srcHash: 3e57b474a911
 title: The Who Cafe:台北旅行ガイド
 description: The Who Cafeは大安区(Da'an District)のリーシュイ街(Lishui St)の階段を上った先にある、緑に囲まれた2階建てのカフェ。東門(Dongmen)MRT駅(5番出口)から徒歩5分。
 quickAnswer: The Who Cafeは大安区(Da'an District)のリーシュイ街(Lishui St)にある、階段を上った先に隠れた、緑豊かな2階建てのカフェです。東門(Dongmen)MRT駅(3号線・6号線、5番出口)から徒歩5分。平日の午前中の時間帯に行けば、窓際の席にゆったりと座ってのんびりサービスを受けられます。週末はランチ後になると混み合うので注意が必要です。1,400件以上のレビューで評価4.7を誇る人気店だからです。滞在時間の目安は1〜2時間、支払いは現金・カードどちらもOK。土曜午後にノープランで訪れると、行列覚悟です。

@@ -1,6 +1,6 @@
 ---
 title: Trendy Cafe in Daegu
-description: For Daegu's best trendy cafes, head to Dongseong-ro / Kim Kwang-seok Street area near Jungangno Station (Line 1) or the quieter Bongsan Culture Street, and
+description: For Daegu's best trendy cafes, head to Dongseong-ro / Kim Kwang-seok Street area near Jungangno Station (Line 1) or the quieter Bongsan Culture Street, and for the true "cafe district" experience go to Suseong-ro Cafe Street along Suseongmot (Suseong Lake).
 region: Daegu
 country: South Korea
 category: trendy

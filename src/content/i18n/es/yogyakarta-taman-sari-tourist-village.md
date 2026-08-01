@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: yogyakarta-taman-sari-tourist-village
+srcHash: edec43533be7
 title: 'Aldea turística de Taman Sari: Guía de viaje de Yogyakarta'
 description: Taman Sari (el Castillo de Agua) es un jardín real y complejo de baños del siglo XVIII en el distrito de Kraton de Yogyakarta, cuya mejor hora de visita es temprano por la mañana (entre las 8 y las 9 a. m.)
 quickAnswer: Taman Sari (el Castillo de Agua) es un jardín real y complejo de baños del siglo XVIII en el distrito de Kraton de Yogyakarta, cuya mejor hora de visita es temprano por la mañana (entre las 8 y las 9 a. m.) para evitar tanto el calor como los grupos turísticos. Reserva entre 1 y 1,5 horas, ponte algo cómodo para caminar por callejones estrechos, y combínalo con el cercano Palacio del Sultán (Kraton) y la mezquita subterránea, Sumur Gumuling, a poca distancia a pie.

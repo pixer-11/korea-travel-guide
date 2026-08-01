@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: kuala-lumpur-f-forever-world-tour-kuala-lumpur
+srcHash: f99e86d5211a
 title: 'F✦FOREVER 월드투어 – 쿠알라룸푸르: 알아두어야 할 것들 (쿠알라룸푸르)'
 description: 말레이시아 쿠알라룸푸르에서 열리는 F✦FOREVER 월드투어 – 쿠알라룸푸르, 2026년 8월 7일-8일. 공연 개요와 일시·장소, 관람 계획 세우는 법을 소개합니다.
 quickAnswer: F✦FOREVER — 지에르(Jerry Yan), 옌청쉬(Van Ness Wu), 저우위민(Vic Chou) (F4 멤버 4명 중 3명)에 메이데이(Mayday)의 아신(Ashin)이 합류한 슈퍼그룹 — 이 첫 월드투어의 일환으로 2026년 8월 7일-8일 이틀간 쿠알라룸푸르 부킷 잘릴(Bukit Jalil)의 유니파이 아레나(Unifi Arena)에서 공연합니다. 티켓이 오픈되는 즉시 공식 아레나 티켓을 예매하고, 부킷 잘릴의 교통 허브를 고려해 동선을 계획하세요. 이동 전에는 반드시 공식 투어 채널과 공연장 채널에서 날짜, 입장 시간, 티켓 링크를 다시 한번 확인하시기 바랍니다.

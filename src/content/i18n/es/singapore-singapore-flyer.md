@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: singapore-singapore-flyer
+srcHash: 752656e3a591
 title: 'Singapore Flyer: Guía de viaje'
-description: El Singapore Flyer es una noria de observación de 165 metros en Raffles Avenue, en Marina Bay, que ofrece vistas de 360 grados del perfil urbano de Marina Bay Sands, el
+description: El Singapore Flyer es una noria de observación de 165 metros en Raffles Avenue, en Marina Bay, que ofrece vistas de 360 grados del perfil urbano de Marina Bay Sands, el Padang y, en días despejados, del estrecho hasta Indonesia.
 quickAnswer: El Singapore Flyer es una noria de observación de 165 metros en Raffles Avenue, en Marina Bay, que ofrece vistas de 360 grados del perfil urbano de Marina Bay Sands, el Padang y, en días despejados, del estrecho hasta Indonesia. Una vuelta completa dura unos 30 minutos, las entradas estándar cubren desde media tarde-noche hasta la calma de la última mañana, y es un lugar realmente muy visitado, así que reserva un horario en línea y procura ir un día laborable por la mañana o justo antes del atardecer para evitar lo peor de las aglomeraciones.
 faq:
   - q: ¿Cuánto dura el recorrido en el Singapore Flyer?

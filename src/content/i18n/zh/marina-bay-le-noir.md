@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: marina-bay-le-noir
+srcHash: 1b6c241065d0
 title: Le Noir：滨海湾（Marina Bay）美食指南
 description: Le Noir 是位于滨海湾金沙购物商城（The Shoppes at Marina Bay Sands，#01-84 号铺位）内的一家氛围浓郁、装饰艺术感十足的酒吧餐厅，最适合预订餐前或餐后的鸡尾酒与小食，而非正式的整餐用餐。
 quickAnswer: Le Noir 是位于滨海湾金沙购物商城（The Shoppes at Marina Bay Sands，#01-84 号铺位）内的一家氛围浓郁、装饰艺术感十足的酒吧餐厅，最适合预订餐前或餐后的鸡尾酒与小食，而非正式的整餐用餐。凭借超过 3,000 条评价、4.8 分的高评分，这里早已是广为人知的热门去处而非小众秘境，因此建议提前预订，若想要一个更安静的座位，可以选择傍晚较早的时段前往。

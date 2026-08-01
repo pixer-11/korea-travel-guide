@@ -1,6 +1,6 @@
 ---
 title: "Zhanqiao Pier: Qingdao Travel Guide"
-description: "Zhanqiao Pier is Qingdao's oldest waterfront landmark — a 440-meter stone-and-timber pier in Shinan District ending at the double-eaved Huilan Ge pavilion"
+description: Zhanqiao Pier is Qingdao's oldest waterfront landmark — a 440-meter stone-and-timber pier in Shinan District ending at the double-eaved Huilan Ge pavilion, the same octagonal building you've likely seen on Tsingtao Beer labels.
 country: "China"
 region: "Qingdao"
 category: "attraction"

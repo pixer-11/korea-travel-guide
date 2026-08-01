@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: singapore-david-byrne-who-is-the-sky-tour
+srcHash: 0604845695a2
 title: David Byrne《Who Is The Sky?》巡演：新加坡场须知
 description: David Byrne《Who Is The Sky?》巡演新加坡站——2026年8月7日。演出内容、时间地点，以及行前规划指南。
 quickAnswer: David Byrne 将于2026年8月7日携《Who Is The Sky?》巡演登陆新加坡圣淘沙通道（Sentosa Gateway）的The Star Performing Arts Centre旗下The Star Theatre，届时将有一支13人乐队、歌手与舞者组成的团队同台演出。请务必在门票开售后尽快购买，提前到场感受场馆氛围并逛逛附近的怡丰城（Vivo City），并在临近演出日期时前往官方巡演或场馆网站确认具体开场时间与购票细节。
@@ -27,7 +28,7 @@ David Byrne，Talking Heads乐队前主唱、艺术摇滚界最特立独行的�
 
 ## 交通指南
 
-The Star Theatre就位于**怡丰城地铁站（HarbourFront MRT Station）**正上方，该站由东北线（NE1）和环线（CC29）覆盖——从怡丰城中心（HarbourFront Centre）和怡丰城（VivoCity）商场步行即可抵达场馆，无需自驾也很方便。自驾前往者可将车停在VivoCity或HarbourFront Centre的停车场，不过演出当晚车位可能很快满员。如乘坐出租车或叫车软件前往，HarbourFront Centre的落客区是最便捷的入口。鉴于该场馆举办演唱会时人气颇高，请预留额外时间应对安检和寄存行李的排队，尤其是在满座场次。
+The Star Theatre就位于**怡丰城地铁站**（HarbourFront MRT Station）正上方，该站由东北线（NE1）和环线（CC29）覆盖——从怡丰城中心（HarbourFront Centre）和怡丰城（VivoCity）商场步行即可抵达场馆，无需自驾也很方便。自驾前往者可将车停在VivoCity或HarbourFront Centre的停车场，不过演出当晚车位可能很快满员。如乘坐出租车或叫车软件前往，HarbourFront Centre的落客区是最便捷的入口。鉴于该场馆举办演唱会时人气颇高，请预留额外时间应对安检和寄存行李的排队，尤其是在满座场次。
 
 ## 演出看点
 

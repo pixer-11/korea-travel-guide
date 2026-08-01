@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: chiba-tokyo-and-osaka-summer-sonic-2026
+srcHash: e4f2c11e6e86
 title: Summer Sonic 2026完全指南:东京&大阪必知信息
 description: Summer Sonic 2026将于2026年8月14日至16日同时在千叶(东京地区)和大阪举行,恰逢音乐节25周年,首次采用三天赛程。
 quickAnswer: Summer Sonic 2026将于2026年8月14日至16日举行,同时在千叶(东京地区)和大阪两地举办,恰逢音乐节25周年,也是首次采用为期三天的赛程。目前公布的headliner阵容包括The Strokes、Jamiroquai、FKA Twigs、L'Arc-en-Ciel、aespa和LE SSERAFIM。预订机票和酒店前，请务必在Summer Sonic官方网站上确认具体的舞台时间、场地布局和票种信息。

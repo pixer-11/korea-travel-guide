@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: strasbourg-musee-de-l-uvre-notre-dame
+srcHash: 23a9734756bf
 title: 'Musée de l''Œuvre-Notre-Dame: Guía de viaje de Estrasburgo'
-description: El Musée de l'Œuvre-Notre-Dame, escondido entre un grupo de casas medievales y renacentistas en el 3 Place du Château, justo al lado de la Catedral de Estrasburgo, es uno de
+description: 'El Musée de l''Œuvre-Notre-Dame, escondido entre un grupo de casas medievales y renacentistas en el 3 Place du Château, justo al lado de la Catedral de Estrasburgo, es uno de los grandes atractivos menos visitados de la ciudad: un museo con calificación de 4.7 estrellas dedicado al arte medieval y renacentista, las vidrieras y la escultura catedralicia.'
 quickAnswer: 'El Musée de l''Œuvre-Notre-Dame, escondido entre un grupo de casas medievales y renacentistas en el 3 Place du Château, justo al lado de la Catedral de Estrasburgo, es uno de los grandes atractivos menos visitados de la ciudad: un museo con calificación de 4.7 estrellas dedicado al arte medieval y renacentista, las vidrieras y la escultura catedralicia. Dedícale entre 90 minutos y dos horas, ve una mañana entre semana y combínalo con la catedral y su reloj astronómico, justo al lado.'
 faq:
   - q: ¿Cómo llego al Musée de l'Œuvre-Notre-Dame?

@@ -1,6 +1,6 @@
 ---
 title: "Paseo de La Concha: San Sebastian Travel Guide"
-description: "Paseo de La Concha is San Sebastián's grand curved seafront promenade running from the harbor and Monte Urgull to Ondarreta beach at the foot of Monte"
+description: Paseo de La Concha is San Sebastián's grand curved seafront promenade running from the harbor and Monte Urgull to Ondarreta beach at the foot of Monte Igueldo.
 country: "Spain"
 region: "San Sebastian"
 category: "attraction"

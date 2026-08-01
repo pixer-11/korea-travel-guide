@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: kuala-lumpur-batu-caves
+srcHash: c6bff309eaa2
 title: '바투 동굴(Batu Caves): 쿠알라룸푸르 여행 가이드'
 description: 바투 동굴(Batu Caves)은 쿠알라룸푸르 북쪽 외곽에 자리한 석회암 동굴 단지이자 힌두교 성지로, 42.7미터 높이의 황금빛 무루간(Lord Murugan) 신상이 이곳을 상징합니다.
 quickAnswer: 바투 동굴(Batu Caves)은 쿠알라룸푸르 북쪽 외곽에 자리한 석회암 동굴 단지이자 힌두교 성지로, 42.7미터 높이의 황금빛 무루간(Lord Murugan) 신상과 무지개색으로 칠해진 272개의 계단이 숨을 헐떡이게 만듭니다. KL 센트럴(KL Sentral)에서 KTM 코뮤터(KTM Komuter) 열차를 타면 바투 동굴역 바로 앞에 내리며, 사원 동굴(Temple Cave)과 다크 케이브(Dark Cave)를 둘러보는 데 1.5~2시간이면 충분합니다. 더위와 인파를 피하려면 평일 이른 아침에 방문하는 것이 좋습니다.

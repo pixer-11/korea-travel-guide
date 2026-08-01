@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: cannes-vue-depuis-le-suquet
+srcHash: d76fe061c4d4
 title: 'Vista desde Le Suquet: Guía de viaje de Cannes'
-description: 'Sube a Le Suquet, el antiguo barrio de Cannes en lo alto de la colina, y la recompensa es la vista junto al Musée de La Castre y su Tour du Suquet cuadrada: toda la Bahía'
+description: 'Sube a Le Suquet, el antiguo barrio de Cannes en lo alto de la colina, y la recompensa es la vista junto al Musée de La Castre y su Tour du Suquet cuadrada: toda la Baie de Cannes desplegada abajo, La Croisette curvándose junto al agua, las Îles de Lérins flotando frente a la costa, y el macizo del Estérel tiñéndose de rojo al atardecer.'
 quickAnswer: 'Sube a Le Suquet, el antiguo barrio de Cannes en lo alto de la colina, y la recompensa es la vista junto al Musée de La Castre y su Tour du Suquet cuadrada: toda la Baie de Cannes desplegada abajo, La Croisette curvándose junto al agua, las Îles de Lérins flotando frente a la costa, y el macizo del Estérel tiñéndose de rojo al atardecer. Es gratis, se tarda unos 20-30 minutos en subir andando desde el puerto, y está más tranquilo temprano por la mañana o una hora antes del anochecer.'
 faq:
   - q: ¿Cómo se llega al mirador de Le Suquet?

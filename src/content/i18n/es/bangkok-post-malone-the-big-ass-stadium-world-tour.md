@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: bangkok-post-malone-the-big-ass-stadium-world-tour
+srcHash: 031200e249fc
 title: 'Post Malone: The BIG ASS Stadium World Tour: lo que debes saber (Bangkok)'
 description: Post Malone trae The BIG ASS Stadium World Tour al Estadio Nacional Rajamangala de Bangkok el 22 de septiembre de 2026, su primer concierto en Bangkok en tres años.
 quickAnswer: Post Malone trae The BIG ASS Stadium World Tour al Estadio Nacional Rajamangala (Rajamangala National Stadium) de Bangkok el 22 de septiembre de 2026, su primer concierto en Bangkok en tres años. Las puertas suelen abrir varias horas antes de un show de estadio de esta magnitud, así que planea llegar temprano, usa el Airport Rail Link o el MRT hasta Hua Mak, y confirma los horarios exactos de apertura de puertas, las categorías de entradas y los posibles teloneros en los canales oficiales de la gira y la venta de boletos antes de viajar.

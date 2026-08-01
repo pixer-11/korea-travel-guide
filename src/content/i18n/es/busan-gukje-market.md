@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: busan-gukje-market
+srcHash: 8a18b56d2f56
 title: 'Mercado Gukje: Guía de viaje de Busan'
-description: El mercado Gukje, en el distrito Jung-gu de Busan, es un extenso mercado de la posguerra que se explora mejor a pie durante 1,5–2 horas, idealmente a última hora de la tarde, cuando los puestos de comida
+description: El mercado Gukje, en el distrito Jung-gu de Busan, es un extenso mercado de la posguerra que se explora mejor a pie durante 1,5–2 horas, idealmente a última hora de la tarde, cuando los puestos de comida se ponen en marcha.
 quickAnswer: El mercado Gukje, en el distrito Jung-gu de Busan, es un extenso mercado de la posguerra que se explora mejor a pie durante 1,5–2 horas, idealmente a última hora de la tarde, cuando los puestos de comida se ponen en marcha. Toma la Línea 1 del metro de Busan hasta la estación Jagalchi (salida 3) o la estación Nampo (salida 3), y luego camina unos 5–10 minutos tierra adentro. Combínalo con el vecino Bupyeong Kkangtong Market (callejón de comida nocturna) y Nampo-dong para un recorrido de medio día.
 faq:
   - q: ¿Cómo llego al mercado Gukje en metro?

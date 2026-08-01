@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: chinatown-my-awesome-cafe
+srcHash: ce00816863d8
 title: My Awesome Cafe:牛车水(Chinatown)旅行指南
 description: My Awesome Cafe 是位于牛车水(Chinatown)direktEmp 202 Telok Ayer St 的一家口碑颇佳的全天候咖啡馆，以手工沙拉、三明治和精选酒单闻名。
 quickAnswer: My Awesome Cafe 是一家口碑很好的全天候咖啡馆，位于牛车水(Chinatown) 202 Telok Ayer St，坐落在一栋充满旧物改造风情的店屋（shophouse）中，以手工沙拉、三明治和不错的酒单著称。这里人气很高（4.7星，近8,000条评价），建议在工作日的午餐与晚餐高峰之间前往，否则周末很可能需要排队。建议预留大约1小时到90分钟，并可以顺道漫步 Telok Ayer Street 沿线的历史庙宇及 Amoy Street 美食摊位。

@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: kampong-glam-kampong-glam-cafe
+srcHash: 53ff9f145fb6
 title: 'Kampong Glam Cafe: Guía de viaje'
-description: Kampong Glam Cafe está en la peatonal Bussorah Street, a dos minutos a pie de la Mezquita Sultán, y es ideal para un plato económico de pollo frito
+description: Kampong Glam Cafe está en la peatonal Bussorah Street, a dos minutos a pie de la Mezquita Sultán (Sultan Mosque), y es ideal para disfrutar de un plato económico de pollo frito, fideos o arroz mientras se observa el ambiente en una de las calles patrimoniales más bonitas de Singapur.
 quickAnswer: 'Kampong Glam Cafe está en la peatonal Bussorah Street, a dos minutos a pie de la Mezquita Sultán (Sultan Mosque), y es ideal para disfrutar de un plato económico de pollo frito, fideos o arroz mientras se observa el ambiente en una de las calles patrimoniales más bonitas de Singapur. Ve un día entre semana, entre las 16:00 y las 18:00, para conseguir mesa en el exterior antes de la avalancha de la cena; se acepta efectivo y tarjeta, no hace falta reserva, y una comida aquí es rápida: entre 45 minutos y una hora es más que suficiente.'
 faq:
   - q: ¿Cómo llego a Kampong Glam Cafe en transporte público?

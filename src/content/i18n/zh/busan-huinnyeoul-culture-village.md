@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: busan-huinnyeoul-culture-village
+srcHash: e339f49f6ec0
 title: 兴瓯岭文化村（흰여울）：釜山旅游指南
 description: 兴瓯岭文化村是釜山影岛（Yeongdo Island）上一座临海的小村落，最方便的方式是搭乘公交前往（没有地铁直达），步行游览即可尽览风光。
 quickAnswer: 兴瓯岭文化村是釜山影岛（Yeongdo Island）上一座临海的小村落，最方便的方式是搭乘公交前往（没有地铁直达），步行游览1-1.5小时即可。这里有沿悬崖而建的狭窄小巷、满是壁画的墙面，以及可眺望绝影湾（Jeoryeong Bay）的岩石海滨步道——可以与附近的绝影海岸散步路（Jeoryeong Coastal Walk）或蓬莱山（Bongnae Mountain）搭配，安排半天行程。建议傍晚前往，此时海面光线柔和，游客也比甘川文化村（Gamcheon Culture Village）少。

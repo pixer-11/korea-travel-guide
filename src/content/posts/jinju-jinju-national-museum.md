@@ -1,6 +1,6 @@
 ---
 title: 'Jinju National Museum: Travel Guide'
-description: Jinju National Museum sits inside Jinjuseong (Jinju Fortress), right on the Namgang River, and is the best place in Korea to understand the brutal 1592–93
+description: Jinju National Museum sits inside Jinjuseong (Jinju Fortress), right on the Namgang River, and is the best place in Korea to understand the brutal 1592–93 Imjin War sieges of Jinju.
 country: South Korea
 region: Jinju
 category: attraction

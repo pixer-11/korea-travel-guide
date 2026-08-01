@@ -1,6 +1,6 @@
 ---
 title: "Jal Mahal: Jaipur Travel Guide"
-description: "Jal Mahal is the red-sandstone \"Water Palace\" that appears to float in the middle of Man Sagar Lake on the Jaipur–Amer road — you view it from the lakeshore"
+description: Jal Mahal is the red-sandstone "Water Palace" that appears to float in the middle of Man Sagar Lake on the Jaipur–Amer road — you view it from the lakeshore, since the interior is closed to visitors.
 country: "India"
 region: "Jaipur"
 category: "hidden-gem"

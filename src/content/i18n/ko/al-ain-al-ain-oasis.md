@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: al-ain-al-ain-oasis
+srcHash: 8826ffe76fb3
 title: 알 아인 오아시스(Al Ain Oasis) 여행 가이드
 description: 알 아인 오아시스(Al Ain Oasis)는 알 아인(Al Ain) 시내 한복판에 자리한 1,200헥타르 규모의 무료 야자수 농장으로, 그늘진 산책로와 전통 팔라즈(falaj) 관개 수로가 곳곳을 가로지릅니다.
 quickAnswer: 알 아인 오아시스(Al Ain Oasis)는 알 아인 시내 한복판에 자리한 1,200헥타르 규모의 무료 야자수 농장으로, 그늘진 산책로와 전통 팔라즈(falaj) 관개 수로가 곳곳을 가로지릅니다. 알 아인 국립 박물관(Al Ain National Museum)과 알 자힐리 요새(Al Jahili Fort) 근처의 에코 센터(Eco-Centre)를 통해 입장하며, 1~2시간 정도를 잡으면 됩니다. 더위와 인파가 모두 줄어드는 이른 아침이나 일몰 직전에 방문하는 것이 좋습니다. 알 자힐리 요새와 카스르 알 무와이지(Qasr Al Muwaiji)까지 함께 둘러보는 반나절 코스로 짜기에도 좋습니다.

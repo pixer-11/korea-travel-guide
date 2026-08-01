@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: san-sebastian-haizearen-orrazia
+srcHash: a09043a40473
 title: 风之梳（Haizearen Orrazia）：圣塞巴斯蒂安旅行指南
 description: 风之梳（Haizearen Orrazia，"The Comb of the Wind"）位于翁达雷塔海滩（Ondarreta）最西端，海滨步道尽头正是伊格尔多山（Monte Igueldo）下的礁石。
 quickAnswer: 风之梳（Haizearen Orrazia，"The Comb of the Wind"）位于翁达雷塔海滩（Ondarreta）最西端，海滨步道尽头正是伊格尔多山（Monte Igueldo）下的礁石。这里免费开放、无人管理，全天全周开放，所以真正的诀窍在于把握时间：选在工作日的日出时分或日落前抵达，才能让那几只铁爪雕塑与拍岸的海浪几乎只属于你一人，因为正午和周末往往人潮最盛。在此停留20-30分钟已足够，若想沿拉康查（La Concha）和翁达雷塔全程步行前往，则需要更多时间。

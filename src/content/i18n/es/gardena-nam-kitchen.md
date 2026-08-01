@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: gardena-nam-kitchen
+srcHash: 6dbc0d7d8c70
 title: 'NAM Kitchen en Gardena: guía para visitantes'
 description: 'NAM Kitchen en Gardena, Estados Unidos — un lugar nuevo y en auge: qué es, dónde está y cómo visitarlo.'
 quickAnswer: NAM Kitchen es un restaurante de fusión vietnamita-peruana en Gardena, un suburbio al sur de Los Ángeles, que se ubicó en el puesto n.º 3 de la lista Top 100 U.S. Restaurants 2026 de Yelp y fue señalado como el negocio más reseñado de esa clasificación de ese año. Espera cola si vas en horas pico de la cena, y confirma el horario actual y la política de reservas antes de acercarte, ya que la demanda se disparó desde que se publicó la lista.

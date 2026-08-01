@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: chicago-illinois-lollapalooza-2026
+srcHash: b851b9be51de
 title: Lollapalooza 2026完全ガイド:知っておきたいこと(シカゴ)
 description: Lollapalooza 2026は7月30日から8月2日まで、シカゴのグラントパーク(Grant Park)で開催され、Charli XCX、Lorde、Doja Catらがヘッドライナーを務めます。
 quickAnswer: Lollapalooza 2026は7月30日から8月2日まで、シカゴのグラントパーク(Grant Park)で開催され、Charli XCX、Lorde、Doja Catらがヘッドライナーを務めます。ゲートの場所や開場時間、出演者のタイムテーブルは開催日が近づくにつれて変更される可能性があるため、チケットの購入やタイムテーブルの確認は、公開され次第、必ずLollapalooza公式サイト・公式アプリで行いましょう。車での移動は避け、ループ(Loop)またはサウスループ(South Loop)周辺を拠点にして、徒歩またはCTA(シカゴ交通局)でグラントパークへ向かうのがおすすめです。

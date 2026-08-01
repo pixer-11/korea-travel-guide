@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: clarke-quay-home-dawn-cafe-clarke-quay
+srcHash: 4bda4f2ed74b
 title: 'Home Dawn Cafe @ Clarke Quay: Guía de viaje'
 description: Home Dawn Cafe @ Clarke Quay es un café tranquilo junto al río, ubicado en el nivel superior del Block 3A River Valley Road, justo detrás de la zona principal de Clarke Quay.
 quickAnswer: Home Dawn Cafe @ Clarke Quay es un café tranquilo junto al río, ubicado en el nivel superior del Block 3A River Valley Road, justo detrás de la principal franja de entretenimiento de Clarke Quay. Ve un día laborable por la mañana o a media tarde para conseguir una mesa tranquila con vistas al río, y espera un menú relajado de brunch y café, en lugar del ambiente de zona de clubes por el que Clarke Quay es conocido. Está a un fácil paseo de 5 a 8 minutos desde la estación Clarke Quay MRT (NE5), ideal para combinar con un paseo junto al río Singapur.

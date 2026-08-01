@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: surabaya-black-owl-surabaya
+srcHash: c633eed79552
 title: '블랙 아울(Black Owl): 수라바야에서 꼭 가봐야 할 맛집'
 description: 블랙 아울(Black Owl)은 수라바야 중심가 테갈사리(Tegalsari) 지구, 즐 바수키 라핫(Jl. Basuki Rahmat)에 위치한 평점 높은 모던 카페 겸 레스토랑으로, 구붕(Gubeng)역에서 택시나 라이드헤일링으로 가까운 거리에 있습니다.
 quickAnswer: 블랙 아울(Black Owl)은 수라바야 중심가 테갈사리(Tegalsari) 지구, 즐 바수키 라핫(Jl. Basuki Rahmat)에 위치한 평점 높은 모던 카페 겸 레스토랑으로, 구붕(Gubeng)역이나 파사르 투리(Pasar Turi)역에서 택시나 라이드헤일링으로 잠깐이면 갈 수 있습니다. 서양식 든든한 요리부터 커피, 디저트까지 아우르는 폭넓은 올데이 메뉴로 유명하며, 꾸준히 좋은 평가를 받는 손님층을 끌어모으고 있습니다 (평점 4.9, 리뷰 약 1,800건). 그러니 금~일요일 저녁 러시 시간대를 피하거나 미리 예약하는 것이 좋습니다. 제대로 앉아서 식사하고 디저트까지 즐기려면 1시간에서 1시간 반 정도 여유를 두는 것이 좋습니다.

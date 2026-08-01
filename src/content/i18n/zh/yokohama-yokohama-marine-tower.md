@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: yokohama-yokohama-marine-tower
+srcHash: 184d04b17e92
 title: 横滨海洋塔:旅行指南
 description: 横滨海洋塔坐落在中区山下公园边缘,是一座建于1961年、高106.2米的旧灯塔,设有俯瞰港湾的室内外观景台。
 quickAnswer: 横滨海洋塔(Yokohama Marine Tower)坐落在中区山下公园(Yamashita Park)边缘,是一座建于1961年、高106.2米的旧灯塔,设有俯瞰港湾的室内外观景台。建议安排45-60分钟游览,傍晚时分前往可欣赏海湾光线变化的景致,不妨结合山下公园散步或参观停泊在附近海面上的冰川丸(Hikawa Maru)一同游览。

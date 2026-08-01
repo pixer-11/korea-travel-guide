@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: surabaya-depot-bu-rudy-dharmahusada
+srcHash: 20c2d0896c49
 title: Depot Bu Rudy Dharmahusada：泗水（Surabaya）美食推荐
 description: Depot Bu Rudy Dharmahusada 是泗水一家历史悠久的老字号餐厅，位于 Jl. Dharmahusada 路上。
 quickAnswer: Depot Bu Rudy Dharmahusada 是泗水 Jl. Dharmahusada 路上一家历史悠久的老字号餐厅，以重口味参巴酱（sambal）风味的东爪哇菜肴著称，尤其是 rempeyek（香脆花生/凤尾鱼薄脆饼）、empal（炸牛肉）以及配参巴酱的炸鸡，常客们都会整公斤买回家。凭借近 17,000 条评价和 4.5 的评分，这里几乎总是人满为患，建议选在早午餐时段（11:30）或午后的相对空闲时段（14:30-16:00）前往，以避开人流高峰。

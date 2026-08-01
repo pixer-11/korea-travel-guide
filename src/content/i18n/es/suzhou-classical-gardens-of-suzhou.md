@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: suzhou-classical-gardens-of-suzhou
+srcHash: 4c2fa324cf83
 title: 'Jardines Clásicos de Suzhou: Guía de Viaje'
 description: Los "Jardines Clásicos de Suzhou" son una designación de Patrimonio Mundial de la UNESCO que abarca nueve jardines históricos independientes repartidos por la ciudad vieja, no uno solo.
 quickAnswer: Los "Jardines Clásicos de Suzhou" son una designación de Patrimonio Mundial de la UNESCO que abarca nueve jardines históricos independientes repartidos por la ciudad vieja, no un único sitio — los más recomendables para visitar son el Jardín del Administrador Humilde (Zhuozheng Yuan), el Jardín de la Espera (Liu Yuan) y el Jardín del Maestro de las Redes (Wangshi Yuan). Lo ideal es planear visitar dos o tres en un día en lugar de intentar ver los nueve, calcular entre 1 y 1.5 horas por jardín, e ir temprano en la mañana entre semana para evitar los grupos turísticos. La mayoría abren todo el año, pero la primavera (marzo–mayo) y el otoño (septiembre–noviembre) muestran los pabellones y las rocallas en su mejor momento.

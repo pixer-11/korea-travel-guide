@@ -1,6 +1,6 @@
 ---
 title: "Dakeng Scenic Area: Taichung Travel Guide"
-description: "Dakeng Scenic Area is a network of numbered hiking trails (Trails 1–10) in the forested hills of Beitun District, about 30–40 minutes from central Taichung"
+description: Dakeng Scenic Area is a network of numbered hiking trails (Trails 1–10) in the forested hills of Beitun District, about 30–40 minutes from central Taichung by taxi or scooter.
 country: "Taiwan"
 region: "Taichung"
 category: "hidden-gem"

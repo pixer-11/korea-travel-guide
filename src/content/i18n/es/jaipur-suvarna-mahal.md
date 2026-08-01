@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: jaipur-suvarna-mahal
+srcHash: b5d3916f55cb
 title: 'Suvarna Mahal: dónde comer en Jaipur'
-description: Suvarna Mahal es el comedor insignia dentro del Rambagh Palace (antigua residencia del maharajá, hoy un hotel Taj) en Bhawani Singh Road, en Jaipur — ideal para una
+description: Suvarna Mahal es el comedor insignia dentro del Rambagh Palace (antigua residencia del maharajá, hoy un hotel Taj) en Bhawani Singh Road, en Jaipur — ideal para una cena tranquila de platos degustación de la cocina real rajastaní y del norte de la India, en un salón dorado iluminado por candelabros.
 quickAnswer: Suvarna Mahal es el comedor insignia dentro del Rambagh Palace (antigua residencia del maharajá, hoy un hotel Taj) en Bhawani Singh Road, en Jaipur — ideal para una cena tranquila de platos degustación de la cocina real rajastaní y del norte de la India, en un salón dorado iluminado por candelabros. Reserva mesa con al menos unos días de antelación, viste de manera elegante-informal o más formal, y reserva entre dos y tres horas; esto es un lujo ocasional, no una comida rápida.
 faq:
   - q: ¿Necesito reserva en Suvarna Mahal?

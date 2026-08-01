@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: abu-dhabi-art-house-cafe
+srcHash: ab04ec184268
 title: Art House Cafe:阿布扎比旅行指南
 description: Art House Cafe坐落在阿布扎比Al Bateen(拜廷)街区的Etihad现代艺术画廊内,是一处色彩缤纷、绿植环绕的所在,以全天供应早餐闻名。
 quickAnswer: Art House Cafe坐落在阿布扎比Al Bateen(拜廷)街区的Etihad现代艺术画廊内,是一处色彩缤纷、绿植环绕的所在,以全天供应早餐、三明治和精品咖啡而闻名。建议在工作日的上午前往,可以不必排队,静静享受画廊般的环境,并预留45–90分钟用来用餐和欣赏艺术品。这里在周末人气很高、非常繁忙,所以最好提前预订或早点到达。

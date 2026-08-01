@@ -1,6 +1,6 @@
 ---
 title: "Alcazaba: Malaga Travel Guide"
-description: "Go right at opening (usually 9am) or in the last hour before closing to dodge the cruise-ship crowds — the Alcazaba is Málaga's best-preserved Moorish"
+description: Go right at opening (usually 9am) or in the last hour before closing to dodge the cruise-ship crowds — the Alcazaba is Málaga's best-preserved Moorish fortress, perched over C/ Alcazabilla with sea views, horseshoe arches, and terraced gardens dripping with bougainvillea.
 country: "Spain"
 region: "Malaga"
 category: "attraction"

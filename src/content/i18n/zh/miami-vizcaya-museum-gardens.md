@@ -1,8 +1,9 @@
 ---
 lang: zh
 slug: miami-vizcaya-museum-gardens
+srcHash: f2b9a28f8532
 title: 维斯凯亚博物馆与花园：迈阿密旅行指南
-description: 维斯凯亚博物馆与花园（Vizcaya Museum & Gardens）位于迈阿密紧邻椰林区（Coconut Grove）海湾沿岸的3251 S Miami Ave，是一座建于约1914年、专为实业家詹姆斯
+description: 维斯凯亚博物馆与花园（Vizcaya Museum & Gardens）位于迈阿密紧邻椰林区（Coconut Grove）海湾沿岸的3251 S Miami Ave，是一座建于约1914年的镀金时代（Gilded Age）别墅，由实业家詹姆斯·迪林（James Deering）建造，四周环绕着意大利文艺复兴风格的正式花园和珊瑚岩石窟。
 quickAnswer: 维斯凯亚博物馆与花园（Vizcaya Museum & Gardens）位于迈阿密紧邻椰林区（Coconut Grove）海湾沿岸的3251 S Miami Ave，是一座建于约1914年的镀金时代（Gilded Age）别墅，由实业家詹姆斯·迪林（James Deering）建造，四周环绕着意大利文艺复兴风格的正式花园和珊瑚岩石窟。建议预留2-3小时游览时间，最好选在工作日上午前往，以避开高温和人流；可搭乘Metrorail的Vizcaya站，步行5-10分钟即可到达。该景点获得超过16,000名游客给出的4.7分评价，建议提前在线预订限时门票。
 faq:
   - q: 没有车怎么去维斯凯亚博物馆与花园？

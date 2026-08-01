@@ -1,6 +1,6 @@
 ---
 title: Kadamba in Hyderabad
-description: Kadamba is a rooftop bar overlooking Durgam Cheruvu lake in Madhapur, Hyderabad, built around three live Kadamba trees and low, in-situ seating styled like a
+description: Kadamba is a rooftop bar overlooking Durgam Cheruvu lake in Madhapur, Hyderabad, built around three live Kadamba trees and low, in-situ seating styled like a village chaupal.
 country: India
 region: Hyderabad
 category: trendy

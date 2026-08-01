@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: abu-dhabi-flavors-grill-abu-dhabi
+srcHash: 84e2b00d5918
 title: '플레이버스 그릴: 아부다비 맛집 가이드'
 description: 플레이버스 그릴 아부다비(Flavors Grill Abu Dhabi)는 미나 자이드(Mina Zayed) / 프리존 2(Free Zone 2) 구역, 항구 인근 미나 스트리트(Mina Street)에 위치한 인기 많고 평점이 높은(4.9점, 리뷰 39,000개 이상) 그릴 전문점입니다.
 quickAnswer: 플레이버스 그릴 아부다비(Flavors Grill Abu Dhabi)는 미나 자이드(Mina Zayed) / 프리존 2(Free Zone 2) 구역, 항구 인근 미나 스트리트(Mina Street)에 위치한 인기 많고 평점이 높은(4.9점, 리뷰 39,000개 이상) 그릴 전문점으로, 숯불에 구운 고기와 믹스 그릴 플래터를 중간대 가격(가격대 약 레벨 3)에 선보이는 것으로 유명합니다. 저녁 러시를 피하려면 평일 오픈 시간대나 오후 시간대에 방문하는 것이 좋으며, 오후 8시 이후 도착하면 합석하거나 대기해야 할 수도 있습니다.

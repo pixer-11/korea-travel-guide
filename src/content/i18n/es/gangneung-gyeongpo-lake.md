@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: gangneung-gyeongpo-lake
+srcHash: 80921ffba8f6
 title: 'Lago Gyeongpo: guía de viaje de Gangneung'
 description: El lago Gyeongpo (Gyeongpo Lake), una laguna poco profunda en la costa este de Gangneung, es ideal para ver el amanecer o el atardecer sobre el agua y recorrer una ruta plana de unos 4,3 km a pie o en bicicleta.
 quickAnswer: El lago Gyeongpo (Gyeongpo Lake), una laguna poco profunda en la costa este de Gangneung, es ideal para ver el amanecer o el atardecer sobre el agua, además de recorrer una ruta plana de unos 4,3 km a pie o en bicicleta alrededor de sus orillas. Calcula entre 1,5 y 2 horas para el circuito, más las paradas en el pabellón Gyeongpodae y el pinar junto al lago; combínalo con la cercana playa de Gyeongpo (Gyeongpo Beach) para una salida de medio día. Recorrer el perímetro es gratuito, se llega fácilmente en autobús urbano desde la estación de Gangneung (Gangneung Station), y la mejor época es la primavera (cerezos en flor) o el otoño (aves migratorias).

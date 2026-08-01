@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: venice-venice-international-film-festival-mostra-del-cinema
+srcHash: 80ad1bd8a524
 title: '베니스 국제 영화제(모스트라 델 치네마): 알아두어야 할 것들 (베니스)'
 description: 이탈리아 베니스에서 열리는 베니스 국제 영화제(모스트라 델 치네마) — 2026년 9월 2일~12일. 축제의 정체, 시기와 장소, 그리고 일정을 계획하는 방법을 소개합니다.
 quickAnswer: 베니스 국제 영화제(라 모스트라, La Mostra)는 2026년 9월 2일부터 12일까지 리도 디 베네치아(Lido di Venezia)에서 제83회를 맞아 열리며, 매기 질렌할(Maggie Gyllenhaal)이 이끄는 심사위원단이 황금사자상(Golden Lion) 수상작을 결정합니다. 리도 섬 자체 또는 바포레토로 잠깐이면 갈 수 있는 베니스 중심부에 숙소를 잡는 것이 좋으며, 팔라초 델 치네마(Palazzo del Cinema) 살라 그란데(Sala Grande) 주변에서는 레드카펫을 보려는 인파를 각오해야 합니다. 정확한 상영 장소와 티켓/취재 등록 절차는 일정을 세우기 전 공식 비엔날레 치네마(Biennale Cinema) 웹사이트에서 반드시 확인하세요.

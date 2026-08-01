@@ -1,8 +1,9 @@
 ---
 lang: ko
 slug: nice-promenade-des-anglais
+srcHash: e8dd38e64e8f
 title: '프롬나드 데 장글레: 니스 여행 가이드'
-description: 프롬나드 데 장글레(Promenade des Anglais)는 공항 인근에서 구시가지까지 이어지는 니스의 상징적인 7km 길이의 야자수 늘어선 해안 산책로로,
+description: 프롬나드 데 장글레(Promenade des Anglais)는 공항 인근에서 구시가지까지 이어지는 니스의 상징적인 7km 길이의 야자수 늘어선 해안 산책로로, 이른 아침이나 일몰 무렵 도보나 자전거 대여로 즐기는 것이 가장 좋습니다.
 quickAnswer: 프롬나드 데 장글레(Promenade des Anglais)는 공항 인근에서 구시가지까지 이어지는 니스의 상징적인 7km 길이의 야자수 늘어선 해안 산책로로, 이른 아침이나 일몰 무렵 도보나 자전거 대여로 즐기는 것이 가장 좋습니다. 무료이며 24시간 개방되어 있고, T2 트램(장 메드생(Jean Médecin) 또는 마세나(Masséna) 정류장)을 이용하거나 구시가지에서 짧게 걸어서 가기 쉽습니다. 경치 좋은 중심 구간만 걷는다면 1~2시간, 자전거를 빌려 전체 구간을 달린다면 반나절 정도를 계획하세요.
 faq:
   - q: 프롬나드 데 장글레(Promenade des Anglais) 전체를 걷는 데 얼마나 걸리나요?

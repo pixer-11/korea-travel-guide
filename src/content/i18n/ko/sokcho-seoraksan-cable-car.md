@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: sokcho-seoraksan-cable-car
+srcHash: 2c09c09260e1
 title: '설악산 케이블카: 속초 여행 가이드'
 description: 설악산 케이블카는 소공원(Sogongwon Park) 인근 하부 승강장에서 권금성(Gwongeumseong Fortress) 능선까지 방문객을 실어 나릅니다.
 quickAnswer: 설악산 케이블카는 소공원(Sogongwon Park) 인근 하부 승강장에서 권금성(Gwongeumseong Fortress) 능선(해발 약 705m)까지 약 6분 만에 오를 수 있어, 몇 시간이 걸리는 가파른 등산을 대신할 수 있습니다. 긴 매표 줄을 피하려면 오전 9시 이전에 도착하거나 평일에 방문하는 것이 좋으며, 성터 전망대까지 짧게 오르는 시간을 포함해 왕복 약 1~1.5시간을 잡으면 됩니다. 맑은 가을 아침(10월 중순~하순)에는 설악산국립공원과 동해를 조망하기에 가장 좋은 시야를 확보할 수 있습니다.

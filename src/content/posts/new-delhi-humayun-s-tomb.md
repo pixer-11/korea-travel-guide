@@ -1,6 +1,6 @@
 ---
 title: "Humayun s Tomb: New Delhi Travel Guide"
-description: "Humayun's Tomb is one of Delhi's great Mughal monuments — the red-sandstone forerunner to the Taj Mahal, set in a walled Persian-style garden off Mathura"
+description: Humayun's Tomb is one of Delhi's great Mughal monuments — the red-sandstone forerunner to the Taj Mahal, set in a walled Persian-style garden off Mathura Road in Nizamuddin.
 country: "India"
 region: "New Delhi"
 category: "hidden-gem"

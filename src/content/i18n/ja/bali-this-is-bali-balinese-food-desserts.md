@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: bali-this-is-bali-balinese-food-desserts
+srcHash: af193663fd25
 title: This Is Bali - バリの食事とデザート:おすすめの食事処
 description: This Is Baliは、ウブド中心部のJl. Goutamaにあるカジュアルで評価の高いインドネシア料理店です。
 quickAnswer: This Is Baliは、ウブド(Ubud)中心部のJl. Goutamaにあるカジュアルで評価の高いインドネシア料理店で、バビグリン(babi guling)やナシチャンプル(nasi campur)といった手頃な価格のバリ料理の定番メニューや、ダダールグルン(dadar gulung)やブブールインジン(bubur injin)などの伝統的なデザートで知られています。18,000件を超えるレビューで4.9の評価を獲得し、価格帯は中程度(価格レベル2)と、非常に人気があるため、ランチやディナーのピーク時には待ち時間を見込んでおきましょう。早めの時間帯か午後の中頃に行き、しょっぱい料理と甘い料理を組み合わせてシェアで注文し、食後にはJl. Goutama沿いのカフェや書店が並ぶ通りを散策するのがおすすめです。

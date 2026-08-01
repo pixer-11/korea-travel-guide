@@ -1,6 +1,6 @@
 ---
 title: "Gardens by the Bay: Marina Bay Travel Guide"
-description: "Gardens by the Bay is a 101-hectare waterfront park in Marina Bay, best known for the towering Supertree Grove and the two cooled conservatories, Flower Dome"
+description: Gardens by the Bay is a 101-hectare waterfront park in Marina Bay, best known for the towering Supertree Grove and the two cooled conservatories, Flower Dome and Cloud Forest.
 country: "Singapore"
 region: "Marina Bay"
 category: "hidden-gem"

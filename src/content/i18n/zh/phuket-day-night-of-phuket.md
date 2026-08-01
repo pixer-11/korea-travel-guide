@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: phuket-day-night-of-phuket
+srcHash: fccf48935651
 title: 昼夜之间：普吉岛美食指南
 description: Day & Night Of Phuket 是一家位于普吉岛老城他叻仔（Talat Yai）的休闲平价泰式餐厅，以泰南风味和海鲜菜肴著称，价格适中。
 quickAnswer: Day & Night Of Phuket 是一家位于普吉岛老城他叻仔（Talat Yai）的休闲泰式餐厅，客流量大，以泰南风味和海鲜菜肴闻名，价格适中（Google 价格等级为 2，大约每道菜 150–500 泰铢）。凭借超过 4,700 条评价和 4.7 分的高评分，无论是逛完中葡风情老街屋后想快速吃顿午餐，还是想在夜市开场前吃顿从容的晚餐，这里都是可靠之选。建议傍晚 5:30–6:30 前往，既能避开晚餐高峰，又能趁着天色未暗欣赏老城色彩斑斓的街景。

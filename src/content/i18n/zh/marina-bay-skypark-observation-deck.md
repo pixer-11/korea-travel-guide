@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: marina-bay-skypark-observation-deck
+srcHash: dcaa33bf50d3
 title: 滨海湾金沙空中花园观景台（SkyPark Observation Deck）旅游指南
 description: SkyPark空中花园观景台坐落于滨海湾金沙酒店（Marina Bay Sands）第三塔楼顶层，高达56层，一览新加坡标志性全景：滨海湾花园的擎天树。
 quickAnswer: SkyPark空中花园观景台位于滨海湾金沙酒店（Marina Bay Sands）第三塔楼顶层，高达56层，将新加坡最具代表性的全景尽收眼底：滨海湾花园（Gardens by the Bay）的擎天树（Supertrees）、新加坡摩天观景轮（Singapore Flyer），以及市中心天际线一览无余。建议提前在网上购买限时入场票，在日落前30-45分钟到达，并预留约45-60分钟在观景台停留。这里是新加坡人气最高的景点之一（4.6星，近14,000条评价），因此要有心理准备会有人潮拥挤，做好相应安排，而非期待清静。

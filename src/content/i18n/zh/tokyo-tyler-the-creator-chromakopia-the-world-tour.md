@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: tokyo-tyler-the-creator-chromakopia-the-world-tour
+srcHash: e163c1d67ef3
 title: 'Tyler, the Creator《Chromakopia: The World Tour》东京站须知'
 description: 'Tyler, the Creator 将于2026年9月9日至10日在东京有明体育馆（Ariake Arena）举办《Chromakopia: The World Tour》演唱会，这是他时隔八年再度来日演出。'
 quickAnswer: 'Tyler, the Creator 将于2026年9月9日至10日在东京有明体育馆（Ariake Arena）举办《Chromakopia: The World Tour》演唱会，这是他时隔八年再度来日演出。目前官方尚未公布开门及开场时间，订机票和酒店前请务必在 Tyler 官方巡演网站或有明体育馆官网确认具体日期、票种和入场时间。预计两晚场馆都会十分拥挤——请提前规划好交通和用餐，因为有明周边餐饮选择有限。'

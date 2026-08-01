@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: tokyo-smith-wollensky
+srcHash: 8b2f52325e49
 title: 'Smith & Wollensky en Tokio: guía para visitantes'
 description: 'Smith & Wollensky en Tokio, Japón — un local nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Smith & Wollensky, el legendario asador (steakhouse) de Nueva York, ha abierto su primer local en Japón en Ginza, repartido en tres plantas y con carnes USDA Prime maduradas en seco (dry-aged) junto con la hospitalidad estadounidense característica de la marca. Es un lugar de moda que conviene reservar, ideal para cenar entre semana o para un almuerzo más tranquilo de fin de semana. Reserva con antelación y confirma el horario actual antes de ir, ya que los detalles pueden cambiar en los primeros meses tras una apertura de esta magnitud.

@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: kuala-lumpur-merdeka-square
+srcHash: 1f93d4de52d5
 title: 默迪卡广场：吉隆坡旅行指南
 description: 默迪卡广场是吉隆坡殖民时代核心区一片宽阔如板球场般翠绿的广场，广场上矗立着一根95米高的旗杆，标志着英国国旗降下、马来亚国旗升起的历史时刻。
 quickAnswer: 默迪卡广场（Merdeka Square）是吉隆坡殖民时代核心区一片宽阔、绿草如茵的广场，草坪大小宛如板球场，广场上矗立着一根95米高的旗杆，标志着1957年英国国旗（Union Jack）降下、马来亚国旗升起的地点。广场全天24小时开放，免费进入；建议在早上7点到9点前往，此时草坪和背后仿都铎风格的雪兰莪皇家俱乐部（Royal Selangor Club）几乎无人打扰，因为下午和傍晚（尤其是周末的下午4点到晚上11点）人潮汹涌。不妨将行程与近在咫尺的苏丹阿都沙末大厦（Sultan Abdul Samad Building）和加米清真寺（Masjid Jamek）安排在一起。

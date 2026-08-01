@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: kyoto-imaya-kyoto-coffee
+srcHash: b1c99289b161
 title: IMAYA Kyoto &COFFEE 旅行指南
 description: IMAYA Kyoto &COFFEE 是中京区一家小巧精致、设计感十足的咖啡馆，供应意式浓缩咖啡饮品、天然酒、啤酒及轻食，店内以裸露混凝土与木质元素打造出简约质感。
 quickAnswer: IMAYA Kyoto &COFFEE 是中京区一家小巧精致、设计感十足的咖啡馆，供应意式浓缩咖啡饮品、天然酒、啤酒及轻食，店内以裸露混凝土与木质元素打造出简约质感。最佳造访时间是工作日上午，比较容易找到座位，逛完之后还可以顺道走几分钟到锦市场（Nishiki Market）/寺町（Teramachi）购物拱廊逛逛。喝杯咖啡的话预留30-45分钟即可，若想坐下来点份小吃或喝一杯，则可以多留些时间。

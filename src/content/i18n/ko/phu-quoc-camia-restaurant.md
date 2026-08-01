@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: phu-quoc-camia-restaurant
+srcHash: 6552ab9ef399
 title: '카미아 레스토랑: 푸꾸옥 맛집 추천'
 description: 카미아 레스토랑(Camia Restaurant)은 즈엉동(Duong Dong) 마을 북쪽 레투냐 거리(Le Thuc Nha Street)의 옹랑 비치(Ong Lang Beach)에 자리한 해변가 맛집으로, 신선한 해산물을 즐기기에 좋은 일몰 시간대 방문을 추천합니다.
 quickAnswer: 카미아 레스토랑(Camia Restaurant)은 즈엉동(Duong Dong) 마을 북쪽 레투냐 거리(Le Thuc Nha Street)의 옹랑 비치(Ong Lang Beach)에 자리한 해변가 맛집으로, 모래사장 바로 옆에서 신선한 해산물과 함께 일몰을 즐기기에 가장 좋습니다. 거의 2,500개에 달하는 리뷰에서 4.8점이라는 보기 드문 평점을 기록하고 있으니, 물가 바로 옆 테이블에 앉으려면 이른 저녁 시간에 방문하거나 성수기(11월~4월)에는 미리 예약하는 것이 좋습니다.

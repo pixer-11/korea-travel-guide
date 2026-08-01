@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: surabaya-black-owl-surabaya
+srcHash: c633eed79552
 title: Black Owl：泗水美食指南
 description: Black Owl 是位于泗水（Surabaya）市中心 Tegalsari 区 Jl. Basuki Rahmat 路上的一家人气极高的现代咖啡餐厅，从 Gubeng 或 Pasar Turi 火车站打车或叫车即可抵达。
 quickAnswer: Black Owl 是位于泗水市中心 Tegalsari 区 Jl. Basuki Rahmat 路上的一家人气极高的现代咖啡餐厅，从 Gubeng 或 Pasar Turi 火车站打车或叫车即可轻松到达。这里以涵盖西式家常菜、咖啡和甜点的丰富全天候菜单而闻名，人气稳定、口碑极佳（评分 4.9，近 1,800 条评价），因此建议避开周五至周日的晚餐高峰时段，或提前预订。安排一小时到一个半小时，用来好好享用一顿正餐加甜点。

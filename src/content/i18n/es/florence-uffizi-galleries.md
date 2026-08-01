@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: florence-uffizi-galleries
+srcHash: 04a27462f149
 title: 'Galería Uffizi: Guía de viaje de Florencia'
 description: Reserva online una entrada con horario asignado con bastante antelación, llega a tu franja horaria en lugar de con adelanto, y dirígete directamente a las salas de Botticelli antes de la avalancha de media mañana.
 quickAnswer: Reserva online una entrada con horario asignado con bastante antelación, llega a tu franja horaria en lugar de con adelanto, y dirígete directamente a las salas de Botticelli antes de que llegue la avalancha de media mañana. La Uffizi es uno de los museos más visitados del mundo (valorado con 4.7 sobre más de 93,000 reseñas), así que la fila sin reserva en Piazzale degli Uffizi 6 puede superar la hora de espera sin reserva previa — evítala reservando con antelación.

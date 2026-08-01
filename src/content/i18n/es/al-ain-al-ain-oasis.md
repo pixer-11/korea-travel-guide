@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: al-ain-al-ain-oasis
+srcHash: 8826ffe76fb3
 title: 'Oasis de Al Ain: Guía de viaje'
 description: El Oasis de Al Ain es una plantación de palmeras en activo, gratuita, de 1200 hectáreas, en pleno centro de la ciudad de Al Ain, surcada por senderos sombreados y canales tradicionales de riego falaj.
 quickAnswer: El Oasis de Al Ain (Al Ain Oasis) es una plantación de palmeras en activo, gratuita, de 1200 hectáreas, en pleno centro de la ciudad de Al Ain, surcada por senderos sombreados y canales tradicionales de riego falaj. Se entra por el Eco-Centre, cerca del Museo Nacional de Al Ain (Al Ain National Museum) y el Fuerte Al Jahili (Al Jahili Fort); calcula entre 1 y 2 horas y ve a primera hora de la mañana o justo antes de la puesta de sol, cuando bajan tanto el calor como la afluencia de gente. Combina de forma natural con una ruta de medio día que incluya también el Fuerte Al Jahili y el Qasr Al Muwaiji.

@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: monza-italian-grand-prix-formula-1
+srcHash: c6da7f5e4e1d
 title: 2026年F1意大利大奖赛须知(蒙扎)
 description: 2026年意大利大奖赛将于9月4日至6日在米兰以北的蒙扎国家赛车场(Autodromo Nazionale Monza)举行。
 quickAnswer: 2026年意大利大奖赛将于9月4日至6日在米兰以北的蒙扎国家赛车场(Autodromo Nazionale Monza)举行。请尽早通过Formula1.com或赛道官方渠道购票，计划乘火车前往(先到蒙扎站,再转乘接驳巴士或步行20分钟穿过蒙扎公园),并考虑到人流和安检排队,为每场赛事预留一整天的时间。预订前请务必在F1/蒙扎官方网站上再次确认日期、开门时间和票价,因为这些信息可能会有变动。

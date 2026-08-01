@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: granada-alhambra
+srcHash: b80ab95f7833
 title: 'Alhambra: Guía de viaje de Granada'
 description: Reserva las entradas a la Alhambra online con semanas (en temporada alta, meses) de antelación en el sitio oficial tickets.alhambra-patronato.es, eligiendo una franja horaria concreta para los Palacios Nazaríes.
 quickAnswer: 'Reserva las entradas a la Alhambra online con semanas (en temporada alta, meses) de antelación en el sitio oficial tickets.alhambra-patronato.es, eligiendo una franja horaria concreta para los Palacios Nazaríes: esta es la única parte de la visita con horario fijo y sin excepciones. Calcula un mínimo de 3-4 horas para recorrer los Palacios Nazaríes, la fortaleza de la Alcazaba y los jardines del Generalife, y llega al menos 30 minutos antes de tu franja horaria del palacio, ya que a quienes llegan tarde no se les permite el acceso.'

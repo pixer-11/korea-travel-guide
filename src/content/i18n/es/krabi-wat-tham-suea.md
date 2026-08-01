@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: krabi-wat-tham-suea
+srcHash: 26f7d78bfcba
 title: 'Wat Tham Suea: Guía de viaje de Krabi'
 description: Wat Tham Suea (el Templo de la Cueva del Tigre) se encuentra en la selva, a unos 8 km al norte de Krabi Town, y es célebre por su escalinata de 1.237 escalones que lleva hasta un Buda dorado en la cima de la colina.
 quickAnswer: Wat Tham Suea (el Templo de la Cueva del Tigre) se encuentra en la selva, a unos 8 km al norte de Krabi Town, y es célebre por su escalinata de 1.237 escalones que sube hasta un Buda dorado en lo alto de la colina, con vistas panorámicas sobre los karsts de piedra caliza. Conviene ir al amanecer (abre alrededor de las 5-6 de la mañana) para evitar el calor y las multitudes, llevar ropa ligera que cubra hombros y rodillas, y reservar entre 2 y 3 horas para ver tanto los terrenos del templo con sus cuevas y el bosque de abajo como la subida a la cima. Un tuk-tuk o una moto alquilada desde Krabi Town son la forma más sencilla de llegar, ya que no hay autobús público directo.

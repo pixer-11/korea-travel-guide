@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: strasbourg-musee-de-l-uvre-notre-dame
+srcHash: 23a9734756bf
 title: 圣母教堂工程博物馆:斯特拉斯堡旅行指南
 description: 圣母教堂工程博物馆(Musée de l'Œuvre-Notre-Dame)坐落在斯特拉斯堡大教堂旁一片中世纪与文艺复兴风格建筑群中,地址为城堡广场(Place du Château)3号,是这座城市中鲜为人知的重要景点之一。
 quickAnswer: 圣母教堂工程博物馆(Musée de l'Œuvre-Notre-Dame)坐落在斯特拉斯堡大教堂旁一片中世纪与文艺复兴风格建筑群中,地址为城堡广场(Place du Château)3号,是这座城市中鲜为人知的重要景点之一——这是一座评分高达4.7星的博物馆,收藏中世纪与文艺复兴时期的艺术品、彩色玻璃和大教堂雕塑。建议预留90分钟到两小时游览,最好选在平日上午前往,并可与近在咫尺的大教堂及其天文钟一同游览。

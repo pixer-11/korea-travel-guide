@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: provence-lavender-fields
+srcHash: 2c627b97b3bf
 title: ラベンダー畑：プロヴァンス旅行ガイド
 description: プロヴァンスでラベンダー鑑賞に最適な時期は6月中旬から8月上旬頃で、7月後半にピークを迎えます。ヴァランソル高原（Valensole Plateau）をはじめ、ソー盆地（Sault basin）やボニュー（Bonnieux）、リュベロン（Luberon）周辺の畑が特に人気です。
 quickAnswer: プロヴァンスでラベンダー鑑賞に最適な時期は6月中旬から8月上旬頃で、7月後半にピークを迎えます。ヴァランソル高原（Valensole Plateau）、ソー盆地（Sault basin）、そしてボニュー（Bonnieux）やリュベロン（Luberon）周辺の畑が特に見応えのあるスポットとして知られています。光の美しさと涼しさの両方を狙うなら早朝（7〜9時）か日没前のゴールデンアワーがおすすめです。畑は鉄道の通っていない田舎のD号線沿いに点在しているため、レンタカーを利用しましょう。

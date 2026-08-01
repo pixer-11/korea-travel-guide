@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: fukuoka-manly
+srcHash: 72341d43f3fa
 title: 'Manly: Guía de viaje de Fukuoka'
 description: Manly es un café de temática australiana abierto todo el día en Imaizumi, a poca distancia al sur de Tenjin, conocido por sus esponjosos hotcakes de ricotta, sus platos de desayuno disponibles todo el día y sus meat pies.
 quickAnswer: Manly es un café de temática australiana abierto todo el día en Imaizumi, a poca distancia al sur de Tenjin, conocido por sus esponjosos hotcakes de ricotta, sus platos de desayuno disponibles todo el día y sus meat pies. Ve un día de semana por la mañana o a media tarde para conseguir una de las pequeñas mesas al aire libre y evitar la cola del brunch del fin de semana; calcula entre 1.500 y 2.500 yenes por persona y de 45 a 75 minutos para una comida tranquila sentado a la mesa.

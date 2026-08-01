@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: seoul-artist-bakery
+srcHash: b00593e7cba5
 title: 'Artist Bakery: Guía de viaje de Seúl'
 description: 'Artist Bakery en Seúl, Corea del Sur — un local nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Artist Bakery es una panadería-cafetería cerca de la estación de Anguk (Anguk Station), en Jongno-gu, abierta por el equipo detrás del enormemente popular London Bagel Museum, y ahora genera colas igual de largas — llega justo a la apertura o resígnate a esperar. Es conocida por sus salt breads (panes de sal) y sus sándwiches de baguette, y se trata de un lugar muy popular y bien documentado, no un hallazgo secreto, así que planifica en torno a las multitudes, no en contra de ellas. Confirma el horario actual y si se están usando reservas o aplicaciones de fila antes de ir, ya que los sistemas de cola de las panaderías de este barrio cambian con frecuencia.

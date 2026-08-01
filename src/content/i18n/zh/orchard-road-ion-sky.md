@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: orchard-road-ion-sky
+srcHash: afdcacfafaf8
 title: ION Sky：乌节路旅游指南
 description: ION Sky 是位于 ION Orchard 商场 56 楼的观景台，只需在商场消费或完成登记即可免费入场，可 360 度俯瞰乌节路一带。
 quickAnswer: ION Sky 是位于 ION Orchard 商场 56 楼的观景台，只需在商场消费或完成登记即可免费入场，可 360 度俯瞰乌节路（Orchard Road）、植物园以及市中心天际线。建议选在天气晴朗的傍晚前往，正好能看到夕阳渐渐融入城市灯火，由于空间不大，预留 30 至 45 分钟即可。入口设在商场内专用的电梯大堂——前往之前请务必确认最新的入场方式，因为 ION 会不定期更改兑换流程。

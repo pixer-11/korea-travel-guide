@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: kuala-lumpur-honne-10-year-anniversary-world-tour-kuala-lumpur
+srcHash: a3fd5a81ac19
 title: HONNE 十周年世界巡回演唱会——吉隆坡站:你需要知道的信息(吉隆坡)
 description: HONNE 十周年世界巡回演唱会吉隆坡站,地点马来西亚吉隆坡——2026年8月7日至8日。演出内容、时间地点,以及如何安排行程。
 quickAnswer: HONNE 将携十周年世界巡回演唱会来到吉隆坡市中心的 REXKL,连演两晚,时间为2026年8月7日至8日,届时将演绎新专辑《HONNE – 10》中的曲目,以及十年来广受歌迷喜爱的经典歌曲。请将本文中的日期、场馆和票务信息作为参考起点,并在安排行程前,务必到 HONNE 官方渠道及 REXKL 官方活动页面确认具体开场时间、余票情况及任何临时场馆变动等最新信息。

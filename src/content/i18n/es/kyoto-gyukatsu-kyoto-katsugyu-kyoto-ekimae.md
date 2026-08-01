@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: kyoto-gyukatsu-kyoto-katsugyu-kyoto-ekimae
+srcHash: d0ca8296880b
 title: 'GYUKATSU Kyoto Katsugyu Kyoto Ekimae: Dónde comer'
 description: GYUKATSU Kyoto Katsugyu Kyoto Ekimae es un especialista en gyukatsu (chuleta de ternera empanada y frita) a pocos pasos de la estación de Kioto, ideal para comer al mediodía cuando las colas son más cortas.
 quickAnswer: GYUKATSU Kyoto Katsugyu Kyoto Ekimae es un especialista en gyukatsu (chuleta de ternera empanada y frita) a pocos pasos de la estación de Kioto, ideal para comer al mediodía cuando las colas son más cortas. Pide el menú set, cocina tus lonchas en la piedra individual de la mesa al punto que prefieras, y calcula gastar entre ¥1,500 y ¥2,500 para una comida satisfactoria (nivel de precio 2 según Google). Reserva entre 15 y 30 minutos de espera fuera de las horas punta de comida o cena.

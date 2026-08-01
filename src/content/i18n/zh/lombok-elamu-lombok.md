@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: lombok-elamu-lombok
+srcHash: 25f5448ef2c9
 title: Elamu：龙目岛美食推荐去哪吃
 description: Elamu Lombok 是一家希腊餐厅,位于龙目岛南部库塔海滩(Kuta Beach)附近,距离主街 Jalan Pariwisata Pantai Kuta 车程不远。
 quickAnswer: Elamu Lombok 是一家希腊餐厅,位于龙目岛南部库塔海滩(Kuta Beach)附近,距离主街 Jalan Pariwisata Pantai Kuta 车程不远。它凭借地中海风味菜品——烤肉、清爽沙拉和各式蘸酱——在轻松惬意的热带环境中,积累了极佳的口碑(4.8 星,超过 2,400 条评论)。建议选在傍晚早些时候用餐,旺季请提前预订,用餐前不妨先去库塔海滩(Kuta Beach)或坦戎安海滩(Tanjung Aan)看一场日落。

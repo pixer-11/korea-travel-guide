@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: boracay-willy-s-rock
+srcHash: ab8de9e15d9a
 title: 威利岩(Willy's Rock):长滩岛旅游指南
 description: 威利岩(Willy's Rock)是一块火山岩小礁,礁上建有一座供奉圣母玛利亚的小神龛,就矗立在长滩岛白沙滩(White Beach)1号站(Station 1)附近的浅海中——这里是长滩岛拍照率最高的地标。
 quickAnswer: 威利岩(Willy's Rock)是一块火山岩小礁,礁上建有一座供奉圣母玛利亚的小神龛,就矗立在长滩岛白沙滩(White Beach)1号站(Station 1)附近的浅海中——这里是长滩岛拍照率最高的地标。建议选在清晨低潮或日落前后前往,可以直接涉水走到岩石边,还不用挤在一堆举着手臂拍照的人群里;而正午时分则是旅行团和电动三轮车在木栈道沿线最拥挤的时段。参观和拍照都完全免费,除非你打算留到日落,否则只需要15-20分钟就够了。

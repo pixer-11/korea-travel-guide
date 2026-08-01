@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: hong-kong-xg-concert-asiaworld-expo
+srcHash: 3fdbc52d71a1
 title: 'XG 콘서트 (아시아월드-엑스포): 알아두어야 할 것 (홍콩)'
 description: 홍콩 아시아월드-엑스포(AsiaWorld-Expo)에서 열리는 XG 콘서트 — 2026년 8월 2일. 공연 개요와 일시·장소, 그리고 관람 계획을 세우는 방법을 안내합니다.
 quickAnswer: XG는 2026년 8월 2일 홍콩 아시아월드-엑스포(AsiaWorld-Expo)에서 공연합니다. 이 날짜는 현재 발표된 것이며, 항공권이나 숙소를 예약하기 전에 정확한 공연 시간, 홀, 티켓 판매 정보는 XG의 공식 채널(X, 인스타그램, XG/아시아월드-엑스포 티켓 페이지)에서 반드시 확인하시기 바랍니다. 아시아월드-엑스포는 홍콩국제공항 바로 옆에 위치해 있으며, MTR 퉁충선(Tung Chung Line)의 아시아월드-엑스포역(AsiaWorld-Expo Station)과 직접 연결되어 있어, 당일 항공편으로 도착하더라도 이동이 수월합니다.

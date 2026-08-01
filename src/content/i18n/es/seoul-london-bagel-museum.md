@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: seoul-london-bagel-museum
+srcHash: ccc9134f1a5f
 title: London Bagel Museum en Seúl
-description: London Bagel Museum es la panadería más comentada de Seúl, famosa por sus bagels tiernos y de sabores creativos como el Potato Cheese y el Brick Lane, y por las larguísimas
+description: London Bagel Museum es la panadería más comentada de Seúl, famosa por sus bagels tiernos y de sabores creativos como el Potato Cheese y el Brick Lane, y por las larguísimas colas de "open run" que provoca.
 quickAnswer: London Bagel Museum es la panadería más comentada de Seúl, famosa por sus bagels tiernos y de sabores creativos como el Potato Cheese y el Brick Lane, y por las larguísimas colas de "open run" que provoca. La sucursal original de Anguk, cerca de la Aldea Hanok de Bukchon (Bukchon Hanok Village), es la que persigue la mayoría de los visitantes, aunque la cadena se ha expandido desde entonces a otros barrios de Seúl. Conviene llegar temprano (bastante antes de la apertura) o contar con una espera, ya que las colas sin reserva y el stock diario limitado forman parte de la experiencia.
 faq:
   - q: ¿Con cuánta antelación debo llegar para evitar una espera larga?

@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: incheon-one-universe-festival-2026
+srcHash: f4753f7f7709
 title: 2026年One Universe Festival全攻略（仁川）
 description: 2026年One Universe Festival将于2026年7月25日至26日在韩国仁川举行——这场音乐节是什么、何时何地举办，以及该如何规划行程。
 quickAnswer: 2026年One Universe Festival定档2026年7月25日至26日，地点在仁川的Paradise City（파라다이스시티），目前公布的阵容包括The xx、Pendulum、My Bloody Valentine和Turnstile。建议以仁川国际机场为出行基点规划行程（距离Paradise City综合体车程很短），并尽早预订住宿，因为音乐节周末该度假区房源会被迅速订满。订机票前，请务必在官方One Universe Festival渠道确认最终日期、演出时间和票档。

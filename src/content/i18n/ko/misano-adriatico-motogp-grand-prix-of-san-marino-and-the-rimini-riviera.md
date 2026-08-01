@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: misano-adriatico-motogp-grand-prix-of-san-marino-and-the-rimini-riviera
+srcHash: 5244f303b7eb
 title: '모토GP 산마리노 그랑프리와 리미니 리비에라: 알아둘 것 (미사노 아드리아티코)'
 description: 이탈리아 미사노 아드리아티코(Misano Adriatico)에서 열리는 모토GP 산마리노 그랑프리와 리미니 리비에라, 2026년 9월 11-13일. 무엇인지, 언제 어디서 열리는지, 그리고 어떻게 일정을 짜야 하는지 안내합니다.
 quickAnswer: 모토GP 산마리노 그랑프리가 2026년 9월 11-13일, 미사노 월드 서킷 마르코 시몬첼리(Misano World Circuit Marco Simoncelli)에서 다시 열립니다. 금요일에는 연습주행, 토요일에는 예선과 스프린트, 일요일 오후에는 본 경기가 진행됩니다. 미사노 아드리아티코나 리치오네(Riccione)를 거점으로 삼고 숙소는 일찌감치 예약하세요. 이 주말에는 리미니 리비에라 전체가 꽉 찹니다. 출발 전에는 반드시 모토GP와 서킷 공식 웹사이트에서 정확한 일정과 티켓 정보를 확인하세요.

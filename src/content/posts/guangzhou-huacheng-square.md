@@ -1,6 +1,6 @@
 ---
 title: "Huacheng Square: Guangzhou Travel Guide"
-description: "Huacheng Square is the vast paved plaza at the heart of Tianhe's CBD, ringed by the Guangzhou Opera House, Guangdong Museum, Guangzhou Library and the Canton"
+description: Huacheng Square is the vast paved plaza at the heart of Tianhe's CBD, ringed by the Guangzhou Opera House, Guangdong Museum, Guangzhou Library and the Canton Tower across the river — free to walk through any time, and most rewarding in the late afternoon before the skyline lights up.
 country: "China"
 region: "Guangzhou"
 category: "attraction"

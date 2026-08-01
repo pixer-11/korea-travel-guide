@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: seoul-dongdaemun-design-plaza-ddp
+srcHash: 0a08dd43a242
 title: 'Dongdaemun Design Plaza (DDP): Guía de viaje de Seúl'
 description: Dongdaemun Design Plaza (DDP) es el emblemático edificio neofuturista de acero remachado diseñado por Zaha Hadid en el distrito de Jung, justo encima de la estación Dongdaemun History & Culture Park.
 quickAnswer: Dongdaemun Design Plaza (DDP) es el emblemático edificio neofuturista de acero remachado diseñado por Zaha Hadid en el distrito de Jung, justo encima de la estación Dongdaemun History & Culture Park Station (líneas 2, 4 y 5, salidas 1 y 2). Es un lugar muy popular, así que si quieres disfrutar de las curvas de la plaza a solas, procura ir un día laborable por la mañana antes de las 11:00. Calcula entre 2 y 3 horas para recorrer las exposiciones, el Design Market y el Jardín de Rosas LED. La entrada al edificio y a la plaza es gratuita, aunque las exposiciones con entrada dentro del recinto varían y cambian según la temporada.

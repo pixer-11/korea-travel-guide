@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: lombok-sendang-gile-waterfall
+srcHash: 5703878c65f8
 title: Sendang Gile瀑布：龙目岛旅行指南
 description: Sendang Gile是位于林贾尼火山（Mount Rinjani）南坡的一座两级瀑布，从龙目岛北部的Senaru村出发，沿一条短而维护良好的步道即可抵达。
 quickAnswer: Sendang Gile是位于林贾尼火山（Mount Rinjani）南坡的一座两级瀑布，从龙目岛北部的Senaru村出发，沿一条短而维护良好的步道即可抵达。建议预留1.5-2小时游览Sendang Gile和地势更高的Tiu Kelep瀑布，穿防滑凉鞋或徒步鞋前往，并尽量在清晨（上午9点前）出发，以避开旅游团和午后降雨。

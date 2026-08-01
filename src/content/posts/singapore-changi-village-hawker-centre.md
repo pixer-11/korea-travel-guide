@@ -1,6 +1,6 @@
 ---
 title: "Changi Village Hawker Centre: Where to Eat in Singapore"
-description: "Changi Village Hawker Centre, at 2 Changi Village Rd in Singapore's far northeast, is best known for its nasi lemak stalls, satay, and fried banana fritters"
+description: Changi Village Hawker Centre, at 2 Changi Village Rd in Singapore's far northeast, is best known for its nasi lemak stalls, satay, and fried banana fritters eaten at communal Formica tables under whirring ceiling fans.
 country: "Singapore"
 region: "Singapore"
 category: "restaurant"

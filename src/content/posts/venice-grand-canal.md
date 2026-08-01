@@ -1,6 +1,6 @@
 ---
 title: "Grand Canal: Venice Travel Guide"
-description: "The Grand Canal is Venice's main \"street\" — a nearly 4km S-shaped waterway lined with palazzi, best seen from a vaporetto (Line 1 is the slow scenic option)"
+description: The Grand Canal is Venice's main "street" — a nearly 4km S-shaped waterway lined with palazzi, best seen from a vaporetto (Line 1 is the slow scenic option), a traghetto crossing, or the Rialto and Ponte degli Scalzi bridges.
 country: "Italy"
 region: "Venice"
 category: "attraction"

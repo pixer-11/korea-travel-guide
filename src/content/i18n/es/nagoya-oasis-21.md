@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: nagoya-oasis-21
+srcHash: c212a745f2dc
 title: 'Oasis 21: Guía de viaje de Nagoya'
 description: 'Oasis 21 es el parque acristalado con forma de "nave espacial" sobre la terminal de autobuses de Sakae, en el centro de Nagoya: la entrada es gratuita y el mejor momento para visitarlo es al atardecer.'
 quickAnswer: Oasis 21 es el parque acristalado con forma de "nave espacial" sobre la terminal de autobuses de Sakae, en el centro de Nagoya. La entrada es gratuita y el mejor momento para visitarlo es al atardecer, cuando la plataforma elevada "Water Spaceship" se ilumina con la Torre de Nagoya (TV Tower) de fondo. Calcula entre 45 y 90 minutos para recorrer el anillo, ver las tiendas y comer algo; más tiempo si coincides con una iluminación nocturna o algún evento.

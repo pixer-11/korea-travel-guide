@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: davao-philippine-eagle-center
+srcHash: cb9beda57c84
 title: 菲律宾雕中心：达沃旅行指南
 description: 菲律宾雕中心（Philippine Eagle Center）位于马拉戈斯（Malagos），距达沃市中心约45–60分钟车程，每天上午8:00至下午4:30开放。
 quickAnswer: 菲律宾雕中心位于马拉戈斯（Malagos），距达沃市中心约45–60分钟车程，每天上午8:00至下午4:30开放。建议预留1.5–2小时沿林间步道游览网罩式圈舍，如果时间允许，最好选在工作日的上午前往——这里名气不小，但因为离市区较远，通常不会显得拥挤。可以把它和附近的马拉戈斯花园度假村（Malagos Garden Resort）或巧克力农场安排在一起，凑成半日游行程。

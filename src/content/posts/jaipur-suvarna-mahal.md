@@ -1,6 +1,6 @@
 ---
 title: 'Suvarna Mahal: Where to Eat in Jaipur'
-description: Suvarna Mahal is the flagship dining room inside Rambagh Palace (once the maharaja's residence, now a Taj hotel) on Bhawani Singh Road in Jaipur — go for a
+description: Suvarna Mahal is the flagship dining room inside Rambagh Palace (once the maharaja's residence, now a Taj hotel) on Bhawani Singh Road in Jaipur — go for a leisurely dinner of royal Rajasthani and North Indian tasting courses in a gilded, chandelier-lit hall.
 country: India
 region: Jaipur
 category: restaurant

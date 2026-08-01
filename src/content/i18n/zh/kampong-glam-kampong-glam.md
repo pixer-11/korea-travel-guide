@@ -1,8 +1,9 @@
 ---
 lang: zh
 slug: kampong-glam-kampong-glam
+srcHash: a0088d9e3b58
 title: 甘榜格南（Kampong Glam）：旅行指南
-description: 甘榜格南是新加坡历史悠久的马来-穆斯林街区，以金顶的苏丹回教堂（Masjid Sultan）为中心，通往它的步行街布梳街（Bussorah Street）
+description: 甘榜格南是新加坡历史悠久的马来-穆斯林街区，以金顶的苏丹回教堂（Masjid Sultan）为中心，通往它的正是步行街布梳街（Bussorah Street）。
 quickAnswer: 甘榜格南是新加坡历史悠久的马来-穆斯林街区，以金顶的苏丹回教堂（Masjid Sultan）为中心，通往它的正是步行街布梳街（Bussorah Street）。花上2-3小时漫步布梳街、亚拉街（Arab Street）的纺织品店铺，以及哈芝巷（Haji Lane）的街头艺术；建议选在平日上午前往，可避开午餐和傍晚的人潮。最近的地铁站是武吉士站（Bugis，东西线和滨海市区线），步行约7-10分钟即可到达。
 faq:
   - q: 我该如何乘坐公共交通前往甘榜格南？

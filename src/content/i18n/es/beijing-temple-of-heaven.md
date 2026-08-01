@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: beijing-temple-of-heaven
+srcHash: efb6ff2b0976
 title: 'Templo del Cielo: Guía de viaje de Pekín'
 description: 'Dedica al Templo del Cielo al menos dos o tres horas: su circular Salón de Oración por las Buenas Cosechas, el Muro de los Ecos y el parque de cipreses que lo rodea lo merecen.'
 quickAnswer: 'Dedica al Templo del Cielo (Temple of Heaven) al menos dos o tres horas: su circular Salón de Oración por las Buenas Cosechas, el Muro de los Ecos y el parque de cipreses que lo rodea merecen que te detengas a disfrutarlos. Entra por la Puerta Sur (la más cercana al eje histórico) y ve temprano, ya que los autobuses turísticos llenan el lugar a media mañana. Es un sitio muy conocido y muy visitado, no un hallazgo oculto, así que organiza tu visita en torno a las multitudes en lugar de esperar soledad.'

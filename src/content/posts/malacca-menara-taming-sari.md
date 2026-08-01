@@ -1,6 +1,6 @@
 ---
 title: 'Menara Taming Sari: Malacca Travel Guide'
-description: Menara Taming Sari is the 80-metre revolving gyro tower on Jalan Merdeka in Banda Hilir, right beside the Malacca River mouth and a 5-minute walk from A
+description: Menara Taming Sari is the 80-metre revolving gyro tower on Jalan Merdeka in Banda Hilir, right beside the Malacca River mouth and a 5-minute walk from A Famosa and the Stadthuys.
 country: Malaysia
 region: Malacca
 category: attraction

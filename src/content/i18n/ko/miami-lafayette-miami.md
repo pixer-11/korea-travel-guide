@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: miami-lafayette-miami
+srcHash: ec051644f505
 title: '라파예트: 마이애미에서 식사하기 좋은 곳'
 description: 라파예트 마이애미(Lafayette Miami)는 마이애미 강(Miami River) 바로 서쪽, 브리켈/로즈(Brickell/Roads) 지역 1111 SW 1st Ave에 위치한 작고 평점 높은 맛집으로, 관광객보다는 현지인들이 우연히 발견하게 되는 곳입니다.
 quickAnswer: 라파예트 마이애미(Lafayette Miami)는 마이애미 강(Miami River) 바로 서쪽, 브리켈/로즈(Brickell/Roads) 지역 1111 SW 1st Ave에 위치한 작고 평점 높은 맛집으로, 관광 명소 체크리스트에 오르기보다는 현지인들이 우연히 발견하게 되는 곳입니다. 800개가 넘는 리뷰에서 4.9점을 기록하며 규모에 비해 훨씬 큰 존재감을 보여줍니다. 대기 없이 자리를 잡으려면 평일 저녁이나 이른 저녁 시간에 방문하는 것이 좋으며, 방대한 메뉴보다는 셰프가 정성껏 구성한 알찬 메뉴를 기대하면 됩니다.

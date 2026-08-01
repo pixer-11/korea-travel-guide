@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: valencia-ciudad-de-las-artes-y-las-ciencias
+srcHash: 4b3bea63f482
 title: 'Ciudad de las Artes y las Ciencias: guía de viaje de Valencia'
-description: La Ciudad de las Artes y las Ciencias es el futurista complejo de museos y parques de Valencia, situado en el extremo oriental del antiguo cauce del río Turia, obra de los arquitectos
+description: La Ciudad de las Artes y las Ciencias es el futurista complejo de museos y parques de Valencia, situado en el extremo oriental del antiguo cauce del río Turia, obra de los arquitectos Santiago Calatrava y Félix Candela.
 quickAnswer: La Ciudad de las Artes y las Ciencias es el futurista complejo de museos y parques de Valencia, situado en el extremo oriental del antiguo cauce del río Turia, obra de los arquitectos Santiago Calatrava y Félix Candela. Calcula medio día solo para recorrer el recinto y hacer fotos, o un día completo si añades el Hemisfèric (IMAX/planetario), el museo de las ciencias Príncipe Felipe y el acuario Oceanogràfic. Compra las entradas online con antelación para los edificios de pago y ve a primera hora de la mañana o última de la tarde en verano para evitar tanto las aglomeraciones como el fuerte sol sobre el hormigón blanco.
 faq:
   - q: ¿Cómo llego a la Ciudad de las Artes y las Ciencias sin coche?

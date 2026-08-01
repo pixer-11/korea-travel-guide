@@ -1,8 +1,9 @@
 ---
 lang: ko
 slug: izmir-clock-tower-of-izmir
+srcHash: 4f100d8feb61
 title: '이즈미르 시계탑(Clock Tower of İzmir): 이즈미르 여행 가이드'
-description: 시계탑(Saat Kulesi)은 이즈미르 코나크 광장(Konak Square) 한가운데, 해안가와 코나크 부두(Konak Pier) 트램/페리 환승지 바로 옆에 자리하고 있습니다 — 5분이면 충분한 곳으로,
+description: 시계탑(Saat Kulesi)은 이즈미르 코나크 광장(Konak Square) 한가운데, 해안가와 코나크 부두(Konak Pier) 트램/페리 환승지 바로 옆에 자리하고 있습니다 — 5분이면 충분히 둘러볼 수 있는 곳으로, 단독 목적지라기보다는 해안 산책 코스에 곁들여 들르기 좋습니다.
 quickAnswer: 시계탑(Saat Kulesi)은 이즈미르 코나크 광장(Konak Square) 한가운데, 해안가와 코나크 부두(Konak Pier) 트램/페리 환승지 바로 옆에 자리하고 있습니다 — 5분이면 충분히 둘러볼 수 있는 곳으로, 단독 목적지라기보다는 해안 산책 코스에 곁들여 들르기 좋습니다. 광장이 한산해지고 탑에 조명이 들어오는 이른 아침이나 일몰 후에 가보세요. 낮 시간대와 주말 오후에는 단체 관광객과 사진 촬영 줄이 가장 붐빕니다.
 faq:
   - q: 이즈미르 시계탑(Clock Tower of İzmir)에는 어떻게 가나요?

@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: east-rutherford-bruno-mars-the-romantic-tour
+srcHash: 75a88049fa70
 title: Bruno Mars“浪漫之旅”巡演攻略：你需要知道的一切（东卢瑟福）
 description: Bruno Mars“浪漫之旅”巡演（The Romantic Tour）将于2026年8月21日至26日在美国东卢瑟福举行。演出内容、时间地点，以及行程规划要点一文详解。
 quickAnswer: Bruno Mars将于2026年8月21日至26日在新泽西州东卢瑟福（East Rutherford）的大都会人寿体育场（MetLife Stadium）举办多场“浪漫之旅”（The Romantic Tour）演唱会。演出将以体育场级别的制作规模呈现，并围绕《Die with a Smile》《APT.》等近期热单展开，因此建议提前规划交通、购票和住宿——并务必在Ticketmaster或Bruno Mars官网上核实确切日期、开场时间和票价再做预订。

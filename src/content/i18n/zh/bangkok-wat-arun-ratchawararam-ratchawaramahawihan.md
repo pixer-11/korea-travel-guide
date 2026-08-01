@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: bangkok-wat-arun-ratchawararam-ratchawaramahawihan
+srcHash: 04c8da16e7a6
 title: 郑王庙(黎明寺):曼谷旅游指南
 description: 郑王庙(Wat Arun,"黎明寺")坐落在湄南河(Chao Phraya River)吞武里(Thonburi)一侧的河岸,最便捷的方式是从大皇宫附近的达天码头(Tha Tien pier)搭乘过江渡轮前往。
 quickAnswer: 郑王庙(Wat Arun,"黎明寺")坐落在湄南河吞武里一侧的河岸,最便捷的方式是从大皇宫附近的达天码头搭乘过江渡轮前往。建议预留60-90分钟登上中央大佛塔(prang)、欣赏瓷器与贝壳镶嵌的马赛克工艺,并拍摄经典的河景照——傍晚时分光线更柔和,临近闭馆前则适合拍摄剪影效果。出发前请务必确认最新的门票价格及船班时刻表,因为两者都会不定期调整。

@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: jeonju-hanok-village
+srcHash: 918020bcf218
 title: Aldea Hanok de Jeonju
-description: La Aldea Hanok de Jeonju (Jeonju Hanok Village), en la zona de Pungnam-dong/Gyo-dong cerca del casco antiguo de Jeonju, es la mayor concentración de casas tradicionales hanok de Corea del Sur (alrededor de
+description: La Aldea Hanok de Jeonju (Jeonju Hanok Village), en la zona de Pungnam-dong/Gyo-dong cerca del casco antiguo de Jeonju, es la mayor concentración de casas tradicionales hanok de Corea del Sur (unas 800 construcciones), ideal para explorar a pie en 3-5 horas.
 quickAnswer: La Aldea Hanok de Jeonju (Jeonju Hanok Village), en la zona de Pungnam-dong/Gyo-dong cerca del casco antiguo de Jeonju, es la mayor concentración de casas tradicionales hanok de Corea del Sur (unas 800 construcciones), ideal para explorar a pie en 3-5 horas. Ven a probar el bibimbap de Jeonju, a pasear vestido con hanbok de alquiler para hacerte fotos, y a visitar el Santuario Gyeonggijeon; ve temprano por la mañana o entre semana para evitar las multitudes. Se llega en KTX hasta la Estación de Jeonju y luego un breve trayecto en taxi o autobús, ya que la ciudad no tiene metro.
 faq:
   - q: ¿Cómo se llega a la Aldea Hanok de Jeonju desde Seúl?

@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: antalya-duden-waterfalls
+srcHash: 932d505976b1
 title: '뒤덴 폭포: 안탈리아 여행 가이드'
 description: 안탈리아 케페즈(Kepez)에 있는 뒤덴 폭포(Düden Şelalesi)는 폭포가 큰 동굴 앞으로 떨어지는 어퍼 뒤덴 파크(Düden Şelalesi Parkı, 상부 뒤덴 공원)에서 관람하는 것이 가장 좋습니다.
 quickAnswer: 안탈리아 케페즈(Kepez)에 있는 뒤덴 폭포(Düden Şelalesi)는 폭포가 커다란 동굴 앞으로 쏟아져 내리고 그 동굴 안으로 걸어 들어가 폭포 뒤편에서 물줄기를 볼 수 있는 어퍼 뒤덴 파크(Düden Şelalesi Parkı, 상부 뒤덴 공원)에서 관람하는 것이 가장 좋습니다. 투어버스 인파를 피하려면 이른 아침이나 평일에 방문하고, 1~1.5시간 정도를 계획하세요. 하루 종일 차나 택시를 이용할 수 있다면 해안 근처에 따로 있는 로어 뒤덴 폭포(Lower Duden Falls)와 함께 둘러보는 것도 좋습니다.

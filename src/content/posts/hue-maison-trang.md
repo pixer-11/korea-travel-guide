@@ -1,6 +1,6 @@
 ---
 title: 'Maison Trang: Where to Eat in Hue'
-description: Maison Trang is a budget-friendly, locally loved spot at 24-26 Võ Thị Sáu in Hue's Thuận Hóa district, known for authentic central Vietnamese dishes like bún
+description: Maison Trang is a budget-friendly, locally loved spot at 24-26 Võ Thị Sáu in Hue's Thuận Hóa district, known for authentic central Vietnamese dishes like bún bò Huế and bánh khoái served in a casual, garden-house setting.
 country: Vietnam
 region: Hue
 category: restaurant

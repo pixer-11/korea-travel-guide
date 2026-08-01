@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: osaka-osaka-castle
+srcHash: 56491fb51ec4
 title: 'Castillo de Osaka: Guía de viaje'
-description: El Castillo de Osaka se visita mejor por la mañana (las puertas abren alrededor de las 9:00) para evitar multitudes y el calor, con 2-3 horas suficientes para el parque, el museo dentro de la torre principal
+description: El Castillo de Osaka se visita mejor por la mañana (las puertas abren alrededor de las 9:00) para evitar multitudes y el calor, con 2-3 horas suficientes para el parque, el museo dentro de la torre principal y los fosos y muros de piedra.
 quickAnswer: El Castillo de Osaka se visita mejor por la mañana (las puertas abren alrededor de las 9:00) para evitar multitudes y el calor, con 2-3 horas suficientes para el parque, el museo dentro de la torre principal y los fosos y muros de piedra. Las estaciones más cercanas son Osakajokoen (línea circular JR Osaka Loop Line) y Tanimachi 4-chome (líneas de metro Chuo/Tanimachi), ambas a unos 10-15 minutos a pie de la torre. La entrada al recinto del castillo es gratuita; solo la torre principal (museo) cobra una pequeña tarifa, normalmente alrededor de ¥600 para adultos — confirma los precios actuales antes de ir.
 faq:
   - q: ¿Cómo llego al Castillo de Osaka en tren?

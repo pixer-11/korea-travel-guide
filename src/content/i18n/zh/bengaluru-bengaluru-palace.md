@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: bengaluru-bengaluru-palace
+srcHash: ac3dbf40baf1
 title: 班加罗尔皇宫(Bengaluru Palace)旅行指南
 description: 班加罗尔皇宫坐落于市中心的皇宫路(Palace Road),是一座建于19世纪80年代、仿照英国温莎城堡设计的都铎式王室官邸。
 quickAnswer: 班加罗尔皇宫(Bengaluru Palace)坐落于市中心的皇宫路(Palace Road),是一座建于19世纪80年代、仿照英国温莎城堡而建的都铎式王室官邸,拥有坚固的角楼、木雕内饰和修剪整齐的草坪,如今这里也是举办音乐会和各类活动的场地。语音导览的室内参观大约需要60-90分钟,如果还想在庭院里逛逛,请预留更多时间。这里是非常热门的景点,建议在工作日开门后的第一个小时前往,以避开中上午蜂拥而至的旅行团。

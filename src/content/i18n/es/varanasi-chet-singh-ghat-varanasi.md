@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: varanasi-chet-singh-ghat-varanasi
+srcHash: 5989171f8009
 title: 'Chet Singh Ghat (Varanasi): Guía de viaje'
 description: Chet Singh Ghat se encuentra en el frente ribereño sur de Varanasi, a unos 10–15 minutos en barco (o una caminata más larga por los callejones junto a los ghats) desde Assi Ghat.
 quickAnswer: Chet Singh Ghat se encuentra en el frente ribereño sur de Varanasi, a unos 10–15 minutos en barco (o una caminata más larga por los callejones junto a los ghats) desde Assi Ghat, y permanece abierto las 24 horas al ser un sitio ribereño al aire libre. El mejor momento para visitarlo es temprano por la mañana (alrededor del amanecer, de 5:30 a 7am) para disfrutar de la luz suave sobre los muros ocres del fuerte y con pocas multitudes, o en barco al atardecer, cuando la terraza se tiñe de naranja. Dedícale de 20 a 30 minutos si pasas en barco, o más tiempo si subes a la terraza y exploras las escaleras del fuerte.

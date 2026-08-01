@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: udaipur-ambrai-ghat
+srcHash: b480c94a324e
 title: 'Ambrai Ghat: Guía de viaje de Udaipur'
-description: Ambrai Ghat es el mirador clásico junto al agua en la orilla este del lago Pichola, justo enfrente del City Palace y el Lake Palace, y abre todos los días
+description: Ambrai Ghat es el mirador clásico junto al agua en la orilla este del lago Pichola, justo enfrente del City Palace y el Lake Palace, y abre todos los días de 5am a 7pm.
 quickAnswer: 'Ambrai Ghat es el mirador clásico junto al agua en la orilla este del lago Pichola, justo enfrente del City Palace y el Lake Palace, y abre todos los días de 5am a 7pm. Ve a la hora dorada, pero llega bien antes de las 4pm: los fines de semana la multitud se concentra entre las 4pm y las 7pm, justo cuando la luz está en su mejor momento. Calcula entre 30 y 45 minutos para bajar los escalones y acomodarte para ver el atardecer, más tiempo si vas a comer en alguno de los restaurantes junto al lago.'
 faq:
   - q: ¿Cuál es el horario de Ambrai Ghat?

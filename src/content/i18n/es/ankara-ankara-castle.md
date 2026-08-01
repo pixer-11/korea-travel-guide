@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: ankara-ankara-castle
+srcHash: c10a926b2908
 title: 'Castillo de Ankara: Guía de viaje'
-description: El Castillo de Ankara (Ankara Kalesi) corona el antiguo distrito de Kale sobre una colina rocosa que domina el centro de la ciudad — sube a última hora de la tarde para disfrutar de vistas panorámicas sobre
+description: El Castillo de Ankara (Ankara Kalesi) corona el antiguo distrito de Kale sobre una colina rocosa que domina el centro de la ciudad — sube a última hora de la tarde para disfrutar de vistas panorámicas sobre los tejados y minaretes de Ankara, y calcula entre 1,5 y 2 horas para recorrer las murallas, las torres y las callejuelas del barrio histórico en su interior.
 quickAnswer: El Castillo de Ankara (Ankara Kalesi) corona el antiguo distrito de Kale sobre una colina rocosa que domina el centro de la ciudad — sube a última hora de la tarde para disfrutar de vistas panorámicas sobre los tejados y minaretes de Ankara, y calcula entre 1,5 y 2 horas para recorrer las murallas, las torres y las callejuelas del barrio histórico en su interior. La entrada a las murallas y calles es gratuita (algunos miradores de las torres pueden cobrar una pequeña tarifa), y se trata de un lugar muy visitado, así que las mañanas entre semana son más tranquilas que las tardes de fin de semana.
 faq:
   - q: ¿Cómo llego al Castillo de Ankara desde el centro de la ciudad?

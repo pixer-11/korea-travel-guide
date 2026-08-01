@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: washington-dc-surfside-taco-stand
+srcHash: 71e8cce395d2
 title: '서프사이드 타코 스탠드: 워싱턴 D.C. 맛집 가이드'
 description: 서프사이드 타코 스탠드(Surfside Taco Stand)는 듀폰 서클(Dupont Circle) 1800 N St NW에 위치한 밝은 분위기의 카페테리아식 멕시코 음식점으로, 24시간 운영하며 타코와 마르가리타로 유명하다.
 quickAnswer: 서프사이드 타코 스탠드(Surfside Taco Stand)는 듀폰 서클(Dupont Circle) 1800 N St NW에 위치한 밝은 분위기의 카페테리아식 멕시코 음식점으로, 24시간 운영하며 합리적인 가격의 타코와 마르가리타로 유명하다. 한적하게 즐기고 싶다면 평일 오전 7시~9시(또는 주말 오후 1시 이전)에 방문하고, 붐비는 토요일과 일요일 오후 4시~11시는 피하는 것이 좋다. 카운터에서 식사하는 데 30~45분 정도 예상하면 되며, 마르가리타와 함께 여유롭게 즐긴다면 더 오래 걸릴 수 있다.

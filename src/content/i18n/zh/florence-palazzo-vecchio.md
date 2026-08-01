@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: florence-palazzo-vecchio
+srcHash: ff6eeb582402
 title: 韦奇奥宫:佛罗伦萨旅行指南
 description: 韦奇奥宫(Palazzo Vecchio)位于领主广场(Piazza della Signoria),是佛罗伦萨13世纪的堡垒式市政厅,如今已改建为博物馆,以其城垛式高塔、宏伟的五百人大厅而闻名。
 quickAnswer: 韦奇奥宫(Palazzo Vecchio)位于领主广场(Piazza della Signoria),是佛罗伦萨13世纪的堡垒式市政厅,如今已改建为博物馆,以其城垛式高塔、宏伟的五百人大厅(Salone dei Cinquecento),以及瓦萨里(Vasari)和吉兰达约(Ghirlandaio)绘制壁画的房间而闻名。参观主要展厅建议预留1.5-2小时,如果登塔或下到古罗马地基遗址,则需要更长时间。建议在开馆时或闭馆前两小时内到达,以避开中午时段最拥挤的人流。

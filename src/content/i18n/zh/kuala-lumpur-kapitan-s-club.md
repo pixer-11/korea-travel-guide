@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: kuala-lumpur-kapitan-s-club
+srcHash: 687c5a470a21
 title: 吉隆坡Kapitan's Club游览指南
 description: 吉隆坡（Kuala Lumpur）Kapitan's Club——马来西亚一处新兴热门去处：它是什么、位于何处，以及如何前往参观。
 quickAnswer: Kapitan's Club是一家新开业、以海峡/娘惹（Peranakan）风味为灵感的餐厅，坐落在吉隆坡茶果岭（Chow Kit）叶亚石大厦（Yap Ah Shak House）这栋历史建筑内——茶果岭正是以老店屋建筑与现代餐饮理念相结合而闻名的美食聚集地。这里适合来一顿优雅的正式晚餐，而非匆匆一顿快餐，由于是新晋热门开业餐厅，建议提前预订。由于新开业场所在最初几个月内营业时间、预订政策和菜单都可能有所变动，前往之前请直接向餐厅确认最新信息。

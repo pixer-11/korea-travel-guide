@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: pasay-city-honne-10th-anniversary-tour
+srcHash: 8ec2a8d57db4
 title: 'HONNE 10주년 투어: 알아두어야 할 것들 (파사이 시티)'
 description: 2026년 8월 10일~12일, 필리핀 파사이 시티(Pasay City)에서 열리는 HONNE 10주년 투어 — 공연 개요, 일시와 장소, 그리고 여행 계획에 필요한 정보.
 quickAnswer: 영국 듀오 HONNE이 10주년 기념 월드투어의 일환으로 2026년 8월 10일부터 12일까지 사흘간 마닐라를 찾는다. 공연 장소는 파사이 시티(Pasay City)에 위치한 필리핀 국제 컨벤션 센터(Philippine International Convention Center, PICC) 플레너리 홀(Plenary Hall)이다. 티켓 판매, 공연 시간, 오프닝 아티스트 등에 대한 세부 사항은 아직 확인된 바 없으므로, 항공권이나 숙소를 예약하기 전에 HONNE의 공식 채널과 필리핀 현지 공식 프로모터/티켓 판매처를 통해 날짜, 입장 시간, 티켓 가격대 등 모든 세부 정보를 반드시 확인해야 한다.

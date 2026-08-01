@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: lombok-elamu-lombok
+srcHash: 25f5448ef2c9
 title: '엘라무(Elamu): 롬복 맛집 가이드'
 description: 엘라무 롬복(Elamu Lombok)은 남롬복 쿠타 비치(Kuta Beach) 인근, 잘란 파리위사타 판타이 쿠타(Jalan Pariwisata Pantai Kuta) 중심가에서 차로 잠깐 거리에 있는 그리스 레스토랑입니다.
 quickAnswer: 엘라무 롬복(Elamu Lombok)은 남롬복 쿠타 비치(Kuta Beach) 인근, 잘란 파리위사타 판타이 쿠타(Jalan Pariwisata Pantai Kuta) 중심가에서 차로 잠깐 거리에 있는 그리스 레스토랑입니다. 2,400개가 넘는 리뷰에서 별점 4.8을 기록하며 지중해식 요리 — 그릴 고기, 신선한 샐러드, 각종 딥 — 로 여유로운 열대 분위기 속에서 탄탄한 명성을 쌓아왔습니다. 이른 저녁 시간에 방문하고, 성수기에는 미리 예약하며, 방문 직전 쿠타 비치(Kuta Beach)나 탄중 아안(Tanjung Aan)에서 노을을 감상하는 코스를 함께 즐겨보세요.

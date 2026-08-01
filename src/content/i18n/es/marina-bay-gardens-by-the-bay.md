@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: marina-bay-gardens-by-the-bay
+srcHash: c43fdfb02e53
 title: 'Gardens by the Bay: Guía de viaje de Marina Bay'
-description: Gardens by the Bay es un parque frente al mar de 101 hectáreas en Marina Bay, conocido sobre todo por el imponente Supertree Grove y los dos invernaderos climatizados, Flower Dome
+description: Gardens by the Bay es un parque frente al mar de 101 hectáreas en Marina Bay, conocido sobre todo por el imponente Supertree Grove y los dos invernaderos climatizados, Flower Dome y Cloud Forest.
 quickAnswer: Gardens by the Bay es un parque frente al mar de 101 hectáreas en Marina Bay, conocido sobre todo por el imponente Supertree Grove y los dos invernaderos climatizados, Flower Dome y Cloud Forest. Las zonas al aire libre (Supertree Grove, Bay East Garden, Dragonfly Lake) son gratuitas; los invernaderos y el OCBC Skyway cobran entrada aparte, así que conviene reservar medio día para ver tanto lo destacado en interiores como en exteriores y organizar la visita en torno al espectáculo de luces Garden Rhapsody de las 7:45pm y las 8:45pm.
 faq:
   - q: ¿Cómo llego a Gardens by the Bay en MRT?

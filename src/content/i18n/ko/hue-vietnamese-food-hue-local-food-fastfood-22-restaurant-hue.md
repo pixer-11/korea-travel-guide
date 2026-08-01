@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: hue-vietnamese-food-hue-local-food-fastfood-22-restaurant-hue
+srcHash: 070cd702431a
 title: '베트남 음식 - 후에 로컬 푸드 & 패스트푸드 22 레스토랑(Huế): 어디서 먹을까'
 description: 후에 성채(Citadel)에서 도보 몇 분 거리, 푸쑤언(Phú Xuân) 지구의 22 Trần Huy Liệu로 가면 저렴하면서도 양 많은 베트남 음식과 후에식 로컬 푸드를 맛볼 수 있습니다(2,000개 이상의 리뷰에서 평점 4.9).
 quickAnswer: 후에 성채(Citadel)에서 도보 몇 분 거리, 푸쑤언(Phú Xuân) 지구의 22 Trần Huy Liệu로 가면 저렴하면서도 양 많은 베트남 음식과 후에식 로컬 푸드를 맛볼 수 있습니다(2,000개 이상의 리뷰에서 평점 4.9). 분보후에(bún bò Huế), 반코아이(bánh khoái), 껌헨(com hen) 같은 후에 대표 요리로 든든하게 한 끼를 먹어도 10만 동(VND) 이하로 예산을 잡으면 되며, 회전율이 높아 음식이 신선하게 유지되는 점심시간이나 초저녁에 방문하는 것이 좋습니다.

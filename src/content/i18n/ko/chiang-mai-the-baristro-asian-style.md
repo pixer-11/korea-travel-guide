@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: chiang-mai-the-baristro-asian-style
+srcHash: 789f390827e7
 title: '더 바리스트로 아시안 스타일: 치앙마이 여행 가이드'
 description: 더 바리스트로 아시안 스타일(The Baristro Asian Style)은 치앙마이 대학가 수텝 로드(Suthep Road)에 자리한 포토제닉한 카페 겸 레스토랑으로, 정글을 연상시키는 식물 가득한 다이닝 공간으로 유명합니다.
 quickAnswer: 더 바리스트로 아시안 스타일(The Baristro Asian Style)은 치앙마이 대학가 수텝 로드(Suthep Road)에 자리한 포토제닉한 카페 겸 레스토랑으로, 정글을 연상시키는 식물 가득한 다이닝 홀과 태국 퓨전 요리, 그리고 훌륭한 스페셜티 커피로 잘 알려져 있습니다. 주말에는 사람이 몰리니 평일 오전이나 오후 중반에 방문하는 것이 좋고, 1인당 대략 ฿300~600 정도의 중가대 예산을 잡으면 분위기와 음식 퀄리티를 즐기기에 적당합니다. 왓 우몽(Wat Umong)과 도이 수텝(Doi Suthep)으로 올라가는 길을 포함한 수텝 지역 코스와 함께 묶기 좋습니다.

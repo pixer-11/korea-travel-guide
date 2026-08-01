@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: chiang-mai-best-khao-soi-chang-mai
+srcHash: 7fb4beb0c6cf
 title: 'El mejor Khao Soi de Chiang Mai: dónde comer en Chiang Mai'
-description: 'Ve a Best Khao Soi Chang Mai, en la zona de Phra Singh (dirección: 1, Tambon Phra Sing, Amphoe Mueang Chiang Mai, 50200), para probar un bol clásico de khao soi, el'
+description: 'Ve a Best Khao Soi Chang Mai, en la zona de Phra Singh (dirección: 1, Tambon Phra Sing, Amphoe Mueang Chiang Mai, 50200), para probar un bol clásico de khao soi, el plato norteño tailandés de fideos con curry cubierto con fideos de huevo crujientes.'
 quickAnswer: 'Ve a Best Khao Soi Chang Mai, en la zona de Phra Singh (dirección: 1, Tambon Phra Sing, Amphoe Mueang Chiang Mai, 50200), para probar un bol clásico de khao soi, el plato norteño tailandés de fideos con curry cubierto con fideos de huevo crujientes. Tiene una sólida calificación de 4.6 basada en 252 reseñas, así que hay que esperar un local modesto y sin pretensiones, centrado en preparar bien el plato antes que en un ambiente elegante. Ve por la noche —abre de 4 a 10 pm los días de semana, de 3 a 10 pm los sábados, y cierra los domingos—, pide la versión de pollo o de res, y calcula entre 30 y 45 minutos para disfrutar de un bol completo con acompañamientos sentado a la mesa.'
 faq:
   - q: ¿Cómo llego a Best Khao Soi Chang Mai sin auto?

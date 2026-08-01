@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: fukuoka-yatai-mamichan
+srcHash: ca8824338fa6
 title: 'Yatai Mamichan: dónde comer en Fukuoka'
 description: Yatai Mamichan es un clásico puesto de comida al aire libre en Showa-dori, en Tenjin, distrito de Chuo Ward en Fukuoka, conocido por su lengua de res a la parrilla y sus esponjosas tortillas japonesas.
 quickAnswer: Yatai Mamichan es un clásico puesto de comida al aire libre en Showa-dori, en Tenjin, distrito de Chuo Ward en Fukuoka, conocido por su lengua de res a la parrilla y sus esponjosas tortillas japonesas, además de ramen y yakitori. Cuenta únicamente con asientos de barra para una docena de personas, precios bajos y ambiente propicio para pagar en efectivo, y un ambiente animado y de codo con codo que se disfruta mejor después de las 19:00. Está a poca distancia a pie de la estación de Tenjin (Tenjin Station), lo que lo convierte en una parada fácil dentro de una noche explorando la famosa cultura yatai de Fukuoka.

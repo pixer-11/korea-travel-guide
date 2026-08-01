@@ -1,8 +1,9 @@
 ---
 lang: zh
 slug: marseille-port-antique
+srcHash: afd57ba1d157
 title: 古代港口遗址：马赛旅行指南
-description: 遗迹花园（Jardin des Vestiges，又称古代港口 Port Antique）是马赛第一区博斯购物中心（Centre Bourse）后方一座小巧的下沉式公园，游客可以在这里近距离
+description: 遗迹花园（Jardin des Vestiges，又称古代港口 Port Antique）是马赛第一区博斯购物中心（Centre Bourse）后方一座小巧的下沉式公园，你可以在这里直接走到真正的希腊城墙遗迹和一段古罗马道路旁——这一切都低于街道地面，藏身于一片安静的绿意角落中。
 quickAnswer: 遗迹花园（Jardin des Vestiges，又称古代港口 Port Antique）是马赛第一区博斯购物中心（Centre Bourse）后方一座小巧的下沉式公园，你可以在这里直接走到真正的希腊城墙遗迹和一段古罗马道路旁——这一切都低于街道地面，藏身于一片安静的绿意角落中。开放时间为周二至周日 9:30am–6pm（周一休息），只需20–30分钟即可参观完毕，很适合安排进从老港（Vieux-Port）到勒庞尼耶（Le Panier）的散步路线中。周末下午人最多，早点前往会更清静。
 faq:
   - q: 参观古代港口（遗迹花园 Jardin des Vestiges）应该预留多长时间？

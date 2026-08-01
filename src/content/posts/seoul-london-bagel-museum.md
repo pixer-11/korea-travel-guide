@@ -1,6 +1,6 @@
 ---
 title: London Bagel Museum in Seoul
-description: London Bagel Museum is Seoul's most talked-about bakery, famous for chewy, creatively topped bagels like Potato Cheese and Brick Lane, and for the hours-long
+description: London Bagel Museum is Seoul's most talked-about bakery, famous for chewy, creatively topped bagels like Potato Cheese and Brick Lane, and for the hours-long "open run" queues it draws.
 country: South Korea
 region: Seoul
 category: trendy

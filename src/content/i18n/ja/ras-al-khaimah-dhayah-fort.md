@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: ras-al-khaimah-dhayah-fort
+srcHash: 2ebf2e85240b
 title: ダヤ・フォート(Dhayah Fort):ラスアルハイマ旅行ガイド
 description: ダヤ・フォート(Dhayah Fort)は、ラスアルハイマ市街から北へ約30分、アル・ラムス(Ar Rams)近郊の岩山の上に立つ、UAEに現存する唯一の丘陵要塞です。
 quickAnswer: ダヤ・フォート(Dhayah Fort)は、ラスアルハイマ市街から北へ約30分、アル・ラムス(Ar Rams)近郊の岩山の上に立つ、UAEに現存する唯一の丘陵要塞です。訪れるなら午後遅めの時間帯がおすすめで、急な石段があるのでしっかりした靴を履いていきましょう。登りには30〜45分ほど見ておき、ラスアルハイマのラグーンとハジャル山脈(Hajar Mountains)の眺めを楽しんでください。

@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: seville-royal-alcazar-of-seville
+srcHash: 02f86f424f71
 title: 'Real Alcázar de Sevilla: Guía de viaje'
 description: El Real Alcázar de Sevilla es un palacio real todavía en funcionamiento situado en el Casco Antiguo, valorado por sus salas de palacio mudéjares, sus patios de azulejos y sus extensos jardines.
 quickAnswer: El Real Alcázar de Sevilla es un palacio real todavía en funcionamiento situado en el Casco Antiguo, valorado por sus salas de palacio mudéjares, sus patios de azulejos y sus extensos jardines. Planifica entre 2,5 y 3 horas y reserva las entradas con hora fija en línea con bastante antelación, ya que suelen agotarse. Ve justo a la apertura (normalmente a las 9:30h) para evitar el calor y las aglomeraciones, y combina la visita con la cercana Catedral de Sevilla y la Giralda, a dos minutos a pie.

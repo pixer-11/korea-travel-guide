@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: jaipur-hawa-mahal
+srcHash: e355e083dad1
 title: 'Hawa Mahal: Guía de viaje de Jaipur'
 description: El Hawa Mahal es la fachada rosa de cinco pisos con forma de panal en Badi Choupad, en la Ciudad Vieja de Jaipur — ve justo a la apertura (9 a. m.) o en la última hora antes del cierre para evitar a los grupos de autobuses turísticos.
 quickAnswer: El Hawa Mahal es la fachada rosa de cinco pisos con forma de panal en Badi Choupad, en la Ciudad Vieja de Jaipur — ve justo a la apertura (9 a. m.) o en la última hora antes del cierre para evitar a los grupos de autobuses turísticos, y calcula entre 45 minutos y una hora para la visita interior. La entrada está en la parte de atrás, sobre Tripolia Bazaar Road, no a través del famoso muro que da a la calle, así que no pierdas tiempo buscando una puerta en la fachada de las fotos.

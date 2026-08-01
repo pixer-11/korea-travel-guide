@@ -1,6 +1,6 @@
 ---
 title: "Sentosa Sensoryscape: Travel Guide"
-description: "Sentosa Sensoryscape is a free-to-enter, multi-sensory garden-and-light installation at 3 Siloso Rd on Sentosa Island, best experienced at dusk when its LED"
+description: Sentosa Sensoryscape is a free-to-enter, multi-sensory garden-and-light installation at 3 Siloso Rd on Sentosa Island, best experienced at dusk when its LED canopy, misting gardens, and sound features come alive together.
 country: "Singapore"
 region: "Sentosa"
 category: "hidden-gem"

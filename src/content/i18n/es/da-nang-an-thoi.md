@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: da-nang-an-thoi
+srcHash: fabcb227ead3
 title: 'Ăn Thôi: Dónde comer en Da Nang'
 description: Ăn Thôi es un restaurante vietnamita grande y animado en Bạch Đằng, el paseo junto al río de Da Nang, conocido sobre todo por sus mariscos y especialidades del centro de Vietnam.
 quickAnswer: 'Ăn Thôi es un restaurante vietnamita grande y animado en Bạch Đằng, el paseo junto al río de Da Nang, conocido sobre todo por sus mariscos y especialidades del centro de Vietnam como el bánh xèo, el mì Quảng y platos a la parrilla a precios moderados. Es una gran opción para una primera comida en grupo en Da Nang: conviene ir a primera hora de la noche (17:30–19:00) para evitar el ajetreo de la cena y ver el río y el puente Dragón (Dragon Bridge) iluminados cerca de allí.'

@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: jakarta-lalala-fest-2026
+srcHash: a590165e4faa
 title: 'LALALA Fest 2026: lo que hay que saber (Yakarta)'
 description: LALALA Fest 2026 en Yakarta, Indonesia — 22 y 23 de agosto de 2026. Qué es, cuándo y dónde se celebra, y cómo organizar tu visita.
 quickAnswer: LALALA Fest 2026 se celebra del 22 al 23 de agosto en el Jakarta International Expo (JIExpo), en Kemayoran, norte de Yakarta, encabezado por Steve Lacy, Two Door Cinema Club, Kodaline y The Flaming Lips junto a más de 30 artistas adicionales. Compra las entradas únicamente por los canales oficiales del festival una vez que se publiquen, y toma las fechas, pabellones y horarios de actuación aquí mencionados como punto de partida — confirma todo en el sitio oficial antes de reservar vuelos u hoteles.

@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: jaipur-suvarna-mahal
+srcHash: b5d3916f55cb
 title: '수바르나 마할: 자이푸르 맛집 가이드'
 description: 수바르나 마할(Suvarna Mahal)은 자이푸르 바와니 싱 로드(Bhawani Singh Road)에 위치한 람바그 팰리스(Rambagh Palace, 한때 마하라자의 거처였으나 현재는 타지 호텔) 안에 있는 대표 다이닝룸이다.
 quickAnswer: 수바르나 마할(Suvarna Mahal)은 자이푸르 바와니 싱 로드(Bhawani Singh Road)에 위치한 람바그 팰리스(Rambagh Palace, 한때 마하라자의 거처였으나 현재는 타지 호텔) 안에 있는 대표 다이닝룸이다 — 금빛으로 장식되고 샹들리에가 빛나는 홀에서 로열 라자스탄식과 북인도식 코스 요리를 여유롭게 즐기는 저녁 식사를 위해 찾아가 보자. 최소 며칠 전에는 예약을 해두고, 스마트 캐주얼 이상의 복장을 갖추며, 2~3시간 정도는 여유를 두는 것이 좋다 — 이곳은 간단히 때우는 한 끼가 아니라 제대로 된 사치를 누리는 자리다.

@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: rome-luna
+srcHash: 3a020a9e5884
 title: 罗马的Luna咖啡馆
 description: Luna是2025年在Piazza Barberini附近新开的一家精品咖啡与brunch(早午餐)餐厅,由Faro和Aliena Coffee Roasters团队打造,将专业浓缩咖啡与自制烘焙相结合。
 quickAnswer: Luna是2025年在Piazza Barberini附近开业的一家精品咖啡与brunch(早午餐)餐厅,由Faro和Aliena Coffee Roasters背后的团队打造,将专业的浓缩咖啡体系与自家烘焙坊、以及一份颇具趣味的太空主题菜单结合在一起。最适合把它当作探索罗马市中心时的一个上午或周末brunch歇脚点——不要抱着固定时间段的预期前往,出发前最好先确认最新营业时间,因为新开业的店铺在头一年往往会频繁调整营业安排。

@@ -1,8 +1,9 @@
 ---
 lang: ko
 slug: kampong-glam-kampong-glam-cafe
+srcHash: 53ff9f145fb6
 title: '캄퐁 글램 카페(Kampong Glam Cafe): 여행 가이드'
-description: 캄퐁 글램 카페는 보행자 전용 거리인 부소라 스트리트(Bussorah Street)에 위치해 있으며, 술탄 모스크(Sultan Mosque)에서 도보 2분 거리로, 가성비 좋은 프라이드 치킨 한 접시를 즐기기에 좋은 곳입니다
+description: 캄퐁 글램 카페는 보행자 전용 거리인 부소라 스트리트(Bussorah Street)에 위치해 있으며, 술탄 모스크(Sultan Mosque)에서 도보 2분 거리에 있습니다.
 quickAnswer: 캄퐁 글램 카페는 보행자 전용 거리인 부소라 스트리트(Bussorah Street)에 위치해 있으며, 술탄 모스크(Sultan Mosque)에서 도보 2분 거리에 있습니다. 싱가포르에서 가장 아름다운 헤리티지 거리 중 하나를 오가는 사람들을 구경하며 저렴하게 프라이드 치킨, 국수, 밥 요리를 즐기기에 좋은 곳입니다. 저녁 러시를 피해 야외 좌석을 잡으려면 평일 오후 4-6시경에 방문하세요. 현금과 카드 모두 사용 가능하고 예약은 필요 없으며, 식사는 45분에서 1시간이면 충분합니다.
 faq:
   - q: 대중교통으로 캄퐁 글램 카페에 가려면 어떻게 해야 하나요?

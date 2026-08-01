@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: boracay-willy-s-rock
+srcHash: ab8de9e15d9a
 title: 'La Roca de Willy: Guía de viaje de Boracay'
 description: Willy's Rock es el pequeño islote de roca volcánica con su propio santuario en miniatura dedicado a la Virgen María, situado justo frente a la costa en la Estación 1 de White Beach, el lugar más fotografiado de Boracay.
 quickAnswer: Willy's Rock es el pequeño islote de roca volcánica con su propio santuario en miniatura dedicado a la Virgen María, situado justo frente a la costa en la Estación 1 de White Beach, el punto de referencia más fotografiado de Boracay. Ve a marea baja, temprano por la mañana o justo alrededor del atardecer, para poder acercarte caminando por el agua sin que una multitud de brazos aparezca en tu foto; el mediodía es cuando los grupos turísticos y el tráfico de pedicabs alcanzan su punto máximo en el paseo marítimo junto a la roca. Verla y fotografiarla no cuesta nada, y solo necesitas de 15 a 20 minutos, a menos que te quedes para el atardecer.

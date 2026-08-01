@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: hyderabad-kadamba
+srcHash: 9c0a3f7aea8b
 title: 하이데라바드의 카담바(Kadamba)
 description: 카담바는 하이데라바드 마다푸르(Madhapur)에 위치한 루프탑 바로, 두르감 체루부(Durgam Cheruvu) 호수를 내려다보며 실제로 자라는 세 그루의 카담바 나무를 중심으로 마을 차우팔(chaupal) 스타일의 낮은 좌석을 갖추고 있습니다.
 quickAnswer: 카담바는 하이데라바드 마다푸르(Madhapur)에 위치한 루프탑 바로, 두르감 체루부(Durgam Cheruvu) 호수를 내려다보며 실제로 자라는 세 그루의 카담바 나무를 중심으로 마을 차우팔(chaupal) 스타일의 낮은 좌석을 갖추고 있습니다. 고아(Goa) 출신 믹솔로지스트 수잔 셰티(Sujan Shetty)가 팔라시 카담(Palash Kadam)과 함께 선보이는 파격적인 칵테일과 스낵 프로그램으로 유명합니다 — 암-추르(Aam-Chur), 아가시 네그로니(Agasi Negroni), 포디 에다마메(podi edamame) 같은 메뉴가 대표적이죠. 해 질 무렵 방문하는 것을 추천하며, 현재 도시에서 가장 화제가 되고 있는 곳인 만큼 미리 예약하고 방문 전 영업시간을 확인하세요.

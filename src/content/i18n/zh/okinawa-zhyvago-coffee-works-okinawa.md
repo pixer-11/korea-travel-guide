@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: okinawa-zhyvago-coffee-works-okinawa
+srcHash: 6652b3209efd
 title: Zhyvago Coffee Works：冲绳旅行指南
 description: Zhyvago Coffee Works Okinawa 是位于北谷町美浜（Chatan, Mihama）的一家工业风精品咖啡店，紧邻美国村（American Village），设有面朝海滩的露台。
 quickAnswer: Zhyvago Coffee Works Okinawa 是一家位于北谷町美浜（Chatan, Mihama）的工业风精品咖啡店，就在美国村（American Village）旁边，拥有面朝海滩的露台，评分高达4.6分（超过1,000条评价）。建议傍晚时分前往，点一杯浓缩咖啡配点心，欣赏东海（East China Sea）上空的日落，价格属中等水平（¥¥）。可以顺路逛逛美国村的店铺，并沿日落海滩（Sunset Beach）的木栈道散散步。

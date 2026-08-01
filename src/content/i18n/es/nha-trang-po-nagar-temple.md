@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: nha-trang-po-nagar-temple
+srcHash: d7408602d256
 title: 'Templo Po Nagar: Guía de viaje de Nha Trang'
 description: Po Nagar es un conjunto de torres de ladrillo cham construidas entre los siglos VIII y XIII, situado sobre una pequeña colina en la orilla norte del río Cai, en Nha Trang.
 quickAnswer: Po Nagar es un conjunto de torres de ladrillo cham construidas entre los siglos VIII y XIII, situado sobre una pequeña colina en la orilla norte del río Cai, en Nha Trang. Reserva entre 45 y 90 minutos, ve a primera hora de la mañana o al final de la tarde para evitar el calor y las multitudes, y combina la visita con un paseo por el puente Xom Bong o una parada en los puestos de marisco junto al río. La entrada tiene un pequeño coste que se paga en la puerta; viste con recato, ya que sigue siendo un lugar de culto activo tanto para visitantes cham como vietnamitas.

@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: jeju-hyeopjae-beach
+srcHash: 349014c7db9b
 title: 'Playa Hyeopjae: Guía de viaje de Jeju'
-description: La playa Hyeopjae, en la costa noroeste de Jeju, en Hallim-eup, es una bahía de aguas poco profundas y turquesas bordeada de arena blanca y pinos, con vistas despejadas de
+description: La playa Hyeopjae, en la costa noroeste de Jeju, en Hallim-eup, es una bahía de aguas poco profundas y color turquesa, bordeada de arena blanca y pinos, con vistas despejadas de la isla Biyangdo (Biyangdo Island) frente a la costa.
 quickAnswer: La playa Hyeopjae, en la costa noroeste de Jeju, en Hallim-eup, es una bahía de aguas poco profundas y color turquesa, bordeada de arena blanca y pinos, con vistas despejadas de la isla Biyangdo (Biyangdo Island) frente a la costa. La mejor época para nadar es de junio a principios de septiembre, o al atardecer durante todo el año por las vistas; hay que calcular entre 1,5 y 3 horas, más si se añade una visita al cercano Hallim Park o una excursión en ferry a Biyangdo.
 faq:
   - q: ¿Cómo llego a la playa Hyeopjae sin coche?

@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: chinatown-my-awesome-cafe
+srcHash: ce00816863d8
 title: My Awesome Cafe:チャイナタウン旅行ガイド
 description: My Awesome Cafeは、チャイナタウン(Chinatown)の202 Telok Ayer Stにある評判の高い終日営業のカフェで、手作りサラダやサンドイッチ、充実したワインリストが楽しめます。
 quickAnswer: My Awesome Cafeは、チャイナタウン(Chinatown)の202 Telok Ayer Stにある評判の高い終日営業のカフェで、手作りサラダやサンドイッチ、そして充実したワインリストを、居心地の良いリノベーション済みショップハウスの空間で楽しめることで知られています。非常に人気があり(評価4.7、レビュー数はほぼ8,000件)、平日のランチとディナーの合間の時間帯に訪れるのがおすすめです。週末は待ち時間を覚悟しましょう。滞在時間の目安は1時間から90分ほどで、Telok Ayer Streetに並ぶ歴史ある寺院やAmoy Streetの屋台街を巡る散策と組み合わせるのがおすすめです。

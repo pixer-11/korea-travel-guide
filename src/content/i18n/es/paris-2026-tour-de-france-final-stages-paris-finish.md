@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: paris-2026-tour-de-france-final-stages-paris-finish
+srcHash: 1cb21708a45e
 title: 'Tour de Francia 2026 (Etapas finales y llegada a París): lo que debes saber (París)'
 description: Tour de Francia 2026 (Etapas finales y llegada a París) en París, Francia — 24-26 de julio de 2026. Qué es, cuándo y dónde se celebra, y cómo organizar tu visita.
 quickAnswer: El 113.º Tour de Francia concluye del 24 al 26 de julio de 2026, con brutales etapas finales en los Alpes antes de que el pelotón entre en París el 26 de julio para el esprint de cierre. Verlo es gratis si consigues un lugar a lo largo del recorrido (Champs-Élysées o puertos alpinos); llega con horas de antelación para tener sitio junto a las vallas, y confirma el recorrido exacto por París y los horarios en el sitio oficial del Tour de Francia cerca de la fecha de la carrera, ya que los circuitos de llegada pueden cambiar de un año a otro.

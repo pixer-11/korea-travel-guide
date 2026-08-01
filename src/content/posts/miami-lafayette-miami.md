@@ -1,6 +1,6 @@
 ---
 title: 'Lafayette: Where to Eat in Miami'
-description: Lafayette Miami is a small, high-rated spot at 1111 SW 1st Ave in the Brickell/Roads area, just west of the Miami River — a place locals stumble on rather
+description: Lafayette Miami is a small, high-rated spot at 1111 SW 1st Ave in the Brickell/Roads area, just west of the Miami River — a place locals stumble on rather than a tourist checkbox.
 country: United States
 region: Miami
 category: restaurant

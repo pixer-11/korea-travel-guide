@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: phu-quoc-chuon-chuon-bistro-bar
+srcHash: 516bb5e0bdfe
 title: Chuồn Chuồn Bistro & Bar:フーコック島旅行ガイド
 description: Chuồn Chuồn Bistro & Barは、フーコックタウンのチャンフンダオ通り(Tran Hung Dao Street)にある、緑に囲まれたおしゃれなレストラン兼ラウンジ。ランタンが灯る屋外席が魅力です。
 quickAnswer: Chuồn Chuồn Bistro & Barは、フーコックタウンのチャンフンダオ通り(Tran Hung Dao Street)にある、緑に囲まれたおしゃれなレストラン兼ラウンジです。ランタンが灯る屋外席、ベトナム風フュージョン料理、カクテルで知られています。6,000件を超えるレビューで評価4.3、価格帯は中程度で、ナイトマーケットを訪れる前後にゆったり夕食を楽しむのにぴったりです。夕暮れ時か18時以降に訪れると雰囲気を存分に楽しめますが、週末はすぐに満席になるため予約するか早めに行くのがおすすめです。

@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: naples-catacombs-of-san-gennaro
+srcHash: d2a2f022ba48
 title: '산 제나로 카타콤: 나폴리 여행 가이드'
 description: 산 제나로 카타콤(Catacombs of San Gennaro)은 비아 카포디몬테(Via Capodimonte)에 위치해 있으며, 역사 지구에서 언덕길을 조금만 걸어 올라가거나 버스로 이동할 수 있습니다. 관람은 가이드 투어로만 가능합니다(약 60-75분).
 quickAnswer: 산 제나로 카타콤(Catacombs of San Gennaro)은 비아 카포디몬테(Via Capodimonte)에 위치해 있으며, 역사 지구에서 언덕길을 조금만 걸어 올라가거나 버스로 이동할 수 있습니다. 관람은 가이드 투어로만 가능하며(약 60-75분 소요, 하루 중 정해진 시간에 출발), 조용히 숨겨진 명소라기보다는 많은 사람이 찾는 유명 관광지(4.7점, 13,000개 이상의 리뷰)이므로 미리 온라인으로 예약해두는 것이 좋습니다. 바로 옆에 있는 카포디몬테 박물관(Capodimonte Museum)과 함께 묶어서 이동 시간을 포함해 반나절 일정으로 계획하세요.

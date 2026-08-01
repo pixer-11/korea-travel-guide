@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: gangneung-arte-museum-valley-gangneung
+srcHash: a6ff7d650434
 title: 'Arte Museum Valley: Guía de viaje de Gangneung'
-description: Arte Museum Valley es un museo de arte digital a gran escala en la zona de Nanseolheon-ro, en Gangneung, donde instalaciones inmersivas de luz y sonido llenan una serie de
+description: Arte Museum Valley es un museo de arte digital a gran escala en la zona de Nanseolheon-ro, en Gangneung, donde instalaciones inmersivas de luz y sonido llenan una serie de salas de exhibición a oscuras.
 quickAnswer: Arte Museum Valley es un museo de arte digital a gran escala en la zona de Nanseolheon-ro, en Gangneung, donde instalaciones inmersivas de luz y sonido llenan una serie de salas de exhibición a oscuras. Calcula entre 60 y 90 minutos, ve un día laborable por la mañana o justo antes del cierre para evitar los grupos turísticos, y combina la visita con la cercana Casa Ojukheon o la playa de Gyeongpo, ya que el museo se encuentra tierra adentro respecto a la costa. Reserva una entrada con horario fijo por internet siempre que puedas, ya que los turnos pueden agotarse los fines de semana y días festivos.
 faq:
   - q: ¿Cuánto tiempo debo reservar para visitar Arte Museum Valley?

@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: chiang-rai-chivit-thamma-da-coffee-house-bistro-bar
+srcHash: d30e48f3b019
 title: 'Chivit Thamma Da Coffee House, Bistro & Bar: Dónde comer en Chiang Rai'
-description: Chivit Thamma Da es una cafetería, bistró y bar junto al río en el Kok River, justo al norte del casco antiguo de Chiang Rai, ideal para un brunch tranquilo o
+description: Chivit Thamma Da es una cafetería, bistró y bar a orillas del río Kok, justo al norte del casco antiguo de Chiang Rai, ideal para un brunch relajado o una cena al atardecer.
 quickAnswer: Chivit Thamma Da es una cafetería, bistró y bar a orillas del río Kok, justo al norte del casco antiguo de Chiang Rai, ideal para un brunch relajado o una cena al atardecer. Ofrece un entorno de jardín, platos internacionales y de fusión tailandesa elaborados con ingredientes de temporada, y una carta que va del espresso y los pasteles a los filetes y la pasta. Se llega en tuk-tuk o scooter alquilado (unos 10-15 minutos desde la torre del reloj), y conviene reservar con antelación los fines de semana dada su reputación de 4.6 estrellas y miles de reseñas.
 faq:
   - q: ¿Cómo llego a Chivit Thamma Da desde el centro de Chiang Rai?

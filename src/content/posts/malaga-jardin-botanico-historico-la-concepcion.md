@@ -1,6 +1,6 @@
 ---
 title: "Jardín Botánico - Histórico La Concepción: Malaga Travel Guide"
-description: La Concepción is a 23-hectare tropical garden on the northern edge of Málaga, easily worth a half-day visit for its century-old ficus trees, bamboo tunnels
+description: La Concepción is a 23-hectare tropical garden on the northern edge of Málaga, easily worth a half-day visit for its century-old ficus trees, bamboo tunnels, and Mudéjar-tiled viewpoints.
 country: Spain
 region: Malaga
 category: hidden-gem

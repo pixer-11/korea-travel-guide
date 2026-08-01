@@ -1,6 +1,6 @@
 ---
 title: 'Cafe Arae Heon: Gyeongju Travel Guide'
-description: Cafe Arae Heon is a hanok-style café on Bobul-ro near Bulguksa Temple in Gyeongju, known for large hanok windows framing garden and mountain views
+description: Cafe Arae Heon is a hanok-style café on Bobul-ro near Bulguksa Temple in Gyeongju, known for large hanok windows framing garden and mountain views, traditional-style pastries, and a serene, photogenic atmosphere reflected in a 4.9 rating from over 1,400 reviews.
 country: South Korea
 region: Gyeongju
 category: trendy

@@ -1,6 +1,6 @@
 ---
 title: "Hierapolis Archaeological Museum: Pamukkale Travel Guide"
-description: "The Hierapolis Archaeological Museum sits inside the old Roman baths (thermae) just north of the travertine terraces, and it's worth 45-60 minutes on the way"
+description: The Hierapolis Archaeological Museum sits inside the old Roman baths (thermae) just north of the travertine terraces, and it's worth 45-60 minutes on the way to or from the ruins.
 country: "Turkey"
 region: "Pamukkale"
 category: "attraction"

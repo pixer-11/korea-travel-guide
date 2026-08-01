@@ -1,6 +1,6 @@
 ---
 title: 'Víctor Montes: Where to Eat in Bilbao'
-description: Víctor Montes sits on Plaza Nueva (Plaza Berria) in Bilbao's Casco Viejo, in a handsome former market building with a painted facade—come for classic Basque
+description: Víctor Montes sits on Plaza Nueva (Plaza Berria) in Bilbao's Casco Viejo, in a handsome former market building with a painted facade—come for classic Basque pintxos at the bar and a mid-range sit-down menu in back.
 country: Spain
 region: Bilbao
 category: restaurant

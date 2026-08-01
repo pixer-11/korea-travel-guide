@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: bodrum-bodrum-castle
+srcHash: ab77d4676c00
 title: 'Castillo de Bodrum: Guía de viaje'
 description: 'El Castillo de Bodrum (Kale, en turco) se alza en su propia pequeña península entre las dos bahías del puerto de Bodrum, y bien merece medio día: calcula entre 2 y 3 horas para recorrerlo.'
 quickAnswer: 'El Castillo de Bodrum (Kale, en turco) se alza en su propia pequeña península entre las dos bahías del puerto de Bodrum, y bien merece medio día: calcula entre 2 y 3 horas para recorrer sus murallas, torres y el Museo de Arqueología Subacuática que alberga en su interior. Con más de 26.500 reseñas y una valoración de 4,5, es uno de los lugares más visitados de la península de Bodrum, así que ve justo a la apertura o en las dos últimas horas antes del cierre para evitar las multitudes de los cruceros. Está a 10-15 minutos a pie desde la marina principal/estación de autobuses siguiendo el paseo del puerto; no hace falta coche.'

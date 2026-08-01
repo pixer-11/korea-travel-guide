@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: abu-dhabi-the-corrs-live-in-concert
+srcHash: cbadfbc1a7fb
 title: 'The Corrs en concierto: lo que hay que saber (Abu Dabi)'
 description: The Corrs en concierto en Abu Dabi, Emiratos Árabes Unidos — 27 de septiembre de 2026. Qué es, cuándo y dónde es, y cómo organizar tu viaje en torno a él.
 quickAnswer: The Corrs ofrecen un único concierto en el Etihad Arena, en Yas Island (Abu Dabi), el 27 de septiembre de 2026. Todavía no se han confirmado precios de entradas, horarios de apertura de puertas ni artistas teloneros, así que conviene revisar el sitio oficial del Etihad Arena o los canales oficiales de The Corrs más cerca de la fecha antes de reservar el viaje.

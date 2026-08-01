@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: taiyuan-2026-china-open-snooker
+srcHash: 86fd9d1851b4
 title: '2026 차이나 오픈(스누커) 가이드: 타이위안에서 알아야 할 것'
 description: 중국 타이위안(Taiyuan)에서 열리는 2026 차이나 오픈(스누커) — 2026년 8월 8일~16일. 대회 개요와 일정, 여행 준비 방법을 안내합니다.
 quickAnswer: 2026 차이나 오픈 스누커 대회는 2026년 8월 8일부터 16일까지 중국 산시성(Shanxi) 타이위안(Taiyuan)의 리버사이드 스포츠 센터(Riverside Sports Centre)에서 열리며, 디펜딩 챔피언 닐 로버트슨(Neil Robertson)을 비롯한 세계 정상급 선수들이 출전할 예정입니다. 중국 랭킹 대회는 개최 장소와 일정이 바뀔 수 있으니, 티켓 구매와 세션 시간 확인은 대회일이 가까워졌을 때 월드 스누커 투어(World Snooker Tour) 공식 채널을 통해 하시기 바랍니다.

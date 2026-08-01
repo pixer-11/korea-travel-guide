@@ -1,6 +1,6 @@
 ---
 title: "Tarnim Magic Garden: Koh Samui Travel Guide"
-description: "Tarnim Magic Garden (also called Tarnim Magic Garden or \\\"Buddha Magic Garden\\\") is a hilltop sculpture garden in Na Mueang, on the south side of Koh Samui"
+description: Tarnim Magic Garden (also called Tarnim Magic Garden or "Buddha Magic Garden") is a hilltop sculpture garden in Na Mueang, on the south side of Koh Samui, best visited in the early morning or late afternoon to avoid midday heat and harsh light for photos.
 country: "Thailand"
 region: "Koh Samui"
 category: "attraction"

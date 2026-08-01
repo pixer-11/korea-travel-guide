@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: andong-hahoe-folk-village
+srcHash: 25f42eed5ce1
 title: 'Aldea Folclórica de Hahoe, Andong: Guía de viaje'
-description: La Aldea Folclórica de Hahoe (Andong Hahoe Folk Village) es un pueblo de la era Joseon aún habitado, situado en un meandro en herradura del río Nakdong; ideal para visitar durante medio día y ver
+description: La Aldea Folclórica de Hahoe (Andong Hahoe Folk Village) es un pueblo de la era Joseon aún habitado, situado en un meandro en herradura del río Nakdong.
 quickAnswer: La Aldea Folclórica de Hahoe (Andong Hahoe Folk Village) es un pueblo de la era Joseon aún habitado, situado en un meandro en herradura del río Nakdong. Lo mejor es dedicarle medio día para ver las casas tradicionales con tejado de tejas y de paja, el Museo de Máscaras de Hahoe (Hahoe Mask Museum) y, si coincide con el horario, una función de la danza enmascarada Hahoe Byeolsingut. Compra la entrada combinada de aldea y lanzadera (shuttle) en la entrada, calcula entre 2 y 3 horas, y ve un fin de semana entre primavera y otoño para poder ver las funciones de danza enmascarada al aire libre.
 faq:
   - q: ¿Cómo llego a la Aldea Folclórica de Hahoe sin coche?

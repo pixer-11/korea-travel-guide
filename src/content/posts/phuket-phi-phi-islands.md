@@ -1,6 +1,6 @@
 ---
 title: 'Phi Phi Islands: Phuket Travel Guide'
-description: The Phi Phi Islands are a day-trip or overnight boat excursion from Phuket, best reached by speedboat (roughly 1–1.5 hours each way) from Rassada Pier or
+description: The Phi Phi Islands are a day-trip or overnight boat excursion from Phuket, best reached by speedboat (roughly 1–1.5 hours each way) from Rassada Pier or Chalong Pier.
 country: Thailand
 region: Phuket
 category: attraction

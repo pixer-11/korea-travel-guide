@@ -1,8 +1,9 @@
 ---
 lang: zh
 slug: dubai-al-fahidi-historical-neighbourhood
+srcHash: 05c4219f4e94
 title: 阿尔法希迪历史街区:迪拜旅行指南
-description: 阿尔法希迪历史街区位于迪拜河（Creek）巴斯达基亚（Bur Dubai）一侧，靠近阿尔法希迪地铁站（绿线），是迪拜保存最完好的老城区——
+description: 阿尔法希迪历史街区（Al Fahidi Historical Neighbourhood）位于迪拜河（Dubai Creek）巴斯达基亚（Bur Dubai）一侧，靠近阿尔法希迪地铁站（Al Fahidi Metro Station，绿线），是迪拜保存最完好的老城区——由珊瑚石和石膏建造的风塔屋纵横交错，如今遍布博物馆、画廊和咖啡馆。
 quickAnswer: 阿尔法希迪历史街区（Al Fahidi Historical Neighbourhood）位于迪拜河（Dubai Creek）巴斯达基亚（Bur Dubai）一侧，靠近阿尔法希迪地铁站（Al Fahidi Metro Station，绿线），是迪拜保存最完好的老城区——由珊瑚石和石膏建造的风塔屋纵横交错，如今遍布博物馆、画廊和咖啡馆。建议预留2-3小时游览，最好选在清晨凉爽时段或日落之后前往，并可顺路走去纺织品市场（Textile Souk），再乘阿布拉（abra）小船横渡迪拜河。
 faq:
   - q: 如何前往阿尔法希迪历史街区？
@@ -33,7 +34,7 @@ faq:
 - **咖啡博物馆（Coffee Museum）**，一处小而精致的展馆，讲述咖啡文化从埃塞俄比亚传入阿拉伯半岛的历程。
 - **钱币博物馆（Coin Museum）**及**谢赫穆罕默德文化理解中心（Sheikh Mohammed Centre for Cultural Understanding，简称SMCCU）**，该中心举办文化早餐会、遗产导览，以及“打开大门，敞开心扉”（Open Doors, Open Minds）交流活动，让游客可以直接向阿联酋当地人提问，了解本地生活与伊斯兰教相关话题。
 - **XVA画廊（XVA Gallery）**，一座融于修复后庭院宅邸中的当代艺术空间兼精品酒店——即便不打算购买艺术品，也值得一逛。
-- 狭窄的街巷两旁矗立着风塔屋顶，散布着小型手工艺品店，每年通常在3月前后举办的**西卡艺术节（Sikka Art Fair）**期间，还会出现临时展览。
+- 狭窄的街巷两旁矗立着风塔屋顶，散布着小型手工艺品店，每年通常在3月前后举办的**西卡艺术节**（Sikka Art Fair）期间，还会出现临时展览。
 
 街区边缘紧邻**纺织品市场（Textile Souk）**，乘阿布拉横渡迪拜河后可抵达迪拉（Deira）的**黄金市场（Gold Souk）**与**香料市场（Spice Souk）**——许多人会将三者串联成一条半天的游览路线。
 

@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: hiroshima-itsukushima-jinja
+srcHash: c75456dc5b56
 title: 'Itsukushima Jinja: Guía de viaje de Hiroshima'
-description: Itsukushima Jinja se encuentra en la isla de Miyajima, en la bahía de Hiroshima, a la que se llega en ferri JR desde la estación de Miyajimaguchi, y es famoso por su torii bermellón que
+description: Itsukushima Jinja se encuentra en la isla de Miyajima, en la bahía de Hiroshima, a la que se llega en ferri JR desde la estación de Miyajimaguchi, y es famoso por su torii bermellón que parece flotar durante la marea alta.
 quickAnswer: 'Itsukushima Jinja se encuentra en la isla de Miyajima, en la bahía de Hiroshima, a la que se llega en ferri JR desde la estación de Miyajimaguchi, y es famoso por su torii bermellón que parece flotar durante la marea alta. Planifica una escapada de medio día: consulta las tablas de mareas para ver la puerta inundada (marea alta) o accesible a pie (marea baja), y llega temprano por la mañana antes de que lleguen las multitudes de excursionistas. Combínalo con el teleférico del monte Misen y el paseo marítimo lleno de ciervos para disfrutar de un día completo en Miyajima.'
 faq:
   - q: ¿Cómo llego a Itsukushima Jinja desde Hiroshima?

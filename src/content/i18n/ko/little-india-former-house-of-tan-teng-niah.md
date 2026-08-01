@@ -1,8 +1,9 @@
 ---
 lang: ko
 slug: little-india-former-house-of-tan-teng-niah
+srcHash: ec054712e74c
 title: '탄텡니아 옛 저택: 리틀 인디아 여행 가이드'
-description: 케르바우 로드(Kerbau Road) 37번지에 있는 탄텡니아 옛 저택(Former House of Tan Teng Niah)은 리틀 인디아에 남아 있는 유일한 중국식 저택으로, 1900년에 지어진 2층 건물이 지금은
+description: 케르바우 로드(Kerbau Road) 37번지에 있는 탄텡니아 옛 저택(Former House of Tan Teng Niah)은 리틀 인디아에 남아 있는 유일한 중국식 저택으로, 1900년에 지어진 2층 건물이 지금은 화사한 파스텔 톤으로 칠해져 있습니다.
 quickAnswer: 케르바우 로드(Kerbau Road) 37번지에 있는 탄텡니아 옛 저택(Former House of Tan Teng Niah)은 리틀 인디아에 남아 있는 유일한 중국식 저택으로, 1900년에 지어진 2층 건물이 지금은 화사한 파스텔 톤으로 칠해져 있습니다. 개인 상업용 건물이라 박물관은 아니지만, 거리에서 무료로 둘러볼 수 있으며 관람에는 15~20분이면 충분합니다. 케르바우 로드를 따라 걸으며 테카 센터(Tekka Centre)나 세랑군 로드(Serangoon Road) 쪽으로 이어지는 산책과도 잘 어울립니다.
 faq:
   - q: 탄텡니아 옛 저택 내부에 들어갈 수 있나요?

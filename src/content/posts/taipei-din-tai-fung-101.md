@@ -1,6 +1,6 @@
 ---
 title: "Din Tai Fung 101: Where to Eat in Taipei"
-description: This branch of Din Tai Fung sits in the basement of the City Hall Rd building in Xinyi District, a few minutes' walk from Taipei 101 — making it the natural
+description: This branch of Din Tai Fung sits in the basement of the City Hall Rd building in Xinyi District, a few minutes' walk from Taipei 101 — making it the natural lunch or dinner stop after the tower or the surrounding malls.
 country: Taiwan
 region: Taipei
 category: restaurant

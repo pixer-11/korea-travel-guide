@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: rome-sant-eustachio-caffe
+srcHash: 5f40cd585d25
 title: 圣欧斯塔奇奥咖啡馆（Sant' Eustachio Caffè）：罗马旅行指南
 description: 圣欧斯塔奇奥咖啡馆位于圣欧斯塔奇奥广场（Piazza di Sant'Eustachio），从万神殿向南步行五分钟即到，是罗马最负盛名的历史咖啡馆之一。
 quickAnswer: 圣欧斯塔奇奥咖啡馆位于圣欧斯塔奇奥广场（Piazza di Sant'Eustachio），从万神殿向南步行五分钟即到，是罗马最负盛名的历史咖啡馆之一——所以要有心理准备，这里人气很旺，绝非小众秘境。点单要先到收银台付款，再把小票交给吧台工作人员，说一句"un caffè"（一杯咖啡）即可（除非你特别说明"senza zucchero"（不加糖），否则他们默认你要加糖版）。像所有本地人一样站在吧台前喝，两口喝完，预留10-15分钟即可，这里不是坐下来悠闲brunch的地方。

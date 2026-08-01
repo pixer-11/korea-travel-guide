@@ -1,8 +1,9 @@
 ---
 lang: zh
 slug: boston-boston-common
+srcHash: 100d5e8a3868
 title: 波士顿公园（Boston Common）旅行指南
-description: 波士顿公园（Boston Common）是美国历史最悠久的城市公园——50英亩的绿地坐落在波士顿市中心，毗邻灯塔山（Beacon Hill）、剧院区（Theater District）
+description: 波士顿公园（Boston Common）是美国历史最悠久的城市公园——50英亩的绿地坐落在波士顿市中心，毗邻灯塔山（Beacon Hill）、剧院区（Theater District）和公共花园（Public Garden）。这里全年免费开放，最好在清晨或工作日前往，因为下午和周末人流量很大。
 quickAnswer: 波士顿公园（Boston Common）是美国历史最悠久的城市公园——50英亩的绿地坐落在波士顿市中心，毗邻灯塔山（Beacon Hill）、剧院区（Theater District）和公共花园（Public Garden）。这里全年免费开放，最好在清晨或工作日前往，因为下午和周末人流量很大。如果只是路过，花45分钟到1小时即可；如果计划把它和自由之路（Freedom Trail）、公共花园的天鹅船一起游览，建议安排半天时间。
 faq:
   - q: 乘坐公共交通如何到达波士顿公园？

@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: singapore-milli
+srcHash: 95b9ea05b6fa
 title: Milli：新加坡旅行指南
 description: 新加坡 Milli——一处新晋热门去处：这是什么地方、在哪里、以及如何前往参观。
 quickAnswer: Milli 是一家坐落在新加坡国家美术馆（National Gallery Singapore）楼顶的双层天台餐厅、酒吧兼休闲酒廊，位于市政区（Civic District），可俯瞰大草场（Padang）、滨海湾（Marina Bay）以及殖民时期建筑构成的天际线。它于2026年5月底开业，如今已是全城最炙手可热的预订去处之一，因此建议提前订位，并在出发前确认最新营业时间。这里的客人打扮偏正式，酒水以鸡尾酒为主打，最佳到访时间是黄昏时分，能欣赏到天际线最美的光线。

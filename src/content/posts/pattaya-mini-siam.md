@@ -1,6 +1,6 @@
 ---
 title: "Mini Siam: Pattaya Travel Guide"
-description: "Mini Siam is a miniature park on Sukhumvit Road at the northern edge of Pattaya, showing scaled-down replicas of Thai landmarks (like Wat Arun and the Grand"
+description: Mini Siam is a miniature park on Sukhumvit Road at the northern edge of Pattaya, showing scaled-down replicas of Thai landmarks (like Wat Arun and the Grand Palace) and world monuments (Eiffel Tower, Big Ben, Angkor Wat) laid out across open grounds.
 country: "Thailand"
 region: "Pattaya"
 category: "attraction"

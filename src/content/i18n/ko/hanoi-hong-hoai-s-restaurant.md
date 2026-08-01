@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: hanoi-hong-hoai-s-restaurant
+srcHash: 1e20aeade107
 title: '홍호아이 레스토랑(Hong Hoai''s Restaurant): 하노이 맛집 탐방'
 description: 홍호아이 레스토랑(Hong Hoai's Restaurant)은 호안끼엠(Hoàn Kiếm) 구 밧단(Bát Đàn) 거리와 항보(Hàng Bồ) 거리가 만나는 모퉁이 근처 옛 시가지(Old Quarter)에 위치해 있으며, 호안끼엠 호수(Hoàn Kiếm Lake)에서 도보로 몇 분 거리에 있습니다.
 quickAnswer: 홍호아이 레스토랑(Hong Hoai's Restaurant)은 호안끼엠(Hoàn Kiếm) 구 밧단(Bát Đàn) 거리와 항보(Hàng Bồ) 거리가 만나는 모퉁이 근처 옛 시가지(Old Quarter)에 위치해 있으며, 호안끼엠 호수(Hoàn Kiếm Lake)에서 도보로 몇 분 거리에 있습니다. 길가 테이블에서 즐기는 전통 길거리 음식 스타일 요리로 유명한 소박한 하노이 식당으로, 거의 23,500개에 달하는 리뷰와 4.9점의 평점을 자랑하며 방문객들의 필수 맛집 코스로 자리 잡았습니다. 배고픈 상태로 가되, 최악의 혼잡을 피하려면 이른 시간대나 오후 중반에 방문하는 것이 좋으며, 낮은 플라스틱 의자에 앉게 될 것을 예상하세요.

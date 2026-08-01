@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: hiroshima-hiroshima-breakfast
+srcHash: d40a0f266ce5
 title: 广岛早餐（Hiroshima Breakfast）旅行指南
 description: 广岛早餐（Hiroshima Breakfast）是一家小巧、评价极高的晨间咖啡馆，位于中区中心的堂桥町（Dohashicho），距离本通商店街和和平纪念公园都只需步行片刻。
 quickAnswer: 广岛早餐（Hiroshima Breakfast）是一家小巧、评价极高的晨间咖啡馆，位于中区中心的堂桥町（Dohashicho），距离本通（Hondori）商店街和和平纪念公园都只需步行片刻。建议在工作日上午8点到10点左右步行前往，以避开排队人潮，因为店内空间很小，通常不接受预约。建议预留45到60分钟的时间，并可以将此行与漫步本通商店街或在人群到来之前的清晨游览和平纪念公园结合起来。

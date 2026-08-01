@@ -1,8 +1,9 @@
 ---
 lang: zh
 slug: nara-chami-specialty-coffee-roaster-nara-japan
+srcHash: 32dd2d8b29a3
 title: CHAMI精品咖啡烘焙坊 - 日本奈良：旅行指南
-description: CHAMI是位于奈良老城区的一家精品咖啡烘焙坊，距奈良公园和近铁的Yanagi-Chaya站（柳茶屋站）不远，以单品手冲咖啡和
+description: CHAMI是位于奈良老城区的一家精品咖啡烘焙坊，距奈良公园和Yanagi-Chaya站（柳茶屋站）不远，以单品手冲咖啡和极简设计感十足的空间而闻名。建议在工作日上午前往以避开排队人潮，预留30-45分钟游览时间，并可将其与附近的奈良町（Naramachi）商家街散步行程结合。
 quickAnswer: CHAMI是位于奈良老城区的一家精品咖啡烘焙坊，距奈良公园和Yanagi-Chaya站（柳茶屋站）不远，以单品手冲咖啡和极简设计感十足的空间而闻名。建议在工作日上午前往以避开排队人潮，预留30-45分钟游览时间，并可将其与附近的奈良町（Naramachi）商家街散步行程结合。现金和刷卡通常都可以使用，但由于烘焙坊有时会因烘豆日而休息，建议出发前先确认营业时间。
 faq:
   - q: 从奈良市中心怎么去CHAMI？

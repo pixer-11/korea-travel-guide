@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: chinatown-chinatown-complex
+srcHash: 7e4d8d0f7a94
 title: '차이나타운 콤플렉스: 어디서 먹을까'
 description: 스미스 스트리트(Smith Street)에 위치한 차이나타운 콤플렉스(Chinatown Complex)는 싱가포르 최대 규모의 호커센터로, 웻마켓 위층에 수백 개의 노점이 자리하고 있습니다.
 quickAnswer: 스미스 스트리트(Smith Street)에 위치한 차이나타운 콤플렉스(Chinatown Complex)는 싱가포르 최대 규모의 호커센터로, 웻마켓 위층 2층에 수백 개의 노점이 자리하고 있습니다. 점심시간의 혼잡을 피하려면 평일 오전(오전 11시 이전)이나 오후 중반(오후 2-4시)에 방문하세요. 소액권 현금을 챙기고, 랴오판 호커 차이 토우 콰이(Liao Fan Hawker Chai Tow Kway)나 줄이 긴 것으로 유명한 홍콩 소야 소스 치킨 라이스(Hong Kong Soya Sauce Chicken Rice) 노점 같은 유명 맛집을 목표로 삼아보세요. 45-90분 정도 여유를 두고, 합석은 각오하시는 게 좋습니다.

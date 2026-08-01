@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: monza-italian-grand-prix-formula-1
+srcHash: c6da7f5e4e1d
 title: 'Gran Premio de Italia de Fórmula 1 2026: lo que debes saber (Monza)'
 description: El Gran Premio de Italia 2026 se disputa del 4 al 6 de septiembre en el Autodromo Nazionale Monza, justo al norte de Milán.
 quickAnswer: El Gran Premio de Italia 2026 se disputa del 4 al 6 de septiembre en el Autodromo Nazionale Monza, justo al norte de Milán. Compra las entradas cuanto antes a través de Formula1.com o del canal oficial del circuito, planea llegar en tren (estación de Monza y luego autobús lanzadera, o una caminata de 20 minutos por el Parco di Monza) y reserva un día completo para cada sesión, dada la afluencia de público y las colas de seguridad. Verifica siempre las fechas, los horarios de apertura de puertas y los precios en el sitio oficial de F1/Monza antes de reservar, ya que pueden cambiar.

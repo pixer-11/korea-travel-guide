@@ -1,6 +1,6 @@
 ---
 title: 'Boston Common: Travel Guide'
-description: Boston Common is the oldest public park in the United States — 50 acres of green anchoring downtown Boston, bordered by Beacon Hill, the Theater District
+description: Boston Common is the oldest public park in the United States — 50 acres of green anchoring downtown Boston, bordered by Beacon Hill, the Theater District, and the Public Garden.
 country: United States
 region: Boston
 category: hidden-gem

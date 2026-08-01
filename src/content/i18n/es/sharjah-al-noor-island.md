@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: sharjah-al-noor-island
+srcHash: d3253afecfd5
 title: 'Isla Al Noor: Guía de viaje de Sharjah'
 description: La Isla Al Noor se encuentra en la laguna Khalid, sobre Buhairah Corniche, en el centro de Sharjah, a poca distancia a pie o en taxi de Al Majaz Waterfront.
 quickAnswer: La Isla Al Noor se encuentra en la laguna Khalid, sobre Buhairah Corniche, en el centro de Sharjah, a poca distancia a pie o en taxi de Al Majaz Waterfront. Calcula entre 1.5 y 2.5 horas para recorrer el paseo marítimo, curiosear en el pabellón de libros, pasear por la casa de mariposas y ver las instalaciones de arte moderno repartidas por la isla. Ve a última hora de la tarde o al anochecer, especialmente en los meses más frescos (octubre–abril), cuando tanto la luz como la temperatura juegan a tu favor.

@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: monza-italian-grand-prix-formula-1
+srcHash: c6da7f5e4e1d
 title: 2026 F1 이탈리아 그랑프리 가이드 (몬자)
 description: 2026 이탈리아 그랑프리는 밀라노 북쪽에 위치한 아우토드로모 나치오날레 몬자(Autodromo Nazionale Monza)에서 9월 4일부터 6일까지 열립니다.
 quickAnswer: 2026 이탈리아 그랑프리는 밀라노 북쪽에 위치한 아우토드로모 나치오날레 몬자(Autodromo Nazionale Monza)에서 9월 4일부터 6일까지 열립니다. 티켓은 Formula1.com 또는 서킷 공식 채널을 통해 최대한 서둘러 구매하세요. 기차로 이동할 계획을 세우고(몬자역 하차 후 셔틀버스 이용 또는 파르코 디 몬자를 가로질러 도보 20분), 인파와 보안 검색 줄을 감안해 세션마다 하루 전체를 비워두는 것이 좋습니다. 날짜, 게이트 오픈 시간, 가격은 변동될 수 있으니 예약 전 항상 F1/몬자 공식 사이트에서 재확인하세요.

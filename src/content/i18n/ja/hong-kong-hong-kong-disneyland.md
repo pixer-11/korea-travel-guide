@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: hong-kong-hong-kong-disneyland
+srcHash: fcee99aa100d
 title: 香港ディズニーランド：旅行ガイド
 description: 香港ディズニーランドはランタオ島（Lantau Island）にあり、東涌線（Tung Chung Line）の欣澖（Sunny Bay）駅から専用のディズニーランド・リゾート線でアクセスできます。
 quickAnswer: 香港ディズニーランドはランタオ島（Lantau Island）にあり、東涌線（Tung Chung Line）の欣澖（Sunny Bay）駅から専用のディズニーランド・リゾート線でアクセスできます。7つのテーマランドすべてを回るには、丸一日（9〜10時間）の時間を確保しましょう。事前にオンラインで特定の日付のチケットを予約し、到着したらすぐに無料のディズニーランドアプリでアトラクションの待ち時間を確認したり、混雑する人気アトラクションのバーチャル待機列の枠を確保したりするのがおすすめです。

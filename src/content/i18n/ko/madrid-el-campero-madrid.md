@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: madrid-el-campero-madrid
+srcHash: 825b27aad007
 title: '마드리드의 엘 캄페로 마드리드(El Campero Madrid): 방문 가이드'
 description: '스페인 마드리드의 엘 캄페로 마드리드(El Campero Madrid) — 새롭게 떠오르는 핫플레이스: 어떤 곳인지, 어디에 있는지, 어떻게 방문하는지 알아봅니다.'
 quickAnswer: 엘 캄페로 마드리드(El Campero Madrid)는 명성 높은 바르바테(Barbate)의 참치 전문점이 마드리드에 낸 분점으로, 2026년 초 문을 열며 시그니처인 알마드라바(almadraba) 방식의 참다랑어와 돋보이는 테라스를 선보입니다. 갓 오픈한 곳이니 온라인에서 보는 메뉴나 가격 정보는 잠정적인 것으로 여기고, 방문 전 영업시간과 예약은 반드시 레스토랑에 직접 확인하세요. 원조 매장의 명성을 고려하면 오픈 첫날부터 수요가 몰릴 것으로 예상됩니다.

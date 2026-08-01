@@ -1,6 +1,6 @@
 ---
 title: Babayan Evi in Cappadocia
-description: Babayan Evi is a traditional Cappadocian restaurant that made history in the region's first-ever Michelin Guide (2026), earning both a Bib Gourmand (great
+description: Babayan Evi is a traditional Cappadocian restaurant that made history in the region's first-ever Michelin Guide (2026), earning both a Bib Gourmand (great food at moderate prices) and a Green Star (recognition for sustainable, terroir-driven cooking).
 country: Turkey
 region: Cappadocia
 category: restaurant

@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: chinatown-chinatown-heritage-centre
+srcHash: 4249096c58ed
 title: 차이나타운 헤리티지 센터(Chinatown Heritage Centre) 여행 가이드
 description: 파고다 스트리트(Pagoda Street) 48번지에 위치한 차이나타운 헤리티지 센터는 1900년대에 지어진 숍하우스 세 채를 복원해, 초기 중국 이주민들의 비좁은 생활 공간을 재현한 곳입니다.
 quickAnswer: 파고다 스트리트(Pagoda Street) 48번지에 위치한 차이나타운 헤리티지 센터는 1900년대 숍하우스 세 채를 복원해, 좁은 방으로 나뉜 재현 아파트와 아편굴을 포함해 초기 중국 이주민들의 비좁은 생활 공간을 그대로 보여줍니다. 관람에는 60~90분 정도를 잡으면 되고, 단체 관광객을 피하려면 평일 오전에 방문하는 것이 좋습니다. 파고다 스트리트의 시장 좌판과 인근 스리 마리암만 사원(Sri Mariamman Temple)을 함께 둘러보기에도 좋습니다. 가장 가까운 MRT역은 차이나타운역(Chinatown Station, A 또는 E 출구)으로, 도보 3~5분 거리입니다.

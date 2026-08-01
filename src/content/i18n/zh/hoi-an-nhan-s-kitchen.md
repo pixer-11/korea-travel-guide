@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: hoi-an-nhan-s-kitchen
+srcHash: a6a1a2c318d0
 title: Nhan's Kitchen：会安美食推荐去哪吃
 description: Nhan's Kitchen 是会安一家经济实惠的本地餐馆，地址位于 167 Trần Nhân Tông，以物美价廉的家常越南菜和会安特色菜闻名。
 quickAnswer: Nhan's Kitchen 是会安一家经济实惠的本地餐馆，地址位于 167 Trần Nhân Tông，以物美价廉的家常越南菜和会安特色菜（高楼面 cao lầu、白玫瑰饺 white rose dumplings、越南煎饼 bánh xèo）出餐迅速新鲜而受到称赞。凭借超过 5,600 条评价中 4.9 分的评分，它是当地口碑最稳定的平价美食之一——建议午餐或早点吃晚餐前往，旺季时需要短暂排队等候。

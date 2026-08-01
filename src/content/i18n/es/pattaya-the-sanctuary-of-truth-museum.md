@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: pattaya-the-sanctuary-of-truth-museum
+srcHash: 7c56cd189f0c
 title: 'Museo Santuario de la Verdad: Guía de viaje de Pattaya'
 description: El Santuario de la Verdad es un monumental templo-palacio de madera en la costa norte de Naklua, todavía en construcción desde 1981 gracias al trabajo de artesanos que tallan a mano.
 quickAnswer: El Santuario de la Verdad es un monumental templo-palacio de madera en la costa norte de Naklua, todavía en construcción desde 1981 gracias al trabajo de artesanos que tallan a mano. Calcula entre 1,5 y 2 horas (más si alcanzas el espectáculo de danza tradicional o las demostraciones culturales), y ve por la mañana antes de que lleguen los autobuses turísticos y aumente el calor. Está a unos 15–20 minutos en coche/taxi desde el centro de Pattaya (Beach Road/Walking Street), o se puede llegar en songthaew y una breve caminata.

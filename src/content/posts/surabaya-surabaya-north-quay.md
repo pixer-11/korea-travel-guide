@@ -1,6 +1,6 @@
 ---
 title: "Surabaya North Quay: Travel Guide"
-description: "Surabaya North Quay (SNQ) is a rooftop deck in the Tanjung Perak port area offering wide-open views of container ships, tankers and cruise liners against the"
+description: Surabaya North Quay (SNQ) is a rooftop deck in the Tanjung Perak port area offering wide-open views of container ships, tankers and cruise liners against the Java Sea skyline.
 country: "Indonesia"
 region: "Surabaya"
 category: "attraction"

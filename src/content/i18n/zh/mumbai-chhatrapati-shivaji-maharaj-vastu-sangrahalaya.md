@@ -1,8 +1,9 @@
 ---
 lang: zh
 slug: mumbai-chhatrapati-shivaji-maharaj-vastu-sangrahalaya
+srcHash: 6eb57d63e1fd
 title: 贾特拉帕蒂·希瓦吉·马哈拉吉博物馆（Chhatrapati Shivaji Maharaj Vastu Sangrahalaya）：孟买旅行指南
-description: 贾特拉帕蒂·希瓦吉·马哈拉吉博物馆（Chhatrapati Shivaji Maharaj Vastu Sangrahalaya，原威尔士亲王博物馆）坐落在堡区（Fort）一栋带穹顶的印度-撒拉逊风格建筑内，距贾特拉帕蒂·希瓦吉终点站步行10分钟
+description: 贾特拉帕蒂·希瓦吉·马哈拉吉博物馆（Chhatrapati Shivaji Maharaj Vastu Sangrahalaya，原威尔士亲王博物馆）坐落在堡区（Fort）一栋带穹顶的印度-撒拉逊风格建筑内，距贾特拉帕蒂·希瓦吉终点站（Chhatrapati Shivaji Terminus）步行约10分钟。
 quickAnswer: 贾特拉帕蒂·希瓦吉·马哈拉吉博物馆（Chhatrapati Shivaji Maharaj Vastu Sangrahalaya，原威尔士亲王博物馆）坐落在堡区（Fort）一栋带穹顶的印度-撒拉逊风格建筑内，距贾特拉帕蒂·希瓦吉终点站（Chhatrapati Shivaji Terminus）步行约10分钟。参观雕塑、装饰艺术和自然历史展厅大约需要1.5至2.5小时；建议选在工作日上午前往，以避开旅游团人潮，因为这里是孟买参观人数最多的博物馆之一，并非什么冷门去处。出发前请务必确认最新的门票价格和开放时间，因为两者都会不定期调整。
 faq:
   - q: 乘火车怎么去博物馆？

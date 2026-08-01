@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: gyeongju-cafe-arae-heon
+srcHash: aa709bb45a9c
 title: Arae Heon咖啡馆：庆州旅行指南
 description: Arae Heon咖啡馆是位于庆州佛国寺（Bulguksa Temple）附近步佛路（Bobul-ro）上的一家韩屋风格咖啡馆，以大型韩屋窗景框住庭院与山景而闻名。
 quickAnswer: Arae Heon咖啡馆是位于庆州佛国寺（Bulguksa Temple）附近步佛路（Bobul-ro）上的一家韩屋风格咖啡馆，以大型韩屋窗景框住庭院与山景、传统风味点心，以及宁静上镜的氛围而闻名，在超过1,400条评论中获得了4.9分的高评价。建议安排1至1.5小时的游览时间，最好选在工作日上午或刚开门时前往，并可与佛国寺或石窟庵一并游览，因为两地都近在咫尺。

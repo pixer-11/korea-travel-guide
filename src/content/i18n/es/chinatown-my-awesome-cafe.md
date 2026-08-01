@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: chinatown-my-awesome-cafe
+srcHash: ce00816863d8
 title: 'My Awesome Cafe: Guía de viaje de Chinatown'
-description: My Awesome Cafe es un cafetería de todo el día muy bien valorada en 202 Telok Ayer St, en Chinatown, conocida por sus ensaladas y sándwiches artesanales y una sólida carta de vinos, servidos en
+description: My Awesome Cafe es una cafetería de todo el día muy bien valorada en 202 Telok Ayer St, en Chinatown, conocida por sus ensaladas y sándwiches artesanales y una sólida carta de vinos, servidos en un acogedor shophouse de decoración reciclada.
 quickAnswer: My Awesome Cafe es una cafetería de todo el día muy bien valorada en 202 Telok Ayer St, en Chinatown, conocida por sus ensaladas y sándwiches artesanales y una sólida carta de vinos, servidos en un acogedor shophouse de decoración reciclada. Es muy popular (4.7 estrellas, casi 8,000 reseñas), así que conviene ir un día laborable entre el almuerzo y la cena, o hay que contar con una espera los fines de semana. Reserva entre una hora y 90 minutos, y aprovecha la visita para pasear por los templos patrimoniales de Telok Ayer Street y los puestos de comida de Amoy Street.
 faq:
   - q: ¿Cómo llego a My Awesome Cafe en MRT?

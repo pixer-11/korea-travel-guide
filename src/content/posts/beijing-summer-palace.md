@@ -1,6 +1,6 @@
 ---
 title: "Summer Palace: Beijing Travel Guide"
-description: "Give the Summer Palace a full morning to early afternoon — enter at the East Gate (Dongong Men), walk the Long Corridor, climb to the Tower of Buddhist"
+description: Give the Summer Palace a full morning to early afternoon — enter at the East Gate (Dongong Men), walk the Long Corridor, climb to the Tower of Buddhist Incense on Longevity Hill, then loop back along Kunming Lake.
 country: "China"
 region: "Beijing"
 category: "attraction"

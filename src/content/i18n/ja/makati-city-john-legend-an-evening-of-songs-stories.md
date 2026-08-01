@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: makati-city-john-legend-an-evening-of-songs-stories
+srcHash: 59334dbed505
 title: ジョン・レジェンド「An Evening of Songs & Stories」公演ガイド(マカティ市)
 description: フィリピン・マカティ市で開催されるジョン・レジェンド「An Evening of Songs & Stories」(2026年9月3日〜4日)について。公演内容、日時・会場、そして当日の過ごし方の計画に役立つ情報をまとめました。
 quickAnswer: ジョン・レジェンドが親密な雰囲気のワールドツアー「An Evening of Songs & Stories」を携え、マカティ市のプロシニアム・シアター(Proscenium Theater)に2夜連続、2026年9月3日〜4日で登場します。本公演は着席・劇場形式のショーで、スタジアム規模のスペクタクルではなく、ピアノを中心としたシンプルなストーリーテリング構成となっているため、通常のアリーナ公演より小規模でフォーマルな客層が予想されます。当日の予定を立てる前に、正確な開演時間、開場時間、残りチケットの状況は公式チケット・会場チャンネルで必ずご確認ください。

@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: ras-al-khaimah-rukn-al-falafel-cafeteria
+srcHash: d891dca907dc
 title: Rukn Al Falafel Cafeteria：拉斯海玛美食指南
 description: Rukn Al Falafel Cafeteria是位于拉斯海玛（Ras Al Khaimah）Sidrow地区的一家朴实无华、柜台点餐式的阿拉伯小吃店，最适合快速便宜地来一份沙拉三明治或沙威玛，而非坐下来慢慢享用一顿正餐。
 quickAnswer: Rukn Al Falafel Cafeteria是位于拉斯海玛Sidrow地区的一家朴实无华、柜台点餐式的阿拉伯小吃店，最适合快速便宜地来一份沙拉三明治或沙威玛，而不是坐下来慢慢享用一顿正餐。凭借659条评论积累的4.3分评分和亲民的价位（价格等级2），当你在探索拉斯海玛较老旧的商业区、想吃点地道实惠又不繁复的东西而非酒店餐厅时，这里是个不错的选择。建议工作日午餐时段前往，这时沙拉最新鲜，等待时间也最短。

@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: milan-langosteria-montenapoleone
+srcHash: b30f829eea26
 title: '랑고스테리아 몬테나폴레오네: 밀라노 여행 가이드'
 description: 이탈리아 밀라노의 새롭게 떠오르는 핫플레이스, 랑고스테리아 몬테나폴레오네(Langosteria Montenapoleone) — 어떤 곳인지, 어디에 있는지, 어떻게 방문하면 되는지 안내합니다.
 quickAnswer: 랑고스테리아 몬테나폴레오네는 이 시푸드 그룹이 밀라노 콰드릴라테로 델라 모다(Quadrilatero della Moda, 패션 지구)의 심장부, 팔라초 펜디(Palazzo Fendi) 안에 새롭게 선보인 플래그십 매장으로, 비아 몬테나폴레오네(Via Montenapoleone)에서 몇 걸음 거리에 있습니다. 3개 층에 루프탑 테라스까지 갖췄고, 브랜드 최초의 칵테일 바를 선보이며 벌써부터 밀라노의 2026년 가장 기대되는 오픈 중 하나로 회자되고 있습니다. 이렇게 새롭고 화제성이 큰 만큼, 방문 전 예약을 하고 최신 영업시간을 꼭 확인하시기 바랍니다 — 세부 사항은 아직 정리되는 중입니다.

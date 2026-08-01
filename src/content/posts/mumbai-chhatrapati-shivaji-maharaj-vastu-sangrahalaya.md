@@ -1,6 +1,6 @@
 ---
 title: "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya: Mumbai Travel Guide"
-description: "The Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (formerly the Prince of Wales Museum) sits in a domed Indo-Saracenic building in Fort, a 10-minute walk"
+description: The Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (formerly the Prince of Wales Museum) sits in a domed Indo-Saracenic building in Fort, a 10-minute walk from Chhatrapati Shivaji Terminus.
 country: "India"
 region: "Mumbai"
 category: "attraction"

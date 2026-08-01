@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: siena-piazza-del-campo
+srcHash: 1007fa10f56e
 title: 田野广场：锡耶纳旅行指南
 description: 田野广场（Piazza del Campo）是锡耶纳呈扇贝形的中世纪广场，四周环绕着市政厅（Palazzo Pubblico）与曼吉亚塔（Torre del Mangia），也是帕利奥赛马节（Palio）的举办场地。
 quickAnswer: 田野广场（Piazza del Campo）是锡耶纳呈扇贝形的中世纪广场，四周环绕着市政厅（Palazzo Pubblico）与曼吉亚塔（Torre del Mangia），也是每年7月2日和8月16日帕利奥赛马节（Palio）的举办场地。这里非常热门，清晨7点到9点是相对安静的时段，此后旅行团便会陆续涌入；周末从上午11点到晚上11点一直人潮不断。初次游览安排45分钟到1小时即可，如果登塔或在斜坡上坐下来喝杯咖啡，则需要更长时间。

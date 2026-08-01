@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: clarke-quay-cq-clarke-quay
+srcHash: 1f0b14e5226b
 title: CQ @ クラーク・キー(Clarke Quay) 旅行ガイド
 description: CQ @ クラーク・キー(Clarke Quay)は、3 River Valley Roadに位置する、19世紀の倉庫群(ゴダウン、川沿いの倉庫)を改装した一角で、シンガポール川沿いのクラーク・キーのレストラン街とナイトライフの中心地です。
 quickAnswer: CQ @ クラーク・キー(Clarke Quay)は、3 River Valley Roadにある19世紀の倉庫群(ゴダウン、川沿いの倉庫)を改装した一角で、シンガポール川沿いのクラーク・キーのレストランとナイトライフの中心を担っています。昼は川沿いでの食事やバー、夜は特に木曜〜土曜に賑やかで混雑する雰囲気が楽しめます。ボート・キー(Boat Quay)やフォート・カニング・パーク(Fort Canning Park)への川沿いの散策と組み合わせるのがおすすめです。最寄り駅はクラーク・キー駅(北東線)、出口Eで、駅を出るとすぐ現地です。

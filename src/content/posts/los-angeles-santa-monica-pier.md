@@ -1,6 +1,6 @@
 ---
 title: 'Santa Monica Pier: Los Angeles Travel Guide'
-description: Santa Monica Pier is the wooden landmark at the western end of Route 66, home to Pacific Park's Ferris wheel, an arcade, a small aquarium, and a strip of
+description: Santa Monica Pier is the wooden landmark at the western end of Route 66, home to Pacific Park's Ferris wheel, an arcade, a small aquarium, and a strip of sea-facing snack stands.
 country: United States
 region: Los Angeles
 category: attraction

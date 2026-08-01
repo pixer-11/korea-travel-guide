@@ -1,6 +1,6 @@
 ---
 title: Khao San Sek in Bangkok
-description: Khao San Sek is a newly opened Bangkok restaurant led by Chef Pam that's already generating buzz for putting Thailand's five foundational ingredients — rice
+description: Khao San Sek is a newly opened Bangkok restaurant led by Chef Pam that's already generating buzz for putting Thailand's five foundational ingredients — rice, chili, coconut, fish sauce, and palm sugar — at the center of every dish.
 country: Thailand
 region: Bangkok
 category: restaurant

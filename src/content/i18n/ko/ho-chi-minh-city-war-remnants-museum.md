@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: ho-chi-minh-city-war-remnants-museum
+srcHash: 55f119ff7b57
 title: '전쟁 증적 박물관: 호치민시 여행 가이드'
 description: 전쟁 증적 박물관(War Remnants Museum)은 3군 보반떤 거리(Vo Van Tan Street) 28번지에 위치해 있으며, 통일궁에서 도보나 택시로 잠깐이면 도착하고 벤탄시장 일대에서는 약 10~15분 거리입니다.
 quickAnswer: 전쟁 증적 박물관(War Remnants Museum)은 3군 보반떤 거리(Vo Van Tan Street) 28번지에 위치해 있으며, 통일궁에서 도보나 택시로 잠깐이면 도착하고 벤탄시장(Ben Thanh Market) 일대에서는 약 10~15분 거리입니다. 야외에 전시된 군사 장비와 실내 사진 전시관을 둘러보려면 1.5~2.5시간 정도 여유를 두는 것이 좋으며, 전시 내용이 상당히 사실적이고 감정적으로 무겁게 다가올 수 있습니다. 단체 관광객이 몰리기 전, 그리고 한낮 더위를 피하려면 평일 오전 일찍 방문하는 것을 추천합니다.

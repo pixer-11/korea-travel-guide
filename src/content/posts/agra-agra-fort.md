@@ -1,6 +1,6 @@
 ---
 title: "Agra Fort: Travel Guide"
-description: "Agra Fort is the red-sandstone Mughal citadel on the Yamuna River, about 2.5km from the Taj Mahal — plan 2 to 2.5 hours, go right at opening to beat both"
+description: Agra Fort is the red-sandstone Mughal citadel on the Yamuna River, about 2.5km from the Taj Mahal — plan 2 to 2.5 hours, go right at opening to beat both heat and tour-bus crowds, and enter through the Amar Singh Gate (the only public entrance).
 country: "India"
 region: "Agra"
 category: "hidden-gem"

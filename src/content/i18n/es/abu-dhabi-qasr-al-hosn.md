@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: abu-dhabi-qasr-al-hosn
+srcHash: 2cb8d4d22806
 title: 'Qasr Al Hosn: Guía de viaje de Abu Dabi'
-description: 'Qasr Al Hosn es el edificio de piedra más antiguo de Abu Dabi: un fuerte encalado convertido en palacio y luego en museo, en pleno centro, sobre Rashid Bin Saeed Al Maktoum'
+description: 'Qasr Al Hosn es el edificio de piedra más antiguo de Abu Dabi: un fuerte encalado convertido en palacio y luego en museo, en pleno centro, en la calle Rashid Bin Saeed Al Maktoum (Segunda Calle), en el distrito de Al Hisn.'
 quickAnswer: 'Qasr Al Hosn es el edificio de piedra más antiguo de Abu Dabi: un fuerte encalado convertido en palacio y luego en museo, en pleno centro, en la calle Rashid Bin Saeed Al Maktoum (Segunda Calle), en el distrito de Al Hisn. Calcula entre 1,5 y 2 horas para ver el Fuerte Interior, el ala del Palacio y las excelentes exposiciones sobre la historia del emirato antes del petróleo; ve un día de semana por la mañana para evitar las multitudes que atrae su reputación de 4,6 estrellas.'
 faq:
   - q: ¿Cómo llego a Qasr Al Hosn sin coche?

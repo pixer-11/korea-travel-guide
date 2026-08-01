@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: taipei-official-hige-dandism-asia-tour-2026-taipei
+srcHash: 68e94400fd65
 title: 'Official HIGE DANDism 아시아 투어 2026 – 타이베이: 알아두어야 할 것들 (타이베이)'
 description: 2026년 8월 29일-30일, 대만 타이베이에서 열리는 Official HIGE DANDism 아시아 투어 2026 – 타이베이 공연. 공연 개요와 일정·장소, 그리고 여행 계획 시 참고할 사항을 안내합니다.
 quickAnswer: '"Pretender"와 "Cry Baby" 등의 히트곡으로 잘 알려진 일본의 5인조 팝록 밴드 Official HIGE DANDism이 2026년 아시아 투어의 일환으로 2026년 8월 29일과 30일 이틀간 타이베이 돔(Taipei Dome)에서 공연을 갖습니다. 신곡 "Stardust"와 "Elderflower"도 이번 공연에서 처음 라이브로 선보일 것으로 예상됩니다. 티켓 판매, 정확한 오픈·공연 시각, 좌석 배치도는 아직 확정되지 않았으니 항공권과 숙소를 예약하기 전에 밴드 공식 사이트와 대만의 공식 티켓 판매 플랫폼에서 반드시 최신 정보를 확인하시기 바랍니다.'

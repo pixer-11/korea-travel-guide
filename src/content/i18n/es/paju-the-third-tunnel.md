@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: paju-the-third-tunnel
+srcHash: 270a6bb3e179
 title: 'El Tercer Túnel: Guía de viaje de Paju'
 description: El Tercer Túnel es un túnel de infiltración excavado por Corea del Norte dentro de la DMZ, cerca de Paju, y se visita mejor como parte de un tour guiado de medio día o de día completo desde Seúl.
 quickAnswer: El Tercer Túnel es un túnel de infiltración excavado por Corea del Norte dentro de la DMZ, cerca de Paju, y se visita mejor como parte de un tour guiado de medio día o de día completo desde Seúl (el acceso individual está restringido). Reserva entre 1,5 y 2 horas para la visita, usa calzado cerrado para el recorrido subterráneo y lleva tu pasaporte, que es obligatorio para entrar en la zona de la DMZ.

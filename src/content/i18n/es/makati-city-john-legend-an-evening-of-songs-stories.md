@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: makati-city-john-legend-an-evening-of-songs-stories
+srcHash: 59334dbed505
 title: 'John Legend: An Evening of Songs & Stories: lo que hay que saber (Makati City)'
 description: 'John Legend: An Evening of Songs & Stories en Makati City, Filipinas — 3 y 4 de septiembre de 2026. Qué es, cuándo y dónde es, y cómo organizar tu noche.'
 quickAnswer: John Legend trae su íntima gira mundial "An Evening of Songs & Stories" al Proscenium Theater en Makati City durante dos noches, el 3 y 4 de septiembre de 2026. Se trata de un espectáculo con asientos, de formato teatral, construido en torno a una narración despojada al piano en lugar de un espectáculo de estadio, así que espera un público más reducido y formal que en un concierto típico de arena — confirma los horarios exactos, la apertura de puertas y las entradas disponibles en los canales oficiales de venta de entradas y del recinto antes de planear tu noche.

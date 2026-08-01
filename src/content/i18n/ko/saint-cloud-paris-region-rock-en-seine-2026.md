@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: saint-cloud-paris-region-rock-en-seine-2026
+srcHash: 7f87bdc7a7f3
 title: '2026 록 앙 센(Rock en Seine): 알아둘 것들 (생클루, 파리)'
 description: 2026 록 앙 센은 2026년 8월 26일부터 30일까지 파리 서쪽 생클루 국립 공원(Domaine national de Saint-Cloud)에서 열리며, 더 큐어(The Cure), 닉 케이브 앤 더 배드 시즈(Nick Cave & The Bad Seeds), 타일러 더 크리에이터(Tyler, the Creator)가 헤드라이너로 나섭니다.
 quickAnswer: 2026 록 앙 센은 2026년 8월 26일부터 30일까지 파리 서쪽 생클루 국립 공원(Domaine national de Saint-Cloud)에서 열리며, 더 큐어(The Cure), 닉 케이브 앤 더 배드 시즈(Nick Cave & The Bad Seeds), 타일러 더 크리에이터(Tyler, the Creator)가 헤드라이너로 나서고 데프톤즈(Deftones), 턴스타일(Turnstile) 등이 함께합니다. 파리를 거점으로 삼아 RER C선을 타고 생클루역(Saint-Cloud)까지 이동한 뒤 걷거나 셔틀버스를 이용해 공원까지 올라가면 됩니다. 다만 페스티벌 라인업과 운영 사항은 계속 바뀔 수 있으니 예약 전 반드시 록 앙 센 공식 사이트에서 정확한 날짜, 무대 시간, 티켓 등급을 확인하세요.

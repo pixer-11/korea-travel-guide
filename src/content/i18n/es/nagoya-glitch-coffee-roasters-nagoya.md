@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: nagoya-glitch-coffee-roasters-nagoya
+srcHash: 71f320feecfb
 title: 'GLITCH COFFEE & ROASTERS: Guía de viaje de Nagoya'
-description: GLITCH COFFEE & ROASTERS Nagoya es un café de especialidad en Meieki (barrio de Nakamura), a poca distancia a pie de la estación de Nagoya, conocido por sus tuestes de origen único
+description: GLITCH COFFEE & ROASTERS Nagoya es un café de especialidad en Meieki (barrio de Nakamura), a poca distancia a pie de la estación de Nagoya, conocido por sus tuestes de origen único claros a medios y su montaje minimalista de barra, ideal para tomar de pie o en taburetes altos.
 quickAnswer: GLITCH COFFEE & ROASTERS Nagoya es un café de especialidad en Meieki (barrio de Nakamura), a poca distancia a pie de la estación de Nagoya, conocido por sus tuestes de origen único claros a medios y su montaje minimalista de barra, ideal para tomar de pie o en taburetes altos. Conviene ir un día laborable por la mañana para conseguir sitio y poder hablar con el personal sobre las opciones de grano; calcula entre 20 y 40 minutos para disfrutar de un café de filtro o una bebida a base de espresso. Tiene una valoración de 4,4 sobre más de 651 reseñas, lo que refleja su reputación como una de las paradas de café más serias del centro de Nagoya.
 faq:
   - q: ¿Cómo llego a GLITCH COFFEE & ROASTERS Nagoya desde la estación?

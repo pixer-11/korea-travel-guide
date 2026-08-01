@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: malacca-menara-taming-sari
+srcHash: f5230f0fe373
 title: 'Menara Taming Sari: Guía de Viaje de Malaca'
 description: Menara Taming Sari es la torre giratoria de 80 metros en Jalan Merdeka, en Banda Hilir, justo al lado de la desembocadura del río Malaca y a 5 minutos a pie de A Famosa.
 quickAnswer: Menara Taming Sari es la torre giratoria (gyro tower) de 80 metros en Jalan Merdeka, en Banda Hilir, justo al lado de la desembocadura del río Malaca y a 5 minutos a pie de A Famosa y del Stadthuys. El recorrido dura unos 7 minutos, mientras la cápsula cerrada gira lentamente hacia arriba y vuelve a bajar, ofreciendo una vista de 360 grados sobre el casco antiguo, el estrecho de Malaca y las grúas del puerto a lo lejos. Es extremadamente popular, así que conviene ir en la primera hora tras la apertura o justo antes del atardecer para evitar las peores colas.

@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: nagoya-atsuta-horaiken-honten
+srcHash: 3cf964886a50
 title: 热田蓬莱轩本店:名古屋美食指南
 description: 位于名古屋热田神宫(Atsuta Jingu)附近的热田蓬莱轩本店,是名物“hitsumabushi”(蒲烧鳗鱼盖饭,分三种方式食用)的发源地。
 quickAnswer: 位于名古屋热田神宫(Atsuta Jingu)附近的热田蓬莱轩本店(Atsuta Hōraiken Honten),是hitsumabushi(蒲烧鳗鱼盖饭)的发源地——鳗鱼烤后刷上酱油basedGlaze铺在米饭上,分三种方式食用。这里需要排队等候(本店午餐不接受预约),人均消费约¥5,000–7,000,吃完整套餐大约需要45–60分钟。建议空腹前往、尽早抵达,并可将行程与热田神宫的散步结合起来。

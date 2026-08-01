@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: suwon-yeonmudae-dongjangdae-eastern-command-post
+srcHash: 2d0b0d05caa6
 title: 'Yeonmudae (Dongjangdae, el Puesto de Mando Oriental): Guía de viaje de Suwon'
-description: Yeonmudae (también llamado Dongjangdae, el Puesto de Mando Oriental) es un campo de entrenamiento militar y tiro con arco dentro de la Fortaleza de Hwaseong en Suwon, cuya visita es ideal
+description: Yeonmudae (también llamado Dongjangdae, el Puesto de Mando Oriental) es un campo de entrenamiento militar y tiro con arco dentro de la Fortaleza de Hwaseong en Suwon, cuya visita es ideal combinar con un paseo por las murallas de la fortaleza desde la Puerta Janganmun.
 quickAnswer: Yeonmudae (también llamado Dongjangdae, el Puesto de Mando Oriental) es un campo de entrenamiento militar y tiro con arco dentro de la Fortaleza de Hwaseong en Suwon, cuya visita es ideal combinar con un paseo por las murallas de la fortaleza desde la Puerta Janganmun. Calcula entre 30 y 45 minutos aquí, más tiempo si pruebas el campo de tiro con arco, y combínalo con la cercana compuerta Hwahongmun y la Puerta Yeonpung para una excursión de medio día. La entrada a esta sección suele ser gratuita o estar incluida en la económica entrada general a la Fortaleza de Hwaseong, pero confirma los horarios actuales antes de ir.
 faq:
   - q: ¿Cómo llego a Yeonmudae sin coche?

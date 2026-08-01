@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: hiroshima-itsukushima-jinja
+srcHash: c75456dc5b56
 title: 严岛神社:广岛旅游指南
 description: 严岛神社坐落于广岛湾的宫岛上,可从宫岛口站乘坐JR渡轮抵达,以其涨潮时仿佛漂浮在海面上的朱红色鸟居而闻名。
 quickAnswer: 严岛神社坐落于广岛湾的宫岛(Miyajima)上,可从宫岛口站(Miyajimaguchi Station)乘坐JR渡轮抵达,以其涨潮时仿佛漂浮在海面上的朱红色鸟居而闻名。建议安排半天行程:出发前查好潮汐表,以便看到鸟居被海水淹没(涨潮)或可步行抵达(退潮)的景象,并在清晨游客大量涌入之前到达。可将其与弥山(Mt. Misen)缆车及有鹿群出没的海滨区域结合,安排一次完整的宫岛一日游。

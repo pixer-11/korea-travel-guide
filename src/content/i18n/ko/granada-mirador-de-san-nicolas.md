@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: granada-mirador-de-san-nicolas
+srcHash: 95142c48a009
 title: '산 니콜라스 전망대(Mirador de San Nicolás): 그라나다 여행 가이드'
 description: 산 니콜라스 전망대(Mirador de San Nicolás)는 알바이신(Albaicín)에 위치한 광장으로, 시에라 네바다(Sierra Nevada)를 배경으로 알람브라(Alhambra)의 성벽이 겹겹이 펼쳐지는 그라나다의 대표적인 엽서 속 풍경을 볼 수 있는 곳입니다.
 quickAnswer: 산 니콜라스 전망대(Mirador de San Nicolás)는 알바이신(Albaicín)에 위치한 광장으로, 시에라 네바다(Sierra Nevada)를 배경으로 알람브라(Alhambra)의 성벽이 겹겹이 펼쳐지는 그라나다의 대표적인 엽서 속 풍경을 볼 수 있는 곳입니다. 매일 하루 종일 개방되어 있지만, 테라스를 여유롭게 즐기고 싶다면 오전 7시에서 10시 사이에 가는 것이 좋습니다 — 주말에는 정오부터 거의 자정까지 인파로 발 디딜 틈이 없습니다. 일몰 풍경은 마법 같지만 동시에 이곳에서 가장 붐비는 순간이기도 하니, 벽 쪽에 자리를 잡으려면 최소 45~60분 전에는 도착하세요.

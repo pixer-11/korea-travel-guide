@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: siargao-cloud-9-surfing-area
+srcHash: 2e8c752065f3
 title: 'Zona de Surf Cloud 9: Guía de Viaje de Siargao'
 description: Cloud 9 es el rompiente de arrecife emblemático de Siargao, a las afueras de General Luna, célebre por sus tubos huecos y su icónico malecón de madera que se adentra en el Pacífico.
 quickAnswer: Cloud 9 es el rompiente de arrecife emblemático de Siargao, a las afueras de General Luna, célebre por sus tubos huecos y su icónico malecón de madera que se adentra en el Pacífico. Quienes no practican surf vienen a ver el amanecer y el atardecer desde la torre mirador, mientras que los surfistas de todos los niveles pueden alquilar tablas o reservar un instructor en la misma playa. Es un lugar muy conocido y concurrido, así que conviene ir temprano por la mañana (antes de las 8 a. m.) o al final de la tarde para verlo en su mejor momento.

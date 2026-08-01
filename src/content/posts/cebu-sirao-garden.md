@@ -1,6 +1,6 @@
 ---
 title: "Sirao Garden: Cebu Travel Guide"
-description: "Sirao Garden (\"Little Amsterdam\") sits high in the mountains of Barangay Sirao, about 45–60 minutes by car from downtown Cebu City, and is best visited on a"
+description: Sirao Garden ("Little Amsterdam") sits high in the mountains of Barangay Sirao, about 45–60 minutes by car from downtown Cebu City, and is best visited on a weekday morning when the flower fields are freshly watered and the crowds haven't yet arrived.
 country: "Philippines"
 region: "Cebu"
 category: "hidden-gem"

@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: ho-chi-minh-city-hai-s-restaurant
+srcHash: e37d7da8e499
 title: '하이스 레스토랑(Hai''s Restaurant): 호치민시 맛집 가이드'
 description: 하이스 레스토랑(Hai's Restaurant)은 1군(District 1) 벤탄(Bến Thành) 지구 257 Lý Tự Trọng에 위치한, 벤탄 시장에서 도보로 가까운 오랜 전통의 베트남 음식점으로 외국인 거주자와 여행객 모두에게 인기가 높습니다.
 quickAnswer: 하이스 레스토랑(Hai's Restaurant)은 1군(District 1) 벤탄(Bến Thành) 지구 257 Lý Tự Trọng에 위치한, 벤탄 시장(Ben Thanh Market)에서 도보로 잠깐이면 갈 수 있는 오랜 전통의 베트남 음식점으로, 외국인 거주자와 여행객 모두에게 오랫동안 사랑받아 왔습니다. 스프링롤, 쌀국수(pho), 뚝배기 요리, 해산물 등 부담 없이 즐길 수 있는 베트남 대표 요리를 여유로운 안뜰 분위기 속에서 맛볼 수 있는 곳으로 유명하며, 수천 건의 리뷰에서 꾸준히 거의 만점에 가까운 평점을 받고 있습니다. 붐비는 시간을 피하려면 이른 저녁(오후 6~7시)에 방문하고, 주말에는 미리 예약하는 것이 좋습니다.

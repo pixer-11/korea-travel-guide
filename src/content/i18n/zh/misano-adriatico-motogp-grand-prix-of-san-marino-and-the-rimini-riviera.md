@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: misano-adriatico-motogp-grand-prix-of-san-marino-and-the-rimini-riviera
+srcHash: 5244f303b7eb
 title: 圣马力诺MotoGP大奖赛与里米尼海岸攻略（米萨诺阿德里亚蒂科）
 description: 2026年9月11日至13日，MotoGP圣马力诺大奖赛将在意大利米萨诺阿德里亚蒂科（Misano Adriatico）举行——赛事内容、时间地点，以及如何安排行程。
 quickAnswer: MotoGP圣马力诺大奖赛将于2026年9月11日至13日重返马尔科·西蒙切利米萨诺世界赛道（Misano World Circuit Marco Simoncelli），周五进行练习赛，周六举行排位赛和冲刺赛，周日下午进行正赛。建议将米萨诺阿德里亚蒂科（Misano Adriatico）或里乔内（Riccione）作为落脚点，并尽早预订住宿，因为这个周末整个里米尼海岸都会一房难求。出发前请务必在MotoGP官网和赛道官网确认具体赛程和门票信息。

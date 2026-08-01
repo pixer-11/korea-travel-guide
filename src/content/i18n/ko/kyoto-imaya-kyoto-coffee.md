@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: kyoto-imaya-kyoto-coffee
+srcHash: b1c99289b161
 title: 'IMAYA Kyoto &COFFEE: 여행 가이드'
 description: IMAYA Kyoto &COFFEE는 나카교구(Nakagyo Ward)에 위치한 아기자기하고 디자인이 돋보이는 카페로, 이탈리안 스타일 에스프레소 음료와 내추럴 와인, 맥주, 가벼운 요깃거리를 제공합니다.
 quickAnswer: IMAYA Kyoto &COFFEE는 나카교구(Nakagyo Ward)에 위치한 아기자기하고 디자인이 돋보이는 카페로, 콘크리트와 나무를 활용한 미니멀한 공간에서 이탈리안 스타일 에스프레소 음료와 내추럴 와인, 맥주, 가벼운 요깃거리를 즐길 수 있습니다. 자리를 잡으려면 평일 오전 중에 방문하는 것이 가장 좋고, 몇 분 거리에 있는 니시키 시장(Nishiki Market)이나 데라마치(Teramachi) 상점가 산책과도 잘 어울립니다. 커피 한 잔을 위해서는 30~45분 정도, 간단한 안주나 음료를 함께 즐기며 여유를 부리고 싶다면 그보다 더 여유를 두는 것이 좋습니다.

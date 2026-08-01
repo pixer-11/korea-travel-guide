@@ -1,6 +1,6 @@
 ---
 title: 'Arte Museum Valley: Gangneung Travel Guide'
-description: Arte Museum Valley is a large-scale digital art museum in Gangneung's Nanseolheon-ro area, where immersive light-and-sound installations fill a series of
+description: Arte Museum Valley is a large-scale digital art museum in Gangneung's Nanseolheon-ro area, where immersive light-and-sound installations fill a series of dark exhibition halls.
 country: South Korea
 region: Gangneung
 category: hidden-gem

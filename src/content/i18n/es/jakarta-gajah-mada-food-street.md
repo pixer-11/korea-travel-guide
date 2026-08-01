@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: jakarta-gajah-mada-food-street
+srcHash: a9ef6a654fb4
 title: 'Gajah Mada Food Street: dónde comer en Yakarta'
 description: Gajah Mada Food Street es un patio de comidas al aire libre y de categoría superior en Jl. Gajah Mada No. 83, en Yakarta.
 quickAnswer: Gajah Mada Food Street es un patio de comidas al aire libre y de categoría superior ubicado en Jl. Gajah Mada No. 83, en la zona de Krukut, contigua al antiguo barrio chino de Yakarta (Jakarta Occidental). Combina puestos de comida indonesia, chino-indonesia y occidental, con cerveza fría servida bajo un amplio techado con asientos. Ve un día entre semana (martes a jueves) alrededor de las 6:30–8 pm para disfrutar de buen ambiente sin largas esperas, y calcula precios de rango medio (calificación de 4.5 con casi 2,900 reseñas). Reserva entre 1 y 1.5 horas, e ideal combinarlo con una caminata por Glodok o Pancoran para el postre.

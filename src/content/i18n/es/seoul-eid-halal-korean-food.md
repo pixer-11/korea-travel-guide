@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: seoul-eid-halal-korean-food
+srcHash: 4c2537abdb75
 title: 'EID Halal Korean Food: dónde comer en Seúl'
 description: EID Halal Korean Food es un local pequeño y sin pretensiones en la zona de Usadan-ro, en Itaewon (cerca de la Mezquita Central de Seúl), que sirve platos coreanos con certificación halal.
 quickAnswer: 'EID Halal Korean Food es un local pequeño y sin pretensiones en la zona de Usadan-ro, en Itaewon (cerca de la Mezquita Central de Seúl), que sirve platos coreanos con certificación halal como bulgogi halal, dak-galbi y pollo frito coreano. Ve a comer o a cenar temprano; dada su reputación de 4,5 estrellas con casi 1.200 reseñas, es probable que haya una espera corta, y aprovecha para combinar la comida con un paseo hasta la mezquita y la calle-mercado de Islam Central Masjid. El presupuesto es de gama media (nivel de precio 2): calcula entre ₩10.000 y ₩20.000 por plato.'

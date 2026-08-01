@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: cebu-sirao-garden
+srcHash: 8f4524bbe3c9
 title: 锡拉奥花园：宿务旅行指南
 description: 锡拉奥花园（"小阿姆斯特丹"）位于宿务市（Cebu City）市中心车程约45-60分钟的锡拉奥village（Barangay Sirao）山区，最适合在平日早晨前往。
 quickAnswer: 锡拉奥花园（"小阿姆斯特丹"）坐落在锡拉奥village（Barangay Sirao）的高山上，距离宿务市（Cebu City）市中心车程约45-60分钟，最好选在平日早晨前往，此时花田刚浇过水，游客也还未大量涌入。游览鸡冠花、万寿菊和向日葵花丛大约需要1到1.5小时，此外还有一些需要单独付费的拍照打卡装置。如今这里已是知名且游客众多的景点，而非未被发现的秘境，因此把握好游览时间比找到这个地方更重要。

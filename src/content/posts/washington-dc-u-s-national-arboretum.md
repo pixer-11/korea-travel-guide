@@ -1,6 +1,6 @@
 ---
 title: "U.S. National Arboretum: Washington DC Travel Guide"
-description: "The U.S. National Arboretum, at 3501 New York Ave NE in Northeast DC, is a free 446-acre research garden best known for its 22 salvaged Corinthian columns"
+description: The U.S. National Arboretum, at 3501 New York Ave NE in Northeast DC, is a free 446-acre research garden best known for its 22 salvaged Corinthian columns and its world-class National Bonsai & Penjing Museum.
 country: "United States"
 region: "Washington DC"
 category: "hidden-gem"

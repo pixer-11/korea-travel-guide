@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: siargao-cloud-9-surfing-area
+srcHash: 2e8c752065f3
 title: Cloud 9冲浪区：锡亚高旅行指南
 description: Cloud 9是锡亚高（Siargao）标志性的礁石浪点，就在General Luna外围，以中空的管浪和伸入太平洋的标志性木栈道而闻名。
 quickAnswer: Cloud 9是锡亚高（Siargao）标志性的礁石浪点，就在General Luna外围，以中空的管浪和伸入太平洋的标志性木栈道而闻名。不冲浪的人也会来这里的观景塔看日出日落，而各个水平的冲浪者都可以直接在海滩上租板或预约教练。这里名气大、人也多，建议尽量赶在清晨（早上8点前）或傍晚时分前往，才能看到它最美的样子。

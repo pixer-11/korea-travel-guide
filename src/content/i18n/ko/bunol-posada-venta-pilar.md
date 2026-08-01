@@ -1,8 +1,9 @@
 ---
 lang: ko
 slug: bunol-posada-venta-pilar
+srcHash: 683a87a913c4
 title: '포사다 벤타 필라르: 부뇰(Buñol) 맛집 탐방'
-description: 포사다 벤타 필라르(Posada Venta Pilar)는 아베니다 페레스 갈도스(Av. Pérez Galdós)에 위치한 17세기 여관으로, 부뇰(Buñol) 구시가지와 유명한 토마티나(Tomatina) 축제 코스에서 도보로 가까우며, 정성 가득한
+description: 포사다 벤타 필라르(Posada Venta Pilar)는 아베니다 페레스 갈도스(Av. Pérez Galdós)에 자리한 17세기 여관으로, 부뇰(Buñol) 구시가지와 유명한 토마티나(Tomatina) 축제 코스에서 걸어서 잠깐이면 갈 수 있는 거리에 있습니다.
 quickAnswer: 포사다 벤타 필라르(Posada Venta Pilar)는 아베니다 페레스 갈도스(Av. Pérez Galdós)에 자리한 17세기 여관으로, 부뇰(Buñol) 구시가지와 유명한 토마티나(Tomatina) 축제 코스에서 걸어서 잠깐이면 갈 수 있는 거리에 있습니다. 돌로 된 안뜰을 둘러싸고 정성 가득한 발렌시아 가정식을 선보이는 곳이죠. 숨겨진 맛집이라기보다는 이미 널리 알려진 곳이라, 주말과 8월 말 토마티나 기간에는 인파가 몰리니 미리 예약해두는 것이 좋습니다. 아로스 알 오르노(arroz al horno)나 긴 런치 메뉴를 즐긴 뒤, 부뇰의 성곽 지구를 둘러보세요.
 faq:
   - q: 포사다 벤타 필라르는 예약이 필요한가요?

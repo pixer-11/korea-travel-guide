@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: okinawa-philippines-street-food-gonta
+srcHash: 967e7071e934
 title: 菲律宾街头小吃 Gonta：冲绳美食新去处
 description: 菲律宾街头小吃 Gonta 是位于冲绳西海岸美国村一带、北谷町的一家小型菲律宾街头小吃摊——是深受欢迎的...
 quickAnswer: 菲律宾街头小吃 Gonta 是位于冲绳西海岸美国村一带、北谷町的一家小型菲律宾街头小吃摊——是深夜享用烤肉串、春卷（lumpia）和什锦刨冰（halo-halo）的热门去处。该店获得 64 条评价，评分 4.5，最适合作为 Sunset Beach 附近夜生活前后的随性一站，接受现金支付更方便。建议预留 20–40 分钟，并且不要吃得太饱，留点肚子分享几份小吃更合适。

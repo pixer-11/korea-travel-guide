@@ -1,6 +1,6 @@
 ---
 title: "Cascade du Château: Nice Travel Guide"
-description: "The Cascade du Château is the waterfall you spot from the Promenade des Anglais, tumbling down the cliff face of Colline du Château, Nice's old castle hill"
+description: The Cascade du Château is the waterfall you spot from the Promenade des Anglais, tumbling down the cliff face of Colline du Château, Nice's old castle hill park.
 country: "France"
 region: "Nice"
 category: "hidden-gem"

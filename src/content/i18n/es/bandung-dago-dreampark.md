@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: bandung-dago-dreampark
+srcHash: abf76fce55ae
 title: 'Dago Dreampark: guía de viaje de Bandung'
-description: Dago Dreampark es un parque de aventuras en un bosque de pinos sobre la carretera Bandung–Lembang, conocido sobre todo por sus circuitos de ATV, paintball y rincones temáticos para fotos como columpios gigantes
+description: Dago Dreampark es un parque de aventuras en un bosque de pinos sobre la carretera Bandung–Lembang, conocido sobre todo por sus circuitos de ATV, paintball y rincones temáticos para fotos como columpios gigantes y plataformas con vistas al cielo.
 quickAnswer: Dago Dreampark es un parque de aventuras en un bosque de pinos sobre la carretera Bandung–Lembang, conocido sobre todo por sus circuitos de ATV, paintball y rincones temáticos para fotos como columpios gigantes y plataformas con vistas al cielo. Calcula entre 2 y 4 horas, ve un día de semana por la mañana para evitar las grandes multitudes de fin de semana, y lleva efectivo para las actividades adicionales de pago, ya que la entrada base no cubre la mayoría de las atracciones.
 faq:
   - q: ¿Cómo llego a Dago Dreampark sin auto?

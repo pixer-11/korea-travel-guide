@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: chiang-mai-wat-chedi-luang
+srcHash: be9c1409e219
 title: 'Wat Chedi Luang: Guía de viaje de Chiang Mai'
 description: Wat Chedi Luang, en el corazón de la ciudad antigua (Old City) de Chiang Mai, en Prapokklao Road, es una visita obligada por su enorme chedi del siglo XV, parcialmente en ruinas, y el santuario del pilar de la ciudad.
 quickAnswer: Wat Chedi Luang, en el corazón de la ciudad antigua (Old City) de Chiang Mai, en Prapokklao Road, es una visita obligada por su enorme chedi del siglo XV, parcialmente en ruinas, y el santuario del pilar de la ciudad (lak mueang) en su recinto. Reserva entre 45 y 90 minutos, ve a primera hora de la mañana o al final de la tarde para evitar el calor y las multitudes, y combínalo con un paseo hasta el cercano Wat Phra Singh o el mercado nocturno de los domingos (Sunday Walking Street). La entrada tiene un costo modesto que se paga en efectivo en la puerta; lleva billetes pequeños y ve con hombros y rodillas cubiertos.

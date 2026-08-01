@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: bangkok-treehouse-cafe-bar
+srcHash: dcf1980f13ee
 title: Treehouse Cafe & Bar：バンコク旅行ガイド
 description: Treehouse Cafe & Barは、ワッタナー(Watthana)区のスクンビット・ソイ31(Sukhumvit Soi 31)の奥にひっそりと佇む、ジャングルをテーマにしたカフェ。つる植物やイルミネーションの下でテーブルを確保するなら、夕方の混雑前の平日午後がベストです。
 quickAnswer: Treehouse Cafe & Barは、ワッタナー(Watthana)区のスクンビット・ソイ31(Sukhumvit Soi 31)の奥にひっそりと佇む、ジャングルをテーマにしたカフェです。夕方の混雑が始まる前に、つる植物とイルミネーションに囲まれたテーブルを確保するなら、平日午後の訪問がベスト。プロンポン(Phrom Phong)BTS駅から徒歩10〜15分(またはタクシーですぐ)の距離にあり、2,600件を超えるレビューで4.9の評価を誇るため、事前予約か週末は早めの来店をおすすめします。コーヒーと写真撮影なら1〜1.5時間、夕食やお酒まで楽しむならもう少し時間の余裕を見ておきましょう。

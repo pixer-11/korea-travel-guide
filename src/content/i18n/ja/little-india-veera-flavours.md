@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: little-india-veera-flavours
+srcHash: 037daa8ac29f
 title: ヴィーラ・フレーバーズ:リトルインディアのおすすめグルメスポット
 description: ヴィーラ・フレーバーズ(Veera Flavours)は、リトルインディア(Little India)の中心部、41 Kerbau Roadに位置する高評価(星4.7、レビュー約2,000件)の南インド菜食レストラン。
 quickAnswer: ヴィーラ・フレーバーズ(Veera Flavours)は、リトルインディア(Little India)の中心部、41 Kerbau Roadにある高評価(星4.7、レビュー約2,000件)の南インド菜食レストランで、バナナリーフミール、ドーサ、ターリーセットなどを中価格帯で楽しめることで知られています。ランチタイムの混雑を避けたいなら、平日の11:30amごろか2:30pm以降の来店がおすすめ。食後はKerbau RoadやCampbell Laneの散策と組み合わせるのもよいでしょう。リトルインディア駅(Little India MRT、出口AまたはE)から徒歩5分とアクセスも便利です。

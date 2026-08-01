@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: sapporo-sapporo-tv-tower
+srcHash: 45c78232d53e
 title: 삿포로 TV타워 여행 가이드
 description: 삿포로 TV타워(Sapporo TV Tower)는 주오구(Chuo Ward) 오도리 공원(Odori Park) 동쪽 끝에 위치하며, 공원과 모이와산(Mt. Moiwa), 이시야마도리(Ishiyama-dori)가 산맥을 향해 뻗어 있는 풍경을 감상하기에는 일몰 무렵이 가장 좋습니다.
 quickAnswer: 삿포로 TV타워(Sapporo TV Tower)는 주오구(Chuo Ward) 오도리 공원(Odori Park) 동쪽 끝에 위치하며, 공원과 모이와산(Mt. Moiwa), 그리고 산 쪽으로 뻗어 있는 이시야마도리(Ishiyama-dori) 격자 시가지를 조망하기에는 일몰 무렵이 가장 좋습니다. 전망대는 지상 약 90미터 높이에 있으며 관람에는 30~45분 정도 소요됩니다. 오도리 공원 산책이나 모이와산 로프웨이(Mt. Moiwa Ropeway)를 타고 더 높고 넓은 파노라마를 즐기는 코스와 함께 묶어 보세요. 티켓은 현장에서 구매할 수 있으며(운영 시간과 요금은 계절에 따라 바뀌므로 방문 전 공식 사이트에서 확인하는 것이 좋습니다).

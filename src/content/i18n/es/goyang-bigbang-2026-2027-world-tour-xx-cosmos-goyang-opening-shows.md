@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: goyang-bigbang-2026-2027-world-tour-xx-cosmos-goyang-opening-shows
+srcHash: efbfdd785e52
 title: 'Gira Mundial de BIGBANG 2026-2027 “XX: COSMOS” - Shows de apertura en Goyang: Lo que hay que saber (Goyang)'
 description: 'Gira Mundial de BIGBANG 2026-2027 “XX: COSMOS” - Shows de apertura en Goyang, Corea del Sur — 21 al 23 de agosto de 2026. Qué es, cuándo y dónde, y cómo planificar tu visita.'
 quickAnswer: 'BIGBANG ofrece tres shows de estadio en el Goyang Stadium los días 21, 22 y 23 de agosto de 2026, como parte de su gira mundial "XX: COSMOS", que celebra 20 años desde su debut. El acceso más cercano es a través de la estación Wonheung (Línea 3 del metro de Seúl), y debes confirmar los horarios exactos de apertura de puertas, la ubicación de los asientos y los enlaces de compra de entradas únicamente a través de los canales oficiales de BIGBANG/YG una vez que se publiquen.'

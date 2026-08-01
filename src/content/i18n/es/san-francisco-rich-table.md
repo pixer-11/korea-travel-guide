@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: san-francisco-rich-table
+srcHash: e18e18151624
 title: 'Rich Table: dónde comer en San Francisco'
-description: Rich Table, en Gough Street, en el límite de Hayes Valley, es un local que solo abre para cenas, requiere reserva y ofrece cocina californiana innovadora (piensa en dónuts de porcini
+description: Rich Table, en Gough Street, en el límite de Hayes Valley, es un local que solo abre para cenas, requiere reserva y ofrece cocina californiana innovadora (piensa en dónuts de porcini y chips de sardina) en un comedor cálido revestido de madera de granero, con vista a la cocina abierta.
 quickAnswer: 'Rich Table, en Gough Street, en el límite de Hayes Valley, es un local que solo abre para cenas, requiere reserva y ofrece cocina californiana innovadora (piensa en dónuts de porcini y chips de sardina) en un comedor cálido revestido de madera de granero, con vista a la cocina abierta. Abre todas las noches de 5 a 10 pm; ve justo a las 5 pm entre semana si quieres tener el lugar para ti solo, y evita la avalancha del fin de semana entre las 7 y las 9 pm. Cuenta con un rango de precios medio-alto y conviene reservar con antelación: este es un lugar conocido, no un secreto.'
 faq:
   - q: ¿Necesito reservar en Rich Table?

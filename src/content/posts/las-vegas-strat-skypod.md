@@ -1,6 +1,6 @@
 ---
 title: 'STRAT SkyPod: Las Vegas Travel Guide'
-description: The STRAT SkyPod sits atop the STRAT hotel tower at 2000 S Las Vegas Blvd, at the north end of the Strip, and offers 360-degree views from over 100 stories
+description: The STRAT SkyPod sits atop the STRAT hotel tower at 2000 S Las Vegas Blvd, at the north end of the Strip, and offers 360-degree views from over 100 stories up plus a cluster of thrill rides (Big Shot, Insanity, X-Scream, SkyJump).
 country: United States
 region: Las Vegas
 category: attraction

@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: singapore-david-byrne-who-is-the-sky-tour
+srcHash: 0604845695a2
 title: '데이비드 번: Who Is The Sky? 투어 총정리 (싱가포르)'
 description: 2026년 8월 7일, 싱가포르에서 열리는 데이비드 번(David Byrne)의 "Who Is The Sky?" 투어 공연 정보. 공연 개요, 일시와 장소, 그리고 관람 전 준비 방법을 안내합니다.
 quickAnswer: 데이비드 번은 2026년 8월 7일, 싱가포르 센토사 게이트웨이(Sentosa Gateway)에 위치한 더 스타 퍼포밍 아츠 센터(The Star Performing Arts Centre) 내 더 스타 시어터(The Star Theatre)에서 "Who Is The Sky?" 투어를 선보인다. 연주자, 보컬리스트, 댄서로 구성된 13인조 밴드가 함께한다. 티켓은 발매 즉시 예매하는 것이 좋고, 공연장과 인근 비보시티(Vivo City)를 여유롭게 둘러보려면 일찍 도착하는 것을 추천하며, 정확한 공연 시간과 티켓 정보는 공연일이 가까워지면 공식 투어 사이트나 공연장 사이트에서 확인해야 한다.
@@ -23,7 +24,7 @@ faq:
 
 ## 공연장: 더 스타 시어터 (The Star Theatre)
 
-이번 공연은 싱가포르 센토사 게이트웨이(Sentosa Gateway), 즉 비보시티(Vivo City)/하버프론트(HarbourFront) 지구에 위치한 더 스타 퍼포밍 아츠 센터(The Star Performing Arts Centre)의 메인 공연장인 **더 스타 시어터(The Star Theatre)**에서 열립니다. 이곳은 싱가포르에서 손꼽히는 대형 전문 극장 중 하나로, 수천 석 규모를 갖추고 있으며 해외 투어 공연, 뮤지컬, 오케스트라 공연이 자주 열립니다. 계단식 좌석 배치와 뛰어난 시야 확보로 유명하여, 단순한 아레나 스펙터클보다는 안무와 무대 움직임 중심의 이번 공연에 잘 어울립니다.
+이번 공연은 싱가포르 센토사 게이트웨이(Sentosa Gateway), 즉 비보시티(Vivo City)/하버프론트(HarbourFront) 지구에 위치한 더 스타 퍼포밍 아츠 센터(The Star Performing Arts Centre)의 메인 공연장인 **더 스타 시어터**(The Star Theatre)에서 열립니다. 이곳은 싱가포르에서 손꼽히는 대형 전문 극장 중 하나로, 수천 석 규모를 갖추고 있으며 해외 투어 공연, 뮤지컬, 오케스트라 공연이 자주 열립니다. 계단식 좌석 배치와 뛰어난 시야 확보로 유명하여, 단순한 아레나 스펙터클보다는 안무와 무대 움직임 중심의 이번 공연에 잘 어울립니다.
 
 ## 가는 방법
 

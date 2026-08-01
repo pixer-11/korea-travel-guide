@@ -1,6 +1,6 @@
 ---
 title: "Castle of Ibiza: Travel Guide"
-description: "The Castle of Ibiza sits at the top of Dalt Vila, the walled old town of Eivissa, and it's the single best panorama on the island — a slow 20-minute uphill"
+description: The Castle of Ibiza sits at the top of Dalt Vila, the walled old town of Eivissa, and it's the single best panorama on the island — a slow 20-minute uphill walk through Renaissance ramparts to a viewpoint over the harbor, Formentera, and the rooftops of the medina below.
 country: "Spain"
 region: "Ibiza"
 category: "hidden-gem"

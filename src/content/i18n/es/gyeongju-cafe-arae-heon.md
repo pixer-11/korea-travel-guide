@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: gyeongju-cafe-arae-heon
+srcHash: aa709bb45a9c
 title: 'Cafe Arae Heon: Guía de viaje de Gyeongju'
 description: Cafe Arae Heon es una cafetería de estilo hanok en Bobul-ro, cerca del templo Bulguksa en Gyeongju, conocida por sus grandes ventanales hanok que enmarcan vistas de jardín y montaña.
 quickAnswer: Cafe Arae Heon es una cafetería de estilo hanok en Bobul-ro, cerca del templo Bulguksa en Gyeongju, conocida por sus grandes ventanales hanok que enmarcan vistas de jardín y montaña, sus dulces de estilo tradicional y su atmósfera serena y fotogénica, reflejada en una calificación de 4.9 con más de 1,400 reseñas. Planifica de 1 a 1.5 horas, idealmente un día de semana por la mañana o justo después de la apertura, y combina la visita con Bulguksa o la Gruta de Seokguram, ya que ambos están a pocos minutos.

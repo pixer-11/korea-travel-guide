@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: phu-quoc-grand-world-phu-quoc
+srcHash: 7020aca9a26e
 title: 富国岛大世界（Grand World）旅游指南
 description: 富国岛大世界（Grand World Phu Quoc）是位于百豪海滩（Bãi Dài，长滩北岸）的免费娱乐购物综合区，最适合在傍晚到夜间前往游玩。
 quickAnswer: 富国岛大世界（Grand World Phu Quoc）是位于百豪海滩（Bãi Dài，长滩北岸）的免费娱乐购物综合区，最适合在傍晚到夜间前往，此时“威尼斯”运河区、灯光秀和泰迪熊博物馆才真正热闹起来。建议预留半天到一整晚的时间，记得带上现金或银行卡以支付餐饮和收费演出（如木偶戏或喷火表演）等费用。由于附近的Vinpearl野生动物园（Vinpearl Safari）和科罗娜赌场（Corona Casino）都位于同一个富国岛联合中心（Phu Quoc United Center）区域内，非常适合安排在一起游览。

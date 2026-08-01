@@ -1,6 +1,6 @@
 ---
 title: "Hierapolis: Pamukkale Travel Guide"
-description: "Hierapolis sits directly above the white travertine terraces of Pamukkale, in Denizli province in southwestern Turkey, and is included in the same ticketed"
+description: Hierapolis sits directly above the white travertine terraces of Pamukkale, in Denizli province in southwestern Turkey, and is included in the same ticketed archaeological site — one entry covers both.
 country: "Turkey"
 region: "Pamukkale"
 category: "hidden-gem"

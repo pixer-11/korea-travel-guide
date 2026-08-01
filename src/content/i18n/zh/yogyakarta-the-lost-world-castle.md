@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: yogyakarta-the-lost-world-castle
+srcHash: 2b071e463e54
 title: 失落世界城堡（The Lost World Castle）：日惹旅行指南
 description: 失落世界城堡是位于日惹斯莱曼县（Sleman）杰宁安（Cangkringan）默拉皮火山（Mount Merapi）山坡上的中世纪城堡风格观景台兼地质游客中心，距日惹市中心约25-30公里。
 quickAnswer: 失落世界城堡是位于日惹斯莱曼县（Sleman）杰宁安（Cangkringan）默拉皮火山（Mount Merapi）山坡上的中世纪城堡风格观景台兼地质游客中心，距日惹市中心以北约25-30公里。建议早上9点前或傍晚前往，这样天气更凉爽、火山景观更清晰、游客也更少——这里是非常热门的景点，尤其在周末和节假日游客众多，因此常年都要做好人多的心理准备。安排1.5-2小时游览时间即可，由于已经身处火山山坡上，不妨顺路安排附近的默拉皮熔岩之旅吉普车环线，或前往卡利阿德姆（Kaliadem）/卡利阿德姆碉堡（Bunker Kaliadem）。

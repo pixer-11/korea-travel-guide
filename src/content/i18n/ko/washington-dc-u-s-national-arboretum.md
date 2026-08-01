@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: washington-dc-u-s-national-arboretum
+srcHash: 3d45505981a9
 title: '미국 국립수목원(U.S. National Arboretum): 워싱턴 DC 여행 가이드'
 description: 노스이스트 DC(Northeast DC) 3501 New York Ave NE에 위치한 미국 국립수목원은 무료로 입장할 수 있는 446에이커 규모의 연구용 정원으로, 옛 국회의사당에서 옮겨온 22개의 코린트 양식 기둥으로 가장 유명하다.
 quickAnswer: 노스이스트 DC(Northeast DC) 3501 New York Ave NE에 위치한 미국 국립수목원은 무료로 입장할 수 있는 446에이커 규모의 연구용 정원으로, 옛 국회의사당에서 옮겨온 22개의 코린트 양식 기둥과 세계적 수준의 국립 분재·펜징 박물관(National Bonsai & Penjing Museum)으로 가장 유명하다. 최소 두세 시간, 가능하면 평일 오전 시간을 비워두는 것이 좋고, 지하철역에서 걸어가기 어려우니 자동차나 자전거를 이용하는 것이 좋다. 6,000개가 넘는 리뷰에서 평점 4.7을 받은 이곳은 워싱턴 DC에서 무료로 즐길 수 있는 최고의 명소 중 하나지만, 나만의 조용한 공간이 되어주진 않을 것이다.

@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: chiba-chiba-park
+srcHash: 40163859ebad
 title: 지바 공원(Chiba Park) 여행 가이드
 description: 지바 공원(Chiba Park)은 지바 시(Chiba City) 중심가에 자리한 여유로운 대형 녹지 공간으로, 3월 말~4월 초의 벚꽃과 7~8월에 피는 연꽃 연못으로 잘 알려져 있습니다.
 quickAnswer: 지바 공원(Chiba Park)은 지바 시(Chiba City) 중심가에 자리한 여유로운 대형 녹지 공간으로, 3월 말~4월 초의 벚꽃과 7~8월 내내 피는 여름 연꽃 연못으로 잘 알려져 있습니다. 한두 시간 정도를 예상하면 되고, 로우보트를 대여하거나 인접한 지바 동물공원(Chiba Zoological Park)까지 둘러본다면 더 오래 머물 수도 있습니다. 지바 역(Chiba Station)에서 걸어서 금방이라 그 자체로 하루를 통째로 쓰는 여행지라기보다는 반나절 코스로 곁들이기 좋은 곳입니다.

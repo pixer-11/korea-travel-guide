@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: singapore-post-malone-big-ass-world-tour
+srcHash: 4162cfe1215a
 title: ポスト・マローン「BIG ASS World Tour」シンガポール公演：知っておきたいこと
 description: ポスト・マローン「BIG ASS World Tour」シンガポール公演 — 2026年9月25日、シンガポールにて開催。公演内容、日時・会場、当日までの準備について解説します。
 quickAnswer: ポスト・マローンが「BIG ASS World Tour」を引っ提げて、2026年9月25日にシンガポールのナショナル・スタジアム(National Stadium)に登場します。サポートアクトはドン・トリヴァー(Don Toliver)。2023年のF1シンガポールGPでのゲスト出演以来、同市でのソロヘッドライナー公演としては初となります。会場のあるカラン/スタジアム(Kallang / Stadium)地区へはスタジアム駅(Stadium MRT、サークルライン)からアクセスでき、開場時間やチケットの種類、直前の変更点については、必ず公式のチケットマスター(Ticketmaster)/シンガポール・スポーツハブ(SportsHub Singapore)のチャンネルで事前に確認してください。

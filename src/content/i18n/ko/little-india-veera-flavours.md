@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: little-india-veera-flavours
+srcHash: 037daa8ac29f
 title: '비라 플레이버스: 리틀 인디아 맛집 탐방'
 description: 비라 플레이버스(Veera Flavours)는 리틀 인디아(Little India) 중심부인 41 Kerbau Road에 위치한 평점 4.7에 리뷰 약 2,000개를 자랑하는 남인도 채식 레스토랑으로, 바나나잎 밀, 도사, 탈리 세트로 유명합니다.
 quickAnswer: 비라 플레이버스(Veera Flavours)는 리틀 인디아(Little India) 중심부 41 Kerbau Road에 위치한 평점 4.7, 리뷰 약 2,000개를 자랑하는 남인도 채식 레스토랑으로, 바나나잎 밀, 도사, 탈리 세트를 중저가에 즐길 수 있는 곳으로 유명합니다. 점심시간 혼잡을 피하려면 평일 오전 11시 30분경이나 오후 2시 30분 이후에 방문하고, 식사 후에는 Kerbau Road와 Campbell Lane을 따라 산책해보세요. 리틀 인디아 MRT역(Exit A 또는 E)에서 도보 5분 거리로 찾아가기 쉽습니다.

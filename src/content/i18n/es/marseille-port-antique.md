@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: marseille-port-antique
+srcHash: afd57ba1d157
 title: 'Port Antique: Guía de viaje de Marsella'
-description: El Jardin des Vestiges (Port Antique) es un pequeño parque hundido detrás del centro comercial Centre Bourse, en el primer distrito de Marsella, donde puedes caminar justo
+description: El Jardin des Vestiges (Port Antique) es un pequeño parque hundido detrás del centro comercial Centre Bourse, en el primer distrito (1er arrondissement) de Marsella, donde puedes acercarte directamente a las auténticas murallas griegas y a un tramo de calzada romana, todo situado por debajo del nivel de la calle en un tranquilo rincón verde.
 quickAnswer: El Jardin des Vestiges (Port Antique) es un pequeño parque hundido detrás del centro comercial Centre Bourse, en el primer distrito (1er arrondissement) de Marsella, donde puedes acercarte directamente a las auténticas murallas griegas y a un tramo de calzada romana, todo situado por debajo del nivel de la calle en un tranquilo rincón verde. Abre de martes a domingo, de 9:30 a 18:00 (cerrado los lunes), y basta con 20-30 minutos para visitarlo; puedes incluirlo en un paseo desde el Vieux-Port hasta Le Panier. Las tardes de fin de semana son cuando más gente hay, así que empezar más temprano te dejará el lugar más tranquilo.
 faq:
   - q: ¿Cuánto tiempo debo reservar para visitar Port Antique (Jardin des Vestiges)?

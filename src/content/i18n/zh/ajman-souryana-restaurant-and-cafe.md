@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: ajman-souryana-restaurant-and-cafe
+srcHash: fc3102f7dc9f
 title: Souryana Restaurant and Cafe：阿治曼美食指南
 description: 位于阿治曼(Ajman)艾纳希勒2区(Al Nakhil 2)的Souryana Restaurant and Cafe是一家叙利亚/黎凡特风味烤肉餐厅，评价数量在当地餐厅中名列前茅（评价数近8000条，评分4.8）。
 quickAnswer: 位于阿治曼艾纳希勒2区的Souryana Restaurant and Cafe是一家叙利亚/黎凡特风味烤肉餐厅，评价数量在该酋长国所有餐厅中名列前茅（评价数近8000条，评分高达4.8）。推荐点烤肉拼盘、沙威玛和各式开胃小食（mezze）拼盘，大多数晚上餐厅都相当繁忙，周末最好提早到店或提前订位以避免排队等候。

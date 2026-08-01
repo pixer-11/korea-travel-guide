@@ -1,6 +1,6 @@
 ---
 title: "Rizal Park: Manila Travel Guide"
-description: "Rizal Park (Luneta) is open daily 5am–10pm and is best walked early, between 7am and 11am on weekdays, when the lawns are near-empty and the heat hasn't"
+description: Rizal Park (Luneta) is open daily 5am–10pm and is best walked early, between 7am and 11am on weekdays, when the lawns are near-empty and the heat hasn't built up yet.
 country: "Philippines"
 region: "Manila"
 category: "hidden-gem"

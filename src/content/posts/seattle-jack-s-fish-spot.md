@@ -1,6 +1,6 @@
 ---
 title: "Jack's Fish Spot: Where to Eat in Seattle"
-description: Jack's Fish Spot is a no-frills seafood counter inside Pike Place Market, best for a quick bowl of chowder, a crab cocktail, or a fresh oyster shooter eaten
+description: Jack's Fish Spot is a no-frills seafood counter inside Pike Place Market, best for a quick bowl of chowder, a crab cocktail, or a fresh oyster shooter eaten standing up at the marble bar.
 country: United States
 region: Seattle
 category: restaurant

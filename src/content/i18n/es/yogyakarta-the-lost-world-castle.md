@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: yogyakarta-the-lost-world-castle
+srcHash: 2b071e463e54
 title: 'The Lost World Castle: Guía de viaje de Yogyakarta'
-description: The Lost World Castle es un mirador con estilo de fortaleza medieval y centro de visitantes de geología en las laderas del monte Merapi, en Cangkringan, Sleman, a unos 25-30 km
+description: The Lost World Castle es un mirador con estilo de fortaleza medieval y centro de visitantes de geología en las laderas del monte Merapi, en Cangkringan, Sleman, a unos 25-30 km al norte del centro de Yogyakarta.
 quickAnswer: 'The Lost World Castle es un mirador con estilo de fortaleza medieval y centro de visitantes de geología en las laderas del monte Merapi, en Cangkringan, Sleman, a unos 25-30 km al norte del centro de Yogyakarta. Ve temprano (antes de las 9am) o a última hora de la tarde para disfrutar de un clima más fresco, vistas más despejadas del volcán y menos aglomeraciones: es una parada muy popular, especialmente los fines de semana y días festivos, así que espera bastante afluencia de visitantes durante todo el año. Calcula entre 1.5 y 2 horas, y combínalo con el cercano circuito en jeep del Merapi lava tour o con Kaliadem/Bunker Kaliadem, ya que de todos modos estarás en las faldas del volcán.'
 faq:
   - q: ¿Cómo llego a The Lost World Castle desde la ciudad de Yogyakarta?

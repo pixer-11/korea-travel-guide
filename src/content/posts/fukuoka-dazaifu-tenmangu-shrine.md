@@ -1,9 +1,6 @@
 ---
 title: 'Dazaifu Tenmangu Shrine: Fukuoka Travel Guide'
-description: >-
-  Dazaifu Tenmangu, about 30 minutes by train from central Fukuoka, is one of
-  Japan's most important shrines for students and scholars, built over the grave
-  of
+description: Dazaifu Tenmangu, about 30 minutes by train from central Fukuoka, is one of Japan's most important shrines for students and scholars, built over the grave of the exiled 9th-century courtier Sugawara no Michizane.
 country: Japan
 region: Fukuoka
 category: hidden-gem

@@ -1,6 +1,6 @@
 ---
 title: "Christmas in Alsace"
-description: "Strasbourg's Christmas Market (Marché de Noël) runs from late November through December 24-31, spread across a dozen squares in the city center, with Place"
+description: Strasbourg's Christmas Market (Marché de Noël) runs from late November through December 24-31, spread across a dozen squares in the city center, with Place Kléber's giant tree and Place de la Cathédrale as the anchor points.
 country: "France"
 region: "Strasbourg"
 category: "event"

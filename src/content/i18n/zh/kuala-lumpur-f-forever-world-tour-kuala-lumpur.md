@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: kuala-lumpur-f-forever-world-tour-kuala-lumpur
+srcHash: f99e86d5211a
 title: F✦FOREVER 世界巡回演唱会——吉隆坡站须知（吉隆坡）
 description: F✦FOREVER 世界巡回演唱会吉隆坡站，2026年8月7-8日在马来西亚吉隆坡举行——演出简介、时间地点，以及行程规划建议。
 quickAnswer: F✦FOREVER——由言承旭（Jerry Yan）、吴建豪（Van Ness Wu）、周渝民（Vic Chou）三位F4成员与五月天主唱阿信组成的“超级天团”——将于2026年8月7-8日一连两晚，在吉隆坡武吉加里尔（Bukit Jalil）的Unifi Arena举行演出，这也是他们首次世界巡回演唱会的一站。建议门票一开售就尽快通过官方渠道购买，提前了解武吉加里尔交通枢纽的情况，并务必在出发前于官方巡演及场馆渠道再次确认演出日期、开场时间和购票链接。

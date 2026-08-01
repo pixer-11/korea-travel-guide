@@ -1,6 +1,6 @@
 ---
 title: "Duomo di Milano: Milan Travel Guide"
-description: "The Duomo di Milano, Milan's Gothic cathedral on Piazza del Duomo, is best visited early morning (before 9:30am) to beat crowds, with a rooftop terrace"
+description: The Duomo di Milano, Milan's Gothic cathedral on Piazza del Duomo, is best visited early morning (before 9:30am) to beat crowds, with a rooftop terrace ticket for skyline views of the Alps on clear days.
 country: "Italy"
 region: "Milan"
 category: "attraction"

@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: nha-trang-nha-he-coffee-shop
+srcHash: 0c8b07d428f3
 title: 'Nha He Coffee Shop: Guía de viaje de Nha Trang'
-description: Nha He Coffee Shop es una cafetería relajada y llena de plantas escondida en un callejón en 120/8 Nguyễn Thiện Thuật, en el centro de Nha Trang, a poca distancia o un corto trayecto en Grab
+description: Nha He Coffee Shop es una cafetería relajada y llena de plantas escondida en un callejón en 120/8 Nguyễn Thiện Thuật, en el centro de Nha Trang, a poca distancia a pie o un corto trayecto en Grab desde la franja hotelera frente a la playa.
 quickAnswer: Nha He Coffee Shop es una cafetería relajada y llena de plantas escondida en un callejón en 120/8 Nguyễn Thiện Thuật, en el centro de Nha Trang, a poca distancia a pie o un corto trayecto en Grab desde la franja hotelera frente a la playa. Ve a media mañana entre semana para conseguir un asiento en el patio-jardín, pide un café de huevo al estilo vietnamita o un café de coco, y calcula una o dos horas para disfrutar del ritmo tranquilo del lugar. Aceptan efectivo y tarjeta, es económico (nivel de precio ~2) y cuenta con seguidores fieles, reflejado en su calificación de 4.8 con más de 1,250 reseñas.
 faq:
   - q: ¿Cómo llego a Nha He Coffee Shop desde la playa?

@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: kyoto-kinkaku-ji
+srcHash: 81c1ed068f09
 title: 'Kinkaku-ji: Guía de viaje de Kioto'
 description: Kinkaku-ji, el Pabellón Dorado, es un templo zen cubierto de pan de oro que se refleja en el estanque Kyōko-chi, en el barrio de Kita, al noroeste de Kioto.
 quickAnswer: Kinkaku-ji, el Pabellón Dorado, es un templo zen cubierto de pan de oro que se refleja en el estanque Kyōko-chi, en el barrio de Kita, al noroeste de Kioto. Calcula entre 30 y 45 minutos para recorrer el camino de sentido único por los jardines, idealmente justo a la apertura (9 h) o a última hora de la tarde para evitar las peores aglomeraciones. Se llega en autobús urbano desde la Estación de Kioto en unos 40 minutos, y combina bien con una visita a Ryoan-ji o Ninna-ji.

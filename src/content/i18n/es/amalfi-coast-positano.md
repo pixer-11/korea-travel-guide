@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: amalfi-coast-positano
+srcHash: dfe60fe2da79
 title: 'Positano: Guía de viaje de la Costa Amalfitana'
 description: Positano se disfruta mejor con una estancia de 1 a 2 noches o como excursión de un día bien planificada desde Sorrento o Amalfi, llegando en autobús SITA o en ferry en lugar de coche.
 quickAnswer: 'Positano se disfruta mejor con una estancia de 1 a 2 noches o como excursión de un día bien planificada desde Sorrento o Amalfi, llegando en autobús SITA o en ferry en lugar de coche. Dedica tu tiempo a bajar (no subir) por Via dei Mulini hasta Spiaggia Grande, come junto al mar en la terraza de un beach club, y ve en mayo, junio o finales de septiembre para evitar la avalancha de agosto. Reserva al menos un día completo: la ciudad premia el paseo tranquilo más que una visita de lista de tareas.'

@@ -1,6 +1,6 @@
 ---
 title: "vue depuis Le Suquet: Cannes Travel Guide"
-description: "Climb to Le Suquet, Cannes' old hilltop quarter, and the payoff is the view from beside the Musée de La Castre and its square Tour du Suquet: the whole Baie"
+description: 'Climb to Le Suquet, Cannes'' old hilltop quarter, and the payoff is the view from beside the Musée de La Castre and its square Tour du Suquet: the whole Baie de Cannes laid out below, La Croisette curving along the water, the Îles de Lérins floating offshore, and the Estérel massif turning red at sunset.'
 country: "France"
 region: "Cannes"
 category: "hidden-gem"

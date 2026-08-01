@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: tokyo-shinjuku-gyoen-national-garden
+srcHash: 113676b76d76
 title: 'Jardín Nacional Shinjuku Gyoen: Guía de viaje de Tokio'
-description: Shinjuku Gyoen es una antigua propiedad imperial de 144 acres que combina jardines formales franceses, un jardín paisajista inglés y un jardín tradicional japonés de paseo
+description: Shinjuku Gyoen es una antigua propiedad imperial de 144 acres que combina jardines formales franceses, un jardín paisajista inglés y un jardín tradicional japonés de paseo con estanques y casas de té.
 quickAnswer: Shinjuku Gyoen es una antigua propiedad imperial de 144 acres que combina jardines formales franceses, un jardín paisajista inglés y un jardín tradicional japonés de paseo con estanques y casas de té. Se entra por la Puerta Shinjuku (5 minutos a pie desde la estación Shinjuku-gyoenmae, línea Marunouchi, salida 1); calcula entre 2 y 3 horas y ve una mañana entre semana para evitar las multitudes. Es célebre sobre todo por los cerezos en flor a finales de marzo/principios de abril y por el follaje otoñal en noviembre, pero el invernadero y sus tranquilos céspedes hacen que valga la pena visitarlo en cualquier época del año.
 faq:
   - q: ¿Cómo llego a Shinjuku Gyoen en tren?

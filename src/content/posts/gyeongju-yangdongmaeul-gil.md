@@ -1,6 +1,6 @@
 ---
 title: 'Yangdongmaeul-gil: Gyeongju Travel Guide'
-description: Yangdongmaeul-gil is the access road into Yangdong Village, a centuries-old Yangban (noble-class) clan village in Gangdong-myeon, about 40 minutes northeast
+description: Yangdongmaeul-gil is the access road into Yangdong Village, a centuries-old Yangban (noble-class) clan village in Gangdong-myeon, about 40 minutes northeast of central Gyeongju.
 region: Gyeongju
 country: South Korea
 category: hidden-gem

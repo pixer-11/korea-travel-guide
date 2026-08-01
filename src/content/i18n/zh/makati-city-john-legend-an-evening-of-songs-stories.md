@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: makati-city-john-legend-an-evening-of-songs-stories
+srcHash: 59334dbed505
 title: 约翰·传奇（John Legend）："歌曲与故事之夜"演唱会须知（马卡蒂市）
 description: 约翰·传奇（John Legend）"An Evening of Songs & Stories"演唱会将于2026年9月3日至4日在菲律宾马卡蒂市举行——演出内容、时间地点，以及如何安排你的行程。
 quickAnswer: 约翰·传奇将带着他私密氛围浓厚的"An Evening of Songs & Stories"世界巡演来到马卡蒂市的Proscenium剧院（Proscenium Theater），连演两晚，时间为2026年9月3日至4日。这是一场坐席式、剧院风格的演出，围绕简约的钢琴弹唱和故事讲述展开，而非体育馆式的大型演出，因此现场观众会比典型的大型演唱会更小众、更正式——出行前请务必在官方售票/场馆渠道确认具体演出时间、开场时间及余票情况。

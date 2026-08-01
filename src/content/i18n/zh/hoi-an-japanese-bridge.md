@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: hoi-an-japanese-bridge
+srcHash: 72cb7dd53907
 title: 日本廊桥:会安旅行指南
 description: 日本廊桥(来远桥,Chùa Cầu)是会安的标志性建筑,这座18世纪的有顶木桥横跨古镇核心区阮氏明开街(Nguyễn Thị Minh Khai Street)旁的一条小运河。
 quickAnswer: 日本廊桥(来远桥,Chùa Cầu)是会安的标志性建筑,这座18世纪的有顶木桥横跨古镇核心区阮氏明开街(Nguyễn Thị Minh Khai Street)旁的一条小运河。建议在刚开门时(上午9点)或日落之后灯笼点亮桥身时前往(开放至晚上10点),预留15-20分钟参观廊桥及桥内的小神龛——入内需要会安古镇的通票。廊桥正好位于古镇西侧边缘,可以顺路沿江边漫步,顺道参观附近的商号老宅。

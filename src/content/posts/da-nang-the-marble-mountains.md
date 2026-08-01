@@ -1,6 +1,6 @@
 ---
 title: 'The Marble Mountains: Da Nang Travel Guide'
-description: The Marble Mountains (Ngũ Hành Sơn) are a cluster of five stone-and-marble hills about 8km south of central Da Nang, riddled with Buddhist caves, temples
+description: The Marble Mountains (Ngũ Hành Sơn) are a cluster of five stone-and-marble hills about 8km south of central Da Nang, riddled with Buddhist caves, temples, and pagodas.
 country: Vietnam
 region: Da Nang
 category: attraction

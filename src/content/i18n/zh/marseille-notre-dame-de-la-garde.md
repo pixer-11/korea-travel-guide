@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: marseille-notre-dame-de-la-garde
+srcHash: 8d2a3279e263
 title: 守护圣母圣殿：马赛旅行指南
 description: 守护圣母圣殿（Notre-Dame de la Garde）是坐落在马赛最高山丘（154米）之上的新拜占庭风格圣殿，顶端矗立着一尊9.5米高的镀金圣母像。
 quickAnswer: 守护圣母圣殿（Notre-Dame de la Garde）是坐落在马赛最高山丘（154米）之上的新拜占庭风格圣殿，顶端矗立着一尊9.5米高的镀金圣母像。免费入场，每日开放，日落或清晨前往最佳，可俯瞰老港（Vieux-Port）与地中海的全景。建议安排45–90分钟游览时间，可步行前往，也可搭乘60路公交车上山——不过山路较为陡峭。

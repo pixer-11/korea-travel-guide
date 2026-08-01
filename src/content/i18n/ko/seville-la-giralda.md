@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: seville-la-giralda
+srcHash: f2a7059f1b05
 title: '라 히랄다: 세비야 여행 가이드'
 description: 라 히랄다는 세비야 대성당(Seville Cathedral)의 종탑으로, 카스코 안티구오(Casco Antiguo) 지구의 Av. de la Constitución, s/n에 우뚝 서 있습니다.
 quickAnswer: 라 히랄다는 세비야 대성당(Seville Cathedral)의 종탑으로, 카스코 안티구오(Casco Antiguo) 지구의 Av. de la Constitución, s/n에 우뚝 서 있습니다. 대성당 입장권에 포함된 이 탑 오르기는 개장 직후(문은 보통 오전 10시 30분경 열리며, 요일에 따라 더 이른 경우도 있습니다)나 폐장 한 시간 전에 방문하는 것이 좋습니다 — 정오 무렵이면 경사로가 단체 관광객으로 가득 차기 때문입니다. 오르는 데는 45~60분 정도를 잡아두고, 대성당 전체를 둘러볼 계획이라면 시간을 더 여유 있게 잡으세요.

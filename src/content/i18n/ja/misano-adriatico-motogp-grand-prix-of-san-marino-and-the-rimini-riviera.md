@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: misano-adriatico-motogp-grand-prix-of-san-marino-and-the-rimini-riviera
+srcHash: 5244f303b7eb
 title: MotoGP サンマリノ・グランプリ&リミニ・リビエラ 観戦ガイド(ミサノ・アドリアティコ)
 description: 2026年9月11日〜13日、イタリア・ミサノ・アドリアティコで開催されるMotoGPサンマリノ・グランプリとリミニ・リビエラについて。開催概要、日程・会場、旅行計画のポイントを解説します。
 quickAnswer: MotoGPサンマリノ・グランプリは2026年9月11日〜13日、ミサノ・ワールドサーキット・マルコ・シモンチェリ(Misano World Circuit Marco Simoncelli)で開催されます。金曜日にフリー走行、土曜日に予選とスプリントレース、日曜日午後に決勝が行われます。拠点はミサノ・アドリアティコ(Misano Adriatico)かリッチョーネ(Riccione)がおすすめで、この週末はリミニ・リビエラ全体が満室になるため宿は早めに予約しましょう。渡航前には必ず公式MotoGPサイトとサーキット公式サイトで最新の日程とチケット情報を確認してください。

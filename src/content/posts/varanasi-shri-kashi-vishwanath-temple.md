@@ -1,6 +1,6 @@
 ---
 title: 'Shri Kashi Vishwanath Temple: Varanasi Travel Guide'
-description: Go early — the temple opens around 3am for Mangala Aarti and stays busiest from mid-morning through evening, so the calmest darshan window is right at
+description: Go early — the temple opens around 3am for Mangala Aarti and stays busiest from mid-morning through evening, so the calmest darshan window is right at opening or in the early afternoon lull before evening aarti crowds build.
 country: India
 region: Varanasi
 category: attraction

@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: kanazawa-curio-espresso-and-vintage-design-cafe
+srcHash: 82450f35674b
 title: '큐리오 에스프레소 앤 빈티지 디자인 카페: 가나자와 여행 가이드'
 description: 큐리오 에스프레소 앤 빈티지 디자인 카페(Curio Espresso and Vintage Design Café)는 가나자와 야스에초(Yasue-chō) 지구에 위치한 작고 디자인 감각이 돋보이는 커피 바로, 오미초 시장(Omicho Market)과 가나자와역에서 도보로 가까운 거리에 있습니다.
 quickAnswer: 큐리오 에스프레소 앤 빈티지 디자인 카페(Curio Espresso and Vintage Design Café)는 가나자와 야스에초(Yasue-chō) 지구에 위치한 작고 디자인 감각이 돋보이는 커피 바로, 오미초 시장(Omicho Market)과 가나자와역에서 도보로 가까운 거리에 있습니다. 스페셜티 에스프레소와 푸어오버, 그리고 샥슈카 스타일의 달걀 요리, 홈메이드 그래놀라, 두툼한 토스트 같은 든든한 브런치 메뉴를 짝이 맞지 않는 빈티지 식기에 담아 미드센추리 스타일의 공간에서 즐길 수 있습니다. 커피와 간단한 요기에는 20~40분 정도, 브런치를 주문하면 더 오래 걸릴 수 있으니 가장 붐비는 시간대를 피하려면 오전 10시 이전이나 오후 2시 이후에 방문하는 것이 좋습니다.

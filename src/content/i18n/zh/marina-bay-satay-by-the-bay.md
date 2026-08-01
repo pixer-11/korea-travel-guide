@@ -1,8 +1,9 @@
 ---
 lang: zh
 slug: marina-bay-satay-by-the-bay
+srcHash: 36b9a3328483
 title: 滨海湾沙嗲美食中心：滨海湾用餐指南
-description: '滨海湾沙嗲美食中心（Satay by the Bay）是滨海湾花园（Gardens by the Bay，18 Marina Gardens Dr, #01-19）内的一处露天小贩式美食广场，以烤沙嗲闻名，但也有'
+description: '滨海湾沙嗲美食中心（Satay by the Bay）是滨海湾花园（Gardens by the Bay，18 Marina Gardens Dr, #01-19）内的一处露天小贩式美食广场，以烤沙嗲最为出名，同时也有中式、马来式、印度式和西式美食摊位。'
 quickAnswer: '滨海湾沙嗲美食中心（Satay by the Bay）是滨海湾花园（Gardens by the Bay，18 Marina Gardens Dr, #01-19）内的一处露天小贩式美食广场，以烤沙嗲最为出名，同时也有中式、马来式、印度式和西式美食摊位。建议在傍晚早些时候用餐（约5:30–6:30pm），赶在擎天树丛（Supertree Grove）灯光秀人潮到来之前，人均消费大约S$10–25，就能在花园环境中享用一顿分量十足的休闲餐食。'
 faq:
   - q: 怎么去滨海湾沙嗲美食中心？

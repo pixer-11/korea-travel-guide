@@ -1,6 +1,6 @@
 ---
 title: 'IMAYA Kyoto &COFFEE: Travel Guide'
-description: IMAYA Kyoto &COFFEE is a compact, design-forward café in Nakagyo Ward serving Italian-style espresso drinks, natural wine, beer, and light bites in a
+description: IMAYA Kyoto &COFFEE is a compact, design-forward café in Nakagyo Ward serving Italian-style espresso drinks, natural wine, beer, and light bites in a stripped-back concrete-and-wood space.
 country: Japan
 region: Kyoto
 category: trendy

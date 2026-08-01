@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: da-nang-xliii-specialty-coffee
+srcHash: 8c7c168af2e1
 title: XLIII Specialty Coffee:ダナン旅行ガイド
 description: XLIII Specialty Coffeeは、ダナンのグ・ハイン・ソン(Ngũ Hành Sơn)地区にある、デザイン性の高い広々としたカフェ。マーブルマウンテンにほど近く、My Khe Beachからも近い立地です。
 quickAnswer: XLIII Specialty Coffeeは、ダナンのグ・ハイン・ソン(Ngũ Hành Sơn)地区にある、デザイン性の高い広々としたカフェで、マーブルマウンテンにほど近く、My Khe Beachからも少し足を延ばせば行ける距離にあります。混雑を避けたいなら平日の午前中に訪れて、フォトジェニックな席を確保するのがおすすめです。一般的なベトナムのカフェ(cà phê)よりも予算は少し多めに見ておきましょう(価格帯レベル3)。写真を撮るだけでなく空間そのものを楽しむなら、少なくとも1時間は滞在する予定にしておくとよいでしょう。

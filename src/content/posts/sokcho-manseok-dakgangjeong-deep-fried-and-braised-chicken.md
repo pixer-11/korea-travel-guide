@@ -1,6 +1,6 @@
 ---
 title: 'Manseok Dakgangjeong(deep-fried and braised chicken): Where to Eat in Sokcho'
-description: Manseok Dakgangjeong is a Sokcho institution for dakgangjeong — bite-sized fried chicken tossed in a sweet-spicy-garlicky glaze — served near Sokcho's
+description: Manseok Dakgangjeong is a Sokcho institution for dakgangjeong — bite-sized fried chicken tossed in a sweet-spicy-garlicky glaze — served near Sokcho's Cheongchoho lake area.
 country: South Korea
 region: Sokcho
 category: restaurant

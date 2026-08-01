@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: barcelona-the-weeknd-live-in-concert
+srcHash: ea9a87c4fbd4
 title: 'The Weeknd en concierto: lo que hay que saber (Barcelona)'
 description: The Weeknd en concierto en directo en Barcelona, España — 1 de septiembre de 2026. Qué es, cuándo y dónde, y cómo organizarte para asistir.
 quickAnswer: The Weeknd trae su gira de estadios a Barcelona, al Estadi Olímpic Lluís Companys, el 1 de septiembre de 2026. Las puertas suelen abrir varias horas antes del concierto principal de un cabeza de cartel en estadios, pero conviene confirmar la hora exacta de actuación, los artistas de apertura y las entradas disponibles en la web oficial de la gira de The Weeknd o en Ticketmaster antes de reservar vuelos u hotel. El estadio está en la montaña de Montjuïc, a la que se llega fácilmente con la línea 1 de metro (Espanya) más un paseo, o con el funicular/autobús de Montjuïc, así que conviene planear con antelación la subida a la montaña.

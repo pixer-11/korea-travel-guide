@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: taipei-amaze
+srcHash: d436b0eef077
 title: 'aMaze: Dónde comer en Taipéi'
 description: 'aMaze en Taipéi, Taiwán — un local nuevo y en auge: qué es, dónde está y cómo visitarlo.'
 quickAnswer: aMaze es el restaurante con estrella Michelin del chef Jim Yang en Taipéi, conocido por reinventar las cocinas regionales chinas —piensa en técnicas de Sichuan, cantonesa y taiwanesa entrelazadas en un único relato de menú degustación— para lograr algo que no resulta ni retro ni gimmick. Obtuvo su estrella a los pocos meses de abrir, así que reserva con bastante antelación y confirma directamente con el restaurante los horarios de servicio y el formato del menú actuales antes de ir, ya que ambos siguen evolucionando mientras la cocina encuentra su ritmo.

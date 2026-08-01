@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: kyoto-yoichiba
+srcHash: 6fd2d40b7f88
 title: 'Yoichiba: dónde comer en Kioto'
 description: Yoichiba es un pequeño restaurante de estilo izakaya muy bien valorado en el distrito de Nakagyo, en el centro de Kioto, que conviene reservar con antelación para la cena dada su calificación de 4.8 sobre 421 reseñas.
 quickAnswer: Yoichiba es un pequeño restaurante de estilo izakaya muy bien valorado en el distrito de Nakagyo, en el centro de Kioto, que conviene reservar con antelación para la cena dada su calificación de 4.8 sobre 421 reseñas. Calcula una comida sentada y sin prisas de entre 1.5 y 2 horas, en lugar de un bocado rápido, y combínala con un paseo nocturno por las cercanas Kiyamachi o Pontocho. Reserva lo antes posible, ya que los locales pequeños de Kioto con este tipo de perfil de reseñas suelen llenarse rápido, sobre todo los fines de semana.

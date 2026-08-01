@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: makati-kariton-x-sabi-sounds
+srcHash: d5b9a9d0e41b
 title: Kariton x Sabi Sounds：马卡蒂（Makati）旅行指南
 description: Kariton x Sabi Sounds 位于菲律宾马卡蒂（Makati）——一处新晋热门去处：它是什么、在哪里、以及如何前往游玩。
 quickAnswer: Kariton x Sabi Sounds 是萨尔塞多村（Salcedo Village，马卡蒂）新开的一家全天营业的咖啡馆、意式冰淇淋店兼黑胶听音吧，将 Erwan Heussaff 的 Kariton 意式冰淇淋与墨尔本引进的 Sabi Sounds 黑胶唱片配鸡尾酒概念结合在一起。这里从早晨咖啡时段一直营业到深夜的黑胶唱片时光，所以你可以选择清晨来一杯浓缩咖啡配冰淇淋、享受安静时光，也可以在夜幕降临后前来，感受转盘唱片与小食当道的氛围。由于这是一处刚开业不久的新地方，营业时间和是否需要订位可能仍在调整中,前往之前建议先确认清楚。

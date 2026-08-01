@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: al-ain-al-fanar-restaurant-cafe
+srcHash: 02aec6683220
 title: 'Al Fanar Restaurant & Cafe: dónde comer en Al Ain'
-description: Al Fanar Restaurant & Cafe, en Souq Al Zafarana (Al Jimi, Al Ain), es un restaurante emiratí/del Golfo de larga trayectoria, conocido por su machboos, harees y carnes cocinadas a fuego lento
+description: Al Fanar Restaurant & Cafe, en Souq Al Zafarana (Al Jimi, Al Ain), es un restaurante emiratí/del Golfo de larga trayectoria, conocido por su machboos, harees y carnes cocinadas a fuego lento, respaldado por una inusual calificación de 4.8 estrellas basada en más de 8,000 reseñas.
 quickAnswer: Al Fanar Restaurant & Cafe, en Souq Al Zafarana (Al Jimi, Al Ain), es un restaurante emiratí/del Golfo de larga trayectoria, conocido por su machboos, harees y carnes cocinadas a fuego lento, respaldado por una inusual calificación de 4.8 estrellas basada en más de 8,000 reseñas. Es de precio medio, informal y muy popular entre los locales, así que conviene ir a almorzar en horario tranquilo (alrededor de la 1–1:30 p.m.) o cenar antes de las 8 p.m. para evitar la espera. Calcula entre 45 y 75 minutos para una comida completa sentado a la mesa.
 faq:
   - q: ¿Cómo llego a Al Fanar Restaurant & Cafe sin coche?

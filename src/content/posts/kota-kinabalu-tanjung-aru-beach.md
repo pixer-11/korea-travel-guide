@@ -1,6 +1,6 @@
 ---
 title: "Tanjung Aru Beach: Kota Kinabalu Travel Guide"
-description: "Tanjung Aru Beach is Kota Kinabalu's classic sunset spot: a long curve of sand a short taxi or Grab ride from the city center, backed by casuarina trees"
+description: 'Tanjung Aru Beach is Kota Kinabalu''s classic sunset spot: a long curve of sand a short taxi or Grab ride from the city center, backed by casuarina trees, food stalls, and the Shangri-La and Tanjung Aru Resort properties.'
 country: "Malaysia"
 region: "Kota Kinabalu"
 category: "hidden-gem"

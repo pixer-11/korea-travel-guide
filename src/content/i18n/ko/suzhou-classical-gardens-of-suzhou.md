@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: suzhou-classical-gardens-of-suzhou
+srcHash: 4c2fa324cf83
 title: 쑤저우 고전 정원(Classical Gardens of Suzhou) 여행 가이드
 description: '"쑤저우 고전 정원"은 하나의 장소가 아니라, 옛 도심 곳곳에 흩어져 있는 9개의 역사적 정원을 아우르는 유네스코 세계문화유산 지정 명칭입니다.'
 quickAnswer: '"쑤저우 고전 정원(Classical Gardens of Suzhou)"은 단일 장소가 아니라 옛 도심 곳곳에 흩어져 있는 9개의 개별 역사 정원을 아우르는 유네스코 세계문화유산 지정 명칭입니다 — 그중 가장 방문할 가치가 있는 곳은 졸정원(拙政園, Zhuozheng Yuan, Humble Administrator''s Garden), 유원(留園, Liu Yuan, Lingering Garden), 망사원(網師園, Wangshi Yuan, Master of the Nets Garden)입니다. 9곳을 모두 돌아보려 하기보다는 하루에 두세 곳 정도를 계획하고, 정원당 1~1.5시간을 예상하며, 단체 관광객을 피하려면 평일 이른 아침에 방문하세요. 대부분 연중 개방하지만, 봄(3~5월)과 가을(9~11월)에 정자와 석가산(암석 정원)이 가장 아름답게 빛납니다.'

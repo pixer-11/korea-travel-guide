@@ -1,6 +1,6 @@
 ---
 title: "Abbaye Notre-Dame de Sénanque: Provence Travel Guide"
-description: Sénanque Abbey, a working Cistercian monastery outside Gordes, is best seen right at opening — weekdays 9:30–10am or Sunday 10–11am — before the tour buses
+description: Sénanque Abbey, a working Cistercian monastery outside Gordes, is best seen right at opening — weekdays 9:30–10am or Sunday 10–11am — before the tour buses arrive; avoid noon to 6pm on weekends, when the lavender-field parking lot and viewpoint road jam solid.
 country: France
 region: Provence
 category: hidden-gem

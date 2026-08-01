@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: qingdao-qingdao-international-beer-festival
+srcHash: c46a2f6b20e4
 title: 'Festival Internacional de la Cerveza de Qingdao: lo que debes saber (Qingdao)'
 description: El Festival Internacional de la Cerveza de Qingdao se celebra de mediados de julio a agosto de 2026 en el recinto ferial del distrito de Chengyang, en Qingdao (Beer City, cerca de Jimo).
 quickAnswer: El Festival Internacional de la Cerveza de Qingdao se celebra de mediados de julio a agosto de 2026 en el recinto ferial del distrito de Chengyang de Qingdao (Beer City, cerca de Jimo), con eventos adicionales por toda la ciudad a lo largo del paseo marítimo, cerca de la histórica zona de Badaguan y el Museo de la Cervecería Tsingtao. Puedes esperar catas al aire libre de cervecerías chinas e internacionales, música en vivo y actuaciones, y multitudes enormes cada noche — conviene llegar a media tarde los fines de semana para evitar las colas, y confirmar las fechas exactas, el mapa del recinto y los detalles de las entradas en los canales oficiales del festival antes de viajar.

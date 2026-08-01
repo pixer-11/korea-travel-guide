@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: nha-trang-po-nagar-temple
+srcHash: d7408602d256
 title: 婆那加占婆塔：芽庄旅游指南
 description: 婆那加占婆塔（Po Nagar）是一组建于8世纪至13世纪之间的占婆砖塔群，坐落在芽庄该河（Cai River）北岸的一座小山丘上。
 quickAnswer: 婆那加占婆塔（Po Nagar）是一组建于8世纪至13世纪之间的占婆砖塔群，坐落在芽庄该河（Cai River）北岸的一座小山丘上。建议安排45–90分钟游览，最好选择清晨或傍晚前往，以避开高温和人潮，还可以顺便走一走琼峰桥（Xom Bong Bridge），或到附近河边的海鲜摊逛逛。入场需在门口购买少量门票；由于这里至今仍是占族和越南民众的活跃信仰场所，请注意穿着得体。

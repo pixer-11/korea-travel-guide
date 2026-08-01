@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: bilbao-itsasmuseum-bilbao
+srcHash: 20da32b80caa
 title: 'Itsasmuseum: guía de viaje de Bilbao'
 description: Itsasmuseum Bilbao se ubica junto a la Ría de Bilbao, en el antiguo astillero de Euskalduna, a poca distancia a pie del Guggenheim, y recorre la construcción naval y la transformación del puerto.
 quickAnswer: Itsasmuseum Bilbao se ubica junto a la Ría de Bilbao, en el antiguo astillero de Euskalduna, a poca distancia a pie del Guggenheim, y recorre la construcción naval y la transformación del puerto en la ciudad ribereña que es hoy. Abre de martes a domingo, de 11:00 a 19:00 (cerrado los lunes), y conviene reservar entre 60 y 90 minutos. Los fines de semana el museo se mantiene concurrido durante todo el horario de 11:00 a 19:00, así que una visita entre semana, idealmente poco después de la apertura, es la mejor opción para disfrutarlo con más calma.

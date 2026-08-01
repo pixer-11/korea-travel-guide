@@ -1,8 +1,9 @@
 ---
 lang: zh
 slug: little-india-super-deluxe-kitchen
+srcHash: 4797fdc930fa
 title: Super Deluxe Kitchen：小印度的美食去处
-description: Super Deluxe Kitchen（29 Upper Weld Rd, Singapore 207386）是一家口碑颇佳的印度餐厅，藏身于小印度的后巷之中，从
+description: Super Deluxe Kitchen（29 Upper Weld Rd, Singapore 207386）是一家口碑颇佳的印度餐厅，藏身于小印度的后巷之中，从Jalan Besar和Farrer Park地铁站步行即可到达。
 quickAnswer: Super Deluxe Kitchen（29 Upper Weld Rd, Singapore 207386）是一家口碑颇佳的印度餐厅，藏身于小印度的后巷之中，从Jalan Besar和Farrer Park地铁站步行即可到达。这里主打南北印度经典菜式——比亚尼饭（biryani）、各式咖喱，以及炭炉烤制的印度面饼。用餐高峰时段这里往往十分热闹，如果想不排队就有位子，建议错峰前往（比如早午餐时段，或晚上8:30以后）。
 faq:
   - q: 怎样乘地铁前往Super Deluxe Kitchen？

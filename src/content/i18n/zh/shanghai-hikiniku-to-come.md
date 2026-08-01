@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: shanghai-hikiniku-to-come
+srcHash: b176dd3f130e
 title: Hikiniku To Come 上海探店指南
 description: Hikiniku To Come 位于中国上海——一家新晋热门店:它是什么、在哪里、以及如何前往。
 quickAnswer: Hikiniku To Come 是发源于东京的汉堡排(hambāgu)专门店,如今落户上海全新的 FUFU 商业综合体(位于东湖路),自开业第一天起就人气爆棚、排队不断。它的魅力很简单:厚切炭烤和牛肉饼、打上一颗生鸡蛋提升浓郁口感,再配上可以无限续加的米饭。建议选工作日前往,并在开门前抵达,出发前请务必确认最新营业时间以及是否可以预约。

@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: bali-this-is-bali-balinese-food-desserts
+srcHash: af193663fd25
 title: 'This Is Bali - Comida y Postres Balineses: Dónde Comer'
 description: This Is Bali es un restaurante indonesio informal y muy bien valorado en Jl. Goutama, en el centro de Ubud.
 quickAnswer: This Is Bali es un restaurante indonesio informal y muy bien valorado en Jl. Goutama, en el centro de Ubud, conocido por sus clásicos balineses asequibles como el babi guling, el nasi campur y postres tradicionales como el dadar gulung y el bubur injin. Con una calificación de 4.9 basada en más de 18,000 reseñas y precios de rango medio (nivel de precio 2), es sumamente popular, así que hay que estar preparado para esperar en las horas pico de almuerzo y cena. Lo ideal es ir temprano o a media tarde, pedir una mezcla de platos salados y dulces para compartir, y rematar la comida con una caminata por la calle de cafés y librerías de Jl. Goutama.

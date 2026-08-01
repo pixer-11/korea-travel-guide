@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: tokyo-fish-market-tsukiji-outer-market
+srcHash: abbccd82c591
 title: 'Mercado Exterior de Tsukiji: Dónde comer en Tokio'
 description: El Mercado Exterior de Tsukiji (Jonai-gai), en Chuo City, es una compacta cuadrícula de más de 400 puestos y pequeños locales cerca del antiguo mercado mayorista — ve con hambre.
 quickAnswer: El Mercado Exterior de Tsukiji (Jonai-gai), en Chuo City, es una compacta cuadrícula de más de 400 puestos y pequeños locales cerca del antiguo mercado mayorista — ve con el estómago vacío entre las 8 y las 10 de la mañana para disfrutar de la mejor combinación de sashimi fresco, brochetas a la parrilla y tamagoyaki, antes de que las multitudes y las colas alcancen su punto máximo a mediodía. Las famosas subastas de atún se trasladaron a Toyosu en 2018, pero los puestos de comida, las tiendas de cuchillos y las barras de sushi para sentarse del mercado exterior siguen siendo el gran atractivo. Calcula entre 1,5 y 2 horas, y lleva efectivo para los pequeños vendedores.

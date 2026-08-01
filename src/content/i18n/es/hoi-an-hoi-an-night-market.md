@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: hoi-an-hoi-an-night-market
+srcHash: 31abc286f474
 title: 'Mercado Nocturno de Hoi An: Guía de viaje'
 description: El Mercado Nocturno de Hoi An funciona todas las noches a lo largo de la calle Nguyễn Hoàng, en el islote de An Hội, justo al cruzar el puente peatonal de madera desde la ribera del Casco Antiguo.
 quickAnswer: 'El Mercado Nocturno de Hoi An funciona todas las noches a lo largo de la calle Nguyễn Hoàng, en el islote de An Hội, justo al cruzar el puente peatonal de madera desde la ribera del Casco Antiguo. Llega alrededor de las 18-19h, cuando se encienden los farolillos, calcula entre 1,5 y 2 horas y ve con hambre: el gran atractivo es la comida callejera (banh mi, chè, brochetas a la parrilla), además de los farolillos de seda y los souvenirs. Es turístico, pero realmente fotogénico, sobre todo si después sueltas un farolillo flotante con vela en el río Thu Bồn.'

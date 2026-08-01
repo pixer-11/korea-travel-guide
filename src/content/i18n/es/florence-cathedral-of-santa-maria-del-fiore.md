@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: florence-cathedral-of-santa-maria-del-fiore
+srcHash: 257e1c9d673b
 title: 'Catedral de Santa Maria del Fiore: Guía de viaje de Florencia'
-description: El Duomo (Catedral de Santa Maria del Fiore) es la catedral de entrada gratuita de Florencia, coronada por la cúpula de tejas rojas de Brunelleschi; subir a la cúpula o al Campanile de Giotto
+description: El Duomo (Catedral de Santa Maria del Fiore) es la catedral de entrada gratuita de Florencia, coronada por la cúpula de tejas rojas de Brunelleschi; para subir a la cúpula o al Campanile de Giotto se necesita una entrada con horario reservada con antelación.
 quickAnswer: El Duomo (Catedral de Santa Maria del Fiore) es la catedral de entrada gratuita de Florencia, coronada por la cúpula de tejas rojas de Brunelleschi; para subir a la cúpula o al Campanile de Giotto se necesita una entrada con horario reservada con antelación. Calcula entre 30 y 45 minutos solo para el interior de la iglesia, o medio día si combinas la subida a la cúpula, el baptisterio y el museo. Ve justo a la apertura (10:15h) o en la última hora antes del cierre para evitar las peores aglomeraciones en la Piazza del Duomo.
 faq:
   - q: ¿Necesito una entrada para entrar en la catedral?

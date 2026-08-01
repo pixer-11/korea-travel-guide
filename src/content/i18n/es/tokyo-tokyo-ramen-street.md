@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: tokyo-tokyo-ramen-street
+srcHash: 3f1a76119d49
 title: 'Tokyo Ramen Street: dónde comer'
 description: Tokyo Ramen Street es una hilera de unos ocho locales de ramen aclamados en el nivel B1 del centro comercial subterráneo Ichibangai de la estación de Tokio, en Marunouchi, Chiyoda.
 quickAnswer: Tokyo Ramen Street es una hilera de unos ocho locales de ramen aclamados en el nivel B1 del centro comercial subterráneo Ichibangai de la estación de Tokio, en Marunouchi, Chiyoda City. Hay que contar con hacer cola (15-40 minutos en las horas punta de comida y cena), pagar en una máquina expendedora de tickets y comer en unos 20-30 minutos en total. Ve justo antes de la apertura (alrededor de las 10:30-11:00) o a media tarde (14:00-16:00) para evitar las peores colas.

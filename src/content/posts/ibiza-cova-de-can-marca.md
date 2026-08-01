@@ -1,6 +1,6 @@
 ---
 title: "Cova de Can Marçà: Ibiza Travel Guide"
-description: "Cova de Can Marçà is a smugglers' cave on Ibiza's north coast at Port de Sant Miquel, reached by a guided walkway tour that ends with a waterfall-and-light"
+description: Cova de Can Marçà is a smugglers' cave on Ibiza's north coast at Port de Sant Miquel, reached by a guided walkway tour that ends with a waterfall-and-light show synced to music.
 country: "Spain"
 region: "Ibiza"
 category: "attraction"

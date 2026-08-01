@@ -1,6 +1,6 @@
 ---
 title: "Bodrum Castle: Travel Guide"
-description: "Bodrum Castle (Kale, in Turkish) sits on its own small peninsula between Bodrum's two harbor bays, and it's easily worth a half-day: budget 2-3 hours to"
+description: 'Bodrum Castle (Kale, in Turkish) sits on its own small peninsula between Bodrum''s two harbor bays, and it''s easily worth a half-day: budget 2-3 hours to wander the ramparts, towers, and the Museum of Underwater Archaeology inside.'
 country: "Turkey"
 region: "Bodrum"
 category: "hidden-gem"

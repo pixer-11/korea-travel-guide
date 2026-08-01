@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: ayutthaya-ayutthaya-historical-park
+srcHash: 84e733f2c1c4
 title: 'Parque Histórico de Ayutthaya: Guía de viaje'
 description: El Parque Histórico de Ayutthaya es un sitio Patrimonio de la Humanidad de la UNESCO con templos en ruinas y plataformas de palacios repartidos por la antigua isla real, a unos 80 km al norte de Bangkok.
 quickAnswer: El Parque Histórico de Ayutthaya es un sitio Patrimonio de la Humanidad de la UNESCO con templos en ruinas y plataformas de palacios repartidos por la antigua isla real, a unos 80 km al norte de Bangkok. Planifica entre medio día y un día completo, alquila una bicicleta o contrata un tuk-tuk/bote de cola larga (longtail) para moverte entre sitios como Wat Mahathat (la famosa cabeza de Buda entre raíces de árbol), Wat Ratchaburana y Wat Phra Si Sanphet. Ve temprano por la mañana o al final de la tarde para evitar el calor y captar la mejor luz sobre los chedis de ladrillo rojo.

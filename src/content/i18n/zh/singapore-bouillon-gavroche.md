@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: singapore-bouillon-gavroche
+srcHash: 3ad25844a865
 title: 新加坡Bouillon Gavroche
 description: Bouillon Gavroche是一家位于乌节路(Orchard Road)文华购物廊(Mandarin Gallery)内的法式"bouillon"风格小酒馆,将19世纪历史悠久的巴黎bouillon概念首次引入亚洲。
 quickAnswer: Bouillon Gavroche是一家位于乌节路(Orchard Road)文华购物廊(Mandarin Gallery)内的法式"bouillon"风格小酒馆,将19世纪历史悠久的巴黎bouillon概念首次引入亚洲——在充满老派风情的用餐空间里,快速供应平价、不加修饰的法式家常美食。最适合在乌节路购物之余,来一顿经典法式午餐或早场晚餐;由于是新开业、话题度颇高的餐厅,建议提前预订或查询等候时间。前往之前请直接向餐厅确认最新营业时间、订位政策及菜单价格,因为这些信息对于新开餐厅来说变动频繁。

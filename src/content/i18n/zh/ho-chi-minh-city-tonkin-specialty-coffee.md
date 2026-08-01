@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: ho-chi-minh-city-tonkin-specialty-coffee
+srcHash: 51e2a4d5eafc
 title: Tonkin Specialty Coffee：胡志明市旅游指南
 description: Tonkin Specialty Coffee 是一家小巧、设计感十足的咖啡馆，位于第1区（District 1）滨城坊（Bến Thành ward）Lý Tự Trọng 街91号，距离滨城市场（Bến Thành Market）环岛只有几步之遥。
 quickAnswer: Tonkin Specialty Coffee 是一家小巧、设计感十足的咖啡馆，位于第1区（District 1）滨城坊（Bến Thành ward）Lý Tự Trọng 街91号，距离滨城市场（Bến Thành Market）环岛只有几步之遥。这里适合品尝手冲和越南风味的精品咖啡，选用大叻（Da Lat）、蚕蛋（Cau Dat）等越南单一产地咖啡豆，而非常见的炼乳街头咖啡，建议预留30-45分钟，价格接近街头小吃水准却能享受到咖啡馆级别的工艺。店内空间不大，如果想有座位而不是只能带走，建议工作日上午前往。

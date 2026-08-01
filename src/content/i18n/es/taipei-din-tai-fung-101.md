@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: taipei-din-tai-fung-101
+srcHash: ef44c2c35cc8
 title: 'Din Tai Fung 101: Dónde comer en Taipéi'
-description: Esta sucursal de Din Tai Fung se encuentra en el sótano del edificio de City Hall Rd, en el distrito de Xinyi, a pocos minutos a pie de Taipei 101, lo que la convierte en la parada natural
+description: Esta sucursal de Din Tai Fung se encuentra en el sótano del edificio de City Hall Rd, en el distrito de Xinyi, a pocos minutos a pie de Taipei 101, lo que la convierte en la parada natural para comer o cenar después de visitar la torre o los centros comerciales cercanos.
 quickAnswer: 'Esta sucursal de Din Tai Fung se encuentra en el sótano del edificio de City Hall Rd, en el distrito de Xinyi, a pocos minutos a pie de Taipei 101, lo que la convierte en la parada natural para comer o cenar después de visitar la torre o los centros comerciales cercanos. Abre todos los días de 10:45am a 8:30pm, pero conviene ir justo a la apertura en día de semana (10:45am–12pm) o justo a la apertura de sábado/domingo (10:45–11:45am) si quieres evitar la cola, ya que las tardes de 1pm hasta el cierre en fin de semana se convierten en una larga espera. Espera colas sin importar el horario: esta es una de las sucursales de Din Tai Fung con más afluencia constante de toda la ciudad.'
 faq:
   - q: ¿Cuál es el horario de apertura de Din Tai Fung 101?

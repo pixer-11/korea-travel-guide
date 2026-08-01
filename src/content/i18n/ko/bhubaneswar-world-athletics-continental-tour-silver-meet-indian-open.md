@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: bhubaneswar-world-athletics-continental-tour-silver-meet-indian-open
+srcHash: 0b48fcea11b3
 title: '세계육상연맹 컨티넨탈 투어 실버 미팅(인디언 오픈): 알아야 할 것들 (부바네스와르)'
 description: 인도 부바네스와르(Bhubaneswar)에서 열리는 세계육상연맹 컨티넨탈 투어 실버 미팅(인디언 오픈) — 2026년 8월 22일. 대회 개요와 일정, 장소, 그리고 관람 계획을 세우는 방법을 안내합니다.
 quickAnswer: 인도 최초의 세계육상연맹 컨티넨탈 투어 실버 미팅인 인디언 오픈이 2026년 8월 22일 부바네스와르(Bhubaneswar)의 칼링가 스타디움(Kalinga Stadium)에서 열린다. 이는 2025년 이곳에서 열렸던 브론즈급 대회에서 한 단계 격상된 것이다. 하루 일정으로 저녁 시간대에 비중을 둔 국제 육상 경기가 펼쳐질 예정이며, 티켓, 게이트 오픈 시간, 전체 경기 일정은 대회일이 가까워지면 세계육상연맹(World Athletics)과 오디샤(Odisha) 스포츠 공식 채널을 통해 확정될 예정이다.

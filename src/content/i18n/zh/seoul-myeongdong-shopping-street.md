@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: seoul-myeongdong-shopping-street
+srcHash: bb00bdeea5e2
 title: 明洞购物街：首尔旅行指南
 description: 明洞是首尔规模最大的街边购物与街头小吃聚集地，紧凑的街区距离乙支路（Euljiro）或明洞地铁站仅几分钟路程。
 quickAnswer: 明洞是首尔规模最大的街边购物与街头小吃聚集地，紧凑的街区距离乙支路（Euljiro）或明洞地铁站仅几分钟路程。建议选在工作日下午前往，或在傍晚摊位刚开始营业时前来，趁着晚饭后人潮达到高峰之前，逛逛化妆品店、尝尝炒年糕（tteokbokki）、糖饼（hotteok）和烤串。建议安排2-3小时，若想坐下来好好吃顿饭，或顺道去明洞圣堂（Myeongdong Cathedral）逛逛，则需要更多时间。

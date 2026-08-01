@@ -1,6 +1,6 @@
 ---
 title: "Lau Pa Sat: Where to Eat in Singapore"
-description: "Lau Pa Sat is the octagonal cast-iron Victorian market at 18 Raffles Quay in the CBD, a five-minute walk from Raffles Place MRT (Exits G or H) or Downtown"
+description: Lau Pa Sat is the octagonal cast-iron Victorian market at 18 Raffles Quay in the CBD, a five-minute walk from Raffles Place MRT (Exits G or H) or Downtown MRT (Exit A).
 country: "Singapore"
 region: "Singapore"
 category: "restaurant"

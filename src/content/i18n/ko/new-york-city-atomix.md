@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: new-york-city-atomix
+srcHash: b69b503ba618
 title: '아토믹스(Atomix): 뉴욕에서 꼭 가봐야 할 맛집'
 description: '미국 뉴욕에 위치한 아토믹스(Atomix) — 지금 뜨고 있는 곳: 어떤 곳인지, 어디에 있는지, 어떻게 방문하는지 알아봅니다.'
 quickAnswer: 아토믹스(Atomix)는 정정현(Junghyun "JP" Park)과 엘리아 박(Ellia Park) 부부가 운영하는 미쉐린 2스타 한식 코스 요리 레스토랑으로, 매디슨 스퀘어 파크(Madison Square Park) 인근 코리아타운과 가까운 지역에 자리하고 있으며, 현재 북미 50 Best Restaurants 2026 리스트에서 7위에 올라 있습니다. 이곳은 즉흥적으로 들를 수 있는 저녁 식사가 아니라 12코스로 구성된 몇 시간에 걸친 경험이므로, 예약 시스템이 허용하는 한 최대한 일찍 예약하고 방문 계획을 세우기 전에 현재 운영 시간, 좌석 시간, 가격을 레스토랑에 직접 확인하시기 바랍니다.

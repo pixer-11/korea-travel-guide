@@ -1,6 +1,6 @@
 ---
 title: "Mural - Cannes Cinema: Travel Guide"
-description: "The Cannes Cinema mural sits on Quai Saint-Pierre, right where the old port meets the Palais des Festivals, and it's a five-minute stop rather than a"
+description: The Cannes Cinema mural sits on Quai Saint-Pierre, right where the old port meets the Palais des Festivals, and it's a five-minute stop rather than a destination in itself — pair it with a stroll along the quay.
 country: "France"
 region: "Cannes"
 category: "attraction"

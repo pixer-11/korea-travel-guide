@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: johor-bahru-johor-zoo
+srcHash: 58ed94f4ab88
 title: '조호 동물원(Johor Zoo): 조호바루(Johor Bahru) 여행 가이드'
 description: 조호 동물원은 조호바루 타만 이스타나(Taman Istana)에 위치한 작고 오래된 시립 동물원으로, 최신식 서식지보다는 낙타 먹이주기, 조랑말 타기, 페달보트로 유명합니다.
 quickAnswer: 조호 동물원은 조호바루 타만 이스타나(Taman Istana)에 있는 작고 오래된 시립 동물원으로, 최신식 서식지보다는 낙타 먹이주기, 조랑말 타기, 페달보트로 유명합니다. 더위와 주말 가족 인파를 피하려면 평일 오전 개장 시각에 맞춰 방문하고, 2~3시간 정도를 잡으세요. 근처의 술탄 아부 바카르 주립 모스크(Sultan Abu Bakar State Mosque)와 로열 아부 바카르 박물관(Royal Abu Bakar Museum)과 함께 묶어서 둘러보기 좋습니다.

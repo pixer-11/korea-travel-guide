@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: madrid-museo-nacional-del-prado
+srcHash: 90f7aeb05225
 title: 'Museo Nacional del Prado: Guía de viaje de Madrid'
 description: El Prado es el museo de arte imprescindible de Madrid, hogar de "Las Meninas" de Velázquez, las "Pinturas negras" de Goya y una de las mejores colecciones de El Greco del mundo.
 quickAnswer: El Prado es el museo de arte imprescindible de Madrid, hogar de "Las Meninas" de Velázquez, las "Pinturas negras" de Goya y una de las mejores colecciones de El Greco del mundo. Entra por la puerta de los Jerónimos, en el Paseo del Prado, reserva al menos 2,5-3 horas y compra las entradas con hora fija por internet con antelación para evitar colas. Ve temprano en una mañana entre semana o durante el horario de entrada gratuita por la tarde para disfrutar de una visita más tranquila.

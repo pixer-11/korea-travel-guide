@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: shanghai-hikiniku-to-come
+srcHash: b176dd3f130e
 title: 挽肉と、来る(Hikiniku To Come):上海旅行ガイド
 description: 上海の新注目スポット「挽肉と、来る(Hikiniku To Come)」について — どんな店で、どこにあり、どう訪れるべきかを解説。
 quickAnswer: 挽肉と、来る(Hikiniku To Come)は東京発のハンバーグ専門店で、上海の東湖路(Donghu Lu)にできた新しい複合施設「FUFU」に出店し、オープン初日から行列を作り続けている。魅力はシンプルで、厚みのある和牛パティを炭火で焼き上げ、コクを出す生卵をのせ、ご飯はおかわり自由。平日、開店前に到着すること、そして出発前に現在の営業時間と予約の可否を確認することをおすすめする。

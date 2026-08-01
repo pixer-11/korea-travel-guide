@@ -1,6 +1,6 @@
 ---
 title: 'Chew Jetty: Penang Travel Guide'
-description: Chew Jetty is a 19th-century stilt-house settlement built out over the water in Georgetown, Penang, and one of the clan jetties open to visitors — expect
+description: Chew Jetty is a 19th-century stilt-house settlement built out over the water in Georgetown, Penang, and one of the clan jetties open to visitors — expect crowds, so aim for early morning (before 9am) or after 5pm when the day-trip tour buses thin out.
 country: Malaysia
 region: Penang
 category: attraction

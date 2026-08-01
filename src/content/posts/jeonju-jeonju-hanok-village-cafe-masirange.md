@@ -1,6 +1,6 @@
 ---
 title: 'Jeonju hanok village cafe masirange: Travel Guide'
-description: Masirange is a hanok-style café tucked in the Jeondong side of Jeonju Hanok Village, a short walk from Jeondong Catholic Church, best visited on a weekday
+description: Masirange is a hanok-style café tucked in the Jeondong side of Jeonju Hanok Village, a short walk from Jeondong Catholic Church, best visited on a weekday morning or late afternoon to avoid the tour-group crush.
 region: Jeonju
 country: South Korea
 category: trendy

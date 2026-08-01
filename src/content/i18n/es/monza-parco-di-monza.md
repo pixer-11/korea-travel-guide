@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: monza-parco-di-monza
+srcHash: 1e19e65de0de
 title: Guía de viaje del Parco di Monza
 description: El Parco di Monza es uno de los parques amurallados más grandes de Europa (unas 700 hectáreas), y rodea la Villa Reale y el Autodromo Nazionale Monza.
 quickAnswer: 'El Parco di Monza es uno de los parques amurallados más grandes de Europa (unas 700 hectáreas), y rodea la Villa Reale y el Autodromo Nazionale Monza. Ve temprano un día laborable por la mañana para evitar las multitudes: las bicicletas, los picnics y las vías públicas del circuito de F1 hacen que sea fácil dedicarle medio día o un día completo. Entra por la Porta Monza o la Porta Vedano y dirígete a los jardines de la Villa Reale o da una vuelta por las carreteras públicas que rodean el circuito.'

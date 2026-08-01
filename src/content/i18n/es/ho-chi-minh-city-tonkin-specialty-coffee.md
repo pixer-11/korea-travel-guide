@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: ho-chi-minh-city-tonkin-specialty-coffee
+srcHash: 51e2a4d5eafc
 title: 'Tonkin Specialty Coffee: Guía de viaje de Ciudad Ho Chi Minh'
 description: Tonkin Specialty Coffee es una cafetería pequeña y de diseño cuidado en 91 Lý Tự Trọng, en el barrio Bến Thành del Distrito 1, a poca distancia a pie de la rotonda del mercado Bến Thành.
 quickAnswer: Tonkin Specialty Coffee es una cafetería pequeña y de diseño cuidado en 91 Lý Tự Trọng, en el barrio Bến Thành del Distrito 1, a poca distancia a pie de la rotonda del mercado Bến Thành. Ve a probar el pour-over y el café de especialidad al estilo vietnamita, elaborado con granos vietnamitas de origen único (piensa en Da Lat, Cau Dat) en lugar del típico café callejero con leche condensada; calcula entre 30 y 45 minutos y espera pagar precios de comida callejera por una elaboración de nivel de cafetería especializada. El local es pequeño, así que lo ideal es visitarlo a media mañana entre semana si quieres sentarte en lugar de pedir para llevar.

@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: sentosa-skyline-luge-singapore
+srcHash: a73749a0a472
 title: 新加坡云顶飞索滑车（Skyline Luge）：圣淘沙旅游攻略
 description: 新加坡云顶飞索滑车（Skyline Luge Singapore）位于圣淘沙 1 Imbiah Rd，先乘缆车登顶饱览风光，再自驾卡丁车式滑车沿龙迹赛道（Dragon Trail）等赛道俯冲而下。
 quickAnswer: 新加坡云顶飞索滑车（Skyline Luge Singapore）位于圣淘沙 1 Imbiah Rd，将风景优美的缆车登顶体验与自驾卡丁车式滑车下坡结合在一起，赛道包括龙迹赛道（Dragon Trail）和丛林赛道（Jungle Trail）等。建议提前在网上购买套票（缆车+多次滑车），选择平日上午或下午4点后前往以避开人流高峰，整体行程（含排队）大约需要1.5至2小时。

@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: kanazawa-kourin-sushi
+srcHash: 0a0572c286b6
 title: 'Kourin Sushi: dónde comer en Kanazawa'
 description: Kourin Sushi (光琳寿司) es una barra de sushi bien valorada y de precio moderado en Bakuromachi, a poca distancia a pie del mercado de Omicho, el principal mercado de pescado de Kanazawa.
 quickAnswer: Kourin Sushi (光琳寿司) es una barra de sushi bien valorada y de precio moderado en Bakuromachi, a poca distancia a pie del mercado de Omicho (Omicho Market), el principal mercado de pescado de Kanazawa y la fuente de buena parte de lo que llega a su cinta transportadora o mostrador. Con una calificación de 4.7 basada en más de 1,400 reseñas, es una opción confiable para probar mariscos de la región de Kaga (Nodoguro, Kanburi, cangrejo Kobako de temporada) sin la espera ni el precio de los sushi-ya con servicio de mesa del mercado. Ve a almorzar entre semana para evitar las filas, y espera una experiencia informal y de ritmo rápido, típica del kaiten-zushi (sushi de cinta transportadora).

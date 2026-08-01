@@ -1,8 +1,6 @@
 ---
 title: 'Wat Chedi Luang: Chiang Mai Travel Guide'
-description: >-
-  Wat Chedi Luang, in the heart of Chiang Mai's Old City on Prapokklao Road, is
-  a must-see for its massive partially-ruined 15th-century chedi and the city
+description: Wat Chedi Luang, in the heart of Chiang Mai's Old City on Prapokklao Road, is a must-see for its massive partially-ruined 15th-century chedi and the city pillar (lak mueang) shrine in its grounds.
 country: Thailand
 region: Chiang Mai
 category: attraction

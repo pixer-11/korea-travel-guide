@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: provence-lavender-fields
+srcHash: 2c627b97b3bf
 title: 'Campos de lavanda: guía de viaje por la Provenza'
-description: La mejor época para ver la lavanda en la Provenza va de mediados de junio a principios de agosto, con el pico en la segunda quincena de julio, siendo la Meseta de Valensole, la
+description: La mejor época para ver la lavanda en la Provenza va de mediados de junio a principios de agosto, con el pico en la segunda quincena de julio, siendo la Meseta de Valensole (Valensole Plateau), la cuenca de Sault y los campos alrededor de Bonnieux y el Luberon algunos de los lugares más fiables.
 quickAnswer: La mejor época para ver la lavanda en la Provenza va de mediados de junio a principios de agosto, con el pico en la segunda quincena de julio, siendo la Meseta de Valensole (Valensole Plateau), la cuenca de Sault y los campos alrededor de Bonnieux y el Luberon algunos de los lugares más fiables. Procura ir a primera hora de la mañana (7–9h) o en la hora dorada antes del atardecer, tanto por la luz como por las temperaturas más frescas, y alquila un coche, ya que los campos están dispersos por carreteras rurales tipo D sin acceso en tren.
 faq:
   - q: ¿Cuál es la mejor época del año para ver los campos de lavanda en la Provenza?

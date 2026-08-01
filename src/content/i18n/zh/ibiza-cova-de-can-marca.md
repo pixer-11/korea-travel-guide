@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: ibiza-cova-de-can-marca
+srcHash: dd27a03af7ae
 title: Cova de Can Marçà(坎马萨洞穴):伊维萨岛旅行指南
 description: Cova de Can Marçà 是位于伊维萨岛北岸圣米盖尔港(Port de Sant Miquel)的一处走私者洞穴,需跟随导览沿栈道游览,尾声是一场瀑布灯光秀。
 quickAnswer: Cova de Can Marçà 是位于伊维萨岛北岸圣米盖尔港(Port de Sant Miquel)的一处走私者洞穴,游客需跟随导览沿栈道游览,尾声是一场配乐瀑布灯光秀。整个游览大约需要一小时,建议穿防滑鞋(台阶潮湿且不平整),并选择清晨或傍晚时段前往,以避开正午时分蜂拥而至的旅游团。可以将其与洞穴正下方圣米盖尔湾(Sant Miquel)的游泳结合起来。

@@ -1,6 +1,6 @@
 ---
 title: "Fish Market Tsukiji Outer Market: Where to Eat in Tokyo"
-description: "Tsukiji Outer Market (Jonai-gai) in Chuo City is a compact grid of 400+ stalls and small eateries near the old wholesale market — go on an empty stomach"
+description: Tsukiji Outer Market (Jonai-gai) in Chuo City is a compact grid of 400+ stalls and small eateries near the old wholesale market — go on an empty stomach between 8-10am for the best mix of fresh sashimi, grilled skewers, and tamagoyaki, before crowds and lines peak midday.
 country: "Japan"
 region: "Tokyo"
 category: "restaurant"

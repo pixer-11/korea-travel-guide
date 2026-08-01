@@ -1,8 +1,9 @@
 ---
 lang: ko
 slug: shanghai-vice
+srcHash: c9a1282e7cc9
 title: 상하이의 VICE
-description: VICE는 상하이 옛 프랑스 조계지(French Concession)의 융자루(Yongjia Lu)에 위치한 신규 레스토랑으로, 복원된 헤리티지 롱탕 주택 안에 자리하고 있으며 셰프 카를로스 소토마요르(Carlos Sotomayor)와
+description: VICE는 상하이 옛 프랑스 조계지(French Concession)의 융자루(Yongjia Lu)에 위치한 신규 레스토랑으로, 복원된 헤리티지 롱탕 주택 안에 자리하고 있으며 셰프 카를로스 소토마요르(Carlos Sotomayor)와 칸티나 아가베(Cantina Agave)의 라페 이브라하미안(Raffe Ibrahamian)이 함께 선보입니다.
 quickAnswer: VICE는 상하이 옛 프랑스 조계지(French Concession)의 융자루(Yongjia Lu)에 위치한 신규 레스토랑으로, 복원된 헤리티지 롱탕 주택 안에 자리하고 있으며 셰프 카를로스 소토마요르(Carlos Sotomayor)와 칸티나 아가베(Cantina Agave)의 라페 이브라하미안(Raffe Ibrahamian)이 함께 선보입니다. 소토마요르의 페루 뿌리와 아시아의 영향을 아우르는 글로벌한 메뉴를 선보이는 이곳은 상하이 다이닝 씬을 둘러보는 이들 사이에서 특히 화제가 되는 신규 오픈 매장 중 하나입니다. 새로 문을 열어 관심이 뜨거운 만큼, 방문 전 예약과 최신 영업시간 확인을 권장합니다.
 faq:
   - q: VICE는 정확히 어디에 있나요?

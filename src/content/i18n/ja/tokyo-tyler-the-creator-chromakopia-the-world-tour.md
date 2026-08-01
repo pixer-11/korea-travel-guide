@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: tokyo-tyler-the-creator-chromakopia-the-world-tour
+srcHash: e163c1d67ef3
 title: 'タイラー・ザ・クリエイター「Chromakopia: The World Tour」東京公演:知っておきたいこと(Tokyo)'
 description: 'タイラー・ザ・クリエイターが2026年9月9日〜10日、東京・有明アリーナ(Ariake Arena)にて「Chromakopia: The World Tour」を開催。8年ぶりとなる日本公演です。'
 quickAnswer: 'タイラー・ザ・クリエイターが2026年9月9日〜10日、東京・有明アリーナ(Ariake Arena)にて「Chromakopia: The World Tour」を開催します。8年ぶりとなる日本公演です。開場・開演時刻はまだ公式に発表されていないため、航空券やホテルを予約する前に、公演日、チケットの種類、開場時刻についてはタイラーの公式ツアーサイトまたは有明アリーナの公演情報で必ず確認してください。両日ともに会場は混雑が予想されるため、有明エリアは飲食店の選択肢が限られていることを踏まえて、交通手段と食事の計画を立てておくことをおすすめします。'

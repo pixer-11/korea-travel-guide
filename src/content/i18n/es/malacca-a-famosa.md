@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: malacca-a-famosa
+srcHash: 813fb1ca8e6e
 title: 'A Famosa: Guía de viaje de Malaca'
-description: La puerta superviviente de A Famosa, Porta de Santiago, se encuentra en Jalan Kota, en Banda Hilir, junto a la Colina de San Pablo (St Paul's Hill) — a cinco minutos a pie del Stadthuys y
+description: La puerta superviviente de A Famosa, Porta de Santiago, se encuentra en Jalan Kota, en Banda Hilir, justo al lado de la Colina de San Pablo (St Paul's Hill) — a cinco minutos a pie del Stadthuys y de Christ Church, así que conviene combinarla con esos lugares en lugar de tratarla como una parada aislada.
 quickAnswer: La puerta superviviente de A Famosa, Porta de Santiago, se encuentra en Jalan Kota, en Banda Hilir, justo al lado de la Colina de San Pablo (St Paul's Hill) — a cinco minutos a pie del Stadthuys y de Christ Church, así que conviene combinarla con esos lugares en lugar de tratarla como una parada aislada. Con más de 19.500 reseñas y una valoración de 4.4, es uno de los sitios más visitados de Melaka, así que conviene ir a la hora de apertura o a última hora de la tarde para evitar lo peor de la avalancha de autobuses turísticos y el calor del mediodía. Con quince a veinte minutos basta para ver la ruina en sí; calcula medio día si vas a subir la colina y visitar los museos de alrededor.
 faq:
   - q: ¿Cómo llego a A Famosa desde Jonker Street?

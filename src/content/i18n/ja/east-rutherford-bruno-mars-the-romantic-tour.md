@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: east-rutherford-bruno-mars-the-romantic-tour
+srcHash: 75a88049fa70
 title: ブルーノ・マーズ「The Romantic Tour」:知っておきたいこと(イーストラザフォード)
 description: ブルーノ・マーズの「The Romantic Tour」がアメリカ・イーストラザフォードにやってくる—2026年8月21日〜26日。公演の概要、日程・会場、そして事前に押さえておきたい計画のポイントを紹介します。
 quickAnswer: ブルーノ・マーズが「The Romantic Tour」を引っさげて、ニュージャージー州イーストラザフォード(East Rutherford)のメットライフ・スタジアム(MetLife Stadium)で複数夜にわたる公演を行うと発表されました。日程は2026年8月21日〜26日です。「Die with a Smile」や「APT.」といった近年のヒット曲を軸にした、スタジアム規模の大型公演になると予想されます。交通手段、チケット、ホテルは早めに計画しておきましょう。正確な日程・開演時間・料金は、必ずTicketmasterまたはブルーノ・マーズの公式サイトで確認してください。

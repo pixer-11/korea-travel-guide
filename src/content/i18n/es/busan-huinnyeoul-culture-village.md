@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: busan-huinnyeoul-culture-village
+srcHash: e339f49f6ec0
 title: 'Huinnyeoul Culture Village: Guía de viaje de Busan'
-description: Huinnyeoul Culture Village es un pequeño barrio costero en la isla de Yeongdo, en Busan, al que se llega mejor en autobús (no hay metro directo) y que se recorre mejor
+description: Huinnyeoul Culture Village es un pequeño barrio costero en la isla de Yeongdo, en Busan, al que se llega mejor en autobús (no hay metro directo) y que se recorre mejor a pie en 1–1,5 horas.
 quickAnswer: Huinnyeoul Culture Village es un pequeño barrio costero en la isla de Yeongdo, en Busan, al que se llega mejor en autobús (no hay metro directo) y que se recorre mejor a pie en 1–1,5 horas. Ven por sus estrechos callejones junto al acantilado, sus paredes cubiertas de murales y un paseo costero rocoso con vistas hacia la bahía de Jeoryeong (Jeoryeong Bay); combínalo con el cercano Jeoryeong Coastal Walk o el monte Bongnae (Bongnae Mountain) para una salida de medio día. Ve a última hora de la tarde para disfrutar de una luz más suave sobre el mar y menos multitudes que en Gamcheon Culture Village.
 faq:
   - q: ¿Cómo llego a Huinnyeoul Culture Village sin coche?

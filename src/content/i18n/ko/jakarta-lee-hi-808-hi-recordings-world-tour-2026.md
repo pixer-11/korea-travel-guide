@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: jakarta-lee-hi-808-hi-recordings-world-tour-2026
+srcHash: '187078762265'
 title: '이하이 – 808 HI Recordings 월드투어 2026: 자카르타 공연 알아두기'
 description: 2026년 8월 9일, 인도네시아 자카르타에서 열리는 이하이 – 808 HI Recordings 월드투어 공연 정보입니다. 공연 개요, 일시와 장소, 그리고 관람 계획 시 참고할 사항을 안내합니다.
 quickAnswer: 이하이가 자신의 월드투어 "808 HI Recordings"로 2026년 8월 9일 처음으로 자카르타를 찾는다. 공연은 남자카르타 SCBD(Sudirman Central Business District)에 위치한 벵켈 홀(Bengkel Hall)에서 열리며, 스페셜 게스트로 래퍼 도끼(DOK2)가 함께한다. 티켓, 정확한 공연 시간, 입장 관련 세부 사항은 공식 프로모터와 이하이/공연장 측의 인증된 소셜 채널을 통해 공지될 예정이다. K팝·K힙합 투어 일정과 라인업은 변동될 수 있으므로, 항공편 예약이나 다른 일정을 잡기 전에 반드시 최신 공지를 확인하는 것이 좋다.

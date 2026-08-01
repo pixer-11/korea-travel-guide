@@ -1,8 +1,9 @@
 ---
 lang: zh
 slug: tokyo-teamlab-planets-tokyo-dmm
+srcHash: b349a267d778
 title: teamLab Planets TOKYO DMM：旅行指南
-description: teamLab Planets 是位于江东区丰洲（Toyosu, Koto City）的一座光影水景数字艺术馆，需赤脚参观——建议提前在网上预约限时门票，穿短裤或方便挽起裤脚的衣物
+description: teamLab Planets 是位于江东区丰洲的一座赤脚参观的光影水景数字艺术馆——请提前在网上预约限时入场票，穿短裤或方便挽起裤脚的衣物（你会涉水而行），并预留90分钟到2小时的参观时间。
 quickAnswer: teamLab Planets 是位于江东区丰洲的一座赤脚参观的光影水景数字艺术馆——请提前在网上预约限时入场票，穿短裤或方便挽起裤脚的衣物（你会涉水而行），并预留90分钟到2小时的参观时间。从百合海鸥线（Yurikamome Line）或东京地铁有乐町线（Tokyo Metro Yurakucho Line）的丰洲站（Toyosu Station）步行即可到达，这里人流量一直很大，因此工作日上午通常人最少。
 faq:
   - q: 如何前往 teamLab Planets TOKYO DMM？

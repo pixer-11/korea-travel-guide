@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: chiang-mai-garden-to-table-chiangmai
+srcHash: 815d1f2e38b6
 title: 'Garden to Table Chiangmai: dónde comer en Chiang Mai'
 description: Garden to Table Chiangmai es un restaurante informal y lleno de plantas dentro de las murallas de la Ciudad Vieja, en Ratchapakhinai Road, apreciado por sus platos tailandeses y del norte (Lanna) frescos.
 quickAnswer: Garden to Table Chiangmai es un restaurante informal y lleno de plantas dentro de las murallas de la Ciudad Vieja, en Ratchapakhinai Road, apreciado por sus platos tailandeses y del norte (Lanna) frescos a precios accesibles, como los de la comida callejera. Está a poca distancia a pie de Wat Phra Singh y Thapae Gate, así que puedes combinar una comida aquí con un recorrido por los templos. Ve justo a la apertura (2pm) o para una cena temprana, ya que su calificación de 4.9 con casi 2,000 reseñas lo convierte en una de las mesas más solicitadas del barrio. Ten en cuenta que cierra los domingos.

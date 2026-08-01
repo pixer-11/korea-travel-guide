@@ -1,6 +1,6 @@
 ---
 title: 'Clarke Quay Jetty: Travel Guide'
-description: Clarke Quay Jetty is the small boarding point on the Singapore River where Singapore River Cruise bumboats pick up and drop off passengers along Clarke
+description: Clarke Quay Jetty is the small boarding point on the Singapore River where Singapore River Cruise bumboats pick up and drop off passengers along Clarke Quay's restored godown row.
 country: Singapore
 region: Clarke Quay
 category: hidden-gem

@@ -1,6 +1,6 @@
 ---
 title: 'Alhambra: Granada Travel Guide'
-description: Book Alhambra tickets online weeks (in high season, months) ahead at the official site tickets.alhambra-patronato.es, choosing a specific entry slot for the
+description: Book Alhambra tickets online weeks (in high season, months) ahead at the official site tickets.alhambra-patronato.es, choosing a specific entry slot for the Nasrid Palaces — this is the one part of the visit that's timed and non-negotiable.
 country: Spain
 region: Granada
 category: attraction

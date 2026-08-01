@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: chinatown-chinatown-complex
+srcHash: 7e4d8d0f7a94
 title: 'Chinatown Complex: dónde comer'
 description: Chinatown Complex, en Smith Street, es el hawker centre más grande de Singapur, con cientos de puestos en el segundo piso, encima de un mercado húmedo.
 quickAnswer: Chinatown Complex, en Smith Street, es el hawker centre más grande de Singapur, con cientos de puestos en el segundo piso, encima de un mercado húmedo. Ve un día entre semana por la mañana (antes de las 11am) o a media tarde (2-4pm) para evitar el gentío del almuerzo, lleva efectivo en billetes pequeños y apunta a nombres famosos como Liao Fan Hawker Chai Tow Kway y el puesto de Hong Kong Soya Sauce Chicken Rice, siempre con cola. Calcula entre 45 y 90 minutos y prepárate para compartir mesa.

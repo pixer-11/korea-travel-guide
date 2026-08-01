@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: busan-namaste-haeundae
+srcHash: 52a5fc5eea2e
 title: 'Namaste Haeundae: dónde comer en Busan'
-description: Namaste Haeundae es un restaurante indio y nepalí escondido a pocos minutos a pie tierra adentro desde la playa de Haeundae, conocido por sus platos tandoori, curries y naan recién horneado
+description: Namaste Haeundae es un restaurante indio y nepalí escondido a pocos minutos a pie tierra adentro desde la playa de Haeundae (Haeundae Beach), conocido por sus platos tandoori, curries y naan recién horneado a precios moderados (calificación de 4.8 con más de 3,200 reseñas).
 quickAnswer: Namaste Haeundae es un restaurante indio y nepalí escondido a pocos minutos a pie tierra adentro desde la playa de Haeundae (Haeundae Beach), conocido por sus platos tandoori, curries y naan recién horneado a precios moderados (calificación de 4.8 con más de 3,200 reseñas). Ve a almorzar o a cenar temprano (antes de las 6:30pm) para evitar la espera, y combina la visita con un paseo por la playa de Haeundae o por la cercana carretera costera Dalmaji-gil.
 faq:
   - q: ¿Cómo llego a Namaste Haeundae sin auto?

@@ -1,6 +1,6 @@
 ---
 title: "Yokohama Marine Tower: Travel Guide"
-description: "Yokohama Marine Tower sits at the edge of Yamashita Park in Naka Ward, a 106.2-metre former lighthouse tower built in 1961 with an indoor/outdoor observation"
+description: Yokohama Marine Tower sits at the edge of Yamashita Park in Naka Ward, a 106.2-metre former lighthouse tower built in 1961 with an indoor/outdoor observation deck over the harbor.
 country: "Japan"
 region: "Yokohama"
 category: "attraction"

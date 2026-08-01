@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: alcaniz-parador-de-alcaniz
+srcHash: 46e44a497609
 title: 'Parador de Alcañiz: Guía de viaje'
 description: El Parador de Alcañiz es un castillo-monasterio calatravo del siglo XII convertido en hotel, encaramado en el cerro de La Almunia justo sobre la localidad de Alcañiz, en Teruel.
 quickAnswer: El Parador de Alcañiz es un castillo-monasterio calatravo del siglo XII convertido en hotel, encaramado en el cerro de La Almunia justo sobre la localidad de Alcañiz, en la provincia de Teruel, a unos 90 minutos en coche de Zaragoza. Es un lugar bien conocido más que un hallazgo secreto, así que conviene reservar habitación y mesa para la cena con antelación, y procurar llegar a media tarde para ver cómo la piedra se dora antes de que se congreguen los grupos que buscan la puesta de sol en la terraza mirador. Las habitaciones tienen precios de gama media a algo elevados para la zona, y su ubicación en lo alto de la colina hace recomendable disponer de coche.

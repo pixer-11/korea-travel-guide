@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: kampong-glam-ayasofya-turkish-restaurant
+srcHash: bc8141b35c9a
 title: '아야소피아 터키 레스토랑: 캄퐁글람(Kampong Glam) 맛집 가이드'
 description: 아야소피아(Ayasofya)는 캄퐁글람(Kampong Glam)의 마스지드 술탄(Masjid Sultan)으로 이어지는 보행자 전용 헤리티지 거리, 51 Bussorah St에 위치한 터키 레스토랑입니다.
 quickAnswer: 아야소피아(Ayasofya)는 캄퐁글람(Kampong Glam)의 마스지드 술탄(Masjid Sultan)으로 이어지는 보행자 전용 헤리티지 거리, 51 Bussorah St에 위치한 터키 레스토랑입니다. 간단히 먹고 가기보다는 케밥, 아다나(Adana), 터키식 피데(pide) 같은 그릴 요리를 여유롭게 즐기는 정찬 식사에 적합합니다. 4,500개가 넘는 리뷰에서 4.8점을 기록할 만큼 꾸준히 손님이 몰리는 곳이라, 오픈 직후나 오후 중반에 방문하면 대기를 피할 수 있습니다. 가격대는 중간 수준(price level 2)이며, 제대로 식사하려면 45~75분 정도를 계획하는 것이 좋습니다.

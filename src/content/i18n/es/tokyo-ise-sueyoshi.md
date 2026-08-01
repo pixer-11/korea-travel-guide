@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: tokyo-ise-sueyoshi
+srcHash: 75ff817b03a6
 title: 'Ise Sueyoshi: dónde comer en Tokio'
 description: Ise Sueyoshi es un pequeño restaurante de kaiseki con barra y mesas en Nishiazabu, Minato City, conocido por un menú japonés de varios tiempos, meticulosamente emplatado y de inspiración estacional.
 quickAnswer: 'Ise Sueyoshi es un pequeño restaurante de kaiseki con barra y mesas en Nishiazabu, Minato City, conocido por un menú japonés de varios tiempos, meticulosamente emplatado y de inspiración estacional, y por una calificación de 4.9 entre más de 450 comensales. Es un lugar solo con reserva, pensado para ocasiones especiales más que para una visita casual: reserva con semanas de antelación, viste de manera smart-casual y calcula una velada completa (entre dos y tres horas aproximadamente) para disfrutar del menú completo.'

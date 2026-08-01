@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: kampong-glam-kampong-glam-cafe
+srcHash: 53ff9f145fb6
 title: 甘榜格南咖啡馆(Kampong Glam Cafe)旅行指南
 description: 甘榜格南咖啡馆位于步行街Bussorah Street上,距苏丹清真寺(Sultan Mosque)仅两分钟路程,最适合来一份平价的炸鸡、面条或米饭套餐。
 quickAnswer: 甘榜格南咖啡馆位于步行街Bussorah Street上,距苏丹清真寺(Sultan Mosque)仅两分钟路程,最适合在新加坡最美的历史街道之一边观察人来人往,边享用一份平价的炸鸡、面条或米饭套餐。建议工作日下午4-6点前往,可以在晚餐高峰前抢到户外座位;这里支持现金和刷卡,无需预约,用餐时间也很灵活——45分钟到一小时就绰绰有余。

@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: gardena-nam-kitchen
+srcHash: 6dbc0d7d8c70
 title: 가디나(Gardena)의 NAM 키친(NAM Kitchen) 방문 가이드
 description: 미국 가디나(Gardena)에 위치한 NAM 키친(NAM Kitchen)에 대한 안내 — 요즘 화제인 이곳이 어떤 곳인지, 어디에 있는지, 어떻게 방문하면 좋을지 소개합니다.
 quickAnswer: NAM 키친(NAM Kitchen)은 로스앤젤레스 남쪽 교외 지역인 가디나(Gardena)에 위치한 베트남-페루 퓨전 레스토랑으로, Yelp의 2026년 미국 톱 100 레스토랑 리스트에서 3위에 올랐으며 그 해 리뷰 수가 가장 많은 업체로도 꼽혔습니다. 저녁 피크 시간대에 방문하면 대기가 있을 수 있으니, 리스트 발표 이후 수요가 급증한 만큼 방문 전 현재 영업시간과 예약 정책을 꼭 확인하세요.

@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: gyeongju-yangdongmaeul-gil
+srcHash: 87ab84acd438
 title: 良洞马乙街(Yangdongmaeul-gil):庆州旅行指南
 description: 良洞马乙街(Yangdongmaeul-gil)是通往良洞村(Yangdong Village)的进村道路——这是一座位于江东面(Gangdong-myeon)、有数百年历史的两班(贵族阶层)宗族村落，距庆州市中心东北方向约40分钟车程。
 quickAnswer: 良洞马乙街(Yangdongmaeul-gil)是通往良洞村(Yangdong Village)的进村道路——这是一座位于江东面(Gangdong-myeon)、有数百年历史的两班(贵族阶层)宗族村落，距庆州市中心东北方向约40分钟车程。建议安排半天时间前往，最好选在工作日上午，漫步于瓦顶韩屋与茅草农舍之间的静谧小巷，这里至今仍住着孙氏与李氏两大家族的后人。由于公交班次稀少，最好自驾或打车前往，也很适合顺路游览附近的玉山书院(Oksan Seowon)。

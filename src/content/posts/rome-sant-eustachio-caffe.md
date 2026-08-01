@@ -1,6 +1,6 @@
 ---
 title: "Sant' Eustachio Caffè: Rome Travel Guide"
-description: "Sant' Eustachio Caffè sits on Piazza di Sant'Eustachio, a five-minute walk south of the Pantheon, and it's one of Rome's most famous historic coffee bars"
+description: Sant' Eustachio Caffè sits on Piazza di Sant'Eustachio, a five-minute walk south of the Pantheon, and it's one of Rome's most famous historic coffee bars — so go knowing it's busy, not undiscovered.
 country: "Italy"
 region: "Rome"
 category: "trendy"

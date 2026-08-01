@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: clarke-quay-home-dawn-cafe-clarke-quay
+srcHash: 4bda4f2ed74b
 title: Home Dawn Cafe @ Clarke Quay 旅行指南
 description: Home Dawn Cafe @ Clarke Quay 是一家低调的滨河咖啡馆，坐落在River Valley Road 3A栋楼的高层，就在克拉码头（Clarke Quay）主要娱乐街区的后面。
 quickAnswer: Home Dawn Cafe @ Clarke Quay 是一家低调的滨河咖啡馆，坐落在River Valley Road 3A栋楼（Block 3A River Valley Road）的高层，就在克拉码头（Clarke Quay）主要娱乐街区的后面。建议在工作日的上午或下午时段前往，可以安静地坐拥河景，享受轻松的早午餐与咖啡菜单，而非克拉码头以夜店闻名的喧闹氛围。从克拉码头地铁站（Clarke Quay MRT，NE5）步行只需5-8分钟即可到达，非常适合搭配沿新加坡河（Singapore River）的漫步一同游览。

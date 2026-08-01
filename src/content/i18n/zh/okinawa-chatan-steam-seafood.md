@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: okinawa-chatan-steam-seafood
+srcHash: 0c793154f533
 title: 冲绳美食指南:北谷蒸海鲜(Chatan Steam Seafood)
 description: 北谷蒸海鲜(Chatan Steam Seafood)是一家自选蒸海鲜自助餐厅,位于北谷町美滨(Mihama, Chatan)一栋建筑的3楼——美国村(American Village)所在的冲绳西海岸街区。
 quickAnswer: 北谷蒸海鲜(Chatan Steam Seafood)是一家自选蒸海鲜自助餐厅,位于北谷町美滨(Mihama, Chatan)一栋建筑的3楼——也就是冲绳西海岸的美国村(American Village)街区。用餐者从冰鲜陈列柜中挑选新鲜贝类、蟹腿、虾和鱼,交给工作人员现点现蒸,做好后送到餐桌。建议尽量早去或避开高峰时段(工作日午餐时段最佳),因为这里即便拥有近3500条评价、4.7分的高评分,也常常大排长龙。

@@ -1,6 +1,6 @@
 ---
 title: "Love Lake: Dubai Travel Guide"
-description: "Love Lake is a pair of heart-shaped, man-made lakes in the Al Qudra desert area (Saih Al Salam), part of Dubai's Al Qudra Lakes chain, best visited at"
+description: Love Lake is a pair of heart-shaped, man-made lakes in the Al Qudra desert area (Saih Al Salam), part of Dubai's Al Qudra Lakes chain, best visited at sunrise or sunset for cooler temperatures and better light.
 country: "United Arab Emirates"
 region: "Dubai"
 category: "hidden-gem"

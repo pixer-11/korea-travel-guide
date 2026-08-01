@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: ho-chi-minh-city-war-remnants-museum
+srcHash: 55f119ff7b57
 title: 'Museo de los Vestigios de Guerra: Guía de viaje de Ciudad Ho Chi Minh'
-description: El Museo de los Vestigios de Guerra se encuentra en 28 Vo Van Tan Street, en el Distrito 3, a un corto paseo o viaje en taxi del Palacio de la Reunificación y a unos 10–15 minutos de la zona del mercado Ben
+description: El Museo de los Vestigios de Guerra se encuentra en 28 Vo Van Tan Street, en el Distrito 3, a un corto paseo o viaje en taxi del Palacio de la Reunificación y a unos 10–15 minutos de la zona del mercado Ben Thanh.
 quickAnswer: El Museo de los Vestigios de Guerra se encuentra en 28 Vo Van Tan Street, en el Distrito 3, a un corto paseo o viaje en taxi del Palacio de la Reunificación y a unos 10–15 minutos de la zona del mercado Ben Thanh. Reserva entre 1,5 y 2,5 horas para ver el material militar al aire libre y las galerías fotográficas interiores, que son crudas y emocionalmente intensas. Ve temprano en la mañana en un día entre semana para evitar las multitudes de los tours en autobús y el peor calor del mediodía.
 faq:
   - q: ¿Cuánto tiempo debería reservar para el Museo de los Vestigios de Guerra?

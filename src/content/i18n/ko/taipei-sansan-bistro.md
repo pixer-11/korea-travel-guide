@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: taipei-sansan-bistro
+srcHash: 91d8aaa56f9e
 title: 타이베이 산산 비스트로(Sansan Bistro)
 description: 산산 비스트로(Sansan Bistro)는 2026년 1월 미쉐린 가이드 대만(Michelin Guide Taiwan)에 이름을 올린 타이베이의 신 쓰촨(neo-Sichuan) 레스토랑 겸 칵테일 바로, 강렬한 버건디 레드 톤에 나무와 금속 소재가 어우러진 독특한 다이닝 룸으로 유명하다.
 quickAnswer: 산산 비스트로(Sansan Bistro)는 2026년 1월 미쉐린 가이드 대만(Michelin Guide Taiwan)에 이름을 올린 타이베이의 신 쓰촨(neo-Sichuan) 레스토랑 겸 칵테일 바로, 강렬한 버건디 레드 톤에 나무와 금속 소재가 어우러진 다이닝 룸과 독창적인 음료 페어링으로 잘 알려져 있다. 예약이 필수이며 옷차림도 살짝 신경 써야 하는 곳으로, 오래 기다리지 않고 자리를 잡고 싶다면 평일 저녁 방문이 가장 유리하다. 미리 예약하고 현재 영업시간을 직접 확인할 것을 권하며, 단순한 식사 이상의 '경험'을 기대해도 좋다.

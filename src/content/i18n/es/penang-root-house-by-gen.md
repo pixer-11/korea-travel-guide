@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: penang-root-house-by-gen
+srcHash: a0fea67848c2
 title: 'Root House by Gēn en Penang: Guía del visitante'
 description: 'Root House by Gēn en Penang, Malasia — un lugar nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Root House by Gēn es un refinado restaurante de cocina chino-malaya ubicado dentro del restaurado 1926 Heritage Hotel en George Town, Penang, dirigido por el equipo detrás del aclamado restaurante Gēn. Lo mejor es visitarlo para una cena tranquila en la que se pueda apreciar tanto la arquitectura patrimonial como la cocina moderna, y como se trata de un concepto recién inaugurado y muy comentado, conviene reservar con antelación y confirmar el horario vigente antes de ir.

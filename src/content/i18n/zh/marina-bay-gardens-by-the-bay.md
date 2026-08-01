@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: marina-bay-gardens-by-the-bay
+srcHash: c43fdfb02e53
 title: 滨海湾花园（Gardens by the Bay）：滨海湾（Marina Bay）旅行指南
 description: 滨海湾花园（Gardens by the Bay）是滨海湾（Marina Bay）一座占地101公顷的滨水公园，以高耸的擎天树丛（Supertree Grove）和两座恒温温室——花穹（Flower Dome）与云雾林（Cloud Forest）——闻名。
 quickAnswer: 滨海湾花园（Gardens by the Bay）是滨海湾（Marina Bay）一座占地101公顷的滨水公园，以高耸的擎天树丛（Supertree Grove）和两座恒温温室——花穹（Flower Dome）与云雾林（Cloud Forest）——闻名。室外区域（擎天树丛、滨海湾东花园/Bay East Garden、蜻蜓湖/Dragonfly Lake）免费开放；温室和空中走廊（OCBC Skyway）需单独购票，建议安排半天时间同时游览室内外亮点，并把游览时间安排在晚上7:45和8:45的"花园交响曲"（Garden Rhapsody）灯光秀前后。

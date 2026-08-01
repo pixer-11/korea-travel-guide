@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: ho-chi-minh-city-hai-s-restaurant
+srcHash: e37d7da8e499
 title: Hai's Restaurant:ホーチミン市でのおすすめの食事処
 description: Hai's Restaurantは、1区(District 1)ベンタイン(Bến Thành)地区の257 Lý Tự Trọngに位置する、長年にわたり駐在員や観光客に愛されてきたベトナム料理店で、ベンタイン市場(Ben Thanh Market)から徒歩すぐの場所にあります。
 quickAnswer: Hai's Restaurantは、1区(District 1)ベンタイン(Bến Thành)地区の257 Lý Tự Trọngに位置する、長年にわたり駐在員や観光客に愛されてきたベトナム料理店で、ベンタイン市場(Ben Thanh Market)から徒歩すぐの場所にあります。生春巻きやフォー、土鍋料理、シーフードなど、親しみやすくきちんと作られたベトナム料理の定番が、落ち着いた中庭風の空間で楽しめることで知られており、数千件のレビューで常にほぼ満点に近い評価を獲得しています。混雑を避けるなら早めの時間帯(18〜19時頃)の夕食がおすすめで、週末は事前予約をしておきましょう。

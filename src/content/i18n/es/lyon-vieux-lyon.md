@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: lyon-vieux-lyon
+srcHash: a2121b3bd5c1
 title: 'Vieux Lyon: Guía de viaje'
-description: 'Vieux Lyon es el barrio renacentista en la orilla oeste del Saona, ideal para recorrer a pie en medio día: pasea por las traboules (pasajes ocultos), sube a'
+description: 'Vieux Lyon es el barrio renacentista en la orilla oeste del Saona, ideal para recorrer a pie en medio día: pasea por las traboules (pasajes ocultos), sube a la basílica de Fourvière en funicular y termina con una cena en un bouchon.'
 quickAnswer: 'Vieux Lyon es el barrio renacentista en la orilla oeste del Saona, ideal para recorrer a pie en medio día: pasea por las traboules (pasajes ocultos), sube a la basílica de Fourvière en funicular y termina con una cena en un bouchon. Ve un día laborable por la mañana para evitar las multitudes, y usa calzado plano: los adoquines y las escaleras son implacables.'
 faq:
   - q: ¿Cómo se llega a Vieux Lyon?

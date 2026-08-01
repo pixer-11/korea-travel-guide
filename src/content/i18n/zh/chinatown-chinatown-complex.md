@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: chinatown-chinatown-complex
+srcHash: 7e4d8d0f7a94
 title: 牛车水大厦：美食攻略
 description: 位于史密斯街（Smith Street）的牛车水大厦（Chinatown Complex）是新加坡最大的小贩中心，湿巴刹楼上的二楼汇聚了数百个摊位。
 quickAnswer: 位于史密斯街（Smith Street）的牛车水大厦（Chinatown Complex）是新加坡最大的小贩中心，湿巴刹楼上的二楼汇聚了数百个摊位。建议选在平日上午（11点前）或午后（2-4点）前往，可以避开午餐高峰期；记得随身带些小额现金，并锁定几家名店，比如了凡香港油鸡饭·面（Liao Fan Hawker Chai Tow Kway）以及总是大排长龙的香港油鸡饭面摊。用餐时间预留45-90分钟，做好和陌生人拼桌的心理准备。

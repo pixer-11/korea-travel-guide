@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: mumbai-soraia
+srcHash: e203e6d8967a
 title: Soraia：孟买旅行指南
 description: Soraia 是孟买一处新晋热门去处——它是什么、位于何处，以及如何前往参观。
 quickAnswer: Soraia 是一家崭新的室内外结合的俱乐部兼餐饮空间，坐落在孟买马哈拉施米（Mahalaxmi）皇家西印度赛马会（Royal Western India Turf Club）场地内，由高丽·汗（Gauri Khan）设计打造。建议傍晚前往，此时喷泉与绿植会点亮灯光，空间氛围也会从悠闲的晚餐场景转变为更热闹的俱乐部气氛——但由于该场地是为迎接2026年季度而刚刚落成，细节仍在调整中，出行前请务必直接向场地方确认预订、着装要求和当前营业时间。

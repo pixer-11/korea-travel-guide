@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: chiang-rai-khao-soi-restaurant
+srcHash: 18d29aeb5cef
 title: 考索面馆：清莱美食推荐
 description: 位于巴拉索素路（Prasopsook Road）的考索面馆是清莱市中心一家朴实无华、价格亲民的小店，主打当地招牌咖喱蛋面汤。
 quickAnswer: 考索面馆位于巴拉索素路（Prasopsook Road），是清莱市中心一家朴实无华、价格亲民的小店，主打当地招牌咖喱蛋面汤——考索面（khao soi），同时也供应其他泰北经典菜肴。凭借超过800条评价和4.7分的高评分，加上属于最低消费档次的价格，这里是探索古城时既省心又低风险的午餐选择——建议预留30-45分钟用餐时间，并尽量早去，因为泰北餐馆的热门菜品常常在下午中段就卖光了。

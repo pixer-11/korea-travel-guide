@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: venice-venice-international-film-festival-mostra-del-cinema
+srcHash: 80ad1bd8a524
 title: 威尼斯国际电影节(Mostra del Cinema)完全指南(威尼斯)
 description: 威尼斯国际电影节(Mostra del Cinema),意大利威尼斯——2026年9月2日至12日。介绍电影节的性质、时间地点,以及如何安排行程。
 quickAnswer: 威尼斯国际电影节(La Mostra)将于2026年9月2日至12日在威尼斯丽都岛(Lido di Venezia)举行,这是第83届电影节,评审团由玛吉·吉伦哈尔(Maggie Gyllenhaal)领衔,负责评选金狮奖。你可以选择住在丽都岛上,或是搭乘水上巴士(vaporetto)几分钟即可抵达的威尼斯市中心;电影宫(Palazzo del Cinema)大厅(Sala Grande)周边会挤满红毯人潮,出发前请务必在电影节官方网站上确认具体的放映场地及购票/证件申请方式。

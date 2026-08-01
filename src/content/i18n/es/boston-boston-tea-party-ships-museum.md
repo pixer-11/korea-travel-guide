@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: boston-boston-tea-party-ships-museum
+srcHash: 89889bb6fe1e
 title: 'Barcos y Museo del Motín del Té de Boston: Guía de viaje'
 description: Calcula entre 60 y 90 minutos para el Boston Tea Party Ships & Museum, atracado en 306 Congress St, en el canal Fort Point, justo detrás de South Station.
 quickAnswer: 'Calcula entre 60 y 90 minutos para el Boston Tea Party Ships & Museum, atracado en 306 Congress St, en el canal Fort Point, justo detrás de South Station. Es una experiencia guiada con entrada a hora fija (actores, un cortometraje, dos barcos reconstruidos del siglo XVIII y una sala de té), así que reserva tu turno en línea con antelación: es una de las atracciones más visitadas de Boston y los turnos de mediodía en fin de semana se agotan. Llega justo a la apertura o a última hora de la tarde para evitar la mayor afluencia de grupos turísticos.'

@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: san-sebastian-bar-txepetxa
+srcHash: a9cdb1fa0130
 title: 'Bar Txepetxa: Dónde comer en San Sebastián'
 description: 'Bar Txepetxa, en Arrandegi Kalea 5, en la Parte Vieja de San Sebastián, es un bar de pintxos construido en torno a una sola especialidad: las anchoas, servidas de una docena de formas distintas.'
 quickAnswer: 'Bar Txepetxa, en Arrandegi Kalea 5, en la Parte Vieja de San Sebastián, es un bar de pintxos construido en torno a una sola especialidad: las anchoas, servidas de una docena de formas distintas. Ve temprano (a la 1pm o a las 8pm) para hacerte con un hueco en la barra, pide 3-4 pintxos de anchoa con una copa de txakoli, y calcula unos 20-30 minutos de pie en la barra: es una parada más en una ruta de pintxos, no una comida sentada.'

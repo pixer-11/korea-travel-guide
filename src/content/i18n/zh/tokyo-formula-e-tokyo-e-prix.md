@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: tokyo-formula-e-tokyo-e-prix
+srcHash: 0b6f175b3515
 title: Formula E东京电动方程式大奖赛（E-Prix）须知（东京）
 description: Formula E东京电动方程式大奖赛计划于2026年7月25日至26日在东京街道赛道（Tokyo Street Circuit）举行，这将是国际单座电动方程式赛车首次在东京市中心的封闭公共道路上进行比赛。
 quickAnswer: Formula E东京电动方程式大奖赛计划于2026年7月25日至26日在东京街道赛道（Tokyo Street Circuit）举行，这标志着国际单座电动方程式赛车首次在东京市中心的封闭公共道路上比赛。在Formula E与东京都政府确认最终赛道图、售票日期及场次时间之前，请将该日期视为暂定信息，并以Formula E官方网站公布为准。比赛周末很可能会在御台场（Odaiba）/滨水区域或中央商务区（具体街道赛道位置待确认）举行，两天内预计将包含练习赛、排位赛以及正赛。

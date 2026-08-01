@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: suwon-yeonmudae-dongjangdae-eastern-command-post
+srcHash: 2d0b0d05caa6
 title: 练武台（东将台）：水原旅游指南
 description: 练武台（又称东将台，Eastern Command Post）是水原华城内的一处军事训练场兼射箭场，最适合与从长安门开始的城墙漫步一同游览。
 quickAnswer: 练武台（又称东将台，Eastern Command Post）是水原华城内的一处军事训练场兼射箭场，最适合与从长安门（Janganmun Gate）出发的城墙漫步搭配游览。建议在此预留30–45分钟，若尝试射箭体验则需更久，还可与附近的华虹门水闸及演丰门（Yeonpung Gate）组合成半日游路线。这一区域通常免费开放，或包含在华城低廉的门票中，但出发前请确认最新开放时间。

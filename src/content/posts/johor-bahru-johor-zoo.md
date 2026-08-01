@@ -1,6 +1,6 @@
 ---
 title: 'Johor Zoo: Johor Bahru Travel Guide'
-description: Johor Zoo is a small, old-school municipal animal park in Taman Istana, Johor Bahru, best known for camel feeding, pony rides, and paddle boats rather than
+description: Johor Zoo is a small, old-school municipal animal park in Taman Istana, Johor Bahru, best known for camel feeding, pony rides, and paddle boats rather than modern habitats.
 country: Malaysia
 region: Johor Bahru
 category: attraction

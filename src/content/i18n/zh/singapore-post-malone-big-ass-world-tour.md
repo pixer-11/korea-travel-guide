@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: singapore-post-malone-big-ass-world-tour
+srcHash: 4162cfe1215a
 title: Post Malone——BIG ASS World Tour 演唱会须知(新加坡)
 description: Post Malone BIG ASS World Tour 新加坡站,2026年9月25日在新加坡举行。演出内容、时间地点,以及行前规划要点。
 quickAnswer: Post Malone 将于2026年9月25日携 BIG ASS World Tour 登陆新加坡国家体育场(National Stadium),Don Toliver 担任暖场嘉宾——这是他自2023年新加坡F1大奖赛客串演出以来,首次在新加坡举办个人专场演唱会。前往加冷/体育场(Kallang / Stadium)一带可乘坐地铁环线(Circle Line)体育场站(Stadium MRT),出发前请务必在官方 Ticketmaster/新加坡体育城(SportsHub Singapore)渠道确认准确入场时间、票价档次及任何临时变动。

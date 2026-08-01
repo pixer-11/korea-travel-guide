@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: bali-bingin-uluwatu-pak-gula
+srcHash: 490117fa0aef
 title: 巴厘岛 Pak Gula 餐厅指南
 description: Pak Gula 是位于乌鲁瓦图(Uluwatu)宾静(Bingin)的一家全新两层亚洲融合餐厅,由 The Cashew Tree 团队打造,以叉烧包等分享菜和精彩的鸡尾酒单闻名。
 quickAnswer: Pak Gula 是位于乌鲁瓦图(Uluwatu)宾静(Bingin)的一家全新两层亚洲融合餐厅,由 The Cashew Tree 团队打造,以叉烧包等分享菜和出色的鸡尾酒单闻名。这里人气飙升很快,建议提前预订——最好订日落或晚间时段——出发前请务必确认最新营业时间，因为巴厘岛新开业店铺的信息常常会变动。

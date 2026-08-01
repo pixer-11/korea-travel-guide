@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: hanoi-hanoi-old-quarter
+srcHash: 2551b7a49c6a
 title: 河内老城区（Hanoi Old Quarter）旅行指南
 description: 河内老城区（Hanoi Old Quarter）是还剑湖（Hoan Kiem Lake）以北由36条古老行会街道交织而成的街区——来这里漫步于以行业命名的"Hang"街，品尝街边小吃，逛周末夜市。
 quickAnswer: 河内老城区（Hanoi Old Quarter）是还剑湖（Hoan Kiem Lake）以北由36条古老行会街道交织而成的街区——来这里漫步于各条"Hang"街（每条街曾以其经营的行业命名），在街边小吃摊用餐，并逛一逛周末夜市。建议以杭铂街（Hang Bac）或马梅街（Ma May）附近为落脚点，安排半天到一整晚的时间，并选择周五至周日晚上前往，正好赶上步行街市集最热闹的时候。

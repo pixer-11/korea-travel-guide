@@ -1,6 +1,6 @@
 ---
 title: "Kanheri Caves: Mumbai Travel Guide"
-description: "Kanheri Caves, tucked deep inside Sanjay Gandhi National Park in the Borivali/Kanheri area of northern Mumbai, is a sprawling complex of over 100 rock-cut"
+description: Kanheri Caves, tucked deep inside Sanjay Gandhi National Park in the Borivali/Kanheri area of northern Mumbai, is a sprawling complex of over 100 rock-cut Buddhist caves dating back roughly 2,000 years.
 country: "India"
 region: "Mumbai"
 category: "hidden-gem"

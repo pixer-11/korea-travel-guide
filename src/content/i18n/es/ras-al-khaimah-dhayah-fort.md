@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: ras-al-khaimah-dhayah-fort
+srcHash: 2ebf2e85240b
 title: 'Fuerte de Dhayah: Guía de viaje de Ras Al Khaimah'
 description: El fuerte de Dhayah se alza sobre una colina rocosa cerca de Ar Rams, a unos 30 minutos al norte de la ciudad de Ras Al Khaimah, y es el único fuerte de montaña que sobrevive en los EAU.
 quickAnswer: El fuerte de Dhayah se alza sobre una colina rocosa cerca de Ar Rams, a unos 30 minutos al norte de la ciudad de Ras Al Khaimah, y es el único fuerte de montaña que sobrevive en los EAU. Ve a última hora de la tarde, usa calzado adecuado para la empinada escalera de piedra y reserva entre 30 y 45 minutos para la subida, además de las vistas sobre las lagunas de Ras Al Khaimah y las montañas Hajar.

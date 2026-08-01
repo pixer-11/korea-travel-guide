@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: phu-quoc-camia-restaurant
+srcHash: 6552ab9ef399
 title: カミア レストラン(Camia Restaurant):フーコック島での食事スポット
 description: カミア レストラン(Camia Restaurant)は、ズオンドン(Duong Dong)の町の北、レ・トゥック・ニャ通り(Le Thuc Nha Street)にあるオンラン・ビーチ(Ong Lang Beach)沿いのダイニングスポットで、新鮮なシーフードを砂浜のすぐそばで楽しめる夕暮れ時の訪問がおすすめです。
 quickAnswer: カミア レストラン(Camia Restaurant)は、ズオンドン(Duong Dong)の町の北、レ・トゥック・ニャ通り(Le Thuc Nha Street)にあるオンラン・ビーチ(Ong Lang Beach)沿いのダイニングスポットで、砂浜のすぐそばで新鮮なシーフードを味わえる夕暮れ時の訪問が特におすすめです。約2,500件のレビューで4.8という驚異的な評価を獲得しているため、ハイシーズン(11月〜4月)には早めの夕方に訪れるか、事前に予約をして水辺の席を確保しましょう。

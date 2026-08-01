@@ -1,8 +1,9 @@
 ---
 lang: zh
 slug: daegu-nazar-kebab
+srcHash: b0a0dc766a88
 title: Nazar Kebab：大邱美食推荐
-description: Nazar Kebab是位于大邱中区东城路（Dongseong-ro）购物区的一家土耳其/中东风味烤肉店，是品尝döner烤肉的可靠又实惠之选
+description: Nazar Kebab是位于大邱中区东城路（Dongseong-ro）购物区的一家土耳其/中东风味烤肉店，当你想换换口味、暂时告别韩式料理时，这里是品尝döner烤肉、İskender烤肉以及lahmacun风味薄饼的可靠又实惠之选。
 quickAnswer: Nazar Kebab是位于大邱中区东城路（Dongseong-ro）购物区的一家土耳其/中东风味烤肉店，当你想换换口味、暂时告别韩式料理时，这里是品尝döner烤肉、İskender烤肉以及lahmacun风味薄饼的可靠又实惠之选。它在Google上获得469条评论、4.4分的评分，价格适中（价格等级2），更适合当作快速的午餐或宵夜，而非正式的用餐目的地。
 faq:
   - q: 不开车的话怎么去Nazar Kebab？

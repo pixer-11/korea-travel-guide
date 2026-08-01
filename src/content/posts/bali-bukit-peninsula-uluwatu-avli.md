@@ -1,6 +1,6 @@
 ---
 title: AVLI in Bali
-description: AVLI is a new 700 sqm modern Greek restaurant on Jalan Labuansait in Uluwatu, on Bali's Bukit Peninsula — the same strip that feeds into Uluwatu's surf
+description: AVLI is a new 700 sqm modern Greek restaurant on Jalan Labuansait in Uluwatu, on Bali's Bukit Peninsula — the same strip that feeds into Uluwatu's surf breaks and clifftop clubs.
 country: Indonesia
 region: Bali
 category: restaurant

@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: bali-livingstone
+srcHash: 4b7a07cc0552
 title: Livingstone：巴厘岛旅行指南
 description: Livingstone 是位于格罗格干（Kerobokan）Jl. Petitenget 街上的一家绿植环绕的大型咖啡餐厅，是水明漾（Seminyak）到芝安古（Canggu）沿线全天候人气最旺的去处之一。
 quickAnswer: Livingstone 是位于格罗格干（Kerobokan）Jl. Petitenget 街上的一家绿植环绕的大型咖啡餐厅，是水明漾（Seminyak）到芝安古（Canggu）沿线全天候人气最旺的去处之一（4.8 星，14,000+ 条评价）。建议工作日上午前往，才能不用排队就有座位；价格属中档水平（正餐大约 100,000–180,000 印尼盾，鸡尾酒价格更高一些），晚餐或周末最好提前预订。

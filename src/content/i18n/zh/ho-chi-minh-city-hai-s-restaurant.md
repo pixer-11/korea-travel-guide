@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: ho-chi-minh-city-hai-s-restaurant
+srcHash: e37d7da8e499
 title: Hai's Restaurant：胡志明市美食指南
 description: Hai's Restaurant 是一家历史悠久、深受外籍人士和游客喜爱的越南餐厅，位于第一郡（District 1）滨城坊（Bến Thành ward）257 Lý Tự Trọng 街，距离滨城市场（Ben Thanh Market）步行不远。
 quickAnswer: Hai's Restaurant 是一家历史悠久、深受外籍人士和游客喜爱的越南餐厅，位于第一郡滨城坊 257 Lý Tự Trọng 街，距离滨城市场步行不远。这里以做工扎实、老少咸宜的越南经典菜肴闻名（春卷、河粉、砂锅菜、海鲜等），用餐环境是轻松惬意的庭院式布置，凭借数千条点评始终保持接近满分的评分。建议早一点来吃晚餐（下午6-7点），以避开人潮，周末最好提前订位。

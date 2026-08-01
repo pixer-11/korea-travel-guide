@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: los-angeles-urth-caffe
+srcHash: a140a4b91649
 title: Urth Caffè:洛杉矶旅行指南
 description: 这家 Urth Caffè 位于艺术区(Arts District)459 S Hewitt St,是一家绿植环绕、光线明亮的咖啡馆,以有机咖啡、丰盛的甜点柜和常常爆满的露台闻名。
 quickAnswer: 这家 Urth Caffè 位于艺术区(Arts District)459 S Hewitt St,是一家绿植环绕、光线明亮的咖啡馆,以有机咖啡、丰盛的甜点柜和常常爆满的露台闻名。它每天从早上7点开始营业(周日至周四晚10点打烊,周五周六延长至晚11点),最清静的时段是工作日刚开门后的上午10点左右,这时早午餐人潮还没涌来。建议预留45分钟到1小时,现金或银行卡都要备好——这里是个非常受欢迎的热门去处,并非什么小众秘境。

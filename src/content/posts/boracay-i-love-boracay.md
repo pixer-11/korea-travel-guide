@@ -1,6 +1,6 @@
 ---
 title: 'I Love: Boracay Travel Guide'
-description: '"I Love Boracay" is the wooden-letter viewpoint/photo-stop tucked into the Malay side of the island — a quiet, under-the-radar spot rather than a mobbed'
+description: '"I Love Boracay" is the wooden-letter viewpoint/photo-stop tucked into the Malay side of the island — a quiet, under-the-radar spot rather than a mobbed selfie factory.'
 country: Philippines
 region: Boracay
 category: hidden-gem

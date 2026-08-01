@@ -1,6 +1,6 @@
 ---
 title: "Cheonggyecheon: Seoul Travel Guide"
-description: "Cheonggyecheon is the sunken, restored stream that cuts through central Seoul from Gwanghwamun to Dongdaemun — a free, open-air walkway lined with willows"
+description: Cheonggyecheon is the sunken, restored stream that cuts through central Seoul from Gwanghwamun to Dongdaemun — a free, open-air walkway lined with willows, stepping stones, and public art that's ideal for an hour-long stroll rather than a whole-day destination.
 country: "South Korea"
 region: "Seoul"
 category: "attraction"

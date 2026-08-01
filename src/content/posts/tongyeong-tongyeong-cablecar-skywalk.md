@@ -1,6 +1,6 @@
 ---
 title: 'Tongyeong Cablecar Skywalk: Travel Guide'
-description: Ride the Tongyeong Cablecar from its base station in Sanyang-eup up Mireuksan (461m), then walk the Skywalk glass-floor deck near the summit for panoramic
+description: Ride the Tongyeong Cablecar from its base station in Sanyang-eup up Mireuksan (461m), then walk the Skywalk glass-floor deck near the summit for panoramic views over Tongyeong's harbor and the Hallyeohaesang National Park islands.
 region: Tongyeong
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z

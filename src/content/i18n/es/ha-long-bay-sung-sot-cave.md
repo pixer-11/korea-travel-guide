@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: ha-long-bay-sung-sot-cave
+srcHash: cd6e011afd12
 title: 'Cueva Sung Sot: Guía de viaje de la bahía de Ha Long'
-description: La cueva Sung Sot (Sorpresa), en la isla Bo Hon, en la bahía de Ha Long, es la cueva más grande y más visitada de la bahía, a la que solo se llega en barco, normalmente como parada en un
+description: La cueva Sung Sot (Sorpresa), en la isla Bo Hon, en la bahía de Ha Long, es la cueva más grande y más visitada de la bahía, a la que solo se llega en barco, normalmente como parada en un crucero de un día o en un itinerario nocturno en junco.
 quickAnswer: La cueva Sung Sot (Sorpresa), en la isla Bo Hon, en la bahía de Ha Long, es la cueva más grande y más visitada de la bahía, a la que solo se llega en barco, normalmente como parada en un crucero de un día o en un itinerario nocturno en junco. Reserva entre 45 y 60 minutos para recorrer a pie las dos cámaras conectadas por escaleras de piedra iluminadas, y ve a primera hora de la mañana o a última de la tarde para evitar la avalancha de grupos turísticos. Está incluida en casi todos los tickets de crucero por la bahía de Ha Long, así que rara vez hace falta reservarla por separado.
 faq:
   - q: ¿Cómo se llega a la cueva Sung Sot?

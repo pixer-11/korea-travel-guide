@@ -1,6 +1,6 @@
 ---
 title: 'Social House Grand Indonesia: Where to Eat in Jakarta'
-description: Social House Grand Indonesia is a lush, greenery-filled all-day restaurant and wine bar on the ground floor of East Mall Grand Indonesia in Menteng, Central
+description: Social House Grand Indonesia is a lush, greenery-filled all-day restaurant and wine bar on the ground floor of East Mall Grand Indonesia in Menteng, Central Jakarta — best reached via Bundaran HI MRT Station (Exit 1/2, connected by a covered pedestrian bridge).
 country: Indonesia
 region: Jakarta
 category: restaurant

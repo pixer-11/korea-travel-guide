@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: cannes-mural-cannes-cinema
+srcHash: e39e85df0d0e
 title: '칸 시네마 벽화(Mural - Cannes Cinema): 여행 가이드'
 description: 칸 시네마 벽화는 옛 항구(Vieux Port)와 페스티벌 궁전(Palais des Festivals)이 만나는 지점, 생피에르 부두(Quai Saint-Pierre)에 자리하고 있으며, 그 자체로 목적지라기보다는 5분이면 충분한 짧은 볼거리입니다.
 quickAnswer: 칸 시네마 벽화는 옛 항구(Vieux Port)와 페스티벌 궁전(Palais des Festivals)이 만나는 지점, 생피에르 부두(Quai Saint-Pierre)에 자리하고 있으며, 그 자체로 목적지라기보다는 5분이면 충분한 짧은 볼거리입니다 — 부두를 따라 산책하며 함께 둘러보기 좋습니다. 아직 잘 알려지지 않은 곳이라 성수기에도 대개 붐비지 않고 깔끔한 사진을 찍을 수 있습니다. 벽화의 색감을 가장 잘 담으려면 아침이나 늦은 오후의 부드러운 빛이 있을 때 방문하세요.

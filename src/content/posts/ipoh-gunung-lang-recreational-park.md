@@ -1,6 +1,6 @@
 ---
 title: "Gunung Lang Recreational Park: Ipoh Travel Guide"
-description: "Gunung Lang Recreational Park is a limestone-hill lake park on Jalan Damai in northern Ipoh, best visited early morning (before 9am) or late afternoon (after"
+description: Gunung Lang Recreational Park is a limestone-hill lake park on Jalan Damai in northern Ipoh, best visited early morning (before 9am) or late afternoon (after 5pm) when the light softens the karst cliffs and the heat breaks.
 country: "Malaysia"
 region: "Ipoh"
 category: "attraction"

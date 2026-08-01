@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: qingdao-zhanqiao-pier
+srcHash: 1d27d66ed3eb
 title: '잔교(栈桥): 칭다오 여행 가이드'
 description: 잔교(Zhanqiao Pier)는 칭다오에서 가장 오래된 해안 랜드마크로, 시난구(Shinan District)에 위치한 440미터 길이의 석재-목조 잔교이며, 끝자락에는 이중 처마 지붕의 후이란거(回澜阁) 정자가 자리하고 있습니다.
 quickAnswer: 잔교는 칭다오에서 가장 오래된 해안 랜드마크로, 시난구(Shinan District)에 위치한 440미터 길이의 석재-목조 잔교이며, 끝자락에는 이중 처마 지붕의 후이란거(回澜阁) 정자가 있습니다. 아마 칭다오 맥주(Tsingtao Beer) 라벨에서 본 적 있을 그 팔각형 건물입니다. 무료로 하루 종일 개방되며, 칭다오만(Qingdao Bay)의 물빛이 구릿빛으로 물드는 일출이나 일몰 직전에 걷는 것이 가장 좋습니다. 30~45분 정도 시간을 두고 둘러본 뒤, 도보로 바다관(Badaguan)이나 중산루(Zhongshan Road)까지 이어서 걸어보세요.

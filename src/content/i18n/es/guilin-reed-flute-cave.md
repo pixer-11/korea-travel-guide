@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: guilin-reed-flute-cave
+srcHash: 3271d882fa2d
 title: 'Cueva de la Flauta de Caña: Guía de viaje de Guilin'
-description: La Cueva de la Flauta de Caña (Reed Flute Cave), en el extremo noroeste de la ciudad de Guilin, es una cueva de piedra caliza de 240 millones de años iluminada con luces de neón que convierten sus estalactitas y
+description: La Cueva de la Flauta de Caña (Reed Flute Cave), en el extremo noroeste de la ciudad de Guilin, es una cueva de piedra caliza de 240 millones de años iluminada con luces de neón que convierten sus estalactitas y estanques reflectantes en un paisaje subterráneo surrealista.
 quickAnswer: La Cueva de la Flauta de Caña (Reed Flute Cave), en el extremo noroeste de la ciudad de Guilin, es una cueva de piedra caliza de 240 millones de años iluminada con luces de neón que convierten sus estalactitas y estanques reflectantes en un paisaje subterráneo surrealista. Calcula entre 1 y 1,5 horas, incluido el recorrido guiado a pie, y ve temprano un día laborable si quieres tener las salas para ti solo en lugar de ir detrás de una bandera de grupo turístico. La entrada se compra en la taquilla situada en el acceso al parque de la cueva, en Lu Di Lu; lleva una chaqueta ligera, ya que la cueva se mantiene fresca y húmeda todo el año.
 faq:
   - q: ¿Cuánto tiempo debería dedicar a la Cueva de la Flauta de Caña?

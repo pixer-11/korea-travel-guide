@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: kampong-glam-sultan-mosque
+srcHash: e625aab3ca9b
 title: '술탄 모스크: 캄퐁글램 여행 가이드'
 description: 무스카트 거리 3번지(3 Muscat St)에 자리한 술탄 모스크(Masjid Sultan)는 캄퐁글램의 중심이자 싱가포르 최대 규모의 모스크로, 부기스 MRT역(다운타운/이스트-웨스트 라인)을 통해 쉽게 갈 수 있습니다.
 quickAnswer: 무스카트 거리 3번지(3 Muscat St)에 자리한 술탄 모스크(Masjid Sultan)는 캄퐁글램의 중심이자 싱가포르 최대 규모의 모스크로, 부기스 MRT역(다운타운/이스트-웨스트 라인)을 통해 쉽게 갈 수 있습니다. 하루 다섯 번의 예배 시간을 피해 방문하고, 단정한 복장을 갖추세요(입구에서 가운을 빌려줍니다). 황금빛 돔이 있는 예배당과 안뜰을 둘러보는 데 30~45분 정도를 잡아두고, 이후 근처 하지 레인(Haji Lane)과 아랍 스트리트(Arab Street)를 거닐어 보세요.

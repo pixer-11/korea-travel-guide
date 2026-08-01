@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: bandung-dago-dreampark
+srcHash: abf76fce55ae
 title: 茶谷梦幻公园（Dago Dreampark）：万隆旅行指南
 description: 茶谷梦幻公园（Dago Dreampark）是万隆-楠榜（Lembang）公路沿线一座松林探险公园，以越野车（ATV）道、彩弹射击和巨型秋千等主题打卡点闻名。
 quickAnswer: 茶谷梦幻公园（Dago Dreampark）是万隆-楠榜（Lembang）公路沿线一座松林探险公园，以越野车（ATV）道、彩弹射击，以及巨型秋千、观景平台等主题打卡点著称。建议安排2-4小时游玩时间，尽量选择工作日上午前往以避开周末的超大人流，并随身携带现金，因为大部分项目需要单独付费，基础门票并不包含大多数游乐设施。

@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: seoul-ikseon-dong
+srcHash: 9f21e3ec0b2e
 title: Ikseon-dong en Seúl
-description: Ikseon-dong es un pequeño reducto de hanok (casas tradicionales coreanas) de principios del siglo XX escondido detrás de Jongno 3-ga, hoy repleto de cafés con patios ocultos
+description: Ikseon-dong es un pequeño reducto de hanok (casas tradicionales coreanas) de principios del siglo XX escondido detrás de Jongno 3-ga, hoy repleto de cafés con patios ocultos, bares de cócteles y restaurantes de cocina coreana moderna.
 quickAnswer: 'Ikseon-dong es un pequeño reducto de hanok (casas tradicionales coreanas) de principios del siglo XX escondido detrás de Jongno 3-ga, hoy repleto de cafés con patios ocultos, bares de cócteles y restaurantes de cocina coreana moderna. Baja en la estación de Jongno 3-ga (líneas 1, 3 o 5), salida 6, y simplemente recorre a pie los estrechos callejones durante 1,5–2 horas: la gracia está en perderse, no en marcar una lista de sitios. Ve en la mañana entre semana o al atardecer para evitar las peores aglomeraciones.'
 faq:
   - q: ¿Cuál es la estación de metro más cercana a Ikseon-dong?

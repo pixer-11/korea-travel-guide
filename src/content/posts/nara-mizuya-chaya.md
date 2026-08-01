@@ -1,6 +1,6 @@
 ---
 title: 'Mizuya Chaya: Where to Eat in Nara'
-description: Mizuya Chaya is a rustic teahouse-restaurant tucked in the forest along the approach to Kasuga Taisha in Nara Park, best known for its warabimochi and simple
+description: Mizuya Chaya is a rustic teahouse-restaurant tucked in the forest along the approach to Kasuga Taisha in Nara Park, best known for its warabimochi and simple udon/somen set meals served in a traditional thatched-roof setting.
 country: Japan
 region: Nara
 category: restaurant

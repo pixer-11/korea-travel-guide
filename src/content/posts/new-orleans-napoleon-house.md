@@ -1,6 +1,6 @@
 ---
 title: "Napoleon House: Where to Eat in New Orleans"
-description: "Napoleon House, at 500 Chartres St in the French Quarter, is the spot for a muffaletta and a Pimm's Cup in a crumbling, sepia-toned courtyard that's been"
+description: Napoleon House, at 500 Chartres St in the French Quarter, is the spot for a muffaletta and a Pimm's Cup in a crumbling, sepia-toned courtyard that's been serving since 1914.
 country: "United States"
 region: "New Orleans"
 category: "restaurant"

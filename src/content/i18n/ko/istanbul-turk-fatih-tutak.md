@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: istanbul-turk-fatih-tutak
+srcHash: 2b2ca3653506
 title: 이스탄불 TURK Fatih Tutak 방문 가이드
 description: 튀르키예 이스탄불의 새롭게 떠오르는 명소, TURK Fatih Tutak — 어떤 곳인지, 위치는 어디인지, 어떻게 방문하면 되는지 안내합니다.
 quickAnswer: TURK Fatih Tutak은 셰프 파티흐 투탁(Fatih Tutak)이 아나톨리아 식재료와 조리법을 현대적이고 연구 중심적으로 재해석한 테이스팅 메뉴 레스토랑입니다. 미쉐린 가이드 튀르키예 2026(Michelin Guide Türkiye 2026) 선정 리스트에 이름을 올렸을 뿐 아니라 지속가능한 실천을 인정받아 그린스타(Green Star)도 받았으며, 현재 이스탄불에서 가장 화제가 되는 레스토랑 중 하나입니다. 그러니 미리 예약을 서두르고, 방문 전 운영 시간과 예약 정책을 레스토랑에 직접 재확인하세요.

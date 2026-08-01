@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: ho-chi-minh-city-hai-s-restaurant
+srcHash: e37d7da8e499
 title: 'Hai''s Restaurant: dónde comer en Ho Chi Minh'
 description: Hai's Restaurant es un restaurante vietnamita de larga trayectoria, favorito de expatriados y turistas, ubicado en 257 Lý Tự Trọng, en el barrio Bến Thành del Distrito 1, a poca distancia a pie del mercado Ben Thanh.
 quickAnswer: Hai's Restaurant es un restaurante vietnamita de larga trayectoria, favorito de expatriados y turistas, ubicado en 257 Lý Tự Trọng, en el barrio Bến Thành del Distrito 1, a poca distancia a pie del mercado Ben Thanh (Ben Thanh Market). Es conocido por sus platos clásicos vietnamitas, accesibles y bien preparados (rollitos primavera, pho, platos en cazuela de barro, mariscos), servidos en un ambiente relajado tipo patio, y mantiene de forma constante una calificación casi perfecta entre miles de reseñas. Conviene ir a cenar temprano (18:00–19:00) para evitar las multitudes y reservar con antelación los fines de semana.

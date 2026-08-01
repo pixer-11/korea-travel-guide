@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: bangkok-khao-san-sek
+srcHash: 42b3bd468dce
 title: 曼谷Khao San Sek餐厅
 description: Khao San Sek是曼谷一家新开业的餐厅,由主厨Pam掌勺,凭借将泰国五大基础食材——米、辣椒、椰子、鱼露和棕榈糖——置于每道菜肴核心的理念,已经引发热议。
 quickAnswer: Khao San Sek是曼谷一家新开业的餐厅,由主厨Pam掌勺,凭借将泰国五大基础食材——米、辣椒、椰子、鱼露和棕榈糖——置于每道菜肴核心的理念,已经引发热议。它入选了BK Magazine的Top Tables 2026榜单,被评为最令人期待的新开业餐厅,因此可以预见订位需求会很旺盛;建议提前致电或在线预订,而不要临时上门。请把这里当作一次值得专程前往的用餐体验,而非简单的快餐,并在出发前直接向餐厅确认最新的营业时间和预订政策。

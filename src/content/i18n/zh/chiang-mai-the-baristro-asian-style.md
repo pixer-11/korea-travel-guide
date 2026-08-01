@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: chiang-mai-the-baristro-asian-style
+srcHash: 789f390827e7
 title: The Baristro Asian Style：清迈旅行指南
 description: The Baristro Asian Style 是位于清迈大学区素贴路（Suthep Road）上的一家网红咖啡餐厅，以丛林般的植物环绕用餐大厅而闻名。
 quickAnswer: The Baristro Asian Style 是一家位于清迈大学区素贴路（Suthep Road）上的网红咖啡餐厅，以丛林般绿植环绕的用餐大厅、泰式融合菜和出色的精品咖啡著称。建议选在工作日的上午或午后前往，以避开周末的人潮；预算方面，环境和餐食品质对应中等价位（每人约 ฿300–600）。这里也很适合与素贴一带的行程搭配，比如探访悟孟寺（Wat Umong）以及前往素贴山（Doi Suthep）的道路。

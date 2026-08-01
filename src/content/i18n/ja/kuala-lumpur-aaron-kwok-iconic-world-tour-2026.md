@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: kuala-lumpur-aaron-kwok-iconic-world-tour-2026
+srcHash: 1a16e3f2293f
 title: アーロン・クォック「ICONIC World Tour 2026」クアラルンプール公演:知っておきたいこと
 description: アーロン・クォック(郭富城)の「ICONIC World Tour 2026」が2026年9月12日、クアラルンプールのブキット・ジャリルにあるUnifi Arenaで開催。200名規模のツアー制作クルーを帯同する。
 quickAnswer: アーロン・クォック(郭富城)の「ICONIC World Tour 2026」が2026年9月12日、クアラルンプールのブキット・ジャリル(Bukit Jalil)にあるUnifi Arenaで開催され、200名規模のツアー制作クルーを帯同します。この日程は現時点で発表されているスケジュールとして捉え、航空券やホテルを予約する前に、開演時刻やチケット料金区分、出演内容の変更の有無について、アーロン・クォックの公式チャンネルや会場の公式チケットパートナーで必ず確認してください。

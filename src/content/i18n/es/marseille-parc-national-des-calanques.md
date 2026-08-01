@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: marseille-parc-national-des-calanques
+srcHash: 880ae32367c2
 title: 'Parque Nacional de las Calanques: Guía de viaje de Marsella'
 description: Ve temprano — idealmente en el primer autobús o a pie antes de las 8 de la mañana — y elige una sola cala (Sormiou, Morgiou, o Sugiton/En-Vau, accesibles solo en barco) en lugar de intentar verlo todo.
 quickAnswer: Ve temprano — idealmente en el primer autobús o a pie antes de las 8 de la mañana — y elige una sola cala (Sormiou, Morgiou, o Sugiton/En-Vau, accesibles solo en barco) en lugar de intentar abarcar todo el parque de una vez. En verano debes reservar online un permiso de acceso gratuito para las entradas terrestres más populares, y los coches tienen prohibido circular por las carreteras de las calas, así que cuenta con caminar entre 30 y 60 minutos de ida desde los aparcamientos disuasorios.

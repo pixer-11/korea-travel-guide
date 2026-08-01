@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: tokyo-meiji-jingu
+srcHash: dbabbad7dd13
 title: '메이지 신궁: 도쿄 여행 가이드'
 description: 메이지 신궁(Meiji Jingu)은 하라주쿠와 요요기 공원 사이, 약 170에이커의 숲 속에 자리한 도쿄에서 가장 웅장한 신사입니다.
 quickAnswer: 메이지 신궁(Meiji Jingu)은 하라주쿠와 요요기 공원 사이, 약 170에이커의 숲 속에 자리한 도쿄에서 가장 웅장한 신사입니다. 오모테산도(Omotesando) 쪽의 거대한 목조 도리이를 통해 들어가거나 하라주쿠역(Harajuku Station)의 다케시타/오모테산도 방면 출구로 들어갈 수 있으며, 자갈길 참배로를 따라 본전까지 걷는 데 60~90분 정도를 잡아두는 것이 좋습니다. 낮이 되면 몰리는 인파를 피하려면 평일 이른 아침에 방문하세요.

@@ -1,6 +1,6 @@
 ---
 title: "Ilsan Lake Park: Goyang Travel Guide"
-description: Ilsan Lake Park (일산호수공원) in Goyang's Ilsandong-gu is Korea's largest man-made lake park, with an 8.5km loop path, gardens, sculptures, a small zoo, and a
+description: Ilsan Lake Park (일산호수공원) in Goyang's Ilsandong-gu is Korea's largest man-made lake park, with an 8.5km loop path, gardens, sculptures, a small zoo, and a lakeside music fountain.
 country: South Korea
 region: Goyang
 category: attraction

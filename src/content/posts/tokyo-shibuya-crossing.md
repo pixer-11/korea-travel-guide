@@ -1,6 +1,6 @@
 ---
 title: "Shibuya Crossing: Tokyo Travel Guide"
-description: "Shibuya Crossing is the huge scramble intersection right outside Shibuya Station's Hachiko Exit, where up to eight streams of pedestrians cross"
+description: Shibuya Crossing is the huge scramble intersection right outside Shibuya Station's Hachiko Exit, where up to eight streams of pedestrians cross simultaneously in about 30 seconds.
 country: "Japan"
 region: "Tokyo"
 category: "attraction"

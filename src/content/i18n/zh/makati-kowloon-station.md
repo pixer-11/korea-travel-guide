@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: makati-kowloon-station
+srcHash: ac88be33d91e
 title: Kowloon Station:马卡蒂美食指南
 description: Kowloon Station 位于菲律宾马卡蒂(Makati)——一家新晋热门餐厅:它是什么、在哪里,以及如何前往品尝。
 quickAnswer: Kowloon Station 是马卡蒂老牌粤菜馆 Hai Shin Lou 家族推出的全新点心烧腊概念餐厅,如今已成为 2026 年该区最受热议的新店之一。不妨点上几笼点心,再配上油亮诱人的烧味——但由于新店营业时间和订位政策仍可能有所变动,建议提前致电或查看其订位渠道确认信息。若在午市或晚市高峰时段未预订前往,可能需要等位。

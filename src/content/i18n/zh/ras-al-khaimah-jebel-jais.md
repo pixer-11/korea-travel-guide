@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: ras-al-khaimah-jebel-jais
+srcHash: 3ae49c75c7bb
 title: 杰贝尔杰斯山：哈伊马角旅行指南
 description: 杰贝尔杰斯山（Jebel Jais）是阿联酋的最高峰（约1,934米），坐落在瓦迪谢哈（Wadi Shehah），距迪拜约1.5小时车程，距哈伊马角市区约45分钟车程。
 quickAnswer: 杰贝尔杰斯山（Jebel Jais）是阿联酋的最高峰（约1,934米），坐落在瓦迪谢哈（Wadi Shehah），距迪拜约1.5小时车程，距哈伊马角市区约45分钟车程。这里有杰斯天空之旅（Jais Sky Tour）滑索（全长2.8公里，号称世界最长）、杰斯雪橇（Jais Sledder）滑道，以及沿着盘山公路免费欣赏的山景观景点。若只想开车游览观景点，安排半天即可；如果要预订滑索项目或在此露营过夜，则建议安排一整天。

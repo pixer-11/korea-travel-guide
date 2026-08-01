@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: bangkok-kodaline-farewell-tour
+srcHash: 15c65f9e2976
 title: 'Gira de despedida de Kodaline: lo que hay que saber (Bangkok)'
 description: La gira de despedida de Kodaline llega a Bangkok, Tailandia, del 28 al 29 de agosto de 2026. Qué es, cuándo y dónde, y cómo organizarte para asistir.
 quickAnswer: 'La banda irlandesa Kodaline trae su gira de despedida a Bangkok durante dos noches, el 28 y 29 de agosto de 2026, en UOB Live, dentro de EmSphere, en Sukhumvit. Aquí no se detallan las entradas, los horarios de las actuaciones ni posibles teloneros, así que confirma todo en los canales oficiales de Kodaline y en el sitio del recinto antes de reservar vuelos u hoteles. Llega temprano ambas noches: se anuncia como la última gira de la banda por el sudeste asiático.'

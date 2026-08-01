@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: shanghai-the-bund
+srcHash: 29a52d6ab0c8
 title: 'El Bund: Guía de viaje de Shanghái'
-description: El Bund es el paseo ribereño de 1.500 metros de Shanghái a lo largo de Zhongshan Dong Yi Road, en el distrito de Huangpu, flanqueado por edificios de la era colonial de las décadas de 1920 y 1930 en un lado
+description: El Bund es el paseo ribereño de 1.500 metros de Shanghái a lo largo de Zhongshan Dong Yi Road, en el distrito de Huangpu, flanqueado por edificios de la era colonial de las décadas de 1920 y 1930 en un lado, con vistas al futurista horizonte de Pudong (la Torre de la Perla Oriental, la Torre Jin Mao, la Torre de Shanghái) al otro lado del río Huangpu.
 quickAnswer: El Bund es el paseo ribereño de 1.500 metros de Shanghái a lo largo de Zhongshan Dong Yi Road, en el distrito de Huangpu, flanqueado por edificios de la era colonial de las décadas de 1920 y 1930 en un lado, con vistas al futurista horizonte de Pudong (la Torre de la Perla Oriental, la Torre Jin Mao, la Torre de Shanghái) al otro lado del río Huangpu. Ve al atardecer para ver ambos lados iluminados, y calcula entre 1 y 2 horas para el paseo y las fotos. Es gratuito, está abierto las 24 horas, y se llega mejor por East Nanjing Road (Líneas 2/10) o por las salidas de Nanjing East Road hacia el río.
 faq:
   - q: ¿Hay que pagar entrada para visitar el Bund?

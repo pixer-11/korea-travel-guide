@@ -1,6 +1,6 @@
 ---
 title: 'GLITCH COFFEE & ROASTERS: Nagoya Travel Guide'
-description: GLITCH COFFEE & ROASTERS Nagoya is a specialty coffee bar in Meieki (Nakamura Ward), a short walk from Nagoya Station, known for single-origin
+description: GLITCH COFFEE & ROASTERS Nagoya is a specialty coffee bar in Meieki (Nakamura Ward), a short walk from Nagoya Station, known for single-origin light-to-medium roasts and a minimalist, standing-and-perching bar setup.
 country: Japan
 region: Nagoya
 category: trendy

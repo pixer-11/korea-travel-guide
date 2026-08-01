@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: los-angeles-urth-caffe
+srcHash: a140a4b91649
 title: 'Urth Caffè: Guía de viaje de Los Ángeles'
 description: Este local de Urth Caffè se encuentra en el Arts District, en 459 S Hewitt St, un café luminoso y lleno de plantas conocido por su café orgánico, sus vitrinas repletas de repostería y una terraza que suele estar a rebosar.
 quickAnswer: 'Este local de Urth Caffè se encuentra en el Arts District, en 459 S Hewitt St, un café luminoso y lleno de plantas conocido por su café orgánico, sus vitrinas repletas de repostería y una terraza que suele estar a rebosar. Abre a diario desde las 7am (cierra a las 10pm de domingo a jueves y a las 11pm viernes y sábado), y el momento más tranquilo es a media mañana entre semana, justo después de la apertura, antes de que llegue el ajetreo del brunch. Calcula entre 45 minutos y una hora de visita, y ve con efectivo o tarjeta a mano: es una parada muy popular, no un hallazgo secreto.'

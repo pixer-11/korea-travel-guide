@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: surabaya-blue-doors-surabaya
+srcHash: 27d12afe415a
 title: '블루 도어스: 수라바야 여행 가이드'
 description: 블루 도어스 수라바야(Blue Doors Surabaya)는 트갈사리(Tegalsari)의 잘란 이맘 본졸(Jl. Imam Bonjol)에 위치한, 사진 찍기 좋은 커피숍으로 수라바야 시내에서 택시나 라이드헤일링으로 잠깐이면 갈 수 있다.
 quickAnswer: 블루 도어스 수라바야(Blue Doors Surabaya)는 트갈사리(Tegalsari)의 잘란 이맘 본졸(Jl. Imam Bonjol)에 위치한, 사진 찍기 좋은 커피숍으로 수라바야 시내에서 택시나 라이드헤일링으로 잠깐이면 갈 수 있다. 파란색과 흰색이 어우러진 외관과 그늘진 안뜰을 사람 붐비지 않게 즐기려면 평일 오전이나 오후 중반에 방문하는 것이 가장 좋다. 커피와 브런치, 사진 촬영을 위해 한두 시간 정도 여유를 두면 된다. DR. 수토모(DR. Soetomo)/다르모(Darmo) 지역의 식민지 시대 거리를 산책하는 코스와 함께 묶기도 좋다.

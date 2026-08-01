@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: istanbul-eurovolley-women-2026-final-stage
+srcHash: 91558388cc17
 title: 'EuroVolley Femenino 2026 (Fase Final): Lo que hay que saber (Estambul)'
 description: EuroVolley Femenino 2026 (Fase Final) en Estambul, Turquía — del 21 de agosto al 6 de septiembre de 2026. Qué es, cuándo y dónde se juega, y cómo organizar tu visita.
 quickAnswer: Estambul acoge parte de la fase de grupos y la gran final del EuroVolley Femenino 2026 en el Sinan Erdem Dome entre el 21 de agosto y el 6 de septiembre de 2026, con la coronación de las nuevas campeonas en la noche de clausura, el 6 de septiembre. Compra las entradas y confirma el calendario de partidos a través de los canales oficiales del CEV EuroVolley 2026 una vez publicados, ya que los horarios exactos y qué grupos se disputan en Estambul se definen más cerca del torneo. Aprovecha para combinar un partido con un día por Kabataş/Beşiktaş, ya que el recinto está justo a orillas del Bósforo.

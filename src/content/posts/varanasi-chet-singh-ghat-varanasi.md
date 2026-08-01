@@ -1,6 +1,6 @@
 ---
 title: "Chet Singh Ghat, (Varanasi): Travel Guide"
-description: "Chet Singh Ghat sits on Varanasi's southern riverfront, roughly a 10–15 minute boat ride (or a longer walk through the ghat-side lanes) from Assi Ghat, and"
+description: Chet Singh Ghat sits on Varanasi's southern riverfront, roughly a 10–15 minute boat ride (or a longer walk through the ghat-side lanes) from Assi Ghat, and it's open round the clock since it's an outdoor riverside site.
 country: "India"
 region: "Varanasi"
 category: "hidden-gem"

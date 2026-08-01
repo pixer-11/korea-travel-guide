@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: hangzhou-lingyin-temple
+srcHash: e9566fccc97d
 title: 霊隠寺(Lingyin Temple):杭州旅行ガイド
 description: 西湖(West Lake)の西に広がる緑深い山あいにひっそりと佇む霊隠寺(Lingyin Temple)は、328年創建という杭州最古の仏教寺院です。
 quickAnswer: 西湖(West Lake)の西に広がる緑深い山あいにひっそりと佇む霊隠寺(Lingyin Temple)は、328年創建という杭州最古の仏教寺院です。半日ほど時間を取っておきましょう。まず飛来峰(Feilai Feng)の石灰岩の渓谷に刻まれた彫刻群を歩いて見て回り、その後寺院の堂宇へと進み、最後は山腹にある薬師殿で締めくくるのがおすすめです。可能であれば平日の午前中に訪れるのがベスト——西湖本体に比べれば、今でも驚くほど空いています。

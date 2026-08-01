@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: kyoto-fushimi-inari-taisha
+srcHash: 396cc32531e5
 title: '후시미 이나리 타이샤: 교토 여행 가이드'
 description: 후시미 이나리 타이샤(Fushimi Inari Taisha)는 711년에 창건된 교토의 상징적인 붉은 도리이 신사로, 후시미구(Fushimi Ward)의 이나리산(Mount Inari) 기슭에 자리하고 있습니다.
 quickAnswer: 후시미 이나리 타이샤(Fushimi Inari Taisha)는 711년에 창건된 교토의 상징적인 붉은 도리이 신사로, 후시미구(Fushimi Ward)의 이나리산(Mount Inari) 기슭에 자리하고 있습니다. 무료로 입장할 수 있고 24시간 개방되며, 인파를 피하려면 새벽이나 해질녘 방문이 가장 좋습니다. 산길을 얼마나 올라가느냐에 따라 1.5~3시간 정도 여유를 두는 것이 좋습니다. JR 나라선(JR Nara Line)을 타고 교토역(Kyoto Station)에서 한 정거장(약 5분) 떨어진 이나리역(Inari Station)에서 내리면, 신사 입구가 역 바로 건너편에 있습니다.

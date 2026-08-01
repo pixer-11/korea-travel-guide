@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: bhubaneswar-world-athletics-continental-tour-silver-meet-indian-open
+srcHash: 0b48fcea11b3
 title: 'Reunión Plata del Continental Tour de World Athletics (Indian Open): lo que hay que saber (Bhubaneswar)'
 description: Reunión Plata del Continental Tour de World Athletics (Indian Open) en Bhubaneswar, India — 22 de agosto de 2026. Qué es, cuándo y dónde se celebra, y cómo organizar tu visita.
 quickAnswer: La primera reunión de categoría Plata del Continental Tour de World Athletics que se celebra en India —el Indian Open— llega al Estadio Kalinga (Kalinga Stadium) de Bhubaneswar el 22 de agosto de 2026, un ascenso respecto a la reunión de categoría bronce celebrada allí en 2025. Se espera un programa de un solo día, con más peso en la sesión vespertina, de atletismo internacional; las entradas, los horarios de apertura de puertas y el calendario completo del evento se confirmarán en los canales oficiales de World Athletics y del deporte de Odisha más cerca de la fecha.

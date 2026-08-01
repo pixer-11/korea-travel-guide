@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: phu-quoc-chuon-chuon-bistro-bar
+srcHash: 516bb5e0bdfe
 title: '쭈온쭈온 비스트로 & 바(Chuồn Chuồn Bistro & Bar): 푸꾸옥 여행 가이드'
 description: 쭈온쭈온 비스트로 & 바(Chuồn Chuồn Bistro & Bar)는 푸꾸옥 타운 쩐흥다오 거리(Tran Hung Dao Street)에 자리한 세련된 정원형 레스토랑 겸 라운지로, 등불이 켜진 야외 좌석으로 잘 알려져 있습니다.
 quickAnswer: 쭈온쭈온 비스트로 & 바(Chuồn Chuồn Bistro & Bar)는 푸꾸옥 타운 쩐흥다오 거리(Tran Hung Dao Street)에 위치한 세련된 정원형 레스토랑 겸 라운지로, 등불이 켜진 야외 좌석과 베트남 퓨전 요리, 칵테일로 잘 알려져 있습니다. 6,000개가 넘는 리뷰에서 4.3점의 평점을 받았으며 가격대는 중간 수준으로, 야시장을 둘러보기 전이나 후에 여유롭게 저녁을 즐기기 좋은 곳입니다. 가장 좋은 분위기를 느끼려면 일몰 무렵이나 오후 6시 이후에 방문하는 것이 좋고, 주말에는 금방 자리가 차기 때문에 미리 예약하거나 일찍 도착하는 것이 좋습니다.

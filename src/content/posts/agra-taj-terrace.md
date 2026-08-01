@@ -1,6 +1,6 @@
 ---
 title: 'Taj Terrace: Where to Eat in Agra'
-description: Taj Terrace is a rooftop restaurant at Hotel Taj Resorts, right by the Eastern Gate of the Taj Mahal in Tajganj, Agra — go for the candlelit tables, live
+description: Taj Terrace is a rooftop restaurant at Hotel Taj Resorts, right by the Eastern Gate of the Taj Mahal in Tajganj, Agra — go for the candlelit tables, live music, and a straight-on view of the marble dome at sunset or after dark.
 country: India
 region: Agra
 category: restaurant

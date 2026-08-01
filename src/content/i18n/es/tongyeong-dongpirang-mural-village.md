@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: tongyeong-dongpirang-mural-village
+srcHash: ebe518bfcda5
 title: Aldea de murales de Dongpirang en Tongyeong
 description: Dongpirang es una pequeña aldea de murales en la ladera del lado este del casco antiguo del puerto de Tongyeong, justo al lado del mercado Jungang y bajo el parque Nammangsan.
 quickAnswer: Dongpirang es una pequeña aldea de murales en la ladera del lado este del casco antiguo del puerto de Tongyeong, justo al lado del mercado Jungang y bajo el parque Nammangsan. Calcula entre 1 y 1,5 horas para recorrer los callejones y los murales, más otros 20–30 minutos para subir hasta el pabellón de la cima y disfrutar de una vista panorámica del puerto de Tongyeong y las islas cercanas. La entrada es gratuita, y lo mejor es visitarla temprano por la mañana o a última hora de la tarde en un día laborable para evitar los grupos turísticos. Combina muy bien con una parada en el mercado Jungang y un paseo en el teleférico de Tongyeong.

@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: singapore-bouillon-gavroche
+srcHash: 3ad25844a865
 title: Bouillon Gavroche en Singapur
 description: Bouillon Gavroche es una brasserie de estilo "bouillon" francés dentro de Mandarin Gallery, en Orchard Road, que trae a Asia la primera versión del histórico concepto parisino del siglo XIX.
 quickAnswer: 'Bouillon Gavroche es una brasserie de estilo "bouillon" francés dentro de Mandarin Gallery, en Orchard Road, que trae a Asia la primera versión del histórico concepto parisino del siglo XIX de "bouillon": comida reconfortante francesa, asequible y sin pretensiones, servida con rapidez en un comedor de estilo clásico. Es ideal para un almuerzo francés clásico o una cena temprana mientras se hacen compras en Orchard Road; conviene reservar con antelación o consultar los tiempos de espera, ya que es un local recién abierto y muy comentado. Confirma directamente con el restaurante los horarios actuales, la política de reservas y los precios del menú antes de ir, ya que estos detalles cambian con frecuencia en las nuevas aperturas.'

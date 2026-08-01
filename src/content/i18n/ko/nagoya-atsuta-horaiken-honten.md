@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: nagoya-atsuta-horaiken-honten
+srcHash: 3cf964886a50
 title: '아츠타 호라이켄 혼텐: 나고야 맛집 가이드'
 description: 나고야 아츠타 신궁(Atsuta Jingu) 근처에 있는 아츠타 호라이켄 혼텐(Atsuta Hōraiken Honten)은 히츠마부시의 발상지로, 간장 양념에 구운 장어를 밥 위에 얹어 세 가지 방식으로 즐기는 요리를 선보인다.
 quickAnswer: 나고야 아츠타 신궁(Atsuta Jingu) 근처에 있는 아츠타 호라이켄 혼텐(Atsuta Hōraiken Honten)은 히츠마부시의 발상지로, 간장 양념에 구운 장어를 밥 위에 얹어 세 가지 방식으로 즐기는 요리를 선보인다. 혼텐에서는 점심시간에 예약을 받지 않기 때문에 대기가 예상되며, 1인당 5,000엔~7,000엔 정도의 비용과 식사에 약 45~60분이 걸린다. 배고픈 상태로 일찍 방문하고, 아츠타 신궁 산책도 함께 즐겨보자.

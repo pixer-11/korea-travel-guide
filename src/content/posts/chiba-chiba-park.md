@@ -1,6 +1,6 @@
 ---
 title: 'Chiba Park: Travel Guide'
-description: Chiba Park is a large, easy-going green space in central Chiba City, best known for its cherry blossoms in late March/early April and its summer lotus pond
+description: Chiba Park is a large, easy-going green space in central Chiba City, best known for its cherry blossoms in late March/early April and its summer lotus pond that blooms through July and August.
 country: Japan
 region: Chiba
 category: attraction

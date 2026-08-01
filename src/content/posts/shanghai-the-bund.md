@@ -1,6 +1,6 @@
 ---
 title: "The Bund: Shanghai Travel Guide"
-description: "The Bund is Shanghai's 1,500-meter riverside promenade along Zhongshan Dong Yi Road in Huangpu District, lined with 1920s–30s colonial-era buildings on one"
+description: The Bund is Shanghai's 1,500-meter riverside promenade along Zhongshan Dong Yi Road in Huangpu District, lined with 1920s–30s colonial-era buildings on one side and facing the futuristic Pudong skyline (Oriental Pearl Tower, Jin Mao Tower, Shanghai Tower) across the Huangpu River.
 country: "China"
 region: "Shanghai"
 category: "attraction"

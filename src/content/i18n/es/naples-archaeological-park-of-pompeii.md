@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: naples-archaeological-park-of-pompeii
+srcHash: 60e6dfb3b2f3
 title: 'Parque Arqueológico de Pompeya: Guía de viaje de Nápoles'
 description: El Parque Arqueológico de Pompeya es una ciudad romana completa sepultada por el Vesubio en el año 79 d. C., ubicada en la localidad de Pompei, a unos 30 minutos en tren de Nápoles.
 quickAnswer: 'El Parque Arqueológico de Pompeya es una ciudad romana completa sepultada por el Vesubio en el año 79 d. C., ubicada en la localidad de Pompei, a unos 30 minutos en tren de Nápoles. Calcula un mínimo de 3-4 horas (un día entero si te apasiona la historia), entra por Porta Marina y ve a primera hora de la mañana para evitar tanto las multitudes como el calor del verano. Lleva calzado cómodo de verdad: los adoquines romanos originales son irregulares y hay poca sombra.'

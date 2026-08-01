@@ -1,6 +1,6 @@
 ---
 title: "The Pink Door: Where to Eat in Seattle"
-description: The Pink Door is the unmarked Italian trattoria hidden down Post Alley in Pike Place Market, known for its Elliott Bay-view terrace, red-sauce classics, and
+description: The Pink Door is the unmarked Italian trattoria hidden down Post Alley in Pike Place Market, known for its Elliott Bay-view terrace, red-sauce classics, and nightly cabaret and trapeze acts over the dining room.
 country: United States
 region: Seattle
 category: restaurant

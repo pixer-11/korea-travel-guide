@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: phuket-khao-rang-viewpoint
+srcHash: c5a3e65046cc
 title: 'Mirador de Khao Rang: Guía de viaje de Phuket'
-description: Khao Rang (Rang Hill) es un parque en la cima de una colina, justo al noroeste de la ciudad de Phuket, que ofrece las mejores vistas panorámicas de los tejados de la ciudad, el puerto y los alrededores
+description: 'Khao Rang (Rang Hill) es un parque en la cima de una colina, justo al noroeste de la ciudad de Phuket, que ofrece las mejores vistas panorámicas de los tejados de la ciudad, el puerto y las islas cercanas: la entrada es gratuita y lo mejor es visitarlo a última hora de la tarde hasta la puesta de sol.'
 quickAnswer: 'Khao Rang (Rang Hill) es un parque en la cima de una colina, justo al noroeste de la ciudad de Phuket, que ofrece las mejores vistas panorámicas de los tejados de la ciudad, el puerto y las islas cercanas: la entrada es gratuita y lo mejor es visitarlo a última hora de la tarde hasta la puesta de sol. Calcula entre 45 y 90 minutos, ve en coche o toma un taxi/moto (grab) ya que no hay autobús público directo, y combínalo con una comida en los restaurantes de la colina o un paseo por la ciudad de Phuket, más abajo.'
 faq:
   - q: ¿Hay que pagar entrada para visitar el mirador de Khao Rang?

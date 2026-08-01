@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: udaipur-saheliyon-ki-bari
+srcHash: 0401c053deef
 title: 萨希利扬吉巴里花园(Saheliyon ki Bari):乌代浦尔旅行指南
 description: 萨希利扬吉巴里花园(Saheliyon ki Bari,意为"侍女花园")是一座紧凑、适合步行游览的18世纪皇家花园,位于乌代浦尔(Udaipur)的潘查瓦蒂(Panchwati)地区,以其莲花池、大理石亭阁而闻名。
 quickAnswer: 萨希利扬吉巴里花园(Saheliyon ki Bari,意为"侍女花园")是一座紧凑、适合步行游览的18世纪皇家花园,位于乌代浦尔(Udaipur)的潘查瓦蒂(Panchwati)地区,以其莲花池、大理石亭阁、大象造型喷泉和一座小型博物馆而闻名。建议预留45-60分钟游览时间,最好在开园时就前往以避开旅游团人潮,还可以顺路沿附近的法塔赫萨加尔湖(Fateh Sagar Lake)散步。

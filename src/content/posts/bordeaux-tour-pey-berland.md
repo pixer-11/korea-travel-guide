@@ -1,6 +1,6 @@
 ---
 title: 'Tour Pey Berland: Bordeaux Travel Guide'
-description: 'Tour Pey Berland is the freestanding 15th-century Gothic belfry beside Bordeaux Cathedral on Place Pey Berland, and the reason to come is the climb: roughly'
+description: 'Tour Pey Berland is the freestanding 15th-century Gothic belfry beside Bordeaux Cathedral on Place Pey Berland, and the reason to come is the climb: roughly 230 tight stone steps up to an open-air platform with a 360-degree view over the city''s terracotta rooftops and the Garonne.'
 country: France
 region: Bordeaux
 category: attraction

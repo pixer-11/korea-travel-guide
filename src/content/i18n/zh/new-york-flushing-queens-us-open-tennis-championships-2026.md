@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: new-york-flushing-queens-us-open-tennis-championships-2026
+srcHash: 967c4405164e
 title: 2026年美国网球公开赛(US Open)指南:你需要了解的信息(纽约)
 description: 2026年美国网球公开赛将于8月23日至9月13日在皇后区法拉盛草地-可乐娜公园(Flushing Meadows–Corona Park)的美国网球协会比莉·简·金国家网球中心(USTA Billie Jean King National Tennis Center)举行。
 quickAnswer: 2026年美国网球公开赛将于8月23日至9月13日在皇后区法拉盛草地-可乐娜公园(Flushing Meadows–Corona Park)的美国网球协会比莉·简·金国家网球中心(USTA Billie Jean King National Tennis Center)举行。粉丝周(Fan Week)和资格赛于8月23日开赛,正赛单打于8月30日开始,决赛则在9月中旬为整届赛事画上句号。请搭乘7号线地铁前往Mets–Willets Point站,并在出发前于usopen.org确认具体赛程安排、入场时间和票价,因为这些细节每年都会有所变动。

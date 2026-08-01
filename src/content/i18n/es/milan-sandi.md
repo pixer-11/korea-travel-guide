@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: milan-sandi
+srcHash: '222813403155'
 title: 'Sandì: guía de viaje de Milán'
 description: 'Sandì en Milán, Italia — un local nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Sandì es un restaurante familiar instalado en una antigua panadería de los años 60, que reinterpreta los clásicos italianos en una sala diseñada con granito verde marino y madera oscura que rinde homenaje a los bares milaneses de los años 90. Es una de las aperturas más comentadas de la ciudad de cara a los Juegos Olímpicos de Invierno de 2026, así que conviene reservar con antelación y confirmar los horarios actuales antes de ir.

@@ -1,6 +1,6 @@
 ---
 title: 'Hidden Bangkok Tours: Travel Guide'
-description: Hidden Bangkok Tours runs small-group walks through Thonburi and Bangkok Yai — the old canal-side district across the river from the Grand Palace — focusing
+description: Hidden Bangkok Tours runs small-group walks through Thonburi and Bangkok Yai — the old canal-side district across the river from the Grand Palace — focusing on local temples, shophouse alleys, and street food you won't find in the tourist core.
 country: Thailand
 region: Bangkok
 category: hidden-gem

@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: agra-taj-terrace
+srcHash: 2c12f04c1b29
 title: '타지 테라스: 아그라에서 식사하기 좋은 곳'
 description: 타지 테라스(Taj Terrace)는 아그라(Agra) 타지간지(Tajganj)의 타지 마할(Taj Mahal) 동쪽 문(Eastern Gate) 바로 옆, 호텔 타지 리조트(Hotel Taj Resorts)에 자리한 루프탑 레스토랑이다 — 촛불 테이블과 라이브 음악을 즐길 수 있는 곳이다.
 quickAnswer: 타지 테라스(Taj Terrace)는 아그라(Agra) 타지간지(Tajganj)에 있는 타지 마할(Taj Mahal) 동쪽 문(Eastern Gate) 바로 옆, 호텔 타지 리조트(Hotel Taj Resorts)의 루프탑 레스토랑이다 — 촛불 테이블, 라이브 음악, 그리고 일몰이나 밤에 대리석 돔을 정면으로 바라볼 수 있는 전망 때문에 찾을 만하다. 파인 다이닝 매장(1,150개 이상의 리뷰에서 평점 4.8)으로, 아그라 최대 명소 바로 코앞에 있음에도 비교적 여유로운 분위기를 유지하고 있으니, 저녁 테이블을 예약하고 일몰 이후 타지 마할 방문객들이 타지간지 레스토랑가로 몰려들기 전에 도착하는 것이 좋다.

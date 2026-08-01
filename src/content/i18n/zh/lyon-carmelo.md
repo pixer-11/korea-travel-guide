@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: lyon-carmelo
+srcHash: 8a122e664195
 title: Carmelo：里昂美食推荐去哪吃
 description: Carmelo是一家位于里昂第1区（半岛区/Presqu'île）新街（Rue Neuve）的意大利餐厅，距离市政厅（Hôtel de Ville）和特罗广场（Terreaux）区域仅几分钟步行路程，以分量十足的意面和温馨杂乱、色彩缤纷的用餐环境而闻名。
 quickAnswer: Carmelo是一家位于里昂第1区（半岛区/Presqu'île）新街（Rue Neuve）的意大利餐厅，距离市政厅（Hôtel de Ville）和特罗广场（Terreaux）区域仅几分钟步行路程，以分量十足的意面和温馨杂乱、色彩缤纷的用餐环境而闻名。这里人气极高，供餐时段分为两段——午餐11:45至14:00（周末延长至15:15），晚餐18:15至22:15（周五、周六延长至22:45）——所以真正的诀窍是开门即到或提前预订，而不是指望能找到真正清静的时段，尤其是在周末的午后和晚上。

@@ -1,6 +1,6 @@
 ---
 title: 'The Collective: Where to Eat in Pattaya'
-description: The Collective Pattaya is the all-day dining hall inside the Holiday Inn Pattaya on Beach Road, best known for its sprawling international buffet spreads
+description: The Collective Pattaya is the all-day dining hall inside the Holiday Inn Pattaya on Beach Road, best known for its sprawling international buffet spreads (seafood, sushi, curries, live cooking stations) alongside an à la carte menu.
 country: Thailand
 region: Pattaya
 category: restaurant

@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: bangkok-the-reclining-buddha
+srcHash: 25586f952244
 title: 'El Buda Reclinado: Guía de viaje de Bangkok'
 description: El Buda Reclinado se encuentra dentro de Wat Pho (Wat Phra Chetuphon), justo al sur del Gran Palacio, en 2 Thanon Sanam Chai, Bangkok.
 quickAnswer: El Buda Reclinado se encuentra dentro de Wat Pho (Wat Phra Chetuphon), justo al sur del Gran Palacio, en 2 Thanon Sanam Chai, Bangkok. Ve temprano (antes de las 9am) para evitar los autobuses turísticos y el calor, calcula entre 60 y 90 minutos, y combina la visita con el Gran Palacio o un cruce del río hasta Wat Arun. Entra descalzo, viste con hombros y rodillas cubiertos, y no te pierdas los 108 cuencos de bronce para depositar monedas de buena fortuna a lo largo de los pies de la estatua.

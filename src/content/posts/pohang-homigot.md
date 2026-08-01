@@ -1,6 +1,6 @@
 ---
 title: "Homigot: Pohang Travel Guide"
-description: "Homigot, on the easternmost tip of the Korean mainland in Nam-gu, Pohang, is famous for the \"Hand of Harmony\" — matching bronze hands rising from the sea and"
+description: Homigot, on the easternmost tip of the Korean mainland in Nam-gu, Pohang, is famous for the "Hand of Harmony" — matching bronze hands rising from the sea and from the plaza above it — and for arguably the best sunrise view in Korea.
 country: "South Korea"
 region: "Pohang"
 category: "attraction"

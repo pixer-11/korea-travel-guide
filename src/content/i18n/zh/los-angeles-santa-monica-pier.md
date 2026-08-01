@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: los-angeles-santa-monica-pier
+srcHash: b010ce4133ed
 title: 圣莫尼卡海滨栈桥（Santa Monica Pier）：洛杉矶旅行指南
 description: 圣莫尼卡海滨栈桥（Santa Monica Pier）是66号公路（Route 66）西端尽头的木质地标，栈桥上有太平洋公园（Pacific Park）的摩天轮、游乐厅、一座小型水族馆，以及一排面向大海的小吃摊。
 quickAnswer: 圣莫尼卡海滨栈桥（Santa Monica Pier）是66号公路（Route 66）西端尽头的木质地标，栈桥上有太平洋公园（Pacific Park）的摩天轮、游乐厅、一座小型水族馆，以及一排面向大海的小吃摊。步行上栈桥是免费的（游乐设施和水族馆需另外付费），周末中午过后这里真的会人山人海——建议在上午11点前到达，那时游客还未涌入，正是本地人偏爱的清静时段。

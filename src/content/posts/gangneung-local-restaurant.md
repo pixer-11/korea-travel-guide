@@ -1,6 +1,6 @@
 ---
 title: Local Restaurant in Gangneung
-description: For an honest sense of Gangneung''s food culture, head to the alleys around Jungang Market (Jungang-dong) and the Gangmun tidal flat near Gyeongpo Beach
+description: 'For an honest sense of Gangneung''s food culture, head to the alleys around Jungang Market (Jungang-dong) and the Gangmun tidal flat near Gyeongpo Beach, where small family-run spots specialize in the city''s signature dishes: chodang sundubu (uncoagulated tofu simmered in seawater brine), fresh grilled or raw fish from the East Sea, and makguksu (cold buckwheat noodles).'
 region: Gangneung
 country: "South Korea"
 category: restaurant

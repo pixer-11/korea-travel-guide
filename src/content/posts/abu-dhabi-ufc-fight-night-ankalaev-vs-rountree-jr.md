@@ -1,6 +1,6 @@
 ---
 title: 'UFC Fight Night: Ankalaev vs Rountree Jr: What to Know (Abu Dhabi)'
-description: "UFC Fight Night: Ankalaev vs Rountree Jr is set for July 25, 2026 at Etihad Arena on Yas Island, Abu Dhabi, headlined by a light heavyweight clash between"
+description: 'UFC Fight Night: Ankalaev vs Rountree Jr is set for July 25, 2026 at Etihad Arena on Yas Island, Abu Dhabi, headlined by a light heavyweight clash between Magomed Ankalaev and Khalil Rountree Jr.'
 country: United Arab Emirates
 region: Abu Dhabi
 category: event

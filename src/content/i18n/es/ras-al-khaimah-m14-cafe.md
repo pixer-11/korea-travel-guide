@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: ras-al-khaimah-m14-cafe
+srcHash: 14657ba79324
 title: 'M14 Cafe: Guía de viaje de Ras Al Khaimah'
-description: M14 Cafe es una cafetería de especialidad tranquila y sin pretensiones, escondida cerca de New Mall en Sheikh Humaid Al Mohammad Al Qasimi Road, en Seih Al Araibi, Ras Al Khaimah — merece un desvío
+description: M14 Cafe es una cafetería de especialidad tranquila y sin pretensiones, escondida cerca de New Mall en Sheikh Humaid Al Mohammad Al Qasimi Road, en Seih Al Araibi, Ras Al Khaimah — merece un desvío si buscas un buen flat white o un brunch de calidad sin las multitudes del food court del centro comercial.
 quickAnswer: M14 Cafe es una cafetería de especialidad tranquila y sin pretensiones, escondida cerca de New Mall en Sheikh Humaid Al Mohammad Al Qasimi Road, en Seih Al Araibi, Ras Al Khaimah — merece un desvío si buscas un buen flat white o un brunch de calidad sin las multitudes del food court del centro comercial. Tiene una calificación de 4.4 sobre 706 reseñas, precios medios (aproximadamente AED 20-45 por artículo) y se recomienda visitarla a media mañana entre semana. Calcula entre 45 y 90 minutos; combínala con un paseo por New Mall o un trayecto en coche por la carretera hacia Jebel Jais.
 faq:
   - q: ¿Cómo llego a M14 Cafe en Ras Al Khaimah?

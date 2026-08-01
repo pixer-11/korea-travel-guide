@@ -1,8 +1,9 @@
 ---
 lang: zh
 slug: chiang-mai-wat-chedi-luang
+srcHash: be9c1409e219
 title: 柴迪隆寺（Wat Chedi Luang）：清迈旅行指南
-description: 柴迪隆寺（Wat Chedi Luang）位于清迈古城核心地带的帕彭克劳路（Prapokklao Road）上，以其规模宏大、部分损毁的15世纪佛塔以及城中的城市柱神龛闻名，是不可错过的景点
+description: 柴迪隆寺（Wat Chedi Luang）位于清迈古城核心地带的帕彭克劳路（Prapokklao Road）上，以其规模宏大、部分损毁的15世纪佛塔，以及寺内的城市柱（lak mueang）神龛而成为必游之地。
 quickAnswer: 柴迪隆寺（Wat Chedi Luang）位于清迈古城核心地带的帕彭克劳路（Prapokklao Road）上，以其规模宏大、部分损毁的15世纪佛塔，以及寺内的城市柱（lak mueang）神龛而成为必游之地。建议安排45–90分钟游览，最好选择清晨或傍晚前往，以避开高温和人潮，还可以顺路步行前往附近的帕辛寺（Wat Phra Singh）或周日步行街市集。门票为小额费用，仅收现金，请备好小面额纸币，并注意遮住肩膀和膝盖。
 faq:
   - q: 参观柴迪隆寺需要多少门票费用？

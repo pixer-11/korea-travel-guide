@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: shanghai-love-sushi
+srcHash: 352e592f4dc7
 title: Love Sushi：上海美食新去处
 description: Love Sushi 是上海一家新兴人气餐厅——它是什么、在哪里，以及如何预约前往。
 quickAnswer: Love Sushi 是一个仅有十个座位的 Omakase（无菜单料理）吧台，位于南京西路恒隆广场（Plaza 66）内，由资深怀石料理主厨马师傅掌勺，与 Ochiyo 和 Sushi Brother 同属一个餐饮集团。如果可以的话，尽量选择安静、不赶时间的工作日场次；由于吧台座位有限，务必提前预订，出发前请直接向餐厅确认最新营业时间和预订政策。

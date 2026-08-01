@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: bali-oryn
+srcHash: 2d3b1382e8c0
 title: 'ORYn: 발리 맛집 탐방'
 description: 인도네시아 발리의 새롭게 떠오르는 스팟, ORYn — 무엇을 파는 곳인지, 어디에 있는지, 어떻게 방문하면 좋은지 알아본다.
 quickAnswer: ORYn은 우붓(Ubud) 몽키 포레스트 로드(Monkey Forest Road)에 새로 문을 연 레스토랑 겸 바로, 오픈 파이어 키친을 중심으로 운영되며 전 CÉ LA VI 셰프 출신인 다니알 피트리 얍(Danial Fitri Yap)이 주방을 이끈다. 킹피시 세비체나 몽골리안 스타일 타이거 새우 같은 훈연·향신료 요리를 맛보러 가볼 만하며, 정확한 영업시간과 예약 정책이 아직 정착 중이니 방문 전 반드시 직접 확인하고 예약해두는 것이 좋다.

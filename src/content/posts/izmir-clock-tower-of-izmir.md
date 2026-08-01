@@ -1,6 +1,6 @@
 ---
 title: "Clock Tower of İzmir: Izmir Travel Guide"
-description: "The Clock Tower (Saat Kulesi) sits in the middle of Konak Square in Izmir, right by the waterfront and the Konak Pier tram/ferry hub — it's a five-minute"
+description: The Clock Tower (Saat Kulesi) sits in the middle of Konak Square in Izmir, right by the waterfront and the Konak Pier tram/ferry hub — it's a five-minute stop, best folded into a longer walk along the seafront rather than a destination on its own.
 country: "Turkey"
 region: "Izmir"
 category: "attraction"

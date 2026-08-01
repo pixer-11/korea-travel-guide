@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: jakarta-social-house-grand-indonesia
+srcHash: 62670387e4c0
 title: 'Social House Grand Indonesia: dónde comer en Yakarta'
-description: Social House Grand Indonesia es un exuberante restaurant y wine bar de todo el día, lleno de vegetación, en la planta baja de East Mall Grand Indonesia, en Menteng, Yakarta Central
+description: Social House Grand Indonesia es un exuberante restaurante y wine bar de todo el día, lleno de vegetación, ubicado en la planta baja de East Mall Grand Indonesia, en Menteng, Yakarta Central — al que se llega mejor a través de la Estación MRT Bundaran HI (Salida 1/2, conectada por un puente peatonal cubierto).
 quickAnswer: Social House Grand Indonesia es un exuberante restaurante y wine bar de todo el día, lleno de vegetación, ubicado en la planta baja de East Mall Grand Indonesia, en Menteng, Yakarta Central — al que se llega mejor a través de la Estación MRT Bundaran HI (Salida 1/2, conectada por un puente peatonal cubierto). Ofrece un extenso menú internacional, alrededor de 300 etiquetas de vino por copa o botella, y un rango de precios medio-alto (Rp150.000–400.000+ por persona). Es genuinamente popular, así que conviene ir a un almuerzo temprano o a cenar entre semana antes de las 7pm para evitar la espera.
 faq:
   - q: ¿Cómo llego a Social House Grand Indonesia en transporte público?

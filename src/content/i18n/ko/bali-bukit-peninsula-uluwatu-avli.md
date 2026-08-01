@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: bali-bukit-peninsula-uluwatu-avli
+srcHash: 34bdb8f45c13
 title: 발리 AVLI
 description: AVLI는 발리 부킷 반도(Bukit Peninsula) 울루와투(Uluwatu)의 잘란 라부안사잇(Jalan Labuansait)에 새로 문을 연 700제곱미터 규모의 모던 그리스 레스토랑으로, 울루와투의 서핑 포인트와도 이어지는 바로 그 거리에 위치해 있습니다.
 quickAnswer: AVLI는 발리 부킷 반도(Bukit Peninsula) 울루와투(Uluwatu)의 잘란 라부안사잇(Jalan Labuansait)에 새로 문을 연 700제곱미터 규모의 모던 그리스 레스토랑으로, 울루와투의 서핑 포인트와 절벽 위 클럽들로 이어지는 바로 그 거리에 자리하고 있습니다. 건축 설계는 DA Bureau가 맡았으며, 경쟁이 치열한 발리의 고급 다이닝 씬에서 몇 안 되는 지중해·그리스 콘셉트 레스토랑으로 눈에 띕니다. 최근에 문을 연 곳이니만큼 방문 전에 현재 영업시간, 메뉴, 예약 필요 여부를 확인하는 것이 좋습니다.

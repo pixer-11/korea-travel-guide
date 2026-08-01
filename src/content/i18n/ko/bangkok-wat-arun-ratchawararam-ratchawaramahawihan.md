@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: bangkok-wat-arun-ratchawararam-ratchawaramahawihan
+srcHash: 04c8da16e7a6
 title: '왓 아룬 랏차와라람 랏차와라마하위한: 방콕 여행 가이드'
 description: 왓 아룬(Wat Arun, "새벽사원")은 짜오프라야 강(Chao Phraya River) 톤부리(Thonburi) 강변에 자리하며, 왕궁(Grand Palace) 근처 타띠엔 선착장(Tha Tien pier)에서 강 건너는 페리를 타고 가는 것이 가장 좋습니다.
 quickAnswer: 왓 아룬(Wat Arun, "새벽사원")은 짜오프라야 강(Chao Phraya River) 톤부리(Thonburi) 강변에 자리하며, 왕궁(Grand Palace) 근처 타띠엔 선착장(Tha Tien pier)에서 강 건너는 페리를 타고 가는 것이 가장 좋습니다. 중앙 프랑(prang)에 올라 도자기와 조개껍질로 만든 모자이크를 감상하고 강변의 클래식한 풍경을 사진에 담으려면 60~90분 정도 계획하세요. 부드러운 빛을 원한다면 늦은 오후에, 실루엣 사진을 원한다면 폐장 직전에 방문하는 것이 좋습니다. 입장료와 보트 운항 시간은 수시로 바뀌므로 방문 전에 미리 확인하세요.

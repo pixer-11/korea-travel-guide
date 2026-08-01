@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: siena-palio-dell-assunta-palio-di-siena
+srcHash: 81c5e4155d73
 title: 锡耶纳圣母升天赛马节（Palio dell'Assunta / Palio di Siena）实用指南
 description: 2026年8月16日，意大利锡耶纳圣母升天赛马节（Palio dell'Assunta / Palio di Siena）——它是什么、何时何地举行，以及如何规划行程。
 quickAnswer: 圣母升天赛马节（Palio dell'Assunta）将于2026年8月16日在锡耶纳的田野广场（Piazza del Campo）举行——这是一场仅持续90秒的裸背赛马比赛，由该市17个传统街区（contrade，即“康特拉达”）中的10个派出代表参赛，赛前会有长达数小时的盛大仪式和缓慢的历史游行。广场中央的免费站立区在比赛前数小时开放，很快就会人满为患；如果想要座位，必须提前通过所属康特拉达、酒店或授权代理商预订阳台或临时看台的位置。请务必在出发前，通过锡耶纳官方旅游渠道确认准确的开始时间及任何变动。

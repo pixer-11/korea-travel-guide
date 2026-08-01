@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: bangkok-the-island-bangkok-top-rated-thai-restaurant-bar
+srcHash: ea320bf29b37
 title: 'The Island Bangkok, restaurante y bar tailandés de primer nivel: dónde comer'
-description: The Island Bangkok es un restaurante y bar tailandés muy bien valorado, ubicado en Soi Samsen 4, en la zona de Banglamphu/Phra Nakhon, a poca distancia de Khao San Road y
+description: The Island Bangkok es un restaurante y bar tailandés muy bien valorado, escondido en Soi Samsen 4, en la zona de Banglamphu/Phra Nakhon, a poca distancia a pie de Khao San Road y del río.
 quickAnswer: The Island Bangkok es un restaurante y bar tailandés muy bien valorado, escondido en Soi Samsen 4, en la zona de Banglamphu/Phra Nakhon, a poca distancia a pie de Khao San Road y del río. Es ideal para un ambiente relajado, tipo jardín, con platos tailandeses clásicos y cócteles; calcula entre 1,5 y 2 horas para una comida completa. Conviene reservar con antelación o llegar temprano las noches de fin de semana, ya que es un lugar muy popular entre locales y turistas, con una enorme cantidad de reseñas (más de 14.600 valoraciones con 4,9 estrellas).
 faq:
   - q: ¿Cómo llego a The Island Bangkok sin coche?

@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: istanbul-casa-lavanda
+srcHash: 5a6ddbee0ab1
 title: Casa Lavanda：伊斯坦布尔旅行指南
 description: Casa Lavanda 位于土耳其伊斯坦布尔——一处新兴热门去处：这是什么地方、位于何处，以及如何前往游览。
 quickAnswer: Casa Lavanda 是一家从农场直达餐桌的餐厅，坐落在伊斯坦布尔黑海沿岸希莱（Şile）林木葱郁的山间小村 Ulupelit，从市中心驱车大约需要 90 分钟。主厨 Emre Şen 在这里同时摘得米其林红星和可持续发展绿星，他的菜品围绕自家菜园展开，园中出产的蔬菜占到餐桌用料的约 80%。由于座位有限、属于目的地型餐厅，建议提前预订，并将其安排为一次半日行程，出发前请务必直接确认营业时间。

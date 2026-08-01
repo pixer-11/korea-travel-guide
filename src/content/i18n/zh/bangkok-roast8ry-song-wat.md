@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: bangkok-roast8ry-song-wat
+srcHash: 67ae64c52378
 title: Roast8ry Song Wat：曼谷旅行指南
 description: 曼谷 Roast8ry Song Wat——一处新晋热门去处：它是什么、地址在哪，以及如何前往。
 quickAnswer: Roast8ry Song Wat 是清迈知名精品咖啡品牌 Roast8ry 在曼谷开设的旗舰店，由2017年世界拉花冠军 Arnon Thitiprasert 创立，坐落在唐人街西侧宋卡路（Song Wat Road）的老式店屋街巷之中。适合在悠闲的上午来一杯慢煮咖啡，而不是匆匆买了就走，之后不妨顺路去附近湄南河（Chao Phraya River）沿岸的仓库区走一走。前往之前请务必确认最新营业时间以及是否接受预约，因为这样一家新近爆红的店，营业安排随时可能变动。

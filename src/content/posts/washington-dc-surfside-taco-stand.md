@@ -1,6 +1,6 @@
 ---
 title: "Surfside Taco Stand: Where to Eat in Washington DC"
-description: "Surfside Taco Stand is a bright, cafeteria-style Mexican counter at 1800 N St NW in Dupont Circle, open 24 hours, known for tacos and margaritas"
+description: Surfside Taco Stand is a bright, cafeteria-style Mexican counter at 1800 N St NW in Dupont Circle, open 24 hours, known for tacos and margaritas at budget-friendly prices.
 country: "United States"
 region: "Washington DC"
 category: "restaurant"

@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: bandung-dago-dreampark
+srcHash: abf76fce55ae
 title: '다고 드림파크: 반둥 여행 가이드'
 description: 다고 드림파크(Dago Dreampark)는 반둥(Bandung)-렘방(Lembang) 도로변에 자리한 소나무 숲 어드벤처 파크로, ATV 코스와 페인트볼, 대형 그네 같은 테마형 포토 스팟으로 유명하다.
 quickAnswer: 다고 드림파크(Dago Dreampark)는 반둥(Bandung)-렘방(Lembang) 도로변에 자리한 소나무 숲 어드벤처 파크로, ATV 코스와 페인트볼, 대형 그네와 스카이뷰 전망대 같은 테마형 포토 스팟으로 유명하다. 방문에는 2~4시간 정도를 잡으면 되고, 주말에는 방문객이 매우 많으니 평일 오전에 가는 것이 좋다. 기본 입장권에는 대부분의 놀이시설이 포함되지 않으므로 액티비티별로 추가 요금을 낼 현금을 챙겨가자.

@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: clarke-quay-home-dawn-cafe-clarke-quay
+srcHash: 4bda4f2ed74b
 title: Home Dawn Cafe @ Clarke Quay 旅行ガイド
 description: Home Dawn Cafe @ Clarke Quay(クラークキー)は、クラークキーのメインエリアのすぐ裏手、Block 3A River Valley Roadの上階にひっそりと佇むリバーサイドカフェです。
 quickAnswer: Home Dawn Cafe @ Clarke Quay(クラークキー)は、クラークキーのメインの歓楽街のすぐ裏手、Block 3A River Valley Roadの上階にひっそりと佇むリバーサイドカフェです。平日の朝か午後の中頃に訪れれば、川を眺めながら静かな席で過ごせます。クラークキーといえばクラブ街の賑やかさが有名ですが、ここではそれとは対照的な、落ち着いたブランチとコーヒーのメニューが楽しめます。Clarke Quay駅(クラークキー駅、NE5)から徒歩5〜8分と近く、シンガポール川沿いの散策と組み合わせるのがおすすめです。

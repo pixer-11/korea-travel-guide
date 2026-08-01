@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: valencia-ciudad-de-las-artes-y-las-ciencias
+srcHash: 4b3bea63f482
 title: 科学艺术城:瓦伦西亚旅行指南
 description: 科学艺术城(Ciudad de las Artes y las Ciencias)是瓦伦西亚位于图里亚河故道东端的未来主义博物馆与公园综合体,由建筑师设计建造。
 quickAnswer: 科学艺术城(Ciudad de las Artes y las Ciencias)是瓦伦西亚位于图里亚河故道(Turia)东端的未来主义博物馆与公园综合体,由建筑师圣地亚哥·卡拉特拉瓦(Santiago Calatrava)和费利克斯·坎德拉(Félix Candela)设计建造。如果只想游览园区、拍拍照,安排半天就够了;若想加上半球形天文馆(Hemisfèric,IMAX影院/天文馆)、费利佩王子科学博物馆和海洋馆(Oceanogràfic水族馆),则需要一整天。付费场馆建议提前在网上购票,夏季最好选择清晨或傍晚前往,以避开人群和白色混凝土反射的强烈阳光。

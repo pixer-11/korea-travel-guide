@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: labuan-bajo-taman-laut-handayani-seafood-restaurant-labuan-bajo
+srcHash: d6f43f75a3fc
 title: '타만 라우트 한다야니 해산물 레스토랑: 라부안 바조 맛집'
 description: 타만 라우트 한다야니(Taman Laut Handayani)는 라부안 바조 Jl. Ande Bole에 위치한 대형 해산물 레스토랑입니다.
 quickAnswer: 타만 라우트 한다야니(Taman Laut Handayani)는 라부안 바조(Labuan Bajo) 중심부 Jl. Ande Bole에 위치한 항구가 보이는 대형 해산물 레스토랑으로, 원하는 재료를 직접 골라 즉석에서 구워주는 신선한 해산물과 만 너머로 지는 노을 전망으로 유명합니다. 평점 4.6에 리뷰 5,700개 이상을 기록한 매우 인기 있는 중가 레스토랑으로, 대기 없이 이용하려면 오픈 직후나 저녁 러시 시간대보다 훨씬 이르게 방문하는 것이 좋으며, 제대로 된 해산물 식사를 위해서는 1시간에서 90분 정도 여유를 두는 것이 좋습니다.

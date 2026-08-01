@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: pattaya-the-collective-pattaya
+srcHash: a6133f688494
 title: '더 콜렉티브: 파타야 맛집 가이드'
 description: 더 콜렉티브 파타야(The Collective Pattaya)는 비치 로드(Beach Road)에 위치한 홀리데이 인 파타야(Holiday Inn Pattaya) 내 올데이 다이닝 레스토랑으로, 다채로운 인터내셔널 뷔페로 잘 알려져 있습니다.
 quickAnswer: 더 콜렉티브 파타야는 비치 로드(Beach Road)에 위치한 홀리데이 인 파타야(Holiday Inn Pattaya) 내 올데이 다이닝 레스토랑으로, 해산물, 스시, 커리, 라이브 쿠킹 스테이션 등을 갖춘 다채로운 인터내셔널 뷔페와 알라카르트 메뉴로 잘 알려져 있습니다. 2,173개 이상의 리뷰에서 4.8점의 평점을 기록하며, 해변가를 벗어나지 않고도 다양한 메뉴를 즐기고 싶은 가족 단위나 일행에게 믿을 만한 선택지입니다 — 아침 식사나 저녁 뷔페를 노려보고, 주말에는 미리 예약하는 것이 좋습니다.

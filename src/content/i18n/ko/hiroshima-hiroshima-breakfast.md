@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: hiroshima-hiroshima-breakfast
+srcHash: d40a0f266ce5
 title: '히로시마 브렉퍼스트: 여행 가이드'
 description: 히로시마 브렉퍼스트(Hiroshima Breakfast)는 나카구 중심부 도하시초(Dohashicho)에 위치한 평점 높은 아담한 아침 카페로, 혼도리 상점가와 평화기념공원에서 도보로 잠깐이면 닿는 거리에 있습니다.
 quickAnswer: 히로시마 브렉퍼스트(Hiroshima Breakfast)는 나카구 중심부 도하시초(Dohashicho)에 위치한 평점 높은 아담한 아침 카페로, 혼도리(Hondori) 상점가와 평화기념공원(Peace Memorial Park)에서 도보로 잠깐이면 닿는 거리에 있습니다. 공간이 협소하고 보통 예약을 받지 않기 때문에, 줄을 피하려면 평일 오전 8~10시경 도보로 방문하는 것이 가장 좋습니다. 45~60분 정도 시간을 잡아두고, 방문 전후로 혼도리를 걷거나 사람이 몰리기 전 이른 아침 평화기념공원을 둘러보는 일정과 함께 묶는 것을 추천합니다.

@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: granada-generalife
+srcHash: 6d4a4d5c0cee
 title: 'Generalife: Guía de viaje de Granada'
 description: El Generalife es el palacio de verano y los jardines de la Alhambra, a poca distancia cuesta arriba de los Palacios Nazaríes principales, abierto todos los días de 8:30 a 20:00.
 quickAnswer: 'El Generalife es el palacio de verano y los jardines de la Alhambra, a poca distancia cuesta arriba de los Palacios Nazaríes principales, abierto todos los días de 8:30 a 20:00. Compra una entrada combinada de la Alhambra con bastante antelación y reserva el horario de entrada más temprano posible: las aglomeraciones aumentan progresivamente entre las 11:00 y las 14:00, especialmente los fines de semana. Reserva entre 45 y 60 minutos solo para los jardines, más si te detienes junto a la Escalera del Agua.'

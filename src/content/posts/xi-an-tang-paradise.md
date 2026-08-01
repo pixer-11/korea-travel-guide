@@ -1,6 +1,6 @@
 ---
 title: "Tang Paradise: Xi'an Travel Guide"
-description: "Tang Paradise (大唐芙蓉园) is a large recreated Tang Dynasty imperial garden in southeastern Xi'an, best visited in late afternoon so you can wander the pavilions"
+description: Tang Paradise (大唐芙蓉园) is a large recreated Tang Dynasty imperial garden in southeastern Xi'an, best visited in late afternoon so you can wander the pavilions in daylight and stay for the evening water-and-light show around Purple Cloud Tower.
 country: "China"
 region: "Xi'an"
 category: "attraction"

@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: gyeongju-woljeonggyo-bridge
+srcHash: c3cbf22adbfb
 title: 'Puente Woljeonggyo: Guía de viaje de Gyeongju'
-description: El puente Woljeonggyo es un puente de madera reconstruido de la era Silla que cruza el Namcheon (arroyo Nam) en la aldea de Gyo-dong, en Gyeongju, y se disfruta mejor al atardecer
+description: El puente Woljeonggyo es un puente de madera reconstruido de la era Silla que cruza el Namcheon (arroyo Nam) en la aldea de Gyo-dong, en Gyeongju.
 quickAnswer: El puente Woljeonggyo es un puente de madera reconstruido de la era Silla que cruza el Namcheon (arroyo Nam) en la aldea de Gyo-dong, en Gyeongju. Lo mejor es visitarlo alrededor del atardecer, para verlo iluminado contra el agua oscura. Cruzarlo es gratis, y se necesitan entre 20 y 30 minutos para apreciarlo y fotografiarlo bien; además, combina de forma natural con un paseo por la cercana Aldea Tradicional de Gyochon y las ruinas de la fortaleza de Wolseong (Banwolseong).
 faq:
   - q: ¿Cómo llego al puente Woljeonggyo?

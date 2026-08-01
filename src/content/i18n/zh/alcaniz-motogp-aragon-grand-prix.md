@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: alcaniz-motogp-aragon-grand-prix
+srcHash: 9afa1d3fe0b2
 title: MotoGP阿拉贡大奖赛须知（阿尔卡尼斯）
 description: 2026年8月28日至30日，西班牙阿尔卡尼斯（Alcañiz）将举办MotoGP阿拉贡大奖赛——赛事简介、时间地点，以及行程规划建议。
 quickAnswer: MotoGP阿拉贡大奖赛将于2026年8月28日至30日在阿拉贡赛道（MotorLand Aragón）举行，这是一座专业赛车赛道，位于西班牙特鲁埃尔省（Teruel）阿尔卡尼斯（Alcañiz）以外约6公里处。购票及确认最终赛程前，请以MotoGP官网及MotorLand Aragón官网信息为准，因为具体比赛时间和小组别赛事安排通常要到临近周末才会最终敲定。建议以阿尔卡尼斯镇为落脚点，每天开车或乘接驳车前往赛道。

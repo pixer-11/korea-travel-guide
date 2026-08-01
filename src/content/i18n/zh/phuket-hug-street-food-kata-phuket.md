@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: phuket-hug-street-food-kata-phuket
+srcHash: e9b764e7e27b
 title: 拥抱街头小吃(Hug Street Food),卡塔:普吉岛美食去哪吃
 description: 拥抱街头小吃(Hug Street Food)是位于卡塔(Kata,属加隆/Karon分区)的一家小型高评分街头小吃摊/休闲餐馆,就在卡塔海滩(Kata Beach)主街旁的Kake Kwan路(Thanon Kake Kwan)上。
 quickAnswer: 拥抱街头小吃(Hug Street Food)是位于卡塔(Kata,属加隆/Karon分区)的一家小型高评分街头小吃摊/休闲餐馆,就在卡塔海滩主街旁的Kake Kwan路(Thanon Kake Kwan)上。这里主打泰式经典菜——泰式炒河粉(pad thai)、青木瓜沙拉(som tam)、烤肉串和咖喱——现做现卖、价格实惠,最适合在傍晚人潮涌向海滩路看日落之前来一顿早晚餐。凭借421条以上评价获得的4.8分高评分,这里更适合当作快速满足口腹之欲的一站,而非悠闲的正式聚餐,所以建议饿着肚子来,并做好拼桌或坐高脚凳的准备。

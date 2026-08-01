@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: seville-royal-alcazar-of-seville
+srcHash: 02f86f424f71
 title: 塞维利亚王宫（Royal Alcázar of Seville）旅行指南
 description: 塞维利亚王宫（Royal Alcázar of Seville）是一座至今仍在使用的皇家宫殿，坐落于旧城区（Casco Antiguo），以其穆德哈尔风格的宫殿厅室、铺满瓷砖的庭院和广阔的花园闻名。
 quickAnswer: 塞维利亚王宫（Royal Alcázar of Seville）是一座至今仍在使用的皇家宫殿，坐落于旧城区（Casco Antiguo），以其穆德哈尔风格的宫殿厅室、铺满瓷砖的庭院和广阔的花园著称——建议安排2.5至3小时游览时间，并提前在网上预订限时入场门票，因为门票经常售罄。最好一开门（通常是上午9:30）就前往，以避开酷热和人潮，还可以将行程与近在咫尺（步行仅需两分钟）的塞维利亚大教堂（Seville Cathedral）和吉拉尔达塔（Giralda）安排在一起游览。

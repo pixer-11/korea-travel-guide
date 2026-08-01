@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: valencia-la-lonja-de-la-seda-de-valencia
+srcHash: 01fd94844595
 title: 瓦伦西亚丝绸交易所（La Lonja de la Seda）：旅行指南
 description: 丝绸交易所（La Lonja de la Seda）是瓦伦西亚一处被列入联合国教科文组织（UNESCO）名录的昔日丝绸交易所，位于老城区（Ciutat Vella）的 C/ de la Llotja, 2，正对中央市场（Mercado Central）。
 quickAnswer: 丝绸交易所（La Lonja de la Seda）是瓦伦西亚一处被列入联合国教科文组织（UNESCO）名录的昔日丝绸交易所，位于老城区（Ciutat Vella）的 C/ de la Llotja, 2，正对中央市场（Mercado Central）。安排45-60分钟即可，重点看交易大厅（Sala de Contratación）内如科林斯柱般扭转盘旋的立柱，以及海事领事馆（Consulado del Mar）的镶格藻井天花板；建议工作日一早前往以避开人潮——这里是热门景点，一旦旅行团抵达，排队队伍会很快变长。

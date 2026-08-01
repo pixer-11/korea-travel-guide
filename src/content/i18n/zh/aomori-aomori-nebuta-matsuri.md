@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: aomori-aomori-nebuta-matsuri
+srcHash: ef020de20713
 title: 青森睡魔祭（Nebuta Matsuri）须知（青森）
 description: 2026年8月2日至7日，日本青森睡魔祭（Aomori Nebuta Matsuri）举办详情——祭典内容、时间地点，以及如何规划行程。
 quickAnswer: 青森睡魔祭于2026年8月2日至7日在本州北部的青森市举行——每晚，巨大的灯笼武者花车（睡魔灯笼，nebuta）会在市中心街道上巡游，伴随跳人（haneto）舞者和太鼓鼓手的表演。建议选择前几个平日夜晚前往，人潮会稍微宽松一些，并请在预订行程前，前往青森睡魔祭官方网站确认具体的巡游路线、时间以及付费座位安排。

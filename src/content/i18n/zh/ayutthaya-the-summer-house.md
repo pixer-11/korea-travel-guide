@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: ayutthaya-the-summer-house
+srcHash: 0bb8ed95672a
 title: The Summer House：大城府（Ayutthaya）旅行指南
 description: The Summer House 是大城府（Ayutthaya）哥莲岛（Ko Rian）上的一家河畔咖啡餐厅，在绿意盎然的花园环境中将泰式家常美食与法式甜点结合在一起。
 quickAnswer: The Summer House 是位于大城府（Ayutthaya）哥莲岛（Ko Rian）上的一家河畔咖啡餐厅，坐落在昭披耶河/巴塞河（Chao Phraya/Pa Sak）河岸的葱郁花园中，将泰式家常美食与法式甜点巧妙结合。建议选在悠闲的早午餐时段或日落晚餐时段前往，人均预算约300-600泰铢，还可顺道游览车程或长尾船程不远的柴瓦塔纳兰寺（Wat Chaiwatthanaram）。由于人气很高（超过3,000条评价，评分4.5星），周末前往建议提前预订。

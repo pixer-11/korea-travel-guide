@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: jaipur-hawa-mahal
+srcHash: e355e083dad1
 title: 风之宫殿（Hawa Mahal）：斋浦尔旅行指南
 description: 风之宫殿（Hawa Mahal）是斋浦尔（Jaipur）老城巴迪乔巴德（Badi Choupad）上那面粉色的五层蜂窝状立面——最好选在开门时（上午9点）或闭馆前最后一小时前往，以避开旅游大巴人潮。
 quickAnswer: 风之宫殿（Hawa Mahal）是斋浦尔老城巴迪乔巴德（Badi Choupad）上那面粉色的五层蜂窝状立面——最好选在开门时（上午9点）或闭馆前最后一小时前往，以避开旅游大巴人潮，游览内部大约预留45分钟到1小时即可。入口在建筑背面的三层门集市路（Tripolia Bazaar Road）一侧，而不是从那面著名的临街立面进入，所以不要浪费时间在那面出片墙上找门。

@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: los-angeles-griffith-observatory
+srcHash: 661aff5fbec5
 title: グリフィス天文台:ロサンゼルス旅行ガイド
 description: グリフィス天文台(Griffith Observatory)はグリフィス・パーク(Griffith Park)内のマウント・ハリウッド(Mount Hollywood)南斜面に位置し、入場は無料。水曜から日曜の午後から夜まで開館しています。
 quickAnswer: グリフィス天文台(Griffith Observatory)はグリフィス・パーク(Griffith Park)内のマウント・ハリウッド(Mount Hollywood)南斜面に佇み、入場は無料で、水曜から日曜の午後から夜にかけて開館しています(月曜・火曜は休館)。有料なのはプラネタリウムのショーと駐車料金だけです。スカイラインの眺め、ハリウッドサイン、そして日没後の望遠鏡観察を一度に楽しむなら、日没近くに訪れるのがベスト。坂道を歩いて上る時間や駐車場待ちも見込んで、2〜3時間ほど予定しておきましょう。

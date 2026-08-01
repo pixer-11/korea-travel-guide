@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: surabaya-surabaya-north-quay
+srcHash: 8c4123f3fc35
 title: 'Surabaya North Quay: Guía de viaje'
 description: Surabaya North Quay (SNQ) es una terraza en la azotea, en la zona portuaria de Tanjung Perak, que ofrece vistas abiertas de buques portacontenedores, petroleros y cruceros contra el horizonte del mar de Java.
 quickAnswer: Surabaya North Quay (SNQ) es una terraza en la azotea, en la zona portuaria de Tanjung Perak, que ofrece vistas abiertas de buques portacontenedores, petroleros y cruceros contra el horizonte del mar de Java. Ve al atardecer en un día despejado, calcula entre 1 y 1,5 horas, y llega en coche particular, taxi o app de transporte, ya que se encuentra dentro del distrito portuario activo, alejado de la red de trenes y autobuses de la ciudad. Es un lugar muy popular y bien valorado (4,4 estrellas, más de 23.000 reseñas), así que espera aglomeraciones los fines de semana y días festivos.

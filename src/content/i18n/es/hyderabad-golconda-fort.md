@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: hyderabad-golconda-fort
+srcHash: 45d2ec6b32ff
 title: 'Fuerte de Golconda: Guía de viaje de Hyderabad'
-description: El Fuerte de Golconda es la ciudadela sobre una colina de Hyderabad de la era Qutb Shahi, abierta todos los días de 9am a 5pm, con 87 bastiones, ruinas de palacios y un sistema acústico de aplauso y eco
+description: El Fuerte de Golconda es la ciudadela sobre una colina de Hyderabad de la era Qutb Shahi, abierta todos los días de 9am a 5pm, con 87 bastiones, ruinas de palacios y un sistema acústico de aplauso y eco que asciende hasta el Baradari en la cima.
 quickAnswer: El Fuerte de Golconda es la ciudadela sobre una colina de Hyderabad de la era Qutb Shahi, abierta todos los días de 9am a 5pm, con 87 bastiones, ruinas de palacios y un sistema acústico de aplauso y eco que asciende hasta el Baradari en la cima. Reserva de dos a tres horas, calza zapatos aptos para caminar por el granito de la subida, y llega lo más cerca posible de las 9am — este es uno de los monumentos más visitados de la ciudad y las rampas y escaleras se llenan rápido después de media mañana. Combínalo con el espectáculo nocturno de luz y sonido si quieres que te cuenten la historia del fuerte en la oscuridad.
 faq:
   - q: ¿Cuánto tiempo debería dedicar al Fuerte de Golconda?

@@ -1,6 +1,6 @@
 ---
 title: 'Temple of Heaven: Beijing Travel Guide'
-description: Give the Temple of Heaven at least two to three hours — its circular Hall of Prayer for Good Harvests, the Echo Wall, and the surrounding cypress park are
+description: Give the Temple of Heaven at least two to three hours — its circular Hall of Prayer for Good Harvests, the Echo Wall, and the surrounding cypress park are all worth lingering in.
 country: China
 region: Beijing
 category: attraction

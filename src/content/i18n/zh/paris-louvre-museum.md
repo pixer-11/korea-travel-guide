@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: paris-louvre-museum
+srcHash: 0fde6f5c8092
 title: 卢浮宫博物馆:巴黎旅行指南
 description: 选在周三或周五刚开馆(9点)时前往,这两天博物馆会延长开放到晚上9点,清晨人潮过后人流会明显减少。
 quickAnswer: 选在周三或周五刚开馆(9点)时前往,这两天博物馆会延长开放到晚上9点,清晨人潮过后人流会明显减少。建议从金字塔入口进入,或者更好的选择是从卡鲁塞尔卢浮宫地下入口(Carrousel du Louvre,地铁Palais-Royal–Musée du Louvre站,1号线)进入,可以避开地面排队人群。如果只想看重点展品,安排半天时间即可;若想悠闲漫步,则建议留出一整天。

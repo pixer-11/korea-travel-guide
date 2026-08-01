@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: las-vegas-strat-skypod
+srcHash: dfba304163f8
 title: 'STRAT SkyPod: Guía de viaje de Las Vegas'
 description: El STRAT SkyPod se encuentra en la cima de la torre del hotel STRAT, en 2000 S Las Vegas Blvd, en el extremo norte del Strip, y ofrece vistas de 360 grados desde más de 100 pisos de altura.
 quickAnswer: El STRAT SkyPod se encuentra en la cima de la torre del hotel STRAT, en 2000 S Las Vegas Blvd, en el extremo norte del Strip, y ofrece vistas de 360 grados desde más de 100 pisos de altura, además de un conjunto de atracciones de emociones fuertes (Big Shot, Insanity, X-Scream, SkyJump). Calcula entre 1,5 y 2 horas, ve al atardecer para disfrutar de la mejor luz, y espera colas notablemente más cortas que en las grandes atracciones más al sur del Strip. Con una calificación de 4.5 sobre más de 1,000 reseñas, es un complemento infravalorado si ya te alojas al norte del corredor principal de casinos.

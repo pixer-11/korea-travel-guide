@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: new-york-statue-of-liberty
+srcHash: 838fdde63ca7
 title: '자유의 여신상: 뉴욕 여행 가이드'
 description: 맨해튼(Manhattan) 배터리 파크(Battery Park)에서 공식 스태추 시티 크루즈(Statue City Cruises) 페리를 타고 자유의 여신상을 방문하세요(또는 뉴저지의 리버티 스테이트 파크(Liberty State Park)에서 출발).
 quickAnswer: 자유의 여신상은 맨해튼(Manhattan) 배터리 파크(Battery Park)(또는 뉴저지 리버티 스테이트 파크(Liberty State Park))에서 출발하는 공식 스태추 시티 크루즈(Statue City Cruises) 페리를 타고 방문할 수 있으며, 이는 리버티 아일랜드(Liberty Island)에 합법적으로 도착할 수 있는 유일한 방법입니다. 특히 받침대(pedestal)나 왕관(crown) 접근권을 원한다면 몇 주 전에 미리 티켓을 예매하고, 리버티 아일랜드와 엘리스 아일랜드(Ellis Island)를 함께 둘러볼 반나절 일정을 계획하세요. 대기 줄이 가장 짧고 사진 찍기 좋은 빛을 얻으려면 평일 이른 아침에 방문하는 것이 좋습니다.

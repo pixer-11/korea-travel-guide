@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: sentosa-sentosa-sensoryscape
+srcHash: b3cdaac71fcc
 title: '센토사 센서리스케이프(Sentosa Sensoryscape): 여행 가이드'
 description: 센토사 센서리스케이프(Sentosa Sensoryscape)는 센토사 섬(Sentosa Island) 3 Siloso Rd에 위치한 무료 입장 멀티 감각 정원 겸 조명 설치물로, LED 캐노피가 살아나는 해질 무렵에 가장 아름답게 감상할 수 있습니다.
 quickAnswer: 센토사 센서리스케이프(Sentosa Sensoryscape)는 센토사 섬(Sentosa Island) 3 Siloso Rd에 위치한 무료 입장 멀티 감각 정원 겸 조명 설치물로, LED 캐노피와 미스트 정원, 사운드 요소가 한데 어우러지는 해질 무렵에 가장 잘 즐길 수 있습니다. 45~60분 정도 시간을 잡고 실로소 비치(Siloso Beach) 산책이나 저녁 식사와 함께 묶어보세요. 주말에는 케이블카를 타러 오가는 인파가 몰리니 평일 저녁에 방문하는 것이 좋습니다.

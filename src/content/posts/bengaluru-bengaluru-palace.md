@@ -1,6 +1,6 @@
 ---
 title: 'Bengaluru Palace: Travel Guide'
-description: Bengaluru Palace, on Palace Road in the heart of the city, is a Tudor-style royal residence built in the 1880s and modeled on England's Windsor Castle, with
+description: Bengaluru Palace, on Palace Road in the heart of the city, is a Tudor-style royal residence built in the 1880s and modeled on England's Windsor Castle, with fortified turrets, wood-carved interiors, and manicured lawns that now host concerts and events.
 country: India
 region: Bengaluru
 category: attraction

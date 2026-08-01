@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: boston-boston-tea-party-ships-museum
+srcHash: 89889bb6fe1e
 title: '보스턴 티 파티 십스 & 뮤지엄(Boston Tea Party Ships & Museum): 여행 가이드'
 description: 사우스 스테이션(South Station) 바로 뒤, 포트 포인트 채널(Fort Point Channel)에 정박한 보스턴 티 파티 십스 & 뮤지엄, 주소는 306 Congress St이며 관람에는 60~90분 정도를 예상하세요.
 quickAnswer: 사우스 스테이션(South Station) 바로 뒤, 포트 포인트 채널(Fort Point Channel)에 정박한 보스턴 티 파티 십스 & 뮤지엄, 주소는 306 Congress St이며 관람에는 60~90분 정도를 예상하세요. 배우들의 연기, 짧은 영상, 복원된 18세기 선박 두 척, 티룸까지 이어지는 가이드 동반의 시간 예약제 체험이므로 온라인으로 미리 시간대를 예약해두는 것이 좋습니다 — 보스턴에서 가장 많이 찾는 명소 중 하나라 주말 낮 시간대는 매진되기 일쑤입니다. 단체 관광객이 가장 몰리는 시간을 피하려면 개장 직후나 늦은 오후에 방문하세요.

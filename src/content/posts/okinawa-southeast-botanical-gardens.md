@@ -1,6 +1,6 @@
 ---
 title: "Southeast Botanical Gardens: Okinawa Travel Guide"
-description: "Southeast Botanical Gardens (東南植物楽園) in Okinawa City is a large tropical garden with lakes, orchid houses, and animal encounters, best visited on a half-day"
+description: Southeast Botanical Gardens (東南植物楽園) in Okinawa City is a large tropical garden with lakes, orchid houses, and animal encounters, best visited on a half-day trip combined with a rental car since it sits inland, away from the coastal bus routes.
 country: "Japan"
 region: "Okinawa"
 category: "attraction"

@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: little-india-former-house-of-tan-teng-niah
+srcHash: ec054712e74c
 title: 陈庭仁旧居：小印度旅游指南
 description: 陈庭仁旧居（Former House of Tan Teng Niah）位于甘榜格南路（Kerbau Road）37号，是小印度（Little India）现存的最后一座华人别墅——这座建于1900年的两层洋楼如今被漆成鲜艳的粉彩色调。
 quickAnswer: 陈庭仁旧居（Former House of Tan Teng Niah）位于甘榜牛车水路（Kerbau Road）37号，是小印度（Little India）现存的最后一座华人别墅——这座建于1900年的两层洋楼如今被漆成鲜艳的粉彩色调。它是私人商业建筑而非博物馆，从街上免费参观即可，只需15-20分钟就能看完，很适合与沿甘榜牛车水路（Kerbau Road）走向竹脚中心（Tekka Centre）或实龙岗路（Serangoon Road）的漫步行程搭配。

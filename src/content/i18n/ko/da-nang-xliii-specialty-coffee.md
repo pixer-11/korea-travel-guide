@@ -1,8 +1,9 @@
 ---
 lang: ko
 slug: da-nang-xliii-specialty-coffee
+srcHash: 8c7c168af2e1
 title: 'XLIII 스페셜티 커피: 다낭 여행 가이드'
-description: XLIII 스페셜티 커피(XLIII Specialty Coffee)는 다낭 응우한선(Ngũ Hành Sơn) 지구에 위치한 넓고 디자인이 돋보이는 카페로, 마블 마운틴에서 가깝고 미케 비치에서도 잠깐이면 갈 수 있는 거리에 있다
+description: XLIII 스페셜티 커피(XLIII Specialty Coffee)는 다낭 응우한선(Ngũ Hành Sơn) 지구에 위치한 넓고 디자인이 돋보이는 카페로, 마블 마운틴에서 가깝고 미케 비치(My Khe Beach)에서도 잠깐이면 갈 수 있는 거리에 있다.
 quickAnswer: XLIII 스페셜티 커피(XLIII Specialty Coffee)는 다낭 응우한선(Ngũ Hành Sơn) 지구에 위치한 넓고 디자인이 돋보이는 카페로, 마블 마운틴에서 가깝고 미케 비치(My Khe Beach)에서도 잠깐이면 갈 수 있는 거리에 있다. 사람이 몰리기 전인 평일 아침에 방문해 사진 찍기 좋은 좌석을 차지하는 것이 좋고, 일반적인 베트남 카페보다는 조금 더 여유 있는 예산(가격대 3)을 잡아야 하며, 사진만 찍고 나오기보다는 공간을 제대로 즐기려면 최소 한 시간은 머물 계획을 세우는 것이 좋다.
 faq:
   - q: 다낭 시내에서 XLIII 스페셜티 커피까지 어떻게 가나요?

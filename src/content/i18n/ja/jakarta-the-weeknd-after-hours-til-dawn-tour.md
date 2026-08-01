@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: jakarta-the-weeknd-after-hours-til-dawn-tour
+srcHash: 0debf0c81ef9
 title: ザ・ウィークエンド「After Hours Til Dawn Tour」ジャカルタ公演：知っておきたいこと
 description: ザ・ウィークエンドの「After Hours Til Dawn Tour」インドネシア・ジャカルタ公演——2026年9月26日・27日開催。公演内容、日時と会場、そして計画の立て方を解説。
 quickAnswer: ザ・ウィークエンドが「AFTER HOURS TIL DAWN World Tour」をジャカルタ国際スタジアム（Jakarta International Stadium、JIS）に持ってきます。2026年9月26日から27日までの2夜公演で、これが東南アジア初上陸となります。計画を立てる際は両日をひとつのイベントとして捉え、北ジャカルタでの数泊滞在を前提にフライトとホテルを予約しましょう。正確な開場時間、セットリストの詳細、チケット区分についてはまだ公式に確定していないため、購入前に必ずザ・ウィークエンドの公式ツアーサイトかLive Nation Indonesiaで確認してください。

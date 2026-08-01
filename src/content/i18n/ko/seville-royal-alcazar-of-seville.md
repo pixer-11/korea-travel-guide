@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: seville-royal-alcazar-of-seville
+srcHash: 02f86f424f71
 title: 세비야 왕궁(Royal Alcázar of Seville) 여행 가이드
 description: 세비야 왕궁(Royal Alcázar of Seville)은 카스코 안티구오(Casco Antiguo)에 위치한 지금도 사용 중인 왕궁으로, 무데하르 양식의 궁전 방들과 타일 장식 파티오, 광활한 정원으로 유명합니다.
 quickAnswer: 세비야 왕궁(Royal Alcázar of Seville)은 카스코 안티구오(Casco Antiguo)에 위치한 지금도 사용 중인 왕궁으로, 무데하르 양식의 궁전 방들과 타일 장식 파티오, 광활한 정원으로 유명합니다 — 관람에는 2.5~3시간을 계획하고, 자주 매진되는 만큼 온라인으로 시간지정 입장권을 미리 예매하세요. 더위와 인파를 피하려면 개장 시간(보통 오전 9시 30분)에 맞춰 방문하고, 도보 2분 거리에 있는 세비야 대성당(Seville Cathedral)과 히랄다 탑(Giralda)을 함께 둘러보는 것을 추천합니다.

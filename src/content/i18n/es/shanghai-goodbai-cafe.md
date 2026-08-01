@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: shanghai-goodbai-cafe
+srcHash: 69b2ef55eb44
 title: Goodbai Cafe en Shanghái
 description: Goodbai Cafe es una cafetería-concept-store de diseño vanguardista en el distrito de Jing'an, Shanghái, inaugurada por el actor Bai Jing Ting, que se ha convertido en un fenómeno viral de Xiaohongshu (Little Red Book).
 quickAnswer: Goodbai Cafe es una cafetería-concept-store de diseño vanguardista en el distrito de Jing'an, Shanghái, inaugurada por el actor Bai Jing Ting, y se ha convertido en un éxito viral de Xiaohongshu (Little Red Book) por su llamativo interior y su emblemático Goodbai Latte. Hay que contar con colas, un espacio minimalista muy fotogénico y un enfoque de concept-store más que de simple café — ve un día de semana por la mañana si quieres una espera más corta, y confirma el horario actual y si se necesita reserva antes de acercarte.

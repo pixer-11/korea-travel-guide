@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: seoul-myeongdong-shopping-street
+srcHash: bb00bdeea5e2
 title: 'Calle comercial de Myeongdong: guía de viaje de Seúl'
 description: Myeongdong es el mayor distrito de compras callejeras y comida callejera de Seúl, concentrado en una cuadrícula compacta a pocos minutos de las estaciones de Euljiro o Myeongdong.
 quickAnswer: Myeongdong es el mayor distrito de compras callejeras y comida callejera de Seúl, concentrado en una cuadrícula compacta a pocos minutos de las estaciones de metro de Euljiro o Myeongdong. Ve un día entre semana por la tarde o justo cuando abren los puestos a primera hora de la noche para comprar cosméticos y probar tteokbokki, hotteok y brochetas antes de que el gentío alcance su punto máximo tras la cena. Reserva de 2 a 3 horas, más si quieres una comida completa sentado o una escapada a la Catedral de Myeongdong.

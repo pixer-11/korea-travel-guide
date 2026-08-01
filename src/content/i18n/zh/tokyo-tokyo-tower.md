@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: tokyo-tokyo-tower
+srcHash: e59a3895ede0
 title: 东京塔旅行指南
 description: 东京塔位于港区芝公园地区，最适合在晴朗的傍晚前往，从主观景台（150米）或票价更高的顶层观景台（250米）欣赏夕阳渐渐融入夜色中的天际线。
 quickAnswer: 东京塔位于港区（Minato City）芝公园（Shibakoen）地区，最适合在晴朗的傍晚前往，这样可以从主观景台（Main Deck，150米）或票价更高的顶层观景台（Top Deck，250米）欣赏夕阳渐渐融入夜色天际线的景致。建议预留60-90分钟，从赤羽桥站（Akabanebashi）或御成门站（Onarimon）步行10-15分钟即可到达，顶层观景台的门票建议提前在网上购买，以免排队。相比效率，这里更吸引人的是其仿埃菲尔铁塔的造型，以及相较于较新的东京晴空塔（Tokyo Skytree）所独有的复古、朴实魅力。

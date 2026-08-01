@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: seoul-restaurant-san
+srcHash: a76cc13b2456
 title: San餐厅：首尔美食推荐地
 description: Restaurant San 位于韩国首尔——一家新晋热门餐厅：这里介绍它是什么、位于何处，以及如何前往用餐。
 quickAnswer: Restaurant San 是一家位于首尔江南区（Gangnam）的现代韩式高级餐厅，由主厨 Jo Seung-Hyun 掌勺，2024年开业，并在“亚洲50最佳餐厅2026”（Asia's 50 Best Restaurants 2026）评选中获得“最值得关注新秀”（One To Watch）称号。这是一家需要提前预订的品鉴菜单（tasting-menu）餐厅——出行前请直接向餐厅确认具体营业时间、用餐时段和预订窗口。

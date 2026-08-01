@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: kyoto-kyoto-gion-matsuri-festival-gallery
+srcHash: f841f5dc45c2
 title: Galería del Festival Gion Matsuri de Kioto
-description: La Galería del Festival Gion Matsuri, ubicada en Gionmachi Minamigawa, en el distrito de Higashiyama, es una pequeña exposición permanente que permite a los visitantes ver
+description: La Galería del Festival Gion Matsuri, ubicada en Gionmachi Minamigawa, en el distrito de Higashiyama, es una pequeña exposición permanente que permite a los visitantes ver los ornamentados carrozas (floats), biombos y farolillos del Gion Matsuri fuera de las fechas del festival de julio.
 quickAnswer: La Galería del Festival Gion Matsuri, ubicada en Gionmachi Minamigawa, en el distrito de Higashiyama, es una pequeña exposición permanente que permite a los visitantes ver los ornamentados carrozas (floats), biombos y farolillos del Gion Matsuri fuera de las fechas del festival de julio. Tiene una calificación de 4.3 sobre 54 reseñas y funciona mejor como una parada adicional de 30 a 45 minutos dentro de una ruta a pie por Gion que incluya el Santuario Yasaka y la calle Hanamikoji. Se llega caminando desde la estación Gion-Shijo o Kyoto-Kawaramachi; normalmente no hace falta reserva previa para una galería tan pequeña, pero conviene confirmar el horario vigente antes de la visita.
 faq:
   - q: ¿Cómo se llega a la Galería del Festival Gion Matsuri?

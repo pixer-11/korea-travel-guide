@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: bohol-philippine-tarsier-sanctuary
+srcHash: a965d047a32d
 title: '필리핀 안경원숭이 보호구역(타르시어 생추어리): 보홀 여행 가이드'
 description: 타그빌라란 시티(Tagbilaran City)에서 약 20~25분 거리인 코레야(Corella)의 필리핀 안경원숭이 보호구역은 보홀에서 야생 안경원숭이를 우리가 아닌 보호림 속에서 가까이 볼 수 있는 가장 확실한 장소입니다.
 quickAnswer: 타그빌라란 시티(Tagbilaran City)에서 약 20~25분 거리인 코레야(Corella)의 필리핀 안경원숭이 보호구역(Philippine Tarsier Sanctuary)은 보홀에서 야생 안경원숭이를 우리에 갇힌 모습이 아니라 보호림 속에서 가까이 볼 수 있는 가장 확실한 곳입니다. 45분에서 1시간 정도 시간을 잡아두고, 동물들이 가장 덜 스트레스를 받고 숲이 가장 시원한 이른 아침에 방문하는 것이 좋습니다. 초콜릿 힐스(Chocolate Hills)와 로복 강(Loboc River) 코스가 같은 내륙 루트에 있으니 함께 묶어 다녀오기에도 좋습니다.

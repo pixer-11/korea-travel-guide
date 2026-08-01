@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: abu-dhabi-ufc-fight-night-ankalaev-vs-rountree-jr
+srcHash: 2c1a17566b2c
 title: 'UFC Fight Night: Ankalaev vs Rountree Jr: lo que hay que saber (Abu Dabi)'
-description: 'UFC Fight Night: Ankalaev vs Rountree Jr se celebrará el 25 de julio de 2026 en el Etihad Arena, en Yas Island, Abu Dabi, con un combate de peso semipesado como pelea estelar entre'
+description: 'UFC Fight Night: Ankalaev vs Rountree Jr se celebrará el 25 de julio de 2026 en el Etihad Arena, en Yas Island, Abu Dabi, con un combate de peso semipesado como pelea estelar entre Magomed Ankalaev y Khalil Rountree Jr.'
 quickAnswer: 'UFC Fight Night: Ankalaev vs Rountree Jr se celebrará el 25 de julio de 2026 en el Etihad Arena, en Yas Island, Abu Dabi, con un combate de peso semipesado como pelea estelar entre Magomed Ankalaev y Khalil Rountree Jr. Reserva ya vuelos y hoteles cerca de Yas Island, pero confirma los horarios exactos de la cartelera, los detalles de las peleas preliminares y las fechas de venta de entradas en los canales oficiales de UFC más cerca de la fecha, ya que pueden cambiar.'
 faq:
   - q: '¿Cuándo y dónde es el UFC Fight Night: Ankalaev vs Rountree Jr?'

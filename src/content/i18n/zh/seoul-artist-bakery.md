@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: seoul-artist-bakery
+srcHash: b00593e7cba5
 title: Artist Bakery：首尔旅行指南
 description: 首尔 Artist Bakery——一处新晋热门店铺：它是什么、在哪里，以及如何前往。
 quickAnswer: Artist Bakery 是一家位于钟路区（Jongno-gu）安国站（Anguk Station）附近的面包咖啡馆，由打造了大热的 London Bagel Museum 的团队开设，如今这里排起的队伍同样壮观——要么一开门就到，要么就得做好排队的心理准备。这里以盐面包和法棍三明治闻名，是一个人气极高、已被广泛报道的热门地点，而非什么小众秘境，所以出行计划要围绕人潮来安排，而不是想着避开人潮。由于这一带面包店的排队系统经常变动，出发前请务必确认最新营业时间，以及是否需要预约或使用排队App。

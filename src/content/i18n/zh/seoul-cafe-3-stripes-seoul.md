@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: seoul-cafe-3-stripes-seoul
+srcHash: b79ceef8b2c0
 title: CAFE 3 STRIPES SEOUL（阿迪达斯首尔三条纹咖啡馆）
 description: CAFE 3 STRIPES SEOUL 是阿迪达斯（Adidas）在首尔性水洞（Seongsu-dong）开设的品牌咖啡馆兼艺术空间，性水洞是首尔从工业区转型为潮流街区的地方，该店于2025年末以一场声势浩大的时装秀预展活动开业。
 quickAnswer: CAFE 3 STRIPES SEOUL 是阿迪达斯在首尔性水洞（Seongsu-dong，首尔从工业区转型为潮流街区的地方）开设的品牌咖啡馆兼艺术空间，于2025年末以一场声势浩大的时装秀预展活动正式开业。这里值得一去的是其设计感十足、适合拍照打卡的室内空间，以及与韩国创意团体 DORE CREATIVE CREW 合作打造的约50款健康导向菜单——建议将其作为一次45到60分钟的短暂停留，与性水洞其他旗舰店和咖啡馆一并游览。前往之前请确认最新营业时间以及是否需要预约，因为品牌快闪式空间常会随季节调整安排。

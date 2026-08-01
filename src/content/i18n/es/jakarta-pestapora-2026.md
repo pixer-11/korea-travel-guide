@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: jakarta-pestapora-2026
+srcHash: 3d5587a4ad81
 title: 'Pestapora 2026: Lo que hay que saber (Yakarta)'
 description: Pestapora 2026 se realiza del 25 al 27 de septiembre de 2026 en Yakarta, en lo que marca la quinta edición del festival.
 quickAnswer: Pestapora 2026 se realiza del 25 al 27 de septiembre de 2026 en Yakarta, en lo que marca la quinta edición del festival. Se trata de un festival de música indonesio de varios días y varios escenarios, organizado por Boss Creator, que atrae a grandes multitudes de todo Indonesia y de la región más amplia del sudeste asiático — conviene reservar vuelos, hoteles y entradas con bastante antelación. Confirma siempre el lugar exacto, los horarios de las presentaciones, el cartel y las categorías de entradas en los canales oficiales de Pestapora cerca de la fecha, ya que estos detalles suelen anunciarse por fases.

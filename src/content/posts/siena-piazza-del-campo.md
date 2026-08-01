@@ -1,6 +1,6 @@
 ---
 title: "Piazza del Campo: Siena Travel Guide"
-description: "Piazza del Campo is Siena's shell-shaped medieval square, ringed by the Palazzo Pubblico and the Torre del Mangia, and the stage for the Palio horse race"
+description: Piazza del Campo is Siena's shell-shaped medieval square, ringed by the Palazzo Pubblico and the Torre del Mangia, and the stage for the Palio horse race every July 2 and August 16.
 country: "Italy"
 region: "Siena"
 category: "hidden-gem"

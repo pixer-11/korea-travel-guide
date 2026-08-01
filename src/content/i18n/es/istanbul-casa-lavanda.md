@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: istanbul-casa-lavanda
+srcHash: 5a6ddbee0ab1
 title: 'Casa Lavanda: Guía de viaje de Estambul'
 description: 'Casa Lavanda en Estambul, Turquía — un lugar nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Casa Lavanda es un restaurante de la granja a la mesa en el pueblo de Ulupelit, en las colinas boscosas de Şile, en la costa del mar Negro de Estambul, a unos 90 minutos en coche del centro de la ciudad. El chef Emre Şen ostenta aquí tanto una Estrella Roja Michelin como una Estrella Verde por sostenibilidad, cocinando platos basados en un huerto que suministra alrededor del 80% de las verduras que se comen. Reserva con antelación, planifica una excursión de medio día fuera de la ciudad y confirma el horario directamente antes de salir, ya que se trata de un restaurante de destino con plazas limitadas.

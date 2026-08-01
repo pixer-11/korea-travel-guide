@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: siena-siena-cathedral
+srcHash: b6d07a745eb7
 title: 锡耶纳大教堂旅行指南
 description: 锡耶纳大教堂（Duomo di Siena）是意大利最杰出的哥特-罗马式大教堂之一，其黑白条纹大理石外墙与内部装饰在锡耶纳历史中心的Piazza del Duomo（主教座堂广场）随处可见。
 quickAnswer: 锡耶纳大教堂（Duomo di Siena）是意大利最杰出的哥特-罗马式大教堂之一，其黑白条纹大理石外墙与内部装饰在历史中心的Piazza del Duomo（主教座堂广场）便可望见。建议安排1.5-2小时游览，尽量在开门时或傍晚时段前往以避开旅行团，并提前在网上预订"Opa Si Pass"套票或单次门票，因为这里是托斯卡纳最热门的景点之一。

@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: tokyo-senso-ji
+srcHash: 4d574355a1ef
 title: 'Sensō-ji: Guía de viaje de Tokio'
 description: Sensō-ji, el templo más antiguo de Tokio (terminado en el año 645), se encuentra en Asakusa y se llega mejor a través de la estación de Asakusa (líneas de metro Ginza o Asakusa, salida 1).
 quickAnswer: Sensō-ji, el templo más antiguo de Tokio (terminado en el año 645), se encuentra en Asakusa y se llega mejor a través de la estación de Asakusa (líneas de metro Ginza o Asakusa, salida 1). Recorre la calle comercial Nakamise-dōri desde el Kaminarimon, la "Puerta del Trueno", hasta el salón principal, y calcula entre 1,5 y 2 horas para ver el recinto, la Pagoda de Cinco Pisos y el Santuario Asakusa, justo al lado. Ve temprano por la mañana (antes de las 9 h) o por la tarde-noche para evitar las mayores aglomeraciones; el recinto exterior y las puertas están iluminados y son accesibles en cualquier momento, de forma gratuita.

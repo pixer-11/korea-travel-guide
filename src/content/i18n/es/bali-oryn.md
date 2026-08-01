@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: bali-oryn
+srcHash: 2d3b1382e8c0
 title: 'ORYn: dónde comer en Bali'
 description: 'ORYn en Bali, Indonesia — un local nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: 'ORYn es un restaurante y bar recién inaugurado en Monkey Forest Road, en Ubud, construido en torno a una cocina a fuego abierto y liderado por Danial Fitri Yap, exchef de CÉ LA VI. Vale la pena ir por su cocina de humo y especias, como el ceviche de pez rey (kingfish) y las langostinos tigre al estilo mongol, y conviene reservar con antelación, ya que los horarios exactos y la política de reservas todavía se están definiendo: confirma ambos directamente antes de ir.'

@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: los-angeles-bad-roman
+srcHash: 4a3c904974cb
 title: ロサンゼルスの「Bad Roman(バッド・ローマン)」
 description: Bad Romanは、Quality Branded Hospitality(Don AngieやZou Zou'sを手がけたチーム)によるビバリーヒルズのマキシマリストなイタリアンレストランで、見て見られることを楽しむタイプの店です。
 quickAnswer: Bad Romanは、Quality Branded Hospitality(Don AngieやZou Zou'sを手がけたチーム)によるビバリーヒルズのマキシマリストなイタリアンレストランで、光り輝くネオンオレンジのヘビのモチーフと演劇的でオーバーザトップな内装により一目でそれとわかります。静かなディナーというよりは、賑やかな夜の外出向けに作られた店なので、事前予約をし、少しおしゃれをして、パスタと同じくらいスペクタクルへの期待感を持って訪れましょう。こうしたトレンドスポットはすぐに埋まってしまい、詳細も変わりやすいため、事前にオンラインで最新の営業時間を確認し、予約を済ませておくことをおすすめします。

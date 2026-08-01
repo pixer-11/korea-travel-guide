@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: bhubaneswar-udayagiri-and-khandagiri-caves
+srcHash: 6673ed2d3581
 title: 乌达耶吉利与坎达吉利石窟：布巴内斯瓦尔旅行指南
 description: 乌达耶吉利（Udayagiri）与坎达吉利（Khandagiri）是布巴内斯瓦尔西缘的一对石雕双子山，遍布公元前1世纪的耆那教僧侣石窟，山顶还矗立着一座仍在使用的18世纪耆那教寺庙。
 quickAnswer: 乌达耶吉利（Udayagiri）与坎达吉利（Khandagiri）是布巴内斯瓦尔西缘的一对石雕双子山，遍布公元前1世纪的耆那教僧侣石窟，山顶还矗立着一座仍在使用的18世纪耆那教寺庙。景区每天6:30am至7:30pm开放，工作日上午通常十分清静，但周末12pm至5pm之间会十分拥挤，建议选择清晨或傍晚时段前往。行程建议预留90分钟到两小时，重点游览乌达耶吉利上的拉尼窟（Rani Gumpha）和哈提窟（Hathi Gumpha），随后过马路前往人较少、山顶有寺庙的坎达吉利。

@@ -1,6 +1,6 @@
 ---
 title: 'Nazar Kebab: Where to Eat in Daegu'
-description: Nazar Kebab is a Turkish/Middle Eastern kebab counter in the Dongseong-ro shopping district of Jung-gu, Daegu — a reliable, affordable stop for döner
+description: Nazar Kebab is a Turkish/Middle Eastern kebab counter in the Dongseong-ro shopping district of Jung-gu, Daegu — a reliable, affordable stop for döner, İskender, and lahmacun-style flatbreads when you need a break from Korean food.
 country: South Korea
 region: Daegu
 category: restaurant

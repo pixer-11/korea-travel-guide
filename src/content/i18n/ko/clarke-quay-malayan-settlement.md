@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: clarke-quay-malayan-settlement
+srcHash: 6500fb4dcda4
 title: '말라얀 세틀먼트: 클락 키에서 무엇을 먹을까'
 description: '말라얀 세틀먼트(Malayan Settlement)는 클락 키(Clarke Quay) 블록 B(3 River Valley Rd, #1-03)에 자리한 페라나칸-웨스턴 퓨전 레스토랑으로, 클락 키 MRT역에서 도보로 몇 분 거리에 있다.'
 quickAnswer: '말라얀 세틀먼트(Malayan Settlement)는 클락 키(Clarke Quay) 블록 B(3 River Valley Rd, #1-03)에 자리한 페라나칸-웨스턴 퓨전 레스토랑으로, 클락 키 MRT역(NEW/NE Line, E번 출구)에서 도보로 몇 분 거리에 있다. 1,300건이 넘는 리뷰에서 평점 4.8을 기록하고 있으며, 렌당(rendang), 삼발(sambal), 굴라 멜라카(gula melaka) 같은 말레이-페라나칸 풍미를 스테이크, 파스타, 셰어링 플레이트로 재해석한 것으로 유명하다. 오래 기다리지 않고 자리를 잡으려면 평일 저녁 7시 이전에 방문하고, 금요일이나 토요일 저녁에 갈 계획이라면 미리 예약해두는 것이 좋다.'

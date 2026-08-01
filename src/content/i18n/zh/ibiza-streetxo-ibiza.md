@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: ibiza-streetxo-ibiza
+srcHash: 3baed76085ac
 title: StreetXO Ibiza
 description: StreetXO Ibiza 是名厨 Dabiz Muñoz 打造的高概念街头美食餐厅,坐落于 The Unexpected Ibiza Hotel 内,以中央吧台和开放式厨房为核心。
 quickAnswer: StreetXO Ibiza 是名厨 Dabiz Muñoz 打造的高概念街头美食餐厅,坐落于 The Unexpected Ibiza Hotel 内,以中央吧台和开放式厨房为核心。它是同一 StreetXO 品牌在伊比萨(Ibiza)的分店,而该品牌正是打造出 Muñoz 世界排名餐厅 DiverXO 的团队,因此这里呈现的是戏剧化、融合风格的街头美食,而非随性小吃。建议提前预订、按场合着装,并在出发前直接向酒店确认最新营业时间和预订政策,因为这是新开业的季节性餐厅,细节可能会有变动。

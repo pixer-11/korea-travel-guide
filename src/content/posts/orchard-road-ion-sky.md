@@ -1,6 +1,6 @@
 ---
 title: 'ION Sky: Orchard Road Travel Guide'
-description: ION Sky is the free-to-access (with mall spend or registration) observation deck on the 56th floor of ION Orchard mall, giving a 360-degree view over Orchard
+description: ION Sky is the free-to-access (with mall spend or registration) observation deck on the 56th floor of ION Orchard mall, giving a 360-degree view over Orchard Road, the Botanic Gardens, and the downtown skyline.
 country: Singapore
 region: Orchard Road
 category: attraction

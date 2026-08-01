@@ -1,6 +1,6 @@
 ---
 title: "Mole Antonelliana: Turin Travel Guide"
-description: The Mole Antonelliana is Turin's soaring 19th-century landmark on Via Montebello, home to the National Museum of Cinema and a glass lift that shoots you up
+description: The Mole Antonelliana is Turin's soaring 19th-century landmark on Via Montebello, home to the National Museum of Cinema and a glass lift that shoots you up to a panoramic terrace 85 metres above the city, with the full spire topping out at 121 metres.
 country: Italy
 region: Turin
 category: hidden-gem

@@ -1,6 +1,6 @@
 ---
 title: "Piazza Maggiore: Bologna Travel Guide"
-description: "Piazza Maggiore is Bologna's medieval heart, framed by the unfinished marble façade of the Basilica di San Petronio, the crenellated Palazzo d'Accursio and"
+description: Piazza Maggiore is Bologna's medieval heart, framed by the unfinished marble façade of the Basilica di San Petronio, the crenellated Palazzo d'Accursio and Palazzo dei Notai, and the neighboring Piazza del Nettuno with Giambologna's bronze Neptune fountain.
 country: "Italy"
 region: "Bologna"
 category: "attraction"

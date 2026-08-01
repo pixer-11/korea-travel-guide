@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: singapore-changi-village-hawker-centre
+srcHash: a14be84806af
 title: チャンギ・ビレッジ・ホーカーセンター:シンガポールで食べるべき場所
 description: シンガポール北東の外れ、2 Changi Village Rdにあるチャンギ・ビレッジ・ホーカーセンター(Changi Village Hawker Centre)は、ナシレマのお店、サテー、そしてバナナフリッターの揚げ物で知られています。
 quickAnswer: シンガポール北東の外れ、2 Changi Village Rdにあるチャンギ・ビレッジ・ホーカーセンター(Changi Village Hawker Centre)は、ナシレマのお店、サテー、バナナフリッターの揚げ物で知られ、天井扇風機が回る中、共同利用のフォーマイカ製テーブルで味わうのが定番です。人気のスポットで(評価4.3、レビュー数はおよそ14,000件)、混雑を避けるなら平日の正午前か午後2時以降がおすすめ。近くのチャンギ・ビーチ(Changi Beach)への散歩や、プラウ・ウビン(Pulau Ubin)へのフェリーと組み合わせるのも良いでしょう。

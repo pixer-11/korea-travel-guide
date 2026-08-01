@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: chiang-mai-hidden-village-chiang-mai
+srcHash: 541a0e4b5a2a
 title: 'Hidden Village: Guía de viaje de Chiang Mai'
-description: Hidden Village Chiang Mai es un café rústico de estilo selvático y jardín para fotos en San Phi Suea, en el extremo noreste de la ciudad de Chiang Mai, ideal para visitar en una
+description: Hidden Village Chiang Mai es un café rústico de estilo selvático y jardín para fotos en San Phi Suea, en el extremo noreste de la ciudad de Chiang Mai, que se disfruta mejor en la mañana de un día de semana o por la tarde para evitar las multitudes de los buses turísticos.
 quickAnswer: Hidden Village Chiang Mai es un café rústico de estilo selvático y jardín para fotos en San Phi Suea, en el extremo noreste de la ciudad de Chiang Mai, que se disfruta mejor en la mañana de un día de semana o por la tarde para evitar las multitudes de los buses turísticos. Calcula entre 1 y 1.5 horas, y llega en auto privado, con una app de taxi (Grab) o en scooter alquilado, ya que no está dentro de la red de songthaews; además, prepárate para pagar una pequeña tarifa de entrada o consumo en la puerta (confirma el monto actual al llegar). Es ideal para viajeros que buscan un paisaje rústico y peculiar de Tailandia y fotos fáciles para Instagram, más que un sitio histórico o cultural.
 faq:
   - q: ¿Cómo llego a Hidden Village Chiang Mai sin auto?

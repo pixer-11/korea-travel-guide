@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: madrid-el-campero-madrid
+srcHash: 825b27aad007
 title: 'El Campero Madrid en Madrid: Guía para el visitante'
 description: 'El Campero Madrid, en Madrid, España — un local nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: El Campero Madrid es la sede en la capital del célebre especialista en atún de Barbate, que abrirá a principios de 2026 con su emblemático atún rojo de almadraba y una terraza destacada. Al tratarse de una apertura totalmente nueva, conviene tomar cualquier detalle de menú o precios que se vea en internet como provisional y confirmar horarios y reservas directamente con el restaurante antes de la visita. Cabe esperar una gran demanda desde el primer día, dada la reputación del local original.

@@ -1,6 +1,6 @@
 ---
 title: 'Sheeva Cafe: Pattaya Travel Guide'
-description: Sheeva Cafe is a jungle-themed café-restaurant on Sukhumvit-Pattaya 75 (Soi 75) in Pattaya, known for its dense greenery, waterfalls, koi ponds, and
+description: Sheeva Cafe is a jungle-themed café-restaurant on Sukhumvit-Pattaya 75 (Soi 75) in Pattaya, known for its dense greenery, waterfalls, koi ponds, and photogenic tunnels of vines woven around dining nooks.
 country: Thailand
 region: Pattaya
 category: trendy

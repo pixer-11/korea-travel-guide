@@ -1,6 +1,6 @@
 ---
 title: "Dataran Lang: Langkawi Travel Guide"
-description: "Dataran Lang (Eagle Square) sits on the Kuah waterfront in Langkawi, a five-minute drive or 15-minute walk from the Kuah jetty where ferries from Penang and"
+description: Dataran Lang (Eagle Square) sits on the Kuah waterfront in Langkawi, a five-minute drive or 15-minute walk from the Kuah jetty where ferries from Penang and the mainland dock.
 country: "Malaysia"
 region: "Langkawi"
 category: "attraction"

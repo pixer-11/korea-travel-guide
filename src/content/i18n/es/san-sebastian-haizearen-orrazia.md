@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: san-sebastian-haizearen-orrazia
+srcHash: a09043a40473
 title: 'Haizearen Orrazia: Guía de viaje de San Sebastián'
 description: Haizearen Orrazia ("El Peine del Viento") se encuentra en el extremo occidental de la playa de Ondarreta, donde el paseo marítimo termina en las rocas bajo el Monte Igueldo.
 quickAnswer: 'Haizearen Orrazia ("El Peine del Viento") se encuentra en el extremo occidental de la playa de Ondarreta, donde el paseo marítimo termina en las rocas bajo el Monte Igueldo. Es gratuito, no tiene personal y está abierto todo el día y toda la noche, así que el verdadero truco está en el momento: ve al amanecer o justo antes de la puesta de sol en un día de semana para tener las garras de hierro y el oleaje casi para ti solo, ya que el mediodía y los fines de semana atraen a las multitudes más grandes. Calcula entre 20 y 30 minutos allí, más si caminas todo el recorrido de La Concha y Ondarreta para llegar hasta él.'

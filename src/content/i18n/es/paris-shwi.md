@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: paris-shwi
+srcHash: bc85219a5dfa
 title: Shwi en París
 description: Shwi es un mostrador libanés de pollo a la parrilla del equipo de Kubri, ubicado junto al Canal Saint-Martin, en el distrito 10 de París.
 quickAnswer: Shwi es un mostrador libanés de pollo a la parrilla del equipo de Kubri, ubicado junto al Canal Saint-Martin, en el distrito 10 de París. Abrió en la primavera de 2026 y rápidamente se ha convertido en uno de los favoritos para almorzar o llevar algo de comer junto al canal. Ve entre semana para una espera más corta, y confirma el horario actual antes de ir, ya que el local todavía es nuevo y los detalles pueden cambiar.

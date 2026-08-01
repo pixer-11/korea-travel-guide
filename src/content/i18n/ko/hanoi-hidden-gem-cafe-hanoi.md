@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: hanoi-hidden-gem-cafe-hanoi
+srcHash: 4f8afde29657
 title: '히든 젬 카페: 하노이 여행 가이드'
 description: 히든 젬 카페(Hidden Gem Cafe)는 하노이 구시가지(Old Quarter) 항맘(Hàng Mắm) 거리 1번지에 위치해 있으며, 호안끼엠 호수(Hoàn Kiếm Lake)에서 남동쪽으로 조금만 걸으면 닿는 롱비엔 다리(Long Biên Bridge) 진입로 근처에 있습니다.
 quickAnswer: 히든 젬 카페(Hidden Gem Cafe)는 하노이 구시가지(Old Quarter) 항맘(Hàng Mắm) 거리 1번지에 위치해 있으며, 호안끼엠 호수(Hoàn Kiếm Lake)에서 남동쪽으로 조금만 걸으면 닿는 롱비엔 다리(Long Biên Bridge) 진입로 근처에 있습니다. 여러 층으로 이어진 루프탑 좌석, 에그커피와 연꽃차, 그리고 구시가지 튜브하우스 지붕들이 내려다보이는 조용한 풍경을 즐기러 가볼 만합니다 — 45~90분 정도 여유를 두고, 오전 중반이나 일몰 직전에 방문하는 것이 가장 좋습니다. 인기가 많은 곳이라(4.8점, 리뷰 4,300개 이상) 주말 오후에는 좋은 루프탑 자리를 기다려야 할 수도 있습니다.

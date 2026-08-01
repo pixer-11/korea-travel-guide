@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: osaka-lilo-coffee-roasters
+srcHash: '1566590625e2'
 title: LiLo Coffee Roasters:大阪旅行ガイド
 description: LiLo Coffee Roastersは、中央区西心斎橋(Nishishinsaibashi)にある高評価の小さなスペシャルティコーヒーバーで、心斎橋(Shinsaibashi)または四ツ橋(Yotsubashi)から徒歩5〜8分ほどの場所にあります。
 quickAnswer: LiLo Coffee Roastersは、中央区西心斎橋(Nishishinsaibashi)にある高評価の小さなスペシャルティコーヒーバーで、心斎橋(Shinsaibashi)駅または四ツ橋(Yotsubashi)駅から徒歩5〜8分ほどの場所にあります。おすすめはシングルオリジンのハンドドリップか看板のラテで、予算は¥600〜900程度、滞在時間は20〜40分を見ておくとよいでしょう。コンパクトでカウンター・立ち飲みも歓迎する空間ながら、地元で根強い人気を誇り、2,400件以上のレビューで4.8の評価を獲得しています。

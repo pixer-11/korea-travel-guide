@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: tokyo-meiji-jingu
+srcHash: dbabbad7dd13
 title: 'Meiji Jingu: Guía de viaje de Tokio'
 description: Meiji Jingu es el santuario sintoísta más majestuoso de Tokio, escondido dentro de un bosque de 170 acres entre Harajuku y el parque Yoyogi.
 quickAnswer: Meiji Jingu es el santuario sintoísta más majestuoso de Tokio, escondido dentro de un bosque de 170 acres entre Harajuku y el parque Yoyogi. Entra por el imponente torii de madera que da a Omotesando o desde el lado de Takeshita/Omotesando de la estación de Harajuku, calcula entre 60 y 90 minutos para recorrer el camino de grava hasta el salón principal, y ve temprano por la mañana en un día de semana para evitar las multitudes que se acumulan hacia el mediodía.

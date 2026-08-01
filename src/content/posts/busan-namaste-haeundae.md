@@ -1,6 +1,6 @@
 ---
 title: 'Namaste Haeundae: Where to Eat in Busan'
-description: Namaste Haeundae is an Indian and Nepali restaurant tucked a few minutes' walk inland from Haeundae Beach, popular for tandoori dishes, curries, and fresh
+description: Namaste Haeundae is an Indian and Nepali restaurant tucked a few minutes' walk inland from Haeundae Beach, popular for tandoori dishes, curries, and fresh naan at moderate prices (4.8 rating from over 3,200 reviews).
 country: South Korea
 region: Busan
 category: restaurant

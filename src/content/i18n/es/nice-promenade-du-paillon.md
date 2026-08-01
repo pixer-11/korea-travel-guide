@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: nice-promenade-du-paillon
+srcHash: 457bfe3ac773
 title: 'Promenade du Paillon: Guía de viaje de Niza'
-description: La Promenade du Paillon es una franja verde de 12 hectáreas que atraviesa el corazón de Niza, uniendo la Place Masséna con el Museo de Arte Moderno y
+description: La Promenade du Paillon es una franja verde de 12 hectáreas que atraviesa el corazón de Niza, uniendo la Place Masséna con el Museo de Arte Moderno y Contemporáneo (MAMAC) y el Acrópolis de Niza (Nice Acropolis).
 quickAnswer: La Promenade du Paillon es una franja verde de 12 hectáreas que atraviesa el corazón de Niza, uniendo la Place Masséna con el Museo de Arte Moderno y Contemporáneo (MAMAC) y el Acrópolis de Niza (Nice Acropolis). Ve por la mañana o al atardecer para evitar la avalancha de después del colegio y de los fines de semana alrededor del espejo de agua y las zonas de juego, y calcula una hora para recorrerla de punta a punta, más si vas con niños. Es gratuita, está abierta siempre y combina de maravilla con un café en la Place Masséna o un paseo por el Casco Antiguo (Vieux Nice), a solo unos pasos.
 faq:
   - q: ¿Cómo se llega a la Promenade du Paillon?

@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: kyoto-kyoto-gion-matsuri-festival-gallery
+srcHash: f841f5dc45c2
 title: 교토 기온 마쓰리 축제 갤러리
 description: 히가시야마구 기온마치 미나미가와에 자리한 기온 마쓰리 축제 갤러리는 7월 축제 기간이 아니어도 방문객들이 기온 마쓰리를 만나볼 수 있는 작은 상설 전시관입니다.
 quickAnswer: 히가시야마구 기온마치 미나미가와(Gionmachi Minamigawa)에 자리한 기온 마쓰리 축제 갤러리는 7월 축제 기간이 아니어도 화려한 야마보코(가마) 수레와 병풍, 등롱 장식을 볼 수 있는 작은 상설 전시관입니다. 평점은 4.3점(리뷰 54개)이며, 야사카 신사(Yasaka Shrine)와 하나미코지 거리(Hanamikoji Street)를 포함한 기온 도보 코스에 30~45분 정도 곁들이는 일정으로 가장 잘 어울립니다. 기온시조역(Gion-Shijo) 또는 교토카와라마치역(Kyoto-Kawaramachi)에서 도보로 이동하며, 이런 소규모 갤러리는 보통 사전 예약이 필요 없지만 방문 전 현재 운영 시간을 확인하는 것이 좋습니다.

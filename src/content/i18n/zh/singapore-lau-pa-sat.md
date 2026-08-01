@@ -1,8 +1,9 @@
 ---
 lang: zh
 slug: singapore-lau-pa-sat
+srcHash: d3a91392b999
 title: 老巴刹：新加坡美食指南
-description: 老巴刹是位于中央商务区、地址为18 Raffles Quay的八角形铸铁维多利亚市场，从Raffles Place地铁站（G或H出口）或Downtown
+description: 老巴刹（Lau Pa Sat）是位于中央商务区18 Raffles Quay的八角形铸铁维多利亚市场，从Raffles Place地铁站（G或H出口）或Downtown地铁站（A出口）步行约五分钟即可抵达。
 quickAnswer: 老巴刹（Lau Pa Sat）是位于中央商务区18 Raffles Quay的八角形铸铁维多利亚市场，从Raffles Place地铁站（G或H出口）或Downtown地铁站（A出口）步行约五分钟即可抵达。建议工作日中午前去吃午餐，可以避开上班族人潮；或者晚上9点后前往，此时Boon Tat Street会封路，变成露天沙爹一条街。大多数摊位接受现金或PayNow/手机扫码支付，好好吃一顿建议预留45到75分钟。
 faq:
   - q: 如何乘坐地铁前往老巴刹？

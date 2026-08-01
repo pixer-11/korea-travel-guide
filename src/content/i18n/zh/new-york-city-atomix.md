@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: new-york-city-atomix
+srcHash: b69b503ba618
 title: Atomix：在纽约吃什么
 description: Atomix 位于美国纽约——一处正当红的热门餐厅：它是什么、在哪里，以及如何前往用餐。
 quickAnswer: Atomix 是由 Junghyun "JP" Park 和 Ellia Park 夫妇打造的米其林二星韩式套餐（tasting-menu）餐厅，坐落在毗邻韩国城（Koreatown）、靠近麦迪逊广场公园（Madison Square Park）的地段——目前位列“2026年北美50佳餐厅”第7名。这是一场耗时数小时、共12道菜的用餐体验，而非可以随到随吃的晚餐，因此请尽早预订（在预约系统允许的最早时间下单），并在规划行程前直接向餐厅确认最新的营业时间、用餐时段和价格。

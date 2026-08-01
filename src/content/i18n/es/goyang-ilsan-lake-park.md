@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: goyang-ilsan-lake-park
+srcHash: 7db911e81e43
 title: 'Parque del Lago Ilsan: Guía de viaje de Goyang'
 description: El Parque del Lago Ilsan (일산호수공원), en el distrito de Ilsandong-gu de Goyang, es el mayor parque con lago artificial de Corea, con una senda circular de 8,5 km, jardines, esculturas, un pequeño zoológico y una fuente musical junto al lago.
 quickAnswer: El Parque del Lago Ilsan (일산호수공원), en el distrito de Ilsandong-gu de Goyang, es el mayor parque con lago artificial de Corea, con una senda circular de 8,5 km, jardines, esculturas, un pequeño zoológico y una fuente musical junto al lago. Ve temprano por la mañana entre semana para evitar a los corredores y las multitudes de los festivales, y reserva medio día para rodear el lago, recorrer las exhibiciones florales y, después, acercarte a las calles comerciales cercanas de Lafesta o Western Dom.

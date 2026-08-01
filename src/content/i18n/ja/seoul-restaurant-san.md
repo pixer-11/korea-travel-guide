@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: seoul-restaurant-san
+srcHash: a76cc13b2456
 title: レストラン サン(Restaurant San):ソウルで今注目のグルメスポット
 description: 韓国・ソウルにあるレストラン サン(Restaurant San)——今話題の新進スポットについて、その概要、アクセス方法、訪れ方を解説します。
 quickAnswer: レストラン サン(Restaurant San)は、2024年にオープンしたソウル・江南(カンナム、Gangnam)にあるモダン韓国料理のファインダイニングで、シェフのジョ・スンヒョン(Jo Seung-Hyun)氏が率いています。「Asia's 50 Best Restaurants 2026」で「One To Watch」に選出された、テイスティングメニューを提供する人気店で、早めの予約が必須です。訪問を計画する前に、営業時間、席の時間帯、予約可能期間については必ずレストランに直接確認してください。

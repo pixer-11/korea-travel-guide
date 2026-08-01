@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: phuket-hug-street-food-kata-phuket
+srcHash: e9b764e7e27b
 title: 'Hug Street Food, Kata: dónde comer en Phuket'
 description: Hug Street Food es un pequeño puesto de comida callejera y local informal muy bien valorado en Kata (subdistrito de Karon), a pocos pasos de la calle principal de Kata Beach, en Thanon Kake Kwan.
 quickAnswer: Hug Street Food es un pequeño puesto de comida callejera y local informal muy bien valorado en Kata (subdistrito de Karon), a pocos pasos de la calle principal de Kata Beach, en Thanon Kake Kwan. Vale la pena ir por los clásicos tailandeses —pad thai, som tam, carnes a la parrilla, curris— cocinados al momento y a precios económicos, idealmente para una cena temprana antes de que llegue la multitud del atardecer a la calle de la playa. Con una calificación de 4.8 sobre más de 421 reseñas, conviene tratarlo como una parada rápida y satisfactoria más que como una cena de lujo, así que llega con hambre y prepárate para compartir mesa o sentarte en un taburete.

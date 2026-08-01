@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: shanghai-goodbai-cafe
+srcHash: 69b2ef55eb44
 title: 上海 Goodbai Cafe
 description: Goodbai Cafe 是位于上海静安区的一家设计感十足的咖啡概念店，由演员白敬亭开设，如今已成为小红书上的热门打卡地。
 quickAnswer: Goodbai Cafe 是位于上海静安区的一家设计感十足的咖啡概念店，由演员白敬亭开设，凭借其独特的室内设计和招牌的 Goodbai 拿铁，在小红书（Little Red Book）上爆红出圈。这里通常需要排队，空间极具minimalist风格、非常适合拍照，主打的是概念店式的周边体验，而不仅仅是咖啡本身——如果想少排点队，建议工作日上午前往，出发前请务必确认最新营业时间以及是否需要预约。

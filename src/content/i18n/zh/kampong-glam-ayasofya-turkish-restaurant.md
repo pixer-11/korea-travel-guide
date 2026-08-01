@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: kampong-glam-ayasofya-turkish-restaurant
+srcHash: bc8141b35c9a
 title: Ayasofya土耳其餐厅：甘榜格南（Kampong Glam）美食推荐
 description: Ayasofya是一家土耳其餐厅，位于甘榜格南通往苏丹回教堂（Masjid Sultan）的步行街Bussorah St 51号。
 quickAnswer: Ayasofya是一家土耳其餐厅，位于甘榜格南通往苏丹回教堂（Masjid Sultan）的步行遗产街道Bussorah St 51号。这里更适合坐下来慢慢享用一顿烤肉大餐（烤肉串、Adana烤肉、土耳其披饼pide），而不是快速解决一餐；凭借4.8分、超过4,500条评价的好口碑，这里人气一直很旺——建议一开门就去，或者下午茶时段前来以避开排队。消费属于中等水平（价格等级2），用餐时间建议预留45-75分钟才能吃得尽兴。

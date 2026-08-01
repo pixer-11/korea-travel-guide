@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: phu-quoc-grand-world-phu-quoc
+srcHash: 7020aca9a26e
 title: '그랜드 월드(Grand World): 푸꾸옥 여행 가이드'
 description: 그랜드 월드 푸꾸옥(Grand World Phu Quoc)은 바이다이(Bãi Dài, 롱비치 북쪽 해안)에 위치한 무료 입장 엔터테인먼트 겸 쇼핑 단지로, 늦은 오후부터 밤까지가 방문하기 가장 좋은 시간대입니다.
 quickAnswer: 그랜드 월드 푸꾸옥(Grand World Phu Quoc)은 바이다이(Bãi Dài, 롱비치 북쪽 해안)에 위치한 무료 입장 엔터테인먼트 겸 쇼핑 단지로, "베니스" 운하와 조명 쇼, 테디베어 박물관이 살아나는 늦은 오후부터 밤까지가 방문하기 가장 좋은 시간대입니다. 반나절에서 저녁 시간 전체를 할애할 것을 계획하고, 음식과 유료 공연(인형극이나 불쇼 등) 관람을 위해 현금이나 카드를 챙기세요. 인근의 빈펄 사파리(Vinpearl Safari)나 코로나 카지노(Corona Casino)도 모두 같은 푸꾸옥 유나이티드 센터(Phu Quoc United Center) 구역 안에 있으니 함께 묶어서 둘러보기 좋습니다.

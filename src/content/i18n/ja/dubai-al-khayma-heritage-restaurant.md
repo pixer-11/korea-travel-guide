@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: dubai-al-khayma-heritage-restaurant
+srcHash: f20ac71750d7
 title: アル・カイマ・ヘリテージ・レストラン:ドバイで食事するなら
 description: アル・カイマ・ヘリテージ・レストラン(Al Khayma Heritage Restaurant)は、アル・スーク・アル・カビール(Al Souq Al Kabeer)近くのアル・ファヒディ歴史地区(Al Fahidi Historical Neighbourhood)にあり、マチュブース、ハリース、そして...
 quickAnswer: アル・カイマ・ヘリテージ・レストラン(Al Khayma Heritage Restaurant)は、アル・スーク・アル・カビール(Al Souq Al Kabeer)近くのアル・ファヒディ歴史地区(Al Fahidi Historical Neighbourhood)にあり、ベドウィンのテントを模した中庭で、マチュブース、ハリース、ルカイマットといったエミラティ(アラブ首長国連邦)の定番料理を提供しています。非常に人気が高く評価も高いお店で(評価4.9、レビュー数約18,000件)、価格帯は中程度なので、早めに行くか事前予約をおすすめします。特にディナーの時間帯は混み合います。滞在目安は60~90分。近くのアル・ファヒディの路地散策や、ドバイ博物館(アル・ファヒディ砦)との組み合わせもおすすめです。

@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: daegu-nazar-kebab
+srcHash: b0a0dc766a88
 title: 'Nazar Kebab: dónde comer en Daegu'
 description: Nazar Kebab es un local turco/de Oriente Medio especializado en kebab, ubicado en la zona comercial de Dongseong-ro, en Jung-gu, Daegu, una parada fiable y económica para comer döner.
 quickAnswer: Nazar Kebab es un local turco/de Oriente Medio especializado en kebab, ubicado en la zona comercial de Dongseong-ro, en Jung-gu, Daegu, una parada fiable y económica para comer döner, İskender y panes planos estilo lahmacun cuando necesitas un descanso de la comida coreana. Tiene una calificación de 4.4 sobre 469 reseñas en Google, precios moderados (nivel de precio 2), y es más recomendable como almuerzo rápido o comida nocturna que como un destino para cenar con calma.

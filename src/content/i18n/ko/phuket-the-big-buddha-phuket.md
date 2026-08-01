@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: phuket-the-big-buddha-phuket
+srcHash: 0ec568421ad0
 title: '빅 부처(왓 프라 야이): 푸켓 여행 가이드'
 description: 빅 부처(프라 푸타밍몽콘 아케나끼리, Phra Puttamingmongkol Akenakkiri)는 찰롱(Chalong)과 까따(Kata) 사이 낙케드 언덕(Nakkerd Hill) 위에 자리하고 있으며, 파통(Patong)이나 푸켓 타운(Phuket Town)에서 차로 약 30-45분 거리에 있습니다.
 quickAnswer: 빅 부처(프라 푸타밍몽콘 아케나끼리, Phra Puttamingmongkol Akenakkiri)는 찰롱(Chalong)과 까따(Kata) 사이 낙케드 언덕(Nakkerd Hill) 위에 자리하고 있으며, 파통(Patong)이나 푸켓 타운(Phuket Town)에서 차로 약 30-45분 거리에 있습니다. 입장은 무료이며(소정의 기부를 요청), 매일 오전 6시부터 오후 7시경까지 운영됩니다. 오르막 길과 사진 촬영, 360도 전망 감상을 위해 1-1.5시간 정도 시간을 잡아두는 것이 좋습니다. 최적의 빛과 선선한 기온을 위해서는 이른 아침이나 일몰 직전에 방문하세요.

@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: miami-vizcaya-museum-gardens
+srcHash: f2b9a28f8532
 title: '비스카야 박물관 앤 가든: 마이애미 여행 가이드'
 description: 마이애미의 코코넛 그로브(Coconut Grove) 인근 해안가, 3251 S Miami Ave에 위치한 비스카야 박물관 앤 가든(Vizcaya Museum & Gardens)은 산업가 제임스 디어링을 위해 지어진 1914년경 golded 시대풍 저택입니다.
 quickAnswer: 마이애미의 코코넛 그로브(Coconut Grove) 인근 해안가, 3251 S Miami Ave에 위치한 비스카야 박물관 앤 가든(Vizcaya Museum & Gardens)은 산업가 제임스 디어링(James Deering)을 위해 지어진 1914년경 골든 에이지(Gilded Age) 양식의 저택으로, 이탈리아 르네상스 양식의 정원과 산호석 그로토(동굴)로 둘러싸여 있습니다. 관람에는 2~3시간 정도 잡으면 되고, 더위와 인파를 피하려면 평일 오전에 방문하는 것이 좋습니다. 메트로레일(Metrorail) 비스카야역(Vizcaya Station)에서 도보로 5~10분 거리에 있어 접근이 쉽습니다. 16,000명 이상의 방문객으로부터 4.7점의 평점을 받았으니, 시간대별 입장권을 미리 온라인으로 예약해두는 것을 추천합니다.

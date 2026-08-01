@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: turin-mole-antonelliana
+srcHash: ee8329c62be3
 title: Mole Antonelliana:都灵旅行指南
 description: Mole Antonelliana(安托内利尖塔)是都灵坐落于蒙特贝洛街(Via Montebello)上高耸入云的19世纪地标建筑,馆内设有国家电影博物馆,还有一部可将游客直送至观景台的玻璃电梯。
 quickAnswer: Mole Antonelliana(安托内利尖塔)是都灵坐落于蒙特贝洛街(Via Montebello)上高耸入云的19世纪地标建筑,馆内设有国家电影博物馆,还有一部玻璃电梯可将游客送至距地面85米高的全景观景台,整座尖塔的最高点则达121米。这里非常受欢迎,建议选在工作日的上午9点到晚上7点之间前往,或者周末一开门(上午9点)就到,以避开最拥挤的时段——周末上午11点到晚上7点是人流最密集的时间段。建议预留半天时间:乘电梯观景大约需要45分钟,如果在楼下的电影博物馆多逗留,时间会更长。

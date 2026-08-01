@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: beijing-forbidden-city
+srcHash: 5d2e9055e91b
 title: 'Ciudad Prohibida: Guía de viaje de Pekín'
-description: Entra por la Puerta del Mediodía (Wu Men) en el lado sur, frente a la plaza de Tiananmén, y sal por el norte a través de la Puerta de la Proeza Divina (Shenwu Men) hacia el parque Jingshan — recorrer el eje completo
+description: Entra por la Puerta del Mediodía (Wu Men) en el lado sur, frente a la plaza de Tiananmén, y sal por el norte a través de la Puerta de la Proeza Divina (Shenwu Men) hacia el parque Jingshan — recorrer todo el eje norte-sur toma entre 2.5 y 3 horas.
 quickAnswer: Entra por la Puerta del Mediodía (Wu Men) en el lado sur, frente a la plaza de Tiananmén, y sal por el norte a través de la Puerta de la Proeza Divina (Shenwu Men) hacia el parque Jingshan — recorrer todo el eje norte-sur toma entre 2.5 y 3 horas. Reserva las entradas con horario en línea con antelación (la Ciudad Prohibida limita el número de visitantes diarios y a menudo se agota), y procura ir un día laborable a primera hora de la apertura para evitar las multitudes que aumentan constantemente después de las 10 de la mañana.
 faq:
   - q: ¿Cómo consigo entradas para la Ciudad Prohibida?

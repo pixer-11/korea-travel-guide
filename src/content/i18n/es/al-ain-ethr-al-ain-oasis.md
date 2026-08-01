@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: al-ain-ethr-al-ain-oasis
+srcHash: 47365dca7b58
 title: 'Ethr en el Oasis de Al Ain: Guía de Viaje'
 description: Ethr es una cafetería moderna ubicada dentro del Oasis de Al Ain (Al Ain Oasis), declarado Patrimonio de la Humanidad por la UNESCO, en el Distrito Central, cerca de los senderos peatonales sombreados por palmeras del oasis.
 quickAnswer: Ethr es una cafetería moderna ubicada dentro del Oasis de Al Ain (Al Ain Oasis), declarado Patrimonio de la Humanidad por la UNESCO, en el Distrito Central, cerca de los senderos peatonales sombreados por palmeras del oasis. Ve en las horas más frescas de la mañana (antes de las 10am) para combinar un café de especialidad con un paseo tranquilo por los palmerales irrigados por el sistema falaj, y calcula entre 45 y 90 minutos para el café más una caminata corta. Con una calificación de 4.6 sobre más de 1,200 reseñas, se ha ganado su reputación como una parada genuina y no como un hallazgo oculto, pero aun así se siente tranquilo si eliges bien el horario.

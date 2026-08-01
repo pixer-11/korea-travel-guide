@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: bandung-wheels-coffee-roasters-heritage-lifestyle-hub-riau
+srcHash: 1a79fe1d7fb8
 title: 'Wheels Coffee Roasters - 헤리티지 라이프스타일 허브 (리아우): 반둥 여행 가이드'
 description: Wheels Coffee Roasters의 헤리티지 라이프스타일 허브는 Jl. Riau(공식 명칭 Jl. L.L.R.E. Martadinata No. 65)에 위치해 있습니다.
 quickAnswer: Wheels Coffee Roasters의 헤리티지 라이프스타일 허브는 반둥 웨탄(Bandung Wetan)의 Jl. Riau(공식 명칭 Jl. L.L.R.E. Martadinata No. 65)에 있으며, 복원된 네덜란드 식민지 시대 건물 안에 자리하고 있습니다 — 반둥에서 가장 많은 리뷰를 받은 커피 명소 중 하나입니다(평점 4.9, 리뷰 18,000개 이상). 실제로 자리를 잡으려면 평일 오전에 방문하고, 카운터에서 주문하며, 주말의 인파를 피해 커피와 음식, 헤리티지 건축을 여유롭게 즐기려면 1~1.5시간 정도를 계획하세요.

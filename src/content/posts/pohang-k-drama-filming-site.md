@@ -1,6 +1,6 @@
 ---
 title: K-Drama Filming Site in Pohang
-description: Pohang's best-known K-drama filming draw is Guryongpo, the retro Japanese-era fishing town on the Homigot peninsula whose old wooden storefronts and narrow
+description: Pohang's best-known K-drama filming draw is Guryongpo, the retro Japanese-era fishing town on the Homigot peninsula whose old wooden storefronts and narrow lanes stood in for a 1980s-90s port town in the hit series "When the Camellia Blooms."
 region: Pohang
 category: trendy
 pubDate: 2026-07-20T00:00:00.000Z

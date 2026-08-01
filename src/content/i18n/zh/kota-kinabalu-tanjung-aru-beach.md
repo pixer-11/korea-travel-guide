@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: kota-kinabalu-tanjung-aru-beach
+srcHash: 0f3b2d2c3cd9
 title: 丹绒亚路海滩：亚庇旅游指南
 description: 丹绒亚路海滩（Tanjung Aru Beach）是亚庇经典的观日落胜地：一片长长的弧形沙滩，从市中心打车或叫Grab车即可轻松抵达，背后是成排的木麻黄树。
 quickAnswer: 丹绒亚路海滩是亚庇经典的观日落胜地：一片长长的弧形沙滩，从市中心打车或叫Grab车即可轻松抵达，背后是成排的木麻黄树、各式小吃摊，以及香格里拉（Shangri-La）和丹绒亚路度假村（Tanjung Aru Resort）两处酒店物业。建议傍晚时分前往，在下午6点前在"第一海滩"（First Beach）占好位置，静待天空在南中国海上空染成一片橙红。这里游人不少，如果想要更清静一些，最好早点到，或者选在工作日前往。

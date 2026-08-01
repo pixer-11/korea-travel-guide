@@ -1,6 +1,6 @@
 ---
 title: Oxomoco in Tokyo
-description: Oxomoco, the Brooklyn-born, Michelin-starred modern Mexican restaurant, has relocated to Roppongi Hills, Tokyo, bringing its wood-fired cooking, artisanal
+description: Oxomoco, the Brooklyn-born, Michelin-starred modern Mexican restaurant, has relocated to Roppongi Hills, Tokyo, bringing its wood-fired cooking, artisanal tacos, and agave-forward cocktail list to the city's most polished dining and entertainment complex.
 country: Japan
 region: Tokyo
 category: trendy

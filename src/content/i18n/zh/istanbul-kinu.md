@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: istanbul-kinu
+srcHash: 4b2b5f55c96d
 title: 伊斯坦布尔 kinu 探店指南
 description: 土耳其伊斯坦布尔的新晋热门去处 kinu——它是什么、位于何处，以及如何前往参观。
 quickAnswer: kinu 是位于伊斯坦布尔贝伊奥卢（Beyoğlu）的一家极简主义抹茶吧，由本地艺术与生活方式平台 Illusory Superiority 于 2026 年开设，如今已迅速成为抹茶爱好者心中城市里最热门的去处之一。建议选在工作日的上午或早下午前往，以避开高峰人流，并在出发前确认最新营业时间以及是否需要预约，因为新开业店铺的相关信息变动很快。

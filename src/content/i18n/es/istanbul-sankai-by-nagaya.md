@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: istanbul-sankai-by-nagaya
+srcHash: ee7c1d1d1186
 title: 'Sankai by Nagaya: Guía de viaje de Estambul'
 description: 'Sankai by Nagaya en Estambul, Turquía — un lugar nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: 'Sankai by Nagaya es una barra omakase japonesa ubicada dentro del Bebek Hotel by The Stay, en el barrio de Bebek, sobre el Bósforo en Estambul, a cargo del chef con estrella Michelin Yoshizumi Nagaya. Es una experiencia gastronómica pequeña y de gran precisión, no un lugar para entrar sin reserva: reserva con antelación y confirma directamente con el hotel los horarios y turnos vigentes, ya que los detalles pueden cambiar mientras el concepto se consolida.'

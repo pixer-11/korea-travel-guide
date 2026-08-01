@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: singapore-milli
+srcHash: 95b9ea05b6fa
 title: '밀리(Milli): 싱가포르 여행 가이드'
 description: 싱가포르(Singapore)의 새롭게 떠오르는 명소, 밀리(Milli) — 무엇을 하는 곳이고, 어디에 있으며, 어떻게 방문하는지 안내합니다.
 quickAnswer: 밀리(Milli)는 시빅 디스트릭트(Civic District)에 위치한 내셔널 갤러리 싱가포르(National Gallery Singapore) 위에 자리한 2층짜리 루프탑 레스토랑 겸 바, 라운지로, 파당(Padang)과 마리나 베이(Marina Bay), 그리고 식민지 시대의 스카이라인까지 탁 트인 전망을 자랑합니다. 2026년 5월 말에 문을 열었으며 이미 도시에서 가장 인기 있는 예약처 중 하나로 떠오르고 있으니, 미리 예약하고 방문 전에 최신 영업시간을 확인하는 것이 좋습니다. 다소 차려입은 손님들, 칵테일 중심의 메뉴, 그리고 스카이라인이 가장 아름답게 보이는 골든아워 방문을 기대해도 좋습니다.

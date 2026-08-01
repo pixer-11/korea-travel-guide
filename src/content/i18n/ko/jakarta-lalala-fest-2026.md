@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: jakarta-lalala-fest-2026
+srcHash: a590165e4faa
 title: 'LALALA 페스트 2026: 알아야 할 모든 것 (자카르타)'
 description: 2026년 8월 22일-23일, 인도네시아 자카르타에서 열리는 LALALA 페스트 2026 — 어떤 행사인지, 언제 어디서 열리는지, 그리고 어떻게 일정을 짜면 좋을지 안내합니다.
 quickAnswer: LALALA 페스트 2026은 8월 22일부터 23일까지 북자카르타(North Jakarta) 케마요란(Kemayoran)에 위치한 자카르타 국제 엑스포(Jakarta International Expo, JIExpo)에서 열리며, Steve Lacy, Two Door Cinema Club, Kodaline, The Flaming Lips가 헤드라이너로 나서고 그 외 30여 팀이 함께합니다. 티켓은 공식 발매 이후 페스티벌의 공식 채널을 통해서만 구매하시고, 여기 안내된 날짜, 공연장 홀, 공연 시간은 어디까지나 참고용으로 삼아 항공권이나 숙소를 예약하기 전 반드시 공식 사이트에서 최종 확인하시기 바랍니다.

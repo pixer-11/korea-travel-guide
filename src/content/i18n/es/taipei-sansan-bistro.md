@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: taipei-sansan-bistro
+srcHash: 91d8aaa56f9e
 title: Sansan Bistro en Taipéi
 description: Sansan Bistro es un restaurante y coctelería neosichuanés en Taipéi que entró en la Guía Michelin Taiwán en enero de 2026, conocido por un sorprendente comedor en tonos burdeos con madera y metal.
 quickAnswer: Sansan Bistro es un restaurante y coctelería neosichuanés en Taipéi que entró en la Guía Michelin Taiwán en enero de 2026, conocido por un sorprendente comedor en tonos burdeos con madera y metal, y por sus ingeniosos maridajes de cócteles. Es un local donde conviene reservar y vestir un poco arreglado, y lo ideal es visitarlo para cenar entre semana si quieres tener alguna posibilidad de conseguir mesa sin una larga espera. Reserva con antelación, confirma el horario actual directamente con el restaurante y prepárate para vivir tanto una experiencia como una comida.

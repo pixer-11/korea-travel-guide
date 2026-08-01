@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: phuket-phi-phi-islands
+srcHash: f887ce76ae29
 title: ピピ諸島:プーケット旅行ガイド
 description: ピピ諸島(Phi Phi Islands)はプーケットから日帰りまたは宿泊を伴うボート旅行で訪れることができ、ラサダ桟橋(Rassada Pier)またはチャロン桟橋(Chalong Pier)からスピードボートで片道約1〜1.5時間が最適です。
 quickAnswer: ピピ諸島は、プーケットから日帰りまたは宿泊を伴うボート旅行で訪れることができ、ラサダ桟橋(Rassada Pier)またはチャロン桟橋(Chalong Pier)からスピードボートで片道約1〜1.5時間かかるのが最適なアクセス方法です。マヤ・ベイ(Maya Bay)、ピピ・レイ島(Phi Phi Leh)の石灰岩の断崖、ピレー・ラグーン(Pileh Lagoon)でのシュノーケリングがおすすめ。宿泊しない場合は丸一日を予定しておきましょう。特にハイシーズン(11月〜4月)は、ツアーやフェリーを1〜2日前に予約しておくのがおすすめです。

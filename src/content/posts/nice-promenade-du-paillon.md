@@ -1,6 +1,6 @@
 ---
 title: "Promenade du Paillon: Nice Travel Guide"
-description: "The Promenade du Paillon is a 12-hectare ribbon of parkland that cuts through the heart of Nice, linking Place Masséna to the Museum of Modern and"
+description: The Promenade du Paillon is a 12-hectare ribbon of parkland that cuts through the heart of Nice, linking Place Masséna to the Museum of Modern and Contemporary Art (MAMAC) and the Nice Acropolis.
 country: "France"
 region: "Nice"
 category: "attraction"

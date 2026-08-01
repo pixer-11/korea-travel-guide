@@ -1,6 +1,6 @@
 ---
 title: 'Atomic Bomb Dome: Hiroshima Travel Guide'
-description: The Atomic Bomb Dome sits on the bank of the Motoyasu River in Naka Ward, a two-minute walk from Peace Memorial Park — go early morning or just before sunset
+description: The Atomic Bomb Dome sits on the bank of the Motoyasu River in Naka Ward, a two-minute walk from Peace Memorial Park — go early morning or just before sunset for the smallest crowds and best light.
 country: Japan
 region: Hiroshima
 category: hidden-gem

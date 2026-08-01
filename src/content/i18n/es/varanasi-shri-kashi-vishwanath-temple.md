@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: varanasi-shri-kashi-vishwanath-temple
+srcHash: a67c566e8d8d
 title: 'Templo Shri Kashi Vishwanath: Guía de viaje de Varanasi'
-description: 'Ve temprano: el templo abre alrededor de las 3am para el Mangala Aarti y se mantiene más concurrido desde media mañana hasta la noche, así que la franja más tranquila para el darshan es justo'
+description: 'Ve temprano: el templo abre alrededor de las 3am para el Mangala Aarti y se mantiene más concurrido desde media mañana hasta la noche, así que la franja más tranquila para el darshan es justo al abrir o en la calma de primera hora de la tarde, antes de que se acumule la multitud del aarti vespertino.'
 quickAnswer: 'Ve temprano: el templo abre alrededor de las 3am para el Mangala Aarti y se mantiene más concurrido desde media mañana hasta la noche, así que la franja más tranquila para el darshan es justo al abrir o en la calma de primera hora de la tarde, antes de que se acumule la multitud del aarti vespertino. Espera un control de seguridad tipo aeropuerto, no se permiten teléfonos ni bolsos dentro, y un sistema de colas que puede llevar entre 30 minutos y un par de horas según el día. Este es el santuario más venerado de Shiva en la India, a poca distancia a pie del Ganges en Lalita Ghat, así que combina tu visita con un paseo por el río.'
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el templo Kashi Vishwanath?

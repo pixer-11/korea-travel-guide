@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: hanoi-hidden-gem-cafe-hanoi
+srcHash: 4f8afde29657
 title: 'Hidden Gem Cafe: Guía de viaje de Hanói'
 description: Hidden Gem Cafe se encuentra en 1 Hàng Mắm, en el Barrio Antiguo (Old Quarter) de Hanói, a poca distancia al sureste del lago Hoàn Kiếm, cerca del acceso al puente Long Biên.
 quickAnswer: Hidden Gem Cafe se encuentra en 1 Hàng Mắm, en el Barrio Antiguo de Hanói, a poca distancia al sureste del lago Hoàn Kiếm, cerca del acceso al puente Long Biên. Vale la pena ir por sus terrazas escalonadas en la azotea, el café de huevo y el té de loto, y las vistas sobre un rincón tranquilo de los tejados de las casas tubo del Barrio Antiguo; conviene reservar entre 45 y 90 minutos, idealmente a media mañana o justo antes del atardecer. Es un lugar popular (4.8 estrellas, más de 4,300 reseñas), así que las tardes de fin de semana puede haber espera para conseguir las mejores mesas en la azotea.

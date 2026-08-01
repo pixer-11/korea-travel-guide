@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: chiang-rai-khao-soi-restaurant
+srcHash: 18d29aeb5cef
 title: 'Khao Soi Restaurant: dónde comer en Chiang Rai'
-description: Khao Soi Restaurant, en la calle Prasopsook, es un local sencillo y económico en el centro de Chiang Rai que sirve la famosa sopa de fideos con curry de la región
+description: Khao Soi Restaurant, en la calle Prasopsook, es un local sencillo y económico en el centro de Chiang Rai que sirve el plato estrella de la región, el khao soi (sopa de fideos de huevo con curry), además de otros clásicos del norte de Tailandia.
 quickAnswer: Khao Soi Restaurant, en la calle Prasopsook, es un local sencillo y económico en el centro de Chiang Rai que sirve el plato estrella de la región, el khao soi (sopa de fideos de huevo con curry), además de otros clásicos del norte de Tailandia. Con una calificación de 4.7 basada en más de 800 reseñas y precios en el rango más bajo, es una parada de almuerzo fácil y sin riesgo mientras se explora la Ciudad Vieja (Old City); calcula entre 30 y 45 minutos y ve temprano, ya que los platos populares del norte de Tailandia suelen agotarse a media tarde.
 faq:
   - q: ¿Cómo llego a Khao Soi Restaurant sin auto?

@@ -1,6 +1,6 @@
 ---
 title: Haeundae in Busan
-description: Haeundae Beach sits at the end of Busan Metro Line 2 (Haeundae Station, Exit 3 or 5, then a 10–15 minute walk down Guemgangno or Haeundaehaebyeon-ro), with
+description: Haeundae Beach sits at the end of Busan Metro Line 2 (Haeundae Station, Exit 3 or 5, then a 10–15 minute walk down Guemgangno or Haeundaehaebyeon-ro), with the 1.5 km sand strip, the Dongbaek Island coastal walk, and the Sea Life Busan Aquarium all within a 20-minute walk of each other.
 region: Busan
 country: "South Korea"
 category: attraction

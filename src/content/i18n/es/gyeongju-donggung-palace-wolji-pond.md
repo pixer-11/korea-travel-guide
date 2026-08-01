@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: gyeongju-donggung-palace-wolji-pond
+srcHash: cbecb557d1e5
 title: 'Palacio Donggung y estanque Wolji: guía de viaje de Gyeongju'
 description: 'El Palacio Donggung y el estanque Wolji son el mejor plan nocturno de Gyeongju: un complejo palaciego de la era Silla (circa 674 d. C.) construido alrededor de un estanque artificial con tres islotes.'
 quickAnswer: 'El Palacio Donggung y el estanque Wolji son el mejor plan nocturno de Gyeongju: un complejo palaciego de la era Silla (circa 674 d. C.) construido alrededor de un estanque artificial con tres islotes, que se disfruta mejor al atardecer, cuando los pabellones reconstruidos y sus reflejos iluminan la superficie del agua. Calcula entre 45 y 90 minutos, ve después de la puesta de sol para las fotos con reflejos, y combínalo con un paseo por la cercana ruta de Wolseong/Gyerim en Gyeongju o una vuelta en bicicleta de alquiler pasando por Cheomseongdae. Con una calificación de 4.5 en más de 20,000 reseñas, es un lugar muy conocido; el truco está en calcular bien el horario de la visita para evitar las horas de más gente, no en buscar una alternativa poco conocida.'

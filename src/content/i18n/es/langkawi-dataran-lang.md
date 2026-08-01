@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: langkawi-dataran-lang
+srcHash: d50bcddbc49d
 title: 'Dataran Lang: guía de viaje de Langkawi'
-description: Dataran Lang (Eagle Square) se encuentra en el paseo marítimo de Kuah, en Langkawi, a cinco minutos en coche o 15 minutos a pie del muelle de Kuah, donde atracan los ferris procedentes de Penang y
+description: Dataran Lang (Eagle Square) se encuentra en el paseo marítimo de Kuah, en Langkawi, a cinco minutos en coche o 15 minutos a pie del muelle de Kuah (Kuah jetty), donde atracan los ferris procedentes de Penang y de la península.
 quickAnswer: Dataran Lang (Eagle Square) se encuentra en el paseo marítimo de Kuah, en Langkawi, a cinco minutos en coche o 15 minutos a pie del muelle de Kuah (Kuah jetty), donde atracan los ferris procedentes de Penang y de la península. Es una parada muy popular y muy fotografiada, más que un rincón escondido, así que calcula entre 30 y 45 minutos y procura ir a primera hora de la mañana o justo antes de la puesta de sol para fotografiar la enorme estatua del águila sin que se llene de grupos turísticos.
 faq:
   - q: ¿Cómo llego a Dataran Lang desde la terminal de ferris?

@@ -1,6 +1,6 @@
 ---
 title: "Japanese Bridge: Hoi An Travel Guide"
-description: The Japanese Bridge (Chùa Cầu) is Hoi An's iconic 18th-century covered wooden bridge spanning a small canal off Nguyễn Thị Minh Khai Street in the heart of
+description: The Japanese Bridge (Chùa Cầu) is Hoi An's iconic 18th-century covered wooden bridge spanning a small canal off Nguyễn Thị Minh Khai Street in the heart of the Ancient Town.
 country: Vietnam
 region: Hoi An
 category: attraction

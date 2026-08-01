@@ -1,6 +1,6 @@
 ---
 title: 'Garden of Morning Calm: Gapyeong Travel Guide'
-description: The Garden of Morning Calm (아침고요수목원) is a themed botanical garden in Sang-myeon, Gapyeong-gun, about 90 minutes northeast of Seoul — best reached by car
+description: The Garden of Morning Calm (아침고요수목원) is a themed botanical garden in Sang-myeon, Gapyeong-gun, about 90 minutes northeast of Seoul — best reached by car, shuttle bus, or a taxi from Cheongpyeong Station on the Gyeongchun Line.
 country: South Korea
 region: Gapyeong
 category: hidden-gem

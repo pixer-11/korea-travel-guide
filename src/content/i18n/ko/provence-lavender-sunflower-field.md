@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: provence-lavender-sunflower-field
+srcHash: 1972fb1f813f
 title: 라벤더 & 해바라기 밭
 description: 프로방스 발랑솔 고원(Plateau de Valensole)에 위치한 발랑솔(Valensole) 주변 라벤더밭과 해바라기밭은 대략 6월 마지막 주부터 절정을 이룹니다.
 quickAnswer: 프로방스 발랑솔 고원(Plateau de Valensole)에 위치한 발랑솔(Valensole) 주변 라벤더밭과 해바라기밭은 대략 6월 마지막 주부터 7월 말까지가 절정으로, 보라색 라벤더 이랑과 황금빛 해바라기가 나란히 만개하는 시기입니다. 발랑솔 마을이나 인근 리에즈(Riez)를 거점으로 삼고, 최상의 빛과 적은 인파를 위해 해 뜰 무렵이나 해 지기 두 시간 전에 차로 나가보세요. 밭까지 가는 대중교통이 없으므로 자동차로 반나절 코스를 계획하는 것이 좋습니다.

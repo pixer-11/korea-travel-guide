@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: seoul-dallas-pizza
+srcHash: f84cd2de8ce5
 title: 'Dallas Pizza en Seúl: guía para visitantes'
 description: 'Dallas Pizza en Seúl, Corea del Sur — un lugar nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Dallas Pizza es una pizzería solo con reserva, escondida en un callejón estrecho junto a un taller de metalurgia en funcionamiento en Mullae-dong (문래동), el antiguo distrito industrial de Seúl que hoy es un imán para artistas y pequeños negocios creativos. Reserva con antelación —ir sin reserva es poco fiable dada la demanda— y confirma el horario actual antes de ir, ya que el local es nuevo y los detalles pueden cambiar. Combina la visita con un paseo por los talleres cubiertos de murales de Mullae Art Village para vivir la experiencia completa del barrio.

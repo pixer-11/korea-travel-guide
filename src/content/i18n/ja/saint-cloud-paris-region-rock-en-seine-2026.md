@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: saint-cloud-paris-region-rock-en-seine-2026
+srcHash: 7f87bdc7a7f3
 title: ロック・アン・セーヌ2026:知っておきたいこと(サン=クルー、パリ)
 description: ロック・アン・セーヌ2026は2026年8月26日から30日まで、パリ西郊外のサン=クルー国立公園(Domaine national de Saint-Cloud)で開催され、The Cure、Nick Cave & The Bad Seeds、Tylerらが出演します。
 quickAnswer: ロック・アン・セーヌ2026は2026年8月26日から30日まで、パリ西郊外のサン=クルー国立公園(Domaine national de Saint-Cloud)で開催され、The Cure、Nick Cave & The Bad Seeds、Tyler, the Creatorがヘッドライナーを務めるほか、DeftonesやTurnstileなども出演します。拠点はパリに置き、RER C線でサン=クルー駅(Saint-Cloud)まで行き、そこから徒歩またはシャトルバスで会場のドメーヌへ向かうのが基本です。ただし、フェスティバルのラインナップや運営details は変更されることがあるため、正確な日程、ステージの開始時刻、チケットの種類については必ず公式のRock en Seineサイトで事前に確認してください。

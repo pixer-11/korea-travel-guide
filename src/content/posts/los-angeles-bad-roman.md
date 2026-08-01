@@ -1,6 +1,6 @@
 ---
 title: Bad Roman in Los Angeles
-description: Bad Roman is a maximalist, see-and-be-seen Italian restaurant from Quality Branded Hospitality (the team behind Don Angie and Zou Zou's) in Beverly Hills
+description: Bad Roman is a maximalist, see-and-be-seen Italian restaurant from Quality Branded Hospitality (the team behind Don Angie and Zou Zou's) in Beverly Hills, instantly recognizable by its glowing neon-orange snake motif and theatrical, over-the-top dining room.
 country: United States
 region: Los Angeles
 category: trendy

@@ -1,6 +1,6 @@
 ---
 title: 'Juknokwon: Damyang Travel Guide'
-description: Juknokwon is a 31-hectare bamboo forest park in Damyang-eup, crisscrossed by eight named walking trails through towering moso bamboo, with a bonus stroll
+description: Juknokwon is a 31-hectare bamboo forest park in Damyang-eup, crisscrossed by eight named walking trails through towering moso bamboo, with a bonus stroll into the neighboring Korean-style garden and Metasequoia Road.
 country: South Korea
 region: Damyang
 category: attraction

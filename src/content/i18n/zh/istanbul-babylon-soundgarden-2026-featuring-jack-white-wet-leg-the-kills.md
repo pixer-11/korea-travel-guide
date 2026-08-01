@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: istanbul-babylon-soundgarden-2026-featuring-jack-white-wet-leg-the-kills
+srcHash: 938f97aa0e09
 title: Babylon Soundgarden 2026:杰克·怀特(Jack White)、Wet Leg 与 The Kills 领衔,伊斯坦布尔观演攻略
 description: Babylon Soundgarden 2026 将于2026年8月22日至23日在伊斯坦布尔 Maslak/Sarıyer 地区的 Parkorman Nature Park 举行,阵容包括 Jack White、Wet Leg 和 The Kills。
 quickAnswer: Babylon Soundgarden 2026 定于2026年8月22日至23日,在伊斯坦布尔 Maslak/Sarıyer 地区的 Parkorman Nature Park(帕克曼自然公园)举行,已公布的headliner(压轴阵容)包括 Jack White、Wet Leg 和 The Kills。可以将其视为一场为期两天的户外音乐节:场地是欧洲区一处林地公园,从 Levent 和 Maslak 打车/叫车前往都很方便,临近日期请以 Babylon 官方渠道公布的最终演出时间、舞台安排和票价档位为准。

@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: da-nang-xliii-specialty-coffee
+srcHash: 8c7c168af2e1
 title: XLIII Specialty Coffee：岘港旅行指南
 description: XLIII Specialty Coffee 是岘港五行山（Ngũ Hành Sơn）区一家占地宽敞、设计感十足的咖啡馆，靠近大理石山（Marble Mountains），距美溪海滩（My Khe Beach）也只需很短车程。
 quickAnswer: XLIII Specialty Coffee 是岘港五行山（Ngũ Hành Sơn）区一家占地宽敞、设计感十足的咖啡馆，靠近大理石山（Marble Mountains），距美溪海滩（My Khe Beach）也只需很短车程。建议选在工作日上午前往，以避开人潮，占到那些出片率高的座位；预算方面要比一般的越南咖啡摊（cà phê）稍高一些（价位等级 3），并且最好安排至少一小时的时间，真正坐下来享受这个空间，而不是只顾着拍照。

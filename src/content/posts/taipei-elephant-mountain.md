@@ -1,6 +1,6 @@
 ---
 title: "Elephant Mountain: Taipei Travel Guide"
-description: "Elephant Mountain (Xiangshan) is Taipei's most popular short hike, a steep 20-40 minute stair climb in Xinyi District that ends at boulder viewpoints framing"
+description: Elephant Mountain (Xiangshan) is Taipei's most popular short hike, a steep 20-40 minute stair climb in Xinyi District that ends at boulder viewpoints framing Taipei 101.
 country: "Taiwan"
 region: "Taipei"
 category: "attraction"

@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: bangkok-the-reclining-buddha
+srcHash: 25586f952244
 title: 왓포 왓 프라 첫투폰 방콕여행 가이드 – 와불상(수면불상)
 description: 와불상(Reclining Buddha)은 그랜드 팰리스 바로 남쪽, 방콕 2 Thanon Sanam Chai에 위치한 왓포(Wat Pho, 왓 프라 첫투폰) 안에 모셔져 있습니다.
 quickAnswer: 와불상(Reclining Buddha)은 그랜드 팰리스 바로 남쪽, 방콕 2 Thanon Sanam Chai에 위치한 왓포(Wat Pho, 왓 프라 첫투폰) 안에 모셔져 있습니다. 관광버스와 더위를 피하려면 오전 9시 이전에 일찍 방문하는 것이 좋으며, 관람에는 60~90분 정도를 예상하면 됩니다. 그랜드 팰리스나 강 건너 왓 아룬(Wat Arun) 방문과 함께 묶어서 일정을 짜기 좋습니다. 입장 시에는 신발을 벗어야 하며, 어깨와 무릎을 가리는 복장을 갖춰야 합니다. 불상의 발치를 따라 놓인 108개의 청동 그릇에 공덕을 쌓기 위한 동전을 넣는 것도 놓치지 마세요.

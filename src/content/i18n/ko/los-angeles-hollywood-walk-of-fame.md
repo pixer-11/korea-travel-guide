@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: los-angeles-hollywood-walk-of-fame
+srcHash: 43ad68149561
 title: '할리우드 명예의 거리: 로스앤젤레스 여행 가이드'
 description: 라 브레아(La Brea)와 바인(Vine) 사이의 할리우드 대로(Hollywood Boulevard)는 24시간 언제든 걸을 수 있지만(바인 거리를 따라 선셋(Sunset)까지 둘러보는 코스 포함), 평일 오전 7시~10시나 주말 오전 7시~9시에 가면 인파에 시달리지 않고 테라조 별을 볼 수 있습니다.
 quickAnswer: 라 브레아(La Brea)와 바인(Vine) 사이의 할리우드 대로(Hollywood Boulevard)는 언제든 걸을 수 있습니다(바인 거리를 따라 선셋(Sunset)까지 내려가는 코스도 포함) — 24시간 개방되어 있지만, 평일 오전 7시~10시나 주말 오전 7~9시에 가면 인파를 헤치고 다니지 않고도 테라조 별들을 볼 수 있습니다. 45~90분 정도 시간을 잡고, 콘크리트 바닥에 긁혀도 괜찮은 신발을 신고, 바로 옆의 TCL 차이니즈 극장(TCL Chinese Theatre) 앞마당과 돌비 극장(Dolby Theatre)도 함께 둘러보세요.

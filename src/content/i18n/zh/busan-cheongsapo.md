@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: busan-cheongsapo
+srcHash: 3ce73be9bd7d
 title: 釜山青沙浦
 description: 青沙浦（Cheongsapo）是釜山东海岸的一个小渔村，坐落在海云台（Haeundae）与松亭（Songjeong）之间，以红白条纹灯塔和生猛海鲜摊闻名。
 quickAnswer: 青沙浦（Cheongsapo）是釜山东海岸的一个小渔村，坐落在海云台（Haeundae）与松亭（Songjeong）之间，最出名的是那座红白条纹灯塔（多里同展望台，Daritdol Observatory）以及生猛海鲜摊（生鱼片汤、海鞘、海胆）。安排半天时间即可：沿着海云台达尾其路（Dalmaji-gil）走滨海木栈道，逛逛港边的活鱼水槽，走过跨海的多里同天空步道（Daritdol Skywalk），最后在防波堤上看日落收尾。如果时间充裕，还可以顺路走一段更长的海云台到松亭滨海步道（达尾其路）。

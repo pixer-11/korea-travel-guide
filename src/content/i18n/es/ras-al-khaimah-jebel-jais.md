@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: ras-al-khaimah-jebel-jais
+srcHash: 3ae49c75c7bb
 title: 'Jebel Jais: Guía de viaje de Ras Al Khaimah'
 description: El Jebel Jais, el pico más alto de los Emiratos Árabes Unidos (unos 1.934 m), se encuentra en Wadi Shehah, aproximadamente a 1,5 horas de Dubái y 45 minutos de la ciudad de Ras Al Khaimah.
 quickAnswer: El Jebel Jais, el pico más alto de los Emiratos Árabes Unidos (unos 1.934 m), se encuentra en Wadi Shehah, aproximadamente a 1,5 horas de Dubái y 45 minutos de la ciudad de Ras Al Khaimah. Ven por la tirolina Jais Sky Tour (la más larga del mundo, con 2,8 km), el tobogán alpino Jais Sledder y los miradores gratuitos de montaña a lo largo de una carretera asfaltada con curvas cerradas. Reserva medio día para la ruta de conducción y miradores, o un día completo si vas a reservar la tirolina o una acampada nocturna.

@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: hong-kong-hong-kong-disneyland
+srcHash: fcee99aa100d
 title: 'Hong Kong Disneyland: Guía de viaje'
 description: Hong Kong Disneyland se encuentra en la isla de Lantau (Lantau Island), a la que se llega mediante la línea dedicada Disneyland Resort Line desde la estación de MTR Sunny Bay, situada a su vez en la línea Tung Chung.
 quickAnswer: Hong Kong Disneyland se encuentra en la isla de Lantau (Lantau Island), a la que se llega mediante la línea dedicada Disneyland Resort Line desde la estación de MTR Sunny Bay, situada a su vez en la línea Tung Chung. Reserva un día completo (9-10 horas) para recorrer las siete zonas temáticas, compra las entradas en línea con antelación para una fecha específica, y usa la app gratuita de Disneyland para consultar los tiempos de espera de las atracciones y reservar turnos de fila virtual para las atracciones más concurridas en cuanto llegues.

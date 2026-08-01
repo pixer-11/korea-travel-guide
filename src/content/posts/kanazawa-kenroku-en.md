@@ -1,9 +1,6 @@
 ---
 title: 'Kenroku-en: Kanazawa Travel Guide'
-description: >-
-  Kenroku-en is Kanazawa's celebrated Edo-period stroll garden, ranked among
-  Japan's \"three great gardens\" alongside Kairaku-en and Koraku-en, and it's
-  worth
+description: Kenroku-en is Kanazawa's celebrated Edo-period stroll garden, ranked among Japan's "three great gardens" alongside Kairaku-en and Koraku-en, and it's worth 90 minutes to 2 hours.
 country: Japan
 region: Kanazawa
 category: attraction

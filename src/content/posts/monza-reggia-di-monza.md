@@ -1,6 +1,6 @@
 ---
 title: "Reggia di: Monza Travel Guide"
-description: "The Reggia di Monza is a vast neoclassical royal palace just north of Milan, open Wednesday–Friday 2:30–7:30pm and weekends (Saturday 10:30am–6:30pm, Sunday"
+description: The Reggia di Monza is a vast neoclassical royal palace just north of Milan, open Wednesday–Friday 2:30–7:30pm and weekends (Saturday 10:30am–6:30pm, Sunday 10am–6:30pm), closed Monday and Tuesday.
 country: "Italy"
 region: "Monza"
 category: "hidden-gem"

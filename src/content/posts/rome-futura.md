@@ -1,6 +1,6 @@
 ---
 title: "Futura in Rome"
-description: "Futura is a tiny, 20-seat contemporary restaurant that opened in 2025 on Via Panisperna in Monti, run by chef Anastasia Paris, with an open-air kitchen and"
+description: Futura is a tiny, 20-seat contemporary restaurant that opened in 2025 on Via Panisperna in Monti, run by chef Anastasia Paris, with an open-air kitchen and chef's table that puts you right next to the cooking action.
 country: Italy
 region: Rome
 category: trendy

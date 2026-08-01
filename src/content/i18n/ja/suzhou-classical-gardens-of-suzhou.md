@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: suzhou-classical-gardens-of-suzhou
+srcHash: 4c2fa324cf83
 title: 蘇州古典園林 旅行ガイド
 description: 「蘇州古典園林」は、旧市街に点在する9つの歴史的庭園をまとめたユネスコ世界遺産指定であり、単一の施設ではありません。
 quickAnswer: 「蘇州古典園林(Classical Gardens of Suzhou)」は、旧市街に点在する9つの歴史的庭園をまとめたユネスコ世界遺産の指定名称であり、単一の施設を指すものではありません。中でも見るべきなのは、拙政園(Zhuozheng Yuan / Humble Administrator's Garden)、留園(Liu Yuan / Lingering Garden)、網師園(Wangshi Yuan / Master of the Nets Garden)の3つです。9つすべてを回ろうとせず、1日に2〜3園を訪れる計画にし、1園あたり1〜1.5時間を見込み、団体客を避けるために平日の早朝に訪れるのがおすすめです。ほとんどの庭園は通年開園していますが、春(3〜5月)と秋(9〜11月)には楼閣や築山が最も美しく映えます。

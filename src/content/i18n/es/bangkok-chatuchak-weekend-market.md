@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: bangkok-chatuchak-weekend-market
+srcHash: 9876558def1a
 title: 'Mercado de Chatuchak: guía de viaje de Bangkok'
 description: El mercado de fin de semana de Chatuchak (conocido localmente como "JJ Market") se extiende por 27 secciones y más de 15.000 puestos en el norte de Bangkok, y abre principalmente los sábados y domingos.
 quickAnswer: El mercado de fin de semana de Chatuchak (conocido localmente como "JJ Market") se extiende por 27 secciones y más de 15.000 puestos en el norte de Bangkok, y abre principalmente los sábados y domingos, aproximadamente de 9am a 6pm. Toma el MRT hasta la estación Kamphaeng Phet (la salida 1 lleva directo al mercado) o las estaciones Chatuchak Park/Mo Chit del BTS, consigue un mapa impreso de las secciones en algún quiosco de información, y reserva al menos 3–4 horas para explorarlo con algo de profundidad.

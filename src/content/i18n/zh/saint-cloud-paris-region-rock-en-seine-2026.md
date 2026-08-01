@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: saint-cloud-paris-region-rock-en-seine-2026
+srcHash: 7f87bdc7a7f3
 title: Rock en Seine 2026完全指南（法国圣克卢·巴黎）
 description: Rock en Seine 2026将于2026年8月26日至30日在巴黎西郊的圣克卢国家园林（Domaine national de Saint-Cloud）举行，The Cure、Nick Cave & The Bad Seeds与Tyler, the Creator担任headliner。
 quickAnswer: Rock en Seine 2026将于2026年8月26日至30日在巴黎西郊的圣克卢国家园林（Domaine national de Saint-Cloud）举行，由The Cure、Nick Cave & The Bad Seeds和Tyler, the Creator担任headliner，Deftones、Turnstile等乐队也将登台。建议入住巴黎市区，乘RER C线到圣克卢站（Saint-Cloud），再步行或搭乘接驳车前往园区——但由于阵容和后勤安排可能有变，订票前请务必在Rock en Seine官网核实具体日期、演出时间和票档。

@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: nagoya-noritake-garden
+srcHash: 2fcc52374980
 title: 'Noritake Garden: Guía de viaje de Nagoya'
 description: Noritake Garden es un antiguo terreno de fábrica de cerámica reconvertido en Nishi Ward, a unos 10 minutos a pie de la estación de Kamejima (Kamejima Station) en la línea de metro Higashiyama.
 quickAnswer: Noritake Garden es un antiguo terreno de fábrica de cerámica reconvertido en Nishi Ward, a unos 10 minutos a pie de la estación de Kamejima (Kamejima Station) en la línea de metro Higashiyama, con un pequeño museo, una chimenea de horno en funcionamiento, talleres artesanales, jardines y una tienda que vende vajilla Noritake. Calcula entre 1,5 y 2 horas, y ve una mañana entre semana para ver a los artesanos del taller trabajar sin aglomeraciones. La entrada a los jardines en sí suele ser gratuita o de bajo costo, con una pequeña tarifa aparte para el museo/centro de artesanía; confirma los precios vigentes antes de ir.

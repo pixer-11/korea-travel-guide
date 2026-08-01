@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: cebu-sirao-garden
+srcHash: 8f4524bbe3c9
 title: 'Sirao Garden: Guía de viaje de Cebú'
-description: Sirao Garden ("Little Amsterdam") se encuentra en lo alto de las montañas de Barangay Sirao, a unos 45–60 minutos en auto desde el centro de Cebú, y se visita mejor
+description: Sirao Garden ("Little Amsterdam") se encuentra en lo alto de las montañas de Barangay Sirao, a unos 45–60 minutos en auto desde el centro de la ciudad de Cebú (Cebu City), y se visita mejor en la mañana de un día entre semana, cuando los campos de flores acaban de ser regados y aún no han llegado las multitudes.
 quickAnswer: Sirao Garden ("Little Amsterdam") se encuentra en lo alto de las montañas de Barangay Sirao, a unos 45–60 minutos en auto desde el centro de la ciudad de Cebú (Cebu City), y se visita mejor en la mañana de un día entre semana, cuando los campos de flores acaban de ser regados y aún no han llegado las multitudes. Cuenta con una hora a 90 minutos entre hileras de celosia, caléndulas y girasoles, además de pequeñas instalaciones para fotos que se pagan por separado. Hoy en día es una atracción muy conocida y muy visitada, no un lugar por descubrir, así que planificar bien el horario de tu visita importa más que encontrar el sitio en sí.
 faq:
   - q: ¿Cómo llego a Sirao Garden desde la ciudad de Cebú?

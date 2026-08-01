@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: las-vegas-las-vegas-strip
+srcHash: f4ab8144cfb5
 title: 'Las Vegas Strip: Guía de viaje'
-description: El Las Vegas Strip es el tramo de 4,2 millas de Las Vegas Boulevard South entre Mandalay Bay y la zona de Sahara/Stratosphere, repleto de los
+description: El Las Vegas Strip es el tramo de 4,2 millas de Las Vegas Boulevard South entre Mandalay Bay y la zona de Sahara/Stratosphere, repleto de los casino-resorts más grandes de la ciudad, espectáculos y atracciones gratuitas como las Fuentes del Bellagio y el estilo neón de Fremont.
 quickAnswer: El Las Vegas Strip es el tramo de 4,2 millas de Las Vegas Boulevard South entre Mandalay Bay y la zona de Sahara/Stratosphere, repleto de los casino-resorts más grandes de la ciudad, espectáculos y atracciones gratuitas como las Fuentes del Bellagio y el estilo neón de Fremont. Recórrelo por tramos en lugar de de punta a punta, usa el monorraíl o un servicio de transporte privado (rideshare) entre puntos distantes, y planea las visitas para la noche, cuando las luces y las multitudes alcanzan su punto máximo. De dos a cuatro días son suficientes para recorrer los principales resorts, ver un espectáculo y disfrutar de un par de atracciones gratuitas sin apuros.
 faq:
   - q: ¿Cuánto tiempo debería dedicarle al Las Vegas Strip?

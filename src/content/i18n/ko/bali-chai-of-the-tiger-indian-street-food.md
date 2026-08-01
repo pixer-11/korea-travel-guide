@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: bali-chai-of-the-tiger-indian-street-food
+srcHash: 8d5c91ac4d18
 title: '차이 오브 더 타이거(CHAI OF THE TIGER, 인도 길거리 음식): 발리 맛집 가이드'
 description: 차이 오브 더 타이거(CHAI OF THE TIGER)는 우붓(Ubud) 중심가에서 남동쪽으로 살짝 떨어진 트베사야(Tebesaya), 펠리아탄(Peliatan)에 자리한 작은 인도 길거리 음식점으로, 차트(chaat), 카티 롤, 마살라 차이를 캐주얼한 분위기에서 선보입니다.
 quickAnswer: 차이 오브 더 타이거(CHAI OF THE TIGER)는 우붓(Ubud) 중심가에서 남동쪽으로 살짝 떨어진 트베사야(Tebesaya), 펠리아탄(Peliatan)에 자리한 작은 인도 길거리 음식점으로, 차트(chaat), 카티 롤, 마살라 차이를 캐주얼하고 소박한 분위기에서 선보입니다. 거의 800개에 가까운 리뷰에서 4.6점을 받았지만 관광객으로 붐비는 곳은 아니니, 점심이나 이른 저녁 시간에 방문해 보세요. 커리 전문점 같은 방대한 메뉴 대신 인도 길거리 음식의 정수를 압축한 간결한 메뉴를 기대하시면 되고, 카드 결제가 가능하더라도 현금을 여분으로 챙겨가는 것이 좋습니다.

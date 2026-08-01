@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: lombok-sendang-gile-waterfall
+srcHash: 5703878c65f8
 title: '스당길레 폭포: 롬복 여행 가이드'
 description: 스당길레(Sendang Gile)는 린자니산(Mount Rinjani) 남쪽 사면에 있는 2단 폭포로, 롬복 북부 스나루(Senaru) 마을에서 짧고 잘 정비된 트레일을 통해 갈 수 있습니다.
 quickAnswer: 스당길레(Sendang Gile)는 린자니산(Mount Rinjani) 남쪽 사면에 있는 2단 폭포로, 롬복 북부 스나루(Senaru) 마을에서 짧고 잘 정비된 트레일을 통해 갈 수 있습니다. 스당길레와 더 높은 곳에 위치한 티우 클렙(Tiu Kelep) 폭포까지 함께 둘러보려면 1.5~2시간 정도를 여유 있게 잡으시고, 미끄럼 방지 샌들이나 트레일화를 착용하며, 단체 관광객과 오후 소나기를 피하기 위해 오전 9시 이전 이른 아침에 방문하는 것이 좋습니다.

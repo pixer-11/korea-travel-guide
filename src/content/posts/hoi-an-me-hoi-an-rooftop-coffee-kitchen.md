@@ -1,6 +1,6 @@
 ---
 title: "Mê Hội An Rooftop Coffee & Kitchen: Hoi An Travel Guide"
-description: Mê Hội An Rooftop Coffee & Kitchen sits at 166 Trần Phú in the heart of Hoi An's Old Town, a short walk from the Japanese Covered Bridge, and is best visited
+description: Mê Hội An Rooftop Coffee & Kitchen sits at 166 Trần Phú in the heart of Hoi An's Old Town, a short walk from the Japanese Covered Bridge, and is best visited in the late afternoon (around 4:30–6pm) to snag a rooftop table before sunset and the evening lantern glow.
 country: Vietnam
 region: Hoi An
 category: trendy

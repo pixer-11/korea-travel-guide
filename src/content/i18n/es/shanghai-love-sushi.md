@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: shanghai-love-sushi
+srcHash: 352e592f4dc7
 title: 'Love Sushi: dónde comer en Shanghái'
 description: 'Love Sushi en Shanghái, China — un lugar nuevo y en auge: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Love Sushi es una barra omakase de diez asientos dentro de Plaza 66, en Nanjing Xi Lu, dirigida por el veterano chef de kaiseki Ma Shifu, del mismo grupo detrás de Ochiyo y Sushi Brother. Si puedes, opta por un turno tranquilo entre semana, reserva con bastante antelación ya que los puestos en la barra son limitados, y confirma directamente el horario actual y la política de reservas antes de planear tu noche.

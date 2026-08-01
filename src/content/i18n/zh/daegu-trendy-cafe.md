@@ -1,8 +1,9 @@
 ---
 lang: zh
 slug: daegu-trendy-cafe
+srcHash: ee27d3031040
 title: 大邱潮流咖啡馆指南
-description: 想找大邱最潮的咖啡馆，可以去中央路站（1号线）附近的东城路／金光石路一带，或是更为清静的笔巷文化街（Bongsan Culture Street），以及
+description: 想找大邱最潮的咖啡馆，可以去中央路站（Jungangno Station，1号线）附近的东城路（Dongseong-ro）／金光石路（Kim Kwang-seok Street）一带，或是更为清静的笔巷文化街（Bongsan Culture Street）；若想体验真正的“咖啡街”氛围，则要去寿城池（Suseongmot / Suseong Lake）沿岸的寿城路咖啡街（Suseong-ro Cafe Street）。
 quickAnswer: 想找大邱最潮的咖啡馆，可以去中央路站（Jungangno Station，1号线）附近的东城路（Dongseong-ro）／金光石路（Kim Kwang-seok Street）一带，或是更为清静的笔巷文化街（Bongsan Culture Street）；若想体验真正的“咖啡街”氛围，则要去寿城池（Suseongmot / Suseong Lake）沿岸的寿城路咖啡街（Suseong-ro Cafe Street）。这里既有由韩屋改造的咖啡馆，也有工业风仓库烘焙坊，还有临湖露台——建议安排2-3小时，把喝咖啡和散步结合起来逛一圈。最好选在平日上午或傍晚前往，以避开周末人潮，尤其是寿城池一带。
 faq:
   - q: 去大邱潮流咖啡馆，最方便的地铁站是哪个？

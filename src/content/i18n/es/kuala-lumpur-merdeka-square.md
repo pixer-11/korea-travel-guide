@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: kuala-lumpur-merdeka-square
+srcHash: 1f93d4de52d5
 title: 'Merdeka Square: Guía de viaje de Kuala Lumpur'
-description: Merdeka Square es la amplia explanada verde, del tamaño de un campo de críquet, en el corazón de la Kuala Lumpur de la época colonial, dominada por un mástil de 95 metros que marca el lugar donde bajó la Union
+description: Merdeka Square es la amplia explanada verde, del tamaño de un campo de críquet, en el corazón de la Kuala Lumpur de la época colonial, dominada por un mástil de 95 metros que marca el lugar donde bajó la Union Jack y se izó la bandera de Malaya en 1957.
 quickAnswer: Merdeka Square es la amplia explanada verde, del tamaño de un campo de críquet, en el corazón de la Kuala Lumpur de la época colonial, dominada por un mástil de 95 metros que marca el lugar donde bajó la Union Jack y se izó la bandera de Malaya en 1957. Está abierta las 24 horas y el acceso es gratuito; ve entre las 7am y las 9am para tener casi para ti solo el césped y el telón de fondo del Royal Selangor Club, de estilo neotudor, ya que las tardes y noches (sobre todo de 4pm a 11pm los fines de semana) atraen a muchísima gente. Combínala con el Sultan Abdul Samad Building y la Masjid Jamek, ambos a un corto paseo.
 faq:
   - q: ¿Cómo llego a Merdeka Square en transporte público?

@@ -1,8 +1,6 @@
 ---
 title: 'Guggenheim Museum: Bilbao Travel Guide'
-description: >-
-  The Guggenheim Museum Bilbao, on the Abandoibarra riverside promenade, is best
-  tackled right at opening or in the late afternoon on a weekday to dodge the
+description: The Guggenheim Museum Bilbao, on the Abandoibarra riverside promenade, is best tackled right at opening or in the late afternoon on a weekday to dodge the tour-bus crush.
 country: Spain
 region: Bilbao
 category: attraction

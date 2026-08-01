@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: valencia-la-lonja-de-la-seda-de-valencia
+srcHash: 01fd94844595
 title: 라 론하 데 라 세다 (La Lonja de la Seda), 발렌시아 여행 가이드
 description: 유네스코 세계유산인 발렌시아의 옛 실크 거래소 라 론하 데 라 세다(La Lonja de la Seda)는 시우타트 베야(Ciutat Vella) 지구, C/ de la Llotja, 2번지에 위치하며, 메르카도 센트랄(Mercado Central) 바로 맞은편에 있습니다.
 quickAnswer: 유네스코 세계유산인 발렌시아의 옛 실크 거래소 라 론하 데 라 세다(La Lonja de la Seda)는 시우타트 베야(Ciutat Vella) 지구, C/ de la Llotja, 2번지에 위치하며, 메르카도 센트랄(Mercado Central) 바로 맞은편에 있습니다. 관람에는 45~60분 정도 소요되며, 살라 데 콘트라타시온(Sala de Contratación)의 뒤틀린 코린트 양식 기둥과 콘술라도 델 마르(Consulado del Mar)의 격자무늬 천장을 중점적으로 살펴보세요. 이곳은 매우 인기 있는 관광지로 단체 관광객이 몰리면 줄이 금세 길어지므로, 평일 이른 시간에 방문하는 것이 혼잡을 피하는 방법입니다.

@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: singapore-post-malone-big-ass-world-tour
+srcHash: 4162cfe1215a
 title: 'Post Malone – BIG ASS World Tour: lo que debes saber (Singapur)'
 description: Post Malone – BIG ASS World Tour en Singapur, Singapur — 25 de septiembre de 2026. Qué es, cuándo y dónde, y cómo organizar tu visita.
 quickAnswer: Post Malone trae el BIG ASS World Tour al National Stadium de Singapur el 25 de septiembre de 2026, con Don Toliver como telonero — su primer concierto como cabeza de cartel en solitario en la ciudad desde que participó como invitado en el Gran Premio de F1 de Singapur 2023. Llega al recinto de Kallang / Stadium a través de la estación Stadium MRT (Circle Line) y confirma los horarios exactos de apertura de puertas, las categorías de entradas y cualquier cambio de última hora en los canales oficiales de Ticketmaster/SportsHub Singapore antes de ir.

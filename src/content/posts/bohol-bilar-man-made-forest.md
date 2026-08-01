@@ -1,6 +1,6 @@
 ---
 title: 'Bilar Man-Made Forest: Bohol Travel Guide'
-description: The Bilar Man-Made Forest is a 2-kilometer stretch of dense mahogany trees straddling the Loay Interior Road between Bilar and Sevilla, roughly 45-55 minutes
+description: The Bilar Man-Made Forest is a 2-kilometer stretch of dense mahogany trees straddling the Loay Interior Road between Bilar and Sevilla, roughly 45-55 minutes by car or van from Tagbilaro City and easily combined with the Chocolate Hills and Loboc River in a single day trip.
 country: Philippines
 region: Bohol
 category: attraction

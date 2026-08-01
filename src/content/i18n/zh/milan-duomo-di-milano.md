@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: milan-duomo-di-milano
+srcHash: feefe9990bd2
 title: 米兰大教堂（Duomo di Milano）：米兰旅行指南
 description: 米兰大教堂（Duomo di Milano）坐落于米兰主教座堂广场（Piazza del Duomo），是米兰的哥特式主教座堂，最佳游览时间是清晨（9:30之前）以避开人群，并可购票登上屋顶露台。
 quickAnswer: 米兰大教堂（Duomo di Milano）坐落于米兰主教座堂广场（Piazza del Duomo），是米兰的哥特式主教座堂，最佳游览时间是清晨（9:30之前）以避开人群；天气晴朗时，屋顶露台门票还能让你欣赏到远眺阿尔卑斯山的天际线景观。参观教堂和屋顶大约需要1.5–2小时，如果再加上米兰大教堂博物馆（Museo del Duomo），时间会更长。建议提前在线预订门票——这是意大利最热门的景点之一，现场排队购票的队伍可能长达一个多小时。

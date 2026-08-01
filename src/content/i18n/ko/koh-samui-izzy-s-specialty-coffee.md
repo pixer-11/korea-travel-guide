@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: koh-samui-izzy-s-specialty-coffee
+srcHash: c43ad46c9741
 title: '이지스 스페셜티 커피: 코사무이 여행 가이드'
 description: 이지스 스페셜티 커피(Izzy's Specialty Coffee)는 코사무이 북부 해안 보풋(Bo Put)의 피셔맨스 빌리지(Fisherman's Village), 오래된 숍하우스 골목에 자리한 소규모 스페셜티 카페입니다 — 오전 10시 이전에 가보세요.
 quickAnswer: 이지스 스페셜티 커피(Izzy's Specialty Coffee)는 코사무이 북부 해안 보풋(Bo Put)의 피셔맨스 빌리지(Fisherman's Village), 오래된 숍하우스 골목에 자리한 소규모 스페셜티 카페입니다 — 오전 10시 이전에 방문해 자리를 잡고, 직접 로스팅한 원두로 내린 슬로우 바 핸드드립을 즐겨보세요. 피셔맨스 빌리지 워킹 스트리트(Fisherman's Village Walking Street)에서 걸어갈 수 있는 거리이며, 보풋 부두(Bo Put Pier)에서의 아침 시간과도 잘 어울립니다. 30~45분 정도 시간을 잡아두면 되고, 1,000개가 넘는 거의 만점에 가까운 리뷰 덕분에 정오 무렵이면 붐비기 시작합니다.

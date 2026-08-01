@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: barcelona-basilica-of-the-sagrada-familia
+srcHash: bc7de6856a21
 title: 圣家族大教堂：巴塞罗那旅行指南
 description: 建议提前2-3周（夏季需更早）在线预订限时入场票，并在预约时段前15分钟到达。
 quickAnswer: 建议提前2-3周（夏季需更早）在线预订限时入场票，并在预约时段前15分钟到达。尽量选择当天最早的上午场次（9:00）或最晚的场次，此时透过彩色玻璃窗照进来的光线更柔和；参观时间建议预留90分钟到2小时，如果加登塔行程则需更久。最近的地铁站Sagrada Família站（2号线和5号线）出站即达。

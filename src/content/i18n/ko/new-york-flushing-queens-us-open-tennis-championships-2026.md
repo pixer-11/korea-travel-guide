@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: new-york-flushing-queens-us-open-tennis-championships-2026
+srcHash: 967c4405164e
 title: '2026 US 오픈 테니스 챔피언십: 알아야 할 모든 것 (뉴욕)'
 description: 2026 US 오픈은 8월 23일부터 9월 13일까지 퀸즈(Queens) 플러싱 메도우스-코로나 파크(Flushing Meadows–Corona Park)의 USTA 빌리 진 킹 내셔널 테니스 센터(USTA Billie Jean King National Tennis Center)에서 열립니다.
 quickAnswer: 2026 US 오픈은 8월 23일부터 9월 13일까지 퀸즈(Queens) 플러싱 메도우스-코로나 파크(Flushing Meadows–Corona Park)의 USTA 빌리 진 킹 내셔널 테니스 센터(USTA Billie Jean King National Tennis Center)에서 열립니다. 팬 위크(Fan Week)와 예선전은 8월 23일에 시작하며, 본선 싱글은 8월 30일부터, 결승전은 9월 중순에 대회의 대미를 장식합니다. 7호선 열차를 타고 메츠-윌렛 포인트(Mets–Willets Point) 역으로 이동하며, 정확한 경기 순서, 게이트 개방 시간, 티켓 가격은 매년 달라지므로 출발 전 usopen.org에서 반드시 확인하세요.

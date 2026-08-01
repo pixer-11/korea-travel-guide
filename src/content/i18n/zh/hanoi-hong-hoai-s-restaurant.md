@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: hanoi-hong-hoai-s-restaurant
+srcHash: 1e20aeade107
 title: Hong Hoai's Restaurant：河内美食指南
 description: Hong Hoai's Restaurant 位于还剑郡老城区（Old Quarter），靠近 Bát Đàn 街与 Hàng Bồ 街的交界处，距离还剑湖（Hoàn Kiếm Lake）仅几分钟步行路程。
 quickAnswer: Hong Hoai's Restaurant 位于还剑郡老城区，靠近 Bát Đàn 街与 Hàng Bồ 街的交界处，距离还剑湖仅几分钟步行路程。这是一家朴实无华的河内小馆，以经典街头小吃风格的菜肴闻名，食客们坐在临街的桌椅上用餐。凭借近 23,500 条评价和 4.9 的评分，它已成为游客美食行程中的常客。建议空腹前往，并选在早些时候或午后时段，以避开人流高峰，用餐时预计要坐在矮塑料凳上。

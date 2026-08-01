@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: udaipur-saheliyon-ki-bari
+srcHash: 0401c053deef
 title: 'Saheliyon ki Bari: Guía de Viaje de Udaipur'
-description: Saheliyon ki Bari ("Jardín de las Doncellas") es un jardín real del siglo XVIII, compacto y fácil de recorrer a pie, en la zona de Panchwati de Udaipur, conocido por sus estanques de loto y su mármol
+description: Saheliyon ki Bari ("Jardín de las Doncellas") es un jardín real del siglo XVIII, compacto y fácil de recorrer a pie, en la zona de Panchwati de Udaipur, conocido por sus estanques de loto, sus kioscos de mármol, sus fuentes en forma de elefante y un pequeño museo.
 quickAnswer: Saheliyon ki Bari ("Jardín de las Doncellas") es un jardín real del siglo XVIII, compacto y fácil de recorrer a pie, en la zona de Panchwati de Udaipur, conocido por sus estanques de loto, sus kioscos de mármol, sus fuentes en forma de elefante y un pequeño museo. Calcula entre 45 y 60 minutos, ve justo a la apertura para adelantarte a los grupos en autobús, y combínalo con un paseo junto al cercano lago Fateh Sagar.
 faq:
   - q: ¿Cuánto tiempo debería pasar en Saheliyon ki Bari?

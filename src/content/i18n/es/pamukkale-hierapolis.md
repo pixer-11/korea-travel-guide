@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: pamukkale-hierapolis
+srcHash: 2c80b0176493
 title: 'Hierápolis: Guía de viaje de Pamukkale'
-description: Hierápolis se encuentra justo encima de las terrazas blancas de travertino de Pamukkale, en la provincia de Denizli, en el suroeste de Turquía, y está incluida en el mismo yacimiento arqueológico
+description: 'Hierápolis se encuentra justo encima de las terrazas blancas de travertino de Pamukkale, en la provincia de Denizli, en el suroeste de Turquía, y está incluida en el mismo yacimiento arqueológico con entrada única: un solo boleto cubre ambos.'
 quickAnswer: 'Hierápolis se encuentra justo encima de las terrazas blancas de travertino de Pamukkale, en la provincia de Denizli, en el suroeste de Turquía, y está incluida en el mismo yacimiento arqueológico con entrada única: un solo boleto cubre ambos. Ve justo a la apertura (las puertas suelen abrir alrededor de las 8am) o en las últimas dos horas antes del atardecer para evitar la avalancha de autobuses turísticos que llena las terrazas y la Piscina Antigua hacia el mediodía. Calcula entre tres y cuatro horas: una hora para las terrazas, una hora para el teatro y el Plutonium, y el resto para la necrópolis y el museo.'
 faq:
   - q: ¿Cómo llego a Hierápolis y Pamukkale sin un tour?

@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: nagoya-glitch-coffee-roasters-nagoya
+srcHash: 71f320feecfb
 title: GLITCH COFFEE & ROASTERS：名古屋旅行指南
 description: GLITCH COFFEE & ROASTERS 名古屋店是一家位于名驿（中村区）的精品咖啡吧，距名古屋站步行不远，以单品咖啡闻名。
 quickAnswer: GLITCH COFFEE & ROASTERS 名古屋店是一家位于名驿（中村区）的精品咖啡吧，距名古屋站步行不远，以单一产地的浅中度烘焙咖啡以及极简的站立式/高脚吧台风格而闻名。建议在工作日上午前往，这样既容易有座位，也能和店员从容聊聊豆子的选择；建议预留20-40分钟品尝一杯手冲或意式咖啡。它的评分为4.4分（651+条评论），在名古屋市中心颇具口碑，被认为是较为专业的咖啡据点之一。

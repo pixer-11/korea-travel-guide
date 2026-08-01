@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: gyeongju-yangdongmaeul-gil
+srcHash: 87ab84acd438
 title: 'Yangdongmaeul-gil: Guía de viaje de Gyeongju'
-description: Yangdongmaeul-gil es el camino de acceso a la aldea de Yangdong, una aldea clánica yangban (de la nobleza) de siglos de antigüedad en Gangdong-myeon, a unos 40 minutos al noreste
+description: Yangdongmaeul-gil es el camino de acceso a la aldea de Yangdong (Yangdong Village), una aldea clánica yangban (de la nobleza) de siglos de antigüedad en Gangdong-myeon, a unos 40 minutos al noreste del centro de Gyeongju.
 quickAnswer: Yangdongmaeul-gil es el camino de acceso a la aldea de Yangdong (Yangdong Village), una aldea clánica yangban (de la nobleza) de siglos de antigüedad en Gangdong-myeon, a unos 40 minutos al noreste del centro de Gyeongju. Vale la pena dedicarle medio día, idealmente una mañana entre semana, para pasear por sus tranquilos callejones entre hanok de tejas y casas de campo con techo de paja aún habitadas por descendientes de los clanes Son y Lee. Se llega mejor en coche o taxi, ya que el servicio de autobús es poco frecuente, y combina bien con una parada en el cercano Oksan Seowon.
 faq:
   - q: ¿Cómo llego a Yangdongmaeul-gil sin coche?

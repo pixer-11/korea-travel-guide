@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: makati-kowloon-station
+srcHash: ac88be33d91e
 title: '쿠룬역(Kowloon Station): 마카티(Makati) 맛집 탐방'
 description: 필리핀 마카티(Makati)에 새로 생긴 화제의 맛집, 쿠룬역(Kowloon Station) — 무엇을 파는 곳인지, 어디에 있는지, 어떻게 방문하면 좋은지 알려드립니다.
 quickAnswer: 쿠룬역(Kowloon Station)은 마카티의 오랜 광둥식 맛집 중 하나인 하이신 로우(Hai Shin Lou) 가족이 새롭게 선보이는 딤섬 앤 로스트 콘셉트 레스토랑으로, 2026년 마카티에서 가장 화제가 되고 있는 신규 오픈 매장 중 하나입니다. 대나무 찜기에 담긴 딤섬과 윤기 나는 로스트 고기 요리를 맛보러 가되, 신생 매장 특성상 정확한 영업시간과 예약 정책이 바뀔 수 있으니 미리 전화하거나 예약 채널을 확인하는 것이 좋습니다. 예약 없이 점심이나 저녁 피크타임에 방문하면 대기가 있을 수 있습니다.

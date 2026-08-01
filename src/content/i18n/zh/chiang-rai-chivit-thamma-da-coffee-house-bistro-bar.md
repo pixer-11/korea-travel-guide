@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: chiang-rai-chivit-thamma-da-coffee-house-bistro-bar
+srcHash: d30e48f3b019
 title: Chivit Thamma Da 咖啡屋、餐酒馆：清莱美食去处推荐
 description: Chivit Thamma Da 是位于清莱古城以北、湄公河支流Kok River畔的一家咖啡屋、餐酒馆兼酒吧，最适合悠闲享用brunch或日落晚餐。
 quickAnswer: Chivit Thamma Da 是一家坐落在Kok River河畔、清莱古城以北的咖啡屋、餐酒馆兼酒吧，最适合安排一顿悠闲的brunch或是日落时分的晚餐。这里有花园式的用餐环境，供应融合国际风味与泰式元素、选用当季食材制作的菜肴，菜单涵盖意式浓缩咖啡、蛋糕，到牛排、意面等各式选择。建议乘嘟嘟车（tuk-tuk）或租用摩托车前往（从钟楼出发大约10-15分钟车程），由于这里凭借4.6星的高评价和数千条点评广受欢迎，周末前往建议提前订位。

@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: venice-piazza-san-marco
+srcHash: d741b16cb150
 title: 圣马可广场：威尼斯旅行指南
 description: 圣马可广场（Piazza San Marco）是威尼斯宏伟的中心广场，四周环绕着圣马可大教堂、钟楼（Campanile）和总督宫。
 quickAnswer: 圣马可广场是威尼斯宏伟的中心广场，四周环绕着圣马可大教堂、钟楼（Campanile）和总督宫。建议早上9点前或晚饭后前往，以避开人群，并预留半天时间游览广场、大教堂及登顶钟楼。这里地势平坦、免费进入，从历史中心区任何地方步行可达，也可乘水上巴士（vaporetto）到圣马可（San Marco）站。

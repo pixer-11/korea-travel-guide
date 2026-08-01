@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: jaipur-suvarna-mahal
+srcHash: b5d3916f55cb
 title: 苏瓦纳宫殿(Suvarna Mahal):斋浦尔餐饮指南
 description: 苏瓦纳宫殿(Suvarna Mahal)是斋浦尔巴瓦尼辛格路(Bhawani Singh Road)兰巴格宫(Rambagh Palace,曾为土邦王的居所,现为泰姬酒店)内的招牌餐厅——适合一顿从容不迫的晚餐。
 quickAnswer: 苏瓦纳宫殿(Suvarna Mahal)是斋浦尔巴瓦尼辛格路(Bhawani Singh Road)兰巴格宫(Rambagh Palace,曾为土邦王的居所,现为泰姬酒店)内的招牌餐厅——适合在金碧辉煌、水晶吊灯高悬的大厅里,悠然享用一顿融合拉贾斯坦皇室与北印度风味的品鉴式晚餐。请至少提前几天订位,着装需商务休闲或更正式,并预留两到三个小时的用餐时间;这是一次奢华体验,而非快速用餐。

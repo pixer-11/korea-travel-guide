@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: mumbai-chhatrapati-shivaji-maharaj-vastu-sangrahalaya
+srcHash: 6eb57d63e1fd
 title: 'Chhatrapati Shivaji Maharaj Vastu Sangrahalaya: guía de viaje de Bombay'
-description: El Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (antiguo Prince of Wales Museum) se encuentra en un edificio abovedado de estilo indosarraceno en Fort, a 10 minutos a pie
+description: El Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (antiguo Prince of Wales Museum) se encuentra en un edificio abovedado de estilo indosarraceno en Fort, a 10 minutos a pie de la estación Chhatrapati Shivaji Terminus.
 quickAnswer: El Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (antiguo Prince of Wales Museum) se encuentra en un edificio abovedado de estilo indosarraceno en Fort, a 10 minutos a pie de la estación Chhatrapati Shivaji Terminus. Reserva entre 1,5 y 2,5 horas para recorrer las galerías de escultura, artes decorativas e historia natural; ve un día laborable por la mañana para evitar las aglomeraciones de autobuses turísticos, ya que este es uno de los museos más visitados de Bombay, no un lugar tranquilo y poco conocido. Confirma los precios de entrada y los horarios actuales antes de ir, ya que ambos cambian periódicamente.
 faq:
   - q: ¿Cómo llego al museo en tren?

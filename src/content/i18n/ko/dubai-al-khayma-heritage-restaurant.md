@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: dubai-al-khayma-heritage-restaurant
+srcHash: f20ac71750d7
 title: '알 카이마 헤리티지 레스토랑: 두바이 맛집 가이드'
 description: 알 카이마 헤리티지 레스토랑(Al Khayma Heritage Restaurant)은 알 수크 알 카비르(Al Souq Al Kabeer) 근처 알 파히디 역사 지구(Al Fahidi Historical Neighbourhood)에 위치하며, 마크부스, 하리스 같은 에미라티 전통 요리를 선보입니다.
 quickAnswer: 알 카이마 헤리티지 레스토랑은 알 수크 알 카비르 근처 알 파히디 역사 지구에 위치하며, 베두인 텐트 스타일의 안뜰에서 마크부스, 하리스, 루카이마트 같은 에미라티 전통 요리를 선보입니다. 매우 인기 있고 평가도 좋은 곳(별점 4.9, 리뷰 약 18,000건)으로 가격대는 중간 수준이니, 특히 저녁 시간에는 일찍 도착하거나 사전 예약을 하는 것이 좋습니다. 방문에는 60~90분 정도를 잡고, 근처 알 파히디 골목길 산책이나 알 파히디 요새(Al Fahidi Fort) 안의 두바이 박물관(Dubai Museum) 관람과 함께 묶어 보세요.

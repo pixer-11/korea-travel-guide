@@ -1,6 +1,6 @@
 ---
 title: 'Palazzo Vecchio: Florence Travel Guide'
-description: Palazzo Vecchio, on Piazza della Signoria, is Florence's fortified 13th-century town hall turned museum, famous for its crenellated tower, the vast Salone
+description: Palazzo Vecchio, on Piazza della Signoria, is Florence's fortified 13th-century town hall turned museum, famous for its crenellated tower, the vast Salone dei Cinquecento, and rooms frescoed by Vasari and Ghirlandaio.
 country: Italy
 region: Florence
 category: attraction

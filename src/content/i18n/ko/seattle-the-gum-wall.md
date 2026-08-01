@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: seattle-the-gum-wall
+srcHash: 060a2eb7f67b
 title: '껌벽(The Gum Wall): 시애틀 여행 가이드'
 description: 껌벽(Gum Wall)은 파이크 플레이스 마켓(Pike Place Market) 아래, 마켓 시어터(Market Theater)에서 언덕 아래쪽으로 내려간 포스트 앨리(Post Alley)에 위치한 껌으로 뒤덮인 벽돌 벽입니다.
 quickAnswer: 껌벽(Gum Wall)은 파이크 플레이스 마켓(Pike Place Market) 아래, 마켓 시어터(Market Theater)에서 언덕 아래쪽으로 내려간 포스트 앨리(Post Alley)에 위치한 껌으로 뒤덮인 벽돌 벽입니다. 무료 입장이며 구경하는 데 10~15분 정도면 충분하고, 투어 그룹과 크루즈 승객들이 몰려들기 전인 개장 직후(오전 9시경)에 방문하는 것이 가장 좋습니다. 직접 껌을 붙이고 싶다면 미리 준비해 가세요. 가까이 다가가면 달콤하면서도 살짝 시큼한 강한 냄새가 난다는 점도 참고하시기 바랍니다.

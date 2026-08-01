@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: bangkok-post-malone-the-big-ass-stadium-world-tour
+srcHash: 031200e249fc
 title: Post Malone：BIG ASS 体育场世界巡演须知（曼谷站）
 description: Post Malone 将于2026年9月22日在曼谷拉加曼加拉国家体育场（Rajamangala National Stadium）举办 The BIG ASS Stadium World Tour 演唱会——这是他三年来首次在曼谷开唱。
 quickAnswer: Post Malone 将于2026年9月22日在曼谷拉加曼加拉国家体育场（Rajamangala National Stadium）举办 The BIG ASS Stadium World Tour 演唱会——这是他三年来首次在曼谷开唱。像这种规模的体育场演出，通常会提前数小时开放入场，因此建议提早抵达，搭乘机场快线（Airport Rail Link）或地铁（MRT）前往华马克站（Hua Mak），并在出发前于官方巡演和购票渠道确认具体入场时间、票档及暖场嘉宾信息。

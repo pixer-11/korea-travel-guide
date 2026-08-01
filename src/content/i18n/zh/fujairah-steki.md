@@ -1,8 +1,9 @@
 ---
 lang: zh
 slug: fujairah-steki
+srcHash: b601151f6b4b
 title: Steki:福查伊拉美食推荐
-description: Steki是一家位于福查伊拉(Fujairah)Al Faseel路(E99)、靠近Umbrella Beach的希腊餐厅，约600条评论获得4.8分好评——是品尝希腊烤肉派(moussaka)的绝佳选择
+description: Steki是一家位于福查伊拉(Fujairah)Al Faseel路(E99)、靠近Umbrella Beach的希腊餐厅，约600条评论获得4.8分好评——无论是希腊烤肉派(moussaka)、烤肉串(souvlaki)还是烤海鲜，价格适中，都值得一试。
 quickAnswer: Steki是一家位于福查伊拉(Fujairah)Al Faseel路(E99)、靠近Umbrella Beach的希腊餐厅，约600条评论获得4.8分好评——无论是希腊烤肉派(moussaka)、烤肉串(souvlaki)还是烤海鲜，价格适中，都值得一试。建议在日落时分早些去吃晚餐，饭后可以沿Umbrella Beach散步消食，由于座位有限，最好提前预订或在开门时就到场。
 faq:
   - q: 没有车怎么去Steki？

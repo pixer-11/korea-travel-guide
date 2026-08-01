@@ -1,6 +1,6 @@
 ---
 title: 'Chatuchak Weekend Market: Bangkok Travel Guide'
-description: Chatuchak Weekend Market (locally \"JJ Market\") sprawls across 27 sections and over 15,000 stalls in northern Bangkok, open mainly Saturday and Sunday
+description: Chatuchak Weekend Market (locally "JJ Market") sprawls across 27 sections and over 15,000 stalls in northern Bangkok, open mainly Saturday and Sunday, roughly 9am–6pm.
 country: Thailand
 region: Bangkok
 category: hidden-gem

@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: damyang-bamboo-forest
+srcHash: 12ff19954182
 title: Bosque de bambú en Damyang
 description: 'Juknokwon (죽녹원), en Damyang, es el bosque de bambú más famoso de Corea del Sur: un parque de unas 16 hectáreas con ocho senderos temáticos entre imponentes bambúes moso.'
 quickAnswer: 'Juknokwon (죽녹원), en Damyang, es el bosque de bambú más famoso de Corea del Sur: un parque de unas 16 hectáreas con ocho senderos temáticos entre imponentes bambúes moso, a unos 10-15 minutos a pie de la terminal de autobuses interurbanos de Damyang. Calcula entre 1,5 y 2 horas de visita, usa calzado adecuado para caminos de tierra compacta y combínalo con la cercana Carretera de los Metasequoias y el parque ribereño de Gwanbangjerim para una excursión de medio día completa desde Gwangju.'

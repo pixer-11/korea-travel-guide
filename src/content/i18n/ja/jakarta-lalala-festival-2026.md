@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: jakarta-lalala-festival-2026
+srcHash: 9485a9224f94
 title: LaLaLaフェスティバル2026:知っておきたいこと(ジャカルタ)
 description: LaLaLaフェスティバル2026は2026年8月22〜23日、中部ジャカルタのクマヨラン(Kemayoran)にあるジャカルタ国際展示場(Jakarta International Expo、JIExpo)で開催され、Steve Lacy、Two Door Cinema Clubらがヘッドライナーを務めます。
 quickAnswer: LaLaLaフェスティバル2026は2026年8月22〜23日、中部ジャカルタのクマヨラン(Kemayoran)にあるジャカルタ国際展示場(Jakarta International Expo、JIExpo)で開催され、Steve Lacy、Two Door Cinema Club、Kodaline、The Flaming Lips、Rex Orange County、Honne、Floがヘッドライナーを務めます。JIExpoにはMRT/LRTの直通駅がないため、公共交通機関に頼るよりも配車サービス(Grab/Gojek)を予約するのがおすすめです。チケット、出演時間、ゲート情報については、価格がまだ確定していないため、LaLaLaの公式チャンネルで必ず確認してください。

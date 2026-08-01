@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: pasay-city-honne-10th-anniversary-tour
+srcHash: 8ec2a8d57db4
 title: HONNE十周年巡演须知(帕赛市)
 description: HONNE十周年世界巡演将于2026年8月10日至12日在菲律宾帕赛市举行——演出内容、时间地点，以及行程规划建议。
 quickAnswer: 英国双人组合HONNE将把他们的十周年世界巡演带到马尼拉,连续演出三晚,时间为2026年8月10日至12日,地点在帕赛市(Pasay City)的菲律宾国际会议中心(Philippine International Convention Center, PICC)全体大会堂(Plenary Hall)。目前掌握的资料中尚未公布售票详情、演出时间及开场嘉宾等信息,因此在预订机票和酒店之前,请务必通过HONNE官方渠道以及菲律宾官方主办方/售票平台核实所有具体信息——包括日期、开场时间和票价档次。

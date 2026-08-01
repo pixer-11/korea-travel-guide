@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: shenzhen-billie-jean-king-cup-finals
+srcHash: c87dc9ff9696
 title: 'Finales de la Billie Jean King Cup: lo que hay que saber (Shenzhen)'
 description: Finales de la Billie Jean King Cup en Shenzhen, China — del 22 al 27 de septiembre de 2026. Qué es, cuándo y dónde se celebra, y cómo organizar el viaje.
 quickAnswer: Las Finales de la Billie Jean King Cup —la máxima competición internacional por equipos del tenis femenino— están previstas en Shenzhen, China, del 22 al 27 de septiembre de 2026. Considera esta fecha como provisional hasta que se confirme en la web oficial de la Billie Jean King Cup / ITF, ya que aún no se han cerrado públicamente la sede, los horarios de las sesiones ni los detalles de venta de entradas para la edición de 2026. Si quieres ver tanto los partidos de la fase de grupos como las rondas eliminatorias, calcula estar en Shenzhen al menos dos o tres días.

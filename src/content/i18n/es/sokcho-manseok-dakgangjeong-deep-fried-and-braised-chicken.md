@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: sokcho-manseok-dakgangjeong-deep-fried-and-braised-chicken
+srcHash: 8615441a56bc
 title: 'Manseok Dakgangjeong (pollo frito y glaseado): Dónde comer en Sokcho'
 description: Manseok Dakgangjeong es toda una institución en Sokcho para probar el dakgangjeong —trozos de pollo frito bañados en un glaseado dulce, picante y con ajo— y se encuentra cerca de la zona del lago Cheongchoho de Sokcho.
 quickAnswer: Manseok Dakgangjeong es toda una institución en Sokcho para probar el dakgangjeong —trozos de pollo frito bañados en un glaseado dulce, picante y con ajo— y se encuentra cerca de la zona del lago Cheongchoho (Cheongchoho) de Sokcho. Es un lugar informal, de precio moderado (nivel de precio 2) y con una valoración de alrededor de 4.0 sobre más de 2.300 reseñas, así que hay que contar con esperar en las horas de mayor afluencia. Pide una ración entera para compartir, opta por "mitad picante, mitad original" si no te decides, y acompáñalo con arroz o disfrútalo como anju (comida para acompañar bebidas) con una cerveza bien fría.

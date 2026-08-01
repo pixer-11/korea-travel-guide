@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: ha-long-bay-la-luna-coffee-ha-long
+srcHash: 3e181d5454aa
 title: ラ・ルナ コーヒー ハロン(La Luna Coffee Hạ Long):ハロン湾旅行ガイド
 description: ラ・ルナ コーヒー ハロン(La Luna Coffee Hạ Long)は、バイチャイ(Bãi Cháy)のハロン通り(Hạ Long street)にある大型の多層階カフェで、大きなガラス壁とテラス席から湾の景色を楽しめる造りが特徴です。
 quickAnswer: ラ・ルナ コーヒー ハロン(La Luna Coffee Hạ Long)は、バイチャイ(Bãi Cháy)のハロン通り(Hạ Long street)にある大型の多層階カフェで、大きなガラス壁とテラス席を活かして湾の景色を楽しめる造りになっています。歴史的な観光名所というより、写真撮影やアイスコーヒー、ゆったりとした時間を過ごすためのスポットです。日没前の夕方遅めの時間に訪れるのがおすすめで、週末は混雑が予想されます。バイチャイ(Bãi Cháy)のウォーターフロント沿いの散策や、近くのケーブルカーとあわせて訪れるのがおすすめです。

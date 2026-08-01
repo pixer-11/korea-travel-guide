@@ -1,6 +1,6 @@
 ---
 title: 'Myeongdong Shopping Street: Seoul Travel Guide'
-description: Myeongdong is Seoul's biggest street-level shopping and street-food district, packed into a compact grid a few minutes from Euljiro or Myeongdong subway
+description: Myeongdong is Seoul's biggest street-level shopping and street-food district, packed into a compact grid a few minutes from Euljiro or Myeongdong subway stations.
 country: South Korea
 region: Seoul
 category: hidden-gem

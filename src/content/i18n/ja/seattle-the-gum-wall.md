@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: seattle-the-gum-wall
+srcHash: 060a2eb7f67b
 title: ガムウォール:シアトル旅行ガイド
 description: ガムウォールは、パイク・プレイス・マーケット(Pike Place Market)の下、マーケット・シアター(Market Theater)からすぐ坂を下ったポスト・アレイ(Post Alley)にある、ガムだらけのレンガ壁です。
 quickAnswer: ガムウォールは、パイク・プレイス・マーケット(Pike Place Market)の下、マーケット・シアター(Market Theater)からすぐ坂を下ったポスト・アレイ(Post Alley)にある、ガムだらけのレンガ壁です。無料で見学でき、所要時間は10~15分程度。ツアー団体やクルーズ船の観光客が押し寄せる前の、開場直後(朝9時頃)に訪れるのがベストです。自分のガムを貼り足したいなら持参しておきましょう。近くで見ると、甘くて少し酸っぱい独特の匂いが漂っています。

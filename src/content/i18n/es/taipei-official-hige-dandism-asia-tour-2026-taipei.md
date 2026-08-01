@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: taipei-official-hige-dandism-asia-tour-2026-taipei
+srcHash: 68e94400fd65
 title: 'Official HIGE DANDism Asia Tour 2026 – Taipéi: lo que debes saber (Taipéi)'
 description: Official HIGE DANDism Asia Tour 2026 – Taipéi, en Taipéi, Taiwán — 29 y 30 de agosto de 2026. Qué es, cuándo y dónde, y cómo organizar tu viaje.
 quickAnswer: Official HIGE DANDism, el quinteto japonés de pop-rock detrás de éxitos como "Pretender" y "Cry Baby," se presentará durante dos noches en Taipei Dome los días 29 y 30 de agosto de 2026, como parte de su Asia Tour 2026, con los temas inéditos "Stardust" y "Elderflower" que se espera estrenen en vivo. La venta de entradas, los horarios exactos de apertura de puertas/inicio del show y los mapas de asientos aún no están confirmados en esta guía — verifica todo en el sitio oficial de la banda y en la plataforma oficial de venta de entradas de Taiwán antes de reservar vuelos u hoteles.

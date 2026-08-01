@@ -1,8 +1,9 @@
 ---
 lang: ja
 slug: shanghai-vice
+srcHash: c9a1282e7cc9
 title: 上海のVICE(ヴァイス)
-description: VICEは、上海のかつてのフランス租界(French Concession)にある永嘉路(Yongjia Lu)に、歴史ある里弄住宅を改装して誕生した新しいレストラン。シェフのカルロス・ソトマイヨール(Carlos Sotomayor)と
+description: VICEは、上海のかつてのフランス租界(French Concession)にある永嘉路(Yongjia Lu)に、歴史ある里弄住宅を改装して誕生した新しいレストラン。
 quickAnswer: VICEは、上海のかつてのフランス租界(French Concession)にある永嘉路(Yongjia Lu)に、歴史ある里弄住宅を改装して誕生した新しいレストラン。シェフのカルロス・ソトマイヨール(Carlos Sotomayor)と、Cantina Agaveのラフェ・イブラハミアン(Raffe Ibrahamian)による手がけです。ソトマイヨールのペルー(Peru)にルーツを持つ料理とアジアの影響を融合させ、グローバルな視点を持つメニューに仕上げており、上海のダイニングシーンを巡る人にとって特に話題の新規オープン店のひとつとなっています。オープンしたばかりで注目を集めているため、事前予約と最新の営業時間の確認をおすすめします。
 faq:
   - q: VICEは正確にはどこにありますか?

@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: hyderabad-chowmahalla-palace
+srcHash: 199209fa2e0e
 title: 'Palacio de Chowmahalla: Guía de Viaje de Hyderabad'
-description: El Palacio de Chowmahalla, antigua sede del poder de los Nizams cerca de Charminar, en el casco antiguo de Hyderabad, se disfruta mejor una mañana de entre semana justo a la apertura para evitar las
+description: El Palacio de Chowmahalla, antigua sede del poder de los Nizams cerca de Charminar, en el casco antiguo de Hyderabad, se disfruta mejor una mañana de entre semana justo a la apertura, para evitar las multitudes de autobuses turísticos y el calor del mediodía.
 quickAnswer: El Palacio de Chowmahalla, antigua sede del poder de los Nizams cerca de Charminar, en el casco antiguo de Hyderabad, se disfruta mejor una mañana de entre semana justo a la apertura, para evitar las multitudes de autobuses turísticos y el calor del mediodía. Reserva unas dos horas para recorrer los cuatro patios, la sala de audiencias Khilwat Mubarak y la colección de coches antiguos, y ve en autorickshaw o caminando desde Charminar/Laad Bazaar en lugar de intentar ir en coche. Es un sitio patrimonial muy visitado y de entrada con ticket, no un hallazgo escondido, así que elegir bien el momento de la visita importa más que encontrarlo.
 faq:
   - q: ¿Cómo se llega al Palacio de Chowmahalla?

@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: paris-shwi
+srcHash: bc85219a5dfa
 title: Shwi 巴黎店
 description: Shwi 是 Kubri 团队打造的黎巴嫩烤鸡快餐柜台,坐落在巴黎第10区的圣马丁运河（Canal Saint-Martin）沿岸。
 quickAnswer: Shwi 是 Kubri 团队打造的黎巴嫩烤鸡快餐柜台,坐落在巴黎第10区的圣马丁运河（Canal Saint-Martin）沿岸。它于2026年春开业,很快就成为运河边午餐和外带的热门去处。建议工作日前往,排队时间会更短一些;由于这里开业不久,细节可能会有变动,出发前最好先确认好当前的营业时间。

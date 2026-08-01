@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: chicago-navy-pier
+srcHash: 5735986a691f
 title: 'Navy Pier: Guía de viaje de Chicago'
 description: Navy Pier es el muelle de casi dos kilómetros a orillas del lago de Chicago, repleto de la Centennial Wheel, un museo de vitrales, jardines, restaurantes y fuegos artificiales en verano.
 quickAnswer: Navy Pier es el muelle de casi dos kilómetros a orillas del lago de Chicago, repleto de la Centennial Wheel, un museo de vitrales, jardines, restaurantes y fuegos artificiales en verano. Abre todos los días (de 11am a 8pm la mayoría de los días entre semana, hasta más tarde de viernes a domingo); llega justo a la apertura, a las 11am, o después de las 6pm en un día entre semana para evitar las peores multitudes. Calcula entre 2 y 4 horas, más si vas a ver los fuegos artificiales o a hacer un paseo en barco.

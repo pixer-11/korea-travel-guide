@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: singapore-milli
+srcHash: 95b9ea05b6fa
 title: 'Milli: Guía de viaje de Singapur'
 description: 'Milli en Singapur, Singapur — un lugar nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Milli es un restaurante, bar y lounge en la azotea de dos pisos ubicado sobre el National Gallery Singapore, en el Civic District, que ofrece vistas panorámicas del Padang, Marina Bay y el perfil urbano de la época colonial. Abrió a finales de mayo de 2026 y ya es una de las reservas más codiciadas de la ciudad, así que conviene reservar con antelación y confirmar el horario vigente antes de ir. Espera un público más elegante, tragos centrados en la coctelería y, si llegas a la hora dorada, la mejor luz sobre el skyline.

@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: bangkok-the-grand-palace
+srcHash: 9d775a8f9ea3
 title: 'El Gran Palacio: Guía de viaje de Bangkok'
 description: Reserva medio día, llega a las 8:30am cuando abren las puertas a las 8:30 y el calor y las multitudes son menores, y vístete con ropa que cubra completamente hombros y rodillas.
 quickAnswer: Reserva medio día, llega a las 8:30am cuando abren las puertas a las 8:30 y el calor y las multitudes son menores, y vístete con ropa que cubra completamente hombros y rodillas (hay alquiler/préstamo disponible en la puerta, pero traer la tuya ahorra tiempo). El Gran Palacio y su atracción estrella, Wat Phra Kaew (Templo del Buda de Esmeralda), se encuentran juntos en la Ciudad Vieja de Bangkok, cerca del río Chao Phraya, y una entrada normalmente también incluye acceso a algunos museos reales cercanos.

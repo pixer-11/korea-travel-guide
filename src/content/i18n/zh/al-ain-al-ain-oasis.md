@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: al-ain-al-ain-oasis
+srcHash: 8826ffe76fb3
 title: 阿尔艾因绿洲(Al Ain Oasis)旅行指南
 description: 阿尔艾因绿洲是阿尔艾因市中心一处占地1,200公顷、免费开放的活态椰枣种植园,林荫步道与传统法拉吉(falaj)灌溉渠道纵横交错。
 quickAnswer: 阿尔艾因绿洲是阿尔艾因市中心一处占地1,200公顷、免费开放的活态椰枣种植园,林荫步道与传统法拉吉(falaj)灌溉渠道纵横交错。可从阿尔艾因国家博物馆(Al Ain National Museum)和杰希利堡(Al Jahili Fort)附近的生态中心(Eco-Centre)入口进入,建议安排1-2小时游览,清晨或日落前是最佳时间,此时暑热和人流都会有所缓解。这里也很适合与半日游线路搭配,一并游览杰希利堡和穆瓦吉宫(Qasr Al Muwaiji)。

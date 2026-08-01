@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: granada-mirador-de-san-nicolas
+srcHash: 95142c48a009
 title: 'Mirador de San Nicolás: Guía de viaje de Granada'
 description: 'El Mirador de San Nicolás es la plaza del Albaicín con la vista postal por excelencia de Granada: las murallas de la Alhambra recortadas contra Sierra Nevada.'
 quickAnswer: 'El Mirador de San Nicolás es la plaza del Albaicín con la vista postal por excelencia de Granada: las murallas de la Alhambra recortadas contra Sierra Nevada. Está abierto todo el día, todos los días, pero conviene ir entre las 7:00 y las 10:00 si quieres tener la terraza para ti solo — de mediodía a casi medianoche los fines de semana está a rebosar. El atardecer es mágico, pero también el momento de mayor afluencia con diferencia, así que llega al menos 45–60 minutos antes para hacerte con un sitio junto a la balaustrada.'

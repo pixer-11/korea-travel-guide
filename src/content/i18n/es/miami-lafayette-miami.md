@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: miami-lafayette-miami
+srcHash: ec051644f505
 title: 'Lafayette: dónde comer en Miami'
 description: Lafayette Miami es un local pequeño y muy bien valorado en 1111 SW 1st Ave, en la zona de Brickell/Roads, justo al oeste del río Miami — un sitio con el que los locales se topan más que una parada turística.
 quickAnswer: Lafayette Miami es un local pequeño y muy bien valorado en 1111 SW 1st Ave, en la zona de Brickell/Roads, justo al oeste del río Miami (Miami River) — un sitio con el que los locales se topan más que una parada turística obligada. Con una calificación de 4.9 basada en más de 800 reseñas, rinde muy por encima de lo que su tamaño sugiere; ve entre semana o al principio de la noche para conseguir mesa sin espera, y espera un menú compacto y de autor en lugar de uno extenso.

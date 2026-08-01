@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: paju-heyri-art-village
+srcHash: 020d7b1ba0b1
 title: Heyri Art Village en Paju
 description: Heyri Art Village es un distrito cultural construido desde cero en Paju, a unos 40–50 minutos al norte del centro de Seúl, repleto de pequeños museos, galerías y librerías.
 quickAnswer: Heyri Art Village es un distrito cultural construido desde cero en Paju, a unos 40–50 minutos al norte del centro de Seúl, repleto de pequeños museos, galerías, librerías y edificios de autor pensados para recorrerse a pie en unas 3–4 horas. Combina bien con una visita a la cercana Paju Book City o a la zona de Imjingak/DMZ, ya que las tres se encuentran a lo largo de la misma carretera al norte de Seúl. Ve una mañana entre semana si quieres encontrar los callejones tranquilos, y comprueba qué galerías están abiertas antes de ir, ya que algunos espacios más pequeños rotan sus exposiciones o cierran los lunes.

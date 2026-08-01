@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: hanoi-hanoi-old-quarter
+srcHash: 2551b7a49c6a
 title: 'Casco Antiguo de Hanói: Guía de viaje'
-description: El Casco Antiguo de Hanói (Hanoi Old Quarter) es el entramado de 36 antiguas calles gremiales justo al norte del lago Hoan Kiem — ven a recorrer las calles "Hang" (cada una llamada antes según el oficio
+description: El Casco Antiguo de Hanói (Hanoi Old Quarter) es el entramado de 36 antiguas calles gremiales justo al norte del lago Hoan Kiem — ven a recorrer las calles "Hang" (cada una llamada antes según el oficio que vendía), comer en los puestos callejeros y curiosear en el mercado nocturno de fin de semana.
 quickAnswer: El Casco Antiguo de Hanói (Hanoi Old Quarter) es el entramado de 36 antiguas calles gremiales justo al norte del lago Hoan Kiem — ven a recorrer las calles "Hang" (cada una llamada antes según el oficio que vendía), comer en los puestos callejeros y curiosear en el mercado nocturno de fin de semana. Aloja tu base cerca de Hang Bac o Ma May, reserva desde medio día hasta una noche completa, y ve entre viernes y domingo por la noche para vivir el mercado peatonal en pleno apogeo.
 faq:
   - q: ¿Cómo llego al Casco Antiguo desde el centro de Hanói?

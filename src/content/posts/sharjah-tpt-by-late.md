@@ -1,6 +1,6 @@
 ---
 title: 'TPT by Late: Sharjah Travel Guide'
-description: TPT by Late is a high-rated, high-volume café in the Misk community of Muwaileh Commercial, Sharjah — go on a weekday morning or early afternoon to avoid the
+description: TPT by Late is a high-rated, high-volume café in the Misk community of Muwaileh Commercial, Sharjah — go on a weekday morning or early afternoon to avoid the evening crush, order at the counter, and expect a modern all-day menu of coffee, brunch plates, and desserts.
 country: United Arab Emirates
 region: Sharjah
 category: trendy

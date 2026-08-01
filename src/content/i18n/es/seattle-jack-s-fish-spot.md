@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: seattle-jack-s-fish-spot
+srcHash: 6429862c8b5e
 title: 'Jack''s Fish Spot: dónde comer en Seattle'
-description: Jack's Fish Spot es un mostrador de mariscos sin pretensiones dentro de Pike Place Market, ideal para un tazón rápido de chowder, un cóctel de cangrejo o una ostra fresca al vaso
+description: Jack's Fish Spot es un mostrador de mariscos sin pretensiones dentro de Pike Place Market, ideal para un tazón rápido de chowder, un cóctel de cangrejo o una ostra fresca al vaso comida de pie junto a la barra de mármol.
 quickAnswer: Jack's Fish Spot es un mostrador de mariscos sin pretensiones dentro de Pike Place Market, ideal para un tazón rápido de chowder, un cóctel de cangrejo o una ostra fresca al vaso comida de pie junto a la barra de mármol. Abre todos los días (7:30–18:00 la mayoría de los días, 8:00–17:00 los domingos); conviene ir justo a la apertura entre semana para evitar las multitudes, ya que entre las 11:00 y las 16:00 los fines de semana la fila se extiende hasta el pasillo del mercado.
 faq:
   - q: ¿Cuál es el mejor momento para visitar Jack's Fish Spot?

@@ -1,6 +1,6 @@
 ---
 title: "Uffizi Galleries: Florence Travel Guide"
-description: "Book a timed-entry ticket online well in advance, arrive at your slot rather than early, and head straight for the Botticelli rooms before the mid-morning"
+description: Book a timed-entry ticket online well in advance, arrive at your slot rather than early, and head straight for the Botticelli rooms before the mid-morning crush arrives.
 country: "Italy"
 region: "Florence"
 category: "attraction"

@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: seoul-stray-kids-concert
+srcHash: 59271beac30c
 title: 'Concierto de Stray Kids: lo que debes saber (Seúl)'
 description: Concierto de Stray Kids en Seúl, Corea del Sur — 1 y 2 de agosto de 2026. Qué es, cuándo y dónde es, y cómo organizarte para asistir.
 quickAnswer: Stray Kids tienen previsto actuar en el KSPO Dome, en el Parque Olímpico de Seúl (Olympic Park), los días 1 y 2 de agosto de 2026, como parte de su gira de verano. La venta de entradas, los horarios exactos y cualquier detalle sobre el lineup o los actos teloneros aún no están confirmados oficialmente con tanta antelación, así que trata esta fecha como el anuncio actual y confirma todo —cambios de recinto, ventanas de venta de entradas, horarios de entrada— en los canales oficiales de Stray Kids y de JYP Entertainment antes de reservar vuelos.

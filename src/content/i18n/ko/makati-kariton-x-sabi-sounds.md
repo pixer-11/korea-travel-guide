@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: makati-kariton-x-sabi-sounds
+srcHash: d5b9a9d0e41b
 title: '카리톤 x 사비 사운즈: 마카티 여행 가이드'
 description: 필리핀 마카티(Makati)에 새로 생긴 화제의 스팟, 카리톤 x 사비 사운즈(Kariton x Sabi Sounds) — 어떤 곳인지, 어디에 있는지, 어떻게 방문하는지 안내합니다.
 quickAnswer: 카리톤 x 사비 사운즈(Kariton x Sabi Sounds)는 마카티 살세도 빌리지(Salcedo Village)에 새로 문을 연 올데이 카페 겸 젤라테리아, 리스닝 바로, 에르완 회사프(Erwan Heussaff)의 카리톤(Kariton) 젤라토와 멜버른에서 건너온 사비 사운즈(Sabi Sounds)의 바이닐-칵테일 콘셉트를 한자리에서 만날 수 있는 곳이다. 아침 커피 시간부터 늦은 밤 레코드 타임까지 이어지므로, 조용히 에스프레소와 젤라토를 즐기고 싶다면 이른 시간에, 턴테이블과 스몰 플레이트가 주인공이 되는 분위기를 원한다면 해가 진 뒤에 가보는 것이 좋다. 워낙 새로 오픈한 곳이라 운영 시간이나 예약 필요 여부가 아직 조정 중일 수 있으니, 방문 전 최신 정보를 확인하는 것이 좋다.

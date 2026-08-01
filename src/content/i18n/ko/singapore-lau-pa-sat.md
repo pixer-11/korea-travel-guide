@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: singapore-lau-pa-sat
+srcHash: d3a91392b999
 title: '라우파삿(Lau Pa Sat): 싱가포르 맛집 탐방'
 description: 라우파삿은 CBD 18 Raffles Quay에 위치한 팔각형 주철 구조의 빅토리아식 마켓으로, 래플스 플레이스(Raffles Place) MRT역(G번 또는 H번 출구)이나 다운타운(Downtown) MRT역에서 도보 5분 거리에 있습니다.
 quickAnswer: 라우파삿은 CBD 18 Raffles Quay에 위치한 팔각형 주철 구조의 빅토리아식 마켓으로, 래플스 플레이스(Raffles Place) MRT역(G번 또는 H번 출구)이나 다운타운(Downtown) MRT역(A번 출구)에서 도보 5분 거리에 있습니다. 직장인들로 붐비기 전인 평일 정오 이전에 점심을 즐기러 가거나, 밤 9시 이후 분탓 스트리트(Boon Tat Street)가 차량 통제되어 노천 사테이 거리로 변신하는 시간에 방문해 보세요. 대부분의 매장은 현금이나 페이나우(PayNow)/모바일 QR 결제를 받으며, 제대로 식사하려면 45~75분 정도 여유를 두는 것이 좋습니다.

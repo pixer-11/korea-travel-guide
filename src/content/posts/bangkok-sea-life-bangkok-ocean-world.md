@@ -1,6 +1,6 @@
 ---
 title: 'SEA LIFE Bangkok Ocean World: Travel Guide'
-description: SEA LIFE Bangkok Ocean World sits in the basement (B1-B2) of Siam Paragon mall, right above BTS Siam station, making it one of the easiest major attractions
+description: SEA LIFE Bangkok Ocean World sits in the basement (B1-B2) of Siam Paragon mall, right above BTS Siam station, making it one of the easiest major attractions in Bangkok to reach.
 country: Thailand
 region: Bangkok
 category: attraction

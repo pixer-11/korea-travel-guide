@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: granada-mirador-de-san-nicolas
+srcHash: 95142c48a009
 title: 圣尼古拉斯观景台(Mirador de San Nicolás):格拉纳达旅行指南
 description: 圣尼古拉斯观景台位于阿尔拜辛区(Albaicín),是格拉纳达最经典的明信片景观所在地:阿尔罕布拉宫(Alhambra)的城墙层叠映衬着内华达山脉(Sierra Nevada)。
 quickAnswer: 圣尼古拉斯观景台是阿尔拜辛区(Albaicín)的一处广场,这里有格拉纳达最经典的明信片景观:阿尔罕布拉宫(Alhambra)的城墙层叠映衬着内华达山脉(Sierra Nevada)。这里全天开放,全年无休,但如果想独享这片露台,建议在早上7点到10点之间前往——周末从中午到将近午夜,这里都是人挤人。日落时分景色最为迷人,但也是这里全天人最多、最拥挤的时刻,所以最好提前45到60分钟到场,占据靠墙的好位置。

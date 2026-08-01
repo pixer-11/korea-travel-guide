@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: istanbul-sankai-by-nagaya
+srcHash: ee7c1d1d1186
 title: '산카이 바이 나가야(Sankai by Nagaya): 이스탄불 여행 가이드'
 description: 튀르키예 이스탄불의 새롭게 떠오르는 스팟, 산카이 바이 나가야(Sankai by Nagaya) — 어떤 곳인지, 어디에 있는지, 어떻게 방문하는지 안내합니다.
 quickAnswer: 산카이 바이 나가야(Sankai by Nagaya)는 이스탄불 보스포루스(Bosphorus) 연안 베벡(Bebek) 지역에 위치한 베벡 호텔 바이 더 스테이(Bebek Hotel by The Stay) 안에 자리한 일본식 오마카세 카운터로, 미쉐린 스타 셰프 요시즈미 나가야(Yoshizumi Nagaya)가 운영합니다. 즉흥적으로 들를 수 있는 곳이라기보다는 정교하게 짜인 소규모 다이닝 경험에 가까우니, 미리 예약하고 현재 영업시간과 좌석 운영 시간을 방문 전 호텔에 직접 확인하는 것이 좋습니다. 이 콘셉트가 자리를 잡아가는 과정이라 세부 사항이 계속 바뀔 수 있기 때문입니다.

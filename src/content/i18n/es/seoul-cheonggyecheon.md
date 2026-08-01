@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: seoul-cheonggyecheon
+srcHash: 30e68ec5ccf5
 title: 'Cheonggyecheon: Guía de viaje de Seúl'
 description: Cheonggyecheon es el arroyo restaurado y hundido que atraviesa el centro de Seúl desde Gwanghwamun hasta Dongdaemun, un paseo al aire libre y gratuito bordeado de sauces.
 quickAnswer: 'Cheonggyecheon es el arroyo restaurado y hundido que atraviesa el centro de Seúl desde Gwanghwamun hasta Dongdaemun: un paseo al aire libre y gratuito, bordeado de sauces, pasos de piedra y arte público, ideal para un paseo de una hora más que para dedicarle todo el día. Empieza en la Plaza Cheonggye (Cheonggye Plaza, cerca de la estación Gwanghwamun, Línea 5, Salida 5) y camina hacia el este en dirección a Dongdaemun; ve temprano por la mañana o después del anochecer entre semana para evitar las multitudes que se acumulan las tardes de fin de semana.'

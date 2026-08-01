@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: singapore-lau-pa-sat
+srcHash: d3a91392b999
 title: 'Lau Pa Sat: dónde comer en Singapur'
 description: Lau Pa Sat es el mercado victoriano octogonal de hierro fundido en 18 Raffles Quay, en el CBD, a cinco minutos a pie de la estación MRT Raffles Place (salidas G o H) o Downtown.
 quickAnswer: Lau Pa Sat es el mercado victoriano octogonal de hierro fundido en 18 Raffles Quay, en el CBD, a cinco minutos a pie de la estación MRT Raffles Place (salidas G o H) o de la estación MRT Downtown (salida A). Ve a almorzar entre semana antes del mediodía para evitar a la multitud de oficinistas, o después de las 9pm, cuando Boon Tat Street cierra al tráfico y se convierte en una calle de satay al aire libre. Ten en cuenta que la mayoría de los puestos aceptan efectivo o PayNow/código QR móvil, y calcula entre 45 y 75 minutos para comer con calma.

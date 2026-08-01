@@ -1,6 +1,6 @@
 ---
 title: "Golden Gate Bridge: San Francisco Travel Guide"
-description: "Walk or bike the Golden Gate Bridge from the free Welcome Center on the San Francisco (southeast) side — the 1.7-mile sidewalk crossing to Marin's Vista"
+description: Walk or bike the Golden Gate Bridge from the free Welcome Center on the San Francisco (southeast) side — the 1.7-mile sidewalk crossing to Marin's Vista Point takes about 45-60 minutes each way on foot, or roughly 20-30 minutes by bike one-way.
 country: "United States"
 region: "San Francisco"
 category: "attraction"

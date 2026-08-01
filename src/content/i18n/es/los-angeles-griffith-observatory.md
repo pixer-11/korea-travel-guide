@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: los-angeles-griffith-observatory
+srcHash: 661aff5fbec5
 title: 'Observatorio Griffith: Guía de viaje de Los Ángeles'
-description: El Observatorio Griffith (Griffith Observatory), situado en la ladera sur del monte Hollywood en Griffith Park, tiene entrada gratuita y abre de miércoles a domingo por la tarde hasta la
+description: El Observatorio Griffith (Griffith Observatory), situado en la ladera sur del monte Hollywood en Griffith Park, tiene entrada gratuita y abre de miércoles a domingo por la tarde hasta la noche (cerrado lunes y martes); lo único que se paga es la función del planetario y el estacionamiento.
 quickAnswer: El Observatorio Griffith (Griffith Observatory), situado en la ladera sur del monte Hollywood en Griffith Park, tiene entrada gratuita y abre de miércoles a domingo por la tarde hasta la noche (cerrado lunes y martes); lo único que se paga es la función del planetario y el estacionamiento. Ve cerca de la puesta de sol para disfrutar de la mejor combinación de vistas del horizonte, el letrero de Hollywood y observación con telescopio después del anochecer, y calcula entre 2 y 3 horas, incluyendo la subida caminando y la espera para estacionar.
 faq:
   - q: ¿La entrada al Observatorio Griffith es gratuita?

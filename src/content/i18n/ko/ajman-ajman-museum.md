@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: ajman-ajman-museum
+srcHash: e335e3936c80
 title: 아지만 박물관(Ajman Museum) 여행 가이드
 description: 아지만 박물관(Ajman Museum)은 코르니쉬(Corniche) 인근 알 부스탄(Al Bustan) 지역에 복원된 18세기 아지만 요새(Ajman Fort) 건물에 자리하고 있으며, 진주 무역 유물을 비롯한 볼거리를 둘러보는 데 45~60분이면 충분합니다.
 quickAnswer: 아지만 박물관(Ajman Museum)은 코르니쉬(Corniche) 인근 알 부스탄(Al Bustan) 지역에 복원된 18세기 아지만 요새(Ajman Fort) 건물에 자리하고 있으며, 진주 무역 유물, 전통 무기, 그리고 재현된 수크(souq)와 마즐리스(majlis) 방을 둘러보는 데 45~60분이면 충분합니다. 단체 관광객과 수학여행 인파를 피하려면 평일 오전에 방문하고, 관람 후에는 아지만 해변 산책을 함께 즐기는 것이 좋습니다. 두바이나 샤르자를 여행 중이라면 차로 20~30분 거리에 있어 손쉽게 일정에 더할 수 있는 잘 알려진 명소입니다.

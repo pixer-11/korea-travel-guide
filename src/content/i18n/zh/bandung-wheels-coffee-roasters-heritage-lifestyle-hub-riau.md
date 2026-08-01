@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: bandung-wheels-coffee-roasters-heritage-lifestyle-hub-riau
+srcHash: 1a79fe1d7fb8
 title: Wheels Coffee Roasters Heritage Lifestyle Hub（Riau路）：万隆旅行指南
 description: Wheels Coffee Roasters 的 Heritage Lifestyle Hub 位于万隆 Riau 路，是一家由荷兰殖民时期建筑改造而成的咖啡馆。
 quickAnswer: Wheels Coffee Roasters 的 Heritage Lifestyle Hub 坐落于万隆万丹区（Bandung Wetan）的 Jl. Riau（官方名称为 Jl. L.L.R.E. Martadinata No. 65），坐落在一栋修复的荷兰殖民时期建筑内——是万隆评价最多的咖啡馆之一（评分4.9，超过18,000条评价）。建议工作日上午前往，才能真正抢到座位；在柜台点单，预留1-1.5小时的时间，才能在不被周末人潮挤压的情况下，好好享受咖啡、美食与历史建筑。

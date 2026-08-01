@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: chiang-mai-garden-to-table-chiangmai
+srcHash: 815d1f2e38b6
 title: Garden to Table Chiangmai：清迈美食指南
 description: Garden to Table Chiangmai 是一家位于古城内 Ratchapakhinai 路上的休闲绿植餐厅，以新鲜的泰式及北部（兰纳）菜肴和亲民的街边小吃价位著称。
 quickAnswer: Garden to Table Chiangmai 是一家位于古城城墙内 Ratchapakhinai 路（Ratchapakhinai Road）上的休闲绿植餐厅，以新鲜的泰式及北部（兰纳）菜肴、街边小吃般亲民的价格而广受好评。从这里步行到帕辛寺（Wat Phra Singh）和塔佩门（Thapae Gate）都很近，可以把用餐和逛寺庙安排在一起。建议开门时（下午2点）或早一点吃晚饭时前往，否则可能要排队，因为它凭借近2000条评论、4.9分的高评分，成为附近人气最旺的餐厅之一。请注意，餐厅周日休息。

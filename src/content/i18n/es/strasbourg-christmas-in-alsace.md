@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: strasbourg-christmas-in-alsace
+srcHash: 3b6304bf6ed9
 title: Navidad en Alsacia
-description: El Mercado de Navidad de Estrasburgo (Marché de Noël) se celebra desde finales de noviembre hasta el 24-31 de diciembre, repartido por una decena de plazas del centro de la ciudad, con Place
+description: El Mercado de Navidad de Estrasburgo (Marché de Noël) se celebra desde finales de noviembre hasta el 24-31 de diciembre, repartido por una decena de plazas del centro de la ciudad, con el gran árbol de Place Kléber y la Place de la Cathédrale como puntos de referencia principales.
 quickAnswer: El Mercado de Navidad de Estrasburgo (Marché de Noël) se celebra desde finales de noviembre hasta el 24-31 de diciembre, repartido por una decena de plazas del centro de la ciudad, con el gran árbol de Place Kléber y la Place de la Cathédrale como puntos de referencia principales. Dedícale un día completo, llega a última hora de la tarde para ver cómo se encienden las luces, y reserva alojamiento con antelación, ya que se trata de uno de los mercados navideños más antiguos y concurridos de Europa. La tienda "Christmas in Alsace", en 10 Rue des Dentelles, cerca de la catedral, es una buena parada durante todo el año para adornos y regalos alsacianos si visitas la ciudad fuera de la temporada del mercado.
 faq:
   - q: ¿Cuándo se celebra exactamente el mercado navideño de Estrasburgo?

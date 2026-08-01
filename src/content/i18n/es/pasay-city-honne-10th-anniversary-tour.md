@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: pasay-city-honne-10th-anniversary-tour
+srcHash: 8ec2a8d57db4
 title: 'Gira del 10.º aniversario de HONNE: lo que debes saber (Pasay City)'
 description: Gira del 10.º aniversario de HONNE en Pasay City, Filipinas — 10 al 12 de agosto de 2026. Qué es, cuándo y dónde, y cómo organizar tu viaje.
 quickAnswer: El dúo británico HONNE trae su gira mundial del 10.º aniversario a Manila durante tres noches, del 10 al 12 de agosto de 2026, en el Philippine International Convention Center (PICC) Plenary Hall, en Pasay City. La venta de entradas, los horarios de las presentaciones y los artistas teloneros aún no se han detallado en la información disponible, así que confirma todos los detalles —fechas, apertura de puertas y niveles de precio— en los canales oficiales de HONNE y en el promotor/plataforma de venta de entradas oficial en Filipinas antes de reservar vuelos u hoteles.

@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: ras-al-khaimah-m14-cafe
+srcHash: 14657ba79324
 title: M14 Cafe：拉斯海玛旅行指南
 description: M14 Cafe 是一家氛围悠闲的精品咖啡馆，坐落在拉斯海玛塞赫阿拉伊比（Seih Al Araibi）谢赫胡马伊德·阿勒穆罕默德·卡西米路（Sheikh Humaid Al Mohammad Al Qasimi Road）上，紧邻新商城（New Mall），值得专程一去。
 quickAnswer: M14 Cafe 是一家氛围悠闲的精品咖啡馆，坐落在拉斯海玛塞赫阿拉伊比（Seih Al Araibi）谢赫胡马伊德·阿勒穆罕默德·卡西米路（Sheikh Humaid Al Mohammad Al Qasimi Road）上，紧邻新商城（New Mall）——如果你想喝一杯高品质的澳白咖啡（flat white）或享用一顿不必挤在商场美食广场的早午餐，这里值得专程一去。它获得了 4.4 分（706 条评价）的好评，价位中等（每份约 AED 20-45），最佳到访时间是工作日上午。建议安排 45-90 分钟，可以搭配在新商城逛逛，或沿着这条路开车前往杰贝尔杰斯山（Jebel Jais）。

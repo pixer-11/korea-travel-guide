@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: lombok-bukit-merese
+srcHash: bebbb7fac9ef
 title: 武吉美芮丝(Bukit Merese):龙目岛旅行指南
 description: 武吉美芮丝(Bukit Merese)是位于古达龙目岛(Kuta Lombok)以东几分钟车程的一座小型草坡海岬,最佳游览时间是日落时分,可俯瞰丹戎安(Tanjung Aan)双子海湾的全景。
 quickAnswer: 武吉美芮丝(Bukit Merese)是位于古达龙目岛(Kuta Lombok)以东几分钟车程的一座小型草坡海岬,最佳游览时间是日落时分,可俯瞰丹戎安(Tanjung Aan)双子海湾的全景。作为南龙目岛人气最高的观景点之一(评分4.7星,近9000条评论),山顶常有人潮以及出租摩托车/机车的商贩——如果想避开人群,建议早点到,或选择日出时段前往。建议安排45-60分钟游览时间,穿防滑鞋方便短程攀爬,并可与山下的丹戎安海滩一并游览。

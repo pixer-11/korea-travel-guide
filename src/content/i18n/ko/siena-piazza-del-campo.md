@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: siena-piazza-del-campo
+srcHash: 1007fa10f56e
 title: '캄포 광장(Piazza del Campo): 시에나 여행 가이드'
 description: 캄포 광장은 조개껍데기 모양을 한 시에나의 중세 광장으로, 푸블리코 궁전(Palazzo Pubblico)과 만자의 탑(Torre del Mangia)에 둘러싸여 있으며 팔리오 경마 축제의 무대이기도 하다.
 quickAnswer: 캄포 광장은 조개껍데기 모양을 한 시에나의 중세 광장으로, 푸블리코 궁전(Palazzo Pubblico)과 만자의 탑(Torre del Mangia)에 둘러싸여 있으며 매년 7월 2일과 8월 16일 팔리오 경마 축제가 열리는 무대다. 워낙 인기가 많은 곳이라 단체 관광객이 몰리기 전인 오전 7시~9시가 그나마 한산한 시간대이며, 주말에는 오전 11시부터 밤 11시까지 계속 붐빈다. 처음 둘러보는 데는 45분~1시간이면 충분하지만, 탑에 오르거나 경사면에 앉아 커피를 마시며 여유를 즐기려면 더 오래 잡아야 한다.

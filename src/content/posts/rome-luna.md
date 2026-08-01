@@ -1,6 +1,6 @@
 ---
 title: Luna in Rome
-description: Luna is a 2025 specialty coffee-and-brunch spot near Piazza Barberini, opened by the team behind Faro and Aliena Coffee Roasters, pairing a serious espresso
+description: Luna is a 2025 specialty coffee-and-brunch spot near Piazza Barberini, opened by the team behind Faro and Aliena Coffee Roasters, pairing a serious espresso program with an in-house bakery and a playful space-themed menu.
 country: Italy
 region: Rome
 category: trendy

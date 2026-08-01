@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: bali-secret-garden-village
+srcHash: 8e790332c27b
 title: '시크릿 가든 빌리지: 발리 여행 가이드'
 description: 시크릿 가든 빌리지(Secret Garden Village)는 덴파사르-베두굴(Denpasar–Bedugul) 도로변, 타바난(Tabanan) 바투리티(Baturiti)에 위치한 가족 친화적인 문화 공원으로, 덴파사르에서 북쪽으로 약 90분에서 2시간 거리에 있습니다.
 quickAnswer: 시크릿 가든 빌리지(Secret Garden Village)는 타바난(Tabanan) 바투리티(Baturiti)의 덴파사르-베두굴(Denpasar–Bedugul) 도로변에 위치한 가족 친화적인 문화 공원으로, 덴파사르/스미냑(Denpasar/Seminyak)에서 북쪽으로 약 90분에서 2시간, 베두굴(Bedugul) 울룬 다누 브라탄 사원(Ulun Danu Beratan Temple)에서 남쪽으로 약 20~30분 거리에 있습니다. 이름과 달리 이곳은 이미 많이 알려진 인기 명소로(평점 4.6, 리뷰 5,500개 이상), 발리 역사와 공예, 정원을 테마로 조성되어 있습니다 — 2~3시간 정도 일정을 잡고 베두굴 당일치기 여행과 함께 묶어보세요. 투어버스 인파를 피하려면 평일 오전에 방문하는 것이 좋습니다.

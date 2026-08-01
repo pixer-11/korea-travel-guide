@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: udaipur-ambrai-ghat
+srcHash: b480c94a324e
 title: 安巴瑞码头(Ambrai Ghat):乌代浦尔旅行指南
 description: 安巴瑞码头(Ambrai Ghat)是皮丘拉湖(Lake Pichola)东岸经典的观景台,正对着城市宫殿(City Palace)和湖中宫殿(Lake Palace),每天开放。
 quickAnswer: 安巴瑞码头(Ambrai Ghat)是皮丘拉湖(Lake Pichola)东岸经典的观景台,正对着城市宫殿(City Palace)和湖中宫殿(Lake Palace),每天上午5点至晚上7点开放。建议选在黄金时段前来,但一定要在下午4点前到达——周末下午4点到7点之间人潮会明显增多,而这恰恰也是光线最美的时候。步行走完台阶并找地方安顿下来看日落,大约需要30-45分钟,如果打算在这里的湖畔餐厅用餐,则需要更长时间。

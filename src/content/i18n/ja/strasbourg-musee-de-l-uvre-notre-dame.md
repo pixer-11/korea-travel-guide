@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: strasbourg-musee-de-l-uvre-notre-dame
+srcHash: 23a9734756bf
 title: ノートルダム美術館(Musée de l'Œuvre-Notre-Dame):ストラスブール旅行ガイド
 description: ストラスブール大聖堂(Strasbourg Cathedral)のすぐそば、3 Place du Châteauの中世・ルネサンス様式の家々が立ち並ぶ一角にひっそりと佇むノートルダム美術館(Musée de l'Œuvre-Notre-Dame)は、この街で最も見過ごされがちな主要観光地のひとつです。
 quickAnswer: ストラスブール大聖堂のすぐそば、3 Place du Châteauの中世・ルネサンス様式の家々が立ち並ぶ一角にひっそりと佇むノートルダム美術館は、この街で最も見過ごされがちな主要観光地のひとつです。星評価4.7を誇る、中世・ルネサンス美術、ステンドグラス、大聖堂彫刻を collectionする美術館です。90分から2時間ほど時間をとり、平日の午前中に訪れ、隣にある大聖堂とその天文時計とあわせて見学するのがおすすめです。

@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: surabaya-surabaya-north-quay
+srcHash: 8c4123f3fc35
 title: 泗水北港观景台(Surabaya North Quay):旅行指南
 description: 泗水北港观景台(Surabaya North Quay)是位于丹戎佩拉(Tanjung Perak)港区的一处屋顶观景平台，可将集装箱船、油轮和游轮尽收眼底，背景是爪哇海的天际线。
 quickAnswer: 泗水北港观景台(Surabaya North Quay，简称SNQ)是位于丹戎佩拉(Tanjung Perak)港区的一处屋顶观景平台，可以远眺集装箱船、油轮和游轮，背景则是爪哇海的天际线。建议选在晴天的日落时分前往，预留1到1.5小时的游览时间；由于这里位于繁忙的港区之内，不通城市的火车和公交网络，最好乘坐私家车、出租车或叫车软件前往。这里是一处非常热门、口碑极佳的景点(4.4星，23,000+条点评)，因此周末和节假日预计会比较拥挤。

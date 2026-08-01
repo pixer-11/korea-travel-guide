@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: strasbourg-cathedrale-notre-dame-de-strasbourg
+srcHash: 308ddc88ff63
 title: 'Catedral de Notre-Dame de Estrasburgo: Guía de viaje'
-description: La catedral de Estrasburgo es una iglesia parroquial en funcionamiento con un rosetón, un reloj astronómico y una aguja de 142 metros que dominó los perfiles urbanos de Europa durante
+description: La catedral de Estrasburgo es una iglesia parroquial en funcionamiento con un rosetón, un reloj astronómico y una aguja de 142 metros que dominó los perfiles urbanos de Europa durante siglos, y la entrada para recorrerla es gratuita.
 quickAnswer: La catedral de Estrasburgo es una iglesia parroquial en funcionamiento con un rosetón, un reloj astronómico y una aguja de 142 metros que dominó los perfiles urbanos de Europa durante siglos, y la entrada para recorrerla es gratuita. Visítala justo a la apertura, a las 8:30, un día entre semana para encontrar la nave casi vacía, ya que la plaza se llena de grupos turísticos de mediodía a 17:00 los fines de semana. Reserva entre 45 minutos y una hora para el interior, más si subes a la plataforma o presencias el espectáculo del reloj al mediodía.
 faq:
   - q: ¿Es gratis visitar la catedral de Estrasburgo?

@@ -1,6 +1,6 @@
 ---
 title: 'Puerto Princesa Subterranean River National Park: Palawan Travel Guide'
-description: Book your Puerto Princesa Underground River tour through an accredited operator or the Puerto Princesa tourism office before you go — same-day permits are
+description: Book your Puerto Princesa Underground River tour through an accredited operator or the Puerto Princesa tourism office before you go — same-day permits are capped and often sell out.
 country: Philippines
 region: Palawan
 category: attraction

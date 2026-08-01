@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: seoul-hakusi
+srcHash: b71e0bd6ec00
 title: 首尔Hakusi探店指南
 description: 首尔Hakusi——一家新晋热门餐厅：它是什么、位于哪里，以及如何前往用餐。
 quickAnswer: Hakusi是一家位于首尔清潭洞（Cheongdam-dong）、深受日本料理影响的精致餐厅，最近在一处全新打造的空间重新开业，整体设计如同一幅活生生的静物画。餐厅凭借鳗鱼搭配山椒与罗勒等菜品，荣获2026年米其林最新认可。用餐前务必提前预约，出发前请直接向餐厅确认最新营业时间、入座规定及价格。

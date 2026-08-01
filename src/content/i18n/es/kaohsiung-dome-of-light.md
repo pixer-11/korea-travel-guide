@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: kaohsiung-dome-of-light
+srcHash: 2374965b3150
 title: 'Cúpula de la Luz: Guía de viaje de Kaohsiung'
-description: La Cúpula de la Luz es el gigantesco techo de vitrales de la estación Formosa Boulevard (美麗島站), en el intercambiador de las líneas Roja y Naranja del metro de Kaohsiung, justo en la Salida 4/cerca de
+description: La Cúpula de la Luz es el gigantesco techo de vitrales de la estación Formosa Boulevard (美麗島站), en el intercambiador de las líneas Roja y Naranja del metro de Kaohsiung, justo en la Salida 4/cerca de la Salida 1, un nivel por debajo de la calle.
 quickAnswer: 'La Cúpula de la Luz es el gigantesco techo de vitrales de la estación Formosa Boulevard (美麗島站), en el intercambiador de las líneas Roja y Naranja del metro de Kaohsiung, justo en la Salida 4/cerca de la Salida 1, un nivel por debajo de la calle. Está abierta en el mismo horario que la estación, en la práctica de 6:00 a 24:00 todos los días, y se puede ver de forma gratuita a cualquier hora en que pases por allí: no hace falta boleto ni entrada aparte. Ve un día de semana a media mañana o media tarde para ver el vitral iluminado sin la aglomeración de grupos turísticos, y pasa de nuevo después del anochecer, cuando el espectáculo de luces interior reorganiza los colores.'
 faq:
   - q: ¿Hay que pagar entrada para ver la Cúpula de la Luz?

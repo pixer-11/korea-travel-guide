@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: seoul-gwangjang-market
+srcHash: fb9a045a46e5
 title: 'Mercado de Gwangjang: Guía de viaje de Seúl'
 description: 'El mercado de Gwangjang, en Jongno-gu, es el mercado tradicional más antiguo de Seúl (inaugurado en 1905) y un destino legendario de comida callejera: dirígete directo al callejón gastronómico.'
 quickAnswer: El mercado de Gwangjang (Gwangjang Market), en Jongno-gu, es el mercado tradicional más antiguo de Seúl (inaugurado en 1905) y un destino legendario de comida callejera. Ve directo al callejón gastronómico a probar el bindaetteok (panqueques de judía mungo), el mayak gimbap (gimbap "de la droga") y el yukhoe (tartar de ternera al estilo coreano). Llega a través de la estación Jongno 5(o)-ga (Línea 1, Salida 8) y ve a última hora de la mañana para evitar tanto el gentío del almuerzo como los grupos turísticos de la cena. Calcula entre 1 y 2 horas y unos ₩15,000-25,000 para un recorrido completo de degustación; es un lugar cómodo para pagar en efectivo, aunque la mayoría de los puestos ya aceptan tarjeta.

@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: barcelona-gloria-osteria
+srcHash: 29b95f56d099
 title: Gloria Osteria en Barcelona
 description: Gloria Osteria es el debut en Barcelona de Big Mamma, el grupo de restaurantes franco-italiano conocido por convertir la osteria clásica en un evento vanguardista y lleno de energía.
 quickAnswer: Gloria Osteria es el debut en Barcelona de Big Mamma, el grupo de restaurantes franco-italiano conocido por convertir la osteria clásica en un evento vanguardista y lleno de energía. Abrió con tanta demanda que se llenó por completo en su primera semana, así que conviene reservar online con bastante antelación o intentar entrar sin reserva justo a la hora de apertura por si hay alguna cancelación. Hay que esperar un comedor animado y muy fotogénico, centrado en la comida reconfortante italiana, más que el ambiente tranquilo y clásico de una trattoria de toda la vida.

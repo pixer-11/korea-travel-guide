@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: yokohama-yokohama-marine-tower
+srcHash: 184d04b17e92
 title: '요코하마 마린타워: 여행 가이드'
 description: 요코하마 마린타워는 나카구(Naka Ward) 야마시타 공원(Yamashita Park) 끝자락에 자리한 106.2미터 높이의 옛 등대탑으로, 1961년에 지어졌으며 항구를 내려다보는 실내외 전망대를 갖추고 있습니다.
 quickAnswer: 요코하마 마린타워는 나카구(Naka Ward) 야마시타 공원(Yamashita Park) 끝자락에 자리한 106.2미터 높이의 옛 등대탑으로, 1961년에 지어졌으며 항구를 내려다보는 실내외 전망대를 갖추고 있습니다. 45~60분 정도 시간을 잡고, 만(灣) 위로 빛이 바뀌는 늦은 오후에서 해질녘 사이에 방문해 야마시타 공원 산책이나 바로 앞바다에 정박된 히카와마루(Hikawa Maru) 관람과 함께 묶어보세요.

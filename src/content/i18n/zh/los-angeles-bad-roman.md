@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: los-angeles-bad-roman
+srcHash: 4a3c904974cb
 title: 洛杉矶 Bad Roman 餐厅
 description: Bad Roman 是 Quality Branded Hospitality(Don Angie 和 Zou Zou's 背后的团队)在比佛利山庄打造的一家极繁主义风格、专为"看与被看"而生的意大利餐厅。
 quickAnswer: Bad Roman 是 Quality Branded Hospitality(Don Angie 和 Zou Zou's 背后的团队)在比佛利山庄打造的一家极繁主义风格、专为"看与被看"而生的意大利餐厅,凭借其醒目的霓虹橙色蛇形装饰和极具戏剧张力的用餐空间而一眼可辨。这里是为热闹的夜晚而生,而非安静的晚餐场所,所以记得提前预订、稍作打扮,带着一份既想品尝意面、也想欣赏视觉盛宴的心情前往。由于这类热门餐厅一位难求且细节可能随时变动,出发前请务必在线确认最新营业时间并完成预订。

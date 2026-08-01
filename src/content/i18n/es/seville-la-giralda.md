@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: seville-la-giralda
+srcHash: f2a7059f1b05
 title: 'La Giralda: Guía de viaje de Sevilla'
 description: La Giralda es la torre campanario de la Catedral de Sevilla, que se alza sobre el Casco Antiguo en la Av. de la Constitución, s/n.
 quickAnswer: La Giralda es la torre campanario de la Catedral de Sevilla, que se alza sobre el Casco Antiguo en la Av. de la Constitución, s/n. Sube a ella como parte de tu entrada a la catedral —ve justo a la apertura (las puertas suelen abrir hacia las 10:30, antes en algunos días) o en la última hora antes del cierre para evitar la avalancha de grupos turísticos que llena las rampas hacia el mediodía. Reserva entre 45 y 60 minutos para la subida y las vistas, más si vas a recorrer toda la catedral.

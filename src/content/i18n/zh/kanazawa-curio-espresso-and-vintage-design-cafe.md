@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: kanazawa-curio-espresso-and-vintage-design-cafe
+srcHash: 82450f35674b
 title: Curio Espresso and Vintage Design Café：金泽旅行指南
 description: Curio Espresso and Vintage Design Café 是位于金泽（Kanazawa）柳箭町（Yasue-chō）街区的一家小型设计感咖啡馆，从近江町市场（Omicho Market）和金泽站步行即可到达。
 quickAnswer: Curio Espresso and Vintage Design Café 是位于金泽柳箭町（Yasue-chō）街区的一家小型设计感咖啡馆，从近江町市场（Omicho Market）和金泽站步行不远即可抵达。这里主打精品意式浓缩咖啡、手冲咖啡，以及分量十足的早午餐（比如中东风味的沙克舒卡式煎蛋、自制格兰诺拉麦片、厚切吐司），盛放在风格各异的复古餐具中，搭配中世纪风格的装潢氛围。喝杯咖啡加点小食通常需要20到40分钟，如果点全套早午餐则会更久；建议在上午10点前或下午2点后前往，以避开高峰时段。

@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: orchard-road-ion-sky
+srcHash: afdcacfafaf8
 title: 'ION Sky: guía de viaje de Orchard Road'
 description: ION Sky es el mirador de acceso gratuito (con consumo mínimo en el centro comercial o registro) situado en el piso 56 del centro comercial ION Orchard, con vistas de 360 grados sobre Orchard.
 quickAnswer: ION Sky es el mirador de acceso gratuito (con consumo mínimo en el centro comercial o registro) situado en el piso 56 del centro comercial ION Orchard, con vistas de 360 grados sobre Orchard Road, los Jardines Botánicos (Botanic Gardens) y el perfil urbano del centro de la ciudad. Ve una tarde despejada para ver cómo el atardecer da paso a las luces de la ciudad, y calcula entre 30 y 45 minutos, ya que es un espacio compacto. El acceso se realiza a través de un lobby de ascensores dedicado dentro del centro comercial; verifica los requisitos de entrada vigentes antes de ir, ya que ION cambia periódicamente el proceso de canje.

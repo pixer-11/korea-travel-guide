@@ -1,6 +1,6 @@
 ---
 title: "Siena Cathedral: Travel Guide"
-description: "Siena Cathedral (Duomo di Siena) is one of Italy's great Gothic-Romanesque cathedrals, its black-and-white striped marble facade and interior visible from"
+description: Siena Cathedral (Duomo di Siena) is one of Italy's great Gothic-Romanesque cathedrals, its black-and-white striped marble facade and interior visible from Piazza del Duomo in the historic center.
 country: "Italy"
 region: "Siena"
 category: "attraction"

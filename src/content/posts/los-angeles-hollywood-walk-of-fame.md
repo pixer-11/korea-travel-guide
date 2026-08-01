@@ -1,6 +1,6 @@
 ---
 title: "Hollywood Walk of Fame: Los Angeles Travel Guide"
-description: "Walk Hollywood Boulevard between La Brea and Vine (with a detour down Vine to Sunset) any time — it's open 24/7 — but go between 7am and 10am on weekdays or"
+description: Walk Hollywood Boulevard between La Brea and Vine (with a detour down Vine to Sunset) any time — it's open 24/7 — but go between 7am and 10am on weekdays or 7–9am on weekends to see the terrazzo stars without wading through crowds.
 country: "United States"
 region: "Los Angeles"
 category: "attraction"

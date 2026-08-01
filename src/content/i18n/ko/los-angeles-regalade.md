@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: los-angeles-regalade
+srcHash: 4dfb2ed882af
 title: '레갈라드(Régalade): 로스앤젤레스 여행 가이드'
 description: '미국 로스앤젤레스의 레갈라드(Régalade) — 요즘 뜨는 신상 맛집: 어떤 곳인지, 어디에 있는지, 어떻게 방문하면 되는지 안내합니다.'
 quickAnswer: 레갈라드(Régalade)는 비벌리 그로브(Beverly Grove)에 새로 문을 연 파리풍 비스트로로, 근처 인기 이탈리안 레스토랑 오스테(Oste)를 만든 팀이 선보이는 곳입니다. 군더더기 없는 클래식 프랑스 요리를 점심과 저녁 모두 즐길 수 있죠. 웨스트 할리우드(West Hollywood)와 가까운 만큼 벌써 인기가 뜨거워, 미리 예약하고 방문 전 최신 영업시간을 확인하는 것이 좋습니다 — 오픈한 지 얼마 안 된 곳이라 세부 사항은 아직 조정 중입니다.

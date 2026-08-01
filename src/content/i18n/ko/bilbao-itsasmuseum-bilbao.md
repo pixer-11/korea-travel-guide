@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: bilbao-itsasmuseum-bilbao
+srcHash: 20da32b80caa
 title: '이차스무세움: 빌바오 여행 가이드'
 description: 이차스무세움 빌바오(Itsasmuseum Bilbao)는 옛 에우스칼두나(Euskalduna) 조선소 부지의 빌바오강(Ría de Bilbao) 변에 자리하고 있으며, 구겐하임에서 도보로 가깝고 조선업과 항구의 변천사를 다룹니다.
 quickAnswer: 이차스무세움 빌바오(Itsasmuseum Bilbao)는 옛 에우스칼두나(Euskalduna) 조선소 부지의 빌바오강(Ría de Bilbao) 변에 자리하고 있으며, 구겐하임에서 도보로 가깝고 조선업과 항구가 오늘날의 강변 도시로 탈바꿈한 과정을 다룹니다. 화요일부터 일요일까지 오전 11시~오후 7시에 문을 열고(월요일 휴무), 관람에는 60~90분 정도를 잡으면 됩니다. 주말에는 개관 시간 내내 붐비는 편이므로, 여유롭게 둘러보려면 평일, 가급적 개관 직후에 방문하는 것이 가장 좋습니다.

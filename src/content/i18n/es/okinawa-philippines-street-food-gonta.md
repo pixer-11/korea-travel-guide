@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: okinawa-philippines-street-food-gonta
+srcHash: 967e7071e934
 title: 'Philippines Street Food Gonta: dónde comer en Okinawa'
-description: 'Philippines Street Food Gonta es un pequeño puesto de comida callejera filipina en Chatan, en el lado de American Village de la costa oeste de Okinawa: el lugar de referencia para'
+description: 'Philippines Street Food Gonta es un pequeño puesto de comida callejera filipina en Chatan, en el lado de American Village de la costa oeste de Okinawa: el lugar de referencia para brochetas a la parrilla, lumpia y halo-halo hasta bien entrada la noche.'
 quickAnswer: 'Philippines Street Food Gonta es un pequeño puesto de comida callejera filipina en Chatan, en el lado de American Village de la costa oeste de Okinawa: el lugar de referencia para brochetas a la parrilla, lumpia y halo-halo hasta bien entrada la noche. Con una calificación de 4.5 sobre 64 reseñas, conviene tratarlo como una parada informal y apta para pagar en efectivo antes o después de una noche de fiesta cerca de Sunset Beach. Calcula entre 20 y 40 minutos, y ve con hambre suficiente para varios platos pequeños en lugar de una sola comida grande.'
 faq:
   - q: ¿Cómo llego a Philippines Street Food Gonta sin auto?

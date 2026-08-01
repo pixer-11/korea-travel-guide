@@ -1,6 +1,6 @@
 ---
 title: "Carmelo: Where to Eat in Lyon"
-description: Carmelo is an Italian restaurant on Rue Neuve in Lyon's 1st arrondissement (Presqu'île), a few minutes' walk from Hôtel de Ville and the Terreaux area, known
+description: Carmelo is an Italian restaurant on Rue Neuve in Lyon's 1st arrondissement (Presqu'île), a few minutes' walk from Hôtel de Ville and the Terreaux area, known for generous pasta and warmly cluttered, colorful dining rooms.
 country: France
 region: Lyon
 category: restaurant

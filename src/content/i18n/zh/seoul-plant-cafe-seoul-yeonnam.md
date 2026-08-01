@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: seoul-plant-cafe-seoul-yeonnam
+srcHash: 6bcaaca06cc5
 title: 首尔植物咖啡馆（延南）旅行指南
 description: Plant Cafe Seoul（延南）是位于延南洞（Yeonnam-dong）的一家植物环绕、温室风格的咖啡馆，最方便的到达方式是乘坐6号线到合井站（Sangsu Station），或从弘大一侧的京义线森林公园（Gyeongui Line Forest Park）步行前往。
 quickAnswer: Plant Cafe Seoul（延南）是位于延南洞（Yeonnam-dong）街区的一家植物环绕、温室风格的咖啡馆，最方便的到达方式是乘坐6号线到合井站（Sangsu Station），或从弘大一侧的京义线森林公园（Gyeongui Line Forest Park）步行前往。建议选在工作日的上午或早午时段前往，这样可以在绿意之中占到一个靠窗座位，还能避开周末的排队人潮；预留一到两个小时比较合适——这是那种让人愿意慢慢停留、拍照留念，而不是匆匆而过的地方。可以顺道沿附近的京义线森林公园散步，凑成延南洞半日游的完整行程。

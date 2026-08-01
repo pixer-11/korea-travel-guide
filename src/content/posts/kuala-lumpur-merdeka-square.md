@@ -1,6 +1,6 @@
 ---
 title: "Merdeka Square: Kuala Lumpur Travel Guide"
-description: "Merdeka Square is the wide, cricket-pitch-green plaza in the heart of colonial-era Kuala Lumpur, dominated by a 95-metre flagpole marking where the Union"
+description: Merdeka Square is the wide, cricket-pitch-green plaza in the heart of colonial-era Kuala Lumpur, dominated by a 95-metre flagpole marking where the Union Jack came down and Malaya's flag went up in 1957.
 country: "Malaysia"
 region: "Kuala Lumpur"
 category: "attraction"

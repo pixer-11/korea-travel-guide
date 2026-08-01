@@ -1,6 +1,6 @@
 ---
 title: Heyri Art Village in Paju
-description: Heyri Art Village is a purpose-built cultural district in Paju, about 40–50 minutes north of central Seoul, packed with small museums, galleries, bookshops
+description: Heyri Art Village is a purpose-built cultural district in Paju, about 40–50 minutes north of central Seoul, packed with small museums, galleries, bookshops, and architect-designed buildings meant to be explored on foot over 3–4 hours.
 region: Paju
 category: hidden-gem
 pubDate: 2026-07-20T00:00:00.000Z

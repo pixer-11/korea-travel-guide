@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: goyang-bigbang-2026-2027-world-tour-xx-cosmos-goyang-opening-shows
+srcHash: efbfdd785e52
 title: 'BIGBANG 2026-2027世界巡演"XX: COSMOS"高阳开幕场：你需要知道的（高阳）'
 description: 'BIGBANG 2026-2027世界巡演"XX: COSMOS"高阳开幕场，将于2026年8月21日至23日在韩国高阳举行。演出内容、时间地点，以及如何提前规划行程。'
 quickAnswer: 'BIGBANG将于2026年8月21日至23日在高阳体育场（Goyang Stadium）举行三场体育场级演出，这是他们出道20周年世界巡演"XX: COSMOS"的一部分。最近的交通方式是首尔地铁3号线元兴站（Wonheung Station），具体入场时间、座位安排和购票链接请务必等官方BIGBANG/YG渠道发布后再确认。'

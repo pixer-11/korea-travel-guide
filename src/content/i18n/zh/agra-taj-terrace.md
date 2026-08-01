@@ -1,8 +1,9 @@
 ---
 lang: zh
 slug: agra-taj-terrace
+srcHash: 2c12f04c1b29
 title: 泰姬平台餐厅（Taj Terrace）：阿格拉美食指南
-description: 泰姬平台餐厅（Taj Terrace）是位于阿格拉（Agra）泰姬甘吉（Tajganj）泰姬度假酒店（Hotel Taj Resorts）楼顶的一家餐厅，紧邻泰姬陵（Taj Mahal）东门——这里有烛光餐桌、现场音乐
+description: 泰姬平台餐厅（Taj Terrace）是位于阿格拉（Agra）泰姬甘吉（Tajganj）泰姬度假酒店（Hotel Taj Resorts）楼顶的一家餐厅，紧邻泰姬陵（Taj Mahal）东门——来这里享受烛光餐桌、现场音乐，以及日落时分或夜幕降临后正对大理石穹顶的绝佳视野。
 quickAnswer: 泰姬平台餐厅（Taj Terrace）是位于阿格拉（Agra）泰姬甘吉（Tajganj）泰姬度假酒店（Hotel Taj Resorts）楼顶的一家餐厅，紧邻泰姬陵（Taj Mahal）东门——来这里享受烛光餐桌、现场音乐，以及日落时分或夜幕降临后正对大理石穹顶的绝佳视野。这是一家高级餐厅（评分4.8，超过1,150条评价），虽然紧邻阿格拉最著名的地标，却依然保持着相对安静的氛围，因此建议预订晚间餐位，并赶在日落后泰姬陵游客涌入泰姬甘吉各餐厅之前抵达。
 faq:
   - q: 如何从泰姬陵前往泰姬平台餐厅（Taj Terrace）？

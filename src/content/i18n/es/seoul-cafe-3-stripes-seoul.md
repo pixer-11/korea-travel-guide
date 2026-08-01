@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: seoul-cafe-3-stripes-seoul
+srcHash: b79ceef8b2c0
 title: CAFE 3 STRIPES SEOUL
-description: CAFE 3 STRIPES SEOUL es el café y espacio artístico de la marca Adidas en Seongsu-dong, el barrio industrial reconvertido en zona hipster de Seúl, inaugurado a finales de 2025 con un llamativo
+description: CAFE 3 STRIPES SEOUL es el café y espacio artístico de la marca Adidas en Seongsu-dong, el barrio industrial reconvertido en zona hipster de Seúl, inaugurado a finales de 2025 con un llamativo evento de presentación de un desfile de moda.
 quickAnswer: CAFE 3 STRIPES SEOUL es el café y espacio artístico de la marca Adidas en Seongsu-dong, el barrio industrial reconvertido en zona hipster de Seúl, inaugurado a finales de 2025 con un llamativo evento de presentación de un desfile de moda. Vale la pena ir por su interior de diseño vanguardista, pensado para Instagram, y por una carta de unos 50 platos orientados al bienestar, creada junto con el colectivo creativo coreano DORE CREATIVE CREW; considéralo una parada de 45 a 60 minutos combinada con otras tiendas insignia y cafés de Seongsu. Confirma el horario actual y si se necesita reserva antes de ir, ya que los espacios tipo pop-up de marcas suelen ajustar sus horarios según la temporada.
 faq:
   - q: ¿Cómo llego a CAFE 3 STRIPES SEOUL?

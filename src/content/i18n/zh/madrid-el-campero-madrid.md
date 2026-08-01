@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: madrid-el-campero-madrid
+srcHash: 825b27aad007
 title: 马德里 El Campero Madrid 游览指南
 description: 西班牙马德里的 El Campero Madrid——一家新晋热门餐厅：它是什么、位于何处，以及如何前往品尝。
 quickAnswer: El Campero Madrid 是巴巴特（Barbate）著名金枪鱼专门店在首都开设的分店，将于2026年初开业，主打招牌的 almadraba 蓝鳍金枪鱼，还配有一个格外出色的露台。由于这是一家全新开业的餐厅，网上出现的任何菜单或价格信息都应视为暂定内容，出行前请直接向餐厅确认营业时间和预订事宜。鉴于本店的盛名，从开业第一天起就预计会有强劲的客流需求。

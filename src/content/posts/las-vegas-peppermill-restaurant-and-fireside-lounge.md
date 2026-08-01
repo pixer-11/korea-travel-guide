@@ -1,6 +1,6 @@
 ---
 title: "Peppermill Restaurant and Fireside Lounge: Where to Eat in Las Vegas"
-description: "Peppermill Restaurant and Fireside Lounge, at 2985 Las Vegas Blvd S, is a classic Strip diner-and-lounge combo best known for its fire-pit cocktail lounge"
+description: Peppermill Restaurant and Fireside Lounge, at 2985 Las Vegas Blvd S, is a classic Strip diner-and-lounge combo best known for its fire-pit cocktail lounge and oversized portions.
 country: "United States"
 region: "Las Vegas"
 category: "restaurant"

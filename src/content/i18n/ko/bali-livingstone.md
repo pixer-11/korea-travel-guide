@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: bali-livingstone
+srcHash: 4b7a07cc0552
 title: '리빙스톤(Livingstone): 발리 여행 가이드'
 description: 리빙스톤(Livingstone)은 크로보칸(Kerobokan) 즐 페티텐젯(Jl. Petitenget)에 위치한, 식물로 가득한 대형 카페 겸 레스토랑으로, 세미냑-창구(Seminyak-Canggu) 벨트에서 하루 종일 가장 붐비는 곳 중 하나입니다.
 quickAnswer: 리빙스톤(Livingstone)은 크로보칸(Kerobokan) 즐 페티텐젯(Jl. Petitenget)에 위치한, 식물로 가득한 대형 카페 겸 레스토랑으로, 세미냑-창구(Seminyak-Canggu) 벨트에서 하루 종일 가장 꾸준히 붐비는 곳 중 하나입니다 (4.8점, 리뷰 14,000개 이상). 웨이팅 없이 자리를 잡으려면 평일 오전에 방문하는 것이 좋고, 가격대는 중간 수준(메인 메뉴 기준 대략 100,000~180,000루피아, 칵테일은 조금 더 비쌈)이며, 저녁이나 주말에는 미리 예약해야 합니다.

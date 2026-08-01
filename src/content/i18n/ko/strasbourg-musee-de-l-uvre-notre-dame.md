@@ -1,8 +1,9 @@
 ---
 lang: ko
 slug: strasbourg-musee-de-l-uvre-notre-dame
+srcHash: 23a9734756bf
 title: '뫼브르 노트르담 박물관(Musée de l''Œuvre-Notre-Dame): 스트라스부르 여행 가이드'
-description: 스트라스부르 대성당 바로 옆, 3 Place du Château의 중세·르네상스 건물들 사이에 자리한 뫼브르 노트르담 박물관은
+description: 스트라스부르 대성당(Strasbourg Cathedral) 바로 옆, 3 Place du Château의 중세·르네상스 건물들 사이에 자리한 뫼브르 노트르담 박물관(Musée de l'Œuvre-Notre-Dame)은 이 도시에서 가장 저평가된 주요 명소 중 하나로, 중세와 르네상스 미술, 스테인드글라스, 대성당 조각을 전시하는 별점 4.7의 박물관입니다.
 quickAnswer: 스트라스부르 대성당(Strasbourg Cathedral) 바로 옆, 3 Place du Château의 중세·르네상스 건물들 사이에 자리한 뫼브르 노트르담 박물관(Musée de l'Œuvre-Notre-Dame)은 이 도시에서 가장 저평가된 주요 명소 중 하나로, 중세와 르네상스 미술, 스테인드글라스, 대성당 조각을 전시하는 별점 4.7의 박물관입니다. 90분에서 2시간 정도 시간을 두고, 평일 오전에 방문하며, 바로 옆의 대성당과 천문시계와 함께 둘러보는 것이 좋습니다.
 faq:
   - q: 뫼브르 노트르담 박물관은 어떻게 가나요?

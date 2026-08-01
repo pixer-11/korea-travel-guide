@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: sentosa-sentosa-sensoryscape
+srcHash: b3cdaac71fcc
 title: セントーサ・センソリースケープ：旅行ガイド
 description: セントーサ・センソリースケープ（Sentosa Sensoryscape）は、セントーサ島の3 Siloso Rdにある入場無料の五感で楽しむガーデン&ライトインスタレーションで、LEDキャノピーが輝く夕暮れ時が最も見応えがあります。
 quickAnswer: セントーサ・センソリースケープ（Sentosa Sensoryscape）は、セントーサ島の3 Siloso Rdにある入場無料の五感で楽しむガーデン&ライトインスタレーションで、LEDキャノピー、ミスト演出のガーデン、サウンド演出が一体となって輝く夕暮れ時が最も見応えがあります。所要時間の目安は45〜60分で、シロソビーチ（Siloso Beach）の散策やディナーと組み合わせるのがおすすめです。週末はケーブルカー利用者の人混みが通り抜けるため、平日の夜に訪れると混雑を避けられます。

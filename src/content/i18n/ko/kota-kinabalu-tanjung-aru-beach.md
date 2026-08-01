@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: kota-kinabalu-tanjung-aru-beach
+srcHash: 0f3b2d2c3cd9
 title: '탄중 아루 비치: 코타키나발루 여행 가이드'
 description: 탄중 아루 비치(Tanjung Aru Beach)는 코타키나발루의 대표적인 일몰 명소로, 시내에서 택시나 그랩(Grab)으로 잠깐이면 닿는 긴 백사장에 카수아리나 나무들이 늘어서 있다.
 quickAnswer: 탄중 아루 비치(Tanjung Aru Beach)는 코타키나발루의 대표적인 일몰 명소다. 시내에서 택시나 그랩(Grab)으로 잠깐이면 닿는 긴 백사장에, 카수아리나 나무와 먹거리 노점들, 그리고 샹그릴라(Shangri-La)와 탄중 아루 리조트(Tanjung Aru Resort)가 자리하고 있다. 늦은 오후에 가서 오후 6시 전에 '퍼스트 비치(First Beach)'에 자리를 잡고, 남중국해 위로 하늘이 주황빛으로 물들 때까지 머물러 보자. 사람이 많이 찾는 곳이라 여유롭게 즐기고 싶다면 일찍 가거나 평일에 방문하는 게 좋다.

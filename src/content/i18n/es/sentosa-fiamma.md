@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: sentosa-fiamma
+srcHash: e75acdc4d911
 title: 'Fiamma: Dónde comer en Sentosa'
 description: Fiamma es un restaurante italiano de alta gama ubicado dentro del Capella Singapore, en 1 The Knolls, Sentosa, una alternativa más tranquila y refinada a las multitudes de los beach clubs de la isla.
 quickAnswer: Fiamma es un restaurante italiano de alta gama ubicado dentro del Capella Singapore, en 1 The Knolls, Sentosa, una alternativa más tranquila y refinada a las multitudes de los beach clubs de la isla. Ve para una cena sin prisas (reserva con antelación), espera cocina italiana moderna con una carta de vinos sólida, y calcula al menos entre 90 minutos y dos horas para una comida completa. Con una calificación de 4.8 sobre 842 reseñas, recompensa a los viajeros que buscan una comida formal, sentados a la mesa, lejos de la franja turística de Sentosa.

@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: guangzhou-huacheng-square
+srcHash: 49e510451e7e
 title: 'Plaza Huacheng (Huacheng Square): Guía de Viaje de Guangzhou'
 description: Huacheng Square es la extensa plaza pavimentada que ocupa el corazón del distrito financiero de Tianhe, rodeada por el Teatro de la Ópera de Guangzhou, el Museo de Guangdong, la Biblioteca de Guangzhou y la Torre de Cantón (Canton Tower).
 quickAnswer: Huacheng Square es la extensa plaza pavimentada que ocupa el corazón del distrito financiero de Tianhe, rodeada por el Teatro de la Ópera de Guangzhou, el Museo de Guangdong, la Biblioteca de Guangzhou y, al otro lado del río, la Torre de Cantón (Canton Tower). Es de acceso libre en cualquier momento del día, y resulta más atractiva a última hora de la tarde, antes de que se ilumine el perfil urbano. Es un complemento sencillo y poco visitado si ya tienes previsto ir al Teatro de la Ópera o a la Torre de Cantón, y se llega fácilmente desde las estaciones de metro Zhujiang New Town o Gymnasium, en la Línea 3.

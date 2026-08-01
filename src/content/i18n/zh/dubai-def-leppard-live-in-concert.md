@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: dubai-def-leppard-live-in-concert
+srcHash: 190bf558c015
 title: Def Leppard 迪拜演唱会:你需要知道的一切
 description: Def Leppard 将于2026年8月2日在阿联酋迪拜举办演唱会——本文介绍演出详情、时间地点，以及如何规划行程。
 quickAnswer: Def Leppard 定于2026年8月2日在迪拜可口可乐体育馆(Coca-Cola Arena)演出——这是单场演出，因此门票和确切开演时间应提前在场馆官方网站或 Ticketmaster UAE 上确认，并预留充足时间安排行程。前往 City Walk / 可口可乐体育馆时请预留时间通过安检、找到入口，因为开场前一小时周边广场通常会迅速挤满观众。

@@ -1,6 +1,6 @@
 ---
 title: 'Tokyo Ramen Street: Where to Eat'
-description: Tokyo Ramen Street is a strip of about eight acclaimed ramen shops on the B1 level of Tokyo Station's Ichibangai underground mall, in Marunouchi, Chiyoda
+description: Tokyo Ramen Street is a strip of about eight acclaimed ramen shops on the B1 level of Tokyo Station's Ichibangai underground mall, in Marunouchi, Chiyoda City.
 country: Japan
 region: Tokyo
 category: restaurant

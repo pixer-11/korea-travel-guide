@@ -1,6 +1,6 @@
 ---
 title: 'India Gate: New Delhi Travel Guide'
-description: India Gate is New Delhi's 42-metre sandstone war memorial on Kartavya Path, best seen at sunset or after dark when the fountains and floodlights come on and
+description: India Gate is New Delhi's 42-metre sandstone war memorial on Kartavya Path, best seen at sunset or after dark when the fountains and floodlights come on and the heat breaks.
 country: India
 region: New Delhi
 category: attraction

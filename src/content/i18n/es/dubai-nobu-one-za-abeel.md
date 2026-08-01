@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: dubai-nobu-one-za-abeel
+srcHash: c6726dbef93f
 title: Nobu (One Za'abeel) en Dubái
-description: La nueva sede de Nobu en Dubái se encuentra dentro de The Link, el puente aéreo que conecta las dos torres de One Za'abeel, a unos 230 metros sobre la ciudad, lo que la convierte en
+description: La nueva sede de Nobu en Dubái se encuentra dentro de The Link, el puente aéreo que conecta las dos torres de One Za'abeel, a unos 230 metros sobre la ciudad, lo que la convierte posiblemente en el Nobu situado a mayor altitud del planeta.
 quickAnswer: 'La nueva sede de Nobu en Dubái se encuentra dentro de The Link, el puente aéreo que conecta las dos torres de One Za''abeel, a unos 230 metros sobre la ciudad, lo que la convierte posiblemente en el Nobu situado a mayor altitud del planeta. Inaugurado el 17 de enero de 2026, ofrece el repertorio japonés-peruano habitual de la marca (bacalao negro con miso, hamachi con jalapeño) con un telón de fondo del skyline de Dubái a través de ventanales de altura completa. Reserva con mucha antelación: al ser una de las mesas más difíciles de conseguir en la ciudad ahora mismo, no es un lugar para presentarse sin reserva.'
 faq:
   - q: ¿Cómo llego a Nobu en One Za'abeel?

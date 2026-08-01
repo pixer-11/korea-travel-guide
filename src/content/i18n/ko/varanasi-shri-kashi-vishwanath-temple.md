@@ -1,8 +1,9 @@
 ---
 lang: ko
 slug: varanasi-shri-kashi-vishwanath-temple
+srcHash: a67c566e8d8d
 title: '쉬리 카시 비슈와나트 사원(Shri Kashi Vishwanath Temple): 바라나시 여행 가이드'
-description: 일찍 가세요 — 사원은 새벽 3시경 망갈라 아르티(Mangala Aarti)와 함께 문을 열며 늦은 아침부터 저녁까지 가장 붐비므로, 가장 한적한 다르샨 시간대는 개장 직후입니다
+description: 일찍 가세요 — 사원은 새벽 3시경 망갈라 아르티(Mangala Aarti)와 함께 문을 열며 늦은 아침부터 저녁까지 가장 붐비므로, 가장 한적한 다르샨(darshan) 시간대는 개장 직후이거나 저녁 아르티 인파가 몰리기 전인 이른 오후의 한적한 시간대입니다.
 quickAnswer: 일찍 가세요 — 사원은 새벽 3시경 망갈라 아르티(Mangala Aarti)와 함께 문을 열며 늦은 아침부터 저녁까지 가장 붐비므로, 가장 한적한 다르샨(darshan) 시간대는 개장 직후이거나 저녁 아르티 인파가 몰리기 전인 이른 오후의 한적한 시간대입니다. 공항 수준의 보안 검색이 있으며 휴대폰이나 가방은 내부 반입이 금지되고, 줄 서는 시간은 그날그날에 따라 30분에서 두어 시간까지 걸릴 수 있습니다. 이곳은 인도에서 가장 성스러운 시바 신전으로, 갠지스강(Ganges)변 랄리타 가트(Lalita Ghat)에서 도보로 잠깐이면 닿는 거리에 있으니, 방문길에 강변 산책도 함께 즐겨보세요.
 faq:
   - q: 카시 비슈와나트 사원(Kashi Vishwanath Temple)을 방문하기 가장 한적한 시간은 언제인가요?

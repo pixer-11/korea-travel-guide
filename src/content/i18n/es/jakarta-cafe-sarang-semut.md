@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: jakarta-cafe-sarang-semut
+srcHash: e52ab6ff1737
 title: 'Cafe Sarang Semut: Guía de viaje de Yakarta'
 description: 'Cafe Sarang Semut en Yakarta, Indonesia — un lugar nuevo y de tendencia: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Cafe Sarang Semut ("Cafe Hormiguero") es una cafetería con inspiración en cuevas escondida en el distrito de Blok M, en Kebayoran Baru, Yakarta Sur, conocida sobre todo por sus paredes de yeso llenas de hoyuelos, como un montículo de termitas, que la han convertido en un imán para las redes sociales desde que se hizo viral en 2026. Ve un día entre semana por la tarde si quieres sentarte de verdad y fotografiar el espacio sin una fila que llegue hasta la puerta. Calcula entre 45 minutos y 1 hora para la visita, y confirma el horario actual y si aceptan reservas antes de ir, ya que un lugar tan recientemente popular suele ajustar su horario con frecuencia.

@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: ayutthaya-the-summer-house
+srcHash: 0bb8ed95672a
 title: 'The Summer House: Guía de viaje de Ayutthaya'
 description: The Summer House es un café-restaurante junto al río en la isla de Ko Rian, en Ayutthaya, que combina comida casera tailandesa con repostería francesa en un entorno de jardín frondoso.
 quickAnswer: The Summer House es un café-restaurante junto al río en la isla de Ko Rian (Ko Rian), en Ayutthaya, que combina comida casera tailandesa con repostería francesa en un entorno de jardín frondoso a orillas del río Chao Phraya/Pa Sak. Lo ideal es ir a un desayuno tardío o a cenar al atardecer, con un presupuesto de entre 300 y 600 THB por persona, y combinarlo con una visita al cercano Wat Chaiwatthanaram, a un breve trayecto en coche o en barco longtail. Se recomienda reservar los fines de semana dada su popularidad (4.5 estrellas con más de 3,000 reseñas).

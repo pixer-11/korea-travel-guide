@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: ankara-trilye-restaurant
+srcHash: 6686436175f2
 title: Trilye 餐厅:安卡拉美食指南
 description: Trilye 是安卡拉卡兹姆·厄扎尔普(Kazım Özalp)街区(恰安卡亚区/Çankaya)一家历史悠久的海鲜餐厅,以极致新鲜的鱼类、开胃小菜(meze)和意面闻名,用餐环境明亮现代。
 quickAnswer: Trilye 是安卡拉卡兹姆·厄扎尔普(Kazım Özalp)街区(恰安卡亚区/Çankaya)一家历史悠久的海鲜餐厅,以极致新鲜的鱼类、开胃小菜(meze)和意面闻名,用餐环境明亮现代,并设有户外座位。这里价格偏高,在当地颇有名气,建议提前预订晚餐,尤其是周四至周六,晚上8点后餐厅通常会更加满座。

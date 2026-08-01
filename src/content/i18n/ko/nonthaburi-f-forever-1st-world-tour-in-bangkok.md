@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: nonthaburi-f-forever-1st-world-tour-in-bangkok
+srcHash: 441de28cd1af
 title: '방콕 F✦FOREVER 1st World Tour: 알아야 할 모든 것 (논타부리)'
 description: 태국 논타부리(Nonthaburi)에서 열리는 방콕 F✦FOREVER 1st World Tour — 2026년 8월 1일-2일. 공연 개요와 일정, 장소, 그리고 관람 계획을 세우는 방법을 소개합니다.
 quickAnswer: F✦FOREVER — "유성화원(Meteor Garden)"의 F4로 잘 알려진 대만 3인조 지에룬(Jerry Yan), 우쥔(Van Ness Wu), 저우위민(Vic Chou)이 재결합하고 메이데이(Mayday)의 아신(Ashin)이 명예 네 번째 멤버로 합류하여, 2026년 8월 1일-2일 이틀간 논타부리(Nonthaburi)의 IMPACT Arena에서 1st World Tour의 일환으로 공연을 펼칩니다. 스타디움 규모의 재결합 공연인 만큼 무앙통타니(Muang Thong Thani)/쨍왓타나(Chaeng Watthana) 지역의 항공편과 숙소를 서둘러 예약하고, 정확한 날짜와 입장 시간, 티켓 등급은 공식 투어 채널과 IMPACT Arena 채널에서 출발 전 반드시 확인하세요.

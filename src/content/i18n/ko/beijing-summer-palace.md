@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: beijing-summer-palace
+srcHash: ce8789c90663
 title: '이화원(颐和园): 베이징 여행 가이드'
 description: 이화원은 아침부터 이른 오후까지 반나절을 통째로 비워 두세요 — 동궁문(東宮門)으로 입장해 창랑(長廊)을 걷고, 만수산의 불향각까지 올라가 보세요.
 quickAnswer: 이화원은 아침부터 이른 오후까지 반나절을 통째로 비워 두세요 — 동궁문(東宮門, Dongong Men)으로 입장해 창랑(長廊, Long Corridor)을 걷고, 만수산(萬壽山, Longevity Hill)에 있는 불향각(佛香閣, Tower of Buddhist Incense)까지 올라간 다음, 쿤밍호(昆明湖, Kunming Lake)를 따라 한 바퀴 돌아 나오는 코스입니다. 매우 인기 있는 명소(리뷰 약 1만 개에 평점 4.6)이므로 개장 직후나 오후 3시 이후에 방문해야 최악의 혼잡을 피할 수 있으며, 최소 3~4시간은 잡아두는 것이 좋습니다.

@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: okinawa-philippines-street-food-gonta
+srcHash: 967e7071e934
 title: '필리핀 스트리트 푸드 곤타(Philippines Street Food Gonta): 오키나와 맛집 가이드'
 description: 필리핀 스트리트 푸드 곤타는 오키나와 서해안, 아메리칸 빌리지 인근 차탄(Chatan)에 자리한 작은 필리핀 길거리 음식 노점이다.
 quickAnswer: 필리핀 스트리트 푸드 곤타는 오키나와 서해안, 아메리칸 빌리지(American Village) 쪽 차탄(Chatan)에 위치한 작은 필리핀 길거리 음식 노점으로, 밤늦게 바비큐 꼬치, 룸피아, 할로할로를 즐기기 좋은 곳으로 통한다. 64개 리뷰에서 평점 4.5를 기록했으며, 선셋 비치(Sunset Beach) 근처에서 밤 나들이 전후로 가볍게 들르기 좋은 캐주얼한 현금 위주 매장으로 생각하면 된다. 20~40분 정도 시간을 잡고, 한 끼 거하게 먹기보다는 여러 개의 소량 메뉴를 나눠 먹을 수 있을 만큼 배고픈 상태로 가는 것이 좋다.

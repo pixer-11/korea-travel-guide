@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: agra-taj-terrace
+srcHash: 2c12f04c1b29
 title: 'Taj Terrace: dónde comer en Agra'
-description: 'Taj Terrace es un restaurante en la azotea del Hotel Taj Resorts, justo junto a la Puerta Este del Taj Mahal en Tajganj, Agra: ideal por sus mesas a la luz de las velas, música en vivo'
+description: Taj Terrace es un restaurante en la azotea del Hotel Taj Resorts, justo junto a la Puerta Este del Taj Mahal en Tajganj, Agra — ideal por sus mesas a la luz de las velas, la música en vivo y una vista directa de la cúpula de mármol al atardecer o de noche.
 quickAnswer: Taj Terrace es un restaurante en la azotea del Hotel Taj Resorts, justo junto a la Puerta Este del Taj Mahal en Tajganj, Agra — ideal por sus mesas a la luz de las velas, la música en vivo y una vista directa de la cúpula de mármol al atardecer o de noche. Es un local de alta cocina (valorado con 4.8 sobre más de 1,150 reseñas) que se mantiene relativamente tranquilo pese a estar a pocos pasos del monumento más grande de Agra, así que conviene reservar una mesa para la noche y llegar antes de que la oleada de visitantes del Taj, tras la puesta de sol, invada los restaurantes de Tajganj.
 faq:
   - q: ¿Cómo llego a Taj Terrace desde el Taj Mahal?

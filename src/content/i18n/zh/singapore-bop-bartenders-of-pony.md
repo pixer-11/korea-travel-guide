@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: singapore-bop-bartenders-of-pony
+srcHash: 6ab1b9f54198
 title: BOP（Bartenders of Pony）新加坡旅行指南
 description: 新加坡 BOP（Bartenders of Pony）——一处新兴热门去处：这是什么地方、位于何处，以及如何前往一探究竟。
 quickAnswer: BOP（Bartenders of Pony）是一家韩式鸡尾酒餐酒吧，由 Jigger & Pony 团队与调酒师 Uno Jang 联手打造，坐落在丹戎巴葛（Tanjong Pagar）酒吧云集的后街一栋改造过的店屋（shophouse）内。它于2026年1月31日开业，空间分为热闹的前厅酒吧区和更为安静的后侧包厢，专为韩式聚会式饮酒用餐而设计。由于是全新开业且人气迅速攀升，建议提前预订，并在前往前确认最新营业时间。

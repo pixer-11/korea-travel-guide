@@ -1,6 +1,6 @@
 ---
 title: 'Gyeongpo Lake: Gangneung Travel Guide'
-description: Gyeongpo Lake, a shallow lagoon on Gangneung's east coast, is best visited for sunrise or sunset over the water and a flat, roughly 4.3km walking/cycling
+description: Gyeongpo Lake, a shallow lagoon on Gangneung's east coast, is best visited for sunrise or sunset over the water and a flat, roughly 4.3km walking/cycling loop around its banks.
 country: South Korea
 region: Gangneung
 category: attraction

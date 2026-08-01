@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: chiang-rai-rong-suea-ten-temple
+srcHash: 930b01b9f5eb
 title: 龙虎恩寺（Rong Suea Ten）：清莱旅游指南
 description: 龙虎恩寺（俗称"蓝庙"）是一座坐落在清莱市北郊、以钴蓝与金色为主色调的醒目佛教寺庙，最佳游览时间是清晨或傍晚，以避开人潮与强光。
 quickAnswer: 龙虎恩寺（Rong Suea Ten，俗称"蓝庙"）是一座坐落在清莱市北郊、以钴蓝与金色为主色调的醒目佛教寺庙，最佳游览时间是清晨或傍晚，可避开人潮与刺眼的阳光。免费入场，参观时间约30-45分钟，很适合与白庙（Wat Rong Khun）、黑屋博物馆（Baan Dam）串联成半天的寺庙巡礼路线。由于这里仍是信众礼佛的场所，请穿着得体（遮住肩膀与膝盖）。

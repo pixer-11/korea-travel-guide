@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: chuncheon-1-5-dakgalbi
+srcHash: d68f34291554
 title: 1.5 Dakgalbi：春川美食推荐
 description: 1.5 Dakgalbi是位于春川Human-ro 77号的知名鸡排店，而春川正是这道辣炒鸡肉料理的发源地。
 quickAnswer: 1.5 Dakgalbi是位于春川Human-ro 77号的知名鸡排店，而春川正是这道辣炒鸡肉料理的发源地。无论工作日还是周末，上午11点到晚上10点这段时间店内都比较清闲，但最好避开周末下午5点到晚上10点这个时段，因为那时餐桌很快就会坐满。价位属于中等，可用现金或刷卡支付，建议至少两人同行，因为鸡排本就是要分享着吃的。

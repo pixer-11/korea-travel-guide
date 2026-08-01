@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: clarke-quay-cq-clarke-quay
+srcHash: 1f0b14e5226b
 title: 'CQ @ Clarke Quay: Guía de viaje'
 description: CQ @ Clarke Quay es el conjunto de almacenes ribereños (godowns) del siglo XIX restaurados en 3 River Valley Road que es el eje de la oferta gastronómica y de vida nocturna de Clarke Quay.
 quickAnswer: CQ @ Clarke Quay es el conjunto de almacenes ribereños (godowns) del siglo XIX restaurados en 3 River Valley Road que es el eje de la oferta gastronómica y de vida nocturna de Clarke Quay a lo largo del río Singapur (Singapore River). Ve para disfrutar de restaurantes y bares junto al río de día o de noche; espera un ambiente animado y concurrido después del anochecer (sobre todo de jueves a sábado), y combínalo con un paseo por el río hasta Boat Quay o Fort Canning Park. La estación de MRT más cercana es Clarke Quay (línea North East), salida E, justo en el lugar.

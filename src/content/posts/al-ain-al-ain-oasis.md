@@ -1,6 +1,6 @@
 ---
 title: 'Al Ain Oasis: Travel Guide'
-description: Al Ain Oasis is a free, 1,200-hectare working palm plantation in the middle of Al Ain city, crisscrossed by shaded walking paths and traditional falaj
+description: Al Ain Oasis is a free, 1,200-hectare working palm plantation in the middle of Al Ain city, crisscrossed by shaded walking paths and traditional falaj irrigation channels.
 country: United Arab Emirates
 region: Al Ain
 category: attraction

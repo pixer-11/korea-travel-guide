@@ -1,8 +1,9 @@
 ---
 lang: ja
 slug: koh-samui-izzy-s-specialty-coffee
+srcHash: c43ad46c9741
 title: Izzy's Specialty Coffee:コ・サムイ旅行ガイド
-description: Izzy's Specialty Coffeeは、コ・サムイ島北岸のボープット(Bo Put)にあるフィッシャーマンズ・ヴィレッジ(Fisherman's Village)の古い商屋(ショップハウス)が並ぶ路地にひっそりと佇む、小規模焙煎のカフェです — 訪れるなら午前10時前がおすすめ
+description: Izzy's Specialty Coffeeは、コ・サムイ島北岸のボープット(Bo Put)にあるフィッシャーマンズ・ヴィレッジ(Fisherman's Village)の古い商屋(ショップハウス)が並ぶ路地にひっそりと佇む、小規模焙煎のカフェです — 午前10時前に行けば席を確保しやすく、自家焙煎豆を使ったスローバーのプアオーバーをぜひ試してみてください。
 quickAnswer: Izzy's Specialty Coffeeは、コ・サムイ島北岸のボープット(Bo Put)にあるフィッシャーマンズ・ヴィレッジ(Fisherman's Village)の古い商屋(ショップハウス)が並ぶ路地にひっそりと佇む、小規模焙煎のカフェです — 午前10時前に行けば席を確保しやすく、自家焙煎豆を使ったスローバーのプアオーバーをぜひ試してみてください。フィッシャーマンズ・ヴィレッジ・ウォーキング・ストリートから徒歩圏内で、ボープット桟橋(Bo Put Pier)でのビーチの朝と組み合わせるのにぴったりです。滞在時間の目安は30〜45分。1,000件を超えるほぼ満点のレビューがある通り、正午には混雑してきます。
 faq:
   - q: Izzy's Specialty Coffeeは正確にはどこにありますか?

@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: barcelona-the-weeknd-live-in-concert
+srcHash: ea9a87c4fbd4
 title: The Weeknd 巴塞罗那演唱会须知
 description: The Weeknd 巴塞罗那演唱会——2026年9月1日在西班牙巴塞罗那举行。演出内容、时间地点，以及行程安排建议。
 quickAnswer: The Weeknd 将于2026年9月1日在巴塞罗那奥林匹克体育场（Estadi Olímpic Lluís Companys）举行体育场巡演。体育场级压轴演出通常会提前数小时开门，但预订机票和酒店前，请务必在The Weeknd官方巡演网站或Ticketmaster上确认具体开场时间、暖场嘉宾及余票情况。该体育场位于蒙特惠奇山（Montjuïc），可乘地铁1号线（西班牙广场站/Espanya）后步行前往，也可搭乘蒙特惠奇缆车或巴士上山，建议提前规划好上山路线。

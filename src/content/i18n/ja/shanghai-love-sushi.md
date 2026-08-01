@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: shanghai-love-sushi
+srcHash: 352e592f4dc7
 title: ラブ・スシ(Love Sushi):上海で食べるべき店
 description: 上海(Shanghai)にあるラブ・スシ(Love Sushi)は今注目の新店。どんな店で、どこにあり、どう訪れればいいかを紹介します。
 quickAnswer: ラブ・スシ(Love Sushi)は、南京西路(Nanjing Xi Lu)のプラザ66(Plaza 66)内にある10席のおまかせカウンターで、長年懐石料理に携わってきた馬師傅(Ma Shifu)シェフが腕を振るいます。オチヨ(Ochiyo)やスシ・ブラザー(Sushi Brother)と同じグループが運営する店です。可能であれば静かでゆったりできる平日の席を狙い、カウンター席は限られているので早めに予約を入れ、訪れる前に営業時間と予約方針を必ず直接確認してください。

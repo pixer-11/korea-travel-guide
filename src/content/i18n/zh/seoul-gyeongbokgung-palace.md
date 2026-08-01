@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: seoul-gyeongbokgung-palace
+srcHash: d69a10c80daf
 title: 景福宫：首尔旅行指南
 description: 景福宫是首尔规模最大、最为壮丽的朝鲜王朝时代王宫，最便捷的抵达方式是乘坐地铁3号线在景福宫站（Gyeongbokgung Station）下车，从5号出口出站后几乎可直达正门。
 quickAnswer: 景福宫是首尔规模最大、最为壮丽的朝鲜王朝时代王宫，最便捷的抵达方式是乘坐地铁3号线在景福宫站（Gyeongbokgung Station）下车，从5号出口出站后几乎可直达正门。建议预留2-3小时游览勤政殿（Geunjeongjeon）王座大殿、庆会楼（Gyeonghoeru）以及宫内的国立民俗博物馆，并尽量安排在守门将换岗仪式举行时抵达正门。景福宫每周二闭馆，出发前请务必查看官方开放时间表。

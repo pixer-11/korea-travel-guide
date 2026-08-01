@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: provence-lavender-sunflower-field
+srcHash: 1972fb1f813f
 title: Campos de lavanda y girasoles
 description: Los campos de lavanda y girasoles en torno a Valensole, en el Plateau de Valensole (la meseta de Valensole) en Provenza, están en su mejor momento aproximadamente desde la última semana de junio hasta finales de julio.
 quickAnswer: Los campos de lavanda y girasoles en torno a Valensole, en el Plateau de Valensole (la meseta de Valensole) en Provenza, están en su mejor momento aproximadamente desde la última semana de junio hasta finales de julio, cuando las hileras de lavanda púrpura y los girasoles dorados florecen uno junto al otro. Instálate en el pueblo de Valensole o en la cercana Riez, sal en coche al amanecer o dos horas antes del atardecer para conseguir la mejor luz y menos aglomeraciones, y planea un circuito de medio día en coche, ya que no hay transporte público hasta los propios campos.

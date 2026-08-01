@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: phu-quoc-chuon-chuon-bistro-bar
+srcHash: 516bb5e0bdfe
 title: Chuồn Chuồn Bistro & Bar：富国岛旅行指南
 description: Chuồn Chuồn Bistro & Bar 是位于富国岛镇陈兴道街（Tran Hung Dao Street）的一家花园式时尚餐厅酒吧，以灯笼点缀的户外座位闻名。
 quickAnswer: Chuồn Chuồn Bistro & Bar 是一家位于富国岛镇陈兴道街（Tran Hung Dao Street）的时尚花园式餐厅酒吧，以灯笼点缀的户外座位、越式融合菜和鸡尾酒著称。它拥有超过6,000条评论、4.3分的评分，价位中等，非常适合作为逛夜市前后的悠闲晚餐去处。建议在日落时分或晚上6点后前往，体验最佳氛围；周末最好提前预订或早点到店，因为很快就会客满。

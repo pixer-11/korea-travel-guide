@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: abu-dhabi-ufc-fight-night-ankalaev-vs-rountree-jr
+srcHash: 2c1a17566b2c
 title: 'UFC 파이트 나이트: 앙칼라예프 vs 라운트리 주니어: 알아야 할 사항 (아부다비)'
 description: 'UFC 파이트 나이트: 앙칼라예프 vs 라운트리 주니어는 2026년 7월 25일 아부다비 야스 아일랜드(Yas Island)의 에티하드 아레나(Etihad Arena)에서 열리며, 라이트헤비급 매치업이 메인 이벤트로 예정되어 있습니다.'
 quickAnswer: 'UFC 파이트 나이트: 앙칼라예프 vs 라운트리 주니어는 2026년 7월 25일 아부다비 야스 아일랜드(Yas Island)의 에티하드 아레나(Etihad Arena)에서 열리며, 마고메드 앙칼라예프(Magomed Ankalaev)와 칼릴 라운트리 주니어(Khalil Rountree Jr.)의 라이트헤비급 대결이 메인 이벤트입니다. 지금 야스 아일랜드 주변 항공편과 호텔을 예약해도 좋지만, 정확한 대진표 시작 시간, 예선전(prelim) 세부 사항, 티켓 판매 개시일은 날짜가 가까워지면 UFC 공식 채널에서 반드시 재확인하세요. 변경될 수 있습니다.'

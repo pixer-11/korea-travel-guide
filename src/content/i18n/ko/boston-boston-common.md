@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: boston-boston-common
+srcHash: 100d5e8a3868
 title: '보스턴 커먼(Boston Common): 여행 가이드'
 description: 보스턴 커먼은 미국에서 가장 오래된 공공 공원으로, 보스턴 도심 한복판에 자리한 50에이커 규모의 녹지입니다. 비컨 힐(Beacon Hill), 시어터 디스트릭트(Theater District)와 인접해 있습니다.
 quickAnswer: 보스턴 커먼은 미국에서 가장 오래된 공공 공원으로, 보스턴 도심 한복판에 자리한 50에이커 규모의 녹지입니다. 비컨 힐(Beacon Hill), 시어터 디스트릭트(Theater District), 퍼블릭 가든(Public Garden)과 맞닿아 있습니다. 무료로 연중 개방되며, 오후와 주말에는 인파가 몰리는 편이라 이른 아침이나 평일에 방문하는 것이 가장 좋습니다. 그냥 지나는 길이라면 45분~1시간 정도, 프리덤 트레일(Freedom Trail)이나 퍼블릭 가든의 백조 보트와 함께 둘러본다면 반나절 정도를 잡아두면 좋습니다.

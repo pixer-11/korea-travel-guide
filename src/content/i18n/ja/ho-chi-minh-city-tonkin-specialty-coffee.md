@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: ho-chi-minh-city-tonkin-specialty-coffee
+srcHash: 51e2a4d5eafc
 title: Tonkin Specialty Coffee:ホーチミン市旅行ガイド
 description: Tonkin Specialty Coffeeは、1区ベンタン(Bến Thành)地区、91 Lý Tự Trọng通りにある、デザイン性の高い小さなカフェ。ベンタン市場のロータリーから徒歩すぐの場所にあります。
 quickAnswer: Tonkin Specialty Coffeeは、1区ベンタン(Bến Thành)地区、91 Lý Tự Trọng通りにある、デザイン性の高い小さなカフェで、ベンタン市場のロータリーから徒歩すぐの場所にあります。目当ては、練乳入りの定番ストリートコーヒーではなく、ダラット(Da Lat)やカウダット(Cau Dat)など、ベトナム産シングルオリジン豆を使ったハンドドリップやベトナム式のスペシャルティコーヒー。滞在の目安は30~45分、価格はカフェとしての作りの丁寧さを考えると屋台レベルの安さです。店内はコンパクトなので、席に座ってゆっくりしたいなら平日の午前中の訪問がおすすめです。

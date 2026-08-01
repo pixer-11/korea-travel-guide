@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: incheon-incheon-pentaport-rock-festival-2026
+srcHash: 9a7afe78d35b
 title: '2026 인천 펜타포트 록 페스티벌: 알아두어야 할 것들 (인천)'
 description: 2026 인천 펜타포트 록 페스티벌은 2026년 7월 31일부터 8월 2일까지 인천 송도달빛축제공원에서 열리며, 픽시스(Pixies)가 헤드라이너로 나서고 한국 아티스트들도 함께 무대에 오릅니다.
 quickAnswer: 2026 인천 펜타포트 록 페스티벌은 2026년 7월 31일부터 8월 2일까지 인천 송도달빛축제공원(Songdo Moonlight Festival Park)에서 열리며, 픽시스(Pixies)가 헤드라이너로 나서고 한국 아티스트 혁오(hyukoh)와 이승윤(LEE SEUNG YOON)이 함께 출연합니다. 티켓 구매와 최종 세트 시간, 게이트, 라인업은 행사일이 가까워지면 공식 펜타포트 사이트에서 확인하세요. 축제 세부 사항은 종종 조정되기 때문입니다.

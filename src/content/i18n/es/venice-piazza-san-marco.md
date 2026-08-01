@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: venice-piazza-san-marco
+srcHash: d741b16cb150
 title: 'Piazza San Marco: Guía de viaje de Venecia'
 description: La Piazza San Marco es la gran plaza central de Venecia, enmarcada por la Basílica de San Marcos, el campanario y el Palacio Ducal.
 quickAnswer: La Piazza San Marco es la gran plaza central de Venecia, enmarcada por la Basílica de San Marcos, el campanario y el Palacio Ducal. Ve temprano (antes de las 9am) o después de cenar para verla sin aglomeraciones, y calcula medio día para recorrer la plaza, la basílica y subir al campanario. Es totalmente llana, de entrada gratuita, y se puede llegar a pie desde cualquier punto del centro histórico o en vaporetto hasta las paradas de San Marco.

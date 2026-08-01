@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: washington-dc-u-s-national-arboretum
+srcHash: 3d45505981a9
 title: 美国国家植物园（U.S. National Arboretum）：华盛顿特区旅行指南
 description: 美国国家植物园位于华盛顿特区东北区 3501 New York Ave NE，是一座占地446英亩的免费研究型园林，以22根抢救保存下来的科林斯式石柱而闻名。
 quickAnswer: 美国国家植物园位于华盛顿特区东北区 3501 New York Ave NE，是一座占地446英亩的免费研究型园林，最著名的是22根抢救保存下来的科林斯式石柱，以及世界一流的国家盆景与盆栽博物馆（National Bonsai & Penjing Museum）。建议至少预留两到三个小时游览，最好选在工作日上午前往，并自备汽车或自行车，因为这里步行难以从地铁站到达。该园获得超过6000条评价、4.7分的高评价，确实是华盛顿特区最值得一去的免费景点之一——只是别指望能独享这片美景。

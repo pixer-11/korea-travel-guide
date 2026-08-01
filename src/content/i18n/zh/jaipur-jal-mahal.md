@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: jaipur-jal-mahal
+srcHash: cc68460b7a57
 title: 水之宫殿（Jal Mahal）：斋普尔（Jaipur）旅行指南
 description: 水之宫殿（Jal Mahal）是一座红砂岩建成的"水宫"，坐落在斋普尔—阿梅尔（Jaipur–Amer）公路旁的曼萨加尔湖（Man Sagar Lake）中央，宛若漂浮水面——游客只能从湖岸眺望它。
 quickAnswer: 水之宫殿（Jal Mahal）是一座红砂岩建成的"水宫"，坐落在斋普尔—阿梅尔（Jaipur–Amer）公路旁的曼萨加尔湖（Man Sagar Lake）中央，宛若漂浮水面——由于宫殿内部不对外开放，游客只能从湖岸眺望它。它每天上午6点到晚上6点开放参观，从公路一侧免费观赏，日出或日落时分最美，此时湖面会映出宫殿的倒影，纳哈加尔（Nahargarh）山丘在其后方泛着光晕。建议预留30-45分钟，且不要指望能进入宫殿内部。

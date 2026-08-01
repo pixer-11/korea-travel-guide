@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: daegu-daegu-83-tower
+srcHash: 987bb32abb9e
 title: 'Torre Daegu 83: Guía de viaje'
 description: La Torre Daegu 83 es el mirador emblemático dentro del Parque Duryu, en el distrito de Dalseo, ideal para visitar al atardecer y disfrutar de vistas de la ciudad que se extienden hasta las montañas circundantes.
 quickAnswer: La Torre Daegu 83 es el mirador emblemático dentro del Parque Duryu (Duryu Park), en el distrito de Dalseo (Dalseo District), ideal para visitar al atardecer y disfrutar de vistas de la ciudad que se extienden hasta las montañas circundantes, combinándolo con un paseo nocturno por la zona de la fuente y el parque de atracciones. Calcula unas 2-3 horas, incluyendo el parque, y consulta los precios de las entradas en línea antes de ir, ya que cambian periódicamente.

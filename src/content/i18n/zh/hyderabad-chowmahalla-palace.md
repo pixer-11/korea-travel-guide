@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: hyderabad-chowmahalla-palace
+srcHash: 199209fa2e0e
 title: 秋玛哈拉宫（Chowmahalla Palace）：海得拉巴旅行指南
 description: 秋玛哈拉宫（Chowmahalla Palace）曾是海得拉巴（Hyderabad）尼扎姆（Nizam）的权力中心，位于老城查尔米纳尔（Charminar）附近，最佳游览时间是工作日刚开门时，可以避开旅行团人潮和正午的酷热。
 quickAnswer: 秋玛哈拉宫（Chowmahalla Palace）曾是海得拉巴（Hyderabad）尼扎姆（Nizam）的权力中心，位于老城查尔米纳尔（Charminar）附近，最佳游览时间是工作日刚开门时，可以避开旅行团人潮和正午的酷热。建议预留约两小时游览四座庭院、基尔瓦特·穆巴拉克（Khilwat Mubarak）朝觐大殿以及古董车收藏，最好乘坐嘟嘟车（autorickshaw）前往，或从查尔米纳尔（Charminar）／拉德市场（Laad Bazaar）步行前往，而不是自己开车。这是一处游客众多、需购票参观的历史遗迹，并非小众秘境，因此把握好参观时机比找到它本身更重要。

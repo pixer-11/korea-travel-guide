@@ -1,6 +1,6 @@
 ---
 title: "Classical Gardens of Suzhou: Travel Guide"
-description: "The \\\"Classical Gardens of Suzhou\\\" is a UNESCO World Heritage designation covering nine separate historic gardens scattered around the old city, not one"
+description: The "Classical Gardens of Suzhou" is a UNESCO World Heritage designation covering nine separate historic gardens scattered around the old city, not one single site — the most visit-worthy are the Humble Administrator's Garden (Zhuozheng Yuan), Lingering Garden (Liu Yuan), and Master of the Nets Garden (Wangshi Yuan).
 country: "China"
 region: "Suzhou"
 category: "attraction"

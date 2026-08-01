@@ -1,6 +1,6 @@
 ---
 title: Hwaseong Fortress in Suwon
-description: 'Hwaseong Fortress is an 18th-century walled city in Suwon, about 30-40 minutes south of central Seoul by train, and it''''s UNESCO-listed for good reason: a'
+description: 'Hwaseong Fortress is an 18th-century walled city in Suwon, about 30-40 minutes south of central Seoul by train, and it''s UNESCO-listed for good reason: a 5.7km walkable wall loop with gates, command posts, and watchtowers still intact.'
 region: Suwon
 country: "South Korea"
 category: attraction

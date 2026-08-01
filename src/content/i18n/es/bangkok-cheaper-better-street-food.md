@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: bangkok-cheaper-better-street-food
+srcHash: af73ec634d71
 title: 'Comida callejera más barata y mejor: dónde comer en Bangkok'
 description: Dirígete a Soi Silom 20 (Silom Soi 20), un estrecho callejón de almuerzo en Silom Road, en Bang Rak, donde se agrupan varios puestos, entre ellos el muy valorado "Cheaper & Better Street Food".
 quickAnswer: 'Dirígete a Soi Silom 20 (Silom Soi 20), un estrecho callejón de almuerzo en Silom Road, en Bang Rak, donde se agrupan varios puestos, entre ellos el muy valorado puesto "Cheaper & Better Street Food": espera bancos de plástico, platos únicos por menos de 100 baht y un público mayoritariamente compuesto por oficinistas locales. Ve entre las 12:00 y las 13:30 de un día laborable, cuando el soi está en su momento más animado y con la comida más fresca, y lleva billetes pequeños. El acceso más cercano es la estación de BTS Sala Daeng o la de MRT Silom, a unos 5-8 minutos a pie.'

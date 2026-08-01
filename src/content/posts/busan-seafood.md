@@ -1,6 +1,6 @@
 ---
 title: Seafood in Busan
-description: Busan's seafood scene centers on Jagalchi Market, Korea's largest fish market, where you pick a fresh catch and have it grilled or served as raw hoe
+description: Busan's seafood scene centers on Jagalchi Market, Korea's largest fish market, where you pick a fresh catch and have it grilled or served as raw hoe upstairs.
 region: Busan
 country: "South Korea"
 category: restaurant

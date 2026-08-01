@@ -1,6 +1,6 @@
 ---
 title: "Cloud Forest: Singapore Travel Guide"
-description: "Cloud Forest is the domed conservatory at Gardens by the Bay (18 Marina Gardens Dr) built around a 35-metre indoor waterfall and a mist-shrouded mountain of"
+description: Cloud Forest is the domed conservatory at Gardens by the Bay (18 Marina Gardens Dr) built around a 35-metre indoor waterfall and a mist-shrouded mountain of tropical highland plants.
 country: "Singapore"
 region: "Singapore"
 category: "hidden-gem"

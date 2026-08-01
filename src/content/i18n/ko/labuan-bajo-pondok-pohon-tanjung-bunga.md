@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: labuan-bajo-pondok-pohon-tanjung-bunga
+srcHash: de39a436bb51
 title: 'Pondok Pohon Tanjung Bunga: 라부안바조 여행 가이드'
 description: Pondok Pohon Tanjung Bunga는 라부안바조(Labuan Bajo) 시내 바로 외곽 탄중 붕아(Tanjung Bunga) 곶에 자리한 언덕 위 전망 쉼터로, 해질 무렵 방문이 가장 좋습니다.
 quickAnswer: Pondok Pohon Tanjung Bunga는 라부안바조 시내 바로 외곽 탄중 붕아 곶에 있는 언덕 위 전망 쉼터로, 항구와 주변 섬들 너머로 지는 노을을 보기에 늦은 오후 방문이 가장 좋습니다. 시내에서 스쿠터나 자동차로 짧게 이동하면 되며(대략 10~15분), 라부안바조의 대형 명소들에 비해 아직 잘 알려지지 않았음에도 리뷰 185개에서 4.8이라는 높은 평점을 유지하고 있습니다. 45~90분 정도 시간을 잡고, 근처 와룽(warung) 간식을 위해 현금을 챙기며, 탄중 붕아 해안도로를 따라 더 넓게 둘러보는 코스와 함께 묶어 방문하는 것이 좋습니다.

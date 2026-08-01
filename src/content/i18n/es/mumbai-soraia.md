@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: mumbai-soraia
+srcHash: e203e6d8967a
 title: 'Soraia: Guía de viaje de Mumbai'
 description: 'Soraia en Mumbai, India — un lugar nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Soraia es un flamante club y espacio gastronómico interior-exterior de aspecto sofisticado, ubicado dentro de los terrenos del Royal Western India Turf Club en Mahalaxmi, Mumbai, diseñado por Gauri Khan. Ve por la noche, cuando la fuente y la vegetación se iluminan y el espacio pasa de una escena de cena tranquila a un ambiente de club más animado, pero confirma las reservas, el código de vestimenta y el horario actual directamente con el local antes de ir, ya que los detalles todavía se están definiendo mientras se asienta de cara a la temporada 2026.

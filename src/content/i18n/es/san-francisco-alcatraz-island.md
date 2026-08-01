@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: san-francisco-alcatraz-island
+srcHash: 52ec90fcab9b
 title: 'Isla de Alcatraz: guía de viaje de San Francisco'
-description: Reserva los boletos del ferry de Alcatraz Cruises desde el Pier 33 con al menos 2-3 semanas de antelación (más aún en verano) y elige la primera salida de la mañana, alrededor de las 8:45am o
+description: Reserva los boletos del ferry de Alcatraz Cruises desde el Pier 33 con al menos 2-3 semanas de antelación (más aún en verano), y elige la primera salida de la mañana —alrededor de las 8:45am o 9am— para ver el edificio de celdas antes de que se llenen los grupos turísticos.
 quickAnswer: Reserva los boletos del ferry de Alcatraz Cruises desde el Pier 33 con al menos 2-3 semanas de antelación (más aún en verano), y elige la primera salida de la mañana —alrededor de las 8:45am o 9am— para ver el edificio de celdas antes de que se llenen los grupos turísticos. Calcula entre 2.5 y 3 horas en total, incluyendo el trayecto en barco y la excelente audioguía narrada por antiguos reclusos y guardias. Lleva una chaqueta; el viento de la bahía durante la travesía es más frío de lo que parece desde la orilla.
 faq:
   - q: ¿Cómo consigo boletos para la isla de Alcatraz?

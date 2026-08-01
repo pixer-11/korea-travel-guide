@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: andong-hahoe-folk-village
+srcHash: 25f42eed5ce1
 title: 安东河回民俗村旅行指南
 description: 安东河回民俗村（Andong Hahoe Folk Village）是一座至今仍有人居住的朝鲜王朝时代村落，坐落在洛东江马蹄形河湾之中，适合安排半天时间参观传统瓦房与茅草屋。
 quickAnswer: 安东河回民俗村（Andong Hahoe Folk Village）是一座至今仍有人居住的朝鲜王朝时代村落，坐落在洛东江（Nakdong River）马蹄形河湾之中，最适合安排半天时间，参观传统瓦房与茅草屋、河回假面博物馆（Hahoe Mask Museum），如果时间凑巧，还能看到河回别神巫假面舞（Hahoe Byeolsingut）表演。建议在入口处购买村庄门票加接驳车的联票，预留2-3小时游览，并选择春季到秋季的周末前往，以赶上户外假面舞演出。

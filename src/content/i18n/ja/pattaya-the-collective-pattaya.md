@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: pattaya-the-collective-pattaya
+srcHash: a6133f688494
 title: The Collective:パタヤでの食事はここで
 description: The Collective Pattayaは、ビーチロード沿いのホリデイ・イン・パタヤ(Holiday Inn Pattaya)内にある終日営業のダイニングホールで、豊富な種類を誇る各国料理のビュッフェで特に知られています。
 quickAnswer: The Collective Pattayaは、ビーチロード(Beach Road)沿いのホリデイ・イン・パタヤ(Holiday Inn Pattaya)内にある終日営業のダイニングホールで、シーフード、寿司、カレー、ライブクッキングステーションなど豊富な種類を誇る各国料理のビュッフェと、アラカルトメニューの両方が楽しめることで特に知られています。2,173件以上のレビューで4.8の評価を獲得しており、ビーチ沿いのエリアを離れずに幅広い選択肢を求める家族連れやグループに信頼できる選択肢です。朝食またはディナービュッフェを狙って、週末は事前予約をおすすめします。

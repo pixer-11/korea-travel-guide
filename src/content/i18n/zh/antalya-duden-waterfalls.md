@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: antalya-duden-waterfalls
+srcHash: 932d505976b1
 title: 杜顿瀑布：安塔利亚旅行指南
 description: 杜顿瀑布(Düden Şelalesi)位于安塔利亚凯佩兹(Kepez)区，最佳游览地点是上杜顿公园(Düden Şelalesi Parkı)，瀑布在一个可以走进去、从背后欣赏水帘的大型洞穴前奔腾而下。
 quickAnswer: 杜顿瀑布(Düden Şelalesi)位于安塔利亚凯佩兹(Kepez)区，最佳游览地点是上杜顿公园(Düden Şelalesi Parkı)，瀑布在一个可以走进去、从背后欣赏水帘的大型洞穴前奔腾而下。建议清晨或工作日前往，以避开旅游大巴人潮，游览时间预留1-1.5小时；如果当天有车或出租车可用，还可以顺路一并游览位于海边、地点不同的下杜顿瀑布。

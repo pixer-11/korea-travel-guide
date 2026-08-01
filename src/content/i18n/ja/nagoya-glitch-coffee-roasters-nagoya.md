@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: nagoya-glitch-coffee-roasters-nagoya
+srcHash: 71f320feecfb
 title: GLITCH COFFEE & ROASTERS:名古屋旅行ガイド
 description: GLITCH COFFEE & ROASTERS 名古屋店は、名古屋駅から徒歩すぐの名駅(中村区)にあるスペシャルティコーヒーバーで、シングルオリジンの豆で知られています。
 quickAnswer: GLITCH COFFEE & ROASTERS 名古屋店は、名古屋駅から徒歩すぐの名駅(中村区)にあるスペシャルティコーヒーバーで、シングルオリジンの浅煎り〜中煎り豆と、立ち飲み・簡易カウンター中心のミニマルな店構えで知られています。席を確保してスタッフと豆について話すなら平日の午前中がおすすめで、ハンドドリップやエスプレッソドリンクを楽しむには20〜40分ほど見ておきましょう。評価は651件以上のレビューで4.4となっており、名古屋中心部でも指折りの本格派コーヒースポットとして評判です。

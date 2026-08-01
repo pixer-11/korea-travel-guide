@@ -1,6 +1,6 @@
 ---
 title: "Museo Egizio: Turin Travel Guide"
-description: Museo Egizio, on Via Accademia delle Scienze in central Turin, is the world's oldest Egyptology museum and the largest collection of Egyptian antiquities
+description: Museo Egizio, on Via Accademia delle Scienze in central Turin, is the world's oldest Egyptology museum and the largest collection of Egyptian antiquities outside Cairo.
 country: Italy
 region: Turin
 category: attraction

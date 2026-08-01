@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: kuala-lumpur-honne-10-year-anniversary-world-tour-kuala-lumpur
+srcHash: a3fd5a81ac19
 title: HONNE 10周年記念ワールドツアー ― クアラルンプール公演:知っておきたいこと（クアラルンプール）
 description: HONNE 10 Year Anniversary World Tour – Kuala Lumpur、マレーシア・クアラルンプールにて2026年8月7日〜8日開催。公演の概要、日時・会場、そして計画を立てる際のポイントを紹介します。
 quickAnswer: HONNEが10周年記念ワールドツアーを引っさげ、クアラルンプール中心部のREXKLに2夜連続で登場する。日程は2026年8月7日〜8日で、ニューアルバム「HONNE – 10」の楽曲に加え、この10年で培ったファン人気曲も披露する予定だ。ここに記載する日程・会場・チケット情報はあくまで出発点として扱い、正確な開場時間や残りチケットの状況、直前の会場変更の有無などは、必ずHONNEの公式チャンネルおよびREXKL自体のイベントページで確認してから渡航の計画を立ててほしい。

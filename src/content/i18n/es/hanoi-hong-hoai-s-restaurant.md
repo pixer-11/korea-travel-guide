@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: hanoi-hong-hoai-s-restaurant
+srcHash: 1e20aeade107
 title: 'Restaurante Hong Hoai: dónde comer en Hanói'
 description: El restaurante Hong Hoai se encuentra en el Casco Antiguo (Old Quarter), cerca de la esquina de las calles Bát Đàn y Hàng Bồ, en el distrito de Hoàn Kiếm, a pocos minutos a pie del lago Hoàn Kiếm.
 quickAnswer: El restaurante Hong Hoai se encuentra en el Casco Antiguo (Old Quarter), cerca de la esquina de las calles Bát Đàn y Hàng Bồ, en el distrito de Hoàn Kiếm, a pocos minutos a pie del lago Hoàn Kiếm. Es un local hanoyense sin pretensiones, conocido por sus platos clásicos de comida callejera servidos en mesas junto a la calle, y con casi 23,500 reseñas y una calificación de 4.9, se ha convertido en una parada infaltable en los itinerarios gastronómicos de los visitantes. Ve con hambre, procura ir temprano o a media tarde para evitar las peores aglomeraciones, y prepárate para sentarte en pequeños taburetes de plástico.

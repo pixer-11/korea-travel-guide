@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: rome-luna
+srcHash: 3a020a9e5884
 title: Luna en Roma
-description: Luna es un local de especialidad de café y brunch abierto en 2025 cerca de Piazza Barberini, creado por el equipo de Faro y Aliena Coffee Roasters, que combina un serio programa de espresso
+description: Luna es un local de especialidad de café y brunch abierto en 2025 cerca de Piazza Barberini, creado por el equipo de Faro y Aliena Coffee Roasters, que combina un serio programa de espresso con una panadería propia y una carta lúdica con temática espacial.
 quickAnswer: 'Luna es un local de especialidad de café y brunch abierto en 2025 cerca de Piazza Barberini, creado por el equipo de Faro y Aliena Coffee Roasters, que combina un serio programa de espresso con una panadería propia y una carta lúdica con temática espacial. Lo mejor es verlo como una parada de media mañana o de brunch de fin de semana mientras se explora el centro de Roma: conviene llegar sin esperar un horario fijo y confirmar los horarios actuales antes de ir, ya que las aperturas nuevas suelen ajustar sus horarios con frecuencia durante su primer año.'
 faq:
   - q: ¿Cómo llego a Luna en Roma?

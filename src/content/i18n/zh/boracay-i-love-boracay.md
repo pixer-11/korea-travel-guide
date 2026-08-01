@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: boracay-i-love-boracay
+srcHash: 9a8ad40b2361
 title: 我爱：长滩岛旅行指南
 description: “I Love Boracay”是坐落在长滩岛马莱（Malay）一侧的木质字母观景/拍照打卡点——这里安静小众，不像热门海滩那样挤满了自拍人群。
 quickAnswer: “I Love Boracay”是坐落在长滩岛马莱（Malay）一侧的木质字母观景/拍照打卡点——这里安静小众，不像热门海滩那样挤满了自拍人群。建议选在工作日的傍晚前往，预留20-30分钟，再顺路步行几分钟去白沙滩（White Beach）逛逛。这里的评分是4.7分，虽然评价数不多但都相当热情，说明这个地方更适合那些愿意专程寻访的旅行者，而不是随便路过就能撞见的景点。

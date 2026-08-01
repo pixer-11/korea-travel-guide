@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: turin-museo-egizio
+srcHash: 1623e5e02df8
 title: エジプト博物館(Museo Egizio):トリノ旅行ガイド
 description: トリノ中心部のヴィア・アカデミア・デッレ・シエンツェ(Via Accademia delle Scienze)にあるエジプト博物館(Museo Egizio)は、世界最古のエジプト学専門博物館であり、エジプト古代遺物の世界最大級のコレクションを誇ります。
 quickAnswer: トリノ中心部のヴィア・アカデミア・デッレ・シエンツェ(Via Accademia delle Scienze)にあるエジプト博物館(Museo Egizio)は、世界最古のエジプト学専門博物館であり、カイロを除けば世界最大のエジプト古代遺物コレクションを有しています。オンラインで時間指定チケットを予約し、開館直後の9時、または閉館前2時間に訪れれば団体客の混雑を避けられます。じっくり見るなら2〜3時間は確保しましょう。

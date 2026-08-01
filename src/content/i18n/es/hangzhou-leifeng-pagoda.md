@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: hangzhou-leifeng-pagoda
+srcHash: a716deeb1332
 title: 'Pagoda de Leifeng: guía de viaje de Hangzhou'
-description: 'La Pagoda de Leifeng se alza en Sunset Hill, en el extremo sur del Lago del Oeste (West Lake), en el número 15 de Nan Shan Lu: la torre dorada de cinco pisos que brilla al otro lado del agua en'
+description: 'La Pagoda de Leifeng se alza en Sunset Hill, en el extremo sur del Lago del Oeste (West Lake), en el número 15 de Nan Shan Lu: la torre dorada de cinco pisos que brilla al otro lado del agua en todas las postales clásicas de Hangzhou.'
 quickAnswer: 'La Pagoda de Leifeng se alza en Sunset Hill, en el extremo sur del Lago del Oeste (West Lake), en el número 15 de Nan Shan Lu: la torre dorada de cinco pisos que brilla al otro lado del agua en todas las postales clásicas de Hangzhou. Calcula entre 1,5 y 2 horas: sube en la escalera mecánica a través de las ruinas excavadas de los cimientos originales del año 975 d. C., y luego asciende por la torre moderna para disfrutar de una vista panorámica del Lago del Oeste. Ve temprano por la mañana o en la tarde de un día laborable para evitar los grupos turísticos, ya que, pese a su fama, sigue siendo relativamente poco concurrida en comparación con los otros grandes atractivos del lago.'
 faq:
   - q: ¿Cómo llego a la Pagoda de Leifeng sin coche?

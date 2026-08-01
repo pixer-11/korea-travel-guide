@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: xian-emperor-qinshihuang-s-mausoleum-site-museum
+srcHash: df907dd7cb55
 title: 'Museo del Sitio del Mausoleo del Emperador Qin Shi Huang: Guía de viaje de Xi''an'
 description: El Museo del Sitio del Mausoleo del Emperador Qin Shi Huang —más conocido como el Ejército de Terracota— se encuentra en el distrito de Lintong, a unas 1.5 horas (40km) al este del centro de Xi'an.
 quickAnswer: 'El Museo del Sitio del Mausoleo del Emperador Qin Shi Huang —más conocido como el Ejército de Terracota— se encuentra en el distrito de Lintong, a unas 1.5 horas (40km) al este del centro de Xi''an. Planea medio día: 2.5–3.5 horas para ver las tres fosas de excavación y la sala de las carrozas de bronce. Ve temprano en un día laborable, contrata a un guía oficial o una audioguía en la entrada, y deja la Fosa 1 para el final para disfrutar del impacto visual completo del ejército en formación.'

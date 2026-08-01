@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: ajman-the-seat-cafe
+srcHash: 4919384a683e
 title: 'The Seat Cafe: Guía de viaje de Ajman'
 description: The Seat Cafe es una cafetería moderna y poco conocida en la zona de Al Heliow, en Ajman, con una sólida calificación de 4.7 basada en 873 reseñas.
 quickAnswer: The Seat Cafe es una cafetería moderna y poco conocida en la zona de Al Heliow, en Ajman, con una sólida calificación de 4.7 basada en 873 reseñas. Lo ideal es visitarla un día entre semana por la mañana o a última hora de la noche (después de las 8 p.m.) para conseguir un lugar tranquilo, disfrutar de buen café de especialidad y de un interior fotogénico. Reserva entre 45 y 90 minutos, lleva efectivo o tarjeta (ambos ampliamente aceptados en Ajman) y combínalo con un paseo por el Corniche de Ajman, que queda cerca.

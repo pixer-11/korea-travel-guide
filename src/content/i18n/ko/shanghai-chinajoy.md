@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: shanghai-chinajoy
+srcHash: f2e46d80632d
 title: '차이나조이(ChinaJoy): 알아둘 것들 (상하이)'
 description: 차이나조이 2026(중국 디지털 엔터테인먼트 엑스포)은 2026년 7월 31일부터 8월 3일까지 상하이에서 열리며, 역대로는 국가전시컨벤션센터(National Exhibition and Convention Center, NECC)에서 개최되었습니다.
 quickAnswer: 차이나조이 2026(중국 디지털 엔터테인먼트 엑스포)은 2026년 7월 31일부터 8월 3일까지 상하이에서 열리며, 역대로는 훙차오(Hongqiao)에 위치한 국가전시컨벤션센터(National Exhibition and Convention Center, NECC)에서 개최되었습니다. 엄청난 인파, 코스프레, 부스 도우미가 즐비한 전시장, 그리고 기업 간(B2B) 부문과 일반 대중(B2C) 부문이 함께 진행될 것으로 예상됩니다 — 항공권이나 숙소를 예약하기 전에 정확한 행사장, 홀, 티켓 등급, 일별 운영 시간을 차이나조이 공식 사이트에서 반드시 확인하세요.

@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: las-vegas-peppermill-restaurant-and-fireside-lounge
+srcHash: 03ca7b6f8564
 title: 'Peppermill Restaurant and Fireside Lounge: dónde comer en Las Vegas'
-description: Peppermill Restaurant and Fireside Lounge, en el 2985 Las Vegas Blvd S, es un clásico combo de diner y lounge del Strip, conocido sobre todo por su lounge de cócteles con fogata
+description: Peppermill Restaurant and Fireside Lounge, en el 2985 Las Vegas Blvd S, es un clásico combo de diner y lounge del Strip, conocido sobre todo por su lounge de cócteles con fogata y sus porciones descomunales.
 quickAnswer: 'Peppermill Restaurant and Fireside Lounge, en el 2985 Las Vegas Blvd S, es un clásico combo de diner y lounge del Strip, conocido sobre todo por su lounge de cócteles con fogata y sus porciones descomunales. Ve justo a la apertura: de 7am a 8am es el momento más tranquilo todos los días de la semana, ya que por lo demás el lugar está lleno desde media mañana hasta casi la medianoche los fines de semana. Está abierto 24 horas de jueves a domingo, así que una mesa a las 2am también es una opción real.'
 faq:
   - q: ¿Cuáles son las horas más tranquilas para visitar?

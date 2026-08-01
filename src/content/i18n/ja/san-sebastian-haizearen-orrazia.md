@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: san-sebastian-haizearen-orrazia
+srcHash: a09043a40473
 title: '風の櫛(ハイセアレン・オラツィア): サン・セバスティアン旅行ガイド'
 description: 風の櫛(ハイセアレン・オラツィア、"The Comb of the Wind")は、オンダレタ・ビーチ(Ondarreta beach)の西の端、遊歩道がイゲルド山(Monte Igueldo)の麓の岩場で行き止まりになる場所に立っています。
 quickAnswer: 風の櫛(ハイセアレン・オラツィア、"The Comb of the Wind")は、オンダレタ・ビーチ(Ondarreta beach)の西の端、遊歩道がイゲルド山(Monte Igueldo)の麓の岩場で行き止まりになる場所に立っています。無料で管理人もおらず、昼夜を問わずいつでも見られるため、本当のコツはタイミング選びです。平日の日の出時か日没直前に行けば、鉄の爪と打ち寄せる波をほぼ独り占めできますが、日中や週末は最も混雑します。滞在の目安は20〜30分、ラ・コンチャ(La Concha)とオンダレタを歩いて向かう場合はもう少し時間を見ておきましょう。

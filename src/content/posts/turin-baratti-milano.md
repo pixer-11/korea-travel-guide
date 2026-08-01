@@ -1,6 +1,6 @@
 ---
 title: "Baratti & Milano: Turin Travel Guide"
-description: "Baratti & Milano is a gilded, mirror-lined 19th-century café on Piazza Castello, right beneath the Galleria Subalpina, famous for its gianduiotto chocolates"
+description: Baratti & Milano is a gilded, mirror-lined 19th-century café on Piazza Castello, right beneath the Galleria Subalpina, famous for its gianduiotto chocolates, bicerin (Turin's layered coffee-chocolate-cream drink), and marble-and-brass Belle Époque interior.
 country: "Italy"
 region: "Turin"
 category: "trendy"

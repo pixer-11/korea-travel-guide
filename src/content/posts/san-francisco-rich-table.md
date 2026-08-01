@@ -1,6 +1,6 @@
 ---
 title: "Rich Table: Where to Eat in San Francisco"
-description: "Rich Table, on Gough Street at the edge of Hayes Valley, is a dinner-only, reservation-worthy spot for inventive Californian cooking (think porcini doughnuts"
+description: Rich Table, on Gough Street at the edge of Hayes Valley, is a dinner-only, reservation-worthy spot for inventive Californian cooking (think porcini doughnuts and sardine chips) in a warm, barn-wood dining room with a view into the open kitchen.
 country: "United States"
 region: "San Francisco"
 category: "restaurant"

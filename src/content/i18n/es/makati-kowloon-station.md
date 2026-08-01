@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: makati-kowloon-station
+srcHash: ac88be33d91e
 title: 'Kowloon Station: dónde comer en Makati'
 description: 'Kowloon Station en Makati, Filipinas — un lugar nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Kowloon Station es el nuevo concepto de dimsum y asados de la familia detrás de Hai Shin Lou, uno de los restaurantes cantoneses más establecidos de Makati, y ya es una de las aperturas más comentadas del barrio en 2026. Ve por cestas de bambú con dimsum y carnes asadas brillantes — pero llama antes o consulta su canal de reservas, ya que los horarios exactos y la política de reservas pueden cambiar mientras el restaurante nuevo se estabiliza. Espera cola si llegas en hora punta de almuerzo o cena sin reserva.

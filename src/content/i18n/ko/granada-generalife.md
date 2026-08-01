@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: granada-generalife
+srcHash: 6d4a4d5c0cee
 title: '헤네랄리페: 그라나다 여행 가이드'
 description: 헤네랄리페(Generalife)는 알람브라(Alhambra)의 여름 궁전이자 정원으로, 나스르 궁전(Nazrin Palaces)에서 언덕 위로 조금만 걸어가면 나오며 매일 오전 8시 30분부터 오후 8시까지 개방합니다.
 quickAnswer: 헤네랄리페(Generalife)는 알람브라(Alhambra)의 여름 궁전이자 정원으로, 나스르 궁전(Nazrin Palaces)에서 언덕 위로 조금만 걸어가면 나오며 매일 오전 8시 30분부터 오후 8시까지 개방합니다. 알람브라 통합 입장권은 미리 구매하고 가능한 한 이른 시간대 입장권을 예약하세요. 특히 주말에는 오전 11시부터 오후 2시 사이에 관광객이 꾸준히 몰립니다. 정원만 둘러보는 데 45~60분을 잡아두시고, 물의 계단(Water Staircase) 근처에서 여유를 즐기려면 시간을 더 확보하세요.

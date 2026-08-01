@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: kuala-lumpur-f-forever-1st-world-tour
+srcHash: add1226f73de
 title: 'F✦FOREVER 1st World Tour: 알아야 할 모든 것 (쿠알라룸푸르)'
 description: 말레이시아 쿠알라룸푸르에서 열리는 F✦FOREVER 1st World Tour — 2026년 8월 7일. 공연 소개부터 일정과 장소, 관람 계획 세우는 법까지 안내합니다.
 quickAnswer: F✦FOREVER — F4로 유명한 저매(Jerry Yan), 우준일(Van Ness Wu), 주효천(Vic Chou)과 메이데이(Mayday)의 아신(Ashin)이 뭉친 슈퍼그룹 — 이 1st World Tour의 일환으로 2026년 8월 7일 쿠알라룸푸르 부킷 잘릴(Bukit Jalil)의 악시아타 아레나(Axiata Arena)에서 공연합니다. 티켓은 반드시 공식 프로모터/티켓팅 파트너가 발표된 후 그곳을 통해서만 구매하시고, 게이트 오픈 시간과 오프닝 공연 여부는 공연일이 가까워져야 확정되는 경우가 많으니 그때 다시 확인하세요.

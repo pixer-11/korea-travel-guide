@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: clarke-quay-malayan-settlement
+srcHash: 6500fb4dcda4
 title: 'Malayan Settlement: dónde comer en Clarke Quay'
 description: 'Malayan Settlement es un restaurante de fusión peranakan-occidental ubicado en el Block B de Clarke Quay (3 River Valley Rd, #1-03), a pocos minutos a pie de Clarke Quay.'
 quickAnswer: 'Malayan Settlement es un restaurante de fusión peranakan-occidental ubicado en el Block B de Clarke Quay (3 River Valley Rd, #1-03), a pocos minutos a pie de la estación Clarke Quay MRT (Línea NEW/NE, Salida E). Tiene una calificación de 4.8 sobre más de 1,300 reseñas, y es conocido por reinterpretar los sabores malayo-peranakan —piensa en rendang, sambal y gula melaka— en steaks, pastas y platos para compartir. Ve un día entre semana antes de las 7pm para conseguir mesa sin mucha espera, y reserva con anticipación si vienes un viernes o sábado por la noche.'

@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: jaipur-jal-mahal
+srcHash: cc68460b7a57
 title: 'Jal Mahal: Guía de viaje de Jaipur'
-description: Jal Mahal es el "Palacio de Agua" de arenisca roja que parece flotar en medio del lago Man Sagar, en la carretera Jaipur–Amer — se contempla desde la orilla del lago
+description: Jal Mahal es el "Palacio de Agua" de arenisca roja que parece flotar en medio del lago Man Sagar, en la carretera Jaipur–Amer — se contempla desde la orilla del lago, ya que el interior está cerrado a los visitantes.
 quickAnswer: Jal Mahal es el "Palacio de Agua" de arenisca roja que parece flotar en medio del lago Man Sagar, en la carretera Jaipur–Amer — se contempla desde la orilla del lago, ya que el interior está cerrado a los visitantes. Abre todos los días de 6:00 a 18:00, la visita es gratuita desde la carretera, y se ve mejor al amanecer o al atardecer, cuando el lago refleja el palacio y las colinas de Nahargarh brillan al fondo. Calcula entre 30 y 45 minutos, y no esperes poder entrar.
 faq:
   - q: ¿Se puede entrar a Jal Mahal?

@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: new-york-city-atomix
+srcHash: b69b503ba618
 title: 'Atomix: dónde comer en la ciudad de Nueva York'
 description: 'Atomix en la ciudad de Nueva York, Estados Unidos — un lugar de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Atomix es el restaurante coreano de menú degustación con dos estrellas Michelin de Junghyun "JP" y Ellia Park, ubicado en la zona cercana a Koreatown, junto a Madison Square Park — actualmente en el puesto n.º 7 de la lista North America's 50 Best Restaurants 2026. Se trata de una experiencia de 12 tiempos que dura varias horas y que hay que reservar con mucha antelación, no de una cena a la que se llega sin más, así que reserva en cuanto el sistema lo permita y confirma directamente con el restaurante los horarios, turnos y precios actuales antes de planificar en torno a ella.

@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: kuala-lumpur-aaron-kwok-iconic-world-tour-2026
+srcHash: 1a16e3f2293f
 title: 'Aaron Kwok ICONIC World Tour 2026: Lo que debes saber (Kuala Lumpur)'
 description: Aaron Kwok trae su ICONIC World Tour 2026 a Unifi Arena, Bukit Jalil, Kuala Lumpur, el 12 de septiembre de 2026, con un equipo de producción itinerante de 200 personas.
 quickAnswer: Aaron Kwok trae su ICONIC World Tour 2026 a Unifi Arena, Bukit Jalil, Kuala Lumpur, el 12 de septiembre de 2026, con un equipo de producción itinerante de 200 personas. Considera esta fecha como el calendario anunciado hasta el momento y verifica la hora final del show, las categorías de entradas y cualquier cambio en el line-up en los canales oficiales de Aaron Kwok o en el socio oficial de venta de entradas del recinto antes de reservar vuelos u hoteles.

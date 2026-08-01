@@ -1,6 +1,6 @@
 ---
 title: 'Yokohama Chinatown: Travel Guide'
-description: Yokohama Chinatown (Yamashitacho, Naka Ward) is Japan's largest Chinatown — some 250 Chinese-owned restaurants and shops packed into a compact grid a short
+description: Yokohama Chinatown (Yamashitacho, Naka Ward) is Japan's largest Chinatown — some 250 Chinese-owned restaurants and shops packed into a compact grid a short walk from Minato Mirai and Yamashita Park.
 country: Japan
 region: Yokohama
 category: attraction

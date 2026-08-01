@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: orchard-road-merci-marcel-orchard
+srcHash: 4be8cc038432
 title: MERCI MARCEL ORCHARD：乌节路上的用餐好去处
 description: MERCI MARCEL ORCHARD 是一家法式全天候咖啡餐厅，坐落于乌节路390号的百丽宫（Palais Renaissance）内，从乌节地铁站（Orchard MRT，A或E出口）步行即可到达。
 quickAnswer: MERCI MARCEL ORCHARD 是一家法式全天候咖啡餐厅，坐落于乌节路390号的百丽宫（Palais Renaissance）内，从乌节地铁站（Orchard MRT，A或E出口）步行即可到达。建议选择平日午餐或工作日较早的晚餐时段前往，以避开排队人潮；这里的价格属中等水平（主菜约S$20–35），如需好好享用一餐，建议预留1至1.5小时。这里是一家颇具知名度、口碑很好的餐厅（4.7星，4,000+条评价），并非什么小众秘店，所以建议提前预订，或是在开门时准时抵达。

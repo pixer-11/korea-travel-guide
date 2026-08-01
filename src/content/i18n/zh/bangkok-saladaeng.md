@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: bangkok-saladaeng
+srcHash: 68ae964bc012
 title: 曼谷 Saladaeng 游览指南
 description: 泰国曼谷的 Saladaeng——一处新晋热门去处：它是什么、位于哪里，以及如何前往游览。
 quickAnswer: Saladaeng 是位于曼谷 Dusit Central Park 办公塔楼 42 层的一家屋顶社交俱乐部兼酒吧，分为四个主题区域,坐拥城市天际线景观，并陈列有 100 多件 Fritz Hansen 家具。这里是一处新开业、注重设计感的去处，最适合在工作日晚上前往，届时氛围更为轻松，且在天黑前能欣赏到更清晰的天际线光线。请尽量提前预订，着装以商务休闲为宜，并在前往之前确认最新的营业时间和预订政策。

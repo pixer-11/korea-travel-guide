@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: little-india-former-house-of-tan-teng-niah
+srcHash: ec054712e74c
 title: 'Antigua Casa de Tan Teng Niah: Guía de Viaje de Little India'
-description: 'La Antigua Casa de Tan Teng Niah, en 37 Kerbau Road, es la última villa china que sobrevive en Little India: una mansión de dos pisos construida en 1900 y ahora pintada en'
+description: 'La Antigua Casa de Tan Teng Niah, en 37 Kerbau Road, es la última villa china que sobrevive en Little India: una mansión de dos pisos construida en 1900 y ahora pintada en vivos tonos pastel.'
 quickAnswer: 'La Antigua Casa de Tan Teng Niah, en 37 Kerbau Road, es la última villa china que sobrevive en Little India: una mansión de dos pisos construida en 1900 y ahora pintada en vivos tonos pastel. Es gratis verla desde la calle (se trata de un edificio comercial privado, no de un museo), toma solo 15-20 minutos y combina bien con un paseo por Kerbau Road hacia el Tekka Centre o Serangoon Road.'
 faq:
   - q: ¿Se puede entrar a la Antigua Casa de Tan Teng Niah?

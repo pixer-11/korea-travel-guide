@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: new-delhi-humayun-s-tomb
+srcHash: 52ea50caee31
 title: '후마윤의 묘: 뉴델리 여행 가이드'
 description: 후마윤의 묘(Humayun's Tomb)는 델리를 대표하는 무굴 시대 건축물 중 하나로, 타지마할의 원형이 된 붉은 사암 건축물이다. 니자무딘(Nizamuddin) 지역 마투라 로드(Mathura Road) 인근, 페르시아 양식의 담장 정원 안에 자리하고 있다.
 quickAnswer: 후마윤의 묘(Humayun's Tomb)는 델리를 대표하는 무굴 시대 건축물 중 하나로, 타지마할의 원형이 된 붉은 사암 건축물이다. 니자무딘(Nizamuddin) 지역 마투라 로드(Mathura Road) 인근, 페르시아 양식의 담장 정원 안에 자리하고 있다. 인기가 매우 많은 곳이니 관광버스 행렬과 한낮의 더위를 피하려면 평일 개장 시간에 맞춰 가는 것이 좋다. 관람 시간은 1.5~2시간 정도 잡고, 인근의 니자무딘 다르가(Nizamuddin Dargah)나 선더 너서리(Sunder Nursery)와 묶어서 둘러보면 반나절 일정을 알차게 채울 수 있다.

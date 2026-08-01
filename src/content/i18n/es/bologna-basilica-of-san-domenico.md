@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: bologna-basilica-of-san-domenico
+srcHash: d88d4354e6a3
 title: 'Basílica de San Domenico: Guía de viaje de Bolonia'
 description: La Basílica de San Domenico se encuentra a 12 minutos a pie al sur de la Piazza Maggiore, en el barrio universitario cerca de las antiguas murallas de Bolonia.
 quickAnswer: La Basílica de San Domenico se encuentra a 12 minutos a pie al sur de la Piazza Maggiore, en el barrio universitario cerca de las antiguas murallas de Bolonia. Está tranquila prácticamente todo el día, tanto entre semana como los fines de semana, de 7:30 a 13:00 y de 15:30 a 20:00 — la única franja que conviene evitar es de 16:00 a 18:00 los fines de semana, cuando los grupos turísticos se concentran junto a la Arca di San Domenico. Calcula entre 45 minutos y una hora, y la entrada es gratuita.

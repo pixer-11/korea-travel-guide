@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: tongyeong-tongyeong-cablecar-skywalk
+srcHash: 54958a98209c
 title: 统营缆车天空步道:旅行指南
 description: 从统营三养邑(Sanyang-eup)的缆车站乘坐统营缆车登上弥勒山(Mireuksan,461米),再走上山顶附近的玻璃天空步道,饱览全景。
 quickAnswer: 从统营三养邑(Sanyang-eup)的缆车站乘坐统营缆车登上弥勒山(Mireuksan,461米),再走上山顶附近的玻璃地板天空步道,饱览统营港湾及闲丽海上国立公园(Hallyeohaesang National Park)群岛的全景。整个行程包括缆车、山顶步道和天空步道，建议预留2-3小时；最好选择晴朗的早晨或日落前出发，以避开雾霾和人群。这里凭借超过5,500条评价获得4.4的高分评级，是统营必游景点之一。

@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: new-york-city-atomix
+srcHash: b69b503ba618
 title: アトミックス(Atomix):ニューヨークで食べるべき店
 description: ニューヨーク(New York City)、アメリカにあるアトミックス(Atomix)——今注目のスポット:どんな店で、どこにあり、どう訪れるか。
 quickAnswer: アトミックス(Atomix)は、ジョンヒョン・"JP"・パク(Junghyun "JP" Park)とエリア・パク(Ellia Park)夫妻が手がける、ミシュラン二つ星の韓国料理テイスティングメニュー・レストランで、コリアタウンに隣接するマディソン・スクエア・パーク(Madison Square Park)近くにひっそりと佇んでいます。現在、北米のベストレストラン2026(North America's 50 Best Restaurants 2026)で第7位にランクイン。ふらりと立ち寄れるディナーではなく、12皿からなる数時間がかりのコース体験なので、予約は可能な限り早めに行い、営業時間・座席の時間帯・料金は訪問前に必ずレストランに直接確認してください。

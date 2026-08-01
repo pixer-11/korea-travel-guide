@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: fujairah-fujairah-fort
+srcHash: 9673ca8608b6
 title: 富查伊拉城堡（Fujairah Fort）旅行指南
 description: 富查伊拉城堡是阿联酋现存最古老的城堡，建于公元1500年至1550年间，坐落在阿沙里亚（Al Sharyah）的一块岩石高地上，紧邻富查伊拉博物馆（Fujairah Museum）。
 quickAnswer: 富查伊拉城堡是阿联酋现存最古老的城堡，建于公元1500年至1550年间，坐落在阿沙里亚（Al Sharyah）的一块岩石高地上，紧邻富查伊拉博物馆（Fujairah Museum）。步行游览城堡并爬上塔楼大约需要30-45分钟；建议清晨或日落前造访，既能避开炎热，又能拍到光线最佳的照片。城堡与山脚下的传统村落（Heritage Village）以及旁边的博物馆自然形成一条游览线路，整个片区建议安排半天时间。

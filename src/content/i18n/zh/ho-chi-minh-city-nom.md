@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: ho-chi-minh-city-nom
+srcHash: 01c1ff515347
 title: NÔM：胡志明市美食指南
 description: NÔM 位于越南胡志明市，是一家备受瞩目的新晋餐厅——本文介绍它是什么、位于何处，以及如何前往用餐。
 quickAnswer: NÔM 是主厨 Chris Fong 掌勺的一家米其林推荐（Michelin Selected）餐厅，在《2026年越南米其林指南》中荣获“年度开业餐厅”（Opening of the Year）称号。这是一家以现代越南料理为主打、需要提前预订的正经餐厅，而非可以随意走进去的街头小吃摊，所以出发前请务必提前订位并确认最新营业时间。

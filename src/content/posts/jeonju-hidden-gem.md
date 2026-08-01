@@ -1,6 +1,6 @@
 ---
 title: Hidden Gem in Jeonju
-description: Skip the crowded main alleys of Jeonju Hanok Village and head instead to the Nammusil-gil and Jaman Mural Village area east of the village core, plus the
+description: Skip the crowded main alleys of Jeonju Hanok Village and head instead to the Nammusil-gil and Jaman Mural Village area east of the village core, plus the quiet residential lanes around Omokdae and Imokdae hilltops.
 region: Jeonju
 country: "South Korea"
 category: hidden-gem

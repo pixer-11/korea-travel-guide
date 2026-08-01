@@ -1,6 +1,6 @@
 ---
 title: 'Wat Rong Khun: Chiang Rai Travel Guide'
-description: Wat Rong Khun, better known as the White Temple, sits about 13 km (20–25 minutes by car) south of central Chiang Rai on the road to Bangkok, and is best
+description: Wat Rong Khun, better known as the White Temple, sits about 13 km (20–25 minutes by car) south of central Chiang Rai on the road to Bangkok, and is best visited right at opening (around 8am) before tour buses arrive.
 country: Thailand
 region: Chiang Rai
 category: attraction

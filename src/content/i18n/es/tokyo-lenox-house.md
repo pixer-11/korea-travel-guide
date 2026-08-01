@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: tokyo-lenox-house
+srcHash: ea85a75854da
 title: 'Lenox House en Tokio: guía para visitantes'
 description: 'Lenox House en Tokio, Japón — un local nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: 'Lenox House es un restaurante italiano de pasta artesanal cerca de la estación de Sangubashi, en Yoyogi, abierto por el equipo detrás del mítico local de hamburguesas The Great Burger. Es conocido por su cocina italiana regional elaborada con productos japoneses de temporada, servida en un comedor que combina lo vintage con lo moderno. Reserva con antelación si puedes y confirma el horario actual antes de ir: se trata de una apertura reciente y de moda, y los detalles pueden cambiar.'

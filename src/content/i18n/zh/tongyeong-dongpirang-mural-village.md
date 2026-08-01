@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: tongyeong-dongpirang-mural-village
+srcHash: ebe518bfcda5
 title: 统营东皮郎壁画村
 description: 东皮郎（Dongpirang）是位于统营旧港东侧的一座山坡壁画村，紧邻中央市场，坐落在南望山公园脚下。
 quickAnswer: 东皮郎（Dongpirang）是位于统营旧港东侧的一座山坡壁画村，紧邻中央市场（Jungang Market），坐落在南望山公园（Nammangsan Park）脚下。建议预留1—1.5小时在巷弄与壁画间漫步，再花20—30分钟爬到山顶凉亭，饱览统营港湾及外海岛屿的全景。这里免费开放，最好选在平日清晨或傍晚前往，以避开旅行团人潮；顺路还可以逛逛中央市场，搭乘统营缆车。

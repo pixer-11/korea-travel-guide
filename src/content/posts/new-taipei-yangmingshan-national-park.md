@@ -1,6 +1,6 @@
 ---
 title: 'Yangmingshan National Park: New Taipei Travel Guide'
-description: Yangmingshan National Park sits just north of central Taipei, reachable by bus in under an hour, and is best visited on a weekday morning when the sulfur
+description: Yangmingshan National Park sits just north of central Taipei, reachable by bus in under an hour, and is best visited on a weekday morning when the sulfur vents at Xiaoyoukeng are still wreathed in mist and the crowds haven't arrived.
 country: Taiwan
 region: New Taipei
 category: attraction

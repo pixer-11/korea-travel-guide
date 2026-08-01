@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: kyoto-gyukatsu-kyoto-katsugyu-kyoto-ekimae
+srcHash: d0ca8296880b
 title: GYUKATSU 京都勝牛 京都駅前店：美食指南
 description: GYUKATSU 京都勝牛 京都駅前店是一家专营炸牛排（牛かつ）的餐厅，距离京都站仅几步之遥，建议午餐时段前往，排队时间相对较短。
 quickAnswer: GYUKATSU 京都勝牛 京都駅前店是一家专营炸牛排（牛かつ）的餐厅，距离京都站仅几步之遥，建议午餐时段前往，排队时间相对较短。点一份套餐，用桌上的小石板按自己喜欢的熟度煎烤牛肉片，一顿满足的餐食大约花费¥1,500–¥2,500（Google价格等级为2）。避开午餐或晚餐高峰期，也需预留15–30分钟的排队时间。

@@ -1,6 +1,6 @@
 ---
 title: 'Nami Island: Chuncheon Travel Guide'
-description: Nami Island is a half-moon-shaped park in the Han River about an hour east of Seoul, reached by ferry (or zip-line) from Gapyeong Station — not Chuncheon
+description: Nami Island is a half-moon-shaped park in the Han River about an hour east of Seoul, reached by ferry (or zip-line) from Gapyeong Station — not Chuncheon proper, though it's grouped under Gangwon-do trips.
 country: South Korea
 region: Chuncheon
 category: attraction

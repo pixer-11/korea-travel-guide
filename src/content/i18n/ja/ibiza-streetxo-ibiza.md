@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: ibiza-streetxo-ibiza
+srcHash: 3baed76085ac
 title: StreetXO Ibiza(ストリートエックスオー・イビサ)
 description: StreetXO Ibizaは、シェフのダビズ・ムニョス(Dabiz Muñoz)が手がけるハイコンセプトなストリートフードレストランで、The Unexpected Ibiza Hotel内にあり、中央のバーとオープンキッチンを中心に構成されています。
 quickAnswer: StreetXO Ibizaは、シェフのダビズ・ムニョス(Dabiz Muñoz)が手がけるハイコンセプトなストリートフードレストランで、The Unexpected Ibiza Hotel内にあり、中央のバーとオープンキッチンを中心に構成されています。世界的に評価の高いDiverXOを手がけるムニョスによる同じStreetXOブランドのイビサ店であり、カジュアルな軽食というよりは、演出性豊かでフュージョン感覚あふれるストリートフードを期待すべきです。事前予約を済ませ、それにふさわしい服装で訪れ、新シーズンのオープンに関する詳細は変わる可能性があるため、営業時間や予約方針は事前にホテルへ直接確認してください。

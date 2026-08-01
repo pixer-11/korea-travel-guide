@@ -1,9 +1,6 @@
 ---
 title: 'Wat Phra That Doi Suthep: Chiang Mai Travel Guide'
-description: >-
-  Wat Phra That Doi Suthep sits on a forested mountain about 15 km (roughly
-  30–45 minutes by road) northwest of Chiang Mai's Old City, crowned by a
-  gleaming
+description: Wat Phra That Doi Suthep sits on a forested mountain about 15 km (roughly 30–45 minutes by road) northwest of Chiang Mai's Old City, crowned by a gleaming gold chedi and wide views over the valley.
 country: Thailand
 region: Chiang Mai
 category: attraction

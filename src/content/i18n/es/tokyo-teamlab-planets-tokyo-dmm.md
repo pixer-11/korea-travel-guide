@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: tokyo-teamlab-planets-tokyo-dmm
+srcHash: b349a267d778
 title: 'teamLab Planets TOKYO DMM: Guía de viaje'
-description: teamLab Planets es un museo de arte digital descalzo, con agua y luz, en Toyosu, Koto City — reserva una entrada con horario en línea con antelación y lleva ropa que puedas remangar
+description: teamLab Planets es un museo de arte digital descalzo, con agua y luz, en Toyosu, Koto City — reserva una entrada con horario en línea con antelación, lleva pantalón corto o ropa fácil de remangar (caminarás por el agua), y calcula entre 90 minutos y 2 horas.
 quickAnswer: teamLab Planets es un museo de arte digital descalzo, con agua y luz, en Toyosu, Koto City — reserva una entrada con horario en línea con antelación, lleva pantalón corto o ropa fácil de remangar (caminarás por el agua), y calcula entre 90 minutos y 2 horas. Está a poca distancia a pie de la estación de Toyosu (Toyosu Station), en la línea Yurikamome o en la línea Yurakucho del metro de Tokio, y suele atraer multitudes considerables, así que las mañanas de entre semana son las más tranquilas.
 faq:
   - q: ¿Cómo llego a teamLab Planets TOKYO DMM?

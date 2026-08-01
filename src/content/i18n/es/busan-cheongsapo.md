@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: busan-cheongsapo
+srcHash: 3ce73be9bd7d
 title: Cheongsapo en Busan
-description: Cheongsapo es un pequeño pueblo pesquero en la costa este de Busan, ubicado entre Haeundae y Songjeong, conocido sobre todo por su faro a rayas rojas y blancas
+description: Cheongsapo es un pequeño pueblo pesquero en la costa este de Busan, ubicado entre Haeundae y Songjeong, conocido sobre todo por su faro a rayas rojas y blancas (Observatorio Daritdol) y sus puestos de marisco crudo (mulhoe, ascidia de mar, erizo de mar).
 quickAnswer: 'Cheongsapo es un pequeño pueblo pesquero en la costa este de Busan, ubicado entre Haeundae y Songjeong, conocido sobre todo por su faro a rayas rojas y blancas (Observatorio Daritdol) y sus puestos de marisco crudo (mulhoe, ascidia de mar, erizo de mar). Planea medio día: camina por el paseo marítimo desde el Dalmaji-gil de Haeundae, recorre los tanques de pescado vivo del puerto, cruza el Skywalk de Daritdol sobre el agua y termina viendo el atardecer desde el rompeolas. Combina bien con una caminata costera más larga de Haeundae a Songjeong (Dalmaji Road) si tienes más tiempo.'
 faq:
   - q: ¿Cómo llego a Cheongsapo sin coche?

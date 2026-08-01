@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: fujairah-fujairah-fort
+srcHash: 9673ca8608b6
 title: '푸자이라 성채(Fujairah Fort): 여행 가이드'
 description: 푸자이라 성채(Fujairah Fort)는 UAE에서 현존하는 가장 오래된 성채로, 1500년에서 1550년 사이에 알 샤리아(Al Sharyah)의 바위 언덕 위, 푸자이라 박물관(Fujairah Museum) 바로 옆에 세워졌습니다.
 quickAnswer: 푸자이라 성채(Fujairah Fort)는 UAE에서 현존하는 가장 오래된 성채로, 1500년에서 1550년 사이에 알 샤리아(Al Sharyah)의 바위 언덕 위, 푸자이라 박물관(Fujairah Museum) 바로 옆에 세워졌습니다. 부지를 둘러보고 탑까지 올라가 보는 데는 30~45분 정도면 충분하며, 더위를 피하고 사진 찍기 좋은 빛을 만나려면 이른 아침이나 일몰 직전에 방문하는 것이 좋습니다. 언덕 아래에 있는 헤리티지 빌리지(Heritage Village)와 바로 옆 박물관을 함께 둘러보기 좋으니, 이 일대를 다 돌아보려면 반나절 정도 일정을 잡아두는 것이 좋습니다.

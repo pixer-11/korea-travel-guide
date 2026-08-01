@@ -1,6 +1,6 @@
 ---
 title: "Udayagiri and Khandagiri Caves: Bhubaneswar Travel Guide"
-description: "Udayagiri and Khandagiri are twin rock-cut hills on the western edge of Bhubaneswar, riddled with 1st-century-BCE Jain monastic caves and capped by an active"
+description: Udayagiri and Khandagiri are twin rock-cut hills on the western edge of Bhubaneswar, riddled with 1st-century-BCE Jain monastic caves and capped by an active 18th-century Jain temple.
 country: "India"
 region: "Bhubaneswar"
 category: "attraction"

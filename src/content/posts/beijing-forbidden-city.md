@@ -1,6 +1,6 @@
 ---
 title: 'Forbidden City: Beijing Travel Guide'
-description: Enter from Meridian Gate (Wu Men) on the south side, facing Tiananmen Square, and exit north through Shenwu Gate toward Jingshan Park — walking the full
+description: Enter from Meridian Gate (Wu Men) on the south side, facing Tiananmen Square, and exit north through Shenwu Gate toward Jingshan Park — walking the full north-south axis takes about 2.5-3 hours.
 country: China
 region: Beijing
 category: attraction

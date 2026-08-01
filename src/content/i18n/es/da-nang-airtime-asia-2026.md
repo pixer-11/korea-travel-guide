@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: da-nang-airtime-asia-2026
+srcHash: '032320908694'
 title: 'Airtime Asia 2026: lo que debes saber (Da Nang)'
 description: Airtime Asia 2026 en Da Nang, Vietnam — del 13 al 16 de agosto de 2026. Qué es, cuándo y dónde se celebra, y cómo planificar tu viaje.
 quickAnswer: Airtime Asia 2026 se celebra del 13 al 16 de agosto en Da Nang y Hoi An, Vietnam, con más de 40 artistas y 15+ locales repartidos entre ambas ciudades, combinando noches de club, fiestas diurnas, charlas y transmisiones de radio. Reserva con antelación tu vuelo al Aeropuerto Internacional de Da Nang (DAD) y tu alojamiento en cualquiera de las dos ciudades, ya que los locales y la programación completa todavía se están confirmando en los canales oficiales del festival; revísalos antes de cerrar tus entradas o tu itinerario.

@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: bengaluru-bengaluru-palace
+srcHash: ac3dbf40baf1
 title: 'Palacio de Bengaluru: guía de viaje'
 description: El Palacio de Bengaluru, en Palace Road, en pleno centro de la ciudad, es una residencia real de estilo Tudor construida en la década de 1880 e inspirada en el castillo de Windsor, en Inglaterra.
 quickAnswer: El Palacio de Bengaluru, en Palace Road, en pleno centro de la ciudad, es una residencia real de estilo Tudor construida en la década de 1880 e inspirada en el castillo de Windsor (Windsor Castle), en Inglaterra, con torreones fortificados, interiores de madera tallada y jardines cuidados que hoy albergan conciertos y eventos. Reserva entre 60 y 90 minutos para el recorrido interior con audioguía, más tiempo extra si quieres pasear por los jardines. Es una parada muy popular, así que conviene ir en la primera hora tras la apertura un día de semana para evitar las tandas de grupos turísticos que llegan a media mañana.

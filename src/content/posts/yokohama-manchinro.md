@@ -1,6 +1,6 @@
 ---
 title: "Manchinro: Where to Eat in Yokohama"
-description: "Manchinro is the flagship restaurant of Yokohama Chinatown, serving refined Cantonese cuisine in an ornately decorated dining room on Yamashita-cho's main"
+description: Manchinro is the flagship restaurant of Yokohama Chinatown, serving refined Cantonese cuisine in an ornately decorated dining room on Yamashita-cho's main strip.
 country: "Japan"
 region: "Yokohama"
 category: "restaurant"

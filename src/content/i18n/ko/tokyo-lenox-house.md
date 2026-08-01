@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: tokyo-lenox-house
+srcHash: ea85a75854da
 title: 도쿄 레녹스 하우스(Lenox House) 방문 가이드
 description: '일본 도쿄의 레녹스 하우스(Lenox House) — 요즘 화제인 신생 맛집: 무엇을 파는 곳인지, 어디에 있는지, 어떻게 방문하는지 알아봅니다.'
 quickAnswer: 레녹스 하우스(Lenox House)는 요요기(Yoyogi)의 산구바시역(Sangubashi Station) 근처에 있는 수제 파스타 전문 이탈리안 레스토랑으로, 컬트적 인기를 누리는 버거집 더 그레이트 버거(The Great Burger)를 만든 팀이 새롭게 문을 연 곳입니다. 제철 일본 식재료를 활용한 이탈리아 각 지방 요리로 유명하며, 빈티지하면서도 모던한 다이닝 공간에서 이를 즐길 수 있습니다. 가능하다면 미리 예약하고, 방문 전 최신 영업시간을 확인하세요 — 최근 화제가 되고 있는 신생 매장이라 세부 정보가 바뀔 수 있습니다.

@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: sapporo-shiroi-koibito-park
+srcHash: d524f7905626
 title: 'Shiroi Koibito Park: Guía de viaje de Sapporo'
 description: Shiroi Koibito Park es un peculiar museo y fábrica temática de chocolate a cargo del confitero Ishiya, ubicado en Nishi Ward, en el extremo occidental de Sapporo.
 quickAnswer: Shiroi Koibito Park es un peculiar museo y fábrica temática de chocolate a cargo del confitero Ishiya, ubicado en Nishi Ward, en el extremo occidental de Sapporo. Toma la línea de metro Tozai hasta la estación Miyanosawa (Miyanosawa Station), y luego un breve trayecto en autobús o una caminata de 15 minutos; calcula entre 1,5 y 2 horas para recorrer las exhibiciones, ver cómo se elaboran las galletas y comprar en la panadería del lugar. Es mejor combinarlo con un itinerario de medio día por el oeste de Sapporo que visitarlo como una excursión aparte.

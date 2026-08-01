@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: ho-chi-minh-city-tonkin-specialty-coffee
+srcHash: 51e2a4d5eafc
 title: '통킨 스페셜티 커피: 호치민시 여행 가이드'
 description: 통킨 스페셜티 커피(Tonkin Specialty Coffee)는 1군(District 1) 벤탄(Bến Thành) 지구 91 Lý Tự Trọng에 위치한 작고 세련된 디자인의 카페로, 벤탄 시장(Bến Thành Market) 로터리에서 걸어서 가까운 거리에 있다.
 quickAnswer: 통킨 스페셜티 커피는 1군(District 1) 벤탄(Bến Thành) 지구 91 Lý Tự Trọng에 위치한 작고 세련된 디자인의 카페로, 벤탄 시장(Bến Thành Market) 로터리에서 걸어서 가까운 거리에 있다. 흔한 연유 커피 대신 달랏(Da Lat), 카우닷(Cau Dat) 등 베트남 단일 원산지 원두로 내린 푸어오버와 베트남식 스페셜티 커피를 맛보러 가보자. 30~45분 정도 여유를 두고, 카페 수준의 정성이 담긴 커피를 길거리 음식 수준의 가격에 즐길 수 있다. 공간이 아담한 편이라 자리에 앉고 싶다면 평일 오전 중 방문을 추천한다.

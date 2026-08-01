@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: yogyakarta-the-tree-restaurant-yogyakarta
+srcHash: 881156d5cbdd
 title: '더 트리 레스토랑(The Tree Restaurant): 족자카르타에서 어디서 먹을까'
 description: 더 트리 레스토랑 족자카르타(The Tree Restaurant Yogyakarta)는 프람바난(Prambanan) 지구 삼비레조(Sambirejo) 마을, 정원에 자리한 조용한 식당으로 — 족자카르타 시내에서 동쪽으로 차로 약 25-30분 거리에 있습니다.
 quickAnswer: 더 트리 레스토랑 족자카르타(The Tree Restaurant Yogyakarta)는 프람바난(Prambanan) 지구 삼비레조(Sambirejo) 마을, 정원에 자리한 조용한 식당으로 — 족자카르타 시내에서 동쪽으로 차로 약 25-30분 거리, 프람바난 사원(Prambanan Temple)에서는 불과 몇 분 거리에 있습니다. 시내에서 한참 벗어난 곳에 있는 만큼 독립적인 목적지라기보다는 사원 방문 전후에 들르는 여유로운 점심 장소로 생각하는 것이 좋습니다. 130개가 넘는 리뷰에서 평점 4.8을 기록하고 있어, 일반적인 사원-택시 코스에서 살짝 벗어날 의향이 있는 여행자에게 만족감을 줍니다.

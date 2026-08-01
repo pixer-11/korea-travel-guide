@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: okinawa-chatan-steam-seafood
+srcHash: 0c793154f533
 title: 'Chatan Steam Seafood: dónde comer en Okinawa'
 description: Chatan Steam Seafood es un bufé de marisco al vapor para elegir tú mismo, situado en el 3.er piso de un edificio en Mihama, Chatan — el distrito de American Village en la costa oeste de Okinawa.
 quickAnswer: Chatan Steam Seafood es un bufé de marisco al vapor para elegir tú mismo, situado en el 3.er piso de un edificio en Mihama, Chatan — el distrito de American Village en la costa oeste de Okinawa. Los comensales seleccionan marisco fresco, patas de cangrejo, langostinos y pescado de un expositor con hielo, se lo entregan al personal, y se cocina al vapor al momento y se lleva a la mesa. Conviene ir temprano o fuera de las horas punta (almuerzo entre semana) para evitar la espera; suele generar largas colas a pesar de —o precisamente por— su calificación de 4.7 con casi 3,500 reseñas.

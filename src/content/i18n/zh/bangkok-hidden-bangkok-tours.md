@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: bangkok-hidden-bangkok-tours
+srcHash: 7bd8b2d5629c
 title: 探秘曼谷之旅（Hidden Bangkok Tours）：旅行指南
 description: 探秘曼谷之旅（Hidden Bangkok Tours）带你以小团形式漫步吞武里（Thonburi）与曼谷艾（Bangkok Yai）——大皇宫对岸那片沿运河而建的老城区，聚焦当地寺庙、店屋小巷与地道街头美食。
 quickAnswer: 探秘曼谷之旅（Hidden Bangkok Tours）以小团形式带你漫步吞武里（Thonburi）与曼谷艾（Bangkok Yai）——这片位于大皇宫对岸、沿运河而建的老城区，重点探访当地寺庙、店屋小巷，以及游客核心区难得一见的街头美食。建议下榻在郑王庙（Wat Arun）附近或永旺艾（Wongwian Yai）BTS站一带，选择清晨或傍晚时段出发以避开酷热，并预留3-4小时行程。凭借近400条评价、4.9分的高评分，这项行程尤其适合已经走完大皇宫环线、想体验曼谷平民生活与居住区一面的旅行者。

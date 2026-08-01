@@ -6,9 +6,12 @@
 // source post and are read from there at render time, so a translation can never
 // contradict the verified Places data.
 //
-// RESUMABLE + idempotent: a language file that already exists is skipped, so this
-// can run daily to pick up only newly published posts (and be re-run safely after
-// a partial/failed batch).
+// RESUMABLE + idempotent: a language file that already exists AND whose stored
+// `srcHash` still matches the English source is skipped, so this can run daily to
+// pick up newly published posts AND re-translate posts whose prose changed since
+// they were translated. (Before srcHash, "exists" alone meant skip — a source
+// edit never propagated, and 414 repaired descriptions stayed truncated in four
+// languages until the 2026-08-01 sweep.)
 //
 //   node scripts/translate-posts.mjs --limit=2            # try 2 posts (all langs)
 //   node scripts/translate-posts.mjs --limit=2 --lang=ko  # one language
@@ -17,7 +20,8 @@
 import './lib/env.mjs';
 import Anthropic from '@anthropic-ai/sdk';
 import { readdir, readFile, writeFile, mkdir } from 'node:fs/promises';
-import { existsSync } from 'node:fs';
+import { existsSync, readFileSync } from 'node:fs';
+import { srcHashOf, storedHashIn } from './lib/src-hash.mjs';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
@@ -46,6 +50,18 @@ const wanted = (lang, id) =>
   !ONLY.length || onlySlugs.has(id) || onlyPairs.has(`${lang}/${id}`);
 
 const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+
+// The stored srcHash of an existing translation file, or null (legacy file
+// from before hash tracking, or unreadable). Legacy files are treated as
+// up-to-date rather than re-queuing ~12,000 jobs in one run; the one-off
+// backfill (scripts/backfill-src-hashes.mjs) stamped them all on 2026-08-01.
+function storedHash(path) {
+  try {
+    return storedHashIn(readFileSync(path, 'utf8'));
+  } catch {
+    return null;
+  }
+}
 
 const TOOL = {
   name: 'submit_translation',
@@ -110,7 +126,7 @@ function spilledField(out) {
   return null;
 }
 
-async function translateOne(langCode, srcId, data, attempt = 1) {
+async function translateOne(langCode, srcId, data, hash, attempt = 1) {
   const msg = await client.messages.create({
     model: MODEL,
     // 8000 silently truncated the longest posts: the tool-use input was cut off
@@ -142,13 +158,14 @@ async function translateOne(langCode, srcId, data, attempt = 1) {
       ? `faq(${Array.isArray(out.faq) ? out.faq.length : 0}/${data.faq.length})`
       : null);
   if (bad) {
-    if (attempt < 3) return translateOne(langCode, srcId, data, attempt + 1);
+    if (attempt < 3) return translateOne(langCode, srcId, data, hash, attempt + 1);
     throw new Error(`translation malformed after ${attempt} attempts (${bad}) — not written`);
   }
 
   const fm = {
     lang: langCode,
     slug: srcId,
+    srcHash: hash,
     title: out.title,
     description: out.description || out.title,
     ...(out.quickAnswer ? { quickAnswer: out.quickAnswer } : {}),
@@ -174,7 +191,10 @@ let posts = 0;
 for (const f of files) {
   if (posts >= LIMIT) break;
   const id = f.replace(/\.md$/, '');
-  const raw = await readFile(join(POSTS, f), 'utf8');
+  // CRLF-normalize BEFORE hashing: a Windows checkout (core.autocrlf) must
+  // produce the same srcHash as the LF checkout on CI, or every local run
+  // would see every translation as stale.
+  const raw = (await readFile(join(POSTS, f), 'utf8')).replace(/\r\n/g, '\n');
   const end = raw.indexOf('\n---', 3);
   let fm;
   try { fm = yaml.load(raw.slice(4, end)); } catch { continue; }
@@ -183,14 +203,26 @@ for (const f of files) {
   if (!body) continue;
 
   const data = { title: fm.title, description: fm.description, quickAnswer: fm.quickAnswer, faq: fm.faq, body };
+  const hash = srcHashOf(data);
   let queuedForThisPost = false;
   for (const lang of langs) {
     if (!LANGS[lang]) continue;
     if (!wanted(lang, id)) continue;
     // --only names files that are already there and WRONG, so it overwrites like
     // --force does, but scoped to what was named.
-    if (!FORCE && !ONLY.length && existsSync(join(OUT, lang, `${id}.md`))) continue;
-    jobs.push({ lang, id, data });
+    if (!FORCE && !ONLY.length) {
+      const existing = join(OUT, lang, `${id}.md`);
+      if (existsSync(existing)) {
+        // A file whose stored srcHash matches the source is genuinely up to
+        // date. A MISMATCH means the English prose was edited after this
+        // translation was written — before hash tracking that file was skipped
+        // forever and served the outdated prose. A legacy file with no hash is
+        // treated as current (the 2026-08-01 backfill stamped the whole tree).
+        const stored = storedHash(existing);
+        if (stored === null || stored === hash) continue;
+      }
+    }
+    jobs.push({ lang, id, data, hash });
     queuedForThisPost = true;
   }
   if (queuedForThisPost) posts++;
@@ -205,7 +237,7 @@ async function worker() {
   while (next < jobs.length) {
     const j = jobs[next++];
     try {
-      await translateOne(j.lang, j.id, j.data);
+      await translateOne(j.lang, j.id, j.data, j.hash);
       done++;
       console.log(`  ✅ ${j.lang}/${j.id}  (${done}/${jobs.length})`);
     } catch (e) {

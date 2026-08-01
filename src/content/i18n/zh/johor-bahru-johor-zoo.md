@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: johor-bahru-johor-zoo
+srcHash: 58ed94f4ab88
 title: 柔佛动物园:新山旅游指南
 description: 柔佛动物园是位于新山打兰依斯达纳(Taman Istana)的一座小型老式市立动物园,以喂骆驼、骑小马和脚踏船闻名,而非现代化的动物栖息展区。
 quickAnswer: 柔佛动物园是位于新山打兰依斯达纳(Taman Istana)的一座小型老式市立动物园,以喂骆驼、骑小马和脚踏船闻名,而非现代化的动物栖息展区。建议选在工作日早上开园时前往,以避开炎热和周末的家庭客流,预留两到三个小时游览,并可与附近的苏丹阿布巴卡州立清真寺(Sultan Abu Bakar State Mosque)和阿布巴卡皇家博物馆(Royal Abu Bakar Museum)一同安排。

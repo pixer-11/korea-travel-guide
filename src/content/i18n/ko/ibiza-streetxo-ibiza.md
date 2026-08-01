@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: ibiza-streetxo-ibiza
+srcHash: 3baed76085ac
 title: 스트리트XO 이비자 (StreetXO Ibiza)
 description: 스트리트XO 이비자(StreetXO Ibiza)는 셰프 다비즈 무뇨스(Dabiz Muñoz)가 더 언익스펙티드 이비자 호텔(The Unexpected Ibiza Hotel) 안에 선보이는 하이컨셉 스트리트 푸드 레스토랑으로, 중앙 바와 오픈 키친을 중심으로 구성되어 있다.
 quickAnswer: 스트리트XO 이비자(StreetXO Ibiza)는 셰프 다비즈 무뇨스(Dabiz Muñoz)가 더 언익스펙티드 이비자 호텔(The Unexpected Ibiza Hotel) 안에 선보이는 하이컨셉 스트리트 푸드 레스토랑으로, 중앙 바와 오픈 키친을 중심으로 구성되어 있다. 무뇨스가 세계적으로 인정받는 디베르XO(DiverXO)와 같은 스트리트XO 브랜드의 이비자 지점으로, 가벼운 한 끼보다는 연극적이고 퓨전 색채가 강한 스트리트 푸드를 기대하면 된다. 미리 예약하고 적절한 복장을 갖추되, 시즌제로 새롭게 문을 연 곳인 만큼 방문 전 호텔에 직접 현재 영업시간과 예약 정책을 확인하는 것이 좋다.

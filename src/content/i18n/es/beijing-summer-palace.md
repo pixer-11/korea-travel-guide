@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: beijing-summer-palace
+srcHash: ce8789c90663
 title: 'Palacio de Verano: Guía de viaje de Pekín'
-description: Dedica al Palacio de Verano toda una mañana hasta primera hora de la tarde — entra por la Puerta Este (Dongong Men), recorre la Galería Larga y sube a la Torre del Incienso Budista
+description: 'Dedica al Palacio de Verano toda una mañana hasta primera hora de la tarde: entra por la Puerta Este (Dongong Men), recorre la Galería Larga, sube a la Torre del Incienso Budista en la Colina de la Longevidad y luego regresa bordeando el Lago Kunming.'
 quickAnswer: 'Dedica al Palacio de Verano toda una mañana hasta primera hora de la tarde: entra por la Puerta Este (Dongong Men), recorre la Galería Larga, sube a la Torre del Incienso Budista en la Colina de la Longevidad y luego regresa bordeando el Lago Kunming. Es un lugar muy popular (valoración de 4.6 con casi 10,000 reseñas), así que llega justo a la apertura o después de las 3pm para evitar las peores aglomeraciones, y calcula un mínimo de 3-4 horas.'
 faq:
   - q: ¿Cómo llego al Palacio de Verano en metro?

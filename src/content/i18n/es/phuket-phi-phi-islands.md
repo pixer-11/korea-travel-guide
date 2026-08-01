@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: phuket-phi-phi-islands
+srcHash: f887ce76ae29
 title: 'Islas Phi Phi: Guía de viaje de Phuket'
-description: Las Islas Phi Phi son una excursión en barco de un día o de una noche desde Phuket, a las que se llega mejor en lancha rápida (aproximadamente 1–1,5 horas cada trayecto) desde el muelle de Rassada
+description: Las Islas Phi Phi son una excursión en barco de un día o de una noche desde Phuket, a las que se llega mejor en lancha rápida (aproximadamente 1–1,5 horas cada trayecto) desde el muelle de Rassada (Rassada Pier) o el muelle de Chalong (Chalong Pier).
 quickAnswer: Las Islas Phi Phi son una excursión en barco de un día o de una noche desde Phuket, a las que se llega mejor en lancha rápida (aproximadamente 1–1,5 horas cada trayecto) desde el muelle de Rassada (Rassada Pier) o el muelle de Chalong (Chalong Pier). Ve por Maya Bay, los acantilados de piedra caliza de Phi Phi Leh y el snorkel en la laguna Pileh (Pileh Lagoon); reserva un día completo si no te vas a quedar a pasar la noche. Reserva un tour o el ferry con uno o dos días de antelación, especialmente en temporada alta (noviembre–abril).
 faq:
   - q: ¿Cómo llego a las Islas Phi Phi desde Phuket?

@@ -1,6 +1,6 @@
 ---
 title: "Parc de la Tête d'Or: Lyon Travel Guide"
-description: "Parc de la Tête d'Or is Lyon's 117-hectare green lung in the 6th arrondissement, free to enter daily from 6:30am to 10:30pm, with a lake, botanical garden"
+description: Parc de la Tête d'Or is Lyon's 117-hectare green lung in the 6th arrondissement, free to enter daily from 6:30am to 10:30pm, with a lake, botanical garden, rose garden and free zoo.
 country: "France"
 region: "Lyon"
 category: "hidden-gem"

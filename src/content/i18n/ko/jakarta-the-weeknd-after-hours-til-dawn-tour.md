@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: jakarta-the-weeknd-after-hours-til-dawn-tour
+srcHash: 0debf0c81ef9
 title: '위켄드 – After Hours Til Dawn 투어: 자카르타 공연 알아두기'
 description: 2026년 9월 26~27일, 인도네시아 자카르타에서 열리는 위켄드(The Weeknd)의 After Hours Til Dawn 투어. 공연 개요와 일정·장소, 그리고 관람 계획 짜는 법을 소개합니다.
 quickAnswer: '위켄드가 AFTER HOURS TIL DAWN 월드투어를 이끌고 자카르타 국제 경기장(Jakarta International Stadium, JIS)에서 2026년 9월 26일과 27일, 이틀간 공연을 엽니다 — 이번 투어의 동남아시아 첫 무대입니다. 두 공연 날짜를 하나의 이벤트로 보고 계획을 세우는 것이 좋습니다: 북자카르타(North Jakarta)에서 여러 밤을 묵는 일정으로 항공권과 숙소를 예약하고, 정확한 입장 시간, 셋리스트 세부사항, 티켓 등급은 아직 공식적으로 확정되지 않았으니 구매 전 위켄드 공식 투어 사이트나 Live Nation Indonesia에서 반드시 확인하세요.'

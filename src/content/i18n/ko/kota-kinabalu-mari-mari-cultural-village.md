@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: kota-kinabalu-mari-mari-cultural-village
+srcHash: 3d21011270c8
 title: '마리 마리 문화 마을: 코타키나발루 여행 가이드'
 description: 코타키나발루(Kota Kinabalu) 시내에서 내륙으로 약 25분 거리인 이나남(Inanam)에 위치한 마리 마리 문화 마을(Mari Mari Cultural Village)은 다섯 개의 재현된 부족 전통 가옥을 둘러보는 반나절 가이드 투어입니다.
 quickAnswer: 마리 마리 문화 마을(Mari Mari Cultural Village)은 코타키나발루(Kota Kinabalu) 시내에서 내륙으로 약 25분 거리인 이나남(Inanam)에 위치하며, 카다잔두순(Kadazan-Dusun), 바자우(Bajau), 무룻(Murut), 룬다유(Lundayu), 룽구스(Rungus) 등 다섯 부족의 전통 가옥을 재현한 곳을 둘러보는 반나절 가이드 투어입니다. 불 피우기, 문신, 블로우파이프 시연과 요리 체험, 마지막 부족 춤 공연까지 포함되어 있습니다. 거의 4,000개의 리뷰에서 평점 4.7을 기록하며, 사바(Sabah)의 원주민 문화를 압축적이고 감각적으로 체험할 수 있는 도시 내 가장 인기 있는 방법입니다 — 정해진 출발 시간에 호텔 픽업으로 운영되므로 오전 또는 오후 투어 시간대를 미리 예약해야 합니다. 이동 시간을 포함해 3~4시간 정도 소요되며, 마을 내 길이 흙길과 나무 판자로 이루어진 정글 지형이므로 발이 편한 신발을 신고 가는 것이 좋습니다.

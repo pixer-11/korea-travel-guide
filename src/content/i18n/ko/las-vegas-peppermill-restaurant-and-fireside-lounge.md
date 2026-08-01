@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: las-vegas-peppermill-restaurant-and-fireside-lounge
+srcHash: 03ca7b6f8564
 title: '페퍼밀 레스토랑 앤 파이어사이드 라운지: 라스베이거스 맛집 가이드'
 description: 2985 Las Vegas Blvd S에 위치한 페퍼밀 레스토랑 앤 파이어사이드 라운지는 파이어핏 칵테일 라운지와 푸짐한 양으로 유명한 스트립의 대표적인 다이너 겸 라운지입니다.
 quickAnswer: 2985 Las Vegas Blvd S에 위치한 페퍼밀 레스토랑 앤 파이어사이드 라운지(Peppermill Restaurant and Fireside Lounge)는 파이어핏 칵테일 라운지와 푸짐한 양으로 유명한 스트립의 대표적인 다이너 겸 라운지입니다. 개점 직후인 오전 7시~8시가 요일과 관계없이 가장 여유로운 시간대이니 그때 가는 것이 좋습니다. 주말에는 오전 늦게부터 거의 자정까지 붐비기 때문입니다. 목요일부터 일요일까지는 24시간 영업하므로 새벽 2시에 부스에 앉는 것도 실제로 가능한 선택입니다.

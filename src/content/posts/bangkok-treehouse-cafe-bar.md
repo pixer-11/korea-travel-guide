@@ -1,6 +1,6 @@
 ---
 title: 'Treehouse Cafe & Bar: Bangkok Travel Guide'
-description: Treehouse Cafe & Bar is a jungle-themed café tucked down Sukhumvit Soi 31 in Watthana, best visited on a weekday afternoon to snag a table among the vines
+description: Treehouse Cafe & Bar is a jungle-themed café tucked down Sukhumvit Soi 31 in Watthana, best visited on a weekday afternoon to snag a table among the vines and fairy lights before the evening crowd arrives.
 country: Thailand
 region: Bangkok
 category: trendy

@@ -1,8 +1,9 @@
 ---
 lang: ko
 slug: taipei-neihu-fb-kitchen
+srcHash: faea763f65e0
 title: 타이베이 FB 키친(FB Kitchen)
-description: FB 키친은 타이베이 네이후(Neihu)에 위치한 포모사 플라스틱 그룹(Formosa Plastics Group)의 사내 식당이 최근 일반인에게 문을 연 곳으로, 40년 전통 레시피의 뼈 있는 소갈비 요리와
+description: FB 키친은 타이베이 네이후(Neihu)에 있는 포모사 플라스틱 그룹(Formosa Plastics Group)의 사내 식당이 최근 일반인에게 공개된 곳으로, 40년 전통 레시피로 만든 뼈 있는 소갈비와 3일간 우려낸 육수로 만드는 하루 한정 수량의 소갈비 국수로 유명하다.
 quickAnswer: FB 키친은 타이베이 네이후(Neihu)에 있는 포모사 플라스틱 그룹(Formosa Plastics Group)의 사내 식당이 최근 일반인에게 공개된 곳으로, 40년 전통 레시피로 만든 뼈 있는 소갈비와 3일간 우려낸 육수로 만드는 하루 한정 수량의 소갈비 국수로 유명하다. 점심시간에 방문하는 것이 좋으며, 1인분 수량이 제한되어 있어 대기가 발생하거나 예약이 필요할 수 있으니, 최근 문을 연 인기 매장인 만큼 방문 전 최신 영업시간을 반드시 확인하자.
 faq:
   - q: FB 키친은 예약이 필요한가요?

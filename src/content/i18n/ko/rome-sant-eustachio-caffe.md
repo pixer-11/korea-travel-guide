@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: rome-sant-eustachio-caffe
+srcHash: 5f40cd585d25
 title: '산트 유스타키오 카페: 로마 여행 가이드'
 description: 산트 유스타키오 카페(Sant' Eustachio Caffè)는 판테온에서 남쪽으로 도보 5분 거리인 산트 유스타키오 광장(Piazza di Sant'Eustachio)에 자리한 로마에서 가장 유명한 역사적인 커피바 중 하나입니다.
 quickAnswer: 산트 유스타키오 카페(Sant' Eustachio Caffè)는 판테온에서 남쪽으로 도보 5분 거리인 산트 유스타키오 광장(Piazza di Sant'Eustachio)에 자리한 로마에서 가장 유명한 역사적인 커피바 중 하나입니다. 즉, 숨겨진 명소가 아니라 늘 붐비는 곳이라는 점을 알고 가야 합니다. 먼저 계산대에서 주문하고 결제한 뒤, 영수증을 바 직원에게 건네며 "운 카페(un caffè)"라고 말하세요(따로 말하지 않으면 설탕이 들어간 것으로 알고 내줍니다. 설탕을 원치 않으면 "센자 주케로(senza zucchero)"라고 하세요). 다른 사람들처럼 바에 서서 두 모금 만에 마시고, 여유롭게 앉아 브런치를 즐기는 곳이 아니라 10~15분 정도로 계획하세요.

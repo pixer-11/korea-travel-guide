@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: nonthaburi-f-forever-1st-world-tour-in-bangkok
+srcHash: 441de28cd1af
 title: F✦FOREVER 1st World Tourバンコク公演で知っておきたいこと(ノンタブリー)
 description: F✦FOREVER 1st World Tourのバンコク公演(タイ・ノンタブリー)は2026年8月1日〜2日開催。公演の概要、日時・場所、そして事前に押さえておきたい計画のポイントを紹介します。
 quickAnswer: F✦FOREVER――「流星花園(Meteor Garden)」のF4として知られる台湾出身の3人、ジェリー・イェン(Jerry Yan)、ヴァネス・ウー(Van Ness Wu)、ヴィック・チョウ(Vic Chou)が再結成し、Maydayのアシン(Ashin)が名誉的な4人目のメンバーとして加わる形で、2026年8月1日・2日の2日間にわたりノンタブリーのIMPACTアリーナ(IMPACT Arena)で1st World Tourの一環として公演を行います。スタジアム規模の再結成公演となるため、ムアントンタニー(Muang Thong Thani)/チェーンワッタナー(Chaeng Watthana)エリアの航空券・ホテルは早めに手配し、正確な開催日、開場時間、チケット区分については渡航前に公式ツアーおよびIMPACTアリーナの公式チャンネルで必ず確認してください。

@@ -1,8 +1,6 @@
 ---
 title: 'Duden Waterfalls: Antalya Travel Guide'
-description: >-
-  Duden Waterfalls (Düden Şelalesi) in Kepez, Antalya, is best visited in the
-  Upper Duden Park (Düden Şelalesi Parkı) where the falls tumble in front of a
+description: Duden Waterfalls (Düden Şelalesi) in Kepez, Antalya, is best visited in the Upper Duden Park (Düden Şelalesi Parkı) where the falls tumble in front of a large cave you can walk into and view the cascade from behind.
 country: Turkey
 region: Antalya
 category: attraction

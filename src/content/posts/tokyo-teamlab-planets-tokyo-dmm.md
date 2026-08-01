@@ -1,6 +1,6 @@
 ---
 title: "teamLab Planets TOKYO DMM: Travel Guide"
-description: "teamLab Planets is a barefoot, water-and-light digital art museum in Toyosu, Koto City — book a timed ticket online in advance, wear shorts or"
+description: teamLab Planets is a barefoot, water-and-light digital art museum in Toyosu, Koto City — book a timed ticket online in advance, wear shorts or roll-up-friendly clothing (you'll wade through water), and budget 90 minutes to 2 hours.
 country: "Japan"
 region: "Tokyo"
 category: "trendy"

@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: taiyuan-2026-china-open-snooker
+srcHash: 86fd9d1851b4
 title: 'China Open 2026 (Snooker): lo que hay que saber (Taiyuan)'
 description: China Open 2026 de snooker en Taiyuan, China — del 8 al 16 de agosto de 2026. Qué es, cuándo y dónde se celebra, y cómo organizar la visita.
 quickAnswer: El torneo de snooker China Open 2026 se disputa del 8 al 16 de agosto de 2026 en el Riverside Sports Centre de Taiyuan, provincia de Shanxi, con la participación prevista del campeón defensor Neil Robertson y otros profesionales de primer nivel. Compra las entradas y confirma los horarios de las sesiones a través de los canales oficiales del World Snooker Tour más cerca de la fecha, ya que las sedes y los calendarios de los eventos de ranking chinos pueden cambiar.

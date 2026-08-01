@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: strasbourg-cathedrale-notre-dame-de-strasbourg
+srcHash: 308ddc88ff63
 title: 斯特拉斯堡圣母主教座堂（Cathédrale Notre-Dame-de-Strasbourg）：旅行指南
 description: 斯特拉斯堡主教座堂是一座仍在使用的教区教堂，拥有玫瑰窗、天文钟，以及一座曾在几个世纪里雄踞欧洲天际线的142米尖塔。
 quickAnswer: 斯特拉斯堡主教座堂是一座仍在使用的教区教堂，拥有玫瑰窗、天文钟，以及一座曾在几个世纪里雄踞欧洲天际线的142米尖塔——而且入内参观是免费的。建议在工作日早上8:30开门时前往，此时中殿几乎空无一人，因为周末中午到下午5点，广场会挤满旅行团。参观内部大约需要45分钟到1小时，如果登塔或赶上正午的钟表表演，则需要更多时间。

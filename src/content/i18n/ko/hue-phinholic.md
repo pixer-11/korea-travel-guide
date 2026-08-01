@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: hue-phinholic
+srcHash: 87b1a10c24bc
 title: '핀홀릭(PhinHolic): 후에 여행 가이드'
 description: 핀홀릭(PhinHolic)은 후에(Hue) 흐엉강(Perfume River) 남안, 투언호아(Thuận Hóa) 지구의 65 Bến Nghé에 위치한 세련된 베트남식 핀 커피 카페로, 동바 시장(Dong Ba Market)과 주요 호텔 밀집 지역에서 도보나 씨클로로 잠깐이면 닿는 거리에 있습니다.
 quickAnswer: 핀홀릭(PhinHolic)은 후에(Hue) 흐엉강(Perfume River) 남안, 투언호아(Thuận Hóa) 지구의 65 Bến Nghé에 자리한 세련된 베트남식 핀 커피 카페로, 동바 시장(Dong Ba Market)과 레러이(Le Loi)·훙브엉(Hung Vuong)을 따라 늘어선 주요 호텔가에서 도보나 씨클로로 잠깐이면 갈 수 있습니다. 오전 중반이나 늦은 오후에 방문해 핀 필터로 내린 카페 쓰어 다(ca phe sua da)나 요즘 인기 있는 소금크림 커피를 주문해 보세요. 앉아서 쉬거나 일하거나 사람 구경을 하려면 45~60분 정도를 잡으면 됩니다. 음료 한 잔에 대략 25,000~55,000동(약 1~2.50달러) 정도이며, 현금이나 QR 계좌이체로 결제할 수 있습니다.

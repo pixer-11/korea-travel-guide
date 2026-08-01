@@ -1,6 +1,6 @@
 ---
 title: 'Griffith Observatory: Los Angeles Travel Guide'
-description: Griffith Observatory, perched on the southern slope of Mount Hollywood in Griffith Park, is free to enter and open Wednesday–Sunday afternoons into the
+description: Griffith Observatory, perched on the southern slope of Mount Hollywood in Griffith Park, is free to enter and open Wednesday–Sunday afternoons into the evening (closed Mondays and Tuesdays); the planetarium show and parking are the only things you pay for.
 country: United States
 region: Los Angeles
 category: attraction

@@ -1,6 +1,6 @@
 ---
 title: "Grand World: Phu Quoc Travel Guide"
-description: "Grand World Phu Quoc is a free-to-enter entertainment and shopping complex on Bãi Dài (Long Beach's northern coast), best visited late afternoon into night"
+description: Grand World Phu Quoc is a free-to-enter entertainment and shopping complex on Bãi Dài (Long Beach's northern coast), best visited late afternoon into night when the "Venice" canals, light shows, and Teddy Bear Museum come alive.
 country: "Vietnam"
 region: "Phu Quoc"
 category: "attraction"

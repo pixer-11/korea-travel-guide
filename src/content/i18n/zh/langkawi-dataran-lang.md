@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: langkawi-dataran-lang
+srcHash: d50bcddbc49d
 title: 兰卡威兰格广场（Dataran Lang）旅游指南
 description: 兰格广场（Dataran Lang，又称鹰广场）坐落在兰卡威瓜镇（Kuah）的海滨，从停靠槟城及马来西亚半岛渡轮的瓜镇码头驱车5分钟或步行15分钟即可抵达。
 quickAnswer: 兰格广场（Dataran Lang，又称鹰广场）坐落在兰卡威瓜镇（Kuah）的海滨，从停靠槟城及马来西亚半岛渡轮的瓜镇码头驱车5分钟或步行15分钟即可抵达。这里是一处颇受欢迎、常被拍照打卡的景点，而非什么隐秘去处，建议预留30-45分钟游览时间，最好选在清晨或日落前造访，避开旅行团人潮，才能拍到干净的巨鹰雕像画面。

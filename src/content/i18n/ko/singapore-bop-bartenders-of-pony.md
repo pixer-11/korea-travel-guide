@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: singapore-bop-bartenders-of-pony
+srcHash: 6ab1b9f54198
 title: 'BOP(바텐더스 오브 포니): 싱가포르 여행 가이드'
 description: 싱가포르 탄종 파가(Tanjong Pagar)에 새로 생긴 화제의 명소, BOP(Bartenders of Pony) — 무엇을 하는 곳이고, 어디에 있으며, 어떻게 방문하면 되는지 소개합니다.
 quickAnswer: BOP(Bartenders of Pony)는 Jigger & Pony 팀과 바텐더 우노 장(Uno Jang)이 함께 만든 한국식 칵테일 다이닝 바로, 탄종 파가(Tanjong Pagar)의 바가 밀집한 뒷골목에 위치한 개조된 숍하우스 안에 자리하고 있습니다. 2026년 1월 31일 문을 열었으며, 활기찬 프런트 바와 한국식 단체 술자리·식사에 맞춰 만들어진 조용한 뒤쪽 라운지 룸으로 나뉘어 있습니다. 오픈한 지 얼마 안 돼 빠르게 주목받고 있으니, 미리 예약하고 방문 전 최신 영업시간을 확인하는 것이 좋습니다.

@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: jinju-jinju-national-museum
+srcHash: 4833069c8d6e
 title: 진주국립박물관 여행 가이드
 description: 진주국립박물관은 남강 변, 진주성(Jinjuseong) 안에 자리하고 있으며, 처절했던 1592~93년 임진왜란 진주성 전투를 이해하기에 한국에서 가장 좋은 곳이다.
 quickAnswer: 진주국립박물관은 남강 변, 진주성(Jinjuseong, Jinju Fortress) 안에 자리하고 있으며, 처절했던 1592~93년 임진왜란 진주성 전투를 이해하기에 한국에서 가장 좋은 곳이다. 관람에는 90분에서 2시간 정도 시간을 잡고, 진주성 성곽과 촉석루(Chokseongnu) 산책을 함께 즐겨보자. 전시실을 한적하게 둘러보고 싶다면 평일 오전에 방문하는 것이 좋다.

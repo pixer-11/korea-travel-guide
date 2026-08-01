@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: sokcho-manseok-dakgangjeong-deep-fried-and-braised-chicken
+srcHash: 8615441a56bc
 title: 万石鸡加浆(Manseok Dakgangjeong，炸鸡加浆)：束草美食推荐
 description: 万石鸡加浆是束草的鸡加浆（Dakgangjeong）名店——外脆里嫩的炸鸡块裹上甜辣蒜香酱汁——就在束草青草湖附近，深受食客喜爱。
 quickAnswer: 万石鸡加浆是束草鸡加浆（Dakgangjeong，一种裹上甜辣蒜香酱汁的一口大小炸鸡）名店，位于束草青草湖（Cheongchoho）湖区附近。这里氛围轻松随意，价位适中（价格等级2），在2300余条评价中评分约为4.0，用餐高峰期需要排队等位。建议点一份整份大家一起分享，如果拿不定主意可以要求"半辣半原味"，可以配米饭吃，也可以当作下酒菜（Anju）配冰啤酒享用。

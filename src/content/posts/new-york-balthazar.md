@@ -1,6 +1,6 @@
 ---
 title: "Balthazar: Where to Eat in New York"
-description: "Balthazar, at 80 Spring St in SoHo, is the classic Parisian-style brasserie of New York — red leather banquettes, brass rails, a raw bar, steak frites and an"
+description: Balthazar, at 80 Spring St in SoHo, is the classic Parisian-style brasserie of New York — red leather banquettes, brass rails, a raw bar, steak frites and an all-day bakery counter.
 country: "United States"
 region: "New York"
 category: "restaurant"

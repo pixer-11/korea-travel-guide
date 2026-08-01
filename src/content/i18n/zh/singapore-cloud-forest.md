@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: singapore-cloud-forest
+srcHash: 5df1c8912d33
 title: 云雾林:新加坡旅行指南
 description: 云雾林(Cloud Forest)是滨海湾花园(Gardens by the Bay,18 Marina Gardens Dr)内的穹顶温室,以一座35米高的室内瀑布和云雾缭绕的高山植物景观为核心景观。
 quickAnswer: 云雾林是滨海湾花园(18 Marina Gardens Dr)内的穹顶温室,围绕着一座35米高的室内瀑布和一座云雾缭绕的热带高地植物山而建。凭借31,500多条评价和4.8分的评分,它是新加坡最受欢迎的景点之一,因此建议选在工作日一开门(上午10点)就前往,趁旅游团到来之前先走完山间步道。建议预留60-90分钟游览时间,并搭配同一张门票可参观的相邻花穹一起游玩。

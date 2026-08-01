@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: yogyakarta-blanco-coffee-and-books
+srcHash: fadf97d5407d
 title: Blanco Coffee And Books：日惹旅行指南
 description: Blanco Coffee And Books 是位于日惹（Yogyakarta）Jetis 区 Jl. Kranggan 街上的一家采光明亮、风格极简的咖啡馆，就在旧城墙以北、Tugu Jogja 纪念碑附近。
 quickAnswer: Blanco Coffee And Books 是位于日惹 Jetis 区 Jl. Kranggan 街上的一家采光明亮、风格极简的咖啡馆，就在旧城墙以北、Tugu Jogja 纪念碑附近。这里值得一去的理由是精心挑选的印尼单一产地咖啡、简短的轻食菜单，以及宁静的阅读角氛围——最好选在工作日上午前往，避开午餐人潮和拍照打卡的人流。建议预留大约45–90分钟，消费属于中等价位（价位等级2），够点一杯咖啡加一份小食。

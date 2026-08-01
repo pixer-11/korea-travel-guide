@@ -1,6 +1,6 @@
 ---
 title: "Singapore Flyer: Travel Guide"
-description: "The Singapore Flyer is a 165-metre observation wheel on Raffles Avenue in Marina Bay, offering 360-degree views over the Marina Bay Sands skyline, the"
+description: The Singapore Flyer is a 165-metre observation wheel on Raffles Avenue in Marina Bay, offering 360-degree views over the Marina Bay Sands skyline, the Padang, and (on clear days) across the Strait to Indonesia.
 country: "Singapore"
 region: "Singapore"
 category: "attraction"

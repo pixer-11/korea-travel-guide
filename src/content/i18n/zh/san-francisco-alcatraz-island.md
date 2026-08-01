@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: san-francisco-alcatraz-island
+srcHash: 52ec90fcab9b
 title: 恶魔岛：旧金山旅行指南
 description: 至少提前2-3周预订从33号码头出发的Alcatraz Cruises渡轮票（夏季需更早），并选择上午最早的班次——大约8:45或9点——以便在旅行团人潮涌来之前先参观监狱区。
 quickAnswer: 至少提前2-3周预订从33号码头（Pier 33）出发的Alcatraz Cruises渡轮票（夏季需要预订得更早），并选择上午最早的班次——大约8:45或9点——以便在旅行团人潮变多之前先参观监狱区。整个行程（包括乘船和由前囚犯与狱警讲述的精彩语音导览）建议预留2.5到3小时。记得带件外套；海湾上的风比岸边看起来的更冷。

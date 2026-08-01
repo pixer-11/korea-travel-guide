@@ -1,6 +1,6 @@
 ---
 title: "Palais des Papes: Provence Travel Guide"
-description: "The Palais des Papes sits at Place du Palais in the heart of old Avignon, a five-minute walk from the Pont Saint-Bénézet and the train station via Porte de"
+description: The Palais des Papes sits at Place du Palais in the heart of old Avignon, a five-minute walk from the Pont Saint-Bénézet and the train station via Porte de la République.
 country: "France"
 region: "Provence"
 category: "attraction"

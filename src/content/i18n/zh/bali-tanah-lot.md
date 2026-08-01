@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: bali-tanah-lot
+srcHash: 5d3c091167fa
 title: 塔纳罗特寺：巴厘岛旅行指南
 description: 塔纳罗特寺（Tanah Lot）是一座建于16世纪的海神庙，矗立在打拉湾县（Tabanan Regency）海岸外的一座礁岩小岛上，位于水明漾/仓古（Seminyak/Canggu）西北方约45-60分钟车程处。
 quickAnswer: 塔纳罗特寺（Tanah Lot）是一座建于16世纪的海神庙，矗立在打拉湾县（Tabanan Regency）海岸外的一座礁岩小岛上，位于水明漾/仓古（Seminyak/Canggu）西北方约45-60分钟车程处。建议选在日落时分前往（大约傍晚5:30-6:30，具体视季节而定），但最好提前2-3小时抵达，以避开旅游大巴带来的人潮，并趁机探索周边的悬崖步道和市集摊位。退潮时可以踏着沙滩步行至礁石底部，不过寺庙内殿仅供印度教信徒参拜。

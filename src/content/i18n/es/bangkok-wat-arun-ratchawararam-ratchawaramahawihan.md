@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: bangkok-wat-arun-ratchawararam-ratchawaramahawihan
+srcHash: 04c8da16e7a6
 title: 'Wat Arun Ratchawararam Ratchawaramahawihan: Guía de viaje de Bangkok'
 description: Wat Arun ("Templo del Amanecer") se encuentra en la orilla de Thonburi del río Chao Phraya, y la mejor forma de llegar es en el ferry que cruza el río desde el embarcadero Tha Tien, cerca del Gran Palacio.
 quickAnswer: Wat Arun ("Templo del Amanecer") se encuentra en la orilla de Thonburi del río Chao Phraya, y la mejor forma de llegar es en el ferry que cruza el río desde el embarcadero Tha Tien, cerca del Gran Palacio. Calcula entre 60 y 90 minutos para subir al prang central, admirar los mosaicos de porcelana y conchas marinas, y fotografiar la clásica vista del río; ve a última hora de la tarde para una luz más suave o justo antes del cierre para fotos de siluetas, y confirma antes de ir los horarios de admisión y de los botes vigentes, ya que ambos cambian periódicamente.

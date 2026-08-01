@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: siena-piazza-del-campo
+srcHash: 1007fa10f56e
 title: 'Piazza del Campo: Guía de viaje de Siena'
-description: La Piazza del Campo es la plaza medieval en forma de concha de Siena, rodeada por el Palazzo Pubblico y la Torre del Mangia, y escenario de la carrera de caballos del Palio
+description: La Piazza del Campo es la plaza medieval en forma de concha de Siena, rodeada por el Palazzo Pubblico y la Torre del Mangia, y escenario de la carrera de caballos del Palio cada 2 de julio y 16 de agosto.
 quickAnswer: La Piazza del Campo es la plaza medieval en forma de concha de Siena, rodeada por el Palazzo Pubblico y la Torre del Mangia, y escenario de la carrera de caballos del Palio cada 2 de julio y 16 de agosto. Es muy popular, así que el momento de calma es entre las 7am y las 9am, antes de que la llenen los grupos turísticos; los fines de semana se mantiene concurrida desde las 11am hasta las 11pm. Reserva entre 45 minutos y una hora para una primera visita, más tiempo si subes a la torre o te quedas tomando un café en la pendiente.
 faq:
   - q: ¿Cómo llego a la Piazza del Campo?

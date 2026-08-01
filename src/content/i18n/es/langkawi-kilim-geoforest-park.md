@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: langkawi-kilim-geoforest-park
+srcHash: ef45bd9d1369
 title: 'Parque Geoforestal de Kilim: Guía de viaje de Langkawi'
-description: El Parque Geoforestal de Kilim (Kilim Geoforest Park) es un ecosistema de manglares y ríos calizos en la costa noreste de Langkawi, que se explora mejor con un recorrido en barco de unas dos horas desde el
+description: El Parque Geoforestal de Kilim (Kilim Geoforest Park) es un ecosistema de manglares y ríos calizos en la costa noreste de Langkawi, que se explora mejor con un recorrido en barco de unas dos horas desde el Kilim River Tourism Jetty, que recorre los canales de manglar, una granja de peces, una cueva y una zona de avistamiento de águilas en la laguna abierta.
 quickAnswer: El Parque Geoforestal de Kilim (Kilim Geoforest Park) es un ecosistema de manglares y ríos calizos en la costa noreste de Langkawi, que se explora mejor con un recorrido en barco de unas dos horas desde el Kilim River Tourism Jetty, que recorre los canales de manglar, una granja de peces, una cueva y una zona de avistamiento de águilas en la laguna abierta. Ve entre las 9am y las 11am para disfrutar de aguas más tranquilas y menos afluencia, y reserva tu plaza en el barco con antelación, ya que es una de las excursiones más visitadas de la isla. Calcula medio día si añades kayak o el almuerzo en el restaurante flotante.
 faq:
   - q: ¿Cómo llego al Parque Geoforestal de Kilim?

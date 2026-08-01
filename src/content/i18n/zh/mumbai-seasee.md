@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: mumbai-seasee
+srcHash: 5c7cfa544d14
 title: Seasee：孟买觅食指南
 description: Seasee 位于印度孟买——一家新晋热门餐厅：它是什么、坐落何处，以及如何前往品尝。
 quickAnswer: Seasee 是位于孟买班德拉（Bandra）的一家东南亚街头美食餐厅，出自 Mirai 团队之手，主打泰式、印尼式和马来式风味——从冬阴功汤（Tom Yum）、泰式芒果沙拉，到新加坡辣椒蟹拉茄（Singapore Chilli Crab Lajiao），此外还有一个可在吧台边观赏的现场炒锅station。这里最适合当作班德拉美食街区的晚餐目的地；如果想不排长队就能有位子坐，建议工作日前往，出发前也请确认最新的营业时间和预订情况，毕竟新开业餐厅的细节可能随时调整。

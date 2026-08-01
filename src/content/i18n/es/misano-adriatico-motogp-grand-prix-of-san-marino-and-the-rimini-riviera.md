@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: misano-adriatico-motogp-grand-prix-of-san-marino-and-the-rimini-riviera
+srcHash: 5244f303b7eb
 title: 'Gran Premio de San Marino de MotoGP y la Riviera de Rímini: lo que hay que saber (Misano Adriatico)'
 description: Gran Premio de San Marino de MotoGP y la Riviera de Rímini en Misano Adriatico, Italia — 11-13 de septiembre de 2026. Qué es, cuándo y dónde se celebra, y cómo organizar el viaje.
 quickAnswer: El Gran Premio de San Marino de MotoGP vuelve al Misano World Circuit Marco Simoncelli del 11 al 13 de septiembre de 2026, con entrenamientos el viernes, clasificación y sprint el sábado, y la carrera principal el domingo por la tarde. Aloja tu base en Misano Adriatico o Riccione y reserva alojamiento con antelación, ya que este fin de semana llena toda la Riviera de Rímini. Confirma siempre el horario exacto y los detalles de las entradas en los sitios web oficiales de MotoGP y del circuito antes de viajar.

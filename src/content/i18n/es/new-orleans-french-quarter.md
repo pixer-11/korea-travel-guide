@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: new-orleans-french-quarter
+srcHash: 5774011afac5
 title: 'Barrio Francés: Guía de viaje de Nueva Orleans'
 description: El Barrio Francés (French Quarter) es la cuadrícula original de Nueva Orleans del siglo XVIII, delimitada aproximadamente por Canal Street, Rampart Street, Esplanade Avenue y el río Mississippi.
 quickAnswer: 'El Barrio Francés (French Quarter) es la cuadrícula original de Nueva Orleans del siglo XVIII, delimitada aproximadamente por Canal Street, Rampart Street, Esplanade Avenue y el río Mississippi: se puede recorrer en un día, pero vale la pena quedarse dos noches por la comida y la música. Aloja cerca de Jackson Square, recórrelo todo a pie (mide unas 13 manzanas de largo por 6 de ancho) y visítalo temprano por la mañana o entre semana para verlo sin las multitudes de Bourbon Street.'

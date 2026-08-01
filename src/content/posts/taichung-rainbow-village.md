@@ -1,6 +1,6 @@
 ---
 title: "Rainbow Village: Taichung Travel Guide"
-description: "Rainbow Village (彩虹眷村) is a former military dependents' village in Taichung's Nantun District that one elderly veteran, Huang Yung-fu, single-handedly"
+description: Rainbow Village (彩虹眷村) is a former military dependents' village in Taichung's Nantun District that one elderly veteran, Huang Yung-fu, single-handedly covered in vivid painted birds, animals, and figures to save it from demolition.
 country: "Taiwan"
 region: "Taichung"
 category: "attraction"

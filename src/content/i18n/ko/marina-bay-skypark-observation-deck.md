@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: marina-bay-skypark-observation-deck
+srcHash: dcaa33bf50d3
 title: '스카이파크 전망대: 마리나 베이 여행 가이드'
 description: 스카이파크 전망대(SkyPark Observation Deck)는 마리나 베이 샌즈(Marina Bay Sands) 타워 3 꼭대기, 지상 56층 높이에 자리해 가든스 바이 더 베이(Gardens by the Bay)를 비롯한 싱가포르의 대표 파노라마를 선사합니다.
 quickAnswer: 스카이파크 전망대는 마리나 베이 샌즈 타워 3 꼭대기, 지상 56층 높이에 자리하며, 가든스 바이 더 베이의 슈퍼트리(Supertree), 싱가포르 플라이어(Singapore Flyer), 그리고 다운타운 스카이라인을 한눈에 담을 수 있는 싱가포르 대표 파노라마 전망을 선사합니다. 시간대 지정 입장권을 온라인으로 미리 구매하고, 일몰 30~45분 전에 도착해 정상에서 약 45~60분 정도 머무를 것을 계획하세요. 이곳은 도시에서 가장 많이 찾는 명소 중 하나로(별점 4.6점, 리뷰 약 14,000건), 인파가 몰릴 것을 감안해 한적함보다는 붐빔을 미리 대비하는 편이 좋습니다.

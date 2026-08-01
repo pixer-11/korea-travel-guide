@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: phuket-cafe-phuket-viewpoint
+srcHash: 3cf2253ee475
 title: 'Cafe Phuket Viewpoint: Guía de viaje'
-description: Cafe Phuket Viewpoint se encuentra en Phrabaramee Road, en la loma sobre Patong, en la sinuosa ruta de montaña hacia Kata/Karon, y lo mejor es visitarlo a última hora de la tarde
+description: Cafe Phuket Viewpoint se encuentra en Phrabaramee Road, en la loma sobre Patong, en la sinuosa ruta de montaña hacia Kata/Karon, y lo mejor es visitarlo a última hora de la tarde (entre las 4:30 y las 6 de la tarde aproximadamente) para ver la puesta de sol sobre el mar de Andamán y la bahía de Patong desde sus terrazas escalonadas.
 quickAnswer: Cafe Phuket Viewpoint se encuentra en Phrabaramee Road, en la loma sobre Patong, en la sinuosa ruta de montaña hacia Kata/Karon, y lo mejor es visitarlo a última hora de la tarde (entre las 4:30 y las 6 de la tarde aproximadamente) para ver la puesta de sol sobre el mar de Andamán y la bahía de Patong desde sus terrazas escalonadas. Conviene ir en scooter de alquiler, taxi o Grab, ya que no hay parada de autobús público justo en la puerta; calcula entre 1 y 1,5 horas, más si quieres cenar. Con una valoración de 4,6 sobre más de 20.800 reseñas, es uno de los cafés mirador más populares de la isla, así que llega temprano o espera algo de cola para conseguir las mejores mesas junto a la baranda.
 faq:
   - q: ¿Cómo llego a Cafe Phuket Viewpoint sin scooter de alquiler?

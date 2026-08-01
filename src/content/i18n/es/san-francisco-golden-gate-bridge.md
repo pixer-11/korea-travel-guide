@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: san-francisco-golden-gate-bridge
+srcHash: 2c3dbe01ad35
 title: 'Puente Golden Gate: Guía de viaje de San Francisco'
-description: Camina o pedalea por el Puente Golden Gate desde el Welcome Center gratuito en el lado de San Francisco (sureste) — el cruce peatonal de 1.7 millas hasta Vista Point, en Marin
+description: Camina o pedalea por el Puente Golden Gate desde el Welcome Center gratuito en el lado de San Francisco (sureste) — el cruce peatonal de 1.7 millas hasta Vista Point, en Marin, toma entre 45 y 60 minutos a pie en cada dirección, o unos 20-30 minutos en bicicleta de ida.
 quickAnswer: Camina o pedalea por el Puente Golden Gate desde el Welcome Center gratuito en el lado de San Francisco (sureste) — el cruce peatonal de 1.7 millas hasta Vista Point, en Marin, toma entre 45 y 60 minutos a pie en cada dirección, o unos 20-30 minutos en bicicleta de ida. Ve temprano por la mañana o justo antes del atardecer para conseguir la mejor luz y menos niebla; el puente y el Welcome Center son gratuitos, aunque pagarás peaje solo si conduces hacia el sur, en dirección a la ciudad.
 faq:
   - q: ¿Es gratis visitar el Puente Golden Gate?

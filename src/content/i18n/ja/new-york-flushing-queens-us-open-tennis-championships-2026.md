@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: new-york-flushing-queens-us-open-tennis-championships-2026
+srcHash: 967c4405164e
 title: 全米オープンテニス選手権2026:知っておきたい基本情報(ニューヨーク)
 description: 2026年の全米オープンは8月23日から9月13日まで、クイーンズ区フラッシング・メドウズ・コロナ・パーク(Flushing Meadows–Corona Park)内のUSTAビリー・ジーン・キング・ナショナル・テニスセンターで開催されます。
 quickAnswer: 2026年の全米オープンは8月23日から9月13日まで、クイーンズ区フラッシング・メドウズ・コロナ・パーク(Flushing Meadows–Corona Park)内のUSTAビリー・ジーン・キング・ナショナル・テニスセンターで開催されます。ファンウィークと予選は8月23日に開幕し、本戦シングルスは8月30日にスタート、決勝戦は9月中旬に大会を締めくくります。7系統(7 train)でメッツ・ウィレッツポイント駅(Mets–Willets Point)まで行き、正確な試合順(order-of-play)、ゲートの開場時間、チケット価格は毎年変わるため、出発前に必ずusopen.orgで確認してください。

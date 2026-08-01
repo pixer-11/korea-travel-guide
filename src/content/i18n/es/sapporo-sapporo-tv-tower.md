@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: sapporo-sapporo-tv-tower
+srcHash: 45c78232d53e
 title: 'Torre de Televisión de Sapporo: Guía de viaje'
 description: La Torre de Televisión de Sapporo se encuentra en el extremo este del parque Odori, en el distrito de Chuo, y lo mejor es visitarla al atardecer para disfrutar de vistas sobre el parque y el monte Moiwa.
 quickAnswer: La Torre de Televisión de Sapporo (Sapporo TV Tower) se encuentra en el extremo este del parque Odori, en el distrito de Chuo, y lo mejor es visitarla al atardecer para disfrutar de vistas sobre el parque, el monte Moiwa y la retícula de la calle Ishiyama-dori que se extiende hacia las montañas. El mirador está a unos 90 metros de altura y la visita dura entre 30 y 45 minutos; combínala con un paseo por el parque Odori o una subida en el teleférico del monte Moiwa para obtener un panorama más alto y amplio. Compra las entradas en el lugar (o consulta el sitio oficial para conocer los horarios y precios actuales antes de ir, ya que cambian según la temporada).

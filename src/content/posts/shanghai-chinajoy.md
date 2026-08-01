@@ -1,6 +1,6 @@
 ---
 title: 'ChinaJoy: What to Know (Shanghai)'
-description: "ChinaJoy 2026 (China Digital Entertainment Expo) runs July 31–August 3, 2026 in Shanghai, historically staged at the National Exhibition and Convention"
+description: ChinaJoy 2026 (China Digital Entertainment Expo) runs July 31–August 3, 2026 in Shanghai, historically staged at the National Exhibition and Convention Center (NECC) in Hongqiao.
 country: China
 region: Shanghai
 category: event

@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: kampong-glam-sultan-mosque
+srcHash: e625aab3ca9b
 title: サルタン・モスク:カンポン・グラム旅行ガイド
 description: 3 Muscat Stに位置するサルタン・モスク(Masjid Sultan)はカンポン・グラムの中心であり、シンガポール最大のモスク。Bugis MRT駅(Downtown/East-West Lines)から気軽にアクセスできます。
 quickAnswer: 3 Muscat Stに位置するサルタン・モスク(Masjid Sultan)はカンポン・グラムの中心であり、シンガポール最大のモスクです。Bugis MRT駅(Downtown/East-West Lines)から気軽にアクセスできます。1日5回の礼拝時間を避けて訪れ、服装は控えめに(入口でローブの貸し出しあり)。金色のドームを持つ礼拝堂と中庭の見学には30〜45分ほど見ておき、その後は近くのハジ・レーン(Haji Lane)やアラブ・ストリート(Arab Street)を散策しましょう。

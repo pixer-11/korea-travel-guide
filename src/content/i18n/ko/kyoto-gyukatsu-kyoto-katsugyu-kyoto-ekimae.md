@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: kyoto-gyukatsu-kyoto-katsugyu-kyoto-ekimae
+srcHash: d0ca8296880b
 title: '교토역 앞 규카츠 교토 카츠규(GYUKATSU Kyoto Katsugyu Kyoto Ekimae): 어디서 먹을까'
 description: 교토역 앞 규카츠 교토 카츠규(GYUKATSU Kyoto Katsugyu Kyoto Ekimae)는 교토역에서 몇 걸음 거리에 있는 규카츠(빵가루를 입혀 튀긴 소고기 커틀릿) 전문점으로, 줄이 상대적으로 짧은 점심시간에 방문하는 것이 좋습니다.
 quickAnswer: 교토역 앞 규카츠 교토 카츠규(GYUKATSU Kyoto Katsugyu Kyoto Ekimae)는 교토역에서 몇 걸음 거리에 있는 규카츠(빵가루를 입혀 튀긴 소고기 커틀릿) 전문점으로, 줄이 상대적으로 짧은 점심시간에 방문하는 것이 좋습니다. 세트 메뉴를 주문한 뒤 개인용 돌판에서 원하는 굽기로 직접 구워 먹으면 되며, 만족스러운 한 끼에 대략 ¥1,500~¥2,500 정도가 듭니다(구글 가격대 기준 2단계). 점심·저녁 피크 시간을 피하면 대기 시간은 15~30분 정도로 예상하면 됩니다.

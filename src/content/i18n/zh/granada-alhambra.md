@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: granada-alhambra
+srcHash: b80ab95f7833
 title: 阿尔罕布拉宫：格拉纳达旅行指南
 description: 建议提前数周（旺季则提前数月）在官方网站 tickets.alhambra-patronato.es 上预订阿尔罕布拉宫门票，并选定纳斯里德宫殿的具体入场时段。
 quickAnswer: 建议提前数周（旺季则提前数月）在官方网站 tickets.alhambra-patronato.es 上预订阿尔罕布拉宫（Alhambra）门票，并选定纳斯里德宫殿（Nasrid Palaces）的具体入场时段——这是整个游览行程中唯一有严格时间限制、不可通融的部分。参观纳斯里德宫殿、阿尔卡萨瓦城堡（Alcazaba）和赫内拉利费花园（Generalife）至少需要3-4小时,请务必在宫殿预约时段前至少30分钟到达,迟到者将被谢绝入内。

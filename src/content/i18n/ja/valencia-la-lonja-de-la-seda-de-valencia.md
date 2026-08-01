@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: valencia-la-lonja-de-la-seda-de-valencia
+srcHash: 01fd94844595
 title: ラ・ロンハ・デ・ラ・セダ(ヴァレンシア絹取引所):旅行ガイド
 description: ラ・ロンハ・デ・ラ・セダは、ユネスコ世界遺産に登録されているヴァレンシアの旧絹取引所で、シウタット・ベリャ(Ciutat Vella)のC/ de la Llotja, 2に位置し、メルカド・セントラル(Mercado Central)のすぐ向かいにあります。
 quickAnswer: ラ・ロンハ・デ・ラ・セダは、ユネスコ世界遺産に登録されているヴァレンシアの旧絹取引所で、シウタット・ベリャ(Ciutat Vella)のC/ de la Llotja, 2に位置し、メルカド・セントラル(Mercado Central)のすぐ向かいにあります。所要時間は45〜60分ほど見ておけば十分で、見どころはサラ・デ・コントラタシオン(Sala de Contratación)のねじれたコリント式風の柱と、コンスラード・デル・マル(Consulado del Mar)の格天井です。混雑を避けるなら平日の朝早くに訪れるのがおすすめです。ここは非常に人気のスポットで、ツアー団体が到着すると一気に列ができてしまいます。

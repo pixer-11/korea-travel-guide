@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: shanghai-vice
+srcHash: c9a1282e7cc9
 title: VICE en Shanghái
-description: VICE es un nuevo restaurante en Yongjia Lu, en la antigua Concesión Francesa de Shanghái, instalado en una casa de callejón (lane house) restaurada, obra del chef Carlos Sotomayor y
+description: VICE es un nuevo restaurante en Yongjia Lu, en la antigua Concesión Francesa de Shanghái, instalado en una casa de callejón (lane house) restaurada, obra del chef Carlos Sotomayor y Raffe Ibrahamian, de Cantina Agave.
 quickAnswer: VICE es un nuevo restaurante en Yongjia Lu, en la antigua Concesión Francesa de Shanghái, instalado en una casa de callejón (lane house) restaurada, obra del chef Carlos Sotomayor y Raffe Ibrahamian, de Cantina Agave. La cocina combina las raíces peruanas de Sotomayor con influencias asiáticas en una carta de mentalidad global, lo que lo convierte en una de las aperturas de las que más se habla entre quienes recorren la escena gastronómica de la ciudad. Como es un local recién inaugurado y muy comentado, conviene reservar con antelación y confirmar el horario actual antes de ir.
 faq:
   - q: ¿Dónde está exactamente VICE?

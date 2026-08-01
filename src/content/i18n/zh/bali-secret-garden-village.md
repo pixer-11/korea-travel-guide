@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: bali-secret-garden-village
+srcHash: 8e790332c27b
 title: 秘密花园村：巴厘岛旅行指南
 description: 秘密花园村（Secret Garden Village）是位于塔巴南（Tabanan）巴图里蒂（Baturiti）登巴萨—贝杜古（Denpasar–Bedugul）公路沿线的一座老少皆宜的文化公园，从登巴萨/水明漾（Seminyak）出发向北约需90分钟到2小时车程。
 quickAnswer: 秘密花园村是位于塔巴南巴图里蒂、登巴萨—贝杜古公路沿线的一座老少皆宜的文化公园，从登巴萨/水明漾出发向北约需90分钟到2小时，距贝杜古（Bedugul）的水神庙（Ulun Danu Beratan Temple）向南约20—30分钟车程。虽然名字里带"秘密"，但这其实是一处广为人知、游客众多的热门景点（评分4.6，评论超过5,500条），以巴厘历史、手工艺和花园景观为主题——建议安排2—3小时游览，并可与贝杜古一日游行程搭配。建议工作日上午前往，以避开旅游大巴人潮。

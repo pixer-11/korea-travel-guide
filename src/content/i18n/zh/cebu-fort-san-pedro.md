@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: cebu-fort-san-pedro
+srcHash: 5f6538f1d484
 title: 圣佩德罗堡：宿务旅行指南
 description: 圣佩德罗堡（Fort San Pedro）坐落于宿务市中心独立广场（Plaza Independencia）一角，是一座低矮的三角形石砌堡垒，30–45分钟即可逛完。
 quickAnswer: 圣佩德罗堡坐落于宿务市中心独立广场一角，是一座低矮的三角形石砌堡垒，30–45分钟即可逛完。这里是热门景点（4.2星，近8000条评论），建议选在开门后不久的清晨，或傍晚时段前往，以避开旅游大巴人潮。可以将它与附近的马拉卡南沙苏戈宫（Malacañang sa Sugbo）以及宿务码头区域串联起来，安排半天西班牙殖民历史主题行程。

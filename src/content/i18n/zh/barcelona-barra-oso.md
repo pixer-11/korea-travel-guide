@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: barcelona-barra-oso
+srcHash: d2acc20210dd
 title: Barra Oso：巴塞罗那旅行指南
 description: 西班牙巴塞罗那的 Barra Oso——一处正当红的新去处：它是什么、位于哪里，以及如何前往。
 quickAnswer: Barra Oso 是巴塞罗那上城区的一家酒吧餐厅，已成为2026年城中最炙手可热的新餐桌之一——一间受《熊家餐馆》(The Bear) 启发的空间，配有开放式厨房、自然酒，以及由DJ驱动的深夜活力，最出名的是黄条鰤鱼塔塔（amberjack crudo）和牛肉塔塔。建议选择较晚的晚餐时段而非早场，并提前预订，因为这里的口碑已迅速传开。出发前请直接确认最新的营业时间和预订政策，因为相关信息会随需求变化而调整。

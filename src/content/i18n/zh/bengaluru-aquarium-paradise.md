@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: bengaluru-aquarium-paradise
+srcHash: e43328af6907
 title: 水族天堂（Aquarium Paradise）：班加罗尔（Bengaluru）旅行指南
 description: 水族天堂（Aquarium Paradise）是位于 Jayamahal Main Road、J.C. Nagar 电视塔（TV Tower）对面的一家小型观赏鱼商店兼展示厅，每天上午10:30至晚上8点营业。
 quickAnswer: 水族天堂（Aquarium Paradise）是位于 Jayamahal Main Road、J.C. Nagar 电视塔（TV Tower）对面的一家小型观赏鱼商店兼展示厅，每天上午10:30至晚上8点营业。与其说它是一个旅游景点，不如说它是一家实实在在的水族用品店，店内有数百个鱼缸，吸引着全城的水族爱好者前来——所以建议选择工作日的上午或傍晚早些时候前往，以避开下班后和周末的高峰人潮。建议安排30-45分钟，如果打算购物，请携带现金或银行卡。

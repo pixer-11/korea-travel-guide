@@ -1,8 +1,9 @@
 ---
 lang: zh
 slug: izmir-agora-of-smyrna
+srcHash: c7f9597e87e9
 title: 士麦那集市（阿哥拉）：伊兹密尔旅行指南
-description: 士麦那集市（Agora of Smyrna）坐落在伊兹密尔科纳克（Konak）的纳玛兹加赫（Namazgah）区，是公元178年地震后重建的罗马城市集市遗址，保存有
+description: 士麦那集市（Agora of Smyrna）坐落在伊兹密尔科纳克（Konak）的纳玛兹加赫（Namazgah）区，是公元178年地震后重建的罗马城市集市遗址，拥有三拱巴西利卡（basilica）、带柱廊的庭院，以及至今仍可步入其中的拱顶蓄水池。
 quickAnswer: 士麦那集市（Agora of Smyrna）坐落在伊兹密尔科纳克（Konak）的纳玛兹加赫（Namazgah）区，是公元178年地震后重建的罗马城市集市遗址，拥有三拱巴西利卡（basilica）、带柱廊的庭院，以及至今仍可步入其中的拱顶蓄水池。建议安排45–75分钟游览，最好选在上午阳光还未直射开阔庭院之前前往，并可与附近的凯梅拉尔特市集（Kemeraltı Bazaar）和卡迪费卡莱城堡（Kadifekale）搭配，凑成一个游览老伊兹密尔的半日行程。
 faq:
   - q: 没有车怎么去士麦那集市？

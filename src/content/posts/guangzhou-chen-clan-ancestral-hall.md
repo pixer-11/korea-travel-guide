@@ -1,6 +1,6 @@
 ---
 title: "Chen Clan Ancestral Hall: Guangzhou Travel Guide"
-description: "Chen Clan Ancestral Hall (陈家祠, Chan Sui Chi Study Hall) in Liwan District is Guangzhou's finest surviving Qing-dynasty academic temple, built in 1894 by 72"
+description: Chen Clan Ancestral Hall (陈家祠, Chan Sui Chi Study Hall) in Liwan District is Guangzhou's finest surviving Qing-dynasty academic temple, built in 1894 by 72 branches of the Chen family as a clan academy and ancestral shrine.
 country: "China"
 region: "Guangzhou"
 category: "hidden-gem"

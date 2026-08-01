@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: makati-city-john-legend-an-evening-of-songs-stories
+srcHash: 59334dbed505
 title: '존 레전드: 노래와 이야기가 있는 저녁: 알아둘 사항 (마카티 시)'
 description: 필리핀 마카티 시(Makati City)에서 열리는 존 레전드(John Legend)의 "An Evening of Songs & Stories" — 2026년 9월 3일~4일. 공연 개요와 일시, 장소, 그리고 사전 준비 방법을 안내합니다.
 quickAnswer: 존 레전드가 자신의 인티메이트한 월드투어 "An Evening of Songs & Stories"를 들고 마카티 시(Makati City)의 프로시니엄 시어터(Proscenium Theater)에서 이틀간(2026년 9월 3일~4일) 공연을 펼칩니다. 이번 공연은 스타디움 스펙터클이 아니라 피아노 중심의 담백한 스토리텔링으로 구성된 좌석제 극장 공연으로, 일반적인 아레나 콘서트보다 규모가 작고 격식 있는 관객층을 예상할 수 있습니다 — 정확한 공연 시간, 개장 시간, 잔여 티켓 여부는 공식 티켓 판매처 및 공연장 채널에서 미리 확인한 뒤 저녁 일정을 계획하시기 바랍니다.

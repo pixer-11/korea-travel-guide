@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: daegu-trendy-cafe
+srcHash: ee27d3031040
 title: Cafés de moda en Daegu
-description: Para los mejores cafés de moda de Daegu, dirígete a la zona de Dongseong-ro / Calle Kim Kwang-seok cerca de la estación de Jungangno (Línea 1) o a la más tranquila Calle Cultural de Bongsan, y
+description: Para los mejores cafés de moda de Daegu, dirígete a la zona de Dongseong-ro / Calle Kim Kwang-seok cerca de la estación de Jungangno (Línea 1) o a la más tranquila Calle Cultural de Bongsan, y para vivir la auténtica experiencia del "distrito de cafés", ve a la Calle de Cafés de Suseong-ro, junto a Suseongmot (Lago Suseong).
 quickAnswer: Para los mejores cafés de moda de Daegu, dirígete a la zona de Dongseong-ro / Calle Kim Kwang-seok cerca de la estación de Jungangno (Línea 1) o a la más tranquila Calle Cultural de Bongsan, y para vivir la auténtica experiencia del "distrito de cafés", ve a la Calle de Cafés de Suseong-ro, junto a Suseongmot (Lago Suseong). Encontrarás cafés instalados en hanok renovados, tostadurías en antiguos almacenes industriales y terrazas junto al lago; planea un recorrido de 2-3 horas combinando una parada para tomar café con un paseo. Ve entre semana por la mañana o a última hora de la tarde para evitar las colas del fin de semana, especialmente alrededor del Lago Suseong.
 faq:
   - q: ¿Cuál es la mejor estación de metro para los cafés de moda de Daegu?

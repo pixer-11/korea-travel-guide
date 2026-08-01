@@ -1,6 +1,6 @@
 ---
 title: 'Cheaper & Better Street Food: Where to Eat in Bangkok'
-description: Head to Soi Silom 20 (Silom Soi 20), a narrow lunchtime alley off Silom Road in Bang Rak, for a cluster of stalls including the highly rated \"Cheaper &
+description: Head to Soi Silom 20 (Silom Soi 20), a narrow lunchtime alley off Silom Road in Bang Rak, for a cluster of stalls including the highly rated "Cheaper & Better Street Food" spot — expect plastic stools, one-plate meals under 100 baht, and a mostly local office-worker crowd.
 country: Thailand
 region: Bangkok
 category: restaurant

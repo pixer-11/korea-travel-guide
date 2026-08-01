@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: san-francisco-fort-point-national-historic-site
+srcHash: fbd8014e599a
 title: 要塞角国家历史遗址(Fort Point National Historic Site):旧金山旅行指南
 description: 要塞角(Fort Point)是一座砖砌的南北战争时期堡垒,就藏身在金门大桥南锚点的正下方,开放时间为周四至周一 10am–5pm(周二、周三休息)。
 quickAnswer: 要塞角(Fort Point)是一座砖砌的南北战争时期堡垒,就藏身在金门大桥南锚点的正下方,开放时间为周四至周一 10am–5pm(周二、周三休息)。免费入场,建议安排 45–90 分钟游览炮台甲板、赶上一场护林员讲解或大炮操演,同时感受头顶桥面传来的嗡嗡震动。如果可以的话,尽量选在天气晴朗、风力较小的上午前往——这座堡垒正好位于海湾入口处,到了下午海峡吹来的风会变得相当猛烈。

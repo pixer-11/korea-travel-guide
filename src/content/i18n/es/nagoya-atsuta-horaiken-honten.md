@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: nagoya-atsuta-horaiken-honten
+srcHash: 3cf964886a50
 title: 'Atsuta Hōraiken Honten: dónde comer en Nagoya'
 description: 'Atsuta Hōraiken Honten, cerca del santuario Atsuta Jingu en Nagoya, es la cuna del hitsumabushi: anguila a la parrilla glaseada con salsa de soja, servida sobre arroz y comida de tres formas distintas.'
 quickAnswer: 'Atsuta Hōraiken Honten, cerca del santuario Atsuta Jingu en Nagoya, es la cuna del hitsumabushi: anguila a la parrilla glaseada con salsa de soja, servida sobre arroz y comida de tres formas distintas. Hay que contar con una espera (no se aceptan reservas para el almuerzo en el honten), una cuenta de entre ¥5,000 y ¥7,000 por persona, y unos 45–60 minutos para la comida completa. Ve con hambre, ve temprano, y combina la visita con un paseo por Atsuta Jingu.'

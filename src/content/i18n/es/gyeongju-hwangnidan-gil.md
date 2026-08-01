@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: gyeongju-hwangnidan-gil
+srcHash: 72816dced25b
 title: Hwangnidan-gil en Gyeongju
-description: Hwangnidan-gil es la calle más de moda de Gyeongju, llena de cafeterías, tiendas de alquiler de hanbok y boutiques, escondida en un barrio residencial de baja altura a poca distancia a pie
+description: Hwangnidan-gil es la calle más de moda de Gyeongju, llena de cafeterías, tiendas de alquiler de hanbok y boutiques, escondida en un barrio residencial de baja altura a poca distancia a pie al sur del conjunto de tumbas de Daereungwon y del observatorio Cheomseongdae.
 quickAnswer: 'Hwangnidan-gil es la calle más de moda de Gyeongju, llena de cafeterías, tiendas de alquiler de hanbok y boutiques, escondida en un barrio residencial de baja altura a poca distancia a pie al sur del conjunto de tumbas de Daereungwon y del observatorio Cheomseongdae. Planea pasar allí medio día paseando: alquila un hanbok, recorre los callejones laterales en busca de cafeterías independientes instaladas en hanok reconvertidos, y combínalo con un paseo al atardecer alrededor de las tumbas reales iluminadas cercanas. Gyeongju no tiene metro, así que se llega en autobús, taxi, o combinando el tren a Gyeongju/Singyeongju con un autobús interurbano.'
 faq:
   - q: ¿Cómo llego a Hwangnidan-gil desde Seúl?

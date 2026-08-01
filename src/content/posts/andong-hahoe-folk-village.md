@@ -1,6 +1,6 @@
 ---
 title: 'Andong Hahoe Folk Village: Travel Guide'
-description: Andong Hahoe Folk Village is a still-inhabited Joseon-era village on a horseshoe bend of the Nakdong River, best visited for a half-day to see traditional
+description: Andong Hahoe Folk Village is a still-inhabited Joseon-era village on a horseshoe bend of the Nakdong River, best visited for a half-day to see traditional tiled and thatched houses, the Hahoe Mask Museum, and (if timed right) a Hahoe Byeolsingut mask dance performance.
 region: Andong
 country: South Korea
 category: attraction

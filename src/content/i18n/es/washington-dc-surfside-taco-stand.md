@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: washington-dc-surfside-taco-stand
+srcHash: 71e8cce395d2
 title: 'Surfside Taco Stand: dónde comer en Washington DC'
 description: Surfside Taco Stand es un mostrador mexicano de estilo cafetería, luminoso y colorido, ubicado en 1800 N St NW en Dupont Circle, abierto las 24 horas y conocido por sus tacos y margaritas.
 quickAnswer: Surfside Taco Stand es un mostrador mexicano de estilo cafetería, luminoso y colorido, ubicado en 1800 N St NW en Dupont Circle, abierto las 24 horas y conocido por sus tacos y margaritas a precios accesibles. Ve un día entre semana por la mañana, entre las 7am y las 9am (o antes de la 1pm los fines de semana), si quieres tener el lugar para ti solo; evita los sábados y domingos por la tarde y noche (4pm–11pm), cuando está a reventar. Calcula entre 30 y 45 minutos para comer en el mostrador, o más si te vas a quedar disfrutando margaritas.

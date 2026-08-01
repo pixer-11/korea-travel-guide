@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: tokyo-tokyo-ramen-street
+srcHash: 3f1a76119d49
 title: 东京拉面街:美食指南
 description: 东京拉面街(Tokyo Ramen Street)是位于千代田区丸之内东京站一番街地下商城B1层的一条美食街,汇聚约八家备受赞誉的拉面店。
 quickAnswer: 东京拉面街(Tokyo Ramen Street)是位于千代田区丸之内东京站一番街(Ichibangai)地下商城B1层的一条美食街,汇聚约八家备受赞誉的拉面店。午餐和晚餐高峰时段通常需要排队15-40分钟,点餐需使用自助售票机付款,整个用餐过程大约需要20-30分钟。建议在开门前后(约10:30-11点)或下午时段(2-4点)前往,以避开最严重的排队高峰。

@@ -1,6 +1,6 @@
 ---
 title: 'Into the forest: Krabi Travel Guide'
-description: Into the Forest is a jungle-set café and photo-friendly attraction in Khao Thong, on the outskirts of Krabi town — best visited on a weekday morning (before
+description: Into the Forest is a jungle-set café and photo-friendly attraction in Khao Thong, on the outskirts of Krabi town — best visited on a weekday morning (before 10am) or late afternoon to avoid tour-bus crowds and harsh midday light.
 country: Thailand
 region: Krabi
 category: trendy

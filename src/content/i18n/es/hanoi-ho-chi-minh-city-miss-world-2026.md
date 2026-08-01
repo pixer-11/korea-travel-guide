@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: hanoi-ho-chi-minh-city-miss-world-2026
+srcHash: 8619758a9e39
 title: 'Miss World 2026: Lo que hay que saber (Hanói)'
-description: Miss World 2026 —la edición del 75.º aniversario del certamen— se celebra del 9 de agosto al 5 de septiembre de 2026, con unas 130 delegadas nacionales recorriendo Vietnam antes de la
+description: Miss World 2026 —la edición del 75.º aniversario del certamen— se celebra del 9 de agosto al 5 de septiembre de 2026, con unas 130 delegadas nacionales recorriendo Vietnam antes de que la gran final se retransmita en directo desde Ciudad Ho Chi Minh el 5 de septiembre.
 quickAnswer: Miss World 2026 —la edición del 75.º aniversario del certamen— se celebra del 9 de agosto al 5 de septiembre de 2026, con unas 130 delegadas nacionales recorriendo Vietnam antes de que la gran final se retransmita en directo desde Ciudad Ho Chi Minh el 5 de septiembre. Se espera que Hanói (Hanoi) sea sede de las actividades iniciales de las concursantes y de eventos culturales, mientras que Ciudad Ho Chi Minh (HCMC) concentra la final; conviene confirmar el recinto concreto, el reparto entre ciudades sede y la venta de entradas en los canales oficiales de Miss World a medida que se acerque la fecha, ya que estos detalles logísticos no estaban cerrados en el momento de escribir esta guía.
 faq:
   - q: ¿Cuándo es exactamente Miss World 2026?

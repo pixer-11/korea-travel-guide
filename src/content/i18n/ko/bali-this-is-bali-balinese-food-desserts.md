@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: bali-this-is-bali-balinese-food-desserts
+srcHash: af193663fd25
 title: '디스 이즈 발리(This Is Bali) - 발리 음식과 디저트: 어디서 먹을까'
 description: 디스 이즈 발리(This Is Bali)는 우붓(Ubud) 중심가 Jl. Goutama에 위치한 캐주얼하고 평점 높은 인도네시아 레스토랑입니다.
 quickAnswer: 디스 이즈 발리(This Is Bali)는 우붓(Ubud) 중심가 Jl. Goutama에 위치한 캐주얼하고 평점 높은 인도네시아 레스토랑으로, 바비 굴링(babi guling), 나시 짬뿌르(nasi campur) 같은 합리적인 가격의 발리 전통 음식과 다다르 굴룽(dadar gulung), 부부르 인진(bubur injin) 같은 전통 디저트로 유명합니다. 18,000개가 넘는 리뷰에서 4.9점의 평점을 받았고 중간 가격대(가격 수준 2)로, 매우 인기가 많아 점심과 저녁 피크 시간대에는 대기가 있을 수 있습니다. 이른 시간이나 오후 중반에 방문해 짭짤한 음식과 디저트를 골고루 시켜 나눠 먹고, 식사 후에는 카페와 서점이 늘어선 Jl. Goutama 거리를 산책하며 마무리하는 것을 추천합니다.

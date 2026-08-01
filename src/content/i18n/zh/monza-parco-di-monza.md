@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: monza-parco-di-monza
+srcHash: 1e19e65de0de
 title: 蒙扎公园（Parco di Monza）旅行指南
 description: 蒙扎公园（Parco di Monza）是欧洲现存最大的带围墙公园之一（占地约700公顷），将皇家别墅（Villa Reale）与蒙扎国家赛车场（Autodromo Nazionale Monza）环抱其中。
 quickAnswer: 蒙扎公园（Parco di Monza）是欧洲现存最大的带围墙公园之一（占地约700公顷），将皇家别墅（Villa Reale）与蒙扎国家赛车场（Autodromo Nazionale Monza）环抱其中。建议选择工作日清晨前往，可以避开人潮——骑行、野餐，加上F1赛道对外开放的公共道路，让这里轻松就能安排半天甚至一整天的行程。可从蒙扎门（Porta Monza）或维达诺门（Porta Vedano）入园，前往皇家别墅花园，或沿赛道外围公共道路走一圈。

@@ -1,6 +1,6 @@
 ---
 title: 'Dongdaemun Design Plaza (DDP): Seoul Travel Guide'
-description: Dongdaemun Design Plaza (DDP) is Zaha Hadid's neofuturist, riveted-aluminium landmark in Jung District, right above Dongdaemun History & Culture Park Station
+description: Dongdaemun Design Plaza (DDP) is Zaha Hadid's neofuturist, riveted-aluminium landmark in Jung District, right above Dongdaemun History & Culture Park Station (Lines 2, 4, and 5, exits 1 and 2).
 country: South Korea
 region: Seoul
 category: attraction

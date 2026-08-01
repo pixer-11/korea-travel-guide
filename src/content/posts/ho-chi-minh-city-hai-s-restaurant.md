@@ -1,6 +1,6 @@
 ---
 title: 'Hai s Restaurant: Where to Eat in Ho Chi Minh City'
-description: Hai's Restaurant is a long-running, expat-and-tourist-favorite Vietnamese restaurant at 257 Lý Tự Trọng in District 1's Bến Thành ward, a short walk from Ben
+description: Hai's Restaurant is a long-running, expat-and-tourist-favorite Vietnamese restaurant at 257 Lý Tự Trọng in District 1's Bến Thành ward, a short walk from Ben Thanh Market.
 country: Vietnam
 region: Ho Chi Minh City
 category: restaurant

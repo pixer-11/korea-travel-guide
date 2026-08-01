@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: madrid-barcelona-the-weeknd-after-hours-til-dawn-tour
+srcHash: 572cc9c189fd
 title: 'The Weeknd – Gira After Hours Til Dawn: lo que hay que saber (Madrid)'
-description: 'The Weeknd trae la gira After Hours Til Dawn a España para cuatro fechas: tres noches en el Estadio Riyadh Air Metropolitano de Madrid (28-30 de agosto de 2026) y'
+description: 'The Weeknd trae la gira After Hours Til Dawn a España para cuatro fechas: tres noches en el Estadio Riyadh Air Metropolitano de Madrid (28-30 de agosto de 2026) y una noche en el Estadi Olímpic Lluís Companys de Barcelona (1 de septiembre de 2026), con Playboi Carti como telonero.'
 quickAnswer: 'The Weeknd trae la gira After Hours Til Dawn a España para cuatro fechas: tres noches en el Estadio Riyadh Air Metropolitano de Madrid (28-30 de agosto de 2026) y una noche en el Estadi Olímpic Lluís Companys de Barcelona (1 de septiembre de 2026), con Playboi Carti como telonero. Reserva hotel en las ciudades de los estadios con antelación, confirma los horarios exactos y las categorías de entradas en la web oficial de la gira, y planifica el transporte para el salto Madrid-Barcelona, ya que solo hay un día de descanso entre ambos tramos.'
 faq:
   - q: ¿Cuáles son las fechas y los recintos confirmados?

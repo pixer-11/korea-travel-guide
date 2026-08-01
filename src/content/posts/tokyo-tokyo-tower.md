@@ -1,6 +1,6 @@
 ---
 title: "Tokyo Tower: Travel Guide"
-description: "Tokyo Tower, in Minato City's Shibakoen district, is best visited on a clear late afternoon so you catch sunset melting into the night skyline from the Main"
+description: Tokyo Tower, in Minato City's Shibakoen district, is best visited on a clear late afternoon so you catch sunset melting into the night skyline from the Main Deck (150m) or the pricier Top Deck (250m).
 country: "Japan"
 region: "Tokyo"
 category: "attraction"

@@ -1,6 +1,6 @@
 ---
 title: "Ambrai Ghat: Udaipur Travel Guide"
-description: "Ambrai Ghat is the classic waterfront perch on the eastern shore of Lake Pichola, directly across from the City Palace and Lake Palace, and it's open daily"
+description: Ambrai Ghat is the classic waterfront perch on the eastern shore of Lake Pichola, directly across from the City Palace and Lake Palace, and it's open daily from 5am to 7pm.
 country: "India"
 region: "Udaipur"
 category: "hidden-gem"

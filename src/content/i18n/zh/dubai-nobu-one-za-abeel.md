@@ -1,8 +1,9 @@
 ---
 lang: zh
 slug: dubai-nobu-one-za-abeel
+srcHash: c6726dbef93f
 title: 迪拜 One Za'abeel 分店 Nobu 餐厅
-description: Nobu 在迪拜的最新分店坐落于 The Link——连接 One Za'abeel 双塔的空中连廊，距地面约 230 米——使其
+description: Nobu 在迪拜的最新分店坐落于 The Link 之中——连接 One Za'abeel 双塔的空中连廊，距地面约 230 米——可以说是全球海拔最高的 Nobu 餐厅。餐厅于 2026 年 1 月 17 日开业，供应品牌招牌的日式秘鲁融合料理（黑鳕鱼配味噌酱、青柠辣椒黄尾鱼），背景则是迪拜天际线的通透全景。
 quickAnswer: Nobu 在迪拜的最新分店坐落于 The Link 之中——连接 One Za'abeel 双塔的空中连廊，距地面约 230 米——可以说是全球海拔最高的 Nobu 餐厅。餐厅于 2026 年 1 月 17 日开业，供应品牌招牌的日式秘鲁融合料理（黑鳕鱼配味噌酱、青柠辣椒黄尾鱼），背景则是迪拜天际线的通透全景。请务必提前预订——作为目前迪拜最难订到位的餐厅之一，这里不接受随到随吃。
 faq:
   - q: 如何前往 One Za'abeel 的 Nobu 餐厅？

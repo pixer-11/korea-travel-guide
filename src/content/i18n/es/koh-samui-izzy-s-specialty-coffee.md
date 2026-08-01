@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: koh-samui-izzy-s-specialty-coffee
+srcHash: c43ad46c9741
 title: 'Izzy''s Specialty Coffee: Guía de Viaje de Koh Samui'
-description: Izzy's Specialty Coffee es una cafetería de producción artesanal escondida entre los callejones de antiguas casas-tienda de Fisherman's Village, en Bo Put, en la costa norte de Koh Samui — ve antes
+description: Izzy's Specialty Coffee es una cafetería de producción artesanal escondida entre los callejones de antiguas casas-tienda de Fisherman's Village, en Bo Put, en la costa norte de Koh Samui — ve antes de las 10am para conseguir asiento y probar un pour-over de barra lenta junto a sus granos tostados en casa.
 quickAnswer: Izzy's Specialty Coffee es una cafetería de producción artesanal escondida entre los callejones de antiguas casas-tienda de Fisherman's Village, en Bo Put, en la costa norte de Koh Samui — ve antes de las 10am para conseguir asiento y probar un pour-over de barra lenta junto a sus granos tostados en casa. Se puede llegar caminando desde la Fisherman's Village Walking Street y combina bien con una mañana de playa en Bo Put Pier. Calcula entre 30 y 45 minutos; se llena hacia el mediodía dado que tiene más de 1,000 reseñas casi perfectas.
 faq:
   - q: ¿Dónde está exactamente Izzy's Specialty Coffee?

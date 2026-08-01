@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: singapore-smash-street
+srcHash: 99df286991f5
 title: Smash Street en Singapur
 description: Smash Street es el nuevo concepto de smash-burger del equipo detrás del viral bar de pasta Scarpetta, con hamburguesas de carne aplastada, caramelizadas y de bordes crujientes.
 quickAnswer: Smash Street es el nuevo concepto de smash-burger del equipo detrás del viral bar de pasta Scarpetta, con hamburguesas de carne aplastada, caramelizadas y de bordes crujientes, servidas en panes de papa artesanales. Abrió el 3 de abril de 2026 y rápidamente se ha convertido en uno de los locales de comida informal más comentados de Singapur. Como es un local nuevo y los detalles aún se están definiendo, confirma los horarios actuales, la ubicación exacta y si se necesita reserva antes de ir.

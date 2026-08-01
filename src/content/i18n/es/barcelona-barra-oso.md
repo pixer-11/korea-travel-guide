@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: barcelona-barra-oso
+srcHash: d2acc20210dd
 title: 'Barra Oso: Guía de viaje de Barcelona'
 description: 'Barra Oso en Barcelona, España — un local nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Barra Oso es un bar-restaurante de la zona alta de Barcelona que se ha convertido en una de las mesas más candentes de la ciudad para 2026 — un local inspirado en "The Bear", con cocina abierta, vino natural y una energía nocturna cargada de DJ, conocido sobre todo por su crudo de pez limón (amberjack) y su steak tartar. Ve a cenar tarde en vez de temprano, y reserva con antelación, porque la noticia ha corrido rápido. Confirma los horarios y la política de reservas actuales directamente antes de ir, ya que los detalles cambian según la demanda.

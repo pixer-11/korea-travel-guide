@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: dubai-al-khayma-heritage-restaurant
+srcHash: f20ac71750d7
 title: Al Khayma Heritage Restaurant：迪拜美食推荐去哪吃
 description: Al Khayma Heritage Restaurant位于Al Fahidi历史街区（Al Fahidi Historical Neighbourhood）内，靠近Al Souq Al Kabeer，供应马克布斯（machboos）、哈利斯（harees）等阿联酋传统美食。
 quickAnswer: Al Khayma Heritage Restaurant位于Al Fahidi历史街区（Al Fahidi Historical Neighbourhood），靠近Al Souq Al Kabeer，在一个仿贝都因帐篷风格的庭院里供应马克布斯（machboos）、哈利斯（harees）和露卡麦特（luqaimat）等阿联酋经典美食。这里非常受欢迎、口碑极佳（评分4.9，近18,000条评价），价格属中档，建议提早前往或提前预订，尤其是晚餐时段。建议预留60-90分钟用餐时间，可搭配漫步Al Fahidi小巷或参观附近的Al Fahidi堡迪拜博物馆（Dubai Museum）。

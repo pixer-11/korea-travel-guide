@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: kyoto-arashiyama-bamboo-forest
+srcHash: 0c43ea0b09cb
 title: '아라시야마 대나무숲: 교토 여행 가이드'
 description: 아라시야마 대나무숲(Arashiyama Bamboo Grove)은 교토 서부 우쿄구(Ukyo Ward)에 있는 무료 야외 산책로로, 높이 솟은 대나무 사이를 걸을 수 있습니다 — 오전 8시 이전에 도착해 붐비는 것을 피하고, 15~20분 정도 메인 산책로를 걸어보세요.
 quickAnswer: 아라시야마 대나무숲은 교토 서부 우쿄구(Ukyo Ward)에 있는, 하늘 높이 솟은 대나무 사이로 난 무료 야외 산책로입니다 — 오전 8시 이전에 도착해 인파를 피하고, 메인 산책로를 15~20분 정도 걸은 뒤 인근의 텐류지(Tenryu-ji Temple)와 도게쓰쿄 다리(Togetsukyo Bridge)까지 둘러보는 것을 추천합니다. 새벽이나 살짝 흐린 날에 가장 분위기가 좋으며, 오전 중반부터 관광객 무리로 붐비기 전 아라시야마에서 아침 시간을 보내기에 자연스럽게 잘 어울립니다.

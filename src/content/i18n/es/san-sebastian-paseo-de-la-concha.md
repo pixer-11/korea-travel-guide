@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: san-sebastian-paseo-de-la-concha
+srcHash: 0d375b537099
 title: 'Paseo de La Concha: Guía de viaje de San Sebastián'
-description: El Paseo de La Concha es el gran paseo marítimo curvo de San Sebastián, que va desde el puerto y el Monte Urgull hasta la playa de Ondarreta, a los pies del Monte
+description: El Paseo de La Concha es el gran paseo marítimo curvo de San Sebastián, que va desde el puerto y el Monte Urgull hasta la playa de Ondarreta, a los pies del Monte Igueldo.
 quickAnswer: El Paseo de La Concha es el gran paseo marítimo curvo de San Sebastián, que va desde el puerto y el Monte Urgull hasta la playa de Ondarreta, a los pies del Monte Igueldo. Recórrelo por la mañana o al atardecer, cuando la luz sobre la bahía de La Concha y la Isla de Santa Clara es mejor, y calcula entre 45 y 60 minutos si solo vas a pasear, o más si te detienes a nadar o a observar a la gente. Es gratuito, está abierto las 24 horas y es muy conocido, así que evita la aglomeración de grupos turísticos al mediodía si quieres disfrutar la vista abierta al mar para ti solo.
 faq:
   - q: ¿Cuánto se tarda en recorrer el Paseo de La Concha?

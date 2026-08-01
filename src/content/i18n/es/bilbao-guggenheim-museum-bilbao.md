@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: bilbao-guggenheim-museum-bilbao
+srcHash: e6f27ae83239
 title: 'Museo Guggenheim: guía de viaje de Bilbao'
 description: El Museo Guggenheim Bilbao, en el paseo ribereño de Abandoibarra, se disfruta mejor justo a la apertura o a última hora de la tarde entre semana para evitar la avalancha de autobuses turísticos.
 quickAnswer: 'El Museo Guggenheim Bilbao, en el paseo ribereño de Abandoibarra, se disfruta mejor justo a la apertura o a última hora de la tarde entre semana para evitar la avalancha de autobuses turísticos. Calcula entre dos y tres horas para la colección permanente, más el "Puppy" de Jeff Koons y la enorme araña "Maman" de Louise Bourgeois en el exterior. Reserva las entradas con hora asignada por internet con antelación: es uno de los museos más visitados de España y las colas sin reserva al mediodía pueden ser largas.'

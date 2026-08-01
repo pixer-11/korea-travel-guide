@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: bangkok-roast8ry-song-wat
+srcHash: 67ae64c52378
 title: 'Roast8ry Song Wat: Guía de viaje de Bangkok'
 description: 'Roast8ry Song Wat en Bangkok, Tailandia — un lugar nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Roast8ry Song Wat es la tienda insignia en Bangkok de la premiada marca de café de especialidad de Chiang Mai, fundada por Arnon Thitiprasert, Campeón Mundial de Latte Art en 2017, escondida entre los antiguos shophouses de Song Wat Road, en el extremo occidental del Barrio Chino (Chinatown). Ve para disfrutar de un café tranquilo a media mañana, más que para un café rápido para llevar, y combínalo con un paseo por los almacenes junto al río Chao Phraya que hay cerca. Confirma el horario actual y si aceptan reservas antes de ir, ya que un lugar tan reciente y de moda puede cambiar su programación.

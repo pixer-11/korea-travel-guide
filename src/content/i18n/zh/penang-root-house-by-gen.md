@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: penang-root-house-by-gen
+srcHash: a0fea67848c2
 title: 槟城 Root House by Gēn 参观指南
 description: Root House by Gēn 位于马来西亚槟城，是当地新兴热门去处——本文介绍它是什么、地址在哪里，以及如何前往参观。
 quickAnswer: Root House by Gēn 是一家格调精致的马来西亚华人菜餐厅，坐落于槟城乔治市（George Town）内一栋修复后的 1926 Heritage Hotel 之中，由备受赞誉的餐厅 Gēn 团队打造。最适合安排一顿从容的晚餐，既能欣赏这座古迹建筑，也能品味其中的现代料理；由于它是新近开业、话题度颇高的餐厅，建议提前预订，并在前往前确认最新营业时间。

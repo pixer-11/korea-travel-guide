@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: sharjah-tpt-by-late
+srcHash: e75bb1b292ce
 title: TPT by Late:沙迦(Sharjah)旅行指南
 description: TPT by Late 是沙迦(Sharjah)Muwaileh Commercial 的 Misk 社区内一家高评分、高人气的咖啡馆——建议在工作日上午或早下午前往，以避开晚间的人潮高峰。
 quickAnswer: TPT by Late 是沙迦(Sharjah)Muwaileh Commercial 的 Misk 社区内一家高评分、高人气的咖啡馆——建议在工作日上午或早下午前往，以避开晚间的人潮高峰，点单在柜台进行，菜单以现代风格的全日供应咖啡、brunch 简餐和甜点为主。这里人气很旺，周末晚上通常需要排队等位，所以要提前做好心理准备，而不要指望能找到一处安静、少有人知的角落。

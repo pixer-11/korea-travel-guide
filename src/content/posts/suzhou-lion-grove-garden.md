@@ -1,6 +1,6 @@
 ---
 title: "Lion Grove Garden: Suzhou Travel Guide"
-description: "Lion Grove Garden (Shizi Lin), at 23 Yuan Lin Lu in Gusu District, is one of Suzhou's classical UNESCO-listed gardens, famous for a maze of grey limestone"
+description: Lion Grove Garden (Shizi Lin), at 23 Yuan Lin Lu in Gusu District, is one of Suzhou's classical UNESCO-listed gardens, famous for a maze of grey limestone "rockeries" said to resemble crouching lions.
 country: "China"
 region: "Suzhou"
 category: "attraction"

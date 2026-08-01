@@ -1,8 +1,9 @@
 ---
 lang: ko
 slug: nara-chami-specialty-coffee-roaster-nara-japan
+srcHash: 32dd2d8b29a3
 title: 'CHAMI - 스페셜티 커피 로스터 - 일본 나라: 여행 가이드'
-description: CHAMI는 나라(Nara) 옛 시가지에 위치한 스페셜티 커피 로스터리로, 나라 공원과 야나기차야역(Yanagi-Chaya Station)에서 도보로 가까우며 싱글 오리진 핸드드립과
+description: CHAMI는 나라(Nara) 옛 시가지에 위치한 스페셜티 커피 로스터리로, 나라 공원과 야나기차야역(Yanagi-Chaya Station)에서 도보로 가까우며, 싱글 오리진 핸드드립 커피와 미니멀하고 디자인이 돋보이는 공간으로 유명합니다.
 quickAnswer: CHAMI는 나라(Nara) 옛 시가지에 위치한 스페셜티 커피 로스터리로, 나라 공원과 야나기차야역(Yanagi-Chaya Station)에서 도보로 가까우며, 싱글 오리진 핸드드립 커피와 미니멀하고 디자인이 돋보이는 공간으로 유명합니다. 줄을 피하려면 평일 오전에 방문하는 것이 좋고, 30-45분 정도 여유를 두고 근처 나라마치(Naramachi) 상가 거리 산책과 함께 즐기기 좋습니다. 현금과 카드 모두 대체로 사용 가능하지만, 로스터리는 종종 로스팅 작업일에 휴무하는 경우가 있으니 방문 전 영업시간을 확인하는 것이 좋습니다.
 faq:
   - q: 나라 시내 중심에서 CHAMI까지는 어떻게 가나요?

@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: kuala-lumpur-post-malone-live-in-malaysia
+srcHash: dc1c2f71ba69
 title: 'Post Malone en vivo en Malasia: lo que debes saber (Kuala Lumpur)'
 description: Post Malone ofrece su primer show en Malasia el 27 de septiembre de 2026, en el TM National Stadium (Stadium Nasional Bukit Jalil) en Kuala Lumpur, como parte de su gira mundial.
 quickAnswer: Post Malone ofrece su primer show en Malasia el 27 de septiembre de 2026, en el TM National Stadium (Stadium Nasional Bukit Jalil) en Kuala Lumpur, como parte de su gira mundial. Los datos oficiales sobre entradas, horarios de apertura de puertas y actos teloneros no se han detallado aquí, así que confirma todo a través de los canales oficiales del promotor antes de reservar vuelos u hoteles. Reserva alojamiento cerca de Bukit Jalil o a lo largo de las líneas del LRT con antelación, ya que los conciertos en estadios de KL suelen agotar rápido el transporte y los hoteles cercanos.

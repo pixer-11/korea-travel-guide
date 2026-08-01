@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: sapporo-mermaid-coffee-roasters
+srcHash: 00490608e5b7
 title: Mermaid Coffee Roasters：札幌旅行指南
 description: Mermaid Coffee Roasters 是位于札幌薄野（Susukino）/南3条一带的小批量精品烘焙咖啡馆，从南北线薄野站步行仅需几分钟即可到达。
 quickAnswer: Mermaid Coffee Roasters 是一家位于札幌薄野（Susukino）/南3条一带的小批量精品烘焙咖啡馆，从南北线薄野站（Susukino Station）步行仅几分钟即可抵达。这里适合慢慢享用一杯手冲或意式浓缩咖啡，环境极简、绿植点缀；由于人气很高（4.8星，1,500+条评价），可能需要稍作等待。建议预留30-45分钟，工作日上午前往可避开下午最拥挤的时段。

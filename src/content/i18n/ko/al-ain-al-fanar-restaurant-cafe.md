@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: al-ain-al-fanar-restaurant-cafe
+srcHash: 02aec6683220
 title: '알 파나르 레스토랑 & 카페: 알 아인(Al Ain) 맛집 가이드'
 description: 알 아인(Al Ain) 알 지미(Al Jimi)의 수크 알 자파라나(Souq Al Zafarana)에 위치한 알 파나르 레스토랑 & 카페(Al Fanar Restaurant & Cafe)는 마크부스, 하리스, 그리고 오랜 시간 정성껏 조리한 고기 요리로 유명한 유서 깊은 에미라티/걸프 스타일 식당입니다.
 quickAnswer: 알 아인(Al Ain) 알 지미(Al Jimi)의 수크 알 자파라나(Souq Al Zafarana)에 위치한 알 파나르 레스토랑 & 카페(Al Fanar Restaurant & Cafe)는 마크부스, 하리스, 그리고 오랜 시간 정성껏 조리한 고기 요리로 유명한 유서 깊은 에미라티/걸프 스타일 식당으로, 8,000개가 넘는 리뷰에서 보기 드문 4.8점 평점을 기록하고 있습니다. 가격대는 중간 수준이며 캐주얼한 분위기로 현지에서 매우 인기가 많으므로, 한산한 점심시간대(오후 1시~1시 30분경) 또는 저녁 8시 이전 시간대를 노리면 대기를 피할 수 있습니다. 제대로 된 식사를 하려면 45~75분 정도 여유를 두는 것이 좋습니다.

@@ -1,6 +1,6 @@
 ---
 title: 'Kodam Kitchen branch 1: Where to Eat in Krabi'
-description: Kodam Kitchen branch 1 is a budget-friendly, high-volume Thai restaurant in Ao Nang, Krabi, best known for classic dishes like pad Thai, tom yum, and curries
+description: Kodam Kitchen branch 1 is a budget-friendly, high-volume Thai restaurant in Ao Nang, Krabi, best known for classic dishes like pad Thai, tom yum, and curries at street-food-level prices with sit-down comfort.
 country: Thailand
 region: Krabi
 category: restaurant

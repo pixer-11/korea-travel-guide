@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: kuala-lumpur-aaron-kwok-iconic-world-tour-2026
+srcHash: 1a16e3f2293f
 title: '아론 궉(Aaron Kwok) ICONIC 월드 투어 2026: 알아야 할 것들 (쿠알라룸푸르)'
 description: 아론 궉(Aaron Kwok)이 2026년 9월 12일 쿠알라룸푸르 부킷 잘릴(Bukit Jalil)의 유니파이 아레나(Unifi Arena)에서 200명 규모의 투어 프로덕션 크루와 함께 ICONIC 월드 투어 2026을 선보인다.
 quickAnswer: 아론 궉(Aaron Kwok)이 2026년 9월 12일 쿠알라룸푸르 부킷 잘릴(Bukit Jalil)의 유니파이 아레나(Unifi Arena)에서 200명 규모의 투어 프로덕션 크루와 함께 ICONIC 월드 투어 2026을 선보인다. 이 날짜는 현재 발표된 일정으로 간주하고, 항공권이나 호텔을 예약하기 전에 아론 궉의 공식 채널이나 공연장의 공식 티켓 파트너를 통해 최종 공연 시간, 티켓 등급, 라인업 변경 사항을 확인해야 한다.

@@ -1,6 +1,6 @@
 ---
 title: "Cathédrale Notre-Dame-de-Strasbourg: Travel Guide"
-description: Strasbourg's cathedral is a working parish church with a rose window, an astronomical clock, and a 142-metre spire that dominated Europe's skylines for
+description: Strasbourg's cathedral is a working parish church with a rose window, an astronomical clock, and a 142-metre spire that dominated Europe's skylines for centuries — and it's free to walk in.
 country: France
 region: Strasbourg
 category: hidden-gem

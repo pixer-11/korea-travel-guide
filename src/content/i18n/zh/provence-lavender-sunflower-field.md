@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: provence-lavender-sunflower-field
+srcHash: 1972fb1f813f
 title: 薰衣草与向日葵花田
 description: 普罗旺斯瓦朗索尔高原（Plateau de Valensole）周边的薰衣草与向日葵花田，最佳观赏期大致在6月最后一周至7月下旬之间。
 quickAnswer: 普罗旺斯瓦朗索尔（Valensole）周边、瓦朗索尔高原（Plateau de Valensole）上的薰衣草与向日葵花田，最佳观赏期大致在6月最后一周到7月下旬，此时紫色的薰衣草垄与金色的向日葵并肩绽放。建议以瓦朗索尔村或附近的里耶兹（Riez）为落脚点，选择日出时分或日落前两小时自驾前往，这样光线最好、游人也最少，并且由于没有直达花田的公共交通，最好规划半天的自驾环线行程。

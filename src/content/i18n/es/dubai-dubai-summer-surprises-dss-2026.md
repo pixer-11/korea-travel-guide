@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: dubai-dubai-summer-surprises-dss-2026
+srcHash: 879f471b97ef
 title: 'Dubai Summer Surprises (DSS) 2026: qué debes saber (Dubái)'
 description: Dubai Summer Surprises (DSS) 2026 en Dubái, Emiratos Árabes Unidos — del 3 de julio al 30 de agosto de 2026. Qué es, cuándo y dónde se celebra, y cómo planificar tu visita.
 quickAnswer: 'Dubai Summer Surprises (DSS) 2026 se celebra en toda la ciudad del 3 de julio al 30 de agosto de 2026, con promociones comerciales en centros comerciales, sorteos y entretenimiento familiar por todo Dubái. Está organizado por la Dubai Festivals and Retail Establishment y no se limita a un único recinto: la actividad se concentra sobre todo en los grandes centros comerciales y atracciones familiares, más que en una sede única con entrada, así que conviene confirmar las fechas concretas de los eventos, los lugares y los precios de las entradas en los canales oficiales de Visit Dubai / DSS antes de organizar tu visita.'

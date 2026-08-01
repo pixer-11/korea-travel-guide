@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: sharjah-al-noor-island
+srcHash: d3253afecfd5
 title: 努尔岛(Al Noor Island):沙迦旅行指南
 description: 努尔岛(Al Noor Island)坐落在沙迦市中心布哈伊拉滨海路(Buhairah Corniche)的哈立德潟湖(Khalid Lagoon)中,从阿尔马贾兹海滨长廊(Al Majaz Waterfront)步行或打车即可轻松抵达。
 quickAnswer: 努尔岛(Al Noor Island)坐落在沙迦市中心布哈伊拉滨海路(Buhairah Corniche)的哈立德潟湖(Khalid Lagoon)中,从阿尔马贾兹海滨长廊(Al Majaz Waterfront)步行或打车即可轻松抵达。建议预留1.5至2.5小时,漫步木栈道、逛一逛书亭、参观蝴蝶馆,并欣赏散布其间的现代艺术装置。最好选在傍晚或傍晚前后前往,尤其是在天气较凉爽的10月至次年4月,此时光线和气温都恰到好处。
@@ -45,4 +46,4 @@ faq:
 
 ## 顺路可去的周边景点
 
-不妨将本次游览与漫步**阿尔马贾兹海滨长廊(Al Majaz Waterfront)**结合起来,它就在潟湖对岸,拥有阿尔马贾兹喷泉(规模略小于迪拜喷泉表演的"姐妹版")以及多家休闲餐厅——是搭配努尔岛度过一个下午或夜晚的绝佳选择。
+不妨将本次游览与漫步**阿尔马贾兹海滨长廊**(Al Majaz Waterfront)结合起来,它就在潟湖对岸,拥有阿尔马贾兹喷泉(规模略小于迪拜喷泉表演的"姐妹版")以及多家休闲餐厅——是搭配努尔岛度过一个下午或夜晚的绝佳选择。

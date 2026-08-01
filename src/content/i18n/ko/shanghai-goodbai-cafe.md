@@ -1,8 +1,9 @@
 ---
 lang: ko
 slug: shanghai-goodbai-cafe
+srcHash: 69b2ef55eb44
 title: 상하이 굿바이 카페(Goodbai Cafe)
-description: 굿바이 카페(Goodbai Cafe)는 배우 바이징팅(Bai Jing Ting)이 상하이 징안구(Jing'an District)에 오픈한 디자인 감각이 돋보이는 카페 겸 콘셉트 스토어로, 샤오홍슈(Xiaohongshu, 리틀 레드북)에서
+description: 굿바이 카페(Goodbai Cafe)는 배우 바이징팅(Bai Jing Ting)이 상하이 징안구(Jing'an District)에 오픈한 디자인 감각이 돋보이는 카페 겸 콘셉트 스토어로, 인상적인 인테리어와 시그니처 메뉴인 굿바이 라떼(Goodbai Latte) 덕분에 샤오홍슈(Xiaohongshu, 리틀 레드북)에서 폭발적인 인기를 얻고 있습니다.
 quickAnswer: 굿바이 카페(Goodbai Cafe)는 배우 바이징팅(Bai Jing Ting)이 상하이 징안구(Jing'an District)에 오픈한 디자인 감각이 돋보이는 카페 겸 콘셉트 스토어로, 인상적인 인테리어와 시그니처 메뉴인 굿바이 라떼(Goodbai Latte) 덕분에 샤오홍슈(Xiaohongshu, 리틀 레드북)에서 폭발적인 인기를 얻고 있습니다. 줄서기는 기본이고, 사진 찍기 좋은 미니멀한 공간과 단순 커피가 아닌 굿즈·콘셉트 스토어적인 요소도 함께 즐길 수 있습니다. 대기 시간을 줄이고 싶다면 평일 오전에 방문하는 것이 좋으며, 방문 전 현재 운영 시간과 예약 필요 여부를 반드시 확인하세요.
 faq:
   - q: 굿바이 카페는 정확히 어디에 있나요?

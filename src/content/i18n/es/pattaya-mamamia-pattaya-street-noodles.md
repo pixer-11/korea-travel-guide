@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: pattaya-mamamia-pattaya-street-noodles
+srcHash: f7a3ab06bbf7
 title: 'Mamamia Pattaya Street Noodles: dónde comer'
 description: Mamamia Pattaya Street Noodles es un pequeño puesto-restaurante callejero de fideos en Muang Pattaya (Bang Lamung, Chon Buri), muy bien valorado y conocido por su comida rápida y económica.
 quickAnswer: 'Mamamia Pattaya Street Noodles es un pequeño puesto-restaurante callejero de fideos en Muang Pattaya (Bang Lamung, Chon Buri), conocido por sus tazones de fideos tailandeses-chinos rápidos y económicos, servidos al clásico estilo de comida callejera. Con una calificación de 4.9 en 450 reseñas, es ideal para un almuerzo informal o una comida a media tarde, más que para una cena formal sentada: espera banquitos de plástico, cocina abierta y mucho movimiento. Calcula entre 20 y 40 minutos, ve fuera del pico del mediodía (11:30am-1pm) o durante el pico de la cena (7-8:30pm), y lleva billetes pequeños de baht, ya que las cocinas callejeras como esta suelen funcionar principalmente en efectivo.'

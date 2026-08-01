@@ -1,9 +1,6 @@
 ---
 title: 'Songdo Central Park: Incheon Travel Guide'
-description: >-
-  Songdo Central Park is a 40-hectare green space in Incheon's Songdo
-  International Business District, built around a seawater canal where you can
-  ride water
+description: Songdo Central Park is a 40-hectare green space in Incheon's Songdo International Business District, built around a seawater canal where you can ride water taxis or rent paddle boats.
 region: Incheon
 country: "South Korea"
 category: attraction

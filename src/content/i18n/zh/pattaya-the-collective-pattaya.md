@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: pattaya-the-collective-pattaya
+srcHash: a6133f688494
 title: The Collective：芭堤雅美食好去处
 description: The Collective Pattaya 是芭堤雅海滩路（Beach Road）假日酒店（Holiday Inn Pattaya）内的全日制餐厅，以丰盛多样的国际自助餐闻名。
 quickAnswer: The Collective Pattaya 是芭堤雅海滩路（Beach Road）假日酒店（Holiday Inn Pattaya）内的全日制餐厅，以丰盛多样的国际自助餐（海鲜、寿司、咖喱、现场烹饪档口）以及单点菜单著称。凭借 2,173+ 条评价获得 4.8 分的高评分，无论是家庭出游还是三五结伴，都能在不离开海滨大道的情况下享受多样美食——建议选择早餐或晚餐自助时段前往，周末最好提前订位。

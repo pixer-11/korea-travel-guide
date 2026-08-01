@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: san-francisco-fort-point-national-historic-site
+srcHash: fbd8014e599a
 title: 'Fort Point National Historic Site: Guía de viaje de San Francisco'
-description: Fort Point es el fuerte de ladrillo de la época de la Guerra Civil escondido justo debajo del anclaje sur del puente Golden Gate, abierto de jueves a lunes, de 10am a 5pm (cerrado
+description: Fort Point es el fuerte de ladrillo de la época de la Guerra Civil escondido justo debajo del anclaje sur del puente Golden Gate (Golden Gate Bridge), abierto de jueves a lunes, de 10am a 5pm (cerrado martes y miércoles).
 quickAnswer: 'Fort Point es el fuerte de ladrillo de la época de la Guerra Civil escondido justo debajo del anclaje sur del puente Golden Gate (Golden Gate Bridge), abierto de jueves a lunes, de 10am a 5pm (cerrado martes y miércoles). La entrada es gratuita, así que reserva entre 45 y 90 minutos para recorrer las cubiertas de cañones, disfrutar de una charla de un guardaparque o una demostración de artillería, y sentir el tablero del puente vibrar sobre tu cabeza. Ve si puedes en una mañana despejada y con poco viento: el fuerte está justo en la boca de la bahía y el viento del estrecho puede ser brutal por la tarde.'
 faq:
   - q: ¿Hay que pagar entrada para Fort Point?

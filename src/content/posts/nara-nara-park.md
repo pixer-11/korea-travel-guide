@@ -1,6 +1,6 @@
 ---
 title: "Nara Park: Travel Guide"
-description: "Nara Park is a sprawling public park in central Nara famous for over 1,000 free-roaming, bowing sika deer and the temples that ring its edges — Todai-ji"
+description: Nara Park is a sprawling public park in central Nara famous for over 1,000 free-roaming, bowing sika deer and the temples that ring its edges — Todai-ji, Kasuga Taisha, and Kofuku-ji.
 country: "Japan"
 region: "Nara"
 category: "attraction"

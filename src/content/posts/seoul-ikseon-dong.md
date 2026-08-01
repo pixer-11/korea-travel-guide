@@ -1,6 +1,6 @@
 ---
 title: Ikseon-Dong in Seoul
-description: Ikseon-dong is a small pocket of early-20th-century hanok (traditional Korean houses) tucked behind Jongno 3-ga, now packed with hidden-courtyard cafes
+description: Ikseon-dong is a small pocket of early-20th-century hanok (traditional Korean houses) tucked behind Jongno 3-ga, now packed with hidden-courtyard cafes, cocktail bars, and modern-Korean restaurants.
 region: Seoul
 country: "South Korea"
 category: restaurant

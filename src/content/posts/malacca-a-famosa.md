@@ -1,6 +1,6 @@
 ---
 title: "A Famosa: Malacca Travel Guide"
-description: "A Famosa's surviving Porta de Santiago gate sits on Jalan Kota in Banda Hilir, right beside St Paul's Hill — it's a five-minute walk from the Stadthuys and"
+description: A Famosa's surviving Porta de Santiago gate sits on Jalan Kota in Banda Hilir, right beside St Paul's Hill — it's a five-minute walk from the Stadthuys and Christ Church, so pair it with those rather than treating it as a standalone stop.
 country: "Malaysia"
 region: "Malacca"
 category: "hidden-gem"

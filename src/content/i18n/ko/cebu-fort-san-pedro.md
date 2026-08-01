@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: cebu-fort-san-pedro
+srcHash: 5f6538f1d484
 title: '포트 산 페드로: 세부 여행 가이드'
 description: 포트 산 페드로(Fort San Pedro)는 세부 시내 플라자 인데펜덴시아(Plaza Independencia) 끝자락에 자리한 삼각형 모양의 아담한 석조 요새로, 30~45분이면 둘러볼 수 있습니다.
 quickAnswer: 포트 산 페드로(Fort San Pedro)는 세부 시내 플라자 인데펜덴시아(Plaza Independencia) 끝자락에 자리한 삼각형 모양의 아담한 석조 요새로, 30~45분이면 둘러볼 수 있습니다. 많은 사람이 찾는 명소인 만큼(4.2점, 리뷰 약 8,000건) 단체 관광객이 몰리는 시간을 피하려면 개장 직후 아침이나 오후 늦은 시간을 노리는 것이 좋습니다. 인근의 말라카냥 사 수그보(Malacañang sa Sugbo)와 세부 항구 부두 지역을 함께 묶으면 스페인 식민지 시대 역사를 둘러보는 반나절 코스로 즐길 수 있습니다.

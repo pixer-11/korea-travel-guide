@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: xian-ancient-city-wall
+srcHash: e905a3fb35d0
 title: 'Muralla Antigua de la Ciudad: Guía de Viaje de Xi''an'
 description: La Muralla de la Ciudad de Xi'an, de la dinastía Ming, es la muralla antigua más completa de China y forma un circuito rectangular de unos 13,7 km alrededor del centro histórico de la ciudad.
 quickAnswer: La Muralla de la Ciudad de Xi'an, de la dinastía Ming, es la muralla antigua más completa de China y forma un circuito rectangular de unos 13,7 km alrededor del centro histórico de la ciudad. Alquila una bicicleta en la Puerta Sur (Yongning Men) y recorre el circuito completo en aproximadamente 1,5–2 horas, o camina un tramo más corto entre dos puertas durante 45 minutos. Ve temprano por la mañana o al final de la tarde para disfrutar de una luz más suave y menos multitudes, ya que se trata de una atracción muy extensa que rara vez se siente abarrotada, incluso en sus puertas más concurridas.

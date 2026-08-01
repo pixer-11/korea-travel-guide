@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: madrid-barcelona-the-weeknd-after-hours-til-dawn-tour
+srcHash: 572cc9c189fd
 title: ザ・ウィークエンド「After Hours Til Dawn Tour」マドリード公演:知っておきたいこと
 description: ザ・ウィークエンドが「After Hours Til Dawn Tour」をスペインに携えて、マドリードのリヤド・エア・メトロポリターノ・スタジアムで3夜(2026年8月28-30日)、バルセロナのルイス・コンパニス・オリンピック・スタジアムで1夜(2026年9月1日)、計4公演を開催します。
 quickAnswer: ザ・ウィークエンドは「After Hours Til Dawn Tour」をスペインに携え、計4公演を開催します。マドリードのリヤド・エア・メトロポリターノ・スタジアム(Riyadh Air Metropolitano Stadium)で3夜(2026年8月28-30日)、バルセロナのルイス・コンパニス・オリンピック・スタジアム(Estadi Olímpic Lluís Companys)で1夜(2026年9月1日)が予定されており、サポートアクトはプレイボーイ・カーティ(Playboi Carti)です。スタジアム都市のホテルは早めに予約し、正式な出演時間やチケット区分は公式ツアーサイトで必ず確認してください。また、マドリード公演からバルセロナ公演への移動は休息日が1日しかないため、交通計画も忘れずに立てましょう。

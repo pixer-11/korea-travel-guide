@@ -1,6 +1,6 @@
 ---
 title: Sansan Bistro in Taipei
-description: Sansan Bistro is a neo-Sichuan restaurant and cocktail bar in Taipei that landed in the Michelin Guide Taiwan in January 2026, known for a striking
+description: Sansan Bistro is a neo-Sichuan restaurant and cocktail bar in Taipei that landed in the Michelin Guide Taiwan in January 2026, known for a striking burgundy-red, wood-and-metal dining room and inventive drink pairings.
 country: Taiwan
 region: Taipei
 category: trendy

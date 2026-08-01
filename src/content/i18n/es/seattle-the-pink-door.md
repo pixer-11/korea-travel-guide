@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: seattle-the-pink-door
+srcHash: f64039241fa8
 title: 'The Pink Door: dónde comer en Seattle'
 description: The Pink Door es la trattoria italiana sin cartel escondida en Post Alley, en Pike Place Market, conocida por su terraza con vistas a Elliott Bay, sus clásicos de salsa roja y sus espectáculos de cabaré y trapecio.
 quickAnswer: The Pink Door es la trattoria italiana sin cartel escondida en Post Alley, dentro de Pike Place Market, conocida por su terraza con vistas a Elliott Bay, sus clásicos de salsa roja y los espectáculos nocturnos de cabaré y trapecio sobre el comedor. Cierra domingo y lunes, así que conviene planear la visita entre martes y sábado (11:30am–11:30pm), y como está genuinamente concurrido todo el fin de semana (11am–9pm, sobre todo los sábados), lo mejor es reservar con antelación o llegar justo a la apertura para intentar entrar sin reserva.

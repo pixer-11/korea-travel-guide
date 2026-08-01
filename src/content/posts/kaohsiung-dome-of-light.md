@@ -1,6 +1,6 @@
 ---
 title: "Dome of Light: Kaohsiung Travel Guide"
-description: "The Dome of Light is the giant stained-glass ceiling at Formosa Boulevard Station (美麗島站) on Kaohsiung's MRT Red/Orange line interchange, right at Exit 4/near"
+description: The Dome of Light is the giant stained-glass ceiling at Formosa Boulevard Station (美麗島站) on Kaohsiung's MRT Red/Orange line interchange, right at Exit 4/near Exit 1, one level below street level.
 country: "Taiwan"
 region: "Kaohsiung"
 category: "hidden-gem"

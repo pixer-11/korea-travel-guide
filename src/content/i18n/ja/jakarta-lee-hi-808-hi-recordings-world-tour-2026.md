@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: jakarta-lee-hi-808-hi-recordings-world-tour-2026
+srcHash: '187078762265'
 title: Lee Hi「808 HI Recordings World Tour 2026」ジャカルタ公演:知っておきたいこと
 description: 2026年8月9日、インドネシア・ジャカルタで開催されるLee Hi「808 HI Recordings World Tour 2026」について。公演内容、日時・会場、事前に押さえておきたいポイントを解説します。
 quickAnswer: Lee Hiが「808 HI Recordings」ワールドツアーで初めてジャカルタを訪れます。2026年8月9日、南ジャカルタのSCBD(スジルマン中央ビジネス地区)にあるBengkel Hallで公演を行い、スペシャルゲストにはラッパーのDOK2が出演します。チケット、正式なセットタイムやゲート情報については、公式プロモーターおよびLee Hi/会場の認証済みSNSアカウントを通じて発表されます。K-pop・K-ヒップホップ系のツアーは日程やラインナップが変更になることもあるため、航空券の予約やその他の計画を立てる前に、必ず最新情報を確認してください。

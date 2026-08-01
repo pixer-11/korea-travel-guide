@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: kuala-lumpur-batu-caves
+srcHash: c6bff309eaa2
 title: 黑风洞：吉隆坡旅行指南
 description: 黑风洞（Batu Caves）是吉隆坡北郊一处由石灰岩洞穴改建而成的印度教圣地，以一尊高42.7米的黄金穆卢干神像闻名。
 quickAnswer: 黑风洞（Batu Caves）是吉隆坡北郊一处由石灰岩洞穴改建而成的印度教圣地，以一尊高42.7米的黄金穆卢干神像（Lord Murugan）和272级彩虹色台阶闻名，爬上去可是相当考验肺活量。可从KL Sentral搭乘KTM Komuter火车前往黑风洞站（车站就在洞口外），预留1.5-2小时游览黑风洞主洞（Temple Cave）和黑洞（Dark Cave），建议选择工作日清晨前往，既能避开高温也能避开人潮。

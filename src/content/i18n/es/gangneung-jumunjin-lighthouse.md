@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: gangneung-jumunjin-lighthouse
+srcHash: 820d8e641371
 title: 'Faro de Jumunjin (주문진등대): Guía de viaje de Gangneung'
 description: El faro de Jumunjin (주문진등대) es un pequeño faro blanco construido en 1918 y encaramado en una colina sobre el puerto de Jumunjin, en Gangneung, ideal para visitar al final de la tarde.
 quickAnswer: El faro de Jumunjin (주문진등대) es un pequeño faro blanco construido en 1918, encaramado en una colina sobre el puerto de Jumunjin, en Gangneung, ideal para visitar al final de la tarde y disfrutar de la puesta de sol sobre el mar del Este. Calcula entre 30 y 45 minutos para la colina en sí, y combina la visita con el famoso mercado de pescado de Jumunjin y la playa que aparece en la serie "Goblin" (Dokkaebi), justo debajo. Subir es gratis, tiene una valoración de 4.4 sobre 766 reseñas, y lo más práctico es llegar en taxi o coche, ya que el transporte público hasta la colina es limitado.

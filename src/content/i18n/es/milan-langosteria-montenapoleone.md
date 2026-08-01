@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: milan-langosteria-montenapoleone
+srcHash: b30f829eea26
 title: 'Langosteria Montenapoleone: Guía de viaje de Milán'
 description: 'Langosteria Montenapoleone en Milán, Italia — un lugar nuevo y en auge: qué es, dónde está y cómo visitarlo.'
 quickAnswer: 'Langosteria Montenapoleone es el nuevo local insignia del grupo especializado en marisco, ubicado dentro del Palazzo Fendi, en pleno corazón del Quadrilatero della Moda de Milán, a pocos pasos de la propia Via Montenapoleone. Ocupa tres plantas más una terraza en la azotea y estrena el primer cóctel bar de la marca en toda su historia, y ya se habla de él como una de las aperturas más esperadas de Milán para 2026. Precisamente por lo reciente y comentado que es, conviene reservar con antelación y confirmar el horario actual antes de ir: todavía se están definiendo los detalles.'

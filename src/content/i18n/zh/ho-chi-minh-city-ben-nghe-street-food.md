@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: ho-chi-minh-city-ben-nghe-street-food
+srcHash: 96bd4d305867
 title: 滨城街头美食：胡志明市觅食指南
 description: 滨城街头美食（Ben Nghe Street Food，位于第一郡Nam Kỳ Khởi Nghĩa路134号）是一个规模庞大的露天美食广场，汇聚了数十个越南街头美食摊位。
 quickAnswer: 滨城街头美食（Ben Nghe Street Food，位于第一郡Nam Kỳ Khởi Nghĩa路134号）是一个规模庞大的露天美食广场，将数十个越南街头美食摊位集中在一个有顶棚、适合游客的空间里——烤肉、海鲜、越南河粉（pho）、越南煎饼（banh xeo）以及新鲜椰子应有尽有。如果你想品尝多样化的街头美食，又不想一个个摊位去找，这里是个不错的选择，不过价格会比在单一摊位用餐略高一些。建议空腹前往，最好结伴同行以便分享菜品，这里氛围热闹、烟火气十足、塑料小凳林立，晚上前来体验最佳。

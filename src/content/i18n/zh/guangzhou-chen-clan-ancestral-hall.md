@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: guangzhou-chen-clan-ancestral-hall
+srcHash: 60ed07a89751
 title: 陈家祠:广州旅行指南
 description: 位于荔湾区的陈家祠(Chan Sui Chi Study Hall)是广州现存最精美的清代书院建筑,由陈氏72支族人于1894年合资兴建。
 quickAnswer: 位于荔湾区的陈家祠(陈家祠,Chan Sui Chi Study Hall)是广州现存最精美的清代书院建筑,由陈氏72支族人于1894年合资兴建,兼具家族书院与宗祠功能。建议留出1.5-2小时时间,漫步于九个厅堂、六个庭院之间,细赏屋脊上密布的陶塑人物。最好选在工作日刚开馆时前往,这样拍摄雕刻细节时不会被人群挡住。地铁1号线陈家祠站出口就在旁边,完全不需要打车。

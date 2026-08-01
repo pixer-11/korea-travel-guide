@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: bali-tanah-lot
+srcHash: 5d3c091167fa
 title: 'Tanah Lot: Guía de viaje de Bali'
 description: Tanah Lot es un templo marino del siglo XVI, encaramado sobre un islote rocoso frente a la costa de la Regencía de Tabanan, a unos 45-60 minutos al noroeste de Seminyak/Canggu.
 quickAnswer: Tanah Lot es un templo marino del siglo XVI, encaramado sobre un islote rocoso frente a la costa de la Regencía de Tabanan, a unos 45-60 minutos al noroeste de Seminyak/Canggu. Ve al atardecer (aproximadamente entre las 5:30 y las 6:30 p.m., según la temporada), pero llega 2-3 horas antes para adelantarte a las multitudes de los autobuses turísticos y explorar los senderos del acantilado y los puestos del mercado cercanos. Con marea baja puedes cruzar caminando sobre la arena hasta la base de la roca, aunque el interior del templo está reservado para los fieles hindúes.

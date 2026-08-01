@@ -1,6 +1,6 @@
 ---
 title: "Catacombs of San Gennaro: Naples Travel Guide"
-description: "The Catacombs of San Gennaro sit on Via Capodimonte, a short uphill walk or bus ride from the historic center, and are visited only by guided tour (roughly"
+description: The Catacombs of San Gennaro sit on Via Capodimonte, a short uphill walk or bus ride from the historic center, and are visited only by guided tour (roughly 60-75 minutes, departing on a fixed schedule throughout the day).
 country: "Italy"
 region: "Naples"
 category: "attraction"

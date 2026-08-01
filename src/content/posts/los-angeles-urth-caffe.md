@@ -1,6 +1,6 @@
 ---
 title: "Urth Caffe: Los Angeles Travel Guide"
-description: "This location of Urth Caffè sits in the Arts District at 459 S Hewitt St, a bright, plant-draped café known for organic coffee, oversized pastry cases, and a"
+description: This location of Urth Caffè sits in the Arts District at 459 S Hewitt St, a bright, plant-draped café known for organic coffee, oversized pastry cases, and a patio that's usually packed.
 country: "United States"
 region: "Los Angeles"
 category: "trendy"

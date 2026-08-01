@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: da-nang-xliii-specialty-coffee
+srcHash: 8c7c168af2e1
 title: 'XLIII Specialty Coffee: Guía de Viaje de Da Nang'
 description: XLIII Specialty Coffee es un café amplio y de diseño cuidado en el distrito de Ngũ Hành Sơn de Da Nang, cerca de las Montañas de Mármol y a poca distancia de My Khe.
 quickAnswer: XLIII Specialty Coffee es un café amplio y de diseño cuidado en el distrito de Ngũ Hành Sơn de Da Nang, cerca de las Montañas de Mármol (Marble Mountains) y a poca distancia de la playa My Khe (My Khe Beach). Ve un día entre semana por la mañana para evitar las multitudes y hacerte con un lugar en sus fotogénicas zonas de asientos, calcula un presupuesto algo mayor que en una parada típica de cà phê vietnamita (nivel de precio 3), y planea quedarte al menos una hora para disfrutar realmente del espacio y no solo tomar fotos.

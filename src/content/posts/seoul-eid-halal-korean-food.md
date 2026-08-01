@@ -1,6 +1,6 @@
 ---
 title: 'EID Halal Korean Food: Where to Eat in Seoul'
-description: EID Halal Korean Food is a small, no-frills eatery in Itaewon's Usadan-ro area (near the Seoul Central Mosque) serving halal-certified Korean dishes like
+description: EID Halal Korean Food is a small, no-frills eatery in Itaewon's Usadan-ro area (near the Seoul Central Mosque) serving halal-certified Korean dishes like halal bulgogi, dak-galbi, and Korean fried chicken.
 region: Seoul
 country: South Korea
 category: restaurant

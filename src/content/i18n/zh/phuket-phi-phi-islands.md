@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: phuket-phi-phi-islands
+srcHash: f887ce76ae29
 title: 皮皮岛：普吉岛旅行指南
 description: 皮皮岛（Phi Phi Islands）是从普吉岛出发的一日游或过夜船游目的地，最佳方式是从拉萨达码头（Rassada Pier）或查隆码头（Chalong Pier）乘坐快艇（单程约1-1.5小时）前往。
 quickAnswer: 皮皮岛是从普吉岛出发的一日游或过夜船游目的地，最佳方式是从拉萨达码头（Rassada Pier）或查隆码头（Chalong Pier）乘坐快艇前往（单程约1-1.5小时）。重点游览玛雅湾（Maya Bay）、皮皮莱岛（Phi Phi Leh）的石灰岩峭壁，以及在皮莱潟湖（Pileh Lagoon）浮潜；如果不打算过夜，建议预留一整天时间。请提前一两天预订行程或渡轮，尤其是在旺季（11月至4月）。

@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: milan-piazza-del-duomo
+srcHash: 20fbc0791457
 title: 'Piazza del Duomo: Guía de viaje de Milán'
 description: La Piazza del Duomo es la gran plaza central de Milán, dominada por el bosque de agujas de mármol de la catedral y flanqueada por el Palacio Real y la Galería Vittorio Emanuele II, de techo acristalado.
 quickAnswer: La Piazza del Duomo es la gran plaza central de Milán, dominada por el bosque de agujas de mármol de la catedral y flanqueada por el Palacio Real y la Galería Vittorio Emanuele II, de techo acristalado. Es un lugar muy concurrido, así que conviene ir temprano por la mañana (antes de las 9:00) o después de las 19:00 para ver la fachada sin una multitud de turistas delante. Calcula entre 20 y 30 minutos solo para la plaza, más si haces cola para el Duomo o sus terrazas.

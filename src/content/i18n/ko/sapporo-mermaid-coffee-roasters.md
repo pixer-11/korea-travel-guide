@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: sapporo-mermaid-coffee-roasters
+srcHash: 00490608e5b7
 title: '머메이드 커피 로스터스: 삿포로 여행 가이드'
 description: 머메이드 커피 로스터스(Mermaid Coffee Roasters)는 삿포로 스스키노(Susukino)/미나미 3조(Minami 3) 지역에 위치한 소규모 스페셜티 로스터리 겸 카페로, 난보쿠선(Namboku Line) 스스키노역에서 도보 몇 분 거리에 있습니다.
 quickAnswer: 머메이드 커피 로스터스(Mermaid Coffee Roasters)는 삿포로 스스키노(Susukino)/미나미 3조(Minami 3) 지역에 위치한 소규모 스페셜티 로스터리 겸 카페로, 난보쿠선(Namboku Line) 스스키노역에서 도보 몇 분 거리에 있습니다. 미니멀하고 식물이 가득한 공간에서 여유롭게 핸드드립이나 에스프레소를 즐기기에 좋으며, 워낙 마니아층이 두터운 곳(별점 4.8, 리뷰 1,500개 이상)이라 잠시 대기해야 할 수도 있습니다. 30~45분 정도 여유를 두고, 오후에 몰리는 인파를 피하려면 평일 오전에 방문하는 것이 좋습니다.

@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: ajman-souryana-restaurant-and-cafe
+srcHash: fc3102f7dc9f
 title: 'Souryana Restaurant and Cafe: dónde comer en Ajman'
 description: Souryana Restaurant and Cafe, en Al Nakhil 2, Ajman, es una parrilla siria/levantina que ha acumulado una de las cifras de reseñas más altas (casi 8,000, con una calificación de 4.8) de cualquier restaurante del emirato.
 quickAnswer: Souryana Restaurant and Cafe, en Al Nakhil 2, Ajman, es una parrilla siria/levantina que ha acumulado una de las cifras de reseñas más altas (casi 8,000, con una calificación de 4.8) de cualquier restaurante del emirato. Ve por las parrilladas mixtas, el shawarma y los platos de mezze; espera un salón concurrido la mayoría de las noches, y llega temprano o reserva con antelación los fines de semana para evitar la espera.

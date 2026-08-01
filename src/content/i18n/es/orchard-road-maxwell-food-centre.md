@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: orchard-road-maxwell-food-centre
+srcHash: 2f43c40e89b1
 title: 'Maxwell Food Centre: Dónde comer cerca de Orchard Road'
 description: Maxwell Food Centre es un centro de hawkers en Chinatown, en realidad no está en Orchard Road — queda a unos 15-20 minutos en MRT, cerca de la estación Chinatown MRT (Salida A/E).
 quickAnswer: Maxwell Food Centre es un centro de hawkers en Chinatown, en realidad no está en Orchard Road — queda a unos 15-20 minutos en MRT, cerca de la estación Chinatown MRT (Salida A/E). Ve por el Tian Tian Hainanese Chicken Rice y otros clásicos de hawker, llega antes del mediodía o después de las 2pm para evitar el ajetreo del almuerzo, y lleva efectivo en billetes pequeños. Calcula entre 45 y 60 minutos y combina la visita con un paseo por el cercano Chinatown o Ann Siang Hill.

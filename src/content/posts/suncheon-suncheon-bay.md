@@ -1,6 +1,6 @@
 ---
 title: Suncheon Bay
-description: 'Suncheon Bay National Garden and the adjacent Suncheon Bay Wetland Reserve (Suncheonman) are best visited together as a single day trip: start at the'
+description: 'Suncheon Bay National Garden and the adjacent Suncheon Bay Wetland Reserve (Suncheonman) are best visited together as a single day trip: start at the National Garden in the morning, walk or take the shuttle to the wetland entrance, then climb Yongsan Observatory before sunset to see the famous S-shaped reed channel.'
 region: Suncheon
 category: attraction
 pubDate: 2026-07-20T00:00:00.000Z

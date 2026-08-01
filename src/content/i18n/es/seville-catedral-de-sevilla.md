@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: seville-catedral-de-sevilla
+srcHash: d2c48e32cb49
 title: 'Catedral de Sevilla: Guía de viaje de Sevilla'
-description: 'La Catedral de Sevilla es la catedral gótica más grande del mundo, construida sobre la antigua mezquita almohade, y merece una mañana entera: sube a la Giralda para'
+description: 'La Catedral de Sevilla es la catedral gótica más grande del mundo, construida sobre la antigua mezquita almohade, y merece una mañana entera: sube a la Giralda para disfrutar de las vistas de la ciudad y los tejados, y luego busca la tumba de Colón, sostenida en alto por cuatro reyes de bronce.'
 quickAnswer: 'La Catedral de Sevilla es la catedral gótica más grande del mundo, construida sobre la antigua mezquita almohade, y merece una mañana entera: sube a la Giralda para disfrutar de las vistas de la ciudad y los tejados, y luego busca la tumba de Colón, sostenida en alto por cuatro reyes de bronce. Reserva online una entrada con hora fija con antelación — es uno de los lugares más visitados de Sevilla, con más de 59.000 reseñas en Google y una valoración de 4,8, así que llegar justo a la apertura o en las dos últimas horas antes del cierre marca una verdadera diferencia.'
 faq:
   - q: ¿Cuánto tiempo debo reservar para la visita?

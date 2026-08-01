@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: yogyakarta-the-tree-restaurant-yogyakarta
+srcHash: 881156d5cbdd
 title: The Tree Restaurant：日惹美食推荐
 description: The Tree Restaurant Yogyakarta 是一家坐落在花园中的静谧餐厅，位于普兰巴南地区（Prambanan district）的桑比雷佐村（Sambirejo village）——距离日惹市中心约25-30分钟车程。
 quickAnswer: The Tree Restaurant Yogyakarta 是一家坐落在花园中的静谧餐厅，位于普兰巴南地区（Prambanan district）的桑比雷佐村（Sambirejo village）——从日惹市中心向东约25-30分钟车程，距普兰巴南神庙（Prambanan Temple）仅几分钟路程。这里最适合作为游览神庙群前后的一次轻松午餐停靠点，而不是一个独立的目的地，因为它位于市中心之外较远的地方。凭借超过130条评论获得4.8分的评价，这里值得那些愿意稍微绕出常规寺庙-出租车环线的旅行者一探究竟。

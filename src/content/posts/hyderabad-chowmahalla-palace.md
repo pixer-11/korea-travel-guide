@@ -1,6 +1,6 @@
 ---
 title: "Chowmahalla Palace: Hyderabad Travel Guide"
-description: "Chowmahalla Palace, the Nizams' former seat of power near Charminar in Hyderabad's old city, is best seen on a weekday morning right at opening to beat the"
+description: Chowmahalla Palace, the Nizams' former seat of power near Charminar in Hyderabad's old city, is best seen on a weekday morning right at opening to beat the tour-bus crowds and the midday heat.
 country: "India"
 region: "Hyderabad"
 category: "attraction"

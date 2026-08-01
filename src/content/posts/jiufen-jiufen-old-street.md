@@ -1,6 +1,6 @@
 ---
 title: 'Jiufen Old Street: Travel Guide'
-description: Jiufen Old Street is a steep, lantern-lined maze of tea houses, food stalls, and mountain-sea viewpoints in Ruifang District, about 45–60 minutes from
+description: Jiufen Old Street is a steep, lantern-lined maze of tea houses, food stalls, and mountain-sea viewpoints in Ruifang District, about 45–60 minutes from Taipei.
 country: Taiwan
 region: Jiufen
 category: attraction

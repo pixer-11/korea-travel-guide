@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: bohol-bilar-man-made-forest
+srcHash: 9e9ceb0c806c
 title: '빌라르 인공림: 보홀 여행 가이드'
 description: 빌라르 인공림(Bilar Man-Made Forest)은 빌라르와 세비야 사이 로아이 인테리어 로드(Loay Interior Road)를 따라 2킬로미터 가량 이어지는 울창한 마호가니 숲으로, 탁빌라란 시티에서 차나 밴으로 약 45~55분 거리에 있습니다.
 quickAnswer: 빌라르 인공림(Bilar Man-Made Forest)은 빌라르와 세비야 사이 로아이 인테리어 로드(Loay Interior Road)를 따라 2킬로미터 가량 이어지는 울창한 마호가니 숲으로, 탁빌라란 시티(Tagbilaran City)에서 차나 밴으로 약 45~55분 거리에 있으며 초콜릿 힐(Chocolate Hills)과 로복 강(Loboc River)과 함께 당일치기 여행으로 묶기 좋습니다. 도로변 정차 구간과 전망대에서 사진을 찍는 데 15~30분 정도면 충분하니, 이곳은 하이킹 명소라기보다는 지나가며 잠깐 들르는 스폿입니다. 캐노피 사이로 빛이 비스듬히 스며들고 관광버스로 갓길이 붐비기 전인 이른 아침이나 늦은 오후에 방문하는 것이 좋습니다.

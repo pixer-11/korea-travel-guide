@@ -1,6 +1,6 @@
 ---
 title: 'Musée de l''Œuvre-Notre-Dame: Strasbourg Travel Guide'
-description: The Musée de l'Œuvre-Notre-Dame, tucked into a cluster of medieval and Renaissance houses at 3 Place du Château right beside Strasbourg Cathedral, is one of
+description: The Musée de l'Œuvre-Notre-Dame, tucked into a cluster of medieval and Renaissance houses at 3 Place du Château right beside Strasbourg Cathedral, is one of the city's most under-visited major sights — a 4.7-star-rated museum of medieval and Renaissance art, stained glass, and cathedral sculpture.
 country: France
 region: Strasbourg
 category: attraction

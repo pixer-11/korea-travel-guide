@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: sentosa-sentosa-sensoryscape
+srcHash: b3cdaac71fcc
 title: 圣淘沙感官花园（Sentosa Sensoryscape）：旅行指南
 description: 圣淘沙感官花园（Sentosa Sensoryscape）是位于圣淘沙岛 3 Siloso Rd 的一处免费多感官花园与灯光装置，在暮色时分体验最佳，届时其LED灯棚、喷雾花园和声效装置会同时被点亮。
 quickAnswer: 圣淘沙感官花园（Sentosa Sensoryscape）是位于圣淘沙岛 3 Siloso Rd 的一处免费多感官花园与灯光装置，在暮色时分体验最佳，届时其LED灯棚、喷雾花园和声效装置会同时被点亮、融为一体。建议预留45–60分钟游览时间，可以搭配西乐索海滩（Siloso Beach）漫步或晚餐一起安排，最好选在平日傍晚前往，以避开周末缆车人潮经过时的拥挤。

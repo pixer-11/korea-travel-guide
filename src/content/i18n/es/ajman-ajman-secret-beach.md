@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: ajman-ajman-secret-beach
+srcHash: 59623a1f2944
 title: 'Playa Secreta de Ajman: Guía de viaje'
-description: La Playa Secreta de Ajman se encuentra en el distrito de Al Zorah, en el litoral norte de Ajman, un tramo de arena tranquilo respaldado por manglares y dunas bajas que recibe muchos menos visitantes
+description: La Playa Secreta de Ajman se encuentra en el distrito de Al Zorah, en el litoral norte de Ajman, un tramo de arena tranquilo respaldado por manglares y dunas bajas que recibe muchos menos visitantes que Dubái o incluso que las playas públicas del centro de Ajman.
 quickAnswer: La Playa Secreta de Ajman se encuentra en el distrito de Al Zorah, en el litoral norte de Ajman, un tramo de arena tranquilo respaldado por manglares y dunas bajas que recibe muchos menos visitantes que Dubái o incluso que las playas públicas del centro de Ajman. Ve un día laborable por la mañana o justo antes del atardecer, lleva tu propia agua y sombra, y espera encontrarte con una costa natural y sin urbanizar, en lugar de un club de playa de resort. Calcula entre 1,5 y 3 horas, y combínala con un paseo en coche o en bicicleta por los manglares de Al Zorah, justo al lado.
 faq:
   - q: ¿Cómo llego a la Playa Secreta de Ajman sin coche?

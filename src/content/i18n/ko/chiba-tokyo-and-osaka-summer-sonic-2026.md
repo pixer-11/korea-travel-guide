@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: chiba-tokyo-and-osaka-summer-sonic-2026
+srcHash: e4f2c11e6e86
 title: '서머소닉 2026: 알아둘 것들 (도쿄 & 오사카)'
 description: 서머소닉 2026은 2026년 8월 14일부터 16일까지 지바(도쿄 인근)와 오사카에서 동시에 개최되며, 페스티벌 25주년이자 사상 최초의 3일간 개최를 기념합니다.
 quickAnswer: 서머소닉 2026은 2026년 8월 14일부터 16일까지 지바(Chiba, 도쿄 인근)와 오사카(Osaka)에서 동시에 개최되며, 페스티벌 25주년이자 사상 최초의 3일간 개최를 기념합니다. 지금까지 발표된 헤드라이너로는 더 스트록스(The Strokes), 자미로콰이(Jamiroquai), FKA 트윅스(FKA Twigs), 라르크앙시엘(L'Arc-en-Ciel), 에스파(aespa), 르세라핌(LE SSERAFIM)이 있습니다. 항공편이나 숙소를 예약하기 전에 정확한 무대 시간, 행사장 배치, 티켓 등급은 서머소닉 공식 사이트에서 반드시 확인하세요.
@@ -23,7 +24,7 @@ faq:
 
 ## 가는 방법
 
-지바 행사는 **조조 마린 스타디움(Zozo Marine Stadium)**과 인근 마쿠하리(Makuhari) 지구에 위치한 **마쿠하리 멧세(Makuhari Messe)** 컨벤션 홀을 중심으로 진행됩니다. 마쿠하리는 JR 케이요선(JR Keiyo Line)을 타고 **가이힌마쿠하리역(Kaihin-Makuhari Station)**에서 내리면 되며, 도쿄 중심부(도쿄역, Tokyo Station)에서 약 30\~40분 거리입니다. 어느 무대로 가는지에 따라 셔틀버스를 이용하거나 도보로 이동할 수 있습니다. 비행기로 이동한다면 나리타 공항(Narita Airport)이 하네다(Haneda)보다 지바에 더 가까우니, 지바 일정을 소화할 경우 이를 고려해 도착 계획을 세우는 것이 좋습니다.
+지바 행사는 **조조 마린 스타디움**(Zozo Marine Stadium)과 인근 마쿠하리(Makuhari) 지구에 위치한 **마쿠하리 멧세(Makuhari Messe)** 컨벤션 홀을 중심으로 진행됩니다. 마쿠하리는 JR 케이요선(JR Keiyo Line)을 타고 **가이힌마쿠하리역**(Kaihin-Makuhari Station)에서 내리면 되며, 도쿄 중심부(도쿄역, Tokyo Station)에서 약 30\~40분 거리입니다. 어느 무대로 가는지에 따라 셔틀버스를 이용하거나 도보로 이동할 수 있습니다. 비행기로 이동한다면 나리타 공항(Narita Airport)이 하네다(Haneda)보다 지바에 더 가까우니, 지바 일정을 소화할 경우 이를 고려해 도착 계획을 세우는 것이 좋습니다.
 
 오사카 행사는 그동안 마이시마(Maishima)/베이 지역이나 시 중심부 외곽의 ZOZO 계열 부지를 사용해 왔습니다 — 서머소닉이 과거에도 오사카 행사장을 변경한 적이 있으니, 2026년 확정된 오사카 행사장은 공식 사이트에서 확인하세요. 오사카로 비행기를 타고 온다면, 간사이 국제공항(Kansai International Airport)에서 JR 하루카(JR Haruka) 특급열차나 난카이선(Nankai Line)을 통해 시내로 이동할 수 있습니다.
 

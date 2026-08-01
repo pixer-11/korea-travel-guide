@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: pohang-k-drama-filming-site
+srcHash: 39ecc1c822fa
 title: Localización de rodaje de K-dramas en Pohang
-description: El destino más conocido de Pohang para fans de K-dramas es Guryongpo, el pueblo pesquero de estilo retro de la era colonial japonesa en la península de Homigot, con sus antiguos escaparates de madera y sus calles
+description: El destino más conocido de Pohang para fans de K-dramas es Guryongpo, el pueblo pesquero de estilo retro de la era colonial japonesa en la península de Homigot, cuyos antiguos escaparates de madera y estrechos callejones representaron a un pueblo portuario de los años 80 y 90 en la exitosa serie "When the Camellia Blooms" (El camelio florece).
 quickAnswer: El destino más conocido de Pohang para fans de K-dramas es Guryongpo, el pueblo pesquero de estilo retro de la era colonial japonesa en la península de Homigot, cuyos antiguos escaparates de madera y estrechos callejones representaron a un pueblo portuario de los años 80 y 90 en la exitosa serie "When the Camellia Blooms" (El camelio florece). Combínalo con la cercana Plaza del Amanecer de Homigot (Homigot Sunrise Square, famosa por la escultura Hand of Harmony, la "Mano de la Armonía") para una excursión de medio día desde la principal terminal de autobuses/tren de Pohang. Ve un día entre semana por la mañana, usa calzado cómodo para caminar por los callejones en pendiente, y combina la visita con pescado crudo fresco (hoe) o saurio a la parrilla en el puerto.
 faq:
   - q: ¿Cómo llego a la localización de rodaje de Guryongpo desde Seúl?

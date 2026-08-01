@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: suncheon-nagan-eupseong-folk-village
+srcHash: 4c43402973c1
 title: 'Aldea Folclórica de Nagan Eupseong: Guía de viaje de Suncheon'
 description: La Aldea Folclórica de Nagan Eupseong es un pueblo amurallado de la dinastía Joseon en Nagan-myeon, a unos 30 minutos al suroeste del centro de Suncheon, donde todavía viven unas 100 familias.
 quickAnswer: La Aldea Folclórica de Nagan Eupseong (Nagan Eupseong Folk Village) es un pueblo amurallado de la dinastía Joseon en Nagan-myeon, a unos 30 minutos al suroeste del centro de Suncheon, donde todavía viven unas 100 familias dentro de una fortaleza de piedra del siglo XV, entre casas de techo de paja. Reserva entre 1,5 y 2 horas para recorrer las murallas y callejuelas de la fortaleza, más tiempo si asistes a una actuación folclórica o pruebas alguna actividad artesanal. Se visita mejor en las horas más frescas de la mañana o al final de la tarde, y combina bien con una visita a la Reserva de Humedales de la Bahía de Suncheon (Suncheon Bay Wetland Reserve) el mismo día.

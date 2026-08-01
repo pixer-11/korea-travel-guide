@@ -1,8 +1,9 @@
 ---
 lang: ko
 slug: phuket-green-elephant-sanctuary-park
+srcHash: 02815bb81450
 title: '그린 엘리펀트 생추어리 파크: 푸켓 여행 가이드'
-description: 그린 엘리펀트 생추어리 파크(Green Elephant Sanctuary Park)는 푸켓 북서부 방따오(Bang Tao)와 라얀(Layan) 비치 인근 체르응탈레이(Cherngtalay)에 위치하며, 반나절 코스의 윤리적인 코끼리 체험을 제공합니다
+description: 그린 엘리펀트 생추어리 파크(Green Elephant Sanctuary Park)는 푸켓 북서부 방따오(Bang Tao)와 라얀(Layan) 비치 인근 체르응탈레이(Cherngtalay)에 위치하며, 잠깐 사진만 찍고 가는 곳이 아니라 반나절 동안 먹이 주기, 함께 걷기, 진흙 목욕(코끼리 타기 없음) 등 윤리적인 코끼리 체험을 제공합니다.
 quickAnswer: 그린 엘리펀트 생추어리 파크(Green Elephant Sanctuary Park)는 푸켓 북서부 방따오(Bang Tao)와 라얀(Layan) 비치 인근 체르응탈레이(Cherngtalay)에 위치하며, 잠깐 사진만 찍고 가는 곳이 아니라 반나절 동안 먹이 주기, 함께 걷기, 진흙 목욕(코끼리 타기 없음) 등 윤리적인 코끼리 체험을 제공합니다. 오전 또는 오후 세션을 사전에 생추어리를 통해 직접 예약하고, 진흙이 묻어도 괜찮은 옷을 입으세요. 대부분의 서부 해안 리조트에서 이동 시간을 포함해 약 3시간 정도 소요된다고 생각하면 됩니다.
 faq:
   - q: 차 없이 그린 엘리펀트 생추어리 파크에 가려면 어떻게 하나요?

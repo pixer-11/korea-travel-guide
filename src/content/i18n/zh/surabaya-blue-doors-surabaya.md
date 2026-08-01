@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: surabaya-blue-doors-surabaya
+srcHash: 27d12afe415a
 title: Blue Doors：泗水（Surabaya）旅行指南
 description: Blue Doors Surabaya 是位于德加尔萨里（Tegalsari）Jl. Imam Bonjol 街上的一家网红咖啡馆，从泗水市中心打车或叫网约车即可轻松抵达。
 quickAnswer: Blue Doors Surabaya 是位于德加尔萨里（Tegalsari）Jl. Imam Bonjol 街上的一家网红咖啡馆，从泗水市中心打车或叫网约车即可轻松抵达，最佳到访时间是工作日的上午或下午稍晚时段，这样可以在没有人群的情况下欣赏它蓝白相间的外墙和有树荫的庭院。建议预留一到两个小时用来喝咖啡、吃早午餐和拍照。它也很适合与在 DR. Soetomo/Darmo 一带殖民时期街区的漫步行程搭配。

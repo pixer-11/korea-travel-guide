@@ -44,6 +44,8 @@ for (const f of files) {
     placeId: (fm.place && fm.place.id) || '',
     placeName: (fm.place && fm.place.name) || '',
     country: fm.country || '',
+    description: fm.description || '',
+    quickAnswer: fm.quickAnswer || '',
     eventStart: fm.eventStartDate || '',
     eventEnd: fm.eventEndDate || fm.eventStartDate || '',
     gallery: (fm.gallery || []).map((g) => g && g.url).filter(Boolean),
@@ -72,8 +74,31 @@ const dupBy = (keyFn, label) => {
 // bilingual place name leaked into the English H1 — generate.mjs strips it now, so
 // this catches any that slip through (or old posts).
 const NON_LATIN = /[؀-ۿ一-鿿฀-๿぀-ヿ가-힯ༀ-࿿]/;
+
+// The meta description is the page's SERP copy. clip()'s old word-trim fallback
+// shipped 414 posts ending mid-clause ("…and best experienced", "…with") before
+// the 2026-08-01 repair — a healthy description ends a sentence (terminal
+// punctuation, optionally inside a closing quote/paren) with balanced parens.
+const DESC_TERMINAL = /[.!?…](['"”’)\]]*)?$/;
+const parensBalanced = (s) => (s.match(/[(（]/g) || []).length === (s.match(/[)）]/g) || []).length;
+
+// Tool-call markup spilled into a frontmatter field. ipoh-han-chin-pet-soo
+// shipped with its ENTIRE body inside quickAnswer as
+// "…</quickAnswer>\n<parameter name=\"body\">You almost walk past it…" — the
+// article rendered inside the quick-answer box, the real body was empty, and
+// every Korean re-translation of it failed. audit-translations guards the
+// translated copies; nothing guarded the English source until this.
+const EN_SPILL = /<\/?(description|quickAnswer|title|body|faq|parameter|function_calls|invoke)\b|<parameter\s+name=/i;
+
 for (const p of posts) {
   if (p.region.includes('/')) issues.push(`SLASH in region "${p.region}" — breaks /regions route: ${p.f}`);
+  const d = p.description.trim();
+  if (d && (!DESC_TERMINAL.test(d) || !parensBalanced(d))) {
+    issues.push(`TRUNCATED-DESCRIPTION: ${p.f} — ends "…${d.slice(-50)}"`);
+  }
+  for (const [field, v] of [['description', p.description], ['quickAnswer', p.quickAnswer], ['title', p.title]]) {
+    if (EN_SPILL.test(v)) issues.push(`TOOL-SPILL in ${field}: ${p.f} — "${v.match(EN_SPILL)[0]}"`);
+  }
   if (!p.url || p.url.includes('placeholder')) issues.push(`PLACEHOLDER/no image [${p.category}]: ${p.f}`);
   if (NON_LATIN.test(p.title)) issues.push(`NON-LATIN script in title "${p.title.slice(0, 40)}…": ${p.f}`);
   if ((p.title.match(/\//g) || []).length >= 2) issues.push(`QUERY-LIKE title (multiple "/"): ${p.f}`);

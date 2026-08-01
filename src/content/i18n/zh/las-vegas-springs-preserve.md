@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: las-vegas-springs-preserve
+srcHash: d30ef3389b35
 title: 泉水保护区(Springs Preserve):拉斯维加斯旅行指南
 description: 泉水保护区(Springs Preserve)是位于333 S Valley View Blvd的180英亩沙漠绿洲,距离拉斯维加斯大道约10分钟车程,建于当年赋予拉斯维加斯之名的天然淡水泉之上。
 quickAnswer: 泉水保护区(Springs Preserve)是位于333 S Valley View Blvd的180英亩沙漠绿洲,距离拉斯维加斯大道(the Strip)约10分钟车程,建于当年赋予拉斯维加斯之名的天然淡水泉之上。游览步道、植物园和博物馆大约需要3-4小时,建议赶在早上9点开门时前往——这里周二、周三闭馆,周末的步道和展馆人流会随着一天的推移逐渐增多。这里确实很受欢迎、游客众多,与其说是尚未被发掘的秘境,不如说是一个运营得当、值得精心安排时间前往的地方。

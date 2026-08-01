@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: dubai-dubai-summer-surprises-dss-2026
+srcHash: 879f471b97ef
 title: 迪拜夏季惊喜节（DSS）2026：你需要了解的信息（迪拜）
 description: 2026年迪拜夏季惊喜节（Dubai Summer Surprises, DSS）将于2026年7月3日至8月30日在阿联酋迪拜举行。了解活动内容、时间地点，以及如何规划行程。
 quickAnswer: 2026年迪拜夏季惊喜节（DSS）将于2026年7月3日至8月30日在迪拜全城举行，届时各大商场将推出零售促销、抽奖活动及家庭娱乐项目。活动由迪拜节庆零售管理局（Dubai Festivals and Retail Establishment）主办，并非集中于单一场地——活动主要分布在各大商场和家庭娱乐场所，而非某个需要购票入场的单一场地，因此建议在规划行程前，先在Visit Dubai或DSS官方渠道确认具体活动日期、场地及票价信息。

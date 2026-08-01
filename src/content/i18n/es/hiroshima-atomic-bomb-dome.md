@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: hiroshima-atomic-bomb-dome
+srcHash: f06896beef7e
 title: 'Cúpula de la Bomba Atómica: Guía de viaje de Hiroshima'
 description: La Cúpula de la Bomba Atómica se encuentra a orillas del río Motoyasu, en el barrio de Naka, a dos minutos a pie del Parque Memorial de la Paz — ve a primera hora de la mañana o justo antes del atardecer.
 quickAnswer: La Cúpula de la Bomba Atómica se encuentra a orillas del río Motoyasu (Motoyasu River), en el barrio de Naka (Naka Ward), a dos minutos a pie del Parque Memorial de la Paz (Peace Memorial Park) — ve a primera hora de la mañana o justo antes del atardecer para evitar aglomeraciones y disfrutar de mejor luz. La visita exterior es gratuita (no se puede acceder al interior), y la mayoría de los visitantes dedica entre 15 y 30 minutos a la Cúpula antes de continuar hacia el Parque y el Museo Memorial de la Paz. La parada más cercana es la parada de tranvía Genbaku Dome-mae, justo al otro lado del río.

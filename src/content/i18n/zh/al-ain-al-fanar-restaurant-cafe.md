@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: al-ain-al-fanar-restaurant-cafe
+srcHash: 02aec6683220
 title: Al Fanar Restaurant & Cafe：艾因(Al Ain)美食推荐
 description: Al Fanar Restaurant & Cafe 位于艾因(Al Ain)吉米(Al Jimi)地区的宰法拉纳市场(Souq Al Zafarana)，是一家历史悠久的阿联酋/海湾风味餐厅，以马克布斯(machboos)、哈里斯(harees)和慢炖肉类闻名。
 quickAnswer: Al Fanar Restaurant & Cafe 位于艾因(Al Ain)吉米(Al Jimi)地区的宰法拉纳市场(Souq Al Zafarana)，是一家历史悠久的阿联酋/海湾风味餐厅，以马克布斯(machboos)、哈里斯(harees)和慢炖肉类闻名，凭借超过8000条评价获得了难得的4.8星高分。这里价格中等、气氛随性，在当地极受欢迎，因此建议选择非高峰时段用餐，例如午餐时间约1点到1点半，或晚上8点前用晚餐，以避免排队。完整的坐下用餐建议预留45到75分钟。

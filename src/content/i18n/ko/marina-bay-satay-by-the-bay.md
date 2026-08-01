@@ -1,8 +1,9 @@
 ---
 lang: ko
 slug: marina-bay-satay-by-the-bay
+srcHash: 36b9a3328483
 title: '사테 바이 더 베이: 마리나 베이에서 무엇을 먹을까'
-description: '사테 바이 더 베이(Satay by the Bay)는 가든스 바이 더 베이(Gardens by the Bay) 내에 위치한 야외 호커식 푸드코트(18 Marina Gardens Dr, #01-19)로, 그릴에 구운 사테로 가장 유명하지만'
+description: '사테 바이 더 베이(Satay by the Bay)는 가든스 바이 더 베이(Gardens by the Bay) 내에 위치한 야외 호커식 푸드코트(18 Marina Gardens Dr, #01-19)로, 그릴에 구운 사테로 가장 유명하지만 중식, 말레이식, 인도식, 서양식 요리를 아우르는 다양한 매대가 있습니다.'
 quickAnswer: '사테 바이 더 베이(Satay by the Bay)는 가든스 바이 더 베이(Gardens by the Bay) 내에 위치한 야외 호커식 푸드코트(18 Marina Gardens Dr, #01-19)로, 그릴에 구운 사테로 가장 유명하지만 중식, 말레이식, 인도식, 서양식 요리를 아우르는 다양한 매대가 있습니다. 슈퍼트리 그로브(Supertree Grove) 라이트쇼 인파가 몰리기 전인 이른 저녁(오후 5:30~6:30 무렵)에 방문하는 것이 좋으며, 정원을 배경으로 한 캐주얼하고 든든한 한 끼에 1인당 대략 S$10~25 정도의 호커 물가를 예상하면 됩니다.'
 faq:
   - q: 사테 바이 더 베이에는 어떻게 가나요?

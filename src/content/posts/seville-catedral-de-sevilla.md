@@ -1,6 +1,6 @@
 ---
 title: "Catedral de Sevilla: Seville Travel Guide"
-description: "Seville's Catedral is the largest Gothic cathedral in the world, built atop the old Almohad mosque, and it's worth a full morning: climb the Giralda for"
+description: 'Seville''s Catedral is the largest Gothic cathedral in the world, built atop the old Almohad mosque, and it''s worth a full morning: climb the Giralda for rooftop-and-city views, then find Columbus''s tomb held aloft by four bronze kings.'
 country: "Spain"
 region: "Seville"
 category: "attraction"

@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: seoul-london-bagel-museum
+srcHash: ccc9134f1a5f
 title: 首尔伦敦贝果博物馆（London Bagel Museum）
 description: 伦敦贝果博物馆（London Bagel Museum）是首尔话题度最高的面包店，以口感Q弹、口味创意十足的贝果（如土豆芝士、Brick Lane）闻名，也因常常需要排队数小时的“开门跑”而广为人知。
 quickAnswer: 伦敦贝果博物馆（London Bagel Museum）是首尔话题度最高的面包店，以口感Q弹、口味创意十足的贝果（如土豆芝士、Brick Lane）闻名，也因常常需要排队数小时的“开门跑”（open run）而广为人知。大多数游客的目的地是位于北村韩屋村（Bukchon Hanok Village）附近的安国（Anguk）原始门店，不过随着人气上升，该品牌如今也已在首尔其他社区开设了分店。建议提早到场（最好是开门前很久就到），或者提前做好排队的心理准备，因为现场排队和每日限量供应正是这里体验的一部分。

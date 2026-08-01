@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: jinju-lantern-festival
+srcHash: 58b340aa1312
 title: Festival de los Faroles de Jinju
 description: El Festival de los Faroles Namgang Yudeung de Jinju se celebra durante unas dos semanas cada octubre a lo largo del río Namgang, en el centro de Jinju, con la fortaleza de Jinjuseong como epicentro.
 quickAnswer: El Festival de los Faroles Namgang Yudeung de Jinju se celebra durante unas dos semanas cada octubre a lo largo del río Namgang, en el centro de Jinju, con epicentro en la fortaleza de Jinjuseong (Jinjuseong Fortress) y el recinto del Namgang Yudeung Festival. Compra la entrada de pago de la zona del festival (faroles flotantes en el río, la fortaleza y las instalaciones de luz), llega después del atardecer para ver los faroles iluminados, y reserva al menos una tarde-noche completa además de una visita diurna a la fortaleza de Jinjuseong.

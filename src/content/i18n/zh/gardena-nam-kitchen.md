@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: gardena-nam-kitchen
+srcHash: 6dbc0d7d8c70
 title: 加德纳 NAM Kitchen 探店指南
 description: 位于美国加德纳(Gardena)的 NAM Kitchen——一家新晋热门餐厅:它是什么、在哪里、以及如何前往。
 quickAnswer: NAM Kitchen 是一家位于洛杉矶南部郊区加德纳(Gardena)的越南-秘鲁融合餐厅,在 Yelp 2026 年美国百佳餐厅榜单中位列第三,并被标注为该年度榜单中评论数最多的商家。如果在晚餐高峰时段前往,预计需要排队等候;由于该榜单发布后需求激增,出发前请务必确认最新营业时间和预订政策。

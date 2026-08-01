@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: dubai-barrafina
+srcHash: a84a30078d2e
 title: Barrafina en Dubái
 description: Barrafina —la célebre institución londinense de tapas de barra— abrió su primer local internacional en el DIFC de Dubái a finales de enero de 2026, sirviendo el mismo formato de tapas de cocción rápida.
 quickAnswer: Barrafina —la célebre institución londinense de tapas de barra— abrió su primer local internacional en el DIFC de Dubái a finales de enero de 2026, con el mismo formato de tapas de cocción rápida (croquetas, gambas a la plancha, tortilla) en una animada barra de mármol. Ve a almorzar o a cenar temprano para conseguir sitio en la barra, ya que el concepto no acepta grupos numerosos, y confirma directamente con el restaurante la política de reservas y el horario antes de ir, pues los detalles de un local recién inaugurado pueden cambiar rápidamente.

@@ -1,6 +1,6 @@
 ---
 title: "Leifeng Pagoda: Hangzhou Travel Guide"
-description: "Leifeng Pagoda sits on Sunset Hill at the southern edge of West Lake, at 15 Nan Shan Lu — the golden five-story tower you see gleaming across the water in"
+description: Leifeng Pagoda sits on Sunset Hill at the southern edge of West Lake, at 15 Nan Shan Lu — the golden five-story tower you see gleaming across the water in every classic Hangzhou postcard.
 country: "China"
 region: "Hangzhou"
 category: "attraction"

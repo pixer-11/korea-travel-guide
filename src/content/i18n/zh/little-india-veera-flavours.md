@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: little-india-veera-flavours
+srcHash: 037daa8ac29f
 title: Veera Flavours：小印度美食指南
 description: Veera Flavours 是位于小印度中心地带 Kerbau Road 41 号的一家南印度素食餐厅,评分高达4.7星,近2000条评价,深受食客好评。
 quickAnswer: Veera Flavours 是一家评分极高(4.7星,近2000条评价)的南印度素食餐厅,位于小印度中心地带的 Kerbau Road 41 号,以蕉叶餐(banana-leaf meal)、多萨(dosa)和塔利套餐(thali set)闻名,价格中等偏亲民。建议在工作日上午11:30左右或下午2:30以后前往,可避开午餐高峰。用餐之余,不妨沿 Kerbau Road 和 Campbell Lane 走走逛逛。从小印度地铁站(Little India MRT)A出口或E出口步行仅需5分钟即可到达。

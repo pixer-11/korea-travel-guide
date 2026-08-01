@@ -1,6 +1,6 @@
 ---
 title: Barrafina in Dubai
-description: Barrafina — London's celebrated Spanish counter-dining institution — opened its first international outpost in Dubai's DIFC in late January 2026, serving the
+description: Barrafina — London's celebrated Spanish counter-dining institution — opened its first international outpost in Dubai's DIFC in late January 2026, serving the same fast-fired tapas format (croquetas, grilled prawns, tortilla) at a lively marble-topped bar.
 country: United Arab Emirates
 region: Dubai
 category: restaurant

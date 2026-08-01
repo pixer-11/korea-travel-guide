@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: pattaya-mini-siam
+srcHash: d619bee09522
 title: 'Mini Siam: Guía de viaje de Pattaya'
-description: Mini Siam es un parque de miniaturas en Sukhumvit Road, en el extremo norte de Pattaya, con réplicas a escala de monumentos tailandeses (como Wat Arun y el Gran
+description: Mini Siam es un parque de miniaturas en Sukhumvit Road, en el extremo norte de Pattaya, que exhibe réplicas a escala de monumentos tailandeses (como Wat Arun y el Gran Palacio) y de monumentos del mundo (la Torre Eiffel, el Big Ben, Angkor Wat) distribuidas por terrenos abiertos.
 quickAnswer: Mini Siam es un parque de miniaturas en Sukhumvit Road, en el extremo norte de Pattaya, que exhibe réplicas a escala de monumentos tailandeses (como Wat Arun y el Gran Palacio) y de monumentos del mundo (la Torre Eiffel, el Big Ben, Angkor Wat) distribuidas por terrenos abiertos. Calcula entre 1,5 y 2 horas, ve a última hora de la tarde y comienzo del anochecer para aprovechar tanto las fotos con luz de día como el encendido de las luces, y combínalo con otras paradas del norte de Pattaya, ya que queda alejado de la franja de playa.
 faq:
   - q: ¿Cuánto tiempo debo reservar para Mini Siam?

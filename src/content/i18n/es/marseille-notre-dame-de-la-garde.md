@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: marseille-notre-dame-de-la-garde
+srcHash: 8d2a3279e263
 title: 'Notre-Dame de la Garde: Guía de viaje de Marsella'
 description: Notre-Dame de la Garde es la basílica neobizantina situada en la colina más alta de Marsella (154 m), coronada por una estatua dorada de la Virgen María de 9,5 m.
 quickAnswer: Notre-Dame de la Garde es la basílica neobizantina situada en la colina más alta de Marsella (154 m), coronada por una estatua dorada de la Virgen María de 9,5 m. La entrada es gratuita, abre todos los días, y lo mejor es visitarla al atardecer o a primera hora de la mañana para disfrutar de vistas panorámicas sobre el Vieux-Port y el Mediterráneo. Calcula entre 45 y 90 minutos, y sube caminando o en el autobús 60—la subida es empinada.

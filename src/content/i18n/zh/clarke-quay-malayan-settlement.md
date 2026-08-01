@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: clarke-quay-malayan-settlement
+srcHash: 6500fb4dcda4
 title: Malayan Settlement：克拉码头觅食指南
 description: 'Malayan Settlement 是一家隐藏在克拉码头（Clarke Quay）B座（3 River Valley Rd, #1-03）的娘惹－西式融合餐厅，从克拉码头地铁站步行仅需几分钟。'
 quickAnswer: 'Malayan Settlement 是一家隐藏在克拉码头（Clarke Quay）B座（3 River Valley Rd, #1-03）的娘惹－西式融合餐厅，从克拉码头地铁站（Clarke Quay MRT，NEW/NE Line，E出口）步行几分钟即达。它在超过1,300条评价中获得4.8分的高评分，以将马来－娘惹风味——想想仁当（rendang）、参巴（sambal）和椰糖（gula melaka）——融入牛排、意面和分享拼盘而闻名。建议工作日晚上7点前前往，可免于长时间排队；若是周五或周六晚上前来，建议提前订位。'

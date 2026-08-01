@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: goa-fort-aguada
+srcHash: e33478ad11c8
 title: 阿瓜达堡:果阿旅行指南
 description: 阿瓜达堡(Fort Aguada)坐落在曼多维河(Mandovi River)入海口辛克林海滩(Sinquerim beach)上方的岬角上,乘出租车从达博林/果阿机场(Dabolim/Goa airport)出发约需30-40分钟,从帕纳吉(Panaji)出发约需15分钟。
 quickAnswer: 阿瓜达堡坐落在曼多维河入海口辛克林海滩上方的岬角上,乘出租车从达博林/果阿机场出发约需30-40分钟,从帕纳吉出发约需15分钟。建议清晨(9:30前)或傍晚接近日落时前往,以避开旅游大巴人潮,并预留1-1.5小时游览城墙和灯塔。这是一处名副其实、游客众多的地标景点,而非小众秘境,所以要做好人潮规划,而非期待能独享清静。

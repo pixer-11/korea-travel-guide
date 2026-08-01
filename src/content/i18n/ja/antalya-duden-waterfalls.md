@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: antalya-duden-waterfalls
+srcHash: 932d505976b1
 title: デュデン滝:アンタルヤ旅行ガイド
 description: アンタルヤ・ケペズ(Kepez)にあるデュデン滝(Düden Şelalesi)は、滝の裏側に入って眺められる大きな洞窟がある上流デュデン公園(Düden Şelalesi Parkı)がおすすめの見どころです。
 quickAnswer: アンタルヤ・ケペズ(Kepez)にあるデュデン滝(Düden Şelalesi)は、滝が大きな洞窟の前に流れ落ち、その裏側まで歩いて入って滝を眺められる上流デュデン公園(Düden Şelalesi Parkı)を訪れるのがベストです。ツアーバスの混雑を避けるには早朝か平日に行きましょう。所要時間は1~1.5時間を目安にし、車やタクシーを1日使えるなら、海岸近くにある別の下流デュデン滝と組み合わせて訪れるのもおすすめです。

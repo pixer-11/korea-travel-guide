@@ -1,6 +1,6 @@
 ---
 title: 'Kourin Sushi: Where to Eat in Kanazawa'
-description: Kourin Sushi (光琳寿司) is a well-regarded, moderately priced sushi counter in Bakuromachi, a short walk from Omicho Market — Kanazawa's main fish market and the
+description: Kourin Sushi (光琳寿司) is a well-regarded, moderately priced sushi counter in Bakuromachi, a short walk from Omicho Market — Kanazawa's main fish market and the source of much of what lands on its conveyor or counter.
 country: Japan
 region: Kanazawa
 category: restaurant

@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: suncheon-suncheon-bay
+srcHash: ff0b688d9e9c
 title: 顺天湾
 description: 顺天湾国家庭园与紧邻的顺天湾湿地保护区（顺天满/Suncheonman）最适合作为一日游一同游览：先游览国家庭园，再前往湿地。
 quickAnswer: 顺天湾国家庭园与紧邻的顺天湾湿地保护区（顺天满/Suncheonman）最适合作为一日游一同游览：上午先逛国家庭园，然后步行或搭乘穿梭车前往湿地入口，日落前再登上龙山瞭望台（Yongsan Observatory），一睹著名的S形芦苇水道美景。建议预留一整个下午（4-6小时），并穿上适合走木栈道及适度爬坡的鞋子。

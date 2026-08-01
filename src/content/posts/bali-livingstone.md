@@ -1,6 +1,6 @@
 ---
 title: 'Livingstone: Bali Travel Guide'
-description: Livingstone is a large, plant-filled café-restaurant on Jl. Petitenget in Kerobokan, one of the Seminyak-Canggu corridor's most consistently packed all-day
+description: Livingstone is a large, plant-filled café-restaurant on Jl. Petitenget in Kerobokan, one of the Seminyak-Canggu corridor's most consistently packed all-day spots (4.8 stars, 14,000+ reviews).
 country: Indonesia
 region: Bali
 category: trendy

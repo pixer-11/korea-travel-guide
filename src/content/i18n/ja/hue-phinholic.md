@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: hue-phinholic
+srcHash: 87b1a10c24bc
 title: PhinHolic:フエ旅行ガイド
 description: PhinHolicは、フエのトゥアンホア(Thuận Hóa)区、フーン川(Perfume River)南岸の65 Bến Nghéにあるおしゃれなベトナム式フィン・コーヒーのカフェで、ドンバ市場やホテルが並ぶ通りから歩くかシクロですぐの距離にあります。
 quickAnswer: PhinHolicは、フエのトゥアンホア(Thuận Hóa)区、フーン川(Perfume River)南岸の65 Bến Nghéにあるおしゃれなベトナム式フィン・コーヒーのカフェで、ドンバ市場(Dong Ba Market)やレ・ロイ通り(Le Loi)・フン・ヴオン通り(Hung Vuong)沿いの主要ホテル街から歩くかシクロですぐの距離にあります。午前中遅めか夕方遅めに訪れて、フィン・フィルターで淹れたカフェ・スア・ダ(ca phe sua da)や話題の塩クリームコーヒーを注文し、座って過ごしたり、作業したり、人観察を楽しむのに45〜60分ほど見ておきましょう。1杯あたりおよそ25,000〜55,000ドン(約1〜2.5ドル)で、現金またはQR送金で支払えます。

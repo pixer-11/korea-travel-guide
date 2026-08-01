@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: barcelona-basilica-of-the-sagrada-familia
+srcHash: bc7de6856a21
 title: 'Basílica de la Sagrada Familia: Guía de viaje de Barcelona'
 description: Reserva una entrada con hora asignada online al menos 2-3 semanas antes (más tiempo en verano) y llega 15 minutos antes de tu franja horaria.
 quickAnswer: Reserva una entrada con hora asignada online al menos 2-3 semanas antes (más tiempo en verano) y llega 15 minutos antes de tu franja horaria. Elige la primera entrada de la mañana (9:00) o la última del día para disfrutar de una luz más suave a través de las vidrieras, y calcula entre 90 minutos y 2 horas dentro, más si añades la subida a una torre. La parada de metro más cercana, Sagrada Família (Líneas 2 y 5), te deja justo en la puerta.

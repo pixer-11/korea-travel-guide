@@ -1,6 +1,6 @@
 ---
 title: "History in Gyeongju"
-description: "Spend two full days in Gyeongju: one for the Tumuli Park/Cheomseongdae/Wolji Pond loop in the city center, and one for Bulguksa Temple and Seokguram Grotto"
+description: 'Spend two full days in Gyeongju: one for the Tumuli Park/Cheomseongdae/Wolji Pond loop in the city center, and one for Bulguksa Temple and Seokguram Grotto in the hills to the east.'
 region: Gyeongju
 country: "South Korea"
 category: attraction

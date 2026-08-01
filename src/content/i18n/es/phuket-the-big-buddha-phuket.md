@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: phuket-the-big-buddha-phuket
+srcHash: 0ec568421ad0
 title: 'El Buda Grande: Guía de viaje de Phuket'
 description: El Buda Grande (Phra Puttamingmongkol Akenakkiri) se alza en lo alto de la colina Nakkerd, entre Chalong y Kata, a unos 30-45 minutos en coche desde Patong o Phuket Town.
 quickAnswer: El Buda Grande (Phra Puttamingmongkol Akenakkiri) se alza en lo alto de la colina Nakkerd, entre Chalong y Kata, a unos 30-45 minutos en coche desde Patong o Phuket Town. La entrada es gratuita (se agradecen pequeñas donaciones), abre aproximadamente de 6:00 a 19:00 todos los días, y conviene reservar entre 1 y 1.5 horas para la subida, las fotos y las vistas de 360 grados. Ve temprano por la mañana o justo antes del atardecer para disfrutar de la mejor luz y temperaturas más frescas.

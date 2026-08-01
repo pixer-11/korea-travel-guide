@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: boracay-i-love-boracay
+srcHash: 9a8ad40b2361
 title: 'I Love: Guía de viaje de Boracay'
 description: '"I Love Boracay" es el mirador/punto fotográfico de letras de madera escondido en el lado de Malay de la isla, un rincón tranquilo y poco conocido, no una fábrica de selfies abarrotada.'
 quickAnswer: '"I Love Boracay" es el mirador/punto fotográfico de letras de madera escondido en el lado de Malay de la isla, un rincón tranquilo y poco conocido, no una fábrica de selfies abarrotada. Ve a última hora de la tarde en un día de semana, calcula entre 20 y 30 minutos, y combínalo con un paseo hacia White Beach, que queda a pocos minutos. Tiene una calificación de 4.7 según un grupo pequeño pero entusiasta de reseñadores, lo que indica que recompensa a quienes lo buscan deliberadamente y no a quienes pasan por casualidad.'

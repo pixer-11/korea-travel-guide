@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: little-india-super-deluxe-kitchen
+srcHash: 4797fdc930fa
 title: 'Super Deluxe Kitchen: dónde comer en Little India'
-description: Super Deluxe Kitchen (29 Upper Weld Rd, Singapore 207386) es un restaurante indio muy bien valorado, escondido en las callejuelas de Little India, a poca distancia a pie de
+description: Super Deluxe Kitchen (29 Upper Weld Rd, Singapore 207386) es un restaurante indio muy bien valorado, escondido en las callejuelas de Little India, a poca distancia a pie de las estaciones de MRT Jalan Besar y Farrer Park.
 quickAnswer: Super Deluxe Kitchen (29 Upper Weld Rd, Singapore 207386) es un restaurante indio muy bien valorado, escondido en las callejuelas de Little India, a poca distancia a pie de las estaciones de MRT Jalan Besar y Farrer Park. Ve a por los clásicos del norte y el sur de la India —piensa en biryani, curries y panes al tandoor— y prepárate para un comedor genuinamente concurrido, así que llega en un horario algo menos concurrido (almuerzo temprano o después de las 8:30 p.m.) si quieres conseguir mesa sin esperar.
 faq:
   - q: ¿Cómo llego a Super Deluxe Kitchen en MRT?

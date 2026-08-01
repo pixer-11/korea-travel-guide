@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: chandigarh-quick-style-india-tour-2026
+srcHash: 8467c7c432e3
 title: Quick Style 2026印度巡演：昌迪加尔站你需要知道的一切
 description: 2026年8月29日，Quick Style印度巡演将来到印度昌迪加尔（Chandigarh）——这场演出是什么、何时何地举行，以及该如何提前规划。
 quickAnswer: Quick Style是那支凭借病毒式街舞视频走红的挪威三人舞团，他们的2026年印度巡演将于2026年8月29日抵达昌迪加尔（Chandigarh），此前已在德里（Delhi）、孟买（Mumbai）和班加罗尔（Bengaluru）演出。目前场馆、具体开场时间和购票链接都尚未公开确定，因此暂时只需将8月29日作为规划的基准日期，其余细节——场馆、入场时间、票档——请在临近演出时通过Quick Style官方渠道及授权票务合作方确认。

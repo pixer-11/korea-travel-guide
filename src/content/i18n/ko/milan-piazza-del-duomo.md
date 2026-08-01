@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: milan-piazza-del-duomo
+srcHash: 20fbc0791457
 title: '두오모 광장(Piazza del Duomo): 밀라노 여행 가이드'
 description: 두오모 광장은 밀라노의 웅장한 중심 광장으로, 대성당의 대리석 첨탑 숲이 그 중심을 이루고 왕궁과 유리 지붕의 갤러리아가 양옆을 지키고 있습니다.
 quickAnswer: 두오모 광장(Piazza del Duomo)은 밀라노의 웅장한 중심 광장으로, 대성당의 대리석 첨탑 숲이 그 중심을 이루고 왕궁(Royal Palace)과 유리 지붕의 갤러리아 비토리오 에마누엘레 2세(Galleria Vittorio Emanuele II)가 양옆을 지키고 있습니다. 워낙 인기가 많은 곳이라, 관광객 무리 없이 파사드를 보려면 이른 아침(오전 9시 이전)이나 저녁 7시 이후를 노리는 것이 좋습니다. 광장만 둘러보는 데도 20~30분은 잡아야 하고, 두오모나 옥상 테라스 줄을 선다면 시간이 더 필요합니다.

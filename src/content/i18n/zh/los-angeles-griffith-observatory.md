@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: los-angeles-griffith-observatory
+srcHash: 661aff5fbec5
 title: 格里菲斯天文台：洛杉矶旅行指南
 description: 格里菲斯天文台（Griffith Observatory）坐落于格里菲斯公园内好莱坞山南坡，免费入场，周三至周日下午至夜间开放（周一、周二闭馆）。
 quickAnswer: 格里菲斯天文台（Griffith Observatory）坐落于格里菲斯公园内好莱坞山南坡，免费入场，周三至周日下午开放至夜间（周一、周二闭馆）；唯一需要付费的是天文馆放映节目和停车。建议在日落前后到访，可同时欣赏城市天际线、好莱坞标志，以及入夜后的望远镜观星，行程建议预留2-3小时，包括步行上山和等待停车的时间。

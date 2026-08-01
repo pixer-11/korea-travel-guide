@@ -1,6 +1,6 @@
 ---
 title: 'Mari Mari Cultural Village: Kota Kinabalu Travel Guide'
-description: Mari Mari Cultural Village, about 25 minutes inland from central Kota Kinabalu in Inanam, is a half-day guided tour through five reconstructed ethnic
+description: Mari Mari Cultural Village, about 25 minutes inland from central Kota Kinabalu in Inanam, is a half-day guided tour through five reconstructed ethnic longhouses (Kadazan-Dusun, Bajau, Murut, Lundayu, Rungus) with fire-making, tattoo, and blowpipe demos, a cooking session, and a tribal dance finale.
 country: Malaysia
 region: Kota Kinabalu
 category: attraction

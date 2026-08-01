@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: chiba-chiba-park
+srcHash: 40163859ebad
 title: 'Parque de Chiba: Guía de viaje'
 description: El Parque de Chiba (Chiba Park) es un espacio verde amplio y relajado en el centro de la ciudad de Chiba, conocido sobre todo por sus cerezos en flor a finales de marzo/principios de abril y por su estanque de lotos en verano.
 quickAnswer: El Parque de Chiba (Chiba Park) es un espacio verde amplio y relajado en el centro de la ciudad de Chiba, conocido sobre todo por sus cerezos en flor a finales de marzo/principios de abril y por su estanque de lotos, que florece durante julio y agosto. Calcula una hora o dos, más si alquilas una barca de remos o te acercas al vecino Parque Zoológico de Chiba (Chiba Zoological Park). Está a poca distancia a pie de la estación de Chiba (Chiba Station), por lo que funciona bien como complemento de medio día más que como destino en sí mismo.

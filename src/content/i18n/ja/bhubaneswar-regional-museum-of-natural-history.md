@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: bhubaneswar-regional-museum-of-natural-history
+srcHash: d413ee21e6a0
 title: 地方自然史博物館(Regional Museum of Natural History):ブバネーシュワール旅行ガイド
 description: 地方自然史博物館(Regional Museum of Natural History)は、アチャリヤ・ヴィハール(Acharya Vihar)のサチヴァラヤ・マルグ(Sachivalaya Marg)沿い、パタニ・サマンタ・プラネタリウム(Pathani Samanta Planetarium)のすぐ隣にあり、月曜を除く毎日午前10時から午後6時まで開館しています。
 quickAnswer: 地方自然史博物館(Regional Museum of Natural History)は、アチャリヤ・ヴィハール(Acharya Vihar)のサチヴァラヤ・マルグ(Sachivalaya Marg)沿い、パタニ・サマンタ・プラネタリウム(Pathani Samanta Planetarium)のすぐ隣にあり、月曜を除く毎日午前10時から午後6時まで開館しています。展示ギャラリー、ビバリウム(生体展示室)、視覚障害者向け植物園を見て回るには90分から2時間ほど見ておくとよいでしょう。週末は午前11時から午後6時にかけて混み合うため、早めの時間帯か平日の午後に訪れるのがおすすめです。入館料は安価ですが、時々改定されるため、現地のカウンターで最新の料金を確認してください。

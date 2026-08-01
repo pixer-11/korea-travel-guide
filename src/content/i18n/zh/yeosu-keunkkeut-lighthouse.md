@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: yeosu-keunkkeut-lighthouse
+srcHash: ea6897a78fc6
 title: 큰끝등대（Keunkkeut Lighthouse，大尽灯塔）：丽水旅行指南
 description: 큰끝등대（Keunkkeut Lighthouse）是位于丽水突山岛（Dolsan Island）东南端的一座白色小灯塔，最适合在日落或日出时前往，欣赏面向南海海峡的开阔海景。
 quickAnswer: 큰끝등대（Keunkkeut Lighthouse）是位于丽水突山岛（Dolsan Island）东南端的一座白色小灯塔，最适合在日落或日出时前往，欣赏面向南海海峡（Namhae Strait）的开阔海景。这里是一处安静、少有人知的海岸景点，最好从丽水市中心乘车或搭出租车前往，从最近的停车场步行片刻即可到达；建议安排30-60分钟游览，若搭配海岸散步则可以更长。该地获得4.3分（共124条评价），对于已经游览过梧桐岛（Odongdo）和向日庵（Hyangiram）的游客来说，是一处真正值得一探的隐藏宝地。

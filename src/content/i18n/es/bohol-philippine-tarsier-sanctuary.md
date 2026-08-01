@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: bohol-philippine-tarsier-sanctuary
+srcHash: a965d047a32d
 title: 'Santuario de Tarseros Filipinos: Guía de Viaje de Bohol'
-description: El Santuario de Tarseros Filipinos (Philippine Tarsier Sanctuary) en Corella, a unos 20–25 minutos de Tagbilaran City, es el lugar más fiable de Bohol para ver tarseros salvajes de cerca en
+description: El Santuario de Tarseros Filipinos (Philippine Tarsier Sanctuary) en Corella, a unos 20–25 minutos de Tagbilaran City, es el lugar más fiable de Bohol para ver tarseros salvajes de cerca en un bosque protegido y no en una jaula.
 quickAnswer: El Santuario de Tarseros Filipinos (Philippine Tarsier Sanctuary) en Corella, a unos 20–25 minutos de Tagbilaran City, es el lugar más fiable de Bohol para ver tarseros salvajes de cerca en un bosque protegido y no en una jaula. Calcula entre 45 minutos y una hora, ve a primera hora de la mañana, cuando los animales están menos estresados y el bosque está más fresco, y combínalo con el circuito de las Chocolate Hills y el río Loboc, ya que se encuentran en la misma ruta del interior.
 faq:
   - q: ¿Cómo llego al Santuario de Tarseros Filipinos desde Tagbilaran?

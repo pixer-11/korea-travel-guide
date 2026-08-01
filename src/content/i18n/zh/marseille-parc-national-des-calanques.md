@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: marseille-parc-national-des-calanques
+srcHash: 880ae32367c2
 title: 卡朗格国家公园:马赛旅行指南
 description: 尽早出发——最好是搭第一班公交车,或步行的话赶在早上8点前抵达——并选定一个海湾(索尔米乌Sormiou、莫尔吉乌Morgiou,或只能坐船抵达的絮吉东Sugiton/昂沃En-Vau),而不要想着一次逛遍整个公园。
 quickAnswer: 尽早出发——最好是搭第一班公交车,或步行的话赶在早上8点前抵达——并选定一个海湾(索尔米乌Sormiou、莫尔吉乌Morgiou,或只能坐船抵达的絮吉东Sugiton/昂沃En-Vau),而不要想着一次逛遍整个公园。夏季前往最热门的内陆步道起点时,你必须提前在网上预约免费通行证,而且海湾道路本身禁止私家车通行,所以要规划好从换乘停车场步行30-60分钟才能到达的行程。

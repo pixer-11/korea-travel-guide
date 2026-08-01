@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: malacca-a-famosa
+srcHash: 813fb1ca8e6e
 title: '아파모사(A Famosa): 말라카 여행 가이드'
 description: 아파모사의 현존하는 유적인 포르타 드 산티아고(Porta de Santiago) 성문은 반다 힐리르(Banda Hilir)의 잘란 코타(Jalan Kota)에 위치하며, 세인트폴 언덕(St Paul's Hill) 바로 옆에 있습니다.
 quickAnswer: 아파모사의 현존하는 유적인 포르타 드 산티아고(Porta de Santiago) 성문은 반다 힐리르(Banda Hilir)의 잘란 코타(Jalan Kota)에 위치하며, 세인트폴 언덕(St Paul's Hill) 바로 옆에 있습니다 — 스타드하위스(Stadthuys)와 크라이스트 처치(Christ Church)에서 걸어서 5분 거리이니, 단독 코스로 보기보다는 이 두 곳과 묶어서 방문하는 것이 좋습니다. 19,500개 이상의 리뷰와 4.4의 평점을 자랑하는 이곳은 말라카에서 가장 많이 찾는 명소 중 하나이므로, 관광버스 인파와 한낮의 더위를 피하려면 개장 시간이나 늦은 오후에 가는 것이 좋습니다. 유적 자체를 둘러보는 데는 15~20분이면 충분하지만, 언덕을 오르고 주변 박물관까지 둘러볼 계획이라면 반나절 정도 시간을 잡아두세요.

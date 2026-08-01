@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: hiroshima-peace-memorial-park-hiroshima
+srcHash: da90253f6c92
 title: 'Parque Memorial de la Paz: Guía de viaje de Hiroshima'
 description: El Parque Memorial de la Paz se encuentra en un delta triangular en el centro de Hiroshima, a 15 minutos en tranvía desde la estación de Hiroshima.
 quickAnswer: El Parque Memorial de la Paz se encuentra en un delta triangular en el centro de Hiroshima, a 15 minutos en tranvía desde la estación de Hiroshima. Reserva entre 2 y 3 horas para recorrer los terrenos, ver la Cúpula de la Bomba Atómica al otro lado del río y visitar el Museo Memorial de la Paz; ve a primera hora de la mañana o a última de la tarde para evitar las aglomeraciones de grupos turísticos y el calor del verano. La entrada al parque en sí es gratuita y está abierto todo el año.

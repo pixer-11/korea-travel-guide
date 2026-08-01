@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: palawan-secret-lagoon
+srcHash: 078e54554f93
 title: 'Laguna Secreta: Guía de viaje de Palawan'
 description: La Laguna Secreta es una piscina diminuta escondida en una cueva cerca del pueblo de El Nido, a la que se accede agachándose por una abertura baja de piedra caliza (a veces solo se puede pasar nadando).
 quickAnswer: La Laguna Secreta es una piscina diminuta escondida en una cueva cerca del pueblo de El Nido, a la que se accede agachándose por una abertura baja de piedra caliza (a veces solo se puede pasar nadando, según la marea) hacia una cuenca quieta de color verde jade rodeada de acantilados. Está incluida en la mayoría de los itinerarios del "Tour A" de island-hopping de El Nido, así que conviene ir temprano o buscar un acceso privado/terrestre si se quiere tranquilidad — más de 1.382 visitantes la han calificado con 4.4, y lo mejor es considerarla una parada de 20-30 minutos en lugar de un día completo de playa.

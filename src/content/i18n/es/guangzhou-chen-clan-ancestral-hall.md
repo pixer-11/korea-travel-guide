@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: guangzhou-chen-clan-ancestral-hall
+srcHash: 60ed07a89751
 title: 'Salón Ancestral del Clan Chen: Guía de viaje de Guangzhou'
-description: El Salón Ancestral del Clan Chen (陈家祠, Chan Sui Chi Study Hall) en el distrito de Liwan es el templo académico de la dinastía Qing mejor conservado de Guangzhou, construido en 1894 por 72
+description: El Salón Ancestral del Clan Chen (陈家祠, Chan Sui Chi Study Hall), en el distrito de Liwan, es el templo académico de la dinastía Qing mejor conservado de Guangzhou, construido en 1894 por 72 ramas de la familia Chen como academia clánica y santuario ancestral.
 quickAnswer: El Salón Ancestral del Clan Chen (陈家祠, Chan Sui Chi Study Hall), en el distrito de Liwan, es el templo académico de la dinastía Qing mejor conservado de Guangzhou, construido en 1894 por 72 ramas de la familia Chen como academia clánica y santuario ancestral. Dedica entre 1,5 y 2 horas a recorrer sus nueve salones, seis patios y una techumbre repleta de figurillas de cerámica, y ve un día laborable a primera hora de la mañana justo después de la apertura para admirar las tallas sin multitudes que arruinen la foto. Se encuentra justo encima de la estación Chen Clan Academy de la Línea 1 del metro, así que no hace falta tomar un taxi.
 faq:
   - q: ¿Cómo se llega al Salón Ancestral del Clan Chen?

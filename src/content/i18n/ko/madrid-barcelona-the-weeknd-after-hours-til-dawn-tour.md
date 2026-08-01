@@ -1,8 +1,9 @@
 ---
 lang: ko
 slug: madrid-barcelona-the-weeknd-after-hours-til-dawn-tour
+srcHash: 572cc9c189fd
 title: '위켄드(The Weeknd) – After Hours Til Dawn 투어: 마드리드 공연 알아두기'
-description: 위켄드가 애프터 아워스 틸 던 투어(After Hours Til Dawn Tour)로 스페인에서 총 네 차례 공연을 엽니다. 마드리드 리야드 에어 메트로폴리타노 스타디움(Riyadh Air Metropolitano Stadium)에서 사흘(2026년 8월 28일-30일)
+description: 위켄드가 애프터 아워스 틸 던 투어(After Hours Til Dawn Tour)로 스페인에서 총 네 차례 공연을 엽니다.
 quickAnswer: 위켄드가 애프터 아워스 틸 던 투어(After Hours Til Dawn Tour)로 스페인에서 총 네 차례 공연을 엽니다. 마드리드 리야드 에어 메트로폴리타노 스타디움(Riyadh Air Metropolitano Stadium)에서 사흘(2026년 8월 28일-30일), 바르셀로나 에스타디 올림픽 류이스 콤파니스(Estadi Olímpic Lluís Companys)에서 하루(2026년 9월 1일) 공연이 예정되어 있으며, 플레이보이 카티(Playboi Carti)가 오프닝을 맡습니다. 스타디움이 위치한 도시의 호텔은 일찍 예약해두고, 정확한 공연 시작 시간과 티켓 등급은 공식 투어 사이트에서 확인하세요. 마드리드-바르셀로나 구간 이동 시 두 공연 사이 휴식일이 단 하루뿐이므로 교통편도 미리 계획해두는 것이 좋습니다.
 faq:
   - q: 확정된 공연 날짜와 장소는 어디인가요?

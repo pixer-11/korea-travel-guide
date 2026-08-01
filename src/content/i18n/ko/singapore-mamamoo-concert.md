@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: singapore-mamamoo-concert
+srcHash: ac45865e331c
 title: '마마무 콘서트: 알아둘 사항 (싱가포르)'
 description: 마마무가 2026년 7월 31일 싱가포르 인도어 스타디움(Singapore Indoor Stadium)에서 공연할 예정입니다.
 quickAnswer: 마마무가 2026년 7월 31일 싱가포르 인도어 스타디움(Singapore Indoor Stadium)에서 공연할 예정입니다. 이 가이드에서는 티켓 예매 플랫폼, 예매 시작일, 입장 시간 등이 아직 확정되지 않은 상태이니, 항공권이나 숙소를 예약하기 전에 반드시 공식 티켓 채널이나 마마무의 공식 팬/소셜 미디어 페이지를 통해 확인하시기 바랍니다. 일찍 도착하고, MRT로 스타디움(Stadium)/칼랑(Kallang)까지 가는 경로를 미리 계획해 두세요. 동남아시아 각지에서 모인 K팝 팬들과 함께 알찬 하룻밤을 보내게 될 것입니다.

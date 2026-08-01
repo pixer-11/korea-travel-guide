@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: nice-promenade-des-anglais
+srcHash: e8dd38e64e8f
 title: 'Promenade des Anglais: Guía de viaje de Niza'
-description: La Promenade des Anglais es el icónico paseo marítimo de Niza, bordeado de palmeras a lo largo de 7 km, que se extiende desde la zona del aeropuerto hasta el Casco Antiguo, ideal para recorrer a pie o en
+description: La Promenade des Anglais es el icónico paseo marítimo de Niza, bordeado de palmeras a lo largo de 7 km, que se extiende desde la zona del aeropuerto hasta el Casco Antiguo (Old Town).
 quickAnswer: La Promenade des Anglais es el icónico paseo marítimo de Niza, bordeado de palmeras a lo largo de 7 km, que se extiende desde la zona del aeropuerto hasta el Casco Antiguo (Old Town). Se disfruta mejor a pie o en bicicleta de alquiler, temprano por la mañana o al atardecer. Es gratuito, está abierto las 24 horas y se llega fácilmente en el tranvía T2 (paradas de Jean Médecin o Masséna) o caminando un poco desde el Casco Antiguo. Calcula entre 1 y 2 horas para recorrer a pie un tramo central con buenas vistas, o medio día si alquilas una bicicleta y recorres todo su trayecto.
 faq:
   - q: ¿Cuánto se tarda en recorrer a pie toda la Promenade des Anglais?

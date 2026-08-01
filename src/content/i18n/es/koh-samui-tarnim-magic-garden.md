@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: koh-samui-tarnim-magic-garden
+srcHash: 7469bcb21ac0
 title: 'Tarnim Magic Garden: guía de viaje de Koh Samui'
 description: Tarnim Magic Garden (también llamado Tarnim Magic Garden o "Buddha Magic Garden") es un jardín de esculturas en lo alto de una colina en Na Mueang, en el lado sur de Koh Samui.
 quickAnswer: Tarnim Magic Garden (también llamado Tarnim Magic Garden o "Buddha Magic Garden") es un jardín de esculturas en lo alto de una colina en Na Mueang, en el lado sur de Koh Samui, que se disfruta mejor a primera hora de la mañana o a última hora de la tarde para evitar el calor del mediodía y la luz dura en las fotos. Calcula entre 45 y 90 minutos, usa calzado fácil de quitar y combina la visita con las cercanas cascadas de Na Mueang, un poco más adelante por la misma carretera. Un coche o una scooter es la forma más práctica de llegar, ya que se encuentra en lo alto de una empinada carretera de colina que sale de la Ruta 4169.

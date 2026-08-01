@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: incheon-one-universe-festival-2026
+srcHash: f4753f7f7709
 title: '2026 원 유니버스 페스티벌: 알아야 할 것들 (인천)'
 description: 2026년 7월 25~26일, 대한민국 인천 파라다이스시티에서 열리는 2026 원 유니버스 페스티벌(One Universe Festival) — 축제 개요와 시기·장소, 일정 계획 방법을 안내합니다.
 quickAnswer: 2026 원 유니버스 페스티벌(One Universe Festival)은 2026년 7월 25일부터 26일까지 인천 파라다이스시티(Paradise City)에서 열릴 예정이며, 현재 발표된 라인업에는 더 엑스엑스(The xx), 펜듈럼(Pendulum), 마이 블러디 밸런타인(My Bloody Valentine), 턴스타일(Turnstile)이 포함되어 있습니다. 인천국제공항(파라다이스시티 단지에서 차로 잠깐 거리)을 중심으로 일정을 짜고, 축제 주말에는 리조트 일대 숙소가 빠르게 매진되므로 숙박은 서둘러 예약하는 것이 좋습니다. 항공편을 예약하기 전에 공식 원 유니버스 페스티벌 채널에서 최종 날짜, 무대 시간, 티켓 등급을 반드시 확인하세요.

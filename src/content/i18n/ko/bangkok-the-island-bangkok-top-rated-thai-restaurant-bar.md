@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: bangkok-the-island-bangkok-top-rated-thai-restaurant-bar
+srcHash: ea320bf29b37
 title: '더 아일랜드 방콕(The Island Bangkok) 최고 평점 태국 레스토랑 & 바: 어디서 먹을까'
 description: 더 아일랜드 방콕은 방람푸/프라나콘(Banglamphu/Phra Nakhon) 지역 쏘이 삼센 4(Soi Samsen 4)에 자리한 평점 높은 태국 레스토랑 겸 바로, 카오산 로드(Khao San Road)와도 가깝습니다.
 quickAnswer: 더 아일랜드 방콕은 방람푸/프라나콘(Banglamphu/Phra Nakhon) 지역 쏘이 삼센 4(Soi Samsen 4)에 자리한 평점 높은 태국 레스토랑 겸 바로, 카오산 로드(Khao San Road)와 강변에서도 걸어서 갈 수 있는 거리에 있습니다. 정원 느낌의 여유로운 분위기 속에서 클래식한 태국 요리와 칵테일을 즐길 수 있으며, 제대로 된 한 끼를 즐기려면 1.5~2시간 정도 여유를 두는 것이 좋습니다. 현지인과 관광객 모두에게 사랑받는 곳으로 리뷰 수가 14,600개 이상에 평점 4.9점에 달할 만큼 인기가 많으니, 주말 저녁에는 미리 예약하거나 일찍 도착하는 것을 추천합니다.
@@ -25,8 +26,8 @@ faq:
 
 주소는 49 Soi Samsen 4, Khwaeng Ban Phan Thom, Khet Phra Nakhon, Bangkok 10200으로, 짜오프라야 강(Chao Phraya River) 인근 방콕 옛 왕실 지역에 속하는 방람푸(Banglamphu) 지역에 위치합니다. 이 지역은 BTS/MRT 철도망 바깥에 있어, 다음과 같은 방법이 가장 현실적입니다.
 
-- **택시 또는 그랩(Grab, 차량 호출 앱)**을 이용하면 수쿰윗(Sukhumvit)이나 실롬(Silom)에서 교통 상황에 따라 15\~30분 정도 걸립니다. 정확한 건물 번호는 도로에서 찾기 어려울 수 있으니, 기사에게 쏘이 삼센 4(Soi Samsen 4) 교차로를 알려주는 것이 좋습니다.
-- **짜오프라야 익스프레스 보트(Chao Phraya Express Boat)**를 타고 프라아팃 선착장(Phra Arthit Pier, N13)에서 내려 동쪽으로 삼센(Samsen) 골목길을 따라 10\~15분 정도 걸으면 됩니다. 경치를 즐기며 갈 수 있는 경로로, 왓 차나 송크람(Wat Chana Songkhram)이나 강변 관광과 함께 묶기 좋습니다.
+- **택시 또는 그랩**(Grab, 차량 호출 앱)을 이용하면 수쿰윗(Sukhumvit)이나 실롬(Silom)에서 교통 상황에 따라 15\~30분 정도 걸립니다. 정확한 건물 번호는 도로에서 찾기 어려울 수 있으니, 기사에게 쏘이 삼센 4(Soi Samsen 4) 교차로를 알려주는 것이 좋습니다.
+- **짜오프라야 익스프레스 보트**(Chao Phraya Express Boat)를 타고 프라아팃 선착장(Phra Arthit Pier, N13)에서 내려 동쪽으로 삼센(Samsen) 골목길을 따라 10\~15분 정도 걸으면 됩니다. 경치를 즐기며 갈 수 있는 경로로, 왓 차나 송크람(Wat Chana Songkhram)이나 강변 관광과 함께 묶기 좋습니다.
 - **카오산 로드(Khao San Road)에서 도보로** 이동한다면, 삼센(Samsen) 골목길들을 지나 북쪽으로 약 15\~20분 정도 걸립니다. 더위가 심해지기 전인 이른 저녁 시간대에 특히 좋은 선택입니다.
 
 레스토랑이 큰 도로가 아닌 쏘이(골목길) 안쪽에 자리하고 있으므로, 거리 표지판에 의존하기보다는 구글 지도(Google Maps)나 차량 호출 앱에 위치를 미리 저장해두는 것이 좋습니다.

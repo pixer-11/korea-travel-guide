@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: granada-alhambra
+srcHash: b80ab95f7833
 title: '알함브라 궁전: 그라나다 여행 가이드'
 description: 공식 사이트 tickets.alhambra-patronato.es에서 성수기 기준 몇 주(성수기에는 몇 달) 전에 미리 알함브라 티켓을 예매하고, 나스리 궁전(Nasrid Palaces) 입장 시간대를 지정하세요.
 quickAnswer: 공식 사이트 tickets.alhambra-patronato.es에서 몇 주 전(성수기에는 몇 달 전)에 미리 알함브라 티켓을 온라인으로 예매하고, 나스리 궁전(Nasrid Palaces) 입장 시간대를 지정하세요 — 이 부분만은 시간이 정해져 있고 변경이 불가능합니다. 나스리 궁전, 알카사바(Alcazaba) 요새, 헤네랄리페(Generalife) 정원을 둘러보려면 최소 3~4시간을 계획하고, 지각하면 입장이 거부되므로 궁전 입장 시간 최소 30분 전에는 도착하세요.

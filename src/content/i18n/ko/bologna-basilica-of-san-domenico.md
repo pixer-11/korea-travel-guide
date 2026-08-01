@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: bologna-basilica-of-san-domenico
+srcHash: d88d4354e6a3
 title: '산 도메니코 대성당(Basilica di San Domenico): 볼로냐 여행 가이드'
 description: 산 도메니코 대성당은 마조레 광장(Piazza Maggiore)에서 남쪽으로 도보 12분 거리, 볼로냐 옛 성벽 근처 대학가에 자리하고 있습니다.
 quickAnswer: 산 도메니코 대성당은 마조레 광장(Piazza Maggiore)에서 남쪽으로 도보 12분 거리, 볼로냐 옛 성벽 근처 대학가에 자리하고 있습니다. 평일과 주말 모두 오전 7시 30분부터 오후 1시까지, 오후 3시 30분부터 오후 8시까지는 사실상 하루 종일 한산하며, 유일하게 피해야 할 시간대는 주말 오후 4시~6시로 이때는 산 도메니코의 관(Arca di San Domenico) 주변에 단체 관광객이 몰립니다. 관람에는 45분에서 1시간 정도를 잡으면 되고, 입장은 무료입니다.

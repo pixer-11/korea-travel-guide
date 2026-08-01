@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: yokohama-babymonster-choom-world-tour-japan-yokohama-leg
+srcHash: e7e31584ef05
 title: 'BABYMONSTER "Choom" 월드투어 – 일본(요코하마 공연): 알아두어야 할 것들 (요코하마)'
 description: 2026년 8월 1일~2일, 일본 요코하마에서 열리는 BABYMONSTER "Choom" 월드투어 요코하마 공연 — 공연 개요, 일정과 장소, 그리고 여행 계획 방법을 안내합니다.
 quickAnswer: BABYMONSTER의 "Choom" 월드투어는 2026년 8월 1일~2일 요코하마의 피아 아레나 MM(Pia Arena MM)에서 열리며, 6개 도시 11회 공연으로 구성된 일본 투어의 한 일정입니다. 티켓팅, 개장 시간, 세트리스트 등 세부 사항은 아직 공식적으로 전부 확정되지 않았으므로, 여행을 예약하기 전에 그룹의 공식 YG/BABYMONSTER 채널과 공연장 사이트를 확인하세요. 피아 아레나 MM은 미나토미라이(Minato Mirai) 워터프론트 지구에 위치해 있으며, 미나토미라이역(Minatomirai Station)에서 도보로 가까운 거리에 있습니다.

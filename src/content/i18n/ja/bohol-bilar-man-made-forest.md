@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: bohol-bilar-man-made-forest
+srcHash: 9e9ceb0c806c
 title: ビラール人工林(Bilar Man-Made Forest):ボホール島旅行ガイド
 description: ビラール人工林(Bilar Man-Made Forest)は、ビラール(Bilar)とセビリア(Sevilla)の間、ロアイ・インテリア・ロード(Loay Interior Road)沿いに約2キロメートルにわたって密生するマホガニーの並木です。タグビララン市(Tagbilaran City)からは車で約45〜55分の距離にあります。
 quickAnswer: ビラール人工林(Bilar Man-Made Forest)は、ビラール(Bilar)とセビリア(Sevilla)の間、ロアイ・インテリア・ロード(Loay Interior Road)沿いに約2キロメートルにわたって密生するマホガニーの並木です。タグビララン市(Tagbilaran City)から車やバンで約45〜55分の距離にあり、チョコレートヒルズ(Chocolate Hills)やロボック川(Loboc River)と組み合わせて日帰り旅行に組み込みやすいスポットです。道路脇の展望スペースでの写真撮影には15〜30分ほど見ておけば十分で、ここはハイキングをする場所というよりは「通りすがりに立ち寄って撮影する」タイプの観光地です。木漏れ日が林冠を斜めに差し込み、観光バスで路肩が混雑する前の早朝か夕方に訪れるのがおすすめです。

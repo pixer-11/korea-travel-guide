@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: seoul-restaurant-san
+srcHash: a76cc13b2456
 title: '레스토랑 산(Restaurant San): 서울 맛집 가이드'
 description: '서울 레스토랑 산(Restaurant San) — 지금 뜨고 있는 신흥 맛집: 어떤 곳인지, 어디에 있는지, 어떻게 방문하면 되는지 안내합니다.'
 quickAnswer: 레스토랑 산(Restaurant San)은 서울 강남(Gangnam)에 위치한 모던 한식 파인다이닝 레스토랑으로, 조승현(Jo Seung-Hyun) 셰프가 이끌며 2024년에 문을 열었고 '아시아 50 베스트 레스토랑(Asia's 50 Best Restaurants) 2026'에서 '원 투 워치(One To Watch)'로 선정되었습니다. 테이스팅 메뉴를 선보이는 곳이라 미리 예약해야 하며, 여행 계획을 세우기 전에 정확한 영업시간, 좌석 시간, 예약 가능 기간을 레스토랑에 직접 확인하는 것이 좋습니다.

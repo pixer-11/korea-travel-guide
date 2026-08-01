@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: bangkok-hidden-bangkok-tours
+srcHash: 7bd8b2d5629c
 title: 'Hidden Bangkok Tours: Guía de viaje'
 description: Hidden Bangkok Tours organiza caminatas en grupos reducidos por Thonburi y Bangkok Yai —el antiguo distrito junto a los canales, al otro lado del río frente al Gran Palacio— centradas en...
 quickAnswer: Hidden Bangkok Tours organiza caminatas en grupos reducidos por Thonburi y Bangkok Yai —el antiguo distrito junto a los canales, al otro lado del río frente al Gran Palacio— centradas en templos locales, callejones de casas-tienda y comida callejera que no encontrarás en el circuito turístico habitual. Aloja tan cerca de Wat Arun o de la estación Wongwian Yai del BTS, y reserva un horario matutino o de última hora de la tarde para evitar el calor; dedica entre 3 y 4 horas. Con una calificación de 4.9 sobre casi 400 reseñas, es ideal para viajeros que ya hicieron el circuito del Gran Palacio y quieren conocer el lado residencial y obrero de la ciudad.

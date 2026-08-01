@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: miami-vizcaya-museum-gardens
+srcHash: f2b9a28f8532
 title: 'Vizcaya Museum & Gardens: Guía de viaje de Miami'
 description: Vizcaya Museum & Gardens, en 3251 S Miami Ave, junto a la bahía cerca de Coconut Grove en Miami, es una villa de la Edad Dorada de alrededor de 1914 construida para el industrial James Deering.
 quickAnswer: Vizcaya Museum & Gardens, en 3251 S Miami Ave, junto a la bahía cerca de Coconut Grove en Miami, es una villa de la Edad Dorada de alrededor de 1914 construida para el industrial James Deering, rodeada de jardines formales de estilo renacentista italiano y grutas de roca coralina. Calcula entre 2 y 3 horas, ve un día laborable por la mañana para evitar tanto el calor como las multitudes, y toma la estación Vizcaya del Metrorail, a solo 5-10 minutos caminando. Tiene una calificación de 4.7 de más de 16,000 visitantes, así que reserva las entradas con horario en línea con antelación.

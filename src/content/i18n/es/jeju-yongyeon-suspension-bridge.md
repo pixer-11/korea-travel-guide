@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: jeju-yongyeon-suspension-bridge
+srcHash: cb5bbfd61ba1
 title: 'Puente colgante de Yongyeon: guía de viaje de Jeju'
 description: El puente colgante de Yongyeon es un pequeño puente peatonal en arco de color rojo que cruza una angosta ensenada bordeada de acantilados en Yongdam-dong, Jeju City, ideal para visitar al atardecer o de noche.
 quickAnswer: El puente colgante de Yongyeon es un pequeño puente peatonal en arco de color rojo que cruza una angosta ensenada bordeada de acantilados en Yongdam-dong, Jeju City. Lo mejor es visitarlo al atardecer o después de que oscurezca, cuando el puente, el pabellón y las paredes del acantilado se iluminan y se reflejan en el agua quieta. Calcula entre 20 y 30 minutos, combínalo con la cercana Roca Yongduam (a 10 minutos a pie) y la Carretera Costera Dragon Head, y ve caminando en lugar de en coche, ya que el estacionamiento cerca es limitado.

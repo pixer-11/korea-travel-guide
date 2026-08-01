@@ -1,6 +1,6 @@
 ---
 title: "Hualien Railway Culture Park: Travel Guide"
-description: "Hualien Railway Culture Park is a cluster of restored 1932 Japanese-era railway administration buildings and workshop yards in Hualien City, a short walk or"
+description: Hualien Railway Culture Park is a cluster of restored 1932 Japanese-era railway administration buildings and workshop yards in Hualien City, a short walk or cycle from the old downtown near Nan Bin Park.
 country: "Taiwan"
 region: "Hualien"
 category: "attraction"

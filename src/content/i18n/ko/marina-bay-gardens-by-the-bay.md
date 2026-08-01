@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: marina-bay-gardens-by-the-bay
+srcHash: c43fdfb02e53
 title: '가든스 바이 더 베이: 마리나 베이 여행 가이드'
 description: 가든스 바이 더 베이(Gardens by the Bay)는 마리나 베이(Marina Bay)에 자리한 101헥타르 규모의 워터프론트 공원으로, 우뚝 솟은 슈퍼트리 그로브(Supertree Grove)와 두 개의 냉방 온실인 플라워 돔(Flower Dome)으로 잘 알려져 있습니다.
 quickAnswer: 가든스 바이 더 베이는 마리나 베이에 자리한 101헥타르 규모의 워터프론트 공원으로, 우뚝 솟은 슈퍼트리 그로브와 두 개의 냉방 온실인 플라워 돔, 클라우드 포레스트(Cloud Forest)로 잘 알려져 있습니다. 야외 구역(슈퍼트리 그로브, 베이 이스트 가든(Bay East Garden), 드래곤플라이 레이크(Dragonfly Lake))은 무료로 입장할 수 있지만, 온실과 OCBC 스카이웨이(OCBC Skyway)는 별도 입장료가 있으니 실내외 하이라이트를 모두 보려면 반나절 정도의 시간을 잡고, 저녁 7시 45분과 8시 45분에 열리는 가든 랩소디(Garden Rhapsody) 조명쇼에 맞춰 방문 시간을 계획하세요.

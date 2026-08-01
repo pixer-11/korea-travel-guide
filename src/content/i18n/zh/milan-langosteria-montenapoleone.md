@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: milan-langosteria-montenapoleone
+srcHash: b30f829eea26
 title: Langosteria Montenapoleone：米兰旅行指南
 description: Langosteria Montenapoleone 位于意大利米兰——一处新晋热门去处：它是什么、位置在哪，以及如何前往参观。
 quickAnswer: Langosteria Montenapoleone 是这家海鲜餐厅集团全新的旗舰店，坐落于芬迪宫（Palazzo Fendi）内，正处于米兰时尚方形区（Quadrilatero della Moda）的核心地带，距离蒙特拿破仑大街（Via Montenapoleone）本身仅几步之遥。餐厅共占三层楼，外加一处屋顶露台，还首次推出了品牌历史上第一间鸡尾酒吧，已被视为米兰2026年最受期待的新开业地点之一。正因为它如此新、如此受关注，前往之前请务必提前预订，并确认最新营业时间——具体细节仍在完善中。

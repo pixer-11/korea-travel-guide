@@ -1,6 +1,6 @@
 ---
 title: 'Prince Gong Mansion: Beijing Travel Guide'
-description: Prince Gong Mansion (Gong Wang Fu), in Beijing's Xicheng District near Shichahai Lake, is the best-preserved Qing-dynasty princely residence open to the
+description: Prince Gong Mansion (Gong Wang Fu), in Beijing's Xicheng District near Shichahai Lake, is the best-preserved Qing-dynasty princely residence open to the public — a sprawl of courtyards, painted corridors, and a walled garden built in 1777.
 country: China
 region: Beijing
 category: attraction

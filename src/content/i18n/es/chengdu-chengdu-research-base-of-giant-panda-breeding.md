@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: chengdu-chengdu-research-base-of-giant-panda-breeding
+srcHash: 20ee2410ba91
 title: 'Base de Investigación de Cría del Panda Gigante de Chengdu: Guía de viaje'
 description: Llega justo a la apertura (7:30am) para ver a los pandas en su momento más activo, antes de que se retiren del calor y de las multitudes.
 quickAnswer: Llega justo a la apertura (7:30am) para ver a los pandas en su momento más activo, antes de que se retiren del calor y de las multitudes. Reserva entre 2.5 y 4 horas para recorrer los recintos principales de pandas, la Casa de Cría Sun Shine Nursery House (crías de panda) y los senderos de los pandas rojos. La base se encuentra en 1375 Xiong Mao Da Dao, en el distrito de Chenghua, a unos 40–60 minutos en taxi o combinando metro y autobús desde el centro de Chengdu.

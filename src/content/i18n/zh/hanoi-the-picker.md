@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: hanoi-the-picker
+srcHash: 19a3ce506152
 title: The Picker：河内旅行指南
 description: The Picker，位于越南河内的一家新晋热门去处：这是什么地方、它在哪里，以及如何前往游览。
 quickAnswer: The Picker是一家藏身于河内Tach Space内的复古蒸汽朋克机车主题酒吧，一半是陈列老式摩托车和航空废旧零件的活体博物馆，一半是鸡尾酒吧，由Tê Bar和Cong Cafe幕后团队打造而成。如果你想在房间被举着手机拍照的人群占满之前真正看清那些老机器，建议选在工作日的傍晚前往；出发前请务必确认营业时间以及是否需要订位，因为像这样刚开业不久的地方，具体信息变化很快。

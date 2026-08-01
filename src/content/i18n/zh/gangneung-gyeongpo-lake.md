@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: gangneung-gyeongpo-lake
+srcHash: 80921ffba8f6
 title: 镜浦湖：江陵旅行指南
 description: 镜浦湖（Gyeongpo Lake）是位于江陵东海岸的一处浅水泻湖，最适合来此欣赏湖面日出或日落，并沿湖岸走一圈约4.3公里的平坦步道/骑行道。
 quickAnswer: 镜浦湖（Gyeongpo Lake）是位于江陵东海岸的一处浅水泻湖，最适合来此欣赏湖面日出或日落，并沿湖岸走一圈约4.3公里的平坦步道/骑行道。环湖一圈加上在镜浦台（Gyeongpodae Pavilion）和湖畔松林驻足游览，大约需要1.5-2小时；可以将其与附近的镜浦海边（Gyeongpo Beach）结合，安排半天行程。沿湖岸步行是免费的，从江陵站乘坐市内公交即可轻松抵达，春季（樱花）或秋季（候鸟）造访最佳。

@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: suwon-local-restaurant
+srcHash: 43dcde88ad75
 title: Restaurantes locales en Suwon
 description: El plato insignia de Suwon es el wang-galbi, costillas de res de tamaño gigante, que se disfrutan mejor cerca de la Puerta Paldalmun (Paldalmun Gate) y el Mercado Yeongdong, en el casco histórico.
 quickAnswer: El plato insignia de Suwon es el wang-galbi, costillas de res de tamaño gigante, que se disfrutan mejor cerca de la Puerta Paldalmun (Paldalmun Gate) y el Mercado Yeongdong, en el casco histórico. Ve con hambre por la noche, combínalo con un paseo por la Fortaleza Hwaseong (Hwaseong Fortress), y llega a la zona a través de la Estación de Suwon (Suwon Station, Línea 1) y luego un breve trayecto en taxi o autobús.

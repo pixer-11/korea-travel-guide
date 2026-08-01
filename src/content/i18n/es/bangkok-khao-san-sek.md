@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: bangkok-khao-san-sek
+srcHash: 42b3bd468dce
 title: Khao San Sek en Bangkok
-description: Khao San Sek es un restaurante recién inaugurado en Bangkok liderado por la chef Pam, que ya está generando expectación por poner los cinco ingredientes fundamentales de Tailandia — arroz
+description: Khao San Sek es un restaurante recién inaugurado en Bangkok liderado por la chef Pam, que ya está generando expectación por poner los cinco ingredientes fundamentales de Tailandia —arroz, chile, coco, salsa de pescado y azúcar de palma— en el centro de cada plato.
 quickAnswer: Khao San Sek es un restaurante recién inaugurado en Bangkok liderado por la chef Pam, que ya está generando expectación por poner los cinco ingredientes fundamentales de Tailandia —arroz, chile, coco, salsa de pescado y azúcar de palma— en el centro de cada plato. Entró en la lista Top Tables 2026 de BK Magazine como la apertura nueva más interesante, así que se espera que la demanda de mesas sea alta; llama o reserva en línea con antelación en lugar de presentarte sin avisar. Considéralo una comida destino más que un bocado rápido, y confirma el horario actual y la política de reservas directamente con el restaurante antes de ir.
 faq:
   - q: ¿Necesito reserva en Khao San Sek?

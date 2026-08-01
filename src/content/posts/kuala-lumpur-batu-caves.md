@@ -1,6 +1,6 @@
 ---
 title: "Batu Caves: Kuala Lumpur Travel Guide"
-description: "Batu Caves is a limestone cave complex turned Hindu shrine on Kuala Lumpur's northern fringe, marked by a 42.7-metre golden Lord Murugan statue"
+description: Batu Caves is a limestone cave complex turned Hindu shrine on Kuala Lumpur's northern fringe, marked by a 42.7-metre golden Lord Murugan statue and a lung-testing climb of 272 rainbow-painted steps.
 country: "Malaysia"
 region: "Kuala Lumpur"
 category: "hidden-gem"

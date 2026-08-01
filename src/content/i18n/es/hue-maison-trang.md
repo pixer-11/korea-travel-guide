@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: hue-maison-trang
+srcHash: 6081f4612c79
 title: 'Maison Trang: Dónde comer en Hue'
 description: Maison Trang es un local económico y muy querido por los habitantes de Hue, ubicado en 24-26 Võ Thị Sáu, en el distrito de Thuận Hóa, conocido por sus auténticos platos del centro de Vietnam como el bún bò Huế.
 quickAnswer: Maison Trang es un local económico y muy querido por los habitantes de Hue, ubicado en 24-26 Võ Thị Sáu, en el distrito de Thuận Hóa, conocido por sus auténticos platos del centro de Vietnam como el bún bò Huế y el bánh khoái, servidos en un ambiente informal tipo casa-jardín. Con una calificación de 4.8 basada en más de 4,300 reseñas, vale la pena visitarlo para almorzar o cenar temprano, idealmente llegando antes de las 12pm o después de las 7pm para evitar la hora punta. En temporada alta, hay que contar con 15-30 minutos de espera si no se reserva o no se llega temprano.

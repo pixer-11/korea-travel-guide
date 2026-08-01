@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: jakarta-gajah-mada-food-street
+srcHash: a9ef6a654fb4
 title: '가자마다 푸드 스트리트: 자카르타 맛집 탐방'
 description: 가자마다 푸드 스트리트(Gajah Mada Food Street)는 Jl. Gajah Mada No. 83에 위치한 야외형 고급 푸드코트입니다.
 quickAnswer: 가자마다 푸드 스트리트(Gajah Mada Food Street)는 자카르타 옛 차이나타운과 인접한 크루꿋(Krukut) 지역(서자카르타)의 Jl. Gajah Mada No. 83에 위치한 야외형 고급 푸드코트로, 인도네시아 음식, 중국계 인도네시아 음식, 서양 음식 노점들이 넓은 좌석 캐노피 아래 시원한 맥주와 함께 어우러져 있습니다. 평일 저녁(화~목) 오후 6시 30분~8시경에 방문하면 대기 없이 활기찬 분위기를 즐길 수 있으며, 가격대는 중간 수준입니다(약 2,900개 리뷰에서 평점 4.5). 1~1.5시간 정도를 계획하고, 근처 글로독(Glodok)이나 판쪼란(Pancoran)을 산책하며 디저트를 즐기는 코스와 함께 묶으면 좋습니다.

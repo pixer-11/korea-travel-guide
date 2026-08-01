@@ -1,6 +1,6 @@
 ---
 title: "Kilim Geoforest Park: Langkawi Travel Guide"
-description: "Kilim Geoforest Park is a mangrove-and-limestone river ecosystem on Langkawi's northeast coast, best explored on a roughly two-hour boat tour from the Kilim"
+description: Kilim Geoforest Park is a mangrove-and-limestone river ecosystem on Langkawi's northeast coast, best explored on a roughly two-hour boat tour from the Kilim River Tourism Jetty covering mangrove channels, a fish farm, a cave, and eagle-watching in the open lagoon.
 country: "Malaysia"
 region: "Langkawi"
 category: "hidden-gem"

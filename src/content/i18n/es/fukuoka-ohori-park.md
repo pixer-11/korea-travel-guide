@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: fukuoka-ohori-park
+srcHash: 5a46ea8fc6e3
 title: 'Parque Ohori: Guía de viaje de Fukuoka'
 description: El parque Ohori (大濠公園) es un gran parque junto al lago en el distrito de Chuo de Fukuoka, construido alrededor de un lago tipo laguna inspirado en el Lago del Oeste de Hangzhou, China.
 quickAnswer: El parque Ohori (大濠公園) es un gran parque junto al lago en el distrito de Chuo de Fukuoka, construido alrededor de un lago tipo laguna inspirado en el Lago del Oeste de Hangzhou, China. Ven a caminar o trotar en un circuito de 1,5-2 km alrededor del agua, a pasear en bote de pedales y a visitar el Jardín Japonés del Parque Ohori o el Museo de Arte de Fukuoka justo al lado — calcula entre 1,5 y 2 horas, más si te demoras en el café junto al lago.

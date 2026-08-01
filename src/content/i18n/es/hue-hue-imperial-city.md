@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: hue-hue-imperial-city
+srcHash: 6744aea1a93c
 title: 'Ciudadela Imperial de Hue: Guía de viaje'
 description: La Ciudadela Imperial de Hue (Đại Nội) es un complejo amurallado de palacios y templos en la orilla norte del río de los Perfumes, construido a partir de 1805 bajo la dinastía Nguyen.
 quickAnswer: La Ciudadela Imperial de Hue (Đại Nội) es un complejo amurallado de palacios y templos en la orilla norte del río de los Perfumes, construido a partir de 1805 bajo la dinastía Nguyen. Reserva entre 2,5 y 4 horas para ver la Puerta Ngo Mon, el Palacio Thai Hoa, las ruinas de la Ciudad Púrpura Prohibida y varios templos ancestrales; ve a primera hora de la mañana o a última de la tarde para evitar el calor y las multitudes de excursiones organizadas. Es la visita esencial de medio día en Hue y forma parte del Patrimonio Mundial de la UNESCO (dentro del Conjunto de Monumentos de Hue).

@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: bordeaux-miroir-d-eau
+srcHash: 69f160509099
 title: 水之镜:波尔多旅行指南
 description: 水之镜(Miroir d'eau)是位于波尔多加龙河(Garonne)畔证券交易所广场(Place de la Bourse)上的浅水倒影池——免费开放、露天可赏,最佳游览时间是清晨或日落之后。
 quickAnswer: 水之镜(Miroir d'eau)是位于波尔多加龙河(Garonne)畔证券交易所广场(Place de la Bourse)上的浅水倒影池——免费开放、露天可赏。最佳体验时间是清晨或日落之后,此时人群渐少,水面在18世纪的立面前化作薄雾。建议安排20-40分钟游览,穿上不介意弄湿的凉鞋，再顺路沿黎塞留河堤(Quai Richelieu)散步一圈。

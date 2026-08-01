@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: san-sebastian-paseo-de-la-concha
+srcHash: 0d375b537099
 title: '파세오 데 라 콘차: 산 세바스티안 여행 가이드'
 description: 파세오 데 라 콘차(Paseo de La Concha)는 항구와 우르굴산(Monte Urgull)에서 이게르도산(Monte Igueldo) 기슭의 온다레타 해변(Ondarreta beach)까지 이어지는 산 세바스티안의 웅장한 곡선형 해안 산책로입니다.
 quickAnswer: 파세오 데 라 콘차(Paseo de La Concha)는 항구와 우르굴산(Monte Urgull)에서 이게르도산(Monte Igueldo) 기슭의 온다레타 해변(Ondarreta beach)까지 이어지는 산 세바스티안의 웅장한 곡선형 해안 산책로입니다. 라 콘차 만과 산타 클라라섬(Isla de Santa Clara)의 빛이 가장 아름다운 아침이나 일몰 무렵에 걷는 것이 좋으며, 그냥 산책만 한다면 45~60분, 수영이나 사람 구경을 위해 멈춘다면 그보다 더 걸립니다. 무료이며 24시간 개방되어 있고 워낙 유명한 곳이라, 탁 트인 바다 전망을 오롯이 즐기고 싶다면 단체 관광객이 몰리는 한낮은 피하는 것이 좋습니다.

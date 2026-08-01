@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: kuala-lumpur-f-forever-world-tour-kuala-lumpur
+srcHash: f99e86d5211a
 title: 'F✦FOREVER World Tour – Kuala Lumpur: lo que hay que saber (Kuala Lumpur)'
 description: F✦FOREVER World Tour – Kuala Lumpur en Kuala Lumpur, Malasia — 7 y 8 de agosto de 2026. Qué es, cuándo y dónde, y cómo organizar tu visita.
 quickAnswer: F✦FOREVER —el supergrupo que une a Jerry Yan, Van Ness Wu y Vic Chou (tres cuartas partes de F4) con Ashin, de Mayday— se presenta durante dos noches, el 7 y 8 de agosto de 2026, en el Unifi Arena de Bukit Jalil, Kuala Lumpur, como parte de su primera gira mundial. Reserva las entradas oficiales del recinto en cuanto se abran, organiza tu desplazamiento en torno al nudo de transporte de Bukit Jalil, y confirma siempre las fechas, la hora de apertura de puertas y los enlaces de venta en los canales oficiales de la gira y del recinto antes de viajar.

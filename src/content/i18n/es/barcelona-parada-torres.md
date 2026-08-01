@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: barcelona-parada-torres
+srcHash: 3cb9bdc2ec4e
 title: 'Parada Torres: dónde comer en Barcelona'
 description: 'Parada Torres en Barcelona, España — un local nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: 'Parada Torres es el nuevo bar de mercado de los hermanos Sergio y Javier Torres, chefs con estrella Michelin (de Cocina Hermanos Torres), instalado dentro del Mercat de Santa Caterina, en el barrio de Ciutat Vella de Barcelona. Ve buscando una propuesta informal y de barra, con cocina catalana reconfortante, más que una experiencia de menú degustación: espera una barra larga, una pequeña terraza y vistas directas a los puestos del mercado. Antes de ir, confirma el horario actual y si aceptan reservas, ya que al ser un local tan recién abierto y tan comentado, su ritmo puede cambiar con rapidez.'

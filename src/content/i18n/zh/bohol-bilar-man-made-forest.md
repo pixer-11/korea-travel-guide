@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: bohol-bilar-man-made-forest
+srcHash: 9e9ceb0c806c
 title: 碧拉人工林(Bilar Man-Made Forest):薄荷岛旅游指南
 description: 碧拉人工林是一片长约2公里、种满茂密桃花心木的林带，横跨碧拉(Bilar)与塞维利亚(Sevilla)之间的洛艾内陆公路(Loay Interior Road)，距塔比拉兰市(Tagbilaran City)车程约45-55分钟。
 quickAnswer: 碧拉人工林是一片长约2公里、种满茂密桃花心木的林带，横跨碧拉(Bilar)与塞维利亚(Sevilla)之间的洛艾内陆公路(Loay Interior Road)，从塔比拉兰市(Tagbilaran City)乘车或面包车前往约需45-55分钟，很容易与巧克力山(Chocolate Hills)和洛博克河(Loboc River)安排在同一天的行程中。在路边停车点和观景台拍照大约需要15-30分钟——这是一个可以顺路停留拍照的景点，而不是徒步目的地。建议清晨或傍晚前往，此时阳光会斜射穿过树冠，且旅游大巴还没有把路肩挤满。

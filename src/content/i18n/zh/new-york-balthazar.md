@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: new-york-balthazar
+srcHash: 2c7ce6dd8097
 title: Balthazar：纽约美食指南
 description: Balthazar 位于 SoHo 的 80 Spring St，是纽约最经典的巴黎式小酒馆——红色皮革卡座、黄铜栏杆、生蚝吧、牛排薯条，还有全天营业的面包柜台。
 quickAnswer: Balthazar 位于 SoHo 的 80 Spring St，是纽约最经典的巴黎式小酒馆——红色皮革卡座、黄铜栏杆、生蚝吧、牛排薯条，还有全天营业的面包柜台。工作日营业时间为早上 8 点至午夜（周末从早上 9 点开始），周末 2 点至 6 点最为繁忙，如果想要更宽松的用餐体验，建议选择工作日的早上或较晚的时段。

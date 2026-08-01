@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: singapore-casa-mori
+srcHash: 3510ffd3cf7b
 title: 'Casa Mori en Singapur: guía para el visitante'
 description: 'Casa Mori en Singapur, Singapur — un lugar nuevo y en auge: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Casa Mori es un nuevo restaurante de platos para compartir que fusiona lo español con lo singapurense en Dempsey Hill, comandado a la vez por el chef mod-Sin Willin Low y el chef español Jose Alonso, conocido por platos que incorporan sabores locales como el cincalok y el sambal a técnicas españolas, todo dentro de un comedor de paredes rosa muy particular. Ve a cenar en grupo para poder pedir ampliamente del menú para compartir, y reserva con antelación, ya que es una apertura que está dando mucho de qué hablar. Confirma los horarios actuales y la política de reservas en los propios canales de Casa Mori antes de ir, ya que estos detalles pueden cambiar en locales recién inaugurados.

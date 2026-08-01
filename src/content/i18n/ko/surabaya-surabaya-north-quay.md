@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: surabaya-surabaya-north-quay
+srcHash: 8c4123f3fc35
 title: '수라바야 노스 퀘이(Surabaya North Quay): 여행 가이드'
 description: 수라바야 노스 퀘이(Surabaya North Quay, SNQ)는 탄중 페락(Tanjung Perak) 항구 지역에 자리한 루프탑 데크로, 자바해를 배경으로 컨테이너선과 유조선, 크루즈선이 오가는 탁 트인 전망을 즐길 수 있는 곳입니다.
 quickAnswer: 수라바야 노스 퀘이(Surabaya North Quay, SNQ)는 탄중 페락(Tanjung Perak) 항구 지역에 위치한 루프탑 데크로, 자바해를 배경으로 컨테이너선, 유조선, 크루즈선이 오가는 탁 트인 전망을 즐길 수 있는 곳입니다. 맑은 날 일몰 시간에 방문하는 것이 좋으며, 1~1.5시간 정도 여유를 두는 것을 추천합니다. 이곳은 시내 기차·버스 노선과 떨어진 항만 작업 구역 안에 있어 자가용, 택시, 혹은 차량 호출 서비스로 이동해야 합니다. 평점 4.4점에 리뷰 23,000개 이상을 기록한 매우 인기 있는 명소이므로 주말과 공휴일에는 붐빌 수 있습니다.

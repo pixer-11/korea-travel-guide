@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: shanghai-goodbai-cafe
+srcHash: 69b2ef55eb44
 title: 上海の「Goodbai Cafe(グッドバイ・カフェ)」
 description: Goodbai Cafeは、上海・静安区(Jing'an District)にあるデザイン性の高いカフェ兼コンセプトストアで、俳優のバイ・ジンティン(白敬亭)がオープンした店。Xiaohongshu(小紅書、Little Red Book)で話題となり、SNSで拡散した人気スポットとなっている。
 quickAnswer: Goodbai Cafeは、上海・静安区(Jing'an District)にあるデザイン性の高いカフェ兼コンセプトストアで、俳優のバイ・ジンティン(白敬亭)がオープンした店。印象的な内装と看板メニューの「Goodbaiラテ」が話題となり、Xiaohongshu(小紅書、Little Red Book)でバズった人気店だ。行列覚悟のうえ、フォトジェニックなミニマルな空間と、コーヒーだけでなくグッズ販売を含むコンセプトストア的な要素も楽しめる。待ち時間を短くしたいなら平日の午前中がおすすめ。訪問前には最新の営業時間や予約の要否を必ず確認しておこう。

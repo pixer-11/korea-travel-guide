@@ -1,6 +1,6 @@
 ---
 title: 'Plant Cafe Seoul (Yeonnam): Travel Guide'
-description: Plant Cafe Seoul (Yeonnam) is a plant-filled, greenhouse-style café in the Yeonnam-dong district, best reached via Line 6's Sangsu Station or the Gyeongui
+description: Plant Cafe Seoul (Yeonnam) is a plant-filled, greenhouse-style café in the Yeonnam-dong district, best reached via Line 6's Sangsu Station or the Gyeongui Line Forest Park side of Hongdae.
 region: Seoul
 country: "South Korea"
 category: trendy

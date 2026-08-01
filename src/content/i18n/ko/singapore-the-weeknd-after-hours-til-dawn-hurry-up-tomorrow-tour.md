@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: singapore-the-weeknd-after-hours-til-dawn-hurry-up-tomorrow-tour
+srcHash: 0c375425b0c9
 title: '더 위켄드 - After Hours Til Dawn/Hurry Up Tomorrow 투어: 알아야 할 것들 (싱가포르)'
 description: 더 위켄드(The Weeknd) - After Hours Til Dawn/Hurry Up Tomorrow 투어가 싱가포르에서 2026년 9월 25일 열립니다. 공연 개요와 일시, 장소, 그리고 관람 계획을 세우는 방법을 안내합니다.
 quickAnswer: 더 위켄드가 After Hours Til Dawn/Hurry Up Tomorrow 투어로 2026년 9월 25일 싱가포르 내셔널 스타디움(National Stadium) 무대에 오르며, 일본 힙합 듀오 크리피 넛츠(Creepy Nuts)가 오프닝을 맡습니다. Starboy, After Hours, Dawn FM, Hurry Up Tomorrow를 아우르는 커리어 전반의 셋리스트가 지역 내 손꼽히는 대형 경기장에서 펼쳐질 예정이니, 교통편과 티켓 구매처, 도착 시간을 미리 계획해 두는 것이 좋습니다. 예매 전에는 반드시 공식 티켓마스터 싱가포르(Ticketmaster Singapore)/프로모터 페이지에서 정확한 공연 시간, 게이트 오픈 시간, 티켓 링크를 확인하세요.

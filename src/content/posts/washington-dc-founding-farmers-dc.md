@@ -1,6 +1,6 @@
 ---
 title: 'Founding Farmers DC: Where to Eat in Washington DC'
-description: Founding Farmers DC, at 1924 Pennsylvania Ave NW near Foggy Bottom/George Washington University, is a farm-to-table American spot known for its buttermilk
+description: Founding Farmers DC, at 1924 Pennsylvania Ave NW near Foggy Bottom/George Washington University, is a farm-to-table American spot known for its buttermilk biscuits, chicken and waffles, and all-day brunch — expect a wait, since it's one of the most reviewed restaurants in the city (23,000+ reviews, 4.5 stars).
 country: United States
 region: Washington DC
 category: restaurant

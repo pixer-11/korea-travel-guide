@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: yokohama-babymonster-choom-world-tour-japan-yokohama-leg
+srcHash: e7e31584ef05
 title: BABYMONSTER「Choom」ワールドツアー ― 日本公演(横浜編):知っておきたいこと(横浜)
 description: BABYMONSTER「Choom」ワールドツアー ― 日本公演(横浜編)、開催地は日本・横浜 ― 2026年8月1日〜2日。公演の概要、日時・会場、旅行計画のポイントをまとめました。
 quickAnswer: BABYMONSTERの「Choom」ワールドツアーは、2026年8月1日〜2日に横浜のぴあアリーナMMで開催され、全11公演・6都市を巡る日本公演の一部となります。チケット販売、開場時間、セットリストの詳細は現時点では公式に全ては発表されていないため、渡航手配の前にグループの公式YG/BABYMONSTERチャンネルや会場サイトで最新情報を確認してください。ぴあアリーナMMはみなとみらい(Minato Mirai)のウォーターフロントエリアにあり、みなとみらい駅から徒歩圏内です。

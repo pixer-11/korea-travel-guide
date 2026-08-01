@@ -1,6 +1,6 @@
 ---
 title: 'Reed Flute Cave: Guilin Travel Guide'
-description: Reed Flute Cave, on the northwest edge of Guilin city, is a 240-million-year-old limestone cave strung with neon-colored lights that turn its stalactites and
+description: Reed Flute Cave, on the northwest edge of Guilin city, is a 240-million-year-old limestone cave strung with neon-colored lights that turn its stalactites and reflecting pools into surreal underground scenery.
 country: China
 region: Guilin
 category: attraction

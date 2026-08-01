@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: chiang-rai-wat-rong-khun
+srcHash: 5c834cbcbb3f
 title: 'Wat Rong Khun: guía de viaje de Chiang Rai'
-description: Wat Rong Khun, más conocido como el Templo Blanco, se encuentra a unos 13 km (20–25 minutos en coche) al sur del centro de Chiang Rai, en la carretera hacia Bangkok, y es mejor
+description: Wat Rong Khun, más conocido como el Templo Blanco, se encuentra a unos 13 km (20–25 minutos en coche) al sur del centro de Chiang Rai, en la carretera hacia Bangkok, y lo mejor es visitarlo justo a la apertura (alrededor de las 8am), antes de que lleguen los autobuses turísticos.
 quickAnswer: Wat Rong Khun, más conocido como el Templo Blanco, se encuentra a unos 13 km (20–25 minutos en coche) al sur del centro de Chiang Rai, en la carretera hacia Bangkok, y lo mejor es visitarlo justo a la apertura (alrededor de las 8am), antes de que lleguen los autobuses turísticos. Reserva entre 1 y 1.5 horas para cruzar el puente de espejos sobre el "Ciclo del Renacimiento", ver los murales del Ubosot y recorrer el pabellón dorado de los baños y la tienda de regalos. Se exige vestimenta modesta (hombros y rodillas cubiertos), y hay que tener en cuenta que sigue siendo un proyecto artístico activo y en evolución del artista Chalermchai Kositpipat, no una ruina antigua.
 faq:
   - q: ¿Cómo llego a Wat Rong Khun desde la ciudad de Chiang Rai?

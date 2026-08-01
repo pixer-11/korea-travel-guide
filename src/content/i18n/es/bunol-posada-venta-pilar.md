@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: bunol-posada-venta-pilar
+srcHash: 683a87a913c4
 title: 'Posada Venta Pilar: Dónde comer en Buñol'
-description: Posada Venta Pilar es una posada del siglo XVII en la Av. Pérez Galdós, a poca distancia a pie del casco antiguo de Buñol y de la famosa ruta de la Tomatina, que sirve una contundente
+description: Posada Venta Pilar es una posada del siglo XVII en la Av.
 quickAnswer: Posada Venta Pilar es una posada del siglo XVII en la Av. Pérez Galdós, a poca distancia a pie del casco antiguo de Buñol y de la famosa ruta de la Tomatina, que sirve una contundente cocina casera valenciana alrededor de un patio de piedra. Es un lugar conocido más que un secreto, así que conviene reservar con antelación los fines de semana y hacia finales de agosto, cuando las multitudes de la Tomatina inundan el pueblo. Ve a por el arroz al horno o a disfrutar de un menú de mediodía sin prisas, y luego date una vuelta por el barrio del castillo de Buñol.
 faq:
   - q: ¿Necesito reservar en Posada Venta Pilar?

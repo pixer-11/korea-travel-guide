@@ -1,6 +1,6 @@
 ---
 title: 'Ise Sueyoshi: Where to Eat in Tokyo'
-description: Ise Sueyoshi is a small, counter-and-table kaiseki restaurant in Nishiazabu, Minato City, known for a meticulously plated, seasonally driven multi-course
+description: Ise Sueyoshi is a small, counter-and-table kaiseki restaurant in Nishiazabu, Minato City, known for a meticulously plated, seasonally driven multi-course Japanese menu and a 4.9-rating from over 450 diners.
 country: Japan
 region: Tokyo
 category: restaurant

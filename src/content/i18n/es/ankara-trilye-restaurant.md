@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: ankara-trilye-restaurant
+srcHash: 6686436175f2
 title: 'Restaurante Trilye: Dónde comer en Ankara'
-description: Trilye es un reconocido restaurante de mariscos en el barrio Kazım Özalp de Ankara (Çankaya), conocido por su pescado impecablemente fresco, sus mezes y su pasta en un
+description: Trilye es un reconocido restaurante de mariscos en el barrio Kazım Özalp de Ankara (Çankaya), conocido por su pescado impecablemente fresco, sus mezes y su pasta en un comedor luminoso y contemporáneo con mesas en el exterior.
 quickAnswer: Trilye es un reconocido restaurante de mariscos en el barrio Kazım Özalp de Ankara (Çankaya), conocido por su pescado impecablemente fresco, sus mezes y su pasta en un comedor luminoso y contemporáneo con mesas en el exterior. Se ubica en la gama de precios más alta y es muy conocido localmente, así que reserve con antelación para la cena, especialmente de jueves a sábado, y espere un salón más lleno después de las 20:00.
 faq:
   - q: ¿Dónde se encuentra exactamente el restaurante Trilye?

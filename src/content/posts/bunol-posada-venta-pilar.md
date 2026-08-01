@@ -1,6 +1,6 @@
 ---
 title: "Posada Venta Pilar: Where to Eat in Buñol"
-description: "Posada Venta Pilar is a 17th-century roadside inn on Av. Pérez Galdós, a short walk from Buñol's old town and its famous Tomatina route, serving hearty"
+description: Posada Venta Pilar is a 17th-century roadside inn on Av. Pérez Galdós, a short walk from Buñol's old town and its famous Tomatina route, serving hearty Valencian home cooking around a stone courtyard.
 country: "Spain"
 region: "Buñol"
 category: "restaurant"

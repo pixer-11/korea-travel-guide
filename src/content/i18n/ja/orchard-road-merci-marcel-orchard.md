@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: orchard-road-merci-marcel-orchard
+srcHash: 4be8cc038432
 title: MERCI MARCEL ORCHARD:オーチャード・ロードで食事するならここ
 description: MERCI MARCEL ORCHARDは、オーチャード・ロード390番地のパレ・ルネッサンス(Palais Renaissance)内にあるフレンチのオールデイ・カフェレストランで、オーチャード駅(Orchard MRT)からA出口またはE出口を出て徒歩すぐの場所にあります。
 quickAnswer: MERCI MARCEL ORCHARDは、オーチャード・ロード390番地のパレ・ルネッサンス(Palais Renaissance)内にあるフレンチのオールデイ・カフェレストランで、オーチャード駅(Orchard MRT)からA出口またはE出口を出て徒歩すぐの場所にあります。混雑を避けるなら平日のランチか平日夜の早い時間帯がおすすめで、価格帯は中程度(メインは大体S$20〜35)、しっかり食事をするなら1〜1.5時間ほど見ておくとよいでしょう。知る人だけが知る隠れた名店というよりは、評価4.7・レビュー4,000件以上を誇る有名店なので、事前予約するか開店直後に訪れるのが安心です。

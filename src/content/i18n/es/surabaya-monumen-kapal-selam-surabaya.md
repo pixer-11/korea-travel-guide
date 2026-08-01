@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: surabaya-monumen-kapal-selam-surabaya
+srcHash: 3420f889ed06
 title: 'Monumen Kapal Selam: Guía de viaje de Surabaya'
 description: Monumen Kapal Selam (Monkasel) es un submarino real, de fabricación rusa y ya dado de baja, el KRI Pasopati 410, varado en tierra y convertido en un museo que se recorre a pie en Jl. Pemuda, en el centro de Surabaya.
 quickAnswer: Monumen Kapal Selam (Monkasel) es un submarino real, de fabricación rusa y ya dado de baja, el KRI Pasopati 410, varado en tierra y convertido en un museo que se recorre a pie en Jl. Pemuda, en el centro de Surabaya. Calcula entre 45 y 60 minutos para recorrer el estrecho casco y luego relajarte en el parque ribereño contiguo, que cuenta con cafeterías. Es un complemento fácil a una visita a Tunjungan Plaza o Balai Pemuda, ya que se encuentra en la misma zona céntrica.

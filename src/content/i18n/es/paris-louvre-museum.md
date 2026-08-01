@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: paris-louvre-museum
+srcHash: 0fde6f5c8092
 title: 'Museo del Louvre: guía de viaje de París'
 description: Ve justo a la apertura (9:00) un miércoles o viernes, cuando el museo permanece abierto hasta las 21:00 y las multitudes disminuyen notablemente tras el ajetreo de la mañana.
 quickAnswer: Ve justo a la apertura (9:00) un miércoles o viernes, cuando el museo permanece abierto hasta las 21:00 y las multitudes disminuyen notablemente tras el ajetreo de la mañana. Entra por la Pirámide o, mejor aún, por la entrada subterránea del Carrusel del Louvre (Carrousel du Louvre) (Métro Palais-Royal–Musée du Louvre, Línea 1) para saltarte la cola de la superficie. Calcula medio día si quieres ver bien lo más destacado, o el día completo si prefieres pasear con calma.

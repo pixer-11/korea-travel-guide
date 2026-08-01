@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: nara-nara-park
+srcHash: '45153212e903'
 title: 'Parque de Nara: Guía de viaje'
 description: 'El Parque de Nara es un extenso parque público en el centro de Nara, famoso por sus más de 1000 ciervos sika que campan a sus anchas y hacen reverencias, y por los templos que lo rodean: Todai-ji, Kasuga Taisha y Kofuku-ji.'
 quickAnswer: 'El Parque de Nara es un extenso parque público en el centro de Nara, famoso por sus más de 1000 ciervos sika que campan a sus anchas y hacen reverencias, y por los templos que lo rodean: Todai-ji, Kasuga Taisha y Kofuku-ji. Reserva entre medio día y un día completo a pie, compra un paquete de shika senbei (galletas para ciervos) por unos ¥200, y ve temprano por la mañana para evitar las aglomeraciones de autobuses turísticos. Está a 5 minutos a pie de la estación de Kintetsu Nara o unos 20 minutos desde la estación JR Nara.'

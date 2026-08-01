@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: fujairah-al-meshwar-restaurant
+srcHash: 2c24eca5a8dc
 title: '알 메쉬와르 레스토랑: 푸자이라 맛집 가이드'
 description: 알 메쉬와르(Al Meshwar)는 푸자이라 시티(Fujairah City)의 하마드 빈 압둘라 로드(Hamad Bin Abdulla Road)에 위치한, 푸자이라 시티 센터(Fujairah City Centre) 몰 근처의 격식 없이 편안한 레바논식 그릴 레스토랑이다.
 quickAnswer: 알 메쉬와르(Al Meshwar)는 푸자이라 시티(Fujairah City)의 하마드 빈 압둘라 로드(Hamad Bin Abdulla Road)에 위치한, 푸자이라 시티 센터(Fujairah City Centre) 몰 근처의 격식 없이 편안한 레바논식 그릴 레스토랑이다. 믹스 그릴, 샤와르마, 메제를 합리적인 가격에 즐기기 좋은 곳으로(가격대 4단계 중 2단계, 3,600건 이상의 리뷰에서 평점 4.1), 저녁 피크 시간대 혼잡을 피하려면 점심이나 이른 저녁 시간에 방문하는 것이 좋다. 이곳이 늘 붐비는 이유이기도 한 그릴 육류와 신선한 메제를 놓치지 말자.

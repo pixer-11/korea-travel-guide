@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: fukuoka-dazaifu-tenmangu-shrine
+srcHash: 09db9fb43038
 title: 'Santuario Dazaifu Tenmangu: Guía de viaje de Fukuoka'
-description: Dazaifu Tenmangu, a unos 30 minutos en tren desde el centro de Fukuoka, es uno de los santuarios más importantes de Japón para estudiantes y académicos, construido sobre la tumba de
+description: Dazaifu Tenmangu, a unos 30 minutos en tren desde el centro de Fukuoka, es uno de los santuarios más importantes de Japón para estudiantes y académicos, construido sobre la tumba del cortesano del siglo IX Sugawara no Michizane, exiliado a esta ciudad.
 quickAnswer: Dazaifu Tenmangu, a unos 30 minutos en tren desde el centro de Fukuoka, es uno de los santuarios más importantes de Japón para estudiantes y académicos, construido sobre la tumba del cortesano del siglo IX Sugawara no Michizane, exiliado a esta ciudad. Ven a ver el Honden bermellón, los puentes arqueados sobre el estanque Shinji-ike y, si coincides con la temporada, los ciruelos en flor en febrero. Calcula entre 1,5 y 2 horas, más si añades el Museo Nacional de Kyushu, justo al lado.
 faq:
   - q: ¿Cómo llego a Dazaifu Tenmangu desde la ciudad de Fukuoka?

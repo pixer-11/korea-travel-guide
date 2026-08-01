@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: istanbul-turk-fatih-tutak
+srcHash: 2b2ca3653506
 title: 伊斯坦布尔 TURK Fatih Tutak 餐厅探访指南
 description: 土耳其伊斯坦布尔的 TURK Fatih Tutak——一家正当红的新晋餐厅：它是什么、位于何处，以及如何前往用餐。
 quickAnswer: TURK Fatih Tutak 是主厨 Fatih Tutak 在伊斯坦布尔开设的品鉴式菜单（tasting-menu）餐厅，以现代化、研究驱动的方式重新演绎安纳托利亚（Anatolian）食材与烹饪技法为核心。该餐厅入选《米其林指南土耳其 2026》，并因可持续餐饮实践获得一颗“绿星”（Green Star），目前是这座城市里讨论度最高的餐厅之一——因此请务必提前预订，并在出发前直接向餐厅确认营业时间及订位政策。

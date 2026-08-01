@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: hoi-an-nhan-s-kitchen
+srcHash: a6a1a2c318d0
 title: 'Nhan''s Kitchen: dónde comer en Hoi An'
 description: Nhan's Kitchen es un restaurante económico y de gestión local ubicado en 167 Trần Nhân Tông, en Hoi An, apreciado por su comida vietnamita casera y barata, además de especialidades de Hoi An.
 quickAnswer: 'Nhan''s Kitchen es un restaurante económico y de gestión local ubicado en 167 Trần Nhân Tông, en Hoi An, apreciado por su comida vietnamita casera y barata, además de especialidades de Hoi An (cao lầu, rosas blancas y bánh xèo) servidas rápido y frescas. Con una calificación de 4.9 basada en más de 5,600 reseñas, es uno de los lugares económicos más consistentemente elogiados de la ciudad: ve a almorzar o a cenar temprano y espera una breve fila en temporada alta.'

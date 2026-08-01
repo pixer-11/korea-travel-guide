@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: nice-cascade-du-chateau
+srcHash: 5168fea269e2
 title: 城堡山瀑布（Cascade du Château）：尼斯旅行指南
 description: 城堡山瀑布（Cascade du Château）是从英国人漫步大道（Promenade des Anglais）就能望见的瀑布，它顺着尼斯古城堡山（Colline du Château）的崖壁倾泻而下。
 quickAnswer: 城堡山瀑布（Cascade du Château）是从英国人漫步大道（Promenade des Anglais）就能望见的瀑布，它沿着尼斯古城堡山（Colline du Château）公园的崖壁倾泻而下。瀑布每天上午8:30至晚上8点开放，免费参观；建议清晨或下午5点后前往，因为中午12点到下午5点这段时间（尤其是周末）人流最为密集。在瀑布处停留20-30分钟即可，如果想进一步深入公园，登上可俯瞰天使湾（Baie des Anges）的全景观景点，则需再预留一到两个小时。

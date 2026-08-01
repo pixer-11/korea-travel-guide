@@ -1,6 +1,6 @@
 ---
 title: "Piazza del Duomo: Milan Travel Guide"
-description: "Piazza del Duomo is Milan's grand central square, dominated by the cathedral's forest of marble spires and flanked by the Royal Palace and the glass-roofed"
+description: Piazza del Duomo is Milan's grand central square, dominated by the cathedral's forest of marble spires and flanked by the Royal Palace and the glass-roofed Galleria Vittorio Emanuele II.
 country: "Italy"
 region: "Milan"
 category: "attraction"

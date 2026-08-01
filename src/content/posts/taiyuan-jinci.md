@@ -1,6 +1,6 @@
 ---
 title: "Jinci: Taiyuan Travel Guide"
-description: "Jinci (晋祠) is a sprawling Northern Song-era temple complex on the southwestern edge of Taiyuan, built around a sacred spring and a 3,000-year-old cypress"
+description: Jinci (晋祠) is a sprawling Northern Song-era temple complex on the southwestern edge of Taiyuan, built around a sacred spring and a 3,000-year-old cypress tree.
 country: "China"
 region: "Taiyuan"
 category: "attraction"

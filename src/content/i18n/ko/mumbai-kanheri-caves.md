@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: mumbai-kanheri-caves
+srcHash: 4b1c64c1b37b
 title: '칸헤리 석굴: 뭄바이 여행 가이드'
 description: 뭄바이 북부 보리발리/칸헤리(Borivali/Kanheri) 지역, 산제이 간디 국립공원(Sanjay Gandhi National Park) 깊숙한 곳에 자리한 칸헤리 석굴(Kanheri Caves)은 100개가 넘는 석굴로 이루어진 대규모 불교 유적지입니다.
 quickAnswer: 뭄바이 북부 보리발리/칸헤리(Borivali/Kanheri) 지역, 산제이 간디 국립공원(Sanjay Gandhi National Park) 깊숙한 곳에 자리한 칸헤리 석굴(Kanheri Caves)은 약 2,000년 전 조성된 100개가 넘는 석굴로 이루어진 대규모 불교 유적 단지입니다. 화요일부터 일요일, 오전 8시부터 오후 5시 30분까지 운영하며(월요일 휴무), 평일 오전 8시~9시, 즉 개장 직후 첫 한 시간이 투어 단체와 주말 인파가 몰리기 전이라 가장 한적합니다. 2~3시간 정도 여유를 두고, 오르막이 있으니 발이 편한 신발을 신으며, 주변 숲길 산책이나 사파리 드라이브와 함께 묶어 일정을 짜는 것이 좋습니다.

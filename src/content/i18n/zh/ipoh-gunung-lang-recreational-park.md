@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: ipoh-gunung-lang-recreational-park
+srcHash: 3addeee59bfa
 title: 江浪河滨公园：怡保旅游指南
 description: 江浪河滨公园（Gunung Lang Recreational Park）是位于怡保北部惹兰达迈路（Jalan Damai）上的一座石灰岩山湖泊公园，最佳游览时间是清晨（9点前）或傍晚（5点后）。
 quickAnswer: 江浪河滨公园（Gunung Lang Recreational Park）是位于怡保北部惹兰达迈路（Jalan Damai）上的一座石灰岩山湖泊公园，最佳游览时间是清晨（9点前）或傍晚（5点后），此时光线柔和地映照着喀斯特峭壁，暑气也已消退。来这里可以悠然乘坐脚踏船或划艇泛舟静谧的湖面，漫步吊桥，欣赏人造瀑布——建议安排1.5到2小时。这是一座深受欢迎、游人众多的公园（并非小众秘境），因此周末和公共假期很快就会变得拥挤。

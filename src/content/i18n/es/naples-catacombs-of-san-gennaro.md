@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: naples-catacombs-of-san-gennaro
+srcHash: d2a2f022ba48
 title: 'Catacumbas de San Genaro: guía de viaje de Nápoles'
-description: Las Catacumbas de San Genaro (Catacombe di San Gennaro) se encuentran en Via Capodimonte, a un corto paseo cuesta arriba o trayecto en autobús desde el centro histórico, y solo se visitan con tour guiado (aproximadamente
+description: Las Catacumbas de San Genaro (Catacombe di San Gennaro) se encuentran en Via Capodimonte, a un corto paseo cuesta arriba o trayecto en autobús desde el centro histórico, y solo se visitan con tour guiado (unos 60-75 minutos, con salidas en horarios fijos a lo largo del día).
 quickAnswer: Las Catacumbas de San Genaro (Catacombe di San Gennaro) se encuentran en Via Capodimonte, a un corto paseo cuesta arriba o trayecto en autobús desde el centro histórico, y solo se visitan con tour guiado (unos 60-75 minutos, con salidas en horarios fijos a lo largo del día). Reserva tu turno con antelación por internet, ya que se trata de una atracción muy visitada y bien valorada (4.7 estrellas con más de 13,000 reseñas), no de un rincón tranquilo y poco conocido. Combínala con el Museo de Capodimonte, justo al lado, y calcula alrededor de medio día en total, incluyendo los desplazamientos.
 faq:
   - q: ¿Necesito reservar entradas con antelación?

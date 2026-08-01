@@ -1,6 +1,6 @@
 ---
 title: Hwangnidan-Gil in Gyeongju
-description: Hwangnidan-gil is Gyeongju''s trendiest strip of cafes, hanbok rental shops, and boutiques, tucked into a low-rise residential neighborhood a short walk
+description: Hwangnidan-gil is Gyeongju's trendiest strip of cafes, hanbok rental shops, and boutiques, tucked into a low-rise residential neighborhood a short walk south of the Daereungwon tomb cluster and Cheomseongdae observatory.
 region: Gyeongju
 country: "South Korea"
 category: trendy

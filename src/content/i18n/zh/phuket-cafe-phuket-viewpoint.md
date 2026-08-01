@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: phuket-cafe-phuket-viewpoint
+srcHash: 3cf2253ee475
 title: Cafe Phuket Viewpoint 旅行指南
 description: Cafe Phuket Viewpoint 坐落在芭东（Patong）上方山脊的 Phrabaramee Road 上,位于通往卡塔（Kata）/卡伦（Karon）的蜿蜒山路沿线,最佳游览时间是傍晚时分。
 quickAnswer: Cafe Phuket Viewpoint 坐落在芭东（Patong）上方山脊的 Phrabaramee Road 上,位于通往卡塔（Kata）/卡伦（Karon）的蜿蜒山路沿线,最佳游览时间是傍晚（大约 4:30–6pm）,可以从层层露台座位区欣赏安达曼海（Andaman Sea）和芭东湾（Patong Bay）的日落。建议乘租用摩托车、出租车或 Grab 前往,因为门口没有公共巴士站；预计游览时间为 1–1.5 小时,如果想在此用餐则需更久。凭借超过 20,800 条评价和 4.6 分的评分,这里是岛上最受欢迎的观景咖啡馆之一,因此建议提早到达,否则临海边的最佳座位可能需要等位。

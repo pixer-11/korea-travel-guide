@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: taipei-ive-world-tour-2026-show-what-i-am-taipei
+srcHash: 82845911c537
 title: IVE 2026世界巡回演唱会《SHOW WHAT I AM》——台北场须知（台北）
 description: IVE 2026世界巡回演唱会《SHOW WHAT I AM》——台北场，地点台湾台北，时间2026年9月11日至13日。演出简介、时间地点，以及行程规划建议。
 quickAnswer: IVE将于2026年9月11日至13日一连三晚在台北小巨蛋（Taipei Arena）举办《SHOW WHAT I AM》世界巡回演唱会台北场。演出预计以《After Like》《Love Dive》及最新EP曲目为核心打造整场舞台，每晚都会吸引数万名歌迷涌入位于松山区的场馆。目前除演出日期外，官方尚未正式公布售票细节、确切入场时间及完整曲目单——订机票、订酒店前请务必以官方巡演及售票渠道信息为准。

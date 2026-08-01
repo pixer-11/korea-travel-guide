@@ -1,8 +1,9 @@
 ---
 lang: ja
 slug: malacca-menara-taming-sari
+srcHash: f5230f0fe373
 title: メナラ・タミン・サリ:マラッカ旅行ガイド
-description: メナラ・タミン・サリは、バンダ・ヒリール(Banda Hilir)のジャラン・メルデカ(Jalan Merdeka)沿い、マラッカ川河口のすぐそばに立つ、高さ80メートルの回転式ジャイロタワーです。A
+description: メナラ・タミン・サリ(Menara Taming Sari)は、バンダ・ヒリール(Banda Hilir)のジャラン・メルデカ(Jalan Merdeka)沿い、マラッカ川河口のすぐそばに立つ、高さ80メートルの回転式ジャイロタワーです。A・ファモサ(A Famosa)とスタダイス(Stadthuys)からは徒歩5分ほど。
 quickAnswer: メナラ・タミン・サリ(Menara Taming Sari)は、バンダ・ヒリール(Banda Hilir)のジャラン・メルデカ(Jalan Merdeka)沿い、マラッカ川河口のすぐそばに立つ、高さ80メートルの回転式ジャイロタワーです。A・ファモサ(A Famosa)とスタダイス(Stadthuys)からは徒歩5分ほど。乗車時間は約7分で、密閉されたポッドがゆっくり回転しながら上昇・下降し、旧市街やマラッカ海峡、その先の港のクレーンまで360度の眺めを楽しめます。非常に人気があるため、開場直後の1時間か、日没前の時間帯を狙うと長い行列を避けられます。
 faq:
   - q: 乗車時間はどれくらいですか?

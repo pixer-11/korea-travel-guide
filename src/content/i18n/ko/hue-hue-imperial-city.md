@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: hue-hue-imperial-city
+srcHash: 6744aea1a93c
 title: '후에 왕궁(다이노이): 여행 가이드'
 description: 후에 왕궁(다이노이, Đại Nội)은 흐엉강(Perfume River) 북안에 자리한 성곽형 궁궐 겸 사원 단지로, 1805년 응우옌 왕조 때 건설되었습니다.
 quickAnswer: 후에 왕궁(다이노이, Đại Nội)은 흐엉강(Perfume River) 북안에 자리한 성곽형 궁궐 겸 사원 단지로, 1805년 응우옌 왕조 때 건설되었습니다. 응오몬(Ngo Mon) 성문, 타이호아 궁전(Thai Hoa Palace), 자금성(Forbidden Purple City) 유적, 그리고 여러 왕실 사당을 둘러보는 데는 2.5~4시간 정도를 계획하세요. 더위와 단체 관광객을 피하려면 이른 아침이나 늦은 오후에 방문하는 것이 좋습니다. 후에를 대표하는 반나절 코스 명소이자 유네스코 세계문화유산(후에 기념물 복합단지의 일부)입니다.

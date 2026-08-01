@@ -1,8 +1,9 @@
 ---
 lang: zh
 slug: chiang-mai-best-khao-soi-chang-mai
+srcHash: 7fb4beb0c6cf
 title: 清迈最好吃的考苏(Khao Soi)：Best Khao Soi Chang Mai 用餐指南
-description: 前往帕辛（Phra Singh）地区的 Best Khao Soi Chang Mai（地址：1, Tambon Phra Sing, Amphoe Mueang Chiang Mai, 50200），品尝一碗经典考苏——这道
+description: 前往帕辛（Phra Singh）地区的 Best Khao Soi Chang Mai（地址：1, Tambon Phra Sing, Amphoe Mueang Chiang Mai, 50200），品尝一碗经典考苏（khao soi）——这是一道泰北咖喱面食，上面铺满脆炸鸡蛋面。
 quickAnswer: 前往帕辛（Phra Singh）地区的 Best Khao Soi Chang Mai（地址：1, Tambon Phra Sing, Amphoe Mueang Chiang Mai, 50200），品尝一碗经典考苏（khao soi）——这是一道泰北咖喱面食，上面铺满脆炸鸡蛋面。这家店在 252 条评价中获得 4.6 的高分，因此可以预料到这是一家专注于把这一碗做好、朴实无华的小店，而不是装潢考究的餐厅。建议晚上前往——工作日营业时间为下午4点至晚上10点，周六为下午3点至晚上10点，周日休息——点鸡肉或牛肉口味，并预留30-45分钟坐下来好好吃一碗，外加配菜。
 faq:
   - q: 没有车的话怎么去 Best Khao Soi Chang Mai？

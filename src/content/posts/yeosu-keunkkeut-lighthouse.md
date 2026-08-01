@@ -1,6 +1,6 @@
 ---
 title: 'Keunkkeut Lighthouse ( ): Yeosu Travel Guide'
-description: 큰끝등대 (Keunkkeut Lighthouse) is a small white lighthouse on the southeastern tip of Dolsan Island in Yeosu, best visited around sunset or sunrise for open sea
+description: 큰끝등대 (Keunkkeut Lighthouse) is a small white lighthouse on the southeastern tip of Dolsan Island in Yeosu, best visited around sunset or sunrise for open sea views toward the Namhae Strait.
 region: Yeosu
 country: "South Korea"
 category: hidden-gem

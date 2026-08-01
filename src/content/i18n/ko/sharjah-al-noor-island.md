@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: sharjah-al-noor-island
+srcHash: d3253afecfd5
 title: '알 누어 아일랜드: 샤르자 여행 가이드'
 description: 알 누어 아일랜드(Al Noor Island)는 샤르자 중심부 부하이라 코니시(Buhairah Corniche)의 칼리드 라군(Khalid Lagoon)에 위치해 있으며, 알 마자즈 워터프론트(Al Majaz Waterfront)에서 도보나 택시로 잠깐이면 갈 수 있습니다.
 quickAnswer: 알 누어 아일랜드(Al Noor Island)는 샤르자 중심부 부하이라 코니시(Buhairah Corniche)의 칼리드 라군(Khalid Lagoon)에 위치해 있으며, 알 마자즈 워터프론트(Al Majaz Waterfront)에서 도보나 택시로 잠깐이면 갈 수 있습니다. 산책로를 걷고, 책 전시관을 둘러보고, 나비 정원을 거닐고, 곳곳에 흩어진 현대 미술 설치작품을 감상하는 데 1.5~2.5시간 정도를 잡으면 됩니다. 늦은 오후나 초저녁, 특히 날씨가 선선한 10월부터 4월 사이에 방문하면 빛과 기온 모두 만족스러울 것입니다.
@@ -45,4 +46,4 @@ faq:
 
 ## 함께 둘러보기 좋은 주변 명소
 
-라군 바로 건너편에 있는 **알 마자즈 워터프론트(Al Majaz Waterfront)**를 함께 산책해보세요. 두바이 분수 쇼의 축소판이라 할 수 있는 알 마자즈 분수(Al Majaz fountain)와 여러 캐주얼 다이닝 옵션이 있어, 알 누어 아일랜드(Al Noor Island)를 중심으로 한 오후나 저녁 일정을 자연스럽게 마무리하기 좋은 곳입니다.
+라군 바로 건너편에 있는 **알 마자즈 워터프론트**(Al Majaz Waterfront)를 함께 산책해보세요. 두바이 분수 쇼의 축소판이라 할 수 있는 알 마자즈 분수(Al Majaz fountain)와 여러 캐주얼 다이닝 옵션이 있어, 알 누어 아일랜드(Al Noor Island)를 중심으로 한 오후나 저녁 일정을 자연스럽게 마무리하기 좋은 곳입니다.

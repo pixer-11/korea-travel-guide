@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: singapore-changi-village-hawker-centre
+srcHash: a14be84806af
 title: '창이 빌리지 호커 센터: 싱가포르 맛집 탐방'
 description: 싱가포르 북동쪽 끝, 2 Changi Village Rd에 위치한 창이 빌리지 호커 센터(Changi Village Hawker Centre)는 나시 르막 노점과 사테, 바나나 튀김으로 유명하다.
 quickAnswer: 싱가포르 북동쪽 끝, 2 Changi Village Rd에 위치한 창이 빌리지 호커 센터(Changi Village Hawker Centre)는 나시 르막 노점과 사테, 바나나 튀김으로 유명하며, 천장 선풍기가 돌아가는 아래 공용 포마이카 테이블에 앉아 즐길 수 있다. 많은 사람이 찾는 곳(4.3점, 리뷰 약 14,000개)이므로, 붐비는 시간을 피하려면 평일 정오 이전이나 오후 2시 이후에 방문하는 것이 좋고, 근처 창이 비치(Changi Beach)까지 산책하거나 페리를 타고 풀라우 우빈(Pulau Ubin)으로 넘어가는 일정과 함께 묶으면 좋다.

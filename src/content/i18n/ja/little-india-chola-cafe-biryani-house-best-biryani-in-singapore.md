@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: little-india-chola-cafe-biryani-house-best-biryani-in-singapore
+srcHash: b2e714bffa40
 title: Chola Cafe - Biryani House - シンガポール最高のビリヤニ:リトルインディア旅行ガイド
 description: Chola Cafe - Biryani Houseは、リトルインディアMRT駅(Exit E)から徒歩すぐの静かな裏通りに位置し、ピークタイムを少し外して訪れるのがおすすめです。
 quickAnswer: Chola Cafe - Biryani Houseは、リトルインディア(Little India)の静かな裏通りにあり、リトルインディアMRT駅(Little India MRT、Exit E)から徒歩すぐの場所にあります。ランチのピークタイムを少し外した時間帯(12:00頃、または1:30pm以降)に訪れると、待たずに席に着けます。じっくり煮込んだマトンまたはチキンのビリヤニに、定番のライタ(raita)とブリンジャルカレー(brinjal curry)が添えられて提供されます。洗練されたダイニングルームというよりは、装飾のないカンティーン風の内装を想像しておきましょう。セラングーン・ロード(Serangoon Road)沿いの行列必至の有名店ではなく、まだあまり知られていないビリヤニの名店を探している人には強くおすすめできる一軒です。

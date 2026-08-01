@@ -1,8 +1,9 @@
 ---
 lang: ko
 slug: washington-dc-founding-farmers-dc
+srcHash: 515bdd8f8a0f
 title: '파운딩 파머스 DC: 워싱턴 DC 맛집 가이드'
-description: 파운딩 파머스 DC(Founding Farmers DC)는 폭보텀/조지워싱턴대학교(Foggy Bottom/George Washington University) 인근 1924 Pennsylvania Ave NW에 위치한 팜투테이블 아메리칸 레스토랑으로, 버터밀크
+description: 파운딩 파머스 DC(Founding Farmers DC)는 폭보텀/조지워싱턴대학교(Foggy Bottom/George Washington University) 인근 1924 Pennsylvania Ave NW에 위치한 팜투테이블 아메리칸 레스토랑으로, 버터밀크 비스킷과 치킨 앤 와플, 그리고 하루 종일 즐길 수 있는 브런치로 유명합니다 — 이 도시에서 가장 리뷰가 많은 레스토랑 중 하나(리뷰 23,000개 이상, 평점 4.5점)인 만큼 대기는 각오해야 합니다.
 quickAnswer: 파운딩 파머스 DC(Founding Farmers DC)는 폭보텀/조지워싱턴대학교(Foggy Bottom/George Washington University) 인근 1924 Pennsylvania Ave NW에 위치한 팜투테이블 아메리칸 레스토랑으로, 버터밀크 비스킷과 치킨 앤 와플, 그리고 하루 종일 즐길 수 있는 브런치로 유명합니다 — 이 도시에서 가장 리뷰가 많은 레스토랑 중 하나(리뷰 23,000개 이상, 평점 4.5점)인 만큼 대기는 각오해야 합니다. 평일 정오 이전이나 오후 2시 이후에 방문하면 가장 붐비는 시간대를 피할 수 있고, 주말 브런치는 미리 예약하는 것이 좋습니다.
 faq:
   - q: 파운딩 파머스 DC는 예약이 필요한가요?

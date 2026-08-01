@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: hue-phinholic
+srcHash: 87b1a10c24bc
 title: 'PhinHolic: Guía de viaje de Hue'
-description: PhinHolic es una cafetería vietnamita de estilo con café de filtro phin ubicada en 65 Bến Nghé, en el barrio Thuận Hóa de Hue, en la orilla sur del río de los Perfumes, a poca distancia a pie o en cyclo
+description: PhinHolic es una cafetería vietnamita con estilo especializada en café de filtro phin, ubicada en 65 Bến Nghé, en el barrio Thuận Hóa de Hue, en la orilla sur del río de los Perfumes, a poca distancia a pie o en cyclo del mercado Dong Ba y de la franja hotelera principal a lo largo de Le Loi y Hung Vuong.
 quickAnswer: PhinHolic es una cafetería vietnamita con estilo especializada en café de filtro phin, ubicada en 65 Bến Nghé, en el barrio Thuận Hóa de Hue, en la orilla sur del río de los Perfumes, a poca distancia a pie o en cyclo del mercado Dong Ba y de la franja hotelera principal a lo largo de Le Loi y Hung Vuong. Ve a media mañana o al final de la tarde, pide un ca phe sua da con filtro phin o el popular café de crema salada, y calcula entre 45 y 60 minutos para sentarte, trabajar o observar a la gente. El precio ronda los 25.000–55.000 VND (entre 1 y 2,50 dólares) por bebida, en efectivo o por transferencia con código QR.
 faq:
   - q: ¿Cómo llego a PhinHolic desde el centro de Hue?

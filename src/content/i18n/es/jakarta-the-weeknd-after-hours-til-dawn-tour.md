@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: jakarta-the-weeknd-after-hours-til-dawn-tour
+srcHash: 0debf0c81ef9
 title: 'The Weeknd – After Hours Til Dawn Tour: lo que hay que saber (Yakarta)'
 description: The Weeknd – After Hours Til Dawn Tour en Yakarta, Indonesia — 26 y 27 de septiembre de 2026. Qué es, cuándo y dónde, y cómo organizar tu viaje.
 quickAnswer: 'The Weeknd lleva el AFTER HOURS TIL DAWN World Tour al Jakarta International Stadium (JIS) durante dos noches, del 26 al 27 de septiembre de 2026 — la primera parada del tour en el Sudeste Asiático. Trata ambas fechas como un solo evento a la hora de planificar: reserva vuelos y hotel para una estadía de varias noches en el norte de Yakarta, y confirma los horarios exactos de apertura de puertas, detalles del setlist y categorías de entradas en el sitio oficial del tour de The Weeknd o en Live Nation Indonesia antes de comprar, ya que nada de eso se ha confirmado públicamente todavía.'

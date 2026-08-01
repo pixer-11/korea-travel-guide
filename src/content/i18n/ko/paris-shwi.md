@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: paris-shwi
+srcHash: bc85219a5dfa
 title: 파리의 슈위(Shwi)
 description: 슈위(Shwi)는 쿠브리(Kubri) 팀이 선보이는 레바논식 그릴 치킨 전문점으로, 파리 10구 생마르탱 운하(Canal Saint-Martin)를 따라 자리하고 있다.
 quickAnswer: 슈위(Shwi)는 쿠브리(Kubri) 팀이 선보이는 레바논식 그릴 치킨 전문점으로, 파리 10구 생마르탱 운하(Canal Saint-Martin)를 따라 자리하고 있다. 2026년 봄에 문을 열었으며, 순식간에 운하변 점심 및 테이크아웃 명소로 자리 잡았다. 대기 시간을 줄이려면 평일에 방문하는 것이 좋고, 아직 오픈한 지 얼마 되지 않아 세부 정보가 바뀔 수 있으니 방문 전 현재 영업시간을 확인하는 것이 좋다.

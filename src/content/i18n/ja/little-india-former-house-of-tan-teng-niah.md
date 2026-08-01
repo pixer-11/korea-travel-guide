@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: little-india-former-house-of-tan-teng-niah
+srcHash: ec054712e74c
 title: タン・テン・ニア旧居:リトルインディア観光ガイド
 description: タン・テン・ニア旧居(Former House of Tan Teng Niah)は、Kerbau Road 37番地にある、リトルインディアに現存する唯一の中国式邸宅。1900年築の2階建て邸宅で、現在は鮮やかなパステルカラーに塗られています。
 quickAnswer: タン・テン・ニア旧居(Former House of Tan Teng Niah)は、Kerbau Road 37番地にある、リトルインディアに現存する唯一の中国式邸宅です。1900年に建てられた2階建ての邸宅で、現在は鮮やかなパステルカラーに彩られています。私有の商業用建物であり博物館ではないため、通りから無料で外観を眺めることができ、見学には15~20分ほどあれば十分。Kerbau Road を歩いてテッカセンター(Tekka Centre)やセラングーンロード(Serangoon Road)方面へ向かう散策と組み合わせるのがおすすめです。

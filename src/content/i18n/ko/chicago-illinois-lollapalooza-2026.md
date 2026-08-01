@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: chicago-illinois-lollapalooza-2026
+srcHash: b851b9be51de
 title: 2026 롤라팔루자(Lollapalooza) 완벽 가이드 (시카고)
 description: 2026 롤라팔루자는 7월 30일부터 8월 2일까지 시카고 그랜트 파크(Grant Park)에서 열리며, 헤드라이너로 찰리 XCX(Charli XCX), 로드(Lorde), 도자 캣(Doja Cat)이 출연합니다.
 quickAnswer: 2026 롤라팔루자는 7월 30일부터 8월 2일까지 시카고 그랜트 파크(Grant Park)에서 열리며, 헤드라이너로 찰리 XCX(Charli XCX), 로드(Lorde), 도자 캣(Doja Cat)이 출연합니다. 티켓 구매와 공연 시간 확인은 반드시 공식 롤라팔루자 사이트/앱이 공개된 후 그곳에서 하세요. 게이트 위치, 운영 시간, 라인업 시간대는 행사일이 가까워지면서 바뀔 수 있습니다. 운전보다는 루프(Loop)나 사우스 루프(South Loop) 인근에 숙소를 잡고 도보나 CTA를 이용해 그랜트 파크로 이동하는 것을 추천합니다.

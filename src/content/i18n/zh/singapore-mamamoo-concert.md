@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: singapore-mamamoo-concert
+srcHash: ac45865e331c
 title: MAMAMOO演唱会须知(新加坡)
 description: MAMAMOO预计将于2026年7月31日在新加坡室内体育馆(Singapore Indoor Stadium)演出。
 quickAnswer: MAMAMOO预计将于2026年7月31日在新加坡室内体育馆(Singapore Indoor Stadium)演出。本指南中尚未确认售票平台、开售日期和入场时间,因此在预订机票或酒店前,请务必通过场馆官方渠道或MAMAMOO官方粉丝/社交媒体页面核实所有信息。请提早抵达,规划好前往体育馆/加冷(Stadium/Kallang)的地铁路线,并做好准备与来自东南亚各地的K-pop歌迷共度充实的一晚。

@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: cappadocia-pigeon-valley
+srcHash: fa18d5d578e5
 title: '피전 밸리(비둘기 계곡): 카파도키아 여행 가이드'
 description: 피전 밸리(Güvercinlik Vadisi, 비둘기 계곡)는 우치사르(Uçhisar)와 괴레메(Göreme)를 이어주는 4~5km 구간의 완만하고 쉬운 트레일로, 부드러운 화산암을 깎아 만든 비둘기집들이 곳곳에 자리한 협곡을 지나갑니다.
 quickAnswer: 피전 밸리(Güvercinlik Vadisi, 비둘기 계곡)는 우치사르(Uçhisar)와 괴레메(Göreme)를 이어주는, 대체로 평탄하고 완만한 4~5km 트레일로, 부드러운 화산암을 깎아 만든 비둘기집들이 곳곳에 있는 협곡을 지나갑니다. 우치사르 성(Uçhisar Castle) 아래 전망 포인트나 괴레메 버스터미널 근처 입구에서 시작할 수 있으며, 편도로 1.5~2시간 정도 걸립니다. 더위와 투어버스 인파를 피하려면 아침 일찍이나 늦은 오후에 방문하는 것이 좋습니다.

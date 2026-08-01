@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: las-vegas-las-vegas-strip
+srcHash: f4ab8144cfb5
 title: 라스베가스 스트립(Las Vegas Strip) 여행 가이드
 description: 라스베가스 스트립은 만달레이 베이(Mandalay Bay)와 사하라/스트라토스피어(Sahara/Stratosphere) 지역 사이, 라스베가스 대로 사우스(Las Vegas Boulevard South)를 따라 4.2마일 이어지는 구간으로, 도시를 대표하는 명소들이 밀집해 있습니다.
 quickAnswer: 라스베가스 스트립은 만달레이 베이(Mandalay Bay)와 사하라/스트라토스피어(Sahara/Stratosphere) 지역 사이, 라스베가스 대로 사우스(Las Vegas Boulevard South)를 따라 4.2마일 이어지는 구간으로, 도시에서 가장 큰 카지노 리조트들과 각종 쇼, 그리고 벨라지오 분수(Bellagio Fountains)나 프리몬트 스타일의 네온사인 같은 무료 볼거리들로 가득합니다. 처음부터 끝까지 한 번에 걷기보다는 구간을 나눠 걷고, 멀리 떨어진 지점 사이는 모노레일이나 차량 공유 서비스를 이용하는 것이 좋습니다. 조명과 인파가 절정에 이르는 저녁 시간대 방문을 계획해보세요. 2~4일이면 서두르지 않고 주요 리조트와 쇼 한 편, 그리고 무료 명소 몇 곳을 둘러볼 수 있습니다.

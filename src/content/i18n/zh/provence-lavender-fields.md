@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: provence-lavender-fields
+srcHash: 2c627b97b3bf
 title: 薰衣草花田:普罗旺斯旅行指南
 description: 普罗旺斯薰衣草花期最佳观赏时间大约在6月中旬至8月初，7月下旬为盛花期，瓦伦索勒高原(Valensole Plateau)、索村(Sault)盆地以及博尼约(Bonnieux)与卢贝隆(Luberon)一带的花田是最值得信赖的观赏地点。
 quickAnswer: 普罗旺斯薰衣草花期最佳观赏时间大约在6月中旬至8月初，7月下旬为盛花期，瓦伦索勒高原(Valensole Plateau)、索村(Sault)盆地以及博尼约(Bonnieux)与卢贝隆(Luberon)一带的花田是最值得信赖的观赏地点。建议选择清晨(7-9点)或日落前的黄金时刻前往，光线与气温都更为理想；由于花田散布在乡间的D级公路沿线、没有火车可达，建议租车前往。

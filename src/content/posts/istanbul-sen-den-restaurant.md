@@ -1,6 +1,6 @@
 ---
 title: Sen'den Restaurant in Istanbul
-description: Sen'den is a newly opened restaurant in Karaköy, set inside the restored 19th-century Hovagimyan Han, pairing historic Ottoman-era architecture with a
+description: Sen'den is a newly opened restaurant in Karaköy, set inside the restored 19th-century Hovagimyan Han, pairing historic Ottoman-era architecture with a modern, refined dining concept.
 country: Turkey
 region: Istanbul
 category: trendy

@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: kuala-lumpur-volume
+srcHash: 894d0fff1b85
 title: Volume：吉隆坡旅行指南
 description: Volume 位于马来西亚吉隆坡（Kuala Lumpur）——一处新晋热门去处：它是什么、位于何处，以及如何前往。
 quickAnswer: Volume 是巴生谷（Klang Valley）一带的一家聆听酒吧（listening bar）兼咖啡馆，店内以一整面墙、约400张黑胶唱片，以及从白天咖啡时段延续到夜晚的 DJ 精选音乐为核心。来这里主要是为了音响系统和那面唱片墙，而不是为了固定菜单——这是一个可以点杯咖啡或饮品坐下来，真正静心聆听的地方。前往之前请务必确认最新营业时间以及是否需要预约，因为像这样刚开业不久的地方，各项细节变动很快。

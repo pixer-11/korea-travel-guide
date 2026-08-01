@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: nice-finish-various-french-stages-tour-de-france-femmes-avec-zwift
+srcHash: 7ee74a88d8fb
 title: '투르 드 프랑스 페름 아베크 즈위프트: 니스 관전 가이드'
 description: 2026 투르 드 프랑스 페름 아베크 즈위프트(Tour de France Femmes avec Zwift)는 8월 1일부터 9일까지 열리며, 스위스 로잔에서 그랑 데파르(Grand Départ)로 시작해 몽 방투(Mont Ventoux) 정상 스테이지를 거쳐 니스에서 대미를 장식합니다.
 quickAnswer: 2026 투르 드 프랑스 페름 아베크 즈위프트는 8월 1일부터 9일까지 열리며, 스위스 로잔(Lausanne)에서 그랑 데파르(Grand Départ)로 시작해 몽 방투(Mont Ventoux) 정상 스테이지를 거친 뒤 니스(Nice)의 프롬나드 데 장글레(Promenade des Anglais)에서 대미를 장식합니다. 관람은 도로변에서 무료로 가능합니다 — 극적인 분위기와 긴 기다림을 원한다면 산악 스테이지(방투)를, 접근이 쉽고 축제 분위기 속에서 짧게 관람하고 싶다면 니스 피니시를 선택하세요. 정확한 시간과 도로변 관람 지점은 대회 몇 주 전에야 공개되므로, 경기일이 가까워지면 투르 드 프랑스 페름 공식 웹사이트에서 일자별 경로와 참가 선수 명단을 반드시 확인하세요.

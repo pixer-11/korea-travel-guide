@@ -1,6 +1,6 @@
 ---
 title: Gloria Osteria in Barcelona
-description: Gloria Osteria is the Barcelona debut of Big Mamma, the French-Italian restaurant group known for turning classic osteria dining into a design-forward
+description: Gloria Osteria is the Barcelona debut of Big Mamma, the French-Italian restaurant group known for turning classic osteria dining into a design-forward, high-energy event.
 country: Spain
 region: Barcelona
 category: trendy

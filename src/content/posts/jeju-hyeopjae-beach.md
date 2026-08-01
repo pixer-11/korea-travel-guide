@@ -1,8 +1,6 @@
 ---
 title: 'Hyeopjae Beach: Jeju Travel Guide'
-description: >-
-  Hyeopjae Beach, on Jeju's northwest coast in Hallim-eup, is a shallow,
-  turquoise-watered bay backed by white sand and pine trees, with clear views of
+description: Hyeopjae Beach, on Jeju's northwest coast in Hallim-eup, is a shallow, turquoise-watered bay backed by white sand and pine trees, with clear views of Biyangdo Island offshore.
 country: South Korea
 region: Jeju
 category: attraction

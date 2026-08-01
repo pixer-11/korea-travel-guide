@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: new-orleans-jackson-square
+srcHash: 81964d044535
 title: 'Jackson Square: Guía de viaje de Nueva Orleans'
 description: 'Jackson Square es el corazón histórico del Barrio Francés (French Quarter): un parque vallado construido en 1721 y enmarcado por la Catedral de San Luis.'
 quickAnswer: 'Jackson Square es el corazón histórico del Barrio Francés (French Quarter): un parque vallado construido en 1721 y enmarcado por la Catedral de San Luis (St. Louis Cathedral), el Cabildo y los edificios Pontalba. Es gratis pasear por el parque en cualquier momento en que las puertas estén abiertas (aproximadamente desde primera hora de la mañana hasta el anochecer), y suele estar muy concurrido casi todo el día, así que si quieres verlo sin multitudes, ve durante la primera hora tras el amanecer. Calcula entre 45 minutos y una hora para recorrer la plaza en sí, más tiempo si te detienes con algún retratista o alguna vidente.'

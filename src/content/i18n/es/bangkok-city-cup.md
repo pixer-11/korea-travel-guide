@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: bangkok-city-cup
+srcHash: 2d7a05a1d510
 title: 'City Cup: Guía de viaje de Bangkok'
 description: 'City Cup en Bangkok, Tailandia — un lugar nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: 'City Cup es una pequeña cafetería en el piso 11 de la SSP Tower 2, en Khlong Toei, Bangkok — a la que se llega mediante el ascensor de un edificio de oficinas sin ningún letrero, en lugar de un local a pie de calle — muy apreciada por unas vistas del horizonte que la mayoría de los visitantes de la ciudad nunca llega a descubrir. No hay un "mejor horario" publicado, así que conviene tratarlo como un lugar para la hora dorada y la hora azul: ve durante la última hora antes del atardecer y quédate hasta que se enciendan las luces de la ciudad. Confirma el horario de apertura actual y si se necesita reserva o un pedido mínimo antes de ir, ya que el acceso a través del edificio puede ser limitado.'

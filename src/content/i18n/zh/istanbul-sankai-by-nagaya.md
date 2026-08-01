@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: istanbul-sankai-by-nagaya
+srcHash: ee7c1d1d1186
 title: Sankai by Nagaya：伊斯坦布尔旅行指南
 description: Sankai by Nagaya 位于土耳其伊斯坦布尔，是当地新兴的热门去处：这里介绍它是什么、地址在哪，以及如何前往品尝。
 quickAnswer: Sankai by Nagaya 是一家日式 omakase（主厨发办）料理吧台，坐落在伊斯坦布尔博斯普鲁斯海峡沿岸的贝贝克（Bebek）街区的 Bebek Hotel by The Stay 酒店内，由米其林星级主厨永谷佳纯（Yoshizumi Nagaya）主理。这里更像是一场精雕细琢的小型用餐体验，而非随到随吃的餐厅——请务必提前预订，并在出发前直接向酒店确认当前的营业时间与用餐时段，因为这一新概念仍在完善中，相关细节可能有所变动。

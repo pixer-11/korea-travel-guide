@@ -1,6 +1,6 @@
 ---
 title: "Hadrian's Gate: Antalya Travel Guide"
-description: "Hadrian's Gate (Üçkapılar) sits on Atatürk Caddesi in Antalya's old town, Kaleiçi, right where the modern boulevard meets the ancient walls — a three-arched"
+description: Hadrian's Gate (Üçkapılar) sits on Atatürk Caddesi in Antalya's old town, Kaleiçi, right where the modern boulevard meets the ancient walls — a three-arched Roman gate built around 130 AD for Emperor Hadrian's visit.
 country: "Turkey"
 region: "Antalya"
 category: "hidden-gem"

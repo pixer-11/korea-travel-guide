@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: manila-rizal-park
+srcHash: 90e2c252ee9f
 title: 黎刹公园(Rizal Park):马尼拉旅行指南
 description: 黎刹公园(Rizal Park，即黎刹公园/Luneta)每日5:00–22:00开放,最佳游览时间是工作日的7点到11点之间,此时草坪几乎空无一人,暑热也还未升起。
 quickAnswer: 黎刹公园(Rizal Park，即Luneta)每日5:00–22:00开放,最佳游览时间是工作日早上7点到11点之间,此时草坪几乎空无一人,暑热也还未升起。建议以黎刹纪念碑(Rizal Monument)和换岗仪式为核心安排行程,然后漫步至中式花园和日式花园,以及隔壁的国家博物馆(National Museum)建筑群。避免在周末下午4点后才到访,那时公园会最快被家庭游客和小贩挤满。

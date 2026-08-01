@@ -1,6 +1,6 @@
 ---
 title: 'Fuglen: Tokyo Travel Guide'
-description: Fuglen Tokyo is a Norwegian-import café-bar in the Tomigaya area of Shibuya, near Yoyogi Park, known for third-wave coffee and Nordic pastries by day and
+description: Fuglen Tokyo is a Norwegian-import café-bar in the Tomigaya area of Shibuya, near Yoyogi Park, known for third-wave coffee and Nordic pastries by day and inventive cocktails by night.
 country: Japan
 region: Tokyo
 category: trendy

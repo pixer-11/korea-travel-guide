@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: ha-long-bay-sung-sot-cave
+srcHash: cd6e011afd12
 title: 惊讶洞（Sung Sot Cave）：下龙湾旅行指南
 description: 惊讶洞（Sung Sot，又译"金鸡洞"）位于下龙湾博宏岛（Bo Hon Island）上，是下龙湾内规模最大、游客最多的洞穴——只能乘船抵达，通常是一日游或过夜帆船（junk）行程中的一站。
 quickAnswer: 惊讶洞（Sung Sot Cave）位于下龙湾博宏岛（Bo Hon Island）上，是下龙湾内规模最大、游客最多的洞穴——只能乘船抵达，通常是一日游船或过夜帆船（junk）行程中的一站。建议预留45-60分钟时间，步行穿过由灯光照明的石阶连接的两个洞室，最好选择清晨或傍晚前往，以避开旅行团人潮。它几乎包含在每一张下龙湾游船票中，因此通常不需要单独购票。

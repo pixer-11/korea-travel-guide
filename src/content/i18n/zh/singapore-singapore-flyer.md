@@ -1,8 +1,9 @@
 ---
 lang: zh
 slug: singapore-singapore-flyer
+srcHash: 752656e3a591
 title: 新加坡摩天观景轮：旅行指南
-description: 新加坡摩天观景轮（Singapore Flyer）是滨海湾（Marina Bay）拉弗士大道（Raffles Avenue）上一座165米高的观景摩天轮，可360度俯瞰滨海湾金沙的天际线
+description: 新加坡摩天观景轮（Singapore Flyer）是滨海湾（Marina Bay）拉弗士大道（Raffles Avenue）上一座165米高的观景摩天轮，可360度饱览滨海湾金沙的天际线、大草场（Padang），天气晴朗时甚至能眺望海峡对岸的印度尼西亚。
 quickAnswer: 新加坡摩天观景轮（Singapore Flyer）是滨海湾（Marina Bay）拉弗士大道（Raffles Avenue）上一座165米高的观景摩天轮，可360度饱览滨海湾金沙的天际线、大草场（Padang），天气晴朗时甚至能眺望海峡对岸的印度尼西亚。转完一整圈大约需要30分钟，标准票在傍晚较晚和上午较晚时段相对清静，而这里确实游人如织，所以最好提前在网上预订指定时段的门票，并尽量选在工作日上午或日落前一刻前往，以避开人流高峰。
 faq:
   - q: 新加坡摩天观景轮的乘坐时间有多长？

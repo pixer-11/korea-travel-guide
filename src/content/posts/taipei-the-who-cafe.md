@@ -1,6 +1,6 @@
 ---
 title: 'The Who Cafe: Taipei Travel Guide'
-description: The Who Cafe is a plant-filled, two-storey coffeehouse tucked up a stairwell on Lishui Street in Da'an District, a five-minute walk from Dongmen MRT (Exit 5
+description: The Who Cafe is a plant-filled, two-storey coffeehouse tucked up a stairwell on Lishui Street in Da'an District, a five-minute walk from Dongmen MRT (Exit 5, Lines 3 and 6).
 country: Taiwan
 region: Taipei
 category: trendy

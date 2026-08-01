@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: phuket-green-elephant-sanctuary-park
+srcHash: 02815bb81450
 title: Green Elephant Sanctuary Park：普吉岛旅游指南
 description: Green Elephant Sanctuary Park 位于普吉岛西北部 Cherngtalay，靠近 Bang Tao 和 Layan 海滩，提供半天的伦理象体验活动。
 quickAnswer: Green Elephant Sanctuary Park 位于普吉岛西北部的 Cherngtalay，靠近 Bang Tao 和 Layan 海滩，提供半天的伦理象体验（喂食、散步、泥浴，不骑象），而非走马观花式的拍照打卡。建议提前直接通过园方预订上午或下午场次，穿上不怕弄脏的衣服，并预留大约 3 小时（含从西海岸大多数度假区往返的交通时间）。

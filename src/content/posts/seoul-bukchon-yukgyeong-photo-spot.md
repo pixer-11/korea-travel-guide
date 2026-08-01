@@ -1,6 +1,6 @@
 ---
 title: "Bukchon Yukgyeong (Photo Spot): Seoul Travel Guide"
-description: Bukchon Yukgyeong ("Six Scenic Views of Bukchon") is a self-guided walking route through Bukchon Hanok Village's steep alleys in Jongno District, with
+description: Bukchon Yukgyeong ("Six Scenic Views of Bukchon") is a self-guided walking route through Bukchon Hanok Village's steep alleys in Jongno District, with "View 6," on Gahoe-dong's hillside lanes (31-48 Gahoe-dong), the single most-photographed spot — a narrow stone alley framed by curved tiled hanok roofs with Namsan Tower visible in the distance.
 country: South Korea
 region: Seoul
 category: attraction

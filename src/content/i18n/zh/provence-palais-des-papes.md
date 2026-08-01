@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: provence-palais-des-papes
+srcHash: 7fae97514c1f
 title: 教皇宫：普罗旺斯旅行指南
 description: 教皇宫（Palais des Papes）坐落在阿维尼翁（Avignon）老城中心的教皇宫广场（Place du Palais），从圣贝内泽桥（Pont Saint-Bénézet）和火车站经共和门（Porte de la République）步行仅需五分钟。
 quickAnswer: 教皇宫坐落在阿维尼翁老城中心的教皇宫广场，从圣贝内泽桥和火车站经共和门步行仅需五分钟。建议在开门时段（通常为上午9点）或闭馆前两小时前往，以避开旅游大巴人潮，游览对外开放的25个房间大约需要预留90分钟到两小时。这里是世界上最大的哥特式宫殿，评分4.5，评论数超过52,000条，所以人多是常态——与其期望完全避开人群，不如提前规划错峰时间。

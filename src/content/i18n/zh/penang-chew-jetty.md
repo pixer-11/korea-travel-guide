@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: penang-chew-jetty
+srcHash: a9f3ee47369d
 title: 周氏桥(Chew Jetty):槟城旅游指南
 description: 周氏桥(Chew Jetty)是槟城乔治市(Georgetown)一处建于19世纪、悬于水面之上的高脚屋聚落,是对外开放的姓氏桥之一——建议早晨(9点前)或傍晚5点后前往,以避开人潮。
 quickAnswer: 周氏桥(Chew Jetty)是槟城乔治市(Georgetown)一处建于19世纪、悬于水面之上的高脚屋聚落,是对外开放的姓氏桥之一——这里游客较多,建议尽量选在清晨(9点前)或傍晚5点后前往,此时一日游旅游大巴的人潮会减少。参观免费,大约需要30-45分钟,从乔治市的世界遗产核心区往南步行10分钟即可轻松抵达。

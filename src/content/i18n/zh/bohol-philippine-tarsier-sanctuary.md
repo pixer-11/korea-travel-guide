@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: bohol-philippine-tarsier-sanctuary
+srcHash: a965d047a32d
 title: 菲律宾眼镜猴保护区：薄荷岛旅行指南
 description: 位于科雷利亚（Corella）的菲律宾眼镜猴保护区，距塔比拉兰市（Tagbilaran City）约20-25分钟车程，是在薄荷岛近距离观赏野生眼镜猴最可靠的地方。
 quickAnswer: 位于科雷利亚（Corella）的菲律宾眼镜猴保护区，距塔比拉兰市（Tagbilaran City）约20-25分钟车程，是在薄荷岛近距离观赏野生眼镜猴最可靠的地方——眼镜猴生活在受保护的森林中，而非笼子里。建议预留45分钟到1小时游览时间，最好一大早前往，此时动物压力最小、森林也最凉爽，还可以将行程与巧克力山（Chocolate Hills）和洛博河（Loboc River）环线结合，因为它们都位于同一条内陆路线上。

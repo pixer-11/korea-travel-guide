@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: mumbai-seasee
+srcHash: 5c7cfa544d14
 title: 'Seasee: dónde comer en Mumbai'
 description: 'Seasee en Mumbai, India — un lugar nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: 'Seasee es una cocina de comida callejera del sudeste asiático en Bandra, Mumbai, del equipo detrás de Mirai, centrada en sabores tailandeses, indonesios y malasios: piensa en Tom Yum, ensalada tailandesa de mango y un Singapore Chilli Crab Lajiao, además de una estación de wok en vivo que se puede ver desde la barra. Es mejor tratarlo como un destino para cenar en la franja gastronómica de Bandra; ve entre semana si quieres conseguir mesa sin una espera larga, y confirma el horario actual y las reservas antes de ir, ya que los detalles pueden cambiar en un local recién inaugurado.'

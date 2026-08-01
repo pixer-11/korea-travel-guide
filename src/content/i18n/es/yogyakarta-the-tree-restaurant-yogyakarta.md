@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: yogyakarta-the-tree-restaurant-yogyakarta
+srcHash: 881156d5cbdd
 title: 'The Tree Restaurant: dónde comer en Yogyakarta'
-description: The Tree Restaurant Yogyakarta es un tranquilo rincón gastronómico entre jardines en la aldea de Sambirejo, distrito de Prambanan, a unos 25-30 minutos en coche al este del centro
+description: The Tree Restaurant Yogyakarta es un tranquilo rincón gastronómico entre jardines en la aldea de Sambirejo, distrito de Prambanan, a unos 25-30 minutos en coche al este del centro de Yogyakarta y a pocos minutos del Templo de Prambanan.
 quickAnswer: The Tree Restaurant Yogyakarta es un tranquilo rincón gastronómico entre jardines en la aldea de Sambirejo, distrito de Prambanan, a unos 25-30 minutos en coche al este del centro de Yogyakarta y a pocos minutos del Templo de Prambanan. Lo mejor es verlo como una parada relajada para almorzar antes o después de visitar el complejo del templo, no como un destino en sí mismo, ya que queda bastante alejado del centro de la ciudad. Con una calificación de 4.8 basada en más de 130 reseñas, premia a los viajeros dispuestos a desviarse un poco de la ruta típica de templo y taxi.
 faq:
   - q: ¿A qué distancia está The Tree Restaurant Yogyakarta del centro de la ciudad?

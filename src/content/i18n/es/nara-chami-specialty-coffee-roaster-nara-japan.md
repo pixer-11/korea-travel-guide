@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: nara-chami-specialty-coffee-roaster-nara-japan
+srcHash: 32dd2d8b29a3
 title: 'CHAMI - Tostador de Café de Especialidad - Nara, JAPÓN: Guía de Viaje'
-description: CHAMI es un tostador de café de especialidad en el casco antiguo de Nara, a poca distancia del Parque de Nara (Nara Park) y la estación Yanagi-Chaya, conocido por sus cafés de origen único preparados en pour-over y su
+description: CHAMI es un tostador de café de especialidad en el casco antiguo de Nara, a poca distancia del Parque de Nara (Nara Park) y la estación Yanagi-Chaya (Yanagi-Chaya Station), conocido por sus cafés de origen único preparados en pour-over y por un espacio minimalista y de diseño cuidado.
 quickAnswer: CHAMI es un tostador de café de especialidad en el casco antiguo de Nara, a poca distancia del Parque de Nara (Nara Park) y la estación Yanagi-Chaya (Yanagi-Chaya Station), conocido por sus cafés de origen único preparados en pour-over y por un espacio minimalista y de diseño cuidado. Conviene ir un día laborable por la mañana para evitar colas, calcular entre 30 y 45 minutos de visita, y combinarlo con un paseo por el cercano distrito comercial de Naramachi. Normalmente aceptan efectivo y tarjeta, pero conviene confirmar el horario antes de ir, ya que los tostadores a veces cierran por días dedicados al tostado.
 faq:
   - q: ¿Cómo llego a CHAMI desde el centro de Nara?

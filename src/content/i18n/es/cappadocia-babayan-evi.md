@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: cappadocia-babayan-evi
+srcHash: 60fff36cb9d7
 title: Babayan Evi en Capadocia
-description: Babayan Evi es un restaurante tradicional capadocio que hizo historia en la primera Guía Michelin de la región (2026), obteniendo tanto un Bib Gourmand (excelente
+description: Babayan Evi es un restaurante tradicional capadocio que hizo historia en la primera Guía Michelin de la región (2026), obteniendo tanto un Bib Gourmand (buena comida a precios moderados) como una Estrella Verde (reconocimiento a una cocina sostenible y arraigada al terruño).
 quickAnswer: Babayan Evi es un restaurante tradicional capadocio que hizo historia en la primera Guía Michelin de la región (2026), obteniendo tanto un Bib Gourmand (buena comida a precios moderados) como una Estrella Verde (reconocimiento a una cocina sostenible y arraigada al terruño). Vale la pena buscarlo por sus generosos platos regionales de estilo casero, elaborados con productos locales en lugar de la típica oferta para turistas, pero conviene reservar con antelación, ya que el reconocimiento Michelin suele llenar las mesas rápidamente, y confirmar el horario actual antes de ir.
 faq:
   - q: ¿Necesito reserva en Babayan Evi?

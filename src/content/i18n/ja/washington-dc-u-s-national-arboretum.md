@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: washington-dc-u-s-national-arboretum
+srcHash: 3d45505981a9
 title: 米国国立樹木園:ワシントンDC旅行ガイド
 description: ワシントンDC北東部、3501 New York Ave NEにある米国国立樹木園(U.S. National Arboretum)は、22本の移設されたコリント式列柱で知られる無料の446エーカーの研究庭園です。
 quickAnswer: ワシントンDC北東部、3501 New York Ave NEにある米国国立樹木園(U.S. National Arboretum)は、22本の移設されたコリント式列柱と世界的に有名な国立盆栽盤景博物館(National Bonsai & Penjing Museum)で知られる無料の446エーカーの研究庭園です。少なくとも2〜3時間、できれば平日の午前中に訪れる時間を確保し、Metro駅から歩ける距離ではないので車か自転車を用意しましょう。6,000件以上のレビューで4.7の評価を獲得しており、ワシントンDCで無料で楽しめる最高のスポットの一つと言えますが、貸切気分は期待しない方がいいでしょう。

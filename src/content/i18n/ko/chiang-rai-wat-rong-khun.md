@@ -1,8 +1,9 @@
 ---
 lang: ko
 slug: chiang-rai-wat-rong-khun
+srcHash: 5c834cbcbb3f
 title: '왓 롱쿤: 치앙라이 여행 가이드'
-description: 화이트 템플(White Temple)로 더 잘 알려진 왓 롱쿤(Wat Rong Khun)은 치앙라이(Chiang Rai) 시내에서 방콕 방면으로 약 13km(차로 20~25분) 떨어진 곳에 있으며, 방문 시기는
+description: 화이트 템플(White Temple)로 더 잘 알려진 왓 롱쿤(Wat Rong Khun)은 치앙라이(Chiang Rai) 시내에서 방콕 방면 도로를 따라 남쪽으로 약 13km(차로 20~25분) 떨어진 곳에 있으며, 관광버스가 몰려들기 전인 개장 직후(오전 8시경)에 방문하는 것이 가장 좋습니다.
 quickAnswer: 화이트 템플(White Temple)로 더 잘 알려진 왓 롱쿤(Wat Rong Khun)은 치앙라이(Chiang Rai) 시내에서 방콕 방면 도로를 따라 남쪽으로 약 13km(차로 20~25분) 떨어진 곳에 있으며, 관광버스가 몰려들기 전인 개장 직후(오전 8시경)에 방문하는 것이 가장 좋습니다. 거울로 장식된 "윤회의 다리(Cycle of Rebirth)"를 건너고, 우보솟(Ubosot)의 벽화를 감상하고, 황금빛 화장실 건물과 기념품점을 둘러보는 데 1~1.5시간 정도를 잡아두세요. 어깨와 무릎을 가리는 단정한 복장이 필수이며, 이곳은 오래된 유적이 아니라 예술가 찰름차이 코싯피팟(Chalermchai Kositpipat)이 지금도 계속 발전시키고 있는 살아있는 예술 프로젝트입니다.
 faq:
   - q: 치앙라이 시내에서 왓 롱쿤까지는 어떻게 가나요?

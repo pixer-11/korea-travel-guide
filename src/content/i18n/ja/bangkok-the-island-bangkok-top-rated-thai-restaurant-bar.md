@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: bangkok-the-island-bangkok-top-rated-thai-restaurant-bar
+srcHash: ea320bf29b37
 title: The Island Bangkok(ジ・アイランド・バンコク)高評価タイ料理店&バー:食事のおすすめスポット
 description: The Island Bangkokは、バンラムプー(Banglamphu)/プラナコーン(Phra Nakhon)エリアのソイ・サムセン4(Soi Samsen 4)にひっそりと佇む高評価のタイ料理店&バーで、カオサン通り(Khao San Road)や川からも徒歩圏内です。
 quickAnswer: The Island Bangkokは、バンラムプー(Banglamphu)/プラナコーン(Phra Nakhon)エリアのソイ・サムセン4(Soi Samsen 4)にひっそりと佇む高評価のタイ料理店&バーで、カオサン通り(Khao San Road)や川からも徒歩圏内です。ガーデン風のリラックスした雰囲気の中、定番のタイ料理とカクテルを楽しめ、しっかり食事をするなら1.5~2時間を見ておくとよいでしょう。地元の人にも観光客にも人気で、14,600件以上のレビューで評価4.9という圧倒的な支持を集めているため、週末の夜は事前予約するか早めに来店するのがおすすめです。

@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: bilbao-guggenheim-museum-bilbao
+srcHash: e6f27ae83239
 title: 古根海姆博物馆:毕尔巴鄂旅行指南
 description: 毕尔巴鄂古根海姆博物馆(Guggenheim Museum Bilbao)坐落在阿班多伊巴拉(Abandoibarra)滨河步道上,最好选在开馆时分或工作日傍晚前往,以避开旅游大巴带来的人潮。
 quickAnswer: 毕尔巴鄂古根海姆博物馆坐落在阿班多伊巴拉滨河步道上,最好选在开馆时分或工作日傍晚前往,以避开旅游大巴带来的人潮。参观常设展加上馆外杰夫·昆斯(Jeff Koons)的《小狗》(Puppy)和路易丝·布尔乔亚(Louise Bourgeois)的巨型蜘蛛雕塑《妈妈》(Maman),建议预留两到三个小时。请务必提前在网上预订指定时段的门票——这是西班牙参观人数最多的博物馆之一,中午时段现场排队购票的队伍可能很长。

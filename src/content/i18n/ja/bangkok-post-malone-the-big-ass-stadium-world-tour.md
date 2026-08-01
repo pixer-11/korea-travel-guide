@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: bangkok-post-malone-the-big-ass-stadium-world-tour
+srcHash: 031200e249fc
 title: ポスト・マローン「The BIG ASS Stadium World Tour」バンコク公演:知っておきたいこと
 description: ポスト・マローンが2026年9月22日、バンコクのラチャマンガラ国立競技場(Rajamangala National Stadium)で「The BIG ASS Stadium World Tour」を開催。3年ぶりとなるバンコク公演です。
 quickAnswer: ポスト・マローンが2026年9月22日、バンコクのラチャマンガラ国立競技場(Rajamangala National Stadium)で「The BIG ASS Stadium World Tour」を開催します。3年ぶりとなるバンコク公演です。この規模のスタジアム公演では、開場は本編開始の数時間前となるのが通例なので、早めの到着を心がけましょう。エアポート・レールリンク(Airport Rail Link)またはMRTでフアマーク(Hua Mak)駅まで行き、正確な開場時間・チケット区分・サポートアクトの有無については、渡航前に公式ツアーサイトやチケット販売サイトで必ず確認してください。

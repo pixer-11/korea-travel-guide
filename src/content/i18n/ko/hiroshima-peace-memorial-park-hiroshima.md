@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: hiroshima-peace-memorial-park-hiroshima
+srcHash: da90253f6c92
 title: '평화기념공원: 히로시마 여행 가이드'
 description: 평화기념공원(Peace Memorial Park)은 히로시마 중심부의 삼각주에 자리하고 있으며, 히로시마역(Hiroshima Station)에서 노면전차로 15분 거리에 있습니다.
 quickAnswer: 평화기념공원은 히로시마 중심부의 삼각주에 자리하고 있으며, 히로시마역에서 노면전차로 15분 거리에 있습니다. 공원 내부를 둘러보고 강 건너 원폭 돔(Atomic Bomb Dome)을 보고 평화기념자료관(Peace Memorial Museum)까지 방문하려면 2~3시간 정도 계획하는 것이 좋습니다. 단체 관광객 인파와 여름 더위를 피하려면 이른 아침이나 늦은 오후에 방문하세요. 공원 자체는 무료 입장이며 연중 개방됩니다.
@@ -27,9 +28,9 @@ faq:
 
 ## 볼거리
 
-**원폭 돔(Genbaku Dome)**에서 시작해 보세요. 옛 히로시마현 산업장려관(Hiroshima Prefectural Industrial Promotion Hall) 건물의 앙상한 잔해로, 1945년 당시 모습 그대로 보존되어 있으며 1996년 유네스코 세계문화유산으로 지정되었습니다. 공원 본체와는 강을 사이에 두고 모토야스 다리(Motoyasu Bridge)로 연결되어 있습니다. 다리를 건너 공원 남쪽으로 들어서면, 1964년부터 꺼지지 않고 타오르고 있으며 지구상의 모든 핵무기가 사라져야만 꺼지게 될 **평화의 불꽃(Peace Flame)**과, 단게 겐조(Kenzo Tange)가 설계해 뒤에 서면 평화의 불꽃과 원폭 돔이 한 시선 안에 겹쳐 보이도록 만든 아치형 **원폭 희생자 위령비(Cenotaph for the A-bomb Victims)**를 지나게 됩니다.
+**원폭 돔**(Genbaku Dome)에서 시작해 보세요. 옛 히로시마현 산업장려관(Hiroshima Prefectural Industrial Promotion Hall) 건물의 앙상한 잔해로, 1945년 당시 모습 그대로 보존되어 있으며 1996년 유네스코 세계문화유산으로 지정되었습니다. 공원 본체와는 강을 사이에 두고 모토야스 다리(Motoyasu Bridge)로 연결되어 있습니다. 다리를 건너 공원 남쪽으로 들어서면, 1964년부터 꺼지지 않고 타오르고 있으며 지구상의 모든 핵무기가 사라져야만 꺼지게 될 **평화의 불꽃**(Peace Flame)과, 단게 겐조(Kenzo Tange)가 설계해 뒤에 서면 평화의 불꽃과 원폭 돔이 한 시선 안에 겹쳐 보이도록 만든 아치형 **원폭 희생자 위령비**(Cenotaph for the A-bomb Victims)를 지나게 됩니다.
 
-그 근처에는 사사키 사다코(Sadako Sasaki)와 원폭으로 희생된 어린이들을 기리는 **원폭 어린이상(Children's Peace Monument)**이 있습니다. 이 주변을 둘러싼 접은 종이학들은 전 세계 학교에서 보내온 것으로, 주기적으로 새로 교체됩니다. 공원 남쪽 끝에 있는 **평화기념자료관(Peace Memorial Museum)**에는 원폭 관련 유물과 사진, 개인들의 증언이 전시되어 있으며 그날의 사건을 이해하는 데 반드시 필요한 곳으로 여겨집니다. 전시만 둘러보는 데도 60\~90분은 잡아야 합니다. 바로 옆에 있는 **국립 히로시마 원폭사몰자 추도평화기념관(National Peace Memorial Hall for the Atomic Bomb Victims)**은 좀 더 조용한 무료 공간으로, 파괴된 도시의 360도 파노라마 부조와 희생자 명부를 볼 수 있습니다.
+그 근처에는 사사키 사다코(Sadako Sasaki)와 원폭으로 희생된 어린이들을 기리는 **원폭 어린이상**(Children's Peace Monument)이 있습니다. 이 주변을 둘러싼 접은 종이학들은 전 세계 학교에서 보내온 것으로, 주기적으로 새로 교체됩니다. 공원 남쪽 끝에 있는 **평화기념자료관**(Peace Memorial Museum)에는 원폭 관련 유물과 사진, 개인들의 증언이 전시되어 있으며 그날의 사건을 이해하는 데 반드시 필요한 곳으로 여겨집니다. 전시만 둘러보는 데도 60\~90분은 잡아야 합니다. 바로 옆에 있는 **국립 히로시마 원폭사몰자 추도평화기념관**(National Peace Memorial Hall for the Atomic Bomb Victims)은 좀 더 조용한 무료 공간으로, 파괴된 도시의 360도 파노라마 부조와 희생자 명부를 볼 수 있습니다.
 
 ## 언제 갈까
 

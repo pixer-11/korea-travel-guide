@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: kuala-lumpur-kapitan-s-club
+srcHash: 687c5a470a21
 title: 'Kapitan''s Club en Kuala Lumpur: guía para visitantes'
 description: 'Kapitan''s Club en Kuala Lumpur, Malasia — un local nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Kapitan's Club es un restaurante de inspiración Straits/Peranakan recién inaugurado dentro del edificio patrimonial Yap Ah Shak House, en Chow Kit, Kuala Lumpur — un enclave gastronómico conocido por combinar la arquitectura de las antiguas casas-tienda (shophouses) con conceptos culinarios contemporáneos. Es un lugar pensado para una cena elegante y sin prisas, más que para un bocado rápido, y conviene reservar con antelación, ya que se trata de una apertura reciente que está generando mucho interés. Confirma directamente con el restaurante el horario actual, la política de reservas y el menú antes de tu visita, ya que estos detalles pueden cambiar durante los primeros meses de funcionamiento de un local.

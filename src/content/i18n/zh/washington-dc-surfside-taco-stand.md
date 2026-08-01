@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: washington-dc-surfside-taco-stand
+srcHash: 71e8cce395d2
 title: Surfside Taco Stand：华盛顿特区美食指南
 description: Surfside Taco Stand 是位于杜邦圆环（Dupont Circle）1800 N St NW 的一家明亮的自助式墨西哥快餐店，24小时营业，以塔可饼和玛格丽特闻名。
 quickAnswer: Surfside Taco Stand 是位于杜邦圆环（Dupont Circle）1800 N St NW 的一家明亮的自助式墨西哥快餐店，24小时营业，以物美价廉的塔可饼和玛格丽特闻名。如果想避开人群独享空间，建议工作日早上7点到9点前往（周末则是下午1点前）；尽量避开周六、周日下午到晚上（16:00–23:00）的时段，那时店里会非常拥挤。柜台用餐大约预留30-45分钟，如果打算坐下来慢慢享用玛格丽特，则需要更久。

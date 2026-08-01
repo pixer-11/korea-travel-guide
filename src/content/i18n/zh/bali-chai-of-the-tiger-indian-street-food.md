@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: bali-chai-of-the-tiger-indian-street-food
+srcHash: 8d5c91ac4d18
 title: CHAI OF THE TIGER(印度街头小吃):巴厘岛美食指南
 description: CHAI OF THE TIGER 是位于佩利亚坦(Peliatan)特贝萨亚(Tebesaya)的一家印度街头小吃小店(乌布市中心东南方不远处),供应恰特(chaat)、卡蒂卷(kathi roll)和印度香料奶茶(masala chai),氛围随性、不拘小节。
 quickAnswer: CHAI OF THE TIGER 是位于佩利亚坦(Peliatan)特贝萨亚(Tebesaya)的一家印度街头小吃小店(乌布市中心东南方不远处),供应恰特(chaat)、卡蒂卷(kathi roll)和印度香料奶茶(masala chai),氛围随性、不拘小节。它凭借近800条评价获得4.6分的好评,却始终没有沦为游客扎堆的打卡地,建议选在午餐或早一点的晚餐时段前往;菜单以经典印度街头小吃为主,而非丰盛的咖喱大餐,即便店里支持刷卡,也最好随身带些现金备用。

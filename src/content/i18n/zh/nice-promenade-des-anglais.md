@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: nice-promenade-des-anglais
+srcHash: e8dd38e64e8f
 title: 英国人漫步大道：尼斯旅行指南
 description: 英国人漫步大道（Promenade des Anglais）是尼斯标志性的7公里滨海步道，两旁棕榈成排，从机场附近一直延伸到老城区，最适合步行或骑行游览。
 quickAnswer: 英国人漫步大道（Promenade des Anglais）是尼斯标志性的7公里滨海步道，两旁棕榈成排，从机场附近一直延伸到老城区，最适合在清晨或日落时分步行或租自行车游览。这里免费开放，全天24小时对外，乘坐T2有轨电车（在Jean Médecin或Masséna站下车）最为便捷，从老城区步行过去也很近。若只想走一段风景优美的中段，安排1-2小时即可；若租自行车骑完全程，则建议留半天时间。

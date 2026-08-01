@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: surabaya-depot-bu-rudy-dharmahusada
+srcHash: 20c2d0896c49
 title: デポ・ブ・ルディ・ダルマフサダ：スラバヤの食事処ガイド
 description: デポ・ブ・ルディ・ダルマフサダは、Jl. Dharmahusada沿いにある老舗のスラバヤの名物食堂です。
 quickAnswer: デポ・ブ・ルディ・ダルマフサダ（Depot Bu Rudy Dharmahusada）は、Jl. Dharmahusada沿いにある老舗のスラバヤの名物食堂で、サンバルを効かせた東ジャワ料理、特にランプヤック（rempeyek、ピーナッツやアンチョビ入りのパリパリのクラッカー）、エンパル（empal）、サンバル添えのフライドチキンで知られています。常連客はこれらをキロ単位で買って持ち帰ります。約17,000件のレビューで評価4.5を誇り、いつも混雑しているため、早めのランチ（11:30am）か、午後の閑散時間帯（2:30〜4pm）を狙うのがおすすめです。

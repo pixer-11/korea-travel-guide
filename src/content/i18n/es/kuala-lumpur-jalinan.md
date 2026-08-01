@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: kuala-lumpur-jalinan
+srcHash: 0daf167613b5
 title: 'Jalinan: Guía de viaje de Kuala Lumpur'
 description: 'Jalinan en Kuala Lumpur, Malasia — un lugar nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Jalinan es una apertura de 2026 en Taman Tun Dr Ismail (TTDI), Kuala Lumpur, del equipo detrás de Fifty Tales, que reinventa platos clásicos malasios como el nasi ulam y el laksa mediante fideos de huevo hechos a mano, junto con cócteles con infusión de ron en hoja de plátano y soda de hojas de curry. Es un lugar para cenar y tomar algo, ideal para una visita nocturna en grupo reducido; conviene reservar con antelación, ya que los detalles y horarios todavía se están consolidando mientras el restaurante se asienta, así que confirma los horarios de apertura actuales y la política de reservas directamente antes de ir.

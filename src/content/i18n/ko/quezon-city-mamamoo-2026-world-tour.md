@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: quezon-city-mamamoo-2026-world-tour
+srcHash: b8ee632da239
 title: '마마무(MAMAMOO) 2026 월드투어: 알아둘 사항 (케손시티)'
 description: 필리핀 케손시티(Quezon City)에서 열리는 마마무 2026 월드투어 — 2026년 8월 8일~10일. 공연 개요, 일정과 장소, 그리고 관람 계획을 세우는 방법을 안내합니다.
 quickAnswer: 마마무의 2026 월드투어가 필리핀 케손시티(Quezon City)에 서게 될 예정이며, 2026년 8월 8일부터 10일까지 딜리만/바굼바얀(Diliman/Bagumbayan) 지역에 위치한 필리핀 국제컨벤션센터(Philippine International Convention Center, PICC)에서 공연이 열린다고 알려져 있습니다. 현재로서는 발표된 일정 정도로만 참고하시고, 항공권이나 숙소를 예약하기 전에 마마무 공식 채널과 주최 측 티켓 판매 플랫폼을 통해 최종 일정, 티켓 등급, 입장 시간을 반드시 확인하시기 바랍니다.

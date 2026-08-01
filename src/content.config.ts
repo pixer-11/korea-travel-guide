@@ -121,6 +121,11 @@ const postI18n = defineCollection({
     faq: z.array(z.object({ q: z.string(), a: z.string() })).default([]),
     // Set when a re-translation is needed because the English post changed.
     sourceUpdated: z.string().optional(),
+    // sha1 (12 hex chars) of the English source's translatable fields at the
+    // time this file was written. translate-posts.mjs re-queues the file when
+    // the live source no longer matches — without it, a source edit never
+    // propagated to translations.
+    srcHash: z.string().optional(),
   }),
 });
 

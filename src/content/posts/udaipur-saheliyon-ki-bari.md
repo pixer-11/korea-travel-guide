@@ -1,6 +1,6 @@
 ---
 title: "Saheliyon ki bari: Udaipur Travel Guide"
-description: "Saheliyon ki Bari (\"Garden of the Maidens\") is a compact, walkable 18th-century royal garden in Udaipur's Panchwati area, known for its lotus pools, marble"
+description: Saheliyon ki Bari ("Garden of the Maidens") is a compact, walkable 18th-century royal garden in Udaipur's Panchwati area, known for its lotus pools, marble kiosks, elephant-shaped fountains and a small museum.
 country: "India"
 region: "Udaipur"
 category: "attraction"

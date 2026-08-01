@@ -1,6 +1,6 @@
 ---
 title: 'Gyeongpo Beach: Gangneung Travel Guide'
-description: Gyeongpo Beach is Gangneung's flagship stretch of sand on South Korea's east coast, a wide, gently sloping beach backed by a pine grove and lined with cafés
+description: Gyeongpo Beach is Gangneung's flagship stretch of sand on South Korea's east coast, a wide, gently sloping beach backed by a pine grove and lined with cafés, seafood restaurants and hotels.
 country: South Korea
 region: Gangneung
 category: attraction

@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: seville-plaza-de-espana
+srcHash: 28652e53903a
 title: 'Plaza de España: Guía de viaje de Sevilla'
 description: La Plaza de España se encuentra dentro del Parque de María Luisa, a 15-20 minutos a pie de la catedral o a un breve trayecto en autobús C1/C2 o en tranvía hasta Prado de San Sebastián.
 quickAnswer: La Plaza de España se encuentra dentro del Parque de María Luisa, a 15-20 minutos a pie de la catedral o a un breve trayecto en autobús C1/C2 o en tranvía hasta Prado de San Sebastián. La entrada es gratuita y está abierta todo el día, pero conviene ir justo a la apertura (alrededor de las 8-9am) o en la última hora antes del atardecer para ver los azulejos y el canal sin la avalancha de grupos turísticos. Calcula entre 45 y 90 minutos, más si te animas a remar en el canal o te detienes en cada una de las alcobas cerámicas de las provincias.

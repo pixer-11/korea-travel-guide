@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: jakarta-gajah-mada-food-street
+srcHash: a9ef6a654fb4
 title: Gajah Mada美食街：雅加达觅食好去处
 description: Gajah Mada美食街是位于Jl. Gajah Mada No. 83的一家露天中高档美食广场。
 quickAnswer: Gajah Mada美食街（Gajah Mada Food Street）是一家露天中高档美食广场，位于雅加达老城区唐人街附近的Krukut地区（西雅加达）Jl. Gajah Mada No. 83号，汇集了印尼菜、印尼华人风味菜和西式摊位，宽敞的座位区域上方搭有大棚，还能喝到冰啤酒。建议选在工作日晚间（周二至周四）傍晚6:30-8点前往，人气正好又不用排太久队，消费属中等价位（评分4.5，近2900条评价）。建议预留1-1.5小时游玩时间，可以顺道走去附近的Glodok（哥打区）或Pancoran吃甜点，安排在同一晚出行。

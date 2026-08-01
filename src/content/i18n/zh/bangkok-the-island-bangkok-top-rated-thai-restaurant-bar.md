@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: bangkok-the-island-bangkok-top-rated-thai-restaurant-bar
+srcHash: ea320bf29b37
 title: The Island Bangkok高分泰式餐厅酒吧：美食指南
 description: The Island Bangkok是一家评分很高的泰式餐厅酒吧，坐落在曼隆蓬/佛统（Banglamphu/Phra Nakhon）地区的Soi Samsen 4巷内，距离考山路（Khao San Road）和河边不远。
 quickAnswer: The Island Bangkok是一家评分很高的泰式餐厅酒吧，坐落在曼隆蓬/佛统（Banglamphu/Phra Nakhon）地区的Soi Samsen 4巷内，距离考山路（Khao San Road）和河边不远，步行即可到达。这里是轻松惬意的花园式用餐环境，供应经典泰式菜肴和鸡尾酒，建议预留1.5-2小时用于一顿完整的用餐。由于评价数量庞大（14,600+条评价，4.9星），深受本地人和游客喜爱，周末晚上最好提前预订或早些到店。
@@ -26,7 +27,7 @@ The Island Bangkok在老城区餐厅中建立起数一数二的口碑，14,600�
 地址是49 Soi Samsen 4, Khwaeng Ban Phan Thom, Khet Phra Nakhon, Bangkok 10200——位于曼隆蓬（Banglamphu）地区，属于曼谷老皇城区域的一部分，靠近湄南河（Chao Phraya River）。这一带不在BTS/MRT轨道交通网络覆盖范围内，因此最实用的出行方式包括：
 
 - **出租车或Grab（打车软件）**——从曼谷任何地方出发，视交通状况，从Sukhumvit或Silom过来大约需要15-30分钟；建议告诉司机Soi Samsen 4这个交叉路口名称，因为从路上很难看清具体的门牌号。
-- **湄南河快船（Chao Phraya Express Boat）**到Phra Arthit码头（N13号码头），然后向东步行10-15分钟进入Samsen巷弄网络。这是一条风景不错的路线，可以顺路游览Wat Chana Songkhram寺庙或沿河风光。
+- **湄南河快船**（Chao Phraya Express Boat）到Phra Arthit码头（N13号码头），然后向东步行10-15分钟进入Samsen巷弄网络。这是一条风景不错的路线，可以顺路游览Wat Chana Songkhram寺庙或沿河风光。
 - **从考山路步行**，向北大约15-20分钟穿过Samsen各条小巷即可到达——傍晚天气还不太热时是个不错的选择。
 
 由于餐厅位于一条小巷（soi）内而非主干道上，建议在Google地图或打车软件中保存定位点，而不要单纯依靠街道标识寻找。

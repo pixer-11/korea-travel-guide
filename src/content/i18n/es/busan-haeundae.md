@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: busan-haeundae
+srcHash: ac2a71c22ae4
 title: Haeundae en Busan
-description: Haeundae Beach se encuentra al final de la Línea 2 del metro de Busan (Estación Haeundae, Salida 3 o 5, y luego una caminata de 10 a 15 minutos por Guemgangno o Haeundaehaebyeon-ro), con
+description: Haeundae Beach se encuentra al final de la Línea 2 del metro de Busan (Estación Haeundae, Salida 3 o 5, y luego una caminata de 10 a 15 minutos por Guemgangno o Haeundaehaebyeon-ro), con la franja de arena de 1,5 km, el paseo costero de la Isla Dongbaek y el Sea Life Busan Aquarium a solo 20 minutos a pie entre sí.
 quickAnswer: Haeundae Beach se encuentra al final de la Línea 2 del metro de Busan (Estación Haeundae, Salida 3 o 5, y luego una caminata de 10 a 15 minutos por Guemgangno o Haeundaehaebyeon-ro), con la franja de arena de 1,5 km, el paseo costero de la Isla Dongbaek y el Sea Life Busan Aquarium a solo 20 minutos a pie entre sí. Planifica medio día para la playa y el paseo marítimo, suma un par de horas más si te extiendes hacia el este hasta Cheongsapo o Dalmaji-gil, y ve al amanecer o después de las 5 p. m. en verano para evitar el peor calor y las multitudes.
 faq:
   - q: ¿Cuál es la estación de metro más cercana a Haeundae Beach?

@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: clarke-quay-clarke-quay-jetty
+srcHash: 2159352c641e
 title: 클라크 키 선착장(Clarke Quay Jetty) 여행 가이드
 description: 클라크 키 선착장(Clarke Quay Jetty)은 싱가포르강(Singapore River)에 있는 작은 승선장으로, 싱가포르 리버 크루즈(Singapore River Cruise) 범보트가 클라크 키(Clarke Quay)의 복원된 창고 거리를 따라 승객을 태우고 내려주는 곳입니다.
 quickAnswer: 클라크 키 선착장(Clarke Quay Jetty)은 싱가포르강(Singapore River)에 있는 작은 승선장으로, 싱가포르 리버 크루즈(Singapore River Cruise) 범보트가 클라크 키(Clarke Quay)의 복원된 창고(godown) 거리를 따라 승객을 태우고 내려주는 곳입니다. 일몰 전 늦은 오후에 방문하는 것이 가장 좋은데, 이때 리버 크루즈를 탈 수 있고 리드 브리지(Read Bridge)의 인파가 빠지는 모습을 볼 수 있으며 부두의 캐노피 조명이 켜지는 것도 감상할 수 있습니다. 선착장 자체를 둘러보는 데는 20~30분이면 충분하지만, 크루즈 탑승을 기다린다면 최대 1시간까지 예상하세요.
@@ -23,7 +24,7 @@ faq:
 
 ## 가는 방법
 
-선착장은 클라크 키(Clarke Quay)의 강변 바로 앞, 숍하우스 스타일의 레스토랑들과 리드 브리지(Read Bridge)가 있는 구간에 자리하고 있습니다. 가장 가까운 MRT역은 **클라크 키(Clarke Quay)**역(북동선, 보라색)이며, **E 출구**로 나가야 합니다. 이 출구는 강변 산책로로 바로 이어지는데, 거기서부터 평지로 2\~3분만 걸으면 선착장에 도착합니다. 보트 키(Boat Quay)나 로버트슨 키(Robertson Quay)에서 온다면 강변 산책로를 따라 걷기만 하면 되며, 어느 방향으로든 리드 브리지(Read Bridge)나 콜맨 브리지(Coleman Bridge) 밑을 지나며 10\~15분 정도의 쾌적한 산책이 됩니다. 택시나 차량 호출 서비스를 이용한다면 클라크 키(Clarke Quay)의 중앙 하차 지점인 유니티 스트리트(Unity Street)에서 내리면 선착장까지 짧은 거리를 걸으면 됩니다.
+선착장은 클라크 키(Clarke Quay)의 강변 바로 앞, 숍하우스 스타일의 레스토랑들과 리드 브리지(Read Bridge)가 있는 구간에 자리하고 있습니다. 가장 가까운 MRT역은 **클라크 키**(Clarke Quay)역(북동선, 보라색)이며, **E 출구**로 나가야 합니다. 이 출구는 강변 산책로로 바로 이어지는데, 거기서부터 평지로 2\~3분만 걸으면 선착장에 도착합니다. 보트 키(Boat Quay)나 로버트슨 키(Robertson Quay)에서 온다면 강변 산책로를 따라 걷기만 하면 되며, 어느 방향으로든 리드 브리지(Read Bridge)나 콜맨 브리지(Coleman Bridge) 밑을 지나며 10\~15분 정도의 쾌적한 산책이 됩니다. 택시나 차량 호출 서비스를 이용한다면 클라크 키(Clarke Quay)의 중앙 하차 지점인 유니티 스트리트(Unity Street)에서 내리면 선착장까지 짧은 거리를 걸으면 됩니다.
 
 ## 볼거리와 즐길 거리
 

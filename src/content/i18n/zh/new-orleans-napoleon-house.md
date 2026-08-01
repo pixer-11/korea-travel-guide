@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: new-orleans-napoleon-house
+srcHash: 0543ca1e5880
 title: 拿破仑之家：新奥尔良美食指南
 description: 拿破仑之家（Napoleon House）位于法国区（French Quarter）500 Chartres St，坐落在一个斑驳陈旧、色调泛黄的庭院里，自1914年起便供应穆法莱塔三明治（muffaletta）和皮姆斯杯（Pimm's Cup）。
 quickAnswer: 拿破仑之家（Napoleon House）位于法国区（French Quarter）500 Chartres St，坐落在一个斑驳陈旧、色调泛黄的庭院里，自1914年起便供应穆法莱塔三明治（muffaletta）和皮姆斯杯（Pimm's Cup）。这里天天营业（大多数日子11am–9pm，周五至周六延长至10pm），由于人气确实很旺，建议选择工作日的早午餐时段前往，避开周末3pm–8pm的高峰拥挤时段。预留一个小时慢慢享用——这是一个值得坐下来细细品味的地方，而不只是匆匆一吃。

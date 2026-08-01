@@ -1,6 +1,6 @@
 ---
 title: "Gamcheon Culture Village: Busan Travel Guide"
-description: "Gamcheon Culture Village is a hillside neighborhood of pastel-colored houses, murals, and small galleries in Busan's Saha-gu district — best reached by taxi"
+description: Gamcheon Culture Village is a hillside neighborhood of pastel-colored houses, murals, and small galleries in Busan's Saha-gu district — best reached by taxi or bus from Toseong Station (Line 1, Exit 6).
 country: "South Korea"
 region: "Busan"
 category: "hidden-gem"

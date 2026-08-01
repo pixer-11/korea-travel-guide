@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: turin-mole-antonelliana
+srcHash: ee8329c62be3
 title: 'Mole Antonelliana: Guía de viaje de Turín'
-description: La Mole Antonelliana es el imponente hito turinés del siglo XIX en Via Montebello, sede del Museo Nacional del Cine y de un ascensor panorámico de cristal que te lleva hasta las alturas
+description: La Mole Antonelliana es el imponente hito turinés del siglo XIX en Via Montebello, sede del Museo Nacional del Cine y de un ascensor panorámico de cristal que te sube hasta una terraza panorámica a 85 metros sobre la ciudad, con la aguja completa alcanzando los 121 metros de altura.
 quickAnswer: 'La Mole Antonelliana es el imponente hito turinés del siglo XIX en Via Montebello, sede del Museo Nacional del Cine y de un ascensor panorámico de cristal que te sube hasta una terraza panorámica a 85 metros sobre la ciudad, con la aguja completa alcanzando los 121 metros de altura. Es un lugar muy popular, así que lo ideal es ir entre semana en cualquier momento de 9:00 a 19:00, o el fin de semana justo a la apertura, a las 9:00, para evitar lo peor de las multitudes: los fines de semana de 11:00 a 19:00 son el tramo de mayor afluencia. Reserva medio día: unos 45 minutos para el ascensor y las vistas, más tiempo si te detienes en el museo del cine de abajo.'
 faq:
   - q: ¿Cómo se llega a la Mole Antonelliana?

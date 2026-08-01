@@ -1,6 +1,6 @@
 ---
 title: "Parador de Alcañiz: Travel Guide"
-description: "Parador de Alcañiz is a 12th-century Calatravan castle-monastery turned hotel, perched on La Almunia hill directly above the town of Alcañiz in Teruel"
+description: Parador de Alcañiz is a 12th-century Calatravan castle-monastery turned hotel, perched on La Almunia hill directly above the town of Alcañiz in Teruel province, about a 90-minute drive from Zaragoza.
 country: "Spain"
 region: "Alcañiz"
 category: "hidden-gem"

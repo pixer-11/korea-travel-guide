@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: okinawa-zhyvago-coffee-works-okinawa
+srcHash: 6652b3209efd
 title: '지바고 커피 웍스: 오키나와 여행 가이드'
 description: 지바고 커피 웍스 오키나와(Zhyvago Coffee Works)는 차탄(Chatan) 미하마(Mihama)에 위치한, 아메리칸 빌리지 바로 옆 인더스트리얼 시크 스타일의 스페셜티 커피숍으로, 바다를 마주한 테라스가 있습니다.
 quickAnswer: 지바고 커피 웍스 오키나와(Zhyvago Coffee Works Okinawa)는 차탄(Chatan) 미하마(Mihama)에 위치한 인더스트리얼 시크 스타일의 스페셜티 커피숍으로, 아메리칸 빌리지 바로 옆에 자리해 있으며 바다를 마주한 테라스를 갖추고 있고 1,000개 이상의 리뷰에서 4.6점의 평점을 받았습니다. 동중국해 너머로 지는 노을을 보려면 늦은 오후에 방문해 에스프레소 음료와 페이스트리를 즐기는 것이 좋고, 가격대는 중간 수준(¥¥)입니다. 아메리칸 빌리지의 상점가 산책과 선셋 비치(Sunset Beach) 보드워크 산책을 함께 즐기기 좋습니다.

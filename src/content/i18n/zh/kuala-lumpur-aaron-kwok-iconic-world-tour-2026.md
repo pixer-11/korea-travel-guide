@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: kuala-lumpur-aaron-kwok-iconic-world-tour-2026
+srcHash: 1a16e3f2293f
 title: 郭富城 ICONIC World Tour 2026 世界巡回演唱会须知(吉隆坡站)
 description: 郭富城将于2026年9月12日在吉隆坡武吉加里尔(Bukit Jalil)的Unifi Arena举办ICONIC World Tour 2026世界巡回演唱会,巡演制作团队多达200人。
 quickAnswer: 郭富城将于2026年9月12日在吉隆坡武吉加里尔(Bukit Jalil)的Unifi Arena举办ICONIC World Tour 2026世界巡回演唱会,巡演制作团队多达200人。请将此日期视为目前公布的排期,在预订机票和酒店前,务必通过郭富城官方渠道或场馆官方票务合作伙伴核实最终演出时间、票价级别及阵容变动等信息。

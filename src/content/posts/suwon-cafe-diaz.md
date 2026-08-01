@@ -1,6 +1,6 @@
 ---
 title: 'Cafe Diaz: Suwon Travel Guide'
-description: Cafe Diaz is a large, design-forward café in Paldal-gu, Suwon, best known for its striking industrial-meets-botanical interior and consistently high visitor
+description: Cafe Diaz is a large, design-forward café in Paldal-gu, Suwon, best known for its striking industrial-meets-botanical interior and consistently high visitor ratings (4.9 from over 1,800 reviews).
 country: South Korea
 region: Suwon
 category: trendy

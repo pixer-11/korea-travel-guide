@@ -1,6 +1,6 @@
 ---
 title: "Basilica of Notre Dame of Fourvière: Lyon Travel Guide"
-description: "Perched above Lyon's Old Town, the Basilica of Notre-Dame de Fourvière is a free-to-enter, richly decorated 19th-century church best visited early morning"
+description: Perched above Lyon's Old Town, the Basilica of Notre-Dame de Fourvière is a free-to-enter, richly decorated 19th-century church best visited early morning (before 10am) or at sunset to avoid the tour-bus crush and catch the light over the city and the Alps.
 country: "France"
 region: "Lyon"
 category: "attraction"

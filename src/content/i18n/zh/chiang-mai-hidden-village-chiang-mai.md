@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: chiang-mai-hidden-village-chiang-mai
+srcHash: 541a0e4b5a2a
 title: 隐村：清迈旅游指南
 description: Hidden Village Chiang Mai（隐村）是位于清迈市区东北边缘圣批苏亚（San Phi Suea）的一处丛林风格乡野咖啡馆兼拍照打卡花园，最适合在平日出行前往。
 quickAnswer: Hidden Village Chiang Mai（隐村）是位于清迈市区东北边缘圣批苏亚（San Phi Suea）的一处丛林风格乡野咖啡馆兼拍照打卡花园，最好选在平日的上午或傍晚时段前往，以避开旅游大巴团客。建议预留1-1.5小时游览时间，由于这里不在双条车（songthaew）的行驶网络范围内，需要包车、使用打车软件（Grab）或租摩托车前往，到店时预计需支付少量入场费/消费费用（具体金额请以到店时为准）。这里适合想要拍出别具一格的泰式乡野风情Instagram照片的游客，而非追求历史文化古迹的旅客。

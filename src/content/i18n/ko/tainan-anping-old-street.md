@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: tainan-anping-old-street
+srcHash: 7fef7fb265a7
 title: '안핑 라오제(안핑 옛거리): 타이난 여행 가이드'
 description: 안핑 라오제(Anping Old Street)는 대만에서 가장 오래된 거리로, 타이난 안핑구(Anping District)에 자리한 좁고 상점이 빼곡한 골목길이며 그 역사는 네덜란드 식민지 시대까지 거슬러 올라갑니다.
 quickAnswer: 안핑 라오제(Anping Old Street)는 대만에서 가장 오래된 거리로, 타이난 안핑구(Anping District)에 자리한 좁고 상점이 빼곡한 골목길이며 그 역사는 네덜란드 식민지 시대까지 거슬러 올라갑니다. 골목골목을 거닐고 길거리 간식을 즐기는 데 1.5~2시간 정도를 잡으면 되고, 인근의 안핑구보(포트 젤란디아, Fort Zeeland/Anping Old Fort)와 안핑 수옥(Anping Tree House)과 함께 둘러보기 좋습니다. 인기가 매우 많은 곳이라 평일 이른 아침이나 저녁 식사 후에 방문해야 붐비는 것을 피할 수 있습니다.

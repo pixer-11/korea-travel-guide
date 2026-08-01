@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: bangkok-kodaline-farewell-tour
+srcHash: 15c65f9e2976
 title: 科达莱恩告别巡演须知(曼谷站)
 description: 2026年8月28-29日,爱尔兰乐队科达莱恩(Kodaline)告别巡演将登陆泰国曼谷。演出内容、时间地点，以及行程规划要点,一文了解。
 quickAnswer: 爱尔兰乐队科达莱恩(Kodaline)将于2026年8月28日至29日一连两晚在曼谷开唱,地点是位于素坤逸(Sukhumvit)EmSphere商场内的UOB Live。目前门票、演出时间安排以及是否有暖场嘉宾均未公布细节,预订机票酒店前请务必以科达莱恩官方渠道及场馆官网信息为准。两个晚上都建议早点到场——这被宣传为乐队在东南亚的最后一站巡演。

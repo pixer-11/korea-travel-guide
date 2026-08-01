@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: east-rutherford-bruno-mars-the-romantic-tour
+srcHash: 75a88049fa70
 title: '브루노 마스: 더 로맨틱 투어, 알아둘 것 (이스트 러더퍼드)'
 description: 브루노 마스(Bruno Mars)의 더 로맨틱 투어(The Romantic Tour)가 미국 이스트 러더퍼드(East Rutherford)에서 2026년 8월 21일부터 26일까지 열립니다. 공연 개요와 일정, 장소, 그리고 관람 계획을 세우는 방법을 안내합니다.
 quickAnswer: 브루노 마스가 더 로맨틱 투어를 뉴저지주 이스트 러더퍼드(East Rutherford)에 위치한 메트라이프 스타디움(MetLife Stadium)으로 가져옵니다. 2026년 8월 21일부터 26일까지 여러 날에 걸쳐 공연이 발표되었습니다. "Die with a Smile", "APT." 같은 최신 히트곡을 중심으로 한 스타디움급 규모의 공연이 펼쳐질 것으로 예상되니, 교통편과 티켓, 숙소는 미리 계획해두세요. 그리고 예매 전에는 항상 티켓마스터(Ticketmaster)나 브루노 마스 공식 사이트에서 정확한 날짜와 공연 시작 시간, 가격을 확인하시기 바랍니다.

@@ -1,8 +1,9 @@
 ---
 lang: ko
 slug: little-india-super-deluxe-kitchen
+srcHash: 4797fdc930fa
 title: '수퍼 디럭스 키친: 리틀 인디아 맛집 탐방'
-description: 수퍼 디럭스 키친(Super Deluxe Kitchen, 29 Upper Weld Rd, Singapore 207386)은 리틀 인디아(Little India) 뒷골목에 자리한 평이 좋은 인도 레스토랑으로,
+description: 수퍼 디럭스 키친(Super Deluxe Kitchen, 29 Upper Weld Rd, Singapore 207386)은 리틀 인디아(Little India) 뒷골목에 자리한 평이 좋은 인도 레스토랑으로, 잘란 베사르(Jalan Besar)와 파러 파크(Farrer Park) MRT역에서 걸어서 금방입니다.
 quickAnswer: 수퍼 디럭스 키친(Super Deluxe Kitchen, 29 Upper Weld Rd, Singapore 207386)은 리틀 인디아(Little India) 뒷골목에 자리한 평이 좋은 인도 레스토랑으로, 잘란 베사르(Jalan Besar)와 파러 파크(Farrer Park) MRT역에서 걸어서 금방입니다. 비리야니, 커리, 탄두르 화덕에 구운 빵 등 북인도와 남인도 대표 요리를 즐기기에 좋은 곳이며, 실제로 손님이 많은 편이라 대기 없이 자리를 잡으려면 피크 시간대를 살짝 비껴가는 것이 좋습니다(이른 점심 시간 또는 저녁 8시 30분 이후).
 faq:
   - q: 수퍼 디럭스 키친(Super Deluxe Kitchen)까지 MRT로 어떻게 가나요?

@@ -1,6 +1,6 @@
 ---
 title: "Willy's Rock: Boracay Travel Guide"
-description: "Willy's Rock is the small volcanic-rock islet with its own tiny shrine to the Virgin Mary, planted just offshore on Station 1 of White Beach — Boracay's most"
+description: Willy's Rock is the small volcanic-rock islet with its own tiny shrine to the Virgin Mary, planted just offshore on Station 1 of White Beach — Boracay's most photographed landmark.
 country: "Philippines"
 region: "Boracay"
 category: "attraction"

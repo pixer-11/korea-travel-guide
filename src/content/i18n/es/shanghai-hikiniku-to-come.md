@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: shanghai-hikiniku-to-come
+srcHash: b176dd3f130e
 title: 'Hikiniku To Come: Guía de Viaje de Shanghai'
 description: 'Hikiniku To Come en Shanghai (China) — un lugar nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: 'Hikiniku To Come es el especialista en hamburguesas de carne a la plancha (hambāgu) nacido en Tokio que aterrizó en el nuevo complejo FUFU de Shanghai, en Donghu Lu, y que ha estado generando colas desde el primer día. El atractivo es sencillo: gruesas hamburguesas de wagyu a la parrilla de carbón, un huevo crudo que se rompe encima para darle cremosidad, y arroz que puedes rellenar tantas veces como quieras. Ve entre semana, llega antes de que abran las puertas y confirma el horario actual y si están tomando reservas antes de salir hacia allí.'

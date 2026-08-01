@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: saint-cloud-paris-region-rock-en-seine-2026
+srcHash: 7f87bdc7a7f3
 title: 'Rock en Seine 2026: lo que hay que saber (Saint-Cloud, París)'
-description: Rock en Seine 2026 se celebra del 26 al 30 de agosto de 2026 en el Domaine national de Saint-Cloud, al oeste de París, con The Cure, Nick Cave & The Bad Seeds y Tyler
+description: Rock en Seine 2026 se celebra del 26 al 30 de agosto de 2026 en el Domaine national de Saint-Cloud, al oeste de París, con The Cure, Nick Cave & The Bad Seeds y Tyler, the Creator como cabezas de cartel, junto a Deftones, Turnstile y más artistas.
 quickAnswer: Rock en Seine 2026 se celebra del 26 al 30 de agosto de 2026 en el Domaine national de Saint-Cloud, al oeste de París, con The Cure, Nick Cave & The Bad Seeds y Tyler, the Creator como cabezas de cartel, junto a Deftones, Turnstile y más artistas. Aloja tu base en París y toma el RER C hasta la estación de Saint-Cloud, y luego camina o usa el servicio de lanzadera hasta el dominio; en cualquier caso, confirma siempre las fechas exactas, los horarios de los escenarios y las categorías de entradas en el sitio oficial de Rock en Seine antes de reservar, ya que el cartel y la logística del festival pueden cambiar.
 faq:
   - q: ¿Cuáles son las fechas exactas de Rock en Seine 2026?

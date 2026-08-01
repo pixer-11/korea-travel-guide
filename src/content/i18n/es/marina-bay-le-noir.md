@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: marina-bay-le-noir
+srcHash: 1b6c241065d0
 title: 'Le Noir: dónde comer en Marina Bay'
 description: 'Le Noir es un bar-restaurante de ambiente sofisticado y lleno de arte dentro de The Shoppes at Marina Bay Sands (unidad #01-84), ideal para reservar para un cóctel antes o después de la cena y unos platos pequeños.'
 quickAnswer: 'Le Noir es un bar-restaurante de ambiente sofisticado y lleno de arte dentro de The Shoppes at Marina Bay Sands (unidad #01-84), ideal para reservar para un cóctel antes o después de la cena y unos platos pequeños, más que para una comida completa sentados a la mesa. Con una calificación de 4.8 en más de 3,000 reseñas, es un lugar conocido más que un hallazgo secreto, así que reserva con antelación y procura ir a primera hora de la tarde-noche si quieres una mesa más tranquila.'

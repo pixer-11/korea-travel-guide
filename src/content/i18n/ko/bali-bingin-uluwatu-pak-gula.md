@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: bali-bingin-uluwatu-pak-gula
+srcHash: 490117fa0aef
 title: 발리의 팍 굴라 (Pak Gula)
 description: 팍 굴라는 울루와투(Uluwatu) 빙인(Bingin)에 새로 문을 연 2층 규모의 아시안 퓨전 레스토랑으로, 더 캐슈 트리(The Cashew Tree) 팀이 선보이며 차슈 포크 등 나눠 먹기 좋은 메뉴로 잘 알려져 있습니다.
 quickAnswer: 팍 굴라는 울루와투(Uluwatu) 빙인(Bingin)에 새로 문을 연 2층 규모의 아시안 퓨전 레스토랑으로, 더 캐슈 트리(The Cashew Tree) 팀이 선보이며 차슈 포크 바오번과 탄탄한 칵테일 리스트로 잘 알려져 있습니다. 오픈 이후 손님이 빠르게 몰리고 있으니 미리 예약하는 것이 좋으며, 특히 선셋 타임이나 저녁 시간대를 노린다면 더더욱 그렇습니다. 새로 오픈한 발리 매장 특성상 정보가 자주 바뀌므로 방문 전 최신 영업시간을 확인하세요.

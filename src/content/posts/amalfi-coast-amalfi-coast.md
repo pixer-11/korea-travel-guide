@@ -1,6 +1,6 @@
 ---
 title: "Amalfi Coast: Travel Guide"
-description: "The Amalfi Coast is a 50-kilometre ribbon of cliffside road (the SS163) linking towns like Positano, Amalfi, and Ravello along the Sorrentine Peninsula south"
+description: The Amalfi Coast is a 50-kilometre ribbon of cliffside road (the SS163) linking towns like Positano, Amalfi, and Ravello along the Sorrentine Peninsula south of Naples.
 country: "Italy"
 region: "Amalfi Coast"
 category: "attraction"

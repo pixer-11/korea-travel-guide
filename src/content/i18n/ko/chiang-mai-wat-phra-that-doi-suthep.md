@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: chiang-mai-wat-phra-that-doi-suthep
+srcHash: 98f4edab9c8e
 title: '왓 프라탓 도이수텝: 치앙마이 여행 가이드'
 description: 왓 프라탓 도이수텝(Wat Phra That Doi Suthep)은 치앙마이(Chiang Mai) 올드시티에서 북서쪽으로 약 15km(차로 약 30~45분) 떨어진 숲이 우거진 산 위에 자리하며, 반짝이는 황금 체디가 정상을 장식하고 있습니다.
 quickAnswer: 왓 프라탓 도이수텝(Wat Phra That Doi Suthep)은 치앙마이(Chiang Mai) 올드시티에서 북서쪽으로 약 15km(차로 약 30~45분) 떨어진 숲이 우거진 산 위에 자리하며, 반짝이는 황금 체디와 계곡을 내려다보는 넓은 전망을 자랑합니다. 사원 관람만으로도 1.5~2시간을 잡아두시고, 케이블카 대신 306개 계단의 나가(naga) 계단을 오른다면 시간을 더 잡으세요. 단체 관광버스 인파와 한낮 더위를 피하려면 이른 아침(오전 9시 이전)이나 늦은 오후에 방문하는 것이 좋습니다.

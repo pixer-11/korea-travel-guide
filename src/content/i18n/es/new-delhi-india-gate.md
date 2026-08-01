@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: new-delhi-india-gate
+srcHash: aedf9f9fa233
 title: 'India Gate: Guía de viaje de Nueva Delhi'
 description: India Gate es el monumento de guerra de arenisca de 42 metros de Nueva Delhi en Kartavya Path, que se ve mejor al atardecer o después del anochecer, cuando se encienden las fuentes y los reflectores y baja el calor.
 quickAnswer: India Gate es el monumento de guerra de arenisca de 42 metros de Nueva Delhi en Kartavya Path, que se ve mejor al atardecer o después del anochecer, cuando se encienden las fuentes y los reflectores y baja el calor. Es gratuito recorrerlo, está siempre abierto, y las noches de fin de semana son cuando más gente hay, así que lo mejor es ir un día laborable temprano por la mañana o llegar justo después del atardecer entre semana para tener más espacio. Calcula entre 45 minutos y una hora, más si te quedas un rato en el césped.

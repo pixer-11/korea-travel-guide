@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: suzhou-lion-grove-garden
+srcHash: 2cc52f7ae8c4
 title: '사자림(Lion Grove Garden): 쑤저우 여행 가이드'
 description: 구쑤구(Gusu District) 위안린루(Yuan Lin Lu) 23번지에 있는 사자림(Shizi Lin)은 쑤저우의 유네스코 등재 고전 정원 중 하나로, 웅크린 사자를 닮았다는 회색 석회암 "가산(假山)" 미로로 유명합니다.
 quickAnswer: 구쑤구(Gusu District) 위안린루(Yuan Lin Lu) 23번지에 있는 사자림(Shizi Lin)은 쑤저우의 유네스코 등재 고전 정원 중 하나로, 웅크린 사자를 닮았다는 회색 석회암 "가산(假山)" 미로로 유명합니다. 관람에는 60~90분 정도 잡으면 되고, 개장 직후나 늦은 오후에 가면 돌 미로를 거의 혼자 차지할 수 있습니다. 도보 몇 분 거리에 있는 졸정원(Humble Administrator's Garden)이나 쑤저우박물관(Suzhou Museum)과 함께 묶어서 둘러보기 좋습니다.

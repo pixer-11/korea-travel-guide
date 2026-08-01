@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: manila-rizal-park
+srcHash: 90e2c252ee9f
 title: 'Parque Rizal: Guía de viaje de Manila'
-description: El Parque Rizal (Luneta) abre todos los días de 5:00 a 22:00 h y es mejor recorrerlo temprano, entre las 7:00 y las 11:00 h en días de semana, cuando el calor todavía no ha
+description: El Parque Rizal (Luneta) abre todos los días de 5:00 a 22:00 h y es mejor recorrerlo temprano, entre las 7:00 y las 11:00 h en días de semana, cuando los céspedes están casi vacíos y el calor aún no ha aumentado.
 quickAnswer: El Parque Rizal (Luneta) abre todos los días de 5:00 a 22:00 h y es mejor recorrerlo temprano, entre las 7:00 y las 11:00 h en días de semana, cuando los céspedes están casi vacíos y el calor aún no ha aumentado. Organiza tu visita en torno al Monumento a Rizal y el cambio de guardia, y luego adéntrate en los Jardines Chino y Japonés y en el complejo del Museo Nacional que está justo al lado. Evita llegar después de las 16:00 h los fines de semana, cuando el parque se llena más rápido de familias y vendedores.
 faq:
   - q: ¿Cuál es el horario del Parque Rizal?

@@ -1,8 +1,6 @@
 ---
 title: 'Wat Mahathat: Ayutthaya Travel Guide'
-description: >-
-  Wat Mahathat, in the heart of Ayutthaya's historic island, is famous for the
-  sandstone Buddha head cradled in tree roots near the temple's east side
+description: Wat Mahathat, in the heart of Ayutthaya's historic island, is famous for the sandstone Buddha head cradled in tree roots near the temple's east side — arguably the single most photographed sight in the city.
 country: Thailand
 region: Ayutthaya
 category: attraction

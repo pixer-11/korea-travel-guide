@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: sturgis-south-dakota-sturgis-motorcycle-rally-86th-anniversary
+srcHash: 923e3c6c3019
 title: 斯特吉斯摩托车集会（第86届）：出行须知（斯特吉斯）
 description: 第86届斯特吉斯摩托车集会将于2026年8月7日至16日在斯特吉斯举行，吸引约50万骑手齐聚黑山，参加音乐会、赛事和风景骑行活动。
 quickAnswer: 第86届斯特吉斯摩托车集会（Sturgis Motorcycle Rally）将于2026年8月7日至16日在斯特吉斯（Sturgis）举行，以“Sturgis Salutes America”为主题，吸引约50万骑手齐聚黑山（Black Hills），共赴音乐会、赛事和风景团体骑行。建议以斯特吉斯、拉皮德城（Rapid City）或迪德伍德（Deadwood）为落脚点，提前数月预订住宿和机票，并在出发前前往斯特吉斯摩托车集会官方网站确认具体场地日程和门票信息。

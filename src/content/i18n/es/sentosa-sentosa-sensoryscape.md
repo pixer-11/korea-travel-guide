@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: sentosa-sentosa-sensoryscape
+srcHash: b3cdaac71fcc
 title: 'Sentosa Sensoryscape: Guía de viaje'
-description: Sentosa Sensoryscape es una instalación multisensorial de jardines y luces de entrada gratuita en 3 Siloso Rd, en la isla de Sentosa, que se disfruta mejor al atardecer, cuando su dosel de LED
+description: Sentosa Sensoryscape es una instalación multisensorial de jardines y luces de entrada gratuita en 3 Siloso Rd, en la isla de Sentosa (Sentosa Island), que se disfruta mejor al atardecer, cuando su dosel de LED, sus jardines con neblina y sus efectos sonoros cobran vida juntos.
 quickAnswer: Sentosa Sensoryscape es una instalación multisensorial de jardines y luces de entrada gratuita en 3 Siloso Rd, en la isla de Sentosa (Sentosa Island), que se disfruta mejor al atardecer, cuando su dosel de LED, sus jardines con neblina y sus efectos sonoros cobran vida juntos. Reserva entre 45 y 60 minutos, combínala con un paseo por Siloso Beach o una cena, y ve en horario de tarde entre semana para evitar las multitudes del teleférico que pasan por allí los fines de semana.
 faq:
   - q: ¿Hay que pagar entrada para Sentosa Sensoryscape?

@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: new-york-city-ci-siamo
+srcHash: 773edf3b71dd
 title: 뉴욕시의 치 시아모(Ci Siamo)
 description: 치 시아모는 맨해튼 허드슨 야드/맨해튼 웨스트 지역에 위치한 대니 마이어(Danny Meyer)의 유니언 스퀘어 호스피탤리티 그룹(Union Square Hospitality Group) 소속 모던 이탈리안 레스토랑으로, 리가토니 알라 그리치아(Rigatoni Alla Gricia)로 가장 잘 알려져 있습니다.
 quickAnswer: 치 시아모는 맨해튼 허드슨 야드/맨해튼 웨스트 지역에 위치한 대니 마이어의 유니언 스퀘어 호스피탤리티 그룹 소속 모던 이탈리안 레스토랑으로, 리가토니 알라 그리치아로 가장 잘 알려져 있습니다. 옐프(Yelp)의 2026년 미국 내 레스토랑 톱 100(Top 100 Places to Eat)에서 1위를 차지하면서, 방문에서 가장 어려운 부분은 단연 예약이 되었습니다 — 플랫폼이 허용하는 한 최대한 미리 예약하고, 방문 전에 영업시간을 다시 확인하세요.

@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: hanoi-hidden-gem-cafe-hanoi
+srcHash: 4f8afde29657
 title: ヒドゥン・ジェム・カフェ:ハノイ旅行ガイド
 description: ヒドゥン・ジェム・カフェ(Hidden Gem Cafe)はハノイ旧市街(Old Quarter)の1 Hàng Mắmにあり、ホアンキエム湖(Hoàn Kiếm Lake)からロンビエン橋(Long Biên Bridge)方面へ南東に少し歩いた場所に位置しています。
 quickAnswer: ヒドゥン・ジェム・カフェ(Hidden Gem Cafe)はハノイ旧市街(Old Quarter)の1 Hàng Mắmにあり、ホアンキエム湖(Hoàn Kiếm Lake)からロンビエン橋(Long Biên Bridge)方面へ南東に少し歩いた場所にあります。目当ては何層にも重なった屋上席、エッグコーヒー、蓮茶(ロータスティー)、そして旧市街のチューブハウス(細長い伝統家屋)が立ち並ぶ静かな一角を見渡せる景色。滞在時間の目安は45〜90分で、午前中の少し遅め、あるいは日没直前がおすすめです。人気が高く(星4.8、レビュー4,300件以上)、週末の午後は屋上のベストな席を待つこともあります。

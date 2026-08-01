@@ -1,8 +1,9 @@
 ---
 lang: zh
 slug: bordeaux-bordeaux-wine-trails-wine-tours
+srcHash: fbab3d8b8379
 title: 波尔多葡萄酒之旅（Bordeaux Wine Trails）——葡萄酒庄园游：旅行指南
-description: 波尔多葡萄酒之旅（Bordeaux Wine Trails）从市中心出发，带领小团体前往周边的葡萄酒庄园（圣埃美隆、梅多克、苏玳和格拉夫是经典路线）
+description: 波尔多葡萄酒之旅（Bordeaux Wine Trails）从市中心出发，带领小团体前往周边的葡萄酒庄园（圣埃美隆、梅多克、苏玳和格拉夫是经典路线），将酒庄参观与品酒、通常还有午餐结合在一起。
 quickAnswer: 波尔多葡萄酒之旅（Bordeaux Wine Trails）从市中心出发，带领小团体前往周边的葡萄酒庄园（圣埃美隆、梅多克、苏玳和格拉夫是经典路线），将酒庄参观与品酒、通常还有午餐结合在一起。建议至少提前几周预订——这家运营商获得4.9星评分，评价数近750条，热门日期很快就会订满——并且要预留完整一天的时间（大约上午9点到下午5点），而不是当作一个短暂的下午活动。
 faq:
   - q: 波尔多葡萄酒之旅（Bordeaux Wine Trails）的行程要多久？

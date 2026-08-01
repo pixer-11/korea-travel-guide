@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: labuan-bajo-pondok-pohon-tanjung-bunga
+srcHash: de39a436bb51
 title: Pondok Pohon Tanjung Bunga：拉布安巴焦旅行指南
 description: Pondok Pohon Tanjung Bunga 是位于拉布安巴焦（Labuan Bajo）城外 Tanjung Bunga 海岬上的一处山坡观景点兼简易休憩站，最佳游览时间是傍晚时分。
 quickAnswer: Pondok Pohon Tanjung Bunga 是位于拉布安巴焦（Labuan Bajo）城外 Tanjung Bunga 海岬上的一处山坡观景点兼简易休憩站，最适合在傍晚时分前往，欣赏港湾及周边岛屿的日落景色。从市区骑摩托车或乘车前往车程很短（大约10-15分钟），在185条评价中获得了4.8的高评分，但相较拉布安巴焦更知名的景点，这里依然鲜为人知、游客不多。建议安排45-90分钟游览时间，带上现金以备购买路边小吃摊（warung）的点心，并可以将其与 Tanjung Bunga 沿海公路的环线游览结合起来。

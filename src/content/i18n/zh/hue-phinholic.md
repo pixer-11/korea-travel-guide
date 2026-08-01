@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: hue-phinholic
+srcHash: 87b1a10c24bc
 title: PhinHolic：顺化旅行指南
 description: PhinHolic 是一家风格别致的越南滴滤咖啡（phin）馆，坐落在顺化（Hue）香江（Perfume River）南岸顺化坊（Thuận Hóa ward）的 65 Bến Nghé 街，从东巴市场（Dong Ba Market）和主要酒店区步行或乘坐三轮车（cyclo）即可轻松到达。
 quickAnswer: PhinHolic 是一家风格别致的越南滴滤咖啡（phin）馆，位于顺化香江南岸顺化坊的 65 Bến Nghé 街，从东巴市场以及沿黎利（Le Loi）和雄王（Hung Vuong）路一带的主要酒店区步行或乘坐三轮车都很方便。建议在上午十点左右或傍晚前往，点一杯滴滤冰咖啡（ca phe sua da）或时下流行的咸奶油咖啡，预留 45–60 分钟坐下来小憩、办公或观察街景。每杯饮品价格约在 25,000–55,000 越南盾（约 1–2.5 美元），可用现金或扫码转账支付。

@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: kuala-lumpur-f-forever-1st-world-tour
+srcHash: add1226f73de
 title: F✦FOREVER 1st World Tour:知っておきたいこと(クアラルンプール)
 description: F✦FOREVER 1st World Tour クアラルンプール公演 — 2026年8月7日、マレーシア。公演の概要、日時・会場、そして観戦計画の立て方をご紹介します。
 quickAnswer: F✦FOREVER——F4で知られるジェリー・イェン(言承旭)、ヴァネス・ウー(呉建豪)、ヴィック・チョウ(周渝民)に、Mayday(五月天)のアシン(阿信)が加わったスーパーグループ——が、2026年8月7日にクアラルンプールのAxiata Arena(ブキッ・ジャリル)で1st World Tourを開催します。チケットは正式発表後、公式プロモーター/チケット販売パートナーを通じてのみ購入し、開場時間やサポートアクトについては、通常公演の数週間前に詳細が固まるため、日程が近づいてから改めて確認してください。

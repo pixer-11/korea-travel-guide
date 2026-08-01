@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: rome-colosseum
+srcHash: d5617d3ca3f9
 title: 'Coliseo: guía de viaje de Roma'
-description: Compra tu entrada con horario asignado online antes de ir (el Coliseo, el Foro Romano y el Palatino comparten una entrada combinada, válida por 24 horas) y llega a tu franja horaria
+description: Compra tu entrada con horario asignado online antes de ir (el Coliseo, el Foro Romano y el Palatino comparten una entrada combinada, válida por 24 horas) y llega a tu franja horaria 15 minutos antes, teniendo en cuenta la cola de seguridad.
 quickAnswer: Compra tu entrada con horario asignado online antes de ir (el Coliseo, el Foro Romano y el Palatino comparten una entrada combinada, válida por 24 horas) y llega a tu franja horaria 15 minutos antes, teniendo en cuenta la cola de seguridad. Calcula entre 2 y 2,5 horas solo para el anfiteatro, más si añades la visita a la arena o al subterráneo. La parada más cercana es Colosseo, en la Línea B del metro, justo frente a la entrada al otro lado de la plaza.
 faq:
   - q: ¿Cómo llego al Coliseo en transporte público?

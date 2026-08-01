@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: seoul-2026-coupang-play-series-manchester-city-vs-atletico-madrid
+srcHash: b5aa49bbda88
 title: 'Coupang Play Series 2026: Manchester City vs. Atlético de Madrid: lo que hay que saber (Seúl)'
 description: 'Coupang Play Series 2026: Manchester City vs. Atlético de Madrid en Seúl, Corea del Sur — 5 y 9 de agosto de 2026. Qué es, cuándo y dónde se juega, y cómo organizar tu visita.'
 quickAnswer: El Manchester City se enfrenta al Team K League el 5 de agosto de 2026 y el Atlético de Madrid juega el 9 de agosto de 2026, ambos partidos en el Estadio de la Copa Mundial de Seúl (Sangam, Mapo-gu), como parte de la Coupang Play Series, el mayor festival futbolístico de pretemporada de Corea. Compra las entradas en cuanto salgan a la venta, llega en la Línea 6 hasta la estación World Cup Stadium, y confirma los horarios exactos de inicio y las categorías de entradas en los canales oficiales de Coupang Play o de la organización antes de viajar.

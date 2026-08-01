@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: pamukkale-hierapolis
+srcHash: 2c80b0176493
 title: 希拉波利斯：棉花堡（帕穆卡莱）旅行指南
 description: 希拉波利斯（Hierapolis）就坐落在土耳其西南部代尼兹利省帕穆卡莱（Pamukkale）洁白的石灰华台地之上，与之共用同一张门票入园。
 quickAnswer: 希拉波利斯（Hierapolis）就坐落在土耳其西南部代尼兹利省帕穆卡莱（Pamukkale）洁白的石灰华台地之上，两处景点共用同一张考古遗址门票——一张票即可通行。建议在开门时段（大门通常早上8点左右开放）或日落前两小时内前往，以避开中午时分挤满台地和古代游泳池（Antique Pool）的旅行团人潮。建议预留三到四个小时：台地一小时，剧场和普鲁托尼翁（Plutonium）一小时，剩下时间留给墓地和博物馆。

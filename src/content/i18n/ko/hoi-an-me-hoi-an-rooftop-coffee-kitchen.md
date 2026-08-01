@@ -1,8 +1,9 @@
 ---
 lang: ko
 slug: hoi-an-me-hoi-an-rooftop-coffee-kitchen
+srcHash: e51952880571
 title: '메 호이안 루프탑 커피 & 키친: 호이안 여행 가이드'
-description: 메 호이안 루프탑 커피 & 키친(Mê Hội An Rooftop Coffee & Kitchen)은 호이안 구시가지 중심부, 일본인 다리에서 도보로 잠깐이면 닿는 166 쩐푸(Trần Phú) 거리에 자리하고 있으며, 방문하기 가장 좋은 시간대는
+description: 메 호이안 루프탑 커피 & 키친(Mê Hội An Rooftop Coffee & Kitchen)은 호이안 구시가지 중심부, 일본인 다리(Japanese Covered Bridge)에서 도보로 잠깐이면 닿는 166 쩐푸(Trần Phú) 거리에 자리하고 있습니다.
 quickAnswer: 메 호이안 루프탑 커피 & 키친(Mê Hội An Rooftop Coffee & Kitchen)은 호이안 구시가지 중심부, 일본인 다리(Japanese Covered Bridge)에서 도보로 잠깐이면 닿는 166 쩐푸(Trần Phú) 거리에 자리하고 있습니다. 해질 무렵과 저녁 등불이 켜지기 전 루프탑 자리를 확보하려면 늦은 오후(오후 4:30~6시경)에 방문하는 것이 가장 좋습니다. 이곳은 서둘러 식사를 하기보다는 고대 마을의 붉은 기와지붕이 펼쳐지는 파노라마 전망을 즐기러 가는 곳이니, 1~1.5시간 정도 여유를 두세요. 성수기(2~8월)와 매달 열리는 호이안 보름 등불 축제 밤에는 최상층 테이블에 줄을 서거나 대기해야 할 수 있습니다.
 faq:
   - q: 메 호이안 루프탑 커피 & 키친(Mê Hội An Rooftop Coffee & Kitchen)은 정확히 어디에 있나요?

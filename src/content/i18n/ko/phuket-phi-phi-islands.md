@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: phuket-phi-phi-islands
+srcHash: f887ce76ae29
 title: '피피 아일랜드: 푸켓 여행 가이드'
 description: 피피 아일랜드(Phi Phi Islands)는 푸켓에서 당일치기나 1박 보트 여행으로 다녀올 수 있는 곳으로, 라싸다 선착장(Rassada Pier)이나 찰롱 선착장(Chalong Pier)에서 스피드보트로 편도 약 1~1.5시간이면 도착합니다.
 quickAnswer: 피피 아일랜드는 푸켓에서 당일치기나 1박 보트 여행으로 다녀올 수 있으며, 라싸다 선착장(Rassada Pier)이나 찰롱 선착장(Chalong Pier)에서 스피드보트로 편도 약 1~1.5시간이면 갈 수 있습니다. 마야 베이(Maya Bay), 피피 레(Phi Phi Leh)의 석회암 절벽, 필레 라군(Pileh Lagoon) 스노클링을 위해 방문하며, 당일치기라면 하루 전체를 비워두는 것이 좋습니다. 특히 성수기(11월~4월)에는 하루나 이틀 전에 투어나 페리를 예약해두세요.

@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: hong-kong-xg-concert-asiaworld-expo
+srcHash: 3fdbc52d71a1
 title: 'Concierto de XG (AsiaWorld-Expo): lo que hay que saber (Hong Kong)'
 description: Concierto de XG en AsiaWorld-Expo, Hong Kong (China) — 2 de agosto de 2026. Qué es, cuándo y dónde es, y cómo organizarte para asistir.
 quickAnswer: XG se presenta en AsiaWorld-Expo, en Hong Kong, el 2 de agosto de 2026. Toma esta fecha como la anunciada hasta el momento y confirma el horario exacto, el pabellón y los detalles de venta de entradas en los canales oficiales de XG (X, Instagram y las páginas de venta de entradas de XG/AsiaWorld-Expo) antes de reservar vuelos u hoteles. AsiaWorld-Expo está justo al lado del Aeropuerto Internacional de Hong Kong y conecta directamente con Tung Chung a través de la estación AsiaWorld-Expo, en la línea Tung Chung, así que llegar es sencillo incluso si vuelas el mismo día del concierto.

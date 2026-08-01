@@ -1,6 +1,6 @@
 ---
 title: "Humble Administrator's Garden: Suzhou Travel Guide"
-description: "The Humble Administrator's Garden (拙政园, Zhuozheng Yuan) at 178 Dong Bei Jie in Suzhou's old city is China's largest classical garden and a UNESCO-listed"
+description: The Humble Administrator's Garden (拙政园, Zhuozheng Yuan) at 178 Dong Bei Jie in Suzhou's old city is China's largest classical garden and a UNESCO-listed masterpiece of Ming-dynasty landscape design.
 country: "China"
 region: "Suzhou"
 category: "hidden-gem"

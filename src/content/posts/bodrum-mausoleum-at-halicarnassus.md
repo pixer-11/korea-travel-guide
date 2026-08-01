@@ -1,6 +1,6 @@
 ---
 title: "Mausoleum at Halicarnassus: Bodrum Travel Guide"
-description: "The Mausoleum at Halicarnassus — one of the Seven Wonders of the Ancient World — survives today as a sunken, partly excavated ruin in Bodrum's Tepecik"
+description: The Mausoleum at Halicarnassus — one of the Seven Wonders of the Ancient World — survives today as a sunken, partly excavated ruin in Bodrum's Tepecik district, on Turgut Reis Caddesi No:93.
 country: "Turkey"
 region: "Bodrum"
 category: "attraction"

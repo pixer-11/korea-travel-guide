@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: ayutthaya-ayutthaya-historical-park
+srcHash: 84e733f2c1c4
 title: 大城历史公园：旅行指南
 description: 大城历史公园（Ayutthaya Historical Park）是联合国教科文组织世界遗产地，寺庙与王宫遗址散布在昔日的皇家岛屿上，位于曼谷以北约80公里处。
 quickAnswer: 大城历史公园是联合国教科文组织世界遗产地，寺庙废墟与王宫台基散布在昔日的皇家岛屿上，位于曼谷以北约80公里处。建议安排半天到一整天的时间，租一辆自行车或包一辆嘟嘟车／长尾船，往返穿梭于玛哈泰寺（Wat Mahathat，以佛头嵌于树根中闻名）、拉差布拉那寺（Wat Ratchaburana）和帕西善佩寺（Wat Phra Si Sanphet）等景点之间。建议清晨或傍晚前往，既能避开酷热，又能在红砖佛塔上捕捉到最美的光线。

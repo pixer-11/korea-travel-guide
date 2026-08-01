@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: new-taipei-yangmingshan-national-park
+srcHash: e9b2d79c1749
 title: 'Parque Nacional de Yangmingshan: guía de viaje de Nuevo Taipéi'
-description: El Parque Nacional de Yangmingshan se encuentra justo al norte del centro de Taipéi, a menos de una hora en autobús, y lo mejor es visitarlo un día de semana por la mañana, cuando los respiraderos de azufre
+description: El Parque Nacional de Yangmingshan se encuentra justo al norte del centro de Taipéi, a menos de una hora en autobús, y lo mejor es visitarlo un día de semana por la mañana, cuando los respiraderos de azufre de Xiaoyoukeng todavía están envueltos en niebla y aún no ha llegado la multitud.
 quickAnswer: 'El Parque Nacional de Yangmingshan se encuentra justo al norte del centro de Taipéi, a menos de una hora en autobús, y lo mejor es visitarlo un día de semana por la mañana, cuando los respiraderos de azufre de Xiaoyoukeng todavía están envueltos en niebla y aún no ha llegado la multitud. Vale la pena ir por el cráter del volcán inactivo del monte Qixing, las fumarolas humeantes y, según la temporada, las aguas termales y los cerezos en flor: reserva medio día o un día entero. Los fines de semana y la temporada de flores de primavera saturan los autobuses lanzadera y las plataformas de observación, así que ve temprano o entre semana si puedes.'
 faq:
   - q: ¿Cómo llego a Yangmingshan sin coche?

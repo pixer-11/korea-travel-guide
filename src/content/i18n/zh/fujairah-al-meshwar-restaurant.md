@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: fujairah-al-meshwar-restaurant
+srcHash: 2c24eca5a8dc
 title: Al Meshwar餐厅：在富查伊拉吃什么、去哪吃
 description: Al Meshwar是一家生意兴隆、朴实无华的黎巴嫩烤肉餐厅，位于富查伊拉市（Fujairah City）Hamad Bin Abdulla Road上，紧邻富查伊拉城市中心购物中心（Fujairah City Centre mall）——是品尝混合烤肉、沙威玛和开胃小菜的实惠之选。
 quickAnswer: Al Meshwar是一家生意兴隆、朴实无华的黎巴嫩烤肉餐厅，位于富查伊拉市（Fujairah City）Hamad Bin Abdulla Road上，紧邻富查伊拉城市中心购物中心（Fujairah City Centre mall）——无论是混合烤肉、沙威玛还是开胃小菜（mezze），价格都很实惠（价格等级为4级中的2级，评分4.1，评论数超过3600条）。建议选在午餐或晚餐早段前往，以避开晚间高峰人潮，点烤肉和新鲜的开胃小菜——这正是这家店人气长盛不衰的原因。

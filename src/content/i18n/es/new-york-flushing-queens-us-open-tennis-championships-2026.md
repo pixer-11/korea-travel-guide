@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: new-york-flushing-queens-us-open-tennis-championships-2026
+srcHash: 967c4405164e
 title: 'US Open de Tenis 2026: Todo lo que debes saber (Nueva York)'
 description: El US Open 2026 se disputa del 23 de agosto al 13 de septiembre en el USTA Billie Jean King National Tennis Center, en Flushing Meadows–Corona Park, Queens.
 quickAnswer: El US Open 2026 se disputa del 23 de agosto al 13 de septiembre en el USTA Billie Jean King National Tennis Center, en Flushing Meadows–Corona Park, Queens. La Fan Week y la fase de clasificación arrancan el 23 de agosto, el cuadro principal individual comienza el 30 de agosto, y las finales cierran el torneo a mediados de septiembre. Toma el tren 7 hasta Mets–Willets Point y confirma el orden de juego exacto, los horarios de apertura de puertas y los precios de las entradas en usopen.org antes de ir, ya que esos detalles cambian de un año a otro.

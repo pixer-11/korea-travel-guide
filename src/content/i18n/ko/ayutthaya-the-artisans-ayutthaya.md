@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: ayutthaya-the-artisans-ayutthaya
+srcHash: 1c552a235f8e
 title: '더 아티즌스(The Artisans): 아유타야 맛집 가이드'
 description: 더 아티즌스 아유타야(The Artisans Ayutthaya)는 빠삭강(Pa Sak River) 반런(Ban Run) 쪽에 위치한 강변 카페 겸 레스토랑으로, 아유타야 역사공원에서 송태우나 택시로 잠깐이면 갈 수 있습니다.
 quickAnswer: 더 아티즌스 아유타야(The Artisans Ayutthaya)는 빠삭강(Pa Sak River) 반런(Ban Run) 쪽에 자리한 강변 카페 겸 레스토랑으로, 아유타야 역사공원에서 송태우나 택시로 잠깐 거리에 있으며 아름다운 풍경과 사진 찍기 좋은 인테리어, 태국-서양 퓨전 메뉴로 유명합니다. 2,000개가 넘는 리뷰에서 4.9점을 받은 이곳은 사원 유적을 둘러본 뒤 여유롭게 즐기는 점심이나 노을 무렵 저녁 식사로 방문하기 좋습니다. 주말에는 현지인과 관광객 모두에게 인기가 많으니 미리 예약하거나 일찍 방문하는 것이 좋습니다.

@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: davao-philippine-eagle-center
+srcHash: cb9beda57c84
 title: '필리핀 이글 센터: 다바오 여행 가이드'
 description: 필리핀 이글 센터(Philippine Eagle Center)는 말라고스(Malagos)에 위치해 있으며, 다바오 시내에서 약 45~60분 거리에 있고 매일 오전 8시부터 오후 4시 30분까지 운영합니다.
 quickAnswer: 필리핀 이글 센터(Philippine Eagle Center)는 말라고스(Malagos)에 위치해 있으며, 다바오 시내에서 약 45~60분 거리에 있고 매일 오전 8시부터 오후 4시 30분까지 운영합니다. 그물망 돔형 사육장을 지나는 숲속 산책로를 둘러보는 데 1.5~2시간 정도 잡으면 되고, 가능하다면 평일 오전에 방문하는 것이 좋습니다 — 꽤 유명한 곳이지만 시내에서 멀리 떨어져 있어 붐비는 느낌은 거의 없습니다. 인근의 말라고스 가든 리조트(Malagos Garden Resort)나 초콜릿 농장과 묶어서 반나절 일정으로 다녀오기 좋습니다.

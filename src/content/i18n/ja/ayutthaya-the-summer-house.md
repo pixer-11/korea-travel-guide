@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: ayutthaya-the-summer-house
+srcHash: 0bb8ed95672a
 title: The Summer House:アユタヤ旅行ガイド
 description: The Summer Houseは、アユタヤ(Ayutthaya)のコ・リアン島(Ko Rian)にある川沿いのカフェレストランで、緑豊かな庭園でタイの家庭料理とフランス菓子を楽しめます。
 quickAnswer: The Summer Houseは、アユタヤのコ・リアン島(Ko Rian)にある川沿いのカフェレストランで、チャオプラヤー川/パーサック川のほとりの緑豊かな庭園でタイの家庭料理とフランス菓子を融合させて提供しています。遅めの朝食か夕暮れ時のディナーがおすすめで、予算は一人あたり300〜600バーツほど。車や足漕ぎ舟(ロングテールボート)ですぐの、近くのワット・チャイワッタナラーム(Wat Chaiwatthanaram)と組み合わせて訪れるのもおすすめです。人気の高い店なので(3,000件以上のレビューで評価4.5)、週末は予約をしておくと安心です。

@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: ibiza-streetxo-ibiza
+srcHash: 3baed76085ac
 title: StreetXO Ibiza
 description: StreetXO Ibiza es el restaurante de street food de alto concepto del chef Dabiz Muñoz, ubicado dentro de The Unexpected Ibiza Hotel y construido en torno a una barra central y una cocina abierta.
 quickAnswer: StreetXO Ibiza es el restaurante de street food de alto concepto del chef Dabiz Muñoz, ubicado dentro de The Unexpected Ibiza Hotel y construido en torno a una barra central y una cocina abierta. Es la sede en Ibiza de la misma marca StreetXO que respalda al DiverXO de Muñoz, reconocido a nivel mundial, así que hay que esperar un street food teatral y fusionado, no un bocado informal. Reserva con antelación, viste acorde a la ocasión y confirma directamente con el hotel los horarios y la política de reservas vigentes antes de ir, ya que los detalles de una apertura de temporada nueva pueden cambiar.

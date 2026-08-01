@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: new-orleans-napoleon-house
+srcHash: 0543ca1e5880
 title: 'Napoleon House: dónde comer en Nueva Orleans'
 description: Napoleon House, en 500 Chartres St, en el Barrio Francés (French Quarter), es el lugar ideal para disfrutar de una muffaletta y un Pimm's Cup en un patio decadente y de tonos sepia que lleva sirviendo desde 1914.
 quickAnswer: 'Napoleon House, en 500 Chartres St, en el Barrio Francés (French Quarter), es el lugar ideal para disfrutar de una muffaletta y un Pimm''s Cup en un patio decadente y de tonos sepia que lleva sirviendo desde 1914. Abre todos los días (de 11am a 9pm la mayoría de las noches, hasta las 10pm de viernes a sábado), y como suele estar realmente concurrido, es mejor ir a almorzar temprano entre semana en lugar de enfrentarse a la avalancha del fin de semana entre las 3pm y las 8pm. Calcula al menos una hora para quedarte un rato: este es un lugar para sentarse con calma, no solo para comer rápido.'

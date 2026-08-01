@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: busan-namaste-haeundae
+srcHash: 52a5fc5eea2e
 title: Namaste Haeundae：釜山海云台美食推荐
 description: Namaste Haeundae是一家印度尼泊尔餐厅，从海云台海滩(Haeundae Beach)步行数分钟即可抵达，以坦都里烤肉、咖喱和新鲜烤饼闻名，价格适中。
 quickAnswer: Namaste Haeundae是一家印度尼泊尔餐厅，位于海云台海滩(Haeundae Beach)内陆方向仅数分钟步程处，以坦都里烤肉、咖喱和新鲜出炉的烤饼(naan)著称，价格适中（3,200多条评论给出4.8分的高评分）。建议选择午餐或早一点的晚餐时段（6:30pm之前）前往以避开排队，还可以顺道去海云台海滩或附近的达尾其海岸路(Dalmaji-gil)散步。

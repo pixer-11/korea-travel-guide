@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: cannes-mural-cannes-cinema
+srcHash: e39e85df0d0e
 title: 戛纳电影壁画：旅行指南
 description: 戛纳电影壁画（Cannes Cinema mural）坐落在圣皮埃尔码头（Quai Saint-Pierre），正好位于老港与电影宫（Palais des Festivals）交界处，是个五分钟的顺路停留点，而非一个独立的目的地。
 quickAnswer: 戛纳电影壁画坐落在圣皮埃尔码头（Quai Saint-Pierre），正好位于老港与电影宫（Palais des Festivals）交界处，是个五分钟的顺路停留点，而非一个独立的目的地——不妨把它和沿码头的漫步结合起来。这里确实鲜为人知，所以即便在旺季，你通常也能不用挤来挤去就拍到干净的照片。建议在清晨或傍晚柔和的光线下前往，此时墙面色彩最佳。

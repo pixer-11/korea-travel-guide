@@ -1,6 +1,6 @@
 ---
 title: "Fort Santiago: Manila Travel Guide"
-description: "Fort Santiago, the old Spanish citadel at the tip of Intramuros in Manila, is open daily from 8am to 11pm and is best explored in the first couple of hours"
+description: Fort Santiago, the old Spanish citadel at the tip of Intramuros in Manila, is open daily from 8am to 11pm and is best explored in the first couple of hours after opening, before tour buses and evening crowds arrive.
 country: "Philippines"
 region: "Manila"
 category: "attraction"

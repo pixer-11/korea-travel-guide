@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: hyderabad-kadamba
+srcHash: 9c0a3f7aea8b
 title: ハイデラバードの「Kadamba(カダンバ)」
 description: Kadamba(カダンバ)は、ハイデラバード・マダプール(Madhapur)のドゥルガム・チェルヴ湖(Durgam Cheruvu lake)を見渡すルーフトップバー。3本の本物のカダンバの木を囲むように造られ、村の寄合所のような低い造り付けの座席が特徴です。
 quickAnswer: Kadamba(カダンバ)は、ハイデラバード・マダプール(Madhapur)のドゥルガム・チェルヴ湖(Durgam Cheruvu lake)を見渡すルーフトップバーで、3本の本物のカダンバの木を取り囲むように造られ、村の寄合所(チャウパル)のような低い造り付けの座席が特徴です。ゴア出身のミクソロジスト、スジャン・シェッティ(Sujan Shetty)とパラシュ・カダム(Palash Kadam)による、既成概念にとらわれないカクテルとスナックのメニューで知られています——アーム・チュル(Aam-Chur)、アガシ・ネグローニ(Agasi Negroni)、ポディ・エダマメ(podi edamame)などが代表例です。訪れるなら夕暮れ時がおすすめで、現在市内でも特に話題のオープンとなっているため事前予約を、また訪問前に営業時間の確認をお忘れなく。

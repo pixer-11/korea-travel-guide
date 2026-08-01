@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: marina-bay-satay-by-the-bay
+srcHash: 36b9a3328483
 title: 'Satay by the Bay: dónde comer en Marina Bay'
 description: 'Satay by the Bay es un patio de comidas al aire libre estilo hawker dentro de Gardens by the Bay (18 Marina Gardens Dr, #01-19), conocido sobre todo por su satay a la parrilla, pero con puestos de comida china, malaya, india y occidental.'
 quickAnswer: 'Satay by the Bay es un patio de comidas al aire libre estilo hawker dentro de Gardens by the Bay (18 Marina Gardens Dr, #01-19), conocido sobre todo por su satay a la parrilla, pero con puestos que abarcan comida china, malaya, india y occidental. Conviene ir a cenar temprano (entre las 5:30 y las 6:30 p. m.) antes de que lleguen las multitudes del espectáculo de luces de Supertree Grove, y hay que contar con precios de puesto callejero (aproximadamente S$10–25 por persona) por una comida abundante e informal en un entorno de jardín.'

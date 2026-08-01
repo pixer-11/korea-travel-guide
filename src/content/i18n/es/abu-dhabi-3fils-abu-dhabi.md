@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: abu-dhabi-3fils-abu-dhabi
+srcHash: 497bd4421f3d
 title: '3Fils: Guía de viaje de Abu Dabi'
 description: '3Fils Abu Dhabi en Abu Dabi, Emiratos Árabes Unidos — un local nuevo y en auge: qué es, dónde está y cómo visitarlo.'
 quickAnswer: '3Fils Abu Dhabi es la nueva sucursal hermana del célebre 3Fils de Dubái, reconocido a nivel mundial, ubicada dentro del hotel The Abu Dhabi Edition en la isla Al Maryah (Al Maryah Island). Espera un menú de inspiración japonesa construido en torno a toques indulgentes como foie gras y trufa, acompañado de una seria propuesta de coctelería, en un espacio pensado para una noche con estilo más que para una comida rápida. Reserva con antelación, viste acorde a la ocasión y ve a cenar en lugar de almorzar: este es un destino nocturno.'

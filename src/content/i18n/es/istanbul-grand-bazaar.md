@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: istanbul-grand-bazaar
+srcHash: 7e7b8550d15d
 title: 'Gran Bazar: Guía de Viaje de Estambul'
 description: El Gran Bazar abre de 8:30 a 19:00 todos los días excepto los domingos, cuando permanece cerrado por completo.
 quickAnswer: El Gran Bazar (Grand Bazaar) abre de 8:30 a 19:00 todos los días excepto los domingos, cuando permanece cerrado por completo. Con más de 4.000 tiendas bajo sus techos abovedados y pintados, es uno de los lugares más visitados de Estambul, así que conviene ir justo a la apertura entre semana para disfrutar del paseo más tranquilo antes de que lleguen los grupos turísticos a media mañana. Entra por la Puerta de Nuruosmaniye (Nuruosmaniye Gate) para la primera impresión más impactante, y calcula al menos dos horas, más si piensas regatear en serio.

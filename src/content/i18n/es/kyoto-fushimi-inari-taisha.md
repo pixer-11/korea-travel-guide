@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: kyoto-fushimi-inari-taisha
+srcHash: 396cc32531e5
 title: 'Fushimi Inari Taisha: Guía de viaje de Kioto'
 description: El Fushimi Inari Taisha es el emblemático santuario de Kioto con sus torii bermellón, fundado en el año 711 d.C. a los pies del monte Inari, en el barrio de Fushimi.
 quickAnswer: 'El Fushimi Inari Taisha es el emblemático santuario de Kioto con sus torii bermellón, fundado en el año 711 d.C. a los pies del monte Inari, en el barrio de Fushimi. Es gratuito, está abierto las 24 horas y lo mejor es visitarlo al amanecer o al atardecer para evitar las multitudes; calcula entre 1,5 y 3 horas según lo lejos que quieras llegar en la ruta de montaña. Toma la línea JR Nara hasta la estación de Inari (una sola parada, unos 5 minutos, desde la estación de Kioto): la entrada del santuario está justo enfrente, cruzando la calle.'

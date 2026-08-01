@@ -1,6 +1,6 @@
 ---
 title: 'Blue Doors: Surabaya Travel Guide'
-description: Blue Doors Surabaya is a photogenic coffee shop on Jl. Imam Bonjol in Tegalsari, a short taxi or ride-hail trip from Surabaya's city center, best visited on
+description: Blue Doors Surabaya is a photogenic coffee shop on Jl. Imam Bonjol in Tegalsari, a short taxi or ride-hail trip from Surabaya's city center, best visited on a weekday morning or mid-afternoon to enjoy its blue-and-white facade and shaded courtyard without a crowd.
 country: Indonesia
 region: Surabaya
 category: trendy

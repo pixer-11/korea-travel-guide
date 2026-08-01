@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: ajman-ajman-museum
+srcHash: e335e3936c80
 title: 'Museo de Ajman: Guía de viaje'
-description: El Museo de Ajman ocupa el restaurado Fuerte de Ajman (Ajman Fort) del siglo XVIII, en la zona de Al Bustan, cerca de la Corniche, y merece 45–60 minutos para ver sus piezas del comercio de perlas
+description: El Museo de Ajman ocupa el restaurado Fuerte de Ajman (Ajman Fort) del siglo XVIII, en la zona de Al Bustan, cerca de la Corniche, y merece 45–60 minutos para ver sus piezas del comercio de perlas, armas tradicionales y las salas reconstruidas de zoco (souq) y majlis.
 quickAnswer: El Museo de Ajman ocupa el restaurado Fuerte de Ajman (Ajman Fort) del siglo XVIII, en la zona de Al Bustan, cerca de la Corniche, y merece 45–60 minutos para ver sus piezas del comercio de perlas, armas tradicionales y las salas reconstruidas de zoco (souq) y majlis. Ve una mañana entre semana para evitar los grupos turísticos y las excursiones escolares, y combínalo después con un paseo por el paseo marítimo de Ajman. Es una parada conocida y sencilla de sumar si estás visitando Dubái o Sharjah, a unos 20–30 minutos en coche desde cualquiera de las dos ciudades.
 faq:
   - q: ¿Cuánto tiempo debería reservar para visitar el Museo de Ajman?

@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: ayutthaya-the-artisans-ayutthaya
+srcHash: 1c552a235f8e
 title: The Artisans：大城府（Ayutthaya）美食推荐
 description: The Artisans Ayutthaya 是一家位于巴萨河（Pa Sak River）班润（Ban Run）一侧的河畔咖啡餐厅，从大城历史公园乘双条车或出租车即可短程抵达。
 quickAnswer: The Artisans Ayutthaya 是一家位于巴萨河（Pa Sak River）班润（Ban Run）一侧的河畔咖啡餐厅，从大城历史公园乘双条车（songthaew）或出租车即可短程抵达，以风景优美、装潢上镜和泰式融合西式的菜单而闻名。凭借超过2,000条评价、4.9分的高评分，这里最适合在游览完寺庙遗址后，安排一顿悠闲的午餐或黄金时段的晚餐前来品尝。建议提前预订，或在周末尽早到店，因为这里深受当地人和游客的欢迎。

@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: seoul-plant-cafe-seoul-yeonnam
+srcHash: 6bcaaca06cc5
 title: 'Plant Cafe Seoul (Yeonnam): Guía de viaje'
 description: Plant Cafe Seoul (Yeonnam) es un café estilo invernadero repleto de plantas en el barrio de Yeonnam-dong, al que se llega mejor desde la estación Sangsu de la Línea 6 o desde el lado del Parque Forestal de la Línea Gyeongui en Hongdae.
 quickAnswer: Plant Cafe Seoul (Yeonnam) es un café estilo invernadero repleto de plantas en el barrio de Yeonnam-dong, al que se llega mejor desde la estación Sangsu de la Línea 6 o desde el lado del Parque Forestal de la Línea Gyeongui en Hongdae. Ve un día entre semana por la mañana o a primera hora de la tarde para conseguir un lugar junto a la ventana entre la vegetación sin la fila del fin de semana, y calcula una hora o dos — es el tipo de lugar en el que la gente se queda un rato y toma fotos en lugar de pasar deprisa. Combínalo con un paseo por el cercano Parque Forestal de la Línea Gyeongui para completar una media jornada de itinerario en Yeonnam.

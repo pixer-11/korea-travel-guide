@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: ipoh-gunung-lang-recreational-park
+srcHash: 3addeee59bfa
 title: 'Parque Recreativo Gunung Lang: Guía de viaje de Ipoh'
 description: El Parque Recreativo Gunung Lang es un lago rodeado de colinas de piedra caliza en Jalan Damai, al norte de Ipoh, ideal para visitar temprano por la mañana (antes de las 9 a.m.) o al final de la tarde.
 quickAnswer: El Parque Recreativo Gunung Lang es un lago rodeado de colinas de piedra caliza en Jalan Damai, al norte de Ipoh, ideal para visitar temprano por la mañana (antes de las 9 a.m.) o al final de la tarde (después de las 5 p.m.), cuando la luz suaviza los acantilados kársticos y baja el calor. Ven a dar un tranquilo paseo en bote de pedales o de remos por el lago en calma, a caminar por el puente colgante y a ver la cascada artificial — calcula entre 1.5 y 2 horas. Es un parque muy querido y muy visitado (no un hallazgo escondido), así que los fines de semana y días festivos se llena rápido.

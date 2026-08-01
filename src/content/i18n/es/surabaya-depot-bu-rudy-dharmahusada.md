@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: surabaya-depot-bu-rudy-dharmahusada
+srcHash: 20c2d0896c49
 title: 'Depot Bu Rudy Dharmahusada: Dónde comer en Surabaya'
 description: Depot Bu Rudy Dharmahusada es una institución de larga trayectoria en Surabaya, ubicada en Jl. Dharmahusada.
 quickAnswer: Depot Bu Rudy Dharmahusada es una institución de larga trayectoria en Surabaya, situada en Jl. Dharmahusada, conocida por su cocina javanesa oriental con protagonismo del sambal, especialmente el rempeyek (crocantes de maní/anchoas), el empal y el pollo frito con sambal que los clientes habituales compran por kilo para llevar a casa. Con una calificación de 4.5 en casi 17,000 reseñas, siempre está lleno, así que lo ideal es ir a almorzar temprano (11:30 h) o en la calma de media tarde (14:30–16:00 h) para evitar las peores aglomeraciones.

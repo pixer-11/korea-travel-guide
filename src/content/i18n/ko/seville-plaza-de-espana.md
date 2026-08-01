@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: seville-plaza-de-espana
+srcHash: 28652e53903a
 title: '스페인 광장(Plaza de España): 세비야 여행 가이드'
 description: 스페인 광장(Plaza de España)은 마리아 루이사 공원(María Luisa Park) 안에 있으며, 대성당에서 도보로 15-20분 거리이거나 C1/C2 버스나 트램을 타면 프라도 데 산 세바스티안(Prado de San Sebastián)까지 금방 갈 수 있습니다.
 quickAnswer: 스페인 광장(Plaza de España)은 마리아 루이사 공원(María Luisa Park) 안에 있으며, 대성당에서 도보로 15-20분 거리이거나 C1/C2 버스나 트램을 타면 프라도 데 산 세바스티안(Prado de San Sebastián)까지 금방 갈 수 있습니다. 입장은 무료이고 하루 종일 개방되어 있지만, 타일 장식과 운하를 단체 관광객 없이 보려면 개장 직후(오전 8-9시경)나 일몰 전 마지막 한 시간에 방문하는 것이 좋습니다. 45-90분 정도 시간을 잡되, 운하에서 보트를 타거나 각 주(province)의 도자기 알코브를 하나하나 둘러본다면 더 여유 있게 계획하세요.

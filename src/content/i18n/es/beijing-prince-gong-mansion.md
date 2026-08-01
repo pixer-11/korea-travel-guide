@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: beijing-prince-gong-mansion
+srcHash: d933c8d943c4
 title: 'Mansión del Príncipe Gong: Guía de Viaje de Pekín'
 description: La Mansión del Príncipe Gong (Gong Wang Fu), en el distrito de Xicheng de Pekín, cerca del lago Shichahai, es la residencia principesca de la dinastía Qing mejor conservada abierta al público.
 quickAnswer: 'La Mansión del Príncipe Gong (Gong Wang Fu), en el distrito de Xicheng de Pekín, cerca del lago Shichahai, es la residencia principesca de la dinastía Qing mejor conservada abierta al público: un conjunto de patios, corredores pintados y un jardín amurallado construido en 1777. Calcula entre dos y tres horas, llega justo a la apertura para tener las sendas de las rocallas del jardín para ti solo, y combínala con un paseo por Houhai/Shichahai después. Tiene una valoración de 4.4 sobre más de mil reseñas, pero aun así se siente poco concurrida en comparación con la Ciudad Prohibida.'

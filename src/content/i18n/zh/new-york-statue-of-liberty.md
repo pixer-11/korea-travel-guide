@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: new-york-statue-of-liberty
+srcHash: 838fdde63ca7
 title: 自由女神像：纽约旅行指南
 description: 从曼哈顿炮台公园（Battery Park）（或新泽西州自由州立公园）搭乘官方的Statue City Cruises渡轮前往自由女神像，这是……
 quickAnswer: 从曼哈顿炮台公园（Battery Park）（或新泽西州自由州立公园，Liberty State Park）搭乘官方的Statue City Cruises渡轮前往自由女神像，这是合法登上自由岛（Liberty Island）的唯一方式。请提前几周订票，尤其是想预约底座或皇冠登顶名额时更要尽早预订，并建议安排半天时间，同时游览自由岛和爱丽丝岛（Ellis Island）。建议选择工作日清晨前往，排队时间最短，拍照光线也最佳。

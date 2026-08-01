@@ -1,6 +1,6 @@
 ---
 title: "Kaohsiung Central Park: Travel Guide"
-description: "Kaohsiung Central Park is a large, shaded city park in Qianjin District built around a lake, fountains, and looping walking paths — reachable directly via"
+description: Kaohsiung Central Park is a large, shaded city park in Qianjin District built around a lake, fountains, and looping walking paths — reachable directly via Central Park Station (Kaohsiung MRT Red Line, R9).
 country: "Taiwan"
 region: "Kaohsiung"
 category: "attraction"

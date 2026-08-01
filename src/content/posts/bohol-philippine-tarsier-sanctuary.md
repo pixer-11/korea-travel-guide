@@ -1,6 +1,6 @@
 ---
 title: 'Philippine Tarsier Sanctuary: Bohol Travel Guide'
-description: The Philippine Tarsier Sanctuary in Corella, about 20–25 minutes from Tagbilaran City, is the most reliable place on Bohol to see wild tarsiers up close in
+description: The Philippine Tarsier Sanctuary in Corella, about 20–25 minutes from Tagbilaran City, is the most reliable place on Bohol to see wild tarsiers up close in protected forest rather than in a cage.
 country: Philippines
 region: Bohol
 category: hidden-gem

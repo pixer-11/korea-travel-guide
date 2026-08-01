@@ -1,6 +1,6 @@
 ---
 title: "Hawa Mahal: Jaipur Travel Guide"
-description: "Hawa Mahal is the pink, five-story honeycomb facade on Badi Choupad in Jaipur's Old City — come right at opening (9am) or in the last hour before closing to"
+description: Hawa Mahal is the pink, five-story honeycomb facade on Badi Choupad in Jaipur's Old City — come right at opening (9am) or in the last hour before closing to beat the tour-bus crowds, and budget 45 minutes to an hour inside.
 country: "India"
 region: "Jaipur"
 category: "attraction"

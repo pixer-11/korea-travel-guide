@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: singapore-smash-street
+srcHash: 99df286991f5
 title: 新加坡的 Smash Street
 description: Smash Street 是爆红意面吧 Scarpetta 团队打造的全新 smash burger 概念餐厅,主打在手工马铃薯面包上夹入焦糖化、边缘酥脆的煎牛肉饼。
 quickAnswer: Smash Street 是爆红意面吧 Scarpetta 团队打造的全新 smash burger 概念餐厅,主打在手工马铃薯面包(potato buns)上夹入焦糖化、边缘酥脆的煎牛肉饼。它于 2026 年 4 月 3 日开业,迅速成为新加坡最受热议的休闲美食去处之一。由于才刚开业,各项细节仍在调整中,建议前往之前先确认最新的营业时间、具体地点信息,以及是否需要预订。

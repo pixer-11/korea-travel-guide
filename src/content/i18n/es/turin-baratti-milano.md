@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: turin-baratti-milano
+srcHash: e607d057e6c3
 title: 'Baratti & Milano: Guía de viaje de Turín'
-description: Baratti & Milano es un café dorado y forrado de espejos del siglo XIX en Piazza Castello, justo debajo de la Galleria Subalpina, famoso por sus chocolates gianduiotto
+description: Baratti & Milano es un café dorado y forrado de espejos del siglo XIX en Piazza Castello, justo debajo de la Galleria Subalpina, famoso por sus chocolates gianduiotto, el bicerin (la bebida turinesa por capas de café, chocolate y crema) y su interior Belle Époque de mármol y latón.
 quickAnswer: Baratti & Milano es un café dorado y forrado de espejos del siglo XIX en Piazza Castello, justo debajo de la Galleria Subalpina, famoso por sus chocolates gianduiotto, el bicerin (la bebida turinesa por capas de café, chocolate y crema) y su interior Belle Époque de mármol y latón. Abre todos los días excepto los lunes, de 9:00 a 20:00; ve justo a la apertura (9:00–10:00) en un día laborable para conseguir mesa sin esperar, y evita si puedes el ajetreo del fin de semana, de 10:00 a 20:00.
 faq:
   - q: ¿Cómo llego a Baratti & Milano?

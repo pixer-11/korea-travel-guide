@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: nha-trang-la-nha
+srcHash: 146bcc2cee80
 title: 'Là Nhà: Dónde comer en Nha Trang'
-description: Là Nhà es un restaurante vietnamita grande y animado en 102 Đường Hồng Bàng, en el centro de Nha Trang, conocido por su hotpot, mariscos y platos a la parrilla servidos
+description: Là Nhà es un restaurante vietnamita grande y animado en 102 Đường Hồng Bàng, en el centro de Nha Trang, conocido por su hotpot, mariscos y platos a la parrilla servidos al estilo familiar y a precios razonables.
 quickAnswer: Là Nhà es un restaurante vietnamita grande y animado en 102 Đường Hồng Bàng, en el centro de Nha Trang, conocido por su hotpot, mariscos y platos a la parrilla servidos al estilo familiar y a precios razonables. Con una calificación de 4.8 basada en más de 7,400 reseñas, es ideal para visitar en grupos de 2 a 4 personas para poder compartir varios platos, y se llena en la hora de la cena, así que conviene llegar antes de las 6pm o esperar un poco de fila.
 faq:
   - q: ¿Dónde se encuentra exactamente Là Nhà?

@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: jeonju-hidden-gem
+srcHash: 49bc151efab2
 title: Una joya escondida en Jeonju
 description: Olvídate de los callejones abarrotados del centro de Jeonju Hanok Village y dirígete a la zona de Nammusil-gil y Jaman Mural Village, al este del núcleo del pueblo.
 quickAnswer: Olvídate de los callejones abarrotados del centro de Jeonju Hanok Village y dirígete en cambio a la zona de Nammusil-gil y Jaman Mural Village, al este del núcleo del pueblo, además de los tranquilos callejones residenciales que rodean las colinas de Omokdae e Imokdae. Estos lugares están a 10–15 minutos a pie del conjunto hanok principal, pero reciben una fracción del tráfico peatonal, y es ahí donde encontrarás casas de té tradicionales en funcionamiento, pequeños talleres de papel hanji y vistas panorámicas de los tejados de tejas sin las colas para comprar entradas.

@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: tongyeong-tongyeong-cablecar-skywalk
+srcHash: 54958a98209c
 title: 'Teleférico y Skywalk de Tongyeong: Guía de viaje'
-description: Sube en el teleférico de Tongyeong (Tongyeong Cablecar) desde su estación base en Sanyang-eup hasta el monte Mireuksan (461 m) y recorre a pie el Skywalk, la pasarela de suelo de cristal cerca de la cima, con vistas panorámicas
+description: Sube en el teleférico de Tongyeong (Tongyeong Cablecar) desde su estación base en Sanyang-eup hasta el monte Mireuksan (461 m) y recorre a pie el Skywalk, la pasarela de suelo de cristal cerca de la cima, con vistas panorámicas sobre el puerto de Tongyeong y las islas del Parque Nacional Marino Hallyeohaesang.
 quickAnswer: Sube en el teleférico de Tongyeong (Tongyeong Cablecar) desde su estación base en Sanyang-eup hasta el monte Mireuksan (461 m) y recorre a pie el Skywalk, la pasarela de suelo de cristal cerca de la cima, con vistas panorámicas sobre el puerto de Tongyeong y las islas del Parque Nacional Marino Hallyeohaesang. Calcula entre 2 y 3 horas en total, incluyendo el trayecto en teleférico, los senderos de la cima y el Skywalk; ve una mañana despejada o antes del atardecer para evitar la neblina y las multitudes. La atracción cuenta con una sólida puntuación de 4.4 sobre más de 5,500 reseñas, lo que refleja su estatus como una de las visitas imprescindibles de Tongyeong.
 faq:
   - q: ¿Cómo llego al Teleférico y Skywalk de Tongyeong sin coche?

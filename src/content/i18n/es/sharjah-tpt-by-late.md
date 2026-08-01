@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: sharjah-tpt-by-late
+srcHash: e75bb1b292ce
 title: 'TPT by Late: Guía de viaje de Sharjah'
-description: TPT by Late es una cafetería muy valorada y con gran afluencia en la comunidad de Misk, en Muwaileh Commercial, Sharjah — ve un día de semana por la mañana o a primera hora de la tarde para evitar las
+description: TPT by Late es una cafetería muy valorada y con gran afluencia en la comunidad de Misk, en Muwaileh Commercial, Sharjah — ve un día de semana por la mañana o a primera hora de la tarde para evitar las aglomeraciones de la tarde-noche, pide en el mostrador y espera un menú moderno disponible todo el día con café, platos de brunch y postres.
 quickAnswer: TPT by Late es una cafetería muy valorada y con gran afluencia en la comunidad de Misk, en Muwaileh Commercial, Sharjah — ve un día de semana por la mañana o a primera hora de la tarde para evitar las aglomeraciones de la tarde-noche, pide en el mostrador y espera un menú moderno disponible todo el día con café, platos de brunch y postres. Es lo bastante popular como para que las tardes-noche de fin de semana impliquen espera, así que organiza tu visita contando con ello en vez de esperar encontrar un lugar tranquilo y poco conocido.
 faq:
   - q: ¿Cómo llego a TPT by Late sin coche?

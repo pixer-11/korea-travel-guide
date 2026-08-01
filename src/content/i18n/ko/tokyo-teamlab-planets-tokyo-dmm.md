@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: tokyo-teamlab-planets-tokyo-dmm
+srcHash: b349a267d778
 title: 'teamLab Planets TOKYO DMM: 여행 가이드'
 description: teamLab Planets는 도쿄 고토구(Koto City) 도요스(Toyosu)에 위치한, 맨발로 체험하는 물과 빛의 디지털 아트 뮤지엄입니다 — 온라인으로 시간대별 티켓을 미리 예약하고, 반바지나 걷어올릴 수 있는 옷을 입으세요.
 quickAnswer: teamLab Planets는 도쿄 고토구(Koto City) 도요스(Toyosu)에 위치한, 맨발로 체험하는 물과 빛의 디지털 아트 뮤지엄입니다 — 온라인으로 시간대별 티켓을 미리 예약하고, 반바지나 걷어올릴 수 있는 옷을 입으세요(물속을 걸어야 합니다). 관람 시간은 90분~2시간 정도로 잡으면 됩니다. 유리카모메 선(Yurikamome Line) 또는 도쿄 메트로 유라쿠초 선(Tokyo Metro Yurakucho Line) 도요스역(Toyosu Station)에서 도보로 짧게 이동할 수 있으며, 늘 많은 인파가 몰리는 곳이라 평일 오전이 가장 여유롭습니다.

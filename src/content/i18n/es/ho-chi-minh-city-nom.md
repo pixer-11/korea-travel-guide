@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: ho-chi-minh-city-nom
+srcHash: 01c1ff515347
 title: 'NÔM: Dónde comer en Ho Chi Minh City'
 description: 'NÔM en Ho Chi Minh City (Ciudad Ho Chi Minh), Vietnam — un lugar nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: NÔM es un restaurante Michelin Selected en Ho Chi Minh City dirigido por el chef Chris Fong, nombrado Apertura del Año en la Guía MICHELIN Vietnam 2026. Es un destino serio que exige reserva previa, dedicado a la cocina vietnamita moderna, más que una parada informal de comida callejera, así que reserva con antelación y confirma el horario actual antes de ir.

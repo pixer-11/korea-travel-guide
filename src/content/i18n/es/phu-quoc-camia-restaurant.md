@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: phu-quoc-camia-restaurant
+srcHash: 6552ab9ef399
 title: 'Camia Restaurant: dónde comer en Phu Quoc'
 description: Camia Restaurant es un local frente al mar en Ong Lang Beach, en la calle Le Thuc Nha, al norte de la ciudad de Duong Dong, ideal para visitar al atardecer y disfrutar de marisco fresco con los pies casi en la arena.
 quickAnswer: Camia Restaurant es un local frente al mar en Ong Lang Beach, en la calle Le Thuc Nha, al norte de la ciudad de Duong Dong, ideal para visitar al atardecer y disfrutar de marisco fresco con los pies casi en la arena. Tiene una valoración excepcional de 4.8 en casi 2,500 reseñas, así que conviene llegar a primera hora de la tarde-noche o reservar con antelación en temporada alta (nov-abr) para conseguir mesa justo junto al agua.

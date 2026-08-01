@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: incheon-chinatown
+srcHash: e4f89ff1ea77
 title: El Barrio Chino de Incheon
 description: El Barrio Chino de Incheon se encuentra justo a la salida de la Estación de Incheon (Línea 1, Salida 1) y es ideal para una excursión de medio día.
 quickAnswer: 'El Barrio Chino de Incheon se encuentra justo a la salida de la Estación de Incheon (Línea 1, Salida 1) y es ideal para una excursión de medio día: pasea por la cuesta de Chinatown-ro, flanqueada de faroles rojos, prueba el jajangmyeon (fideos con salsa de frijol negro) en alguno de los restaurantes chinos tradicionales, y luego sube hasta el Parque Jayu (de la Libertad) para bajar después hacia las calles históricas del Puerto Abierto y el callejón de murales de Wangbimarosugil. Ve un día de semana por la tarde para evitar las multitudes de grupos turísticos, y reserva entre 3 y 4 horas, incluyendo una comida.'

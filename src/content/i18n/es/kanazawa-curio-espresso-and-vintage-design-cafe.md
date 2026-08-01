@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: kanazawa-curio-espresso-and-vintage-design-cafe
+srcHash: 82450f35674b
 title: 'Curio Espresso and Vintage Design Café: Guía de viaje de Kanazawa'
 description: Curio Espresso and Vintage Design Café es una pequeña cafetería de diseño en el barrio de Yasue-chō de Kanazawa, a poca distancia a pie del mercado Omicho y de la estación de Kanazawa.
 quickAnswer: Curio Espresso and Vintage Design Café es una pequeña cafetería de diseño en el barrio de Yasue-chō de Kanazawa, a poca distancia a pie del mercado Omicho (Omicho Market) y de la estación de Kanazawa. Ideal para tomar espresso de especialidad, café de filtro y contundentes platos de brunch (piensa en huevos estilo shakshuka, granola casera, tostadas gruesas) servidos en vajilla vintage variada dentro de una sala de estilo mid-century. Calcula entre 20 y 40 minutos para un café y un tentempié, más si pides brunch; llega antes de las 10:00 o después de las 14:00 para evitar la franja de más afluencia.

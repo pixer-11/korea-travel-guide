@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: abu-dhabi-art-house-cafe
+srcHash: ab04ec184268
 title: '아트 하우스 카페: 아부다비 여행 가이드'
 description: 아트 하우스 카페(Art House Cafe)는 아부다비 알 바틴(Al Bateen) 지역에 위치한 에티하드 모던 아트 갤러리(Etihad Modern Art Gallery) 안에 자리한 곳으로, 알록달록하고 식물이 가득한 공간에서 종일 조식을 즐길 수 있는 것으로 유명합니다.
 quickAnswer: 아트 하우스 카페(Art House Cafe)는 아부다비 알 바틴(Al Bateen) 지역에 위치한 에티하드 모던 아트 갤러리(Etihad Modern Art Gallery) 안에 자리한 곳으로, 알록달록하고 식물이 가득한 공간에서 종일 조식, 샌드위치, 스페셜티 커피로 유명합니다. 대기 없이 갤러리 분위기를 즐기려면 평일 오전에 방문하고, 식사와 작품 감상에 45~90분 정도를 잡아두세요. 주말에는 인기가 많아 붐비므로 미리 예약하거나 일찍 방문하는 것이 좋습니다.

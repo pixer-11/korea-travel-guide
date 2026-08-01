@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: suncheon-suncheon-bay
+srcHash: ff0b688d9e9c
 title: Bahía de Suncheon
-description: 'El Jardín Nacional de la Bahía de Suncheon y la contigua Reserva del Humedal de la Bahía de Suncheon (Suncheonman) se visitan mejor juntos en una sola excursión de un día: comienza por el'
+description: 'El Jardín Nacional de la Bahía de Suncheon y la contigua Reserva del Humedal de la Bahía de Suncheon (Suncheonman) se visitan mejor juntos en una sola excursión de un día: comienza por la mañana en el Jardín Nacional, camina o toma el autobús lanzadera hasta la entrada del humedal, y luego sube al Mirador de Yongsan (Yongsan Observatory) antes del atardecer para ver el famoso canal de juncos en forma de S.'
 quickAnswer: 'El Jardín Nacional de la Bahía de Suncheon y la contigua Reserva del Humedal de la Bahía de Suncheon (Suncheonman) se visitan mejor juntos en una sola excursión de un día: comienza por la mañana en el Jardín Nacional, camina o toma el autobús lanzadera hasta la entrada del humedal, y luego sube al Mirador de Yongsan (Yongsan Observatory) antes del atardecer para ver el famoso canal de juncos en forma de S. Reserva una tarde completa (4-6 horas) y lleva calzado adecuado para pasarelas de madera y una subida de dificultad moderada.'
 faq:
   - q: ¿Cuánto tiempo debería planear pasar en la Bahía de Suncheon?

@@ -1,8 +1,9 @@
 ---
 lang: zh
 slug: taipei-itzy-tunnel-vision-world-tour-taipei
+srcHash: 6c66e9b07ae5
 title: ITZY「TUNNEL VISION」世界巡演——台北站必知资讯（台北）
-description: ITZY「TUNNEL VISION」世界巡演将于2026年9月5日抵达台北，在台北小巨蛋（Taipei Arena）举行，届时乐队将演出2026年迷你专辑《Motto》中的曲目
+description: ITZY「TUNNEL VISION」世界巡演将于2026年9月5日抵达台北，在台北小巨蛋（Taipei Arena）举行，届时乐队将演唱2026年迷你专辑《Motto》中的曲目，以及过去的经典金曲。
 quickAnswer: ITZY「TUNNEL VISION」世界巡演将于2026年9月5日抵达台北，在台北小巨蛋（Taipei Arena）举行，届时乐队将演唱2026年迷你专辑《Motto》中的曲目，以及过去的经典金曲。请注意，此日期与场地为目前公布的最新信息，演出临近时请务必在售票平台及场馆官方渠道再次确认，因为演唱会时间安排及售票细节可能会有变动。建议提前抵达现场，因为台北小巨蛋举办的大型K-pop演出通常一票难求，周边捷运站也会涌入大量人潮。
 faq:
   - q: ITZY台北演唱会的确切日期是什么时候？

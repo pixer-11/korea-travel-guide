@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: bangkok-somsak
+srcHash: 21cea1125139
 title: 'Somsak en Bangkok: guía para visitantes'
 description: 'Somsak en Bangkok, Tailandia — un lugar nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Somsak es un restaurante isaan (del noreste de Tailandia) de alto concepto en Ekkamai, Bangkok, creado por el equipo detrás de Fatboy Izakaya, construido en torno a una historia kitsch de un taxista ficticio de Bangkok que hizo fortuna en Escocia. Vale la pena ir por la decoración teatral y su versión ruidosa y festiva de los platos regionales tailandeses, más que por una cena tranquila — espera un ambiente de bar-club, especialmente después de las 21:00. Reserva con antelación si es posible y confirma los horarios actuales, ya que los detalles de los lugares nuevos y de moda cambian rápido.

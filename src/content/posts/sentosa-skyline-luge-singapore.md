@@ -1,6 +1,6 @@
 ---
 title: 'Skyline Luge Singapore: Sentosa Travel Guide'
-description: Skyline Luge Singapore, at 1 Imbiah Rd on Sentosa, combines a scenic chairlift ride up with a self-steered go-kart-style luge run back down tracks like the
+description: Skyline Luge Singapore, at 1 Imbiah Rd on Sentosa, combines a scenic chairlift ride up with a self-steered go-kart-style luge run back down tracks like the Dragon Trail and Jungle Trail.
 country: Singapore
 region: Sentosa
 category: attraction

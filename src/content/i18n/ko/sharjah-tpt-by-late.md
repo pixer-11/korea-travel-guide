@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: sharjah-tpt-by-late
+srcHash: e75bb1b292ce
 title: 'TPT by Late: 샤르자 여행 가이드'
 description: TPT by Late는 샤르자(Sharjah) 무와일레 커머셜(Muwaileh Commercial) 미스크(Misk) 커뮤니티에 위치한 평점 높고 방문객이 많은 카페입니다 — 저녁 혼잡을 피하려면 평일 오전이나 이른 오후에 방문하세요.
 quickAnswer: TPT by Late는 샤르자(Sharjah) 무와일레 커머셜(Muwaileh Commercial) 미스크(Misk) 커뮤니티에 위치한 평점 높고 방문객이 많은 카페입니다 — 저녁 시간대의 혼잡을 피하려면 평일 오전이나 이른 오후에 방문하고, 카운터에서 주문하며, 커피와 브런치 플레이트, 디저트로 구성된 모던한 올데이 메뉴를 기대하면 됩니다. 주말 저녁에는 대기가 발생할 정도로 인기가 많은 곳이니, 조용하고 알려지지 않은 장소를 기대하기보다는 이 점을 감안해 방문 계획을 세우는 것이 좋습니다.

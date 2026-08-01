@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: yogyakarta-taman-sari-tourist-village
+srcHash: edec43533be7
 title: 水堡（Taman Sari）旅游村：日惹旅行指南
 description: 塔曼萨里水堡（Taman Sari）是位于日惹王宫区（Kraton district）的一座18世纪皇家园林兼沐浴建筑群，最佳游览时间是清晨（约8-9点），可避开酷热与旅行团。
 quickAnswer: 塔曼萨里水堡（Taman Sari）是位于日惹王宫区（Kraton district）的一座18世纪皇家园林兼沐浴建筑群，最佳游览时间是清晨（约8-9点），既能避开酷热天气，也能避开旅行团人潮。建议安排1-1.5小时游览，穿一双适合走窄巷的鞋子，并可以顺道游览附近的苏丹王宫（Kraton）和步行不远的地下清真寺古隆水井（Sumur Gumuling）。

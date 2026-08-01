@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: busan-huinnyeoul-culture-village
+srcHash: e339f49f6ec0
 title: フィニョウル文化村（Huinnyeoul Culture Village）：釜山旅行ガイド
 description: フィニョウル文化村は、釜山の影島（Yeongdo Island）にある小さな海辺の町。地下鉄の直通はなくバスでのアクセスが基本で、徒歩1〜1.5時間ほどで巡るのがおすすめです。
 quickAnswer: フィニョウル文化村は、釜山の影島（Yeongdo Island）にある小さな海辺の町です。地下鉄の直通はなく、バスでアクセスするのが基本で、徒歩1〜1.5時間ほどで巡るのがおすすめです。崖沿いに続く細い路地、壁画で彩られた家々、そして絶影湾（Jeoryeong Bay）を望む岩場の海沿い遊歩道が見どころ。近くの絶影海岸散策路（Jeoryeong Coastal Walk）や蓬莱山（Bongnae Mountain）と組み合わせれば、半日の観光コースになります。訪れるなら午後遅め、光がやわらかくなり、甘川文化村（Gamcheon Culture Village）に比べて人出も少なくなる時間帯がおすすめです。

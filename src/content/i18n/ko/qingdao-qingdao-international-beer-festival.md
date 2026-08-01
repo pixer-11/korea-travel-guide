@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: qingdao-qingdao-international-beer-festival
+srcHash: c46a2f6b20e4
 title: '칭다오 국제 맥주 축제: 알아야 할 모든 것 (칭다오)'
 description: 칭다오 국제 맥주 축제는 2026년 7월 중순부터 8월까지 칭다오 청양구(Chengyang District)의 축제장(비어시티, 지모 인근)에서 열립니다.
 quickAnswer: 칭다오 국제 맥주 축제는 2026년 7월 중순부터 8월까지 칭다오 청양구(Chengyang District)의 축제장(비어시티, 지모(Jimo) 인근)에서 열리며, 역사적인 바다관(Badaguan)과 칭다오 맥주 박물관(Tsingtao Brewery Museum) 인근 해변가 일대에서도 도시 전역에 걸쳐 부대 행사가 함께 진행됩니다. 중국 및 해외 양조장들의 야외 시음 행사, 라이브 음악 공연, 그리고 매일 밤 몰려드는 엄청난 인파를 만나볼 수 있습니다 — 주말에는 줄서기를 피하려면 늦어도 오후 중반까지는 도착하는 것이 좋고, 정확한 날짜, 행사장 지도, 티켓 정보는 출발 전 축제 공식 채널에서 반드시 확인하세요.

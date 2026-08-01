@@ -1,8 +1,9 @@
 ---
 lang: ko
 slug: ha-long-bay-sung-sot-cave
+srcHash: cd6e011afd12
 title: '숭솟 동굴(Sung Sot Cave): 할롱베이 여행 가이드'
-description: 보혼섬(Bo Hon Island)에 위치한 숭솟(Surprise) 동굴은 할롱베이(Ha Long Bay)에서 가장 크고 방문객이 가장 많은 동굴로, 오직 배로만 갈 수 있으며 보통 데이 크루즈나
+description: 할롱베이(Ha Long Bay) 보혼섬(Bo Hon Island)에 있는 숭솟(Surprise) 동굴은 할롱베이에서 가장 크고 방문객이 가장 많은 동굴로, 오직 배로만 갈 수 있으며 보통 데이 크루즈나 1박 정크선 일정 중 한 코스로 들르게 됩니다.
 quickAnswer: 할롱베이(Ha Long Bay) 보혼섬(Bo Hon Island)에 있는 숭솟(Surprise) 동굴은 할롱베이에서 가장 크고 방문객이 가장 많은 동굴로, 오직 배로만 갈 수 있으며 보통 데이 크루즈나 1박 정크선 일정 중 한 코스로 들르게 됩니다. 조명이 밝혀진 돌계단으로 이어진 두 개의 동굴을 걸어서 둘러보는 데 45~60분 정도 잡으면 되고, 단체 관광객이 몰리기 전인 이른 아침이나 늦은 오후에 방문하는 것이 좋습니다. 할롱베이 크루즈 티켓 대부분에 이미 포함되어 있어 따로 예약할 필요가 거의 없습니다.
 faq:
   - q: 숭솟 동굴은 어떻게 가나요?

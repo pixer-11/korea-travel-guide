@@ -1,6 +1,6 @@
 ---
 title: "Port Antique: Marseille Travel Guide"
-description: "Jardin des Vestiges (Port Antique) is a small sunken park behind the Centre Bourse shopping mall in Marseille's 1st arrondissement, where you can walk right"
+description: Jardin des Vestiges (Port Antique) is a small sunken park behind the Centre Bourse shopping mall in Marseille's 1st arrondissement, where you can walk right up to the actual Greek city walls and a stretch of Roman road, all set below street level in a quiet green pocket.
 country: "France"
 region: "Marseille"
 category: "hidden-gem"

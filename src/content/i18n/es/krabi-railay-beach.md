@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: krabi-railay-beach
+srcHash: e27337628649
 title: 'Playa Railay: Guía de viaje de Krabi'
 description: Railay Beach es una península de piedra caliza libre de coches cerca de Ao Nang, a la que solo se puede llegar en barco de cola larga (unos 15-20 minutos desde Ao Nang o el embarcadero de Nopparat Thara).
 quickAnswer: 'Railay Beach es una península de piedra caliza libre de coches cerca de Ao Nang, a la que solo se puede llegar en barco de cola larga (unos 15-20 minutos desde Ao Nang o el embarcadero de Nopparat Thara). Vale la pena visitarla por los acantilados de karst, la escalada en roca y las vistas a la laguna: planea una excursión de medio día o una estancia de una noche para ver las cuatro playas (West Railay, East Railay, Phra Nang y la zona de Diamond/Ton Sai) sin prisas.'

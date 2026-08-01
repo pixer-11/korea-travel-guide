@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: surabaya-monumen-kapal-selam-surabaya
+srcHash: 3420f889ed06
 title: '몬카셀(잠수함 기념관): 수라바야 여행 가이드'
 description: 몬카셀(Monumen Kapal Selam)은 실제로 퇴역한 러시아제 잠수함 KRI 파소파티(Pasopati) 410호를 해안에 올려 개조한 도보 관람형 박물관으로, Jl. Pemuda에 위치해 있습니다.
 quickAnswer: 몬카셀(Monumen Kapal Selam, Monkasel)은 실제로 퇴역한 러시아제 잠수함 KRI 파소파티(Pasopati) 410호를 해안에 올려 개조한 도보 관람형 박물관으로, 수라바야 중심가의 Jl. Pemuda에 있습니다. 좁은 선체 내부를 둘러보는 데 45~60분 정도를 예상하시면 되고, 그 후 카페들이 있는 강변 공원에서 여유를 즐기기 좋습니다. 같은 도심 구역에 위치해 있어 툰중안 플라자(Tunjungan Plaza)나 발라이 프무다(Balai Pemuda) 방문과 함께 들르기 좋은 곳입니다.

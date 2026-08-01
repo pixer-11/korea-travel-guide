@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: seoul-dallas-pizza
+srcHash: f84cd2de8ce5
 title: 首尔达拉斯披萨（Dallas Pizza）游览指南
 description: 介绍首尔新晋热门餐厅达拉斯披萨（Dallas Pizza）——它是什么、位于何处，以及如何前往参观。
 quickAnswer: 达拉斯披萨（Dallas Pizza）是一家仅接受预约的披萨店，藏身于首尔文来洞（Mullae-dong）一条狭窄小巷内，紧邻一家仍在运营的金属加工厂。文来洞曾是首尔老工业区，如今已成为艺术家与小型创意商户的聚集地。由于需求旺盛、临时上门未必能就餐，建议提前预订，并在出发前确认最新营业时间，因为这家店刚开业不久，相关信息可能会有变动。建议将用餐行程与漫步文来洞艺术村（Mullae Art Village）结合起来，参观那里布满壁画的工坊，体验完整的街区氛围。

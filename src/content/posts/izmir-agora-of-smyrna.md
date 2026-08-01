@@ -1,6 +1,6 @@
 ---
 title: "Agora of Smyrna: Izmir Travel Guide"
-description: "The Agora of Smyrna, tucked into Izmir's Namazgah district in Konak, is the excavated marketplace of the Roman city rebuilt after a 178 AD earthquake, with a"
+description: The Agora of Smyrna, tucked into Izmir's Namazgah district in Konak, is the excavated marketplace of the Roman city rebuilt after a 178 AD earthquake, with a triple-arched basilica, a colonnaded courtyard, and vaulted cisterns you can still walk beneath.
 country: "Turkey"
 region: "Izmir"
 category: "hidden-gem"

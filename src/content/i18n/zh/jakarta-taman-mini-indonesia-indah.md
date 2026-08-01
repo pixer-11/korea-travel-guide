@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: jakarta-taman-mini-indonesia-indah
+srcHash: 8a35a31b7aff
 title: 美丽印尼缩影公园（Taman Mini Indonesia Indah）：雅加达旅行指南
 description: 美丽印尼缩影公园（Taman Mini Indonesia Indah，简称TMII）是位于东雅加达的一座大型文化主题公园，印尼全国34个省份都在此以实体大小的传统民居建筑形式呈现。
 quickAnswer: 美丽印尼缩影公园（Taman Mini Indonesia Indah，简称TMII）是位于东雅加达的一座大型文化主题公园，印尼全国34个省份都在此以实体大小的传统民居建筑形式呈现，园内还设有多座博物馆、花园、缆车以及一座IMAX风格的影院。建议至少安排半天时间游览——如果还想乘坐缆车并参观两三座博物馆，则最好预留一整天。建议选择工作日前往，以避开周末和公共假期涌入园区的人潮。

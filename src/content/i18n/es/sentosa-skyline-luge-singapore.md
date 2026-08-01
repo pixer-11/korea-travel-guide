@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: sentosa-skyline-luge-singapore
+srcHash: a73749a0a472
 title: 'Skyline Luge Singapur: Guía de viaje de Sentosa'
-description: Skyline Luge Singapur, en 1 Imbiah Rd en Sentosa, combina un pintoresco paseo en telesilla de subida con un descenso autoconducido al estilo kart por pistas como el
+description: Skyline Luge Singapur, en 1 Imbiah Rd en Sentosa, combina un pintoresco paseo en telesilla de subida con un descenso autoconducido al estilo kart por pistas como el Dragon Trail y el Jungle Trail.
 quickAnswer: Skyline Luge Singapur, en 1 Imbiah Rd en Sentosa, combina un pintoresco paseo en telesilla de subida con un descenso autoconducido al estilo kart por pistas como el Dragon Trail y el Jungle Trail. Compra las entradas combo (telesilla + varias vueltas en luge) online con antelación, llega un día laborable por la mañana o después de las 4pm para evitar las peores aglomeraciones, y calcula entre 1,5 y 2 horas en total incluyendo las colas.
 faq:
   - q: ¿Cómo llego a Skyline Luge Singapur sin coche?

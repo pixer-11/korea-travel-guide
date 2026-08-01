@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: hyderabad-kadamba
+srcHash: 9c0a3f7aea8b
 title: 海得拉巴 Kadamba 屋顶酒吧
 description: Kadamba 是位于海得拉巴 Madhapur 的一间屋顶酒吧,俯瞰 Durgam Cheruvu 湖,以三棵真实生长的 Kadamba 树和低矮的原址座位设计而闻名,风格宛如印度村落的公共集会场所（chaupal）。
 quickAnswer: Kadamba 是位于海得拉巴 Madhapur 的一间屋顶酒吧,俯瞰 Durgam Cheruvu 湖,围绕三棵真实生长的 Kadamba 树而建,配有低矮的原址座位,风格宛如印度村落的公共集会场所（village chaupal）。这里以来自果阿（Goa）的调酒师 Sujan Shetty 与 Palash Kadam 合作打造的大胆创新鸡尾酒和小食菜单而闻名——比如 Aam-Chur、Agasi Negroni,以及 podi edamame（香料毛豆）。建议在黄昏时分前往,由于目前是全城热议的新开业场所,最好提前预订,并在出发前确认营业时间。

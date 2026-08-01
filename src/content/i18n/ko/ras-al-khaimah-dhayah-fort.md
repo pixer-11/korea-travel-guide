@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: ras-al-khaimah-dhayah-fort
+srcHash: 2ebf2e85240b
 title: '다야 요새: 라스알카이마 여행 가이드'
 description: 다야 요새(Dhayah Fort)는 라스알카이마 시내에서 북쪽으로 약 30분 거리, 아르 람스(Ar Rams) 인근의 바위 언덕 위에 자리하고 있으며, UAE에 남아 있는 유일한 산악 요새입니다.
 quickAnswer: 다야 요새(Dhayah Fort)는 라스알카이마 시내에서 북쪽으로 약 30분 거리, 아르 람스(Ar Rams) 인근의 바위 언덕 위에 자리하고 있으며, UAE에 남아 있는 유일한 산악 요새입니다. 늦은 오후에 방문하고, 가파른 돌계단을 오를 때를 대비해 제대로 된 신발을 신으세요. 오르는 데 30-45분 정도 잡으면 되며, 라스알카이마의 석호와 하자르 산맥(Hajar Mountains)의 풍경도 함께 즐길 수 있습니다.

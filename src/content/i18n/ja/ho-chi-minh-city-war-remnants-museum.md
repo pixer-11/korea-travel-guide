@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: ho-chi-minh-city-war-remnants-museum
+srcHash: 55f119ff7b57
 title: 戦争証跡博物館:ホーチミン市旅行ガイド
 description: 戦争証跡博物館(War Remnants Museum)は3区(District 3)のヴォー・ヴァン・タン通り28番地(28 Vo Van Tan Street)にあり、統一会堂(Reunification Palace)からは徒歩またはタクシーですぐ、ベンタイン市場(Ben Thanh Market)周辺からは10~15分ほどの距離です。
 quickAnswer: 戦争証跡博物館(War Remnants Museum)は3区(District 3)のヴォー・ヴァン・タン通り28番地(28 Vo Van Tan Street)にあり、統一会堂(Reunification Palace)からは徒歩またはタクシーですぐ、ベンタイン市場(Ben Thanh Market)周辺からは10~15分ほどの距離です。屋外に展示された軍用車両と、生々しくも心に重く残る屋内の写真ギャラリーを見るには、1.5~2.5時間ほど見ておきましょう。ツアーバスの団体客や日中の厳しい暑さを避けるなら、平日の朝早い時間帯がおすすめです。

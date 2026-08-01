@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: bologna-piazza-maggiore
+srcHash: 2058f9f2fa7a
 title: '피아자 마조레: 볼로냐 여행 가이드'
 description: 피아자 마조레(Piazza Maggiore)는 볼로냐의 중세 심장부로, 미완성된 대리석 파사드의 산 페트로니오 대성당(Basilica di San Petronio)과 성벽 모양의 팔라초 다쿠르시오(Palazzo d'Accursio)로 둘러싸여 있습니다.
 quickAnswer: 피아자 마조레는 볼로냐의 중세 심장부로, 미완성된 대리석 파사드의 산 페트로니오 대성당(Basilica di San Petronio)과 성벽 모양의 팔라초 다쿠르시오(Palazzo d'Accursio), 팔라초 데이 노타이(Palazzo dei Notai), 그리고 잠볼로냐(Giambologna)의 청동 넵튠 분수가 있는 이웃한 피아자 델 넵투노(Piazza del Nettuno)로 둘러싸여 있습니다. 무료이며 하루 종일 개방되어 있고, 정오와 이른 저녁 시간대에 인파가 가장 몰리므로 이른 아침(오전 9시 이전)이나 저녁 식사 후에 방문하는 것이 가장 좋습니다. 그냥 앉아서 벽돌 건축을 올려다보고 주변 포르티코를 걸어보는 데만 45분에서 1시간 정도 예상하세요.

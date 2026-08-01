@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: ras-al-khaimah-jebel-jais
+srcHash: 3ae49c75c7bb
 title: '제벨 자이스: 라스 알 카이마 여행 가이드'
 description: 제벨 자이스(Jebel Jais)는 UAE에서 가장 높은 봉우리(약 1,934m)로, 와디 셰하(Wadi Shehah)에 위치하며 두바이에서 약 1시간 30분, 라스 알 카이마 시내에서 약 45분 거리에 있습니다.
 quickAnswer: 제벨 자이스(Jebel Jais)는 UAE에서 가장 높은 봉우리(약 1,934m)로, 와디 셰하(Wadi Shehah)에 위치하며 두바이에서 약 1시간 30분, 라스 알 카이마 시내에서 약 45분 거리에 있습니다. 세계에서 가장 긴 짚라인(2.8km)인 자이스 스카이 투어(Jais Sky Tour), 자이스 슬레더(Jais Sledder) 토보건, 그리고 헤어핀 커브가 이어지는 포장도로를 따라 무료로 즐길 수 있는 전망 포인트가 볼거리입니다. 드라이브와 전망 감상 위주라면 반나절, 짚라인 예약이나 1박 캠핑까지 계획한다면 하루 종일 일정을 잡으세요.

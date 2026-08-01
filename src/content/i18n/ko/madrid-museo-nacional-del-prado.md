@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: madrid-museo-nacional-del-prado
+srcHash: 90f7aeb05225
 title: '프라도 미술관(Museo Nacional del Prado): 마드리드 여행 가이드'
 description: 프라도 미술관은 마드리드를 대표하는 미술관으로, 벨라스케스의 "시녀들(Las Meninas)", 고야의 "검은 그림(Black Paintings)" 연작, 그리고 세계 최고 수준의 엘 그레코 컬렉션을 소장하고 있습니다.
 quickAnswer: 프라도 미술관은 마드리드를 대표하는 미술관으로, 벨라스케스의 "시녀들(Las Meninas)", 고야의 "검은 그림(Black Paintings)" 연작, 그리고 세계 최고 수준의 엘 그레코 컬렉션을 소장하고 있습니다. 파세오 델 프라도(Paseo del Prado)에 있는 헤로니모스(Jerónimos) 입구로 들어가고, 최소 2.5~3시간은 여유를 두고, 줄을 서지 않으려면 온라인으로 시간대별 입장권을 미리 예약하세요. 가장 한산하게 둘러보려면 평일 이른 아침이나 무료입장이 가능한 저녁 시간대를 이용하세요.

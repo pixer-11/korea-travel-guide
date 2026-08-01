@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: chuncheon-nami-island
+srcHash: ebf0951b6747
 title: 'Isla Nami: Guía de viaje de Chuncheon'
 description: La isla Nami es un parque con forma de media luna en el río Han, a una hora al este de Seúl, al que se llega en ferry (o tirolina) desde la estación de Gapyeong, no desde Chuncheon.
 quickAnswer: La isla Nami (Nami Island) es un parque con forma de media luna en el río Han, a una hora al este de Seúl, al que se llega en ferry (o tirolina) desde la estación de Gapyeong (Gapyeong Station), no propiamente desde Chuncheon, aunque suele incluirse dentro de los viajes por Gangwon-do. Ve a primera hora de un día laborable para adelantarte a los autobuses turísticos y tener para ti sola las famosas avenidas bordeadas de ginkgos y metasecuoyas; calcula entre 3 y 4 horas.

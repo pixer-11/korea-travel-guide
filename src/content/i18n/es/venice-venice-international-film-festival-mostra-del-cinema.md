@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: venice-venice-international-film-festival-mostra-del-cinema
+srcHash: 80ad1bd8a524
 title: 'Festival Internacional de Cine de Venecia (Mostra del Cinema): lo que hay que saber (Venecia)'
 description: Festival Internacional de Cine de Venecia (Mostra del Cinema) en Venecia, Italia — del 2 al 12 de septiembre de 2026. Qué es, cuándo y dónde se celebra, y cómo organizar tu visita.
 quickAnswer: El Festival Internacional de Cine de Venecia (La Mostra) se celebra del 2 al 12 de septiembre de 2026, en el Lido de Venecia (Lido di Venezia), en su 83.ª edición, con un jurado presidido por Maggie Gyllenhaal encargado de otorgar el León de Oro. Aloja tu base en el propio Lido o a un corto trayecto en vaporetto, en el centro de Venecia; ten en cuenta la multitud de la alfombra roja alrededor del Palazzo del Cinema en la Sala Grande, y confirma los locales de proyección exactos y las vías de entradas/acreditación en la web oficial de la Biennale Cinema antes de planificar tus días.

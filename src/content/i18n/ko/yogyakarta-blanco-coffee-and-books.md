@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: yogyakarta-blanco-coffee-and-books
+srcHash: fadf97d5407d
 title: '블랑코 커피 앤 북스: 족자카르타 여행 가이드'
 description: 블랑코 커피 앤 북스(Blanco Coffee And Books)는 족자카르타(Yogyakarta) 옛 성벽 북쪽, 투구 조그자(Tugu Jogja) 기념탑 근처 Jl. Kranggan에 자리한 밝고 미니멀한 카페입니다.
 quickAnswer: 블랑코 커피 앤 북스(Blanco Coffee And Books)는 족자카르타(Yogyakarta) 옛 성벽 북쪽, 투구 조그자(Tugu Jogja) 기념탑 근처 Jl. Kranggan에 자리한 밝고 미니멀한 카페입니다. 엄선된 인도네시아 싱글 오리진 커피와 간단한 요기거리, 그리고 차분한 독서 공간 같은 분위기를 즐길 수 있어 점심 무렵 몰리는 인파와 인스타그램 촬영객이 늘어나기 전인 평일 오전에 방문하는 것이 가장 좋습니다. 45~90분 정도 여유를 두고, 커피와 간식 한 접시 기준으로 중간 가격대(4단계 중 2단계)를 예상하면 됩니다.

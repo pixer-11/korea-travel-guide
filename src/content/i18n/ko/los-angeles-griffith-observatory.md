@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: los-angeles-griffith-observatory
+srcHash: 661aff5fbec5
 title: '그리피스 천문대(Griffith Observatory): 로스앤젤레스 여행 가이드'
 description: 그리피스 파크(Griffith Park) 내 마운트 할리우드(Mount Hollywood) 남쪽 사면에 자리한 그리피스 천문대는 입장료가 무료이며 수요일부터 일요일까지 오후부터 저녁까지 운영됩니다.
 quickAnswer: 그리피스 파크(Griffith Park) 내 마운트 할리우드(Mount Hollywood) 남쪽 사면에 자리한 그리피스 천문대는 입장이 무료이며, 수요일부터 일요일까지 오후부터 저녁 시간대에 운영합니다(월요일과 화요일은 휴관). 비용이 드는 것은 플라네타리움 쇼 관람과 주차뿐입니다. 스카이라인 전망과 할리우드 사인(Hollywood Sign), 그리고 해가 진 뒤 망원경 관측까지 모두 즐기려면 일몰 무렵에 방문하는 것이 가장 좋으며, 올라가는 길과 주차 대기 시간을 포함해 2~3시간 정도를 계획하세요.

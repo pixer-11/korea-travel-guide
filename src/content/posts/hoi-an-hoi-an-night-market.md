@@ -1,6 +1,6 @@
 ---
 title: "Hoi An Night Market: Travel Guide"
-description: Hoi An Night Market runs every evening along Nguyễn Hoàng Street on the An Hội islet, just across the wooden/pedestrian bridge from the Old Town's riverside
+description: Hoi An Night Market runs every evening along Nguyễn Hoàng Street on the An Hội islet, just across the wooden/pedestrian bridge from the Old Town's riverside strip.
 country: Vietnam
 region: Hoi An
 category: hidden-gem

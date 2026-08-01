@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: barcelona-gloria-osteria
+srcHash: 29b95f56d099
 title: 巴塞罗那 Gloria Osteria 餐厅
 description: Gloria Osteria 是法意餐饮集团 Big Mamma 在巴塞罗那的首家门店，该集团以将经典 osteria 用餐体验打造成设计感十足、活力四射的用餐盛事而闻名。
 quickAnswer: Gloria Osteria 是法意餐饮集团 Big Mamma 在巴塞罗那的首家门店，该集团擅长把传统 osteria（意式小馆）用餐变成设计感十足、活力四射的用餐盛事。开业后需求火爆，一周之内就被订满，因此建议尽早在线预订，或是在开门那一刻碰运气看看有没有临时空位。这里是一间热闹、上镜的用餐空间，主打意式家常美食，而非安静的老派意大利小馆氛围，做好心理准备。

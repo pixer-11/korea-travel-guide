@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: los-angeles-regalade
+srcHash: 4dfb2ed882af
 title: Régalade：洛杉矶旅行指南
 description: Régalade 位于美国洛杉矶——一家新晋热门餐厅：它是什么、坐落何处，以及如何前往用餐。
 quickAnswer: Régalade 是 Beverly Grove 街区新开的一家巴黎风格小酒馆（bistro），由附近颇受欢迎的意大利餐厅 Oste 的团队打造，主打不花哨、地道的法式经典料理，午晚餐皆有供应。它已经吸引了西好莱坞（West Hollywood）周边一带热闹的食客人群，所以出发前请务必提前订位，并确认最新营业时间——毕竟餐厅刚开业，各项细节仍在磨合调整中。

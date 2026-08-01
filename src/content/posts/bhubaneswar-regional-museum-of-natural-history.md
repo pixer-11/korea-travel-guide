@@ -1,6 +1,6 @@
 ---
 title: "Regional Museum of Natural History: Bhubaneswar Travel Guide"
-description: "The Regional Museum of Natural History sits on Sachivalaya Marg in Acharya Vihar, right next to the Pathani Samanta Planetarium, and it's open 10am–6pm every"
+description: The Regional Museum of Natural History sits on Sachivalaya Marg in Acharya Vihar, right next to the Pathani Samanta Planetarium, and it's open 10am–6pm every day except Monday.
 country: "India"
 region: "Bhubaneswar"
 category: "hidden-gem"

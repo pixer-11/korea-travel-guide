@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: phuket-the-big-buddha-phuket
+srcHash: 0ec568421ad0
 title: ビッグブッダ:プーケット旅行ガイド
 description: ビッグブッダ(プラ・プッタミンモンコン・アケナカキリ、Phra Puttamingmongkol Akenakkiri)は、チャロン(Chalong)とカタ(Kata)の間にあるナッカード・ヒル(Nakkerd Hill)の山頂に鎮座しており、パトン(Patong)またはプーケットタウンから車でおよそ30〜45分の距離にあります。
 quickAnswer: ビッグブッダ(プラ・プッタミンモンコン・アケナカキリ、Phra Puttamingmongkol Akenakkiri)は、チャロン(Chalong)とカタ(Kata)の間にあるナッカード・ヒル(Nakkerd Hill)の山頂に鎮座しており、パトン(Patong)またはプーケットタウンから車でおよそ30〜45分の距離にあります。参拝は無料(少額の寄付が推奨されています)で、営業時間はおおむね毎日6時〜19時。登り道や写真撮影、360度の景観を楽しむには1〜1.5時間を見ておくとよいでしょう。最良の光と涼しさを求めるなら、早朝か日没直前の訪問がおすすめです。

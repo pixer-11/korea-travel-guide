@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: lyon-basilica-of-notre-dame-of-fourviere
+srcHash: c24738cd4895
 title: '푸르비에르 노트르담 대성당: 리옹 여행 가이드'
 description: 리옹 구시가지(Old Town)를 내려다보는 언덕에 자리한 푸르비에르 노트르담 대성당(Basilica of Notre-Dame de Fourvière)은 무료 입장이 가능한 화려한 19세기 성당으로, 이른 아침 방문이 가장 좋습니다.
 quickAnswer: 리옹 구시가지(Old Town)를 내려다보는 언덕에 자리한 푸르비에르 노트르담 대성당(Basilica of Notre-Dame de Fourvière)은 무료로 입장할 수 있는 화려하게 장식된 19세기 성당으로, 관광버스 인파를 피하고 도시와 알프스 너머로 비치는 빛을 감상하려면 이른 아침(오전 10시 이전)이나 일몰 무렵에 방문하는 것이 가장 좋습니다. 비외 리옹(Vieux Lyon) 지하철역에서 푸니쿨라("피셀(Ficelle)")를 타고 푸르비에르(Fourvière) 정류장까지 올라가세요. 2분이면 도착하며 가파른 오르막을 걷지 않아도 됩니다. 내부와 테라스를 둘러보는 데 45~60분 정도 잡으면 되고, 작은 고고학 박물관이나 바로 옆의 로마 극장까지 둘러본다면 시간을 더 확보하세요.

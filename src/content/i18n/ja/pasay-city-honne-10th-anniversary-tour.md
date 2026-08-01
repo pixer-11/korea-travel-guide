@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: pasay-city-honne-10th-anniversary-tour
+srcHash: 8ec2a8d57db4
 title: HONNE 10周年記念ツアー:知っておきたいこと(パサイ市)
 description: 2026年8月10日〜12日、フィリピン・パサイ市で開催されるHONNE 10周年記念ツアー。開催概要と日程・会場、旅行計画の立て方を解説します。
 quickAnswer: イギリスのデュオHONNEが、10周年記念ワールドツアーの一環として、2026年8月10日〜12日の3夜連続でマニラ公演を行います。会場はパサイ市(Pasay City)にあるフィリピン国際会議場(Philippine International Convention Center、PICC)のプレナリーホール(Plenary Hall)です。チケット情報、開演時間、サポートアクトについては現時点で公開されている情報の中に詳細がないため、航空券やホテルを予約する前に、日程・開場時間・料金区分などの詳細をHONNEの公式チャンネルおよびフィリピンの公式プロモーター/チケット販売パートナーで必ず確認してください。

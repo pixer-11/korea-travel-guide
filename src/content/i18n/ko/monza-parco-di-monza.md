@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: monza-parco-di-monza
+srcHash: 1e19e65de0de
 title: 몬차 공원(Parco di Monza) 여행 가이드
 description: 몬차 공원(Parco di Monza)은 약 700헥타르에 달하는 유럽 최대 규모의 담장 공원 중 하나로, 빌라 레알레(Villa Reale)와 몬차 국립 서킷(Autodromo Nazionale Monza)을 감싸고 있습니다.
 quickAnswer: 몬차 공원(Parco di Monza)은 약 700헥타르에 달하는 유럽 최대 규모의 담장 공원 중 하나로, 빌라 레알레(Villa Reale)와 몬차 국립 서킷(Autodromo Nazionale Monza)을 감싸고 있습니다. 인파를 피하려면 평일 이른 아침에 방문하는 것이 좋습니다 — 자전거 타기, 피크닉, 그리고 F1 트랙의 공용 도로 덕분에 반나절에서 하루 코스로 둘러보기 좋습니다. 포르타 몬차(Porta Monza)나 포르타 베다노(Porta Vedano)로 입장해 빌라 레알레 정원으로 향하거나 서킷 외곽 공용 도로를 한 바퀴 돌아보세요.

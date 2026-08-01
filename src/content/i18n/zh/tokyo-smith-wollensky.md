@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: tokyo-smith-wollensky
+srcHash: 8b2f52325e49
 title: 东京Smith & Wollensky游览指南
 description: Smith & Wollensky落户日本东京——这家新晋热门餐厅:它是什么、位于何处，以及如何前往。
 quickAnswer: Smith & Wollensky，这家享誉纽约的传奇牛排馆，已在银座开出其日本首店，店面横跨三层楼，供应USDA Prime级干式熟成牛排，并延续品牌标志性的美式热情服务。这里目前人气正旺，值得提前订位——最适合平日晚餐前往，或选择较为清静的周末午餐时段。出发前请务必提前预订并确认最新营业时间，因为像这样规模的新店开业，初期的各项细节都可能有所调整。

@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: fukuoka-fuglen-coffee-keyakidori
+srcHash: 5563c99cc17d
 title: Fuglen Coffee Keyakidori：福冈旅行指南
 description: Fuglen Coffee – Keyakidori 位于日本福冈，是一处新晋热门去处：它是什么、在哪里，以及该如何前往参观。
 quickAnswer: Fuglen Coffee 在福冈的第二家分店，坐落于警固通（Keyakidori Avenue）附近一条安静的小巷内，地处以精品店和林荫大道闻名的中央区（Chuo Ward）。它白天是一间社区型精品咖啡馆，入夜后则变身为鸡尾酒吧——这正是 Fuglen 在奥斯陆和东京率先开创的经营模式。由于这家店于2026年5月才开业,建议出发前先确认最新营业时间、座位情况，以及是否需要预约。

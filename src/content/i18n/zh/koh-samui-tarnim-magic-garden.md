@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: koh-samui-tarnim-magic-garden
+srcHash: 7469bcb21ac0
 title: 塔尼姆魔法花园：苏梅岛旅行指南
 description: 塔尼姆魔法花园（Tarnim Magic Garden，又称"佛陀魔法花园"）是位于苏梅岛南部纳孟（Na Mueang）山顶的一座雕塑花园。
 quickAnswer: 塔尼姆魔法花园（Tarnim Magic Garden，又称"佛陀魔法花园"/"Buddha Magic Garden"）是位于苏梅岛南部纳孟（Na Mueang）山顶的一座雕塑花园，最好在清晨或傍晚前往，以避开正午的酷热和刺眼的强光（便于拍照）。建议安排45-90分钟游览时间，穿一双方便脱穿的鞋子，还可以顺路游览附近的纳孟瀑布（Na Mueang Waterfalls）。由于花园位于4169号公路旁一条陡峭的山路上，自驾汽车或骑摩托车是比较实用的到达方式。

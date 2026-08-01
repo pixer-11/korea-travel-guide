@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: krabi-wat-tham-suea
+srcHash: 26f7d78bfcba
 title: 虎穴寺（Wat Tham Suea）：甲米旅行指南
 description: 虎穴寺（Wat Tham Suea，又称 Tiger Cave Temple）坐落在甲米镇（Krabi Town）以北约8公里的丛林中，以通往山顶金色佛像的1,237级台阶闻名。
 quickAnswer: 虎穴寺（Wat Tham Suea，又称 Tiger Cave Temple）坐落在甲米镇（Krabi Town）以北约8公里的丛林中，以通往山顶金色佛像的1,237级台阶闻名，山顶还能俯瞰石灰岩山群的全景。建议清晨前往（寺庙约5-6点开门），以避开酷热和人群，穿着能遮住肩膀和膝盖的清凉衣物，并预留2-3小时游览山下的洞穴/森林寺庙区以及登顶。从甲米镇出发，搭乘嘟嘟车（tuk-tuk）或租摩托车是最方便的方式，因为没有直达的公共巴士。

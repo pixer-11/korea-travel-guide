@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: shanghai-hikiniku-to-come
+srcHash: b176dd3f130e
 title: '히키니쿠 투 컴(Hikiniku To Come): 상하이 여행 가이드'
 description: 중국 상하이의 새롭게 뜨는 핫플레이스, 히키니쿠 투 컴(Hikiniku To Come) — 어떤 곳인지, 어디에 있는지, 어떻게 방문하면 좋은지 알아본다.
 quickAnswer: 히키니쿠 투 컴(Hikiniku To Come)은 도쿄에서 시작된 함바그(hambāgu) 전문점으로, 상하이의 신생 복합공간 FUFU(둥후루/Donghu Lu 소재)에 들어선 이후 오픈 첫날부터 줄이 끊이지 않고 있다. 인기 비결은 간단하다. 두툼한 와규 패티를 숯불에 구워내고, 그 위에 날달걀을 올려 풍미를 더하며, 밥은 원하는 만큼 리필할 수 있다. 평일에 방문하고, 오픈 전에 도착하며, 출발 전 현재 영업시간과 예약 가능 여부를 미리 확인할 것을 권한다.

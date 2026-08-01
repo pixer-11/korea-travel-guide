@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: bangkok-post-malone-the-big-ass-stadium-world-tour
+srcHash: 031200e249fc
 title: '포스트 말론 ''The BIG ASS Stadium World Tour'': 방콕 공연 필수 정보'
 description: 포스트 말론이 2026년 9월 22일 방콕 라차망칼라 국립경기장(Rajamangala National Stadium)에서 'The BIG ASS Stadium World Tour'로 3년 만에 방콕 무대에 오릅니다.
 quickAnswer: 포스트 말론이 2026년 9월 22일 방콕 라차망칼라 국립경기장(Rajamangala National Stadium)에서 'The BIG ASS Stadium World Tour'로 3년 만에 방콕 공연을 엽니다. 이 정도 규모의 스타디움 공연은 보통 시작 몇 시간 전부터 입장이 시작되니 일찍 도착하는 것이 좋으며, 공항철도(Airport Rail Link)나 MRT를 이용해 후아막(Hua Mak)역으로 이동하고, 정확한 입장 시간과 티켓 등급, 오프닝 공연 여부는 출발 전 공식 투어 및 티켓 채널에서 다시 확인하시기 바랍니다.

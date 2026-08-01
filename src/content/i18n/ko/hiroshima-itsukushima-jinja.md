@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: hiroshima-itsukushima-jinja
+srcHash: c75456dc5b56
 title: '이쓰쿠시마 신사: 히로시마 여행 가이드'
 description: 이쓰쿠시마 신사(Itsukushima Jinja)는 히로시마 만(Hiroshima Bay)에 있는 미야지마(Miyajima) 섬에 자리하며, 미야지마구치역(Miyajimaguchi Station)에서 JR 페리로 갈 수 있고, 만조 때 물 위에 떠 있는 것처럼 보이는 주홍색 도리이 문으로 유명합니다.
 quickAnswer: 이쓰쿠시마 신사(Itsukushima Jinja)는 히로시마 만(Hiroshima Bay)에 있는 미야지마(Miyajima) 섬에 자리하며, 미야지마구치역(Miyajimaguchi Station)에서 JR 페리로 갈 수 있고, 만조 때 물 위에 떠 있는 것처럼 보이는 주홍색 도리이 문으로 유명합니다. 반나절 정도의 일정을 잡는 것이 좋으며, 조수 시간표를 확인해 도리이가 물에 잠긴 모습(만조)이나 걸어서 다가갈 수 있는 모습(간조) 중 원하는 쪽을 볼 수 있도록 하고, 당일치기 관광객들이 몰리기 전인 이른 아침에 도착하는 것이 좋습니다. 미센산(Mt. Misen) 로프웨이와 사슴들이 노니는 해변가를 함께 묶으면 미야지마를 하루 동안 알차게 즐길 수 있습니다.

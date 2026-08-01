@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: hong-kong-hong-kong-disneyland
+srcHash: fcee99aa100d
 title: 홍콩 디즈니랜드 여행 가이드
 description: 홍콩 디즈니랜드(Hong Kong Disneyland)는 란타우 섬(Lantau Island)에 위치하며, 퉁충선(Tung Chung Line)의 서니 베이(Sunny Bay) MTR 역에서 전용 노선인 디즈니랜드 리조트 라인(Disneyland Resort Line)을 통해 갈 수 있습니다.
 quickAnswer: 홍콩 디즈니랜드(Hong Kong Disneyland)는 란타우 섬(Lantau Island)에 위치하며, 퉁충선(Tung Chung Line)의 서니 베이(Sunny Bay) MTR 역에서 전용 노선인 디즈니랜드 리조트 라인(Disneyland Resort Line)을 통해 갈 수 있습니다. 일곱 개의 테마 랜드를 모두 둘러보려면 하루 종일(9~10시간) 시간을 잡아두는 것이 좋고, 온라인으로 미리 특정 날짜의 티켓을 예약해 두는 것이 좋습니다. 또한 무료 디즈니랜드 앱을 이용해 도착하자마자 놀이기구 대기 시간을 확인하고 가장 인기 있는 어트랙션의 가상 대기열(버추얼 큐) 자리를 잡아두세요.

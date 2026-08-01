@@ -1,6 +1,6 @@
 ---
 title: VICE in Shanghai
-description: VICE is a new restaurant on Yongjia Lu in Shanghai's former French Concession, set inside a restored heritage lane house, from chef Carlos Sotomayor and
+description: VICE is a new restaurant on Yongjia Lu in Shanghai's former French Concession, set inside a restored heritage lane house, from chef Carlos Sotomayor and Raffe Ibrahamian of Cantina Agave.
 country: China
 region: Shanghai
 category: restaurant

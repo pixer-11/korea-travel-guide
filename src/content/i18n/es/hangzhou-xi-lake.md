@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: hangzhou-xi-lake
+srcHash: 0795f0f75848
 title: 'Lago Xi: Guía de viaje de Hangzhou'
 description: El Lago del Oeste (Xī Hú, a veces transliterado como "Xi Lake") es el corazón de agua dulce de Hangzhou y Patrimonio de la Humanidad por la UNESCO, ideal para explorar a pie o en bicicleta.
 quickAnswer: 'El Lago del Oeste (Xī Hú, a veces transliterado como "Xi Lake") es el corazón de agua dulce de Hangzhou y Patrimonio de la Humanidad por la UNESCO, ideal para explorar a pie o en bicicleta por su sendero costero de 15 km, o en barco hasta las islas del centro. Dedícale al menos medio día, o un día completo si quieres rodear todo el lago y subir a una de las colinas cercanas; ve al amanecer o justo antes del atardecer para evitar las multitudes de turistas más numerosas. La entrada a los parques junto al lago y a las calzadas es gratuita: solo se paga por los paseos en barco, jardines específicos como el Templo Lingyin, o el alquiler de bicicletas.'

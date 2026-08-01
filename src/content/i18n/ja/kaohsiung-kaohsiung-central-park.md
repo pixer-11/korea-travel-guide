@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: kaohsiung-kaohsiung-central-park
+srcHash: 70dbdbc3cf61
 title: 高雄中央公園:旅行ガイド
 description: 高雄中央公園(Kaohsiung Central Park)は、前金区(Qianjin District)にある緑豊かな広大な都市公園で、湖や噴水、ループ状の散策路を中心に整備されています。中央公園駅から直接アクセス可能です。
 quickAnswer: 高雄中央公園(Kaohsiung Central Park)は、前金区(Qianjin District)にある緑豊かな広大な都市公園で、湖や噴水、ループ状の散策路を中心に整備されています。中央公園駅(高雄MRT レッドライン、R9)から直接アクセスできます。ループを一周してコーヒー休憩を取るなら45〜90分ほど見ておくとよいでしょう。早朝か夕食後の時間帯が最も過ごしやすく、日中の暑さや週末の夕方は人出が多くなります。

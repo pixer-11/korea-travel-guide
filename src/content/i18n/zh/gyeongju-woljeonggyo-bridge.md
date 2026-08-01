@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: gyeongju-woljeonggyo-bridge
+srcHash: c3cbf22adbfb
 title: 月精桥：庆州旅游指南
 description: 月精桥是一座横跨庆州校洞（Gyo-dong）南川（Namcheon，又称蚊川）的新罗时代重建木桥，最适合在日落时分前往游览。
 quickAnswer: 月精桥是一座横跨庆州校洞（Gyo-dong）南川（Namcheon，又称蚊川）的新罗时代重建木桥，最适合在日落时分前往，这样可以看到桥体在夜色中被灯光映照、倒映在幽暗水面上的景象。过桥免费，完整游览拍照大约需要20-30分钟，非常适合与附近的校村传统村落（Gyochon Traditional Village）和月城（半月城，Wolseong/Banwolseong）遗址的漫步行程搭配在一起。

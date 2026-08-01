@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: hong-kong-hong-kong-disneyland
+srcHash: fcee99aa100d
 title: 香港迪士尼乐园旅行指南
 description: 香港迪士尼乐园坐落在大屿山，可通过迪士尼线从欣澳站（Sunny Bay）抵达——欣澳站本身位于东涌线上。
 quickAnswer: 香港迪士尼乐园坐落在大屿山，可通过迪士尼线从欣澳站（Sunny Bay）抵达——欣澳站本身位于东涌线上。建议预留一整天时间（9-10小时）游览全部七个主题园区，提前在网上预订指定日期的门票，并使用免费的迪士尼App查看各游乐设施的排队时间，一到园区就为最热门的项目抢先领取虚拟排队名额。

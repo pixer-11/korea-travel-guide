@@ -1,8 +1,9 @@
 ---
 lang: ko
 slug: hiroshima-atomic-bomb-dome
+srcHash: f06896beef7e
 title: '원폭 돔: 히로시마 여행 가이드'
-description: 원폭 돔은 나카구(Naka Ward) 모토야스강(Motoyasu River) 강변에 자리하며, 평화기념공원(Peace Memorial Park)에서 도보 2분 거리에 있다 — 이른 아침이나 해 지기 직전에 방문하는 것이 좋다
+description: 원폭 돔은 나카구(Naka Ward) 모토야스강(Motoyasu River) 강변에 자리하며, 평화기념공원(Peace Memorial Park)에서 도보 2분 거리에 있다 — 사람이 가장 적고 빛이 가장 좋은 시간대는 이른 아침이나 해 지기 직전이다.
 quickAnswer: 원폭 돔은 나카구(Naka Ward) 모토야스강(Motoyasu River) 강변에 자리하며, 평화기념공원(Peace Memorial Park)에서 도보 2분 거리에 있다 — 사람이 가장 적고 빛이 가장 좋은 시간대는 이른 아침이나 해 지기 직전이다. 외부에서 바라보는 관람은 무료이며(내부 출입은 불가능하다), 대부분의 방문객은 돔 자체에서 15-30분을 보낸 뒤 공원과 평화기념자료관(Peace Memorial Museum)으로 이동한다. 가장 가까운 정류장은 강 바로 건너편에 있는 겐바쿠 돔마에(Genbaku Dome-mae) 노면전차 정류장이다.
 faq:
   - q: 원폭 돔 내부에 들어갈 수 있나요?

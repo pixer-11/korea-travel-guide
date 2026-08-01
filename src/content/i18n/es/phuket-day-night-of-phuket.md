@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: phuket-day-night-of-phuket
+srcHash: fccf48935651
 title: 'Day & Night Of: Dónde comer en Phuket'
 description: Day & Night Of Phuket es un restaurante tailandés informal y de alta rotación en Talat Yai, el Casco Antiguo de Phuket (Phuket Old Town), conocido sobre todo por sus platos del sur de Tailandia y mariscos a precios moderados.
 quickAnswer: Day & Night Of Phuket es un restaurante tailandés informal y de alta rotación en Talat Yai, el Casco Antiguo de Phuket (Phuket Old Town), conocido sobre todo por sus platos del sur de Tailandia y mariscos a precios moderados (nivel de precio 2 de Google, aproximadamente entre 150 y 500 baht por plato). Con una calificación de 4.7 basada en más de 4,700 reseñas, es una opción confiable tanto para un almuerzo rápido después de explorar las casas-tienda sino-portuguesas como para una cena más larga antes de ir al mercado nocturno. Ve al principio de la tarde-noche (alrededor de las 5:30–6:30 pm) para evitar el ajetreo de la cena y aún así disfrutar de luz natural en las coloridas calles del Casco Antiguo.

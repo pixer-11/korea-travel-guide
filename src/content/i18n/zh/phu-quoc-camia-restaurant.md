@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: phu-quoc-camia-restaurant
+srcHash: 6552ab9ef399
 title: Camia Restaurant：富国岛美食推荐
 description: Camia Restaurant 是一家位于富国岛翁朗海滩（Ong Lang Beach）的海滨餐厅，坐落在阳东镇（Duong Dong）以北的 Le Thuc Nha Street 上，最适合在日落时分前来，双脚踩着沙滩，享用新鲜海鲜。
 quickAnswer: Camia Restaurant 是一家位于富国岛翁朗海滩（Ong Lang Beach）的海滨餐厅，坐落在阳东镇（Duong Dong）以北的 Le Thuc Nha Street 上，最适合在日落时分前来，双脚踩着沙滩，享用新鲜海鲜。它在近 2500 条点评中获得了难得的 4.8 分高分，因此建议傍晚早些时候到达，或在旺季（11 月至次年 4 月）提前预订，以确保能拿到靠近水边的座位。

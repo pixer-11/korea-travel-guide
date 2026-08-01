@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: phuket-the-big-buddha-phuket
+srcHash: 0ec568421ad0
 title: 大佛寺：普吉岛旅行指南
 description: 大佛（Phra Puttamingmongkol Akenakkiri）坐落于查龙（Chalong）与卡塔（Kata）之间的纳卡德山（Nakkerd Hill）山顶，从芭东（Patong）或普吉镇（Phuket Town）驱车约需30-45分钟。
 quickAnswer: 大佛（Phra Puttamingmongkol Akenakkiri）坐落于查龙（Chalong）与卡塔（Kata）之间的纳卡德山（Nakkerd Hill）山顶，从芭东（Patong）或普吉镇（Phuket Town）驱车约需30-45分钟。参观免费（现场接受小额捐赠），每日大约6点到晚上7点开放，建议预留1-1.5小时用于登顶、拍照和欣赏360度全景。清晨或日落前是光线和气温最理想的时段，建议选择这两个时间段前往。

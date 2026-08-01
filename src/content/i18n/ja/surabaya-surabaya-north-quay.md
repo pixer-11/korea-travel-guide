@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: surabaya-surabaya-north-quay
+srcHash: 8c4123f3fc35
 title: スラバヤ・ノース・キー(Surabaya North Quay):旅行ガイド
 description: スラバヤ・ノース・キー(Surabaya North Quay、SNQ)は、タンジュン・ペラック港(Tanjung Perak)エリアにある屋上デッキで、コンテナ船やタンカー、クルーズ船をジャワ海(Java Sea)の空を背景に一望できます。
 quickAnswer: スラバヤ・ノース・キー(Surabaya North Quay、SNQ)は、タンジュン・ペラック港(Tanjung Perak)エリアにある屋上デッキで、コンテナ船やタンカー、クルーズ船をジャワ海(Java Sea)の空を背景に一望できるスポットです。晴れた日の夕暮れ時に訪れるのがおすすめで、所要時間は1〜1.5時間ほど見ておきましょう。市内の鉄道やバス網からは離れた港湾エリアにあるため、自家用車、タクシー、配車サービスでのアクセスが基本です。非常に人気が高く評判の良いスポットで(評価4.4、レビュー23,000件以上)、週末や祝日は混雑する見込みです。

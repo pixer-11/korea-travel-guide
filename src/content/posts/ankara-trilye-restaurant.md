@@ -1,6 +1,6 @@
 ---
 title: 'Trilye Restaurant: Where to Eat in Ankara'
-description: Trilye is a long-running seafood restaurant in Ankara's Kazım Özalp neighborhood (Çankaya), known for impeccably fresh fish, meze, and pasta in a bright
+description: Trilye is a long-running seafood restaurant in Ankara's Kazım Özalp neighborhood (Çankaya), known for impeccably fresh fish, meze, and pasta in a bright, contemporary dining room with outdoor tables.
 country: Turkey
 region: Ankara
 category: restaurant

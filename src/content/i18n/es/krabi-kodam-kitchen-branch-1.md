@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: krabi-kodam-kitchen-branch-1
+srcHash: 5a8592a489b7
 title: 'Kodam Kitchen sucursal 1: Dónde comer en Krabi'
 description: Kodam Kitchen sucursal 1 es un restaurante tailandés económico y de alta rotación en Ao Nang, Krabi, conocido sobre todo por platos clásicos como el pad Thai, el tom yum y los curris.
 quickAnswer: 'Kodam Kitchen sucursal 1 es un restaurante tailandés económico y de alta rotación en Ao Nang, Krabi, conocido sobre todo por platos clásicos como el pad Thai, el tom yum y los curris, a precios de comida callejera pero con la comodidad de un local con mesas. Con una calificación de 4.7 sobre más de 10,000 reseñas, es uno de los lugares mejor valorados de forma constante en la zona de Ao Nang: conviene ir a la hora del almuerzo o temprano para la cena para evitar la fila, y hay que esperar un ambiente informal y de rotación rápida en lugar de una experiencia gastronómica refinada.'

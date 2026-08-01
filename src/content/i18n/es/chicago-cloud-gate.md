@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: chicago-cloud-gate
+srcHash: 833b99830306
 title: 'Cloud Gate: Guía de viaje de Chicago'
 description: Cloud Gate —conocida universalmente como "The Bean" (el Frijol)— se encuentra en AT&T Plaza, en la esquina noroeste de Millennium Park, 201 E Randolph St.
 quickAnswer: Cloud Gate —conocida universalmente como "The Bean" (el Frijol)— se encuentra en AT&T Plaza, en la esquina noroeste de Millennium Park, 201 E Randolph St. Es gratuita, está abierta las 24 horas y lo mejor es visitarla temprano por la mañana o después del atardecer para evitar las multitudes; calcula entre 20 y 30 minutos, más si quieres tomar fotos bajo la parte cóncava inferior, el "omphalos".

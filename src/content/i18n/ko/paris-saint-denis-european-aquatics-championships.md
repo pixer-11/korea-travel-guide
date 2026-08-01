@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: paris-saint-denis-european-aquatics-championships
+srcHash: f3f375ca55e4
 title: 유럽 수영 선수권대회 완전 정리 (파리)
 description: 유럽 수영 선수권대회(European Aquatics Championships)는 2026년 8월 1일부터 16일까지 파리(Paris)와 생드니(Saint-Denis)에서 열리며, 대부분 파리 2024 올림픽을 위해 건설되거나 재활용된 경기장을 사용합니다.
 quickAnswer: 유럽 수영 선수권대회(European Aquatics Championships)는 2026년 8월 1일부터 16일까지 파리(Paris)와 생드니(Saint-Denis)에서 열리며, 파리 2024 올림픽을 위해 건설되거나 재활용된 경기장, 특히 파리 라 데팡스 아레나(Paris La Défense Arena)와 생드니의 올림픽 수영 센터(Olympic Aquatics Centre)를 사용합니다. 수영, 다이빙, 아티스틱 스위밍, 수구, 오픈워터 종목이 두 개최 지역에 걸쳐 진행될 예정이니, 숙소는 미리 예약하고 정확한 경기 일정과 티켓 발매 정보는 대회가 가까워지면 유럽 수영 연맹(European Aquatics, LEN) 및 파리 2026 공식 채널에서 확인하세요.

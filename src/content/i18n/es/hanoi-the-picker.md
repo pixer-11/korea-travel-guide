@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: hanoi-the-picker
+srcHash: 19a3ce506152
 title: 'The Picker: Guía de viaje de Hanói'
 description: 'The Picker en Hanói, Vietnam — un lugar nuevo y de tendencia: qué es, dónde queda y cómo visitarlo.'
 quickAnswer: The Picker es un bar retro steampunk con alma de motero escondido dentro de Tach Space en Hanói, mitad museo viviente de motocicletas vintage y chatarra de aviación, mitad templo de cócteles, ideado por el equipo detrás de Tê Bar y Cong Cafe. Ve un día entre semana por la noche si quieres ver bien la maquinaria antes de que la sala se llene de cámaras de celular, y confirma el horario y si necesitas reservar mesa antes de salir, ya que los detalles de un lugar tan nuevo pueden cambiar rápido.

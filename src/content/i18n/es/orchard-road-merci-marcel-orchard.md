@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: orchard-road-merci-marcel-orchard
+srcHash: 4be8cc038432
 title: 'MERCI MARCEL ORCHARD: Dónde comer en Orchard Road'
 description: MERCI MARCEL ORCHARD es un café-restaurante francés abierto todo el día, ubicado en Palais Renaissance, en 390 Orchard Road, a poca distancia a pie de la estación Orchard MRT (salidas A o E).
 quickAnswer: MERCI MARCEL ORCHARD es un café-restaurante francés abierto todo el día, ubicado en Palais Renaissance, en 390 Orchard Road, a poca distancia a pie de la estación Orchard MRT (salidas A o E). Conviene ir a almorzar entre semana o a cenar temprano en un día laborable para evitar la espera; los precios son de gama media (platos principales de entre S$20 y S$35 aproximadamente) y hay que calcular entre 1 y 1,5 horas para una comida completa. Es un lugar muy conocido y bien valorado (4.7 estrellas, más de 4.000 reseñas) más que un hallazgo escondido, así que conviene reservar con antelación o llegar justo a la hora de apertura.

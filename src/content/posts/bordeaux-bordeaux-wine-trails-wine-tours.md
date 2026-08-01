@@ -1,6 +1,6 @@
 ---
 title: "Bordeaux Wine Trails - Wine tours: Travel Guide"
-description: Bordeaux Wine Trails runs small-group day trips from the city center out to the surrounding vineyards (Saint-Émilion, Médoc, Sauternes and Graves are the
+description: Bordeaux Wine Trails runs small-group day trips from the city center out to the surrounding vineyards (Saint-Émilion, Médoc, Sauternes and Graves are the classic circuits), pairing château visits with tastings and usually lunch.
 country: France
 region: Bordeaux
 category: hidden-gem

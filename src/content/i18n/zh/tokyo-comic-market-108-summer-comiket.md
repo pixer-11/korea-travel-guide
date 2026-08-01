@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: tokyo-comic-market-108-summer-comiket
+srcHash: 91f53fa35681
 title: Comic Market 108（夏季Comiket）东京观展指南
 description: Comic Market 108（夏季Comiket）定于2026年8月15日至16日在东京国际展示场（Tokyo Big Sight，位于台场/有明）举行。
 quickAnswer: Comic Market 108（夏季Comiket）定于2026年8月15日至16日在东京国际展示场（Tokyo Big Sight，位于台场/有明）举行。这是全球规模最大的同人志（粉丝自制漫画/绘本）展销会，周末两天可吸引数十万参观者，展馆外还会聚集大量Cosplay爱好者。具体开放时间、入场流程和门票安排通常要到活动前几周才会最终确定，请临近日期时以Comiket官方网站信息为准。

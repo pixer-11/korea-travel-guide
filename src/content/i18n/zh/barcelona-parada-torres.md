@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: barcelona-parada-torres
+srcHash: 3cb9bdc2ec4e
 title: Parada Torres：巴塞罗那美食新去处
 description: Parada Torres，位于西班牙巴塞罗那——一处新晋热门去处：它是什么、位于哪里、以及如何前往游览。
 quickAnswer: Parada Torres 是米其林星级主厨兄弟 Sergio 和 Javier Torres（来自 Cocina Hermanos Torres）新开的市场酒吧，藏身于巴塞罗那老城区（Ciutat Vella）的圣卡特琳娜市场（Mercat de Santa Caterina）内。这里主打的是以吧台点餐为主、轻松随性的加泰罗尼亚家常美食，而非套餐式的精致体验——预计会有一条长长的吧台、一个小露台，以及直面市场摊位的视野。由于这是一家刚开业、热度正高的店，节奏变化可能很快，出发前请务必确认最新营业时间以及是否接受预订。

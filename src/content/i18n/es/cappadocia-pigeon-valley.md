@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: cappadocia-pigeon-valley
+srcHash: fa18d5d578e5
 title: 'Valle de las Palomas: Guía de Viaje de Capadocia'
-description: El Valle de las Palomas (Güvercinlik Vadisi) conecta Uçhisar y Göreme a través de un sendero fácil, mayormente llano y con suaves desniveles de 4-5 km, que atraviesa un cañón salpicado de palomares excavados en
+description: El Valle de las Palomas (Güvercinlik Vadisi) conecta Uçhisar y Göreme a través de un sendero fácil, mayormente llano y con suaves desniveles, de 4-5 km, que atraviesa un cañón salpicado de palomares excavados en la blanda roca volcánica.
 quickAnswer: El Valle de las Palomas (Güvercinlik Vadisi) conecta Uçhisar y Göreme a través de un sendero fácil, mayormente llano y con suaves desniveles, de 4-5 km, que atraviesa un cañón salpicado de palomares excavados en la blanda roca volcánica. Entra desde el mirador situado debajo del Castillo de Uçhisar o desde el extremo de Göreme, cerca de la estación de autobuses, calcula entre 1,5 y 2 horas de ida, y ve a primera hora de la mañana o a última de la tarde para evitar tanto el calor como las multitudes de los tours en autobús.
 faq:
   - q: ¿Cuánto se tarda en hacer la caminata del Valle de las Palomas?

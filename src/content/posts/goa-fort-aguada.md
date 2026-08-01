@@ -1,6 +1,6 @@
 ---
 title: 'Fort Aguada: Goa Travel Guide'
-description: Fort Aguada sits on the headland above Sinquerim beach at the mouth of the Mandovi River, about 30–40 minutes by taxi from Dabolim/Goa airport and 15 minutes
+description: Fort Aguada sits on the headland above Sinquerim beach at the mouth of the Mandovi River, about 30–40 minutes by taxi from Dabolim/Goa airport and 15 minutes from Panaji.
 country: India
 region: Goa
 category: attraction

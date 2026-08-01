@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: singapore-lau-pa-sat
+srcHash: d3a91392b999
 title: ラウ・パ・サット(Lau Pa Sat):シンガポール食べ歩きガイド
 description: ラウ・パ・サットはCBD(中心業務地区)の18 Raffles Quayにある八角形の鋳鉄製ヴィクトリア様式マーケットで、ラッフルズ・プレイスMRT駅(出口GまたはH)から徒歩5分、またはダウンタウンMRT駅から近い。
 quickAnswer: ラウ・パ・サットはCBD(中心業務地区)の18 Raffles Quayにある八角形の鋳鉄製ヴィクトリア様式マーケットで、ラッフルズ・プレイスMRT駅(Raffles Place MRT、出口GまたはH)から徒歩5分、もしくはダウンタウンMRT駅(Downtown MRT、出口A)からも近い場所にあります。オフィス街の混雑を避けたいなら平日正午前のランチタイムがおすすめ。夜9時以降はブーンタット・ストリート(Boon Tat Street)が車両通行止めとなり、屋外サテー通りに様変わりします。ほとんどの屋台では現金またはPayNow・モバイルQR決済が使えます。ゆっくり食事を楽しむなら45〜75分ほど見ておきましょう。

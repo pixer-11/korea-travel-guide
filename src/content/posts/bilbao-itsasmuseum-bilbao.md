@@ -1,6 +1,6 @@
 ---
 title: "Itsasmuseum: Bilbao Travel Guide"
-description: "Itsasmuseum Bilbao sits on the Ría de Bilbao in the old Euskalduna shipyard, a short walk from the Guggenheim, and covers shipbuilding and the port's"
+description: Itsasmuseum Bilbao sits on the Ría de Bilbao in the old Euskalduna shipyard, a short walk from the Guggenheim, and covers shipbuilding and the port's transformation into today's riverside city.
 country: "Spain"
 region: "Bilbao"
 category: "hidden-gem"

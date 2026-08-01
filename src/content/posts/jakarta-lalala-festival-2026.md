@@ -1,6 +1,6 @@
 ---
 title: 'LaLaLa Festival 2026: What to Know (Jakarta)'
-description: "LaLaLa Festival 2026 runs August 22–23, 2026 at Jakarta International Expo (JIExpo) in Kemayoran, Central Jakarta, headlined by Steve Lacy, Two Door Cinema"
+description: LaLaLa Festival 2026 runs August 22–23, 2026 at Jakarta International Expo (JIExpo) in Kemayoran, Central Jakarta, headlined by Steve Lacy, Two Door Cinema Club, Kodaline, The Flaming Lips, Rex Orange County, Honne, and Flo.
 country: Indonesia
 region: Jakarta
 category: event

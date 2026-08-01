@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: pasay-city-lalala-fest-manila-2026
+srcHash: ade0f48a4f67
 title: 'LaLaLa Fest Manila 2026: lo que debes saber (Ciudad de Pasay)'
 description: LaLaLa Fest Manila 2026 se realizará el 21 de agosto de 2026 en el World Trade Center Manila, en la Ciudad de Pasay, encabezado por Steve Lacy y Two Door Cinema Club.
 quickAnswer: LaLaLa Fest Manila 2026 se realizará el 21 de agosto de 2026 en el World Trade Center Manila, en la Ciudad de Pasay, encabezado por Steve Lacy y Two Door Cinema Club. Consideralo como una excursión de un día a un festival en un centro de convenciones (interior/exterior) desde el Manila propiamente dicho — las estaciones de transporte más cercanas son LRT-1 Edsa o MRT-3 Taft Ave, ambas a un corto trayecto en taxi o transporte desde el recinto. Confirma los horarios exactos de las presentaciones, las horas de apertura de puertas y las categorías de entradas en los canales oficiales de LaLaLa Fest antes de reservar vuelos u hoteles.

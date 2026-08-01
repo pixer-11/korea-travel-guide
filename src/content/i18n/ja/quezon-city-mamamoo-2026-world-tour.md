@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: quezon-city-mamamoo-2026-world-tour
+srcHash: b8ee632da239
 title: MAMAMOO 2026ワールドツアー:知っておきたいこと(ケソン市)
 description: フィリピン・ケソン市で開催されるMAMAMOO 2026ワールドツアー — 2026年8月8日〜10日。公演の概要、日時と会場、そして予定を立てる際のポイントを解説します。
 quickAnswer: MAMAMOOの2026ワールドツアーは、フィリピン・ケソン市(Quezon City)での公演が予定されており、2026年8月8日〜10日、ディリマン/バグンバヤン(Diliman/Bagumbayan)エリアにあるフィリピン国際会議場(Philippine International Convention Center、PICC)での開催が報じられています。これらは現時点で発表されている日程として捉え、航空券やホテルを予約する前に、最終的なスケジュール、チケットの価格帯、開場時間についてはMAMAMOOの公式チャンネルおよび主催者のチケット販売プラットフォームで必ず確認してください。

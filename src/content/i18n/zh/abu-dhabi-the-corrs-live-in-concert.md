@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: abu-dhabi-the-corrs-live-in-concert
+srcHash: cbadfbc1a7fb
 title: The Corrs 演唱会须知（阿布扎比）
 description: The Corrs 演唱会将于2026年9月27日在阿拉伯联合酋长国阿布扎比举行——演出内容、时间地点，以及行程规划要点。
 quickAnswer: The Corrs 将于2026年9月27日在阿布扎比亚斯岛（Yas Island）的阿提哈德竞技场（Etihad Arena）举办一场仅此一晚的演出。票价、开门时间及暖场嘉宾目前均未公布，建议在预订行程前，临近演出日期时查阅阿提哈德竞技场官方网站或 The Corrs 官方渠道获取最新信息。

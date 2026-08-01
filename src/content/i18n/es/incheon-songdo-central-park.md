@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: incheon-songdo-central-park
+srcHash: 5b6835d8cab6
 title: 'Songdo Central Park: guía de viaje de Incheon'
-description: Songdo Central Park es un espacio verde de 40 hectáreas en el distrito de negocios internacional de Songdo, en Incheon, construido alrededor de un canal de agua de mar donde se puede pasear en taxis acuáticos
+description: Songdo Central Park es un espacio verde de 40 hectáreas en el distrito de negocios internacional de Songdo, en Incheon, construido alrededor de un canal de agua de mar donde puedes montar en taxis acuáticos o alquilar botes a pedal.
 quickAnswer: Songdo Central Park es un espacio verde de 40 hectáreas en el distrito de negocios internacional de Songdo, en Incheon, construido alrededor de un canal de agua de mar donde puedes montar en taxis acuáticos o alquilar botes a pedal. Toma la Línea 1 del metro de Incheon (Incheon Subway Line 1) hasta la estación Central Park (Central Park Station), Salida 4, y entrarás directamente al parque caminando. Calcula entre 1,5 y 2 horas para pasear, más si quieres recorrer en bicicleta el camino perimetral o quedarte disfrutando de las vistas del horizonte al atardecer.
 faq:
   - q: ¿Cómo llego a Songdo Central Park en metro?

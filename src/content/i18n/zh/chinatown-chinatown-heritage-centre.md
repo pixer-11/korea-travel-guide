@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: chinatown-chinatown-heritage-centre
+srcHash: 4249096c58ed
 title: 牛车水原貌馆:旅行指南
 description: 位于宝塔街48号的牛车水原貌馆坐落在三栋修复的1900年代店屋内,再现了早期华人移民的居住场景。
 quickAnswer: 位于宝塔街(Pagoda Street)48号的牛车水原貌馆(Chinatown Heritage Centre)坐落在三栋修复的1900年代店屋内,再现了早期华人移民的拥挤居住环境,包括一间重建的隔间式公寓和一间鸦片馆。建议预留60-90分钟游览时间,最好在工作日上午前往以避开旅行团,并可结合宝塔街的市集摊位和附近的马里安曼兴都庙(Sri Mariamman Temple)一同游览。最近的地铁站是牛车水站(Chinatown Station,A出口或E出口),步行约3-5分钟即可到达。

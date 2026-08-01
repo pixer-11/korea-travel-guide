@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: abu-dhabi-flavors-grill-abu-dhabi
+srcHash: 84e2b00d5918
 title: Flavors Grill:在阿布扎比吃什么、去哪吃
 description: Flavors Grill Abu Dhabi 是一家生意火爆、评价很高（4.9星，超过39,000条评论）的烤肉餐厅，位于Mina Zayed / Free Zone 2区域的Mina Street上，靠近港口。
 quickAnswer: Flavors Grill Abu Dhabi 是一家生意火爆、评价很高（4.9星，超过39,000条评论）的烤肉餐厅，坐落在Mina Zayed / Free Zone 2区域的Mina Street上，靠近港口，以炭烤肉类和什锦烤肉拼盘闻名，价位中等（价格等级约为3）。建议选在工作日开门时段或下午时分前往，以避开晚餐高峰；如果晚上8点后到店，可能需要拼桌或排队等位。

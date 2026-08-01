@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: yokohama-babymonster-choom-world-tour-japan-yokohama-leg
+srcHash: e7e31584ef05
 title: 'Gira mundial "Choom" de BABYMONSTER – Japón (etapa de Yokohama): lo que hay que saber (Yokohama)'
 description: Gira mundial "Choom" de BABYMONSTER – Japón (etapa de Yokohama) en Yokohama, Japón — 1 y 2 de agosto de 2026. Qué es, cuándo y dónde, y cómo organizar el viaje.
 quickAnswer: La gira mundial "Choom" de BABYMONSTER llega al Pia Arena MM de Yokohama los días 1 y 2 de agosto de 2026, como parte de una tanda de 11 conciertos en seis ciudades de Japón. La venta de entradas, los horarios de apertura de puertas y los detalles del repertorio aún no se han confirmado públicamente en su totalidad, así que conviene revisar los canales oficiales de YG/BABYMONSTER y la web del recinto antes de reservar el viaje. El Pia Arena MM se encuentra en el distrito costero de Minato Mirai, a poca distancia a pie de la estación de Minatomirai.

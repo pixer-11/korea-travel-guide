@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: seoul-restaurant-san
+srcHash: a76cc13b2456
 title: 'Restaurant San: dónde comer en Seúl'
 description: 'Restaurant San en Seúl, Corea del Sur — un local nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: 'Restaurant San es una mesa de alta cocina coreana moderna en Gangnam, Seúl, liderada por el chef Jo Seung-Hyun, que abrió en 2024 y fue nombrado "One To Watch" en Asia''s 50 Best Restaurants 2026. Es un destino de menú degustación que conviene reservar con mucha antelación: confirma los horarios exactos, los turnos de mesa y las ventanas de reserva directamente con el restaurante antes de planear un viaje en torno a él.'

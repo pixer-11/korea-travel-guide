@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: gapyeong-garden-of-morning-calm
+srcHash: 025e40d082c9
 title: 'Jardín de la Calma Matutina: Guía de viaje de Gapyeong'
-description: El Jardín de la Calma Matutina (아침고요수목원) es un jardín botánico temático en Sang-myeon, distrito de Gapyeong, a unos 90 minutos al noreste de Seúl, al que se llega mejor en coche
+description: El Jardín de la Calma Matutina (아침고요수목원) es un jardín botánico temático en Sang-myeon, distrito de Gapyeong, a unos 90 minutos al noreste de Seúl, al que se llega mejor en coche, autobús lanzadera o taxi desde la estación de Cheongpyeong, en la línea Gyeongchun.
 quickAnswer: El Jardín de la Calma Matutina (아침고요수목원) es un jardín botánico temático en Sang-myeon, distrito de Gapyeong, a unos 90 minutos al noreste de Seúl, al que se llega mejor en coche, autobús lanzadera o taxi desde la estación de Cheongpyeong, en la línea Gyeongchun. Con más de 17.000 reseñas y una valoración de 4.4, es un destino muy conocido, no un hallazgo escondido, así que conviene ir un día laborable por la mañana o planificar en torno a sus festivales de luces estacionales para evitar las aglomeraciones. Calcula entre dos y tres horas para recorrer todo el circuito de jardines temáticos.
 faq:
   - q: ¿Cómo llego al Jardín de la Calma Matutina sin coche?

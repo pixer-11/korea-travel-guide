@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: bangkok-cheaper-better-street-food
+srcHash: af73ec634d71
 title: 安くて美味い屋台飯:バンコクの穴場グルメスポット
 description: バンラック(Bang Rak)のシーロム通り(Silom Road)沿いにある、ランチタイムだけ賑わう細い路地、ソイ・シーロム20(Soi Silom 20 / Silom Soi 20)へ。高評価の「Cheaper & Better Street Food」をはじめとする屋台が集まっています。
 quickAnswer: バンラック(Bang Rak)のシーロム通り(Silom Road)から入る、ランチタイムだけ賑わう細い路地、ソイ・シーロム20(Soi Silom 20 / Silom Soi 20)へ向かいましょう。ここには高評価の「Cheaper & Better Street Food」をはじめとする屋台が並び、プラスチック製のスツールに座って、100バイト以下のワンプレート料理を味わえる、地元のオフィスワーカーが中心の雰囲気です。平日の12時から13時30分の間、路地が最も賑わい食材も新鮮な時間帯を狙って訪れ、小銭を用意しておきましょう。最寄りはサラデーン(Sala Daeng)BTS駅またはシーロム(Silom)MRT駅で、徒歩5~8分ほどです。

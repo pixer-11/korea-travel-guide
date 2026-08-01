@@ -1,6 +1,6 @@
 ---
 title: 'Ankara Castle: Travel Guide'
-description: Ankara Castle (Ankara Kalesi) crowns the old Kale district on a rocky hill above the city center — climb up in the late afternoon for panoramic views over
+description: Ankara Castle (Ankara Kalesi) crowns the old Kale district on a rocky hill above the city center — climb up in the late afternoon for panoramic views over Ankara's rooftops and minarets, and budget about 1.5–2 hours to wander the walls, towers, and narrow lanes of the historic neighborhood inside.
 country: Turkey
 region: Ankara
 category: attraction

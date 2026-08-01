@@ -1,6 +1,6 @@
 ---
 title: "Miroir d'eau: Bordeaux Travel Guide"
-description: "The Miroir d'eau is the shallow reflecting pool on the Place de la Bourse, right on the Garonne riverfront in Bordeaux — free, open-air, and best experienced"
+description: The Miroir d'eau is the shallow reflecting pool on the Place de la Bourse, right on the Garonne riverfront in Bordeaux — free, open-air, and best experienced in the early morning or after sunset when the crowds thin and the water turns to mist over the 18th-century façade.
 country: "France"
 region: "Bordeaux"
 category: "hidden-gem"

@@ -1,6 +1,6 @@
 ---
 title: "Golconda Fort: Hyderabad Travel Guide"
-description: "Golconda Fort is Hyderabad's hilltop citadel of the Qutb Shahi era, open daily 9am–5pm, with 87 bastions, palace ruins, and an acoustic clap-and-echo system"
+description: Golconda Fort is Hyderabad's hilltop citadel of the Qutb Shahi era, open daily 9am–5pm, with 87 bastions, palace ruins, and an acoustic clap-and-echo system leading up to the Baradari at the summit.
 country: "India"
 region: "Hyderabad"
 category: "hidden-gem"

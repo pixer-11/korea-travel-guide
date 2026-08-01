@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: jakarta-social-house-grand-indonesia
+srcHash: 62670387e4c0
 title: '소셜 하우스 그랜드 인도네시아: 자카르타 맛집 탐방'
 description: 소셜 하우스 그랜드 인도네시아(Social House Grand Indonesia)는 센트럴 자카르타 멘텡(Menteng)에 위치한 이스트 몰 그랜드 인도네시아(East Mall Grand Indonesia) 1층에 자리한, 초록이 가득한 올데이 레스토랑 겸 와인 바입니다.
 quickAnswer: 소셜 하우스 그랜드 인도네시아(Social House Grand Indonesia)는 센트럴 자카르타 멘텡(Menteng)에 위치한 이스트 몰 그랜드 인도네시아(East Mall Grand Indonesia) 1층에 자리한, 초록이 가득한 올데이 레스토랑 겸 와인 바입니다 — 분다란 HI MRT역(Bundaran HI MRT Station, 1/2번 출구, 지붕 있는 보행자 육교로 연결)을 이용하는 것이 가장 좋습니다. 다양한 인터내셔널 메뉴와 약 300종의 잔·병 와인, 그리고 중상급 가격대(1인당 약 Rp150,000~400,000 이상)를 예상하시면 됩니다. 인기가 많은 곳이라 대기를 피하려면 이른 점심 시간이나 오후 7시 이전의 평일 저녁을 노리는 것이 좋습니다.

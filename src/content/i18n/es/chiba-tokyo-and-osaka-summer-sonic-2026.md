@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: chiba-tokyo-and-osaka-summer-sonic-2026
+srcHash: e4f2c11e6e86
 title: 'Summer Sonic 2026: lo que hay que saber (Tokio y Osaka)'
-description: Summer Sonic 2026 se celebra del 14 al 16 de agosto de 2026, simultáneamente en Chiba (área de Tokio) y Osaka, y marca el 25.º aniversario del festival y su primer
+description: Summer Sonic 2026 se celebra del 14 al 16 de agosto de 2026, simultáneamente en Chiba (área de Tokio) y Osaka, y marca el 25.º aniversario del festival y su primer formato de tres días.
 quickAnswer: Summer Sonic 2026 se celebra del 14 al 16 de agosto de 2026, simultáneamente en Chiba (área de Tokio) y Osaka, y marca el 25.º aniversario del festival y su primer formato de tres días. Entre los cabezas de cartel anunciados hasta ahora están The Strokes, Jamiroquai, FKA Twigs, L'Arc-en-Ciel, aespa y LE SSERAFIM. Confirma los horarios exactos de los escenarios, la distribución del recinto y las categorías de entradas en el sitio oficial de Summer Sonic antes de reservar vuelos u hoteles.
 faq:
   - q: ¿Cuáles son las fechas exactas de Summer Sonic 2026?

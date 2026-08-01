@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: bali-bingin-uluwatu-pak-gula
+srcHash: 490117fa0aef
 title: バリ島のPak Gula(パ・グラ)
 description: Pak Gulaは、ウルワツ(Uluwatu)のビンギン(Bingin)にオープンした2階建ての新しいアジアン・フュージョンレストラン。The Cashew Treeのチームが手がけ、チャーシューポークのバオバンズなどシェアプレートで人気を集めている。
 quickAnswer: Pak Gulaは、ウルワツ(Uluwatu)のビンギン(Bingin)にオープンした2階建ての新しいアジアン・フュージョンレストランで、The Cashew Treeのチームが手がけている。チャーシューポークのバオバンズなどのシェアプレートと、充実したカクテルリストで知られる。すでに人気を集めているため予約は必須で、できればサンセットタイムか夜の時間帯を狙って予約しておきたい。新規オープンのバリのお店は状況が変わりやすいので、訪問前に最新の営業時間を確認することをおすすめする。

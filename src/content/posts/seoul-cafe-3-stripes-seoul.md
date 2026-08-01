@@ -1,6 +1,6 @@
 ---
 title: CAFE 3 STRIPES SEOUL
-description: CAFE 3 STRIPES SEOUL is Adidas's branded cafe and art space in Seongsu-dong, Seoul's industrial-turned-hipster district, opened in late 2025 with a splashy
+description: CAFE 3 STRIPES SEOUL is Adidas's branded cafe and art space in Seongsu-dong, Seoul's industrial-turned-hipster district, opened in late 2025 with a splashy fashion-show preview.
 country: South Korea
 region: Seoul
 category: trendy

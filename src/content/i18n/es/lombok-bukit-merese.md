@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: lombok-bukit-merese
+srcHash: bebbb7fac9ef
 title: 'Bukit Merese: Guía de viaje de Lombok'
 description: Bukit Merese es un pequeño promontorio cubierto de hierba a pocos minutos al este de Kuta Lombok, ideal para visitar al atardecer y disfrutar de vistas panorámicas de las dos bahías gemelas de Tanjung Aan.
 quickAnswer: Bukit Merese es un pequeño promontorio cubierto de hierba a pocos minutos al este de Kuta Lombok, ideal para visitar al atardecer y disfrutar de vistas panorámicas de las dos bahías gemelas de Tanjung Aan. Como es uno de los miradores más visitados del sur de Lombok (4.7 estrellas, casi 9,000 reseñas), hay que esperar aglomeraciones de gente y vendedores de scooters/motos en la cima; llega temprano o ve al amanecer si prefieres un ambiente más tranquilo. Calcula entre 45 y 60 minutos, usa calzado con buen agarre para la breve subida, y combina la visita con la playa de Tanjung Aan, justo abajo.

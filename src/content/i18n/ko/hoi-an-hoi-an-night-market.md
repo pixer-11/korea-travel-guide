@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: hoi-an-hoi-an-night-market
+srcHash: 31abc286f474
 title: 호이안 야시장 여행 가이드
 description: 호이안 야시장(Hoi An Night Market)은 안호이 섬(An Hội islet)의 응우옌호앙 거리(Nguyễn Hoàng Street)를 따라 매일 저녁 열리며, 구시가지 강변 거리에서 목조 인도교를 건너면 바로 이어집니다.
 quickAnswer: 호이안 야시장은 안호이 섬(An Hội islet)의 응우옌호앙 거리(Nguyễn Hoàng Street)를 따라 매일 저녁 열리며, 구시가지 강변 거리에서 목조 인도교를 건너면 바로 도착합니다. 등불이 켜지기 시작하는 오후 6-7시쯤 도착해서 1.5-2시간 정도 여유를 두고, 배고픈 상태로 가는 게 좋습니다 — 진짜 매력은 반미, 쩨(che), 꼬치구이 같은 길거리 음식과 실크 등불, 기념품이니까요. 관광지 느낌이 강하긴 하지만 사진 찍기에는 정말 좋은 곳이고, 특히 이후 투본강(Thu Bon River)에서 띄우는 촛불 등불이 백미입니다.

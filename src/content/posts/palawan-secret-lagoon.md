@@ -1,6 +1,6 @@
 ---
 title: "Secret Lagoon: Palawan Travel Guide"
-description: "Secret Lagoon is a pocket-sized, cave-hidden pool near El Nido town, reached by ducking through a low limestone opening (sometimes only passable by swimming"
+description: Secret Lagoon is a pocket-sized, cave-hidden pool near El Nido town, reached by ducking through a low limestone opening (sometimes only passable by swimming through at certain tides) into a still, jade-green basin ringed by cliffs.
 country: "Philippines"
 region: "Palawan"
 category: "hidden-gem"

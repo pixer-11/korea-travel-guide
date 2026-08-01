@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: hanoi-hidden-gem-cafe-hanoi
+srcHash: 4f8afde29657
 title: Hidden Gem Cafe：河内旅行指南
 description: Hidden Gem Cafe 位于河内老城区 Hàng Mắm 街 1 号，从还剑湖（Hoàn Kiếm Lake）往东南方向步行不远即到，靠近龙边桥（Long Biên Bridge）引桥一带。
 quickAnswer: Hidden Gem Cafe 位于河内老城区 Hàng Mắm 街 1 号，从还剑湖往东南方向步行不远即到，靠近龙边桥引桥一带。这里值得一去是因为多层露台座位、鸡蛋咖啡（egg coffee）和莲花茶，以及俯瞰老城区安静一角筒屋屋顶的景色——建议安排 45–90 分钟，最好选在上午稍晚时段或日落前。这里人气很旺（4.8 星，4,300+ 条评价），所以周末下午想占到最佳露台座位可能需要排队等位。

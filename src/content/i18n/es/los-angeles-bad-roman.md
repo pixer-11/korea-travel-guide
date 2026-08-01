@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: los-angeles-bad-roman
+srcHash: 4a3c904974cb
 title: Bad Roman en Los Ángeles
-description: Bad Roman es un restaurante italiano maximalista y de postín de Quality Branded Hospitality (el equipo detrás de Don Angie y Zou Zou's) en Beverly Hills
+description: Bad Roman es un restaurante italiano maximalista y de postín de Quality Branded Hospitality (el equipo detrás de Don Angie y Zou Zou's) en Beverly Hills, reconocible al instante por su motivo de serpiente de neón naranja resplandeciente y su comedor teatral y desbordante.
 quickAnswer: Bad Roman es un restaurante italiano maximalista y de postín de Quality Branded Hospitality (el equipo detrás de Don Angie y Zou Zou's) en Beverly Hills, reconocible al instante por su motivo de serpiente de neón naranja resplandeciente y su comedor teatral y desbordante. Está pensado para una noche animada más que para una cena tranquila, así que reserva con antelación, vístete un poco arreglado y ve con ganas de espectáculo tanto como de pasta. Confirma el horario actual y reserva en línea antes de ir, ya que lugares de moda como este se llenan rápido y los detalles pueden cambiar.
 faq:
   - q: ¿Dónde está exactamente Bad Roman?

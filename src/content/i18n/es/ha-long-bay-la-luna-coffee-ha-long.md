@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: ha-long-bay-la-luna-coffee-ha-long
+srcHash: 3e181d5454aa
 title: 'La Luna Coffee Hạ Long: Guía de viaje de la bahía de Ha Long'
 description: La Luna Coffee Hạ Long es una cafetería grande de varios niveles en la calle Hạ Long, en Bãi Cháy, construida en torno a grandes paredes de cristal y terrazas orientadas a la vista de la bahía.
 quickAnswer: 'La Luna Coffee Hạ Long es una cafetería grande de varios niveles en la calle Hạ Long, en Bãi Cháy, construida en torno a grandes paredes de cristal y terrazas orientadas a la vista de la bahía: un lugar para fotos, café helado y una hora tranquila, más que un sitio histórico. Ve a media tarde antes de la puesta de sol, cuenta con que estará concurrido los fines de semana, y combínalo con un paseo por el paseo marítimo de Bãi Cháy o una visita al teleférico cercano.'

@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: siena-palio-dell-assunta-palio-di-siena
+srcHash: 81c5e4155d73
 title: 'Palio dell''Assunta (Palio di Siena): lo que hay que saber (Siena)'
 description: Palio dell'Assunta (Palio di Siena) en Siena, Italia — 16 de agosto de 2026. Qué es, cuándo y dónde se celebra, y cómo planificar tu visita.
 quickAnswer: 'El Palio dell''Assunta se celebra el 16 de agosto de 2026 en la Piazza del Campo, Siena: una carrera de caballos a pelo de 90 segundos entre 10 de las 17 contrade (barrios) de la ciudad, precedida por horas de pompa y un lento desfile histórico. Los sitios gratuitos de pie en el centro de la plaza se abren horas antes de la carrera y se llenan rápidamente; si quieres un asiento, debes reservar un lugar en un balcón o en las gradas temporales a través de una contrada, un hotel o un revendedor autorizado con bastante antelación. Confirma siempre la hora exacta de inicio y cualquier cambio en los canales turísticos oficiales de Siena cerca de la fecha.'

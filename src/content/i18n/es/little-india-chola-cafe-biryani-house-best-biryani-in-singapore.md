@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: little-india-chola-cafe-biryani-house-best-biryani-in-singapore
+srcHash: b2e714bffa40
 title: 'Chola Cafe - Biryani House - El mejor biryani de Singapur: Guía de viaje de Little India'
 description: Chola Cafe - Biryani House se encuentra en una tranquila calle secundaria de Little India, a poca distancia a pie de la estación Little India MRT (Salida E), y es mejor visitarlo un poco fuera de las horas punta.
 quickAnswer: Chola Cafe - Biryani House se encuentra en una tranquila calle secundaria de Little India, a poca distancia a pie de la estación Little India MRT (Salida E), y es mejor visitarlo un poco fuera del horario punta del almuerzo (alrededor de las 12:00 o después de la 1:30pm) para conseguir mesa sin espera. Ven a probar el biryani de cordero o pollo cocinado a fuego lento, servido con los acompañamientos habituales de raita y curry de berenjena, y espera un ambiente sencillo, tipo cantina, en lugar de un comedor elegante. Es una gran opción si buscas un lugar de biryani poco conocido en vez de los nombres con largas colas de Serangoon Road.

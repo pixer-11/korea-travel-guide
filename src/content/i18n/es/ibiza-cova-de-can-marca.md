@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: ibiza-cova-de-can-marca
+srcHash: dd27a03af7ae
 title: 'Cova de Can Marçà: Guía de Viaje de Ibiza'
-description: Cova de Can Marçà es una cueva de contrabandistas en la costa norte de Ibiza, en Port de Sant Miquel, a la que se accede mediante una visita guiada por una pasarela que culmina con un espectáculo de agua, luz
+description: Cova de Can Marçà es una cueva de contrabandistas en la costa norte de Ibiza, en Port de Sant Miquel, a la que se accede mediante una visita guiada por una pasarela que culmina con un espectáculo de cascada y luces sincronizado con música.
 quickAnswer: Cova de Can Marçà es una cueva de contrabandistas en la costa norte de Ibiza, en Port de Sant Miquel, a la que se accede mediante una visita guiada por una pasarela que culmina con un espectáculo de cascada y luces sincronizado con música. Calcula alrededor de una hora para la visita, lleva calzado con buen agarre (los escalones están húmedos e irregulares) y ve a primera hora de la mañana o a última de la tarde para evitar la avalancha de excursiones en autocar que se concentra al mediodía. Combínala con un baño en la bahía de Sant Miquel, justo debajo.
 faq:
   - q: ¿Cómo se llega a Cova de Can Marçà?

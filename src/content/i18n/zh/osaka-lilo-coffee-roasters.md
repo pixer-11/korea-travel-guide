@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: osaka-lilo-coffee-roasters
+srcHash: '1566590625e2'
 title: LiLo Coffee Roasters：大阪旅行指南
 description: LiLo Coffee Roasters 是位于中央区西心斋桥（Nishishinsaibashi, Chuo Ward）的一家小型精品咖啡馆，口碑极佳——从心斋桥站（Shinsaibashi）或四桥站（Yotsubashi）步行约 5-8 分钟即可到达。
 quickAnswer: LiLo Coffee Roasters 是位于中央区西心斋桥（Nishishinsaibashi, Chuo Ward）的一家小型精品咖啡馆，口碑极佳——从心斋桥站或四桥站步行约 5-8 分钟即可到达。推荐点一杯单品手冲咖啡或他们的招牌拿铁，预计花费约 ¥600-900，建议安排 20-40 分钟，因为这是一个紧凑的、以站立/吧台为主的空间，拥有一批忠实的本地拥趸（4.8 分评分，来自 2,400+ 条评价）。

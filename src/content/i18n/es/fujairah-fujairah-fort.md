@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: fujairah-fujairah-fort
+srcHash: 9673ca8608b6
 title: 'Fuerte de Fujairah: Guía de viaje'
 description: El Fuerte de Fujairah es el fuerte en pie más antiguo de los Emiratos Árabes Unidos, construido entre 1500 y 1550 d. C. sobre un afloramiento rocoso en Al Sharyah, justo al lado del Museo de Fujairah.
 quickAnswer: El Fuerte de Fujairah (Fujairah Fort) es el fuerte en pie más antiguo de los Emiratos Árabes Unidos, construido entre 1500 y 1550 d. C. sobre un afloramiento rocoso en Al Sharyah, justo al lado del Museo de Fujairah. Calcula entre 30 y 45 minutos para recorrer los terrenos y subir hacia las torres; ve a primera hora de la mañana o justo antes de la puesta de sol para evitar el calor y aprovechar la mejor luz para las fotos. Combina bien con el Heritage Village (Aldea del Patrimonio) situado a sus pies y con el museo de al lado, así que reserva medio día para todo el conjunto.

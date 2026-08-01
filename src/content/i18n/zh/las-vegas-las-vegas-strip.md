@@ -1,8 +1,9 @@
 ---
 lang: zh
 slug: las-vegas-las-vegas-strip
+srcHash: f4ab8144cfb5
 title: 拉斯维加斯大道：旅行指南
-description: 拉斯维加斯大道是拉斯维加斯大道南段（Las Vegas Boulevard South）中长4.2英里的一段，位于曼德勒海湾（Mandalay Bay）与撒哈拉/太空针塔（Sahara/Stratosphere）区域之间，汇集了这座城市
+description: 拉斯维加斯大道（Las Vegas Strip）是拉斯维加斯大道南段（Las Vegas Boulevard South）中长4.2英里的一段，位于曼德勒海湾（Mandalay Bay）与撒哈拉/太空针塔（Sahara/Stratosphere）区域之间，汇集了这座城市最大的赌场度假村、演出，以及百乐宫喷泉（Bellagio Fountains）和弗里蒙特式霓虹灯这样的免费奇观。
 quickAnswer: 拉斯维加斯大道（Las Vegas Strip）是拉斯维加斯大道南段（Las Vegas Boulevard South）中长4.2英里的一段，位于曼德勒海湾（Mandalay Bay）与撒哈拉/太空针塔（Sahara/Stratosphere）区域之间，汇集了这座城市最大的赌场度假村、演出，以及百乐宫喷泉（Bellagio Fountains）和弗里蒙特式霓虹灯这样的免费奇观。建议分段步行，而不是从头走到尾，长距离移动可以搭乘单轨列车或网约车，并尽量安排在傍晚出行，此时灯光和人潮都达到高峰。安排两到四天时间，就足以游览主要度假村、看一场演出，再体验几个免费景点，不必太赶。
 faq:
   - q: 在拉斯维加斯大道应该安排多长时间？

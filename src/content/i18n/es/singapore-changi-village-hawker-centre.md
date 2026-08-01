@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: singapore-changi-village-hawker-centre
+srcHash: a14be84806af
 title: 'Changi Village Hawker Centre: dónde comer en Singapur'
-description: Changi Village Hawker Centre, en 2 Changi Village Rd, en el extremo noreste de Singapur, es conocido sobre todo por sus puestos de nasi lemak, satay y buñuelos de plátano frito
+description: Changi Village Hawker Centre, en 2 Changi Village Rd, en el extremo noreste de Singapur, es conocido sobre todo por sus puestos de nasi lemak, satay y buñuelos de plátano frito, que se comen en mesas comunales de fórmica bajo ventiladores de techo en constante zumbido.
 quickAnswer: Changi Village Hawker Centre, en 2 Changi Village Rd, en el extremo noreste de Singapur, es conocido sobre todo por sus puestos de nasi lemak, satay y buñuelos de plátano frito, que se comen en mesas comunales de fórmica bajo ventiladores de techo en constante zumbido. Es un lugar muy visitado (4,3 estrellas, casi 14.000 reseñas), así que conviene ir un día entre semana antes del mediodía o después de las 2 de la tarde para evitar las multitudes, y combinarlo con un paseo hasta la cercana Changi Beach o un ferry a Pulau Ubin.
 faq:
   - q: ¿Cómo llego a Changi Village Hawker Centre sin coche?

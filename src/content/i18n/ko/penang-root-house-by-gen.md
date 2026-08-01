@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: penang-root-house-by-gen
+srcHash: a0fea67848c2
 title: '페낭 겐(Gēn)의 루트 하우스(Root House by Gēn): 방문 가이드'
 description: 말레이시아 페낭에 새로 등장해 화제를 모으고 있는 루트 하우스 바이 겐(Root House by Gēn) — 어떤 곳인지, 위치는 어디인지, 방문 방법까지 정리했습니다.
 quickAnswer: 루트 하우스 바이 겐(Root House by Gēn)은 페낭 조지타운(George Town)에 복원된 1926 헤리티지 호텔(1926 Heritage Hotel) 안에 자리한 고급 말레이시아 중식 레스토랑으로, 호평받는 레스토랑 겐(Gēn)을 이끄는 팀이 운영합니다. 유서 깊은 건축미와 모던한 요리를 함께 음미할 수 있는 여유로운 저녁 식사로 방문하기 좋으며, 새로 문을 열어 화제가 되고 있는 만큼 미리 예약하고 방문 전 현재 영업시간을 확인하는 것이 좋습니다.

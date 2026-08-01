@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: chicago-360-chicago
+srcHash: 1298f5093815
 title: 360 CHICAGO(360シカゴ):旅行ガイド
 description: 360 CHICAGO(360シカゴ)は875 N Michigan AveにあるJohn Hancock Building(ジョン・ハンコック・ビル)の94階にあり、毎日午前9時から午後11時まで営業しています。
 quickAnswer: 360 CHICAGO(360シカゴ)は875 N Michigan AveにあるJohn Hancock Building(ジョン・ハンコック・ビル)の94階にあり、毎日午前9時から午後11時まで営業しています。本当に人気のスポットで穴場ではないので、週末なら開館直後の午前9時(最も空いているのは9〜11時の時間帯)を狙うか、平日ならほぼどの時間帯でも構いません。所要時間は1時間ほど見ておき、Michigan Avenueに向かって傾斜するガラスの展望台「TILT」に並ぶ場合はさらに時間の余裕を持たせましょう。

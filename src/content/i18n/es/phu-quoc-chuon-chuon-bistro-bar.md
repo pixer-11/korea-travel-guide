@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: phu-quoc-chuon-chuon-bistro-bar
+srcHash: 516bb5e0bdfe
 title: 'Chuồn Chuồn Bistro & Bar: Guía de viaje de Phu Quoc'
-description: Chuồn Chuồn Bistro & Bar es un elegante restaurante-lounge con jardín en la calle Tran Hung Dao, en Phu Quoc Town, conocido por su terraza al aire libre iluminada con farolillos
+description: Chuồn Chuồn Bistro & Bar es un elegante restaurante-lounge con jardín en la calle Tran Hung Dao, en Phu Quoc Town, conocido por su terraza al aire libre iluminada con farolillos, sus platos de fusión vietnamita y sus cócteles.
 quickAnswer: Chuồn Chuồn Bistro & Bar es un elegante restaurante-lounge con jardín en la calle Tran Hung Dao, en Phu Quoc Town, conocido por su terraza al aire libre iluminada con farolillos, sus platos de fusión vietnamita y sus cócteles. Con una calificación de 4.3 basada en más de 6,000 reseñas y precios de gama media, funciona muy bien como cena relajada antes o después de recorrer el mercado nocturno. Conviene ir al atardecer o después de las 6pm para disfrutar del mejor ambiente, y reservar con antelación o llegar temprano los fines de semana, ya que se llena rápido.
 faq:
   - q: ¿Cómo llego a Chuồn Chuồn Bistro & Bar desde el aeropuerto?

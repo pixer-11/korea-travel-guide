@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: tokyo-shibuya-crossing
+srcHash: 1af4f785b49a
 title: 涩谷十字路口（Shibuya Crossing）：东京旅行指南
 description: 涩谷十字路口（Shibuya Crossing）是紧邻涩谷站八公口（Hachiko Exit）的巨大人行横道路口，最多可容纳八股人流同时通过。
 quickAnswer: 涩谷十字路口是紧邻涩谷站八公口外的巨大人行横道路口，最多可容纳八股人流在约30秒内同时通过。这里全天免费开放，随时可去，但日落到傍晚时分是最佳时段，既能看到自然光，又能欣赏霓虹灯效果；涩谷天空（Shibuya Sky）观景台或涩谷TSUTAYA店楼上的星巴克可以俯瞰经典景观。建议预留20-30分钟来回穿行并拍照，如果要排队上观景台则需更多时间。

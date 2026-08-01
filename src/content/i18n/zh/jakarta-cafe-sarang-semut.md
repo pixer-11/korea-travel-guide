@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: jakarta-cafe-sarang-semut
+srcHash: e52ab6ff1737
 title: Cafe Sarang Semut：雅加达旅行指南
 description: 印度尼西亚雅加达的 Cafe Sarang Semut——一处新晋热门打卡地：它是什么、位于哪里，以及如何前往游览。
 quickAnswer: Cafe Sarang Semut（意为“蚁窝咖啡馆”）是一家藏身于南雅加达 Kebayoran Baru 区 Blok M 一带、以洞穴为灵感设计的咖啡馆，因其布满凹凸孔洞、宛如白蚁窝的石膏墙面而闻名，自2026年爆红网络后成为社交媒体打卡热点。建议选在工作日下午前往，这样才能真正坐下来拍照，而不用在门口排长队。这里适合安排45分钟到1小时的行程，出发前请务必确认最新的营业时间以及是否需要预约，因为像这样刚走红不久的地方，营业安排常常会变动。

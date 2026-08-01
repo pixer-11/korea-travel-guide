@@ -1,8 +1,9 @@
 ---
 lang: es
 slug: antalya-duden-waterfalls
+srcHash: 932d505976b1
 title: 'Cascadas de Duden: Guía de Viaje de Antalya'
-description: Las Cascadas de Duden (Düden Şelalesi), en Kepez, Antalya, se disfrutan mejor en el Parque de Duden Alto (Düden Şelalesi Parkı), donde las caídas de agua se despliegan frente a una
+description: Las Cascadas de Duden (Düden Şelalesi), en Kepez, Antalya, se disfrutan mejor en el Parque de Duden Alto (Düden Şelalesi Parkı), donde las caídas de agua se despliegan frente a una gran cueva a la que se puede entrar para ver la cascada desde atrás.
 quickAnswer: Las Cascadas de Duden (Düden Şelalesi), en Kepez, Antalya, se disfrutan mejor en el Parque de Duden Alto (Düden Şelalesi Parkı), donde las caídas de agua se despliegan frente a una gran cueva a la que se puede entrar para ver la cascada desde atrás. Ve temprano por la mañana o en un día de semana para evitar las multitudes de los autobuses turísticos, calcula entre 1 y 1,5 horas, y combínalo con las Cascadas de Duden Bajo, cerca de la costa, si dispones de coche o taxi para todo el día.
 faq:
   - q: ¿Cómo llego a las Cascadas de Duden desde el centro de Antalya?

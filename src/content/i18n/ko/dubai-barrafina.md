@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: dubai-barrafina
+srcHash: a84a30078d2e
 title: 두바이의 바라피나(Barrafina)
 description: 런던의 유명한 스페인식 카운터 다이닝 명소 바라피나(Barrafina)가 2026년 1월 말 두바이 DIFC에 첫 해외 지점을 열었습니다.
 quickAnswer: 런던의 유명한 스페인식 카운터 다이닝 명소 바라피나(Barrafina)가 2026년 1월 말 두바이 DIFC(Dubai International Financial Centre)에 첫 해외 지점을 열고, 대리석 카운터에서 빠르게 조리해 내는 타파스(크로켓타스, 그릴 새우, 토르티야) 스타일을 그대로 선보이고 있습니다. 카운터 좌석을 잡으려면 점심시간이나 이른 저녁 시간에 방문하는 것이 좋은데, 이 콘셉트는 대규모 인원을 받지 않기 때문입니다. 새로 문을 연 곳이라 세부 사항이 빠르게 바뀔 수 있으니 예약 정책과 영업시간은 방문 전 레스토랑에 직접 확인하세요.

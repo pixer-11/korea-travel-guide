@@ -1,6 +1,6 @@
 ---
 title: Lavender & Sunflower Field
-description: The lavender and sunflower fields around Valensole, on the Plateau de Valensole in Provence, are at their best from roughly the last week of June through
+description: The lavender and sunflower fields around Valensole, on the Plateau de Valensole in Provence, are at their best from roughly the last week of June through late July, when purple lavender rows and golden sunflowers bloom side by side.
 country: France
 region: Provence
 category: attraction

@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: bali-tanah-lot
+srcHash: 5d3c091167fa
 title: '타나롯: 발리 여행 가이드'
 description: 타나롯(Tanah Lot)은 타바난 리젠시(Tabanan Regency) 해안의 바위섬 위에 자리한 16세기 사원으로, 스미냑/짱구(Seminyak/Canggu)에서 북서쪽으로 약 45~60분 거리에 있습니다.
 quickAnswer: 타나롯(Tanah Lot)은 타바난 리젠시(Tabanan Regency) 해안의 바위섬 위에 자리한 16세기 사원으로, 스미냑/짱구(Seminyak/Canggu)에서 북서쪽으로 약 45~60분 거리에 있습니다. 일몰(계절에 따라 대략 오후 5시 30분~6시 30분) 시간대에 방문하는 것이 좋지만, 관광버스 인파를 피하려면 2~3시간 일찍 도착해 주변 절벽 산책로와 시장 가판대를 둘러보는 것을 추천합니다. 썰물 때는 모래사장을 걸어 바위 기슭까지 갈 수 있지만, 사원 내부는 힌두교 신자들만 출입할 수 있습니다.

@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: istanbul-topkapi-palace-museum
+srcHash: 2f44125bc6ff
 title: '톱카프 궁전 박물관: 이스탄불 여행 가이드'
 description: 거의 400년간 오스만 술탄들의 거처였던 톱카프 궁전(Topkapi Palace)은 술탄아흐메트(Sultanahmet)의 역사적 반도 끝자락에 자리하며, 아야소피아(Hagia Sophia)에서 걸어서 금방이다.
 quickAnswer: 거의 400년간 오스만 술탄들의 거처였던 톱카프 궁전(Topkapi Palace)은 술탄아흐메트(Sultanahmet)의 역사적 반도 끝자락에 자리하며, 아야소피아(Hagia Sophia)에서 걸어서 금방이다. 시간대별 입장권을 미리 온라인으로 구매하고(궁전과 별도 구역인 하렘은 각각 티켓이 필요하다), 개장 시간에 맞춰 도착하며, 서두르지 않고 안뜰과 보물관, 하렘을 둘러보려면 최소 3시간은 잡아두는 것이 좋다.

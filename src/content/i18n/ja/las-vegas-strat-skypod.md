@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: las-vegas-strat-skypod
+srcHash: dfba304163f8
 title: STRAT SkyPod:ラスベガス旅行ガイド
 description: STRAT SkyPodは、ストリップ北端の2000 S Las Vegas Blvdに立つSTRATホテルタワーの最上部にあり、100階以上の高さから360度の眺望を楽しめます。
 quickAnswer: STRAT SkyPodは、ストリップ北端の2000 S Las Vegas Blvdに立つSTRATホテルタワーの最上部にあり、100階以上の高さから360度の眺望が楽しめるほか、絶叫アトラクション(Big Shot、Insanity、X-Scream、SkyJump)も揃っています。所要時間は1.5〜2時間を見ておき、最高の光を楽しむなら日没時がおすすめです。ストリップ南側にある大型アトラクションに比べると、行列は明らかに短めです。評価は4.5(レビュー1,000件超)で、カジノが集まるエリアより北側に滞在しているなら、意外と見逃せない穴場スポットです。

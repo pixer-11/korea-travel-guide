@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: kuala-lumpur-volume
+srcHash: 894d0fff1b85
 title: 'Volume: Guía de viaje de Kuala Lumpur'
 description: 'Volume en Kuala Lumpur, Malasia — un lugar nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: 'Volume es un listening bar (bar para escuchar música) y café en el Klang Valley, construido alrededor de una pared con cerca de 400 discos de vinilo y una banda sonora curada por DJs que se extiende desde el horario de café hasta la noche. Vale la pena ir por el equipo de sonido y la pared de discos más que por un menú fijo: es un lugar para sentarse con un café o una copa y realmente escuchar. Confirma el horario actual y si se necesita reserva antes de ir, ya que los detalles de un sitio recién inaugurado como este cambian rápido.'

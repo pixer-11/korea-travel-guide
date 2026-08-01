@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: abu-dhabi-ufc-fight-night-ankalaev-vs-rountree-jr
+srcHash: 2c1a17566b2c
 title: 'UFC Fight Night: アンカラエフ vs ラウントリー Jr.:知っておくべきこと(アブダビ)'
 description: 'UFC Fight Night: アンカラエフ vs ラウントリー Jr. は2026年7月25日、アブダビのヤス島(Yas Island)にあるエティハド・アリーナ(Etihad Arena)で開催予定。メインイベントはライトヘビー級の対決。'
 quickAnswer: 'UFC Fight Night: アンカラエフ vs ラウントリー Jr. は2026年7月25日、アブダビのヤス島(Yas Island)にあるエティハド・アリーナ(Etihad Arena)で開催予定で、メインイベントはマゴメド・アンカラエフ(Magomed Ankalaev)とハリル・ラウントリー Jr.(Khalil Rountree Jr.)によるライトヘビー級の対決です。ヤス島周辺のフライトやホテルは今のうちに予約しておくと良いですが、正確なファイトカードの開始時刻、前座カードの詳細、チケット販売開始日については、日程が近づいたらUFCの公式チャンネルで必ず確認してください。これらは変更される可能性があります。'

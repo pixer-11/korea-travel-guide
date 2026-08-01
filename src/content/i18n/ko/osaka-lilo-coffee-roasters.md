@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: osaka-lilo-coffee-roasters
+srcHash: '1566590625e2'
 title: 'LiLo Coffee Roasters: 오사카 여행 가이드'
 description: LiLo Coffee Roasters는 주오구(Chuo Ward) 니시신사이바시(Nishishinsaibashi)에 위치한 작지만 평점 높은 스페셜티 커피바로, 신사이바시(Shinsaibashi) 또는 요츠바시(Yotsubashi)역에서 도보 5~8분 거리에 있습니다.
 quickAnswer: LiLo Coffee Roasters는 주오구 니시신사이바시(Nishishinsaibashi)에 위치한 작지만 평점 높은 스페셜티 커피바로, 신사이바시(Shinsaibashi) 또는 요츠바시(Yotsubashi)역에서 도보 5~8분 거리에 있습니다. 싱글 오리진 핸드드립이나 시그니처 라떼를 추천하며, 예산은 대략 ¥600~900, 소요 시간은 20~40분 정도를 예상하면 됩니다. 서서 마시거나 카운터에서 즐기기 좋은 아담한 공간으로, 2,400개 이상의 리뷰에서 평점 4.8을 기록할 만큼 지역 단골들의 충성도가 높은 곳입니다.

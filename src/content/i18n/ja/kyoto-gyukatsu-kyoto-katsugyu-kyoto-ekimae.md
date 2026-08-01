@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: kyoto-gyukatsu-kyoto-katsugyu-kyoto-ekimae
+srcHash: d0ca8296880b
 title: GYUKATSU 京都勝牛 京都駅前店：どこで食べる？
 description: GYUKATSU 京都勝牛 京都駅前店は、京都駅からすぐの牛カツ専門店。行列が短くなるランチ利用がおすすめ。
 quickAnswer: GYUKATSU 京都勝牛 京都駅前店は、京都駅から歩いてすぐの牛カツ専門店です。行列が短くなるランチタイムに訪れるのがおすすめ。セットメニューを注文し、卓上の石板でお好みの焼き加減に仕上げましょう。満足度の高い一食の予算は¥1,500〜¥2,500程度（Google価格帯レベル2）。ピーク時のランチ・ディナー以外なら、待ち時間は15〜30分ほど見ておけば十分です。

@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: jeju-yongyeon-suspension-bridge
+srcHash: cb5bbfd61ba1
 title: 龙渊吊桥：济州岛旅行指南
 description: 龙渊吊桥是济州市龙潭洞（Yongdam-dong）一座架在悬崖夹峙的狭窄水湾上的红色小拱桥——最适合在黄昏或夜幕降临后前往游览。
 quickAnswer: 龙渊吊桥是济州市龙潭洞（Yongdam-dong）一座架在悬崖夹峙的狭窄水湾上的红色小拱桥——最佳游览时间是黄昏或天黑之后，此时桥梁、亭阁与崖壁都会被灯光照亮，并倒映在平静的水面上。建议安排20-30分钟，可与附近的龙头岩（Yongduam Rock，步行10分钟可达）及龙头海岸路一同游览，由于附近停车位有限，建议步行前往而非自驾。

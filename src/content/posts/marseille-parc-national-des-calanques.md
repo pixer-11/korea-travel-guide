@@ -1,6 +1,6 @@
 ---
 title: "Parc national des Calanques: Marseille Travel Guide"
-description: "Go early — ideally on the first bus or by 8am on foot — and pick one calanque (Sormiou, Morgiou, or the boat-only Sugiton/En-Vau) rather than trying to see"
+description: Go early — ideally on the first bus or by 8am on foot — and pick one calanque (Sormiou, Morgiou, or the boat-only Sugiton/En-Vau) rather than trying to see the park in one sweep.
 country: "France"
 region: "Marseille"
 category: "attraction"

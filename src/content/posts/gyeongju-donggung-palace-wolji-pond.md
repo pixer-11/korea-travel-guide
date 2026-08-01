@@ -1,6 +1,6 @@
 ---
 title: "Donggung Palace & Wolji Pond: Gyeongju Travel Guide"
-description: "Donggung Palace & Wolji Pond is Gyeongju's best evening spot: a Silla-era palace complex (circa 674 CE) built around a manmade pond with three islets, best"
+description: 'Donggung Palace & Wolji Pond is Gyeongju''s best evening spot: a Silla-era palace complex (circa 674 CE) built around a manmade pond with three islets, best seen at dusk when the reconstructed pavilions and their reflections light up over the water.'
 country: "South Korea"
 region: "Gyeongju"
 category: "hidden-gem"

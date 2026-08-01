@@ -1,6 +1,6 @@
 ---
 title: 'Nha He Coffee Shop: Nha Trang Travel Guide'
-description: Nha He Coffee Shop is a laid-back, plant-filled café tucked down an alley at 120/8 Nguyễn Thiện Thuật in central Nha Trang, a short walk or cheap Grab ride
+description: Nha He Coffee Shop is a laid-back, plant-filled café tucked down an alley at 120/8 Nguyễn Thiện Thuật in central Nha Trang, a short walk or cheap Grab ride from the beachfront hotel strip.
 country: Vietnam
 region: Nha Trang
 category: trendy

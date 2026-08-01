@@ -1,6 +1,6 @@
 ---
 title: Chinatown in Incheon
-description: 'Incheon''''s Chinatown sits right outside Incheon Station (Line 1, Exit 1) and is best treated as a half-day trip: wander the red-lantern-lined slope of'
+description: 'Incheon''s Chinatown sits right outside Incheon Station (Line 1, Exit 1) and is best treated as a half-day trip: wander the red-lantern-lined slope of Chinatown-ro, eat jajangmyeon (black bean noodles) at one of the old-school Chinese restaurants, then walk up to Jayu (Freedom) Park and down to the Open Port modern history streets and Wangbimarosugil mural alley.'
 region: Incheon
 country: "South Korea"
 category: hidden-gem

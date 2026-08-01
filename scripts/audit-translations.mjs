@@ -14,6 +14,9 @@
 // ─────────────────────────────────────────────────────────────
 import { readFile, readdir } from 'node:fs/promises';
 import { join } from 'node:path';
+import { micromark } from 'micromark';
+import { gfm, gfmHtml } from 'micromark-extension-gfm';
+import yaml from 'js-yaml';
 
 const ROOTS = [
   ['src/content/i18n', 'posts'],
@@ -61,6 +64,24 @@ async function auditFrontmatter(root, lang, file, fm, body = '') {
   if (/^draft:\s*true\s*$/m.test(srcFm)) return null;
 
   if (SPILL.test(fm)) flags.push(['TOOL-SPILL', fm.match(SPILL)[0]]);
+  // A description that stops mid-clause is the page's SERP copy in that
+  // language — 407 translations mirrored the truncated English descriptions
+  // until the 2026-08-01 rebuild. Terminal punctuation (any script), possibly
+  // inside a closing quote/bracket, and balanced parens (width-agnostic: a
+  // fullwidth（ closed by halfwidth ) is a pair, not a truncation).
+  {
+    let desc = null;
+    try {
+      const parsed = yaml.load(fm);
+      if (parsed && typeof parsed.description === 'string') desc = parsed.description.trim();
+    } catch { /* malformed frontmatter is caught by other checks */ }
+    if (desc) {
+      const balanced = (desc.match(/[(（]/g) || []).length === (desc.match(/[)）]/g) || []).length;
+      if (!/[.!?…。．！？](['"”’」』】)\]）]*)?$/.test(desc) || !balanced) {
+        flags.push(['TRUNCATED-DESCRIPTION', `…${desc.slice(-50)}`]);
+      }
+    }
+  }
   // A body or answer that is literally the word 'placeholder'. One Chinese page
   // shipped with both — the whole article was that word — and nothing noticed,
   // because the file existed, parsed, and had a real title.
@@ -117,10 +138,28 @@ function isLinkList(raw) {
 // "Here is the translation") — found once at the top of a ko essentials body.
 const CHATTER = /지금까지 가이드|필요한 모든 정보를 확인|다음은 번역|번역입니다|以下は翻訳|翻訳です|以下是翻译|翻译如下|He aquí la traducción|Here is the translation/;
 
+// CommonMark refuses to close `**` when the char just before the closer is
+// punctuation — ）)。」etc — and the char just after is a CJK/word character
+// (right-flanking rule), so `**内堡（Inner Fort）**是` shows literal asterisks
+// on the page. 145 live ko/ja/zh files had this before the 2026-08-01 sweep.
+// A bare regex can't tell an opener from a closer (`。**次**` is legal), so ask
+// the renderer itself: if `**` survives into the HTML, a delimiter failed.
+const MD_OPTS = { extensions: [gfm()], htmlExtensions: [gfmHtml()], allowDangerousHtml: true };
+function brokenBoldLine(body) {
+  if (!body.includes('**')) return null;
+  if (!micromark(body, MD_OPTS).includes('**')) return null;
+  for (const line of body.split('\n')) {
+    if (line.includes('**') && micromark(line, MD_OPTS).includes('**')) return line;
+  }
+  return body.split('\n').find((l) => l.includes('**')) || '**';
+}
+
 function auditBody(lang, body) {
   const flags = [];
   const firstPara = (body.trim().split(/\n{2,}/)[0] || '').slice(0, 300);
   if (CHATTER.test(firstPara)) flags.push(['translator-chatter', firstPara]);
+  const brokenBold = brokenBoldLine(body);
+  if (brokenBold !== null) flags.push(['broken-bold', brokenBold]);
   const paras = body.split(/\n{2,}/).map((p) => p.trim()).filter((p) => p.length >= 60 && !p.startsWith('|'));
   for (const raw of paras) {
     if (isLinkList(raw)) continue;
@@ -161,7 +200,11 @@ for (const [root, label] of ROOTS) {
     if (!['ko', 'ja', 'es', 'zh'].includes(lang)) continue;
     for (const f of (await readdir(join(root, lang))).filter((f) => f.endsWith('.md'))) {
       files++;
-      const raw = await readFile(join(root, lang, f), 'utf8');
+      // Windows checkouts (core.autocrlf) hand us CRLF, and `\r\n\r\n` never
+      // matches the `\n{2,}` paragraph split — the whole body becomes ONE
+      // paragraph and per-paragraph thresholds misfire (false korean-leak on
+      // ja/gangneung-local-restaurant.md). Normalize before any line math.
+      const raw = (await readFile(join(root, lang, f), 'utf8')).replace(/\r\n/g, '\n');
       const fmEnd = raw.indexOf('\n---', 3);
       const body = fmEnd === -1 ? raw : raw.slice(fmEnd + 4);
       // The audit only ever read the BODY, so a frontmatter defect was invisible:

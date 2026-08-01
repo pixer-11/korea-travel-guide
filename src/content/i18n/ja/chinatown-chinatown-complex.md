@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: chinatown-chinatown-complex
+srcHash: 7e4d8d0f7a94
 title: チャイナタウン・コンプレックス:食事のおすすめ
 description: スミス・ストリート(Smith Street)にあるチャイナタウン・コンプレックス(Chinatown Complex)は、湿式市場(ウェット・マーケット)の上に位置する、シンガポール最大級のホーカーセンターです。2階には数百軒もの屋台が並びます。
 quickAnswer: スミス・ストリート(Smith Street)にあるチャイナタウン・コンプレックス(Chinatown Complex)は、湿式市場(ウェット・マーケット)の上に位置する、シンガポール最大級のホーカーセンターです。2階には数百軒もの屋台が並びます。ランチタイムの混雑を避けるなら、平日午前(11時前)か午後の中頃(14時〜16時)がおすすめ。少額の現金を持参し、Liao Fan Hawker Chai Tow Kway や、行列必至のHong Kong Soya Sauce Chicken Rice の屋台といった有名店を狙いましょう。所要時間は45〜90分を見込み、相席になることも覚悟しておきましょう。

@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: nonthaburi-f-forever-1st-world-tour-in-bangkok
+srcHash: 441de28cd1af
 title: 'F✦FOREVER 1st World Tour en Bangkok: lo que debes saber (Nonthaburi)'
 description: F✦FOREVER 1st World Tour en Bangkok, en Nonthaburi, Tailandia — 1 y 2 de agosto de 2026. Qué es, cuándo y dónde es, y cómo planificar tu visita.
 quickAnswer: F✦FOREVER —el trío taiwanés reunido formado por Jerry Yan, Van Ness Wu y Vic Chou (conocidos por ser F4 en "Meteor Garden"), con Ashin, de Mayday, como cuarto miembro honorario— actúa durante dos noches en el IMPACT Arena de Nonthaburi los días 1 y 2 de agosto de 2026, como parte de su 1st World Tour. Se trata de un reencuentro a escala de estadio, así que reserva vuelos y hotel en la zona de Muang Thong Thani/Chaeng Watthana con antelación, y confirma las fechas exactas, la hora de apertura de puertas y las categorías de entradas en los canales oficiales de la gira y del IMPACT Arena antes de viajar.

@@ -1,8 +1,9 @@
 ---
 lang: zh
 slug: seoul-eid-halal-korean-food
+srcHash: 4c2537abdb75
 title: EID清真韩餐:首尔美食指南
-description: EID Halal Korean Food是一家位于梨泰院(Itaewon)牛沙丹路(Usadan-ro)一带、紧邻首尔中央清真寺(Seoul Central Mosque)的朴素小馆,供应清真认证韩式料理,如
+description: EID Halal Korean Food是一家位于梨泰院(Itaewon)牛沙丹路(Usadan-ro)一带、紧邻首尔中央清真寺(Seoul Central Mosque)的朴素小馆,供应清真认证的韩式料理,如清真烤肉(halal bulgogi)、辣炒鸡排(dak-galbi)和韩式炸鸡。
 quickAnswer: EID Halal Korean Food是一家位于梨泰院(Itaewon)牛沙丹路(Usadan-ro)一带、紧邻首尔中央清真寺(Seoul Central Mosque)的朴素小馆,供应清真认证的韩式料理,如清真烤肉(halal bulgogi)、辣炒鸡排(dak-galbi)和韩式炸鸡。建议午餐或早晚餐时段前往,由于这里凭借近1,200条评价获得4.5星的好口碑,可能需要稍等一会儿。用餐后不妨顺道散步到清真寺以及伊斯兰中央清真寺市集街(Islam Central Masjid market street)逛逛。消费属中等价位(价格等级2),每道菜大约10,000至20,000韩元。
 faq:
   - q: 如何前往EID Halal Korean Food?

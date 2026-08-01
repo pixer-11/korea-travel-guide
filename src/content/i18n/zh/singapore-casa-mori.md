@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: singapore-casa-mori
+srcHash: 3510ffd3cf7b
 title: 新加坡 Casa Mori 探店指南
 description: 新加坡 Casa Mori——一家新晋热门餐厅：它是什么、地址在哪，以及如何前往。
 quickAnswer: Casa Mori 是一家坐落在丹戎加东…不,应为登普西山（Dempsey Hill）的西班牙风味融合新加坡菜的分享式餐厅新店,由摩登新加坡菜（mod-Sin）名厨 Willin Low 与西班牙主厨 Jose Alonso 联手掌勺。餐厅以将马来盐虾膏（cincalok）、参巴辣椒酱（sambal）等本地风味融入西班牙料理技法而闻名，用餐空间以别致的粉红色调装饰，辨识度极高。建议结伴前往用晚餐，这样可以多点几道分享菜式，由于是当下的热门新店，务必提前订位。前往之前请以 Casa Mori 官方渠道公布的信息为准，确认最新的营业时间与订位政策，因为新开业场所的细节可能随时调整。

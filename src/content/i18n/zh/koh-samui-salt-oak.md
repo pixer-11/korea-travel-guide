@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: koh-samui-salt-oak
+srcHash: 08390bb4bfc5
 title: Salt & Oak：苏梅岛美食推荐
 description: Salt & Oak 是一家位于苏梅岛东北部博普(Bo Put)、靠近渔夫村(Fisherman's Village)的柴火烧烤开放式厨房餐厅，评分高达4.8分，评价数超过1200条。
 quickAnswer: Salt & Oak 是一家位于苏梅岛东北部博普(Bo Put)、靠近渔夫村(Fisherman's Village)的柴火烧烤开放式厨房餐厅，评分4.8分，评价数超过1,200条。建议前往用晚餐（请提前预订，尤其是在11月至3月的旺季），一顿多道菜的正餐大约需要预留90分钟到两小时，如果你恰好在周五前往，不妨顺道到渔夫村的步行街夜市逛逛。

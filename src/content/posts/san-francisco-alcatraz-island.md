@@ -1,6 +1,6 @@
 ---
 title: 'Alcatraz Island: San Francisco Travel Guide'
-description: Book Alcatraz Cruises ferry tickets from Pier 33 at least 2-3 weeks ahead (further out in summer), and choose the first morning departure — around 8:45am or
+description: Book Alcatraz Cruises ferry tickets from Pier 33 at least 2-3 weeks ahead (further out in summer), and choose the first morning departure — around 8:45am or 9am — to see the cellhouse before tour groups thicken.
 country: United States
 region: San Francisco
 category: attraction

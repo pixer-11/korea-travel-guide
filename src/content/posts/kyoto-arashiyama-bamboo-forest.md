@@ -1,9 +1,6 @@
 ---
 title: 'Arashiyama Bamboo Forest: Kyoto Travel Guide'
-description: >-
-  The Arashiyama Bamboo Grove is a free, open-air path through towering bamboo
-  in western Kyoto's Ukyo Ward — arrive by 8am to beat crowds, spend 15-20
-  minutes
+description: The Arashiyama Bamboo Grove is a free, open-air path through towering bamboo in western Kyoto's Ukyo Ward — arrive by 8am to beat crowds, spend 15-20 minutes walking the main path, then extend your visit to Tenryu-ji Temple and the Togetsukyo Bridge nearby.
 country: Japan
 region: Kyoto
 category: attraction

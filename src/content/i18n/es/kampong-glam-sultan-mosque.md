@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: kampong-glam-sultan-mosque
+srcHash: e625aab3ca9b
 title: 'Mezquita del Sultán: Guía de viaje de Kampong Glam'
 description: La Mezquita del Sultán (Masjid Sultan), en 3 Muscat St, es el corazón de Kampong Glam y la mezquita más grande de Singapur, a la que se llega fácilmente en la estación Bugis MRT (líneas Downtown/East-West).
 quickAnswer: La Mezquita del Sultán (Masjid Sultan), en 3 Muscat St, es el corazón de Kampong Glam y la mezquita más grande de Singapur, a la que se llega fácilmente en la estación Bugis MRT (líneas Downtown/East-West). Visítala fuera de las cinco oraciones diarias, viste con recato (a la entrada prestan túnicas) y reserva entre 30 y 45 minutos para el salón de oración de cúpula dorada y el patio antes de recorrer las cercanas Haji Lane y Arab Street.

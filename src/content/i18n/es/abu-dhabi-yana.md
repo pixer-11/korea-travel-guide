@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: abu-dhabi-yana
+srcHash: c1ff9866f9f9
 title: 'Yana: guía de viaje de Abu Dabi'
 description: 'Yana en Abu Dabi (Abu Dhabi), Emiratos Árabes Unidos — un lugar nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Yana es un restaurante pan-asiático-peruano en la isla de Saadiyat (Saadiyat Island), Abu Dabi, conocido por su interior en tonos azul cobalto y dorado, su entorno junto al mar y platos como el ceviche y el crudo de hamachi con puré de mango. Se ha convertido en uno de los lugares de referencia de la ciudad para una cena romántica, así que conviene reservar con antelación y optar por una reserva a primera hora de la tarde-noche antes de que el salón se llene. Confirma directamente con el restaurante los horarios y detalles de reserva actuales antes de ir, ya que lugares de moda como este pueden cambiar de horario según la temporada.

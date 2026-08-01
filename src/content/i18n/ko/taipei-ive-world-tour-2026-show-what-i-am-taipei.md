@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: taipei-ive-world-tour-2026-show-what-i-am-taipei
+srcHash: 82845911c537
 title: 'IVE 월드투어 2026 "SHOW WHAT I AM" – 타이베이: 알아둘 사항 (타이베이)'
 description: 대만 타이베이(Taipei)에서 열리는 IVE 월드투어 2026 "SHOW WHAT I AM" – 타이베이 공연, 2026년 9월 11일~13일. 공연 개요와 일정·장소, 그리고 이에 맞춘 여행 계획법을 안내합니다.
 quickAnswer: IVE가 SHOW WHAT I AM 월드투어를 타이베이 아레나(Taipei Arena)에서 사흘간, 2026년 9월 11일부터 13일까지 진행합니다. "After Like", "Love Dive"를 중심으로 최신 EP 수록곡까지 아우르는 아레나급 무대가 펼쳐질 예정이며, 매일 밤 수만 명의 팬이 쑹산구(Songshan District)에 위치한 공연장으로 모여들 것으로 보입니다. 티켓 예매 세부사항, 정확한 입장 시간, 세트리스트 구성 등은 날짜 외에 아직 공식적으로 확정되지 않았으므로, 항공편이나 숙소를 예약하기 전에 반드시 공식 투어 및 티켓 채널을 확인하세요.

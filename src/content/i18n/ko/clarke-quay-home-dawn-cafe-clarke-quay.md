@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: clarke-quay-home-dawn-cafe-clarke-quay
+srcHash: 4bda4f2ed74b
 title: 홈 던 카페 @ 클락 키(Clarke Quay) 여행 가이드
 description: 홈 던 카페 @ 클락 키(Clarke Quay)는 클락 키 메인 유흥가 바로 뒤편, 블록 3A 리버 밸리 로드(River Valley Road) 위층에 자리한 한적한 강변 카페입니다.
 quickAnswer: 홈 던 카페 @ 클락 키(Clarke Quay)는 클락 키 메인 유흥가 바로 뒤편, 블록 3A 리버 밸리 로드(River Valley Road) 위층에 자리한 한적한 강변 카페입니다. 평일 오전이나 이른 오후에 방문하면 강 전망이 있는 조용한 테이블을 차지할 수 있으며, 클락 키 하면 떠오르는 클럽가 특유의 활기 대신 여유로운 브런치와 커피 위주의 메뉴를 즐길 수 있습니다. 클락 키 MRT역(NE5)에서 도보 5~8분 거리로, 싱가포르 강변 산책과 함께 들르기 좋습니다.

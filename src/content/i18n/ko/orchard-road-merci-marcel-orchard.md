@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: orchard-road-merci-marcel-orchard
+srcHash: 4be8cc038432
 title: '메르시 마르셀 오차드(MERCI MARCEL ORCHARD): 오차드 로드 맛집 추천'
 description: 메르시 마르셀 오차드(MERCI MARCEL ORCHARD)는 오차드 로드(Orchard Road) 390번지 팔레 르네상스(Palais Renaissance) 안에 자리한 프랑스풍 올데이 카페 레스토랑으로, 오차드 MRT역(Exits A or E)에서 도보 거리에 있다.
 quickAnswer: 메르시 마르셀 오차드(MERCI MARCEL ORCHARD)는 오차드 로드(Orchard Road) 390번지 팔레 르네상스(Palais Renaissance) 안에 자리한 프랑스풍 올데이 카페 레스토랑으로, 오차드 MRT역(Exits A or E)에서 도보 거리에 있다. 대기를 피하려면 평일 점심이나 이른 저녁 시간대를 노리는 것이 좋고, 가격대는 중간 수준(메인 메뉴 약 S$20–35)이며 제대로 된 식사를 하려면 1~1.5시간 정도 여유를 두는 것이 좋다. 별점 4.7에 리뷰 4,000개 이상을 기록한, 이미 잘 알려진 인기 맛집이기 때문에 숨은 맛집이라기보다는 미리 예약하거나 오픈 시간에 맞춰 방문하는 것이 요령이다.

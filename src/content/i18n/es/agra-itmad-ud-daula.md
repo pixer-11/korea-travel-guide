@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: agra-itmad-ud-daula
+srcHash: 9b42f48d8533
 title: 'Itmad-ud-Daula: Guía de viaje de Agra'
 description: Itmad-ud-Daula, el "Baby Taj" de mármol, se encuentra en la orilla este del Yamuna, en Moti Bagh, a unos 20-25 minutos en coche o auto-rickshaw del centro de Agra.
 quickAnswer: Itmad-ud-Daula, el "Baby Taj" de mármol, se encuentra en la orilla este del Yamuna, en Moti Bagh, a unos 20-25 minutos en coche o auto-rickshaw del centro de Agra. Reserva entre 45 y 90 minutos, ve justo a la apertura, al amanecer, para disfrutar de la luz más suave y las multitudes más reducidas, y confirma en la puerta los horarios y precios de entrada vigentes, ya que cambian periódicamente. Es un monumento muy visitado, no un secreto, así que elegir bien el momento de la visita importa más que encontrarlo.

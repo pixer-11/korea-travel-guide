@@ -1,6 +1,6 @@
 ---
 title: 'Yongyeon Suspension Bridge: Jeju Travel Guide'
-description: Yongyeon Suspension Bridge is a small red arched footbridge over a narrow, cliff-lined inlet in Yongdam-dong, Jeju City — best visited at dusk or after dark
+description: Yongyeon Suspension Bridge is a small red arched footbridge over a narrow, cliff-lined inlet in Yongdam-dong, Jeju City — best visited at dusk or after dark when the bridge, pavilion, and cliff walls are lit up and reflected in the still water.
 country: South Korea
 region: Jeju
 category: hidden-gem

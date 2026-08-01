@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: paris-eiffel-tower
+srcHash: 8e3bc7a512b8
 title: 'Torre Eiffel: Guía de viaje de París'
 description: Compra las entradas con hora asignada por internet con antelación (la reserva se abre entre 60 y 90 días antes) y ve a la apertura (9:30 h) o después del atardecer para el espectáculo de luces.
 quickAnswer: Compra las entradas con hora asignada por internet con antelación (la reserva se abre entre 60 y 90 días antes) y ve a la apertura (9:30 h) o después del atardecer para el espectáculo de luces. Calcula entre 2 y 3 horas, incluyendo las colas de seguridad, y elige las escaleras hasta el 2º piso si buscas una opción más barata, rápida y activa que la cola del ascensor. Las estaciones de metro más cercanas son Bir-Hakeim (línea 6) y Trocadéro (línea 9), ambas a poca distancia a pie y con vistas clásicas para fotos.

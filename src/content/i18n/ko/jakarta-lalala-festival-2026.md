@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: jakarta-lalala-festival-2026
+srcHash: 9485a9224f94
 title: '라라라 페스티벌 2026 (LaLaLa Festival): 알아둘 것들 (자카르타)'
 description: 라라라 페스티벌 2026(LaLaLa Festival 2026)은 2026년 8월 22일부터 23일까지 자카르타 켐마요란(Kemayoran)의 자카르타 국제 엑스포(Jakarta International Expo, JIExpo)에서 열리며, 헤드라이너로 스티브 레이시(Steve Lacy), 투 도어 시네마 클럽(Two Door Cinema Club) 등이 출연합니다.
 quickAnswer: 라라라 페스티벌 2026(LaLaLa Festival 2026)은 2026년 8월 22일부터 23일까지 중부 자카르타 켐마요란(Kemayoran)의 자카르타 국제 엑스포(Jakarta International Expo, JIExpo)에서 열리며, 스티브 레이시(Steve Lacy), 투 도어 시네마 클럽(Two Door Cinema Club), 코달라인(Kodaline), 더 플레이밍 립스(The Flaming Lips), 렉스 오렌지 카운티(Rex Orange County), 혼네(Honne), 플로(Flo)가 헤드라이너로 나섭니다. JIExpo에는 MRT/LRT 직행 정류장이 없으므로 대중교통보다는 그랩(Grab)이나 고젝(Gojek) 같은 차량 호출 서비스를 이용하는 것이 좋고, 티켓 가격이 아직 확정되지 않았으니 티켓, 공연 시간, 게이트 정보는 반드시 라라라 공식 채널에서 확인하세요.

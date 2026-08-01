@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: kuala-lumpur-f-forever-1st-world-tour
+srcHash: add1226f73de
 title: 'Gira Mundial 1st World Tour de F✦FOREVER: lo que debes saber (Kuala Lumpur)'
 description: La gira mundial 1st World Tour de F✦FOREVER llega a Kuala Lumpur, Malasia, el 7 de agosto de 2026. Qué es, cuándo y dónde es, y cómo planificar tu visita.
 quickAnswer: F✦FOREVER —el supergrupo que une a Jerry Yan, Van Ness Wu y Vic Chou (famosos por F4) con Ashin, de Mayday— trae su 1st World Tour al Axiata Arena, en Bukit Jalil, Kuala Lumpur, el 7 de agosto de 2026. Compra las entradas únicamente a través del promotor oficial o socio de venta de tickets una vez que se anuncien, y confirma los horarios de apertura de puertas y posibles teloneros más cerca de la fecha, ya que ese tipo de detalles suele confirmarse pocas semanas antes.
