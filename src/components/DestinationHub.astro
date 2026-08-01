@@ -96,7 +96,10 @@ const metaTitle = `${countryLabel} — ${t('nav.destinations')}`;
 // Share card: a hub about a place should unfurl as that place, not the
 // logo. Falls through to the brand default in BaseLayout when the list is
 // empty or the hero has no built thumbnail yet.
-const ogPhoto = wallFor((posts ?? []).find((p: any) => p?.data?.heroImage?.url)?.data?.heroImage?.url);
+// og:image gets the FULL-SIZE hero, not the 640px wall thumb: crawlers fetch
+// og:image separately (page weight is unaffected) and Google Discover only
+// serves large cards from images ≥1200px wide. Wall thumbs stay for on-page grids.
+const ogPhoto = (posts ?? []).find((p: any) => p?.data?.heroImage?.url)?.data?.heroImage?.url;
 
 ---
 

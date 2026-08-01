@@ -254,7 +254,7 @@ const BORING =
 // article FOR the place. Only free Commons files pass (non-free en-wiki logos
 // resolve as missing on Commons and are dropped). Returns a commonsBest-shaped
 // candidate or null; callers fall back to commonsBest search.
-export async function wikipediaLeadImage(name, { used, minWidth = 1000, near = null } = {}) {
+export async function wikipediaLeadImage(name, { used, minWidth = 1200, near = null } = {}) {
   if (!name) return null;
   const wikiUrl =
     'https://en.wikipedia.org/w/api.php?action=query&format=json&origin=*&redirects=1' +
@@ -321,7 +321,10 @@ export async function wikipediaLeadImage(name, { used, minWidth = 1000, near = n
   };
 }
 
-export async function commonsBest(query, { mustInclude = [], used, allowPortrait = false, minWidth = 1000, crossCheck = null, minCross = 0, subject = '', near = null } = {}) {
+// minWidth 1200: Google Discover only serves large image cards from photos at
+// least 1200px wide, and the hero doubles as og:image — a narrower pick costs
+// the page Discover distribution. Event mode still overrides down to 600.
+export async function commonsBest(query, { mustInclude = [], used, allowPortrait = false, minWidth = 1200, crossCheck = null, minCross = 0, subject = '', near = null } = {}) {
   // subject/near were added to commonsCandidates for the Instagram carousel and,
   // for a while, ONLY the carousel passed them — so the vantage test and the
   // geo limit did nothing at all on the path that picks the hero image every

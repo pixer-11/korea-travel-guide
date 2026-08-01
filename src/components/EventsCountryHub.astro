@@ -8,7 +8,7 @@ import { isEventPast, eventSortValue } from '../lib/eventStatus';
 import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 import { loadCardTranslations, cardHelpers } from '../i18n/cards';
-import { wallFor } from '../lib/wall';
+import {  } from '../lib/wall';
 
 // Shared per-country events hub for /events/<country> (en) + /[lang]/events/<country>.
 interface Props { country: any; events: any[]; lang: Lang }
@@ -62,7 +62,10 @@ const jsonLd = {
 // Share card: a hub about a place should unfurl as that place, not the
 // logo. Falls through to the brand default in BaseLayout when the list is
 // empty or the hero has no built thumbnail yet.
-const ogPhoto = wallFor((events ?? []).find((p: any) => p?.data?.heroImage?.url)?.data?.heroImage?.url);
+// og:image gets the FULL-SIZE hero, not the 640px wall thumb: crawlers fetch
+// og:image separately (page weight is unaffected) and Google Discover only
+// serves large cards from images ≥1200px wide. Wall thumbs stay for on-page grids.
+const ogPhoto = (events ?? []).find((p: any) => p?.data?.heroImage?.url)?.data?.heroImage?.url;
 
 ---
 

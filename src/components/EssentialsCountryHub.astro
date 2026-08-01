@@ -8,7 +8,7 @@ import { localizePlace } from '../i18n/places';
 import { slugifyRegion } from '../lib/slug';
 import countryFacts from '../../data/country-facts.json';
 import countriesData from '../../data/countries.json';
-import { wallFor } from '../lib/wall';
+import {  } from '../lib/wall';
 
 // Shared per-country essentials page for /essentials/<country> (en) +
 // /[lang]/essentials/<country>. Renders the translated body when a translation
@@ -82,7 +82,10 @@ const jsonLd = {
 // Share card: a hub about a place should unfurl as that place, not the
 // logo. Falls through to the brand default in BaseLayout when the list is
 // empty or the hero has no built thumbnail yet.
-const ogPhoto = wallFor((countryPosts ?? []).find((p: any) => p?.data?.heroImage?.url)?.data?.heroImage?.url);
+// og:image gets the FULL-SIZE hero, not the 640px wall thumb: crawlers fetch
+// og:image separately (page weight is unaffected) and Google Discover only
+// serves large cards from images ≥1200px wide. Wall thumbs stay for on-page grids.
+const ogPhoto = (countryPosts ?? []).find((p: any) => p?.data?.heroImage?.url)?.data?.heroImage?.url;
 
 ---
 

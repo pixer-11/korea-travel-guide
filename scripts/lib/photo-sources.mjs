@@ -156,8 +156,12 @@ export async function fsqVenuePhotos({ name, lat, lng, near, limit = 4 }) {
         h: p.height || 0,
       }))
       .sort((a, b) => {
-        const land = (x) => (x.w && x.h ? (x.w > x.h ? 0 : 1) : 0.5); // unknown sits between
-        return land(a) - land(b);
+        // Google Discover only serves large cards from images ≥1200px wide, and
+        // the hero doubles as og:image — so Discover-eligible photos outrank the
+        // rest, with the existing landscape preference as the tiebreak.
+        const wide = (x) => (x.w ? (x.w >= 1200 ? 0 : 1) : 0.5); // unknown sits between
+        const land = (x) => (x.w && x.h ? (x.w > x.h ? 0 : 1) : 0.5);
+        return wide(a) - wide(b) || land(a) - land(b);
       });
   } catch {
     return [];
@@ -206,7 +210,7 @@ export async function flickrPhotos({ name, lat, lng, near, limit = 4 }) {
       media: 'photos',
       sort: 'relevance',
       per_page: String(limit),
-      extras: 'url_l,url_o,owner_name,license',
+      extras: 'url_h,url_k,url_l,url_o,owner_name,license',
       format: 'json',
       nojsoncallback: '1',
     });
@@ -224,7 +228,10 @@ export async function flickrPhotos({ name, lat, lng, near, limit = 4 }) {
         return ourWords.some((w) => t.has(w));
       })
       .map((p) => ({
-        url: p.url_l || p.url_o,
+        // h (1600px) first: url_l tops out at 1024, below Google Discover's
+        // 1200px large-card minimum. k (2048) next; o (original) can be a
+        // multi-MB LCP so it stays the last resort alongside l.
+        url: p.url_h || p.url_k || p.url_l || p.url_o,
         credit: `Photo: ${p.ownername} / Flickr (${LICENSE_LABEL[p.license] || 'CC'})`,
         license: 'flickr-cc',
         source: `https://www.flickr.com/photos/${p.owner}/${p.id}`,

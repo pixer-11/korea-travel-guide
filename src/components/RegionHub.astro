@@ -12,7 +12,7 @@ import { slugifyRegion } from '../lib/slug';
 import { useTranslations, localizePath, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 import { getRegionInfo } from '../i18n/regions';
-import { wallFor } from '../lib/wall';
+import {  } from '../lib/wall';
 import { buildRoundups } from '../lib/roundups.mjs';
 
 // Shared region-hub body for BOTH the English route (/regions/<region>) and the
@@ -145,7 +145,10 @@ const metaTitle = t('region.guideTitle').replace('{region}', regionLabel);
 const metaDesc = info?.blurb?.slice(0, 155) ?? t('region.metaDesc').replace('{region}', regionLabel).replace('{country}', countryLabel);
 // Share card: a hub about a place should unfurl as that place, not the logo.
 // Falls through to the brand default in BaseLayout when nothing has a thumbnail.
-const ogPhoto = wallFor((posts ?? []).find((p) => p?.data?.heroImage?.url)?.data?.heroImage?.url);
+// og:image gets the FULL-SIZE hero, not the 640px wall thumb: crawlers fetch
+// og:image separately (page weight is unaffected) and Google Discover only
+// serves large cards from images ≥1200px wide. Wall thumbs stay for on-page grids.
+const ogPhoto = (posts ?? []).find((p) => p?.data?.heroImage?.url)?.data?.heroImage?.url;
 
 // Which roundups this city actually HAS, from the same builder that creates the
 // pages. The link used to be gated on this hub's own count of one category, so a

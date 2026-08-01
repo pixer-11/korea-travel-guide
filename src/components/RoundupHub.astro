@@ -9,7 +9,7 @@ import { slugifyRegion } from '../lib/slug';
 import { useTranslations, localizePath, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 import { loadCardTranslations, cardHelpers } from '../i18n/cards';
-import { wallFor } from '../lib/wall';
+import {  } from '../lib/wall';
 
 // Shared city roundup hub for /regions/<region>/<roundup> (en) and the localized
 // route. Title/dek localized with per-language word order; ranked list uses the
@@ -59,7 +59,10 @@ const jsonLd = {
 };
 // Share card: a hub about a place should unfurl as that place, not the logo.
 // Falls through to the brand default in BaseLayout when nothing has a thumbnail.
-const ogPhoto = wallFor((items ?? []).find((p) => p?.data?.heroImage?.url)?.data?.heroImage?.url);
+// og:image gets the FULL-SIZE hero, not the 640px wall thumb: crawlers fetch
+// og:image separately (page weight is unaffected) and Google Discover only
+// serves large cards from images ≥1200px wide. Wall thumbs stay for on-page grids.
+const ogPhoto = (items ?? []).find((p) => p?.data?.heroImage?.url)?.data?.heroImage?.url;
 
 ---
 
