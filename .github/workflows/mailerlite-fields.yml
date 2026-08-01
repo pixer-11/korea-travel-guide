@@ -4,6 +4,11 @@ name: mailerlite-fields
 # via workflow_dispatch whenever a new field is added to the setup script.
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/setup-mailerlite-fields.mjs
+      - .github/workflows/mailerlite-fields.yml
 jobs:
   setup:
     runs-on: ubuntu-latest
