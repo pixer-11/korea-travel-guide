@@ -101,7 +101,14 @@ if (cmd === 'record') {
     handover = true;
   }
 
-  await save({ phase, idleStreak: handover ? 0 : idleStreak, history });
+  // switchedAt anchors the publish-velocity ramp (see backfill.yml): Google's
+  // 2026-03 core update targets sudden publishing-rate spikes on scaled AI
+  // content, and a two-month-old domain jumping 16→91 posts/day overnight is
+  // exactly that signature. The ramp needs to know WHEN the handover happened.
+  await save({
+    phase, idleStreak: handover ? 0 : idleStreak, history,
+    ...(handover ? { switchedAt: new Date().toISOString() } : state.switchedAt ? { switchedAt: state.switchedAt } : {}),
+  });
 
   if (handover) {
     console.log('HANDOVER');

@@ -80,12 +80,28 @@ jobs:
           # 75 leaves a small margin under the observed ceiling (16 + 75 = 91
           # against ~100) for the odd Places call elsewhere, and on a day the
           # window turns out smaller the run simply stops early.
+          #
+          # BUT quota is no longer the only ceiling (owner decision 2026-08-02):
+          # Google's 2026-03 core update targets sudden publishing-VELOCITY
+          # spikes on scaled AI content — monitored sites that jumped output
+          # overnight took manual actions up to full de-indexing, and this
+          # domain is two months old. So the batch RAMPS instead of jumping:
+          # 25/day in week one after the handover, then 35, 50, and only then
+          # the quota-bound 75. Slower to fill 527 guides, still alive to
+          # finish them. Manual dispatch keeps an explicit count override.
+          RAMP=$(node -e "
+            const fs=require('fs');
+            let d={};try{d=JSON.parse(fs.readFileSync('data/fill-phase.json','utf8'))}catch{}
+            const t=d.switchedAt?Date.parse(d.switchedAt):Date.now();
+            const w=Math.floor((Date.now()-t)/(7*864e5));
+            console.log([25,35,50][w] ?? 75);
+          ")
           if [ "${{ github.event_name }}" != "workflow_run" ]; then
             echo "count=${{ github.event.inputs.count || '75' }}" >> "$GITHUB_OUTPUT"
             echo "run=1" >> "$GITHUB_OUTPUT"          # a person asked for this run
             exit 0
           fi
-          echo "count=75" >> "$GITHUB_OUTPUT"
+          echo "count=$RAMP" >> "$GITHUB_OUTPUT"
           if [ "${{ github.event.workflow_run.conclusion }}" != "success" ]; then
             # A failed publish can leave the repo mid-change; piling a full batch
             # on top of that buries the original failure.
