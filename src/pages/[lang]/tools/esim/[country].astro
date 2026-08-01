@@ -1,0 +1,18 @@
+---
+import EsimPage from '../../../../components/EsimPage.astro';
+import { esimCountries } from '../../../../lib/esim-paths.mjs';
+import type { Lang } from '../../../../i18n/utils';
+
+// /ko/tools/esim/japan — localized eSIM guides; the page list comes from the
+// same esimCountries() the English route uses, so the two can never drift.
+export function getStaticPaths() {
+  const langs = ['ko', 'ja', 'es', 'zh'] as Lang[];
+  return esimCountries().flatMap((country) =>
+    langs.map((lang) => ({ params: { lang, country: country.slug }, props: { country, lang } }))
+  );
+}
+
+const { country, lang } = Astro.props;
+---
+
+<EsimPage country={country} lang={lang} />

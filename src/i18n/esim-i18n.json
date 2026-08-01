@@ -1,0 +1,131 @@
+{
+  "japan": {
+    "ko": {
+      "intro": "일본은 NTT 도코모, au(KDDI), 소프트뱅크, 그리고 비교적 신생 사업자인 라쿠텐 모바일까지 네 개의 전국망으로 운영됩니다. 여행자용 eSIM은 대부분 이 중 3대 통신사(도코모, au, 소프트뱅크) 망을 그대로 사용하며, 방문객 입장에서는 세 곳의 실질적인 차이가 크지 않습니다 — 관광객이 실제로 다니는 지역에서는 셋 다 빠르고 안정적입니다.",
+      "coverage": "도시 지역의 통신 품질은 매우 뛰어나며, 세계적으로도 드물게 지하까지 커버가 잘 됩니다 — 도쿄와 오사카 지하철 승강장은 물론 대부분의 열차 안에서도 신호가 유지됩니다. 신칸센 노선을 따라서도 커버리지가 잘 이어집니다. 신호가 약해지는 곳은 깊은 산간 지역입니다: 외딴 온천 계곡, 고지대 등산로, 그리고 홋카이도 일부 시골 구간에서는 신호가 약해지거나 아예 끊길 수 있으니, 시골 지역으로 당일치기 여행을 떠나기 전에는 오프라인 지도를 미리 다운로드해 두세요.",
+      "tips": [
+        "일본은 여전히 놀라울 정도로 현금 중심 사회이지만, 동시에 지도 앱 의존도가 매우 높은 나라이기도 합니다. 주소만 보고 길을 찾기가 어렵기 때문에, 데이터 연결이 원활한 것이 다른 나라보다 훨씬 중요합니다.",
+        "편의점, 호텔, 그리고 많은 역에서 무료 와이파이를 제공하지만 연결이 불안정하고 거리에서는 로그인 절차가 번거로운 경우가 많습니다 — 핫스팟을 이곳저곳 옮겨 다니기보다는 모바일 데이터를 기본으로 계획하세요.",
+        "경로 검색, 승강장 번호, 지연 정보 등을 확인하는 열차 관련 앱이 여행자들의 데이터 사용에서 가장 큰 비중을 차지합니다 — 지도와 대중교통 이용이 많다는 점을 감안해 충분한 데이터 용량의 요금제를 선택하세요.",
+        "주요 공항에는 공항 SIM 카운터와 자판기가 마련되어 있지만, 장거리 비행 후 도착해서 줄을 서고 서류를 작성하는 번거로움은 바로 미리 집에서 설치해 둔 eSIM으로 피할 수 있는 부분입니다."
+      ]
+    },
+    "ja": {
+      "intro": "日本には、NTTドコモ、au(KDDI)、ソフトバンク、そして比較的新しい楽天モバイルという4つの全国規模のネットワークがあります。旅行者向けのeSIMはほぼ必ずこの大手3社のいずれかを利用する仕組みになっており、旅行者にとっては3社の実用的な違いはごくわずかです。観光客が実際に訪れる場所であれば、いずれも高速かつ安定して利用できます。",
+      "coverage": "都市部の通信環境は非常に優れており、世界的に見ても珍しいことに地下鉄でも電波が届きます。東京や大阪の地下鉄ホームやほとんどの車内でも電波を維持できます。新幹線の沿線もカバー状況は良好です。電波が弱くなるのは山深い場所で、人里離れた温泉の谷間、標高の高い登山道、北海道の一部の地方エリアなどでは電波が弱くなったり圏外になったりすることがあります。そのため、地方への日帰り旅行の前にはオフライン地図をダウンロードしておくことをおすすめします。",
+      "tips": [
+        "日本は今でも意外なほど現金社会ですが、同時に地図アプリへの依存度も高い国です。住所だけでは目的地にたどり着くのが難しいため、通信環境が整っていることは他の多くの国以上に重要になります。",
+        "コンビニやホテル、多くの駅では無料WiFiが利用できますが、電波が不安定だったり、街中ではログインが必要だったりすることが多いです。ホットスポットを渡り歩くよりも、モバイルデータ通信を基本にする方が現実的です。",
+        "経路検索やホーム番号の確認、遅延情報のチェックなど、電車移動系アプリの利用は旅行者にとって最もデータ通信量がかさむポイントです。地図アプリや乗換案内をたくさん使うことを見込んで、十分なデータ容量のプランを選びましょう。",
+        "主要空港にはSIMカウンターや自動販売機がありますが、長時間のフライト後に並んだり手続きをしたりするのは面倒なものです。出発前に自宅でeSIMを設定しておけば、こうした手間をまるごと省くことができます。"
+      ]
+    },
+    "es": {
+      "intro": "Japón funciona con cuatro redes nacionales: NTT Docomo, au (KDDI), SoftBank y la más reciente Rakuten Mobile. Las eSIM de viaje casi siempre operan sobre una de las tres grandes, y para un visitante la diferencia práctica entre ellas es mínima: las tres son rápidas y fiables en los lugares que los turistas realmente visitan.",
+      "coverage": "La cobertura urbana es excelente y, algo poco habitual en el mundo, eso incluye el subsuelo: se mantiene la señal en los andenes del metro de Tokio y Osaka, así como dentro de la mayoría de los trenes. La cobertura sigue bien las líneas del shinkansen. Donde se debilita es en zonas montañosas remotas: valles de onsen apartados, senderos de montaña en altura y algunos tramos rurales de Hokkaido pueden tener señal débil o nula, así que conviene descargar mapas sin conexión antes de una excursión de un día al campo.",
+      "tips": [
+        "Japón sigue siendo sorprendentemente dependiente del efectivo, pero también depende mucho de las apps de mapas: las direcciones son difíciles de seguir sin datos, así que tener una conexión funcionando importa más aquí que en la mayoría de los países.",
+        "Existe WiFi gratuito en tiendas de conveniencia, hoteles y muchas estaciones, pero es irregular y suele requerir inicio de sesión en la calle: conviene contar con datos móviles en lugar de ir saltando entre puntos de acceso.",
+        "Las apps de planificación de trenes (búsqueda de rutas, números de andén, retrasos) son, con diferencia, el mayor consumo de datos para los visitantes: asegúrate de que tu plan tenga suficientes datos para un uso intenso de mapas y transporte.",
+        "Existen mostradores y máquinas expendedoras de SIM en los principales aeropuertos, pero después de un vuelo de larga distancia, la cola y el papeleo son justo lo que una eSIM instalada desde casa te permite evitar."
+      ]
+    },
+    "zh": {
+      "intro": "日本全国有四大移动网络运营商——NTT Docomo、au(KDDI)、SoftBank,以及较新的乐天移动(Rakuten Mobile)。旅行用的eSIM几乎都是接入前三大运营商之一，对游客来说，三者之间的实际差别很小：在游客常去的地方，这三家网络都又快又稳定。",
+      "coverage": "城市信号覆盖非常出色，而且难得的是，这还包括地下——在东京和大阪的地铁站台以及大多数列车车厢内都能保持信号。新干线沿线的覆盖也相当不错。信号变弱的地方主要是深山区域：偏远的温泉山谷、高海拔徒步路线，以及北海道乡村部分路段，信号可能变得很弱甚至完全没有，所以在前往乡村地区一日游之前，最好先下载好离线地图。",
+      "tips": [
+        "日本至今仍是一个出人意料地依赖现金的国家，但同时又高度依赖地图应用：没有网络数据的话，按地址找路会相当困难，因此在这里，一个稳定的网络连接比在大多数国家都更为重要。",
+        "便利店、酒店和许多车站都提供免费WiFi，但信号不稳定，而且街头WiFi常常需要登录验证——建议以移动数据为主，而不是四处寻找热点连接。",
+        "对游客来说，火车出行规划类应用（路线查询、站台号码、误点信息）是耗费流量最多的用途——请确保你的流量套餐足够支撑高强度的地图和交通查询使用。",
+        "各大机场都设有SIM卡柜台和自助售卖机，但经过长途飞行落地后，排队和办理手续正是提前在国内装好eSIM可以省去的麻烦。"
+      ]
+    },
+    "_srcHash": "47101d1441dfb07f"
+  },
+  "thailand": {
+    "ko": {
+      "intro": "태국의 이동통신 시장은 두 개의 대형 통신사가 장악하고 있습니다. 업계 1위인 AIS와, 2023년 합병으로 dtac을 흡수한 True입니다. 여행자용 eSIM 대부분은 이 두 통신사 중 하나를 통해 연결되며, 일반적인 관광 동선에서는 어디서든 두 곳 모두 신호가 강한 편입니다.",
+      "coverage": "방콕, 치앙마이, 그리고 해안 도시들은 빠르고 촘촘한 커버리지를 자랑하며, 푸켓, 사무이, 팡안, 끄라비 해변 같은 인기 섬 지역도 시내와 리조트 구역에서는 신호가 잘 잡힙니다. 다만 외딴 해변, 국립공원, 산악 국경 지역에서는 신호가 끊기기 쉬우니, 정글 트레킹이나 외딴 섬 만(灣)에서는 오프라인 시간이라고 생각하는 편이 좋습니다.",
+      "tips": [
+        "여행자의 일상은 데이터 없이는 돌아가지 않습니다. 이동에는 Grab, 노점에서는 번역 앱, 그리고 어디서나 마주치는 QR 코드까지 — 태국은 여러분이 방문할 나라 중에서도 손꼽히게 QR 결제가 보편화된 곳입니다.",
+        "수완나품 공항과 돈므앙 공항의 관광객용 SIM 카운터는 유명하고 실제로도 이용하기 괜찮은 편이지만, 장거리 항공편이 도착할 때마다 몰려드는 인파를 감당해야 하는 곳이기도 합니다. 출발 전에 eSIM을 미리 설치해두면, 야간 비행 후 가장 피하고 싶은 그 줄서기를 건너뛸 수 있습니다.",
+        "섬 여행을 계획 중이라면, 커버리지는 사람이 많이 사는 지역에서 가장 좋습니다. 섬과 섬 사이를 오가는 배 위나 한적한 해안 구간은 신호가 아예 없을 수 있으니, WiFi를 떠나기 전에 티켓과 지도를 미리 다운로드해두세요.",
+        "방콕-치앙마이 구간이나 남부 노선처럼 장거리 버스나 기차 여행이 일정에 포함되어 있다면, 노선을 따라 커버리지가 괜찮은 편이긴 하지만 구간마다 편차가 있으니 오락거리를 미리 다운로드해 두는 것이 좋습니다."
+      ]
+    },
+    "ja": {
+      "intro": "タイのモバイル市場は、2大ネットワークがシェアを占めています。最大手のAISと、2023年の合併でdtacを吸収したTrueです。旅行者向けeSIMの多くはこの2社のいずれかを通じて接続され、通常の観光ルートであればどちらも十分に強い電波を提供してくれます。",
+      "coverage": "バンコク、チェンマイ、そして沿岸都市部では高速で密なカバレッジが得られ、プーケット、サムイ、パンガン、クラビのビーチといった人気の島々でも、町や リゾートエリアであれば十分な通信環境が整っています。一方、人里離れたビーチや国立公園、山岳地帯の国境付近では電波が不安定になりがちなので、ジャングルトレッキングや辺境の島の入り江に出かける際は、オフラインになる時間帯があるものと考えておきましょう。",
+      "tips": [
+        "旅行者の日常生活はデータ通信頼みです。移動にはGrab、屋台では翻訳アプリ、そしてどこに行ってもQRコード決済——タイはQR決済がもっとも浸透している国のひとつです。",
+        "スワンナプーム空港やドンムアン空港の観光客向けSIMカウンターは有名で、実際に使い勝手も悪くありません。しかしどのカウンターも長距離便の到着ラッシュが集中するため、出発前にeSIMを入れておけば、深夜便で疲れた後にいちばん避けたい行列に並ばずに済みます。",
+        "島巡りをする予定なら、通信環境が良いのは人が集まる場所に限られます。島と島を結ぶ船の上や、静かな海岸沿いは電波が届かないことも多いので、WiFiがある間にチケットや地図をあらかじめダウンロードしておきましょう。",
+        "バンコク〜チェンマイ間や南部路線など、長距離バスや鉄道の移動が含まれる旅程では、ルート沿いの通信状況はまずまずですがばらつきがあります。事前に映画や音楽などのエンターテインメントをダウンロードしておくのがおすすめです。"
+      ]
+    },
+    "es": {
+      "intro": "El mercado de telefonía móvil de Tailandia está dominado por dos grandes operadoras: AIS, la más grande, y True, que absorbió a dtac tras su fusión en 2023. La mayoría de los eSIM para viajeros se conectan a través de una de estas dos, y ambas tienen buena cobertura en cualquier punto de una ruta turística habitual.",
+      "coverage": "Bangkok, Chiang Mai y las ciudades costeras cuentan con cobertura rápida y densa, y las islas más populares —Phuket, Samui, Phangan, las playas de Krabi— están bien atendidas en los pueblos y zonas de resorts. La señal se vuelve irregular en playas remotas, parques nacionales y las regiones montañosas fronterizas, así que conviene asumir que un trekking en la selva o una cala aislada en alguna isla apartada serán momentos sin conexión.",
+      "tips": [
+        "El día a día de cualquier visitante depende de los datos móviles: Grab para moverse, apps de traducción en los puestos callejeros y códigos QR por todas partes —Tailandia es uno de los países donde más se usa el pago por QR que vas a visitar.",
+        "Los mostradores de SIM para turistas en los aeropuertos de Suvarnabhumi y Don Mueang son famosos y realmente funcionan bien, pero reciben la ola de cada vuelo de larga distancia que llega, así que instalar un eSIM antes de salir te ahorra justo la cola que menos te apetece hacer después de un vuelo nocturno.",
+        "¿Vas a recorrer varias islas? La cobertura es mejor en las zonas pobladas; los barcos entre islas y los tramos de costa más tranquilos pueden quedarse sin señal, así que descarga los billetes y los mapas antes de dejar el WiFi.",
+        "Si tu viaje incluye trayectos largos en autobús o tren (Bangkok–Chiang Mai, las líneas del sur), la cobertura a lo largo de la ruta es aceptable pero variable, así que descarga entretenimiento con antelación."
+      ]
+    },
+    "zh": {
+      "intro": "泰国的移动通信市场由两大运营商主导:规模最大的AIS,以及在2023年合并了dtac的True。大多数旅行用eSIM都是接入这两家网络之一,而且在任何常规旅游路线上,这两家的信号都相当强劲。",
+      "coverage": "曼谷、清迈以及沿海城市的网络覆盖既快又密集,而热门海岛——普吉、苏梅、帕岸、甲米各处海滩——在市镇和度假区内也都能获得良好的信号。但在偏远海滩、国家公园以及多山的边境地区,信号会变得断断续续,因此如果要去丛林徒步或前往偏僻的海岛湾区,最好把这段时间当作\"离线时间\"来安排。",
+      "tips": [
+        "对游客来说,日常生活几乎全靠流量运转:叫Grab出行、在街边小摊用翻译软件,还有随处可见的二维码——泰国是你会去的国家中,二维码支付普及程度数一数二高的地方。",
+        "素万那普和廊曼两大机场的旅游SIM卡柜台名气不小,服务也确实不错——但它们要应付每一波长途航班抵达的人潮,所以提前在出发前就装好eSIM,能让你避开熬过红眼航班后最不想排的那条队。",
+        "打算跳岛游?人口聚居区的信号覆盖最好,但岛屿之间的船程以及一些安静海岸地带可能完全没有信号,所以在离开WiFi之前,记得先把船票和地图下载好。",
+        "如果行程包含长途大巴或火车(比如曼谷—清迈,或南部线路),沿途信号覆盖尚可但并不稳定——建议提前下载好娱乐内容备用。"
+      ]
+    },
+    "_srcHash": "5a6437186500d0ea"
+  },
+  "vietnam": {
+    "ko": {
+      "intro": "베트남에는 비엣텔(Viettel), 빈아폰(Vinaphone), 모비폰(MobiFone) 세 개의 주요 통신사가 있습니다. 군대식 저력으로 운영되는 비엣텔은 규모가 가장 크고 농촌 지역 커버리지가 가장 탄탄하며, 나머지 두 곳은 도시와 소도시에서 안정적인 편입니다. 이런 농촌 지역 격차 때문에 여행용 eSIM이 어떤 통신망을 사용하는지가 다른 나라보다 베트남에서 더 중요하게 작용합니다.",
+      "coverage": "하노이, 호치민시, 다낭을 비롯한 각 성의 주요 도시는 빠른 데이터로 잘 커버됩니다. 차이가 드러나는 곳은 산간 지역과 농촌인데, 하장 루프(Ha Giang loop), 사파(Sapa)의 계곡, 그리고 중부고원의 외진 구간에서는 다른 통신사의 신호가 끊길 때도 비엣텔은 한두 칸이라도 신호를 유지합니다. 남북을 잇는 대표적인 여행 루트의 경우 인구가 밀집된 구간에서는 어떤 통신사를 쓰든 문제없습니다.",
+      "tips": [
+        "베트남에서는 그랩(Grab, 차량 호출)과 번역 앱이 거의 필수인데, 둘 다 데이터가 없으면 무용지물입니다. 공항에서 첫 그랩을 부르기 전에 미리 연결해 두세요.",
+        "하장 루프, 사파 트레킹 등 산길 라이딩을 계획하고 있다면 비엣텔 통신망을 쓰는 요금제를 선택하는 것이 좋습니다. 그래도 고갯길에서는 신호가 끊기는 구간이 있을 수 있으니 오프라인 지도를 미리 다운로드해 두세요.",
+        "현지에서 실물 유심을 구매하면 매장에서 여권 등록 절차를 거쳐야 하지만, 여행 전에 eSIM을 구매해두면 이런 서류 작업을 완전히 건너뛸 수 있습니다.",
+        "호텔과 카페의 와이파이는 어디서나 있고 도시에서는 실제로 속도도 빠른 편입니다. 데이터 요금제는 주로 이동 중 와이파이가 없는 시간대를 커버하면 되므로, 생각보다 중간 용량 요금제로도 충분히 오래 쓸 수 있습니다."
+      ]
+    },
+    "ja": {
+      "intro": "ベトナムには主要な通信網が3つある。Viettel、Vinaphone、MobiFoneだ。軍系ならではの本気度で展開するViettelは最大手であり、地方部でのカバー力が最も強い。残る2社は都市部や町なかでは十分な強さを発揮する。トラベルeSIMがどの通信網を使っているかは、他の多くの国以上にここでは重要になる。まさにこの地方部でのカバー力の差があるからだ。",
+      "coverage": "ハノイ、ホーチミン市、ダナン、そして各省都はどこも高速データでしっかりカバーされている。差が出てくるのは山岳部や田舎だ。ハザン・ループ、サパの谷間、中部高原の奥地などでは、他社の電波が途切れがちな中でもViettelはアンテナ1〜2本を保ち続ける。定番の南北縦断ルートでは、人口の多い沿線であればどの通信網でも問題ない。",
+      "tips": [
+        "Grab(配車サービス)と翻訳アプリはベトナムでほぼ必須だが、どちらもデータ通信がなければ役に立たない。空港から最初のGrabを呼ぶ前に、通信環境を整えておこう。",
+        "ハザン・ループやサパのトレッキング、その他の山岳ルートを走る予定なら、Viettelの通信網を使うプランを選ぶのがおすすめだ。それでも峠道では電波が途切れることを想定し、オフラインマップをダウンロードしておこう。",
+        "現地で物理SIMを購入するには、カウンターでパスポート登録が必要になる。旅行前にeSIMを購入しておけば、こうした手続きは一切不要だ。",
+        "ホテルやカフェのWiFiはどこにでもあり、都市部では実際にかなり高速だ。データプランは主に移動中や合間の時間をカバーできればよいので、思っている以上に中容量プランで十分足りることが多い。"
+      ]
+    },
+    "es": {
+      "intro": "Vietnam cuenta con tres redes principales: Viettel, Vinaphone y MobiFone. Viettel, gestionada con una ambición casi militar, es la más grande y la que tiene mayor presencia en zonas rurales; las otras dos funcionan bien en ciudades y pueblos. Qué red use una eSIM para viajeros importa aquí más que en la mayoría de los países, precisamente por esa brecha rural.",
+      "coverage": "Hanói, Ciudad Ho Chi Minh, Da Nang y todas las capitales de provincia tienen buena cobertura con datos rápidos. Las diferencias se notan en las montañas y en el campo: el circuito de Ha Giang, los valles de Sapa y los tramos remotos de las tierras altas centrales son lugares donde Viettel mantiene una o dos barras de señal mientras las otras redes desaparecen. En la clásica ruta norte-sur, el corredor poblado funciona bien con cualquier red.",
+      "tips": [
+        "Grab (para moverte) y una app de traducción son casi imprescindibles en Vietnam, y ambas son inútiles sin datos: conéctate antes de necesitar tu primer viaje desde el aeropuerto.",
+        "¿Vas a hacer el circuito de Ha Giang, treks por Sapa u otras rutas de montaña? Elige un plan sobre la red de Viettel y aun así prepárate para zonas sin señal en los puertos de montaña: descarga mapas offline.",
+        "Comprar una SIM física localmente implica registrar tu pasaporte en el mostrador; una eSIM comprada antes del viaje evita por completo ese papeleo.",
+        "El WiFi de hoteles y cafeterías está por todas partes y es realmente rápido en las ciudades, así que tu plan de datos básicamente necesita cubrir las horas intermedias: por eso los planes de tamaño medio rinden más de lo que esperarías."
+      ]
+    },
+    "zh": {
+      "intro": "越南主要有三大运营商——Viettel、Vinaphone 和 MobiFone。Viettel 带着军工背景的雄心运营,是其中规模最大、乡村覆盖最强的一家;另外两家则在城市和城镇表现稳健。旅行用 eSIM 具体接入哪家网络,在越南比在大多数国家都更值得留意,原因正是这种城乡覆盖差距。",
+      "coverage": "河内、胡志明市、岘港以及各省会城市的网络覆盖都很完善,数据速度也快。差异主要体现在山区和乡村地带:无论是河江环线(Ha Giang loop)、沙巴(Sapa)的山谷,还是中部高原的偏远路段,往往只有 Viettel 还能勉强收到一两格信号,其他运营商则已经掉线。而在经典的南北纵贯路线上,人口密集的沿线地区无论用哪家网络都没有问题。",
+      "tips": [
+        "在越南,Grab(叫车)和翻译软件几乎是必备工具,而这两者一旦没有网络数据都会形同虚设——建议在机场下车叫第一趟车之前就先把网络连接好。",
+        "打算走河江环线、去沙巴徒步或在山区骑行?尽量选择接入 Viettel 网络的套餐,即便如此,在山口路段仍要做好信号中断的心理准备——记得提前下载离线地图。",
+        "在当地购买实体 SIM 卡需要在柜台登记护照信息;而提前在出行前购买 eSIM,则完全可以省去这道手续。",
+        "酒店和咖啡馆的 WiFi 遍地都是,在城市里速度也确实很快——你的数据套餐主要只需覆盖这些WiFi之外的时段,所以中等容量的套餐往往比你想象中更耐用。"
+      ]
+    },
+    "_srcHash": "0cc8b23ac91d09b8"
+  }
+}

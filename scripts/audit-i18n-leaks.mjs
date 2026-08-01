@@ -32,6 +32,9 @@ const TYPES = [
   // pages ship with English stop names: a type is only audited if it is named.
   // Anything added under an existing directory needs its own entry here.
   { name: 'when-to-go', dir: 'tools/when-to-go' },
+  // Same reasoning: eSIM guides live under tools/ and would hide behind the
+  // 'tools' type's alphabetical sampling without their own entry.
+  { name: 'esim', dir: 'tools/esim' },
   { name: 'roundup', dir: 'regions' },
 ];
 

@@ -13,7 +13,7 @@ import { useTranslations, localizePath, klookLocale, type Lang } from '../i18n/u
 import { localizePlace } from '../i18n/places';
 import { localizeBlurb } from '../i18n/countryBlurbs';
 import { loadCardTranslations, cardHelpers } from '../i18n/cards';
-import { wallFor } from '../lib/wall';
+import esimFacts from '../../data/esim-facts.json';
 
 // Shared country-hub body for /destinations/<country> (en) and
 // /[lang]/destinations/<country>. Country name via localizePlace, blurb via
@@ -68,6 +68,7 @@ const essentialsSlugs = new Set(
   (await getCollection('essentials', ({ data }) => !data.draft)).map((e) => e.id)
 );
 const hasEssentials = essentialsSlugs.has(country.slug);
+const hasEsim = !!esimFacts[country.slug];
 const regionImage = (r: string) => tileSize(pickRepHeroUrl(posts.filter((p) => p.data.region === r)));
 
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
@@ -195,13 +196,21 @@ const ogPhoto = (posts ?? []).find((p: any) => p?.data?.heroImage?.url)?.data?.h
             </div>
           </div>
 
-          {hasEssentials && (
+          {(hasEssentials || hasEsim) && (
             <div class="region-group">
               <h2>{t('dest.beforeYouGo')}</h2>
-              <a class="essential-card" href={localizePath(`/essentials/${country.slug}`, lang)} style="max-width:560px">
-                <span class="ico"><Emoji name="compass" /></span>
-                <div><h3>{t('dest.essentialsCard').replace('{country}', countryLabel)}</h3><p>{t('dest.essentialsCardDesc')}</p></div>
-              </a>
+              {hasEssentials && (
+                <a class="essential-card" href={localizePath(`/essentials/${country.slug}`, lang)} style="max-width:560px">
+                  <span class="ico"><Emoji name="compass" /></span>
+                  <div><h3>{t('dest.essentialsCard').replace('{country}', countryLabel)}</h3><p>{t('dest.essentialsCardDesc')}</p></div>
+                </a>
+              )}
+              {hasEsim && (
+                <a class="essential-card" href={localizePath(`/tools/esim/${country.slug}`, lang)} style="max-width:560px; margin-top:0.75rem">
+                  <span class="ico"><Emoji name="antenna-bars" /></span>
+                  <div><h3>{t('esim.hubCard').replace('{country}', countryLabel)}</h3><p>{t('esim.hubCardDesc')}</p></div>
+                </a>
+              )}
             </div>
           )}
 

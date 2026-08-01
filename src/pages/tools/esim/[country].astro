@@ -1,0 +1,16 @@
+---
+import EsimPage from '../../../components/EsimPage.astro';
+import { esimCountries } from '../../../lib/esim-paths.mjs';
+
+// /tools/esim/japan — one connectivity guide per active country with facts.
+export function getStaticPaths() {
+  return esimCountries().map((country) => ({
+    params: { country: country.slug },
+    props: { country },
+  }));
+}
+
+const { country } = Astro.props;
+---
+
+<EsimPage country={country} lang="en" />

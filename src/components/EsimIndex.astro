@@ -1,0 +1,73 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Newsletter from './Newsletter.astro';
+import Flag from './Flag.astro';
+import { useTranslations, localizePath, type Lang } from '../i18n/utils';
+import { localizePlace } from '../i18n/places';
+import { esimCountries } from '../lib/esim-paths.mjs';
+
+// Hub for the per-country eSIM guides — the one page a crawler can reach every
+// guide from. Countries appear here automatically when they gain a facts entry.
+interface Props { lang: Lang }
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+const countries = esimCountries();
+
+const title = t('esim.indexTitle');
+const dek = t('esim.indexDek');
+const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
+const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: t('esim.indexMetaTitle'),
+  description: t('esim.indexMetaDesc'),
+  url: pageUrl,
+  isPartOf: { '@id': `${site}/#site` },
+};
+---
+
+<BaseLayout title={t('esim.indexMetaTitle')} description={t('esim.indexMetaDesc')} lang={lang} localized={true}>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+
+  <article class="esimi">
+    <p class="eyebrow">{t('esim.eyebrow')}</p>
+    <h1>{title}</h1>
+    <p class="dek">{dek}</p>
+
+    <div class="esimi-grid">
+      {countries.map((c) => (
+        <a class="esimi-card" href={localizePath(`/tools/esim/${c.slug}`, lang)}>
+          <span class="esimi-flag"><Flag code={c.iso2} size="1.6em" class="flag-ico" /></span>
+          <span class="esimi-body">
+            <strong>{t('esim.hubCard').replace('{country}', localizePlace(c.name, lang))}</strong>
+            <span>{t('esim.hubCardDesc')}</span>
+          </span>
+          <span class="esimi-arw">→</span>
+        </a>
+      ))}
+    </div>
+  </article>
+
+  <Newsletter lang={lang} />
+</BaseLayout>
+
+<style>
+  .esimi { max-width: var(--wrap); margin: 0 auto; padding: 2rem 1rem 0; }
+  .eyebrow { color: var(--muted); font-size: 0.8rem; letter-spacing: 0.06em; text-transform: uppercase; margin: 0 0 0.4rem; }
+  .esimi h1 { margin: 0 0 0.5rem; }
+  .dek { color: var(--muted); margin: 0 0 2rem; }
+  .esimi-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 0.9rem; }
+  .esimi-card {
+    display: flex; align-items: center; gap: 0.85rem;
+    padding: 0.95rem 1.1rem; border: 1px solid var(--line); border-radius: var(--r-md);
+    background: var(--surface); color: var(--ink); text-decoration: none;
+  }
+  .esimi-card:hover { border-color: var(--accent); }
+  .esimi-card:hover .esimi-arw { color: var(--accent); }
+  .esimi-body { display: flex; flex-direction: column; gap: 0.15rem; }
+  .esimi-body strong { line-height: 1.3; }
+  .esimi-body span { color: var(--muted); font-size: 0.82rem; }
+  .esimi-arw { margin-left: auto; color: var(--muted); }
+</style>

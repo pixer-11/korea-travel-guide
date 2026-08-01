@@ -1,0 +1,39 @@
+{
+  "_comment": "Per-country connectivity facts for /tools/esim pages. English source of truth; prose fields (intro, coverage, tips) are translated by scripts/translate-esim.mjs into src/i18n/esim-i18n.json with a srcHash stamp, so editing a field here re-queues its translations. EVERGREEN FACTS ONLY: carrier names and coverage character — never prices, plan sizes or vendor claims (those go stale and we link to live pricing instead). Keyed by countries.json slug; a country gets an eSIM page when it is active in countries.json AND has an entry here.",
+  "japan": {
+    "name": "Japan",
+    "carriers": ["NTT Docomo", "au (KDDI)", "SoftBank", "Rakuten Mobile"],
+    "intro": "Japan runs on four nationwide networks — NTT Docomo, au (KDDI), SoftBank and the newer Rakuten Mobile. Travel eSIMs almost always ride one of the big three, and for a visitor the practical difference between them is small: all three are fast and dependable in the places tourists actually go.",
+    "coverage": "City coverage is superb, and unusually for the world, that includes the underground — you keep a signal on Tokyo and Osaka metro platforms and inside most trains. Coverage follows the shinkansen lines well. Where it thins out is deep in the mountains: remote onsen valleys, high hiking trails and some stretches of rural Hokkaido can drop to weak or no signal, so download offline maps before a countryside day trip.",
+    "tips": [
+      "Japan is still surprisingly cash-based, but it is also map-app-dependent: addresses are hard to navigate without data, so a working connection matters more here than in most countries.",
+      "Free WiFi exists in convenience stores, hotels and many stations, but it is patchy and login-walled on the street — plan on mobile data rather than hopping between hotspots.",
+      "Train-planning apps (route search, platform numbers, delays) are the single biggest data use for visitors — make sure your plan has enough data for heavy map and transit use.",
+      "Airport SIM counters and vending machines exist at the major airports, but after a long-haul landing the queue and the paperwork are exactly what an eSIM installed at home lets you skip."
+    ]
+  },
+  "thailand": {
+    "name": "Thailand",
+    "carriers": ["AIS", "True (merged with dtac)", "NT"],
+    "intro": "Thailand's mobile market is dominated by two big networks: AIS, the largest, and True, which absorbed dtac in their 2023 merger. Most travel eSIMs connect through one of these two, and both are strong in every place on a normal tourist route.",
+    "coverage": "Bangkok, Chiang Mai and the coastal cities have fast, dense coverage, and the popular islands — Phuket, Samui, Phangan, Krabi's beaches — are well served in towns and resort areas. Signal gets patchy on remote beaches, in national parks and in the mountainous border regions, so treat a jungle trek or a far-flung island cove as offline time.",
+    "tips": [
+      "Daily life for a visitor runs on data: Grab for rides, translation apps at street stalls, and QR codes everywhere — Thailand is one of the most QR-payment-heavy countries you will visit.",
+      "Tourist SIM counters at Suvarnabhumi and Don Mueang airports are famous and genuinely fine — but they meet every long-haul arrival wave, so an eSIM installed before departure saves you the one queue you least want after a red-eye.",
+      "Island-hopping? Coverage is best in populated areas; boats between islands and quiet stretches of coast can be dead zones, so download tickets and maps before you leave WiFi.",
+      "If your trip includes long bus or train legs (Bangkok–Chiang Mai, the southern lines), coverage along the routes is decent but variable — download entertainment in advance."
+    ]
+  },
+  "vietnam": {
+    "name": "Vietnam",
+    "carriers": ["Viettel", "Vinaphone", "MobiFone"],
+    "intro": "Vietnam has three main networks — Viettel, Vinaphone and MobiFone. Viettel, run with military-grade ambition, is the largest and has the strongest rural footprint; the other two are solid in cities and towns. Which network a travel eSIM uses matters more here than in most countries, precisely because of that rural gap.",
+    "coverage": "Hanoi, Ho Chi Minh City, Da Nang and every provincial city are well covered with fast data. The differences show up in the mountains and the countryside: the Ha Giang loop, Sapa's valleys and remote stretches of the central highlands are where Viettel keeps a bar or two while others fade. On the classic north–south route the populated corridor is fine on any network.",
+    "tips": [
+      "Grab (rides) and a translation app are near-essential in Vietnam, and both are useless without data — get connected before you need your first ride from the airport.",
+      "Doing the Ha Giang loop, Sapa treks or other mountain riding? Prefer a plan on Viettel's network and still expect dead zones on the passes — download offline maps.",
+      "Buying a physical SIM locally means passport registration at the counter; an eSIM bought before the trip skips the paperwork entirely.",
+      "Hotel and café WiFi is everywhere and genuinely fast in cities — your data plan mostly needs to cover the hours in between, so mid-sized plans go further than you might expect."
+    ]
+  }
+}

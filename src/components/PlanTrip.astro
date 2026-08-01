@@ -7,8 +7,10 @@ import { SITE } from '../siteConfig';
 import Emoji from './Emoji.astro';
 import { getLangFromUrl, useTranslations, klookLocale, localizePath } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
+import countriesData from '../../data/countries.json';
+import esimFacts from '../../data/esim-facts.json';
 interface Props { city: string; country?: string }
-const { city } = Astro.props;
+const { city, country } = Astro.props;
 // Labels follow the page's language; the `city` in affiliate links stays English
 // (that's the search query the booking API expects), while the DISPLAYED city name
 // is localized.
@@ -32,7 +34,16 @@ const services = [
   // 404'd ever since. Corrected + verified: 302 → kiwitaxi.com, tpo …-754088.
   // (Owner's Welcome Pickups link https://tpx.lv/DR9LOcP9 also works — spare.)
   { icon: 'taxi', label: t('widget.transferLabel'), desc: t('widget.transferDesc'), href: 'https://kiwitaxi.tpx.lv/yRbl5tIp' },
-  { icon: 'antenna-bars', label: t('widget.esimLabel'), desc: t('widget.esimDesc'), href: 'https://yesim.tpx.lv/KABevuVe' },
+  // eSIM: countries with their own /tools/esim guide funnel through it (an
+  // internal money page converts better than a bare external link, and every
+  // post becomes an interlink to it); everywhere else keeps the Yesim link.
+  ...(() => {
+    const esimSlug = country ? countriesData.countries.find((c) => c.name === country)?.slug : undefined;
+    const hasGuide = esimSlug && (esimFacts as Record<string, unknown>)[esimSlug];
+    return [hasGuide
+      ? { icon: 'antenna-bars', label: t('widget.esimLabel'), desc: t('widget.esimDesc'), href: localizePath(`/tools/esim/${esimSlug}`, lang), internal: true }
+      : { icon: 'antenna-bars', label: t('widget.esimLabel'), desc: t('widget.esimDesc'), href: 'https://yesim.tpx.lv/KABevuVe' }];
+  })(),
   // Insurance card SHELVED until ~Oct 2026: EKTA left Travelpayouts (its links
   // 302 to VisitorsCoverage p=4552), and VisitorsCoverage is traffic-locked
   // ("3 consecutive months of stable traffic" review — same gate as Hotels.com).

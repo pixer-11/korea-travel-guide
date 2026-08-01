@@ -1,0 +1,263 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Newsletter from './Newsletter.astro';
+import Emoji from './Emoji.astro';
+import Flag from './Flag.astro';
+import { SITE } from '../siteConfig';
+import { useTranslations, localizePath, klookLocale, type Lang } from '../i18n/utils';
+import { localizePlace } from '../i18n/places';
+import { localizeEsim } from '../i18n/esim';
+import { esimCountries } from '../lib/esim-paths.mjs';
+
+// One country's eSIM guide — the site's first high-intent money page type.
+// Same unattended-build contract as WhenToGoPage: every sentence of chrome is a
+// ui.ts string, per-country prose comes from data/esim-facts.json (translated
+// with a srcHash stamp), and there is deliberately not a single price on the
+// page — plans change weekly, so the CTA links to live pricing instead of
+// letting numbers rot here.
+interface Props { country: { slug: string; name: string; iso2: string; facts: any }; lang: Lang }
+const { country, lang } = Astro.props;
+const t = useTranslations(lang);
+const countryLabel = localizePlace(country.name, lang);
+const prose = localizeEsim(country.slug, country.facts, lang);
+
+const fill = (key: string, vars: Record<string, string | number> = { country: countryLabel }) =>
+  Object.entries(vars).reduce((s, [k, v]) => s.replaceAll(`{${k}}`, String(v)), t(key as any));
+
+const title = fill('esim.title');
+const metaTitle = fill('esim.metaTitle');
+const metaDesc = fill('esim.metaDesc');
+const dek = fill('esim.dek');
+
+// Klook eSIM search for this country, through the account's own affiliate
+// redirect (campaign 13694, pid 754088) — the same wiring PlanTrip uses, with
+// the store language following the page language via klookLocale. eSIM is the
+// highest-commission Klook category, which is why this page type exists.
+const klookEsim = `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7Cpid%7C754088&k_site=${encodeURIComponent(`https://www.klook.com/${klookLocale(lang)}/search/?query=${encodeURIComponent(`${country.name} eSIM`)}`)}`;
+
+const cmpRows = ['Setup', 'Share', 'Battery', 'Cost', 'Risk'].map((r) => ({
+  label: t(`esim.row${r}` as any),
+  esim: t(`esim.row${r}E` as any),
+  wifi: t(`esim.row${r}W` as any),
+  roam: t(`esim.row${r}R` as any),
+}));
+const checks = [1, 2, 3, 4].map((n) => t(`esim.check${n}` as any));
+const steps = [1, 2, 3, 4, 5].map((n) => fill(`esim.setup${n}`));
+const buys = [1, 2, 3, 4, 5].map((n) => fill(`esim.buy${n}`));
+const faqs = [1, 2, 3, 4, 5].map((n) => ({ q: fill(`esim.faqQ${n}`), a: fill(`esim.faqA${n}`) }));
+
+const others = esimCountries().filter((c) => c.slug !== country.slug);
+const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
+const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'WebPage',
+      name: metaTitle,
+      description: metaDesc,
+      url: pageUrl,
+      isPartOf: { '@id': `${site}/#site` },
+    },
+    {
+      // FAQ rendered visibly below — schema mirrors the page, never invents.
+      '@type': 'FAQPage',
+      mainEntity: faqs.map((f) => ({
+        '@type': 'Question',
+        name: f.q,
+        acceptedAnswer: { '@type': 'Answer', text: f.a },
+      })),
+    },
+  ],
+};
+---
+
+<BaseLayout title={metaTitle} description={metaDesc} lang={lang} localized={true}>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+
+  <article class="esim">
+    <p class="eyebrow"><Flag code={country.iso2} size="1.2em" class="flag-ico" /> {t('esim.eyebrow')}</p>
+    <h1>{title}</h1>
+    <p class="dek">{dek}</p>
+
+    <section class="esim-quick">
+      <h2>{t('esim.quickH')}</h2>
+      <p>{fill('esim.quick')}</p>
+      <a class="esim-btn" href={klookEsim} target="_blank" rel="sponsored noopener">
+        <Emoji name="antenna-bars" /> {fill('esim.ctaBtn')}
+      </a>
+    </section>
+
+    <section>
+      <h2>{t('esim.cmpH')}</h2>
+      <div class="esim-table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>{t('esim.cmpAspect')}</th>
+              <th>{t('esim.cmpEsim')}</th>
+              <th>{t('esim.cmpWifi')}</th>
+              <th>{t('esim.cmpRoam')}</th>
+            </tr>
+          </thead>
+          <tbody>
+            {cmpRows.map((r) => (
+              <tr>
+                <th scope="row">{r.label}</th>
+                <td>{r.esim}</td>
+                <td>{r.wifi}</td>
+                <td>{r.roam}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="esim-verdict">{t('esim.cmpVerdict')}</p>
+    </section>
+
+    <section>
+      <h2>{fill('esim.netH')}</h2>
+      <p class="esim-carriers">
+        <span class="esim-carriers-k">{t('esim.netCarriers')}</span>
+        {country.facts.carriers.map((c: string) => <span class="esim-chip">{c}</span>)}
+      </p>
+      <p>{prose.intro}</p>
+      <p>{prose.coverage}</p>
+    </section>
+
+    <section>
+      <h2>{t('esim.checkH')}</h2>
+      <p class="section-dek">{t('esim.checkIntro')}</p>
+      <ul class="esim-list">
+        {checks.map((c) => <li>{c}</li>)}
+      </ul>
+    </section>
+
+    <section>
+      <h2>{t('esim.setupH')}</h2>
+      <ol class="esim-steps">
+        {steps.map((s) => <li>{s}</li>)}
+      </ol>
+    </section>
+
+    <section>
+      <h2>{fill('esim.buyH')}</h2>
+      <ul class="esim-list">
+        {buys.map((b) => <li>{b}</li>)}
+      </ul>
+    </section>
+
+    <section>
+      <h2>{fill('esim.tipsH')}</h2>
+      <ul class="esim-list">
+        {prose.tips.map((tip) => <li>{tip}</li>)}
+      </ul>
+    </section>
+
+    <section class="esim-cta">
+      <h2>{fill('esim.ctaH')}</h2>
+      <p class="section-dek">{t('esim.ctaDek')}</p>
+      <a class="esim-btn" href={klookEsim} target="_blank" rel="sponsored noopener">
+        <Emoji name="antenna-bars" /> {fill('esim.ctaBtn')}
+      </a>
+      <p class="esim-price-note">{t('esim.priceNote')}</p>
+    </section>
+
+    <section>
+      <h2>{t('esim.faqH')}</h2>
+      {faqs.map((f) => (
+        <details class="esim-faq">
+          <summary>{f.q}</summary>
+          <p>{f.a}</p>
+        </details>
+      ))}
+    </section>
+
+    {others.length > 0 && (
+      <nav class="esim-others" aria-label={t('esim.othersH')}>
+        <h2>{t('esim.othersH')}</h2>
+        <ul>
+          {others.map((c) => (
+            <li>
+              <a href={localizePath(`/tools/esim/${c.slug}`, lang)}>
+                <Flag code={c.iso2} size="1em" class="flag-ico" /> {localizePlace(c.name, lang)}
+              </a>
+            </li>
+          ))}
+        </ul>
+        <p class="esim-all"><a href={localizePath('/tools/esim', lang)}>{t('esim.backIdx')} →</a></p>
+      </nav>
+    )}
+
+    <p class="disclosure">{t('widget.affDisclosure').replace('{site}', SITE.name)}</p>
+  </article>
+
+  <Newsletter lang={lang} />
+</BaseLayout>
+
+<style>
+  .esim { max-width: var(--wrap); margin: 0 auto; padding: 2rem 1rem 0; }
+  .eyebrow { color: var(--muted); font-size: 0.8rem; letter-spacing: 0.06em; text-transform: uppercase; margin: 0 0 0.4rem; }
+  .esim h1 { margin: 0 0 0.5rem; line-height: 1.2; }
+  .dek { color: var(--muted); margin: 0 0 2rem; }
+  .esim section { margin-top: 2.4rem; }
+  .esim h2 { font-size: 1.15rem; margin: 0 0 0.8rem; }
+  .section-dek { color: var(--muted); font-size: 0.9rem; margin: 0 0 0.8rem; }
+
+  .esim-quick {
+    padding: 1.1rem 1.25rem; border: 1px solid var(--line); border-radius: var(--r-md);
+    background: var(--surface);
+  }
+  .esim-quick p { margin: 0 0 1rem; }
+
+  .esim-btn {
+    display: inline-flex; align-items: center; gap: 0.5rem;
+    padding: 0.65rem 1.2rem; border-radius: var(--r-sm);
+    background: var(--accent); color: #fff; font-weight: 700; text-decoration: none;
+  }
+  .esim-btn:hover { filter: brightness(1.08); }
+
+  .esim-table-wrap { overflow-x: auto; }
+  .esim table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+  .esim th, .esim td { padding: 0.55rem 0.6rem; text-align: left; border-bottom: 1px solid var(--line-soft); vertical-align: top; }
+  .esim thead th { color: var(--muted); font-weight: 600; font-size: 0.8rem; }
+  .esim tbody th { font-weight: 600; white-space: nowrap; }
+  .esim tbody td:first-of-type { font-weight: 400; }
+  .esim-verdict { margin: 0.9rem 0 0; }
+
+  .esim-carriers { display: flex; flex-wrap: wrap; align-items: center; gap: 0.4rem; margin: 0 0 0.9rem; }
+  .esim-carriers-k { color: var(--muted); font-size: 0.82rem; margin-right: 0.2rem; }
+  .esim-chip {
+    display: inline-block; padding: 0.25rem 0.7rem; border: 1px solid var(--line);
+    border-radius: 999px; background: var(--surface); font-size: 0.85rem; font-weight: 600;
+  }
+
+  .esim-list { margin: 0; padding-left: 1.2rem; }
+  .esim-list li { margin: 0.45rem 0; }
+  .esim-steps { margin: 0; padding-left: 1.4rem; }
+  .esim-steps li { margin: 0.55rem 0; }
+
+  .esim-cta {
+    padding: 1.1rem 1.25rem; border: 1px solid var(--line); border-radius: var(--r-md);
+    background: var(--surface); text-align: center;
+  }
+  .esim-price-note { color: var(--muted); font-size: 0.8rem; margin: 0.8rem 0 0; }
+
+  .esim-faq { border-bottom: 1px solid var(--line-soft); padding: 0.4rem 0; }
+  .esim-faq summary { cursor: pointer; font-weight: 600; padding: 0.35rem 0; }
+  .esim-faq p { margin: 0.5rem 0 0.6rem; color: var(--ink); }
+
+  .esim-others ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 0.5rem; }
+  .esim-others a {
+    display: inline-flex; align-items: center; gap: 0.4rem;
+    padding: 0.4rem 0.75rem; border: 1px solid var(--line); border-radius: 999px;
+    background: var(--surface); color: var(--ink); text-decoration: none; font-size: 0.9rem;
+  }
+  .esim-others a:hover { border-color: var(--accent); color: var(--accent); }
+  .esim-all { margin: 0.8rem 0 0; }
+  .esim-all a { color: var(--accent); font-weight: 600; text-decoration: none; }
+  .esim-all a:hover { text-decoration: underline; }
+
+  .disclosure { margin: 2.4rem 0 0; color: var(--muted); font-size: 0.8rem; }
+</style>
