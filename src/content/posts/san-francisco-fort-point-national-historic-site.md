@@ -1,6 +1,6 @@
 ---
 title: 'Fort Point National Historic Site: San Francisco Travel Guide'
-description: Fort Point is the brick Civil War-era fort tucked directly beneath the Golden Gate Bridge's south anchorage, open Thursday through Monday, 10am–5pm (closed
+description: Fort Point is the brick Civil War-era fort tucked directly beneath the Golden Gate Bridge's south anchorage, open Thursday through Monday, 10am–5pm.
 country: United States
 region: San Francisco
 category: hidden-gem

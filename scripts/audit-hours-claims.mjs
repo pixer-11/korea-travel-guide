@@ -15,17 +15,16 @@
 // the audits nobody reads.
 //
 //   node scripts/audit-hours-claims.mjs [--verbose]
+//
+// Also exported as hoursProblems(raw) so other patrols can re-check a single
+// post before republishing it — the alt-photo patrol once un-drafted two posts
+// the HOURS gate had quarantined, because draft:true carries no reason and the
+// patrol assumed every draft it could fix was a photo quarantine.
 import { readdirSync, readFileSync } from 'fs';
 import { join } from 'path';
 import yaml from 'js-yaml';
 
 const DIR = 'src/content/posts';
-const verbose = process.argv.includes('--verbose');
-// --drafts: include quarantined posts. The gate flips an offending post to
-// draft, and this audit normally skips drafts — so a held post could never be
-// found by the fixer again, and "자동 수리 순찰이 고친 뒤 재발행" was a promise
-// with no machinery behind it.
-const includeDrafts = process.argv.includes('--drafts');
 const DAYS = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
 
 /** "8:00 AM" / "5 PM" / "10:30pm" → minutes since midnight, or null. */
@@ -64,20 +63,22 @@ function parseLine(line) {
 const inAnyRange = (min, ranges) =>
   ranges.some(([a, b]) => (min >= a && min <= b) || (min + 1440 >= a && min + 1440 <= b));
 
-const files = readdirSync(DIR).filter((f) => f.endsWith('.md'));
-const issues = [];
-
-for (const f of files) {
-  const raw = readFileSync(join(DIR, f), 'utf8');
+/**
+ * All hours contradictions in one post file's full text (frontmatter + body).
+ * Returns an array of human-readable problem strings; empty means clean.
+ * Draft status is NOT considered here — callers decide what to scan.
+ */
+export function hoursProblems(raw) {
   const cut = raw.indexOf('\n---', 3);
+  if (cut < 0) return [];
   let fm;
-  try { fm = yaml.load(raw.slice(4, cut)); } catch { continue; }
-  if (!fm || (fm.draft && !includeDrafts)) continue;
+  try { fm = yaml.load(raw.slice(4, cut)); } catch { return []; }
+  if (!fm) return [];
 
   const lines = fm.place?.openingHours ?? [];
-  if (!lines.length) continue;
+  if (!lines.length) return [];
   const parsed = lines.map(parseLine).filter(Boolean);
-  if (!parsed.length) continue;
+  if (!parsed.length) return [];
 
   // Everything the reader sees: body plus the frontmatter prose fields.
   const prose = [raw.slice(cut + 4), fm.description, fm.quickAnswer,
@@ -111,6 +112,13 @@ for (const f of files) {
   // Without that, "3–10pm on Saturday, and closed all day Sunday" — a perfectly
   // correct sentence — reads as a claim that Saturday is closed.
   const DAY_ALT = DAYS.join('|');
+  // Adverbs the generator likes to slip between "closed" and the day. "closed
+  // entirely on Tuesday" and "closed both Tuesday and Wednesday" escaped the
+  // narrower "on|all day" list, so the strip below left "closed" standing in
+  // the sentence and the day BEFORE it ("…Saturday, and Sunday, and closed
+  // entirely on Tuesday…") was reported as a closed-claim — a false positive
+  // that quarantined two correct posts on 2026-07-31.
+  const ADV = `(?:entirely\\s+|completely\\s+|both\\s+|all\\s+day\\s+|on\\s+)*`;
   const claimsClosedOn = (d, text) => {
     const gap = `(?:(?!\\b(?:${DAY_ALT})\\b)[^.]){0,40}`;
     // "closed Sundays" — the day AFTER the word owns the claim. Checked first,
@@ -122,8 +130,12 @@ for (const f of files) {
     // another day name — correctly for most sentences, wrongly for a list. So
     // a run of day names joined by commas/and, directly after "closed", claims
     // every day in it.
-    if (new RegExp(`closed\\s+(?:on\\s+|both\\s+)?(?:(?:${DAY_ALT})s?(?:,\\s*|\\s+and\\s+))*${d}s?\\b`, 'i').test(text)) return true;
-    const closedThenOtherDay = new RegExp(`closed\\s+(?:on\\s+|all day\\s+)?\\b(?:${DAY_ALT})s?\\b`, 'gi');
+    if (new RegExp(`closed\\s+${ADV}(?:(?:${DAY_ALT})s?(?:,\\s*(?:and\\s+)?|\\s+and\\s+))*${d}s?\\b`, 'i').test(text)) return true;
+    // Strip every fully-stated "closed <days…>" claim about OTHER days, list
+    // and all, so the leftover text cannot pair its "closed" with a day that
+    // merely sits nearby in the same sentence.
+    const closedThenOtherDay = new RegExp(
+      `closed\\s+${ADV}\\b(?:${DAY_ALT})s?\\b(?:(?:,\\s*(?:and\\s+)?|\\s+and\\s+)(?:${DAY_ALT})s?\\b)*`, 'gi');
     const stripped = text.replace(closedThenOtherDay, ' ');
     return new RegExp(`closed${gap}\\b${d}s?\\b|\\b${d}s?\\b${gap}closed`, 'i').test(stripped);
   };
@@ -144,14 +156,33 @@ for (const f of files) {
     }
   }
 
-  if (found.length) issues.push({ f, found: [...new Set(found)] });
+  return [...new Set(found)];
 }
 
-for (const i of issues) {
-  console.log(`HOURS-CONTRADICTION: ${i.f}`);
-  if (verbose) i.found.forEach((x) => console.log(`    ${x}`));
+// ── CLI (only when executed directly, not when imported) ─────
+if (process.argv[1]?.endsWith('audit-hours-claims.mjs')) {
+  const verbose = process.argv.includes('--verbose');
+  // --drafts: include quarantined posts. The gate flips an offending post to
+  // draft, and this audit normally skips drafts — so a held post could never be
+  // found by the fixer again, and "자동 수리 순찰이 고친 뒤 재발행" was a promise
+  // with no machinery behind it.
+  const includeDrafts = process.argv.includes('--drafts');
+
+  const files = readdirSync(DIR).filter((f) => f.endsWith('.md'));
+  const issues = [];
+  for (const f of files) {
+    const raw = readFileSync(join(DIR, f), 'utf8');
+    if (!includeDrafts && /^draft:\s*true\s*$/m.test(raw)) continue;
+    const found = hoursProblems(raw);
+    if (found.length) issues.push({ f, found });
+  }
+
+  for (const i of issues) {
+    console.log(`HOURS-CONTRADICTION: ${i.f}`);
+    if (verbose) i.found.forEach((x) => console.log(`    ${x}`));
+  }
+  console.log(issues.length
+    ? `\n❌ ${issues.length} post(s) whose prose contradicts their own opening hours.`
+    : `✓ ${files.length} post(s) — no prose contradicts its own opening hours.`);
+  process.exit(issues.length ? 1 : 0);
 }
-console.log(issues.length
-  ? `\n❌ ${issues.length} post(s) whose prose contradicts their own opening hours.`
-  : `✓ ${files.length} post(s) — no prose contradicts its own opening hours.`);
-process.exit(issues.length ? 1 : 0);

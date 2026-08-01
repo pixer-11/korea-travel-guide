@@ -794,7 +794,14 @@ function assemble(target, place, title, heroImage, gallery, content) {
     if (lastPunct >= 60) return cut.slice(0, lastPunct + 1).trim();
     // No sentence fits — trim to a word and drop trailing punctuation/conjunction
     // rather than leaving a mid-clause "…" (which reads as unfinished in SERPs).
-    return cut.replace(/\s+\S*$/, '').replace(/[\s,;:.\-–—]+$/, '').trim();
+    // The word-trim alone once left a description ending "…10am–5pm (closed" —
+    // the cut landed inside a parenthetical, and the dangling "closed" read as
+    // a closed-day claim that quarantined the post. Drop an unclosed trailing
+    // parenthetical and any dangling connective ("climb to", "and") too.
+    return cut.replace(/\s+\S*$/, '')
+      .replace(/\s*\([^)]*$/, '')
+      .replace(/(?:\s+(?:and|or|but|so|to|the|an?|with|for|at|on|in|from|by|of))+$/i, '')
+      .replace(/[\s,;:.\-–—]+$/, '').trim();
   };
   const description = qa
     ? clip(qa)

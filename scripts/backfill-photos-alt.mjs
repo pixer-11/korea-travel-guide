@@ -21,6 +21,7 @@ import yaml from 'js-yaml';
 import { loadUsedImageUrls, resolveHero } from './lib/images.mjs';
 import { venuePhotoCandidates } from './lib/photo-sources.mjs';
 import { verifyHeroImage } from './lib/vision-check.mjs';
+import { hoursProblems } from './audit-hours-claims.mjs';
 
 const POSTS = 'src/content/posts';
 const DRY = process.env.DRY === '1';
@@ -193,10 +194,22 @@ for (const f of files) {
     }
     const wasDraft = data.draft === true;
     if (wasDraft) delete data.draft;
-    await writeFile(path, `---\n${yaml.dump(data, { lineWidth: -1, noRefs: true, sortKeys: false })}---\n${content}`, 'utf8');
+    let out = `---\n${yaml.dump(data, { lineWidth: -1, noRefs: true, sortKeys: false })}---\n${content}`;
+    // draft:true carries no reason, and this patrol used to treat every draft
+    // it could re-photo as a PHOTO quarantine — on 2026-07-31 it republished
+    // two posts the publish gate had held for hours contradictions. A fixed
+    // photo lifts only the photo hold: re-run the other gate's check and keep
+    // the draft when the prose still fights the fact box.
+    const otherHolds = wasDraft ? hoursProblems(out) : [];
+    if (otherHolds.length) {
+      data.draft = true;
+      out = `---\n${yaml.dump(data, { lineWidth: -1, noRefs: true, sortKeys: false })}---\n${content}`;
+    }
+    await writeFile(path, out, 'utf8');
     used.add(cand.url);
     fixed++;
-    if (wasDraft) { undrafted++; console.log(`  ✅ ${slug}: FIXED + republished (${vis.reason})`); }
+    if (wasDraft && otherHolds.length) console.log(`  ✅ ${slug}: photo FIXED, but kept quarantined — ${otherHolds[0]}`);
+    else if (wasDraft) { undrafted++; console.log(`  ✅ ${slug}: FIXED + republished (${vis.reason})`); }
     else console.log(`  ✅ ${slug}: FIXED (${vis.reason})`);
     done = true;
     break;

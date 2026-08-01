@@ -1,6 +1,6 @@
 ---
 title: 'Springs Preserve: Las Vegas Travel Guide'
-description: Springs Preserve is a 180-acre desert oasis at 333 S Valley View Blvd, about 10 minutes from the Strip, built around the actual freshwater springs that gave
+description: Springs Preserve is a 180-acre desert oasis at 333 S Valley View Blvd, about 10 minutes from the Strip, built around the springs that gave Las Vegas its name.
 country: United States
 region: Las Vegas
 category: hidden-gem
