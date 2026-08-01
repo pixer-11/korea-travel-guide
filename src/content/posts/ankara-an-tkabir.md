@@ -6,10 +6,10 @@ region: Ankara
 category: hidden-gem
 pubDate: '2026-07-29T10:13:04.599Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/430904871_M6mta-OOM2BXUUns3KKGUcCFx8_89qa17rZSE9yl25A.jpg
-  credit: 'Photo: Foursquare user content (Anıtkabir)'
-  license: foursquare
-  source: https://foursquare.com/v/4c0e115bc700c9b6ce42a3dd
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ataturk%27s_Mausoleum_%286225341313%29.jpg/1920px-Ataturk%27s_Mausoleum_%286225341313%29.jpg
+  credit: 'Photo: William Neuheisel from DC, US / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Ataturk%27s_Mausoleum_(6225341313).jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/An%C4%B1tkabir%2C_Ankara%2C_Turqu%C3%ADa%2C_2024-10-03%2C_DD_27.jpg/1920px-An%C4%B1tkabir%2C_Ankara%2C_Turqu%C3%ADa%2C_2024-10-03%2C_DD_27.jpg
     credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)'
@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 39.924882499999995
   lng: 32.8370786
-  phone: '+90 312 231 18 61'
+  phone: +90 312 231 18 61
   openingHours:
     - 'Monday: 9:00 AM – 5:00 PM'
     - 'Tuesday: 9:00 AM – 5:00 PM'

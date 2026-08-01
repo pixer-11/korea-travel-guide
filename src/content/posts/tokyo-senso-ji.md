@@ -6,10 +6,10 @@ region: Tokyo
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/1385146177_rWXFXMM8kHCoFT0qgjoFv7-iXwFFwx8AS6pVrTopANU.jpg
-  credit: 'Photo: Foursquare user content (Senso-ji Temple (浅草寺))'
-  license: foursquare
-  source: https://foursquare.com/v/4b0587a1f964a5207f9d22e3
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Sensoji_2023.jpg/1920px-Sensoji_2023.jpg
+  credit: 'Photo: Akonnchiroll / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Sensoji_2023.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/2024-10-20_Tokyo%2C_Sens%C5%8D-ji_1.jpg/1920px-2024-10-20_Tokyo%2C_Sens%C5%8D-ji_1.jpg
     credit: 'Photo: Alexkom000 / Wikimedia Commons (CC BY 4.0)'
@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 35.7147651
   lng: 139.7966553
-  phone: '+81 3-3842-0181'
+  phone: +81 3-3842-0181
 tags:
   - tokyo
   - Senso-ji Temple

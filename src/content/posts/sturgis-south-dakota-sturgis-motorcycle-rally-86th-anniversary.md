@@ -8,11 +8,10 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-08-07'
 eventEndDate: '2026-08-16'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/4/4a/2007_Sturgis_Motorcycle_Rally%2C_Walk_the_Line.jpg"
-  credit: "Photo: Jerry Reynolds from Fargo, United States / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:2007_Sturgis_Motorcycle_Rally,_Walk_the_Line.jpg"
-gallery: []
+  url: https://upload.wikimedia.org/wikipedia/commons/b/b5/Sturgis_motorcycle_banner.jpg
+  credit: 'Photo: Sturgis_2010_(1).jpg: J.T (Jason) Thorne derivative work: Eco84 / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Sturgis_motorcycle_banner.jpg
 tags:
   - sturgis
   - event

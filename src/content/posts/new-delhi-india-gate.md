@@ -6,10 +6,10 @@ region: New Delhi
 category: attraction
 pubDate: '2026-07-26T08:33:34.565Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/68335559_GctQRTvMB81KGeB4YH2tHQZLjNvUyMFpWFnjaLmqdnw.jpg
-  credit: 'Photo: Foursquare user content (India Gate)'
-  license: foursquare
-  source: https://foursquare.com/v/4b5eeab3f964a520ca9d29e3
+  url: https://upload.wikimedia.org/wikipedia/commons/d/df/India_Gate%2C_New_Delhi_from_West.jpg
+  credit: 'Photo: Nikhilb239 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:India_Gate,_New_Delhi_from_West.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/India_Gate%2C_New_Delhi.jpg/1920px-India_Gate%2C_New_Delhi.jpg
     credit: 'Photo: Yann / Wikimedia Commons (CC BY-SA 3.0)'
@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 28.612911999999998
   lng: 77.2295097
-  phone: '+91 11 2336 5358'
+  phone: +91 11 2336 5358
 tags:
   - new delhi
   - top attraction

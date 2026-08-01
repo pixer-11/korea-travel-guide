@@ -6,15 +6,10 @@ region: Beijing
 category: attraction
 pubDate: '2026-07-26T07:10:20.729Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/523752967_FcgKg15V2TjgVEnPVlu11olrPS7HsSJMQN1j7CwhyuQ.jpg
-  credit: 'Photo: Foursquare user content (TRB Forbidden City)'
-  license: foursquare
-  source: https://foursquare.com/v/55ffdf44498e50d63a0886f1
-gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/The_Forbidden_City_-_View_from_Coal_Hill.jpg/1920px-The_Forbidden_City_-_View_from_Coal_Hill.jpg
-    credit: 'Photo: Pixelflake / Wikimedia Commons (CC BY-SA 3.0)'
-    license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:The_Forbidden_City_-_View_from_Coal_Hill.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/The_Forbidden_City_-_View_from_Coal_Hill.jpg/1920px-The_Forbidden_City_-_View_from_Coal_Hill.jpg
+  credit: 'Photo: Pixelflake / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:The_Forbidden_City_-_View_from_Coal_Hill.jpg
 place:
   id: ChIJPdQVRelS8DURnwfTTb3idAY
   name: Forbidden City
@@ -25,7 +20,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 39.9168038
   lng: 116.39716209999999
-  phone: '+86 400 950 1925'
+  phone: +86 400 950 1925
   openingHours:
     - 'Monday: Closed'
     - 'Tuesday: 8:30 AM – 4:00 PM'

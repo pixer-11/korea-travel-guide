@@ -6,10 +6,10 @@ region: Marseille
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/60424701_y1eVAkkIRI1Z5AWaCn9erarex5b5qJ3zgaXT1F0nNWU.jpg
-  credit: 'Photo: Foursquare user content (Arrêt Notre-Dame de la Garde [60])'
-  license: foursquare
-  source: https://foursquare.com/v/4ec7c2739a52756c55fb4a25
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Notre-Dame_de_la_Garde_aerial_view_2020.jpeg/1920px-Notre-Dame_de_la_Garde_aerial_view_2020.jpeg
+  credit: 'Photo: Earth777 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Notre-Dame_de_la_Garde_aerial_view_2020.jpeg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Hafen_von_Marseille-Notre_Dame_de_la_Garde.jpg/1920px-Hafen_von_Marseille-Notre_Dame_de_la_Garde.jpg
     credit: 'Photo: Tobi 87 / Wikimedia Commons (CC BY-SA 3.0)'

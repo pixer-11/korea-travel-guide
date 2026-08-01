@@ -6,10 +6,10 @@ region: San Francisco
 category: attraction
 pubDate: '2026-07-26T07:55:25.204Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/15187635_r1jaDjZpqvVGGKE2yvsJtnsKTYb1EHLBnvL_WHM4rpk.jpg
-  credit: 'Photo: Foursquare user content (Alcatraz Island)'
-  license: foursquare
-  source: https://foursquare.com/v/4451c80ef964a520a5321fe3
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Alcatraz_2021.jpg/1920px-Alcatraz_2021.jpg
+  credit: 'Photo: Chris6d / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Alcatraz_2021.jpg
 place:
   id: ChIJI09XaRWBhYARF65xWugonBg
   name: Alcatraz Island

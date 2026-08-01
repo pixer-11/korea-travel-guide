@@ -1,54 +1,54 @@
 ---
-title: "Han Chin Pet Soo: Ipoh Travel Guide"
+title: 'Han Chin Pet Soo: Ipoh Travel Guide'
 description: Han Chin Pet Soo, a former Hakka tin-miners' clubhouse on Jalan Bijeh Timah in Ipoh's old town, is now a small, tightly curated museum on tin-mining wealth, secret societies, and mahjong-and-opium clubroom culture.
-country: "Malaysia"
-region: "Ipoh"
-category: "hidden-gem"
-pubDate: "2026-07-29T10:11:39.999Z"
+country: Malaysia
+region: Ipoh
+category: hidden-gem
+pubDate: '2026-07-29T10:11:39.999Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/d/d8/HCPS_Dining_hall.jpg"
-  credit: "Photo: Chriscwy5435 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:HCPS_Dining_hall.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/2/24/Han_Chin_Pet_Soo_Museum%2C_Ipoh.jpg
+  credit: 'Photo: World of Travolution / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Han_Chin_Pet_Soo_Museum,_Ipoh.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Han_Chin_Pet_Soo_Museum%2C_Ipoh.jpg/1920px-Han_Chin_Pet_Soo_Museum%2C_Ipoh.jpg"
-    credit: "Photo: World of Travolution / Wikimedia Commons (CC BY-SA 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Han_Chin_Pet_Soo_Museum,_Ipoh.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Han_Chin_Pet_Soo_Museum%2C_Ipoh.jpg/1920px-Han_Chin_Pet_Soo_Museum%2C_Ipoh.jpg
+    credit: 'Photo: World of Travolution / Wikimedia Commons (CC BY-SA 2.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Han_Chin_Pet_Soo_Museum,_Ipoh.jpg
 place:
-  id: "ChIJ79sYUHzsyjERtPkfWlkqPSU"
-  name: "Han Chin Pet Soo"
-  address: "3, Jalan Bijeh Timah, 30100 Ipoh, Perak, Malaysia"
+  id: ChIJ79sYUHzsyjERtPkfWlkqPSU
+  name: Han Chin Pet Soo
+  address: 3, Jalan Bijeh Timah, 30100 Ipoh, Perak, Malaysia
   rating: 4.7
   userRatingsTotal: 1135
-  googleMapsUrl: "https://maps.google.com/?cid=2683347516235184564&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=2683347516235184564&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 4.5963007
   lng: 101.07904649999999
-  phone: '+60 5-241 4541'
+  phone: +60 5-241 4541
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 11:00 AM – 12:00 PM"
-    - "Wednesday: 11:00 AM – 12:00 PM"
-    - "Thursday: 11:00 AM – 12:00 PM"
-    - "Friday: 11:00 AM – 12:00 PM"
-    - "Saturday: 11:00 AM – 12:00 PM"
-    - "Sunday: 11:00 AM – 12:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 12:00 PM'
+    - 'Wednesday: 11:00 AM – 12:00 PM'
+    - 'Thursday: 11:00 AM – 12:00 PM'
+    - 'Friday: 11:00 AM – 12:00 PM'
+    - 'Saturday: 11:00 AM – 12:00 PM'
+    - 'Sunday: 11:00 AM – 12:00 PM'
 tags:
-  - "ipoh"
-  - "hidden gem"
+  - ipoh
+  - hidden gem
 quickAnswer: Han Chin Pet Soo, a former Hakka tin-miners' clubhouse on Jalan Bijeh Timah in Ipoh's old town, is now a small, tightly curated museum on tin-mining wealth, secret societies, and mahjong-and-opium clubroom culture. It's usually only open for a couple of guided sessions a day (tours are timed and often need booking ahead), so plan around that rather than just showing up. Give it 45–60 minutes, and pair it with a walk through the surrounding old town heritage buildings.
 faq:
-  - q: "How do I get to Han Chin Pet Soo?"
-    a: "It's on Jalan Bijeh Timah in Ipoh's old town, an easy 15-20 minute walk from Ipoh railway station, or a few minutes' walk from the mural lanes and Padang area. Grab (ride-hailing) is cheap and easy if you'd rather skip the walk."
-  - q: "Do I need to book ahead?"
-    a: "It's best to check or reserve ahead, since the museum operates on set guided-tour time slots rather than continuous walk-in entry. Turning up between sessions is the most common visitor mistake."
-  - q: "How long should I plan to spend there?"
-    a: "Around 45 minutes to an hour, most of it on the guided walkthrough of the clubhouse rooms."
-  - q: "Is it worth visiting if I'm not a history buff?"
-    a: "Yes — the mahjong tables, opium den reconstruction, and old photographs make the Hakka tin-mining history feel tangible rather than academic, even for casual visitors."
-  - q: "What else is nearby?"
-    a: "Ipoh's old town heritage shophouses, Concubine Lane and the mural streets, and the colonial-era Ipoh railway station are all within easy walking distance for a combined half-day out."
+  - q: How do I get to Han Chin Pet Soo?
+    a: It's on Jalan Bijeh Timah in Ipoh's old town, an easy 15-20 minute walk from Ipoh railway station, or a few minutes' walk from the mural lanes and Padang area. Grab (ride-hailing) is cheap and easy if you'd rather skip the walk.
+  - q: Do I need to book ahead?
+    a: It's best to check or reserve ahead, since the museum operates on set guided-tour time slots rather than continuous walk-in entry. Turning up between sessions is the most common visitor mistake.
+  - q: How long should I plan to spend there?
+    a: Around 45 minutes to an hour, most of it on the guided walkthrough of the clubhouse rooms.
+  - q: Is it worth visiting if I'm not a history buff?
+    a: Yes — the mahjong tables, opium den reconstruction, and old photographs make the Hakka tin-mining history feel tangible rather than academic, even for casual visitors.
+  - q: What else is nearby?
+    a: Ipoh's old town heritage shophouses, Concubine Lane and the mural streets, and the colonial-era Ipoh railway station are all within easy walking distance for a combined half-day out.
 aiGenerated: true
 draft: false
 ---

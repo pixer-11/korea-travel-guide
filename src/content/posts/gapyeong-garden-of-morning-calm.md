@@ -6,10 +6,10 @@ region: Gapyeong
 category: hidden-gem
 pubDate: '2026-07-27T10:58:25.413Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/9744875_8moFVS9pd7Ke8jwHM8ktLshGvS-qUFESMr1uQRrvB_k.jpg
-  credit: 'Photo: Foursquare user content (The Garden of Morning Calm (아침고요수목원))'
-  license: foursquare
-  source: https://foursquare.com/v/4ba040a8f964a5204b6437e3
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Lake_in_the_Garden_of_Morning_Calm.jpg/1920px-Lake_in_the_Garden_of_Morning_Calm.jpg
+  credit: 'Photo: Clément Chevallier / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Lake_in_the_Garden_of_Morning_Calm.jpg
 place:
   id: ChIJzzJLib-ffDURjaM7pZPPh10
   name: Garden of Morning Calm
@@ -20,7 +20,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 37.7439678
   lng: 127.35248639999999
-  phone: '+82 1544-6703'
+  phone: +82 1544-6703
   openingHours:
     - 'Monday: 8:30 AM – 7:00 PM'
     - 'Tuesday: 8:30 AM – 7:00 PM'
