@@ -70,13 +70,24 @@ export async function verifyGalleryImage({ url, heroUrl, name, category, region,
       (hero
         ? `ALSO REJECT if it is essentially the SAME view as IMAGE 1 (same angle, same subject) — a second photo must ADD something: a different room, the exterior vs the interior, the food, the surroundings.\n`
         : '') +
-      (eventMode ? '' : `REJECT if it is only NEAR the place rather than OF it: a random building on the same street, a generic alley, a car park, a signboard, a close-up of an object that could be anywhere. Being in the right neighbourhood is NOT enough.\n`) +
+      // The identity bar depends on WHAT the subject is. "Vieux Lyon" is a
+      // district: its ordinary lanes ARE the subject, and demanding that a
+      // lane be "identifiable as Vieux Lyon specifically" rejected all eight
+      // real, geotagged, correctly-titled photos of it — the owner got a
+      // one-photo carousel for one of Europe's most photographed quarters.
+      // Candidates arrive here already anchored by metadata (file title names
+      // the subject, geotag within 30km — see commons.mjs), so for an AREA the
+      // vision job is CONSISTENCY, not identification.
+      (eventMode ? '' :
+        `FIRST decide what kind of subject "${name}" is, then apply the matching bar:\n` +
+        `- SINGLE VENUE OR LANDMARK (a shop, cafe, temple, tower, one specific building): REJECT if the photo is only NEAR it rather than OF it — a random building on the same street, a generic alley, a car park, a close-up of an object that could be anywhere. Being in the right neighbourhood is NOT enough. The bar is CERTAINTY, not plausibility: if your reason would contain "probably", "plausibly", "likely", "appears to be" or "could be", answer false. A dish on a plain table, a drink or a menu close-up does NOT identify a venue — reject unless the venue itself is visible around it (its room, its signage, its terrace, its view). ACCEPT only if a reader who knows this place would recognise it as THIS venue.\n` +
+        `- AREA (a district, old town, quarter, neighbourhood, island, beach, harbour, market street, promenade): its ordinary streets, squares, waterfronts and building ensembles ARE the subject — do NOT reject a scene within it as "generic" or "not specifically identifiable". Instead verify CONSISTENCY: architecture, geography, signage language and vegetation must match ${region}, ${country}${hero ? ' and be plausibly the same locale as IMAGE 1' : ''} — REJECT on any mismatch, or if the scene could not be this area.\n` +
+        `- VIEWPOINT or observation deck: the panorama SEEN FROM it is what visitors come for — a skyline or landscape photo taken from it is CORRECT; judge it for consistency with ${region}, ${country} like an area.\n`) +
       `REJECT if the photo shows the place in a state a visitor will not see: under construction, scaffolded, being restored, closed off, or before it was finished. REJECT a photograph OF A SIGN, notice, plaque, map, poster, banner or screen — text about the place is not a picture of it, however clearly it names it. These pass a "is this the right subject" test and still cannot be published.\n` +
-      `The bar is CERTAINTY, not plausibility. If your own reason would contain "probably", "plausibly", "likely", "appears to be" or "could be", the answer is false. A dish photographed on a plain table, a drink, a menu close-up or any framing that could have been taken at a thousand other places does NOT identify this venue, however appetising it looks — reject it unless the venue itself is visible around it (its room, its signage, its terrace, its view).\n` +
       `A post with ONE correct hero is a perfectly good outcome; a second photo is a bonus and is never worth a doubt.\n` +
       (eventMode
         ? `ACCEPT if it clearly shows this event's sport/act or its performers, AND adds new visual information.\n`
-        : `ACCEPT only if a reader who knows this place would recognise it as THIS venue, AND the photo adds new visual information.\n`) +
+        : `ACCEPT when the matching bar above is met AND the photo adds new visual information.\n`) +
       `Answer ONLY JSON: {"ok": true|false, "reason": "<max 12 words>"}`,
   });
   // One retry: a truncated/preamble-wrapped reply is a transport hiccup, not a
