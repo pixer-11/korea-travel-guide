@@ -176,7 +176,15 @@ async function translateOne(langCode, srcId, data, hash, attempt = 1) {
   // everything between (hit 308 posts). Escape them in the BODY — frontmatter
   // (quickAnswer/faq) renders as plain text and must stay unescaped.
   const body = out.body.trim().replace(/(?<!\\)~/g, '\\~');
-  const file = `---\n${yaml.dump(fm, { lineWidth: -1 })}---\n\n${body}\n`;
+  // js-yaml leaves a hash like 818631094e44 unquoted (not a float under its
+  // YAML 1.1 rules), but Astro's YAML 1.2 parser reads it as scientific
+  // notation and the number then fails the schema's z.string() — twelve
+  // translations broke the build that way on 2026-08-01. Quote the hash line
+  // ourselves; the bare-hex pattern can't touch a line js-yaml already quoted.
+  const fmText = yaml
+    .dump(fm, { lineWidth: -1 })
+    .replace(/^srcHash: ([0-9a-f]{12})$/m, "srcHash: '$1'");
+  const file = `---\n${fmText}---\n\n${body}\n`;
   const dir = join(OUT, langCode);
   await mkdir(dir, { recursive: true });
   await writeFile(join(dir, `${srcId}.md`), file, 'utf8');
