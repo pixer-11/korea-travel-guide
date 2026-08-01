@@ -93,7 +93,12 @@ jobs:
         run: |
           git config user.name "content-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add src/content/posts public/wall data/wall.json data/visual-audit.json
+          # photo-retry.json is the 7-night retirement clock, retired-posts.json
+          # feeds the 301 map, and retirement deletes i18n translations — none
+          # were staged, so every night's counts died with the runner (the clock
+          # never advanced in CI) and a firing retirement would have shipped the
+          # post deletion WITHOUT its redirect: a 404 where a 301 was promised.
+          git add src/content/posts src/content/i18n public/wall data/wall.json data/visual-audit.json data/photo-retry.json data/retired-posts.json
           if git diff --staged --quiet; then
             echo "No photo changes."
           else

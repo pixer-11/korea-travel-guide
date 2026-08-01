@@ -26,6 +26,7 @@ import { slugify } from './lib/slugify.mjs';
 import { writeArticle } from './lib/writer.mjs';
 import { resolveHero, loadUsedImageUrls, eventTopic } from './lib/images.mjs';
 import { isImageAllowed } from './lib/guardrails.mjs';
+import { verifyHeroImage } from './lib/vision-check.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
@@ -143,8 +144,25 @@ async function writeDiscovered(item, ctx) {
     preferTopic: cat === 'event',
     eventMode: cat === 'event',
   });
-  const heroImage = isImageAllowed(hero)
+  let heroImage = isImageAllowed(hero)
     ? { url: hero.url, credit: hero.credit, license: hero.license, source: hero.source } : undefined;
+  // This was the LAST publish path with no vision gate — the 07-29 event batch
+  // it produced shipped a radio-software screenshot for the Airtime festival
+  // and a cycling team for a dance tour, and because the nightly patrol skips
+  // live events, nothing ever re-checked them (24 quarantined 2026-08-01).
+  // Owner's absolute rule: no photo reaches a page unverified — a photoless
+  // event post is a fine outcome, a wrong photo is not. Fail closed: an
+  // unverifiable image (API down) is treated as unverified and dropped.
+  if (heroImage) {
+    const vis = await verifyHeroImage({
+      url: heroImage.url, name: item.name, category: cat,
+      region: item.city, country, eventMode: cat === 'event',
+    });
+    if (!vis.ok) {
+      console.log(`    ✗ hero rejected by vision (${vis.reason}) — publishing without hero`);
+      heroImage = undefined;
+    }
+  }
 
   const data = {
     title,

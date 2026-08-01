@@ -155,6 +155,17 @@ for (const f of files) {
   // Current hero first: if the AI approves what's already there, keep it.
   if (!heroIsStock && data.heroImage?.url && data.draft !== true) {
     const cur = await verifyHeroImage({ url: data.heroImage.url, name: venueName, category: data.category, region: data.region, country: data.country, eventMode: isEvent, existing: true });
+    // "Could not check" is NOT "rejected". Vision fails CLOSED (an API outage
+    // returns ok:false), which is right when choosing a NEW photo and
+    // catastrophic here: with AUDIT_ALL every live venue post gets its hero
+    // re-judged nightly, so one Anthropic outage at 04:35 would have rejected
+    // every current hero, found no passing replacement (same outage), and
+    // quarantined up to LIMIT live posts in a single unmanned commit. An
+    // unverifiable night must leave the post exactly as it is.
+    if (/vision unavailable|no-api-key|vision check failed/i.test(cur.reason || '')) {
+      console.log(`  ⏸️  ${slug}: vision unavailable — leaving post untouched`);
+      continue;
+    }
     if (cur.ok) {
       // Record the acquittal. The weekly audit is a single vision call and does
       // get landmarks wrong (2026-07-27: it called Gyeonghoeru "a Gyeongju
@@ -246,9 +257,11 @@ for (const f of files) {
     } catch {}
   }
   let done = false;
+  let visionOutage = false; // an unverifiable candidate is not an EMPTY night
   for (const cand of cands) {
     if (used.has(cand.url)) continue;
     const vis = await verifyHeroImage({ url: cand.url, ...ctx });
+    if (/vision unavailable|no-api-key|vision check failed/i.test(vis.reason || '')) visionOutage = true;
     if (!vis.ok) { console.log(`   ${slug}: rejected (${vis.reason})`); continue; }
     if (DRY) { console.log(`  · would fix ${slug} ← ${cand.url.slice(0, 70)}`); done = true; fixed++; break; }
     data.heroImage = { url: cand.url, credit: cand.credit, license: cand.license, source: cand.source };
@@ -292,7 +305,13 @@ for (const f of files) {
   if (done) {
     delete retryCount[slug];               // a success resets the retirement clock
   }
-  if (!done) {
+  if (!done && visionOutage) {
+    // The night proved nothing: candidates existed but the checker was down.
+    // Advancing the retirement clock here is how a one-week Anthropic outage
+    // retires every healthy draft; leave the count and the post alone.
+    console.log(`  ⏸️  ${slug}: vision outage during candidate checks — night not counted`);
+  }
+  if (!done && !visionOutage) {
     unfixed++;
     rewriteList.push(slug);
     retryCount[slug] = (retryCount[slug] ?? 0) + 1;

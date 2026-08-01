@@ -19,8 +19,12 @@ on:
     types: [completed]
   workflow_dispatch:
 
+# Same group as backfill-details: both fire when publish completes, both call
+# backfill-place-details, and in separate groups they ran in PARALLEL — 40+80
+# against the ~100/day Details cap, editing the same alphabetical posts and
+# losing one side's work to the rebase race.
 concurrency:
-  group: places-quota
+  group: places-bulk
   cancel-in-progress: false
 
 permissions:
@@ -45,10 +49,9 @@ jobs:
 
       - run: npm ci
 
-      - name: Backfill phone + opening hours (Task 1; idempotent, no-op on 429)
-        env:
-          GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
-        run: node scripts/backfill-place-details.mjs --apply --limit 40 || true
+# The 40-post backfill step was removed 2026-08-01: backfill-details.yml already
+# runs the same script with --limit 80 in the same post-publish window, so this
+# duplicate spent the shared ~100/day Details cap twice and raced its commits.
 
       - name: Run audit
         id: audit
