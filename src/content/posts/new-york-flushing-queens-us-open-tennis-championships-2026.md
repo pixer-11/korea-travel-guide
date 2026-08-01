@@ -1,7 +1,6 @@
 ---
-draft: true
 title: 'US Open Tennis Championships 2026: What to Know (New York)'
-description: "The 2026 US Open runs August 23–September 13 at the USTA Billie Jean King National Tennis Center in Flushing Meadows–Corona Park, Queens."
+description: The 2026 US Open runs August 23–September 13 at the USTA Billie Jean King National Tennis Center in Flushing Meadows–Corona Park, Queens.
 country: United States
 region: New York
 category: event
@@ -9,11 +8,10 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-09-13'
 eventEndDate: '2026-09-13'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/9-8-57_Tennis_Championship_Match_-_Forest_Hills%2C_L.I._-_DPLA_-_0321f0104a26c26cd848f00452ead486_%28page_18%29.jpg/1920px-9-8-57_Tennis_Championship_Match_-_Forest_Hills%2C_L.I._-_DPLA_-_0321f0104a26c26cd848f00452ead486_%28page_18%29.jpg"
-  credit: "Photo: Nixon, Richard M. (Richard Milhous), 1913-1994 / Wikimedia Commons (Public domain)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:9-8-57_Tennis_Championship_Match_-_Forest_Hills,_L.I._-_DPLA_-_0321f0104a26c26cd848f00452ead486_(page_18).jpg"
-gallery: []
+  url: https://upload.wikimedia.org/wikipedia/commons/b/b6/2017_US_Open_Tennis_-_Qualifying_Rounds_-_Viktoriya_Tomova_%28BUL%29_def._Polona_Hercog_%28SLO%29_%2836916572131%29.jpg
+  credit: 'Photo: Steven Pisano from Brooklyn, NY, USA / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:2017_US_Open_Tennis_-_Qualifying_Rounds_-_Viktoriya_Tomova_(BUL)_def._Polona_Hercog_(SLO)_(36916572131).jpg
 tags:
   - new york
   - event

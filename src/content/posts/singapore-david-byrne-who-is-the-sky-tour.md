@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'David Byrne: Who Is The Sky? Tour: What to Know (Singapore)'
 description: 'David Byrne: Who Is The Sky? Tour in Singapore, Singapore — August 7, 2026. What it is, when and where, and how to plan around it.'
 country: Singapore
@@ -9,11 +8,10 @@ pubDate: '2026-07-24'
 eventStartDate: '2026-08-07'
 eventEndDate: '2026-08-07'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/King_David%2C_the_King_of_Israel.jpg/1920px-King_David%2C_the_King_of_Israel.jpg
-  credit: 'Photo: Gerard van Honthorst / Wikimedia Commons (Public domain)'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/David_Byrne_on_tour_Amsterdam_at_AFAS_Live_Feb_2026_2.jpg/3840px-David_Byrne_on_tour_Amsterdam_at_AFAS_Live_Feb_2026_2.jpg
+  credit: 'Photo: Mainlymazza / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:King_David,_the_King_of_Israel.jpg
-gallery: []
+  source: https://commons.wikimedia.org/wiki/File:David_Byrne_on_tour_Amsterdam_at_AFAS_Live_Feb_2026_2.jpg
 tags:
   - singapore
   - event

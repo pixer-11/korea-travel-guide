@@ -1,7 +1,6 @@
 ---
-draft: true
 title: 'Post Malone: The BIG ASS Stadium World Tour: What to Know (Bangkok)'
-description: "Post Malone brings The BIG ASS Stadium World Tour to Bangkok's Rajamangala National Stadium on September 22, 2026 — his first Bangkok concert in three years."
+description: Post Malone brings The BIG ASS Stadium World Tour to Bangkok's Rajamangala National Stadium on September 22, 2026 — his first Bangkok concert in three years.
 country: Thailand
 region: Bangkok
 category: event
@@ -9,11 +8,10 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-09-22'
 eventEndDate: '2026-09-22'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/3/39/Malone_NY.JPG"
-  credit: "Photo: P199 / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Malone_NY.JPG"
-gallery: []
+  url: https://upload.wikimedia.org/wikipedia/commons/3/3a/Post_Malone_July_2021.jpg
+  credit: 'Photo: Chrisallmeid / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Post_Malone_July_2021.jpg
 tags:
   - bangkok
   - event

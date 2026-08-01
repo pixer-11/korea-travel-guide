@@ -1,7 +1,6 @@
 ---
-draft: true
 title: 'David Byrne Live in Bangkok: What to Know (Bangkok)'
-description: "David Byrne, the former Talking Heads frontman, is set to perform at UOB Live in Bangkok on Monday, August 10, 2026."
+description: David Byrne, the former Talking Heads frontman, is set to perform at UOB Live in Bangkok on Monday, August 10, 2026.
 country: Thailand
 region: Bangkok
 category: event
@@ -9,11 +8,10 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-08-10'
 eventEndDate: '2026-08-10'
 heroImage:
-  url: "https://images.unsplash.com/photo-1518122230977-6dc70ce79f4b?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8QmFuZ2tvayUyMFRoYWlsYW5kJTIwY29uY2VydCUyMHN0YWdlJTIwbGl2ZSUyMG11c2ljfGVufDB8MHx8fDE3ODQ3NzUyNDd8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Duangphorn Wiriya on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@ph_an_tom?utm_source=korea_travel_guide&utm_medium=referral"
-gallery: []
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/David_Byrne_on_tour_Amsterdam_at_AFAS_Live_Feb_2026.jpg/3840px-David_Byrne_on_tour_Amsterdam_at_AFAS_Live_Feb_2026.jpg
+  credit: 'Photo: Mainlymazza / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:David_Byrne_on_tour_Amsterdam_at_AFAS_Live_Feb_2026.jpg
 tags:
   - bangkok
   - event

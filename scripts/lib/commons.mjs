@@ -33,6 +33,11 @@ const ANCHOR_STOP = new Set([
   'italian', 'spanish', 'french', 'german', 'korean', 'japanese', 'chinese',
   'vietnamese', 'thai', 'turkish', 'indian', 'malaysian', 'indonesian', 'filipino',
   'taiwanese', 'continental', 'european', 'americas', 'national', 'live',
+  // Months — "SEPTEMBER Grand Sumo Tournament" anchored on "september" and the
+  // candidates were a tightrope walker, a school choir and a ribbon-cutting:
+  // September things, none of them sumo. A month is a date, never the act.
+  'january', 'february', 'march', 'april', 'june', 'july', 'august',
+  'september', 'october', 'november', 'december',
 ]);
 
 // Most distinctive word of a name — e.g. "Gyeongbokgung Palace" -> "gyeongbokgung",

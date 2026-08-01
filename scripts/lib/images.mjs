@@ -254,6 +254,10 @@ export function eventTopic(name = '') {
   if (/badminton|\bbwf\b/.test(s)) return 'badminton match';
   if (/tennis|\batp\b|\bwta\b|us open|open championship/.test(s)) return 'tennis tournament';
   if (/aquatics|swimming|water polo|diving/.test(s)) return 'swimming competition pool';
+  if (/sumo|basho/.test(s)) return 'sumo wrestling tournament';
+  if (/snooker|billiards/.test(s)) return 'snooker tournament table';
+  // Before the generic /festival/ line — a FIREWORKS festival is not a stage.
+  if (/firework/.test(s)) return 'fireworks festival display';
   if (/miss world|miss universe|pageant/.test(s)) return 'beauty pageant stage';
   if (/film festival|cinema|\bfilm\b/.test(s)) return 'film festival cinema';
   if (/rock festival|\brock\b/.test(s)) return 'rock concert crowd';
