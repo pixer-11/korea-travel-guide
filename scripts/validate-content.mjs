@@ -275,6 +275,16 @@ async function tildeWalk(dir, rel = '') {
     const fmEnd = raw.indexOf('\n---', 3);
     const body = fmEnd === -1 ? raw : raw.slice(fmEnd + 4);
     if (/(^|[^\\])~/.test(body)) issues.push(`TILDE unescaped in ${rel}${e.name} body — renders as strikethrough (escape as \\~)`);
+    // The writer's own transition line — "Now I have enough information to
+    // write the guide." — shipped as the first paragraph of ten essentials
+    // pages in five languages (2026-08-01): a web-search run interleaves
+    // working notes between tool calls, and build-essentials joined every
+    // text block. The generator now strips it at the source; this catches
+    // any future leak the moment it lands in ANY collection, ANY language.
+    const firstLine = body.split('\n').find((l) => l.trim() !== '')?.trim() ?? '';
+    if (/^(Now I\b|I now\b|I have (all|enough|sufficient)\b)|충분한 정보|정보가 모였|정보를 확보|작성할 준비가|十分な情報|ガイドを作成します|información suficiente|Ya contamos con|Ahora cuento con|足够的信息|掌握了足够/.test(firstLine)) {
+      issues.push(`LLM-NOTE leaked in ${rel}${e.name} — first body line is the writer talking to itself`);
+    }
   }
 }
 await tildeWalk(CONTENT_ROOT);

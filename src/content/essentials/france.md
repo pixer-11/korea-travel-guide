@@ -6,8 +6,6 @@ lastReviewed: 2026-08-01
 draft: false
 ---
 
-Now I have all the information needed to write the comprehensive guide.
-
 **Quick answer:** Most visitors (US, UK, Canada, Australia, NZ, Japan, etc.) can enter France visa-free for up to 90 days in any 180-day period, pay easily by contactless card in euros, and get around via France's excellent train and metro network — just confirm the latest visa/ETIAS status before you fly, since EU border rules are actively changing in 2026.
 
 ## Visa & entry

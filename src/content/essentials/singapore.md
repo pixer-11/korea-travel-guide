@@ -6,8 +6,6 @@ lastReviewed: 2026-08-01
 draft: false
 ---
 
-Now I have enough information to compose the comprehensive guide.
-
 **Quick answer:** Most Western passport holders can enter Singapore visa-free for up to 30–90 days but must submit a free digital SG Arrival Card (SGAC) within 3 days of arrival; getting around is easiest by tapping a contactless bank card or phone on the world-class MRT/bus network, and the driest, most comfortable months to visit are February–April.
 
 ## Visa & entry

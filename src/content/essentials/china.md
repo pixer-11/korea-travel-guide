@@ -6,8 +6,6 @@ lastReviewed: 2026-08-01
 draft: false
 ---
 
-Now I have enough information to write the comprehensive guide.
-
 **Quick answer:** Most visitors from 50 countries (including the UK, Canada, Australia, and EU nations) can enter mainland China visa-free for up to 30 days through December 31, 2026, while US citizens still need a visa unless transiting; plan around China's near-cashless payment system (Alipay/WeChat Pay) and target spring (April–May) or autumn (September–October) for the best weather.
 
 ## Visa & entry

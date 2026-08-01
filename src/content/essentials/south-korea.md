@@ -6,8 +6,6 @@ lastReviewed: 2026-08-01
 draft: false
 ---
 
-Now I have sufficient research to compose the guide.
-
 **Quick answer:** Most Western, EU, and other visa-waiver passport holders can enter South Korea visa-free for short tourist stays through the K-ETA exemption running to December 31, 2026 (still requiring a digital e-Arrival Card), pay for everything with a T-money transit card and a contactless credit card, and the best weather windows are spring (March–May) and autumn (September–November).
 
 ## Visa & entry

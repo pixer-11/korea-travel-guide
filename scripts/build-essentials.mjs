@@ -82,6 +82,14 @@ async function main() {
       let body = await research(c.name);
       // strip an accidental leading markdown fence
       body = body.replace(/^```(markdown)?\n/i, '').replace(/\n```\s*$/i, '').trim();
+      // A web-search run interleaves the model's working notes between tool
+      // calls — "Now I have enough information to write the guide." — and
+      // joining every text block published them: 29 of these meta-sentences
+      // shipped across five languages (2026-08-01). The guide proper always
+      // opens with the required Quick answer line; everything before it is
+      // the model talking to itself, not the guide.
+      const qa = body.search(/\*\*Quick answer:?\*\*/i);
+      if (qa > 0) body = body.slice(qa).trim();
       // Completeness gate: a guide missing any of the 6 required sections (usually
       // from truncation) must NOT ship — the topic hubs deep-link to these anchors,
       // and a half-written essentials page is worse than none on a young domain.

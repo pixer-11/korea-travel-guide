@@ -5,8 +5,6 @@ title: 'Guía esencial para viajar a China: visado, transporte y más'
 description: 'Todo lo que debes saber antes de viajar a China: visado y entrada actualizados, cómo moverte por el país, dinero, mejor época para visitar y números de emergencia, con fuentes oficiales.'
 ---
 
-Ya contamos con información suficiente para elaborar esta guía completa.
-
 **Respuesta rápida:** la mayoría de los visitantes de 50 países (incluidos el Reino Unido, Canadá, Australia y los países de la UE) pueden entrar en la China continental sin visado durante un máximo de 30 días hasta el 31 de diciembre de 2026, mientras que los ciudadanos estadounidenses todavía necesitan visado salvo que estén en tránsito; conviene organizar el viaje teniendo en cuenta el sistema de pagos casi sin efectivo de China (Alipay/WeChat Pay) y elegir la primavera (abril-mayo) o el otoño (septiembre-octubre) para disfrutar del mejor clima.
 
 ## Visado y entrada

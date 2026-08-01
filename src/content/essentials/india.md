@@ -6,8 +6,6 @@ lastReviewed: 2026-08-01
 draft: false
 ---
 
-Now I have enough information to write the guide.
-
 **Quick answer:** Most nationalities need an e-Visa/ETA arranged online before arrival, India's roads/rail/metro are extensive but chaotic, cash plus UPI/cards work well, October–March is the most comfortable season, and 112 is the single national emergency number.
 
 ## Visa & entry

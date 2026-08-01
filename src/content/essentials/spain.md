@@ -6,8 +6,6 @@ lastReviewed: 2026-08-01
 draft: false
 ---
 
-I now have enough information to write the comprehensive guide.
-
 **Quick answer:** Most Western passport holders can visit Spain visa-free for up to 90 days in any 180-day period, but from 2026 an online ETIAS authorization is being phased in for visa-exempt travelers — always verify current requirements before you fly; getting around is easy with an extensive metro/rail network, cards are widely accepted but keep some euros handy, and the universal emergency number is 112.
 
 ## Visa & entry

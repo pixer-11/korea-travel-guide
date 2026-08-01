@@ -5,8 +5,6 @@ title: 'Lo esencial para viajar a Singapur: visado, transporte y más'
 description: 'Todo lo que debes saber antes de viajar a Singapur: visado y requisitos de entrada actuales, cómo moverte, dinero, la mejor época para visitar y números de emergencia, con fuentes oficiales.'
 ---
 
-Ya contamos con la información necesaria para elaborar la guía completa.
-
 **Respuesta rápida:** La mayoría de los titulares de pasaportes occidentales pueden entrar a Singapur sin visado durante un período de entre 30 y 90 días, pero deben presentar la tarjeta digital gratuita SG Arrival Card (SGAC) dentro de los 3 días previos a la llegada; moverse por la ciudad es sencillísimo con solo acercar una tarjeta bancaria sin contacto o el teléfono a los lectores de la red de MRT/autobuses de primer nivel, y los meses más secos y agradables para visitar son de febrero a abril.
 
 ## Visado y entrada

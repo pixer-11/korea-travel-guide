@@ -5,8 +5,6 @@ title: 'Guía de viaje esencial para Indonesia: Visado, transporte y más'
 description: 'Todo lo que debes saber antes de viajar a Indonesia: visado y requisitos de entrada vigentes, cómo moverte, dinero, la mejor época para viajar y números de emergencia, con fuentes oficiales.'
 ---
 
-Ahora cuento con suficiente información para escribir la guía completa.
-
 # Guía de viaje a Indonesia: lo que debes saber antes de ir (2026)
 
 **Respuesta rápida:** La mayoría de las nacionalidades necesitan una Visa on Arrival (visado a la llegada) de pago (IDR 500.000, \~US$35, válida por 30 días, prorrogable una vez) o un e-Visa, mientras que solo una decena de países (en su mayoría de la ASEAN) obtienen entrada sin visado por 30 días; verifica siempre las condiciones para tu nacionalidad específica en el portal oficial de e-Visa de Inmigración antes de volar. Lleva una combinación de efectivo en rupias y una tarjeta de débito/crédito habilitada internacionalmente, marca el 112 para cualquier emergencia, y planea tu viaje para la temporada seca de mayo a septiembre, que ofrece el mejor clima en la mayor parte del archipiélago.

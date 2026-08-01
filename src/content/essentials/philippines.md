@@ -6,8 +6,6 @@ lastReviewed: 2026-08-01
 draft: false
 ---
 
-Now I have current rate confirmation (~₱61/USD as of late July 2026). I have sufficient information to write the guide.
-
 **Quick answer:** Most Western, ASEAN, and 150+ other nationalities can enter the Philippines visa-free for up to 30 days with a valid return ticket and 6-month passport validity, but rules vary by nationality and change often—always verify with the Bureau of Immigration before you fly.
 
 ## Visa & entry

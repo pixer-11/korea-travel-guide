@@ -6,8 +6,6 @@ lastReviewed: 2026-08-01
 draft: false
 ---
 
-I have enough information now to write the guide.Now I have enough to write the complete guide.
-
 **Quick answer:** Most visitors — GCC nationals, plus 70+ other nationalities — can enter the UAE without a pre-arranged visa (visa-free or free visa-on-arrival for 14, 30, or 90 days), pay in UAE Dirhams (AED) with widely accepted cards, get around Dubai/Abu Dhabi cheaply via metro/bus and a rechargeable Nol/Hafilat-style card, and can reach police, ambulance, or fire services instantly on 999, 998, and 997 — but always verify your specific visa category on the official ICP or GDRFA portals before you fly, since eligibility rules change often.
 
 ## Visa & entry
@@ -15,7 +13,7 @@ I have enough information now to write the guide.Now I have enough to write the 
 Entry requirements depend entirely on your passport, not on where you're flying into (Dubai, Abu Dhabi, or elsewhere). As of 2026, the broad categories are:
 
 - **GCC nationals** (Saudi Arabia, Kuwait, Bahrain, Oman, Qatar): national passport holders or identity card holders from Gulf Cooperation Council nations can cross UAE borders entirely free of visa requirements or specific duration caps.
-- **~49 nationalities** (including much of the EU, UK, US, Australia, Japan, and others): enjoy visa-free access to the country for up to 90 days within a 180-day rolling window.
+- **Around 49 nationalities** (including much of the EU, UK, US, Australia, Japan, and others): enjoy visa-free access to the country for up to 90 days within a 180-day rolling window.
 - **A wider group of 70+ countries overall** can enter without a pre-arranged visa: the United Arab Emirates has published its updated entry guidelines, confirming that citizens from at least 70 countries can enter the nation without a pre-arranged visa.
 - **Conditional visa-on-arrival (14 or 60 days)** for select nationalities such as India: the entry framework also features an expanded category that allows a 14-day or 60-day visa on arrival for select nationalities, requiring applicants to hold a valid residence permit from an approved jurisdiction like the US, UK, EU, Canada, or Japan.
 - **Everyone else** (many African and Asian nationalities not covered above) generally needs to arrange an eVisa before travel through an authorized agent or airline.

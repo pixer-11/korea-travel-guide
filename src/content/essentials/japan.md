@@ -6,8 +6,6 @@ lastReviewed: 2026-08-01
 draft: false
 ---
 
-Now I have enough information to write the comprehensive guide.
-
 **Quick answer:** Most Western passport holders can visit Japan visa-free for up to 90 days using just a passport and the Visit Japan Web portal, get around easily with an IC card (Suica/Pasmo) and/or Japan Rail Pass, and should carry some cash alongside a no-foreign-fee card — but always double-check current rules on official sites before you fly, since Japan's entry system is changing (a new ETA called JESTA is coming, though not yet required).
 
 ## Visa & entry

@@ -6,8 +6,6 @@ lastReviewed: 2026-08-01
 draft: false
 ---
 
-Now I have sufficient information to write the comprehensive guide.
-
 ---
 
 **Quick answer:** Most Western passport holders can enter Taiwan visa-free for up to 90 days by completing the mandatory online Taiwan Arrival Card (TWAC) before landing; get around cheaply with an EasyCard, pay mostly in New Taiwan Dollars (cash still matters), and aim for October–April to dodge the worst of typhoon season — but always double-check your specific nationality's rules on the official BOCA/immigration sites before you fly.

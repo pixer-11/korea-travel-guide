@@ -5,8 +5,6 @@ title: 'Guía esencial de viaje a Corea del Sur: visa, transporte y más'
 description: 'Todo lo que debes saber antes de viajar a Corea del Sur: visa y requisitos de entrada actuales, cómo moverte, dinero, la mejor época para viajar y números de emergencia, con fuentes oficiales.'
 ---
 
-Ahora cuento con suficiente investigación para elaborar la guía.
-
 **Respuesta rápida:** la mayoría de los titulares de pasaportes occidentales, de la UE y de otros países exentos de visa pueden ingresar a Corea del Sur sin visa para estadías turísticas cortas gracias a la exención de K-ETA vigente hasta el 31 de diciembre de 2026 (aunque igual deben completar la tarjeta digital e-Arrival Card), pagar todo con una tarjeta de transporte T-money y una tarjeta de crédito sin contacto, y las mejores ventanas climáticas son la primavera (marzo–mayo) y el otoño (septiembre–noviembre).
 
 ## Visa y entrada

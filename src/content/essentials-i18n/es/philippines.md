@@ -5,8 +5,6 @@ title: 'Lo esencial para viajar a Filipinas: visado, transporte y más'
 description: 'Lo que debes saber antes de viajar a Filipinas: requisitos de visado y entrada vigentes, cómo moverte, dinero, mejor época para viajar y números de emergencia, con fuentes oficiales.'
 ---
 
-Ahora cuento con la confirmación del tipo de cambio actual (\~₱61/USD a finales de julio de 2026). Tengo información suficiente para redactar esta guía.
-
 **Respuesta rápida:** La mayoría de los ciudadanos de países occidentales, de la ASEAN y de más de 150 nacionalidades pueden entrar a Filipinas sin visado por hasta 30 días con un billete de regreso válido y pasaporte con 6 meses de vigencia, pero las normas varían según la nacionalidad y cambian con frecuencia; verifica siempre con la Oficina de Inmigración (Bureau of Immigration) antes de volar.
 
 ## Visado y entrada
