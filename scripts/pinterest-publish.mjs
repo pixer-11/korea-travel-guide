@@ -159,6 +159,18 @@ async function main() {
   const state = await loadState();
   const today = new Date().toISOString().slice(0, 10);
 
+  // New-account ramp (owner-approved 2026-08-02): Pinterest's spam systems
+  // watch a fresh account's pin RATE, and the community-measured safe pattern
+  // is a handful a day growing over weeks — accounts that start blasting on
+  // day one of API access get suspended. The workflow runs twice a day
+  // (morning/evening KST), so the per-run cap is half the daily budget,
+  // derived from how many pins this account has ever made: 2/day until 14,
+  // then 4/day, 6/day, and only past 80 pins the full 8. An explicit
+  // PINS_PER_RUN env (manual dispatch) still overrides.
+  const everPinned = Object.keys(state.pinned || {}).length;
+  const rampPerRun = everPinned < 14 ? 1 : everPinned < 40 ? 2 : everPinned < 80 ? 3 : 4;
+  const perRun = process.env.PINS_PER_RUN ? PINS_PER_RUN : rampPerRun;
+
   const files = (await readdir(POSTS_DIR)).filter((f) => f.endsWith('.md'));
   const posts = [];
   for (const f of files) {
@@ -173,7 +185,7 @@ async function main() {
     } catch {}
   }
   posts.sort((a, b) => String(b.pubDate).localeCompare(String(a.pubDate)));
-  const batch = posts.slice(0, PINS_PER_RUN);
+  const batch = posts.slice(0, perRun);
 
   console.log(`\n📌 Pinterest — ${posts.length} unpinned post(s), pinning ${batch.length} this run${DRY ? ' (DRY)' : ''}\n`);
 

@@ -5,13 +5,17 @@ name: Pinterest auto-pin
 # same night. Does nothing (green no-op) until PINTEREST_ACCESS_TOKEN is set.
 on:
   schedule:
+    # Two spaced runs instead of one morning blast: Pinterest's spam systems
+    # dislike a fresh account posting its whole day in one minute. The script
+    # halves the daily budget per run and ramps it by account age (see
+    # pinterest-publish.mjs) — 2/day until 14 pins ever, then 4, 6, 8.
     - cron: '35 23 * * *' # 23:35 UTC = 08:35 KST (off the hour — GitHub drops :00 crons)
+    - cron: '35 11 * * *' # 11:35 UTC = 20:35 KST evening drip
   workflow_dispatch:
     inputs:
       count:
-        description: 'How many pins this run (daily auto uses 8)'
+        description: 'Pins this run (blank = auto ramp by account age)'
         required: false
-        default: '8'
 
 permissions:
   contents: write
@@ -52,7 +56,9 @@ jobs:
         env:
           PINTEREST_ACCESS_TOKEN: ${{ secrets.PINTEREST_ACCESS_TOKEN }}
           PINTEREST_APP_SECRET: ${{ secrets.PINTEREST_APP_SECRET }}
-          PINS_PER_RUN: ${{ github.event.inputs.count || '8' }}
+          # Only a MANUAL count overrides the script's new-account ramp — the
+          # old `|| '8'` default forced every scheduled run to the max.
+          PINS_PER_RUN: ${{ github.event.inputs.count || '' }}
         run: |
           set -o pipefail
           node scripts/pinterest-publish.mjs | tee /tmp/pins.log
