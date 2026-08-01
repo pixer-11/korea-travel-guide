@@ -61,4 +61,9 @@ const itineraryUrl = new URL(Astro.url.pathname, Astro.site ?? 'https://wanderat
   }
   .itin-email :global(.nl-note) { font-size: 0.88rem; margin: 0.6rem 0 0; }
   .itin-email :global(.nl-note-ok) { color: var(--accent-text); font-weight: 600; }
+  /* global.css styles .nl-form .btn-primary WHITE for the dark newsletter
+     band; on this cream card that reads as a ghost button, so restore the
+     accent fill. */
+  .itin-email-form :global(.btn-primary) { background: var(--accent); color: #fff; border-radius: var(--r-pill, 999px); }
+  .itin-email-form :global(.btn-primary:hover) { background: var(--accent-deep); color: #fff; }
 </style>
