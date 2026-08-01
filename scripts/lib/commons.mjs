@@ -90,6 +90,12 @@ const namesSubjectNotVantage = (title, subject) => {
   const needed = sig.length <= 2 ? sig.length : Math.ceil(sig.length * 0.6);
   if (matched < needed) return false;
 
+  // A viewpoint inverts the vantage rule: "View from Khao Rang" is not a
+  // mis-captioned photo of something else, it is the subject itself — the
+  // panorama is what visitors climb up for. Without this, every correctly
+  // titled photo of a viewpoint's view was filtered before vision ever saw it.
+  if (/\b(viewpoint|view\s?point|overlook|observation|lookout|skywalk)\b/i.test(subject)) return true;
+
   // Where the subject is first mentioned; everything before it decides whether
   // the photo is OF the place or merely taken FROM it.
   const first = words[0];

@@ -153,7 +153,12 @@ export async function verifyHeroImage({ url, name, category, region, country, ev
               // notice, and its hero was the skyline photographed from under the
               // sculpture — all three passed a gate that only asked "is this
               // about the right place?", which they were.
-              `REJECT a photo taken FROM this place rather than OF it: if the landmark is where the camera stood and is not itself in the frame, it is the wrong picture however correctly it is captioned.\n` +
+              `REJECT a photo taken FROM this place rather than OF it: if the landmark is where the camera stood and is not itself in the frame, it is the wrong picture however correctly it is captioned. ` +
+              // A VIEWPOINT inverts that rule: nobody photographs the platform,
+              // they photograph the view — the very photos this clause was
+              // rejecting nightly for Khao Rang until the post faced retirement
+              // over a subject with plenty of real pictures.
+              `EXCEPTION: if the subject IS a viewpoint, observation deck or scenic overlook, the panorama seen FROM it is what visitors come for — a photo of that view, consistent with this locale, is a CORRECT hero.\n` +
               `REJECT the place in a state a visitor will not see: under construction, scaffolded, being restored, closed off, or before it was finished.\n` +
               `REJECT a photograph OF A SIGN, notice, plaque, map, poster, banner or screen — text about the place is not a picture of it, however clearly it names it.\n` +
               // Re-audit is the OPPOSITE bar. "When unsure, REJECT" is right for
