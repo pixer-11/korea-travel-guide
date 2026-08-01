@@ -2,68 +2,77 @@
 country: "South Korea"
 title: "South Korea Travel Essentials: Visa, Transport & More"
 description: "Know before you go to South Korea — current visa & entry, getting around, money, best time to visit, and emergency numbers, with official sources."
-lastReviewed: 2026-07-23
+lastReviewed: 2026-08-01
 draft: false
 ---
 
-Now I have all needed information to write the guide.
+Now I have sufficient research to compose the guide.
 
-**Quick answer:** Most tourists (US, Canada, UK, EU, Australia, etc.) can currently enter South Korea visa-free for up to 90 days without needing a K-ETA thanks to a waiver running through December 31, 2026, but you must complete a free online e-Arrival Card, and everyone should double-check requirements for their specific nationality before flying.
+**Quick answer:** Most Western, EU, and other visa-waiver passport holders can enter South Korea visa-free for short tourist stays through the K-ETA exemption running to December 31, 2026 (still requiring a digital e-Arrival Card), pay for everything with a T-money transit card and a contactless credit card, and the best weather windows are spring (March–May) and autumn (September–November).
 
 ## Visa & entry
 
-South Korea's entry rules have been unusually fluid, so treat everything below as a starting point, not a guarantee, and verify on the official portals listed at the end of this guide before you book.
+As of 2026, the K-ETA requirement applies to passport holders from more than 112 visa-waiver countries and regions, but South Korea has extended a temporary exemption for 67 countries through December 31, 2026, meaning travelers from those nations do not currently need to apply. This temporary K-ETA exemption covers citizens of 67 countries, including the United States, Canada, Australia, New Zealand, and Singapore. The Ministry of Justice of the Republic of Korea has extended the temporary exemption from the Korea Electronic Travel Authorization (K-ETA) requirement for eligible foreign nationals until December 31, 2026, to support inbound tourism and simplify entry procedures.
 
-As of mid-2026, South Korea has extended its K-ETA waiver until 31 December 2026, meaning nationals of 67 countries and territories — including all six GCC states — can continue entering Korea without applying for a Korea Electronic Travel Authorization. Importantly, the waiver does not change the visa-free stay period — it only waives the K-ETA application. Maximum stay depends on your nationality: 30 days for Saudi nationals, 90 days for UAE nationals, and 90 days for most EU countries and the US. This exemption is genuinely temporary — the current waiver is explicitly temporary and ends on 31 December 2026. Travel before that date to take advantage of the current rules; from 2027 onward, the K-ETA may once again be required.
+Even if you're exempt from K-ETA, you're not exempt from paperwork: any foreign travelers not subject to the K-ETA application process are required to submit an e-Arrival card within three days (including the day of arrival) before their arrival in South Korea, an online entry declaration form replacing the former paper Arrival card. A K-ETA is a long-term authorization valid for three years that exempts you from the e-Arrival card each trip, while the e-Arrival Card is a trip-specific digital form mandatory for all travelers who don't have a K-ETA, including children and seniors.
 
-Even if you're exempt from K-ETA, don't skip the arrival paperwork: the e-Arrival Card is a mandatory online entry declaration that replaces the paper arrival card. It is completely free and submitted via e-arrivalcard.go.kr within 72 hours (three days) before you arrive in Korea. If you're transiting through Incheon without leaving the airport, passengers transiting without clearing Korean immigration don't need a K-ETA or e-Arrival Card.
+If your country isn't on the exemption list, you'll still need to apply online in advance: submit your K-ETA application at least 72 hours before departure, and during peak travel periods consider applying earlier since last-minute submissions can still lead to unexpected hold-ups. Note that K-ETA/exemption rules only cover short-term tourism, business meetings, family visits, and transit — it does not permit employment, long-term study, or permanent residence; for those purposes you need a traditional visa issued by a Korean embassy or consulate.
 
-If your nationality isn't on the exempt list, the standard K-ETA process still applies: processing takes up to 72 hours, and approval allows multiple entries with stays up to 90 days per visit. The fee is modest — the K-ETA application remains subject to an administrative fee of 10,000 ₩ (approximately US$8), which is non-refundable. Beware of scam sites — K-ETA application is available only at "www.k-eta.go.kr" or the mobile app (K-ETA), so be careful of similar agencies/phishing sites that charge high fees under the pretext of providing K-ETA application agency services.
-
-**Bottom line:** confirm your specific country's status, stay length, and any recent changes directly on the official K-ETA portal and your nearest Korean embassy site — policy could shift again heading into 2027.
+**Because exemptions, fees, and deadlines are actively changing (this exemption itself is only guaranteed through the end of 2026), always confirm your specific requirement on the official K-ETA portal and Korea Immigration Service site before booking flights.**
 
 ## Getting around
 
-Seoul and most major cities run on excellent, cheap public transit, and the single most useful purchase you'll make is a transit card. If you remember just one thing about transit in Seoul, make it this: get a T-money card on day one — the little plastic transit card works on every subway, every bus, in most taxis, in convenience stores, in vending machines, on the AREX airport express, and even in some cafés. It's genuinely nationwide: across all of South Korea, subways, buses, and taxis in Busan, Daegu, Incheon, Gwangju, and Jeju accept T-money.
+The workhorse of Korean travel is the **T-money card**, a rechargeable transit card. T-money is Korea's universal prepaid transit card — a single tap pays for the subway, city buses, intercity buses, most taxis, and many convenience store purchases across the country, including Busan, Daegu, Daejeon, Gwangju, and Jeju. GS25, CU, 7-Eleven, and Emart24 convenience stores stock the cards, as do ticket vending machines inside subway stations and tourist information centers, including at Incheon International Airport. Seoul subway base fare with T-money runs about 1,400 KRW, with a free transfer between subway and bus within 30 minutes.
 
-Cards are sold everywhere and cost very little: tourists can easily purchase a T-Money card in several places, and it usually costs around ₩3,000 to ₩10,000. Fares themselves are inexpensive — base subway fare for adults sits at 1,550 won with a transit card, slightly less than buying a single-journey ticket at the gate. Leftover balance is refundable: you can visit a GS25 or CU for refunds up to ₩20,000 (with a ₩500 fee).
+Note one important gap: T-money works on city subways and buses in Seoul, Busan, Daegu, Gwangju, Daejeon, Incheon and Jeju, plus the AREX all-stop airport train and most taxis, but it doesn't cover the KTX and SRT high-speed intercity trains or the AREX express — book those separately.
 
-If you'll be riding heavily within Seoul for a few days, consider the tourist-oriented Climate Card instead: new for 2026, short-term passes are available for tourists — 1-day (₩5,000), 3-day (₩10,000), or 5-day (₩15,000) — offering unlimited rides on Seoul subways and buses. Sightseers who plan to hit lots of paid attractions may prefer the Discover Seoul Pass, which lets you explore Seoul's tourist attractions with special discounts and gain free admission to over 50 major tourist destinations, including palaces and museums, and it doubles as a transit card.
+For short Seoul-focused trips, tourists now have an alternative: the Climate Card (Giho Card) offers short-term tourist variants (1-day, 3-day, 5-day) available at major tourist information centers and Seoul Station, priced between roughly 5,000 and 15,000 KRW depending on duration. Payment technology is also modernizing quickly: Seoul subway kiosks began accepting foreign credit and debit cards for T-money purchase and recharge on March 17, 2026, and iPhone users can add mobile T-money to Apple Wallet and top it up with a foreign Mastercard, Amex, or UnionPay card.
 
-Card payments are getting easier too: since March 17, 2026, Seoul Metro has installed 440 new kiosks across 273 stations on Lines 1–8 that accept Visa, Mastercard, JCB, UnionPay, and Amex for buying or topping up T-money. For inter-city travel, the KTX high-speed rail links Seoul to Busan, Daegu, and other major cities in a few hours, and Incheon Airport connects to Seoul via the AREX express train. Naver Map and KakaoMap are the two apps locals actually use for routing — Google Maps' transit directions are unreliable in Korea.
+For navigation, don't rely on Google Maps: due to strict local regulations, Google Maps cannot provide walking or transit directions in Korea, so you must download Naver Map or KakaoMap before you land.
 
 ## Money & costs
 
-Korea uses the won (₩, KRW). In mid-2026 it trades at roughly 1,450–1,530 won to one US dollar, and banknotes come in 1,000, 5,000, 10,000 and 50,000 won, with coins in 10, 50, 100 and 500 won. A simple mental shortcut: at around 1,400–1,500 to the dollar, just knock three zeros off a price and it's roughly the same number in US dollars (₩10,000 ≈ US$7).
+Korea uses the won (₩, KRW), with banknotes in 1,000, 5,000, 10,000 and 50,000 won denominations, and coins in 10, 50, 100 and 500 won. In mid-2026 it trades at roughly 1,450–1,530 won to one US dollar, but rates move, so check a converter near your trip.
 
-Korea is card-friendly but not fully cashless: it's one of the most cashless-friendly countries in the world, but navigating payment options as a foreigner can be confusing — credit cards being the most popular payment method. Still, carry some cash for markets, small eateries, and T-money top-ups. A reasonable starting float is around 50,000 to 100,000 KRW in cash; if you're staying mainly in Seoul and using cards, 50,000 KRW may be enough to begin.
+South Korea is heavily a cashless society — you can use international credit and debit cards (Visa, Mastercard, and American Express) at roughly 95% of establishments, from high-end hotels and department stores to tiny corner cafes and convenience stores. Still, keep some cash on hand: physical cards are still highly recommended, as many local mom-and-pop restaurants do not have NFC terminals. Most guides suggest 50,000–100,000 won in cash is plenty for a short trip.
 
-For ATMs, look for machines marked "Global": a 'Global' ATM in Korea has an English menu and Visa/Mastercard logos for use with a foreign card. Withdrawal limits are moderate — Korea ATM limits vary, but they're usually between 400,000 and 1,000,000 KRW per withdrawal. Always decline "dynamic currency conversion" at the machine: always choose KRW, because if you select your home currency, the ATM applies Dynamic Currency Conversion, which gives you a poor exchange rate with extra fees.
+For ATMs, KB Bank & Woori ATMs are known to charge lower withdrawal fees, and it's important to choose a fee-free card since bank cards typically charge a 2-3% fee for foreign transactions and a 2-8% fee for ATM withdrawals. Always follow this golden rule at the machine or terminal: always choose KRW — if you select your home currency, the ATM applies Dynamic Currency Conversion (DCC), which gives you a poor exchange rate with extra fees. Also double-check your PIN format beforehand: Korean machines only accept four-digit PINs — contact your bank one to three business days before departure and switch to a four-digit PIN if needed.
 
-Don't expect to use Korean mobile wallets: Apple Pay, Samsung Pay, and Korean wallet apps generally don't work for tourists — Naver Pay, Kakao Pay and Toss require a Korean bank account and phone number, so short-term visitors generally can't use them, and Samsung Pay usually needs a Korean card. Prepaid tourist cards like WOWPASS have become popular workarounds, as it's a prepaid card that combines currency exchange, store payments, and a built-in T-money transit chip — all on one card.
-
-Shopping tourists can also claim money back: tourists staying under six months can reclaim most of the 10% VAT — a net 5–8% — on purchases of ₩15,000 or more per store, showing your passport at "Tax Free" logo shops for an immediate refund, or claiming at the airport otherwise. For exchange, avoid the airport counters: currency exchange counters at Incheon Airport have the worst exchange rates, while private exchange booths in the alleys of Myeongdong offer the absolute best rates in the country.
+Popular Korean mobile wallets won't help visitors: Korean apps like Naver Pay, Kakao Pay and Toss need a Korean bank account and phone number, so short-term visitors generally can't use them, and Samsung Pay usually needs a Korean card. A tourist-oriented alternative is WOWPASS, which lets you load with foreign currency at kiosks, offers better exchange rates than money changers, and requires no Korean bank account.
 
 ## Best time to visit
 
-South Korea has four distinct seasons, and the shoulder seasons are generally best for sightseeing. Spring (late March–April) brings mild temperatures and cherry blossoms, while autumn (October–November) offers crisp, dry weather and vivid foliage — both are peak tourist periods, so book accommodation early. Summer (July–August) is hot, humid, and coincides with the monsoon (jangma) rainy season, along with peak domestic holiday travel; typhoon risk also rises in late summer. Winter (December–February) is cold and dry, especially in the north and inland, but is popular for skiing and winter festivals, and major cities handle snow well. If you dislike heat and crowds, plan around April–May or late September–November.
+The best times to visit South Korea with pleasant weather are spring (March–May) for cherry blossoms and fall (September–November) for colorful foliage. Both periods have mild temperatures with an average range of around 10–16°C (50–61°F), with more clear days than summer or winter. October is widely regarded as the single best month to visit, thanks to fall foliage and mild temperatures.
+
+Be aware these are also the busiest and priciest windows: in the high season you can expect higher rates for flights and hotels, though spring and fall offer the most temperate climate, perfect for exploring without extreme weather conditions.
+
+Summer is hot, humid, and rainy: summers in South Korea can be incredibly hot and humid, with temperatures in the 80s (Fahrenheit) and humidity around 90–100% during July and August, plus the country receives its maximum rainfall during this period. Winter brings its own extremes: January is the coldest month of the year, with temperatures in Seoul sometimes dropping below -10°C (14°F) and occasionally falling below -15°C (5°F) — though it does mean the lowest prices and thinnest crowds.
+
+Also plan around Korea's biggest domestic holiday: the Chuseok harvest festival, similar to Thanksgiving, falls in late September or early October and brings families together nationwide — trains, flights, and hotels get booked out fast around this week.
 
 ## Emergencies & safety
 
-Korea's emergency system splits services differently than in many countries, which can trip up first-time visitors. Call 112 for police emergencies and 119 for fire, ambulance, or rescue help. Both work well for foreigners: contact the police at 112 or emergency medical help at 119, and if you ask for an ambulance in English, one will be sent to your location. Location tracking is automatic — you can dial 119 from anywhere in Korea, and your location will be automatically identified.
+South Korea uses a **split emergency number system**, unlike the single 911-style number many visitors are used to:
 
-For non-urgent medical questions or health information, use a different number: 1339 is for non-emergency medical help. For general tourist help, translation, or travel problems, 1330 also acts as a tourist hotline where you can get information about tourist attractions, transportation, and restaurants, and English-speaking operators are available. If you don't speak Korean during a 112/119 call, don't hang up — stay on the line, speak slowly, and repeat the most important information; operators can loop in interpretation support.
+- **112 — Police** (crime, theft, assault, missing persons, immediate danger). Call 112 when a crime is happening, someone attacks, threatens, or follows you, something is stolen, you experience sexual or domestic violence, someone is missing, or you are in immediate danger.
+- **119 — Fire, ambulance & rescue**. Contact emergency medical help at 119 — if you ask for an ambulance in English, one will be sent to your location. You can dial 119 from anywhere in Korea, and your location will be automatically identified.
+- **1339 — Non-emergency medical/disease info.** 1339 covers infectious-disease information, not ambulances.
+- **1330 — 24/7 tourist hotline & interpretation.** English-speaking operators are on the line to help, 24/7, and this line can also three-way translate for you if a 112/119 operator doesn't speak English.
+- **1345 — Immigration Contact Center** for visa, residency, and foreign-worker questions.
 
-Other useful numbers include 1345 for foreign language/immigration services, 122 for the coast guard, and 182 for the missing person helpline. Overall, Korea is considered very safe: it can feel relatively safe, especially in busy urban areas like Seoul, with streets often active late at night, widely used public transportation, and convenience stores, cafés, and CCTV cameras common in many neighborhoods. Still, standard precautions apply — petty theft, natural hazards (typhoons, occasional earthquakes), and road safety near traffic all warrant normal vigilance. Save 112 and 119 in your phone before you land, and keep your hotel/accommodation address written in Korean for emergencies.
+Language is rarely a real barrier in an emergency: 119 provides English support — say "English, please" when the operator answers, and you'll be connected to a translator from Korea National Tourist Organisation via three-way call, with the service completely free, including ambulance service, and available 24/7. Practical advice for any emergency call: even if your phone is locked you can press 119 via the 'Emergency Call' option, immediately say "Hello, English please" or "Ambulance please," and while the 119 system can track your real-time location via cell towers, stating the name of a nearby major building or subway station exit number will help responders reach you faster.
+
+Generally, South Korea is considered a very safe country for tourists, with low violent crime rates; standard precautions (watch belongings on transit, be street-smart at night in nightlife districts) are usually sufficient.
 
 ## Official sources
 
-- [Official K-ETA Portal (Korea Immigration Service / Ministry of Justice)](https://www.k-eta.go.kr/)
-- [e-Arrival Card Official Portal](https://www.e-arrivalcard.go.kr/)
-- [Korea Immigration Service — Hi Korea](https://www.hikorea.go.kr/)
-- [Ministry of Foreign Affairs, Republic of Korea](https://www.mofa.go.kr/eng/)
-- [Korea Tourism Organization — Visit Korea](https://english.visitkorea.or.kr/)
-- [Seoul Metro / Seoul Metropolitan Government transport info](https://www.seoulmetro.co.kr/en/)
-- [Korail (national rail incl. KTX)](https://www.letskorail.com/)
-- [T-money official site](https://www.t-money.co.kr/)
-- [Safe Korea (National Disaster & Safety, emergency info)](https://www.safekorea.go.kr/)
+- [Korea Immigration Service (Ministry of Justice / HiKorea)](https://www.hikorea.go.kr)
+- [K-ETA Official Application Portal](https://www.k-eta.go.kr)
+- [e-Arrival Card Official Portal](https://www.e-arrivalcard.go.kr)
+- [Korea Tourism Organization – Visit Korea](https://english.visitkorea.or.kr)
+- [Official Seoul City Tourism Guide](https://english.visitseoul.net)
+- [Seoul Metro (subway network)](http://www.seoulmetro.co.kr/en/)
+- [T-money official site](https://www.tmoney.co.kr)
+- [Korail (national rail / KTX)](https://www.letskorail.com)
+- [Korea National Police Agency – 112](https://www.police.go.kr)
+- [Ministry of Foreign Affairs, Republic of Korea](https://www.mofa.go.kr)

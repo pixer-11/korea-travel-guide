@@ -2,65 +2,70 @@
 country: "Italy"
 title: "Italy Travel Essentials: Visa, Transport & More"
 description: "Know before you go to Italy — current visa & entry, getting around, money, best time to visit, and emergency numbers, with official sources."
-lastReviewed: 2026-07-23
+lastReviewed: 2026-08-01
 draft: false
 ---
 
-Now I have enough information to write the comprehensive guide.
-
-**Quick answer:** Italy uses the euro, is part of the Schengen Area, and most Western visitors (US/UK/Canada/Australia citizens, etc.) can currently enter visa-free for up to 90 days in a 180-day period—but an EU travel authorization (ETIAS) is set to launch in late 2026, so double-check requirements before you fly. Dial **112** for any emergency, and plan around trains for intercity travel and contactless cards for nearly everything.
+**Quick answer:** Most Western passport holders (US, UK, Canada, Australia, EU/Schengen nationals, etc.) can currently visit Italy visa-free for up to 90 days in any 180-day period, though the EU's new EES border-registration system is now fully live and the ETIAS pre-travel authorization is expected to start in late 2026 — so double-check official sources before you fly.
 
 ## Visa & entry
 
-Italy is a full member of the Schengen Area, so entry rules follow the EU's common Schengen policy. Citizens of the US, UK, Canada, Australia, New Zealand, Japan, and roughly 55 other visa-exempt countries can currently enter Italy for tourism or business for up to 90 days within any 180-day period without a visa, using a passport valid for at least three months beyond the planned departure date.
+Italy is a full member of the Schengen Area, and Italy entered the Schengen system in 1997, followed by the parallel and gradual abolition of internal border controls, achieving full freedom of movement throughout the Schengen countries. Citizens of roughly 60 visa-exempt countries (US, UK, Canada, Australia, New Zealand, Japan, and others) can enter for short stays of up to 90 days within any 180-day period without a visa. Nationals of countries not on the visa-waiver list need a "Uniform Schengen Visa," and the visa issued by Italian representations abroad allows access for transit or short stay of up to 90 days both in Italy and other Schengen Convention countries.
 
-The big change on the horizon is **ETIAS** (European Travel Information and Authorisation System). According to the official EU travel portal, ETIAS will start operations in the last quarter of 2026, and no action is required from travellers at this point. Once live, it will authorise multi-entry stays of up to 90 days per 180-day rolling window for tourism, business, transit, or short-term study, and the guide explains the €20 ETIAS fee (waived for under-18s and over-70s). Importantly, the transitional period means you can enter without ETIAS for at least 6 months after launch, as long as you meet all other entry requirements, with full enforcement expected around April 2027. Be wary of third-party sites — any site offering ETIAS applications before the official launch is fraudulent.
+Two major EU border changes are underway and directly affect travelers in 2026:
 
-Separately, Italy (like the rest of the Schengen border) has also rolled out the **Entry/Exit System (EES)**, a biometric check-in replacing manual passport stamps at the border, so EES is now fully operational across Schengen external borders, and you may need to scan fingerprints and face at automated gates instead of getting a passport stamp.
+- **Entry/Exit System (EES):** A biometric system that replaces manual passport stamping for non-EU short-stay visitors. EES officially became fully operational on 10 April 2026, meaning the system is now live across participating European countries, although implementation at individual borders may still vary. Expect fingerprint and facial-image capture at first entry.
+- **ETIAS (European Travel Information and Authorisation System):** A pre-travel screening (like a US ESTA) that will eventually be required for visa-exempt travelers. As of mid-2026, it has **not yet launched**. The EU is looking to introduce ETIAS towards the end of 2026, however a date has not yet been confirmed and you cannot currently apply for an ETIAS. Some industry reporting even suggests further slippage: eu-LISA has reportedly concluded that a 2026 launch is no longer feasible, with one person describing launching this year as "illusory." The EU says no applications are being accepted yet and warns against using unofficial third-party websites while ETIAS remains unavailable.
 
-**Bottom line:** rules around ETIAS timing, fees, and enforcement can shift again (they've slipped multiple times before), so **always confirm current requirements** on the official EU ETIAS site and your home country's foreign affairs travel advisory shortly before you book and again before you fly. Non-visa-exempt nationals should apply for a Schengen (Type C) visa through the Italian consulate/embassy or authorized visa center in their country of residence well in advance.
+**Bottom line:** As of August 2026 you do not need ETIAS to visit Italy, and current visa-free/visa rules apply as normal. Because dates keep shifting, **always confirm the latest status directly on the official Italian Foreign Ministry visa portal and the EU's official travel-europe.europa.eu site before booking**, and never pay a third-party site claiming to issue ETIAS.
 
 ## Getting around
 
-Italy's train network is the backbone of intercity travel. On long distance routes the main train operators are Trenitalia, the national rail company, and Italo, a private high speed operator; at regional level, Trenitalia shares the network with several regional rail companies, and within cities the local transport authority runs metros, buses and trams under its own brand. The Frecciarossa is the fastest, reaching up to 300 km/h and connecting Rome, Florence, Bologna, Milan, Venice, Naples, and Turin, while Italo runs between the major cities on similar routes and can reach up to 360 km/h. Booking early pays off: the sweet spot for booking is roughly 90 to 120 days out for the lowest Super Economy fares.
+Italy's rail network is the backbone of intercity travel — high-speed Frecciarossa/Italo trains connect Rome, Florence, Milan, Naples and Venice in a few hours, while regional trains and buses reach smaller towns. Within cities, public transit is cheap and extensive:
 
-For regional trains bought online, don't skip the digital check-in step — you must check-in digitally on your mobile app for regional tickets purchased online, or you will face a 50 Euro fine on the spot.
-
-Within cities, tickets work differently than long-distance rail. Most Italian cities use integrated urban tickets that cover several modes of transport for a limited time, typically around 90 to 100 minutes from first validation, meaning a single ticket may allow you to take a bus, change to a tram and then the metro, as long as you stay within the time limit. A common mistake is thinking one city's ticket works elsewhere: a bus ticket for Rome won't work in Florence — always buy tickets specific to the city or route. Handy apps include Trenitalia (official) for all Trenitalia train services, Italo Treno (official) for high-speed services, and MooneyGo/MyCicero, useful for buying local bus/tram/metro tickets in many cities.
-
-Also watch for strikes: public transport strikes (scioperi) can happen — check local news or transport websites before major travel days, since taxis become scarce during them. If you're driving, note that Italian law requires you to stop in a safe place with hazard lights on, put on a hi-vis vest before exiting the vehicle, and place a warning triangle 50 m behind, and highway breakdowns can be reported via ACI Soccorso Stradale at 803.116 (from an Italian mobile or landline) or +39 06 491115 from abroad.
+- **Rome:** The Metro has three lines (A, B, C), with Line A and B most useful for tourists, connecting major attractions like the Colosseum, Vatican, Spanish Steps, and Termini Station, though it can get very crowded. Tickets include the BIT standard ticket (€1.50, valid 100 minutes on all public transport), Roma 24h/48h/72h day passes, and the CIS weekly pass. Visitors doing heavy sightseeing often buy the **Roma Pass**, which provides unlimited public transport for 48 or 72 hours (metro, tram, bus, ATAC urban rail), lets you skip lines at sites like the Colosseum, and includes free entry to two museums or archaeological sites of your choice.
+- **Milan:** The Metro is extensive and efficient, with 5 lines (M1–M5) connecting the Duomo, Central Station, the fashion district, and other key areas. A single urban ticket costs €2.20 (valid 90 minutes), with 24h/48h passes also available, though the system is zone-based so check your ticket covers your route.
+- **Taxis:** Only use official licensed cabs. In Rome, for example, fares start at €3 on weekdays between 6 a.m. and 10 p.m., €5 on Sundays and public holidays, and €7 from 10 p.m. until 6 a.m., and all taxis are legally required to have a card machine. Ride-hailing apps are limited — Uber isn't really widespread in Rome; it's technically legal, but drivers must be licensed professionals, so they're few and far between.
+- Always validate paper tickets at machines before boarding buses, trams, or the metro — inspectors issue on-the-spot fines for unvalidated tickets even if you paid.
 
 ## Money & costs
 
-Italy's currency is the euro (€). Contactless and chip cards are widely accepted in cities, hotels, larger shops, and most restaurants, though it's wise to carry some cash for small cafés, markets, rural areas, and local tourist taxes. Many municipalities charge accommodation guests a nightly tourist tax rather than one flat national fee: Italy does not have a single national tourist tax — most cities and tourist destinations charge visitors a local fee for overnight stays, usually ranging from €1 to €10 per person per night depending on the destination and accommodation type, with Rome, Venice, Florence, Milan and Naples all having their own rates and rules. In Rome, for instance, the tourist tax generally ranges from €3 to €10 per person, per night, depending on the accommodation category, with 5-star hotels around €10 per night and 3-star hotels around €6. Budget roughly €20–€100 per couple per week for these local taxes depending on where you stay.
+Italy uses the **euro (€)**. Cards are widely accepted in cities, hotels, and restaurants, but carrying some cash is wise for small cafés, markets, rural areas, and public toilets. Contactless payment (tap-to-pay and mobile wallets) is standard on public transit in major cities and increasingly required at metro turnstiles.
 
-Venice adds a separate day-tripper charge on top of its overnight tax: the Venice entry fee applies again from April to July 2026 and costs 10 euros, though booking up to four days before your visit drops it to just 5 euros per person, and it applies only to day-trippers — anyone staying overnight in Venice doesn't pay the access fee but still needs to register and get a free QR code. It's only charged on specific high-traffic dates, so check the official portal before you go.
-
-Tipping in Italy is not obligatory — restaurants often add a small "coperto" (cover charge) or service fee, and rounding up or leaving a few extra euros for good service is appreciated but not expected.
+- Withdraw cash from bank-affiliated ATMs (Bancomat) rather than standalone currency-exchange kiosks, which often charge excessive fees.
+- Notify your bank of travel dates or use a no-foreign-transaction-fee card to avoid surprise charges.
+- Many restaurants add a small "coperto" (cover charge) per person — this is normal and not a scam.
+- Tipping is not obligatory; rounding up or leaving a few euros for good service is appreciated but not expected, similar to taxi tipping norms.
+- Budget destinations like southern towns and smaller cities are generally cheaper than Rome, Venice, Milan, and the Amalfi Coast, where accommodation and dining command a premium, especially in peak season.
 
 ## Best time to visit
 
-Weather-wise, Italy is a country of microclimates, but there's broad agreement on the ideal windows. The nicest time to visit, in terms of weather and lack of crowds, is from April to May, and in September or October, offering a perfect balance of pleasant weather and fewer tourists. In central Italy, late spring (April to June) and early autumn (September to October) are ideal for Rome, with temperatures staying 17-27°C (63-81°F), while Venice is magical in April-May and September-October, with 15-25°C (59-77°F) temperatures and fewer crowds.
-
-Summer (July–August) is peak season with the biggest crowds and highest prices: if you're planning to visit popular areas, especially beach resorts, you should avoid July and especially August altogether, partly because in August the locals leave, so you won't see the authentic side of the city. For beach and coastal trips specifically, the May–September window works, but it can be uncomfortable to explore seaside villages and towns in peak summer, so aim for the shoulder months of May, September or October.
-
-For a quieter, budget-conscious trip, consider the off-season: for budget travelers, January and November offer the lowest prices outside of major holidays, though expect shorter opening hours and cooler, wetter weather, plus Venice's occasional autumn/winter flooding (acqua alta).
+- **Spring (April–June) and fall (September–October)** are widely considered the best windows: mild weather, blooming or golden landscapes, and thinner crowds than peak summer.
+- **Summer (July–August)** brings the hottest weather, peak crowds at major sites, and higher prices — plus many Italians take their own vacations in August, so some local shops and restaurants (especially outside tourist zones) may close.
+- **Winter (November–March)** offers the lowest prices and crowds, ideal for museums and cities, though coastal and Alpine attractions vary by season (skiing peaks in the Alps/Dolomites, while beach towns quiet down).
+- Book major sites (Colosseum, Vatican Museums, Uffizi) and fast trains well ahead during Easter, summer, and Christmas/New Year periods, when demand and prices spike sharply.
 
 ## Emergencies & safety
 
-The single most important number to know is **112**, the EU-wide emergency line. If you find yourself in serious difficulty and need help, the single number to call for emergencies in Italy is 112 — a free number to dial without any prefix, and the operator will put you in touch with the most appropriate authority or service. It works from any phone: it is free to call from any phone, including mobile phones without a SIM card, and a trained operator answers and asks which service you need — police, ambulance, or fire department — and can speak English, French, German, and other languages, making it the best choice for tourists.
+Save these numbers before you arrive:
 
-Direct service numbers also work if you know exactly what you need: State Police: 113 (accidents, thefts, etc.), Fire brigade: 115 (fires, weather emergencies), and urgent/emergency medical attention: 118 (health-related needs, also relevant for mountain or cave rescue). For sea emergencies, the Coast Guard can be reached separately: call 1530 or 112 for a maritime emergency, as the Coast Guard handles sea rescues.
+- **112** – Universal EU emergency number. If you find yourself in serious difficulty and need help, the single number to call for emergencies in Italy is 112, and it is free to dial without any prefix — the operator will connect you to the appropriate authority. Operators can speak English, French, German, and other languages, making it the best default for tourists.
+- **113** – State Police (Polizia di Stato) for crimes, theft, accidents.
+- **115** – Fire Brigade (Vigili del Fuoco).
+- **118** – Ambulance / medical emergencies. This number covers urgent and emergency medical attention, and is also relevant for mountain or cave rescue.
+- **1530** – Coast Guard, for emergencies at sea.
+- **803 116** – ACI roadside breakdown assistance (or +39 06 491115 from abroad if calling with a foreign phone).
 
-Italy is generally safe for tourists, but petty theft (pickpocketing, bag-snatching) can occur around crowded tourist sites, train stations, and public transport in major cities — keep valuables secure and be alert in dense crowds. Travel insurance covering medical treatment is strongly recommended, since Italy's public healthcare system typically requires visitors without EU coverage to pay upfront and claim reimbursement later.
+Italy is generally safe for tourists, but pickpocketing and bag-snatching occur in crowded tourist areas, train stations, and on public transit — stay alert on the Rome and Milan metros, at major train stations, and around popular monuments. Keep photocopies (digital or paper) of your passport and travel insurance details, and carry proof of comprehensive travel/medical insurance, which Schengen visa applicants are required to show and which is strongly recommended for visa-exempt travelers too.
 
 ## Official sources
 
-- [ETIAS – Official European Union Travel Authorisation Portal](https://travel-europe.europa.eu/etias_en)
-- [Your Europe – Travel Documents for EU/Schengen Entry](https://europa.eu/youreurope/citizens/travel/entry-exit/index_en.htm)
-- [Italian Ministry of Foreign Affairs – Visa Information (Esteri.it)](https://vistoperitalia.esteri.it/home/en)
-- [Italia.it – Official Italian National Tourism Board](https://www.italia.it/en)
-- [Italia.it – Emergency Numbers and Assistance](https://www.italia.it/en/italy/practical-information/emergency-and-assistance)
-- [Trenitalia – Official National Rail Operator](https://www.trenitalia.com/en.html)
-- [Italo Treno – Official High-Speed Rail Operator](https://www.italotreno.com/en)
-- [Venice Access Fee – Official City Portal (Contributo di Accesso)](https://cda.ve.it/en/)
+- [Italian Ministry of Foreign Affairs – Entry & Visa Information (esteri.it)](https://www.esteri.it/en/servizi-opportunita/ingressosoggiornoinitalia/)
+- [Visa for Italy – Official Visa Portal (vistoperitalia.esteri.it)](https://vistoperitalia.esteri.it/)
+- [EU Entry/Exit System (EES) — Official EU Information](https://travel-europe.europa.eu/ees_en)
+- [ETIAS — Official EU Travel Authorization Portal](https://travel-europe.europa.eu/etias_en)
+- [Italia.it — Official Italian National Tourist Board (ENIT) Travel Site](https://www.italia.it/en)
+- [Italia.it — Emergency Numbers & Assistance](https://www.italia.it/en/italy/practical-information/emergency-and-assistance)
+- [ATAC Rome — Official Public Transport Authority](https://www.atac.roma.it/)
+- [ATM Milano — Official Milan Public Transport Authority](https://www.atm.it/en)
+- [Trenitalia — Official National Rail Operator](https://www.trenitalia.com/en.html)

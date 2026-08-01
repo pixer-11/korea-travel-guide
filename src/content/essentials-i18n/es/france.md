@@ -1,64 +1,60 @@
 ---
 lang: es
 slug: france
-title: 'Información esencial para viajar a Francia: visado, transporte y más'
-description: 'Todo lo que debes saber antes de viajar a Francia: visado y requisitos de entrada actuales, cómo moverte, dinero, la mejor época para viajar y números de emergencia, con fuentes oficiales.'
+title: 'Lo esencial para viajar a Francia: visado, transporte y más'
+description: 'Todo lo que debes saber antes de viajar a Francia: visado y requisitos de entrada actuales, cómo moverte por el país, dinero, la mejor época para viajar y números de emergencia, con fuentes oficiales.'
 ---
 
-Ya cuento con información actualizada y suficiente para redactar esta guía.Ya cuento con información actualizada y suficiente para redactar esta guía.
+Ya tengo toda la información necesaria para redactar la guía completa.
 
----
-
-**Respuesta rápida:** la mayoría de los visitantes de Estados Unidos, Reino Unido, Canadá, Australia y más de 50 países pueden seguir entrando a Francia sin visado por hasta 90 días dentro de cualquier período de 180 días (el ETIAS aún no es necesario en julio de 2026), pagar en euros con tarjeta de débito o crédito en casi cualquier lugar, y marcar el 112 gratuitamente para cualquier emergencia. Aun así, conviene comprobar siempre las últimas normas en los sitios oficiales antes de volar, ya que tanto el ETIAS como las tarifas están a punto de cambiar.
+**Respuesta rápida:** la mayoría de los visitantes (Estados Unidos, Reino Unido, Canadá, Australia, Nueva Zelanda, Japón, etc.) pueden entrar en Francia sin visado durante un máximo de 90 días dentro de cualquier período de 180 días, pagar fácilmente con tarjeta sin contacto en euros y moverse gracias a la excelente red de trenes y metro de Francia; eso sí, conviene confirmar el estado más reciente del visado/ETIAS antes de volar, ya que las normas fronterizas de la UE están cambiando activamente en 2026.
 
 ## Visado y entrada
 
-Los ciudadanos de 59 países exentos de visado —entre ellos Estados Unidos, Reino Unido, Canadá, Australia, Nueva Zelanda, Japón y la mayoría de los países latinoamericanos— pueden entrar a Francia sin visado para estancias cortas de hasta 90 días dentro de cualquier período de 180 días. Si tu nacionalidad no está en esa lista, deberás solicitar un visado Schengen de corta estancia (Tipo C) en el consulado francés de tu país de origen antes de viajar. Este visado permite estancias de hasta 90 días dentro de un período de 180 días y suele costar 80 € para adultos.
+Francia forma parte del Espacio Schengen, y las normas de entrada dependen de tu nacionalidad. Los ciudadanos de 59 países exentos de visado —entre ellos Estados Unidos, Reino Unido, Canadá, Australia, Nueva Zelanda, Japón y la mayoría de los países latinoamericanos— pueden entrar en Francia sin visado para estancias cortas de hasta 90 días dentro de cualquier período de 180 días. Esta es la regla estándar Schengen de 90/180 días, y se aplica en conjunto a los 29 países Schengen, no solo a Francia. Si no eres de un país exento de visado, deberás solicitar un visado Schengen de corta estancia (Tipo C) a través del consulado francés en tu país de origen antes de viajar, lo que permite estancias de hasta 90 días dentro de un período de 180 días y que suele costar 80 € para adultos.
 
-Ya está en marcha un cambio importante en el sistema: el EES (Sistema de Entradas y Salidas) se ha ido implementando gradualmente desde el 12 de octubre de 2025 y estará plenamente operativo a partir del 10 de abril de 2026, lo que significa que tus entradas y salidas ahora se registran de forma digital y biométrica en lugar de mediante sellos en el pasaporte, por lo que llevar la cuenta exacta de los días es más importante que nunca.
+Dos grandes sistemas de la UE están transformando los controles fronterizos en 2026. El **Sistema de Entradas y Salidas (EES, por sus siglas en inglés)**, un registro biométrico que sustituye al sellado del pasaporte, ya está operativo desde el 10 de abril de 2026, así que hay que esperar un registro de huellas dactilares y escaneo facial en el primer cruce fronterizo. La autorización de viaje en línea **ETIAS** (una pequeña tasa de preinscripción, similar al ESTA de EE. UU.) se ha retrasado repetidamente; a mediados de 2026, el sitio oficial indica que "ETIAS no está actualmente en funcionamiento y no se recogen solicitudes de autorización de viaje en este momento", y se espera un calendario revisado tras la reunión del consejo de eu-LISA en septiembre de 2026, siendo un lanzamiento en 2027 el resultado más probable. **No pagues a ningún tercero que afirme vender el ETIAS hoy en día**, ya que todavía no está disponible. Dado que estos sistemas y las listas de exención por país cambian con frecuencia, **confirma siempre tus requisitos exactos en los portales oficiales France-Visas y EU Travel-Europe antes de reservar**, especialmente si tu nacionalidad no está en el grupo estándar exento de visado.
 
-El otro gran cambio —el ETIAS— **todavía no está activo**. A mediados de 2026, se espera que entre en funcionamiento en el último trimestre de 2026, y actualmente ningún sitio web emite autorizaciones de viaje ETIAS; ten cuidado con los sitios fraudulentos. Sin embargo, incluso ese calendario es incierto: eu-LISA, la agencia de la UE que desarrolla el ETIAS, ha concluido, según se informa, que un lanzamiento en 2026 ya no es viable, y algunas fuentes apuntan a un inicio en 2027. Cuando finalmente se lance, primero habrá una fase voluntaria durante la cual se aceptarán solicitudes de ETIAS, pero se seguirá permitiendo la entrada sin él en las fronteras. Una vez que sea obligatorio, el ETIAS será un permiso para viajar, no un permiso para permanecer más tiempo: el límite de 90 días en 180 se aplicará exactamente igual que antes, y el EES seguirá contando tus días en la frontera.
+## Cómo moverte por el país
 
-**En resumen: confirma tus requisitos específicos de inmediato, antes de reservar**, en el portal oficial France-Visas y en el sitio web del Ministerio de Europa y Asuntos Exteriores de Francia (Ministère de l'Europe et des Affaires étrangères), ya que las normas, tarifas y fechas de lanzamiento siguen cambiando.
+Francia cuenta con una de las mejores redes ferroviarias de Europa, con trenes de alta velocidad **TGV** que conectan las principales ciudades en cuestión de horas (París–Lyon, París–Marsella, París–Burdeos); reserva a través de SNCF Connect para obtener las mejores tarifas.
 
-## Cómo moverte
+Dentro de París y de la región de Île-de-France, el sistema de billetes se ha modernizado considerablemente en 2026. Los billetes de papel están oficialmente obsoletos: los billetes magnéticos de papel dejaron de funcionar en los autobuses en mayo de 2026 y en toda la red ferroviaria (metro, RER y trenes) en junio de 2026. Ahora necesitas una tarjeta Navigo Easy o la aplicación móvil de la RATP. Tarifas actuales: los billetes sencillos cuestan 2,55 € para Metro-Train-RER, 2,05 € para Bus-Tram, 14 € para un billete Paris Region–Aéroports y 12,30 € para un pase diario. Para estancias más largas, un pase Paris Visite (todas las zonas, incluido el acceso a los aeropuertos) cuesta 30,60 € por 1 día, 45,40 € por 2 días, 63,80 € por 3 días y 78,00 € por 5 días. Los residentes o quienes se quedan una larga temporada pueden obtener el pase mensual Navigo, con un precio de 90,80 €/mes a partir del 1 de enero de 2026, para viajes ilimitados por la región. Ten en cuenta que el servicio directo RoissyBus entre la Ópera y el aeropuerto CDG se suspendió de forma permanente el 1 de marzo de 2026; utiliza en su lugar el RER B o la línea 14 del metro.
 
-París y la región de Île-de-France funcionan con la red de RATP/SNCF, gestionada por Île-de-France Mobilités. Desde enero de 2026, Île-de-France Mobilités aplicó un aumento de tarifas del 2,3 % tanto al abono mensual Navigo, que sube a 90,80 €, como a los billetes de metro, que suben a 2,55 €. Opciones de tarifas prácticas para visitantes:
+Los taxis y los servicios de VTC (Uber/VTC) están ampliamente disponibles en las ciudades; los taxis están obligados a aceptar pagos con tarjeta, y los trayectos en VTC se pagan a través de la aplicación, normalmente con tarjeta.
 
-- **Billete sencillo (metro/tren/RER):** el billete Metro-Train-RER de 2,55 €, siempre que no viajes hacia o desde un aeropuerto ni fuera de la región de Île-de-France.
-- **Pase Navigo Día:** un Navigo Day Pass de 12,30 € puede resultar más económico si haces varios trayectos en un mismo día.
-- **Pase Navigo Semanal:** cuesta 32,40 € en 2026 para todas las zonas, válido de lunes a domingo, no durante siete días a partir del momento de la compra.
-- **Paris Visite (pase turístico):** ofrece transporte público ilimitado en todos los servicios de RATP y SNCF en Île-de-France, válido por 1, 2, 3 o 5 días, con un costo de 30,60 € por 1 día, 45,40 € por 2 días, 63,80 € por 3 días o 78,00 € por 5 días.
-- **Traslado al aeropuerto:** los pasajeros que viajan a los aeropuertos de Orly o Charles de Gaulle pagan 14 € por un billete de conexión estándar.
+## Dinero y costes
 
-Los billetes de papel han desaparecido: estas tarifas se aplican a billetes digitales, disponibles en el pase Navigo Easy, la aplicación de Île-de-France Mobilités o mediante pago sin contacto, ya que los billetes de papel se eliminaron por completo desde noviembre de 2025. Fuera de París, los trenes de alta velocidad TGV y los trenes regionales TER de Francia conectan casi todas las ciudades; reserva los billetes de TGV en línea con antelación para conseguir las mejores tarifas, y alquila un coche si planeas explorar zonas rurales o regiones vinícolas.
+Francia utiliza el **euro (€)**. El pago sin contacto ("sans contact") es el estándar para casi todas las transacciones, y Visa y Mastercard se aceptan universalmente, ya sea que compres una baguette o un bolso de diseñador. American Express se acepta en hoteles y boutiques de alta gama, pero puede ser rechazada en bistrós familiares más pequeños o en farmacias. Aun así, lleva algo de efectivo: en 2026 es habitual encontrar un "minimum de perception" (gasto mínimo con tarjeta) de aproximadamente 5–10 € en tiendas pequeñas, y los mercados, las panaderías pequeñas y las zonas rurales pueden preferir el efectivo.
 
-## Dinero y costos
+En los terminales de pago, elige siempre pagar en euros en lugar de en tu moneda local para evitar los recargos de la conversión dinámica de divisas (DCC), y utiliza, si es posible, una tarjeta sin comisiones por transacciones en el extranjero. En cuanto a los cajeros automáticos, utiliza preferiblemente los vinculados a bancos, que por lo general no cobran comisión, ya que los cajeros independientes en zonas turísticas suelen cobrar un extra.
 
-Francia utiliza el **euro (€)**. Las tarjetas de débito y crédito sin contacto (Visa, Mastercard) se aceptan casi en todas partes, desde cafés hasta taxis y el metro, por lo que rara vez necesitarás grandes cantidades de efectivo, aunque es recomendable llevar algunos billetes y monedas pequeñas de euros para mercados, tiendas de pueblos pequeños o baños públicos. Notifica a tu banco tus planes de viaje para evitar bloqueos de tarjeta, y prevé una pequeña comisión por transacción en el extranjero si tu tarjeta no es en euros, a menos que tengas una tarjeta de viaje sin comisiones. Los cajeros automáticos (distributeurs) están ampliamente disponibles en ciudades y pueblos; retira dinero en cajeros afiliados a bancos en lugar de en quioscos independientes para evitar comisiones excesivas. Dar propina no es obligatorio, ya que por ley el servicio está incluido en la cuenta de los restaurantes, aunque redondear el pago o dejar unos euros por un buen servicio siempre se aprecia.
+Dar propina no es obligatorio: un cargo por servicio del 15% ("service compris") está incluido legalmente en el precio de tu comida o bebida, por lo que redondear la cuenta o dejar un par de euros por un buen servicio es un gesto de cortesía y no una expectativa. Ten en cuenta que casi todas las propinas se esperan en efectivo, ya que la mayoría de los terminales de tarjeta en Francia no permiten añadir propina. Además, ten presente que en Francia los precios casi siempre se muestran con los impuestos incluidos, así que el precio que ves es el precio que pagas.
 
 ## Mejor época para viajar
 
-Francia es un destino para visitar durante todo el año, pero las épocas ideales son la **primavera (abril-junio)** y **principios de otoño (septiembre-octubre)**, cuando el clima es templado, hay menos aglomeraciones que en verano y los precios son más razonables. Julio y agosto son considerablemente más caros debido a la alta demanda veraniega, y también son los meses de mayor afluencia, con muchos negocios franceses cerrando por el tradicional éxodo vacacional de agosto. Abril u octubre suelen ofrecer el mejor equilibrio entre precio y clima tanto para los vuelos como para el costo general del viaje. El invierno (noviembre-marzo) es la temporada más tranquila y económica fuera de las estaciones de esquí y los mercados navideños, pero las horas de luz son más cortas y algunas atracciones rurales reducen sus horarios.
+Francia es un destino que se puede visitar todo el año, pero los momentos ideales son la **primavera (abril–junio)** y principios de **otoño (septiembre–octubre)**, cuando el clima es templado, hay menos aglomeraciones que en verano y los precios de vuelos y hoteles suelen ser más razonables. El verano (julio–agosto) es temporada alta, con el clima más cálido, las atracciones más concurridas y muchos locales de vacaciones (algunas tiendas y restaurantes pequeños de París cierran en agosto). El invierno es más tranquilo y económico fuera de las estaciones de esquí y los mercados navideños, e ideal para escapadas urbanas (museos, cafés) sin colas. Si visitas los Alpes franceses, la temporada de esquí va aproximadamente de diciembre a abril; para la Riviera y las playas del sur, junio y septiembre ofrecen temperaturas cálidas del mar sin las aglomeraciones del pico de julio.
 
 ## Emergencias y seguridad
 
-Francia cuenta con un sistema de emergencias bien organizado y con múltiples números, todos gratuitos:
+Los números de emergencia de Francia son gratuitos desde cualquier teléfono, incluidos los teléfonos bloqueados o sin saldo ni tarjeta SIM:
 
-- **112** — el número de emergencia paneuropeo, que conecta a quien llama con la policía, los bomberos o los servicios de ambulancia desde cualquier parte del país sin costo alguno. No es necesario hablar francés para usar este número: los operadores pueden atender llamadas en francés y en otros idiomas.
-- **15** — SAMU, para emergencias médicas.
-- **17** — Policía.
-- **18** — Bomberos (pompiers); en zonas rurales, los pompiers (18) suelen llegar más rápido que el SAMU y están igualmente capacitados para la primera respuesta médica.
-- **114** — existe un número aparte para emergencias que involucran a personas sordas o con dificultades auditivas, mientras que el 196 cubre emergencias marítimas.
+- **112** — Número de emergencia europeo (uso general: policía, bomberos, ambulancia); es gratuito, funciona desde cualquier teléfono, y los operadores están capacitados para responder en inglés antes de derivarte al SAMU, la policía o los bomberos.
+- **15** — SAMU (emergencias médicas/ambulancia)
+- **17** — Policía
+- **18** — Bomberos (Pompiers); en zonas rurales, los pompiers suelen llegar más rápido que el SAMU y están igualmente capacitados para la primera respuesta médica.
+- **114** — Número de emergencia para personas sordas o con dificultades auditivas, accesible por SMS
+- **196** — Emergencias marítimas; **191** — Emergencias aeronáuticas
 
-Advertencias importantes: la atención de emergencia nunca se niega por incapacidad de pago inmediato, pero el tratamiento no es automáticamente gratuito para turistas o visitantes temporales: lo que finalmente debas pagar depende de tu estatus de residencia y de si cuentas con un seguro adecuado, por lo que se recomienda encarecidamente contratar un seguro de viaje. Ten en cuenta también que estos números cortos de emergencia solo funcionan dentro de Francia —los números cortos de emergencia (15, 17, 18, 112, 114, 115, 119, 196) solo funcionan dentro de Francia y no son accesibles desde una red móvil extranjera ni desde una línea fija fuera de Francia. En general, Francia es un destino seguro para los turistas; las precauciones habituales contra el carterismo en zonas turísticas concurridas (Metro, monumentos principales, estaciones de tren) son la principal preocupación práctica.
+Dentro de Francia, los locales suelen marcar directamente el 15/17/18, mientras que el 112 está destinado principalmente a extranjeros que visitan Francia o a ciudadanos franceses en el extranjero. Si eres víctima de un robo o pierdes tu pasaporte, denuncia la pérdida en la comisaría de policía, que te entregará un justificante, y luego ponte en contacto con tu consulado. Francia es, en general, muy segura para los turistas; los principales riesgos son los carteristas en zonas turísticas concurridas y en el transporte público, así que mantén tus objetos de valor seguros y permanece atento cerca de las principales atracciones y estaciones.
 
 ## Fuentes oficiales
 
-- [France-Visas — Portal oficial de solicitud de visado](https://france-visas.gouv.fr/en/)
-- [France Diplomatie — Normas de entrada EES y ETIAS para extranjeros](https://www.diplomatie.gouv.fr/en/services-to-foreigners/visiting-france/ees-the-new-european-border-entryexit-system-goes-live-on-10-april-2026)
-- [Île-de-France Mobilités — Tarifas y billetes oficiales de transporte público](https://www.iledefrance-mobilites.fr/)
-- [RATP — Operador oficial de transporte de París](https://www.ratp.fr/en)
-- [France.fr — Oficina oficial de turismo francés, números de emergencia](https://www.france.fr/en/article/emergency-numbers-to-know/)
-- [Service-Public.gouv.fr — Portal oficial de información del gobierno francés](https://www.service-public.gouv.fr/)
-- [Embajada y Consulados de EE. UU. en Francia — Guía de servicios de emergencia](https://fr.usembassy.gov/services/medical-assistance/emergency-services-in-france/)
+- [France-Visas — Portal Oficial de Visados Franceses](https://france-visas.gouv.fr/)
+- [EU Travel to Europe / Información Oficial de ETIAS](https://travel-europe.europa.eu/etias_en)
+- [Sistema de Entradas y Salidas (EES) — Comisión Europea](https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/smart-borders/entry-exit-system_en)
+- [Île-de-France Mobilités — Transporte Oficial de la Región de París](https://www.iledefrance-mobilites.fr/)
+- [RATP — Operador del Transporte Público de París](https://www.ratp.fr/)
+- [SNCF Connect — Ferrocarriles Nacionales Franceses](https://www.sncf-connect.com/)
+- [France.fr — Oficina Oficial de Turismo de Francia](https://www.france.fr/en)
+- [Service-Public.fr — Números de Emergencia (Gobierno Francés)](https://www.service-public.fr/particuliers/vosdroits/F32233)

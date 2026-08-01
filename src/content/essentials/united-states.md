@@ -2,73 +2,59 @@
 country: "United States"
 title: "United States Travel Essentials: Visa, Transport & More"
 description: "Know before you go to United States — current visa & entry, getting around, money, best time to visit, and emergency numbers, with official sources."
-lastReviewed: 2026-07-23
+lastReviewed: 2026-08-01
 draft: false
 ---
 
-**Quick answer:** Most visitors from 40+ partner countries can enter the U.S. visa-free for up to 90 days via ESTA, pay in US dollars (cards are widely accepted), and should always confirm current entry, security, and health rules on official .gov sites before departure since policies change quickly.
+**Quick answer:** Most travelers from the 42 Visa Waiver Program (VWP) countries can visit the US for up to 90 days using an ESTA instead of a visa, while everyone else needs a B‑1/B‑2 visitor visa; dial 911 for any emergency, pack a REAL ID‑compliant photo ID or passport for domestic flights, and expect the best weather (and highest prices) in spring, early fall, and summer.
 
 ## Visa & entry
 
-As of mid-2026, the U.S. Department of State and the Department of Homeland Security recognize 42 countries under the VWP, including most of the EU, the UK, Australia, Japan, South Korea, Singapore, Taiwan, and Qatar, with Romania added as one of the newest members in 2026. If your country participates in the Visa Waiver Program (VWP), you may stay up to 90 days per visit for tourism or business, and most travelers must obtain ESTA clearance before boarding a flight or ship bound for the United States.
+If you hold a passport from one of the Visa Waiver Program countries, you don't need a traditional visa — instead you apply online for an ESTA (Electronic System for Travel Authorization). If you hold a passport from one of the 42 Visa Waiver Program countries, you do not need a traditional visa. Instead, you need an ESTA application — the Electronic System for Travel Authorization. ESTA is the online clearance system that allows eligible VWP travelers to seek admission to the United States for up to 90 days for business or tourism purposes.
 
-Key ESTA facts: CBP recommends that travelers apply for ESTA as soon as they begin planning their trip and no later than 72 hours before departure. ESTA is valid for 2 years or until your passport expires, whichever comes first, and during that period you can make multiple trips to the US without reapplying. Note that if you get a new passport, you must apply for a new ESTA even if your previous one has not expired. There is no free pass on layovers either — even if you are only passing through a US airport to another destination, you must have either an approved ESTA or a valid US visa, as there is no airside transit in the US.
+Key current details: the ESTA application fee is $40.27 per traveler (effective 1 January 2026), valid for two years or until your passport expires, and within that window you can make multiple trips to the United States, each up to 90 days under the Visa Waiver Program. CBP recommends that travelers apply for ESTA as soon as they begin planning their trip and no later than 72 hours before departure. You'll also generally need a return/onward ticket — you must have a return or onward ticket when entering the US under the Visa Waiver Program; this is a strict requirement, and CBP officers will check at the port of entry.
 
-If your nationality isn't on the VWP list, you will need to apply for a B-1/B-2 visitor visa through a U.S. embassy or consulate, a process that allows stays of up to 6 months but requires an embassy interview and can take weeks to months. Whichever route you take, a visitor's passport must generally be valid for six months after the date you plan to exit the U.S., though visitors from some countries just need a valid passport for the length of their stay.
+Note that VWP membership can change: Romania's designation was rescinded on 2 May 2025, so Romanian passport holders now need a B-1/B-2 visa rather than an ESTA. Also be aware that since January 12, 2016, travelers who have visited or been present in Iran, Iraq, Libya, North Korea, Somalia, Sudan, Syria, or Yemen on or after March 1, 2011 are not eligible for ESTA, and Cuba was added in 2024 — these travelers must apply for a regular visa instead.
 
-Domestic flights within the U.S. now require REAL ID enforcement, but foreign visitors are unaffected: a valid, unexpired foreign government-issued passport is fully acceptable at TSA checkpoints, and you do not need a REAL ID if you are using a valid passport.
+If you're not from a VWP country, you'll need a nonimmigrant B‑1/B‑2 visa from a US embassy or consulate. As of 2026, budget for extra costs: a new $250 visa integrity fee now applies to most US nonimmigrant visas as a surcharge created by the One Big Beautiful Bill Act, signed July 4, 2025, though ESTA and green card applicants are exempt. Rollout has been inconsistent — implementation has been uneven across US consulates worldwide, with some embassies actively collecting the fee while others are still waiting on payment and tracking systems to go live.
 
-**Because entry rules, fees, and eligible countries change without much notice, always verify your specific situation on the official ESTA/CBP and State Department pages before booking or traveling.**
+**Because entry rules, fees, and country eligibility change frequently, always confirm your specific requirements on the official CBP ESTA portal and the State Department's travel site before booking.**
 
 ## Getting around
 
-The U.S. is vast and car-dependent outside major cities, so plan transport by region:
+The US has no single nationwide transit pass — plan around a mix of flying, trains, and city transit. For **domestic flights**, identification rules tightened recently: TSA officially began enforcing the REAL ID requirement for domestic air travel on February 1, 2026, and travelers 18 and older must present a REAL ID-compliant license, a U.S. passport or passport card, a DHS Trusted Traveler card, or a U.S. military ID. International visitors are unaffected in practice since a passport is an acceptable form of identification and may be used in lieu of a REAL ID — just carry your passport to the airport. Travelers who show up without compliant ID now face extra steps: travelers who do not possess a compliant ID and intend to fly will be required to pay a $45 fee and submit to identification checks.
 
-- **Cities:** New York, Washington D.C., Boston, Chicago, and San Francisco have subway/metro systems that use tap-to-pay contactless cards or rechargeable transit cards (e.g., OMNY in NYC, SmarTrip in D.C.). Local buses mostly require a metro card or contactless payment, with cash discouraged.
-- **Ride-hailing:** App-based taxis like Uber and Lyft are widely used and are often more convenient than hailing a cab, especially outside big cities.
-- **Intercity trains:** Amtrak connects many major cities and, along with local metro systems, takes card payment. Trains are comfortable but slower and less extensive than in Europe or Asia — the Northeast Corridor (Boston–NYC–Washington) is the most reliable rail route.
-- **Domestic flights** are often the fastest way to cover the long distances between regions; budget carriers and major airlines connect nearly every city.
-- **Rental cars** are the best option for national parks, rural areas, and road trips; an International Driving Permit alongside your home license is recommended.
-- **REAL ID/ID at airports:** carry your passport for domestic flight check-in as noted above.
+**Trains**: Amtrak connects major cities, with the densest, most frequent service in the Northeast Corridor (Boston–New York–Washington, D.C.); elsewhere, routes are limited and infrequent compared to Europe or Asia.
+
+**Cities**: Most large cities (New York, Washington D.C., Chicago, Boston, San Francisco) have subway/metro and bus networks; many now accept contactless bank cards directly at the fare gate. Ride-hailing apps (Uber, Lyft) operate almost everywhere and are often the easiest option outside downtown cores.
+
+**Road trips**: Outside major metro areas, a car is essential — public transit is sparse. Bring your driving license plus an International Driving Permit if required by the rental company, and note that distances between attractions (especially in the West) can be huge.
 
 ## Money & costs
 
-The U.S. dollar (USD) is the only accepted currency; the US Dollar comes in note denominations of $1, $2, $5, $10, $20, $50, and $100, and establishments do not accept pounds or euros, so USD is the best currency to carry. Card is king in the U.S. — most establishments accept debit/credit cards and mobile wallets like Apple Pay and Google Pay, though tipping culture, small vendors, and laundry still make some cash useful, so carry low-denomination notes for flexibility.
-
-Tipping is expected and has been rising: in 2026, 15% at a sit-down restaurant signals dissatisfaction — the new baseline for adequate service is 18-20%, with 22-25% for great service, while at counter-service spots 10-15% or nothing is acceptable. Most US card terminals now prompt for a tip amount during contactless payment, so you'll be asked to tip even for takeout coffee or quick-service meals — declining is fine.
-
-For currency exchange, purchase currency through your bank before you leave, as larger banks typically offer more favorable rates and lower fees than airport exchange desks or kiosks at the destination. Withdrawing cash from ATMs on arrival is another reliable option; check your home bank's foreign transaction and ATM fees beforehand.
-
-Costs vary hugely by city and season — expect major coastal cities (New York, San Francisco, LA) to be significantly pricier for lodging and dining than the Midwest, South, or smaller towns. Budget extra for the built-in tipping expectation, sales tax (added at checkout, not included in listed prices), and optional resort/city fees at hotels.
+The currency is the US Dollar (USD). Credit and debit cards (Visa, Mastercard, Amex, Discover) are accepted almost everywhere, including contactless "tap to pay," but it's wise to carry some cash for small vendors, tips, or rural areas with patchy connectivity. Tipping is customary and often expected: roughly 15–20% at sit-down restaurants, plus smaller tips for taxis, bartenders, and hotel staff. ATMs are widespread in cities and airports; check your card issuer's foreign transaction fees before you go, as these vary widely. Overall, the US tends to be a mid-to-high cost destination, with accommodation and dining prices varying sharply by city (New York and San Francisco are among the priciest).
 
 ## Best time to visit
 
-The best time depends on your itinerary given the country's size and climate diversity:
+Spring (March–May) and fall (September–November) are generally the most comfortable and least crowded windows, with mild temperatures across much of the country. Shoulder seasons (late April–May and September–October) are often cheaper and less crowded, offering good weather, fewer tourists, and lower prices.
 
-- **Spring (April–May) and fall (September–October)** are generally ideal nationwide — mild weather, fewer crowds than peak summer, and lower prices in many regions, making them excellent for national parks, cities, and road trips.
-- **Summer (June–August)** is peak season for national parks, coastal areas, and family travel (school holidays), but expect the highest prices, biggest crowds, and hot, humid conditions in the South and Southwest.
-- **Winter (December–February)** suits ski destinations (Rockies, Northeast) and warm-weather escapes (Florida, Southern California, Arizona), while northern/interior cities can be very cold.
-- Hurricane season affects the Gulf Coast and Atlantic Seaboard from June through November, so factor this in if visiting Florida, the Carolinas, or the Gulf states during that window.
+Summer (June–August) is peak tourist season — school holidays, warm weather, and full national park access — but also the priciest and most crowded, and it overlaps with hurricane season. Hurricane season runs from June to November, especially in the Southeast and Gulf Coast. Peak hurricane risk falls in hurricane season, running from June through November with a peak in August and September, so travelers to Florida, the Gulf Coast, or the Atlantic seaboard during this window should watch forecasts and consider travel insurance.
 
-Whatever season, book flights and accommodation well ahead for major holidays (Thanksgiving, Christmas/New Year, July 4th) and popular national parks in summer, when demand spikes sharply.
+Winter suits ski destinations and holiday-season city visits (markets, lights, New York/Chicago festivities) but brings East Coast temperatures between 0 to 10°C and possible flight disruptions from snow. Major holidays like the Fourth of July, Thanksgiving, and Memorial Day can be very busy, so book well ahead if traveling then.
 
 ## Emergencies & safety
 
-For fire and rescue services, medical emergencies, or police, call 911 anywhere in the country — if there is a life-threatening emergency, call 911. Emergency services (911) operate nationwide with multilingual support available in major metropolitan areas.
+For any police, fire, or medical emergency anywhere in the US, dial **911** (free from any phone, including most mobiles without a SIM). For mental health or suicide-related crises, the **988 Suicide & Crisis Lifeline** is available nationwide. Many cities also run a non-emergency line, commonly **311**, for noise complaints, minor issues, or general city services.
 
-General safety advisories rate the U.S. as low-risk for tourists: official guidance advises exercising normal safety precautions, with a travel advice level of GREEN. That said, violent and gun crime rarely affect tourists, but visitors should take care in unfamiliar areas and try not to walk through quieter areas alone, especially at night. Practical precautions include not leaving valuables in rental cars — do not leave passports in rental cars, especially not in the boot, as gangs may target vehicles driven by people who look like tourists.
-
-Entry itself deserves caution: entry requirements are strict, and US authorities have broad powers to decide if you're eligible to enter and may determine that you are inadmissible for any reason under US law. It's worth registering with your own government's travel program (e.g., the U.S. offers the reciprocal STEP for its citizens abroad; check if your home country has an equivalent registration for travel to the US). Registering with the relevant traveler enrollment program before international travel helps you receive security updates and embassy contact information.
-
-Healthcare is expensive without insurance, so purchase comprehensive travel insurance covering medical emergencies before you go — U.S. hospital visits can run into thousands of dollars for the uninsured. Keep your embassy or consulate's contact details on hand in case you need consular assistance while traveling.
+Health care in the US is not free and can be extremely expensive for uninsured visitors, so comprehensive travel medical insurance is strongly recommended before you arrive. Seasonal hazards to plan around include hurricanes (Southeast/Gulf Coast, June–November), wildfires (Western states, especially late summer/fall), and tornadoes (central "Tornado Alley" states, mainly spring). Monitor local weather alerts and follow instructions from local authorities during severe weather events.
 
 ## Official sources
 
-- [U.S. Customs and Border Protection – ESTA / Visa Waiver Program](https://www.cbp.gov/travel/international-visitors/esta)
-- [Official ESTA Application Portal (DHS)](https://esta.cbp.dhs.gov/)
-- [USAGov – Visa Waiver Program and ESTA](https://www.usa.gov/visa-waiver-esta)
+- [CBP ESTA Official Application Portal](https://esta.cbp.dhs.gov)
 - [U.S. Department of State – Visas](https://travel.state.gov/content/travel/en/us-visas.html)
-- [U.S. Department of State – Travel Advisories](https://travel.state.gov/en/international-travel/travel-advisories.html)
-- [TSA – REAL ID Information](https://www.tsa.gov/realid)
-- [Amtrak – National Rail Travel](https://www.amtrak.com/)
-- [Brand USA – Official U.S. Tourism Board](https://www.visittheusa.com/)
+- [USA.gov – Visa Waiver Program & ESTA](https://www.usa.gov/visa-waiver-esta)
+- [TSA – REAL ID Requirements](https://www.tsa.gov/realid)
+- [Amtrak – National Rail Service](https://www.amtrak.com)
+- [Visit The USA – Official U.S. Tourism Site](https://www.visittheusa.com)
+- [Ready.gov – Emergency Preparedness](https://www.ready.gov)
+- [CDC – Traveler Health Information](https://wwwnc.cdc.gov/travel)
