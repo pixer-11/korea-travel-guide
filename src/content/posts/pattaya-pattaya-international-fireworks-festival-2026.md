@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Pattaya International Fireworks Festival 2026: What to Know (Pattaya)'
 description: Pattaya International Fireworks Festival 2026 in Pattaya, Thailand — July 30 - August 2, 2026. What it is, when and where, and how to plan around it.
 country: Thailand

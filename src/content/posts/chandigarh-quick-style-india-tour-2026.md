@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Quick Style India Tour 2026: What to Know (Chandigarh)'
 description: Quick Style India Tour 2026 in Chandigarh, India — August 29, 2026. What it is, when and where, and how to plan around it.
 country: India

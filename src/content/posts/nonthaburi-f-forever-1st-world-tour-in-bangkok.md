@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'F✦FOREVER 1st World Tour in Bangkok: What to Know (Nonthaburi)'
 description: F✦FOREVER 1st World Tour in Bangkok in Nonthaburi, Thailand — August 1-2, 2026. What it is, when and where, and how to plan around it.
 country: Thailand

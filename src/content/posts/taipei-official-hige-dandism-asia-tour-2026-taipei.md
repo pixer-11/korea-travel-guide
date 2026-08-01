@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Official HIGE DANDism Asia Tour 2026 – Taipei: What to Know (Taipei)'
 description: Official HIGE DANDism Asia Tour 2026 – Taipei in Taipei, Taiwan — August 29-30, 2026. What it is, when and where, and how to plan around it.
 country: Taiwan

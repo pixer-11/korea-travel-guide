@@ -1,4 +1,5 @@
 ---
+draft: true
 title: '2026 Coupang Play Series: Manchester City vs Atlético Madrid: What to Know (Seoul)'
 description: '2026 Coupang Play Series: Manchester City vs Atlético Madrid in Seoul, South Korea — August 5 & 9, 2026. What it is, when and where, and how to plan around it.'
 country: South Korea

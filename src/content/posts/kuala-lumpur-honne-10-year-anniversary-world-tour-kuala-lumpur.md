@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'HONNE 10 Year Anniversary World Tour – Kuala Lumpur: What to Know (Kuala Lumpur)'
 description: HONNE 10 Year Anniversary World Tour – Kuala Lumpur in Kuala Lumpur, Malaysia — August 7-8, 2026. What it is, when and where, and how to plan around it.
 country: Malaysia

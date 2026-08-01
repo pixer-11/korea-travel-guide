@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'September Grand Sumo Tournament (Aki Basho): What to Know (Tokyo)'
 description: September Grand Sumo Tournament (Aki Basho) in Tokyo, Japan — September 13-27, 2026. What it is, when and where, and how to plan around it.
 country: Japan

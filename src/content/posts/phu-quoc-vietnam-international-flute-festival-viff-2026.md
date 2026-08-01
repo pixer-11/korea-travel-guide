@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Vietnam International Flute Festival (VIFF) 2026: What to Know (Phu Quoc)'
 description: "The Vietnam International Flute Festival (VIFF) 2026 runs July 23–28, 2026 in Phu Quoc, bringing together more than 40 flute artists from 12 countries"
 country: Vietnam

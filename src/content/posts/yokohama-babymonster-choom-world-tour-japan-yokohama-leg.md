@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'BABYMONSTER "Choom" World Tour – Japan (Yokohama leg): What to Know (Yokohama)'
 description: BABYMONSTER "Choom" World Tour – Japan (Yokohama leg) in Yokohama, Japan — August 1-2, 2026. What it is, when and where, and how to plan around it.
 country: Japan

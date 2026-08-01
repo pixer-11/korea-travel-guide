@@ -1,4 +1,5 @@
 ---
+draft: true
 title: '2026 China Open (Snooker): What to Know (Taiyuan)'
 description: 2026 China Open (Snooker) in Taiyuan, China — August 8-16, 2026. What it is, when and where, and how to plan around it.
 country: China
