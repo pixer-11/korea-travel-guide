@@ -6,11 +6,10 @@ region: Boracay
 category: hidden-gem
 pubDate: '2026-07-28T10:10:49.073Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/I_love_Boracay.jpg/1920px-I_love_Boracay.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/a/a9/I_love_Boracay.jpg
   credit: 'Photo: Shella Marie L. Olea / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:I_love_Boracay.jpg
-gallery: []
 place:
   id: ChIJHae4G7g9pTMR-fEMTDzw9yM
   name: I Love Boracay
@@ -37,7 +36,6 @@ faq:
   - q: What else is nearby?
     a: White Beach, D'Mall (dining and shopping), and Bulabog Beach (kiteboarding, best November-April) are all a short tricycle ride away.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

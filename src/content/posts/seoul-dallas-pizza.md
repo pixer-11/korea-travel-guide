@@ -6,11 +6,10 @@ region: Seoul
 category: hidden-gem
 pubDate: '2026-07-24'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/29102979_JJbZKxvJNdp-CWsst1CkR_qOFNEyNoy89Y07kD3_ys8.jpg
-  credit: 'Photo: Foursquare user content (California Pizza Kitchen (캘리포니아피자키친))'
+  url: https://fastly.4sqi.net/img/general/original/68367443_pQcabcIRpjGCjJ26esqkElUSwhIkm1lvVwGW4-0J8Zs.jpg
+  credit: 'Photo: Foursquare user content (Uncle Pizza)'
   license: foursquare
-  source: https://foursquare.com/v/56babf3f498e54e145ce9fd4
-gallery: []
+  source: https://foursquare.com/v/64fd89ad30bcbb30506f66e7
 place:
   id: ChIJNYchyFuffDURxFE7PFYMfX0
   name: Dallas Pizza
@@ -21,7 +20,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 37.5134178
   lng: 126.89482419999999
-  phone: '+82 10-5864-0845'
+  phone: +82 10-5864-0845
   openingHours:
     - 'Monday: Closed'
     - 'Tuesday: 5:00 – 11:00 PM'
@@ -46,7 +45,6 @@ faq:
   - q: What's the best time to visit?
     a: Weekday early-evening reservations are generally easier to secure than weekend slots, and visiting in late afternoon lets you see the workshop district at its most atmospheric before dinner service gets busy.
 aiGenerated: true
-draft: true
 ---
 
 ## Why Dallas Pizza Is Worth the Trip

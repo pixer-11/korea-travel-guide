@@ -6,15 +6,10 @@ region: Orchard Road
 category: attraction
 pubDate: '2026-07-23T07:31:29.881Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/72556373_wmLa8m0ng0BanpQNt5A6hvb0iXmy4Xt3yapRevfV9VU.jpg
+  url: https://fastly.4sqi.net/img/general/original/353789433_9Ba2JniTszQGgMl-2u4wJCve167Aq8GiQQl0R5i0tCk.jpg
   credit: 'Photo: Foursquare user content (ION Sky)'
   license: foursquare
   source: https://foursquare.com/v/4cb52709e262b60c95d465e0
-gallery:
-  - url: https://fastly.4sqi.net/img/general/original/353789433_9Ba2JniTszQGgMl-2u4wJCve167Aq8GiQQl0R5i0tCk.jpg
-    credit: 'Photo: Foursquare user content (ION Sky)'
-    license: foursquare
-    source: https://foursquare.com/v/4cb52709e262b60c95d465e0
 place:
   id: ChIJRW8Hwo0Z2jEREk5x5tk4JIg
   name: ION Sky
@@ -58,7 +53,6 @@ faq:
   - q: What else is nearby?
     a: ION Orchard itself for shopping and dining, Emerald Hill's conserved shophouses a short walk away, and the Singapore Botanic Gardens further along Orchard/Napier Road.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

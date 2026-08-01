@@ -6,15 +6,10 @@ region: Phuket
 category: attraction
 pubDate: '2026-07-22T09:10:53.913Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/126110866_xVNQPjPBjpeO_iivR8G7BhmjixainSSaUZL6OumQydQ.jpg
+  url: https://fastly.4sqi.net/img/general/original/9375124_op9-ZKTovVhe80ST4RdJ7eFLEsOGtkvNwkdaWOaDtIU.jpg
   credit: 'Photo: Foursquare user content (Khao Rang Viewpoint (จุดชมวิวเขารัง))'
   license: foursquare
   source: https://foursquare.com/v/52e4d682498ecbb0e886274a
-gallery:
-  - url: https://fastly.4sqi.net/img/general/original/9375124_op9-ZKTovVhe80ST4RdJ7eFLEsOGtkvNwkdaWOaDtIU.jpg
-    credit: 'Photo: Foursquare user content (Khao Rang Viewpoint (จุดชมวิวเขารัง))'
-    license: foursquare
-    source: https://foursquare.com/v/52e4d682498ecbb0e886274a
 place:
   id: ChIJ36TUGOsxUDAR7hcbGCJ8tlc
   name: Khao Rang Viewpoint
@@ -73,7 +68,6 @@ faq:
   - q: What else is nearby?
     a: Phuket Old Town, with its Sino-Portuguese architecture on Thalang Road and Soi Romanee, is just a short drive away and pairs well with a Khao Rang visit.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

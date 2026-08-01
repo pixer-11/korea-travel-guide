@@ -269,12 +269,6 @@
   "reason": "Manta ray in aquarium setting, typical of ocean world",
   "at": "2026-07-25T02:41:03.599Z"
  },
- "bangkok-the-grand-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/A_roof_of_a_building_at_the_Grand_Palace%2C_Bangkok%2C_sunrise%2C_2017.jpg/1920px-A_roof_of_a_building_at_the_Grand_Palace%2C_Bangkok%2C_sunrise%2C_2017.jpg": {
-  "slug": "bangkok-the-grand-palace",
-  "verdict": "MATCH",
-  "reason": "Thai temple architecture, golden spires, Bangkok setting",
-  "at": "2026-07-25T02:41:07.378Z"
- },
  "bangkok-treehouse-cafe-bar\u0001https://images.unsplash.com/photo-1608155168168-db85cc55172e?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8QmFuZ2tvayUyMFRoYWlsYW5kJTIwdHJlbmR5JTIwY2FmZXxlbnwwfDB8fHwxNzg0NzEyMjUxfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max": {
   "slug": "bangkok-treehouse-cafe-bar",
   "verdict": "MISMATCH",
@@ -2615,12 +2609,6 @@
   "reason": "Fort Aguada coastal view with fortification",
   "at": "2026-07-27T12:47:29.648Z"
  },
- "guangzhou-huacheng-square\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Huacheng_Square_Guangzhou.jpg/1920px-Huacheng_Square_Guangzhou.jpg": {
-  "slug": "guangzhou-huacheng-square",
-  "verdict": "MATCH",
-  "reason": "Stone marker with Chinese characters in public square",
-  "at": "2026-07-27T12:47:31.670Z"
- },
  "hangzhou-leifeng-pagoda\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Leifeng_Pagoda_DJI_0593_%282%29.jpg/1920px-Leifeng_Pagoda_DJI_0593_%282%29.jpg": {
   "slug": "hangzhou-leifeng-pagoda",
   "verdict": "MATCH",
@@ -2674,12 +2662,6 @@
   "verdict": "MATCH",
   "reason": "Authentic Indian cuisine spread, Jaipur restaurant setting",
   "at": "2026-07-27T12:48:18.952Z"
- },
- "jakarta-social-house-grand-indonesia\u0001https://fastly.4sqi.net/img/general/original/48406723_Hje7WFQ-kSjgm2-FdRaDzVLXawED8VT6YrfH76WsuXI.jpg": {
-  "slug": "jakarta-social-house-grand-indonesia",
-  "verdict": "MATCH",
-  "reason": "Social House menu, drinks, and dishes shown",
-  "at": "2026-07-27T12:48:30.230Z"
  },
  "jinju-jinju-national-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/The_Jinju_National_Museum.jpg/1920px-The_Jinju_National_Museum.jpg": {
   "slug": "jinju-jinju-national-museum",
