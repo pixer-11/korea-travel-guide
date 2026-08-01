@@ -644,6 +644,17 @@ main { flex: 1; width: 100%; }
 .article-hero img { width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; }
 .article-hero figcaption { padding: 0.6rem 1rem; font-size: 0.8rem; color: var(--muted); background: var(--surface-2); }
 
+/* Image lightbox: article photos open enlarged in a native <dialog>. */
+.article-hero img, .gallery img { cursor: zoom-in; }
+#img-lightbox { border: none; border-radius: var(--r-lg); padding: 0; background: var(--surface, #fff); max-width: min(96vw, 1400px); max-height: 92vh; overflow: hidden; }
+#img-lightbox::backdrop { background: rgba(15, 12, 8, 0.82); }
+#img-lightbox img { display: block; max-width: min(96vw, 1400px); max-height: calc(92vh - 3rem); width: auto; height: auto; object-fit: contain; }
+#img-lightbox .lb-credit { margin: 0; padding: 0.55rem 1rem; font-size: 0.8rem; color: var(--muted); background: var(--surface-2); }
+#img-lightbox .lb-credit:empty { display: none; }
+#img-lightbox .lb-close { position: absolute; top: 0.5rem; right: 0.5rem; width: 2.2rem; height: 2.2rem; border: none; border-radius: 50%; background: rgba(15, 12, 8, 0.55); color: #fff; font-size: 1rem; line-height: 1; cursor: pointer; }
+#img-lightbox .lb-close:hover { background: rgba(15, 12, 8, 0.8); }
+body:has(#img-lightbox[open]) { overflow: hidden; }
+
 .prose { font-size: 1.08rem; line-height: 1.8; color: var(--ink-soft); }
 .prose > * + * { margin-top: 1.15rem; }
 .prose h2 { font-size: 1.55rem; margin-top: 2.4rem; color: var(--ink); scroll-margin-top: 90px; }

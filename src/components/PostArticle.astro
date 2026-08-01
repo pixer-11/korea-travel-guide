@@ -665,5 +665,43 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
 
   </article>
 
+  {/* Image lightbox — owner request 2026-08-01: click any article photo to see
+      it large. Dependency-free <dialog> (ESC/backdrop close come built in);
+      the credit line rides along because CC BY-SA attribution must stay with
+      the image wherever it is shown, enlarged included. */}
+  <dialog id="img-lightbox" aria-label="Enlarged photo">
+    <button type="button" class="lb-close" aria-label="Close">✕</button>
+    <img alt="" />
+    <p class="lb-credit"></p>
+  </dialog>
+  <script>
+    const box = document.getElementById('img-lightbox') as HTMLDialogElement | null;
+    if (box) {
+      const pic = box.querySelector('img')!;
+      const credit = box.querySelector('.lb-credit')!;
+      // Wikimedia renders any thumb width on request but refuses to upscale
+      // (a 2600px ask on a 2000px original answers 400 — same trap the social
+      // card composer hit), so try the big render and fall back to the size
+      // the article already loaded.
+      const bigger = (src: string) =>
+        src.replace(/\/(\d{3,4})px-/, (m, w) => (Number(w) < 2400 ? '/2400px-' : m));
+      document.querySelectorAll<HTMLImageElement>('.article-hero img, .gallery img').forEach((img) => {
+        img.addEventListener('click', () => {
+          const big = bigger(img.src);
+          pic.onerror = () => { if (pic.src !== img.src) pic.src = img.src; };
+          pic.src = big;
+          pic.alt = img.alt;
+          credit.textContent = img.closest('figure')?.querySelector('figcaption')?.textContent ?? '';
+          box.showModal();
+        });
+      });
+      box.querySelector('.lb-close')?.addEventListener('click', () => box.close());
+      // Backdrop click closes: a click landing on the dialog element itself
+      // (not its children) can only be the backdrop area.
+      box.addEventListener('click', (e) => { if (e.target === box) box.close(); });
+      box.addEventListener('close', () => { pic.src = ''; });
+    }
+  </script>
+
   <StickyBook city={d.region} place={p?.name} />
 </BaseLayout>
