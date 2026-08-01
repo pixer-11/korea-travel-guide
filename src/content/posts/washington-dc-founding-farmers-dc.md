@@ -6,7 +6,7 @@ region: Washington DC
 category: restaurant
 pubDate: '2026-07-26T07:48:20.050Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/38479891_BsUlyw9m4iHwRlfGedWjnIFN664ZMa4OEasRri3X8Fo.jpg
+  url: https://fastly.4sqi.net/img/general/original/38479891_mNa_tBiCtNMK1w8uEdqLWAr-E3P7XVw-Jps92_dcWDQ.jpg
   credit: 'Photo: Foursquare user content (Founding Farmers)'
   license: foursquare
   source: https://foursquare.com/v/4a469855f964a5202aa91fe3
@@ -26,7 +26,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 38.900280599999995
   lng: -77.0444736
-  phone: '+1 202 822-8783'
+  phone: +1 202 822-8783
   openingHours:
     - 'Monday: 7:00 AM – 10:00 PM'
     - 'Tuesday: 7:00 AM – 10:00 PM'

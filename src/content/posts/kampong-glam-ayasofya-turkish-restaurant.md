@@ -6,15 +6,10 @@ region: Kampong Glam
 category: restaurant
 pubDate: '2026-07-23T07:36:38.731Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/1365419206_ZZXpebawFAlZ-40JlCbI3UGmOV11rWozsYTlRtxtKag.jpg
+  url: https://fastly.4sqi.net/img/general/original/2552338_bAG_Yj_7AT9up_zUffTOlSKNkXwzPoBQMSug8p-xmLM.jpg
   credit: 'Photo: Foursquare user content (Ayasofya Turkish Restaurant)'
   license: foursquare
   source: https://foursquare.com/v/608fdaaebdb67e4cc8d23436
-gallery:
-  - url: https://fastly.4sqi.net/img/general/original/2552338_bAG_Yj_7AT9up_zUffTOlSKNkXwzPoBQMSug8p-xmLM.jpg
-    credit: 'Photo: Foursquare user content (Ayasofya Turkish Restaurant)'
-    license: foursquare
-    source: https://foursquare.com/v/608fdaaebdb67e4cc8d23436
 place:
   id: ChIJL7m1cy8Z2jERHtaorNYRzuQ
   name: Ayasofya Turkish Restaurant

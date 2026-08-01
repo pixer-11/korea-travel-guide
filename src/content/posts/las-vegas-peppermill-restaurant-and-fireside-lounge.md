@@ -1,42 +1,42 @@
 ---
-title: "Peppermill Restaurant and Fireside Lounge: Where to Eat in Las Vegas"
+title: 'Peppermill Restaurant and Fireside Lounge: Where to Eat in Las Vegas'
 description: Peppermill Restaurant and Fireside Lounge, at 2985 Las Vegas Blvd S, is a classic Strip diner-and-lounge combo best known for its fire-pit cocktail lounge and oversized portions.
-country: "United States"
-region: "Las Vegas"
-category: "restaurant"
-pubDate: "2026-07-30T10:00:39.427Z"
+country: United States
+region: Las Vegas
+category: restaurant
+pubDate: '2026-07-30T10:00:39.427Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Peppermill_restaurant_exterior_%282011%29.jpg"
-  credit: "Photo: Krista / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Peppermill_restaurant_exterior_(2011).jpg"
+  url: https://fastly.4sqi.net/img/general/original/38378443_x8KQ9mXptasB4ObdcjcI3FC5QZ3qxNWAI__e-oOzXPE.jpg
+  credit: 'Photo: Foursquare user content (Peppermill Restaurant)'
+  license: foursquare
+  source: https://foursquare.com/v/4b76dcb6f964a52019652ee3
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/The_Fireside_Lounge_-_Las_Vegas.NV.jpg/3840px-The_Fireside_Lounge_-_Las_Vegas.NV.jpg"
-    credit: "Photo: J.R.Ramos / Wikimedia Commons (CC BY-SA 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:The_Fireside_Lounge_-_Las_Vegas.NV.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/The_Fireside_Lounge_-_Las_Vegas.NV.jpg/3840px-The_Fireside_Lounge_-_Las_Vegas.NV.jpg
+    credit: 'Photo: J.R.Ramos / Wikimedia Commons (CC BY-SA 2.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:The_Fireside_Lounge_-_Las_Vegas.NV.jpg
 place:
-  id: "ChIJo2QZEG3EyIARuHyQ4XC29RY"
-  name: "Peppermill Restaurant and Fireside Lounge"
-  address: "2985 Las Vegas Blvd S, Las Vegas, NV 89109, USA"
+  id: ChIJo2QZEG3EyIARuHyQ4XC29RY
+  name: Peppermill Restaurant and Fireside Lounge
+  address: 2985 Las Vegas Blvd S, Las Vegas, NV 89109, USA
   rating: 4.5
   userRatingsTotal: 20236
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=1654429034065460408&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=1654429034065460408&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 36.1336884
   lng: -115.16328329999999
-  phone: '+1 702 735-4177'
+  phone: +1 702 735-4177
   openingHours:
-    - "Monday: 7:00 AM – 2:00 AM"
-    - "Tuesday: 7:00 AM – 2:00 AM"
-    - "Wednesday: 7:00 AM – 12:00 AM"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: 7:00 AM – 2:00 AM'
+    - 'Tuesday: 7:00 AM – 2:00 AM'
+    - 'Wednesday: 7:00 AM – 12:00 AM'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-07-30
+    updated: 2026-07-30T00:00:00.000Z
     weekdayQuiet:
       - 7
     weekdayBusy:
@@ -63,22 +63,22 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_595239324358345179487552414979453347455a51326f4a496843"
+    venueId: ven_595239324358345179487552414979453347455a51326f4a496843
 tags:
-  - "las vegas"
-  - "local restaurant"
-quickAnswer: "Peppermill Restaurant and Fireside Lounge, at 2985 Las Vegas Blvd S, is a classic Strip diner-and-lounge combo best known for its fire-pit cocktail lounge and oversized portions. Go right at opening — 7am to 8am is the calmest window every day of the week, since the place is otherwise busy from mid-morning until nearly midnight on weekends. It's open 24 hours Thursday through Sunday, so a 2am booth is also a real option."
+  - las vegas
+  - local restaurant
+quickAnswer: Peppermill Restaurant and Fireside Lounge, at 2985 Las Vegas Blvd S, is a classic Strip diner-and-lounge combo best known for its fire-pit cocktail lounge and oversized portions. Go right at opening — 7am to 8am is the calmest window every day of the week, since the place is otherwise busy from mid-morning until nearly midnight on weekends. It's open 24 hours Thursday through Sunday, so a 2am booth is also a real option.
 faq:
-  - q: "What are the quietest hours to visit?"
-    a: "Foot-traffic data shows 7am–8am is the calmest window every day of the week, including weekends. Weekends stay busy from mid-morning until around 11pm, so avoid that stretch if you want a booth without waiting."
-  - q: "Is Peppermill open late or 24 hours?"
-    a: "Thursday through Sunday it's open 24 hours. Monday and Tuesday it runs 7am–2am, and Wednesday it closes earlier, at midnight — check before planning a very late visit early in the week."
-  - q: "How do I get to Peppermill without a car?"
-    a: "It's at 2985 Las Vegas Blvd S, across from the Fashion Show Mall and a short walk from Wynn, Encore, Treasure Island, and Circus Circus. Rideshare is the easiest option if you're coming from farther down the Strip."
-  - q: "Is it expensive?"
-    a: "It's mid-range for the Strip — not a cheap diner, but well below the price of the resort tasting-menu restaurants nearby. Portions are large enough that sharing a plate is common."
-  - q: "Do I need a reservation for the Fireside Lounge?"
-    a: "No, it's walk-in seating. Since it's consistently very popular, going right at opening (7am) or later at night gives you the best shot at a booth by the fire pit without a wait."
+  - q: What are the quietest hours to visit?
+    a: Foot-traffic data shows 7am–8am is the calmest window every day of the week, including weekends. Weekends stay busy from mid-morning until around 11pm, so avoid that stretch if you want a booth without waiting.
+  - q: Is Peppermill open late or 24 hours?
+    a: Thursday through Sunday it's open 24 hours. Monday and Tuesday it runs 7am–2am, and Wednesday it closes earlier, at midnight — check before planning a very late visit early in the week.
+  - q: How do I get to Peppermill without a car?
+    a: It's at 2985 Las Vegas Blvd S, across from the Fashion Show Mall and a short walk from Wynn, Encore, Treasure Island, and Circus Circus. Rideshare is the easiest option if you're coming from farther down the Strip.
+  - q: Is it expensive?
+    a: It's mid-range for the Strip — not a cheap diner, but well below the price of the resort tasting-menu restaurants nearby. Portions are large enough that sharing a plate is common.
+  - q: Do I need a reservation for the Fireside Lounge?
+    a: No, it's walk-in seating. Since it's consistently very popular, going right at opening (7am) or later at night gives you the best shot at a booth by the fire pit without a wait.
 aiGenerated: true
 draft: false
 ---

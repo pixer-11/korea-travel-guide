@@ -6,15 +6,10 @@ region: Istanbul
 category: trendy
 pubDate: '2026-07-24'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/58770682_pmfkjoOR7sivXyFd7gV8OgTn36EQKhcPb_lcK5AZ_jw.jpg
+  url: https://fastly.4sqi.net/img/general/original/382824581_n8tY4mL9rQfEFjw4Qqmrdjt8YC8csa9Pj-KI_44gTI0.jpg
   credit: 'Photo: Foursquare user content (Kinu Matcha Bar)'
   license: foursquare
   source: https://foursquare.com/v/69174a2bb0526a28831c6067
-gallery:
-  - url: https://fastly.4sqi.net/img/general/original/382824581_n8tY4mL9rQfEFjw4Qqmrdjt8YC8csa9Pj-KI_44gTI0.jpg
-    credit: 'Photo: Foursquare user content (Kinu Matcha Bar)'
-    license: foursquare
-    source: https://foursquare.com/v/69174a2bb0526a28831c6067
 place:
   id: ChIJK8B_Fia3yhQRmySyReiPzP4
   name: kinu matcha bar

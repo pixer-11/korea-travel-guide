@@ -6,7 +6,7 @@ region: Orchard Road
 category: restaurant
 pubDate: '2026-07-23T07:45:00.433Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/838688_rga36C4A6wx1LAWEW31Z-dzaYi9d_9bvBu4MhH1ISEY.jpg
+  url: https://fastly.4sqi.net/img/general/original/12802501_y6DwmWodyOMAX6irH83AXEhs2EP9vgQ6orPo3xfj1H4.jpg
   credit: 'Photo: Foursquare user content (Maxwell Food Centre)'
   license: foursquare
   source: https://foursquare.com/v/4b1f21a6f964a520432424e3

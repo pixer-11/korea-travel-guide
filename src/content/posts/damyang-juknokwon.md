@@ -6,7 +6,7 @@ region: Damyang
 category: attraction
 pubDate: '2026-07-26T08:32:52.242Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/8849025_F7CJZSL4bX-aM2bbedlxGLYXhNO-KNmCjur6vYALSfI.jpg
+  url: https://fastly.4sqi.net/img/general/original/122525679_ZPZ0Kl-IHl4EmsaYnQdCXQUUkLpUe08ngDJn5qNL8ks.jpg
   credit: 'Photo: Foursquare user content (Juknokwon (죽녹원))'
   license: foursquare
   source: https://foursquare.com/v/4b63a337f964a520de882ae3
@@ -20,7 +20,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 35.3266303
   lng: 126.9853868
-  phone: '+82 61-380-2680'
+  phone: +82 61-380-2680
   openingHours:
     - 'Monday: 9:00 AM – 6:00 PM'
     - 'Tuesday: 9:00 AM – 6:00 PM'

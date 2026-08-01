@@ -1,20 +1,15 @@
 ---
-title: "Mê Hội An Rooftop Coffee & Kitchen: Hoi An Travel Guide"
+title: 'Mê Hội An Rooftop Coffee & Kitchen: Hoi An Travel Guide'
 description: Mê Hội An Rooftop Coffee & Kitchen sits at 166 Trần Phú in the heart of Hoi An's Old Town, a short walk from the Japanese Covered Bridge, and is best visited in the late afternoon (around 4:30–6pm) to snag a rooftop table before sunset and the evening lantern glow.
 country: Vietnam
 region: Hoi An
 category: trendy
-pubDate: "2026-07-22T09:37:10.215Z"
+pubDate: '2026-07-22T09:37:10.215Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/5679311_Yk_4QWNWxP3VTKPkd2S-XGRlSLBO0FV9VxCiXyKyR3I.jpg
-  credit: "Photo: Foursquare user content (Me Hoi An Rooftop Coffee)"
+  url: https://fastly.4sqi.net/img/general/original/8480041_8ufzyvwKfJAU8xdhbqaygx3oQbBXAG2DW-1PIBlrLKg.jpg
+  credit: 'Photo: Foursquare user content (Me Hoi An Rooftop Coffee)'
   license: foursquare
   source: https://foursquare.com/v/67dd21eff454f47c5baf2549
-gallery:
-  - url: https://fastly.4sqi.net/img/general/original/8480041_8ufzyvwKfJAU8xdhbqaygx3oQbBXAG2DW-1PIBlrLKg.jpg
-    credit: "Photo: Foursquare user content (Me Hoi An Rooftop Coffee)"
-    license: foursquare
-    source: https://foursquare.com/v/67dd21eff454f47c5baf2549
 place:
   id: ChIJb_HrObEPQjER6_deT8uf0sY
   name: Mê Hội An Rooftop Coffee & Kitchen
@@ -26,13 +21,20 @@ place:
   lat: 15.8771366
   lng: 108.3269249
   busyness:
-    updated: "2026-07-23"
-    weekdayQuiet: [8, 9, 10]
+    updated: '2026-07-23'
+    weekdayQuiet:
+      - 8
+      - 9
+      - 10
     weekdayBusy:
       - 17
       - 18
       - 19
-    weekendQuiet: [8, 9, 10, 21]
+    weekendQuiet:
+      - 8
+      - 9
+      - 10
+      - 21
     weekendBusy:
       - 15
       - 16
@@ -41,15 +43,15 @@ place:
       - 19
     venueId: ven_5973306675385465645f3652456a515045624f72485f624a496843
   priceLevel: 1
-  phone: '+84 374 099 375'
+  phone: +84 374 099 375
   openingHours:
-    - "Monday: 8:00 AM – 10:30 PM"
-    - "Tuesday: 8:00 AM – 10:30 PM"
-    - "Wednesday: 8:00 AM – 10:30 PM"
-    - "Thursday: 8:00 AM – 10:30 PM"
-    - "Friday: 8:00 AM – 10:30 PM"
-    - "Saturday: 8:00 AM – 10:30 PM"
-    - "Sunday: 8:00 AM – 10:30 PM"
+    - 'Monday: 8:00 AM – 10:30 PM'
+    - 'Tuesday: 8:00 AM – 10:30 PM'
+    - 'Wednesday: 8:00 AM – 10:30 PM'
+    - 'Thursday: 8:00 AM – 10:30 PM'
+    - 'Friday: 8:00 AM – 10:30 PM'
+    - 'Saturday: 8:00 AM – 10:30 PM'
+    - 'Sunday: 8:00 AM – 10:30 PM'
 tags:
   - hoi an
   - trendy cafe
@@ -66,7 +68,7 @@ faq:
   - q: Do I need a ticket to enter the café?
     a: No ticket is needed for the café itself, though nearby Old Town heritage houses and monuments require the separate Hoi An Ancient Town entrance ticket.
 aiGenerated: true
-updatedDate: "2026-07-24"
+updatedDate: '2026-07-24'
 ---
 
 ## Why go

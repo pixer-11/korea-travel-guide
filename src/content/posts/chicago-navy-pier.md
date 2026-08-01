@@ -1,50 +1,49 @@
 ---
-title: "Navy Pier: Chicago Travel Guide"
-description: "Navy Pier is Chicago's mile-long lakefront pier packed with the Centennial Wheel, a stained-glass museum, gardens, restaurants, and summer fireworks."
-country: "United States"
-region: "Chicago"
-category: "attraction"
-pubDate: "2026-07-30T09:52:59.873Z"
+title: 'Navy Pier: Chicago Travel Guide'
+description: Navy Pier is Chicago's mile-long lakefront pier packed with the Centennial Wheel, a stained-glass museum, gardens, restaurants, and summer fireworks.
+country: United States
+region: Chicago
+category: attraction
+pubDate: '2026-07-30T09:52:59.873Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/c/c4/Navy_Pier_1190x1585_%28cropped%29.jpg"
-  credit: "Photo: Hbodine / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Navy_Pier_1190x1585_(cropped).jpg"
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/502414418_dd5rexc9ogc18jEvdpFx_sPisb5bN7lKN2JmcGKp6bk.jpg
+  credit: 'Photo: Foursquare user content (Navy Pier)'
+  license: foursquare
+  source: https://foursquare.com/v/45840abff964a520913f1fe3
 place:
-  id: "ChIJ2y7xkU0rDogR3KSIsJbbrNA"
-  name: "Navy Pier"
-  address: "600 E Grand Ave, Chicago, IL 60611, USA"
+  id: ChIJ2y7xkU0rDogR3KSIsJbbrNA
+  name: Navy Pier
+  address: 600 E Grand Ave, Chicago, IL 60611, USA
   rating: 4.6
   userRatingsTotal: 88021
-  googleMapsUrl: "https://maps.google.com/?cid=15036634696136565980&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=15036634696136565980&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.8918633
   lng: -87.6050944
-  phone: '+1 312 595-7437'
+  phone: +1 312 595-7437
   openingHours:
-    - "Monday: 11:00 AM – 8:00 PM"
-    - "Tuesday: 11:00 AM – 8:00 PM"
-    - "Wednesday: 11:00 AM – 8:00 PM"
-    - "Thursday: 11:00 AM – 8:00 PM"
-    - "Friday: 11:00 AM – 10:00 PM"
-    - "Saturday: 11:00 AM – 10:00 PM"
-    - "Sunday: 11:00 AM – 9:00 PM"
+    - 'Monday: 11:00 AM – 8:00 PM'
+    - 'Tuesday: 11:00 AM – 8:00 PM'
+    - 'Wednesday: 11:00 AM – 8:00 PM'
+    - 'Thursday: 11:00 AM – 8:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
 tags:
-  - "chicago"
-  - "top attraction"
-quickAnswer: "Navy Pier is Chicago's mile-long lakefront pier packed with the Centennial Wheel, a stained-glass museum, gardens, restaurants, and summer fireworks. It's open daily (11am–8pm most weekdays, later Fri–Sun); arrive right at 11am opening or after 6pm on a weekday to dodge the worst crowds. Plan on 2–4 hours, longer if you're catching fireworks or a boat tour."
+  - chicago
+  - top attraction
+quickAnswer: Navy Pier is Chicago's mile-long lakefront pier packed with the Centennial Wheel, a stained-glass museum, gardens, restaurants, and summer fireworks. It's open daily (11am–8pm most weekdays, later Fri–Sun); arrive right at 11am opening or after 6pm on a weekday to dodge the worst crowds. Plan on 2–4 hours, longer if you're catching fireworks or a boat tour.
 faq:
-  - q: "How do I get to Navy Pier without a car?"
-    a: "Take the CTA Red Line to Grand/State and walk about 15-20 minutes east, hop on CTA bus 29, or ride the free seasonal trolley/water taxi from the Loop. It's also a flat, scenic 15-20 minute walk from Michigan Avenue."
-  - q: "How long should I spend at Navy Pier?"
-    a: "Budget 2 to 4 hours for the wheel, gardens, and stained-glass museum; add extra time if you're doing a boat tour, IMAX film, or staying for evening fireworks."
-  - q: "What time is Navy Pier open?"
-    a: "11am–8pm Monday through Thursday, 11am–10pm Friday and Saturday, and 11am–9pm Sunday. Confirm hours online before visiting, especially in winter, since some individual attractions run shorter seasonal schedules."
-  - q: "When is Navy Pier least crowded?"
-    a: "Right at the 11am opening or after 6pm on a weekday evening. Weekends and fireworks nights draw the heaviest crowds, especially from early afternoon onward."
-  - q: "Is Navy Pier free to visit?"
-    a: "Walking the pier, the gardens, and window-shopping cost nothing, but individual attractions like the Centennial Wheel, boat cruises, and the Children's Museum charge separate admission — check current prices before you go."
+  - q: How do I get to Navy Pier without a car?
+    a: Take the CTA Red Line to Grand/State and walk about 15-20 minutes east, hop on CTA bus 29, or ride the free seasonal trolley/water taxi from the Loop. It's also a flat, scenic 15-20 minute walk from Michigan Avenue.
+  - q: How long should I spend at Navy Pier?
+    a: Budget 2 to 4 hours for the wheel, gardens, and stained-glass museum; add extra time if you're doing a boat tour, IMAX film, or staying for evening fireworks.
+  - q: What time is Navy Pier open?
+    a: 11am–8pm Monday through Thursday, 11am–10pm Friday and Saturday, and 11am–9pm Sunday. Confirm hours online before visiting, especially in winter, since some individual attractions run shorter seasonal schedules.
+  - q: When is Navy Pier least crowded?
+    a: Right at the 11am opening or after 6pm on a weekday evening. Weekends and fireworks nights draw the heaviest crowds, especially from early afternoon onward.
+  - q: Is Navy Pier free to visit?
+    a: Walking the pier, the gardens, and window-shopping cost nothing, but individual attractions like the Centennial Wheel, boat cruises, and the Children's Museum charge separate admission — check current prices before you go.
 aiGenerated: true
 draft: false
 ---

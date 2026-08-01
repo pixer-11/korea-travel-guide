@@ -6,7 +6,7 @@ region: Tokyo
 category: restaurant
 pubDate: '2026-07-22T09:01:52.705Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/90430957_52IvefIGhXhNMG9D0po9wSOaqqmlC6j7qx_I6ZYO3zU.jpg
+  url: https://fastly.4sqi.net/img/general/original/851844_3LF2dpFwmoINmk2edJSjPkNFA43RH7PQraX53i91m14.jpg
   credit: 'Photo: Foursquare user content (Ise Sueyoshi (伊勢すえよし))'
   license: foursquare
   source: https://foursquare.com/v/577dac00498e7e15aca49d6f
@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 35.6586527
   lng: 139.7235382
-  phone: '+81 3-6427-2314'
+  phone: +81 3-6427-2314
   openingHours:
     - 'Monday: Closed'
     - 'Tuesday: 5:00 – 10:00 PM'

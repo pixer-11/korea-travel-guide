@@ -6,7 +6,7 @@ region: Malacca
 category: attraction
 pubDate: '2026-07-26T07:16:08.116Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/46193174_ryhlILGrOSxddR3m5kpDJ50NmG8xwrgsotb9qg5APDc.jpg
+  url: https://fastly.4sqi.net/img/general/original/512524966_F7CwcO8lEb1FYo8gtwJu7IPAsoHXhN7SQyfp6XMx55Q.jpg
   credit: 'Photo: Foursquare user content (Menara Taming Sari)'
   license: foursquare
   source: https://foursquare.com/v/4ba37cd6f964a520674138e3
@@ -20,7 +20,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 2.1909232000000003
   lng: 102.2469033
-  phone: '+60 6-288 1100'
+  phone: +60 6-288 1100
   openingHours:
     - 'Monday: 9:00 AM – 10:00 PM'
     - 'Tuesday: 9:00 AM – 10:00 PM'

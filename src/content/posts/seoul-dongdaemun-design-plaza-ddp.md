@@ -6,7 +6,7 @@ region: Seoul
 category: attraction
 pubDate: '2026-07-26T07:03:19.926Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/4953223_wQu-_zHbrYFbC823vQe7BFA9dOG0XBW49-AC3xgzuog.jpg
+  url: https://fastly.4sqi.net/img/general/original/6109091_MR_6XqItW7wF-4PPdnvqSw1vJ3w_SvAjQ0sZkrJUB_U.jpg
   credit: 'Photo: Foursquare user content (Dongdaemun Design Plaza (동대문디자인플라자))'
   license: foursquare
   source: https://foursquare.com/v/4b8220d2f964a52036cb30e3
@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 37.5665256
   lng: 127.00922360000001
-  phone: '+82 2-2153-0000'
+  phone: +82 2-2153-0000
   openingHours:
     - 'Monday: 10:00 AM – 8:00 PM'
     - 'Tuesday: 10:00 AM – 8:00 PM'

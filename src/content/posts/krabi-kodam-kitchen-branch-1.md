@@ -6,15 +6,10 @@ region: Krabi
 category: restaurant
 pubDate: '2026-07-22T09:11:24.860Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/74891370_YQS6m1O78ajinH-onhYcHEFqJrUM6tMOBUyDJS394SM.jpg
+  url: https://fastly.4sqi.net/img/general/original/3535474_Meq_6n1EN8s3FtzpnbjL1WvJmgPjiaSu1wWVfEHkIug.jpg
   credit: 'Photo: Foursquare user content (Kodam Kitchen)'
   license: foursquare
   source: https://foursquare.com/v/4f5ca790e4b05cd76a6a7341
-gallery:
-  - url: https://fastly.4sqi.net/img/general/original/3535474_Meq_6n1EN8s3FtzpnbjL1WvJmgPjiaSu1wWVfEHkIug.jpg
-    credit: 'Photo: Foursquare user content (Kodam Kitchen)'
-    license: foursquare
-    source: https://foursquare.com/v/4f5ca790e4b05cd76a6a7341
 place:
   id: ChIJJSWrBQrAUTARg5DFe2jio2w
   name: Kodam Kitchen branch 1

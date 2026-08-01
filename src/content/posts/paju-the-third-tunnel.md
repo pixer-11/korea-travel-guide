@@ -5,7 +5,7 @@ region: Paju
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/134989_ylFjN783s9eC_zaK9QOdRqJwIW0n26v1IUbJgcnhCsY.jpg
+  url: https://fastly.4sqi.net/img/general/original/67350312_bs_UQaEcuy0z_n1nCvCcwgLOY9o-39m1wRZZsMZK9Fw.jpg
   credit: 'Photo: Foursquare user content (DMZ Third Tunnel of Aggression (제3땅굴))'
   license: foursquare
   source: https://foursquare.com/v/4c7dba13d598a093caf2c362

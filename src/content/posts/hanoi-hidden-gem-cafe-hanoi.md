@@ -6,7 +6,7 @@ region: Hanoi
 category: hidden-gem
 pubDate: '2026-07-22T09:34:33.925Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/590519079_CYjT113tUuGaVtML7-cxz_wfWH1yJyg0hKcSql32do0.jpg
+  url: https://fastly.4sqi.net/img/general/original/17834158_el_T6kdYYvxUYE4MJ_rv556PHfL83id65egOuZR7x7M.jpg
   credit: 'Photo: Foursquare user content (Hidden Gem Coffee)'
   license: foursquare
   source: https://foursquare.com/v/5c5161f7f427de002cd2eed3
@@ -22,12 +22,17 @@ place:
   lng: 105.8551911
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [7, 8, 9]
+    weekdayQuiet:
+      - 7
+      - 8
+      - 9
     weekdayBusy:
       - 11
       - 12
       - 13
-    weekendQuiet: [7, 8]
+    weekendQuiet:
+      - 7
+      - 8
     weekendBusy:
       - 11
       - 12
@@ -38,7 +43,7 @@ place:
       - 20
     venueId: ven_77495a52384d552d786d645245544e724b69326553636a4a496843
   priceLevel: 1
-  phone: '+84 962 011 540'
+  phone: +84 962 011 540
   openingHours:
     - 'Monday: 7:00 AM – 10:00 PM'
     - 'Tuesday: 7:00 AM – 10:00 PM'

@@ -1,16 +1,15 @@
 ---
-title: "Jardín Botánico - Histórico La Concepción: Malaga Travel Guide"
+title: 'Jardín Botánico - Histórico La Concepción: Malaga Travel Guide'
 description: La Concepción is a 23-hectare tropical garden on the northern edge of Málaga, easily worth a half-day visit for its century-old ficus trees, bamboo tunnels, and Mudéjar-tiled viewpoints.
 country: Spain
 region: Malaga
 category: hidden-gem
-pubDate: "2026-07-29T10:15:24.401Z"
+pubDate: '2026-07-29T10:15:24.401Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/f/fb/Ninfa_del_Jard%C3%ADn_Bot%C3%A1nico-Hist%C3%B3rico_La_Concepci%C3%B3n.JPG
-  credit: "Photo: Daniel Capilla / Wikimedia Commons (CC BY-SA 4.0)"
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Ninfa_del_Jard%C3%ADn_Bot%C3%A1nico-Hist%C3%B3rico_La_Concepci%C3%B3n.JPG
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/9989180_YQ9oJvlrnWL5qxR-J--OYK7WPjEFSFcIkn4F21JbGEM.jpg
+  credit: 'Photo: Foursquare user content (Jardín Botánico La Concepción)'
+  license: foursquare
+  source: https://foursquare.com/v/4c3780213849c928f3d1bdb1
 place:
   id: ChIJBeoOtEP2cg0RAui-vP66EyM
   name: Jardín Botánico - Histórico La Concepción
@@ -21,15 +20,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 36.7601029
   lng: -4.4262669
-  phone: '+34 951 92 61 80'
+  phone: +34 951 92 61 80
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 9:30 AM – 8:30 PM"
-    - "Wednesday: 9:30 AM – 8:30 PM"
-    - "Thursday: 9:30 AM – 8:30 PM"
-    - "Friday: 9:30 AM – 8:30 PM"
-    - "Saturday: 9:30 AM – 8:30 PM"
-    - "Sunday: 9:30 AM – 8:30 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 9:30 AM – 8:30 PM'
+    - 'Wednesday: 9:30 AM – 8:30 PM'
+    - 'Thursday: 9:30 AM – 8:30 PM'
+    - 'Friday: 9:30 AM – 8:30 PM'
+    - 'Saturday: 9:30 AM – 8:30 PM'
+    - 'Sunday: 9:30 AM – 8:30 PM'
   busyness:
     updated: 2026-07-29T00:00:00.000Z
     weekdayBusy:

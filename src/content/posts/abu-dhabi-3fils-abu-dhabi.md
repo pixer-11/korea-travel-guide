@@ -6,7 +6,7 @@ region: Abu Dhabi
 category: trendy
 pubDate: '2026-07-29'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/1399899968_oly9dPvnB_OlWLsGSxQyyi324KzyrdjU0ZD5azPUfvo.jpg
+  url: https://fastly.4sqi.net/img/general/original/86635185_ybvBa4MYNQEdSr0xXdsl8B4_Sx_6wjdkQTgw-v0bTdg.jpg
   credit: 'Photo: Foursquare user content (3Fils)'
   license: foursquare
   source: https://foursquare.com/v/686bed347f38376c9795c0e3

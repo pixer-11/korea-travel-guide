@@ -6,7 +6,7 @@ region: Chicago
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/538261247_gmH4g0UF4C7CBux4NRql7_FaYCctiCLAxzG9ra0ccHk.jpg
+  url: https://fastly.4sqi.net/img/general/original/27331709_IVlEJKmiGf57s05jGa4N7hS1HlDT23pQ7qDxWtC530w.jpg
   credit: 'Photo: Foursquare user content (Cloud Gate)'
   license: foursquare
   source: https://foursquare.com/v/4b0850dff964a520da0823e3

@@ -6,7 +6,7 @@ region: Ankara
 category: restaurant
 pubDate: '2026-07-27T10:55:23.193Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/536647529_qS5xpk7AGlr2PAkzNOwUNeiD7ECbZe-KsZqfv3tLH7Y.jpg
+  url: https://fastly.4sqi.net/img/general/original/78383375_TdadgicP6FXfgFaNW3axQw4PxAusvFHHOnjD64B0v3s.jpg
   credit: 'Photo: Foursquare user content (Trilye Restaurant)'
   license: foursquare
   source: https://foursquare.com/v/4b9bb938f964a5201d1e36e3
@@ -26,7 +26,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 39.8940686
   lng: 32.8719779
-  phone: '+90 312 447 12 00'
+  phone: +90 312 447 12 00
   openingHours:
     - 'Monday: 12:00 PM – 12:00 AM'
     - 'Tuesday: 12:00 PM – 12:00 AM'

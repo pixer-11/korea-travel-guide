@@ -6,7 +6,7 @@ region: Rome
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/523294167__gLJXZj4xnor1WzGXvJZcHp1b3RtXbQ8U3u-WFI3UcY.jpg
+  url: https://fastly.4sqi.net/img/general/original/14124065_Xdx1YDZ9MomSxP7GOHmARcC4TXfn0p4LlUgZS8DSPrw.jpg
   credit: 'Photo: Foursquare user content (Luna By Faro - Caffè Specialty / Brunch & Lunch)'
   license: foursquare
   source: https://foursquare.com/v/6813a0bbfd67646c8a674eae

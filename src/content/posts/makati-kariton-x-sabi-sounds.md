@@ -6,7 +6,7 @@ region: Makati
 category: trendy
 pubDate: '2026-07-29'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/24569583_e7rtiCMvd85PFlB61xvMkHij4HDQDChP7NcClflBqc0.jpg
+  url: https://fastly.4sqi.net/img/general/original/54083569_FFg2tJdCVHEDLynQGEi16OuqkMndkmi-fOBfg0HEPis.jpg
   credit: 'Photo: Foursquare user content (Kariton x Sabi Sounds)'
   license: foursquare
   source: https://foursquare.com/v/6a0e8e4281d650359f0e76ee
