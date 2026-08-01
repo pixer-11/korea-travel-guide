@@ -30,7 +30,6 @@ faq:
   - q: Where's a good base for travelers coming just for this show?
     a: Central KL areas like Bangsar, Mid Valley, or near KL Sentral offer easy LRT or car access to Bukit Jalil, plus more hotel and dining options than the immediate venue area.
 aiGenerated: true
-draft: false
 ---
 
 ## Why this show matters

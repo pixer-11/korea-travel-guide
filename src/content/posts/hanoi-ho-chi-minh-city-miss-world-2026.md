@@ -30,7 +30,6 @@ faq:
   - q: What's the weather like during the event?
     a: Early August to early September is rainy season in Vietnam, with high humidity, heat, and frequent short downpours in both cities — pack light layers and a small umbrella.
 aiGenerated: true
-draft: false
 ---
 
 ## Why this matters for travelers

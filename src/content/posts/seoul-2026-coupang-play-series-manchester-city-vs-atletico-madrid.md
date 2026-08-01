@@ -30,7 +30,6 @@ faq:
   - q: Is there anything to do near the stadium before or after the match?
     a: Yes — the adjacent Sangam World Cup Park offers walking trails and green space, and a nearby mall complex has restaurants and a cinema for pre- or post-match time.
 aiGenerated: true
-draft: false
 ---
 
 ## Why this fixture matters

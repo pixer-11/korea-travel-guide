@@ -30,7 +30,6 @@ faq:
   - q: Where do I buy tickets?
     a: Check official channels only — typically UOB Live's website or authorized partners like Thai Ticket Major — and avoid unofficial resale sites, since prices and tiers weren't specified in official announcements at publication time.
 aiGenerated: true
-draft: false
 ---
 
 ## Why this show matters

@@ -30,7 +30,6 @@ faq:
   - q: What else is nearby if I want to extend the trip?
     a: Flushing Meadows–Corona Park has the Unisphere, Queens Museum, and New York Hall of Science within walking distance, and Flushing's Chinatown is a short subway ride away for one of NYC's best food scenes.
 aiGenerated: true
-draft: false
 ---
 
 ## Why go

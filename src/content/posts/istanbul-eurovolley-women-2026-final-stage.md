@@ -30,7 +30,6 @@ faq:
   - q: What's the weather like in late August/early September?
     a: Hot and humid, typically in the high 20s to low 30s Celsius. Plan outdoor sightseeing for morning or early evening and expect an air-conditioned indoor arena for matches.
 aiGenerated: true
-draft: false
 ---
 
 ## Why go

@@ -30,7 +30,6 @@ faq:
   - q: What's the weather like in mid-August?
     a: Hot, humid, and within central Vietnam's rainy season — expect brief, heavy showers that usually clear fast. Pack accordingly rather than trying to dodge specific days.
 aiGenerated: true
-draft: false
 ---
 
 ## Why this one's different

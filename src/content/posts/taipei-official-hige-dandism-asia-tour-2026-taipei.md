@@ -30,7 +30,6 @@ faq:
   - q: Should I attend both nights?
     a: Many touring fans do, since dome shows on consecutive nights often rotate part of the setlist. If you can only go once, either date should give you the full production, but check official recaps after night one if you're deciding on the second.
 aiGenerated: true
-draft: false
 ---
 
 ## Why this show matters

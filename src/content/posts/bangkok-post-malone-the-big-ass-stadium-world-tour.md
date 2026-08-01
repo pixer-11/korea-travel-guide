@@ -30,7 +30,6 @@ faq:
   - q: What's the weather like in Bangkok in late September?
     a: It's rainy season — expect heat, humidity, and the chance of sudden downpours, so bring a compact umbrella or poncho for the outdoor stadium crowd.
 aiGenerated: true
-draft: false
 ---
 
 ## Why this show matters

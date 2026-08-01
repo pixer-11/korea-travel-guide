@@ -30,7 +30,6 @@ faq:
   - q: What's nearby if I want to make a night of it?
     a: VivoCity mall sits right next to the venue with dining and shopping, and Sentosa Island's attractions (beaches, Universal Studios Singapore, cable car) are a short ride away if you want to extend the visit.
 aiGenerated: true
-draft: false
 ---
 
 ## Why this show matters

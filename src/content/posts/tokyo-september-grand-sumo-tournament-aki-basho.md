@@ -30,7 +30,6 @@ faq:
   - q: Is there anything to do nearby?
     a: The Ryogoku neighborhood has a small sumo museum inside the Kokugikan, plus numerous chanko-nabe (sumo stew) restaurants and sumo-stable-lined streets worth exploring before or after the bouts.
 aiGenerated: true
-draft: false
 ---
 
 ## Why go

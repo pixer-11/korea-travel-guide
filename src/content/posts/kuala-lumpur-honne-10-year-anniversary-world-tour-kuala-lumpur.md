@@ -30,7 +30,6 @@ faq:
   - q: Is there anything to do near REXKL before or after the show?
     a: Yes — the venue sits in KL's historic Chinatown core, within walking distance of Central Market, Merdeka Square, and the hawker stalls of Petaling Street, all worth building into your trip around the concert dates.
 aiGenerated: true
-draft: false
 ---
 
 ## Why this show matters

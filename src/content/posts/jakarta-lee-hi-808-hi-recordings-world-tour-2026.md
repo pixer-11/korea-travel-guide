@@ -30,7 +30,6 @@ faq:
   - q: Where can I buy tickets safely?
     a: Ticket prices and sale dates weren't specified in the initial announcement. Buy only through the official promoter or verified ticketing platform once released, and avoid early resale listings to steer clear of scalped or fake tickets.
 aiGenerated: true
-draft: false
 ---
 
 ## Why this show matters

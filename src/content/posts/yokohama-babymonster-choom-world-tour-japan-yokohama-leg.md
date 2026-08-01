@@ -30,7 +30,6 @@ faq:
   - q: What else is worth doing near the venue?
     a: Minato Mirai has the Cosmo Clock 21 Ferris wheel, Landmark Tower, and Red Brick Warehouse within walking distance, and Yokohama Chinatown is a short trip away for a pre- or post-show meal.
 aiGenerated: true
-draft: false
 ---
 
 ## Why this stop matters

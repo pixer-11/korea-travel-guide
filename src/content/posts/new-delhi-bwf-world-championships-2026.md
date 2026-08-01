@@ -30,7 +30,6 @@ faq:
   - q: Is August a good time to visit Delhi otherwise?
     a: August is monsoon season in Delhi — hot, humid, and prone to heavy rain showers — so it's shoulder season for general tourism, but it can mean better hotel rates outside tournament-driven demand.
 aiGenerated: true
-draft: false
 ---
 
 ## Why go

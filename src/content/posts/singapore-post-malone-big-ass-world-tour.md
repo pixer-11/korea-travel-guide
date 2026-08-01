@@ -30,7 +30,6 @@ faq:
   - q: Is this Post Malone's first real headline show in Singapore?
     a: Yes — he previously performed as a guest act during the 2023 F1 Singapore Grand Prix concert weekend, but this September 25, 2026 date is his first full solo headline concert in the city.
 aiGenerated: true
-draft: false
 ---
 
 ## Why this show matters

@@ -30,7 +30,6 @@ faq:
   - q: Is July a good time to visit Phu Quoc otherwise?
     a: July is rainy season — expect brief, heavy afternoon showers with clearer mornings. It's fine for beach and boat trips if you schedule outdoor time early in the day, but pack rain gear alongside sunscreen.
 aiGenerated: true
-draft: false
 ---
 
 ## Why go

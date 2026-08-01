@@ -30,7 +30,6 @@ faq:
   - q: How long should I plan to stay?
     a: One to two days covers a couple of sessions comfortably, but dedicated fans often stay for the semifinal and final weekend, which are the highest-demand sessions.
 aiGenerated: true
-draft: false
 ---
 
 ## Why go

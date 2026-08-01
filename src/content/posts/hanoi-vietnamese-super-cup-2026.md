@@ -30,7 +30,6 @@ faq:
   - q: What else can I do in Hanoi around the match?
     a: Combine the game with a visit to the Temple of Literature and an afternoon exploring the Old Quarter's food stalls for bún chả and egg coffee before heading to the stadium.
 aiGenerated: true
-draft: false
 ---
 
 ## Why this match matters

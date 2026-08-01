@@ -30,7 +30,6 @@ faq:
   - q: When should I plan to arrive on show day?
     a: Exact doors/showtime aren't public yet. Once announced, plan to arrive well before the stated start time, since major stops on this tour have drawn large, fast-moving crowds.
 aiGenerated: true
-draft: false
 ---
 
 ## Why this stop matters
