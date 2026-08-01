@@ -21,7 +21,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 26.898130899999998
   lng: 75.80823989999999
-  phone: 0141 667 1234
+  phone: '+91 141 667 1234'
   openingHours:
     - 'Monday: 7:00 – 11:45 PM'
     - 'Tuesday: 7:00 – 11:45 PM'

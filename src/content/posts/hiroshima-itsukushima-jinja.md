@@ -32,21 +32,13 @@ place:
   lng: 132.3198285
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 7
-      - 8
-      - 17
-      - 18
+    weekdayQuiet: [7, 8, 17]
     weekdayBusy:
       - 11
       - 12
       - 13
       - 14
-    weekendQuiet:
-      - 7
-      - 8
-      - 17
-      - 18
+    weekendQuiet: [7, 8, 17]
     weekendBusy:
       - 10
       - 11
@@ -55,7 +47,7 @@ place:
       - 14
       - 15
     venueId: ven_556a636f63503031574e6b52416d476a5467664833326a4a496843
-  phone: '0829-44-2020'
+  phone: '+81 829-44-2020'
   openingHours:
     - 'Monday: 6:30 AM – 6:00 PM'
     - 'Tuesday: 6:30 AM – 6:00 PM'

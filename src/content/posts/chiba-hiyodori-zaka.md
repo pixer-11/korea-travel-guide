@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 35.7167628
   lng: 140.2221667
-  phone: "043-486-6000"
+  phone: '+81 43-486-6000'
   openingHours:
     - "Monday: Open 24 hours"
     - "Tuesday: Open 24 hours"

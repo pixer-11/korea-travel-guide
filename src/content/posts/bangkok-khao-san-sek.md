@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 13.7366864
   lng: 100.5102656
-  phone: '097 016 9824'
+  phone: '+66 97 016 9824'
   openingHours:
     - 'Monday: 11:30 AM – 10:30 PM'
     - 'Tuesday: 4:30 – 10:30 PM'

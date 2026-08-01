@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 43.7693012
   lng: 11.2561509
-  phone: 055 276 8325
+  phone: '+39 055 276 8325'
   openingHours:
     - 'Monday: 9:00 AM – 7:00 PM'
     - 'Tuesday: 9:00 AM – 7:00 PM'

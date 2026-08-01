@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 4.6258304
   lng: 101.0889885
-  phone: "05-208 3333"
+  phone: '+60 5-208 3333'
   openingHours:
     - "Monday: 8:00 AM – 5:00 PM"
     - "Tuesday: 8:00 AM – 5:00 PM"

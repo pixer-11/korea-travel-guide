@@ -21,7 +21,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 25.763261399999998
   lng: -80.19496889999999
-  phone: (305) 535-0065
+  phone: '+1 305 535-0065'
   openingHours:
     - 'Monday: Closed'
     - 'Tuesday: 6:00 – 11:00 PM'

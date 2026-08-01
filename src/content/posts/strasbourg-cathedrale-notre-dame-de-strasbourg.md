@@ -21,7 +21,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 48.5818799
   lng: 7.7510348
-  phone: 03 88 21 43 34
+  phone: '+33 3 88 21 43 34'
   openingHours:
     - "Monday: 8:30 – 11:15 AM, 12:45 – 5:45 PM"
     - "Tuesday: 8:30 – 11:15 AM, 12:45 – 5:45 PM"
@@ -39,13 +39,7 @@ place:
     weekendQuiet:
       - 8
       - 9
-    weekendBusy:
-      - 12
-      - 13
-      - 14
-      - 15
-      - 16
-      - 17
+    weekendBusy: [12, 13, 14, 15, 16]
     venueId: ven_6365466e6358396564434f52636b6c494c3155356734514a496843
 tags:
   - strasbourg

@@ -21,7 +21,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 45.6051788
   lng: 9.2796674
-  phone: "039 394641"
+  phone: '+39 039 394641'
   openingHours:
     - "Monday: 7:00 AM – 8:30 PM"
     - "Tuesday: 7:00 AM – 8:30 PM"

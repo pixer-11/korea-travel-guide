@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 1.2838676999999998
   lng: 103.8660024
-  phone: "6420 6848"
+  phone: '+65 6420 6848'
   openingHours:
     - "Monday: 9:00 AM – 9:00 PM"
     - "Tuesday: 9:00 AM – 9:00 PM"

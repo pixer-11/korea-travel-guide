@@ -31,7 +31,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 33.586206499999996
   lng: 130.3764646
-  phone: '092-741-2004'
+  phone: '+81 92-741-2004'
   openingHours:
     - 'Monday: Open 24 hours'
     - 'Tuesday: Open 24 hours'

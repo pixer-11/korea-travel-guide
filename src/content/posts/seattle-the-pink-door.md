@@ -26,7 +26,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 47.6103652
   lng: -122.34256040000001
-  phone: (206) 443-3241
+  phone: '+1 206 443-3241'
   openingHours:
     - "Monday: Closed"
     - "Tuesday: 11:30 AM – 11:30 PM"

@@ -28,20 +28,16 @@ place:
   lng: 108.2248133
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 10
-      - 21
+    weekdayQuiet: [10]
     weekdayBusy:
       - 18
-    weekendQuiet:
-      - 10
-      - 21
+    weekendQuiet: [10]
     weekendBusy:
       - 17
       - 18
       - 19
     venueId: ven_30746c3363727933762d4852456a515a6b5549525056594a496843
-  phone: '0987 824 285'
+  phone: '+84 987 824 285'
   openingHours:
     - 'Monday: 10:30 AM – 9:30 PM'
     - 'Tuesday: 10:30 AM – 9:30 PM'

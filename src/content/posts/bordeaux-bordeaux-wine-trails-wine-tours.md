@@ -21,7 +21,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 44.8389957
   lng: -0.5692577999999999
-  phone: 05 64 10 10 04
+  phone: '+33 5 64 10 10 04'
   openingHours:
     - "Monday: 9:00 AM – 5:00 PM"
     - "Tuesday: 9:00 AM – 5:00 PM"

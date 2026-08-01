@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 43.767785599999996
   lng: 11.2553108
-  phone: "055 294883"
+  phone: '+39 055 294883'
   openingHours:
     - "Monday: Closed"
     - "Tuesday: 8:15 AM – 6:30 PM"

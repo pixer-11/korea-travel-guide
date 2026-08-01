@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 35.18890040000001
   lng: 128.0769396
-  phone: 055-742-5951
+  phone: '+82 55-742-5951'
   openingHours:
     - 'Monday: Closed'
     - 'Tuesday: 9:00 AM – 6:00 PM'

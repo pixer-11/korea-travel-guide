@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 10.406157799999999
   lng: 123.86584160000001
-  phone: "0928 656 6128"
+  phone: '+63 928 656 6128'
   openingHours:
     - "Monday: 8:00 AM – 5:30 PM"
     - "Tuesday: 8:00 AM – 5:30 PM"

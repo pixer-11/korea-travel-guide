@@ -21,7 +21,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 36.7601029
   lng: -4.4262669
-  phone: 951 92 61 80
+  phone: '+34 951 92 61 80'
   openingHours:
     - "Monday: Closed"
     - "Tuesday: 9:30 AM – 8:30 PM"
@@ -32,8 +32,6 @@ place:
     - "Sunday: 9:30 AM – 8:30 PM"
   busyness:
     updated: 2026-07-29T00:00:00.000Z
-    weekdayQuiet:
-      - 20
     weekdayBusy:
       - 13
     weekendQuiet: []

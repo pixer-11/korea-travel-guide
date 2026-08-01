@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 43.773145
   lng: 11.255960199999999
-  phone: 055 230 2885
+  phone: '+39 055 230 2885'
   openingHours:
     - 'Monday: 10:15 AM – 3:45 PM'
     - 'Tuesday: 10:15 AM – 3:45 PM'

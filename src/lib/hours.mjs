@@ -95,9 +95,7 @@ export function localizeOpeningLine(line, lang, { am = 'AM', pm = 'PM' } = {}) {
 // Every hour (0–23) the venue is open on at least one day of the week.
 // Used to keep foot-traffic windows inside real opening hours before they reach
 // the writer: BestTime measures the pavement, not the business.
-export function openHourSet(lines) {
-  if (!Array.isArray(lines) || !lines.length) return null;
-  const set = new Set();
+function addOpenHoursFromLine(line, set) {
   const re = /(\d{1,2})(?::(\d{2}))?\s*([AP])?\.?M?\.?\s*[–—-]\s*(\d{1,2})(?::(\d{2}))?\s*([AP])\.?M?\.?/gi;
   const to24 = (h, mer) => {
     let x = Number(h);
@@ -106,16 +104,65 @@ export function openHourSet(lines) {
     if (x === 12) return pm ? 12 : 0;
     return pm ? x + 12 : x;
   };
+  const s = String(line);
+  if (/open 24 hours/i.test(s)) { for (let h = 0; h < 24; h++) set.add(h); return; }
+  if (/closed/i.test(s)) return;
+  for (const m of s.matchAll(re)) {
+    const a = to24(m[1], m[3] || m[6]);
+    let b = to24(m[4], m[6]);
+    if (b <= a) b += 24;                       // closes after midnight
+    for (let h = a; h < b; h++) set.add(h % 24);
+  }
+}
+
+export function openHourSet(lines) {
+  if (!Array.isArray(lines) || !lines.length) return null;
+  const set = new Set();
+  for (const line of lines) addOpenHoursFromLine(line, set);
+  return set.size ? set : null;
+}
+
+// The stored busyness split is weekday/weekend, so the union-across-the-week set
+// above cannot catch "weekendQuiet: 18" at a venue that closes weekends at 6 —
+// hour 18 is open SOMEWHERE in the week. These sets follow the same split the
+// reader sees. A group is null when the hours never mention its days (unknown ≠
+// closed: no clamping then); an empty set means those days really are closed.
+const WEEKDAY_NAMES = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'];
+const WEEKEND_NAMES = ['Saturday', 'Sunday'];
+export function openHourSetsByGroup(lines) {
+  if (!Array.isArray(lines) || !lines.length) return null;
+  const wd = { seen: false, set: new Set() };
+  const we = { seen: false, set: new Set() };
   for (const line of lines) {
     const s = String(line);
-    if (/open 24 hours/i.test(s)) { for (let h = 0; h < 24; h++) set.add(h); continue; }
-    if (/closed/i.test(s)) continue;
-    for (const m of s.matchAll(re)) {
-      const a = to24(m[1], m[3] || m[6]);
-      let b = to24(m[4], m[6]);
-      if (b <= a) b += 24;                       // closes after midnight
-      for (let h = a; h < b; h++) set.add(h % 24);
-    }
+    const isWd = WEEKDAY_NAMES.some((d) => s.startsWith(d));
+    const isWe = !isWd && WEEKEND_NAMES.some((d) => s.startsWith(d));
+    if (!isWd && !isWe) return null;   // can't attribute a line → clamp nothing
+    const g = isWd ? wd : we;
+    g.seen = true;
+    addOpenHoursFromLine(s, g.set);
   }
-  return set.size ? set : null;
+  return { weekday: wd.seen ? wd.set : null, weekend: we.seen ? we.set : null };
+}
+
+// Intersect stored BestTime hours with the venue's real opening hours. BestTime
+// measures the pavement, which does not stop when the doors do — unclamped, a
+// 6 PM-closing folk village advertised "weekend quiet: 6–7 PM" on the live page.
+// Returns the four clamped arrays + `changed`, or null when the opening hours
+// are absent/unparseable (caller keeps the data exactly as it was).
+export function clampBusynessHours(busyness, lines) {
+  if (!busyness) return null;
+  const groups = openHourSetsByGroup(lines);
+  if (!groups) return null;
+  const clampTo = (arr, set) =>
+    set == null ? [...(arr ?? [])] : (arr ?? []).filter((h) => set.has(((h % 24) + 24) % 24));
+  const out = {
+    weekdayQuiet: clampTo(busyness.weekdayQuiet, groups.weekday),
+    weekdayBusy: clampTo(busyness.weekdayBusy, groups.weekday),
+    weekendQuiet: clampTo(busyness.weekendQuiet, groups.weekend),
+    weekendBusy: clampTo(busyness.weekendBusy, groups.weekend),
+  };
+  out.changed = ['weekdayQuiet', 'weekdayBusy', 'weekendQuiet', 'weekendBusy']
+    .some((k) => (busyness[k] ?? []).length !== out[k].length);
+  return out;
 }

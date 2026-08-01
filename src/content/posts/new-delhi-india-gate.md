@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 28.612911999999998
   lng: 77.2295097
-  phone: 011 2336 5358
+  phone: '+91 11 2336 5358'
 tags:
   - new delhi
   - top attraction

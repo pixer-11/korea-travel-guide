@@ -41,7 +41,7 @@ place:
       - 22
     venueId: ven_5955474e65555856654b525245544e72367259744f52584a496843
   priceLevel: 2
-  phone: 0911 295 020
+  phone: '+84 911 295 020'
   openingHours:
     - 'Monday: 10:00 AM – 11:00 PM'
     - 'Tuesday: 10:00 AM – 11:00 PM'

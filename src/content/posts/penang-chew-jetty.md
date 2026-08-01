@@ -20,7 +20,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 5.412717499999999
   lng: 100.3397723
-  phone: 011-6246 2884
+  phone: '+60 11-6246 2884'
   openingHours:
     - 'Monday: 9:00 AM – 9:00 PM'
     - 'Tuesday: 9:00 AM – 9:00 PM'

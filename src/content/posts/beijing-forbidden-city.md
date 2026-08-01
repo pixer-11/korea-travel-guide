@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 39.9168038
   lng: 116.39716209999999
-  phone: 400 950 1925
+  phone: '+86 400 950 1925'
   openingHours:
     - 'Monday: Closed'
     - 'Tuesday: 8:30 AM – 4:00 PM'

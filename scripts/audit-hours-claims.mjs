@@ -23,6 +23,7 @@
 import { readdirSync, readFileSync } from 'fs';
 import { join } from 'path';
 import yaml from 'js-yaml';
+import { clampBusynessHours } from '../src/lib/hours.mjs';
 
 const DIR = 'src/content/posts';
 const DAYS = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
@@ -159,6 +160,31 @@ export function hoursProblems(raw) {
   return [...new Set(found)];
 }
 
+/**
+ * Stored busyness hours that fall at-or-after closing (or before opening) for
+ * their weekday/weekend group. Kept SEPARATE from hoursProblems on purpose:
+ * hoursProblems feeds the prose-rewriting fixer and the photo patrol's re-hold
+ * check, and this is a DATA defect — the remedy is repair-busyness-hours.mjs
+ * (clamp the stored arrays), never an LLM rewrite of the article.
+ */
+export function busynessProblems(raw) {
+  const cut = raw.indexOf('\n---', 3);
+  if (cut < 0) return [];
+  let fm;
+  try { fm = yaml.load(raw.slice(4, cut)); } catch { return []; }
+  const bz = fm?.place?.busyness;
+  if (!bz) return [];
+  const res = clampBusynessHours(bz, fm?.place?.openingHours);
+  if (!res || !res.changed) return [];
+  const found = [];
+  for (const key of ['weekdayQuiet', 'weekdayBusy', 'weekendQuiet', 'weekendBusy']) {
+    const before = (bz[key] ?? []).filter((h) => Number.isInteger(h));
+    const dropped = before.filter((h) => !res[key].includes(h));
+    if (dropped.length) found.push(`busyness ${key} lists ${dropped.join(',')}h — outside the venue's opening hours`);
+  }
+  return found;
+}
+
 // ── CLI (only when executed directly, not when imported) ─────
 if (process.argv[1]?.endsWith('audit-hours-claims.mjs')) {
   const verbose = process.argv.includes('--verbose');
@@ -170,19 +196,31 @@ if (process.argv[1]?.endsWith('audit-hours-claims.mjs')) {
 
   const files = readdirSync(DIR).filter((f) => f.endsWith('.md'));
   const issues = [];
+  const bzIssues = [];
   for (const f of files) {
     const raw = readFileSync(join(DIR, f), 'utf8');
     if (!includeDrafts && /^draft:\s*true\s*$/m.test(raw)) continue;
     const found = hoursProblems(raw);
     if (found.length) issues.push({ f, found });
+    const bz = busynessProblems(raw);
+    if (bz.length) bzIssues.push({ f, found: bz });
   }
 
   for (const i of issues) {
     console.log(`HOURS-CONTRADICTION: ${i.f}`);
     if (verbose) i.found.forEach((x) => console.log(`    ${x}`));
   }
-  console.log(issues.length
-    ? `\n❌ ${issues.length} post(s) whose prose contradicts their own opening hours.`
-    : `✓ ${files.length} post(s) — no prose contradicts its own opening hours.`);
-  process.exit(issues.length ? 1 : 0);
+  // Distinct tag: the prose fixer and the publish gate pick HOURS-CONTRADICTION
+  // lines by regex and must NOT send a data defect to the article rewriter.
+  // These are fixed by `node scripts/repair-busyness-hours.mjs --apply`.
+  for (const i of bzIssues) {
+    console.log(`BUSYNESS-OUTSIDE-HOURS: ${i.f}`);
+    if (verbose) i.found.forEach((x) => console.log(`    ${x}`));
+  }
+  const total = issues.length + bzIssues.length;
+  console.log(total
+    ? `\n❌ ${issues.length} post(s) whose prose contradicts their own opening hours, ` +
+      `${bzIssues.length} whose stored quiet/busy hours fall outside them.`
+    : `✓ ${files.length} post(s) — no prose or busyness data contradicts its own opening hours.`);
+  process.exit(total ? 1 : 0);
 }

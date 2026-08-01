@@ -27,12 +27,7 @@ place:
   lng: 128.5181474
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 9
-      - 10
-      - 18
-    weekendQuiet:
-      - 18
+    weekdayQuiet: [9, 10]
     weekendBusy:
       - 11
       - 12
@@ -42,7 +37,7 @@ place:
       - 16
       - 17
     venueId: ven_41506e6f5068784434756f5255445a693466354c6c30374a496843
-  phone: 054-853-0109
+  phone: '+82 54-853-0109'
   openingHours:
     - 'Monday: 9:00 AM – 6:00 PM'
     - 'Tuesday: 9:00 AM – 6:00 PM'

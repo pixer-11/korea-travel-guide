@@ -21,7 +21,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 36.1475157
   lng: -115.15550929999998
-  phone: (702) 380-7711
+  phone: '+1 702 380-7711'
   openingHours:
     - 'Monday: 10:00 AM – 1:00 AM'
     - 'Tuesday: 10:00 AM – 1:00 AM'

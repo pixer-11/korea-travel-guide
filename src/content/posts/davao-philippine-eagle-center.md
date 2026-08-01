@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 7.18498
   lng: 125.41528369999999
-  phone: "0917 708 9084"
+  phone: '+63 917 708 9084'
   openingHours:
     - "Monday: 8:00 AM – 4:30 PM"
     - "Tuesday: 8:00 AM – 4:30 PM"

@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 22.631365199999998
   lng: 120.3019167
-  phone: "07 793 8888"
+  phone: '+886 7 793 8888'
   openingHours:
     - "Monday: 6:00 AM – 12:00 AM"
     - "Tuesday: 6:00 AM – 12:00 AM"

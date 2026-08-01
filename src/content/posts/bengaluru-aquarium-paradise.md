@@ -21,7 +21,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 13.0063949
   lng: 77.5920718
-  phone: "096063 11881"
+  phone: '+91 96063 11881'
   openingHours:
     - "Monday: 10:30 AM – 8:00 PM"
     - "Tuesday: 10:30 AM – 8:00 PM"

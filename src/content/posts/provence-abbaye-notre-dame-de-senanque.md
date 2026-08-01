@@ -21,7 +21,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 43.9279827
   lng: 5.1867401
-  phone: 04 90 72 18 24
+  phone: '+33 4 90 72 18 24'
   openingHours:
     - "Monday: 9:30 AM – 7:00 PM"
     - "Tuesday: 9:30 AM – 7:00 PM"
@@ -32,15 +32,11 @@ place:
     - "Sunday: 10:00 AM – 7:00 PM"
   busyness:
     updated: 2026-07-31T00:00:00.000Z
-    weekdayQuiet:
-      - 9
-      - 19
+    weekdayQuiet: [9]
     weekdayBusy:
       - 14
       - 15
-    weekendQuiet:
-      - 10
-      - 19
+    weekendQuiet: [10]
     weekendBusy:
       - 12
       - 13

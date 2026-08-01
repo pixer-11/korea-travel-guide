@@ -22,7 +22,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 39.935773999999995
   lng: 116.386407
-  phone: 010 8328 8149
+  phone: '+86 10 8328 8149'
 tags:
   - beijing
   - top attraction

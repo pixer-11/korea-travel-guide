@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 44.8375651
   lng: -0.5766178
-  phone: 05 56 81 26 25
+  phone: '+33 5 56 81 26 25'
   openingHours:
     - 'Monday: 10:00 AM – 12:30 PM, 2:00 – 5:30 PM'
     - 'Tuesday: 10:00 AM – 12:30 PM, 2:00 – 5:30 PM'

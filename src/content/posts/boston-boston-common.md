@@ -26,7 +26,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 42.3550897
   lng: -71.0657256
-  phone: (617) 635-4505
+  phone: '+1 617 635-4505'
   openingHours:
     - 'Monday: 6:00 AM – 11:30 PM'
     - 'Tuesday: 6:00 AM – 11:30 PM'

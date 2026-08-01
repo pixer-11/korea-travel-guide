@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 37.805475699999995
   lng: 128.9078299
-  phone: 033-640-4414
+  phone: '+82 33-640-4414'
   openingHours:
     - 'Monday: Open 24 hours'
     - 'Tuesday: Open 24 hours'

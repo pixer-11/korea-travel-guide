@@ -26,7 +26,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 35.443336599999995
   lng: 139.6444803
-  phone: "045-681-4004"
+  phone: '+81 45-681-4004'
   openingHours:
     - "Monday: Closed"
     - "Tuesday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM"

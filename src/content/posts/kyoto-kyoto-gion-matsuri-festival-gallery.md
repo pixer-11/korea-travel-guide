@@ -21,7 +21,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 35.003562200000005
   lng: 135.77673009999998
-  phone: 075-541-5464
+  phone: '+81 75-541-5464'
   openingHours:
     - 'Monday: 10:00 AM – 8:00 PM'
     - 'Tuesday: 10:00 AM – 8:00 PM'

@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 27.192887300000002
   lng: 78.0309808
-  phone: "0522 400 4402"
+  phone: '+91 522 400 4402'
   openingHours:
     - "Monday: 8:00 AM – 12:00 AM"
     - "Tuesday: 8:00 AM – 12:00 AM"

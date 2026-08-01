@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 22.3129666
   lng: 114.0412819
-  phone: "3550 3388"
+  phone: '+86 3550 3388'
   openingHours:
     - "Monday: 10:30 AM – 8:00 PM"
     - "Tuesday: 10:30 AM – 8:00 PM"

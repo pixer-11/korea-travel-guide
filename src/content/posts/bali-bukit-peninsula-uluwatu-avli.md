@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: -8.8165625
   lng: 115.09581249999998
-  phone: 0812-2663-8787
+  phone: '+62 812-2663-8787'
   openingHours:
     - 'Monday: 5:00 PM – 12:00 AM'
     - 'Tuesday: 5:00 PM – 12:00 AM'

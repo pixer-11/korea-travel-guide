@@ -22,7 +22,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 37.7748657
   lng: -122.4228497
-  phone: "(415) 355-9085"
+  phone: '+1 415 355-9085'
   openingHours:
     - "Monday: 5:00 – 10:00 PM"
     - "Tuesday: 5:00 – 10:00 PM"
@@ -33,14 +33,9 @@ place:
     - "Sunday: 5:00 – 10:00 PM"
   busyness:
     updated: 2026-07-30
-    weekdayQuiet:
-      - 17
-      - 22
+    weekdayQuiet: [17]
     weekdayBusy: []
-    weekendQuiet:
-      - 17
-      - 21
-      - 22
+    weekendQuiet: [17, 21]
     weekendBusy:
       - 19
       - 20

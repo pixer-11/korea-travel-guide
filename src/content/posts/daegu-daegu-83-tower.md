@@ -32,13 +32,7 @@ place:
   lng: 128.5665668
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 11
-      - 12
-      - 19
-      - 20
-    weekendQuiet:
-      - 21
+    weekdayQuiet: [11, 12, 19]
     weekendBusy:
       - 12
       - 13
@@ -50,7 +44,7 @@ place:
       - 19
       - 20
     venueId: ven_38776b32373844656e586d5255545a6b443456426459324a496843
-  phone: '053-620-0001'
+  phone: '+82 53-620-0001'
   openingHours:
     - 'Monday: 11:30 AM – 8:30 PM'
     - 'Tuesday: 11:30 AM – 8:30 PM'

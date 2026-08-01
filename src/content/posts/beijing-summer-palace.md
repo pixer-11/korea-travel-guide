@@ -26,7 +26,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 39.9999823
   lng: 116.27546059999999
-  phone: "010 6288 1144"
+  phone: '+86 10 6288 1144'
   openingHours:
     - "Monday: 6:00 AM – 8:00 PM"
     - "Tuesday: 6:00 AM – 8:00 PM"

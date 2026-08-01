@@ -23,8 +23,6 @@ place:
   lng: 126.9231548
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 22
     weekdayBusy:
       - 13
       - 14
@@ -34,8 +32,6 @@ place:
       - 18
       - 19
       - 20
-    weekendQuiet:
-      - 22
     weekendBusy:
       - 13
       - 14
@@ -46,7 +42,7 @@ place:
       - 19
       - 20
     venueId: ven_736c527330507232675a6c525544665a6d6847663259334a496843
-  phone: '02-749-1981'
+  phone: '+82 2-749-1981'
   openingHours:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 10:00 PM'

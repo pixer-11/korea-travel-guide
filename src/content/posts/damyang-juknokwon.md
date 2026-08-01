@@ -20,7 +20,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 35.3266303
   lng: 126.9853868
-  phone: 061-380-2680
+  phone: '+82 61-380-2680'
   openingHours:
     - 'Monday: 9:00 AM – 6:00 PM'
     - 'Tuesday: 9:00 AM – 6:00 PM'

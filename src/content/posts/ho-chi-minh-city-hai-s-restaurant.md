@@ -45,7 +45,7 @@ place:
       - 21
     venueId: ven_5158682d5f6e45482d6e46524554647641674c4a4e39414a496843
   priceLevel: 2
-  phone: '0911 911 857'
+  phone: '+84 911 911 857'
   openingHours:
     - 'Monday: 10:00 AM – 11:30 PM'
     - 'Tuesday: 10:00 AM – 11:30 PM'

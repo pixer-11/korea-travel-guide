@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 43.266219899999996
   lng: -2.94638
-  phone: "946 08 55 00"
+  phone: '+34 946 08 55 00'
   openingHours:
     - "Monday: Closed"
     - "Tuesday: 11:00 AM – 7:00 PM"
@@ -36,13 +36,9 @@ place:
     - "Sunday: 11:00 AM – 7:00 PM"
   busyness:
     updated: 2026-07-31
-    weekdayQuiet:
-      - 19
     weekdayBusy:
       - 12
       - 13
-    weekendQuiet:
-      - 19
     weekendBusy:
       - 11
       - 12

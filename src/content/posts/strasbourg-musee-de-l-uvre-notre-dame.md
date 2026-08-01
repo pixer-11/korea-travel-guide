@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 48.580977
   lng: 7.751474
-  phone: 03 68 98 50 00
+  phone: '+33 3 68 98 50 00'
   openingHours:
     - 'Monday: Closed'
     - 'Tuesday: 10:00 AM – 1:00 PM, 2:00 – 6:00 PM'

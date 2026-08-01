@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 37.3858247
   lng: -5.9931068
-  phone: "954 21 49 71"
+  phone: '+34 954 21 49 71'
   openingHours:
     - "Monday: 11:00 AM – 6:00 PM"
     - "Tuesday: 11:00 AM – 6:00 PM"

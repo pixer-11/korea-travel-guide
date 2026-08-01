@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 25.304409
   lng: 110.273614
-  phone: 0773 269 5075
+  phone: '+86 773 269 5075'
 tags:
   - guilin
   - top attraction

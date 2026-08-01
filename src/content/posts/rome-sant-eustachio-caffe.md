@@ -26,7 +26,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 41.8982749
   lng: 12.475425399999999
-  phone: "06 6880 2048"
+  phone: '+39 06 6880 2048'
   openingHours:
     - "Monday: 7:30 AM – 12:00 AM"
     - "Tuesday: 7:30 AM – 12:00 AM"

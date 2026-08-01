@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 45.0684433
   lng: 7.6844128
-  phone: 011 561 7776
+  phone: '+39 011 561 7776'
   openingHours:
     - "Monday: 9:00 AM – 2:00 PM"
     - "Tuesday: 9:00 AM – 6:30 PM"

@@ -21,7 +21,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 37.5134178
   lng: 126.89482419999999
-  phone: 010-5864-0845
+  phone: '+82 10-5864-0845'
   openingHours:
     - 'Monday: Closed'
     - 'Tuesday: 5:00 – 11:00 PM'

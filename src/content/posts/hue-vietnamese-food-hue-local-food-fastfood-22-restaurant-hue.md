@@ -24,19 +24,13 @@ place:
   lng: 107.58255709999999
   busyness:
     updated: "2026-07-23"
-    weekdayQuiet:
-      - 9
-      - 19
-    weekendQuiet:
-      - 9
-      - 10
-      - 18
-      - 19
+    weekdayQuiet: [9]
+    weekendQuiet: [9, 10, 18]
     weekendBusy:
       - 13
       - 14
     venueId: ven_495f6e6175337776366b395245545168792d30324b624b4a496843
-  phone: 0934 952 994
+  phone: '+84 934 952 994'
   openingHours:
     - "Monday: 9:00 AM – 7:00 PM"
     - "Tuesday: 9:00 AM – 7:00 PM"

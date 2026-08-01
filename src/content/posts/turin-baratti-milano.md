@@ -22,7 +22,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 45.069695499999995
   lng: 7.6865028
-  phone: "011 440 7138"
+  phone: '+39 011 440 7138'
   openingHours:
     - "Monday: Closed"
     - "Tuesday: 9:00 AM – 8:00 PM"
@@ -33,12 +33,8 @@ place:
     - "Sunday: 9:00 AM – 8:00 PM"
   busyness:
     updated: 2026-07-31
-    weekdayQuiet:
-      - 9
-      - 20
+    weekdayQuiet: [9]
     weekdayBusy: []
-    weekendQuiet:
-      - 20
     weekendBusy:
       - 10
       - 11

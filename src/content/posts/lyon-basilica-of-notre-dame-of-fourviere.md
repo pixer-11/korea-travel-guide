@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 45.7622698
   lng: 4.822638
-  phone: "04 78 25 13 01"
+  phone: '+33 4 78 25 13 01'
   openingHours:
     - "Monday: 7:00 AM – 8:00 PM"
     - "Tuesday: 7:00 AM – 8:00 PM"

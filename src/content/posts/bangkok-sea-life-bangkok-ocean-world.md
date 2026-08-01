@@ -27,17 +27,10 @@ place:
   lng: 100.53520569999999
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 10
-      - 11
-      - 12
-      - 20
+    weekdayQuiet: [10, 11, 12]
     weekdayBusy:
       - 18
-    weekendQuiet:
-      - 10
-      - 11
-      - 20
+    weekendQuiet: [10, 11]
     weekendBusy:
       - 14
       - 15
@@ -46,7 +39,7 @@ place:
       - 18
       - 19
     venueId: ven_306442667169654c594d5552416a3465326335384934484a496843
-  phone: 02 842 2000
+  phone: '+66 2 842 2000'
   openingHours:
     - 'Monday: 10:00 AM – 8:00 PM'
     - 'Tuesday: 10:00 AM – 8:00 PM'

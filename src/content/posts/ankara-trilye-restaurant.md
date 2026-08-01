@@ -26,7 +26,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 39.8940686
   lng: 32.8719779
-  phone: (0312) 447 12 00
+  phone: '+90 312 447 12 00'
   openingHours:
     - 'Monday: 12:00 PM – 12:00 AM'
     - 'Tuesday: 12:00 PM – 12:00 AM'

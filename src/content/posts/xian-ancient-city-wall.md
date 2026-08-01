@@ -20,7 +20,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 34.252061
   lng: 108.95029699999999
-  phone: 028 8556 8847
+  phone: '+86 28 8556 8847'
 tags:
   - xian
   - Xian City Wall

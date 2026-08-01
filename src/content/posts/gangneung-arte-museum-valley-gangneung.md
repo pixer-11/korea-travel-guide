@@ -20,7 +20,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 37.7917805
   lng: 128.90718999999999
-  phone: 1899-5008
+  phone: '+82 1899-5008'
   openingHours:
     - 'Monday: 10:00 AM – 8:00 PM'
     - 'Tuesday: 10:00 AM – 8:00 PM'

@@ -35,22 +35,13 @@ place:
   lng: 99.84187349999999
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 7
-      - 8
-      - 9
-      - 19
-      - 20
+    weekdayQuiet: [7, 8, 9, 19]
     weekdayBusy:
       - 12
       - 13
       - 14
       - 15
-    weekendQuiet:
-      - 7
-      - 8
-      - 19
-      - 20
+    weekendQuiet: [7, 8, 19]
     weekendBusy:
       - 11
       - 12
@@ -58,7 +49,7 @@ place:
       - 14
       - 15
     venueId: ven_634f4c4b6377454e56414c52417a3147456670304452454a496843
-  phone: '064 347 3636'
+  phone: '+66 64 347 3636'
   openingHours:
     - 'Monday: 7:00 AM – 8:00 PM'
     - 'Tuesday: 7:00 AM – 8:00 PM'

@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 23.1241467
   lng: 113.324743
-  phone: "020 8560 1882"
+  phone: '+86 20 8560 1882'
 tags:
   - "guangzhou"
   - "top attraction"

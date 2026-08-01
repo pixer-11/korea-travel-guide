@@ -43,7 +43,7 @@ place:
       - 21
       - 22
     venueId: ven_5947787a377268346f684852346a6932794d58474458714a496843
-  phone: 03 711 8251
+  phone: '+971 3 711 8251'
   openingHours:
     - 'Monday: 9:00 AM – 12:00 AM'
     - 'Tuesday: 9:00 AM – 12:00 AM'

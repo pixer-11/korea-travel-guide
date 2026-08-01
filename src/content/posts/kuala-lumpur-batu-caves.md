@@ -21,7 +21,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 3.2378844
   lng: 101.6840385
-  phone: "03-6189 6284"
+  phone: '+60 3-6189 6284'
 tags:
   - "kuala lumpur"
   - "hidden gem"

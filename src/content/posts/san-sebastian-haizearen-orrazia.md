@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 43.3218056
   lng: -2.0053891
-  phone: "673 51 81 38"
+  phone: '+34 673 51 81 38'
   openingHours:
     - "Monday: Open 24 hours"
     - "Tuesday: Open 24 hours"

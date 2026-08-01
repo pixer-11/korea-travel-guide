@@ -26,7 +26,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 38.900280599999995
   lng: -77.0444736
-  phone: (202) 822-8783
+  phone: '+1 202 822-8783'
   openingHours:
     - 'Monday: 7:00 AM – 10:00 PM'
     - 'Tuesday: 7:00 AM – 10:00 PM'

@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 4.5963007
   lng: 101.07904649999999
-  phone: "05-241 4541"
+  phone: '+60 5-241 4541'
   openingHours:
     - "Monday: Closed"
     - "Tuesday: 11:00 AM – 12:00 PM"

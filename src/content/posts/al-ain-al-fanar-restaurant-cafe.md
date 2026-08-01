@@ -35,11 +35,7 @@ place:
       - 20
     weekdayBusy:
       - 18
-    weekendQuiet:
-      - 9
-      - 10
-      - 11
-      - 22
+    weekendQuiet: [9, 10, 11]
     weekendBusy:
       - 14
       - 15
@@ -49,7 +45,7 @@ place:
       - 20
       - 21
     venueId: ven_454f4673704b4439704b7952346a697a656433753055684a496843
-  phone: 03 766 5200
+  phone: '+971 3 766 5200'
   openingHours:
     - 'Monday: 9:00 AM – 8:00 PM'
     - 'Tuesday: 9:00 AM – 8:00 PM'

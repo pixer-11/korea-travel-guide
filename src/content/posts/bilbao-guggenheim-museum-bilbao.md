@@ -30,7 +30,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 43.2686712
   lng: -2.9340118
-  phone: 944 35 90 80
+  phone: '+34 944 35 90 80'
   openingHours:
     - 'Monday: 10:00 AM – 8:00 PM'
     - 'Tuesday: 10:00 AM – 8:00 PM'

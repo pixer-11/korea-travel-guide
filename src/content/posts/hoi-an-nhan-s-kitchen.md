@@ -45,7 +45,7 @@ place:
       - 19
       - 20
     venueId: ven_554478334e54754256426652456a514e343842364266364a496843
-  phone: 0905 186 867
+  phone: '+84 905 186 867'
   openingHours:
     - 'Monday: 10:00 AM – 9:20 PM'
     - 'Tuesday: 10:00 AM – 9:20 PM'

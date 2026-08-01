@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 39.4743857
   lng: -0.37832990000000005
-  phone: "962 08 41 53"
+  phone: '+34 962 08 41 53'
   openingHours:
     - "Monday: 10:00 AM – 7:00 PM"
     - "Tuesday: 10:00 AM – 7:00 PM"

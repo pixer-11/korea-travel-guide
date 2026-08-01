@@ -20,7 +20,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 25.1942462
   lng: 121.5609363
-  phone: 02 2861 3601
+  phone: '+886 2 2861 3601'
 tags:
   - new taipei
   - top attraction

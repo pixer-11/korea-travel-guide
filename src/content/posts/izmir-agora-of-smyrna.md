@@ -21,7 +21,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 38.418841
   lng: 27.1390592
-  phone: "(0232) 489 07 96"
+  phone: '+90 232 489 07 96'
   openingHours:
     - "Monday: 8:30 AM – 5:00 PM"
     - "Tuesday: 8:30 AM – 5:00 PM"

@@ -27,12 +27,8 @@ place:
   lng: 107.6259371
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 9
-      - 17
-    weekendQuiet:
-      - 8
-      - 18
+    weekdayQuiet: [9]
+    weekendQuiet: [8]
     weekendBusy:
       - 10
       - 11
@@ -41,7 +37,7 @@ place:
       - 14
       - 15
     venueId: ven_3444667365307444343258523443616e764364444755654a496843
-  phone: '0812-2230-068'
+  phone: '+62 812-2230-068'
   openingHours:
     - 'Monday: 9:00 AM – 5:00 PM'
     - 'Tuesday: 9:00 AM – 5:00 PM'

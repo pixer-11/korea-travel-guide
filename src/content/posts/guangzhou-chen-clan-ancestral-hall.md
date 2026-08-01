@@ -21,7 +21,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 23.1298714
   lng: 113.24011189999999
-  phone: "020 8181 4559"
+  phone: '+86 20 8181 4559'
 tags:
   - "guangzhou"
   - "hidden gem"

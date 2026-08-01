@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 37.924970099999996
   lng: 29.1240555
-  phone: "(0258) 272 20 34"
+  phone: '+90 258 272 20 34'
   openingHours:
     - "Monday: 8:00 AM – 5:00 PM"
     - "Tuesday: 8:00 AM – 5:00 PM"

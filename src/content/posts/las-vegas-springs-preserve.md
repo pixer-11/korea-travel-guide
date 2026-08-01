@@ -26,7 +26,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 36.1693608
   lng: -115.1906908
-  phone: (702) 822-7700
+  phone: '+1 702 822-7700'
   openingHours:
     - 'Monday: 9:00 AM – 4:00 PM'
     - 'Tuesday: Closed'
@@ -37,15 +37,11 @@ place:
     - 'Sunday: 9:00 AM – 4:00 PM'
   busyness:
     updated: 2026-07-31T00:00:00.000Z
-    weekdayQuiet:
-      - 16
     weekdayBusy:
       - 10
       - 11
       - 12
       - 13
-    weekendQuiet:
-      - 16
     weekendBusy:
       - 9
       - 10

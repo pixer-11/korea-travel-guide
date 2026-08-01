@@ -46,7 +46,7 @@ place:
       - 21
     venueId: ven_416c5a69486d6d4b48454a52456a325a555046584935634a496843
   priceLevel: 2
-  phone: 9009 7345
+  phone: '+65 9009 7345'
   openingHours:
     - 'Monday: 11:00 AM – 11:00 PM'
     - 'Tuesday: 11:00 AM – 11:00 PM'

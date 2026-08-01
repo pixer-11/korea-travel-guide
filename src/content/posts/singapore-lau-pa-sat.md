@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 1.2805121
   lng: 103.8503809
-  phone: "6220 2138"
+  phone: '+65 6220 2138'
   openingHours:
     - "Monday: Open 24 hours"
     - "Tuesday: Open 24 hours"

@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 25.2275781
   lng: 55.290918999999995
-  phone: '04 666 1617'
+  phone: '+971 4 666 1617'
   openingHours:
     - 'Monday: Closed'
     - 'Tuesday: 5:00 PM – 12:00 AM'

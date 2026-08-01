@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 43.9508521
   lng: 4.8076970999999995
-  phone: "04 32 74 32 74"
+  phone: '+33 4 32 74 32 74'
   openingHours:
     - "Monday: 9:00 AM – 7:00 PM"
     - "Tuesday: 9:00 AM – 7:00 PM"

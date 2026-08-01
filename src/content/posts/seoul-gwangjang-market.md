@@ -23,25 +23,14 @@ place:
   priceLevel: 1
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 9
-      - 19
-      - 20
-      - 21
-      - 22
+    weekdayQuiet: [9, 19, 20, 21]
     weekdayBusy:
       - 11
       - 12
       - 13
       - 14
       - 15
-    weekendQuiet:
-      - 9
-      - 10
-      - 19
-      - 20
-      - 21
-      - 22
+    weekendQuiet: [9, 10, 19, 20, 21]
     weekendBusy:
       - 11
       - 12
@@ -51,7 +40,7 @@ place:
       - 16
       - 17
     venueId: ven_5974566a69554d49384a5252554466693275663056336d4a496843
-  phone: '02-2267-0291'
+  phone: '+82 2-2267-0291'
   openingHours:
     - 'Monday: 9:00 AM – 10:30 PM'
     - 'Tuesday: 9:00 AM – 10:30 PM'

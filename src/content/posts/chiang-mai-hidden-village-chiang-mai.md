@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 18.833111
   lng: 98.997575
-  phone: '064 550 0305'
+  phone: '+66 64 550 0305'
   openingHours:
     - 'Monday: 9:00 AM – 6:00 PM'
     - 'Tuesday: 9:00 AM – 6:00 PM'

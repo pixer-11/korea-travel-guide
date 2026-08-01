@@ -20,7 +20,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 2.1909232000000003
   lng: 102.2469033
-  phone: 06-288 1100
+  phone: '+60 6-288 1100'
   openingHours:
     - 'Monday: 9:00 AM – 10:00 PM'
     - 'Tuesday: 9:00 AM – 10:00 PM'

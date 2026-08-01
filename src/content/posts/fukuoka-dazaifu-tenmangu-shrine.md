@@ -33,23 +33,13 @@ place:
   lng: 130.5348239
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 7
-      - 8
-      - 17
-      - 18
-      - 19
+    weekdayQuiet: [7, 8, 17, 18]
     weekdayBusy:
       - 11
       - 12
       - 13
       - 14
-    weekendQuiet:
-      - 7
-      - 8
-      - 17
-      - 18
-      - 19
+    weekendQuiet: [7, 8, 17, 18]
     weekendBusy:
       - 10
       - 11
@@ -59,7 +49,7 @@ place:
       - 15
       - 16
     venueId: ven_674c4a527636706635366c52555451622d704b7276667a4a496843
-  phone: '092-922-8225'
+  phone: '+81 92-922-8225'
   openingHours:
     - 'Monday: 6:00 AM – 7:30 PM'
     - 'Tuesday: 6:00 AM – 7:30 PM'

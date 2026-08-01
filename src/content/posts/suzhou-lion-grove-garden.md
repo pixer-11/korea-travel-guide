@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 31.320801999999997
   lng: 120.62964799999999
-  phone: "0512 6727 2428"
+  phone: '+86 512 6727 2428'
 tags:
   - "suzhou"
   - "top attraction"

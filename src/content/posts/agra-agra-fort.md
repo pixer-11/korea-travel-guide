@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 27.1795328
   lng: 78.021112
-  phone: "0562 222 6431"
+  phone: '+91 562 222 6431'
 tags:
   - "agra"
   - "hidden gem"

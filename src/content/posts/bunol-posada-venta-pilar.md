@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 39.4251327
   lng: -0.791085
-  phone: "962 50 09 23"
+  phone: '+34 962 50 09 23'
 tags:
   - "buñol"
   - "local restaurant"

@@ -47,7 +47,7 @@ place:
       - 19
       - 20
     venueId: ven_4974314d645172756f5f3952344439356632644349342d4a496843
-  phone: 09 222 2882
+  phone: '+971 9 222 2882'
   openingHours:
     - 'Monday: 9:00 AM – 12:00 AM'
     - 'Tuesday: 9:00 AM – 12:00 AM'

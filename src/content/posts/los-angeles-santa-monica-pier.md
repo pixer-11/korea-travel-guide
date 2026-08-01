@@ -26,7 +26,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 34.008282099999995
   lng: -118.4987585
-  phone: (310) 458-8900
+  phone: '+1 310 458-8900'
   openingHours:
     - 'Monday: 6:00 AM – 10:00 PM'
     - 'Tuesday: 6:00 AM – 10:00 PM'
@@ -37,18 +37,9 @@ place:
     - 'Sunday: 6:00 AM – 10:00 PM'
   busyness:
     updated: 2026-07-29T00:00:00.000Z
-    weekdayQuiet:
-      - 7
-      - 8
-      - 9
-      - 10
-      - 22
+    weekdayQuiet: [7, 8, 9, 10]
     weekdayBusy: []
-    weekendQuiet:
-      - 7
-      - 8
-      - 9
-      - 22
+    weekendQuiet: [7, 8, 9]
     weekendBusy:
       - 12
       - 13

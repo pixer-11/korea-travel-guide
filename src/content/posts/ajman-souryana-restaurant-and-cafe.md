@@ -48,7 +48,7 @@ place:
       - 22
     venueId: ven_6f3774777259445844365952347a5858645744786464454a496843
   priceLevel: 2
-  phone: '06 575 9567'
+  phone: '+971 6 575 9567'
   openingHours:
     - 'Monday: 8:00 AM – 2:00 AM'
     - 'Tuesday: 8:00 AM – 2:00 AM'

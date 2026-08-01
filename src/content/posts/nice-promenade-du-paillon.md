@@ -21,7 +21,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 43.6974406
   lng: 7.271463300000001
-  phone: "04 97 25 49 00"
+  phone: '+33 4 97 25 49 00'
   openingHours:
     - "Monday: 7:00 AM – 9:00 PM"
     - "Tuesday: 7:00 AM – 9:00 PM"

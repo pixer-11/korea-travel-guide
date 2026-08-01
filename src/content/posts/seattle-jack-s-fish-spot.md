@@ -22,7 +22,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 47.6090678
   lng: -122.34086909999999
-  phone: (206) 467-0514
+  phone: '+1 206 467-0514'
   openingHours:
     - "Monday: 7:30 AM – 6:00 PM"
     - "Tuesday: 7:30 AM – 6:00 PM"
@@ -33,19 +33,9 @@ place:
     - "Sunday: 8:00 AM – 5:00 PM"
   busyness:
     updated: 2026-07-30T00:00:00.000Z
-    weekdayQuiet:
-      - 7
-      - 8
-      - 9
-      - 17
-      - 18
+    weekdayQuiet: [7, 8, 9, 17]
     weekdayBusy: []
-    weekendQuiet:
-      - 7
-      - 8
-      - 9
-      - 17
-      - 18
+    weekendQuiet: [7, 8, 9, 17]
     weekendBusy:
       - 11
       - 12

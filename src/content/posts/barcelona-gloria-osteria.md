@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 41.3929873
   lng: 2.1559049
-  phone: '930 46 41 20'
+  phone: '+34 930 46 41 20'
   openingHours:
     - 'Monday: 1:00 – 4:00 PM, 6:30 – 11:30 PM'
     - 'Tuesday: 1:00 – 4:00 PM, 6:30 – 11:30 PM'

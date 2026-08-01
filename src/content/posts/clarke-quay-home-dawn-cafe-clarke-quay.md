@@ -22,7 +22,7 @@ place:
   lat: 1.2900277999999998
   lng: 103.8448322
   priceLevel: 2
-  phone: '8076 0203'
+  phone: '+65 8076 0203'
   openingHours:
     - 'Monday: 10:30 AM – 5:00 PM'
     - 'Tuesday: 10:30 AM – 5:00 PM'

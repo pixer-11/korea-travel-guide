@@ -21,7 +21,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 5.9473842
   lng: 116.0455771
-  phone: "016-833 0678"
+  phone: '+60 16-833 0678'
   openingHours:
     - "Monday: 10:00 AM – 11:00 PM"
     - "Tuesday: 10:00 AM – 11:00 PM"

@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 25.1387011
   lng: 56.3371047
-  phone: 09 223 9201
+  phone: '+971 9 223 9201'
   openingHours:
     - 'Monday: 8:00 AM – 5:00 PM'
     - 'Tuesday: 8:00 AM – 5:00 PM'

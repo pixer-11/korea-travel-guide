@@ -24,6 +24,7 @@ import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
 import { fetchPlaceReviewSignals } from './lib/places.mjs';
+import { clampBusynessInRaw } from './lib/busyness-clamp.mjs';
 
 const DIR = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 const ITINERARIES_DIR = fileURLToPath(new URL('../src/content/itineraries/', import.meta.url));
@@ -104,7 +105,7 @@ async function main() {
     const priorityCount = files.filter((f) => prioritySlugs.has(f.replace(/\.md$/, ''))).length;
     if (priorityCount) console.log(`Priority: ${priorityCount} itinerary stop(s) queued first`);
   }
-  let updated = 0, skipNoPlace = 0, already = 0, noData = 0, processed = 0, quotaHits = 0, apiErrors = 0;
+  let updated = 0, skipNoPlace = 0, already = 0, noData = 0, processed = 0, quotaHits = 0, apiErrors = 0, closed = 0;
   // Places Details returns null on 429 (places.mjs logs it and does NOT throw), which
   // used to land in the noData bucket — so an exhausted-quota run reported "117 no new
   // data" as if those venues simply had no phone listed, and kept firing doomed calls
@@ -165,6 +166,24 @@ async function main() {
     }
     failStreak = 0;
 
+    // A venue Google says is closed must never get phone/hours written onto it —
+    // quarantine it (draft: true, same pattern as the photo quarantine) so the
+    // site stops recommending it. This fires ONLY on a real API answer; every
+    // failure path (429/403/network) exited above, so a transient error can
+    // never unpublish anything. The weekly refresh job does the same for posts
+    // that already have both fields and therefore never reach this loop.
+    if (raw.businessStatus && raw.businessStatus !== 'OPERATIONAL') {
+      closed++;
+      console.log(`  🚫 ${f}: ${raw.businessStatus} — quarantined (draft), not backfilled`);
+      if (APPLY && !/^draft:\s*true/m.test(t)) {
+        const out = /^draft:\s*/m.test(t)
+          ? t.replace(/^draft:\s*\S+[ \t]*$/m, 'draft: true')
+          : t.replace(/^---\r?\n/, `---\ndraft: true\n`);
+        if (out !== t) await writeFile(p, out, 'utf8');
+      }
+      continue;
+    }
+
     const phone = raw?.phone;
     const hours = raw?.openingHours;
     if ((!phone || hasPhone) && (!hours?.length || hasHours)) {
@@ -188,14 +207,22 @@ async function main() {
       // Append the new lines to the END of the place block (before the next top-level key).
       const nl = placeBody.includes('\r\n') ? '\r\n' : '\n';
       const newBlock = `place:${nl}${placeBody}${inject.replace(/\n/g, nl)}`;
-      const out = t.replace(/^place:\r?\n(?:[ ]{2}.*\r?\n)+/m, newBlock);
+      let out = t.replace(/^place:\r?\n(?:[ ]{2}.*\r?\n)+/m, newBlock);
+      // A post can carry busyness from DAYS before its hours arrive here — the
+      // moment both exist, any quiet/busy hour outside the doors must go, or the
+      // page advertises a visit window when the venue is shut.
+      const clamp = clampBusynessInRaw(out);
+      if (clamp.changed) {
+        out = clamp.raw;
+        console.log(`    ⏰ busyness clamped to the new hours: ${clamp.notes.join('; ')}`);
+      }
       if (out !== t) await writeFile(p, out, 'utf8');
     }
   }
 
   console.log(
     `\nBACKFILL RESULT: updated ${updated}, already-complete ${already}, no-new-data ${noData}, ` +
-    `no-place ${skipNoPlace}, quota-429 ${quotaHits}, api-error ${apiErrors}` +
+    `no-place ${skipNoPlace}, closed-quarantined ${closed}, quota-429 ${quotaHits}, api-error ${apiErrors}` +
     (apiErrors ? ` (last: ${lastFailure})` : '') +
     `, processed ${processed} of ${files.length} (${APPLY ? 'APPLIED' : 'dry-run'}).`
   );

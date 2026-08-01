@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 35.7147651
   lng: 139.7966553
-  phone: 03-3842-0181
+  phone: '+81 3-3842-0181'
 tags:
   - tokyo
   - Senso-ji Temple

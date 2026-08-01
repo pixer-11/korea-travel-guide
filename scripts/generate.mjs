@@ -26,7 +26,7 @@ import yaml from 'js-yaml';
 import { slugify } from './lib/slugify.mjs';
 import { checkPlace, isImageAllowed } from './lib/guardrails.mjs';
 import { qualifyingPosts } from '../src/lib/itinerary.mjs';
-import { openHourSet } from '../src/lib/hours.mjs';
+import { openHourSet, clampBusynessHours } from '../src/lib/hours.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
@@ -619,8 +619,18 @@ async function buildLivePost(target) {
       const { fetchBusyness } = await import('./lib/besttime.mjs');
       const bz = await fetchBusyness(place.name, place.address);
       if (bz) {
-        place.busyness = { updated: new Date().toISOString().slice(0, 10), ...bz };
-        console.log(`  📊 foot-traffic: quiet(wd) ${bz.weekdayQuiet.join(',') || '—'}`);
+        // Clamp to the venue's real opening hours BEFORE storing — this stored
+        // object is what the fact box and BestTimeTool render, and unclamped it
+        // advertised "weekend quiet: 6–7 PM" for a venue that closes at 6.
+        // (The writer's crowdFacts below re-clamp independently; that copy never
+        // reaches the frontmatter.) No parseable hours → store as fetched.
+        const clamped = clampBusynessHours(bz, place.openingHours) ?? bz;
+        place.busyness = { updated: new Date().toISOString().slice(0, 10) };
+        for (const k of ['weekdayQuiet', 'weekdayBusy', 'weekendQuiet', 'weekendBusy']) {
+          if (clamped[k]?.length) place.busyness[k] = clamped[k];
+        }
+        if (bz.venueId) place.busyness.venueId = bz.venueId;
+        console.log(`  📊 foot-traffic: quiet(wd) ${(clamped.weekdayQuiet ?? []).join(',') || '—'}`);
       }
     } catch { /* foot-traffic is a bonus; never blocks publishing */ }
   }

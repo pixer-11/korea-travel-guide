@@ -20,7 +20,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 37.7439678
   lng: 127.35248639999999
-  phone: 1544-6703
+  phone: '+82 1544-6703'
   openingHours:
     - 'Monday: 8:30 AM – 7:00 PM'
     - 'Tuesday: 8:30 AM – 7:00 PM'

@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 35.4439383
   lng: 139.6509414
-  phone: "045-664-1100"
+  phone: '+81 45-664-1100'
   openingHours:
     - "Monday: 10:00 AM – 10:00 PM"
     - "Tuesday: 10:00 AM – 10:00 PM"

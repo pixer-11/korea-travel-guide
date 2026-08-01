@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 37.569101499999995
   lng: 126.97866919999998
-  phone: "02-2290-7111"
+  phone: '+82 2-2290-7111'
   openingHours:
     - "Monday: Open 24 hours"
     - "Tuesday: Open 24 hours"

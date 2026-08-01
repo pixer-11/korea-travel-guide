@@ -34,7 +34,7 @@ place:
       - 21
       - 22
     venueId: ven_5978305336734151414b415255545a6a58736f496653664a496843
-  phone: 053-424-9951
+  phone: '+82 53-424-9951'
   openingHours:
     - 'Monday: 10:30 AM – 4:00 AM'
     - 'Tuesday: 10:30 AM – 4:00 AM'

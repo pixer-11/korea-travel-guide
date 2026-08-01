@@ -32,7 +32,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 24.482236999999998
   lng: 54.354723
-  phone: 02 697 6400
+  phone: '+971 2 697 6400'
   openingHours:
     - 'Monday: 9:00 AM – 8:00 PM'
     - 'Tuesday: 9:00 AM – 8:00 PM'

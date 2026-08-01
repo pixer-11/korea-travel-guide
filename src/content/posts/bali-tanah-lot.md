@@ -30,7 +30,7 @@ place:
   businessStatus: OPERATIONAL
   lat: -8.621213
   lng: 115.086807
-  phone: '(0361) 880361'
+  phone: '+62 361 880361'
   openingHours:
     - 'Monday: 6:00 AM – 7:00 PM'
     - 'Tuesday: 6:00 AM – 7:00 PM'

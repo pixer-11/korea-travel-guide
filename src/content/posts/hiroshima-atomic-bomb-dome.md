@@ -55,7 +55,7 @@ place:
       - 17
       - 18
     venueId: ven_516a356e7048344744736c52556a57697977326e4159714a496843
-  phone: 082-504-2898
+  phone: '+81 82-504-2898'
   openingHours:
     - 'Monday: Open 24 hours'
     - 'Tuesday: Open 24 hours'

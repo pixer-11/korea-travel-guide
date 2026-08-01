@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 35.6763976
   lng: 139.6993259
-  phone: '03-3379-5511'
+  phone: '+81 3-3379-5511'
 tags:
   - tokyo
   - Meiji Shrine

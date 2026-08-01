@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 37.5737828
   lng: 126.98606240000001
-  phone: '02-735-0312'
+  phone: '+82 2-735-0312'
   openingHours:
     - 'Monday: 11:30 AM – 11:00 PM'
     - 'Tuesday: 11:30 AM – 11:00 PM'

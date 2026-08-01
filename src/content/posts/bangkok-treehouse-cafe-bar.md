@@ -41,7 +41,7 @@ place:
       - 21
     venueId: ven_737a565f76766a7135505f52416a3466756d6d537131684a496843
   priceLevel: 2
-  phone: 080 899 4249
+  phone: '+66 80 899 4249'
   openingHours:
     - 'Monday: 9:00 AM – 11:00 PM'
     - 'Tuesday: 9:00 AM – 11:00 PM'

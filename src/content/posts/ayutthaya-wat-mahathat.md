@@ -34,23 +34,12 @@ place:
   lng: 100.5675112
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 8
-      - 9
-      - 18
+    weekdayQuiet: [8, 9]
     weekendQuiet:
       - 8
-    weekendBusy:
-      - 11
-      - 12
-      - 13
-      - 14
-      - 15
-      - 16
-      - 17
-      - 18
+    weekendBusy: [11, 12, 13, 14, 15, 16, 17]
     venueId: ven_5564314d4146474567513252416a34306c4554616b552d4a496843
-  phone: '035 242 286'
+  phone: '+66 35 242 286'
   openingHours:
     - 'Monday: 8:00 AM – 6:30 PM'
     - 'Tuesday: 8:00 AM – 6:30 PM'

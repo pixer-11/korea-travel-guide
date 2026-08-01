@@ -34,22 +34,12 @@ place:
   lng: 98.92163370000002
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 7
-      - 8
-      - 19
-      - 20
-      - 21
+    weekdayQuiet: [7, 8, 19, 20]
     weekdayBusy:
       - 11
       - 12
       - 13
-    weekendQuiet:
-      - 7
-      - 8
-      - 19
-      - 20
-      - 21
+    weekendQuiet: [7, 8, 19, 20]
     weekendBusy:
       - 10
       - 11
@@ -60,7 +50,7 @@ place:
       - 16
       - 17
     venueId: ven_3070684d786c724637584952416a3235553733783364744a496843
-  phone: '053 295 003'
+  phone: '+66 53 295 003'
   openingHours:
     - 'Monday: 5:00 AM – 9:00 PM'
     - 'Tuesday: 5:00 AM – 9:00 PM'

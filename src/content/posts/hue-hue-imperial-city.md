@@ -39,7 +39,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 16.469527
   lng: 107.577432
-  phone: '0234 3523 237'
+  phone: '+84 234 3523 237'
   openingHours:
     - 'Monday: 7:00 AM – 5:30 PM'
     - 'Tuesday: 7:00 AM – 5:30 PM'

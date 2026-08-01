@@ -28,16 +28,8 @@ place:
   lng: 98.9516702
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 8
-      - 9
-      - 10
-      - 17
-      - 18
-    weekendQuiet:
-      - 8
-      - 9
-      - 18
+    weekdayQuiet: [8, 9, 10, 17]
+    weekendQuiet: [8, 9]
     weekendBusy:
       - 11
       - 12
@@ -46,7 +38,7 @@ place:
       - 15
       - 16
     venueId: ven_6f304d397869574179417952416a3237387947623254394a496843
-  phone: '092 455 3947'
+  phone: '+66 92 455 3947'
   openingHours:
     - 'Monday: 8:00 AM – 6:00 PM'
     - 'Tuesday: 8:00 AM – 6:00 PM'

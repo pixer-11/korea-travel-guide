@@ -49,7 +49,7 @@ place:
       - 21
       - 22
     venueId: ven_5942413571635270474e7052416a345947396b436c574c4a496843
-  phone: 083 817 4446
+  phone: '+66 83 817 4446'
   openingHours:
     - 'Monday: 12:00 – 11:00 PM'
     - 'Tuesday: 12:00 – 11:00 PM'

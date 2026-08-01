@@ -26,7 +26,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 39.8821803
   lng: 116.40660559999998
-  phone: 010 6702 8866
+  phone: '+86 10 6702 8866'
   openingHours:
     - 'Monday: 6:00 AM – 9:00 PM'
     - 'Tuesday: 6:00 AM – 9:00 PM'

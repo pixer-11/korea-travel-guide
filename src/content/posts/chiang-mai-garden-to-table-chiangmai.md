@@ -22,7 +22,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 18.786508599999998
   lng: 98.990431
-  phone: 082 583 6999
+  phone: '+66 82 583 6999'
   openingHours:
     - "Monday: 2:00 – 9:00 PM"
     - "Tuesday: 2:00 – 9:00 PM"

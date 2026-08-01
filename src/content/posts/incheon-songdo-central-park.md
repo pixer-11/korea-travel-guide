@@ -51,7 +51,7 @@ place:
       - 20
       - 21
     venueId: ven_38745670506148414b6c4e52557a65337061596c722d524a496843
-  phone: '032-456-2860'
+  phone: '+82 32-456-2860'
   openingHours:
     - 'Monday: Open 24 hours'
     - 'Tuesday: Open 24 hours'

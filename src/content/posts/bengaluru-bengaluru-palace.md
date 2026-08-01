@@ -20,7 +20,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 13.0035068
   lng: 77.5890953
-  phone: 080 2235 2828
+  phone: '+91 80 2235 2828'
   openingHours:
     - 'Monday: 10:00 AM – 5:30 PM'
     - 'Tuesday: 10:00 AM – 5:30 PM'

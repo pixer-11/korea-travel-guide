@@ -26,7 +26,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 25.033337099999997
   lng: 121.56465960000001
-  phone: 02 8101 7799
+  phone: '+886 2 8101 7799'
   openingHours:
     - "Monday: 10:45 AM – 8:30 PM"
     - "Tuesday: 10:45 AM – 8:30 PM"
@@ -37,10 +37,7 @@ place:
     - "Sunday: 10:45 AM – 8:30 PM"
   busyness:
     updated: 2026-07-30T00:00:00.000Z
-    weekdayQuiet:
-      - 10
-      - 11
-      - 20
+    weekdayQuiet: [10, 11]
     weekdayBusy: []
     weekendQuiet:
       - 10

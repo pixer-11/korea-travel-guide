@@ -21,7 +21,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 38.8845894
   lng: 1.4035898999999998
-  phone: 626 38 43 78
+  phone: '+34 626 38 43 78'
   openingHours:
     - 'Monday: 7:00 PM – 1:00 AM'
     - 'Tuesday: 7:00 PM – 1:00 AM'

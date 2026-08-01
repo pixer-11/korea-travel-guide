@@ -20,7 +20,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 27.168394
   lng: 78.05107799999999
-  phone: 070600 05331
+  phone: '+91 70600 05331'
   openingHours:
     - 'Monday: 10:00 AM – 11:00 PM'
     - 'Tuesday: 10:00 AM – 11:00 PM'

@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 30.2315677
   lng: 120.149695
-  phone: "0571 8798 2111"
+  phone: '+86 571 8798 2111'
   openingHours:
     - "Monday: 8:00 AM – 8:00 PM"
     - "Tuesday: 8:00 AM – 8:00 PM"

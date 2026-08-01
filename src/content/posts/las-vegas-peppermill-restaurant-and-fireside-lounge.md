@@ -26,7 +26,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 36.1336884
   lng: -115.16328329999999
-  phone: "(702) 735-4177"
+  phone: '+1 702 735-4177'
   openingHours:
     - "Monday: 7:00 AM – 2:00 AM"
     - "Tuesday: 7:00 AM – 2:00 AM"

@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 37.5665256
   lng: 127.00922360000001
-  phone: 02-2153-0000
+  phone: '+82 2-2153-0000'
   openingHours:
     - 'Monday: 10:00 AM – 8:00 PM'
     - 'Tuesday: 10:00 AM – 8:00 PM'

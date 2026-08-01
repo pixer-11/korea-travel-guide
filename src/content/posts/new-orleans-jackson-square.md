@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 29.9574024
   lng: -90.0629495
-  phone: "(504) 658-3200"
+  phone: '+1 504 658-3200'
   openingHours:
     - "Monday: 8:00 AM – 6:00 PM"
     - "Tuesday: 8:00 AM – 6:00 PM"

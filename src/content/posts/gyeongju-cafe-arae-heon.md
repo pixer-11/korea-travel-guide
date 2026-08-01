@@ -21,7 +21,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 35.8000922
   lng: 129.3132602
-  phone: 050-71343-2200
+  phone: '+82 50-71343-2200'
   openingHours:
     - 'Monday: 11:00 AM – 8:00 PM'
     - 'Tuesday: 11:00 AM – 8:00 PM'

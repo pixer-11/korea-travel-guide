@@ -27,14 +27,8 @@ place:
   lng: 100.4916607
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 8
-      - 9
-      - 18
-      - 19
-    weekendQuiet:
-      - 8
-      - 19
+    weekdayQuiet: [8, 9, 18]
+    weekendQuiet: [8]
     weekendBusy:
       - 11
       - 12
@@ -43,7 +37,7 @@ place:
       - 15
       - 16
     venueId: ven_636847724632614b51306652416a345a3669374450616d4a496843
-  phone: 083 057 7100
+  phone: '+66 83 057 7100'
   openingHours:
     - 'Monday: 8:00 AM – 7:30 PM'
     - 'Tuesday: 8:00 AM – 7:30 PM'

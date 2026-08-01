@@ -23,21 +23,12 @@ place:
   lng: 99.8450744
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 9
-      - 10
-      - 21
-      - 22
+    weekdayQuiet: [9, 10, 21]
     weekdayBusy:
       - 12
       - 13
       - 14
-    weekendQuiet:
-      - 9
-      - 10
-      - 20
-      - 21
-      - 22
+    weekendQuiet: [9, 10, 20, 21]
     weekendBusy:
       - 12
       - 13
@@ -46,7 +37,7 @@ place:
       - 16
       - 17
     venueId: ven_30545f365f66564a4e337352417a314741666b704d57654a496843
-  phone: 081 984 2925
+  phone: '+66 81 984 2925'
   openingHours:
     - 'Monday: 9:00 AM – 10:00 PM'
     - 'Tuesday: 9:00 AM – 10:00 PM'

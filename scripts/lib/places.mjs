@@ -90,6 +90,10 @@ const LOCAL_SIGNAL_MASK = [
   'id', 'rating', 'userRatingCount', 'primaryType', 'primaryTypeDisplayName', 'types', 'reviews',
   // Practical visit facts — free on this same once-per-post Details call.
   'nationalPhoneNumber', 'internationalPhoneNumber', 'regularOpeningHours',
+  // Without this the daily backfill happily wrote phone/hours onto permanently
+  // closed venues — the one caller that touches EVERY old post couldn't see
+  // closures at all. Free on the same call.
+  'businessStatus',
 ].join(',');
 
 /**
@@ -99,14 +103,22 @@ const LOCAL_SIGNAL_MASK = [
  * each review's language code + star rating as numeric signals. Returns null on
  * any error/quota so publishing never blocks on it.
  */
-export async function fetchPlaceReviewSignals(placeId) {
+export async function fetchPlaceReviewSignals(placeId, { reportFailure = false } = {}) {
   if (!KEY || !placeId) return null;
   // Retry transient failures before giving up. A swallowed 429/503 used to publish
   // the post with EMPTY phone/openingHours, which then had to be back-filled by a
   // second job on a later day — paying for the same venue twice and leaving the
   // fact box thin in between. Google's per-minute burst limit clears in seconds,
   // so a short backoff recovers most of these within the same run.
+  //
+  // reportFailure (restored — the retry rewrite of 2026-07-28 dropped it while
+  // backfill-place-details still passed it, so every failure was filed as
+  // "no-api-key"): bulk callers get { failure } back instead of a bare null, so
+  // a 429 (wait for tomorrow) is never confused with a 403 (fix the key) or a
+  // venue that genuinely has no phone. Publishing keeps the lenient default —
+  // it must never block on this.
   const ATTEMPTS = 3;
+  const fail = (kind, detail) => (reportFailure ? { failure: kind, ...(detail ? { detail } : {}) } : null);
   let res = null;
   for (let attempt = 1; attempt <= ATTEMPTS; attempt++) {
     try {
@@ -129,9 +141,14 @@ export async function fetchPlaceReviewSignals(placeId) {
     // Out of attempts: say which failure it was, so a run that produced thin
     // posts is diagnosable from the log instead of looking like "no data".
     console.warn(`  ⚠ Places Details ${res ? res.status : 'network'} after ${ATTEMPTS} tries — phone/hours unavailable for this post`);
-    return null;
+    return fail(res ? res.status : 'network');
   }
-  if (!res || !res.ok) return null;
+  if (!res) return fail('network');
+  if (!res.ok) {
+    const body = await res.text().catch(() => '');
+    if (reportFailure) console.warn(`  ⚠ Places Details ${res.status} — NOT a quota problem: ${body.slice(0, 160)}`);
+    return fail(res.status, body.slice(0, 160));
+  }
   const p = await res.json();
   const reviewLangs = (p.reviews ?? [])
     .map((r) => r.originalText?.languageCode || r.text?.languageCode)
@@ -145,8 +162,14 @@ export async function fetchPlaceReviewSignals(placeId) {
     types: p.types ?? [],
     reviewLangs,
     // Verified contact/hours — real API facts, never model-generated.
-    phone: p.nationalPhoneNumber || p.internationalPhoneNumber || null,
+    // International FIRST: the fact box's tel: link is tapped from a foreign
+    // SIM (the site's core reader), and a national-format number simply does
+    // not connect from abroad. 236 posts shipped local-format the other way.
+    phone: p.internationalPhoneNumber || p.nationalPhoneNumber || null,
     openingHours: p.regularOpeningHours?.weekdayDescriptions || null,
+    // OPERATIONAL / CLOSED_TEMPORARILY / CLOSED_PERMANENTLY — lets bulk
+    // callers quarantine closed venues instead of decorating them with hours.
+    businessStatus: p.businessStatus || null,
   };
 }
 

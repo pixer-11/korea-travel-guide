@@ -28,15 +28,10 @@ place:
   lng: 126.99638899999998
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 11
-      - 12
-      - 21
+    weekdayQuiet: [11, 12]
     weekdayBusy:
       - 19
-    weekendQuiet:
-      - 11
-      - 21
+    weekendQuiet: [11]
     weekendBusy:
       - 13
       - 14
@@ -44,7 +39,7 @@ place:
       - 19
       - 20
     venueId: ven_73653954746674352d7871525544666a576244745630614a496843
-  phone: 070-8899-8210
+  phone: '+82 70-8899-8210'
   openingHours:
     - 'Monday: 11:30 AM – 9:00 PM'
     - 'Tuesday: 11:30 AM – 9:00 PM'

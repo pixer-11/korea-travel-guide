@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 34.2123098
   lng: 108.9747383
-  phone: "029 8559 9071"
+  phone: '+86 29 8559 9071'
   openingHours:
     - "Monday: 9:00 AM – 10:00 PM"
     - "Tuesday: 9:00 AM – 10:00 PM"

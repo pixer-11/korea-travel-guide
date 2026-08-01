@@ -21,7 +21,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 13.799781
   lng: 100.55042449999999
-  phone: '02 272 4270'
+  phone: '+66 2 272 4270'
   openingHours:
     - 'Monday: Closed'
     - 'Tuesday: 5:00 AM – 10:00 PM'

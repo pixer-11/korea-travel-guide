@@ -32,7 +32,7 @@ place:
     weekendQuiet: [7, 8]
     weekendBusy: [14, 15, 16, 17, 18, 19, 20, 21]
     venueId: 'ven_495743576558746671736452456a325a51776b2d5a784d4a496843'
-  phone: '6420 6848'
+  phone: '+65 6420 6848'
   openingHours:
     - 'Monday: 5:00 AM – 2:00 AM'
     - 'Tuesday: 5:00 AM – 2:00 AM'

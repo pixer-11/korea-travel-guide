@@ -20,7 +20,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 25.3108532
   lng: 83.0106783
-  phone: 070802 92930
+  phone: '+91 70802 92930'
   openingHours:
     - 'Monday: 3:00 AM – 11:00 PM'
     - 'Tuesday: 3:00 AM – 11:00 PM'

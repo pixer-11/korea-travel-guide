@@ -28,21 +28,15 @@ place:
   lng: 106.6978901
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 8
-      - 20
-      - 21
-    weekendQuiet:
-      - 8
-      - 20
-      - 21
+    weekdayQuiet: [8, 20]
+    weekendQuiet: [8, 20]
     weekendBusy:
       - 11
       - 12
       - 13
       - 14
     venueId: ven_454e35674b4c68553345595245546476634d517665617a4a496843
-  phone: 0867 990 125
+  phone: '+84 867 990 125'
   openingHours:
     - 'Monday: 8:00 AM – 9:00 PM'
     - 'Tuesday: 8:00 AM – 9:00 PM'

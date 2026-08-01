@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 25.109807699999998
   lng: 121.8452102
-  phone: 02 2406 3270
+  phone: '+886 2 2406 3270'
   openingHours:
     - 'Monday: 10:00 AM – 8:00 PM'
     - 'Tuesday: 10:00 AM – 8:00 PM'

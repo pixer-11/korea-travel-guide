@@ -31,30 +31,19 @@ place:
   lng: 55.4456037
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 8
-      - 9
-      - 10
-      - 11
-      - 12
-      - 20
+    weekdayQuiet: [8, 9, 10, 11, 12]
     weekdayBusy:
       - 17
       - 18
       - 19
-    weekendQuiet:
-      - 8
-      - 9
-      - 10
-      - 11
-      - 20
+    weekendQuiet: [8, 9, 10, 11]
     weekendBusy:
       - 16
       - 17
       - 18
       - 19
     venueId: ven_596c4b574536374532396352347a5858685879685354504a496843
-  phone: '06 711 6688'
+  phone: '+971 6 711 6688'
   openingHours:
     - 'Monday: 8:00 AM – 8:00 PM'
     - 'Tuesday: 8:00 AM – 8:00 PM'

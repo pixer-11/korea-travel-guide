@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 20.2995108
   lng: 85.83234569999999
-  phone: "0674 256 7114"
+  phone: '+91 674 256 7114'
   openingHours:
     - "Monday: Closed"
     - "Tuesday: 10:00 AM – 6:00 PM"
@@ -36,8 +36,6 @@ place:
     - "Sunday: 10:00 AM – 6:00 PM"
   busyness:
     updated: 2026-08-01
-    weekdayQuiet:
-      - 18
     weekdayBusy:
       - 11
       - 12
@@ -46,8 +44,6 @@ place:
       - 15
       - 16
       - 17
-    weekendQuiet:
-      - 18
     weekendBusy:
       - 11
       - 12

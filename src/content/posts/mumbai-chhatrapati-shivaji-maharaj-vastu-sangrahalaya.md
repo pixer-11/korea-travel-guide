@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 18.9269015
   lng: 72.83269159999999
-  phone: "022 6958 4400"
+  phone: '+91 22 6958 4400'
   openingHours:
     - "Monday: 10:15 AM – 6:00 PM"
     - "Tuesday: 10:15 AM – 6:00 PM"

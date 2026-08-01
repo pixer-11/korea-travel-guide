@@ -21,7 +21,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 45.775597499999996
   lng: 4.8504688
-  phone: "04 72 10 30 30"
+  phone: '+33 4 72 10 30 30'
   openingHours:
     - "Monday: 6:30 AM – 10:30 PM"
     - "Tuesday: 6:30 AM – 10:30 PM"
@@ -32,19 +32,9 @@ place:
     - "Sunday: 6:30 AM – 10:30 PM"
   busyness:
     updated: 2026-07-31
-    weekdayQuiet:
-      - 7
-      - 8
-      - 9
-      - 21
-      - 22
+    weekdayQuiet: [7, 8, 9, 21]
     weekdayBusy: []
-    weekendQuiet:
-      - 7
-      - 8
-      - 9
-      - 21
-      - 22
+    weekendQuiet: [7, 8, 9, 21]
     weekendBusy:
       - 13
       - 14

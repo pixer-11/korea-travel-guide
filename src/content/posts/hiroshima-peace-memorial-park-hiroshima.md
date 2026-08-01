@@ -30,7 +30,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 34.3926867
   lng: 132.4522012
-  phone: '082-504-2390'
+  phone: '+81 82-504-2390'
   openingHours:
     - 'Monday: Open 24 hours'
     - 'Tuesday: Open 24 hours'

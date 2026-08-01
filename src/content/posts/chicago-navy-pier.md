@@ -21,7 +21,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 41.8918633
   lng: -87.6050944
-  phone: "(312) 595-7437"
+  phone: '+1 312 595-7437'
   openingHours:
     - "Monday: 11:00 AM – 8:00 PM"
     - "Tuesday: 11:00 AM – 8:00 PM"

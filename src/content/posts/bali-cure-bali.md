@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: -8.6571981
   lng: 115.12829409999998
-  phone: '0811-3800-5616'
+  phone: '+62 811-3800-5616'
   openingHours:
     - 'Monday: Closed'
     - 'Tuesday: 5:00 PM – 12:00 AM'

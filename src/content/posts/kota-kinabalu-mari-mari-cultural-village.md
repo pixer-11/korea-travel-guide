@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 5.9736958
   lng: 116.20366879999997
-  phone: 013-881 4921
+  phone: '+60 13-881 4921'
   openingHours:
     - 'Monday: 10:00 AM – 1:00 PM, 2:00 – 5:00 PM'
     - 'Tuesday: 10:00 AM – 1:00 PM, 2:00 – 5:00 PM'

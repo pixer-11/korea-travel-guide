@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 41.8990104
   lng: -87.6232416
-  phone: "(888) 875-8439"
+  phone: '+1 888 875-8439'
   openingHours:
     - "Monday: 9:00 AM – 11:00 PM"
     - "Tuesday: 9:00 AM – 11:00 PM"

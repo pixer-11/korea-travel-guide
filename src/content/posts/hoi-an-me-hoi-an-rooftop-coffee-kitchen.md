@@ -27,21 +27,12 @@ place:
   lng: 108.3269249
   busyness:
     updated: "2026-07-23"
-    weekdayQuiet:
-      - 8
-      - 9
-      - 10
-      - 22
+    weekdayQuiet: [8, 9, 10]
     weekdayBusy:
       - 17
       - 18
       - 19
-    weekendQuiet:
-      - 8
-      - 9
-      - 10
-      - 21
-      - 22
+    weekendQuiet: [8, 9, 10, 21]
     weekendBusy:
       - 15
       - 16
@@ -50,7 +41,7 @@ place:
       - 19
     venueId: ven_5973306675385465645f3652456a515045624f72485f624a496843
   priceLevel: 1
-  phone: 0374 099 375
+  phone: '+84 374 099 375'
   openingHours:
     - "Monday: 8:00 AM – 10:30 PM"
     - "Tuesday: 8:00 AM – 10:30 PM"

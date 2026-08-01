@@ -22,7 +22,7 @@ place:
   lat: 18.7812114
   lng: 98.98839889999999
   priceLevel: 1
-  phone: 098 761 7344
+  phone: '+66 98 761 7344'
   openingHours:
     - "Monday: 4:00 – 10:00 PM"
     - "Tuesday: 4:00 – 10:00 PM"

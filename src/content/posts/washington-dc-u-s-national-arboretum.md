@@ -26,7 +26,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 38.91213
   lng: -76.9657782
-  phone: "(202) 245-4523"
+  phone: '+1 202 245-4523'
   openingHours:
     - "Monday: 8:00 AM – 8:00 PM"
     - "Tuesday: 8:00 AM – 8:00 PM"

@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 43.317701899999996
   lng: 11.3289071
-  phone: "0577 286300"
+  phone: '+39 0577 286300'
   openingHours:
     - "Monday: 10:00 AM – 7:00 PM"
     - "Tuesday: 10:00 AM – 7:00 PM"

@@ -11,7 +11,9 @@ import './lib/env.mjs'; // loads .env (BESTTIME_API_KEY) before besttime.mjs rea
 import { readdir, readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import yaml from 'js-yaml';
 import { fetchBusyness } from './lib/besttime.mjs';
+import { clampBusynessHours } from '../src/lib/hours.mjs';
 
 const DIR = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 const APPLY = process.argv.includes('--apply');
@@ -52,16 +54,27 @@ for (const f of files) {
   catch (e) { console.log(`  ⚠ ${f}: ${e.message}`); continue; }
   if (!bz) { noData++; console.log(`  – ${f}: no forecast`); continue; }
 
-  // Build the nested busyness block (only non-empty hour lists).
+  // Clamp to the venue's stored opening hours before saving: BestTime measures
+  // the pavement, not the business, and an unclamped window put "weekend quiet:
+  // 6–7 PM" on a page whose fact box says the doors shut at 6. Unparseable or
+  // absent hours → keep the forecast as fetched (unknown is not closed).
+  let hours;
+  try { hours = yaml.load(t.slice(4, t.indexOf('\n---', 3)))?.place?.openingHours; } catch { /* keep bz */ }
+  const use = clampBusynessHours(bz, hours) ?? bz;
+
+  // Build the nested busyness block (only non-empty hour lists). The venueId is
+  // written even when the clamp leaves nothing: the credits are spent, and the
+  // block's presence stops a later run from buying the same forecast again.
   let inject = `  busyness:\n    updated: ${yq(today)}\n`;
-  if (bz.weekdayQuiet.length) inject += `    weekdayQuiet: ${arr(bz.weekdayQuiet)}\n`;
-  if (bz.weekdayBusy.length)  inject += `    weekdayBusy: ${arr(bz.weekdayBusy)}\n`;
-  if (bz.weekendQuiet.length) inject += `    weekendQuiet: ${arr(bz.weekendQuiet)}\n`;
-  if (bz.weekendBusy.length)  inject += `    weekendBusy: ${arr(bz.weekendBusy)}\n`;
+  if (use.weekdayQuiet.length) inject += `    weekdayQuiet: ${arr(use.weekdayQuiet)}\n`;
+  if (use.weekdayBusy.length)  inject += `    weekdayBusy: ${arr(use.weekdayBusy)}\n`;
+  if (use.weekendQuiet.length) inject += `    weekendQuiet: ${arr(use.weekendQuiet)}\n`;
+  if (use.weekendBusy.length)  inject += `    weekendBusy: ${arr(use.weekendBusy)}\n`;
   if (bz.venueId) inject += `    venueId: ${yq(bz.venueId)}\n`;
 
   updated++;
-  console.log(`  ✓ ${f}  wd-quiet:${arr(bz.weekdayQuiet)} wd-busy:${arr(bz.weekdayBusy)}`);
+  const clampNote = use.changed ? ' (clamped to opening hours)' : '';
+  console.log(`  ✓ ${f}  wd-quiet:${arr(use.weekdayQuiet)} wd-busy:${arr(use.weekdayBusy)}${clampNote}`);
 
   if (APPLY) {
     // Match the file's own line ending so we don't mix CRLF/LF inside the block.

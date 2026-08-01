@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 40.865061499999996
   lng: 14.2474297
-  phone: "081 744 3714"
+  phone: '+39 081 744 3714'
   openingHours:
     - "Monday: 9:30 AM – 5:00 PM"
     - "Tuesday: 9:30 AM – 5:00 PM"

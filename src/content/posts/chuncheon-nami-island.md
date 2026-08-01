@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 37.789935199999995
   lng: 127.52580719999999
-  phone: 031-580-8114
+  phone: '+82 31-580-8114'
   openingHours:
     - 'Monday: 8:00 AM – 9:00 PM'
     - 'Tuesday: 8:00 AM – 9:00 PM'

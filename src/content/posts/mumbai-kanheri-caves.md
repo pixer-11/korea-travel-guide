@@ -35,16 +35,7 @@ place:
       - 8
     weekdayBusy: []
     weekendQuiet: []
-    weekendBusy:
-      - 9
-      - 10
-      - 11
-      - 12
-      - 13
-      - 14
-      - 15
-      - 16
-      - 17
+    weekendBusy: [9, 10, 11, 12, 13, 14, 15, 16]
     venueId: "ven_555f5a364e6261696b375852737a3535616534334664624a496843"
 tags:
   - "mumbai"

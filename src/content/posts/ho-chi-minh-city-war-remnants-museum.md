@@ -27,14 +27,8 @@ place:
   lng: 106.6920916
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 7
-      - 8
-      - 17
-    weekendQuiet:
-      - 7
-      - 8
-      - 17
+    weekdayQuiet: [7, 8]
+    weekendQuiet: [7, 8]
     weekendBusy:
       - 10
       - 11
@@ -43,7 +37,7 @@ place:
       - 14
       - 15
     venueId: ven_7758324b39394b55516e715245546476416a6f3367777a4a496843
-  phone: 028 3930 5587
+  phone: '+84 28 3930 5587'
   openingHours:
     - 'Monday: 7:30 AM – 5:30 PM'
     - 'Tuesday: 7:30 AM – 5:30 PM'

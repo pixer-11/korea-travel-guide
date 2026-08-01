@@ -22,7 +22,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 40.722668
   lng: -73.99822979999999
-  phone: "(212) 965-1414"
+  phone: '+1 212 965-1414'
   openingHours:
     - "Monday: 8:00 AM – 12:00 AM"
     - "Tuesday: 8:00 AM – 12:00 AM"

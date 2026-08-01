@@ -21,7 +21,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 37.6567441
   lng: 126.7662508
-  phone: 031-8075-4347
+  phone: '+82 31-8075-4347'
   openingHours:
     - "Monday: 10:00 AM – 10:00 PM"
     - "Tuesday: 10:00 AM – 10:00 PM"

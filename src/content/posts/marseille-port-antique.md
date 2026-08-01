@@ -21,7 +21,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 43.297715
   lng: 5.3740853
-  phone: "04 91 55 36 00"
+  phone: '+33 4 91 55 36 00'
   openingHours:
     - "Monday: Closed"
     - "Tuesday: 9:30 AM – 6:00 PM"
@@ -32,12 +32,8 @@ place:
     - "Sunday: 9:30 AM – 6:00 PM"
   busyness:
     updated: 2026-07-30
-    weekdayQuiet:
-      - 18
     weekdayBusy:
       - 15
-    weekendQuiet:
-      - 18
     weekendBusy:
       - 10
       - 11

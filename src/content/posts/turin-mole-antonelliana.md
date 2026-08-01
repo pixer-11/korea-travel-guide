@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 45.0691807
   lng: 7.693233900000001
-  phone: 011 813 8564
+  phone: '+39 011 813 8564'
   openingHours:
     - "Monday: 9:00 AM – 7:00 PM"
     - "Tuesday: Closed"
@@ -36,14 +36,10 @@ place:
     - "Sunday: 9:00 AM – 7:00 PM"
   busyness:
     updated: 2026-07-29T00:00:00.000Z
-    weekdayQuiet:
-      - 9
-      - 19
+    weekdayQuiet: [9]
     weekdayBusy:
       - 15
       - 16
-    weekendQuiet:
-      - 19
     weekendBusy:
       - 11
       - 12

@@ -22,7 +22,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 38.9071493
   lng: -77.0425272
-  phone: "(202) 466-1830"
+  phone: '+1 202 466-1830'
   openingHours:
     - "Monday: Open 24 hours"
     - "Tuesday: Open 24 hours"

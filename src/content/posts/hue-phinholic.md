@@ -26,7 +26,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 16.464765
   lng: 107.59478209999999
-  phone: '0911 715 551'
+  phone: '+84 911 715 551'
   openingHours:
     - 'Monday: 6:30 AM – 10:00 PM'
     - 'Tuesday: 6:30 AM – 10:00 PM'

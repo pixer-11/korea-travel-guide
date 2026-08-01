@@ -21,7 +21,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 37.706739999999996
   lng: 112.447623
-  phone: "0351 602 0038"
+  phone: '+86 351 602 0038'
 tags:
   - "taiyuan"
   - "top attraction"

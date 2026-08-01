@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 1.4575382
   lng: 103.7521843
-  phone: 07-223 0404
+  phone: '+60 7-223 0404'
   openingHours:
     - 'Monday: 9:00 AM – 6:00 PM'
     - 'Tuesday: Closed'

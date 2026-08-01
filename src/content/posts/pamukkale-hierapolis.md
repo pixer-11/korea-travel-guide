@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 37.9248791
   lng: 29.1232436
-  phone: "(0258) 241 08 66"
+  phone: '+90 258 241 08 66'
   openingHours:
     - "Monday: 8:00 AM – 5:00 PM"
     - "Tuesday: 8:00 AM – 5:00 PM"

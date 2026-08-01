@@ -36,7 +36,7 @@ place:
       - 21
       - 22
     venueId: ven_41464c4455736b6871573452456a325a454c45544d776e4a496843
-  phone: '6294 1697'
+  phone: '+65 6294 1697'
   openingHours:
     - 'Monday: Closed'
     - 'Tuesday: 7:00 AM – 2:00 AM'

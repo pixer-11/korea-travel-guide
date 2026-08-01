@@ -21,7 +21,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 45.5934642
   lng: 9.274625799999999
-  phone: "039 394641"
+  phone: '+39 039 394641'
   openingHours:
     - "Monday: Closed"
     - "Tuesday: Closed"
@@ -36,16 +36,7 @@ place:
     weekdayBusy:
       - 14
     weekendQuiet: []
-    weekendBusy:
-      - 10
-      - 11
-      - 12
-      - 13
-      - 14
-      - 15
-      - 16
-      - 17
-      - 18
+    weekendBusy: [10, 11, 12, 13, 14, 15, 16, 17]
     venueId: "ven_306a35785330756733645f52636b68356548324a302d434a496843"
 tags:
   - "monza"

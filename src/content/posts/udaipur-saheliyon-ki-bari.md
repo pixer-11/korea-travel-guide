@@ -21,7 +21,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 24.603006399999998
   lng: 73.6854901
-  phone: "0141 282 2863"
+  phone: '+91 141 282 2863'
   openingHours:
     - "Monday: 9:00 AM – 7:00 PM"
     - "Tuesday: 9:00 AM – 7:00 PM"

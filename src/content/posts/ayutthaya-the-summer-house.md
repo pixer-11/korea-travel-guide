@@ -28,13 +28,8 @@ place:
   lng: 100.575535
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 9
-      - 10
-      - 21
-    weekendQuiet:
-      - 9
-      - 21
+    weekdayQuiet: [9, 10]
+    weekendQuiet: [9]
     weekendBusy:
       - 11
       - 12
@@ -45,7 +40,7 @@ place:
       - 17
       - 18
     venueId: ven_63644752784e4c7755693052416a343235484b367a65744a496843
-  phone: 094 224 2223
+  phone: '+66 94 224 2223'
   openingHours:
     - 'Monday: 9:30 AM – 9:30 PM'
     - 'Tuesday: 9:30 AM – 9:30 PM'

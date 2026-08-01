@@ -40,15 +40,9 @@ place:
     weekendQuiet:
       - 7
       - 8
-    weekendBusy:
-      - 17
-      - 18
-      - 19
-      - 20
-      - 21
-      - 22
+    weekendBusy: [17, 18, 19, 20, 21]
     venueId: ven_77313977704a424c68717552416a32366b354d525152464a496843
-  phone: '097 195 4695'
+  phone: '+66 97 195 4695'
   openingHours:
     - 'Monday: 5:00 AM – 10:30 PM'
     - 'Tuesday: 5:00 AM – 10:30 PM'

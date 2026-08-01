@@ -27,12 +27,12 @@ place:
   lng: 139.7100517
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [18, 19]
+    weekdayQuiet: [18]
     weekdayBusy: [12, 13, 14]
-    weekendQuiet: [18, 19]
+    weekendQuiet: [18]
     weekendBusy: [10, 11, 12, 13, 14, 15, 16]
     venueId: 'ven_6f6d487857626f58495f68524147474d4b3847544f79504a496843'
-  phone: '03-3350-0151'
+  phone: '+81 3-3350-0151'
   openingHours:
     - 'Monday: Closed'
     - 'Tuesday: 9:00 AM – 7:00 PM'

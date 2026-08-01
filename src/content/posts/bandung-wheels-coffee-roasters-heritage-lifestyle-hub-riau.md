@@ -23,17 +23,8 @@ place:
   lng: 107.617391
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 7
-      - 8
-      - 9
-      - 10
-      - 22
-    weekendQuiet:
-      - 7
-      - 8
-      - 9
-      - 22
+    weekdayQuiet: [7, 8, 9, 10]
+    weekendQuiet: [7, 8, 9]
     weekendBusy:
       - 12
       - 13
@@ -46,7 +37,7 @@ place:
       - 20
     venueId: ven_456c6874706e375a6e444a523443616e7a7641617833544a496843
   priceLevel: 2
-  phone: 0812-2208-1402
+  phone: '+62 812-2208-1402'
   openingHours:
     - 'Monday: 7:00 AM – 10:00 PM'
     - 'Tuesday: 7:00 AM – 10:00 PM'

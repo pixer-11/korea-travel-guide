@@ -26,7 +26,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 37.810611699999995
   lng: -122.47708999999999
-  phone: (415) 561-4959
+  phone: '+1 415 561-4959'
   openingHours:
     - 'Monday: 10:00 AM – 5:00 PM'
     - 'Tuesday: Closed'

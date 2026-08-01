@@ -21,7 +21,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 48.8606111
   lng: 2.337644
-  phone: "01 40 20 53 17"
+  phone: '+33 1 40 20 53 17'
   openingHours:
     - "Monday: 9:00 AM – 6:00 PM"
     - "Tuesday: Closed"
@@ -40,9 +40,7 @@ place:
       - 14
       - 15
       - 16
-    weekendQuiet:
-      - 9
-      - 18
+    weekendQuiet: [9]
     weekendBusy:
       - 11
       - 12

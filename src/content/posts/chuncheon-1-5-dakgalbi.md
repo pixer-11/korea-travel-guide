@@ -22,7 +22,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 37.8763358
   lng: 127.7530769
-  phone: 033-253-8635
+  phone: '+82 33-253-8635'
   openingHours:
     - "Monday: 11:00 AM – 10:00 PM"
     - "Tuesday: 11:00 AM – 10:00 PM"
@@ -33,20 +33,11 @@ place:
     - "Sunday: 11:00 AM – 10:00 PM"
   busyness:
     updated: 2026-07-29T00:00:00.000Z
-    weekdayQuiet:
-      - 11
-      - 12
-      - 13
-      - 14
-      - 15
-      - 16
-      - 22
+    weekdayQuiet: [11, 12, 13, 14, 15, 16]
     weekdayBusy:
       - 19
       - 20
-    weekendQuiet:
-      - 11
-      - 22
+    weekendQuiet: [11]
     weekendBusy:
       - 17
       - 18

@@ -30,7 +30,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 25.2642363
   lng: 55.300264299999995
-  phone: '800 33222'
+  phone: '+971 800 33222'
   openingHours:
     - 'Monday: 7:00 AM – 8:00 PM'
     - 'Tuesday: 7:00 AM – 8:00 PM'

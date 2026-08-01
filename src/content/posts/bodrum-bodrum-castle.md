@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 37.0317978
   lng: 27.4291652
-  phone: "(0252) 316 25 16"
+  phone: '+90 252 316 25 16'
   openingHours:
     - "Monday: 8:30 AM – 9:30 PM"
     - "Tuesday: 8:30 AM – 9:30 PM"

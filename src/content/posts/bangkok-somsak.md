@@ -21,7 +21,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 13.7202108
   lng: 100.58495409999999
-  phone: '083 262 9154'
+  phone: '+66 83 262 9154'
   openingHours:
     - 'Monday: 11:00 AM – 11:00 PM'
     - 'Tuesday: 11:00 AM – 11:00 PM'

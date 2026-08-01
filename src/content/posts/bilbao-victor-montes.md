@@ -21,7 +21,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 43.2589036
   lng: -2.9223596
-  phone: 944 15 70 67
+  phone: '+34 944 15 70 67'
   openingHours:
     - 'Monday: 11:00 AM – 11:00 PM'
     - 'Tuesday: 11:00 AM – 11:00 PM'

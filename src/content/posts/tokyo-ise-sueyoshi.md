@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 35.6586527
   lng: 139.7235382
-  phone: '03-6427-2314'
+  phone: '+81 3-6427-2314'
   openingHours:
     - 'Monday: Closed'
     - 'Tuesday: 5:00 – 10:00 PM'

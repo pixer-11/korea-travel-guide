@@ -31,7 +31,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 35.8291928
   lng: 129.21812130000004
-  phone: '054-779-6138'
+  phone: '+82 54-779-6138'
   openingHours:
     - 'Monday: 9:00 AM – 10:00 PM'
     - 'Tuesday: 9:00 AM – 10:00 PM'

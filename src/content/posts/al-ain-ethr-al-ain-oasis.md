@@ -39,7 +39,7 @@ place:
       - 22
     venueId: ven_595371546750375756445352346a693379425f6437554c4a496843
   priceLevel: 2
-  phone: 050 545 6180
+  phone: '+971 50 545 6180'
   openingHours:
     - 'Monday: 8:00 AM – 12:00 AM'
     - 'Tuesday: 8:00 AM – 12:00 AM'

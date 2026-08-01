@@ -27,21 +27,17 @@ place:
   lng: 99.7627085
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 8
-      - 17
+    weekdayQuiet: [8]
     weekdayBusy:
       - 11
       - 12
-    weekendQuiet:
-      - 8
-      - 17
+    weekendQuiet: [8]
     weekendBusy:
       - 11
       - 12
       - 13
     venueId: ven_6f435f5633676a7365376f52417a31332d747a5a5235444a496843
-  phone: 053 673 579
+  phone: '+66 53 673 579'
   openingHours:
     - 'Monday: 8:00 AM – 5:00 PM'
     - 'Tuesday: 8:00 AM – 5:00 PM'

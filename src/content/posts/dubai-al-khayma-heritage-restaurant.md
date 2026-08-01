@@ -50,7 +50,7 @@ place:
       - 21
       - 22
     venueId: ven_596474744131574756756952347a58444a336a6c57366c4a496843
-  phone: 055 180 2080
+  phone: '+971 55 180 2080'
   openingHours:
     - 'Monday: 8:00 AM – 11:00 PM'
     - 'Tuesday: 8:00 AM – 11:00 PM'

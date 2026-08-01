@@ -27,14 +27,8 @@ place:
   lng: -3.5881412999999998
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 8
-      - 9
-      - 18
-    weekendQuiet:
-      - 8
-      - 9
-      - 18
+    weekdayQuiet: [8, 9]
+    weekendQuiet: [8, 9]
     weekendBusy:
       - 12
       - 13
@@ -42,7 +36,7 @@ place:
       - 15
       - 16
     venueId: ven_41596a525f754568493666523051633866376c5f6c374f4a496843
-  phone: 958 02 79 71
+  phone: '+34 958 02 79 71'
   openingHours:
     - 'Monday: 8:30 AM – 6:00 PM'
     - 'Tuesday: 8:30 AM – 6:00 PM'

@@ -21,7 +21,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 37.037887399999995
   lng: 27.4241164
-  phone: "(0252) 316 12 19"
+  phone: '+90 252 316 12 19'
   openingHours:
     - "Monday: Closed"
     - "Tuesday: 8:30 AM – 5:00 PM"

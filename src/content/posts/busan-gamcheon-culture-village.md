@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 35.097393499999995
   lng: 129.0105921
-  phone: '051-204-1444'
+  phone: '+82 51-204-1444'
   openingHours:
     - 'Monday: 9:00 AM – 6:00 PM'
     - 'Tuesday: 9:00 AM – 6:00 PM'

@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 17.383309099999998
   lng: 78.4010522
-  phone: "040 2351 2401"
+  phone: '+91 40 2351 2401'
   openingHours:
     - "Monday: 9:00 AM – 5:00 PM"
     - "Tuesday: 9:00 AM – 5:00 PM"

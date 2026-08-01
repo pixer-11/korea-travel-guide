@@ -22,7 +22,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 25.033499100000004
   lng: 121.52912210000001
-  phone: 02 3322 1020
+  phone: '+886 2 3322 1020'
   openingHours:
     - 'Monday: 12:00 – 8:30 PM'
     - 'Tuesday: 12:00 – 8:30 PM'

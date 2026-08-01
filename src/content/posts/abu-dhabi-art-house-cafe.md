@@ -40,7 +40,7 @@ place:
       - 19
       - 20
     venueId: ven_414d6b7266494c6b42523152346a586d6477707552555f4a496843
-  phone: 02 666 0175
+  phone: '+971 2 666 0175'
   openingHours:
     - 'Monday: 9:00 AM – 11:00 PM'
     - 'Tuesday: 9:00 AM – 11:00 PM'

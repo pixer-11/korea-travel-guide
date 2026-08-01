@@ -22,7 +22,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 29.955875399999996
   lng: -90.065056
-  phone: "(504) 524-9752"
+  phone: '+1 504 524-9752'
   openingHours:
     - "Monday: 11:00 AM – 9:00 PM"
     - "Tuesday: 11:00 AM – 9:00 PM"
@@ -39,10 +39,7 @@ place:
       - 21
     weekdayBusy:
       - 19
-    weekendQuiet:
-      - 11
-      - 21
-      - 22
+    weekendQuiet: [11, 21]
     weekendBusy:
       - 15
       - 16

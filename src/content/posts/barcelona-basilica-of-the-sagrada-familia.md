@@ -27,22 +27,14 @@ place:
   lng: 2.1743558
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 9
-      - 18
-      - 19
-      - 20
+    weekdayQuiet: [9, 18, 19]
     weekdayBusy:
       - 12
       - 13
       - 14
       - 15
       - 16
-    weekendQuiet:
-      - 9
-      - 18
-      - 19
-      - 20
+    weekendQuiet: [9, 18, 19]
     weekendBusy:
       - 11
       - 12
@@ -52,7 +44,7 @@ place:
       - 16
       - 17
     venueId: ven_734a32714b3847446e4d555249427069794e3239735f6b4a496843
-  phone: 932 08 04 14
+  phone: '+34 932 08 04 14'
   openingHours:
     - 'Monday: 9:00 AM – 8:00 PM'
     - 'Tuesday: 9:00 AM – 8:00 PM'

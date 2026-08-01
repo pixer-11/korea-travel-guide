@@ -26,7 +26,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 35.160153699999995
   lng: 129.16063929999999
-  phone: '051-746-1946'
+  phone: '+82 51-746-1946'
   openingHours:
     - 'Monday: 11:00 AM – 11:50 PM'
     - 'Tuesday: 11:00 AM – 11:50 PM'

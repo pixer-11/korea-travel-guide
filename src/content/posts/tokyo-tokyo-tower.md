@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 35.6585805
   lng: 139.7454329
-  phone: '03-3433-5111'
+  phone: '+81 3-3433-5111'
   openingHours:
     - 'Monday: 9:00 AM – 11:00 PM'
     - 'Tuesday: 9:00 AM – 11:00 PM'

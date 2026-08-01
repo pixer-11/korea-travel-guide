@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 36.07797970000001
   lng: 129.5696542
-  phone: "054-270-5855"
+  phone: '+82 54-270-5855'
   openingHours:
     - "Monday: Open 24 hours"
     - "Tuesday: Open 24 hours"

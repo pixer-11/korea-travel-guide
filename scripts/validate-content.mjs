@@ -12,8 +12,14 @@ import { unsplashNum } from './lib/images.mjs';
 import { OFFTOPIC } from './lib/offtopic.mjs';
 import { topicKey, FILLER } from './lib/topic-key.mjs';
 import { keyToken } from './lib/commons.mjs';
+import { clampBusynessHours } from '../src/lib/hours.mjs';
 
 const DIR = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
+
+// A frontmatter date → 'YYYY-MM-DD', whether YAML gave us a quoted string or a
+// parsed Date object (unquoted dates; toISOString is safe — YAML timestamps
+// without a time are read as UTC midnight).
+const isoDay = (v) => (v ? (v instanceof Date ? v.toISOString() : String(v)).slice(0, 10) : '');
 
 
 const files = (await readdir(DIR)).filter((f) => f.endsWith('.md'));
@@ -43,6 +49,14 @@ for (const f of files) {
     gallery: (fm.gallery || []).map((g) => g && g.url).filter(Boolean),
     heroCredit: (fm.heroImage && fm.heroImage.credit) || '',
     rating: (fm.place && fm.place.rating) || 0,
+    phone: (fm.place && fm.place.phone) || '',
+    busyness: (fm.place && fm.place.busyness) || null,
+    openingHours: (fm.place && fm.place.openingHours) || null,
+    // Unquoted YAML dates arrive as Date OBJECTS; String() on those gives
+    // "Tue Jul 21 2026 …", whose first 10 chars re-parse as the year 2001 —
+    // which made 84 fresh posts look 25 years stale on this check's first run.
+    pubDate: isoDay(fm.pubDate),
+    updatedDate: isoDay(fm.updatedDate),
     body: t.slice(t.indexOf(String.fromCharCode(10) + "---", 3) + 4),
   });
 }
@@ -157,6 +171,30 @@ for (const p of posts) {
   }
 }
 
+// tel: links dial what the phone field holds, and the site's core reader is on
+// a FOREIGN SIM — a national-format number ("054-853-0109") fails the moment
+// they tap it abroad. 236 posts shipped that way because the Details fetch
+// preferred nationalPhoneNumber. places.mjs is now international-first and
+// repair-phone-international.mjs converted the backlog; this keeps it that way.
+for (const p of posts) {
+  if (p.phone && !String(p.phone).trim().startsWith('+')) {
+    issues.push(`LOCAL-PHONE: ${p.f} — "${p.phone}" has no +country-code, tel: link fails from a foreign SIM`);
+  }
+}
+
+// Stored quiet/busy hours outside the venue's own opening hours: BestTime
+// measures the pavement, not the business, so unclamped data advertised
+// "weekend quiet: 6–7 PM" beside a fact box closing at 6 on 57 live pages.
+// Every write path clamps now (generate, backfill-busyness, the hours
+// backfill); this catches any new path that forgets.
+for (const p of posts) {
+  if (!p.busyness) continue;
+  const res = clampBusynessHours(p.busyness, p.openingHours);
+  if (res?.changed) {
+    issues.push(`BUSYNESS-OUTSIDE-HOURS: ${p.f} — quiet/busy hours fall outside opening hours (run scripts/repair-busyness-hours.mjs --apply)`);
+  }
+}
+
 // A Foursquare photo whose credit names a DIFFERENT business than the article.
 // The vision gate cannot catch this: a real photo of a real café IS a plausible
 // café, so a picture of California Pizza Kitchen passes on a Dallas Pizza post.
@@ -259,6 +297,36 @@ for (const f of (await readdir(ESS_DIR)).filter((f) => f.endsWith('.md'))) {
     if (!existsSync(join(wallDir, name))) { missing++; if (missing <= 5) issues.push(`WALL THUMB missing for ${p.f} — card renders blank (run scripts/build-wall.mjs)`); }
   }
   if (missing > 5) issues.push(`WALL THUMB missing on ${missing} post(s) total — run scripts/build-wall.mjs`);
+}
+
+// Re-check watchdog. The weekly refresh job rotates oldest-checked-first through
+// every place.id post (data/refresh-cursor.json records when). Before the cursor
+// existed the rotation restarted alphabetically every week, so posts m–z were
+// NEVER re-checked and a closed venue could sit live indefinitely. 480 posts at
+// 40/week is an ~84-day cycle; 120 days means the rotation has genuinely stalled
+// (cursor not advancing, workflow dead, or quota starving it) — not merely "your
+// turn hasn't come yet". Posts the cursor hasn't reached fall back to their own
+// updatedDate/pubDate, so a fresh site stays quiet and the alarm arms over time.
+{
+  let cursorChecked = {};
+  try {
+    cursorChecked = JSON.parse(
+      await readFile(fileURLToPath(new URL('../data/refresh-cursor.json', import.meta.url)), 'utf8')
+    )?.checked ?? {};
+  } catch { /* no cursor yet — fall back to post dates below */ }
+  const STALE_RECHECK_DAYS = 120;
+  const cutoff = Date.now() - STALE_RECHECK_DAYS * 864e5;
+  const stale = [];
+  for (const p of posts) {
+    if (!p.placeId) continue;
+    const last = cursorChecked[p.f] || p.updatedDate || p.pubDate;
+    if (last && new Date(last).getTime() < cutoff) stale.push({ f: p.f, last });
+  }
+  for (const s of stale.slice(0, 5)) {
+    issues.push(`STALE-RECHECK: ${s.f} — venue data not re-checked since ${s.last} (>${STALE_RECHECK_DAYS} days; weekly refresh rotation may be stuck)`);
+  }
+  // The count is quoted so the Korean rendering keeps it (facts() reads quotes).
+  if (stale.length > 5) issues.push(`STALE-RECHECK: "${stale.length}건" overdue in total — check data/refresh-cursor.json and the refresh workflow`);
 }
 
 // Unescaped tilde gate — ALL collections. CJK ranges ("4~5월") are GFM

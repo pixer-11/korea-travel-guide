@@ -22,7 +22,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 25.7665203
   lng: -80.19511589999999
-  phone: "(305) 602-4816"
+  phone: '+1 305 602-4816'
   openingHours:
     - "Monday: 10:00 AM – 2:00 AM"
     - "Tuesday: 10:00 AM – 2:00 AM"

@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 6.4050671
   lng: 99.85834799999999
-  phone: "04-959 2323"
+  phone: '+60 4-959 2323'
   openingHours:
     - "Monday: 8:30 AM – 5:00 PM"
     - "Tuesday: 8:30 AM – 5:00 PM"

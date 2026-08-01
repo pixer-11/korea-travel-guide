@@ -20,7 +20,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 25.2132629
   lng: 55.282391700000005
-  phone: 04 234 1543
+  phone: '+971 4 234 1543'
   openingHours:
     - 'Monday: 12:00 – 11:30 PM'
     - 'Tuesday: 12:00 – 11:30 PM'

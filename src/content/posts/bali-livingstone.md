@@ -28,19 +28,12 @@ place:
   lng: 115.16142219999998
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 7
-      - 8
-      - 22
+    weekdayQuiet: [7, 8]
     weekdayBusy:
       - 12
       - 13
       - 14
-    weekendQuiet:
-      - 7
-      - 8
-      - 21
-      - 22
+    weekendQuiet: [7, 8, 21]
     weekendBusy:
       - 10
       - 11
@@ -49,7 +42,7 @@ place:
       - 14
       - 15
     venueId: ven_672d46755f6b6b48676a74523069304874474243702d764a496843
-  phone: 0817-5780-003
+  phone: '+62 817-5780-003'
   openingHours:
     - 'Monday: 7:00 AM – 10:00 PM'
     - 'Tuesday: 7:00 AM – 10:00 PM'

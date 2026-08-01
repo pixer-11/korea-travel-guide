@@ -21,7 +21,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 41.0106848
   lng: 28.968068100000004
-  phone: "(0212) 519 12 48"
+  phone: '+90 212 519 12 48'
   openingHours:
     - "Monday: 8:30 AM – 7:00 PM"
     - "Tuesday: 8:30 AM – 7:00 PM"

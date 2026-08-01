@@ -22,7 +22,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 34.041989199999996
   lng: -118.23546089999999
-  phone: "(213) 797-4534"
+  phone: '+1 213 797-4534'
   openingHours:
     - "Monday: 7:00 AM – 10:00 PM"
     - "Tuesday: 7:00 AM – 10:00 PM"

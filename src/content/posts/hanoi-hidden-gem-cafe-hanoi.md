@@ -22,19 +22,12 @@ place:
   lng: 105.8551911
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 7
-      - 8
-      - 9
-      - 22
+    weekdayQuiet: [7, 8, 9]
     weekdayBusy:
       - 11
       - 12
       - 13
-    weekendQuiet:
-      - 7
-      - 8
-      - 22
+    weekendQuiet: [7, 8]
     weekendBusy:
       - 11
       - 12
@@ -45,7 +38,7 @@ place:
       - 20
     venueId: ven_77495a52384d552d786d645245544e724b69326553636a4a496843
   priceLevel: 1
-  phone: 0962 011 540
+  phone: '+84 962 011 540'
   openingHours:
     - 'Monday: 7:00 AM – 10:00 PM'
     - 'Tuesday: 7:00 AM – 10:00 PM'

@@ -27,19 +27,13 @@ place:
   lng: 108.2631605
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 7
-      - 8
-      - 17
+    weekdayQuiet: [7, 8]
     weekdayBusy:
       - 11
       - 12
       - 13
       - 14
-    weekendQuiet:
-      - 7
-      - 8
-      - 17
+    weekendQuiet: [7, 8]
     weekendBusy:
       - 11
       - 12
@@ -47,7 +41,7 @@ place:
       - 14
       - 15
     venueId: ven_777262663836634c53657852456a514e5164344c3579324a496843
-  phone: 0236 3961 114
+  phone: '+84 236 3961 114'
   openingHours:
     - 'Monday: 7:00 AM – 5:30 PM'
     - 'Tuesday: 7:00 AM – 5:30 PM'

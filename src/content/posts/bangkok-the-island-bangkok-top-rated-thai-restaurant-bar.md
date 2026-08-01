@@ -51,7 +51,7 @@ place:
       - 22
     venueId: ven_4d762d6a56525937326b4d52416a345a4351426b4359424a496843
   priceLevel: 2
-  phone: 096 404 8625
+  phone: '+66 96 404 8625'
   openingHours:
     - 'Monday: 7:00 AM – 2:00 AM'
     - 'Tuesday: 7:00 AM – 2:00 AM'

@@ -40,13 +40,9 @@ place:
       - 7
       - 8
       - 9
-    weekendBusy:
-      - 19
-      - 20
-      - 21
-      - 22
+    weekendBusy: [19, 20, 21]
     venueId: ven_454662665078663265793752456a51584d72376d7478374a496843
-  phone: '0799 343 943'
+  phone: '+84 799 343 943'
   openingHours:
     - 'Monday: 6:30 AM – 10:30 PM'
     - 'Tuesday: 6:30 AM – 10:30 PM'

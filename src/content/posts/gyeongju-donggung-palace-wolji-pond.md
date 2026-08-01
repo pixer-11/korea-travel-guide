@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 35.8348173
   lng: 129.2265645
-  phone: '054-750-8655'
+  phone: '+82 54-750-8655'
   openingHours:
     - 'Monday: 9:00 AM – 10:00 PM'
     - 'Tuesday: 9:00 AM – 10:00 PM'

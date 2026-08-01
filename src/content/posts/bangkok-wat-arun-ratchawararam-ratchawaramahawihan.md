@@ -27,14 +27,8 @@ place:
   lng: 100.488444
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 8
-      - 9
-      - 18
-    weekendQuiet:
-      - 8
-      - 9
-      - 18
+    weekdayQuiet: [8, 9]
+    weekendQuiet: [8, 9]
     weekendBusy:
       - 11
       - 12
@@ -43,7 +37,7 @@ place:
       - 15
       - 16
     venueId: ven_59595f5a366e565569626e52416a345a6167365f7653614a496843
-  phone: 02 891 2185
+  phone: '+66 2 891 2185'
   openingHours:
     - 'Monday: 8:00 AM – 6:00 PM'
     - 'Tuesday: 8:00 AM – 6:00 PM'

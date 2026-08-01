@@ -21,7 +21,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 35.61985
   lng: 140.1162637
-  phone: 043-251-5103
+  phone: '+81 43-251-5103'
   openingHours:
     - 'Monday: Open 24 hours'
     - 'Tuesday: Open 24 hours'

@@ -25,7 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 42.3521821
   lng: -71.0512911
-  phone: "(617) 338-1773"
+  phone: '+1 617 338-1773'
   openingHours:
     - "Monday: 10:00 AM – 5:00 PM"
     - "Tuesday: 10:00 AM – 5:00 PM"

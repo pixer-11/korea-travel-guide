@@ -22,11 +22,7 @@ place:
   lng: 100.56410439999999
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 11
-      - 21
-    weekendQuiet:
-      - 21
+    weekdayQuiet: [11]
     weekendBusy:
       - 12
       - 13
@@ -34,7 +30,7 @@ place:
       - 15
       - 16
     venueId: ven_455746775564684964776152416a3433743534434253504a496843
-  phone: 061 195 9514
+  phone: '+66 61 195 9514'
   openingHours:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
