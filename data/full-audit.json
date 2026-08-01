@@ -1,108 +1,56 @@
 {
-  "audited": 475,
-  "at": "2026-07-25T19:34:05.048Z",
-  "imgBad": 260,
-  "proseBad": 84,
+  "audited": 538,
+  "at": "2026-08-01T19:54:34.449Z",
+  "imgBad": 12,
+  "proseBad": 99,
   "results": [
     {
-      "slug": "abu-dhabi-third-street",
-      "category": "restaurant",
-      "region": "Abu Dhabi",
-      "image": "Aerial street crosswalk scene, not a restaurant in Abu Dhabi"
-    },
-    {
-      "slug": "abu-dhabi-flavors-grill-abu-dhabi",
-      "category": "restaurant",
-      "region": "Abu Dhabi",
-      "image": "Shows an ambulance van, not a restaurant"
-    },
-    {
-      "slug": "ajman-ajman-secret-beach",
-      "category": "hidden-gem",
-      "region": "Ajman",
-      "image": "Urban cityscape with roads and buildings, not a beach"
-    },
-    {
-      "slug": "ajman-the-seat-cafe",
+      "slug": "abu-dhabi-art-house-cafe",
       "category": "trendy",
-      "region": "Ajman",
-      "image": "Signage suggests laundromat/hotel service, not UAE cafe setting"
-    },
-    {
-      "slug": "al-ain-al-ain-oasis",
-      "category": "attraction",
-      "region": "Al Ain",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Entry to the oasis itself is free"
-        }
-      ]
-    },
-    {
-      "slug": "ajman-yemeni-corner-restaurant",
-      "category": "restaurant",
-      "region": "Ajman",
-      "image": "Shows diving equipment storage room, not a restaurant"
-    },
-    {
-      "slug": "al-ain-al-fanar-restaurant-cafe",
-      "category": "restaurant",
-      "region": "Al Ain",
+      "region": "Abu Dhabi",
       "prose": [
         {
           "type": "symbol-in-prose",
-          "quote": "price level 2 out of 4"
+          "quote": "priced in the mid-range (a $$ price level)"
         }
       ]
     },
     {
-      "slug": "ajman-souryana-restaurant-and-cafe",
-      "category": "restaurant",
-      "region": "Ajman",
-      "image": "Shows scuba diving equipment shop, not a restaurant/cafe"
+      "slug": "abu-dhabi-ufc-fight-night-ankalaev-vs-rountree-jr",
+      "category": "event",
+      "region": "Abu Dhabi",
+      "image": "UFC promotional tent, not the actual fight event"
     },
     {
-      "slug": "andong-local-restaurant",
-      "category": "restaurant",
-      "region": "Andong",
-      "image": "Generic street scene with motel signage, not a restaurant"
-    },
-    {
-      "slug": "andong-talbing-go",
-      "category": "restaurant",
-      "region": "Andong",
-      "image": "Traditional pavilion, not a restaurant exterior/interior"
-    },
-    {
-      "slug": "andong-wolyeongdang",
-      "category": "trendy",
-      "region": "Andong",
-      "image": "Sign reads different name, likely wrong venue"
-    },
-    {
-      "slug": "antalya-duden-waterfalls",
-      "category": "attraction",
-      "region": "Antalya",
+      "slug": "alcaniz-parador-de-alcaniz",
+      "category": "hidden-gem",
+      "region": "Alcañiz",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "serve tea, gözleme, and cold drinks"
+          "quote": "Teruel ham, migas, slow-braised lamb, and regional wines from Cariñena and Somontano"
         }
       ]
     },
     {
-      "slug": "amalfi-coast-positano",
-      "category": "attraction",
-      "region": "Amalfi Coast",
+      "slug": "antalya-hadrian-s-gate",
+      "category": "hidden-gem",
+      "region": "Antalya",
       "prose": [
         {
           "type": "other-glaring",
-          "quote": "delimoncello"
-        },
+          "quote": "use the gate as a everyday shortcut"
+        }
+      ]
+    },
+    {
+      "slug": "ayutthaya-the-summer-house",
+      "category": "trendy",
+      "region": "Ayutthaya",
+      "prose": [
         {
-          "type": "other-glaring",
-          "quote": "a short hydrofoils hop"
+          "type": "invented-specifics",
+          "quote": "expect roughly 300–600 THB per person depending on how much you order"
         }
       ]
     },
@@ -113,81 +61,7 @@
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "after 3:30pm thins the crowds considerably"
-        }
-      ]
-    },
-    {
-      "slug": "bali-bingin-uluwatu-pak-gula",
-      "category": "trendy",
-      "region": "Bali",
-      "image": "Beach sunset with fishing boats, not a cafe venue"
-    },
-    {
-      "slug": "ayutthaya-the-artisans-ayutthaya",
-      "category": "restaurant",
-      "region": "Ayutthaya",
-      "image": "Shows ancient temple ruins, not a restaurant",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "42 1, Tambon Ban Run"
-        }
-      ]
-    },
-    {
-      "slug": "bali-cure-bali",
-      "category": "restaurant",
-      "region": "Bali",
-      "image": "Shows rice terraces, not a restaurant interior/exterior"
-    },
-    {
-      "slug": "ayutthaya-the-summer-house",
-      "category": "trendy",
-      "region": "Ayutthaya",
-      "image": "English garden building with lily pond, not Thailand"
-    },
-    {
-      "slug": "bali-chai-of-the-tiger-indian-street-food",
-      "category": "restaurant",
-      "region": "Bali",
-      "image": "Indonesian bakso food cart, not Indian chai street food"
-    },
-    {
-      "slug": "bali-bukit-peninsula-uluwatu-avli",
-      "category": "restaurant",
-      "region": "Bali",
-      "image": "Likely Rethymno, Greece signage/architecture, not Bali"
-    },
-    {
-      "slug": "bandung-dago-dreampark",
-      "category": "attraction",
-      "region": "Bandung",
-      "image": "Misty rock pinnacles, not a themed dream park attraction"
-    },
-    {
-      "slug": "bandung-lengkong-alit",
-      "category": "hidden-gem",
-      "region": "Bandung",
-      "image": "Shows Alun-Alun Bandung landmark, not Lengkong Alit"
-    },
-    {
-      "slug": "bandung-hummingbird-eatery-space",
-      "category": "restaurant",
-      "region": "Bandung",
-      "image": "Signage shows a different restaurant name, not Hummingbird",
-      "prose": [
-        {
-          "type": "symbol-in-prose",
-          "quote": "price level 2"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "peak lunch rush (12–1:30 pm)"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "mornings (before 11 am) and mid-afternoons (2–4 pm)"
+          "quote": "Street vendors near the entrance sell cold coconut water and iced Thai tea"
         }
       ]
     },
@@ -195,55 +69,80 @@
       "slug": "bali-livingstone",
       "category": "trendy",
       "region": "Bali",
-      "image": "Bronze lion attack sculpture, unrelated to Bali venue"
+      "prose": [
+        {
+          "type": "symbol-in-prose",
+          "quote": "At a price level of 2 (moderate for Bali's café scene)"
+        },
+        {
+          "type": "other-glaring",
+          "quote": "large group without a booking is the most common reason visitors end up waiting"
+        }
+      ]
     },
     {
-      "slug": "bangkok-bo-bkk",
-      "category": "trendy",
-      "region": "Bangkok",
-      "image": "Sticker-covered sign, not a venue photo for Bo.bkk"
+      "slug": "bali-bukit-peninsula-uluwatu-avli",
+      "category": "restaurant",
+      "region": "Bali",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "purpose-built 700 square-meter space designed by DA Bureau"
+        }
+      ]
     },
     {
-      "slug": "bandung-wheels-coffee-roasters-heritage-lifestyle-hub-riau",
-      "category": "trendy",
-      "region": "Bandung",
-      "image": "Volcanic landscape, not a cafe/lifestyle hub interior"
-    },
-    {
-      "slug": "bangkok-chatuchak-weekend-market",
-      "category": "hidden-gem",
-      "region": "Bangkok",
-      "image": "Close-up of decorative lantern/leaves, unrelated to market venue"
-    },
-    {
-      "slug": "bangkok-f-forever-concert-2026-bangkok",
-      "category": "event",
-      "region": "Bangkok",
-      "image": "Street food stall photo, unrelated to a concert event"
+      "slug": "bali-this-is-bali-balinese-food-desserts",
+      "category": "restaurant",
+      "region": "Bali",
+      "prose": [
+        {
+          "type": "symbol-in-prose",
+          "quote": "price level 2"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "go for an early lunch (11:30am)"
+        }
+      ]
     },
     {
       "slug": "bangkok-cheaper-better-street-food",
       "category": "restaurant",
       "region": "Bangkok",
-      "image": "Ceremonial temple altar with fruit offerings, not street food"
+      "prose": [
+        {
+          "type": "broken-markdown",
+          "quote": "**Sala Daeng station**"
+        },
+        {
+          "type": "broken-markdown",
+          "quote": "**Silom station**"
+        },
+        {
+          "type": "broken-markdown",
+          "quote": "**12:00pm and 1:30pm on a weekday**"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "stalls run from midday until 11pm"
+        }
+      ]
     },
     {
       "slug": "bangkok-david-byrne-live-in-bangkok",
       "category": "event",
       "region": "Bangkok",
-      "image": "Shows unrelated street artist, not David Byrne or concert"
-    },
-    {
-      "slug": "bangkok-hidden-bangkok-tours",
-      "category": "hidden-gem",
-      "region": "Bangkok",
-      "image": "Generic rail yard/building, not a hidden-gem tourist spot"
-    },
-    {
-      "slug": "bangkok-chinatown-night-market",
-      "category": "restaurant",
-      "region": "Bangkok",
-      "image": "Shows Seattle-style clock tower and Western architecture, not Bangkok"
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "Given Monday's typically lighter weekend crowds"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "famous for street food stalls selling boat noodles, oyster omelets, and mango sticky rice"
+        }
+      ]
     },
     {
       "slug": "bangkok-kodaline-farewell-tour",
@@ -252,319 +151,259 @@
       "prose": [
         {
           "type": "other-glaring",
-          "quote": "get off at Phrom Quong Station"
+          "quote": "EmSporium, EmQuartier, EmSphere"
         }
       ]
     },
     {
-      "slug": "bangkok-khao-san-sek",
-      "category": "restaurant",
+      "slug": "bangkok-the-grand-palace",
+      "category": "attraction",
       "region": "Bangkok",
-      "image": "Shows Buddhist temples, not a restaurant"
+      "image": "Incidental rooftop silhouette fragment, not representative Grand Palace view"
     },
     {
-      "slug": "bangkok-post-malone-the-big-ass-stadium-world-tour",
-      "category": "event",
-      "region": "Bangkok",
-      "image": "Small-town street scene, unrelated to concert or Bangkok",
+      "slug": "bengaluru-aquarium-paradise",
+      "category": "hidden-gem",
+      "region": "Bengaluru",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "around September 22, 2026"
+          "quote": "open every day of the week, 10:30am to 8pm, with no midday closure"
         }
       ]
     },
     {
-      "slug": "bangkok-somsak",
-      "category": "trendy",
-      "region": "Bangkok",
-      "image": "Close-up portrait, no venue context or location evidence shown"
+      "slug": "bhubaneswar-regional-museum-of-natural-history",
+      "category": "hidden-gem",
+      "region": "Bhubaneswar",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "The museum runs 10am to 6pm every day of the week except Monday, when it's closed entirely"
+        }
+      ]
     },
     {
-      "slug": "bangkok-the-island-bangkok-top-rated-thai-restaurant-bar",
-      "category": "restaurant",
-      "region": "Bangkok",
-      "image": "Shows a bridge/skyline, not a restaurant venue"
+      "slug": "bhubaneswar-udayagiri-and-khandagiri-caves",
+      "category": "attraction",
+      "region": "Bhubaneswar",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "The site opens at 6:30am and stays open until 7:30pm every day"
+        }
+      ]
     },
     {
-      "slug": "bangkok-treehouse-cafe-bar",
-      "category": "trendy",
-      "region": "Bangkok",
-      "image": "Generic Bangkok sign, not the specific Treehouse Cafe & Bar",
+      "slug": "bilbao-itsasmuseum-bilbao",
+      "category": "hidden-gem",
+      "region": "Bilbao",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "open Tuesday through Sunday, 11am to 7pm"
+        }
+      ]
+    },
+    {
+      "slug": "bordeaux-bordeaux-wine-trails-wine-tours",
+      "category": "hidden-gem",
+      "region": "Bordeaux",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "21 Rue du Chai des Farines"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "wines running 13–14.5% alcohol"
+        }
+      ]
+    },
+    {
+      "slug": "bologna-basilica-of-san-domenico",
+      "category": "hidden-gem",
+      "region": "Bologna",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "the church stays quiet from 7:30am to 1pm and again from 3:30pm to 8pm, its full opening hours"
+        }
+      ]
+    },
+    {
+      "slug": "boston-boston-common",
+      "category": "hidden-gem",
+      "region": "Boston",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "Park Street MRA station"
+        }
+      ]
+    },
+    {
+      "slug": "busan-gamcheon-culture-village",
+      "category": "hidden-gem",
+      "region": "Busan",
       "prose": [
         {
           "type": "broken-markdown",
-          "quote": "**Phrom Phong BTS station**"
+          "quote": "**Gamcheon Culture Village Art Space**"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "opening through around 10:30am"
         }
       ]
     },
     {
-      "slug": "barcelona-basilica-of-the-sagrada-familia",
+      "slug": "cappadocia-pigeon-valley",
       "category": "attraction",
-      "region": "Barcelona",
-      "image": "Shows a decorative candelabra, not Sagrada Familia basilica"
-    },
-    {
-      "slug": "barcelona-gloria-osteria",
-      "category": "trendy",
-      "region": "Barcelona",
-      "image": "Coastal cliff landscape, not a restaurant/osteria venue"
-    },
-    {
-      "slug": "beijing-mutianyu-great-wall-scenic-area-ticket-office",
-      "category": "attraction",
-      "region": "Beijing",
-      "image": "Shows Great Wall scenery, not the ticket office building"
-    },
-    {
-      "slug": "busan-cheongsapo",
-      "category": "trendy",
-      "region": "Busan",
-      "proseError": "Expected ',' or ']' after array element in JSON at position "
-    },
-    {
-      "slug": "busan-jeonpo-cafe-street",
-      "category": "trendy",
-      "region": "Busan",
-      "image": "Traditional temple/palace gate, not a trendy cafe street"
-    },
-    {
-      "slug": "busan-namaste-haeundae",
-      "category": "restaurant",
-      "region": "Busan",
-      "image": "Signage shows Korean text, not Namaste Haeundae restaurant"
-    },
-    {
-      "slug": "cappadocia-babayan-evi",
-      "category": "restaurant",
       "region": "Cappadocia",
-      "image": "Shows rock formations/cave dwellings, not a restaurant venue"
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "around 7:30–8:30am"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "Göreme No:24, Aşağı, Uçhisar/Nevşehir"
+        }
+      ]
     },
     {
       "slug": "chiang-mai-best-khao-soi-chang-mai",
       "category": "restaurant",
       "region": "Chiang Mai",
-      "image": "Shows grilled sausages street stall, not Khao Soi noodle dish"
-    },
-    {
-      "slug": "chiang-mai-hidden-village-chiang-mai",
-      "category": "hidden-gem",
-      "region": "Chiang Mai",
-      "image": "Shows famous twin pagodas (Doi Inthanon), not a hidden village"
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "open 4–10pm Monday through Friday, 3–10pm on Saturday, and closed all day Sunday"
+        }
+      ]
     },
     {
       "slug": "chiang-mai-garden-to-table-chiangmai",
       "category": "restaurant",
       "region": "Chiang Mai",
+      "image": "Incidental interior fragment showing wall poster, not representative venue",
       "proseError": "Expected ',' or ']' after array element in JSON at position "
     },
     {
       "slug": "chiang-mai-the-baristro-asian-style",
       "category": "trendy",
       "region": "Chiang Mai",
-      "image": "Shows a Thai Buddhist temple, not a restaurant/bistro",
       "prose": [
-        {
-          "type": "symbol-in-prose",
-          "quote": "roughly category 3 out of 4"
-        }
-      ]
-    },
-    {
-      "slug": "chiang-rai-chivit-thamma-da-coffee-house-bistro-bar",
-      "category": "restaurant",
-      "region": "Chiang Rai",
-      "image": "Buddhist temple complex, not a coffee house/bistro",
-      "prose": [
-        {
-          "type": "symbol-in-prose",
-          "quote": "price level 2 out of 4"
-        },
         {
           "type": "invented-specifics",
-          "quote": "eggs Benedict, homemade granola, and freshly baked bread"
+          "quote": "peak lunch hours (12–1:30pm)"
         }
       ]
     },
     {
-      "slug": "chiang-mai-wat-phra-that-doi-suthep",
+      "slug": "chiba-chiba-park",
       "category": "attraction",
-      "region": "Chiang Mai",
-      "proseError": "Expected ',' or ']' after array element in JSON at position "
+      "region": "Chiba",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "gymnasion-style athletic area"
+        }
+      ]
     },
     {
-      "slug": "chiang-rai-rong-suea-ten-temple",
+      "slug": "chicago-360-chicago",
+      "category": "hidden-gem",
+      "region": "Chicago",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Opening hours run 9am to 11pm every day of the week"
+        }
+      ]
+    },
+    {
+      "slug": "chicago-navy-pier",
       "category": "attraction",
-      "region": "Chiang Rai",
+      "region": "Chicago",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "Entry to the Blue Temple is free"
+          "quote": "Navy Pier is open daily, 11am to 8pm Monday through Thursday, 11am to 10pm Friday and Saturday, and 11am to 9pm on Sunday"
         }
       ]
-    },
-    {
-      "slug": "chiang-rai-khao-soi-restaurant",
-      "category": "restaurant",
-      "region": "Chiang Rai",
-      "image": "This is a noodle soup with blood cubes, not khao soi",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Aim for an early lunch, around 11:00–12:00"
-        }
-      ]
-    },
-    {
-      "slug": "chinatown-chinatown-complex",
-      "category": "restaurant",
-      "region": "Chinatown",
-      "image": "Street mural scene, not the actual Chinatown Complex restaurant venue"
     },
     {
       "slug": "chinatown-my-awesome-cafe",
       "category": "trendy",
       "region": "Chinatown",
-      "image": "Chinese New Year display, not a cafe",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "Telok Ayer (Downlow Line)"
-        }
-      ]
+      "image": "Isolated drink close-up, not representative venue interior/exterior shot"
     },
     {
-      "slug": "chinatown-the-xiang-restaurant",
-      "category": "restaurant",
-      "region": "Chinatown",
-      "image": "Shows McDonald's and Temple St, not Xiang Restaurant"
-    },
-    {
-      "slug": "chuncheon-dakgalbi-street",
-      "category": "restaurant",
-      "region": "Chuncheon",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "Soyang Dam and Gonjiam area"
-        }
-      ]
-    },
-    {
-      "slug": "da-nang-an-thoi",
-      "category": "restaurant",
-      "region": "Da Nang",
-      "image": "No identifying signage or location context; generic kitchen scene",
-      "prose": [
-        {
-          "type": "symbol-in-prose",
-          "quote": "roughly $$ on the standard scale"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "Aim to arrive by 5:30–6:30pm"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "typically around 9pm"
-        }
-      ]
-    },
-    {
-      "slug": "da-nang-xliii-specialty-coffee",
-      "category": "trendy",
-      "region": "Da Nang",
-      "image": "Golden Bridge landmark photo, unrelated to a coffee shop"
-    },
-    {
-      "slug": "da-nang-bep-cuon-a-nang-michelin-selected-2025-2026",
-      "category": "restaurant",
-      "region": "Da Nang",
-      "image": "Shows Hoi An taproom, not Bếp Cuốn Đà Nẵng restaurant",
+      "slug": "clarke-quay-cq-clarke-quay",
+      "category": "attraction",
+      "region": "Clarke Quay",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "peak dinner hours between 6:30 and 8:30 pm"
+          "quote": "many restaurants start service around 5:30–6pm"
         }
       ]
-    },
-    {
-      "slug": "daegu-local-restaurant",
-      "category": "restaurant",
-      "region": "Daegu",
-      "image": "Aerial cityscape view, not a restaurant interior/exterior",
-      "proseError": "Expected ',' or ']' after array element in JSON at position "
     },
     {
       "slug": "daegu-nazar-kebab",
       "category": "restaurant",
       "region": "Daegu",
-      "image": "English signage, UK-style building, not Daegu Korea"
-    },
-    {
-      "slug": "damyang-bamboo-forest",
-      "category": "attraction",
-      "region": "Damyang",
       "prose": [
         {
-          "type": "broken-markdown",
-          "quote": "**daetongbap**"
+          "type": "symbol-in-prose",
+          "quote": "Price level sits at a moderate \"2,\""
         }
       ]
     },
     {
-      "slug": "daegu-trendy-cafe",
-      "category": "trendy",
-      "region": "Daegu",
-      "image": "Aerial cityscape with tower, not a cafe interior/exterior"
+      "slug": "davao-philippine-eagle-center",
+      "category": "hidden-gem",
+      "region": "Davao",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "open daily from 8:00 AM to 4:30 PM, with no closing day"
+        }
+      ]
     },
     {
-      "slug": "daegu-top-attraction",
+      "slug": "davao-people-s-park",
       "category": "attraction",
-      "region": "Daegu",
-      "image": "This is Gyeongbokgung Palace in Seoul, not Daegu"
+      "region": "Davao",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Right after opening at 1pm on weekdays is noticeably quieter"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "go right when it opens at 1pm on a weekday"
+        }
+      ]
     },
     {
-      "slug": "dubai-def-leppard-live",
+      "slug": "dubai-dubai-summer-surprises-dss-2026",
       "category": "event",
       "region": "Dubai",
-      "image": "Performer doesn't appear to be a Def Leppard band member"
-    },
-    {
-      "slug": "dubai-hikiniku-to-come",
-      "category": "restaurant",
-      "region": "Dubai",
-      "image": "Dubai skyline, not the specific restaurant interior/exterior"
-    },
-    {
-      "slug": "dubai-barrafina",
-      "category": "restaurant",
-      "region": "Dubai",
-      "image": "European street scene, not Dubai architecture/setting"
-    },
-    {
-      "slug": "dubai-shinobi",
-      "category": "trendy",
-      "region": "Dubai",
-      "image": "Oval Office-style setting, not Dubai venue"
-    },
-    {
-      "slug": "dubai-joe-s-cafe-dubai",
-      "category": "trendy",
-      "region": "Dubai",
-      "image": "Skyline panorama, not a café interior/exterior"
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Organized by the Dubai Festivals and Retail Establishment (DFRE)"
+        }
+      ]
     },
     {
       "slug": "dubai-nobu-one-za-abeel",
       "category": "restaurant",
       "region": "Dubai",
-      "image": "Generic bread basket scene, no evidence of specific Nobu restaurant"
-    },
-    {
-      "slug": "dubai-street-food-traffic-restaurant-llc",
-      "category": "restaurant",
-      "region": "Dubai",
-      "image": "Shows a pork shop, not the named restaurant"
+      "proseError": "Expected ',' or ']' after array element in JSON at position "
     },
     {
       "slug": "florence-cathedral-of-santa-maria-del-fiore",
@@ -573,75 +412,110 @@
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "right at the 8:15am opening for the cathedral"
+          "quote": "closing at 3:45pm"
         }
       ]
     },
     {
-      "slug": "fujairah-al-meshwar-restaurant",
+      "slug": "fujairah-steki",
       "category": "restaurant",
       "region": "Fujairah",
-      "image": "Image shows a drainage pipe, not a restaurant"
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Gulf dining culture skews toward late evening meals starting after 8pm"
+        }
+      ]
     },
     {
-      "slug": "fujairah-backyard",
-      "category": "trendy",
-      "region": "Fujairah",
-      "image": "Heavy snow scene, inconsistent with Fujairah UAE climate"
-    },
-    {
-      "slug": "fukuoka-gyukatsu-motomura-fukuoka-parco-branch",
-      "category": "restaurant",
-      "region": "Fukuoka",
-      "image": "Generic izakaya bar scene, not verified as this specific restaurant"
-    },
-    {
-      "slug": "gangneung-arte-museum-valley-gangneung",
+      "slug": "fukuoka-fuglen-coffee-keyakidori",
       "category": "hidden-gem",
-      "region": "Gangneung",
-      "image": "Traditional Korean garden/gate scene, not an art museum venue"
+      "region": "Fukuoka",
+      "proseError": "Expected ',' or ']' after array element in JSON at position "
     },
     {
       "slug": "fukuoka-manly",
       "category": "trendy",
       "region": "Fukuoka",
-      "image": "Shows Manly Beach, Australia, not Fukuoka, Japan"
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "right at opening (11am) through noon"
+        }
+      ]
     },
     {
-      "slug": "gangneung-coffee-street",
-      "category": "trendy",
-      "region": "Gangneung",
-      "image": "Shows a shop alley, not a coffee/cafe street"
+      "slug": "goyang-bigbang-2026-2027-world-tour-xx-cosmos-goyang-opening-shows",
+      "category": "event",
+      "region": "Goyang",
+      "image": "Different performer (Coldplay-style visuals), not BIGBANG"
+    },
+    {
+      "slug": "goa-fort-aguada",
+      "category": "attraction",
+      "region": "Goa",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "a a stop of an hour or so"
+        }
+      ]
     },
     {
       "slug": "gangneung-local-restaurant",
       "category": "restaurant",
       "region": "Gangneung",
-      "image": "Coastal pavilion scene, not a restaurant venue"
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "11am–1pm"
+        }
+      ]
     },
     {
-      "slug": "gangneung-jumunjin-lighthouse",
-      "category": "trendy",
-      "region": "Gangneung",
-      "image": "Riverside cityscape with tents, not a lighthouse"
-    },
-    {
-      "slug": "gapyeong-nami-island-k-drama",
+      "slug": "goyang-ilsan-lake-park",
       "category": "attraction",
-      "region": "Gapyeong",
-      "image": "Shows Bukchon Hanok Village in Seoul, not Nami Island"
-    },
-    {
-      "slug": "goyang-bigbang-20th-anniversary-world-tour-opener",
-      "category": "event",
       "region": "Goyang",
-      "image": "Generic band photo, not BIGBANG, no venue evidence"
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Come right at opening, 10am, on a weekday"
+        }
+      ]
     },
     {
-      "slug": "gyeongju-sugyeongsa-gyeongju-restaurant-gyeongju-vegan-hwangridan-gil-vegetarian",
-      "category": "restaurant",
+      "slug": "guangzhou-huacheng-square",
+      "category": "attraction",
+      "region": "Guangzhou",
+      "image": "Photo of a stone sign, not the square itself"
+    },
+    {
+      "slug": "guilin-reed-flute-cave",
+      "category": "attraction",
+      "region": "Guilin",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "rush you through in twenty minutes flat"
+        }
+      ]
+    },
+    {
+      "slug": "granada-mirador-de-san-nicolas",
+      "category": "hidden-gem",
+      "region": "Granada",
+      "proseError": "Expected ',' or ']' after array element in JSON at position "
+    },
+    {
+      "slug": "gyeongju-woljeonggyo-bridge",
+      "category": "attraction",
       "region": "Gyeongju",
-      "image": "Shows Starbucks in hanok building, not Sugyeongsa restaurant"
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "There's no admission fee to walk across the bridge"
+        }
+      ]
     },
     {
       "slug": "gyeongju-hwangnidan-gil",
@@ -649,557 +523,130 @@
       "region": "Gyeongju",
       "prose": [
         {
-          "type": "invented-specifics",
-          "quote": "bakeries known for hallabong (citrus) or injeolmi (rice cake) flavored pastries and lattes"
-        }
-      ]
-    },
-    {
-      "slug": "ha-long-bay-sun-world-halong-park",
-      "category": "attraction",
-      "region": "Ha Long Bay",
-      "image": "Image shows koi fish pond, unrelated to theme park"
-    },
-    {
-      "slug": "ha-long-bay-chill-beach-bar-ha-long",
-      "category": "restaurant",
-      "region": "Ha Long Bay",
-      "image": "Street food table setting, not a beach bar"
-    },
-    {
-      "slug": "ha-long-bay-la-luna-coffee-ha-long",
-      "category": "trendy",
-      "region": "Ha Long Bay",
-      "image": "Shows cruise ships in bay, not a coffee shop",
-      "prose": [
-        {
           "type": "other-glaring",
-          "quote": "stack La Long Coffee Hạ Long into a half-day loop"
+          "quote": "renting a hanbok for a few hours (typically a half-day block)"
         }
       ]
-    },
-    {
-      "slug": "ha-long-bay-sung-sot-cave",
-      "category": "hidden-gem",
-      "region": "Ha Long Bay",
-      "image": "Not a hidden gem; shows crowded tourist cave, contradicts description"
-    },
-    {
-      "slug": "ha-long-bay-vua-hai-san-bai-chay",
-      "category": "restaurant",
-      "region": "Ha Long Bay",
-      "image": "Shows karst islands, not a seafood restaurant venue"
-    },
-    {
-      "slug": "hangzhou-xi-lake",
-      "category": "attraction",
-      "region": "Hangzhou",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "can visit the Zhejiang Provincial Museum for free"
-        }
-      ]
-    },
-    {
-      "slug": "hanoi-banh-mi-25",
-      "category": "restaurant",
-      "region": "Hanoi",
-      "image": "No Vietnamese context visible; could be any location",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "weekend night market (Friday–Sunday evenings)"
-        }
-      ]
-    },
-    {
-      "slug": "hanoi-hidden-gem-cafe-hanoi",
-      "category": "hidden-gem",
-      "region": "Hanoi",
-      "image": "Shows a pagoda tower, not a cafe"
-    },
-    {
-      "slug": "hanoi-ho-chi-minh-city-miss-world-2026",
-      "category": "event",
-      "region": "Hanoi",
-      "image": "Graduation photo, unrelated to Miss World pageant event",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "The high-speed **Reunification Express train** is a scenic but much slower alternative (30+ hours)"
-        }
-      ]
-    },
-    {
-      "slug": "hanoi-run-fun-the-eating-room",
-      "category": "trendy",
-      "region": "Hanoi",
-      "image": "Shows Hanoi train street, not a specific restaurant venue"
-    },
-    {
-      "slug": "hanoi-onvit",
-      "category": "restaurant",
-      "region": "Hanoi",
-      "image": "Sign shows different restaurant name and Ho Chi Minh City address, not Hanoi",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "rush hour (7:30–9:00 AM and 5:00–7:00 PM)"
-        }
-      ]
-    },
-    {
-      "slug": "hiroshima-gyumon-hiroshima",
-      "category": "restaurant",
-      "region": "Hiroshima",
-      "image": "Sign shows WATAYA restaurant, not GYUMON"
-    },
-    {
-      "slug": "hiroshima-hiroshima-breakfast",
-      "category": "trendy",
-      "region": "Hiroshima",
-      "image": "Generic Western hotel breakfast, no evidence of Hiroshima location",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "the likelihood of a short wait if you arrive after 9am"
-        }
-      ]
-    },
-    {
-      "slug": "hiroshima-nagataya",
-      "category": "restaurant",
-      "region": "Hiroshima",
-      "image": "Shows Buddhist altar shop signage, not a restaurant",
-      "prose": [
-        {
-          "type": "symbol-in-prose",
-          "quote": "in the ¥¥ range"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "Lunchtime (roughly 11:30am–1:30pm)"
-        }
-      ]
-    },
-    {
-      "slug": "ho-chi-minh-city-tales-by-chapter",
-      "category": "restaurant",
-      "region": "Ho Chi Minh City",
-      "image": "Convenience store street scene, not a restaurant named Tales by Chapter"
-    },
-    {
-      "slug": "ho-chi-minh-city-upstairs",
-      "category": "restaurant",
-      "region": "Ho Chi Minh City",
-      "image": "Dutch stepped-gable architecture, not Ho Chi Minh City"
-    },
-    {
-      "slug": "ho-chi-minh-city-hai-s-restaurant",
-      "category": "restaurant",
-      "region": "Ho Chi Minh City",
-      "image": "Nearly empty, messy plate not a hero shot"
-    },
-    {
-      "slug": "hoi-an-bun-cha-ta-hoi-an",
-      "category": "restaurant",
-      "region": "Hoi An",
-      "image": "Grilled seafood/BBQ street stall, not bun cha dish"
     },
     {
       "slug": "hoi-an-me-hoi-an-rooftop-coffee-kitchen",
       "category": "trendy",
       "region": "Hoi An",
-      "image": "Street-level bun noodle shop, not rooftop coffee venue"
-    },
-    {
-      "slug": "hoi-an-hoi-an-night-market",
-      "category": "hidden-gem",
-      "region": "Hoi An",
-      "image": "Shows a carnival ferris wheel/inflatable park, not a night market"
-    },
-    {
-      "slug": "hong-kong-blue-box-cafe-tiffany-co",
-      "category": "trendy",
-      "region": "Hong Kong",
-      "image": "Skyline aerial view, not the café interior/venue"
-    },
-    {
-      "slug": "hong-kong-hong-kong-football-festival-2026",
-      "category": "event",
-      "region": "Hong Kong",
-      "image": "Street cityscape with taxis, unrelated to football festival"
-    },
-    {
-      "slug": "hyderabad-kadamba",
-      "category": "trendy",
-      "region": "Hyderabad",
-      "image": "Generic city street/skyscraper view, not a specific venue"
-    },
-    {
-      "slug": "hue-phinholic",
-      "category": "trendy",
-      "region": "Hue",
-      "image": "Shows historic Hue architecture/bicycle, not a coffee shop",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "expect most drinks in the 25,000–55,000 VND range"
+          "quote": "Right at opening, 8am, is a quieter, cooler alternative"
         }
       ]
     },
     {
-      "slug": "ibiza-streetxo-ibiza",
-      "category": "trendy",
-      "region": "Ibiza",
-      "image": "Seascape with rock formations, not a restaurant interior"
-    },
-    {
-      "slug": "hue-vietnamese-food-hue-local-food-fastfood-22-restaurant-hue",
-      "category": "restaurant",
-      "region": "Hue",
-      "image": "Ice cream dessert unrelated to Vietnamese local/fast food cuisine"
-    },
-    {
-      "slug": "incheon-forest-outings",
-      "category": "trendy",
-      "region": "Incheon",
-      "image": "Urban park with skyscrapers, not a forest setting",
+      "slug": "hoi-an-japanese-bridge",
+      "category": "attraction",
+      "region": "Hoi An",
       "prose": [
         {
-          "type": "symbol-in-prose",
-          "quote": "₩₩₩ on standard scales"
+          "type": "invented-specifics",
+          "quote": "right after the bridge opens at 9am"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "it stays open until 10pm"
         }
       ]
     },
     {
-      "slug": "incheon-haesong-ssambap",
+      "slug": "hue-maison-trang",
       "category": "restaurant",
-      "region": "Incheon",
-      "image": "Generic street scene, no evidence of specific restaurant"
+      "region": "Hue",
+      "proseError": "Expected ',' or ']' after array element in JSON at position "
     },
     {
-      "slug": "incheon-local-restaurant",
-      "category": "restaurant",
-      "region": "Incheon",
-      "image": "Street scene with motel/real estate signs, not a restaurant"
+      "slug": "hyderabad-golconda-fort",
+      "category": "hidden-gem",
+      "region": "Hyderabad",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "The fort opens at 9am and closes at 5pm every day of the week"
+        }
+      ]
     },
     {
-      "slug": "incheon-wolmi-theme-park",
-      "category": "attraction",
-      "region": "Incheon",
-      "image": "Ocean sunset scene, no theme park elements visible"
-    },
-    {
-      "slug": "istanbul-kinu",
-      "category": "trendy",
+      "slug": "istanbul-grand-bazaar",
+      "category": "hidden-gem",
       "region": "Istanbul",
-      "image": "Steel truss bridge, not an Istanbul venue"
-    },
-    {
-      "slug": "istanbul-eurovolley-women-2026-final-round",
-      "category": "event",
-      "region": "Istanbul",
-      "image": "Crowd waving Turkish flags at rally, not volleyball event"
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "runs 8:30am to 7pm Monday through Saturday"
+        }
+      ]
     },
     {
       "slug": "istanbul-topkapi-palace-museum",
       "category": "attraction",
       "region": "Istanbul",
-      "image": "Generic mosque dome, not identifiable as Topkapi Palace"
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "The palace is closed on Tuesdays."
+        }
+      ]
     },
     {
-      "slug": "istanbul-turk-fatih-tutak",
-      "category": "restaurant",
-      "region": "Istanbul",
-      "image": "Generic Istanbul skyline, not the specific restaurant"
-    },
-    {
-      "slug": "jakarta-gajah-mada-food-street",
-      "category": "restaurant",
-      "region": "Jakarta",
-      "image": "Street scene with vendor and traffic, not a restaurant"
-    },
-    {
-      "slug": "jakarta-lee-hi-808-hi-recordings-world-tour-2026",
-      "category": "event",
-      "region": "Jakarta",
-      "image": "Casual group photo on steps, unrelated to concert event"
-    },
-    {
-      "slug": "jakarta-giyanti-coffee-roastery",
-      "category": "trendy",
-      "region": "Jakarta",
-      "image": "No visible coffee roastery signage; generic garden/skyline view"
-    },
-    {
-      "slug": "jakarta-metropolitan-fine-dining",
-      "category": "trendy",
-      "region": "Jakarta",
-      "image": "Cityscape traffic scene, not a fine dining venue"
-    },
-    {
-      "slug": "jeju-black-pork",
-      "category": "restaurant",
-      "region": "Jeju",
-      "image": "Aerial coastal town view, not a restaurant depicting food"
-    },
-    {
-      "slug": "jeju-aewol-cafes",
-      "category": "trendy",
-      "region": "Jeju",
-      "image": "Wide town/coastal overview, not a cafe scene"
-    },
-    {
-      "slug": "jeju-jongdal-port-udo-ferry",
-      "category": "attraction",
-      "region": "Jeju",
-      "image": "Shows rocky tidal shoreline, not a ferry port"
-    },
-    {
-      "slug": "jeju-jeju-olle-course-1-1-udo-olle-trail",
-      "category": "attraction",
-      "region": "Jeju",
-      "image": "This is a route map, not a photo of the trail"
-    },
-    {
-      "slug": "jeju-gozip-dol-wooluck-jeju-airport-branch",
-      "category": "restaurant",
-      "region": "Jeju",
-      "image": "Shows haenyeo divers at sea, not a restaurant"
-    },
-    {
-      "slug": "jeju-nature",
-      "category": "attraction",
-      "region": "Jeju",
-      "image": "Shows a traditional building complex, not natural scenery"
-    },
-    {
-      "slug": "jeju-yongyeon-suspension-bridge",
+      "slug": "izmir-agora-of-smyrna",
       "category": "hidden-gem",
-      "region": "Jeju",
-      "image": "Shows Songak Mt. stone monument with dol hareubang, not the bridge"
-    },
-    {
-      "slug": "jinju-lantern-festival",
-      "category": "event",
-      "region": "Jinju",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "around 6:30–9:30 PM"
-        }
-      ]
-    },
-    {
-      "slug": "jeonju-local-restaurant",
-      "category": "restaurant",
-      "region": "Jeonju",
-      "image": "Cityscape aerial view, not a restaurant image"
-    },
-    {
-      "slug": "kampong-glam-ayasofya-turkish-restaurant",
-      "category": "restaurant",
-      "region": "Kampong Glam",
-      "image": "Street of shophouses, no restaurant identified as Ayasofya"
-    },
-    {
-      "slug": "kampong-glam-kampong-glam-cafe",
-      "category": "trendy",
-      "region": "Kampong Glam",
-      "image": "Shows a mosque, not a cafe",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "mid-afternoon or after 8pm"
-        }
-      ]
-    },
-    {
-      "slug": "kanazawa-curio-espresso-and-vintage-design-cafe",
-      "category": "trendy",
-      "region": "Kanazawa",
-      "image": "Chinese restaurant signage at night, not a vintage café",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Arriving right at opening or after 2pm gives you a better shot at a seat"
-        }
-      ]
-    },
-    {
-      "slug": "koh-samui-izzy-s-specialty-coffee",
-      "category": "trendy",
-      "region": "Koh Samui",
-      "image": "Aerial beach/ocean scene, not a coffee shop",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "opening until around 10-11am"
-        }
-      ]
-    },
-    {
-      "slug": "koh-samui-salt-oak",
-      "category": "restaurant",
-      "region": "Koh Samui",
-      "image": "Salt marsh landscape, not tropical Thailand restaurant setting"
-    },
-    {
-      "slug": "krabi-kodam-kitchen-branch-1",
-      "category": "restaurant",
-      "region": "Krabi",
-      "proseError": "Expected ',' or ']' after array element in JSON at position "
-    },
-    {
-      "slug": "krabi-lan-lek-lek",
-      "category": "restaurant",
-      "region": "Krabi",
-      "image": "Different named food stall (Islam), not Lan Lek Lek"
-    },
-    {
-      "slug": "kuala-lumpur-f-forever-1st-world-tour",
-      "category": "event",
-      "region": "Kuala Lumpur",
-      "image": "Street musicians in market, unrelated to specific world tour concert"
-    },
-    {
-      "slug": "kuala-lumpur-kapitan-s-club",
-      "category": "restaurant",
-      "region": "Kuala Lumpur",
-      "image": "Ice hockey rink with Cyrillic text, not a KL restaurant"
-    },
-    {
-      "slug": "kuala-lumpur-muljil",
-      "category": "restaurant",
-      "region": "Kuala Lumpur",
-      "image": "City skyline, not a restaurant image"
-    },
-    {
-      "slug": "kuala-lumpur-honne-10-year-anniversary-tour",
-      "category": "event",
-      "region": "Kuala Lumpur",
-      "image": "Street busker, not HONNE performing at their concert"
-    },
-    {
-      "slug": "kuala-lumpur-sabato-s",
-      "category": "trendy",
-      "region": "Kuala Lumpur",
-      "image": "Spanish sign for Ernesto Sabato's house, not Kuala Lumpur",
+      "region": "Izmir",
       "prose": [
         {
           "type": "other-glaring",
-          "quote": "the TRX Exchange TRX mall complex"
+          "quote": "this is a well-known stop on Izmir itineraries rather than a hidden find"
         }
       ]
     },
     {
-      "slug": "kyoto-imaya-kyoto-coffee",
+      "slug": "jaipur-jal-mahal",
+      "category": "hidden-gem",
+      "region": "Jaipur",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "accessible for viewing daily from 6am to 6pm"
+        }
+      ]
+    },
+    {
+      "slug": "jakarta-social-house-grand-indonesia",
+      "category": "restaurant",
+      "region": "Jakarta",
+      "image": "Collage of menu and isolated food shots, not venue"
+    },
+    {
+      "slug": "kaohsiung-kaohsiung-central-park",
+      "category": "attraction",
+      "region": "Kaohsiung",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "especially after 6pm when the fountain lights come on and the heat breaks"
+        }
+      ]
+    },
+    {
+      "slug": "kaohsiung-dome-of-light",
+      "category": "hidden-gem",
+      "region": "Kaohsiung",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "runs 6am to midnight every day"
+        }
+      ]
+    },
+    {
+      "slug": "krabi-into-the-forest",
       "category": "trendy",
-      "region": "Kyoto",
-      "image": "Traditional izakaya storefront, not a trendy coffee venue"
-    },
-    {
-      "slug": "kyoto-gyukatsu-kyoto-katsugyu-kyoto-ekimae",
-      "category": "restaurant",
-      "region": "Kyoto",
-      "image": "Western-style building with English signage, not Kyoto restaurant",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "roughly 12:00–13:30 for lunch and 18:30–20:00 for dinner"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "Standard cuts run in the 100–150g range"
-        }
-      ]
-    },
-    {
-      "slug": "kyoto-fushimi-inari-taisha",
-      "category": "attraction",
-      "region": "Kyoto",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "open 24 hours"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "Entry is free"
-        }
-      ]
-    },
-    {
-      "slug": "kyoto-kinkaku-ji",
-      "category": "attraction",
-      "region": "Kyoto",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "selling matcha soft-serve and snacks"
-        }
-      ]
-    },
-    {
-      "slug": "labuan-bajo-pondok-pohon-tanjung-bunga",
-      "category": "attraction",
-      "region": "Labuan Bajo",
-      "image": "This shows Padar Island viewpoint, not the named attraction"
-    },
-    {
-      "slug": "kyoto-yoichiba",
-      "category": "restaurant",
-      "region": "Kyoto",
-      "image": "Shows EDION Food Hall building, not Yoichiba restaurant"
-    },
-    {
-      "slug": "labuan-bajo-mimamori-cafe-labuan-bajo",
-      "category": "trendy",
-      "region": "Labuan Bajo",
-      "image": "Aerial landscape of bay, not a cafe venue"
-    },
-    {
-      "slug": "labuan-bajo-la-moringa-labuan-bajo",
-      "category": "restaurant",
-      "region": "Labuan Bajo",
-      "image": "Landscape view, not a restaurant image",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "between 7 and 9pm when boats return from day trips"
-        }
-      ]
-    },
-    {
-      "slug": "little-india-super-deluxe-kitchen",
-      "category": "restaurant",
-      "region": "Little India",
-      "image": "This is The Red House in Katong, not Super Deluxe Kitchen"
-    },
-    {
-      "slug": "labuan-bajo-taman-laut-handayani-seafood-restaurant-labuan-bajo",
-      "category": "restaurant",
-      "region": "Labuan Bajo",
-      "image": "Aerial view of ocean with rays, not a restaurant"
-    },
-    {
-      "slug": "las-vegas-las-vegas-strip",
-      "category": "attraction",
-      "region": "Las Vegas",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "running every 15-30 minutes in the evening"
-        }
-      ]
-    },
-    {
-      "slug": "little-india-veera-flavours",
-      "category": "restaurant",
-      "region": "Little India",
-      "image": "Fruit market stall, not a restaurant",
+      "region": "Krabi",
       "prose": [
         {
           "type": "symbol-in-prose",
@@ -1208,132 +655,165 @@
       ]
     },
     {
-      "slug": "little-india-chola-cafe-biryani-house-best-biryani-in-singapore",
-      "category": "trendy",
-      "region": "Little India",
-      "image": "Street scene with van, no cafe or biryani visible"
-    },
-    {
-      "slug": "little-india-former-house-of-tan-teng-niah",
+      "slug": "krabi-wat-tham-suea",
       "category": "attraction",
-      "region": "Little India",
+      "region": "Krabi",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "Tan House cluster on Kerbau Road"
+          "quote": "35 Tambon Krabi Noi, Amphoe Mueang Krabi"
         }
       ]
     },
     {
-      "slug": "lombok-elamu-lombok",
-      "category": "restaurant",
-      "region": "Lombok",
-      "image": "Beach sunset scene, not a restaurant"
+      "slug": "kyoto-arashiyama-bamboo-forest",
+      "category": "attraction",
+      "region": "Kyoto",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "Sagaogurayama Tabuchiyamacho"
+        }
+      ]
     },
     {
-      "slug": "los-angeles-bad-roman",
+      "slug": "kyoto-yoichiba",
+      "category": "restaurant",
+      "region": "Kyoto",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "runs direct to Karasuma Oike in around 5–6 minutes"
+        }
+      ]
+    },
+    {
+      "slug": "langkawi-kilim-geoforest-park",
+      "category": "hidden-gem",
+      "region": "Langkawi",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "order the grilled fish or sambal prawns"
+        }
+      ]
+    },
+    {
+      "slug": "labuan-bajo-la-moringa-labuan-bajo",
+      "category": "restaurant",
+      "region": "Labuan Bajo",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "think nasi goreng, grilled seafood, and Flores-influenced dishes"
+        }
+      ]
+    },
+    {
+      "slug": "las-vegas-springs-preserve",
+      "category": "hidden-gem",
+      "region": "Las Vegas",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "open 9am to 4pm Monday, Thursday, Friday, Saturday, and Sunday, and closed entirely on Tuesday and Wednesday"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "a city of eight million annual visitors and counting"
+        }
+      ]
+    },
+    {
+      "slug": "las-vegas-peppermill-restaurant-and-fireside-lounge",
+      "category": "restaurant",
+      "region": "Las Vegas",
+      "proseError": "Expected ',' or ']' after array element in JSON at position "
+    },
+    {
+      "slug": "los-angeles-hollywood-walk-of-fame",
+      "category": "attraction",
+      "region": "Los Angeles",
+      "proseError": "Expected ',' or ']' after array element in JSON at position "
+    },
+    {
+      "slug": "los-angeles-urth-caffe",
       "category": "trendy",
       "region": "Los Angeles",
-      "image": "Ancient Roman ruins, not an LA restaurant venue"
-    },
-    {
-      "slug": "lombok-vandal-restaurant-elevated-global-street-food",
-      "category": "restaurant",
-      "region": "Lombok",
-      "image": "Street vendor selling corn, not an elevated restaurant",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "the 7-8pm rush"
+          "quote": "hours running 7am to 10pm most nights and until 11pm on Fridays and Saturdays"
         }
       ]
     },
     {
-      "slug": "lombok-sendang-gile-waterfall",
-      "category": "attraction",
-      "region": "Lombok",
-      "image": "Coastal bay with boats, not a waterfall"
-    },
-    {
-      "slug": "lombok-kenza-cafe-restaurant-kuta-lombok",
-      "category": "trendy",
-      "region": "Lombok",
-      "image": "Signage appears Chinese, not consistent with Lombok, Indonesia"
-    },
-    {
-      "slug": "los-angeles-griffith-observatory",
-      "category": "attraction",
-      "region": "Los Angeles",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Griffith Observatory is closed Mondays and Tuesdays"
-        }
-      ]
-    },
-    {
-      "slug": "madrid-el-campero-madrid",
-      "category": "restaurant",
-      "region": "Madrid",
-      "image": "Cityscape of Madrid, not the restaurant itself"
-    },
-    {
-      "slug": "lyon-vieux-lyon",
+      "slug": "lyon-parc-de-la-tete-d-or",
       "category": "hidden-gem",
       "region": "Lyon",
-      "image": "Manhole cover image, not depicting Vieux Lyon streets/architecture"
-    },
-    {
-      "slug": "manila-azukitoyo",
-      "category": "trendy",
-      "region": "Manila",
-      "image": "City skyline, not a specific venue/restaurant image"
-    },
-    {
-      "slug": "madrid-club-metropolis",
-      "category": "trendy",
-      "region": "Madrid",
-      "image": "Cityscape aerial view, not an actual club venue interior/exterior"
-    },
-    {
-      "slug": "manila-chocolateria-san-gines",
-      "category": "restaurant",
-      "region": "Manila",
-      "image": "No visible location markers confirming Manila; generic churros image, unverifiable"
-    },
-    {
-      "slug": "madrid-museo-nacional-del-prado",
-      "category": "attraction",
-      "region": "Madrid",
-      "image": "This is a painting, not a photo of the museum"
-    },
-    {
-      "slug": "manila-tadhana",
-      "category": "restaurant",
-      "region": "Manila",
-      "image": "Cityscape/river view, not a restaurant interior or exterior"
-    },
-    {
-      "slug": "marseille-notre-dame-de-la-garde",
-      "category": "attraction",
-      "region": "Marseille",
-      "image": "Shows Marseille cityscape/harbor, not the basilica itself"
-    },
-    {
-      "slug": "marina-bay-le-noir",
-      "category": "restaurant",
-      "region": "Marina Bay",
-      "image": "European-style building at night, not Marina Bay Singapore"
-    },
-    {
-      "slug": "marina-bay-ps-cafe-marina-bay-sands",
-      "category": "trendy",
-      "region": "Marina Bay",
-      "image": "Shows cricket field and skyline, not the cafe venue",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "before 11am"
+          "quote": "opens at 6:30am and closes at 10:30pm every day of the week"
+        }
+      ]
+    },
+    {
+      "slug": "makati-kariton-x-sabi-sounds",
+      "category": "trendy",
+      "region": "Makati",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "a coffee counter at 7am, a gelato stop at noon"
+        }
+      ]
+    },
+    {
+      "slug": "malaga-jardin-botanico-historico-la-concepcion",
+      "category": "hidden-gem",
+      "region": "Malaga",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "the garden is quietest between 7pm and 8:30pm on weekdays"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "Weekends, by contrast, stay busy from midday through 8pm"
+        }
+      ]
+    },
+    {
+      "slug": "manila-fort-santiago",
+      "category": "attraction",
+      "region": "Manila",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Fort Santiago is open every day from 8am to 11pm"
+        }
+      ]
+    },
+    {
+      "slug": "manila-rizal-park",
+      "category": "hidden-gem",
+      "region": "Manila",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "open daily from 5am to 10pm"
+        }
+      ]
+    },
+    {
+      "slug": "marseille-parc-national-des-calanques",
+      "category": "attraction",
+      "region": "Marseille",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "between 10am and 6pm on high-fire-risk days"
         }
       ]
     },
@@ -1341,88 +821,89 @@
       "slug": "marina-bay-satay-by-the-bay",
       "category": "restaurant",
       "region": "Marina Bay",
-      "image": "Marina Bay skyline view, not the specific food venue"
+      "proseError": "Expected ',' or ']' after array element in JSON at position "
     },
     {
-      "slug": "milan-kiwon",
-      "category": "trendy",
-      "region": "Milan",
-      "image": "Rural fish ponds landscape, not Milan urban trendy venue"
-    },
-    {
-      "slug": "metro-manila-bar-principal",
-      "category": "trendy",
-      "region": "Manila",
-      "image": "Wide cityscape aerial view, not a bar interior/venue"
-    },
-    {
-      "slug": "mumbai-fielia",
-      "category": "trendy",
-      "region": "Mumbai",
-      "image": "Coastal Mumbai skyline, not a trendy venue interior"
-    },
-    {
-      "slug": "mumbai-bastian-beach-club",
-      "category": "trendy",
-      "region": "Mumbai",
-      "image": "Bridge and skyline, not a beach club venue"
-    },
-    {
-      "slug": "nagoya-glitch-coffee-roasters-nagoya",
-      "category": "trendy",
-      "region": "Nagoya",
-      "image": "Storefront with maneki-neko figurines, not this specific coffee shop"
-    },
-    {
-      "slug": "nagoya-atsuta-horaiken-honten",
-      "category": "restaurant",
-      "region": "Nagoya",
-      "image": "Shows a castle, not a restaurant"
-    },
-    {
-      "slug": "nagoya-noritake-garden",
+      "slug": "marseille-port-antique",
       "category": "hidden-gem",
-      "region": "Nagoya",
-      "image": "Shows AEON Mall shopping complex, not Noritake Garden"
+      "region": "Marseille",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Tuesday through Sunday, 9:30am to 6pm"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "There's no admission fee and no booking system"
+        }
+      ]
     },
     {
-      "slug": "nara-chami-specialty-coffee-roaster-nara-japan",
-      "category": "trendy",
-      "region": "Nara",
-      "image": "This is a donut shop, not a coffee roaster"
-    },
-    {
-      "slug": "nara-sahha-halal-restaurant",
+      "slug": "miami-talkin-tacos-brickell",
       "category": "restaurant",
-      "region": "Nara",
-      "image": "Image shows a deer, not a restaurant"
+      "region": "Miami",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "serving tacos, tequila, and mezcal until 2am, seven nights a week"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "the kitchen runs from 10am straight through to 2am every day of the week"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "right after the 10am opening"
+        }
+      ]
     },
     {
-      "slug": "nara-mizuya-chaya",
-      "category": "restaurant",
-      "region": "Nara",
-      "image": "Outdoor food festival tents, not a specific named restaurant"
+      "slug": "milan-duomo-di-milano",
+      "category": "attraction",
+      "region": "Milan",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "it's almost impossible to arrive by accident-free navigation"
+        }
+      ]
+    },
+    {
+      "slug": "monza-reggia-di-monza",
+      "category": "hidden-gem",
+      "region": "Monza",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "open Wednesday through Friday only in the afternoon (2:30–7:30pm), and open longer on weekends (Saturday from 10:30am, Sunday from 10am, both until 6:30pm)"
+        }
+      ]
+    },
+    {
+      "slug": "mumbai-kanheri-caves",
+      "category": "hidden-gem",
+      "region": "Mumbai",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "open Tuesday through Sunday, 8am to 5:30pm"
+        }
+      ]
     },
     {
       "slug": "new-orleans-french-quarter",
       "category": "hidden-gem",
       "region": "New Orleans",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "open 24 hours and always busy"
-        }
-      ]
+      "image": "Incidental decorated passageway, not representative of French Quarter"
     },
     {
-      "slug": "new-york-flushing-queens-us-open-tennis-championships-2026",
-      "category": "event",
-      "region": "New York",
-      "image": "1957 historical newspaper clipping, not 2026 US Open coverage",
+      "slug": "nice-cascade-du-chateau",
+      "category": "hidden-gem",
+      "region": "Nice",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "the Aces, Not Faces bar and various sponsor lounges are worth a wander"
+          "quote": "open every day, 8:30am to 8pm, all week"
         }
       ]
     },
@@ -1430,363 +911,43 @@
       "slug": "nha-trang-nha-he-coffee-shop",
       "category": "trendy",
       "region": "Nha Trang",
-      "image": "Shows a public roundabout monument, not a coffee shop"
-    },
-    {
-      "slug": "nha-trang-la-nha",
-      "category": "restaurant",
-      "region": "Nha Trang",
-      "image": "Street/skyline view, not the actual restaurant",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "fills up quickly between 6:30 and 8:30pm"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "going for a slightly earlier meal around 5:30-6pm"
-        }
-      ]
-    },
-    {
-      "slug": "nice-promenade-des-anglais",
-      "category": "attraction",
-      "region": "Nice",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "wide sandy-and-pebble public beaches"
-        },
-        {
-          "type": "other-glaring",
-          "quote": "Baroque facades of Belle Époque hotels"
-        }
-      ]
-    },
-    {
-      "slug": "nha-trang-street-food-nha-trang",
-      "category": "restaurant",
-      "region": "Nha Trang",
-      "image": "Cityscape/mountain view, not a street food restaurant scene"
-    },
-    {
-      "slug": "nice-finish-various-french-stages-tour-de-france-femmes-avec-zwift",
-      "category": "event",
-      "region": "Nice",
-      "image": "Rural stone-wall countryside, not Nice or Tour de France Femmes"
-    },
-    {
-      "slug": "okinawa-okinawa-world",
-      "category": "hidden-gem",
-      "region": "Okinawa",
-      "image": "This shows an aquarium, not Okinawa World's cave/park attraction"
-    },
-    {
-      "slug": "okinawa-chatan-steam-seafood",
-      "category": "restaurant",
-      "region": "Okinawa",
-      "image": "Shows Katsuo restaurant with tin-plate grilled food, not seafood venue"
-    },
-    {
-      "slug": "okinawa-philippines-street-food-gonta",
-      "category": "restaurant",
-      "region": "Okinawa",
-      "image": "Japanese signage, not Philippines street food branding"
-    },
-    {
-      "slug": "okinawa-zhyvago-coffee-works-okinawa",
-      "category": "trendy",
-      "region": "Okinawa",
-      "image": "Different shop name visible (Darwin Room), not this venue",
       "prose": [
         {
           "type": "symbol-in-prose",
-          "quote": "(¥¥)"
+          "quote": "the price level sits in the modest \"2\" range on standard scales"
         }
       ]
     },
     {
-      "slug": "orchard-road-ion-sky",
+      "slug": "nice-promenade-du-paillon",
       "category": "attraction",
-      "region": "Orchard Road",
-      "image": "Vintage group photo with trophies, unrelated to ION Sky"
-    },
-    {
-      "slug": "orchard-road-maxwell-food-centre",
-      "category": "restaurant",
-      "region": "Orchard Road",
-      "proseError": "Expected ',' or ']' after array element in JSON at position "
-    },
-    {
-      "slug": "orchard-road-merci-marcel-orchard",
-      "category": "restaurant",
-      "region": "Orchard Road",
-      "image": "This is a hawker centre, not Merci Marcel restaurant"
-    },
-    {
-      "slug": "osaka-dotonbori",
-      "category": "restaurant",
-      "region": "Osaka",
-      "image": "Dotonbori is a district, not a restaurant; mismatched venue type"
+      "region": "Nice",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "free, always-open public park"
+        }
+      ]
     },
     {
       "slug": "osaka-lilo-coffee-roasters",
       "category": "trendy",
       "region": "Osaka",
-      "image": "Shows 'cafe mimosa', not LiLo Coffee Roasters",
-      "proseError": "Expected ',' or ']' after array element in JSON at position "
-    },
-    {
-      "slug": "paju-heyri-art-village",
-      "category": "hidden-gem",
-      "region": "Paju",
       "prose": [
         {
-          "type": "invented-specifics",
-          "quote": "the 021, 058, or similar routes serving Tanhyeon/Heyri"
+          "type": "foreign-fragment",
+          "quote": "1階"
         }
       ]
     },
     {
-      "slug": "osaka-osaka-castle",
-      "category": "attraction",
-      "region": "Osaka",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "burned down in the 1665"
-        }
-      ]
-    },
-    {
-      "slug": "osaka-oko-fun-okonomiyaki-bar",
-      "category": "restaurant",
-      "region": "Osaka",
-      "image": "Different restaurant 'itoshii', not OKO Okonomiyaki Bar"
-    },
-    {
-      "slug": "paris-eskal",
-      "category": "restaurant",
-      "region": "Paris",
-      "image": "Shows a metro station tunnel, not a restaurant"
-    },
-    {
-      "slug": "paris-fuga-r",
-      "category": "trendy",
-      "region": "Paris",
-      "image": "Blank paper page, not a Paris venue photo"
-    },
-    {
-      "slug": "paris-eiffel-tower",
+      "slug": "paris-louvre-museum",
       "category": "attraction",
       "region": "Paris",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "right at the 9:30am opening"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "until 1am"
-        }
-      ]
-    },
-    {
-      "slug": "paris-2026-tour-de-france-final-stages-paris-finish",
-      "category": "event",
-      "region": "Paris",
-      "image": "Women's road race with national teams, not Tour de France"
-    },
-    {
-      "slug": "paris-kubaba",
-      "category": "trendy",
-      "region": "Paris",
-      "image": "Shows 'Au Vieux Paris' restaurant, not Kubaba",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "malka bread served with a cardamom-pistachio butter, and a tanjia-style veal dish"
-        }
-      ]
-    },
-    {
-      "slug": "paris-shwi",
-      "category": "restaurant",
-      "region": "Paris",
-      "image": "Bridge cityscape, not a restaurant interior/exterior",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "typically dressed with garlic sauce, pickles, and flatbread in the region's classic style"
-        }
-      ]
-    },
-    {
-      "slug": "pattaya-sheeva-cafe",
-      "category": "trendy",
-      "region": "Pattaya",
-      "image": "Shows 'Pattaya' sign, not Sheeva Cafe specifically",
-      "prose": [
-        {
-          "type": "symbol-in-prose",
-          "quote": "priceLevel 2"
-        }
-      ]
-    },
-    {
-      "slug": "pattaya-mamamia-pattaya-street-noodles",
-      "category": "restaurant",
-      "region": "Pattaya",
-      "image": "Shows fried food cart, not noodles specific to venue"
-    },
-    {
-      "slug": "pattaya-the-sanctuary-of-truth-museum",
-      "category": "hidden-gem",
-      "region": "Pattaya",
-      "image": "Shows Pattaya cityscape/sign, not Sanctuary of Truth museum"
-    },
-    {
-      "slug": "penang-root-house-by-gen",
-      "category": "restaurant",
-      "region": "Penang",
-      "image": "Shows a Buddhist temple, not a restaurant"
-    },
-    {
-      "slug": "pattaya-the-collective-pattaya",
-      "category": "restaurant",
-      "region": "Pattaya",
-      "image": "Shows a canal/harbor scene, not a restaurant venue"
-    },
-    {
-      "slug": "phu-quoc-camia-restaurant",
-      "category": "restaurant",
-      "region": "Phu Quoc",
-      "image": "Shows Camia in London/UK, not Phu Quoc, Vietnam"
-    },
-    {
-      "slug": "phu-quoc-chuon-chuon-bistro-bar",
-      "category": "trendy",
-      "region": "Phu Quoc",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "dinner (roughly 6–9pm)"
-        }
-      ]
-    },
-    {
-      "slug": "phu-quoc-vietnam-international-flute-festival-viff-2026",
-      "category": "event",
-      "region": "Phu Quoc",
-      "image": "Shows a nighttime landmark light show, not a flute festival"
-    },
-    {
-      "slug": "phuket-green-elephant-sanctuary-park",
-      "category": "hidden-gem",
-      "region": "Phuket",
-      "image": "Shows a wild tiger in wetland, not elephants"
-    },
-    {
-      "slug": "phuket-cafe-phuket-viewpoint",
-      "category": "trendy",
-      "region": "Phuket",
-      "proseError": "Expected ',' or ']' after array element in JSON at position "
-    },
-    {
-      "slug": "phuket-phi-phi-islands",
-      "category": "attraction",
-      "region": "Phuket",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "try grilled fish, som tam, and fresh tiger prawns at the harborside stalls"
-        }
-      ]
-    },
-    {
-      "slug": "phuket-hug-street-food-kata-phuket",
-      "category": "restaurant",
-      "region": "Phuket",
-      "image": "This is a mural/painting, not a real photo",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "remodeled into a Instagram-lit tourist trap"
-        }
-      ]
-    },
-    {
-      "slug": "phuket-khao-rang-viewpoint",
-      "category": "attraction",
-      "region": "Phuket",
-      "image": "Shows ocean/coastline, not hilltop city viewpoint"
-    },
-    {
-      "slug": "phuket-the-big-buddha-phuket",
-      "category": "attraction",
-      "region": "Phuket",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Admission is free, though donation boxes support the ongoing marble cladding work"
-        }
-      ]
-    },
-    {
-      "slug": "ras-al-khaimah-habun-restaurant",
-      "category": "restaurant",
-      "region": "Ras Al Khaimah",
-      "image": "Mountain road landscape, no restaurant shown"
-    },
-    {
-      "slug": "qingdao-qingdao-international-beer-festival",
-      "category": "event",
-      "region": "Qingdao",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "beer-flavored ice cream"
-        }
-      ]
-    },
-    {
-      "slug": "ras-al-khaimah-dhayah-fort",
-      "category": "attraction",
-      "region": "Ras Al Khaimah",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "Ar Rams' small fishing harbor"
-        }
-      ]
-    },
-    {
-      "slug": "quezon-city-mamamoo-world-tour-manila-stop",
-      "category": "event",
-      "region": "Manila",
-      "image": "Four women shown, not MAMAMOO's four members",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "August is deep in the Philippines' rainy season"
-        }
-      ]
-    },
-    {
-      "slug": "ras-al-khaimah-m14-cafe",
-      "category": "trendy",
-      "region": "Ras Al Khaimah",
-      "image": "Mountain landscape, not a cafe venue"
-    },
-    {
-      "slug": "ras-al-khaimah-rukn-al-falafel-cafeteria",
-      "category": "restaurant",
-      "region": "Ras Al Khaimah",
-      "image": "Shows power lines and desert, not a restaurant",
-      "prose": [
-        {
-          "type": "symbol-in-prose",
-          "quote": "with a price level of 2 (on a typical 1–4 scale)"
+          "quote": "hours run 9am–6pm Monday, Thursday, Saturday and Sunday, and stretch to 9pm on Wednesday and Friday"
         }
       ]
     },
@@ -1794,7 +955,6 @@
       "slug": "rome-luna",
       "category": "trendy",
       "region": "Rome",
-      "image": "Ornate chandelier ceiling shot, no evidence of specific venue or Rome",
       "prose": [
         {
           "type": "broken-markdown",
@@ -1803,114 +963,47 @@
       ]
     },
     {
-      "slug": "rome-futura",
-      "category": "trendy",
-      "region": "Rome",
+      "slug": "san-francisco-fort-point-national-historic-site",
+      "category": "hidden-gem",
+      "region": "San Francisco",
       "prose": [
         {
-          "type": "other-glaring",
-          "quote": "Case Romane del Celio-style medieval streets of Monti"
+          "type": "invented-specifics",
+          "quote": "open Thursday through Monday, 10am to 5pm"
         }
       ]
     },
     {
-      "slug": "rome-nomos-ante",
+      "slug": "san-francisco-rich-table",
       "category": "restaurant",
-      "region": "Rome",
-      "image": "Shows the Colosseum, not a restaurant",
-      "proseError": "Expected ',' or ']' after array element in JSON at position "
-    },
-    {
-      "slug": "sapporo-mermaid-coffee-roasters",
-      "category": "trendy",
-      "region": "Sapporo",
-      "image": "Sapporo brewery building, not a coffee roasters venue"
-    },
-    {
-      "slug": "san-sebastian-bar-txepetxa",
-      "category": "restaurant",
-      "region": "San Sebastian",
-      "image": "No signage confirms Bar Txepetxa; generic Spanish tapas bar"
-    },
-    {
-      "slug": "sapporo-gyumon-sapporo",
-      "category": "restaurant",
-      "region": "Sapporo",
-      "image": "Susukino street scene, no GYUMON restaurant signage visible"
-    },
-    {
-      "slug": "sapporo-sapporo-ramen-haruka",
-      "category": "restaurant",
-      "region": "Sapporo",
-      "image": "Shows small Japanese side dishes, not ramen noodles"
-    },
-    {
-      "slug": "sentosa-fiamma",
-      "category": "restaurant",
-      "region": "Sentosa",
-      "image": "Alpine village scene, not Singapore restaurant setting"
-    },
-    {
-      "slug": "sapporo-shiroi-koibito-park",
-      "category": "hidden-gem",
-      "region": "Sapporo",
-      "image": "No signage confirming Shiroi Koibito Park; generic candy shop scene"
-    },
-    {
-      "slug": "seattle-pike-place-market",
-      "category": "restaurant",
-      "region": "Seattle",
-      "image": "Shows glass ornament shop, not a restaurant"
-    },
-    {
-      "slug": "sentosa-skyline-luge-singapore",
-      "category": "attraction",
-      "region": "Sentosa",
-      "image": "Shows Merlion statue and skyline, not Skyline Luge attraction"
-    },
-    {
-      "slug": "sentosa-lau-pa-sat",
-      "category": "restaurant",
-      "region": "Sentosa",
-      "image": "Lau Pa Sat is in CBD/Downtown Core, not Sentosa"
-    },
-    {
-      "slug": "seoul-2026-coupang-play-series-manchester-city-vs-atletico-madrid",
-      "category": "event",
-      "region": "Seoul",
-      "image": "Delivery truck unrelated to football match event"
-    },
-    {
-      "slug": "sentosa-the-coach-coffee-shop-resorts-world-sentosa-weave",
-      "category": "trendy",
-      "region": "Sentosa",
-      "image": "Shows a Sentosa bus, not a coffee shop",
+      "region": "San Francisco",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "avoiding the lunch (12–2pm) and dinner (6–8pm) rush hours"
+          "quote": "nightly from 5pm to 10pm"
         },
         {
           "type": "invented-specifics",
-          "quote": "aim for the post-lunch lull around 2:30–4:30pm"
+          "quote": "a porcini doughnut dusted with powdered sugar-and-mushroom, sardine chips with lemon-caper crème fraîche"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "the tightest crunch is 7 to 9pm on Friday and Saturday nights"
         }
       ]
     },
     {
-      "slug": "seoul-dallas-pizza",
-      "category": "hidden-gem",
-      "region": "Seoul",
-      "image": "This is Pizza Hut Park, an FC Dallas soccer stadium in Texas"
-    },
-    {
-      "slug": "seoul-cafe-3-stripes-seoul",
-      "category": "trendy",
-      "region": "Seoul",
-      "image": "Street scene with restaurant signage, not a cafe",
+      "slug": "seattle-jack-s-fish-spot",
+      "category": "restaurant",
+      "region": "Seattle",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "features around 50 items aimed squarely at health-conscious Gen Z tastes"
+          "quote": "7:30am to 6pm Monday through Saturday, and 8am to 5pm on Sunday"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "7:30am weekdays, 8am Sunday"
         }
       ]
     },
@@ -1921,7 +1014,7 @@
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "often 10am–5pm"
+          "quote": "Right at opening, 10am, is the best window"
         }
       ]
     },
@@ -1929,181 +1022,80 @@
       "slug": "seoul-eid-halal-korean-food",
       "category": "restaurant",
       "region": "Seoul",
-      "image": "Street scene, not restaurant interior or signage for venue"
-    },
-    {
-      "slug": "seoul-gyeongbokgung-palace",
-      "category": "attraction",
-      "region": "Seoul",
       "proseError": "Expected ',' or ']' after array element in JSON at position "
     },
     {
-      "slug": "seoul-euljiro",
-      "category": "hidden-gem",
-      "region": "Seoul",
-      "prose": [
-        {
-          "type": "foreign-fragment",
-          "quote": "натural wine"
-        }
-      ]
-    },
-    {
-      "slug": "seoul-gwangjang-market",
-      "category": "hidden-gem",
-      "region": "Seoul",
-      "image": "Crowded, busy market contradicts 'hidden-gem' description"
-    },
-    {
-      "slug": "seoul-hakusi",
+      "slug": "seoul-restaurant-san",
       "category": "restaurant",
       "region": "Seoul",
-      "image": "Seoul lantern display, not a restaurant",
       "prose": [
         {
-          "type": "invented-specifics",
-          "quote": "A signature example of the kitchen's style is unagi (freshwater eel) paired with sansho pepper and basil"
+          "type": "other-glaring",
+          "quote": "Asia's 50 Best Restaurants 2026"
         }
       ]
     },
     {
-      "slug": "seoul-ikseon-dong",
-      "category": "restaurant",
-      "region": "Seoul",
-      "image": "Parking lot with cars, not a restaurant scene",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "The neighborhood dates back to the 1920s, when it was one of Seoul's first planned hanok developments."
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "Take exit 6 (or exit 4, another common entry)"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "Weekday late mornings (11am–1pm) or early evenings (5–6:30pm) are the sweet spot"
-        }
-      ]
-    },
-    {
-      "slug": "seoul-london-bagel-museum",
-      "category": "trendy",
-      "region": "Seoul",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "flavor combinations like Potato Cheese and the Brick Lane"
-        }
-      ]
-    },
-    {
-      "slug": "seoul-myeongdong-shopping-street",
-      "category": "hidden-gem",
-      "region": "Seoul",
-      "image": "Busy well-known shopping street, not a hidden gem"
-    },
-    {
-      "slug": "seoul-plant-cafe-seoul-yeonnam",
-      "category": "trendy",
-      "region": "Seoul",
-      "image": "Wide night skyline, not a specific plant cafe interior/exterior"
-    },
-    {
-      "slug": "seoul-seoul-art-space-mullae",
-      "category": "hidden-gem",
-      "region": "Seoul",
-      "image": "Generic city skyline at dusk, not the specific art space venue"
-    },
-    {
-      "slug": "shanghai-times",
+      "slug": "shanghai-love-sushi",
       "category": "restaurant",
       "region": "Shanghai",
-      "image": "Shows a shopping mall/retail complex, not a restaurant"
+      "image": "Interior chalkboard menu/sign focus, not sushi restaurant view"
     },
     {
-      "slug": "shanghai-goodbai-cafe",
-      "category": "trendy",
-      "region": "Shanghai",
-      "image": "Traditional Chinese dim sum meal, not a trendy cafe"
-    },
-    {
-      "slug": "shanghai-vice",
-      "category": "restaurant",
-      "region": "Shanghai",
-      "image": "Shows a Chinese noodle shop, not a venue called VICE"
-    },
-    {
-      "slug": "sharjah-arabian-tea-house-restaurant-cafe-sharjah",
-      "category": "restaurant",
-      "region": "Sharjah",
-      "image": "Aerial cityscape view, not the specific restaurant/cafe"
+      "slug": "seville-plaza-de-espana",
+      "category": "attraction",
+      "region": "Seville",
+      "proseError": "Expected ',' or ']' after array element in JSON at position "
     },
     {
       "slug": "sharjah-tpt-by-late",
       "category": "trendy",
       "region": "Sharjah",
-      "image": "Aerial city/waterway view, not a trendy café interior"
-    },
-    {
-      "slug": "singapore-casa-mori",
-      "category": "restaurant",
-      "region": "Singapore",
-      "image": "Shows Casa dell'Energia in Arezzo, Italy, not Singapore"
-    },
-    {
-      "slug": "singapore-bouillon-gavroche",
-      "category": "restaurant",
-      "region": "Singapore",
-      "image": "Aerial cityscape of Singapore, not the restaurant itself"
-    },
-    {
-      "slug": "singapore-post-malone-big-ass-world-tour",
-      "category": "event",
-      "region": "Singapore",
-      "image": "Cityscape skyline, not the performer or concert stage"
-    },
-    {
-      "slug": "singapore-david-byrne-who-is-the-sky-tour",
-      "category": "event",
-      "region": "Singapore",
-      "image": "Painting of biblical King David, not the musician"
-    },
-    {
-      "slug": "sokcho-huindajeong",
-      "category": "trendy",
-      "region": "Sokcho",
-      "image": "Generic street food stall, no evidence it's Huindajeong specifically"
-    },
-    {
-      "slug": "singapore-smash-street",
-      "category": "trendy",
-      "region": "Singapore",
-      "image": "Shows Hard Rock Cafe Singapore, not Smash Street"
-    },
-    {
-      "slug": "singapore-sabor",
-      "category": "trendy",
-      "region": "Singapore",
-      "image": "Fiberglass leopard statue, unrelated subject, not a venue photo"
-    },
-    {
-      "slug": "sokcho-local-restaurant",
-      "category": "restaurant",
-      "region": "Sokcho",
-      "image": "Cityscape skyline, not a restaurant image",
       "prose": [
         {
-          "type": "invented-specifics",
-          "quote": "Weekday lunch (11:30am–1pm) avoids the worst crowds"
+          "type": "other-glaring",
+          "quote": "Given the price level (a moderate, mid-range tier)"
         }
       ]
     },
     {
-      "slug": "sokcho-manseok-dakgangjeong-deep-fried-and-braised-chicken",
-      "category": "restaurant",
+      "slug": "siargao-cloud-9-surfing-area",
+      "category": "attraction",
+      "region": "Siargao",
+      "proseError": "Expected ',' or ']' after array element in JSON at position "
+    },
+    {
+      "slug": "singapore-formula-1-singapore-grand-prix-2026",
+      "category": "event",
+      "region": "Singapore",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "organisers have confirmed The Killers and Lana Del Rey as headline acts"
+        }
+      ]
+    },
+    {
+      "slug": "sokcho-seoraksan-cable-car",
+      "category": "attraction",
       "region": "Sokcho",
-      "image": "Traditional Korean village architecture, not a fried chicken restaurant"
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "serves Gangwon-do specialties like acorn jelly (dotorimuk) and grilled trout"
+        }
+      ]
+    },
+    {
+      "slug": "strasbourg-cathedrale-notre-dame-de-strasbourg",
+      "category": "hidden-gem",
+      "region": "Strasbourg",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "mornings from 8:30 to 11:15am, then again from 12:45 to 5:45pm, with Sunday hours starting later at 2pm and running to 5:15pm"
+        }
+      ]
     },
     {
       "slug": "strasbourg-christmas-in-alsace",
@@ -2117,52 +1109,82 @@
       ]
     },
     {
-      "slug": "sokcho-yeonggeumjeong-sunrise-pavilion",
-      "category": "hidden-gem",
-      "region": "Sokcho",
-      "image": "Old train station sign, not the sunrise pavilion"
-    },
-    {
       "slug": "surabaya-black-owl-surabaya",
       "category": "restaurant",
       "region": "Surabaya",
-      "image": "Shows a bank building, not a restaurant"
+      "image": "Close-up of drinkware, not representative venue interior/exterior shot"
     },
     {
-      "slug": "surabaya-depot-bu-rudy-dharmahusada",
-      "category": "restaurant",
-      "region": "Surabaya",
-      "image": "Ferris wheel/park scene, not a restaurant"
-    },
-    {
-      "slug": "suwon-yeonmudae-dongjangdae-eastern-command-post",
+      "slug": "taichung-dakeng-scenic-area",
       "category": "hidden-gem",
-      "region": "Suwon",
-      "image": "Shows a gate structure, not the command post/pavilion"
-    },
-    {
-      "slug": "taichung-hanshin-continental-mall-dining-scene",
-      "category": "trendy",
       "region": "Taichung",
-      "image": "Depicts Jiufen's mountainside teahouses, not Taichung mall dining",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "peak 7-9pm hours"
+          "quote": "Weekends get busy consistently from 7am through 6pm"
         }
       ]
     },
     {
-      "slug": "suwon-local-restaurant",
-      "category": "restaurant",
-      "region": "Suwon",
-      "image": "Shows a fortress/pavilion at night, not a restaurant"
+      "slug": "tainan-anping-old-street",
+      "category": "attraction",
+      "region": "Tainan",
+      "image": "Shows a single old house facade, not the street"
     },
     {
-      "slug": "taipei-sansan-bistro",
+      "slug": "taipei-elephant-mountain",
+      "category": "attraction",
+      "region": "Taipei",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "the trail is open 24 hours, every day"
+        }
+      ]
+    },
+    {
+      "slug": "taichung-rainbow-village",
+      "category": "attraction",
+      "region": "Taichung",
+      "prose": [
+        {
+          "type": "foreign-fragment",
+          "quote": "春安路56巷25號"
+        }
+      ]
+    },
+    {
+      "slug": "tainan-shennong-street",
+      "category": "hidden-gem",
+      "region": "Tainan",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "the street holds steady foot traffic from 9am to 11pm on Saturdays and Sundays"
+        }
+      ]
+    },
+    {
+      "slug": "taipei-ive-world-tour-2026-show-what-i-am-taipei",
+      "category": "event",
+      "region": "Taipei",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "This is what a IVE arena night looks like"
+        }
+      ]
+    },
+    {
+      "slug": "taipei-the-who-cafe",
       "category": "trendy",
       "region": "Taipei",
-      "image": "Aerial cityscape, not the specific bistro venue"
+      "prose": [
+        {
+          "type": "foreign-fragment",
+          "quote": "2-1號2樓, Lishui St"
+        }
+      ]
     },
     {
       "slug": "taipei-itzy-tunnel-vision-world-tour-taipei",
@@ -2176,79 +1198,19 @@
       ]
     },
     {
-      "slug": "taipei-la-vie-by-thomas-buhner",
-      "category": "restaurant",
-      "region": "Taipei",
-      "image": "Skyline view of Taipei, not the restaurant itself"
-    },
-    {
-      "slug": "taipei-neihu-fb-kitchen",
-      "category": "trendy",
-      "region": "Taipei",
-      "image": "Generic plated shrimp dish, no evidence of Taipei venue"
-    },
-    {
-      "slug": "taipei-official-hige-dandism-asia-tour-2026",
-      "category": "event",
-      "region": "Taipei",
-      "image": "Crowd in traditional dress, not the pop concert performer/event"
-    },
-    {
-      "slug": "taipei-taipei-fringe-festival-2026",
-      "category": "event",
-      "region": "Taipei",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "often capped at 50-100 seats"
-        }
-      ]
-    },
-    {
       "slug": "tokyo-comic-market-108-summer-comiket",
       "category": "event",
       "region": "Tokyo",
-      "image": "Outdoor stage performance, not Comiket convention hall event"
-    },
-    {
-      "slug": "taiyuan-2026-china-open-snooker",
-      "category": "event",
-      "region": "Taiyuan",
-      "image": "Concert crowd scene, not snooker/billiards related"
-    },
-    {
-      "slug": "tokyo-ise-sueyoshi",
-      "category": "restaurant",
-      "region": "Tokyo",
-      "image": "Storefront named Fujiden, not Ise Sueyoshi"
-    },
-    {
-      "slug": "tokyo-fuglen-tokyo",
-      "category": "trendy",
-      "region": "Tokyo",
-      "image": "Different building with Japanese signage, not identifiable as Fuglen Tokyo"
-    },
-    {
-      "slug": "tokyo-oxomoco",
-      "category": "trendy",
-      "region": "Tokyo",
-      "image": "Generic Tokyo skyline, not the specific restaurant venue"
+      "image": "Outdoor concert stage, not Comiket convention hall setting"
     },
     {
       "slug": "tokyo-lenox-house",
       "category": "trendy",
       "region": "Tokyo",
-      "image": "Rural American farmhouse with cows, not Tokyo"
-    },
-    {
-      "slug": "tokyo-meiji-jingu",
-      "category": "attraction",
-      "region": "Tokyo",
-      "image": "Baseball stadium, not Meiji Jingu shrine",
       "prose": [
         {
-          "type": "other-glaring",
-          "quote": "Fukutoku-toshin subway lines"
+          "type": "invented-specifics",
+          "quote": "since it's the kitchen's stated specialty"
         }
       ]
     },
@@ -2256,102 +1218,99 @@
       "slug": "tokyo-september-grand-sumo-tournament-aki-basho",
       "category": "event",
       "region": "Tokyo",
-      "image": "Award ceremony with signage, not sumo tournament"
-    },
-    {
-      "slug": "tokyo-smith-wollensky",
-      "category": "trendy",
-      "region": "Tokyo",
-      "image": "US street signage/flags indicate New York, not Tokyo"
-    },
-    {
-      "slug": "tongyeong-tongyeong-cablecar-skywalk",
-      "category": "attraction",
-      "region": "Tongyeong",
-      "image": "Shows Columbia-branded cable cars, no Korean signage or skywalk visible",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "ttongdongpalve of Jungang Market"
-        }
-      ]
-    },
-    {
-      "slug": "venice-venice-international-film-festival-mostra",
-      "category": "event",
-      "region": "Venice",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "take a Alilaguna waterbus"
-        }
-      ]
-    },
-    {
-      "slug": "washington-dc-national-mall",
-      "category": "attraction",
-      "region": "Washington DC",
-      "image": "Airplane fuselage in museum, not National Mall exterior",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "open 24 hours"
+          "quote": "every day from September 13 through 27, 2026 features makuuchi bouts"
         }
       ]
     },
     {
-      "slug": "yeosu-keunkkeut-lighthouse",
-      "category": "hidden-gem",
-      "region": "Yeosu",
-      "image": "Shows traditional hanok village street, not a lighthouse"
-    },
-    {
-      "slug": "yeosu-bokchun-restaurant",
-      "category": "restaurant",
-      "region": "Yeosu",
-      "image": "This is a coastal Buddhist temple, not a restaurant",
+      "slug": "tokyo-teamlab-planets-tokyo-dmm",
+      "category": "trendy",
+      "region": "Tokyo",
       "prose": [
         {
-          "type": "symbol-in-prose",
-          "quote": "priced as a \"2\" on a typical 1–4 scale"
+          "type": "invented-specifics",
+          "quote": "stocks limited-edition prints and light-based merchandise unique to the DMM location"
         }
       ]
     },
     {
-      "slug": "yeosu-local-restaurant",
-      "category": "restaurant",
-      "region": "Yeosu",
-      "image": "Shows a coastal walkway, not a restaurant"
-    },
-    {
-      "slug": "yogyakarta-blanco-coffee-and-books",
+      "slug": "turin-baratti-milano",
       "category": "trendy",
-      "region": "Yogyakarta",
-      "image": "Shows ancient temple complex, not a coffee shop"
+      "region": "Turin",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "closed Mondays, open Tuesday through Sunday from 9am to 8pm"
+        }
+      ]
     },
     {
-      "slug": "yeosu-top-attraction",
+      "slug": "turin-museo-egizio",
       "category": "attraction",
-      "region": "Yeosu",
-      "image": "Generic apartment skyline, not a named top attraction"
+      "region": "Turin",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Monday hours are shorter, 9am to 2pm, rather than the extended hours running to 6:30pm or later on other days"
+        }
+      ]
+    },
+    {
+      "slug": "turin-mole-antonelliana",
+      "category": "hidden-gem",
+      "region": "Turin",
+      "proseError": "Expected ',' or ']' after array element in JSON at position "
+    },
+    {
+      "slug": "varanasi-shri-kashi-vishwanath-temple",
+      "category": "attraction",
+      "region": "Varanasi",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "keep ₹10-50 notes handy rather than large bills"
+        }
+      ]
     },
     {
       "slug": "yogyakarta-taman-sari-tourist-village",
       "category": "attraction",
       "region": "Yogyakarta",
-      "image": "Depicts ash-covered street cleanup, not a tourist village attraction",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "making midday (around 11am-1pm) the best time to see it illuminated"
+          "quote": "midday (around 11am-1pm) usually the best time to see it illuminated"
         }
       ]
     },
     {
-      "slug": "yokohama-babymonster-choom-world-tour-japan-yokohama-leg",
-      "category": "event",
+      "slug": "yogyakarta-blanco-coffee-and-books",
+      "category": "trendy",
+      "region": "Yogyakarta",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "Jl. Jl. Diponegoro/Jl. AM Sangaji corridor"
+        }
+      ]
+    },
+    {
+      "slug": "yokohama-yokohama-chinatown",
+      "category": "attraction",
       "region": "Yokohama",
-      "image": "Building exterior with anchors, unrelated to concert tour event"
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "many restaurants open for lunch around 11am"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "peak 12:30–1:30pm"
+        }
+      ]
     }
   ]
 }
