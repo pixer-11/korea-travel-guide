@@ -50,16 +50,19 @@ Priority: 33 itinerary stop(s) queued first
   – gangneung-gyeongpo-lake.md: nothing new
   – gangneung-jumunjin-lighthouse.md: nothing new
   – goa-fort-aguada.md: nothing new
-  – guangzhou-chen-clan-ancestral-hall.md: nothing new
+  – granada-mirador-de-san-nicolas.md: nothing new
+  ⚠ Places Details 429 after 3 tries — phone/hours unavailable for this post
   – guangzhou-huacheng-square.md: nothing new
   – guilin-reed-flute-cave.md: nothing new
   – gyeongju-hwangnidan-gil.md: nothing new
   – gyeongju-yangdongmaeul-gil.md: nothing new
   – ha-long-bay-sung-sot-cave.md: nothing new
+  – hangzhou-lingyin-temple.md: nothing new
   – hangzhou-xi-lake.md: nothing new
   – hanoi-hanoi-old-quarter.md: nothing new
   – hiroshima-hiroshima-breakfast.md: nothing new
   – hoi-an-hoi-an-night-market.md: nothing new
+  – hoi-an-japanese-bridge.md: nothing new
   ⚠ Places Details 429 after 3 tries — phone/hours unavailable for this post
   ⚠ Places Details 429 after 3 tries — phone/hours unavailable for this post
   ⚠ Places Details 429 after 3 tries — phone/hours unavailable for this post
@@ -68,4 +71,4 @@ Priority: 33 itinerary stop(s) queued first
 
 ⛔ Places Details failing with no-api-key (5 in a row) — stopping early. Not reported as a quota hit; check the key has Places API (New) enabled with no referrer/IP restriction. Note a drained project also returns 403 intermittently alongside its 429s, so check the day's quota before assuming a key problem.
 
-BACKFILL RESULT: updated 0, already-complete 141, no-new-data 61, no-place 45, quota-429 0, api-error 5 (last: no-api-key), processed 66 of 599 (APPLIED).
+BACKFILL RESULT: updated 0, already-complete 147, no-new-data 63, no-place 49, quota-429 0, api-error 6 (last: no-api-key), processed 69 of 615 (APPLIED).
