@@ -18,7 +18,7 @@ export const ui = {
     'a11y.menu': 'Menu',
     'a11y.close': 'Close',
     'a11y.email': 'Email address',
-    'nl.msgOk': "You're in! Grab your free trip-planning checklist",
+    'nl.msgOk': "Check your inbox to confirm — meanwhile, grab your checklist",
     'nl.msgErr': "Hmm, that didn't go through. Please try again in a moment.",
     'nl.msgNet': "Network hiccup — please try again in a moment.",
     'a11y.breadcrumb': 'Breadcrumb',
@@ -291,7 +291,7 @@ export const ui = {
     'popup.dek': 'One email a week with new guides and local tips. Subscribe now and get our printable trip-planning checklist free.',
     'popup.cta': 'Get my free checklist',
     'popup.decline': 'No thanks',
-    'popup.success': 'You’re in! Grab your checklist →',
+    'popup.success': 'Check your inbox to confirm →',
     'popup.error': 'That didn’t go through — please try again.',
 
     'dest.eyebrow': 'Destination',
@@ -482,7 +482,7 @@ export const ui = {
     'a11y.close': '닫기',
 
     'a11y.email': '이메일 주소',
-    'nl.msgOk': "가입 완료! 무료 여행 준비 체크리스트를 받아 가세요",
+    'nl.msgOk': "메일함에서 확인 링크를 눌러주세요 — 체크리스트 먼저 보기",
 
     'nl.msgErr': "전송이 안 됐어요. 잠시 후 다시 시도해 주세요.",
 
@@ -754,7 +754,7 @@ export const ui = {
     'popup.dek': '주 1회, 새 가이드와 현지 팁을 메일로 보내드려요. 지금 구독하면 인쇄용 여행 체크리스트를 무료로 드립니다.',
     'popup.cta': '무료 체크리스트 받기',
     'popup.decline': '괜찮아요',
-    'popup.success': '구독 완료! 체크리스트를 받아 가세요 →',
+    'popup.success': '메일함에서 확인해 주세요 →',
     'popup.error': '전송이 안 됐어요 — 잠시 후 다시 시도해 주세요.',
 
     'dest.eyebrow': '여행지',
@@ -945,7 +945,7 @@ export const ui = {
     'a11y.close': '閉じる',
 
     'a11y.email': 'メールアドレス',
-    'nl.msgOk': "登録完了！無料の旅行準備チェックリストをどうぞ",
+    'nl.msgOk': "メールの確認リンクを押してください — チェックリストはこちら",
 
     'nl.msgErr': "送信できませんでした。しばらくしてからもう一度お試しください。",
 
@@ -1217,7 +1217,7 @@ export const ui = {
     'popup.dek': '週1回、新しいガイドと現地のヒントをお届けします。今登録すると、印刷できる旅行チェックリストを無料でプレゼント。',
     'popup.cta': '無料チェックリストを受け取る',
     'popup.decline': '結構です',
-    'popup.success': '登録完了！チェックリストをどうぞ →',
+    'popup.success': 'メールで確認をお願いします →',
     'popup.error': '送信できませんでした — しばらくしてからもう一度お試しください。',
 
     'dest.eyebrow': '旅行先',
@@ -1408,7 +1408,7 @@ export const ui = {
     'a11y.close': 'Cerrar',
 
     'a11y.email': 'Correo electrónico',
-    'nl.msgOk': "¡Listo! Descarga tu lista de preparación de viaje gratis",
+    'nl.msgOk': "Confirma desde tu correo — mientras tanto, tu checklist",
 
     'nl.msgErr': "No se pudo enviar. Inténtalo de nuevo en un momento.",
 
@@ -1680,7 +1680,7 @@ export const ui = {
     'popup.dek': 'Un email a la semana con nuevas guías y consejos locales. Suscríbete ahora y recibe gratis nuestra checklist de viaje imprimible.',
     'popup.cta': 'Quiero mi checklist gratis',
     'popup.decline': 'No, gracias',
-    'popup.success': '¡Listo! Descarga tu checklist →',
+    'popup.success': 'Confirma desde tu correo →',
     'popup.error': 'No se pudo enviar: inténtalo de nuevo en un momento.',
 
     'dest.eyebrow': 'Destino',
@@ -1871,7 +1871,7 @@ export const ui = {
     'a11y.close': '关闭',
 
     'a11y.email': '电子邮箱',
-    'nl.msgOk': "订阅成功！领取免费行前清单",
+    'nl.msgOk': "请点击邮件中的确认链接 — 先来看看清单",
 
     'nl.msgErr': "提交失败，请稍后再试。",
 
@@ -2143,7 +2143,7 @@ export const ui = {
     'popup.dek': '每周一封邮件，带来新指南和本地小贴士。现在订阅，免费获得可打印的旅行清单。',
     'popup.cta': '领取免费清单',
     'popup.decline': '不用了',
-    'popup.success': '订阅成功！领取你的清单 →',
+    'popup.success': '请查收邮件完成确认 →',
     'popup.error': '发送失败——请稍后再试。',
 
     'dest.eyebrow': '目的地',
