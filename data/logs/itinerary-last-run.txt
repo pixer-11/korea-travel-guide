@@ -1,6 +1,9 @@
 
-Seoul, South Korea — 12 qualifying post(s), variants: 3
-  = Seoul 3d — unchanged, skipping
+Seoul, South Korea — 13 qualifying post(s), variants: 3
+  ~ Seoul 3d — minor structure change (2 slug diff), keeping existing prose
+  ⚠ Seoul 3d — validator found 3 prose-fixable issue(s); correcting once
+VALIDATE-FAILED seoul-3-days.md — 1 issue(s):
+  • PROSE-LEAK: seoul-3-days.md — itinerary[2].intro
 
 Tokyo, Japan — 13 qualifying post(s), variants: 3
   = Tokyo 3d — unchanged, skipping
