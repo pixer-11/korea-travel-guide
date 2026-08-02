@@ -31,6 +31,7 @@ const ML_ACTION = '/api/subscribe';
       <p class="nl-bonus"><Emoji name="wrapped-gift" /> {t('home.newsletterBonus')}</p>
       <form class="nl-form" data-ml-action={ML_ACTION} novalidate
         data-msg-ok={t('nl.msgOk')} data-msg-err={t('nl.msgErr')} data-msg-net={t('nl.msgNet')}
+        data-msg-invalid={t('nl.msgInvalid')} data-sending={t('nl.sending')}
         data-checklist-href={lang === 'en' ? '/free/trip-checklist' : `/${lang}/free/trip-checklist`}>
         <input type="email" name="email" placeholder="you@email.com" aria-label={t('a11y.email')} autocomplete="email" required />
         <input type="hidden" name="region" value={interest.region} />
@@ -64,7 +65,10 @@ const ML_ACTION = '/api/subscribe';
       e.preventDefault();
       const input = form.querySelector('input[name=email]') as HTMLInputElement | null;
       const email = input?.value?.trim() ?? '';
-      if (!email || !/.+@.+\..+/.test(email)) { say('Please enter a valid email address.'); return; }
+      // These two strings were hardcoded English, so a Korean/Japanese/Spanish/
+      // Chinese reader who mistyped their address got an English scolding — and
+      // watched the button flip to "Subscribing…" mid-submit.
+      if (!email || !/.+@.+\..+/.test(email)) { say(form.dataset.msgInvalid || 'Please enter a valid email address.'); return; }
       if (!action) { say('Newsletter is launching soon — thanks for your interest!', true); return; }
 
       const data = new FormData();
@@ -80,7 +84,7 @@ const ML_ACTION = '/api/subscribe';
       data.append('anticsrf', 'true');
 
       const label = btn?.textContent ?? 'Subscribe';
-      if (btn) { btn.disabled = true; btn.textContent = 'Subscribing…'; }
+      if (btn) { btn.disabled = true; btn.textContent = form.dataset.sending || 'Sending…'; }
       try {
         // FormData keeps this a CORS-safelisted request (no preflight); the
         // endpoint allows any origin, so we can read the JSON result.

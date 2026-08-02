@@ -879,8 +879,13 @@ body:has(#img-lightbox[open]) { overflow: hidden; }
 .nl-dek { color: #ffffff; line-height: 1.6; }
 .nl-form { display: flex; gap: 0.6rem; margin: 1.6rem auto 0; max-width: 460px; }
 .nl-form input { flex: 1; min-width: 0; padding: 0.85rem 1rem; border-radius: var(--r-pill); border: none; font-size: 1rem; font-family: inherit; }
-.nl-form .btn-primary { background: #fff; color: var(--accent); border-radius: var(--r-pill); }
-.nl-form .btn-primary:hover { background: #f4d9a8; }
+/* The band is vermilion, so this button is deliberately INVERTED (white fill,
+   vermilion text). --accent-text, not --accent: in dark mode the dark-fill
+   correction below repaints .btn-primary and --accent lightens to #e0685c,
+   which left light-red text on a red fill at 1.66:1 — the button all but
+   vanished. The dark override further down restores the white fill. */
+.nl-form .btn-primary { background: #fff; color: var(--accent-text); border-radius: var(--r-pill); }
+.nl-form .btn-primary:hover { background: #f4d9a8; color: var(--accent-text); }
 .nl-note { margin-top: 0.9rem; font-size: 0.9rem; color: #fff; }
 .nl-note-ok { color: #b8f0d0; font-weight: 600; }
 .nl-note-ok a { color: #fff; text-decoration: underline; font-weight: 700; }
@@ -1210,3 +1215,14 @@ main:focus { outline: none; }
 :root[data-theme='dark'] .save-btn[aria-pressed='true'] {
   background: #b3443a;
 }
+
+/* …except the newsletter band's button, which is inverted BY DESIGN (white
+   fill, vermilion text). The correction above repainted its fill vermilion
+   too, leaving vermilion-on-vermilion at 1.66:1. Keep it white in dark mode
+   and pin the text to the deep shade that reads on white. */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) .nl-form .btn-primary { background: #fff; color: #a5352c; }
+  :root:not([data-theme='light']) .nl-form .btn-primary:hover { background: #f4d9a8; color: #a5352c; }
+}
+:root[data-theme='dark'] .nl-form .btn-primary { background: #fff; color: #a5352c; }
+:root[data-theme='dark'] .nl-form .btn-primary:hover { background: #f4d9a8; color: #a5352c; }

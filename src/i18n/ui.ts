@@ -20,6 +20,8 @@ export const ui = {
     'a11y.email': 'Email address',
     'nl.msgOk': "Check your inbox to confirm — meanwhile, grab your checklist",
     'nl.msgErr': "Hmm, that didn't go through. Please try again in a moment.",
+    'nl.msgInvalid': 'Please enter a valid email address.',
+    'nl.sending': 'Sending…',
     'nl.msgNet': "Network hiccup — please try again in a moment.",
     'a11y.breadcrumb': 'Breadcrumb',
     'a11y.skipToContent': 'Skip to content',
@@ -485,6 +487,8 @@ export const ui = {
     'nl.msgOk': "메일함에서 확인 링크를 눌러주세요 — 체크리스트 먼저 보기",
 
     'nl.msgErr': "전송이 안 됐어요. 잠시 후 다시 시도해 주세요.",
+    'nl.msgInvalid': '올바른 이메일 주소를 입력해 주세요.',
+    'nl.sending': '보내는 중…',
 
     'nl.msgNet': "연결이 불안정해요 — 잠시 후 다시 시도해 주세요.",
     'a11y.breadcrumb': '현재 위치',
@@ -948,6 +952,8 @@ export const ui = {
     'nl.msgOk': "メールの確認リンクを押してください — チェックリストはこちら",
 
     'nl.msgErr': "送信できませんでした。しばらくしてからもう一度お試しください。",
+    'nl.msgInvalid': '有効なメールアドレスを入力してください。',
+    'nl.sending': '送信中…',
 
     'nl.msgNet': "接続が不安定です — しばらくしてからもう一度お試しください。",
     'a11y.breadcrumb': 'パンくずリスト',
@@ -1411,6 +1417,8 @@ export const ui = {
     'nl.msgOk': "Confirma desde tu correo — mientras tanto, tu checklist",
 
     'nl.msgErr': "No se pudo enviar. Inténtalo de nuevo en un momento.",
+    'nl.msgInvalid': 'Introduce una dirección de correo válida.',
+    'nl.sending': 'Enviando…',
 
     'nl.msgNet': "Problema de conexión: inténtalo de nuevo en un momento.",
     'a11y.breadcrumb': 'Ruta de navegación',
@@ -1874,6 +1882,8 @@ export const ui = {
     'nl.msgOk': "请点击邮件中的确认链接 — 先来看看清单",
 
     'nl.msgErr': "提交失败，请稍后再试。",
+    'nl.msgInvalid': '请输入有效的邮箱地址。',
+    'nl.sending': '发送中…',
 
     'nl.msgNet': "网络不稳定 — 请稍后再试。",
     'a11y.breadcrumb': '面包屑导航',

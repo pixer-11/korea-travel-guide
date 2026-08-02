@@ -22,7 +22,8 @@ const itineraryUrl = new URL(Astro.url.pathname, Astro.site ?? 'https://wanderat
   <p class="itin-email-dek">{t('itin.emailDek')}</p>
   <form class="nl-form itin-email-form" data-ml-action="/api/subscribe" novalidate
     data-ok-plain="1" data-via="itinerary"
-    data-msg-ok={t('itin.emailOk')} data-msg-err={t('nl.msgErr')} data-msg-net={t('nl.msgNet')}>
+    data-msg-ok={t('itin.emailOk')} data-msg-err={t('nl.msgErr')} data-msg-net={t('nl.msgNet')}
+    data-msg-invalid={t('nl.msgInvalid')} data-sending={t('nl.sending')}>
     <input type="email" name="email" placeholder="you@email.com" aria-label={t('a11y.email')} autocomplete="email" required />
     <input type="hidden" name="region" value={interest.region} />
     <input type="hidden" name="lang" value={interest.lang} />
@@ -52,6 +53,7 @@ const itineraryUrl = new URL(Astro.url.pathname, Astro.site ?? 'https://wanderat
   .itin-email-form { display: flex; gap: 0.55rem; flex-wrap: wrap; }
   .itin-email-form input[type='email'] {
     flex: 1 1 220px;
+    min-width: 0;
     border: 1px solid var(--line);
     border-radius: var(--r-sm, 8px);
     padding: 0.6rem 0.8rem;
@@ -59,11 +61,25 @@ const itineraryUrl = new URL(Astro.url.pathname, Astro.site ?? 'https://wanderat
     background: var(--surface);
     color: inherit;
   }
+  @media (max-width: 640px) {
+    /* global.css stacks .nl-form into a COLUMN here, which re-reads the
+       220px flex-basis as a 220px-TALL input — the card ballooned to 420px
+       with a giant empty box in it. Basis off, full width instead.
+       16px is also the floor below which iOS Safari zooms the page on focus. */
+    .itin-email-form input[type='email'] { flex: 0 0 auto; width: 100%; font-size: 16px; }
+  }
   .itin-email :global(.nl-note) { font-size: 0.88rem; margin: 0.6rem 0 0; }
   .itin-email :global(.nl-note-ok) { color: var(--accent-text); font-weight: 600; }
-  /* global.css styles .nl-form .btn-primary WHITE for the dark newsletter
-     band; on this cream card that reads as a ghost button, so restore the
-     accent fill. */
-  .itin-email-form :global(.btn-primary) { background: var(--accent); color: #fff; border-radius: var(--r-pill, 999px); }
-  .itin-email-form :global(.btn-primary:hover) { background: var(--accent-deep); color: #fff; }
+  /* Specificity here has to beat BOTH `.nl-form .btn-primary` (white — meant
+     for the dark newsletter band, a ghost button on this cream card) and the
+     global dark-mode fill correction, hence the doubled class. */
+  .itin-email .itin-email-form :global(.btn-primary) { background: var(--accent); color: #fff; border-radius: var(--r-pill, 999px); }
+  .itin-email .itin-email-form :global(.btn-primary:hover) { background: var(--accent-deep); color: #fff; }
+  /* In dark mode --accent lightens (#e0685c) for TEXT legibility; as a FILL
+     behind white it measures 3.33:1 and fails AA. Same deep vermilion the
+     rest of the site's buttons fall back to. */
+  @media (prefers-color-scheme: dark) {
+    :global(:root:not([data-theme='light'])) .itin-email .itin-email-form :global(.btn-primary) { background: #b3443a; }
+  }
+  :global(:root[data-theme='dark']) .itin-email .itin-email-form :global(.btn-primary) { background: #b3443a; }
 </style>
