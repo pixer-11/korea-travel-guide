@@ -243,9 +243,28 @@ async function handleSubscribe(request, env) {
         signupGroupId = (g.data || []).find((x) => x.name === SIGNUP_GROUP)?.id || null;
       } catch { /* group lookup failing must not block the signup itself */ }
     }
+    // Double opt-in. The Connect API defaults a created subscriber to
+    // `active`, which silently skipped confirmation the moment we moved off
+    // the form endpoint: every page promised a confirmation link that never
+    // arrived, and anyone could sign a stranger up. Creating them as
+    // `unconfirmed` hands the confirmation email back to MailerLite.
+    // NEVER downgrade an existing active subscriber (they'd stop receiving
+    // the newsletter) or resurrect an unsubscribed one (that ignores their
+    // opt-out) — only new and still-unconfirmed records carry the status.
+    let keepStatus = false;
+    try {
+      const cur = await ml(env, `/subscribers/${encodeURIComponent(email)}`);
+      const s = cur?.data?.status;
+      keepStatus = s === 'active' || s === 'unsubscribed';
+    } catch { /* unknown email — a genuinely new signup */ }
     const upsert = (f) => ml(env, '/subscribers', {
       method: 'POST',
-      body: JSON.stringify({ email, fields: f, ...(signupGroupId ? { groups: [signupGroupId] } : {}) }),
+      body: JSON.stringify({
+        email,
+        fields: f,
+        ...(signupGroupId ? { groups: [signupGroupId] } : {}),
+        ...(keepStatus ? {} : { status: 'unconfirmed' }),
+      }),
     });
     try {
       await upsert(fields);
