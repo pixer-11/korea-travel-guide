@@ -1,45 +1,45 @@
 ---
-title: "Plaza Mayor: Madrid Travel Guide"
-description: "Plaza Mayor is Madrid's grand 17th-century arcaded square in the Centro district, a five-minute walk south of Puerta del Sol — come for the architecture"
-country: "Spain"
-region: "Madrid"
-category: "attraction"
-pubDate: "2026-08-02T09:50:04.608Z"
+title: 'Plaza Mayor: Madrid Travel Guide'
+description: Plaza Mayor is Madrid's grand 17th-century arcaded square in the Centro district, a five-minute walk south of Puerta del Sol — come for the architecture and the equestrian statue of Philip III, but eat elsewhere, since the arcade cafés are priced for tourists.
+country: Spain
+region: Madrid
+category: attraction
+pubDate: '2026-08-02T09:50:04.608Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Plaza_Mayor_de_Madrid_-_01.jpg/3840px-Plaza_Mayor_de_Madrid_-_01.jpg"
-  credit: "Photo: Carlos Delgado / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Plaza_Mayor_de_Madrid_-_01.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Plaza_Mayor_de_Madrid_-_01.jpg/3840px-Plaza_Mayor_de_Madrid_-_01.jpg
+  credit: 'Photo: Carlos Delgado / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Plaza_Mayor_de_Madrid_-_01.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Windows_at_Plaza_Mayor_-_Madrid_%282%29.JPG/3840px-Windows_at_Plaza_Mayor_-_Madrid_%282%29.JPG"
-    credit: "Photo: José Luiz / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Windows_at_Plaza_Mayor_-_Madrid_(2).JPG"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Windows_at_Plaza_Mayor_-_Madrid_%282%29.JPG/3840px-Windows_at_Plaza_Mayor_-_Madrid_%282%29.JPG
+    credit: 'Photo: José Luiz / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Windows_at_Plaza_Mayor_-_Madrid_(2).JPG
 place:
-  id: "ChIJZX56134oQg0RHBgRAVQ8pkk"
-  name: "Plaza Mayor"
-  address: "Pl. Mayor, Centro, 28012 Madrid, Spain"
+  id: ChIJZX56134oQg0RHBgRAVQ8pkk
+  name: Plaza Mayor
+  address: Pl. Mayor, Centro, 28012 Madrid, Spain
   rating: 4.6
   userRatingsTotal: 202856
-  googleMapsUrl: "https://maps.google.com/?cid=5306995542395525148&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=5306995542395525148&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 40.415510999999995
   lng: -3.7074008999999997
 tags:
-  - "madrid"
-  - "top attraction"
-quickAnswer: "Plaza Mayor is Madrid's grand 17th-century arcaded square in the Centro district, a five-minute walk south of Puerta del Sol — come for the architecture and the equestrian statue of Philip III, but eat elsewhere, since the arcade cafés are priced for tourists. Arrive early morning or after dark to see it without the crowds; midday is packed."
+  - madrid
+  - top attraction
+quickAnswer: Plaza Mayor is Madrid's grand 17th-century arcaded square in the Centro district, a five-minute walk south of Puerta del Sol — come for the architecture and the equestrian statue of Philip III, but eat elsewhere, since the arcade cafés are priced for tourists. Arrive early morning or after dark to see it without the crowds; midday is packed.
 faq:
-  - q: "How do I get to Plaza Mayor by metro?"
-    a: "Take Line 1, 2, or 3 to Sol station, then walk about five minutes down Calle Mayor. Ópera (Lines 2 and 5) is a similarly short walk from the west side."
-  - q: "Is there an entry fee?"
-    a: "No, Plaza Mayor is a public square with free, open access at all times."
-  - q: "When is the quietest time to visit?"
-    a: "Early morning, around 8-9am, before tour groups arrive, or after dinner in the evening when the plaza is lit up and less crowded. Avoid roughly midday to early evening on weekends."
-  - q: "How long should I spend there?"
-    a: "Fifteen to twenty minutes is enough to walk the arcade, see the statue of Philip III, and admire the Casa de la Panadería's painted façade."
-  - q: "Should I eat at the cafés in the plaza?"
-    a: "They're convenient for a coffee but priced for tourists. For better value and food, walk two minutes to Cava Baja's tapas bars or Mercado de San Miguel."
+  - q: How do I get to Plaza Mayor by metro?
+    a: Take Line 1, 2, or 3 to Sol station, then walk about five minutes down Calle Mayor. Ópera (Lines 2 and 5) is a similarly short walk from the west side.
+  - q: Is there an entry fee?
+    a: No, Plaza Mayor is a public square with free, open access at all times.
+  - q: When is the quietest time to visit?
+    a: Early morning, around 8-9am, before tour groups arrive, or after dinner in the evening when the plaza is lit up and less crowded. Avoid roughly midday to early evening on weekends.
+  - q: How long should I spend there?
+    a: Fifteen to twenty minutes is enough to walk the arcade, see the statue of Philip III, and admire the Casa de la Panadería's painted façade.
+  - q: Should I eat at the cafés in the plaza?
+    a: They're convenient for a coffee but priced for tourists. For better value and food, walk two minutes to Cava Baja's tapas bars or Mercado de San Miguel.
 aiGenerated: true
 draft: false
 ---

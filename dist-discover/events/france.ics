@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Wander Atlas//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Wander Atlas — France events
+X-WR-CALDESC:Upcoming festivals and events in France\, from Wander Atlas.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:nice-finish-various-french-stages-tour-de-france-femmes-avec-zwift@wan
+ deratlasguides.com
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260810
+SUMMARY:Tour de France Femmes avec Zwift
+DESCRIPTION:The 2026 Tour de France Femmes avec Zwift runs August 1–9\, 
+ with a Grand Départ in Lausanne\, Switzerland\, a summit stage on Mont V
+ entoux\, and the finale on the Promenade des Anglais in Nice.
+LOCATION:Nice\, France
+URL:https://wanderatlasguides.com/posts/nice-finish-various-french-stages-
+ tour-de-france-femmes-avec-zwift
+END:VEVENT
+BEGIN:VEVENT
+UID:paris-saint-denis-european-aquatics-championships@wanderatlasguides.com
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260817
+SUMMARY:European Aquatics Championships
+DESCRIPTION:The European Aquatics Championships run August 1–16\, 2026\,
+  in Paris and Saint-Denis\, using venues built or repurposed for the Pari
+ s 2024 Olympics\, most notably the Paris La Défense Arena and the Olympi
+ c Aquatics Centre in Saint-Denis.
+LOCATION:Paris\, France
+URL:https://wanderatlasguides.com/posts/paris-saint-denis-european-aquatic
+ s-championships
+END:VEVENT
+BEGIN:VEVENT
+UID:saint-cloud-paris-region-rock-en-seine-2026@wanderatlasguides.com
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260831
+SUMMARY:Rock en Seine 2026
+DESCRIPTION:Rock en Seine 2026 runs August 26–30\, 2026 at the Domaine n
+ ational de Saint-Cloud\, just west of Paris\, with The Cure\, Nick Cave &
+  The Bad Seeds and Tyler\, the Creator headlining alongside Deftones\, Tu
+ rnstile and more.
+LOCATION:Saint-Cloud\, France
+URL:https://wanderatlasguides.com/posts/saint-cloud-paris-region-rock-en-s
+ eine-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:strasbourg-christmas-in-alsace@wanderatlasguides.com
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261228
+SUMMARY:Christmas in Alsace
+DESCRIPTION:Strasbourg's Christmas Market (Marché de Noël) runs from lat
+ e November through December 24-31\, spread across a dozen squares in the 
+ city center\, with Place Kléber's giant tree and Place de la Cathédrale
+  as the anchor points.
+LOCATION:Strasbourg\, France
+URL:https://wanderatlasguides.com/posts/strasbourg-christmas-in-alsace
+END:VEVENT
+END:VCALENDAR

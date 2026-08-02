@@ -1,41 +1,41 @@
 ---
-title: "Palace of Versailles: Paris Travel Guide"
-description: "Go on a Tuesday, Wednesday or Friday, arrive right at 9am when the gates open, and book a timed-entry ticket online in advance — Versailles is closed Mondays"
-country: "France"
-region: "Paris"
-category: "attraction"
-pubDate: "2026-08-02T09:27:37.941Z"
+title: 'Palace of Versailles: Paris Travel Guide'
+description: Go on a Tuesday, Wednesday or Friday, arrive right at 9am when the gates open, and book a timed-entry ticket online in advance — Versailles is closed Mondays and runs 9am–5:30pm the rest of the week.
+country: France
+region: Paris
+category: attraction
+pubDate: '2026-08-02T09:27:37.941Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_081_%28cropped%29.jpg/1920px-Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_081_%28cropped%29.jpg"
-  credit: "Photo: ToucanWings / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_081_(cropped).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_081_%28cropped%29.jpg/1920px-Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_081_%28cropped%29.jpg
+  credit: 'Photo: ToucanWings / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_081_(cropped).jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/f/f5/A_sculpture_at_the_entrance_to_the_palace_of_Versailles.jpg"
-    credit: "Photo: Jean-Baptiste Tuby / After Charles Le Brun / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:A_sculpture_at_the_entrance_to_the_palace_of_Versailles.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/f/f5/A_sculpture_at_the_entrance_to_the_palace_of_Versailles.jpg
+    credit: 'Photo: Jean-Baptiste Tuby / After Charles Le Brun / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:A_sculpture_at_the_entrance_to_the_palace_of_Versailles.jpg
 place:
-  id: "ChIJdUyx15R95kcRj85ZX8H8OAU"
-  name: "Palace of Versailles"
-  address: "Place d'Armes, 78000 Versailles, France"
+  id: ChIJdUyx15R95kcRj85ZX8H8OAU
+  name: Palace of Versailles
+  address: Place d'Armes, 78000 Versailles, France
   rating: 4.6
   userRatingsTotal: 169115
-  googleMapsUrl: "https://maps.google.com/?cid=376328476344045199&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=376328476344045199&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 48.8048649
   lng: 2.1203554
-  phone: "+33 1 30 83 78 00"
+  phone: +33 1 30 83 78 00
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 9:00 AM – 5:30 PM"
-    - "Wednesday: 9:00 AM – 5:30 PM"
-    - "Thursday: 9:00 AM – 5:30 PM"
-    - "Friday: 9:00 AM – 5:30 PM"
-    - "Saturday: 9:00 AM – 5:30 PM"
-    - "Sunday: 9:00 AM – 5:30 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 9:00 AM – 5:30 PM'
+    - 'Wednesday: 9:00 AM – 5:30 PM'
+    - 'Thursday: 9:00 AM – 5:30 PM'
+    - 'Friday: 9:00 AM – 5:30 PM'
+    - 'Saturday: 9:00 AM – 5:30 PM'
+    - 'Sunday: 9:00 AM – 5:30 PM'
   busyness:
-    updated: 2026-08-02
+    updated: 2026-08-02T00:00:00.000Z
     weekdayBusy:
       - 11
       - 12
@@ -49,22 +49,22 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_55414f384838585a35386a52636b3539523531787955644a496843"
+    venueId: ven_55414f384838585a35386a52636b3539523531787955644a496843
 tags:
-  - "paris"
-  - "Palace of Versailles"
-quickAnswer: "Go on a Tuesday, Wednesday or Friday, arrive right at 9am when the gates open, and book a timed-entry ticket online in advance — Versailles is closed Mondays and runs 9am–5:30pm the rest of the week. Avoid arriving between 11am and 5pm on weekends, when the courtyard and Hall of Mirrors get seriously congested. Set aside a full day: half for the palace, half for the gardens and Marie-Antoinette's estate."
+  - paris
+  - Palace of Versailles
+quickAnswer: 'Go on a Tuesday, Wednesday or Friday, arrive right at 9am when the gates open, and book a timed-entry ticket online in advance — Versailles is closed Mondays and runs 9am–5:30pm the rest of the week. Avoid arriving between 11am and 5pm on weekends, when the courtyard and Hall of Mirrors get seriously congested. Set aside a full day: half for the palace, half for the gardens and Marie-Antoinette''s estate.'
 faq:
-  - q: "Do I need to book tickets in advance?"
-    a: "Yes — booking a timed-entry ticket online ahead of time is strongly recommended. Walk-up lines at the palace entrance can take well over an hour, especially on weekends."
-  - q: "What's the best day and time to visit to avoid crowds?"
-    a: "Go on a Tuesday, Wednesday, or Friday and arrive right at 9am opening. Avoid weekends between 11am and 5pm, when the palace and courtyard are at their busiest."
-  - q: "How do I get to Versailles from central Paris?"
-    a: "Take RER C to Versailles Château – Rive Gauche station (about 35–45 minutes from central Paris stops like Saint-Michel Notre-Dame or Invalides), then walk a few minutes to the palace gates. Make sure your ticket covers Zone 4."
-  - q: "How much time should I set aside?"
-    a: "Plan for a full day. Give the palace interior 2–3 hours, then allow another 3–4 hours for the gardens, Grand Canal, and the Trianon palaces and Hameau if you want to see the full estate."
-  - q: "Is Versailles open every day?"
-    a: "No — it's closed on Mondays. Tuesday through Sunday it's open 9:00 AM to 5:30 PM, with no late-night hours, so plan your arrival accordingly."
+  - q: Do I need to book tickets in advance?
+    a: Yes — booking a timed-entry ticket online ahead of time is strongly recommended. Walk-up lines at the palace entrance can take well over an hour, especially on weekends.
+  - q: What's the best day and time to visit to avoid crowds?
+    a: Go on a Tuesday, Wednesday, or Friday and arrive right at 9am opening. Avoid weekends between 11am and 5pm, when the palace and courtyard are at their busiest.
+  - q: How do I get to Versailles from central Paris?
+    a: Take RER C to Versailles Château – Rive Gauche station (about 35–45 minutes from central Paris stops like Saint-Michel Notre-Dame or Invalides), then walk a few minutes to the palace gates. Make sure your ticket covers Zone 4.
+  - q: How much time should I set aside?
+    a: Plan for a full day. Give the palace interior 2–3 hours, then allow another 3–4 hours for the gardens, Grand Canal, and the Trianon palaces and Hameau if you want to see the full estate.
+  - q: Is Versailles open every day?
+    a: No — it's closed on Mondays. Tuesday through Sunday it's open 9:00 AM to 5:30 PM, with no late-night hours, so plan your arrival accordingly.
 aiGenerated: true
 draft: false
 ---

@@ -1,37 +1,37 @@
 ---
-title: "Gangchon Rail Park: Chuncheon Travel Guide"
-description: "Gangchon Rail Park, in Sindong-myeon just outside Chuncheon, lets you pedal four-seat rail bikes along a converted train line through tunnels and over"
-country: "South Korea"
-region: "Chuncheon"
-category: "hidden-gem"
-pubDate: "2026-08-02T09:52:28.403Z"
+title: 'Gangchon Rail Park: Chuncheon Travel Guide'
+description: Gangchon Rail Park, in Sindong-myeon just outside Chuncheon, lets you pedal four-seat rail bikes along a converted train line through tunnels and over a river-view trestle bridge — a roughly 40–50 minute ride covering about 8km one-way (with a shuttle back).
+country: South Korea
+region: Chuncheon
+category: hidden-gem
+pubDate: '2026-08-02T09:52:28.403Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Gangchon_Rail_Park_train_-_54971861637.jpg/3840px-Gangchon_Rail_Park_train_-_54971861637.jpg"
-  credit: "Photo: Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Gangchon_Rail_Park_train_-_54971861637.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Gangchon_Rail_Park_train_-_54971861637.jpg/3840px-Gangchon_Rail_Park_train_-_54971861637.jpg
+  credit: 'Photo: Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Gangchon_Rail_Park_train_-_54971861637.jpg
 gallery: []
 place:
-  id: "ChIJ8bG2yNLlYjUR6hyziKi0MK0"
-  name: "Gangchon Rail Park"
-  address: "1383 Gimyujeong-ro, Sindong-myeon, Chuncheon, Gangwon-do, South Korea"
+  id: ChIJ8bG2yNLlYjUR6hyziKi0MK0
+  name: Gangchon Rail Park
+  address: 1383 Gimyujeong-ro, Sindong-myeon, Chuncheon, Gangwon-do, South Korea
   rating: 4.4
   userRatingsTotal: 6996
-  googleMapsUrl: "https://maps.google.com/?cid=12479673203384589546&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=12479673203384589546&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.816937599999996
   lng: 127.71336079999998
-  phone: "+82 33-245-1000"
+  phone: +82 33-245-1000
   openingHours:
-    - "Monday: 9:00 AM – 5:30 PM"
-    - "Tuesday: 9:00 AM – 5:30 PM"
-    - "Wednesday: 9:00 AM – 5:30 PM"
-    - "Thursday: 9:00 AM – 5:30 PM"
-    - "Friday: 9:00 AM – 5:30 PM"
-    - "Saturday: 9:00 AM – 5:30 PM"
-    - "Sunday: 9:00 AM – 5:30 PM"
+    - 'Monday: 9:00 AM – 5:30 PM'
+    - 'Tuesday: 9:00 AM – 5:30 PM'
+    - 'Wednesday: 9:00 AM – 5:30 PM'
+    - 'Thursday: 9:00 AM – 5:30 PM'
+    - 'Friday: 9:00 AM – 5:30 PM'
+    - 'Saturday: 9:00 AM – 5:30 PM'
+    - 'Sunday: 9:00 AM – 5:30 PM'
   busyness:
-    updated: 2026-08-02
+    updated: 2026-08-02T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 10
@@ -42,22 +42,22 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_304b4d30694b697a79683652556a596c4c4e79324762384a496843"
+    venueId: ven_304b4d30694b697a79683652556a596c4c4e79324762384a496843
 tags:
-  - "chuncheon"
-  - "hidden gem"
-quickAnswer: "Gangchon Rail Park, in Sindong-myeon just outside Chuncheon, lets you pedal four-seat rail bikes along a converted train line through tunnels and over a river-view trestle bridge — a roughly 40–50 minute ride covering about 8km one-way (with a shuttle back). It's open daily 9:00 AM–5:30 PM; go on a weekday morning between 9 and 11am to beat the crowds, since weekends from 11am to 5pm get packed. Book a departure slot online or by phone in advance, especially for weekend visits."
+  - chuncheon
+  - hidden gem
+quickAnswer: Gangchon Rail Park, in Sindong-myeon just outside Chuncheon, lets you pedal four-seat rail bikes along a converted train line through tunnels and over a river-view trestle bridge — a roughly 40–50 minute ride covering about 8km one-way (with a shuttle back). It's open daily 9:00 AM–5:30 PM; go on a weekday morning between 9 and 11am to beat the crowds, since weekends from 11am to 5pm get packed. Book a departure slot online or by phone in advance, especially for weekend visits.
 faq:
-  - q: "How long does the Gangchon Rail Park ride take?"
-    a: "The one-way rail bike route is about 8km and takes roughly 40–50 minutes, followed by a shuttle bus back to the start, so plan for around 1.5–2 hours total including boarding."
-  - q: "What's the quietest time to visit?"
-    a: "Weekdays between 9am and 11am, right after the park opens at 9:00 AM, are the calmest. Weekends from 11am to 5pm are the busiest window and worth avoiding if you can."
-  - q: "Do I need to book in advance?"
-    a: "Yes — departures run on fixed time slots that can sell out, especially on weekends and during autumn foliage season, so reserve online or by phone ahead of your visit."
-  - q: "How do I get to Gangchon Rail Park from Seoul?"
-    a: "Take the ITX-Cheongchun train on the Gyeongchun Line from Yongsan or Cheongnyangni to Gangchon or Gimyujeong Station (just over an hour), then a short taxi ride to the park entrance in Sindong-myeon."
-  - q: "What else is nearby?"
-    a: "Gangchon town has cafés and restaurants for a post-ride lunch, and the area's rail-trail paths and riverside scenery make for an easy extension of the visit before heading back into central Chuncheon."
+  - q: How long does the Gangchon Rail Park ride take?
+    a: The one-way rail bike route is about 8km and takes roughly 40–50 minutes, followed by a shuttle bus back to the start, so plan for around 1.5–2 hours total including boarding.
+  - q: What's the quietest time to visit?
+    a: Weekdays between 9am and 11am, right after the park opens at 9:00 AM, are the calmest. Weekends from 11am to 5pm are the busiest window and worth avoiding if you can.
+  - q: Do I need to book in advance?
+    a: Yes — departures run on fixed time slots that can sell out, especially on weekends and during autumn foliage season, so reserve online or by phone ahead of your visit.
+  - q: How do I get to Gangchon Rail Park from Seoul?
+    a: Take the ITX-Cheongchun train on the Gyeongchun Line from Yongsan or Cheongnyangni to Gangchon or Gimyujeong Station (just over an hour), then a short taxi ride to the park entrance in Sindong-myeon.
+  - q: What else is nearby?
+    a: Gangchon town has cafés and restaurants for a post-ride lunch, and the area's rail-trail paths and riverside scenery make for an easy extension of the visit before heading back into central Chuncheon.
 aiGenerated: true
 draft: false
 ---

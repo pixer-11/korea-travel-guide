@@ -802,16 +802,23 @@ function assemble(target, place, title, heroImage, gallery, content) {
     const cut = s.slice(0, n);
     const lastPunct = Math.max(cut.lastIndexOf('. '), cut.lastIndexOf('! '), cut.lastIndexOf('? '));
     if (lastPunct >= 60) return cut.slice(0, lastPunct + 1).trim();
-    // No sentence fits — trim to a word and drop trailing punctuation/conjunction
-    // rather than leaving a mid-clause "…" (which reads as unfinished in SERPs).
-    // The word-trim alone once left a description ending "…10am–5pm (closed" —
-    // the cut landed inside a parenthetical, and the dangling "closed" read as
-    // a closed-day claim that quarantined the post. Drop an unclosed trailing
-    // parenthetical and any dangling connective ("climb to", "and") too.
-    return cut.replace(/\s+\S*$/, '')
+    // No sentence boundary inside the limit. The word-trim fallback below
+    // shipped a fragment on ALL 16 posts of the first post-gate publish
+    // (2026-08-02: "…so you can eat before or after", "…so aim") — the
+    // writer's answer-first style routinely opens with a 200-char sentence,
+    // so the "rare" fallback was actually the common case, and every
+    // fragment then re-translated into four more fragments. A slightly-long
+    // COMPLETE sentence beats a 158-char stump: Google truncates display on
+    // its own, and the validator's TRUNCATED-DESCRIPTION gate stays quiet.
+    const sentEnd = s.slice(n).search(/[.!?](\s|$)/);
+    if (sentEnd >= 0 && n + sentEnd < 300) return s.slice(0, n + sentEnd + 1).trim();
+    // First sentence longer than ~300 chars (rare): keep the word-trimmed
+    // fragment but close it as a sentence so nothing dangles.
+    const frag = cut.replace(/\s+\S*$/, '')
       .replace(/\s*\([^)]*$/, '')
       .replace(/(?:\s+(?:and|or|but|so|to|the|an?|with|for|at|on|in|from|by|of))+$/i, '')
       .replace(/[\s,;:.\-–—]+$/, '').trim();
+    return frag + '.';
   };
   const description = qa
     ? clip(qa)

@@ -102,6 +102,13 @@ export function hoursProblems(raw) {
     for (const m of prose.matchAll(/\b(\d{1,2})(?::(\d{2}))?\s*(am|pm|a\.m\.|p\.m\.)\b/gi)) {
       const min = toMin(m[1], m[2], m[3]);
       if (seen.has(min)) continue;
+      // A warning about an out-of-hours time is CORRECT prose, not a
+      // recommendation: "the most common visitor mistake is showing up at
+      // 4:01pm expecting it's still open" got chicago-sawada-coffee
+      // quarantined twice (2026-08-02) with nothing for the fixer to fix —
+      // same negation lesson the closed-day rule already learned.
+      const before = prose.slice(Math.max(0, m.index - 80), m.index);
+      if (/(mistake|don'?t|do not|avoid|too late|miss(es|ed)?|closed|shut|no longer|instead of|rather than|expecting)\b[^.]*$/i.test(before)) continue;
       seen.add(min);
       const ok = open.some((p) => inAnyRange(min, p.ranges));
       if (!ok) found.push(`prose says ${m[0]}, outside every day's hours (${lines[0]} … )`);

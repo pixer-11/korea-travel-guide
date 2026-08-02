@@ -1,18 +1,18 @@
 ---
-title: "Basilica of Santa Croce in Florence: Travel Guide"
-description: Santa Croce is Florence's great Franciscan basilica on Piazza di Santa Croce, famous for Giotto's frescoes and the tombs of Michelangelo, Galileo
+title: 'Basilica of Santa Croce in Florence: Travel Guide'
+description: Santa Croce is Florence's great Franciscan basilica on Piazza di Santa Croce, famous for Giotto's frescoes and the tombs of Michelangelo, Galileo, and Machiavelli.
 country: Italy
 region: Florence
 category: hidden-gem
-pubDate: "2026-08-02T09:33:43.395Z"
+pubDate: '2026-08-02T09:33:43.395Z'
 heroImage:
   url: https://upload.wikimedia.org/wikipedia/commons/8/8c/View_of_Basilica_of_Santa_Croce_from_Giotto%27s_Bell_Tower._Florence%2C_Italy.jpg
-  credit: "Photo: Ввласенко / Wikimedia Commons (CC BY-SA 3.0)"
+  credit: 'Photo: Ввласенко / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:View_of_Basilica_of_Santa_Croce_from_Giotto%27s_Bell_Tower._Florence,_Italy.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Basilica_di_Santa_Croce_%2812437%29.jpg/3840px-Basilica_di_Santa_Croce_%2812437%29.jpg
-    credit: "Photo: Rhododendrites / Wikimedia Commons (CC BY-SA 4.0)"
+    credit: 'Photo: Rhododendrites / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Basilica_di_Santa_Croce_(12437).jpg
 place:
@@ -27,13 +27,13 @@ place:
   lng: 11.262267699999999
   phone: +39 055 200 8789
   openingHours:
-    - "Monday: 9:30 AM – 5:30 PM"
-    - "Tuesday: 9:30 AM – 5:30 PM"
-    - "Wednesday: 9:30 AM – 5:30 PM"
-    - "Thursday: 9:30 AM – 5:30 PM"
-    - "Friday: 9:30 AM – 5:30 PM"
-    - "Saturday: 9:30 AM – 5:30 PM"
-    - "Sunday: 12:30 – 5:45 PM"
+    - 'Monday: 9:30 AM – 5:30 PM'
+    - 'Tuesday: 9:30 AM – 5:30 PM'
+    - 'Wednesday: 9:30 AM – 5:30 PM'
+    - 'Thursday: 9:30 AM – 5:30 PM'
+    - 'Friday: 9:30 AM – 5:30 PM'
+    - 'Saturday: 9:30 AM – 5:30 PM'
+    - 'Sunday: 12:30 – 5:45 PM'
   busyness:
     updated: 2026-08-02T00:00:00.000Z
     weekdayQuiet:
@@ -62,7 +62,7 @@ faq:
   - q: How do I get to Santa Croce from the train station?
     a: From Firenze Santa Maria Novella it's about a 20–25 minute walk east through the historic center, or a short bus/taxi ride. On foot from the Duomo, it's roughly 10–15 minutes.
   - q: Is Santa Croce worth it if I've already seen the Duomo and Uffizi?
-    a: "Yes — it holds a different draw: the tombs of Michelangelo, Galileo, and Machiavelli, plus Giotto's frescoes and Brunelleschi's Pazzi Chapel, none of which overlap with those other sights."
+    a: 'Yes — it holds a different draw: the tombs of Michelangelo, Galileo, and Machiavelli, plus Giotto''s frescoes and Brunelleschi''s Pazzi Chapel, none of which overlap with those other sights.'
 aiGenerated: true
 draft: false
 ---

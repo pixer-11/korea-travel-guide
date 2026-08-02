@@ -1,38 +1,38 @@
 ---
-title: "Tim Ho Wan (Central): Where to Eat in Hong Kong"
-description: "Tim Ho Wan in Central sits inside the Hong Kong Station MTR concourse (Shop 12A & 12B, Level 1), open daily 9am–9pm, so you can eat before or after"
-country: "China"
-region: "Hong Kong"
-category: "restaurant"
-pubDate: "2026-08-02T09:37:13.741Z"
+title: 'Tim Ho Wan (Central): Where to Eat in Hong Kong'
+description: Tim Ho Wan in Central sits inside the Hong Kong Station MTR concourse (Shop 12A & 12B, Level 1), open daily 9am–9pm, so you can eat before or after the Airport Express without ever surfacing into the street.
+country: China
+region: Hong Kong
+category: restaurant
+pubDate: '2026-08-02T09:37:13.741Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/HK_SKD_TKO_%E5%AF%B6%E7%90%B3_Po_Lam_Metro_City_Plaza_%E6%96%B0%E9%83%BD%E5%9F%8E_MCP_Two_II_Central_mall_%E6%B7%BB%E5%A5%BD%E9%81%8B_Tim_Ho_Wan_Restaurant_December_2022_Px3_03.jpg/3840px-HK_SKD_TKO_%E5%AF%B6%E7%90%B3_Po_Lam_Metro_City_Plaza_%E6%96%B0%E9%83%BD%E5%9F%8E_MCP_Two_II_Central_mall_%E6%B7%BB%E5%A5%BD%E9%81%8B_Tim_Ho_Wan_Restaurant_December_2022_Px3_03.jpg"
-  credit: "Photo: AASJAJDHagb HUYING / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:HK_SKD_TKO_%E5%AF%B6%E7%90%B3_Po_Lam_Metro_City_Plaza_%E6%96%B0%E9%83%BD%E5%9F%8E_MCP_Two_II_Central_mall_%E6%B7%BB%E5%A5%BD%E9%81%8B_Tim_Ho_Wan_Restaurant_December_2022_Px3_03.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/HK_SKD_TKO_%E5%AF%B6%E7%90%B3_Po_Lam_Metro_City_Plaza_%E6%96%B0%E9%83%BD%E5%9F%8E_MCP_Two_II_Central_mall_%E6%B7%BB%E5%A5%BD%E9%81%8B_Tim_Ho_Wan_Restaurant_December_2022_Px3_03.jpg/3840px-HK_SKD_TKO_%E5%AF%B6%E7%90%B3_Po_Lam_Metro_City_Plaza_%E6%96%B0%E9%83%BD%E5%9F%8E_MCP_Two_II_Central_mall_%E6%B7%BB%E5%A5%BD%E9%81%8B_Tim_Ho_Wan_Restaurant_December_2022_Px3_03.jpg
+  credit: 'Photo: AASJAJDHagb HUYING / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:HK_SKD_TKO_%E5%AF%B6%E7%90%B3_Po_Lam_Metro_City_Plaza_%E6%96%B0%E9%83%BD%E5%9F%8E_MCP_Two_II_Central_mall_%E6%B7%BB%E5%A5%BD%E9%81%8B_Tim_Ho_Wan_Restaurant_December_2022_Px3_03.jpg
 gallery: []
 place:
-  id: "ChIJFaKIAGMABDQRN-JA3EpHFJc"
-  name: "Tim Ho Wan (Central)"
-  address: "Shop 12A & 12B, Level 1, MTR Hong Kong Station, Central, Hong Kong"
+  id: ChIJFaKIAGMABDQRN-JA3EpHFJc
+  name: Tim Ho Wan (Central)
+  address: Shop 12A & 12B, Level 1, MTR Hong Kong Station, Central, Hong Kong
   rating: 4.5
   userRatingsTotal: 11861
   priceLevel: 1
-  googleMapsUrl: "https://maps.google.com/?cid=10886404586109723191&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=10886404586109723191&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.284509399999997
   lng: 114.15814259999999
-  phone: "+852 2332 3078"
+  phone: +852 2332 3078
   openingHours:
-    - "Monday: 9:00 AM – 9:00 PM"
-    - "Tuesday: 9:00 AM – 9:00 PM"
-    - "Wednesday: 9:00 AM – 9:00 PM"
-    - "Thursday: 9:00 AM – 9:00 PM"
-    - "Friday: 9:00 AM – 9:00 PM"
-    - "Saturday: 9:00 AM – 9:00 PM"
-    - "Sunday: 9:00 AM – 9:00 PM"
+    - 'Monday: 9:00 AM – 9:00 PM'
+    - 'Tuesday: 9:00 AM – 9:00 PM'
+    - 'Wednesday: 9:00 AM – 9:00 PM'
+    - 'Thursday: 9:00 AM – 9:00 PM'
+    - 'Friday: 9:00 AM – 9:00 PM'
+    - 'Saturday: 9:00 AM – 9:00 PM'
+    - 'Sunday: 9:00 AM – 9:00 PM'
   busyness:
-    updated: 2026-08-02
+    updated: 2026-08-02T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 20
@@ -47,22 +47,22 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_634a4648704533414a2d4e52514442414d4741494b61464a496843"
+    venueId: ven_634a4648704533414a2d4e52514442414d4741494b61464a496843
 tags:
-  - "hong kong"
-  - "local restaurant"
-quickAnswer: "Tim Ho Wan in Central sits inside the Hong Kong Station MTR concourse (Shop 12A & 12B, Level 1), open daily 9am–9pm, so you can eat before or after the Airport Express without ever surfacing into the street. Go right at opening or, on weekends, before 10am — after 11am the queue ticket machine becomes the only sane way in and lines run until 7pm. Order the baked BBQ pork buns and the rice noodle rolls no matter what else you get; this is still budget-friendly, cash-or-card dim sum, and 20–40 minutes is enough for a full meal."
+  - hong kong
+  - local restaurant
+quickAnswer: Tim Ho Wan in Central sits inside the Hong Kong Station MTR concourse (Shop 12A & 12B, Level 1), open daily 9am–9pm, so you can eat before or after the Airport Express without ever surfacing into the street. Go right at opening or, on weekends, before 10am — after 11am the queue ticket machine becomes the only sane way in and lines run until 7pm. Order the baked BBQ pork buns and the rice noodle rolls no matter what else you get; this is still budget-friendly, cash-or-card dim sum, and 20–40 minutes is enough for a full meal.
 faq:
-  - q: "Do I need a reservation?"
-    a: "No reservations — it runs on a first-come queue ticket system, especially once a line forms after 11am on weekends."
-  - q: "What's the quietest time to visit?"
-    a: "Weekdays are calm throughout the full 9am–9pm hours. On weekends, arrive between 9am and 10am; after 11am the queue builds and stays busy until around 7pm."
-  - q: "How much does a meal cost?"
-    a: "It's budget-friendly by Central standards — dim sum plates are inexpensive, and a full shared meal for two typically stays well under what you'd pay at a sit-down Central restaurant. Confirm current menu prices on-site since they can shift."
-  - q: "How do I get there by MTR?"
-    a: "It's built into Level 1 of Hong Kong Station (Airport Express and Tung Chung line terminus), with an underground connection to Central MTR Station on the Island Line and to IFC Mall."
-  - q: "How long should I plan to spend there?"
-    a: "20 to 40 minutes for a full sit-down meal is typical — turnover is quick and it's not a lingering, multi-hour tea house experience."
+  - q: Do I need a reservation?
+    a: No reservations — it runs on a first-come queue ticket system, especially once a line forms after 11am on weekends.
+  - q: What's the quietest time to visit?
+    a: Weekdays are calm throughout the full 9am–9pm hours. On weekends, arrive between 9am and 10am; after 11am the queue builds and stays busy until around 7pm.
+  - q: How much does a meal cost?
+    a: It's budget-friendly by Central standards — dim sum plates are inexpensive, and a full shared meal for two typically stays well under what you'd pay at a sit-down Central restaurant. Confirm current menu prices on-site since they can shift.
+  - q: How do I get there by MTR?
+    a: It's built into Level 1 of Hong Kong Station (Airport Express and Tung Chung line terminus), with an underground connection to Central MTR Station on the Island Line and to IFC Mall.
+  - q: How long should I plan to spend there?
+    a: 20 to 40 minutes for a full sit-down meal is typical — turnover is quick and it's not a lingering, multi-hour tea house experience.
 aiGenerated: true
 draft: false
 ---

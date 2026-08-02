@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Wander Atlas//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Wander Atlas — Singapore events
+X-WR-CALDESC:Upcoming festivals and events in Singapore\, from Wander Atla
+ s.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:singapore-david-byrne-who-is-the-sky-tour@wanderatlasguides.com
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:David Byrne: Who Is The Sky? Tour
+DESCRIPTION:David Byrne: Who Is The Sky? Tour in Singapore\, Singapore —
+  August 7\, 2026. What it is\, when and where\, and how to plan around it
+ .
+LOCATION:Singapore\, Singapore
+URL:https://wanderatlasguides.com/posts/singapore-david-byrne-who-is-the-s
+ ky-tour
+END:VEVENT
+BEGIN:VEVENT
+UID:singapore-the-weeknd-after-hours-til-dawn-hurry-up-tomorrow-tour@wande
+ ratlasguides.com
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:The Weeknd - After Hours Til Dawn/Hurry Up Tomorrow Tour
+DESCRIPTION:The Weeknd - After Hours Til Dawn/Hurry Up Tomorrow Tour in Si
+ ngapore\, Singapore — September 25\, 2026. What it is\, when and where\
+ , and how to plan around it.
+LOCATION:Singapore\, Singapore
+URL:https://wanderatlasguides.com/posts/singapore-the-weeknd-after-hours-t
+ il-dawn-hurry-up-tomorrow-tour
+END:VEVENT
+BEGIN:VEVENT
+UID:singapore-formula-1-singapore-grand-prix-2026@wanderatlasguides.com
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261012
+SUMMARY:Formula 1 Singapore Grand Prix 2026
+DESCRIPTION:Formula 1 Singapore Grand Prix 2026 in Singapore\, Singapore 
+ — October 9-11\, 2026. What it is\, when and where\, and how to plan ar
+ ound it.
+LOCATION:Singapore\, Singapore
+URL:https://wanderatlasguides.com/posts/singapore-formula-1-singapore-gran
+ d-prix-2026
+END:VEVENT
+END:VCALENDAR

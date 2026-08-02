@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Wander Atlas//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Wander Atlas — Taiwan events
+X-WR-CALDESC:Upcoming festivals and events in Taiwan\, from Wander Atlas.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:taipei-taipei-fringe-festival-2026@wanderatlasguides.com
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20261008
+SUMMARY:Taipei Fringe Festival 2026
+DESCRIPTION:Taipei Fringe Festival 2026 in Taipei\, Taiwan — August 23 -
+  October 7\, 2026. What it is\, when and where\, and how to plan around i
+ t.
+LOCATION:Taipei\, Taiwan
+URL:https://wanderatlasguides.com/posts/taipei-taipei-fringe-festival-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:taipei-itzy-tunnel-vision-world-tour-taipei@wanderatlasguides.com
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:ITZY TUNNEL VISION World Tour – Taipei
+DESCRIPTION:ITZY's TUNNEL VISION World Tour stops in Taipei on September 5
+ \, 2026\, at Taipei Arena (台北小巨蛋)\, where the group will perfor
+ m tracks from their 2026 EP Motto alongside past hits.
+LOCATION:Taipei\, Taiwan
+URL:https://wanderatlasguides.com/posts/taipei-itzy-tunnel-vision-world-to
+ ur-taipei
+END:VEVENT
+BEGIN:VEVENT
+UID:taipei-ive-world-tour-2026-show-what-i-am-taipei@wanderatlasguides.com
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260914
+SUMMARY:IVE World Tour 2026 "SHOW WHAT I AM" – Taipei
+DESCRIPTION:IVE World Tour 2026 "SHOW WHAT I AM" – Taipei in Taipei\, Ta
+ iwan — September 11-13\, 2026. What it is\, when and where\, and how to
+  plan around it.
+LOCATION:Taipei\, Taiwan
+URL:https://wanderatlasguides.com/posts/taipei-ive-world-tour-2026-show-wh
+ at-i-am-taipei
+END:VEVENT
+END:VCALENDAR

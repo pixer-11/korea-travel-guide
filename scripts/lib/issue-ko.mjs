@@ -191,6 +191,10 @@ export function koIssueLine(raw) {
   const PHRASES = [
     [/^PLACEHOLDER\/no image(?:\s*\[([^\]]+)\])?/, (mm) => `대표사진이 없음 — 자리표시 이미지로 발행됨${mm[1] ? ` (${mm[1]})` : ''}`],
     [/^TILDE unescaped/, () => '물결표(~)가 그대로 있어 본문 일부가 취소선으로 보임'],
+    // 2026-08-02 저녁 보고가 "실행 로그 확인 필요" 18줄로 온 원인 — 어제 새로
+    // 생긴 검사 코드 2종이 여기 미등록이었다. 새 검사를 추가하면 이 표도 함께.
+    [/TRUNCATED-DESCRIPTION/, () => '검색 요약문이 문장 중간에서 잘림'],
+    [/TOOL-SPILL/, () => 'AI 도구 출력이 글에 그대로 유출됨 (페이지 깨짐)'],
     [/^IMAGE MISMATCH suspect/, () => '대표사진이 주제와 무관해 보임'],
     [/^EVENT missing eventStartDate/, () => '행사 시작일이 비어 있음 — 정렬·만료·검색 노출 불가'],
     [/^NON-LATIN script in title/, () => '제목에 현지 문자가 섞여 있음'],

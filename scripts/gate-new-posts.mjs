@@ -56,9 +56,15 @@ const CHECKS = [
     cmd: 'node scripts/validate-content.mjs',
     // Only the post-level codes. A duplicate-image line names two files and is
     // about the pair, not about one bad post, so it is deliberately not here.
+    // TOOL-SPILL joined 2026-08-02: a writer response leaked raw tool syntax
+    // into quickAnswer with the ENTIRE article body inside — the page rendered
+    // a giant malformed answer box over an empty article, and as warning-only
+    // it still published. A broken page is exactly what this gate holds back.
+    // (TRUNCATED-DESCRIPTION stays a warning: cosmetic, and the generator now
+    // ends descriptions on full sentences.)
     pick: (l) =>
-      l.match(/(?:MISSING-COUNTRY|PHOTO-WRONG-VENUE|PLACEHOLDER\/no image|NON-LATIN script in title|BROKEN TITLE|GARBLED place\.name|EVENT missing eventStartDate|DUPLICATE event coverage|CONTRADICTORY event dates)[^:]*:\s*(\S+\.md)/)?.[1]
-      ?? l.match(/^\s*•\s*(?:MISSING-COUNTRY|PHOTO-WRONG-VENUE):\s*(\S+\.md)/)?.[1],
+      l.match(/(?:MISSING-COUNTRY|PHOTO-WRONG-VENUE|TOOL-SPILL|PLACEHOLDER\/no image|NON-LATIN script in title|BROKEN TITLE|GARBLED place\.name|EVENT missing eventStartDate|DUPLICATE event coverage|CONTRADICTORY event dates)[^:]*:\s*(\S+\.md)/)?.[1]
+      ?? l.match(/^\s*•\s*(?:MISSING-COUNTRY|PHOTO-WRONG-VENUE|TOOL-SPILL):\s*(\S+\.md)/)?.[1],
   },
 ];
 

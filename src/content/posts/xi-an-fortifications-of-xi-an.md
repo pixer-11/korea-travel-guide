@@ -1,41 +1,41 @@
 ---
-title: "Fortifications of Xi'an: Travel Guide"
-description: "The Xi'an City Wall is the most complete ancient city fortification surviving in China — a 13.7km rectangular loop of Ming-dynasty ramparts, moat"
-country: "China"
-region: "Xi'an"
-category: "hidden-gem"
-pubDate: "2026-08-02T09:39:50.713Z"
+title: 'Fortifications of Xi''an: Travel Guide'
+description: The Xi'an City Wall is the most complete ancient city fortification surviving in China — a 13.7km rectangular loop of Ming-dynasty ramparts, moat, and watchtowers you can walk, cycle, or golf-cart around.
+country: China
+region: Xi'an
+category: hidden-gem
+pubDate: '2026-08-02T09:39:50.713Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/City_wall_of_Xi%27an_51550-Xian_%2827959363326%29.jpg/1920px-City_wall_of_Xi%27an_51550-Xian_%2827959363326%29.jpg"
-  credit: "Photo: xiquinhosilva / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:City_wall_of_Xi%27an_51550-Xian_(27959363326).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/City_wall_of_Xi%27an_51550-Xian_%2827959363326%29.jpg/1920px-City_wall_of_Xi%27an_51550-Xian_%2827959363326%29.jpg
+  credit: 'Photo: xiquinhosilva / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:City_wall_of_Xi%27an_51550-Xian_(27959363326).jpg
 gallery: []
 place:
-  id: "ChIJodN_-FZ6YzYRhtqcQ2dSq7k"
-  name: "Fortifications of Xi'an"
-  address: "Xincheng, Xi'An, China, 710003"
+  id: ChIJodN_-FZ6YzYRhtqcQ2dSq7k
+  name: Fortifications of Xi'an
+  address: Xincheng, Xi'An, China, 710003
   rating: 4.6
   userRatingsTotal: 1032
-  googleMapsUrl: "https://maps.google.com/?cid=13378877721503652486&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=13378877721503652486&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.276795
   lng: 108.94724099999999
 tags:
-  - "xi'an"
-  - "hidden gem"
-quickAnswer: "The Xi'an City Wall is the most complete ancient city fortification surviving in China — a 13.7km rectangular loop of Ming-dynasty ramparts, moat, and watchtowers you can walk, cycle, or golf-cart around. Enter at South Gate (Yongningmen) for the best sense of scale, allow 2-3 hours to cycle the full loop, and go in late afternoon when the stone glows amber and the crowds thin out."
+  - xi'an
+  - hidden gem
+quickAnswer: The Xi'an City Wall is the most complete ancient city fortification surviving in China — a 13.7km rectangular loop of Ming-dynasty ramparts, moat, and watchtowers you can walk, cycle, or golf-cart around. Enter at South Gate (Yongningmen) for the best sense of scale, allow 2-3 hours to cycle the full loop, and go in late afternoon when the stone glows amber and the crowds thin out.
 faq:
-  - q: "How do I get to the Xi'an City Wall?"
-    a: "Take metro Line 2 to Yongningmen (South Gate) station and walk up to the South Gate entrance, the most atmospheric of the four main gates. Other access points ring the whole wall near the old city center, close to the Bell Tower."
-  - q: "How long should I plan to spend there?"
-    a: "Walking a short stretch and taking photos takes under an hour; renting a bike and doing the full 13.7km loop takes roughly 2-3 hours including stops at watchtowers."
-  - q: "Is it better to walk or cycle?"
-    a: "Cycling is the classic way to experience the wall and is far less tiring given the loop's length; bikes and electric carts are rented at the gates, with fixed return points, so plan your route around getting back to a rental station."
-  - q: "What's the best time of day to visit?"
-    a: "Early morning is quiet and cool with locals exercising along the ramparts; late afternoon into evening gives the best light and, after dark, the wall and moat are illuminated for photos."
-  - q: "Is the City Wall crowded like other Xi'an sights?"
-    a: "It's well regarded but still relatively under the radar compared to the Terracotta Army or Muslim Quarter, so you can usually find quieter stretches away from South Gate even during the day."
+  - q: How do I get to the Xi'an City Wall?
+    a: Take metro Line 2 to Yongningmen (South Gate) station and walk up to the South Gate entrance, the most atmospheric of the four main gates. Other access points ring the whole wall near the old city center, close to the Bell Tower.
+  - q: How long should I plan to spend there?
+    a: Walking a short stretch and taking photos takes under an hour; renting a bike and doing the full 13.7km loop takes roughly 2-3 hours including stops at watchtowers.
+  - q: Is it better to walk or cycle?
+    a: Cycling is the classic way to experience the wall and is far less tiring given the loop's length; bikes and electric carts are rented at the gates, with fixed return points, so plan your route around getting back to a rental station.
+  - q: What's the best time of day to visit?
+    a: Early morning is quiet and cool with locals exercising along the ramparts; late afternoon into evening gives the best light and, after dark, the wall and moat are illuminated for photos.
+  - q: Is the City Wall crowded like other Xi'an sights?
+    a: It's well regarded but still relatively under the radar compared to the Terracotta Army or Muslim Quarter, so you can usually find quieter stretches away from South Gate even during the day.
 aiGenerated: true
 draft: false
 ---

@@ -1,50 +1,50 @@
 ---
-title: "Mercato Centrale Torino: Where to Eat in Turin"
-description: "Mercato Centrale Torino is a multi-stall food hall inside the historic Porta Palazzo market building on Piazza della Repubblica — go stall-hopping"
-country: "Italy"
-region: "Turin"
-category: "restaurant"
-pubDate: "2026-08-02T09:53:34.259Z"
+title: 'Mercato Centrale Torino: Where to Eat in Turin'
+description: Mercato Centrale Torino is a multi-stall food hall inside the historic Porta Palazzo market building on Piazza della Repubblica — go stall-hopping for Piedmontese classics, pizza, and vermouth.
+country: Italy
+region: Turin
+category: restaurant
+pubDate: '2026-08-02T09:53:34.259Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Interno_Mercato_Centrale_Torino.jpg/3840px-Interno_Mercato_Centrale_Torino.jpg"
-  credit: "Photo: Ivan Ruggiero I'd appreciate if you could mail me (ivanrugg+credit@gmail.com) if you want to use this picture out of the Wikimedia project scope. Please attribute as: Ivan Ruggiero (Wikimedia) / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Interno_Mercato_Centrale_Torino.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Interno_Mercato_Centrale_Torino.jpg/3840px-Interno_Mercato_Centrale_Torino.jpg
+  credit: 'Photo: Ivan Ruggiero I''d appreciate if you could mail me (ivanrugg+credit@gmail.com) if you want to use this picture out of the Wikimedia project scope. Please attribute as: Ivan Ruggiero (Wikimedia) / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Interno_Mercato_Centrale_Torino.jpg
 gallery: []
 place:
-  id: "ChIJPV6Mb7BtiEcRMP-VBzUvxkM"
-  name: "Mercato Centrale Torino"
-  address: "Piazza della Repubblica, 25, 10152 Torino TO, Italy"
+  id: ChIJPV6Mb7BtiEcRMP-VBzUvxkM
+  name: Mercato Centrale Torino
+  address: Piazza della Repubblica, 25, 10152 Torino TO, Italy
   rating: 4.2
   userRatingsTotal: 6684
-  googleMapsUrl: "https://maps.google.com/?cid=4883642750736924464&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=4883642750736924464&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.0773454
   lng: 7.6833636
-  phone: "+39 011 089 8040"
+  phone: +39 011 089 8040
   openingHours:
-    - "Monday: 8:00 AM – 12:00 AM"
-    - "Tuesday: 8:00 AM – 12:00 AM"
-    - "Wednesday: 8:00 AM – 12:00 AM"
-    - "Thursday: 8:00 AM – 12:00 AM"
-    - "Friday: 8:00 AM – 12:00 AM"
-    - "Saturday: 8:00 AM – 12:00 AM"
-    - "Sunday: 8:00 AM – 12:00 AM"
+    - 'Monday: 8:00 AM – 12:00 AM'
+    - 'Tuesday: 8:00 AM – 12:00 AM'
+    - 'Wednesday: 8:00 AM – 12:00 AM'
+    - 'Thursday: 8:00 AM – 12:00 AM'
+    - 'Friday: 8:00 AM – 12:00 AM'
+    - 'Saturday: 8:00 AM – 12:00 AM'
+    - 'Sunday: 8:00 AM – 12:00 AM'
 tags:
-  - "turin"
-  - "street food"
-quickAnswer: "Mercato Centrale Torino is a multi-stall food hall inside the historic Porta Palazzo market building on Piazza della Repubblica — go stall-hopping for Piedmontese classics, pizza, and vermouth. It's open daily 8am–midnight, so aim for a weekday afternoon lull between lunch and aperitivo to avoid the Friday/Saturday evening crush."
+  - turin
+  - street food
+quickAnswer: Mercato Centrale Torino is a multi-stall food hall inside the historic Porta Palazzo market building on Piazza della Repubblica — go stall-hopping for Piedmontese classics, pizza, and vermouth. It's open daily 8am–midnight, so aim for a weekday afternoon lull between lunch and aperitivo to avoid the Friday/Saturday evening crush.
 faq:
-  - q: "How do I get to Mercato Centrale Torino?"
-    a: "It's at Piazza della Repubblica 25, a 12–15 minute walk from Porta Nuova or Porta Susa train stations, or a direct stop on tram lines 4 and 13."
-  - q: "What are the opening hours?"
-    a: "The market is open every day, 8am to midnight, so it covers breakfast through late dinner without a midday closure."
-  - q: "When is the best time to go to avoid crowds?"
-    a: "Weekday afternoons, between the lunch rush and the evening aperitivo hour, are noticeably calmer. Friday and Saturday nights after 7pm get the busiest."
-  - q: "How does ordering and paying work?"
-    a: "There's no single menu — you order and pay at individual stalls (card is standard, though cash is handy for smaller vendors) and carry food to shared communal tables."
-  - q: "What's nearby worth combining with a visit?"
-    a: "The outdoor Porta Palazzo market stalls surround the building and are liveliest before noon; Piazza Castello and the Egyptian Museum are about a 10-minute walk south."
+  - q: How do I get to Mercato Centrale Torino?
+    a: It's at Piazza della Repubblica 25, a 12–15 minute walk from Porta Nuova or Porta Susa train stations, or a direct stop on tram lines 4 and 13.
+  - q: What are the opening hours?
+    a: The market is open every day, 8am to midnight, so it covers breakfast through late dinner without a midday closure.
+  - q: When is the best time to go to avoid crowds?
+    a: Weekday afternoons, between the lunch rush and the evening aperitivo hour, are noticeably calmer. Friday and Saturday nights after 7pm get the busiest.
+  - q: How does ordering and paying work?
+    a: There's no single menu — you order and pay at individual stalls (card is standard, though cash is handy for smaller vendors) and carry food to shared communal tables.
+  - q: What's nearby worth combining with a visit?
+    a: The outdoor Porta Palazzo market stalls surround the building and are liveliest before noon; Piazza Castello and the Egyptian Museum are about a 10-minute walk south.
 aiGenerated: true
 draft: false
 ---

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Wander Atlas map pin (brand identity 2026-07-26): vermilion pin, gold ring, cream lens, star -->
+  <path fill="#c8443a" d="M16 2.6 A 10.8 10.8 0 0 1 26.8 13.4 C 26.8 19.3 21.9 23.2 16 30.2 C 10.1 23.2 5.2 19.3 5.2 13.4 A 10.8 10.8 0 0 1 16 2.6 Z"/>
+  <circle cx="16" cy="13.4" r="7.7" fill="#e8a13c"/>
+  <circle cx="16" cy="13.4" r="6.6" fill="#f6f1e6"/>
+  <path fill="#c8443a" d="M16 8.6 L17 12.4 L20.8 13.4 L17 14.4 L16 18.2 L15 14.4 L11.2 13.4 L15 12.4 Z"/>
+</svg>

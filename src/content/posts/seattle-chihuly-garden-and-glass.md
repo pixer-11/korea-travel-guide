@@ -1,37 +1,37 @@
 ---
-title: "Chihuly Garden and Glass: Seattle Travel Guide"
-description: "Chihuly Garden and Glass sits at the base of the Space Needle in Seattle Center, and it's worth two hours of your day whether or not you're doing the Needle"
-country: "United States"
-region: "Seattle"
-category: "hidden-gem"
-pubDate: "2026-08-02T09:32:47.110Z"
+title: 'Chihuly Garden and Glass: Seattle Travel Guide'
+description: Chihuly Garden and Glass sits at the base of the Space Needle in Seattle Center, and it's worth two hours of your day whether or not you're doing the Needle itself.
+country: United States
+region: Seattle
+category: hidden-gem
+pubDate: '2026-08-02T09:32:47.110Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Chihuly_Garden_and_Glass_2014_09.JPG/1920px-Chihuly_Garden_and_Glass_2014_09.JPG"
-  credit: "Photo: Jllm06 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Chihuly_Garden_and_Glass_2014_09.JPG"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Chihuly_Garden_and_Glass_2014_09.JPG/1920px-Chihuly_Garden_and_Glass_2014_09.JPG
+  credit: 'Photo: Jllm06 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Chihuly_Garden_and_Glass_2014_09.JPG
 gallery: []
 place:
-  id: "ChIJVTtr1kUVkFQRh-YAfijbQXs"
-  name: "Chihuly Garden and Glass"
-  address: "305 Harrison St, Seattle, WA 98109, USA"
+  id: ChIJVTtr1kUVkFQRh-YAfijbQXs
+  name: Chihuly Garden and Glass
+  address: 305 Harrison St, Seattle, WA 98109, USA
   rating: 4.7
   userRatingsTotal: 24782
-  googleMapsUrl: "https://maps.google.com/?cid=8881620907110491783&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=8881620907110491783&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 47.620559899999996
   lng: -122.3504476
-  phone: "+1 206-753-4940"
+  phone: +1 206-753-4940
   openingHours:
-    - "Monday: 9:30 AM – 8:00 PM"
-    - "Tuesday: 9:30 AM – 8:00 PM"
-    - "Wednesday: 9:30 AM – 8:00 PM"
-    - "Thursday: 9:30 AM – 9:30 PM"
-    - "Friday: 8:30 AM – 9:30 PM"
-    - "Saturday: 9:30 AM – 9:30 PM"
-    - "Sunday: 9:30 AM – 8:30 PM"
+    - 'Monday: 9:30 AM – 8:00 PM'
+    - 'Tuesday: 9:30 AM – 8:00 PM'
+    - 'Wednesday: 9:30 AM – 8:00 PM'
+    - 'Thursday: 9:30 AM – 9:30 PM'
+    - 'Friday: 8:30 AM – 9:30 PM'
+    - 'Saturday: 9:30 AM – 9:30 PM'
+    - 'Sunday: 9:30 AM – 8:30 PM'
   busyness:
-    updated: 2026-08-02
+    updated: 2026-08-02T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 19
@@ -48,22 +48,22 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_735851626a696641592d685251466b56556b31727454564a496843"
+    venueId: ven_735851626a696641592d685251466b56556b31727454564a496843
 tags:
-  - "seattle"
-  - "hidden gem"
-quickAnswer: "Chihuly Garden and Glass sits at the base of the Space Needle in Seattle Center, and it's worth two hours of your day whether or not you're doing the Needle itself. Go right at opening on a weekday, or after 7pm on weekends, to see the glass without a crowd of shoulders in front of it. Expect to pay a mid-range admission (check current pricing online, and note combo tickets with the Space Needle often save money)."
+  - seattle
+  - hidden gem
+quickAnswer: Chihuly Garden and Glass sits at the base of the Space Needle in Seattle Center, and it's worth two hours of your day whether or not you're doing the Needle itself. Go right at opening on a weekday, or after 7pm on weekends, to see the glass without a crowd of shoulders in front of it. Expect to pay a mid-range admission (check current pricing online, and note combo tickets with the Space Needle often save money).
 faq:
-  - q: "How long does a visit take?"
-    a: "Plan on 90 minutes to 2 hours total: about 60–90 minutes for the indoor galleries and Glasshouse, plus 20–30 minutes in the outdoor Garden."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays are calm nearly all day (9am–9pm). On weekends, the last two hours before closing, 7pm–9pm, are your best bet — avoid 11am–7pm when weekend crowds peak."
-  - q: "How do I get there without a car?"
-    a: "Take the Seattle Center Monorail from Westlake Center downtown — it's a scenic two-minute ride that drops you a short walk from the entrance. Several Metro bus routes also stop nearby along 1st Ave N and Denny Way."
-  - q: "Should I book tickets in advance?"
-    a: "Yes — timed-entry tickets booked online are standard practice here and save you from queueing, especially since this is one of Seattle's most-visited attractions."
-  - q: "Is it worth combining with the Space Needle?"
-    a: "Yes, they're a two-minute walk apart and combo tickets are widely used by visitors doing both in one day, saving a separate ticket line."
+  - q: How long does a visit take?
+    a: 'Plan on 90 minutes to 2 hours total: about 60–90 minutes for the indoor galleries and Glasshouse, plus 20–30 minutes in the outdoor Garden.'
+  - q: When is the quietest time to visit?
+    a: Weekdays are calm nearly all day (9am–9pm). On weekends, the last two hours before closing, 7pm–9pm, are your best bet — avoid 11am–7pm when weekend crowds peak.
+  - q: How do I get there without a car?
+    a: Take the Seattle Center Monorail from Westlake Center downtown — it's a scenic two-minute ride that drops you a short walk from the entrance. Several Metro bus routes also stop nearby along 1st Ave N and Denny Way.
+  - q: Should I book tickets in advance?
+    a: Yes — timed-entry tickets booked online are standard practice here and save you from queueing, especially since this is one of Seattle's most-visited attractions.
+  - q: Is it worth combining with the Space Needle?
+    a: Yes, they're a two-minute walk apart and combo tickets are widely used by visitors doing both in one day, saving a separate ticket line.
 aiGenerated: true
 draft: false
 ---

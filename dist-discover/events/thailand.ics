@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Wander Atlas//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Wander Atlas — Thailand events
+X-WR-CALDESC:Upcoming festivals and events in Thailand\, from Wander Atlas.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:bangkok-david-byrne-live-in-bangkok@wanderatlasguides.com
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:David Byrne Live in Bangkok
+DESCRIPTION:David Byrne\, the former Talking Heads frontman\, is set to pe
+ rform at UOB Live in Bangkok on Monday\, August 10\, 2026.
+LOCATION:Bangkok\, Thailand
+URL:https://wanderatlasguides.com/posts/bangkok-david-byrne-live-in-bangkok
+END:VEVENT
+BEGIN:VEVENT
+UID:bangkok-kodaline-farewell-tour@wanderatlasguides.com
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260830
+SUMMARY:Kodaline Farewell Tour
+DESCRIPTION:Kodaline Farewell Tour in Bangkok\, Thailand — August 28-29\
+ , 2026. What it is\, when and where\, and how to plan around it.
+LOCATION:Bangkok\, Thailand
+URL:https://wanderatlasguides.com/posts/bangkok-kodaline-farewell-tour
+END:VEVENT
+BEGIN:VEVENT
+UID:bangkok-post-malone-the-big-ass-stadium-world-tour@wanderatlasguides.c
+ om
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Post Malone: The BIG ASS Stadium World Tour
+DESCRIPTION:Post Malone brings The BIG ASS Stadium World Tour to Bangkok's
+  Rajamangala National Stadium on September 22\, 2026 — his first Bangko
+ k concert in three years.
+LOCATION:Bangkok\, Thailand
+URL:https://wanderatlasguides.com/posts/bangkok-post-malone-the-big-ass-st
+ adium-world-tour
+END:VEVENT
+END:VCALENDAR

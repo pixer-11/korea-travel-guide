@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Wander Atlas//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Wander Atlas — Malaysia events
+X-WR-CALDESC:Upcoming festivals and events in Malaysia\, from Wander Atlas.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:kuala-lumpur-aaron-kwok-iconic-world-tour-2026@wanderatlasguides.com
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Aaron Kwok ICONIC World Tour 2026
+DESCRIPTION:Aaron Kwok brings his ICONIC World Tour 2026 to Unifi Arena\, 
+ Bukit Jalil\, Kuala Lumpur on September 12\, 2026\, with a 200-member tou
+ ring production crew.
+LOCATION:Kuala Lumpur\, Malaysia
+URL:https://wanderatlasguides.com/posts/kuala-lumpur-aaron-kwok-iconic-wor
+ ld-tour-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:kuala-lumpur-post-malone-live-in-malaysia@wanderatlasguides.com
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Post Malone Live in Malaysia
+DESCRIPTION:Post Malone plays his debut Malaysia show on September 27\, 20
+ 26\, at TM National Stadium (Stadium Nasional Bukit Jalil) in Kuala Lumpu
+ r\, as part of his world tour.
+LOCATION:Kuala Lumpur\, Malaysia
+URL:https://wanderatlasguides.com/posts/kuala-lumpur-post-malone-live-in-m
+ alaysia
+END:VEVENT
+END:VCALENDAR

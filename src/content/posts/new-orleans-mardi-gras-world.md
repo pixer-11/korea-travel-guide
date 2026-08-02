@@ -1,54 +1,54 @@
 ---
-title: "Mardi Gras World: New Orleans Travel Guide"
-description: "Mardi Gras World, on the Mississippi riverfront just west of the Convention Center, is a working float-building warehouse you can tour year-round, any day"
-country: "United States"
-region: "New Orleans"
-category: "hidden-gem"
-pubDate: "2026-08-02T09:29:56.676Z"
+title: 'Mardi Gras World: New Orleans Travel Guide'
+description: Mardi Gras World, on the Mississippi riverfront just west of the Convention Center, is a working float-building warehouse you can tour year-round, any day from 9am to 5:30pm, with guided tours running roughly hourly.
+country: United States
+region: New Orleans
+category: hidden-gem
+pubDate: '2026-08-02T09:29:56.676Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/4/46/Ireland_Float_New_Orleans_Mardi_Gras_Parade.jpg"
-  credit: "Photo: Bart Everson / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Ireland_Float_New_Orleans_Mardi_Gras_Parade.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/4/46/Ireland_Float_New_Orleans_Mardi_Gras_Parade.jpg
+  credit: 'Photo: Bart Everson / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Ireland_Float_New_Orleans_Mardi_Gras_Parade.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/New_Orleans_March_2007_-_Mardi_Gras_World.jpg/3840px-New_Orleans_March_2007_-_Mardi_Gras_World.jpg"
-    credit: "Photo: scott*eric / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:New_Orleans_March_2007_-_Mardi_Gras_World.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/New_Orleans_March_2007_-_Mardi_Gras_World.jpg/3840px-New_Orleans_March_2007_-_Mardi_Gras_World.jpg
+    credit: 'Photo: scott*eric / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:New_Orleans_March_2007_-_Mardi_Gras_World.jpg
 place:
-  id: "ChIJWTjotmWmIIYRjo3SZ8nZck4"
-  name: "Mardi Gras World"
-  address: "1380 Port of New Orleans Pl, New Orleans, LA 70130, USA"
+  id: ChIJWTjotmWmIIYRjo3SZ8nZck4
+  name: Mardi Gras World
+  address: 1380 Port of New Orleans Pl, New Orleans, LA 70130, USA
   rating: 4.4
   userRatingsTotal: 5391
-  googleMapsUrl: "https://maps.google.com/?cid=5652819941356899726&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=5652819941356899726&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 29.9350317
   lng: -90.0614772
-  phone: "+1 504-361-7821"
+  phone: +1 504-361-7821
   openingHours:
-    - "Monday: 9:00 AM – 5:30 PM"
-    - "Tuesday: 9:00 AM – 5:30 PM"
-    - "Wednesday: 9:00 AM – 5:30 PM"
-    - "Thursday: 9:00 AM – 5:30 PM"
-    - "Friday: 9:00 AM – 5:30 PM"
-    - "Saturday: 9:00 AM – 5:30 PM"
-    - "Sunday: 9:00 AM – 5:30 PM"
+    - 'Monday: 9:00 AM – 5:30 PM'
+    - 'Tuesday: 9:00 AM – 5:30 PM'
+    - 'Wednesday: 9:00 AM – 5:30 PM'
+    - 'Thursday: 9:00 AM – 5:30 PM'
+    - 'Friday: 9:00 AM – 5:30 PM'
+    - 'Saturday: 9:00 AM – 5:30 PM'
+    - 'Sunday: 9:00 AM – 5:30 PM'
 tags:
-  - "new orleans"
-  - "hidden gem"
-quickAnswer: "Mardi Gras World, on the Mississippi riverfront just west of the Convention Center, is a working float-building warehouse you can tour year-round, any day from 9am to 5:30pm, with guided tours running roughly hourly. Budget 60-90 minutes to walk among giant fiberglass figures and watch artists at work, plus time for the free king cake sample. It's genuinely popular, so arrive close to opening or come in the early afternoon lull to avoid tour-bus crowds."
+  - new orleans
+  - hidden gem
+quickAnswer: Mardi Gras World, on the Mississippi riverfront just west of the Convention Center, is a working float-building warehouse you can tour year-round, any day from 9am to 5:30pm, with guided tours running roughly hourly. Budget 60-90 minutes to walk among giant fiberglass figures and watch artists at work, plus time for the free king cake sample. It's genuinely popular, so arrive close to opening or come in the early afternoon lull to avoid tour-bus crowds.
 faq:
-  - q: "How long should I spend at Mardi Gras World?"
-    a: "Plan for 60-90 minutes: the guided tour itself runs about an hour, and most visitors add extra time for photos, the costume try-on area, and the gift shop."
-  - q: "What are the opening hours?"
-    a: "It's open every day of the week, 9:00 AM to 5:30 PM, with no weekly closing day — tours run roughly hourly within that window."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Since it's a major stop for cruise passengers and tour groups, aim for right at 9am opening or one of the final tours before 5:30pm closing for a quieter walk-through."
-  - q: "How do I get there without a car?"
-    a: "It's a flat 10-15 minute walk along the riverfront from the Convention Center or Warehouse District, and a short rideshare from the French Quarter; a shuttle from near Riverwalk/Spanish Plaza is also typically available."
-  - q: "Is Mardi Gras World only interesting during Carnival season?"
-    a: "No — it's a year-round working studio, so floats are being built and stored regardless of season, and you'll see genuine works-in-progress any time you visit."
+  - q: How long should I spend at Mardi Gras World?
+    a: 'Plan for 60-90 minutes: the guided tour itself runs about an hour, and most visitors add extra time for photos, the costume try-on area, and the gift shop.'
+  - q: What are the opening hours?
+    a: It's open every day of the week, 9:00 AM to 5:30 PM, with no weekly closing day — tours run roughly hourly within that window.
+  - q: When is the best time to visit to avoid crowds?
+    a: Since it's a major stop for cruise passengers and tour groups, aim for right at 9am opening or one of the final tours before 5:30pm closing for a quieter walk-through.
+  - q: How do I get there without a car?
+    a: It's a flat 10-15 minute walk along the riverfront from the Convention Center or Warehouse District, and a short rideshare from the French Quarter; a shuttle from near Riverwalk/Spanish Plaza is also typically available.
+  - q: Is Mardi Gras World only interesting during Carnival season?
+    a: No — it's a year-round working studio, so floats are being built and stored regardless of season, and you'll see genuine works-in-progress any time you visit.
 aiGenerated: true
 draft: false
 ---

@@ -45,6 +45,7 @@ faq:
   - q: What's the best time to visit?
     a: Weekday early-evening reservations are generally easier to secure than weekend slots, and visiting in late afternoon lets you see the workshop district at its most atmospheric before dinner service gets busy.
 aiGenerated: true
+draft: true
 ---
 
 ## Why Dallas Pizza Is Worth the Trip

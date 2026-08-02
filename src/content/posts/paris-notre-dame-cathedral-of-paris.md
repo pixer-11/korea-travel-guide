@@ -1,18 +1,18 @@
 ---
-title: "Notre-Dame Cathedral of Paris: Travel Guide"
-description: Notre-Dame reopened to visitors in December 2024 after the 2019 fire and restoration, and it's once again one of the most-visited sights in Paris — so aim
+title: 'Notre-Dame Cathedral of Paris: Travel Guide'
+description: Notre-Dame reopened to visitors in December 2024 after the 2019 fire and restoration, and it's once again one of the most-visited sights in Paris — so aim for the doors right at opening (7:50am weekdays, 8:15am weekends) or, on Thursdays, take advantage of the extended 10pm hours.
 country: France
 region: Paris
 category: attraction
-pubDate: "2026-08-02T09:26:12.902Z"
+pubDate: '2026-08-02T09:26:12.902Z'
 heroImage:
   url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Notre_Dame_Paris_front_facade_lower.jpg/3840px-Notre_Dame_Paris_front_facade_lower.jpg
-  credit: "Photo: Benh LIEU SONG / Wikimedia Commons (CC BY-SA 3.0)"
+  credit: 'Photo: Benh LIEU SONG / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Notre_Dame_Paris_front_facade_lower.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Paris_Notre-Dame_East_View_02.JPG/3840px-Paris_Notre-Dame_East_View_02.JPG
-    credit: "Photo: Uoaei1 / Wikimedia Commons (CC BY-SA 4.0)"
+    credit: 'Photo: Uoaei1 / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Paris_Notre-Dame_East_View_02.JPG
 place:
@@ -27,13 +27,13 @@ place:
   lng: 2.3499021
   phone: +33 1 42 34 56 10
   openingHours:
-    - "Monday: 7:50 AM – 7:00 PM"
-    - "Tuesday: 7:50 AM – 7:00 PM"
-    - "Wednesday: 7:50 AM – 7:00 PM"
-    - "Thursday: 7:50 AM – 10:00 PM"
-    - "Friday: 7:50 AM – 7:00 PM"
-    - "Saturday: 8:15 AM – 7:30 PM"
-    - "Sunday: 8:15 AM – 7:30 PM"
+    - 'Monday: 7:50 AM – 7:00 PM'
+    - 'Tuesday: 7:50 AM – 7:00 PM'
+    - 'Wednesday: 7:50 AM – 7:00 PM'
+    - 'Thursday: 7:50 AM – 10:00 PM'
+    - 'Friday: 7:50 AM – 7:00 PM'
+    - 'Saturday: 8:15 AM – 7:30 PM'
+    - 'Sunday: 8:15 AM – 7:30 PM'
   busyness:
     updated: 2026-08-02T00:00:00.000Z
     weekdayQuiet:

@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Wander Atlas//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Wander Atlas — Italy events
+X-WR-CALDESC:Upcoming festivals and events in Italy\, from Wander Atlas.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:siena-palio-dell-assunta-palio-di-siena@wanderatlasguides.com
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:Palio dell'Assunta (Palio di Siena)
+DESCRIPTION:Palio dell'Assunta (Palio di Siena) in Siena\, Italy — Augus
+ t 16\, 2026. What it is\, when and where\, and how to plan around it.
+LOCATION:Siena\, Italy
+URL:https://wanderatlasguides.com/posts/siena-palio-dell-assunta-palio-di-
+ siena
+END:VEVENT
+BEGIN:VEVENT
+UID:venice-venice-international-film-festival-mostra-del-cinema@wanderatla
+ sguides.com
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260913
+SUMMARY:Venice International Film Festival (Mostra del Cinema)
+DESCRIPTION:Venice International Film Festival (Mostra del Cinema) in Veni
+ ce\, Italy — September 2-12\, 2026. What it is\, when and where\, and h
+ ow to plan around it.
+LOCATION:Venice\, Italy
+URL:https://wanderatlasguides.com/posts/venice-venice-international-film-f
+ estival-mostra-del-cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:monza-italian-grand-prix-formula-1@wanderatlasguides.com
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260907
+SUMMARY:Formula 1 Italian Grand Prix 2026
+DESCRIPTION:The 2026 Italian Grand Prix runs September 4-6 at the Autodrom
+ o Nazionale Monza\, just north of Milan.
+LOCATION:Monza\, Italy
+URL:https://wanderatlasguides.com/posts/monza-italian-grand-prix-formula-1
+END:VEVENT
+BEGIN:VEVENT
+UID:misano-adriatico-motogp-grand-prix-of-san-marino-and-the-rimini-rivier
+ a@wanderatlasguides.com
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260914
+SUMMARY:MotoGP Grand Prix of San Marino and the Rimini Riviera
+DESCRIPTION:MotoGP Grand Prix of San Marino and the Rimini Riviera in Misa
+ no Adriatico\, Italy — September 11-13\, 2026. What it is\, when and wh
+ ere\, and how to plan around it.
+LOCATION:Misano Adriatico\, Italy
+URL:https://wanderatlasguides.com/posts/misano-adriatico-motogp-grand-prix
+ -of-san-marino-and-the-rimini-riviera
+END:VEVENT
+END:VCALENDAR

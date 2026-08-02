@@ -1,0 +1,72 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Wander Atlas//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Wander Atlas — Spain events
+X-WR-CALDESC:Upcoming festivals and events in Spain\, from Wander Atlas.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:multiple-cities-la-vuelta-a-espana-2026@wanderatlasguides.com
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260914
+SUMMARY:La Vuelta a España 2026
+DESCRIPTION:La Vuelta a España 2026 in Multiple cities\, Spain — August
+  22 - September 13\, 2026. What it is\, when and where\, and how to plan 
+ around it.
+LOCATION:Multiple cities\, Spain
+URL:https://wanderatlasguides.com/posts/multiple-cities-la-vuelta-a-espana
+ -2026
+END:VEVENT
+BEGIN:VEVENT
+UID:bunol-la-tomatina@wanderatlasguides.com
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:La Tomatina
+DESCRIPTION:La Tomatina in Buñol\, Spain — August 26\, 2026. What it is
+ \, when and where\, and how to plan around it.
+LOCATION:Buñol\, Spain
+URL:https://wanderatlasguides.com/posts/bunol-la-tomatina
+END:VEVENT
+BEGIN:VEVENT
+UID:alcaniz-motogp-aragon-grand-prix@wanderatlasguides.com
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260831
+SUMMARY:MotoGP Aragon Grand Prix
+DESCRIPTION:MotoGP Aragon Grand Prix in Alcañiz\, Spain — August 28-30\
+ , 2026. What it is\, when and where\, and how to plan around it.
+LOCATION:Alcañiz\, Spain
+URL:https://wanderatlasguides.com/posts/alcaniz-motogp-aragon-grand-prix
+END:VEVENT
+BEGIN:VEVENT
+UID:madrid-barcelona-the-weeknd-after-hours-til-dawn-tour@wanderatlasguide
+ s.com
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260831
+SUMMARY:The Weeknd – After Hours Til Dawn Tour
+DESCRIPTION:The Weeknd brings the After Hours Til Dawn Tour to Spain for f
+ our dates: three nights at Riyadh Air Metropolitano Stadium in Madrid (Au
+ gust 28-30\, 2026) and one night at Estadi Olímpic Lluís Companys in Ba
+ rcelona (September 1\, 2026)\, with Playboi Carti as support.
+LOCATION:Madrid\, Spain
+URL:https://wanderatlasguides.com/posts/madrid-barcelona-the-weeknd-after-
+ hours-til-dawn-tour
+END:VEVENT
+BEGIN:VEVENT
+UID:barcelona-the-weeknd-live-in-concert@wanderatlasguides.com
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:The Weeknd Live in Concert
+DESCRIPTION:The Weeknd Live in Concert in Barcelona\, Spain — September 
+ 1\, 2026. What it is\, when and where\, and how to plan around it.
+LOCATION:Barcelona\, Spain
+URL:https://wanderatlasguides.com/posts/barcelona-the-weeknd-live-in-conce
+ rt
+END:VEVENT
+END:VCALENDAR

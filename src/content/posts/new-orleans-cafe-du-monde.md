@@ -1,51 +1,51 @@
 ---
-title: "Cafe Du Monde: New Orleans Travel Guide"
-description: "Cafe Du Monde at 800 Decatur St in the French Quarter is New Orleans' original beignet-and-chicory-coffee stand, open daily from 7:15am"
-country: "United States"
-region: "New Orleans"
-category: "trendy"
-pubDate: "2026-08-02T09:51:39.319Z"
+title: 'Cafe Du Monde: New Orleans Travel Guide'
+description: Cafe Du Monde at 800 Decatur St in the French Quarter is New Orleans' original beignet-and-chicory-coffee stand, open daily from 7:15am (until 11pm most nights, midnight Friday and Saturday).
+country: United States
+region: New Orleans
+category: trendy
+pubDate: '2026-08-02T09:51:39.319Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Caf%C3%A9_du_Monde_%2855151878663%29.jpg/1920px-Caf%C3%A9_du_Monde_%2855151878663%29.jpg"
-  credit: "Photo: ajay_suresh / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Caf%C3%A9_du_Monde_(55151878663).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Caf%C3%A9_du_Monde_%2855151878663%29.jpg/1920px-Caf%C3%A9_du_Monde_%2855151878663%29.jpg
+  credit: 'Photo: ajay_suresh / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Caf%C3%A9_du_Monde_(55151878663).jpg
 gallery: []
 place:
-  id: "ChIJTT5Hm-ClIIYR97Y1jn7-aA0"
-  name: "Cafe Du Monde"
-  address: "800 Decatur St, New Orleans, LA 70116, USA"
+  id: ChIJTT5Hm-ClIIYR97Y1jn7-aA0
+  name: Cafe Du Monde
+  address: 800 Decatur St, New Orleans, LA 70116, USA
   rating: 4.5
   userRatingsTotal: 45859
   priceLevel: 1
-  googleMapsUrl: "https://maps.google.com/?cid=966301939576190711&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=966301939576190711&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 29.957604399999997
   lng: -90.0617687
-  phone: "+1 504-525-4544"
+  phone: +1 504-525-4544
   openingHours:
-    - "Monday: 7:15 AM – 11:00 PM"
-    - "Tuesday: 7:15 AM – 11:00 PM"
-    - "Wednesday: 7:15 AM – 11:00 PM"
-    - "Thursday: 7:15 AM – 11:00 PM"
-    - "Friday: 7:15 AM – 12:00 AM"
-    - "Saturday: 7:15 AM – 12:00 AM"
-    - "Sunday: 7:15 AM – 11:00 PM"
+    - 'Monday: 7:15 AM – 11:00 PM'
+    - 'Tuesday: 7:15 AM – 11:00 PM'
+    - 'Wednesday: 7:15 AM – 11:00 PM'
+    - 'Thursday: 7:15 AM – 11:00 PM'
+    - 'Friday: 7:15 AM – 12:00 AM'
+    - 'Saturday: 7:15 AM – 12:00 AM'
+    - 'Sunday: 7:15 AM – 11:00 PM'
 tags:
-  - "new orleans"
-  - "trendy cafe"
-quickAnswer: "Cafe Du Monde at 800 Decatur St in the French Quarter is New Orleans' original beignet-and-chicory-coffee stand, open daily from 7:15am (until 11pm most nights, midnight Friday and Saturday). It's almost always busy, so the calmest windows are right at opening or on a weekday afternoon between lunch and dinner rush; expect a line most other times, especially weekend mornings."
+  - new orleans
+  - trendy cafe
+quickAnswer: Cafe Du Monde at 800 Decatur St in the French Quarter is New Orleans' original beignet-and-chicory-coffee stand, open daily from 7:15am (until 11pm most nights, midnight Friday and Saturday). It's almost always busy, so the calmest windows are right at opening or on a weekday afternoon between lunch and dinner rush; expect a line most other times, especially weekend mornings.
 faq:
-  - q: "What are the hours at Cafe Du Monde?"
-    a: "It opens daily at 7:15am and closes at 11pm Sunday through Thursday, staying open until midnight on Friday and Saturday."
-  - q: "What's the best time to avoid the crowds?"
-    a: "Go right at opening on a weekday, or during the mid-afternoon lull between lunch and dinner. Weekend mornings, especially around brunch hours, bring the longest lines."
-  - q: "How much does it cost?"
-    a: "It's budget-friendly — an order of beignets and a coffee is inexpensive by any standard, though exact prices change, so treat any figure you've read online as approximate."
-  - q: "Is it walkable from the main French Quarter sights?"
-    a: "Yes — it's directly across from Jackson Square and a short walk from St. Louis Cathedral, the French Market, and the riverfront."
-  - q: "Do I need a reservation?"
-    a: "No reservations are taken; it's first-come, first-served, so expect to queue during peak hours."
+  - q: What are the hours at Cafe Du Monde?
+    a: It opens daily at 7:15am and closes at 11pm Sunday through Thursday, staying open until midnight on Friday and Saturday.
+  - q: What's the best time to avoid the crowds?
+    a: Go right at opening on a weekday, or during the mid-afternoon lull between lunch and dinner. Weekend mornings, especially around brunch hours, bring the longest lines.
+  - q: How much does it cost?
+    a: It's budget-friendly — an order of beignets and a coffee is inexpensive by any standard, though exact prices change, so treat any figure you've read online as approximate.
+  - q: Is it walkable from the main French Quarter sights?
+    a: Yes — it's directly across from Jackson Square and a short walk from St. Louis Cathedral, the French Market, and the riverfront.
+  - q: Do I need a reservation?
+    a: No reservations are taken; it's first-come, first-served, so expect to queue during peak hours.
 aiGenerated: true
 draft: false
 ---

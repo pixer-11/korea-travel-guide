@@ -1,13 +1,13 @@
 ---
-title: "Sawada Coffee: Chicago Travel Guide"
-description: Sawada Coffee is a rustic-chic coffee bar in Chicago's West Loop at 112 N Green St, open daily 8am–4pm, known for inventive espresso drinks and an in-house
+title: 'Sawada Coffee: Chicago Travel Guide'
+description: Sawada Coffee is a rustic-chic coffee bar in Chicago's West Loop at 112 N Green St, open daily 8am–4pm, known for inventive espresso drinks and an in-house Ping-Pong table.
 country: United States
 region: Chicago
 category: trendy
-pubDate: "2026-08-02T09:41:18.595Z"
+pubDate: '2026-08-02T09:41:18.595Z'
 heroImage:
   url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Sawada_Coffee%2C_West_Loop%2C_Chicago_%2846963747835%29.jpg/3840px-Sawada_Coffee%2C_West_Loop%2C_Chicago_%2846963747835%29.jpg
-  credit: "Photo: Bex Walton from London, England / Wikimedia Commons (CC BY 2.0)"
+  credit: 'Photo: Bex Walton from London, England / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Sawada_Coffee,_West_Loop,_Chicago_(46963747835).jpg
 gallery: []
@@ -24,13 +24,13 @@ place:
   lng: -87.6487119
   phone: +1 312-344-1750
   openingHours:
-    - "Monday: 8:00 AM – 4:00 PM"
-    - "Tuesday: 8:00 AM – 4:00 PM"
-    - "Wednesday: 8:00 AM – 4:00 PM"
-    - "Thursday: 8:00 AM – 4:00 PM"
-    - "Friday: 8:00 AM – 4:00 PM"
-    - "Saturday: 8:00 AM – 4:00 PM"
-    - "Sunday: 8:00 AM – 4:00 PM"
+    - 'Monday: 8:00 AM – 4:00 PM'
+    - 'Tuesday: 8:00 AM – 4:00 PM'
+    - 'Wednesday: 8:00 AM – 4:00 PM'
+    - 'Thursday: 8:00 AM – 4:00 PM'
+    - 'Friday: 8:00 AM – 4:00 PM'
+    - 'Saturday: 8:00 AM – 4:00 PM'
+    - 'Sunday: 8:00 AM – 4:00 PM'
   busyness:
     updated: 2026-08-02T00:00:00.000Z
     weekdayQuiet:
@@ -62,7 +62,6 @@ faq:
   - q: Is it good for working or hanging out, not just a quick coffee?
     a: Yes — it has a laid-back, rustic-chic interior with a Ping-Pong table and seating suited to lingering, though it can get tight during the busy midday weekend window.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
