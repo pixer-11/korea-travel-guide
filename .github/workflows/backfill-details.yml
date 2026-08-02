@@ -133,7 +133,12 @@ jobs:
         if: github.event_name == 'workflow_run'
         run: |
           UPDATED=$(grep -o 'updated [0-9]\+' /tmp/bf.log | head -1 | grep -o '[0-9]\+' || true)
-          OUT=$(node scripts/fill-phase.mjs record --updated "$UPDATED")
+          # Backlog fills only (posts older than 48h): the handover streak counts
+          # THESE — daily publishing tops up its own fresh posts forever, and
+          # counting that trickle postponed the country-fill switch indefinitely
+          # (owner caught it 2026-08-02: 9 fills, all from that day's 20 posts).
+          BACKLOG=$(grep -o 'backlog-updated [0-9]\+' /tmp/bf.log | head -1 | grep -o '[0-9]\+' || true)
+          OUT=$(node scripts/fill-phase.mjs record --updated "$UPDATED" --backlog "${BACKLOG:-$UPDATED}")
           echo "$OUT"
           if printf '%s' "$OUT" | grep -q '^HANDOVER'; then
             echo "handover=1" >> "$GITHUB_OUTPUT"

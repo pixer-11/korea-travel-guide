@@ -91,8 +91,19 @@ if (cmd === 'record') {
     process.exit(0);
   }
 
-  const idleStreak = updated > 0 ? 0 : state.idleStreak + 1;
-  const history = [...(state.history ?? []), { at: new Date().toISOString(), updated }].slice(-10);
+  // The streak counts BACKLOG fills (posts older than 48h), not total fills.
+  // Daily publishing tops up its own fresh posts more or less forever — Google
+  // often lists a small venue's phone/hours days after we publish it — so a
+  // streak on the total would postpone the handover indefinitely (owner caught
+  // it 2026-08-02: '채움 9' were all that day's new posts, streak reset, and
+  // the switch the site was three days from taking receded to never). The
+  // handover question is "is the OLD debt paid?"; --backlog answers exactly
+  // that, and an absent --backlog falls back to the old total behavior.
+  const rawBacklog = (argOf('backlog') ?? '').trim();
+  const backlog = rawBacklog === '' ? updated : Number(rawBacklog);
+  const idleBasis = Number.isFinite(backlog) ? backlog : updated;
+  const idleStreak = idleBasis > 0 ? 0 : state.idleStreak + 1;
+  const history = [...(state.history ?? []), { at: new Date().toISOString(), updated, backlog: idleBasis }].slice(-10);
   let phase = state.phase;
   let handover = false;
 
@@ -116,11 +127,13 @@ if (cmd === 'record') {
       `전화·영업시간 채우기가 ${IDLE_DAYS_TO_HAND_OVER}일 연속 새로 채울 것을 찾지 못했습니다. ` +
         '이제 나라별 글 수 채우기(대량발행)로 넘어갑니다.'
     );
-  } else if (updated > 0) {
-    console.log(`${updated}건 채움 — 계속 진행합니다.`);
+  } else if (idleBasis > 0) {
+    console.log(`밀린 글 ${idleBasis}건 채움 (신규 글 보충 제외 기준) — 계속 진행합니다.`);
   } else {
     console.log(
-      `새로 채울 것 없음 ${idleStreak}일째 (${IDLE_DAYS_TO_HAND_OVER}일 연속이면 대량발행으로 전환).`
+      `밀린 글에서 새로 채울 것 없음 ${idleStreak}일째` +
+        (updated > 0 ? ` (신규 글 보충 ${updated}건은 전환 판정에 안 셈)` : '') +
+        ` — ${IDLE_DAYS_TO_HAND_OVER}일 연속이면 대량발행으로 전환.`
     );
   }
   process.exit(0);

@@ -106,6 +106,14 @@ async function main() {
     if (priorityCount) console.log(`Priority: ${priorityCount} itinerary stop(s) queued first`);
   }
   let updated = 0, skipNoPlace = 0, already = 0, noData = 0, processed = 0, quotaHits = 0, apiErrors = 0, closed = 0;
+  // Fills on posts older than 48h are BACKLOG work; fills on fresh posts are
+  // routine top-up. The owner spotted the deadlock (2026-08-02): daily
+  // publishing feeds a trickle of fillable venues forever, so a streak counted
+  // on TOTAL fills would postpone the country-fill handover indefinitely —
+  // the handover question is "is the old debt paid?", not "did anything new
+  // arrive yesterday?". fill-phase counts its streak on this number instead.
+  let updatedBacklog = 0;
+  const BACKLOG_AGE_MS = 48 * 3600 * 1000;
   // Places Details returns null on 429 (places.mjs logs it and does NOT throw), which
   // used to land in the noData bucket — so an exhausted-quota run reported "117 no new
   // data" as if those venues simply had no phone listed, and kept firing doomed calls
@@ -201,7 +209,10 @@ async function main() {
     if (!inject) { noData++; continue; }
 
     updated++;
-    console.log(`  ✓ ${f}${phone && !hasPhone ? ' +phone' : ''}${hours?.length && !hasHours ? ` +${hours.length}h hours` : ''}`);
+    const pub = t.match(/^pubDate:\s*['"]?([0-9T:.Z+-]+)/m)?.[1];
+    const isBacklog = !pub || (Date.now() - Date.parse(pub)) > BACKLOG_AGE_MS;
+    if (isBacklog) updatedBacklog++;
+    console.log(`  ✓ ${f}${phone && !hasPhone ? ' +phone' : ''}${hours?.length && !hasHours ? ` +${hours.length}h hours` : ''}${isBacklog ? '' : ' (new post top-up)'}`);
 
     if (APPLY) {
       // Append the new lines to the END of the place block (before the next top-level key).
@@ -221,7 +232,9 @@ async function main() {
   }
 
   console.log(
-    `\nBACKFILL RESULT: updated ${updated}, already-complete ${already}, no-new-data ${noData}, ` +
+    // NOTE: 'updated N' must stay FIRST on this line — the workflow greps the
+    // first 'updated <num>' occurrence; 'backlog-updated' is appended after.
+    `\nBACKFILL RESULT: updated ${updated}, backlog-updated ${updatedBacklog}, already-complete ${already}, no-new-data ${noData}, ` +
     `no-place ${skipNoPlace}, closed-quarantined ${closed}, quota-429 ${quotaHits}, api-error ${apiErrors}` +
     (apiErrors ? ` (last: ${lastFailure})` : '') +
     `, processed ${processed} of ${files.length} (${APPLY ? 'APPLIED' : 'dry-run'}).`
