@@ -50,7 +50,10 @@ const itineraryUrl = new URL(Astro.url.pathname, Astro.site ?? 'https://wanderat
     margin: 0 0 0.35rem;
   }
   .itin-email-dek { font-size: 0.9rem; color: var(--muted); line-height: 1.5; margin: 0 0 0.85rem; }
-  .itin-email-form { display: flex; gap: 0.55rem; flex-wrap: wrap; }
+  /* `.nl-form` is centred at max-width 460px for the full-bleed newsletter
+     band. Inherited here it shoved the form 82px right of the title, breaking
+     the card's left edge — the one axis the gold border is drawing attention to. */
+  .itin-email-form { display: flex; gap: 0.55rem; flex-wrap: wrap; max-width: none; margin: 0; }
   .itin-email-form input[type='email'] {
     flex: 1 1 220px;
     min-width: 0;
