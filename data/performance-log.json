@@ -125,5 +125,200 @@
         "views": 5
       }
     ]
+  },
+  {
+    "week": "2026-08-02",
+    "pageviews": 671,
+    "visits": 353,
+    "top": [
+      {
+        "path": "/ko/",
+        "views": 90
+      },
+      {
+        "path": "/",
+        "views": 90
+      },
+      {
+        "path": "/flights/",
+        "views": 30
+      },
+      {
+        "path": "/tools/best-time/",
+        "views": 20
+      },
+      {
+        "path": "/ko/destinations/philippines/",
+        "views": 20
+      },
+      {
+        "path": "/posts/goa-fort-aguada/",
+        "views": 20
+      },
+      {
+        "path": "/ko/posts/little-india-super-deluxe-kitchen/",
+        "views": 20
+      },
+      {
+        "path": "/my-trip/",
+        "views": 20
+      },
+      {
+        "path": "/posts/multiple-cities-across-spain-andorra-entry-through-andalusia-finishing-in-granad/",
+        "views": 20
+      },
+      {
+        "path": "/ko/regions/fukuoka/",
+        "views": 20
+      },
+      {
+        "path": "/ko/itinerary/",
+        "views": 20
+      },
+      {
+        "path": "/posts/seoul-2026-coupang-play-series-manchester-city-vs-atletico-madrid/",
+        "views": 10
+      },
+      {
+        "path": "/posts/phuket-cafe-phuket-viewpoint/",
+        "views": 10
+      },
+      {
+        "path": "/ja/regions/sentosa/",
+        "views": 10
+      },
+      {
+        "path": "/ko/tools/best-time/",
+        "views": 10
+      },
+      {
+        "path": "/posts/kuala-lumpur-muljil/",
+        "views": 10
+      },
+      {
+        "path": "/ko/destinations/",
+        "views": 10
+      },
+      {
+        "path": "/posts/bandung-hummingbird-eatery-space/",
+        "views": 10
+      },
+      {
+        "path": "/posts/kuala-lumpur-aaron-kwok-iconic-world-tour-2026/",
+        "views": 10
+      },
+      {
+        "path": "/posts/dubai-def-leppard-live-in-concert/",
+        "views": 10
+      },
+      {
+        "path": "/posts/istanbul-eurovolley-women-2026-final-round/",
+        "views": 10
+      },
+      {
+        "path": "/posts/chicago-cloud-gate/",
+        "views": 10
+      },
+      {
+        "path": "/ko/free/trip-checklist/",
+        "views": 10
+      },
+      {
+        "path": "/ko/posts/bali-tanah-lot/",
+        "views": 10
+      },
+      {
+        "path": "/ko/posts/dubai-al-khayma-heritage-restaurant/",
+        "views": 10
+      },
+      {
+        "path": "/ko/posts/bodrum-bodrum-castle/",
+        "views": 10
+      },
+      {
+        "path": "/posts/pasay-city-lalala-fest-manila-2026/",
+        "views": 10
+      },
+      {
+        "path": "/regions/gyeongju/",
+        "views": 10
+      },
+      {
+        "path": "/posts/new-delhi-bwf-world-championships-2026/",
+        "views": 10
+      },
+      {
+        "path": "/events/",
+        "views": 10
+      }
+    ],
+    "risers": [
+      {
+        "path": "/ko/",
+        "delta": 55
+      },
+      {
+        "path": "/ko/destinations/philippines/",
+        "delta": 20
+      },
+      {
+        "path": "/posts/goa-fort-aguada/",
+        "delta": 20
+      },
+      {
+        "path": "/ko/posts/little-india-super-deluxe-kitchen/",
+        "delta": 20
+      },
+      {
+        "path": "/my-trip/",
+        "delta": 20
+      },
+      {
+        "path": "/posts/multiple-cities-across-spain-andorra-entry-through-andalusia-finishing-in-granad/",
+        "delta": 20
+      },
+      {
+        "path": "/ko/regions/fukuoka/",
+        "delta": 20
+      },
+      {
+        "path": "/ko/itinerary/",
+        "delta": 20
+      }
+    ],
+    "fallers": [
+      {
+        "path": "/",
+        "delta": -145
+      },
+      {
+        "path": "/tools/best-time/",
+        "delta": -27
+      },
+      {
+        "path": "/destinations/",
+        "delta": -23
+      },
+      {
+        "path": "/destinations/south-korea/",
+        "delta": -16
+      },
+      {
+        "path": "/posts/hanoi-hanoi-old-quarter/",
+        "delta": -15
+      },
+      {
+        "path": "/posts/abu-dhabi-ufc-fight-night-ankalaev-vs-rountree-jr/",
+        "delta": -15
+      },
+      {
+        "path": "/posts/seoul-gyeongbokgung-palace/",
+        "delta": -15
+      },
+      {
+        "path": "/regions/boryeong/",
+        "delta": -14
+      }
+    ]
   }
 ]
