@@ -25,6 +25,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 41.058341899999995
   lng: 28.977767299999996
+  phone: '+90 530 051 83 04'
+  openingHours:
+    - 'Monday: Closed'
+    - 'Tuesday: 6:30 – 11:30 PM'
+    - 'Wednesday: 6:30 – 11:30 PM'
+    - 'Thursday: 6:30 – 11:30 PM'
+    - 'Friday: 6:30 – 11:30 PM'
+    - 'Saturday: 6:30 – 11:30 PM'
+    - 'Sunday: Closed'
 tags:
   - istanbul
   - new & trending

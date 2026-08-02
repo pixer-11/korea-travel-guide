@@ -28,8 +28,6 @@ place:
   lng: 106.8394721
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 20
     weekdayBusy:
       - 12
       - 13
@@ -37,8 +35,6 @@ place:
       - 15
       - 16
       - 17
-    weekendQuiet:
-      - 20
     weekendBusy:
       - 11
       - 12
@@ -49,6 +45,15 @@ place:
       - 17
       - 18
     venueId: ven_6b48726b786c4b7650336252345361305842487266335a4a496843
+  phone: '+62 21 31923698'
+  openingHours:
+    - 'Monday: Closed'
+    - 'Tuesday: 9:00 AM – 8:00 PM'
+    - 'Wednesday: 9:00 AM – 8:00 PM'
+    - 'Thursday: 9:00 AM – 8:00 PM'
+    - 'Friday: 9:00 AM – 8:00 PM'
+    - 'Saturday: 9:00 AM – 8:00 PM'
+    - 'Sunday: 9:00 AM – 8:00 PM'
 tags:
   - jakarta
   - trendy cafe

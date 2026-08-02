@@ -21,6 +21,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 41.023889499999996
   lng: 28.978874400000002
+  phone: '+90 212 293 20 20'
+  openingHours:
+    - 'Monday: 4:00 PM – 12:00 AM'
+    - 'Tuesday: 4:00 PM – 12:00 AM'
+    - 'Wednesday: 4:00 PM – 12:00 AM'
+    - 'Thursday: 4:00 PM – 12:00 AM'
+    - 'Friday: 4:00 PM – 1:00 AM'
+    - 'Saturday: 4:00 PM – 1:00 AM'
+    - 'Sunday: Closed'
 tags:
   - istanbul
   - new & trending

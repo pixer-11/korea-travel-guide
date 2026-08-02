@@ -34,6 +34,15 @@ place:
       - 21
       - 22
     venueId: ven_4d4d73424c2d6e465347705234536131507a4c5966304b4a496843
+  phone: '+62 822-1135-7229'
+  openingHours:
+    - 'Monday: 5:00 PM – 1:00 AM'
+    - 'Tuesday: 5:00 PM – 1:00 AM'
+    - 'Wednesday: 5:00 PM – 1:00 AM'
+    - 'Thursday: 5:00 PM – 1:00 AM'
+    - 'Friday: 5:00 PM – 1:00 AM'
+    - 'Saturday: 5:00 PM – 3:00 AM'
+    - 'Sunday: 5:00 PM – 1:00 AM'
 tags:
   - jakarta
   - street food

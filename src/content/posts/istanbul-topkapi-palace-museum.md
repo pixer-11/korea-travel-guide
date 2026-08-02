@@ -22,15 +22,11 @@ place:
   lng: 28.983378899999995
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 17
     weekdayBusy:
       - 12
       - 13
       - 14
       - 15
-    weekendQuiet:
-      - 17
     weekendBusy:
       - 11
       - 12
@@ -39,6 +35,15 @@ place:
       - 15
       - 16
     venueId: ven_5568715a4d3077424d464152516879356937726c695f4d4a496843
+  phone: '+90 212 512 04 80'
+  openingHours:
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
 tags:
   - istanbul
   - top attraction

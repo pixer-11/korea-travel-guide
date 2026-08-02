@@ -51,7 +51,7 @@ Priority: 33 itinerary stop(s) queued first
   – gangneung-jumunjin-lighthouse.md: nothing new
   – goa-fort-aguada.md: nothing new
   – granada-mirador-de-san-nicolas.md: nothing new
-  ⚠ Places Details 429 after 3 tries — phone/hours unavailable for this post
+  – guangzhou-chen-clan-ancestral-hall.md: nothing new
   – guangzhou-huacheng-square.md: nothing new
   – guilin-reed-flute-cave.md: nothing new
   – gyeongju-hwangnidan-gil.md: nothing new
@@ -63,12 +63,24 @@ Priority: 33 itinerary stop(s) queued first
   – hiroshima-hiroshima-breakfast.md: nothing new
   – hoi-an-hoi-an-night-market.md: nothing new
   – hoi-an-japanese-bridge.md: nothing new
-  ⚠ Places Details 429 after 3 tries — phone/hours unavailable for this post
-  ⚠ Places Details 429 after 3 tries — phone/hours unavailable for this post
-  ⚠ Places Details 429 after 3 tries — phone/hours unavailable for this post
-  ⚠ Places Details 429 after 3 tries — phone/hours unavailable for this post
-  ⚠ Places Details 429 after 3 tries — phone/hours unavailable for this post
+  – hyderabad-chowmahalla-palace.md: nothing new
+  – ibiza-castle-of-ibiza.md: nothing new
+  – incheon-chinatown.md: nothing new
+  – incheon-wolmi-theme-park.md: nothing new
+  ✓ istanbul-kinu.md +7h hours
+  ✓ istanbul-sen-den-restaurant.md +phone +7h hours
+  ✓ istanbul-topkapi-palace-museum.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 17h (venue not open then) — nothing left; weekendQuiet: dropped 17h (venue not open then) — nothing left
+  ✓ istanbul-turk-fatih-tutak.md +phone +7h hours
+  – izmir-clock-tower-of-izmir.md: nothing new
+  – jaipur-hawa-mahal.md: nothing new
+  – jaipur-jal-mahal.md: nothing new
+  ✓ jakarta-gajah-mada-food-street.md +phone +7h hours
+  ✓ jakarta-giyanti-coffee-roastery.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 20h (venue not open then) — nothing left; weekendQuiet: dropped 20h (venue not open then) — nothing left
+  ✓ jakarta-social-house-grand-indonesia.md +phone +7h hours
+  ✓ jakarta-taman-mini-indonesia-indah.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 20h (venue not open then); weekendQuiet: dropped 20h (venue not open then)
+  ✓ jeju-hyeopjae-beach.md +7h hours
 
-⛔ Places Details failing with no-api-key (5 in a row) — stopping early. Not reported as a quota hit; check the key has Places API (New) enabled with no referrer/IP restriction. Note a drained project also returns 403 intermittently alongside its 429s, so check the day's quota before assuming a key problem.
-
-BACKFILL RESULT: updated 0, already-complete 147, no-new-data 63, no-place 49, quota-429 0, api-error 6 (last: no-api-key), processed 69 of 615 (APPLIED).
+BACKFILL RESULT: updated 9, already-complete 153, no-new-data 71, no-place 57, closed-quarantined 0, quota-429 0, api-error 0, processed 80 of 635 (APPLIED).

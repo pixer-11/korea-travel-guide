@@ -32,14 +32,8 @@ place:
   lng: 106.88933879999999
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 7
-      - 8
-      - 9
-      - 20
-    weekendQuiet:
-      - 7
-      - 20
+    weekdayQuiet: [7, 8, 9]
+    weekendQuiet: [7]
     weekendBusy:
       - 11
       - 12
@@ -51,6 +45,15 @@ place:
       - 18
       - 19
     venueId: ven_63514d6e6b4c3779724e445234536174444630324a61594a496843
+  phone: '+62 811-8882-0220'
+  openingHours:
+    - 'Monday: 6:00 AM – 8:00 PM'
+    - 'Tuesday: 6:00 AM – 8:00 PM'
+    - 'Wednesday: 6:00 AM – 8:00 PM'
+    - 'Thursday: 6:00 AM – 8:00 PM'
+    - 'Friday: 6:00 AM – 8:00 PM'
+    - 'Saturday: 6:00 AM – 8:00 PM'
+    - 'Sunday: 6:00 AM – 8:00 PM'
 tags:
   - jakarta
   - top attraction

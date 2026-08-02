@@ -42,6 +42,15 @@ place:
       - 21
       - 22
     venueId: ven_556d4b67776439684f58705234536130486975444b57674a496843
+  phone: '+62 858-1771-0002'
+  openingHours:
+    - 'Monday: 11:00 AM – 12:00 AM'
+    - 'Tuesday: 11:00 AM – 12:00 AM'
+    - 'Wednesday: 11:00 AM – 12:00 AM'
+    - 'Thursday: 11:00 AM – 12:00 AM'
+    - 'Friday: 11:00 AM – 1:00 AM'
+    - 'Saturday: 11:00 AM – 1:00 AM'
+    - 'Sunday: 11:00 AM – 12:00 AM'
 tags:
   - jakarta
   - local restaurant

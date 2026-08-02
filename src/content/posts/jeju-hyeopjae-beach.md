@@ -56,6 +56,14 @@ place:
       - 19
       - 20
     venueId: ven_776d344f7a79526953494152554444684277777a4262384a496843
+  openingHours:
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
   - jeju
   - top attraction
