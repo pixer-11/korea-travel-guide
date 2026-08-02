@@ -55,6 +55,7 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       run: ${{ steps.phase.outputs.run }}
+      limit: ${{ steps.phase.outputs.limit }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -68,11 +69,21 @@ jobs:
           # run; only the daily chain defers to whose turn it is.
           if [ "${{ github.event_name }}" != "workflow_run" ]; then
             echo "run=1" >> "$GITHUB_OUTPUT"
+            echo "limit=80" >> "$GITHUB_OUTPUT"
           elif [ "$PHASE" != "details" ]; then
-            echo "run=0" >> "$GITHUB_OUTPUT"
-            echo "단계가 '$PHASE' 이므로 건너뜁니다 (대량발행으로 전환됨)."
+            # The country phase used to skip this entirely — but bulk publishing
+            # ADDS 25-75 small venues a day, exactly the posts whose phone/hours
+            # Google lists late, so pausing the top-up for the 3-4 week fill
+            # would pile up the very debt the handover said was paid (owner
+            # caught it 2026-08-02). Run small instead: 25 keeps the top-up
+            # alive while leaving Details quota for the bulk batch; on a tight
+            # day the 429 guard no-ops gracefully like everywhere else.
+            echo "run=1" >> "$GITHUB_OUTPUT"
+            echo "limit=25" >> "$GITHUB_OUTPUT"
+            echo "단계가 '$PHASE' — 신규 글 보충용 소량(25편)으로 계속 돕니다."
           else
             echo "run=1" >> "$GITHUB_OUTPUT"
+            echo "limit=80" >> "$GITHUB_OUTPUT"
           fi
 
   details:
@@ -104,7 +115,7 @@ jobs:
               *) SLUGS="$FIRST_LINE" ;;
             esac
           fi
-          args=(--apply --limit "${{ github.event.inputs.limit || '80' }}")
+          args=(--apply --limit "${{ github.event.inputs.limit || needs.gate.outputs.limit || '80' }}")
           if [ -n "$SLUGS" ]; then args+=("--slugs=$SLUGS"); fi
           # pipefail: without it the pipeline's exit status is tee's, so a
           # crashed node (e.g. a missing import) reports SUCCESS with an empty
