@@ -177,6 +177,11 @@ function regionRedirects() {
     'quezon-city': 'manila',
   'makati-city': 'makati',
     xian: 'xi-an',
+    // Greater-Bangkok satellite: Nonthaburi (Impact Arena's province) has no
+    // hub of its own, which sent its quarantined concert post's 301 to the
+    // homepage. Bangkok is where those visitors were going anyway — same
+    // metro-area convention as pasay/quezon → manila above.
+    nonthaburi: 'bangkok',
   };
   const canon = (name) => {
     const raw = regionSlug(name);
@@ -225,9 +230,22 @@ function regionRedirects() {
     ['taipei-official-hige-dandism-asia-tour-2026', 'taipei-official-hige-dandism-asia-tour-2026-taipei'],
     ['venice-venice-international-film-festival-mostra', 'venice-venice-international-film-festival-mostra-del-cinema'],
   ];
+  // Resolve one hop at build time: when the KEPT twin is itself quarantined,
+  // pointing at it produced a 301→301 chain ending wherever the draft rule
+  // sent it — for bangkok-f-forever that was the HOMEPAGE (Nonthaburi has no
+  // live hub), a context-free landing flagged by the 2026-08-03 live audit.
+  // Send the gone twin straight to the kept twin's CURRENT destination; the
+  // daily rebuild re-points it at the post automatically when it revives.
+  const draftBySlug = new Map(drafts.map((d) => [d.slug, d]));
   for (const [gone, kept] of twinned) {
+    const dk = draftBySlug.get(kept);
     for (const p of ['', '/ko', '/ja', '/es', '/zh']) {
-      lines.push(`${p}/posts/${gone}/ ${p}/posts/${kept}/ 301`);
+      if (dk) {
+        const reg = canon(dk.region);
+        lines.push(`${p}/posts/${gone}/ ${reg && liveHubs.has(reg) ? `${p}/regions/${reg}/` : (p || '/')} 301`);
+      } else {
+        lines.push(`${p}/posts/${gone}/ ${p}/posts/${kept}/ 301`);
+      }
     }
   }
   // Same venue, two posts: the 2026-07-28 geocode backfill gave the older,

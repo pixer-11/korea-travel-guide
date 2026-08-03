@@ -237,6 +237,15 @@ async function handleSubscribe(request, env) {
       const v = String(form.get(`fields[${k}]`) || '');
       if (v) fields[k] = v;
     }
+    // itinerary_url lands as a LINK in the welcome email. The form only ever
+    // sends our own itinerary paths, but the endpoint is public — a crafted
+    // POST could plant an arbitrary external URL and turn our welcome mail
+    // into a phishing carrier. Accept only our own /itinerary/ pages; anything
+    // else is dropped (signup still proceeds, just without the deep link).
+    if (fields.itinerary_url &&
+        !/^https:\/\/wanderatlasguides\.com\/(?:(?:ko|ja|es|zh)\/)?itinerary\/[a-z0-9-]+\/?$/.test(fields.itinerary_url)) {
+      delete fields.itinerary_url;
+    }
     if (!signupGroupId) {
       try {
         const g = await ml(env, `/groups?filter[name]=${encodeURIComponent(SIGNUP_GROUP)}&limit=100`);
@@ -312,6 +321,22 @@ export default {
       return new Response(`error: ${e.message}`, { status: 500 });
     }
     // Anything else (incl. the site's own 404 page) — serve static assets.
-    return env.ASSETS.fetch(request);
+    const res = await env.ASSETS.fetch(request);
+    // Slash-less URLs of REDIRECTED posts 404ed: the assets layer auto-corrects
+    // trailing slashes only for pages that exist, and _redirects entries match
+    // exact paths — so /posts/<retired-slug> (no slash) fell straight to 404
+    // while /posts/<retired-slug>/ 301ed properly (live-render audit,
+    // 2026-08-03). On a would-be 404 with no slash and no file extension, send
+    // the browser to the slashed path once; its next request hits _redirects.
+    // The slashed variant of a truly-missing page still 404s normally, so no
+    // loop is possible.
+    if (res.status === 404 && request.method === 'GET') {
+      const url = new URL(request.url);
+      if (!url.pathname.endsWith('/') && !/\.[a-z0-9]+$/i.test(url.pathname)) {
+        url.pathname += '/';
+        return Response.redirect(url.toString(), 301);
+      }
+    }
+    return res;
   },
 };
