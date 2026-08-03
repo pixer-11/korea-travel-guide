@@ -1,47 +1,47 @@
 ---
-title: "Wat Tham Suea: Krabi Travel Guide"
+title: 'Wat Tham Suea: Krabi Travel Guide'
 description: Wat Tham Suea (Tiger Cave Temple) sits in the jungle about 8km north of Krabi Town and is best known for its 1,237-step staircase to a hilltop golden Buddha with panoramic views over limestone karsts.
-country: "Thailand"
-region: "Krabi"
-category: "attraction"
-pubDate: "2026-07-22T09:07:54.165Z"
+country: Thailand
+region: Krabi
+category: attraction
+pubDate: '2026-07-22T09:07:54.165Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wat_Tham_Suea_SF0001.jpg/1920px-Wat_Tham_Suea_SF0001.jpg"
-  credit: "Photo: Stefan Fussan / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Wat_Tham_Suea_SF0001.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wat_Tham_Suea_SF0001.jpg/1920px-Wat_Tham_Suea_SF0001.jpg
+  credit: 'Photo: Stefan Fussan / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Wat_Tham_Suea_SF0001.jpg
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/32301231_HP6EdFRMZDiQ8JHckJkpXrNCgu-sKYuFJOF1kig6kQ0.jpg
     credit: 'Photo: Foursquare user content (Wat Thum Sua (วัดถ้ำเสือ))'
     license: foursquare
     source: https://foursquare.com/v/4d55046796ed5481fadb0370
 place:
-  id: "ChIJO2O10qqWUTAREYioi4E8t1Q"
-  name: "Wat Tham Suea"
-  address: "35 Tambon Krabi Noi, Amphoe Mueang Krabi, Chang Wat Krabi 81000, Thailand"
+  id: ChIJO2O10qqWUTAREYioi4E8t1Q
+  name: Wat Tham Suea
+  address: 35 Tambon Krabi Noi, Amphoe Mueang Krabi, Chang Wat Krabi 81000, Thailand
   rating: 4.6
   userRatingsTotal: 13769
-  googleMapsUrl: "https://maps.google.com/?cid=6104414347015522321&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=6104414347015522321&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 8.1239259
   lng: 98.92513100000001
 tags:
-  - "krabi"
-  - "top attraction"
-quickAnswer: "Wat Tham Suea (Tiger Cave Temple) sits in the jungle about 8km north of Krabi Town and is best known for its 1,237-step staircase to a hilltop golden Buddha with panoramic views over limestone karsts. Go at dawn (opens around 5-6am) to beat the heat and crowds, wear light clothing that covers shoulders and knees, and budget 2-3 hours to see both the cave/forest temple grounds below and the summit climb. A tuk-tuk or rented scooter from Krabi Town is the easiest way in, since there's no direct public bus."
+  - krabi
+  - top attraction
+quickAnswer: Wat Tham Suea (Tiger Cave Temple) sits in the jungle about 8km north of Krabi Town and is best known for its 1,237-step staircase to a hilltop golden Buddha with panoramic views over limestone karsts. Go at dawn (opens around 5-6am) to beat the heat and crowds, wear light clothing that covers shoulders and knees, and budget 2-3 hours to see both the cave/forest temple grounds below and the summit climb. A tuk-tuk or rented scooter from Krabi Town is the easiest way in, since there's no direct public bus.
 faq:
-  - q: "How many steps are there to the top of Wat Tham Suea?"
-    a: "The staircase is commonly cited as having 1,237 steps, climbing steeply from the base of the hill to a summit shrine with a golden Buddha statue and panoramic views."
-  - q: "How do I get to Wat Tham Suea from Krabi Town?"
-    a: "There's no direct bus route; most visitors go by rented scooter, taxi, or negotiated tuk-tuk, a roughly 15-20 minute ride to the temple grounds about 8km north of town."
-  - q: "How long does the visit take?"
-    a: "Budget 2-3 hours total: time to explore the ground-level cave shrines and forest grounds, plus 45-90 minutes each way for the summit climb, depending on fitness and stops."
-  - q: "What should I wear?"
-    a: "Modest clothing covering shoulders and knees, since it's an active monastery, plus sturdy closed-toe shoes for the steep, sometimes slippery staircase."
-  - q: "When is the best time to visit?"
-    a: "Early morning, close to opening (around 5-6am), during the dry season from November to March, to avoid heat, crowds, and slick steps."
+  - q: How many steps are there to the top of Wat Tham Suea?
+    a: The staircase is commonly cited as having 1,237 steps, climbing steeply from the base of the hill to a summit shrine with a golden Buddha statue and panoramic views.
+  - q: How do I get to Wat Tham Suea from Krabi Town?
+    a: There's no direct bus route; most visitors go by rented scooter, taxi, or negotiated tuk-tuk, a roughly 15-20 minute ride to the temple grounds about 8km north of town.
+  - q: How long does the visit take?
+    a: 'Budget 2-3 hours total: time to explore the ground-level cave shrines and forest grounds, plus 45-90 minutes each way for the summit climb, depending on fitness and stops.'
+  - q: What should I wear?
+    a: Modest clothing covering shoulders and knees, since it's an active monastery, plus sturdy closed-toe shoes for the steep, sometimes slippery staircase.
+  - q: When is the best time to visit?
+    a: Early morning, close to opening (around 5-6am), during the dry season from November to March, to avoid heat, crowds, and slick steps.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

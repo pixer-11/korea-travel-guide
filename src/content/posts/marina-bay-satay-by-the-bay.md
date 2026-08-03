@@ -38,6 +38,7 @@ faq:
   - q: Do I need to pay to enter Gardens by the Bay to eat here?
     a: No — Satay by the Bay sits in the free outdoor area of Gardens by the Bay, so you don't need a ticket to the paid Cloud Forest or Flower Dome conservatories to eat there.
 aiGenerated: true
+draft: true
 ---
 
 ## Why go

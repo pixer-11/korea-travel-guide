@@ -49,7 +49,7 @@ faq:
   - q: What else is nearby?
     a: Gyeongpo Beach is a 5–10 minute walk away, and Ojukheon House, the historic home linked to scholar Yi I, is a short ride from the lake.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

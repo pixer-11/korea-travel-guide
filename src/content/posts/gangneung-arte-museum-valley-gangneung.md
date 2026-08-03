@@ -20,7 +20,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 37.7917805
   lng: 128.90718999999999
-  phone: '+82 1899-5008'
+  phone: +82 1899-5008
   openingHours:
     - 'Monday: 10:00 AM – 8:00 PM'
     - 'Tuesday: 10:00 AM – 8:00 PM'
@@ -45,6 +45,7 @@ faq:
   - q: What else is nearby to combine with the visit?
     a: Ojukheon House, Gyeongpo Lake and Beach, and Anmok coffee street are all within easy taxi range for a combined half-day or full-day itinerary.
 aiGenerated: true
+draft: true
 ---
 
 ## Why go

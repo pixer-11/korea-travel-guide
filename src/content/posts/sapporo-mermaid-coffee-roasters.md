@@ -66,6 +66,7 @@ faq:
   - q: What else is nearby worth combining with the visit?
     a: It's a short walk from Susukino's Ramen Yokocho alley, Odori Park, and the Sapporo TV Tower, making it easy to fold into a half-day downtown loop.
 aiGenerated: true
+draft: true
 ---
 
 ## Why go

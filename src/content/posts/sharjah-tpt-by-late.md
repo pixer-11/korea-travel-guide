@@ -59,6 +59,7 @@ faq:
   - q: Is it easy to combine with other things nearby?
     a: Yes — Muwaileh Commercial and the surrounding Misk area have a growing cluster of cafés and casual eateries, and it's a reasonable stop if you're exploring Sharjah's University City side of town.
 aiGenerated: true
+draft: true
 ---
 
 ## Why go

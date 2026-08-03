@@ -75,7 +75,7 @@ faq:
   - q: Is parking difficult?
     a: Yes, the on-site lot fills fast on weekends and holidays. Arrive early, be ready to circle for street parking along the access roads, or use the DASH shuttle instead.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

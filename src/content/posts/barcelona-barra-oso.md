@@ -26,7 +26,7 @@ faq:
   - q: What are the opening hours?
     a: Not fixed here — as a newly opened, in-demand restaurant, hours can shift. Check the current schedule and reservation policy directly before planning your visit.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

@@ -1,8 +1,8 @@
 ---
-title: "Gyeongbokgung Palace: Seoul Travel Guide"
+title: 'Gyeongbokgung Palace: Seoul Travel Guide'
 description: Gyeongbokgung Palace, Seoul's largest and grandest Joseon-era royal palace, is best reached via Gyeongbokgung Station (Line 3), Exit 5, which leads almost directly to the main gate.
 region: Seoul
-country: "South Korea"
+country: South Korea
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 37.579617
   lng: 126.977041
-  phone: '+82 2-3700-3900'
+  phone: +82 2-3700-3900
   openingHours:
     - 'Monday: 9:00 AM – 6:30 PM'
     - 'Tuesday: Closed'
@@ -50,7 +50,7 @@ faq:
   - q: What's the best time of year to visit?
     a: Late October to early November is considered peak season for foliage around Gyeonghoeru and Hyangwonjeong, while April brings cherry blossoms along the palace walls. Early mornings year-round are quieter than midday.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

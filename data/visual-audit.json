@@ -3831,5 +3831,1678 @@
   "reason": "Suspension bridge with Asian architecture visible",
   "reasonKo": "현수교, 아시아 건축물 명확함",
   "at": "2026-08-03T12:49:39.913Z"
+ },
+ "jeonju-jeonju-hanok-village-cafe-masirange\u0001https://fastly.4sqi.net/img/general/original/1800723_YFJUpbau7UzuvHjHT7OIqCahDYWrFXRqD0wP2nY7ac0.jpg": {
+  "slug": "jeonju-jeonju-hanok-village-cafe-masirange",
+  "verdict": "MATCH",
+  "reason": "Storefront entrance with signage, modern aesthetic",
+  "reasonKo": "간판 있는 카페 입구, 모던한 분위기",
+  "at": "2026-08-03T14:28:31.340Z"
+ },
+ "jeonju-jeonju-hanok-village-restaurant-jeonju-is-jeonju\u0001https://fastly.4sqi.net/img/general/original/116390231_BEfv6QkOqBs3HNsqmuxHHSOZJYlUUKuxZH-IMysXwok.jpg": {
+  "slug": "jeonju-jeonju-hanok-village-restaurant-jeonju-is-jeonju",
+  "verdict": "MATCH",
+  "reason": "Korean soup dish with traditional seasonings and sides",
+  "reasonKo": "한식 전통 국물 요리, 밑반찬 포함",
+  "at": "2026-08-03T14:28:33.741Z"
+ },
+ "jinju-jinju-national-museum\u0001https://upload.wikimedia.org/wikipedia/commons/1/18/The_Jinju_National_Museum.jpg": {
+  "slug": "jinju-jinju-national-museum",
+  "verdict": "MATCH",
+  "reason": "Modern museum building with traditional Korean architecture",
+  "reasonKo": "한국식 전통 건축의 현대 박물관",
+  "at": "2026-08-03T14:28:37.355Z"
+ },
+ "jinju-jinjuseong-fortress\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jinjuseong_Fortress_02_-_Gongbukmun_Gate.jpg/3840px-Jinjuseong_Fortress_02_-_Gongbukmun_Gate.jpg": {
+  "slug": "jinju-jinjuseong-fortress",
+  "verdict": "MATCH",
+  "reason": "Namханsan fortress gate, Jinju landmark architecture",
+  "reasonKo": "진주 남한산성 대표 건축물 정확함",
+  "at": "2026-08-03T14:28:41.080Z"
+ },
+ "jiufen-jiufen-old-street\u0001https://fastly.4sqi.net/img/general/original/559041_b_fWt1a_XtHnEFreJ1lT6Oqeom8gQiUJws7Djg3bv1M.jpg": {
+  "slug": "jiufen-jiufen-old-street",
+  "verdict": "MATCH",
+  "reason": "Authentic Jiufen Old Street alley with red lanterns",
+  "reasonKo": "구펀 올드스트릿의 정통 골목, 빨간 제등",
+  "at": "2026-08-03T14:28:43.903Z"
+ },
+ "johor-bahru-johor-zoo\u0001https://fastly.4sqi.net/img/general/original/3024368_9HY8noyxofVJHwlSLv6oL-eUwm64CqlfhsxEQ5nfOFs.jpg": {
+  "slug": "johor-bahru-johor-zoo",
+  "verdict": "MATCH",
+  "reason": "Zoo enclosure with animal, visitors watching",
+  "reasonKo": "동물원 우리와 동물, 방문객",
+  "at": "2026-08-03T14:28:46.571Z"
+ },
+ "kampong-glam-ayasofya-turkish-restaurant\u0001https://fastly.4sqi.net/img/general/original/2552338_bAG_Yj_7AT9up_zUffTOlSKNkXwzPoBQMSug8p-xmLM.jpg": {
+  "slug": "kampong-glam-ayasofya-turkish-restaurant",
+  "verdict": "MATCH",
+  "reason": "Turkish restaurant interior with Ottoman architectural décor",
+  "reasonKo": "오스만 건축 장식의 터키 레스토랑 인테리어",
+  "at": "2026-08-03T14:28:49.542Z"
+ },
+ "kampong-glam-kampong-glam-cafe\u0001https://fastly.4sqi.net/img/general/original/5990381_A8HAh9bYo0eEixBzDVe-KIUErExySV7fgw3ohk-h_Zo.jpg": {
+  "slug": "kampong-glam-kampong-glam-cafe",
+  "verdict": "MATCH",
+  "reason": "Kampong Glam Cafe storefront with distinctive signage",
+  "reasonKo": "캄퐁글람카페 간판과 상점 외관",
+  "at": "2026-08-03T14:28:52.835Z"
+ },
+ "kampong-glam-kampong-glam\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/2016_Singapur%2C_Kampong_Glam%2C_Centrum_Dziedzictwa_Malajskiego%2C_Dawny_Pa%C5%82ac_Kampong_Glam_%2804%29.jpg/1920px-2016_Singapur%2C_Kampong_Glam%2C_Centrum_Dziedzictwa_Malajskiego%2C_Dawny_Pa%C5%82ac_Kampong_Glam_%2804%29.jpg": {
+  "slug": "kampong-glam-kampong-glam",
+  "verdict": "MISMATCH",
+  "reason": "Building is Malay Heritage Centre, not Kampong Glam neighbor",
+  "reasonKo": "말레이 헤리티지 센터, 깜퐁 글람 아님",
+  "at": "2026-08-03T14:28:55.881Z"
+ },
+ "kanazawa-curio-espresso-and-vintage-design-cafe\u0001https://fastly.4sqi.net/img/general/original/52082622_ARmpLCWcXJ3QPV7D72DBY2OrixHKtsZh8h86-k0goB4.jpg": {
+  "slug": "kanazawa-curio-espresso-and-vintage-design-cafe",
+  "verdict": "MATCH",
+  "reason": "Espresso, vintage décor, Japanese interior design",
+  "reasonKo": "에스프레소, 빈티지 장식, 일본식 인테리어",
+  "at": "2026-08-03T14:28:58.034Z"
+ },
+ "kanazawa-kourin-sushi\u0001https://fastly.4sqi.net/img/general/original/57154149_5XFEtuRa6dqMlqAbY75LHhlztmX_Nuq8TXZJEZFLRFE.jpg": {
+  "slug": "kanazawa-kourin-sushi",
+  "verdict": "MATCH",
+  "reason": "Kourin Sushi storefront at dusk, Kanazawa",
+  "reasonKo": "금沢 코우린 스시 점포 야경",
+  "at": "2026-08-03T14:29:00.279Z"
+ },
+ "kaohsiung-dome-of-light\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dome_of_Light%2C_Kaohsiung%2C_May_2026.jpg/3840px-Dome_of_Light%2C_Kaohsiung%2C_May_2026.jpg": {
+  "slug": "kaohsiung-dome-of-light",
+  "verdict": "MATCH",
+  "reason": "Dome of Light interior, Kaohsiung metro station",
+  "reasonKo": "고雄 돔 오브 라이트 역사",
+  "at": "2026-08-03T14:29:04.985Z"
+ },
+ "koh-samui-izzy-s-specialty-coffee\u0001https://fastly.4sqi.net/img/general/original/484654207_oFgLeRnDuY4OFGvva22jdWwCpYbT3U5Ec3UiADFO2Fs.jpg": {
+  "slug": "koh-samui-izzy-s-specialty-coffee",
+  "verdict": "MATCH",
+  "reason": "Specialty coffee shop, yellow stools, tropical setting",
+  "reasonKo": "전문 커피숍, 노란 의자, 열대 환경",
+  "at": "2026-08-03T14:29:07.420Z"
+ },
+ "koh-samui-salt-oak\u0001https://fastly.4sqi.net/img/general/original/16727607_JUaXnSVY8CqSojXqr16w59Lh2alup5XenQX3z56z_RE.jpg": {
+  "slug": "koh-samui-salt-oak",
+  "verdict": "MATCH",
+  "reason": "Thai cuisine plated artfully, authentic presentation",
+  "reasonKo": "태국 요리, 정성스러운 플레이팅",
+  "at": "2026-08-03T14:29:09.792Z"
+ },
+ "kota-kinabalu-mari-mari-cultural-village\u0001https://fastly.4sqi.net/img/general/original/464839231_cnQ51Yt6HQH2ngowhEQoOLq7C8H4WZ6qO55aEN1PPKg.jpg": {
+  "slug": "kota-kinabalu-mari-mari-cultural-village",
+  "verdict": "MATCH",
+  "reason": "Indigenous cultural village interior with traditional decora",
+  "reasonKo": "전통 문화마을 인테리어, 원주민 장식품",
+  "at": "2026-08-03T14:29:12.307Z"
+ },
+ "kota-kinabalu-tanjung-aru-beach\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tanjung_Aru_Beach_Park.jpg/1920px-Tanjung_Aru_Beach_Park.jpg": {
+  "slug": "kota-kinabalu-tanjung-aru-beach",
+  "verdict": "MATCH",
+  "reason": "Beachfront park with gazebo, tropical setting fits venue",
+  "reasonKo": "해변공원, 정자, 열대지역 설정 일치",
+  "at": "2026-08-03T14:29:18.426Z"
+ },
+ "krabi-into-the-forest\u0001https://fastly.4sqi.net/img/general/original/192655554_7znbIxg0f1-yYQatjd3_yBgfdwPUa_2zlPrAGNvaO6s.jpg": {
+  "slug": "krabi-into-the-forest",
+  "verdict": "MISMATCH",
+  "reason": "Modern bar interior, not Krabi forest setting",
+  "reasonKo": "크라비 숲과 무관한 현대 바",
+  "at": "2026-08-03T14:29:21.678Z"
+ },
+ "krabi-kodam-kitchen-branch-1\u0001https://fastly.4sqi.net/img/general/original/3535474_Meq_6n1EN8s3FtzpnbjL1WvJmgPjiaSu1wWVfEHkIug.jpg": {
+  "slug": "krabi-kodam-kitchen-branch-1",
+  "verdict": "MATCH",
+  "reason": "Thai cuisine spread, Krabi restaurant setting plausible",
+  "reasonKo": "태국 음식, 끄라비 레스토랑 분위기 적합",
+  "at": "2026-08-03T14:29:24.095Z"
+ },
+ "krabi-wat-tham-suea\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wat_Tham_Suea_SF0001.jpg/1920px-Wat_Tham_Suea_SF0001.jpg": {
+  "slug": "krabi-wat-tham-suea",
+  "verdict": "MISMATCH",
+  "reason": "Shows different temple, not Wat Tham Suea",
+  "reasonKo": "왓탐수어가 아닌 다른 사찰",
+  "at": "2026-08-03T14:29:28.154Z"
+ },
+ "kuala-lumpur-batu-caves\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Batu_Caves_stairs_2022-05.jpg/1920px-Batu_Caves_stairs_2022-05.jpg": {
+  "slug": "kuala-lumpur-batu-caves",
+  "verdict": "MATCH",
+  "reason": "Golden statue, colorful stairs, cave entrance iconic",
+  "reasonKo": "황금상, 무지개계단, 동굴입구 상징적",
+  "at": "2026-08-03T14:29:31.880Z"
+ },
+ "kuala-lumpur-merdeka-square\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Merdeka_Square_Malaysia.jpg/3840px-Merdeka_Square_Malaysia.jpg": {
+  "slug": "kuala-lumpur-merdeka-square",
+  "verdict": "MATCH",
+  "reason": "Iconic Merdeka Square colonial buildings and field",
+  "reasonKo": "메르데카 광장의 상징적 건물과 잔디",
+  "at": "2026-08-03T14:29:37.129Z"
+ },
+ "kyoto-gyukatsu-kyoto-katsugyu-kyoto-ekimae\u0001https://fastly.4sqi.net/img/general/original/4990766_c8NgKNeQbLT4S6NBBw7wQhE_41_2I6b0GnwmpvFgEmU.jpg": {
+  "slug": "kyoto-gyukatsu-kyoto-katsugyu-kyoto-ekimae",
+  "verdict": "MATCH",
+  "reason": "Restaurant storefront with signage and branding visible",
+  "reasonKo": "레스토랑 외관, 간판, 브랜딩 명확함",
+  "at": "2026-08-03T14:29:40.706Z"
+ },
+ "kyoto-imaya-kyoto-coffee\u0001https://fastly.4sqi.net/img/general/original/39040510_YD1kSIvou1MCkUpZCEcQCDvSyHeBFhbIKSYYliy-XOI.jpg": {
+  "slug": "kyoto-imaya-kyoto-coffee",
+  "verdict": "MATCH",
+  "reason": "Trendy breakfast spread with quality plating",
+  "reasonKo": "세련된 아침식사, 고급스러운 플레이팅",
+  "at": "2026-08-03T14:29:42.962Z"
+ },
+ "kyoto-yoichiba\u0001https://fastly.4sqi.net/img/general/original/77848690_snks_eDS7Y7RwK4ERFbkj-BQ2nz5HazV7YK2Hkak1Ew.jpg": {
+  "slug": "kyoto-yoichiba",
+  "verdict": "MATCH",
+  "reason": "Edamame dish at Japanese restaurant, Kyoto setting",
+  "reasonKo": "교토 일식당의 에다마메 요리",
+  "at": "2026-08-03T14:29:45.813Z"
+ },
+ "labuan-bajo-la-moringa-labuan-bajo\u0001https://fastly.4sqi.net/img/general/original/30282744_hnNvFqgRMMELd6kU7ZQUtAqvaFlzAUOJcIE5b-8LaVA.jpg": {
+  "slug": "labuan-bajo-la-moringa-labuan-bajo",
+  "verdict": "MISMATCH",
+  "reason": "Image shows 'Labuan Bajo' storefront, not 'La Moringa' resta",
+  "reasonKo": "라 모링가가 아닌 라부안바조 상점",
+  "at": "2026-08-03T14:29:48.478Z"
+ },
+ "labuan-bajo-pondok-pohon-tanjung-bunga\u0001https://fastly.4sqi.net/img/general/original/5382107_6aOn4apwhZfOgnNYsRPMr6HdtMbOhNucbsgnK3XGTEI.jpg": {
+  "slug": "labuan-bajo-pondok-pohon-tanjung-bunga",
+  "verdict": "MATCH",
+  "reason": "Hilltop viewpoint with tropical forest, ocean vista",
+  "reasonKo": "열대 숲과 해양 경관이 있는 언덕 전망대",
+  "at": "2026-08-03T14:29:51.485Z"
+ },
+ "labuan-bajo-taman-laut-handayani-seafood-restaurant-labuan-bajo\u0001https://fastly.4sqi.net/img/general/original/1165129_dOR1qKyFJtLVQuj883xi7HVimaWVdoSvQnsanUY_Tpw.jpg": {
+  "slug": "labuan-bajo-taman-laut-handayani-seafood-restaurant-labuan-bajo",
+  "verdict": "MATCH",
+  "reason": "Modern waterfront restaurant with bay views, Labuan Bajo",
+  "reasonKo": "라부안바조 해안 현대식 레스토랑",
+  "at": "2026-08-03T14:29:55.914Z"
+ },
+ "langkawi-kilim-geoforest-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kilim_Geoforest_Park%2C_Langkawi.jpg/1920px-Kilim_Geoforest_Park%2C_Langkawi.jpg": {
+  "slug": "langkawi-kilim-geoforest-park",
+  "verdict": "MATCH",
+  "reason": "Limestone cliffs, turquoise water, mangroves typical of Kili",
+  "reasonKo": "킬림 지오포레스트파크의 특징적 경관",
+  "at": "2026-08-03T14:30:00.703Z"
+ },
+ "las-vegas-peppermill-restaurant-and-fireside-lounge\u0001https://fastly.4sqi.net/img/general/original/38378443_x8KQ9mXptasB4ObdcjcI3FC5QZ3qxNWAI__e-oOzXPE.jpg": {
+  "slug": "las-vegas-peppermill-restaurant-and-fireside-lounge",
+  "verdict": "MATCH",
+  "reason": "Peppermill Restaurant exterior clearly visible, Las Vegas lo",
+  "reasonKo": "페퍼밀 레스토랑 외관 명확함",
+  "at": "2026-08-03T14:30:03.614Z"
+ },
+ "las-vegas-springs-preserve\u0001https://fastly.4sqi.net/img/general/original/716631_pL0UpjcTeY_DinwOgky6UEsFb4Zz7whKkSguaAG2ojQ.jpg": {
+  "slug": "las-vegas-springs-preserve",
+  "verdict": "MATCH",
+  "reason": "Main entrance of Springs Preserve, Las Vegas",
+  "reasonKo": "라스베이거스 스프링스 프리저브 주 입구",
+  "at": "2026-08-03T14:30:06.911Z"
+ },
+ "little-india-chola-cafe-biryani-house-best-biryani-in-singapore\u0001https://fastly.4sqi.net/img/general/original/73130758__zmBdPFFfTUAlyKSM0yQLxYzGGqDU8Sr1-sVbrfjiZQ.jpg": {
+  "slug": "little-india-chola-cafe-biryani-house-best-biryani-in-singapore",
+  "verdict": "MATCH",
+  "reason": "Biryani dish with rice, meat, crispy onions, sauce",
+  "reasonKo": "양파튀김, 소스를 곁들인 비ryani 요리",
+  "at": "2026-08-03T14:30:11.451Z"
+ },
+ "little-india-former-house-of-tan-teng-niah\u0001https://fastly.4sqi.net/img/general/original/1608906_BP7rP1M3Vv9A4npYC4s_fdA_ZuUUfS0wvaIJ6MRFIi8.jpg": {
+  "slug": "little-india-former-house-of-tan-teng-niah",
+  "verdict": "MATCH",
+  "reason": "Colorful colonial building in Little India, Singapore",
+  "reasonKo": "싱가포르 리틀인디아의 화려한 식민지 건축물",
+  "at": "2026-08-03T14:30:14.277Z"
+ },
+ "little-india-veera-flavours\u0001https://fastly.4sqi.net/img/general/original/1399700747_U-zVoXbUmjz123smC6Z2h-pdOxpZZcw5DtGgYSdMaZs.jpg": {
+  "slug": "little-india-veera-flavours",
+  "verdict": "MATCH",
+  "reason": "Biryani dish typical of Little India restaurant",
+  "reasonKo": "리틀인디아 레스토랑의 전형적인 비르야니",
+  "at": "2026-08-03T14:30:16.610Z"
+ },
+ "lombok-elamu-lombok\u0001https://fastly.4sqi.net/img/general/original/51058052_Z5jaVZ3EZqM-Y6xXnvccLNd5KUPv7mplM8OKVgQyXd4.jpg": {
+  "slug": "lombok-elamu-lombok",
+  "verdict": "MATCH",
+  "reason": "Rustic Indonesian restaurant interior, Lombok aesthetic",
+  "reasonKo": "롬복 스타일 소박한 레스토랑 인테리어",
+  "at": "2026-08-03T14:30:18.857Z"
+ },
+ "lombok-sendang-gile-waterfall\u0001https://fastly.4sqi.net/img/general/original/48382350_Y0Y0xl4CG4iWP7yVTTX5UaM34ssVIkreLaWvxhSpy9o.jpg": {
+  "slug": "lombok-sendang-gile-waterfall",
+  "verdict": "MATCH",
+  "reason": "Tall waterfall in lush tropical forest setting",
+  "reasonKo": "울창한 열대림 속 높은 폭포",
+  "at": "2026-08-03T14:30:22.134Z"
+ },
+ "los-angeles-bad-roman\u0001https://fastly.4sqi.net/img/general/original/463594059_7nz7Ts1VXjrzksDpOwFLwPdKlKTK4iz6Y072O7s2wSs.jpg": {
+  "slug": "los-angeles-bad-roman",
+  "verdict": "MATCH",
+  "reason": "Trendy cocktail bar with upscale drinks and ambiance",
+  "reasonKo": "고급 칵테일과 세련된 분위기의 바",
+  "at": "2026-08-03T14:30:25.290Z"
+ },
+ "los-angeles-griffith-observatory\u0001https://fastly.4sqi.net/img/general/original/503969044_KCr7xciVs4fA5VMP2sMs65Ra83dA1n228uI_bogGmCM.jpg": {
+  "slug": "los-angeles-griffith-observatory",
+  "verdict": "MISMATCH",
+  "reason": "This is Griffith Observatory's exterior, but monument in for",
+  "reasonKo": "그리피스 천문대 건물이지만 중앙 기념탑이 맞지 않음",
+  "at": "2026-08-03T14:30:28.776Z"
+ },
+ "los-angeles-hollywood-walk-of-fame\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/1982-07_CA_USA_-_Los_Angeles%2C_Hollywood%2C_Walk_of_Fame.jpg/3840px-1982-07_CA_USA_-_Los_Angeles%2C_Hollywood%2C_Walk_of_Fame.jpg": {
+  "slug": "los-angeles-hollywood-walk-of-fame",
+  "verdict": "MATCH",
+  "reason": "Woman posing at Hollywood Walk of Fame star",
+  "reasonKo": "할리우드 명예의 거리 별 앞의 사진",
+  "at": "2026-08-03T14:30:32.934Z"
+ },
+ "los-angeles-regalade\u0001https://fastly.4sqi.net/img/general/original/46708380_XELveRcacvn-Uh0TL1fo7Gm_o5Ch77rwYx5T44VvfL0.jpg": {
+  "slug": "los-angeles-regalade",
+  "verdict": "MATCH",
+  "reason": "Fine dining seafood dish, French cuisine style",
+  "reasonKo": "프렌치 파인다이닝 해산물 요리",
+  "at": "2026-08-03T14:30:35.942Z"
+ },
+ "los-angeles-santa-monica-pier\u0001https://fastly.4sqi.net/img/general/original/40630492_lB67zrXWgODFpBXtMl0Iud3trRGKYfwB8Uux0eSEldA.jpg": {
+  "slug": "los-angeles-santa-monica-pier",
+  "verdict": "MATCH",
+  "reason": "Santa Monica Pier with iconic rides, beach, ocean",
+  "reasonKo": "상징적인 놀이기구와 해변이 있는 산타모니카 피어",
+  "at": "2026-08-03T14:30:38.641Z"
+ },
+ "los-angeles-urth-caffe\u0001https://upload.wikimedia.org/wikipedia/commons/9/96/Poached_Egg_At_Urth_Caffe_%2833000317%29.jpeg": {
+  "slug": "los-angeles-urth-caffe",
+  "verdict": "MATCH",
+  "reason": "Elegant brunch dish with poached eggs, prosciutto, greens",
+  "reasonKo": "계란, 프로슈토 등 세련된 브런치 요리",
+  "at": "2026-08-03T14:30:43.328Z"
+ },
+ "lyon-cafe-joyeux\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Caf%C3%A9_Joyeux%2C_Lyon.jpg/3840px-Caf%C3%A9_Joyeux%2C_Lyon.jpg": {
+  "slug": "lyon-cafe-joyeux",
+  "verdict": "MATCH",
+  "reason": "Iconic yellow café in Lyon's street setting",
+  "reasonKo": "리옹의 상징적 노란색 카페",
+  "at": "2026-08-03T14:30:47.159Z"
+ },
+ "lyon-carmelo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Lyon_1er_-_Rue_Neuve_-_Restaurant_Carmelo_-_La_fameuse_p%C3%A2te_%C3%A0_la_truffe_servie_dans_sa_meule_01.jpg/1920px-Lyon_1er_-_Rue_Neuve_-_Restaurant_Carmelo_-_La_fameuse_p%C3%A2te_%C3%A0_la_truffe_servie_dans_sa_meule_01.jpg": {
+  "slug": "lyon-carmelo",
+  "verdict": "MATCH",
+  "reason": "Authentic French cuisine preparation in Lyon restaurant sett",
+  "reasonKo": "리옹 레스토랑의 정통 프랑스 요리 준비",
+  "at": "2026-08-03T14:30:50.016Z"
+ },
+ "lyon-les-ventres-jaunes\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Lyon_5e_-_Les_Ventres_Jaunes%2C_salade_des_Ventres_Jaunes.jpg/3840px-Lyon_5e_-_Les_Ventres_Jaunes%2C_salade_des_Ventres_Jaunes.jpg": {
+  "slug": "lyon-les-ventres-jaunes",
+  "verdict": "MATCH",
+  "reason": "Fresh salad with beef and corn, French bistro style",
+  "reasonKo": "프랑스 비스트로 스타일 소고기 샐러드",
+  "at": "2026-08-03T14:30:54.314Z"
+ },
+ "lyon-parc-de-la-tete-d-or\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Parc_de_la_T%C3%AAte_d%27Or_Vue_sur_le_lac7.jpg/1920px-Parc_de_la_T%C3%AAte_d%27Or_Vue_sur_le_lac7.jpg": {
+  "slug": "lyon-parc-de-la-tete-d-or",
+  "verdict": "MATCH",
+  "reason": "Bronze statue in Parc de la Tête d'Or by lake",
+  "reasonKo": "공원 호수 옆 동상, 파크 드 라 테트 도르",
+  "at": "2026-08-03T14:30:59.147Z"
+ },
+ "lyon-vieux-lyon\u0001https://fastly.4sqi.net/img/general/original/36858387_6QQDgZIv-nViWWYEBWXiW9-tbsMv16xiVhaM3BoCYXg.jpg": {
+  "slug": "lyon-vieux-lyon",
+  "verdict": "MATCH",
+  "reason": "Vieux Lyon riverside architecture clearly depicted",
+  "reasonKo": "비유 리옹의 강변 건축물 명확함",
+  "at": "2026-08-03T14:31:02.231Z"
+ },
+ "madrid-museo-nacional-del-prado\u0001https://fastly.4sqi.net/img/general/original/1404096713_fdCDhMiiX1lGAeyRoBaJjfBiJ8x0ErCFaaTgJBN8deo.jpg": {
+  "slug": "madrid-museo-nacional-del-prado",
+  "verdict": "MATCH",
+  "reason": "Prado Museum exterior with gardens and architecture",
+  "reasonKo": "프라도 박물관 외부, 정원과 건축물",
+  "at": "2026-08-03T14:31:06.570Z"
+ },
+ "madrid-plaza-mayor\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Plaza_Mayor_de_Madrid_-_01.jpg/3840px-Plaza_Mayor_de_Madrid_-_01.jpg": {
+  "slug": "madrid-plaza-mayor",
+  "verdict": "MATCH",
+  "reason": "Plaza Mayor Madrid with iconic statue and architecture",
+  "reasonKo": "마드리드 플라자 마요르, 상징적 동상과 건축",
+  "at": "2026-08-03T14:31:11.308Z"
+ },
+ "madrid-royal-palace-of-madrid\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Palacio_Real_de_Madrid_Julio_2016_%28cropped%29.jpg/1920px-Palacio_Real_de_Madrid_Julio_2016_%28cropped%29.jpg": {
+  "slug": "madrid-royal-palace-of-madrid",
+  "verdict": "MISMATCH",
+  "reason": "This is the Royal Palace of La Granja, not Madrid.",
+  "reasonKo": "마드리드 왕궁이 아닌 라 그란하 궁전",
+  "at": "2026-08-03T14:31:16.230Z"
+ },
+ "makati-kariton-x-sabi-sounds\u0001https://fastly.4sqi.net/img/general/original/54083569_FFg2tJdCVHEDLynQGEi16OuqkMndkmi-fOBfg0HEPis.jpg": {
+  "slug": "makati-kariton-x-sabi-sounds",
+  "verdict": "MATCH",
+  "reason": "Ice cream shop, colorful flavors, modern display case",
+  "reasonKo": "아이스크림 가게, 화려한 맛, 현대적 진열장",
+  "at": "2026-08-03T14:31:19.400Z"
+ },
+ "makati-kowloon-station\u0001https://fastly.4sqi.net/img/general/original/8807240_LfGUgcw6G2N5fxO7VdVYOYq_Uh6qjf_ldQRS4uNLZ1U.jpg": {
+  "slug": "makati-kowloon-station",
+  "verdict": "MATCH",
+  "reason": "Kowloon Station storefront in Makati, Philippines",
+  "reasonKo": "마카티의 고울룬 스테이션 매장",
+  "at": "2026-08-03T14:31:21.822Z"
+ },
+ "malacca-a-famosa\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/A_Famosa_Fortress.JPG/1920px-A_Famosa_Fortress.JPG": {
+  "slug": "malacca-a-famosa",
+  "verdict": "MATCH",
+  "reason": "Historic fortress ruins with cannon, Malacca landmark",
+  "reasonKo": "말라카의 유명한 역사 요새 유적",
+  "at": "2026-08-03T14:31:24.957Z"
+ },
+ "malacca-menara-taming-sari\u0001https://fastly.4sqi.net/img/general/original/512524966_F7CwcO8lEb1FYo8gtwJu7IPAsoHXhN7SQyfp6XMx55Q.jpg": {
+  "slug": "malacca-menara-taming-sari",
+  "verdict": "MATCH",
+  "reason": "Tall tower with signage matches Menara Taming Sari",
+  "reasonKo": "타밍사리 탑 특징과 일치",
+  "at": "2026-08-03T14:31:27.959Z"
+ },
+ "malaga-jardin-botanico-historico-la-concepcion\u0001https://fastly.4sqi.net/img/general/original/9989180_YQ9oJvlrnWL5qxR-J--OYK7WPjEFSFcIkn4F21JbGEM.jpg": {
+  "slug": "malaga-jardin-botanico-historico-la-concepcion",
+  "verdict": "MATCH",
+  "reason": "Historic botanical garden with cypress trees, reflecting poo",
+  "reasonKo": "역사적 식물원, 이탈리아 정원, 연못, 전망대",
+  "at": "2026-08-03T14:31:31.198Z"
+ },
+ "manila-fort-santiago\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Fort_Santiago_%28Manila%29%2C_2018_%2801%29.jpg/3840px-Fort_Santiago_%28Manila%29%2C_2018_%2801%29.jpg": {
+  "slug": "manila-fort-santiago",
+  "verdict": "MATCH",
+  "reason": "Fort Santiago entrance with welcome banners clearly visible",
+  "reasonKo": "포트 산티아고 입구, 환영 배너 명확",
+  "at": "2026-08-03T14:31:38.004Z"
+ },
+ "manila-rizal-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Rizal_Monument_%28Manila%2C_2024%29.jpg/1920px-Rizal_Monument_%28Manila%2C_2024%29.jpg": {
+  "slug": "manila-rizal-park",
+  "verdict": "MATCH",
+  "reason": "Rizal Park monument, Manila Philippines confirmed",
+  "reasonKo": "리살공원 기념비, 마닐라 필리핀 확인",
+  "at": "2026-08-03T14:31:41.548Z"
+ },
+ "marina-bay-le-noir\u0001https://fastly.4sqi.net/img/general/original/862340_-G4VSavc3cYZw25WfUSkYx5SsuSSQM_ToWwbhlQ-SMY.jpg": {
+  "slug": "marina-bay-le-noir",
+  "verdict": "MATCH",
+  "reason": "Cocktail at Marina Bay venue with night cityscape backdrop",
+  "reasonKo": "마리나 베이의 야경을 배경으로 한 칸테일",
+  "at": "2026-08-03T14:31:45.965Z"
+ },
+ "marina-bay-satay-by-the-bay\u0001https://fastly.4sqi.net/img/general/original/33316225_QOG777IoBjPwytdaPLumkACVIj8qZqpu2zk2srK3hcg.jpg": {
+  "slug": "marina-bay-satay-by-the-bay",
+  "verdict": "MISMATCH",
+  "reason": "Asian noodle dishes, not satay cuisine",
+  "reasonKo": "사테이가 아닌 아시안 국수 요리",
+  "at": "2026-08-03T14:31:48.941Z"
+ },
+ "marseille-notre-dame-de-la-garde\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Notre-Dame_de_la_Garde_aerial_view_2020.jpeg/1920px-Notre-Dame_de_la_Garde_aerial_view_2020.jpeg": {
+  "slug": "marseille-notre-dame-de-la-garde",
+  "verdict": "MATCH",
+  "reason": "Golden basilica with tower, Marseille cityscape, Mediterrane",
+  "reasonKo": "마르세유 황금 대성당, 지중해 해안 배경",
+  "at": "2026-08-03T14:31:52.524Z"
+ },
+ "marseille-port-antique\u0001https://upload.wikimedia.org/wikipedia/commons/2/23/Port_antique_de_Marseille.jpg": {
+  "slug": "marseille-port-antique",
+  "verdict": "MISMATCH",
+  "reason": "Ancient ruins park, not a restaurant venue",
+  "reasonKo": "식당이 아닌 고대 유적지 공원",
+  "at": "2026-08-03T14:31:56.113Z"
+ },
+ "miami-lafayette-miami\u0001https://fastly.4sqi.net/img/general/original/503878574_3winniI7__Y9oa4FZkNeVhXpF3VTNsVXi0FTtyeUEvA.jpg": {
+  "slug": "miami-lafayette-miami",
+  "verdict": "MATCH",
+  "reason": "Fine dining pasta with caviar, elegant plating",
+  "reasonKo": "캐비어를 곁들인 우아한 파스타 요리",
+  "at": "2026-08-03T14:31:59.356Z"
+ },
+ "miami-talkin-tacos-brickell\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Talkin%E2%80%99_Tacos_Mexican_Restaurant_Brickell_-_Miami_Florida%2C_December_2023.jpg/3840px-Talkin%E2%80%99_Tacos_Mexican_Restaurant_Brickell_-_Miami_Florida%2C_December_2023.jpg": {
+  "slug": "miami-talkin-tacos-brickell",
+  "verdict": "MATCH",
+  "reason": "Restaurant storefront with taco signage in Miami",
+  "reasonKo": "마이애미 타코 레스토랑 외부 사진",
+  "at": "2026-08-03T14:32:04.801Z"
+ },
+ "milan-galleria-vittorio-emanuele-ii\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Galleria_Milano_%28179532365%29.jpeg/1920px-Galleria_Milano_%28179532365%29.jpeg": {
+  "slug": "milan-galleria-vittorio-emanuele-ii",
+  "verdict": "MATCH",
+  "reason": "Iconic Milan gallery interior, glass ceiling, architecture.",
+  "reasonKo": "밀라노 갤러리아, 유리천장, 건축물",
+  "at": "2026-08-03T14:32:08.035Z"
+ },
+ "milan-langosteria-montenapoleone\u0001https://fastly.4sqi.net/img/general/original/2805260_4WNU5c2ZqSOKr8VRMzsNz3VQBhm5o0mykkzcGsW-7JQ.jpg": {
+  "slug": "milan-langosteria-montenapoleone",
+  "verdict": "MATCH",
+  "reason": "Milan storefront with Langosteria signage visible",
+  "reasonKo": "랑고스테리아 간판이 있는 밀라노 매장",
+  "at": "2026-08-03T14:32:10.468Z"
+ },
+ "milan-sandi\u0001https://fastly.4sqi.net/img/general/original/6927758_10HXPzyv7io7Ns-v1k8A5jDr0PwVTaAAWbh4sv5Tx7k.jpg": {
+  "slug": "milan-sandi",
+  "verdict": "MATCH",
+  "reason": "Modern upscale restaurant interior, Milan style dining",
+  "reasonKo": "미닝턴식 현대 고급 식당 인테리어",
+  "at": "2026-08-03T14:32:12.975Z"
+ },
+ "monza-reggia-di-monza\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Reggia_di_Monza.jpg/3840px-Reggia_di_Monza.jpg": {
+  "slug": "monza-reggia-di-monza",
+  "verdict": "MATCH",
+  "reason": "Palace exterior and grounds match Reggia di Monza",
+  "reasonKo": "몬차 왕궁의 외관과 정원과 일치",
+  "at": "2026-08-03T14:32:17.730Z"
+ },
+ "mumbai-kanheri-caves\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kanheri_Caves_prayer_hall.JPG/1920px-Kanheri_Caves_prayer_hall.JPG": {
+  "slug": "mumbai-kanheri-caves",
+  "verdict": "MATCH",
+  "reason": "Ancient cave temple interior with ornate columns",
+  "reasonKo": "장식 기둥이 있는 고대 동굴 사원 내부",
+  "at": "2026-08-03T14:32:20.496Z"
+ },
+ "mumbai-leopold-cafe\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LeopoldCafe_gobeirne.jpg/1920px-LeopoldCafe_gobeirne.jpg": {
+  "slug": "mumbai-leopold-cafe",
+  "verdict": "MATCH",
+  "reason": "Leopold Cafe storefront, Mumbai street setting visible.",
+  "reasonKo": "뭄바이 레오폴드 카페 외관 명확함",
+  "at": "2026-08-03T14:32:23.423Z"
+ },
+ "nagoya-atsuta-horaiken-honten\u0001https://fastly.4sqi.net/img/general/original/162728783_5ws4Xui2phicBAup-0aAQB_OR6KxsWQfkg1fSUH4EDQ.jpg": {
+  "slug": "nagoya-atsuta-horaiken-honten",
+  "verdict": "MATCH",
+  "reason": "Traditional Japanese meal set with unagi dish",
+  "reasonKo": "우나기 요리가 있는 전통 일식 정식",
+  "at": "2026-08-03T14:32:26.509Z"
+ },
+ "nagoya-glitch-coffee-roasters-nagoya\u0001https://fastly.4sqi.net/img/general/original/521946016_020chiZ0RPc3eqLJh3W_WiUByOQtsjfQitIDEUaZGdA.jpg": {
+  "slug": "nagoya-glitch-coffee-roasters-nagoya",
+  "verdict": "MATCH",
+  "reason": "Coffee roastery display with pastries and equipment",
+  "reasonKo": "커피 로스터리 디스플레이, 베이커리 제품",
+  "at": "2026-08-03T14:32:29.083Z"
+ },
+ "nagoya-noritake-garden\u0001https://fastly.4sqi.net/img/general/original/24392102_6y_JHt2YHw_BbzpQnJ39XJAceFOs7wfyJF32bEcj0go.jpg": {
+  "slug": "nagoya-noritake-garden",
+  "verdict": "MISMATCH",
+  "reason": "European brick courtyard, not Noritake Garden Nagoya",
+  "reasonKo": "나고야가 아닌 유럽 건축물",
+  "at": "2026-08-03T14:32:31.753Z"
+ },
+ "naples-archaeological-park-of-pompeii\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Amphitheatre%2C_Archaeological_Park_of_Pompeii%2C_Italy_%28PPL2-Enhanced%29_julesvernex2.jpg/1920px-Amphitheatre%2C_Archaeological_Park_of_Pompeii%2C_Italy_%28PPL2-Enhanced%29_julesvernex2.jpg": {
+  "slug": "naples-archaeological-park-of-pompeii",
+  "verdict": "MISMATCH",
+  "reason": "Roman aqueduct, not Pompeii archaeological site",
+  "reasonKo": "폼페이가 아닌 로마 수로교",
+  "at": "2026-08-03T14:32:35.498Z"
+ },
+ "naples-catacombs-of-san-gennaro\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Catacombs_of_San_Gennaro_%28Naples%29_%281%29.jpg/1920px-Catacombs_of_San_Gennaro_%28Naples%29_%281%29.jpg": {
+  "slug": "naples-catacombs-of-san-gennaro",
+  "verdict": "MATCH",
+  "reason": "Early Christian fresco in Naples catacomb setting",
+  "reasonKo": "나폴리 카타콤브의 초기 기독교 벽화",
+  "at": "2026-08-03T14:32:38.916Z"
+ },
+ "nara-chami-specialty-coffee-roaster-nara-japan\u0001https://fastly.4sqi.net/img/general/original/445641_WpjJVSFA2RBwHl1ck--DlvkzJKwMBQHgNtXJXjv9ols.jpg": {
+  "slug": "nara-chami-specialty-coffee-roaster-nara-japan",
+  "verdict": "MATCH",
+  "reason": "Specialty coffee setup with pour-over equipment, dark roast",
+  "reasonKo": "스페셜티 커피 드립 장비, 다크로스트",
+  "at": "2026-08-03T14:32:41.872Z"
+ },
+ "nara-mizuya-chaya\u0001https://fastly.4sqi.net/img/general/original/10469860_Cjxy4-AuDDr7n4Mt2gDsEiSrcmi8s7I2q38wWYSWTcw.jpg": {
+  "slug": "nara-mizuya-chaya",
+  "verdict": "MATCH",
+  "reason": "Japanese noodle dish in traditional lacquer tray",
+  "reasonKo": "전통 칠기 트레이의 일본 국수 요리",
+  "at": "2026-08-03T14:32:44.709Z"
+ },
+ "nara-sahha-halal-restaurant\u0001https://fastly.4sqi.net/img/general/original/565726512_QAL9kEe9Zd-z_NEShq06150osDKzn5rjJd_DC32x10Q.jpg": {
+  "slug": "nara-sahha-halal-restaurant",
+  "verdict": "MATCH",
+  "reason": "Storefront matches Sahha restaurant in Nara, Japan",
+  "reasonKo": "나라의 사하 레스토랑 외관과 일치",
+  "at": "2026-08-03T14:32:47.971Z"
+ },
+ "new-delhi-humayun-s-tomb\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/PXL_20231129_052234620_Humayun%E2%80%99s_Tomb_New_Delhi%2C_Delhi_110013_35.jpg/3840px-PXL_20231129_052234620_Humayun%E2%80%99s_Tomb_New_Delhi%2C_Delhi_110013_35.jpg": {
+  "slug": "new-delhi-humayun-s-tomb",
+  "verdict": "MATCH",
+  "reason": "Interior of Humayun's Tomb, Delhi architecture",
+  "reasonKo": "훔아윤 무덤의 내부, 델리 건축",
+  "at": "2026-08-03T14:32:51.594Z"
+ },
+ "new-delhi-india-gate\u0001https://upload.wikimedia.org/wikipedia/commons/d/df/India_Gate%2C_New_Delhi_from_West.jpg": {
+  "slug": "new-delhi-india-gate",
+  "verdict": "MATCH",
+  "reason": "India Gate landmark, New Delhi exterior, authentic setting",
+  "reasonKo": "뉴델리 인디아 게이트, 정확한 건축물",
+  "at": "2026-08-03T14:32:55.029Z"
+ },
+ "new-orleans-cafe-du-monde\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Caf%C3%A9_du_Monde_%2855151878663%29.jpg/1920px-Caf%C3%A9_du_Monde_%2855151878663%29.jpg": {
+  "slug": "new-orleans-cafe-du-monde",
+  "verdict": "MATCH",
+  "reason": "Iconic Cafe Du Monde exterior, green awning, New Orleans",
+  "reasonKo": "카페 뒤 몽드 외관, 녹색 차양",
+  "at": "2026-08-03T14:32:59.133Z"
+ },
+ "new-orleans-french-quarter\u0001https://fastly.4sqi.net/img/general/original/66774434_LE0jVXaG65Z22TIZ8C0-ZQP5lC54nXjqGWXx55KNwtM.jpg": {
+  "slug": "new-orleans-french-quarter",
+  "verdict": "MATCH",
+  "reason": "Festive French Quarter passageway with colonial architecture",
+  "reasonKo": "식민지 건축의 축제적 프렌치쿼터",
+  "at": "2026-08-03T14:33:02.775Z"
+ },
+ "new-orleans-jackson-square\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Jackson_Square.jpg/1920px-Jackson_Square.jpg": {
+  "slug": "new-orleans-jackson-square",
+  "verdict": "MATCH",
+  "reason": "Jackson Square with cathedral and statue, New Orleans",
+  "reasonKo": "잭슨 광장, 대성당, 뉴올리언스",
+  "at": "2026-08-03T14:33:06.147Z"
+ },
+ "new-orleans-mardi-gras-world\u0001https://upload.wikimedia.org/wikipedia/commons/4/46/Ireland_Float_New_Orleans_Mardi_Gras_Parade.jpg": {
+  "slug": "new-orleans-mardi-gras-world",
+  "verdict": "MATCH",
+  "reason": "Mardi Gras parade float with leprechaun character",
+  "reasonKo": "마디그라 퍼레이드 플로트, 뉘올리언스",
+  "at": "2026-08-03T14:33:10.367Z"
+ },
+ "new-orleans-mother-s-restaurant\u0001https://upload.wikimedia.org/wikipedia/commons/2/26/Mother%27s_Restaurant%2C_New_Orleans%2C_Louisiana_for_Some_Po%27Boys.jpg": {
+  "slug": "new-orleans-mother-s-restaurant",
+  "verdict": "MATCH",
+  "reason": "Mother's Restaurant interior with signage clearly visible",
+  "reasonKo": "마더스 레스토랑 인테리어, 간판 명확함",
+  "at": "2026-08-03T14:33:16.508Z"
+ },
+ "new-orleans-napoleon-house\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/The_Napoleon_House_-_New_Orleans_February_2026.jpg/1920px-The_Napoleon_House_-_New_Orleans_February_2026.jpg": {
+  "slug": "new-orleans-napoleon-house",
+  "verdict": "MATCH",
+  "reason": "Historic New Orleans building, correct architecture and sett",
+  "reasonKo": "뉴올리언스 역사적 건물, 올바른 건축양식",
+  "at": "2026-08-03T14:33:21.135Z"
+ },
+ "new-taipei-yangmingshan-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Mount_Qixing_under_clear_sky_on_13th_February_2016.jpg/1920px-Mount_Qixing_under_clear_sky_on_13th_February_2016.jpg": {
+  "slug": "new-taipei-yangmingshan-national-park",
+  "verdict": "MATCH",
+  "reason": "Volcanic mountain with lush vegetation, Yangmingshan",
+  "reasonKo": "양명산의 화산 지형과 녹지",
+  "at": "2026-08-03T14:33:24.899Z"
+ },
+ "new-york-balthazar\u0001https://upload.wikimedia.org/wikipedia/commons/1/14/Balthazar_1_%284691446507%29.jpg": {
+  "slug": "new-york-balthazar",
+  "verdict": "MATCH",
+  "reason": "Classic NYC diner interior, vintage architecture, dining sce",
+  "reasonKo": "뉴욕 클래식 다이너, 빈티지 인테리어",
+  "at": "2026-08-03T14:33:31.545Z"
+ },
+ "new-york-central-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Global_Citizen_Festival_Central_Park_New_York_City_from_NYonAir_%2815351915006%29.jpg/1920px-Global_Citizen_Festival_Central_Park_New_York_City_from_NYonAir_%2815351915006%29.jpg": {
+  "slug": "new-york-central-park",
+  "verdict": "MATCH",
+  "reason": "Aerial view of Central Park, NYC skyline",
+  "reasonKo": "센트럴 파크의 공중 뷰, NYC 스카이라인",
+  "at": "2026-08-03T14:33:34.893Z"
+ },
+ "new-york-city-atomix\u0001https://fastly.4sqi.net/img/general/original/2488950_m3DGWWkDUawf5k7DNt3SRuWCr_cXtwE1KUBYZINX-RY.jpg": {
+  "slug": "new-york-city-atomix",
+  "verdict": "MATCH",
+  "reason": "Fine dining plating with caviar, elegant presentation",
+  "reasonKo": "캐비어를 곁들인 고급 요리 플레이팅",
+  "at": "2026-08-03T14:33:38.019Z"
+ },
+ "new-york-the-metropolitan-museum-of-art\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Metropolitan_Museum_of_Art_%28The_Met%29_-_Central_Park%2C_NYC.jpg/1920px-Metropolitan_Museum_of_Art_%28The_Met%29_-_Central_Park%2C_NYC.jpg": {
+  "slug": "new-york-the-metropolitan-museum-of-art",
+  "verdict": "MATCH",
+  "reason": "Metropolitan Museum's iconic Beaux-Arts facade, NYC",
+  "reasonKo": "메트로폴리탄 미술관의 상징적 건축",
+  "at": "2026-08-03T14:33:42.999Z"
+ },
+ "new-york-times-square\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/New_york_times_square-terabass.jpg/1920px-New_york_times_square-terabass.jpg": {
+  "slug": "new-york-times-square",
+  "verdict": "MATCH",
+  "reason": "Iconic Times Square scene with crowds and billboards",
+  "reasonKo": "타임스퀘어의 상징적인 거리 풍경",
+  "at": "2026-08-03T14:33:46.210Z"
+ },
+ "nha-trang-nha-he-coffee-shop\u0001https://fastly.4sqi.net/img/general/original/42658048_ticdP5TZj249H7pQbV-HMAvyfhd7qCZtqurG1hPhHnU.jpg": {
+  "slug": "nha-trang-nha-he-coffee-shop",
+  "verdict": "MATCH",
+  "reason": "Drink with Nha He Coffee branding, trendy interior",
+  "reasonKo": "Nha He Coffee 브랜드 음료, 트렌디한 인테리어",
+  "at": "2026-08-03T14:33:49.117Z"
+ },
+ "nha-trang-po-nagar-temple\u0001https://fastly.4sqi.net/img/general/original/10291561_ZunSal9VobOTLBzN75fYeK3uOfc1STLMxumycFgYBTM.jpg": {
+  "slug": "nha-trang-po-nagar-temple",
+  "verdict": "MATCH",
+  "reason": "Po Nagar Temple towers, authentic Cham architecture, Nha Tra",
+  "reasonKo": "Po Nagar 사원의 특징적인 탑, 참 건축양식, 냐짱",
+  "at": "2026-08-03T14:33:52.897Z"
+ },
+ "nice-cascade-du-chateau\u0001https://upload.wikimedia.org/wikipedia/commons/1/18/Cascade_du_ch%C3%A2teau%2C_Nice_%287726528602%29.jpg": {
+  "slug": "nice-cascade-du-chateau",
+  "verdict": "MATCH",
+  "reason": "Waterfall cascade matches venue name and location",
+  "reasonKo": "폭포가 장소명과 일치",
+  "at": "2026-08-03T14:33:56.755Z"
+ },
+ "nice-promenade-du-paillon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Promenade_du_Paillon_Nice_water_jets_2019.jpg/1920px-Promenade_du_Paillon_Nice_water_jets_2019.jpg": {
+  "slug": "nice-promenade-du-paillon",
+  "verdict": "MATCH",
+  "reason": "Promenade du Paillon's iconic water fountains and plaza",
+  "reasonKo": "프롬나드 파이용의 상징적 분수와 광장",
+  "at": "2026-08-03T14:34:02.793Z"
+ },
+ "okinawa-chatan-steam-seafood\u0001https://fastly.4sqi.net/img/general/original/11141029_9576yXdaVYCMS2fYlxQsix84hZbWpCYcOjV6ZOhFw1w.jpg": {
+  "slug": "okinawa-chatan-steam-seafood",
+  "verdict": "MATCH",
+  "reason": "Live seafood display tank, Japanese signage, Okinawa setting",
+  "reasonKo": "생선 수조, 일본어 표지판, 오키나와",
+  "at": "2026-08-03T14:34:05.467Z"
+ },
+ "okinawa-okinawa-world\u0001https://fastly.4sqi.net/img/general/original/1382802587_0brD0-fuX2THDMXCYBYkUHCpbGNJ6_n8VIBgqByexg0.jpg": {
+  "slug": "okinawa-okinawa-world",
+  "verdict": "MATCH",
+  "reason": "Red Okinawan building with traditional architecture matches ",
+  "reasonKo": "오키나와 전통 건축의 빨간 건물",
+  "at": "2026-08-03T14:34:07.981Z"
+ },
+ "okinawa-southeast-botanical-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/%E6%9D%B1%E5%8D%97%E6%A4%8D%E7%89%A9%E5%9C%92_Southeast_Botanical_Gardens_-_panoramio.jpg/1920px-%E6%9D%B1%E5%8D%97%E6%A4%8D%E7%89%A9%E5%9C%92_Southeast_Botanical_Gardens_-_panoramio.jpg": {
+  "slug": "okinawa-southeast-botanical-gardens",
+  "verdict": "MISMATCH",
+  "reason": "Teepee and Native American imagery, not botanical garden",
+  "reasonKo": "식물원과 무관한 티피 구조물",
+  "at": "2026-08-03T14:34:11.509Z"
+ },
+ "okinawa-zhyvago-coffee-works-okinawa\u0001https://fastly.4sqi.net/img/general/original/147795368_1lBraiQEz7KKBMS50aoiEoKCR2_GdoT_LGGZegS9Rco.jpg": {
+  "slug": "okinawa-zhyvago-coffee-works-okinawa",
+  "verdict": "MATCH",
+  "reason": "Coffee cup with venue name visible, trendy interior",
+  "reasonKo": "카페 컵과 세련된 인테리어 명확함",
+  "at": "2026-08-03T14:34:14.528Z"
+ },
+ "orchard-road-ion-sky\u0001https://fastly.4sqi.net/img/general/original/353789433_9Ba2JniTszQGgMl-2u4wJCve167Aq8GiQQl0R5i0tCk.jpg": {
+  "slug": "orchard-road-ion-sky",
+  "verdict": "MATCH",
+  "reason": "Aerial view of Orchard Road Singapore skyline",
+  "reasonKo": "싱가포르 오차드로드 항공뷰",
+  "at": "2026-08-03T14:34:17.202Z"
+ },
+ "orchard-road-maxwell-food-centre\u0001https://fastly.4sqi.net/img/general/original/12802501_y6DwmWodyOMAX6irH83AXEhs2EP9vgQ6orPo3xfj1H4.jpg": {
+  "slug": "orchard-road-maxwell-food-centre",
+  "verdict": "MATCH",
+  "reason": "Maxwell Food Centre exterior, Orchard Road Singapore",
+  "reasonKo": "맥스웰 푸드센터 외관, 싱가포르",
+  "at": "2026-08-03T14:34:19.587Z"
+ },
+ "orchard-road-merci-marcel-orchard\u0001https://fastly.4sqi.net/img/general/original/43726211_GB-uLAb0kM9kS_INoMIiTmkRJ2eerX4LSOyoWoVsbOk.jpg": {
+  "slug": "orchard-road-merci-marcel-orchard",
+  "verdict": "MATCH",
+  "reason": "Neon sign 'MERCEL' matches venue branding clearly",
+  "reasonKo": "네온사인이 장소 브랜딩과 일치",
+  "at": "2026-08-03T14:34:22.750Z"
+ },
+ "osaka-dotonbori\u0001https://fastly.4sqi.net/img/general/original/575944775_JYq55XhcLpLi29ymk9T55m0meaBTFXQ3t6FrQExRPSg.jpg": {
+  "slug": "osaka-dotonbori",
+  "verdict": "MATCH",
+  "reason": "Dotonbori street restaurant with iconic crab sign",
+  "reasonKo": "도톤보리 거리의 유명한 게 간판",
+  "at": "2026-08-03T14:34:25.947Z"
+ },
+ "osaka-lilo-coffee-roasters\u0001https://fastly.4sqi.net/img/general/original/26504858__6u-Ov1MVdPZkwjzGJlDj5P4ATtCiSjU0Zw3jlFZcl4.jpg": {
+  "slug": "osaka-lilo-coffee-roasters",
+  "verdict": "MATCH",
+  "reason": "Coffee shop interior with menu board and decor",
+  "reasonKo": "커피숍 인테리어, 메뉴판, 장식품",
+  "at": "2026-08-03T14:34:28.545Z"
+ },
+ "paju-the-third-tunnel\u0001https://fastly.4sqi.net/img/general/original/67350312_bs_UQaEcuy0z_n1nCvCcwgLOY9o-39m1wRZZsMZK9Fw.jpg": {
+  "slug": "paju-the-third-tunnel",
+  "verdict": "MATCH",
+  "reason": "Third Tunnel entrance sculpture, Paju DMZ location",
+  "reasonKo": "파주 제3땅굴 입구 조각상",
+  "at": "2026-08-03T14:34:31.045Z"
+ },
+ "palawan-puerto-princesa-subterranean-river-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Puerto-Princesa_Subterranean_River_National_Park-112012.jpg/1920px-Puerto-Princesa_Subterranean_River_National_Park-112012.jpg": {
+  "slug": "palawan-puerto-princesa-subterranean-river-national-park",
+  "verdict": "MATCH",
+  "reason": "Iconic underground river cavern with limestone cliffs",
+  "reasonKo": "석회암 절벽의 유명한 지하강",
+  "at": "2026-08-03T14:34:34.804Z"
+ },
+ "palawan-secret-lagoon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Secret_Lagoon_at_Malakdang%2C_Sabtang_Island%2C_Batanes.jpg/1920px-Secret_Lagoon_at_Malakdang%2C_Sabtang_Island%2C_Batanes.jpg": {
+  "slug": "palawan-secret-lagoon",
+  "verdict": "MATCH",
+  "reason": "Tropical beach cove with lagoon, rocks, Palawan setting",
+  "reasonKo": "팔라완의 열대 해변 석호, 적절한 배경",
+  "at": "2026-08-03T14:34:38.598Z"
+ },
+ "pamukkale-hierapolis-archaeological-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hierapolis_Archaeology_Museum%2C_Turkey_%2831595600163%29.jpg/1920px-Hierapolis_Archaeology_Museum%2C_Turkey_%2831595600163%29.jpg": {
+  "slug": "pamukkale-hierapolis-archaeological-museum",
+  "verdict": "MATCH",
+  "reason": "Museum entrance with classical stone lions, Pamukkale",
+  "reasonKo": "박물관 입구, 고전 석조 사자상, 파묵칼레",
+  "at": "2026-08-03T14:34:42.421Z"
+ },
+ "pamukkale-hierapolis\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hierapolis_01.jpg/1920px-Hierapolis_01.jpg": {
+  "slug": "pamukkale-hierapolis",
+  "verdict": "MATCH",
+  "reason": "Hierapolis ruins with cypress trees, Pamukkale",
+  "reasonKo": "히에라폴리스 유적, 파묵칼레 정확함",
+  "at": "2026-08-03T14:34:45.055Z"
+ },
+ "paris-arc-de-triomphe\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Arc_de_Triomphe%2C_Paris_21_October_2010.jpg/1920px-Arc_de_Triomphe%2C_Paris_21_October_2010.jpg": {
+  "slug": "paris-arc-de-triomphe",
+  "verdict": "MATCH",
+  "reason": "Arc de Triomphe exterior, Paris street setting",
+  "reasonKo": "파리 개선문 외부, 명확한 식별",
+  "at": "2026-08-03T14:34:47.714Z"
+ },
+ "paris-basilique-du-sacre-c-ur-de-montmartre\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Basilique_du_Sacr%C3%A9-C%C5%93ur_de_Montmartre_-_Paris_-_GT-01_-_2024.jpg/3840px-Basilique_du_Sacr%C3%A9-C%C5%93ur_de_Montmartre_-_Paris_-_GT-01_-_2024.jpg": {
+  "slug": "paris-basilique-du-sacre-c-ur-de-montmartre",
+  "verdict": "MATCH",
+  "reason": "Iconic white basilica with distinctive domes, Paris",
+  "reasonKo": "파리의 상징적인 흰색 대성당",
+  "at": "2026-08-03T14:34:52.131Z"
+ },
+ "paris-les-deux-magots\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Les_Deux_Magots%2C_25_September_2019.jpg/1920px-Les_Deux_Magots%2C_25_September_2019.jpg": {
+  "slug": "paris-les-deux-magots",
+  "verdict": "MATCH",
+  "reason": "Iconic Parisian café with signature green awning",
+  "reasonKo": "특징적인 녹색 차양의 파리 카페",
+  "at": "2026-08-03T14:34:55.650Z"
+ },
+ "paris-louvre-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Louvre_Museum_Wikimedia_Commons.jpg/1920px-Louvre_Museum_Wikimedia_Commons.jpg": {
+  "slug": "paris-louvre-museum",
+  "verdict": "MATCH",
+  "reason": "Iconic Louvre pyramid courtyard, Paris night scene",
+  "reasonKo": "루브르 박물관의 상징적 피라미드, 파리",
+  "at": "2026-08-03T14:34:58.543Z"
+ },
+ "paris-notre-dame-cathedral-of-paris\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Notre_Dame_Paris_front_facade_lower.jpg/3840px-Notre_Dame_Paris_front_facade_lower.jpg": {
+  "slug": "paris-notre-dame-cathedral-of-paris",
+  "verdict": "MATCH",
+  "reason": "Notre-Dame's iconic west façade with three portals",
+  "reasonKo": "노트르담 성당의 상징적 서쪽 정면",
+  "at": "2026-08-03T14:35:02.331Z"
+ },
+ "paris-palace-of-versailles\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_081_%28cropped%29.jpg/1920px-Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_081_%28cropped%29.jpg": {
+  "slug": "paris-palace-of-versailles",
+  "verdict": "MATCH",
+  "reason": "Aerial view of Palace of Versailles gardens and wings",
+  "reasonKo": "베르사유 궁전 정원과 건물의 항공 사진",
+  "at": "2026-08-03T14:35:04.449Z"
+ },
+ "paris-shwi\u0001https://fastly.4sqi.net/img/general/original/561107504_eASdpbuuVCLUzfcMaGXoPON22Q-u3yuPM90ZPmMJTO0.jpg": {
+  "slug": "paris-shwi",
+  "verdict": "MATCH",
+  "reason": "SHWI storefront in Paris, queue visible, casual dining setup",
+  "reasonKo": "파리 SHWI 식당 외관, 줄 서 있는 손님들",
+  "at": "2026-08-03T14:35:08.921Z"
+ },
+ "pattaya-mamamia-pattaya-street-noodles\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DFC_4688_Night_market_street_food_cart_in_Pattaya_Thailand_-_vendors_cooking_skewers_and_serving_customers_along_a_busy_sidewalk.jpg/1920px-DFC_4688_Night_market_street_food_cart_in_Pattaya_Thailand_-_vendors_cooking_skewers_and_serving_customers_along_a_busy_sidewalk.jpg": {
+  "slug": "pattaya-mamamia-pattaya-street-noodles",
+  "verdict": "MATCH",
+  "reason": "Street food cart, noodles, Thai night market setting",
+  "reasonKo": "태국 야시장 국수 노점, 현지감 있음",
+  "at": "2026-08-03T14:35:12.799Z"
+ },
+ "pattaya-sheeva-cafe\u0001https://fastly.4sqi.net/img/general/original/5012659_iusbX7c9dz8z7V6gxw2DqgRkA1A3--sgv8VGkdRyaUg.jpg": {
+  "slug": "pattaya-sheeva-cafe",
+  "verdict": "MATCH",
+  "reason": "Trendy cafe with pastry, specialty coffee drinks, brick inte",
+  "reasonKo": "트렌디한 카페, 페이스트리, 특별한 커피",
+  "at": "2026-08-03T14:35:15.444Z"
+ },
+ "penang-chew-jetty\u0001https://fastly.4sqi.net/img/general/original/10800689_auOea5n6XvDklLDlvHH6WkKqEN9rUZZVf5CzA-KVebM.jpg": {
+  "slug": "penang-chew-jetty",
+  "verdict": "MATCH",
+  "reason": "Fishing boats, jetty structures, coastal Malaysia setting",
+  "reasonKo": "어선, 부두 구조, 말레이시아 해안 풍경",
+  "at": "2026-08-03T14:35:18.725Z"
+ },
+ "penang-root-house-by-gen\u0001https://fastly.4sqi.net/img/general/original/5813125__zh1cKoiIYithsD4gZs6z9VO130H6boY02giDa8_VFc.jpg": {
+  "slug": "penang-root-house-by-gen",
+  "verdict": "MATCH",
+  "reason": "Upscale plated dish with gold leaf garnish, fits fine dining",
+  "reasonKo": "금박 장식 고급 요리, 파인 다이닝 적합",
+  "at": "2026-08-03T14:35:22.499Z"
+ },
+ "phu-quoc-camia-restaurant\u0001https://fastly.4sqi.net/img/general/original/12001442_cw72r4SgYqopBcznN1KHAAcnEThLRu17BvM4Ums80Qo.jpg": {
+  "slug": "phu-quoc-camia-restaurant",
+  "verdict": "MATCH",
+  "reason": "Rustic wooden restaurant entrance with Camia signage",
+  "reasonKo": "카미아 간판이 있는 목재 건물 입구",
+  "at": "2026-08-03T14:35:25.233Z"
+ },
+ "phuket-cafe-phuket-viewpoint\u0001https://fastly.4sqi.net/img/general/original/527455132_d3xvDUuNd623FpHRmzENIZ8BN2LVsj4PNTrDiFrIvoI.jpg": {
+  "slug": "phuket-cafe-phuket-viewpoint",
+  "verdict": "MATCH",
+  "reason": "Coastal café viewpoint with drinks and food in Phuket",
+  "reasonKo": "푸켓 해변 카페, 음료와 음식 포함",
+  "at": "2026-08-03T14:35:27.209Z"
+ },
+ "phuket-day-night-of-phuket\u0001https://fastly.4sqi.net/img/general/original/1405325582_x8k5J4vhVz8fR-s_Mva0FmuGE-N5DmQyxBIVud8wEdA.jpg": {
+  "slug": "phuket-day-night-of-phuket",
+  "verdict": "MATCH",
+  "reason": "Day & Night café exterior with signage visible",
+  "reasonKo": "Day & Night 카페 외부, 간판 명확함",
+  "at": "2026-08-03T14:35:30.004Z"
+ },
+ "phuket-green-elephant-sanctuary-park\u0001https://fastly.4sqi.net/img/general/original/1412765494_6bWm6VGici9cAKOfrh2qZjTwJte-w1TdCFUIOCxlKCg.jpg": {
+  "slug": "phuket-green-elephant-sanctuary-park",
+  "verdict": "MATCH",
+  "reason": "Elephant at sanctuary in natural setting, Phuket",
+  "reasonKo": "푸켓 코끼리 보호소, 자연 환경",
+  "at": "2026-08-03T14:35:34.103Z"
+ },
+ "phuket-hug-street-food-kata-phuket\u0001https://fastly.4sqi.net/img/general/original/370594822_Xi41HluDEzpNo0P4NlEeXTQRVZvCVSpqo_1RSiBrOXs.jpg": {
+  "slug": "phuket-hug-street-food-kata-phuket",
+  "verdict": "MISMATCH",
+  "reason": "Interior/patio setup, no food visible for restaurant",
+  "reasonKo": "음식 없음, 식당과 무관한 이미지",
+  "at": "2026-08-03T14:35:36.658Z"
+ },
+ "phuket-khao-rang-viewpoint\u0001https://fastly.4sqi.net/img/general/original/9375124_op9-ZKTovVhe80ST4RdJ7eFLEsOGtkvNwkdaWOaDtIU.jpg": {
+  "slug": "phuket-khao-rang-viewpoint",
+  "verdict": "MATCH",
+  "reason": "Aerial view of Phuket town from elevated viewpoint",
+  "reasonKo": "고지점에서 본 푸켓 도시의 전망",
+  "at": "2026-08-03T14:35:39.477Z"
+ },
+ "phuket-phi-phi-islands\u0001https://fastly.4sqi.net/img/general/original/15698837_drxNPJlVapuROMFPYfgZkYuqU087f3gf6-FDtRgUA-w.jpg": {
+  "slug": "phuket-phi-phi-islands",
+  "verdict": "MATCH",
+  "reason": "Phi Phi Islands landscape with turquoise water, limestone cl",
+  "reasonKo": "피피섬의 터콰이즈 바다, 석회암 절벽",
+  "at": "2026-08-03T14:35:43.137Z"
+ },
+ "pohang-homigot\u0001https://upload.wikimedia.org/wikipedia/commons/a/a3/Homigot_Lighthouse_from_New_Millennium_Memorial_Hall.jpg": {
+  "slug": "pohang-homigot",
+  "verdict": "MATCH",
+  "reason": "Lighthouse at Homigot, Pohang coast",
+  "reasonKo": "포항 호미곶 등대, 해안 풍경",
+  "at": "2026-08-03T14:35:46.387Z"
+ },
+ "provence-abbaye-notre-dame-de-senanque\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Abbaye_Notre-Dame_de_S%C3%A9nanque%2C_2022.jpg/1920px-Abbaye_Notre-Dame_de_S%C3%A9nanque%2C_2022.jpg": {
+  "slug": "provence-abbaye-notre-dame-de-senanque",
+  "verdict": "MATCH",
+  "reason": "Abbey with lavender fields, correct architecture",
+  "reasonKo": "라벤더 밭과 수도원, 정확한 건축양식",
+  "at": "2026-08-03T14:35:50.422Z"
+ },
+ "provence-lavender-sunflower-field\u0001https://fastly.4sqi.net/img/general/original/5077236_LiRrgGEeEpXps7RJB4vORC5IxUhKb_7LfXPOQjPdeJA.jpg": {
+  "slug": "provence-lavender-sunflower-field",
+  "verdict": "MATCH",
+  "reason": "Sunflower field in Provence landscape matches venue",
+  "reasonKo": "프로방스의 해바라기밭 풍경과 일치",
+  "at": "2026-08-03T14:35:53.201Z"
+ },
+ "provence-palais-des-papes\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Palais_des_Papes%2C_Avignon%2C_Provence%2C_France_%286053013706%29.jpg/1920px-Palais_des_Papes%2C_Avignon%2C_Provence%2C_France_%286053013706%29.jpg": {
+  "slug": "provence-palais-des-papes",
+  "verdict": "MATCH",
+  "reason": "Palais des Papes exterior, tower, and square clearly visible",
+  "reasonKo": "교황궁 외관, 탑, 광장 명확히 보임",
+  "at": "2026-08-03T14:35:57.228Z"
+ },
+ "qingdao-zhanqiao-pier\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/%E9%9D%92%E5%B2%9B%E6%A0%88%E6%A1%A5_Ehemalige_Landungsbr%C3%BCcke_Qingdao.jpg/1920px-%E9%9D%92%E5%B2%9B%E6%A0%88%E6%A1%A5_Ehemalige_Landungsbr%C3%BCcke_Qingdao.jpg": {
+  "slug": "qingdao-zhanqiao-pier",
+  "verdict": "MATCH",
+  "reason": "Iconic red pavilion pier with crowds, Qingdao setting",
+  "reasonKo": "칭다오의 상징적인 붉은 정자 부두",
+  "at": "2026-08-03T14:36:01.273Z"
+ },
+ "rome-futura\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Restaurant_in_Trastevere%2C_Rome_%284789517850%29.jpg/1920px-Restaurant_in_Trastevere%2C_Rome_%284789517850%29.jpg": {
+  "slug": "rome-futura",
+  "verdict": "MISMATCH",
+  "reason": "Generic Italian piazza, not identifiable as Futura",
+  "reasonKo": "특정 레스토랑 식별 불가",
+  "at": "2026-08-03T14:36:04.773Z"
+ },
+ "rome-luna\u0001https://fastly.4sqi.net/img/general/original/14124065_Xdx1YDZ9MomSxP7GOHmARcC4TXfn0p4LlUgZS8DSPrw.jpg": {
+  "slug": "rome-luna",
+  "verdict": "WEAK",
+  "reason": "Generic breakfast spread, could be anywhere",
+  "reasonKo": "어디서나 볼 수 있는 일반적인 아침식사",
+  "at": "2026-08-03T14:36:07.465Z"
+ },
+ "rome-roman-forum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Foro_Romano_Musei_Capitolini_Roma.jpg/1920px-Foro_Romano_Musei_Capitolini_Roma.jpg": {
+  "slug": "rome-roman-forum",
+  "verdict": "MATCH",
+  "reason": "Roman Forum ruins with authentic architecture and setting",
+  "reasonKo": "로마 포럼의 진정한 유적지와 건축",
+  "at": "2026-08-03T14:36:11.167Z"
+ },
+ "rome-saint-peter-s-basilica\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg/1920px-Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg": {
+  "slug": "rome-saint-peter-s-basilica",
+  "verdict": "MATCH",
+  "reason": "Saint Peter's Basilica exterior, Rome Vatican",
+  "reasonKo": "성베드로 대성당 외관, 로마 바티칸",
+  "at": "2026-08-03T14:36:14.440Z"
+ },
+ "rome-sant-eustachio-caffe\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Caff%C3%A8_Sant_Eustacchio.jpg/1920px-Caff%C3%A8_Sant_Eustacchio.jpg": {
+  "slug": "rome-sant-eustachio-caffe",
+  "verdict": "MATCH",
+  "reason": "Blue neon sign matches Sant'Eustachio Caffè storefront",
+  "reasonKo": "산트 유스타키오 카페 네온사인과 일치",
+  "at": "2026-08-03T14:36:18.986Z"
+ },
+ "rome-trevi-fountain\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Trevi_Fountain_-_Roma.jpg/1920px-Trevi_Fountain_-_Roma.jpg": {
+  "slug": "rome-trevi-fountain",
+  "verdict": "MATCH",
+  "reason": "Iconic Trevi Fountain in Rome, Italy.",
+  "reasonKo": "로마의 유명한 트레비 분수",
+  "at": "2026-08-03T14:36:21.121Z"
+ },
+ "san-francisco-alcatraz-island\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Alcatraz_2021.jpg/1920px-Alcatraz_2021.jpg": {
+  "slug": "san-francisco-alcatraz-island",
+  "verdict": "MATCH",
+  "reason": "Iconic Alcatraz Island with lighthouse and prison buildings",
+  "reasonKo": "유명한 알카트라즈 섬, 등대와 감옥 건물 명확",
+  "at": "2026-08-03T14:36:25.621Z"
+ },
+ "san-francisco-fort-point-national-historic-site\u0001https://fastly.4sqi.net/img/general/original/22755244_QXhlxSs_efKrnV8qk3gH0-tW4g1qKRNM3Ia4drREX3o.jpg": {
+  "slug": "san-francisco-fort-point-national-historic-site",
+  "verdict": "MATCH",
+  "reason": "Fort Point's iconic brick courtyard with arches",
+  "reasonKo": "포트 포인트의 상징적 벽돌 중정",
+  "at": "2026-08-03T14:36:29.227Z"
+ },
+ "san-francisco-rich-table\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rich_Table_San_Francisco_-_Dec._2025.jpg/1920px-Rich_Table_San_Francisco_-_Dec._2025.jpg": {
+  "slug": "san-francisco-rich-table",
+  "verdict": "MATCH",
+  "reason": "San Francisco storefront, modern restaurant exterior design",
+  "reasonKo": "샌프란시스코 현대식 레스토랑 외관",
+  "at": "2026-08-03T14:36:31.985Z"
+ },
+ "san-francisco-the-buena-vista\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Buena_Vista_Cafe%2C_exterior%2C_San_Francisco_%28May_2025%29_03.jpg/3840px-Buena_Vista_Cafe%2C_exterior%2C_San_Francisco_%28May_2025%29_03.jpg": {
+  "slug": "san-francisco-the-buena-vista",
+  "verdict": "MATCH",
+  "reason": "Buena Vista bar exterior with neon sign visible",
+  "reasonKo": "부에나 비스타 바 외관, 네온사인 확인",
+  "at": "2026-08-03T14:36:36.142Z"
+ },
+ "san-sebastian-bar-txepetxa\u0001https://fastly.4sqi.net/img/general/original/2998617_HjQiy6NWZ8K7YB5Fjx3mU81X4-ozlR0ksg8Fc8EjoWs.jpg": {
+  "slug": "san-sebastian-bar-txepetxa",
+  "verdict": "MATCH",
+  "reason": "Crowded tapas bar entrance, authentic Spanish setting",
+  "reasonKo": "붐비는 타파스 바, 스페인식 분위기",
+  "at": "2026-08-03T14:36:39.687Z"
+ },
+ "san-sebastian-haizearen-orrazia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/San_Sebastian_Peine_del_Viento-Haizearen_Orrazia_1190518.jpg/3840px-San_Sebastian_Peine_del_Viento-Haizearen_Orrazia_1190518.jpg": {
+  "slug": "san-sebastian-haizearen-orrazia",
+  "verdict": "MISMATCH",
+  "reason": "Sculpture/beach scene, not a restaurant venue",
+  "reasonKo": "레스토랑이 아닌 해변 조각상",
+  "at": "2026-08-03T14:36:44.520Z"
+ },
+ "san-sebastian-paseo-de-la-concha\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/San_Sebastian%2C_Espanha%2C_inicio_do_S%C3%A9c._XX%2C_Paseo_de_la_Concha%2C_Arquivo_de_Villa_Maria%2C_Angra_do_Hero%C3%ADsmo%2C_A%C3%A7ores..jpg/1920px-San_Sebastian%2C_Espanha%2C_inicio_do_S%C3%A9c._XX%2C_Paseo_de_la_Concha%2C_Arquivo_de_Villa_Maria%2C_Angra_do_Hero%C3%ADsmo%2C_A%C3%A7ores..jpg": {
+  "slug": "san-sebastian-paseo-de-la-concha",
+  "verdict": "MATCH",
+  "reason": "Historic photo of Paseo de la Concha beachfront, San Sebasti",
+  "reasonKo": "산세바스티안 콘차 산책로의 역사적 사진",
+  "at": "2026-08-03T14:36:47.882Z"
+ },
+ "sapporo-mermaid-coffee-roasters\u0001https://fastly.4sqi.net/img/general/original/355373377_dnonDwB2xBwVtIwpCC9MabZkDALWv4dxTLR3kALGAeM.jpg": {
+  "slug": "sapporo-mermaid-coffee-roasters",
+  "verdict": "MISMATCH",
+  "reason": "Modern mall/airport interior, not coffee roastery",
+  "reasonKo": "커피로스터리가 아닌 상업시설",
+  "at": "2026-08-03T14:36:50.502Z"
+ },
+ "sapporo-shiroi-koibito-park\u0001https://fastly.4sqi.net/img/general/original/60958879_QIWpgiigr2GufCC5d-Bi28RNVVxqnaXRzoaE_djZu-0.jpg": {
+  "slug": "sapporo-shiroi-koibito-park",
+  "verdict": "MATCH",
+  "reason": "Historic European-style building entrance, Sapporo Park",
+  "reasonKo": "삿포로 파크의 유럽식 건물 입구",
+  "at": "2026-08-03T14:36:53.284Z"
+ },
+ "seattle-chihuly-garden-and-glass\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Chihuly_Garden_and_Glass_2014_09.JPG/1920px-Chihuly_Garden_and_Glass_2014_09.JPG": {
+  "slug": "seattle-chihuly-garden-and-glass",
+  "verdict": "MATCH",
+  "reason": "Aerial view of Chihuly Garden and Glass venue, Seattle",
+  "reasonKo": "시애틀 칠훌리 정원 유리 박물관 항공 뷰",
+  "at": "2026-08-03T14:36:56.533Z"
+ },
+ "seattle-jack-s-fish-spot\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Seattle%2C_Washington%2C_October_2022_-_210.jpg/1920px-Seattle%2C_Washington%2C_October_2022_-_210.jpg": {
+  "slug": "seattle-jack-s-fish-spot",
+  "verdict": "MATCH",
+  "reason": "Fresh seafood market stall, Seattle Pike Place Market",
+  "reasonKo": "시애틀 파이크 플레이스 마켓의 신선한 해산물 가판대",
+  "at": "2026-08-03T14:37:00.632Z"
+ },
+ "seattle-pike-place-market\u0001https://fastly.4sqi.net/img/general/original/3241052_vk5L5KPFFuaskrKAoDQQXeB6uXJMu9Xg3OUXgElIN1k.jpg": {
+  "slug": "seattle-pike-place-market",
+  "verdict": "MATCH",
+  "reason": "Pike Place Market seafood display, iconic Seattle vendor",
+  "reasonKo": "파이크플레이스 마켓의 상징적 해산물 판매점",
+  "at": "2026-08-03T14:37:03.133Z"
+ },
+ "seattle-the-gum-wall\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gum_wall%2C_Seattle%2C_Washington%2C_Estados_Unidos%2C_2017-09-02%2C_DD_19-21_HDR.jpg/1920px-Gum_wall%2C_Seattle%2C_Washington%2C_Estados_Unidos%2C_2017-09-02%2C_DD_19-21_HDR.jpg": {
+  "slug": "seattle-the-gum-wall",
+  "verdict": "MATCH",
+  "reason": "Iconic gum wall covered in colorful chewed gum",
+  "reasonKo": "유명한 껌 벽, 다채로운 껌으로 덮여 있음",
+  "at": "2026-08-03T14:37:07.666Z"
+ },
+ "seattle-the-pink-door\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Seattle_-_The_Pink_Door_01.jpg/1920px-Seattle_-_The_Pink_Door_01.jpg": {
+  "slug": "seattle-the-pink-door",
+  "verdict": "MATCH",
+  "reason": "Pink door facade matches famous Seattle restaurant",
+  "reasonKo": "시애틀 유명 레스토랑의 핑크색 문",
+  "at": "2026-08-03T14:37:11.042Z"
+ },
+ "sentosa-fiamma\u0001https://fastly.4sqi.net/img/general/original/40583305_Xp_0QY4QADnzs16ukh3bOT6KFDt2Mo0y-I3t-Yv4ZeU.jpg": {
+  "slug": "sentosa-fiamma",
+  "verdict": "MATCH",
+  "reason": "Modern restaurant architecture consistent with Sentosa venue",
+  "reasonKo": "센토사 현대식 레스토랑 건축과 일치",
+  "at": "2026-08-03T14:37:14.695Z"
+ },
+ "sentosa-skyline-luge-singapore\u0001https://fastly.4sqi.net/img/general/original/529436459_53JFEYm_2gQbtmztAFBHVOtf3eFI84I3T6M1VtvUVPU.jpg": {
+  "slug": "sentosa-skyline-luge-singapore",
+  "verdict": "MATCH",
+  "reason": "First-person view of luge ride at Sentosa",
+  "reasonKo": "센토사 루지 탈것의 1인칭 시점",
+  "at": "2026-08-03T14:37:16.873Z"
+ },
+ "seoul-artist-bakery\u0001https://fastly.4sqi.net/img/general/original/1031332_-rpqby6juzcDn7SkOnA40vqxgepHItP9LnyPSsfewAg.jpg": {
+  "slug": "seoul-artist-bakery",
+  "verdict": "MATCH",
+  "reason": "Storefront clearly shows Artist Bakery in Seoul",
+  "reasonKo": "서울 아티스트 베이커리 외관 명확함",
+  "at": "2026-08-03T14:37:19.331Z"
+ },
+ "seoul-cafe-3-stripes-seoul\u0001https://fastly.4sqi.net/img/general/original/2059665_kG5QBRzS8dkj7VXa4aH9GZrn8r3ds0b-DkDBxg7Bxws.jpg": {
+  "slug": "seoul-cafe-3-stripes-seoul",
+  "verdict": "MATCH",
+  "reason": "Trendy café with specialty drinks and desserts",
+  "reasonKo": "트렌디한 카페의 음료와 디저트",
+  "at": "2026-08-03T14:37:21.853Z"
+ },
+ "seoul-cheonggyecheon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Cheonggyecheon_stream_at_sunrise_with_trees_in_Seoul.jpg/1920px-Cheonggyecheon_stream_at_sunrise_with_trees_in_Seoul.jpg": {
+  "slug": "seoul-cheonggyecheon",
+  "verdict": "MATCH",
+  "reason": "Cheonggyecheon stream with Seoul skyline clearly visible",
+  "reasonKo": "청계천과 서울 스카이라인 명확히 보임",
+  "at": "2026-08-03T14:37:25.426Z"
+ },
+ "seoul-dongdaemun-design-plaza-ddp\u0001https://fastly.4sqi.net/img/general/original/6109091_MR_6XqItW7wF-4PPdnvqSw1vJ3w_SvAjQ0sZkrJUB_U.jpg": {
+  "slug": "seoul-dongdaemun-design-plaza-ddp",
+  "verdict": "MATCH",
+  "reason": "DDP's iconic blue-lit futuristic architecture",
+  "reasonKo": "DDP의 상징적인 파란 조명 미래형 건축",
+  "at": "2026-08-03T14:37:28.078Z"
+ },
+ "seoul-eid-halal-korean-food\u0001https://fastly.4sqi.net/img/general/original/3571118_qi-8kFVfMI2OL0YpehAC14bmIV9Sc2rkE6fO2ZEVxGc.jpg": {
+  "slug": "seoul-eid-halal-korean-food",
+  "verdict": "MATCH",
+  "reason": "Restaurant storefront matches venue signage and location",
+  "reasonKo": "식당 간판과 외관이 일치",
+  "at": "2026-08-03T14:37:30.521Z"
+ },
+ "seoul-gwangjang-market\u0001https://fastly.4sqi.net/img/general/original/441342_8fuo56XRXl7JPeE1Jz2wuxZE2DrccbejcKU_Chyfdns.jpg": {
+  "slug": "seoul-gwangjang-market",
+  "verdict": "MATCH",
+  "reason": "Korean market food stall, cooking setup visible",
+  "reasonKo": "한국 시장 음식점, 조리 장면 명확",
+  "at": "2026-08-03T14:37:33.124Z"
+ },
+ "seoul-gyeongbokgung-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Gyeonghoeru_%28Royal_Banquet_Hall%29_at_Gyeongbokgung_Palace%2C_Seoul.jpg/1920px-Gyeonghoeru_%28Royal_Banquet_Hall%29_at_Gyeongbokgung_Palace%2C_Seoul.jpg": {
+  "slug": "seoul-gyeongbokgung-palace",
+  "verdict": "MISMATCH",
+  "reason": "Architecture is Korean but not Gyeongbokgung Palace",
+  "reasonKo": "한국 건축이지만 경복궁이 아님",
+  "at": "2026-08-03T14:37:36.116Z"
+ },
+ "seoul-hakusi\u0001https://fastly.4sqi.net/img/general/original/21899786_PiK2NI4dtBh0WWYWI7dg63qJ5EQ2HZXVyhxxcGyw6Pg.jpg": {
+  "slug": "seoul-hakusi",
+  "verdict": "MATCH",
+  "reason": "Fine dining Korean restaurant with plated dishes",
+  "reasonKo": "한식 파인다이닝, 정성스러운 플레이팅",
+  "at": "2026-08-03T14:37:38.954Z"
+ },
+ "seoul-ikseon-dong\u0001https://fastly.4sqi.net/img/general/original/36873318_O91iMH3KoWIHa5khDYXJFLyrKQYI3Hrsud5Oede2jNE.jpg": {
+  "slug": "seoul-ikseon-dong",
+  "verdict": "MATCH",
+  "reason": "Traditional Korean storefront in Ikseon-Dong area",
+  "reasonKo": "익선동 전통 한옥 상점가",
+  "at": "2026-08-03T14:37:42.497Z"
+ },
+ "seoul-london-bagel-museum\u0001https://fastly.4sqi.net/img/general/original/150378465_ZdEh6NqhGBRHf7QgzyblTy2tjYLPOVpQ1mGivjm01Xs.jpg": {
+  "slug": "seoul-london-bagel-museum",
+  "verdict": "MATCH",
+  "reason": "London Bagel Museum storefront in Seoul, Korea",
+  "reasonKo": "서울의 런던 베이글 뮤지엄 매장",
+  "at": "2026-08-03T14:37:44.793Z"
+ },
+ "seoul-myeongdong-shopping-street\u0001https://fastly.4sqi.net/img/general/original/25113286_pBJtYQJR9dYqgpaA1rKspQgRRTuwZdN3GeD3n3ZYEt0.jpg": {
+  "slug": "seoul-myeongdong-shopping-street",
+  "verdict": "MATCH",
+  "reason": "Korean pastries with typical Seoul street food styling",
+  "reasonKo": "서울 길거리 음식의 전형적인 한국 과자",
+  "at": "2026-08-03T14:37:47.502Z"
+ },
+ "seoul-plant-cafe-seoul-yeonnam\u0001https://fastly.4sqi.net/img/general/original/1780186_eIf8PL6IGedrmVIrOq7seUtL5pmjTCyy5SXPIT9VOIc.jpg": {
+  "slug": "seoul-plant-cafe-seoul-yeonnam",
+  "verdict": "MATCH",
+  "reason": "Plant-based bowl with hummus, falafel, vegetables",
+  "reasonKo": "채식 그릇, 후무스, 팔라펠, 채소",
+  "at": "2026-08-03T14:37:49.706Z"
+ },
+ "seoul-restaurant-san\u0001https://fastly.4sqi.net/img/general/original/sJ7WouHt3xPzCYi1UBqQ2-WZVOzew3GkGBWleJTYNZI.jpg": {
+  "slug": "seoul-restaurant-san",
+  "verdict": "MATCH",
+  "reason": "Modern Seoul café interior with beverage and seating",
+  "reasonKo": "서울의 현대적 카페 인테리어와 음료",
+  "at": "2026-08-03T14:37:51.930Z"
+ },
+ "seville-catedral-de-sevilla\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Trascoro%2C_Catedral_de_Sevilla%2C_Sevilla%2C_Espa%C3%B1a%2C_2015-12-06%2C_DD_109-111_HDR.JPG/1920px-Trascoro%2C_Catedral_de_Sevilla%2C_Sevilla%2C_Espa%C3%B1a%2C_2015-12-06%2C_DD_109-111_HDR.JPG": {
+  "slug": "seville-catedral-de-sevilla",
+  "verdict": "MATCH",
+  "reason": "Cathedral interior with Gothic vaults, ornate altar",
+  "reasonKo": "고딕 양식의 대성당 내부, 화려한 제단",
+  "at": "2026-08-03T14:37:55.761Z"
+ },
+ "seville-la-giralda\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Giralda_cath%C3%A9drale_tour_Seville_Espagne.jpg/1920px-Giralda_cath%C3%A9drale_tour_Seville_Espagne.jpg": {
+  "slug": "seville-la-giralda",
+  "verdict": "MATCH",
+  "reason": "La Giralda tower and cathedral architecture clearly visible.",
+  "reasonKo": "라 히랄다 탑과 대성당 건축물이 명확함.",
+  "at": "2026-08-03T14:37:59.016Z"
+ },
+ "seville-plaza-de-espana\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Seville%2C_Plaza_de_Espa%C3%B1a_%2838625005691%29_%28edited%29.jpg/1920px-Seville%2C_Plaza_de_Espa%C3%B1a_%2838625005691%29_%28edited%29.jpg": {
+  "slug": "seville-plaza-de-espana",
+  "verdict": "MATCH",
+  "reason": "Iconic Plaza de España architecture and canal",
+  "reasonKo": "플라자 데 에스파냐의 특징적 건축과 운하",
+  "at": "2026-08-03T14:38:03.171Z"
+ },
+ "shanghai-goodbai-cafe\u0001https://fastly.4sqi.net/img/general/original/37314315_FR3VX2uLB5O5ZYSwJF0IpFOJmCu1qJQ5UYBCOCUf7Xg.jpg": {
+  "slug": "shanghai-goodbai-cafe",
+  "verdict": "MATCH",
+  "reason": "Cute matcha drinks, modern café interior, trendy aesthetic",
+  "reasonKo": "귀여운 말차음료, 현대적 카페 인테리어, 트렌디한 감성",
+  "at": "2026-08-03T14:38:05.660Z"
+ },
+ "shanghai-love-sushi\u0001https://fastly.4sqi.net/img/general/original/1665930_66QQHlFQsX1JaUl7L9X7Fd517b10iZdVPMdqiyzMqYA.jpg": {
+  "slug": "shanghai-love-sushi",
+  "verdict": "MISMATCH",
+  "reason": "Neon sign shows 'Love' not sushi restaurant branding",
+  "reasonKo": "초밥 레스토랑이 아닌 일반 카페로 보임",
+  "at": "2026-08-03T14:38:09.774Z"
+ },
+ "shanghai-vice\u0001https://fastly.4sqi.net/img/general/original/20410869_p1dlfceER_gz4l7VvzLp-E9tjFr8MVyfOn8LtGFfzts.jpg": {
+  "slug": "shanghai-vice",
+  "verdict": "MATCH",
+  "reason": "Upscale cocktail bar setting, elegant drinks, modern venue",
+  "reasonKo": "고급 �cocktail 바, 세련된 음료, 현대적 공간",
+  "at": "2026-08-03T14:38:12.403Z"
+ },
+ "shanghai-yu-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Shanghai_-_Yu_Garden_-_0035.jpg/1920px-Shanghai_-_Yu_Garden_-_0035.jpg": {
+  "slug": "shanghai-yu-garden",
+  "verdict": "MATCH",
+  "reason": "Classic Yu Garden pagoda, pond, traditional architecture",
+  "reasonKo": "유원의 상징적 누각, 연못, 전통 건축",
+  "at": "2026-08-03T14:38:15.780Z"
+ },
+ "sharjah-al-noor-island\u0001https://fastly.4sqi.net/img/general/original/21319813_PiE4x8zaxuGW4pZA2WpWe0gqVPA8Pr9duITBDcV6g0E.jpg": {
+  "slug": "sharjah-al-noor-island",
+  "verdict": "MATCH",
+  "reason": "Boardwalk, beach, mangroves, Sharjah skyline visible",
+  "reasonKo": "산책로, 해변, 맹그로브, 샤르자 스카이라인",
+  "at": "2026-08-03T14:38:18.972Z"
+ },
+ "sharjah-tpt-by-late\u0001https://fastly.4sqi.net/img/general/original/543182400_s1w8iHMIU6tHHAmUhzncEjk1ym-JKqks8ATc7wjI9eo.jpg": {
+  "slug": "sharjah-tpt-by-late",
+  "verdict": "MISMATCH",
+  "reason": "Outdoor park/plaza, not restaurant interior or food",
+  "reasonKo": "식당이 아닌 야외 공원 공간",
+  "at": "2026-08-03T14:38:21.808Z"
+ },
+ "siargao-cloud-9-surfing-area\u0001https://fastly.4sqi.net/img/general/original/15266569_9L8y5XQYXbihBmkPY1-V6R0LxYlFWm94IxPh2K6PW1o.jpg": {
+  "slug": "siargao-cloud-9-surfing-area",
+  "verdict": "MISMATCH",
+  "reason": "Pier/boardwalk, not Cloud 9 surf break",
+  "reasonKo": "서핑 포인트가 아닌 부두 사진",
+  "at": "2026-08-03T14:38:24.469Z"
+ },
+ "siena-piazza-del-campo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Piazza_del_Campo_2014_01.jpg/3840px-Piazza_del_Campo_2014_01.jpg": {
+  "slug": "siena-piazza-del-campo",
+  "verdict": "MATCH",
+  "reason": "Iconic Piazza del Campo square, Siena architecture",
+  "reasonKo": "시에나 캄포 광장, 정확한 장소",
+  "at": "2026-08-03T14:38:30.268Z"
+ },
+ "siena-siena-cathedral\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Duomo_di_Siena-9635.jpg/1920px-Duomo_di_Siena-9635.jpg": {
+  "slug": "siena-siena-cathedral",
+  "verdict": "MATCH",
+  "reason": "Siena Cathedral facade and striped tower clearly visible",
+  "reasonKo": "시에나 대성당 정면과 줄무늬 탑 명확함",
+  "at": "2026-08-03T14:38:33.452Z"
+ },
+ "singapore-bop-bartenders-of-pony\u0001https://fastly.4sqi.net/img/general/original/13010698_STrLYC5Zf3uqd_RzKs77Ar5H1rFdVGpwlnU1jkXmYqE.jpg": {
+  "slug": "singapore-bop-bartenders-of-pony",
+  "verdict": "MISMATCH",
+  "reason": "Fried chicken, not typical cocktail bar fare.",
+  "reasonKo": "칵테일 바가 아닌 튀김 음식",
+  "at": "2026-08-03T14:38:35.397Z"
+ },
+ "singapore-bouillon-gavroche\u0001https://fastly.4sqi.net/img/general/original/11182924_GN-D7DZ50t6W5Kee6CceB4S0wW5sykkYQBpDgPfaXwA.jpg": {
+  "slug": "singapore-bouillon-gavroche",
+  "verdict": "MATCH",
+  "reason": "Classic French bistro steak and fries dish",
+  "reasonKo": "프랑스 비스트로 스테이크와 감자튀김",
+  "at": "2026-08-03T14:38:37.735Z"
+ },
+ "singapore-casa-mori\u0001https://fastly.4sqi.net/img/general/original/4880533_gyFSZcqWwCF8ZEI4kLz9XqlfQ8mSFm8YKSy1Jtq2pv0.jpg": {
+  "slug": "singapore-casa-mori",
+  "verdict": "MATCH",
+  "reason": "Paella dish authentic to Spanish seafood restaurant",
+  "reasonKo": "스페인 해산물 파에야 요리",
+  "at": "2026-08-03T14:38:40.332Z"
+ },
+ "singapore-changi-village-hawker-centre\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Soon_Heng_Cooked_Food_at_Changi_Village_Food_Centre%2C_Singapore_-_20070211.jpg/1920px-Soon_Heng_Cooked_Food_at_Changi_Village_Food_Centre%2C_Singapore_-_20070211.jpg": {
+  "slug": "singapore-changi-village-hawker-centre",
+  "verdict": "MATCH",
+  "reason": "Hawker stall with roasted meats, Singapore signage",
+  "reasonKo": "싱가포르 호커센터의 전형적인 구성",
+  "at": "2026-08-03T14:38:43.847Z"
+ },
+ "singapore-cloud-forest\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cloud_Forest%2C_Gardens_by_the_Bay%2C_Singapore.jpg/1920px-Cloud_Forest%2C_Gardens_by_the_Bay%2C_Singapore.jpg": {
+  "slug": "singapore-cloud-forest",
+  "verdict": "MATCH",
+  "reason": "Cloud Forest's iconic waterfall and lush vegetation.",
+  "reasonKo": "클라우드포레스트의 상징적 폭포와 식생",
+  "at": "2026-08-03T14:38:48.149Z"
+ },
+ "singapore-lau-pa-sat\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Lau_Pa_Sat_Singapore_2.jpg/1920px-Lau_Pa_Sat_Singapore_2.jpg": {
+  "slug": "singapore-lau-pa-sat",
+  "verdict": "MATCH",
+  "reason": "Lau Pa Sat's iconic Victorian cast-iron structure clearly vi",
+  "reasonKo": "라우파삿의 상징적인 빅토리아 양식 건축물",
+  "at": "2026-08-03T14:38:51.549Z"
+ },
+ "singapore-milli\u0001https://fastly.4sqi.net/img/general/original/2846870_KUhZlbZqM1Qllm8uz_Mxvrnfhh_aayFPdaICKQ_gYJQ.jpg": {
+  "slug": "singapore-milli",
+  "verdict": "WEAK",
+  "reason": "Nightlife setting, but generic venue interior",
+  "reasonKo": "야간 유흥 공간이나 특정 장소 미확인",
+  "at": "2026-08-03T14:38:54.292Z"
+ },
+ "singapore-singapore-flyer\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Singapore_%28SG%29%2C_Singapore_Flyer_--_2019_--_4753.jpg/1920px-Singapore_%28SG%29%2C_Singapore_Flyer_--_2019_--_4753.jpg": {
+  "slug": "singapore-singapore-flyer",
+  "verdict": "MATCH",
+  "reason": "Singapore Flyer clearly visible with cityscape",
+  "reasonKo": "싱가포르 플라이어 명확히 보임",
+  "at": "2026-08-03T14:38:57.181Z"
+ },
+ "singapore-smash-street\u0001https://fastly.4sqi.net/img/general/original/234324_lOnqNgB29VfRevi5yRMUw-fsMjsoLR2Nx_jkZl2fmQA.jpg": {
+  "slug": "singapore-smash-street",
+  "verdict": "MATCH",
+  "reason": "Trendy food establishment burger in Singapore",
+  "reasonKo": "싱가포르 트렌디한 음식점 버거",
+  "at": "2026-08-03T14:38:59.867Z"
+ },
+ "strasbourg-cathedrale-notre-dame-de-strasbourg\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Cath%C3%A9drale_Notre-Dame_de_Strasbourg_Steeples.jpg/3840px-Cath%C3%A9drale_Notre-Dame_de_Strasbourg_Steeples.jpg": {
+  "slug": "strasbourg-cathedrale-notre-dame-de-strasbourg",
+  "verdict": "MATCH",
+  "reason": "Strasbourg Cathedral exterior, Gothic architecture, clear la",
+  "reasonKo": "스트라스부르 대성당 외관, 고딕 건축",
+  "at": "2026-08-03T14:39:03.729Z"
+ },
+ "strasbourg-musee-de-l-uvre-notre-dame\u0001https://fastly.4sqi.net/img/general/original/66963966_YgwacUMKC3lN8VU5STt4ytD-KwazEbXteXZ_jM3LVvw.jpg": {
+  "slug": "strasbourg-musee-de-l-uvre-notre-dame",
+  "verdict": "MATCH",
+  "reason": "Stained glass windows in museum interior display",
+  "reasonKo": "박물관 내부의 스테인드글라스 전시",
+  "at": "2026-08-03T14:39:07.769Z"
+ },
+ "suncheon-nagan-eupseong-folk-village\u0001https://fastly.4sqi.net/img/general/original/102260451_EoQ1my0t48PIgiuSY3VGqR_Ub3DFjjytBzwcDb7AMRM.jpg": {
+  "slug": "suncheon-nagan-eupseong-folk-village",
+  "verdict": "MATCH",
+  "reason": "Traditional thatched-roof houses, mountains, rural village s",
+  "reasonKo": "전통 초가지붕, 산, 시골마을 설정",
+  "at": "2026-08-03T14:39:11.175Z"
+ },
+ "suncheon-suncheon-bay-national-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Netherlands_garden_in_Suncheon_Bay_National_Garden.jpg/3840px-Netherlands_garden_in_Suncheon_Bay_National_Garden.jpg": {
+  "slug": "suncheon-suncheon-bay-national-garden",
+  "verdict": "MISMATCH",
+  "reason": "Dutch windmill, not Suncheon Bay garden feature",
+  "reasonKo": "순천만정원과 무관한 네덜란드 풍차",
+  "at": "2026-08-03T14:39:15.762Z"
+ },
+ "surabaya-black-owl-surabaya\u0001https://fastly.4sqi.net/img/general/original/42531918_JX0CtbbJtCamTZ6Ph9F8-6DqCJ6kSL_3QkQlR7zEuHc.jpg": {
+  "slug": "surabaya-black-owl-surabaya",
+  "verdict": "MATCH",
+  "reason": "Cocktail drinks at upscale restaurant bar setting",
+  "reasonKo": "고급 레스토랑 바의 칵테일 음료",
+  "at": "2026-08-03T14:39:19.368Z"
+ },
+ "surabaya-blue-doors-surabaya\u0001https://fastly.4sqi.net/img/general/original/1415786223_3R8vnisrEdzdr5RpIdHd3KO3tIpRRV5dq0vY1yt5avg.jpg": {
+  "slug": "surabaya-blue-doors-surabaya",
+  "verdict": "MATCH",
+  "reason": "Pastries and coffee at trendy café, branded plates",
+  "reasonKo": "트렌디 카페의 페이스트리, 커피, 브랜드 접시",
+  "at": "2026-08-03T14:39:21.767Z"
+ },
+ "surabaya-depot-bu-rudy-dharmahusada\u0001https://fastly.4sqi.net/img/general/original/1410499986_CmQTrmWx4Y2N30xpoqv13yGC7yQvt2eGnkkKHTo4NgY.jpg": {
+  "slug": "surabaya-depot-bu-rudy-dharmahusada",
+  "verdict": "MATCH",
+  "reason": "Indonesian fried foods at local Surabaya restaurant",
+  "reasonKo": "수라바야 지역 튀김 음식점",
+  "at": "2026-08-03T14:39:24.944Z"
+ },
+ "suwon-yeonmudae-dongjangdae-eastern-command-post\u0001https://fastly.4sqi.net/img/general/original/1408658172_2dDjOCBodevtNwV_RdvmPu0MbwnVcz-u2l2hEXaTpIY.jpg": {
+  "slug": "suwon-yeonmudae-dongjangdae-eastern-command-post",
+  "verdict": "MATCH",
+  "reason": "Traditional Korean fortress structure with open grounds",
+  "reasonKo": "전통 한옥 건축의 수원 화성 관련 시설",
+  "at": "2026-08-03T14:39:27.712Z"
+ },
+ "suzhou-humble-administrator-s-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Suzhou_Zhuozheng_Yuan_2015.04.23_08-13-49.jpg/1920px-Suzhou_Zhuozheng_Yuan_2015.04.23_08-13-49.jpg": {
+  "slug": "suzhou-humble-administrator-s-garden",
+  "verdict": "MATCH",
+  "reason": "Authentic Suzhou garden with pagoda, pavilion, water",
+  "reasonKo": "수원의 정원, 누각, 탑 등 정확함",
+  "at": "2026-08-03T14:39:31.099Z"
+ },
+ "suzhou-lion-grove-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/20090905_Suzhou_Lion_Grove_Garden_4502.jpg/1920px-20090905_Suzhou_Lion_Grove_Garden_4502.jpg": {
+  "slug": "suzhou-lion-grove-garden",
+  "verdict": "MATCH",
+  "reason": "Chinese garden architecture, rocks, water, traditional build",
+  "reasonKo": "중국 정원 건축, 돌, 물, 전통 건물",
+  "at": "2026-08-03T14:39:39.692Z"
+ },
+ "taichung-dakeng-scenic-area\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Dakeng_Scenic_Area_%E5%A4%A7%E5%9D%91%E9%A2%A8%E6%99%AF%E5%8D%80_-_panoramio.jpg/1920px-Dakeng_Scenic_Area_%E5%A4%A7%E5%9D%91%E9%A2%A8%E6%99%AF%E5%8D%80_-_panoramio.jpg": {
+  "slug": "taichung-dakeng-scenic-area",
+  "verdict": "MATCH",
+  "reason": "Scenic woodland path with decorative railings, Taichung",
+  "reasonKo": "타이중 산림 산책로, 장식 난간",
+  "at": "2026-08-03T14:39:43.681Z"
+ },
+ "taichung-rainbow-village\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Taichung_Rainbow_Village_45.jpg/1920px-Taichung_Rainbow_Village_45.jpg": {
+  "slug": "taichung-rainbow-village",
+  "verdict": "MATCH",
+  "reason": "Colorful painted buildings, Rainbow Village signature style",
+  "reasonKo": "무지개마을의 특징적인 알록달록한 건물",
+  "at": "2026-08-03T14:39:47.587Z"
+ },
+ "tainan-anping-old-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Anping_Taiwan_Old-houses-of-Anping-01.jpg/1920px-Anping_Taiwan_Old-houses-of-Anping-01.jpg": {
+  "slug": "tainan-anping-old-street",
+  "verdict": "MATCH",
+  "reason": "Historic colonial building in Anping Old Street, Tainan",
+  "reasonKo": "台南安平老街의 역사적 건축물",
+  "at": "2026-08-03T14:39:52.755Z"
+ },
+ "tainan-shennong-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/%E7%A5%9E%E8%BE%B2%E8%A1%97_Shennong_Street_Tainan_City02.jpg/1920px-%E7%A5%9E%E8%BE%B2%E8%A1%97_Shennong_Street_Tainan_City02.jpg": {
+  "slug": "tainan-shennong-street",
+  "verdict": "MATCH",
+  "reason": "Historic narrow alley, night lighting, potted plants, Taiwan",
+  "reasonKo": "역사적 골목, 야간 조명, 화분, 대만 건축",
+  "at": "2026-08-03T14:39:55.810Z"
+ },
+ "taipei-din-tai-fung-101\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/TW_%E5%8F%B0%E7%81%A3_Taiwan_%E5%8F%B0%E5%8C%97_Taipei_%E5%A4%A7%E5%AE%89%E5%8D%80_Da%27An_%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%8C%E6%AE%B5_Xinyi_Road_%E9%BC%8E%E6%B3%B0%E8%B1%90_Din_Tai_Fung_Restaurant_food_March_2024_R12S_101.jpg/3840px-TW_%E5%8F%B0%E7%81%A3_Taiwan_%E5%8F%B0%E5%8C%97_Taipei_%E5%A4%A7%E5%AE%89%E5%8D%80_Da%27An_%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%8C%E6%AE%B5_Xinyi_Road_%E9%BC%8E%E6%B3%B0%E8%B1%90_Din_Tai_Fung_Restaurant_food_March_2024_R12S_101.jpg": {
+  "slug": "taipei-din-tai-fung-101",
+  "verdict": "MATCH",
+  "reason": "Din Tai Fung display case with signature noodle dishes",
+  "reasonKo": "딘타이펑 대표 요리 전시 케이스",
+  "at": "2026-08-03T14:40:01.550Z"
+ },
+ "taipei-elephant-mountain\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Taipei_night_skyline_and_Elephant_Mountain_May_2025.jpg/3840px-Taipei_night_skyline_and_Elephant_Mountain_May_2025.jpg": {
+  "slug": "taipei-elephant-mountain",
+  "verdict": "MATCH",
+  "reason": "Taipei skyline at dusk from elevated viewpoint",
+  "reasonKo": "황혼의 타이페이 스카이라인, 높은 곳에서 촬영",
+  "at": "2026-08-03T14:40:06.042Z"
+ },
+ "taipei-the-who-cafe\u0001https://fastly.4sqi.net/img/general/original/56802654_yDAHZYxJnORYkFWLg0h1rxv6aL8dNOF0zZFfomYDIQA.jpg": {
+  "slug": "taipei-the-who-cafe",
+  "verdict": "MATCH",
+  "reason": "Trendy café breakfast spread, modern plating style",
+  "reasonKo": "세련된 카페 조식, 현대적 플레이팅",
+  "at": "2026-08-03T14:40:10.677Z"
+ },
+ "taiyuan-jinci\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Goddess_Temple_Jinsi.JPG/1920px-Goddess_Temple_Jinsi.JPG": {
+  "slug": "taiyuan-jinci",
+  "verdict": "MATCH",
+  "reason": "Authentic Chinese temple architecture, Jinci style",
+  "reasonKo": "진사 사원의 정통 중국 건축 양식",
+  "at": "2026-08-03T14:40:14.874Z"
+ },
+ "taiyuan-shanxi-museum\u0001https://upload.wikimedia.org/wikipedia/commons/a/a6/Shanxi_Museum_20110719.jpg": {
+  "slug": "taiyuan-shanxi-museum",
+  "verdict": "MATCH",
+  "reason": "Shanxi Museum exterior, Taiyuan, China",
+  "reasonKo": "산서박물관 외관, 태원, 중국",
+  "at": "2026-08-03T14:40:18.352Z"
+ },
+ "tokyo-fuglen-tokyo\u0001https://fastly.4sqi.net/img/general/original/496805_mjKwCGDhd9tE6Rvgzu5Mqh6NcuXREfa6E-eEOJVRbTY.jpg": {
+  "slug": "tokyo-fuglen-tokyo",
+  "verdict": "MISMATCH",
+  "reason": "This is Fuglen in Oslo, Norway, not Tokyo",
+  "reasonKo": "도쿄가 아닌 오슬로 Fuglen 매장",
+  "at": "2026-08-03T14:40:22.817Z"
+ },
+ "tokyo-ise-sueyoshi\u0001https://fastly.4sqi.net/img/general/original/851844_3LF2dpFwmoINmk2edJSjPkNFA43RH7PQraX53i91m14.jpg": {
+  "slug": "tokyo-ise-sueyoshi",
+  "verdict": "MATCH",
+  "reason": "Artistic plated dish, Japanese restaurant setting",
+  "reasonKo": "예술적 플레이팅, 일식당 분위기",
+  "at": "2026-08-03T14:40:25.876Z"
+ },
+ "tokyo-lenox-house\u0001https://fastly.4sqi.net/img/general/original/81933423_OxXxoYXDUHaTpcdNVPICQ8kgodH3Lt9T-GbGpXIS02g.jpg": {
+  "slug": "tokyo-lenox-house",
+  "verdict": "MATCH",
+  "reason": "Upscale Italian pasta dish, modern trendy restaurant setting",
+  "reasonKo": "고급 이탈리안 파스타, 세련된 레스토랑",
+  "at": "2026-08-03T14:40:28.499Z"
+ },
+ "tokyo-meiji-jingu\u0001https://fastly.4sqi.net/img/general/original/594980678_bR0Ishzzc_WPtA_5mvkKCdBXIb_KdMtBIFy_y7_QbPE.jpg": {
+  "slug": "tokyo-meiji-jingu",
+  "verdict": "MATCH",
+  "reason": "Torii gate entrance typical of Meiji Jingu shrine",
+  "reasonKo": "명치신궁의 특징적인 도리이 문 입구",
+  "at": "2026-08-03T14:40:32.321Z"
+ },
+ "tokyo-oxomoco\u0001https://fastly.4sqi.net/img/general/original/1412222860_A6WjGSVZAaCUrCvARC7J-fWmFe-X9oF-URKbQjhcLC0.jpg": {
+  "slug": "tokyo-oxomoco",
+  "verdict": "MATCH",
+  "reason": "Upscale plated burger with artistic presentation, Tokyo sett",
+  "reasonKo": "고급진 플레이팅의 버거, 도쿄의 트렌디한 식당",
+  "at": "2026-08-03T14:40:35.447Z"
+ },
+ "tokyo-senso-ji\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Sensoji_2023.jpg/1920px-Sensoji_2023.jpg": {
+  "slug": "tokyo-senso-ji",
+  "verdict": "MATCH",
+  "reason": "Sensō-ji temple main hall with characteristic architecture",
+  "reasonKo": "센소지 본전당의 특징적인 건축",
+  "at": "2026-08-03T14:40:38.844Z"
+ },
+ "tokyo-smith-wollensky\u0001https://fastly.4sqi.net/img/general/original/528907406_D_WjAKAGwdGuN9wplSAp2z36tEmwvyQirXoA71I_s34.jpg": {
+  "slug": "tokyo-smith-wollensky",
+  "verdict": "WEAK",
+  "reason": "Storefront signage only, no venue interior/food shown",
+  "reasonKo": "간판만 보임, 내부/음식 미표시",
+  "at": "2026-08-03T14:40:41.049Z"
+ },
+ "tokyo-tokyo-ramen-street\u0001https://fastly.4sqi.net/img/general/original/27653413_qDuJkjhUEm7GXxcwFn9E-J7L-k2p6R2WbX64esqSvlY.jpg": {
+  "slug": "tokyo-tokyo-ramen-street",
+  "verdict": "MATCH",
+  "reason": "Fresh ramen noodles in Tokyo ramen restaurant bowl",
+  "reasonKo": "도쿄 라멘 식당의 신선한 라멘",
+  "at": "2026-08-03T14:40:43.349Z"
+ },
+ "tokyo-vannelli-coffee\u0001https://fastly.4sqi.net/img/general/original/150480670_SqXtspuhy_6_CFk8iTQqZ7FMxlvIcIvYiJ03W7DzsVs.jpg": {
+  "slug": "tokyo-vannelli-coffee",
+  "verdict": "MATCH",
+  "reason": "Modern coffee shop interior with professional equipment",
+  "reasonKo": "전문적인 커피 장비를 갖춘 현대 카페",
+  "at": "2026-08-03T14:40:46.822Z"
+ },
+ "turin-baratti-milano\u0001https://upload.wikimedia.org/wikipedia/commons/9/91/Baratti_%26_Milano_in_Turino.jpg": {
+  "slug": "turin-baratti-milano",
+  "verdict": "MATCH",
+  "reason": "Elegant historic restaurant interior, chandeliers, formal di",
+  "reasonKo": "우아한 역사적 레스토랑, 샹들리에, 정장 식사",
+  "at": "2026-08-03T14:40:50.913Z"
+ },
+ "turin-mercato-centrale-torino\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Interno_Mercato_Centrale_Torino.jpg/3840px-Interno_Mercato_Centrale_Torino.jpg": {
+  "slug": "turin-mercato-centrale-torino",
+  "verdict": "MATCH",
+  "reason": "Modern food hall interior with dining areas, multiple levels",
+  "reasonKo": "현대식 푸드홀, 다층 식당 공간",
+  "at": "2026-08-03T14:40:55.798Z"
+ },
+ "turin-mole-antonelliana\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mole_Antonelliana_di_sera.jpg/1920px-Mole_Antonelliana_di_sera.jpg": {
+  "slug": "turin-mole-antonelliana",
+  "verdict": "MISMATCH",
+  "reason": "Image shows Mole Antonelliana, not the venue",
+  "reasonKo": "잘못된 건물 사진 사용됨",
+  "at": "2026-08-03T14:40:58.803Z"
+ },
+ "turin-museo-egizio\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Museo_Egizio_e_Galleria_sabauda%2C_Torino.jpg/1920px-Museo_Egizio_e_Galleria_sabauda%2C_Torino.jpg": {
+  "slug": "turin-museo-egizio",
+  "verdict": "MATCH",
+  "reason": "Egyptian statues at Museo Egizio Turin entrance",
+  "reasonKo": "투린 이집트박물관 입구의 이집트 조각상",
+  "at": "2026-08-03T14:41:02.522Z"
+ },
+ "udaipur-ambrai-ghat\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ambrai_Ghat_Night_Life.jpg/3840px-Ambrai_Ghat_Night_Life.jpg": {
+  "slug": "udaipur-ambrai-ghat",
+  "verdict": "MATCH",
+  "reason": "Udaipur palace lit at night, waterfront view",
+  "reasonKo": "밤의 우다이푸르 궁전, 물가 전망",
+  "at": "2026-08-03T14:41:05.800Z"
+ },
+ "udaipur-saheliyon-ki-bari\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Saheliyon-ki-Bari_%28Udaipur%29.jpg/1920px-Saheliyon-ki-Bari_%28Udaipur%29.jpg": {
+  "slug": "udaipur-saheliyon-ki-bari",
+  "verdict": "MATCH",
+  "reason": "Iconic dome fountain at Saheliyon ki Bari, Udaipur",
+  "reasonKo": "우다이푸르 사헬리욘 키 바리의 상징적 분수",
+  "at": "2026-08-03T14:41:09.973Z"
+ },
+ "valencia-la-lonja-de-la-seda-de-valencia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Lonja_de_la_Seda%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-29%2C_DD_23-25_HDR.JPG/1920px-Lonja_de_la_Seda%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-29%2C_DD_23-25_HDR.JPG": {
+  "slug": "valencia-la-lonja-de-la-seda-de-valencia",
+  "verdict": "MATCH",
+  "reason": "Gothic ceiling of La Lonja de la Seda Valencia",
+  "reasonKo": "발렌시아 라론하 고딕 천장",
+  "at": "2026-08-03T14:41:13.447Z"
+ },
+ "valencia-tapas-boatella\u0001https://upload.wikimedia.org/wikipedia/commons/9/96/Boatella_Tapas_Sardines.jpg": {
+  "slug": "valencia-tapas-boatella",
+  "verdict": "MATCH",
+  "reason": "Tapas dish with seafood and olives, Spanish cuisine",
+  "reasonKo": "해산물 타파스, 스페인 요리 스타일",
+  "at": "2026-08-03T14:41:17.833Z"
+ },
+ "varanasi-chet-singh-ghat-varanasi\u0001https://upload.wikimedia.org/wikipedia/commons/b/b0/Varanasi_52_-_Chet_Singh_ghat_%2837661099921%29.jpg": {
+  "slug": "varanasi-chet-singh-ghat-varanasi",
+  "verdict": "MATCH",
+  "reason": "Red sandstone fort structure with ghats, Varanasi setting",
+  "reasonKo": "바라나시 강변의 붉은 사암 요새",
+  "at": "2026-08-03T14:41:21.662Z"
+ },
+ "varanasi-shri-kashi-vishwanath-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Shri_Kashi_Vishwanath_Temple_3.jpg/1920px-Shri_Kashi_Vishwanath_Temple_3.jpg": {
+  "slug": "varanasi-shri-kashi-vishwanath-temple",
+  "verdict": "MATCH",
+  "reason": "Vishwanath Ghat entrance, Varanasi street scene",
+  "reasonKo": "바라나시 비슈와나트 갓 입구",
+  "at": "2026-08-03T14:41:24.925Z"
+ },
+ "venice-grand-canal\u0001https://upload.wikimedia.org/wikipedia/commons/5/59/Rainy._The_Grand_Canal_near_the_Rialto_Bridge._Venice.jpg": {
+  "slug": "venice-grand-canal",
+  "verdict": "MATCH",
+  "reason": "Iconic Grand Canal view with gondolas and architecture",
+  "reasonKo": "베니스 대운하의 상징적 풍경",
+  "at": "2026-08-03T14:41:33.225Z"
+ },
+ "washington-dc-founding-farmers-dc\u0001https://fastly.4sqi.net/img/general/original/38479891_mNa_tBiCtNMK1w8uEdqLWAr-E3P7XVw-Jps92_dcWDQ.jpg": {
+  "slug": "washington-dc-founding-farmers-dc",
+  "verdict": "MATCH",
+  "reason": "Modern restaurant interior with bar, upscale dining setup",
+  "reasonKo": "현대적 레스토랑 인테리어, 바 및 식사 공간",
+  "at": "2026-08-03T14:41:36.334Z"
+ },
+ "washington-dc-surfside-taco-stand\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Surfside_Taco_Stand_-_N_Street_-_Washington_DC.jpg/3840px-Surfside_Taco_Stand_-_N_Street_-_Washington_DC.jpg": {
+  "slug": "washington-dc-surfside-taco-stand",
+  "verdict": "MATCH",
+  "reason": "Surfside Taco Stand storefront clearly visible, DC urban set",
+  "reasonKo": "서퍼사이드 타코 스탠드 외관, DC 도시 설정",
+  "at": "2026-08-03T14:41:40.898Z"
+ },
+ "washington-dc-u-s-national-arboretum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/National_Capitol_Columns_-_Washington%2C_D.C..jpg/1920px-National_Capitol_Columns_-_Washington%2C_D.C..jpg": {
+  "slug": "washington-dc-u-s-national-arboretum",
+  "verdict": "MATCH",
+  "reason": "Iconic columned structure at U.S. National Arboretum",
+  "reasonKo": "미국 국립 수목원의 상징적 기둥 구조",
+  "at": "2026-08-03T14:41:45.131Z"
+ },
+ "xi-an-fortifications-of-xi-an\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/City_wall_of_Xi%27an_51550-Xian_%2827959363326%29.jpg/1920px-City_wall_of_Xi%27an_51550-Xian_%2827959363326%29.jpg": {
+  "slug": "xi-an-fortifications-of-xi-an",
+  "verdict": "MATCH",
+  "reason": "Xi'an city wall towers with authentic architecture",
+  "reasonKo": "시안 성벽 탑, 정통 건축",
+  "at": "2026-08-03T14:41:48.636Z"
+ },
+ "xi-an-tang-paradise\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Tang_Paradise_2024_04.jpg/1920px-Tang_Paradise_2024_04.jpg": {
+  "slug": "xi-an-tang-paradise",
+  "verdict": "MATCH",
+  "reason": "Tang Dynasty Park, Xi'an landmark with authentic architectur",
+  "reasonKo": "시안 당나라 유적공원, 정통 건축",
+  "at": "2026-08-03T14:41:51.911Z"
+ },
+ "xian-ancient-city-wall\u0001https://upload.wikimedia.org/wikipedia/commons/b/bf/Towers_of_ancient_city_wall%2C_Xi%27an%2C_China_-_panoramio.jpg": {
+  "slug": "xian-ancient-city-wall",
+  "verdict": "MATCH",
+  "reason": "Xi'an city wall with traditional architecture visible",
+  "reasonKo": "시안 성벽과 전통 건축물 명확히 보임",
+  "at": "2026-08-03T14:41:55.720Z"
+ },
+ "xian-emperor-qinshihuang-s-mausoleum-site-museum\u0001https://fastly.4sqi.net/img/general/original/5315953_sXUtAFywlFx3FZqyi7Yk-xEKV-_aWDVw6xzOJF0ZFYA.jpg": {
+  "slug": "xian-emperor-qinshihuang-s-mausoleum-site-museum",
+  "verdict": "MATCH",
+  "reason": "Museum entrance with Chinese characters and architecture",
+  "reasonKo": "중국식 건축의 박물관 입구",
+  "at": "2026-08-03T14:42:00.413Z"
+ },
+ "yeosu-keunkkeut-lighthouse\u0001https://fastly.4sqi.net/img/general/original/12647493_XGbSrLLG61czWtYRdJ6GaX8ED3c-u8w1YxQ2_eJRcU4.jpg": {
+  "slug": "yeosu-keunkkeut-lighthouse",
+  "verdict": "MATCH",
+  "reason": "White lighthouse on rocky coastal cliff, Yeosu",
+  "reasonKo": "여수 해안 절벽의 흰 등대, 정확한 장소",
+  "at": "2026-08-03T14:42:03.046Z"
+ },
+ "yogyakarta-blanco-coffee-and-books\u0001https://fastly.4sqi.net/img/general/original/6139475_wjHB7nXpiVf_1Pidl-NRJwRa79wqNi9IP4Weiut21T8.jpg": {
+  "slug": "yogyakarta-blanco-coffee-and-books",
+  "verdict": "MATCH",
+  "reason": "Storefront clearly shows Blanco Coffee & Book signage",
+  "reasonKo": "블랑코 카페 간판이 명확히 보임",
+  "at": "2026-08-03T14:42:05.291Z"
+ },
+ "yogyakarta-taman-sari-tourist-village\u0001https://fastly.4sqi.net/img/general/original/91829172_iKj_kqI9JKLZAGAZGvRUtYwJIhXEIA-AiyVfKhQQkJw.jpg": {
+  "slug": "yogyakarta-taman-sari-tourist-village",
+  "verdict": "MATCH",
+  "reason": "Traditional Indonesian stone gate, Yogyakarta architecture",
+  "reasonKo": "요그야카르타 전통 석조 건축물",
+  "at": "2026-08-03T14:42:08.121Z"
+ },
+ "yokohama-manchinro\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Manchinro.JPG/1920px-Manchinro.JPG": {
+  "slug": "yokohama-manchinro",
+  "verdict": "MATCH",
+  "reason": "Manchinro storefront in Yokohama Chinatown, Japan.",
+  "reasonKo": "요코하마 차이나타운의 만친로 입구",
+  "at": "2026-08-03T14:42:11.528Z"
+ },
+ "yokohama-yokohama-chinatown\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Yokohama_Chinatown_4.jpg/1920px-Yokohama_Chinatown_4.jpg": {
+  "slug": "yokohama-yokohama-chinatown",
+  "verdict": "MATCH",
+  "reason": "Yokohama Chinatown street with authentic Chinese signage",
+  "reasonKo": "요코하마 차이나타운의 정통 중식 간판",
+  "at": "2026-08-03T14:42:14.814Z"
+ },
+ "yokohama-yokohama-marine-tower\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Yokohama_Marine_Tower_02a.jpg/1920px-Yokohama_Marine_Tower_02a.jpg": {
+  "slug": "yokohama-yokohama-marine-tower",
+  "verdict": "MATCH",
+  "reason": "Yokohama Marine Tower with surrounding cityscape",
+  "reasonKo": "요코하마 마린 타워와 주변 도시풍경",
+  "at": "2026-08-03T14:42:17.553Z"
  }
 }

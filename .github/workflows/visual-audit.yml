@@ -5,13 +5,19 @@ name: visual-audit
 # + manual dispatch. Sends a Korean Telegram warning when mismatches are found.
 on:
   schedule:
-    - cron: '40 9 * * 1'   # Mondays 18:40 KST — weekly sweep of any un-checked heroes
+    # DAILY, not weekly (2026-08-03). Weekly × 150-post cap could not keep up
+    # with 16-20 posts published a day: the un-checked backlog never emptied,
+    # and 239 posts were still waiting when the owner found a Bangkok street
+    # stall heading a rooftop-club guide. Daily + no cap means the queue is
+    # normally just that day's new posts (~20 Haiku calls, pennies), and a
+    # wrong photo is caught the night after it publishes instead of never.
+    - cron: '40 12 * * *'  # 21:40 KST daily — after publish + translations
   workflow_dispatch:
     inputs:
       limit:
         description: 'Max posts to check this run (0 = all remaining)'
         required: false
-        default: '150'
+        default: '0'
       slugs:
         description: 'Specific slugs (comma-separated); blank = resumable venue posts'
         required: false
@@ -36,14 +42,18 @@ jobs:
           fi
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          AUDIT_LIMIT: ${{ github.event.inputs.limit || '150' }}
+          AUDIT_LIMIT: ${{ github.event.inputs.limit || '0' }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
       - name: Commit audit state
         run: |
           git config user.name "content-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add data/visual-audit.json
+          # src/content/posts too: the audit now quarantines a mismatched hero
+          # on the spot, and staging only the JSON would have thrown that away
+          # with the runner — the same omission that kept the retirement clock
+          # from ever advancing (fixed 2026-08-01).
+          git add data/visual-audit.json src/content/posts
           if git diff --staged --quiet; then
             echo "No audit changes."
           else

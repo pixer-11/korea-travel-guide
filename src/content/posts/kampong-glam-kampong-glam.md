@@ -1,31 +1,43 @@
 ---
-title: "Kampong Glam: Travel Guide"
+title: 'Kampong Glam: Travel Guide'
 description: Kampong Glam is Singapore's historic Malay-Muslim quarter, anchored by the golden-domed Masjid Sultan and the pedestrianized Bussorah Street leading up to it.
-country: "Singapore"
-region: "Kampong Glam"
-category: "hidden-gem"
-pubDate: "2026-07-23T07:38:55.463Z"
+country: Singapore
+region: Kampong Glam
+category: hidden-gem
+pubDate: '2026-07-23T07:38:55.463Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/2016_Singapur%2C_Kampong_Glam%2C_Centrum_Dziedzictwa_Malajskiego%2C_Dawny_Pa%C5%82ac_Kampong_Glam_%2804%29.jpg/1920px-2016_Singapur%2C_Kampong_Glam%2C_Centrum_Dziedzictwa_Malajskiego%2C_Dawny_Pa%C5%82ac_Kampong_Glam_%2804%29.jpg"
-  credit: "Photo: Marcin Konsek / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:2016_Singapur,_Kampong_Glam,_Centrum_Dziedzictwa_Malajskiego,_Dawny_Pa%C5%82ac_Kampong_Glam_(04).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/2016_Singapur%2C_Kampong_Glam%2C_Centrum_Dziedzictwa_Malajskiego%2C_Dawny_Pa%C5%82ac_Kampong_Glam_%2804%29.jpg/1920px-2016_Singapur%2C_Kampong_Glam%2C_Centrum_Dziedzictwa_Malajskiego%2C_Dawny_Pa%C5%82ac_Kampong_Glam_%2804%29.jpg
+  credit: 'Photo: Marcin Konsek / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:2016_Singapur,_Kampong_Glam,_Centrum_Dziedzictwa_Malajskiego,_Dawny_Pa%C5%82ac_Kampong_Glam_(04).jpg
 gallery: []
 place:
-  id: "ChIJBe5vRW8Z2jERwJr2F0Bt0gs"
-  name: "Kampong Glam"
-  address: "26 Bussorah St, Singapore 199444"
+  id: ChIJBe5vRW8Z2jERwJr2F0Bt0gs
+  name: Kampong Glam
+  address: 26 Bussorah St, Singapore 199444
   rating: 4.6
   userRatingsTotal: 94
-  googleMapsUrl: "https://maps.google.com/?cid=851863401573817024&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=851863401573817024&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.30137
   lng: 103.8598031
   busyness:
     updated: '2026-07-23'
-    weekendQuiet: [11, 12, 13, 14, 15, 20, 21, 22]
-    weekendBusy: [8, 9, 13, 14]
-    venueId: 'ven_7367307442304632724a7752456a325a385752763565424a496843'
+    weekendQuiet:
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 20
+      - 21
+      - 22
+    weekendBusy:
+      - 8
+      - 9
+      - 13
+      - 14
+    venueId: ven_7367307442304632724a7752456a325a385752763565424a496843
   openingHours:
     - 'Monday: Open 24 hours'
     - 'Tuesday: Open 24 hours'
@@ -35,22 +47,22 @@ place:
     - 'Saturday: Open 24 hours'
     - 'Sunday: Open 24 hours'
 tags:
-  - "kampong glam"
-  - "hidden gem"
-quickAnswer: "Kampong Glam is Singapore's historic Malay-Muslim quarter, anchored by the golden-domed Masjid Sultan and the pedestrianized Bussorah Street leading up to it. Spend 2-3 hours wandering Bussorah Street, Arab Street's textile shops, and the street art of Haji Lane; go on a weekday morning to see it before the lunch and evening crowds arrive. Nearest MRT is Bugis (East-West and Downtown Lines), about a 7-10 minute walk."
+  - kampong glam
+  - hidden gem
+quickAnswer: Kampong Glam is Singapore's historic Malay-Muslim quarter, anchored by the golden-domed Masjid Sultan and the pedestrianized Bussorah Street leading up to it. Spend 2-3 hours wandering Bussorah Street, Arab Street's textile shops, and the street art of Haji Lane; go on a weekday morning to see it before the lunch and evening crowds arrive. Nearest MRT is Bugis (East-West and Downtown Lines), about a 7-10 minute walk.
 faq:
-  - q: "How do I get to Kampong Glam by public transport?"
-    a: "Take the MRT to Bugis Station (East-West or Downtown Line) and walk about 7-10 minutes northeast via Victoria Street or North Bridge Road. Nicoll Highway on the Circle Line is a nearby alternative."
-  - q: "How long should I spend in Kampong Glam?"
-    a: "Plan on 2-3 hours to walk Bussorah Street, Arab Street, Haji Lane, and Masjid Sultan at a relaxed pace, longer if you stop for food or shopping."
-  - q: "Is it free to enter Masjid Sultan?"
-    a: "Yes, entry is free outside of prayer times, though visitors should dress modestly (shoulders and knees covered) and may be asked to borrow a robe at the entrance."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Weekday mornings between roughly 9 and 11am are quietest. Avoid Friday midday, which is the main congregational prayer time at the mosque."
-  - q: "What else is nearby?"
-    a: "Bugis Street market and Bugis Junction mall are a short walk away, and the Civic District and Marina Bay area are reachable within about 15-20 minutes by MRT or taxi."
+  - q: How do I get to Kampong Glam by public transport?
+    a: Take the MRT to Bugis Station (East-West or Downtown Line) and walk about 7-10 minutes northeast via Victoria Street or North Bridge Road. Nicoll Highway on the Circle Line is a nearby alternative.
+  - q: How long should I spend in Kampong Glam?
+    a: Plan on 2-3 hours to walk Bussorah Street, Arab Street, Haji Lane, and Masjid Sultan at a relaxed pace, longer if you stop for food or shopping.
+  - q: Is it free to enter Masjid Sultan?
+    a: Yes, entry is free outside of prayer times, though visitors should dress modestly (shoulders and knees covered) and may be asked to borrow a robe at the entrance.
+  - q: What's the best time to visit to avoid crowds?
+    a: Weekday mornings between roughly 9 and 11am are quietest. Avoid Friday midday, which is the main congregational prayer time at the mosque.
+  - q: What else is nearby?
+    a: Bugis Street market and Bugis Junction mall are a short walk away, and the Civic District and Marina Bay area are reachable within about 15-20 minutes by MRT or taxi.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

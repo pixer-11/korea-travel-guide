@@ -20,6 +20,7 @@ import { existsSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import matter from 'gray-matter';
+import yaml from 'js-yaml';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const POSTS_DIR = join(ROOT, 'src', 'content', 'posts');
@@ -89,7 +90,7 @@ reasonKo must be written in Korean — it is sent to the site owner, who reads K
 }
 
 const files = (await readdir(POSTS_DIR)).filter((f) => f.endsWith('.md'));
-let checked = 0, mismatch = 0, weak = 0, failed = 0;
+let checked = 0, mismatch = 0, weak = 0, failed = 0, quarantined = 0;
 const flagged = [];
 
 for (const f of files) {
@@ -118,7 +119,25 @@ for (const f of files) {
     // Korean only. The model's English `reason` used to be interpolated straight
     // into the Telegram message — the third time English reached the owner that
     // way. If the model skips reasonKo, the slug alone is sent rather than English.
-    if (v.verdict === 'MISMATCH') { mismatch++; flagged.push(`  ✗ ${slug}${v.reasonKo ? ` — ${v.reasonKo}` : ''}`); }
+    if (v.verdict === 'MISMATCH') {
+      mismatch++; flagged.push(`  ✗ ${slug}${v.reasonKo ? ` — ${v.reasonKo}` : ''}`);
+      // Quarantine NOW, not at 04:35. This audit used to only write a note and
+      // leave the wrong photo live until the next night's patrol — the owner
+      // opened a rooftop-club guide four hours after it was flagged and found
+      // a street-stall photo still on it (2026-08-03). A KNOWN-wrong photo may
+      // not stay published for a single page view; the patrol then repairs the
+      // draft and republishes it, exactly as it does for its own quarantines.
+      try {
+        const p = join(POSTS_DIR, f);
+        const { data: d2, content } = matter(await readFile(p, 'utf8'));
+        if (d2.draft !== true) {
+          d2.draft = true;
+          await writeFile(p, `---\n${yaml.dump(d2, { lineWidth: -1, noRefs: true, sortKeys: false })}---\n${content}`, 'utf8');
+          quarantined++;
+          console.log(`     🚫 ${slug}: quarantined immediately`);
+        }
+      } catch (e) { console.log(`     ⚠️  ${slug}: quarantine failed — ${e.message}`); }
+    }
     else if (v.verdict === 'WEAK') { weak++; }
     console.log(`  ${v.verdict === 'MISMATCH' ? '✗' : v.verdict === 'WEAK' ? '~' : '✓'} ${slug}: ${v.verdict} (${v.reason})`);
   } catch (e) {
@@ -141,8 +160,9 @@ if (TELEGRAM_BOT_TOKEN && TELEGRAM_CHAT_ID && mismatch > 0) {
   const text =
     `🖼️ Wander Atlas — 시각 이미지 검증\n` +
     `오매칭 ${mismatch}건 / 검사 ${checked}건 (첫 검사분만; 이미 격리된 글은 제외)\n` +
+    `🚫 즉시 비공개 처리: ${quarantined}편 — 잘못된 사진이 사이트에 남아 있지 않습니다.\n` +
     `${flagged.slice(0, 15).join('\n')}\n` +
-    `\n➡️ 위 글들은 내일 04:35 자동 수리 순찰이 사진 교체를 시도하고, 실패하면 자동 격리합니다. 따로 하실 일은 없습니다.`;
+    `\n➡️ 새벽 04:35 순찰이 올바른 사진을 찾으면 자동으로 다시 공개합니다. 따로 하실 일은 없습니다.`;
   await fetch(`https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage`, {
     method: 'POST', headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ chat_id: TELEGRAM_CHAT_ID, text, disable_web_page_preview: true }),

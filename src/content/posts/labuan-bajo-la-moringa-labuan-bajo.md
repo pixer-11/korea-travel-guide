@@ -69,6 +69,7 @@ faq:
   - q: Is it close to the airport?
     a: Yes, Komodo Airport (LBJ) is roughly a 15-20 minute drive away, making it convenient for a first or last dinner on a Labuan Bajo trip.
 aiGenerated: true
+draft: true
 ---
 
 ## Why go

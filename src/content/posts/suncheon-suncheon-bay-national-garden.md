@@ -67,7 +67,7 @@ faq:
   - q: Is the wetland reserve part of the same ticket or visit?
     a: The National Garden and Suncheon Bay Wetland Reserve are adjacent but distinct areas connected by a path, shuttle cart, and cable car — check current combined-ticket options at the entrance before deciding how much time to allot.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

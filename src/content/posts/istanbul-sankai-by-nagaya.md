@@ -28,7 +28,7 @@ faq:
   - q: What else is worth doing nearby?
     a: The Bebek waterfront park and tea gardens are worth a stroll before or after your meal, and Rumeli Hisarı fortress is a short trip further north along the Bosphorus.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Sankai stands out

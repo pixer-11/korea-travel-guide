@@ -2,7 +2,7 @@
 title: Local Restaurant in Gangneung
 description: 'For an honest sense of Gangneung''s food culture, head to the alleys around Jungang Market (Jungang-dong) and the Gangmun tidal flat near Gyeongpo Beach, where small family-run spots specialize in the city''s signature dishes: chodang sundubu (uncoagulated tofu simmered in seawater brine), fresh grilled or raw fish from the East Sea, and makguksu (cold buckwheat noodles).'
 region: Gangneung
-country: "South Korea"
+country: South Korea
 category: restaurant
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
@@ -27,7 +27,7 @@ faq:
   - q: Is English spoken or menus translated?
     a: Not reliably at smaller family-run places. Learning a few Korean food terms (sundubu, makguksu, hoe) or using a translation app is recommended.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Gangneung's Local Restaurants Are Worth Seeking Out

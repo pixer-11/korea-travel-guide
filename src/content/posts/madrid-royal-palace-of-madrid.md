@@ -64,7 +64,7 @@ faq:
   - q: Should I book tickets in advance?
     a: Yes — it's one of the most-visited sites in Madrid, and booking a timed-entry ticket online avoids a potentially long walk-up line at the ticket counter.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

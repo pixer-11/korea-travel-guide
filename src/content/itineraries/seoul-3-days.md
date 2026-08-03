@@ -96,7 +96,8 @@ itinerary:
         walkToNext: null
     rainSwapSlug: null
 aiGenerated: true
-draft: false
+draft: true
 updatedDate: '2026-07-30T01:06:03.427Z'
 ---
+
 

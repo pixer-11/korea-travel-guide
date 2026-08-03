@@ -504,6 +504,7 @@ export async function loadPostsFrom(dir) {
 export function validateItineraryData(file, data, postsById, postsList) {
   const issues = [];
   const d = data || {};
+  const isDraftItinerary = d.draft === true;
 
   scanProseLeak(issues, file, 'title', d.title);
   scanProseLeak(issues, file, 'description', d.description);
@@ -549,7 +550,11 @@ export function validateItineraryData(file, data, postsById, postsList) {
         issues.push(`MISSING-POST: ${file} — stop slug "${slug}" has no matching post`);
       } else {
         const pd = post.data || {};
-        if (pd.draft) issues.push(`DRAFT-POST: ${file} — stop slug "${slug}" resolves to a draft post`);
+        // A PARKED itinerary (draft) is already off the site, so a stop that is
+        // also unpublished is the expected state, not a defect — build-itineraries
+        // parks a city's plan precisely when quarantine takes one of its stops
+        // (2026-08-03). Reporting it kept the run red with nothing to fix.
+        if (pd.draft && !isDraftItinerary) issues.push(`DRAFT-POST: ${file} — stop slug "${slug}" resolves to a draft post`);
         const pl = pd.place || {};
         if (typeof pl.lat !== 'number' || typeof pl.lng !== 'number') {
           issues.push(`MISSING-COORDS: ${file} — stop slug "${slug}" has no numeric place.lat/lng`);

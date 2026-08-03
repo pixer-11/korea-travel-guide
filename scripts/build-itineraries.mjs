@@ -900,6 +900,10 @@ async function processVariant({ city, country, days, cityPosts, packedAvailable 
 async function main() {
   const allPosts = await loadPosts();
   const regions = [...new Set(allPosts.map((p) => p.data.region).filter(Boolean))];
+  // Which posts are currently unpublished — an itinerary may not route through
+  // one (the page throws rather than render a dead stop), so a city that loses
+  // posts to quarantine needs its stale itinerary parked. See the gate branch.
+  const draftSlugs = new Set(allPosts.filter((p) => p.data.draft === true).map((p) => p.id));
 
   let state = {};
   try { state = JSON.parse(await readFile(STATE_FILE, 'utf8')); } catch { /* first run */ }
@@ -952,6 +956,32 @@ async function main() {
       const variants = (ONLY_DAYS ? [ONLY_DAYS] : DAY_VARIANTS).filter((d) => (d === 5 ? gates.fiveDay : d === 3 ? gates.threeDay : true));
       if (!variants.length) {
         console.log(`  · ${city} — ${q.length} qualifying post(s), no day-variant gate cleared yet`);
+        // A city can FALL BACK below its gate. Quarantining wrong-venue photos
+        // (2026-08-03) dropped Bangkok and Seoul under the 3-day threshold
+        // while their existing itineraries still routed readers through the
+        // now-unpublished stops — and the itinerary page refuses to render a
+        // draft stop, so the entire site build died. An itinerary whose city no
+        // longer qualifies is PARKED (draft) instead of left pointing at
+        // nothing; a later run republishes it once the patrol restores enough
+        // posts, because these files are rebuilt from scratch.
+        for (const d of (ONLY_DAYS ? [ONLY_DAYS] : DAY_VARIANTS)) {
+          const p = join(OUT_DIR, `${citySlug}-${d}-days.md`);
+          if (!existsSync(p)) continue;
+          const raw = await readFile(p, 'utf8');
+          const cut = raw.indexOf('\n---', 3);
+          const fm = yaml.load(raw.slice(4, cut));
+          if (!fm || fm.draft === true) continue;
+          // `days` is the NUMBER of days; the per-day plan lives in `itinerary`.
+          const stops = (fm.itinerary ?? []).flatMap((day) => (day.stops ?? []).map((s) => s.slug));
+          const broken = [...new Set([
+            ...stops.filter((s) => draftSlugs.has(s)),
+            ...(fm.itinerary ?? []).map((d) => d.rainSwapSlug).filter((s) => s && draftSlugs.has(s)),
+          ])];
+          if (!broken.length) continue;
+          fm.draft = true;
+          await writeFile(p, `---\n${yaml.dump(fm, { lineWidth: -1, noRefs: true, sortKeys: false })}---\n${raw.slice(cut + 4)}`, 'utf8');
+          console.log(`  🚫 ${citySlug}-${d}-days — parked (draft): ${broken.length} unpublished stop(s) — ${broken.join(', ')}`);
+        }
         continue;
       }
 

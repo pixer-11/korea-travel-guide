@@ -42,6 +42,7 @@ faq:
   - q: What's nearby I can combine with this visit?
     a: Wat Tham Sua (Tiger Cave Temple), the Krabi Town riverside promenade, and the weekend night market are all within a short drive, making it easy to build a half-day loop.
 aiGenerated: true
+draft: true
 ---
 
 ## Why go

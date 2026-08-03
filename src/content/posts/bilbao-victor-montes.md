@@ -21,7 +21,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 43.2589036
   lng: -2.9223596
-  phone: '+34 944 15 70 67'
+  phone: +34 944 15 70 67
   openingHours:
     - 'Monday: 11:00 AM – 11:00 PM'
     - 'Tuesday: 11:00 AM – 11:00 PM'
@@ -46,7 +46,7 @@ faq:
   - q: What should I order?
     a: Start with the tortilla de patata, bacalao pintxos, and jamón-topped bread, paired with a glass of txakoli or a caña of beer. The seasonal specials on the chalkboard near the register are also worth trying.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

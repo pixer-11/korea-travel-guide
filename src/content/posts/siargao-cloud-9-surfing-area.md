@@ -49,6 +49,7 @@ faq:
   - q: Do I need to book a surf lesson in advance?
     a: Not usually — equipment rental stalls and instructors are available right at the beach access near the boardwalk, and lessons are typically arranged and paid for in cash on the spot.
 aiGenerated: true
+draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

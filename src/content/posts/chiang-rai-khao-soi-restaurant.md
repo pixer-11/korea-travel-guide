@@ -39,7 +39,8 @@ place:
       - 19
       - 20
       - 21
-    weekendQuiet: [17]
+    weekendQuiet:
+      - 17
     weekendBusy:
       - 14
       - 15
@@ -73,6 +74,7 @@ faq:
     a: Wat Phra Kaew and the Chiang Rai Clock Tower are both within easy walking or short tuk-tuk distance, making this a natural lunch stop on an Old City sightseeing route.
 aiGenerated: true
 updatedDate: '2026-07-24'
+draft: true
 ---
 
 ## Why go

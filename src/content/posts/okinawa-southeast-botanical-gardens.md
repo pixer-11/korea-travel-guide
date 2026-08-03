@@ -1,53 +1,69 @@
 ---
-title: "Southeast Botanical Gardens: Okinawa Travel Guide"
+title: 'Southeast Botanical Gardens: Okinawa Travel Guide'
 description: Southeast Botanical Gardens (東南植物楽園) in Okinawa City is a large tropical garden with lakes, orchid houses, and animal encounters, best visited on a half-day trip combined with a rental car since it sits inland, away from the coastal bus routes.
-country: "Japan"
-region: "Okinawa"
-category: "attraction"
-pubDate: 2026-07-21
+country: Japan
+region: Okinawa
+category: attraction
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/%E6%9D%B1%E5%8D%97%E6%A4%8D%E7%89%A9%E5%9C%92_Southeast_Botanical_Gardens_-_panoramio.jpg/1920px-%E6%9D%B1%E5%8D%97%E6%A4%8D%E7%89%A9%E5%9C%92_Southeast_Botanical_Gardens_-_panoramio.jpg"
-  credit: "Photo: lienyuan lee / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:%E6%9D%B1%E5%8D%97%E6%A4%8D%E7%89%A9%E5%9C%92_Southeast_Botanical_Gardens_-_panoramio.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/%E6%9D%B1%E5%8D%97%E6%A4%8D%E7%89%A9%E5%9C%92_Southeast_Botanical_Gardens_-_panoramio.jpg/1920px-%E6%9D%B1%E5%8D%97%E6%A4%8D%E7%89%A9%E5%9C%92_Southeast_Botanical_Gardens_-_panoramio.jpg
+  credit: 'Photo: lienyuan lee / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:%E6%9D%B1%E5%8D%97%E6%A4%8D%E7%89%A9%E5%9C%92_Southeast_Botanical_Gardens_-_panoramio.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Southeast_Botanical_Garden_%E6%9D%B1%E5%8D%97%E6%A4%8D%E7%89%A9%E6%A8%82%E5%9C%92_-_panoramio.jpg/1920px-Southeast_Botanical_Garden_%E6%9D%B1%E5%8D%97%E6%A4%8D%E7%89%A9%E6%A8%82%E5%9C%92_-_panoramio.jpg
     credit: 'Photo: lienyuan lee / Wikimedia Commons (CC BY 3.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Southeast_Botanical_Garden_%E6%9D%B1%E5%8D%97%E6%A4%8D%E7%89%A9%E6%A8%82%E5%9C%92_-_panoramio.jpg
 place:
-  id: "ChIJ12iS29gR5TQRCznHnqmdqpc"
-  name: "Southeast Botanical Gardens"
-  address: "2146 Chibana, Okinawa, 904-2143, Japan"
+  id: ChIJ12iS29gR5TQRCznHnqmdqpc
+  name: Southeast Botanical Gardens
+  address: 2146 Chibana, Okinawa, 904-2143, Japan
   rating: 4.1
   userRatingsTotal: 1771
-  googleMapsUrl: "https://maps.google.com/?cid=10928720797606820107&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=10928720797606820107&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 26.3755374
   lng: 127.8065709
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [9, 21]
-    weekendQuiet: [7, 8, 9, 21]
-    weekendBusy: [11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
-    venueId: 'ven_637071646d716e486e7a435251543552673932536932314a496843'
+    weekdayQuiet:
+      - 9
+      - 21
+    weekendQuiet:
+      - 7
+      - 8
+      - 9
+      - 21
+    weekendBusy:
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+    venueId: ven_637071646d716e486e7a435251543552673932536932314a496843
 tags:
-  - "okinawa"
-  - "top attraction"
-quickAnswer: "Southeast Botanical Gardens (東南植物楽園) in Okinawa City is a large tropical garden with lakes, orchid houses, and animal encounters, best visited on a half-day trip combined with a rental car since it sits inland, away from the coastal bus routes. Go in the morning to avoid the midday heat, and check whether the evening illumination season is running if you want a very different, lantern-lit version of the same gardens."
+  - okinawa
+  - top attraction
+quickAnswer: Southeast Botanical Gardens (東南植物楽園) in Okinawa City is a large tropical garden with lakes, orchid houses, and animal encounters, best visited on a half-day trip combined with a rental car since it sits inland, away from the coastal bus routes. Go in the morning to avoid the midday heat, and check whether the evening illumination season is running if you want a very different, lantern-lit version of the same gardens.
 faq:
-  - q: "How do I get to Southeast Botanical Gardens without a car?"
-    a: "It's difficult — the Yui Rail monorail doesn't reach this far, and buses from Naha require transfers. A rental car (about 30–40 minutes from Naha via the Okinawa Expressway) or a hotel/tour shuttle is the most reliable option."
-  - q: "How long should I plan to spend there?"
-    a: "At least two to three hours to walk the main garden areas, orchid house, and lake paths; longer if you eat on-site or visit during an illumination event."
-  - q: "What is the garden known for besides plants?"
-    a: "Alongside subtropical and imported flora, it features small animal encounter zones (species rotate, historically including flamingos and capybaras) and occasional seasonal workshops, plus a lantern illumination event in cooler months."
-  - q: "What's the best time of year to visit?"
-    a: "Spring and late autumn offer the most comfortable temperatures and good blooms; summer visits are best done early morning to avoid heat and humidity. Check separately if the winter illumination event is running."
-  - q: "Is there food available on-site?"
-    a: "Yes, there's an on-site restaurant/cafe, which is convenient since the garden's inland location makes a nearby town lunch detour impractical."
+  - q: How do I get to Southeast Botanical Gardens without a car?
+    a: It's difficult — the Yui Rail monorail doesn't reach this far, and buses from Naha require transfers. A rental car (about 30–40 minutes from Naha via the Okinawa Expressway) or a hotel/tour shuttle is the most reliable option.
+  - q: How long should I plan to spend there?
+    a: At least two to three hours to walk the main garden areas, orchid house, and lake paths; longer if you eat on-site or visit during an illumination event.
+  - q: What is the garden known for besides plants?
+    a: Alongside subtropical and imported flora, it features small animal encounter zones (species rotate, historically including flamingos and capybaras) and occasional seasonal workshops, plus a lantern illumination event in cooler months.
+  - q: What's the best time of year to visit?
+    a: Spring and late autumn offer the most comfortable temperatures and good blooms; summer visits are best done early morning to avoid heat and humidity. Check separately if the winter illumination event is running.
+  - q: Is there food available on-site?
+    a: Yes, there's an on-site restaurant/cafe, which is convenient since the garden's inland location makes a nearby town lunch detour impractical.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go
