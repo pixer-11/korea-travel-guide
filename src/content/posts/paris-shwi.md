@@ -1,6 +1,6 @@
 ---
-title: Shwi in Paris
-description: Shwi is a Lebanese grilled-chicken counter from the Kubri team, set along the Canal Saint-Martin in Paris's 10th arrondissement.
+title: "SHWI Canal: Where to Eat in Paris (4.2★)"
+description: "Shwi is a Lebanese grilled-chicken counter from the Kubri team, set along the Canal Saint-Martin in Paris's 10th arrondissement. 4.2★ (335 reviews) — what visitors say, hours, and tips."
 country: France
 region: Paris
 category: restaurant

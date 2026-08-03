@@ -16,6 +16,7 @@
 // ─────────────────────────────────────────────────────────────
 import './lib/env.mjs'; // MUST be first — loads .env before other modules read process.env
 import { makeTitle, makePlacelessTitle } from './lib/titles.mjs';
+import { clip, withRatingSignal } from './lib/serp.mjs';
 import { readFile, writeFile, readdir, mkdir } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
@@ -583,7 +584,7 @@ async function buildLivePost(target) {
     console.log(`  in-body photo skipped: ${e.message.slice(0, 60)}`);
   }
 
-  const title = makeTitle(place.name, target);
+  const title = makeTitle(place.name, target, place);
 
   // ONE extra Details call per published venue → honest "like a local" signals
   // (review languages + counts; text discarded). Never blocks publishing.
@@ -734,7 +735,7 @@ function buildDummyPost(target) {
   };
   if (!checkPlace(place).ok) return null;
 
-  const title = makeTitle(place.name, target);
+  const title = makeTitle(place.name, target, place);
   const img = (t) => ({ url: '/images/placeholder-market.svg', credit: 'Placeholder image', license: 'placeholder', source: 'local' });
   const heroImage = img();
   const gallery = [img(), img()];
@@ -794,37 +795,17 @@ function assemble(target, place, title, heroImage, gallery, content) {
   // Prefer a real, unique meta description from the answer-first summary (better
   // SEO than the old templated one). Fall back to the template only if empty.
   const qa = (quickAnswer || '').trim().replace(/\s+/g, ' ');
-  // End meta descriptions on a FULL SENTENCE within the limit (no dangling ", …"
-  // that reads as auto-generated and depresses SERP CTR). Fall back to a word
-  // boundary + ellipsis only when no sentence fits.
-  const clip = (s, n = 158) => {
-    if (s.length <= n) return s;
-    const cut = s.slice(0, n);
-    const lastPunct = Math.max(cut.lastIndexOf('. '), cut.lastIndexOf('! '), cut.lastIndexOf('? '));
-    if (lastPunct >= 60) return cut.slice(0, lastPunct + 1).trim();
-    // No sentence boundary inside the limit. The word-trim fallback below
-    // shipped a fragment on ALL 16 posts of the first post-gate publish
-    // (2026-08-02: "…so you can eat before or after", "…so aim") — the
-    // writer's answer-first style routinely opens with a 200-char sentence,
-    // so the "rare" fallback was actually the common case, and every
-    // fragment then re-translated into four more fragments. A slightly-long
-    // COMPLETE sentence beats a 158-char stump: Google truncates display on
-    // its own, and the validator's TRUNCATED-DESCRIPTION gate stays quiet.
-    const sentEnd = s.slice(n).search(/[.!?](\s|$)/);
-    if (sentEnd >= 0 && n + sentEnd < 300) return s.slice(0, n + sentEnd + 1).trim();
-    // First sentence longer than ~300 chars (rare): keep the word-trimmed
-    // fragment but close it as a sentence so nothing dangles.
-    const frag = cut.replace(/\s+\S*$/, '')
-      .replace(/\s*\([^)]*$/, '')
-      .replace(/(?:\s+(?:and|or|but|so|to|the|an?|with|for|at|on|in|from|by|of))+$/i, '')
-      .replace(/[\s,;:.\-–—]+$/, '').trim();
-    return frag + '.';
-  };
-  const description = qa
-    ? clip(qa)
-    : place
-    ? `A practical visitor's guide to ${place.name} in ${target.region}, ${country}. Verified info on location, ratings, and how to get there.`
-    : `A practical visitor's guide to ${target.topic} in ${target.region}, ${country} — what to expect, how to get around, and tips for your visit.`;
+  // Sentence-boundary clip + honest review-intent signal both live in
+  // lib/serp.mjs (shared with backfill-descriptions.mjs so the rules never
+  // drift between new posts and the back catalogue).
+  const description = withRatingSignal(
+    qa
+      ? clip(qa)
+      : place
+      ? `A practical visitor's guide to ${place.name} in ${target.region}, ${country}. Verified info on location, ratings, and how to get there.`
+      : `A practical visitor's guide to ${target.topic} in ${target.region}, ${country} — what to expect, how to get around, and tips for your visit.`,
+    place
+  );
 
   const fm = {
     title,

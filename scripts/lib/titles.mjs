@@ -3,6 +3,8 @@
 // leave the two out of sync (as happened once with the meta-description clip()).
 // Event titles are NOT built here — they come from discover-events.mjs.
 
+import { strongRating } from './serp.mjs';
+
 function cap(s) {
   return String(s).replace(/\b\w/g, (c) => c.toUpperCase());
 }
@@ -33,7 +35,12 @@ export function cleanVenueName(name) {
 // within its 60-char budget). Drops the old "A Visitor's Guide" marketing filler
 // and removes a trailing city echo so a name that already ends in the city
 // ("Flavors Grill Abu Dhabi") doesn't repeat it in the suffix.
-export function makeTitle(name, target) {
+// `place` is optional: when it carries a strong real Google rating
+// (strongRating in lib/serp.mjs — NEVER an invented number), a compact
+// star badge "(4.9★)" is appended for review-intent SERP CTR, but only if
+// the whole title still fits Google's ~60-char display. A long venue name is
+// never truncated to make room — those titles simply skip the badge.
+export function makeTitle(name, target, place) {
   const region = target.region;
   let base = cleanVenueName(name);
   const reg = region.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
@@ -51,7 +58,13 @@ export function makeTitle(name, target) {
     target.category === 'restaurant'
       ? (baseHasRegion ? 'Where to Eat' : `Where to Eat in ${region}`)
       : (baseHasRegion ? 'Travel Guide' : `${region} Travel Guide`);
-  return `${base}: ${suffix}`;
+  const title = `${base}: ${suffix}`;
+  const sr = strongRating(place);
+  if (sr) {
+    const badged = `${title} (${sr.rating.toFixed(1)}★)`;
+    if (badged.length <= 60) return badged;
+  }
+  return title;
 }
 
 export function makePlacelessTitle(target) {
