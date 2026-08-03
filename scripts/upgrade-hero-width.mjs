@@ -13,77 +13,60 @@
 //  identity audit) → keep only candidates whose PROBED width is ≥1200 →
 //  MANDATORY vision gate per candidate → first pass replaces the hero.
 //
-//  Env: SLUGS (comma-separated, required), ANTHROPIC_API_KEY (vision),
+//  Env: SLUGS (comma-separated) OR QUEUE=1 (read data/hero-width-queue.json,
+//  written by scan-hero-widths.mjs — takes the due entries, oldest-flagged
+//  first, up to QUEUE_LIMIT, default 15), ANTHROPIC_API_KEY (vision),
 //  FOURSQUARE_API_KEY / FLICKR_API_KEY (optional venue sources), DRY=1.
+//  QUEUE mode also writes the outcome back: upgraded/already-wide entries
+//  leave the queue, no-wider entries retry in 7 days (venue photo pools do
+//  change), a vision outage leaves the entry due tomorrow.
 //  Usage: SLUGS=a,b,c node scripts/upgrade-hero-width.mjs
+//         QUEUE=1 node scripts/upgrade-hero-width.mjs
 // ─────────────────────────────────────────────────────────────
 import './lib/env.mjs';
 import { readFile, writeFile } from 'node:fs/promises';
-import { existsSync } from 'node:fs';
+import { existsSync, readFileSync } from 'node:fs';
 import matter from 'gray-matter';
 import yaml from 'js-yaml';
 import { loadUsedImageUrls, resolveHero, eventTopic } from './lib/images.mjs';
 import { keyToken, tokens } from './lib/commons.mjs';
 import { venuePhotoCandidates } from './lib/photo-sources.mjs';
 import { verifyHeroImage } from './lib/vision-check.mjs';
+import { probeWidth } from './lib/image-width.mjs';
 
 const POSTS = 'src/content/posts';
 const DRY = process.env.DRY === '1';
 const MIN_WIDTH = 1200;
-const SLUGS = (process.env.SLUGS || '').split(',').map((s) => s.trim()).filter(Boolean);
-if (!SLUGS.length) {
-  console.error('SLUGS env is required (comma-separated slugs). Refusing a blind full-repo sweep.');
-  process.exit(1);
-}
+const QUEUE_FILE = 'data/hero-width-queue.json';
+const QUEUE_MODE = process.env.QUEUE === '1';
+const QUEUE_LIMIT = Number(process.env.QUEUE_LIMIT) > 0 ? Number(process.env.QUEUE_LIMIT) : 15;
+const today = new Date().toISOString().slice(0, 10);
+const plusDays = (n) => new Date(Date.now() + n * 86400e3).toISOString().slice(0, 10);
 
-const UA = { 'User-Agent': 'WanderAtlasBot/1.0 (https://wanderatlasguides.com)' };
-
-// True pixel width of an image URL. Wikimedia originals go through the
-// imageinfo API (authoritative, no download); everything else range-fetches
-// the first 128KB and parses the JPEG SOF / PNG IHDR header. null = unknown,
-// and unknown is treated as "not proven wide enough" everywhere below.
-function parseImageWidth(buf) {
-  if (buf.length >= 24 && buf[0] === 0x89 && buf[1] === 0x50) return buf.readUInt32BE(16); // PNG IHDR
-  if (buf.length >= 4 && buf[0] === 0xff && buf[1] === 0xd8) { // JPEG: scan for SOFn
-    let i = 2;
-    while (i + 9 < buf.length) {
-      if (buf[i] !== 0xff) { i++; continue; }
-      const marker = buf[i + 1];
-      if (marker === 0xff) { i++; continue; }
-      if (marker === 0x01 || (marker >= 0xd0 && marker <= 0xd9)) { i += 2; continue; }
-      const len = buf.readUInt16BE(i + 2);
-      if (len < 2) return null;
-      if (marker >= 0xc0 && marker <= 0xcf && marker !== 0xc4 && marker !== 0xc8 && marker !== 0xcc) {
-        return buf.readUInt16BE(i + 7); // SOF: len(2) precision(1) height(2) width(2)
-      }
-      i += 2 + len;
-    }
-  }
-  return null;
-}
-
-export async function probeWidth(url) {
+let queueStore = null; // parsed hero-width-queue.json when QUEUE mode is on
+let SLUGS = (process.env.SLUGS || '').split(',').map((s) => s.trim()).filter(Boolean);
+if (!SLUGS.length && QUEUE_MODE) {
   try {
-    if (/upload\.wikimedia\.org/.test(url)) {
-      const thumb = url.match(/\/thumb\/.*?\/(\d+)px-[^/]+$/);
-      if (thumb) return Number(thumb[1]);
-      const file = decodeURIComponent(String(url).split('/').pop() || '');
-      const q = new URLSearchParams({
-        action: 'query', titles: `File:${file}`, prop: 'imageinfo', iiprop: 'size', format: 'json',
-      });
-      const res = await fetch(`https://commons.wikimedia.org/w/api.php?${q}`, { headers: UA });
-      if (!res.ok) return null;
-      const j = await res.json();
-      const ii = Object.values(j?.query?.pages || {})[0]?.imageinfo?.[0];
-      return ii?.width ?? null;
-    }
-    const res = await fetch(url, { headers: { ...UA, Range: 'bytes=0-131071' } });
-    if (!res.ok) return null;
-    const ab = await res.arrayBuffer();
-    return parseImageWidth(Buffer.from(ab.slice(0, 131072)));
+    queueStore = JSON.parse(readFileSync(QUEUE_FILE, 'utf8'));
   } catch {
-    return null;
+    queueStore = null;
   }
+  const q = queueStore?.queue && typeof queueStore.queue === 'object' ? queueStore.queue : {};
+  SLUGS = Object.entries(q)
+    .filter(([, e]) => !e?.nextTry || e.nextTry <= today)
+    .sort((a, b) => (a[1]?.flaggedAt ?? '').localeCompare(b[1]?.flaggedAt ?? '') || a[0].localeCompare(b[0]))
+    .slice(0, QUEUE_LIMIT)
+    .map(([slug]) => slug);
+  if (!SLUGS.length) {
+    console.log(`Queue empty or nothing due (${Object.keys(q).length} entr(ies) waiting). Nothing to do.`);
+    console.log('WIDTH_SUMMARY upgraded=0 nowider=0 alreadywide=0 outage=0 skipped=0');
+    process.exit(0);
+  }
+  console.log(`Queue mode: ${SLUGS.length} due of ${Object.keys(q).length} queued (limit ${QUEUE_LIMIT}).`);
+}
+if (!SLUGS.length) {
+  console.error('SLUGS env is required (comma-separated slugs), or QUEUE=1 with a non-empty data/hero-width-queue.json. Refusing a blind full-repo sweep.');
+  process.exit(1);
 }
 
 const HAVE_VENUE_SOURCES = Boolean(process.env.FOURSQUARE_API_KEY || process.env.FLICKR_API_KEY);
@@ -215,6 +198,36 @@ for (const slug of SLUGS) {
       console.log(`  ⏸️  ${slug}: ${wide.length} wide candidate(s) all failed vision — keeping current ${curW ?? '?'}px hero`);
     }
   }
+}
+
+// ── QUEUE write-back: the nightly patrol must not re-bill the same venues
+// daily. Upgraded / already-wide posts leave the queue; "no wider photo"
+// retries in a week (Foursquare/Flickr/Commons pools do grow); a vision
+// outage keeps the entry due so tomorrow's run retries; a missing file means
+// the post was retired/renamed — drop it. Drafted posts wait a week too
+// (the mismatch patrol owns quarantined posts, not this tool).
+if (QUEUE_MODE && !DRY && queueStore?.queue) {
+  const q = queueStore.queue;
+  for (const r of replaced) delete q[r.slug];
+  for (const s of alreadyWide) delete q[s];
+  for (const s of keptNoWider) {
+    if (!q[s]) continue;
+    q[s].attempts = (q[s].attempts ?? 0) + 1;
+    q[s].nextTry = plusDays(7);
+    q[s].lastResult = 'no-wider';
+  }
+  for (const s of keptVisionOutage) {
+    if (!q[s]) continue;
+    q[s].lastResult = 'vision-outage'; // nextTry untouched — due again tomorrow
+  }
+  for (const entry of skipped) {
+    const m = entry.match(/^(.+) \((missing|draft|no hero)\)$/);
+    if (!m || !q[m[1]]) continue;
+    if (m[2] === 'missing') delete q[m[1]];
+    else { q[m[1]].nextTry = plusDays(7); q[m[1]].lastResult = m[2]; }
+  }
+  queueStore.updated = new Date().toISOString();
+  await writeFile(QUEUE_FILE, JSON.stringify(queueStore, null, 1) + '\n', 'utf8');
 }
 
 console.log(`\n📦 ${SLUGS.length} slug(s): ${replaced.length} upgraded · ${keptNoWider.length} no wider photo · ${alreadyWide.length} already ≥${MIN_WIDTH}px · ${keptVisionOutage.length} vision outage · ${skipped.length} skipped`);

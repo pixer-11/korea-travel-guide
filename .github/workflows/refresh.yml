@@ -36,13 +36,36 @@ jobs:
           REFRESH_LIMIT: '40'
         run: npm run refresh
 
+      # 362 fastly.4sqi.net hotlinks would rot silently (the old irs0/irs3
+      # subdomains did exactly that) — weekly HEAD-check, no API keys needed.
+      # Dead hero → visual-audit.json MISMATCH, so the nightly alt-photos
+      # patrol replaces it through the vision gate; dead gallery entry →
+      # removed in place. Transient errors (5xx/429/timeouts) flag nothing,
+      # and a >30% failure wave is treated as a CDN-wide event: nothing
+      # flagged, human decision requested. continue-on-error so a network
+      # blip can never block the venue-data commit below.
+      - name: Foursquare photo link check
+        id: fsq
+        continue-on-error: true
+        run: |
+          set -o pipefail
+          node scripts/check-4sqi-health.mjs | tee /tmp/fsq.log
+          s=$(grep '^FSQ_HEALTH_SUMMARY' /tmp/fsq.log | tail -1)
+          echo "checked=$(echo "$s" | sed 's/.* checked=\([0-9]*\).*/\1/')" >> "$GITHUB_OUTPUT"
+          echo "dead=$(echo "$s" | sed 's/.* dead=\([0-9]*\).*/\1/')" >> "$GITHUB_OUTPUT"
+          echo "heroflagged=$(echo "$s" | sed 's/.* heroflagged=\([0-9]*\).*/\1/')" >> "$GITHUB_OUTPUT"
+          echo "galleryremoved=$(echo "$s" | sed 's/.* galleryremoved=\([0-9]*\).*/\1/')" >> "$GITHUB_OUTPUT"
+          echo "outage=$(echo "$s" | sed 's/.* outage=\([0-9]*\).*/\1/')" >> "$GITHUB_OUTPUT"
+
       - name: Commit updates
         run: |
           git config user.name "content-bot"
           git config user.email "bot@users.noreply.github.com"
           # The cursor must be committed even when no post changed — otherwise
           # a no-change week forgets its progress and re-checks the same posts.
-          git add src/content/posts data/refresh-cursor.json
+          # visual-audit.json carries the dead-hotlink flags for the nightly
+          # patrol; losing it would silently drop the replacement queue.
+          git add src/content/posts data/refresh-cursor.json data/visual-audit.json
           if git diff --staged --quiet; then
             echo "Nothing to refresh."
           else
@@ -50,3 +73,34 @@ jobs:
             git pull --rebase origin main
             git push
           fi
+
+      - name: Notify Telegram (photo link check)
+        if: always()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          FSQ_OUTCOME: ${{ steps.fsq.outcome }}
+          CHECKED: ${{ steps.fsq.outputs.checked }}
+          DEAD: ${{ steps.fsq.outputs.dead }}
+          HEROFLAGGED: ${{ steps.fsq.outputs.heroflagged }}
+          GALLERYREMOVED: ${{ steps.fsq.outputs.galleryremoved }}
+          OUTAGE: ${{ steps.fsq.outputs.outage }}
+        run: |
+          [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
+          {
+            echo "🔗 Wander Atlas — 주간 포스퀘어 사진 링크 점검"
+            if [ "$FSQ_OUTCOME" != "success" ]; then
+              echo "❌ 점검 실행 실패 — GitHub Actions 로그를 확인해 주세요."
+            elif [ "${OUTAGE:-0}" = "1" ]; then
+              echo "🚨 확인 ${CHECKED:-0}개 중 ${DEAD:-0}개 접속 불가 — 광역 장애/정책 변경 의심이라 자동 조치는 보류했습니다. 다음 주에도 반복되면 사진 자체 호스팅 전환을 검토해 주세요."
+            elif [ "${DEAD:-0}" = "0" ]; then
+              echo "✅ ${CHECKED:-0}개 전부 정상"
+            else
+              echo "⚠️ 확인 ${CHECKED:-0}개 중 깨진 링크 ${DEAD}개"
+              if [ "${HEROFLAGGED:-0}" != "0" ]; then echo "🛠️ 대표사진 ${HEROFLAGGED}편 → 새벽 사진 교체 파이프라인에 등록(AI 시각 검증 후 교체)"; fi
+              if [ "${GALLERYREMOVED:-0}" != "0" ]; then echo "🧹 본문 사진 ${GALLERYREMOVED}장 제거(추후 자동 보충)"; fi
+            fi
+          } > /tmp/msg.txt
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+            --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
+            --data-urlencode "text@/tmp/msg.txt" >/dev/null || true

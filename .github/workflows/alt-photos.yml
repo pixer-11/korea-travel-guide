@@ -82,6 +82,41 @@ jobs:
           { echo "retiredlist<<EOF_RL"; cat /tmp/rl.txt; echo "EOF_RL"; } >> "$GITHUB_OUTPUT"
           true
 
+      # Discover large-card floor is 1200px. The scan caches probes per
+      # slug+url, so a nightly run only network-probes new/changed heroes;
+      # the upgrade step then tries vision-verified ≥1200px photos of the
+      # SAME venue for the due queue entries. No wider photo → the post
+      # keeps its hero (small hero beats no hero — never drafted, never
+      # retired) and retries in a week. continue-on-error: a hiccup here
+      # must not lose the backfill's fixes waiting in the commit step below.
+      - name: Scan hero widths (Discover queue)
+        id: scan
+        if: steps.gate.outputs.on == 'true'
+        continue-on-error: true
+        run: |
+          set -o pipefail
+          node scripts/scan-hero-widths.mjs | tee /tmp/scan.log
+          s=$(grep '^WIDTH_SCAN_SUMMARY' /tmp/scan.log | tail -1)
+          echo "queuetotal=$(echo "$s" | sed 's/.* queue_total=\([0-9]*\).*/\1/')" >> "$GITHUB_OUTPUT"
+          echo "queuednew=$(echo "$s" | sed 's/.* queued_new=\([0-9]*\).*/\1/')" >> "$GITHUB_OUTPUT"
+
+      - name: Upgrade narrow heroes (queue, vision-gated)
+        id: width
+        if: steps.gate.outputs.on == 'true'
+        continue-on-error: true
+        env:
+          FOURSQUARE_API_KEY: ${{ secrets.FOURSQUARE_API_KEY }}
+          FLICKR_API_KEY: ${{ secrets.FLICKR_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          QUEUE: '1'
+          QUEUE_LIMIT: '15'
+        run: |
+          set -o pipefail
+          node scripts/upgrade-hero-width.mjs | tee /tmp/width.log
+          s=$(grep '^WIDTH_SUMMARY' /tmp/width.log | tail -1)
+          echo "upgraded=$(echo "$s" | sed 's/.* upgraded=\([0-9]*\).*/\1/')" >> "$GITHUB_OUTPUT"
+          echo "nowider=$(echo "$s" | sed 's/.* nowider=\([0-9]*\).*/\1/')" >> "$GITHUB_OUTPUT"
+
       # New heroes need their self-hosted 640px thumbs or downstream pages
       # (crowd tool cards, region tiles) render BLANK — user caught this live.
       - name: Rebuild photo-wall thumbnails
@@ -98,7 +133,7 @@ jobs:
           # were staged, so every night's counts died with the runner (the clock
           # never advanced in CI) and a firing retirement would have shipped the
           # post deletion WITHOUT its redirect: a 404 where a 301 was promised.
-          git add src/content/posts src/content/i18n public/wall data/wall.json data/visual-audit.json data/photo-retry.json data/retired-posts.json
+          git add src/content/posts src/content/i18n public/wall data/wall.json data/visual-audit.json data/photo-retry.json data/retired-posts.json data/hero-width-queue.json
           if git diff --staged --quiet; then
             echo "No photo changes."
           else
@@ -120,6 +155,9 @@ jobs:
           UNFIXED_LIST: ${{ steps.run.outputs.unfixedlist }}
           RETIRED: ${{ steps.run.outputs.retired }}
           RETIRED_LIST: ${{ steps.run.outputs.retiredlist }}
+          W_UPGRADED: ${{ steps.width.outputs.upgraded }}
+          W_NOWIDER: ${{ steps.width.outputs.nowider }}
+          W_QUEUE: ${{ steps.scan.outputs.queuetotal }}
         run: |
           [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
           {
@@ -137,6 +175,13 @@ jobs:
               if [ "${RETIRED:-0}" != "0" ] && [ -n "${RETIRED:-}" ]; then
                 echo "🗑️ 은퇴 처리: ${RETIRED}편 — 7일간 사진을 못 구해 삭제했고, 옛 주소는 지역 페이지로 자동 연결됩니다. 빈자리는 국가 채우기 발행이 사진 있는 새 장소로 메웁니다."
                 if [ -n "$RETIRED_LIST" ]; then echo "$RETIRED_LIST"; fi
+              fi
+              # 디스커버 대형카드(1200px) 미달 히어로 업그레이드 큐 — 교체 실패는
+              # 정상 상태(더 큰 사진이 없으면 기존 사진 유지)라 결과가 있을 때만 알림.
+              if [ -n "${W_QUEUE:-}" ] && [ "${W_QUEUE:-0}" != "0" ]; then
+                echo "📐 디스커버 대형사진 큐: ${W_QUEUE}편 대기 · 오늘 ${W_UPGRADED:-0}편을 1200px 이상으로 교체(AI 시각 검증 통과), ${W_NOWIDER:-0}편은 더 큰 사진이 없어 유지(1주 뒤 재시도)"
+              elif [ -n "${W_UPGRADED:-}" ] && [ "${W_UPGRADED:-0}" != "0" ]; then
+                echo "📐 디스커버 대형사진: ${W_UPGRADED}편 교체 완료 — 큐 비움"
               fi
             fi
           } > /tmp/msg.txt
