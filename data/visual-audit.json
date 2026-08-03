@@ -3006,13 +3006,6 @@
   "reasonKo": "태국 음식점의 정통 요리와 테이블 세팅",
   "at": "2026-08-03T12:45:14.727Z"
  },
- "bangkok-the-grand-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/A_roof_of_a_building_at_the_Grand_Palace%2C_Bangkok%2C_sunrise%2C_2017.jpg/1920px-A_roof_of_a_building_at_the_Grand_Palace%2C_Bangkok%2C_sunrise%2C_2017.jpg": {
-  "slug": "bangkok-the-grand-palace",
-  "verdict": "MATCH",
-  "reason": "Thai temple architecture at sunset, Bangkok setting",
-  "reasonKo": "방콕의 태국 사원 건축, 석양",
-  "at": "2026-08-03T12:45:16.278Z"
- },
  "bangkok-the-reclining-buddha\u0001https://fastly.4sqi.net/img/general/original/1546_gkWuBshqLphhyzRIacslrlSBDJPalP6hu-QShGiSLjw.jpg": {
   "slug": "bangkok-the-reclining-buddha",
   "verdict": "MATCH",
@@ -3251,13 +3244,6 @@
   "reasonKo": "치앙마이 시장의 카오소이 노점상",
   "at": "2026-08-03T12:46:33.026Z"
  },
- "chiang-mai-garden-to-table-chiangmai\u0001https://fastly.4sqi.net/img/general/original/87988854_yDRKMYYhzAmP9QNODMZMZVbnDEWac8crUkxziTjIRwo.jpg": {
-  "slug": "chiang-mai-garden-to-table-chiangmai",
-  "verdict": "WEAK",
-  "reason": "Generic restaurant interior, no distinctive food or venue ma",
-  "reasonKo": "일반적인 식당 인테리어, 특징 없음",
-  "at": "2026-08-03T12:46:34.893Z"
- },
  "chiang-mai-hidden-village-chiang-mai\u0001https://fastly.4sqi.net/img/general/original/7141761_0Qx5a7vb4iTrxkHu4qdm-Aa2r4V2ct427lO9frLwGPM.jpg": {
   "slug": "chiang-mai-hidden-village-chiang-mai",
   "verdict": "MATCH",
@@ -3341,13 +3327,6 @@
   "reason": "Chinatown Heritage Centre building exterior, Singapore",
   "reasonKo": "싱가포르 차이나타운 헤리티지 센터 건물",
   "at": "2026-08-03T12:46:59.975Z"
- },
- "chinatown-my-awesome-cafe\u0001https://fastly.4sqi.net/img/general/original/12411077_GsXkjQUNqD3dvpGxv7UK-xjn01vmSKJlfvlHISbwBbY.jpg": {
-  "slug": "chinatown-my-awesome-cafe",
-  "verdict": "WEAK",
-  "reason": "Generic beverage photo, no distinctive venue markers",
-  "reasonKo": "일반적인 음료, 장소 특성 없음",
-  "at": "2026-08-03T12:47:01.432Z"
  },
  "chuncheon-1-5-dakgalbi\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dakgalbi.jpg/1920px-Dakgalbi.jpg": {
   "slug": "chuncheon-1-5-dakgalbi",
@@ -3572,13 +3551,6 @@
   "reason": "Guangzhou Restaurant storefront in urban setting",
   "reasonKo": "광저우 식당의 거리 모습",
   "at": "2026-08-03T12:48:12.344Z"
- },
- "guangzhou-huacheng-square\u0001https://fastly.4sqi.net/img/general/original/8615217_xUa20zEDx2ezxr1fpHXpdTjyYuGBOkCYaHdompneGZ8.jpg": {
-  "slug": "guangzhou-huacheng-square",
-  "verdict": "MATCH",
-  "reason": "Modern skyscraper in Guangzhou cityscape at night",
-  "reasonKo": "광저우 야경의 현대식 고층빌딩",
-  "at": "2026-08-03T12:48:13.856Z"
  },
  "guilin-reed-flute-cave\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Stone_curtains_on_display_at_Reed_Flute_Cave.JPG/1920px-Stone_curtains_on_display_at_Reed_Flute_Cave.JPG": {
   "slug": "guilin-reed-flute-cave",
@@ -3817,13 +3789,6 @@
   "reason": "Coffee shop pastries, beverage, trendy interior design",
   "reasonKo": "커피숍 베이커리, 음료, 트렌디한 인테리어",
   "at": "2026-08-03T12:49:34.593Z"
- },
- "jakarta-social-house-grand-indonesia\u0001https://fastly.4sqi.net/img/general/original/48406723_Hje7WFQ-kSjgm2-FdRaDzVLXawED8VT6YrfH76WsuXI.jpg": {
-  "slug": "jakarta-social-house-grand-indonesia",
-  "verdict": "MATCH",
-  "reason": "Social House branding visible, food matches menu items",
-  "reasonKo": "소셜하우스 브랜딩 확인, 음식이 메뉴와 일치",
-  "at": "2026-08-03T12:49:37.913Z"
  },
  "jeju-yongyeon-suspension-bridge\u0001https://fastly.4sqi.net/img/general/original/38563289_v2eGBmdWJqX8tGiAxVIGnh27OceWyeiQGWadO-KF5vE.jpg": {
   "slug": "jeju-yongyeon-suspension-bridge",
@@ -4384,13 +4349,6 @@
   "reason": "Iconic Cafe Du Monde exterior, green awning, New Orleans",
   "reasonKo": "카페 뒤 몽드 외관, 녹색 차양",
   "at": "2026-08-03T14:32:59.133Z"
- },
- "new-orleans-french-quarter\u0001https://fastly.4sqi.net/img/general/original/66774434_LE0jVXaG65Z22TIZ8C0-ZQP5lC54nXjqGWXx55KNwtM.jpg": {
-  "slug": "new-orleans-french-quarter",
-  "verdict": "MATCH",
-  "reason": "Festive French Quarter passageway with colonial architecture",
-  "reasonKo": "식민지 건축의 축제적 프렌치쿼터",
-  "at": "2026-08-03T14:33:02.775Z"
  },
  "new-orleans-jackson-square\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Jackson_Square.jpg/1920px-Jackson_Square.jpg": {
   "slug": "new-orleans-jackson-square",
@@ -5169,13 +5127,6 @@
   "reasonKo": "순천만정원과 무관한 네덜란드 풍차",
   "at": "2026-08-03T14:39:15.762Z"
  },
- "surabaya-black-owl-surabaya\u0001https://fastly.4sqi.net/img/general/original/42531918_JX0CtbbJtCamTZ6Ph9F8-6DqCJ6kSL_3QkQlR7zEuHc.jpg": {
-  "slug": "surabaya-black-owl-surabaya",
-  "verdict": "MATCH",
-  "reason": "Cocktail drinks at upscale restaurant bar setting",
-  "reasonKo": "고급 레스토랑 바의 칵테일 음료",
-  "at": "2026-08-03T14:39:19.368Z"
- },
  "surabaya-blue-doors-surabaya\u0001https://fastly.4sqi.net/img/general/original/1415786223_3R8vnisrEdzdr5RpIdHd3KO3tIpRRV5dq0vY1yt5avg.jpg": {
   "slug": "surabaya-blue-doors-surabaya",
   "verdict": "MATCH",
@@ -5224,13 +5175,6 @@
   "reason": "Colorful painted buildings, Rainbow Village signature style",
   "reasonKo": "무지개마을의 특징적인 알록달록한 건물",
   "at": "2026-08-03T14:39:47.587Z"
- },
- "tainan-anping-old-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Anping_Taiwan_Old-houses-of-Anping-01.jpg/1920px-Anping_Taiwan_Old-houses-of-Anping-01.jpg": {
-  "slug": "tainan-anping-old-street",
-  "verdict": "MATCH",
-  "reason": "Historic colonial building in Anping Old Street, Tainan",
-  "reasonKo": "台南安平老街의 역사적 건축물",
-  "at": "2026-08-03T14:39:52.755Z"
  },
  "tainan-shennong-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/%E7%A5%9E%E8%BE%B2%E8%A1%97_Shennong_Street_Tainan_City02.jpg/1920px-%E7%A5%9E%E8%BE%B2%E8%A1%97_Shennong_Street_Tainan_City02.jpg": {
   "slug": "tainan-shennong-street",

@@ -6,10 +6,10 @@ region: Krabi
 category: attraction
 pubDate: '2026-07-22T09:07:54.165Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wat_Tham_Suea_SF0001.jpg/1920px-Wat_Tham_Suea_SF0001.jpg
-  credit: 'Photo: Stefan Fussan / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Wat_Tham_Suea_SF0001.jpg
+  url: https://fastly.4sqi.net/img/general/original/123390638_1jodzayc56vOpQHs17Cq7X2txug4tXPmlOxty8oAK14.jpg
+  credit: 'Photo: Foursquare user content (Wat Thum Sua (วัดถ้ำเสือ))'
+  license: foursquare
+  source: https://foursquare.com/v/4d55046796ed5481fadb0370
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/32301231_HP6EdFRMZDiQ8JHckJkpXrNCgu-sKYuFJOF1kig6kQ0.jpg
     credit: 'Photo: Foursquare user content (Wat Thum Sua (วัดถ้ำเสือ))'
@@ -41,7 +41,6 @@ faq:
   - q: When is the best time to visit?
     a: Early morning, close to opening (around 5-6am), during the dry season from November to March, to avoid heat, crowds, and slick steps.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

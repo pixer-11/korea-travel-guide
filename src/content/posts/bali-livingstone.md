@@ -6,7 +6,7 @@ region: Bali
 category: trendy
 pubDate: '2026-07-23T07:21:51.450Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/510452485_3XAkrfpe0PH7timrOce-waKaVj3nmFynO2DaN21BPEs.jpg
+  url: https://fastly.4sqi.net/img/general/original/8906098_pU_BGdqi1PvX0ow6fSZhmupYplO8uGCMIhu7j4P36UI.jpg
   credit: 'Photo: Foursquare user content (Livingstone)'
   license: foursquare
   source: https://foursquare.com/v/52d380d6498e5e87472f2b7f
@@ -28,12 +28,17 @@ place:
   lng: 115.16142219999998
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [7, 8]
+    weekdayQuiet:
+      - 7
+      - 8
     weekdayBusy:
       - 12
       - 13
       - 14
-    weekendQuiet: [7, 8, 21]
+    weekendQuiet:
+      - 7
+      - 8
+      - 21
     weekendBusy:
       - 10
       - 11
@@ -42,7 +47,7 @@ place:
       - 14
       - 15
     venueId: ven_672d46755f6b6b48676a74523069304874474243702d764a496843
-  phone: '+62 817-5780-003'
+  phone: +62 817-5780-003
   openingHours:
     - 'Monday: 7:00 AM – 10:00 PM'
     - 'Tuesday: 7:00 AM – 10:00 PM'

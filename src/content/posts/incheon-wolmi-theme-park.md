@@ -6,7 +6,7 @@ country: South Korea
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/29025250_BVQpuX_UNUsE8Jw1OMEUIFBgi_r_Fbae4v7rxOLZmv8.jpg
+  url: https://fastly.4sqi.net/img/general/original/29025250_E1gmsva8dhudPTTcj_v6icgQ5w1UqWQafIytgP7oMe0.jpg
   credit: 'Photo: Foursquare user content (Wolmi Theme Park (월미테마파크))'
   license: foursquare
   source: https://foursquare.com/v/4c4af0489c8d2d7f376f3f6a
@@ -22,7 +22,14 @@ place:
   lng: 126.59628579999999
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [10, 11, 12, 16, 17, 18, 19]
+    weekdayQuiet:
+      - 10
+      - 11
+      - 12
+      - 16
+      - 17
+      - 18
+      - 19
     weekendQuiet:
       - 22
     weekendBusy:

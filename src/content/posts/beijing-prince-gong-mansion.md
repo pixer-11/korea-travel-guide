@@ -6,11 +6,10 @@ region: Beijing
 category: attraction
 pubDate: '2026-07-27T10:53:36.819Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Gongwangfu1.jpg/1920px-Gongwangfu1.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Gongwangfu1.jpg/1920px-Gongwangfu1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: onion83 / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Gongwangfu1.jpg
-gallery: []
 place:
   id: ChIJK79axgNT8DUR9abD10lFx24
   name: Prince Gong Mansion
@@ -22,7 +21,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 39.935773999999995
   lng: 116.386407
-  phone: '+86 10 8328 8149'
+  phone: +86 10 8328 8149
 tags:
   - beijing
   - top attraction
@@ -39,7 +38,6 @@ faq:
   - q: What's nearby after visiting?
     a: Shichahai Lake and the Houhai bar/restaurant district are a short walk east, making it easy to pair the mansion with a lakeside stroll or meal.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

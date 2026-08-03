@@ -6,7 +6,7 @@ region: Barcelona
 category: trendy
 pubDate: '2026-07-29'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/55309605_EPZV2RdS-1MhKYXITtlESRDOzewMiWteG0AC_1xwhtA.jpg
+  url: https://fastly.4sqi.net/img/general/original/17825828_rFFeMfwLAeC4W_xtYmNUEoMjjV2NdfxEe51CGUHUtQs.jpg
   credit: 'Photo: Foursquare user content (El Nacional Barra de Vins)'
   license: foursquare
   source: https://foursquare.com/v/5b2171e5a795bd0039e1a214
@@ -26,7 +26,6 @@ faq:
   - q: What are the opening hours?
     a: Not fixed here — as a newly opened, in-demand restaurant, hours can shift. Check the current schedule and reservation policy directly before planning your visit.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

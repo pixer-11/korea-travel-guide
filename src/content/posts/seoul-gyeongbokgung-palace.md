@@ -6,15 +6,10 @@ country: South Korea
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Gyeonghoeru_%28Royal_Banquet_Hall%29_at_Gyeongbokgung_Palace%2C_Seoul.jpg/1920px-Gyeonghoeru_%28Royal_Banquet_Hall%29_at_Gyeongbokgung_Palace%2C_Seoul.jpg
-  credit: 'Photo: Frank Schulenburg / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Gyeonghoeru_(Royal_Banquet_Hall)_at_Gyeongbokgung_Palace,_Seoul.jpg
-gallery:
-  - url: https://fastly.4sqi.net/img/general/original/67350312_h2FqJ-DhM8cRlX91Qeg0L59R3anjSbmbKUbJmQN4tr4.jpg
-    credit: 'Photo: Foursquare user content (Gyeongbokgung Palace (경복궁))'
-    license: foursquare
-    source: https://foursquare.com/v/4b68220ef964a52087682be3
+  url: https://fastly.4sqi.net/img/general/original/67350312_h2FqJ-DhM8cRlX91Qeg0L59R3anjSbmbKUbJmQN4tr4.jpg
+  credit: 'Photo: Foursquare user content (Gyeongbokgung Palace (경복궁))'
+  license: foursquare
+  source: https://foursquare.com/v/4b68220ef964a52087682be3
 place:
   id: ChIJod7tSseifDUR9hXHLFNGMIs
   name: Gyeongbokgung Palace
@@ -50,7 +45,6 @@ faq:
   - q: What's the best time of year to visit?
     a: Late October to early November is considered peak season for foliage around Gyeonghoeru and Hyangwonjeong, while April brings cherry blossoms along the palace walls. Early mornings year-round are quieter than midday.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

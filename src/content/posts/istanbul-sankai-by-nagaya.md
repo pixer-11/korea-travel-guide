@@ -6,7 +6,7 @@ region: Istanbul
 category: trendy
 pubDate: '2026-07-29'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/1401319416_J-HZqLm4CfGwlYHCFgxB1Wrxqn0Rum4QixP47ogoQwQ.jpg
+  url: https://fastly.4sqi.net/img/general/original/1401319416_awCbXQf3AdUQiVImFmGOnQN_qV7X1gCPwB8ISk5APS0.jpg
   credit: 'Photo: Foursquare user content (Sankai by Nagaya)'
   license: foursquare
   source: https://foursquare.com/v/63d38d2afa15ed3e9bbf1519
@@ -28,7 +28,6 @@ faq:
   - q: What else is worth doing nearby?
     a: The Bebek waterfront park and tea gardens are worth a stroll before or after your meal, and Rumeli Hisarı fortress is a short trip further north along the Bosphorus.
 aiGenerated: true
-draft: true
 ---
 
 ## Why Sankai stands out

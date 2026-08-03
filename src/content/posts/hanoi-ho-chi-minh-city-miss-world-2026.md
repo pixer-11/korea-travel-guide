@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Miss World 2026: What to Know (Hanoi)'
 description: Miss World 2026 — the pageant's 75th anniversary edition — runs August 9 to September 5, 2026, with roughly 130 national delegates touring Vietnam before the grand finale broadcasts live from Ho Chi Minh City on September 5.
 country: Vietnam
@@ -9,11 +8,10 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-09-05'
 eventEndDate: '2026-09-05'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/a/a3/Miss_World_Ireland_2022_Ivanna_McMahon.jpg"
-  credit: "Photo: Missirelandd / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Miss_World_Ireland_2022_Ivanna_McMahon.jpg"
-gallery: []
+  url: https://upload.wikimedia.org/wikipedia/commons/a/a3/Miss_World_Ireland_2022_Ivanna_McMahon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  credit: 'Photo: Missirelandd / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Miss_World_Ireland_2022_Ivanna_McMahon.jpg
 tags:
   - hanoi
   - event

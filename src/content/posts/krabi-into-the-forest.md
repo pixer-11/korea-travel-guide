@@ -6,15 +6,10 @@ region: Krabi
 category: trendy
 pubDate: '2026-07-22T09:17:53.767Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/192655554_7znbIxg0f1-yYQatjd3_yBgfdwPUa_2zlPrAGNvaO6s.jpg
+  url: https://fastly.4sqi.net/img/general/original/473551293_UD9FW15KBf9W3kLmWsOP1YD9IRiN7X1eYf9dqNYn_Qw.jpg
   credit: 'Photo: Foursquare user content (Into The Forest)'
   license: foursquare
   source: https://foursquare.com/v/6075519ce1da285aeb7cf417
-gallery:
-  - url: https://fastly.4sqi.net/img/general/original/473551293_UD9FW15KBf9W3kLmWsOP1YD9IRiN7X1eYf9dqNYn_Qw.jpg
-    credit: 'Photo: Foursquare user content (Into The Forest)'
-    license: foursquare
-    source: https://foursquare.com/v/6075519ce1da285aeb7cf417
 place:
   id: ChIJf1t8FN-9UTARbL_N-UlnN3I
   name: Into the forest
@@ -42,7 +37,6 @@ faq:
   - q: What's nearby I can combine with this visit?
     a: Wat Tham Sua (Tiger Cave Temple), the Krabi Town riverside promenade, and the weekend night market are all within a short drive, making it easy to build a half-day loop.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

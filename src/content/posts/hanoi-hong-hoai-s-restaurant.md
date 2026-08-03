@@ -6,11 +6,10 @@ region: Hanoi
 category: restaurant
 pubDate: '2026-07-22T09:30:22.769Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/603400076_7oZgL2dPkGs6p2xz7NeDq95z31mazWV_xnK9E1wuE_g.jpg
+  url: https://fastly.4sqi.net/img/general/original/3709928_1zojLhXlVJbBi35IW8MOu8KT_SGYlidemX69yUvRLgE.jpg
   credit: 'Photo: Foursquare user content (Hong Hoai Restaurant)'
   license: foursquare
   source: https://foursquare.com/v/59816115e185f3625c485866
-gallery: []
 place:
   id: ChIJXROtYr6rNTERRKeVXUeNGUY
   name: Hong Hoai's Restaurant
@@ -41,7 +40,7 @@ place:
       - 22
     venueId: ven_5955474e65555856654b525245544e72367259744f52584a496843
   priceLevel: 2
-  phone: '+84 911 295 020'
+  phone: +84 911 295 020
   openingHours:
     - 'Monday: 10:00 AM – 11:00 PM'
     - 'Tuesday: 10:00 AM – 11:00 PM'

@@ -6,10 +6,10 @@ region: Okinawa
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/%E6%9D%B1%E5%8D%97%E6%A4%8D%E7%89%A9%E5%9C%92_Southeast_Botanical_Gardens_-_panoramio.jpg/1920px-%E6%9D%B1%E5%8D%97%E6%A4%8D%E7%89%A9%E5%9C%92_Southeast_Botanical_Gardens_-_panoramio.jpg
-  credit: 'Photo: lienyuan lee / Wikimedia Commons (CC BY 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:%E6%9D%B1%E5%8D%97%E6%A4%8D%E7%89%A9%E5%9C%92_Southeast_Botanical_Gardens_-_panoramio.jpg
+  url: https://fastly.4sqi.net/img/general/original/481140940_4qcGk19Ez1TGRtoYJ6rkrvqOvf4caFIhgSpcO4-B7Lk.jpg
+  credit: 'Photo: Foursquare user content (Southeast Botanical Gardens (東南植物楽園))'
+  license: foursquare
+  source: https://foursquare.com/v/4b7f63e3f964a520da2b30e3
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Southeast_Botanical_Garden_%E6%9D%B1%E5%8D%97%E6%A4%8D%E7%89%A9%E6%A8%82%E5%9C%92_-_panoramio.jpg/1920px-Southeast_Botanical_Garden_%E6%9D%B1%E5%8D%97%E6%A4%8D%E7%89%A9%E6%A8%82%E5%9C%92_-_panoramio.jpg
     credit: 'Photo: lienyuan lee / Wikimedia Commons (CC BY 3.0)'
@@ -63,7 +63,6 @@ faq:
   - q: Is there food available on-site?
     a: Yes, there's an on-site restaurant/cafe, which is convenient since the garden's inland location makes a nearby town lunch detour impractical.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

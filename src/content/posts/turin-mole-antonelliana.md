@@ -6,10 +6,10 @@ region: Turin
 category: hidden-gem
 pubDate: '2026-07-29T10:14:17.068Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mole_Antonelliana_di_sera.jpg/1920px-Mole_Antonelliana_di_sera.jpg
-  credit: 'Photo: Abbrey82 / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Mole_Antonelliana_di_sera.jpg
+  url: https://fastly.4sqi.net/img/general/original/14546441_JRIV-jtJAJFn4P7y_RGSfu-a1ZkoZAmO3fVsIKNW8bo.jpg
+  credit: 'Photo: Foursquare user content (Mole Antonelliana)'
+  license: foursquare
+  source: https://foursquare.com/v/4d56530096ed548155361370
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Mole_Antonelliana_da_sotto.JPG/1920px-Mole_Antonelliana_da_sotto.JPG
     credit: 'Photo: Pmk58 / Wikimedia Commons (CC BY-SA 4.0)'
@@ -67,7 +67,6 @@ faq:
   - q: What else is nearby?
     a: Piazza San Carlo, the Egyptian Museum, and the riverside Parco del Valentino are all within easy walking distance, making it simple to combine the Mole with a few hours of central Turin sightseeing.
 aiGenerated: true
-draft: true
 ---
 
 You see it before you see anything else in Turin. From the Po's riverbanks, from the arcaded stretch of Via Roma, even from a train pulling into Porta Nuova, the Mole Antonelliana pokes up over the rooftops like a needle stitched into the sky, its aluminum spire catching the light differently depending on the hour. Up close, the building is stranger and more theatrical than photos suggest — a squat, heavily colonnaded base topped by a dome that keeps rising, tier after tier, until it narrows into that impossibly thin spire. It doesn't look like it should hold together, and for a while, structurally, it barely did.

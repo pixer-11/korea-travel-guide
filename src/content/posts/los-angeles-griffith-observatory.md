@@ -6,10 +6,10 @@ region: Los Angeles
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/503969044_KCr7xciVs4fA5VMP2sMs65Ra83dA1n228uI_bogGmCM.jpg
-  credit: 'Photo: Foursquare user content (Griffith Observatory)'
-  license: foursquare
-  source: https://foursquare.com/v/4a6e5d0df964a52093d41fe3
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Griffith_observatory_2006.jpg/1920px-Griffith_observatory_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Matthew Field / Wikimedia Commons (CC BY 2.5)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Griffith_observatory_2006.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Los_Angeles_Pollution.jpg/1920px-Los_Angeles_Pollution.jpg
     credit: 'Photo: Diliff / Wikimedia Commons (CC BY-SA 3.0)'
@@ -75,7 +75,6 @@ faq:
   - q: Is parking difficult?
     a: Yes, the on-site lot fills fast on weekends and holidays. Arrive early, be ready to circle for street parking along the access roads, or use the DASH shuttle instead.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

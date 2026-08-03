@@ -6,10 +6,10 @@ region: Madrid
 category: attraction
 pubDate: '2026-08-02T09:40:34.624Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Palacio_Real_de_Madrid_Julio_2016_%28cropped%29.jpg/1920px-Palacio_Real_de_Madrid_Julio_2016_%28cropped%29.jpg
-  credit: 'Photo: Tim Adams / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Palacio_Real_de_Madrid_Julio_2016_(cropped).jpg
+  url: https://fastly.4sqi.net/img/general/original/375438299_mWPNNlVOJdgVKcbT4HVtgxHvINVkNBBEyvivhbVB5V0.jpg
+  credit: 'Photo: Foursquare user content (Royal Palace of Madrid)'
+  license: foursquare
+  source: https://foursquare.com/v/67794eae0b0d12794a791914
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Royal_Palace_of_Madrid_east_facade_1.jpg/3840px-Royal_Palace_of_Madrid_east_facade_1.jpg
     credit: 'Photo: kallerna / Wikimedia Commons (CC BY-SA 4.0)'
@@ -64,7 +64,6 @@ faq:
   - q: Should I book tickets in advance?
     a: Yes — it's one of the most-visited sites in Madrid, and booking a timed-entry ticket online avoids a potentially long walk-up line at the ticket counter.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

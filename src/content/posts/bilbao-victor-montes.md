@@ -6,7 +6,7 @@ region: Bilbao
 category: restaurant
 pubDate: '2026-07-28T10:08:33.058Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/12849932_kaIxMuSIcWjAgrq3q9uwCjf80vkuMJgpLuHuaTE7S50.jpg
+  url: https://fastly.4sqi.net/img/general/original/4191621_eXHhH1Qr7qNtcZfIXZLz9lN7MnqgKCsdjrOkdqCnu9c.jpg
   credit: 'Photo: Foursquare user content (Víctor Montes)'
   license: foursquare
   source: https://foursquare.com/v/4b9aa998f964a520ddca35e3
@@ -46,7 +46,6 @@ faq:
   - q: What should I order?
     a: Start with the tortilla de patata, bacalao pintxos, and jamón-topped bread, paired with a glass of txakoli or a caña of beer. The seasonal specials on the chalkboard near the register are also worth trying.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

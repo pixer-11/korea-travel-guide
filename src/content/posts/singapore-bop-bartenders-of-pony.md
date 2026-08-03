@@ -6,7 +6,7 @@ region: Singapore
 category: trendy
 pubDate: '2026-07-29'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/13010698_STrLYC5Zf3uqd_RzKs77Ar5H1rFdVGpwlnU1jkXmYqE.jpg
+  url: https://fastly.4sqi.net/img/general/original/13010698_PPhLIhU1HM_vPhoYjlAWwyNrbWvLpSGogX5DydwqLrw.jpg
   credit: 'Photo: Foursquare user content (Bop - Bartenders Of Pony)'
   license: foursquare
   source: https://foursquare.com/v/69833becdc2beb24db950d36
@@ -26,7 +26,6 @@ faq:
   - q: What's nearby if I want to make a night of it?
     a: Duxton Hill and Ann Siang Hill are a few minutes' walk away and packed with other bars and restaurants, making it easy to combine BOP with a broader Tanjong Pagar bar crawl.
 aiGenerated: true
-draft: true
 ---
 
 You smell the shophouse before you fully register it — charcoal and something faintly sweet, maybe a glaze or a fermented sauce, drifting out from behind a door that gives almost nothing away from the street. This stretch of Tanjong Pagar has been Singapore's most serious cocktail neighbourhood for over a decade, and BOP slots into it not as a novelty but as a statement: this is what happens when one of the region's most respected bar groups, Jigger & Pony, teams up with Korean bartender Uno Jang to build a room around the specific rhythm of how people drink and eat together in Seoul.

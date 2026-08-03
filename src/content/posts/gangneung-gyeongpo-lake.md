@@ -6,15 +6,10 @@ region: Gangneung
 category: attraction
 pubDate: '2026-07-24T22:18:57.155Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/536782698_Bo59l4JT-qlka_goGuZaxCFcy7oqqZhkEvfWyDyApDY.jpg
+  url: https://fastly.4sqi.net/img/general/original/536782698_m45ZL75vv1cuEo8ifugEGCVRC0OCnyaIsqjFUaXM9ms.jpg
   credit: 'Photo: Foursquare user content (Lake Gyeongpo (경포호))'
   license: foursquare
   source: https://foursquare.com/v/4c57648f30d82d7f16d7d962
-gallery:
-  - url: https://fastly.4sqi.net/img/general/original/536782698_m45ZL75vv1cuEo8ifugEGCVRC0OCnyaIsqjFUaXM9ms.jpg
-    credit: 'Photo: Foursquare user content (Lake Gyeongpo (경포호))'
-    license: foursquare
-    source: https://foursquare.com/v/4c57648f30d82d7f16d7d962
 place:
   id: ChIJeX0RpiXkYTUResqZFyoPnhU
   name: Gyeongpo Lake
@@ -49,7 +44,6 @@ faq:
   - q: What else is nearby?
     a: Gyeongpo Beach is a 5–10 minute walk away, and Ojukheon House, the historic home linked to scholar Yi I, is a short ride from the lake.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

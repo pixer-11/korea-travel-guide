@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Billie Jean King Cup Finals: What to Know (Shenzhen)'
 description: Billie Jean King Cup Finals in Shenzhen, China — September 22-27, 2026. What it is, when and where, and how to plan around it.
 country: China
@@ -9,11 +8,10 @@ pubDate: '2026-07-29'
 eventStartDate: '2026-09-22'
 eventEndDate: '2026-09-27'
 heroImage:
-  url: https://images.unsplash.com/photo-1723564159792-927a87cb86b1?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U2hlbnpoZW4lMjBDaGluYSUyMGNvbmNlcnQlMjBsaXZlJTIwZXZlbnQlMjBzdGFnZXxlbnwwfDB8fHwxNzg1MzYxMzk2fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Joshua Fernandez on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@joshuafernandez?utm_source=korea_travel_guide&utm_medium=referral
-gallery: []
+  url: https://upload.wikimedia.org/wikipedia/commons/c/cf/Billie_Jean_King_in_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  credit: 'Photo: Office of the Governor of Massachusetts / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Billie_Jean_King_in_2024.jpg
 tags:
   - shenzhen
   - event

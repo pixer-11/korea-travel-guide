@@ -6,15 +6,10 @@ region: Sapporo
 category: trendy
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/355373377_dnonDwB2xBwVtIwpCC9MabZkDALWv4dxTLR3kALGAeM.jpg
+  url: https://fastly.4sqi.net/img/general/original/6187870_VNKpL2EkWmZy_vamddgoFjU51CXDTQ3ct3qz4Ixtyfg.jpg
   credit: 'Photo: Foursquare user content (Mermaid Coffee Roasters (マーメイド コーヒー ロースターズ))'
   license: foursquare
   source: https://foursquare.com/v/643a12df065d1311281954ab
-gallery:
-  - url: https://fastly.4sqi.net/img/general/original/6187870_VNKpL2EkWmZy_vamddgoFjU51CXDTQ3ct3qz4Ixtyfg.jpg
-    credit: 'Photo: Foursquare user content (Mermaid Coffee Roasters (マーメイド コーヒー ロースターズ))'
-    license: foursquare
-    source: https://foursquare.com/v/643a12df065d1311281954ab
 place:
   id: ChIJMeHdZnApC18RhUmGUbAfkSk
   name: Mermaid Coffee Roasters
@@ -66,7 +61,6 @@ faq:
   - q: What else is nearby worth combining with the visit?
     a: It's a short walk from Susukino's Ramen Yokocho alley, Odori Park, and the Sapporo TV Tower, making it easy to fold into a half-day downtown loop.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go
