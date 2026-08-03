@@ -22,14 +22,8 @@ place:
   lng: 127.14888669999999
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 10
-      - 19
-      - 20
-      - 21
-    weekendQuiet:
-      - 20
-      - 21
+    weekdayQuiet: [10, 19, 20]
+    weekendQuiet: [20]
     weekendBusy:
       - 12
       - 13
@@ -39,6 +33,15 @@ place:
       - 17
       - 18
     venueId: ven_4966467251566872783162525544636c774539376378564a496843
+  phone: '+82 50-71460-0235'
+  openingHours:
+    - 'Monday: 10:30 AM – 9:00 PM'
+    - 'Tuesday: 10:30 AM – 9:00 PM'
+    - 'Wednesday: 10:30 AM – 9:00 PM'
+    - 'Thursday: 10:30 AM – 9:00 PM'
+    - 'Friday: 10:30 AM – 9:00 PM'
+    - 'Saturday: 10:30 AM – 9:00 PM'
+    - 'Sunday: 10:30 AM – 9:00 PM'
 tags:
   - jeonju
   - trendy cafe

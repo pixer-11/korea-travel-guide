@@ -25,6 +25,14 @@ place:
   businessStatus: OPERATIONAL
   lat: 33.514886499999996
   lng: 126.51436840000001
+  openingHours:
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
   - jeju
   - hidden gem

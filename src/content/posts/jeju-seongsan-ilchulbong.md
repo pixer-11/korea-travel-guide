@@ -28,6 +28,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 33.4591306
   lng: 126.9396195
+  phone: '+82 64-783-0959'
+  openingHours:
+    - 'Monday: 5:00 AM – 6:00 PM'
+    - 'Tuesday: 5:00 AM – 6:00 PM'
+    - 'Wednesday: 5:00 AM – 6:00 PM'
+    - 'Thursday: 5:00 AM – 6:00 PM'
+    - 'Friday: 5:00 AM – 6:00 PM'
+    - 'Saturday: 5:00 AM – 6:00 PM'
+    - 'Sunday: 5:00 AM – 6:00 PM'
 tags:
   - jeju
   - sunrise peak

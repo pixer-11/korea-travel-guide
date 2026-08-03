@@ -26,6 +26,14 @@ place:
     weekendQuiet: [11, 12, 13, 14, 15, 20, 21, 22]
     weekendBusy: [8, 9, 13, 14]
     venueId: 'ven_7367307442304632724a7752456a325a385752763565424a496843'
+  openingHours:
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
   - "kampong glam"
   - "hidden gem"

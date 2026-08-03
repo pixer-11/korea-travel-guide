@@ -42,6 +42,15 @@ place:
       - 20
       - 21
     venueId: ven_51757a52594e726f61744852456a325a387963316d374c4a496843
+  phone: '+65 9134 0468'
+  openingHours:
+    - 'Monday: 11:00 AM – 11:00 PM'
+    - 'Tuesday: 11:00 AM – 11:00 PM'
+    - 'Wednesday: 11:00 AM – 11:00 PM'
+    - 'Thursday: 11:00 AM – 11:00 PM'
+    - 'Friday: 11:00 AM – 11:00 PM'
+    - 'Saturday: 11:00 AM – 11:00 PM'
+    - 'Sunday: 11:00 AM – 11:00 PM'
 tags:
   - kampong glam
   - local restaurant

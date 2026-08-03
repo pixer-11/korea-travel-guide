@@ -67,20 +67,18 @@ Priority: 33 itinerary stop(s) queued first
   – ibiza-castle-of-ibiza.md: nothing new
   – incheon-chinatown.md: nothing new
   – incheon-wolmi-theme-park.md: nothing new
-  ✓ istanbul-kinu.md +7h hours
-  ✓ istanbul-sen-den-restaurant.md +phone +7h hours
-  ✓ istanbul-topkapi-palace-museum.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 17h (venue not open then) — nothing left; weekendQuiet: dropped 17h (venue not open then) — nothing left
-  ✓ istanbul-turk-fatih-tutak.md +phone +7h hours
+  – istanbul-kinu.md: nothing new
   – izmir-clock-tower-of-izmir.md: nothing new
   – jaipur-hawa-mahal.md: nothing new
   – jaipur-jal-mahal.md: nothing new
-  ✓ jakarta-gajah-mada-food-street.md +phone +7h hours
-  ✓ jakarta-giyanti-coffee-roastery.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 20h (venue not open then) — nothing left; weekendQuiet: dropped 20h (venue not open then) — nothing left
-  ✓ jakarta-social-house-grand-indonesia.md +phone +7h hours
-  ✓ jakarta-taman-mini-indonesia-indah.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 20h (venue not open then); weekendQuiet: dropped 20h (venue not open then)
-  ✓ jeju-hyeopjae-beach.md +7h hours
+  – jeju-hyeopjae-beach.md: nothing new
+  ✓ jeju-seongsan-ilchulbong.md +phone +7h hours
+  ✓ jeju-yongyeon-suspension-bridge.md +7h hours
+  ✓ jeonju-hanok-village.md +phone +7h hours
+  ✓ jeonju-jeonju-hanok-village-cafe-masirange.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 21h (venue not open then); weekendQuiet: dropped 21h (venue not open then)
+  ✓ jeonju-jeonju-hanok-village-restaurant-jeonju-is-jeonju.md +phone +7h hours
+  ✓ kampong-glam-ayasofya-turkish-restaurant.md +phone +7h hours
+  ✓ kampong-glam-kampong-glam.md +7h hours
 
-BACKFILL RESULT: updated 9, already-complete 153, no-new-data 71, no-place 57, closed-quarantined 0, quota-429 0, api-error 0, processed 80 of 635 (APPLIED).
+BACKFILL RESULT: updated 7, backlog-updated 7, already-complete 170, no-new-data 73, no-place 59, closed-quarantined 0, quota-429 0, api-error 0, processed 80 of 653 (APPLIED).
