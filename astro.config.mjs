@@ -209,6 +209,22 @@ function regionRedirects() {
   for (const [from, to] of Object.entries(alias)) {
     for (const p of ['', '/ko', '/ja', '/es', '/zh']) lines.push(`${p}/regions/${from}/ ${p}/regions/${to}/ 301`);
   }
+  // A PARKED itinerary (draft) renders no page either — Seoul's and Bangkok's
+  // 3-day plans went 404 the moment quarantine pulled one of their stops
+  // (2026-08-03). Point them at the itinerary index rather than nowhere; the
+  // 301 disappears by itself when build-itineraries republishes the plan.
+  try {
+    const itinDir = join(__dirname, 'src/content/itineraries');
+    for (const f of readdirSync(itinDir)) {
+      if (!f.endsWith('.md')) continue;
+      const fm = readFileSync(join(itinDir, f), 'utf8').split('---')[1] || '';
+      if (!/(?:^|\n)draft:\s*true/.test(fm)) continue;
+      const slug = f.replace(/\.md$/, '');
+      for (const p of ['', '/ko', '/ja', '/es', '/zh']) {
+        lines.push(`${p}/itinerary/${slug}/ ${p}/itinerary/ 301`);
+      }
+    }
+  } catch { /* no itineraries dir */ }
   // Deleted duplicate event post → its kept twin.
   const twinned = [
     ['multiple-cities-tour-de-france-femmes', 'nice-finish-various-french-stages-tour-de-france-femmes-avec-zwift'],
