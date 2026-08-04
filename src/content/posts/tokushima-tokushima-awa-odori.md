@@ -8,7 +8,7 @@ pubDate: '2026-07-29'
 eventStartDate: '2026-08-11'
 eventEndDate: '2026-08-15'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/9/94/Awa-odori_2008_Tokushima.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Awa-odori_2008_Tokushima.jpg/1920px-Awa-odori_2008_Tokushima.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Rosino / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Awa-odori_2008_Tokushima.jpg

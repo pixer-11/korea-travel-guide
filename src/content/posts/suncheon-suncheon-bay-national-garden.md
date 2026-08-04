@@ -6,7 +6,7 @@ region: Suncheon
 category: hidden-gem
 pubDate: '2026-08-02T09:36:14.856Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/4/43/Panorama_of_International_Garden_Exposition_Suncheon_Bay_Korea_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  url: https://upload.wikimedia.org/wikipedia/commons/4/43/Panorama_of_International_Garden_Exposition_Suncheon_Bay_Korea_2013.jpg
   credit: 'Photo: Donghwan Seong / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Panorama_of_International_Garden_Exposition_Suncheon_Bay_Korea_2013.jpg

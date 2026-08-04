@@ -6,7 +6,7 @@ region: Boracay
 category: hidden-gem
 pubDate: '2026-07-28T10:10:49.073Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/a/a9/I_love_Boracay.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/I_love_Boracay.jpg/1920px-I_love_Boracay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Shella Marie L. Olea / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:I_love_Boracay.jpg

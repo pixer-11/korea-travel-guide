@@ -1,58 +1,58 @@
 ---
-title: "El Rinconcillo: Where to Eat in Seville (4.3★)"
-description: "El Rinconcillo, in the Casco Antiguo near the Alameda de Hércules, is Seville's oldest tapas bar, dating to 1670 — go for the espinacas con garbanzos, the salmorejo, and the cured meats sliced at the marble counter, all washed down with a glass from the deep sherry and Rioja list. 4.3★ (14,706 reviews) — what visitors say, hours, and tips."
-country: "Spain"
-region: "Seville"
-category: "restaurant"
-pubDate: "2026-08-04T10:22:28.819Z"
+title: 'El Rinconcillo: Where to Eat in Seville (4.3★)'
+description: El Rinconcillo, in the Casco Antiguo near the Alameda de Hércules, is Seville's oldest tapas bar, dating to 1670 — go for the espinacas con garbanzos, the salmorejo, and the cured meats sliced at the marble counter, all washed down with a glass from the deep sherry and Rioja list. 4.3★ (14,706 reviews) — what visitors say, hours, and tips.
+country: Spain
+region: Seville
+category: restaurant
+pubDate: '2026-08-04T10:22:28.819Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/El_Rinconcillo_-_Plaza_los_Terercos_-_Seville_%2814678492295%29.jpg/3840px-El_Rinconcillo_-_Plaza_los_Terercos_-_Seville_%2814678492295%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  credit: "Photo: Elliott Brown from Birmingham, United Kingdom / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:El_Rinconcillo_-_Plaza_los_Terercos_-_Seville_(14678492295).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/El_Rinconcillo_-_Plaza_los_Terercos_-_Seville_%2814678492295%29.jpg/3840px-El_Rinconcillo_-_Plaza_los_Terercos_-_Seville_%2814678492295%29.jpg
+  credit: 'Photo: Elliott Brown from Birmingham, United Kingdom / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:El_Rinconcillo_-_Plaza_los_Terercos_-_Seville_(14678492295).jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/5/58/El_Rinconcillo_%2819143224005%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-    credit: "Photo: Sandra Vallaure from Seville, Spain / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:El_Rinconcillo_(19143224005).jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/5/58/El_Rinconcillo_%2819143224005%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+    credit: 'Photo: Sandra Vallaure from Seville, Spain / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:El_Rinconcillo_(19143224005).jpg
 place:
-  id: "ChIJObo_YwNsEg0RIGq8Rqq0ojA"
-  name: "El Rinconcillo"
-  address: "C. Gerona, 40, Casco Antiguo, 41003 Sevilla, Spain"
+  id: ChIJObo_YwNsEg0RIGq8Rqq0ojA
+  name: El Rinconcillo
+  address: C. Gerona, 40, Casco Antiguo, 41003 Sevilla, Spain
   rating: 4.3
   userRatingsTotal: 14706
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=3504562103471860256&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=3504562103471860256&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.3933873
   lng: -5.988364
-  phone: "+34 954 22 31 83"
+  phone: +34 954 22 31 83
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: Closed"
-    - "Wednesday: Closed"
-    - "Thursday: Closed"
-    - "Friday: Closed"
-    - "Saturday: Closed"
-    - "Sunday: 9:00 – 10:00 AM"
+    - 'Monday: Closed'
+    - 'Tuesday: Closed'
+    - 'Wednesday: Closed'
+    - 'Thursday: Closed'
+    - 'Friday: Closed'
+    - 'Saturday: Closed'
+    - 'Sunday: 9:00 – 10:00 AM'
   busyness:
-    updated: 2026-08-04
-    venueId: "ven_416a6f307171523871474952306745734e77595f6f624f4a496843"
+    updated: 2026-08-04T00:00:00.000Z
+    venueId: ven_416a6f307171523871474952306745734e77595f6f624f4a496843
 tags:
-  - "seville"
-  - "street food"
-quickAnswer: "El Rinconcillo, in the Casco Antiguo near the Alameda de Hércules, is Seville's oldest tapas bar, dating to 1670 — go for the espinacas con garbanzos, the salmorejo, and the cured meats sliced at the marble counter, all washed down with a glass from the deep sherry and Rioja list. It's a very popular, well-reviewed address, so the honest advice is to expect a wait and to treat the tab-chalked-on-the-bar ritual as part of the show, not an inconvenience."
+  - seville
+  - street food
+quickAnswer: El Rinconcillo, in the Casco Antiguo near the Alameda de Hércules, is Seville's oldest tapas bar, dating to 1670 — go for the espinacas con garbanzos, the salmorejo, and the cured meats sliced at the marble counter, all washed down with a glass from the deep sherry and Rioja list. It's a very popular, well-reviewed address, so the honest advice is to expect a wait and to treat the tab-chalked-on-the-bar ritual as part of the show, not an inconvenience.
 faq:
-  - q: "Do I need a reservation?"
-    a: "El Rinconcillo doesn't run on a typical reservation system for its bar area — most visitors simply show up and either grab counter space or wait for a table. Arriving earlier in the service window reduces the wait."
-  - q: "What's the must-order dish?"
-    a: "Espinacas con garbanzos (spinach and chickpea stew) is the house signature, alongside cured jamón sliced at the bar and a cold salmorejo in warmer months."
-  - q: "How much should I expect to spend?"
-    a: "It sits in the mid-range for Seville tapas bars — not cheap, not fine-dining pricey. Sharing several tapas plates plus wine per person is the normal approach rather than ordering a full individual meal."
-  - q: "What are the opening hours?"
-    a: "Hours can shift, and this address is known to close on several days of the week — always confirm the current schedule directly before making the trip across town."
-  - q: "Is it within walking distance of the main sights?"
-    a: "Yes — it's about a 10–12 minute walk from Seville Cathedral and the Metropol Parasol, and close to the Alameda de Hércules nightlife area, making it easy to combine with old-town sightseeing."
+  - q: Do I need a reservation?
+    a: El Rinconcillo doesn't run on a typical reservation system for its bar area — most visitors simply show up and either grab counter space or wait for a table. Arriving earlier in the service window reduces the wait.
+  - q: What's the must-order dish?
+    a: Espinacas con garbanzos (spinach and chickpea stew) is the house signature, alongside cured jamón sliced at the bar and a cold salmorejo in warmer months.
+  - q: How much should I expect to spend?
+    a: It sits in the mid-range for Seville tapas bars — not cheap, not fine-dining pricey. Sharing several tapas plates plus wine per person is the normal approach rather than ordering a full individual meal.
+  - q: What are the opening hours?
+    a: Hours can shift, and this address is known to close on several days of the week — always confirm the current schedule directly before making the trip across town.
+  - q: Is it within walking distance of the main sights?
+    a: Yes — it's about a 10–12 minute walk from Seville Cathedral and the Metropol Parasol, and close to the Alameda de Hércules nightlife area, making it easy to combine with old-town sightseeing.
 aiGenerated: true
 draft: false
 ---

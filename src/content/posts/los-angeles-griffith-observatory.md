@@ -6,7 +6,7 @@ region: Los Angeles
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Griffith_observatory_2006.jpg/1920px-Griffith_observatory_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Griffith_observatory_2006.jpg/1920px-Griffith_observatory_2006.jpg
   credit: 'Photo: Matthew Field / Wikimedia Commons (CC BY 2.5)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Griffith_observatory_2006.jpg

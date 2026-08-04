@@ -1,41 +1,41 @@
 ---
-title: "Janiculum Hill: Rome Travel Guide (4.7★)"
-description: "Janiculum Hill (Gianicolo) is a free, open-24-hours panoramic terrace on Rome's west bank, best reached by taxi, bus 115, or a steep 15-minute walk up from Trastevere. 4.7★ (25,736 reviews) — what visitors say, hours, and tips."
-country: "Italy"
-region: "Rome"
-category: "hidden-gem"
-pubDate: "2026-08-04T10:10:51.439Z"
+title: 'Janiculum Hill: Rome Travel Guide (4.7★)'
+description: Janiculum Hill (Gianicolo) is a free, open-24-hours panoramic terrace on Rome's west bank, best reached by taxi, bus 115, or a steep 15-minute walk up from Trastevere. 4.7★ (25,736 reviews) — what visitors say, hours, and tips.
+country: Italy
+region: Rome
+category: hidden-gem
+pubDate: '2026-08-04T10:10:51.439Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/6/66/Janiculum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-  credit: "Photo: Wikimedia Commons contributor / Wikimedia Commons (Public domain)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Janiculum.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/6/66/Janiculum.jpg
+  credit: 'Photo: Wikimedia Commons contributor / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Janiculum.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/a/a1/Janiculum_Hill%2C_Snow_in_Rome_%286823545623%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-    credit: "Photo: Stefano Costantini / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Janiculum_Hill,_Snow_in_Rome_(6823545623).jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/a/a1/Janiculum_Hill%2C_Snow_in_Rome_%286823545623%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+    credit: 'Photo: Stefano Costantini / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Janiculum_Hill,_Snow_in_Rome_(6823545623).jpg
 place:
-  id: "ChIJ-Z2cHUBgLxMRz8Wfw_RW_Qw"
-  name: "Janiculum Hill"
-  address: "Municipio I, 00165 Roma RM, Italy"
+  id: ChIJ-Z2cHUBgLxMRz8Wfw_RW_Qw
+  name: Janiculum Hill
+  address: Municipio I, 00165 Roma RM, Italy
   rating: 4.7
   userRatingsTotal: 25736
-  googleMapsUrl: "https://maps.google.com/?cid=935999906816968143&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=935999906816968143&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.891469699999995
   lng: 12.461394199999999
-  phone: "+39 06 0608"
+  phone: +39 06 0608
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-04
+    updated: 2026-08-04T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -56,22 +56,22 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_77515f57525f776657387a524d784c6742554863325a2d4a496843"
+    venueId: ven_77515f57525f776657387a524d784c6742554863325a2d4a496843
 tags:
-  - "rome"
-  - "hidden gem"
-quickAnswer: "Janiculum Hill (Gianicolo) is a free, open-24-hours panoramic terrace on Rome's west bank, best reached by taxi, bus 115, or a steep 15-minute walk up from Trastevere. Go between 7am and 9am — the measured quiet window on both weekdays and weekends — to get the view, the fountain, and the cannon-firing spot to yourself before crowds build through the day and stay heavy until 11pm on weekends. Budget half a day to combine the hill with a wander through Trastevere below."
+  - rome
+  - hidden gem
+quickAnswer: Janiculum Hill (Gianicolo) is a free, open-24-hours panoramic terrace on Rome's west bank, best reached by taxi, bus 115, or a steep 15-minute walk up from Trastevere. Go between 7am and 9am — the measured quiet window on both weekdays and weekends — to get the view, the fountain, and the cannon-firing spot to yourself before crowds build through the day and stay heavy until 11pm on weekends. Budget half a day to combine the hill with a wander through Trastevere below.
 faq:
-  - q: "How do I get to Janiculum Hill from central Rome?"
-    a: "Walk up from Trastevere (about 15–20 minutes from Piazza Trilussa via Via Garibaldi), take bus 115, or use a taxi/rideshare direct to Piazzale Giuseppe Garibaldi. There's no metro stop on the hill itself."
-  - q: "Is there an entrance fee?"
-    a: "No — it's a free public park and viewpoint, open 24 hours every day, so you can visit any time without a ticket."
-  - q: "When is the quietest time to visit?"
-    a: "Foot-traffic data shows 7am–9am is the calmest window on both weekdays and weekends. Weekends stay busy from 10am right through to 11pm, so avoid that stretch if you want an uncrowded view."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors spend 45 minutes to 1.5 hours — enough for the Garibaldi terrace, the Fontanone fountain, and the noon cannon if timed right. Pair it with Trastevere or the Vatican area for a half-day outing."
-  - q: "What's the best time of day for photos?"
-    a: "Early morning (7–9am) gives soft light and empty foreground for wide shots; sunset gives the most dramatic sky behind St. Peter's dome but comes with heavier crowds at the railing."
+  - q: How do I get to Janiculum Hill from central Rome?
+    a: Walk up from Trastevere (about 15–20 minutes from Piazza Trilussa via Via Garibaldi), take bus 115, or use a taxi/rideshare direct to Piazzale Giuseppe Garibaldi. There's no metro stop on the hill itself.
+  - q: Is there an entrance fee?
+    a: No — it's a free public park and viewpoint, open 24 hours every day, so you can visit any time without a ticket.
+  - q: When is the quietest time to visit?
+    a: Foot-traffic data shows 7am–9am is the calmest window on both weekdays and weekends. Weekends stay busy from 10am right through to 11pm, so avoid that stretch if you want an uncrowded view.
+  - q: How long should I plan to spend there?
+    a: Most visitors spend 45 minutes to 1.5 hours — enough for the Garibaldi terrace, the Fontanone fountain, and the noon cannon if timed right. Pair it with Trastevere or the Vatican area for a half-day outing.
+  - q: What's the best time of day for photos?
+    a: Early morning (7–9am) gives soft light and empty foreground for wide shots; sunset gives the most dramatic sky behind St. Peter's dome but comes with heavier crowds at the railing.
 aiGenerated: true
 draft: false
 ---

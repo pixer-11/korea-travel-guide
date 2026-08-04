@@ -1,38 +1,38 @@
 ---
-title: "Balthazar: Where to Eat in New York"
+title: 'Balthazar: Where to Eat in New York'
 description: Balthazar, at 80 Spring St in SoHo, is the classic Parisian-style brasserie of New York — red leather banquettes, brass rails, a raw bar, steak frites and an all-day bakery counter.
-country: "United States"
-region: "New York"
-category: "restaurant"
-pubDate: "2026-07-31T10:01:59.255Z"
+country: United States
+region: New York
+category: restaurant
+pubDate: '2026-07-31T10:01:59.255Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/1/14/Balthazar_1_%284691446507%29.jpg"
-  credit: "Photo: Tony Hisgett from Birmingham, UK / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Balthazar_1_(4691446507).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Balthazar_1_%284691446507%29.jpg/1920px-Balthazar_1_%284691446507%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Tony Hisgett from Birmingham, UK / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Balthazar_1_(4691446507).jpg
 gallery: []
 place:
-  id: "ChIJt7fMLIlZwokRCRtM9bNDg78"
-  name: "Balthazar"
-  address: "80 Spring St, New York, NY 10012, USA"
+  id: ChIJt7fMLIlZwokRCRtM9bNDg78
+  name: Balthazar
+  address: 80 Spring St, New York, NY 10012, USA
   rating: 4.4
   userRatingsTotal: 7854
   priceLevel: 3
-  googleMapsUrl: "https://maps.google.com/?cid=13799948123386944265&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=13799948123386944265&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 40.722668
   lng: -73.99822979999999
-  phone: '+1 212 965-1414'
+  phone: +1 212 965-1414
   openingHours:
-    - "Monday: 8:00 AM – 12:00 AM"
-    - "Tuesday: 8:00 AM – 12:00 AM"
-    - "Wednesday: 8:00 AM – 12:00 AM"
-    - "Thursday: 8:00 AM – 12:00 AM"
-    - "Friday: 8:00 AM – 12:00 AM"
-    - "Saturday: 9:00 AM – 12:00 AM"
-    - "Sunday: 9:00 AM – 12:00 AM"
+    - 'Monday: 8:00 AM – 12:00 AM'
+    - 'Tuesday: 8:00 AM – 12:00 AM'
+    - 'Wednesday: 8:00 AM – 12:00 AM'
+    - 'Thursday: 8:00 AM – 12:00 AM'
+    - 'Friday: 8:00 AM – 12:00 AM'
+    - 'Saturday: 9:00 AM – 12:00 AM'
+    - 'Sunday: 9:00 AM – 12:00 AM'
   busyness:
-    updated: 2026-07-31
+    updated: 2026-07-31T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 22
@@ -50,22 +50,22 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_383767444e62394d745243526b6f775a6c494c4d6637744a496843"
+    venueId: ven_383767444e62394d745243526b6f775a6c494c4d6637744a496843
 tags:
-  - "new york"
-  - "local restaurant"
-quickAnswer: "Balthazar, at 80 Spring St in SoHo, is the classic Parisian-style brasserie of New York — red leather banquettes, brass rails, a raw bar, steak frites and an all-day bakery counter. It's open 8am–midnight on weekdays (from 9am weekends) and busiest 2pm–6pm on weekends, so aim for a weekday morning or a late-evening seating if you want breathing room."
+  - new york
+  - local restaurant
+quickAnswer: Balthazar, at 80 Spring St in SoHo, is the classic Parisian-style brasserie of New York — red leather banquettes, brass rails, a raw bar, steak frites and an all-day bakery counter. It's open 8am–midnight on weekdays (from 9am weekends) and busiest 2pm–6pm on weekends, so aim for a weekday morning or a late-evening seating if you want breathing room.
 faq:
-  - q: "Do I need a reservation at Balthazar?"
-    a: "It's strongly recommended, especially for dinner Thursday–Sunday. Walk-ins can sometimes get bar seating, but tables fill up fast given how consistently busy this brasserie is."
-  - q: "What's the quietest time to visit?"
-    a: "Weekdays between 8am and 11pm and weekends between 9am and 11pm are the calmest stretches. Avoid 2pm–6pm on weekends, when brunch and early dinner crowds overlap."
-  - q: "How do I get to Balthazar by subway?"
-    a: "Take the 6 train to Spring Street, about a two-minute walk. The N/R/W at Prince Street is roughly six minutes on foot and puts you near Broadway's shops too."
-  - q: "How much does a meal cost?"
-    a: "Balthazar sits in the upper-mid price range for New York — expect to pay more than a casual diner but less than a tasting-menu splurge. Exact prices change, so check the current menu online before you go."
-  - q: "Is there anything to do nearby?"
-    a: "It's steps from SoHo's cast-iron shopping district and Crosby Street, with the New Museum on the Bowery and Nolita's boutiques a short walk away — easy to pair with a few hours of browsing."
+  - q: Do I need a reservation at Balthazar?
+    a: It's strongly recommended, especially for dinner Thursday–Sunday. Walk-ins can sometimes get bar seating, but tables fill up fast given how consistently busy this brasserie is.
+  - q: What's the quietest time to visit?
+    a: Weekdays between 8am and 11pm and weekends between 9am and 11pm are the calmest stretches. Avoid 2pm–6pm on weekends, when brunch and early dinner crowds overlap.
+  - q: How do I get to Balthazar by subway?
+    a: Take the 6 train to Spring Street, about a two-minute walk. The N/R/W at Prince Street is roughly six minutes on foot and puts you near Broadway's shops too.
+  - q: How much does a meal cost?
+    a: Balthazar sits in the upper-mid price range for New York — expect to pay more than a casual diner but less than a tasting-menu splurge. Exact prices change, so check the current menu online before you go.
+  - q: Is there anything to do nearby?
+    a: It's steps from SoHo's cast-iron shopping district and Crosby Street, with the New Museum on the Bowery and Nolita's boutiques a short walk away — easy to pair with a few hours of browsing.
 aiGenerated: true
 draft: false
 ---

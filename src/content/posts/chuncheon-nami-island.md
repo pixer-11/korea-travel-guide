@@ -6,7 +6,7 @@ region: Chuncheon
 category: attraction
 pubDate: '2026-07-26T07:13:50.900Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/3/39/Gapyeong-Nami_Island_Ferry.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Gapyeong-Nami_Island_Ferry.jpg/1920px-Gapyeong-Nami_Island_Ferry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Minseong Kim / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Gapyeong-Nami_Island_Ferry.jpg
@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 37.789935199999995
   lng: 127.52580719999999
-  phone: '+82 31-580-8114'
+  phone: +82 31-580-8114
   openingHours:
     - 'Monday: 8:00 AM – 9:00 PM'
     - 'Tuesday: 8:00 AM – 9:00 PM'

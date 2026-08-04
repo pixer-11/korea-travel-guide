@@ -1,13 +1,13 @@
 ---
-title: "Shanghai Tower: Travel Guide (4.6★)"
+title: 'Shanghai Tower: Travel Guide (4.6★)'
 description: Shanghai Tower's observation deck (floor 118-119) is open daily 8:30am–9:30pm in Lujiazui, Pudong — the quietest window is 8:30am–9:30am on any day, while weekend evenings from 7pm to 9pm draw the thickest crowds for the night skyline. 4.6★ (3,180 reviews) — what visitors say, hours, and tips.
 country: China
 region: Shanghai
 category: attraction
-pubDate: "2026-08-04T10:03:34.728Z"
+pubDate: '2026-08-04T10:03:34.728Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Shanghai_-_Shanghai_Tower_-_0002.jpg/3840px-Shanghai_-_Shanghai_Tower_-_0002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  credit: "Photo: Stefan Fussan / Wikimedia Commons (CC BY-SA 3.0)"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Shanghai_-_Shanghai_Tower_-_0002.jpg/3840px-Shanghai_-_Shanghai_Tower_-_0002.jpg
+  credit: 'Photo: Stefan Fussan / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Shanghai_-_Shanghai_Tower_-_0002.jpg
 gallery: []
@@ -23,13 +23,13 @@ place:
   lng: 121.505618
   phone: +86 21 6199 9766
   openingHours:
-    - "Monday: 8:30 AM – 9:30 PM"
-    - "Tuesday: 8:30 AM – 9:30 PM"
-    - "Wednesday: 8:30 AM – 9:30 PM"
-    - "Thursday: 8:30 AM – 9:30 PM"
-    - "Friday: 8:30 AM – 9:30 PM"
-    - "Saturday: 8:30 AM – 9:30 PM"
-    - "Sunday: 8:30 AM – 9:30 PM"
+    - 'Monday: 8:30 AM – 9:30 PM'
+    - 'Tuesday: 8:30 AM – 9:30 PM'
+    - 'Wednesday: 8:30 AM – 9:30 PM'
+    - 'Thursday: 8:30 AM – 9:30 PM'
+    - 'Friday: 8:30 AM – 9:30 PM'
+    - 'Saturday: 8:30 AM – 9:30 PM'
+    - 'Sunday: 8:30 AM – 9:30 PM'
   busyness:
     updated: 2026-08-04T00:00:00.000Z
     weekdayQuiet:

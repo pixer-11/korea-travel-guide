@@ -1,42 +1,42 @@
 ---
-title: "Mother's Restaurant: Where to Eat in New Orleans (4.2★)"
-description: "Mother's Restaurant, at 401 Poydras St in the Central Business District, is a cafeteria-style institution open daily 7am–10pm, famous for its \"Ferdi Special\" po' boy piled with debris (shredded roast beef and ham) and its baked ham. 4.2★ (17,308 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "New Orleans"
-category: "restaurant"
-pubDate: "2026-08-03T11:03:32.781Z"
+title: 'Mother''s Restaurant: Where to Eat in New Orleans (4.2★)'
+description: Mother's Restaurant, at 401 Poydras St in the Central Business District, is a cafeteria-style institution open daily 7am–10pm, famous for its "Ferdi Special" po' boy piled with debris (shredded roast beef and ham) and its baked ham. 4.2★ (17,308 reviews) — what visitors say, hours, and tips.
+country: United States
+region: New Orleans
+category: restaurant
+pubDate: '2026-08-03T11:03:32.781Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/2/26/Mother%27s_Restaurant%2C_New_Orleans%2C_Louisiana_for_Some_Po%27Boys.jpg"
-  credit: "Photo: Ken Lund / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Mother%27s_Restaurant,_New_Orleans,_Louisiana_for_Some_Po%27Boys.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Mother%27s_Restaurant%2C_New_Orleans%2C_Louisiana_for_Some_Po%27Boys.jpg/1920px-Mother%27s_Restaurant%2C_New_Orleans%2C_Louisiana_for_Some_Po%27Boys.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Ken Lund / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Mother%27s_Restaurant,_New_Orleans,_Louisiana_for_Some_Po%27Boys.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/0/09/Mother%27s_Restaurant%2C_New_Orleans_-_Interior_March_2013.jpg"
-    credit: "Photo: Richard Martin / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Mother%27s_Restaurant,_New_Orleans_-_Interior_March_2013.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/0/09/Mother%27s_Restaurant%2C_New_Orleans_-_Interior_March_2013.jpg
+    credit: 'Photo: Richard Martin / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Mother%27s_Restaurant,_New_Orleans_-_Interior_March_2013.jpg
 place:
-  id: "ChIJfV2h73KmIIYRRDpBV-crpB8"
-  name: "Mother's Restaurant"
-  address: "401 Poydras St, New Orleans, LA 70130, USA"
+  id: ChIJfV2h73KmIIYRRDpBV-crpB8
+  name: Mother's Restaurant
+  address: 401 Poydras St, New Orleans, LA 70130, USA
   rating: 4.2
   userRatingsTotal: 17308
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=2279995583957645892&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=2279995583957645892&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 29.948984599999996
   lng: -90.0670016
-  phone: "+1 504-523-9656"
+  phone: +1 504-523-9656
   openingHours:
-    - "Monday: 7:00 AM – 10:00 PM"
-    - "Tuesday: 7:00 AM – 10:00 PM"
-    - "Wednesday: 7:00 AM – 10:00 PM"
-    - "Thursday: 7:00 AM – 10:00 PM"
-    - "Friday: 7:00 AM – 10:00 PM"
-    - "Saturday: 7:00 AM – 10:00 PM"
-    - "Sunday: 7:00 AM – 10:00 PM"
+    - 'Monday: 7:00 AM – 10:00 PM'
+    - 'Tuesday: 7:00 AM – 10:00 PM'
+    - 'Wednesday: 7:00 AM – 10:00 PM'
+    - 'Thursday: 7:00 AM – 10:00 PM'
+    - 'Friday: 7:00 AM – 10:00 PM'
+    - 'Saturday: 7:00 AM – 10:00 PM'
+    - 'Sunday: 7:00 AM – 10:00 PM'
   busyness:
-    updated: 2026-08-03
+    updated: 2026-08-03T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -60,22 +60,22 @@ place:
       - 18
       - 19
       - 20
-    venueId: "ven_38427072632d5642704452525949496d4b3337683256664a496843"
+    venueId: ven_38427072632d5642704452525949496d4b3337683256664a496843
 tags:
-  - "new orleans"
-  - "street food"
-quickAnswer: "Mother's Restaurant, at 401 Poydras St in the Central Business District, is a cafeteria-style institution open daily 7am–10pm, famous for its \"Ferdi Special\" po' boy piled with debris (shredded roast beef and ham) and its baked ham. Go right at 7am for breakfast or in the mid-afternoon lull; weekends from 11am to 9pm draw the longest lines out the door."
+  - new orleans
+  - street food
+quickAnswer: Mother's Restaurant, at 401 Poydras St in the Central Business District, is a cafeteria-style institution open daily 7am–10pm, famous for its "Ferdi Special" po' boy piled with debris (shredded roast beef and ham) and its baked ham. Go right at 7am for breakfast or in the mid-afternoon lull; weekends from 11am to 9pm draw the longest lines out the door.
 faq:
-  - q: "What is Mother's Restaurant known for?"
-    a: "It's known for its po' boys, especially the 'Ferdi Special' loaded with debris (shredded roast beef and ham) and gravy, plus its house-baked ham and red beans and rice — a New Orleans institution since 1938."
-  - q: "How do I get to Mother's Restaurant?"
-    a: "It's at 401 Poydras St in the Central Business District, walkable from the French Quarter (about 15–20 minutes) or reachable via the Canal or Riverfront streetcar lines."
-  - q: "When is the quietest time to visit?"
-    a: "Early mornings right after the 7am opening and weekday off-peak hours are calmest. Avoid weekends between 11am and 9pm, when lines regularly stretch out the door."
-  - q: "Do I need a reservation?"
-    a: "No — it's counter/cafeteria-style ordering with no reservations. You queue at the steam table, order, and carry your own tray to a seat."
-  - q: "How much does a meal cost?"
-    a: "Prices are mid-range for New Orleans dining — expect a casual, moderately priced po' boy-and-sides meal rather than fine-dining prices, though you should confirm current menu prices on-site."
+  - q: What is Mother's Restaurant known for?
+    a: It's known for its po' boys, especially the 'Ferdi Special' loaded with debris (shredded roast beef and ham) and gravy, plus its house-baked ham and red beans and rice — a New Orleans institution since 1938.
+  - q: How do I get to Mother's Restaurant?
+    a: It's at 401 Poydras St in the Central Business District, walkable from the French Quarter (about 15–20 minutes) or reachable via the Canal or Riverfront streetcar lines.
+  - q: When is the quietest time to visit?
+    a: Early mornings right after the 7am opening and weekday off-peak hours are calmest. Avoid weekends between 11am and 9pm, when lines regularly stretch out the door.
+  - q: Do I need a reservation?
+    a: No — it's counter/cafeteria-style ordering with no reservations. You queue at the steam table, order, and carry your own tray to a seat.
+  - q: How much does a meal cost?
+    a: Prices are mid-range for New Orleans dining — expect a casual, moderately priced po' boy-and-sides meal rather than fine-dining prices, though you should confirm current menu prices on-site.
 aiGenerated: true
 draft: false
 ---

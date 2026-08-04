@@ -1,54 +1,54 @@
 ---
-title: "Chocolatería San Ginés: Where to Eat in Madrid (4.3★)"
-description: "Chocolatería San Ginés, tucked in a narrow passageway just off Calle Mayor near Puerta del Sol, serves thick hot chocolate and fresh churros 24 hours a day, every day. 4.3★ (72,330 reviews) — what visitors say, hours, and tips."
-country: "Spain"
-region: "Madrid"
-category: "restaurant"
-pubDate: "2026-08-04T10:23:56.335Z"
+title: 'Chocolatería San Ginés: Where to Eat in Madrid (4.3★)'
+description: Chocolatería San Ginés, tucked in a narrow passageway just off Calle Mayor near Puerta del Sol, serves thick hot chocolate and fresh churros 24 hours a day, every day. 4.3★ (72,330 reviews) — what visitors say, hours, and tips.
+country: Spain
+region: Madrid
+category: restaurant
+pubDate: '2026-08-04T10:23:56.335Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Madrid_-_Chocolater%C3%ADa_San_Gin%C3%A9s_%2835682180400%29.jpg/3840px-Madrid_-_Chocolater%C3%ADa_San_Gin%C3%A9s_%2835682180400%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  credit: "Photo: Fred Romero from Paris, France / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Madrid_-_Chocolater%C3%ADa_San_Gin%C3%A9s_(35682180400).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Madrid_-_Chocolater%C3%ADa_San_Gin%C3%A9s_%2835682180400%29.jpg/3840px-Madrid_-_Chocolater%C3%ADa_San_Gin%C3%A9s_%2835682180400%29.jpg
+  credit: 'Photo: Fred Romero from Paris, France / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Madrid_-_Chocolater%C3%ADa_San_Gin%C3%A9s_(35682180400).jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Inside_the_Chocolater%C3%ADa_San_Gin%C3%A9s_in_Madrid%2C_Spain.JPG/3840px-Inside_the_Chocolater%C3%ADa_San_Gin%C3%A9s_in_Madrid%2C_Spain.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    credit: "Photo: David Adam Kess / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Inside_the_Chocolater%C3%ADa_San_Gin%C3%A9s_in_Madrid,_Spain.JPG"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Inside_the_Chocolater%C3%ADa_San_Gin%C3%A9s_in_Madrid%2C_Spain.JPG/3840px-Inside_the_Chocolater%C3%ADa_San_Gin%C3%A9s_in_Madrid%2C_Spain.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: 'Photo: David Adam Kess / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Inside_the_Chocolater%C3%ADa_San_Gin%C3%A9s_in_Madrid,_Spain.JPG
 place:
-  id: "ChIJHeRevn4oQg0R1cMSLDTWlWg"
-  name: "Chocolatería San Ginés"
-  address: "Pasadizo de San Ginés, 5, Centro, 28013 Madrid, Spain"
+  id: ChIJHeRevn4oQg0R1cMSLDTWlWg
+  name: Chocolatería San Ginés
+  address: Pasadizo de San Ginés, 5, Centro, 28013 Madrid, Spain
   rating: 4.3
   userRatingsTotal: 72330
-  googleMapsUrl: "https://maps.google.com/?cid=7536165071040463829&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=7536165071040463829&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 40.4167385
   lng: -3.7069356
-  phone: "+34 913 65 65 46"
+  phone: +34 913 65 65 46
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "madrid"
-  - "street food"
-quickAnswer: "Chocolatería San Ginés, tucked in a narrow passageway just off Calle Mayor near Puerta del Sol, serves thick hot chocolate and fresh churros 24 hours a day, every day. It's one of the most-visited food stops in central Madrid, so go either mid-morning on a weekday or well after midnight (its classic post-clubbing role) to avoid the worst crush. Expect to spend 20-30 minutes over a plate of churros and a cup of chocolate so thick a spoon nearly stands in it."
+  - madrid
+  - street food
+quickAnswer: Chocolatería San Ginés, tucked in a narrow passageway just off Calle Mayor near Puerta del Sol, serves thick hot chocolate and fresh churros 24 hours a day, every day. It's one of the most-visited food stops in central Madrid, so go either mid-morning on a weekday or well after midnight (its classic post-clubbing role) to avoid the worst crush. Expect to spend 20-30 minutes over a plate of churros and a cup of chocolate so thick a spoon nearly stands in it.
 faq:
-  - q: "What are the best hours to avoid crowds?"
-    a: "It's open 24/7, so the calmest window is generally weekday mid-morning (around 10am-noon) or well after midnight, when the after-clubbing crowd thins but the room is still open. Weekend afternoons and evenings see the longest queues."
-  - q: "How much does chocolate con churros cost?"
-    a: "It's budget-friendly to mid-range for Madrid, generally a few euros for a classic order of churros with chocolate. Prices can shift, so treat any figure you see online as approximate and check the menu on arrival."
-  - q: "How do I get there by metro?"
-    a: "The closest stations are Sol (Lines 1, 2, 3) and Ópera (Lines 2, 5), both about a 5-minute walk. Look for the narrow Pasadizo de San Ginés passage behind the Iglesia de San Ginés, just off Calle Mayor."
-  - q: "How long should I plan to spend here?"
-    a: "Most visits run 20-30 minutes — it's a quick, focused stop rather than a long sit-down meal, and tables turn over fast when there's a queue."
-  - q: "What's nearby if I want to make it part of a longer walk?"
-    a: "Plaza Mayor, Puerta del Sol, and the Teatro Real/Ópera area are all within a 5-10 minute walk, making this an easy add-on to a Centro sightseeing route."
+  - q: What are the best hours to avoid crowds?
+    a: It's open 24/7, so the calmest window is generally weekday mid-morning (around 10am-noon) or well after midnight, when the after-clubbing crowd thins but the room is still open. Weekend afternoons and evenings see the longest queues.
+  - q: How much does chocolate con churros cost?
+    a: It's budget-friendly to mid-range for Madrid, generally a few euros for a classic order of churros with chocolate. Prices can shift, so treat any figure you see online as approximate and check the menu on arrival.
+  - q: How do I get there by metro?
+    a: The closest stations are Sol (Lines 1, 2, 3) and Ópera (Lines 2, 5), both about a 5-minute walk. Look for the narrow Pasadizo de San Ginés passage behind the Iglesia de San Ginés, just off Calle Mayor.
+  - q: How long should I plan to spend here?
+    a: Most visits run 20-30 minutes — it's a quick, focused stop rather than a long sit-down meal, and tables turn over fast when there's a queue.
+  - q: What's nearby if I want to make it part of a longer walk?
+    a: Plaza Mayor, Puerta del Sol, and the Teatro Real/Ópera area are all within a 5-10 minute walk, making this an easy add-on to a Centro sightseeing route.
 aiGenerated: true
 draft: false
 ---

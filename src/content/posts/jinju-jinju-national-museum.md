@@ -6,7 +6,7 @@ region: Jinju
 category: attraction
 pubDate: '2026-07-27T11:02:16.041Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/1/18/The_Jinju_National_Museum.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/The_Jinju_National_Museum.jpg/1920px-The_Jinju_National_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: kangbyeongkee / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:The_Jinju_National_Museum.jpg
@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 35.18890040000001
   lng: 128.0769396
-  phone: '+82 55-742-5951'
+  phone: +82 55-742-5951
   openingHours:
     - 'Monday: Closed'
     - 'Tuesday: 9:00 AM – 6:00 PM'

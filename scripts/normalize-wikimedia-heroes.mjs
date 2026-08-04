@@ -1,0 +1,161 @@
+#!/usr/bin/env node
+// ─────────────────────────────────────────────────────────────
+//  WIKIMEDIA HERO URL NORMALISER
+//
+//  Two defects found on 2026-08-04, both invisible in the markdown:
+//
+//  1. TRACKING QUERY. The Commons API hands back image URLs carrying
+//     `?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=…`
+//     and 24 posts stored them verbatim. That string then rides into og:image,
+//     into the <img src>, and into the sha1 that names the post's wall thumb —
+//     so the same picture under two spellings is two cache entries and two
+//     thumbnails. It also broke the thumbnail rewrite below, because the query
+//     was being treated as part of the filename.
+//
+//  2. FULL-SIZE ORIGINALS. `iiurlwidth` returns a thumbnail only when the
+//     original is wider than the requested width; otherwise the API returns the
+//     original and marks it `thumbnail_unscaled`. 63 heroes ended up pointing at
+//     originals — mostly harmless, but 26 of them ship 1.5–9.5 MB to every
+//     reader, and anything past ~5 MB is too large for the vision gate to fetch,
+//     so those heroes could never be checked at all.
+//
+//  The rewrite is width-aware because Wikimedia refuses to upscale: asking for a
+//  1600px thumbnail of a 1281px original is a 400. The width comes from the
+//  Commons API, and the largest standard width BELOW the original is chosen,
+//  never under Discover's 1200px floor (the hero is the og:image).
+//
+//  Env: DRY=1 (report only), MAX_BYTES (default 1500000)
+//  Usage: node scripts/normalize-wikimedia-heroes.mjs
+// ─────────────────────────────────────────────────────────────
+import { readdir, readFile, writeFile } from 'node:fs/promises';
+import matter from 'gray-matter';
+import yaml from 'js-yaml';
+
+const POSTS = 'src/content/posts';
+const UA = 'WanderAtlasHeroNormalise/1.0 (pixer.vtm@gmail.com)';
+const API = 'https://commons.wikimedia.org/w/api.php';
+const DRY = process.env.DRY === '1';
+const MAX_BYTES = Number(process.env.MAX_BYTES || 1_500_000);
+// Standard widths, largest first. 1200 is the floor — Google Discover wants a
+// 1200px+ image and the hero IS the og:image, so we never rewrite below it.
+const WIDTHS = [1600, 1400, 1280, 1200];
+
+export const isWikimedia = (u) => /^https:\/\/upload\.wikimedia\.org\/wikipedia\//.test(u);
+export const stripQuery = (u) => u.split('?')[0];
+
+// Both shapes carry the original filename:
+//   /commons/a/bc/NAME            (original)
+//   /commons/thumb/a/bc/NAME/…px-NAME   (thumbnail)
+export function originalFile(u) {
+  const c = stripQuery(u);
+  const m = c.match(/\/thumb\/[0-9a-f]\/[0-9a-f]{2}\/([^/]+)\//) || c.match(/\/[0-9a-f]\/[0-9a-f]{2}\/([^/]+)$/);
+  return m ? m[1] : null;
+}
+
+// Original width + byte size for a batch of Commons filenames.
+async function imageInfo(files) {
+  const out = new Map();
+  for (let i = 0; i < files.length; i += 40) {
+    const batch = files.slice(i, i + 40);
+    const url = `${API}?action=query&format=json&prop=imageinfo&iiprop=size&origin=*&titles=` +
+      batch.map((n) => encodeURIComponent('File:' + decodeURIComponent(n))).join('|');
+    const res = await fetch(url, { headers: { 'User-Agent': UA } });
+    if (!res.ok) continue;
+    const j = await res.json();
+    for (const p of Object.values(j?.query?.pages || {})) {
+      const ii = p.imageinfo?.[0];
+      if (ii) out.set(String(p.title).replace(/^File:/, '').replace(/ /g, '_'), { w: ii.width, size: ii.size });
+    }
+  }
+  return out;
+}
+
+// ASK for the thumbnail rather than composing its address. Composing looks
+// obvious — /commons/a/bc/NAME → /commons/thumb/a/bc/NAME/1600px-NAME — and it
+// worked on exactly one file out of 29: everything else came back 400, because
+// the rendered name is not always `<width>px-<original>` (multi-page and some
+// JPEG variants differ, and the path can be sharded elsewhere). `iiurlwidth`
+// makes MediaWiki render the thumbnail and hand back the URL it actually serves,
+// and returns nothing when it will not render one — which is precisely the
+// question being asked.
+async function thumbFromApi(file, width) {
+  const url = `${API}?action=query&format=json&prop=imageinfo&iiprop=url|size&iiurlwidth=${width}&origin=*` +
+    `&titles=${encodeURIComponent('File:' + decodeURIComponent(file))}`;
+  const res = await fetch(url, { headers: { 'User-Agent': UA } }).catch(() => null);
+  if (!res?.ok) return null;
+  const j = await res.json().catch(() => null);
+  const ii = Object.values(j?.query?.pages || {})[0]?.imageinfo?.[0];
+  // No thumburl, or one identical to the original, means "not scaled".
+  if (!ii?.thumburl || ii.thumburl === ii.url) return null;
+  return { url: ii.thumburl, w: ii.thumbwidth };
+}
+
+async function main() {
+const files = (await readdir(POSTS)).filter((f) => f.endsWith('.md'));
+const posts = [];
+for (const f of files) {
+  const { data } = matter(await readFile(`${POSTS}/${f}`, 'utf8'));
+  const url = String(data.heroImage?.url || '');
+  if (!isWikimedia(url)) continue;
+  const file = originalFile(url);
+  if (!file) continue;
+  posts.push({ f, url, file, servingOriginal: !stripQuery(url).includes('/thumb/') });
+}
+
+const info = await imageInfo([...new Set(posts.map((p) => p.file))]);
+
+let queryStripped = 0, downsized = 0, skipped = 0;
+for (const p of posts) {
+  let next = stripQuery(p.url);
+  const strippedHere = next !== p.url;
+
+  if (p.servingOriginal) {
+    const meta = info.get(decodeURIComponent(p.file).replace(/ /g, '_')) || info.get(p.file);
+    if (meta?.size > MAX_BYTES && meta.w) {
+      const width = WIDTHS.find((w) => w < meta.w);
+      if (!width) {
+        console.log(`  – ${p.f}: ${(meta.size / 1e6).toFixed(1)}MB at ${meta.w}px — no standard width fits above the 1200px floor`);
+        skipped++;
+      } else {
+        const thumb = await thumbFromApi(p.file, width);
+        if (!thumb) {
+          console.log(`  – ${p.f}: Commons will not render a ${width}px thumbnail`);
+          skipped++;
+        } else {
+          // Confirm the served bytes really are smaller before rewriting —
+          // a broken or heavier hero is worse than the heavy one we have.
+          const head = await fetch(thumb.url, { method: 'HEAD', headers: { 'User-Agent': UA } }).catch(() => null);
+          const bytes = Number(head?.headers.get('content-length') || 0);
+          if (!head?.ok || !bytes) {
+            console.log(`  – ${p.f}: thumbnail did not fetch (${head?.status ?? 'no response'})`);
+            skipped++;
+          } else if (bytes >= meta.size) {
+            console.log(`  – ${p.f}: ${width}px thumbnail is no smaller — left alone`);
+            skipped++;
+          } else {
+            next = thumb.url;
+            downsized++;
+            console.log(`  ✓ ${p.f}: ${(meta.size / 1e6).toFixed(1)}MB → ${(bytes / 1e6).toFixed(2)}MB (${meta.w}px → ${thumb.w}px)`);
+          }
+        }
+      }
+    }
+  }
+
+  if (next === p.url) continue;
+  if (strippedHere && next === stripQuery(p.url)) queryStripped++;
+  if (DRY) continue;
+  const raw = await readFile(`${POSTS}/${p.f}`, 'utf8');
+  const { data, content } = matter(raw);
+  data.heroImage.url = next;
+  await writeFile(`${POSTS}/${p.f}`, `---\n${yaml.dump(data, { lineWidth: -1, noRefs: true, sortKeys: false })}---\n${content}`, 'utf8');
+}
+
+console.log(`\n📎 ${posts.length} wikimedia hero(es): ${queryStripped} tracking quer(ies) stripped · ${downsized} downsized · ${skipped} left as-is${DRY ? ' (DRY)' : ''}`);
+console.log(`HERO_NORMALISE_SUMMARY total=${posts.length} query_stripped=${queryStripped} downsized=${downsized} skipped=${skipped}`);
+}
+
+// ── CLI (only when executed directly, not when imported) ─────
+// Without this, importing the helpers for a test would run the whole rewrite —
+// network calls and file writes included.
+if (process.argv[1]?.endsWith('normalize-wikimedia-heroes.mjs')) await main();

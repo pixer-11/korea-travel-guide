@@ -80,6 +80,14 @@ async function main() {
 
   await writeFile(MANIFEST, JSON.stringify({ images: manifest }, null, 2) + '\n', 'utf8');
   console.log(`\n📦  ${made} made · ${cached} cached · ${failed} failed → ${manifest.length} in manifest\n`);
+
+  // Sweep abandoned thumbs in the same pass that creates new ones. Each file is
+  // named sha1(heroUrl), so every photo swap mints one and orphans another, and
+  // nothing ever collected them: 614 unreachable thumbs (24 MB) had piled up by
+  // 2026-08-04 — more than half of everything being deployed. Running it here
+  // rather than in the seven workflows that call this script stops the two
+  // halves of one job from drifting apart.
+  await import('./prune-wall-thumbs.mjs');
 }
 
 main().catch((e) => { console.error(e); process.exit(1); });

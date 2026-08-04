@@ -6,7 +6,7 @@ region: Bohol
 category: attraction
 pubDate: '2026-07-26T07:50:11.605Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/c/cf/Loay_Interior_Road%2C_Bilar_Man-made_Forest_%28Bilar%2C_Bohol%3B_01-10-2023%29.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Loay_Interior_Road%2C_Bilar_Man-made_Forest_%28Bilar%2C_Bohol%3B_01-10-2023%29.jpg/1920px-Loay_Interior_Road%2C_Bilar_Man-made_Forest_%28Bilar%2C_Bohol%3B_01-10-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Patrickroque01 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Loay_Interior_Road,_Bilar_Man-made_Forest_(Bilar,_Bohol;_01-10-2023).jpg

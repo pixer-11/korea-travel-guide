@@ -6,7 +6,7 @@ region: Marseille
 category: hidden-gem
 pubDate: '2026-07-30T09:59:36.005Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/2/23/Port_antique_de_Marseille.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Port_antique_de_Marseille.jpg/1920px-Port_antique_de_Marseille.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Louis-Julien de la Bouëre / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Port_antique_de_Marseille.jpg

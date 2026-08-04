@@ -1,44 +1,44 @@
 ---
-title: "Grand Canal: Venice Travel Guide"
+title: 'Grand Canal: Venice Travel Guide'
 description: The Grand Canal is Venice's main "street" — a nearly 4km S-shaped waterway lined with palazzi, best seen from a vaporetto (Line 1 is the slow scenic option), a traghetto crossing, or the Rialto and Ponte degli Scalzi bridges.
-country: "Italy"
-region: "Venice"
-category: "attraction"
-pubDate: "2026-07-31T10:03:53.333Z"
+country: Italy
+region: Venice
+category: attraction
+pubDate: '2026-07-31T10:03:53.333Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/5/59/Rainy._The_Grand_Canal_near_the_Rialto_Bridge._Venice.jpg"
-  credit: "Photo: Ввласенко / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Rainy._The_Grand_Canal_near_the_Rialto_Bridge._Venice.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Rainy._The_Grand_Canal_near_the_Rialto_Bridge._Venice.jpg/1920px-Rainy._The_Grand_Canal_near_the_Rialto_Bridge._Venice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Ввласенко / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Rainy._The_Grand_Canal_near_the_Rialto_Bridge._Venice.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Panorama_of_Canal_Grande_and_Ponte_di_Rialto%2C_Venice_-_September_2017.jpg/3840px-Panorama_of_Canal_Grande_and_Ponte_di_Rialto%2C_Venice_-_September_2017.jpg"
-    credit: "Photo: Martin Falbisoner / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Panorama_of_Canal_Grande_and_Ponte_di_Rialto,_Venice_-_September_2017.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Panorama_of_Canal_Grande_and_Ponte_di_Rialto%2C_Venice_-_September_2017.jpg/3840px-Panorama_of_Canal_Grande_and_Ponte_di_Rialto%2C_Venice_-_September_2017.jpg
+    credit: 'Photo: Martin Falbisoner / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Panorama_of_Canal_Grande_and_Ponte_di_Rialto,_Venice_-_September_2017.jpg
 place:
-  id: "ChIJwbaAm8-xfkcRCGBhBMH0yXs"
-  name: "Grand Canal"
-  address: "Grand Canal, 30100 Venice, Metropolitan City of Venice, Italy"
+  id: ChIJwbaAm8-xfkcRCGBhBMH0yXs
+  name: Grand Canal
+  address: Grand Canal, 30100 Venice, Metropolitan City of Venice, Italy
   rating: 4.8
   userRatingsTotal: 2981
-  googleMapsUrl: "https://maps.google.com/?cid=8919929646823333896&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  googleMapsUrl: https://maps.google.com/?cid=8919929646823333896&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   lat: 45.4353957
   lng: 12.3278853
 tags:
-  - "venice"
-  - "Grand Canal Venice"
-quickAnswer: "The Grand Canal is Venice's main \"street\" — a nearly 4km S-shaped waterway lined with palazzi, best seen from a vaporetto (Line 1 is the slow scenic option), a traghetto crossing, or the Rialto and Ponte degli Scalzi bridges. Ride it early morning or after sunset to avoid the worst of the crowds and cruising traffic. Give it at least 45 minutes end-to-end on the vaporetto, longer if you hop off at Rialto or the Salute."
+  - venice
+  - Grand Canal Venice
+quickAnswer: The Grand Canal is Venice's main "street" — a nearly 4km S-shaped waterway lined with palazzi, best seen from a vaporetto (Line 1 is the slow scenic option), a traghetto crossing, or the Rialto and Ponte degli Scalzi bridges. Ride it early morning or after sunset to avoid the worst of the crowds and cruising traffic. Give it at least 45 minutes end-to-end on the vaporetto, longer if you hop off at Rialto or the Salute.
 faq:
-  - q: "What's the best way to see the Grand Canal without a tour?"
-    a: "Ride ACTV vaporetto Line 1 end to end — it stops at nearly every dock and costs the same as a single transit ticket. Sit near the bow for the clearest views."
-  - q: "How long does it take to see the whole canal?"
-    a: "A one-way Line 1 vaporetto ride from the train station to San Marco takes roughly 40-45 minutes; add extra time if you hop off at Rialto or the Salute."
-  - q: "Is a gondola ride necessary to experience the canal?"
-    a: "No — it's a romantic but pricier option best done in early evening light. The vaporetto gives you the same views at a much lower cost."
-  - q: "When is the Grand Canal least crowded?"
-    a: "Before 9am and in the hour after sunset, when boat traffic and dock queues both thin out noticeably compared to midday and afternoon."
-  - q: "What are the main landmarks to watch for from the water?"
-    a: "Ponte di Rialto, Ponte dell'Accademia, Ca' d'Oro, Santa Maria della Salute, and the Palazzo Venier dei Leoni (Peggy Guggenheim Collection) are the standouts along the route."
+  - q: What's the best way to see the Grand Canal without a tour?
+    a: Ride ACTV vaporetto Line 1 end to end — it stops at nearly every dock and costs the same as a single transit ticket. Sit near the bow for the clearest views.
+  - q: How long does it take to see the whole canal?
+    a: A one-way Line 1 vaporetto ride from the train station to San Marco takes roughly 40-45 minutes; add extra time if you hop off at Rialto or the Salute.
+  - q: Is a gondola ride necessary to experience the canal?
+    a: No — it's a romantic but pricier option best done in early evening light. The vaporetto gives you the same views at a much lower cost.
+  - q: When is the Grand Canal least crowded?
+    a: Before 9am and in the hour after sunset, when boat traffic and dock queues both thin out noticeably compared to midday and afternoon.
+  - q: What are the main landmarks to watch for from the water?
+    a: Ponte di Rialto, Ponte dell'Accademia, Ca' d'Oro, Santa Maria della Salute, and the Palazzo Venier dei Leoni (Peggy Guggenheim Collection) are the standouts along the route.
 aiGenerated: true
 draft: false
 ---

@@ -1,36 +1,36 @@
 ---
-title: "The Channel Gardens: New York Travel Guide (4.7★)"
-description: "The Channel Gardens is the narrow, six-pool promenade between the British and French buildings at Rockefeller Center, linking Fifth Avenue to the sunken plaza and the skating rink beyond. 4.7★ (739 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "New York"
-category: "attraction"
-pubDate: "2026-08-04T10:08:39.985Z"
+title: 'The Channel Gardens: New York Travel Guide (4.7★)'
+description: The Channel Gardens is the narrow, six-pool promenade between the British and French buildings at Rockefeller Center, linking Fifth Avenue to the sunken plaza and the skating rink beyond. 4.7★ (739 reviews) — what visitors say, hours, and tips.
+country: United States
+region: New York
+category: attraction
+pubDate: '2026-08-04T10:08:39.985Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/c/cc/Channel_Gardens_Rockefeller_Center_New_York_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-  credit: "Photo: Larry D. Moore / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Channel_Gardens_Rockefeller_Center_New_York_2022.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Channel_Gardens_Rockefeller_Center_New_York_2022.jpg/1920px-Channel_Gardens_Rockefeller_Center_New_York_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Larry D. Moore / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Channel_Gardens_Rockefeller_Center_New_York_2022.jpg
 gallery: []
 place:
-  id: "ChIJ5yWju_5YwokR6dgLgzNaIBw"
-  name: "The Channel Gardens"
-  address: "New York, NY 10020, USA"
+  id: ChIJ5yWju_5YwokR6dgLgzNaIBw
+  name: The Channel Gardens
+  address: New York, NY 10020, USA
   rating: 4.7
   userRatingsTotal: 739
-  googleMapsUrl: "https://maps.google.com/?cid=2026719009605146857&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=2026719009605146857&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 40.7585013
   lng: -73.97808700000002
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-04
+    updated: 2026-08-04T00:00:00.000Z
     weekdayBusy:
       - 9
       - 10
@@ -52,22 +52,22 @@ place:
       - 22
     weekendBusy:
       - 17
-    venueId: "ven_774249614e7a674c676436526b6f7759355f756a5779354a496843"
+    venueId: ven_774249614e7a674c676436526b6f7759355f756a5779354a496843
 tags:
-  - "new york"
-  - "top attraction"
-quickAnswer: "The Channel Gardens is the narrow, six-pool promenade between the British and French buildings at Rockefeller Center, linking Fifth Avenue to the sunken plaza and the skating rink beyond. It's open 24 hours and always free to walk through; the calmest stretch on weekends runs from 7am to 11pm, while the 5–6pm window is the one to skip if you want the flowerbeds to yourself. Budget 10–15 minutes for a stroll, longer if you linger over the seasonal planting."
+  - new york
+  - top attraction
+quickAnswer: The Channel Gardens is the narrow, six-pool promenade between the British and French buildings at Rockefeller Center, linking Fifth Avenue to the sunken plaza and the skating rink beyond. It's open 24 hours and always free to walk through; the calmest stretch on weekends runs from 7am to 11pm, while the 5–6pm window is the one to skip if you want the flowerbeds to yourself. Budget 10–15 minutes for a stroll, longer if you linger over the seasonal planting.
 faq:
-  - q: "Is the Channel Gardens free to visit?"
-    a: "Yes — it's an open public walkway with no admission fee, and it's accessible 24 hours a day, every day."
-  - q: "When is the quietest time to visit?"
-    a: "Weekends between 7am and 11pm are noticeably calmer; try to avoid 5–6pm on weekends, which is the busiest window."
-  - q: "How long should I spend there?"
-    a: "About 10–15 minutes for a walk-through; longer if you visit during the holiday season when the angel light displays and the nearby Christmas tree draw extra attention."
-  - q: "What's the nearest subway stop?"
-    a: "47–50 Sts–Rockefeller Center on the B, D, F, and M lines lets you off right at the plaza; the Fifth Ave/53rd St stop on the E and M is also a short walk."
-  - q: "What's nearby if I want to combine a visit?"
-    a: "The gardens lead straight into the Rockefeller Plaza sunken rink and Prometheus statue, with Radio City Music Hall and St. Patrick's Cathedral both within a few minutes' walk."
+  - q: Is the Channel Gardens free to visit?
+    a: Yes — it's an open public walkway with no admission fee, and it's accessible 24 hours a day, every day.
+  - q: When is the quietest time to visit?
+    a: Weekends between 7am and 11pm are noticeably calmer; try to avoid 5–6pm on weekends, which is the busiest window.
+  - q: How long should I spend there?
+    a: About 10–15 minutes for a walk-through; longer if you visit during the holiday season when the angel light displays and the nearby Christmas tree draw extra attention.
+  - q: What's the nearest subway stop?
+    a: 47–50 Sts–Rockefeller Center on the B, D, F, and M lines lets you off right at the plaza; the Fifth Ave/53rd St stop on the E and M is also a short walk.
+  - q: What's nearby if I want to combine a visit?
+    a: The gardens lead straight into the Rockefeller Plaza sunken rink and Prometheus statue, with Radio City Music Hall and St. Patrick's Cathedral both within a few minutes' walk.
 aiGenerated: true
 draft: false
 ---

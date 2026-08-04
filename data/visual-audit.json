@@ -4947,10 +4947,10 @@
  },
  "seoul-restaurant-san\u0001https://fastly.4sqi.net/img/general/original/sJ7WouHt3xPzCYi1UBqQ2-WZVOzew3GkGBWleJTYNZI.jpg": {
   "slug": "seoul-restaurant-san",
-  "verdict": "MATCH",
-  "reason": "Modern Seoul café interior with beverage and seating",
-  "reasonKo": "서울의 현대적 카페 인테리어와 음료",
-  "at": "2026-08-03T14:37:51.930Z"
+  "verdict": "MISMATCH",
+  "reason": "hero is only 612px wide — unusable as a banner",
+  "reasonKo": "사진이 612px로 너무 작음",
+  "at": "2026-08-04T12:20:49.327Z"
  },
  "seville-catedral-de-sevilla\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Trascoro%2C_Catedral_de_Sevilla%2C_Sevilla%2C_Espa%C3%B1a%2C_2015-12-06%2C_DD_109-111_HDR.JPG/1920px-Trascoro%2C_Catedral_de_Sevilla%2C_Sevilla%2C_Espa%C3%B1a%2C_2015-12-06%2C_DD_109-111_HDR.JPG": {
   "slug": "seville-catedral-de-sevilla",
@@ -5805,5 +5805,257 @@
   "reason": "Mole Antonelliana spire visible down street",
   "reasonKo": "거리 끝 몰레 안토넬리아나 첨탑 보임",
   "at": "2026-08-04T11:59:42.785Z"
+ },
+ "shenzhen-billie-jean-king-cup-finals\u0001https://upload.wikimedia.org/wikipedia/commons/c/cf/Billie_Jean_King_in_2024.jpg": {
+  "slug": "shenzhen-billie-jean-king-cup-finals",
+  "verdict": "MISMATCH",
+  "reason": "hero is only 152px wide — unusable as a banner",
+  "reasonKo": "사진이 152px로 너무 작음",
+  "at": "2026-08-04T12:20:49.331Z"
+ },
+ "barcelona-casa-batllo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Casa_Batll%C3%B3_01.jpg/1920px-Casa_Batll%C3%B3_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "barcelona-casa-batllo",
+  "verdict": "MATCH",
+  "reason": "Casa Batlló's distinctive facade and cross clearly visible.",
+  "reasonKo": "카사 바트요의 특징적인 외관과 십자가가 명확함.",
+  "at": "2026-08-04T12:22:14.414Z"
+ },
+ "barcelona-la-pedrera-casa-mila\u0001https://upload.wikimedia.org/wikipedia/commons/c/c1/Casa_Mil%C3%A0_-_La_Pedrera_-_Barcelona_%2849081929146%29.jpg": {
+  "slug": "barcelona-la-pedrera-casa-mila",
+  "verdict": "MATCH",
+  "reason": "La Pedrera's distinctive curved architecture visible",
+  "reasonKo": "라 페데레라의 특징적인 곡선 구조 명확",
+  "at": "2026-08-04T12:22:16.867Z"
+ },
+ "barcelona-la-rambla\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Barcelona_-_Rambla_dels_Caputxins_-_View_SSE.jpg/1920px-Barcelona_-_Rambla_dels_Caputxins_-_View_SSE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "barcelona-la-rambla",
+  "verdict": "MATCH",
+  "reason": "La Rambla's famous tree-lined pedestrian street, Barcelona",
+  "reasonKo": "바르셀로나 람블라의 특징적인 거리 풍경",
+  "at": "2026-08-04T12:22:19.287Z"
+ },
+ "beijing-the-palace-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Forbidden_City_Beijing_Shenwumen_Gate.JPG/1920px-Forbidden_City_Beijing_Shenwumen_Gate.JPG": {
+  "slug": "beijing-the-palace-museum",
+  "verdict": "MATCH",
+  "reason": "Palace Museum's iconic gate tower, Beijing.",
+  "reasonKo": "베이징 궁박물관의 상징적 건물",
+  "at": "2026-08-04T12:22:21.898Z"
+ },
+ "bohol-bilar-man-made-forest\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Loay_Interior_Road%2C_Bilar_Man-made_Forest_%28Bilar%2C_Bohol%3B_01-10-2023%29.jpg/1920px-Loay_Interior_Road%2C_Bilar_Man-made_Forest_%28Bilar%2C_Bohol%3B_01-10-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "bohol-bilar-man-made-forest",
+  "verdict": "MATCH",
+  "reason": "Forest road with curve markers, Bohol setting",
+  "reasonKo": "보홀의 숲길, 곡선 표지판 있음",
+  "at": "2026-08-04T12:22:24.270Z"
+ },
+ "boracay-i-love-boracay\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/I_love_Boracay.jpg/1920px-I_love_Boracay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "boracay-i-love-boracay",
+  "verdict": "MATCH",
+  "reason": "Sand art clearly depicts Boracay beach setting",
+  "reasonKo": "보라카이 해변을 명확히 나타내는 모래 미술",
+  "at": "2026-08-04T12:22:26.224Z"
+ },
+ "chicago-360-chicago\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Justine_Ezarik_at_the_360_Chicago_Observation_Deck.jpg/1920px-Justine_Ezarik_at_the_360_Chicago_Observation_Deck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "chicago-360-chicago",
+  "verdict": "MATCH",
+  "reason": "Woman at observation deck overlooking Chicago skyline at dus",
+  "reasonKo": "시카고 야경을 배경으로 한 전망대",
+  "at": "2026-08-04T12:22:29.235Z"
+ },
+ "chicago-billy-goat-tavern-the-original\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Billy_Goat_Tavern_%28430_North_Michigan_Avenue%2C_Chicago%2C_Illinois%29_001.jpg/1920px-Billy_Goat_Tavern_%28430_North_Michigan_Avenue%2C_Chicago%2C_Illinois%29_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "chicago-billy-goat-tavern-the-original",
+  "verdict": "MATCH",
+  "reason": "Counter service restaurant with iconic red peppers display",
+  "reasonKo": "카운터 식당, 유명한 빨간 고추 장식",
+  "at": "2026-08-04T12:22:31.773Z"
+ },
+ "chuncheon-nami-island\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Gapyeong-Nami_Island_Ferry.jpg/1920px-Gapyeong-Nami_Island_Ferry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "chuncheon-nami-island",
+  "verdict": "MATCH",
+  "reason": "Ferry boat to Nami Island with flags displayed",
+  "reasonKo": "나미섬 가는 페리보트, �旗게양",
+  "at": "2026-08-04T12:22:33.995Z"
+ },
+ "daegu-trendy-cafe\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Mumbai%2C_India%2C_Trendy_cafe.jpg/1920px-Mumbai%2C_India%2C_Trendy_cafe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "daegu-trendy-cafe",
+  "verdict": "MATCH",
+  "reason": "Modern café interior with Italian branding, yellow walls",
+  "reasonKo": "현대적 카페 인테리어, 이탈리안 브랜드",
+  "at": "2026-08-04T12:22:37.166Z"
+ },
+ "florence-basilica-of-santa-croce-in-florence\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/View_of_Basilica_of_Santa_Croce_from_Giotto%27s_Bell_Tower._Florence%2C_Italy.jpg/1920px-View_of_Basilica_of_Santa_Croce_from_Giotto%27s_Bell_Tower._Florence%2C_Italy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "florence-basilica-of-santa-croce-in-florence",
+  "verdict": "MATCH",
+  "reason": "Basilica of Santa Croce, Florence aerial view",
+  "reasonKo": "피렌체 산타크로체 성당 항공 뷰",
+  "at": "2026-08-04T12:22:39.293Z"
+ },
+ "jinju-jinju-national-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/The_Jinju_National_Museum.jpg/1920px-The_Jinju_National_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "jinju-jinju-national-museum",
+  "verdict": "MATCH",
+  "reason": "Jinju National Museum exterior courtyard architecture",
+  "reasonKo": "진주국립박물관 외부 건축물 및 광장",
+  "at": "2026-08-04T12:22:41.836Z"
+ },
+ "kampong-glam-kampong-glam\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kampong_Glam_aerial_shot_-_20250628_-_RSKY.jpg/1920px-Kampong_Glam_aerial_shot_-_20250628_-_RSKY.jpg": {
+  "slug": "kampong-glam-kampong-glam",
+  "verdict": "MATCH",
+  "reason": "Aerial view of Kampong Glam's distinctive orange-tiled rooft",
+  "reasonKo": "깜퐁글람의 특징적인 주황색 기와지붕",
+  "at": "2026-08-04T12:22:44.066Z"
+ },
+ "los-angeles-eggslut\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Eggslut%2C_Suntec_City_Mall%2C_Singapore.jpg/1920px-Eggslut%2C_Suntec_City_Mall%2C_Singapore.jpg": {
+  "slug": "los-angeles-eggslut",
+  "verdict": "MATCH",
+  "reason": "Modern restaurant storefront with 'eggslut' signage visible",
+  "reasonKo": "에그슬럿 간판이 명확한 현대식 레스토랑",
+  "at": "2026-08-04T12:22:46.472Z"
+ },
+ "los-angeles-griffith-observatory\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Griffith_observatory_2006.jpg/1920px-Griffith_observatory_2006.jpg": {
+  "slug": "los-angeles-griffith-observatory",
+  "verdict": "MATCH",
+  "reason": "Iconic Griffith Observatory with distinctive domes, LA citys",
+  "reasonKo": "그리피스 천문대의 상징적 돔과 LA 도시 전경",
+  "at": "2026-08-04T12:22:48.494Z"
+ },
+ "los-angeles-old-los-angeles-zoo\u0001https://upload.wikimedia.org/wikipedia/commons/9/98/Griffith_Park_Zoo_%28B9957%29.jpg": {
+  "slug": "los-angeles-old-los-angeles-zoo",
+  "verdict": "MATCH",
+  "reason": "Historical zoo with enclosures and animals visible",
+  "reasonKo": "역사적 동물원 울타리와 동물들",
+  "at": "2026-08-04T12:22:50.686Z"
+ },
+ "madrid-chocolateria-san-gines\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Madrid_-_Chocolater%C3%ADa_San_Gin%C3%A9s_%2835682180400%29.jpg/3840px-Madrid_-_Chocolater%C3%ADa_San_Gin%C3%A9s_%2835682180400%29.jpg": {
+  "slug": "madrid-chocolateria-san-gines",
+  "verdict": "MATCH",
+  "reason": "Chocolatería San Ginés storefront in Madrid",
+  "reasonKo": "마드리드 산 히네스 초콜라테리아 외관",
+  "at": "2026-08-04T12:22:53.135Z"
+ },
+ "madrid-temple-of-debod\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Templo_de_Debod_in_Madrid.jpg/1920px-Templo_de_Debod_in_Madrid.jpg": {
+  "slug": "madrid-temple-of-debod",
+  "verdict": "MATCH",
+  "reason": "Temple of Debod exterior at sunset, Madrid",
+  "reasonKo": "마드리드 데봇 신전의 석양 외관",
+  "at": "2026-08-04T12:22:55.353Z"
+ },
+ "new-delhi-india-gate\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/India_Gate%2C_New_Delhi_from_West.jpg/1920px-India_Gate%2C_New_Delhi_from_West.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "new-delhi-india-gate",
+  "verdict": "MATCH",
+  "reason": "Iconic India Gate monument, New Delhi setting",
+  "reasonKo": "뉴델리 인디아 게이트 기념물",
+  "at": "2026-08-04T12:22:58.725Z"
+ },
+ "new-orleans-mother-s-restaurant\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Mother%27s_Restaurant%2C_New_Orleans%2C_Louisiana_for_Some_Po%27Boys.jpg/1920px-Mother%27s_Restaurant%2C_New_Orleans%2C_Louisiana_for_Some_Po%27Boys.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "new-orleans-mother-s-restaurant",
+  "verdict": "MATCH",
+  "reason": "Mother's Restaurant interior with signage clearly visible",
+  "reasonKo": "마더스 레스토랑 간판과 내부 확실히 보임",
+  "at": "2026-08-04T12:23:00.670Z"
+ },
+ "new-york-balthazar\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Balthazar_1_%284691446507%29.jpg/1920px-Balthazar_1_%284691446507%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "new-york-balthazar",
+  "verdict": "MATCH",
+  "reason": "Classic NYC restaurant interior, dining scene, period lighti",
+  "reasonKo": "뉴욕 전형적 레스토랑, 식사 장면",
+  "at": "2026-08-04T12:23:02.479Z"
+ },
+ "new-york-ralph-s-coffee\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Gertrude_Rhinelander_Waldo_House_%2851660337406%29.jpg/1920px-Gertrude_Rhinelander_Waldo_House_%2851660337406%29.jpg": {
+  "slug": "new-york-ralph-s-coffee",
+  "verdict": "MISMATCH",
+  "reason": "Building facade, not cafe interior or food",
+  "reasonKo": "카페 인테리어나 음식 없음",
+  "at": "2026-08-04T12:23:04.553Z"
+ },
+ "new-york-the-channel-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Channel_Gardens_Rockefeller_Center_New_York_2022.jpg/1920px-Channel_Gardens_Rockefeller_Center_New_York_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "new-york-the-channel-gardens",
+  "verdict": "MATCH",
+  "reason": "Channel Gardens at Rockefeller Center, NYC iconic landmark",
+  "reasonKo": "록펠러센터 채널가든, 뉴욕 대표 명소",
+  "at": "2026-08-04T12:23:07.146Z"
+ },
+ "new-york-top-of-the-rock\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/NYC_Top_of_the_Rock_Pano.jpg/3840px-NYC_Top_of_the_Rock_Pano.jpg": {
+  "slug": "new-york-top-of-the-rock",
+  "verdict": "MATCH",
+  "reason": "NYC skyline from observation deck, iconic view",
+  "reasonKo": "전망대에서 본 뉴욕 스카이라인",
+  "at": "2026-08-04T12:23:12.566Z"
+ },
+ "rome-janiculum-hill\u0001https://upload.wikimedia.org/wikipedia/commons/6/66/Janiculum.jpg": {
+  "slug": "rome-janiculum-hill",
+  "verdict": "MATCH",
+  "reason": "Roman hillside architecture, Janiculum landmark buildings vi",
+  "reasonKo": "자니쿨룸 언덕의 로마 건축물",
+  "at": "2026-08-04T12:23:15.526Z"
+ },
+ "seoul-bukchon-hanok-village\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bukchon_Hanok_Village_01.jpg/1920px-Bukchon_Hanok_Village_01.jpg": {
+  "slug": "seoul-bukchon-hanok-village",
+  "verdict": "MATCH",
+  "reason": "Authentic Bukchon Hanok Village street view",
+  "reasonKo": "북촌 한옥마을의 정통 거리 풍경",
+  "at": "2026-08-04T12:23:18.334Z"
+ },
+ "seoul-yeouido-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Yeouido_Park_Pond_201604.jpg/1920px-Yeouido_Park_Pond_201604.jpg": {
+  "slug": "seoul-yeouido-park",
+  "verdict": "MATCH",
+  "reason": "Chinese pagoda, flowers, pond at Yeouido Park",
+  "reasonKo": "여의도공원의 중국정자, 꽃, 연못",
+  "at": "2026-08-04T12:23:20.647Z"
+ },
+ "seville-el-rinconcillo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/El_Rinconcillo_-_Plaza_los_Terercos_-_Seville_%2814678492295%29.jpg/3840px-El_Rinconcillo_-_Plaza_los_Terercos_-_Seville_%2814678492295%29.jpg": {
+  "slug": "seville-el-rinconcillo",
+  "verdict": "MATCH",
+  "reason": "Historic Seville building with restaurant signage visible",
+  "reasonKo": "세비야의 역사적 건물, 레스토랑 간판 보임",
+  "at": "2026-08-04T12:23:23.087Z"
+ },
+ "seville-parque-de-maria-luisa\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Parque_de_Mar%C3%ADa_Luisa_%282%29.jpg/1920px-Parque_de_Mar%C3%ADa_Luisa_%282%29.jpg": {
+  "slug": "seville-parque-de-maria-luisa",
+  "verdict": "MATCH",
+  "reason": "Beautiful park with palms, water features, Seville",
+  "reasonKo": "세빌 공원, 야자수, 연못 시설",
+  "at": "2026-08-04T12:23:25.774Z"
+ },
+ "shanghai-people-s-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Shanghai_-_People%27s_Park_-_0005.jpg/3840px-Shanghai_-_People%27s_Park_-_0005.jpg": {
+  "slug": "shanghai-people-s-park",
+  "verdict": "MATCH",
+  "reason": "Shanghai park with modern skyline, vegetation.",
+  "reasonKo": "상하이 공원, 현대식 고층건물, 식생",
+  "at": "2026-08-04T12:23:29.731Z"
+ },
+ "shanghai-shanghai-tower\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Shanghai_-_Shanghai_Tower_-_0002.jpg/3840px-Shanghai_-_Shanghai_Tower_-_0002.jpg": {
+  "slug": "shanghai-shanghai-tower",
+  "verdict": "MATCH",
+  "reason": "Shanghai Tower dominates skyline, correct location",
+  "reasonKo": "상하이 타워가 스카이라인을 지배함",
+  "at": "2026-08-04T12:23:32.724Z"
+ },
+ "suncheon-suncheon-bay-national-garden\u0001https://upload.wikimedia.org/wikipedia/commons/4/43/Panorama_of_International_Garden_Exposition_Suncheon_Bay_Korea_2013.jpg": {
+  "slug": "suncheon-suncheon-bay-national-garden",
+  "verdict": "MATCH",
+  "reason": "Suncheon Bay garden landscape with wetlands and mountains",
+  "reasonKo": "순천만 습지원의 풍경과 산맥이 보임",
+  "at": "2026-08-04T12:23:37.723Z"
+ },
+ "valencia-tapas-boatella\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Boatella_Tapas_Sardines.jpg/1920px-Boatella_Tapas_Sardines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "valencia-tapas-boatella",
+  "verdict": "MATCH",
+  "reason": "Plated tapas dish with seafood and olives",
+  "reasonKo": "해산물과 올리브를 곁들인 타파스",
+  "at": "2026-08-04T12:23:40.470Z"
+ },
+ "venice-grand-canal\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Rainy._The_Grand_Canal_near_the_Rialto_Bridge._Venice.jpg/1920px-Rainy._The_Grand_Canal_near_the_Rialto_Bridge._Venice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "venice-grand-canal",
+  "verdict": "MATCH",
+  "reason": "Iconic Grand Canal Venice with gondolas, buildings",
+  "reasonKo": "베니스 그랜드 운하, 곤돌라, 건축물",
+  "at": "2026-08-04T12:23:43.240Z"
+ },
+ "xian-ancient-city-wall\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Towers_of_ancient_city_wall%2C_Xi%27an%2C_China_-_panoramio.jpg/1920px-Towers_of_ancient_city_wall%2C_Xi%27an%2C_China_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "xian-ancient-city-wall",
+  "verdict": "MATCH",
+  "reason": "Xi'an city wall with authentic architecture clearly visible",
+  "reasonKo": "시안 성벽의 정통 건축물이 명확히 보임",
+  "at": "2026-08-04T12:23:45.475Z"
  }
 }

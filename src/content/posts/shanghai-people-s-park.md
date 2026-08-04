@@ -1,33 +1,33 @@
 ---
-title: "People's Park: Shanghai Travel Guide (4.4★)"
-description: "People's Park is a genuinely restful green pocket in the middle of People's Square, wedged between the Shanghai Museum, the Shanghai Urban Planning Exhibition Center, and a wall of skyscrapers on Nanjing Xi Lu. 4.4★ (903 reviews) — what visitors say, hours, and tips."
-country: "China"
-region: "Shanghai"
-category: "hidden-gem"
-pubDate: "2026-08-04T10:21:03.975Z"
+title: 'People''s Park: Shanghai Travel Guide (4.4★)'
+description: People's Park is a genuinely restful green pocket in the middle of People's Square, wedged between the Shanghai Museum, the Shanghai Urban Planning Exhibition Center, and a wall of skyscrapers on Nanjing Xi Lu. 4.4★ (903 reviews) — what visitors say, hours, and tips.
+country: China
+region: Shanghai
+category: hidden-gem
+pubDate: '2026-08-04T10:21:03.975Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Shanghai_-_People%27s_Park_-_0005.jpg/3840px-Shanghai_-_People%27s_Park_-_0005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  credit: "Photo: Stefan Fussan / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Shanghai_-_People%27s_Park_-_0005.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Shanghai_-_People%27s_Park_-_0005.jpg/3840px-Shanghai_-_People%27s_Park_-_0005.jpg
+  credit: 'Photo: Stefan Fussan / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Shanghai_-_People%27s_Park_-_0005.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Shanghai_-_People%27s_Park_-_0017.jpg/3840px-Shanghai_-_People%27s_Park_-_0017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    credit: "Photo: Stefan Fussan / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Shanghai_-_People%27s_Park_-_0017.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Shanghai_-_People%27s_Park_-_0017.jpg/3840px-Shanghai_-_People%27s_Park_-_0017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: 'Photo: Stefan Fussan / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Shanghai_-_People%27s_Park_-_0017.jpg
 place:
-  id: "ChIJCyKw82pwsjURaeSnC8R9EXI"
-  name: "People's Park"
-  address: "231 Nan Jing Xi Lu, People's Square, Huang Pu Qu, Shang Hai Shi, China, 200003"
+  id: ChIJCyKw82pwsjURaeSnC8R9EXI
+  name: People's Park
+  address: 231 Nan Jing Xi Lu, People's Square, Huang Pu Qu, Shang Hai Shi, China, 200003
   rating: 4.4
   userRatingsTotal: 903
-  googleMapsUrl: "https://maps.google.com/?cid=8219489075890480233&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=8219489075890480233&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 31.232225999999997
   lng: 121.473219
-  phone: "+86 21 6358 6128"
+  phone: +86 21 6358 6128
   busyness:
-    updated: 2026-08-04
+    updated: 2026-08-04T00:00:00.000Z
     weekdayQuiet:
       - 7
     weekdayBusy:
@@ -54,22 +54,22 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_495845395238436e53656152556a7377703238774b79434a496843"
+    venueId: ven_495845395238436e53656152556a7377703238774b79434a496843
 tags:
-  - "shanghai"
-  - "hidden gem"
-quickAnswer: "People's Park is a genuinely restful green pocket in the middle of People's Square, wedged between the Shanghai Museum, the Shanghai Urban Planning Exhibition Center, and a wall of skyscrapers on Nanjing Xi Lu. Go on foot from People's Square Station (Lines 1, 2, 8) and aim for 7am–9am, when the crowdData shows the lowest foot traffic and the park still belongs to the tai chi crowd and dog-walkers. Budget 45 minutes to an hour for a loop around the pond, the wooded paths, and a coffee at the Barbarossa lakeside cafe."
+  - shanghai
+  - hidden gem
+quickAnswer: People's Park is a genuinely restful green pocket in the middle of People's Square, wedged between the Shanghai Museum, the Shanghai Urban Planning Exhibition Center, and a wall of skyscrapers on Nanjing Xi Lu. Go on foot from People's Square Station (Lines 1, 2, 8) and aim for 7am–9am, when the crowdData shows the lowest foot traffic and the park still belongs to the tai chi crowd and dog-walkers. Budget 45 minutes to an hour for a loop around the pond, the wooded paths, and a coffee at the Barbarossa lakeside cafe.
 faq:
-  - q: "How do I get to People's Park?"
-    a: "Take Metro Lines 1, 2, or 8 to People's Square Station — several exits open directly onto the park. It's also an easy 15–20 minute walk west from the Bund along Nanjing Road."
-  - q: "What is the quietest time to visit?"
-    a: "Weekdays between 7am and 8am, or weekends between 7am and 9am, based on measured foot-traffic data. Weekend crowds build steadily and stay busy from about 10am until 11pm."
-  - q: "How much time should I plan for a visit?"
-    a: "About 45 minutes to an hour for a full loop of the pond and wooded paths; add another 30–45 minutes if you stop at the Barbarossa lakeside cafe."
-  - q: "Is there an entrance fee?"
-    a: "No, the park itself is free and open to walk into from any of its gates around People's Square."
-  - q: "What else is nearby?"
-    a: "The Shanghai Museum, the Shanghai Urban Planning Exhibition Center, MOCA Shanghai (inside the park's grounds), and the Nanjing Road pedestrian shopping street are all within a few minutes' walk."
+  - q: How do I get to People's Park?
+    a: Take Metro Lines 1, 2, or 8 to People's Square Station — several exits open directly onto the park. It's also an easy 15–20 minute walk west from the Bund along Nanjing Road.
+  - q: What is the quietest time to visit?
+    a: Weekdays between 7am and 8am, or weekends between 7am and 9am, based on measured foot-traffic data. Weekend crowds build steadily and stay busy from about 10am until 11pm.
+  - q: How much time should I plan for a visit?
+    a: About 45 minutes to an hour for a full loop of the pond and wooded paths; add another 30–45 minutes if you stop at the Barbarossa lakeside cafe.
+  - q: Is there an entrance fee?
+    a: No, the park itself is free and open to walk into from any of its gates around People's Square.
+  - q: What else is nearby?
+    a: The Shanghai Museum, the Shanghai Urban Planning Exhibition Center, MOCA Shanghai (inside the park's grounds), and the Nanjing Road pedestrian shopping street are all within a few minutes' walk.
 aiGenerated: true
 draft: false
 ---

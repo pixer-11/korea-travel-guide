@@ -8,7 +8,7 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-09-05'
 eventEndDate: '2026-09-05'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/a/a3/Miss_World_Ireland_2022_Ivanna_McMahon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  url: https://upload.wikimedia.org/wikipedia/commons/a/a3/Miss_World_Ireland_2022_Ivanna_McMahon.jpg
   credit: 'Photo: Missirelandd / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Miss_World_Ireland_2022_Ivanna_McMahon.jpg

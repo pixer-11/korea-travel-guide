@@ -1,50 +1,50 @@
 ---
-title: "Yeouido Park: Seoul Travel Guide (4.4★)"
-description: "Yeouido Park is a sprawling green corridor on Yeouido island in western Seoul, best known for its cherry blossom promenade (peak bloom is usually the first week of April) and its car-free lawns, ponds and cycling paths. 4.4★ (6,202 reviews) — what visitors say, hours, and tips."
-country: "South Korea"
-region: "Seoul"
-category: "attraction"
-pubDate: "2026-08-04T10:32:24.776Z"
+title: 'Yeouido Park: Seoul Travel Guide (4.4★)'
+description: Yeouido Park is a sprawling green corridor on Yeouido island in western Seoul, best known for its cherry blossom promenade (peak bloom is usually the first week of April) and its car-free lawns, ponds and cycling paths. 4.4★ (6,202 reviews) — what visitors say, hours, and tips.
+country: South Korea
+region: Seoul
+category: attraction
+pubDate: '2026-08-04T10:32:24.776Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Yeouido_Park_Pond_201604.jpg/1920px-Yeouido_Park_Pond_201604.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  credit: "Photo: Wpcpey / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Yeouido_Park_Pond_201604.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Yeouido_Park_Pond_201604.jpg/1920px-Yeouido_Park_Pond_201604.jpg
+  credit: 'Photo: Wpcpey / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Yeouido_Park_Pond_201604.jpg
 gallery: []
 place:
-  id: "ChIJwdG3fCKffDURTqwXKg_qbBA"
-  name: "Yeouido Park"
-  address: "68 Yeouigongwon-ro, Yeongdeungpo District, Seoul, South Korea"
+  id: ChIJwdG3fCKffDURTqwXKg_qbBA
+  name: Yeouido Park
+  address: 68 Yeouigongwon-ro, Yeongdeungpo District, Seoul, South Korea
   rating: 4.4
   userRatingsTotal: 6202
-  googleMapsUrl: "https://maps.google.com/?cid=1183578152943201358&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=1183578152943201358&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.5262751
   lng: 126.9228132
-  phone: "+82 2-761-4078"
+  phone: +82 2-761-4078
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "seoul"
-  - "park"
-quickAnswer: "Yeouido Park is a sprawling green corridor on Yeouido island in western Seoul, best known for its cherry blossom promenade (peak bloom is usually the first week of April) and its car-free lawns, ponds and cycling paths. It's open 24 hours, free to enter, and easiest to reach via Yeouinaru Station (Line 5, Exit 2 or 3). Go on a weekday morning or after sunset to avoid the crowds that pack it on spring weekends."
+  - seoul
+  - park
+quickAnswer: Yeouido Park is a sprawling green corridor on Yeouido island in western Seoul, best known for its cherry blossom promenade (peak bloom is usually the first week of April) and its car-free lawns, ponds and cycling paths. It's open 24 hours, free to enter, and easiest to reach via Yeouinaru Station (Line 5, Exit 2 or 3). Go on a weekday morning or after sunset to avoid the crowds that pack it on spring weekends.
 faq:
-  - q: "How do I get to Yeouido Park by subway?"
-    a: "Take Line 5 to Yeouinaru Station and leave via Exit 2 or 3 — the park is right there. Yeouido Station (Lines 5 and 9) works too if you're also visiting IFC Mall or the National Assembly."
-  - q: "Is there an entrance fee?"
-    a: "No, Yeouido Park is free and open 24 hours a day, with no gates or ticket booths."
-  - q: "When is cherry blossom season here?"
-    a: "Bloom typically peaks in the last few days of March or the first week of April, coinciding with the Yeongdeungpo Yeouido Spring Flower Festival, though exact timing shifts year to year with the weather."
-  - q: "What's the least crowded time to visit?"
-    a: "Weekday mornings, especially outside the late-March to early-April blossom window, are far quieter than spring weekends and festival evenings."
-  - q: "How long should I plan to spend there?"
-    a: "An hour or two covers a relaxed walk through the main sections; add more time if you plan to cycle the full length or continue onto the adjacent Han River bike path."
+  - q: How do I get to Yeouido Park by subway?
+    a: Take Line 5 to Yeouinaru Station and leave via Exit 2 or 3 — the park is right there. Yeouido Station (Lines 5 and 9) works too if you're also visiting IFC Mall or the National Assembly.
+  - q: Is there an entrance fee?
+    a: No, Yeouido Park is free and open 24 hours a day, with no gates or ticket booths.
+  - q: When is cherry blossom season here?
+    a: Bloom typically peaks in the last few days of March or the first week of April, coinciding with the Yeongdeungpo Yeouido Spring Flower Festival, though exact timing shifts year to year with the weather.
+  - q: What's the least crowded time to visit?
+    a: Weekday mornings, especially outside the late-March to early-April blossom window, are far quieter than spring weekends and festival evenings.
+  - q: How long should I plan to spend there?
+    a: An hour or two covers a relaxed walk through the main sections; add more time if you plan to cycle the full length or continue onto the adjacent Han River bike path.
 aiGenerated: true
 ---
 

@@ -6,7 +6,7 @@ region: Naples
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Amphitheatre%2C_Archaeological_Park_of_Pompeii%2C_Italy_%28PPL2-Enhanced%29_julesvernex2.jpg/3840px-Amphitheatre%2C_Archaeological_Park_of_Pompeii%2C_Italy_%28PPL2-Enhanced%29_julesvernex2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Amphitheatre%2C_Archaeological_Park_of_Pompeii%2C_Italy_%28PPL2-Enhanced%29_julesvernex2.jpg/3840px-Amphitheatre%2C_Archaeological_Park_of_Pompeii%2C_Italy_%28PPL2-Enhanced%29_julesvernex2.jpg
   credit: 'Photo: Jules Verne Times Two / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Amphitheatre,_Archaeological_Park_of_Pompeii,_Italy_(PPL2-Enhanced)_julesvernex2.jpg

@@ -1,18 +1,18 @@
 ---
-title: "The Palace Museum: Beijing Travel Guide (4.6★)"
+title: 'The Palace Museum: Beijing Travel Guide (4.6★)'
 description: The Palace Museum (better known as the Forbidden City) is Beijing's must-see imperial palace complex, open Tuesday–Sunday 8:30am–4:30pm and closed Mondays. 4.6★ (16,721 reviews) — what visitors say, hours, and tips.
 country: China
 region: Beijing
 category: hidden-gem
-pubDate: "2026-08-04T10:11:48.891Z"
+pubDate: '2026-08-04T10:11:48.891Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Forbidden_City_Beijing_Shenwumen_Gate.JPG/1920px-Forbidden_City_Beijing_Shenwumen_Gate.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  credit: "Photo: user:kallgan / Wikimedia Commons (CC BY-SA 3.0)"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Forbidden_City_Beijing_Shenwumen_Gate.JPG/1920px-Forbidden_City_Beijing_Shenwumen_Gate.JPG
+  credit: 'Photo: user:kallgan / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Forbidden_City_Beijing_Shenwumen_Gate.JPG
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/0/02/The_Palace_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
-    credit: "Photo: Kikolipu / Wikimedia Commons (CC0)"
+    credit: 'Photo: Kikolipu / Wikimedia Commons (CC0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:The_Palace_Museum.jpg
 place:
@@ -28,13 +28,13 @@ place:
   lng: 116.3971546
   phone: +86 400 950 1925
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 8:30 AM – 4:30 PM"
-    - "Wednesday: 8:30 AM – 4:30 PM"
-    - "Thursday: 8:30 AM – 4:30 PM"
-    - "Friday: 8:30 AM – 4:30 PM"
-    - "Saturday: 8:30 AM – 4:30 PM"
-    - "Sunday: 8:30 AM – 4:30 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 8:30 AM – 4:30 PM'
+    - 'Wednesday: 8:30 AM – 4:30 PM'
+    - 'Thursday: 8:30 AM – 4:30 PM'
+    - 'Friday: 8:30 AM – 4:30 PM'
+    - 'Saturday: 8:30 AM – 4:30 PM'
+    - 'Sunday: 8:30 AM – 4:30 PM'
   busyness:
     updated: 2026-08-04T00:00:00.000Z
     weekdayQuiet:

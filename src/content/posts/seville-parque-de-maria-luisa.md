@@ -1,41 +1,41 @@
 ---
-title: "Parque de María Luisa: Seville Travel Guide (4.8★)"
-description: "Parque de María Luisa is Seville's grand 19th-century park just south of the city centre, best explored on foot or by rented bike in the early morning. 4.8★ (42,231 reviews) — what visitors say, hours, and tips."
-country: "Spain"
-region: "Seville"
-category: "hidden-gem"
-pubDate: "2026-08-04T10:13:13.132Z"
+title: 'Parque de María Luisa: Seville Travel Guide (4.8★)'
+description: Parque de María Luisa is Seville's grand 19th-century park just south of the city centre, best explored on foot or by rented bike in the early morning. 4.8★ (42,231 reviews) — what visitors say, hours, and tips.
+country: Spain
+region: Seville
+category: hidden-gem
+pubDate: '2026-08-04T10:13:13.132Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Parque_de_Mar%C3%ADa_Luisa_%282%29.jpg/1920px-Parque_de_Mar%C3%ADa_Luisa_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  credit: "Photo: Gzzz / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Parque_de_Mar%C3%ADa_Luisa_(2).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Parque_de_Mar%C3%ADa_Luisa_%282%29.jpg/1920px-Parque_de_Mar%C3%ADa_Luisa_%282%29.jpg
+  credit: 'Photo: Gzzz / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Parque_de_Mar%C3%ADa_Luisa_(2).jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Parque_de_Mar%C3%ADa_Luisa%2C_Sevilla%2C_Oct_1999_-_03.jpg/3840px-Parque_de_Mar%C3%ADa_Luisa%2C_Sevilla%2C_Oct_1999_-_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    credit: "Photo: Infrogmation / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Parque_de_Mar%C3%ADa_Luisa,_Sevilla,_Oct_1999_-_03.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Parque_de_Mar%C3%ADa_Luisa%2C_Sevilla%2C_Oct_1999_-_03.jpg/3840px-Parque_de_Mar%C3%ADa_Luisa%2C_Sevilla%2C_Oct_1999_-_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: 'Photo: Infrogmation / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Parque_de_Mar%C3%ADa_Luisa,_Sevilla,_Oct_1999_-_03.jpg
 place:
-  id: "ChIJ7zUaHSRsEg0RQugeffDytmg"
-  name: "Parque de María Luisa"
-  address: "41013 Seville, Spain"
+  id: ChIJ7zUaHSRsEg0RQugeffDytmg
+  name: Parque de María Luisa
+  address: 41013 Seville, Spain
   rating: 4.8
   userRatingsTotal: 42231
-  googleMapsUrl: "https://maps.google.com/?cid=7545485340411095106&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=7545485340411095106&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.3741832
   lng: -5.9872231
-  phone: "+34 955 47 32 32"
+  phone: +34 955 47 32 32
   openingHours:
-    - "Monday: 8:00 AM – 12:00 AM"
-    - "Tuesday: 8:00 AM – 12:00 AM"
-    - "Wednesday: 8:00 AM – 12:00 AM"
-    - "Thursday: 8:00 AM – 12:00 AM"
-    - "Friday: 8:00 AM – 12:00 AM"
-    - "Saturday: 8:00 AM – 12:00 AM"
-    - "Sunday: 8:00 AM – 12:00 AM"
+    - 'Monday: 8:00 AM – 12:00 AM'
+    - 'Tuesday: 8:00 AM – 12:00 AM'
+    - 'Wednesday: 8:00 AM – 12:00 AM'
+    - 'Thursday: 8:00 AM – 12:00 AM'
+    - 'Friday: 8:00 AM – 12:00 AM'
+    - 'Saturday: 8:00 AM – 12:00 AM'
+    - 'Sunday: 8:00 AM – 12:00 AM'
   busyness:
-    updated: 2026-08-04
+    updated: 2026-08-04T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 22
@@ -50,22 +50,22 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_676d747944666665677551523067457352534861557a374a496843"
+    venueId: ven_676d747944666665677551523067457352534861557a374a496843
 tags:
-  - "seville"
-  - "hidden gem"
-quickAnswer: "Parque de María Luisa is Seville's grand 19th-century park just south of the city centre, best explored on foot or by rented bike in the early morning. With over 42,000 reviews and a 4.8 rating, it's firmly on the tourist trail (not a hidden secret), so aim for opening time — 8am on weekdays is calmest, and on weekends the window before 10am beats the 11am–6pm crush. Budget two to three hours to cover Plaza de España, Plaza de América, and the shaded avenues in between."
+  - seville
+  - hidden gem
+quickAnswer: Parque de María Luisa is Seville's grand 19th-century park just south of the city centre, best explored on foot or by rented bike in the early morning. With over 42,000 reviews and a 4.8 rating, it's firmly on the tourist trail (not a hidden secret), so aim for opening time — 8am on weekdays is calmest, and on weekends the window before 10am beats the 11am–6pm crush. Budget two to three hours to cover Plaza de España, Plaza de América, and the shaded avenues in between.
 faq:
-  - q: "How do I get to Parque de María Luisa from central Seville?"
-    a: "It's a 15–20 minute walk south from the Cathedral and Real Alcázar via Avenida de Roma or Paseo de las Delicias. Buses C5 and C6 also circle the park, and Sevici bike docks sit at several entrances."
-  - q: "What is the quietest time to visit?"
-    a: "On weekdays the park stays calm from opening at 8am right through to 11pm. On weekends, go between 8am and 10am — traffic builds fast after that, peaking from 11am to 6pm."
-  - q: "Is there an entrance fee?"
-    a: "No, the park is free to enter and open daily from 8am to midnight. You only pay if you rent a bike, a rowboat on the Plaza de España moat, or take a horse-drawn carriage ride."
-  - q: "How long should I plan to spend there?"
-    a: "Two to three hours covers the main highlights — Plaza de España, Plaza de América, and the shaded central paths — though it's easy to linger longer given the park's size."
-  - q: "What's nearby if I want to combine it with other sights?"
-    a: "The park borders Plaza de España to the north and connects easily to the Cathedral, Real Alcázar, and Barrio de Santa Cruz, all within a 15–20 minute walk."
+  - q: How do I get to Parque de María Luisa from central Seville?
+    a: It's a 15–20 minute walk south from the Cathedral and Real Alcázar via Avenida de Roma or Paseo de las Delicias. Buses C5 and C6 also circle the park, and Sevici bike docks sit at several entrances.
+  - q: What is the quietest time to visit?
+    a: On weekdays the park stays calm from opening at 8am right through to 11pm. On weekends, go between 8am and 10am — traffic builds fast after that, peaking from 11am to 6pm.
+  - q: Is there an entrance fee?
+    a: No, the park is free to enter and open daily from 8am to midnight. You only pay if you rent a bike, a rowboat on the Plaza de España moat, or take a horse-drawn carriage ride.
+  - q: How long should I plan to spend there?
+    a: Two to three hours covers the main highlights — Plaza de España, Plaza de América, and the shaded central paths — though it's easy to linger longer given the park's size.
+  - q: What's nearby if I want to combine it with other sights?
+    a: The park borders Plaza de España to the north and connects easily to the Cathedral, Real Alcázar, and Barrio de Santa Cruz, all within a 15–20 minute walk.
 aiGenerated: true
 draft: false
 ---

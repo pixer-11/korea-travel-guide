@@ -1,41 +1,41 @@
 ---
-title: "Temple of Debod: Madrid Travel Guide (4.4★)"
-description: "The Temple of Debod is a genuine 2,200-year-old Egyptian temple, gifted to Spain in 1968 and rebuilt on a hill in Parque del Oeste, near Príncipe Pío and Plaza de España. 4.4★ (68,952 reviews) — what visitors say, hours, and tips."
-country: "Spain"
-region: "Madrid"
-category: "hidden-gem"
-pubDate: "2026-08-04T10:18:47.825Z"
+title: 'Temple of Debod: Madrid Travel Guide (4.4★)'
+description: The Temple of Debod is a genuine 2,200-year-old Egyptian temple, gifted to Spain in 1968 and rebuilt on a hill in Parque del Oeste, near Príncipe Pío and Plaza de España. 4.4★ (68,952 reviews) — what visitors say, hours, and tips.
+country: Spain
+region: Madrid
+category: hidden-gem
+pubDate: '2026-08-04T10:18:47.825Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Templo_de_Debod_in_Madrid.jpg/1920px-Templo_de_Debod_in_Madrid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  credit: "Photo: https://www.flickr.com/photos/jiuguangw / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Templo_de_Debod_in_Madrid.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Templo_de_Debod_in_Madrid.jpg/1920px-Templo_de_Debod_in_Madrid.jpg
+  credit: 'Photo: https://www.flickr.com/photos/jiuguangw / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Templo_de_Debod_in_Madrid.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Templo_de_Debod%2C_Madrid%2C_Espa%C3%B1a%2C_2023-01-03%2C_DD_89-91_HDR.jpg/3840px-Templo_de_Debod%2C_Madrid%2C_Espa%C3%B1a%2C_2023-01-03%2C_DD_89-91_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    credit: "Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Templo_de_Debod,_Madrid,_Espa%C3%B1a,_2023-01-03,_DD_89-91_HDR.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Templo_de_Debod%2C_Madrid%2C_Espa%C3%B1a%2C_2023-01-03%2C_DD_89-91_HDR.jpg/3840px-Templo_de_Debod%2C_Madrid%2C_Espa%C3%B1a%2C_2023-01-03%2C_DD_89-91_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Templo_de_Debod,_Madrid,_Espa%C3%B1a,_2023-01-03,_DD_89-91_HDR.jpg
 place:
-  id: "ChIJWRLqi24oQg0RqwZ3SsbZah0"
-  name: "Temple of Debod"
-  address: "C. de Ferraz, 1, Moncloa - Aravaca, 28008 Madrid, Spain"
+  id: ChIJWRLqi24oQg0RqwZ3SsbZah0
+  name: Temple of Debod
+  address: C. de Ferraz, 1, Moncloa - Aravaca, 28008 Madrid, Spain
   rating: 4.4
   userRatingsTotal: 68952
-  googleMapsUrl: "https://maps.google.com/?cid=2119746020307306155&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=2119746020307306155&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 40.424021599999996
   lng: -3.7177694999999993
-  phone: "+34 913 66 74 15"
+  phone: +34 913 66 74 15
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 8:00 PM"
-    - "Wednesday: 10:00 AM – 8:00 PM"
-    - "Thursday: 10:00 AM – 8:00 PM"
-    - "Friday: 10:00 AM – 8:00 PM"
-    - "Saturday: 10:00 AM – 8:00 PM"
-    - "Sunday: 10:00 AM – 8:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 8:00 PM'
+    - 'Wednesday: 10:00 AM – 8:00 PM'
+    - 'Thursday: 10:00 AM – 8:00 PM'
+    - 'Friday: 10:00 AM – 8:00 PM'
+    - 'Saturday: 10:00 AM – 8:00 PM'
+    - 'Sunday: 10:00 AM – 8:00 PM'
   busyness:
-    updated: 2026-08-04
+    updated: 2026-08-04T00:00:00.000Z
     weekdayBusy:
       - 17
       - 18
@@ -46,22 +46,22 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_3068615a627353335a7771523067516f343269714c52574a496843"
+    venueId: ven_3068615a627353335a7771523067516f343269714c52574a496843
 tags:
-  - "madrid"
-  - "hidden gem"
-quickAnswer: "The Temple of Debod is a genuine 2,200-year-old Egyptian temple, gifted to Spain in 1968 and rebuilt on a hill in Parque del Oeste, near Príncipe Pío and Plaza de España. It's open Tuesday–Sunday, 10am–8pm (closed Mondays), free to walk around outside, and best visited around an hour before sunset — just try to arrive before the 3pm–8pm weekend crush sets in."
+  - madrid
+  - hidden gem
+quickAnswer: The Temple of Debod is a genuine 2,200-year-old Egyptian temple, gifted to Spain in 1968 and rebuilt on a hill in Parque del Oeste, near Príncipe Pío and Plaza de España. It's open Tuesday–Sunday, 10am–8pm (closed Mondays), free to walk around outside, and best visited around an hour before sunset — just try to arrive before the 3pm–8pm weekend crush sets in.
 faq:
-  - q: "Is the Temple of Debod free to visit?"
-    a: "Yes — the surrounding gardens, pools, and terrace are open and free to walk around at any time. There's a small interior museum area that follows the official Tuesday–Sunday, 10am–8pm hours; check current admission details before you go since these can change."
-  - q: "What's the best time of day to see it?"
-    a: "Sunset is the classic time, when the sandstone glows and you get panoramic views over the Manzanares valley. For fewer crowds, go right at opening, 10am, especially on a weekday."
-  - q: "When should I avoid visiting?"
-    a: "Weekend afternoons from 3pm to 8pm are the busiest stretch, so if you want a calmer visit, come earlier in the day or on a weekday."
-  - q: "How do I get there by metro?"
-    a: "Take Line 3 or 10 to Plaza de España, or Line 6, 10, or R to Príncipe Pío, then walk 10 minutes through Parque del Oeste."
-  - q: "How long should I plan for the visit?"
-    a: "About 20–30 minutes to see the temple and terrace, plus another 20 minutes if you go into the small on-site museum."
+  - q: Is the Temple of Debod free to visit?
+    a: Yes — the surrounding gardens, pools, and terrace are open and free to walk around at any time. There's a small interior museum area that follows the official Tuesday–Sunday, 10am–8pm hours; check current admission details before you go since these can change.
+  - q: What's the best time of day to see it?
+    a: Sunset is the classic time, when the sandstone glows and you get panoramic views over the Manzanares valley. For fewer crowds, go right at opening, 10am, especially on a weekday.
+  - q: When should I avoid visiting?
+    a: Weekend afternoons from 3pm to 8pm are the busiest stretch, so if you want a calmer visit, come earlier in the day or on a weekday.
+  - q: How do I get there by metro?
+    a: Take Line 3 or 10 to Plaza de España, or Line 6, 10, or R to Príncipe Pío, then walk 10 minutes through Parque del Oeste.
+  - q: How long should I plan for the visit?
+    a: About 20–30 minutes to see the temple and terrace, plus another 20 minutes if you go into the small on-site museum.
 aiGenerated: true
 draft: false
 ---

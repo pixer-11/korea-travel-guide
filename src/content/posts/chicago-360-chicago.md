@@ -1,41 +1,41 @@
 ---
-title: "360 CHICAGO: Travel Guide"
-description: "360 CHICAGO sits on the 94th floor of the John Hancock building at 875 N Michigan Ave, open daily 9am–11pm."
-country: "United States"
-region: "Chicago"
-category: "hidden-gem"
-pubDate: "2026-08-01T09:43:00.182Z"
+title: '360 CHICAGO: Travel Guide'
+description: 360 CHICAGO sits on the 94th floor of the John Hancock building at 875 N Michigan Ave, open daily 9am–11pm.
+country: United States
+region: Chicago
+category: hidden-gem
+pubDate: '2026-08-01T09:43:00.182Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/5/56/Justine_Ezarik_at_the_360_Chicago_Observation_Deck.jpg"
-  credit: "Photo: Karen / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Justine_Ezarik_at_the_360_Chicago_Observation_Deck.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Justine_Ezarik_at_the_360_Chicago_Observation_Deck.jpg/1920px-Justine_Ezarik_at_the_360_Chicago_Observation_Deck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Karen / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Justine_Ezarik_at_the_360_Chicago_Observation_Deck.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Chicago_sunset_from_360_Chicago_observatory_%2832935871007%29.jpg/3840px-Chicago_sunset_from_360_Chicago_observatory_%2832935871007%29.jpg"
-    credit: "Photo: Bex Walton from London, England / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Chicago_sunset_from_360_Chicago_observatory_(32935871007).jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Chicago_sunset_from_360_Chicago_observatory_%2832935871007%29.jpg/3840px-Chicago_sunset_from_360_Chicago_observatory_%2832935871007%29.jpg
+    credit: 'Photo: Bex Walton from London, England / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Chicago_sunset_from_360_Chicago_observatory_(32935871007).jpg
 place:
-  id: "ChIJNbKQElTTD4gRdOsDd3qTFHM"
-  name: "360 CHICAGO"
-  address: "875 N Michigan Ave 94th floor, Chicago, IL 60611, USA"
+  id: ChIJNbKQElTTD4gRdOsDd3qTFHM
+  name: 360 CHICAGO
+  address: 875 N Michigan Ave 94th floor, Chicago, IL 60611, USA
   rating: 4.5
   userRatingsTotal: 20954
-  googleMapsUrl: "https://maps.google.com/?cid=8292414968087964532&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=8292414968087964532&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.8990104
   lng: -87.6232416
-  phone: '+1 888 875-8439'
+  phone: +1 888 875-8439
   openingHours:
-    - "Monday: 9:00 AM – 11:00 PM"
-    - "Tuesday: 9:00 AM – 11:00 PM"
-    - "Wednesday: 9:00 AM – 11:00 PM"
-    - "Thursday: 9:00 AM – 11:00 PM"
-    - "Friday: 9:00 AM – 11:00 PM"
-    - "Saturday: 9:00 AM – 11:00 PM"
-    - "Sunday: 9:00 AM – 11:00 PM"
+    - 'Monday: 9:00 AM – 11:00 PM'
+    - 'Tuesday: 9:00 AM – 11:00 PM'
+    - 'Wednesday: 9:00 AM – 11:00 PM'
+    - 'Thursday: 9:00 AM – 11:00 PM'
+    - 'Friday: 9:00 AM – 11:00 PM'
+    - 'Saturday: 9:00 AM – 11:00 PM'
+    - 'Sunday: 9:00 AM – 11:00 PM'
   busyness:
-    updated: 2026-08-01
+    updated: 2026-08-01T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 10
@@ -53,22 +53,22 @@ place:
       - 19
       - 20
       - 21
-    venueId: "ven_4d48465471336444734f645267344454546c45514b624e4a496843"
+    venueId: ven_4d48465471336444734f645267344454546c45514b624e4a496843
 tags:
-  - "chicago"
-  - "hidden gem"
-quickAnswer: "360 CHICAGO sits on the 94th floor of the John Hancock building at 875 N Michigan Ave, open daily 9am–11pm. It's genuinely popular, not a secret, so go right at 9am on a weekend (quietest window 9–11am) or really any weekday hour, and budget about an hour, more if you queue for TILT, the glass platform that leans out over Michigan Avenue."
+  - chicago
+  - hidden gem
+quickAnswer: 360 CHICAGO sits on the 94th floor of the John Hancock building at 875 N Michigan Ave, open daily 9am–11pm. It's genuinely popular, not a secret, so go right at 9am on a weekend (quietest window 9–11am) or really any weekday hour, and budget about an hour, more if you queue for TILT, the glass platform that leans out over Michigan Avenue.
 faq:
-  - q: "How do I get to 360 CHICAGO?"
-    a: "It's inside the John Hancock Center at 875 N Michigan Ave. The nearest CTA stop is Chicago Avenue on the Red Line, about a 10-minute walk east, or Chicago Avenue on the Brown/Purple Line a bit further west. It's also an easy walk up Michigan Avenue from downtown."
-  - q: "What are the quietest times to visit?"
-    a: "On weekdays, foot traffic stays fairly steady from open (9am) to close (11pm), so any weekday works. On weekends, the calmest window is 9–11am right after opening; avoid 2pm–10pm on Saturdays and Sundays when it's busiest."
-  - q: "How long should I plan to spend there?"
-    a: "Budget 45 minutes for just the observation deck, or 60–90 minutes if you also want to do TILT and have a drink at the bar on the same floor."
-  - q: "Is TILT worth doing and does it cost extra?"
-    a: "TILT, the glass platform that tips out over the edge of the building, is a separate timed experience with its own line. It's the signature thrill of the visit — do it early before the queue builds. Confirm current pricing when you book, as it's typically an add-on to general admission."
-  - q: "What's nearby if I want to make a day of it?"
-    a: "You're steps from the Magnificent Mile's shopping strip, the Wrigley Building, Tribune Tower, and Oak Street Beach on Lake Michigan — easy to combine with the observatory visit before or after."
+  - q: How do I get to 360 CHICAGO?
+    a: It's inside the John Hancock Center at 875 N Michigan Ave. The nearest CTA stop is Chicago Avenue on the Red Line, about a 10-minute walk east, or Chicago Avenue on the Brown/Purple Line a bit further west. It's also an easy walk up Michigan Avenue from downtown.
+  - q: What are the quietest times to visit?
+    a: On weekdays, foot traffic stays fairly steady from open (9am) to close (11pm), so any weekday works. On weekends, the calmest window is 9–11am right after opening; avoid 2pm–10pm on Saturdays and Sundays when it's busiest.
+  - q: How long should I plan to spend there?
+    a: Budget 45 minutes for just the observation deck, or 60–90 minutes if you also want to do TILT and have a drink at the bar on the same floor.
+  - q: Is TILT worth doing and does it cost extra?
+    a: TILT, the glass platform that tips out over the edge of the building, is a separate timed experience with its own line. It's the signature thrill of the visit — do it early before the queue builds. Confirm current pricing when you book, as it's typically an add-on to general admission.
+  - q: What's nearby if I want to make a day of it?
+    a: You're steps from the Magnificent Mile's shopping strip, the Wrigley Building, Tribune Tower, and Oak Street Beach on Lake Michigan — easy to combine with the observatory visit before or after.
 aiGenerated: true
 draft: false
 ---

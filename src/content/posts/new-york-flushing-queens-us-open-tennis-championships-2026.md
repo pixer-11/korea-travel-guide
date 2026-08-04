@@ -8,7 +8,7 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-09-13'
 eventEndDate: '2026-09-13'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/b/b6/2017_US_Open_Tennis_-_Qualifying_Rounds_-_Viktoriya_Tomova_%28BUL%29_def._Polona_Hercog_%28SLO%29_%2836916572131%29.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/2017_US_Open_Tennis_-_Qualifying_Rounds_-_Viktoriya_Tomova_%28BUL%29_def._Polona_Hercog_%28SLO%29_%2836916572131%29.jpg/1920px-2017_US_Open_Tennis_-_Qualifying_Rounds_-_Viktoriya_Tomova_%28BUL%29_def._Polona_Hercog_%28SLO%29_%2836916572131%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Steven Pisano from Brooklyn, NY, USA / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:2017_US_Open_Tennis_-_Qualifying_Rounds_-_Viktoriya_Tomova_(BUL)_def._Polona_Hercog_(SLO)_(36916572131).jpg

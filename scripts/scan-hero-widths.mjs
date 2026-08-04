@@ -18,11 +18,20 @@
 // ─────────────────────────────────────────────────────────────
 import { readFile, writeFile, readdir } from 'node:fs/promises';
 import matter from 'gray-matter';
+import yaml from 'js-yaml';
 import { probeWidth } from './lib/image-width.mjs';
 
 const POSTS = 'src/content/posts';
 const QUEUE_FILE = 'data/hero-width-queue.json';
+const AUDIT_FILE = 'data/visual-audit.json';
 const MIN_WIDTH = 1200;
+// Below this a hero is not "small", it is broken. The Shenzhen tennis guide
+// shipped a 152×219 portrait as its hero (2026-08-04) — stretched across a
+// full-width banner that is a smear, not a photograph. "Small hero beats no
+// hero" holds down to roughly a phone's width; past that the page looks
+// defective, so these are handed to the alt-photo patrol as mismatches and
+// taken off the site until it finds a real one, exactly like a wrong photo.
+const UNUSABLE_WIDTH = 640;
 const DRY = process.env.DRY === '1';
 const CONCURRENCY = 4;
 const today = new Date().toISOString().slice(0, 10);
@@ -53,6 +62,7 @@ for (const f of files) {
 }
 
 let probed = 0, probeFailed = 0, narrow = 0, queuedNew = 0;
+const unusable = [];
 const activeKeys = new Set();
 let next = 0;
 async function worker() {
@@ -67,7 +77,10 @@ async function worker() {
       if (w == null) { probeFailed++; activeKeys.delete(key); continue; } // unknown: retry next scan, change nothing
       store.probes[key] = w;
     }
-    if (w < MIN_WIDTH) {
+    if (w < UNUSABLE_WIDTH) {
+      unusable.push({ slug, url, w });
+      narrow++;
+    } else if (w < MIN_WIDTH) {
       narrow++;
       if (!store.queue[slug]) {
         store.queue[slug] = { width: w, attempts: 0, nextTry: today, flaggedAt: today };
@@ -82,6 +95,36 @@ async function worker() {
   }
 }
 await Promise.all(Array.from({ length: CONCURRENCY }, worker));
+
+// A hero too small to render is handed to the alt-photo patrol the same way a
+// wrong photo is: recorded as a MISMATCH in the audit store (which
+// backfill-photos-alt.mjs drains) and taken off the site until a real photo
+// arrives. Drafting it here rather than leaving it live is deliberate — the
+// "small hero beats no hero" rule assumes the picture is at least legible, and
+// a 152px banner is not. It also keeps validate-content's UNQUARANTINED-MISMATCH
+// rule true: a MISMATCH on record must never be a published page.
+if (unusable.length && !DRY) {
+  let audit = {};
+  try { audit = JSON.parse(await readFile(AUDIT_FILE, 'utf8')); } catch { /* first run */ }
+  for (const u of unusable) {
+    audit[`${u.slug}\x01${u.url}`] = {
+      slug: u.slug,
+      verdict: 'MISMATCH',
+      reason: `hero is only ${u.w}px wide — unusable as a banner`,
+      reasonKo: `사진이 ${u.w}px로 너무 작음`,
+      at: new Date().toISOString(),
+    };
+    const path = `${POSTS}/${u.slug}.md`;
+    const { data, content } = matter(await readFile(path, 'utf8'));
+    if (data.draft !== true) {
+      data.draft = true;
+      await writeFile(path, `---\n${yaml.dump(data, { lineWidth: -1, noRefs: true, sortKeys: false })}---\n${content}`, 'utf8');
+    }
+    delete store.queue[u.slug]; // the patrol owns it now, not the width queue
+    console.log(`  🚫 ${u.slug}: hero is ${u.w}px (<${UNUSABLE_WIDTH}) — quarantined for photo replacement`);
+  }
+  await writeFile(AUDIT_FILE, JSON.stringify(audit, null, 1) + '\n', 'utf8');
+}
 
 // Prune: probe cache entries whose slug+url is no longer any live post's hero
 // (post retired, hero swapped, post drafted), and queue entries for posts that
