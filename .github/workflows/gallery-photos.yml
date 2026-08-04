@@ -67,8 +67,7 @@ jobs:
           else
             echo "changed=1" >> "$GITHUB_OUTPUT"
             git commit -m "content: in-body photos ($(date -u +%Y-%m-%d))"
-            git pull --rebase origin main
-            git push
+            bash scripts/git-push-retry.sh
           fi
 
       - name: Notify Telegram (Korean)

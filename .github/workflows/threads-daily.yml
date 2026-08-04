@@ -47,6 +47,5 @@ jobs:
             echo "No state change."
           else
             git commit -m "chore: threads material state ($(date -u +%Y-%m-%d))"
-            git pull --rebase origin main
-            git push
+            bash scripts/git-push-retry.sh
           fi

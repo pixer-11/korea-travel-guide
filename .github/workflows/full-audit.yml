@@ -49,8 +49,7 @@ jobs:
             echo "No change."
           else
             git commit -m "data: weekly full content audit ($(date -u +%Y-%m-%d))"
-            git pull --rebase origin main
-            git push
+            bash scripts/git-push-retry.sh
           fi
 
       - name: Notify Telegram

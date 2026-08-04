@@ -154,6 +154,17 @@ for (const p of posts) {
   // just read `undefined`, so they were skipped by the climate backfill, missing
   // from country hubs, and the Instagram card printed "Busan, undefined".
   if (!p.country) issues.push(`MISSING-COUNTRY: ${p.f} — dropped from country hubs, facts and social cards`);
+  // A finished event still promising "tickets go on sale" or "the lineup will be
+  // announced" reads as a live listing to anyone who lands on it from search.
+  // The page already carries an "event ended" label, but the PROSE has to agree.
+  // Deliberately narrow: only phrases that promise a FUTURE act of the event
+  // itself. Descriptive futures ("street circuits mean the cars will run through
+  // the city") are timeless and must not be flagged — checked 2026-08-04, all 11
+  // ended events were clean and this rule stayed quiet on them.
+  if (p.category === 'event' && p.eventEnd && p.eventEnd < new Date().toISOString().slice(0, 10)) {
+    const m = p.body.match(/\b(tickets\s+(?:go|will go)\s+on\s+sale|(?:the\s+)?(?:full\s+)?lineup\s+(?:will|has yet to|have yet to)\b|will\s+be\s+(?:announced|confirmed|revealed)|is\s+expected\s+to\s+be\s+(?:announced|confirmed))/i);
+    if (m) issues.push(`ENDED-EVENT-FUTURE-TENSE: ${p.f} — ended ${p.eventEnd} but the prose still says "${m[0]}"`);
+  }
 }
 // Two posts about the same event on the same date in the same city = duplicate
 // coverage, and if their dates DISAGREE one of them is telling readers a lie.

@@ -89,8 +89,7 @@ jobs:
           else
             echo "changed=1" >> "$GITHUB_OUTPUT"
             git commit -m "data: geocode placeless posts (Places verified)"
-            git pull --rebase origin "${{ github.ref_name }}"
-            git push origin "HEAD:${{ github.ref_name }}"
+            bash scripts/git-push-retry.sh "${{ github.ref_name }}"
           fi
 
       - name: Notify Telegram (Korean)

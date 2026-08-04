@@ -138,8 +138,7 @@ jobs:
             echo "No photo changes."
           else
             git commit -m "fix: vision-verified hero photos from alt sources ($(date -u +%Y-%m-%d))"
-            git pull --rebase origin main
-            git push
+            bash scripts/git-push-retry.sh
           fi
 
       - name: Notify Telegram

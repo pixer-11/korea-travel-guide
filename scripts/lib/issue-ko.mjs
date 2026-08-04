@@ -195,6 +195,7 @@ export function koIssueLine(raw) {
     // 생긴 검사 코드 2종이 여기 미등록이었다. 새 검사를 추가하면 이 표도 함께.
     [/TRUNCATED-DESCRIPTION/, () => '검색 요약문이 문장 중간에서 잘림'],
     [/TOOL-SPILL/, () => 'AI 도구 출력이 글에 그대로 유출됨 (페이지 깨짐)'],
+    [/ENDED-EVENT-FUTURE-TENSE/, () => '끝난 행사인데 본문이 아직 예정처럼 쓰여 있음'],
     [/^IMAGE MISMATCH suspect/, () => '대표사진이 주제와 무관해 보임'],
     [/^EVENT missing eventStartDate/, () => '행사 시작일이 비어 있음 — 정렬·만료·검색 노출 불가'],
     [/^NON-LATIN script in title/, () => '제목에 현지 문자가 섞여 있음'],

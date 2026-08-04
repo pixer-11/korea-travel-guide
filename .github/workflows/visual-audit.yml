@@ -58,5 +58,5 @@ jobs:
             echo "No audit changes."
           else
             git commit -m "chore: visual-audit results ($(date -u +%Y-%m-%d))"
-            git pull --rebase origin main && git push
+            bash scripts/git-push-retry.sh
           fi

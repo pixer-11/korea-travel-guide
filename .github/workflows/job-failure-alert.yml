@@ -1,0 +1,68 @@
+name: Job failure alert
+
+# A workflow that DIES gets no Telegram. Each script sends its own report when
+# it finishes, so a crash before that point — npm ci failing, a secret expired,
+# the runner going away — is indistinguishable from a quiet night. That is how
+# the retirement clock sat broken for days and how a silent refresh.yml went
+# unnoticed (2026-08-01 audit, item 7). Twenty-three scheduled workflows had no
+# failure notification at all.
+#
+# Rather than edit twenty-three files (and forget the twenty-fourth), this
+# single watcher subscribes to their completion events and speaks up only when
+# one FAILS. build-check.yml keeps its own alert — it must report the build
+# error text itself, which this generic watcher cannot.
+on:
+  workflow_run:
+    workflows:
+      - 'Accessibility check (pa11y)'
+      - 'Alt-source photo backfill'
+      - 'Auto-generate & publish posts'
+      - 'Backfill countries to target'
+      - 'Backfill place details (phone/hours)'
+      - 'Broken-link check'
+      - 'Check affiliate program status'
+      - 'Daily analytics report (Telegram)'
+      - 'Discover current events (web search)'
+      - 'Pinterest auto-pin'
+      - 'Quality audit (intl venues)'
+      - 'Refresh country facts (climate + holidays)'
+      - 'Refresh essentials (web check)'
+      - 'Refresh existing posts (freshness)'
+      - 'Reminder — Pinterest Standard upgrade'
+      - 'Threads daily material'
+      - 'Weekly full content audit'
+      - 'Weekly marketing review'
+      - 'Weekly performance log'
+      - 'gsc-report'
+      - 'newsletter-report'
+      - 'newsletter-weekly'
+      - 'visual-audit'
+    types: [completed]
+
+jobs:
+  alert:
+    # 'cancelled' is usually a concurrency-group replacement, not a defect —
+    # alerting on it would train the owner to ignore this channel.
+    if: github.event.workflow_run.conclusion == 'failure'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Telegram (Korean)
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          WF: ${{ github.event.workflow_run.name }}
+          URL: ${{ github.event.workflow_run.html_url }}
+        run: |
+          # 줄바꿈은 printf로 만든다. YAML 블록 스칼라 안에서 따옴표를 열고
+          # 실제 개행을 넣으면 들여쓰기가 풀려 파일 전체가 파싱 불가가 된다.
+          [ -n "$TELEGRAM_BOT_TOKEN" ] || exit 0
+          TEXT=$(printf '%s\n\n%s\n%s\n\n%s\n%s' \
+            "⚠️ 자동 작업 실패 — ${WF}" \
+            "작업이 도중에 멈춰서 평소 오던 보고가 오지 않았습니다." \
+            "대부분 일시적 오류라 다음 실행에서 저절로 회복됩니다." \
+            "같은 작업이 이틀 연속 실패하면 클로드에게 '${WF} 실패 원인 찾아줘'라고 말씀하세요." \
+            "실행 기록: ${URL}")
+          curl -sS -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            -H 'Content-Type: application/json' \
+            -d "$(jq -n --arg c "$TELEGRAM_CHAT_ID" --arg t "$TEXT" \
+                  '{chat_id:$c, text:$t, disable_web_page_preview:true}')" > /dev/null

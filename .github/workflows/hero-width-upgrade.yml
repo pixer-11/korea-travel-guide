@@ -60,8 +60,7 @@ jobs:
             echo "No hero changes."
           else
             git commit -m "feat: Discover-eligible heroes — same venue, >=1200px, vision-verified ($(date -u +%Y-%m-%d))"
-            git pull --rebase origin main
-            git push
+            bash scripts/git-push-retry.sh
           fi
 
       - name: Notify Telegram

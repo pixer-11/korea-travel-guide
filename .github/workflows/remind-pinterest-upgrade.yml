@@ -63,5 +63,4 @@ jobs:
           date -u +%Y-%m-%dT%H:%M:%SZ > data/reminders/pinterest-upgrade-sent
           git add data/reminders/pinterest-upgrade-sent
           git commit -m "chore: pinterest upgrade reminder sent"
-          git pull --rebase origin main
-          git push
+          bash scripts/git-push-retry.sh

@@ -87,8 +87,7 @@ jobs:
             echo "No quality fixes this run (all clean, or quota not ready)."
           else
             git commit -m "fix: audit intl venues — ${{ steps.audit.outputs.addr }} addresses + ${{ steps.audit.outputs.img }} images ($(date -u +%Y-%m-%d))"
-            git pull --rebase origin main
-            git push
+            bash scripts/git-push-retry.sh
             echo "committed=1" >> "$GITHUB_OUTPUT"
           fi
 

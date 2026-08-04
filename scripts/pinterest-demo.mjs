@@ -82,10 +82,23 @@ if (cmd === 'url') {
   rule('STEP 6 — Authenticated production API call with that token');
   await api(PROD, '/v5/user_account', t.access_token);
   console.log('\n  ✔ The token works against the production Pinterest API.');
-  console.log(`\n  Keep this for the next command:\n  export DEMO_TOKEN=${t.access_token}\n`);
+  // Hand the token to the next step through a temp file, never through the
+  // screen: this session is being screen-recorded for Pinterest's reviewers
+  // and a printed access token would be a live credential in a video.
+  const { writeFileSync } = await import('node:fs');
+  const { tmpdir } = await import('node:os');
+  writeFileSync(`${tmpdir()}/pin-demo-token.txt`, t.access_token, 'utf8');
+  console.log('\n  (token handed to the next step securely — never printed)\n');
 } else if (cmd === 'calls') {
-  const token = process.env.DEMO_TOKEN;
-  if (!token) { console.error('DEMO_TOKEN not set — run `exchange` first'); process.exit(1); }
+  let token = process.env.DEMO_TOKEN;
+  if (!token) {
+    try {
+      const { readFileSync } = await import('node:fs');
+      const { tmpdir } = await import('node:os');
+      token = readFileSync(`${tmpdir()}/pin-demo-token.txt`, 'utf8').trim();
+    } catch { /* fall through */ }
+  }
+  if (!token) { console.error('no token — run `exchange <code>` first'); process.exit(1); }
   rule('STEP 7 — Board management works in PRODUCTION');
   const boards = await api(PROD, '/v5/boards?page_size=5', token);
   const boardId = process.env.PINTEREST_DEMO_BOARD || boards.body?.items?.[0]?.id;
@@ -102,17 +115,28 @@ if (cmd === 'url') {
   });
   console.log('\n  ↑ This is exactly why we are requesting Standard access.');
 
+  // The sandbox is a SEPARATE environment with its own token (a production
+  // token answers 401 there), issued from the developer console's "Generate
+  // access token → Sandbox" control. When it isn't provided the demo simply
+  // ends after the 403 — which already proves the integration works and the
+  // tier is the only blocker.
+  const sbToken = process.env.PINTEREST_SANDBOX_TOKEN;
+  if (!sbToken) {
+    rule('END — Production integration verified; Pin creation needs Standard access');
+    console.log('\n  Account read ✔   Boards read ✔   Pin create ✖ (Trial tier)\n');
+    process.exit(0);
+  }
   rule('STEP 9 — The SAME code against the API Sandbox: Pin created');
-  const sbBoards = await api(SANDBOX, '/v5/boards?page_size=5', token);
+  const sbBoards = await api(SANDBOX, '/v5/boards?page_size=5', sbToken);
   let sbBoard = sbBoards.body?.items?.[0]?.id;
   if (!sbBoard) {
     console.log('\n  (no sandbox board yet — creating one)');
-    const made = await api(SANDBOX, '/v5/boards', token, {
+    const made = await api(SANDBOX, '/v5/boards', sbToken, {
       method: 'POST', body: JSON.stringify({ name: 'Wander Atlas Demo Board' }),
     });
     sbBoard = made.body?.id;
   }
-  const pin = await api(SANDBOX, '/v5/pins', token, {
+  const pin = await api(SANDBOX, '/v5/pins', sbToken, {
     method: 'POST',
     body: JSON.stringify({
       board_id: sbBoard,
@@ -124,7 +148,7 @@ if (cmd === 'url') {
   });
   if (pin.body?.id) {
     rule('STEP 10 — Reading the created Pin back by id');
-    await api(SANDBOX, `/v5/pins/${pin.body.id}`, token);
+    await api(SANDBOX, `/v5/pins/${pin.body.id}`, sbToken);
     console.log('\n  ✔ Pin created and verified. This is the same code path our daily job runs.');
   }
 } else {

@@ -36,6 +36,5 @@ jobs:
             echo "No snapshot change."
           else
             git commit -m "data: weekly performance snapshot ($(date -u +%Y-%m-%d))"
-            git pull --rebase origin main
-            git push
+            bash scripts/git-push-retry.sh
           fi

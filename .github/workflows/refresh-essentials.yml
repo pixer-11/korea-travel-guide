@@ -55,6 +55,5 @@ jobs:
             echo "No essentials changes."
           else
             git commit -m "content: refresh essentials ($(date -u +%Y-%m-%d))"
-            git pull --rebase origin main
-            git push
+            bash scripts/git-push-retry.sh
           fi

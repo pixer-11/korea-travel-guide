@@ -868,7 +868,7 @@ export const ui = {
     'ess.rain': '강수(mm)',
     'ess.disclaimer': '이 글은 알기 쉽게 정리한 요약이며, 법률이나 의료 자문이 아닙니다. 입국·비자 규정은 수시로 바뀌므로 예약하거나 출발하기 전에 아래 링크된 공식 출처에서 반드시 확인하세요.',
     'ess.lastReviewedLabel': '최종 확인: {date}.',
-    'ess.reviewedNote': 'AI의 도움을 받아 웹 조사를 거쳐 작성했으며, {date}에 공식 출처와 대조해 검토했습니다. 규정과 가격은 바뀔 수 있으니 위의 공식 링크에서 확인하세요. {policy}를 참고하세요.',
+    'ess.reviewedNote': 'AI의 도움을 받아 웹 조사를 거쳐 작성했으며, {date}에 공식 출처와 대조해 검토했습니다. 규정과 가격은 바뀔 수 있으니 위의 공식 링크에서 확인하세요. 자세한 기준은 {policy} 문서를 참고하세요.',
     'ess.indexDek': '떠나기 전 꼭 필요한 실용 정보 — 주제를 고르거나 여행지로 바로 이동하세요.',
     'ess.byCountry': '나라별 필수 정보',
     'ess.chooseDestination': '여행지를 선택하세요',

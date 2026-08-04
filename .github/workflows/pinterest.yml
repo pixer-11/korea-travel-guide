@@ -82,8 +82,7 @@ jobs:
             echo "No state change."
           else
             git commit -m "chore: pinterest pin state ($(date -u +%Y-%m-%d))"
-            git pull --rebase origin main
-            git push
+            bash scripts/git-push-retry.sh
           fi
 
       # Token died (expired/revoked) — that's an owner action, so say so plainly.
