@@ -3,7 +3,7 @@ title: "Yeouido Park: Seoul Travel Guide (4.4★)"
 description: "Yeouido Park is a sprawling green corridor on Yeouido island in western Seoul, best known for its cherry blossom promenade (peak bloom is usually the first week of April) and its car-free lawns, ponds and cycling paths. 4.4★ (6,202 reviews) — what visitors say, hours, and tips."
 country: "South Korea"
 region: "Seoul"
-category: "event"
+category: "attraction"
 pubDate: "2026-08-04T10:32:24.776Z"
 heroImage:
   url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Yeouido_Park_Pond_201604.jpg/1920px-Yeouido_Park_Pond_201604.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
@@ -32,7 +32,7 @@ place:
     - "Sunday: Open 24 hours"
 tags:
   - "seoul"
-  - "fireworks festival"
+  - "park"
 quickAnswer: "Yeouido Park is a sprawling green corridor on Yeouido island in western Seoul, best known for its cherry blossom promenade (peak bloom is usually the first week of April) and its car-free lawns, ponds and cycling paths. It's open 24 hours, free to enter, and easiest to reach via Yeouinaru Station (Line 5, Exit 2 or 3). Go on a weekday morning or after sunset to avoid the crowds that pack it on spring weekends."
 faq:
   - q: "How do I get to Yeouido Park by subway?"
@@ -46,7 +46,6 @@ faq:
   - q: "How long should I plan to spend there?"
     a: "An hour or two covers a relaxed walk through the main sections; add more time if you plan to cycle the full length or continue onto the adjacent Han River bike path."
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

@@ -71,7 +71,6 @@ faq:
   - q: What's nearby if I want to combine my visit?
     a: Tiananmen Square sits just south of the entrance, and Jingshan Park, with its hilltop view over the palace roofs, is directly north of the exit gate.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

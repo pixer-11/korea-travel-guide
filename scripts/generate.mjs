@@ -807,12 +807,26 @@ function assemble(target, place, title, heroImage, gallery, content) {
     place
   );
 
+  // An EVENT target that resolved to a PLACE is not an event post. Searching
+  // "Seoul fireworks festival" in Places returns Yeouido Park — the venue, not
+  // the festival — and the generator wrote a perfectly good park guide wearing
+  // category:event with no eventStartDate, which the publish gate then held
+  // back as invalid (2026-08-04). The article is fine; only the label is wrong.
+  // A dated event never reaches this path (seasonal targets carry their dates),
+  // so demoting a dateless one to `attraction` loses nothing and ships a guide
+  // that would otherwise sit quarantined forever.
+  let category = target.category;
+  if (category === 'event' && !target.startDate && !target.eventStartDate) {
+    category = 'attraction';
+    console.log(`  ↪︎ event target with no date resolved to a place — filing as attraction`);
+  }
+
   const fm = {
     title,
     description,
     country,
     region: target.region,
-    category: target.category,
+    category,
     pubDate: today,
     heroImage,
     gallery,

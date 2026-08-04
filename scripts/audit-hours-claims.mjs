@@ -126,7 +126,14 @@ export function hoursProblems(raw) {
   // the sentence and the day BEFORE it ("…Saturday, and Sunday, and closed
   // entirely on Tuesday…") was reported as a closed-claim — a false positive
   // that quarantined two correct posts on 2026-07-31.
-  const ADV = `(?:entirely\\s+|completely\\s+|both\\s+|all\\s+day\\s+|on\\s+)*`;
+  // 'every' joined 2026-08-04: the Forbidden City's FAQ says "it's closed every
+  // Monday; it's open Tuesday through Sunday" — correct prose. Without 'every'
+  // the strip below left a bare "closed" in the sentence and paired it with the
+  // Sunday that follows, quarantining the post twice with nothing to repair.
+  // Same failure the 08-01 fix addressed for 'entirely'/'both'; the lesson is
+  // that this list must cover every adverb the writer can slip in, so it is
+  // deliberately generous.
+  const ADV = `(?:entirely\\s+|completely\\s+|both\\s+|every\\s+|all\\s+day\\s+|on\\s+|to\\s+the\\s+public\\s+)*`;
   const claimsClosedOn = (d, text) => {
     const gap = `(?:(?!\\b(?:${DAY_ALT})\\b)[^.]){0,40}`;
     // "closed Sundays" — the day AFTER the word owns the claim. Checked first,
