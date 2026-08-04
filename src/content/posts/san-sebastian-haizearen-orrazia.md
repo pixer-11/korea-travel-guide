@@ -6,7 +6,7 @@ region: San Sebastian
 category: hidden-gem
 pubDate: '2026-07-31T10:14:38.013Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/75048914_pgFfwlW2tzc2wEYgP_DxFqNSbCTmTwh15MqvFWeACWc.jpg
+  url: https://fastly.4sqi.net/img/general/original/6841083_2aebXZhtxSnm-gEV-DOlx8ftQSohs3LzYMKfS_OUlDU.jpg
   credit: 'Photo: Foursquare user content (Haizearen Orrazia)'
   license: foursquare
   source: https://foursquare.com/v/4fd9cf08e4b053a8d3d16291
@@ -50,7 +50,6 @@ faq:
   - q: What's nearby worth combining with the visit?
     a: Ondarreta beach, the Miramar Palace gardens, and the Monte Igueldo funicular and viewpoint are all within a 10-minute walk.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

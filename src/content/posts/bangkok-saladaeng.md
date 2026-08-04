@@ -6,7 +6,7 @@ region: Bangkok
 category: trendy
 pubDate: '2026-07-24'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/6154755_U_2nkCJlKeM8CdhBxxHh7py55UqNZ62XsHaU78Bb7Lg.jpg
+  url: https://fastly.4sqi.net/img/general/original/3469731_ZH6pk4ZDZc3mFJowhlXiL3NDNd5KENqk9xHjHoasD9k.jpg
   credit: 'Photo: Foursquare user content (Sala Daeng Road (ถนนศาลาแดง))'
   license: foursquare
   source: https://foursquare.com/v/4c67a7ff9cedd13a2c2f79a1
@@ -33,7 +33,6 @@ faq:
   - q: When is the best time to visit for views?
     a: Aim for sunset, roughly 6:00–6:45 pm depending on season, and favor the dry season (November–February) for clearer skies over the rainy months (June–October).
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

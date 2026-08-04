@@ -6,11 +6,10 @@ region: New York
 category: trendy
 pubDate: '2026-08-04T10:16:27.667Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Gertrude_Rhinelander_Waldo_House_%2851660337406%29.jpg/1920px-Gertrude_Rhinelander_Waldo_House_%2851660337406%29.jpg
-  credit: 'Photo: ajay_suresh / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Gertrude_Rhinelander_Waldo_House_(51660337406).jpg
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/501162434_Jw06tpaWqkzMKAGNQdsWWdsjrAMxcQHRS48z9ZnnJxA.jpg
+  credit: 'Photo: Foursquare user content (Ralph''s Coffee)'
+  license: foursquare
+  source: https://foursquare.com/v/5c376e989de23b002cc69549
 place:
   id: ChIJLx2u_exZwokRRATuJZ5qHJQ
   name: Ralph's Coffee
@@ -63,7 +62,6 @@ faq:
   - q: What else is nearby worth combining with a visit?
     a: The Frick Collection, the Met, and Central Park's Engineers' Gate are all within about a 15-minute walk, making Ralph's a natural coffee break before or after a museum or park visit.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

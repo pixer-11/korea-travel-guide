@@ -10,11 +10,6 @@ heroImage:
   credit: 'Photo: Foursquare user content (Livingstone)'
   license: foursquare
   source: https://foursquare.com/v/52d380d6498e5e87472f2b7f
-gallery:
-  - url: https://fastly.4sqi.net/img/general/original/592686754_Nt7KrF0nDSq-wC8DIRXW9p0X0RhFLGJzxUaaqcoeBeU.jpg
-    credit: 'Photo: Foursquare user content (Livingstone)'
-    license: foursquare
-    source: https://foursquare.com/v/52d380d6498e5e87472f2b7f
 place:
   id: ChIJv-pCBGtH0i0RtjgHkk_uF-g
   name: Livingstone
@@ -73,7 +68,6 @@ faq:
     a: Petitenget Beach, several beach clubs, and Seminyak's main shopping streets are all a short drive or scooter ride from Livingstone, making it easy to pair with a beach or shopping stop.
 aiGenerated: true
 updatedDate: '2026-07-24'
-draft: true
 ---
 
 ## Why Livingstone Is on Every Petitenget Itinerary

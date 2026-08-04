@@ -5463,13 +5463,6 @@
   "reasonKo": "레스토랑이 아닌 도시 풍경",
   "at": "2026-08-04T11:56:56.346Z"
  },
- "bangkok-the-grand-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/A_roof_of_a_building_at_the_Grand_Palace%2C_Bangkok%2C_sunrise%2C_2017.jpg/1920px-A_roof_of_a_building_at_the_Grand_Palace%2C_Bangkok%2C_sunrise%2C_2017.jpg": {
-  "slug": "bangkok-the-grand-palace",
-  "verdict": "MATCH",
-  "reason": "Thai temple architecture, Golden stupas, Bangkok setting",
-  "reasonKo": "태국 사찰 건축, 황금 탑, 방콕",
-  "at": "2026-08-04T11:56:58.810Z"
- },
  "barcelona-barra-oso\u0001https://fastly.4sqi.net/img/general/original/17825828_rFFeMfwLAeC4W_xtYmNUEoMjjV2NdfxEe51CGUHUtQs.jpg": {
   "slug": "barcelona-barra-oso",
   "verdict": "MATCH",
@@ -5533,13 +5526,6 @@
   "reasonKo": "전통 카오소이 식당이 아닌 현대식 푸드코트",
   "at": "2026-08-04T11:57:29.362Z"
  },
- "chinatown-my-awesome-cafe\u0001https://fastly.4sqi.net/img/general/original/12411077_GsXkjQUNqD3dvpGxv7UK-xjn01vmSKJlfvlHISbwBbY.jpg": {
-  "slug": "chinatown-my-awesome-cafe",
-  "verdict": "WEAK",
-  "reason": "Generic beverage, lacks Chinatown/Singapore context",
-  "reasonKo": "일반적인 음료, 차이나타운 요소 부족",
-  "at": "2026-08-04T11:57:31.337Z"
- },
  "gangneung-arte-museum-valley-gangneung\u0001https://fastly.4sqi.net/img/general/original/47266786_TBmnkjZi3wCbwm3VjeEMZGybmMExJAcGoT19xX8K6bg.jpg": {
   "slug": "gangneung-arte-museum-valley-gangneung",
   "verdict": "MATCH",
@@ -5553,13 +5539,6 @@
   "reason": "Lake waterfront with residential buildings visible",
   "reasonKo": "호수 풍경, 주택가 보임",
   "at": "2026-08-04T11:57:42.099Z"
- },
- "guangzhou-huacheng-square\u0001https://fastly.4sqi.net/img/general/original/8615217_xUa20zEDx2ezxr1fpHXpdTjyYuGBOkCYaHdompneGZ8.jpg": {
-  "slug": "guangzhou-huacheng-square",
-  "verdict": "MATCH",
-  "reason": "Modern skyscraper in Guangzhou cityscape with palms",
-  "reasonKo": "광저우 현대 고층빌딩, 야자수 있음",
-  "at": "2026-08-04T11:57:44.310Z"
  },
  "hanoi-hong-hoai-s-restaurant\u0001https://fastly.4sqi.net/img/general/original/3709928_1zojLhXlVJbBi35IW8MOu8KT_SGYlidemX69yUvRLgE.jpg": {
   "slug": "hanoi-hong-hoai-s-restaurant",
@@ -5581,13 +5560,6 @@
   "reason": "Elegant sushi plating matches upscale Japanese venue",
   "reasonKo": "고급스러운 초밥 플레이팅, 트렌디 일식당",
   "at": "2026-08-04T11:57:53.606Z"
- },
- "jakarta-social-house-grand-indonesia\u0001https://fastly.4sqi.net/img/general/original/48406723_Hje7WFQ-kSjgm2-FdRaDzVLXawED8VT6YrfH76WsuXI.jpg": {
-  "slug": "jakarta-social-house-grand-indonesia",
-  "verdict": "MATCH",
-  "reason": "Menu, drinks, food, and branding all confirm Social House Ja",
-  "reasonKo": "메뉴, 음료, 음식, 브랜딩 모두 일치",
-  "at": "2026-08-04T11:57:56.950Z"
  },
  "kampong-glam-kampong-glam\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kampong_Glam_aerial_shot_-_20250628_-_RSKY.jpg/1920px-Kampong_Glam_aerial_shot_-_20250628_-_RSKY.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
   "slug": "kampong-glam-kampong-glam",
@@ -5665,13 +5637,6 @@
   "reason": "Roman aqueduct, not Pompeii archaeological site",
   "reasonKo": "폼페이가 아닌 로마 수로교",
   "at": "2026-08-04T11:58:33.141Z"
- },
- "new-orleans-french-quarter\u0001https://fastly.4sqi.net/img/general/original/66774434_LE0jVXaG65Z22TIZ8C0-ZQP5lC54nXjqGWXx55KNwtM.jpg": {
-  "slug": "new-orleans-french-quarter",
-  "verdict": "MATCH",
-  "reason": "Decorated archway passage, French Quarter atmosphere",
-  "reasonKo": "프렌치 쿼터 특징의 장식된 아케이드",
-  "at": "2026-08-04T11:58:35.651Z"
  },
  "new-york-ralph-s-coffee\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Gertrude_Rhinelander_Waldo_House_%2851660337406%29.jpg/1920px-Gertrude_Rhinelander_Waldo_House_%2851660337406%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
   "slug": "new-york-ralph-s-coffee",
@@ -5784,20 +5749,6 @@
   "reason": "Suncheon Bay landscape with gardens and waterways",
   "reasonKo": "순천만 정원과 수로 경관",
   "at": "2026-08-04T11:59:31.151Z"
- },
- "surabaya-black-owl-surabaya\u0001https://fastly.4sqi.net/img/general/original/42531918_JX0CtbbJtCamTZ6Ph9F8-6DqCJ6kSL_3QkQlR7zEuHc.jpg": {
-  "slug": "surabaya-black-owl-surabaya",
-  "verdict": "MATCH",
-  "reason": "Upscale cocktail bar setting, signature blue drink with garn",
-  "reasonKo": "고급 칵테일 바, 시그니처 청색 음료",
-  "at": "2026-08-04T11:59:33.716Z"
- },
- "tainan-anping-old-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Anping_Taiwan_Old-houses-of-Anping-01.jpg/1920px-Anping_Taiwan_Old-houses-of-Anping-01.jpg": {
-  "slug": "tainan-anping-old-street",
-  "verdict": "MATCH",
-  "reason": "Historic building, ivy-covered facade, Anping architecture",
-  "reasonKo": "안평 고가 건물, 역사적 외관",
-  "at": "2026-08-04T11:59:38.710Z"
  },
  "turin-mole-antonelliana\u0001https://fastly.4sqi.net/img/general/original/14546441_JRIV-jtJAJFn4P7y_RGSfu-a1ZkoZAmO3fVsIKNW8bo.jpg": {
   "slug": "turin-mole-antonelliana",

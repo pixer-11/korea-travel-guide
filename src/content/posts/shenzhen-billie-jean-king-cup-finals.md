@@ -8,7 +8,7 @@ pubDate: '2026-07-29'
 eventStartDate: '2026-09-22'
 eventEndDate: '2026-09-27'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/c/cf/Billie_Jean_King_in_2024.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/c/cf/Billie_Jean_King_in_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
   credit: 'Photo: Office of the Governor of Massachusetts / Wikimedia Commons (Public domain)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Billie_Jean_King_in_2024.jpg
@@ -28,7 +28,6 @@ faq:
   - q: What's the weather like in Shenzhen in late September?
     a: Expect warm, humid conditions with a chance of rain — it's the tail end of the subtropical wet season. Matches will be played indoors or under cover regardless of weather.
 aiGenerated: true
-draft: true
 ---
 
 ## Why this event matters
