@@ -36,21 +36,53 @@ const TELLS = [
   { re: /[:=,](?<!\\)([sdwb])[*+]/, why: 'bare class letter after a separator' },
 ];
 
+// The OTHER half of the same accident (found 2026-08-04). Instead of losing the
+// backslash, the escape gets INTERPRETED on the way in: `\b` arrives as an
+// actual backspace character, `\x01` as the control byte itself. The regex is
+// still valid and still reads correctly in a diff, because the character is
+// invisible. In ItineraryPage.astro the transit-tip pattern held
+// `[역駅站]<U+0008>` — a branch searching for "역 followed by a literal
+// backspace", which no page has ever contained, so that branch was dead from the
+// day it was written. Judged by CODE POINT, never by a literal in this file.
+const isInvisible = (cp) =>
+  (cp <= 0x08) || (cp === 0x0b) || (cp === 0x0c) || (cp >= 0x0e && cp <= 0x1f) ||
+  (cp >= 0x200b && cp <= 0x200f) || (cp >= 0x2028 && cp <= 0x202e) || (cp === 0xfeff);
+
+// Backslash-loss scanning stays on hand-written script sources: an .astro file
+// is full of `</div>` that a regex-literal matcher can misread. The invisible
+// character scan has no such ambiguity, so it runs over everything.
+const SCRIPT_EXT = /\.(mjs|js|ts)$/;
+const ALL_EXT = /\.(mjs|js|ts|astro|yml|yaml)$/;
+const ROOTS = ROOT === 'scripts' ? ['scripts', 'src', '.github/workflows'] : [ROOT];
+
 const files = [];
-(function walk(dir) {
-  for (const e of readdirSync(dir)) {
-    const p = join(dir, e);
-    if (e === 'node_modules' || e === 'dist' || e.startsWith('.')) continue;
-    if (statSync(p).isDirectory()) walk(p);
-    else if (/\.(mjs|js|ts)$/.test(e)) files.push(p);
-  }
-})(ROOT);
+for (const root of ROOTS) {
+  try { statSync(root); } catch { continue; }
+  (function walk(dir) {
+    for (const e of readdirSync(dir)) {
+      const p = join(dir, e);
+      if (e === 'node_modules' || e === 'dist') continue;
+      // .github is named explicitly in ROOTS; other dot-entries stay skipped.
+      if (e.startsWith('.') && dir !== '.') continue;
+      if (statSync(p).isDirectory()) walk(p);
+      else if (ALL_EXT.test(e)) files.push(p);
+    }
+  })(root);
+}
 
 const hits = [];
 for (const f of files) {
   const lines = readFileSync(f, 'utf8').split(/\r?\n/);
+  const scanBackslash = SCRIPT_EXT.test(f);
   lines.forEach((line, i) => {
     if (/lint-regex/.test(line)) return;             // this file's own examples
+    const bad = [...line].map((c) => c.codePointAt(0)).filter(isInvisible);
+    if (bad.length) {
+      const cps = [...new Set(bad)].map((c) => 'U+' + c.toString(16).padStart(4, '0')).join(',');
+      hits.push({ f, n: i + 1, why: `invisible character in source (${cps}) — write it as an escape`, src: line.trim().slice(0, 78) });
+      return;
+    }
+    if (!scanBackslash) return;
     for (const m of line.matchAll(LITERAL)) {
       const body = m[1];
       for (const t of TELLS) {
@@ -65,6 +97,6 @@ for (const f of files) {
 
 for (const h of hits) console.log(`${h.f}:${h.n}  ${h.why}\n    ${h.src}`);
 console.log(hits.length
-  ? `\n❌ ${hits.length} regex literal(s) look like a lost backslash.`
-  : `✓ ${files.length} file(s) scanned — no regex with a missing backslash.`);
+  ? `\n❌ ${hits.length} pattern(s) look like a lost or swallowed escape.`
+  : `✓ ${files.length} file(s) scanned — no lost backslashes, no invisible characters.`);
 process.exit(hits.length ? 1 : 0);

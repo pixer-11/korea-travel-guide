@@ -116,7 +116,17 @@ function quietWindowFor(post: any, slot: string): string | null {
 // transit detail — never invented, always lifted verbatim from the post.
 // Latin patterns plus the localized equivalents, so a Korean/Japanese/Chinese
 // body yields a tip instead of silently falling through to the English source.
-const TRANSIT_RE = /(Line\s*\d|Station|Exit\s*\d|BTS|MRT|호선|출구|[역駅站]|번 출구|地下鉄|地铁|捷運|Estación|Línea\s*\d)/;
+//
+// `[역駅站]` used to sit here followed by a `\b` that had been swallowed into a
+// literal backspace character — so the branch searched for "역 followed by a
+// backspace", which no page has ever contained, and it was dead from the day it
+// was written (found 2026-08-04 by the invisible-character scan now in
+// lint-regex.mjs). Restoring the `\b` is not the fix either: it is a \w
+// boundary and means nothing between CJK characters, while a bare 역 also
+// matches 지역/역사/구역 — measured against the 671 live Korean posts, it
+// hijacked the tip on 485 of them. Korean is already served by 호선/출구/번 출구,
+// so what replaces it is only the forms that cannot be anything but transit.
+const TRANSIT_RE = /(Line\s*\d|Station|Exit\s*\d|BTS|MRT|호선|출구|번 출구|駅から|駅より|駅前|駅徒歩|車站|车站|地下鉄|地铁|捷運|Estación|Línea\s*\d)/;
 function transitTip(post: any): string | null {
   // Prefer the reader's own language; fall back to the English source only when
   // no translation exists for this post.

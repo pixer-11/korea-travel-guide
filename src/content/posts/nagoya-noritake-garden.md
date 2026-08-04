@@ -41,6 +41,7 @@ faq:
   - q: What else is nearby worth combining with this visit?
     a: The Toyota Commemorative Museum of Industry and Technology is a short walk or taxi ride away and makes for a natural pairing on an industrial-heritage-themed half-day in Nagoya.
 aiGenerated: true
+draft: true
 ---
 
 ## Why go

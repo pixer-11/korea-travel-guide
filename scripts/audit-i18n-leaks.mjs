@@ -40,10 +40,10 @@ const TYPES = [
 
 // Leaks are checked against VISIBLE html only — schema.org JSON-LD and other
 // <script> payloads are meant to stay English and must not trip the audit.
-const stripScripts = (h) => h.replace(/<script[\s\S]*?<\/script>/gi, '');
+export const stripScripts = (h) => h.replace(/<script[\s\S]*?<\/script>/gi, '');
 
 // Spanish legitimately abbreviates hora/minuto as h/min, so the unit rule skips it.
-const RULES = [
+export const RULES = [
   { id: 'klook-en-US', re: /klook\.com(%2F|\/)en-US/, langs: LANGS },
   { id: 'tickets-tours', re: /Tickets &(amp;)? tours for/, langs: LANGS },
   { id: 'price-Free', re: />Free</, langs: LANGS },
@@ -56,6 +56,19 @@ const RULES = [
   { id: 'ui-all-destinations', re: />All destinations</, langs: LANGS },
   { id: 'ui-when-to-go', re: />When to go</, langs: LANGS },
 ];
+
+/**
+ * Every rule one page's HTML trips, for one language. Pure — exported so
+ * scripts/audit-i18n-leaks.test.mjs can check the patterns against fixture HTML
+ * without a built site. These are regexes carried in source, and a regex that
+ * loses a backslash in transit stays syntactically valid while matching nothing:
+ * the audit would keep reporting "no leaks" forever. The tests are what tell the
+ * difference between a clean site and a dead pattern.
+ */
+export function leaksIn(html, lang) {
+  const visible = stripScripts(html);
+  return RULES.filter((r) => r.langs.includes(lang) && r.re.test(visible)).map((r) => r.id);
+}
 
 function pagesUnder(dir, limit) {
   const out = [];
@@ -75,35 +88,36 @@ function pagesUnder(dir, limit) {
   return out;
 }
 
-let failures = 0, emptyTypes = 0, checked = 0;
-for (const lang of LANGS) {
-  const base = join(DIST, lang);
-  if (!existsSync(base) || !statSync(base).isDirectory()) {
-    console.log(`⚠️  ${lang}: built pages missing`); failures++; continue;
-  }
-  for (const type of TYPES) {
-    const dir = type.dir ? join(base, type.dir) : base;
-    // Home: only the locale root's own index.html, not everything beneath it.
-    const files = type.dir ? pagesUnder(dir, PER) : [join(base, 'index.html')].filter(existsSync);
-    if (!files.length) {
-      console.log(`⚠️  ${lang}/${type.name}: no pages found — type skipped (add or remove it in TYPES)`);
-      emptyTypes++; continue;
+function main() {
+  let failures = 0, emptyTypes = 0, checked = 0;
+  for (const lang of LANGS) {
+    const base = join(DIST, lang);
+    if (!existsSync(base) || !statSync(base).isDirectory()) {
+      console.log(`⚠️  ${lang}: built pages missing`); failures++; continue;
     }
-    for (const f of files) {
-      checked++;
-      const html = stripScripts(readFileSync(f, 'utf8'));
-      for (const rule of RULES) {
-        if (!rule.langs.includes(lang)) continue;
-        if (rule.re.test(html)) {
-          console.log(`❌ ${lang}/${type.name} — ${rule.id} — ${f}`);
+    for (const type of TYPES) {
+      const dir = type.dir ? join(base, type.dir) : base;
+      // Home: only the locale root's own index.html, not everything beneath it.
+      const files = type.dir ? pagesUnder(dir, PER) : [join(base, 'index.html')].filter(existsSync);
+      if (!files.length) {
+        console.log(`⚠️  ${lang}/${type.name}: no pages found — type skipped (add or remove it in TYPES)`);
+        emptyTypes++; continue;
+      }
+      for (const f of files) {
+        checked++;
+        for (const id of leaksIn(readFileSync(f, 'utf8'), lang)) {
+          console.log(`❌ ${lang}/${type.name} — ${id} — ${f}`);
           failures++;
         }
       }
     }
   }
+
+  console.log(`\n📋 checked ${checked} page(s) across ${TYPES.length} type(s) × ${LANGS.length} language(s)`);
+  if (emptyTypes) console.log(`   ${emptyTypes} type(s) had no pages — verify that is expected.`);
+  if (failures) { console.log(`❌ ${failures} leak(s)/problem(s).`); process.exit(1); }
+  console.log('✅ no English leaks in localized pages.');
 }
 
-console.log(`\n📋 checked ${checked} page(s) across ${TYPES.length} type(s) × ${LANGS.length} language(s)`);
-if (emptyTypes) console.log(`   ${emptyTypes} type(s) had no pages — verify that is expected.`);
-if (failures) { console.log(`❌ ${failures} leak(s)/problem(s).`); process.exit(1); }
-console.log('✅ no English leaks in localized pages.');
+// ── CLI (only when executed directly, not when imported) ─────
+if (process.argv[1]?.endsWith('audit-i18n-leaks.mjs')) main();

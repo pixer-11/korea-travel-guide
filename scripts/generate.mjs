@@ -56,8 +56,14 @@ const DUMMY = process.env.DUMMY === '1' || !process.env.ANTHROPIC_API_KEY;
 // Set NO_PLACES=1 to run in "placeless" mode: Anthropic-written neighborhood/
 // topic guides with free (Unsplash/placeholder) images and no venue fact box.
 // Handy when Google Places billing isn't available yet — flip it back on later.
-const USE_PLACES =
-  !DUMMY && process.env.NO_PLACES !== '1' && !!process.env.GOOGLE_MAPS_API_KEY;
+// NO_PLACES=1 is a DELIBERATE choice; a missing GOOGLE_MAPS_API_KEY is an
+// ACCIDENT. They used to be the same branch, so a run whose secret had gone
+// missing quietly demoted itself to placeless mode and published a full batch of
+// venue-free guides with unverified free imagery — no error, no alert, and the
+// Telegram report read like an ordinary night. Only the deliberate flag may take
+// that path now (see the hard stop in main()).
+const PLACELESS_ON_PURPOSE = process.env.NO_PLACES === '1';
+const USE_PLACES = !DUMMY && !PLACELESS_ON_PURPOSE && !!process.env.GOOGLE_MAPS_API_KEY;
 
 // Topic templates auto-extend the queue so the site can publish daily for a
 // long time without hand-writing every target. They are applied to every
@@ -71,6 +77,19 @@ const TOPIC_TEMPLATES = [
 ];
 
 async function main() {
+  // Stop rather than downgrade. Publishing nothing tonight is recoverable;
+  // twenty placeless guides with unchecked photos are twenty pages to hunt down
+  // tomorrow. Exiting non-zero also makes job-failure-alert.yml say so in Korean
+  // instead of the run passing green with a quietly wrong mode.
+  if (!DUMMY && !PLACELESS_ON_PURPOSE && !process.env.GOOGLE_MAPS_API_KEY) {
+    console.error(
+      '⛔ GOOGLE_MAPS_API_KEY is missing — refusing to publish.\n' +
+      '   Without it there is no verified venue data and no real venue photo, so every\n' +
+      '   post this run would be a placeless guide with an unvetted image.\n' +
+      '   Fix the secret, or set NO_PLACES=1 if placeless output is genuinely intended.'
+    );
+    process.exit(1);
+  }
   if (!existsSync(POSTS_DIR)) await mkdir(POSTS_DIR, { recursive: true });
 
   const { targets } = JSON.parse(await readFile(TARGETS_FILE, 'utf8'));
@@ -714,9 +733,32 @@ async function buildPlacelessPost(target) {
     country: target.country,
     used: USED_IMAGE_URLS,
   });
-  const heroImage = isImageAllowed(hero) ? hero : null;
+  if (!isImageAllowed(hero)) {
+    console.log(`  ⏭️   skip "${target.query}" — no allowed image for a placeless guide`);
+    return null;
+  }
+  // The SAME vision gate the venue path uses. This path had none: it matched on
+  // filename tokens alone and shipped whatever came back, which is exactly how a
+  // radio-software screenshot became a festival hero. There is no venue name to
+  // check against here, so the gate is asked the question that does apply — is
+  // this an honest photo of this kind of place in this locale — and a rejection
+  // skips the slot rather than publishing an unchecked picture.
+  const { verifyHeroImage } = await import('./lib/vision-check.mjs');
+  const vis = await verifyHeroImage({
+    url: hero.url,
+    // A curated target may carry no topic; "undefined in Seoul" would be a
+    // nonsense subject to ask a vision model about.
+    name: `${target.topic || target.category} in ${target.region}`,
+    category: target.category,
+    region: target.region,
+    country: target.country,
+  });
+  if (!vis.ok) {
+    console.log(`  👁️   skip "${target.query}" — vision check rejected the hero (${vis.reason})`);
+    return null;
+  }
 
-  return assemble(target, null, title, heroImage, [], { body, quickAnswer, faq });
+  return assemble(target, null, title, hero, [], { body, quickAnswer, faq });
 }
 
 // ── DUMMY path ───────────────────────────────────────────────
@@ -773,7 +815,7 @@ function cleanVenueName(name) {
   // keep only the Latin portion (Basic/Extended Latin + Latin-Extended-Additional,
   // which preserves Vietnamese diacritics). If stripping leaves too little real
   // text, keep the original (a purely local-script name — rare, can't romanize).
-  const latin = s.replace(/[^ -ɏḀ-ỿ]/g, ' ').replace(/\s+/g, ' ').trim();
+  const latin = s.replace(/[^\0-ɏḀ-ỿ]/g, ' ').replace(/\s+/g, ' ').trim();
   if (/[A-Za-z].*[A-Za-z]/.test(latin)) s = latin;
   // Tidy separators left dangling after stripping a bilingual half
   // ("Al Khayma … | مطعم …" → "Al Khayma … |" → "Al Khayma …").

@@ -1,13 +1,13 @@
 ---
-title: "Garden to Table Chiangmai: Where to Eat in Chiang Mai (4.9★)"
-description: "Garden to Table Chiangmai is a casual, plant-filled restaurant inside the Old City walls on Ratchapakhinai Road, prized for fresh Thai and Northern (Lanna) dishes at street-food-friendly prices. 4.9★ (1,961 reviews) — what visitors say, hours, and tips."
+title: 'Garden to Table Chiangmai: Where to Eat in Chiang Mai (4.9★)'
+description: Garden to Table Chiangmai is a casual, plant-filled restaurant inside the Old City walls on Ratchapakhinai Road, prized for fresh Thai and Northern (Lanna) dishes at street-food-friendly prices. 4.9★ (1,961 reviews) — what visitors say, hours, and tips.
 country: Thailand
 region: Chiang Mai
 category: restaurant
-pubDate: "2026-07-22T09:14:29.554Z"
+pubDate: '2026-07-22T09:14:29.554Z'
 heroImage:
   url: https://fastly.4sqi.net/img/general/original/87988854_yDRKMYYhzAmP9QNODMZMZVbnDEWac8crUkxziTjIRwo.jpg
-  credit: "Photo: Foursquare user content (Chiangmai Walking Street (ถนนคนเดินเชียงใหม่))"
+  credit: 'Photo: Foursquare user content (Chiangmai Walking Street (ถนนคนเดินเชียงใหม่))'
   license: foursquare
   source: https://foursquare.com/v/4ce79607867f60fc8e0b37c3
 gallery: []
@@ -22,15 +22,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 18.786508599999998
   lng: 98.990431
-  phone: '+66 82 583 6999'
+  phone: +66 82 583 6999
   openingHours:
-    - "Monday: 2:00 – 9:00 PM"
-    - "Tuesday: 2:00 – 9:00 PM"
-    - "Wednesday: 2:00 – 9:00 PM"
-    - "Thursday: 2:00 – 8:30 PM"
-    - "Friday: 2:00 – 9:00 PM"
-    - "Saturday: 2:00 – 8:30 PM"
-    - "Sunday: Closed"
+    - 'Monday: 2:00 – 9:00 PM'
+    - 'Tuesday: 2:00 – 9:00 PM'
+    - 'Wednesday: 2:00 – 9:00 PM'
+    - 'Thursday: 2:00 – 8:30 PM'
+    - 'Friday: 2:00 – 9:00 PM'
+    - 'Saturday: 2:00 – 8:30 PM'
+    - 'Sunday: Closed'
 tags:
   - chiang mai
   - local restaurant
@@ -47,8 +47,8 @@ faq:
   - q: What's nearby to pair with a visit?
     a: Wat Phra Singh, Wat Chedi Luang, and Thapae Gate are all within walking distance, and the Sunday Walking Street market passes close by if your visit falls on a Sunday evening — though note Garden to Table itself is closed on Sundays, so plan your meal here on another day.
 aiGenerated: true
-draft: false
-updatedDate: "2026-07-24"
+draft: true
+updatedDate: '2026-07-24'
 ---
 
 ## Why go

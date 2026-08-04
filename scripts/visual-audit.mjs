@@ -39,7 +39,7 @@ const AUDIT_ALL = process.argv.includes('--all');
 if (!process.env.ANTHROPIC_API_KEY) { console.error('ANTHROPIC_API_KEY missing'); process.exit(1); }
 const anthropic = new Anthropic();
 
-// key = slug + '' + heroUrl → re-checks automatically when the hero changes.
+// key = slug + '\x01' + heroUrl → re-checks automatically when the hero changes.
 const store = existsSync(STORE) ? JSON.parse(await readFile(STORE, 'utf8')) : {};
 
 async function toBase64(url) {
@@ -101,14 +101,24 @@ for (const f of files) {
   try { ({ data } = matter(await readFile(join(POSTS_DIR, f), 'utf8'))); } catch { continue; }
   const hero = data.heroImage;
   if (!hero || !hero.url) continue;
-  if (hero.license === 'google-places' || (hero.url || '').includes('/venue-photos/')) continue; // real venue photo → trust
+  // NO SOURCE IS EXEMPT (2026-08-04). This used to skip anything licensed
+  // google-places or served from /venue-photos/, on the reasoning that a photo
+  // fetched by place_id must be a real photo of that place. Provenance settles
+  // WHOSE venue it is; it says nothing about whether the picture is usable — the
+  // Google photo set for a venue is user-uploaded and routinely holds a menu
+  // card, a receipt, a parking lot, a blurred selfie. Trusting the source meant
+  // the audit was structurally unable to see any of that, and the exemption
+  // covered nothing today only because Google photos are billing-blocked: the
+  // day that unblocks, the site's most common hero becomes its only unaudited
+  // one. The verdict store already skips heroes judged before, so re-including
+  // them costs a vision call once per NEW photo.
   if (!VENUE.has(data.category)) continue;
   // Quarantined posts are already off the site (draft → 301) and are the alt-photo
   // patrol's job. Auditing them burns vision calls and, worse, re-reports names the
   // owner has already been told about — which reads as "the same problems keep
   // coming back" when they are in fact already handled.
   if (data.draft === true) continue;
-  const key = `${slug}${hero.url}`;
+  const key = `${slug}\x01${hero.url}`;
   if (!AUDIT_ALL && !argSlugs && store[key]) continue; // already judged this exact hero
 
   try {

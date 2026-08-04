@@ -13,6 +13,13 @@ on:
     paths:
       - 'scripts/**'
       - 'src/lib/**'
+      # Hand-written page/component code. lint-regex.test.mjs scans these for
+      # lost backslashes and invisible characters, and the one dead regex it
+      # found on 08-04 was in src/components — outside the original trigger.
+      # src/content is deliberately absent: the bots rewrite it every night and
+      # no test reads it.
+      - 'src/components/**'
+      - 'src/pages/**'
       - 'package.json'
       - 'package-lock.json'
       - '.github/workflows/tests.yml'
@@ -20,6 +27,8 @@ on:
     paths:
       - 'scripts/**'
       - 'src/lib/**'
+      - 'src/components/**'
+      - 'src/pages/**'
   workflow_dispatch:
 
 concurrency:

@@ -33,6 +33,7 @@ faq:
   - q: When is the best time to visit for views?
     a: Aim for sunset, roughly 6:00–6:45 pm depending on season, and favor the dry season (November–February) for clearer skies over the rainy months (June–October).
 aiGenerated: true
+draft: true
 ---
 
 ## Why go
