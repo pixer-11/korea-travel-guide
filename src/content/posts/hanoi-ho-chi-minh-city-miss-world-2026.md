@@ -5,7 +5,7 @@ country: Vietnam
 region: Hanoi
 category: event
 pubDate: '2026-07-23'
-eventStartDate: '2026-09-05'
+eventStartDate: '2026-08-09'
 eventEndDate: '2026-09-05'
 heroImage:
   url: https://upload.wikimedia.org/wikipedia/commons/a/a3/Miss_World_Ireland_2022_Ivanna_McMahon.jpg

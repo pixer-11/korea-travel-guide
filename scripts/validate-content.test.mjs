@@ -175,6 +175,27 @@ cases.push(['parsePost survives broken YAML instead of throwing', () => {
   return parsePost('x.md', raw) === null ? null : 'broken frontmatter should yield null';
 }]);
 
+// ── 여러 날 행사가 하루로 저장된 경우 ────────────────────────
+// US Open 이 "8월 23일–9월 13일"이라 써놓고 하루짜리로 저장돼, 구독 캘린더에
+// 마지막 날만 들어갔다. 구독자는 대회 전체를 놓친다(2026-08-06).
+const ev = (over) => base({ category: 'event', eventStart: '2026-09-13', eventEnd: '2026-09-13', ...over });
+cases.push(['범위를 말하는데 하루로 저장되면 잡는다', () => {
+  const out = run({ ...ev({ quickAnswer: 'The 2026 US Open runs August 23–September 13 at the USTA center.' }) });
+  return has(out, 'EVENT-SINGLE-DAY-RANGE') ? null : `놓침: ${out.join(' | ') || '(clean)'}`;
+}]);
+cases.push(['같은 달 범위도 잡는다', () => {
+  const out = run({ ...ev({ eventStart: '2026-08-02', eventEnd: '2026-08-02', quickAnswer: 'The festival runs August 1–2 in Songdo.' }) });
+  return has(out, 'EVENT-SINGLE-DAY-RANGE') ? null : `놓침: ${out.join(' | ') || '(clean)'}`;
+}]);
+cases.push(['진짜 하루짜리 행사는 조용하다', () => {
+  const out = run({ ...ev({ quickAnswer: 'The concert takes place on September 13 at the arena.' }) });
+  return out.some((i) => i.startsWith('EVENT-SINGLE-DAY-RANGE')) ? `오탐: ${out.join(' | ')}` : null;
+}]);
+cases.push(['시작·종료가 다르면 검사하지 않는다', () => {
+  const out = run({ ...ev({ eventStart: '2026-08-23', eventEnd: '2026-09-13', quickAnswer: 'runs August 23–September 13' }) });
+  return out.some((i) => i.startsWith('EVENT-SINGLE-DAY-RANGE')) ? `오탐: ${out.join(' | ')}` : null;
+}]);
+
 let fail = 0;
 for (const [name, fn] of cases) {
   let err;

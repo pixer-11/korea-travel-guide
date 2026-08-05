@@ -5,7 +5,7 @@ country: South Korea
 region: Incheon
 category: event
 pubDate: '2026-07-21'
-eventStartDate: '2026-08-02'
+eventStartDate: '2026-07-31'
 eventEndDate: '2026-08-02'
 heroImage:
   url: https://images.unsplash.com/photo-1459749411175-04bf5292ceea?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8cm9jayUyMGNvbmNlcnQlMjBjcm93ZHxlbnwwfDB8fHwxNzg0Nzc1ODMwfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max

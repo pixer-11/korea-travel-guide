@@ -196,6 +196,38 @@ export function postProblems(p, { today = new Date().toISOString().slice(0, 10) 
   // itself. Descriptive futures ("street circuits mean the cars will run through
   // the city") are timeless and must not be flagged — checked 2026-08-04, all 11
   // ended events were clean and this rule stayed quiet on them.
+  // A multi-day event stored as a single day. Five events shipped with
+  // eventStartDate === eventEndDate while their own Quick Answer described a
+  // range — the US Open said "August 23–September 13" and went into the
+  // subscribable .ics as ONE day, the final one, so a subscriber would have
+  // missed the entire tournament. The expiry logic is wrong too: a festival
+  // reads as "upcoming" until its closing day (found 2026-08-06).
+  //
+  // Deliberately narrow: only fires when start and end are the SAME day and the
+  // prose names a range that starts earlier. A one-day event with a one-day
+  // range is silent, and a range this cannot parse is silent.
+  if (p.category === 'event' && p.eventStart && p.eventEnd && isoDay(p.eventStart) === isoDay(p.eventEnd)) {
+    const M = 'January|February|March|April|May|June|July|August|September|October|November|December';
+    const MI = { january: 1, february: 2, march: 3, april: 4, may: 5, june: 6, july: 7, august: 8, september: 9, october: 10, november: 11, december: 12 };
+    const text = `${p.quickAnswer || ''} ${p.description || ''}`;
+    const cross = text.match(new RegExp(`(${M})\\s+(\\d{1,2})\\s*(?:[–—-]|to)\\s*(${M})\\s+(\\d{1,2})`, 'i'));
+    const same = cross ? null : text.match(new RegExp(`(${M})\\s+(\\d{1,2})\\s*[–—-]\\s*(\\d{1,2})`, 'i'));
+    const day = isoDay(p.eventEnd);
+    const endMonth = Number(day.slice(5, 7)), endDay = Number(day.slice(8, 10));
+    let startsEarlier = false, quote = '';
+    if (cross) {
+      startsEarlier = MI[cross[1].toLowerCase()] < endMonth
+        || (MI[cross[1].toLowerCase()] === endMonth && Number(cross[2]) < endDay);
+      quote = cross[0];
+    } else if (same) {
+      startsEarlier = MI[same[1].toLowerCase()] === endMonth && Number(same[2]) < endDay;
+      quote = same[0];
+    }
+    if (startsEarlier) {
+      issues.push(`EVENT-SINGLE-DAY-RANGE: ${p.f} — stored as one day (${day}) but the text says "${quote}"; the calendar feed will show only the last day`);
+    }
+  }
+
   // Two blind spots, both found live on 2026-08-05 while this rule reported zero:
   //  · it read ONLY p.body, so the Quick Answer box and the FAQ — the two most
   //    prominent surfaces, and the FAQ is also serialised into FAQPage schema —
