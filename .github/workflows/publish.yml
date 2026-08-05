@@ -127,7 +127,12 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           TRANSLATE_CONCURRENCY: '8'
-        run: node scripts/translate-posts.mjs
+        # `|| echo` leaves a trace instead of vanishing. continue-on-error keeps
+        # one dead step from binning a night's work, but it also leaves
+        # job.status at 'success' — so an expired ANTHROPIC_API_KEY could ship 16
+        # English-only posts with no itineraries and report "✅ 상태: 성공"
+        # (found 2026-08-05). The final Telegram now names whatever failed.
+        run: node scripts/translate-posts.mjs || echo "글 번역" >> /tmp/soft-fail.txt
 
       # Country/city NAMES for ko/ja/es/zh. Idempotent (skips what it already has),
       # so this only costs anything when a new country or city appears — without it
@@ -136,7 +141,7 @@ jobs:
         continue-on-error: true
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: node scripts/build-place-names.mjs
+        run: node scripts/build-place-names.mjs || echo "장소명 번역" >> /tmp/soft-fail.txt
 
       # Country one-line blurbs. Also idempotent — only new countries (or an edited
       # English blurb) cost anything, so this is a no-op on a normal day.
@@ -144,7 +149,7 @@ jobs:
         continue-on-error: true
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: node scripts/translate-country-blurbs.mjs
+        run: node scripts/translate-country-blurbs.mjs || echo "국가 소개 번역" >> /tmp/soft-fail.txt
 
       # Region intro fact-boxes ("getting there / how long") for any city that
       # just got its FIRST post — web-search-grounded EN + 4 translations.
@@ -154,7 +159,7 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           CONCURRENCY: '2'
-        run: node scripts/gen-region-intros.mjs
+        run: node scripts/gen-region-intros.mjs || echo "지역 소개" >> /tmp/soft-fail.txt
 
       # Climate/holiday facts and the country essentials guides are refreshed on
       # monthly crons, which is right for keeping them current and wrong for a
@@ -223,7 +228,7 @@ jobs:
         continue-on-error: true
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: node scripts/translate-itineraries.mjs
+        run: node scripts/translate-itineraries.mjs || echo "일정표 번역" >> /tmp/soft-fail.txt
 
       # The phone/coords backfills correct post coordinates most days, which
       # leaves the itineraries' cached leg distances stale — and the validator
@@ -580,3 +585,13 @@ jobs:
             export ZERO_NOTE="⚠️ 남은 발행 후보 ${QUEUE}개 — 곧 바닥납니다. 도시 추가가 필요합니다."
           fi
           bash scripts/notify-telegram.sh "${{ inputs.label || 'Daily publish' }}"
+          # Steps that failed softly get their own message rather than riding on
+          # the zero-note, which only appears when nothing was published. A run
+          # can publish 16 posts and still have lost every translation.
+          if [ -s /tmp/soft-fail.txt ] && [ -n "$TELEGRAM_BOT_TOKEN" ]; then
+            SOFT=$(paste -sd', ' /tmp/soft-fail.txt)
+            TXT=$(printf '⚠️ 발행은 됐지만 일부 단계가 실패했습니다\n실패: %s\n\n번역·일정 등이 빠졌을 수 있습니다. 대개 API 일시 오류이고 다음 실행에서 채워지지만, 같은 단계가 이틀 연속이면 키 만료를 의심하세요.' "$SOFT")
+            curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+              --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
+              --data-urlencode "text=$TXT" >/dev/null || true
+          fi
