@@ -50,6 +50,17 @@ let USED_IMAGE_URLS = new Set();
 // increasing pubDate timestamps (see assemble()). Without this, everything
 // generated on one day shared a date and "Latest stories" never reordered.
 let PUB_SEQ = 0;
+// Details calls that FAILED (quota/network) rather than returning "this venue
+// has no phone on file". This lived inside main() while the only line that
+// incremented it lived inside buildLivePost — a different function — so it threw
+// ReferenceError into a bare `catch {}` on every single post, and the warning it
+// feeds could never print (found 2026-08-05). Module scope is what the other
+// cross-function counters here already use.
+let DETAILS_FAILED = 0;
+// Whether the last buildLivePost skip was TRANSIENT (an overloaded vision API, a
+// missing key) rather than a real guardrail rejection. The distinction decides
+// whether the target is burned from the queue forever — see the loop in main().
+let LAST_SKIP_TRANSIENT = false;
 // DUMMY = can't do real writing (no Anthropic key, or forced) → canned output.
 const DUMMY = process.env.DUMMY === '1' || !process.env.ANTHROPIC_API_KEY;
 // USE_PLACES = pull verified facts + real venue photos from Google Places.
@@ -150,18 +161,43 @@ async function main() {
   );
 
   let published = 0;
-  // Posts whose Details call FAILED outright (quota/network after retries) —
-  // reported separately from venues that simply have no phone on file.
-  let detailsFailed = 0;
+  // (The counter itself is module-scoped — see DETAILS_FAILED at the top. It
+  // used to be declared here, which is why the line that increments it, over in
+  // buildLivePost, threw ReferenceError on every post.)
+  DETAILS_FAILED = 0;
+  // Consecutive skips caused by an unreachable vision API, not by the venue.
+  // The queue is a finite set that only ever shrinks — `done` has no delete path
+  // anywhere in the repo — so an Anthropic outage during one nightly run could
+  // walk the ENTIRE queue and mark every target done while publishing nothing.
+  // Stopping after a handful of transient failures costs one quiet night; not
+  // stopping costs months of queue that cannot be rebuilt (found 2026-08-05).
+  const TRANSIENT_STOP = 5;
+  let transientRun = 0, transientTotal = 0;
   for (const target of queue) {
     if (published >= POSTS_PER_RUN) break;
     try {
+      LAST_SKIP_TRANSIENT = false;
       const post = DUMMY
         ? buildDummyPost(target)
         : USE_PLACES
         ? await buildLivePost(target)
         : await buildPlacelessPost(target);
-      if (!post) { done.add(target.query); continue; } // skipped by guardrails — don't retry daily
+      if (!post) {
+        if (LAST_SKIP_TRANSIENT) {
+          // Leave it in the queue: nothing was learned about this venue.
+          transientTotal++;
+          if (++transientRun >= TRANSIENT_STOP) {
+            console.log(`  ⛔ ${TRANSIENT_STOP} consecutive vision-unavailable skips — stopping so the queue is not burned. Targets stay queued.`);
+            break;
+          }
+          console.log(`  ⏳  "${target.query}" — vision unavailable, left in the queue for a retry`);
+          continue;
+        }
+        transientRun = 0;
+        done.add(target.query);
+        continue; // a real guardrail rejection — don't retry this daily
+      }
+      transientRun = 0;
 
       if (existing.has(post.slug)) {
         done.add(target.query);
@@ -186,8 +222,11 @@ async function main() {
   await savePublished(done);
   // A failed Details call and a venue with no phone on file look identical in
   // the output, so they are counted apart: only the first kind is worth a retry.
-  const failNote = detailsFailed
-    ? `\n⚠️  ${detailsFailed} post(s) published WITHOUT phone/hours — the Details call FAILED (quota/network), so these are retry targets.`
+  const failNote = DETAILS_FAILED
+    ? `\n⚠️  ${DETAILS_FAILED} post(s) published WITHOUT phone/hours — the Details call FAILED (quota/network), so these are retry targets.`
+    : '';
+  const transientNote = transientTotal
+    ? `\n⏳ ${transientTotal} target(s) left queued — the vision API was unreachable, so nothing was learned about them.`
     : '';
   console.log(`\n📦  Done. ${published} new post(s). ${done.size} target(s) completed total.${failNote}\n`);
   // Machine-readable tail so the workflow can explain a zero HONESTLY. On
@@ -558,6 +597,11 @@ async function buildLivePost(target) {
       region: target.region, country: target.country,
     });
     if (!vis.ok) {
+      // "The model said no" and "the model never answered" are different facts.
+      // vision-check returns ok:false for BOTH, deliberately (an overloaded API
+      // is not evidence a photo is right), so the caller has to tell them apart —
+      // otherwise a rate-limit window burns the target out of the queue forever.
+      if (/vision unavailable|no-api-key/i.test(vis.reason)) LAST_SKIP_TRANSIENT = true;
       console.log(`  👁️   "${cand.name}" — vision check rejected hero (${vis.reason}); trying next candidate`);
       continue;
     }
@@ -641,7 +685,7 @@ async function buildLivePost(target) {
     // has no phone listed. Counting the two separately is what tells a thin
     // run apart from a run full of ancient gates and public squares, which
     // legitimately have neither a phone nor posted hours.
-    if (raw === null) detailsFailed++;
+    if (raw === null) DETAILS_FAILED++;
     if (localSignals) {
       const lf = localSignals.localsFavorite ? ' · locals-favourite' : '';
       console.log(`  📍 signals: ${localSignals.popularity}${lf}${localSignals.localSecretOk ? ' · secret-ok' : ''}`);

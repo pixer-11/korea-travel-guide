@@ -106,6 +106,8 @@ itinerary:
 aiGenerated: true
 draft: true
 updatedDate: '2026-07-28T02:35:09.022Z'
+parked: true
 ---
+
 
 

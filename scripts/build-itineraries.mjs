@@ -683,7 +683,7 @@ async function callClaudeForCorrection({ city, country, days, daysArr, bySlug, f
 }
 
 // ── frontmatter assembly ─────────────────────────────────────────────────
-function assembleFrontmatter({ city, country, days, result, aiOut, whysMap, stopsHash, packedAvailable, existingPubDate, existingDraft, bySlug }) {
+function assembleFrontmatter({ city, country, days, result, aiOut, whysMap, stopsHash, packedAvailable, existingPubDate, existingDraft, existingParked, bySlug }) {
   const now = new Date().toISOString();
   const fm = {
     city,
@@ -709,9 +709,13 @@ function assembleFrontmatter({ city, country, days, result, aiOut, whysMap, stop
       rainSwapSlug: d.rainSwapSlug,
     })),
     aiGenerated: true,
-    // Preserve an editor's manual draft:true override across regenerations —
-    // never force a quarantined itinerary back to published.
-    draft: existingDraft === true,
+    // Preserve an EDITOR's manual draft:true across regenerations, but not an
+    // automatic park. `parked: true` is written by the auto-park path below and
+    // marks "the city fell under its gate" — a condition this very rebuild
+    // proves is over, since we only get here when the gate is cleared again.
+    // Without the distinction the park was permanent: Seoul recovered to 14
+    // qualifying posts and stayed 301'd for days (2026-08-05).
+    draft: existingDraft === true && existingParked !== true,
   };
   if (existingPubDate) fm.updatedDate = now;
   return fm;
@@ -798,7 +802,13 @@ async function processVariant({ city, country, days, cityPosts, packedAvailable 
     try { existing = yaml.load(raw.slice(4, end)); } catch { existing = null; }
   }
 
-  if (!FORCE && existing && existing.stopsHash === stopsHash) {
+  // A PARKED itinerary has to be reconsidered even when its stops are byte-for-byte
+  // identical to the parked version — "the quarantined stop came back" changes
+  // nothing else. Skipping on an unchanged hash is exactly why Seoul stayed dead:
+  // parked 08-03, recovered to 14 qualifying posts (gate is 12) with all 12 stops
+  // republished, and every run since printed "unchanged, skipping" while the live
+  // URL 301'd to /itinerary/. Two of the site's three itineraries were down.
+  if (!FORCE && existing && existing.stopsHash === stopsHash && existing.parked !== true) {
     console.log(`  = ${variantId} — unchanged, skipping`);
     return { created: false, isNewFile: false };
   }
@@ -835,6 +845,7 @@ async function processVariant({ city, country, days, cityPosts, packedAvailable 
     city, country, days, result, aiOut, whysMap, stopsHash, packedAvailable,
     existingPubDate: existing?.pubDate || null,
     existingDraft: existing?.draft,
+      existingParked: existing?.parked,
     bySlug,
   });
 
@@ -873,6 +884,7 @@ async function processVariant({ city, country, days, cityPosts, packedAvailable 
       city, country, days, result, aiOut: correctedOut, whysMap: correctedWhysMap, stopsHash, packedAvailable,
       existingPubDate: existing?.pubDate || null,
       existingDraft: existing?.draft,
+      existingParked: existing?.parked,
       bySlug,
     });
     await rm(tmpPath, { force: true });
