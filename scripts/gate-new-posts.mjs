@@ -33,6 +33,31 @@ const run = (cmd) => {
   catch (e) { return String(e.stdout ?? ''); }
 };
 
+// The same, but able to tell "exited 1 WITH findings" from "died". Swallowing
+// both was this gate's worst property: if a checker crashed — malformed data in
+// data/, a bad import, OOM at scale — the catch returned '', that check
+// contributed zero reasons, and the gate printed "✓ every post added this run
+// passed the publish gate" and exited 0. The site's last line of defence could
+// be entirely dead while reporting a clean pass, and both callers are
+// continue-on-error, so nothing downstream would notice either (2026-08-05).
+//
+// A checker that finds something always PRINTS it. So a non-zero exit with no
+// stdout at all is a crash, not a clean bill of health.
+const CRASHED = [];
+const runChecked = (name, cmd) => {
+  try {
+    return execSync(cmd, { encoding: 'utf8', maxBuffer: 1e8 });
+  } catch (e) {
+    const out = String(e.stdout ?? '');
+    if (!out.trim()) {
+      const detail = String(e.stderr || e.message || '').trim().split('\n').filter(Boolean).slice(-2).join(' ').slice(0, 240);
+      CRASHED.push({ name, detail });
+      return '';
+    }
+    return out;
+  }
+};
+
 // Each entry: how to run the check, and how to read a post file name out of a
 // line of its output. Only defects that make the PAGE ITSELF wrong belong here.
 // Sitewide or cosmetic findings stay as warnings — quarantining a post over a
@@ -92,7 +117,7 @@ if (since) {
 
 const reasons = new Map();
 for (const c of CHECKS) {
-  for (const line of run(c.cmd).split('\n')) {
+  for (const line of runChecked(c.name, c.cmd).split('\n')) {
     const f = c.pick(line.trim());
     if (!f) continue;
     if (scope && !scope.has(f)) continue;
@@ -100,7 +125,17 @@ for (const c of CHECKS) {
   }
 }
 
+// A dead checker is not a pass. Say so LOUDLY and exit non-zero, before any
+// "everything passed" line can be printed — the whole point is that this state
+// used to be indistinguishable from a clean run.
+if (CRASHED.length) {
+  console.log(`\n🚨 GATE-CHECKER-CRASHED: ${CRASHED.length} of ${CHECKS.length} checker(s) produced no output at all.`);
+  for (const c of CRASHED) console.log(`  ✗ ${c.name} — ${c.detail || 'no error text'}`);
+  console.log('  These posts were NOT fully checked. Treat this run as ungated.');
+}
+
 if (!reasons.size) {
+  if (CRASHED.length) process.exit(1);
   console.log(`✓ every post${scope ? ' added this run' : ''} passed the publish gate.`);
   process.exit(0);
 }

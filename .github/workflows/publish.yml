@@ -318,6 +318,17 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
+          # A checker that DIED is more urgent than a post that was held: the gate
+          # cannot have been applied, so tonight's batch went out unchecked. This
+          # used to be invisible — a crashed checker contributed no findings and
+          # the gate printed "every post passed" (2026-08-05).
+          if grep -q 'GATE-CHECKER-CRASHED' /tmp/gate.log 2>/dev/null; then
+            BODY=$(sed -n '/GATE-CHECKER-CRASHED/,$p' /tmp/gate.log | head -12)
+            TXT=$(printf '🚨 발행 검사기가 죽었습니다 — 오늘 글은 제대로 검사되지 않았습니다\n%s\n\nGitHub Actions 로그를 확인해 주세요.' "$BODY")
+            curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+              --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
+              --data-urlencode "text=$TXT" >/dev/null || true
+          fi
           grep -q 'HELD BACK' /tmp/gate.log 2>/dev/null || exit 0
           BODY=$(sed -n '/HELD BACK/,$p' /tmp/gate.log | head -30)
           TXT=$(printf '🚧 문제가 있는 글을 발행 직전에 걸러냈습니다\n%s' "$BODY")
