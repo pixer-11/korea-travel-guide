@@ -10,7 +10,7 @@ const { city, place } = Astro.props;
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
 const q = place || city;
-const klook = `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7Cpid%7C754088&k_site=${encodeURIComponent(`https://www.klook.com/${klookLocale(lang)}/search/?query=${q}`)}`;
+const klook = `/go/klook?to=${encodeURIComponent(`https://www.klook.com/${klookLocale(lang)}/search/?query=${q}`)}`;
 const hotel = `https://search.hotellook.com/?marker=754088&language=${lang}&destination=${encodeURIComponent(city)}`;
 ---
 <div class="sticky-book" data-sticky-book hidden aria-hidden="true">

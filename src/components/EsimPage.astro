@@ -33,7 +33,7 @@ const dek = fill('esim.dek');
 // redirect (campaign 13694, pid 754088) — the same wiring PlanTrip uses, with
 // the store language following the page language via klookLocale. eSIM is the
 // highest-commission Klook category, which is why this page type exists.
-const klookEsim = `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7Cpid%7C754088&k_site=${encodeURIComponent(`https://www.klook.com/${klookLocale(lang)}/search/?query=${encodeURIComponent(`${country.name} eSIM`)}`)}`;
+const klookEsim = `/go/klook?to=${encodeURIComponent(`https://www.klook.com/${klookLocale(lang)}/search/?query=${encodeURIComponent(`${country.name} eSIM`)}`)}`;
 
 const cmpRows = ['Setup', 'Share', 'Battery', 'Cost', 'Risk'].map((r) => ({
   label: t(`esim.row${r}` as any),

@@ -20,6 +20,8 @@ on:
       # no test reads it.
       - 'src/components/**'
       - 'src/pages/**'
+      # Subscribe endpoint and the Klook click relay live here — money paths.
+      - 'worker/**'
       - 'package.json'
       - 'package-lock.json'
       - '.github/workflows/tests.yml'
@@ -29,6 +31,7 @@ on:
       - 'src/lib/**'
       - 'src/components/**'
       - 'src/pages/**'
+      - 'worker/**'
   workflow_dispatch:
 
 concurrency:
@@ -51,7 +54,11 @@ jobs:
         run: |
           set -o pipefail
           fail=0
-          for t in scripts/*.test.mjs src/lib/*.test.mjs; do
+          # scripts/lib and worker were outside this glob, so the Places-budget
+          # and Klook-relay tests written on 2026-08-05/06 would never have run
+          # in CI — a test nobody runs is the exact shape this whole file exists
+          # to prevent.
+          for t in scripts/*.test.mjs scripts/lib/*.test.mjs src/lib/*.test.mjs worker/*.test.mjs; do
             [ -e "$t" ] || continue
             echo "── $t"
             # 테스트는 node:test를 쓰는 것과 자체 PASS/FAIL을 찍는 것이 섞여 있다.

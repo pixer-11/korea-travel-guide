@@ -16,7 +16,7 @@ const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
 const cityLabel = localizePlace(city, lang);
 const klookSearch = `https://www.klook.com/${klookLocale(lang)}/search/?query=${city} hotels`;
-const href = `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7Cpid%7C754088&k_site=${encodeURIComponent(klookSearch)}`;
+const href = `/go/klook?to=${encodeURIComponent(klookSearch)}`;
 ---
 <section class="tp-hotels">
   <div class="rule-head"><h2 class="kicker">{t('widget.whereToStay').replace('{city}', cityLabel)}</h2></div>

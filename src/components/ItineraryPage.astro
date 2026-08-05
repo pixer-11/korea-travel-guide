@@ -186,7 +186,7 @@ function dayRouteUrl(posts: any[]): string | null {
 }
 
 // Same Klook affiliate builder as PlanTrip.astro (aid/pid + locale + city query).
-const klookDayHref = `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7Cpid%7C754088&k_site=${encodeURIComponent(`https://www.klook.com/${klookLocale(lang)}/search/?query=${d.city}`)}`;
+const klookDayHref = `/go/klook?to=${encodeURIComponent(`https://www.klook.com/${klookLocale(lang)}/search/?query=${d.city}`)}`;
 
 // ---- Resolve every day's stops once, up front (throws loudly on any gap). ----
 const days = d.itinerary.map((day: any, di: number) => {

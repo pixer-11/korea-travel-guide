@@ -78,7 +78,7 @@ const countryISO = COUNTRY_ISO[country];
 
 // Peak-intent affiliate links for the top "Book this trip" band (city-specific,
 // correct attribution, work regardless of flight/hotel program approval).
-const klookTop = `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7Cpid%7C754088&k_site=${encodeURIComponent(`https://www.klook.com/${klookLocale(lang)}/search/?query=${d.region}`)}`;
+const klookTop = `/go/klook?to=${encodeURIComponent(`https://www.klook.com/${klookLocale(lang)}/search/?query=${d.region}`)}`;
 // language= keeps the reader in their own language after the click — 7,959
 // of these links landed every reader, five languages alike, on English
 // booking.com, which is where the measured 94 clicks / 0 bookings die.
@@ -87,7 +87,7 @@ const hotelTop = `https://search.hotellook.com/?marker=754088&language=${lang}&d
 // categories, keyed to the venue name itself.
 const ticketable = ['attraction', 'trendy', 'hidden-gem'].includes(d.category);
 const klookPlace = p?.name
-  ? `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7Cpid%7C754088&k_site=${encodeURIComponent(`https://www.klook.com/${klookLocale(lang)}/search/?query=${p.name}`)}`
+  ? `/go/klook?to=${encodeURIComponent(`https://www.klook.com/${klookLocale(lang)}/search/?query=${p.name}`)}`
   : klookTop;
 
 // Currency-neutral relative price scale (like Google Maps' $–$$$$ worldwide).

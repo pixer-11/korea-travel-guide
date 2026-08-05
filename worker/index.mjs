@@ -309,11 +309,55 @@ async function handleSubscribe(request, env) {
   return Response.json(body, { status: res.ok ? 200 : res.status });
 }
 
+// ── Klook click relay ────────────────────────────────────────
+// Klook attribution lives in ONE field: aid=api|13694|<click-token>-754088|…
+// Travelpayouts mints that token per click. Until 2026-07-29 its Drive script
+// did it in the browser; dropping that script (26 of every page's 38 requests,
+// pulling doubleclick and googlesyndication along with it) left every Klook link
+// on the site with an EMPTY token slot — `api|13694|-754088|pid|754088`. The
+// links still reach Klook, so nothing looked broken, but no booking made through
+// them can be credited. Hotels were genuinely unaffected: their marker sits in
+// the URL itself, which is the case the removal commit checked.
+//
+// A Travelpayouts short link mints a real token but always lands on Klook's
+// homepage, and appending `?k_site=` to it is ignored (verified 2026-08-06). So:
+// ask the short link for its redirect, take the token it just issued, and
+// re-point k_site at the page the reader actually asked for. One extra hop,
+// server-side, and no third-party script back on the page.
+//
+// Fails OPEN: any error still sends the reader to Klook. A missed commission is
+// bad; a dead "Where to stay" button on every guide is worse.
+const TP_KLOOK_SHORTLINK = 'https://klook.tpx.lv/2NXPH8MA';
+
+async function handleKlookGo(request) {
+  const to = new URL(request.url).searchParams.get('to');
+  const dest = to && /^https:\/\/(www\.)?klook\.com\//.test(to) ? to : 'https://www.klook.com/';
+  const fallback = `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7Cpid%7C754088&k_site=${encodeURIComponent(dest)}`;
+  try {
+    const res = await fetch(TP_KLOOK_SHORTLINK, { redirect: 'manual' });
+    const loc = res.headers.get('location') || '';
+    const aid = new URL(loc).searchParams.get('aid');
+    // A token-bearing aid looks like api|13694|<hex>-754088|pid|754088. An empty
+    // middle segment means we gained nothing — take the fallback rather than
+    // dress it up as tracked.
+    if (!aid || !/\|13694\|[0-9a-f]{8,}-/.test(aid)) return Response.redirect(fallback, 302);
+    return Response.redirect(
+      `https://affiliate.klook.com/redirect?aid=${encodeURIComponent(aid)}&k_site=${encodeURIComponent(dest)}`, 302);
+  } catch {
+    return Response.redirect(fallback, 302);
+  }
+}
+
 // ── router ───────────────────────────────────────────────────
 export default {
   async fetch(request, env) {
     const { pathname } = new URL(request.url);
     try {
+      // Both spellings: the build's trailing-slash pass rewrites every in-page
+      // href, so what actually ships is /go/klook/?to=… — matching only the
+      // slashless form would have sent all 8,706 affiliate links to the 404
+      // handler (caught in the build, 2026-08-06).
+      if (pathname === '/go/klook' || pathname === '/go/klook/') return await handleKlookGo(request);
       if (pathname === '/preferences' || pathname === '/preferences/') return await handlePreferences(request, env);
       if (pathname === '/tg' && request.method === 'POST') return await handleTelegram(request, env);
       if (pathname === '/api/subscribe' && request.method === 'POST') return await handleSubscribe(request, env);

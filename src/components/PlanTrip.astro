@@ -23,7 +23,7 @@ const cityLabel = localizePlace(city, lang);
 // setup. Uses the account's own Klook redirect (campaign 13694, pid 754088);
 // the query lands the reader on that city's tours & tickets.
 const klookHref = city
-  ? `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7Cpid%7C754088&k_site=${encodeURIComponent(`https://www.klook.com/${klookLocale(lang)}/search/?query=${city}`)}`
+  ? `/go/klook?to=${encodeURIComponent(`https://www.klook.com/${klookLocale(lang)}/search/?query=${city}`)}`
   : 'https://klook.tpx.lv/2NXPH8MA';
 
 const services = [
