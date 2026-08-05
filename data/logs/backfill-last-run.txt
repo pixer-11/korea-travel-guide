@@ -1,84 +1,10 @@
 Priority: 35 itinerary stop(s) queued first
-  – bangkok-saladaeng.md: nothing new
-  – bangkok-the-grand-palace.md: nothing new
-  – seoul-bukchon-yukgyeong-photo-spot.md: nothing new
-  – seoul-euljiro.md: nothing new
-  – seoul-london-bagel-museum.md: nothing new
-  – seoul-myeongdong-shopping-street.md: nothing new
-  – tokyo-fish-market-tsukiji-outer-market.md: nothing new
-  ✓ tokyo-lenox-house.md +phone +7h hours
-  – tokyo-meiji-jingu.md: nothing new
-  – tokyo-senso-ji.md: nothing new
-  – tokyo-shibuya-crossing.md: nothing new
-  – tokyo-teamlab-planets-tokyo-dmm.md: nothing new
-  – tokyo-tokyo-ramen-street.md: nothing new
-  – agra-agra-fort.md: nothing new
-  – ajman-ajman-secret-beach.md: nothing new
-  – amalfi-coast-amalfi-coast.md: nothing new
-  – amalfi-coast-positano.md: nothing new
-  – ankara-ankara-castle.md: nothing new
-  – antalya-duden-waterfalls.md: nothing new
-  – antalya-hadrian-s-gate.md: nothing new
-  – ayutthaya-ayutthaya-historical-park.md: nothing new
-  – bali-bingin-uluwatu-pak-gula.md: nothing new
-  – bandung-hummingbird-eatery-space.md: nothing new
-  – barcelona-la-rambla.md: nothing new
-  – beijing-prince-gong-mansion.md: nothing new
-  – bhubaneswar-udayagiri-and-khandagiri-caves.md: nothing new
-  – bohol-bilar-man-made-forest.md: nothing new
-  – bohol-philippine-tarsier-sanctuary.md: nothing new
-  – bologna-piazza-maggiore.md: nothing new
-  – boracay-i-love-boracay.md: nothing new
-  – boracay-willy-s-rock.md: nothing new
-  – bordeaux-miroir-d-eau.md: nothing new
-  – bunol-posada-venta-pilar.md: nothing new
-  – busan-cheongsapo.md: nothing new
-  – busan-haeundae.md: nothing new
-  – busan-huinnyeoul-culture-village.md: nothing new
-  – cannes-mural-cannes-cinema.md: nothing new
-  – cannes-vue-depuis-le-suquet.md: nothing new
-  – cappadocia-pigeon-valley.md: nothing new
-  – cebu-fort-san-pedro.md: nothing new
-  – chiang-rai-khao-soi-restaurant.md: nothing new
-  – chicago-cloud-gate.md: nothing new
-  – chinatown-chinatown-complex.md: nothing new
-  – chinatown-chinatown-heritage-centre.md: nothing new
-  – clarke-quay-clarke-quay-jetty.md: nothing new
-  – clarke-quay-cq-clarke-quay.md: nothing new
-  – davao-people-s-park.md: nothing new
-  – dubai-love-lake.md: nothing new
-  – fukuoka-yatai-mamichan.md: nothing new
-  – gangneung-coffee-street.md: nothing new
-  – gangneung-gyeongpo-lake.md: nothing new
-  – gangneung-jumunjin-lighthouse.md: nothing new
-  – goa-fort-aguada.md: nothing new
-  – granada-mirador-de-san-nicolas.md: nothing new
-  – guangzhou-chen-clan-ancestral-hall.md: nothing new
-  – guangzhou-huacheng-square.md: nothing new
-  – guilin-reed-flute-cave.md: nothing new
-  – gyeongju-hwangnidan-gil.md: nothing new
-  – gyeongju-yangdongmaeul-gil.md: nothing new
-  – ha-long-bay-sung-sot-cave.md: nothing new
-  – hangzhou-lingyin-temple.md: nothing new
-  – hangzhou-xi-lake.md: nothing new
-  – hanoi-hanoi-old-quarter.md: nothing new
-  – hiroshima-hiroshima-breakfast.md: nothing new
-  – hoi-an-hoi-an-night-market.md: nothing new
-  – hoi-an-japanese-bridge.md: nothing new
-  – hyderabad-chowmahalla-palace.md: nothing new
-  – ibiza-castle-of-ibiza.md: nothing new
-  – incheon-chinatown.md: nothing new
-  – incheon-wolmi-theme-park.md: nothing new
-  – istanbul-kinu.md: nothing new
-  – izmir-clock-tower-of-izmir.md: nothing new
-  – jaipur-hawa-mahal.md: nothing new
-  – jaipur-jal-mahal.md: nothing new
-  – jeju-hyeopjae-beach.md: nothing new
-  – jeju-yongyeon-suspension-bridge.md: nothing new
-  – kampong-glam-kampong-glam.md: nothing new
-  ✓ kampong-glam-sultan-mosque.md +phone +7h hours
-  ✓ kanazawa-curio-espresso-and-vintage-design-cafe.md +phone +7h hours
-  ✓ kanazawa-kenroku-en.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 18h (venue not open then); weekendQuiet: dropped 18h (venue not open then)
+  ⚠ Places Details 429 after 3 tries — phone/hours unavailable for this post
+  ⚠ Places Details 429 after 3 tries — phone/hours unavailable for this post
+  ⚠ Places Details 429 after 3 tries — phone/hours unavailable for this post
+  ⚠ Places Details 429 after 3 tries — phone/hours unavailable for this post
+  ⚠ Places Details 429 after 3 tries — phone/hours unavailable for this post
 
-BACKFILL RESULT: updated 4, backlog-updated 4, already-complete 179, no-new-data 76, no-place 59, closed-quarantined 0, quota-429 0, api-error 0, processed 80 of 671 (APPLIED).
+⛔ Places Details quota exhausted (5 consecutive 429s) — stopping early.
+
+BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 14, no-new-data 0, no-place 0, closed-quarantined 0, quota-429 5, api-error 0, processed 5 of 722 (APPLIED).
