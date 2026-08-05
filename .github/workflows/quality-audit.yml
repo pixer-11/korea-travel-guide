@@ -13,9 +13,17 @@ name: Quality audit (intl venues)
 # to 3h51m, so a fixed 22:40 slot could beat it — and this job spends the SAME
 # Places Details budget publish needs, uncapped, draining the fresh window before
 # a single post is written. workflow_run makes the order structural.
+#
+# LAST IN THE CHAIN (2026-08-05): publish → backfill-details → backfill → this.
+# All three Places consumers used to fire off the same publish completion into
+# one `places-bulk` group, and GitHub cancels the request that is WAITING when a
+# newer one arrives — so one of the three was destroyed every day, silently.
+# Ordering them by trigger removes the contention outright; this goes last
+# because a quality pass over posts the two backfills just edited is the pass
+# worth having.
 on:
   workflow_run:
-    workflows: ['Auto-generate & publish posts']
+    workflows: ['Backfill countries to target']
     types: [completed]
   workflow_dispatch:
 
@@ -34,9 +42,13 @@ jobs:
   audit:
     # A failed or cancelled publish must not chain a quota-spending run, and a
     # publish on a feature branch must not spend main's budget.
+    # 'skipped' is the NORMAL outcome upstream — backfill's gate stands down on
+    # any day the phase is not 'country'. Requiring 'success' here would mean
+    # this audit ran only on country-fill days, which is most days never.
     if: >-
       github.event_name == 'workflow_dispatch' ||
-      (github.event.workflow_run.conclusion == 'success' &&
+      (github.event.workflow_run.conclusion != 'failure' &&
+       github.event.workflow_run.conclusion != 'cancelled' &&
        github.event.workflow_run.head_branch == 'main')
     runs-on: ubuntu-latest
     steps:

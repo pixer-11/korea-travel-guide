@@ -19,12 +19,33 @@ const arg = (n) => {
 };
 const DRY = process.argv.includes('--dry-run');
 
+// Refuse input this script does not understand. `--dry` instead of `--dry-run`
+// silently WROTE the country on 2026-08-05: the flag was ignored, the guard
+// never fired, and data/countries.json had to be reverted by hand. Anything
+// that edits repo data must fail on a typo rather than proceed.
+{
+  const KNOWN = new Set(['name', 'iso2', 'continent', 'regions', 'blurb', 'flag', 'slug', 'priority', 'dry-run']);
+  const unknown = process.argv.slice(2).filter((a) => a.startsWith('--') && !KNOWN.has(a.slice(2)));
+  if (unknown.length) {
+    console.error(`✗ unknown option(s): ${unknown.join(', ')}`);
+    console.error(`  known: ${[...KNOWN].map((k) => '--' + k).join(' ')}`);
+    process.exit(1);
+  }
+}
+
 const name = arg('name');
 const iso2 = (arg('iso2') || '').toLowerCase();
 const continent = arg('continent');
 const regions = (arg('regions') || '').split(',').map((s) => s.trim()).filter(Boolean);
 const blurb = arg('blurb') || '';
-const flag = arg('flag') || '';
+// Derive the flag from iso2 rather than leaving it empty. Every existing entry
+// carries one ("🇰🇷"), and it is read by the events index and the eSIM pages —
+// a new country added without it would be the only one missing its flag, which
+// is precisely the kind of quiet feature gap the add-country directive exists
+// to prevent. Regional-indicator letters: 'kr' → U+1F1F0 U+1F1F7.
+const flagFromIso = (c) =>
+  /^[a-z]{2}$/.test(c) ? String.fromCodePoint(...[...c.toUpperCase()].map((ch) => 0x1f1e6 + ch.charCodeAt(0) - 65)) : '';
+const flag = arg('flag') || flagFromIso(iso2);
 const slug = (arg('slug') || name || '').toLowerCase().trim().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 
 const fail = (m) => { console.error(`✗ ${m}`); process.exit(1); };

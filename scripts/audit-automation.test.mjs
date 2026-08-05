@@ -106,6 +106,30 @@ t('개행을 붙여 쓰면 잡지 않는다', () => {
   return clean(r) ? null : `오탐: ${r.out}`;
 });
 
+t('같은 그룹 + 같은 상위 트리거 조합을 잡는다', () => {
+  // 08-04에 전화·영업시간 백필을 죽인 그 구조. 셋이 한 이벤트에 몰리고 한
+  // 그룹을 공유하면, 대기 중이던 하나가 매일 취소된다.
+  const wf = (n) => `name: ${n}\non:\n  workflow_run:\n    workflows: ['Auto-generate & publish posts']\n    types: [completed]\nconcurrency: places-bulk\njobs:\n  a:\n    steps:\n      - run: echo hi\n${TELEGRAM}\n`;
+  const r = audit({ 'a.yml': wf('Backfill A'), 'b.yml': wf('Backfill B'), 'c.yml': wf('Quality C') });
+  return /CONCURRENCY-CANCEL/.test(r.out) ? null : `놓침: ${r.out}`;
+});
+
+t('순차로 체인하면 잡지 않는다', () => {
+  const r = audit({
+    'a.yml': `name: Step A\non:\n  workflow_run:\n    workflows: ['Publish']\n    types: [completed]\nconcurrency: places-bulk\njobs:\n  a:\n    steps:\n      - run: echo hi\n${TELEGRAM}\n`,
+    'b.yml': `name: Step B\non:\n  workflow_run:\n    workflows: ['Step A']\n    types: [completed]\nconcurrency: places-bulk\njobs:\n  a:\n    steps:\n      - run: echo hi\n${TELEGRAM}\n`,
+  });
+  return clean(r) ? null : `오탐: ${r.out}`;
+});
+
+t('그룹이 다르면 같은 트리거여도 잡지 않는다', () => {
+  const r = audit({
+    'a.yml': `name: A\non:\n  workflow_run:\n    workflows: ['Publish']\n    types: [completed]\nconcurrency: group-a\njobs:\n  a:\n    steps:\n      - run: echo hi\n${TELEGRAM}\n`,
+    'b.yml': `name: B\non:\n  workflow_run:\n    workflows: ['Publish']\n    types: [completed]\nconcurrency: group-b\njobs:\n  a:\n    steps:\n      - run: echo hi\n${TELEGRAM}\n`,
+  });
+  return clean(r) ? null : `오탐: ${r.out}`;
+});
+
 t('깨끗한 워크플로 하나만 있으면 아무것도 보고하지 않는다', () => {
   const r = audit({
     'ok.yml': `name: Fine\njobs:\n  a:\n    steps:\n      - run: node scripts/thing.mjs\n${TELEGRAM}\n`,

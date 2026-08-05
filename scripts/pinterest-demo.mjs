@@ -147,9 +147,18 @@ if (cmd === 'url') {
     }),
   });
   if (pin.body?.id) {
-    rule('STEP 10 — Reading the created Pin back by id');
-    await api(SANDBOX, `/v5/pins/${pin.body.id}`, sbToken);
-    console.log('\n  ✔ Pin created and verified. This is the same code path our daily job runs.');
+    // NOT a GET. The second review said so in as many words (2026-08-05):
+    // "After publishing a Pin you need to go to Pinterest to show it on the
+    // platform. A GET call cannot replace this step." So the terminal stops
+    // here and hands the recording a URL to open in the browser — which is also
+    // the only way a sandbox Pin can be shown at all, since those are visible
+    // solely to the account that created them while the app sits on Trial.
+    // Both of the reviewer's constraints, satisfied by the same shot.
+    rule('STEP 10 — The Pin on Pinterest (open this in the browser now)');
+    console.log(`\n     https://www.pinterest.com/pin/${pin.body.id}/\n`);
+    console.log('  ✔ Created by the same code path the daily job runs.');
+    console.log('    Sandbox Pins are visible only to the owning account, so what');
+    console.log('    follows is this Pin open in a signed-in Pinterest tab.\n');
   }
 } else {
   console.log('usage: pinterest-demo.mjs url | exchange <code> | calls');

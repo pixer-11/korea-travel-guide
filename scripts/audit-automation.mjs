@@ -33,6 +33,7 @@ const WF_DIR = process.argv[2] || '.github/workflows';
 const findings = [];
 const add = (kind, file, detail) => findings.push({ kind, file, detail });
 
+const contenders = [];   // {file, name, concurrency group, upstream workflows}
 const files = existsSync(WF_DIR) ? readdirSync(WF_DIR).filter((f) => /\.ya?ml$/.test(f)) : [];
 const sources = new Map(files.map((f) => [f, readFileSync(join(WF_DIR, f), 'utf8')]));
 
@@ -86,6 +87,21 @@ for (const [f, src] of sources) {
       `"${name}" sends no Telegram message and is not listed in job-failure-alert.yml — if it fails, or quietly stops doing its job, nothing says so.`);
   }
 
+  // ── CONCURRENCY-CANCEL ────────────────────────────────────
+  // Collected below and reported after the loop: two or more workflows that
+  // share a concurrency group AND fire on the same upstream event will contend,
+  // and GitHub does not queue them politely. When a request is already waiting
+  // in a group and a newer one arrives, the WAITING one is cancelled — so with
+  // three subscribers to one event, one dies every single day. That is what
+  // happened here: publish completion fanned out to backfill-details, backfill
+  // and quality-audit, all in `places-bulk`, and on 2026-08-04 the phone/hours
+  // backfill was killed with "Canceling since a higher priority waiting request
+  // for places-bulk exists". It also took fill-phase's bookkeeping with it, so
+  // the handover to country-fill could never have fired. Chain them instead.
+  const group = (src.match(/concurrency:\s*(?:\n\s*group:\s*)?([\w-]+)/) || [])[1];
+  const upstream = [...src.matchAll(/workflows:\s*\[?'([^']+)'/g)].map((m) => m[1]);
+  if (group && upstream.length) contenders.push({ f, name, group, upstream });
+
   // ── SWALLOWED ─────────────────────────────────────────────
   // `|| true` on a line that writes a file, where nothing afterwards checks
   // that the file has content. This is how a dead crawler stays invisible.
@@ -101,8 +117,25 @@ for (const [f, src] of sources) {
   }
 }
 
+// Same concurrency group + same upstream trigger = a daily cancellation.
+{
+  const seen = new Map();   // "group|upstream" → [workflow names]
+  for (const c of contenders) {
+    for (const up of c.upstream) {
+      const k = `${c.group}|${up}`;
+      (seen.get(k) || seen.set(k, []).get(k)).push(c.name);
+    }
+  }
+  for (const [k, names] of seen) {
+    if (names.length < 2) continue;
+    const [grp, up] = k.split('|');
+    add('CONCURRENCY-CANCEL', names.join(' + '),
+      `${names.length} workflows share concurrency group "${grp}" AND all fire on "${up}" completing. GitHub cancels the request that is WAITING when a newer one arrives, so one of them is destroyed on every run. Chain them by trigger instead of firing them in parallel.`);
+  }
+}
+
 // ── report ──────────────────────────────────────────────────
-const order = ['EMPTY-PASS', 'HEREDOC-GLUE', 'SILENT-JOB', 'SWALLOWED'];
+const order = ['EMPTY-PASS', 'CONCURRENCY-CANCEL', 'HEREDOC-GLUE', 'SILENT-JOB', 'SWALLOWED'];
 findings.sort((a, b) => order.indexOf(a.kind) - order.indexOf(b.kind) || a.file.localeCompare(b.file));
 for (const x of findings) console.log(`${x.kind.padEnd(13)} ${x.file}\n              ${x.detail}\n`);
 

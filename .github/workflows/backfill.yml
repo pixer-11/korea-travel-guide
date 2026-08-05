@@ -22,8 +22,18 @@ on:
   # publish must get the fresh Places window first, and GitHub has delayed the
   # publish cron by over three hours, which would let a fixed-time cron here run
   # first and eat the quota. The old '43 8 * * *' cron is gone for good.
+  # CHAINED BEHIND backfill-details, not beside it (2026-08-05). All three
+  # Places consumers — this, backfill-details and quality-audit — used to fire
+  # on the same publish completion into the same `places-bulk` concurrency
+  # group. GitHub does not queue three deep: when a third request arrives, the
+  # one already WAITING is cancelled. So one of the three died every single day,
+  # silently, and on 2026-08-04 it was backfill-details ("Canceling since a
+  # higher priority waiting request for places-bulk exists"). That also meant
+  # fill-phase.mjs never recorded a result, which is the counter that hands over
+  # to country-fill — the handover could not have happened, ever.
+  # Running them nose-to-tail costs a few minutes and cannot cancel anything.
   workflow_run:
-    workflows: ['Auto-generate & publish posts']
+    workflows: ['Backfill place details (phone/hours)']
     types: [completed]
   workflow_dispatch:
     inputs:
@@ -102,11 +112,14 @@ jobs:
             exit 0
           fi
           echo "count=$RAMP" >> "$GITHUB_OUTPUT"
-          if [ "${{ github.event.workflow_run.conclusion }}" != "success" ]; then
-            # A failed publish can leave the repo mid-change; piling a full batch
-            # on top of that buries the original failure.
+          # The upstream is now backfill-details, not publish (see the header).
+          # 'skipped' is a normal outcome there — its gate can decide it is not
+          # this phase's turn — and must NOT block the country fill, which was
+          # the whole point of moving the trigger. Only a genuine failure, which
+          # can leave the repo mid-change, is worth standing down for.
+          if [ "${{ github.event.workflow_run.conclusion }}" = "failure" ] || [ "${{ github.event.workflow_run.conclusion }}" = "cancelled" ]; then
             echo "run=0" >> "$GITHUB_OUTPUT"
-            echo "발행이 실패해서 이번 대량발행은 건너뜁니다."
+            echo "앞 단계(전화·영업시간 채우기)가 실패해서 이번 대량발행은 건너뜁니다."
           elif [ "$PHASE" != "country" ]; then
             echo "run=0" >> "$GITHUB_OUTPUT"
             echo "단계가 '$PHASE' 이므로 건너뜁니다 (전화·영업시간 채우기가 아직 진행 중)."
