@@ -68,6 +68,7 @@ faq:
     a: Petitenget Beach, several beach clubs, and Seminyak's main shopping streets are all a short drive or scooter ride from Livingstone, making it easy to pair with a beach or shopping stop.
 aiGenerated: true
 updatedDate: '2026-07-24'
+draft: true
 ---
 ## Why Livingstone Is on Every Petitenget Itinerary
 

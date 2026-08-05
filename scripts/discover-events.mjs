@@ -177,7 +177,15 @@ async function writeDiscovered(item, ctx) {
     ...(cat === 'event' && isIsoDate(item.endDate || item.startDate) && { eventEndDate: item.endDate || item.startDate }),
     heroImage, gallery: [],
     tags: [item.city.toLowerCase(), kind === 'event' ? 'event' : 'new & trending'],
-    quickAnswer, faq, aiGenerated: true, draft: false,
+    quickAnswer, faq, aiGenerated: true,
+    // A post with no hero starts life PARKED. It used to publish as draft:false
+    // and the gate quarantined it moments later for exactly that reason — 42
+    // posts on 2026-08-06, reported to the owner as "콘텐츠 검증 실패", which
+    // reads like broken content rather than "we could not find a photo we
+    // trust". The end state was always identical; only the alarm was wrong.
+    // Parked, it is an ordinary photo-quarantine, and the alt-photo patrol
+    // publishes it the night it finds a hero that clears the vision gate.
+    draft: !heroImage,
   };
   const src = kind === 'event'
     ? 'Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site.'

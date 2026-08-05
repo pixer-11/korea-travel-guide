@@ -173,3 +173,10 @@ if (process.env.GITHUB_OUTPUT && !dry) {
   appendFileSync(process.env.GITHUB_OUTPUT, `held=${held.length}\n`);
 }
 // Exit 0 on purpose: the publish must continue with the posts that passed.
+//
+// EXCEPT when a checker died. The crash branch above exits 1 only on the path
+// where nothing was flagged; if some other checker DID flag something, execution
+// reached here and returned 0 — so a run that both held posts and lost a checker
+// reported success. The workflow greps the log either way, but the exit code is
+// what tests and any future caller read.
+if (CRASHED.length) process.exit(1);

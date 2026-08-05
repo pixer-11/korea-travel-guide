@@ -269,6 +269,17 @@ for (const f of files) {
       console.log(`   ${slug}: candidate is the current hero — not a replacement`);
       continue;
     }
+    // Nor is a photo this post has ALREADY been quarantined for. Excluding only
+    // the CURRENT hero leaves the patrol free to pick the previous reject, and
+    // the candidate pool is stable enough that it does: on 2026-08-06 both
+    // bali-livingstone and chiang-mai-the-baristro came back carrying a photo the
+    // audit had marked MISMATCH the day before — a genuine swap, straight back
+    // into the same quarantine. The verdict store already knows; ask it.
+    const priorVerdict = auditStore[`${slug}\x01${cand.url}`];
+    if (priorVerdict && /MISMATCH/.test(String(priorVerdict.verdict))) {
+      console.log(`   ${slug}: candidate was judged wrong before (${priorVerdict.reasonKo || priorVerdict.reason}) — skipping`);
+      continue;
+    }
     const vis = await verifyHeroImage({ url: cand.url, ...ctx });
     if (/vision unavailable|no-api-key|vision check failed/i.test(vis.reason || '')) visionOutage = true;
     if (!vis.ok) { console.log(`   ${slug}: rejected (${vis.reason})`); continue; }
