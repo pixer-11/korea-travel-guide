@@ -30,15 +30,8 @@ place:
   lng: 136.66265149999998
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 7
-      - 8
-      - 17
-      - 18
-    weekendQuiet:
-      - 7
-      - 8
-      - 18
+    weekdayQuiet: [7, 8, 17]
+    weekendQuiet: [7, 8]
     weekendBusy:
       - 10
       - 11
@@ -47,6 +40,15 @@ place:
       - 14
       - 15
     venueId: ven_63704337314438444950355238462d7a4d592d796d56424a496843
+  phone: '+81 76-234-3800'
+  openingHours:
+    - 'Monday: 7:00 AM – 6:00 PM'
+    - 'Tuesday: 7:00 AM – 6:00 PM'
+    - 'Wednesday: 7:00 AM – 6:00 PM'
+    - 'Thursday: 7:00 AM – 6:00 PM'
+    - 'Friday: 7:00 AM – 6:00 PM'
+    - 'Saturday: 7:00 AM – 6:00 PM'
+    - 'Sunday: 7:00 AM – 6:00 PM'
 tags:
   - kanazawa
   - top attraction

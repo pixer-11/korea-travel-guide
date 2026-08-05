@@ -1,4 +1,4 @@
-Priority: 33 itinerary stop(s) queued first
+Priority: 35 itinerary stop(s) queued first
   – bangkok-saladaeng.md: nothing new
   – bangkok-the-grand-palace.md: nothing new
   – seoul-bukchon-yukgyeong-photo-spot.md: nothing new
@@ -6,9 +6,10 @@ Priority: 33 itinerary stop(s) queued first
   – seoul-london-bagel-museum.md: nothing new
   – seoul-myeongdong-shopping-street.md: nothing new
   – tokyo-fish-market-tsukiji-outer-market.md: nothing new
-  – tokyo-fuglen-tokyo.md: nothing new
+  ✓ tokyo-lenox-house.md +phone +7h hours
   – tokyo-meiji-jingu.md: nothing new
   – tokyo-senso-ji.md: nothing new
+  – tokyo-shibuya-crossing.md: nothing new
   – tokyo-teamlab-planets-tokyo-dmm.md: nothing new
   – tokyo-tokyo-ramen-street.md: nothing new
   – agra-agra-fort.md: nothing new
@@ -21,6 +22,7 @@ Priority: 33 itinerary stop(s) queued first
   – ayutthaya-ayutthaya-historical-park.md: nothing new
   – bali-bingin-uluwatu-pak-gula.md: nothing new
   – bandung-hummingbird-eatery-space.md: nothing new
+  – barcelona-la-rambla.md: nothing new
   – beijing-prince-gong-mansion.md: nothing new
   – bhubaneswar-udayagiri-and-khandagiri-caves.md: nothing new
   – bohol-bilar-man-made-forest.md: nothing new
@@ -72,13 +74,11 @@ Priority: 33 itinerary stop(s) queued first
   – jaipur-hawa-mahal.md: nothing new
   – jaipur-jal-mahal.md: nothing new
   – jeju-hyeopjae-beach.md: nothing new
-  ✓ jeju-seongsan-ilchulbong.md +phone +7h hours
-  ✓ jeju-yongyeon-suspension-bridge.md +7h hours
-  ✓ jeonju-hanok-village.md +phone +7h hours
-  ✓ jeonju-jeonju-hanok-village-cafe-masirange.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 21h (venue not open then); weekendQuiet: dropped 21h (venue not open then)
-  ✓ jeonju-jeonju-hanok-village-restaurant-jeonju-is-jeonju.md +phone +7h hours
-  ✓ kampong-glam-ayasofya-turkish-restaurant.md +phone +7h hours
-  ✓ kampong-glam-kampong-glam.md +7h hours
+  – jeju-yongyeon-suspension-bridge.md: nothing new
+  – kampong-glam-kampong-glam.md: nothing new
+  ✓ kampong-glam-sultan-mosque.md +phone +7h hours
+  ✓ kanazawa-curio-espresso-and-vintage-design-cafe.md +phone +7h hours
+  ✓ kanazawa-kenroku-en.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 18h (venue not open then); weekendQuiet: dropped 18h (venue not open then)
 
-BACKFILL RESULT: updated 7, backlog-updated 7, already-complete 170, no-new-data 73, no-place 59, closed-quarantined 0, quota-429 0, api-error 0, processed 80 of 653 (APPLIED).
+BACKFILL RESULT: updated 4, backlog-updated 4, already-complete 179, no-new-data 76, no-place 59, closed-quarantined 0, quota-429 0, api-error 0, processed 80 of 671 (APPLIED).

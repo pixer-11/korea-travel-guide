@@ -21,6 +21,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 35.6780961
   lng: 139.6923945
+  phone: '+81 3-6273-6600'
+  openingHours:
+    - 'Monday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM'
+    - 'Tuesday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM'
+    - 'Wednesday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM'
+    - 'Thursday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM'
+    - 'Friday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM'
+    - 'Saturday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM'
+    - 'Sunday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM'
 tags:
   - tokyo
   - new & trending

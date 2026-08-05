@@ -25,6 +25,15 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 1.3022854
   lng: 103.8589636
+  phone: '+65 6293 4405'
+  openingHours:
+    - 'Monday: 10:00 AM – 12:00 PM, 2:00 – 4:00 PM'
+    - 'Tuesday: 10:00 AM – 12:00 PM, 2:00 – 4:00 PM'
+    - 'Wednesday: 10:00 AM – 12:00 PM, 2:00 – 4:00 PM'
+    - 'Thursday: 10:00 AM – 12:00 PM, 2:00 – 4:00 PM'
+    - 'Friday: Closed'
+    - 'Saturday: 10:00 AM – 12:00 PM, 2:00 – 4:00 PM'
+    - 'Sunday: 10:00 AM – 12:00 PM, 2:00 – 4:00 PM'
 tags:
   - "kampong glam"
   - "top attraction"

@@ -43,6 +43,15 @@ place:
       - 13
       - 14
     venueId: ven_63726c5a454379634853665238462d7a343250306564694a496843
+  phone: '+81 76-231-5543'
+  openingHours:
+    - 'Monday: Closed'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 8:00 AM – 1:00 PM'
+    - 'Thursday: 8:00 AM – 1:00 PM'
+    - 'Friday: 8:00 AM – 3:00 PM'
+    - 'Saturday: 8:00 AM – 3:00 PM'
+    - 'Sunday: 8:00 AM – 3:00 PM'
 tags:
   - kanazawa
   - trendy cafe
