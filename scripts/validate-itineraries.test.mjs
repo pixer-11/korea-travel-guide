@@ -227,3 +227,29 @@ test('validateI18nEntry: non-empty label/intro/why produce no empty-string issue
   const issues = validateI18nEntry('itineraries-i18n/ko/seoul-1-days.md', data, itById);
   assert.deepEqual(issues.filter((i) => i.startsWith('EMPTY-')), []);
 });
+
+// ── 파킹된 일정의 번역 신선도 ────────────────────────────────
+// 번역기는 draft 를 건너뛰므로, 파킹된 일정의 번역 해시는 파킹 시점에 멈춘다.
+// 그것을 결함으로 보면 독자가 볼 수 없는 페이지 때문에 매일 밤 같은 경고가
+// 네 건씩 쌓인다(2026-08-05 실제 발생). 재공개는 build → translate 순서라
+// 같은 실행에서 갱신되므로 방치가 아니다.
+test('parked (draft) itinerary: stale translation is not a defect', () => {
+  const source = { slug: 'seoul-3-days', stopsHash: 'NEW', draft: true };
+  const issues = validateI18nEntry('ko/seoul-3-days.md',
+    { slug: 'seoul-3-days', sourceHash: 'OLD' }, new Map([['seoul-3-days', source]]));
+  assert.equal(issues.filter((i) => i.startsWith('STALE-TRANSLATION')).length, 0);
+});
+
+test('live itinerary: stale translation IS a defect', () => {
+  const source = { slug: 'tokyo-3-days', stopsHash: 'NEW', draft: false };
+  const issues = validateI18nEntry('ko/tokyo-3-days.md',
+    { slug: 'tokyo-3-days', sourceHash: 'OLD' }, new Map([['tokyo-3-days', source]]));
+  assert.equal(issues.filter((i) => i.startsWith('STALE-TRANSLATION')).length, 1);
+});
+
+test('live itinerary with matching hash stays silent', () => {
+  const source = { slug: 'tokyo-3-days', stopsHash: 'SAME', draft: false };
+  const issues = validateI18nEntry('ko/tokyo-3-days.md',
+    { slug: 'tokyo-3-days', sourceHash: 'SAME' }, new Map([['tokyo-3-days', source]]));
+  assert.equal(issues.filter((i) => i.startsWith('STALE-TRANSLATION')).length, 0);
+});

@@ -50,10 +50,25 @@ const slug = (arg('slug') || name || '').toLowerCase().trim().replace(/[^a-z0-9]
 
 const fail = (m) => { console.error(`✗ ${m}`); process.exit(1); };
 
+// Publishing candidates are (regions × 5 topic templates). A country given 7
+// regions can therefore never exceed 35 posts, while the fill target is 58 — six
+// countries sat in exactly that impossible state until 2026-08-05, when the whole
+// queue hit zero and the daily run published nothing. 12 regions (60 slots) is
+// the floor that makes the target reachable at all; 15 leaves room for the
+// venues that fail a guardrail.
+const MIN_REGIONS = 12;
+
 if (!name) fail('--name is required');
 if (!/^[a-z]{2}$/.test(iso2)) fail('--iso2 must be a 2-letter ISO-3166-1 alpha-2 code (e.g. pt)');
 if (!continent) fail('--continent is required');
 if (!regions.length) fail('--regions is required (comma-separated cities to publish guides for)');
+if (regions.length < MIN_REGIONS) {
+  fail(`--regions has ${regions.length} cities; ${MIN_REGIONS}+ are needed.\n` +
+       `  Candidates are regions × 5 topics, so ${regions.length} regions cap this country at ` +
+       `${regions.length * 5} posts — below the 58-post fill target, which is the state that ` +
+       `emptied the whole publishing queue on 2026-08-05.\n` +
+       `  Add more cities (15 is comfortable), or pass --regions again with the full list.`);
+}
 if (!blurb) fail('--blurb is required (one English line; ko/ja/es/zh are translated automatically)');
 
 const data = JSON.parse(await readFile(FILE, 'utf8'));

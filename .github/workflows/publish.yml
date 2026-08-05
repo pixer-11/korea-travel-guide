@@ -556,4 +556,16 @@ jobs:
           NEW: ${{ steps.commit.outputs.new }}
           TOTAL: ${{ steps.commit.outputs.total }}
           NEW_LIST: ${{ steps.commit.outputs.list }}
-        run: bash scripts/notify-telegram.sh "${{ inputs.label || 'Daily publish' }}"
+        run: |
+          # Explain a zero from what actually happened. The stock wording blames
+          # the Places quota, and on 2026-08-05 that sent the owner to wait for a
+          # reset which could not have helped: the queue was empty — every
+          # region×topic combination had already been published — so the run had
+          # nothing to attempt. A confident wrong diagnosis costs more than none.
+          QUEUE=$(grep -o 'PUBLISH_SUMMARY queue=[0-9]*' /tmp/gen.log 2>/dev/null | head -1 | grep -o '[0-9]*$' || true)
+          if [ "${QUEUE:-x}" = "0" ]; then
+            export ZERO_NOTE="🚨 새 글 0개 — 발행 후보가 바닥났습니다(Places 한도와 무관). 지역×주제 조합을 모두 써서, data/countries.json 에 도시를 추가해야 다시 발행됩니다."
+          elif [ -n "$QUEUE" ] && [ "$QUEUE" -lt 40 ] 2>/dev/null; then
+            export ZERO_NOTE="⚠️ 남은 발행 후보 ${QUEUE}개 — 곧 바닥납니다. 도시 추가가 필요합니다."
+          fi
+          bash scripts/notify-telegram.sh "${{ inputs.label || 'Daily publish' }}"

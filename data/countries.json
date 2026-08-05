@@ -55,7 +55,10 @@
         "Kanazawa",
         "Okinawa",
         "Yokohama",
-        "Chiba"
+        "Chiba",
+        "Kobe",
+        "Kumamoto",
+        "Nikko"
       ],
       "continent": "Asia"
     },
@@ -77,7 +80,12 @@
         "New Orleans",
         "Seattle",
         "Washington DC",
-        "Boston"
+        "Boston",
+        "San Diego",
+        "Austin",
+        "Nashville",
+        "Philadelphia",
+        "Portland"
       ],
       "continent": "North America"
     },
@@ -97,7 +105,14 @@
         "Ayutthaya",
         "Pattaya",
         "Koh Samui",
-        "Chiang Rai"
+        "Chiang Rai",
+        "Hua Hin",
+        "Koh Phi Phi",
+        "Pai",
+        "Kanchanaburi",
+        "Koh Chang",
+        "Sukhothai",
+        "Koh Tao"
       ],
       "continent": "Asia"
     },
@@ -117,7 +132,14 @@
         "Bordeaux",
         "Strasbourg",
         "Cannes",
-        "Provence"
+        "Provence",
+        "Colmar",
+        "Annecy",
+        "Toulouse",
+        "Avignon",
+        "Mont Saint-Michel",
+        "Chamonix",
+        "Nantes"
       ],
       "continent": "Europe"
     },
@@ -139,7 +161,12 @@
         "Turin",
         "Amalfi Coast",
         "Siena",
-        "Monza"
+        "Monza",
+        "Verona",
+        "Pisa",
+        "Cinque Terre",
+        "Palermo",
+        "Genoa"
       ],
       "continent": "Europe"
     },
@@ -162,7 +189,11 @@
         "Suzhou",
         "Hong Kong",
         "Qingdao",
-        "Taiyuan"
+        "Taiyuan",
+        "Lijiang",
+        "Zhangjiajie",
+        "Harbin",
+        "Sanya"
       ],
       "continent": "Asia"
     },
@@ -185,7 +216,11 @@
         "Bilbao",
         "Ibiza",
         "Buñol",
-        "Alcañiz"
+        "Alcañiz",
+        "Toledo",
+        "Cordoba",
+        "Segovia",
+        "Santiago de Compostela"
       ],
       "continent": "Europe"
     },
@@ -205,7 +240,14 @@
         "Ha Long Bay",
         "Nha Trang",
         "Hue",
-        "Phu Quoc"
+        "Phu Quoc",
+        "Sapa",
+        "Ninh Binh",
+        "Can Tho",
+        "Da Lat",
+        "Mui Ne",
+        "Phong Nha",
+        "Ha Giang"
       ],
       "continent": "Asia"
     },
@@ -224,7 +266,15 @@
         "Ras Al Khaimah",
         "Al Ain",
         "Fujairah",
-        "Ajman"
+        "Ajman",
+        "Dubai Marina",
+        "Palm Jumeirah",
+        "Downtown Dubai",
+        "Jumeirah",
+        "Deira",
+        "Yas Island",
+        "Saadiyat Island",
+        "Al Barsha"
       ],
       "continent": "Asia"
     },
@@ -243,7 +293,15 @@
         "Tainan",
         "Kaohsiung",
         "Hualien",
-        "Jiufen"
+        "Jiufen",
+        "Sun Moon Lake",
+        "Alishan",
+        "Kenting",
+        "Taroko Gorge",
+        "Yilan",
+        "Hsinchu",
+        "Pingxi",
+        "Chiayi"
       ],
       "continent": "Asia"
     },
@@ -262,7 +320,15 @@
         "Bandung",
         "Lombok",
         "Labuan Bajo",
-        "Surabaya"
+        "Surabaya",
+        "Ubud",
+        "Gili Islands",
+        "Komodo",
+        "Malang",
+        "Medan",
+        "Makassar",
+        "Mount Bromo",
+        "Nusa Penida"
       ],
       "continent": "Asia"
     },
@@ -281,7 +347,15 @@
         "Malacca",
         "Kota Kinabalu",
         "Ipoh",
-        "Johor Bahru"
+        "Johor Bahru",
+        "Cameron Highlands",
+        "Kuching",
+        "Genting Highlands",
+        "Putrajaya",
+        "Tioman",
+        "Perhentian Islands",
+        "Kuantan",
+        "Taiping"
       ],
       "continent": "Asia"
     },
@@ -303,7 +377,12 @@
         "Varanasi",
         "Udaipur",
         "Hyderabad",
-        "Bhubaneswar"
+        "Bhubaneswar",
+        "Kolkata",
+        "Chennai",
+        "Amritsar",
+        "Rishikesh",
+        "Kochi"
       ],
       "continent": "Asia"
     },
@@ -322,7 +401,15 @@
         "Palawan",
         "Bohol",
         "Siargao",
-        "Davao"
+        "Davao",
+        "El Nido",
+        "Baguio",
+        "Coron",
+        "Vigan",
+        "Iloilo",
+        "Puerto Princesa",
+        "Tagaytay",
+        "Dumaguete"
       ],
       "continent": "Asia"
     },
@@ -341,7 +428,15 @@
         "Izmir",
         "Bodrum",
         "Ankara",
-        "Pamukkale"
+        "Pamukkale",
+        "Bursa",
+        "Fethiye",
+        "Konya",
+        "Kas",
+        "Trabzon",
+        "Alanya",
+        "Marmaris",
+        "Selcuk"
       ],
       "continent": "Asia"
     },
@@ -361,7 +456,14 @@
         "Orchard Road",
         "Little India",
         "Kampong Glam",
-        "Clarke Quay"
+        "Clarke Quay",
+        "Bugis",
+        "Tiong Bahru",
+        "Katong",
+        "Dempsey Hill",
+        "Jurong",
+        "Bukit Timah",
+        "East Coast"
       ],
       "continent": "Asia"
     }

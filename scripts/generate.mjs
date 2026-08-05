@@ -68,12 +68,27 @@ const USE_PLACES = !DUMMY && !PLACELESS_ON_PURPOSE && !!process.env.GOOGLE_MAPS_
 // Topic templates auto-extend the queue so the site can publish daily for a
 // long time without hand-writing every target. They are applied to every
 // ACTIVE country's regions (see data/countries.json) → global by design.
+// Five templates capped every city at five posts, and an itinerary needs TWELVE
+// qualifying stops (gateFor in src/lib/itinerary.mjs). That is why only Seoul
+// (14) and Tokyo (12) ever had a 3-day plan while Bangkok sat parked at 10, and
+// why the 102 cities added on 2026-08-05 could never have earned one. Twelve
+// templates put a 3-day itinerary within reach of every city that has the venues
+// for it — and the guardrails (rating ≥4.0, ≥50 reviews, dedup, vision check)
+// still drop any slot a town genuinely cannot fill, so a small city simply ends
+// up with fewer posts rather than worse ones.
 const TOPIC_TEMPLATES = [
   { category: 'attraction', topic: 'top attraction', q: (r, c) => `top tourist attraction in ${r} ${c}` },
   { category: 'restaurant', topic: 'local restaurant', q: (r, c) => `best local restaurant in ${r} ${c}` },
   { category: 'hidden-gem', topic: 'hidden gem', q: (r, c) => `hidden gem worth visiting in ${r} ${c}` },
   { category: 'trendy', topic: 'trendy cafe', q: (r, c) => `trendy popular cafe in ${r} ${c}` },
   { category: 'restaurant', topic: 'street food', q: (r, c) => `famous street food spot in ${r} ${c}` },
+  { category: 'attraction', topic: 'museum', q: (r, c) => `best museum in ${r} ${c}` },
+  { category: 'attraction', topic: 'historic site', q: (r, c) => `historic landmark or temple in ${r} ${c}` },
+  { category: 'attraction', topic: 'park', q: (r, c) => `best park or garden in ${r} ${c}` },
+  { category: 'attraction', topic: 'viewpoint', q: (r, c) => `scenic viewpoint or observation deck in ${r} ${c}` },
+  { category: 'hidden-gem', topic: 'local market', q: (r, c) => `traditional market worth visiting in ${r} ${c}` },
+  { category: 'trendy', topic: 'bakery', q: (r, c) => `popular bakery or dessert shop in ${r} ${c}` },
+  { category: 'trendy', topic: 'bar', q: (r, c) => `well-reviewed bar or rooftop lounge in ${r} ${c}` },
 ];
 
 async function main() {
@@ -175,6 +190,14 @@ async function main() {
     ? `\n⚠️  ${detailsFailed} post(s) published WITHOUT phone/hours — the Details call FAILED (quota/network), so these are retry targets.`
     : '';
   console.log(`\n📦  Done. ${published} new post(s). ${done.size} target(s) completed total.${failNote}\n`);
+  // Machine-readable tail so the workflow can explain a zero HONESTLY. On
+  // 2026-08-05 the run published nothing and the Telegram report blamed the
+  // Places quota — the stock wording for any zero — when the real cause was
+  // that the queue had run dry: every region×topic combination had been used,
+  // and no amount of quota would have produced a post. The reader was told to
+  // wait for a reset that would change nothing. `queue` is the count BEFORE
+  // this run consumed any of it.
+  console.log(`PUBLISH_SUMMARY queue=${queue.length} published=${published} targets_done=${done.size}`);
 
   // Busy-times reporting. A missing key, an exhausted account and a venue that
   // simply has no forecast all produced the same silence before, which is how

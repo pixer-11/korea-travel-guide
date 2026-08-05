@@ -619,7 +619,15 @@ export function validateI18nEntry(file, data, itById) {
 
   if (!source) {
     issues.push(`ORPHAN-TRANSLATION: ${file} — no source itinerary "${d.slug}"`);
-  } else if (d.sourceHash !== source.stopsHash) {
+  } else if (d.sourceHash !== source.stopsHash && source.draft !== true) {
+    // A PARKED itinerary (draft: true — too few qualifying stops at the moment)
+    // is off the site, and translate-itineraries.mjs deliberately skips drafts,
+    // so its translations sit at whatever hash they had when it was parked.
+    // That is not a defect: publish.yml runs build-itineraries BEFORE
+    // translate-itineraries, so the night the city re-qualifies and the page
+    // goes live, its translations are regenerated in the same run. Flagging it
+    // meant Seoul and Bangkok sent four identical warnings every single night
+    // about pages no reader can reach (2026-08-05).
     issues.push(`STALE-TRANSLATION: ${file}`);
   }
 
