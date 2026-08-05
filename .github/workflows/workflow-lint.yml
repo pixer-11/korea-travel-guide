@@ -47,6 +47,20 @@ jobs:
         # the owner noticing (2026-08-05).
         run: node scripts/audit-automation.mjs
 
+      - name: Check scheduled jobs are still running
+        # The file audit reads what a workflow SAYS. This asks GitHub what
+        # actually happened: a job can be valid, wired to Telegram, listed in
+        # the failure watcher — and simply stop firing (GitHub disables
+        # schedules on repos it deems inactive, and a cron can be edited into a
+        # slot that never comes). The evidence is silence, which looks exactly
+        # like a quiet healthy night. Warn only; a late job is a question, not
+        # a broken build.
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: node scripts/audit-workflow-freshness.mjs
+
       - name: Alert on broken workflow files
         if: failure()
         env:
