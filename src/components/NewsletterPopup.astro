@@ -67,7 +67,7 @@ const onChecklistPage = Astro.url.pathname.includes('/free/trip-checklist');
   .nlp-form { display: flex; flex-direction: column; gap: 0.55rem; }
   .nlp-form input[type='email'] {
     border: 1px solid var(--line); border-radius: var(--r-sm, 8px);
-    padding: 0.6rem 0.8rem; font-size: 0.95rem; background: var(--bg, #fff); color: inherit;
+    padding: 0.6rem 0.8rem; font-size: 1rem; /* 16px floor — below it iOS Safari zooms in on focus and never zooms back */ background: var(--bg, #fff); color: inherit;
   }
   .nlp-cta { width: 100%; }
   .nlp-note { font-size: 0.88rem; margin: 0.5rem 0 0; }

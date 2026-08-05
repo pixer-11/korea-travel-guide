@@ -671,7 +671,13 @@ body:has(#img-lightbox[open]) { overflow: hidden; }
 .prose .mid-cta-lead { font-weight: 650; color: var(--ink); }
 .prose .mid-cta-link { font-weight: 600; white-space: nowrap; }
 .prose h3 { font-size: 1.25rem; margin-top: 1.8rem; color: var(--ink); }
-.prose a { color: var(--accent); text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
+/* --accent (#c8443a) is a FILL colour. As body-copy text it measures 4.37:1 on
+   paper, 4.09:1 inside the mid-article CTA tint and 3.91:1 in a pull-quote —
+   all under the 4.5:1 floor, across 4,735 inline links on 3,020 pages.
+   --accent-text exists for precisely this (6.04:1) and this rule was the one
+   place that never picked it up (found 2026-08-05). Dark mode already passed
+   and keeps its own lighter token. */
+.prose a { color: var(--accent-text); text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
 .prose a:hover { color: var(--accent-deep); }
 .prose ul, .prose ol { padding-left: 1.3rem; }
 .prose li + li { margin-top: 0.4rem; }
@@ -1203,6 +1209,9 @@ main:focus { outline: none; }
    behind white text that same lightening drops the buttons to 3.33:1. Fills
    go back down to a deep vermilion here; text elsewhere keeps the light one. */
 @media (prefers-color-scheme: dark) {
+  /* .skip-link was omitted here: white on the dark-lightened accent is
+     3.33:1, and it is the FIRST thing a keyboard user reaches (2026-08-05). */
+  :root:not([data-theme='light']) .skip-link,
   :root:not([data-theme='light']) .btn-primary,
   :root:not([data-theme='light']) .book-btn-primary,
   :root:not([data-theme='light']) .sb-primary,

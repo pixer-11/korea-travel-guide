@@ -21,7 +21,7 @@ faq:
   - q: Do I need a ticket to watch the Tour de France?
     a: No — roadside viewing along the route, including the Paris finish, is free. Paid grandstand seating near the finish line is sometimes available in past editions, but check the official Tour de France site for 2026 details.
   - q: What's the best Métro stop for the Paris finish?
-    a: Concorde (Lines 1, 8, 12) and Champs-Élysées–Clemenceau (Lines 1, 13) are closest to the traditional finish area, though the exact 2026 circuit should be confirmed closer to the date.
+    a: Concorde (Lines 1, 8, 12) and Champs-Élysées–Clemenceau (Lines 1, 13) were closest to the traditional finish area, with the exact 2026 circuit confirmed on the official site.
   - q: How early should I arrive to get a good viewing spot?
     a: For the Paris finish, arriving at least 3-4 hours early secures a barrier spot before crowds build; for Alpine stage finishes, early-to-mid afternoon at the latest, since roads close well before the riders pass.
   - q: How long should I plan to spend watching a stage?

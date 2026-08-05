@@ -62,12 +62,22 @@ const cardHref = (post: any) =>
 
 // Region-level FAQ — feeds a visible FAQ section + FAQPage schema. Questions are
 // translated chrome; answers reuse the curated (already-localized) info fields.
+// A question with no answer is worse than no question. 63 region entries are
+// missing one or more of getting/days/blurb, which shipped 42 pages carrying a
+// visible `<summary>How many days should I spend in Agra?</summary><p></p>` and
+// an `acceptedAnswer` with no `text` — invalid FAQPage schema that Google drops
+// outright — plus 16 pages rendering the literal placeholder "정보 없음" /
+// "情報なし" / "暂无信息" / "No disponible" as both the answer and the schema
+// text (found 2026-08-05). Drop the row instead: an unanswered question is worth
+// exactly one fewer accordion entry.
+const PLACEHOLDER_ANSWER = /^(정보\s*없음|情報なし|暂无信息|暫無資訊|No disponible|N\/?A|[-—])$/i;
+const usableAnswer = (a) => typeof a === 'string' && a.trim().length > 0 && !PLACEHOLDER_ANSWER.test(a.trim());
 const faq = info
   ? [
       { q: t('region.faqGetTo').replace('{region}', regionLabel), a: info.getting },
       { q: t('region.faqDays').replace('{region}', regionLabel), a: info.days },
       { q: t('region.faqKnownFor').replace('{region}', regionLabel), a: info.blurb },
-    ]
+    ].filter((f) => usableAnswer(f.a))
   : [];
 
 // Group this region's posts by category into labelled sections. The 3rd entry is
@@ -168,7 +178,9 @@ const roundupsHere = new Map(
     <div class="wrap">
       <p class="eyebrow">{t('region.eyebrow')}</p>
       <h1>{regionLabel}</h1>
-      {info ? <p class="region-blurb">{info.blurb}</p> : <p>{t('region.fallbackBlurb').replace('{region}', regionLabel).replace('{country}', countryLabel)}</p>}
+      {usableAnswer(info?.blurb)
+        ? <p class="region-blurb">{info.blurb}</p>
+        : <p>{t('region.fallbackBlurb').replace('{region}', regionLabel).replace('{country}', countryLabel)}</p>}
     </div>
   </section>
 
@@ -190,10 +202,13 @@ const roundupsHere = new Map(
         </div>
       )}
 
-      {info && (
+      {/* Same rule as the FAQ above: a labelled row whose value is blank or the
+          literal "정보 없음" is worse than no row. Omit the row, and the box
+          entirely when neither fact is usable. */}
+      {info && (usableAnswer(info.getting) || usableAnswer(info.days)) && (
         <div class="region-facts">
-          <div><span class="k">{t('region.gettingThere')}</span><span class="v">{info.getting}</span></div>
-          <div><span class="k">{t('region.howLong')}</span><span class="v">{info.days}</span></div>
+          {usableAnswer(info.getting) && <div><span class="k">{t('region.gettingThere')}</span><span class="v">{info.getting}</span></div>}
+          {usableAnswer(info.days) && <div><span class="k">{t('region.howLong')}</span><span class="v">{info.days}</span></div>}
         </div>
       )}
 

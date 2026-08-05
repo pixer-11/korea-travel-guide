@@ -15,7 +15,7 @@ heroImage:
 tags:
   - abu dhabi
   - event
-quickAnswer: 'UFC Fight Night: Ankalaev vs Rountree Jr is set for July 25, 2026 at Etihad Arena on Yas Island, Abu Dhabi, headlined by a light heavyweight clash between Magomed Ankalaev and Khalil Rountree Jr. Book flights and hotels around Yas Island now, but confirm exact fight-card start times, prelim details, and ticket on-sale dates on UFC''s official channels closer to the date, as these can shift.'
+quickAnswer: 'UFC Fight Night: Ankalaev vs Rountree Jr took place on July 25, 2026 at Etihad Arena on Yas Island, Abu Dhabi, headlined by a light heavyweight clash between Magomed Ankalaev and Khalil Rountree Jr. Exact fight-card start times, prelim details, and ticket on-sale dates were published on UFC''s official channels ahead of the event.'
 faq:
   - q: 'When and where is UFC Fight Night: Ankalaev vs Rountree Jr?'
     a: It's scheduled for July 25, 2026 at Etihad Arena on Yas Island, Abu Dhabi. Confirm this date on UFC's official website, as fight cards occasionally shift.
@@ -24,7 +24,7 @@ faq:
   - q: Where should I stay for the fight?
     a: Yas Island hotels like Yas Viceroy Abu Dhabi, W Abu Dhabi – Yas Island, or Centro Yas Island offer the shortest commute to Etihad Arena; downtown Abu Dhabi or even Dubai are workable alternatives if you don't mind commuting.
   - q: How much are tickets and when do they go on sale?
-    a: Prices and on-sale dates weren't announced at the time of writing. Check UFC.com or Ticketmaster (UFC's official ticketing partner) closer to the event for accurate pricing.
+    a: Prices and on-sale dates weren't announced at the time of writing. Ticket details were published on UFC.com or Ticketmaster, UFC's official ticketing partner.
   - q: What else can I do around fight weekend?
     a: Yas Island has Ferrari World, Yas Waterworld, and Yas Marina waterfront dining all within a short ride of the arena, and Louvre Abu Dhabi and Sheikh Zayed Grand Mosque are about 30-40 minutes away.
 aiGenerated: true

@@ -8,10 +8,10 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-07-25'
 eventEndDate: '2026-07-26'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Porsche_Formula_E_show_car_2024_Tokyo_e-Prix.jpg/1920px-Porsche_Formula_E_show_car_2024_Tokyo_e-Prix.jpg"
-  credit: "Photo: Morio / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Porsche_Formula_E_show_car_2024_Tokyo_e-Prix.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Porsche_Formula_E_show_car_2024_Tokyo_e-Prix.jpg/1920px-Porsche_Formula_E_show_car_2024_Tokyo_e-Prix.jpg
+  credit: 'Photo: Morio / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Porsche_Formula_E_show_car_2024_Tokyo_e-Prix.jpg
 gallery: []
 tags:
   - tokyo
@@ -21,7 +21,7 @@ faq:
   - q: Where exactly is the Tokyo Street Circuit?
     a: The precise street circuit layout and district haven't been officially detailed yet. Check the official Formula E website closer to the July 25-26, 2026 date for the confirmed map and nearest stations.
   - q: How do I get tickets?
-    a: Ticket sale dates and pricing haven't been announced. Follow Formula E's official site and social channels, as street circuit races often have tiered releases (general admission, grandstand, hospitality).
+    a: Ticket sale dates and pricing were not announced ahead of time. Ticket and set-time details were published on Formula E's official site and social channels, as street circuit races often have tiered releases (general admission, grandstand, hospitality).
   - q: What's the best way to reach the venue from Narita or Haneda airport?
     a: Haneda is closer to central Tokyo (roughly 30-45 minutes by monorail or Keikyu line); Narita takes 60-90 minutes via Narita Express or Skyliner. Use Tokyo's subway/JR network for the final leg, since road closures are likely near the circuit on race days.
   - q: How many days should I plan for the event?

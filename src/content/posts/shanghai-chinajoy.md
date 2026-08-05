@@ -8,10 +8,10 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-08-03'
 eventEndDate: '2026-08-03'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/ChinaJoy_2025_-_General_11.jpg/1920px-ChinaJoy_2025_-_General_11.jpg"
-  credit: "Photo: Xuthoria / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:ChinaJoy_2025_-_General_11.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/ChinaJoy_2025_-_General_11.jpg/1920px-ChinaJoy_2025_-_General_11.jpg
+  credit: 'Photo: Xuthoria / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:ChinaJoy_2025_-_General_11.jpg
 gallery: []
 tags:
   - shanghai
@@ -19,7 +19,7 @@ tags:
 quickAnswer: ChinaJoy 2026 (China Digital Entertainment Expo) runs July 31–August 3, 2026 in Shanghai, historically staged at the National Exhibition and Convention Center (NECC) in Hongqiao. Expect huge crowds, cosplay, booth-babe-heavy show floors, and both a trade (B2B) segment and a public (B2C) segment — confirm the exact venue, hall, ticket tiers, and daily hours on the official ChinaJoy site before you book flights or hotels.
 faq:
   - q: What are the confirmed dates for ChinaJoy 2026?
-    a: July 31 through August 3, 2026, according to official announcements — but always recheck the official ChinaJoy site closer to the date in case of changes.
+    a: July 31 through August 3, 2026, according to official announcements, at the venue in Shanghai.
   - q: Where is ChinaJoy held?
     a: It has historically taken place at the National Exhibition and Convention Center (NECC) in Shanghai's Hongqiao district, though the exact venue for 2026 should be confirmed via the official event site.
   - q: How do I get to the venue from the airport?

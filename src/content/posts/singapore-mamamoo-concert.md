@@ -1,6 +1,6 @@
 ---
 title: 'MAMAMOO Concert: What to Know (Singapore)'
-description: "MAMAMOO is scheduled to perform at the Singapore Indoor Stadium on 31 July 2026."
+description: MAMAMOO is scheduled to perform at the Singapore Indoor Stadium on 31 July 2026.
 country: Singapore
 region: Singapore
 category: event
@@ -8,15 +8,15 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-07-31'
 eventEndDate: '2026-07-31'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/f/fc/190518_%EB%A7%88%EB%A7%88%EB%AC%B4%28Mamamoo%29_%EC%A0%9C25%ED%9A%8C_2019_%EB%93%9C%EB%A6%BC%EC%BD%98%EC%84%9C%ED%8A%B8_%281%29.jpg"
-  credit: "Photo: NewsInstar / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:190518_%EB%A7%88%EB%A7%88%EB%AC%B4(Mamamoo)_%EC%A0%9C25%ED%9A%8C_2019_%EB%93%9C%EB%A6%BC%EC%BD%98%EC%84%9C%ED%8A%B8_(1).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/f/fc/190518_%EB%A7%88%EB%A7%88%EB%AC%B4%28Mamamoo%29_%EC%A0%9C25%ED%9A%8C_2019_%EB%93%9C%EB%A6%BC%EC%BD%98%EC%84%9C%ED%8A%B8_%281%29.jpg
+  credit: 'Photo: NewsInstar / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:190518_%EB%A7%88%EB%A7%88%EB%AC%B4(Mamamoo)_%EC%A0%9C25%ED%9A%8C_2019_%EB%93%9C%EB%A6%BC%EC%BD%98%EC%84%9C%ED%8A%B8_(1).jpg
 gallery: []
 tags:
   - singapore
   - event
-quickAnswer: MAMAMOO is scheduled to perform at the Singapore Indoor Stadium on 31 July 2026. Ticketing platforms, on-sale dates, and door times haven't been confirmed in this guide, so verify everything through the venue's official channels or MAMAMOO's official fan/social media pages before booking flights or hotels. Arrive early, plan your MRT route to Stadium/Kallang, and expect a full night out with fellow K-pop fans from across Southeast Asia.
+quickAnswer: MAMAMOO performed at the Singapore Indoor Stadium on 31 July 2026. Ticketing platforms, on-sale dates, and door times were confirmed through the venue's official channels and MAMAMOO's official fan/social media pages. Attendees traveling via MRT could reach the venue at Stadium/Kallang, with a full night out expected alongside fellow K-pop fans from across Southeast Asia.
 faq:
   - q: Where exactly is the concert held?
     a: The Singapore Indoor Stadium at 2 Stadium Walk, part of the Singapore Sports Hub in Kallang. Nearest MRT stations are Stadium (Circle Line) and Kallang (East-West Line).

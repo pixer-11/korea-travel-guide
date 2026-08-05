@@ -8,22 +8,22 @@ pubDate: '2026-07-21'
 eventStartDate: '2026-08-02'
 eventEndDate: '2026-08-02'
 heroImage:
-  url: "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8cm9jayUyMGNvbmNlcnQlMjBjcm93ZHxlbnwwfDB8fHwxNzg0Nzc1ODMwfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Nainoa Shizuru on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@nainoa?utm_source=korea_travel_guide&utm_medium=referral"
+  url: https://images.unsplash.com/photo-1459749411175-04bf5292ceea?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8cm9jayUyMGNvbmNlcnQlMjBjcm93ZHxlbnwwfDB8fHwxNzg0Nzc1ODMwfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Nainoa Shizuru on Unsplash
+  license: unsplash
+  source: https://unsplash.com/@nainoa?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - incheon
   - event
-quickAnswer: Incheon Pentaport Rock Festival 2026 runs July 31–August 2, 2026 at Songdo Moonlight Festival Park in Incheon, with the Pixies headlining alongside Korean acts hyukoh and LEE SEUNG YOON. Buy tickets and check the final set times, gates, and lineup on the official Pentaport site closer to the date, since festival details are routinely adjusted.
+quickAnswer: Incheon Pentaport Rock Festival 2026 ran July 31–August 2, 2026 at Songdo Moonlight Festival Park in Incheon, with the Pixies headlining alongside Korean acts hyukoh and LEE SEUNG YOON. Ticket information and final set times, gates, and lineup details were published on the official Pentaport site.
 faq:
   - q: What are the festival dates for 2026?
     a: July 31–August 2, 2026, per the current announcement. Festival dates can shift, so verify on the official Pentaport site before booking flights or hotels.
   - q: Where exactly is it held?
     a: Songdo Moonlight Festival Park in the Songdo International Business District, Incheon — accessible via Incheon Subway Line 1 (Central Park Station area) or about 20–30 minutes by taxi from Incheon International Airport.
   - q: Who's headlining?
-    a: The Pixies are the announced headliner, with Korean acts hyukoh and LEE SEUNG YOON also confirmed. Full daily lineup splits are typically released closer to the event.
+    a: The Pixies are the announced headliner, with Korean acts hyukoh and LEE SEUNG YOON also confirmed. Full daily lineup splits are typically released in the weeks before each edition.
   - q: How do I get tickets and how much do they cost?
     a: Tickets are sold through official Pentaport channels and authorized sellers; prices and ticket tiers (day passes, camping options) vary by year and aren't fixed yet, so check the official site for current rates.
   - q: What should I pack given the season?

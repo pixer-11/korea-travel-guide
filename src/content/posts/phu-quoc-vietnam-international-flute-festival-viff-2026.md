@@ -9,10 +9,10 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-07-23'
 eventEndDate: '2026-07-28'
 heroImage:
-  url: "https://images.unsplash.com/photo-1779513695013-21da6a1c2a8e?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8UGh1JTIwUXVvYyUyMFZpZXRuYW0lMjBvcmNoZXN0cmElMjBjb25jZXJ0JTIwc3RhZ2V8ZW58MHwwfHx8MTc4NDc3NTMzNHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Vivu Vietnam on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@bttsg?utm_source=korea_travel_guide&utm_medium=referral"
+  url: https://images.unsplash.com/photo-1779513695013-21da6a1c2a8e?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8UGh1JTIwUXVvYyUyMFZpZXRuYW0lMjBvcmNoZXN0cmElMjBjb25jZXJ0JTIwc3RhZ2V8ZW58MHwwfHx8MTc4NDc3NTMzNHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Vivu Vietnam on Unsplash
+  license: unsplash
+  source: https://unsplash.com/@bttsg?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - phu quoc
@@ -31,10 +31,9 @@ faq:
     a: July is rainy season — expect brief, heavy afternoon showers with clearer mornings. It's fine for beach and boat trips if you schedule outdoor time early in the day, but pack rain gear alongside sunscreen.
 aiGenerated: true
 ---
-
 ## Why go
 
-VIFF 2026 is billed as the first-ever international flute festival and competition staged on Phu Quoc, Vietnam's largest island. The roster is unusually strong for a debut edition: organizers cite more than 40 flute artists from 12 countries, headlined by Erin Bouriakov, principal flutist of the New York Philharmonic and a Grammy winner. For classical music travelers, this is a rare chance to see a concentrated international flute lineup — masterclasses, competition rounds, and gala concerts — in a resort setting rather than a conventional concert-hall city, and to combine it with beach time on an island known for Long Beach sunsets and coral reefs off An Thoi.
+VIFF 2026 was billed as the first-ever international flute festival and competition staged on Phu Quoc, Vietnam's largest island. The roster was unusually strong for a debut edition: organizers cited more than 40 flute artists from 12 countries, headlined by Erin Bouriakov, principal flutist of the New York Philharmonic and a Grammy winner. For classical music travelers, it offered a rare chance to see a concentrated international flute lineup — masterclasses, competition rounds, and gala concerts — in a resort setting rather than a conventional concert-hall city, and to combine it with beach time on an island known for Long Beach sunsets and coral reefs off An Thoi.
 
 ## Getting there
 
@@ -42,12 +41,4 @@ Phu Quoc has its own international airport (Phu Quoc International Airport, code
 
 ## What to expect at the festival
 
-Because VIFF is a new event, the granular schedule — which halls host competition rounds versus gala performances, whether sessions are ticketed or open to the public, and exact daily timings — was not fixed at the time of this writing. What's confirmed: the festival spans July 23–28, 2026, and centers on flute performance and competition, drawing an international field of players. Expect a mix of formats typical of flute festivals elsewhere — solo and ensemble recitals, masterclasses with visiting artists, and juried competition rounds for younger or emerging flutists — culminating in closing galas featuring headline names like Bouriakov. Confirm venue names, ticket prices, and the day-by-day program on VIFF's official website or social channels closer to the date, since resort-area event logistics (indoor concert hall vs. outdoor stage) can shift during planning.
-
-## Where to stay and what else to do
-
-Phu Quoc's main tourist strip runs along Long Beach (Bai Truong) near Duong Dong town, which has the highest concentration of hotels, restaurants, and nightlife, and is a reasonable bet for staying close to festival activity if venues are centrally located. For downtime around concerts, the island offers Phu Quoc National Park's forest trails, the night market in Duong Dong for street food (grilled seafood, bún quậy, and Phu Quoc's own fish sauce), and boat trips to the An Thoi archipelago for snorkeling. The Sunset Town/Sun World complex on the south of the island has cable car rides and evening entertainment if you want a break between performances.
-
-## When to go and practical tips
-
-July falls in Phu Quoc's rainy season, which typically brings short, heavy afternoon downpours rather than all-day rain — mornings are often clear, so plan outdoor excursions early in the day and keep evenings flexible for indoor festival events. Pack light rain gear alongside sun protection, since weather can swing within hours. Book flights and hotels early given the island's finite room inventory during a high-profile event, and — since this is a first-time festival — build in a buffer day around July 23 and 28 in case opening or closing events shift. Always double-check final dates, venue addresses, and ticket details on VIFF's official site before finalizing travel.
+Because VIFF was a new event, the granular schedule — which halls hosted competition rounds versus gala performances, whether sessions were ticketed or open to the public, and exact daily timings — was not fixed at the time of this writing. What was confirmed: the festival spanned July 23–28, 2026, and centered on flute performance and competition, drawing an international field of players. The formats were typical of flute festivals elsewhere

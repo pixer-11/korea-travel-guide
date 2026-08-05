@@ -1,25 +1,25 @@
 ---
 title: 'Lollapalooza 2026: What to Know (Chicago)'
-description: "Lollapalooza 2026 runs July 30–August 2 in Grant Park, Chicago, with headliners including Charli XCX, Lorde, and Doja Cat."
+description: Lollapalooza 2026 runs July 30–August 2 in Grant Park, Chicago, with headliners including Charli XCX, Lorde, and Doja Cat.
 country: United States
 region: Chicago
 category: event
-eventStartDate: 2026-07-30
-eventEndDate: 2026-08-02
+eventStartDate: 2026-07-30T00:00:00.000Z
+eventEndDate: 2026-08-02T00:00:00.000Z
 pubDate: '2026-07-21'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/NewDad_Lollapalooza_2025.png/1920px-NewDad_Lollapalooza_2025.png"
-  credit: "Photo: Ben1we / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:NewDad_Lollapalooza_2025.png"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/NewDad_Lollapalooza_2025.png/1920px-NewDad_Lollapalooza_2025.png
+  credit: 'Photo: Ben1we / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:NewDad_Lollapalooza_2025.png
 gallery: []
 tags:
   - chicago
   - event
-quickAnswer: Lollapalooza 2026 runs July 30–August 2 in Grant Park, Chicago, with headliners including Charli XCX, Lorde, and Doja Cat. Buy tickets and check set times only through the official Lollapalooza site/app once released, since gate locations, hours, and lineup slots can shift closer to the date. Base yourself near the Loop or South Loop so you can walk or take the CTA to Grant Park rather than drive.
+quickAnswer: Lollapalooza 2026 runs July 30–August 2 in Grant Park, Chicago, with headliners including Charli XCX, Lorde, and Doja Cat. Buy tickets and check set times only through the official Lollapalooza site/app for each edition, since gate locations, hours, and lineup slots shift from year to year. Base yourself near the Loop or South Loop so you can walk or take the CTA to Grant Park rather than drive.
 faq:
   - q: What are the exact dates for Lollapalooza 2026?
-    a: As announced, July 30–August 2, 2026, in Grant Park, Chicago. Confirm on the official Lollapalooza website closer to the event, since festival dates and details can be adjusted.
+    a: As announced, July 30–August 2, 2026, in Grant Park, Chicago. Confirm on the official Lollapalooza website for the edition you are attending, since festival dates and details can be adjusted.
   - q: Who is headlining Lollapalooza 2026?
     a: Confirmed headliners so far include Charli XCX, Lorde, and Doja Cat. The rest of the lineup and daily set times are typically released in phases, so check the official site/app for updates.
   - q: How do I get to Grant Park without driving?
@@ -34,7 +34,7 @@ draft: false
 
 ## Why go
 
-Lollapalooza is one of the few American festivals still held in the heart of a major downtown, and that's the appeal: Grant Park sits between Michigan Avenue and Lake Michigan, so between sets you can see the Chicago skyline, Buckingham Fountain, and the lake all from the festival grounds. The 2026 edition (July 30–August 2) has already confirmed Charli XCX, Lorde, and Doja Cat as headliners, continuing Lollapalooza's pattern of mixing pop, hip-hop, rock, and electronic acts across roughly eight stages. Expect the full lineup, set times, and daily posters to drop in the months before the event — treat anything you see now as a partial picture.
+Lollapalooza is one of the few American festivals still held in the heart of a major downtown, and that's the appeal: Grant Park sits between Michigan Avenue and Lake Michigan, so between sets you can see the Chicago skyline, Buckingham Fountain, and the lake all from the festival grounds. The 2026 edition (July 30–August 2) has already confirmed Charli XCX, Lorde, and Doja Cat as headliners, continuing Lollapalooza's pattern of mixing pop, hip-hop, rock, and electronic acts across roughly eight stages. The full lineup, set times and daily posters were published in the months before the festival, and follow the same pattern for each edition.
 
 ## Getting there
 
@@ -42,11 +42,11 @@ Grant Park is bounded by Michigan Avenue, Lake Shore Drive, Balbo Drive, and Roo
 
 ## What to expect inside
 
-Lollapalooza typically spans multiple stages spread across the park's lakefront lawns, with genre-mixed programming so you'll walk past house and electronic tents on the way to a rock or hip-hop headliner. Past years have featured on-site art installations, brand activations, a Kidzapalooza family area, and a curated food row with Chicago-based vendors alongside national chains — a good way to sample deep-dish, Italian beef, or local coffee without leaving the grounds. Water refill stations are usually placed throughout the park, worth using given the late-July Chicago heat and humidity. Bag policies (clear bag rules are standard at large U.S. festivals) and prohibited-item lists should be checked on the official Lollapalooza site closer to the date, since they're adjusted year to year.
+Lollapalooza typically spans multiple stages spread across the park's lakefront lawns, with genre-mixed programming so you'll walk past house and electronic tents on the way to a rock or hip-hop headliner. Past years have featured on-site art installations, brand activations, a Kidzapalooza family area, and a curated food row with Chicago-based vendors alongside national chains — a good way to sample deep-dish, Italian beef, or local coffee without leaving the grounds. Water refill stations are usually placed throughout the park, worth using given the late-July Chicago heat and humidity. Bag policies (clear bag rules are standard at large U.S. festivals) and prohibited-item lists are adjusted year to year and should be checked on the official Lollapalooza site for the edition you are attending.
 
 ## When to go and how long to stay
 
-The festival runs four days, Thursday through Sunday, and single-day and four-day passes are typically both offered, with four-day passes historically selling out first. If you only want the headliners, a single day covers it, but the full experience — including catching rising acts on smaller stages during the afternoon — takes the full weekend. Afternoons in Grant Park in late July regularly hit the high 80s°F with high humidity, so early sets are the most comfortable for walking the grounds and staking out spots before evening headliners draw the biggest crowds. Gates generally open late morning to early afternoon; confirm exact hours once published.
+The festival runs four days, Thursday through Sunday, and single-day and four-day passes are typically both offered, with four-day passes historically selling out first. If you only want the headliners, a single day covers it, but the full experience — including catching rising acts on smaller stages during the afternoon — takes the full weekend. Afternoons in Grant Park in late July regularly hit the high 80s°F with high humidity, so early sets are the most comfortable for walking the grounds and staking out spots before evening headliners draw the biggest crowds. Gates generally open late morning to early afternoon, with exact hours published for each edition.
 
 ## Nearby & practical tips
 

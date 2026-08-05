@@ -19,7 +19,7 @@ tags:
 quickAnswer: One Universe Festival 2026 is set for July 25–26, 2026, at Paradise City in Incheon, with a lineup that as announced includes The xx, Pendulum, My Bloody Valentine, and Turnstile. Plan around Incheon International Airport (a short ride from the Paradise City complex) and book accommodation early, since the resort area fills up fast on festival weekends. Confirm final dates, stage times, and ticket tiers on the official One Universe Festival channels before you book flights.
 faq:
   - q: What are the exact dates of One Universe Festival 2026?
-    a: The festival is currently set for July 25–26, 2026, at Paradise City in Incheon. Confirm this on the official festival site closer to the date, as details can shift.
+    a: The festival was held July 25–26, 2026, at Paradise City in Incheon.
   - q: How do I get from Incheon International Airport to the festival?
     a: Paradise City is just a few minutes from the airport terminals by taxi or shuttle, making it one of the most convenient major festivals in Asia to reach directly off an international flight.
   - q: Who is confirmed to perform?

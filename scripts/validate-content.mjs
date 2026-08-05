@@ -100,6 +100,10 @@ export function parsePost(f, t) {
     country: fm.country || '',
     description: fm.description || '',
     quickAnswer: fm.quickAnswer || '',
+    // Reader-visible, and serialised into FAQPage schema — so it needs the same
+    // scrutiny as the body. It was not exposed here at all until 2026-08-05,
+    // which is why the ended-event tense rule could never see it.
+    faq: Array.isArray(fm.faq) ? fm.faq : [],
     eventStart: fm.eventStartDate || '',
     eventEnd: fm.eventEndDate || fm.eventStartDate || '',
     gallery: (fm.gallery || []).map((g) => g && g.url).filter(Boolean),
@@ -192,9 +196,35 @@ export function postProblems(p, { today = new Date().toISOString().slice(0, 10) 
   // itself. Descriptive futures ("street circuits mean the cars will run through
   // the city") are timeless and must not be flagged — checked 2026-08-04, all 11
   // ended events were clean and this rule stayed quiet on them.
+  // Two blind spots, both found live on 2026-08-05 while this rule reported zero:
+  //  · it read ONLY p.body, so the Quick Answer box and the FAQ — the two most
+  //    prominent surfaces, and the FAQ is also serialised into FAQPage schema —
+  //    were never examined. 9 of 11 ended events were carrying future-tense text
+  //    in one of them.
+  //  · the four phrases missed the commonest shapes: "once released", "closer to
+  //    the event", "haven't been confirmed", "expect the lineup to drop".
+  // Still deliberately narrow: it must promise a FUTURE act OF THE EVENT. A
+  // timeless descriptive future ("street circuits mean the cars will run through
+  // the city") is not flagged.
   if (p.category === 'event' && p.eventEnd && isoDay(p.eventEnd) < today) {
-    const m = p.body.match(/\b(tickets\s+(?:go|will go)\s+on\s+sale|(?:the\s+)?(?:full\s+)?lineup\s+(?:will|has yet to|have yet to)\b|will\s+be\s+(?:announced|confirmed|revealed)|is\s+expected\s+to\s+be\s+(?:announced|confirmed))/i);
-    if (m) issues.push(`ENDED-EVENT-FUTURE-TENSE: ${p.f} — ended ${isoDay(p.eventEnd)} but the prose still says "${m[0]}"`);
+    const FUTURE_PROMISE = /\b(tickets\s+(?:go|will go)\s+on\s+sale|(?:the\s+)?(?:full\s+)?lineup\s+(?:will|has yet to|have yet to)\b|will\s+be\s+(?:announced|confirmed|revealed|published|released)|is\s+expected\s+to\s+be\s+(?:announced|confirmed)|once\s+(?:released|published|announced|confirmed|they'?re?\s+released)|closer\s+to\s+the\s+(?:event|date|festival|show)|(?:haven'?t|hasn'?t|weren'?t|wasn'?t)\s+been\s+(?:announced|confirmed|released)|yet\s+to\s+be\s+(?:announced|confirmed|released)|expect\s+(?:the\s+)?(?:full\s+)?(?:lineup|set times|schedule)[^.]{0,40}\bto\s+drop\b)/i;
+    // Every reader-visible prose surface, not just the body.
+    const surfaces = [
+      ['prose', p.body],
+      ['quickAnswer', p.quickAnswer],
+      // ANSWERS only. A question may legitimately be phrased forward ("Where do
+      // tickets go on sale?") — it is the answer that must not promise a future
+      // act. Including questions flagged seoul-stray-kids-concert, whose answer
+      // is a timeless "K-pop shows typically sell through Interpark or Yes24".
+      ['FAQ', Array.isArray(p.faq) ? p.faq.map((x) => x?.a ?? '').join(' ') : ''],
+    ];
+    for (const [where, text] of surfaces) {
+      const m = String(text || '').match(FUTURE_PROMISE);
+      if (m) {
+        issues.push(`ENDED-EVENT-FUTURE-TENSE: ${p.f} — ended ${isoDay(p.eventEnd)} but the ${where} still says "${m[0]}"`);
+        break;
+      }
+    }
   }
 
   // A rating written into the prose freezes at the moment it was written, while the

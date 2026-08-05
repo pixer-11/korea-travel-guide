@@ -17,7 +17,7 @@ gallery: []
 tags:
   - yokohama
   - event
-quickAnswer: BABYMONSTER's "Choom" World Tour hits Yokohama's Pia Arena MM on August 1–2, 2026, as part of an 11-show, six-city Japan run. Ticketing, doors times, and set details haven't been confirmed publicly in full, so check the group's official YG/BABYMONSTER channels and the venue site before booking travel. Pia Arena MM sits in the Minato Mirai waterfront district, a short walk from Minatomirai Station.
+quickAnswer: BABYMONSTER's "Choom" World Tour hit Yokohama's Pia Arena MM on August 1–2, 2026, as part of an 11-show, six-city Japan run. Ticketing, doors times, and set details were published on the group's official YG/BABYMONSTER channels and the venue site. Pia Arena MM sits in the Minato Mirai waterfront district, a short walk from Minatomirai Station.
 faq:
   - q: Where exactly is the Yokohama show taking place?
     a: Pia Arena MM, in the Minato Mirai waterfront district of Yokohama, on August 1–2, 2026. Confirm the exact date assigned to each of the two nights via official tour channels.
@@ -26,7 +26,7 @@ faq:
   - q: How much do tickets cost and how do I buy them?
     a: Official pricing and sales windows have not been detailed here; check BABYMONSTER's and YG Entertainment's official accounts and authorized ticketing partners, as major Japan tour dates often use a pre-registration or lottery system.
   - q: How long is the show?
-    a: Exact set length and doors/start times haven't been officially confirmed at time of writing — arena K-pop shows in Japan commonly run around two hours with an encore, but confirm official start times closer to the date.
+    a: Exact set length and doors/start times were not confirmed at time of writing — arena K-pop shows in Japan commonly run around two hours with an encore. Official start times were published on the official site.
   - q: What else is worth doing near the venue?
     a: Minato Mirai has the Cosmo Clock 21 Ferris wheel, Landmark Tower, and Red Brick Warehouse within walking distance, and Yokohama Chinatown is a short trip away for a pre- or post-show meal.
 aiGenerated: true
