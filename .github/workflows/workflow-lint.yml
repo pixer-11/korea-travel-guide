@@ -38,6 +38,15 @@ jobs:
             console.log("all workflows parse OK");
           '
 
+      - name: Audit the automation itself
+        # Parsing proves a workflow RUNS. It says nothing about whether what it
+        # runs still checks anything — the link check parsed perfectly while
+        # scanning zero links every week, and the accessibility check parsed
+        # perfectly while failing on precisely the runs that found something.
+        # These are the recurring shapes, now caught by pattern instead of by
+        # the owner noticing (2026-08-05).
+        run: node scripts/audit-automation.mjs
+
       - name: Alert on broken workflow files
         if: failure()
         env:

@@ -184,3 +184,69 @@ export async function verifyHeroImage({ url, name, category, region, country, ev
     return { ok: false, reason: `vision unavailable (${e.message.slice(0, 40)}) — not approved` };
   }
 }
+
+// ─────────────────────────────────────────────────────────────
+//  AUDIT VERDICT — the SECOND opinion, and the one that quarantines.
+//
+//  This prompt lived inside visual-audit.mjs while backfill-photos-alt.mjs used
+//  verifyHeroImage() above, so the site ran two independent judges with
+//  different wording and different thresholds. On 2026-08-05 that produced a
+//  loop the owner saw as "the same problems keep coming back": the audit
+//  quarantined five posts as MISMATCH overnight, the patrol re-approved the very
+//  same image URLs hours later, reported "교체 완료 · 전부 시각 검증 통과" — and
+//  the photos had not changed at all. Re-judged here, all five failed again.
+//
+//  One picture cannot have two truths. The patrol must clear the SAME bar that
+//  quarantined the post before it may republish, so this is exported and both
+//  callers use it.
+export async function auditHeroImage({ url, title, category, region, country }) {
+  if (!process.env.ANTHROPIC_API_KEY) {
+    return { verdict: 'UNKNOWN', reason: 'no-api-key', reasonKo: '' };
+  }
+  let data;
+  try {
+    data = await fetchAsBase64(url);
+  } catch (e) {
+    return { verdict: 'UNKNOWN', reason: `image unusable: ${e.message.slice(0, 50)}`, reasonKo: '' };
+  }
+  const prompt = `You are validating the hero image of a travel guide. The post is:
+Title: "${title}"
+Venue type: ${category}
+Place: ${region}, ${country}
+
+Look at the image. Does it plausibly depict THIS venue, its food, its interior/exterior, or its immediate street/setting?
+Answer MISMATCH if the image is clearly wrong — e.g. an empty/finished plate with only scraps, a building whose architecture is from the wrong country, the wrong city/country, or an unrelated subject (a grocery/convenience store for a café, an insect specimen, a museum statue/object, a random person's portrait, diving equipment, a vehicle/landscape/bridge for a restaurant, unrelated stock).
+Answer WEAK if it's the right place/country but generic and only loosely related.
+Answer MATCH if it plausibly fits.
+Reply with ONLY a compact JSON object: {"verdict":"MATCH|WEAK|MISMATCH","reason":"<8 words max>","reasonKo":"<같은 내용을 한국어로, 12자 이내>"}
+reasonKo must be written in Korean — it is sent to the site owner, who reads Korean, and an English reason has reached him twice before.`;
+  try {
+    const msg = await client.messages.create({
+      model: 'claude-haiku-4-5-20251001',
+      max_tokens: 120,
+      messages: [{
+        role: 'user',
+        content: [
+          { type: 'image', source: { type: 'base64', media_type: 'image/jpeg', data } },
+          { type: 'text', text: prompt },
+        ],
+      }],
+    });
+    const text = msg.content.filter((b) => b.type === 'text').map((b) => b.text).join('');
+    const m = text.match(/\{[\s\S]*\}/);
+    const j = m ? JSON.parse(m[0]) : null;
+    if (!j) return { verdict: 'UNKNOWN', reason: 'unparseable', reasonKo: '' };
+    const ko = String(j.reasonKo || '').slice(0, 40);
+    return {
+      verdict: String(j.verdict || 'UNKNOWN').toUpperCase(),
+      reason: String(j.reason || '').slice(0, 60),
+      // Keep reasonKo only when it actually contains Hangul — a model answering
+      // in English regardless would otherwise put English back into the owner's
+      // chat through the very field added to prevent it.
+      reasonKo: /[가-힣]/.test(ko) ? ko : '',
+    };
+  } catch (e) {
+    // UNKNOWN, never MATCH: an outage must not read as approval.
+    return { verdict: 'UNKNOWN', reason: `vision unavailable (${e.message.slice(0, 40)})`, reasonKo: '' };
+  }
+}

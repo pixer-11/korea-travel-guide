@@ -890,7 +890,12 @@ body:has(#img-lightbox[open]) { overflow: hidden; }
 .nl-note-ok { color: #b8f0d0; font-weight: 600; }
 .nl-note-ok a { color: #fff; text-decoration: underline; font-weight: 700; }
 .nl-note-err { color: #ffc9c2; }
-.nl-bonus { margin-top: 0.5rem; font-size: 0.92rem; font-weight: 600; color: #ffe9c9; }
+/* #ffe9c9 measured 4.09:1 on the vermilion band — under the 4.5:1 AA floor, and
+   the only accessibility error the site had (2026-08-05). #fff9f0 keeps the
+   cream tint and clears both bands with room: 4.62:1 on the light #c8443a,
+   5.27:1 on the dark override #b3443a. The obvious pick #fff6e8 lands on
+   4.51:1 — passing by a hundredth, which the next palette nudge would undo. */
+.nl-bonus { margin-top: 0.5rem; font-size: 0.92rem; font-weight: 600; color: #fff9f0; }
 .newsletter-compact { padding: clamp(1.8rem, 4vw, 2.6rem) 0; border-radius: var(--r-lg); margin: 2.75rem 0 0.5rem; }
 .newsletter-compact .nl-inner h2 { font-size: clamp(1.35rem, 2.4vw, 1.8rem); }
 .newsletter-compact .nl-dek { font-size: 0.92rem; }

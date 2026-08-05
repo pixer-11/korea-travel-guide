@@ -23,6 +23,11 @@ const fix = process.argv.includes('--fix');
 const loose = process.argv.includes('--loose');
 
 const bad = [];
+// Count what was EXAMINED, not just what was found. "0 heroes named as
+// something else" reads like a clean result whether the audit checked 355
+// Commons heroes or none at all — and a checker that reports zero after
+// looking at nothing is the failure this whole repo spent 2026-08-05 on.
+let examined = 0;
 for (const f of readdirSync(POSTS_DIR).filter((x) => x.endsWith('.md'))) {
   const m = readFileSync(join(POSTS_DIR, f), 'utf8').match(/^---\r?\n([\s\S]*?)\r?\n---/);
   if (!m) continue;
@@ -32,6 +37,7 @@ for (const f of readdirSync(POSTS_DIR).filter((x) => x.endsWith('.md'))) {
 
   const url = fm.heroImage?.url || '';
   if (!/wikimedia|wikipedia/.test(url)) continue;   // only Commons names are descriptive
+  examined++;
   const subject = fm.place?.name || String(fm.title || '').split(/[:—]/)[0].trim();
   const fileName = decodeURIComponent(url.split('/').pop() || '')
     .replace(/^\d+px-/, '').replace(/\.(jpe?g|png)$/i, '').replace(/_/g, ' ');
@@ -47,7 +53,7 @@ for (const f of readdirSync(POSTS_DIR).filter((x) => x.endsWith('.md'))) {
 }
 
 for (const b of bad) console.log(`${b.problem.padEnd(12)} ${b.f}\n             "${b.fileName}"  (subject: ${b.subject})`);
-console.log(`\n${bad.length} hero(es) named as something other than a photo of the place.`);
+console.log(`\n${bad.length} of ${examined} Commons hero(es) named as something other than a photo of the place.`);
 
 if (fix && bad.length) {
   const store = existsSync(QUEUE) ? JSON.parse(readFileSync(QUEUE, 'utf8')) : {};

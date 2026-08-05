@@ -19,6 +19,15 @@ on:
       - 'Auto-generate & publish posts'
       - 'Backfill countries to target'
       - 'Backfill place details (phone/hours)'
+      # Added 2026-08-05 by scripts/audit-automation.mjs, which found four
+      # workflows that neither reported for themselves nor appeared here — the
+      # very gap this file was created to close, reopened by every workflow
+      # added since. That audit now runs in workflow-lint.yml, so the list
+      # cannot quietly fall behind again.
+      - 'Backfill real venue photos'
+      - 'attach-placeless-photos'
+      - 'mailerlite-fields'
+      - 'Test Telegram notification'
       - 'Broken-link check'
       - 'Check affiliate program status'
       - 'Daily analytics report (Telegram)'

@@ -2988,9 +2988,9 @@
  "bangkok-saladaeng\u0001https://fastly.4sqi.net/img/general/original/3469731_ZH6pk4ZDZc3mFJowhlXiL3NDNd5KENqk9xHjHoasD9k.jpg": {
   "slug": "bangkok-saladaeng",
   "verdict": "MISMATCH",
-  "reason": "Street food cart, not trendy restaurant venue",
-  "reasonKo": "트렌디한 식당이 아닌 노점상",
-  "at": "2026-08-03T12:45:09.886Z"
+  "reason": "Street food cart, not trendy venue dining",
+  "reasonKo": "트렌디한 장소가 아닌 노점상",
+  "at": "2026-08-05T00:22:11.732Z"
  },
  "bangkok-sea-life-bangkok-ocean-world\u0001https://fastly.4sqi.net/img/general/original/21595960_oAXGWlOMYqGsjy5ku-XI51g5y9D2NcSP1rti0H4nMIs.jpg": {
   "slug": "bangkok-sea-life-bangkok-ocean-world",
@@ -3254,9 +3254,9 @@
  "chiang-mai-the-baristro-asian-style\u0001https://fastly.4sqi.net/img/general/original/6752082_29QmWLDBx5muL9kjApjzkCdVgZfHgYVSyahB9BW7mT8.jpg": {
   "slug": "chiang-mai-the-baristro-asian-style",
   "verdict": "MISMATCH",
-  "reason": "Beauty/wellness products, not restaurant interior",
-  "reasonKo": "레스토랑이 아닌 뷰티 제품 진열",
-  "at": "2026-08-03T12:46:38.679Z"
+  "reason": "Retail product display, not restaurant interior",
+  "reasonKo": "카페가 아닌 소매점 진열대",
+  "at": "2026-08-05T00:22:13.524Z"
  },
  "chiang-rai-chivit-thamma-da-coffee-house-bistro-bar\u0001https://fastly.4sqi.net/img/general/original/E9DSjP0_Gy3DhInRt-Mm__bGC0S2zJ8dcIotOGblAP0.jpg": {
   "slug": "chiang-rai-chivit-thamma-da-coffee-house-bistro-bar",
@@ -4290,9 +4290,9 @@
  "nagoya-noritake-garden\u0001https://fastly.4sqi.net/img/general/original/24392102_6y_JHt2YHw_BbzpQnJ39XJAceFOs7wfyJF32bEcj0go.jpg": {
   "slug": "nagoya-noritake-garden",
   "verdict": "MISMATCH",
-  "reason": "European brick courtyard, not Noritake Garden Nagoya",
-  "reasonKo": "나고야가 아닌 유럽 건축물",
-  "at": "2026-08-03T14:32:31.753Z"
+  "reason": "European brick courtyard, not Nagoya garden",
+  "reasonKo": "나고야 정원이 아닌 유럽식 벽돌 건물",
+  "at": "2026-08-05T00:22:15.353Z"
  },
  "naples-archaeological-park-of-pompeii\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Amphitheatre%2C_Archaeological_Park_of_Pompeii%2C_Italy_%28PPL2-Enhanced%29_julesvernex2.jpg/1920px-Amphitheatre%2C_Archaeological_Park_of_Pompeii%2C_Italy_%28PPL2-Enhanced%29_julesvernex2.jpg": {
   "slug": "naples-archaeological-park-of-pompeii",
@@ -5452,9 +5452,9 @@
  "bali-livingstone\u0001https://fastly.4sqi.net/img/general/original/8906098_pU_BGdqi1PvX0ow6fSZhmupYplO8uGCMIhu7j4P36UI.jpg": {
   "slug": "bali-livingstone",
   "verdict": "MISMATCH",
-  "reason": "Bakery display, not a trendy restaurant venue",
-  "reasonKo": "베이커리 진열장, 레스토랑 아님",
-  "at": "2026-08-04T11:56:52.895Z"
+  "reason": "Bakery display case, not Livingstone restaurant",
+  "reasonKo": "레스토랑이 아닌 베이커리 디스플레이",
+  "at": "2026-08-05T00:22:09.778Z"
  },
  "bangkok-saladaeng\u0001https://fastly.4sqi.net/img/general/original/6154755_U_2nkCJlKeM8CdhBxxHh7py55UqNZ62XsHaU78Bb7Lg.jpg": {
   "slug": "bangkok-saladaeng",
@@ -5635,8 +5635,8 @@
   "slug": "naples-archaeological-park-of-pompeii",
   "verdict": "MISMATCH",
   "reason": "Roman aqueduct, not Pompeii archaeological site",
-  "reasonKo": "폼페이가 아닌 로마 수로교",
-  "at": "2026-08-04T11:58:33.141Z"
+  "reasonKo": "폼페이가 아닌 로마 수도교",
+  "at": "2026-08-05T00:22:17.979Z"
  },
  "new-york-ralph-s-coffee\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Gertrude_Rhinelander_Waldo_House_%2851660337406%29.jpg/1920px-Gertrude_Rhinelander_Waldo_House_%2851660337406%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
   "slug": "new-york-ralph-s-coffee",
@@ -5697,9 +5697,9 @@
  "seoul-gyeongbokgung-palace\u0001https://fastly.4sqi.net/img/general/original/67350312_h2FqJ-DhM8cRlX91Qeg0L59R3anjSbmbKUbJmQN4tr4.jpg": {
   "slug": "seoul-gyeongbokgung-palace",
   "verdict": "MATCH",
-  "reason": "Gyeongbokgung Palace exterior with traditional architecture",
-  "reasonKo": "경복궁의 전통 건축과 석조 난간",
-  "at": "2026-08-04T11:59:06.284Z"
+  "reason": "Gyeongbokgung Palace exterior with distinctive architecture",
+  "reasonKo": "경복궁의 특징적인 건축물과 외부",
+  "at": "2026-08-05T00:27:06.468Z"
  },
  "seoul-yeouido-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Yeouido_Park_Pond_201604.jpg/1920px-Yeouido_Park_Pond_201604.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
   "slug": "seoul-yeouido-park",
@@ -5977,9 +5977,9 @@
  "shanghai-shanghai-tower\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Shanghai_-_Shanghai_Tower_-_0002.jpg/3840px-Shanghai_-_Shanghai_Tower_-_0002.jpg": {
   "slug": "shanghai-shanghai-tower",
   "verdict": "MATCH",
-  "reason": "Shanghai Tower dominates skyline, correct location",
-  "reasonKo": "상하이 타워가 스카이라인을 지배함",
-  "at": "2026-08-04T12:23:32.724Z"
+  "reason": "Shanghai Tower with distinctive spiral design visible",
+  "reasonKo": "상징적인 나선형 디자인의 상하이 타워",
+  "at": "2026-08-05T00:27:09.857Z"
  },
  "suncheon-suncheon-bay-national-garden\u0001https://upload.wikimedia.org/wikipedia/commons/4/43/Panorama_of_International_Garden_Exposition_Suncheon_Bay_Korea_2013.jpg": {
   "slug": "suncheon-suncheon-bay-national-garden",
@@ -6008,5 +6008,68 @@
   "reason": "Xi'an city wall with authentic architecture clearly visible",
   "reasonKo": "시안 성벽의 정통 건축물이 명확히 보임",
   "at": "2026-08-04T12:23:45.475Z"
+ },
+ "bangkok-the-grand-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/A_roof_of_a_building_at_the_Grand_Palace%2C_Bangkok%2C_sunrise%2C_2017.jpg/1920px-A_roof_of_a_building_at_the_Grand_Palace%2C_Bangkok%2C_sunrise%2C_2017.jpg": {
+  "slug": "bangkok-the-grand-palace",
+  "verdict": "MATCH",
+  "reason": "Thai temple architecture silhouetted at sunset, Bangkok",
+  "reasonKo": "방콕 사원 건축, 석양 실루엣",
+  "at": "2026-08-05T00:28:01.676Z"
+ },
+ "chinatown-my-awesome-cafe\u0001https://fastly.4sqi.net/img/general/original/12411077_GsXkjQUNqD3dvpGxv7UK-xjn01vmSKJlfvlHISbwBbY.jpg": {
+  "slug": "chinatown-my-awesome-cafe",
+  "verdict": "WEAK",
+  "reason": "Generic beverage, no distinctive venue markers visible",
+  "reasonKo": "일반적인 음료, 장소 특성 없음",
+  "at": "2026-08-05T00:28:04.222Z"
+ },
+ "guangzhou-huacheng-square\u0001https://fastly.4sqi.net/img/general/original/8615217_xUa20zEDx2ezxr1fpHXpdTjyYuGBOkCYaHdompneGZ8.jpg": {
+  "slug": "guangzhou-huacheng-square",
+  "verdict": "MATCH",
+  "reason": "Modern skyscraper nightscape, Guangzhou cityscape, palm tree",
+  "reasonKo": "광저우 현대 고층건물, 야경, 야자수 포함",
+  "at": "2026-08-05T00:28:06.254Z"
+ },
+ "jakarta-social-house-grand-indonesia\u0001https://fastly.4sqi.net/img/general/original/48406723_Hje7WFQ-kSjgm2-FdRaDzVLXawED8VT6YrfH76WsuXI.jpg": {
+  "slug": "jakarta-social-house-grand-indonesia",
+  "verdict": "MATCH",
+  "reason": "Multiple dishes from Social House restaurant, Jakarta",
+  "reasonKo": "자카르타 소셜하우스 식당의 다양한 요리",
+  "at": "2026-08-05T00:28:07.996Z"
+ },
+ "new-orleans-french-quarter\u0001https://fastly.4sqi.net/img/general/original/66774434_LE0jVXaG65Z22TIZ8C0-ZQP5lC54nXjqGWXx55KNwtM.jpg": {
+  "slug": "new-orleans-french-quarter",
+  "verdict": "MATCH",
+  "reason": "French Quarter archway with festive lights and ambiance",
+  "reasonKo": "프렌치쿼터 아치형 통로, 축제 조명",
+  "at": "2026-08-05T00:28:10.004Z"
+ },
+ "new-york-ralph-s-coffee\u0001https://fastly.4sqi.net/img/general/original/501162434_Jw06tpaWqkzMKAGNQdsWWdsjrAMxcQHRS48z9ZnnJxA.jpg": {
+  "slug": "new-york-ralph-s-coffee",
+  "verdict": "MATCH",
+  "reason": "Menu, flowers, café setting match Ralph's Coffee",
+  "reasonKo": "메뉴, 꽃, 카페 분위기가 일치",
+  "at": "2026-08-05T00:28:12.678Z"
+ },
+ "san-sebastian-haizearen-orrazia\u0001https://fastly.4sqi.net/img/general/original/6841083_2aebXZhtxSnm-gEV-DOlx8ftQSohs3LzYMKfS_OUlDU.jpg": {
+  "slug": "san-sebastian-haizearen-orrazia",
+  "verdict": "MISMATCH",
+  "reason": "Modern sculpture, not restaurant or food venue.",
+  "reasonKo": "레스토랑이 아닌 해안 조각 작품",
+  "at": "2026-08-05T00:28:14.762Z"
+ },
+ "surabaya-black-owl-surabaya\u0001https://fastly.4sqi.net/img/general/original/42531918_JX0CtbbJtCamTZ6Ph9F8-6DqCJ6kSL_3QkQlR7zEuHc.jpg": {
+  "slug": "surabaya-black-owl-surabaya",
+  "verdict": "MATCH",
+  "reason": "Upscale cocktail bar with artistic presentation",
+  "reasonKo": "예술적 칵테일 제시의 고급 바",
+  "at": "2026-08-05T00:28:16.628Z"
+ },
+ "tainan-anping-old-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Anping_Taiwan_Old-houses-of-Anping-01.jpg/1920px-Anping_Taiwan_Old-houses-of-Anping-01.jpg": {
+  "slug": "tainan-anping-old-street",
+  "verdict": "MATCH",
+  "reason": "Historic building with traditional architecture, Anping sett",
+  "reasonKo": "안평의 역사적 건물, 전통 건축양식",
+  "at": "2026-08-05T00:28:18.838Z"
  }
 }

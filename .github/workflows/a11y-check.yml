@@ -35,7 +35,15 @@ jobs:
             ]
           }
           CFG
+          # `|| true` is required: pa11y-ci exits non-zero when it FINDS issues,
+          # which is a result, not a failure. But it also exits non-zero when it
+          # cannot start at all, and then this file is empty — so the difference
+          # has to be checked here rather than assumed.
           npx --yes pa11y-ci --config /tmp/pa11y.json --json > /tmp/a11y.json || true
+          if [ ! -s /tmp/a11y.json ]; then
+            echo "::error::pa11y-ci produced no output — the scan did not run (Chrome launch, network, or config)"
+            exit 1
+          fi
           node -e '
             const r = JSON.parse(require("fs").readFileSync("/tmp/a11y.json","utf8"));
             const errs = r.errors ?? 0, total = r.total ?? 0, passes = r.passes ?? 0;
@@ -47,10 +55,28 @@ jobs:
             }
             const fs = require("fs");
             fs.writeFileSync("/tmp/summary.txt", `errors=${errs}\npages=${total}\n`);
-            fs.writeFileSync("/tmp/list.txt", lines.slice(0, 10).join("\n"));
+            // TRAILING NEWLINE IS LOAD-BEARING. join("\n") leaves the last line
+            // unterminated, so the `echo "EOF_LIST"` that closes the heredoc
+            // below landed glued to it — "…message.EOF_LIST" — and the runner
+            // rejected the whole step with "Matching delimiter not found".
+            // It only ever fired on a run that FOUND something: with zero
+            // findings the file is empty and the delimiter sits on its own line.
+            // So the check passed every week until the day it had news, and
+            // then reported "실행이 실패했습니다" instead of the news (2026-08-05).
+            const body = lines.slice(0, 10).join("\n");
+            fs.writeFileSync("/tmp/list.txt", body ? body + "\n" : "");
           '
           errors=$(grep '^errors=' /tmp/summary.txt | cut -d= -f2)
           pages=$(grep '^pages=' /tmp/summary.txt | cut -d= -f2)
+          # Zero pages scanned is a dead scanner, not an accessible site — and it
+          # reads exactly like a clean run unless something says otherwise. The
+          # config lists nine urls, so anything under that means pa11y-ci failed
+          # to reach them (Chrome launch, DNS, a moved page) and the "✅ 오류 0건"
+          # below would be a lie told with confidence.
+          if [ "${pages:-0}" -lt 9 ]; then
+            echo "::error::pa11y scanned only ${pages:-0} of 9 pages — the scan did not run properly"
+            exit 1
+          fi
           echo "errors=$errors" >> "$GITHUB_OUTPUT"
           echo "pages=$pages" >> "$GITHUB_OUTPUT"
           { echo "list<<EOF_LIST"; cat /tmp/list.txt; echo "EOF_LIST"; } >> "$GITHUB_OUTPUT"

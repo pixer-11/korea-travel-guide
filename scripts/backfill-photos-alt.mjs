@@ -23,7 +23,7 @@ import yaml from 'js-yaml';
 import { loadUsedImageUrls, resolveHero, eventTopic } from './lib/images.mjs';
 import { keyToken, tokens } from './lib/commons.mjs';
 import { venuePhotoCandidates } from './lib/photo-sources.mjs';
-import { verifyHeroImage } from './lib/vision-check.mjs';
+import { verifyHeroImage, auditHeroImage } from './lib/vision-check.mjs';
 import { hoursProblems } from './audit-hours-claims.mjs';
 
 const POSTS = 'src/content/posts';
@@ -260,9 +260,36 @@ for (const f of files) {
   let visionOutage = false; // an unverifiable candidate is not an EMPTY night
   for (const cand of cands) {
     if (used.has(cand.url)) continue;
+    // A candidate identical to the hero that got this post quarantined is not a
+    // replacement. On 2026-08-05 the pool handed back the current hero for five
+    // quarantined posts, verifyHeroImage approved what the audit had rejected,
+    // and all five were republished with the SAME wrong photo under the banner
+    // "교체 완료 · 전부 시각 검증 통과". Nothing had changed but the draft flag.
+    if (cand.url === data.heroImage?.url) {
+      console.log(`   ${slug}: candidate is the current hero — not a replacement`);
+      continue;
+    }
     const vis = await verifyHeroImage({ url: cand.url, ...ctx });
     if (/vision unavailable|no-api-key|vision check failed/i.test(vis.reason || '')) visionOutage = true;
     if (!vis.ok) { console.log(`   ${slug}: rejected (${vis.reason})`); continue; }
+    // Clear the bar that QUARANTINED the post, not merely the selection bar.
+    // These are two prompts with two thresholds; while they disagree a post
+    // bounces between quarantine and republish every night. The stricter audit
+    // gets the last word.
+    const second = await auditHeroImage({
+      url: cand.url, title: data.title, category: data.category,
+      region: data.region, country: data.country || '',
+    });
+    if (second.verdict === 'MISMATCH') {
+      console.log(`   ${slug}: selection passed but the audit rejects it (${second.reason}) — skipping`);
+      continue;
+    }
+    if (second.verdict === 'UNKNOWN') {
+      // Could not check ≠ approved.
+      visionOutage = true;
+      console.log(`   ${slug}: audit could not judge this candidate (${second.reason}) — leaving as is`);
+      continue;
+    }
     if (DRY) { console.log(`  · would fix ${slug} ← ${cand.url.slice(0, 70)}`); done = true; fixed++; break; }
     data.heroImage = { url: cand.url, credit: cand.credit, license: cand.license, source: cand.source };
     // The in-body photo was chosen earlier, from the same pool of candidates, so

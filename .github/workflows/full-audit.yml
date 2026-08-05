@@ -38,6 +38,17 @@ jobs:
           s=$(awk '/AUDIT DONE/ {print}' /tmp/audit.log | tail -1)
           echo "img=$(echo "$s" | awk -F'image FAIL ' '{print $2+0}')" >> "$GITHUB_OUTPUT"
           echo "prose=$(echo "$s" | awk -F'prose issues ' '{print $2+0}')" >> "$GITHUB_OUTPUT"
+          # How many posts were actually examined. The summary line has always
+          # carried it and nothing read it — so "✅ 전 글 무결" was printed from two
+          # counters that read zero whether the audit found nothing or LOOKED at
+          # nothing. That is exactly the shape that let the link check report a
+          # perfect site every week while scanning zero links (found 2026-08-05).
+          posts=$(echo "$s" | awk -F'— ' '{print $2+0}')
+          echo "posts=$posts" >> "$GITHUB_OUTPUT"
+          if [ "${posts:-0}" -lt 1 ]; then
+            echo "::error::audit examined $posts post(s) — it is not reading the content"
+            exit 1
+          fi
           true
 
       - name: Commit audit data
@@ -60,6 +71,7 @@ jobs:
           JOB_STATUS: ${{ job.status }}
           IMG: ${{ steps.audit.outputs.img }}
           PROSE: ${{ steps.audit.outputs.prose }}
+          POSTS: ${{ steps.audit.outputs.posts }}
         run: |
           [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
           {
@@ -70,7 +82,7 @@ jobs:
               echo "🖼️ 사진 불합격: ${IMG:-0}편 → 내일 새벽 자동 교체 시도"
               echo "✍️ 본문 지적: ${PROSE:-0}편 → 문장 수정 배치 대상"
               if [ "${IMG:-0}" = "0" ] && [ "${PROSE:-0}" = "0" ]; then
-                echo "✅ 전 글 무결 상태입니다."
+                echo "✅ 검사한 ${POSTS:-0}편 전부 무결 상태입니다."
               fi
             fi
           } > /tmp/msg.txt

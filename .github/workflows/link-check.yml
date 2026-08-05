@@ -28,14 +28,47 @@ jobs:
         id: crawl
         run: |
           set -o pipefail
-          npx --yes linkinator ./dist --recurse --silent \
-            --skip "^https?://" \
-            --format csv | tee /tmp/links.csv || true
+          # The site renders internal links as ABSOLUTE urls
+          # (https://wanderatlasguides.com/…), so the old `--skip "^https?://"`
+          # — meant to drop third-party links — matched every internal link too
+          # and the crawl scanned NOTHING. It still reported "✅ 0 broken", every
+          # week, for as long as the check has existed. Serving dist and
+          # rewriting the production origin onto it is what makes those links
+          # resolve to the build being tested; the skip then keeps only what is
+          # genuinely off-site.
+          npx --yes serve dist -p 8673 --no-clipboard --single=false > /tmp/serve.log 2>&1 &
+          for i in $(seq 1 30); do curl -sf -o /dev/null http://localhost:8673/ && break; sleep 1; done
+          curl -sf -o /dev/null http://localhost:8673/ || { echo "::error::static server never came up"; cat /tmp/serve.log; exit 1; }
+
+          # No --silent: it drops PASSING links from the csv as well as the
+          # console, which left `total` counting only failures. Between that and
+          # the skip pattern above, the report's "전체 N개 검사" was never the
+          # number of links actually examined — the one figure that would have
+          # revealed the crawl was doing nothing.
+          npx --yes linkinator http://localhost:8673 --recurse \
+            --url-rewrite-search "https://wanderatlasguides.com" \
+            --url-rewrite-replace "http://localhost:8673" \
+            --skip "^(?!http://localhost:8673)" \
+            --format csv > /tmp/links.csv || true
+          # `|| true` keeps a crawl that FOUND breakages from failing the step,
+          # but it equally hides a crawler that never started. An empty file is
+          # the latter, every time.
+          if [ ! -s /tmp/links.csv ]; then
+            echo "::error::linkinator produced no output — the crawl did not run"
+            exit 1
+          fi
           # CSV: url,status,state,parent — count real breakages.
           broken=$(awk -F, 'NR>1 && $3=="BROKEN" {c++} END{print c+0}' /tmp/links.csv)
           total=$(awk -F, 'NR>1 {c++} END{print c+0}' /tmp/links.csv)
           echo "broken=$broken" >> "$GITHUB_OUTPUT"
           echo "total=$total" >> "$GITHUB_OUTPUT"
+          # A crawl that examined nothing is a broken crawl, not a clean site.
+          # Reporting "all good" on an empty result set is how this hid for
+          # weeks — the number of links checked has to be part of the verdict.
+          if [ "$total" -lt 100 ]; then
+            echo "::error::crawl examined only $total link(s) — the crawler is not reading the site"
+            exit 1
+          fi
           # First 12 broken URLs for the report.
           {
             echo "list<<EOF_LIST"

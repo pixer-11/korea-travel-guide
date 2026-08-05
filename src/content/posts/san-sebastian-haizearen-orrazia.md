@@ -50,6 +50,7 @@ faq:
   - q: What's nearby worth combining with the visit?
     a: Ondarreta beach, the Miramar Palace gardens, and the Monte Igueldo funicular and viewpoint are all within a 10-minute walk.
 aiGenerated: true
+draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

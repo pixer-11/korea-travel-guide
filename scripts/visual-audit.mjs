@@ -14,7 +14,7 @@
 //   node scripts/visual-audit.mjs --slugs a,b,c   # audit specific posts (ignores done-log)
 //   node scripts/visual-audit.mjs --all           # re-audit everything (ignore done-log)
 import './lib/env.mjs';
-import Anthropic from '@anthropic-ai/sdk';
+import { auditHeroImage } from './lib/vision-check.mjs';
 import { readdir, readFile, writeFile } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import { join, dirname } from 'node:path';
@@ -25,8 +25,6 @@ import yaml from 'js-yaml';
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const POSTS_DIR = join(ROOT, 'src', 'content', 'posts');
 const STORE = join(ROOT, 'data', 'visual-audit.json');
-const MODEL = 'claude-haiku-4-5-20251001';
-const UA = 'WanderAtlasImageAudit/1.0 (contact pixer.vtm@gmail.com)';
 const LIMIT = Number(process.env.AUDIT_LIMIT || 0) || Infinity;
 const VENUE = new Set(['restaurant', 'trendy', 'hidden-gem', 'attraction']);
 
@@ -37,57 +35,14 @@ const argSlugs = (() => {
 const AUDIT_ALL = process.argv.includes('--all');
 
 if (!process.env.ANTHROPIC_API_KEY) { console.error('ANTHROPIC_API_KEY missing'); process.exit(1); }
-const anthropic = new Anthropic();
 
 // key = slug + '\x01' + heroUrl → re-checks automatically when the hero changes.
 const store = existsSync(STORE) ? JSON.parse(await readFile(STORE, 'utf8')) : {};
 
-async function toBase64(url) {
-  const res = await fetch(url, { headers: { 'User-Agent': UA } });
-  if (!res.ok) throw new Error(`img ${res.status}`);
-  const type = res.headers.get('content-type') || 'image/jpeg';
-  const media = /png/i.test(type) ? 'image/png' : /webp/i.test(type) ? 'image/webp' : /gif/i.test(type) ? 'image/gif' : 'image/jpeg';
-  const buf = Buffer.from(await res.arrayBuffer());
-  if (buf.length < 1000) throw new Error('img too small (error page?)');
-  return { media, data: buf.toString('base64') };
-}
-
-async function judge(post, img) {
-  const prompt = `You are validating the hero image of a travel guide. The post is:
-Title: "${post.title}"
-Venue type: ${post.category}
-Place: ${post.region}, ${post.country}
-
-Look at the image. Does it plausibly depict THIS venue, its food, its interior/exterior, or its immediate street/setting?
-Answer MISMATCH if the image is clearly wrong — e.g. an empty/finished plate with only scraps, a building whose architecture is from the wrong country, the wrong city/country, or an unrelated subject (a grocery/convenience store for a café, an insect specimen, a museum statue/object, a random person's portrait, diving equipment, a vehicle/landscape/bridge for a restaurant, unrelated stock).
-Answer WEAK if it's the right place/country but generic and only loosely related.
-Answer MATCH if it plausibly fits.
-Reply with ONLY a compact JSON object: {"verdict":"MATCH|WEAK|MISMATCH","reason":"<8 words max>","reasonKo":"<같은 내용을 한국어로, 12자 이내>"}
-reasonKo must be written in Korean — it is sent to the site owner, who reads Korean, and an English reason has reached him twice before.`;
-  const msg = await anthropic.messages.create({
-    model: MODEL,
-    max_tokens: 120,
-    messages: [{
-      role: 'user',
-      content: [
-        { type: 'image', source: { type: 'base64', media_type: img.media, data: img.data } },
-        { type: 'text', text: prompt },
-      ],
-    }],
-  });
-  const text = (msg.content.find((c) => c.type === 'text') || {}).text || '';
-  const m = text.match(/\{[\s\S]*\}/);
-  const j = m ? JSON.parse(m[0]) : { verdict: 'WEAK', reason: 'unparseable' };
-  // Only keep reasonKo if it actually contains Hangul — a model that answers in
-  // English regardless would otherwise put English back into the owner's chat
-  // through the very field added to prevent it.
-  const ko = String(j.reasonKo || '').slice(0, 40);
-  return {
-    verdict: String(j.verdict || 'WEAK').toUpperCase(),
-    reason: String(j.reason || '').slice(0, 60),
-    reasonKo: /[가-힣]/.test(ko) ? ko : '',
-  };
-}
+// 판정 로직은 scripts/lib/vision-check.mjs 의 auditHeroImage 하나뿐이다 —
+// 순찰(backfill-photos-alt)이 재공개할 때 통과해야 하는 바로 그 기준.
+// 프롬프트가 두 벌이던 시절에는 같은 사진을 한쪽은 격리하고 다른 쪽은
+// 재공개해서 매일 밤 왕복했다 (2026-08-05).
 
 const files = (await readdir(POSTS_DIR)).filter((f) => f.endsWith('.md'));
 let checked = 0, mismatch = 0, weak = 0, failed = 0, quarantined = 0;
@@ -122,8 +77,14 @@ for (const f of files) {
   if (!AUDIT_ALL && !argSlugs && store[key]) continue; // already judged this exact hero
 
   try {
-    const img = await toBase64(hero.url);
-    const v = await judge({ title: data.title, category: data.category, region: data.region, country: data.country || 'South Korea' }, img);
+    const v = await auditHeroImage({
+      url: hero.url, title: data.title, category: data.category,
+      region: data.region, country: data.country || 'South Korea',
+    });
+    // UNKNOWN = the image or the API could not be read. Storing it as a verdict
+    // would let an outage read as a judgement, and remembering what was actually
+    // judged is this store's whole job.
+    if (v.verdict === 'UNKNOWN') { failed++; console.log(`  ⚠️  ${slug}: ${v.reason}`); continue; }
     store[key] = { slug, verdict: v.verdict, reason: v.reason, reasonKo: v.reasonKo || null, at: new Date().toISOString() };
     checked++;
     // Korean only. The model's English `reason` used to be interpolated straight
