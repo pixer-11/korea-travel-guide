@@ -6071,5 +6071,362 @@
   "reason": "Historic building with traditional architecture, Anping sett",
   "reasonKo": "안평의 역사적 건물, 전통 건축양식",
   "at": "2026-08-05T00:28:18.838Z"
+ },
+ "amalfi-coast-valle-delle-ferriere\u0001https://upload.wikimedia.org/wikipedia/commons/b/b4/Valle_delle_Ferriere_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+  "slug": "amalfi-coast-valle-delle-ferriere",
+  "verdict": "MATCH",
+  "reason": "Forest trail with waterfall, typical valley scenery",
+  "reasonKo": "계곡 숲길과 폭포, 전형적인 경관",
+  "at": "2026-08-05T14:59:09.573Z"
+ },
+ "amalfi-coast-villa-rufolo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Ravello_Villa_Rufolo.JPG/1920px-Ravello_Villa_Rufolo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "amalfi-coast-villa-rufolo",
+  "verdict": "MATCH",
+  "reason": "Historic villa with tower, Mediterranean architecture, coast",
+  "reasonKo": "역사적 빌라, 지중해식 건축, 해안 산맥 배경",
+  "at": "2026-08-05T14:59:11.648Z"
+ },
+ "ayutthaya-wat-phra-si-sanphet\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Three_Chedi%28s%29_of_Wat_Phra_Si_Sanphet.jpg/1920px-Three_Chedi%28s%29_of_Wat_Phra_Si_Sanphet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "ayutthaya-wat-phra-si-sanphet",
+  "verdict": "MATCH",
+  "reason": "Three stupas clearly match Wat Phra Si Sanphet.",
+  "reasonKo": "왓 프라 씨 산펫의 세 개 스투파와 일치",
+  "at": "2026-08-05T14:59:14.886Z"
+ },
+ "bangkok-khlong-toei-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Workers_cutting_meat_or_fish_in_Khlong_Toei_market%2C_Bangkok.jpg/1920px-Workers_cutting_meat_or_fish_in_Khlong_Toei_market%2C_Bangkok.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "bangkok-khlong-toei-market",
+  "verdict": "MATCH",
+  "reason": "Market workers preparing food, authentic Bangkok setting",
+  "reasonKo": "방콕 시장 음식 준비, 현지 분위기",
+  "at": "2026-08-05T14:59:16.525Z"
+ },
+ "bangkok-king-power-mahanakhon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Panorama_from_top_of_King_Power_Maha_Nakhon_Tower.jpg/3840px-Panorama_from_top_of_King_Power_Maha_Nakhon_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "bangkok-king-power-mahanakhon",
+  "verdict": "MATCH",
+  "reason": "Bangkok skyline from high observation deck",
+  "reasonKo": "높은 전망대에서 본 방콕 스카이라인",
+  "at": "2026-08-05T14:59:18.580Z"
+ },
+ "bangkok-national-museum-bangkok\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bangkok_National_Museum_-_Joy_of_Museums.jpg/1920px-Bangkok_National_Museum_-_Joy_of_Museums.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "bangkok-national-museum-bangkok",
+  "verdict": "MISMATCH",
+  "reason": "Buddhist temple, not national museum building",
+  "reasonKo": "국립박물관이 아닌 불교사찰",
+  "at": "2026-08-05T14:59:21.362Z"
+ },
+ "bangkok-suan-luang-rama-ix\u0001https://upload.wikimedia.org/wikipedia/commons/6/63/Rama_IX_Park.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+  "slug": "bangkok-suan-luang-rama-ix",
+  "verdict": "MATCH",
+  "reason": "Suan Luang Rama IX park with distinctive golden pagoda",
+  "reasonKo": "황금 탑과 공원 풍경이 일치함",
+  "at": "2026-08-05T14:59:23.046Z"
+ },
+ "bangkok-the-temple-of-the-emerald-buddha\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Temple_of_the_Emerald_Buddha.jpg/3840px-Temple_of_the_Emerald_Buddha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "bangkok-the-temple-of-the-emerald-buddha",
+  "verdict": "MATCH",
+  "reason": "Grand Palace complex with distinctive Thai architecture",
+  "reasonKo": "태국 전형 건축의 대궁전 단지",
+  "at": "2026-08-05T14:59:25.472Z"
+ },
+ "bangkok-view-rooftop-bangkok\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/View_over_Sukhumvit_from_a_rooftop%2C_Bangkok.jpg/3840px-View_over_Sukhumvit_from_a_rooftop%2C_Bangkok.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "bangkok-view-rooftop-bangkok",
+  "verdict": "MATCH",
+  "reason": "High-rise rooftop bar with Bangkok skyline view",
+  "reasonKo": "방콕 스카이라인이 보이는 고층 루프탑",
+  "at": "2026-08-05T14:59:28.201Z"
+ },
+ "barcelona-museu-nacional-d-art-de-catalunya\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/%28Barcelona%29_Sal%C3%B3_Oval_%28Museu_Nacional_d%27Art_de_Catalunya%29_-_Southwest_part_of_the_room.jpg/3840px-%28Barcelona%29_Sal%C3%B3_Oval_%28Museu_Nacional_d%27Art_de_Catalunya%29_-_Southwest_part_of_the_room.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "barcelona-museu-nacional-d-art-de-catalunya",
+  "verdict": "MATCH",
+  "reason": "Grand interior of MNAC with iconic organ pipes",
+  "reasonKo": "MNAC의 상징적인 오르간이 있는 화려한 내부",
+  "at": "2026-08-05T14:59:30.510Z"
+ },
+ "busan-museum-1\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/%EB%B4%84_Busan_Museum_of_Movies.jpg/3840px-%EB%B4%84_Busan_Museum_of_Movies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "busan-museum-1",
+  "verdict": "MATCH",
+  "reason": "Busan Museum of Movies exterior, signage clearly visible",
+  "reasonKo": "부산영상미술관 외관, 간판 명확함",
+  "at": "2026-08-05T14:59:32.173Z"
+ },
+ "chiang-mai-chiang-mai-national-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Chiang_Mai_National_Museum.jpg/1920px-Chiang_Mai_National_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "chiang-mai-chiang-mai-national-museum",
+  "verdict": "MATCH",
+  "reason": "Chiang Mai National Museum entrance with distinctive Thai ar",
+  "reasonKo": "박물관 입구, 태국식 건축양식 명확",
+  "at": "2026-08-05T14:59:34.107Z"
+ },
+ "chiang-rai-baan-dam-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Muzeum_Baan_Dam%2C_nazywane_%E2%80%9ECzarnym_Domem%E2%80%9D_w_Chiang_Rai%2C_Tajlandia.jpg/1920px-Muzeum_Baan_Dam%2C_nazywane_%E2%80%9ECzarnym_Domem%E2%80%9D_w_Chiang_Rai%2C_Tajlandia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "chiang-rai-baan-dam-museum",
+  "verdict": "MATCH",
+  "reason": "Authentic Thai wooden temple architecture, Baan Dam style",
+  "reasonKo": "태국 목조 사원 건축, 반담 스타일",
+  "at": "2026-08-05T14:59:35.936Z"
+ },
+ "chiang-rai-king-mangrai-monument\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/King_Mangrai_Monument_%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2_%E0%B8%AB%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%AF_%28October_2021%29_-_img_03.jpg/3840px-King_Mangrai_Monument_%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2_%E0%B8%AB%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%AF_%28October_2021%29_-_img_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "chiang-rai-king-mangrai-monument",
+  "verdict": "MATCH",
+  "reason": "King Mangrai Monument with golden gates visible",
+  "reasonKo": "황금 문과 망라이 왕 동상 명확함",
+  "at": "2026-08-05T14:59:38.081Z"
+ },
+ "chicago-field-museum\u0001https://upload.wikimedia.org/wikipedia/commons/8/89/Field_Museum_of_Natural_History.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+  "slug": "chicago-field-museum",
+  "verdict": "MISMATCH",
+  "reason": "This is the Field Museum building, but image shows Art Insti",
+  "reasonKo": "필드박물관이 아닌 예술박물관입니다",
+  "at": "2026-08-05T14:59:40.247Z"
+ },
+ "florence-galleria-dell-accademia-di-firenze\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Busts_displayed_at_Galleria_dell%E2%80%99Accademia_di_Firenze.jpg/3840px-Busts_displayed_at_Galleria_dell%E2%80%99Accademia_di_Firenze.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "florence-galleria-dell-accademia-di-firenze",
+  "verdict": "MATCH",
+  "reason": "Classical busts displayed on shelves, museum interior",
+  "reasonKo": "박물관 내부, 고전 흉상 전시",
+  "at": "2026-08-05T14:59:42.428Z"
+ },
+ "granada-nasrid-palaces\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nasrid_Palaces_and_Palace_of_Charles_V._Alhambra%2C_Granada._Spain.jpg/3840px-Nasrid_Palaces_and_Palace_of_Charles_V._Alhambra%2C_Granada._Spain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "granada-nasrid-palaces",
+  "verdict": "MATCH",
+  "reason": "Alhambra palace complex, Granada, Spain exterior",
+  "reasonKo": "그라나다 알함브라 궁전 외부",
+  "at": "2026-08-05T14:59:44.170Z"
+ },
+ "granada-parque-de-las-ciencias\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Parque_de_las_Ciencias_de_Granada_%286290732847%29.jpg/1920px-Parque_de_las_Ciencias_de_Granada_%286290732847%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "granada-parque-de-las-ciencias",
+  "verdict": "MATCH",
+  "reason": "Modern museum building with waterfront, Granada Spain",
+  "reasonKo": "그라나다 현대 박물관 건물, 수변 위치",
+  "at": "2026-08-05T14:59:46.065Z"
+ },
+ "gyeongju-gyeongju-national-museum\u0001https://upload.wikimedia.org/wikipedia/commons/a/a8/Korea-Gyeongju.National.Museum-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+  "slug": "gyeongju-gyeongju-national-museum",
+  "verdict": "MATCH",
+  "reason": "Modern Korean museum building with distinctive pagoda tower",
+  "reasonKo": "독특한 탑 구조의 현대 한국 박물관",
+  "at": "2026-08-05T14:59:48.054Z"
+ },
+ "hangzhou-zhejiang-art-museum\u0001https://upload.wikimedia.org/wikipedia/commons/7/7d/Main_Hall_of_Zhejiang_Museum_Gushan_Branch_2012.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+  "slug": "hangzhou-zhejiang-art-museum",
+  "verdict": "MATCH",
+  "reason": "Traditional Chinese architecture, Hangzhou museum entrance",
+  "reasonKo": "항저우 박물관 입구, 중국 전통 건축",
+  "at": "2026-08-05T14:59:49.829Z"
+ },
+ "hiroshima-hiroshima-peace-memorial-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hiroshima_Peace_Memorial_Museum_2009.jpg/1920px-Hiroshima_Peace_Memorial_Museum_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "hiroshima-hiroshima-peace-memorial-museum",
+  "verdict": "MATCH",
+  "reason": "Hiroshima Peace Memorial Museum building exterior",
+  "reasonKo": "히로시마 평화기념관 건물 외관",
+  "at": "2026-08-05T14:59:52.245Z"
+ },
+ "hiroshima-mitaki-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Mitaki-dera_Taho-to.jpg/1920px-Mitaki-dera_Taho-to.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "hiroshima-mitaki-temple",
+  "verdict": "MATCH",
+  "reason": "Red temple roof visible amid vibrant autumn foliage",
+  "reasonKo": "빨간 사찰 지붕, 가을 단풍 배경",
+  "at": "2026-08-05T14:59:54.948Z"
+ },
+ "jeju-jeju-national-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Jeju_Island_20141129_10_%2815926202611%29.jpg/1920px-Jeju_Island_20141129_10_%2815926202611%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "jeju-jeju-national-museum",
+  "verdict": "MATCH",
+  "reason": "Modern museum building exterior, Jeju location confirmed",
+  "reasonKo": "제주 국립박물관 외관, 건축양식 일치",
+  "at": "2026-08-05T14:59:58.204Z"
+ },
+ "krabi-wat-kaew-korawaram\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/2016-04-09_Wat_Kaew_Korawaram_temple_3.jpg/1920px-2016-04-09_Wat_Kaew_Korawaram_temple_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "krabi-wat-kaew-korawaram",
+  "verdict": "MATCH",
+  "reason": "Thai Buddhist temple architecture, Krabi setting",
+  "reasonKo": "크라비 불교 사원, 건축양식 일치",
+  "at": "2026-08-05T15:00:02.851Z"
+ },
+ "las-vegas-old-las-vegas-mormon-fort-state-historic-park\u0001https://upload.wikimedia.org/wikipedia/commons/a/a3/Las_Vegas%2C_NV_-_Mormon_Fort_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+  "slug": "las-vegas-old-las-vegas-mormon-fort-state-historic-park",
+  "verdict": "MATCH",
+  "reason": "Historic fort with adobe walls, wooden structures, authentic",
+  "reasonKo": "역사적 요새, 어도비 벽, 목재 구조물",
+  "at": "2026-08-05T15:00:04.908Z"
+ },
+ "las-vegas-the-mob-museum\u0001https://upload.wikimedia.org/wikipedia/commons/d/d0/Las_Vegas_Mob_Museum_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+  "slug": "las-vegas-the-mob-museum",
+  "verdict": "MATCH",
+  "reason": "The Mob Museum building exterior, Las Vegas",
+  "reasonKo": "라스베이거스 몹 박물관 건물 외관",
+  "at": "2026-08-05T15:00:06.865Z"
+ },
+ "los-angeles-the-getty\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Los_angeles_from_getty_panorama.jpg/3840px-Los_angeles_from_getty_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "los-angeles-the-getty",
+  "verdict": "MISMATCH",
+  "reason": "Panoramic cityscape, not Getty museum venue",
+  "reasonKo": "게티 박물관이 아닌 도시 전경",
+  "at": "2026-08-05T15:00:08.380Z"
+ },
+ "madrid-national-museum-of-archaeology\u0001https://upload.wikimedia.org/wikipedia/commons/8/88/National_Archaeological_Museum_of_Spain%2C_Madrid_%2815299325957%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+  "slug": "madrid-national-museum-of-archaeology",
+  "verdict": "MATCH",
+  "reason": "Spanish National Archaeological Museum exterior, Madrid",
+  "reasonKo": "마드리드 국립고고학박물관 외관",
+  "at": "2026-08-05T15:00:11.095Z"
+ },
+ "marseille-museum-of-european-and-mediterranean-civilisations\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/%22Beeindruckende_Architektur%22._5.jpg/1920px-%22Beeindruckende_Architektur%22._5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "marseille-museum-of-european-and-mediterranean-civilisations",
+  "verdict": "MATCH",
+  "reason": "MuCEM museum building, Marseille waterfront",
+  "reasonKo": "마르세유 뮤셈 박물관 건물",
+  "at": "2026-08-05T15:00:13.607Z"
+ },
+ "marseille-palais-longchamp\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Honeymoon-433_%2814586751896%29.jpg/1920px-Honeymoon-433_%2814586751896%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "marseille-palais-longchamp",
+  "verdict": "MATCH",
+  "reason": "Palais Longchamp with fountains, gardens, architecture",
+  "reasonKo": "롱샹궁전의 분수, 정원, 건축물",
+  "at": "2026-08-05T15:00:15.779Z"
+ },
+ "milan-pinacoteca-di-brera\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Milan_-_Pinacoth%C3%A8que_de_Brera_-_Cour_int%C3%A9rieure.jpg/1920px-Milan_-_Pinacoth%C3%A8que_de_Brera_-_Cour_int%C3%A9rieure.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "milan-pinacoteca-di-brera",
+  "verdict": "MATCH",
+  "reason": "Pinacoteca di Brera courtyard with arcaded galleries",
+  "reasonKo": "브레라 미술관의 아케이드 중정",
+  "at": "2026-08-05T15:00:17.933Z"
+ },
+ "naples-museo-archeologico-nazionale-di-napoli\u0001https://upload.wikimedia.org/wikipedia/commons/0/01/Museo_Archeologico_Nazionale_di_Napoli_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+  "slug": "naples-museo-archeologico-nazionale-di-napoli",
+  "verdict": "MATCH",
+  "reason": "Neapolitan Renaissance palace, correct architecture and sett",
+  "reasonKo": "나폴리 르네상스 건축, 올바른 위치",
+  "at": "2026-08-05T15:00:19.896Z"
+ },
+ "nara-nara-national-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/140927_Nara_National_Museum_Nara_Japan03bs5.jpg/1920px-140927_Nara_National_Museum_Nara_Japan03bs5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "nara-nara-national-museum",
+  "verdict": "MATCH",
+  "reason": "Classic Japanese museum building, Nara setting",
+  "reasonKo": "나라의 고전 일본식 박물관 건물",
+  "at": "2026-08-05T15:00:22.298Z"
+ },
+ "new-york-american-museum-of-natural-history\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/USA-NYC-American_Museum_of_Natural_History.JPG/1920px-USA-NYC-American_Museum_of_Natural_History.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "new-york-american-museum-of-natural-history",
+  "verdict": "MISMATCH",
+  "reason": "This is American Museum of Natural History's exterior in NYC",
+  "reasonKo": "뉴욕 자연사박물관 건물 외관",
+  "at": "2026-08-05T15:00:25.312Z"
+ },
+ "new-york-castle-clinton-national-monument\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Habs_castle_clinton.jpg/1920px-Habs_castle_clinton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "new-york-castle-clinton-national-monument",
+  "verdict": "MATCH",
+  "reason": "Historic stone fort exterior matches Castle Clinton",
+  "reasonKo": "캐슬 클린턴의 역사적 석조 요새 외관",
+  "at": "2026-08-05T15:00:27.178Z"
+ },
+ "new-york-chelsea-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Chelsea_Market_%2849052085186%29.jpg/1920px-Chelsea_Market_%2849052085186%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "new-york-chelsea-market",
+  "verdict": "MATCH",
+  "reason": "Chelsea Market building exterior, correct location",
+  "reasonKo": "첼시마켓 건물 외관, 올바른 위치",
+  "at": "2026-08-05T15:00:29.564Z"
+ },
+ "new-york-conservatory-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Central_Park_23.jpg/1920px-Central_Park_23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "new-york-conservatory-garden",
+  "verdict": "MATCH",
+  "reason": "Ornate garden gate, lush greenery, NYC park setting",
+  "reasonKo": "화려한 정원 입구, 푸른 나무, 뉴욕 공원",
+  "at": "2026-08-05T15:00:31.786Z"
+ },
+ "new-york-one-world-observatory\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Interior_of_the_One_World_Observatory_with_visitors_backlit_against_the_windows%2C_New_York_City.jpg/3840px-Interior_of_the_One_World_Observatory_with_visitors_backlit_against_the_windows%2C_New_York_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "new-york-one-world-observatory",
+  "verdict": "MATCH",
+  "reason": "High-rise observation deck with panoramic windows",
+  "reasonKo": "고층 전망대, 파노라마 창문",
+  "at": "2026-08-05T15:00:34.014Z"
+ },
+ "phuket-phuket-thai-hua-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Phuket_Thai_Hua_School_%28I%29.jpg/3840px-Phuket_Thai_Hua_School_%28I%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "phuket-phuket-thai-hua-museum",
+  "verdict": "MATCH",
+  "reason": "Phuket Thai Hua Museum exterior, correct architecture and si",
+  "reasonKo": "푸켓 태국화 박물관 외관, 정확한 건축양식",
+  "at": "2026-08-05T15:00:36.123Z"
+ },
+ "provence-musee-granet\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Musee_Granet_by_Malost.jpg/1920px-Musee_Granet_by_Malost.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "provence-musee-granet",
+  "verdict": "MATCH",
+  "reason": "Classical French stone building with museum signage visible",
+  "reasonKo": "박물관 간판이 있는 고전 프랑스 석조 건물",
+  "at": "2026-08-05T15:00:38.038Z"
+ },
+ "san-francisco-san-francisco-museum-of-modern-art\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/2017_SFMOMA_from_Yerba_Buena_Gardens.jpg/1920px-2017_SFMOMA_from_Yerba_Buena_Gardens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "san-francisco-san-francisco-museum-of-modern-art",
+  "verdict": "MATCH",
+  "reason": "SFMOMA's distinctive red brick and white facade exterior",
+  "reasonKo": "SFMOMA의 독특한 붉은 벽돌과 흰색 외관",
+  "at": "2026-08-05T15:00:39.971Z"
+ },
+ "san-francisco-the-painted-ladies\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Painted_Ladies_San_Francisco_January_2013_panorama_2.jpg/3840px-Painted_Ladies_San_Francisco_January_2013_panorama_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "san-francisco-the-painted-ladies",
+  "verdict": "MATCH",
+  "reason": "Famous Victorian houses with SF skyline backdrop",
+  "reasonKo": "샌프란시스코 스카이라인 배경의 유명한 빅토리아식 주택",
+  "at": "2026-08-05T15:00:41.959Z"
+ },
+ "shanghai-shanghai-museum\u0001https://upload.wikimedia.org/wikipedia/commons/3/3e/Shanghai_Museum_exterior_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+  "slug": "shanghai-shanghai-museum",
+  "verdict": "MATCH",
+  "reason": "Shanghai Museum exterior with distinctive UFO-like architect",
+  "reasonKo": "상하이 박물관의 독특한 UFO형 건축물",
+  "at": "2026-08-05T15:00:43.563Z"
+ },
+ "suzhou-suzhou-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/%E8%8B%8F%E5%B7%9E%E5%8D%9A%E7%89%A9%E9%A6%86%C2%B7%E8%8B%8F%E5%B7%9E%C2%B7%E8%A5%BF%E5%8D%97%E5%90%91%E4%B8%9C%E5%8C%97.jpg/1920px-%E8%8B%8F%E5%B7%9E%E5%8D%9A%E7%89%A9%E9%A6%86%C2%B7%E8%8B%8F%E5%B7%9E%C2%B7%E8%A5%BF%E5%8D%97%E5%90%91%E4%B8%9C%E5%8C%97.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "suzhou-suzhou-museum",
+  "verdict": "MATCH",
+  "reason": "Suzhou Museum's distinctive modern architecture with traditi",
+  "reasonKo": "수저우박물관의 독특한 현대 건축물 확실히 보임",
+  "at": "2026-08-05T15:00:45.890Z"
+ },
+ "valencia-museo-de-las-ciencias-principe-felipe\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Valencia_Museo_de_las_Ciencias_Pr%C3%ADncipe_Felipe_from_the_east.jpg/3840px-Valencia_Museo_de_las_Ciencias_Pr%C3%ADncipe_Felipe_from_the_east.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "valencia-museo-de-las-ciencias-principe-felipe",
+  "verdict": "MATCH",
+  "reason": "Distinctive architecture of Valencia's science museum",
+  "reasonKo": "발렌시아 과학관의 독특한 건축물",
+  "at": "2026-08-05T15:00:47.826Z"
+ },
+ "valencia-torres-de-serranos\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Puerta_de_los_Serranos%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-30%2C_DD_86.JPG/1920px-Puerta_de_los_Serranos%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-30%2C_DD_86.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "valencia-torres-de-serranos",
+  "verdict": "MATCH",
+  "reason": "Iconic Torres de Serranos gate, Valencia landmark",
+  "reasonKo": "발렌시아의 상징적 세라노스 탑",
+  "at": "2026-08-05T15:00:49.727Z"
+ },
+ "venice-doge-s-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/%28Venice%29_Doge%27s_Palace_and_campanile_of_St._Mark%27s_Basilica_facing_the_sea.jpg/1920px-%28Venice%29_Doge%27s_Palace_and_campanile_of_St._Mark%27s_Basilica_facing_the_sea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "venice-doge-s-palace",
+  "verdict": "MATCH",
+  "reason": "Doge's Palace and St. Mark's Basilica in Venice",
+  "reasonKo": "베니스의 도제궁전과 성마르코 대성당",
+  "at": "2026-08-05T15:00:51.408Z"
+ },
+ "venice-saint-mark-s-basilica\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Venezia_Basilica_di_San_Marco_Fassade_2.jpg/1920px-Venezia_Basilica_di_San_Marco_Fassade_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "venice-saint-mark-s-basilica",
+  "verdict": "MATCH",
+  "reason": "Iconic Basilica di San Marco facade, Venice",
+  "reasonKo": "베네치아 산마르코 대성당의 상징적 정면",
+  "at": "2026-08-05T15:00:53.629Z"
+ },
+ "xi-an-xi-an-museum\u0001https://upload.wikimedia.org/wikipedia/commons/b/be/Xi%27an_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+  "slug": "xi-an-xi-an-museum",
+  "verdict": "MATCH",
+  "reason": "Distinctive Xi'an Museum building with characteristic archit",
+  "reasonKo": "시안 박물관의 특징적인 건축물",
+  "at": "2026-08-05T15:00:55.292Z"
+ },
+ "yokohama-yokohama-mazu-miao\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Lunar_year_celebration_in_Yokohama_Mazu_Miao.jpg/3840px-Lunar_year_celebration_in_Yokohama_Mazu_Miao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "yokohama-yokohama-mazu-miao",
+  "verdict": "MISMATCH",
+  "reason": "Lion dance parade, not venue interior/food",
+  "reasonKo": "장소와 무관한 축제 행렬 사진",
+  "at": "2026-08-05T15:00:57.471Z"
+ },
+ "yokohama-yokohama-museum-of-art\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Yokohama_museum_of_art.JPG/1920px-Yokohama_museum_of_art.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "yokohama-yokohama-museum-of-art",
+  "verdict": "MATCH",
+  "reason": "Yokohama Museum of Art exterior, distinctive architecture",
+  "reasonKo": "요코하마 미술관 외관, 특징적 건축",
+  "at": "2026-08-05T15:01:00.317Z"
  }
 }

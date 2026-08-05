@@ -1,32 +1,32 @@
 ---
-title: "American Museum of Natural History: New York Travel Guide"
-description: "The American Museum of Natural History sits on Central Park West at 79th Street, opposite the park, and is best tackled on a weekday when it's calmest, or on a weekend evening if you can only manage a weekend visit. 4.6★ (25,908 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "New York"
-category: "attraction"
-pubDate: "2026-08-05T10:59:04.180Z"
+title: 'American Museum of Natural History: New York Travel Guide'
+description: The American Museum of Natural History sits on Central Park West at 79th Street, opposite the park, and is best tackled on a weekday when it's calmest, or on a weekend evening if you can only manage a weekend visit. 4.6★ (25,908 reviews) — what visitors say, hours, and tips.
+country: United States
+region: New York
+category: attraction
+pubDate: '2026-08-05T10:59:04.180Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/USA-NYC-American_Museum_of_Natural_History.JPG/1920px-USA-NYC-American_Museum_of_Natural_History.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  credit: "Photo: Ingfbruno / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:USA-NYC-American_Museum_of_Natural_History.JPG"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/USA-NYC-American_Museum_of_Natural_History.JPG/1920px-USA-NYC-American_Museum_of_Natural_History.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Ingfbruno / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:USA-NYC-American_Museum_of_Natural_History.JPG
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/At_American_Museum_of_Natural_History_2024_029.jpg/3840px-At_American_Museum_of_Natural_History_2024_029.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    credit: "Photo: Photograph by Mike Peel (www.mikepeel.net). / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:At_American_Museum_of_Natural_History_2024_029.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/At_American_Museum_of_Natural_History_2024_029.jpg/3840px-At_American_Museum_of_Natural_History_2024_029.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: 'Photo: Photograph by Mike Peel (www.mikepeel.net). / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:At_American_Museum_of_Natural_History_2024_029.jpg
 place:
-  id: "ChIJCXoPsPRYwokRsV1MYnKBfaI"
-  name: "American Museum of Natural History"
-  address: "200 Central Prk W, New York, NY 10024, USA"
+  id: ChIJCXoPsPRYwokRsV1MYnKBfaI
+  name: American Museum of Natural History
+  address: 200 Central Prk W, New York, NY 10024, USA
   rating: 4.6
   userRatingsTotal: 25908
-  googleMapsUrl: "https://maps.google.com/?cid=11708656934508584369&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=11708656934508584369&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 40.7813241
   lng: -73.9739882
   busyness:
-    updated: 2026-08-05
+    updated: 2026-08-05T00:00:00.000Z
     weekdayQuiet:
       - 10
       - 17
@@ -42,24 +42,24 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_496166424b6e594d315673526b6f7759525073506f58434a496843"
+    venueId: ven_496166424b6e594d315673526b6f7759525073506f58434a496843
 tags:
-  - "new york"
-  - "museum"
-quickAnswer: "The American Museum of Natural History sits on Central Park West at 79th Street, opposite the park, and is best tackled on a weekday when it's calmest, or on a weekend evening if you can only manage a weekend visit. Give it a minimum of three hours — half a day if you want the Rose Center for Earth and Space and the dinosaur halls without rushing. Weekend afternoons between noon and 5pm are the crush to avoid; weekend evenings from 6-9pm are far more breathable."
+  - new york
+  - museum
+quickAnswer: The American Museum of Natural History sits on Central Park West at 79th Street, opposite the park, and is best tackled on a weekday when it's calmest, or on a weekend evening if you can only manage a weekend visit. Give it a minimum of three hours — half a day if you want the Rose Center for Earth and Space and the dinosaur halls without rushing. Weekend afternoons between noon and 5pm are the crush to avoid; weekend evenings from 6-9pm are far more breathable.
 faq:
-  - q: "How long should I plan to spend at the museum?"
-    a: "Budget at least 3 hours to see the highlights (dinosaurs, ocean life, Rose Center); a full half-day lets you cover most halls without rushing."
-  - q: "What's the closest subway station?"
-    a: "B/C trains stop directly outside at 81st Street–Museum of Natural History; the 1 train at 79th Street is a short walk across Central Park West."
-  - q: "When is the museum least crowded?"
-    a: "Weekdays are calm throughout the day. If visiting on a weekend, come between 6pm and 9pm rather than the noon–5pm peak, when it's busiest."
-  - q: "Do I need to book the planetarium show separately?"
-    a: "Yes — the Hayden Planetarium space show is usually a separate timed ticket or add-on to general admission, and it can sell out on busy days, so book it when you buy your entry ticket."
-  - q: "What's nearby if I want to extend my visit?"
-    a: "Central Park is directly across the street, and the New-York Historical Society is about a block south for a second museum stop."
+  - q: How long should I plan to spend at the museum?
+    a: Budget at least 3 hours to see the highlights (dinosaurs, ocean life, Rose Center); a full half-day lets you cover most halls without rushing.
+  - q: What's the closest subway station?
+    a: B/C trains stop directly outside at 81st Street–Museum of Natural History; the 1 train at 79th Street is a short walk across Central Park West.
+  - q: When is the museum least crowded?
+    a: Weekdays are calm throughout the day. If visiting on a weekend, come between 6pm and 9pm rather than the noon–5pm peak, when it's busiest.
+  - q: Do I need to book the planetarium show separately?
+    a: Yes — the Hayden Planetarium space show is usually a separate timed ticket or add-on to general admission, and it can sell out on busy days, so book it when you buy your entry ticket.
+  - q: What's nearby if I want to extend my visit?
+    a: Central Park is directly across the street, and the New-York Historical Society is about a block south for a second museum stop.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

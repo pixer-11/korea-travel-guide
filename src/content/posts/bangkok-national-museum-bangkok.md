@@ -1,47 +1,47 @@
 ---
-title: "National Museum: Bangkok Travel Guide (4.7★)"
-description: "The National Museum Bangkok, just north of Sanam Luang near the Grand Palace, is Southeast Asia's largest museum and the best place in the country to see royal regalia, funeral chariots, and Buddhist art under one roof. 4.7★ (9,705 reviews) — what visitors say, hours, and tips."
-country: "Thailand"
-region: "Bangkok"
-category: "attraction"
-pubDate: "2026-08-05T10:58:05.413Z"
+title: 'National Museum: Bangkok Travel Guide (4.7★)'
+description: The National Museum Bangkok, just north of Sanam Luang near the Grand Palace, is Southeast Asia's largest museum and the best place in the country to see royal regalia, funeral chariots, and Buddhist art under one roof. 4.7★ (9,705 reviews) — what visitors say, hours, and tips.
+country: Thailand
+region: Bangkok
+category: attraction
+pubDate: '2026-08-05T10:58:05.413Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bangkok_National_Museum_-_Joy_of_Museums.jpg/1920px-Bangkok_National_Museum_-_Joy_of_Museums.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  credit: "Photo: Joyofmuseums / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Bangkok_National_Museum_-_Joy_of_Museums.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bangkok_National_Museum_-_Joy_of_Museums.jpg/1920px-Bangkok_National_Museum_-_Joy_of_Museums.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Joyofmuseums / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Bangkok_National_Museum_-_Joy_of_Museums.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bangkok_National_Museum.jpg/3840px-Bangkok_National_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    credit: "Photo: This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons (CC BY 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Bangkok_National_Museum.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bangkok_National_Museum.jpg/3840px-Bangkok_National_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: 'Photo: This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Bangkok_National_Museum.jpg
 place:
-  id: "ChIJbXZLwgyZ4jARO_0Exd6l_lU"
-  name: "National Museum Bangkok"
-  address: "4 Soi Na Phra That, Khwaeng Phra Borom Maha Ratchawang, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200, Thailand"
+  id: ChIJbXZLwgyZ4jARO_0Exd6l_lU
+  name: National Museum Bangkok
+  address: 4 Soi Na Phra That, Khwaeng Phra Borom Maha Ratchawang, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200, Thailand
   rating: 4.7
   userRatingsTotal: 9705
-  googleMapsUrl: "https://maps.google.com/?cid=6196572513515142459&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=6196572513515142459&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 13.7576171
   lng: 100.4925167
 tags:
-  - "bangkok"
-  - "museum"
-quickAnswer: "The National Museum Bangkok, just north of Sanam Luang near the Grand Palace, is Southeast Asia's largest museum and the best place in the country to see royal regalia, funeral chariots, and Buddhist art under one roof. Give yourself two to three hours, wear something that covers shoulders and knees, and go on a free English-guided tour (Wednesday or Thursday morning) if you can time it right. Aim for a weekday morning to avoid tour-bus crowds and the worst of the heat."
+  - bangkok
+  - museum
+quickAnswer: The National Museum Bangkok, just north of Sanam Luang near the Grand Palace, is Southeast Asia's largest museum and the best place in the country to see royal regalia, funeral chariots, and Buddhist art under one roof. Give yourself two to three hours, wear something that covers shoulders and knees, and go on a free English-guided tour (Wednesday or Thursday morning) if you can time it right. Aim for a weekday morning to avoid tour-bus crowds and the worst of the heat.
 faq:
-  - q: "How much time should I set aside?"
-    a: "Plan for two to three hours to see the main halls properly, longer if you take a guided tour or linger over the chronological art galleries."
-  - q: "What days is it open?"
-    a: "The museum is closed Monday and Tuesday; visit Wednesday through Sunday."
-  - q: "Is it worth combining with the Grand Palace?"
-    a: "Yes — it's a 15-20 minute walk from the Grand Palace and Wat Pho, making it an easy add-on to a Rattanakosin Island temple day."
-  - q: "Are there English tours?"
-    a: "Free English-language guided tours have traditionally been offered on Wednesday and Thursday mornings; confirm the current schedule at the entrance since timing can change."
-  - q: "How do I get there without a car?"
-    a: "Take the Chao Phraya Express Boat to Tha Chang pier and walk about 10 minutes, or take a taxi directly to Na Phra That Road, since no BTS/MRT station is within easy walking distance."
+  - q: How much time should I set aside?
+    a: Plan for two to three hours to see the main halls properly, longer if you take a guided tour or linger over the chronological art galleries.
+  - q: What days is it open?
+    a: The museum is closed Monday and Tuesday; visit Wednesday through Sunday.
+  - q: Is it worth combining with the Grand Palace?
+    a: Yes — it's a 15-20 minute walk from the Grand Palace and Wat Pho, making it an easy add-on to a Rattanakosin Island temple day.
+  - q: Are there English tours?
+    a: Free English-language guided tours have traditionally been offered on Wednesday and Thursday mornings; confirm the current schedule at the entrance since timing can change.
+  - q: How do I get there without a car?
+    a: Take the Chao Phraya Express Boat to Tha Chang pier and walk about 10 minutes, or take a taxi directly to Na Phra That Road, since no BTS/MRT station is within easy walking distance.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

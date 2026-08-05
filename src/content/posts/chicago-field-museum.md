@@ -1,32 +1,32 @@
 ---
-title: "Field Museum: Chicago Travel Guide (4.7★)"
-description: "Go straight to the Field Museum at opening (9am) on a weekday and you'll get Sue the T. 4.7★ (31,407 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "Chicago"
-category: "attraction"
-pubDate: "2026-08-05T11:27:17.843Z"
+title: 'Field Museum: Chicago Travel Guide (4.7★)'
+description: Go straight to the Field Museum at opening (9am) on a weekday and you'll get Sue the T. 4.7★ (31,407 reviews) — what visitors say, hours, and tips.
+country: United States
+region: Chicago
+category: attraction
+pubDate: '2026-08-05T11:27:17.843Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/8/89/Field_Museum_of_Natural_History.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-  credit: "Photo: Joe Ravi / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Field_Museum_of_Natural_History.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/8/89/Field_Museum_of_Natural_History.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  credit: 'Photo: Joe Ravi / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Field_Museum_of_Natural_History.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Chicago_from_Field_Museum_June_2015_001.jpg/3840px-Chicago_from_Field_Museum_June_2015_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    credit: "Photo: King of Hearts / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Chicago_from_Field_Museum_June_2015_001.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Chicago_from_Field_Museum_June_2015_001.jpg/3840px-Chicago_from_Field_Museum_June_2015_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: 'Photo: King of Hearts / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Chicago_from_Field_Museum_June_2015_001.jpg
 place:
-  id: "ChIJV0AwM30rDogR2sd-X0cgErU"
-  name: "Field Museum"
-  address: "1400 S Lake Shore Dr, Chicago, IL 60605, USA"
+  id: ChIJV0AwM30rDogR2sd-X0cgErU
+  name: Field Museum
+  address: 1400 S Lake Shore Dr, Chicago, IL 60605, USA
   rating: 4.7
   userRatingsTotal: 31407
-  googleMapsUrl: "https://maps.google.com/?cid=13047526561362659290&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=13047526561362659290&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.866261
   lng: -87.6169805
   busyness:
-    updated: 2026-08-05
+    updated: 2026-08-05T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 10
@@ -42,24 +42,24 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_557245676330582d64733252676f447230334d774130564a496843"
+    venueId: ven_557245676330582d64733252676f447230334d774130564a496843
 tags:
-  - "chicago"
-  - "museum"
-quickAnswer: "Go straight to the Field Museum at opening (9am) on a weekday and you'll get Sue the T. rex, the Egyptian tombs, and the taxidermy halls almost to yourself before tour groups thicken up. Budget three to four hours, more if you're traveling with kids who want the DNA Discovery Center and Ancient Egypt exhibit fully. On weekends, the crush builds between 11am and 4pm, so either arrive right at 9am or come after 4pm to move at your own pace."
+  - chicago
+  - museum
+quickAnswer: Go straight to the Field Museum at opening (9am) on a weekday and you'll get Sue the T. rex, the Egyptian tombs, and the taxidermy halls almost to yourself before tour groups thicken up. Budget three to four hours, more if you're traveling with kids who want the DNA Discovery Center and Ancient Egypt exhibit fully. On weekends, the crush builds between 11am and 4pm, so either arrive right at 9am or come after 4pm to move at your own pace.
 faq:
-  - q: "What is the Field Museum best known for?"
-    a: "Sue, the largest and most complete Tyrannosaurus rex skeleton ever discovered, along with its Ancient Egypt tomb exhibit and extensive taxidermy and gem halls."
-  - q: "When is the quietest time to visit?"
-    a: "Both weekdays and weekends are calmest between 9am and 6pm generally, with the very first hour after opening being the least crowded moment overall."
-  - q: "What time should I avoid on weekends?"
-    a: "Try not to arrive between 11am and 4pm on weekends — that's when the museum is busiest and lines form at popular exhibits like Sue's gallery."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors need three to four hours to see the main halls comfortably; add extra time if you're also visiting a special ticketed exhibit."
-  - q: "How do I get to the Field Museum without a car?"
-    a: "Take the CTA Red, Orange, or Green Line to Roosevelt station, or the Roosevelt Road Metra stop, then walk about 15–20 minutes east across Museum Campus, or catch the free campus shuttle bus."
+  - q: What is the Field Museum best known for?
+    a: Sue, the largest and most complete Tyrannosaurus rex skeleton ever discovered, along with its Ancient Egypt tomb exhibit and extensive taxidermy and gem halls.
+  - q: When is the quietest time to visit?
+    a: Both weekdays and weekends are calmest between 9am and 6pm generally, with the very first hour after opening being the least crowded moment overall.
+  - q: What time should I avoid on weekends?
+    a: Try not to arrive between 11am and 4pm on weekends — that's when the museum is busiest and lines form at popular exhibits like Sue's gallery.
+  - q: How long should I plan to spend there?
+    a: Most visitors need three to four hours to see the main halls comfortably; add extra time if you're also visiting a special ticketed exhibit.
+  - q: How do I get to the Field Museum without a car?
+    a: Take the CTA Red, Orange, or Green Line to Roosevelt station, or the Roosevelt Road Metra stop, then walk about 15–20 minutes east across Museum Campus, or catch the free campus shuttle bus.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
