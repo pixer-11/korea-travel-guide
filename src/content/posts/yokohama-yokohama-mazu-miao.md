@@ -6,10 +6,10 @@ region: Yokohama
 category: attraction
 pubDate: '2026-08-05T11:50:11.304Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Lunar_year_celebration_in_Yokohama_Mazu_Miao.jpg/1920px-Lunar_year_celebration_in_Yokohama_Mazu_Miao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  credit: 'Photo: Syced / Wikimedia Commons (CC0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Lunar_year_celebration_in_Yokohama_Mazu_Miao.jpg
+  url: https://fastly.4sqi.net/img/general/original/34827066_jfxl44LNxaBbviSlOISGYF4V7m4RyYCd377LdfpzbRg.jpg
+  credit: 'Photo: Foursquare user content (Yokohama Ma Zhu Miao (横濱媽祖廟))'
+  license: foursquare
+  source: https://foursquare.com/v/4b65543bf964a5206ced2ae3
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Yokohama_Ma_Zu_Miao_in_Yokohama_Chinatown%2C_Naka-ku%2C_Yokohama%2C_Japan%2C_2024_May.jpg/3840px-Yokohama_Ma_Zu_Miao_in_Yokohama_Chinatown%2C_Naka-ku%2C_Yokohama%2C_Japan%2C_2024_May.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
     credit: 'Photo: Ximonic (Simo Räsänen) / Wikimedia Commons (CC BY-SA 4.0)'
@@ -58,7 +58,6 @@ faq:
   - q: Is it worth visiting during Lunar New Year?
     a: Yes, if you don't mind crowds — Yokohama Chinatown's Lunar New Year celebrations (typically late January or February) bring lion dances and drumming right around the temple, though it's the busiest possible time to see it.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

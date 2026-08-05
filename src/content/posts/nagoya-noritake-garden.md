@@ -6,10 +6,10 @@ region: Nagoya
 category: hidden-gem
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/24392102_6y_JHt2YHw_BbzpQnJ39XJAceFOs7wfyJF32bEcj0go.jpg
-  credit: 'Photo: Foursquare user content (Noritake Garden (ノリタケの森))'
-  license: foursquare
-  source: https://foursquare.com/v/4bb6e386ef159c7452a876f7
+  url: https://upload.wikimedia.org/wikipedia/commons/d/d7/Noritake_Garden02%2C_Nishi_Ward_Nagoya_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  credit: 'Photo: Tomio344456 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Noritake_Garden02,_Nishi_Ward_Nagoya_2014.jpg
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/24392102_9SEqf-gJDLrxrMBpdMUubIxzUcar2eT87SkuMTWDDvc.jpg
     credit: 'Photo: Foursquare user content (Noritake Garden (ノリタケの森))'
@@ -41,7 +41,6 @@ faq:
   - q: What else is nearby worth combining with this visit?
     a: The Toyota Commemorative Museum of Industry and Technology is a short walk or taxi ride away and makes for a natural pairing on an industrial-heritage-themed half-day in Nagoya.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

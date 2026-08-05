@@ -70,7 +70,6 @@ faq:
     a: It's close to Wat Umong's forest temple, Chiang Mai University's Ang Kaew reservoir, and the road up to Doi Suthep, making it a good stop on a Suthep-side half-day itinerary.
 aiGenerated: true
 updatedDate: '2026-07-24'
-draft: true
 ---
 ## Why go
 

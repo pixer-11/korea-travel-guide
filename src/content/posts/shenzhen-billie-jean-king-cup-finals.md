@@ -28,6 +28,7 @@ faq:
   - q: What's the weather like in Shenzhen in late September?
     a: Expect warm, humid conditions with a chance of rain — it's the tail end of the subtropical wet season. Matches will be played indoors or under cover regardless of weather.
 aiGenerated: true
+draft: true
 ---
 
 ## Why this event matters

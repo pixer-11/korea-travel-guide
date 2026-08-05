@@ -6,10 +6,10 @@ region: Bangkok
 category: attraction
 pubDate: '2026-08-05T10:58:05.413Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bangkok_National_Museum_-_Joy_of_Museums.jpg/1920px-Bangkok_National_Museum_-_Joy_of_Museums.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  credit: 'Photo: Joyofmuseums / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Bangkok_National_Museum_-_Joy_of_Museums.jpg
+  url: https://fastly.4sqi.net/img/general/original/28670763_52YSd7BW6pSIU7ECCzpNIJ54Z5Q5Sphn9FvVPz6GUHU.jpg
+  credit: 'Photo: Foursquare user content (Bangkok National Museum (พิพิธภัณฑสถานแห่งชาติ พระนคร))'
+  license: foursquare
+  source: https://foursquare.com/v/4bda4a3e3904a593c40d469e
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bangkok_National_Museum.jpg/3840px-Bangkok_National_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
     credit: 'Photo: This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons (CC BY 4.0)'
@@ -41,7 +41,6 @@ faq:
   - q: How do I get there without a car?
     a: Take the Chao Phraya Express Boat to Tha Chang pier and walk about 10 minutes, or take a taxi directly to Na Phra That Road, since no BTS/MRT station is within easy walking distance.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

@@ -5762,7 +5762,7 @@
   "verdict": "MISMATCH",
   "reason": "hero is only 152px wide — unusable as a banner",
   "reasonKo": "사진이 152px로 너무 작음",
-  "at": "2026-08-04T12:20:49.331Z"
+  "at": "2026-08-05T21:27:37.684Z"
  },
  "barcelona-casa-batllo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Casa_Batll%C3%B3_01.jpg/1920px-Casa_Batll%C3%B3_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
   "slug": "barcelona-casa-batllo",
@@ -6016,34 +6016,6 @@
   "reasonKo": "방콕 사원 건축, 석양 실루엣",
   "at": "2026-08-05T00:28:01.676Z"
  },
- "chinatown-my-awesome-cafe\u0001https://fastly.4sqi.net/img/general/original/12411077_GsXkjQUNqD3dvpGxv7UK-xjn01vmSKJlfvlHISbwBbY.jpg": {
-  "slug": "chinatown-my-awesome-cafe",
-  "verdict": "WEAK",
-  "reason": "Generic beverage, no distinctive venue markers visible",
-  "reasonKo": "일반적인 음료, 장소 특성 없음",
-  "at": "2026-08-05T00:28:04.222Z"
- },
- "guangzhou-huacheng-square\u0001https://fastly.4sqi.net/img/general/original/8615217_xUa20zEDx2ezxr1fpHXpdTjyYuGBOkCYaHdompneGZ8.jpg": {
-  "slug": "guangzhou-huacheng-square",
-  "verdict": "MATCH",
-  "reason": "Modern skyscraper nightscape, Guangzhou cityscape, palm tree",
-  "reasonKo": "광저우 현대 고층건물, 야경, 야자수 포함",
-  "at": "2026-08-05T00:28:06.254Z"
- },
- "jakarta-social-house-grand-indonesia\u0001https://fastly.4sqi.net/img/general/original/48406723_Hje7WFQ-kSjgm2-FdRaDzVLXawED8VT6YrfH76WsuXI.jpg": {
-  "slug": "jakarta-social-house-grand-indonesia",
-  "verdict": "MATCH",
-  "reason": "Multiple dishes from Social House restaurant, Jakarta",
-  "reasonKo": "자카르타 소셜하우스 식당의 다양한 요리",
-  "at": "2026-08-05T00:28:07.996Z"
- },
- "new-orleans-french-quarter\u0001https://fastly.4sqi.net/img/general/original/66774434_LE0jVXaG65Z22TIZ8C0-ZQP5lC54nXjqGWXx55KNwtM.jpg": {
-  "slug": "new-orleans-french-quarter",
-  "verdict": "MATCH",
-  "reason": "French Quarter archway with festive lights and ambiance",
-  "reasonKo": "프렌치쿼터 아치형 통로, 축제 조명",
-  "at": "2026-08-05T00:28:10.004Z"
- },
  "new-york-ralph-s-coffee\u0001https://fastly.4sqi.net/img/general/original/501162434_Jw06tpaWqkzMKAGNQdsWWdsjrAMxcQHRS48z9ZnnJxA.jpg": {
   "slug": "new-york-ralph-s-coffee",
   "verdict": "MATCH",
@@ -6057,13 +6029,6 @@
   "reason": "Modern sculpture, not restaurant or food venue.",
   "reasonKo": "레스토랑이 아닌 해안 조각 작품",
   "at": "2026-08-05T00:28:14.762Z"
- },
- "surabaya-black-owl-surabaya\u0001https://fastly.4sqi.net/img/general/original/42531918_JX0CtbbJtCamTZ6Ph9F8-6DqCJ6kSL_3QkQlR7zEuHc.jpg": {
-  "slug": "surabaya-black-owl-surabaya",
-  "verdict": "MATCH",
-  "reason": "Upscale cocktail bar with artistic presentation",
-  "reasonKo": "예술적 칵테일 제시의 고급 바",
-  "at": "2026-08-05T00:28:16.628Z"
  },
  "tainan-anping-old-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Anping_Taiwan_Old-houses-of-Anping-01.jpg/1920px-Anping_Taiwan_Old-houses-of-Anping-01.jpg": {
   "slug": "tainan-anping-old-street",
@@ -6539,14 +6504,6 @@
   "reason": "Suan Luang Rama IX park with distinctive golden pagoda",
   "reasonKo": "황금 탑과 공원 풍경이 일치함",
   "at": "2026-08-05T14:59:23.046Z",
-  "migratedFrom": "width-normalised URL"
- },
- "bangkok-the-grand-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/A_roof_of_a_building_at_the_Grand_Palace%2C_Bangkok%2C_sunrise%2C_2017.jpg/1920px-A_roof_of_a_building_at_the_Grand_Palace%2C_Bangkok%2C_sunrise%2C_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
-  "slug": "bangkok-the-grand-palace",
-  "verdict": "MATCH",
-  "reason": "Thai temple architecture silhouetted at sunset, Bangkok",
-  "reasonKo": "방콕 사원 건축, 석양 실루엣",
-  "at": "2026-08-05T00:28:01.676Z",
   "migratedFrom": "width-normalised URL"
  },
  "bangkok-the-temple-of-the-emerald-buddha\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Temple_of_the_Emerald_Buddha.jpg/1920px-Temple_of_the_Emerald_Buddha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -8363,14 +8320,6 @@
   "reason": "Colorful painted buildings, Rainbow Village signature style",
   "reasonKo": "무지개마을의 특징적인 알록달록한 건물",
   "at": "2026-08-03T14:39:47.587Z",
-  "migratedFrom": "width-normalised URL"
- },
- "tainan-anping-old-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Anping_Taiwan_Old-houses-of-Anping-01.jpg/1920px-Anping_Taiwan_Old-houses-of-Anping-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
-  "slug": "tainan-anping-old-street",
-  "verdict": "MATCH",
-  "reason": "Historic building with traditional architecture, Anping sett",
-  "reasonKo": "안평의 역사적 건물, 전통 건축양식",
-  "at": "2026-08-05T00:28:18.838Z",
   "migratedFrom": "width-normalised URL"
  },
  "tainan-shennong-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/%E7%A5%9E%E8%BE%B2%E8%A1%97_Shennong_Street_Tainan_City02.jpg/1920px-%E7%A5%9E%E8%BE%B2%E8%A1%97_Shennong_Street_Tainan_City02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {

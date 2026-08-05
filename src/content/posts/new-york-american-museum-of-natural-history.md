@@ -6,10 +6,10 @@ region: New York
 category: attraction
 pubDate: '2026-08-05T10:59:04.180Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/USA-NYC-American_Museum_of_Natural_History.JPG/1920px-USA-NYC-American_Museum_of_Natural_History.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  credit: 'Photo: Ingfbruno / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:USA-NYC-American_Museum_of_Natural_History.JPG
+  url: https://fastly.4sqi.net/img/general/original/546370299_Ec783oQyoLWWHiKpGtIPjZOnxl30CULykMoY9V4t2xw.jpg
+  credit: 'Photo: Foursquare user content (American Museum of Natural History)'
+  license: foursquare
+  source: https://foursquare.com/v/4297b480f964a52062241fe3
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/At_American_Museum_of_Natural_History_2024_029.jpg/3840px-At_American_Museum_of_Natural_History_2024_029.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
     credit: 'Photo: Photograph by Mike Peel (www.mikepeel.net). / Wikimedia Commons (CC BY-SA 4.0)'
@@ -59,7 +59,6 @@ faq:
   - q: What's nearby if I want to extend my visit?
     a: Central Park is directly across the street, and the New-York Historical Society is about a block south for a second museum stop.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

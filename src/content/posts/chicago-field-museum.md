@@ -6,10 +6,10 @@ region: Chicago
 category: attraction
 pubDate: '2026-08-05T11:27:17.843Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Field_Museum_of_Natural_History.jpg/1920px-Field_Museum_of_Natural_History.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  credit: 'Photo: Joe Ravi / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Field_Museum_of_Natural_History.jpg
+  url: https://fastly.4sqi.net/img/general/original/126977955_fYP6TSgpbmLTau09Wcn3n2KnbPmF4pV_LMm9zioZLP8.jpg
+  credit: 'Photo: Foursquare user content (The Field Museum)'
+  license: foursquare
+  source: https://foursquare.com/v/45840e55f964a520933f1fe3
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Chicago_from_Field_Museum_June_2015_001.jpg/3840px-Chicago_from_Field_Museum_June_2015_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
     credit: 'Photo: King of Hearts / Wikimedia Commons (CC BY-SA 4.0)'
@@ -59,7 +59,6 @@ faq:
   - q: How do I get to the Field Museum without a car?
     a: Take the CTA Red, Orange, or Green Line to Roosevelt station, or the Roosevelt Road Metra stop, then walk about 15–20 minutes east across Museum Campus, or catch the free campus shuttle bus.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

@@ -6,11 +6,10 @@ region: Los Angeles
 category: attraction
 pubDate: '2026-08-05T11:34:08.112Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Los_angeles_from_getty_panorama.jpg/1920px-Los_angeles_from_getty_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  credit: 'Photo: Mfield, Matthew Field, http://www.photography.mattfield.com / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Los_angeles_from_getty_panorama.jpg
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/103792_3PGEB095N7hM3VkwA6efLupYN4hi81YuvxwUvyPMEzA.jpg
+  credit: 'Photo: Foursquare user content (J. Paul Getty Museum)'
+  license: foursquare
+  source: https://foursquare.com/v/427ff980f964a520c7211fe3
 place:
   id: ChIJbzYnQte8woARJaqqFVpKeNo
   name: The Getty
@@ -58,7 +57,6 @@ faq:
   - q: What's nearby if I want to combine a visit?
     a: The Getty Center sits in Brentwood near the 405 Freeway, making it easy to pair with stops in Westwood or Santa Monica on the same day.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

@@ -6,10 +6,10 @@ region: Valencia
 category: restaurant
 pubDate: '2026-08-02T09:38:08.654Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Boatella_Tapas_Sardines.jpg/1920px-Boatella_Tapas_Sardines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  credit: 'Photo: https://www.flickr.com/photos/shisho_1975/ / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Boatella_Tapas_Sardines.jpg
+  url: https://fastly.4sqi.net/img/general/original/49899066_8Cp1AM8IHLnNa9MRO3vialwIbO-w5kbNtteohkal8t4.jpg
+  credit: 'Photo: Foursquare user content (Boatella Tapas)'
+  license: foursquare
+  source: https://foursquare.com/v/4e4926f462e148603b951887
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Boatella_Tapas_Exterior.jpg/3840px-Boatella_Tapas_Exterior.jpg
     credit: 'Photo: https://www.flickr.com/photos/shisho_1975/ / Wikimedia Commons (CC BY 2.0)'
