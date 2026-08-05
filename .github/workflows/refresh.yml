@@ -65,7 +65,7 @@ jobs:
           # a no-change week forgets its progress and re-checks the same posts.
           # visual-audit.json carries the dead-hotlink flags for the nightly
           # patrol; losing it would silently drop the replacement queue.
-          git add src/content/posts data/refresh-cursor.json data/visual-audit.json
+          git add src/content/posts data/refresh-cursor.json data/visual-audit.json data/places-budget.json
           if git diff --staged --quiet; then
             echo "Nothing to refresh."
           else

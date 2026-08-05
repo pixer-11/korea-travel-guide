@@ -40,6 +40,17 @@ const today = new Date().toISOString().slice(0, 10);
 // Details calls per run. Default matches refresh.yml; REFRESH_LIMIT=0 is a
 // misconfiguration, not "unlimited" — unlimited is how the quota drained before.
 const LIMIT = Number(process.env.REFRESH_LIMIT) > 0 ? Number(process.env.REFRESH_LIMIT) : 40;
+// The declared limit was never the real one. This job runs LAST of the four
+// Places consumers, and the other three were spending 111 of the day's 100
+// Details calls before it began: data/refresh-cursor.json held exactly ONE
+// entry — the weekly sweep checked 1 of 536 venue posts, hit 429, and stopped.
+// Closure detection is the only path that unpublishes a venue that has shut
+// down, so it was effectively off. It now draws a reserved share of the daily
+// budget (plus whatever earlier jobs left unspent) instead of racing for scraps.
+const { claim: claimPlaces, record: recordPlaces, describe: describePlaces } = await import('./lib/places-budget.mjs');
+const placesBudget = await claimPlaces('refresh');
+const EFFECTIVE_LIMIT = Math.min(LIMIT, placesBudget.allowance);
+console.log(describePlaces('refresh', placesBudget));
 
 async function loadCursor() {
   try {
@@ -52,7 +63,7 @@ async function loadCursor() {
 
 async function main() {
   const files = (await readdir(POSTS_DIR)).filter((f) => f.endsWith('.md'));
-  console.log(`\n🔄  Freshness job — ${files.length} post(s) · limit ${LIMIT} · ${HAS_KEYS ? 'LIVE' : 'DRY-RUN (no key)'}`);
+  console.log(`\n🔄  Freshness job — ${files.length} post(s) · limit ${EFFECTIVE_LIMIT} (declared ${LIMIT}) · ${HAS_KEYS ? 'LIVE' : 'DRY-RUN (no key)'}`);
 
   if (!HAS_KEYS) {
     console.log('  ℹ️  Set GOOGLE_MAPS_API_KEY to refresh live data. Nothing changed.\n');
@@ -76,7 +87,7 @@ async function main() {
 
   let updated = 0, unpublished = 0, checked = 0, quotaStop = false;
   for (const { file, full, parsed } of candidates) {
-    if (checked >= LIMIT) break;
+    if (checked >= EFFECTIVE_LIMIT) break;
     const place = parsed.data.place;
 
     checked++; // every Details attempt spends quota, successful or not
@@ -98,6 +109,17 @@ async function main() {
     for (const key of ['rating', 'userRatingsTotal', 'priceLevel', 'address', 'businessStatus']) {
       if (fresh[key] !== undefined && fresh[key] !== place[key]) { place[key] = fresh[key]; changed = true; }
     }
+    // Opening hours were never refreshed for any post, ever — this list simply
+    // omitted them, while places.mjs had been returning them on every Details
+    // call all along (found 2026-08-05). 355 posts carried a snapshot frozen at
+    // publication, and it drives the fact box, the closed-day chips on itinerary
+    // pages and the busyness clamp. Serialise to compare: it is an array, so
+    // `!==` above would report a change every single time.
+    if (Array.isArray(fresh.openingHours) && fresh.openingHours.length
+        && JSON.stringify(fresh.openingHours) !== JSON.stringify(place.openingHours)) {
+      place.openingHours = fresh.openingHours;
+      changed = true;
+    }
 
     if (fresh.businessStatus && fresh.businessStatus !== 'OPERATIONAL' && !parsed.data.draft) {
       parsed.data.draft = true; // auto-unpublish closed venues
@@ -117,6 +139,10 @@ async function main() {
   // Persist progress even on a quota stop — the posts already checked must not
   // be re-spent next week.
   await writeFile(CURSOR_PATH, JSON.stringify(cursor, null, 2) + '\n', 'utf8');
+
+  // Tell the ledger what was actually spent, so tomorrow's chain divides the
+  // budget from a real number rather than an assumption.
+  await recordPlaces('refresh', checked);
 
   const behind = candidates.filter(({ file }) => !cursor.checked[file]).length;
   console.log(`\n📦  Done. checked ${checked - (quotaStop ? 1 : 0)} of ${candidates.length} place post(s) (${behind} never checked), ${updated} updated, ${unpublished} unpublished.\n`);

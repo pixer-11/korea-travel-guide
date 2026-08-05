@@ -93,7 +93,7 @@ jobs:
         run: |
           git config user.name "content-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add src/content/posts public/venue-photos public/wall data/wall.json
+          git add src/content/posts public/venue-photos public/wall data/wall.json data/places-budget.json
           if git diff --staged --quiet; then
             echo "committed=0" >> "$GITHUB_OUTPUT"
             echo "No quality fixes this run (all clean, or quota not ready)."

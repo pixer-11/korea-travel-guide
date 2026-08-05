@@ -33,6 +33,12 @@ const APPLY = process.argv.includes('--apply');
 // (it is capped and prioritises the worst heroes); this audit sticks to the English
 // address fix that nothing else does.
 const PLACES_LIMIT = Number(process.env.PLACES_LIMIT || 15);
+// Last of the four Places consumers in the nightly chain, and the most
+// deferrable — so it takes its share from the shared ledger and no more.
+const { claim: claimPlaces, record: recordPlaces, describe: describePlaces } = await import('./lib/places-budget.mjs');
+const placesBudget = await claimPlaces('quality');
+const EFFECTIVE_PLACES_LIMIT = Math.min(PLACES_LIMIT, placesBudget.allowance);
+console.log(describePlaces('quality', placesBudget));
 const SKIP_IMAGES = process.env.AUDIT_IMAGES !== '1';
 let calls = 0;
 const NON_LATIN = /[؀-ۿ一-鿿가-힣฀-๿Ѐ-ӿ぀-ヿ]/;
@@ -70,7 +76,7 @@ try {
     const needImg = !SKIP_IMAGES && IMG_CATEGORIES.has(category) && hero && !hero.includes('/venue-photos/');
 
     if (!needAddr && !needImg) continue;
-    if (calls >= PLACES_LIMIT) { console.log(`⏹ Places cap reached (${PLACES_LIMIT}) — leaving the rest of the daily quota for venue-photos.`); break; }
+    if (calls >= EFFECTIVE_PLACES_LIMIT) { console.log(`⏹ Places cap reached (${EFFECTIVE_PLACES_LIMIT}) — leaving the rest of the daily quota for venue-photos.`); break; }
     scanned++;
     calls++;
 
@@ -113,5 +119,7 @@ try {
 
 console.log(`\nAudit: ${fixedAddr} addresses + ${fixedImg} images fixed (scanned ${scanned}) — ${APPLY ? 'APPLIED' : 'dry-run'}.`);
 for (const c of changes) console.log('  ✓', c);
+// Report the spend to the shared ledger before exiting.
+await recordPlaces('quality', calls);
 // Machine-readable tail for the workflow's Telegram summary.
 console.log(`\nAUDIT_RESULT addr=${fixedAddr} img=${fixedImg}`);

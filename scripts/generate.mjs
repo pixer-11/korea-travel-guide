@@ -100,6 +100,17 @@ const TOPIC_TEMPLATES = [
   { category: 'hidden-gem', topic: 'local market', q: (r, c) => `traditional market worth visiting in ${r} ${c}` },
   { category: 'trendy', topic: 'bakery', q: (r, c) => `popular bakery or dessert shop in ${r} ${c}` },
   { category: 'trendy', topic: 'bar', q: (r, c) => `well-reviewed bar or rooftop lounge in ${r} ${c}` },
+  // Three more RESTAURANT templates, added 2026-08-05 for balance rather than
+  // volume. Five of the first twelve mapped to 'attraction' and only two to
+  // 'restaurant', so the 51-post batch that night came out 48 attractions / 0
+  // restaurants. The itinerary solver fills its lunch slot from category
+  // 'restaurant' ONLY (src/lib/itinerary.mjs), so an attraction-heavy city
+  // produces day plans with no meal — and the restaurant roundup hub, which
+  // needs 4, could never open. Now: 5 attraction, 5 restaurant, 3 trendy,
+  // 2 hidden-gem.
+  { category: 'restaurant', topic: 'seafood', q: (r, c) => `best seafood restaurant in ${r} ${c}` },
+  { category: 'restaurant', topic: 'noodles', q: (r, c) => `popular noodle or rice shop in ${r} ${c}` },
+  { category: 'restaurant', topic: 'breakfast', q: (r, c) => `best breakfast or brunch spot in ${r} ${c}` },
 ];
 
 async function main() {
@@ -334,6 +345,32 @@ export function buildRotatedQueue(targets, done, countries, seasonal = [], opts 
     const r = k.slice(0, k.lastIndexOf('|'));
     regionTotals.set(r, (regionTotals.get(r) || 0) + v);
   }
+  // Within one region, take the categories in turn — and start with whichever the
+  // region has LEAST of. Rotation was previously region-only, so a region's
+  // targets came out in template order; with 4 of the 12 templates mapping to
+  // 'attraction', the 2026-08-05 batch of 51 posts was 48 attractions, 2
+  // hidden-gems and 1 trendy. That starves the itinerary lunch slot (only
+  // category 'restaurant' can fill it) and leaves the restaurant/cafe/hidden-gem
+  // roundup hubs, which need 4 posts each, permanently below the line.
+  const interleaveByCategory = (targets, region) => {
+    const byCat = new Map();
+    for (const t of targets) {
+      const c = t.category || 'attraction';
+      if (!byCat.has(c)) byCat.set(c, []);
+      byCat.get(c).push(t);
+    }
+    const cats = [...byCat.keys()].sort(
+      (a, b) => ((regionCatCounts.get(region + '|' + a) || 0) - (regionCatCounts.get(region + '|' + b) || 0))
+        || a.localeCompare(b)
+    );
+    const out = [];
+    let left = targets.length, i = 0;
+    while (left > 0) {
+      const b = byCat.get(cats[i++ % cats.length]);
+      if (b.length) { out.push(b.shift()); left--; }
+    }
+    return out;
+  };
   const perCountry = orderedCountries.map((cname) => {
     const rb = new Map();
     for (const t of byCountry.get(cname)) {
@@ -342,7 +379,7 @@ export function buildRotatedQueue(targets, done, countries, seasonal = [], opts 
     }
     const buckets = [...rb.entries()]
       .sort((a, b) => (regionTotals.get(a[0]) || 0) - (regionTotals.get(b[0]) || 0))
-      .map(([, v]) => v);
+      .map(([region, v]) => interleaveByCategory(v, region));
     return { buckets, i: 0 };
   });
   const rotated = [];

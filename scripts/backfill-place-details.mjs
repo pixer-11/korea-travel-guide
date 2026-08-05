@@ -33,6 +33,16 @@ const LIMIT = (() => {
   const i = process.argv.indexOf('--limit');
   return i !== -1 ? Number(process.argv[i + 1]) : Infinity;
 })();
+// Draw from the shared daily Places ledger rather than trusting --limit
+// alone. The workflow passes 80 while the whole day's Details cap is 100, and
+// with publish + quality + refresh also drawing, the four together were asking
+// for 111+ (found 2026-08-05). The declared limit still applies — this only ever
+// lowers it.
+const { claim: claimPlaces, record: recordPlaces, describe: describePlaces } = await import('./lib/places-budget.mjs');
+const placesBudget = await claimPlaces('backfill');
+const EFFECTIVE_LIMIT = Math.min(LIMIT, placesBudget.allowance);
+console.log(describePlaces('backfill', placesBudget));
+
 const SLUGS = (() => {
   const arg = process.argv.find((a) => a.startsWith('--slugs='));
   if (!arg) return null;
@@ -128,7 +138,7 @@ async function main() {
   let failStreak = 0, lastFailure = null;
 
   for (const f of files) {
-    if (processed >= LIMIT) break;
+    if (processed >= EFFECTIVE_LIMIT) break;
     const p = join(DIR, f);
     const t = await readFile(p, 'utf8');
 
@@ -230,6 +240,10 @@ async function main() {
       if (out !== t) await writeFile(p, out, 'utf8');
     }
   }
+
+  // Report the spend so the next job in the chain divides what is actually
+  // left, rather than what it hopes is left.
+  await recordPlaces('backfill', processed);
 
   console.log(
     // NOTE: 'updated N' must stay FIRST on this line — the workflow greps the

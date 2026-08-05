@@ -1,0 +1,74 @@
+// ─────────────────────────────────────────────────────────────
+//  SHARED PLACES DETAILS BUDGET
+//
+//  Google caps Place Details at 100 calls/day for this project. Four jobs spend
+//  from that one pot, and until 2026-08-05 each simply had its own limit with no
+//  knowledge of the others: publish 16 + backfill-details 80 + quality-audit 15
+//  = 111 on an ordinary day, before the country fill added 25-75 more. They run
+//  nose-to-tail, so the last one always found the pot empty. The measured
+//  casualty was closure detection: data/refresh-cursor.json held ONE entry, i.e.
+//  the weekly sweep checked 1 of 536 venue posts before its first 429 and
+//  stopped. Venues that have permanently closed can sit live indefinitely.
+//
+//  So the jobs now draw from a recorded daily ledger instead of assuming. Shares
+//  are ordered by what the site loses without them:
+//
+//    publish        40   new content — the reason the site exists
+//    backfill       25   phone/hours for posts that just went up
+//    refresh        20   closure detection — the only thing that unpublishes a
+//                        venue that shut down, and the one being starved
+//    quality        15   address/photo cleanup, the most deferrable
+//
+//  A job that finishes under its share leaves the remainder for whoever runs
+//  next, so a quiet publish night funds a deeper closure sweep instead of the
+//  budget evaporating. Nothing here talks to Google — it records intent, and the
+//  existing 429 guards remain the real backstop.
+// ─────────────────────────────────────────────────────────────
+import { readFile, writeFile } from 'node:fs/promises';
+import { fileURLToPath } from 'node:url';
+
+const LEDGER = fileURLToPath(new URL('../../data/places-budget.json', import.meta.url));
+export const DAILY_CAP = Number(process.env.PLACES_DAILY_CAP || 100);
+export const SHARES = { publish: 40, backfill: 25, refresh: 20, quality: 15 };
+
+const today = () => new Date().toISOString().slice(0, 10);
+
+async function load() {
+  try {
+    const j = JSON.parse(await readFile(LEDGER, 'utf8'));
+    if (j.date === today()) return j;
+  } catch { /* first run, or a new day */ }
+  return { date: today(), spent: 0, byJob: {} };
+}
+
+/**
+ * How many Details calls `job` may make right now.
+ *
+ * Its own share, plus whatever earlier jobs left unspent — never more than the
+ * day's remaining total. Returns 0 when the pot is dry, which callers should
+ * treat as "do nothing today", not as an error.
+ */
+export async function claim(job) {
+  const share = SHARES[job];
+  if (!share) throw new Error(`unknown Places job "${job}" — add it to SHARES`);
+  const led = await load();
+  const remainingToday = Math.max(0, DAILY_CAP - led.spent);
+  const alreadyMine = led.byJob[job] || 0;
+  const allowance = Math.max(0, Math.min(share - alreadyMine, remainingToday));
+  return { allowance, spentToday: led.spent, remainingToday };
+}
+
+/** Record what a job actually used, so the next job in the chain sees it. */
+export async function record(job, used) {
+  if (!Number.isFinite(used) || used <= 0) return;
+  const led = await load();
+  led.spent += used;
+  led.byJob[job] = (led.byJob[job] || 0) + used;
+  led.updated = new Date().toISOString();
+  await writeFile(LEDGER, JSON.stringify(led, null, 1) + '\n', 'utf8');
+}
+
+/** Human-readable one-liner for the Telegram reports. */
+export function describe(job, { allowance, spentToday }) {
+  return `Places 예산: ${job} 몫 ${allowance}회 (오늘 사용 ${spentToday}/${DAILY_CAP})`;
+}
