@@ -73,14 +73,13 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-07-24'
 ---
-
 ## Why go
 
 Pigeon Valley (Güvercinlik Vadisi) is one of the easiest ways to experience Cappadocia's volcanic tuff landscape on foot without technical hiking gear. The valley runs between Uçhisar and Göreme and takes its name from the hundreds of pigeon houses — small rectangular openings carved into the soft rock face by villagers for centuries. Farmers kept pigeons for their droppings, an essential fertilizer for the region's vineyards and orchards before chemical alternatives existed, and painted the entrances white or outlined them with red ochre to attract the birds. Rated 4.6 from nearly 19,500 reviews, it's firmly on the mainstream circuit, but the walk still delivers genuine quiet stretches, honey-colored rock formations, and some of the best ground-level views of the fairy chimneys that make this region famous.
 
 ## Getting there
 
-The most common starting point is the viewpoint terrace just below Uçhisar Castle, on the Nevşehir side — this is also the address point most maps show (Göreme No:24, Aşağı, Uçhisar/Nevşehir). From here a marked dirt path descends into the canyon. The other end exits near Göreme, close to the town's otogar (bus station), making it simple to walk one direction and catch a dolmuş (local minibus) or taxi back. There's no train or metro in Cappadocia; most visitors base themselves in Göreme or Uçhisar and either walk to the trailhead directly or take a short taxi ride. If you're staying in Ürgüp or Avanos, arrange a taxi drop-off at Uçhisar Castle and plan to be picked up in Göreme, or vice versa.
+The most common starting point is the viewpoint terrace just below Uçhisar Castle, on the Nevşehir side — this is also the point most maps show as the trailhead. From here a marked dirt path descends into the canyon. The other end exits near Göreme, close to the town's otogar (bus station), making it simple to walk one direction and catch a dolmuş (local minibus) or taxi back. There's no train or metro in Cappadocia; most visitors base themselves in Göreme or Uçhisar and either walk to the trailhead directly or take a short taxi ride. If you're staying in Ürgüp or Avanos, arrange a taxi drop-off at Uçhisar Castle and plan to be picked up in Göreme, or vice versa.
 
 ## What to see and do
 
@@ -92,7 +91,7 @@ Spring (April–May) and autumn (September–October) offer the most comfortable
 
 ## How to visit like a local
 
-Because this is a very popular, well-trodden trail rather than a hidden find, the best strategy is timing rather than secrecy. Early morning, right after the sunrise hot-air balloons have landed (around 7:30–8:30am), or the last two hours before sunset, are consistently calmer than mid-morning to mid-afternoon, when tour groups pass through en route between Uçhisar and Göreme. There's no entry fee or ticket booth, so there's nothing to queue for — the only real decision is which end to start from, and starting at Uçhisar means you finish downhill into Göreme, which is easier on the legs. Wear real walking shoes rather than sandals; sections of packed dirt turn slick after rain. Carry water, as there are no shops inside the valley itself — only at either end. Respect the carved dwellings by not climbing into fragile cave openings, and if you bring a drone, check current local rules first, as flights are restricted in parts of Cappadocia. Cash is useful for the small snack stands and tea gardens that appear near the Göreme entrance, though cards are increasingly accepted in town.
+Because this is a very popular, well-trodden trail rather than a hidden find, the best strategy is timing rather than secrecy. Early morning, right after the sunrise hot-air balloons have landed, or the last two hours before sunset, are consistently calmer than mid-morning to mid-afternoon, when tour groups pass through en route between Uçhisar and Göreme. There's no entry fee or ticket booth, so there's nothing to queue for — the only real decision is which end to start from, and starting at Uçhisar means you finish downhill into Göreme, which is easier on the legs. Wear real walking shoes rather than sandals; sections of packed dirt turn slick after rain. Carry water, as there are no shops inside the valley itself — only at either end. Respect the carved dwellings by not climbing into fragile cave openings, and if you bring a drone, check current local rules first, as flights are restricted in parts of Cappadocia. Cash is useful for the small snack stands and tea gardens that appear near the Göreme entrance, though cards are increasingly accepted in town.
 
 ## Nearby stops worth combining
 

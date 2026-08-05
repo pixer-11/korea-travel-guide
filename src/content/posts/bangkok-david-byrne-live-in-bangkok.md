@@ -29,7 +29,6 @@ faq:
     a: Check official channels only — typically UOB Live's website or authorized partners like Thai Ticket Major — and avoid unofficial resale sites, since prices and tiers weren't specified in official announcements at publication time.
 aiGenerated: true
 ---
-
 ## Why this show matters
 
 David Byrne isn't just a legacy act cashing in on nostalgia — he's the restless art-rock mind behind Talking Heads classics like "Once in a Lifetime" and "This Must Be the Place," and more recently the acclaimed "American Utopia" stage show (a Broadway run and Spike Lee concert film). His live sets are known for choreographed movement, a stripped-stage aesthetic, and a full band that treats old songs like new ideas rather than museum pieces. A Bangkok date on a global tour is a rare chance for Southeast Asian fans to catch an artist who rarely routes through the region.
@@ -44,9 +43,9 @@ UOB Live is one of the more transit-friendly arenas in the city. The closest sta
 
 ## Where to eat and what to do beforehand
 
-Samyan Mitrtown itself has a food court and several sit-down restaurants, useful for a pre-show meal without leaving the building. But the surrounding neighborhood rewards a bit of wandering: Chinatown's Yaowarat Road, famous for street food stalls selling boat noodles, oyster omelets, and mango sticky rice, is a short taxi or MRT ride away and makes a lively pre-concert stop if you arrive a few hours early. Chulalongkorn University's leafy campus borders the area too, offering a quieter contrast to the neon-lit food streets nearby.
+Samyan Mitrtown itself has a food court and several sit-down restaurants, useful for a pre-show meal without leaving the building. But the surrounding neighborhood rewards a bit of wandering: Chinatown's Yaowarat Road, known for its street food scene, is a short taxi or MRT ride away and makes a lively pre-concert stop if you arrive a few hours early. Chulalongkorn University's leafy campus borders the area too, offering a quieter contrast to the neon-lit food streets nearby.
 
-Given Monday's typically lighter weekend crowds, arriving 60–90 minutes before doors is usually enough to clear security, grab merchandise, and find a seat — but for a high-demand international act, earlier is safer, particularly if general-admission floor tickets are involved.
+Given Monday's typically lighter crowds, arriving 60–90 minutes before doors is usually enough to clear security, grab merchandise, and find a seat — but for a high-demand international act, earlier is safer, particularly if general-admission floor tickets are involved.
 
 ## Practical tips for international visitors
 

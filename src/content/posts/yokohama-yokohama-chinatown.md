@@ -51,7 +51,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -72,7 +71,7 @@ Given how popular this place is, timing your visit matters more than almost anyt
 
 ## How to visit like a local
 
-Skip the impulse to eat the first bun you see at the gate — prices and quality vary block to block, and the stalls immediately at the entrances see the heaviest footfall and priciest snacks. Walk one loop of the main streets first, then double back to whichever stall actually had a line of regulars rather than tour groups. Most food stalls and casual counters expect cash, though larger restaurants increasingly take cards and IC transit cards (Suica/Pasmo) for payment — don't assume every stall does. Tipping isn't expected anywhere in Japan, Chinatown included. If you want a sit-down meal without a wait, arrive right at opening (many restaurants open for lunch around 11am) rather than at peak 12:30–1:30pm. The single biggest mistake visitors make is trying to see it all in one rushed pass — better to pick two or three specific dishes you actually want, and let the alleys off the main strip surprise you rather than sticking only to the widest, busiest street.
+Skip the impulse to eat the first bun you see at the gate — prices and quality vary block to block, and the stalls immediately at the entrances see the heaviest footfall and priciest snacks. Walk one loop of the main streets first, then double back to whichever stall actually had a line of regulars rather than tour groups. Most food stalls and casual counters expect cash, though larger restaurants increasingly take cards and IC transit cards (Suica/Pasmo) for payment — don't assume every stall does. Tipping isn't expected anywhere in Japan, Chinatown included. If you want a sit-down meal without a wait, arrive right at opening rather than during the busiest lunch hours. The single biggest mistake visitors make is trying to see it all in one rushed pass — better to pick two or three specific dishes you actually want, and let the alleys off the main strip surprise you rather than sticking only to the widest, busiest street.
 
 ## Nearby
 

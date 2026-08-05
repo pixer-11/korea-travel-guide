@@ -60,7 +60,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Why go
 
 Bukchon Hanok Village is one of Seoul's last intact clusters of traditional *hanok* houses, and the "Yukgyeong" (six scenic views) is the city's unofficial answer to Instagram-famous urban photo trails. Unlike a folk village built for tourists, this is a living neighborhood — around 900 hanok still house real residents — wedged into the hills between Gyeongbokgung and Changdeokgung palaces. The six numbered viewpoints guide you past sloped tile roofs, granite retaining walls, and alley perspectives that line up perfectly with the N Seoul Tower on Namsan in the background. View 6, near the address 31-48 Gahoe-dong, is the postcard shot: a steep, curving stone lane bordered by dark tiled eaves on both sides, with almost no modern signage in frame. It's earned a 4.6 rating across nearly 1,300 reviews, largely from visitors chasing that exact photo.
@@ -79,7 +78,7 @@ Take Seoul Subway Line 3 to Anguk Station and leave via Exit 2. From there it's 
 
 ## When to go
 
-Right at opening, 10am, is the best window — soft light, minimal foot traffic, and respectful of residents still asleep. Late afternoon on a weekday works too, though weekends get dense with tour groups by mid-morning. Spring (April) and autumn (October–November) bring the most flattering light and comfortable walking temperatures; midsummer is humid and the uphill sections get strenuous, while winter alleys can be icy underfoot. Plan on 1–2 hours to walk the full six-view route at a relaxed pace with photo stops.
+Early morning tends to be the best window — soft light, minimal foot traffic, and respectful of residents still asleep. Late afternoon on a weekday works too, though weekends get dense with tour groups by mid-morning. Spring (April) and autumn (October–November) bring the most flattering light and comfortable walking temperatures; midsummer is humid and the uphill sections get strenuous, while winter alleys can be icy underfoot. Plan on 1–2 hours to walk the full six-view route at a relaxed pace with photo stops.
 
 ## Nearby & tips
 

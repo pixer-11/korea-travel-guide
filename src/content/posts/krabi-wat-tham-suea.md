@@ -42,14 +42,13 @@ faq:
     a: Early morning, close to opening (around 5-6am), during the dry season from November to March, to avoid heat, crowds, and slick steps.
 aiGenerated: true
 ---
-
 ## Why go
 
 Wat Tham Suea, or "Tiger Cave Temple," is one of southern Thailand's most atmospheric forest monasteries, built into a limestone cliff surrounded by dense jungle a short ride from Krabi Town. It draws pilgrims and travelers for two reasons: an extensive network of caves and shrines set into the rock at ground level, and a punishing but rewarding staircase — commonly cited at 1,237 steps — that climbs to a hilltop chedi and a large gold Buddha statue with sweeping views over Krabi's karst hills and, on clear days, the Andaman Sea in the distance. With a 4.6 rating across nearly 14,000 reviews, it's firmly established as one of the region's must-see attractions, but it rewards visitors who come prepared for a genuine hike rather than a casual temple stroll.
 
 ## Getting there
 
-The temple is located at 35 Tambon Krabi Noi, Amphoe Mueang Krabi, roughly 8km inland from central Krabi Town. There's no direct public bus route, so most visitors arrive by rented scooter (about a 15-20 minute ride from town), metered taxi, or a tuk-tuk/songthaew arranged through a guesthouse — round-trip tuk-tuk fares are usually negotiated on the spot, so agree on a price and a pickup time before you set off, since taxis rarely wait around at the summit. Some Krabi tour operators also include Wat Tham Suea as a stop on half-day countryside tours alongside the Krabi Town clock tower and Emerald/Blue Pool at Khao Nor Chuchi. If self-driving, follow signs for "Tiger Cave Temple" off the Krabi–Ao Luek road; parking near the base is informal but plentiful.
+The temple is located in Tambon Krabi Noi, roughly 8km inland from central Krabi Town. There's no direct public bus route, so most visitors arrive by rented scooter (about a 15-20 minute ride from town), metered taxi, or a tuk-tuk/songthaew arranged through a guesthouse — round-trip tuk-tuk fares are usually negotiated on the spot, so agree on a price and a pickup time before you set off, since taxis rarely wait around at the summit. Some Krabi tour operators also include Wat Tham Suea as a stop on half-day countryside tours alongside the Krabi Town clock tower and Emerald/Blue Pool at Khao Nor Chuchi. If self-driving, follow signs for "Tiger Cave Temple" off the Krabi–Ao Luek road; parking near the base is informal but plentiful.
 
 ## What to see
 

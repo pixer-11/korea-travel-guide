@@ -51,7 +51,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -74,7 +73,7 @@ With a 4.7 rating from over 13,000 reviews, this is one of Antalya's most visite
 
 ## How to visit like a local
 
-Don't expect a quiet, undiscovered corner here — this is one of the most photographed spots in the city and it draws crowds accordingly, so the smart move is timing rather than searching for a secret angle. Arrive before 9am or after the dinner hour to get the arches largely to yourself and better light for photos. There's nothing to buy and nothing to book: you simply walk through, so there's no queue system to navigate, though foot traffic can bottleneck at the central arch when a tour group passes through — step to one side and let it clear rather than fighting through it. Locals crossing between the new town and Kaleiçi use the gate as a everyday shortcut, so keep to the edges rather than stopping dead-center for photos. Wear proper shoes: the ancient paving stones underfoot are uneven and polished smooth in places. The most common visitor mistake is treating the gate as a five-minute photo op and turning back — instead, keep walking through into Kaleiçi itself, since the gate is really the doorway to the old town's lanes, not a standalone attraction. Cafés just inside the walls are a good spot to sit with a Turkish tea and watch the gate from a distance once you've passed through.
+Don't expect a quiet, undiscovered corner here — this is one of the most photographed spots in the city and it draws crowds accordingly, so the smart move is timing rather than searching for a secret angle. Arrive before 9am or after the dinner hour to get the arches largely to yourself and better light for photos. There's nothing to buy and nothing to book: you simply walk through, so there's no queue system to navigate, though foot traffic can bottleneck at the central arch when a tour group passes through — step to one side and let it clear rather than fighting through it. Locals crossing between the new town and Kaleiçi use the gate as an everyday shortcut, so keep to the edges rather than stopping dead-center for photos. Wear proper shoes: the ancient paving stones underfoot are uneven and polished smooth in places. The most common visitor mistake is treating the gate as a five-minute photo op and turning back — instead, keep walking through into Kaleiçi itself, since the gate is really the doorway to the old town's lanes, not a standalone attraction. Cafés just inside the walls are a good spot to sit with a Turkish tea and watch the gate from a distance once you've passed through.
 
 ## Nearby to pair it with
 

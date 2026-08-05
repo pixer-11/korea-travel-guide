@@ -68,12 +68,11 @@ faq:
     a: The trails are mostly unshaded, so summer afternoons (often over 100°F) can be tough going. Spring and fall, or an early-morning summer visit right at opening, make for a far more comfortable walk.
 aiGenerated: true
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
 
-Long before neon, there was water here. Springs Preserve sits on the exact site where natural artesian springs once bubbled up out of the Mojave floor, forming the oasis that gave Las Vegas — "the meadows" — its name. Today the springs themselves have run dry, drained by decades of groundwater pumping, but the 180-acre site around them has been turned into a sprawling complex of trails, wetlands habitat, botanical gardens, and museums that tells the story of how a patch of desert became a city of eight million annual visitors and counting. It's the rare Las Vegas attraction that has nothing to do with slot machines, and that contrast is exactly the point.
+Long before neon, there was water here. Springs Preserve sits on the exact site where natural artesian springs once bubbled up out of the Mojave floor, forming the oasis that gave Las Vegas — "the meadows" — its name. Today the springs themselves have run dry, drained by decades of groundwater pumping, but the 180-acre site around them has been turned into a sprawling complex of trails, wetlands habitat, botanical gardens, and museums that tells the story of how a patch of desert became modern Las Vegas. It's the rare Las Vegas attraction that has nothing to do with slot machines, and that contrast is exactly the point.
 
 ## Getting there and getting oriented
 
@@ -87,7 +86,7 @@ Indoors, the Nevada State Museum covers natural history and statehood with real 
 
 ## When to go
 
-Springs Preserve keeps a tighter schedule than most Vegas attractions: open 9am to 4pm Monday, Thursday, Friday, Saturday, and Sunday, and closed entirely on Tuesday and Wednesday. Build your visit around those days first — nothing is worse than driving out only to find the gates shut. On weekends, foot traffic builds steadily across the whole 9am–4pm window, so arriving right at opening is the single best move: the trails are shaded and cool, the light is soft for photos over the wetlands, and you'll beat the midday crowds through the museum entrances. Because it's outdoors and largely unshaded once the sun climbs, this is also a spring or fall visit if you have the choice — summer afternoons in the low desert regularly push past 100°F, and the trails offer little relief from it after mid-morning.
+Springs Preserve keeps a tighter schedule than most Vegas attractions, so check the current hours before you go, since it isn't open every day. Build your visit around those hours first — nothing is worse than driving out only to find the gates shut. On weekends, foot traffic builds steadily across the whole 9am–4pm window, so arriving right at opening is the single best move: the trails are shaded and cool, the light is soft for photos over the wetlands, and you'll beat the midday crowds through the museum entrances. Because it's outdoors and largely unshaded once the sun climbs, this is also a spring or fall visit if you have the choice — summer afternoons in the low desert regularly push past 100°F, and the trails offer little relief from it after mid-morning.
 
 ## How to visit like a local
 

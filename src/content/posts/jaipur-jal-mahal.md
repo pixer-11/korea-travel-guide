@@ -47,7 +47,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## What you're actually looking at
@@ -60,7 +59,7 @@ Jal Mahal sits right on the Amer road (also spelled Amber road), the same route 
 
 ## Best time to visit
 
-The palace is accessible for viewing daily from 6am to 6pm, and time of day changes the experience completely. Early morning, before the heat and the crowds build, the lake is often glassy and still, and the palace reflection is at its sharpest. Late afternoon, closer to 6pm, the sandstone catches a warm gold light and the hills of the Nahargarh ridge behind the lake silhouette nicely for photos. Midday sun flattens the color and the water can look murky, so it's the least rewarding window if you have flexibility. Rajasthan's cooler months, October through March, make the roadside stop far more comfortable than the peak summer heat of May and June.
+The palace is accessible for viewing from the shore during daylight hours, and time of day changes the experience completely. Early morning, before the heat and the crowds build, the lake is often glassy and still, and the palace reflection is at its sharpest. Late afternoon, closer to 6pm, the sandstone catches a warm gold light and the hills of the Nahargarh ridge behind the lake silhouette nicely for photos. Midday sun flattens the color and the water can look murky, so it's the least rewarding window if you have flexibility. Rajasthan's cooler months, October through March, make the roadside stop far more comfortable than the peak summer heat of May and June.
 
 ## Why it's worth the stop
 
@@ -69,4 +68,3 @@ What makes Jal Mahal memorable isn't a monument you walk through, it's the sheer
 ## How to visit like a local
 
 Treat Jal Mahal as a five-to-ten-minute photo stop within a bigger Amer-road itinerary, not a standalone half-day destination — that's how most Jaipur residents and drivers treat it themselves. Because it's one of the most visited landmarks in the city, arriving right at opening around 6am or in the last hour before 6pm closing gets you the clearest reflections and the thinnest crowds along the embankment railing. There's no entry fee to view it from the shore, so ignore anyone offering a "ticket" or "boat trip" to the palace itself — unauthorized boat rides exist but the interior is not open to the public, and the safest, standard way to experience it is from the designated viewing area. Vendors sell chai and snacks along the road; a few rupees in cash covers it. The common tourist mistake is budgeting a lot of time here expecting a fort-style visit — instead, pair it with Amer Fort (15-20 minutes further up the road) or a sunset stop before heading back into the city, and you'll get the most out of a short but genuinely striking stop.
-

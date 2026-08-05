@@ -48,7 +48,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 You come out of the subway, cross a wide boulevard lined with apartment towers, and within a few minutes the noise of Ilsan's streets falls away behind a screen of pines. That's the first thing you notice at Ilsan Lake Park: how quickly the city disappears. The lake itself opens up wide and flat, ringed by a paved path that locals use for everything from stroller pushes to serious training runs, and on a clear morning the water throws back the skyline in sheets of pale gold.
 
 ## Why go
@@ -69,4 +68,4 @@ Weekday mornings are by far the calmest time to experience the lake as a quiet w
 
 ## How to visit like a local
 
-This park is a genuine local institution, not a niche find, so plan around the crowds rather than expecting solitude. Come right at opening, 10am, on a weekday if you want the paths mostly to joggers and older residents doing their morning laps — by afternoon and especially on weekends, the loop fills with cyclists, family groups, and picnic blankets. Entry to the park itself is free, and paths are wide enough that you don't need to book anything in advance; just walk in through any of the main gates. If you rent a bike or paddle boat, small vendors near the entrances typically take cash and card. The etiquette that trips up visitors most: the perimeter path has an unspoken lane logic, with faster cyclists and runners on the outer edge, so keep to the inner side if you're strolling or taking photos. Pair the visit with a walk into the Lafesta or Western Dom shopping streets just east of the park, both an easy extension if you want food or coffee after your loop.
+This park is a genuine local institution, not a niche find, so plan around the crowds rather than expecting solitude. Come right at opening on a weekday if you want the paths mostly to joggers and older residents doing their morning laps — by afternoon and especially on weekends, the loop fills with cyclists, family groups, and picnic blankets. Entry to the park itself is free, and paths are wide enough that you don't need to book anything in advance; just walk in through any of the main gates. If you rent a bike or paddle boat, small vendors near the entrances typically take cash and card. The etiquette that trips up visitors most: the perimeter path has an unspoken lane logic, with faster cyclists and runners on the outer edge, so keep to the inner side if you're strolling or taking photos. Pair the visit with a walk into the Lafesta or Western Dom shopping streets just east of the park, both an easy extension if you want food or coffee after your loop.

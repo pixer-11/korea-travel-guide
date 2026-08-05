@@ -31,7 +31,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Why this show matters
 
 Kodaline built their name on widescreen, emotionally direct indie-rock — "All I Want," "High Hopes," "The One" — the kind of songs that turned festival fields and arenas alike into singalongs for over a decade. This farewell tour marks the Dublin quartet's official closing chapter, and Bangkok is one of the stops getting two dates instead of one, a sign of how deep their fanbase runs in Thailand. For visitors, that's a rare chance to catch a career-spanning setlist in a purpose-built live venue rather than a converted stadium or multi-act festival bill.
@@ -42,7 +41,7 @@ The shows are set for **August 28–29, 2026** at **UOB Live**, the live-music a
 
 ## Getting to EmSphere / UOB Live
 
-EmSphere sits directly beside **Phrom Phong BTS Station** (Sukhumvit Line), connected via skywalk — this is by far the easiest way in, especially with concert-night traffic on Sukhumvit. From the station, follow signage toward EmQuartier/EmSphere; the complex links all three "Em" buildings (EmSporium, EmQuartier, EmSphere) at upper levels, so you can cut through air-conditioned malls rather than walking the street. Taxis and ride-hailing apps (Grab is standard in Bangkok) are workable but expect slowdowns on show nights; the BTS is the reliable fallback if you're worried about timing.
+EmSphere sits directly beside **Phrom Phong BTS Station** (Sukhumvit Line), connected via skywalk — this is by far the easiest way in, especially with concert-night traffic on Sukhumvit. From the station, follow signage toward EmQuartier/EmSphere; the complex links all three "Em" buildings (Emporium, EmQuartier, EmSphere) at upper levels, so you can cut through air-conditioned malls rather than walking the street. Taxis and ride-hailing apps (Grab is standard in Bangkok) are workable but expect slowdowns on show nights; the BTS is the reliable fallback if you're worried about timing.
 
 ## What to expect inside
 

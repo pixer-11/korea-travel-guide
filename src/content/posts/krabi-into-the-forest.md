@@ -38,7 +38,6 @@ faq:
     a: Wat Tham Sua (Tiger Cave Temple), the Krabi Town riverside promenade, and the weekend night market are all within a short drive, making it easy to build a half-day loop.
 aiGenerated: true
 ---
-
 ## Why go
 
 Into the Forest has quietly become one of Krabi's most photographed newer spots, and the numbers back up the hype: a 4.9 rating across more than 5,000 reviews is unusually high for any café-attraction in Thailand. What sets it apart from the beach-and-island itinerary most visitors default to is its setting — a landscaped jungle environment in Khao Thong, on Krabi's inland side, where raised wooden walkways, tropical greenery, and small water features are designed as much for wandering and photography as for sitting down with a coffee. It's the kind of place that rewards slow exploration rather than a quick drive-by, and it gives visitors a reason to see a side of Krabi that isn't a limestone cliff or a longtail boat.
@@ -49,7 +48,7 @@ The address is 359 Moo 1, Tambon Khao Thong, Amphoe Mueang Krabi, Chang Wat Krab
 
 ## What to see and do
 
-The core appeal is the walk itself: wooden boardwalks weave through dense tropical planting, past small ponds, hanging installations, and framed viewpoints built specifically for photos. Expect swings, oversized nests or canopy structures, and quiet corners that feel more like a curated forest set than a working nursery — though the underlying landscaping is real and maintained. The on-site café serves the usual Thai café lineup of iced coffees, fruit teas, and light bites, giving you a reason to linger rather than just snap photos and leave. Because it's a mid-range (price level 2) venue, treat it as a café experience with an admission or minimum-spend component rather than a free public park — cash is the safer bet for both entry and drinks, since rural venues in Krabi can have patchy card readers.
+The core appeal is the walk itself: wooden boardwalks weave through dense tropical planting, past small ponds, hanging installations, and framed viewpoints built specifically for photos. Expect swings, oversized nests or canopy structures, and quiet corners that feel more like a curated forest set than a working nursery — though the underlying landscaping is real and maintained. The on-site café serves the usual Thai café lineup of iced coffees, fruit teas, and light bites, giving you a reason to linger rather than just snap photos and leave. Because it's a mid-range venue, treat it as a café experience with an admission or minimum-spend component rather than a free public park — cash is the safer bet for both entry and drinks, since rural venues in Krabi can have patchy card readers.
 
 ## When to go
 

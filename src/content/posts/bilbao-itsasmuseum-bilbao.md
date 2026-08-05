@@ -67,7 +67,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You reach it by following the river, not a street sign. Walk south along the Ría de Bilbao past the Guggenheim's titanium curves, past the Deusto footbridge, and the buildings start to change character — glass towers give way to cranes, dry docks, and rusted ironwork left exactly where the shipwrights left it. This is the old Euskalduna shipyard, once one of the busiest builders of steel-hulled ships on Spain's Atlantic coast, and it's where Itsasmuseum makes its home.
@@ -88,7 +87,7 @@ The museum sits on Ramón de la Sota Kaia in the Abando district, on the same ri
 
 ## When to go
 
-The museum is open Tuesday through Sunday, 11am to 7pm, and closed all day Monday — plan around that if Monday is otherwise a free day on your itinerary. Crowd patterns show weekends staying busy across the entire opening window, from 11am right through to 7pm, so if you're visiting on a Saturday or Sunday, don't expect a lull later in the day. Weekday mornings, shortly after the 11am opening, are the more comfortable option if your schedule allows it.
+The museum is open most days of the week, and closed all day Monday — plan around that if Monday is otherwise a free day on your itinerary. Crowd patterns show weekends staying busy across the entire opening window, from 11am right through to 7pm, so if you're visiting on a Saturday or Sunday, don't expect a lull later in the day. Weekday mornings, shortly after the 11am opening, are the more comfortable option if your schedule allows it.
 
 ## How to visit like a local
 

@@ -95,7 +95,6 @@ aiGenerated: true
 updatedDate: '2026-08-02'
 draft: false
 ---
-
 ## Why go
 
 Art House Cafe is less a standalone café than a discovery inside the Etihad Modern Art Gallery, one of Abu Dhabi's low-key cultural spots in the Al Bateen area. The pairing works: you get a genuinely photogenic, colorful interior — think mismatched art, bold wall pieces, and a leafy courtyard feel — alongside a menu built around breakfast plates, sandwiches, and specialty coffee and tea. With a 4.6 rating from over 3,000 reviews, it has built a loyal following among residents and visitors looking for a design-forward brunch spot that isn't in a mall. It's the kind of place suited to a slow morning: order, wander the gallery, sit back down for a second coffee.
@@ -106,7 +105,7 @@ The cafe is tucked into a villa at Al Huwelat Street, Villa No. 15, off 4 Al Fal
 
 ## What to see and eat
 
-The draw is the split identity: half art gallery, half café. Etihad Modern Art Gallery showcases contemporary Emirati and regional art, and the cafe threads through and around the exhibition space, so a coffee here doubles as a mini gallery visit. On the menu, expect all-day breakfast plates (think shakshuka-style eggs, avocado toast, pancakes), a solid sandwich selection, fresh juices, and specialty coffee and tea — priced in the mid-range (a $$ price level), reflecting its café-with-ambition positioning rather than a budget grab-and-go spot. Portions and presentation lean toward the Instagram-friendly, but the food holds up as a genuine brunch destination rather than just a backdrop. Plan for 45 minutes to an hour if you're just eating, or up to 90 minutes if you want to properly explore the gallery walls between courses.
+The draw is the split identity: half art gallery, half café. Etihad Modern Art Gallery showcases contemporary Emirati and regional art, and the cafe threads through and around the exhibition space, so a coffee here doubles as a mini gallery visit. On the menu, expect all-day breakfast plates (think shakshuka-style eggs, avocado toast, pancakes), a solid sandwich selection, fresh juices, and specialty coffee and tea — moderately priced, reflecting its café-with-ambition positioning rather than a budget grab-and-go spot. Portions and presentation lean toward the Instagram-friendly, but the food holds up as a genuine brunch destination rather than just a backdrop. Plan for 45 minutes to an hour if you're just eating, or up to 90 minutes if you want to properly explore the gallery walls between courses.
 
 ## When to go
 

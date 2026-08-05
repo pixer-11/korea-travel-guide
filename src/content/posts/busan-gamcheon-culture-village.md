@@ -52,7 +52,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Why go
 
 Gamcheon Culture Village earns its 4.4-star rating and near-33,000 reviews for good reason: it's one of the most photogenic corners of Busan, a hillside maze of blue, pink, and yellow houses stacked above the harbor, laced with painted stairways, murals, and pocket-sized galleries. The village began as a refugee settlement in the 1950s (many residents were followers of the Taegeukdo religion who fled during the Korean War), and its current identity as an "art village" dates to a 2009 public arts project that invited students and artists to repaint facades and install sculptures throughout the maze of alleys. It's not a museum piece — people still live here — which gives the murals and rooftop views a lived-in texture you don't get in a purpose-built attraction.
@@ -63,11 +62,11 @@ The village sits at 203 Gamnae 2-ro, Saha-gu, on a steep hillside inland from Bu
 
 ## What to see and do
 
-Start at the information center to pick up (or buy, if still offered) a stamp-tour map — a self-guided trail linking painted walls, small sculptures, and photo spots, including the well-known Little Prince and fox statue overlooking the rooftops. Wander the narrow stepped alleys (labeled with directional fish or star markers) to find murals, tiny craft shops, and independent cafés tucked into former homes. The **Gamcheon Culture Village Art Space** and several small galleries display work from resident and visiting artists — most charge a small admission or request a donation. Rooftop viewpoints scattered through the village give sweeping views over the terraced houses down to the harbor; sunset and the "blue hour" just after are especially flattering for photos. Budget 2–3 hours minimum; photographers and slow wanderers can easily spend half a day.
+Start at the information center to pick up (or buy, if still offered) a stamp-tour map — a self-guided trail linking painted walls, small sculptures, and photo spots, including the well-known Little Prince and fox statue overlooking the rooftops. Wander the narrow stepped alleys (labeled with directional fish or star markers) to find murals, tiny craft shops, and independent cafés tucked into former homes. The Gamcheon Culture Village Art Space and several small galleries display work from resident and visiting artists — most charge a small admission or request a donation. Rooftop viewpoints scattered through the village give sweeping views over the terraced houses down to the harbor; sunset and the "blue hour" just after are especially flattering for photos. Budget 2–3 hours minimum; photographers and slow wanderers can easily spend half a day.
 
 ## When to go
 
-Weekday mornings (opening through around 10:30am) are calmest, before tour buses and photo groups arrive. Late afternoon, roughly 90 minutes before sunset, gives warm light on the pastel walls without the midday crush. Spring (cherry blossoms nearby) and autumn offer the most comfortable walking weather for the hill's many stairs; summer is hot and humid with little shade, and winter can be windy on exposed viewpoints. Weekends and Korean public holidays draw the heaviest crowds — expect queues at the most Instagrammed mural spots.
+Weekday mornings are calmest, before tour buses and photo groups arrive. Late afternoon, roughly 90 minutes before sunset, gives warm light on the pastel walls without the midday crush. Spring (cherry blossoms nearby) and autumn offer the most comfortable walking weather for the hill's many stairs; summer is hot and humid with little shade, and winter can be windy on exposed viewpoints. Weekends and Korean public holidays draw the heaviest crowds — expect queues at the most Instagrammed mural spots.
 
 ## How to visit like a local
 

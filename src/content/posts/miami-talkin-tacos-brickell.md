@@ -49,12 +49,11 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
 
-Brickell doesn't lack for slick restaurants with good lighting and mediocre food, so a taco counter that's consistently packed and consistently well rated stands out. Talkin' Tacos Brickell has built its name on exactly that combination: a big, loud, neon-lit room serving tacos, tequila, and mezcal until 2am, seven nights a week. It's the kind of place where a work happy hour bleeds into a birthday party bleeds into a 1am plate of queso, and nobody at any of those tables looks out of place.
+Brickell doesn't lack for slick restaurants with good lighting and mediocre food, so a taco counter that's consistently packed and consistently well rated stands out. Talkin' Tacos Brickell has built its name on exactly that combination: a big, loud, neon-lit room serving tacos, tequila, and mezcal. It's the kind of place where a work happy hour bleeds into a birthday party bleeds into a 1am plate of queso, and nobody at any of those tables looks out of place.
 
 ## Getting there
 
@@ -66,7 +65,7 @@ The name is the menu, more or less: a long roster of tacos, from classic carne a
 
 ## When to go
 
-Because the kitchen runs from 10am straight through to 2am every day of the week, this is one of the rare Brickell spots that works equally well as a late breakfast-taco stop, a weekday lunch, an after-work bar, or a proper late-night food run after the clubs start clearing out. If you want the room close to yourself, the late-morning-to-early-afternoon window on a weekday, right after the 10am opening, is your best bet before the lunch rush builds. The loudest, most packed stretch is Friday and Saturday night, roughly from happy hour through midnight, when Brickell's after-work and bar-hopping crowds converge here at once — if you'd rather talk to the person across the table than shout, aim either side of that window.
+Because the kitchen keeps long hours, this is one of the rare Brickell spots that works equally well as a late breakfast-taco stop, a weekday lunch, an after-work bar, or a proper late-night food run after the clubs start clearing out. If you want the room close to yourself, the late-morning-to-early-afternoon window on a weekday is your best bet before the lunch rush builds. The loudest, most packed stretch is Friday and Saturday night, roughly from happy hour through midnight, when Brickell's after-work and bar-hopping crowds converge here at once — if you'd rather talk to the person across the table than shout, aim either side of that window.
 
 ## How to visit like a local
 

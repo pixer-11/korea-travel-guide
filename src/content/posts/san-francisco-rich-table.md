@@ -58,12 +58,11 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why Rich Table
 
-You smell it before you see the menu: something rendering in butter, a whiff of char from the open kitchen that runs along one wall like a stage. Rich Table sits on Gough Street at the southern edge of Hayes Valley, in a dining room built from salvaged barn wood — pale, knotted planks on the walls and ceiling that make the space feel like a converted hayloft rather than a restaurant in the middle of a dense San Francisco neighborhood. Copper pots hang within arm's reach of the pass. Servers cut across a narrow floor between close-set tables, and if you sit at the counter facing the line cooks, you get a front-row seat to the plating of dishes that have become minor local legends — a porcini doughnut dusted with powdered sugar-and-mushroom, sardine chips with lemon-caper crème fraîche, a rotating pasta that changes with what's at the farmers market that week. This is modern Californian cooking that leans playful without losing technique, and it's earned a devoted following reflected in a strong, consistently high rating across well over a thousand reviews.
+You smell it before you see the menu: something rendering in butter, a whiff of char from the open kitchen that runs along one wall like a stage. Rich Table sits on Gough Street at the southern edge of Hayes Valley, in a dining room built from salvaged barn wood — pale, knotted planks on the walls and ceiling that make the space feel like a converted hayloft rather than a restaurant in the middle of a dense San Francisco neighborhood. Copper pots hang within arm's reach of the pass. Servers cut across a narrow floor between close-set tables, and if you sit at the counter facing the line cooks, you get a front-row seat to the plating of dishes that have become minor local legends — inventive small plates and a rotating pasta that changes with what's at the farmers market that week. This is modern Californian cooking that leans playful without losing technique, and it's earned a devoted following reflected in a strong, consistently high rating across well over a thousand reviews.
 
 ## Getting there
 
@@ -75,7 +74,7 @@ The menu changes seasonally, but the spirit stays the same: dishes built around 
 
 ## When to go
 
-Rich Table serves dinner only, nightly from 5pm to 10pm — there's no lunch service, so don't plan an afternoon visit. If you want the room calm and the kitchen unhurried, weeknights between 5 and 6pm are the quietest stretch, right at opening before the post-work crowd arrives. Weekends are a different story: the whole evening from 5 to 10pm runs steadier and fuller, and the tightest crunch is 7 to 9pm on Friday and Saturday nights, when the dining room and bar fill up and waits stretch longest. If your schedule is flexible, an early weeknight seating is the most relaxed way to experience the kitchen without feeling rushed.
+Rich Table serves dinner only — there's no lunch service, so don't plan an afternoon visit. If you want the room calm and the kitchen unhurried, weeknights between 5 and 6pm are the quietest stretch, right at opening before the post-work crowd arrives. Weekends are a different story: the whole evening from 5 to 10pm runs steadier and fuller, and weekend evenings tend to be the busiest, when the dining room and bar fill up and waits stretch longest. If your schedule is flexible, an early weeknight seating is the most relaxed way to experience the kitchen without feeling rushed.
 
 ## How to visit like a local
 

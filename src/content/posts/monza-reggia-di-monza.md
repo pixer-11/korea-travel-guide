@@ -56,7 +56,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -73,7 +72,7 @@ Inside, the self-guided or guided route through the royal apartments moves throu
 
 ## When to go
 
-The palace opening hours are unusual and worth double-checking before you plan around them: it's shut entirely on Mondays and Tuesdays, open Wednesday through Friday only in the afternoon (2:30–7:30pm), and open longer on weekends (Saturday from 10:30am, Sunday from 10am, both until 6:30pm). Because weekends draw steady crowds from roughly 10am to 7pm, a weekday afternoon visit is the calmer option if your schedule allows it — you'll have more room to actually look up at the ceilings instead of shuffling past them. If a weekend is your only option, go right at opening rather than mid-afternoon.
+The palace opening hours are unusual and worth double-checking before you plan around them: it's shut entirely on Mondays and Tuesdays, with different hours on the remaining days of the week, and weekends tending to run longer than weekdays. Because weekends draw steady crowds from roughly 10am to 7pm, a weekday afternoon visit is the calmer option if your schedule allows it — you'll have more room to actually look up at the ceilings instead of shuffling past them. If a weekend is your only option, go right at opening rather than mid-afternoon.
 
 ## How to visit like a local
 

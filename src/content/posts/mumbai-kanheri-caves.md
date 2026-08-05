@@ -55,7 +55,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -72,9 +71,8 @@ The must-see is Cave 3, the great chaitya (prayer hall), with its rows of thick 
 
 ## When to go
 
-The site is open Tuesday through Sunday, 8am to 5:30pm, and closed all day Monday. Go early: measured foot-traffic shows the quietest stretch is the first hour, 8am to 9am on weekdays, when the stone is still cool and you can hear the forest instead of a crowd. Weekends run busy essentially all day, from opening until closing, so if you have flexibility, aim for a weekday morning. The cooler months, roughly November through February, are the most comfortable for the climbing involved — the monsoon (June–September) turns the park lush and green but the stairs get slippery, and the pre-monsoon months (April–May) can be punishingly hot for a shadeless uphill walk.
+The site keeps standard daytime visiting hours, with a weekly closing day, so it's worth checking current timings before you set out. Go early: measured foot-traffic shows the quietest stretch is the first hour after opening on weekdays, when the stone is still cool and you can hear the forest instead of a crowd. Weekends run busy essentially all day, from opening until closing, so if you have flexibility, aim for a weekday morning. The cooler months, roughly November through February, are the most comfortable for the climbing involved — the monsoon (June–September) turns the park lush and green but the stairs get slippery, and the pre-monsoon months (April–May) can be punishingly hot for a shadeless uphill walk.
 
 ## How to visit like a local
 
-Because Kanheri is genuinely one of Mumbai's most-visited heritage sites — not a hidden pick — the smart move is timing, not secrecy. Arrive right at 8am opening on a weekday if you can; you'll have entire cave courtyards to yourself before the tour buses catch up. Buy your park entry and any camera fee in cash at the gate, and expect a small separate ticket for the caves themselves further inside — carry small denominations, since change can be slow at the counters. Wear shoes with grip: the paths and stairs are uneven stone, often shaded and slightly damp even in dry season. There's no real dress code, but modest clothing is appreciated given the site's religious origins. The single biggest mistake visitors make is underestimating the distance from the park gate to the caves and the amount of climbing once there — treat this as a half-day outing with a proper walk, not a quick photo stop, and you'll actually see the place instead of rushing it.
-
+Because Kanheri is genuinely one of Mumbai's most-visited heritage sites — not a hidden pick — the smart move is timing, not secrecy. Arrive right at opening on a weekday if you can; you'll have entire cave courtyards to yourself before the tour buses catch up. Buy your park entry and any camera fee in cash at the gate, and expect a small separate ticket for the caves themselves further inside — carry small denominations, since change can be slow at the counters. Wear shoes with grip: the paths and stairs are uneven stone, often shaded and slightly damp even in dry season. There's no real dress code, but modest clothing is appreciated given the site's religious origins. The single biggest mistake visitors make is underestimating the distance from the park gate to the caves and the amount of climbing once there — treat this as a half-day outing with a proper walk, not a quick photo stop, and you'll actually see the place instead of rushing it.

@@ -48,7 +48,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You hear the Grand Bazaar before you fully see it — a low hum of vendors calling out in half a dozen languages, the clink of tea glasses on brass trays, the scrape of shutters rolling up. Then you step through one of its stone gates and the ceiling opens above you: barrel vaults painted in faded reds and blues, daylight filtering through arched windows set high in the brick, more than sixty covered streets fanning out in every direction. This is not a single market hall but a whole neighborhood roofed over, built by order of Mehmed the Conqueror in the 1450s and expanded by successive sultans until it swallowed entire blocks of the old city.
@@ -67,7 +66,7 @@ Head first to the Sandal Bedesteni and the adjoining Old Bazaar (İç Bedesten) 
 
 ## When to go
 
-The bazaar runs 8:30am to 7pm Monday through Saturday, and is completely closed on Sundays — plan around that if it's the only day you have free in Istanbul. Given how heavily visited it is, the real question isn't which day but which hour: arriving close to opening, before the cruise-ship and tour-bus crowds filter in from around mid-morning onward, gives you a genuinely different experience — shopkeepers still setting out displays, wide lanes you can actually see the ceiling from. By early afternoon on a Saturday, some of the main thoroughfares can be shoulder to shoulder.
+The bazaar operates during standard daytime business hours through the week, and is completely closed on Sundays — plan around that if it's the only day you have free in Istanbul. Given how heavily visited it is, the real question isn't which day but which hour: arriving close to opening, before the cruise-ship and tour-bus crowds filter in from around mid-morning onward, gives you a genuinely different experience — shopkeepers still setting out displays, wide lanes you can actually see the ceiling from. By early afternoon on a Saturday, some of the main thoroughfares can be shoulder to shoulder.
 
 ## How to visit like a local
 

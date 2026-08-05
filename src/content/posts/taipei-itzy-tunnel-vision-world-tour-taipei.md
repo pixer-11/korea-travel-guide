@@ -31,14 +31,13 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Why go
 
 ITZY is one of JYP Entertainment's flagship girl groups, known for high-energy performances and a discography built around confident, self-empowerment anthems. The TUNNEL VISION World Tour marks their return to Taipei with a set built around their 2026 EP Motto, giving longtime MIDZY (the group's fandom) a chance to hear new material live alongside earlier favorites. Taipei has become a regular stop for major K-pop tours, and Taipei Arena in particular has hosted numerous acts from the genre, making it a reliable, well-run venue for international fans flying in specifically for the show.
 
 ## Getting there
 
-Taipei Arena (台北小巨蛋) sits directly above Taipei MRT's Nanjing Fuxing area — more precisely, it's served by **Taipei Arena Station** on the Brown Line (Wenhu Line) and the Green Line (Songshan-Xindian Line). Exit 1 leads almost directly into the arena's plaza, making it the most convenient exit for concertgoers. If arriving from the airport, take the Taoyuan Airport MRT to Taipei Main Station, then transfer to the Green Line and ride a handful of stops to Taipei Arena Station — the whole journey typically takes 45–60 minutes depending on which airport terminal you start from. Taxis are also straightforward, and drop-off zones near the arena get busy on event nights, so allow extra time if you're arriving by car or ride-hailing app.
+Taipei Arena (台北小巨蛋) sits directly above Taipei MRT's Nanjing Fuxing area — more precisely, it's served by Taipei Arena Station on the Brown Line (Wenhu Line) and the Green Line (Songshan-Xindian Line). Exit 1 leads almost directly into the arena's plaza, making it the most convenient exit for concertgoers. If arriving from the airport, take the Taoyuan Airport MRT to Taipei Main Station, then transfer to the Green Line and ride a handful of stops to Taipei Arena Station — the whole journey typically takes 45–60 minutes depending on which airport terminal you start from. Taxis are also straightforward, and drop-off zones near the arena get busy on event nights, so allow extra time if you're arriving by car or ride-hailing app.
 
 ## What to expect at the venue
 

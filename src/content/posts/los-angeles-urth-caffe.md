@@ -49,7 +49,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -66,9 +65,8 @@ The menu is long — this is a full American café menu, not just an espresso ba
 
 ## When to go
 
-With hours running 7am to 10pm most nights and until 11pm on Fridays and Saturdays, Urth Caffè has enough runway to work as a breakfast stop, a midday break, or a late-evening coffee-and-cake session after dinner in the neighborhood. Weekend late mornings are the loudest stretch, with brunch crowds spilling onto the sidewalk waiting for patio seats. If your schedule is flexible, a weekday visit shortly after the 7am opening gives you the best shot at grabbing a patio table without a wait, while the espresso machine is still fresh off its morning start and the pastry case is at its fullest.
+With extended daily hours, Urth Caffè has enough runway to work as a breakfast stop, a midday break, or a late-evening coffee-and-cake session after dinner in the neighborhood. Weekend late mornings are the loudest stretch, with brunch crowds spilling onto the sidewalk waiting for patio seats. If your schedule is flexible, a weekday visit shortly after the 7am opening gives you the best shot at grabbing a patio table without a wait, while the espresso machine is still fresh off its morning start and the pastry case is at its fullest.
 
 ## How to visit like a local
 
 This is a genuinely busy, well-known spot rather than an under-the-radar find, so the smartest move is timing, not secrecy. Aim for the early window right after opening on a weekday — the light is good, the patio isn't full, and you won't be rushed off a table. Order at the counter and pay there; tipping a dollar or two in the jar for counter service is common practice at LA cafés like this one, though it's not obligatory. If you're set on outdoor seating, send one person to hold a table while another orders, since patio spots turn over slowly once people settle in with laptops or long conversations. The mistake first-time visitors make is treating it purely as a quick espresso stop — with a menu this deep, it rewards lingering over a pastry and a proper drink rather than a five-minute grab-and-go. And if the wait looks long, remember Urth has multiple Los Angeles locations; this Arts District branch is beloved for its setting, but it's not the only place to get the same coffee and cake.
-

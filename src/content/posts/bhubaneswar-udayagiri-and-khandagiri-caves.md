@@ -67,7 +67,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -86,9 +85,8 @@ Cross the road to Khandagiri and the mood shifts: fewer coach groups, a steeper 
 
 ## When to go
 
-The site opens at 6:30am and stays open until 7:30pm every day, and the difference between a good and a crowded visit here is almost entirely about timing. Measured foot-traffic shows the calm stretch runs from opening at 7am through the day on weekdays, and even weekend mornings stay manageable until midday. The crunch comes between 12pm and 5pm on weekends, when tour buses and family groups arrive en masse — plan around that window rather than into it. Early morning is also simply more comfortable physically: the rock holds heat, there's minimal shade on the climbs, and Odisha's afternoon sun by mid-morning in the warmer months is no joke.
+The site opens early in the morning and stays open through the day, and the difference between a good and a crowded visit here is almost entirely about timing. Measured foot-traffic shows the calm stretch runs from opening at 7am through the day on weekdays, and even weekend mornings stay manageable until midday. The crunch comes between 12pm and 5pm on weekends, when tour buses and family groups arrive en masse — plan around that window rather than into it. Early morning is also simply more comfortable physically: the rock holds heat, there's minimal shade on the climbs, and Odisha's afternoon sun by mid-morning in the warmer months is no joke.
 
 ## How to visit like a local
 
 Go early — ideally at or soon after the 6:30am opening on a weekday, when the site is at its quietest and the light is soft enough for photographs of the carvings without harsh glare. This is a genuinely well-visited landmark, not an undiscovered spot, so if you can't do a weekday, at least front-load a weekend visit before noon to dodge the 12-5pm crush. Wear shoes you can slip off easily, since you'll remove them before entering the temple at Khandagiri's summit, and carry water — there's little shade once you're climbing. Small tips for informal guides hovering near the entrance are common if you want the Hathi Gumpha inscription or the Rani Gumpha panels explained in more depth; agree on a rate before starting, since this isn't formally regulated. The most common visitor mistake is treating Udayagiri as the whole trip and skipping Khandagiri — the second hill takes only another 30-40 minutes and its temple-top view back across at the caves is one of the better photo spots on site.
-

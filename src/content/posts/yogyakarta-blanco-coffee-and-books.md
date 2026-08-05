@@ -61,14 +61,13 @@ faq:
     a: Tugu Jogja monument, Jl. Malioboro's shops and street food stalls, and Tugu train station are all within easy walking or short rideshare distance, making Jetis a convenient coffee break before or after exploring the old city.
 aiGenerated: true
 ---
-
 ## Why go
 
 Blanco Coffee And Books has built a loyal following (4.6 stars across more than 4,100 Google reviews) by doing a simple thing well: pairing sustainably and locally sourced Indonesian coffee with a pared-back, book-lined space that feels more like a design studio than a typical Jogja warung-kopi. The editorial line on it — "trendy, pared-back cafe specializing in light fare & sustainable, locally sourced coffee" — is accurate. Expect exposed concrete, neutral tones, shelves of books for browsing, and a menu built around single-origin pour-overs, espresso drinks, and light bites rather than heavy rice-plate meals. It's the kind of place suited to a slow morning, a laptop session, or a coffee break between temple- and museum-hopping in the old city.
 
 ## Getting there
 
-The café sits on Jl. Kranggan No.30, in Cokrodiningratan, Kecamatan Jetis — the neighborhood just north of Yogyakarta's old fortified core (Kraton area) and close to the base of Jl. Malioboro. The single most useful landmark is Tugu Jogja, the iconic white monument marking the northern end of the Malioboro axis; Blanco is only a short walk from there, making it an easy add-on to a Tugu photo stop or a Malioboro shopping walk. If you're coming from Malioboro or the Kraton, a 10–15 minute becak, ojek, or Grab/Gojek ride north along Jl. Margo Utomo (which becomes Jl. Jl. Diponegoro/Jl. AM Sangaji corridor) gets you close; ride-hailing apps are the simplest way to pinpoint the exact address since Jl. Kranggan is a smaller residential street. Jetis is also walkable from Yogyakarta's Tugu train station, roughly 1–2 km away, so travelers arriving by train can stop here before checking into a hotel.
+The café sits on Jl. Kranggan No.30, in Cokrodiningratan, Kecamatan Jetis — the neighborhood just north of Yogyakarta's old fortified core (Kraton area) and close to the base of Jl. Malioboro. The single most useful landmark is Tugu Jogja, the iconic white monument marking the northern end of the Malioboro axis; Blanco is only a short walk from there, making it an easy add-on to a Tugu photo stop or a Malioboro shopping walk. If you're coming from Malioboro or the Kraton, a 10–15 minute becak, ojek, or Grab/Gojek ride north along Jl. Margo Utomo (which becomes Jl. Diponegoro/Jl. AM Sangaji corridor) gets you close; ride-hailing apps are the simplest way to pinpoint the exact address since Jl. Kranggan is a smaller residential street. Jetis is also walkable from Yogyakarta's Tugu train station, roughly 1–2 km away, so travelers arriving by train can stop here before checking into a hotel.
 
 ## What to see / eat
 

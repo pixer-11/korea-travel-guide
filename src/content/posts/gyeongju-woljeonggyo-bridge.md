@@ -77,7 +77,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-07-24'
 ---
-
 ## Why Go
 
 Woljeonggyo is one of Gyeongju's most photogenic reconstructions — a covered wooden bridge with twin pavilion towers on each end, rebuilt to evoke how it would have looked during the Unified Silla period (roughly 8th century), when it served as a crossing for royalty near the palace grounds of Wolseong. The original bridge was destroyed centuries ago, and archaeologists confirmed its location and scale through excavation before the current structure was completed in 2018. What makes it worth the trip today isn't just the history — it's the design. The bridge is elevated on stone piers, roofed in dark tile, and painted in Silla-style dancheong colors, and at night it's illuminated and mirrored in the still water of the Namcheon, creating one of the most reliably beautiful reflection shots in the city.
@@ -96,4 +95,4 @@ Sunset through early evening is the best window: the bridge's lighting turns on 
 
 ## Nearby and Practical Tips
 
-Combine Woljeonggyo with a broader Gyeongju historic walk: Cheomseongdae Observatory, Donggung Palace and Wolji Pond (also stunning at night), and Wolseong fortress are all within a compact, walkable radius, making it easy to see three or four major sites in a single half-day loop. There's no admission fee to walk across the bridge, and it stays accessible into the evening, making it a flexible stop whether you're passing through at noon or building an evening photography route. Public restrooms and small cafés are scattered through Gyochon Village just south of the bridge, useful if you're spending a few hours in the area. Wear shoes suited to some walking on uneven stone paths near the riverbank if you plan to get down to water level for photos.
+Combine Woljeonggyo with a broader Gyeongju historic walk: Cheomseongdae Observatory, Donggung Palace and Wolji Pond (also stunning at night), and Wolseong fortress are all within a compact, walkable radius, making it easy to see three or four major sites in a single half-day loop. The bridge stays accessible into the evening, making it a flexible stop whether you're passing through at noon or building an evening photography route. Public restrooms and small cafés are scattered through Gyochon Village just south of the bridge, useful if you're spending a few hours in the area. Wear shoes suited to some walking on uneven stone paths near the riverbank if you plan to get down to water level for photos.

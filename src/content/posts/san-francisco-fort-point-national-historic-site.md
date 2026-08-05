@@ -52,7 +52,6 @@ faq:
     a: Crissy Field's beach and marsh trails, the Golden Gate Bridge Welcome Center, and the Presidio's forested trails are all within easy walking or biking distance.
 aiGenerated: true
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -69,7 +68,7 @@ Fort Point sits at 201 Marine Drive, in the Presidio, right at the water's edge 
 
 ## When to go
 
-The fort is open Thursday through Monday, 10am to 5pm, and closed both Tuesday and Wednesday — plan around that if you're building a Presidio day. Mornings are your best bet for calmer wind and clearer light for photos of the bridge's underside arch; by early afternoon, gusts funneling through the Golden Gate can make the parade ground genuinely uncomfortable, especially in spring and summer. Fog is common year-round but tends to burn off by midday in late summer and fall, which are generally the clearest months to see the bridge towers rather than a wall of grey.
+The fort is open select days each week, and closed both Tuesday and Wednesday — plan around that if you're building a Presidio day. Mornings are your best bet for calmer wind and clearer light for photos of the bridge's underside arch; by early afternoon, gusts funneling through the Golden Gate can make the parade ground genuinely uncomfortable, especially in spring and summer. Fog is common year-round but tends to burn off by midday in late summer and fall, which are generally the clearest months to see the bridge towers rather than a wall of grey.
 
 ## How to visit like a local
 

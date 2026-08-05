@@ -49,10 +49,9 @@ aiGenerated: true
 draft: false
 updatedDate: "2026-07-24"
 ---
-
 ## Why Bordeaux Wine Trails
 
-Bordeaux the city is compact and walkable, but the wine that made it famous grows well outside the ring road, scattered across appellations like Médoc, Saint-Émilion, Pessac-Léognan, and Sauternes. A rental car and a phrasebook of appellation names will get you there, but the châteaux that matter most for tastings often require advance appointments, fluent French, or both. Bordeaux Wine Trails, based at 21 Rue du Chai des Farines in the city center, exists to close that gap — small-group, English-language tours that bundle transport, château access, and tastings into a single day. With a 4.9 rating across 748 reviews, it's one of the more consistently well-regarded operators working the region, which matters in a city where wine-tour quality varies wildly.
+Bordeaux the city is compact and walkable, but the wine that made it famous grows well outside the ring road, scattered across appellations like Médoc, Saint-Émilion, Pessac-Léognan, and Sauternes. A rental car and a phrasebook of appellation names will get you there, but the châteaux that matter most for tastings often require advance appointments, fluent French, or both. Bordeaux Wine Trails, based in the city center, exists to close that gap — small-group, English-language tours that bundle transport, château access, and tastings into a single day. With a 4.9 rating across 748 reviews, it's one of the more consistently well-regarded operators working the region, which matters in a city where wine-tour quality varies wildly.
 
 ## Getting there and booking
 
@@ -64,7 +63,7 @@ Expect pickup in a minivan, a scenic drive of 30–90 minutes depending on the a
 
 ## Tips for making the most of it
 
-Spit or sip sparingly early in the day — three châteaux times four pours adds up faster than it seems, especially with wines running 13–14.5% alcohol. Wear shoes that can handle gravel paths and cellar floors, not city sandals. Bring a light jacket even in summer, since cellars are kept cool year-round for the barrels. If you want to bring bottles home, ask at each château about shipping to your home country versus carrying bags yourself — French customs allow generous personal wine allowances within the EU but international flights have their own restrictions. Cash or card for direct château purchases is worth carrying separately from what you've paid the tour operator, since on-site sales are usually a separate transaction.
+Spit or sip sparingly early in the day — three châteaux times four pours adds up faster than it seems. Wear shoes that can handle gravel paths and cellar floors, not city sandals. Bring a light jacket even in summer, since cellars are kept cool year-round for the barrels. If you want to bring bottles home, ask at each château about shipping to your home country versus carrying bags yourself — French customs allow generous personal wine allowances within the EU but international flights have their own restrictions. Cash or card for direct château purchases is worth carrying separately from what you've paid the tour operator, since on-site sales are usually a separate transaction.
 
 ## Best time to go
 

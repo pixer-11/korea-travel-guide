@@ -62,7 +62,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-07-24'
 ---
-
 ## Why go
 
 CQ @ Clarke Quay is the commercial heart of one of Singapore's most photographed riverside districts — a row of shophouse-style godowns built in the 19th century as warehouses for goods moving along the Singapore River, now repurposed into restaurants, bars, and nightlife venues. The pastel-colored facades, covered walkways, and riverfront promenade make it a reliable spot for an evening out, whether you're after cocktails, seafood, or simply a walk along the water with the Central Business District skyline as backdrop. With a 4.5 rating across nearly 46,000 reviews, it's firmly on the well-trodden tourist circuit rather than a quiet find — plan around that rather than expecting solitude.
@@ -81,6 +80,4 @@ Late afternoon into early evening is the sweet spot — you get daylight for pho
 
 ## How to visit like a local
 
-Given how popular and crowd-heavy this stretch is, the practical move is timing rather than seeking a quieter alternative — arrive right at dinner opening (many restaurants start service around 5:30–6pm) to snag a riverside table before the after-work and tourist crush hits. Most restaurants and bars accept cards and mobile payments (PayNow, Apple/Google Pay are widely used in Singapore), so cash isn't essential, though small stalls may prefer it. Tipping isn't customary — a service charge is typically already added to your bill, so there's no need to tip extra. Reservations are wise for weekend dinners at sit-down restaurants; walk-ins are fine on weeknights or if you're just bar-hopping. The most common visitor mistake is treating CQ as a standalone stop — locals and repeat visitors tend to combine it with a river walk to Boat Quay or a stroll to Fort Canning, rather than staying rooted in one crowded strip all evening. If you want photos without the crowd, cross to the opposite bank near Read Bridge in the late afternoon light before the dinner rush builds.
-
-
+Given how popular and crowd-heavy this stretch is, the practical move is timing rather than seeking a quieter alternative — arrive right at dinner opening to snag a riverside table before the after-work and tourist crush hits. Most restaurants and bars accept cards and mobile payments (PayNow, Apple/Google Pay are widely used in Singapore), so cash isn't essential, though small stalls may prefer it. Tipping isn't customary — a service charge is typically already added to your bill, so there's no need to tip extra. Reservations are wise for weekend dinners at sit-down restaurants; walk-ins are fine on weeknights or if you're just bar-hopping. The most common visitor mistake is treating CQ as a standalone stop — locals and repeat visitors tend to combine it with a river walk to Boat Quay or a stroll to Fort Canning, rather than staying rooted in one crowded strip all evening. If you want photos without the crowd, cross to the opposite bank near Read Bridge in the late afternoon light before the dinner rush builds.

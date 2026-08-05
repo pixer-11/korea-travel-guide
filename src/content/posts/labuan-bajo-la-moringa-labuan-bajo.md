@@ -71,7 +71,6 @@ faq:
 aiGenerated: true
 draft: true
 ---
-
 ## Why go
 
 Labuan Bajo's dining scene has exploded alongside its status as the gateway to Komodo National Park, and La Moringa has become one of the town's most consistently praised addresses — a 4.9 rating from over 2,300 reviews is a rare number for any restaurant, anywhere. It sits in the mid-range price bracket, so it works equally well as a casual lunch stop between boat bookings or a proper sit-down dinner after a day on the water. The menu leans into a mix of Indonesian classics and Western comfort food, which suits the town's mixed crowd of domestic tourists, dive-trip groups, and international backpackers refueling before or after multi-day Komodo liveaboards.
@@ -82,7 +81,7 @@ La Moringa is located on Jl. Trans Flores, the main arterial road running throug
 
 ## What to see / eat
 
-Expect a menu built around Indonesian staples — think nasi goreng, grilled seafood, and Flores-influenced dishes — alongside pasta, pizza, and other Western options aimed at the international traveler crowd. Portions and pricing sit in the moderate range for Labuan Bajo, not the cheapest warung in town but well below the premium beachfront resort restaurants. Given the volume and consistency of reviews, dishes are reported as reliably well-executed rather than a single standout "must-order" item, so it's a solid choice when you want a good meal without doing extensive research first. Pair a visit here with a stroll along the Labuan Bajo waterfront afterward, where the harbor lights up with fishing boats and liveaboard vessels at dusk.
+Expect a menu built around Indonesian staples alongside pasta, pizza, and other Western options aimed at the international traveler crowd. Portions and pricing sit in the moderate range for Labuan Bajo, not the cheapest warung in town but well below the premium beachfront resort restaurants. Given the volume and consistency of reviews, dishes are reported as reliably well-executed rather than a single standout "must-order" item, so it's a solid choice when you want a good meal without doing extensive research first. Pair a visit here with a stroll along the Labuan Bajo waterfront afterward, where the harbor lights up with fishing boats and liveaboard vessels at dusk.
 
 ## When to go
 

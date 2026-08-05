@@ -47,7 +47,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why this temple matters
@@ -70,5 +69,4 @@ Mornings start with Mangala Aarti in the very early hours (roughly 3am), a ritua
 
 ## How to visit like a local
 
-Regular worshippers arrive at dawn specifically to avoid both the heat and the queues that build by mid-morning, and they dress simply — men often bare-chested or in a plain kurta near the sanctum, women in modest saris or salwar suits, since strict traditional dress is expected close to the lingam. Offerings (flowers, bilva leaves, small sweets) are bought from stalls right outside, in small cash denominations — keep ₹10-50 notes handy rather than large bills. There's no single "VIP" shortcut open to everyone, but a paid Sugam Darshan ticket, bought at counters near the complex, lets you skip the general queue during busy periods; it's the standard way both locals and visitors avoid the multi-hour wait. The mistake most first-timers make is arriving mid-morning with a bag full of phone, camera, and wallet, only to backtrack to a cloakroom and lose an hour — sort your belongings before you even enter Vishwanath Gali. Budget at least an hour inside once you've cleared security, more if you want to sit by the Ganga-facing gallery afterward and watch the river.
-
+Regular worshippers arrive at dawn specifically to avoid both the heat and the queues that build by mid-morning, and they dress simply — men often bare-chested or in a plain kurta near the sanctum, women in modest saris or salwar suits, since strict traditional dress is expected close to the lingam. Offerings (flowers, bilva leaves, small sweets) are bought from stalls right outside, so it's worth carrying cash in small denominations. There's no single "VIP" shortcut open to everyone, but a paid Sugam Darshan ticket, bought at counters near the complex, lets you skip the general queue during busy periods; it's the standard way both locals and visitors avoid the multi-hour wait. The mistake most first-timers make is arriving mid-morning with a bag full of phone, camera, and wallet, only to backtrack to a cloakroom and lose an hour — sort your belongings before you even enter Vishwanath Gali. Budget at least an hour inside once you've cleared security, more if you want to sit by the Ganga-facing gallery afterward and watch the river.

@@ -73,7 +73,6 @@ faq:
     a: Combine your meal with a walk on Umbrella Beach, and consider visiting Fujairah Fort, Al Bidyah Mosque, or Fujairah Museum, all a short drive away.
 aiGenerated: true
 ---
-
 ## Why go
 
 Steki is a rarity in Fujairah's restaurant scene: a dedicated Greek taverna doing classic Mediterranean cooking — moussaka, souvlaki, saganaki, grilled octopus, fresh salads with feta and olives — steps from the water on Al Faseel Road. With a 4.8 rating from close to 600 reviews, it's clearly winning over diners without being a mobbed tourist stop, which makes it one of the more satisfying finds in a city better known for its corniche and mountain scenery than its dining. The price level sits in the moderate range, so it's realistic for a proper multi-course Greek meal without fine-dining prices.
@@ -88,7 +87,7 @@ Lean into the Greek classics here rather than ordering off-menu Middle Eastern d
 
 ## Best time to visit
 
-Fujairah's climate makes outdoor and beachfront dining most pleasant from October through April, when evening temperatures drop enough to enjoy a meal without the summer humidity. Within the day, an early dinner — arriving as the sun starts to set over the mountains, roughly between 6 and 7pm — gives you the best light for the beach views and beats the later dinner rush. Lunch is a quieter alternative if you'd rather avoid any wait altogether, since Gulf dining culture skews toward late evening meals starting after 8pm.
+Fujairah's climate makes outdoor and beachfront dining most pleasant from October through April, when evening temperatures drop enough to enjoy a meal without the summer humidity. Within the day, an early dinner — arriving as the sun starts to set over the mountains, roughly between 6 and 7pm — gives you the best light for the beach views and beats the later dinner rush. Lunch is a quieter alternative if you'd rather avoid any wait altogether, since dinner tends to draw the bigger crowds.
 
 ## What's nearby
 

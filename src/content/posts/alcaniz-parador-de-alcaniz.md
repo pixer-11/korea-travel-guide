@@ -52,7 +52,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -65,7 +64,7 @@ Alcañiz sits in Teruel province, roughly 90 minutes by car from Zaragoza and ab
 
 ## What to see and do
 
-The building itself is the attraction. Wander the courtyard where the old cloister arches still stand, and look up at the octagonal Torre del Homenaje, the keep that dominates the skyline for miles. Inside, the hotel has kept coffered ceilings, heavy wooden beams, and thick stone archways rather than smoothing them into anonymous luxury — the lobby and social rooms read more like a small museum you're allowed to sit in. The restaurant serves Aragonese cooking leaning on local staples: Teruel ham, migas, slow-braised lamb, and regional wines from Cariñena and Somontano, served in a dining room with those same vaulted ceilings. There's a garden terrace for a slower coffee or drink, with views over the valley that are worth timing for the last hour of daylight. Down in Alcañiz proper, a 15–20 minute walk or short drive away, the Plaza de España is anchored by the Lonja (old exchange) and the Ayuntamiento, both worth an hour of wandering before or after your stay.
+The building itself is the attraction. Wander the courtyard where the old cloister arches still stand, and look up at the octagonal Torre del Homenaje, the keep that dominates the skyline for miles. Inside, the hotel has kept coffered ceilings, heavy wooden beams, and thick stone archways rather than smoothing them into anonymous luxury — the lobby and social rooms read more like a small museum you're allowed to sit in. The restaurant serves regional Aragonese cooking, served in a dining room with those same vaulted ceilings. There's a garden terrace for a slower coffee or drink, with views over the valley that are worth timing for the last hour of daylight. Down in Alcañiz proper, a 15–20 minute walk or short drive away, the Plaza de España is anchored by the Lonja (old exchange) and the Ayuntamiento, both worth an hour of wandering before or after your stay.
 
 ## When to go
 

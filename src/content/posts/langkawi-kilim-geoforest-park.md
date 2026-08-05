@@ -52,7 +52,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -65,7 +64,7 @@ Kilim sits on the northeastern coast of Langkawi, roughly a 30-40 minute drive f
 
 ## What to see and do
 
-The standard mangrove tour threads through narrow tidal creeks where the forest closes in overhead, roots knuckling down into the mud on both sides. Boats slow at a floating fish farm where you can watch — and sometimes hand-feed — big groupers and the occasional monitor lizard patrolling the pontoons nearby. From there, most routes swing past a limestone cave you can enter briefly by torchlight, and out into open water at Hole in the Wall or the wider lagoon, where sea eagles wheel low over the boats in late afternoon, drawn by fish scraps tossed by the guides. Many tours end at the floating restaurant moored mid-river, a stilted, pontoon-based seafood spot where you eat with the mangrove line as your view — order the grilled fish or sambal prawns and expect a straightforward, unfussy meal rather than a fine-dining one. If you have half a day rather than two hours, ask about combining the river tour with kayaking through the calmer channels, a quieter way to notice the fiddler crabs and mudskippers you'll otherwise glide past.
+The standard mangrove tour threads through narrow tidal creeks where the forest closes in overhead, roots knuckling down into the mud on both sides. Boats slow at a floating fish farm where you can watch — and sometimes hand-feed — big groupers and the occasional monitor lizard patrolling the pontoons nearby. From there, most routes swing past a limestone cave you can enter briefly by torchlight, and out into open water at Hole in the Wall or the wider lagoon, where sea eagles wheel low over the boats in late afternoon, drawn by fish scraps tossed by the guides. Many tours end at the floating restaurant moored mid-river, a stilted, pontoon-based seafood spot where you eat with the mangrove line as your view — expect a straightforward, unfussy meal rather than a fine-dining one. If you have half a day rather than two hours, ask about combining the river tour with kayaking through the calmer channels, a quieter way to notice the fiddler crabs and mudskippers you'll otherwise glide past.
 
 ## When to go
 

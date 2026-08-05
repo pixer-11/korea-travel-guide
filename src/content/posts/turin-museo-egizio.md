@@ -52,7 +52,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -73,7 +72,7 @@ With a 4.7 rating built on tens of thousands of reviews, this is one of Turin's 
 
 ## How to visit like a local
 
-Book your ticket online in advance with a timed entry slot — this is standard practice for Turin's major museums now, and it lets you skip the walk-up ticket line entirely. Payment inside is by card as much as cash, and there's no tipping expectation in an Italian state or civic museum context. Note the museum is open every day of the week, including Mondays — though Monday hours are shorter, 9am to 2pm, rather than the extended hours running to 6:30pm or later on other days — so if you want the full experience, plan your visit for Tuesday through Sunday, and always double-check current opening days and hours on the official site before you go, since these do shift seasonally. The mistake most first-time visitors make is treating this like a quick photo-stop between the Egyptian obelisk outside and Piazza Castello nearby; the collection is dense enough that rushing it means missing the Tomb of Kha, which is easy to overlook if you're moving fast. Wear a layer you can take off — the galleries are climate-controlled and can run cool. If you want context before you go, the museum's own audioguide (available in multiple languages) is worth the small add-on cost rather than relying purely on wall text, since object labels are necessarily brief given how much is on display.
+Book your ticket online in advance with a timed entry slot — this is standard practice for Turin's major museums now, and it lets you skip the walk-up ticket line entirely. Payment inside is by card as much as cash, and there's no tipping expectation in an Italian state or civic museum context. Note the museum is open every day of the week, including Mondays — though Monday hours differ from the rest of the week — so if you want the full experience, plan your visit for Tuesday through Sunday, and always double-check current opening days and hours on the official site before you go, since these do shift seasonally. The mistake most first-time visitors make is treating this like a quick photo-stop between the Egyptian obelisk outside and Piazza Castello nearby; the collection is dense enough that rushing it means missing the Tomb of Kha, which is easy to overlook if you're moving fast. Wear a layer you can take off — the galleries are climate-controlled and can run cool. If you want context before you go, the museum's own audioguide (available in multiple languages) is worth the small add-on cost rather than relying purely on wall text, since object labels are necessarily brief given how much is on display.
 
 ## Nearby to combine
 

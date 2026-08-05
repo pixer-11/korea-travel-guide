@@ -60,14 +60,13 @@ faq:
     a: Seomun Market and the Kim Kwang Seok mural street are both within easy reach, and the entire Dongseong-ro shopping strip is walkable from the restaurant's door.
 aiGenerated: true
 ---
-
 ## Why go
 
 Daegu's Dongseong-ro is the city's densest shopping and nightlife strip — a pedestrian corridor packed with fashion boutiques, cosmetics chains, street-food carts, and cafés. Amid all the Korean fried chicken and tteokbokki stalls, Nazar Kebab stands out simply because it's one of the few places downtown serving Turkish-style kebabs done well. With a 4.4 rating across 469 reviews, it's clearly earned a loyal following among both locals craving something different and foreign visitors homesick for familiar Middle Eastern flavors. It's the kind of place you duck into between shopping stops, not a formal dining destination — and that's exactly its appeal.
 
 ## What to eat
 
-The core menu revolves around döner kebab, typically shaved off a rotating spit and served either wrapped in flatbread (dürüm) or piled over rice/salad in a plate format. Many visitors also order İskender-style kebab, topped with tomato sauce and yogurt, and lahmacun (thin, Turkish-style flatbread with minced meat and spices) if it's on offer that day. Portions tend to be generous relative to the price, and the flavor profile — cumin, sumac, garlic yogurt sauce, grilled meat char — is a genuine change of pace from the sweet-spicy Korean fare dominating the surrounding blocks. Price level sits at a moderate "2," meaning a filling meal here should land solidly in budget-to-midrange territory, though exact menu prices shift over time, so check the posted board or a delivery app before ordering.
+The core menu revolves around döner kebab, typically shaved off a rotating spit and served either wrapped in flatbread (dürüm) or piled over rice/salad in a plate format. Many visitors also order İskender-style kebab, topped with tomato sauce and yogurt, and lahmacun (thin, Turkish-style flatbread with minced meat and spices) if it's on offer that day. Portions tend to be generous relative to the price, and the flavor profile — cumin, sumac, garlic yogurt sauce, grilled meat char — is a genuine change of pace from the sweet-spicy Korean fare dominating the surrounding blocks. Prices are moderate, meaning a filling meal here should land solidly in budget-to-midrange territory, though exact menu prices shift over time, so check the posted board or a delivery app before ordering.
 
 ## Getting there
 

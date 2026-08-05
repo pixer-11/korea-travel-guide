@@ -47,7 +47,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -64,7 +63,7 @@ Give yourself at least two hours just to cover the basics: a ride on the 200-foo
 
 ## When to go
 
-Navy Pier is open daily, 11am to 8pm Monday through Thursday, 11am to 10pm Friday and Saturday, and 11am to 9pm on Sunday — hours worth double-checking online before a winter visit, since some rides and attractions run seasonally. Given how consistently packed this place is — it's one of the most-visited attractions in the Midwest — the calmest stretch is right at the 11am opening, or after 6pm on a weekday evening once day-trippers start heading out. Weekends, especially with summer fireworks scheduled, get dense by early afternoon and stay that way past dark.
+Navy Pier's hours vary by season, so it's worth checking online before you go, especially since some rides and attractions run seasonally. Given how consistently packed this place is — it's one of the most-visited attractions in the Midwest — the calmest stretch is right at opening, or in the early evening on a weekday once day-trippers start heading out. Weekends, especially with summer fireworks scheduled, get dense by early afternoon and stay that way past dark.
 
 ## How to visit like a local
 

@@ -28,10 +28,9 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## The pitch: two scenes under one roof
 
-Salcedo Village has no shortage of café-bars, but Kariton x Sabi Sounds is the first in the neighborhood to fuse a gelateria with a listening bar. Kariton is the gelato project from media personality and restaurateur Erwan Heussaff, known for small-batch, Filipino-inflected flavors. Sabi Sounds is the Melbourne import, built around the "kissaten" idea of drinking and eating while records spin on proper hi-fi equipment rather than a DJ booth. Put together, you get a single address that functions as a coffee counter at 7am, a gelato stop at noon, and a record bar with small plates once the sun goes down. That range is the whole appeal: you can walk in for a quick espresso before a meeting at one of Salcedo's office towers, or come back the same night for a slower, music-led hang.
+Salcedo Village has no shortage of café-bars, but Kariton x Sabi Sounds is the first in the neighborhood to fuse a gelateria with a listening bar. Kariton is the gelato project from media personality and restaurateur Erwan Heussaff, known for small-batch, Filipino-inflected flavors. Sabi Sounds is the Melbourne import, built around the "kissaten" idea of drinking and eating while records spin on proper hi-fi equipment rather than a DJ booth. Put together, you get a single address that functions as a coffee-and-gelato spot by day and a record bar with small plates once the sun goes down. That range is the whole appeal: you can walk in for a quick espresso before a meeting at one of Salcedo's office towers, or come back the same night for a slower, music-led hang.
 
 ## Where it sits in Salcedo Village
 

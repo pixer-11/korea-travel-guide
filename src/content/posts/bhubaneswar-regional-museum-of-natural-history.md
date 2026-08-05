@@ -71,7 +71,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -90,13 +89,12 @@ The standout, though, is the botanical garden for the visually impaired — a fr
 
 ## When to go
 
-The museum runs 10am to 6pm every day of the week except Monday, when it's closed entirely — plan around that if you're building a single-day Bhubaneswar itinerary. Weekends get busy, with the heaviest footfall between 11am and 6pm as local families and school groups arrive in waves. If you want the galleries to yourself, aim for a weekday morning close to opening time, before the tour buses and family groups build up. A weekday visit also means the vivarium and hands-on stations won't have a queue of kids waiting for a turn.
+The museum keeps set opening hours and a weekly closing day, like most institutions of its kind, so it's worth checking current timings before you go rather than assuming it will be open — plan around that if you're building a single-day Bhubaneswar itinerary. Weekends get busy, with the heaviest footfall between 11am and 6pm as local families and school groups arrive in waves. If you want the galleries to yourself, aim for a weekday morning close to opening time, before the tour buses and family groups build up. A weekday visit also means the vivarium and hands-on stations won't have a queue of kids waiting for a turn.
 
 ## How to visit like a local
 
-This isn't a hidden gem — it's a well-known, well-reviewed institution that plenty of Bhubaneswar families already treat as a standard school-holiday outing, so don't expect to have it to yourself, especially on weekends. The practical local move is timing: go on a weekday, ideally right at the 10am opening, and you'll beat both the heat outside and the crowds inside. Tickets are sold at a counter on-site and are inexpensive, but prices do get revised, so treat any figure you've read online as approximate and just budget a small amount in cash. Photography is generally allowed in the galleries but check signage near the vivarium and any temporary exhibits, since live-animal areas sometimes restrict flash photography. Pair the visit with the adjacent planetarium if you have half a day free — many visitors do both back to back, and combining them saves a second trip across town. Wear comfortable shoes for the tactile garden path, and don't rush the Braille garden; it rewards slowing down more than any other corner of the museum.
+This isn't a hidden gem — it's a well-known, well-reviewed institution that plenty of Bhubaneswar families already treat as a standard school-holiday outing, so don't expect to have it to yourself, especially on weekends. The practical local move is timing: go on a weekday, ideally right at opening time, and you'll beat both the heat outside and the crowds inside. Tickets are sold at a counter on-site and are inexpensive, but prices do get revised, so treat any figure you've read online as approximate and just budget a small amount in cash. Photography is generally allowed in the galleries but check signage near the vivarium and any temporary exhibits, since live-animal areas sometimes restrict flash photography. Pair the visit with the adjacent planetarium if you have half a day free — many visitors do both back to back, and combining them saves a second trip across town. Wear comfortable shoes for the tactile garden path, and don't rush the Braille garden; it rewards slowing down more than any other corner of the museum.
 
 ## Nearby
 
 Beyond the planetarium next door, you're a short ride from Bhubaneswar's temple cluster around Bindusagar Lake — Lingaraj Temple and Mukteshwar Temple both make sense as a same-day pairing, giving you an ancient-and-scientific contrast within a single Bhubaneswar day out.
-

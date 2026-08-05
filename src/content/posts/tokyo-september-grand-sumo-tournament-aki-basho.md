@@ -29,7 +29,6 @@ faq:
     a: The Ryogoku neighborhood has a small sumo museum inside the Kokugikan, plus numerous chanko-nabe (sumo stew) restaurants and sumo-stable-lined streets worth exploring before or after the bouts.
 aiGenerated: true
 ---
-
 ## Why go
 
 Sumo is Japan's national sport, and the Grand Tournaments (honbasho) are the only place to see it at its highest level, with rituals largely unchanged for centuries — the salt-throwing, the stomping to drive away evil spirits, the ceremonial aprons of the top-ranked rikishi. The Aki Basho is one of six honbasho held annually across Japan and one of three staged in Tokyo (alongside the January and May tournaments), making September a rare window to catch elite sumo without leaving the capital. The 15-day format means every wrestler faces a different opponent each day, with rankings and bragging rights shifting daily until the final-day deciding bouts.
@@ -44,7 +43,7 @@ Doors typically open in the morning, with junior-division wrestlers (jonokuchi t
 
 ## When to go
 
-All 15 days run consecutively without rest days, so there's no single "best" day to catch top-division sumo — every day from September 13 through 27, 2026 features makuuchi bouts. That said, the final few days tend to draw the biggest crowds and highest stakes, as championship contention narrows and yusho (tournament) implications become clear. Weekdays, especially in the tournament's first week, are generally calmer and easier to get tickets for than weekends.
+All 15 days run consecutively without rest days, so there's no single "best" day to catch top-division sumo — the tournament's full run features makuuchi bouts every day. That said, the final few days tend to draw the biggest crowds and highest stakes, as championship contention narrows and yusho (tournament) implications become clear. Weekdays, especially in the tournament's first week, are generally calmer and easier to get tickets for than weekends.
 
 ## Tickets and practical notes
 

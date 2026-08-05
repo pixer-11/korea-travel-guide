@@ -47,7 +47,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -64,7 +63,7 @@ The lake is the visual anchor: a broad, irregular sheet of water with a fountain
 
 ## When to go
 
-Because this is a park people actually use daily, timing matters more than it would at a typical tourist sight. Early morning brings the tai chi groups and a cooler, quieter version of the park before the heat sets in — Kaohsiung's subtropical climate means midday from roughly May through September is genuinely uncomfortable for walking. Evenings, especially after 6pm when the fountain lights come on and the heat breaks, are the most atmospheric time to visit, though also the busiest with local families and couples. Weekend afternoons see the heaviest foot traffic of the week; if you want breathing room, aim for a weekday morning or a weekday evening after the dinner rush has thinned out.
+Because this is a park people actually use daily, timing matters more than it would at a typical tourist sight. Early morning brings the tai chi groups and a cooler, quieter version of the park before the heat sets in — Kaohsiung's subtropical climate means midday from roughly May through September is genuinely uncomfortable for walking. Evenings are the most atmospheric time to visit, though also the busiest with local families and couples. Weekend afternoons see the heaviest foot traffic of the week; if you want breathing room, aim for a weekday morning or a weekday evening after the dinner rush has thinned out.
 
 ## How to visit like a local
 

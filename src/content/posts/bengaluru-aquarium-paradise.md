@@ -48,7 +48,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -67,11 +66,10 @@ The draw here is the sheer range: tank after tank of freshwater and marine speci
 
 ## When to go
 
-The shop is open every day of the week, 10:30am to 8pm, with no midday closure — a rarity for smaller Bengaluru shops. Because it's a well-known, heavily visited spot, evenings and weekends tend to draw the thickest crowds, especially Saturday and Sunday afternoons when families and hobbyists both show up at once. A weekday morning shortly after the 10:30am opening, or a weekday visit in the early evening before 6pm, tends to be calmer and gives staff more time to actually talk fish with you rather than just processing a queue.
+Check current opening hours before you go, since shop hours can shift. Because it's a well-known, heavily visited spot, evenings and weekends tend to draw the thickest crowds, especially Saturday and Sunday afternoons when families and hobbyists both show up at once. A weekday morning shortly after opening, or a weekday visit in the early evening before 6pm, tends to be calmer and gives staff more time to actually talk fish with you rather than just processing a queue.
 
 ## How to visit like a local
 
 Regulars treat this less as a sightseeing stop and more as a supply run, and you'll get more out of it if you do too. Know roughly what you want before you walk in — a type of fish, a tank size, a filtration problem — because the staff respond well to specific questions and can get overwhelmed fielding vague ones during busy stretches. Payment is typically by cash or card; carrying a bit of cash still helps for small accessory purchases. If you do buy live fish, ask for a proper double-bagged transport pack with oxygen, and don't dawdle elsewhere before getting them home or into a tank. The most common mistake newcomers make is buying fish species impulsively without checking compatibility — ask before you buy, since the staff will tell you plainly if two species will fight or if a tank is too small. And because this is a very popular stop for local hobbyists, not a quiet backstreet find, don't expect an empty shop — the buzz of people and pumps is part of the experience.
 
 Pair the visit with a stroll through the nearby Sadashivanagar and Jayamahal neighbourhoods, both dotted with cafés and quiet, tree-lined residential streets, or continue on to the Bangalore Golf Club and Cubbon Park area, a short drive south, to round out a half-day loop.
-

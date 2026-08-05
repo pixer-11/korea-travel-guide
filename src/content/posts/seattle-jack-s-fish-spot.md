@@ -61,7 +61,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -78,11 +77,11 @@ The clam chowder is the anchor order: a thick, cream-based bowl studded with rea
 
 ## When to go
 
-Jack's keeps consistent hours: 7:30am to 6pm Monday through Saturday, and 8am to 5pm on Sunday. The measured foot traffic backs this up — both weekdays and weekends are calmest across the full 7:30am–6pm window (8am–5pm on Sundays), but crowds build fast once the cruise-ship and tour-bus crowd arrives. On weekends specifically, 11am to 4pm is the peak crush, with lines spilling into the market's main aisle and the counter staff working at full tilt just to keep pace. If you want to actually see the fish being cut rather than just the backs of other tourists' heads, get there within the first hour or two of opening.
+Jack's keeps consistent hours, opening early in the morning and closing in the early evening most days. The measured foot traffic backs this up — both weekdays and weekends are calmest across the full 7:30am–6pm window (8am–5pm on Sundays), but crowds build fast once the cruise-ship and tour-bus crowd arrives. On weekends specifically, 11am to 4pm is the peak crush, with lines spilling into the market's main aisle and the counter staff working at full tilt just to keep pace. If you want to actually see the fish being cut rather than just the backs of other tourists' heads, get there within the first hour or two of opening.
 
 ## How to visit like a local
 
-This is a well-known market stop, not a hidden find — plenty of regulars and market workers eat here, but so does most of Pike Place's daily foot traffic, so don't expect to have the counter to yourself. The trick locals use is timing: come at opening (7:30am weekdays, 8am Sunday) before the tour groups arrive, order quickly, and eat standing at the market's outdoor rail rather than waiting for a seat that doesn't really exist. Payment is straightforward — cash or card both work, and there's no real tipping ritual beyond dropping change in the jar if the counter has one, since this is takeout-style service, not a table with a server. Ordering is simple: look at the chalkboard, know roughly what you want before you reach the counter (the line moves fast and staff appreciate a quick decision), and don't be shy about asking what's freshest that day — the answer changes with the tide and the boats. The most common tourist mistake is treating it like a sit-down restaurant and lingering at the counter after ordering; grab your paper boat and free up space for the next person, then find a rail or bench nearby to actually enjoy the food.
+This is a well-known market stop, not a hidden find — plenty of regulars and market workers eat here, but so does most of Pike Place's daily foot traffic, so don't expect to have the counter to yourself. The trick locals use is timing: come at opening, before the tour groups arrive, order quickly, and eat standing at the market's outdoor rail rather than waiting for a seat that doesn't really exist. Payment is straightforward — cash or card both work, and there's no real tipping ritual beyond dropping change in the jar if the counter has one, since this is takeout-style service, not a table with a server. Ordering is simple: look at the chalkboard, know roughly what you want before you reach the counter (the line moves fast and staff appreciate a quick decision), and don't be shy about asking what's freshest that day — the answer changes with the tide and the boats. The most common tourist mistake is treating it like a sit-down restaurant and lingering at the counter after ordering; grab your paper boat and free up space for the next person, then find a rail or bench nearby to actually enjoy the food.
 
 ## Nearby to pair it with
 

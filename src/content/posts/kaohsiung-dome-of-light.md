@@ -52,7 +52,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -69,7 +68,7 @@ The dome itself takes only a few minutes to actually look at, but budget 20–30
 
 ## When to go
 
-Because the dome sits underground, weather never matters — this is a genuinely good rainy-day or midday-heat option in a city where summer afternoons can be brutal. The station itself runs 6am to midnight every day, so there's no ticketed hours to plan around, but the space still has a rhythm: morning and evening rush hours bring commuters cutting straight through, heads down, which changes the mood of the place from contemplative to functional. Midweek, late morning to mid-afternoon tends to be calmer, with more people actually standing still and looking up rather than hurrying past. Evenings after dinner bring a mix of locals passing through and visitors specifically there for photos, so the concourse gets busier again, especially on weekends.
+Because the dome sits underground, weather never matters — this is a genuinely good rainy-day or midday-heat option in a city where summer afternoons can be brutal. The station keeps normal MRT operating hours, so there's no ticketed hours to plan around, but the space still has a rhythm: morning and evening rush hours bring commuters cutting straight through, heads down, which changes the mood of the place from contemplative to functional. Midweek, late morning to mid-afternoon tends to be calmer, with more people actually standing still and looking up rather than hurrying past. Evenings after dinner bring a mix of locals passing through and visitors specifically there for photos, so the concourse gets busier again, especially on weekends.
 
 ## How to visit like a local
 

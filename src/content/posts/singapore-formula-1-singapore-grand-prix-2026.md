@@ -31,12 +31,11 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 The first thing you notice, days before a single engine fires, is the scaffolding. Grandstands climb over the Padang and along Raffles Boulevard, temporary bridges arc across roads you walked the week before, and the glass towers of the CBD suddenly have a racetrack running underneath them. Singapore's Grand Prix weekend turns the financial district into a 5-kilometre street circuit, and for three nights in October the skyline itself becomes part of the spectacle — floodlights bouncing off the Marina Bay Sands facade, the Singapore Flyer lit up behind the final corners.
 
 ## Why this year is different
 
-The 2026 race, set for October 9-11 at the Marina Bay Street Circuit, marks the first time Singapore has hosted an F1 Sprint weekend — meaning an extra qualifying and Sprint race are added to Saturday, on top of the usual Friday practice and Sunday Grand Prix. That compresses the on-track action into a busier, more front-loaded schedule than in past years, so if you're only buying a single day's ticket, Saturday now carries more racing than it used to. The off-track side has also expanded: organisers have confirmed The Killers and Lana Del Rey as headline acts in the post-session concert program that's become as big a draw as the race itself for plenty of attendees.
+The 2026 race, set for October 9-11 at the Marina Bay Street Circuit, marks the first time Singapore has hosted an F1 Sprint weekend — meaning an extra qualifying and Sprint race are added to Saturday, on top of the usual Friday practice and Sunday Grand Prix. That compresses the on-track action into a busier, more front-loaded schedule than in past years, so if you're only buying a single day's ticket, Saturday now carries more racing than it used to. The off-track side has also expanded: the post-session concert program has grown into as big a draw as the race itself for plenty of attendees.
 
 ## Getting there and getting around
 

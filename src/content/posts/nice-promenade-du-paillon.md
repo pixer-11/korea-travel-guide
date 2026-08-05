@@ -48,7 +48,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -69,5 +68,4 @@ This is a well-known, heavily used park — it's the kind of place every visitor
 
 ## How to visit like a local
 
-Treat the Promenade as a through-route, not a destination in itself — that's how locals use it, cutting between the Old Town, Place Masséna, and the museum quarter rather than lingering at any one spot. If you do want to sit, head for the shaded lawns north of Rue de la Préfecture rather than the open pool area, which is where the crowds concentrate. There's nothing to buy or book — it's a free, always-open public park — so the only real etiquette is keeping to the edges of the mirror pool if you're not one of the kids splashing through it, and giving space to the joggers and cyclists who use the paths as a genuine commuting route morning and evening. The most common visitor mistake is rushing the whole length in ten minutes for photos and missing that the park changes character block by block — the calm, tree-heavy northern end near MAMAC feels almost nothing like the busy fountain plaza by Place Masséna. If you're travelling with children, the play area and fountain jets are the draw, but go earlier in the day if you want them to yourselves.
-
+Treat the Promenade as a through-route, not a destination in itself — that's how locals use it, cutting between the Old Town, Place Masséna, and the museum quarter rather than lingering at any one spot. If you do want to sit, head for the shaded lawns north of Rue de la Préfecture rather than the open pool area, which is where the crowds concentrate. There's nothing to buy or book — it's simply an open public park — so the only real etiquette is keeping to the edges of the mirror pool if you're not one of the kids splashing through it, and giving space to the joggers and cyclists who use the paths as a genuine commuting route morning and evening. The most common visitor mistake is rushing the whole length in ten minutes for photos and missing that the park changes character block by block — the calm, tree-heavy northern end near MAMAC feels almost nothing like the busy fountain plaza by Place Masséna. If you're travelling with children, the play area and fountain jets are the draw, but go earlier in the day if you want them to yourselves.

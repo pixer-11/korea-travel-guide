@@ -49,7 +49,6 @@ faq:
 aiGenerated: true
 updatedDate: "2026-07-24"
 ---
-
 ## Why Khao Soi, and Why This Spot
 
 Khao soi is Chiang Mai's signature dish — a Burmese-influenced curry noodle soup built on a coconut-milk broth, egg noodles boiled soft in the bowl, and a tangle of deep-fried crispy noodles piled on top for crunch. It's typically made with chicken (khao soi gai) or beef (khao soi neua), finished with pickled mustard greens, shallots, lime, and a spoonful of chili oil (nam prik pao) stirred in table-side to taste. Best Khao Soi Chang Mai has built its reputation squarely around doing this one dish exceptionally well, which is reflected in its 4.6-star average across 252 reviews — a strong showing for a single-dish specialist in a city with hundreds of khao soi vendors.
@@ -70,7 +69,7 @@ Pair it with a side of sai oua (northern Thai herbed sausage) or naem (fermented
 
 ## When to Go and What to Expect
 
-This shop runs as an evening spot — open 4–10pm Monday through Friday, 3–10pm on Saturday, and closed all day Sunday — so plan your khao soi craving accordingly rather than at the classic Chiang Mai lunch hour. Given the strong review volume, expect the possibility of a short wait soon after opening; arriving right at opening (4pm on weekdays, 3pm on Saturdays) can mean a shorter line. As with most single-dish specialists in Thailand, the shop may sell out of the day's broth or noodles once supply runs low, so getting there earlier in the evening is safer if you're set on trying it.
+This shop runs as an evening spot — with hours limited to evenings only, and not open every day — so plan your khao soi craving accordingly rather than at the classic Chiang Mai lunch hour. Given the strong review volume, expect the possibility of a short wait soon after opening; arriving right at opening (4pm on weekdays, 3pm on Saturdays) can mean a shorter line. As with most single-dish specialists in Thailand, the shop may sell out of the day's broth or noodles once supply runs low, so getting there earlier in the evening is safer if you're set on trying it.
 
 ## Nearby & Practical Tips
 

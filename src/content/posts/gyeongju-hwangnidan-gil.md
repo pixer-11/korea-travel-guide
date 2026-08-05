@@ -51,7 +51,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Why go
 
 Hwangnidan-gil grew out of a quiet residential pocket in Hwangnam-dong and, within the space of a few years, became Gyeongju's answer to Seoul's Ikseon-dong or Yeonnam-dong — a cluster of narrow lanes lined with independent cafes, dessert shops, small galleries, and hanbok rental studios, many of them set inside renovated single-story hanok and older Korean houses. The name itself is a mashup: "Hwangnam" (the neighborhood) plus "-dan-gil," a suffix Korean cities now use for any street that's become a hip, Instagram-friendly destination (as in Seoul's Garosu-dan-gil). What makes it worth a stop isn't a single landmark but the atmosphere: low-slung tiled roofs, small shopfronts, and a genuinely walkable scale that contrasts with Gyeongju's more monumental historic sites just a few minutes away.
@@ -62,7 +61,7 @@ Gyeongju has no subway system, so getting to Hwangnidan-gil means bus or taxi. M
 
 ## What to see and do
 
-The core activity here is simply strolling and browsing: expect two or three parallel lanes packed with small cafes serving Instagram-ready desserts, bakeries known for trendy flavors along the lines of hallabong (citrus) or injeolmi (rice cake) pastries and lattes — specialties rotate often here, and boutiques selling ceramics, stationery, and clothing. Hanbok rental shops are dense in this area — renting a hanbok for a few hours (typically a half-day block) is a popular way to photograph yourself against both the modern cafe backdrops and the ancient tombs nearby, and several rental shops offer hairstyling add-ons. Because Hwangnidan-gil sits directly adjacent to Daereungwon Tomb Complex (home of the famous Cheonmachong tomb, open to visitors) and within walking distance of Cheomseongdae, Korea's oldest surviving astronomical observatory, it's easy to combine a couple of hours of shopping with the core historic sightseeing loop. Gyeongju National Museum and the Wolji Pond (Anapji) area, famous for its nighttime illuminated pavilions, are a short additional taxi ride away and pair well with an evening visit.
+The core activity here is simply strolling and browsing: expect two or three parallel lanes packed with small cafes serving Instagram-ready desserts, bakeries known for trendy flavors along the lines of hallabong (citrus) or injeolmi (rice cake) pastries and lattes — specialties rotate often here, and boutiques selling ceramics, stationery, and clothing. Hanbok rental shops are dense in this area — renting a hanbok for a few hours is a popular way to photograph yourself against both the modern cafe backdrops and the ancient tombs nearby, and several rental shops offer hairstyling add-ons. Because Hwangnidan-gil sits directly adjacent to Daereungwon Tomb Complex (home of the famous Cheonmachong tomb, open to visitors) and within walking distance of Cheomseongdae, Korea's oldest surviving astronomical observatory, it's easy to combine a couple of hours of shopping with the core historic sightseeing loop. Gyeongju National Museum and the Wolji Pond (Anapji) area, famous for its nighttime illuminated pavilions, are a short additional taxi ride away and pair well with an evening visit.
 
 ## When to go and how long to stay
 

@@ -53,7 +53,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-07-24'
 ---
-
 ## Why go
 
 Santa Maria del Fiore, universally called the Duomo, is the fourth-largest church in Europe and the symbol of Florence's Renaissance ambition. Begun in 1296 to a design by Arnolfo di Cambio, it wasn't finished for nearly 150 years — the real breakthrough came in 1436, when Filippo Brunelleschi completed the octagonal brick dome without a supporting scaffold, using a self-supporting double-shell design that was unprecedented at the time and remains the largest masonry dome ever built. The pink, white, and green marble facade you see today is actually a 19th-century addition (1876–1887) by Emilio De Fabris; the medieval original was torn down unfinished in the 1580s. Rated 4.8 by over 110,000 visitors, it's one of the most-reviewed sights in Italy, and for good reason — this is Florence's civic heart, not just a photo backdrop.
@@ -72,7 +71,7 @@ Next door, Giotto's Campanile (bell tower, begun 1334) offers a comparable view 
 
 ## When to go
 
-Early morning, right at the cathedral's opening (10:15am in recent seasons — confirm times on the official Duomo site), or in the last hour before closing at 3:45pm, offers the calmest visit — the piazza fills with tour groups by mid-morning and stays busy through the afternoon. Spring (April–May) and fall (September–October) bring mild weather without August's heat, when the dome climb in particular gets stuffy and airless. Avoid climbing right after rain if you can — the stone steps get slick.
+Early morning, right at the cathedral's opening (10:15am in recent seasons — confirm times on the official Duomo site), or in the last hour before closing, offers the calmest visit — the piazza fills with tour groups by mid-morning and stays busy through the afternoon. Spring (April–May) and fall (September–October) bring mild weather without August's heat, when the dome climb in particular gets stuffy and airless. Avoid climbing right after rain if you can — the stone steps get slick.
 
 ## Nearby & tips
 

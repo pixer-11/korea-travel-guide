@@ -48,7 +48,6 @@ faq:
     a: Da'an Forest Park and Yongkang Street's food stalls and dessert shops are both within easy walking distance, making this a good anchor for a slower-paced Da'an District morning.
 aiGenerated: true
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -57,7 +56,7 @@ You almost walk past it. The entrance is a narrow stairwell squeezed between sho
 
 ## Getting there
 
-The cafe sits at 2-1號2樓, Lishui St, in Da'an District — one of Taipei's leafier, more residential central neighborhoods, known for its tree-lined lanes and proximity to Da'an Forest Park. The closest MRT stop is Dongmen Station on the Zhonghe–Xinlu (Orange, Line 6) and Xindian (Green, Line 3) lines; take Exit 5 and it's roughly a five-to-eight-minute walk through quiet side streets. If you're coming from Yongkang Street's food stalls or the Shida night market area, it's an easy 15-minute stroll, making it a natural stop to fold into a morning of wandering Da'an's back lanes rather than a destination you plan your whole day around.
+The cafe sits on the second floor at 2-1 Lishui St, in Da'an District — one of Taipei's leafier, more residential central neighborhoods, known for its tree-lined lanes and proximity to Da'an Forest Park. The closest MRT stop is Dongmen Station on the Zhonghe–Xinlu (Orange, Line 6) and Xindian (Green, Line 3) lines; take Exit 5 and it's roughly a five-to-eight-minute walk through quiet side streets. If you're coming from Yongkang Street's food stalls or the Shida night market area, it's an easy 15-minute stroll, making it a natural stop to fold into a morning of wandering Da'an's back lanes rather than a destination you plan your whole day around.
 
 ## What to see and eat
 

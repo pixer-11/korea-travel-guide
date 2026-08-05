@@ -68,7 +68,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You feel the scale of the place before you see a single painting. The glass Pyramid sits in the middle of the Cour Napoléon like a diamond dropped into a stone courtyard, and once you're through security and down the escalator into the Carrousel du Louvre, the sheer size of the building starts to sink in — three wings, Sully, Denon and Richelieu, wrapping around a courtyard so large you could lose an afternoon just walking its perimeter.
@@ -87,7 +86,7 @@ Nobody sees the Louvre in one visit — accept that going in. Pick two or three 
 
 ## When to go
 
-The museum is closed on Tuesdays, so don't show up expecting a quiet weekday visit then — you'll find the doors shut. On the days it is open, hours run 9am–6pm Monday, Thursday, Saturday and Sunday, and stretch to 9pm on Wednesday and Friday. Those two late nights are genuinely the best window: the tour-bus crowds thin out after about 5pm, and the lower evening light through the Pyramid's glass panels is worth seeing on its own. Measured crowd patterns back this up — the calmest stretch on weekdays is 9am–10am, right at opening, while weekends stay comparatively manageable pretty much all day (9am–7pm), aside from the 11am–6pm stretch, which is consistently the busiest window and worth avoiding if you can help it.
+The museum is closed on Tuesdays, so don't show up expecting a quiet weekday visit then — you'll find the doors shut. On the days it is open, hours generally run from morning into the early evening, with two evenings each week when the museum stays open later. Those two late nights are genuinely the best window: the tour-bus crowds thin out after about 5pm, and the lower evening light through the Pyramid's glass panels is worth seeing on its own. Measured crowd patterns back this up — the calmest stretch on weekdays is 9am–10am, right at opening, while weekends stay comparatively manageable pretty much all day (9am–7pm), aside from the 11am–6pm stretch, which is consistently the busiest window and worth avoiding if you can help it.
 
 ## How to visit like a local
 

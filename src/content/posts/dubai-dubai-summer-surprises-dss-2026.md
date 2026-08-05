@@ -31,10 +31,9 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## What DSS Actually Is
 
-Dubai Summer Surprises (DSS) isn't one event — it's an umbrella festival that blankets the city for nearly two months. Organized by the Dubai Festivals and Retail Establishment (DFRE), the same body behind the Dubai Shopping Festival, DSS 2026 runs from July 3 through August 30. Rather than a single gate you walk through, it's a season-long push of retail discounts, raffles, in-mall entertainment, and family-oriented programming spread across the emirate. If you're visiting Dubai in peak summer heat, DSS is the reason malls feel livelier and kids' activities multiply.
+Dubai Summer Surprises (DSS) isn't one event — it's an umbrella festival that blankets the city for nearly two months. DSS 2026 runs from July 3 through August 30. Rather than a single gate you walk through, it's a season-long push of retail discounts, raffles, in-mall entertainment, and family-oriented programming spread across the emirate. If you're visiting Dubai in peak summer heat, DSS is the reason malls feel livelier and kids' activities multiply.
 
 ## Why It Exists
 
@@ -55,4 +54,3 @@ The full window is July 3 to August 30, 2026, so there's flexibility in choosing
 ## How to visit like a local
 
 Dubai residents treat DSS less as a single spectacle and more as background noise to normal life — a reason to browse a mall they'd visit anyway. Locals typically pay by card or mobile wallet (Apple Pay and similar are widely accepted across malls), and cash isn't essential the way it might be at a street market. There's usually no single ticket or queue for "DSS" itself since it's a retail campaign, not a ticketed festival — any queues you'll encounter are for specific attractions like theme parks or raffles, and those are best pre-booked online rather than joining a walk-up line in the heat. The most common visitor mistake is expecting a defined festival ground or opening ceremony; DSS is diffuse by design, so arriving without a plan for which mall or attraction to target can lead to aimless wandering. Instead, pick two or three specific attractions or malls in advance, check their individual DSS promotions online, and treat the metro as your main connector between them. Etiquette-wise, standard UAE mall norms apply: modest dress is appreciated (though not strictly enforced in most malls), and Friday midday hours may see reduced activity due to prayer times. Above all, verify exact promotional dates, participating venues, and any prices directly through the official Visit Dubai or DSS website, since specifics shift year to year and weren't locked in at publication time.
-

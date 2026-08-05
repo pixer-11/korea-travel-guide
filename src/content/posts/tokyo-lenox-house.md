@@ -48,7 +48,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Why Lenox House stands out
 
 Tokyo has no shortage of Italian restaurants, but Lenox House earns its buzz through pedigree and restraint. It comes from the team behind The Great Burger, a long-running cult favorite in the city's burger scene, and that same instinct for doing one thing with real craft carries over here. Instead of chasing trends with fusion gimmicks, Lenox House leans into handmade pasta and regional Italian dishes, reworked with seasonal Japanese ingredients rather than imported substitutes. The result is a menu that feels distinctly Tokyo even while staying rooted in Italian technique — the kind of quiet confidence that tends to separate places built to last from places built for a single news cycle.
@@ -63,7 +62,7 @@ The restaurant is near Sangubashi Station, served by the Odakyu Odawara Line —
 
 ## What to expect inside and on the plate
 
-Expect a space that plays with contrast: worn-in, vintage furnishings and fixtures set against cleaner, more contemporary design touches — a look that echoes the "old meets new" identity of many Tokyo restaurants run by chefs with a design eye, rather than a themed or overly styled interior. On the food side, the focus is handmade pasta (worth ordering here specifically, since it's the kitchen's stated specialty) alongside other regional Italian dishes reinterpreted with what's in season locally. Because exact dishes rotate with seasonal ingredients and specific menu items and prices weren't published at the time of writing, treat any dish names you see online as a snapshot rather than a fixed menu — check current offerings directly with the restaurant or its latest social posts before you go.
+Expect a space that plays with contrast: worn-in, vintage furnishings and fixtures set against cleaner, more contemporary design touches — a look that echoes the "old meets new" identity of many Tokyo restaurants run by chefs with a design eye, rather than a themed or overly styled interior. On the food side, the focus is handmade pasta alongside other regional Italian dishes reinterpreted with what's in season locally. Because exact dishes rotate with seasonal ingredients and specific menu items and prices weren't published at the time of writing, treat any dish names you see online as a snapshot rather than a fixed menu — check current offerings directly with the restaurant or its latest social posts before you go.
 
 ## When to go
 

@@ -52,7 +52,6 @@ aiGenerated: true
 draft: false
 updatedDate: "2026-07-24"
 ---
-
 ## Why go
 
 Few structures pack as much symbolism into 18 meters as the Japanese Bridge (locally called Chùa Cầu, or "Pagoda Bridge"). Built by Hoi An's Japanese merchant community in the late 16th or early 17th century and rebuilt several times since, it's the only bridge in Vietnam with a Buddhist temple built directly into its structure. The curved tiled roof, weathered wood, and pairs of guardian statues (monkeys on one end, dogs on the other, believed to mark the years the bridge's construction began and ended in the Vietnamese zodiac) make it the most photographed spot in town — and it's even printed on the Vietnamese 20,000-dong note.
@@ -69,7 +68,7 @@ Entry to the bridge is included in Hoi An's Ancient Town heritage ticket, sold a
 
 ## When to go
 
-Early morning, right after the bridge opens at 9am, is the best window for photos without the crowd — Chùa Cầu is a mandatory stop for every tour group, so mid-morning through late afternoon gets packed. The other prime time is just after sunset, when the surrounding streets glow with silk lanterns and the bridge is lit from within (it stays open until 10pm); this is especially atmospheric during the Hoi An Lantern Festival, held on the 14th day of each lunar month, when motorbikes are banned and candles float on the canal below. Dry season (February to July) offers the most reliable weather, while the rainy season (October-November) occasionally brings flooding that can affect access to the old town entirely.
+Early morning is the best window for photos without the crowd — Chùa Cầu is a mandatory stop for every tour group, so mid-morning through late afternoon gets packed. The other prime time is just after sunset, when the surrounding streets glow with silk lanterns and the bridge is lit from within; this is especially atmospheric during the Hoi An Lantern Festival, held on the 14th day of each lunar month, when motorbikes are banned and candles float on the canal below. Dry season (February to July) offers the most reliable weather, while the rainy season (October-November) occasionally brings flooding that can affect access to the old town entirely.
 
 ## Nearby and tips
 

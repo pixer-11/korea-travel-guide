@@ -65,7 +65,6 @@ faq:
 aiGenerated: true
 updatedDate: '2026-07-24'
 ---
-
 ## Why Manly stands out in Fukuoka's café scene
 
 Fukuoka has no shortage of Instagram-ready pancake cafés, but Manly earns its 4.5-star rating (from nearly 1,500 reviews) by leaning fully into an Australian beach-town identity rather than the softer Japanese-Hawaiian style most local brunch spots chase. The name nods to Sydney's Manly Beach, and the menu backs it up with meat pies, hearty eggs, and stacked hotcakes rather than the ultra-light souffle pancakes Fukuoka is otherwise famous for. The rustic, timber-heavy interior and handful of outdoor tables give it a laid-back, sun-washed feel that's distinct from the sleek minimalism of most Tenjin cafés — it's a good pick if you want brunch that feels like a destination rather than a quick stop.
@@ -80,7 +79,7 @@ The signature dish is the ricotta hotcake stack — thick, custardy pancakes ser
 
 ## When to go
 
-Weekday mornings right at opening (11am) through noon tend to be calmer, letting you claim one of the limited outdoor tables — a nice option in spring and autumn when Fukuoka's weather is mild enough to eat al fresco. Weekend brunch hours, especially Saturday late morning through early afternoon, draw the biggest crowds given the café's popularity and strong review count, so arriving right at opening or after 2pm is the better bet if you want to avoid a wait. Summer in Fukuoka gets hot and humid, so the shaded indoor tables are more comfortable then; winter days are mild enough that the outdoor seating still works with a jacket. As with most independent cafés, always check current opening hours before heading over, since these can change seasonally.
+Weekday mornings tend to be calmer, letting you claim one of the limited outdoor tables — a nice option in spring and autumn when Fukuoka's weather is mild enough to eat al fresco. Weekend brunch hours, especially Saturday late morning through early afternoon, draw the biggest crowds given the café's popularity and strong review count, so arriving right at opening or after 2pm is the better bet if you want to avoid a wait. Summer in Fukuoka gets hot and humid, so the shaded indoor tables are more comfortable then; winter days are mild enough that the outdoor seating still works with a jacket. As with most independent cafés, always check current opening hours before heading over, since these can change seasonally.
 
 ## Nearby & tips
 

@@ -58,7 +58,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Why go
 
 teamLab Planets TOKYO DMM isn't a museum you view from a distance — you walk through it, often ankle-deep in water, surrounded by projected light, mirrors, and fog. Rated 4.5 stars across more than 54,000 reviews, it's become one of Tokyo's defining "trendy" attractions, less a gallery of static works than an immersive, slightly disorienting sensory experience built around themes of nature, impermanence, and the blurred boundary between body and artwork. It's the kind of place that photographs spectacularly but is genuinely more affecting in person — the koi-and-flower projection room and the mirrored infinity spaces have a scale and softness that don't fully translate to a phone screen.
@@ -77,4 +76,4 @@ Tickets are date- and time-slot specific and routinely sell out days or even wee
 
 ## Nearby & tips
 
-Pair the visit with Toyosu Market, a short taxi or bus ride away, for an early sushi breakfast before your museum slot — many visitors do market first, museum mid-morning. Bring a small towel or use the ones sometimes provided near the water exit areas to dry your feet before re-socking. Leave extra time for the gift shop, which stocks limited-edition prints and light-based merchandise unique to the DMM location. Note that this is a genuinely popular attraction rather than a hidden gem — go in expecting other visitors in every frame, and aim to enjoy the shared, communal nature of moving through the water rooms rather than fighting for an empty shot.
+Pair the visit with Toyosu Market, a short taxi or bus ride away, for an early sushi breakfast before your museum slot — many visitors do market first, museum mid-morning. Bring a small towel or use the ones sometimes provided near the water exit areas to dry your feet before re-socking. Leave extra time for the gift shop on your way out. Note that this is a genuinely popular attraction rather than a hidden gem — go in expecting other visitors in every frame, and aim to enjoy the shared, communal nature of moving through the water rooms rather than fighting for an empty shot.

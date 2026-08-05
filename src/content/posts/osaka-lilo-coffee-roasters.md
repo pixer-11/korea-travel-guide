@@ -59,14 +59,13 @@ faq:
     a: Amerikamura's shops are a short walk northwest, and the Shinsaibashi-suji arcade and Dotonbori canal area are about 10–15 minutes away on foot.
 aiGenerated: true
 ---
-
 ## Why go
 
 LiLo Coffee Roasters has been quietly roasting its own beans in this corner of Nishishinsaibashi since 2014, long before "third wave" coffee became a buzzword in Osaka. What sets it apart from the countless café options in the area is consistency: a 4.8-star rating across more than 2,400 reviews is rare for any food or drink spot, let alone a small independent roaster competing with chains just blocks away. This is a destination for people who care about how their coffee is sourced and brewed, not just a place to sit down — though there is seating, and free Wi-Fi if you want to linger with a laptop.
 
 ## Getting there
 
-The address is 1-chōme-10-28, Nishishinsaibashi, Chuo Ward, Osaka, on the ground floor ("1階") of its building. The easiest approach is on foot from **Shinsaibashi Station** (Midosuji Line, M19), which is roughly a 7–8 minute walk; alternatively, **Yotsubashi Station** (Yotsubashi Line, Y14) is about 5–7 minutes away and slightly closer to the western edge of Nishishinsaibashi. Both stations put you within Osaka's central Minami shopping district, so it's easy to fold a coffee stop into a day of browsing Amerikamura or Shinsaibashi-suji arcade — LiLo sits in the quieter residential-commercial pocket just off the main retail strips, so use a map app for the final couple of turns since it's not directly on a major thoroughfare.
+The address is 1-chōme-10-28, Nishishinsaibashi, Chuo Ward, Osaka, on the ground floor of its building. The easiest approach is on foot from **Shinsaibashi Station** (Midosuji Line, M19), which is roughly a 7–8 minute walk; alternatively, **Yotsubashi Station** (Yotsubashi Line, Y14) is about 5–7 minutes away and slightly closer to the western edge of Nishishinsaibashi. Both stations put you within Osaka's central Minami shopping district, so it's easy to fold a coffee stop into a day of browsing Amerikamura or Shinsaibashi-suji arcade — LiLo sits in the quieter residential-commercial pocket just off the main retail strips, so use a map app for the final couple of turns since it's not directly on a major thoroughfare.
 
 ## What to see and drink
 

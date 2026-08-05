@@ -52,7 +52,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -69,7 +68,7 @@ Sormiou is the most accessible cove, wide enough for a small fishing hamlet of r
 
 ## When to go
 
-Late spring (May-June) and September are the sweet spot — warm enough to swim, cooler underfoot than midsummer, and before the peak crowds. July and August bring intense heat, and the park often restricts access to certain trailheads (Sugiton, Sormiou, Marseilleveyre) between 10am and 6pm on high-fire-risk days, with free permits required in advance — check the park's official site before you go, since rules shift year to year. Winter and early spring bring rough seas that can cancel boat trips but also empty out the trails almost entirely.
+Late spring (May-June) and September are the sweet spot — warm enough to swim, cooler underfoot than midsummer, and before the peak crowds. July and August bring intense heat, and the park often restricts access to certain trailheads (Sugiton, Sormiou, Marseilleveyre) on high-fire-risk days, with free permits required in advance — check the park's official site before you go, since rules shift year to year. Winter and early spring bring rough seas that can cancel boat trips but also empty out the trails almost entirely.
 
 ## How to visit like a local
 

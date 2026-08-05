@@ -62,7 +62,6 @@ faq:
     a: Yes — it's within easy reach of the central beach strip, Nha Trang Center, and Louisiane Brewhouse, and sits in a residential pocket worth exploring on foot for local eateries away from the main tourist road.
 aiGenerated: true
 ---
-
 ## Why go
 
 Nha Trang's coffee scene is dominated by glossy, air-conditioned chains along the beach road, which is exactly what makes Nha He Coffee Shop stand out. Set down a residential alley off Nguyễn Thiện Thuật, it's the kind of hideaway locals text each other about rather than something you'd stumble into by accident. The 4.8-star rating from over 1,250 reviewers is unusually high for any café, let alone one this size, and it points to a consistent, well-run spot rather than a one-off Instagram fad. Expect a garden-courtyard layout with greenery, low stools, and a homey, unhurried atmosphere that feels more like sitting in someone's backyard than a commercial café — a welcome contrast if you've spent the morning dodging tour buses at the beach.
@@ -73,7 +72,7 @@ The address is 120/8 Nguyễn Thiện Thuật, Nha Trang, Khánh Hòa — the "1
 
 ## What to try
 
-Vietnamese coffee culture leans heavily on condensed milk, robusta beans, and inventive twists, and this is the place to sample the trendier versions without tourist markup. Look for cà phê trứng (egg coffee), a custardy, meringue-topped specialty that originated in Hanoi but has spread nationwide, and cà phê dừa (coconut coffee), a blended iced drink popular in the central coast region. Traditional cà phê sữa đá (iced milk coffee) is the reliable baseline if you want to taste the beans without embellishment. Given the price level sits in the modest "2" range on standard scales, drinks are affordable enough to order two rounds and linger — which is really the point of a visit here rather than a quick grab-and-go stop.
+Vietnamese coffee culture leans heavily on condensed milk, robusta beans, and inventive twists, and this is the place to sample the trendier versions without tourist markup. Look for cà phê trứng (egg coffee), a custardy, meringue-topped specialty that originated in Hanoi but has spread nationwide, and cà phê dừa (coconut coffee), a blended iced drink popular in the central coast region. Traditional cà phê sữa đá (iced milk coffee) is the reliable baseline if you want to taste the beans without embellishment. Prices are affordable enough to order two rounds and linger — which is really the point of a visit here rather than a quick grab-and-go stop.
 
 ## When to go
 

@@ -71,7 +71,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You enter through a stone gate carved with a relief of Santiago Matamoros — St. James the Moor-slayer astride his horse — and the noise of Intramuros' traffic drops away almost immediately. Thick walls of adobe stone, blackened in patches by centuries of tropical rain, rise up on either side. This is Fort Santiago, the citadel the Spanish built in 1571 at the mouth of the Pasig River, and it still carries the weight of everything that happened inside it: colonial rule, Japanese occupation, and the final days of the man Filipinos consider their national hero.
@@ -90,7 +89,7 @@ Past the gate, the path opens onto wide lawns and the fort's outer bulwarks, whe
 
 ## When to go
 
-Fort Santiago is open every day from 8am to 11pm, which makes it one of the few Intramuros sites you can visit well into the evening, when the walls are lit and the crowds thin dramatically. That said, the fort is genuinely one of Manila's most-visited landmarks, so timing matters. On weekdays, the calmest window is 8–11am, right after opening. On weekends, get there between 8 and 10am if you want the lawns and shrine to yourself — after 3pm on Saturdays and Sundays is when things get busiest, with tour groups and families arriving in waves that can last until closing.
+Fort Santiago is open daily, which makes it one of the few Intramuros sites you can visit well into the evening, when the walls are lit and the crowds thin dramatically. That said, the fort is genuinely one of Manila's most-visited landmarks, so timing matters. On weekdays, the calmest window is 8–11am, right after opening. On weekends, get there between 8 and 10am if you want the lawns and shrine to yourself — after 3pm on Saturdays and Sundays is when things get busiest, with tour groups and families arriving in waves that can last until closing.
 
 ## How to visit like a local
 

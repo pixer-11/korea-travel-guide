@@ -59,7 +59,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -76,7 +75,7 @@ Push through the west portal and the light changes instantly, filtered blue and 
 
 ## When to go
 
-The cathedral keeps a split schedule every day: mornings from 8:30 to 11:15am, then again from 12:45 to 5:45pm, with Sunday hours starting later at 2pm and running to 5:15pm — useful to know since Mass and services can restrict access at other times. Measured foot-traffic shows the calmest window is 8:30am to 10am on weekdays and Saturdays, right as the doors open, while Sunday's later 2pm start means the same quiet-window trick simply moves to arriving right at 2; crowds otherwise build steadily through the day and peak in the afternoon. Given how well-visited this place is year-round, that early slot isn't a nice-to-have, it's the difference between having the nave largely to yourself and shuffling shoulder-to-shoulder with tour groups under the rose window.
+The cathedral keeps a split schedule every day, closing over the middle of the day and opening later on Sundays — useful to know since Mass and services can restrict access at other times. Measured foot-traffic shows the calmest window is 8:30am to 10am on weekdays and Saturdays, right as the doors open, while Sunday's later 2pm start means the same quiet-window trick simply moves to arriving right at 2; crowds otherwise build steadily through the day and peak in the afternoon. Given how well-visited this place is year-round, that early slot isn't a nice-to-have, it's the difference between having the nave largely to yourself and shuffling shoulder-to-shoulder with tour groups under the rose window.
 
 ## How to visit like a local
 

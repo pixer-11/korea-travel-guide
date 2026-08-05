@@ -28,10 +28,9 @@ faq:
 aiGenerated: true
 draft: true
 ---
-
 ## Why go
 
-Seoul's fine-dining scene has exploded over the past decade, but every so often a single opening resets the conversation. Restaurant San is that opening for 2024. Chef Jo Seung-Hyun built a reputation working through Korea's contemporary kitchen circuit before striking out with a concept that reframes Korean ingredients and techniques through a modern, technique-driven lens — the kind of cooking that earns industry attention fast. That attention arrived in the form of the "One To Watch" award at Asia's 50 Best Restaurants 2026, a shortlist that critics and chefs across the region actually read. In a city with no shortage of ambitious tasting-menu rooms, that's a signal worth paying attention to.
+Seoul's fine-dining scene has exploded over the past decade, but every so often a single opening resets the conversation. Restaurant San is that opening for 2024. Chef Jo Seung-Hyun built a reputation working through Korea's contemporary kitchen circuit before striking out with a concept that reframes Korean ingredients and techniques through a modern, technique-driven lens — the kind of cooking that earns industry attention fast. That attention arrived in the form of the "One To Watch" award at Asia's 50 Best Restaurants, a shortlist that critics and chefs across the region actually read. In a city with no shortage of ambitious tasting-menu rooms, that's a signal worth paying attention to.
 
 You come here for a considered, multi-course expression of Korean cuisine rather than a quick bite or a casual night out. Expect the pacing and presentation of contemporary fine dining — small plates arriving with intent, ingredients sourced and explained, a kitchen visibly working toward a narrative across the meal rather than just filling a plate.
 

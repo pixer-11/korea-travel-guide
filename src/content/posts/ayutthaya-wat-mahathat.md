@@ -84,7 +84,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-07-24'
 ---
-
 ## Why go
 
 Wat Mahathat isn't just another crumbling temple in a city full of them — it was one of the most important religious sites in the Ayutthaya Kingdom, believed to have been founded in the late 14th century under King Borommarachathirat I or King Ramesuan, and once housed a relic of the Buddha in its central prang. What draws over 25,000 reviewers and a steady stream of day-trippers today, though, is a single, almost accidental image: a sandstone Buddha head, entwined and lifted by the roots of a bodhi tree, believed to have fallen from its body when the temple was sacked by Burmese forces in 1767 and left there as the tree grew around it over the following century. It's become an unofficial symbol of Ayutthaya itself.
@@ -111,4 +110,4 @@ Ayutthaya's cool season (November–February) brings the most comfortable temper
 - Because the Buddha head is treated as sacred, standing over it for a photo is considered disrespectful — crouch down to its level, and be patient, as there's often a short queue for photos.
 - Combine the visit with the nearby Ayutthaya Historical Study Centre for context on the kingdom before the ruins, or Wat Phra Si Sanphet for the three iconic Ceylonese-style chedis a few minutes away.
 - Entry typically requires a small admission fee (often bundled with other historical park sites); confirm current pricing and hours locally, as these are periodically adjusted.
-- Street vendors near the entrance sell cold coconut water and iced Thai tea — useful given the lack of shade inside.
+- Bring your own water, as there's little shade inside the grounds.

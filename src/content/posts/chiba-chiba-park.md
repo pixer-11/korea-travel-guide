@@ -48,7 +48,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -61,7 +60,7 @@ The park sits at 3 Chome-1-1 Benten, in Chuo Ward, right in the heart of Chiba C
 
 ## What to see and do
 
-The centerpiece is the large pond, where in warmer months you can rent a rowboat or a swan-shaped pedal boat and drift past the lotus leaves — a simple, unhurried way to spend twenty or thirty minutes. Ringing the water are cherry trees that draw hanami crowds with picnic blankets and convenience-store bento in late March and early April; come at a different time of year and the same spot is just a quiet stretch of grass. The park also has sports facilities, including tennis courts and a gymnasion-style athletic area, so you'll see as many people in workout clothes as tourists with cameras. Chiba Shrine sits just outside the park's grounds, an easy detour if you want a quick stop at a working Shinto shrine before or after your walk. The park connects informally to the Chiba Zoological Park area, so if you're traveling with kids, pairing the two makes for a fuller day.
+The centerpiece is the large pond, where in warmer months you can rent a rowboat or a swan-shaped pedal boat and drift past the lotus leaves — a simple, unhurried way to spend twenty or thirty minutes. Ringing the water are cherry trees that draw hanami crowds with picnic blankets and convenience-store bento in late March and early April; come at a different time of year and the same spot is just a quiet stretch of grass. The park also has sports facilities, including tennis courts and an athletic field, so you'll see as many people in workout clothes as tourists with cameras. Chiba Shrine sits just outside the park's grounds, an easy detour if you want a quick stop at a working Shinto shrine before or after your walk. The park connects informally to the Chiba Zoological Park area, so if you're traveling with kids, pairing the two makes for a fuller day.
 
 ## When to go
 

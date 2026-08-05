@@ -66,7 +66,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -87,5 +86,4 @@ Shennong Street draws a steady crowd rather than a quiet one — it's a well-est
 
 ## How to visit like a local
 
-Treat Shennong Street as a slow walk, not a checklist stop — the architecture rewards looking rather than rushing. If you're here on a weekend, go early; the street holds steady foot traffic from 9am to 11pm on Saturdays and Sundays, so a first-thing visit before the tour buses arrive is your best shot at unobstructed photos of the facades. Cash still works well in the smaller, older shops even as mobile payment (LINE Pay, EasyCard-linked apps) spreads through Tainan's newer businesses, so carry some small bills. Keep your voice down passing the altars and private residences mixed in among the shops — people still live and worship here, this isn't a museum set. The most common visitor mistake is treating the street as a five-minute photo stop and missing the side lanes toward the old canal path and the junction with Zhengxing Street, where the texture of the neighborhood — snack vendors, small breweries, incense makers — actually opens up. Pair it with the nearby Confucius Temple or Hayashi Department Store to make a fuller half-day of Tainan's West Central District.
-
+Treat Shennong Street as a slow walk, not a checklist stop — the architecture rewards looking rather than rushing. If you're here on a weekend, go early; the street tends to get busier as the day goes on, so a first-thing visit before the tour buses arrive is your best shot at unobstructed photos of the facades. Cash still works well in the smaller, older shops even as mobile payment (LINE Pay, EasyCard-linked apps) spreads through Tainan's newer businesses, so carry some small bills. Keep your voice down passing the altars and private residences mixed in among the shops — people still live and worship here, this isn't a museum set. The most common visitor mistake is treating the street as a five-minute photo stop and missing the side lanes toward the old canal path and the junction with Zhengxing Street, where the texture of the neighborhood — snack vendors, small breweries, incense makers — actually opens up. Pair it with the nearby Confucius Temple or Hayashi Department Store to make a fuller half-day of Tainan's West Central District.

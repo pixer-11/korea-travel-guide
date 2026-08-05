@@ -63,7 +63,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-07-24'
 ---
-
 ## Why go
 
 Topkapi Palace was the administrative and residential heart of the Ottoman Empire from the 1460s, when Mehmed II began building it, until the mid-19th century, when sultans decamped to the newer Dolmabahçe Palace on the Bosphorus. What remains is less a single building than a walled complex of courtyards, kiosks, and pavilions overlooking the confluence of the Golden Horn, the Bosphorus, and the Sea of Marmara. Its rating (4.6 from well over 100,000 reviews) reflects both the scale of the site and the density of what's inside: the Imperial Treasury with the Topkapi Dagger and the 86-carat Spoonmaker's Diamond, relics attributed to the Prophet Muhammad in the Sacred Relics room, and the Harem, where the sultan's family and household actually lived.
@@ -78,7 +77,7 @@ The palace unfolds through four courtyards. The First Courtyard (free to enter) 
 
 ## When to go
 
-Istanbul's high season (May–September) brings serious crowds, especially between 10am and 2pm. The palace is closed on Tuesdays. Winter mornings, right at opening, are the calmest window overall. Whatever the season, the Treasury and Harem form separate bottlenecks — visiting one at opening and saving the other for an hour before closing helps spread out the wait.
+Istanbul's high season (May–September) brings serious crowds, especially between 10am and 2pm. Check opening days before you go, since museum sites in Istanbul often close one day a week. Winter mornings, right at opening, are the calmest window overall. Whatever the season, the Treasury and Harem form separate bottlenecks — visiting one at opening and saving the other for an hour before closing helps spread out the wait.
 
 ## How to visit like a local
 

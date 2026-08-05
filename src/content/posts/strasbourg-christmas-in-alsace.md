@@ -41,7 +41,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Why Strasbourg at Christmas
 
 Strasbourg calls itself the "Capitale de Noël" (Capital of Christmas), and it has the paper trail to prove it — the market traces back to 1570, making it one of the oldest Christmas markets in Europe. The half-timbered houses of the Petite France district, the pink sandstone bulk of Strasbourg Cathedral, and canals threading through the old town give the decorations a backdrop that feels genuinely medieval rather than manufactured. Unlike a single-square market, Strasbourg spreads roughly a dozen themed markets across the city center, so the whole historic core becomes one continuous, walkable event.
@@ -54,7 +53,7 @@ Strasbourg is on the France-Germany border, about 1h50 by direct TGV from Paris 
 
 Place de la Cathédrale is the emotional center, with market chalets clustered directly beneath Strasbourg Cathedral's Gothic façade — the astronomical clock inside is worth the modest entry fee if you have 30 minutes to spare. Place Kléber hosts the "Grand Sapin," a Christmas tree that's often 25-30 meters tall and decorated with thousands of lights, usually with a small stage and activity zone for kids underneath. Place Broglie leans toward gourmet and gift stalls, while Place du Château sits in the cathedral's shadow with crafts and children's rides. For something quieter, cross into Petite France, where the canal-side houses are individually lit and reflected in the water — it's less crowded than the central squares, especially after dark on a weeknight.
 
-If you're visiting outside the market weeks (roughly late November through December 31), the shop **Christmas in Alsace** at 10 Rue des Dentelles keeps the spirit alive year-round. It's a dedicated Christmas boutique a few minutes' walk from the cathedral, selling Alsatian-style ornaments, nutcrackers, nativity figures, and regional decorations — reviewers rate it highly (4.4 stars from 538 reviews), and it's a reliable stop if you want a tangible souvenir of Alsatian Christmas craft without needing to time your trip to the market's exact dates.
+If you're visiting outside the market weeks (roughly late November through December 31), the shop *Christmas in Alsace* at 10 Rue des Dentelles keeps the spirit alive year-round. It's a dedicated Christmas boutique a few minutes' walk from the cathedral, selling Alsatian-style ornaments, nutcrackers, nativity figures, and regional decorations — reviewers rate it highly (4.4 stars from 538 reviews), and it's a reliable stop if you want a tangible souvenir of Alsatian Christmas craft without needing to time your trip to the market's exact dates.
 
 ## Eating and drinking your way through
 

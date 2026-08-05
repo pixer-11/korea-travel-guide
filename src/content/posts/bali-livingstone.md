@@ -70,7 +70,6 @@ aiGenerated: true
 updatedDate: '2026-07-24'
 draft: true
 ---
-
 ## Why Livingstone Is on Every Petitenget Itinerary
 
 Livingstone sits on Jalan Petitenget, the strip of Kerobokan that bridges Seminyak's polish and Canggu's rice-field cool. It's built around a jungly, multi-level layout — think oversized rattan chairs, hanging greenery, a pool-adjacent lounge area, and enough Instagram-ready corners that it's become a fixture of Bali's "trendy café" circuit rather than a quiet neighborhood find. With a 4.8 rating across more than 14,000 reviews, it's firmly in very-popular territory, and the crowds reflect that: this is a place to enjoy for the design, the all-day menu, and the people-watching, not for solitude.
@@ -81,7 +80,7 @@ Livingstone is at Jl. Petitenget No.88X, Kerobokan Kelod, in Kuta Utara district
 
 ## What to See and Eat
 
-Livingstone functions as café, restaurant, and lounge in one footprint, with a menu that spans all-day breakfast bowls, wood-fired pizzas, Asian-fusion plates, and an extensive cocktail and mocktail list. It's the kind of place where a smoothie bowl and a Negroni-style cocktail can plausibly appear on the same table. At a price level of 2 (moderate for Bali's café scene), expect mains in the mid-range bracket and drinks priced accordingly — confirm current menu prices on-site, as these shift seasonally.
+Livingstone functions as café, restaurant, and lounge in one footprint, with a menu that spans all-day breakfast bowls, wood-fired pizzas, Asian-fusion plates, and an extensive cocktail and mocktail list. It's the kind of place where a smoothie bowl and a Negroni-style cocktail can plausibly appear on the same table. Prices sit in the moderate range for Bali's café scene, with mains in the mid-range bracket and drinks priced accordingly — confirm current menu prices on-site, as these shift seasonally.
 
 Beyond the food, the draw is the space itself: multiple seating zones (sunken lounge seating, open-air garden tables, a bar area) mean the vibe changes depending on where you land, from laid-back daytime brunch energy to a livelier bar scene after dark. The surrounding Petitenget strip also holds boutique shops and other well-known cafés, making it easy to combine a visit here with a longer walk down the street.
 
@@ -91,7 +90,7 @@ Mornings (roughly 8–10am) and early afternoons on weekdays are the calmest win
 
 ## How to Visit Like a Local
 
-Livingstone's scale and reputation mean it draws a steady mix of tourists and long-term Bali residents rather than being a local secret — so the smart move isn't finding a quiet version of it, it's timing your visit to dodge the crush. Arrive right at opening or aim for a 3–5pm lull between lunch and dinner services. For dinner or weekend visits, reserve a table in advance rather than walking in; large group without a booking is the most common reason visitors end up waiting. Payment is straightforward — cards are widely accepted alongside cash, and a service charge is often already built into the bill, so check before adding an extra tip on top (a small rounding-up is appreciated but not obligatory beyond that). Dress code is relaxed resort-casual — Bali café culture doesn't require dressing up, though many visitors do treat it as a photo stop, so expect phones and tripods around the more photogenic seating areas. If you're mainly there for photos rather than a full meal, visiting during the slower afternoon window lets you actually use the space without rushing past other guests waiting for your seat.
+Livingstone's scale and reputation mean it draws a steady mix of tourists and long-term Bali residents rather than being a local secret — so the smart move isn't finding a quiet version of it, it's timing your visit to dodge the crush. Arrive right at opening or aim for a 3–5pm lull between lunch and dinner services. For dinner or weekend visits, reserve a table in advance rather than walking in; walking in without a booking, especially as part of a large group, is the most common reason visitors end up waiting. Payment is straightforward — cards are widely accepted alongside cash, and a service charge is often already built into the bill, so check before adding an extra tip on top (a small rounding-up is appreciated but not obligatory beyond that). Dress code is relaxed resort-casual — Bali café culture doesn't require dressing up, though many visitors do treat it as a photo stop, so expect phones and tripods around the more photogenic seating areas. If you're mainly there for photos rather than a full meal, visiting during the slower afternoon window lets you actually use the space without rushing past other guests waiting for your seat.
 
 ## Nearby to Pair With Your Visit
 

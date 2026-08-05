@@ -52,7 +52,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -69,7 +68,7 @@ The center is arranged as a shaded, forest-like walking trail rather than a pave
 
 ## When to go
 
-The center is open daily from 8:00 AM to 4:30 PM, with no closing day, so there's flexibility in planning around it. Mornings are the better window — the eagles tend to be more active and vocal before the midday heat settles in, and the forest canopy keeps things shaded but still humid. Weekdays are noticeably calmer than weekends, when local families and school groups tend to visit in larger numbers. If you're coming from downtown, aim to arrive shortly after opening; you'll beat both the heat and the bulk of the day's visitors.
+The center is open daily, so there's flexibility in planning around it. Mornings are the better window — the eagles tend to be more active and vocal before the midday heat settles in, and the forest canopy keeps things shaded but still humid. Weekdays are noticeably calmer than weekends, when local families and school groups tend to visit in larger numbers. If you're coming from downtown, aim to arrive shortly after opening; you'll beat both the heat and the bulk of the day's visitors.
 
 ## How to visit like a local
 

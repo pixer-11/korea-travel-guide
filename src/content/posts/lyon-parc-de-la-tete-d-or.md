@@ -62,7 +62,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -79,9 +78,8 @@ Start at the lake, the park's centrepiece, where you can rent a rowboat in the w
 
 ## When to go
 
-The park opens at 6:30am and closes at 10:30pm every day of the week, so early mornings and evenings both work well if you want the paths closer to empty. Measured foot-traffic data shows both weekdays and weekends stay calm from 7am through into the evening — but weekend afternoons are a different story: crowds build steadily and peak between 1pm and 8pm, when the lawns by the lake fill with picnicking families and the paths around the zoo get genuinely congested. If you can, visit on a weekday morning or aim for a weekend arrival before noon. Spring brings the rose garden into bloom, autumn turns the plane trees gold, and even in winter the park stays open and walkable, just quieter and starker.
+The park keeps early-morning-to-evening hours daily, so early mornings and evenings both work well if you want the paths closer to empty. Measured foot-traffic data shows both weekdays and weekends stay calm from 7am through into the evening — but weekend afternoons are a different story: crowds build steadily and peak between 1pm and 8pm, when the lawns by the lake fill with picnicking families and the paths around the zoo get genuinely congested. If you can, visit on a weekday morning or aim for a weekend arrival before noon. Spring brings the rose garden into bloom, autumn turns the plane trees gold, and even in winter the park stays open and walkable, just quieter and starker.
 
 ## How to visit like a local
 
 This is one of the most-visited green spaces in Lyon, not a quiet corner, so the smart move is timing rather than secrecy. Come early — 7am to 10am has the lake, the rose beds, and the joggers' paths largely to yourself, even on weekends. Entry to the park and zoo is free, and there's no ticket booth or turnstile to plan around, so there's nothing to book in advance. Bring your own coffee or pick one up beforehand, since inside the park you'll find only a couple of small kiosks rather than a café strip. Cyclists and runners use the outer loop path, so if you're walking with kids or a pushchair, stick to the inner paths near the lake to avoid weaving traffic. The mistake most first-timers make is treating the park as a quick 20-minute stop between the Presqu'île and Part-Dieu — in reality the rose garden alone deserves a slow half hour, and rushing means missing the zoo entirely. Locals treat it as a place to loop rather than transit: pick an entrance, walk the lake, detour into the rose garden, and exit wherever feels right rather than aiming for a fixed route.
-

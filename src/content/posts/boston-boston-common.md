@@ -53,7 +53,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You come up out of the Park Street T stop and the city just opens up — traffic noise falls away behind you, and suddenly there's a wide expanse of lawn, gravel paths, and old trees where a parking lot or office tower would be almost anywhere else in America. That's the first thing that hits you about Boston Common: it's been here since 1634, older than the country itself, and it still functions as the front yard for an entire city rather than a museum piece behind glass.
@@ -64,7 +63,7 @@ This isn't a manicured showpiece garden — it's a working, well-worn public gre
 
 ## Getting there
 
-The park sits right in the middle of downtown Boston, bounded by Tremont, Park, Beacon, Charles, and Boylston Streets. The easiest access is the Park Street MRA station (Red and Green Lines) — walk out and you're standing at the park's edge within seconds. Boylston Street station (Green Line) drops you at the southwest corner, near the Central Burying Ground. If you're walking from Beacon Hill or the Financial District, it's a flat, five-to-ten-minute stroll either way. Because it's downtown, street parking is scarce and expensive; the Boston Common Garage underneath the park itself is the most convenient option if you're driving.
+The park sits right in the middle of downtown Boston, bounded by Tremont, Park, Beacon, Charles, and Boylston Streets. The easiest access is Park Street station (Red and Green Lines) — walk out and you're standing at the park's edge within seconds. Boylston Street station (Green Line) drops you at the southwest corner, near the Central Burying Ground. If you're walking from Beacon Hill or the Financial District, it's a flat, five-to-ten-minute stroll either way. Because it's downtown, street parking is scarce and expensive; the Boston Common Garage underneath the park itself is the most convenient option if you're driving.
 
 ## What to see and do
 

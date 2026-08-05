@@ -52,7 +52,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You feel Golconda before you see all of it. From the ticket gate near the Fateh Darwaza, the "Victory Gate," the path angles up through a scatter of studded iron doors designed to stop war elephants, and the granite underfoot is already worn smooth by six centuries of footsteps. Stand under the dome just inside the gate and clap once — the sound is engineered to ricochet up through the structure to the Bala Hissar pavilion nearly a kilometre away and 130 metres higher, the fort's original early-warning system for approaching danger or a royal arrival. Guides still demonstrate it constantly, and it never stops sounding slightly impossible.
@@ -71,9 +70,8 @@ Beyond the acoustic dome, make time for the Rani Mahal (queen's palace), the rui
 
 ## When to go
 
-The fort opens at 9am and closes at 5pm every day of the week, so plan your visit to wrap up well before closing — the climb down in fading light is not something you want to rush. Early morning is markedly cooler, which matters because there's little shade on the exposed granite paths, especially between March and June. Evenings bring a sound-and-light show recounting the fort's history, staged after dark and worth checking locally for the current schedule and language slot before you go.
+The fort keeps standard daytime visiting hours, so plan your visit to wrap up well before closing — the climb down in fading light is not something you want to rush. Early morning is markedly cooler, which matters because there's little shade on the exposed granite paths, especially between March and June. Evenings bring a sound-and-light show recounting the fort's history, staged after dark and worth checking locally for the current schedule and language slot before you go.
 
 ## How to visit like a local
 
 Given how heavily visited Golconda is, the single best move is timing: arrive right at 9am, before tour buses and midday heat converge, since this is consistently one of Hyderabad's most-visited monuments and the narrow gateways and staircases bottleneck fast. Buy your entry ticket at the counter near Fateh Darwaza — cash and card are generally both accepted, but carrying small cash notes smooths things along if a counter's card machine is down. Hiring one of the licensed guides stationed near the entrance is genuinely useful here, since the fort's engineering (drainage, acoustics, ventilation shafts) isn't self-explanatory from ruins alone, and a short negotiation over the fee upfront avoids confusion later. Wear closed, grippy shoes — sandals on worn granite ramps are the most common regret visitors mention. And don't stop at the first bastion or two: the real reward is the top, so pace yourself with water and shade breaks rather than turning back early.
-

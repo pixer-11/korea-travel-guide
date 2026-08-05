@@ -62,7 +62,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 You arrive expecting a garden and instead get a small jungle. La Concepción sits in a bend of the Guadalmedina river valley, just north of central Málaga, and the change in air as you step through the gate is immediate — cooler, damper, thick with the green smell of leaf litter and running water. Founded in 1855 by a local aristocratic couple obsessed with exotic botany, it's one of the oldest subtropical gardens in Europe, and the age shows in the scale of things: ficus trees with root systems like cathedral buttresses, a bamboo corridor that swallows the light overhead, and palms brought back from five continents by ships that took months to arrive.
 
 ## Why it's worth the detour
@@ -79,7 +78,7 @@ Give yourself at least two hours, ideally closer to three. The paths are laid ou
 
 ## When to go
 
-Málaga's midsummer heat (June through September) turns the lower paths humid and the open miradors brutal by early afternoon, so spring and autumn mornings are the more comfortable window. In terms of crowd patterns, weekdays are consistently calmer than weekends, and if you're flexible on timing, the garden is quietest between 7pm and 8:30pm on weekdays — though you'll need to confirm current closing hours before counting on being there that late, since the garden doesn't run late-night hours year-round. Weekends, by contrast, stay busy from midday through 8pm, so if you're set on visiting Saturday or Sunday, arrive right at opening instead.
+Málaga's midsummer heat (June through September) turns the lower paths humid and the open miradors brutal by early afternoon, so spring and autumn mornings are the more comfortable window. In terms of crowd patterns, weekdays are consistently calmer than weekends, and if you're flexible on timing, aiming for the early morning or later in the afternoon tends to be quieter — though you'll need to confirm current opening and closing hours before planning around it, since hours can shift seasonally. Weekends tend to draw larger crowds throughout the day, so if you're set on visiting Saturday or Sunday, arrive right at opening instead.
 
 ## How to visit like a local
 

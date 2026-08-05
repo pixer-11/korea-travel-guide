@@ -31,8 +31,7 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
-You come up out of the escalators at Taipei Arena on a September evening and the crowd tells you everything before you even see the building. Lightsticks bob in clusters near the entrance, fan-made banners get unfurled and photographed, and the low hum of pre-show excitement rolls across the plaza in waves. This is what a IVE arena night looks like, and for three nights running in 2026 — September 11, 12, and 13 — that energy belongs to Taipei.
+You come up out of the escalators at Taipei Arena on a September evening and the crowd tells you everything before you even see the building. Lightsticks bob in clusters near the entrance, fan-made banners get unfurled and photographed, and the low hum of pre-show excitement rolls across the plaza in waves. This is what an IVE arena night looks like, and for three nights running in 2026 — September 11, 12, and 13 — that energy belongs to Taipei.
 
 ## Why this stop matters
 
@@ -57,4 +56,3 @@ Taiwanese concertgoers overwhelmingly buy tickets through official local ticketi
 ## Before you book
 
 None of the ticketing specifics, exact doors times, or full setlist have been locked in publicly beyond the confirmed September 11–13, 2026 dates at Taipei Arena. Confirm venue details, on-sale dates, and pricing directly through IVE's official tour announcements and authorized ticketing partners before making travel arrangements — and double-check whether all three nights have separate on-sales, since multi-night runs sometimes stagger ticket releases by date.
-

@@ -43,7 +43,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Why go
 
 Seoraksan National Park is Korea's most dramatic mountain range, all jagged granite peaks and deep valleys, but not everyone has the time or legs for a full-day trek to its high ridgelines. The Seoraksan Cable Car solves that problem elegantly: it lifts visitors from the valley floor to a rocky outcrop near Gwongeumseong Fortress in about six minutes, delivering panoramic views of the park's granite crags, the East Sea coastline, and on clear days, the city of Sokcho below. With a 4.3 rating from over 11,500 reviews, it's one of the most consistently recommended attractions in the region — a rare case where the easy option is also genuinely spectacular.
@@ -64,4 +63,4 @@ Autumn (mid-October to early November) is peak season, when the surrounding slop
 
 ## Nearby & tips
 
-Operating hours and cable car schedules shift seasonally and occasionally close for high winds or maintenance, so it's worth checking the official schedule the morning of your visit rather than assuming a fixed timetable. Ticketing is often first-come, first-served with departure times assigned in batches, so plan for some wait even outside peak season. Wear real shoes, not sandals — the ridge walk to the fortress involves uneven rock and metal grating. After the visit, Seorak-dong's cluster of restaurants near the park entrance serves Gangwon-do specialties like acorn jelly (dotorimuk) and grilled trout, a fitting reward after the climb.
+Operating hours and cable car schedules shift seasonally and occasionally close for high winds or maintenance, so it's worth checking the official schedule the morning of your visit rather than assuming a fixed timetable. Ticketing is often first-come, first-served with departure times assigned in batches, so plan for some wait even outside peak season. Wear real shoes, not sandals — the ridge walk to the fortress involves uneven rock and metal grating. After the visit, Seorak-dong's cluster of restaurants near the park entrance serves regional Gangwon-do cooking, a fitting reward after the climb.

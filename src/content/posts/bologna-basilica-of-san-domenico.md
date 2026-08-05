@@ -64,7 +64,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 You come to San Domenico for one man's bones and one genius's chisel-work, and you leave having wandered through eight centuries of Bologna almost by accident. The basilica sits at the southern edge of the historic center, on a piazza that feels several notches quieter than the student bustle around Piazza Maggiore or Via Zamboni — a wide, sunbaked square with a slightly shabby elegance, ringed by porticoed buildings and punctuated by two odd little columns holding statues of the Madonna and San Domenico himself, put up centuries ago as plague markers.
 
 The facade is deceptively plain: brick, Romanesque in bone structure, reworked over the centuries so the roofline and portal read more soberly than the riot of art waiting inside. Push through the doors and your eyes need a second to adjust to the dim, cool interior — a hush that a working church still holds, incense and old stone in the air, footsteps echoing off a floor centuries of feet have polished smooth.
@@ -85,7 +84,7 @@ Plan on 45 minutes to an hour: enough time to circle the Arca di San Domenico sl
 
 ## When to go
 
-Foot-traffic patterns here are unusually forgiving: the church stays quiet from 7:30am to 1pm and again from 3:30pm to 8pm, its full opening hours, on both weekdays and weekends. The one stretch worth planning around is 4pm to 6pm on weekends, when coach groups and day-trippers tend to bunch up around the tomb. Arrive in the morning or mid-afternoon on a weekday and you may well have the Arca almost to yourself.
+Foot-traffic patterns here are unusually forgiving: the church stays generally quiet on both weekdays and weekends. The one stretch worth planning around is 4pm to 6pm on weekends, when coach groups and day-trippers tend to bunch up around the tomb. Arrive in the morning or mid-afternoon on a weekday and you may well have the Arca almost to yourself.
 
 ## How to visit like a local
 

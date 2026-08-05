@@ -66,14 +66,13 @@ faq:
     a: Dinner service tends to offer the fuller menu experience at this style of restaurant; lunch may have a shorter or set menu. Confirm current hours before visiting since small Kyoto restaurants often close between lunch and dinner service.
 aiGenerated: true
 ---
-
 ## Why Yoichiba stands out
 
 In a city with no shortage of restaurants chasing tourist foot traffic, a 4.8 rating across 421 reviews is a meaningful signal — that volume of reviews suggests consistency over time, not a lucky first month. Yoichiba sits in Nakagyo Ward, the historic commercial core of Kyoto that also holds the Nishiki Market, Kyoto's covered "Kitchen," and the nightlife strip along the Kamogawa river. The address, 595-9 Uraderachō, places it in the tangle of narrow lanes just off the main shopping arcades — the kind of location locals know well but that doesn't announce itself with a flashy storefront, which is typical of Kyoto's best small dining rooms.
 
 ## Getting there
 
-Nakagyo Ward is Kyoto's most walkable central district, and Yoichiba is reachable without a car. The closest subway access is via the Karasuma Line or Tozai Line at Karasuma Oike Station, from which it's a manageable walk through the grid of streets east toward Kiyamachi and Pontocho. If you're coming from Kyoto Station, the Karasuma Line runs direct to Karasuma Oike in around 5–6 minutes, making a taxi largely unnecessary unless you're arriving late at night with luggage. Visitors staying near Gion or the Kamogawa riverside can also walk over in 10–15 minutes, since the restaurant sits roughly between the river and the Nishiki Market corridor — one of the most pedestrian-friendly stretches in the city.
+Nakagyo Ward is Kyoto's most walkable central district, and Yoichiba is reachable without a car. The closest subway access is via the Karasuma Line or Tozai Line at Karasuma Oike Station, from which it's a manageable walk through the grid of streets east toward Kiyamachi and Pontocho. If you're coming from Kyoto Station, the Karasuma Line runs direct to Karasuma Oike in just a few stops, making a taxi largely unnecessary unless you're arriving late at night with luggage. Visitors staying near Gion or the Kamogawa riverside can also walk over in 10–15 minutes, since the restaurant sits roughly between the river and the Nishiki Market corridor — one of the most pedestrian-friendly stretches in the city.
 
 ## What to expect at the table
 

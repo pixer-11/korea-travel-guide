@@ -65,7 +65,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -82,7 +81,7 @@ Start at the Rizal Monument itself, guarded around the clock and the site of a m
 
 ## When to go
 
-The park is open daily from 5am to 10pm, and the difference between an 8am visit and a 5pm one is stark. Weekday mornings between 7am and 11am are consistently the quietest window — this is when the city's own joggers, tai chi groups, and dog-walkers have the lawns mostly to themselves, and it's also the coolest stretch of the day before Manila's humidity sets in. Weekends shift the whole rhythm: crowds build steadily through the afternoon and peak between 4pm and 10pm, when families arrive for the sunset, food carts multiply, and the open-air concerts draw a real audience. If your priority is photos of the monument or a peaceful walk through the gardens, weekday morning is the move; if you want the park at its most alive, with balloon vendors and street food and a packed crowd watching the flag lowered at dusk, go on a weekend evening instead.
+The park is open every day, and the difference between an 8am visit and a 5pm one is stark. Weekday mornings between 7am and 11am are consistently the quietest window — this is when the city's own joggers, tai chi groups, and dog-walkers have the lawns mostly to themselves, and it's also the coolest stretch of the day before Manila's humidity sets in. Weekends shift the whole rhythm: crowds build steadily through the afternoon and peak between 4pm and 10pm, when families arrive for the sunset, food carts multiply, and the open-air concerts draw a real audience. If your priority is photos of the monument or a peaceful walk through the gardens, weekday morning is the move; if you want the park at its most alive, with balloon vendors and street food and a packed crowd watching the flag lowered at dusk, go on a weekend evening instead.
 
 ## How to visit like a local
 

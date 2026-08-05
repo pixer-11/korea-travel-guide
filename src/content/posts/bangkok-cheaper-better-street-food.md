@@ -76,7 +76,6 @@ faq:
 aiGenerated: true
 updatedDate: '2026-07-24'
 ---
-
 ## Why Soi Silom 20 Matters
 
 Bangkok's best street food isn't always on the postcard strip near Chinatown — some of it is tucked into narrow office-district sois that only fill up for a couple of hours a day. Soi Silom 20, a short alley connecting Silom Road to Soi Convent in the Bang Rak district, is one of these. It's home to a stall cluster that includes the well-reviewed "Cheaper & Better Street Food" (4.7 stars from over 1,600 reviews), a telling sign for a genre where reputations are built almost entirely by repeat local customers rather than tourist marketing. The name is basically the pitch: portions and prices aimed at office workers on a lunch break, not padded for foot traffic from a nearby hotel.
@@ -87,7 +86,7 @@ The soi sits in Khwaeng Suriya Wong, Khet Bang Rak — the same neighborhood as 
 
 ## What to Eat
 
-This is lunch territory as much as it is an all-day stop — stalls run from midday until 11pm, though the office lunch rush is still when things are busiest. Expect the classic Bangkok street-stall repertoire: stir-fried dishes over rice (pad kaprao with minced pork or chicken, topped with a fried egg), noodle soups, som tam (green papaya salad), and grilled skewers. Portions are single-serving, and the format is fast — order, sit on a plastic stool or narrow counter, eat, go. Given the name and price level, expect single dishes to fall in the 40-80 baht range, though street prices shift with ingredient costs, so treat any figure as a rough guide rather than a promise.
+This is lunch territory as much as it is an all-day stop, though the office lunch rush is still when things are busiest. Expect the classic Bangkok street-stall repertoire: stir-fried dishes over rice (pad kaprao with minced pork or chicken, topped with a fried egg), noodle soups, som tam (green papaya salad), and grilled skewers. Portions are single-serving, and the format is fast — order, sit on a plastic stool or narrow counter, eat, go. Given the name and price level, expect single dishes to fall in the 40-80 baht range, though street prices shift with ingredient costs, so treat any figure as a rough guide rather than a promise.
 
 If you have room after, Silom and the parallel Convent Road area have more stalls and small cafés, so this soi works well as one stop in a short crawl rather than a single destination.
 

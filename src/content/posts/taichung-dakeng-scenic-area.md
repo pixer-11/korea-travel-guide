@@ -66,7 +66,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -83,7 +82,7 @@ Trail 4 is the one everyone talks about, and for good reason: it climbs through 
 
 ## When to go
 
-Early morning is the move here, both for temperature and for light — the hills are steep enough that by mid-afternoon you're hiking in full sun with little breeze. Weekends get busy consistently from 7am through 6pm, so if your schedule allows a weekday, take it; you'll have more room on the ladders and ropes and won't be queuing behind a slow-moving group at the tight spots on Trail 4. Rainy days turn the wooden sections genuinely slippery, so check the forecast — this isn't a place to push through a downpour for the sake of it.
+Early morning is the move here, both for temperature and for light — the hills are steep enough that by mid-afternoon you're hiking in full sun with little breeze. Weekends get busy, so if your schedule allows a weekday, take it; you'll have more room on the ladders and ropes and won't be queuing behind a slow-moving group at the tight spots on Trail 4. Rainy days turn the wooden sections genuinely slippery, so check the forecast — this isn't a place to push through a downpour for the sake of it.
 
 ## How to visit like a local
 

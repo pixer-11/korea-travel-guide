@@ -70,7 +70,6 @@ faq:
 aiGenerated: true
 updatedDate: '2026-07-24'
 ---
-
 ## Why go
 
 Old Town Hoi An is famously low-rise — a UNESCO-protected grid of 15th- to 19th-century merchant houses, tube houses, and pagodas where new construction is tightly restricted. That scarcity of height is exactly what makes a spot like Mê Hội An Rooftop Coffee & Kitchen stand out: it's one of the few places inside the historic core with a genuine multi-story rooftop terrace looking straight down over the tiled roofs, the Thu Bồn River glimpses, and the yellow-painted facades the town is known for. With a 4.9 rating across nearly 2,500 reviews, it's become one of the most talked-about "view cafés" in the Ancient Town, popular with visitors chasing the golden-hour shot before heading out for the lantern-lit evening.
@@ -85,7 +84,7 @@ The draw here is vertical: multiple open-air rooftop levels stacked above a grou
 
 ## When to go
 
-Late afternoon, roughly 4:30–6:30pm, is the sweet spot — you get daylight views of the Old Town roofscape, then watch the transition into the lantern-lit evening without having to change location. Right at opening, 8am, is a quieter, cooler alternative with far thinner crowds. Hoi An's dry season, February through May, offers the most reliable clear skies for the rooftop view; the wetter months (September–December) bring dramatic light but a real chance of rain closing the open-air terrace early. If your visit coincides with the monthly Hoi An Lantern Festival (held on the 14th day of the lunar month, when the Old Town switches off electric lights in favor of lanterns), expect the rooftop to be significantly busier and arrive well before dusk.
+Late afternoon, roughly 4:30–6:30pm, is the sweet spot — you get daylight views of the Old Town roofscape, then watch the transition into the lantern-lit evening without having to change location. Early morning tends to be a quieter alternative with thinner crowds. Hoi An's dry season, February through May, offers the most reliable clear skies for the rooftop view; the wetter months (September–December) bring dramatic light but a real chance of rain closing the open-air terrace early. If your visit coincides with the monthly Hoi An Lantern Festival (held on the 14th day of the lunar month, when the Old Town switches off electric lights in favor of lanterns), expect the rooftop to be significantly busier and arrive well before dusk.
 
 ## Nearby & tips
 

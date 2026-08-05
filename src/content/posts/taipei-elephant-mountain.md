@@ -51,7 +51,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -60,7 +59,7 @@ You don't climb Elephant Mountain for solitude — you climb it for the single m
 
 ## Getting there
 
-Take the MRT Red Line (Xinyi line) to Xiangshan Station and leave through Exit 2. From there it's a five-to-ten-minute walk through a small park and past a temple before the official trailhead — signposted in English and Chinese as the Xiangshan / Elephant Mountain Hiking Trail — begins. You'll know you're close when you see the stone steps start climbing steeply between tree roots and railings. There's no ticket gate and no admission fee; the trail is open 24 hours, every day.
+Take the MRT Red Line (Xinyi line) to Xiangshan Station and leave through Exit 2. From there it's a five-to-ten-minute walk through a small park and past a temple before the official trailhead — signposted in English and Chinese as the Xiangshan / Elephant Mountain Hiking Trail — begins. You'll know you're close when you see the stone steps start climbing steeply between tree roots and railings. There's no ticket gate and no admission fee, and access isn't restricted to fixed hours.
 
 ## What to see and do
 

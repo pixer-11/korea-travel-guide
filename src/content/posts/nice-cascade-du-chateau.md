@@ -68,7 +68,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -85,9 +84,8 @@ The waterfall itself is modest in scale but genuinely photogenic, framed by rock
 
 ## When to go
 
-The park and waterfall are open every day, 8:30am to 8pm, all week — no early or late closing days to plan around. The crowd pattern here is consistent and worth using: midday through mid-afternoon on weekends (roughly 12pm–5pm) is when the plateau and the paths around the falls fill up fastest, mostly with cruise-ship groups and day-trippers timing their visit around lunch. Outside that stretch — first thing in the morning, or after 5pm when the light turns gold over the bay — the same paths are noticeably calmer. An early visit also means cooler air for the climb and softer light for photos of both the falls and the coastline.
+The park and waterfall are open daily — no early or late closing days to plan around. The crowd pattern here is consistent and worth using: midday through mid-afternoon on weekends (roughly 12pm–5pm) is when the plateau and the paths around the falls fill up fastest, mostly with cruise-ship groups and day-trippers timing their visit around lunch. Outside that stretch — first thing in the morning, or after 5pm when the light turns gold over the bay — the same paths are noticeably calmer. An early visit also means cooler air for the climb and softer light for photos of both the falls and the coastline.
 
 ## How to visit like a local
 
-This is a well-known stop on Nice's must-see list, not a hidden corner, so the smart move is timing rather than secrecy. Go right at opening, 8:30am, or swing by in the two hours before closing — you'll share the viewpoint with joggers and dog-walkers instead of tour groups. Wear proper shoes if you're taking the stairs; they're uneven stone in places and can be slick after rain. There's nothing to pay and nothing to book — this is a public park, so you simply walk in, and the free lift means there's no reason to skip the hill even if the stairs put you off. Bring water in summer, as shade thins out near the top plateau. Locals treat this less as a single sight and more as a loop: up one route, along the plateau to the viewpoint and waterfall, down the other route, finishing at Cours Saleya or the port for a coffee — build that into your plan rather than treating the cascade as a quick there-and-back errand.
-
+This is a well-known stop on Nice's must-see list, not a hidden corner, so the smart move is timing rather than secrecy. Go right at opening, or swing by in the two hours before closing — you'll share the viewpoint with joggers and dog-walkers instead of tour groups. Wear proper shoes if you're taking the stairs; they're uneven stone in places and can be slick after rain. There's nothing to pay and nothing to book — this is a public park, so you simply walk in, and the free lift means there's no reason to skip the hill even if the stairs put you off. Bring water in summer, as shade thins out near the top plateau. Locals treat this less as a single sight and more as a loop: up one route, along the plateau to the viewpoint and waterfall, down the other route, finishing at Cours Saleya or the port for a coffee — build that into your plan rather than treating the cascade as a quick there-and-back errand.

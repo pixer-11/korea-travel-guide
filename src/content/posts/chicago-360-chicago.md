@@ -72,7 +72,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -89,7 +88,7 @@ The main deck wraps the tower with floor-to-ceiling glass, and digital markers a
 
 ## When to go
 
-Opening hours run 9am to 11pm every day of the week, which gives you real flexibility — sunset, blue hour, and full night skyline are all on the table without rushing. Measured crowd patterns show weekdays stay fairly even from open to close, so any weekday hour is a reasonably safe bet. Weekends are different: the calm window is early, 9–11am, right after opening, while things build steadily and peak hard between 2pm and 10pm. If you're visiting on a Saturday or Sunday, aim to be through the doors by mid-morning, or accept a wait if you'd rather come for sunset.
+Check the current opening hours before you go, since they can vary by season, but there's typically enough of a window to catch sunset, blue hour, and full night skyline without rushing. Measured crowd patterns show weekdays stay fairly even from open to close, so any weekday hour is a reasonably safe bet. Weekends are different: the calm window is early, 9–11am, right after opening, while things build steadily and peak hard between 2pm and 10pm. If you're visiting on a Saturday or Sunday, aim to be through the doors by mid-morning, or accept a wait if you'd rather come for sunset.
 
 ## How to visit like a local
 
