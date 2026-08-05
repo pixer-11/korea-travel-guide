@@ -1,38 +1,52 @@
 ---
-title: "Gardens by the Bay: Marina Bay Travel Guide"
+title: 'Gardens by the Bay: Marina Bay Travel Guide'
 description: Gardens by the Bay is a 101-hectare waterfront park in Marina Bay, best known for the towering Supertree Grove and the two cooled conservatories, Flower Dome and Cloud Forest.
-country: "Singapore"
-region: "Marina Bay"
-category: "hidden-gem"
-pubDate: "2026-07-23T07:37:52.418Z"
+country: Singapore
+region: Marina Bay
+category: hidden-gem
+pubDate: '2026-07-23T07:37:52.418Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore1.jpg/1920px-Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore1.jpg"
-  credit: "Photo: Mustang Joe / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Supertree_Grove,_Gardens_by_the_Bay,_Singapore1.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore1.jpg/1920px-Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Mustang Joe / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Supertree_Grove,_Gardens_by_the_Bay,_Singapore1.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Gardens_by_the_Bay%2C_Marina_Bay%2C_Singapur%2C_2023-08-19%2C_DD_26-28_HDR.jpg/1920px-Gardens_by_the_Bay%2C_Marina_Bay%2C_Singapur%2C_2023-08-19%2C_DD_26-28_HDR.jpg
     credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Gardens_by_the_Bay,_Marina_Bay,_Singapur,_2023-08-19,_DD_26-28_HDR.jpg
 place:
-  id: "ChIJMxZ-kwQZ2jERdsqftXeWCWI"
-  name: "Gardens by the Bay"
-  address: "18 Marina Gardens Dr, Singapore 018953"
+  id: ChIJMxZ-kwQZ2jERdsqftXeWCWI
+  name: Gardens by the Bay
+  address: 18 Marina Gardens Dr, Singapore 018953
   rating: 4.7
   userRatingsTotal: 158135
-  googleMapsUrl: "https://maps.google.com/?cid=7064342931399756406&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=7064342931399756406&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.2815683
   lng: 103.8636132
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [7, 8]
-    weekdayBusy: [19, 20]
-    weekendQuiet: [7, 8]
-    weekendBusy: [14, 15, 16, 17, 18, 19, 20, 21]
-    venueId: 'ven_495743576558746671736452456a325a51776b2d5a784d4a496843'
-  phone: '+65 6420 6848'
+    weekdayQuiet:
+      - 7
+      - 8
+    weekdayBusy:
+      - 19
+      - 20
+    weekendQuiet:
+      - 7
+      - 8
+    weekendBusy:
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+    venueId: ven_495743576558746671736452456a325a51776b2d5a784d4a496843
+  phone: +65 6420 6848
   openingHours:
     - 'Monday: 5:00 AM – 2:00 AM'
     - 'Tuesday: 5:00 AM – 2:00 AM'
@@ -42,20 +56,20 @@ place:
     - 'Saturday: 5:00 AM – 2:00 AM'
     - 'Sunday: 5:00 AM – 2:00 AM'
 tags:
-  - "marina bay"
-  - "hidden gem"
-quickAnswer: "Gardens by the Bay is a 101-hectare waterfront park in Marina Bay, best known for the towering Supertree Grove and the two cooled conservatories, Flower Dome and Cloud Forest. Outdoor areas (Supertree Grove, Bay East Garden, Dragonfly Lake) are free; the conservatories and OCBC Skyway charge separate admission, so budget half a day to see both indoor and outdoor highlights and time your visit around the 7:45pm and 8:45pm Garden Rhapsody light show."
+  - marina bay
+  - hidden gem
+quickAnswer: Gardens by the Bay is a 101-hectare waterfront park in Marina Bay, best known for the towering Supertree Grove and the two cooled conservatories, Flower Dome and Cloud Forest. Outdoor areas (Supertree Grove, Bay East Garden, Dragonfly Lake) are free; the conservatories and OCBC Skyway charge separate admission, so budget half a day to see both indoor and outdoor highlights and time your visit around the 7:45pm and 8:45pm Garden Rhapsody light show.
 faq:
-  - q: "How do I get to Gardens by the Bay by MRT?"
-    a: "Take the Circle or Downtown Line to Bayfront MRT Station and follow the underground link directly to the gardens; it's a short, covered walk. Marina Bay MRT (Circle, North-South, Thomson-East Coast Lines) is a 10–15 minute walk along the waterfront."
-  - q: "Is Gardens by the Bay free?"
-    a: "The outdoor areas — Supertree Grove, Bay East Garden, Dragonfly Lake — are free to enter. Flower Dome, Cloud Forest, and the OCBC Skyway require separate paid tickets, best booked online in advance for a timed slot."
-  - q: "How much time should I budget?"
-    a: "Plan at least half a day: roughly 45–60 minutes each for Flower Dome and Cloud Forest, plus time for the Skyway and a stroll through Supertree Grove, especially if you want to catch the evening light show."
-  - q: "What time is the Supertree light show?"
-    a: "Garden Rhapsody typically runs twice nightly, around 7:45pm and 8:45pm, though timings can shift seasonally — check the official schedule on arrival."
-  - q: "What else is nearby?"
-    a: "Marina Bay Sands, the ArtScience Museum, and Merlion Park are all within a 10–20 minute walk, making it easy to combine a gardens visit with an evening Marina Bay waterfront circuit."
+  - q: How do I get to Gardens by the Bay by MRT?
+    a: Take the Circle or Downtown Line to Bayfront MRT Station and follow the underground link directly to the gardens; it's a short, covered walk. Marina Bay MRT (Circle, North-South, Thomson-East Coast Lines) is a 10–15 minute walk along the waterfront.
+  - q: Is Gardens by the Bay free?
+    a: The outdoor areas — Supertree Grove, Bay East Garden, Dragonfly Lake — are free to enter. Flower Dome, Cloud Forest, and the OCBC Skyway require separate paid tickets, best booked online in advance for a timed slot.
+  - q: How much time should I budget?
+    a: 'Plan at least half a day: roughly 45–60 minutes each for Flower Dome and Cloud Forest, plus time for the Skyway and a stroll through Supertree Grove, especially if you want to catch the evening light show.'
+  - q: What time is the Supertree light show?
+    a: Garden Rhapsody typically runs twice nightly, around 7:45pm and 8:45pm, though timings can shift seasonally — check the official schedule on arrival.
+  - q: What else is nearby?
+    a: Marina Bay Sands, the ArtScience Museum, and Merlion Park are all within a 10–20 minute walk, making it easy to combine a gardens visit with an evening Marina Bay waterfront circuit.
 aiGenerated: true
 draft: false
 ---

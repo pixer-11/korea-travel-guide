@@ -1,42 +1,42 @@
 ---
-title: "Batu Caves: Kuala Lumpur Travel Guide"
+title: 'Batu Caves: Kuala Lumpur Travel Guide'
 description: Batu Caves is a limestone cave complex turned Hindu shrine on Kuala Lumpur's northern fringe, marked by a 42.7-metre golden Lord Murugan statue and a lung-testing climb of 272 rainbow-painted steps.
-country: "Malaysia"
-region: "Kuala Lumpur"
-category: "hidden-gem"
-pubDate: "2026-08-01T09:39:42.983Z"
+country: Malaysia
+region: Kuala Lumpur
+category: hidden-gem
+pubDate: '2026-08-01T09:39:42.983Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Batu_Caves_stairs_2022-05.jpg/1920px-Batu_Caves_stairs_2022-05.jpg"
-  credit: "Photo: Chainwit. / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Batu_Caves_stairs_2022-05.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Batu_Caves_stairs_2022-05.jpg/1920px-Batu_Caves_stairs_2022-05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Chainwit. / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Batu_Caves_stairs_2022-05.jpg
 gallery: []
 place:
-  id: "ChIJBahJiQxHzDER-Z5vs7Lrv_I"
-  name: "Batu Caves"
-  address: "Gombak, 68100 Batu Caves, Selangor, Malaysia"
+  id: ChIJBahJiQxHzDER-Z5vs7Lrv_I
+  name: Batu Caves
+  address: Gombak, 68100 Batu Caves, Selangor, Malaysia
   rating: 4.4
   userRatingsTotal: 80377
-  googleMapsUrl: "https://maps.google.com/?cid=17491958630477438713&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=17491958630477438713&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 3.2378844
   lng: 101.6840385
-  phone: '+60 3-6189 6284'
+  phone: +60 3-6189 6284
 tags:
-  - "kuala lumpur"
-  - "hidden gem"
-quickAnswer: "Batu Caves is a limestone cave complex turned Hindu shrine on Kuala Lumpur's northern fringe, marked by a 42.7-metre golden Lord Murugan statue and a lung-testing climb of 272 rainbow-painted steps. Take the KTM Komuter train from KL Sentral to Batu Caves station (it stops right outside), spend 1.5–2 hours exploring the Temple Cave and Dark Cave, and go early morning on a weekday to beat both the heat and the crowds."
+  - kuala lumpur
+  - hidden gem
+quickAnswer: Batu Caves is a limestone cave complex turned Hindu shrine on Kuala Lumpur's northern fringe, marked by a 42.7-metre golden Lord Murugan statue and a lung-testing climb of 272 rainbow-painted steps. Take the KTM Komuter train from KL Sentral to Batu Caves station (it stops right outside), spend 1.5–2 hours exploring the Temple Cave and Dark Cave, and go early morning on a weekday to beat both the heat and the crowds.
 faq:
-  - q: "How do I get to Batu Caves from central Kuala Lumpur?"
-    a: "Take the KTM Komuter train from KL Sentral toward Batu Caves — it's roughly a 30-minute ride and the station is right at the base of the steps. Grab/taxi takes 25–40 minutes depending on traffic and costs more."
-  - q: "How much does it cost to enter Batu Caves?"
-    a: "The main Temple Cave and staircase are free to visit as an open shrine. The Dark Cave guided walk and any museum add-ons charge a separate small fee, which can change, so confirm current pricing at the ticket booths on arrival."
-  - q: "How long should I plan to spend there?"
-    a: "Budget 1.5–2 hours for the stairs, Temple Cave, and surrounding shrines; add 45 minutes to an hour if you're doing the Dark Cave guided tour."
-  - q: "What's the best time of day to visit?"
-    a: "Go early, ideally before 9am on a weekday, to avoid both the midday heat on the exposed staircase and the thickest crowds, which build through late morning and on weekends."
-  - q: "Is Batu Caves suitable for kids or people with mobility issues?"
-    a: "The 272 open-air steps have no elevator alternative, so it's a genuine climb — manageable for most fit visitors and kids, but difficult for anyone with mobility limitations."
+  - q: How do I get to Batu Caves from central Kuala Lumpur?
+    a: Take the KTM Komuter train from KL Sentral toward Batu Caves — it's roughly a 30-minute ride and the station is right at the base of the steps. Grab/taxi takes 25–40 minutes depending on traffic and costs more.
+  - q: How much does it cost to enter Batu Caves?
+    a: The main Temple Cave and staircase are free to visit as an open shrine. The Dark Cave guided walk and any museum add-ons charge a separate small fee, which can change, so confirm current pricing at the ticket booths on arrival.
+  - q: How long should I plan to spend there?
+    a: Budget 1.5–2 hours for the stairs, Temple Cave, and surrounding shrines; add 45 minutes to an hour if you're doing the Dark Cave guided tour.
+  - q: What's the best time of day to visit?
+    a: Go early, ideally before 9am on a weekday, to avoid both the midday heat on the exposed staircase and the thickest crowds, which build through late morning and on weekends.
+  - q: Is Batu Caves suitable for kids or people with mobility issues?
+    a: The 272 open-air steps have no elevator alternative, so it's a genuine climb — manageable for most fit visitors and kids, but difficult for anyone with mobility limitations.
 aiGenerated: true
 draft: false
 ---

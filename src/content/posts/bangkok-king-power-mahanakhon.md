@@ -1,28 +1,28 @@
 ---
-title: "King Power Mahanakhon: Bangkok Travel Guide (4.7★)"
-description: "King Power Mahanakhon is Bangkok's pixelated glass \"notch\" skyscraper on Naradhiwas Rajanagarindra Road in Silom, home to Thailand's highest observation deck (SkyWalk) at 1,030 feet, including a glass floor and open-air rooftop bar. 4.7★ (29,618 reviews) — what visitors say, hours, and tips."
-country: "Thailand"
-region: "Bangkok"
-category: "attraction"
-pubDate: "2026-08-05T11:03:26.256Z"
+title: 'King Power Mahanakhon: Bangkok Travel Guide (4.7★)'
+description: King Power Mahanakhon is Bangkok's pixelated glass "notch" skyscraper on Naradhiwas Rajanagarindra Road in Silom, home to Thailand's highest observation deck (SkyWalk) at 1,030 feet, including a glass floor and open-air rooftop bar. 4.7★ (29,618 reviews) — what visitors say, hours, and tips.
+country: Thailand
+region: Bangkok
+category: attraction
+pubDate: '2026-08-05T11:03:26.256Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Panorama_from_top_of_King_Power_Maha_Nakhon_Tower.jpg/3840px-Panorama_from_top_of_King_Power_Maha_Nakhon_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  credit: "Photo: Ronit Bhattacharjee / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Panorama_from_top_of_King_Power_Maha_Nakhon_Tower.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Panorama_from_top_of_King_Power_Maha_Nakhon_Tower.jpg/1920px-Panorama_from_top_of_King_Power_Maha_Nakhon_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Ronit Bhattacharjee / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Panorama_from_top_of_King_Power_Maha_Nakhon_Tower.jpg
 gallery: []
 place:
-  id: "ChIJGzV2mdKY4jARdIb62T7BoE4"
-  name: "King Power Mahanakhon"
-  address: "114 Thanon Naradhiwat Rajanagarindra, Si Lom, Khet Bang Rak, Krung Thep Maha Nakhon 10500, Thailand"
+  id: ChIJGzV2mdKY4jARdIb62T7BoE4
+  name: King Power Mahanakhon
+  address: 114 Thanon Naradhiwat Rajanagarindra, Si Lom, Khet Bang Rak, Krung Thep Maha Nakhon 10500, Thailand
   rating: 4.7
   userRatingsTotal: 29618
-  googleMapsUrl: "https://maps.google.com/?cid=5665740806921291380&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=5665740806921291380&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 13.7240107
   lng: 100.52847709999999
   busyness:
-    updated: 2026-08-05
+    updated: 2026-08-05T00:00:00.000Z
     weekdayQuiet:
       - 10
       - 22
@@ -40,22 +40,22 @@ place:
     weekendBusy:
       - 17
       - 18
-    venueId: "ven_34456f423754323662496452416a34594b646d32567a474a496843"
+    venueId: ven_34456f423754323662496452416a34594b646d32567a474a496843
 tags:
-  - "bangkok"
-  - "viewpoint"
-quickAnswer: "King Power Mahanakhon is Bangkok's pixelated glass \"notch\" skyscraper on Naradhiwas Rajanagarindra Road in Silom, home to Thailand's highest observation deck (SkyWalk) at 1,030 feet, including a glass floor and open-air rooftop bar. Ride the BTS to Chong Nonsi station and walk straight in via the skywalk exit. Go on a clear late afternoon to catch sunset sliding into the city's night skyline — crowds are steady all day (10am–11pm) but spike hardest on weekends between 5pm and 7pm, so an early or later slot gets you more elbow room at the glass."
+  - bangkok
+  - viewpoint
+quickAnswer: King Power Mahanakhon is Bangkok's pixelated glass "notch" skyscraper on Naradhiwas Rajanagarindra Road in Silom, home to Thailand's highest observation deck (SkyWalk) at 1,030 feet, including a glass floor and open-air rooftop bar. Ride the BTS to Chong Nonsi station and walk straight in via the skywalk exit. Go on a clear late afternoon to catch sunset sliding into the city's night skyline — crowds are steady all day (10am–11pm) but spike hardest on weekends between 5pm and 7pm, so an early or later slot gets you more elbow room at the glass.
 faq:
-  - q: "How do I get to King Power Mahanakhon?"
-    a: "Take the BTS Silom Line to Chong Nonsi station — an elevated skywalk connects the station directly to the tower, so you don't need to deal with street traffic."
-  - q: "What is there to do inside?"
-    a: "The main attraction is Mahanakhon SkyWalk: an indoor observation floor around the 74th–75th floors, an open-air rooftop deck near the top with a glass floor section, and a rooftop bar for drinks with a view."
-  - q: "When is the quietest time to visit?"
-    a: "The tower is busy throughout its 10am–11pm hours, but weekends between 5pm and 7pm are the peak crush. Go on a weekday, or early/late in the day, for more breathing room at the glass floor and railings."
-  - q: "How long should I spend there?"
-    a: "Plan for 60–90 minutes to comfortably cover the indoor deck, the open-air rooftop, and a drink at the bar without feeling rushed."
-  - q: "Is it worth going at sunset?"
-    a: "Yes — sunset is the most popular window because you see the city shift from daylight haze to a lit-up night skyline, but it's also when it's most crowded, especially on weekends, so book ahead and expect company at the rail."
+  - q: How do I get to King Power Mahanakhon?
+    a: Take the BTS Silom Line to Chong Nonsi station — an elevated skywalk connects the station directly to the tower, so you don't need to deal with street traffic.
+  - q: What is there to do inside?
+    a: 'The main attraction is Mahanakhon SkyWalk: an indoor observation floor around the 74th–75th floors, an open-air rooftop deck near the top with a glass floor section, and a rooftop bar for drinks with a view.'
+  - q: When is the quietest time to visit?
+    a: The tower is busy throughout its 10am–11pm hours, but weekends between 5pm and 7pm are the peak crush. Go on a weekday, or early/late in the day, for more breathing room at the glass floor and railings.
+  - q: How long should I spend there?
+    a: Plan for 60–90 minutes to comfortably cover the indoor deck, the open-air rooftop, and a drink at the bar without feeling rushed.
+  - q: Is it worth going at sunset?
+    a: Yes — sunset is the most popular window because you see the city shift from daylight haze to a lit-up night skyline, but it's also when it's most crowded, especially on weekends, so book ahead and expect company at the rail.
 aiGenerated: true
 draft: false
 ---

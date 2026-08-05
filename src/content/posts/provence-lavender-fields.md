@@ -1,45 +1,45 @@
 ---
-title: "Lavender Fields: Provence Travel Guide"
+title: 'Lavender Fields: Provence Travel Guide'
 description: The best lavender viewing in Provence runs from around mid-June through early August, peaking in the second half of July, with the Valensole Plateau, the Sault basin, and the fields around Bonnieux and the Luberon among the most reliable spots.
-country: "France"
-region: "Provence"
-category: "attraction"
-pubDate: 2026-07-21
+country: France
+region: Provence
+category: attraction
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/France_Provence_lavender_fields.jpg/1920px-France_Provence_lavender_fields.jpg"
-  credit: "Photo: Dmytro Ivashchenko / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:France_Provence_lavender_fields.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/France_Provence_lavender_fields.jpg/1920px-France_Provence_lavender_fields.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Dmytro Ivashchenko / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:France_Provence_lavender_fields.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Lavender_fields_of_Valensole%2C_2019.jpg/1920px-Lavender_fields_of_Valensole%2C_2019.jpg
     credit: 'Photo: https://www.reddit.com/user/Grafixart-Photo / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Lavender_fields_of_Valensole,_2019.jpg
 place:
-  id: "ChIJ9-c3FpgRyhIRBsiU2iqUQYY"
-  name: "Lavender Fields"
-  address: "R7RQ+C9, 84480 Bonnieux, France"
+  id: ChIJ9-c3FpgRyhIRBsiU2iqUQYY
+  name: Lavender Fields
+  address: R7RQ+C9, 84480 Bonnieux, France
   rating: 4.7
   userRatingsTotal: 81
-  googleMapsUrl: "https://maps.google.com/?cid=9674176386345256966&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=9674176386345256966&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.841648299999996
   lng: 5.2886691
 tags:
-  - "provence"
-  - "Provence Lavender Fields"
-quickAnswer: "The best lavender viewing in Provence runs from around mid-June through early August, peaking in the second half of July, with the Valensole Plateau, the Sault basin, and the fields around Bonnieux and the Luberon among the most reliable spots. Aim for early morning (7–9am) or golden hour before sunset for both light and cooler temperatures, and rent a car since the fields are scattered along rural D-roads with no train access."
+  - provence
+  - Provence Lavender Fields
+quickAnswer: The best lavender viewing in Provence runs from around mid-June through early August, peaking in the second half of July, with the Valensole Plateau, the Sault basin, and the fields around Bonnieux and the Luberon among the most reliable spots. Aim for early morning (7–9am) or golden hour before sunset for both light and cooler temperatures, and rent a car since the fields are scattered along rural D-roads with no train access.
 faq:
-  - q: "What is the best time of year to see lavender fields in Provence?"
-    a: "Mid-June through early August, with peak bloom generally in the last two weeks of July. Fields are often harvested and cut down by mid-August, so timing is critical."
-  - q: "How do I get to the Bonnieux lavender fields without a car?"
-    a: "It's difficult — there's no direct train or bus service. A rental car from Avignon, Aix-en-Provence, or Marseille is the practical option, and using the Plus Code (R7RQ+C9) in GPS apps is more reliable than the street address."
-  - q: "How long should I plan to spend at the lavender fields?"
-    a: "Most visitors spend 30–60 minutes at a single field for photos and a short walk along the edges, then combine it with 1–2 hours exploring Bonnieux village or nearby Gordes and Sénanque Abbey."
-  - q: "Is Bonnieux better than Valensole for lavender photos?"
-    a: "Valensole Plateau has larger, more uniform rows ideal for classic wide horizon shots, while Bonnieux and the Luberon offer smaller fields set against hilltop villages, stone architecture, and varied terrain — better for scenic, layered photos."
-  - q: "Are the lavender fields free to visit?"
-    a: "Many roadside fields in the Luberon, including those near Bonnieux, can be viewed and photographed for free from field edges; some larger commercial farms elsewhere in Provence charge a small entry fee or sell tours — confirm locally as this varies by farm and season."
+  - q: What is the best time of year to see lavender fields in Provence?
+    a: Mid-June through early August, with peak bloom generally in the last two weeks of July. Fields are often harvested and cut down by mid-August, so timing is critical.
+  - q: How do I get to the Bonnieux lavender fields without a car?
+    a: It's difficult — there's no direct train or bus service. A rental car from Avignon, Aix-en-Provence, or Marseille is the practical option, and using the Plus Code (R7RQ+C9) in GPS apps is more reliable than the street address.
+  - q: How long should I plan to spend at the lavender fields?
+    a: Most visitors spend 30–60 minutes at a single field for photos and a short walk along the edges, then combine it with 1–2 hours exploring Bonnieux village or nearby Gordes and Sénanque Abbey.
+  - q: Is Bonnieux better than Valensole for lavender photos?
+    a: Valensole Plateau has larger, more uniform rows ideal for classic wide horizon shots, while Bonnieux and the Luberon offer smaller fields set against hilltop villages, stone architecture, and varied terrain — better for scenic, layered photos.
+  - q: Are the lavender fields free to visit?
+    a: Many roadside fields in the Luberon, including those near Bonnieux, can be viewed and photographed for free from field edges; some larger commercial farms elsewhere in Provence charge a small entry fee or sell tours — confirm locally as this varies by farm and season.
 aiGenerated: true
 draft: false
 ---

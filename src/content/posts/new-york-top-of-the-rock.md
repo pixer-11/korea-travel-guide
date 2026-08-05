@@ -6,7 +6,7 @@ region: New York
 category: hidden-gem
 pubDate: '2026-08-04T10:15:12.699Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/NYC_Top_of_the_Rock_Pano.jpg/3840px-NYC_Top_of_the_Rock_Pano.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/NYC_Top_of_the_Rock_Pano.jpg/1920px-NYC_Top_of_the_Rock_Pano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Daniel Schwen / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:NYC_Top_of_the_Rock_Pano.jpg

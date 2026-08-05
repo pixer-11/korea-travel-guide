@@ -36,9 +36,34 @@ const UA = 'WanderAtlasHeroNormalise/1.0 (pixer.vtm@gmail.com)';
 const API = 'https://commons.wikimedia.org/w/api.php';
 const DRY = process.env.DRY === '1';
 const MAX_BYTES = Number(process.env.MAX_BYTES || 1_500_000);
+// A hero wider than this is rewritten even when its byte size looks acceptable.
+// 110 posts stored a 3840px render and every visitor downloaded it whole — on
+// one measured post two images came to 5.25 MB, displayed at 312 CSS px, four
+// to eight seconds of image download on mobile data (2026-08-06).
+const MAX_WIDTH = Number(process.env.MAX_WIDTH || 1600);
 // Standard widths, largest first. 1200 is the floor — Google Discover wants a
 // 1200px+ image and the hero IS the og:image, so we never rewrite below it.
+//
+// These are REQUESTS, not guesses: Wikimedia serves only the thumbnail widths it
+// has rendered for a given file and answers 400 for anything else ("Use
+// thumbnail sizes listed on…"). One file here accepts 500, 1280 and 3840 and
+// rejects 480, 640, 800, 1024, 1200 and 1920. That is why the width is asked for
+// through iiurlwidth, which returns the URL MediaWiki actually serves, and why a
+// hand-built srcset across arbitrary widths is not an option.
 const WIDTHS = [1600, 1400, 1280, 1200];
+
+export const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
+// One retry on 429, because a rate-limited request is not a missing thumbnail —
+// and reporting it as one is how a fixable problem gets recorded as impossible.
+async function politeFetch(url, opts = {}, tries = 2) {
+  for (let i = 0; i < tries; i++) {
+    const res = await fetch(url, { ...opts, headers: { 'User-Agent': UA, ...(opts.headers || {}) } }).catch(() => null);
+    if (res && res.status !== 429) return res;
+    if (i < tries - 1) await sleep(3000);
+  }
+  return null;
+}
 
 export const isWikimedia = (u) => /^https:\/\/upload\.wikimedia\.org\/wikipedia\//.test(u);
 export const stripQuery = (u) => u.split('?')[0];
@@ -81,7 +106,8 @@ async function imageInfo(files) {
 async function thumbFromApi(file, width) {
   const url = `${API}?action=query&format=json&prop=imageinfo&iiprop=url|size&iiurlwidth=${width}&origin=*` +
     `&titles=${encodeURIComponent('File:' + decodeURIComponent(file))}`;
-  const res = await fetch(url, { headers: { 'User-Agent': UA } }).catch(() => null);
+  await sleep(150);
+  const res = await politeFetch(url);
   if (!res?.ok) return null;
   const j = await res.json().catch(() => null);
   const ii = Object.values(j?.query?.pages || {})[0]?.imageinfo?.[0];
@@ -109,9 +135,15 @@ for (const p of posts) {
   let next = stripQuery(p.url);
   const strippedHere = next !== p.url;
 
-  if (p.servingOriginal) {
+  // Two reasons to rewrite: serving the ORIGINAL file (too big by definition),
+  // or serving a thumbnail that is simply too wide. The second case was missed
+  // entirely — a 3840px thumbnail is a valid /thumb/ URL, so it looked fine while
+  // shipping 1.7 MB per image.
+  const storedWidth = Number((stripQuery(p.url).match(/\/(\d+)px-[^/]+$/) || [])[1] || 0);
+  const tooWide = storedWidth > MAX_WIDTH;
+  if (p.servingOriginal || tooWide) {
     const meta = info.get(decodeURIComponent(p.file).replace(/ /g, '_')) || info.get(p.file);
-    if (meta?.size > MAX_BYTES && meta.w) {
+    if (meta?.w && (tooWide || meta.size > MAX_BYTES)) {
       const width = WIDTHS.find((w) => w < meta.w);
       if (!width) {
         console.log(`  – ${p.f}: ${(meta.size / 1e6).toFixed(1)}MB at ${meta.w}px — no standard width fits above the 1200px floor`);
@@ -124,7 +156,8 @@ for (const p of posts) {
         } else {
           // Confirm the served bytes really are smaller before rewriting —
           // a broken or heavier hero is worse than the heavy one we have.
-          const head = await fetch(thumb.url, { method: 'HEAD', headers: { 'User-Agent': UA } }).catch(() => null);
+          await sleep(150);
+          const head = await politeFetch(thumb.url, { method: 'HEAD' });
           const bytes = Number(head?.headers.get('content-length') || 0);
           if (!head?.ok || !bytes) {
             console.log(`  – ${p.f}: thumbnail did not fetch (${head?.status ?? 'no response'})`);

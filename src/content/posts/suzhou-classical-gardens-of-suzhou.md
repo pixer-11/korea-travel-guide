@@ -1,51 +1,66 @@
 ---
-title: "Classical Gardens of Suzhou: Travel Guide"
+title: 'Classical Gardens of Suzhou: Travel Guide'
 description: The "Classical Gardens of Suzhou" is a UNESCO World Heritage designation covering nine separate historic gardens scattered around the old city, not one single site — the most visit-worthy are the Humble Administrator's Garden (Zhuozheng Yuan), Lingering Garden (Liu Yuan), and Master of the Nets Garden (Wangshi Yuan).
-country: "China"
-region: "Suzhou"
-category: "attraction"
-pubDate: 2026-07-21
+country: China
+region: Suzhou
+category: attraction
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Classical_Gardens_of_Suzhou_pavilion%2C_August_2016.jpg/1920px-Classical_Gardens_of_Suzhou_pavilion%2C_August_2016.jpg"
-  credit: "Photo: Jason Zhang / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Classical_Gardens_of_Suzhou_pavilion,_August_2016.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Classical_Gardens_of_Suzhou_pavilion%2C_August_2016.jpg/1920px-Classical_Gardens_of_Suzhou_pavilion%2C_August_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Jason Zhang / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Classical_Gardens_of_Suzhou_pavilion,_August_2016.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Classical_Gardens_of_Suzhou-111933.jpg/1920px-Classical_Gardens_of_Suzhou-111933.jpg
     credit: 'Photo: Francesco Bandarin / Wikimedia Commons (CC BY-SA 3.0 igo)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Classical_Gardens_of_Suzhou-111933.jpg
 place:
-  id: "ChIJKc-Kws-mszURdVmpX1BWS_w"
-  name: "Classical Gardens of Suzhou"
-  address: "178 Dong Bei Jie, Gu Su Qu, Su Zhou Shi, Jiang Su Sheng, China, 215004"
+  id: ChIJKc-Kws-mszURdVmpX1BWS_w
+  name: Classical Gardens of Suzhou
+  address: 178 Dong Bei Jie, Gu Su Qu, Su Zhou Shi, Jiang Su Sheng, China, 215004
   rating: 4.5
   userRatingsTotal: 70
-  googleMapsUrl: "https://maps.google.com/?cid=18179719224013445493&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=18179719224013445493&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 31.324225
   lng: 120.62996899999999
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [8, 9, 10, 20]
-    weekendQuiet: [7, 8]
-    weekendBusy: [7, 8, 9, 10, 11, 12, 13, 14, 15]
-    venueId: 'ven_775f5357423158706d566452557a736d2d73774b2d634b4a496843'
+    weekdayQuiet:
+      - 8
+      - 9
+      - 10
+      - 20
+    weekendQuiet:
+      - 7
+      - 8
+    weekendBusy:
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+    venueId: ven_775f5357423158706d566452557a736d2d73774b2d634b4a496843
 tags:
-  - "suzhou"
-  - "Suzhou Classical Gardens"
-quickAnswer: "The \"Classical Gardens of Suzhou\" is a UNESCO World Heritage designation covering nine separate historic gardens scattered around the old city, not one single site — the most visit-worthy are the Humble Administrator's Garden (Zhuozheng Yuan), Lingering Garden (Liu Yuan), and Master of the Nets Garden (Wangshi Yuan). Plan on visiting two or three in a day rather than trying to see all nine, budget 1–1.5 hours per garden, and go early morning on a weekday to beat tour groups. Most are open year-round, but spring (March–May) and autumn (September–November) show off the pavilions and rockeries at their best."
+  - suzhou
+  - Suzhou Classical Gardens
+quickAnswer: The "Classical Gardens of Suzhou" is a UNESCO World Heritage designation covering nine separate historic gardens scattered around the old city, not one single site — the most visit-worthy are the Humble Administrator's Garden (Zhuozheng Yuan), Lingering Garden (Liu Yuan), and Master of the Nets Garden (Wangshi Yuan). Plan on visiting two or three in a day rather than trying to see all nine, budget 1–1.5 hours per garden, and go early morning on a weekday to beat tour groups. Most are open year-round, but spring (March–May) and autumn (September–November) show off the pavilions and rockeries at their best.
 faq:
-  - q: "Is the \"Classical Gardens of Suzhou\" one ticketed site?"
-    a: "No — it's a UNESCO World Heritage designation covering nine separate gardens around Suzhou. Each has its own entrance and ticket; there's no single combined pass covering all of them."
-  - q: "Which gardens should a first-time visitor prioritize?"
-    a: "The Humble Administrator's Garden, the Lingering Garden, and the Master of the Nets Garden are the three most celebrated and are the best use of limited time."
-  - q: "How do I get between the different gardens?"
-    a: "Suzhou Metro Lines 2 and 4 get you close to some gardens, but the old city's gardens are spread out enough that taxis or ride-hailing apps between sites are usually more efficient than transit alone."
-  - q: "How much time should I budget?"
-    a: "Plan 1–1.5 hours per garden. Visiting two or three gardens in a single day, combined with a nearby museum or street, makes for a full but manageable day."
-  - q: "What's the best season to visit?"
-    a: "Spring (March–May) and autumn (September–November) offer the most pleasant weather and best scenery; go on weekday mornings to avoid the heaviest tour-group crowds."
+  - q: Is the "Classical Gardens of Suzhou" one ticketed site?
+    a: No — it's a UNESCO World Heritage designation covering nine separate gardens around Suzhou. Each has its own entrance and ticket; there's no single combined pass covering all of them.
+  - q: Which gardens should a first-time visitor prioritize?
+    a: The Humble Administrator's Garden, the Lingering Garden, and the Master of the Nets Garden are the three most celebrated and are the best use of limited time.
+  - q: How do I get between the different gardens?
+    a: Suzhou Metro Lines 2 and 4 get you close to some gardens, but the old city's gardens are spread out enough that taxis or ride-hailing apps between sites are usually more efficient than transit alone.
+  - q: How much time should I budget?
+    a: Plan 1–1.5 hours per garden. Visiting two or three gardens in a single day, combined with a nearby museum or street, makes for a full but manageable day.
+  - q: What's the best season to visit?
+    a: Spring (March–May) and autumn (September–November) offer the most pleasant weather and best scenery; go on weekday mornings to avoid the heaviest tour-group crowds.
 aiGenerated: true
 draft: false
 ---

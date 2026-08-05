@@ -1,53 +1,53 @@
 ---
-title: "Plaza de España: Seville Travel Guide"
-description: "Plaza de España sits inside María Luisa Park, a 15-20 minute walk from the cathedral or a short hop on bus C1/C2 or the tram to Prado de San Sebastián."
-country: "Spain"
-region: "Seville"
-category: "attraction"
-pubDate: "2026-07-26T08:18:47.615Z"
+title: 'Plaza de España: Seville Travel Guide'
+description: Plaza de España sits inside María Luisa Park, a 15-20 minute walk from the cathedral or a short hop on bus C1/C2 or the tram to Prado de San Sebastián.
+country: Spain
+region: Seville
+category: attraction
+pubDate: '2026-07-26T08:18:47.615Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Seville%2C_Plaza_de_Espa%C3%B1a_%2838625005691%29_%28edited%29.jpg/1920px-Seville%2C_Plaza_de_Espa%C3%B1a_%2838625005691%29_%28edited%29.jpg"
-  credit: "Photo: Dmitry Dzhus from London / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Seville,_Plaza_de_Espa%C3%B1a_(38625005691)_(edited).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Seville%2C_Plaza_de_Espa%C3%B1a_%2838625005691%29_%28edited%29.jpg/1920px-Seville%2C_Plaza_de_Espa%C3%B1a_%2838625005691%29_%28edited%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Dmitry Dzhus from London / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Seville,_Plaza_de_Espa%C3%B1a_(38625005691)_(edited).jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Plaza_de_Espa%C3%B1a_%28Sevilla%29_-_01.jpg/1920px-Plaza_de_Espa%C3%B1a_%28Sevilla%29_-_01.jpg
     credit: 'Photo: Carlos Delgado / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Plaza_de_Espa%C3%B1a_(Sevilla)_-_01.jpg
 place:
-  id: "ChIJD7G2bqduEg0ROdrTdOj1Jok"
-  name: "Plaza de España"
-  address: "Av. Isabel la Católica, 41004 Sevilla, Spain"
+  id: ChIJD7G2bqduEg0ROdrTdOj1Jok
+  name: Plaza de España
+  address: Av. Isabel la Católica, 41004 Sevilla, Spain
   rating: 4.8
   userRatingsTotal: 187618
-  googleMapsUrl: "https://maps.google.com/?cid=9882856811052390969&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=9882856811052390969&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.3771957
   lng: -5.986892999999999
   openingHours:
-    - "Monday: 8:00 AM – 12:00 AM"
-    - "Tuesday: 8:00 AM – 12:00 AM"
-    - "Wednesday: 8:00 AM – 12:00 AM"
-    - "Thursday: 8:00 AM – 12:00 AM"
-    - "Friday: 8:00 AM – 12:00 AM"
-    - "Saturday: 8:00 AM – 12:00 AM"
-    - "Sunday: 8:00 AM – 12:00 AM"
+    - 'Monday: 8:00 AM – 12:00 AM'
+    - 'Tuesday: 8:00 AM – 12:00 AM'
+    - 'Wednesday: 8:00 AM – 12:00 AM'
+    - 'Thursday: 8:00 AM – 12:00 AM'
+    - 'Friday: 8:00 AM – 12:00 AM'
+    - 'Saturday: 8:00 AM – 12:00 AM'
+    - 'Sunday: 8:00 AM – 12:00 AM'
 tags:
-  - "seville"
-  - "Plaza de Espana Seville"
-quickAnswer: "Plaza de España sits inside María Luisa Park, a 15-20 minute walk from the cathedral or a short hop on bus C1/C2 or the tram to Prado de San Sebastián. It's free to enter and open all day, but go right at opening (around 8-9am) or in the last hour before sunset to see the tilework and canal without the tour-group crush. Budget 45-90 minutes, more if you row a boat on the canal or linger over each province's ceramic alcove."
+  - seville
+  - Plaza de Espana Seville
+quickAnswer: Plaza de España sits inside María Luisa Park, a 15-20 minute walk from the cathedral or a short hop on bus C1/C2 or the tram to Prado de San Sebastián. It's free to enter and open all day, but go right at opening (around 8-9am) or in the last hour before sunset to see the tilework and canal without the tour-group crush. Budget 45-90 minutes, more if you row a boat on the canal or linger over each province's ceramic alcove.
 faq:
-  - q: "Is Plaza de España free to visit?"
-    a: "Yes, the square and its walkways are free and open to the public with no ticket required. The only paid extras are canal boat rentals and horse-drawn carriage rides."
-  - q: "How do I get to Plaza de España from central Seville?"
-    a: "It's a 15-20 minute walk south from the Cathedral through María Luisa Park, or you can take bus C1, C2, C3, or C4, or walk five minutes from the Prado de San Sebastián transport hub. There's no direct metro stop."
-  - q: "When is the best time to go to avoid crowds?"
-    a: "Aim for right at opening in the early morning or the last hour before sunset. Mid-morning through mid-afternoon draws heavy tour-group and cruise-excursion traffic."
-  - q: "How long should I spend there?"
-    a: "Plan on 45-90 minutes for a full walk around the alcoves and bridges; add 20-30 minutes if you want to rent a rowboat on the canal."
-  - q: "What else is nearby worth combining with a visit?"
-    a: "María Luisa Park surrounds the plaza with fountains and gardens, the Museum of Arts and Traditions and Archaeological Museum sit a short walk away in Plaza de América, and the Santa Cruz tapas district is an easy walk back toward the center."
+  - q: Is Plaza de España free to visit?
+    a: Yes, the square and its walkways are free and open to the public with no ticket required. The only paid extras are canal boat rentals and horse-drawn carriage rides.
+  - q: How do I get to Plaza de España from central Seville?
+    a: It's a 15-20 minute walk south from the Cathedral through María Luisa Park, or you can take bus C1, C2, C3, or C4, or walk five minutes from the Prado de San Sebastián transport hub. There's no direct metro stop.
+  - q: When is the best time to go to avoid crowds?
+    a: Aim for right at opening in the early morning or the last hour before sunset. Mid-morning through mid-afternoon draws heavy tour-group and cruise-excursion traffic.
+  - q: How long should I spend there?
+    a: Plan on 45-90 minutes for a full walk around the alcoves and bridges; add 20-30 minutes if you want to rent a rowboat on the canal.
+  - q: What else is nearby worth combining with a visit?
+    a: María Luisa Park surrounds the plaza with fountains and gardens, the Museum of Arts and Traditions and Archaeological Museum sit a short walk away in Plaza de América, and the Santa Cruz tapas district is an easy walk back toward the center.
 aiGenerated: true
 draft: false
 ---

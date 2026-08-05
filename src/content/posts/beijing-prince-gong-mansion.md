@@ -6,7 +6,7 @@ region: Beijing
 category: attraction
 pubDate: '2026-07-27T10:53:36.819Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Gongwangfu1.jpg/1920px-Gongwangfu1.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Gongwangfu1.jpg/1920px-Gongwangfu1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: onion83 / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Gongwangfu1.jpg

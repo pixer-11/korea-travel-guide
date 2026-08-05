@@ -1,45 +1,45 @@
 ---
-title: "Miroir d'eau: Bordeaux Travel Guide"
+title: 'Miroir d''eau: Bordeaux Travel Guide'
 description: The Miroir d'eau is the shallow reflecting pool on the Place de la Bourse, right on the Garonne riverfront in Bordeaux — free, open-air, and best experienced in the early morning or after sunset when the crowds thin and the water turns to mist over the 18th-century façade.
-country: "France"
-region: "Bordeaux"
-category: "hidden-gem"
-pubDate: "2026-07-30T10:19:47.900Z"
+country: France
+region: Bordeaux
+category: hidden-gem
+pubDate: '2026-07-30T10:19:47.900Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bordeaux_Miroir_001.jpg/1920px-Bordeaux_Miroir_001.jpg"
-  credit: "Photo: Olivier Aumage / Wikimedia Commons (CC BY-SA 2.5)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Bordeaux_Miroir_001.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bordeaux_Miroir_001.jpg/1920px-Bordeaux_Miroir_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Olivier Aumage / Wikimedia Commons (CC BY-SA 2.5)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Bordeaux_Miroir_001.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Miroir_d%27eau_Bordeaux_3.jpg/3840px-Miroir_d%27eau_Bordeaux_3.jpg"
-    credit: "Photo: Léna / Wikimedia Commons (CC BY 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Miroir_d%27eau_Bordeaux_3.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Miroir_d%27eau_Bordeaux_3.jpg/3840px-Miroir_d%27eau_Bordeaux_3.jpg
+    credit: 'Photo: Léna / Wikimedia Commons (CC BY 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Miroir_d%27eau_Bordeaux_3.jpg
 place:
-  id: "ChIJqYZVmtEnVQ0RO36Y31D_VIs"
-  name: "Miroir d'eau"
-  address: "Pl. de la Bourse, 33000 Bordeaux, France"
+  id: ChIJqYZVmtEnVQ0RO36Y31D_VIs
+  name: Miroir d'eau
+  address: Pl. de la Bourse, 33000 Bordeaux, France
   rating: 4.5
   userRatingsTotal: 16393
-  googleMapsUrl: "https://maps.google.com/?cid=10039930192129457723&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=10039930192129457723&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 44.841809999999995
   lng: -0.5691359
 tags:
-  - "bordeaux"
-  - "hidden gem"
-quickAnswer: "The Miroir d'eau is the shallow reflecting pool on the Place de la Bourse, right on the Garonne riverfront in Bordeaux — free, open-air, and best experienced in the early morning or after sunset when the crowds thin and the water turns to mist over the 18th-century façade. Plan 20–40 minutes, wear sandals you don't mind getting wet, and pair it with a stroll along the Quai Richelieu."
+  - bordeaux
+  - hidden gem
+quickAnswer: The Miroir d'eau is the shallow reflecting pool on the Place de la Bourse, right on the Garonne riverfront in Bordeaux — free, open-air, and best experienced in the early morning or after sunset when the crowds thin and the water turns to mist over the 18th-century façade. Plan 20–40 minutes, wear sandals you don't mind getting wet, and pair it with a stroll along the Quai Richelieu.
 faq:
-  - q: "Is the Miroir d'eau free to visit?"
-    a: "Yes — it's an open public square with no entry fee or gate; you can walk up and step in any time."
-  - q: "What's the best time of day to see it?"
-    a: "Early morning or the hour around sunset, when crowds are thinner and the light gives the clearest reflection of the Place de la Bourse; midday in summer is the busiest and hottest time."
-  - q: "How do I get there by public transport?"
-    a: "Take Tram Line B to the Place de la Bourse stop, which lets out right at the pool, or Tram Line C from Bordeaux Saint-Jean station plus a short riverside walk."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors spend 20–40 minutes watching a couple of mist cycles and taking photos, longer if you combine it with a walk along the Quai Richelieu."
-  - q: "What's nearby worth combining with a visit?"
-    a: "The Place de la Bourse's 18th-century architecture right behind the pool, riverside cafés along the Quai Richelieu, and — a tram ride away — the Cité du Vin museum and the Jardin Public."
+  - q: Is the Miroir d'eau free to visit?
+    a: Yes — it's an open public square with no entry fee or gate; you can walk up and step in any time.
+  - q: What's the best time of day to see it?
+    a: Early morning or the hour around sunset, when crowds are thinner and the light gives the clearest reflection of the Place de la Bourse; midday in summer is the busiest and hottest time.
+  - q: How do I get there by public transport?
+    a: Take Tram Line B to the Place de la Bourse stop, which lets out right at the pool, or Tram Line C from Bordeaux Saint-Jean station plus a short riverside walk.
+  - q: How long should I plan to spend there?
+    a: Most visitors spend 20–40 minutes watching a couple of mist cycles and taking photos, longer if you combine it with a walk along the Quai Richelieu.
+  - q: What's nearby worth combining with a visit?
+    a: The Place de la Bourse's 18th-century architecture right behind the pool, riverside cafés along the Quai Richelieu, and — a tram ride away — the Cité du Vin museum and the Jardin Public.
 aiGenerated: true
 draft: false
 ---

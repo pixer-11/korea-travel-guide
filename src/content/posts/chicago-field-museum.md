@@ -6,7 +6,7 @@ region: Chicago
 category: attraction
 pubDate: '2026-08-05T11:27:17.843Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/8/89/Field_Museum_of_Natural_History.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Field_Museum_of_Natural_History.jpg/1920px-Field_Museum_of_Natural_History.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Joe Ravi / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Field_Museum_of_Natural_History.jpg

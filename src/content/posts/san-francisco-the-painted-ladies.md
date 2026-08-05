@@ -1,45 +1,45 @@
 ---
-title: "The Painted Ladies: San Francisco Travel Guide (4.4★)"
-description: "The Painted Ladies are the row of seven Victorian houses on Steiner Street facing Alamo Square Park, best known as the backdrop from \"Full House\" and countless postcards. 4.4★ (28,008 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "San Francisco"
-category: "attraction"
-pubDate: "2026-08-05T11:49:13.716Z"
+title: 'The Painted Ladies: San Francisco Travel Guide (4.4★)'
+description: The Painted Ladies are the row of seven Victorian houses on Steiner Street facing Alamo Square Park, best known as the backdrop from "Full House" and countless postcards. 4.4★ (28,008 reviews) — what visitors say, hours, and tips.
+country: United States
+region: San Francisco
+category: attraction
+pubDate: '2026-08-05T11:49:13.716Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Painted_Ladies_San_Francisco_January_2013_panorama_2.jpg/3840px-Painted_Ladies_San_Francisco_January_2013_panorama_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  credit: "Photo: King of Hearts / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Painted_Ladies_San_Francisco_January_2013_panorama_2.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Painted_Ladies_San_Francisco_January_2013_panorama_2.jpg/1920px-Painted_Ladies_San_Francisco_January_2013_panorama_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: King of Hearts / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Painted_Ladies_San_Francisco_January_2013_panorama_2.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/San_Francisco_%28CA%2C_USA%29%2C_Painted_Ladies_--_2022_--_3055.jpg/3840px-San_Francisco_%28CA%2C_USA%29%2C_Painted_Ladies_--_2022_--_3055.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    credit: "Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:San_Francisco_(CA,_USA),_Painted_Ladies_--_2022_--_3055.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/San_Francisco_%28CA%2C_USA%29%2C_Painted_Ladies_--_2022_--_3055.jpg/3840px-San_Francisco_%28CA%2C_USA%29%2C_Painted_Ladies_--_2022_--_3055.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: 'Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:San_Francisco_(CA,_USA),_Painted_Ladies_--_2022_--_3055.jpg
 place:
-  id: "ChIJuX92JKWAhYARxVmeb8DQIYQ"
-  name: "The Painted Ladies"
-  address: "San Francisco, CA 94117, USA"
+  id: ChIJuX92JKWAhYARxVmeb8DQIYQ
+  name: The Painted Ladies
+  address: San Francisco, CA 94117, USA
   rating: 4.4
   userRatingsTotal: 28008
-  googleMapsUrl: "https://maps.google.com/?cid=9521120612162886085&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=9521120612162886085&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.7762528
   lng: -122.43275559999998
 tags:
-  - "san francisco"
-  - "historic site"
-quickAnswer: "The Painted Ladies are the row of seven Victorian houses on Steiner Street facing Alamo Square Park, best known as the backdrop from \"Full House\" and countless postcards. They're free to view anytime, but the light is best in the late afternoon and the park is calmest on weekday mornings before the tour buses arrive. Budget 20-30 minutes for photos, longer if you want to climb the hill and picnic in the park."
+  - san francisco
+  - historic site
+quickAnswer: The Painted Ladies are the row of seven Victorian houses on Steiner Street facing Alamo Square Park, best known as the backdrop from "Full House" and countless postcards. They're free to view anytime, but the light is best in the late afternoon and the park is calmest on weekday mornings before the tour buses arrive. Budget 20-30 minutes for photos, longer if you want to climb the hill and picnic in the park.
 faq:
-  - q: "How do I get to the Painted Ladies?"
-    a: "Take the Muni 21-Hayes bus to a stop along Hayes Street near Alamo Square, or walk up from the Lower Haight/Divisadero area in about 15 minutes. Street parking nearby is limited, so transit, rideshare, or walking is easier than driving."
-  - q: "Is there an entrance fee?"
-    a: "No. The houses are private residences viewed from the public sidewalk and park, so there's no ticket or admission — it's free at any time."
-  - q: "What's the best time of day to photograph them?"
-    a: "Late afternoon and early evening, when the light rakes across the house facades from the west; mornings can leave the row slightly backlit."
-  - q: "How long should I plan to spend here?"
-    a: "Most visitors spend 20-30 minutes getting the classic photo and walking the park; allow longer if you want to picnic on the lawn or continue into nearby Hayes Valley."
-  - q: "Can you go inside the houses?"
-    a: "No, they are privately owned homes, not museums, so the visit is entirely about the exterior view from Alamo Square."
+  - q: How do I get to the Painted Ladies?
+    a: Take the Muni 21-Hayes bus to a stop along Hayes Street near Alamo Square, or walk up from the Lower Haight/Divisadero area in about 15 minutes. Street parking nearby is limited, so transit, rideshare, or walking is easier than driving.
+  - q: Is there an entrance fee?
+    a: No. The houses are private residences viewed from the public sidewalk and park, so there's no ticket or admission — it's free at any time.
+  - q: What's the best time of day to photograph them?
+    a: Late afternoon and early evening, when the light rakes across the house facades from the west; mornings can leave the row slightly backlit.
+  - q: How long should I plan to spend here?
+    a: Most visitors spend 20-30 minutes getting the classic photo and walking the park; allow longer if you want to picnic on the lawn or continue into nearby Hayes Valley.
+  - q: Can you go inside the houses?
+    a: No, they are privately owned homes, not museums, so the visit is entirely about the exterior view from Alamo Square.
 aiGenerated: true
 draft: false
 ---

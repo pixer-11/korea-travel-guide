@@ -1,41 +1,41 @@
 ---
-title: "Saint Peter s Basilica: Rome Travel Guide (4.8★)"
-description: "Go right at 7am when the doors open, or after 5pm — the basilica keeps the same 7:00 AM–7:10 PM hours daily, and the crush of tour groups builds fast between 10am and 2pm on weekends. 4.8★ (181,027 reviews) — what visitors say, hours, and tips."
-country: "Italy"
-region: "Rome"
-category: "attraction"
-pubDate: "2026-08-03T10:58:08.603Z"
+title: 'Saint Peter s Basilica: Rome Travel Guide (4.8★)'
+description: Go right at 7am when the doors open, or after 5pm — the basilica keeps the same 7:00 AM–7:10 PM hours daily, and the crush of tour groups builds fast between 10am and 2pm on weekends. 4.8★ (181,027 reviews) — what visitors say, hours, and tips.
+country: Italy
+region: Rome
+category: attraction
+pubDate: '2026-08-03T10:58:08.603Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg/1920px-Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg"
-  credit: "Photo: Alvesgaspar / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg/1920px-Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Alvesgaspar / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Saint_Peter%27s_Basilica%2C_Sant%27Angelo_bridge%2C_by_night%2C_Rome%2C_Italy.jpg/3840px-Saint_Peter%27s_Basilica%2C_Sant%27Angelo_bridge%2C_by_night%2C_Rome%2C_Italy.jpg"
-    credit: "Photo: Jebulon / Wikimedia Commons (CC0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Saint_Peter%27s_Basilica,_Sant%27Angelo_bridge,_by_night,_Rome,_Italy.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Saint_Peter%27s_Basilica%2C_Sant%27Angelo_bridge%2C_by_night%2C_Rome%2C_Italy.jpg/3840px-Saint_Peter%27s_Basilica%2C_Sant%27Angelo_bridge%2C_by_night%2C_Rome%2C_Italy.jpg
+    credit: 'Photo: Jebulon / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Saint_Peter%27s_Basilica,_Sant%27Angelo_bridge,_by_night,_Rome,_Italy.jpg
 place:
-  id: "ChIJWZsUt2FgLxMRg1KHzXfwS3I"
-  name: "Saint Peter’s Basilica"
-  address: "Piazza San Pietro, 00120 Città del Vaticano, Vatican City"
+  id: ChIJWZsUt2FgLxMRg1KHzXfwS3I
+  name: Saint Peter’s Basilica
+  address: Piazza San Pietro, 00120 Città del Vaticano, Vatican City
   rating: 4.8
   userRatingsTotal: 181027
-  googleMapsUrl: "https://maps.google.com/?cid=8235940740917056131&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=8235940740917056131&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.902166699999995
   lng: 12.4539367
-  phone: "+39 06 6988 3462"
+  phone: +39 06 6988 3462
   openingHours:
-    - "Monday: 7:00 AM – 7:10 PM"
-    - "Tuesday: 7:00 AM – 7:10 PM"
-    - "Wednesday: 7:00 AM – 7:10 PM"
-    - "Thursday: 7:00 AM – 7:10 PM"
-    - "Friday: 7:00 AM – 7:10 PM"
-    - "Saturday: 7:00 AM – 7:10 PM"
-    - "Sunday: 7:00 AM – 7:10 PM"
+    - 'Monday: 7:00 AM – 7:10 PM'
+    - 'Tuesday: 7:00 AM – 7:10 PM'
+    - 'Wednesday: 7:00 AM – 7:10 PM'
+    - 'Thursday: 7:00 AM – 7:10 PM'
+    - 'Friday: 7:00 AM – 7:10 PM'
+    - 'Saturday: 7:00 AM – 7:10 PM'
+    - 'Sunday: 7:00 AM – 7:10 PM'
   busyness:
-    updated: 2026-08-03
+    updated: 2026-08-03T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -52,22 +52,22 @@ place:
       - 11
       - 12
       - 13
-    venueId: "ven_4933537766587a484b3167524d784c6746327455735a574a496843"
+    venueId: ven_4933537766587a484b3167524d784c6746327455735a574a496843
 tags:
-  - "rome"
-  - "Vatican Museums and St Peters Basilica"
-quickAnswer: "Go right at 7am when the doors open, or after 5pm — the basilica keeps the same 7:00 AM–7:10 PM hours daily, and the crush of tour groups builds fast between 10am and 2pm on weekends. Entry to the church itself is free, security screening is the real bottleneck, and you should budget 1.5–2 hours for the basilica alone (more if you're climbing the dome)."
+  - rome
+  - Vatican Museums and St Peters Basilica
+quickAnswer: Go right at 7am when the doors open, or after 5pm — the basilica keeps the same 7:00 AM–7:10 PM hours daily, and the crush of tour groups builds fast between 10am and 2pm on weekends. Entry to the church itself is free, security screening is the real bottleneck, and you should budget 1.5–2 hours for the basilica alone (more if you're climbing the dome).
 faq:
-  - q: "How much does it cost to enter Saint Peter's Basilica?"
-    a: "Entry to the basilica itself is free. The dome climb and access to the Vatican Museums/Sistine Chapel are separate paid tickets — confirm current prices at the official Vatican website before you go, as these change periodically."
-  - q: "What's the quietest time to visit?"
-    a: "Right at opening, 7am, on any day of the week tends to be calmest. Avoid 10am–2pm on weekends, when foot traffic peaks with tour groups and day-trippers."
-  - q: "How do I get to Saint Peter's Basilica by public transport?"
-    a: "Take Metro Line A to Ottaviano–San Pietro station, then walk about 10 minutes down Via Ottaviano to the colonnade. Bus lines 40, 62, and 64 also stop nearby."
-  - q: "How long should I plan to spend there?"
-    a: "Budget 1.5–2 hours for the basilica interior alone, including the Pietà, the baldachin, and the Grottoes. Add another hour or more if you're climbing the dome."
-  - q: "Is there a dress code?"
-    a: "Yes, strictly enforced: shoulders and knees must be covered for all visitors, regardless of weather or how far you've traveled to get there."
+  - q: How much does it cost to enter Saint Peter's Basilica?
+    a: Entry to the basilica itself is free. The dome climb and access to the Vatican Museums/Sistine Chapel are separate paid tickets — confirm current prices at the official Vatican website before you go, as these change periodically.
+  - q: What's the quietest time to visit?
+    a: Right at opening, 7am, on any day of the week tends to be calmest. Avoid 10am–2pm on weekends, when foot traffic peaks with tour groups and day-trippers.
+  - q: How do I get to Saint Peter's Basilica by public transport?
+    a: Take Metro Line A to Ottaviano–San Pietro station, then walk about 10 minutes down Via Ottaviano to the colonnade. Bus lines 40, 62, and 64 also stop nearby.
+  - q: How long should I plan to spend there?
+    a: Budget 1.5–2 hours for the basilica interior alone, including the Pietà, the baldachin, and the Grottoes. Add another hour or more if you're climbing the dome.
+  - q: Is there a dress code?
+    a: 'Yes, strictly enforced: shoulders and knees must be covered for all visitors, regardless of weather or how far you''ve traveled to get there.'
 aiGenerated: true
 draft: false
 ---

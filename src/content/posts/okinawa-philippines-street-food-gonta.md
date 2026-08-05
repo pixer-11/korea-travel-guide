@@ -6,7 +6,7 @@ region: Okinawa
 category: restaurant
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/JP_%E6%97%A5%E6%9C%AC_Japan_%E6%B2%96%E7%B9%A9_OKINAWA_Keisatsusho_Street_restaurant_food_January_2025_R12S_06.jpg/1920px-JP_%E6%97%A5%E6%9C%AC_Japan_%E6%B2%96%E7%B9%A9_OKINAWA_Keisatsusho_Street_restaurant_food_January_2025_R12S_06.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/JP_%E6%97%A5%E6%9C%AC_Japan_%E6%B2%96%E7%B9%A9_OKINAWA_Keisatsusho_Street_restaurant_food_January_2025_R12S_06.jpg/1920px-JP_%E6%97%A5%E6%9C%AC_Japan_%E6%B2%96%E7%B9%A9_OKINAWA_Keisatsusho_Street_restaurant_food_January_2025_R12S_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Naha Mama Pavilionz / Wikimedia Commons (CC0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:JP_%E6%97%A5%E6%9C%AC_Japan_%E6%B2%96%E7%B9%A9_OKINAWA_Keisatsusho_Street_restaurant_food_January_2025_R12S_06.jpg

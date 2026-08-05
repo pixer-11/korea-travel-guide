@@ -6,7 +6,7 @@ region: Shanghai
 category: attraction
 pubDate: '2026-08-04T10:03:34.728Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Shanghai_-_Shanghai_Tower_-_0002.jpg/3840px-Shanghai_-_Shanghai_Tower_-_0002.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Shanghai_-_Shanghai_Tower_-_0002.jpg/1920px-Shanghai_-_Shanghai_Tower_-_0002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Stefan Fussan / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Shanghai_-_Shanghai_Tower_-_0002.jpg

@@ -1,37 +1,37 @@
 ---
-title: "Louvre Museum: Paris Travel Guide"
-description: "Go right at opening (9am) on a Wednesday or Friday, when the museum stays open until 9pm and the crowds thin dramatically after the morning rush."
-country: "France"
-region: "Paris"
-category: "attraction"
-pubDate: "2026-08-01T09:40:41.244Z"
+title: 'Louvre Museum: Paris Travel Guide'
+description: Go right at opening (9am) on a Wednesday or Friday, when the museum stays open until 9pm and the crowds thin dramatically after the morning rush.
+country: France
+region: Paris
+category: attraction
+pubDate: '2026-08-01T09:40:41.244Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Louvre_Museum_Wikimedia_Commons.jpg/1920px-Louvre_Museum_Wikimedia_Commons.jpg"
-  credit: "Photo: Benh LIEU SONG (Flickr) / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Louvre_Museum_Wikimedia_Commons.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Louvre_Museum_Wikimedia_Commons.jpg/1920px-Louvre_Museum_Wikimedia_Commons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Benh LIEU SONG (Flickr) / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Louvre_Museum_Wikimedia_Commons.jpg
 gallery: []
 place:
-  id: "ChIJD3uTd9hx5kcR1IQvGfr8dbk"
-  name: "Louvre Museum"
-  address: "75001 Paris, France"
+  id: ChIJD3uTd9hx5kcR1IQvGfr8dbk
+  name: Louvre Museum
+  address: 75001 Paris, France
   rating: 4.7
   userRatingsTotal: 372475
-  googleMapsUrl: "https://maps.google.com/?cid=13363865620386383060&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=13363865620386383060&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 48.8606111
   lng: 2.337644
-  phone: '+33 1 40 20 53 17'
+  phone: +33 1 40 20 53 17
   openingHours:
-    - "Monday: 9:00 AM – 6:00 PM"
-    - "Tuesday: Closed"
-    - "Wednesday: 9:00 AM – 9:00 PM"
-    - "Thursday: 9:00 AM – 6:00 PM"
-    - "Friday: 9:00 AM – 9:00 PM"
-    - "Saturday: 9:00 AM – 6:00 PM"
-    - "Sunday: 9:00 AM – 6:00 PM"
+    - 'Monday: 9:00 AM – 6:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 9:00 AM – 9:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 9:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-08-01
+    updated: 2026-08-01T00:00:00.000Z
     weekdayQuiet:
       - 9
     weekdayBusy:
@@ -40,7 +40,8 @@ place:
       - 14
       - 15
       - 16
-    weekendQuiet: [9]
+    weekendQuiet:
+      - 9
     weekendBusy:
       - 11
       - 12
@@ -49,22 +50,22 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_6b6264387266477651493152636b3578683964547533444a496843"
+    venueId: ven_6b6264387266477651493152636b3578683964547533444a496843
 tags:
-  - "paris"
-  - "Louvre Museum"
-quickAnswer: "Go right at opening (9am) on a Wednesday or Friday, when the museum stays open until 9pm and the crowds thin dramatically after the morning rush. Enter via the Pyramid or, better, the underground Carrousel du Louvre entrance (Métro Palais-Royal–Musée du Louvre, Line 1) to skip the surface queue. Budget half a day if you want to see the highlights properly, a full day if you want to wander."
+  - paris
+  - Louvre Museum
+quickAnswer: Go right at opening (9am) on a Wednesday or Friday, when the museum stays open until 9pm and the crowds thin dramatically after the morning rush. Enter via the Pyramid or, better, the underground Carrousel du Louvre entrance (Métro Palais-Royal–Musée du Louvre, Line 1) to skip the surface queue. Budget half a day if you want to see the highlights properly, a full day if you want to wander.
 faq:
-  - q: "What's the best time to visit the Louvre to avoid crowds?"
-    a: "Arrive right at 9am on a weekday, especially Wednesday or Friday since those days stay open until 9pm. Measured foot traffic shows 9am–10am is the quietest weekday window, while the busiest period to avoid is 11am–6pm on weekends."
-  - q: "How do I get to the Louvre by public transport?"
-    a: "Take Métro Line 1 or Line 7 to Palais-Royal–Musée du Louvre station, which connects directly to the underground Carrousel du Louvre entrance, often faster than queuing at the Pyramid."
-  - q: "Is the Louvre open on Tuesdays?"
-    a: "No, the Louvre is closed every Tuesday. It's open 9am–6pm Monday, Thursday, Saturday and Sunday, and 9am–9pm on Wednesday and Friday."
-  - q: "How much time should I plan for a visit?"
-    a: "Budget at least half a day (3–4 hours) to see key highlights like the Mona Lisa, Winged Victory, and major French paintings without rushing; a full day suits those who want to explore multiple wings."
-  - q: "Should I book tickets in advance?"
-    a: "Yes — timed-entry tickets booked online ahead of time are strongly recommended, as walk-up lines can be long, particularly during peak season and midday hours."
+  - q: What's the best time to visit the Louvre to avoid crowds?
+    a: Arrive right at 9am on a weekday, especially Wednesday or Friday since those days stay open until 9pm. Measured foot traffic shows 9am–10am is the quietest weekday window, while the busiest period to avoid is 11am–6pm on weekends.
+  - q: How do I get to the Louvre by public transport?
+    a: Take Métro Line 1 or Line 7 to Palais-Royal–Musée du Louvre station, which connects directly to the underground Carrousel du Louvre entrance, often faster than queuing at the Pyramid.
+  - q: Is the Louvre open on Tuesdays?
+    a: No, the Louvre is closed every Tuesday. It's open 9am–6pm Monday, Thursday, Saturday and Sunday, and 9am–9pm on Wednesday and Friday.
+  - q: How much time should I plan for a visit?
+    a: Budget at least half a day (3–4 hours) to see key highlights like the Mona Lisa, Winged Victory, and major French paintings without rushing; a full day suits those who want to explore multiple wings.
+  - q: Should I book tickets in advance?
+    a: Yes — timed-entry tickets booked online ahead of time are strongly recommended, as walk-up lines can be long, particularly during peak season and midday hours.
 aiGenerated: true
 draft: false
 ---

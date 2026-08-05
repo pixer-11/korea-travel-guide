@@ -1,13 +1,13 @@
 ---
-title: "1.5 Dakgalbi: Where to Eat in Chuncheon"
+title: '1.5 Dakgalbi: Where to Eat in Chuncheon'
 description: 1.5 Dakgalbi is a well-known dakgalbi restaurant at 77 Human-ro in Chuncheon, the city considered the birthplace of this spicy stir-fried chicken dish.
 country: South Korea
 region: Chuncheon
 category: restaurant
-pubDate: "2026-07-29T10:16:56.020Z"
+pubDate: '2026-07-29T10:16:56.020Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dakgalbi.jpg/1920px-Dakgalbi.jpg
-  credit: "Photo: Nagyman, a flickr user / Wikimedia Commons (CC BY-SA 2.0)"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dakgalbi.jpg/1920px-Dakgalbi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Nagyman, a flickr user / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Dakgalbi.jpg
 gallery: []
@@ -22,22 +22,29 @@ place:
   businessStatus: OPERATIONAL
   lat: 37.8763358
   lng: 127.7530769
-  phone: '+82 33-253-8635'
+  phone: +82 33-253-8635
   openingHours:
-    - "Monday: 11:00 AM – 10:00 PM"
-    - "Tuesday: 11:00 AM – 10:00 PM"
-    - "Wednesday: 11:00 AM – 10:00 PM"
-    - "Thursday: 11:00 AM – 10:00 PM"
-    - "Friday: 11:00 AM – 10:00 PM"
-    - "Saturday: 11:00 AM – 10:00 PM"
-    - "Sunday: 11:00 AM – 10:00 PM"
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
   busyness:
     updated: 2026-07-29T00:00:00.000Z
-    weekdayQuiet: [11, 12, 13, 14, 15, 16]
+    weekdayQuiet:
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
     weekdayBusy:
       - 19
       - 20
-    weekendQuiet: [11]
+    weekendQuiet:
+      - 11
     weekendBusy:
       - 17
       - 18
@@ -59,7 +66,7 @@ faq:
   - q: Do I need a reservation?
     a: No formal reservation system is typical for this kind of restaurant — it's walk-in seating, so expect a short wait during weekend evening peak hours.
   - q: How long should I plan to spend there?
-    a: "Budget at least an hour to 90 minutes: time for the chicken and vegetables to cook and char properly, plus the bokkeumbap fried rice finish most people order afterward."
+    a: 'Budget at least an hour to 90 minutes: time for the chicken and vegetables to cook and char properly, plus the bokkeumbap fried rice finish most people order afterward.'
 aiGenerated: true
 draft: false
 ---

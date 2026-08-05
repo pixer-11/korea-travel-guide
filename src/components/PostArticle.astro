@@ -248,15 +248,22 @@ const graph: Record<string, unknown>[] = [
     author: { '@id': `${site}/#org` },
     publisher: { '@id': `${site}/#org` },
     isPartOf: { '@id': `${site}/#site` },
-    inLanguage: 'en',
+    // Was 'en' on all 2,332 localized article pages — see BaseLayout.
+    inLanguage: localeCodes[lang],
     mainEntityOfPage: pageUrl,
   },
   {
     '@type': 'BreadcrumbList',
+    // Names and URLs both follow the page's own language. They used to be
+    // English throughout — "Home / South Korea / Andong" pointing at /destinations/…
+    // — while the visible trail on the same page read "홈 / 대한민국 / 안동"
+    // linking to /ko/…. A Japanese searcher saw an English breadcrumb in the
+    // SERP, and the schema pulled every localized page into the English tree
+    // (found 2026-08-06).
     itemListElement: [
-      { name: 'Home', item: site + '/' },
-      { name: country, item: `${site}/destinations/${countrySlug}/` },
-      ...(sameRegionCountry ? [] : [{ name: d.region, item: `${site}/regions/${slugifyRegion(d.region)}/` }]),
+      { name: t('post.home'), item: `${site}${localizePath('/', lang)}` },
+      { name: localizePlace(country, lang), item: `${site}${localizePath(`/destinations/${countrySlug}`, lang)}/` },
+      ...(sameRegionCountry ? [] : [{ name: regionLabel, item: `${site}${localizePath(`/regions/${slugifyRegion(d.region)}`, lang)}/` }]),
       { name: title, item: pageUrl },
     ].map((c, i) => ({ '@type': 'ListItem', position: i + 1, name: c.name, item: c.item })),
   },

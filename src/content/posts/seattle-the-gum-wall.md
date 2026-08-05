@@ -1,53 +1,53 @@
 ---
-title: "The Gum Wall: Seattle Travel Guide"
-description: "The Gum Wall is a gum-plastered brick wall in Post Alley, tucked under Pike Place Market, just downhill from the Market Theater."
-country: "United States"
-region: "Seattle"
-category: "attraction"
-pubDate: "2026-07-27T10:57:15.682Z"
+title: 'The Gum Wall: Seattle Travel Guide'
+description: The Gum Wall is a gum-plastered brick wall in Post Alley, tucked under Pike Place Market, just downhill from the Market Theater.
+country: United States
+region: Seattle
+category: attraction
+pubDate: '2026-07-27T10:57:15.682Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gum_wall%2C_Seattle%2C_Washington%2C_Estados_Unidos%2C_2017-09-02%2C_DD_19-21_HDR.jpg/1920px-Gum_wall%2C_Seattle%2C_Washington%2C_Estados_Unidos%2C_2017-09-02%2C_DD_19-21_HDR.jpg"
-  credit: "Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Gum_wall,_Seattle,_Washington,_Estados_Unidos,_2017-09-02,_DD_19-21_HDR.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gum_wall%2C_Seattle%2C_Washington%2C_Estados_Unidos%2C_2017-09-02%2C_DD_19-21_HDR.jpg/1920px-Gum_wall%2C_Seattle%2C_Washington%2C_Estados_Unidos%2C_2017-09-02%2C_DD_19-21_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Gum_wall,_Seattle,_Washington,_Estados_Unidos,_2017-09-02,_DD_19-21_HDR.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Gum_Wall%2C_Pike_Place_Market%2C_Seattle_%282014%29_-_1.JPG/1920px-Gum_Wall%2C_Pike_Place_Market%2C_Seattle_%282014%29_-_1.JPG
     credit: 'Photo: Another Believer / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Gum_Wall,_Pike_Place_Market,_Seattle_(2014)_-_1.JPG
 place:
-  id: "ChIJaYxSWbJqkFQRIx56JsKqNCA"
-  name: "The Gum Wall"
-  address: "1428 Post Alley, Seattle, WA 98101, USA"
+  id: ChIJaYxSWbJqkFQRIx56JsKqNCA
+  name: The Gum Wall
+  address: 1428 Post Alley, Seattle, WA 98101, USA
   rating: 4.2
   userRatingsTotal: 13749
-  googleMapsUrl: "https://maps.google.com/?cid=2320667458848562723&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=2320667458848562723&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 47.6083607
   lng: -122.34033819999998
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "seattle"
-  - "top attraction"
-quickAnswer: "The Gum Wall is a gum-plastered brick wall in Post Alley, tucked under Pike Place Market, just downhill from the Market Theater. It's free, takes about 10-15 minutes to see, and is best visited right at opening (around 9am) before the tour groups and cruise-ship crowds arrive. Bring your own gum if you want to add to it, and expect a strong, sweet, slightly sour smell up close."
+  - seattle
+  - top attraction
+quickAnswer: The Gum Wall is a gum-plastered brick wall in Post Alley, tucked under Pike Place Market, just downhill from the Market Theater. It's free, takes about 10-15 minutes to see, and is best visited right at opening (around 9am) before the tour groups and cruise-ship crowds arrive. Bring your own gum if you want to add to it, and expect a strong, sweet, slightly sour smell up close.
 faq:
-  - q: "Is the Gum Wall free to visit?"
-    a: "Yes, it's an open public alley with no admission fee — you can walk up and see it anytime the market area is accessible."
-  - q: "How long should I spend there?"
-    a: "Most visitors spend 10-15 minutes; it's a quick photo-and-gum stop rather than a lingering attraction."
-  - q: "What's the quietest time to visit?"
-    a: "Right at Pike Place Market's opening in the morning, before tour groups and cruise-ship crowds arrive later in the day; weekday mornings are calmer than any weekend."
-  - q: "How do I get to the Gum Wall from downtown Seattle?"
-    a: "Walk to Pike Place Market via Pike Street or First Avenue, then head down toward the Market Theater entrance to find Post Alley; it's about a 10-minute walk from Westlake Station."
-  - q: "What else is nearby?"
-    a: "The original Starbucks store, Pike Place Fish Market, Victor Steinbrueck Park, and the Elliott Bay waterfront are all within a few minutes' walk."
+  - q: Is the Gum Wall free to visit?
+    a: Yes, it's an open public alley with no admission fee — you can walk up and see it anytime the market area is accessible.
+  - q: How long should I spend there?
+    a: Most visitors spend 10-15 minutes; it's a quick photo-and-gum stop rather than a lingering attraction.
+  - q: What's the quietest time to visit?
+    a: Right at Pike Place Market's opening in the morning, before tour groups and cruise-ship crowds arrive later in the day; weekday mornings are calmer than any weekend.
+  - q: How do I get to the Gum Wall from downtown Seattle?
+    a: Walk to Pike Place Market via Pike Street or First Avenue, then head down toward the Market Theater entrance to find Post Alley; it's about a 10-minute walk from Westlake Station.
+  - q: What else is nearby?
+    a: The original Starbucks store, Pike Place Fish Market, Victor Steinbrueck Park, and the Elliott Bay waterfront are all within a few minutes' walk.
 aiGenerated: true
 draft: false
 ---

@@ -6,12 +6,10 @@ region: Jakarta
 category: attraction
 pubDate: '2026-07-22T09:43:50.336Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Teater_Tanah_Airku%2C_Taman_Mini_Indonesia_Indah_%282023%29.jpg/1920px-Teater_Tanah_Airku%2C_Taman_Mini_Indonesia_Indah_%282023%29.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Teater_Tanah_Airku%2C_Taman_Mini_Indonesia_Indah_%282023%29.jpg/1920px-Teater_Tanah_Airku%2C_Taman_Mini_Indonesia_Indah_%282023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: RasyaAbhirama13 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Teater_Tanah_Airku,_Taman_Mini_Indonesia_Indah_(2023).jpg
+  source: https://commons.wikimedia.org/wiki/File:Teater_Tanah_Airku,_Taman_Mini_Indonesia_Indah_(2023).jpg
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/1223595_wCiv7n5LuiwS92I7qu6fw48IwVa_VduJDxbITvFWbAA.jpg
     credit: 'Photo: Foursquare user content (Taman Mini Indonesia Indah (TMII))'
@@ -20,20 +18,21 @@ gallery:
 place:
   id: ChIJYaJ20FDtaS4RDNry7LknMQc
   name: Taman Mini Indonesia Indah
-  address: >-
-    Jl. Taman Mini Indonesia Indah, Ceger, Kec. Cipayung, Kota Jakarta Timur,
-    Daerah Khusus Ibukota Jakarta 13820, Indonesia
+  address: Jl. Taman Mini Indonesia Indah, Ceger, Kec. Cipayung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13820, Indonesia
   rating: 4.6
   userRatingsTotal: 174577
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=518239111622089228&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=518239111622089228&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: -6.3044926
   lng: 106.88933879999999
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [7, 8, 9]
-    weekendQuiet: [7]
+    weekdayQuiet:
+      - 7
+      - 8
+      - 9
+    weekendQuiet:
+      - 7
     weekendBusy:
       - 11
       - 12
@@ -45,7 +44,7 @@ place:
       - 18
       - 19
     venueId: ven_63514d6e6b4c3779724e445234536174444630324a61594a496843
-  phone: '+62 811-8882-0220'
+  phone: +62 811-8882-0220
   openingHours:
     - 'Monday: 6:00 AM – 8:00 PM'
     - 'Tuesday: 6:00 AM – 8:00 PM'
@@ -57,40 +56,18 @@ place:
 tags:
   - jakarta
   - top attraction
-quickAnswer: >-
-  Taman Mini Indonesia Indah (TMII) is a sprawling culture park in East Jakarta
-  where all 34 Indonesian provinces are represented by full-scale traditional
-  houses, plus museums, gardens, a cable car and an IMAX-style theater. Budget
-  at least half a day — a full day if you want to ride the cable car and visit
-  two or three museums — and go on a weekday to avoid the crowds that pack the
-  park on weekends and public holidays.
+quickAnswer: Taman Mini Indonesia Indah (TMII) is a sprawling culture park in East Jakarta where all 34 Indonesian provinces are represented by full-scale traditional houses, plus museums, gardens, a cable car and an IMAX-style theater. Budget at least half a day — a full day if you want to ride the cable car and visit two or three museums — and go on a weekday to avoid the crowds that pack the park on weekends and public holidays.
 faq:
   - q: How do I get to Taman Mini Indonesia Indah without a car?
-    a: >-
-      Take Transjakarta to the TMII terminal/drop-off from hubs like Kampung
-      Rambutan or Cawang (about 45–60 minutes from central Jakarta), or use
-      Gojek/Grab directly to the gate.
+    a: Take Transjakarta to the TMII terminal/drop-off from hubs like Kampung Rambutan or Cawang (about 45–60 minutes from central Jakarta), or use Gojek/Grab directly to the gate.
   - q: How much time should I budget for a visit?
-    a: >-
-      At least 4–5 hours for the provincial pavilions, the lake, and one or two
-      museums; a full day if you also want the cable car, Bird Park, Snow Bay,
-      or an IMAX screening.
+    a: At least 4–5 hours for the provincial pavilions, the lake, and one or two museums; a full day if you also want the cable car, Bird Park, Snow Bay, or an IMAX screening.
   - q: Is there an entrance fee?
-    a: >-
-      Yes, the park charges general admission, and individual attractions like
-      the cable car, museums, and Snow Bay have separate fees. Prices change
-      periodically, so check current rates at the entrance or official channels
-      before visiting.
+    a: Yes, the park charges general admission, and individual attractions like the cable car, museums, and Snow Bay have separate fees. Prices change periodically, so check current rates at the entrance or official channels before visiting.
   - q: When is the best time to visit to avoid crowds?
-    a: >-
-      Weekday mornings are quietest. Weekends, school holidays, and national
-      holidays like Independence Day in August draw large crowds and heavier
-      traffic on approach roads.
+    a: Weekday mornings are quietest. Weekends, school holidays, and national holidays like Independence Day in August draw large crowds and heavier traffic on approach roads.
   - q: What shouldn't I miss inside the park?
-    a: >-
-      The Anjungan Daerah traditional houses, the Skylift cable car over the
-      archipelago-shaped lake, Museum Indonesia, and the Keong Emas IMAX Theatre
-      are the standout highlights.
+    a: The Anjungan Daerah traditional houses, the Skylift cable car over the archipelago-shaped lake, Museum Indonesia, and the Keong Emas IMAX Theatre are the standout highlights.
 aiGenerated: true
 draft: false
 updatedDate: '2026-07-24'

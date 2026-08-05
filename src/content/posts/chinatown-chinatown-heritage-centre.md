@@ -6,7 +6,7 @@ region: Chinatown
 category: attraction
 pubDate: '2026-07-23T07:30:57.548Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Chinatown_Heritage_Centre%2C_Singapore.jpg/3840px-Chinatown_Heritage_Centre%2C_Singapore.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Chinatown_Heritage_Centre%2C_Singapore.jpg/1920px-Chinatown_Heritage_Centre%2C_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Ralff Nestor Nacor / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Chinatown_Heritage_Centre,_Singapore.jpg
@@ -27,8 +27,13 @@ place:
   lng: 103.8442036
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [10, 11]
-    weekendQuiet: [10, 11, 19]
+    weekdayQuiet:
+      - 10
+      - 11
+    weekendQuiet:
+      - 10
+      - 11
+      - 19
     weekendBusy:
       - 14
       - 15

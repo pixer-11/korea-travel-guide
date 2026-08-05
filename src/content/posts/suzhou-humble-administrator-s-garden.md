@@ -1,46 +1,46 @@
 ---
-title: "Humble Administrator's Garden: Suzhou Travel Guide"
+title: 'Humble Administrator''s Garden: Suzhou Travel Guide'
 description: The Humble Administrator's Garden (拙政园, Zhuozheng Yuan) at 178 Dong Bei Jie in Suzhou's old city is China's largest classical garden and a UNESCO-listed masterpiece of Ming-dynasty landscape design.
-country: "China"
-region: "Suzhou"
-category: "hidden-gem"
-pubDate: "2026-08-01T09:45:37.935Z"
+country: China
+region: Suzhou
+category: hidden-gem
+pubDate: '2026-08-01T09:45:37.935Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Suzhou_Zhuozheng_Yuan_2015.04.23_08-13-49.jpg/1920px-Suzhou_Zhuozheng_Yuan_2015.04.23_08-13-49.jpg"
-  credit: "Photo: Zhangzhugang / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Suzhou_Zhuozheng_Yuan_2015.04.23_08-13-49.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Suzhou_Zhuozheng_Yuan_2015.04.23_08-13-49.jpg/1920px-Suzhou_Zhuozheng_Yuan_2015.04.23_08-13-49.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Zhangzhugang / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Suzhou_Zhuozheng_Yuan_2015.04.23_08-13-49.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Humble_Administrator%27s_Garden_Suzhou_November_2017_005.jpg/3840px-Humble_Administrator%27s_Garden_Suzhou_November_2017_005.jpg"
-    credit: "Photo: King of Hearts / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Humble_Administrator%27s_Garden_Suzhou_November_2017_005.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Humble_Administrator%27s_Garden_Suzhou_November_2017_005.jpg/3840px-Humble_Administrator%27s_Garden_Suzhou_November_2017_005.jpg
+    credit: 'Photo: King of Hearts / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Humble_Administrator%27s_Garden_Suzhou_November_2017_005.jpg
 place:
-  id: "ChIJ95Kf4M-mszUREZWApzl39cg"
-  name: "Humble Administrator's Garden"
-  address: "178 Dong Bei Jie, Gu Su Qu, Su Zhou Shi, Jiang Su Sheng, China, 215001"
+  id: ChIJ95Kf4M-mszUREZWApzl39cg
+  name: Humble Administrator's Garden
+  address: 178 Dong Bei Jie, Gu Su Qu, Su Zhou Shi, Jiang Su Sheng, China, 215001
   rating: 4.4
   userRatingsTotal: 2975
-  googleMapsUrl: "https://maps.google.com/?cid=14480611266386760977&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=14480611266386760977&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 31.324223999999997
   lng: 120.62997000000001
-  phone: '+86 512 6751 0286'
+  phone: +86 512 6751 0286
 tags:
-  - "suzhou"
-  - "hidden gem"
-quickAnswer: "The Humble Administrator's Garden (拙政园, Zhuozheng Yuan) at 178 Dong Bei Jie in Suzhou's old city is China's largest classical garden and a UNESCO-listed masterpiece of Ming-dynasty landscape design. Give yourself two to three hours, arrive right at opening to beat the tour groups, and focus on the Central Area, where the garden's best pavilions and lotus ponds are concentrated. Pair it with the neighboring Suzhou Museum and Lion Grove Garden for a full morning in the old city."
+  - suzhou
+  - hidden gem
+quickAnswer: The Humble Administrator's Garden (拙政园, Zhuozheng Yuan) at 178 Dong Bei Jie in Suzhou's old city is China's largest classical garden and a UNESCO-listed masterpiece of Ming-dynasty landscape design. Give yourself two to three hours, arrive right at opening to beat the tour groups, and focus on the Central Area, where the garden's best pavilions and lotus ponds are concentrated. Pair it with the neighboring Suzhou Museum and Lion Grove Garden for a full morning in the old city.
 faq:
-  - q: "How do I get to the Humble Administrator's Garden from central Suzhou?"
-    a: "Take Metro Line 4 to Beisita Station, then walk about 15–20 minutes north, or take a taxi/ride-hail directly to the East Gate entrance at 178 Dong Bei Jie."
-  - q: "How long should I spend there?"
-    a: "Plan on two to three hours to see the Central and West Areas properly; under an hour only allows a rushed pass through the main highlights."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Arrive right at opening in the morning, before domestic tour groups arrive; weekdays are calmer than weekends, and winter is the quietest season overall."
-  - q: "What's the best time of year to see it in bloom?"
-    a: "Lotus flowers fill the central ponds from June through August; spring (April–May) and autumn (October–November) offer milder weather and good light."
-  - q: "What else can I combine it with nearby?"
-    a: "The Suzhou Museum (designed by I.M. Pei), the Suzhou Silk Museum, and Lion Grove Garden are all within easy walking distance, and Pingjiang Road's canal lanes are close by for afterward."
+  - q: How do I get to the Humble Administrator's Garden from central Suzhou?
+    a: Take Metro Line 4 to Beisita Station, then walk about 15–20 minutes north, or take a taxi/ride-hail directly to the East Gate entrance at 178 Dong Bei Jie.
+  - q: How long should I spend there?
+    a: Plan on two to three hours to see the Central and West Areas properly; under an hour only allows a rushed pass through the main highlights.
+  - q: When is the best time to visit to avoid crowds?
+    a: Arrive right at opening in the morning, before domestic tour groups arrive; weekdays are calmer than weekends, and winter is the quietest season overall.
+  - q: What's the best time of year to see it in bloom?
+    a: Lotus flowers fill the central ponds from June through August; spring (April–May) and autumn (October–November) offer milder weather and good light.
+  - q: What else can I combine it with nearby?
+    a: The Suzhou Museum (designed by I.M. Pei), the Suzhou Silk Museum, and Lion Grove Garden are all within easy walking distance, and Pingjiang Road's canal lanes are close by for afterward.
 aiGenerated: true
 draft: false
 ---

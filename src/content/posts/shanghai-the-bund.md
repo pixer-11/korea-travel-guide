@@ -1,45 +1,45 @@
 ---
-title: "The Bund: Shanghai Travel Guide"
+title: 'The Bund: Shanghai Travel Guide'
 description: The Bund is Shanghai's 1,500-meter riverside promenade along Zhongshan Dong Yi Road in Huangpu District, lined with 1920s–30s colonial-era buildings on one side and facing the futuristic Pudong skyline (Oriental Pearl Tower, Jin Mao Tower, Shanghai Tower) across the Huangpu River.
-country: "China"
-region: "Shanghai"
-category: "attraction"
-pubDate: 2026-07-21
+country: China
+region: Shanghai
+category: attraction
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Blue_hour_view_of_the_Bund_from_the_Shanghai_World_Financial_Center_dllu.jpg/1920px-Blue_hour_view_of_the_Bund_from_the_Shanghai_World_Financial_Center_dllu.jpg"
-  credit: "Photo: Dllu / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Blue_hour_view_of_the_Bund_from_the_Shanghai_World_Financial_Center_dllu.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Blue_hour_view_of_the_Bund_from_the_Shanghai_World_Financial_Center_dllu.jpg/1920px-Blue_hour_view_of_the_Bund_from_the_Shanghai_World_Financial_Center_dllu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Dllu / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Blue_hour_view_of_the_Bund_from_the_Shanghai_World_Financial_Center_dllu.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Shanghai_Bund-20150516-RM-173803.jpg/1920px-Shanghai_Bund-20150516-RM-173803.jpg
     credit: 'Photo: Ermell / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Shanghai_Bund-20150516-RM-173803.jpg
 place:
-  id: "ChIJYUiHi1dwsjURZK_REO37Vk0"
-  name: "The Bund"
-  address: "Zhong Shan Dong Yi Lu, Waitan, Huang Pu Qu, Shang Hai Shi, China, 200002"
+  id: ChIJYUiHi1dwsjURZK_REO37Vk0
+  name: The Bund
+  address: Zhong Shan Dong Yi Lu, Waitan, Huang Pu Qu, Shang Hai Shi, China, 200002
   rating: 4.7
   userRatingsTotal: 7569
-  googleMapsUrl: "https://maps.google.com/?cid=5572918584525565796&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=5572918584525565796&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 31.240261099999998
   lng: 121.49057699999999
 tags:
-  - "shanghai"
-  - "The Bund"
-quickAnswer: "The Bund is Shanghai's 1,500-meter riverside promenade along Zhongshan Dong Yi Road in Huangpu District, lined with 1920s–30s colonial-era buildings on one side and facing the futuristic Pudong skyline (Oriental Pearl Tower, Jin Mao Tower, Shanghai Tower) across the Huangpu River. Go at dusk to see both sides lit up, and budget 1–2 hours for the walk plus photos. It's free, open 24 hours, and best reached via East Nanjing Road (Line 2/10) or Nanjing East Road exits toward the river."
+  - shanghai
+  - The Bund
+quickAnswer: The Bund is Shanghai's 1,500-meter riverside promenade along Zhongshan Dong Yi Road in Huangpu District, lined with 1920s–30s colonial-era buildings on one side and facing the futuristic Pudong skyline (Oriental Pearl Tower, Jin Mao Tower, Shanghai Tower) across the Huangpu River. Go at dusk to see both sides lit up, and budget 1–2 hours for the walk plus photos. It's free, open 24 hours, and best reached via East Nanjing Road (Line 2/10) or Nanjing East Road exits toward the river.
 faq:
-  - q: "Is there an entrance fee for the Bund?"
-    a: "No — it's a free, open public promenade accessible 24 hours a day. Only side attractions like the Bund Sightseeing Tunnel or river cruises charge separately."
-  - q: "What's the nearest metro station?"
-    a: "East Nanjing Road Station on Metro Lines 2 and 10, then a 10–15 minute walk east along Nanjing Road toward the river."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors spend 1–2 hours walking the full 1,500-meter promenade and taking photos; add extra time if combining with a river cruise or a rooftop bar visit at the Peace Hotel."
-  - q: "What's the best time of day to visit?"
-    a: "Just before and after sunset, when the colonial buildings and Pudong's skyline are both illuminated; early morning is the quietest alternative."
-  - q: "What else is nearby?"
-    a: "Nanjing Road Pedestrian Street connects directly to the Bund, and Yuyuan Garden and the Old City God Temple area are a short taxi ride to the south."
+  - q: Is there an entrance fee for the Bund?
+    a: No — it's a free, open public promenade accessible 24 hours a day. Only side attractions like the Bund Sightseeing Tunnel or river cruises charge separately.
+  - q: What's the nearest metro station?
+    a: East Nanjing Road Station on Metro Lines 2 and 10, then a 10–15 minute walk east along Nanjing Road toward the river.
+  - q: How long should I plan to spend there?
+    a: Most visitors spend 1–2 hours walking the full 1,500-meter promenade and taking photos; add extra time if combining with a river cruise or a rooftop bar visit at the Peace Hotel.
+  - q: What's the best time of day to visit?
+    a: Just before and after sunset, when the colonial buildings and Pudong's skyline are both illuminated; early morning is the quietest alternative.
+  - q: What else is nearby?
+    a: Nanjing Road Pedestrian Street connects directly to the Bund, and Yuyuan Garden and the Old City God Temple area are a short taxi ride to the south.
 aiGenerated: true
 draft: false
 ---

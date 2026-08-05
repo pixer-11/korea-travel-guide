@@ -6,12 +6,10 @@ region: Ayutthaya
 category: attraction
 pubDate: '2026-07-22T09:08:24.519Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Templo_Mahathat%2C_Ayutthaya%2C_Tailandia%2C_2013-08-23%2C_DD_06.jpg/1920px-Templo_Mahathat%2C_Ayutthaya%2C_Tailandia%2C_2013-08-23%2C_DD_06.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Templo_Mahathat%2C_Ayutthaya%2C_Tailandia%2C_2013-08-23%2C_DD_06.jpg/1920px-Templo_Mahathat%2C_Ayutthaya%2C_Tailandia%2C_2013-08-23%2C_DD_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Templo_Mahathat,_Ayutthaya,_Tailandia,_2013-08-23,_DD_06.jpg
+  source: https://commons.wikimedia.org/wiki/File:Templo_Mahathat,_Ayutthaya,_Tailandia,_2013-08-23,_DD_06.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Templo_Mahathat%2C_Ayutthaya%2C_Tailandia%2C_2013-08-23%2C_DD_16.jpg/1920px-Templo_Mahathat%2C_Ayutthaya%2C_Tailandia%2C_2013-08-23%2C_DD_16.jpg
     credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)'
@@ -20,24 +18,30 @@ gallery:
 place:
   id: ChIJ-UkaTEl04jAR2QgEGFAM1dU
   name: Wat Mahathat
-  address: >-
-    Soi Chikun, Tambon Pratuchai, Amphoe Phra Nakhon Si Ayutthaya, Chang Wat
-    Phra Nakhon Si Ayutthaya 13000, Thailand
+  address: Soi Chikun, Tambon Pratuchai, Amphoe Phra Nakhon Si Ayutthaya, Chang Wat Phra Nakhon Si Ayutthaya 13000, Thailand
   rating: 4.7
   userRatingsTotal: 25729
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=15408235238257854681&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=15408235238257854681&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 14.3569443
   lng: 100.5675112
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [8, 9]
+    weekdayQuiet:
+      - 8
+      - 9
     weekendQuiet:
       - 8
-    weekendBusy: [11, 12, 13, 14, 15, 16, 17]
+    weekendBusy:
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
     venueId: ven_5564314d4146474567513252416a34306c4554616b552d4a496843
-  phone: '+66 35 242 286'
+  phone: +66 35 242 286
   openingHours:
     - 'Monday: 8:00 AM – 6:30 PM'
     - 'Tuesday: 8:00 AM – 6:30 PM'
@@ -49,37 +53,18 @@ place:
 tags:
   - ayutthaya
   - top attraction
-quickAnswer: >-
-  Wat Mahathat, in the heart of Ayutthaya's historic island, is famous for the
-  sandstone Buddha head cradled in tree roots near the temple's east side —
-  arguably the single most photographed sight in the city. Go early (before 8am)
-  or late afternoon to beat both heat and crowds, and budget 45–60 minutes to
-  walk the ruined prangs and monastery platforms. It's a short walk or tuk-tuk
-  ride from most guesthouses on Soi Chao Phrom.
+quickAnswer: Wat Mahathat, in the heart of Ayutthaya's historic island, is famous for the sandstone Buddha head cradled in tree roots near the temple's east side — arguably the single most photographed sight in the city. Go early (before 8am) or late afternoon to beat both heat and crowds, and budget 45–60 minutes to walk the ruined prangs and monastery platforms. It's a short walk or tuk-tuk ride from most guesthouses on Soi Chao Phrom.
 faq:
   - q: How do I get to Wat Mahathat from Bangkok?
-    a: >-
-      Take a train or minivan from Bangkok to Ayutthaya (about 1.5–2 hours),
-      then a short tuk-tuk ride or bicycle to Soi Chikun on the historic island
-      where the temple sits.
+    a: Take a train or minivan from Bangkok to Ayutthaya (about 1.5–2 hours), then a short tuk-tuk ride or bicycle to Soi Chikun on the historic island where the temple sits.
   - q: How much time should I budget?
-    a: >-
-      45 minutes to an hour is enough to see the tree-root Buddha head, the
-      central prang, and the rows of headless statues at a relaxed pace.
+    a: 45 minutes to an hour is enough to see the tree-root Buddha head, the central prang, and the rows of headless statues at a relaxed pace.
   - q: Is there an entrance fee?
-    a: >-
-      Yes, a small admission fee applies, sometimes combined with tickets to
-      other Ayutthaya historical park sites — check current prices locally since
-      they change periodically.
+    a: Yes, a small admission fee applies, sometimes combined with tickets to other Ayutthaya historical park sites — check current prices locally since they change periodically.
   - q: What's the best time of day to visit?
-    a: >-
-      Early morning (before 8am) or after 3:30pm avoids both the heat and the
-      large tour groups that arrive around midday.
+    a: Early morning (before 8am) or after 3:30pm avoids both the heat and the large tour groups that arrive around midday.
   - q: What else is nearby?
-    a: >-
-      Wat Ratchaburana sits directly across the street, and Wat Phra Si Sanphet
-      with its three famous chedis is only a few minutes away — both are easily
-      combined in one visit.
+    a: Wat Ratchaburana sits directly across the street, and Wat Phra Si Sanphet with its three famous chedis is only a few minutes away — both are easily combined in one visit.
 aiGenerated: true
 draft: false
 updatedDate: '2026-07-24'

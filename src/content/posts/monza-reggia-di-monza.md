@@ -1,58 +1,66 @@
 ---
-title: "Reggia di: Monza Travel Guide"
+title: 'Reggia di: Monza Travel Guide'
 description: The Reggia di Monza is a vast neoclassical royal palace just north of Milan, open Wednesday–Friday 2:30–7:30pm and weekends (Saturday 10:30am–6:30pm, Sunday 10am–6:30pm), closed Monday and Tuesday.
-country: "Italy"
-region: "Monza"
-category: "hidden-gem"
-pubDate: "2026-07-31T10:13:52.884Z"
+country: Italy
+region: Monza
+category: hidden-gem
+pubDate: '2026-07-31T10:13:52.884Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Reggia_di_Monza.jpg/3840px-Reggia_di_Monza.jpg"
-  credit: "Photo: Diego Bonacina / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Reggia_di_Monza.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Reggia_di_Monza.jpg/1920px-Reggia_di_Monza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Diego Bonacina / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Reggia_di_Monza.jpg
 gallery: []
 place:
-  id: "ChIJC-0J2He5hkcR_d3gu0Sx5j0"
-  name: "Reggia di Monza"
-  address: "Viale Brianza, 1, 20900 Monza MB, Italy"
+  id: ChIJC-0J2He5hkcR_d3gu0Sx5j0
+  name: Reggia di Monza
+  address: Viale Brianza, 1, 20900 Monza MB, Italy
   rating: 4.6
   userRatingsTotal: 7480
-  googleMapsUrl: "https://maps.google.com/?cid=4460447389725023741&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=4460447389725023741&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.5934642
   lng: 9.274625799999999
-  phone: '+39 039 394641'
+  phone: +39 039 394641
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: Closed"
-    - "Wednesday: 2:30 – 7:30 PM"
-    - "Thursday: 2:30 – 7:30 PM"
-    - "Friday: 2:30 – 7:30 PM"
-    - "Saturday: 10:30 AM – 6:30 PM"
-    - "Sunday: 10:00 AM – 6:30 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 2:30 – 7:30 PM'
+    - 'Thursday: 2:30 – 7:30 PM'
+    - 'Friday: 2:30 – 7:30 PM'
+    - 'Saturday: 10:30 AM – 6:30 PM'
+    - 'Sunday: 10:00 AM – 6:30 PM'
   busyness:
-    updated: 2026-07-31
+    updated: 2026-07-31T00:00:00.000Z
     weekdayQuiet: []
     weekdayBusy:
       - 14
     weekendQuiet: []
-    weekendBusy: [10, 11, 12, 13, 14, 15, 16, 17]
-    venueId: "ven_306a35785330756733645f52636b68356548324a302d434a496843"
+    weekendBusy:
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+    venueId: ven_306a35785330756733645f52636b68356548324a302d434a496843
 tags:
-  - "monza"
-  - "hidden gem"
-quickAnswer: "The Reggia di Monza is a vast neoclassical royal palace just north of Milan, open Wednesday–Friday 2:30–7:30pm and weekends (Saturday 10:30am–6:30pm, Sunday 10am–6:30pm), closed Monday and Tuesday. It's a well-visited landmark rather than a secret, so arrive right at opening on a weekday afternoon or early on Sunday to get ahead of the crowds, which build steadily from 10am to 7pm on weekends. Budget two to three hours for the royal apartments and at least another hour wandering the surrounding park."
+  - monza
+  - hidden gem
+quickAnswer: The Reggia di Monza is a vast neoclassical royal palace just north of Milan, open Wednesday–Friday 2:30–7:30pm and weekends (Saturday 10:30am–6:30pm, Sunday 10am–6:30pm), closed Monday and Tuesday. It's a well-visited landmark rather than a secret, so arrive right at opening on a weekday afternoon or early on Sunday to get ahead of the crowds, which build steadily from 10am to 7pm on weekends. Budget two to three hours for the royal apartments and at least another hour wandering the surrounding park.
 faq:
-  - q: "What are the opening hours of the Reggia di Monza?"
-    a: "It's closed Monday and Tuesday. Wednesday–Friday it opens only in the afternoon, 2:30–7:30pm. Saturday it opens 10:30am–6:30pm and Sunday 10am–6:30pm. Always confirm on the official site before visiting, as museum schedules can shift seasonally."
-  - q: "How long should I plan to spend there?"
-    a: "Allow at least two to three hours for the royal apartments and chapel, plus another hour or more if you want to walk the formal gardens and the wider park."
-  - q: "When is the best time to avoid crowds?"
-    a: "Weekday afternoons (Wednesday–Friday) are generally calmer. On weekends, crowds build steadily from around 10am through 7pm, so arriving right at opening — 10:30am Saturday or 10am Sunday — is your best bet."
-  - q: "How do I get to the Reggia di Monza from Milan?"
-    a: "Take a train from Milano Centrale or Porta Garibaldi to Monza station (about 20–30 minutes), then walk roughly 15–20 minutes north to Viale Brianza, or take a short taxi ride."
-  - q: "Is the Reggia di Monza connected to the Grand Prix racetrack?"
-    a: "Yes — the palace's park, the Parco di Monza, adjoins the Autodromo Nazionale Monza, home of the Italian Grand Prix, making it an easy combined visit for motorsport fans."
+  - q: What are the opening hours of the Reggia di Monza?
+    a: It's closed Monday and Tuesday. Wednesday–Friday it opens only in the afternoon, 2:30–7:30pm. Saturday it opens 10:30am–6:30pm and Sunday 10am–6:30pm. Always confirm on the official site before visiting, as museum schedules can shift seasonally.
+  - q: How long should I plan to spend there?
+    a: Allow at least two to three hours for the royal apartments and chapel, plus another hour or more if you want to walk the formal gardens and the wider park.
+  - q: When is the best time to avoid crowds?
+    a: Weekday afternoons (Wednesday–Friday) are generally calmer. On weekends, crowds build steadily from around 10am through 7pm, so arriving right at opening — 10:30am Saturday or 10am Sunday — is your best bet.
+  - q: How do I get to the Reggia di Monza from Milan?
+    a: Take a train from Milano Centrale or Porta Garibaldi to Monza station (about 20–30 minutes), then walk roughly 15–20 minutes north to Viale Brianza, or take a short taxi ride.
+  - q: Is the Reggia di Monza connected to the Grand Prix racetrack?
+    a: Yes — the palace's park, the Parco di Monza, adjoins the Autodromo Nazionale Monza, home of the Italian Grand Prix, making it an easy combined visit for motorsport fans.
 aiGenerated: true
 draft: false
 ---

@@ -2,11 +2,11 @@
 title: Cheongsapo in Busan
 description: Cheongsapo is a small fishing village on Busan's east coast, tucked between Haeundae and Songjeong, best known for its red-and-white striped lighthouse (Daritdol Observatory) and raw seafood stalls (mulhoe, sea squirt, sea urchin).
 region: Busan
-country: "South Korea"
+country: South Korea
 category: trendy
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Cheongsapo.jpg/1920px-Cheongsapo.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Cheongsapo.jpg/1920px-Cheongsapo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Andrewssi2 / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Cheongsapo.jpg

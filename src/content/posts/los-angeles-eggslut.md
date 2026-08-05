@@ -6,7 +6,7 @@ region: Los Angeles
 category: restaurant
 pubDate: '2026-08-04T10:09:54.984Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Eggslut%2C_Suntec_City_Mall%2C_Singapore.jpg/1920px-Eggslut%2C_Suntec_City_Mall%2C_Singapore.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Eggslut%2C_Suntec_City_Mall%2C_Singapore.jpg/1920px-Eggslut%2C_Suntec_City_Mall%2C_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Daniel Case / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Eggslut,_Suntec_City_Mall,_Singapore.jpg

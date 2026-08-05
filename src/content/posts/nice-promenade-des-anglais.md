@@ -1,44 +1,44 @@
 ---
-title: "Promenade des Anglais: Nice Travel Guide"
+title: 'Promenade des Anglais: Nice Travel Guide'
 description: The Promenade des Anglais is Nice's iconic 7-km palm-lined seafront walkway stretching from the airport area to the Old Town, best experienced on foot or by rental bike in the early morning or at sunset.
-country: "France"
-region: "Nice"
-category: "attraction"
-pubDate: 2026-07-21
+country: France
+region: Nice
+category: attraction
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Promenade_des_Anglais_%28Nice%29%2C_plage.jpg/1920px-Promenade_des_Anglais_%28Nice%29%2C_plage.jpg"
-  credit: "Photo: Uhooep / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Promenade_des_Anglais_(Nice),_plage.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Promenade_des_Anglais_%28Nice%29%2C_plage.jpg/1920px-Promenade_des_Anglais_%28Nice%29%2C_plage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Uhooep / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Promenade_des_Anglais_(Nice),_plage.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Promenade_des_Anglais_%28Nice%29%2C_France.jpg/1920px-Promenade_des_Anglais_%28Nice%29%2C_France.jpg
     credit: 'Photo: Uhooep / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Promenade_des_Anglais_(Nice),_France.jpg
 place:
-  id: "ChIJ0VoczFnQzRIR737WTal1fso"
-  name: "Promenade des Anglais"
-  address: "Prom. des Anglais, Nice, France"
+  id: ChIJ0VoczFnQzRIR737WTal1fso
+  name: Promenade des Anglais
+  address: Prom. des Anglais, Nice, France
   rating: 4.7
   userRatingsTotal: 2513
-  googleMapsUrl: "https://maps.google.com/?cid=14591229212742811375&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  googleMapsUrl: https://maps.google.com/?cid=14591229212742811375&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   lat: 43.6949772
   lng: 7.2678307
 tags:
-  - "nice"
-  - "Promenade des Anglais"
-quickAnswer: "The Promenade des Anglais is Nice's iconic 7-km palm-lined seafront walkway stretching from the airport area to the Old Town, best experienced on foot or by rental bike in the early morning or at sunset. It's free, open 24/7, and easiest to reach via the T2 tram (Jean Médecin or Masséna stops) or a short walk from the Old Town. Plan for 1-2 hours to walk a scenic central stretch, or half a day if you rent a bike and ride the whole length."
+  - nice
+  - Promenade des Anglais
+quickAnswer: The Promenade des Anglais is Nice's iconic 7-km palm-lined seafront walkway stretching from the airport area to the Old Town, best experienced on foot or by rental bike in the early morning or at sunset. It's free, open 24/7, and easiest to reach via the T2 tram (Jean Médecin or Masséna stops) or a short walk from the Old Town. Plan for 1-2 hours to walk a scenic central stretch, or half a day if you rent a bike and ride the whole length.
 faq:
-  - q: "How long does it take to walk the whole Promenade des Anglais?"
-    a: "The full 7 km takes about 1.5–2 hours walking at a steady pace one-way; most visitors instead walk a central 2-3 km stretch between the Old Town and the Negresco (about 30-40 minutes) and use a bike or bus for the rest."
-  - q: "Is the Promenade des Anglais free to visit?"
-    a: "Yes, the walkway itself is free and open 24/7. You only pay if you rent a bike, use a beach club's loungers, or eat at seafront cafés — public beach access along it is also free."
-  - q: "What's the nearest public transport stop?"
-    a: "The T2 tram stop at Masséna sits about a 5-minute walk from the promenade, and the same line connects directly to Nice-Ville train station and the airport."
-  - q: "Can you cycle the Promenade des Anglais?"
-    a: "Yes, a separated bike/skate lane runs its full length, and Vélo Bleu bike-share docking stations are spaced along the route, making one-way rides between the Old Town and the airport area easy."
-  - q: "What should I combine with a visit?"
-    a: "Pair it with Vieux Nice and the Cours Saleya market at the eastern end, or walk inland via the Promenade du Paillon gardens toward the Musée Matisse in Cimiez."
+  - q: How long does it take to walk the whole Promenade des Anglais?
+    a: The full 7 km takes about 1.5–2 hours walking at a steady pace one-way; most visitors instead walk a central 2-3 km stretch between the Old Town and the Negresco (about 30-40 minutes) and use a bike or bus for the rest.
+  - q: Is the Promenade des Anglais free to visit?
+    a: Yes, the walkway itself is free and open 24/7. You only pay if you rent a bike, use a beach club's loungers, or eat at seafront cafés — public beach access along it is also free.
+  - q: What's the nearest public transport stop?
+    a: The T2 tram stop at Masséna sits about a 5-minute walk from the promenade, and the same line connects directly to Nice-Ville train station and the airport.
+  - q: Can you cycle the Promenade des Anglais?
+    a: Yes, a separated bike/skate lane runs its full length, and Vélo Bleu bike-share docking stations are spaced along the route, making one-way rides between the Old Town and the airport area easy.
+  - q: What should I combine with a visit?
+    a: Pair it with Vieux Nice and the Cours Saleya market at the eastern end, or walk inland via the Promenade du Paillon gardens toward the Musée Matisse in Cimiez.
 aiGenerated: true
 draft: false
 ---

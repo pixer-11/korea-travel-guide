@@ -1,54 +1,54 @@
 ---
-title: "Hong Kong Disneyland: Travel Guide"
-description: "Hong Kong Disneyland sits on Lantau Island, reachable via the dedicated Disneyland Resort Line from Sunny Bay MTR station — itself on the Tung Chung Line."
-country: "China"
-region: "Hong Kong"
-category: "attraction"
-pubDate: "2026-07-28T10:02:56.065Z"
+title: 'Hong Kong Disneyland: Travel Guide'
+description: Hong Kong Disneyland sits on Lantau Island, reachable via the dedicated Disneyland Resort Line from Sunny Bay MTR station — itself on the Tung Chung Line.
+country: China
+region: Hong Kong
+category: attraction
+pubDate: '2026-07-28T10:02:56.065Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hong_Kong_Disneyland_Castle.jpg/1920px-Hong_Kong_Disneyland_Castle.jpg"
-  credit: "Photo: Ashwin Kumar / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Hong_Kong_Disneyland_Castle.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hong_Kong_Disneyland_Castle.jpg/1920px-Hong_Kong_Disneyland_Castle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Ashwin Kumar / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Hong_Kong_Disneyland_Castle.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Disneyland_Hong_Kong_China_5.jpg/1920px-Disneyland_Hong_Kong_China_5.jpg"
-    credit: "Photo: Philip Nalangan / Wikimedia Commons (CC BY 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Disneyland_Hong_Kong_China_5.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Disneyland_Hong_Kong_China_5.jpg/1920px-Disneyland_Hong_Kong_China_5.jpg
+    credit: 'Photo: Philip Nalangan / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Disneyland_Hong_Kong_China_5.jpg
 place:
-  id: "ChIJPZXTUy_8AzQRBVRH5GyvszU"
-  name: "Hong Kong Disneyland"
-  address: "Lantau Island, Hong Kong"
+  id: ChIJPZXTUy_8AzQRBVRH5GyvszU
+  name: Hong Kong Disneyland
+  address: Lantau Island, Hong Kong
   rating: 4.5
   userRatingsTotal: 66041
-  googleMapsUrl: "https://maps.google.com/?cid=3869629387062596613&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=3869629387062596613&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.3129666
   lng: 114.0412819
-  phone: '+86 3550 3388'
+  phone: +86 3550 3388
   openingHours:
-    - "Monday: 10:30 AM – 8:00 PM"
-    - "Tuesday: 10:30 AM – 8:00 PM"
-    - "Wednesday: 10:30 AM – 8:00 PM"
-    - "Thursday: 10:30 AM – 8:00 PM"
-    - "Friday: 10:30 AM – 8:00 PM"
-    - "Saturday: 10:00 AM – 8:30 PM"
-    - "Sunday: 10:00 AM – 8:30 PM"
+    - 'Monday: 10:30 AM – 8:00 PM'
+    - 'Tuesday: 10:30 AM – 8:00 PM'
+    - 'Wednesday: 10:30 AM – 8:00 PM'
+    - 'Thursday: 10:30 AM – 8:00 PM'
+    - 'Friday: 10:30 AM – 8:00 PM'
+    - 'Saturday: 10:00 AM – 8:30 PM'
+    - 'Sunday: 10:00 AM – 8:30 PM'
 tags:
-  - "hong kong"
-  - "top attraction"
-quickAnswer: "Hong Kong Disneyland sits on Lantau Island, reachable via the dedicated Disneyland Resort Line from Sunny Bay MTR station — itself on the Tung Chung Line. Give yourself a full day (9-10 hours) to cover all seven themed lands, book tickets online in advance for a specific date, and use the free Disneyland app to check ride wait times and grab virtual queue slots for the busiest attractions the moment you arrive."
+  - hong kong
+  - top attraction
+quickAnswer: Hong Kong Disneyland sits on Lantau Island, reachable via the dedicated Disneyland Resort Line from Sunny Bay MTR station — itself on the Tung Chung Line. Give yourself a full day (9-10 hours) to cover all seven themed lands, book tickets online in advance for a specific date, and use the free Disneyland app to check ride wait times and grab virtual queue slots for the busiest attractions the moment you arrive.
 faq:
-  - q: "How do I get to Hong Kong Disneyland from the city center?"
-    a: "Take the MTR Tung Chung Line to Sunny Bay Station, then transfer to the Disneyland Resort Line for a short ride directly to Disneyland Resort Station. From Central, the full trip takes about 45 minutes to an hour."
-  - q: "How long should I plan to spend at the park?"
-    a: "Plan for a full day, roughly 9-10 hours, to comfortably cover all seven themed lands, a stage show, and the evening fireworks/projection show on the castle."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Go on a weekday outside Hong Kong and mainland Chinese school holidays (avoid Chinese New Year, summer break, and Christmas week), and arrive right at opening — this park is very popular, so lines build quickly after mid-morning."
-  - q: "Do I need to book tickets in advance?"
-    a: "Yes — book a date-specific ticket online before you go. Walk-up tickets aren't always available, especially on weekends and holidays."
-  - q: "What's nearby if I want to extend my visit?"
-    a: "The Hong Kong Disneyland Hotel and Disney Explorers Lodge are both within walking distance for an overnight stay, and Sunny Bay Station connects back easily to Tung Chung and Lantau's other sights, including Ngong Ping 360, if you want to combine attractions."
+  - q: How do I get to Hong Kong Disneyland from the city center?
+    a: Take the MTR Tung Chung Line to Sunny Bay Station, then transfer to the Disneyland Resort Line for a short ride directly to Disneyland Resort Station. From Central, the full trip takes about 45 minutes to an hour.
+  - q: How long should I plan to spend at the park?
+    a: Plan for a full day, roughly 9-10 hours, to comfortably cover all seven themed lands, a stage show, and the evening fireworks/projection show on the castle.
+  - q: What's the best time to visit to avoid crowds?
+    a: Go on a weekday outside Hong Kong and mainland Chinese school holidays (avoid Chinese New Year, summer break, and Christmas week), and arrive right at opening — this park is very popular, so lines build quickly after mid-morning.
+  - q: Do I need to book tickets in advance?
+    a: Yes — book a date-specific ticket online before you go. Walk-up tickets aren't always available, especially on weekends and holidays.
+  - q: What's nearby if I want to extend my visit?
+    a: The Hong Kong Disneyland Hotel and Disney Explorers Lodge are both within walking distance for an overnight stay, and Sunny Bay Station connects back easily to Tung Chung and Lantau's other sights, including Ngong Ping 360, if you want to combine attractions.
 aiGenerated: true
 draft: false
 ---

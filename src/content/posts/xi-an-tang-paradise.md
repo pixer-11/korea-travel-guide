@@ -1,54 +1,54 @@
 ---
-title: "Tang Paradise: Xi'an Travel Guide"
+title: 'Tang Paradise: Xi''an Travel Guide'
 description: Tang Paradise (大唐芙蓉园) is a large recreated Tang Dynasty imperial garden in southeastern Xi'an, best visited in late afternoon so you can wander the pavilions in daylight and stay for the evening water-and-light show around Purple Cloud Tower.
-country: "China"
-region: "Xi'an"
-category: "attraction"
-pubDate: "2026-07-26T08:34:32.273Z"
+country: China
+region: Xi'an
+category: attraction
+pubDate: '2026-07-26T08:34:32.273Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Tang_Paradise_2024_04.jpg/1920px-Tang_Paradise_2024_04.jpg"
-  credit: "Photo: xiquinhosilva / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Tang_Paradise_2024_04.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Tang_Paradise_2024_04.jpg/1920px-Tang_Paradise_2024_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: xiquinhosilva / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Tang_Paradise_2024_04.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Tang_Paradise_2024_03.jpg/1920px-Tang_Paradise_2024_03.jpg
     credit: 'Photo: xiquinhosilva / Wikimedia Commons (CC BY 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Tang_Paradise_2024_03.jpg
 place:
-  id: "ChIJG4KcOUFwYzYRxKgvrcAbPBI"
-  name: "Tang Paradise"
-  address: "99 Fu Rong Xi Lu, Yan Ta Qu, Xi An Shi, Shan Xi Sheng, China, 710061"
+  id: ChIJG4KcOUFwYzYRxKgvrcAbPBI
+  name: Tang Paradise
+  address: 99 Fu Rong Xi Lu, Yan Ta Qu, Xi An Shi, Shan Xi Sheng, China, 710061
   rating: 4.3
   userRatingsTotal: 288
-  googleMapsUrl: "https://maps.google.com/?cid=1313955705638594756&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=1313955705638594756&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.2123098
   lng: 108.9747383
-  phone: '+86 29 8559 9071'
+  phone: +86 29 8559 9071
   openingHours:
-    - "Monday: 9:00 AM – 10:00 PM"
-    - "Tuesday: 9:00 AM – 10:00 PM"
-    - "Wednesday: 9:00 AM – 10:00 PM"
-    - "Thursday: 9:00 AM – 10:00 PM"
-    - "Friday: 9:00 AM – 10:00 PM"
-    - "Saturday: 9:00 AM – 10:00 PM"
-    - "Sunday: 9:00 AM – 10:00 PM"
+    - 'Monday: 9:00 AM – 10:00 PM'
+    - 'Tuesday: 9:00 AM – 10:00 PM'
+    - 'Wednesday: 9:00 AM – 10:00 PM'
+    - 'Thursday: 9:00 AM – 10:00 PM'
+    - 'Friday: 9:00 AM – 10:00 PM'
+    - 'Saturday: 9:00 AM – 10:00 PM'
+    - 'Sunday: 9:00 AM – 10:00 PM'
 tags:
-  - "xi'an"
-  - "top attraction"
-quickAnswer: "Tang Paradise (大唐芙蓉园) is a large recreated Tang Dynasty imperial garden in southeastern Xi'an, best visited in late afternoon so you can wander the pavilions in daylight and stay for the evening water-and-light show around Purple Cloud Tower. Budget half a day to a full evening — 3 to 5 hours — and go on a weekday if you can, since it draws far fewer crowds than the Terracotta Army or the City Wall. It's easily paired with the nearby Big Wild Goose Pagoda, about a 15-20 minute walk or short taxi ride away."
+  - xi'an
+  - top attraction
+quickAnswer: Tang Paradise (大唐芙蓉园) is a large recreated Tang Dynasty imperial garden in southeastern Xi'an, best visited in late afternoon so you can wander the pavilions in daylight and stay for the evening water-and-light show around Purple Cloud Tower. Budget half a day to a full evening — 3 to 5 hours — and go on a weekday if you can, since it draws far fewer crowds than the Terracotta Army or the City Wall. It's easily paired with the nearby Big Wild Goose Pagoda, about a 15-20 minute walk or short taxi ride away.
 faq:
-  - q: "How much time should I budget for Tang Paradise?"
-    a: "Plan on 3 to 5 hours if you want to see the pavilions in daylight and stay for the evening light show; 2 hours is enough for just a daytime walk-through."
-  - q: "What's the best time of day to visit?"
-    a: "Arrive in late afternoon so you can explore while it's light out, then stay through dusk for the water-and-light show at the lake, which is the park's signature feature."
-  - q: "How do I get to Tang Paradise from central Xi'an?"
-    a: "Take Metro Line 3 toward the Big Wild Goose Pagoda area and continue by taxi or on foot (about 15-20 minutes walking), or take a taxi/ride-share directly using the Chinese name 大唐芙蓉园 (Dà Táng Fúróng Yuán)."
-  - q: "Is Tang Paradise crowded like the Terracotta Army?"
-    a: "No — it's noticeably calmer than Xi'an's headline sites, especially on weekdays, making it a relaxed contrast if you've just come from a busier attraction."
-  - q: "What else is nearby?"
-    a: "The Big Wild Goose Pagoda and the Shaanxi History Museum are both a short taxi or walk away, making it easy to combine all three in one day in the Yanta District."
+  - q: How much time should I budget for Tang Paradise?
+    a: Plan on 3 to 5 hours if you want to see the pavilions in daylight and stay for the evening light show; 2 hours is enough for just a daytime walk-through.
+  - q: What's the best time of day to visit?
+    a: Arrive in late afternoon so you can explore while it's light out, then stay through dusk for the water-and-light show at the lake, which is the park's signature feature.
+  - q: How do I get to Tang Paradise from central Xi'an?
+    a: Take Metro Line 3 toward the Big Wild Goose Pagoda area and continue by taxi or on foot (about 15-20 minutes walking), or take a taxi/ride-share directly using the Chinese name 大唐芙蓉园 (Dà Táng Fúróng Yuán).
+  - q: Is Tang Paradise crowded like the Terracotta Army?
+    a: No — it's noticeably calmer than Xi'an's headline sites, especially on weekdays, making it a relaxed contrast if you've just come from a busier attraction.
+  - q: What else is nearby?
+    a: The Big Wild Goose Pagoda and the Shaanxi History Museum are both a short taxi or walk away, making it easy to combine all three in one day in the Yanta District.
 aiGenerated: true
 draft: false
 ---

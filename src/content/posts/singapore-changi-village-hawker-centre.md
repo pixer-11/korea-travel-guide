@@ -1,50 +1,50 @@
 ---
-title: "Changi Village Hawker Centre: Where to Eat in Singapore"
+title: 'Changi Village Hawker Centre: Where to Eat in Singapore'
 description: Changi Village Hawker Centre, at 2 Changi Village Rd in Singapore's far northeast, is best known for its nasi lemak stalls, satay, and fried banana fritters eaten at communal Formica tables under whirring ceiling fans.
-country: "Singapore"
-region: "Singapore"
-category: "restaurant"
-pubDate: "2026-07-26T07:02:01.168Z"
+country: Singapore
+region: Singapore
+category: restaurant
+pubDate: '2026-07-26T07:02:01.168Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Soon_Heng_Cooked_Food_at_Changi_Village_Food_Centre%2C_Singapore_-_20070211.jpg/1920px-Soon_Heng_Cooked_Food_at_Changi_Village_Food_Centre%2C_Singapore_-_20070211.jpg"
-  credit: "Photo: alex.ch / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Soon_Heng_Cooked_Food_at_Changi_Village_Food_Centre,_Singapore_-_20070211.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Soon_Heng_Cooked_Food_at_Changi_Village_Food_Centre%2C_Singapore_-_20070211.jpg/1920px-Soon_Heng_Cooked_Food_at_Changi_Village_Food_Centre%2C_Singapore_-_20070211.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: alex.ch / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Soon_Heng_Cooked_Food_at_Changi_Village_Food_Centre,_Singapore_-_20070211.jpg
 gallery: []
 place:
-  id: "ChIJq-d3hRY82jERfOWbep52mCs"
-  name: "Changi Village Hawker Centre"
-  address: "2 Changi Village Rd, Singapore 500002"
+  id: ChIJq-d3hRY82jERfOWbep52mCs
+  name: Changi Village Hawker Centre
+  address: 2 Changi Village Rd, Singapore 500002
   rating: 4.3
   userRatingsTotal: 13987
   priceLevel: 1
-  googleMapsUrl: "https://maps.google.com/?cid=3141391163124868476&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=3141391163124868476&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.3892375
   lng: 103.9883008
   openingHours:
-    - "Monday: 6:00 AM – 2:00 AM"
-    - "Tuesday: 6:00 AM – 2:00 AM"
-    - "Wednesday: 6:00 AM – 2:00 AM"
-    - "Thursday: 6:00 AM – 2:00 AM"
-    - "Friday: 6:00 AM – 12:00 AM"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: 6:00 AM – 2:00 AM'
+    - 'Tuesday: 6:00 AM – 2:00 AM'
+    - 'Wednesday: 6:00 AM – 2:00 AM'
+    - 'Thursday: 6:00 AM – 2:00 AM'
+    - 'Friday: 6:00 AM – 12:00 AM'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "singapore"
-  - "street food"
-quickAnswer: "Changi Village Hawker Centre, at 2 Changi Village Rd in Singapore's far northeast, is best known for its nasi lemak stalls, satay, and fried banana fritters eaten at communal Formica tables under whirring ceiling fans. It's a well-visited spot (4.3 stars, nearly 14,000 reviews), so aim for a weekday lunch before noon or after 2pm to dodge the crowds, and pair it with a walk to nearby Changi Beach or a ferry to Pulau Ubin."
+  - singapore
+  - street food
+quickAnswer: Changi Village Hawker Centre, at 2 Changi Village Rd in Singapore's far northeast, is best known for its nasi lemak stalls, satay, and fried banana fritters eaten at communal Formica tables under whirring ceiling fans. It's a well-visited spot (4.3 stars, nearly 14,000 reviews), so aim for a weekday lunch before noon or after 2pm to dodge the crowds, and pair it with a walk to nearby Changi Beach or a ferry to Pulau Ubin.
 faq:
-  - q: "How do I get to Changi Village Hawker Centre without a car?"
-    a: "Take the East-West MRT Line to Tanah Merah or Pasir Ris station, then transfer to a bus heading to Changi Village bus interchange, which sits right next to the hawker centre. A taxi or ride-hail from Changi Airport takes about 15–20 minutes."
-  - q: "What should I order first?"
-    a: "Start with the nasi lemak — coconut rice, sambal, fried egg, anchovies, and cucumber — then add satay and fried banana fritters if you have room. These three are the stalls people specifically travel here for."
-  - q: "When is it least crowded?"
-    a: "Weekday mornings or the mid-afternoon lull (around 10am or 3pm) are quieter than the 12–2pm lunch rush and weekend crowds, when day-trippers heading to Changi Beach or Pulau Ubin pack the tables."
-  - q: "How much does a meal cost?"
-    a: "It's a budget-friendly hawker centre (low price level), with most plates and skewers priced cheaply in cash — expect to pay per dish at the stall counter rather than get a bill at the table."
-  - q: "What else can I do nearby?"
-    a: "Changi Beach Park is a short walk away, and the ferry terminal for Pulau Ubin, a quieter island good for cycling, is close by — both pair naturally with a meal here."
+  - q: How do I get to Changi Village Hawker Centre without a car?
+    a: Take the East-West MRT Line to Tanah Merah or Pasir Ris station, then transfer to a bus heading to Changi Village bus interchange, which sits right next to the hawker centre. A taxi or ride-hail from Changi Airport takes about 15–20 minutes.
+  - q: What should I order first?
+    a: Start with the nasi lemak — coconut rice, sambal, fried egg, anchovies, and cucumber — then add satay and fried banana fritters if you have room. These three are the stalls people specifically travel here for.
+  - q: When is it least crowded?
+    a: Weekday mornings or the mid-afternoon lull (around 10am or 3pm) are quieter than the 12–2pm lunch rush and weekend crowds, when day-trippers heading to Changi Beach or Pulau Ubin pack the tables.
+  - q: How much does a meal cost?
+    a: It's a budget-friendly hawker centre (low price level), with most plates and skewers priced cheaply in cash — expect to pay per dish at the stall counter rather than get a bill at the table.
+  - q: What else can I do nearby?
+    a: Changi Beach Park is a short walk away, and the ferry terminal for Pulau Ubin, a quieter island good for cycling, is close by — both pair naturally with a meal here.
 aiGenerated: true
 draft: false
 ---

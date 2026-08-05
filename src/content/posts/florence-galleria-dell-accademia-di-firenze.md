@@ -1,28 +1,28 @@
 ---
-title: "Galleria dell Accademia di Firenze: Florence Travel Guide"
-description: "The Accademia's main draw is Michelangelo's David, standing at the end of a long gallery lined with his unfinished \"Prisoners\" statues — the whole visit takes about 60–90 minutes. 4.6★ (56,983 reviews) — what visitors say, hours, and tips."
-country: "Italy"
-region: "Florence"
-category: "attraction"
-pubDate: "2026-08-05T11:23:44.293Z"
+title: 'Galleria dell Accademia di Firenze: Florence Travel Guide'
+description: The Accademia's main draw is Michelangelo's David, standing at the end of a long gallery lined with his unfinished "Prisoners" statues — the whole visit takes about 60–90 minutes. 4.6★ (56,983 reviews) — what visitors say, hours, and tips.
+country: Italy
+region: Florence
+category: attraction
+pubDate: '2026-08-05T11:23:44.293Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Busts_displayed_at_Galleria_dell%E2%80%99Accademia_di_Firenze.jpg/3840px-Busts_displayed_at_Galleria_dell%E2%80%99Accademia_di_Firenze.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  credit: "Photo: S.e.witcher / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Busts_displayed_at_Galleria_dell%E2%80%99Accademia_di_Firenze.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Busts_displayed_at_Galleria_dell%E2%80%99Accademia_di_Firenze.jpg/1920px-Busts_displayed_at_Galleria_dell%E2%80%99Accademia_di_Firenze.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: S.e.witcher / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Busts_displayed_at_Galleria_dell%E2%80%99Accademia_di_Firenze.jpg
 gallery: []
 place:
-  id: "ChIJJ7mRvIxVKhMRx6JB-q73TG0"
-  name: "Galleria dell’Accademia di Firenze"
-  address: "Via Ricasoli, 58/60, 50129 Firenze FI, Italy"
+  id: ChIJJ7mRvIxVKhMRx6JB-q73TG0
+  name: Galleria dell’Accademia di Firenze
+  address: Via Ricasoli, 58/60, 50129 Firenze FI, Italy
   rating: 4.6
   userRatingsTotal: 56983
-  googleMapsUrl: "https://maps.google.com/?cid=7875942179259130567&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=7875942179259130567&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.7768145
   lng: 11.2586424
   busyness:
-    updated: 2026-08-05
+    updated: 2026-08-05T00:00:00.000Z
     weekdayBusy:
       - 10
       - 11
@@ -42,22 +42,22 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_3047543337712d424a3678524d684b56784976526d374a4a496843"
+    venueId: ven_3047543337712d424a3678524d684b56784976526d374a4a496843
 tags:
-  - "florence"
-  - "museum"
-quickAnswer: "The Accademia's main draw is Michelangelo's David, standing at the end of a long gallery lined with his unfinished \"Prisoners\" statues — the whole visit takes about 60–90 minutes. Book a timed-entry ticket online in advance to skip the notorious walk-up queue on Via Ricasoli, and if you're going on a weekend, aim for the 8am–9am opening window, since crowds build steadily from 10am through 6pm."
+  - florence
+  - museum
+quickAnswer: The Accademia's main draw is Michelangelo's David, standing at the end of a long gallery lined with his unfinished "Prisoners" statues — the whole visit takes about 60–90 minutes. Book a timed-entry ticket online in advance to skip the notorious walk-up queue on Via Ricasoli, and if you're going on a weekend, aim for the 8am–9am opening window, since crowds build steadily from 10am through 6pm.
 faq:
-  - q: "Do I need to book tickets in advance?"
-    a: "Yes — this is one of Florence's busiest museums, and booking a timed-entry slot online ahead of your visit avoids a walk-up queue that can exceed an hour, especially in spring and summer."
-  - q: "How long should I plan to spend there?"
-    a: "Budget 60 to 90 minutes to see David, the Prisoners hall, the painting galleries, and the Russian icon collection without rushing."
-  - q: "When is the quietest time to visit?"
-    a: "On weekends, the calmest window is right at opening, 8am to 9am. Crowds build steadily after that and stay heavy from 10am to 6pm."
-  - q: "Is the David at the Accademia the original?"
-    a: "Yes. The statues of David outdoors at Piazza della Signoria and Piazzale Michelangelo are both replicas; the original carved by Michelangelo is housed here."
-  - q: "What else is nearby worth combining with the visit?"
-    a: "Piazza San Marco and the Museo di San Marco (Fra Angelico frescoes) are a few minutes' walk away, and the Duomo is about eight minutes on foot down Via Ricasoli."
+  - q: Do I need to book tickets in advance?
+    a: Yes — this is one of Florence's busiest museums, and booking a timed-entry slot online ahead of your visit avoids a walk-up queue that can exceed an hour, especially in spring and summer.
+  - q: How long should I plan to spend there?
+    a: Budget 60 to 90 minutes to see David, the Prisoners hall, the painting galleries, and the Russian icon collection without rushing.
+  - q: When is the quietest time to visit?
+    a: On weekends, the calmest window is right at opening, 8am to 9am. Crowds build steadily after that and stay heavy from 10am to 6pm.
+  - q: Is the David at the Accademia the original?
+    a: Yes. The statues of David outdoors at Piazza della Signoria and Piazzale Michelangelo are both replicas; the original carved by Michelangelo is housed here.
+  - q: What else is nearby worth combining with the visit?
+    a: Piazza San Marco and the Museo di San Marco (Fra Angelico frescoes) are a few minutes' walk away, and the Duomo is about eight minutes on foot down Via Ricasoli.
 aiGenerated: true
 draft: false
 ---

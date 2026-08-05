@@ -1,51 +1,60 @@
 ---
-title: "Sentosa Sensoryscape: Travel Guide"
+title: 'Sentosa Sensoryscape: Travel Guide'
 description: Sentosa Sensoryscape is a free-to-enter, multi-sensory garden-and-light installation at 3 Siloso Rd on Sentosa Island, best experienced at dusk when its LED canopy, misting gardens, and sound features come alive together.
-country: "Singapore"
-region: "Sentosa"
-category: "hidden-gem"
-pubDate: "2026-07-23T07:38:23.092Z"
+country: Singapore
+region: Sentosa
+category: hidden-gem
+pubDate: '2026-07-23T07:38:23.092Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sentosa_Sensoryscape_2026.jpg/1920px-Sentosa_Sensoryscape_2026.jpg"
-  credit: "Photo: ScribblingGeek / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Sentosa_Sensoryscape_2026.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sentosa_Sensoryscape_2026.jpg/1920px-Sentosa_Sensoryscape_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: ScribblingGeek / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Sentosa_Sensoryscape_2026.jpg
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/29007429_v1DYKjdo-cWUvTTKjmrdKiYt1KiK7bRsWYsjMUAoxoo.jpg
     credit: 'Photo: Foursquare user content (Sentosa Sensoryscape)'
     license: foursquare
     source: https://foursquare.com/v/65dbf4a16ca15961d952ff8d
 place:
-  id: "ChIJG2tCUAAb2jER1d8J7MkyD_E"
-  name: "Sentosa Sensoryscape"
-  address: "3 Siloso Rd, #01 3, Singapore 098977"
+  id: ChIJG2tCUAAb2jER1d8J7MkyD_E
+  name: Sentosa Sensoryscape
+  address: '3 Siloso Rd, #01 3, Singapore 098977'
   rating: 4.5
   userRatingsTotal: 395
-  googleMapsUrl: "https://maps.google.com/?cid=17370158130621177813&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=17370158130621177813&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.25311
   lng: 103.81877420000001
   busyness:
     updated: '2026-07-23'
-    weekdayBusy: [19, 20]
-    weekendQuiet: [7]
-    weekendBusy: [17, 18, 19, 20, 21, 22]
-    venueId: 'ven_455f44796b4d374a38643152456a3262414155437432474a496843'
+    weekdayBusy:
+      - 19
+      - 20
+    weekendQuiet:
+      - 7
+    weekendBusy:
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+    venueId: ven_455f44796b4d374a38643152456a3262414155437432474a496843
 tags:
-  - "sentosa"
-  - "hidden gem"
-quickAnswer: "Sentosa Sensoryscape is a free-to-enter, multi-sensory garden-and-light installation at 3 Siloso Rd on Sentosa Island, best experienced at dusk when its LED canopy, misting gardens, and sound features come alive together. Budget 45–60 minutes, pair it with a Siloso Beach walk or dinner, and go on a weekday evening to avoid the weekend cable-car crowds passing through."
+  - sentosa
+  - hidden gem
+quickAnswer: Sentosa Sensoryscape is a free-to-enter, multi-sensory garden-and-light installation at 3 Siloso Rd on Sentosa Island, best experienced at dusk when its LED canopy, misting gardens, and sound features come alive together. Budget 45–60 minutes, pair it with a Siloso Beach walk or dinner, and go on a weekday evening to avoid the weekend cable-car crowds passing through.
 faq:
-  - q: "Is there an entrance fee for Sentosa Sensoryscape?"
-    a: "No separate ticket is needed — it's an open-air public walkway/installation you can enter at multiple points along the path between Siloso Beach and Beach Station. Note that Sentosa Island itself may charge a general admission fee depending on how you enter, so check current island entry terms before you go."
-  - q: "How do I get to Sentosa Sensoryscape from mainland Singapore?"
-    a: "Take the MRT to HarbourFront (Circle Line or North East Line), then either walk across Sentosa Boardwalk (15–20 minutes) or ride the Sentosa Express monorail to Beach Station. The Sensoryscape connects directly to Siloso Beach from there."
-  - q: "How long should I spend here?"
-    a: "Plan for 45–60 minutes to walk through unhurried, longer if you stop to enjoy the seating areas and interactive water features or take photos once the lights turn on."
-  - q: "What's the best time of day to visit?"
-    a: "Early evening, roughly 30 minutes before to an hour after sunset, is ideal — you get daylight garden views first, then the full lighting display without the midday heat."
-  - q: "What else is nearby?"
-    a: "Siloso Beach, Fort Siloso, the Skyline Luge, and the Sentosa cable car station are all within a short walk, making it easy to combine with a half-day or full-day Sentosa itinerary."
+  - q: Is there an entrance fee for Sentosa Sensoryscape?
+    a: No separate ticket is needed — it's an open-air public walkway/installation you can enter at multiple points along the path between Siloso Beach and Beach Station. Note that Sentosa Island itself may charge a general admission fee depending on how you enter, so check current island entry terms before you go.
+  - q: How do I get to Sentosa Sensoryscape from mainland Singapore?
+    a: Take the MRT to HarbourFront (Circle Line or North East Line), then either walk across Sentosa Boardwalk (15–20 minutes) or ride the Sentosa Express monorail to Beach Station. The Sensoryscape connects directly to Siloso Beach from there.
+  - q: How long should I spend here?
+    a: Plan for 45–60 minutes to walk through unhurried, longer if you stop to enjoy the seating areas and interactive water features or take photos once the lights turn on.
+  - q: What's the best time of day to visit?
+    a: Early evening, roughly 30 minutes before to an hour after sunset, is ideal — you get daylight garden views first, then the full lighting display without the midday heat.
+  - q: What else is nearby?
+    a: Siloso Beach, Fort Siloso, the Skyline Luge, and the Sentosa cable car station are all within a short walk, making it easy to combine with a half-day or full-day Sentosa itinerary.
 aiGenerated: true
 draft: false
 ---

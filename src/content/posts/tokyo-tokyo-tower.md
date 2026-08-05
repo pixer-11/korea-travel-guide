@@ -1,31 +1,31 @@
 ---
-title: "Tokyo Tower: Travel Guide"
+title: 'Tokyo Tower: Travel Guide'
 description: Tokyo Tower, in Minato City's Shibakoen district, is best visited on a clear late afternoon so you catch sunset melting into the night skyline from the Main Deck (150m) or the pricier Top Deck (250m).
-country: "Japan"
-region: "Tokyo"
-category: "attraction"
-pubDate: 2026-07-21
+country: Japan
+region: Tokyo
+category: attraction
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Tokyo_Tower%2C_Minato_City.jpg/1920px-Tokyo_Tower%2C_Minato_City.jpg"
-  credit: "Photo: David Kernan / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Tokyo_Tower,_Minato_City.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Tokyo_Tower%2C_Minato_City.jpg/1920px-Tokyo_Tower%2C_Minato_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: David Kernan / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Tokyo_Tower,_Minato_City.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Tokyo_Tower_as_seen_from_Mori_Tower.jpg/1920px-Tokyo_Tower_as_seen_from_Mori_Tower.jpg
     credit: 'Photo: Daniel L. Lu (user:dllu) / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Tokyo_Tower_as_seen_from_Mori_Tower.jpg
 place:
-  id: "ChIJCewJkL2LGGAR3Qmk0vCTGkg"
-  name: "Tokyo Tower"
-  address: "4-chōme-2-8 Shibakōen, Minato City, Tokyo 105-0011, Japan"
+  id: ChIJCewJkL2LGGAR3Qmk0vCTGkg
+  name: Tokyo Tower
+  address: 4-chōme-2-8 Shibakōen, Minato City, Tokyo 105-0011, Japan
   rating: 4.5
   userRatingsTotal: 98696
-  googleMapsUrl: "https://maps.google.com/?cid=5195627782660688349&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=5195627782660688349&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.6585805
   lng: 139.7454329
-  phone: '+81 3-3433-5111'
+  phone: +81 3-3433-5111
   openingHours:
     - 'Monday: 9:00 AM – 11:00 PM'
     - 'Tuesday: 9:00 AM – 11:00 PM'
@@ -35,20 +35,20 @@ place:
     - 'Saturday: 9:00 AM – 11:00 PM'
     - 'Sunday: 9:00 AM – 11:00 PM'
 tags:
-  - "tokyo"
-  - "top attraction"
-quickAnswer: "Tokyo Tower, in Minato City's Shibakoen district, is best visited on a clear late afternoon so you catch sunset melting into the night skyline from the Main Deck (150m) or the pricier Top Deck (250m). Budget 60-90 minutes, walk 10-15 minutes from Akabanebashi or Onarimon stations, and buy Top Deck tickets online in advance to skip the line. It's less about efficiency than the Eiffel-Tower-inspired silhouette and the retro, unpretentious charm compared to the newer Tokyo Skytree."
+  - tokyo
+  - top attraction
+quickAnswer: Tokyo Tower, in Minato City's Shibakoen district, is best visited on a clear late afternoon so you catch sunset melting into the night skyline from the Main Deck (150m) or the pricier Top Deck (250m). Budget 60-90 minutes, walk 10-15 minutes from Akabanebashi or Onarimon stations, and buy Top Deck tickets online in advance to skip the line. It's less about efficiency than the Eiffel-Tower-inspired silhouette and the retro, unpretentious charm compared to the newer Tokyo Skytree.
 faq:
-  - q: "How do I get to Tokyo Tower by train?"
-    a: "Take the Toei Oedo Line to Akabanebashi Station and walk about 5 minutes, or use Onarimon/Kamiyacho on the Toei Mita/Hibiya lines, roughly 6-8 minutes on foot."
-  - q: "How much time should I plan for a visit?"
-    a: "Allow 60-90 minutes for the Main Deck or both decks combined; add extra time at golden hour if you want daytime and night photos."
-  - q: "Is Tokyo Tower or Tokyo Skytree better to visit?"
-    a: "Tokyo Tower is more central, older, and cheaper with a retro charm and easy pairing with Zojoji Temple; Skytree is taller and more modern with panoramic views further from the city center. Many visitors pick one based on which fits their itinerary rather than visiting both."
-  - q: "What's the best time of day and year to go?"
-    a: "Late afternoon into evening for the daylight-to-illumination transition, and winter for the best odds of seeing Mount Fuji thanks to clearer, drier air."
-  - q: "Should I buy tickets in advance?"
-    a: "Yes, especially for the Top Deck, which uses timed-entry tickets sold online and helps you skip part of the walk-up queue; check the official Tokyo Tower website for current prices and hours."
+  - q: How do I get to Tokyo Tower by train?
+    a: Take the Toei Oedo Line to Akabanebashi Station and walk about 5 minutes, or use Onarimon/Kamiyacho on the Toei Mita/Hibiya lines, roughly 6-8 minutes on foot.
+  - q: How much time should I plan for a visit?
+    a: Allow 60-90 minutes for the Main Deck or both decks combined; add extra time at golden hour if you want daytime and night photos.
+  - q: Is Tokyo Tower or Tokyo Skytree better to visit?
+    a: Tokyo Tower is more central, older, and cheaper with a retro charm and easy pairing with Zojoji Temple; Skytree is taller and more modern with panoramic views further from the city center. Many visitors pick one based on which fits their itinerary rather than visiting both.
+  - q: What's the best time of day and year to go?
+    a: Late afternoon into evening for the daylight-to-illumination transition, and winter for the best odds of seeing Mount Fuji thanks to clearer, drier air.
+  - q: Should I buy tickets in advance?
+    a: Yes, especially for the Top Deck, which uses timed-entry tickets sold online and helps you skip part of the walk-up queue; check the official Tokyo Tower website for current prices and hours.
 aiGenerated: true
 draft: false
 ---

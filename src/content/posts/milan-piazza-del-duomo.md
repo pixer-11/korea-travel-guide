@@ -1,53 +1,53 @@
 ---
-title: "Piazza del Duomo: Milan Travel Guide"
+title: 'Piazza del Duomo: Milan Travel Guide'
 description: Piazza del Duomo is Milan's grand central square, dominated by the cathedral's forest of marble spires and flanked by the Royal Palace and the glass-roofed Galleria Vittorio Emanuele II.
-country: "Italy"
-region: "Milan"
-category: "attraction"
-pubDate: "2026-07-26T08:24:19.470Z"
+country: Italy
+region: Milan
+category: attraction
+pubDate: '2026-07-26T08:24:19.470Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Milan_2_Piazza_Duomo_21-11-2021.jpg/1920px-Milan_2_Piazza_Duomo_21-11-2021.jpg"
-  credit: "Photo: Jeanne Griffin / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Milan_2_Piazza_Duomo_21-11-2021.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Milan_2_Piazza_Duomo_21-11-2021.jpg/1920px-Milan_2_Piazza_Duomo_21-11-2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Jeanne Griffin / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Milan_2_Piazza_Duomo_21-11-2021.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Milano%2C_Duomo_with_Milan_Cathedral_and_Galleria_Vittorio_Emanuele_II%2C_2016.jpg/1920px-Milano%2C_Duomo_with_Milan_Cathedral_and_Galleria_Vittorio_Emanuele_II%2C_2016.jpg
     credit: 'Photo: Steffen Schmitz / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Milano,_Duomo_with_Milan_Cathedral_and_Galleria_Vittorio_Emanuele_II,_2016.jpg
 place:
-  id: "ChIJB4CSZFzAhkcRwPCxEusUvvM"
-  name: "Piazza del Duomo"
-  address: "P.za del Duomo, 20123 Milano MI, Italy"
+  id: ChIJB4CSZFzAhkcRwPCxEusUvvM
+  name: Piazza del Duomo
+  address: P.za del Duomo, 20123 Milano MI, Italy
   rating: 4.8
   userRatingsTotal: 15167
-  googleMapsUrl: "https://maps.google.com/?cid=17563498596655034560&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=17563498596655034560&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.4641941
   lng: 9.189698
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "milan"
-  - "top attraction"
-quickAnswer: "Piazza del Duomo is Milan's grand central square, dominated by the cathedral's forest of marble spires and flanked by the Royal Palace and the glass-roofed Galleria Vittorio Emanuele II. It's extremely popular, so aim for early morning (before 9am) or after 7pm to see the facade without a wall of tourists in front of it. Budget 20-30 minutes just for the piazza, more if you're queuing for the Duomo or its rooftop terraces."
+  - milan
+  - top attraction
+quickAnswer: Piazza del Duomo is Milan's grand central square, dominated by the cathedral's forest of marble spires and flanked by the Royal Palace and the glass-roofed Galleria Vittorio Emanuele II. It's extremely popular, so aim for early morning (before 9am) or after 7pm to see the facade without a wall of tourists in front of it. Budget 20-30 minutes just for the piazza, more if you're queuing for the Duomo or its rooftop terraces.
 faq:
-  - q: "How do I get to Piazza del Duomo?"
-    a: "Take metro line M1 (red) or M3 (yellow) to Duomo station and follow the exit signposted Piazza del Duomo, which leads directly into the square."
-  - q: "How long should I spend at Piazza del Duomo?"
-    a: "Allow 20-30 minutes to see the square itself, plus 1-2 hours if you're also visiting the cathedral interior, rooftop terraces, or the Galleria's shops and cafés."
-  - q: "What's the best time of day to visit?"
-    a: "Early morning before 9am or evening after 7pm are calmest and give the best light on the facade; midday and weekend afternoons draw the biggest crowds."
-  - q: "Is it worth buying tickets in advance?"
-    a: "Yes — buying timed-entry tickets online for the Duomo and its rooftop terraces in advance lets you skip the on-site queues, which can be long, especially in the middle of the day."
-  - q: "What else is near Piazza del Duomo?"
-    a: "The Royal Palace (Palazzo Reale) sits right on the square, and the Galleria Vittorio Emanuele II arcade opens directly off it, leading toward La Scala opera house a short walk away."
+  - q: How do I get to Piazza del Duomo?
+    a: Take metro line M1 (red) or M3 (yellow) to Duomo station and follow the exit signposted Piazza del Duomo, which leads directly into the square.
+  - q: How long should I spend at Piazza del Duomo?
+    a: Allow 20-30 minutes to see the square itself, plus 1-2 hours if you're also visiting the cathedral interior, rooftop terraces, or the Galleria's shops and cafés.
+  - q: What's the best time of day to visit?
+    a: Early morning before 9am or evening after 7pm are calmest and give the best light on the facade; midday and weekend afternoons draw the biggest crowds.
+  - q: Is it worth buying tickets in advance?
+    a: Yes — buying timed-entry tickets online for the Duomo and its rooftop terraces in advance lets you skip the on-site queues, which can be long, especially in the middle of the day.
+  - q: What else is near Piazza del Duomo?
+    a: The Royal Palace (Palazzo Reale) sits right on the square, and the Galleria Vittorio Emanuele II arcade opens directly off it, leading toward La Scala opera house a short walk away.
 aiGenerated: true
 draft: false
 ---

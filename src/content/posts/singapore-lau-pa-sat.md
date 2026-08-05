@@ -1,54 +1,54 @@
 ---
-title: "Lau Pa Sat: Where to Eat in Singapore"
+title: 'Lau Pa Sat: Where to Eat in Singapore'
 description: Lau Pa Sat is the octagonal cast-iron Victorian market at 18 Raffles Quay in the CBD, a five-minute walk from Raffles Place MRT (Exits G or H) or Downtown MRT (Exit A).
-country: "Singapore"
-region: "Singapore"
-category: "restaurant"
-pubDate: "2026-07-26T07:01:26.271Z"
+country: Singapore
+region: Singapore
+category: restaurant
+pubDate: '2026-07-26T07:01:26.271Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Lau_Pa_Sat_Singapore_2.jpg/1920px-Lau_Pa_Sat_Singapore_2.jpg"
-  credit: "Photo: kallerna / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Lau_Pa_Sat_Singapore_2.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Lau_Pa_Sat_Singapore_2.jpg/1920px-Lau_Pa_Sat_Singapore_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: kallerna / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Lau_Pa_Sat_Singapore_2.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Lau_Pa_Sat_Singapore_1.jpg/1920px-Lau_Pa_Sat_Singapore_1.jpg
     credit: 'Photo: kallerna / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Lau_Pa_Sat_Singapore_1.jpg
 place:
-  id: "ChIJ5Y6l4Q0Z2jERYL0KDIjT6v0"
-  name: "Lau Pa Sat"
-  address: "18 Raffles Quay, Singapore 048582"
+  id: ChIJ5Y6l4Q0Z2jERYL0KDIjT6v0
+  name: Lau Pa Sat
+  address: 18 Raffles Quay, Singapore 048582
   rating: 4.4
   userRatingsTotal: 38521
-  googleMapsUrl: "https://maps.google.com/?cid=18296669017417104736&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=18296669017417104736&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.2805121
   lng: 103.8503809
-  phone: '+65 6220 2138'
+  phone: +65 6220 2138
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "singapore"
-  - "local restaurant"
-quickAnswer: "Lau Pa Sat is the octagonal cast-iron Victorian market at 18 Raffles Quay in the CBD, a five-minute walk from Raffles Place MRT (Exits G or H) or Downtown MRT (Exit A). Go for lunch on a weekday before noon to beat the office crowds, or after 9pm when Boon Tat Street closes to traffic and becomes an open-air satay strip. Expect to pay cash or PayNow/mobile QR at most stalls, and budget 45–75 minutes to eat properly."
+  - singapore
+  - local restaurant
+quickAnswer: Lau Pa Sat is the octagonal cast-iron Victorian market at 18 Raffles Quay in the CBD, a five-minute walk from Raffles Place MRT (Exits G or H) or Downtown MRT (Exit A). Go for lunch on a weekday before noon to beat the office crowds, or after 9pm when Boon Tat Street closes to traffic and becomes an open-air satay strip. Expect to pay cash or PayNow/mobile QR at most stalls, and budget 45–75 minutes to eat properly.
 faq:
-  - q: "How do I get to Lau Pa Sat by MRT?"
-    a: "Take Raffles Place MRT (North-South/East-West lines), Exit G or H, and walk about five minutes down Cross Street or Church Street. Downtown MRT (Downtown Line), Exit A, is an equally short walk."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Avoid weekday lunch between 11:30am and 2pm, when the CBD empties out into the hawker stalls. Go just before noon, mid-afternoon, or wait until after the lunch rush clears."
-  - q: "Is Satay Street part of Lau Pa Sat?"
-    a: "It's the section of Boon Tat Street right alongside the market, closed to traffic in the evenings (typically from around 7pm) so satay hawkers can grill outdoors — a separate but adjoining experience to the indoor hall."
-  - q: "How much time should I budget?"
-    a: "45–75 minutes covers a proper meal with time to walk the stalls first and decide. If you're doing both the indoor hall and Satay Street, allow closer to two hours."
-  - q: "Can I pay by card?"
-    a: "Many stalls now accept PayNow or card via QR code, but plenty are still cash-preferred, especially smaller family-run stalls — carry some cash to be safe."
+  - q: How do I get to Lau Pa Sat by MRT?
+    a: Take Raffles Place MRT (North-South/East-West lines), Exit G or H, and walk about five minutes down Cross Street or Church Street. Downtown MRT (Downtown Line), Exit A, is an equally short walk.
+  - q: What's the best time to visit to avoid crowds?
+    a: Avoid weekday lunch between 11:30am and 2pm, when the CBD empties out into the hawker stalls. Go just before noon, mid-afternoon, or wait until after the lunch rush clears.
+  - q: Is Satay Street part of Lau Pa Sat?
+    a: It's the section of Boon Tat Street right alongside the market, closed to traffic in the evenings (typically from around 7pm) so satay hawkers can grill outdoors — a separate but adjoining experience to the indoor hall.
+  - q: How much time should I budget?
+    a: 45–75 minutes covers a proper meal with time to walk the stalls first and decide. If you're doing both the indoor hall and Satay Street, allow closer to two hours.
+  - q: Can I pay by card?
+    a: Many stalls now accept PayNow or card via QR code, but plenty are still cash-preferred, especially smaller family-run stalls — carry some cash to be safe.
 aiGenerated: true
 draft: false
 ---

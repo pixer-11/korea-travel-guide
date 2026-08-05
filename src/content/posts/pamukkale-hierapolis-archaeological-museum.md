@@ -1,54 +1,54 @@
 ---
-title: "Hierapolis Archaeological Museum: Pamukkale Travel Guide"
+title: 'Hierapolis Archaeological Museum: Pamukkale Travel Guide'
 description: The Hierapolis Archaeological Museum sits inside the old Roman baths (thermae) just north of the travertine terraces, and it's worth 45-60 minutes on the way to or from the ruins.
-country: "Turkey"
-region: "Pamukkale"
-category: "attraction"
-pubDate: "2026-07-26T07:52:30.809Z"
+country: Turkey
+region: Pamukkale
+category: attraction
+pubDate: '2026-07-26T07:52:30.809Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hierapolis_Archaeology_Museum%2C_Turkey_%2831595600163%29.jpg/1920px-Hierapolis_Archaeology_Museum%2C_Turkey_%2831595600163%29.jpg"
-  credit: "Photo: Carole Raddato from FRANKFURT, Germany / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Hierapolis_Archaeology_Museum,_Turkey_(31595600163).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hierapolis_Archaeology_Museum%2C_Turkey_%2831595600163%29.jpg/1920px-Hierapolis_Archaeology_Museum%2C_Turkey_%2831595600163%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Carole Raddato from FRANKFURT, Germany / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Hierapolis_Archaeology_Museum,_Turkey_(31595600163).jpg
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/384044792_YLPzCLv8Oik-YD-DpgDW_t0wr2tkE3kS0J-OTDdmk5U.jpg
     credit: 'Photo: Foursquare user content (Hierapolis Arkeoloji Müzesi)'
     license: foursquare
     source: https://foursquare.com/v/4f72f40fe4b017b448e65e9a
 place:
-  id: "ChIJBasWfzASxxQRgC-JjjFJx10"
-  name: "Hierapolis Archaeological Museum"
-  address: "Sümer Mahallesi, 2259. Sokak No:12, 20020 Merkez/Pamukkale/Denizli, Türkiye"
+  id: ChIJBasWfzASxxQRgC-JjjFJx10
+  name: Hierapolis Archaeological Museum
+  address: Sümer Mahallesi, 2259. Sokak No:12, 20020 Merkez/Pamukkale/Denizli, Türkiye
   rating: 4.6
   userRatingsTotal: 1203
-  googleMapsUrl: "https://maps.google.com/?cid=6757450243086299008&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=6757450243086299008&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.924970099999996
   lng: 29.1240555
-  phone: '+90 258 272 20 34'
+  phone: +90 258 272 20 34
   openingHours:
-    - "Monday: 8:00 AM – 5:00 PM"
-    - "Tuesday: 8:00 AM – 5:00 PM"
-    - "Wednesday: 8:00 AM – 5:00 PM"
-    - "Thursday: 8:00 AM – 5:00 PM"
-    - "Friday: 8:00 AM – 5:00 PM"
-    - "Saturday: 8:00 AM – 5:00 PM"
-    - "Sunday: 8:00 AM – 5:00 PM"
+    - 'Monday: 8:00 AM – 5:00 PM'
+    - 'Tuesday: 8:00 AM – 5:00 PM'
+    - 'Wednesday: 8:00 AM – 5:00 PM'
+    - 'Thursday: 8:00 AM – 5:00 PM'
+    - 'Friday: 8:00 AM – 5:00 PM'
+    - 'Saturday: 8:00 AM – 5:00 PM'
+    - 'Sunday: 8:00 AM – 5:00 PM'
 tags:
-  - "pamukkale"
-  - "top attraction"
-quickAnswer: "The Hierapolis Archaeological Museum sits inside the old Roman baths (thermae) just north of the travertine terraces, and it's worth 45-60 minutes on the way to or from the ruins. It houses sarcophagi, statuary and small finds from Hierapolis and nearby Laodicea, and because most visitors rush straight past it to the terraces, it stays noticeably calmer than the site outside. Go early or late afternoon, combine it with the Hierapolis theatre and necropolis, and bring your Pamukkale/Hierapolis site ticket logic in mind since the museum usually requires a separate small entrance fee."
+  - pamukkale
+  - top attraction
+quickAnswer: The Hierapolis Archaeological Museum sits inside the old Roman baths (thermae) just north of the travertine terraces, and it's worth 45-60 minutes on the way to or from the ruins. It houses sarcophagi, statuary and small finds from Hierapolis and nearby Laodicea, and because most visitors rush straight past it to the terraces, it stays noticeably calmer than the site outside. Go early or late afternoon, combine it with the Hierapolis theatre and necropolis, and bring your Pamukkale/Hierapolis site ticket logic in mind since the museum usually requires a separate small entrance fee.
 faq:
-  - q: "Is the museum included in the Hierapolis-Pamukkale entrance ticket?"
-    a: "Not automatically — the main site ticket covers the terraces and ruins, but the museum has typically charged its own small separate entrance fee. Confirm current pricing at the gate since ticketing arrangements can change."
-  - q: "How long should I plan to spend there?"
-    a: "About 45 minutes for a focused visit, up to 90 minutes if you want to read the inscriptions and study the sarcophagi and statuary closely."
-  - q: "Where exactly is the museum located within the site?"
-    a: "It's housed in the former Roman bath (thermae) building roughly in the middle of the Hierapolis ruins, close to the theatre and not far from the Antique Pool, at Sümer Mahallesi, 2259. Sokak No:12 in Pamukkale/Denizli."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Early morning right after opening or later in the afternoon before closing — the museum is already quieter than the terraces since most visitors bypass it, and these windows are calmest of all."
-  - q: "What should I see nearby afterward?"
-    a: "Pair the museum with the Hierapolis theatre, the necropolis (tomb-lined road), and the Antique Pool, all within walking distance inside the same archaeological site."
+  - q: Is the museum included in the Hierapolis-Pamukkale entrance ticket?
+    a: Not automatically — the main site ticket covers the terraces and ruins, but the museum has typically charged its own small separate entrance fee. Confirm current pricing at the gate since ticketing arrangements can change.
+  - q: How long should I plan to spend there?
+    a: About 45 minutes for a focused visit, up to 90 minutes if you want to read the inscriptions and study the sarcophagi and statuary closely.
+  - q: Where exactly is the museum located within the site?
+    a: It's housed in the former Roman bath (thermae) building roughly in the middle of the Hierapolis ruins, close to the theatre and not far from the Antique Pool, at Sümer Mahallesi, 2259. Sokak No:12 in Pamukkale/Denizli.
+  - q: When is the best time to visit to avoid crowds?
+    a: Early morning right after opening or later in the afternoon before closing — the museum is already quieter than the terraces since most visitors bypass it, and these windows are calmest of all.
+  - q: What should I see nearby afterward?
+    a: Pair the museum with the Hierapolis theatre, the necropolis (tomb-lined road), and the Antique Pool, all within walking distance inside the same archaeological site.
 aiGenerated: true
 draft: false
 ---

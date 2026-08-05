@@ -1,51 +1,64 @@
 ---
-title: "Monumen Kapal Selam: Surabaya Travel Guide"
-description: "Monumen Kapal Selam (Monkasel) is a real decommissioned Russian-built submarine, KRI Pasopati 410, beached and converted into a walk-through museum on Jl."
-country: "Indonesia"
-region: "Surabaya"
-category: "hidden-gem"
-pubDate: "2026-07-23T07:21:17.452Z"
+title: 'Monumen Kapal Selam: Surabaya Travel Guide'
+description: Monumen Kapal Selam (Monkasel) is a real decommissioned Russian-built submarine, KRI Pasopati 410, beached and converted into a walk-through museum on Jl.
+country: Indonesia
+region: Surabaya
+category: hidden-gem
+pubDate: '2026-07-23T07:21:17.452Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bagian_Dalam_Monumen_Kapal_Selam_%28Monkasel%29_Surabaya_4.jpg/1920px-Bagian_Dalam_Monumen_Kapal_Selam_%28Monkasel%29_Surabaya_4.jpg"
-  credit: "Photo: Diahasy / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Bagian_Dalam_Monumen_Kapal_Selam_(Monkasel)_Surabaya_4.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bagian_Dalam_Monumen_Kapal_Selam_%28Monkasel%29_Surabaya_4.jpg/1920px-Bagian_Dalam_Monumen_Kapal_Selam_%28Monkasel%29_Surabaya_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Diahasy / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Bagian_Dalam_Monumen_Kapal_Selam_(Monkasel)_Surabaya_4.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Bagian_Dalam_Monumen_Kapal_Selam_%28Monkasel%29_Surabaya_6.jpg/1920px-Bagian_Dalam_Monumen_Kapal_Selam_%28Monkasel%29_Surabaya_6.jpg
     credit: 'Photo: Diahasy / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Bagian_Dalam_Monumen_Kapal_Selam_(Monkasel)_Surabaya_6.jpg
 place:
-  id: "ChIJ5SD1jWL51y0RC_s2AXJDdFc"
-  name: "Monumen Kapal Selam Surabaya"
-  address: "Jl. Pemuda No.39, Embong Kaliasin, Kec. Genteng, Surabaya, Jawa Timur 60271, Indonesia"
+  id: ChIJ5SD1jWL51y0RC_s2AXJDdFc
+  name: Monumen Kapal Selam Surabaya
+  address: Jl. Pemuda No.39, Embong Kaliasin, Kec. Genteng, Surabaya, Jawa Timur 60271, Indonesia
   rating: 4.5
   userRatingsTotal: 16845
-  googleMapsUrl: "https://maps.google.com/?cid=6301735935523879691&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=6301735935523879691&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -7.265591000000001
   lng: 112.7503272
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [8, 9, 10, 21]
-    weekendQuiet: [8, 9, 21]
-    weekendBusy: [15, 16, 17, 18, 19, 20]
-    venueId: 'ven_634664444a584132735f4352307931354c576a314453354a496843'
+    weekdayQuiet:
+      - 8
+      - 9
+      - 10
+      - 21
+    weekendQuiet:
+      - 8
+      - 9
+      - 21
+    weekendBusy:
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+    venueId: ven_634664444a584132735f4352307931354c576a314453354a496843
 tags:
-  - "surabaya"
-  - "hidden gem"
-quickAnswer: "Monumen Kapal Selam (Monkasel) is a real decommissioned Russian-built submarine, KRI Pasopati 410, beached and converted into a walk-through museum on Jl. Pemuda in central Surabaya. Budget 45–60 minutes to walk through the narrow hull, then relax in the adjacent riverside park with cafes. It's an easy add-on to a Tunjungan Plaza or Balai Pemuda visit since it sits in the same downtown strip."
+  - surabaya
+  - hidden gem
+quickAnswer: Monumen Kapal Selam (Monkasel) is a real decommissioned Russian-built submarine, KRI Pasopati 410, beached and converted into a walk-through museum on Jl. Pemuda in central Surabaya. Budget 45–60 minutes to walk through the narrow hull, then relax in the adjacent riverside park with cafes. It's an easy add-on to a Tunjungan Plaza or Balai Pemuda visit since it sits in the same downtown strip.
 faq:
-  - q: "How long does a visit take?"
-    a: "Plan for 45 minutes to about an hour: roughly 20-30 minutes walking through the submarine's compartments, plus time in the surrounding riverside park and cafes."
-  - q: "How do I get to Monkasel without a car?"
-    a: "Use Grab or Gojek from anywhere downtown; it's a short ride from Tunjungan Plaza and roughly 1-2 km from Gubeng railway station, walkable if you don't mind a 15-minute stroll."
-  - q: "Is it good for kids or claustrophobic visitors?"
-    a: "Kids generally enjoy the hands-on, walk-through format, but the corridors and hatches are narrow and low, so anyone uncomfortable in tight spaces should be prepared to move through quickly."
-  - q: "What's nearby to combine with the visit?"
-    a: "Balai Pemuda and Tunjungan Plaza are both within a short trip, making it easy to pair Monkasel with shopping, dining, or a look at Surabaya's Dutch colonial-era buildings."
-  - q: "When's the best time to avoid crowds?"
-    a: "Go on a weekday morning shortly after opening; weekends and school holiday periods bring large domestic tour groups that can crowd the submarine's narrow passageways."
+  - q: How long does a visit take?
+    a: 'Plan for 45 minutes to about an hour: roughly 20-30 minutes walking through the submarine''s compartments, plus time in the surrounding riverside park and cafes.'
+  - q: How do I get to Monkasel without a car?
+    a: Use Grab or Gojek from anywhere downtown; it's a short ride from Tunjungan Plaza and roughly 1-2 km from Gubeng railway station, walkable if you don't mind a 15-minute stroll.
+  - q: Is it good for kids or claustrophobic visitors?
+    a: Kids generally enjoy the hands-on, walk-through format, but the corridors and hatches are narrow and low, so anyone uncomfortable in tight spaces should be prepared to move through quickly.
+  - q: What's nearby to combine with the visit?
+    a: Balai Pemuda and Tunjungan Plaza are both within a short trip, making it easy to pair Monkasel with shopping, dining, or a look at Surabaya's Dutch colonial-era buildings.
+  - q: When's the best time to avoid crowds?
+    a: Go on a weekday morning shortly after opening; weekends and school holiday periods bring large domestic tour groups that can crowd the submarine's narrow passageways.
 aiGenerated: true
 draft: false
 ---

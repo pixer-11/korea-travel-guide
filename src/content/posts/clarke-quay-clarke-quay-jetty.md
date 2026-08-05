@@ -6,7 +6,7 @@ region: Clarke Quay
 category: hidden-gem
 pubDate: '2026-07-23T07:39:28.640Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Clarke_Quay%2C_Singapore_%2842344723700%29.jpg/1920px-Clarke_Quay%2C_Singapore_%2842344723700%29.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Clarke_Quay%2C_Singapore_%2842344723700%29.jpg/1920px-Clarke_Quay%2C_Singapore_%2842344723700%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Fabio Achilli from Milano, Italy / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Clarke_Quay,_Singapore_(42344723700).jpg

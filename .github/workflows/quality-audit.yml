@@ -70,7 +70,13 @@ jobs:
         env:
           GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
         run: |
-          out=$(node scripts/quality-audit.mjs --apply 2>&1) || true
+          # `|| true` is deliberate — a Places 429 mid-run is not a build
+          # failure. But it equally swallowed a CRASH, and since nothing is
+          # staged after one, `committed` stays 0 and the Telegram step below is
+          # gated on committed == '1' — so a dead quality audit sent NO message
+          # at all, every day, with the job showing green and job-failure-alert
+          # never firing (found 2026-08-06). Record the distinction.
+          out=$(node scripts/quality-audit.mjs --apply 2>&1) || echo "QUALITY_AUDIT_CRASHED" >> /tmp/qa-crash.txt
           echo "$out"
           res=$(printf '%s\n' "$out" | grep -oE 'AUDIT_RESULT addr=[0-9]+ img=[0-9]+' | tail -1)
           addr=$(printf '%s' "$res" | grep -oE 'addr=[0-9]+' | cut -d= -f2)
@@ -102,6 +108,21 @@ jobs:
             bash scripts/git-push-retry.sh
             echo "committed=1" >> "$GITHUB_OUTPUT"
           fi
+
+      # A crash has to speak even though nothing was committed — that was the
+      # exact silence: no commit, no message, green job, nobody told.
+      - name: Warn if the audit crashed
+        if: always()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
+          [ -s /tmp/qa-crash.txt ] || exit 0
+          TXT='🚨 품질 점검이 실행 중 오류로 멈췄습니다 — 주소·사진 정비가 오늘은 돌지 않았습니다. GitHub Actions 로그를 확인해 주세요.'
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+            --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
+            --data-urlencode "text=$TXT" >/dev/null || true
 
       - name: Notify Telegram
         if: steps.commit.outputs.committed == '1'

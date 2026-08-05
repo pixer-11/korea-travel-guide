@@ -6,7 +6,7 @@ region: Bordeaux
 category: attraction
 pubDate: '2026-07-26T08:25:39.158Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bordeaux_Cath%C3%A9drale_Saint-Andr%C3%A9_Tour_Pey-Berland_Vue_sur_la_Place_Pey_Berland_6.jpg/1920px-Bordeaux_Cath%C3%A9drale_Saint-Andr%C3%A9_Tour_Pey-Berland_Vue_sur_la_Place_Pey_Berland_6.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bordeaux_Cath%C3%A9drale_Saint-Andr%C3%A9_Tour_Pey-Berland_Vue_sur_la_Place_Pey_Berland_6.jpg/1920px-Bordeaux_Cath%C3%A9drale_Saint-Andr%C3%A9_Tour_Pey-Berland_Vue_sur_la_Place_Pey_Berland_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Zairon / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Bordeaux_Cath%C3%A9drale_Saint-Andr%C3%A9_Tour_Pey-Berland_Vue_sur_la_Place_Pey_Berland_6.jpg
@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 44.8375651
   lng: -0.5766178
-  phone: '+33 5 56 81 26 25'
+  phone: +33 5 56 81 26 25
   openingHours:
     - 'Monday: 10:00 AM – 12:30 PM, 2:00 – 5:30 PM'
     - 'Tuesday: 10:00 AM – 12:30 PM, 2:00 – 5:30 PM'

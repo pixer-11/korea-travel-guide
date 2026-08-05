@@ -1,28 +1,28 @@
 ---
-title: "MUSEUM 1: Busan Travel Guide (4.3★)"
-description: "MUSEUM 1 is a contemporary art and design space in Haeundae's Centum City, best paired with a Shinsegae Centum City / BEXCO afternoon. 4.3★ (1,545 reviews) — what visitors say, hours, and tips."
-country: "South Korea"
-region: "Busan"
-category: "attraction"
-pubDate: "2026-08-05T11:39:35.238Z"
+title: 'MUSEUM 1: Busan Travel Guide (4.3★)'
+description: MUSEUM 1 is a contemporary art and design space in Haeundae's Centum City, best paired with a Shinsegae Centum City / BEXCO afternoon. 4.3★ (1,545 reviews) — what visitors say, hours, and tips.
+country: South Korea
+region: Busan
+category: attraction
+pubDate: '2026-08-05T11:39:35.238Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/%EB%B4%84_Busan_Museum_of_Movies.jpg/3840px-%EB%B4%84_Busan_Museum_of_Movies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  credit: "Photo: Christian Bolz / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:%EB%B4%84_Busan_Museum_of_Movies.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/%EB%B4%84_Busan_Museum_of_Movies.jpg/1920px-%EB%B4%84_Busan_Museum_of_Movies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Christian Bolz / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:%EB%B4%84_Busan_Museum_of_Movies.jpg
 gallery: []
 place:
-  id: "ChIJMdF91iSTaDURCCK292RIcB8"
-  name: "MUSEUM 1"
-  address: "20 Centum seo-ro, Haeundae, Busan, South Korea"
+  id: ChIJMdF91iSTaDURCCK292RIcB8
+  name: MUSEUM 1
+  address: 20 Centum seo-ro, Haeundae, Busan, South Korea
   rating: 4.3
   userRatingsTotal: 1545
-  googleMapsUrl: "https://maps.google.com/?cid=2265390211057197576&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=2265390211057197576&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.1713308
   lng: 129.1289792
   busyness:
-    updated: 2026-08-05
+    updated: 2026-08-05T00:00:00.000Z
     weekdayQuiet:
       - 10
       - 18
@@ -37,22 +37,22 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_38426349523239324b434352554461545369313946644d4a496843"
+    venueId: ven_38426349523239324b434352554461545369313946644d4a496843
 tags:
-  - "busan"
-  - "museum"
-quickAnswer: "MUSEUM 1 is a contemporary art and design space in Haeundae's Centum City, best paired with a Shinsegae Centum City / BEXCO afternoon. Go on a weekday between 10am and 8pm for the calmest galleries, and if you can only manage a weekend, aim for the morning or evening rather than the noon-to-6pm rush. Budget about 90 minutes to two hours to see the collection properly."
+  - busan
+  - museum
+quickAnswer: MUSEUM 1 is a contemporary art and design space in Haeundae's Centum City, best paired with a Shinsegae Centum City / BEXCO afternoon. Go on a weekday between 10am and 8pm for the calmest galleries, and if you can only manage a weekend, aim for the morning or evening rather than the noon-to-6pm rush. Budget about 90 minutes to two hours to see the collection properly.
 faq:
-  - q: "How do I get to MUSEUM 1 without a car?"
-    a: "Take Busan Metro Line 2 to Centum City Station; the underground concourse connects directly to the Centum City complex, so you can walk there indoors from the station."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays are calm across the whole 10am–8pm window. On weekends the museum stays open until 9pm and is quietest in the morning or after 6pm — avoid the noon-to-6pm stretch, when crowds peak."
-  - q: "How long should I plan to spend there?"
-    a: "Around 90 minutes to two hours is enough to see the current exhibitions without rushing."
-  - q: "What's nearby if I want to make a half-day of it?"
-    a: "Shinsegae Centum City Mall and BEXCO are both within walking distance, and Haeundae Beach is a short metro or taxi ride away for dinner afterward."
-  - q: "Is this a good rainy-day option in Busan?"
-    a: "Yes — since it's accessible via underground metro concourse and connects indoors to the mall, it's a solid choice when the weather turns."
+  - q: How do I get to MUSEUM 1 without a car?
+    a: Take Busan Metro Line 2 to Centum City Station; the underground concourse connects directly to the Centum City complex, so you can walk there indoors from the station.
+  - q: When is the quietest time to visit?
+    a: Weekdays are calm across the whole 10am–8pm window. On weekends the museum stays open until 9pm and is quietest in the morning or after 6pm — avoid the noon-to-6pm stretch, when crowds peak.
+  - q: How long should I plan to spend there?
+    a: Around 90 minutes to two hours is enough to see the current exhibitions without rushing.
+  - q: What's nearby if I want to make a half-day of it?
+    a: Shinsegae Centum City Mall and BEXCO are both within walking distance, and Haeundae Beach is a short metro or taxi ride away for dinner afterward.
+  - q: Is this a good rainy-day option in Busan?
+    a: Yes — since it's accessible via underground metro concourse and connects indoors to the mall, it's a solid choice when the weather turns.
 aiGenerated: true
 draft: false
 ---

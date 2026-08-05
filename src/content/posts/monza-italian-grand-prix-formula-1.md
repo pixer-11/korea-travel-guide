@@ -1,17 +1,17 @@
 ---
-title: "Formula 1 Italian Grand Prix 2026: What to Know (Monza)"
-description: "The 2026 Italian Grand Prix runs September 4-6 at the Autodromo Nazionale Monza, just north of Milan."
+title: 'Formula 1 Italian Grand Prix 2026: What to Know (Monza)'
+description: The 2026 Italian Grand Prix runs September 4-6 at the Autodromo Nazionale Monza, just north of Milan.
 country: Italy
 region: Monza
 category: event
-eventStartDate: 2026-09-04
-eventEndDate: 2026-09-06
+eventStartDate: 2026-09-04T00:00:00.000Z
+eventEndDate: 2026-09-06T00:00:00.000Z
 pubDate: '2026-07-21'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fale_F1_Monza_2004_77.jpg/1920px-Fale_F1_Monza_2004_77.jpg"
-  credit: "Photo: Fabio Alessandro Locati / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Fale_F1_Monza_2004_77.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fale_F1_Monza_2004_77.jpg/1920px-Fale_F1_Monza_2004_77.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Fabio Alessandro Locati / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Fale_F1_Monza_2004_77.jpg
 gallery: []
 tags:
   - monza

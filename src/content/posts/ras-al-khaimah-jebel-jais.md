@@ -1,45 +1,45 @@
 ---
-title: "Jebel Jais: Ras Al Khaimah Travel Guide"
-description: "Jebel Jais, the UAE's tallest peak (about 1,934m), sits in Wadi Shehah roughly 1.5 hours from Dubai and 45 minutes from Ras Al Khaimah city."
-country: "United Arab Emirates"
-region: "Ras Al Khaimah"
-category: "hidden-gem"
-pubDate: "2026-07-23T07:53:55.737Z"
+title: 'Jebel Jais: Ras Al Khaimah Travel Guide'
+description: Jebel Jais, the UAE's tallest peak (about 1,934m), sits in Wadi Shehah roughly 1.5 hours from Dubai and 45 minutes from Ras Al Khaimah city.
+country: United Arab Emirates
+region: Ras Al Khaimah
+category: hidden-gem
+pubDate: '2026-07-23T07:53:55.737Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Mountain_view%2C_Jebel_Jais_Ras_al_Khaimah%2C_UAE.jpg/1920px-Mountain_view%2C_Jebel_Jais_Ras_al_Khaimah%2C_UAE.jpg"
-  credit: "Photo: Tashmetova808 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Mountain_view,_Jebel_Jais_Ras_al_Khaimah,_UAE.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Mountain_view%2C_Jebel_Jais_Ras_al_Khaimah%2C_UAE.jpg/1920px-Mountain_view%2C_Jebel_Jais_Ras_al_Khaimah%2C_UAE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Tashmetova808 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Mountain_view,_Jebel_Jais_Ras_al_Khaimah,_UAE.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mountain_view%2C_Jebel_Jais%2C_Ras_al_Khaimah%2C_UAE.jpg/1920px-Mountain_view%2C_Jebel_Jais%2C_Ras_al_Khaimah%2C_UAE.jpg
     credit: 'Photo: Tashmetova808 / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Mountain_view,_Jebel_Jais,_Ras_al_Khaimah,_UAE.jpg
 place:
-  id: "ChIJ96_xQD5j9j4RId7hqxDC1Uo"
-  name: "Jebel Jais"
-  address: "Wadi Shehah - Ras Al Khaimah - United Arab Emirates"
+  id: ChIJ96_xQD5j9j4RId7hqxDC1Uo
+  name: Jebel Jais
+  address: Wadi Shehah - Ras Al Khaimah - United Arab Emirates
   rating: 4.6
   userRatingsTotal: 21307
-  googleMapsUrl: "https://maps.google.com/?cid=5392429505705008673&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=5392429505705008673&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.9436748
   lng: 56.1424297
 tags:
-  - "ras al khaimah"
-  - "hidden gem"
-quickAnswer: "Jebel Jais, the UAE's tallest peak (about 1,934m), sits in Wadi Shehah roughly 1.5 hours from Dubai and 45 minutes from Ras Al Khaimah city. Come for the Jais Sky Tour zip line (the world's longest at 2.8km), the Jais Sledder toboggan run, and free mountain viewpoints along a paved road with hairpin turns. Plan a half-day for the drive-and-view route, or a full day if you're booking the zip line or an overnight camp."
+  - ras al khaimah
+  - hidden gem
+quickAnswer: Jebel Jais, the UAE's tallest peak (about 1,934m), sits in Wadi Shehah roughly 1.5 hours from Dubai and 45 minutes from Ras Al Khaimah city. Come for the Jais Sky Tour zip line (the world's longest at 2.8km), the Jais Sledder toboggan run, and free mountain viewpoints along a paved road with hairpin turns. Plan a half-day for the drive-and-view route, or a full day if you're booking the zip line or an overnight camp.
 faq:
-  - q: "How do I get to Jebel Jais without a car?"
-    a: "There's no public transit up the mountain, so options are a rental car, taxi, or a booked day-tour transfer from Dubai or Ras Al Khaimah city."
-  - q: "How much time should I set aside?"
-    a: "Allow at least half a day for the drive and viewpoints; a full day if you're doing the zip line, toboggan, or overnight camping in Wadi Shehah."
-  - q: "Do I need to book the zip line in advance?"
-    a: "Yes — book the Jais Sky Tour online ahead of time, especially for weekends, UAE holidays, and the cooler winter season, as slots sell out."
-  - q: "What's the best time of year and day to visit?"
-    a: "October through April for comfortable temperatures, and weekday mornings to avoid the heaviest crowds and peak afternoon heat in summer months."
-  - q: "What else is nearby?"
-    a: "Ras Al Khaimah city (old fort museum, corniche) is about 45 minutes away, and the emirate's beach resorts pair well for a two-day mountain-and-coast trip."
+  - q: How do I get to Jebel Jais without a car?
+    a: There's no public transit up the mountain, so options are a rental car, taxi, or a booked day-tour transfer from Dubai or Ras Al Khaimah city.
+  - q: How much time should I set aside?
+    a: Allow at least half a day for the drive and viewpoints; a full day if you're doing the zip line, toboggan, or overnight camping in Wadi Shehah.
+  - q: Do I need to book the zip line in advance?
+    a: Yes — book the Jais Sky Tour online ahead of time, especially for weekends, UAE holidays, and the cooler winter season, as slots sell out.
+  - q: What's the best time of year and day to visit?
+    a: October through April for comfortable temperatures, and weekday mornings to avoid the heaviest crowds and peak afternoon heat in summer months.
+  - q: What else is nearby?
+    a: Ras Al Khaimah city (old fort museum, corniche) is about 45 minutes away, and the emirate's beach resorts pair well for a two-day mountain-and-coast trip.
 aiGenerated: true
 draft: false
 ---

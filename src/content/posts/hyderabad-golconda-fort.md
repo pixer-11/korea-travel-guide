@@ -1,54 +1,54 @@
 ---
-title: "Golconda Fort: Hyderabad Travel Guide"
+title: 'Golconda Fort: Hyderabad Travel Guide'
 description: Golconda Fort is Hyderabad's hilltop citadel of the Qutb Shahi era, open daily 9am–5pm, with 87 bastions, palace ruins, and an acoustic clap-and-echo system leading up to the Baradari at the summit.
-country: "India"
-region: "Hyderabad"
-category: "hidden-gem"
-pubDate: "2026-07-31T10:31:35.179Z"
+country: India
+region: Hyderabad
+category: hidden-gem
+pubDate: '2026-07-31T10:31:35.179Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Golconda_Fort_005.jpg/1920px-Golconda_Fort_005.jpg"
-  credit: "Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Golconda_Fort_005.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Golconda_Fort_005.jpg/1920px-Golconda_Fort_005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Golconda_Fort_005.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Golconda_Fort_and_Hyderabad_city.jpg/3840px-Golconda_Fort_and_Hyderabad_city.jpg"
-    credit: "Photo: iMahesh / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Golconda_Fort_and_Hyderabad_city.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Golconda_Fort_and_Hyderabad_city.jpg/3840px-Golconda_Fort_and_Hyderabad_city.jpg
+    credit: 'Photo: iMahesh / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Golconda_Fort_and_Hyderabad_city.jpg
 place:
-  id: "ChIJj6mupo6WyzsRWjNa1t_sdms"
-  name: "Golconda Fort"
-  address: "Khair Complex, Ibrahim Bagh, Hyderabad, Telangana 500008, India"
+  id: ChIJj6mupo6WyzsRWjNa1t_sdms
+  name: Golconda Fort
+  address: Khair Complex, Ibrahim Bagh, Hyderabad, Telangana 500008, India
   rating: 4.4
   userRatingsTotal: 142876
-  googleMapsUrl: "https://maps.google.com/?cid=7743637055428244314&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=7743637055428244314&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 17.383309099999998
   lng: 78.4010522
-  phone: '+91 40 2351 2401'
+  phone: +91 40 2351 2401
   openingHours:
-    - "Monday: 9:00 AM – 5:00 PM"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
 tags:
-  - "hyderabad"
-  - "hidden gem"
-quickAnswer: "Golconda Fort is Hyderabad's hilltop citadel of the Qutb Shahi era, open daily 9am–5pm, with 87 bastions, palace ruins, and an acoustic clap-and-echo system leading up to the Baradari at the summit. Give yourself two to three hours, wear real walking shoes for the granite climb, and arrive as close to 9am as you can — this is one of the city's most-visited monuments and the ramps and stairways fill up fast after mid-morning. Pair it with the evening sound-and-light show if you want the fort's story told back to you in the dark."
+  - hyderabad
+  - hidden gem
+quickAnswer: Golconda Fort is Hyderabad's hilltop citadel of the Qutb Shahi era, open daily 9am–5pm, with 87 bastions, palace ruins, and an acoustic clap-and-echo system leading up to the Baradari at the summit. Give yourself two to three hours, wear real walking shoes for the granite climb, and arrive as close to 9am as you can — this is one of the city's most-visited monuments and the ramps and stairways fill up fast after mid-morning. Pair it with the evening sound-and-light show if you want the fort's story told back to you in the dark.
 faq:
-  - q: "How long should I spend at Golconda Fort?"
-    a: "Plan on two to three hours to walk from the entrance up to the Baradari pavilion and back, including stops at the Rani Mahal, the armoury, and the acoustic dome demonstration."
-  - q: "What are the opening hours?"
-    a: "Golconda Fort is open daily from 9:00 AM to 5:00 PM, with no weekly closing day — aim to enter by mid-morning so you're not rushing the descent near closing time."
-  - q: "How do I get to Golconda Fort from central Hyderabad?"
-    a: "There's no direct metro stop, so an auto-rickshaw or cab from areas like Ameerpet or Nampally is the standard route, roughly 30–40 minutes depending on traffic."
-  - q: "Is Golconda Fort worth combining with anything nearby?"
-    a: "Yes — the Qutb Shahi Tombs, resting place of the dynasty that built the fort, are a short drive away and pair naturally with a Golconda visit."
-  - q: "Is it very crowded?"
-    a: "It's one of Hyderabad's most-visited monuments, so expect crowds by late morning and on weekends; arriving close to the 9am opening is the best way to see it with more breathing room."
+  - q: How long should I spend at Golconda Fort?
+    a: Plan on two to three hours to walk from the entrance up to the Baradari pavilion and back, including stops at the Rani Mahal, the armoury, and the acoustic dome demonstration.
+  - q: What are the opening hours?
+    a: Golconda Fort is open daily from 9:00 AM to 5:00 PM, with no weekly closing day — aim to enter by mid-morning so you're not rushing the descent near closing time.
+  - q: How do I get to Golconda Fort from central Hyderabad?
+    a: There's no direct metro stop, so an auto-rickshaw or cab from areas like Ameerpet or Nampally is the standard route, roughly 30–40 minutes depending on traffic.
+  - q: Is Golconda Fort worth combining with anything nearby?
+    a: Yes — the Qutb Shahi Tombs, resting place of the dynasty that built the fort, are a short drive away and pair naturally with a Golconda visit.
+  - q: Is it very crowded?
+    a: It's one of Hyderabad's most-visited monuments, so expect crowds by late morning and on weekends; arriving close to the 9am opening is the best way to see it with more breathing room.
 aiGenerated: true
 draft: false
 ---

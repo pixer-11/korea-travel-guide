@@ -6,7 +6,7 @@ region: New Taipei
 category: attraction
 pubDate: '2026-07-26T07:08:02.019Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Mount_Qixing_under_clear_sky_on_13th_February_2016.jpg/1920px-Mount_Qixing_under_clear_sky_on_13th_February_2016.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Mount_Qixing_under_clear_sky_on_13th_February_2016.jpg/1920px-Mount_Qixing_under_clear_sky_on_13th_February_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Wei-Te Wong / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Mount_Qixing_under_clear_sky_on_13th_February_2016.jpg
@@ -20,7 +20,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 25.1942462
   lng: 121.5609363
-  phone: '+886 2 2861 3601'
+  phone: +886 2 2861 3601
 tags:
   - new taipei
   - top attraction

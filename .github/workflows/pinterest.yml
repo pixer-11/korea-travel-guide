@@ -69,7 +69,16 @@ jobs:
           grep -q '^PIN_TRIAL_BLOCKED' /tmp/pins.log && echo "trial_blocked=true" >> "$GITHUB_OUTPUT" || true
 
       - name: Commit pin state
-        if: steps.gate.outputs.on == 'true'
+        # `always()` because the refresh token ROTATES. pinterest-token.mjs saves
+        # the new one to data/pinterest-token.enc, and Pinterest invalidates the
+        # old one immediately — so if the pin step throws after the refresh, the
+        # rotated token dies with the runner and every later run presents a token
+        # Pinterest has already revoked. That is permanent lockout, reported to
+        # the owner as "토큰이 만료되었거나 무효합니다", which reads like an
+        # expiry rather than a lost write. The same step also carries
+        # data/pinterest.json, so losing it re-pins what was already pinned
+        # (found 2026-08-06).
+        if: always() && steps.gate.outputs.on == 'true'
         run: |
           git config user.name "content-bot"
           git config user.email "bot@users.noreply.github.com"

@@ -1,13 +1,13 @@
 ---
-title: "Les Deux Magots: Paris Travel Guide (4.2★)"
+title: 'Les Deux Magots: Paris Travel Guide (4.2★)'
 description: Les Deux Magots is the legendary Saint-Germain-des-Prés café-brasserie (open daily 7:30am–1am) famous for its literary past and prime people-watching terrace. It's on the pricier side and always busy, so aim for early morning or after 9pm — weekends get packed from noon to 9pm. 4.2★ (12,019 reviews) — what visitors say, hours, and tips.
 country: France
 region: Paris
 category: trendy
-pubDate: "2026-08-03T10:58:51.699Z"
+pubDate: '2026-08-03T10:58:51.699Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Les_Deux_Magots%2C_25_September_2019.jpg/1920px-Les_Deux_Magots%2C_25_September_2019.jpg
-  credit: "Photo: Cheng-en Cheng from Taichung City, Taiwan / Wikimedia Commons (CC BY-SA 2.0)"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Les_Deux_Magots%2C_25_September_2019.jpg/1920px-Les_Deux_Magots%2C_25_September_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Cheng-en Cheng from Taichung City, Taiwan / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Les_Deux_Magots,_25_September_2019.jpg
 gallery: []
@@ -24,13 +24,13 @@ place:
   lng: 2.3331062
   phone: +33 1 45 48 55 25
   openingHours:
-    - "Monday: 7:30 AM – 1:00 AM"
-    - "Tuesday: 7:30 AM – 1:00 AM"
-    - "Wednesday: 7:30 AM – 1:00 AM"
-    - "Thursday: 7:30 AM – 1:00 AM"
-    - "Friday: 7:30 AM – 1:00 AM"
-    - "Saturday: 7:30 AM – 1:00 AM"
-    - "Sunday: 7:30 AM – 1:00 AM"
+    - 'Monday: 7:30 AM – 1:00 AM'
+    - 'Tuesday: 7:30 AM – 1:00 AM'
+    - 'Wednesday: 7:30 AM – 1:00 AM'
+    - 'Thursday: 7:30 AM – 1:00 AM'
+    - 'Friday: 7:30 AM – 1:00 AM'
+    - 'Saturday: 7:30 AM – 1:00 AM'
+    - 'Sunday: 7:30 AM – 1:00 AM'
   busyness:
     updated: 2026-08-03T00:00:00.000Z
     weekdayQuiet:

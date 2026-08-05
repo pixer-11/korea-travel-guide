@@ -1,41 +1,41 @@
 ---
-title: "Phuket Thai Hua Museum: Travel Guide (4.0★)"
-description: "The Thai Hua Museum sits inside a beautifully restored 1934 Sino-Portuguese mansion in Phuket Old Town, telling the story of the Baba (Peranakan) Chinese community through room after room of photographs, tin-mining tools, and family heirlooms. 4.0★ (1,102 reviews) — what visitors say, hours, and tips."
-country: "Thailand"
-region: "Phuket"
-category: "attraction"
-pubDate: "2026-08-05T11:32:55.424Z"
+title: 'Phuket Thai Hua Museum: Travel Guide (4.0★)'
+description: The Thai Hua Museum sits inside a beautifully restored 1934 Sino-Portuguese mansion in Phuket Old Town, telling the story of the Baba (Peranakan) Chinese community through room after room of photographs, tin-mining tools, and family heirlooms. 4.0★ (1,102 reviews) — what visitors say, hours, and tips.
+country: Thailand
+region: Phuket
+category: attraction
+pubDate: '2026-08-05T11:32:55.424Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Phuket_Thai_Hua_School_%28I%29.jpg/3840px-Phuket_Thai_Hua_School_%28I%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  credit: "Photo: This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Phuket_Thai_Hua_School_(I).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Phuket_Thai_Hua_School_%28I%29.jpg/1920px-Phuket_Thai_Hua_School_%28I%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Phuket_Thai_Hua_School_(I).jpg
 gallery: []
 place:
-  id: "ChIJW_ZuovoxUDARO9tP_1sCA30"
-  name: "Phuket Thai Hua Museum"
-  address: "28 Krabi Old Phuket Town, Tambon Talat Nuea, Amphoe Mueang Phuket, Chang Wat Phuket 83000, Thailand"
+  id: ChIJW_ZuovoxUDARO9tP_1sCA30
+  name: Phuket Thai Hua Museum
+  address: 28 Krabi Old Phuket Town, Tambon Talat Nuea, Amphoe Mueang Phuket, Chang Wat Phuket 83000, Thailand
   rating: 4
   userRatingsTotal: 1102
-  googleMapsUrl: "https://maps.google.com/?cid=9008046273819827003&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=9008046273819827003&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 7.8850967
   lng: 98.3867867
 tags:
-  - "phuket"
-  - "museum"
-quickAnswer: "The Thai Hua Museum sits inside a beautifully restored 1934 Sino-Portuguese mansion in Phuket Old Town, telling the story of the Baba (Peranakan) Chinese community through room after room of photographs, tin-mining tools, and family heirlooms. Give it 45–75 minutes, wear something you can slip off shoes in if you visit the tea room, and pair it with a walk down Thalang and Dibuk roads afterward. It's an easy, low-cost stop — best tackled mid-morning before the Old Town heat and crowds build."
+  - phuket
+  - museum
+quickAnswer: The Thai Hua Museum sits inside a beautifully restored 1934 Sino-Portuguese mansion in Phuket Old Town, telling the story of the Baba (Peranakan) Chinese community through room after room of photographs, tin-mining tools, and family heirlooms. Give it 45–75 minutes, wear something you can slip off shoes in if you visit the tea room, and pair it with a walk down Thalang and Dibuk roads afterward. It's an easy, low-cost stop — best tackled mid-morning before the Old Town heat and crowds build.
 faq:
-  - q: "How much time should I budget for the Thai Hua Museum?"
-    a: "Plan for 45 to 75 minutes — enough to walk all the galleries around the courtyard and sit for a drink at the café without feeling rushed."
-  - q: "How do I get to the museum without a car?"
-    a: "Phuket has no rail or metro, so most visitors reach the museum at 28 Krabi Road in Old Phuket Town by taxi, Grab, or tuk-tuk, or on foot if staying nearby, since it's within walking distance of Thalang Road, Dibuk Road, and Soi Romanee."
-  - q: "What's the best time of day to visit?"
-    a: "Morning, an hour or two after opening, is best — Old Town heats up fast by midday and the museum's courtyard café is quieter earlier in the day."
-  - q: "Is the museum worth it if I'm not into history museums?"
-    a: "The building itself — a restored 1934 Sino-Portuguese mansion with a central airwell courtyard — is worth seeing even for visitors who skim the exhibits, and the on-site café makes it easy to enjoy without committing to a deep history lesson."
-  - q: "What else is nearby I can combine with this visit?"
-    a: "It's an easy walk to other Old Town landmarks like the Phuket Philatelic Museum, Shrine of Serene Light, and the colorful shophouse streets of Thalang, Dibuk, and Romanee, all part of the same Sino-Portuguese heritage district."
+  - q: How much time should I budget for the Thai Hua Museum?
+    a: Plan for 45 to 75 minutes — enough to walk all the galleries around the courtyard and sit for a drink at the café without feeling rushed.
+  - q: How do I get to the museum without a car?
+    a: Phuket has no rail or metro, so most visitors reach the museum at 28 Krabi Road in Old Phuket Town by taxi, Grab, or tuk-tuk, or on foot if staying nearby, since it's within walking distance of Thalang Road, Dibuk Road, and Soi Romanee.
+  - q: What's the best time of day to visit?
+    a: Morning, an hour or two after opening, is best — Old Town heats up fast by midday and the museum's courtyard café is quieter earlier in the day.
+  - q: Is the museum worth it if I'm not into history museums?
+    a: The building itself — a restored 1934 Sino-Portuguese mansion with a central airwell courtyard — is worth seeing even for visitors who skim the exhibits, and the on-site café makes it easy to enjoy without committing to a deep history lesson.
+  - q: What else is nearby I can combine with this visit?
+    a: It's an easy walk to other Old Town landmarks like the Phuket Philatelic Museum, Shrine of Serene Light, and the colorful shophouse streets of Thalang, Dibuk, and Romanee, all part of the same Sino-Portuguese heritage district.
 aiGenerated: true
 draft: false
 ---

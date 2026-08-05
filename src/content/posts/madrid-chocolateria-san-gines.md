@@ -6,7 +6,7 @@ region: Madrid
 category: restaurant
 pubDate: '2026-08-04T10:23:56.335Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Madrid_-_Chocolater%C3%ADa_San_Gin%C3%A9s_%2835682180400%29.jpg/3840px-Madrid_-_Chocolater%C3%ADa_San_Gin%C3%A9s_%2835682180400%29.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Madrid_-_Chocolater%C3%ADa_San_Gin%C3%A9s_%2835682180400%29.jpg/1920px-Madrid_-_Chocolater%C3%ADa_San_Gin%C3%A9s_%2835682180400%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Fred Romero from Paris, France / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Madrid_-_Chocolater%C3%ADa_San_Gin%C3%A9s_(35682180400).jpg

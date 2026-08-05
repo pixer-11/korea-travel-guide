@@ -6,7 +6,7 @@ region: Palawan
 category: attraction
 pubDate: '2026-07-26T07:43:04.004Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Puerto-Princesa_Subterranean_River_National_Park-112012.jpg/1920px-Puerto-Princesa_Subterranean_River_National_Park-112012.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Puerto-Princesa_Subterranean_River_National_Park-112012.jpg/1920px-Puerto-Princesa_Subterranean_River_National_Park-112012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Ron Van Oers / Wikimedia Commons (CC BY-SA 3.0 igo)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Puerto-Princesa_Subterranean_River_National_Park-112012.jpg

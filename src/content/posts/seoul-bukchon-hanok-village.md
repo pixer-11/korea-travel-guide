@@ -6,7 +6,7 @@ region: Seoul
 category: hidden-gem
 pubDate: '2026-08-04T10:33:34.876Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bukchon_Hanok_Village_01.jpg/1920px-Bukchon_Hanok_Village_01.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bukchon_Hanok_Village_01.jpg/1920px-Bukchon_Hanok_Village_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Bgag / Wikimedia Commons (CC0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Bukchon_Hanok_Village_01.jpg

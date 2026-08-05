@@ -1,13 +1,13 @@
 ---
-title: "Ilsan Lake Park: Goyang Travel Guide"
+title: 'Ilsan Lake Park: Goyang Travel Guide'
 description: Ilsan Lake Park (일산호수공원) in Goyang's Ilsandong-gu is Korea's largest man-made lake park, with an 8.5km loop path, gardens, sculptures, a small zoo, and a lakeside music fountain.
 country: South Korea
 region: Goyang
 category: attraction
-pubDate: "2026-07-28T10:10:03.383Z"
+pubDate: '2026-07-28T10:10:03.383Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Goyang_Lake_Park.jpg/1920px-Goyang_Lake_Park.jpg
-  credit: "Photo: travel oriented / Wikimedia Commons (CC BY-SA 2.0)"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Goyang_Lake_Park.jpg/1920px-Goyang_Lake_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: travel oriented / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Goyang_Lake_Park.jpg
 gallery: []
@@ -21,15 +21,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 37.6567441
   lng: 126.7662508
-  phone: '+82 31-8075-4347'
+  phone: +82 31-8075-4347
   openingHours:
-    - "Monday: 10:00 AM – 10:00 PM"
-    - "Tuesday: 10:00 AM – 10:00 PM"
-    - "Wednesday: 10:00 AM – 10:00 PM"
-    - "Thursday: 10:00 AM – 10:00 PM"
-    - "Friday: 10:00 AM – 10:00 PM"
-    - "Saturday: 10:00 AM – 10:00 PM"
-    - "Sunday: 10:00 AM – 10:00 PM"
+    - 'Monday: 10:00 AM – 10:00 PM'
+    - 'Tuesday: 10:00 AM – 10:00 PM'
+    - 'Wednesday: 10:00 AM – 10:00 PM'
+    - 'Thursday: 10:00 AM – 10:00 PM'
+    - 'Friday: 10:00 AM – 10:00 PM'
+    - 'Saturday: 10:00 AM – 10:00 PM'
+    - 'Sunday: 10:00 AM – 10:00 PM'
 tags:
   - goyang
   - top attraction

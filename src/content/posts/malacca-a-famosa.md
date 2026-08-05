@@ -1,49 +1,49 @@
 ---
-title: "A Famosa: Malacca Travel Guide"
+title: 'A Famosa: Malacca Travel Guide'
 description: A Famosa's surviving Porta de Santiago gate sits on Jalan Kota in Banda Hilir, right beside St Paul's Hill — it's a five-minute walk from the Stadthuys and Christ Church, so pair it with those rather than treating it as a standalone stop.
-country: "Malaysia"
-region: "Malacca"
-category: "hidden-gem"
-pubDate: "2026-07-28T10:11:31.235Z"
+country: Malaysia
+region: Malacca
+category: hidden-gem
+pubDate: '2026-07-28T10:11:31.235Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/A_Famosa_Fortress.JPG/1920px-A_Famosa_Fortress.JPG"
-  credit: "Photo: Chongkian / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:A_Famosa_Fortress.JPG"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/A_Famosa_Fortress.JPG/1920px-A_Famosa_Fortress.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Chongkian / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:A_Famosa_Fortress.JPG
 gallery: []
 place:
-  id: "ChIJHWino-Dx0TERtWMOoXza5MI"
-  name: "A Famosa"
-  address: "Jln Kota, Banda Hilir, 75000 Melaka, Malaysia"
+  id: ChIJHWino-Dx0TERtWMOoXza5MI
+  name: A Famosa
+  address: Jln Kota, Banda Hilir, 75000 Melaka, Malaysia
   rating: 4.4
   userRatingsTotal: 19587
-  googleMapsUrl: "https://maps.google.com/?cid=14043589766860923829&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=14043589766860923829&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 2.1918016
   lng: 102.25036779999999
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "malacca"
-  - "hidden gem"
-quickAnswer: "A Famosa's surviving Porta de Santiago gate sits on Jalan Kota in Banda Hilir, right beside St Paul's Hill — it's a five-minute walk from the Stadthuys and Christ Church, so pair it with those rather than treating it as a standalone stop. With 19,500+ reviews and a 4.4 rating, it's one of Melaka's most-visited sights, so go at opening time or late afternoon to avoid the worst of the tour-bus crush and the midday heat. Fifteen to twenty minutes is enough at the ruin itself; budget half a day if you're climbing the hill and touring the museums around it."
+  - malacca
+  - hidden gem
+quickAnswer: A Famosa's surviving Porta de Santiago gate sits on Jalan Kota in Banda Hilir, right beside St Paul's Hill — it's a five-minute walk from the Stadthuys and Christ Church, so pair it with those rather than treating it as a standalone stop. With 19,500+ reviews and a 4.4 rating, it's one of Melaka's most-visited sights, so go at opening time or late afternoon to avoid the worst of the tour-bus crush and the midday heat. Fifteen to twenty minutes is enough at the ruin itself; budget half a day if you're climbing the hill and touring the museums around it.
 faq:
-  - q: "How do I get to A Famosa from Jonker Street?"
-    a: "It's about a 15-20 minute walk along the Malacca River, or a 5-minute Grab ride if you'd rather skip the heat."
-  - q: "Is there an entrance fee?"
-    a: "No, the Porta de Santiago gate is an open-air ruin with free public access at any time; there's no ticket booth at the site itself."
-  - q: "How long should I spend there?"
-    a: "The gate alone takes 15-20 minutes, but pair it with the climb up St Paul's Hill and it's easily a 1-1.5 hour stop, or half a day with the Stadthuys and Christ Church added."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Go right at opening in the morning or after 5pm — weekends and school holidays draw the heaviest tour-bus and day-tripper traffic."
-  - q: "What else is nearby?"
-    a: "St Paul's Church sits directly on the hill behind the gate, and the Stadthuys, Christ Church, and Jonker Street are all within a 10-minute walk."
+  - q: How do I get to A Famosa from Jonker Street?
+    a: It's about a 15-20 minute walk along the Malacca River, or a 5-minute Grab ride if you'd rather skip the heat.
+  - q: Is there an entrance fee?
+    a: No, the Porta de Santiago gate is an open-air ruin with free public access at any time; there's no ticket booth at the site itself.
+  - q: How long should I spend there?
+    a: The gate alone takes 15-20 minutes, but pair it with the climb up St Paul's Hill and it's easily a 1-1.5 hour stop, or half a day with the Stadthuys and Christ Church added.
+  - q: What's the best time to visit to avoid crowds?
+    a: Go right at opening in the morning or after 5pm — weekends and school holidays draw the heaviest tour-bus and day-tripper traffic.
+  - q: What else is nearby?
+    a: St Paul's Church sits directly on the hill behind the gate, and the Stadthuys, Christ Church, and Jonker Street are all within a 10-minute walk.
 aiGenerated: true
 draft: false
 ---

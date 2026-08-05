@@ -1,13 +1,13 @@
 ---
-title: "Carmelo: Where to Eat in Lyon"
+title: 'Carmelo: Where to Eat in Lyon'
 description: Carmelo is an Italian restaurant on Rue Neuve in Lyon's 1st arrondissement (Presqu'île), a few minutes' walk from Hôtel de Ville and the Terreaux area, known for generous pasta and warmly cluttered, colorful dining rooms.
 country: France
 region: Lyon
 category: restaurant
-pubDate: "2026-07-29T10:05:08.822Z"
+pubDate: '2026-07-29T10:05:08.822Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Lyon_1er_-_Rue_Neuve_-_Restaurant_Carmelo_-_La_fameuse_p%C3%A2te_%C3%A0_la_truffe_servie_dans_sa_meule_01.jpg/1920px-Lyon_1er_-_Rue_Neuve_-_Restaurant_Carmelo_-_La_fameuse_p%C3%A2te_%C3%A0_la_truffe_servie_dans_sa_meule_01.jpg
-  credit: "Photo: Romainbehar / Wikimedia Commons (CC0)"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Lyon_1er_-_Rue_Neuve_-_Restaurant_Carmelo_-_La_fameuse_p%C3%A2te_%C3%A0_la_truffe_servie_dans_sa_meule_01.jpg/1920px-Lyon_1er_-_Rue_Neuve_-_Restaurant_Carmelo_-_La_fameuse_p%C3%A2te_%C3%A0_la_truffe_servie_dans_sa_meule_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Romainbehar / Wikimedia Commons (CC0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Lyon_1er_-_Rue_Neuve_-_Restaurant_Carmelo_-_La_fameuse_p%C3%A2te_%C3%A0_la_truffe_servie_dans_sa_meule_01.jpg
 gallery: []
@@ -22,24 +22,33 @@ place:
   businessStatus: OPERATIONAL
   lat: 45.7653129
   lng: 4.8349721
-  phone: '+33 9 73 03 43 88'
+  phone: +33 9 73 03 43 88
   openingHours:
-    - "Monday: 11:45 AM – 2:00 PM, 6:15 – 10:15 PM"
-    - "Tuesday: 11:45 AM – 2:00 PM, 6:15 – 10:15 PM"
-    - "Wednesday: 11:45 AM – 2:00 PM, 6:15 – 10:15 PM"
-    - "Thursday: 11:45 AM – 2:00 PM, 6:15 – 10:15 PM"
-    - "Friday: 11:45 AM – 2:00 PM, 6:15 – 10:45 PM"
-    - "Saturday: 11:45 AM – 3:15 PM, 6:15 – 10:45 PM"
-    - "Sunday: 11:45 AM – 3:15 PM, 6:15 – 10:15 PM"
+    - 'Monday: 11:45 AM – 2:00 PM, 6:15 – 10:15 PM'
+    - 'Tuesday: 11:45 AM – 2:00 PM, 6:15 – 10:15 PM'
+    - 'Wednesday: 11:45 AM – 2:00 PM, 6:15 – 10:15 PM'
+    - 'Thursday: 11:45 AM – 2:00 PM, 6:15 – 10:15 PM'
+    - 'Friday: 11:45 AM – 2:00 PM, 6:15 – 10:45 PM'
+    - 'Saturday: 11:45 AM – 3:15 PM, 6:15 – 10:45 PM'
+    - 'Sunday: 11:45 AM – 3:15 PM, 6:15 – 10:15 PM'
   busyness:
     updated: 2026-07-29T00:00:00.000Z
-    weekdayQuiet: [11]
+    weekdayQuiet:
+      - 11
     weekdayBusy:
       - 19
       - 20
       - 21
-    weekendQuiet: [11]
-    weekendBusy: [12, 13, 14, 18, 19, 20, 21]
+    weekendQuiet:
+      - 11
+    weekendBusy:
+      - 12
+      - 13
+      - 14
+      - 18
+      - 19
+      - 20
+      - 21
     venueId: ven_6b6759667561755475755a5263453972665936665959624a496843
 tags:
   - lyon

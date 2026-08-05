@@ -1,42 +1,42 @@
 ---
-title: "Les Ventres Jaunes: Where to Eat in Lyon (4.6★)"
-description: "Les Ventres Jaunes is a \"bouchon\"-style restaurant on Place Neuve Saint-Jean in Vieux Lyon, serving generous homestyle French cooking (quenelles, andouillette, gratins) in a rustic yellow-toned dining room with exposed rafters. 4.6★ (3,931 reviews) — what visitors say, hours, and tips."
-country: "France"
-region: "Lyon"
-category: "restaurant"
-pubDate: "2026-08-03T10:53:54.075Z"
+title: 'Les Ventres Jaunes: Where to Eat in Lyon (4.6★)'
+description: Les Ventres Jaunes is a "bouchon"-style restaurant on Place Neuve Saint-Jean in Vieux Lyon, serving generous homestyle French cooking (quenelles, andouillette, gratins) in a rustic yellow-toned dining room with exposed rafters. 4.6★ (3,931 reviews) — what visitors say, hours, and tips.
+country: France
+region: Lyon
+category: restaurant
+pubDate: '2026-08-03T10:53:54.075Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Lyon_5e_-_Les_Ventres_Jaunes%2C_salade_des_Ventres_Jaunes.jpg/3840px-Lyon_5e_-_Les_Ventres_Jaunes%2C_salade_des_Ventres_Jaunes.jpg"
-  credit: "Photo: Romainbehar / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Lyon_5e_-_Les_Ventres_Jaunes,_salade_des_Ventres_Jaunes.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Lyon_5e_-_Les_Ventres_Jaunes%2C_salade_des_Ventres_Jaunes.jpg/1920px-Lyon_5e_-_Les_Ventres_Jaunes%2C_salade_des_Ventres_Jaunes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Romainbehar / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Lyon_5e_-_Les_Ventres_Jaunes,_salade_des_Ventres_Jaunes.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Lyon_5e_-_Les_Ventres_Jaunes%2C_andouillette_tir%C3%A9e_%C3%A0_la_ficelle_de_chez_Bobosse.jpg/3840px-Lyon_5e_-_Les_Ventres_Jaunes%2C_andouillette_tir%C3%A9e_%C3%A0_la_ficelle_de_chez_Bobosse.jpg"
-    credit: "Photo: Romainbehar / Wikimedia Commons (CC0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Lyon_5e_-_Les_Ventres_Jaunes,_andouillette_tir%C3%A9e_%C3%A0_la_ficelle_de_chez_Bobosse.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Lyon_5e_-_Les_Ventres_Jaunes%2C_andouillette_tir%C3%A9e_%C3%A0_la_ficelle_de_chez_Bobosse.jpg/3840px-Lyon_5e_-_Les_Ventres_Jaunes%2C_andouillette_tir%C3%A9e_%C3%A0_la_ficelle_de_chez_Bobosse.jpg
+    credit: 'Photo: Romainbehar / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Lyon_5e_-_Les_Ventres_Jaunes,_andouillette_tir%C3%A9e_%C3%A0_la_ficelle_de_chez_Bobosse.jpg
 place:
-  id: "ChIJ1VHV6Krr9EcRPRK4PD9725k"
-  name: "Les Ventres Jaunes"
-  address: "1 Pl. Neuve Saint-Jean, 69005 Lyon, France"
+  id: ChIJ1VHV6Krr9EcRPRK4PD9725k
+  name: Les Ventres Jaunes
+  address: 1 Pl. Neuve Saint-Jean, 69005 Lyon, France
   rating: 4.6
   userRatingsTotal: 3931
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=11086590419234460221&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=11086590419234460221&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.7626466
   lng: 4.8272106
-  phone: "+33 9 79 57 02 65"
+  phone: +33 9 79 57 02 65
   openingHours:
-    - "Monday: 11:30 AM – 2:30 PM, 6:30 – 10:30 PM"
-    - "Tuesday: 11:30 AM – 2:30 PM, 6:30 – 10:30 PM"
-    - "Wednesday: 11:30 AM – 2:30 PM, 6:30 – 10:30 PM"
-    - "Thursday: 11:30 AM – 2:30 PM, 6:30 – 10:30 PM"
-    - "Friday: 11:30 AM – 2:30 PM, 6:30 – 10:30 PM"
-    - "Saturday: 11:30 AM – 2:30 PM, 6:30 – 10:30 PM"
-    - "Sunday: 11:30 AM – 2:30 PM, 6:30 – 10:30 PM"
+    - 'Monday: 11:30 AM – 2:30 PM, 6:30 – 10:30 PM'
+    - 'Tuesday: 11:30 AM – 2:30 PM, 6:30 – 10:30 PM'
+    - 'Wednesday: 11:30 AM – 2:30 PM, 6:30 – 10:30 PM'
+    - 'Thursday: 11:30 AM – 2:30 PM, 6:30 – 10:30 PM'
+    - 'Friday: 11:30 AM – 2:30 PM, 6:30 – 10:30 PM'
+    - 'Saturday: 11:30 AM – 2:30 PM, 6:30 – 10:30 PM'
+    - 'Sunday: 11:30 AM – 2:30 PM, 6:30 – 10:30 PM'
   busyness:
-    updated: 2026-08-03
+    updated: 2026-08-03T00:00:00.000Z
     weekendBusy:
       - 12
       - 13
@@ -44,22 +44,22 @@ place:
       - 19
       - 20
       - 21
-    venueId: "ven_6b353237394450344b52505263453972724b36564856314a496843"
+    venueId: ven_6b353237394450344b52505263453972724b36564856314a496843
 tags:
-  - "lyon"
-  - "street food"
-quickAnswer: "Les Ventres Jaunes is a \"bouchon\"-style restaurant on Place Neuve Saint-Jean in Vieux Lyon, serving generous homestyle French cooking (quenelles, andouillette, gratins) in a rustic yellow-toned dining room with exposed rafters. It's open daily 11:30am–2:30pm and 6:30–10:30pm, is well-known and consistently full, so book ahead or arrive right at opening for lunch or dinner. Budget mid-range prices and expect a full house all weekend, from noon straight through to 10pm."
+  - lyon
+  - street food
+quickAnswer: Les Ventres Jaunes is a "bouchon"-style restaurant on Place Neuve Saint-Jean in Vieux Lyon, serving generous homestyle French cooking (quenelles, andouillette, gratins) in a rustic yellow-toned dining room with exposed rafters. It's open daily 11:30am–2:30pm and 6:30–10:30pm, is well-known and consistently full, so book ahead or arrive right at opening for lunch or dinner. Budget mid-range prices and expect a full house all weekend, from noon straight through to 10pm.
 faq:
-  - q: "Do I need a reservation?"
-    a: "It's not strictly required but strongly recommended, especially for dinner and weekends — this is a well-known spot in Vieux Lyon and tables fill fast."
-  - q: "What's the best time to avoid a wait?"
-    a: "Arrive right at opening — 11:30am for lunch or 6:30pm for dinner. Weekends stay busy continuously from noon to 10pm, so there's no quiet lull to aim for then."
-  - q: "How much should I expect to pay?"
-    a: "It's mid-range for Lyon: not a budget bouchon, but reasonable given the generous portions and quality of traditional cooking."
-  - q: "How do I get there by public transport?"
-    a: "Take Metro Line D to Vieux Lyon–Cathédrale Saint-Jean station; the restaurant is about a two-minute walk into the old town."
-  - q: "What should I order?"
-    a: "The quenelle de brochet in nantua sauce and the andouillette are the signature choices, alongside a gratin dauphinois to share."
+  - q: Do I need a reservation?
+    a: It's not strictly required but strongly recommended, especially for dinner and weekends — this is a well-known spot in Vieux Lyon and tables fill fast.
+  - q: What's the best time to avoid a wait?
+    a: Arrive right at opening — 11:30am for lunch or 6:30pm for dinner. Weekends stay busy continuously from noon to 10pm, so there's no quiet lull to aim for then.
+  - q: How much should I expect to pay?
+    a: 'It''s mid-range for Lyon: not a budget bouchon, but reasonable given the generous portions and quality of traditional cooking.'
+  - q: How do I get there by public transport?
+    a: Take Metro Line D to Vieux Lyon–Cathédrale Saint-Jean station; the restaurant is about a two-minute walk into the old town.
+  - q: What should I order?
+    a: The quenelle de brochet in nantua sauce and the andouillette are the signature choices, alongside a gratin dauphinois to share.
 aiGenerated: true
 draft: false
 ---

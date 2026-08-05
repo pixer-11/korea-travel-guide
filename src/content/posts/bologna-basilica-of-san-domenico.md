@@ -1,13 +1,13 @@
 ---
-title: "Basilica of San Domenico: Bologna Travel Guide"
+title: 'Basilica of San Domenico: Bologna Travel Guide'
 description: The Basilica of San Domenico sits a 12-minute walk south of Piazza Maggiore, in the university quarter near Bologna's old city walls.
 country: Italy
 region: Bologna
 category: hidden-gem
-pubDate: "2026-07-29T10:04:18.450Z"
+pubDate: '2026-07-29T10:04:18.450Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bologna_-_Students_in_front_of_the_Basilica_of_San_Domenico.jpg/1920px-Bologna_-_Students_in_front_of_the_Basilica_of_San_Domenico.jpg
-  credit: "Photo: Katedra histórie UMB / Wikimedia Commons (CC BY-SA 4.0)"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bologna_-_Students_in_front_of_the_Basilica_of_San_Domenico.jpg/1920px-Bologna_-_Students_in_front_of_the_Basilica_of_San_Domenico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Katedra histórie UMB / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Bologna_-_Students_in_front_of_the_Basilica_of_San_Domenico.jpg
 gallery: []
@@ -21,18 +21,19 @@ place:
   businessStatus: OPERATIONAL
   lat: 44.489641999999996
   lng: 11.3440336
-  phone: '+39 051 640 0411'
+  phone: +39 051 640 0411
   openingHours:
-    - "Monday: 7:30 AM – 1:00 PM, 3:30 – 8:00 PM"
-    - "Tuesday: 7:30 AM – 1:00 PM, 3:30 – 8:00 PM"
-    - "Wednesday: 7:30 AM – 1:00 PM, 3:30 – 8:00 PM"
-    - "Thursday: 7:30 AM – 1:00 PM, 3:30 – 8:00 PM"
-    - "Friday: 7:30 AM – 1:00 PM, 3:30 – 8:00 PM"
-    - "Saturday: 7:30 AM – 1:00 PM, 3:30 – 8:00 PM"
-    - "Sunday: 7:30 AM – 1:00 PM, 3:30 – 8:00 PM"
+    - 'Monday: 7:30 AM – 1:00 PM, 3:30 – 8:00 PM'
+    - 'Tuesday: 7:30 AM – 1:00 PM, 3:30 – 8:00 PM'
+    - 'Wednesday: 7:30 AM – 1:00 PM, 3:30 – 8:00 PM'
+    - 'Thursday: 7:30 AM – 1:00 PM, 3:30 – 8:00 PM'
+    - 'Friday: 7:30 AM – 1:00 PM, 3:30 – 8:00 PM'
+    - 'Saturday: 7:30 AM – 1:00 PM, 3:30 – 8:00 PM'
+    - 'Sunday: 7:30 AM – 1:00 PM, 3:30 – 8:00 PM'
   busyness:
     updated: 2026-07-29T00:00:00.000Z
-    weekdayQuiet: [7]
+    weekdayQuiet:
+      - 7
     weekdayBusy:
       - 9
       - 10
@@ -41,7 +42,11 @@ place:
       - 15
       - 16
       - 17
-    weekendQuiet: [7, 8, 9, 19]
+    weekendQuiet:
+      - 7
+      - 8
+      - 9
+      - 19
     weekendBusy:
       - 16
       - 17

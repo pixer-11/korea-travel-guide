@@ -1,45 +1,45 @@
 ---
-title: "Zhanqiao Pier: Qingdao Travel Guide"
+title: 'Zhanqiao Pier: Qingdao Travel Guide'
 description: Zhanqiao Pier is Qingdao's oldest waterfront landmark — a 440-meter stone-and-timber pier in Shinan District ending at the double-eaved Huilan Ge pavilion, the same octagonal building you've likely seen on Tsingtao Beer labels.
-country: "China"
-region: "Qingdao"
-category: "attraction"
-pubDate: "2026-07-28T10:07:55.772Z"
+country: China
+region: Qingdao
+category: attraction
+pubDate: '2026-07-28T10:07:55.772Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/%E9%9D%92%E5%B2%9B%E6%A0%88%E6%A1%A5_Ehemalige_Landungsbr%C3%BCcke_Qingdao.jpg/1920px-%E9%9D%92%E5%B2%9B%E6%A0%88%E6%A1%A5_Ehemalige_Landungsbr%C3%BCcke_Qingdao.jpg"
-  credit: "Photo: StefanTsingtauer / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E6%A0%88%E6%A1%A5_Ehemalige_Landungsbr%C3%BCcke_Qingdao.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/%E9%9D%92%E5%B2%9B%E6%A0%88%E6%A1%A5_Ehemalige_Landungsbr%C3%BCcke_Qingdao.jpg/1920px-%E9%9D%92%E5%B2%9B%E6%A0%88%E6%A1%A5_Ehemalige_Landungsbr%C3%BCcke_Qingdao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: StefanTsingtauer / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E6%A0%88%E6%A1%A5_Ehemalige_Landungsbr%C3%BCcke_Qingdao.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/8/8e/20240729_Zhanqiao_01.jpg"
-    credit: "Photo: Windmemories / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:20240729_Zhanqiao_01.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/8/8e/20240729_Zhanqiao_01.jpg
+    credit: 'Photo: Windmemories / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:20240729_Zhanqiao_01.jpg
 place:
-  id: "ChIJa3aYWYsPljURmWfiJ9p_T1Y"
-  name: "Zhanqiao Pier"
-  address: "14 Tai Ping Lu, Shi Nan Qu, Qing Dao Shi, Shan Dong Sheng, China, 266005"
+  id: ChIJa3aYWYsPljURmWfiJ9p_T1Y
+  name: Zhanqiao Pier
+  address: 14 Tai Ping Lu, Shi Nan Qu, Qing Dao Shi, Shan Dong Sheng, China, 266005
   rating: 4.1
   userRatingsTotal: 448
-  googleMapsUrl: "https://maps.google.com/?cid=6219330185370691481&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=6219330185370691481&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 36.058454
   lng: 120.320491
 tags:
-  - "qingdao"
-  - "top attraction"
-quickAnswer: "Zhanqiao Pier is Qingdao's oldest waterfront landmark — a 440-meter stone-and-timber pier in Shinan District ending at the double-eaved Huilan Ge pavilion, the same octagonal building you've likely seen on Tsingtao Beer labels. It's free, open all day, and best walked at sunrise or just before sunset when the light off Qingdao Bay turns the water copper. Give it 30-45 minutes, then continue on foot to Badaguan or Zhongshan Road."
+  - qingdao
+  - top attraction
+quickAnswer: Zhanqiao Pier is Qingdao's oldest waterfront landmark — a 440-meter stone-and-timber pier in Shinan District ending at the double-eaved Huilan Ge pavilion, the same octagonal building you've likely seen on Tsingtao Beer labels. It's free, open all day, and best walked at sunrise or just before sunset when the light off Qingdao Bay turns the water copper. Give it 30-45 minutes, then continue on foot to Badaguan or Zhongshan Road.
 faq:
-  - q: "How much does it cost to visit Zhanqiao Pier?"
-    a: "Walking the pier and reaching Huilan Ge pavilion is free. Confirm current details locally, as small seasonal changes to access can occur."
-  - q: "How do I get to Zhanqiao Pier by metro?"
-    a: "Take Metro Line 3 to Qingdao Railway Station, then walk about 10 minutes north along Tai Ping Lu with the bay on your left."
-  - q: "How long should I spend at Zhanqiao Pier?"
-    a: "30 to 45 minutes is enough to walk the 440-meter pier, see Huilan Ge, and take photos — most visitors combine it with a longer walk along the waterfront or into the old town."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Go early morning (around 7-8am) or after 6pm. Midday, especially in summer, brings the heaviest tour-bus traffic and a crowded causeway."
-  - q: "What else is near Zhanqiao Pier?"
-    a: "Zhongshan Road's historic shopping street, Xiaoyushan Park, and Qingdao Railway Station's German-built clock tower are all within a 10-20 minute walk; Badaguan is a short taxi ride away."
+  - q: How much does it cost to visit Zhanqiao Pier?
+    a: Walking the pier and reaching Huilan Ge pavilion is free. Confirm current details locally, as small seasonal changes to access can occur.
+  - q: How do I get to Zhanqiao Pier by metro?
+    a: Take Metro Line 3 to Qingdao Railway Station, then walk about 10 minutes north along Tai Ping Lu with the bay on your left.
+  - q: How long should I spend at Zhanqiao Pier?
+    a: 30 to 45 minutes is enough to walk the 440-meter pier, see Huilan Ge, and take photos — most visitors combine it with a longer walk along the waterfront or into the old town.
+  - q: When is the best time to visit to avoid crowds?
+    a: Go early morning (around 7-8am) or after 6pm. Midday, especially in summer, brings the heaviest tour-bus traffic and a crowded causeway.
+  - q: What else is near Zhanqiao Pier?
+    a: Zhongshan Road's historic shopping street, Xiaoyushan Park, and Qingdao Railway Station's German-built clock tower are all within a 10-20 minute walk; Badaguan is a short taxi ride away.
 aiGenerated: true
 draft: false
 ---

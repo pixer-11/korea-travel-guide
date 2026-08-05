@@ -1,12 +1,12 @@
 ---
-title: "Seoraksan Cable Car: Sokcho Travel Guide"
-description: "The Seoraksan Cable Car whisks visitors from the base station near Sogongwon Park up to Gwongeumseong Fortress ridge on Mt."
+title: 'Seoraksan Cable Car: Sokcho Travel Guide'
+description: The Seoraksan Cable Car whisks visitors from the base station near Sogongwon Park up to Gwongeumseong Fortress ridge on Mt.
 region: Sokcho
-country: "South Korea"
+country: South Korea
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Seoraksan_Cable_Car_04.jpg/1920px-Seoraksan_Cable_Car_04.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Seoraksan_Cable_Car_04.jpg/1920px-Seoraksan_Cable_Car_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Seoraksan_Cable_Car_04.jpg

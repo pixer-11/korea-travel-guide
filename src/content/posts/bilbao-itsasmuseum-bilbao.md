@@ -1,41 +1,41 @@
 ---
-title: "Itsasmuseum: Bilbao Travel Guide"
+title: 'Itsasmuseum: Bilbao Travel Guide'
 description: Itsasmuseum Bilbao sits on the Ría de Bilbao in the old Euskalduna shipyard, a short walk from the Guggenheim, and covers shipbuilding and the port's transformation into today's riverside city.
-country: "Spain"
-region: "Bilbao"
-category: "hidden-gem"
-pubDate: "2026-07-31T10:17:50.245Z"
+country: Spain
+region: Bilbao
+category: hidden-gem
+pubDate: '2026-07-31T10:17:50.245Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Interior_del_Itsasmuseum_Bilbao_-_Vista_general.jpg/3840px-Interior_del_Itsasmuseum_Bilbao_-_Vista_general.jpg"
-  credit: "Photo: Vanbasten 23 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Interior_del_Itsasmuseum_Bilbao_-_Vista_general.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Interior_del_Itsasmuseum_Bilbao_-_Vista_general.jpg/1920px-Interior_del_Itsasmuseum_Bilbao_-_Vista_general.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Vanbasten 23 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Interior_del_Itsasmuseum_Bilbao_-_Vista_general.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Itsasmuseum_Bilbao.jpg/3840px-Itsasmuseum_Bilbao.jpg"
-    credit: "Photo: Xabier / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Itsasmuseum_Bilbao.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Itsasmuseum_Bilbao.jpg/3840px-Itsasmuseum_Bilbao.jpg
+    credit: 'Photo: Xabier / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Itsasmuseum_Bilbao.jpg
 place:
-  id: "ChIJD0ZAoyRQTg0Rtlqb5ZG1WSE"
-  name: "Itsasmuseum Bilbao"
-  address: "Ramón de la Sota Kaia, Abando, 48009 Bilbao, Bizkaia, Spain"
+  id: ChIJD0ZAoyRQTg0Rtlqb5ZG1WSE
+  name: Itsasmuseum Bilbao
+  address: Ramón de la Sota Kaia, Abando, 48009 Bilbao, Bizkaia, Spain
   rating: 4.4
   userRatingsTotal: 2689
-  googleMapsUrl: "https://maps.google.com/?cid=2403151514405919414&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=2403151514405919414&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.266219899999996
   lng: -2.94638
-  phone: '+34 946 08 55 00'
+  phone: +34 946 08 55 00
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 11:00 AM – 7:00 PM"
-    - "Wednesday: 11:00 AM – 7:00 PM"
-    - "Thursday: 11:00 AM – 7:00 PM"
-    - "Friday: 11:00 AM – 7:00 PM"
-    - "Saturday: 11:00 AM – 7:00 PM"
-    - "Sunday: 11:00 AM – 7:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 7:00 PM'
+    - 'Wednesday: 11:00 AM – 7:00 PM'
+    - 'Thursday: 11:00 AM – 7:00 PM'
+    - 'Friday: 11:00 AM – 7:00 PM'
+    - 'Saturday: 11:00 AM – 7:00 PM'
+    - 'Sunday: 11:00 AM – 7:00 PM'
   busyness:
-    updated: 2026-07-31
+    updated: 2026-07-31T00:00:00.000Z
     weekdayBusy:
       - 12
       - 13
@@ -48,22 +48,22 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_45535731475a3562716c74523067545152796f415a30444a496843"
+    venueId: ven_45535731475a3562716c74523067545152796f415a30444a496843
 tags:
-  - "bilbao"
-  - "hidden gem"
-quickAnswer: "Itsasmuseum Bilbao sits on the Ría de Bilbao in the old Euskalduna shipyard, a short walk from the Guggenheim, and covers shipbuilding and the port's transformation into today's riverside city. It's open Tuesday to Sunday, 11am–7pm (closed Mondays), and you'll want 60–90 minutes. Weekends stay busy the whole 11am–7pm stretch, so a weekday visit, ideally soon after opening, is your best bet for breathing room."
+  - bilbao
+  - hidden gem
+quickAnswer: Itsasmuseum Bilbao sits on the Ría de Bilbao in the old Euskalduna shipyard, a short walk from the Guggenheim, and covers shipbuilding and the port's transformation into today's riverside city. It's open Tuesday to Sunday, 11am–7pm (closed Mondays), and you'll want 60–90 minutes. Weekends stay busy the whole 11am–7pm stretch, so a weekday visit, ideally soon after opening, is your best bet for breathing room.
 faq:
-  - q: "How do I get to Itsasmuseum Bilbao?"
-    a: "It's on Ramón de la Sota Kaia in Abando, a 15–20 minute riverside walk south from the Guggenheim, or reachable via the Euskotran tram stop near Euskalduna Palace or San Mamés metro station (Lines 1 and 2)."
-  - q: "What are the opening hours?"
-    a: "Tuesday to Sunday, 11am–7pm. It's closed all day Monday."
-  - q: "How long should I plan to spend there?"
-    a: "Budget 60–90 minutes, longer if you want to fully explore the outdoor dry dock and read the exhibits on the ría's industrial history."
-  - q: "When is the quietest time to visit?"
-    a: "Weekends stay busy throughout the full 11am–7pm window, so a weekday, ideally not long after the 11am opening, is your best chance for a quieter visit."
-  - q: "What else is nearby?"
-    a: "The Guggenheim Museum and the Euskalduna Congress Centre are both within a short riverside walk, making it easy to combine Itsasmuseum with a broader afternoon along the ría."
+  - q: How do I get to Itsasmuseum Bilbao?
+    a: It's on Ramón de la Sota Kaia in Abando, a 15–20 minute riverside walk south from the Guggenheim, or reachable via the Euskotran tram stop near Euskalduna Palace or San Mamés metro station (Lines 1 and 2).
+  - q: What are the opening hours?
+    a: Tuesday to Sunday, 11am–7pm. It's closed all day Monday.
+  - q: How long should I plan to spend there?
+    a: Budget 60–90 minutes, longer if you want to fully explore the outdoor dry dock and read the exhibits on the ría's industrial history.
+  - q: When is the quietest time to visit?
+    a: Weekends stay busy throughout the full 11am–7pm window, so a weekday, ideally not long after the 11am opening, is your best chance for a quieter visit.
+  - q: What else is nearby?
+    a: The Guggenheim Museum and the Euskalduna Congress Centre are both within a short riverside walk, making it easy to combine Itsasmuseum with a broader afternoon along the ría.
 aiGenerated: true
 draft: false
 ---

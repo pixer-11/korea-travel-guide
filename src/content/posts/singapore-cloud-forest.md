@@ -1,54 +1,54 @@
 ---
-title: "Cloud Forest: Singapore Travel Guide"
+title: 'Cloud Forest: Singapore Travel Guide'
 description: Cloud Forest is the domed conservatory at Gardens by the Bay (18 Marina Gardens Dr) built around a 35-metre indoor waterfall and a mist-shrouded mountain of tropical highland plants.
-country: "Singapore"
-region: "Singapore"
-category: "hidden-gem"
-pubDate: "2026-07-26T07:48:56.910Z"
+country: Singapore
+region: Singapore
+category: hidden-gem
+pubDate: '2026-07-26T07:48:56.910Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cloud_Forest%2C_Gardens_by_the_Bay%2C_Singapore.jpg/1920px-Cloud_Forest%2C_Gardens_by_the_Bay%2C_Singapore.jpg"
-  credit: "Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Cloud_Forest,_Gardens_by_the_Bay,_Singapore.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cloud_Forest%2C_Gardens_by_the_Bay%2C_Singapore.jpg/1920px-Cloud_Forest%2C_Gardens_by_the_Bay%2C_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Cloud_Forest,_Gardens_by_the_Bay,_Singapore.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Singapore_Flower-Dome-and-Cloud-Forest-in-The-Gardens-01.jpg/1920px-Singapore_Flower-Dome-and-Cloud-Forest-in-The-Gardens-01.jpg
     credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Singapore_Flower-Dome-and-Cloud-Forest-in-The-Gardens-01.jpg
 place:
-  id: "ChIJd0VihwEZ2jERKeREhO6G1Qg"
-  name: "Cloud Forest"
-  address: "18 Marina Gardens Dr, Singapore 018953"
+  id: ChIJd0VihwEZ2jERKeREhO6G1Qg
+  name: Cloud Forest
+  address: 18 Marina Gardens Dr, Singapore 018953
   rating: 4.8
   userRatingsTotal: 31541
-  googleMapsUrl: "https://maps.google.com/?cid=636563281322239017&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=636563281322239017&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.2838676999999998
   lng: 103.8660024
-  phone: '+65 6420 6848'
+  phone: +65 6420 6848
   openingHours:
-    - "Monday: 9:00 AM – 9:00 PM"
-    - "Tuesday: 9:00 AM – 9:00 PM"
-    - "Wednesday: 9:00 AM – 9:00 PM"
-    - "Thursday: 9:00 AM – 9:00 PM"
-    - "Friday: 9:00 AM – 9:00 PM"
-    - "Saturday: 9:00 AM – 9:00 PM"
-    - "Sunday: 9:00 AM – 9:00 PM"
+    - 'Monday: 9:00 AM – 9:00 PM'
+    - 'Tuesday: 9:00 AM – 9:00 PM'
+    - 'Wednesday: 9:00 AM – 9:00 PM'
+    - 'Thursday: 9:00 AM – 9:00 PM'
+    - 'Friday: 9:00 AM – 9:00 PM'
+    - 'Saturday: 9:00 AM – 9:00 PM'
+    - 'Sunday: 9:00 AM – 9:00 PM'
 tags:
-  - "singapore"
-  - "hidden gem"
-quickAnswer: "Cloud Forest is the domed conservatory at Gardens by the Bay (18 Marina Gardens Dr) built around a 35-metre indoor waterfall and a mist-shrouded mountain of tropical highland plants. With 31,500+ reviews and a 4.8 rating, it's one of the most visited attractions in Singapore, so go right at opening (10am) on a weekday to walk the mountain trail before the tour groups arrive. Budget 60-90 minutes, and pair it with the neighboring Flower Dome on the same ticket."
+  - singapore
+  - hidden gem
+quickAnswer: Cloud Forest is the domed conservatory at Gardens by the Bay (18 Marina Gardens Dr) built around a 35-metre indoor waterfall and a mist-shrouded mountain of tropical highland plants. With 31,500+ reviews and a 4.8 rating, it's one of the most visited attractions in Singapore, so go right at opening (10am) on a weekday to walk the mountain trail before the tour groups arrive. Budget 60-90 minutes, and pair it with the neighboring Flower Dome on the same ticket.
 faq:
-  - q: "How do I get to Cloud Forest by MRT?"
-    a: "Take the Circle or Downtown Line to Bayfront station and use Exit B, which connects via an underground link directly into Gardens by the Bay's ticketing area."
-  - q: "How long should I spend at Cloud Forest?"
-    a: "Plan on 45 minutes to an hour for the full mountain walkway loop, or up to 90 minutes if you're reading the ecology displays and taking photos at the waterfall."
-  - q: "What's the best time to avoid crowds?"
-    a: "Arrive right at opening (around 9am) on a weekday. Mid-morning through the afternoon, especially on weekends and holidays, brings the biggest crowds and lift queues."
-  - q: "Should I visit Cloud Forest or Flower Dome first?"
-    a: "Either order works since they're adjacent, but many visitors do Flower Dome first for its brighter, drier atmosphere, then finish with Cloud Forest's waterfall and mist as the more dramatic closer."
-  - q: "Is Cloud Forest worth it if it's raining outside?"
-    a: "Yes — it's fully indoors and climate-controlled, making it one of the best rainy-day options in Singapore compared to outdoor Gardens attractions like the Supertree Grove."
+  - q: How do I get to Cloud Forest by MRT?
+    a: Take the Circle or Downtown Line to Bayfront station and use Exit B, which connects via an underground link directly into Gardens by the Bay's ticketing area.
+  - q: How long should I spend at Cloud Forest?
+    a: Plan on 45 minutes to an hour for the full mountain walkway loop, or up to 90 minutes if you're reading the ecology displays and taking photos at the waterfall.
+  - q: What's the best time to avoid crowds?
+    a: Arrive right at opening (around 9am) on a weekday. Mid-morning through the afternoon, especially on weekends and holidays, brings the biggest crowds and lift queues.
+  - q: Should I visit Cloud Forest or Flower Dome first?
+    a: Either order works since they're adjacent, but many visitors do Flower Dome first for its brighter, drier atmosphere, then finish with Cloud Forest's waterfall and mist as the more dramatic closer.
+  - q: Is Cloud Forest worth it if it's raining outside?
+    a: Yes — it's fully indoors and climate-controlled, making it one of the best rainy-day options in Singapore compared to outdoor Gardens attractions like the Supertree Grove.
 aiGenerated: true
 draft: false
 ---

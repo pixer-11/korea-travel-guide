@@ -1,37 +1,59 @@
 ---
-title: "teamLab Planets TOKYO DMM: Travel Guide"
+title: 'teamLab Planets TOKYO DMM: Travel Guide'
 description: teamLab Planets is a barefoot, water-and-light digital art museum in Toyosu, Koto City — book a timed ticket online in advance, wear shorts or roll-up-friendly clothing (you'll wade through water), and budget 90 minutes to 2 hours.
-country: "Japan"
-region: "Tokyo"
-category: "trendy"
-pubDate: 2026-07-21
+country: Japan
+region: Tokyo
+category: trendy
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Photos_at_teamlab_planets_tokyo.jpg/1920px-Photos_at_teamlab_planets_tokyo.jpg"
-  credit: "Photo: Sasa0403 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Photos_at_teamlab_planets_tokyo.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Photos_at_teamlab_planets_tokyo.jpg/1920px-Photos_at_teamlab_planets_tokyo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Sasa0403 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Photos_at_teamlab_planets_tokyo.jpg
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/1413085103_IM6WIyfXSA7gukrI8OKQvGpxMeK7dcmqFPkQofw0d8o.jpg
     credit: 'Photo: Foursquare user content (teamLab Planets (チームラボプラネッツ))'
     license: foursquare
     source: https://foursquare.com/v/5b3306103731ee002c2b3e78
 place:
-  id: "ChIJSeco5wiJGGARItbTS8lQ5G0"
-  name: "teamLab Planets TOKYO DMM"
-  address: "6-chōme-1-16 Toyosu, Koto City, Tokyo 135-0061, Japan"
+  id: ChIJSeco5wiJGGARItbTS8lQ5G0
+  name: teamLab Planets TOKYO DMM
+  address: 6-chōme-1-16 Toyosu, Koto City, Tokyo 135-0061, Japan
   rating: 4.5
   userRatingsTotal: 54194
-  googleMapsUrl: "https://maps.google.com/?cid=7918542870314997282&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=7918542870314997282&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.6491207
   lng: 139.7897739
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [8]
-    weekdayBusy: [11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
-    weekendQuiet: [8]
-    weekendBusy: [11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
-    venueId: 'ven_304735516c385354627449524147474a6977356f6365534a496843'
+    weekdayQuiet:
+      - 8
+    weekdayBusy:
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+    weekendQuiet:
+      - 8
+    weekendBusy:
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+    venueId: ven_304735516c385354627449524147474a6977356f6365534a496843
   openingHours:
     - 'Monday: 8:00 AM – 10:00 PM'
     - 'Tuesday: 8:00 AM – 10:00 PM'
@@ -41,20 +63,20 @@ place:
     - 'Saturday: 8:00 AM – 10:00 PM'
     - 'Sunday: 8:00 AM – 10:00 PM'
 tags:
-  - "tokyo"
-  - "teamLab Planets"
-quickAnswer: "teamLab Planets is a barefoot, water-and-light digital art museum in Toyosu, Koto City — book a timed ticket online in advance, wear shorts or roll-up-friendly clothing (you'll wade through water), and budget 90 minutes to 2 hours. It's a short walk from Toyosu Station on the Yurikamome Line or Tokyo Metro Yurakucho Line, and it consistently draws huge crowds, so weekday mornings are calmest."
+  - tokyo
+  - teamLab Planets
+quickAnswer: teamLab Planets is a barefoot, water-and-light digital art museum in Toyosu, Koto City — book a timed ticket online in advance, wear shorts or roll-up-friendly clothing (you'll wade through water), and budget 90 minutes to 2 hours. It's a short walk from Toyosu Station on the Yurikamome Line or Tokyo Metro Yurakucho Line, and it consistently draws huge crowds, so weekday mornings are calmest.
 faq:
-  - q: "How do I get to teamLab Planets TOKYO DMM?"
-    a: "Take the Yurikamome Line or Tokyo Metro Yurakucho Line to Toyosu Station, then walk about 5-10 minutes to the Toyosu waterfront area at 6-chōme-1-16 Toyosu, Koto City."
-  - q: "Do I need to book tickets in advance?"
-    a: "Yes — tickets are sold for specific timed entry slots and frequently sell out days ahead, especially on weekends and holidays. Book through the official teamLab Planets website rather than hoping to buy on arrival."
-  - q: "What should I wear since there's water involved?"
-    a: "Wear shorts or pants you can roll up above the knee; skirts and dresses are discouraged. You'll go barefoot through several rooms, and lockers are provided for shoes, socks, and bags."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors spend 90 minutes to 2 hours moving through the installations at an unhurried pace; rushing undercuts the experience."
-  - q: "What's nearby worth combining with the visit?"
-    a: "Toyosu Market, Tokyo's relocated wholesale fish market with excellent sushi breakfast counters, is a short ride away and pairs naturally with a morning museum visit."
+  - q: How do I get to teamLab Planets TOKYO DMM?
+    a: Take the Yurikamome Line or Tokyo Metro Yurakucho Line to Toyosu Station, then walk about 5-10 minutes to the Toyosu waterfront area at 6-chōme-1-16 Toyosu, Koto City.
+  - q: Do I need to book tickets in advance?
+    a: Yes — tickets are sold for specific timed entry slots and frequently sell out days ahead, especially on weekends and holidays. Book through the official teamLab Planets website rather than hoping to buy on arrival.
+  - q: What should I wear since there's water involved?
+    a: Wear shorts or pants you can roll up above the knee; skirts and dresses are discouraged. You'll go barefoot through several rooms, and lockers are provided for shoes, socks, and bags.
+  - q: How long should I plan to spend there?
+    a: Most visitors spend 90 minutes to 2 hours moving through the installations at an unhurried pace; rushing undercuts the experience.
+  - q: What's nearby worth combining with the visit?
+    a: Toyosu Market, Tokyo's relocated wholesale fish market with excellent sushi breakfast counters, is a short ride away and pairs naturally with a morning museum visit.
 aiGenerated: true
 draft: false
 ---

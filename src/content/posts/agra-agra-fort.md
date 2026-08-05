@@ -1,46 +1,46 @@
 ---
-title: "Agra Fort: Travel Guide"
+title: 'Agra Fort: Travel Guide'
 description: Agra Fort is the red-sandstone Mughal citadel on the Yamuna River, about 2.5km from the Taj Mahal — plan 2 to 2.5 hours, go right at opening to beat both heat and tour-bus crowds, and enter through the Amar Singh Gate (the only public entrance).
-country: "India"
-region: "Agra"
-category: "hidden-gem"
-pubDate: "2026-07-31T10:20:16.496Z"
+country: India
+region: Agra
+category: hidden-gem
+pubDate: '2026-07-31T10:20:16.496Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Agra_03-2016_10_Agra_Fort.jpg/1920px-Agra_03-2016_10_Agra_Fort.jpg"
-  credit: "Photo: A.Savin / Wikimedia Commons (FAL)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Agra_03-2016_10_Agra_Fort.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Agra_03-2016_10_Agra_Fort.jpg/1920px-Agra_03-2016_10_Agra_Fort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: A.Savin / Wikimedia Commons (FAL)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Agra_03-2016_10_Agra_Fort.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Agra_03-2016_14_Agra_Fort.jpg/3840px-Agra_03-2016_14_Agra_Fort.jpg"
-    credit: "Photo: A.Savin / Wikimedia Commons (FAL)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Agra_03-2016_14_Agra_Fort.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Agra_03-2016_14_Agra_Fort.jpg/3840px-Agra_03-2016_14_Agra_Fort.jpg
+    credit: 'Photo: A.Savin / Wikimedia Commons (FAL)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Agra_03-2016_14_Agra_Fort.jpg
 place:
-  id: "ChIJ6zs0kdRwdDkRdpUClMxcCmQ"
-  name: "Agra Fort"
-  address: "Agra Fort, Rakabganj, Agra, Uttar Pradesh 282003, India"
+  id: ChIJ6zs0kdRwdDkRdpUClMxcCmQ
+  name: Agra Fort
+  address: Agra Fort, Rakabganj, Agra, Uttar Pradesh 282003, India
   rating: 4.5
   userRatingsTotal: 151384
-  googleMapsUrl: "https://maps.google.com/?cid=7208676187286181238&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=7208676187286181238&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 27.1795328
   lng: 78.021112
-  phone: '+91 562 222 6431'
+  phone: +91 562 222 6431
 tags:
-  - "agra"
-  - "hidden gem"
-quickAnswer: "Agra Fort is the red-sandstone Mughal citadel on the Yamuna River, about 2.5km from the Taj Mahal — plan 2 to 2.5 hours, go right at opening to beat both heat and tour-bus crowds, and enter through the Amar Singh Gate (the only public entrance). It's one of Agra's most-visited monuments, so arriving early or late afternoon makes a real difference."
+  - agra
+  - hidden gem
+quickAnswer: Agra Fort is the red-sandstone Mughal citadel on the Yamuna River, about 2.5km from the Taj Mahal — plan 2 to 2.5 hours, go right at opening to beat both heat and tour-bus crowds, and enter through the Amar Singh Gate (the only public entrance). It's one of Agra's most-visited monuments, so arriving early or late afternoon makes a real difference.
 faq:
-  - q: "How much time should I budget for Agra Fort?"
-    a: "Plan on roughly 2 to 2.5 hours to see the main courtyards, palaces, and the Yamuna-facing terraces without rushing."
-  - q: "What's the best time of day to avoid crowds?"
-    a: "Go right at opening in the morning, or in the last hour or two before closing — mid-morning to early afternoon is when tour groups and crowds peak."
-  - q: "How do I get from Agra Fort to the Taj Mahal?"
-    a: "They're about 2.5km apart; an auto-rickshaw or taxi takes around 10 minutes, and it's a common pairing on the same day."
-  - q: "Which entrance do I use?"
-    a: "The Amar Singh Gate on the south side is the only entrance open to visitors; other gates are for staff or ceremonial use only."
-  - q: "Do foreign visitors pay a different price than Indian nationals?"
-    a: "Yes, foreign tourists pay a higher entry fee than Indian citizens — check current rates online or at the counter before visiting, since prices are updated periodically."
+  - q: How much time should I budget for Agra Fort?
+    a: Plan on roughly 2 to 2.5 hours to see the main courtyards, palaces, and the Yamuna-facing terraces without rushing.
+  - q: What's the best time of day to avoid crowds?
+    a: Go right at opening in the morning, or in the last hour or two before closing — mid-morning to early afternoon is when tour groups and crowds peak.
+  - q: How do I get from Agra Fort to the Taj Mahal?
+    a: They're about 2.5km apart; an auto-rickshaw or taxi takes around 10 minutes, and it's a common pairing on the same day.
+  - q: Which entrance do I use?
+    a: The Amar Singh Gate on the south side is the only entrance open to visitors; other gates are for staff or ceremonial use only.
+  - q: Do foreign visitors pay a different price than Indian nationals?
+    a: Yes, foreign tourists pay a higher entry fee than Indian citizens — check current rates online or at the counter before visiting, since prices are updated periodically.
 aiGenerated: true
 draft: false
 ---

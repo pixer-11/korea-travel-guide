@@ -1,41 +1,45 @@
 ---
-title: "Rizal Park: Manila Travel Guide"
+title: 'Rizal Park: Manila Travel Guide'
 description: Rizal Park (Luneta) is open daily 5am–10pm and is best walked early, between 7am and 11am on weekdays, when the lawns are near-empty and the heat hasn't built up yet.
-country: "Philippines"
-region: "Manila"
-category: "hidden-gem"
-pubDate: "2026-08-01T09:37:44.154Z"
+country: Philippines
+region: Manila
+category: hidden-gem
+pubDate: '2026-08-01T09:37:44.154Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Rizal_Monument_%28Manila%2C_2024%29.jpg/1920px-Rizal_Monument_%28Manila%2C_2024%29.jpg"
-  credit: "Photo: Ernest Malsin / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Rizal_Monument_(Manila,_2024).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Rizal_Monument_%28Manila%2C_2024%29.jpg/1920px-Rizal_Monument_%28Manila%2C_2024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Ernest Malsin / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Rizal_Monument_(Manila,_2024).jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Manila%2C_Rizal_Park_3%2C_Philippines.jpg/3840px-Manila%2C_Rizal_Park_3%2C_Philippines.jpg"
-    credit: "Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Manila,_Rizal_Park_3,_Philippines.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Manila%2C_Rizal_Park_3%2C_Philippines.jpg/3840px-Manila%2C_Rizal_Park_3%2C_Philippines.jpg
+    credit: 'Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Manila,_Rizal_Park_3,_Philippines.jpg
 place:
-  id: "ChIJPxN-XiXKlzMRMpp1toc0Krc"
-  name: "Rizal Park"
-  address: "Ermita, Manila, 1000 Metro Manila, Philippines"
+  id: ChIJPxN-XiXKlzMRMpp1toc0Krc
+  name: Rizal Park
+  address: Ermita, Manila, 1000 Metro Manila, Philippines
   rating: 4.5
   userRatingsTotal: 30511
-  googleMapsUrl: "https://maps.google.com/?cid=13198419415449049650&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=13198419415449049650&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 14.5826446
   lng: 120.97868869999999
   openingHours:
-    - "Monday: 5:00 AM – 10:00 PM"
-    - "Tuesday: 5:00 AM – 10:00 PM"
-    - "Wednesday: 5:00 AM – 10:00 PM"
-    - "Thursday: 5:00 AM – 10:00 PM"
-    - "Friday: 5:00 AM – 10:00 PM"
-    - "Saturday: 5:00 AM – 10:00 PM"
-    - "Sunday: 5:00 AM – 10:00 PM"
+    - 'Monday: 5:00 AM – 10:00 PM'
+    - 'Tuesday: 5:00 AM – 10:00 PM'
+    - 'Wednesday: 5:00 AM – 10:00 PM'
+    - 'Thursday: 5:00 AM – 10:00 PM'
+    - 'Friday: 5:00 AM – 10:00 PM'
+    - 'Saturday: 5:00 AM – 10:00 PM'
+    - 'Sunday: 5:00 AM – 10:00 PM'
   busyness:
-    updated: 2026-08-01
-    weekdayQuiet: [7, 8, 9, 10]
+    updated: 2026-08-01T00:00:00.000Z
+    weekdayQuiet:
+      - 7
+      - 8
+      - 9
+      - 10
     weekdayBusy:
       - 18
       - 19
@@ -46,22 +50,22 @@ place:
       - 19
       - 20
       - 21
-    venueId: "ven_63724b30636f743170704d524d7a6c4b5869582d4e78504a496843"
+    venueId: ven_63724b30636f743170704d524d7a6c4b5869582d4e78504a496843
 tags:
-  - "manila"
-  - "hidden gem"
-quickAnswer: "Rizal Park (Luneta) is open daily 5am–10pm and is best walked early, between 7am and 11am on weekdays, when the lawns are near-empty and the heat hasn't built up yet. Anchor your visit around the Rizal Monument and the changing of the guard, then wander into the Chinese and Japanese Gardens and the National Museum complex next door. Avoid rolling in after 4pm on weekends, when the park fills fastest with families and vendors."
+  - manila
+  - hidden gem
+quickAnswer: Rizal Park (Luneta) is open daily 5am–10pm and is best walked early, between 7am and 11am on weekdays, when the lawns are near-empty and the heat hasn't built up yet. Anchor your visit around the Rizal Monument and the changing of the guard, then wander into the Chinese and Japanese Gardens and the National Museum complex next door. Avoid rolling in after 4pm on weekends, when the park fills fastest with families and vendors.
 faq:
-  - q: "What are Rizal Park's opening hours?"
-    a: "It's open every day from 5:00 AM to 10:00 PM, with no variation across the week."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings between 7am and 11am are the calmest window, before heat and crowds build up."
-  - q: "How do I get to Rizal Park by public transport?"
-    a: "Take LRT Line 1 to United Nations Avenue Station and walk about five minutes toward Roxas Boulevard; Line 2 riders can transfer to Line 1 to reach the same station."
-  - q: "How much time should I budget?"
-    a: "Plan on 1.5–2 hours for the monument, relief map, and one garden; add another hour or two if you're combining it with the adjacent National Museum buildings or Intramuros."
-  - q: "What's nearby worth combining with the visit?"
-    a: "Intramuros is a 10–15 minute walk north, and the National Museum of Fine Arts and National Museum of Anthropology sit directly alongside the park's museum-side entrance."
+  - q: What are Rizal Park's opening hours?
+    a: It's open every day from 5:00 AM to 10:00 PM, with no variation across the week.
+  - q: When is the quietest time to visit?
+    a: Weekday mornings between 7am and 11am are the calmest window, before heat and crowds build up.
+  - q: How do I get to Rizal Park by public transport?
+    a: Take LRT Line 1 to United Nations Avenue Station and walk about five minutes toward Roxas Boulevard; Line 2 riders can transfer to Line 1 to reach the same station.
+  - q: How much time should I budget?
+    a: Plan on 1.5–2 hours for the monument, relief map, and one garden; add another hour or two if you're combining it with the adjacent National Museum buildings or Intramuros.
+  - q: What's nearby worth combining with the visit?
+    a: Intramuros is a 10–15 minute walk north, and the National Museum of Fine Arts and National Museum of Anthropology sit directly alongside the park's museum-side entrance.
 aiGenerated: true
 draft: false
 ---

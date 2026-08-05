@@ -1,54 +1,54 @@
 ---
-title: "Siena Cathedral: Travel Guide"
+title: 'Siena Cathedral: Travel Guide'
 description: Siena Cathedral (Duomo di Siena) is one of Italy's great Gothic-Romanesque cathedrals, its black-and-white striped marble facade and interior visible from Piazza del Duomo in the historic center.
-country: "Italy"
-region: "Siena"
-category: "attraction"
-pubDate: "2026-07-27T10:55:59.902Z"
+country: Italy
+region: Siena
+category: attraction
+pubDate: '2026-07-27T10:55:59.902Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Duomo_di_Siena-9635.jpg/1920px-Duomo_di_Siena-9635.jpg"
-  credit: "Photo: Raimond Spekking / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Duomo_di_Siena-9635.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Duomo_di_Siena-9635.jpg/1920px-Duomo_di_Siena-9635.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Raimond Spekking / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Duomo_di_Siena-9635.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Cathedral_%28Siena%29_-_Dome_interior.jpg/1920px-Cathedral_%28Siena%29_-_Dome_interior.jpg
     credit: 'Photo: Livioandronico2013 / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Cathedral_(Siena)_-_Dome_interior.jpg
 place:
-  id: "ChIJw6OmtLssKhMRRd5_XIUZ_VE"
-  name: "Siena Cathedral"
-  address: "Piazza del Duomo, 8, 53100 Siena SI, Italy"
+  id: ChIJw6OmtLssKhMRRd5_XIUZ_VE
+  name: Siena Cathedral
+  address: Piazza del Duomo, 8, 53100 Siena SI, Italy
   rating: 4.8
   userRatingsTotal: 32718
-  googleMapsUrl: "https://maps.google.com/?cid=5907906346753187397&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=5907906346753187397&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.317701899999996
   lng: 11.3289071
-  phone: '+39 0577 286300'
+  phone: +39 0577 286300
   openingHours:
-    - "Monday: 10:00 AM – 7:00 PM"
-    - "Tuesday: 10:00 AM – 7:00 PM"
-    - "Wednesday: 10:00 AM – 7:00 PM"
-    - "Thursday: 10:00 AM – 7:00 PM"
-    - "Friday: 10:00 AM – 7:00 PM"
-    - "Saturday: 10:00 AM – 7:00 PM"
-    - "Sunday: 10:00 AM – 7:00 PM"
+    - 'Monday: 10:00 AM – 7:00 PM'
+    - 'Tuesday: 10:00 AM – 7:00 PM'
+    - 'Wednesday: 10:00 AM – 7:00 PM'
+    - 'Thursday: 10:00 AM – 7:00 PM'
+    - 'Friday: 10:00 AM – 7:00 PM'
+    - 'Saturday: 10:00 AM – 7:00 PM'
+    - 'Sunday: 10:00 AM – 7:00 PM'
 tags:
-  - "siena"
-  - "top attraction"
-quickAnswer: "Siena Cathedral (Duomo di Siena) is one of Italy's great Gothic-Romanesque cathedrals, its black-and-white striped marble facade and interior visible from Piazza del Duomo in the historic center. Plan on 1.5–2 hours, arrive at opening time or in late afternoon to avoid tour groups, and book the \"Opa Si Pass\" or single-entry ticket online in advance since this is one of the most-visited sights in Tuscany."
+  - siena
+  - top attraction
+quickAnswer: Siena Cathedral (Duomo di Siena) is one of Italy's great Gothic-Romanesque cathedrals, its black-and-white striped marble facade and interior visible from Piazza del Duomo in the historic center. Plan on 1.5–2 hours, arrive at opening time or in late afternoon to avoid tour groups, and book the "Opa Si Pass" or single-entry ticket online in advance since this is one of the most-visited sights in Tuscany.
 faq:
-  - q: "How do I get to Siena Cathedral?"
-    a: "It's on Piazza del Duomo in Siena's historic center, a 5-7 minute uphill walk from Piazza del Campo. From the train station, take a taxi or local bus up to the old town, then walk; the center is closed to private cars."
-  - q: "How much time should I plan for a visit?"
-    a: "Budget 1.5 to 2 hours for the cathedral, crypt, and Baptistery, longer if the full inlaid marble floor is uncovered (usually a few weeks around August) or if you climb the Facciatone for the rooftop view."
-  - q: "What's the best time to avoid crowds?"
-    a: "Go right at opening or in the last hour or two before closing. This is one of the most-visited attractions in Tuscany, so mid-morning through early afternoon, especially in spring and fall, is when tour groups pack the nave."
-  - q: "Do I need to book tickets in advance?"
-    a: "Yes, it's strongly recommended. Book the combined Opa Si Pass or single entry online ahead of time to skip the on-site ticket line, particularly in high season."
-  - q: "Is there a dress code?"
-    a: "Yes — shoulders and knees must be covered for all visitors, strictly enforced at the door, so carry a scarf or light layer even in summer heat."
+  - q: How do I get to Siena Cathedral?
+    a: It's on Piazza del Duomo in Siena's historic center, a 5-7 minute uphill walk from Piazza del Campo. From the train station, take a taxi or local bus up to the old town, then walk; the center is closed to private cars.
+  - q: How much time should I plan for a visit?
+    a: Budget 1.5 to 2 hours for the cathedral, crypt, and Baptistery, longer if the full inlaid marble floor is uncovered (usually a few weeks around August) or if you climb the Facciatone for the rooftop view.
+  - q: What's the best time to avoid crowds?
+    a: Go right at opening or in the last hour or two before closing. This is one of the most-visited attractions in Tuscany, so mid-morning through early afternoon, especially in spring and fall, is when tour groups pack the nave.
+  - q: Do I need to book tickets in advance?
+    a: Yes, it's strongly recommended. Book the combined Opa Si Pass or single entry online ahead of time to skip the on-site ticket line, particularly in high season.
+  - q: Is there a dress code?
+    a: Yes — shoulders and knees must be covered for all visitors, strictly enforced at the door, so carry a scarf or light layer even in summer heat.
 aiGenerated: true
 draft: false
 ---

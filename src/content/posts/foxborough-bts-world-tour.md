@@ -8,7 +8,7 @@ pubDate: '2026-07-24'
 eventStartDate: '2026-08-05'
 eventEndDate: '2026-08-16'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/BTS_performing_%22DNA%22_during_Love_Yourself_tour_in_Los_Angeles%2C_8_September_2018_01.jpg/1920px-BTS_performing_%22DNA%22_during_Love_Yourself_tour_in_Los_Angeles%2C_8_September_2018_01.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/BTS_performing_%22DNA%22_during_Love_Yourself_tour_in_Los_Angeles%2C_8_September_2018_01.jpg/1920px-BTS_performing_%22DNA%22_during_Love_Yourself_tour_in_Los_Angeles%2C_8_September_2018_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: I DARE U JK / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:BTS_performing_%22DNA%22_during_Love_Yourself_tour_in_Los_Angeles,_8_September_2018_01.jpg

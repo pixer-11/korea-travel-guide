@@ -1,57 +1,65 @@
 ---
-title: "Kanheri Caves: Mumbai Travel Guide"
+title: 'Kanheri Caves: Mumbai Travel Guide'
 description: Kanheri Caves, tucked deep inside Sanjay Gandhi National Park in the Borivali/Kanheri area of northern Mumbai, is a sprawling complex of over 100 rock-cut Buddhist caves dating back roughly 2,000 years.
-country: "India"
-region: "Mumbai"
-category: "hidden-gem"
-pubDate: "2026-08-01T09:44:19.665Z"
+country: India
+region: Mumbai
+category: hidden-gem
+pubDate: '2026-08-01T09:44:19.665Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kanheri_Caves_prayer_hall.JPG/1920px-Kanheri_Caves_prayer_hall.JPG"
-  credit: "Photo: AKS.9955 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Kanheri_Caves_prayer_hall.JPG"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kanheri_Caves_prayer_hall.JPG/1920px-Kanheri_Caves_prayer_hall.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: AKS.9955 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Kanheri_Caves_prayer_hall.JPG
 gallery: []
 place:
-  id: "ChIJbdF34ea55zsRX7kiabN6Z_U"
-  name: "Kanheri Caves"
-  address: "Mumbai, Maharashtra 400066, India"
+  id: ChIJbdF34ea55zsRX7kiabN6Z_U
+  name: Kanheri Caves
+  address: Mumbai, Maharashtra 400066, India
   rating: 4.5
   userRatingsTotal: 8943
-  googleMapsUrl: "https://maps.google.com/?cid=17683237372875159903&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=17683237372875159903&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 19.207860399999998
   lng: 72.9048071
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 8:00 AM – 5:30 PM"
-    - "Wednesday: 8:00 AM – 5:30 PM"
-    - "Thursday: 8:00 AM – 5:30 PM"
-    - "Friday: 8:00 AM – 5:30 PM"
-    - "Saturday: 8:00 AM – 5:30 PM"
-    - "Sunday: 8:00 AM – 5:30 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 8:00 AM – 5:30 PM'
+    - 'Wednesday: 8:00 AM – 5:30 PM'
+    - 'Thursday: 8:00 AM – 5:30 PM'
+    - 'Friday: 8:00 AM – 5:30 PM'
+    - 'Saturday: 8:00 AM – 5:30 PM'
+    - 'Sunday: 8:00 AM – 5:30 PM'
   busyness:
-    updated: 2026-08-01
+    updated: 2026-08-01T00:00:00.000Z
     weekdayQuiet:
       - 8
     weekdayBusy: []
     weekendQuiet: []
-    weekendBusy: [9, 10, 11, 12, 13, 14, 15, 16]
-    venueId: "ven_555f5a364e6261696b375852737a3535616534334664624a496843"
+    weekendBusy:
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+    venueId: ven_555f5a364e6261696b375852737a3535616534334664624a496843
 tags:
-  - "mumbai"
-  - "hidden gem"
-quickAnswer: "Kanheri Caves, tucked deep inside Sanjay Gandhi National Park in the Borivali/Kanheri area of northern Mumbai, is a sprawling complex of over 100 rock-cut Buddhist caves dating back roughly 2,000 years. It's open Tuesday–Sunday, 8am–5:30pm (closed Monday), and the calmest window is the first hour after opening, 8am–9am on weekdays, before tour groups and weekend crowds arrive. Budget 2–3 hours, wear closed shoes for the climbing, and combine it with a walk or safari drive through the surrounding forest."
+  - mumbai
+  - hidden gem
+quickAnswer: Kanheri Caves, tucked deep inside Sanjay Gandhi National Park in the Borivali/Kanheri area of northern Mumbai, is a sprawling complex of over 100 rock-cut Buddhist caves dating back roughly 2,000 years. It's open Tuesday–Sunday, 8am–5:30pm (closed Monday), and the calmest window is the first hour after opening, 8am–9am on weekdays, before tour groups and weekend crowds arrive. Budget 2–3 hours, wear closed shoes for the climbing, and combine it with a walk or safari drive through the surrounding forest.
 faq:
-  - q: "How do I get to Kanheri Caves from central Mumbai?"
-    a: "Take a Western Line suburban train to Borivali station, then an auto-rickshaw or the park's shuttle bus into Sanjay Gandhi National Park to the caves entrance. By road, it's roughly an hour from South Mumbai or Bandra depending on traffic."
-  - q: "What are the opening hours?"
-    a: "Tuesday to Sunday, 8:00 AM to 5:30 PM. The caves are closed every Monday."
-  - q: "When is it least crowded?"
-    a: "Weekday mornings between 8am and 9am are the quietest window. Weekends stay busy from opening (9am) right through to closing, so weekday visits are much calmer overall."
-  - q: "How long should I plan to spend there?"
-    a: "Budget at least 2–3 hours: the walk in from the park gate, the climb between cave groups, and time to explore Cave 3's great chaitya hall and the surrounding viharas."
-  - q: "Is there anything else to see nearby?"
-    a: "Since the caves are inside Sanjay Gandhi National Park, you can combine the visit with the park's lion and tiger safari sections, boating at the park's lake, or simply extra time walking the forest trails around the caves."
+  - q: How do I get to Kanheri Caves from central Mumbai?
+    a: Take a Western Line suburban train to Borivali station, then an auto-rickshaw or the park's shuttle bus into Sanjay Gandhi National Park to the caves entrance. By road, it's roughly an hour from South Mumbai or Bandra depending on traffic.
+  - q: What are the opening hours?
+    a: Tuesday to Sunday, 8:00 AM to 5:30 PM. The caves are closed every Monday.
+  - q: When is it least crowded?
+    a: Weekday mornings between 8am and 9am are the quietest window. Weekends stay busy from opening (9am) right through to closing, so weekday visits are much calmer overall.
+  - q: How long should I plan to spend there?
+    a: 'Budget at least 2–3 hours: the walk in from the park gate, the climb between cave groups, and time to explore Cave 3''s great chaitya hall and the surrounding viharas.'
+  - q: Is there anything else to see nearby?
+    a: Since the caves are inside Sanjay Gandhi National Park, you can combine the visit with the park's lion and tiger safari sections, boating at the park's lake, or simply extra time walking the forest trails around the caves.
 aiGenerated: true
 draft: false
 ---

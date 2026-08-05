@@ -1,18 +1,18 @@
 ---
-title: "Japanese Bridge: Hoi An Travel Guide"
+title: 'Japanese Bridge: Hoi An Travel Guide'
 description: The Japanese Bridge (Chùa Cầu) is Hoi An's iconic 18th-century covered wooden bridge spanning a small canal off Nguyễn Thị Minh Khai Street in the heart of the Ancient Town.
 country: Vietnam
 region: Hoi An
 category: attraction
-pubDate: "2026-07-22T09:27:52.164Z"
+pubDate: '2026-07-22T09:27:52.164Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024-12-20_Japanese_Bridge_in_Hoi_An.jpg/1920px-2024-12-20_Japanese_Bridge_in_Hoi_An.jpg
-  credit: "Photo: Alexkom000 / Wikimedia Commons (CC BY 4.0)"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024-12-20_Japanese_Bridge_in_Hoi_An.jpg/1920px-2024-12-20_Japanese_Bridge_in_Hoi_An.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Alexkom000 / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:2024-12-20_Japanese_Bridge_in_Hoi_An.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Japanese_Bridge_in_Hoi_An.jpg/1920px-Japanese_Bridge_in_Hoi_An.jpg
-    credit: "Photo: Good Morning Hoi An / Wikimedia Commons (CC BY-SA 4.0)"
+    credit: 'Photo: Good Morning Hoi An / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Japanese_Bridge_in_Hoi_An.jpg
 place:
@@ -26,13 +26,13 @@ place:
   lat: 15.8770873
   lng: 108.32607039999999
   openingHours:
-    - "Monday: 9:00 AM – 10:00 PM"
-    - "Tuesday: 9:00 AM – 10:00 PM"
-    - "Wednesday: 9:00 AM – 10:00 PM"
-    - "Thursday: 9:00 AM – 10:00 PM"
-    - "Friday: 9:00 AM – 10:00 PM"
-    - "Saturday: 9:00 AM – 10:00 PM"
-    - "Sunday: 9:00 AM – 10:00 PM"
+    - 'Monday: 9:00 AM – 10:00 PM'
+    - 'Tuesday: 9:00 AM – 10:00 PM'
+    - 'Wednesday: 9:00 AM – 10:00 PM'
+    - 'Thursday: 9:00 AM – 10:00 PM'
+    - 'Friday: 9:00 AM – 10:00 PM'
+    - 'Saturday: 9:00 AM – 10:00 PM'
+    - 'Sunday: 9:00 AM – 10:00 PM'
 tags:
   - hoi an
   - top attraction
@@ -50,7 +50,7 @@ faq:
     a: The Tan Ky House, Phung Hung House, riverside market, and several well-known cao lầu noodle stalls are all within a five-minute walk, making the bridge a good anchor point for an old town walking loop.
 aiGenerated: true
 draft: false
-updatedDate: "2026-07-24"
+updatedDate: '2026-07-24'
 ---
 ## Why go
 

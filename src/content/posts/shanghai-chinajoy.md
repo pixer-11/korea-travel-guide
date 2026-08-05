@@ -8,7 +8,7 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-08-03'
 eventEndDate: '2026-08-03'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/ChinaJoy_2025_-_General_11.jpg/1920px-ChinaJoy_2025_-_General_11.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/ChinaJoy_2025_-_General_11.jpg/1920px-ChinaJoy_2025_-_General_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Xuthoria / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:ChinaJoy_2025_-_General_11.jpg

@@ -1,45 +1,45 @@
 ---
-title: "Royal Alcázar of Seville: Travel Guide"
+title: 'Royal Alcázar of Seville: Travel Guide'
 description: The Royal Alcázar of Seville is a still-functioning royal palace in the Casco Antiguo, prized for its Mudéjar palace rooms, tiled courtyards, and sprawling gardens — plan 2.5–3 hours and book timed-entry tickets online well in advance, since it regularly sells out.
-country: "Spain"
-region: "Seville"
-category: "attraction"
-pubDate: 2026-07-21
+country: Spain
+region: Seville
+category: attraction
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Royal_Alc%C3%A1zar_of_Seville_%2826848889299%29.jpg/1920px-Royal_Alc%C3%A1zar_of_Seville_%2826848889299%29.jpg"
-  credit: "Photo: Dmitry Dzhus from London / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Royal_Alc%C3%A1zar_of_Seville_(26848889299).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Royal_Alc%C3%A1zar_of_Seville_%2826848889299%29.jpg/1920px-Royal_Alc%C3%A1zar_of_Seville_%2826848889299%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Dmitry Dzhus from London / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Royal_Alc%C3%A1zar_of_Seville_(26848889299).jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Alc%C3%A1zar_Seville_April_2019-11.jpg/1920px-Alc%C3%A1zar_Seville_April_2019-11.jpg
     credit: 'Photo: Alvesgaspar / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Alc%C3%A1zar_Seville_April_2019-11.jpg
 place:
-  id: "ChIJS6JBjBlsEg0Rh_7Brr92qbo"
-  name: "Royal Alcázar of Seville"
-  address: "Casco Antiguo, 41004 Seville, Spain"
+  id: ChIJS6JBjBlsEg0Rh_7Brr92qbo
+  name: Royal Alcázar of Seville
+  address: Casco Antiguo, 41004 Seville, Spain
   rating: 4.7
   userRatingsTotal: 101595
-  googleMapsUrl: "https://maps.google.com/?cid=13450412327761477255&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=13450412327761477255&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.3830519
   lng: -5.9902257
 tags:
-  - "seville"
-  - "Royal Alcazar of Seville"
-quickAnswer: "The Royal Alcázar of Seville is a still-functioning royal palace in the Casco Antiguo, prized for its Mudéjar palace rooms, tiled courtyards, and sprawling gardens — plan 2.5–3 hours and book timed-entry tickets online well in advance, since it regularly sells out. Go right at opening (usually 9:30am) to beat both heat and crowds, and pair the visit with the adjacent Seville Cathedral and Giralda, a two-minute walk away."
+  - seville
+  - Royal Alcazar of Seville
+quickAnswer: The Royal Alcázar of Seville is a still-functioning royal palace in the Casco Antiguo, prized for its Mudéjar palace rooms, tiled courtyards, and sprawling gardens — plan 2.5–3 hours and book timed-entry tickets online well in advance, since it regularly sells out. Go right at opening (usually 9:30am) to beat both heat and crowds, and pair the visit with the adjacent Seville Cathedral and Giralda, a two-minute walk away.
 faq:
-  - q: "Do I need to book tickets in advance?"
-    a: "Yes — book online with a timed entry slot. Walk-up availability is unreliable, and tickets frequently sell out days in advance during spring and fall."
-  - q: "How long should I plan to spend there?"
-    a: "Budget 2.5 to 3 hours for the palace rooms and gardens; add extra time if you're touring the optional Royal Apartments or lingering in the gardens."
-  - q: "What's the nearest way to get there without a car?"
-    a: "The Archivo de Indias tram stop (T1 line) is about a 3-minute walk. Most visitors simply walk from the Casco Antiguo or Barrio Santa Cruz, since the entrance is on Plaza del Triunfo next to the Cathedral."
-  - q: "What's the best time of day and year to visit?"
-    a: "Aim for an opening time slot (around 9:30am) to avoid heat and crowds, and visit in March–May or October–November for the mildest weather."
-  - q: "Can I combine it with other sights nearby?"
-    a: "Yes — Seville Cathedral and the Giralda tower are steps away on the same plaza, and the historic Barrio Santa Cruz neighborhood borders the palace, making it easy to build a half-day loop."
+  - q: Do I need to book tickets in advance?
+    a: Yes — book online with a timed entry slot. Walk-up availability is unreliable, and tickets frequently sell out days in advance during spring and fall.
+  - q: How long should I plan to spend there?
+    a: Budget 2.5 to 3 hours for the palace rooms and gardens; add extra time if you're touring the optional Royal Apartments or lingering in the gardens.
+  - q: What's the nearest way to get there without a car?
+    a: The Archivo de Indias tram stop (T1 line) is about a 3-minute walk. Most visitors simply walk from the Casco Antiguo or Barrio Santa Cruz, since the entrance is on Plaza del Triunfo next to the Cathedral.
+  - q: What's the best time of day and year to visit?
+    a: Aim for an opening time slot (around 9:30am) to avoid heat and crowds, and visit in March–May or October–November for the mildest weather.
+  - q: Can I combine it with other sights nearby?
+    a: Yes — Seville Cathedral and the Giralda tower are steps away on the same plaza, and the historic Barrio Santa Cruz neighborhood borders the palace, making it easy to build a half-day loop.
 aiGenerated: true
 draft: false
 ---

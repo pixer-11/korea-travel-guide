@@ -1,13 +1,13 @@
 ---
-title: "Jack's Fish Spot: Where to Eat in Seattle"
+title: 'Jack''s Fish Spot: Where to Eat in Seattle'
 description: Jack's Fish Spot is a no-frills seafood counter inside Pike Place Market, best for a quick bowl of chowder, a crab cocktail, or a fresh oyster shooter eaten standing up at the marble bar.
 country: United States
 region: Seattle
 category: restaurant
-pubDate: "2026-07-30T10:17:37.248Z"
+pubDate: '2026-07-30T10:17:37.248Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Seattle%2C_Washington%2C_October_2022_-_210.jpg/1920px-Seattle%2C_Washington%2C_October_2022_-_210.jpg
-  credit: "Photo: Another Believer / Wikimedia Commons (CC BY-SA 4.0)"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Seattle%2C_Washington%2C_October_2022_-_210.jpg/1920px-Seattle%2C_Washington%2C_October_2022_-_210.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Another Believer / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Seattle,_Washington,_October_2022_-_210.jpg
 gallery: []
@@ -22,20 +22,28 @@ place:
   businessStatus: OPERATIONAL
   lat: 47.6090678
   lng: -122.34086909999999
-  phone: '+1 206 467-0514'
+  phone: +1 206 467-0514
   openingHours:
-    - "Monday: 7:30 AM – 6:00 PM"
-    - "Tuesday: 7:30 AM – 6:00 PM"
-    - "Wednesday: 7:30 AM – 6:00 PM"
-    - "Thursday: 7:30 AM – 6:00 PM"
-    - "Friday: 7:30 AM – 6:00 PM"
-    - "Saturday: 7:30 AM – 6:00 PM"
-    - "Sunday: 8:00 AM – 5:00 PM"
+    - 'Monday: 7:30 AM – 6:00 PM'
+    - 'Tuesday: 7:30 AM – 6:00 PM'
+    - 'Wednesday: 7:30 AM – 6:00 PM'
+    - 'Thursday: 7:30 AM – 6:00 PM'
+    - 'Friday: 7:30 AM – 6:00 PM'
+    - 'Saturday: 7:30 AM – 6:00 PM'
+    - 'Sunday: 8:00 AM – 5:00 PM'
   busyness:
     updated: 2026-07-30T00:00:00.000Z
-    weekdayQuiet: [7, 8, 9, 17]
+    weekdayQuiet:
+      - 7
+      - 8
+      - 9
+      - 17
     weekdayBusy: []
-    weekendQuiet: [7, 8, 9, 17]
+    weekendQuiet:
+      - 7
+      - 8
+      - 9
+      - 17
     weekendBusy:
       - 11
       - 12

@@ -1,50 +1,50 @@
 ---
-title: "Tanjung Aru Beach: Kota Kinabalu Travel Guide"
+title: 'Tanjung Aru Beach: Kota Kinabalu Travel Guide'
 description: 'Tanjung Aru Beach is Kota Kinabalu''s classic sunset spot: a long curve of sand a short taxi or Grab ride from the city center, backed by casuarina trees, food stalls, and the Shangri-La and Tanjung Aru Resort properties.'
-country: "Malaysia"
-region: "Kota Kinabalu"
-category: "hidden-gem"
-pubDate: "2026-07-29T10:03:22.594Z"
+country: Malaysia
+region: Kota Kinabalu
+category: hidden-gem
+pubDate: '2026-07-29T10:03:22.594Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tanjung_Aru_Beach_Park.jpg/1920px-Tanjung_Aru_Beach_Park.jpg"
-  credit: "Photo: Dcubillas / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Tanjung_Aru_Beach_Park.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tanjung_Aru_Beach_Park.jpg/1920px-Tanjung_Aru_Beach_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Dcubillas / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Tanjung_Aru_Beach_Park.jpg
 gallery: []
 place:
-  id: "ChIJN2sNPSloOzIRrPTPP23Jjxc"
-  name: "Tanjung Aru Beach"
-  address: "Tanjung Aru Beach Resort, Tanjung Aru, 88100 Kota Kinabalu, Sabah, Malaysia"
+  id: ChIJN2sNPSloOzIRrPTPP23Jjxc
+  name: Tanjung Aru Beach
+  address: Tanjung Aru Beach Resort, Tanjung Aru, 88100 Kota Kinabalu, Sabah, Malaysia
   rating: 4.3
   userRatingsTotal: 14061
-  googleMapsUrl: "https://maps.google.com/?cid=1697797055601177772&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=1697797055601177772&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 5.9473842
   lng: 116.0455771
-  phone: '+60 16-833 0678'
+  phone: +60 16-833 0678
   openingHours:
-    - "Monday: 10:00 AM – 11:00 PM"
-    - "Tuesday: 10:00 AM – 11:00 PM"
-    - "Wednesday: 10:00 AM – 11:00 PM"
-    - "Thursday: 10:00 AM – 11:00 PM"
-    - "Friday: 10:00 AM – 11:00 PM"
-    - "Saturday: 10:00 AM – 11:00 PM"
-    - "Sunday: 10:00 AM – 11:00 PM"
+    - 'Monday: 10:00 AM – 11:00 PM'
+    - 'Tuesday: 10:00 AM – 11:00 PM'
+    - 'Wednesday: 10:00 AM – 11:00 PM'
+    - 'Thursday: 10:00 AM – 11:00 PM'
+    - 'Friday: 10:00 AM – 11:00 PM'
+    - 'Saturday: 10:00 AM – 11:00 PM'
+    - 'Sunday: 10:00 AM – 11:00 PM'
 tags:
-  - "kota kinabalu"
-  - "hidden gem"
-quickAnswer: "Tanjung Aru Beach is Kota Kinabalu's classic sunset spot: a long curve of sand a short taxi or Grab ride from the city center, backed by casuarina trees, food stalls, and the Shangri-La and Tanjung Aru Resort properties. Go in the late afternoon, claim a spot on \"First Beach\" before 6pm, and stay for the sky to turn orange over the South China Sea. It's well-visited, so arrive early or on a weekday if you want breathing room."
+  - kota kinabalu
+  - hidden gem
+quickAnswer: 'Tanjung Aru Beach is Kota Kinabalu''s classic sunset spot: a long curve of sand a short taxi or Grab ride from the city center, backed by casuarina trees, food stalls, and the Shangri-La and Tanjung Aru Resort properties. Go in the late afternoon, claim a spot on "First Beach" before 6pm, and stay for the sky to turn orange over the South China Sea. It''s well-visited, so arrive early or on a weekday if you want breathing room.'
 faq:
-  - q: "How do I get to Tanjung Aru Beach from Kota Kinabalu city center?"
-    a: "It's about 15-20 minutes by Grab or taxi, roughly 4-5km southwest of downtown, right next to Kota Kinabalu International Airport."
-  - q: "What time should I go for sunset?"
-    a: "Arrive by 5pm to get a good spot; the sun typically sets between about 6pm and 6:20pm year-round due to the equatorial location."
-  - q: "Is Tanjung Aru Beach good for swimming?"
-    a: "It's calm enough for wading and a casual swim, but most visitors come for the sunset and food stalls rather than serious swimming — nearby islands like Manukan have clearer water for that."
-  - q: "Is it crowded, and when is it quieter?"
-    a: "Yes, it's one of Kota Kinabalu's most-visited beaches, especially at sunset and on weekends. Weekday evenings are noticeably calmer, and Second Beach (a short walk from the main First Beach area) tends to have fewer people."
-  - q: "What's nearby if I want to extend the visit?"
-    a: "The Shangri-La Tanjung Aru and Tanjung Aru Beach Resort both sit right on the beach with restaurants and bars, and the airport is close enough to combine a sunset stop with a flight."
+  - q: How do I get to Tanjung Aru Beach from Kota Kinabalu city center?
+    a: It's about 15-20 minutes by Grab or taxi, roughly 4-5km southwest of downtown, right next to Kota Kinabalu International Airport.
+  - q: What time should I go for sunset?
+    a: Arrive by 5pm to get a good spot; the sun typically sets between about 6pm and 6:20pm year-round due to the equatorial location.
+  - q: Is Tanjung Aru Beach good for swimming?
+    a: It's calm enough for wading and a casual swim, but most visitors come for the sunset and food stalls rather than serious swimming — nearby islands like Manukan have clearer water for that.
+  - q: Is it crowded, and when is it quieter?
+    a: Yes, it's one of Kota Kinabalu's most-visited beaches, especially at sunset and on weekends. Weekday evenings are noticeably calmer, and Second Beach (a short walk from the main First Beach area) tends to have fewer people.
+  - q: What's nearby if I want to extend the visit?
+    a: The Shangri-La Tanjung Aru and Tanjung Aru Beach Resort both sit right on the beach with restaurants and bars, and the airport is close enough to combine a sunset stop with a flight.
 aiGenerated: true
 draft: false
 ---

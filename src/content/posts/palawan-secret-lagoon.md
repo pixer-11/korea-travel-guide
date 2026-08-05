@@ -1,41 +1,41 @@
 ---
-title: "Secret Lagoon: Palawan Travel Guide"
+title: 'Secret Lagoon: Palawan Travel Guide'
 description: Secret Lagoon is a pocket-sized, cave-hidden pool near El Nido town, reached by ducking through a low limestone opening (sometimes only passable by swimming through at certain tides) into a still, jade-green basin ringed by cliffs.
-country: "Philippines"
-region: "Palawan"
-category: "hidden-gem"
-pubDate: "2026-07-29T10:01:43.395Z"
+country: Philippines
+region: Palawan
+category: hidden-gem
+pubDate: '2026-07-29T10:01:43.395Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Secret_Lagoon_at_Malakdang%2C_Sabtang_Island%2C_Batanes.jpg/1920px-Secret_Lagoon_at_Malakdang%2C_Sabtang_Island%2C_Batanes.jpg"
-  credit: "Photo: Sahara Shandra Datuimam / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Secret_Lagoon_at_Malakdang,_Sabtang_Island,_Batanes.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Secret_Lagoon_at_Malakdang%2C_Sabtang_Island%2C_Batanes.jpg/1920px-Secret_Lagoon_at_Malakdang%2C_Sabtang_Island%2C_Batanes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Sahara Shandra Datuimam / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Secret_Lagoon_at_Malakdang,_Sabtang_Island,_Batanes.jpg
 gallery: []
 place:
-  id: "ChIJgQMlc_JTtjMR7WdrITcL5Cs"
-  name: "Secret Lagoon"
-  address: "Secret Lagoon, El Nido, Palawan, Philippines"
+  id: ChIJgQMlc_JTtjMR7WdrITcL5Cs
+  name: Secret Lagoon
+  address: Secret Lagoon, El Nido, Palawan, Philippines
   rating: 4.4
   userRatingsTotal: 1382
-  googleMapsUrl: "https://maps.google.com/?cid=3162665169732724717&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=3162665169732724717&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 11.145541999999999
   lng: 119.3127177
 tags:
-  - "palawan"
-  - "hidden gem"
-quickAnswer: "Secret Lagoon is a pocket-sized, cave-hidden pool near El Nido town, reached by ducking through a low limestone opening (sometimes only passable by swimming through at certain tides) into a still, jade-green basin ringed by cliffs. It's included on most El Nido island-hopping \"Tour A\" itineraries, so go early or aim for a private/land approach if you want it quiet — 1,382+ visitors have rated it 4.4, and it's best treated as a 20-30 minute stop rather than a full beach day."
+  - palawan
+  - hidden gem
+quickAnswer: Secret Lagoon is a pocket-sized, cave-hidden pool near El Nido town, reached by ducking through a low limestone opening (sometimes only passable by swimming through at certain tides) into a still, jade-green basin ringed by cliffs. It's included on most El Nido island-hopping "Tour A" itineraries, so go early or aim for a private/land approach if you want it quiet — 1,382+ visitors have rated it 4.4, and it's best treated as a 20-30 minute stop rather than a full beach day.
 faq:
-  - q: "How do you get into Secret Lagoon?"
-    a: "You can only enter by swimming through a narrow, partially submerged opening in the limestone cliff — there's no walking path or land entrance. Boat crews will tell you if the tide makes it passable that day."
-  - q: "Is Secret Lagoon included in El Nido island-hopping tours?"
-    a: "Yes, it's typically one of four to five stops on the standard 'Tour A' boat circuit, alongside Big Lagoon, Small Lagoon, and Shimizu Island, bookable through resorts or tour operators in El Nido town."
-  - q: "How long do you spend at Secret Lagoon?"
-    a: "Most visits last around 20-30 minutes, since it's a small enclosed pool rather than a beach to linger on — groups are cycled through due to the tight cave entrance."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Book the first morning tour departure out of El Nido; the lagoon gets busier as more boats arrive mid-morning through midday."
-  - q: "What's the best season to visit?"
-    a: "November through May (dry season) offers calmer seas and a more reliable swim-through entrance; June to October's wetter, choppier conditions can sometimes force operators to skip this stop entirely."
+  - q: How do you get into Secret Lagoon?
+    a: You can only enter by swimming through a narrow, partially submerged opening in the limestone cliff — there's no walking path or land entrance. Boat crews will tell you if the tide makes it passable that day.
+  - q: Is Secret Lagoon included in El Nido island-hopping tours?
+    a: Yes, it's typically one of four to five stops on the standard 'Tour A' boat circuit, alongside Big Lagoon, Small Lagoon, and Shimizu Island, bookable through resorts or tour operators in El Nido town.
+  - q: How long do you spend at Secret Lagoon?
+    a: Most visits last around 20-30 minutes, since it's a small enclosed pool rather than a beach to linger on — groups are cycled through due to the tight cave entrance.
+  - q: When is the best time to visit to avoid crowds?
+    a: Book the first morning tour departure out of El Nido; the lagoon gets busier as more boats arrive mid-morning through midday.
+  - q: What's the best season to visit?
+    a: November through May (dry season) offers calmer seas and a more reliable swim-through entrance; June to October's wetter, choppier conditions can sometimes force operators to skip this stop entirely.
 aiGenerated: true
 draft: false
 ---

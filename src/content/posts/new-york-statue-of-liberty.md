@@ -1,45 +1,45 @@
 ---
-title: "Statue of Liberty: New York Travel Guide"
+title: 'Statue of Liberty: New York Travel Guide'
 description: Visit the Statue of Liberty by taking the official Statue City Cruises ferry from Battery Park in Manhattan (or Liberty State Park in New Jersey), which is the only way to legally reach Liberty Island.
-country: "United States"
-region: "New York"
-category: "attraction"
-pubDate: 2026-07-21
+country: United States
+region: New York
+category: attraction
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Statue_of_Liberty_Annular_Solar_Eclipse_%2851239095574%29.jpg/1920px-Statue_of_Liberty_Annular_Solar_Eclipse_%2851239095574%29.jpg"
-  credit: "Photo: Anthony Quintano from Mount Laurel, United States / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Statue_of_Liberty_Annular_Solar_Eclipse_(51239095574).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Statue_of_Liberty_Annular_Solar_Eclipse_%2851239095574%29.jpg/1920px-Statue_of_Liberty_Annular_Solar_Eclipse_%2851239095574%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Anthony Quintano from Mount Laurel, United States / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Statue_of_Liberty_Annular_Solar_Eclipse_(51239095574).jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/New_York_City_%28New_York%2C_USA%29%2C_Statue_of_Liberty_--_2012_--_6660.jpg/1920px-New_York_City_%28New_York%2C_USA%29%2C_Statue_of_Liberty_--_2012_--_6660.jpg
     credit: 'Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:New_York_City_(New_York,_USA),_Statue_of_Liberty_--_2012_--_6660.jpg
 place:
-  id: "ChIJPTacEpBQwokRKwIlDXelxkA"
-  name: "Statue of Liberty"
-  address: "New York, NY 10004, USA"
+  id: ChIJPTacEpBQwokRKwIlDXelxkA
+  name: Statue of Liberty
+  address: New York, NY 10004, USA
   rating: 4.7
   userRatingsTotal: 112067
-  googleMapsUrl: "https://maps.google.com/?cid=4667599994556318251&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=4667599994556318251&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 40.6892494
   lng: -74.04450039999999
 tags:
-  - "new york"
-  - "Statue of Liberty"
-quickAnswer: "Visit the Statue of Liberty by taking the official Statue City Cruises ferry from Battery Park in Manhattan (or Liberty State Park in New Jersey), which is the only way to legally reach Liberty Island. Book tickets weeks in advance, especially if you want pedestal or crown access, and plan for a half-day covering both Liberty Island and Ellis Island. Go early morning on a weekday for the shortest lines and best light for photos."
+  - new york
+  - Statue of Liberty
+quickAnswer: Visit the Statue of Liberty by taking the official Statue City Cruises ferry from Battery Park in Manhattan (or Liberty State Park in New Jersey), which is the only way to legally reach Liberty Island. Book tickets weeks in advance, especially if you want pedestal or crown access, and plan for a half-day covering both Liberty Island and Ellis Island. Go early morning on a weekday for the shortest lines and best light for photos.
 faq:
-  - q: "How do I get to the Statue of Liberty?"
-    a: "Take the official Statue City Cruises ferry from Battery Park in Manhattan (near South Ferry station, 1 train) or from Liberty State Park in Jersey City. It's the only legal way to land on Liberty Island."
-  - q: "How long does a visit take?"
-    a: "Plan for 4–5 hours round trip if you visit both Liberty Island and Ellis Island, including ferry rides, security screening, and time exploring each site."
-  - q: "Do I need to book crown access in advance?"
-    a: "Yes — crown tickets are limited, require climbing about 162 steps with no elevator, and typically sell out weeks or months ahead. Book directly through Statue City Cruises or the NPS website as early as possible."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Take the first ferry on a weekday morning for the shortest security lines and clearest skyline photos; weekends and midday in peak summer are busiest."
-  - q: "Can I visit Ellis Island too?"
-    a: "Yes, the same ferry ticket includes a stop at Ellis Island, home to the National Museum of Immigration in the restored Great Hall — worth 45 minutes to an hour."
+  - q: How do I get to the Statue of Liberty?
+    a: Take the official Statue City Cruises ferry from Battery Park in Manhattan (near South Ferry station, 1 train) or from Liberty State Park in Jersey City. It's the only legal way to land on Liberty Island.
+  - q: How long does a visit take?
+    a: Plan for 4–5 hours round trip if you visit both Liberty Island and Ellis Island, including ferry rides, security screening, and time exploring each site.
+  - q: Do I need to book crown access in advance?
+    a: Yes — crown tickets are limited, require climbing about 162 steps with no elevator, and typically sell out weeks or months ahead. Book directly through Statue City Cruises or the NPS website as early as possible.
+  - q: What's the best time to visit to avoid crowds?
+    a: Take the first ferry on a weekday morning for the shortest security lines and clearest skyline photos; weekends and midday in peak summer are busiest.
+  - q: Can I visit Ellis Island too?
+    a: Yes, the same ferry ticket includes a stop at Ellis Island, home to the National Museum of Immigration in the restored Great Hall — worth 45 minutes to an hour.
 aiGenerated: true
 draft: false
 ---

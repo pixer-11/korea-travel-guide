@@ -1,53 +1,70 @@
 ---
-title: "Chuồn Chuồn Bistro & Bar: Phu Quoc Travel Guide"
+title: 'Chuồn Chuồn Bistro & Bar: Phu Quoc Travel Guide'
 description: Chuồn Chuồn Bistro & Bar is a stylish, garden-set restaurant-lounge on Tran Hung Dao Street in Phu Quoc Town, known for its lantern-lit outdoor seating, Vietnamese-fusion dishes, and cocktails.
-country: "Vietnam"
-region: "Phu Quoc"
-category: "trendy"
-pubDate: "2026-07-22T09:39:14.545Z"
+country: Vietnam
+region: Phu Quoc
+category: trendy
+pubDate: '2026-07-22T09:39:14.545Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Chuon_Chuon_Bistro_%26_Bar%2C_Phu_Quoc.jpg/1920px-Chuon_Chuon_Bistro_%26_Bar%2C_Phu_Quoc.jpg"
-  credit: "Photo: Tuong Lam Photos / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Chuon_Chuon_Bistro_%26_Bar,_Phu_Quoc.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Chuon_Chuon_Bistro_%26_Bar%2C_Phu_Quoc.jpg/1920px-Chuon_Chuon_Bistro_%26_Bar%2C_Phu_Quoc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Tuong Lam Photos / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Chuon_Chuon_Bistro_%26_Bar,_Phu_Quoc.jpg
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/642816_OhBPRRwt0yc9SyCbaDmVRl-e_zomjSuMId3vI2ID310.jpg
     credit: 'Photo: Foursquare user content (Chuồn Chuồn Bistro & Sky Bar)'
     license: foursquare
     source: https://foursquare.com/v/58d86dfc52e32d0cc45a1b56
 place:
-  id: "ChIJsY399WOMpzER7lV4UDy_2w0"
-  name: "Chuồn Chuồn Bistro & Bar"
-  address: "Thửa đất 60, Tờ bản đồ 122, đặc khu, Tổ 3 Đường Trần Hưng Đạo, kp7, Phú Quốc, An Giang 92500, Vietnam"
+  id: ChIJsY399WOMpzER7lV4UDy_2w0
+  name: Chuồn Chuồn Bistro & Bar
+  address: Thửa đất 60, Tờ bản đồ 122, đặc khu, Tổ 3 Đường Trần Hưng Đạo, kp7, Phú Quốc, An Giang 92500, Vietnam
   rating: 4.3
   userRatingsTotal: 6089
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=998602008161703406&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=998602008161703406&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 10.209571799999999
   lng: 103.9666404
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [7, 8, 9, 22]
-    weekdayBusy: [13, 14, 15, 16]
-    weekendQuiet: [7, 8, 21, 22]
-    weekendBusy: [13, 14, 15, 16, 17]
-    venueId: 'ven_3077325f79445534566c3752457a704d4f5739393359734a496843'
+    weekdayQuiet:
+      - 7
+      - 8
+      - 9
+      - 22
+    weekdayBusy:
+      - 13
+      - 14
+      - 15
+      - 16
+    weekendQuiet:
+      - 7
+      - 8
+      - 21
+      - 22
+    weekendBusy:
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+    venueId: ven_3077325f79445534566c3752457a704d4f5739393359734a496843
 tags:
-  - "phu quoc"
-  - "trendy cafe"
-quickAnswer: "Chuồn Chuồn Bistro & Bar is a stylish, garden-set restaurant-lounge on Tran Hung Dao Street in Phu Quoc Town, known for its lantern-lit outdoor seating, Vietnamese-fusion dishes, and cocktails. With a 4.3 rating from over 6,000 reviews and mid-range prices, it works well as a relaxed dinner stop before or after exploring the night market. Go around sunset or after 6pm to catch the best atmosphere, and book ahead or arrive early on weekends since it fills up fast."
+  - phu quoc
+  - trendy cafe
+quickAnswer: Chuồn Chuồn Bistro & Bar is a stylish, garden-set restaurant-lounge on Tran Hung Dao Street in Phu Quoc Town, known for its lantern-lit outdoor seating, Vietnamese-fusion dishes, and cocktails. With a 4.3 rating from over 6,000 reviews and mid-range prices, it works well as a relaxed dinner stop before or after exploring the night market. Go around sunset or after 6pm to catch the best atmosphere, and book ahead or arrive early on weekends since it fills up fast.
 faq:
-  - q: "How do I get to Chuồn Chuồn Bistro & Bar from the airport?"
-    a: "It's about a 10–15 minute drive from Phu Quoc International Airport (PQC) via Grab, taxi, or rental scooter, located along Tran Hung Dao Street in Phu Quoc Town."
-  - q: "What's the price range like?"
-    a: "It sits at a moderate price level for Phu Quoc — pricier than street food stalls but more affordable than upscale resort dining, with cocktails and shared plates being popular order choices."
-  - q: "What's the best time to visit?"
-    a: "Evenings, roughly 6–9pm, when the garden lighting and lantern ambiance are at their best. Arriving around 5:30–6pm can help you avoid the busiest dinner rush, especially on weekends."
-  - q: "How long should I plan to stay?"
-    a: "Most visitors spend about 1.5–2 hours for a full dinner with drinks, though the relaxed lounge setting makes it easy to linger longer."
-  - q: "What's nearby to combine with a visit?"
-    a: "Dinh Cau Night Market is just a few minutes away by car or scooter, making it a natural pairing for dessert or extra street food after dinner."
+  - q: How do I get to Chuồn Chuồn Bistro & Bar from the airport?
+    a: It's about a 10–15 minute drive from Phu Quoc International Airport (PQC) via Grab, taxi, or rental scooter, located along Tran Hung Dao Street in Phu Quoc Town.
+  - q: What's the price range like?
+    a: It sits at a moderate price level for Phu Quoc — pricier than street food stalls but more affordable than upscale resort dining, with cocktails and shared plates being popular order choices.
+  - q: What's the best time to visit?
+    a: Evenings, roughly 6–9pm, when the garden lighting and lantern ambiance are at their best. Arriving around 5:30–6pm can help you avoid the busiest dinner rush, especially on weekends.
+  - q: How long should I plan to stay?
+    a: Most visitors spend about 1.5–2 hours for a full dinner with drinks, though the relaxed lounge setting makes it easy to linger longer.
+  - q: What's nearby to combine with a visit?
+    a: Dinh Cau Night Market is just a few minutes away by car or scooter, making it a natural pairing for dessert or extra street food after dinner.
 aiGenerated: true
 draft: false
 ---

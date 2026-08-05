@@ -1,51 +1,64 @@
 ---
-title: "Eiffel Tower: Paris Travel Guide"
-description: "Buy timed-entry tickets online in advance (booking opens roughly 60-90 days ahead) and go either at opening (9:30am) or after sunset for the light show."
-country: "France"
-region: "Paris"
-category: "attraction"
-pubDate: 2026-07-21
+title: 'Eiffel Tower: Paris Travel Guide'
+description: Buy timed-entry tickets online in advance (booking opens roughly 60-90 days ahead) and go either at opening (9:30am) or after sunset for the light show.
+country: France
+region: Paris
+category: attraction
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Paris_-_The_Eiffel_Tower_in_spring_-_2307.jpg/1920px-Paris_-_The_Eiffel_Tower_in_spring_-_2307.jpg"
-  credit: "Photo: Jorge Royan / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Paris_-_The_Eiffel_Tower_in_spring_-_2307.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Paris_-_The_Eiffel_Tower_in_spring_-_2307.jpg/1920px-Paris_-_The_Eiffel_Tower_in_spring_-_2307.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Jorge Royan / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Paris_-_The_Eiffel_Tower_in_spring_-_2307.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Eiffel_Tower_and_Pont_Alexandre_III_at_night.jpg/1920px-Eiffel_Tower_and_Pont_Alexandre_III_at_night.jpg
     credit: 'Photo: Getfunky Paris / Wikimedia Commons (CC BY 2.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Eiffel_Tower_and_Pont_Alexandre_III_at_night.jpg
 place:
-  id: "ChIJLU7jZClu5kcR4PcOOO6p3I0"
-  name: "Eiffel Tower"
-  address: "Av. Gustave Eiffel, 75007 Paris, France"
+  id: ChIJLU7jZClu5kcR4PcOOO6p3I0
+  name: Eiffel Tower
+  address: Av. Gustave Eiffel, 75007 Paris, France
   rating: 4.7
   userRatingsTotal: 492579
-  googleMapsUrl: "https://maps.google.com/?cid=10222232094831998944&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=10222232094831998944&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 48.858370099999995
   lng: 2.2944812999999997
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [9, 10]
-    weekendQuiet: [9, 10]
-    weekendBusy: [14, 15, 16, 17, 18, 19, 20, 21, 22]
-    venueId: 'ven_30493370364f4f4f63503452636b35756c435a6a37554c4a496843'
+    weekdayQuiet:
+      - 9
+      - 10
+    weekendQuiet:
+      - 9
+      - 10
+    weekendBusy:
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+    venueId: ven_30493370364f4f4f63503452636b35756c435a6a37554c4a496843
 tags:
-  - "paris"
-  - "Eiffel Tower"
-quickAnswer: "Buy timed-entry tickets online in advance (booking opens roughly 60-90 days ahead) and go either at opening (9:30am) or after sunset for the light show. Budget 2-3 hours including security lines, and choose the stairs to the 2nd floor if you want a cheaper, faster, more active option than the elevator queue. The nearest metro stops are Bir-Hakeim (Line 6) and Trocadéro (Line 9), both a short walk with classic photo views."
+  - paris
+  - Eiffel Tower
+quickAnswer: Buy timed-entry tickets online in advance (booking opens roughly 60-90 days ahead) and go either at opening (9:30am) or after sunset for the light show. Budget 2-3 hours including security lines, and choose the stairs to the 2nd floor if you want a cheaper, faster, more active option than the elevator queue. The nearest metro stops are Bir-Hakeim (Line 6) and Trocadéro (Line 9), both a short walk with classic photo views.
 faq:
-  - q: "How do I get to the Eiffel Tower by metro?"
-    a: "Take Line 6 to Bir-Hakeim or Line 9 to Trocadéro — both are a short walk from the tower. RER C to Champ de Mars–Tour Eiffel is another good option."
-  - q: "Should I book tickets in advance?"
-    a: "Yes. Online booking opens roughly 60-90 days ahead and walk-up lines can exceed an hour. Stair tickets to the 2nd floor are usually cheaper and less crowded than elevator tickets."
-  - q: "How long should I plan for a visit?"
-    a: "Budget 2-3 hours total, including the mandatory security screening at the entrance and time in the elevator or stair queues."
-  - q: "What's the best time of day to visit?"
-    a: "Right at the 9:30am opening or after sunset, when the tower is lit and the light show sparkles for five minutes every hour until 1am."
-  - q: "Is it worth climbing the stairs instead of taking the elevator?"
-    a: "The stairs (about 300-400 steps) only go to the 2nd floor and are often faster and cheaper than elevator tickets; the summit above that is accessible by elevator only."
+  - q: How do I get to the Eiffel Tower by metro?
+    a: Take Line 6 to Bir-Hakeim or Line 9 to Trocadéro — both are a short walk from the tower. RER C to Champ de Mars–Tour Eiffel is another good option.
+  - q: Should I book tickets in advance?
+    a: Yes. Online booking opens roughly 60-90 days ahead and walk-up lines can exceed an hour. Stair tickets to the 2nd floor are usually cheaper and less crowded than elevator tickets.
+  - q: How long should I plan for a visit?
+    a: Budget 2-3 hours total, including the mandatory security screening at the entrance and time in the elevator or stair queues.
+  - q: What's the best time of day to visit?
+    a: Right at the 9:30am opening or after sunset, when the tower is lit and the light show sparkles for five minutes every hour until 1am.
+  - q: Is it worth climbing the stairs instead of taking the elevator?
+    a: The stairs (about 300-400 steps) only go to the 2nd floor and are often faster and cheaper than elevator tickets; the summit above that is accessible by elevator only.
 aiGenerated: true
 draft: false
 ---

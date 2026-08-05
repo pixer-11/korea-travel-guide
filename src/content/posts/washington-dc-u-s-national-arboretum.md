@@ -1,55 +1,55 @@
 ---
-title: "U.S. National Arboretum: Washington DC Travel Guide"
+title: 'U.S. National Arboretum: Washington DC Travel Guide'
 description: The U.S. National Arboretum, at 3501 New York Ave NE in Northeast DC, is a free 446-acre research garden best known for its 22 salvaged Corinthian columns and its world-class National Bonsai & Penjing Museum.
-country: "United States"
-region: "Washington DC"
-category: "hidden-gem"
-pubDate: "2026-07-28T10:09:11.999Z"
+country: United States
+region: Washington DC
+category: hidden-gem
+pubDate: '2026-07-28T10:09:11.999Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/National_Capitol_Columns_-_Washington%2C_D.C..jpg/1920px-National_Capitol_Columns_-_Washington%2C_D.C..jpg"
-  credit: "Photo: APK / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:National_Capitol_Columns_-_Washington,_D.C..jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/National_Capitol_Columns_-_Washington%2C_D.C..jpg/1920px-National_Capitol_Columns_-_Washington%2C_D.C..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: APK / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:National_Capitol_Columns_-_Washington,_D.C..jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/6/6e/Visitors_Center_%26_Administration_Building_-_United_States_National_Arboretum.jpg"
-    credit: "Photo: Cliff from Arlington, Virginia, USA / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Visitors_Center_%26_Administration_Building_-_United_States_National_Arboretum.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/6/6e/Visitors_Center_%26_Administration_Building_-_United_States_National_Arboretum.jpg
+    credit: 'Photo: Cliff from Arlington, Virginia, USA / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Visitors_Center_%26_Administration_Building_-_United_States_National_Arboretum.jpg
 place:
-  id: "ChIJc81J0H-4t4kRi9BdLXOOfwk"
-  name: "U.S. National Arboretum"
-  address: "3501 New York Ave NE, Washington, DC 20002, USA"
+  id: ChIJc81J0H-4t4kRi9BdLXOOfwk
+  name: U.S. National Arboretum
+  address: 3501 New York Ave NE, Washington, DC 20002, USA
   rating: 4.7
   userRatingsTotal: 6312
   priceLevel: 0
-  googleMapsUrl: "https://maps.google.com/?cid=684422293717110923&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=684422293717110923&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 38.91213
   lng: -76.9657782
-  phone: '+1 202 245-4523'
+  phone: +1 202 245-4523
   openingHours:
-    - "Monday: 8:00 AM – 8:00 PM"
-    - "Tuesday: 8:00 AM – 8:00 PM"
-    - "Wednesday: 8:00 AM – 8:00 PM"
-    - "Thursday: 8:00 AM – 8:00 PM"
-    - "Friday: 8:00 AM – 8:00 PM"
-    - "Saturday: 8:00 AM – 5:00 PM"
-    - "Sunday: 8:00 AM – 5:00 PM"
+    - 'Monday: 8:00 AM – 8:00 PM'
+    - 'Tuesday: 8:00 AM – 8:00 PM'
+    - 'Wednesday: 8:00 AM – 8:00 PM'
+    - 'Thursday: 8:00 AM – 8:00 PM'
+    - 'Friday: 8:00 AM – 8:00 PM'
+    - 'Saturday: 8:00 AM – 5:00 PM'
+    - 'Sunday: 8:00 AM – 5:00 PM'
 tags:
-  - "washington dc"
-  - "hidden gem"
-quickAnswer: "The U.S. National Arboretum, at 3501 New York Ave NE in Northeast DC, is a free 446-acre research garden best known for its 22 salvaged Corinthian columns and its world-class National Bonsai & Penjing Museum. Set aside at least two to three hours, ideally on a weekday morning, and bring a car or bike since it's not walkable from a Metro station. Rated 4.7 from over 6,000 reviews, it's genuinely one of the best free things to do in Washington DC — just don't expect to have it to yourself."
+  - washington dc
+  - hidden gem
+quickAnswer: The U.S. National Arboretum, at 3501 New York Ave NE in Northeast DC, is a free 446-acre research garden best known for its 22 salvaged Corinthian columns and its world-class National Bonsai & Penjing Museum. Set aside at least two to three hours, ideally on a weekday morning, and bring a car or bike since it's not walkable from a Metro station. Rated 4.7 from over 6,000 reviews, it's genuinely one of the best free things to do in Washington DC — just don't expect to have it to yourself.
 faq:
-  - q: "Is the U.S. National Arboretum free?"
-    a: "Yes, admission is completely free, though the Arboretum accepts donations and it's a good idea to confirm current hours online before visiting, since it closes earlier than most city parks and shuts entirely on Christmas Day."
-  - q: "How do I get there without a car?"
-    a: "The nearest Metro stations, Stadium-Armory and Minnesota Ave (both Blue/Orange/Silver lines), are each about a 20-25 minute walk away, so most visitors drive, bike, or take a rideshare directly to the free on-site parking near the R Street NE entrance."
-  - q: "How long should I plan to spend there?"
-    a: "Budget at least two to three hours to see the Capitol Columns, the National Bonsai & Penjing Museum, and one or two other collections; a full loop of the 446-acre grounds can easily fill half a day."
-  - q: "When is the best time to visit, and when is it least crowded?"
-    a: "April brings the famous azalea bloom and the biggest crowds, especially on weekend afternoons; for a quieter visit, come on a weekday morning. Fall (late October–November) is a beautiful, less crowded alternative for foliage."
-  - q: "What's the must-see spot for photos?"
-    a: "The 22 Corinthian columns from the original U.S. Capitol, standing alone in a meadow off Ellipse Road, are the Arboretum's signature sight — best photographed in late-afternoon golden light."
+  - q: Is the U.S. National Arboretum free?
+    a: Yes, admission is completely free, though the Arboretum accepts donations and it's a good idea to confirm current hours online before visiting, since it closes earlier than most city parks and shuts entirely on Christmas Day.
+  - q: How do I get there without a car?
+    a: The nearest Metro stations, Stadium-Armory and Minnesota Ave (both Blue/Orange/Silver lines), are each about a 20-25 minute walk away, so most visitors drive, bike, or take a rideshare directly to the free on-site parking near the R Street NE entrance.
+  - q: How long should I plan to spend there?
+    a: Budget at least two to three hours to see the Capitol Columns, the National Bonsai & Penjing Museum, and one or two other collections; a full loop of the 446-acre grounds can easily fill half a day.
+  - q: When is the best time to visit, and when is it least crowded?
+    a: April brings the famous azalea bloom and the biggest crowds, especially on weekend afternoons; for a quieter visit, come on a weekday morning. Fall (late October–November) is a beautiful, less crowded alternative for foliage.
+  - q: What's the must-see spot for photos?
+    a: The 22 Corinthian columns from the original U.S. Capitol, standing alone in a meadow off Ellipse Road, are the Arboretum's signature sight — best photographed in late-afternoon golden light.
 aiGenerated: true
 draft: false
 ---

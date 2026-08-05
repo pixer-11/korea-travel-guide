@@ -93,7 +93,10 @@ const orgLd = {
       url: siteUrl,
       description: SITE.description,
       publisher: { '@id': `${siteUrl}/#org` },
-      inLanguage: 'en',
+      // Was hardcoded 'en' on all 4,400 localized pages, contradicting both
+      // <html lang> and the hreflang block on the same page — a Korean page told
+      // Google it was English (found 2026-08-06).
+      inLanguage: localeCodes[lang],
     },
   ],
 };

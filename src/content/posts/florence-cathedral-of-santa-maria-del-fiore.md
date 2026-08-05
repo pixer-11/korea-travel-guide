@@ -6,7 +6,7 @@ region: Florence
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Florence_Cathedral_seen_from_Piazzale_Michelangelo_night_dllu.jpg/1920px-Florence_Cathedral_seen_from_Piazzale_Michelangelo_night_dllu.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Florence_Cathedral_seen_from_Piazzale_Michelangelo_night_dllu.jpg/1920px-Florence_Cathedral_seen_from_Piazzale_Michelangelo_night_dllu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Dllu / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Florence_Cathedral_seen_from_Piazzale_Michelangelo_night_dllu.jpg
@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 43.773145
   lng: 11.255960199999999
-  phone: '+39 055 230 2885'
+  phone: +39 055 230 2885
   openingHours:
     - 'Monday: 10:15 AM – 3:45 PM'
     - 'Tuesday: 10:15 AM – 3:45 PM'

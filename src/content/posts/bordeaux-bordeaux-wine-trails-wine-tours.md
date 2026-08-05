@@ -1,13 +1,13 @@
 ---
-title: "Bordeaux Wine Trails - Wine tours: Travel Guide"
+title: 'Bordeaux Wine Trails - Wine tours: Travel Guide'
 description: Bordeaux Wine Trails runs small-group day trips from the city center out to the surrounding vineyards (Saint-Émilion, Médoc, Sauternes and Graves are the classic circuits), pairing château visits with tastings and usually lunch.
 country: France
 region: Bordeaux
 category: hidden-gem
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Dans_le_M%C3%A9doc..._Bordeaux_Gironde_Vin_Vinoble_Winery_Wine_%288036043381%29.jpg/1920px-Dans_le_M%C3%A9doc..._Bordeaux_Gironde_Vin_Vinoble_Winery_Wine_%288036043381%29.jpg
-  credit: "Photo: Grand Parc - Bordeaux, France from France / Wikimedia Commons (CC BY 2.0)"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Dans_le_M%C3%A9doc..._Bordeaux_Gironde_Vin_Vinoble_Winery_Wine_%288036043381%29.jpg/1920px-Dans_le_M%C3%A9doc..._Bordeaux_Gironde_Vin_Vinoble_Winery_Wine_%288036043381%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Grand Parc - Bordeaux, France from France / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Dans_le_M%C3%A9doc..._Bordeaux_Gironde_Vin_Vinoble_Winery_Wine_(8036043381).jpg
 gallery: []
@@ -21,15 +21,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 44.8389957
   lng: -0.5692577999999999
-  phone: '+33 5 64 10 10 04'
+  phone: +33 5 64 10 10 04
   openingHours:
-    - "Monday: 9:00 AM – 5:00 PM"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: Closed"
-    - "Sunday: Closed"
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: Closed'
+    - 'Sunday: Closed'
 tags:
   - bordeaux
   - Bordeaux Wine Region
@@ -47,7 +47,7 @@ faq:
     a: May through October has the most reliable weather for vineyard walks, with harvest season (September-early October) adding extra atmosphere but also higher demand. Winter tours exist and focus more on cellar visits and tastings.
 aiGenerated: true
 draft: false
-updatedDate: "2026-07-24"
+updatedDate: '2026-07-24'
 ---
 ## Why Bordeaux Wine Trails
 

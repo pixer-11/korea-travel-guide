@@ -6,7 +6,7 @@ region: Madrid
 category: hidden-gem
 pubDate: '2026-08-04T10:18:47.825Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Templo_de_Debod_in_Madrid.jpg/1920px-Templo_de_Debod_in_Madrid.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Templo_de_Debod_in_Madrid.jpg/1920px-Templo_de_Debod_in_Madrid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: https://www.flickr.com/photos/jiuguangw / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Templo_de_Debod_in_Madrid.jpg

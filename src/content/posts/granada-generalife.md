@@ -1,13 +1,13 @@
 ---
-title: "Generalife: Granada Travel Guide"
+title: 'Generalife: Granada Travel Guide'
 description: The Generalife is the Alhambra's summer palace and gardens, a short walk uphill from the main Nazrin Palaces, open daily 8:30am–8pm.
 country: Spain
 region: Granada
 category: attraction
-pubDate: "2026-07-30T09:53:54.812Z"
+pubDate: '2026-07-30T09:53:54.812Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Patio_de_la_Acequia_%28Generalife%29_-_DSC07863_%28slightly_cropped_and_sharpened%29.jpg/1920px-Patio_de_la_Acequia_%28Generalife%29_-_DSC07863_%28slightly_cropped_and_sharpened%29.jpg
-  credit: "Photo: Daderot / Wikimedia Commons (CC BY-SA 4.0)"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Patio_de_la_Acequia_%28Generalife%29_-_DSC07863_%28slightly_cropped_and_sharpened%29.jpg/1920px-Patio_de_la_Acequia_%28Generalife%29_-_DSC07863_%28slightly_cropped_and_sharpened%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Daderot / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Patio_de_la_Acequia_(Generalife)_-_DSC07863_(slightly_cropped_and_sharpened).jpg
 gallery: []
@@ -21,25 +21,33 @@ place:
   businessStatus: OPERATIONAL
   lat: 37.178001699999996
   lng: -3.5854776999999998
-  phone: '+34 958 02 79 71'
+  phone: +34 958 02 79 71
   openingHours:
-    - "Monday: 8:30 AM – 8:00 PM"
-    - "Tuesday: 8:30 AM – 8:00 PM"
-    - "Wednesday: 8:30 AM – 8:00 PM"
-    - "Thursday: 8:30 AM – 8:00 PM"
-    - "Friday: 8:30 AM – 8:00 PM"
-    - "Saturday: 8:30 AM – 8:00 PM"
-    - "Sunday: 8:30 AM – 8:00 PM"
+    - 'Monday: 8:30 AM – 8:00 PM'
+    - 'Tuesday: 8:30 AM – 8:00 PM'
+    - 'Wednesday: 8:30 AM – 8:00 PM'
+    - 'Thursday: 8:30 AM – 8:00 PM'
+    - 'Friday: 8:30 AM – 8:00 PM'
+    - 'Saturday: 8:30 AM – 8:00 PM'
+    - 'Sunday: 8:30 AM – 8:00 PM'
   busyness:
     updated: 2026-07-30T00:00:00.000Z
-    weekdayQuiet: [8, 18, 19]
+    weekdayQuiet:
+      - 8
+      - 18
+      - 19
     weekdayBusy:
       - 10
       - 11
       - 12
       - 13
       - 14
-    weekendQuiet: [8, 9, 17, 18, 19]
+    weekendQuiet:
+      - 8
+      - 9
+      - 17
+      - 18
+      - 19
     weekendBusy:
       - 11
       - 12

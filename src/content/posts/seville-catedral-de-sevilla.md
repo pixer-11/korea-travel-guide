@@ -1,54 +1,54 @@
 ---
-title: "Catedral de Sevilla: Seville Travel Guide"
+title: 'Catedral de Sevilla: Seville Travel Guide'
 description: 'Seville''s Catedral is the largest Gothic cathedral in the world, built atop the old Almohad mosque, and it''s worth a full morning: climb the Giralda for rooftop-and-city views, then find Columbus''s tomb held aloft by four bronze kings.'
-country: "Spain"
-region: "Seville"
-category: "attraction"
-pubDate: "2026-07-26T07:54:11.059Z"
+country: Spain
+region: Seville
+category: attraction
+pubDate: '2026-07-26T07:54:11.059Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Trascoro%2C_Catedral_de_Sevilla%2C_Sevilla%2C_Espa%C3%B1a%2C_2015-12-06%2C_DD_109-111_HDR.JPG/1920px-Trascoro%2C_Catedral_de_Sevilla%2C_Sevilla%2C_Espa%C3%B1a%2C_2015-12-06%2C_DD_109-111_HDR.JPG"
-  credit: "Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Trascoro,_Catedral_de_Sevilla,_Sevilla,_Espa%C3%B1a,_2015-12-06,_DD_109-111_HDR.JPG"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Trascoro%2C_Catedral_de_Sevilla%2C_Sevilla%2C_Espa%C3%B1a%2C_2015-12-06%2C_DD_109-111_HDR.JPG/1920px-Trascoro%2C_Catedral_de_Sevilla%2C_Sevilla%2C_Espa%C3%B1a%2C_2015-12-06%2C_DD_109-111_HDR.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Trascoro,_Catedral_de_Sevilla,_Sevilla,_Espa%C3%B1a,_2015-12-06,_DD_109-111_HDR.JPG
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Crucero%2C_Catedral_de_Sevilla%2C_Sevilla%2C_Espa%C3%B1a%2C_2015-12-06%2C_DD_94-96_HDR.JPG/1920px-Crucero%2C_Catedral_de_Sevilla%2C_Sevilla%2C_Espa%C3%B1a%2C_2015-12-06%2C_DD_94-96_HDR.JPG
     credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Crucero,_Catedral_de_Sevilla,_Sevilla,_Espa%C3%B1a,_2015-12-06,_DD_94-96_HDR.JPG
 place:
-  id: "ChIJgUe1VRdsEg0R5W0e512gneQ"
-  name: "Catedral de Sevilla"
-  address: "Av. de la Constitución, s/n, Casco Antiguo, 41004 Sevilla, Spain"
+  id: ChIJgUe1VRdsEg0R5W0e512gneQ
+  name: Catedral de Sevilla
+  address: Av. de la Constitución, s/n, Casco Antiguo, 41004 Sevilla, Spain
   rating: 4.8
   userRatingsTotal: 59429
-  googleMapsUrl: "https://maps.google.com/?cid=16473499337161076197&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=16473499337161076197&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.3858247
   lng: -5.9931068
-  phone: '+34 954 21 49 71'
+  phone: +34 954 21 49 71
   openingHours:
-    - "Monday: 11:00 AM – 6:00 PM"
-    - "Tuesday: 11:00 AM – 6:00 PM"
-    - "Wednesday: 11:00 AM – 6:00 PM"
-    - "Thursday: 11:00 AM – 6:00 PM"
-    - "Friday: 11:00 AM – 6:00 PM"
-    - "Saturday: 11:00 AM – 6:00 PM"
-    - "Sunday: 2:30 – 7:00 PM"
+    - 'Monday: 11:00 AM – 6:00 PM'
+    - 'Tuesday: 11:00 AM – 6:00 PM'
+    - 'Wednesday: 11:00 AM – 6:00 PM'
+    - 'Thursday: 11:00 AM – 6:00 PM'
+    - 'Friday: 11:00 AM – 6:00 PM'
+    - 'Saturday: 11:00 AM – 6:00 PM'
+    - 'Sunday: 2:30 – 7:00 PM'
 tags:
-  - "seville"
-  - "Seville Cathedral and Giralda"
-quickAnswer: "Seville's Catedral is the largest Gothic cathedral in the world, built atop the old Almohad mosque, and it's worth a full morning: climb the Giralda for rooftop-and-city views, then find Columbus's tomb held aloft by four bronze kings. Book a timed-entry ticket online in advance — this is one of Seville's most visited sites, with 59,000+ Google reviews and a 4.8 rating, so arriving right at opening or in the last two hours before closing makes a real difference."
+  - seville
+  - Seville Cathedral and Giralda
+quickAnswer: 'Seville''s Catedral is the largest Gothic cathedral in the world, built atop the old Almohad mosque, and it''s worth a full morning: climb the Giralda for rooftop-and-city views, then find Columbus''s tomb held aloft by four bronze kings. Book a timed-entry ticket online in advance — this is one of Seville''s most visited sites, with 59,000+ Google reviews and a 4.8 rating, so arriving right at opening or in the last two hours before closing makes a real difference.'
 faq:
-  - q: "How much time should I plan for the visit?"
-    a: "Budget 1.5–2 hours for the cathedral and around 30–45 minutes for the Giralda tower climb if you want to linger at the viewing gallery."
-  - q: "When is the quietest time to visit?"
-    a: "Right at opening in the morning is calmest; the last two hours before closing are the other reliable low-crowd window. Midday, especially May–October, is busiest."
-  - q: "How do I get to the cathedral by public transport?"
-    a: "Take the T1 tram to Puerta de Jerez or Prado de San Sebastián, both about a 5–10 minute walk away, or walk roughly 25 minutes from Santa Justa train station."
-  - q: "Do I need to book tickets in advance?"
-    a: "Yes — buying a timed-entry ticket online is strongly recommended to skip the walk-up line, since this is one of Spain's most-visited attractions."
-  - q: "What else is nearby?"
-    a: "The Real Alcázar, Archivo de Indias, and Plaza de España are all within easy walking distance, making this area a natural full-day itinerary."
+  - q: How much time should I plan for the visit?
+    a: Budget 1.5–2 hours for the cathedral and around 30–45 minutes for the Giralda tower climb if you want to linger at the viewing gallery.
+  - q: When is the quietest time to visit?
+    a: Right at opening in the morning is calmest; the last two hours before closing are the other reliable low-crowd window. Midday, especially May–October, is busiest.
+  - q: How do I get to the cathedral by public transport?
+    a: Take the T1 tram to Puerta de Jerez or Prado de San Sebastián, both about a 5–10 minute walk away, or walk roughly 25 minutes from Santa Justa train station.
+  - q: Do I need to book tickets in advance?
+    a: Yes — buying a timed-entry ticket online is strongly recommended to skip the walk-up line, since this is one of Spain's most-visited attractions.
+  - q: What else is nearby?
+    a: The Real Alcázar, Archivo de Indias, and Plaza de España are all within easy walking distance, making this area a natural full-day itinerary.
 aiGenerated: true
 draft: false
 ---

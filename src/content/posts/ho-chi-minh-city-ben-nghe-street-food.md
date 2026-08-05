@@ -6,12 +6,10 @@ region: Ho Chi Minh City
 category: restaurant
 pubDate: '2026-07-22T09:40:12.744Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/B%C3%A1nh_tr%C3%A1ng_n%C6%B0%E1%BB%9Bng_TP._H%E1%BB%93_Ch%C3%AD_Minh_-_street_food_in_Ho_Chi_Minh_City%2C_Vietnam.jpg/1920px-B%C3%A1nh_tr%C3%A1ng_n%C6%B0%E1%BB%9Bng_TP._H%E1%BB%93_Ch%C3%AD_Minh_-_street_food_in_Ho_Chi_Minh_City%2C_Vietnam.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/B%C3%A1nh_tr%C3%A1ng_n%C6%B0%E1%BB%9Bng_TP._H%E1%BB%93_Ch%C3%AD_Minh_-_street_food_in_Ho_Chi_Minh_City%2C_Vietnam.jpg/1920px-B%C3%A1nh_tr%C3%A1ng_n%C6%B0%E1%BB%9Bng_TP._H%E1%BB%93_Ch%C3%AD_Minh_-_street_food_in_Ho_Chi_Minh_City%2C_Vietnam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Light Write / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:B%C3%A1nh_tr%C3%A1ng_n%C6%B0%E1%BB%9Bng_TP._H%E1%BB%93_Ch%C3%AD_Minh_-_street_food_in_Ho_Chi_Minh_City,_Vietnam.jpg
+  source: https://commons.wikimedia.org/wiki/File:B%C3%A1nh_tr%C3%A1ng_n%C6%B0%E1%BB%9Bng_TP._H%E1%BB%93_Ch%C3%AD_Minh_-_street_food_in_Ho_Chi_Minh_City,_Vietnam.jpg
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/12371256_ttwhGMxnHnhMPtYEvtKHy9sXgUbT1zYpvgnacpivNV4.jpg
     credit: 'Photo: Foursquare user content (Ben Nghe Street Food)'
@@ -20,12 +18,11 @@ gallery:
 place:
   id: ChIJSy3R1jgvdTERE51Ytwqzbpo
   name: Ben Nghe Street Food
-  address: '134 Nam Kỳ Khởi Nghĩa, Sài Gòn, Hồ Chí Minh, Vietnam'
+  address: 134 Nam Kỳ Khởi Nghĩa, Sài Gòn, Hồ Chí Minh, Vietnam
   rating: 4.3
   userRatingsTotal: 12870
   priceLevel: 2
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=11128028587886157075&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=11128028587886157075&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 10.7773167
   lng: 106.6977562
@@ -51,7 +48,7 @@ place:
       - 21
       - 22
     venueId: ven_6f70627a717774593135455245546476676a31523379534a496843
-  phone: '+84 901 262 830'
+  phone: +84 901 262 830
   openingHours:
     - 'Monday: 9:00 AM – 1:00 AM'
     - 'Tuesday: 9:00 AM – 1:00 AM'
@@ -63,39 +60,18 @@ place:
 tags:
   - ho chi minh city
   - street food
-quickAnswer: >-
-  Ben Nghe Street Food (134 Nam Kỳ Khởi Nghĩa, District 1) is a sprawling
-  open-air food court that packs dozens of Vietnamese street-food stalls into
-  one covered, tourist-friendly space — grilled meats, seafood, pho, banh xeo,
-  and fresh coconuts included. It's a good option if you want street-food
-  variety without navigating individual sidewalk vendors, though prices run a
-  bit higher than eating at a single stall elsewhere. Go hungry, go in a group
-  to share dishes, and expect a lively, smoky, plastic-stool atmosphere best
-  enjoyed in the evening.
+quickAnswer: Ben Nghe Street Food (134 Nam Kỳ Khởi Nghĩa, District 1) is a sprawling open-air food court that packs dozens of Vietnamese street-food stalls into one covered, tourist-friendly space — grilled meats, seafood, pho, banh xeo, and fresh coconuts included. It's a good option if you want street-food variety without navigating individual sidewalk vendors, though prices run a bit higher than eating at a single stall elsewhere. Go hungry, go in a group to share dishes, and expect a lively, smoky, plastic-stool atmosphere best enjoyed in the evening.
 faq:
   - q: Where exactly is Ben Nghe Street Food located?
-    a: >-
-      At 134 Nam Kỳ Khởi Nghĩa in District 1, Ho Chi Minh City — an easy walk
-      from the Notre-Dame Cathedral Basilica and Central Post Office.
+    a: At 134 Nam Kỳ Khởi Nghĩa in District 1, Ho Chi Minh City — an easy walk from the Notre-Dame Cathedral Basilica and Central Post Office.
   - q: How much does eating there cost?
-    a: >-
-      It's priced at the budget end (price level 1), though slightly more than
-      buying from a single independent street cart, since dishes are ordered a
-      la carte across multiple stalls.
+    a: It's priced at the budget end (price level 1), though slightly more than buying from a single independent street cart, since dishes are ordered a la carte across multiple stalls.
   - q: What's the best time to visit?
-    a: >-
-      Early evening, around 6–9 pm, when the grills are running and the
-      atmosphere is liveliest; weeknights are less crowded than weekends.
+    a: Early evening, around 6–9 pm, when the grills are running and the atmosphere is liveliest; weeknights are less crowded than weekends.
   - q: How do I get there from central hotels?
-    a: >-
-      Most District 1 hotels are within a 10–15 minute walk, or you can take a
-      short Grab (ride-hailing app) ride, which is cheaper and more predictable
-      than hailing a street taxi.
+    a: Most District 1 hotels are within a 10–15 minute walk, or you can take a short Grab (ride-hailing app) ride, which is cheaper and more predictable than hailing a street taxi.
   - q: What should I order first?
-    a: >-
-      Start with grilled seafood or skewers and a banh xeo crepe, then add pho
-      or hu tieu if you want something lighter; fresh coconut water is the
-      classic drink pairing.
+    a: Start with grilled seafood or skewers and a banh xeo crepe, then add pho or hu tieu if you want something lighter; fresh coconut water is the classic drink pairing.
 aiGenerated: true
 draft: false
 updatedDate: '2026-07-24'

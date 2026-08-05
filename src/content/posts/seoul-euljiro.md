@@ -2,11 +2,11 @@
 title: Euljiro in Seoul
 description: Euljiro (을지로) is central Seoul's old printing-and-hardware district, now famous for retro "newtro" bars and cafés tucked above metalworking shops.
 region: Seoul
-country: "South Korea"
+country: South Korea
 category: hidden-gem
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/LED_shop_in_Euljiro_Seoul.jpg/1920px-LED_shop_in_Euljiro_Seoul.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/LED_shop_in_Euljiro_Seoul.jpg/1920px-LED_shop_in_Euljiro_Seoul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Aaaatu / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:LED_shop_in_Euljiro_Seoul.jpg

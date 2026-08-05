@@ -8,7 +8,7 @@ pubDate: '2026-07-24'
 eventStartDate: '2026-08-07'
 eventEndDate: '2026-08-07'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/David_Byrne_on_tour_Amsterdam_at_AFAS_Live_Feb_2026_2.jpg/3840px-David_Byrne_on_tour_Amsterdam_at_AFAS_Live_Feb_2026_2.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/David_Byrne_on_tour_Amsterdam_at_AFAS_Live_Feb_2026_2.jpg/1920px-David_Byrne_on_tour_Amsterdam_at_AFAS_Live_Feb_2026_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Mainlymazza / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:David_Byrne_on_tour_Amsterdam_at_AFAS_Live_Feb_2026_2.jpg

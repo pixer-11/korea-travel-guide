@@ -6,7 +6,7 @@ region: Paris
 category: attraction
 pubDate: '2026-08-02T09:26:12.902Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Notre_Dame_Paris_front_facade_lower.jpg/3840px-Notre_Dame_Paris_front_facade_lower.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Notre_Dame_Paris_front_facade_lower.jpg/1920px-Notre_Dame_Paris_front_facade_lower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Benh LIEU SONG / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Notre_Dame_Paris_front_facade_lower.jpg

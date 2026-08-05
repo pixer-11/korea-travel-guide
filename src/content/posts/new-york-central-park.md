@@ -1,41 +1,41 @@
 ---
-title: "Central Park: New York Travel Guide (4.8★)"
-description: "Central Park is open daily from 6am to 1am, and the calmest stretch to walk it is early — roughly 7am to 11am on weekdays — before the loop road fills with runners, tour groups and picnic blankets. 4.8★ (300,416 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "New York"
-category: "attraction"
-pubDate: "2026-08-03T10:56:12.303Z"
+title: 'Central Park: New York Travel Guide (4.8★)'
+description: Central Park is open daily from 6am to 1am, and the calmest stretch to walk it is early — roughly 7am to 11am on weekdays — before the loop road fills with runners, tour groups and picnic blankets. 4.8★ (300,416 reviews) — what visitors say, hours, and tips.
+country: United States
+region: New York
+category: attraction
+pubDate: '2026-08-03T10:56:12.303Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Global_Citizen_Festival_Central_Park_New_York_City_from_NYonAir_%2815351915006%29.jpg/1920px-Global_Citizen_Festival_Central_Park_New_York_City_from_NYonAir_%2815351915006%29.jpg"
-  credit: "Photo: Anthony Quintano from Hillsborough, NJ, United States / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Global_Citizen_Festival_Central_Park_New_York_City_from_NYonAir_(15351915006).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Global_Citizen_Festival_Central_Park_New_York_City_from_NYonAir_%2815351915006%29.jpg/1920px-Global_Citizen_Festival_Central_Park_New_York_City_from_NYonAir_%2815351915006%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Anthony Quintano from Hillsborough, NJ, United States / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Global_Citizen_Festival_Central_Park_New_York_City_from_NYonAir_(15351915006).jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Central_Park_New_York_City_New_York_23_cropped.jpg/3840px-Central_Park_New_York_City_New_York_23_cropped.jpg"
-    credit: "Photo: Jet Lowe / Wikimedia Commons (Public domain)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Central_Park_New_York_City_New_York_23_cropped.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Central_Park_New_York_City_New_York_23_cropped.jpg/3840px-Central_Park_New_York_City_New_York_23_cropped.jpg
+    credit: 'Photo: Jet Lowe / Wikimedia Commons (Public domain)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Central_Park_New_York_City_New_York_23_cropped.jpg
 place:
-  id: "ChIJ4zGFAZpYwokRGUGph3Mf37k"
-  name: "Central Park"
-  address: "New York, NY, USA"
+  id: ChIJ4zGFAZpYwokRGUGph3Mf37k
+  name: Central Park
+  address: New York, NY, USA
   rating: 4.8
   userRatingsTotal: 300416
-  googleMapsUrl: "https://maps.google.com/?cid=13393458397880860953&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=13393458397880860953&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 40.7825547
   lng: -73.9655834
-  phone: "+1 212-310-6600"
+  phone: +1 212-310-6600
   openingHours:
-    - "Monday: 6:00 AM – 1:00 AM"
-    - "Tuesday: 6:00 AM – 1:00 AM"
-    - "Wednesday: 6:00 AM – 1:00 AM"
-    - "Thursday: 6:00 AM – 1:00 AM"
-    - "Friday: 6:00 AM – 1:00 AM"
-    - "Saturday: 6:00 AM – 1:00 AM"
-    - "Sunday: 6:00 AM – 1:00 AM"
+    - 'Monday: 6:00 AM – 1:00 AM'
+    - 'Tuesday: 6:00 AM – 1:00 AM'
+    - 'Wednesday: 6:00 AM – 1:00 AM'
+    - 'Thursday: 6:00 AM – 1:00 AM'
+    - 'Friday: 6:00 AM – 1:00 AM'
+    - 'Saturday: 6:00 AM – 1:00 AM'
+    - 'Sunday: 6:00 AM – 1:00 AM'
   busyness:
-    updated: 2026-08-03
+    updated: 2026-08-03T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 22
@@ -60,22 +60,22 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_6b3733664d336870475547526b6f7759705a4146477a344a496843"
+    venueId: ven_6b3733664d336870475547526b6f7759705a4146477a344a496843
 tags:
-  - "new york"
-  - "Central Park"
-quickAnswer: "Central Park is open daily from 6am to 1am, and the calmest stretch to walk it is early — roughly 7am to 11am on weekdays — before the loop road fills with runners, tour groups and picnic blankets. Enter near 72nd Street on the West or East Side to hit Bethesda Terrace, the Mall and the Lake within a 20-minute walk. Avoid weekend afternoons between 12pm and 7pm, when the park is at its busiest."
+  - new york
+  - Central Park
+quickAnswer: Central Park is open daily from 6am to 1am, and the calmest stretch to walk it is early — roughly 7am to 11am on weekdays — before the loop road fills with runners, tour groups and picnic blankets. Enter near 72nd Street on the West or East Side to hit Bethesda Terrace, the Mall and the Lake within a 20-minute walk. Avoid weekend afternoons between 12pm and 7pm, when the park is at its busiest.
 faq:
-  - q: "What are Central Park's opening hours?"
-    a: "The park is open every day from 6am to 1am, so both sunrise walks and evening strolls near the main entrances are possible."
-  - q: "When is Central Park least crowded?"
-    a: "Weekdays and weekends are both calmest between roughly 7am and 11am. The busiest stretch is weekend afternoons from noon to 7pm, which is worth avoiding if you dislike crowds."
-  - q: "How do I get to Central Park by subway?"
-    a: "For the classic Bethesda Terrace/Lake area, take the B or C to 72nd St and enter from Central Park West, or use the 6 or N/R/W lines toward Fifth Avenue and enter near 72nd or 60th St. For the Reservoir, get off around 86th or 96th St."
-  - q: "How long should I spend in the park?"
-    a: "A quick loop through the southern section (Bethesda Terrace, the Mall, Bow Bridge) takes about 1.5–2 hours on foot. Set aside half a day if you also want the Zoo, a rowboat on the Lake, or a walk around the Reservoir."
-  - q: "Is there an entrance fee to Central Park?"
-    a: "No, the park itself is free and open to the public at all entrances. Individual attractions inside it, like the Zoo, carousel, or boat rentals, charge their own separate fees."
+  - q: What are Central Park's opening hours?
+    a: The park is open every day from 6am to 1am, so both sunrise walks and evening strolls near the main entrances are possible.
+  - q: When is Central Park least crowded?
+    a: Weekdays and weekends are both calmest between roughly 7am and 11am. The busiest stretch is weekend afternoons from noon to 7pm, which is worth avoiding if you dislike crowds.
+  - q: How do I get to Central Park by subway?
+    a: For the classic Bethesda Terrace/Lake area, take the B or C to 72nd St and enter from Central Park West, or use the 6 or N/R/W lines toward Fifth Avenue and enter near 72nd or 60th St. For the Reservoir, get off around 86th or 96th St.
+  - q: How long should I spend in the park?
+    a: A quick loop through the southern section (Bethesda Terrace, the Mall, Bow Bridge) takes about 1.5–2 hours on foot. Set aside half a day if you also want the Zoo, a rowboat on the Lake, or a walk around the Reservoir.
+  - q: Is there an entrance fee to Central Park?
+    a: No, the park itself is free and open to the public at all entrances. Individual attractions inside it, like the Zoo, carousel, or boat rentals, charge their own separate fees.
 aiGenerated: true
 draft: false
 ---

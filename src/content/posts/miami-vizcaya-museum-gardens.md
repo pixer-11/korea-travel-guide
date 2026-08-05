@@ -1,50 +1,60 @@
 ---
-title: "Vizcaya Museum & Gardens: Miami Travel Guide"
+title: 'Vizcaya Museum & Gardens: Miami Travel Guide'
 description: Vizcaya Museum & Gardens, at 3251 S Miami Ave in Miami's Coconut Grove-adjacent bayfront, is a circa-1914 Gilded Age villa built for industrialist James Deering, surrounded by formal Italian Renaissance-style gardens and coral-rock grottoes.
-country: "United States"
-region: "Miami"
-category: "attraction"
-pubDate: 2026-07-21
+country: United States
+region: Miami
+category: attraction
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Vizcaya_Museum_and_Gardens_%2C_Miami_060524_DSC6655.jpg/1920px-Vizcaya_Museum_and_Gardens_%2C_Miami_060524_DSC6655.jpg"
-  credit: "Photo: Leslie Platt / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Vizcaya_Museum_and_Gardens_,_Miami_060524_DSC6655.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Vizcaya_Museum_and_Gardens_%2C_Miami_060524_DSC6655.jpg/1920px-Vizcaya_Museum_and_Gardens_%2C_Miami_060524_DSC6655.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Leslie Platt / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Vizcaya_Museum_and_Gardens_,_Miami_060524_DSC6655.jpg
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/23701706_Nhn8OYg8-yHA7rQGR01dcOj2Uyvl_TPEdE1gcrHPFkc.jpg
     credit: 'Photo: Foursquare user content (Vizcaya Museum and Gardens)'
     license: foursquare
     source: https://foursquare.com/v/40e0b100f964a5207c051fe3
 place:
-  id: "ChIJE5jqT1222YgR4STdDoStYPg"
-  name: "Vizcaya Museum & Gardens"
-  address: "3251 S Miami Ave, Miami, FL 33129, USA"
+  id: ChIJE5jqT1222YgR4STdDoStYPg
+  name: Vizcaya Museum & Gardens
+  address: 3251 S Miami Ave, Miami, FL 33129, USA
   rating: 4.7
   userRatingsTotal: 16215
-  googleMapsUrl: "https://maps.google.com/?cid=17897495701867013345&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=17897495701867013345&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.744386600000002
   lng: -80.21047469999999
   busyness:
     updated: '2026-07-23'
-    weekdayBusy: [11, 12, 13, 14]
-    weekendBusy: [11, 12, 13, 14, 15, 16]
-    venueId: 'ven_67505974536f44645453345267593232323154716a35454a496843'
+    weekdayBusy:
+      - 11
+      - 12
+      - 13
+      - 14
+    weekendBusy:
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+    venueId: ven_67505974536f44645453345267593232323154716a35454a496843
 tags:
-  - "miami"
-  - "top attraction"
-quickAnswer: "Vizcaya Museum & Gardens, at 3251 S Miami Ave in Miami's Coconut Grove-adjacent bayfront, is a circa-1914 Gilded Age villa built for industrialist James Deering, surrounded by formal Italian Renaissance-style gardens and coral-rock grottoes. Budget 2–3 hours, go on a weekday morning to beat both heat and crowds, and take Metrorail's Vizcaya Station, an easy 5–10 minute walk away. It's rated 4.7 from over 16,000 visitors, so book timed tickets online in advance."
+  - miami
+  - top attraction
+quickAnswer: Vizcaya Museum & Gardens, at 3251 S Miami Ave in Miami's Coconut Grove-adjacent bayfront, is a circa-1914 Gilded Age villa built for industrialist James Deering, surrounded by formal Italian Renaissance-style gardens and coral-rock grottoes. Budget 2–3 hours, go on a weekday morning to beat both heat and crowds, and take Metrorail's Vizcaya Station, an easy 5–10 minute walk away. It's rated 4.7 from over 16,000 visitors, so book timed tickets online in advance.
 faq:
-  - q: "How do I get to Vizcaya Museum & Gardens without a car?"
-    a: "Take Metrorail's Orange or Green Line to Vizcaya Station, then walk about 5–10 minutes east toward Biscayne Bay to the entrance gate on S Miami Ave."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors need 2 to 3 hours to tour the mansion's furnished rooms and walk the formal gardens, grotto, and Village outbuildings at an unhurried pace."
-  - q: "When is the best time to visit?"
-    a: "Weekday mornings during the dry season (November–April) offer the coolest temperatures and smallest crowds; weekends and summer afternoons are busier and hotter, with a higher chance of thunderstorms."
-  - q: "Is Vizcaya good for kids or accessibility needs?"
-    a: "The gardens are stroller- and wheelchair-friendly on main paths, though some grotto and hammock areas have uneven stone; the mansion has stairs but also accessible routes — check current accessibility info before visiting."
-  - q: "What's nearby if I want to extend the trip?"
-    a: "Coconut Grove's restaurants and shops and the Brickell financial district's waterfront are both a short drive or Metrorail ride from Vizcaya, making it easy to combine with a half-day itinerary."
+  - q: How do I get to Vizcaya Museum & Gardens without a car?
+    a: Take Metrorail's Orange or Green Line to Vizcaya Station, then walk about 5–10 minutes east toward Biscayne Bay to the entrance gate on S Miami Ave.
+  - q: How long should I plan to spend there?
+    a: Most visitors need 2 to 3 hours to tour the mansion's furnished rooms and walk the formal gardens, grotto, and Village outbuildings at an unhurried pace.
+  - q: When is the best time to visit?
+    a: Weekday mornings during the dry season (November–April) offer the coolest temperatures and smallest crowds; weekends and summer afternoons are busier and hotter, with a higher chance of thunderstorms.
+  - q: Is Vizcaya good for kids or accessibility needs?
+    a: The gardens are stroller- and wheelchair-friendly on main paths, though some grotto and hammock areas have uneven stone; the mansion has stairs but also accessible routes — check current accessibility info before visiting.
+  - q: What's nearby if I want to extend the trip?
+    a: Coconut Grove's restaurants and shops and the Brickell financial district's waterfront are both a short drive or Metrorail ride from Vizcaya, making it easy to combine with a half-day itinerary.
 aiGenerated: true
 draft: false
 ---

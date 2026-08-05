@@ -1,50 +1,50 @@
 ---
-title: "Saheliyon ki bari: Udaipur Travel Guide"
+title: 'Saheliyon ki bari: Udaipur Travel Guide'
 description: Saheliyon ki Bari ("Garden of the Maidens") is a compact, walkable 18th-century royal garden in Udaipur's Panchwati area, known for its lotus pools, marble kiosks, elephant-shaped fountains and a small museum.
-country: "India"
-region: "Udaipur"
-category: "attraction"
-pubDate: "2026-07-26T08:27:19.913Z"
+country: India
+region: Udaipur
+category: attraction
+pubDate: '2026-07-26T08:27:19.913Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Saheliyon-ki-Bari_%28Udaipur%29.jpg/1920px-Saheliyon-ki-Bari_%28Udaipur%29.jpg"
-  credit: "Photo: Kshitiz Sikka / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Saheliyon-ki-Bari_(Udaipur).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Saheliyon-ki-Bari_%28Udaipur%29.jpg/1920px-Saheliyon-ki-Bari_%28Udaipur%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Kshitiz Sikka / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Saheliyon-ki-Bari_(Udaipur).jpg
 gallery: []
 place:
-  id: "ChIJd9K3fdflZzkRQeScJCCgYZ0"
-  name: "Saheliyon ki bari"
-  address: "Panchwati, Udaipur, Rajasthan 313001, India"
+  id: ChIJd9K3fdflZzkRQeScJCCgYZ0
+  name: Saheliyon ki bari
+  address: Panchwati, Udaipur, Rajasthan 313001, India
   rating: 4.4
   userRatingsTotal: 23689
-  googleMapsUrl: "https://maps.google.com/?cid=11340521396609279041&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=11340521396609279041&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 24.603006399999998
   lng: 73.6854901
-  phone: '+91 141 282 2863'
+  phone: +91 141 282 2863
   openingHours:
-    - "Monday: 9:00 AM – 7:00 PM"
-    - "Tuesday: 9:00 AM – 7:00 PM"
-    - "Wednesday: 9:00 AM – 7:00 PM"
-    - "Thursday: 9:00 AM – 7:00 PM"
-    - "Friday: 9:00 AM – 7:00 PM"
-    - "Saturday: 9:00 AM – 7:00 PM"
-    - "Sunday: 9:00 AM – 7:00 PM"
+    - 'Monday: 9:00 AM – 7:00 PM'
+    - 'Tuesday: 9:00 AM – 7:00 PM'
+    - 'Wednesday: 9:00 AM – 7:00 PM'
+    - 'Thursday: 9:00 AM – 7:00 PM'
+    - 'Friday: 9:00 AM – 7:00 PM'
+    - 'Saturday: 9:00 AM – 7:00 PM'
+    - 'Sunday: 9:00 AM – 7:00 PM'
 tags:
-  - "udaipur"
-  - "top attraction"
-quickAnswer: "Saheliyon ki Bari (\"Garden of the Maidens\") is a compact, walkable 18th-century royal garden in Udaipur's Panchwati area, known for its lotus pools, marble kiosks, elephant-shaped fountains and a small museum. Budget 45-60 minutes, go right at opening to beat the tour-bus crowds, and pair it with a walk along nearby Fateh Sagar Lake."
+  - udaipur
+  - top attraction
+quickAnswer: Saheliyon ki Bari ("Garden of the Maidens") is a compact, walkable 18th-century royal garden in Udaipur's Panchwati area, known for its lotus pools, marble kiosks, elephant-shaped fountains and a small museum. Budget 45-60 minutes, go right at opening to beat the tour-bus crowds, and pair it with a walk along nearby Fateh Sagar Lake.
 faq:
-  - q: "How long should I spend at Saheliyon ki Bari?"
-    a: "45 minutes to an hour is enough for the pools, fountains, and small museum. It's a compact garden, not a half-day site."
-  - q: "What's the best time to avoid crowds?"
-    a: "Go right at opening in the early morning, or in the last hour before sunset. Late morning through afternoon draws the heaviest tour-group traffic."
-  - q: "How do I get there from the City Palace or Lake Pichola?"
-    a: "It's about a 15-20 minute walk or a short auto-rickshaw/taxi ride north into the Panchwati area; most drivers recognize the name directly."
-  - q: "Is there an entry fee?"
-    a: "Yes, a small ticket fee applies at the gate, typically with a higher rate for foreign visitors and an extra charge for cameras — bring cash as card payment isn't always available."
-  - q: "What else is nearby to combine with this visit?"
-    a: "Fateh Sagar Lake is an easy walk away, and it pairs well in one loop with Bagore ki Haveli and the City Palace for a fuller half-day itinerary."
+  - q: How long should I spend at Saheliyon ki Bari?
+    a: 45 minutes to an hour is enough for the pools, fountains, and small museum. It's a compact garden, not a half-day site.
+  - q: What's the best time to avoid crowds?
+    a: Go right at opening in the early morning, or in the last hour before sunset. Late morning through afternoon draws the heaviest tour-group traffic.
+  - q: How do I get there from the City Palace or Lake Pichola?
+    a: It's about a 15-20 minute walk or a short auto-rickshaw/taxi ride north into the Panchwati area; most drivers recognize the name directly.
+  - q: Is there an entry fee?
+    a: Yes, a small ticket fee applies at the gate, typically with a higher rate for foreign visitors and an extra charge for cameras — bring cash as card payment isn't always available.
+  - q: What else is nearby to combine with this visit?
+    a: Fateh Sagar Lake is an easy walk away, and it pairs well in one loop with Bagore ki Haveli and the City Palace for a fuller half-day itinerary.
 aiGenerated: true
 draft: false
 ---

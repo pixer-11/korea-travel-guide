@@ -6,7 +6,7 @@ region: New York
 category: restaurant
 pubDate: '2026-07-23'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ci_Siamo_NYC.jpg/1920px-Ci_Siamo_NYC.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ci_Siamo_NYC.jpg/1920px-Ci_Siamo_NYC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Transpoman / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Ci_Siamo_NYC.jpg

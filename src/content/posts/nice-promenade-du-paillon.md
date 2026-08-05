@@ -1,50 +1,50 @@
 ---
-title: "Promenade du Paillon: Nice Travel Guide"
+title: 'Promenade du Paillon: Nice Travel Guide'
 description: The Promenade du Paillon is a 12-hectare ribbon of parkland that cuts through the heart of Nice, linking Place Masséna to the Museum of Modern and Contemporary Art (MAMAC) and the Nice Acropolis.
-country: "France"
-region: "Nice"
-category: "attraction"
-pubDate: "2026-07-28T10:07:05.515Z"
+country: France
+region: Nice
+category: attraction
+pubDate: '2026-07-28T10:07:05.515Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Promenade_du_Paillon_Nice_water_jets_2019.jpg/1920px-Promenade_du_Paillon_Nice_water_jets_2019.jpg"
-  credit: "Photo: Miguel Mendez / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Promenade_du_Paillon_Nice_water_jets_2019.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Promenade_du_Paillon_Nice_water_jets_2019.jpg/1920px-Promenade_du_Paillon_Nice_water_jets_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Miguel Mendez / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Promenade_du_Paillon_Nice_water_jets_2019.jpg
 gallery: []
 place:
-  id: "ChIJt4AL5qPazRIR68WQ5MDQkNQ"
-  name: "Promenade du Paillon"
-  address: "Plassa Carlou Aubert, 06300 Nice, France"
+  id: ChIJt4AL5qPazRIR68WQ5MDQkNQ
+  name: Promenade du Paillon
+  address: Plassa Carlou Aubert, 06300 Nice, France
   rating: 4.6
   userRatingsTotal: 4732
-  googleMapsUrl: "https://maps.google.com/?cid=15316971859574048235&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=15316971859574048235&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.6974406
   lng: 7.271463300000001
-  phone: '+33 4 97 25 49 00'
+  phone: +33 4 97 25 49 00
   openingHours:
-    - "Monday: 7:00 AM – 9:00 PM"
-    - "Tuesday: 7:00 AM – 9:00 PM"
-    - "Wednesday: 7:00 AM – 9:00 PM"
-    - "Thursday: 7:00 AM – 9:00 PM"
-    - "Friday: 7:00 AM – 9:00 PM"
-    - "Saturday: 7:00 AM – 9:00 PM"
-    - "Sunday: 7:00 AM – 9:00 PM"
+    - 'Monday: 7:00 AM – 9:00 PM'
+    - 'Tuesday: 7:00 AM – 9:00 PM'
+    - 'Wednesday: 7:00 AM – 9:00 PM'
+    - 'Thursday: 7:00 AM – 9:00 PM'
+    - 'Friday: 7:00 AM – 9:00 PM'
+    - 'Saturday: 7:00 AM – 9:00 PM'
+    - 'Sunday: 7:00 AM – 9:00 PM'
 tags:
-  - "nice"
-  - "top attraction"
-quickAnswer: "The Promenade du Paillon is a 12-hectare ribbon of parkland that cuts through the heart of Nice, linking Place Masséna to the Museum of Modern and Contemporary Art (MAMAC) and the Nice Acropolis. Come in the morning or early evening to avoid the after-school and weekend crush around the mirror pool and playgrounds, and budget an hour to walk it end to end, longer if you have kids in tow. It's free, always open, and best paired with a coffee on Place Masséna or a wander into the Old Town, just steps away."
+  - nice
+  - top attraction
+quickAnswer: The Promenade du Paillon is a 12-hectare ribbon of parkland that cuts through the heart of Nice, linking Place Masséna to the Museum of Modern and Contemporary Art (MAMAC) and the Nice Acropolis. Come in the morning or early evening to avoid the after-school and weekend crush around the mirror pool and playgrounds, and budget an hour to walk it end to end, longer if you have kids in tow. It's free, always open, and best paired with a coffee on Place Masséna or a wander into the Old Town, just steps away.
 faq:
-  - q: "How do I get to the Promenade du Paillon?"
-    a: "Take Tram 1 to the Masséna stop, right at the park's southern entrance, or walk about 15 minutes downhill from Gare de Nice-Ville train station."
-  - q: "Is there an entrance fee?"
-    a: "No, it's a free public park with no set hours — you can walk through at any time."
-  - q: "How long should I spend there?"
-    a: "Walking the full length takes 20-25 minutes; allow an hour if you want to sit by the mirror pool or let kids use the play area."
-  - q: "When is it least crowded?"
-    a: "Early morning is calmest. Weekend afternoons and after school hours (roughly mid-afternoon onward) see the heaviest crowds around the mirror pool and playgrounds."
-  - q: "What else is nearby?"
-    a: "The Old Town (Vieux Nice) and Cours Saleya market are a few minutes' walk east, MAMAC modern art museum sits at the park's northern end, and Place Masséna anchors the southern entrance."
+  - q: How do I get to the Promenade du Paillon?
+    a: Take Tram 1 to the Masséna stop, right at the park's southern entrance, or walk about 15 minutes downhill from Gare de Nice-Ville train station.
+  - q: Is there an entrance fee?
+    a: No, it's a free public park with no set hours — you can walk through at any time.
+  - q: How long should I spend there?
+    a: Walking the full length takes 20-25 minutes; allow an hour if you want to sit by the mirror pool or let kids use the play area.
+  - q: When is it least crowded?
+    a: Early morning is calmest. Weekend afternoons and after school hours (roughly mid-afternoon onward) see the heaviest crowds around the mirror pool and playgrounds.
+  - q: What else is nearby?
+    a: The Old Town (Vieux Nice) and Cours Saleya market are a few minutes' walk east, MAMAC modern art museum sits at the park's northern end, and Place Masséna anchors the southern entrance.
 aiGenerated: true
 draft: false
 ---

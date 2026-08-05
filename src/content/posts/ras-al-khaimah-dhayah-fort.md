@@ -1,45 +1,45 @@
 ---
-title: "Dhayah Fort: Ras Al Khaimah Travel Guide"
-description: "Dhayah Fort sits on a rocky hill near Ar Rams, about 30 minutes north of Ras Al Khaimah city, and is the only surviving hill fort in the UAE."
-country: "United Arab Emirates"
-region: "Ras Al Khaimah"
-category: "attraction"
-pubDate: "2026-07-23T07:47:35.566Z"
+title: 'Dhayah Fort: Ras Al Khaimah Travel Guide'
+description: Dhayah Fort sits on a rocky hill near Ar Rams, about 30 minutes north of Ras Al Khaimah city, and is the only surviving hill fort in the UAE.
+country: United Arab Emirates
+region: Ras Al Khaimah
+category: attraction
+pubDate: '2026-07-23T07:47:35.566Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Dhayah_Fort_Ras_al_Khaimah.jpg/1920px-Dhayah_Fort_Ras_al_Khaimah.jpg"
-  credit: "Photo: Mathewkurianp / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Dhayah_Fort_Ras_al_Khaimah.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Dhayah_Fort_Ras_al_Khaimah.jpg/1920px-Dhayah_Fort_Ras_al_Khaimah.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Mathewkurianp / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Dhayah_Fort_Ras_al_Khaimah.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Dhayah_Fort_of_Ras_Al_Khaimah_%28Fort_1%29.jpg/1920px-Dhayah_Fort_of_Ras_Al_Khaimah_%28Fort_1%29.jpg
     credit: 'Photo: MoominHussain / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Dhayah_Fort_of_Ras_Al_Khaimah_(Fort_1).jpg
 place:
-  id: "ChIJ6a2yXYV69j4R7EBFIcOAxQs"
-  name: "Dhayah Fort"
-  address: "Northern، Dhayah Fort - Ar Rams - Ras Al Khaimah - United Arab Emirates"
+  id: ChIJ6a2yXYV69j4R7EBFIcOAxQs
+  name: Dhayah Fort
+  address: Northern، Dhayah Fort - Ar Rams - Ras Al Khaimah - United Arab Emirates
   rating: 4.4
   userRatingsTotal: 1275
-  googleMapsUrl: "https://maps.google.com/?cid=848225680394371308&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=848225680394371308&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.884188599999998
   lng: 56.060513199999995
 tags:
-  - "ras al khaimah"
-  - "top attraction"
-quickAnswer: "Dhayah Fort sits on a rocky hill near Ar Rams, about 30 minutes north of Ras Al Khaimah city, and is the only surviving hill fort in the UAE. Go in the late afternoon, wear proper shoes for the steep stone staircase, and budget 30-45 minutes for the climb plus views over the Ras Al Khaimah lagoons and Hajar Mountains."
+  - ras al khaimah
+  - top attraction
+quickAnswer: Dhayah Fort sits on a rocky hill near Ar Rams, about 30 minutes north of Ras Al Khaimah city, and is the only surviving hill fort in the UAE. Go in the late afternoon, wear proper shoes for the steep stone staircase, and budget 30-45 minutes for the climb plus views over the Ras Al Khaimah lagoons and Hajar Mountains.
 faq:
-  - q: "How do I get to Dhayah Fort without a car?"
-    a: "There's no public transit directly to the fort, so a rental car, taxi, or organized RAK day tour is the practical way to reach it — it's about 30-40 km north of Ras Al Khaimah city near Ar Rams."
-  - q: "Is there an entry fee for Dhayah Fort?"
-    a: "The site is generally open access with no formal ticket booth, though it's worth confirming current arrangements locally since site management occasionally changes."
-  - q: "How long does a visit take?"
-    a: "Plan for 30-45 minutes total: about 10-15 minutes to climb the stone staircase, 15-20 minutes at the summit for the view, and a similar time back down."
-  - q: "What's the best time of day and year to visit?"
-    a: "Late afternoon, roughly an hour or two before sunset, is ideal for cooler temperatures and good light. Winter (November-March) is the most comfortable season; avoid summer midday visits due to sun exposure on the open staircase."
-  - q: "What should I wear or bring?"
-    a: "Closed, grippy shoes are essential for the uneven stone steps, and bring your own water since there's no shade or vendors along the path or at the top."
+  - q: How do I get to Dhayah Fort without a car?
+    a: There's no public transit directly to the fort, so a rental car, taxi, or organized RAK day tour is the practical way to reach it — it's about 30-40 km north of Ras Al Khaimah city near Ar Rams.
+  - q: Is there an entry fee for Dhayah Fort?
+    a: The site is generally open access with no formal ticket booth, though it's worth confirming current arrangements locally since site management occasionally changes.
+  - q: How long does a visit take?
+    a: 'Plan for 30-45 minutes total: about 10-15 minutes to climb the stone staircase, 15-20 minutes at the summit for the view, and a similar time back down.'
+  - q: What's the best time of day and year to visit?
+    a: Late afternoon, roughly an hour or two before sunset, is ideal for cooler temperatures and good light. Winter (November-March) is the most comfortable season; avoid summer midday visits due to sun exposure on the open staircase.
+  - q: What should I wear or bring?
+    a: Closed, grippy shoes are essential for the uneven stone steps, and bring your own water since there's no shade or vendors along the path or at the top.
 aiGenerated: true
 draft: false
 ---

@@ -1,45 +1,45 @@
 ---
-title: "Duomo di Milano: Milan Travel Guide"
+title: 'Duomo di Milano: Milan Travel Guide'
 description: The Duomo di Milano, Milan's Gothic cathedral on Piazza del Duomo, is best visited early morning (before 9:30am) to beat crowds, with a rooftop terrace ticket for skyline views of the Alps on clear days.
-country: "Italy"
-region: "Milan"
-category: "attraction"
-pubDate: 2026-07-21
+country: Italy
+region: Milan
+category: attraction
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/View_west_along_Duomo_roof%2C_Milan.jpg/1920px-View_west_along_Duomo_roof%2C_Milan.jpg"
-  credit: "Photo: Daniel Case / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:View_west_along_Duomo_roof,_Milan.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/View_west_along_Duomo_roof%2C_Milan.jpg/1920px-View_west_along_Duomo_roof%2C_Milan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Daniel Case / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:View_west_along_Duomo_roof,_Milan.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Milano_-_Duomo_di_Milano_-_Monumento_a_Vittorio_Emanuele_II_-_Museo_del_Novecento_-_2023-09-12_18-18-40_001.jpg/1920px-Milano_-_Duomo_di_Milano_-_Monumento_a_Vittorio_Emanuele_II_-_Museo_del_Novecento_-_2023-09-12_18-18-40_001.jpg
     credit: 'Photo: Terragio67 / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Milano_-_Duomo_di_Milano_-_Monumento_a_Vittorio_Emanuele_II_-_Museo_del_Novecento_-_2023-09-12_18-18-40_001.jpg
 place:
-  id: "ChIJoTZGw67GhkcREy4aECdOf6s"
-  name: "Duomo di Milano"
-  address: "P.za del Duomo, 20122 Milano MI, Italy"
+  id: ChIJoTZGw67GhkcREy4aECdOf6s
+  name: Duomo di Milano
+  address: P.za del Duomo, 20122 Milano MI, Italy
   rating: 4.8
   userRatingsTotal: 205050
-  googleMapsUrl: "https://maps.google.com/?cid=12357681832208772627&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=12357681832208772627&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.464097599999995
   lng: 9.1919265
 tags:
-  - "milan"
-  - "Milan Cathedral Duomo"
-quickAnswer: "The Duomo di Milano, Milan's Gothic cathedral on Piazza del Duomo, is best visited early morning (before 9:30am) to beat crowds, with a rooftop terrace ticket for skyline views of the Alps on clear days. Budget 1.5–2 hours for the cathedral and roof, more if you add the Museo del Duomo. Book tickets online in advance — this is one of the most-visited sites in Italy and lines for walk-up tickets can stretch over an hour."
+  - milan
+  - Milan Cathedral Duomo
+quickAnswer: The Duomo di Milano, Milan's Gothic cathedral on Piazza del Duomo, is best visited early morning (before 9:30am) to beat crowds, with a rooftop terrace ticket for skyline views of the Alps on clear days. Budget 1.5–2 hours for the cathedral and roof, more if you add the Museo del Duomo. Book tickets online in advance — this is one of the most-visited sites in Italy and lines for walk-up tickets can stretch over an hour.
 faq:
-  - q: "How do I get to the Duomo di Milano?"
-    a: "Take Metro Line 1 (red) or Line 3 (yellow) to the Duomo stop, which opens directly onto the piazza. From Milano Centrale, it's about 15 minutes on the M3 yellow line with no transfers."
-  - q: "How much time should I plan for a visit?"
-    a: "Allow 1.5–2 hours for the cathedral interior and rooftop terrace combined. Add 30–45 minutes if you also visit the adjacent Museo del Duomo."
-  - q: "Is it worth paying extra for rooftop access?"
-    a: "Yes — the rooftop terrace among the spires offers close-up views of the statuary and, on clear days, sightlines to the Alps. It's the most memorable part of the visit for many travelers, though it involves stairs or a paid lift and uneven walking surfaces."
-  - q: "Do I need to book tickets in advance?"
-    a: "It's strongly recommended. Given the volume of visitors, walk-up lines for entry and especially rooftop access can exceed an hour; booking timed tickets online avoids most of the wait."
-  - q: "What's nearby if I have extra time?"
-    a: "The Galleria Vittorio Emanuele II shopping arcade connects the piazza to La Scala opera house, and Palazzo Reale next door houses the Museo del Duomo with original cathedral statuary and construction models."
+  - q: How do I get to the Duomo di Milano?
+    a: Take Metro Line 1 (red) or Line 3 (yellow) to the Duomo stop, which opens directly onto the piazza. From Milano Centrale, it's about 15 minutes on the M3 yellow line with no transfers.
+  - q: How much time should I plan for a visit?
+    a: Allow 1.5–2 hours for the cathedral interior and rooftop terrace combined. Add 30–45 minutes if you also visit the adjacent Museo del Duomo.
+  - q: Is it worth paying extra for rooftop access?
+    a: Yes — the rooftop terrace among the spires offers close-up views of the statuary and, on clear days, sightlines to the Alps. It's the most memorable part of the visit for many travelers, though it involves stairs or a paid lift and uneven walking surfaces.
+  - q: Do I need to book tickets in advance?
+    a: It's strongly recommended. Given the volume of visitors, walk-up lines for entry and especially rooftop access can exceed an hour; booking timed tickets online avoids most of the wait.
+  - q: What's nearby if I have extra time?
+    a: The Galleria Vittorio Emanuele II shopping arcade connects the piazza to La Scala opera house, and Palazzo Reale next door houses the Museo del Duomo with original cathedral statuary and construction models.
 aiGenerated: true
 draft: false
 ---

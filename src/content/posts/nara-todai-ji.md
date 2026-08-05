@@ -1,52 +1,67 @@
 ---
-title: "Tōdai-ji: Nara Travel Guide"
+title: 'Tōdai-ji: Nara Travel Guide'
 description: Tōdai-ji is Nara's must-see temple, home to the Daibutsu (Great Buddha), one of Japan's largest bronze statues, housed in the Daibutsuden — one of the world's largest wooden buildings.
-country: "Japan"
-region: "Nara"
-category: "attraction"
-pubDate: 2026-07-21
+country: Japan
+region: Nara
+category: attraction
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/The_Great_Buddha_Hall_of_T%C5%8Ddai-ji%2C_Nara%2C_November_2016.jpg/1920px-The_Great_Buddha_Hall_of_T%C5%8Ddai-ji%2C_Nara%2C_November_2016.jpg"
-  credit: "Photo: Martin Falbisoner / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:The_Great_Buddha_Hall_of_T%C5%8Ddai-ji,_Nara,_November_2016.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/The_Great_Buddha_Hall_of_T%C5%8Ddai-ji%2C_Nara%2C_November_2016.jpg/1920px-The_Great_Buddha_Hall_of_T%C5%8Ddai-ji%2C_Nara%2C_November_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Martin Falbisoner / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:The_Great_Buddha_Hall_of_T%C5%8Ddai-ji,_Nara,_November_2016.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Daibutsu_Grand_bouddha_-_T%C5%8Ddai-ji_-_Nara.jpg/1920px-Daibutsu_Grand_bouddha_-_T%C5%8Ddai-ji_-_Nara.jpg
     credit: 'Photo: Gilles Desjardins / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Daibutsu_Grand_bouddha_-_T%C5%8Ddai-ji_-_Nara.jpg
 place:
-  id: "ChIJ3XYIepA5AWARjzzVnT-skPg"
-  name: "Tōdai-ji"
-  address: "406-1 Zōshichō, Nara, 630-8587, Japan"
+  id: ChIJ3XYIepA5AWARjzzVnT-skPg
+  name: Tōdai-ji
+  address: 406-1 Zōshichō, Nara, 630-8587, Japan
   rating: 4.7
   userRatingsTotal: 31423
-  googleMapsUrl: "https://maps.google.com/?cid=17911005107283377295&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=17911005107283377295&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.6889851
   lng: 135.8398158
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [7, 8, 9, 17]
-    weekdayBusy: [12, 13, 14]
-    weekendQuiet: [7, 8, 17]
-    weekendBusy: [11, 12, 13, 14, 15]
-    venueId: 'ven_67506b732d546e567a7a6a5241574135417065495958334a496843'
+    weekdayQuiet:
+      - 7
+      - 8
+      - 9
+      - 17
+    weekdayBusy:
+      - 12
+      - 13
+      - 14
+    weekendQuiet:
+      - 7
+      - 8
+      - 17
+    weekendBusy:
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+    venueId: ven_67506b732d546e567a7a6a5241574135417065495958334a496843
 tags:
-  - "nara"
-  - "Nara Park"
-quickAnswer: "Tōdai-ji is Nara's must-see temple, home to the Daibutsu (Great Buddha), one of Japan's largest bronze statues, housed in the Daibutsuden — one of the world's largest wooden buildings. Plan for 1.5–2 hours, arrive early to beat tour groups and deer, and combine it with a walk through Nara Park. It's an easy 20–25 minute walk or short bus ride from JR Nara or Kintetsu Nara stations."
+  - nara
+  - Nara Park
+quickAnswer: Tōdai-ji is Nara's must-see temple, home to the Daibutsu (Great Buddha), one of Japan's largest bronze statues, housed in the Daibutsuden — one of the world's largest wooden buildings. Plan for 1.5–2 hours, arrive early to beat tour groups and deer, and combine it with a walk through Nara Park. It's an easy 20–25 minute walk or short bus ride from JR Nara or Kintetsu Nara stations.
 faq:
-  - q: "How do I get to Tōdai-ji from Nara's train stations?"
-    a: "It's about a 20-minute walk from Kintetsu Nara Station or 25–30 minutes from JR Nara Station, both through Nara Park. Frequent Nara Kotsu buses also run to the Daibutsuden-mae stop in about 10 minutes if you'd rather skip the walk."
-  - q: "How much time should I budget for a visit?"
-    a: "Plan for 1.5–2 hours to see the Nandaimon gate, the Daibutsuden with the Great Buddha, and wander the grounds. Add 30–45 minutes if you want to also visit the nearby sub-temples Nigatsudō and Sangatsudō."
-  - q: "What is the best time of day or year to visit?"
-    a: "Early morning right at opening or late afternoon are quietest. Spring cherry blossom season and autumn foliage (roughly November) are the most beautiful but also the busiest; a weekday in early winter tends to be calm."
-  - q: "Is admission free, and do I need tickets in advance?"
-    a: "Entering the Daibutsuden and some sub-halls requires a paid ticket, while the temple grounds and gate are free to walk through. Fees are modest but change periodically, so check current pricing and hours locally or online before you go."
-  - q: "What else is nearby worth combining with Tōdai-ji?"
-    a: "Kasuga Taisha shrine is a 15–20 minute walk east, and Kōfuku-ji's five-story pagoda is on the way back toward Kintetsu Nara Station. Nara Park's deer are everywhere along these routes, so it's easy to combine all three in a half-day loop."
+  - q: How do I get to Tōdai-ji from Nara's train stations?
+    a: It's about a 20-minute walk from Kintetsu Nara Station or 25–30 minutes from JR Nara Station, both through Nara Park. Frequent Nara Kotsu buses also run to the Daibutsuden-mae stop in about 10 minutes if you'd rather skip the walk.
+  - q: How much time should I budget for a visit?
+    a: Plan for 1.5–2 hours to see the Nandaimon gate, the Daibutsuden with the Great Buddha, and wander the grounds. Add 30–45 minutes if you want to also visit the nearby sub-temples Nigatsudō and Sangatsudō.
+  - q: What is the best time of day or year to visit?
+    a: Early morning right at opening or late afternoon are quietest. Spring cherry blossom season and autumn foliage (roughly November) are the most beautiful but also the busiest; a weekday in early winter tends to be calm.
+  - q: Is admission free, and do I need tickets in advance?
+    a: Entering the Daibutsuden and some sub-halls requires a paid ticket, while the temple grounds and gate are free to walk through. Fees are modest but change periodically, so check current pricing and hours locally or online before you go.
+  - q: What else is nearby worth combining with Tōdai-ji?
+    a: Kasuga Taisha shrine is a 15–20 minute walk east, and Kōfuku-ji's five-story pagoda is on the way back toward Kintetsu Nara Station. Nara Park's deer are everywhere along these routes, so it's easy to combine all three in a half-day loop.
 aiGenerated: true
 draft: false
 ---

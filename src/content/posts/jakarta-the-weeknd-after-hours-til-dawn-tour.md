@@ -8,7 +8,7 @@ pubDate: '2026-07-29'
 eventStartDate: '2026-09-26'
 eventEndDate: '2026-09-27'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/The_Weeknd_-_Live_at_Ippodromo_SNAI_La_Maura%2C_Milan_%28July_27%2C_2023%29.jpg/3840px-The_Weeknd_-_Live_at_Ippodromo_SNAI_La_Maura%2C_Milan_%28July_27%2C_2023%29.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/The_Weeknd_-_Live_at_Ippodromo_SNAI_La_Maura%2C_Milan_%28July_27%2C_2023%29.jpg/1920px-The_Weeknd_-_Live_at_Ippodromo_SNAI_La_Maura%2C_Milan_%28July_27%2C_2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Luca Dell''Orto / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:The_Weeknd_-_Live_at_Ippodromo_SNAI_La_Maura,_Milan_(July_27,_2023).jpg

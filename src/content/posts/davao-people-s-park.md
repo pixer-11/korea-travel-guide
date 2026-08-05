@@ -1,18 +1,18 @@
 ---
-title: "People s Park: Davao Travel Guide"
+title: 'People s Park: Davao Travel Guide'
 description: People's Park is a 4.39-hectare green space in Poblacion District, right in downtown Davao City on J.
 country: Philippines
 region: Davao
 category: attraction
-pubDate: "2026-07-26T08:21:15.582Z"
+pubDate: '2026-07-26T08:21:15.582Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/People%27s_Park_Davao_%284621404876%29.jpg/1920px-People%27s_Park_Davao_%284621404876%29.jpg
-  credit: "Photo: Constantine Agustin from Manila, Philippines / Wikimedia Commons (CC BY-SA 2.0)"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/People%27s_Park_Davao_%284621404876%29.jpg/1920px-People%27s_Park_Davao_%284621404876%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Constantine Agustin from Manila, Philippines / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:People%27s_Park_Davao_(4621404876).jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/People%27s_Park_Davao_Benches.jpg/1920px-People%27s_Park_Davao_Benches.jpg
-    credit: "Photo: RoyKabanlit / Wikimedia Commons (CC BY-SA 4.0)"
+    credit: 'Photo: RoyKabanlit / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:People%27s_Park_Davao_Benches.jpg
 place:
@@ -26,13 +26,13 @@ place:
   lat: 7.070526399999999
   lng: 125.60846640000001
   openingHours:
-    - "Monday: 1:00 – 10:00 PM"
-    - "Tuesday: 1:00 – 10:00 PM"
-    - "Wednesday: 1:00 – 10:00 PM"
-    - "Thursday: 1:00 – 10:00 PM"
-    - "Friday: 1:00 – 10:00 PM"
-    - "Saturday: 1:00 – 10:00 PM"
-    - "Sunday: 1:00 – 10:00 PM"
+    - 'Monday: 1:00 – 10:00 PM'
+    - 'Tuesday: 1:00 – 10:00 PM'
+    - 'Wednesday: 1:00 – 10:00 PM'
+    - 'Thursday: 1:00 – 10:00 PM'
+    - 'Friday: 1:00 – 10:00 PM'
+    - 'Saturday: 1:00 – 10:00 PM'
+    - 'Sunday: 1:00 – 10:00 PM'
 tags:
   - davao
   - top attraction

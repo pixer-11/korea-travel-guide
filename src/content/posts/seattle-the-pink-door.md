@@ -1,18 +1,18 @@
 ---
-title: "The Pink Door: Where to Eat in Seattle"
+title: 'The Pink Door: Where to Eat in Seattle'
 description: The Pink Door is the unmarked Italian trattoria hidden down Post Alley in Pike Place Market, known for its Elliott Bay-view terrace, red-sauce classics, and nightly cabaret and trapeze acts over the dining room.
 country: United States
 region: Seattle
 category: restaurant
-pubDate: "2026-07-30T10:06:17.792Z"
+pubDate: '2026-07-30T10:06:17.792Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Seattle_-_The_Pink_Door_01.jpg/1920px-Seattle_-_The_Pink_Door_01.jpg
-  credit: "Photo: Joe Mabel / Wikimedia Commons (CC BY-SA 3.0)"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Seattle_-_The_Pink_Door_01.jpg/1920px-Seattle_-_The_Pink_Door_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Joe Mabel / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Seattle_-_The_Pink_Door_01.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/5/5f/Seattle_-_The_Pink_Door_interior.jpg
-    credit: "Photo: Joe Mabel / Wikimedia Commons (CC BY-SA 3.0)"
+    credit: 'Photo: Joe Mabel / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Seattle_-_The_Pink_Door_interior.jpg
 place:
@@ -26,15 +26,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 47.6103652
   lng: -122.34256040000001
-  phone: '+1 206 443-3241'
+  phone: +1 206 443-3241
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 11:30 AM – 11:30 PM"
-    - "Wednesday: 11:30 AM – 11:30 PM"
-    - "Thursday: 11:30 AM – 11:30 PM"
-    - "Friday: 11:30 AM – 11:30 PM"
-    - "Saturday: 11:30 AM – 11:30 PM"
-    - "Sunday: Closed"
+    - 'Monday: Closed'
+    - 'Tuesday: 11:30 AM – 11:30 PM'
+    - 'Wednesday: 11:30 AM – 11:30 PM'
+    - 'Thursday: 11:30 AM – 11:30 PM'
+    - 'Friday: 11:30 AM – 11:30 PM'
+    - 'Saturday: 11:30 AM – 11:30 PM'
+    - 'Sunday: Closed'
   busyness:
     updated: 2026-07-30T00:00:00.000Z
     weekdayQuiet: []

@@ -1,38 +1,38 @@
 ---
-title: "Surfside Taco Stand: Where to Eat in Washington DC"
+title: 'Surfside Taco Stand: Where to Eat in Washington DC'
 description: Surfside Taco Stand is a bright, cafeteria-style Mexican counter at 1800 N St NW in Dupont Circle, open 24 hours, known for tacos and margaritas at budget-friendly prices.
-country: "United States"
-region: "Washington DC"
-category: "restaurant"
-pubDate: "2026-08-01T09:36:41.868Z"
+country: United States
+region: Washington DC
+category: restaurant
+pubDate: '2026-08-01T09:36:41.868Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Surfside_Taco_Stand_-_N_Street_-_Washington_DC.jpg/3840px-Surfside_Taco_Stand_-_N_Street_-_Washington_DC.jpg"
-  credit: "Photo: Tony Webster / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Surfside_Taco_Stand_-_N_Street_-_Washington_DC.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Surfside_Taco_Stand_-_N_Street_-_Washington_DC.jpg/1920px-Surfside_Taco_Stand_-_N_Street_-_Washington_DC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Tony Webster / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Surfside_Taco_Stand_-_N_Street_-_Washington_DC.jpg
 gallery: []
 place:
-  id: "ChIJFewhhMe3t4kRflRkan9_s8I"
-  name: "Surfside Taco Stand"
-  address: "1800 N St NW, Washington, DC 20036, USA"
+  id: ChIJFewhhMe3t4kRflRkan9_s8I
+  name: Surfside Taco Stand
+  address: 1800 N St NW, Washington, DC 20036, USA
   rating: 4.4
   userRatingsTotal: 2107
   priceLevel: 1
-  googleMapsUrl: "https://maps.google.com/?cid=14029697449411761278&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=14029697449411761278&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 38.9071493
   lng: -77.0425272
-  phone: '+1 202 466-1830'
+  phone: +1 202 466-1830
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-01
+    updated: 2026-08-01T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -53,22 +53,22 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_4938735f396e616b526c66526b347433654d68687765464a496843"
+    venueId: ven_4938735f396e616b526c66526b347433654d68687765464a496843
 tags:
-  - "washington dc"
-  - "street food"
-quickAnswer: "Surfside Taco Stand is a bright, cafeteria-style Mexican counter at 1800 N St NW in Dupont Circle, open 24 hours, known for tacos and margaritas at budget-friendly prices. Go on a weekday morning between 7am and 9am (or before 1pm on weekends) if you want the place to yourself; avoid Saturday and Sunday afternoons into the evening (4pm–11pm), when it's slammed. Budget 30-45 minutes for a counter meal, longer if you're settling in with margaritas."
+  - washington dc
+  - street food
+quickAnswer: Surfside Taco Stand is a bright, cafeteria-style Mexican counter at 1800 N St NW in Dupont Circle, open 24 hours, known for tacos and margaritas at budget-friendly prices. Go on a weekday morning between 7am and 9am (or before 1pm on weekends) if you want the place to yourself; avoid Saturday and Sunday afternoons into the evening (4pm–11pm), when it's slammed. Budget 30-45 minutes for a counter meal, longer if you're settling in with margaritas.
 faq:
-  - q: "What are the best hours to avoid a wait?"
-    a: "Weekdays from 7am to 9am are quietest, and weekends stay calm from about 7am until 1pm. Try to steer clear of Saturday and Sunday between 4pm and 11pm, when lines and full tables are most likely."
-  - q: "How do I get to Surfside Taco Stand by Metro?"
-    a: "Take the Red Line to Dupont Circle station and use the Q Street exit; it's roughly a 5-8 minute walk east to 1800 N St NW. Farragut North on the Red Line also works via a short walk down Connecticut Avenue."
-  - q: "Is it a sit-down restaurant?"
-    a: "No — it's cafeteria-style. You order and pay at the counter, then find your own seat among the surf-themed decor, so expect quick service rather than table service."
-  - q: "Is it expensive?"
-    a: "It's on the budget-friendly end for DC, making it an easy option for a casual taco meal or a pre- or post-night-out stop without a big bill."
-  - q: "Is it open late at night?"
-    a: "Yes, it runs 24 hours every day, which makes it one of the few reliable late-night food (and margarita) options in Dupont Circle."
+  - q: What are the best hours to avoid a wait?
+    a: Weekdays from 7am to 9am are quietest, and weekends stay calm from about 7am until 1pm. Try to steer clear of Saturday and Sunday between 4pm and 11pm, when lines and full tables are most likely.
+  - q: How do I get to Surfside Taco Stand by Metro?
+    a: Take the Red Line to Dupont Circle station and use the Q Street exit; it's roughly a 5-8 minute walk east to 1800 N St NW. Farragut North on the Red Line also works via a short walk down Connecticut Avenue.
+  - q: Is it a sit-down restaurant?
+    a: No — it's cafeteria-style. You order and pay at the counter, then find your own seat among the surf-themed decor, so expect quick service rather than table service.
+  - q: Is it expensive?
+    a: It's on the budget-friendly end for DC, making it an easy option for a casual taco meal or a pre- or post-night-out stop without a big bill.
+  - q: Is it open late at night?
+    a: Yes, it runs 24 hours every day, which makes it one of the few reliable late-night food (and margarita) options in Dupont Circle.
 aiGenerated: true
 draft: false
 ---

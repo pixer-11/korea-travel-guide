@@ -1,53 +1,53 @@
 ---
-title: "Rainbow Village: Taichung Travel Guide"
+title: 'Rainbow Village: Taichung Travel Guide'
 description: Rainbow Village (彩虹眷村) is a former military dependents' village in Taichung's Nantun District that one elderly veteran, Huang Yung-fu, single-handedly covered in vivid painted birds, animals, and figures to save it from demolition.
-country: "Taiwan"
-region: "Taichung"
-category: "attraction"
-pubDate: "2026-07-26T07:15:33.080Z"
+country: Taiwan
+region: Taichung
+category: attraction
+pubDate: '2026-07-26T07:15:33.080Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Taichung_Rainbow_Village_45.jpg/1920px-Taichung_Rainbow_Village_45.jpg"
-  credit: "Photo: Zairon / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Taichung_Rainbow_Village_45.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Taichung_Rainbow_Village_45.jpg/1920px-Taichung_Rainbow_Village_45.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Zairon / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Taichung_Rainbow_Village_45.jpg
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/417343717_fM1qUnFQSBGqHdG44mMXW00If64PsUS3jU-kgYmq4OY.jpg
     credit: 'Photo: Foursquare user content (Rainbow Village (彩虹眷村))'
     license: foursquare
     source: https://foursquare.com/v/4c1c41cc8b3aa5933eb4985f
 place:
-  id: "ChIJ25Ul-Ic-aTQRNnMAjMs2iJo"
-  name: "Rainbow Village"
-  address: "408, Taiwan, Taichung City, Nantun District, Chun'an Village, 春安路56巷25號"
+  id: ChIJ25Ul-Ic-aTQRNnMAjMs2iJo
+  name: Rainbow Village
+  address: 408, Taiwan, Taichung City, Nantun District, Chun'an Village, 春安路56巷25號
   rating: 4.2
   userRatingsTotal: 34151
-  googleMapsUrl: "https://maps.google.com/?cid=11135210326528652086&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=11135210326528652086&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 24.133715199999997
   lng: 120.6098437
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
 tags:
-  - "taichung"
-  - "top attraction"
-quickAnswer: "Rainbow Village (彩虹眷村) is a former military dependents' village in Taichung's Nantun District that one elderly veteran, Huang Yung-fu, single-handedly covered in vivid painted birds, animals, and figures to save it from demolition. Budget 45–60 minutes, go on a weekday morning to beat tour-bus crowds, and combine it with nearby Fengjia Night Market or Xitou if you're routing a full day. Entry is free, and the easiest way in is by city bus toward Lingdong/Ling Tung University with a stop right by the site."
+  - taichung
+  - top attraction
+quickAnswer: Rainbow Village (彩虹眷村) is a former military dependents' village in Taichung's Nantun District that one elderly veteran, Huang Yung-fu, single-handedly covered in vivid painted birds, animals, and figures to save it from demolition. Budget 45–60 minutes, go on a weekday morning to beat tour-bus crowds, and combine it with nearby Fengjia Night Market or Xitou if you're routing a full day. Entry is free, and the easiest way in is by city bus toward Lingdong/Ling Tung University with a stop right by the site.
 faq:
-  - q: "How do I get to Rainbow Village without a car?"
-    a: "Take a city bus toward Ling Tung University (routes such as 25, 75, or 51 pass nearby, though numbers can change) and walk a few minutes to 春安路56巷25號 in Nantun District. A taxi from central Taichung or the train station takes about 15-20 minutes."
-  - q: "Is there an entrance fee?"
-    a: "No, Rainbow Village is free to walk through, as it's an open-air public art site built into a former residential lane."
-  - q: "How long should I spend there?"
-    a: "Most visitors need 45 minutes to an hour to walk the lanes, read the history panels, and take photos."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Go on a weekday morning shortly after opening. Afternoons and weekends draw tour groups and school trips, and the narrow lanes fill up quickly since the site is compact."
-  - q: "What else is nearby?"
-    a: "Ling Tung University's night market is a short trip away, and Fengjia Night Market or the Taichung Metropolitan Opera House work well as a next stop if you're spending a half-day in the Nantun/Xitun area."
+  - q: How do I get to Rainbow Village without a car?
+    a: Take a city bus toward Ling Tung University (routes such as 25, 75, or 51 pass nearby, though numbers can change) and walk a few minutes to 春安路56巷25號 in Nantun District. A taxi from central Taichung or the train station takes about 15-20 minutes.
+  - q: Is there an entrance fee?
+    a: No, Rainbow Village is free to walk through, as it's an open-air public art site built into a former residential lane.
+  - q: How long should I spend there?
+    a: Most visitors need 45 minutes to an hour to walk the lanes, read the history panels, and take photos.
+  - q: When is the best time to visit to avoid crowds?
+    a: Go on a weekday morning shortly after opening. Afternoons and weekends draw tour groups and school trips, and the narrow lanes fill up quickly since the site is compact.
+  - q: What else is nearby?
+    a: Ling Tung University's night market is a short trip away, and Fengjia Night Market or the Taichung Metropolitan Opera House work well as a next stop if you're spending a half-day in the Nantun/Xitun area.
 aiGenerated: true
 draft: false
 ---

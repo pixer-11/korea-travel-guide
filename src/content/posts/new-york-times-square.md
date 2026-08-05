@@ -1,32 +1,32 @@
 ---
-title: "Times Square: New York Travel Guide (4.7★)"
-description: "Times Square is the neon-lit crossroads of Broadway and Seventh Avenue at 42nd–47th Streets in Manhattan's Theater District — come for the sheer sensory overload of the screens, not for a quiet stroll. 4.7★ (244,209 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "New York"
-category: "attraction"
-pubDate: "2026-08-03T11:08:06.393Z"
+title: 'Times Square: New York Travel Guide (4.7★)'
+description: Times Square is the neon-lit crossroads of Broadway and Seventh Avenue at 42nd–47th Streets in Manhattan's Theater District — come for the sheer sensory overload of the screens, not for a quiet stroll. 4.7★ (244,209 reviews) — what visitors say, hours, and tips.
+country: United States
+region: New York
+category: attraction
+pubDate: '2026-08-03T11:08:06.393Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/New_york_times_square-terabass.jpg/1920px-New_york_times_square-terabass.jpg"
-  credit: "Photo: Terabass / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:New_york_times_square-terabass.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/New_york_times_square-terabass.jpg/1920px-New_york_times_square-terabass.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Terabass / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:New_york_times_square-terabass.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Times_Square_Ball_from_above.jpg/3840px-Times_Square_Ball_from_above.jpg"
-    credit: "Photo: Anthony Quintano / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Times_Square_Ball_from_above.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Times_Square_Ball_from_above.jpg/3840px-Times_Square_Ball_from_above.jpg
+    credit: 'Photo: Anthony Quintano / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Times_Square_Ball_from_above.jpg
 place:
-  id: "ChIJmQJIxlVYwokRLgeuocVOGVU"
-  name: "Times Square"
-  address: "Manhattan, NY 10036, USA"
+  id: ChIJmQJIxlVYwokRLgeuocVOGVU
+  name: Times Square
+  address: Manhattan, NY 10036, USA
   rating: 4.7
   userRatingsTotal: 244209
-  googleMapsUrl: "https://maps.google.com/?cid=6132018978369701678&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=6132018978369701678&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 40.7579747
   lng: -73.9855426
   busyness:
-    updated: 2026-08-03
+    updated: 2026-08-03T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -53,22 +53,22 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_5556474f56636f7565674c526b6f7759566c78494a516d4a496843"
+    venueId: ven_5556474f56636f7565674c526b6f7759566c78494a516d4a496843
 tags:
-  - "new york"
-  - "Times Square"
-quickAnswer: "Times Square is the neon-lit crossroads of Broadway and Seventh Avenue at 42nd–47th Streets in Manhattan's Theater District — come for the sheer sensory overload of the screens, not for a quiet stroll. It's one of the most visited plazas on earth, so go between 7am and 10am if you want to actually see the pavement; by 1pm on weekends it's shoulder-to-shoulder and stays that way past 11pm."
+  - new york
+  - Times Square
+quickAnswer: Times Square is the neon-lit crossroads of Broadway and Seventh Avenue at 42nd–47th Streets in Manhattan's Theater District — come for the sheer sensory overload of the screens, not for a quiet stroll. It's one of the most visited plazas on earth, so go between 7am and 10am if you want to actually see the pavement; by 1pm on weekends it's shoulder-to-shoulder and stays that way past 11pm.
 faq:
-  - q: "What is the quietest time to visit Times Square?"
-    a: "Both on weekdays and weekends, 7am–10am is the calmest window, before tour groups and crowds build up. Weekend afternoons and evenings (1pm–11pm) are the busiest and worth avoiding if you want breathing room."
-  - q: "How do I get to Times Square by subway?"
-    a: "Take the 1, 2, 3, 7, N, Q, R, W, or S train to the Times Sq–42nd St station, which exits directly onto 42nd Street and Broadway."
-  - q: "How long should I spend at Times Square?"
-    a: "An hour is enough to take in the plaza and screens; budget 2–3 hours if you also want to browse the flagship stores, catch street performers, or walk into the surrounding Theater District."
-  - q: "Is Times Square worth visiting if it's so crowded?"
-    a: "Yes — it's genuinely one of the most-reviewed attractions in the country and the visual scale of the screens is hard to replicate elsewhere. Just time your visit for early morning or late evening to avoid the worst of the crowds."
-  - q: "What else is near Times Square?"
-    a: "Broadway theaters line the blocks to the north, Bryant Park is about six blocks south, and Grand Central Terminal is reachable directly via the shuttle train from the same station."
+  - q: What is the quietest time to visit Times Square?
+    a: Both on weekdays and weekends, 7am–10am is the calmest window, before tour groups and crowds build up. Weekend afternoons and evenings (1pm–11pm) are the busiest and worth avoiding if you want breathing room.
+  - q: How do I get to Times Square by subway?
+    a: Take the 1, 2, 3, 7, N, Q, R, W, or S train to the Times Sq–42nd St station, which exits directly onto 42nd Street and Broadway.
+  - q: How long should I spend at Times Square?
+    a: An hour is enough to take in the plaza and screens; budget 2–3 hours if you also want to browse the flagship stores, catch street performers, or walk into the surrounding Theater District.
+  - q: Is Times Square worth visiting if it's so crowded?
+    a: Yes — it's genuinely one of the most-reviewed attractions in the country and the visual scale of the screens is hard to replicate elsewhere. Just time your visit for early morning or late evening to avoid the worst of the crowds.
+  - q: What else is near Times Square?
+    a: Broadway theaters line the blocks to the north, Bryant Park is about six blocks south, and Grand Central Terminal is reachable directly via the shuttle train from the same station.
 aiGenerated: true
 draft: false
 ---

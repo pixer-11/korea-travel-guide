@@ -1,50 +1,50 @@
 ---
-title: "Yu Garden: Shanghai Travel Guide (4.5★)"
-description: "Yu Garden is a 5-acre Ming-dynasty garden (built in 1577) in Shanghai's Old City, packed with rockeries, koi ponds, zigzag bridges, and carved pavilions — open Tuesday to Sunday, 9:00 AM–4:30 PM (closed Mondays). 4.5★ (5,303 reviews) — what visitors say, hours, and tips."
-country: "China"
-region: "Shanghai"
-category: "attraction"
-pubDate: "2026-08-03T11:09:36.136Z"
+title: 'Yu Garden: Shanghai Travel Guide (4.5★)'
+description: Yu Garden is a 5-acre Ming-dynasty garden (built in 1577) in Shanghai's Old City, packed with rockeries, koi ponds, zigzag bridges, and carved pavilions — open Tuesday to Sunday, 9:00 AM–4:30 PM (closed Mondays). 4.5★ (5,303 reviews) — what visitors say, hours, and tips.
+country: China
+region: Shanghai
+category: attraction
+pubDate: '2026-08-03T11:09:36.136Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Shanghai_-_Yu_Garden_-_0035.jpg/1920px-Shanghai_-_Yu_Garden_-_0035.jpg"
-  credit: "Photo: Stefan Fussan / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Shanghai_-_Yu_Garden_-_0035.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Shanghai_-_Yu_Garden_-_0035.jpg/1920px-Shanghai_-_Yu_Garden_-_0035.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Stefan Fussan / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Shanghai_-_Yu_Garden_-_0035.jpg
 gallery: []
 place:
-  id: "ChIJidPZMUGHrTUR29eIuHbpoIQ"
-  name: "Yu Garden"
-  address: "四牌楼 Huangpu, Shanghai, China, 200000"
+  id: ChIJidPZMUGHrTUR29eIuHbpoIQ
+  name: Yu Garden
+  address: 四牌楼 Huangpu, Shanghai, China, 200000
   rating: 4.5
   userRatingsTotal: 5303
-  googleMapsUrl: "https://maps.google.com/?cid=9556895105391581147&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=9556895105391581147&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 31.227235500000003
   lng: 121.49209399999998
-  phone: "+86 21 6326 0830"
+  phone: +86 21 6326 0830
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 9:00 AM – 4:30 PM"
-    - "Wednesday: 9:00 AM – 4:30 PM"
-    - "Thursday: 9:00 AM – 4:30 PM"
-    - "Friday: 9:00 AM – 4:30 PM"
-    - "Saturday: 9:00 AM – 4:30 PM"
-    - "Sunday: 9:00 AM – 4:30 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 9:00 AM – 4:30 PM'
+    - 'Wednesday: 9:00 AM – 4:30 PM'
+    - 'Thursday: 9:00 AM – 4:30 PM'
+    - 'Friday: 9:00 AM – 4:30 PM'
+    - 'Saturday: 9:00 AM – 4:30 PM'
+    - 'Sunday: 9:00 AM – 4:30 PM'
 tags:
-  - "shanghai"
-  - "Yu Garden"
-quickAnswer: "Yu Garden is a 5-acre Ming-dynasty garden (built in 1577) in Shanghai's Old City, packed with rockeries, koi ponds, zigzag bridges, and carved pavilions — open Tuesday to Sunday, 9:00 AM–4:30 PM (closed Mondays). Arrive right at 9am, because it's one of Shanghai's most-visited sights and the paths through the rockeries are narrow enough that a busy afternoon crowd changes the whole experience. Give it 60–90 minutes for the garden itself, plus extra time to get lost in the surrounding bazaar."
+  - shanghai
+  - Yu Garden
+quickAnswer: Yu Garden is a 5-acre Ming-dynasty garden (built in 1577) in Shanghai's Old City, packed with rockeries, koi ponds, zigzag bridges, and carved pavilions — open Tuesday to Sunday, 9:00 AM–4:30 PM (closed Mondays). Arrive right at 9am, because it's one of Shanghai's most-visited sights and the paths through the rockeries are narrow enough that a busy afternoon crowd changes the whole experience. Give it 60–90 minutes for the garden itself, plus extra time to get lost in the surrounding bazaar.
 faq:
-  - q: "How much time should I budget for Yu Garden?"
-    a: "Plan on 60–90 minutes inside the garden itself. If you also want to explore the surrounding Yuyuan Bazaar with its shops and snack stalls, add another 1–2 hours."
-  - q: "What's the best time of day to visit to avoid crowds?"
-    a: "Go right at opening, 9:00 AM. Yu Garden is one of Shanghai's most-visited sights, and the narrow rockery paths and bridges get congested with tour groups by mid-morning and stay busy through the afternoon, especially on weekends."
-  - q: "How do I get to Yu Garden by metro?"
-    a: "Take Metro Line 10 to Yuyuan Garden Station; the garden and bazaar are a short walk from the exits. It's also a 10–15 minute walk west from the Bund."
-  - q: "Is Yu Garden open every day?"
-    a: "No — it's closed on Mondays. It's open Tuesday through Sunday, 9:00 AM to 4:30 PM."
-  - q: "Are the garden and the Yuyuan Bazaar the same thing?"
-    a: "No. Yu Garden is the ticketed Ming-dynasty garden itself; Yuyuan Bazaar is the free-to-enter maze of shops, teahouses, and food stalls surrounding it. Many visitors only realize the distinction once they arrive."
+  - q: How much time should I budget for Yu Garden?
+    a: Plan on 60–90 minutes inside the garden itself. If you also want to explore the surrounding Yuyuan Bazaar with its shops and snack stalls, add another 1–2 hours.
+  - q: What's the best time of day to visit to avoid crowds?
+    a: Go right at opening, 9:00 AM. Yu Garden is one of Shanghai's most-visited sights, and the narrow rockery paths and bridges get congested with tour groups by mid-morning and stay busy through the afternoon, especially on weekends.
+  - q: How do I get to Yu Garden by metro?
+    a: Take Metro Line 10 to Yuyuan Garden Station; the garden and bazaar are a short walk from the exits. It's also a 10–15 minute walk west from the Bund.
+  - q: Is Yu Garden open every day?
+    a: No — it's closed on Mondays. It's open Tuesday through Sunday, 9:00 AM to 4:30 PM.
+  - q: Are the garden and the Yuyuan Bazaar the same thing?
+    a: No. Yu Garden is the ticketed Ming-dynasty garden itself; Yuyuan Bazaar is the free-to-enter maze of shops, teahouses, and food stalls surrounding it. Many visitors only realize the distinction once they arrive.
 aiGenerated: true
 draft: false
 ---

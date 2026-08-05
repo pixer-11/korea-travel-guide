@@ -1,50 +1,58 @@
 ---
-title: "SkyPark Observation Deck: Marina Bay Travel Guide"
+title: 'SkyPark Observation Deck: Marina Bay Travel Guide'
 description: 'The SkyPark Observation Deck sits atop Tower 3 of Marina Bay Sands, 56 floors up, and delivers Singapore''s signature panorama: the Gardens by the Bay Supertrees, the Singapore Flyer, and the downtown skyline in one sweep.'
-country: "Singapore"
-region: "Marina Bay"
-category: "attraction"
-pubDate: "2026-07-23T07:29:55.545Z"
+country: Singapore
+region: Marina Bay
+category: attraction
+pubDate: '2026-07-23T07:29:55.545Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Infinity_Pool_at_Marina_Bay_Sands_SkyPark_Singapore_Ank_Kumar_Infosys_Limited_03.jpg/1920px-Infinity_Pool_at_Marina_Bay_Sands_SkyPark_Singapore_Ank_Kumar_Infosys_Limited_03.jpg"
-  credit: "Photo: Ank Kumar / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Infinity_Pool_at_Marina_Bay_Sands_SkyPark_Singapore_Ank_Kumar_Infosys_Limited_03.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Infinity_Pool_at_Marina_Bay_Sands_SkyPark_Singapore_Ank_Kumar_Infosys_Limited_03.jpg/1920px-Infinity_Pool_at_Marina_Bay_Sands_SkyPark_Singapore_Ank_Kumar_Infosys_Limited_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Ank Kumar / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Infinity_Pool_at_Marina_Bay_Sands_SkyPark_Singapore_Ank_Kumar_Infosys_Limited_03.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Singapore_%28SG%29%2C_Marina_Bay_--_2019_--_4701-6.jpg/1920px-Singapore_%28SG%29%2C_Marina_Bay_--_2019_--_4701-6.jpg
     credit: 'Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Singapore_(SG),_Marina_Bay_--_2019_--_4701-6.jpg
 place:
-  id: "ChIJOeEf9S2vewIRM0B9a06CKwg"
-  name: "SkyPark Observation Deck"
-  address: "10 Bayfront Avenue, Hotel, Tower 3 Level 56, Marina Bay Sands, Singapore 018956"
+  id: ChIJOeEf9S2vewIRM0B9a06CKwg
+  name: SkyPark Observation Deck
+  address: 10 Bayfront Avenue, Hotel, Tower 3 Level 56, Marina Bay Sands, Singapore 018956
   rating: 4.6
   userRatingsTotal: 13823
-  googleMapsUrl: "https://maps.google.com/?cid=588707449624412211&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=588707449624412211&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.2852044
   lng: 103.8610313
   busyness:
     updated: '2026-07-23'
-    weekdayBusy: [18, 19, 20]
-    weekendBusy: [17, 18, 19, 20, 21]
-    venueId: 'ven_67774b433630613942304d52497765763253396645654f4a496843'
+    weekdayBusy:
+      - 18
+      - 19
+      - 20
+    weekendBusy:
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+    venueId: ven_67774b433630613942304d52497765763253396645654f4a496843
 tags:
-  - "marina bay"
-  - "top attraction"
-quickAnswer: "The SkyPark Observation Deck sits atop Tower 3 of Marina Bay Sands, 56 floors up, and delivers Singapore's signature panorama: the Gardens by the Bay Supertrees, the Singapore Flyer, and the downtown skyline in one sweep. Buy timed-entry tickets online in advance, arrive 30–45 minutes before sunset, and budget about 45–60 minutes at the top. It's one of the city's most-visited attractions (4.6 stars, nearly 14,000 reviews), so expect crowds and plan around them rather than expecting solitude."
+  - marina bay
+  - top attraction
+quickAnswer: 'The SkyPark Observation Deck sits atop Tower 3 of Marina Bay Sands, 56 floors up, and delivers Singapore''s signature panorama: the Gardens by the Bay Supertrees, the Singapore Flyer, and the downtown skyline in one sweep. Buy timed-entry tickets online in advance, arrive 30–45 minutes before sunset, and budget about 45–60 minutes at the top. It''s one of the city''s most-visited attractions (4.6 stars, nearly 14,000 reviews), so expect crowds and plan around them rather than expecting solitude.'
 faq:
-  - q: "How do I get to the SkyPark Observation Deck?"
-    a: "Take Bayfront MRT Station (Circle or Downtown Line) and follow the underground link to Marina Bay Sands, then head to the Tower 3 lobby, which has a dedicated entrance for SkyPark ticketing separate from the mall and casino."
-  - q: "How much does it cost and do I need to book ahead?"
-    a: "Ticket prices change periodically, so check the official Marina Bay Sands website for current rates before you go. Booking a timed-entry slot online in advance is strongly recommended, especially for sunset visits, since same-day tickets can sell out."
-  - q: "What is the best time of day to visit?"
-    a: "Late afternoon through sunset offers the best combination of daylight and skyline views transitioning into night lighting. Weekdays tend to be less crowded than weekends and public holidays."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors spend 45 minutes to an hour circling the deck and taking photos; add extra time if you plan to eat or drink at CÉ LA VI on the same level."
-  - q: "What's nearby to combine with a visit?"
-    a: "Gardens by the Bay (Supertree Grove and the Flower Dome/Cloud Forest conservatories) sits directly adjacent and is visible from the deck, while the Helix Bridge and Singapore Flyer are a short walk or one MRT stop away via Promenade Station."
+  - q: How do I get to the SkyPark Observation Deck?
+    a: Take Bayfront MRT Station (Circle or Downtown Line) and follow the underground link to Marina Bay Sands, then head to the Tower 3 lobby, which has a dedicated entrance for SkyPark ticketing separate from the mall and casino.
+  - q: How much does it cost and do I need to book ahead?
+    a: Ticket prices change periodically, so check the official Marina Bay Sands website for current rates before you go. Booking a timed-entry slot online in advance is strongly recommended, especially for sunset visits, since same-day tickets can sell out.
+  - q: What is the best time of day to visit?
+    a: Late afternoon through sunset offers the best combination of daylight and skyline views transitioning into night lighting. Weekdays tend to be less crowded than weekends and public holidays.
+  - q: How long should I plan to spend there?
+    a: Most visitors spend 45 minutes to an hour circling the deck and taking photos; add extra time if you plan to eat or drink at CÉ LA VI on the same level.
+  - q: What's nearby to combine with a visit?
+    a: Gardens by the Bay (Supertree Grove and the Flower Dome/Cloud Forest conservatories) sits directly adjacent and is visible from the deck, while the Helix Bridge and Singapore Flyer are a short walk or one MRT stop away via Promenade Station.
 aiGenerated: true
 draft: false
 ---

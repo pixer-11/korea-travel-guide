@@ -1,54 +1,54 @@
 ---
-title: "Hierapolis: Pamukkale Travel Guide"
+title: 'Hierapolis: Pamukkale Travel Guide'
 description: Hierapolis sits directly above the white travertine terraces of Pamukkale, in Denizli province in southwestern Turkey, and is included in the same ticketed archaeological site — one entry covers both.
-country: "Turkey"
-region: "Pamukkale"
-category: "hidden-gem"
-pubDate: "2026-07-28T10:12:19.796Z"
+country: Turkey
+region: Pamukkale
+category: hidden-gem
+pubDate: '2026-07-28T10:12:19.796Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hierapolis_01.jpg/1920px-Hierapolis_01.jpg"
-  credit: "Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Hierapolis_01.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hierapolis_01.jpg/1920px-Hierapolis_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Hierapolis_01.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Hierapolis%2C_Pamukkale_5.jpg/1920px-Hierapolis%2C_Pamukkale_5.jpg"
-    credit: "Photo: Slyronit / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Hierapolis,_Pamukkale_5.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Hierapolis%2C_Pamukkale_5.jpg/1920px-Hierapolis%2C_Pamukkale_5.jpg
+    credit: 'Photo: Slyronit / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Hierapolis,_Pamukkale_5.jpg
 place:
-  id: "ChIJiTEUeDASxxQRMllVQmKXAZQ"
-  name: "Hierapolis"
-  address: "Pamukkale, 20280 Pamukkale/Denizli, Türkiye"
+  id: ChIJiTEUeDASxxQRMllVQmKXAZQ
+  name: Hierapolis
+  address: Pamukkale, 20280 Pamukkale/Denizli, Türkiye
   rating: 4.8
   userRatingsTotal: 17000
-  googleMapsUrl: "https://maps.google.com/?cid=10664971840865524018&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=10664971840865524018&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.9248791
   lng: 29.1232436
-  phone: '+90 258 241 08 66'
+  phone: +90 258 241 08 66
   openingHours:
-    - "Monday: 8:00 AM – 5:00 PM"
-    - "Tuesday: 8:00 AM – 5:00 PM"
-    - "Wednesday: 8:00 AM – 5:00 PM"
-    - "Thursday: 8:00 AM – 5:00 PM"
-    - "Friday: 8:00 AM – 5:00 PM"
-    - "Saturday: 8:00 AM – 5:00 PM"
-    - "Sunday: 8:00 AM – 5:00 PM"
+    - 'Monday: 8:00 AM – 5:00 PM'
+    - 'Tuesday: 8:00 AM – 5:00 PM'
+    - 'Wednesday: 8:00 AM – 5:00 PM'
+    - 'Thursday: 8:00 AM – 5:00 PM'
+    - 'Friday: 8:00 AM – 5:00 PM'
+    - 'Saturday: 8:00 AM – 5:00 PM'
+    - 'Sunday: 8:00 AM – 5:00 PM'
 tags:
-  - "pamukkale"
-  - "hidden gem"
-quickAnswer: "Hierapolis sits directly above the white travertine terraces of Pamukkale, in Denizli province in southwestern Turkey, and is included in the same ticketed archaeological site — one entry covers both. Go right at opening (the gates typically open around 8am) or in the last two hours before sunset to avoid the tour-bus crush that fills the terraces and the Antique Pool by midday. Budget three to four hours: an hour for the terraces, an hour for the theatre and Plutonium, and the rest for the necropolis and museum."
+  - pamukkale
+  - hidden gem
+quickAnswer: 'Hierapolis sits directly above the white travertine terraces of Pamukkale, in Denizli province in southwestern Turkey, and is included in the same ticketed archaeological site — one entry covers both. Go right at opening (the gates typically open around 8am) or in the last two hours before sunset to avoid the tour-bus crush that fills the terraces and the Antique Pool by midday. Budget three to four hours: an hour for the terraces, an hour for the theatre and Plutonium, and the rest for the necropolis and museum.'
 faq:
-  - q: "How do I get to Hierapolis and Pamukkale without a tour?"
-    a: "Fly or bus to Denizli, then take a dolmuş minibus (runs roughly every 30 minutes) 20km north to Pamukkale village, where the site's north and south gates are both walkable from the village center."
-  - q: "Is one ticket enough for both the terraces and the ruins?"
-    a: "Yes — the travertine terraces and the Hierapolis archaeological site are covered by a single admission ticket; swimming in the Antique Pool (Cleopatra's Pool) usually costs extra."
-  - q: "How long should I spend there?"
-    a: "Plan three to four hours minimum: about an hour on the terraces, an hour at the theatre and Plutonium, and the remainder for the necropolis and museum."
-  - q: "When is it least crowded?"
-    a: "Right at opening (around 8am) or in the final two hours before closing are calmest; midday, especially in summer, brings both peak heat and peak tour-bus traffic."
-  - q: "Do I need to take my shoes off?"
-    a: "Yes, walking on the white travertine terraces barefoot is required to protect the mineral surface, so bring a bag to carry your shoes and a swimsuit if you plan to wade in the pools."
+  - q: How do I get to Hierapolis and Pamukkale without a tour?
+    a: Fly or bus to Denizli, then take a dolmuş minibus (runs roughly every 30 minutes) 20km north to Pamukkale village, where the site's north and south gates are both walkable from the village center.
+  - q: Is one ticket enough for both the terraces and the ruins?
+    a: Yes — the travertine terraces and the Hierapolis archaeological site are covered by a single admission ticket; swimming in the Antique Pool (Cleopatra's Pool) usually costs extra.
+  - q: How long should I spend there?
+    a: 'Plan three to four hours minimum: about an hour on the terraces, an hour at the theatre and Plutonium, and the remainder for the necropolis and museum.'
+  - q: When is it least crowded?
+    a: Right at opening (around 8am) or in the final two hours before closing are calmest; midday, especially in summer, brings both peak heat and peak tour-bus traffic.
+  - q: Do I need to take my shoes off?
+    a: Yes, walking on the white travertine terraces barefoot is required to protect the mineral surface, so bring a bag to carry your shoes and a swimsuit if you plan to wade in the pools.
 aiGenerated: true
 draft: false
 ---

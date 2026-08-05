@@ -1,13 +1,13 @@
 ---
-title: "Leopold Cafe: Mumbai Travel Guide (4.2★)"
+title: 'Leopold Cafe: Mumbai Travel Guide (4.2★)'
 description: Leopold Cafe is the landmark 1871 bar-restaurant on Colaba Causeway, open daily 7:30am–12:30am, serving everything from omelettes to butter chicken to cold beer under slow ceiling fans and mirrored walls. 4.2★ (32,717 reviews) — what visitors say, hours, and tips.
 country: India
 region: Mumbai
 category: trendy
-pubDate: "2026-08-03T11:02:29.373Z"
+pubDate: '2026-08-03T11:02:29.373Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LeopoldCafe_gobeirne.jpg/1920px-LeopoldCafe_gobeirne.jpg
-  credit: "Photo: Photograph by Greg O'Beirne / Wikimedia Commons (CC BY-SA 3.0)"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LeopoldCafe_gobeirne.jpg/1920px-LeopoldCafe_gobeirne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Photograph by Greg O''Beirne / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:LeopoldCafe_gobeirne.jpg
 gallery: []
@@ -24,13 +24,13 @@ place:
   lng: 72.83166589999999
   phone: +91 85858 28201
   openingHours:
-    - "Monday: 7:30 AM – 12:30 AM"
-    - "Tuesday: 7:30 AM – 12:30 AM"
-    - "Wednesday: 7:30 AM – 12:30 AM"
-    - "Thursday: 7:30 AM – 12:30 AM"
-    - "Friday: 7:30 AM – 12:30 AM"
-    - "Saturday: 7:30 AM – 12:30 AM"
-    - "Sunday: 7:30 AM – 12:30 AM"
+    - 'Monday: 7:30 AM – 12:30 AM'
+    - 'Tuesday: 7:30 AM – 12:30 AM'
+    - 'Wednesday: 7:30 AM – 12:30 AM'
+    - 'Thursday: 7:30 AM – 12:30 AM'
+    - 'Friday: 7:30 AM – 12:30 AM'
+    - 'Saturday: 7:30 AM – 12:30 AM'
+    - 'Sunday: 7:30 AM – 12:30 AM'
   busyness:
     updated: 2026-08-03T00:00:00.000Z
     weekdayQuiet:

@@ -8,7 +8,7 @@ eventStartDate: 2026-07-30T00:00:00.000Z
 eventEndDate: 2026-08-02T00:00:00.000Z
 pubDate: '2026-07-21'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/NewDad_Lollapalooza_2025.png/1920px-NewDad_Lollapalooza_2025.png
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/NewDad_Lollapalooza_2025.png/1920px-NewDad_Lollapalooza_2025.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Ben1we / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:NewDad_Lollapalooza_2025.png

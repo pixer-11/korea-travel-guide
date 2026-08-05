@@ -6,14 +6,10 @@ region: Hangzhou
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/West_Lake_%28Xi_Hu%29_at_Hangzhou_%282790838851%29.jpg/1920px-West_Lake_%28Xi_Hu%29_at_Hangzhou_%282790838851%29.jpg
-  credit: >-
-    Photo: Peter Dowley from Dubai, United Arab Emirates / Wikimedia Commons (CC
-    BY 2.0)
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/West_Lake_%28Xi_Hu%29_at_Hangzhou_%282790838851%29.jpg/1920px-West_Lake_%28Xi_Hu%29_at_Hangzhou_%282790838851%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Peter Dowley from Dubai, United Arab Emirates / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:West_Lake_(Xi_Hu)_at_Hangzhou_(2790838851).jpg
+  source: https://commons.wikimedia.org/wiki/File:West_Lake_(Xi_Hu)_at_Hangzhou_(2790838851).jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/West_Lake_-_Hangzhou%2C_China.jpg/1920px-West_Lake_-_Hangzhou%2C_China.jpg
     credit: 'Photo: Louisa Salazar / Wikimedia Commons (CC BY-SA 3.0)'
@@ -22,51 +18,27 @@ gallery:
 place:
   id: ChIJy_JJ0cBiSzQRyX7Tz2GI8vA
   name: Xi Lake
-  address: 'Xi Lake, Hangzhou, China'
+  address: Xi Lake, Hangzhou, China
   rating: 4.7
   userRatingsTotal: 1150
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=17362089467146632905&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=17362089467146632905&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   lat: 30.2479326
   lng: 120.15026990000001
 tags:
   - hangzhou
   - West Lake
-quickAnswer: >-
-  West Lake (Xī Hú, sometimes transliterated "Xi Lake") is Hangzhou's freshwater
-  centerpiece and a UNESCO World Heritage Site, best explored on foot or bike
-  along its 15km shoreline path, or by boat to the islands in the middle. Give
-  it a half-day minimum, a full day if you want to circle the whole lake and
-  climb one of the surrounding hills; go at sunrise or just before sunset to
-  avoid the biggest tour crowds. Entry to the lakeside parks and causeways is
-  free — you only pay for boat rides, specific gardens like Lingyin Temple, or
-  bike rental.
+quickAnswer: West Lake (Xī Hú, sometimes transliterated "Xi Lake") is Hangzhou's freshwater centerpiece and a UNESCO World Heritage Site, best explored on foot or bike along its 15km shoreline path, or by boat to the islands in the middle. Give it a half-day minimum, a full day if you want to circle the whole lake and climb one of the surrounding hills; go at sunrise or just before sunset to avoid the biggest tour crowds. Entry to the lakeside parks and causeways is free — you only pay for boat rides, specific gardens like Lingyin Temple, or bike rental.
 faq:
   - q: Is there an entrance fee for West Lake?
-    a: >-
-      No — the lakeside parks, causeways, and paths are free and open to the
-      public. You only pay for specific attractions like boat rides to the
-      islands, Leifeng Pagoda, or Lingyin Temple, plus bike rentals.
+    a: No — the lakeside parks, causeways, and paths are free and open to the public. You only pay for specific attractions like boat rides to the islands, Leifeng Pagoda, or Lingyin Temple, plus bike rentals.
   - q: How do I get to West Lake from Hangzhou East Railway Station?
-    a: >-
-      Take Metro Line 2 to Longxiang Bridge, transfer to Line 1, and walk from
-      the nearest exit, or take a taxi/rideshare directly — about 25-30 minutes
-      depending on traffic.
+    a: Take Metro Line 2 to Longxiang Bridge, transfer to Line 1, and walk from the nearest exit, or take a taxi/rideshare directly — about 25-30 minutes depending on traffic.
   - q: How much time should I budget?
-    a: >-
-      At least half a day for a partial visit (Su Causeway, one temple, one
-      island); a full day (6-8 hours) if you want to circle the entire lake and
-      see Lingyin Temple and Leifeng Pagoda.
+    a: At least half a day for a partial visit (Su Causeway, one temple, one island); a full day (6-8 hours) if you want to circle the entire lake and see Lingyin Temple and Leifeng Pagoda.
   - q: What's the best time of year to visit?
-    a: >-
-      Spring (March-May) and autumn (September-November) offer the most
-      comfortable weather and clearest views; early morning is best for light
-      and fewer crowds year-round.
+    a: Spring (March-May) and autumn (September-November) offer the most comfortable weather and clearest views; early morning is best for light and fewer crowds year-round.
   - q: What food should I try near the lake?
-    a: >-
-      Look for West Lake vinegar fish and beggar's chicken at restaurants along
-      Hubin Road, and sample fresh longjing green tea, grown in the nearby
-      hills, at tea houses around Meijiawu village.
+    a: Look for West Lake vinegar fish and beggar's chicken at restaurants along Hubin Road, and sample fresh longjing green tea, grown in the nearby hills, at tea houses around Meijiawu village.
 aiGenerated: true
 draft: false
 updatedDate: '2026-07-24'

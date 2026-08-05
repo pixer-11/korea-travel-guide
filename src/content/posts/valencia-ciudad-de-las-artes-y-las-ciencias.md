@@ -1,51 +1,65 @@
 ---
-title: "Ciudad de las Artes y las Ciencias: Valencia Travel Guide"
+title: 'Ciudad de las Artes y las Ciencias: Valencia Travel Guide'
 description: The Ciudad de las Artes y las Ciencias is Valencia's futuristic museum-and-park complex at the eastern end of the drained Turia riverbed, built by architects Santiago Calatrava and Félix Candela.
-country: "Spain"
-region: "Valencia"
-category: "attraction"
-pubDate: 2026-07-21
+country: Spain
+region: Valencia
+category: attraction
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Museo_Pr%C3%ADncipe_Felipe%2C_Ciudad_de_las_Artes_y_las_Ciencias%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-29%2C_DD_59.JPG/1920px-Museo_Pr%C3%ADncipe_Felipe%2C_Ciudad_de_las_Artes_y_las_Ciencias%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-29%2C_DD_59.JPG"
-  credit: "Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Museo_Pr%C3%ADncipe_Felipe,_Ciudad_de_las_Artes_y_las_Ciencias,_Valencia,_Espa%C3%B1a,_2014-06-29,_DD_59.JPG"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Museo_Pr%C3%ADncipe_Felipe%2C_Ciudad_de_las_Artes_y_las_Ciencias%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-29%2C_DD_59.JPG/1920px-Museo_Pr%C3%ADncipe_Felipe%2C_Ciudad_de_las_Artes_y_las_Ciencias%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-29%2C_DD_59.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Museo_Pr%C3%ADncipe_Felipe,_Ciudad_de_las_Artes_y_las_Ciencias,_Valencia,_Espa%C3%B1a,_2014-06-29,_DD_59.JPG
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Museo_Pr%C3%ADncipe_Felipe%2C_Ciudad_de_las_Artes_y_las_Ciencias%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-29%2C_DD_56.JPG/1920px-Museo_Pr%C3%ADncipe_Felipe%2C_Ciudad_de_las_Artes_y_las_Ciencias%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-29%2C_DD_56.JPG
     credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Museo_Pr%C3%ADncipe_Felipe,_Ciudad_de_las_Artes_y_las_Ciencias,_Valencia,_Espa%C3%B1a,_2014-06-29,_DD_56.JPG
 place:
-  id: "ChIJgUOb0elIYA0RlPjrpQdE62I"
-  name: "Ciudad de las Artes y las Ciencias"
-  address: "Quatre Carreres, 46013 València, Valencia, Spain"
+  id: ChIJgUOb0elIYA0RlPjrpQdE62I
+  name: Ciudad de las Artes y las Ciencias
+  address: Quatre Carreres, 46013 València, Valencia, Spain
   rating: 4.7
   userRatingsTotal: 153979
-  googleMapsUrl: "https://maps.google.com/?cid=7127865634883106964&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=7127865634883106964&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 39.454875099999995
   lng: -0.3504904
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [19, 20, 21]
-    weekendQuiet: [19, 20, 21]
-    weekendBusy: [11, 12, 13, 14, 15, 16, 17, 18]
-    venueId: 'ven_49323645645170726a506c52304159496c6530624f55674a496843'
+    weekdayQuiet:
+      - 19
+      - 20
+      - 21
+    weekendQuiet:
+      - 19
+      - 20
+      - 21
+    weekendBusy:
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+    venueId: ven_49323645645170726a506c52304159496c6530624f55674a496843
 tags:
-  - "valencia"
-  - "City of Arts and Sciences"
-quickAnswer: "The Ciudad de las Artes y las Ciencias is Valencia's futuristic museum-and-park complex at the eastern end of the drained Turia riverbed, built by architects Santiago Calatrava and Félix Candela. Plan on a half-day for the grounds and photos alone, or a full day if you're adding the Hemisfèric (IMAX/planetarium), the Príncipe Felipe science museum, and the Oceanogràfic aquarium. Buy tickets online in advance for the paid buildings and go early morning or late afternoon in summer to avoid both crowds and the fierce sun on the white concrete."
+  - valencia
+  - City of Arts and Sciences
+quickAnswer: The Ciudad de las Artes y las Ciencias is Valencia's futuristic museum-and-park complex at the eastern end of the drained Turia riverbed, built by architects Santiago Calatrava and Félix Candela. Plan on a half-day for the grounds and photos alone, or a full day if you're adding the Hemisfèric (IMAX/planetarium), the Príncipe Felipe science museum, and the Oceanogràfic aquarium. Buy tickets online in advance for the paid buildings and go early morning or late afternoon in summer to avoid both crowds and the fierce sun on the white concrete.
 faq:
-  - q: "How do I get to the Ciudad de las Artes y las Ciencias without a car?"
-    a: "Take Metro Line 9 to Alameda or Jesús station, then walk 10–15 minutes through the Turia Gardens park; buses 35 and 95 also serve the area."
-  - q: "Do I need to book tickets in advance?"
-    a: "Yes, especially for L'Oceanogràfic and the Hemisfèric/Museu de les Ciències — booking online avoids queues and combined multi-attraction tickets are often cheaper than separate entries."
-  - q: "How much time should I plan for a visit?"
-    a: "Allow 2–3 hours to walk the grounds and photograph the buildings for free; add a half day if you're touring the aquarium and science museum as well."
-  - q: "Is the site worth visiting even without paying for the attractions inside?"
-    a: "Yes — the architecture itself, the reflecting pools, and the free Umbracle garden walkway are major draws, and many visitors come just to walk around and take photos."
-  - q: "What's the best time of day or year to visit?"
-    a: "Early morning or late afternoon are best to avoid heat and crowds, and spring or early autumn offer milder weather than the peak summer months; the complex is also lit up attractively at night."
+  - q: How do I get to the Ciudad de las Artes y las Ciencias without a car?
+    a: Take Metro Line 9 to Alameda or Jesús station, then walk 10–15 minutes through the Turia Gardens park; buses 35 and 95 also serve the area.
+  - q: Do I need to book tickets in advance?
+    a: Yes, especially for L'Oceanogràfic and the Hemisfèric/Museu de les Ciències — booking online avoids queues and combined multi-attraction tickets are often cheaper than separate entries.
+  - q: How much time should I plan for a visit?
+    a: Allow 2–3 hours to walk the grounds and photograph the buildings for free; add a half day if you're touring the aquarium and science museum as well.
+  - q: Is the site worth visiting even without paying for the attractions inside?
+    a: Yes — the architecture itself, the reflecting pools, and the free Umbracle garden walkway are major draws, and many visitors come just to walk around and take photos.
+  - q: What's the best time of day or year to visit?
+    a: Early morning or late afternoon are best to avoid heat and crowds, and spring or early autumn offer milder weather than the peak summer months; the complex is also lit up attractively at night.
 aiGenerated: true
 draft: false
 ---

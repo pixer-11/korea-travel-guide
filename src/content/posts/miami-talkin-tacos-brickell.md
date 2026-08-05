@@ -1,51 +1,51 @@
 ---
-title: "Talkin' Tacos Brickell: Where to Eat in Miami"
+title: 'Talkin'' Tacos Brickell: Where to Eat in Miami'
 description: Talkin' Tacos Brickell is an open-late taco-and-tequila spot at 97 SW 8th St, right on the Brickell/Downtown border a few minutes' walk from the Brickell Metromover station.
-country: "United States"
-region: "Miami"
-category: "restaurant"
-pubDate: "2026-08-01T09:32:51.282Z"
+country: United States
+region: Miami
+category: restaurant
+pubDate: '2026-08-01T09:32:51.282Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Talkin%E2%80%99_Tacos_Mexican_Restaurant_Brickell_-_Miami_Florida%2C_December_2023.jpg/3840px-Talkin%E2%80%99_Tacos_Mexican_Restaurant_Brickell_-_Miami_Florida%2C_December_2023.jpg"
-  credit: "Photo: Phillip Pessar / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Talkin%E2%80%99_Tacos_Mexican_Restaurant_Brickell_-_Miami_Florida,_December_2023.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Talkin%E2%80%99_Tacos_Mexican_Restaurant_Brickell_-_Miami_Florida%2C_December_2023.jpg/1920px-Talkin%E2%80%99_Tacos_Mexican_Restaurant_Brickell_-_Miami_Florida%2C_December_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Phillip Pessar / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Talkin%E2%80%99_Tacos_Mexican_Restaurant_Brickell_-_Miami_Florida,_December_2023.jpg
 gallery: []
 place:
-  id: "ChIJbaS3Gzi32YgRyCror8--auk"
-  name: "Talkin' Tacos Brickell"
-  address: "97 SW 8th St, Miami, FL 33130, USA"
+  id: ChIJbaS3Gzi32YgRyCror8--auk
+  name: Talkin' Tacos Brickell
+  address: 97 SW 8th St, Miami, FL 33130, USA
   rating: 4.6
   userRatingsTotal: 4135
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=16819465557587274440&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=16819465557587274440&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.7665203
   lng: -80.19511589999999
-  phone: '+1 305 602-4816'
+  phone: +1 305 602-4816
   openingHours:
-    - "Monday: 10:00 AM – 2:00 AM"
-    - "Tuesday: 10:00 AM – 2:00 AM"
-    - "Wednesday: 10:00 AM – 2:00 AM"
-    - "Thursday: 10:00 AM – 2:00 AM"
-    - "Friday: 10:00 AM – 2:00 AM"
-    - "Saturday: 10:00 AM – 2:00 AM"
-    - "Sunday: 10:00 AM – 2:00 AM"
+    - 'Monday: 10:00 AM – 2:00 AM'
+    - 'Tuesday: 10:00 AM – 2:00 AM'
+    - 'Wednesday: 10:00 AM – 2:00 AM'
+    - 'Thursday: 10:00 AM – 2:00 AM'
+    - 'Friday: 10:00 AM – 2:00 AM'
+    - 'Saturday: 10:00 AM – 2:00 AM'
+    - 'Sunday: 10:00 AM – 2:00 AM'
 tags:
-  - "miami"
-  - "street food"
-quickAnswer: "Talkin' Tacos Brickell is an open-late taco-and-tequila spot at 97 SW 8th St, right on the Brickell/Downtown border a few minutes' walk from the Brickell Metromover station. It's mid-range, open daily 10am–2am, and best visited either for a late lunch (before noon) or after 10pm if you want to dodge the happy-hour and weekend-brunch crush."
+  - miami
+  - street food
+quickAnswer: Talkin' Tacos Brickell is an open-late taco-and-tequila spot at 97 SW 8th St, right on the Brickell/Downtown border a few minutes' walk from the Brickell Metromover station. It's mid-range, open daily 10am–2am, and best visited either for a late lunch (before noon) or after 10pm if you want to dodge the happy-hour and weekend-brunch crush.
 faq:
-  - q: "How do I get to Talkin' Tacos Brickell without a car?"
-    a: "It's about a five-to-ten-minute walk from the Brickell Metromover station, which connects to the Brickell Metrorail station — both part of Miami's transit system, with the Metromover being free to ride."
-  - q: "What's the best time to avoid a wait?"
-    a: "Go right after opening on a weekday (10am–12pm) for a quiet meal, or after 10pm most nights. Avoid Friday and Saturday from happy hour through midnight, when it's at its busiest."
-  - q: "Is Talkin' Tacos Brickell expensive?"
-    a: "It's mid-range for Miami — pricier than a street taqueria but well below Brickell's steakhouse and hotel-restaurant tier. Expect to order several small plates per person."
-  - q: "Do I need a reservation?"
-    a: "Walk-ins are standard and the norm here, though weekend nights often mean a short wait at the door — putting your name down and having a drink at the bar is typical while you wait."
-  - q: "What else is nearby?"
-    a: "The location straddles Brickell and Downtown Miami, close to the Brickell financial district's towers, the Miami River, and easy Metromover access to Brickell City Centre for a post-dinner walk."
+  - q: How do I get to Talkin' Tacos Brickell without a car?
+    a: It's about a five-to-ten-minute walk from the Brickell Metromover station, which connects to the Brickell Metrorail station — both part of Miami's transit system, with the Metromover being free to ride.
+  - q: What's the best time to avoid a wait?
+    a: Go right after opening on a weekday (10am–12pm) for a quiet meal, or after 10pm most nights. Avoid Friday and Saturday from happy hour through midnight, when it's at its busiest.
+  - q: Is Talkin' Tacos Brickell expensive?
+    a: It's mid-range for Miami — pricier than a street taqueria but well below Brickell's steakhouse and hotel-restaurant tier. Expect to order several small plates per person.
+  - q: Do I need a reservation?
+    a: Walk-ins are standard and the norm here, though weekend nights often mean a short wait at the door — putting your name down and having a drink at the bar is typical while you wait.
+  - q: What else is nearby?
+    a: The location straddles Brickell and Downtown Miami, close to the Brickell financial district's towers, the Miami River, and easy Metromover access to Brickell City Centre for a post-dinner walk.
 aiGenerated: true
 draft: false
 ---

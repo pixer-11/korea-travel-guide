@@ -1,53 +1,53 @@
 ---
-title: "Hawa Mahal: Jaipur Travel Guide"
+title: 'Hawa Mahal: Jaipur Travel Guide'
 description: Hawa Mahal is the pink, five-story honeycomb facade on Badi Choupad in Jaipur's Old City — come right at opening (9am) or in the last hour before closing to beat the tour-bus crowds, and budget 45 minutes to an hour inside.
-country: "India"
-region: "Jaipur"
-category: "attraction"
-pubDate: "2026-07-26T07:14:57.294Z"
+country: India
+region: Jaipur
+category: attraction
+pubDate: '2026-07-26T07:14:57.294Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/East_facade_Hawa_Mahal_Jaipur_from_ground_level_%28July_2022%29_-_img_01.jpg/1920px-East_facade_Hawa_Mahal_Jaipur_from_ground_level_%28July_2022%29_-_img_01.jpg"
-  credit: "Photo: Chainwit. / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:East_facade_Hawa_Mahal_Jaipur_from_ground_level_(July_2022)_-_img_01.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/East_facade_Hawa_Mahal_Jaipur_from_ground_level_%28July_2022%29_-_img_01.jpg/1920px-East_facade_Hawa_Mahal_Jaipur_from_ground_level_%28July_2022%29_-_img_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Chainwit. / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:East_facade_Hawa_Mahal_Jaipur_from_ground_level_(July_2022)_-_img_01.jpg
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/37324048_jVm_ZYRKNs7Kky49J9Wvy4il9JmqlOtR3NNdLV796s4.jpg
     credit: 'Photo: Foursquare user content (Hawa Mahal)'
     license: foursquare
     source: https://foursquare.com/v/4f1d22f8e4b044fd373c32bb
 place:
-  id: "ChIJpQvTG0uxbTkRDLLMHlNdDoY"
-  name: "Hawa Mahal"
-  address: "Hawa Mahal Rd, Badi Choupad, J.D.A. Market, Kanwar Nagar, Jaipur, Rajasthan 302002, India"
+  id: ChIJpQvTG0uxbTkRDLLMHlNdDoY
+  name: Hawa Mahal
+  address: Hawa Mahal Rd, Badi Choupad, J.D.A. Market, Kanwar Nagar, Jaipur, Rajasthan 302002, India
   rating: 4.5
   userRatingsTotal: 166088
-  googleMapsUrl: "https://maps.google.com/?cid=9659760862336692748&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=9659760862336692748&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 26.9240458
   lng: 75.8267144
   openingHours:
-    - "Monday: 9:00 AM – 7:00 PM"
-    - "Tuesday: 9:00 AM – 7:00 PM"
-    - "Wednesday: 9:00 AM – 7:00 PM"
-    - "Thursday: 9:00 AM – 7:00 PM"
-    - "Friday: 9:00 AM – 7:00 PM"
-    - "Saturday: 9:00 AM – 7:00 PM"
-    - "Sunday: 9:00 AM – 7:00 PM"
+    - 'Monday: 9:00 AM – 7:00 PM'
+    - 'Tuesday: 9:00 AM – 7:00 PM'
+    - 'Wednesday: 9:00 AM – 7:00 PM'
+    - 'Thursday: 9:00 AM – 7:00 PM'
+    - 'Friday: 9:00 AM – 7:00 PM'
+    - 'Saturday: 9:00 AM – 7:00 PM'
+    - 'Sunday: 9:00 AM – 7:00 PM'
 tags:
-  - "jaipur"
-  - "top attraction"
-quickAnswer: "Hawa Mahal is the pink, five-story honeycomb facade on Badi Choupad in Jaipur's Old City — come right at opening (9am) or in the last hour before closing to beat the tour-bus crowds, and budget 45 minutes to an hour inside. The entrance is around the back on Tripolia Bazaar Road, not through the famous street-facing wall, so don't waste time looking for a door in the photo-op facade itself."
+  - jaipur
+  - top attraction
+quickAnswer: Hawa Mahal is the pink, five-story honeycomb facade on Badi Choupad in Jaipur's Old City — come right at opening (9am) or in the last hour before closing to beat the tour-bus crowds, and budget 45 minutes to an hour inside. The entrance is around the back on Tripolia Bazaar Road, not through the famous street-facing wall, so don't waste time looking for a door in the photo-op facade itself.
 faq:
-  - q: "How do I get inside Hawa Mahal — where's the entrance?"
-    a: "Not through the famous street-facing wall. The ticketed entrance is around the corner via Tripolia Bazaar Road; look for the entry gate there rather than searching the honeycomb facade."
-  - q: "How long should I spend at Hawa Mahal?"
-    a: "Around 45 minutes to an hour is enough to walk the ramps, reach the upper windows, and see the small museum near the entrance."
-  - q: "What's the best time of day to visit?"
-    a: "Right at opening in the morning, when the east-facing facade catches direct sun and crowds are thinnest; the last hour before closing is the other quieter window. Midday tends to be busiest with tour buses."
-  - q: "Can I combine Hawa Mahal with other sights nearby?"
-    a: "Yes — City Palace and Jantar Mantar are both within easy walking distance in the same Old City pink quarter, making it simple to see all three in one outing."
-  - q: "Do I need to pay to photograph the facade?"
-    a: "No — the iconic pink wall is visible and photographable for free from the public street; you only pay to enter the interior and climb up to the windows."
+  - q: How do I get inside Hawa Mahal — where's the entrance?
+    a: Not through the famous street-facing wall. The ticketed entrance is around the corner via Tripolia Bazaar Road; look for the entry gate there rather than searching the honeycomb facade.
+  - q: How long should I spend at Hawa Mahal?
+    a: Around 45 minutes to an hour is enough to walk the ramps, reach the upper windows, and see the small museum near the entrance.
+  - q: What's the best time of day to visit?
+    a: Right at opening in the morning, when the east-facing facade catches direct sun and crowds are thinnest; the last hour before closing is the other quieter window. Midday tends to be busiest with tour buses.
+  - q: Can I combine Hawa Mahal with other sights nearby?
+    a: Yes — City Palace and Jantar Mantar are both within easy walking distance in the same Old City pink quarter, making it simple to see all three in one outing.
+  - q: Do I need to pay to photograph the facade?
+    a: No — the iconic pink wall is visible and photographable for free from the public street; you only pay to enter the interior and climb up to the windows.
 aiGenerated: true
 draft: false
 ---

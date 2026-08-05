@@ -6,7 +6,7 @@ region: Seoul
 category: attraction
 pubDate: '2026-08-04T10:32:24.776Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Yeouido_Park_Pond_201604.jpg/1920px-Yeouido_Park_Pond_201604.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Yeouido_Park_Pond_201604.jpg/1920px-Yeouido_Park_Pond_201604.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Wpcpey / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Yeouido_Park_Pond_201604.jpg

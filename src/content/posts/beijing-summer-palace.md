@@ -1,55 +1,55 @@
 ---
-title: "Summer Palace: Beijing Travel Guide"
+title: 'Summer Palace: Beijing Travel Guide'
 description: Give the Summer Palace a full morning to early afternoon — enter at the East Gate (Dongong Men), walk the Long Corridor, climb to the Tower of Buddhist Incense on Longevity Hill, then loop back along Kunming Lake.
-country: "China"
-region: "Beijing"
-category: "attraction"
-pubDate: "2026-07-27T10:53:03.141Z"
+country: China
+region: Beijing
+category: attraction
+pubDate: '2026-07-27T10:53:03.141Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Longevity_Hill_of_the_Summer_Palace.jpg/1920px-Longevity_Hill_of_the_Summer_Palace.jpg"
-  credit: "Photo: xiquinhosilva / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Longevity_Hill_of_the_Summer_Palace.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Longevity_Hill_of_the_Summer_Palace.jpg/1920px-Longevity_Hill_of_the_Summer_Palace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: xiquinhosilva / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Longevity_Hill_of_the_Summer_Palace.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/20090530_Beijing_Summer_Palace_8467.jpg/1920px-20090530_Beijing_Summer_Palace_8467.jpg
     credit: 'Photo: Jakub Hałun / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:20090530_Beijing_Summer_Palace_8467.jpg
 place:
-  id: "ChIJP4_Ducf4AjQRMqEETHex2UU"
-  name: "Summer Palace"
-  address: "Haidian District, China, 100091"
+  id: ChIJP4_Ducf4AjQRMqEETHex2UU
+  name: Summer Palace
+  address: Haidian District, China, 100091
   rating: 4.6
   userRatingsTotal: 9966
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=5033249184497836338&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=5033249184497836338&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 39.9999823
   lng: 116.27546059999999
-  phone: '+86 10 6288 1144'
+  phone: +86 10 6288 1144
   openingHours:
-    - "Monday: 6:00 AM – 8:00 PM"
-    - "Tuesday: 6:00 AM – 8:00 PM"
-    - "Wednesday: 6:00 AM – 8:00 PM"
-    - "Thursday: 6:00 AM – 8:00 PM"
-    - "Friday: 6:00 AM – 8:00 PM"
-    - "Saturday: 6:00 AM – 8:00 PM"
-    - "Sunday: 6:00 AM – 8:00 PM"
+    - 'Monday: 6:00 AM – 8:00 PM'
+    - 'Tuesday: 6:00 AM – 8:00 PM'
+    - 'Wednesday: 6:00 AM – 8:00 PM'
+    - 'Thursday: 6:00 AM – 8:00 PM'
+    - 'Friday: 6:00 AM – 8:00 PM'
+    - 'Saturday: 6:00 AM – 8:00 PM'
+    - 'Sunday: 6:00 AM – 8:00 PM'
 tags:
-  - "beijing"
-  - "Summer Palace"
-quickAnswer: "Give the Summer Palace a full morning to early afternoon — enter at the East Gate (Dongong Men), walk the Long Corridor, climb to the Tower of Buddhist Incense on Longevity Hill, then loop back along Kunming Lake. It's a very popular site (4.6 rating from nearly 10,000 reviews), so arrive right at opening or after 3pm to avoid the worst crowds, and budget 3-4 hours minimum."
+  - beijing
+  - Summer Palace
+quickAnswer: Give the Summer Palace a full morning to early afternoon — enter at the East Gate (Dongong Men), walk the Long Corridor, climb to the Tower of Buddhist Incense on Longevity Hill, then loop back along Kunming Lake. It's a very popular site (4.6 rating from nearly 10,000 reviews), so arrive right at opening or after 3pm to avoid the worst crowds, and budget 3-4 hours minimum.
 faq:
-  - q: "How do I get to the Summer Palace by subway?"
-    a: "Take Line 4 to Beigongmen Station for the North Palace Gate, or Xiyuan Station for the New Summer Palace Gate. Both put you within a short walk of an entrance."
-  - q: "How much time should I budget?"
-    a: "Plan on 3-4 hours for the highlights (Long Corridor, Longevity Hill, Kunming Lake), or a full day if you want to walk the entire lakeshore and visit the smaller temples and gardens."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Go right at opening in the morning or after 3pm. It's a very popular, heavily-visited landmark, so midday and weekends see the heaviest traffic, especially near the East Gate."
-  - q: "Do I need to book tickets in advance?"
-    a: "It's not strictly required but strongly recommended — book through the official ticketing channel or a trusted app to skip the entrance queue, especially in spring and autumn peak season."
-  - q: "What else is nearby?"
-    a: "The Old Summer Palace (Yuanmingyuan) ruins are a short trip away and pair well with a Summer Palace visit, and Peking University and Tsinghua University campuses are both close by in Haidian District."
+  - q: How do I get to the Summer Palace by subway?
+    a: Take Line 4 to Beigongmen Station for the North Palace Gate, or Xiyuan Station for the New Summer Palace Gate. Both put you within a short walk of an entrance.
+  - q: How much time should I budget?
+    a: Plan on 3-4 hours for the highlights (Long Corridor, Longevity Hill, Kunming Lake), or a full day if you want to walk the entire lakeshore and visit the smaller temples and gardens.
+  - q: When is the best time to visit to avoid crowds?
+    a: Go right at opening in the morning or after 3pm. It's a very popular, heavily-visited landmark, so midday and weekends see the heaviest traffic, especially near the East Gate.
+  - q: Do I need to book tickets in advance?
+    a: It's not strictly required but strongly recommended — book through the official ticketing channel or a trusted app to skip the entrance queue, especially in spring and autumn peak season.
+  - q: What else is nearby?
+    a: The Old Summer Palace (Yuanmingyuan) ruins are a short trip away and pair well with a Summer Palace visit, and Peking University and Tsinghua University campuses are both close by in Haidian District.
 aiGenerated: true
 draft: false
 ---

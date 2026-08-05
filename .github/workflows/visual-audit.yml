@@ -46,6 +46,14 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
       - name: Commit audit state
+        # ALWAYS. The audit writes its verdict store once, after the whole loop,
+        # and quarantines heroes in place as it goes — so one Anthropic 429 at
+        # post 200 of 250 threw away all 200 verdicts AND the quarantines, while
+        # the generic failure alert told the owner it would "recover by itself
+        # next run". It could not: nothing was committed, so the queue never
+        # advanced. That is the mechanism behind the 239-post backlog this
+        # workflow's own header describes (found 2026-08-06).
+        if: always()
         run: |
           git config user.name "content-bot"
           git config user.email "bot@users.noreply.github.com"

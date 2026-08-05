@@ -1,54 +1,54 @@
 ---
-title: "Dome of Light: Kaohsiung Travel Guide"
+title: 'Dome of Light: Kaohsiung Travel Guide'
 description: The Dome of Light is the giant stained-glass ceiling at Formosa Boulevard Station (美麗島站) on Kaohsiung's MRT Red/Orange line interchange, right at Exit 4/near Exit 1, one level below street level.
-country: "Taiwan"
-region: "Kaohsiung"
-category: "hidden-gem"
-pubDate: "2026-07-30T09:51:14.227Z"
+country: Taiwan
+region: Kaohsiung
+category: hidden-gem
+pubDate: '2026-07-30T09:51:14.227Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dome_of_Light%2C_Kaohsiung%2C_May_2026.jpg/3840px-Dome_of_Light%2C_Kaohsiung%2C_May_2026.jpg"
-  credit: "Photo: Ralff Nestor Nacor / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Dome_of_Light,_Kaohsiung,_May_2026.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dome_of_Light%2C_Kaohsiung%2C_May_2026.jpg/1920px-Dome_of_Light%2C_Kaohsiung%2C_May_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Ralff Nestor Nacor / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Dome_of_Light,_Kaohsiung,_May_2026.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Kaohsiung_Taiwan_Dome-of-Light-01.jpg/3840px-Kaohsiung_Taiwan_Dome-of-Light-01.jpg"
-    credit: "Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Kaohsiung_Taiwan_Dome-of-Light-01.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Kaohsiung_Taiwan_Dome-of-Light-01.jpg/3840px-Kaohsiung_Taiwan_Dome-of-Light-01.jpg
+    credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Kaohsiung_Taiwan_Dome-of-Light-01.jpg
 place:
-  id: "ChIJKTktNo4EbjQRoRKMt38KIUY"
-  name: "Dome of Light"
-  address: "800, Taiwan, Kaohsiung City, Sinsing District, Mingzhuang Village, Zhongshan 1st Rd, 115號B1"
+  id: ChIJKTktNo4EbjQRoRKMt38KIUY
+  name: Dome of Light
+  address: 800, Taiwan, Kaohsiung City, Sinsing District, Mingzhuang Village, Zhongshan 1st Rd, 115號B1
   rating: 4.4
   userRatingsTotal: 4577
-  googleMapsUrl: "https://maps.google.com/?cid=5053331800542941857&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=5053331800542941857&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.631365199999998
   lng: 120.3019167
-  phone: '+886 7 793 8888'
+  phone: +886 7 793 8888
   openingHours:
-    - "Monday: 6:00 AM – 12:00 AM"
-    - "Tuesday: 6:00 AM – 12:00 AM"
-    - "Wednesday: 6:00 AM – 12:00 AM"
-    - "Thursday: 6:00 AM – 12:00 AM"
-    - "Friday: 6:00 AM – 12:00 AM"
-    - "Saturday: 6:00 AM – 12:00 AM"
-    - "Sunday: 6:00 AM – 12:00 AM"
+    - 'Monday: 6:00 AM – 12:00 AM'
+    - 'Tuesday: 6:00 AM – 12:00 AM'
+    - 'Wednesday: 6:00 AM – 12:00 AM'
+    - 'Thursday: 6:00 AM – 12:00 AM'
+    - 'Friday: 6:00 AM – 12:00 AM'
+    - 'Saturday: 6:00 AM – 12:00 AM'
+    - 'Sunday: 6:00 AM – 12:00 AM'
 tags:
-  - "kaohsiung"
-  - "hidden gem"
-quickAnswer: "The Dome of Light is the giant stained-glass ceiling at Formosa Boulevard Station (美麗島站) on Kaohsiung's MRT Red/Orange line interchange, right at Exit 4/near Exit 1, one level below street level. It's open the same hours as the station, effectively 6am–midnight daily, and it's free to view any time you pass through — no ticket, no separate entrance. Go on a weekday mid-morning or mid-afternoon to see the glass lit without the scrum of tour groups, and swing by again after dark when the interior lighting show reshuffles the colors."
+  - kaohsiung
+  - hidden gem
+quickAnswer: The Dome of Light is the giant stained-glass ceiling at Formosa Boulevard Station (美麗島站) on Kaohsiung's MRT Red/Orange line interchange, right at Exit 4/near Exit 1, one level below street level. It's open the same hours as the station, effectively 6am–midnight daily, and it's free to view any time you pass through — no ticket, no separate entrance. Go on a weekday mid-morning or mid-afternoon to see the glass lit without the scrum of tour groups, and swing by again after dark when the interior lighting show reshuffles the colors.
 faq:
-  - q: "Is there an entrance fee for the Dome of Light?"
-    a: "No separate ticket — it's inside the paid area of Formosa Boulevard MRT station, so you just pay the standard MRT fare (EasyCard or token) to pass through the gates and view it."
-  - q: "What's the best time of day to visit?"
-    a: "Weekday mid-morning to mid-afternoon is calmest, since rush-hour commuters (early morning and early evening) move through quickly and don't linger. Evenings bring more visitors specifically there for photos."
-  - q: "How long should I spend there?"
-    a: "Most people spend 15–30 minutes: a few minutes to take in the dome, plus time to circle the concourse, read the panel descriptions, and catch the light show if one's running."
-  - q: "How do I get there from the High Speed Rail station?"
-    a: "Take the Red Line from Zuoying HSR station directly to Formosa Boulevard Station — no transfers needed since it's on the same line."
-  - q: "What else is nearby worth combining with this stop?"
-    a: "The Kaohsiung History Museum and the Wufu Road area are both within easy walking distance, and Xinxing District has plenty of night-market-style food stalls around the station exits."
+  - q: Is there an entrance fee for the Dome of Light?
+    a: No separate ticket — it's inside the paid area of Formosa Boulevard MRT station, so you just pay the standard MRT fare (EasyCard or token) to pass through the gates and view it.
+  - q: What's the best time of day to visit?
+    a: Weekday mid-morning to mid-afternoon is calmest, since rush-hour commuters (early morning and early evening) move through quickly and don't linger. Evenings bring more visitors specifically there for photos.
+  - q: How long should I spend there?
+    a: 'Most people spend 15–30 minutes: a few minutes to take in the dome, plus time to circle the concourse, read the panel descriptions, and catch the light show if one''s running.'
+  - q: How do I get there from the High Speed Rail station?
+    a: Take the Red Line from Zuoying HSR station directly to Formosa Boulevard Station — no transfers needed since it's on the same line.
+  - q: What else is nearby worth combining with this stop?
+    a: The Kaohsiung History Museum and the Wufu Road area are both within easy walking distance, and Xinxing District has plenty of night-market-style food stalls around the station exits.
 aiGenerated: true
 draft: false
 ---

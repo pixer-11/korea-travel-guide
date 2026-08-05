@@ -1,52 +1,76 @@
 ---
-title: "Nara Park: Travel Guide"
+title: 'Nara Park: Travel Guide'
 description: Nara Park is a sprawling public park in central Nara famous for over 1,000 free-roaming, bowing sika deer and the temples that ring its edges — Todai-ji, Kasuga Taisha, and Kofuku-ji.
-country: "Japan"
-region: "Nara"
-category: "attraction"
-pubDate: 2026-07-21
+country: Japan
+region: Nara
+category: attraction
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Nara_Park_-_panoramio_%282%29.jpg/1920px-Nara_Park_-_panoramio_%282%29.jpg"
-  credit: "Photo: Feri88 / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Nara_Park_-_panoramio_(2).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Nara_Park_-_panoramio_%282%29.jpg/1920px-Nara_Park_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Feri88 / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Nara_Park_-_panoramio_(2).jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Deer_%28Cervus_nippon_centralis%29_drinking_from_a_ditch%2C_Nara_Park%2C_Nara%2C_2016.jpg/1920px-Deer_%28Cervus_nippon_centralis%29_drinking_from_a_ditch%2C_Nara_Park%2C_Nara%2C_2016.jpg
     credit: 'Photo: DimiTalen / Wikimedia Commons (CC0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Deer_(Cervus_nippon_centralis)_drinking_from_a_ditch,_Nara_Park,_Nara,_2016.jpg
 place:
-  id: "ChIJYWCMvZY5AWARVnREV_OsbPk"
-  name: "Nara Park"
-  address: "Nara, Japan"
+  id: ChIJYWCMvZY5AWARVnREV_OsbPk
+  name: Nara Park
+  address: Nara, Japan
   rating: 4.6
   userRatingsTotal: 75018
-  googleMapsUrl: "https://maps.google.com/?cid=17972930374069941334&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=17972930374069941334&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.685047
   lng: 135.843012
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [7, 20, 21, 22]
-    weekdayBusy: [10, 11, 12, 13, 14, 15, 16]
-    weekendQuiet: [7, 20, 21, 22]
-    weekendBusy: [9, 10, 11, 12, 13, 14, 15, 16, 17]
-    venueId: 'ven_6b5062734f5f5645526e565241574135595a764d4357594a496843'
+    weekdayQuiet:
+      - 7
+      - 20
+      - 21
+      - 22
+    weekdayBusy:
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+    weekendQuiet:
+      - 7
+      - 20
+      - 21
+      - 22
+    weekendBusy:
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+    venueId: ven_6b5062734f5f5645526e565241574135595a764d4357594a496843
 tags:
-  - "nara"
-  - "top attraction"
-quickAnswer: "Nara Park is a sprawling public park in central Nara famous for over 1,000 free-roaming, bowing sika deer and the temples that ring its edges — Todai-ji, Kasuga Taisha, and Kofuku-ji. Plan a half-day to full day on foot, buy a stack of shika senbei (deer crackers) for around ¥200, and go early morning to avoid tour-bus crowds. It's a 5-minute walk from Kintetsu Nara Station or about 20 minutes from JR Nara Station."
+  - nara
+  - top attraction
+quickAnswer: Nara Park is a sprawling public park in central Nara famous for over 1,000 free-roaming, bowing sika deer and the temples that ring its edges — Todai-ji, Kasuga Taisha, and Kofuku-ji. Plan a half-day to full day on foot, buy a stack of shika senbei (deer crackers) for around ¥200, and go early morning to avoid tour-bus crowds. It's a 5-minute walk from Kintetsu Nara Station or about 20 minutes from JR Nara Station.
 faq:
-  - q: "How do I get to Nara Park?"
-    a: "Walk about 5 minutes east from Kintetsu Nara Station, or about 20 minutes from JR Nara Station (buses also run along the main park routes). From Kyoto or Osaka, it's roughly 40-50 minutes by train."
-  - q: "Is Nara Park free to enter?"
-    a: "Yes, the park itself is free and open at all hours. Individual sites inside it, like Todai-ji's Great Buddha Hall and the Nara National Museum, charge separate admission."
-  - q: "How long should I spend there?"
-    a: "A half day covers the deer areas and Todai-ji; a full day lets you add Kasuga Taisha, Kofuku-ji, the National Museum, and a walk through nearby Naramachi."
-  - q: "Are the deer safe to approach?"
-    a: "Generally yes — they're accustomed to people and will bow for crackers — but they can nip, push, or headbutt if you're holding food and hesitate, so hand crackers over promptly and keep other food out of sight."
-  - q: "When is the best time to visit?"
-    a: "Early morning for fewer crowds; November for autumn foliage around Todai-ji and Kasuga Taisha; late March-early April for cherry blossoms."
+  - q: How do I get to Nara Park?
+    a: Walk about 5 minutes east from Kintetsu Nara Station, or about 20 minutes from JR Nara Station (buses also run along the main park routes). From Kyoto or Osaka, it's roughly 40-50 minutes by train.
+  - q: Is Nara Park free to enter?
+    a: Yes, the park itself is free and open at all hours. Individual sites inside it, like Todai-ji's Great Buddha Hall and the Nara National Museum, charge separate admission.
+  - q: How long should I spend there?
+    a: A half day covers the deer areas and Todai-ji; a full day lets you add Kasuga Taisha, Kofuku-ji, the National Museum, and a walk through nearby Naramachi.
+  - q: Are the deer safe to approach?
+    a: Generally yes — they're accustomed to people and will bow for crackers — but they can nip, push, or headbutt if you're holding food and hesitate, so hand crackers over promptly and keep other food out of sight.
+  - q: When is the best time to visit?
+    a: Early morning for fewer crowds; November for autumn foliage around Todai-ji and Kasuga Taisha; late March-early April for cherry blossoms.
 aiGenerated: true
 draft: false
 ---

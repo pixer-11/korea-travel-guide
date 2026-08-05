@@ -1,53 +1,53 @@
 ---
-title: "Paseo de La Concha: San Sebastian Travel Guide"
+title: 'Paseo de La Concha: San Sebastian Travel Guide'
 description: Paseo de La Concha is San Sebastián's grand curved seafront promenade running from the harbor and Monte Urgull to Ondarreta beach at the foot of Monte Igueldo.
-country: "Spain"
-region: "San Sebastian"
-category: "attraction"
-pubDate: "2026-07-26T08:30:18.787Z"
+country: Spain
+region: San Sebastian
+category: attraction
+pubDate: '2026-07-26T08:30:18.787Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/San_Sebastian%2C_Espanha%2C_inicio_do_S%C3%A9c._XX%2C_Paseo_de_la_Concha%2C_Arquivo_de_Villa_Maria%2C_Angra_do_Hero%C3%ADsmo%2C_A%C3%A7ores..jpg/1920px-San_Sebastian%2C_Espanha%2C_inicio_do_S%C3%A9c._XX%2C_Paseo_de_la_Concha%2C_Arquivo_de_Villa_Maria%2C_Angra_do_Hero%C3%ADsmo%2C_A%C3%A7ores..jpg"
-  credit: "Photo: Unknown authorUnknown author / Wikimedia Commons (Public domain)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:San_Sebastian,_Espanha,_inicio_do_S%C3%A9c._XX,_Paseo_de_la_Concha,_Arquivo_de_Villa_Maria,_Angra_do_Hero%C3%ADsmo,_A%C3%A7ores..jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/San_Sebastian%2C_Espanha%2C_inicio_do_S%C3%A9c._XX%2C_Paseo_de_la_Concha%2C_Arquivo_de_Villa_Maria%2C_Angra_do_Hero%C3%ADsmo%2C_A%C3%A7ores..jpg/1920px-San_Sebastian%2C_Espanha%2C_inicio_do_S%C3%A9c._XX%2C_Paseo_de_la_Concha%2C_Arquivo_de_Villa_Maria%2C_Angra_do_Hero%C3%ADsmo%2C_A%C3%A7ores..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Unknown authorUnknown author / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:San_Sebastian,_Espanha,_inicio_do_S%C3%A9c._XX,_Paseo_de_la_Concha,_Arquivo_de_Villa_Maria,_Angra_do_Hero%C3%ADsmo,_A%C3%A7ores..jpg
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/2757545_Gpwf0QeqiyAuVkcxNVR3dJ_e3lLxXB4RLxScgf-Gmu4.jpg
     credit: 'Photo: Foursquare user content (Café de La Concha)'
     license: foursquare
     source: https://foursquare.com/v/4bd6e0694e32d13acf39c380
 place:
-  id: "ChIJP_E2zau6UQ0R7b-CzcGsb8Y"
-  name: "Paseo de La Concha"
-  address: "Kontxa Pasealekua, 20007 Donostia / San Sebastián, Gipuzkoa, Spain"
+  id: ChIJP_E2zau6UQ0R7b-CzcGsb8Y
+  name: Paseo de La Concha
+  address: Kontxa Pasealekua, 20007 Donostia / San Sebastián, Gipuzkoa, Spain
   rating: 4.8
   userRatingsTotal: 2923
-  googleMapsUrl: "https://maps.google.com/?cid=14298837290301177837&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=14298837290301177837&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.3144134
   lng: -1.9914711
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "san sebastian"
-  - "top attraction"
-quickAnswer: "Paseo de La Concha is San Sebastián's grand curved seafront promenade running from the harbor and Monte Urgull to Ondarreta beach at the foot of Monte Igueldo. Walk it in the morning or at sunset, when the light on La Concha bay and Isla de Santa Clara is best, and pace yourself over 45-60 minutes if you're just strolling, longer if you stop to swim or people-watch. It's free, open around the clock, and well-known, so avoid the midday cluster of tour groups if you want the wide-open ocean view to yourself."
+  - san sebastian
+  - top attraction
+quickAnswer: Paseo de La Concha is San Sebastián's grand curved seafront promenade running from the harbor and Monte Urgull to Ondarreta beach at the foot of Monte Igueldo. Walk it in the morning or at sunset, when the light on La Concha bay and Isla de Santa Clara is best, and pace yourself over 45-60 minutes if you're just strolling, longer if you stop to swim or people-watch. It's free, open around the clock, and well-known, so avoid the midday cluster of tour groups if you want the wide-open ocean view to yourself.
 faq:
-  - q: "How long does it take to walk Paseo de La Concha?"
-    a: "The full curve from the Old Town/harbor end to Ondarreta beach is about 2 km and takes 30-45 minutes at a steady walk, or an hour-plus if you stop to swim, sit, or detour to Isla de Santa Clara views."
-  - q: "Is there an entrance fee?"
-    a: "No — it's a free, open public promenade accessible 24 hours a day, with no gates or tickets."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Early morning before 9am is quietest, especially outside peak summer months. Midday in July and August is the busiest stretch, so aim for early morning or after sunset if you want more open space."
-  - q: "How do I get to Paseo de La Concha from the city center?"
-    a: "It's roughly a 5-10 minute walk from the Old Town via Alderdi Eder gardens, or about 20 minutes on foot from the main bus and train stations; taxis and local buses also stop nearby."
-  - q: "What else is nearby worth combining with the walk?"
-    a: "Monte Urgull and its castle at the eastern end, Isla de Santa Clara just offshore, Ondarreta beach and the Peine del Viento sculptures at the western end, and the funicular up Monte Igueldo beyond that."
+  - q: How long does it take to walk Paseo de La Concha?
+    a: The full curve from the Old Town/harbor end to Ondarreta beach is about 2 km and takes 30-45 minutes at a steady walk, or an hour-plus if you stop to swim, sit, or detour to Isla de Santa Clara views.
+  - q: Is there an entrance fee?
+    a: No — it's a free, open public promenade accessible 24 hours a day, with no gates or tickets.
+  - q: When is the best time to visit to avoid crowds?
+    a: Early morning before 9am is quietest, especially outside peak summer months. Midday in July and August is the busiest stretch, so aim for early morning or after sunset if you want more open space.
+  - q: How do I get to Paseo de La Concha from the city center?
+    a: It's roughly a 5-10 minute walk from the Old Town via Alderdi Eder gardens, or about 20 minutes on foot from the main bus and train stations; taxis and local buses also stop nearby.
+  - q: What else is nearby worth combining with the walk?
+    a: Monte Urgull and its castle at the eastern end, Isla de Santa Clara just offshore, Ondarreta beach and the Peine del Viento sculptures at the western end, and the funicular up Monte Igueldo beyond that.
 aiGenerated: true
 draft: false
 ---

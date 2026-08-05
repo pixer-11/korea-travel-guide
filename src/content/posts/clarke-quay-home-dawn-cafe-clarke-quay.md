@@ -6,7 +6,7 @@ region: Clarke Quay
 category: trendy
 pubDate: '2026-07-23T07:42:44.882Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/2016_-_Singapore_Clarke_Quay_after_Sunset.jpg/1920px-2016_-_Singapore_Clarke_Quay_after_Sunset.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/2016_-_Singapore_Clarke_Quay_after_Sunset.jpg/1920px-2016_-_Singapore_Clarke_Quay_after_Sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: DINS-COM / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:2016_-_Singapore_Clarke_Quay_after_Sunset.jpg
@@ -22,7 +22,7 @@ place:
   lat: 1.2900277999999998
   lng: 103.8448322
   priceLevel: 2
-  phone: '+65 8076 0203'
+  phone: +65 8076 0203
   openingHours:
     - 'Monday: 10:30 AM – 5:00 PM'
     - 'Tuesday: 10:30 AM – 5:00 PM'

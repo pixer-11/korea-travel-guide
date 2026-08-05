@@ -9,7 +9,7 @@ pubDate: '2026-07-29'
 eventStartDate: '2026-08-29'
 eventEndDate: '2026-08-29'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Soudal_Quick-Step_at_stage_3_team_presentation_of_Itzulia_Basque_Country_Tour_2024.jpg/3840px-Soudal_Quick-Step_at_stage_3_team_presentation_of_Itzulia_Basque_Country_Tour_2024.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Soudal_Quick-Step_at_stage_3_team_presentation_of_Itzulia_Basque_Country_Tour_2024.jpg/1920px-Soudal_Quick-Step_at_stage_3_team_presentation_of_Itzulia_Basque_Country_Tour_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Hugo LUC / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Soudal_Quick-Step_at_stage_3_team_presentation_of_Itzulia_Basque_Country_Tour_2024.jpg

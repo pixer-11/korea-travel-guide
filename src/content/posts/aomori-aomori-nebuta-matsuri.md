@@ -8,7 +8,7 @@ pubDate: '2026-07-29'
 eventStartDate: '2026-08-02'
 eventEndDate: '2026-08-07'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Aomori%2C_Nebuta-matsuri_34.jpg/3840px-Aomori%2C_Nebuta-matsuri_34.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Aomori%2C_Nebuta-matsuri_34.jpg/1920px-Aomori%2C_Nebuta-matsuri_34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Marie-Sophie Mejan / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Aomori,_Nebuta-matsuri_34.jpg

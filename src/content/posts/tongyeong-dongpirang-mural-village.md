@@ -5,7 +5,7 @@ region: Tongyeong
 category: hidden-gem
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Korea-Tongyeong-Dongpirang_Village-10.jpg/1920px-Korea-Tongyeong-Dongpirang_Village-10.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Korea-Tongyeong-Dongpirang_Village-10.jpg/1920px-Korea-Tongyeong-Dongpirang_Village-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: by Junho Jung at Flickr from South Korea / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Korea-Tongyeong-Dongpirang_Village-10.jpg

@@ -1,45 +1,45 @@
 ---
-title: "Zhejiang Art Museum: Hangzhou Travel Guide"
-description: "Zhejiang Art Museum sits on Nanshan Road along West Lake's southern shore, a short walk from the Zhongshan Park / Leifeng Pagoda area — free or low-cost to enter (bring ID), best visited on a weekday morning when the galleries are near-empty and the lake path outside is still cool and shaded."
-country: "China"
-region: "Hangzhou"
-category: "attraction"
-pubDate: "2026-08-05T11:09:42.485Z"
+title: 'Zhejiang Art Museum: Hangzhou Travel Guide'
+description: Zhejiang Art Museum sits on Nanshan Road along West Lake's southern shore, a short walk from the Zhongshan Park / Leifeng Pagoda area — free or low-cost to enter (bring ID), best visited on a weekday morning when the galleries are near-empty and the lake path outside is still cool and shaded.
+country: China
+region: Hangzhou
+category: attraction
+pubDate: '2026-08-05T11:09:42.485Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/7/7d/Main_Hall_of_Zhejiang_Museum_Gushan_Branch_2012.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-  credit: "Photo: LukeLOU / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Main_Hall_of_Zhejiang_Museum_Gushan_Branch_2012.JPG"
+  url: https://upload.wikimedia.org/wikipedia/commons/7/7d/Main_Hall_of_Zhejiang_Museum_Gushan_Branch_2012.JPG
+  credit: 'Photo: LukeLOU / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Main_Hall_of_Zhejiang_Museum_Gushan_Branch_2012.JPG
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Liangzhu_Culture_Jade_Ornament_Zhejiang_Provincial_Museum%2C_Wulin_Branch%2C_West_Lake_Cultural_Square%2C_Hangzhou%2C_China.jpg/3840px-Liangzhu_Culture_Jade_Ornament_Zhejiang_Provincial_Museum%2C_Wulin_Branch%2C_West_Lake_Cultural_Square%2C_Hangzhou%2C_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    credit: "Photo: Gary Todd / Wikimedia Commons (CC0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Liangzhu_Culture_Jade_Ornament_Zhejiang_Provincial_Museum,_Wulin_Branch,_West_Lake_Cultural_Square,_Hangzhou,_China.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Liangzhu_Culture_Jade_Ornament_Zhejiang_Provincial_Museum%2C_Wulin_Branch%2C_West_Lake_Cultural_Square%2C_Hangzhou%2C_China.jpg/3840px-Liangzhu_Culture_Jade_Ornament_Zhejiang_Provincial_Museum%2C_Wulin_Branch%2C_West_Lake_Cultural_Square%2C_Hangzhou%2C_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: 'Photo: Gary Todd / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Liangzhu_Culture_Jade_Ornament_Zhejiang_Provincial_Museum,_Wulin_Branch,_West_Lake_Cultural_Square,_Hangzhou,_China.jpg
 place:
-  id: "ChIJqYR5q6tiSzQRrTwPecQQ6AY"
-  name: "Zhejiang Art Museum"
-  address: "138 Nan Shan Lu, Xi Hu Qu, Hang Zhou Shi, Zhe Jiang Sheng, China, 310007"
+  id: ChIJqYR5q6tiSzQRrTwPecQQ6AY
+  name: Zhejiang Art Museum
+  address: 138 Nan Shan Lu, Xi Hu Qu, Hang Zhou Shi, Zhe Jiang Sheng, China, 310007
   rating: 4.5
   userRatingsTotal: 62
-  googleMapsUrl: "https://maps.google.com/?cid=497666194855115949&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=497666194855115949&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 30.231088999999997
   lng: 120.155673
 tags:
-  - "hangzhou"
-  - "museum"
-quickAnswer: "Zhejiang Art Museum sits on Nanshan Road along West Lake's southern shore, a short walk from the Zhongshan Park / Leifeng Pagoda area — free or low-cost to enter (bring ID), best visited on a weekday morning when the galleries are near-empty and the lake path outside is still cool and shaded. Give it 45–90 minutes depending on the current exhibition, then fold it into a wider stroll around the lake."
+  - hangzhou
+  - museum
+quickAnswer: Zhejiang Art Museum sits on Nanshan Road along West Lake's southern shore, a short walk from the Zhongshan Park / Leifeng Pagoda area — free or low-cost to enter (bring ID), best visited on a weekday morning when the galleries are near-empty and the lake path outside is still cool and shaded. Give it 45–90 minutes depending on the current exhibition, then fold it into a wider stroll around the lake.
 faq:
-  - q: "How do I get to Zhejiang Art Museum?"
-    a: "It's at 138 Nan Shan Lu on the southern shore of West Lake, Hangzhou. There's no metro stop right outside, so walk along the lakeside from Leifeng Pagoda or the Su Causeway (10–15 minutes), or take a taxi/bus along Nanshan Road."
-  - q: "How much does it cost to enter?"
-    a: "Admission policies and prices at Chinese public art museums change periodically and sometimes vary by exhibition, so check current admission (many public museums in China are free or low-cost with ID) before you go rather than assuming."
-  - q: "How long should I spend there?"
-    a: "Budget 45 minutes for a quick visit through one or two galleries, or up to 90 minutes if a major exhibition is running and you want to read the calligraphy and labels closely."
-  - q: "When is the best time to visit?"
-    a: "Weekday mornings are calmest, and spring or autumn gives the best light and comfortable walking weather along the lake outside. Avoid midday in peak summer heat if you're combining it with lakeside walking."
-  - q: "What's nearby that I can combine with a visit?"
-    a: "Leifeng Pagoda, the Su Causeway, and the China Academy of Art's Nanshan Road campus are all within easy walking distance, making it easy to build a half-day loop around West Lake's southern shore."
+  - q: How do I get to Zhejiang Art Museum?
+    a: It's at 138 Nan Shan Lu on the southern shore of West Lake, Hangzhou. There's no metro stop right outside, so walk along the lakeside from Leifeng Pagoda or the Su Causeway (10–15 minutes), or take a taxi/bus along Nanshan Road.
+  - q: How much does it cost to enter?
+    a: Admission policies and prices at Chinese public art museums change periodically and sometimes vary by exhibition, so check current admission (many public museums in China are free or low-cost with ID) before you go rather than assuming.
+  - q: How long should I spend there?
+    a: Budget 45 minutes for a quick visit through one or two galleries, or up to 90 minutes if a major exhibition is running and you want to read the calligraphy and labels closely.
+  - q: When is the best time to visit?
+    a: Weekday mornings are calmest, and spring or autumn gives the best light and comfortable walking weather along the lake outside. Avoid midday in peak summer heat if you're combining it with lakeside walking.
+  - q: What's nearby that I can combine with a visit?
+    a: Leifeng Pagoda, the Su Causeway, and the China Academy of Art's Nanshan Road campus are all within easy walking distance, making it easy to build a half-day loop around West Lake's southern shore.
 aiGenerated: true
 draft: false
 ---

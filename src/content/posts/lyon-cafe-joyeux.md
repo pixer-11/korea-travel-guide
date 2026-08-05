@@ -1,13 +1,13 @@
 ---
-title: "Café Joyeux: Lyon Travel Guide"
+title: 'Café Joyeux: Lyon Travel Guide'
 description: Café Joyeux at 13 Rue Ferrandière sits in the Presqu'île's Rue de la République shopping district, a two-minute walk from Cordeliers metro (Line A).
 country: France
 region: Lyon
 category: trendy
-pubDate: "2026-08-02T09:31:07.941Z"
+pubDate: '2026-08-02T09:31:07.941Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Caf%C3%A9_Joyeux%2C_Lyon.jpg/3840px-Caf%C3%A9_Joyeux%2C_Lyon.jpg
-  credit: "Photo: TCY / Wikimedia Commons (CC BY-SA 4.0)"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Caf%C3%A9_Joyeux%2C_Lyon.jpg/1920px-Caf%C3%A9_Joyeux%2C_Lyon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: TCY / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Joyeux,_Lyon.jpg
 gallery: []
@@ -24,13 +24,13 @@ place:
   lng: 4.8343585
   phone: +33 1 87 53 64 80
   openingHours:
-    - "Monday: 8:30 AM – 7:00 PM"
-    - "Tuesday: 8:30 AM – 7:00 PM"
-    - "Wednesday: 8:30 AM – 7:00 PM"
-    - "Thursday: 8:30 AM – 7:00 PM"
-    - "Friday: 8:30 AM – 7:00 PM"
-    - "Saturday: 8:30 AM – 7:00 PM"
-    - "Sunday: 9:30 AM – 7:00 PM"
+    - 'Monday: 8:30 AM – 7:00 PM'
+    - 'Tuesday: 8:30 AM – 7:00 PM'
+    - 'Wednesday: 8:30 AM – 7:00 PM'
+    - 'Thursday: 8:30 AM – 7:00 PM'
+    - 'Friday: 8:30 AM – 7:00 PM'
+    - 'Saturday: 8:30 AM – 7:00 PM'
+    - 'Sunday: 9:30 AM – 7:00 PM'
   busyness:
     updated: 2026-08-02T00:00:00.000Z
     weekdayQuiet:

@@ -8,7 +8,7 @@ pubDate: '2026-07-24'
 eventStartDate: '2026-08-07'
 eventEndDate: '2026-08-09'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/The_Sounds.jpg/1920px-The_Sounds.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/The_Sounds.jpg/1920px-The_Sounds.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Simon Law / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:The_Sounds.jpg

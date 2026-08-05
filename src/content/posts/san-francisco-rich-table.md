@@ -1,60 +1,63 @@
 ---
-title: "Rich Table: Where to Eat in San Francisco"
+title: 'Rich Table: Where to Eat in San Francisco'
 description: Rich Table, on Gough Street at the edge of Hayes Valley, is a dinner-only, reservation-worthy spot for inventive Californian cooking (think porcini doughnuts and sardine chips) in a warm, barn-wood dining room with a view into the open kitchen.
-country: "United States"
-region: "San Francisco"
-category: "restaurant"
-pubDate: "2026-07-30T09:57:19.283Z"
+country: United States
+region: San Francisco
+category: restaurant
+pubDate: '2026-07-30T09:57:19.283Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rich_Table_San_Francisco_-_Dec._2025.jpg/1920px-Rich_Table_San_Francisco_-_Dec._2025.jpg"
-  credit: "Photo: 9yz / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Rich_Table_San_Francisco_-_Dec._2025.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rich_Table_San_Francisco_-_Dec._2025.jpg/1920px-Rich_Table_San_Francisco_-_Dec._2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: 9yz / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Rich_Table_San_Francisco_-_Dec._2025.jpg
 gallery: []
 place:
-  id: "ChIJh_24QJ-AhYAR_xbUNVN2Xns"
-  name: "Rich Table"
-  address: "199 Gough St, San Francisco, CA 94102, USA"
+  id: ChIJh_24QJ-AhYAR_xbUNVN2Xns
+  name: Rich Table
+  address: 199 Gough St, San Francisco, CA 94102, USA
   rating: 4.7
   userRatingsTotal: 1601
   priceLevel: 3
-  googleMapsUrl: "https://maps.google.com/?cid=8889672814233392895&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=8889672814233392895&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.7748657
   lng: -122.4228497
-  phone: '+1 415 355-9085'
+  phone: +1 415 355-9085
   openingHours:
-    - "Monday: 5:00 – 10:00 PM"
-    - "Tuesday: 5:00 – 10:00 PM"
-    - "Wednesday: 5:00 – 10:00 PM"
-    - "Thursday: 5:00 – 10:00 PM"
-    - "Friday: 5:00 – 10:00 PM"
-    - "Saturday: 5:00 – 10:00 PM"
-    - "Sunday: 5:00 – 10:00 PM"
+    - 'Monday: 5:00 – 10:00 PM'
+    - 'Tuesday: 5:00 – 10:00 PM'
+    - 'Wednesday: 5:00 – 10:00 PM'
+    - 'Thursday: 5:00 – 10:00 PM'
+    - 'Friday: 5:00 – 10:00 PM'
+    - 'Saturday: 5:00 – 10:00 PM'
+    - 'Sunday: 5:00 – 10:00 PM'
   busyness:
-    updated: 2026-07-30
-    weekdayQuiet: [17]
+    updated: 2026-07-30T00:00:00.000Z
+    weekdayQuiet:
+      - 17
     weekdayBusy: []
-    weekendQuiet: [17, 21]
+    weekendQuiet:
+      - 17
+      - 21
     weekendBusy:
       - 19
       - 20
-    venueId: "ven_736e58324e564e5562785f52415968412d4a5134325f684a496843"
+    venueId: ven_736e58324e564e5562785f52415968412d4a5134325f684a496843
 tags:
-  - "san francisco"
-  - "local restaurant"
-quickAnswer: "Rich Table, on Gough Street at the edge of Hayes Valley, is a dinner-only, reservation-worthy spot for inventive Californian cooking (think porcini doughnuts and sardine chips) in a warm, barn-wood dining room with a view into the open kitchen. It's open nightly from 5 to 10pm; go right at 5pm on a weekday if you want the room to yourself, and steer clear of the 7-9pm weekend crush. Expect a mid-to-upper price tier and book ahead — this place is well-known, not a secret."
+  - san francisco
+  - local restaurant
+quickAnswer: Rich Table, on Gough Street at the edge of Hayes Valley, is a dinner-only, reservation-worthy spot for inventive Californian cooking (think porcini doughnuts and sardine chips) in a warm, barn-wood dining room with a view into the open kitchen. It's open nightly from 5 to 10pm; go right at 5pm on a weekday if you want the room to yourself, and steer clear of the 7-9pm weekend crush. Expect a mid-to-upper price tier and book ahead — this place is well-known, not a secret.
 faq:
-  - q: "Do I need a reservation at Rich Table?"
-    a: "Yes, strongly recommended. It's a well-known dinner destination in Hayes Valley, and walk-in availability is unreliable, especially Friday and Saturday nights."
-  - q: "What are the quietest times to visit?"
-    a: "Weekdays between 5pm and 6pm, right at opening, are the calmest. Weekends stay busier throughout the whole 5-10pm window, so if you want a relaxed meal, aim for an early weeknight."
-  - q: "What time should I avoid on weekends?"
-    a: "Try not to arrive between 7pm and 9pm on Friday or Saturday — that's the busiest stretch, with the longest waits for tables and bar seats."
-  - q: "How do I get to Rich Table without a car?"
-    a: "Take BART or Muni Metro to Civic Center station and walk about 12-15 minutes northwest up Gough Street, or take the 21-Hayes bus, which stops within a block of the restaurant at 199 Gough St."
-  - q: "How much should I expect to spend?"
-    a: "It sits in the mid-to-upper price range for San Francisco dining — not the most expensive tasting-menu spot in town, but plan for a full dinner with shared plates rather than a casual, cheap meal."
+  - q: Do I need a reservation at Rich Table?
+    a: Yes, strongly recommended. It's a well-known dinner destination in Hayes Valley, and walk-in availability is unreliable, especially Friday and Saturday nights.
+  - q: What are the quietest times to visit?
+    a: Weekdays between 5pm and 6pm, right at opening, are the calmest. Weekends stay busier throughout the whole 5-10pm window, so if you want a relaxed meal, aim for an early weeknight.
+  - q: What time should I avoid on weekends?
+    a: Try not to arrive between 7pm and 9pm on Friday or Saturday — that's the busiest stretch, with the longest waits for tables and bar seats.
+  - q: How do I get to Rich Table without a car?
+    a: Take BART or Muni Metro to Civic Center station and walk about 12-15 minutes northwest up Gough Street, or take the 21-Hayes bus, which stops within a block of the restaurant at 199 Gough St.
+  - q: How much should I expect to spend?
+    a: It sits in the mid-to-upper price range for San Francisco dining — not the most expensive tasting-menu spot in town, but plan for a full dinner with shared plates rather than a casual, cheap meal.
 aiGenerated: true
 draft: false
 ---

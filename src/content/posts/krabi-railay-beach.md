@@ -1,45 +1,45 @@
 ---
-title: "Railay Beach: Krabi Travel Guide"
-description: "Railay Beach is a car-free limestone peninsula near Ao Nang reachable only by longtail boat (about 15-20 minutes from Ao Nang or Nopparat Thara pier)."
-country: "Thailand"
-region: "Krabi"
-category: "attraction"
-pubDate: 2026-07-21
+title: 'Railay Beach: Krabi Travel Guide'
+description: Railay Beach is a car-free limestone peninsula near Ao Nang reachable only by longtail boat (about 15-20 minutes from Ao Nang or Nopparat Thara pier).
+country: Thailand
+region: Krabi
+category: attraction
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Railay_Beach_5.jpg/1920px-Railay_Beach_5.jpg"
-  credit: "Photo: kallerna / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Railay_Beach_5.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Railay_Beach_5.jpg/1920px-Railay_Beach_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: kallerna / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Railay_Beach_5.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Railay%2C_Krabi%2C_Thailand.jpg/1920px-Railay%2C_Krabi%2C_Thailand.jpg
     credit: 'Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Railay,_Krabi,_Thailand.jpg
 place:
-  id: "ChIJi-WSB57qUTARgVAhfLGL2GE"
-  name: "Railay Beach"
-  address: "Railay Beach, Ao Nang, Krabi, Thailand"
+  id: ChIJi-WSB57qUTARgVAhfLGL2GE
+  name: Railay Beach
+  address: Railay Beach, Ao Nang, Krabi, Thailand
   rating: 4.4
   userRatingsTotal: 4982
-  googleMapsUrl: "https://maps.google.com/?cid=7050538811056541825&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=7050538811056541825&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 8.011711
   lng: 98.83777599999999
 tags:
-  - "krabi"
-  - "Railay Beach"
-quickAnswer: "Railay Beach is a car-free limestone peninsula near Ao Nang reachable only by longtail boat (about 15-20 minutes from Ao Nang or Nopparat Thara pier). Come for the karst cliffs, rock climbing, and lagoon views — plan on a half-day trip or an overnight stay to see all four beaches (West Railay, East Railay, Phra Nang, and the Diamond/Ton Sai area) without rushing."
+  - krabi
+  - Railay Beach
+quickAnswer: Railay Beach is a car-free limestone peninsula near Ao Nang reachable only by longtail boat (about 15-20 minutes from Ao Nang or Nopparat Thara pier). Come for the karst cliffs, rock climbing, and lagoon views — plan on a half-day trip or an overnight stay to see all four beaches (West Railay, East Railay, Phra Nang, and the Diamond/Ton Sai area) without rushing.
 faq:
-  - q: "How do you get to Railay Beach?"
-    a: "Only by longtail boat — there's no road access. Boats leave regularly from Ao Nang Beach or Nopparat Thara Pier (about 15-20 minutes), or from Khlong Chilat pier near Krabi Town if you're coming from the airport."
-  - q: "How much does the boat to Railay cost?"
-    a: "Shared longtail boats are inexpensive and priced per person, paid in cash at the pier; chartering a private boat or traveling at night costs more. Prices can shift seasonally, so confirm current rates at the ticket booth."
-  - q: "How long should I spend at Railay?"
-    a: "A half-day covers West Railay and Phra Nang Beach, but a full day lets you add the viewpoint lagoon or a climbing session, and an overnight stay is worth it for quiet early-morning beach time."
-  - q: "Is Railay Beach good for non-climbers?"
-    a: "Yes — swimming, sunbathing, and cave/lagoon walks at Phra Nang Beach don't require any climbing experience, though the viewpoint hike does involve some steep, rope-assisted scrambling."
-  - q: "What's the best time of year to visit?"
-    a: "November to April (dry season) has the calmest seas and clearest water; December-February is peak season. May-October is rainier with occasional choppy boat crossings, though showers are usually brief."
+  - q: How do you get to Railay Beach?
+    a: Only by longtail boat — there's no road access. Boats leave regularly from Ao Nang Beach or Nopparat Thara Pier (about 15-20 minutes), or from Khlong Chilat pier near Krabi Town if you're coming from the airport.
+  - q: How much does the boat to Railay cost?
+    a: Shared longtail boats are inexpensive and priced per person, paid in cash at the pier; chartering a private boat or traveling at night costs more. Prices can shift seasonally, so confirm current rates at the ticket booth.
+  - q: How long should I spend at Railay?
+    a: A half-day covers West Railay and Phra Nang Beach, but a full day lets you add the viewpoint lagoon or a climbing session, and an overnight stay is worth it for quiet early-morning beach time.
+  - q: Is Railay Beach good for non-climbers?
+    a: Yes — swimming, sunbathing, and cave/lagoon walks at Phra Nang Beach don't require any climbing experience, though the viewpoint hike does involve some steep, rope-assisted scrambling.
+  - q: What's the best time of year to visit?
+    a: November to April (dry season) has the calmest seas and clearest water; December-February is peak season. May-October is rainier with occasional choppy boat crossings, though showers are usually brief.
 aiGenerated: true
 draft: false
 ---

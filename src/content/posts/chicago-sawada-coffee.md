@@ -6,7 +6,7 @@ region: Chicago
 category: trendy
 pubDate: '2026-08-02T09:41:18.595Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Sawada_Coffee%2C_West_Loop%2C_Chicago_%2846963747835%29.jpg/3840px-Sawada_Coffee%2C_West_Loop%2C_Chicago_%2846963747835%29.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Sawada_Coffee%2C_West_Loop%2C_Chicago_%2846963747835%29.jpg/1920px-Sawada_Coffee%2C_West_Loop%2C_Chicago_%2846963747835%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Bex Walton from London, England / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Sawada_Coffee,_West_Loop,_Chicago_(46963747835).jpg

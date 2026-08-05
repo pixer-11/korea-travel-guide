@@ -1,37 +1,37 @@
 ---
-title: "Trevi Fountain: Rome Travel Guide (4.7★)"
-description: "Trevi Fountain is a free, open-air monument in central Rome that you can visit any time—but go between 9am and 11am (any day of the week) to actually see the rococo stonework instead of the backs of a thousand phones. 4.7★ (516,343 reviews) — what visitors say, hours, and tips."
-country: "Italy"
-region: "Rome"
-category: "attraction"
-pubDate: "2026-08-03T11:05:56.768Z"
+title: 'Trevi Fountain: Rome Travel Guide (4.7★)'
+description: Trevi Fountain is a free, open-air monument in central Rome that you can visit any time—but go between 9am and 11am (any day of the week) to actually see the rococo stonework instead of the backs of a thousand phones. 4.7★ (516,343 reviews) — what visitors say, hours, and tips.
+country: Italy
+region: Rome
+category: attraction
+pubDate: '2026-08-03T11:05:56.768Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Trevi_Fountain_-_Roma.jpg/1920px-Trevi_Fountain_-_Roma.jpg"
-  credit: "Photo: NikonZ7II / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Trevi_Fountain_-_Roma.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Trevi_Fountain_-_Roma.jpg/1920px-Trevi_Fountain_-_Roma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: NikonZ7II / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Trevi_Fountain_-_Roma.jpg
 gallery: []
 place:
-  id: "ChIJ1UCDJ1NgLxMRtrsCzOHxdvY"
-  name: "Trevi Fountain"
-  address: "Piazza di Trevi, 00187 Roma RM, Italy"
+  id: ChIJ1UCDJ1NgLxMRtrsCzOHxdvY
+  name: Trevi Fountain
+  address: Piazza di Trevi, 00187 Roma RM, Italy
   rating: 4.7
   userRatingsTotal: 516343
-  googleMapsUrl: "https://maps.google.com/?cid=17759648132674796470&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=17759648132674796470&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.900932499999996
   lng: 12.483312999999999
-  phone: "+39 06 0608"
+  phone: +39 06 0608
   openingHours:
-    - "Monday: 11:30 AM – 10:00 PM"
-    - "Tuesday: 9:00 AM – 10:00 PM"
-    - "Wednesday: 9:00 AM – 10:00 PM"
-    - "Thursday: 9:00 AM – 10:00 PM"
-    - "Friday: 11:30 AM – 10:00 PM"
-    - "Saturday: 9:00 AM – 10:00 PM"
-    - "Sunday: 9:00 AM – 10:00 PM"
+    - 'Monday: 11:30 AM – 10:00 PM'
+    - 'Tuesday: 9:00 AM – 10:00 PM'
+    - 'Wednesday: 9:00 AM – 10:00 PM'
+    - 'Thursday: 9:00 AM – 10:00 PM'
+    - 'Friday: 11:30 AM – 10:00 PM'
+    - 'Saturday: 9:00 AM – 10:00 PM'
+    - 'Sunday: 9:00 AM – 10:00 PM'
   busyness:
-    updated: 2026-08-03
+    updated: 2026-08-03T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 10
@@ -46,22 +46,22 @@ place:
       - 18
       - 19
       - 20
-    venueId: "ven_59766478484f7a43737274524d784c674e314a444355314a496843"
+    venueId: ven_59766478484f7a43737274524d784c674e314a444355314a496843
 tags:
-  - "rome"
-  - "Trevi Fountain"
-quickAnswer: "Trevi Fountain is a free, open-air monument in central Rome that you can visit any time—but go between 9am and 11am (any day of the week) to actually see the rococo stonework instead of the backs of a thousand phones. It's a 15-minute stop for the classic coin-toss photo, or an hour if you linger over gelato and the surrounding lanes. Note that on Mondays and Fridays it doesn't open until 11:30am, so an early visit those two days means arriving right at that later start."
+  - rome
+  - Trevi Fountain
+quickAnswer: Trevi Fountain is a free, open-air monument in central Rome that you can visit any time—but go between 9am and 11am (any day of the week) to actually see the rococo stonework instead of the backs of a thousand phones. It's a 15-minute stop for the classic coin-toss photo, or an hour if you linger over gelato and the surrounding lanes. Note that on Mondays and Fridays it doesn't open until 11:30am, so an early visit those two days means arriving right at that later start.
 faq:
-  - q: "Is there an entrance fee for Trevi Fountain?"
-    a: "No — it's a public piazza with free, open access at all hours it's listed as open; there's no ticket or admission charge."
-  - q: "What's the quietest time to visit?"
-    a: "Between 9am and 11am, on both weekdays and weekends, based on measured foot-traffic — you'll get real space at the railing rather than a wall of phones."
-  - q: "How do I get there by metro?"
-    a: "Take Line A to Barberini station, then walk about 10 minutes downhill, or use Spanish Steps station (also Line A) and walk through the shopping streets."
-  - q: "How long should I spend at the fountain?"
-    a: "15 minutes covers the classic photo and coin toss; budget closer to an hour if you want to study the sculptures, grab gelato nearby, or wait out a crowd."
-  - q: "What time does Trevi Fountain open?"
-    a: "Most days it's open 9am–10pm, but on Mondays and Fridays it doesn't open until 11:30am — factor that in if you're planning an early visit those two days."
+  - q: Is there an entrance fee for Trevi Fountain?
+    a: No — it's a public piazza with free, open access at all hours it's listed as open; there's no ticket or admission charge.
+  - q: What's the quietest time to visit?
+    a: Between 9am and 11am, on both weekdays and weekends, based on measured foot-traffic — you'll get real space at the railing rather than a wall of phones.
+  - q: How do I get there by metro?
+    a: Take Line A to Barberini station, then walk about 10 minutes downhill, or use Spanish Steps station (also Line A) and walk through the shopping streets.
+  - q: How long should I spend at the fountain?
+    a: 15 minutes covers the classic photo and coin toss; budget closer to an hour if you want to study the sculptures, grab gelato nearby, or wait out a crowd.
+  - q: What time does Trevi Fountain open?
+    a: Most days it's open 9am–10pm, but on Mondays and Fridays it doesn't open until 11:30am — factor that in if you're planning an early visit those two days.
 aiGenerated: true
 draft: false
 ---

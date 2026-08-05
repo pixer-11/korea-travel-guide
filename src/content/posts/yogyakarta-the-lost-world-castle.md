@@ -1,51 +1,66 @@
 ---
-title: "The Lost World Castle: Yogyakarta Travel Guide"
+title: 'The Lost World Castle: Yogyakarta Travel Guide'
 description: The Lost World Castle is a medieval-fort-styled viewpoint and geology visitor center on the slopes of Mount Merapi in Cangkringan, Sleman, about 25-30km north of central Yogyakarta.
-country: "Indonesia"
-region: "Yogyakarta"
-category: "hidden-gem"
-pubDate: "2026-07-23T07:19:40.453Z"
+country: Indonesia
+region: Yogyakarta
+category: hidden-gem
+pubDate: '2026-07-23T07:19:40.453Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/The_Lost_World_Castle.jpg/1920px-The_Lost_World_Castle.jpg"
-  credit: "Photo: Susanti Estiningrum / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:The_Lost_World_Castle.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/The_Lost_World_Castle.jpg/1920px-The_Lost_World_Castle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Susanti Estiningrum / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:The_Lost_World_Castle.jpg
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/5795014_tbf2T5YpaBMw2Ix1V8okQ5PEDj743HN4xuPvPcAuIDs.jpg
     credit: 'Photo: Foursquare user content (The Lost World Castle)'
     license: foursquare
     source: https://foursquare.com/v/586c32af03e29a442ea80d24
 place:
-  id: "ChIJCVFD7Ztdei4RyYO2suhfTyg"
-  name: "The Lost World Castle"
-  address: "Jl. Petung Merapi, Petung, Kepuharjo, Kec. Cangkringan, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55583, Indonesia"
+  id: ChIJCVFD7Ztdei4RyYO2suhfTyg
+  name: The Lost World Castle
+  address: Jl. Petung Merapi, Petung, Kepuharjo, Kec. Cangkringan, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55583, Indonesia
   rating: 4.3
   userRatingsTotal: 22375
-  googleMapsUrl: "https://maps.google.com/?cid=2904645737712616393&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=2904645737712616393&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -7.6041648
   lng: 110.4510042
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [7, 8, 16, 17, 18]
-    weekendQuiet: [7, 17, 18]
-    weekendBusy: [9, 10, 11, 12, 13, 14, 15]
-    venueId: 'ven_67795466687573324f59795234696564745a37444656434a496843'
+    weekdayQuiet:
+      - 7
+      - 8
+      - 16
+      - 17
+      - 18
+    weekendQuiet:
+      - 7
+      - 17
+      - 18
+    weekendBusy:
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+    venueId: ven_67795466687573324f59795234696564745a37444656434a496843
 tags:
-  - "yogyakarta"
-  - "hidden gem"
-quickAnswer: "The Lost World Castle is a medieval-fort-styled viewpoint and geology visitor center on the slopes of Mount Merapi in Cangkringan, Sleman, about 25-30km north of central Yogyakarta. Go early (before 9am) or late afternoon for cooler weather, clearer volcano views, and thinner crowds — it's a very popular stop, especially on weekends and holidays, so expect lots of visitors year-round. Budget 1.5–2 hours, and pair it with the nearby Merapi lava tour jeep circuit or Kaliadem/Bunker Kaliadem since you're already on the volcano's flank."
+  - yogyakarta
+  - hidden gem
+quickAnswer: The Lost World Castle is a medieval-fort-styled viewpoint and geology visitor center on the slopes of Mount Merapi in Cangkringan, Sleman, about 25-30km north of central Yogyakarta. Go early (before 9am) or late afternoon for cooler weather, clearer volcano views, and thinner crowds — it's a very popular stop, especially on weekends and holidays, so expect lots of visitors year-round. Budget 1.5–2 hours, and pair it with the nearby Merapi lava tour jeep circuit or Kaliadem/Bunker Kaliadem since you're already on the volcano's flank.
 faq:
-  - q: "How do I get to The Lost World Castle from Yogyakarta city?"
-    a: "It's about 25-30km north in Cangkringan, Sleman — roughly 45-60 minutes by car, motorbike, or ride-hailing app. Many visitors join a Merapi jeep tour package that includes transport and combines it with other volcano-slope stops."
-  - q: "How much time should I plan for a visit?"
-    a: "1.5 to 2 hours is typically enough to walk the fort terraces, photo spots, and geology exhibits without rushing."
-  - q: "What's the best time of day to visit for volcano views?"
-    a: "Early morning, shortly after opening, offers the clearest views of Merapi's summit before clouds build up, especially during dry season (April–October)."
-  - q: "Is it crowded, and how can I avoid the busiest times?"
-    a: "Yes, it's a very popular attraction with over 22,000 reviews. Weekday mornings are far calmer than weekends and Indonesian public holidays, when domestic tour groups fill the site."
-  - q: "What else can I see nearby?"
-    a: "It pairs well with the Merapi Volcano Jeep Tour, the Kaliadem bunker, and Museum Sisa Hartaku, all on the same volcanic slope and easy to combine into one half-day trip."
+  - q: How do I get to The Lost World Castle from Yogyakarta city?
+    a: It's about 25-30km north in Cangkringan, Sleman — roughly 45-60 minutes by car, motorbike, or ride-hailing app. Many visitors join a Merapi jeep tour package that includes transport and combines it with other volcano-slope stops.
+  - q: How much time should I plan for a visit?
+    a: 1.5 to 2 hours is typically enough to walk the fort terraces, photo spots, and geology exhibits without rushing.
+  - q: What's the best time of day to visit for volcano views?
+    a: Early morning, shortly after opening, offers the clearest views of Merapi's summit before clouds build up, especially during dry season (April–October).
+  - q: Is it crowded, and how can I avoid the busiest times?
+    a: Yes, it's a very popular attraction with over 22,000 reviews. Weekday mornings are far calmer than weekends and Indonesian public holidays, when domestic tour groups fill the site.
+  - q: What else can I see nearby?
+    a: It pairs well with the Merapi Volcano Jeep Tour, the Kaliadem bunker, and Museum Sisa Hartaku, all on the same volcanic slope and easy to combine into one half-day trip.
 aiGenerated: true
 draft: false
 ---

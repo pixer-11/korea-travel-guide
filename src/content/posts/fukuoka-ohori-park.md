@@ -1,20 +1,15 @@
 ---
 title: 'Ohori Park: Fukuoka Travel Guide'
-description: >-
-  Ohori Park (大濠公園) is a large lakeside park in Fukuoka's Chuo Ward, built
-  around a lagoon-like lake modeled on China's West Lake in Hangzhou.
+description: Ohori Park (大濠公園) is a large lakeside park in Fukuoka's Chuo Ward, built around a lagoon-like lake modeled on China's West Lake in Hangzhou.
 country: Japan
 region: Fukuoka
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ohori_Park_%2830681292984%29.jpg/1920px-Ohori_Park_%2830681292984%29.jpg
-  credit: >-
-    Photo: Thomas Woodtli from Zürich, Switzerland / Wikimedia Commons (CC BY-SA
-    2.0)
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ohori_Park_%2830681292984%29.jpg/1920px-Ohori_Park_%2830681292984%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Thomas Woodtli from Zürich, Switzerland / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Ohori_Park_(30681292984).jpg'
+  source: https://commons.wikimedia.org/wiki/File:Ohori_Park_(30681292984).jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/%C5%8Chori_Park_The_pergola_in_Matsushima_%C5%8Chori-k%C5%8Den_Ch%C5%AB%C5%8D-ku_Fukuoka_20260514.jpg/1920px-%C5%8Chori_Park_The_pergola_in_Matsushima_%C5%8Chori-k%C5%8Den_Ch%C5%AB%C5%8D-ku_Fukuoka_20260514.jpg
     credit: 'Photo: Hirho / Wikimedia Commons (CC BY 4.0)'
@@ -23,15 +18,14 @@ gallery:
 place:
   id: ChIJx6TbjMyTQTURmPdN7915780
   name: Ohori Park
-  address: 'Japan, 〒810-0051 Fukuoka, Chuo Ward, Ōhorikōen, 1 公園管理事務所'
+  address: Japan, 〒810-0051 Fukuoka, Chuo Ward, Ōhorikōen, 1 公園管理事務所
   rating: 4.5
   userRatingsTotal: 15198
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=14839213291318671256&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=14839213291318671256&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 33.586206499999996
   lng: 130.3764646
-  phone: '+81 92-741-2004'
+  phone: +81 92-741-2004
   openingHours:
     - 'Monday: Open 24 hours'
     - 'Tuesday: Open 24 hours'
@@ -43,40 +37,18 @@ place:
 tags:
   - fukuoka
   - top attraction
-quickAnswer: >-
-  Ohori Park (大濠公園) is a large lakeside park in Fukuoka's Chuo Ward, built
-  around a lagoon-like lake modeled on China's West Lake in Hangzhou. Come for a
-  1.5-2km loop walk or jog around the water, a paddleboat ride, and a stop at
-  the adjoining Ohori Park Japanese Garden or Fukuoka Art Museum next door —
-  allow 1.5-2 hours, more if you linger at the lakeside café.
+quickAnswer: Ohori Park (大濠公園) is a large lakeside park in Fukuoka's Chuo Ward, built around a lagoon-like lake modeled on China's West Lake in Hangzhou. Come for a 1.5-2km loop walk or jog around the water, a paddleboat ride, and a stop at the adjoining Ohori Park Japanese Garden or Fukuoka Art Museum next door — allow 1.5-2 hours, more if you linger at the lakeside café.
 faq:
   - q: How do I get to Ohori Park from central Fukuoka?
-    a: >-
-      Take the Fukuoka City Subway Kuko (Airport) Line to Ohorikoen Station or
-      Tojinmachi Station — both are a short walk from the lake. From Tenjin it's
-      about a 10-minute subway ride or a 20-25 minute walk through the castle
-      ruins area.
+    a: Take the Fukuoka City Subway Kuko (Airport) Line to Ohorikoen Station or Tojinmachi Station — both are a short walk from the lake. From Tenjin it's about a 10-minute subway ride or a 20-25 minute walk through the castle ruins area.
   - q: How much time should I plan for a visit?
-    a: >-
-      About 1.5-2 hours covers the lake loop, a boat ride, and the Japanese
-      Garden. Add another hour if you're continuing to the Fukuoka Art Museum or
-      Fukuoka Castle ruins next door.
+    a: About 1.5-2 hours covers the lake loop, a boat ride, and the Japanese Garden. Add another hour if you're continuing to the Fukuoka Art Museum or Fukuoka Castle ruins next door.
   - q: Is there an entrance fee?
-    a: >-
-      The park itself is free and open year-round. The Ohori Park Japanese
-      Garden charges a small separate admission, and boat rentals charge a
-      per-session fee — both are modest but worth confirming on-site since
-      prices can change.
+    a: The park itself is free and open year-round. The Ohori Park Japanese Garden charges a small separate admission, and boat rentals charge a per-session fee — both are modest but worth confirming on-site since prices can change.
   - q: When is the best time to visit?
-    a: >-
-      Late March to early April for cherry blossoms, and autumn for foliage, are
-      the most scenic windows. Early morning or near sunset offer the best light
-      and fewer crowds any time of year.
+    a: Late March to early April for cherry blossoms, and autumn for foliage, are the most scenic windows. Early morning or near sunset offer the best light and fewer crowds any time of year.
   - q: What else is nearby worth combining with the park?
-    a: >-
-      Fukuoka Art Museum sits right on the park's edge, and the ruins of Fukuoka
-      Castle in adjoining Maizuru Park are an easy walk away, making all three
-      doable in a single half-day outing.
+    a: Fukuoka Art Museum sits right on the park's edge, and the ruins of Fukuoka Castle in adjoining Maizuru Park are an easy walk away, making all three doable in a single half-day outing.
 aiGenerated: true
 draft: false
 updatedDate: '2026-07-24'

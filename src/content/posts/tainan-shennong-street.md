@@ -1,36 +1,36 @@
 ---
-title: "Shennong Street: Tainan Travel Guide"
-description: "Shennong Street is a 200-metre stretch of Qing Dynasty–era shophouses in Tainan's West Central District, easily covered in 45–90 minutes."
-country: "Taiwan"
-region: "Tainan"
-category: "hidden-gem"
-pubDate: "2026-07-29T10:10:43.839Z"
+title: 'Shennong Street: Tainan Travel Guide'
+description: Shennong Street is a 200-metre stretch of Qing Dynasty–era shophouses in Tainan's West Central District, easily covered in 45–90 minutes.
+country: Taiwan
+region: Tainan
+category: hidden-gem
+pubDate: '2026-07-29T10:10:43.839Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/%E7%A5%9E%E8%BE%B2%E8%A1%97_Shennong_Street_Tainan_City02.jpg/1920px-%E7%A5%9E%E8%BE%B2%E8%A1%97_Shennong_Street_Tainan_City02.jpg"
-  credit: "Photo: Tze Chiang Hao / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:%E7%A5%9E%E8%BE%B2%E8%A1%97_Shennong_Street_Tainan_City02.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/%E7%A5%9E%E8%BE%B2%E8%A1%97_Shennong_Street_Tainan_City02.jpg/1920px-%E7%A5%9E%E8%BE%B2%E8%A1%97_Shennong_Street_Tainan_City02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Tze Chiang Hao / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:%E7%A5%9E%E8%BE%B2%E8%A1%97_Shennong_Street_Tainan_City02.jpg
 gallery: []
 place:
-  id: "ChIJqctagGZ2bjQRGlAjSFrC5hE"
-  name: "Shennong Street"
-  address: "700, Taiwan, Tainan City, West Central District, 神農街"
+  id: ChIJqctagGZ2bjQRGlAjSFrC5hE
+  name: Shennong Street
+  address: 700, Taiwan, Tainan City, West Central District, 神農街
   rating: 4.3
   userRatingsTotal: 21010
-  googleMapsUrl: "https://maps.google.com/?cid=1289932036301344794&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=1289932036301344794&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.9975171
   lng: 120.19649489999999
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-07-29
+    updated: 2026-07-29T00:00:00.000Z
     weekdayQuiet: []
     weekdayBusy: []
     weekendQuiet: []
@@ -47,22 +47,22 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_456835437246536a416c4752516a62325a4767617463714a496843"
+    venueId: ven_456835437246536a416c4752516a62325a4767617463714a496843
 tags:
-  - "tainan"
-  - "hidden gem"
-quickAnswer: "Shennong Street is a 200-metre stretch of Qing Dynasty–era shophouses in Tainan's West Central District, easily covered in 45–90 minutes. It's genuinely popular rather than a secret find — reviewers consistently rate it highly — so aim for morning on a weekday, since weekends stay busy from roughly 9am to 11pm. Come for the architecture, wooden lintels, and lantern-lit evenings rather than expecting an empty lane."
+  - tainan
+  - hidden gem
+quickAnswer: Shennong Street is a 200-metre stretch of Qing Dynasty–era shophouses in Tainan's West Central District, easily covered in 45–90 minutes. It's genuinely popular rather than a secret find — reviewers consistently rate it highly — so aim for morning on a weekday, since weekends stay busy from roughly 9am to 11pm. Come for the architecture, wooden lintels, and lantern-lit evenings rather than expecting an empty lane.
 faq:
-  - q: "How long does it take to see Shennong Street?"
-    a: "Most visitors spend 45 minutes to 1.5 hours, longer if you stop into shops, cafés, or galleries along the way."
-  - q: "How do I get to Shennong Street from Tainan Railway Station?"
-    a: "It's about a 10–15 minute taxi ride, or you can take a city bus toward the West Central District's temple area and walk the last few minutes. YouBike docks are also common in this district."
-  - q: "When is the quietest time to visit?"
-    a: "No exact quiet-hour data is published for this street, but weekday mornings are your best bet — weekends stay busy from around 9am to 11pm."
-  - q: "Is Shennong Street free to visit?"
-    a: "Yes, it's an open public street with no entrance fee; you only pay for anything you buy in the shops, cafés, or galleries along it."
-  - q: "What else is nearby?"
-    a: "The Grand Matsu Temple, Confucius Temple, Hayashi Department Store, and Zhengxing Street are all within a short walk and pair well with a Shennong Street visit."
+  - q: How long does it take to see Shennong Street?
+    a: Most visitors spend 45 minutes to 1.5 hours, longer if you stop into shops, cafés, or galleries along the way.
+  - q: How do I get to Shennong Street from Tainan Railway Station?
+    a: It's about a 10–15 minute taxi ride, or you can take a city bus toward the West Central District's temple area and walk the last few minutes. YouBike docks are also common in this district.
+  - q: When is the quietest time to visit?
+    a: No exact quiet-hour data is published for this street, but weekday mornings are your best bet — weekends stay busy from around 9am to 11pm.
+  - q: Is Shennong Street free to visit?
+    a: Yes, it's an open public street with no entrance fee; you only pay for anything you buy in the shops, cafés, or galleries along it.
+  - q: What else is nearby?
+    a: The Grand Matsu Temple, Confucius Temple, Hayashi Department Store, and Zhengxing Street are all within a short walk and pair well with a Shennong Street visit.
 aiGenerated: true
 draft: false
 ---

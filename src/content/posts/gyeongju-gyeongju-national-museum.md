@@ -1,32 +1,32 @@
 ---
-title: "Gyeongju National Museum: Travel Guide (4.6★)"
-description: "Gyeongju National Museum, on Iljeong-ro just southeast of the Wolseong Palace site, is the single best place to understand the Silla Kingdom's thousand-year run as a royal capital — plan on two to three hours for the main halls and outdoor grounds. 4.6★ (13,270 reviews) — what visitors say, hours, and tips."
-country: "South Korea"
-region: "Gyeongju"
-category: "attraction"
-pubDate: "2026-08-05T11:37:31.177Z"
+title: 'Gyeongju National Museum: Travel Guide (4.6★)'
+description: Gyeongju National Museum, on Iljeong-ro just southeast of the Wolseong Palace site, is the single best place to understand the Silla Kingdom's thousand-year run as a royal capital — plan on two to three hours for the main halls and outdoor grounds. 4.6★ (13,270 reviews) — what visitors say, hours, and tips.
+country: South Korea
+region: Gyeongju
+category: attraction
+pubDate: '2026-08-05T11:37:31.177Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/a/a8/Korea-Gyeongju.National.Museum-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-  credit: "Photo: by martinroell / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Korea-Gyeongju.National.Museum-02.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/a/a8/Korea-Gyeongju.National.Museum-02.jpg
+  credit: 'Photo: by martinroell / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Korea-Gyeongju.National.Museum-02.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Gyeongju_National_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-    credit: "Photo: Seaton1456 / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Gyeongju_National_Museum.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/c/c0/Gyeongju_National_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+    credit: 'Photo: Seaton1456 / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Gyeongju_National_Museum.jpg
 place:
-  id: "ChIJRawRj0NOZjURV-Bwn4zSng4"
-  name: "Gyeongju National Museum"
-  address: "South Korea, Gyeongsangbuk-do, Gyeongju, Iljeong-ro, 186 국립경주박물관"
+  id: ChIJRawRj0NOZjURV-Bwn4zSng4
+  name: Gyeongju National Museum
+  address: South Korea, Gyeongsangbuk-do, Gyeongju, Iljeong-ro, 186 국립경주박물관
   rating: 4.6
   userRatingsTotal: 13270
-  googleMapsUrl: "https://maps.google.com/?cid=1053510864263503959&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=1053510864263503959&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.8294464
   lng: 129.2278919
   busyness:
-    updated: 2026-08-05
+    updated: 2026-08-05T00:00:00.000Z
     weekdayQuiet:
       - 10
       - 17
@@ -43,22 +43,22 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_34676e537a346e77422d5652556a5a4f4e306a527761524a496843"
+    venueId: ven_34676e537a346e77422d5652556a5a4f4e306a527761524a496843
 tags:
-  - "gyeongju"
-  - "museum"
-quickAnswer: "Gyeongju National Museum, on Iljeong-ro just southeast of the Wolseong Palace site, is the single best place to understand the Silla Kingdom's thousand-year run as a royal capital — plan on two to three hours for the main halls and outdoor grounds. Weekdays between 10am and 7pm are the calmest window; if you're only free on a weekend, go after 6pm rather than fighting the 11am–6pm crush."
+  - gyeongju
+  - museum
+quickAnswer: Gyeongju National Museum, on Iljeong-ro just southeast of the Wolseong Palace site, is the single best place to understand the Silla Kingdom's thousand-year run as a royal capital — plan on two to three hours for the main halls and outdoor grounds. Weekdays between 10am and 7pm are the calmest window; if you're only free on a weekend, go after 6pm rather than fighting the 11am–6pm crush.
 faq:
-  - q: "How much time should I budget for the museum?"
-    a: "Two to three hours covers the main indoor galleries and the outdoor lapidary yard at a comfortable pace; add more if you want to watch the docent tours or linger over the gold crown displays."
-  - q: "When is it quietest?"
-    a: "Weekdays from 10am to 7pm are consistently calmer. On weekends, avoid 11am–6pm when day-trippers and tour groups peak, and aim instead for after 6pm."
-  - q: "Is admission free?"
-    a: "The permanent collection has traditionally been free to enter, though special or touring exhibitions sometimes charge separately — check the entrance signage or official notices on the day."
-  - q: "How do I get there without a car?"
-    a: "Base yourself in the Hwangnam-dong area near Daereungwon tomb park; the museum is an easy walk from there, or a short local bus ride from Gyeongju or Singyeongju train stations."
-  - q: "What else is nearby to combine with a visit?"
-    a: "Daereungwon tomb complex, Cheomseongdae observatory, and Donggung Palace/Wolji pond are all within walking distance, making a natural half-day loop with the museum."
+  - q: How much time should I budget for the museum?
+    a: Two to three hours covers the main indoor galleries and the outdoor lapidary yard at a comfortable pace; add more if you want to watch the docent tours or linger over the gold crown displays.
+  - q: When is it quietest?
+    a: Weekdays from 10am to 7pm are consistently calmer. On weekends, avoid 11am–6pm when day-trippers and tour groups peak, and aim instead for after 6pm.
+  - q: Is admission free?
+    a: The permanent collection has traditionally been free to enter, though special or touring exhibitions sometimes charge separately — check the entrance signage or official notices on the day.
+  - q: How do I get there without a car?
+    a: Base yourself in the Hwangnam-dong area near Daereungwon tomb park; the museum is an easy walk from there, or a short local bus ride from Gyeongju or Singyeongju train stations.
+  - q: What else is nearby to combine with a visit?
+    a: Daereungwon tomb complex, Cheomseongdae observatory, and Donggung Palace/Wolji pond are all within walking distance, making a natural half-day loop with the museum.
 aiGenerated: true
 draft: false
 ---

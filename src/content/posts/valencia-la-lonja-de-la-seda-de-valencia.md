@@ -1,54 +1,54 @@
 ---
-title: "La Lonja de la Seda de Valencia: Travel Guide"
-description: "La Lonja de la Seda, Valencia's UNESCO-listed former silk exchange, sits in Ciutat Vella at C/ de la Llotja, 2, right across from the Mercado Central."
-country: "Spain"
-region: "Valencia"
-category: "attraction"
-pubDate: "2026-07-26T08:24:53.684Z"
+title: 'La Lonja de la Seda de Valencia: Travel Guide'
+description: La Lonja de la Seda, Valencia's UNESCO-listed former silk exchange, sits in Ciutat Vella at C/ de la Llotja, 2, right across from the Mercado Central.
+country: Spain
+region: Valencia
+category: attraction
+pubDate: '2026-07-26T08:24:53.684Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Lonja_de_la_Seda%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-29%2C_DD_23-25_HDR.JPG/1920px-Lonja_de_la_Seda%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-29%2C_DD_23-25_HDR.JPG"
-  credit: "Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Lonja_de_la_Seda,_Valencia,_Espa%C3%B1a,_2014-06-29,_DD_23-25_HDR.JPG"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Lonja_de_la_Seda%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-29%2C_DD_23-25_HDR.JPG/1920px-Lonja_de_la_Seda%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-29%2C_DD_23-25_HDR.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Lonja_de_la_Seda,_Valencia,_Espa%C3%B1a,_2014-06-29,_DD_23-25_HDR.JPG
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/85854221_-z3gnbhBjfvjFXHA4eJ724k6vWm6FiKeRQ8xrALq2Pk.jpg
     credit: 'Photo: Foursquare user content (Llotja de la Seda)'
     license: foursquare
     source: https://foursquare.com/v/4d70af49d0f6a09051849262
 place:
-  id: "ChIJ8_5rwk1PYA0RxMucY8qxErc"
-  name: "La Lonja de la Seda de Valencia"
-  address: "C/ de la Llotja, 2, Ciutat Vella, 46001 València, Valencia, Spain"
+  id: ChIJ8_5rwk1PYA0RxMucY8qxErc
+  name: La Lonja de la Seda de Valencia
+  address: C/ de la Llotja, 2, Ciutat Vella, 46001 València, Valencia, Spain
   rating: 4.6
   userRatingsTotal: 30343
-  googleMapsUrl: "https://maps.google.com/?cid=13191801741334334404&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=13191801741334334404&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 39.4743857
   lng: -0.37832990000000005
-  phone: '+34 962 08 41 53'
+  phone: +34 962 08 41 53
   openingHours:
-    - "Monday: 10:00 AM – 7:00 PM"
-    - "Tuesday: 10:00 AM – 7:00 PM"
-    - "Wednesday: 10:00 AM – 7:00 PM"
-    - "Thursday: 10:00 AM – 7:00 PM"
-    - "Friday: 10:00 AM – 7:00 PM"
-    - "Saturday: 10:00 AM – 7:00 PM"
-    - "Sunday: 10:00 AM – 2:00 PM"
+    - 'Monday: 10:00 AM – 7:00 PM'
+    - 'Tuesday: 10:00 AM – 7:00 PM'
+    - 'Wednesday: 10:00 AM – 7:00 PM'
+    - 'Thursday: 10:00 AM – 7:00 PM'
+    - 'Friday: 10:00 AM – 7:00 PM'
+    - 'Saturday: 10:00 AM – 7:00 PM'
+    - 'Sunday: 10:00 AM – 2:00 PM'
 tags:
-  - "valencia"
-  - "top attraction"
-quickAnswer: "La Lonja de la Seda, Valencia's UNESCO-listed former silk exchange, sits in Ciutat Vella at C/ de la Llotja, 2, right across from the Mercado Central. Give it 45–60 minutes, focus on the twisting Corinthian-like columns of the Sala de Contratación and the coffered ceiling of the Consulado del Mar, and go early on a weekday morning to avoid the crush — this is a very popular stop and lines build fast once tour groups arrive."
+  - valencia
+  - top attraction
+quickAnswer: La Lonja de la Seda, Valencia's UNESCO-listed former silk exchange, sits in Ciutat Vella at C/ de la Llotja, 2, right across from the Mercado Central. Give it 45–60 minutes, focus on the twisting Corinthian-like columns of the Sala de Contratación and the coffered ceiling of the Consulado del Mar, and go early on a weekday morning to avoid the crush — this is a very popular stop and lines build fast once tour groups arrive.
 faq:
-  - q: "How much time should I budget for La Lonja de la Seda?"
-    a: "Most visitors spend 45–60 minutes moving through the Sala de Contratación, the Consulado del Mar, and the orange-tree courtyard. Add extra time if you want to read the informational panels."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Go on a weekday right at opening. This is one of Valencia's most visited monuments, and tour groups and cruise excursions build up by midday, especially on weekends and in peak season."
-  - q: "How do I get to La Lonja de la Seda by public transport?"
-    a: "Take the metro to Xàtiva station (Lines 3, 5, 7, 9), then walk about 10 minutes into Ciutat Vella. Most travelers simply walk from Plaza del Ayuntamiento or Plaza de la Reina, both under 10 minutes away."
-  - q: "What's nearby that I can combine with this visit?"
-    a: "The Mercado Central sits directly across the square, and the Valencia Cathedral, Torres de Serranos, and Plaza de la Reina are all within a 10-15 minute walk through the old town."
-  - q: "Is the building fully indoors, so it's good for a rainy day?"
-    a: "Yes, aside from the small central courtyard, the main halls are indoors, making it a reliable option if Valencia's weather turns."
+  - q: How much time should I budget for La Lonja de la Seda?
+    a: Most visitors spend 45–60 minutes moving through the Sala de Contratación, the Consulado del Mar, and the orange-tree courtyard. Add extra time if you want to read the informational panels.
+  - q: What's the best time to visit to avoid crowds?
+    a: Go on a weekday right at opening. This is one of Valencia's most visited monuments, and tour groups and cruise excursions build up by midday, especially on weekends and in peak season.
+  - q: How do I get to La Lonja de la Seda by public transport?
+    a: Take the metro to Xàtiva station (Lines 3, 5, 7, 9), then walk about 10 minutes into Ciutat Vella. Most travelers simply walk from Plaza del Ayuntamiento or Plaza de la Reina, both under 10 minutes away.
+  - q: What's nearby that I can combine with this visit?
+    a: The Mercado Central sits directly across the square, and the Valencia Cathedral, Torres de Serranos, and Plaza de la Reina are all within a 10-15 minute walk through the old town.
+  - q: Is the building fully indoors, so it's good for a rainy day?
+    a: Yes, aside from the small central courtyard, the main halls are indoors, making it a reliable option if Valencia's weather turns.
 aiGenerated: true
 draft: false
 ---

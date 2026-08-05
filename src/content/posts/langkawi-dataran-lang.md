@@ -1,53 +1,53 @@
 ---
-title: "Dataran Lang: Langkawi Travel Guide"
+title: 'Dataran Lang: Langkawi Travel Guide'
 description: Dataran Lang (Eagle Square) sits on the Kuah waterfront in Langkawi, a five-minute drive or 15-minute walk from the Kuah jetty where ferries from Penang and the mainland dock.
-country: "Malaysia"
-region: "Langkawi"
-category: "attraction"
-pubDate: "2026-07-26T07:08:36.117Z"
+country: Malaysia
+region: Langkawi
+category: attraction
+pubDate: '2026-07-26T07:08:36.117Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Langkawi_Eagle_Square_-_Dataran_Lang_%2811129976185%29.jpg/1920px-Langkawi_Eagle_Square_-_Dataran_Lang_%2811129976185%29.jpg"
-  credit: "Photo: Bernard Spragg. NZ from Christchurch, New Zealand / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Langkawi_Eagle_Square_-_Dataran_Lang_(11129976185).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Langkawi_Eagle_Square_-_Dataran_Lang_%2811129976185%29.jpg/1920px-Langkawi_Eagle_Square_-_Dataran_Lang_%2811129976185%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Bernard Spragg. NZ from Christchurch, New Zealand / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Langkawi_Eagle_Square_-_Dataran_Lang_(11129976185).jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Langkawi_Eagle_Square_-_Dataran_Lang_%2824462248434%29.jpg/1920px-Langkawi_Eagle_Square_-_Dataran_Lang_%2824462248434%29.jpg
     credit: 'Photo: Bernard Spragg. NZ from Christchurch, New Zealand / Wikimedia Commons (CC0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Langkawi_Eagle_Square_-_Dataran_Lang_(24462248434).jpg
 place:
-  id: "ChIJT5YXv4aASzARiVwJwms7Ddc"
-  name: "Dataran Lang"
-  address: "Persiaran Putera, Kuah, 07000 Langkawi, Kedah, Malaysia"
+  id: ChIJT5YXv4aASzARiVwJwms7Ddc
+  name: Dataran Lang
+  address: Persiaran Putera, Kuah, 07000 Langkawi, Kedah, Malaysia
   rating: 4.4
   userRatingsTotal: 18147
-  googleMapsUrl: "https://maps.google.com/?cid=15496107226854677641&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=15496107226854677641&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 6.3088319
   lng: 99.85143839999999
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "langkawi"
-  - "top attraction"
-quickAnswer: "Dataran Lang (Eagle Square) sits on the Kuah waterfront in Langkawi, a five-minute drive or 15-minute walk from the Kuah jetty where ferries from Penang and the mainland dock. It's a very popular, well-photographed stop rather than a hidden find, so budget 30-45 minutes and aim for early morning or just before sunset to shoot the giant eagle statue without a crowd of tour groups in your frame."
+  - langkawi
+  - top attraction
+quickAnswer: Dataran Lang (Eagle Square) sits on the Kuah waterfront in Langkawi, a five-minute drive or 15-minute walk from the Kuah jetty where ferries from Penang and the mainland dock. It's a very popular, well-photographed stop rather than a hidden find, so budget 30-45 minutes and aim for early morning or just before sunset to shoot the giant eagle statue without a crowd of tour groups in your frame.
 faq:
-  - q: "How do I get to Dataran Lang from the ferry terminal?"
-    a: "It's about a 10-15 minute walk from Kuah jetty, or a couple of minutes by taxi along Persiaran Putera."
-  - q: "Is there an entrance fee?"
-    a: "No, the plaza and eagle statue are free and open to the public to walk around."
-  - q: "How long should I spend there?"
-    a: "Most visitors spend 30-45 minutes taking photos and walking the plaza; add more time if you continue to the adjacent Legenda Langkawi park or the Kuah waterfront."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Go right at opening in the early morning or in the last hour before sunset — mid-morning through early afternoon is when tour buses and coach groups tend to arrive in waves."
-  - q: "What else is nearby?"
-    a: "Kuah's duty-free shopping strip is directly across the road, and the Kuah jetty with its waterfront cafes is a short walk away."
+  - q: How do I get to Dataran Lang from the ferry terminal?
+    a: It's about a 10-15 minute walk from Kuah jetty, or a couple of minutes by taxi along Persiaran Putera.
+  - q: Is there an entrance fee?
+    a: No, the plaza and eagle statue are free and open to the public to walk around.
+  - q: How long should I spend there?
+    a: Most visitors spend 30-45 minutes taking photos and walking the plaza; add more time if you continue to the adjacent Legenda Langkawi park or the Kuah waterfront.
+  - q: When is the best time to visit to avoid crowds?
+    a: Go right at opening in the early morning or in the last hour before sunset — mid-morning through early afternoon is when tour buses and coach groups tend to arrive in waves.
+  - q: What else is nearby?
+    a: Kuah's duty-free shopping strip is directly across the road, and the Kuah jetty with its waterfront cafes is a short walk away.
 aiGenerated: true
 draft: false
 ---

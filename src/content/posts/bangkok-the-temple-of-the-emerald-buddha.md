@@ -1,18 +1,18 @@
 ---
-title: "The Temple of the Emerald Buddha: Bangkok Travel Guide"
+title: 'The Temple of the Emerald Buddha: Bangkok Travel Guide'
 description: Wat Phra Kaew, inside the Grand Palace complex in Bangkok's Rattanakosin Island old town, is open daily 8:30am–3:30pm and is best tackled right at opening. 4.7★ (43,490 reviews) — what visitors say, hours, and tips.
 country: Thailand
 region: Bangkok
 category: attraction
-pubDate: "2026-08-05T10:59:53.256Z"
+pubDate: '2026-08-05T10:59:53.256Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Temple_of_the_Emerald_Buddha.jpg/3840px-Temple_of_the_Emerald_Buddha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  credit: "Photo: Nawit science / Wikimedia Commons (CC BY-SA 4.0)"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Temple_of_the_Emerald_Buddha.jpg/1920px-Temple_of_the_Emerald_Buddha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Nawit science / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Temple_of_the_Emerald_Buddha.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7_%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3_-_Wat_Phra_Kaew%2C_Temple_of_Emerald_Buddha%2C_Bangkok%2C_Thailand.jpg/3840px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-    credit: "Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)"
+    credit: 'Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7_%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3_-_Wat_Phra_Kaew,_Temple_of_Emerald_Buddha,_Bangkok,_Thailand.jpg
 place:
@@ -26,13 +26,13 @@ place:
   lat: 13.7516435
   lng: 100.4927041
   openingHours:
-    - "Monday: 8:30 AM – 3:30 PM"
-    - "Tuesday: 8:30 AM – 3:30 PM"
-    - "Wednesday: 8:30 AM – 3:30 PM"
-    - "Thursday: 8:30 AM – 3:30 PM"
-    - "Friday: 8:30 AM – 3:30 PM"
-    - "Saturday: 8:30 AM – 3:30 PM"
-    - "Sunday: 8:30 AM – 3:30 PM"
+    - 'Monday: 8:30 AM – 3:30 PM'
+    - 'Tuesday: 8:30 AM – 3:30 PM'
+    - 'Wednesday: 8:30 AM – 3:30 PM'
+    - 'Thursday: 8:30 AM – 3:30 PM'
+    - 'Friday: 8:30 AM – 3:30 PM'
+    - 'Saturday: 8:30 AM – 3:30 PM'
+    - 'Sunday: 8:30 AM – 3:30 PM'
   busyness:
     updated: 2026-08-05T00:00:00.000Z
     weekdayQuiet:

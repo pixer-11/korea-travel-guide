@@ -6,12 +6,10 @@ region: Bilbao
 category: attraction
 pubDate: '2026-07-26T07:47:13.802Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Museo_Guggenheim_--_2021_--_Bilbao%2C_Euskadi%2C_Espa%C3%B1a.jpg/1920px-Museo_Guggenheim_--_2021_--_Bilbao%2C_Euskadi%2C_Espa%C3%B1a.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Museo_Guggenheim_--_2021_--_Bilbao%2C_Euskadi%2C_Espa%C3%B1a.jpg/1920px-Museo_Guggenheim_--_2021_--_Bilbao%2C_Euskadi%2C_Espa%C3%B1a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: José Ligero Loarte / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Museo_Guggenheim_--_2021_--_Bilbao,_Euskadi,_Espa%C3%B1a.jpg
+  source: https://commons.wikimedia.org/wiki/File:Museo_Guggenheim_--_2021_--_Bilbao,_Euskadi,_Espa%C3%B1a.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bilbao_-_Museo_Guggenheim_01.jpg/1920px-Bilbao_-_Museo_Guggenheim_01.jpg
     credit: 'Photo: Basotxerri / Wikimedia Commons (CC BY-SA 4.0)'
@@ -20,15 +18,14 @@ gallery:
 place:
   id: ChIJtTFg3t5PTg0RrW2vzbeTiFA
   name: Guggenheim Museum Bilbao
-  address: 'Abandoibarra Etorb., 2, Abando, 48009 Bilbao, Bizkaia, Spain'
+  address: Abandoibarra Etorb., 2, Abando, 48009 Bilbao, Bizkaia, Spain
   rating: 4.5
   userRatingsTotal: 95563
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=5803050537506008493&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=5803050537506008493&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 43.2686712
   lng: -2.9340118
-  phone: '+34 944 35 90 80'
+  phone: +34 944 35 90 80
   openingHours:
     - 'Monday: 10:00 AM – 8:00 PM'
     - 'Tuesday: 10:00 AM – 8:00 PM'
@@ -40,39 +37,18 @@ place:
 tags:
   - bilbao
   - top attraction
-quickAnswer: >-
-  The Guggenheim Museum Bilbao, on the Abandoibarra riverside promenade, is best
-  tackled right at opening or in the late afternoon on a weekday to dodge the
-  tour-bus crush. Budget two to three hours for the permanent collection plus
-  Jeff Koons's "Puppy" and Louise Bourgeois's giant spider "Maman" outside. Book
-  timed-entry tickets online in advance — this is one of the most visited
-  museums in Spain and walk-up queues at midday can be long.
+quickAnswer: The Guggenheim Museum Bilbao, on the Abandoibarra riverside promenade, is best tackled right at opening or in the late afternoon on a weekday to dodge the tour-bus crush. Budget two to three hours for the permanent collection plus Jeff Koons's "Puppy" and Louise Bourgeois's giant spider "Maman" outside. Book timed-entry tickets online in advance — this is one of the most visited museums in Spain and walk-up queues at midday can be long.
 faq:
   - q: How long should I spend at the Guggenheim Bilbao?
-    a: >-
-      Plan on two to three hours for the permanent collection and main
-      galleries, more if a major temporary exhibition is running. Add 20–30
-      minutes to walk around the exterior sculptures.
+    a: Plan on two to three hours for the permanent collection and main galleries, more if a major temporary exhibition is running. Add 20–30 minutes to walk around the exterior sculptures.
   - q: Do I need to book tickets in advance?
-    a: >-
-      Yes, it's strongly recommended. This is one of Spain's most-visited
-      museums, and online timed-entry tickets help you skip long walk-up queues,
-      especially on cruise-ship and weekend days.
+    a: Yes, it's strongly recommended. This is one of Spain's most-visited museums, and online timed-entry tickets help you skip long walk-up queues, especially on cruise-ship and weekend days.
   - q: What's the closest metro or tram stop?
-    a: >-
-      The Euskotran tram has a stop called 'Guggenheim' right outside the
-      entrance. By metro, get off at Moyua (Lines 1 or 2) and walk about 10
-      minutes.
+    a: The Euskotran tram has a stop called 'Guggenheim' right outside the entrance. By metro, get off at Moyua (Lines 1 or 2) and walk about 10 minutes.
   - q: Can I see the famous sculptures without paying admission?
-    a: >-
-      Yes. Jeff Koons's flower-covered 'Puppy' and Louise Bourgeois's giant
-      spider 'Maman' are both outside the building and free to view anytime, day
-      or night.
+    a: Yes. Jeff Koons's flower-covered 'Puppy' and Louise Bourgeois's giant spider 'Maman' are both outside the building and free to view anytime, day or night.
   - q: When is the best time to avoid crowds?
-    a: >-
-      Go right at opening or in the last hour or two before closing on a
-      weekday. Try to avoid late morning through early afternoon on weekends,
-      when queues at the ticket hall and cloakroom are longest.
+    a: Go right at opening or in the last hour or two before closing on a weekday. Try to avoid late morning through early afternoon on weekends, when queues at the ticket hall and cloakroom are longest.
 aiGenerated: true
 draft: false
 updatedDate: '2026-07-26'

@@ -6,7 +6,7 @@ region: San Francisco
 category: attraction
 pubDate: '2026-07-26T07:55:25.204Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Alcatraz_2021.jpg/1920px-Alcatraz_2021.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Alcatraz_2021.jpg/1920px-Alcatraz_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Chris6d / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Alcatraz_2021.jpg

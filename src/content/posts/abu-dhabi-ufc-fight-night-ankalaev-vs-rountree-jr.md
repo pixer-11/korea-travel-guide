@@ -8,7 +8,7 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-07-25'
 eventEndDate: '2026-07-25'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/UFC_Fight_Night_Fiziev_vs._Torres_brand_activation_event_in_Baku_Boulevard_%2832821%29.jpg/3840px-UFC_Fight_Night_Fiziev_vs._Torres_brand_activation_event_in_Baku_Boulevard_%2832821%29.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/UFC_Fight_Night_Fiziev_vs._Torres_brand_activation_event_in_Baku_Boulevard_%2832821%29.jpg/1920px-UFC_Fight_Night_Fiziev_vs._Torres_brand_activation_event_in_Baku_Boulevard_%2832821%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Aykhan Zayedzadeh / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:UFC_Fight_Night_Fiziev_vs._Torres_brand_activation_event_in_Baku_Boulevard_(32821).jpg

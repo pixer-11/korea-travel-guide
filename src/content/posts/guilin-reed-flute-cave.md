@@ -6,7 +6,7 @@ region: Guilin
 category: attraction
 pubDate: '2026-07-26T07:53:05.743Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Stone_curtains_on_display_at_Reed_Flute_Cave.JPG/1920px-Stone_curtains_on_display_at_Reed_Flute_Cave.JPG
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Stone_curtains_on_display_at_Reed_Flute_Cave.JPG/1920px-Stone_curtains_on_display_at_Reed_Flute_Cave.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Fremantle99 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Stone_curtains_on_display_at_Reed_Flute_Cave.JPG
@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 25.304409
   lng: 110.273614
-  phone: '+86 773 269 5075'
+  phone: +86 773 269 5075
 tags:
   - guilin
   - top attraction

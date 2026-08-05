@@ -1,53 +1,53 @@
 ---
-title: "Chowmahalla Palace: Hyderabad Travel Guide"
+title: 'Chowmahalla Palace: Hyderabad Travel Guide'
 description: Chowmahalla Palace, the Nizams' former seat of power near Charminar in Hyderabad's old city, is best seen on a weekday morning right at opening to beat the tour-bus crowds and the midday heat.
-country: "India"
-region: "Hyderabad"
-category: "attraction"
-pubDate: "2026-07-27T10:54:49.595Z"
+country: India
+region: Hyderabad
+category: attraction
+pubDate: '2026-07-27T10:54:49.595Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Chowmahalla_Palace_01.jpg/1920px-Chowmahalla_Palace_01.jpg"
-  credit: "Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Chowmahalla_Palace_01.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Chowmahalla_Palace_01.jpg/1920px-Chowmahalla_Palace_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Chowmahalla_Palace_01.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Chowmahalla_Palace_03.jpg/1920px-Chowmahalla_Palace_03.jpg
     credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Chowmahalla_Palace_03.jpg
 place:
-  id: "ChIJq6qq2oqXyzsR6Ovd2kXV2U0"
-  name: "Chowmahalla Palace"
-  address: "20-4-236, Khilwath Rd, Khilwat, Hyderabad, Telangana 500002, India"
+  id: ChIJq6qq2oqXyzsR6Ovd2kXV2U0
+  name: Chowmahalla Palace
+  address: 20-4-236, Khilwath Rd, Khilwat, Hyderabad, Telangana 500002, India
   rating: 4.4
   userRatingsTotal: 52703
-  googleMapsUrl: "https://maps.google.com/?cid=5609749306868100072&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=5609749306868100072&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 17.358001599999998
   lng: 78.4716789
   openingHours:
-    - "Monday: 10:00 AM – 5:00 PM"
-    - "Tuesday: 10:00 AM – 5:00 PM"
-    - "Wednesday: 10:00 AM – 5:00 PM"
-    - "Thursday: 10:00 AM – 5:00 PM"
-    - "Friday: Closed"
-    - "Saturday: 10:00 AM – 5:00 PM"
-    - "Sunday: 10:00 AM – 5:00 PM"
+    - 'Monday: 10:00 AM – 5:00 PM'
+    - 'Tuesday: 10:00 AM – 5:00 PM'
+    - 'Wednesday: 10:00 AM – 5:00 PM'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: Closed'
+    - 'Saturday: 10:00 AM – 5:00 PM'
+    - 'Sunday: 10:00 AM – 5:00 PM'
 tags:
-  - "hyderabad"
-  - "top attraction"
-quickAnswer: "Chowmahalla Palace, the Nizams' former seat of power near Charminar in Hyderabad's old city, is best seen on a weekday morning right at opening to beat the tour-bus crowds and the midday heat. Budget about two hours to walk the four courtyards, the Khilwat Mubarak durbar hall, and the vintage car collection, and go by autorickshaw or a short walk from Charminar/Laad Bazaar rather than trying to drive. It's a well-visited, ticketed heritage site, not a hidden find, so timing your visit matters more than finding it."
+  - hyderabad
+  - top attraction
+quickAnswer: Chowmahalla Palace, the Nizams' former seat of power near Charminar in Hyderabad's old city, is best seen on a weekday morning right at opening to beat the tour-bus crowds and the midday heat. Budget about two hours to walk the four courtyards, the Khilwat Mubarak durbar hall, and the vintage car collection, and go by autorickshaw or a short walk from Charminar/Laad Bazaar rather than trying to drive. It's a well-visited, ticketed heritage site, not a hidden find, so timing your visit matters more than finding it.
 faq:
-  - q: "How do I get to Chowmahalla Palace?"
-    a: "It's in Hyderabad's old city on Khilwath Road, a short walk (under 10 minutes) south of Charminar and Laad Bazaar. Most visitors reach it by autorickshaw from wherever they're staying, since street parking near the palace is limited."
-  - q: "How long should I spend at the palace?"
-    a: "Plan on about two hours to properly see the four courtyards, the Khilwat Mubarak durbar hall, the textile gallery, and the vintage car collection without rushing."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Go right at opening on a weekday morning. This is one of Hyderabad's most-visited monuments, so tour groups and weekend crowds build up fast by mid-morning and stay heavy through the afternoon."
-  - q: "What else is nearby?"
-    a: "Charminar, Laad Bazaar's bangle markets, and Mecca Masjid are all within a short walk, making an easy combined half-day itinerary."
-  - q: "Is the palace open every day?"
-    a: "It's typically closed one day a week (historically Fridays), so check the current opening schedule before you plan your visit."
+  - q: How do I get to Chowmahalla Palace?
+    a: It's in Hyderabad's old city on Khilwath Road, a short walk (under 10 minutes) south of Charminar and Laad Bazaar. Most visitors reach it by autorickshaw from wherever they're staying, since street parking near the palace is limited.
+  - q: How long should I spend at the palace?
+    a: Plan on about two hours to properly see the four courtyards, the Khilwat Mubarak durbar hall, the textile gallery, and the vintage car collection without rushing.
+  - q: When is the best time to visit to avoid crowds?
+    a: Go right at opening on a weekday morning. This is one of Hyderabad's most-visited monuments, so tour groups and weekend crowds build up fast by mid-morning and stay heavy through the afternoon.
+  - q: What else is nearby?
+    a: Charminar, Laad Bazaar's bangle markets, and Mecca Masjid are all within a short walk, making an easy combined half-day itinerary.
+  - q: Is the palace open every day?
+    a: It's typically closed one day a week (historically Fridays), so check the current opening schedule before you plan your visit.
 aiGenerated: true
 draft: false
 ---

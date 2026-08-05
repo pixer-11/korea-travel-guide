@@ -1,54 +1,54 @@
 ---
-title: "Catacombs of San Gennaro: Naples Travel Guide"
+title: 'Catacombs of San Gennaro: Naples Travel Guide'
 description: The Catacombs of San Gennaro sit on Via Capodimonte, a short uphill walk or bus ride from the historic center, and are visited only by guided tour (roughly 60-75 minutes, departing on a fixed schedule throughout the day).
-country: "Italy"
-region: "Naples"
-category: "attraction"
-pubDate: "2026-07-26T08:29:39.979Z"
+country: Italy
+region: Naples
+category: attraction
+pubDate: '2026-07-26T08:29:39.979Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Catacombs_of_San_Gennaro_%28Naples%29_%281%29.jpg/1920px-Catacombs_of_San_Gennaro_%28Naples%29_%281%29.jpg"
-  credit: "Photo: Derbrauni / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Catacombs_of_San_Gennaro_(Naples)_(1).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Catacombs_of_San_Gennaro_%28Naples%29_%281%29.jpg/1920px-Catacombs_of_San_Gennaro_%28Naples%29_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Derbrauni / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Catacombs_of_San_Gennaro_(Naples)_(1).jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Catacombe_di_San_Gennaro_023.jpg/1920px-Catacombe_di_San_Gennaro_023.jpg
     credit: 'Photo: Dominik Matus / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Catacombe_di_San_Gennaro_023.jpg
 place:
-  id: "ChIJr-AbDHsIOxMR7U8MwBo2riE"
-  name: "Catacombs of San Gennaro"
-  address: "Via Capodimonte, 13, 80100 Napoli NA, Italy"
+  id: ChIJr-AbDHsIOxMR7U8MwBo2riE
+  name: Catacombs of San Gennaro
+  address: Via Capodimonte, 13, 80100 Napoli NA, Italy
   rating: 4.7
   userRatingsTotal: 13466
-  googleMapsUrl: "https://maps.google.com/?cid=2426936737718357997&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=2426936737718357997&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 40.865061499999996
   lng: 14.2474297
-  phone: '+39 081 744 3714'
+  phone: +39 081 744 3714
   openingHours:
-    - "Monday: 9:30 AM – 5:00 PM"
-    - "Tuesday: 9:30 AM – 5:00 PM"
-    - "Wednesday: Closed"
-    - "Thursday: 9:30 AM – 5:00 PM"
-    - "Friday: 9:30 AM – 5:00 PM"
-    - "Saturday: 9:30 AM – 5:00 PM"
-    - "Sunday: 9:30 AM – 5:00 PM"
+    - 'Monday: 9:30 AM – 5:00 PM'
+    - 'Tuesday: 9:30 AM – 5:00 PM'
+    - 'Wednesday: Closed'
+    - 'Thursday: 9:30 AM – 5:00 PM'
+    - 'Friday: 9:30 AM – 5:00 PM'
+    - 'Saturday: 9:30 AM – 5:00 PM'
+    - 'Sunday: 9:30 AM – 5:00 PM'
 tags:
-  - "naples"
-  - "top attraction"
-quickAnswer: "The Catacombs of San Gennaro sit on Via Capodimonte, a short uphill walk or bus ride from the historic center, and are visited only by guided tour (roughly 60-75 minutes, departing on a fixed schedule throughout the day). Book your slot in advance online, as this is a well-visited, rated attraction (4.7 stars from over 13,000 reviews) rather than a quiet find. Pair it with the Capodimonte Museum next door and plan for about half a day total, including travel time."
+  - naples
+  - top attraction
+quickAnswer: The Catacombs of San Gennaro sit on Via Capodimonte, a short uphill walk or bus ride from the historic center, and are visited only by guided tour (roughly 60-75 minutes, departing on a fixed schedule throughout the day). Book your slot in advance online, as this is a well-visited, rated attraction (4.7 stars from over 13,000 reviews) rather than a quiet find. Pair it with the Capodimonte Museum next door and plan for about half a day total, including travel time.
 faq:
-  - q: "Do I need to book tickets in advance?"
-    a: "Yes — visits are guided-tour only on a fixed schedule, and slots can sell out on weekends and holidays, so book online ahead rather than arriving unannounced."
-  - q: "How long does a visit take?"
-    a: "The guided tour itself runs about 60-75 minutes; allow extra time for the uphill walk from the metro and for exploring the adjacent Capodimonte park or museum."
-  - q: "How do I get there from central Naples?"
-    a: "Take Metro Line 1 or 2 to Piazza Cavour or Museo station, then walk about 15-20 minutes uphill along Via Capodimonte, or take a taxi (around 10 minutes) or local bus up the hill."
-  - q: "Is it a hidden or quiet site?"
-    a: "No — it's a well-known, heavily reviewed attraction (4.7 stars, over 13,000 reviews), so expect crowds, especially midday and in peak season (April-October)."
-  - q: "What's nearby to combine with the visit?"
-    a: "The Museo di Capodimonte and its royal park sit right next door, making it easy to turn the catacombs into a half-day outing on the Capodimonte hill."
+  - q: Do I need to book tickets in advance?
+    a: Yes — visits are guided-tour only on a fixed schedule, and slots can sell out on weekends and holidays, so book online ahead rather than arriving unannounced.
+  - q: How long does a visit take?
+    a: The guided tour itself runs about 60-75 minutes; allow extra time for the uphill walk from the metro and for exploring the adjacent Capodimonte park or museum.
+  - q: How do I get there from central Naples?
+    a: Take Metro Line 1 or 2 to Piazza Cavour or Museo station, then walk about 15-20 minutes uphill along Via Capodimonte, or take a taxi (around 10 minutes) or local bus up the hill.
+  - q: Is it a hidden or quiet site?
+    a: No — it's a well-known, heavily reviewed attraction (4.7 stars, over 13,000 reviews), so expect crowds, especially midday and in peak season (April-October).
+  - q: What's nearby to combine with the visit?
+    a: The Museo di Capodimonte and its royal park sit right next door, making it easy to turn the catacombs into a half-day outing on the Capodimonte hill.
 aiGenerated: true
 draft: false
 ---

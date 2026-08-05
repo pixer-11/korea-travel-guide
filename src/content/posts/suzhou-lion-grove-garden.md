@@ -1,46 +1,46 @@
 ---
-title: "Lion Grove Garden: Suzhou Travel Guide"
+title: 'Lion Grove Garden: Suzhou Travel Guide'
 description: Lion Grove Garden (Shizi Lin), at 23 Yuan Lin Lu in Gusu District, is one of Suzhou's classical UNESCO-listed gardens, famous for a maze of grey limestone "rockeries" said to resemble crouching lions.
-country: "China"
-region: "Suzhou"
-category: "attraction"
-pubDate: "2026-07-27T11:04:29.421Z"
+country: China
+region: Suzhou
+category: attraction
+pubDate: '2026-07-27T11:04:29.421Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/20090905_Suzhou_Lion_Grove_Garden_4502.jpg/1920px-20090905_Suzhou_Lion_Grove_Garden_4502.jpg"
-  credit: "Photo: Jakub Hałun / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:20090905_Suzhou_Lion_Grove_Garden_4502.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/20090905_Suzhou_Lion_Grove_Garden_4502.jpg/1920px-20090905_Suzhou_Lion_Grove_Garden_4502.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Jakub Hałun / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:20090905_Suzhou_Lion_Grove_Garden_4502.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Lion_Grove_Garden_Suzhou_November_2017_009.jpg/1920px-Lion_Grove_Garden_Suzhou_November_2017_009.jpg
     credit: 'Photo: King of Hearts / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Lion_Grove_Garden_Suzhou_November_2017_009.jpg
 place:
-  id: "ChIJjyPSQtCmszUR4upcIiynRg8"
-  name: "Lion Grove Garden"
-  address: "23 Yuan Lin Lu, Gu Su Qu, Su Zhou Shi, Jiang Su Sheng, China, 215005"
+  id: ChIJjyPSQtCmszUR4upcIiynRg8
+  name: Lion Grove Garden
+  address: 23 Yuan Lin Lu, Gu Su Qu, Su Zhou Shi, Jiang Su Sheng, China, 215005
   rating: 4.5
   userRatingsTotal: 679
-  googleMapsUrl: "https://maps.google.com/?cid=1100750966935579362&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=1100750966935579362&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 31.320801999999997
   lng: 120.62964799999999
-  phone: '+86 512 6727 2428'
+  phone: +86 512 6727 2428
 tags:
-  - "suzhou"
-  - "top attraction"
-quickAnswer: "Lion Grove Garden (Shizi Lin), at 23 Yuan Lin Lu in Gusu District, is one of Suzhou's classical UNESCO-listed gardens, famous for a maze of grey limestone \"rockeries\" said to resemble crouching lions. Plan on 60-90 minutes, go right at opening or in the late afternoon to have the stone maze mostly to yourself, and pair it with a walk to the nearby Humble Administrator's Garden or Suzhou Museum, both a few minutes away on foot."
+  - suzhou
+  - top attraction
+quickAnswer: Lion Grove Garden (Shizi Lin), at 23 Yuan Lin Lu in Gusu District, is one of Suzhou's classical UNESCO-listed gardens, famous for a maze of grey limestone "rockeries" said to resemble crouching lions. Plan on 60-90 minutes, go right at opening or in the late afternoon to have the stone maze mostly to yourself, and pair it with a walk to the nearby Humble Administrator's Garden or Suzhou Museum, both a few minutes away on foot.
 faq:
-  - q: "How long should I spend at Lion Grove Garden?"
-    a: "Most visitors need 60-90 minutes, including time to actually walk through the rockery's tunnels rather than just view it from outside."
-  - q: "When is the quietest time to visit?"
-    a: "Right at opening in the morning or after about 4pm tend to be calmest; late morning through early afternoon draws the most tour groups."
-  - q: "How do I get to Lion Grove Garden?"
-    a: "It's at 23 Yuan Lin Lu in the Gusu District old town. Taxis and ride-hail apps are simplest — use the Chinese name 'Shizi Lin' (狮子林). It's an under-10-minute walk from the Humble Administrator's Garden and Suzhou Museum."
-  - q: "What's the best season to go?"
-    a: "Spring (April-May) and autumn (October-November) offer mild weather and good foliage; summer is hot and the stone rockery's narrow passages trap heat, making midday visits uncomfortable."
-  - q: "What else is nearby?"
-    a: "The Humble Administrator's Garden and the I.M. Pei-designed Suzhou Museum are both a few minutes' walk away, making it easy to combine all three in one outing."
+  - q: How long should I spend at Lion Grove Garden?
+    a: Most visitors need 60-90 minutes, including time to actually walk through the rockery's tunnels rather than just view it from outside.
+  - q: When is the quietest time to visit?
+    a: Right at opening in the morning or after about 4pm tend to be calmest; late morning through early afternoon draws the most tour groups.
+  - q: How do I get to Lion Grove Garden?
+    a: It's at 23 Yuan Lin Lu in the Gusu District old town. Taxis and ride-hail apps are simplest — use the Chinese name 'Shizi Lin' (狮子林). It's an under-10-minute walk from the Humble Administrator's Garden and Suzhou Museum.
+  - q: What's the best season to go?
+    a: Spring (April-May) and autumn (October-November) offer mild weather and good foliage; summer is hot and the stone rockery's narrow passages trap heat, making midday visits uncomfortable.
+  - q: What else is nearby?
+    a: The Humble Administrator's Garden and the I.M. Pei-designed Suzhou Museum are both a few minutes' walk away, making it easy to combine all three in one outing.
 aiGenerated: true
 draft: false
 ---

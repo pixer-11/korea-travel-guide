@@ -6,7 +6,7 @@ region: Chiba
 category: attraction
 pubDate: '2026-07-26T07:49:31.193Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Chiba_Port_Park_20111028-004.jpg/1920px-Chiba_Port_Park_20111028-004.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Chiba_Port_Park_20111028-004.jpg/1920px-Chiba_Port_Park_20111028-004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: 掬茶 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Chiba_Port_Park_20111028-004.jpg
@@ -21,7 +21,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 35.61985
   lng: 140.1162637
-  phone: '+81 43-251-5103'
+  phone: +81 43-251-5103
   openingHours:
     - 'Monday: Open 24 hours'
     - 'Tuesday: Open 24 hours'

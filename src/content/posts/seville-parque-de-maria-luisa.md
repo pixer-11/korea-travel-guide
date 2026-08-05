@@ -6,7 +6,7 @@ region: Seville
 category: hidden-gem
 pubDate: '2026-08-04T10:13:13.132Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Parque_de_Mar%C3%ADa_Luisa_%282%29.jpg/1920px-Parque_de_Mar%C3%ADa_Luisa_%282%29.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Parque_de_Mar%C3%ADa_Luisa_%282%29.jpg/1920px-Parque_de_Mar%C3%ADa_Luisa_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Gzzz / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Parque_de_Mar%C3%ADa_Luisa_(2).jpg

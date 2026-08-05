@@ -1,46 +1,46 @@
 ---
-title: "Posada Venta Pilar: Where to Eat in Buñol"
+title: 'Posada Venta Pilar: Where to Eat in Buñol'
 description: Posada Venta Pilar is a 17th-century roadside inn on Av. Pérez Galdós, a short walk from Buñol's old town and its famous Tomatina route, serving hearty Valencian home cooking around a stone courtyard.
-country: "Spain"
-region: "Buñol"
-category: "restaurant"
-pubDate: "2026-07-29T10:05:49.362Z"
+country: Spain
+region: Buñol
+category: restaurant
+pubDate: '2026-07-29T10:05:49.362Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Posada_Venta_Pilar_Paella.jpg/1920px-Posada_Venta_Pilar_Paella.jpg"
-  credit: "Photo: https://www.flickr.com/photos/sunxez/ / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Posada_Venta_Pilar_Paella.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Posada_Venta_Pilar_Paella.jpg/1920px-Posada_Venta_Pilar_Paella.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: https://www.flickr.com/photos/sunxez/ / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Posada_Venta_Pilar_Paella.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/f/f4/Posada_Venta_Pilar_Entradas.jpg"
-    credit: "Photo: StellarD / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Posada_Venta_Pilar_Entradas.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/f/f4/Posada_Venta_Pilar_Entradas.jpg
+    credit: 'Photo: StellarD / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Posada_Venta_Pilar_Entradas.jpg
 place:
-  id: "ChIJeaSHmvXkYA0RLYOxCtFK3co"
-  name: "Posada Venta Pilar"
-  address: "Av. Pérez Galdós, 5, 46360 Buñol, Valencia, Spain"
+  id: ChIJeaSHmvXkYA0RLYOxCtFK3co
+  name: Posada Venta Pilar
+  address: Av. Pérez Galdós, 5, 46360 Buñol, Valencia, Spain
   rating: 4.4
   userRatingsTotal: 3063
-  googleMapsUrl: "https://maps.google.com/?cid=14617922227202523949&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=14617922227202523949&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 39.4251327
   lng: -0.791085
-  phone: '+34 962 50 09 23'
+  phone: +34 962 50 09 23
 tags:
-  - "buñol"
-  - "local restaurant"
-quickAnswer: "Posada Venta Pilar is a 17th-century roadside inn on Av. Pérez Galdós, a short walk from Buñol's old town and its famous Tomatina route, serving hearty Valencian home cooking around a stone courtyard. It's well-known rather than a secret, so book ahead on weekends and around late August, when Tomatina crowds swell the town. Go for the arroz al horno or a long lunch menu, then wander into Buñol's castle quarter afterward."
+  - buñol
+  - local restaurant
+quickAnswer: Posada Venta Pilar is a 17th-century roadside inn on Av. Pérez Galdós, a short walk from Buñol's old town and its famous Tomatina route, serving hearty Valencian home cooking around a stone courtyard. It's well-known rather than a secret, so book ahead on weekends and around late August, when Tomatina crowds swell the town. Go for the arroz al horno or a long lunch menu, then wander into Buñol's castle quarter afterward.
 faq:
-  - q: "Do I need a reservation at Posada Venta Pilar?"
-    a: "It's not essential on quiet weekdays, but booking ahead is strongly recommended for weekend lunches and especially around late-August Tomatina dates, when the restaurant fills quickly."
-  - q: "How do I get to Buñol without a car?"
-    a: "Take the Cercanías C-3 train from Valencia Nord station; the journey takes under an hour and Buñol's station is a 10–15 minute walk from the restaurant."
-  - q: "What should I order?"
-    a: "The arroz al horno (baked rice) is the signature dish, alongside local cured meats and cheeses as starters; ask if a menú del día (fixed lunch menu) is available for the best value."
-  - q: "Is this a touristy spot or a local favorite?"
-    a: "It's a well-known, well-visited address rather than an off-the-radar find — expect a mix of travelers and locals, especially busy around the Tomatina festival."
-  - q: "What else is nearby worth combining with a meal here?"
-    a: "Buñol Castle and the old town bridge are a short walk away, and the Museo del Tomate is worth a stop if you're visiting around festival season."
+  - q: Do I need a reservation at Posada Venta Pilar?
+    a: It's not essential on quiet weekdays, but booking ahead is strongly recommended for weekend lunches and especially around late-August Tomatina dates, when the restaurant fills quickly.
+  - q: How do I get to Buñol without a car?
+    a: Take the Cercanías C-3 train from Valencia Nord station; the journey takes under an hour and Buñol's station is a 10–15 minute walk from the restaurant.
+  - q: What should I order?
+    a: The arroz al horno (baked rice) is the signature dish, alongside local cured meats and cheeses as starters; ask if a menú del día (fixed lunch menu) is available for the best value.
+  - q: Is this a touristy spot or a local favorite?
+    a: It's a well-known, well-visited address rather than an off-the-radar find — expect a mix of travelers and locals, especially busy around the Tomatina festival.
+  - q: What else is nearby worth combining with a meal here?
+    a: Buñol Castle and the old town bridge are a short walk away, and the Museo del Tomate is worth a stop if you're visiting around festival season.
 aiGenerated: true
 draft: false
 ---

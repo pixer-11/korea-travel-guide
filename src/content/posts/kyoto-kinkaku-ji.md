@@ -1,51 +1,60 @@
 ---
-title: "Kinkaku-ji: Kyoto Travel Guide"
-description: "Kinkaku-ji, the Golden Pavilion, is a gold-leaf-covered Zen temple reflected in Kyōko-chi pond in northwest Kyoto's Kita Ward."
-country: "Japan"
-region: "Kyoto"
-category: "attraction"
-pubDate: 2026-07-21
+title: 'Kinkaku-ji: Kyoto Travel Guide'
+description: Kinkaku-ji, the Golden Pavilion, is a gold-leaf-covered Zen temple reflected in Kyōko-chi pond in northwest Kyoto's Kita Ward.
+country: Japan
+region: Kyoto
+category: attraction
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Water_reflection_of_Kinkaku-ji_Temple_a_sunny_day%2C_Kyoto%2C_Japan.jpg/1920px-Water_reflection_of_Kinkaku-ji_Temple_a_sunny_day%2C_Kyoto%2C_Japan.jpg"
-  credit: "Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Water_reflection_of_Kinkaku-ji_Temple_a_sunny_day,_Kyoto,_Japan.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Water_reflection_of_Kinkaku-ji_Temple_a_sunny_day%2C_Kyoto%2C_Japan.jpg/1920px-Water_reflection_of_Kinkaku-ji_Temple_a_sunny_day%2C_Kyoto%2C_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Water_reflection_of_Kinkaku-ji_Temple_a_sunny_day,_Kyoto,_Japan.jpg
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/593865609_TRuuuc2wIMXt21C7QBefimDj_gzgnmsJVOv-f_xUPF4.jpg
     credit: 'Photo: Foursquare user content (Kinkaku-ji Temple (鹿苑寺 (金閣寺)))'
     license: foursquare
     source: https://foursquare.com/v/4b779d4af964a52016a42ee3
 place:
-  id: "ChIJvUbrwCCoAWARX2QiHCsn5A4"
-  name: "Kinkaku-ji"
-  address: "1 Kinkakujichō, Kita Ward, Kyoto, 603-8361, Japan"
+  id: ChIJvUbrwCCoAWARX2QiHCsn5A4
+  name: Kinkaku-ji
+  address: 1 Kinkakujichō, Kita Ward, Kyoto, 603-8361, Japan
   rating: 4.6
   userRatingsTotal: 69110
-  googleMapsUrl: "https://maps.google.com/?cid=1073025677330113631&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=1073025677330113631&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.03937
   lng: 135.7292431
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [9, 16, 17]
-    weekendQuiet: [9, 16, 17]
-    weekendBusy: [12, 13, 14]
-    venueId: 'ven_3441356e73434869513258524157416f434377726255764a496843'
+    weekdayQuiet:
+      - 9
+      - 16
+      - 17
+    weekendQuiet:
+      - 9
+      - 16
+      - 17
+    weekendBusy:
+      - 12
+      - 13
+      - 14
+    venueId: ven_3441356e73434869513258524157416f434377726255764a496843
 tags:
-  - "kyoto"
-  - "Kinkaku-ji Golden Pavilion"
-quickAnswer: "Kinkaku-ji, the Golden Pavilion, is a gold-leaf-covered Zen temple reflected in Kyōko-chi pond in northwest Kyoto's Kita Ward. Plan for 30-45 minutes on a fixed one-way path through the gardens, ideally right at opening (9am) or late afternoon to dodge the worst crowds. It's reachable by city bus from Kyoto Station in about 40 minutes, and pairs well with a walk to Ryoan-ji or Ninna-ji."
+  - kyoto
+  - Kinkaku-ji Golden Pavilion
+quickAnswer: Kinkaku-ji, the Golden Pavilion, is a gold-leaf-covered Zen temple reflected in Kyōko-chi pond in northwest Kyoto's Kita Ward. Plan for 30-45 minutes on a fixed one-way path through the gardens, ideally right at opening (9am) or late afternoon to dodge the worst crowds. It's reachable by city bus from Kyoto Station in about 40 minutes, and pairs well with a walk to Ryoan-ji or Ninna-ji.
 faq:
-  - q: "How do I get to Kinkaku-ji from Kyoto Station?"
-    a: "Take City Bus 101 or 205 to the Kinkakuji-michi stop, about 35-45 minutes depending on traffic. There's no direct train or subway station within walking distance."
-  - q: "How much time should I budget for the visit?"
-    a: "Most visitors spend 30-45 minutes walking the one-way garden path, since the pavilion is viewed only from outside and there's no interior access."
-  - q: "What's the best time to avoid crowds?"
-    a: "Go right at opening (around 9am) or within the last hour before closing (around 5pm). Midday, weekends, and the autumn foliage and spring cherry blossom seasons are the busiest."
-  - q: "Can you go inside the Golden Pavilion?"
-    a: "No, the pavilion is viewed from the surrounding garden paths only; there is no public interior access."
-  - q: "What else is nearby worth combining with the visit?"
-    a: "Ryoan-ji (famous rock garden) and Ninna-ji temple are both a short bus or taxi ride away, making a good half-day northwest Kyoto temple loop."
+  - q: How do I get to Kinkaku-ji from Kyoto Station?
+    a: Take City Bus 101 or 205 to the Kinkakuji-michi stop, about 35-45 minutes depending on traffic. There's no direct train or subway station within walking distance.
+  - q: How much time should I budget for the visit?
+    a: Most visitors spend 30-45 minutes walking the one-way garden path, since the pavilion is viewed only from outside and there's no interior access.
+  - q: What's the best time to avoid crowds?
+    a: Go right at opening (around 9am) or within the last hour before closing (around 5pm). Midday, weekends, and the autumn foliage and spring cherry blossom seasons are the busiest.
+  - q: Can you go inside the Golden Pavilion?
+    a: No, the pavilion is viewed from the surrounding garden paths only; there is no public interior access.
+  - q: What else is nearby worth combining with the visit?
+    a: Ryoan-ji (famous rock garden) and Ninna-ji temple are both a short bus or taxi ride away, making a good half-day northwest Kyoto temple loop.
 aiGenerated: true
 draft: false
 ---

@@ -6,7 +6,7 @@ region: Seattle
 category: hidden-gem
 pubDate: '2026-08-02T09:32:47.110Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Chihuly_Garden_and_Glass_2014_09.JPG/1920px-Chihuly_Garden_and_Glass_2014_09.JPG
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Chihuly_Garden_and_Glass_2014_09.JPG/1920px-Chihuly_Garden_and_Glass_2014_09.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Jllm06 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Chihuly_Garden_and_Glass_2014_09.JPG

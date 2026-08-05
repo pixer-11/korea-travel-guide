@@ -6,7 +6,7 @@ region: Los Angeles
 category: attraction
 pubDate: '2026-08-05T11:34:08.112Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Los_angeles_from_getty_panorama.jpg/3840px-Los_angeles_from_getty_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Los_angeles_from_getty_panorama.jpg/1920px-Los_angeles_from_getty_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Mfield, Matthew Field, http://www.photography.mattfield.com / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Los_angeles_from_getty_panorama.jpg

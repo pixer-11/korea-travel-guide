@@ -1,45 +1,45 @@
 ---
-title: "Golden Gate Bridge: San Francisco Travel Guide"
+title: 'Golden Gate Bridge: San Francisco Travel Guide'
 description: Walk or bike the Golden Gate Bridge from the free Welcome Center on the San Francisco (southeast) side — the 1.7-mile sidewalk crossing to Marin's Vista Point takes about 45-60 minutes each way on foot, or roughly 20-30 minutes by bike one-way.
-country: "United States"
-region: "San Francisco"
-category: "attraction"
-pubDate: 2026-07-21
+country: United States
+region: San Francisco
+category: attraction
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/San_Francisco_%28CA%2C_USA%29%2C_Golden_Gate_Bridge_--_2022_--_3023_%28bw%29.jpg/1920px-San_Francisco_%28CA%2C_USA%29%2C_Golden_Gate_Bridge_--_2022_--_3023_%28bw%29.jpg"
-  credit: "Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:San_Francisco_(CA,_USA),_Golden_Gate_Bridge_--_2022_--_3023_(bw).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/San_Francisco_%28CA%2C_USA%29%2C_Golden_Gate_Bridge_--_2022_--_3023_%28bw%29.jpg/1920px-San_Francisco_%28CA%2C_USA%29%2C_Golden_Gate_Bridge_--_2022_--_3023_%28bw%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:San_Francisco_(CA,_USA),_Golden_Gate_Bridge_--_2022_--_3023_(bw).jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Golden_Gate_Bridge_as_seen_from_Marshall%E2%80%99s_Beach%2C_March_2018.jpg/1920px-Golden_Gate_Bridge_as_seen_from_Marshall%E2%80%99s_Beach%2C_March_2018.jpg
     credit: 'Photo: Frank Schulenburg / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_as_seen_from_Marshall%E2%80%99s_Beach,_March_2018.jpg
 place:
-  id: "ChIJw____96GhYARCVVwg5cT7c0"
-  name: "Golden Gate Bridge"
-  address: "Golden Gate Brg, San Francisco, CA, USA"
+  id: ChIJw____96GhYARCVVwg5cT7c0
+  name: Golden Gate Bridge
+  address: Golden Gate Brg, San Francisco, CA, USA
   rating: 4.8
   userRatingsTotal: 85373
-  googleMapsUrl: "https://maps.google.com/?cid=14838537888721818889&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=14838537888721818889&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.819910899999996
   lng: -122.4785598
 tags:
-  - "san francisco"
-  - "Golden Gate Bridge"
-quickAnswer: "Walk or bike the Golden Gate Bridge from the free Welcome Center on the San Francisco (southeast) side — the 1.7-mile sidewalk crossing to Marin's Vista Point takes about 45-60 minutes each way on foot, or roughly 20-30 minutes by bike one-way. Go early morning or just before sunset for the best light and lightest fog; the bridge and Welcome Center are free, though you'll pay a toll only if driving south into the city."
+  - san francisco
+  - Golden Gate Bridge
+quickAnswer: Walk or bike the Golden Gate Bridge from the free Welcome Center on the San Francisco (southeast) side — the 1.7-mile sidewalk crossing to Marin's Vista Point takes about 45-60 minutes each way on foot, or roughly 20-30 minutes by bike one-way. Go early morning or just before sunset for the best light and lightest fog; the bridge and Welcome Center are free, though you'll pay a toll only if driving south into the city.
 faq:
-  - q: "Is it free to visit the Golden Gate Bridge?"
-    a: "Yes — walking, biking, and visiting the Welcome Center are all free. Only drivers heading southbound into San Francisco pay a toll, collected electronically with no cash option at the plaza."
-  - q: "How long does it take to walk across?"
-    a: "The pedestrian sidewalk is about 1.7 miles one-way; most visitors take 45 minutes to an hour each direction, longer with photo stops."
-  - q: "What's the best time to see the bridge without fog?"
-    a: "Early morning before 10am or the hour before sunset usually offer the clearest views; September and October tend to have the least fog overall."
-  - q: "Where's the best photo spot?"
-    a: "Battery Spencer in the Marin Headlands, just north of the bridge, is the classic wide shot with the towers and city skyline; Fort Point below the south end gives a dramatic close-up angle."
-  - q: "How do I get there without a car?"
-    a: "Muni buses 28 and 29 stop near the toll plaza on the San Francisco side, and Golden Gate Transit buses cross the bridge from downtown to Marin viewpoints."
+  - q: Is it free to visit the Golden Gate Bridge?
+    a: Yes — walking, biking, and visiting the Welcome Center are all free. Only drivers heading southbound into San Francisco pay a toll, collected electronically with no cash option at the plaza.
+  - q: How long does it take to walk across?
+    a: The pedestrian sidewalk is about 1.7 miles one-way; most visitors take 45 minutes to an hour each direction, longer with photo stops.
+  - q: What's the best time to see the bridge without fog?
+    a: Early morning before 10am or the hour before sunset usually offer the clearest views; September and October tend to have the least fog overall.
+  - q: Where's the best photo spot?
+    a: Battery Spencer in the Marin Headlands, just north of the bridge, is the classic wide shot with the towers and city skyline; Fort Point below the south end gives a dramatic close-up angle.
+  - q: How do I get there without a car?
+    a: Muni buses 28 and 29 stop near the toll plaza on the San Francisco side, and Golden Gate Transit buses cross the bridge from downtown to Marin viewpoints.
 aiGenerated: true
 draft: false
 ---

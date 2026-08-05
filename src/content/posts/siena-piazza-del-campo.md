@@ -1,32 +1,32 @@
 ---
-title: "Piazza del Campo: Siena Travel Guide"
+title: 'Piazza del Campo: Siena Travel Guide'
 description: Piazza del Campo is Siena's shell-shaped medieval square, ringed by the Palazzo Pubblico and the Torre del Mangia, and the stage for the Palio horse race every July 2 and August 16.
-country: "Italy"
-region: "Siena"
-category: "hidden-gem"
-pubDate: "2026-07-31T10:09:05.405Z"
+country: Italy
+region: Siena
+category: hidden-gem
+pubDate: '2026-07-31T10:09:05.405Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Piazza_del_Campo_2014_01.jpg/3840px-Piazza_del_Campo_2014_01.jpg"
-  credit: "Photo: Perituss / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Piazza_del_Campo_2014_01.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Piazza_del_Campo_2014_01.jpg/1920px-Piazza_del_Campo_2014_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Perituss / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Piazza_del_Campo_2014_01.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/7/75/The_Piazza_Del_Campo%2C_Siena%2C_Italy.jpg"
-    credit: "Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:The_Piazza_Del_Campo,_Siena,_Italy.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/7/75/The_Piazza_Del_Campo%2C_Siena%2C_Italy.jpg
+    credit: 'Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:The_Piazza_Del_Campo,_Siena,_Italy.jpg
 place:
-  id: "ChIJE5VD8bksKhMRWgKSMTA5q0Y"
-  name: "Piazza del Campo"
-  address: "Il Campo, 53100 Siena SI, Italy"
+  id: ChIJE5VD8bksKhMRWgKSMTA5q0Y
+  name: Piazza del Campo
+  address: Il Campo, 53100 Siena SI, Italy
   rating: 4.8
   userRatingsTotal: 84959
-  googleMapsUrl: "https://maps.google.com/?cid=5092226682825343578&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=5092226682825343578&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.318420499999995
   lng: 11.331691099999999
   busyness:
-    updated: 2026-07-31
+    updated: 2026-07-31T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -54,22 +54,22 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_5930713541544d534b6757524d684b736b6238445635454a496843"
+    venueId: ven_5930713541544d534b6757524d684b736b6238445635454a496843
 tags:
-  - "siena"
-  - "hidden gem"
-quickAnswer: "Piazza del Campo is Siena's shell-shaped medieval square, ringed by the Palazzo Pubblico and the Torre del Mangia, and the stage for the Palio horse race every July 2 and August 16. It's very popular, so the calm window is 7am–9am, before tour groups fill it; weekends stay busy from 11am right through to 11pm. Give it 45 minutes to an hour for a first look, longer if you climb the tower or linger over a coffee on the slope."
+  - siena
+  - hidden gem
+quickAnswer: Piazza del Campo is Siena's shell-shaped medieval square, ringed by the Palazzo Pubblico and the Torre del Mangia, and the stage for the Palio horse race every July 2 and August 16. It's very popular, so the calm window is 7am–9am, before tour groups fill it; weekends stay busy from 11am right through to 11pm. Give it 45 minutes to an hour for a first look, longer if you climb the tower or linger over a coffee on the slope.
 faq:
-  - q: "How do I get to Piazza del Campo?"
-    a: "It's fully pedestrian and sits at the heart of Siena's historic center. Regional trains from Florence (about 1.5 hours) arrive at Siena station, from which it's roughly a 20-minute uphill walk or a short local bus ride into the old town; if driving, park outside the walls (Siena's center is largely traffic-restricted) and walk in."
-  - q: "When is the quietest time to visit?"
-    a: "Between 7am and 9am on both weekdays and weekends, before shops open and tour groups arrive. Weekends stay crowded from 11am until around 11pm, so plan around that stretch if you want breathing room."
-  - q: "How long should I spend at the Campo?"
-    a: "Budget 45 minutes to an hour just to sit, walk the perimeter, and take in the Palazzo Pubblico's facade. Add an hour or more if you tour the Museo Civico or climb the Torre del Mangia."
-  - q: "Is it worth visiting during the Palio?"
-    a: "If your dates align with July 2 or August 16, absolutely — but expect the square to be completely packed, standing-room only in the center, with tickets or reservations needed for seated viewing along the edges. Book accommodation well in advance for these dates."
-  - q: "What's nearby worth combining with the visit?"
-    a: "The Duomo di Siena and its striped bell tower are a short walk away, as is the Piazza Salimbeni and the winding shopping streets of Via di Città and Banchi di Sopra."
+  - q: How do I get to Piazza del Campo?
+    a: It's fully pedestrian and sits at the heart of Siena's historic center. Regional trains from Florence (about 1.5 hours) arrive at Siena station, from which it's roughly a 20-minute uphill walk or a short local bus ride into the old town; if driving, park outside the walls (Siena's center is largely traffic-restricted) and walk in.
+  - q: When is the quietest time to visit?
+    a: Between 7am and 9am on both weekdays and weekends, before shops open and tour groups arrive. Weekends stay crowded from 11am until around 11pm, so plan around that stretch if you want breathing room.
+  - q: How long should I spend at the Campo?
+    a: Budget 45 minutes to an hour just to sit, walk the perimeter, and take in the Palazzo Pubblico's facade. Add an hour or more if you tour the Museo Civico or climb the Torre del Mangia.
+  - q: Is it worth visiting during the Palio?
+    a: If your dates align with July 2 or August 16, absolutely — but expect the square to be completely packed, standing-room only in the center, with tickets or reservations needed for seated viewing along the edges. Book accommodation well in advance for these dates.
+  - q: What's nearby worth combining with the visit?
+    a: The Duomo di Siena and its striped bell tower are a short walk away, as is the Piazza Salimbeni and the winding shopping streets of Via di Città and Banchi di Sopra.
 aiGenerated: true
 draft: false
 ---

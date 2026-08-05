@@ -1,45 +1,45 @@
 ---
-title: "Grand World: Phu Quoc Travel Guide"
+title: 'Grand World: Phu Quoc Travel Guide'
 description: Grand World Phu Quoc is a free-to-enter entertainment and shopping complex on Bãi Dài (Long Beach's northern coast), best visited late afternoon into night when the "Venice" canals, light shows, and Teddy Bear Museum come alive.
-country: "Vietnam"
-region: "Phu Quoc"
-category: "attraction"
-pubDate: "2026-07-22T09:29:51.898Z"
+country: Vietnam
+region: Phu Quoc
+category: attraction
+pubDate: '2026-07-22T09:29:51.898Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/2023-07-30_Grand_World_Ph%C3%BA_Qu%E1%BB%91c_DSCF2045.jpg/1920px-2023-07-30_Grand_World_Ph%C3%BA_Qu%E1%BB%91c_DSCF2045.jpg"
-  credit: "Photo: 松岡明芳 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:2023-07-30_Grand_World_Ph%C3%BA_Qu%E1%BB%91c_DSCF2045.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/2023-07-30_Grand_World_Ph%C3%BA_Qu%E1%BB%91c_DSCF2045.jpg/1920px-2023-07-30_Grand_World_Ph%C3%BA_Qu%E1%BB%91c_DSCF2045.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: 松岡明芳 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:2023-07-30_Grand_World_Ph%C3%BA_Qu%E1%BB%91c_DSCF2045.jpg
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/560778098_DGdMSo8U6mU7nFog1XuyjyYaij8idU57PDy-jSQgTCQ.jpg
     credit: 'Photo: Foursquare user content (Grand World Phú Quốc)'
     license: foursquare
     source: https://foursquare.com/v/61bdee77dcb39e48e72b9ff8
 place:
-  id: "ChIJbUZGsQEfCDERXgX4I2SUCsI"
-  name: "Grand World Phu Quoc"
-  address: "Bãi Dài, Phú Quốc, An Giang, Vietnam"
+  id: ChIJbUZGsQEfCDERXgX4I2SUCsI
+  name: Grand World Phu Quoc
+  address: Bãi Dài, Phú Quốc, An Giang, Vietnam
   rating: 4.5
   userRatingsTotal: 13764
-  googleMapsUrl: "https://maps.google.com/?cid=13982151150946223454&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=13982151150946223454&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 10.328480899999999
   lng: 103.8629519
 tags:
-  - "phu quoc"
-  - "top attraction"
-quickAnswer: "Grand World Phu Quoc is a free-to-enter entertainment and shopping complex on Bãi Dài (Long Beach's northern coast), best visited late afternoon into night when the \"Venice\" canals, light shows, and Teddy Bear Museum come alive. Budget half a day to a full evening, bring cash/card for food and paid shows (like the puppet or fire performances), and pair it with nearby Vinpearl Safari or Corona Casino since they're all in the same Phu Quoc United Center zone."
+  - phu quoc
+  - top attraction
+quickAnswer: Grand World Phu Quoc is a free-to-enter entertainment and shopping complex on Bãi Dài (Long Beach's northern coast), best visited late afternoon into night when the "Venice" canals, light shows, and Teddy Bear Museum come alive. Budget half a day to a full evening, bring cash/card for food and paid shows (like the puppet or fire performances), and pair it with nearby Vinpearl Safari or Corona Casino since they're all in the same Phu Quoc United Center zone.
 faq:
-  - q: "Is there an entrance fee for Grand World Phu Quoc?"
-    a: "Walking through the main grounds and canal district is generally free; individual attractions like the Teddy Bear Museum, boat rides, or special shows may have separate charges, so budget a small amount of cash or card for extras."
-  - q: "How do I get to Grand World from the airport?"
-    a: "It's about a 25-30 minute taxi or Grab ride from Phu Quoc International Airport to Bãi Dài, where Grand World is located. Many northern-coast resorts also run their own shuttles."
-  - q: "What time is best to visit?"
-    a: "Late afternoon into evening is ideal, since the canal district's lighting and most live shows happen after dark; daytime can be very hot with less to see."
-  - q: "How long should I plan to spend there?"
-    a: "Two to four hours is enough to walk the canal area, visit the Teddy Bear Museum, catch an evening show, and grab a meal; night owls can easily stretch it into a full evening."
-  - q: "What else is nearby?"
-    a: "Vinpearl Safari Phu Quoc, Vinpearl Land amusement park, and Corona Casino are all within the same Phu Quoc United Center area in Bãi Dài, making them easy to combine with a Grand World visit."
+  - q: Is there an entrance fee for Grand World Phu Quoc?
+    a: Walking through the main grounds and canal district is generally free; individual attractions like the Teddy Bear Museum, boat rides, or special shows may have separate charges, so budget a small amount of cash or card for extras.
+  - q: How do I get to Grand World from the airport?
+    a: It's about a 25-30 minute taxi or Grab ride from Phu Quoc International Airport to Bãi Dài, where Grand World is located. Many northern-coast resorts also run their own shuttles.
+  - q: What time is best to visit?
+    a: Late afternoon into evening is ideal, since the canal district's lighting and most live shows happen after dark; daytime can be very hot with less to see.
+  - q: How long should I plan to spend there?
+    a: Two to four hours is enough to walk the canal area, visit the Teddy Bear Museum, catch an evening show, and grab a meal; night owls can easily stretch it into a full evening.
+  - q: What else is nearby?
+    a: Vinpearl Safari Phu Quoc, Vinpearl Land amusement park, and Corona Casino are all within the same Phu Quoc United Center area in Bãi Dài, making them easy to combine with a Grand World visit.
 aiGenerated: true
 draft: false
 ---

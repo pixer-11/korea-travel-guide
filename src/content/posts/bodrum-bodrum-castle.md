@@ -1,54 +1,54 @@
 ---
-title: "Bodrum Castle: Travel Guide"
+title: 'Bodrum Castle: Travel Guide'
 description: 'Bodrum Castle (Kale, in Turkish) sits on its own small peninsula between Bodrum''s two harbor bays, and it''s easily worth a half-day: budget 2-3 hours to wander the ramparts, towers, and the Museum of Underwater Archaeology inside.'
-country: "Turkey"
-region: "Bodrum"
-category: "hidden-gem"
-pubDate: "2026-07-28T10:06:24.831Z"
+country: Turkey
+region: Bodrum
+category: hidden-gem
+pubDate: '2026-07-28T10:06:24.831Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bodrum_Castle_%282017%29.jpg/1920px-Bodrum_Castle_%282017%29.jpg"
-  credit: "Photo: Serhio Magpie / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Bodrum_Castle_(2017).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bodrum_Castle_%282017%29.jpg/1920px-Bodrum_Castle_%282017%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Serhio Magpie / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Bodrum_Castle_(2017).jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bodrum_Castle%2C_Turkey.jpg/1920px-Bodrum_Castle%2C_Turkey.jpg"
-    credit: "Photo: Mustang Joe / Wikimedia Commons (CC0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Bodrum_Castle,_Turkey.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bodrum_Castle%2C_Turkey.jpg/1920px-Bodrum_Castle%2C_Turkey.jpg
+    credit: 'Photo: Mustang Joe / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Bodrum_Castle,_Turkey.jpg
 place:
-  id: "ChIJYw5gNEJsvhQRcRzUhvXx1Cs"
-  name: "Bodrum Castle"
-  address: "Çarşı, Kale Cd., 48400 Bodrum/Muğla, Türkiye"
+  id: ChIJYw5gNEJsvhQRcRzUhvXx1Cs
+  name: Bodrum Castle
+  address: Çarşı, Kale Cd., 48400 Bodrum/Muğla, Türkiye
   rating: 4.5
   userRatingsTotal: 26533
-  googleMapsUrl: "https://maps.google.com/?cid=3158415275524889713&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=3158415275524889713&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.0317978
   lng: 27.4291652
-  phone: '+90 252 316 25 16'
+  phone: +90 252 316 25 16
   openingHours:
-    - "Monday: 8:30 AM – 9:30 PM"
-    - "Tuesday: 8:30 AM – 9:30 PM"
-    - "Wednesday: 8:30 AM – 9:30 PM"
-    - "Thursday: 8:30 AM – 9:30 PM"
-    - "Friday: 8:30 AM – 9:30 PM"
-    - "Saturday: 8:30 AM – 9:30 PM"
-    - "Sunday: 8:30 AM – 9:30 PM"
+    - 'Monday: 8:30 AM – 9:30 PM'
+    - 'Tuesday: 8:30 AM – 9:30 PM'
+    - 'Wednesday: 8:30 AM – 9:30 PM'
+    - 'Thursday: 8:30 AM – 9:30 PM'
+    - 'Friday: 8:30 AM – 9:30 PM'
+    - 'Saturday: 8:30 AM – 9:30 PM'
+    - 'Sunday: 8:30 AM – 9:30 PM'
 tags:
-  - "bodrum"
-  - "hidden gem"
-quickAnswer: "Bodrum Castle (Kale, in Turkish) sits on its own small peninsula between Bodrum's two harbor bays, and it's easily worth a half-day: budget 2-3 hours to wander the ramparts, towers, and the Museum of Underwater Archaeology inside. With 26,500+ reviews and a 4.5 rating, this is one of the most visited sights on the Bodrum Peninsula, so go right at opening or in the last two hours before closing to dodge the cruise-ship crowds. It's a 10-15 minute walk from the main marina/bus station along the harbor front — no car needed."
+  - bodrum
+  - hidden gem
+quickAnswer: 'Bodrum Castle (Kale, in Turkish) sits on its own small peninsula between Bodrum''s two harbor bays, and it''s easily worth a half-day: budget 2-3 hours to wander the ramparts, towers, and the Museum of Underwater Archaeology inside. With 26,500+ reviews and a 4.5 rating, this is one of the most visited sights on the Bodrum Peninsula, so go right at opening or in the last two hours before closing to dodge the cruise-ship crowds. It''s a 10-15 minute walk from the main marina/bus station along the harbor front — no car needed.'
 faq:
-  - q: "How much time should I budget for Bodrum Castle?"
-    a: "Plan on 2-3 hours if you want to properly see the Museum of Underwater Archaeology, including the Uluburun Shipwreck Hall, rather than just walking the exterior walls."
-  - q: "How do I get to Bodrum Castle without a car?"
-    a: "It's a 10-15 minute walk along the harbor promenade from the otogar (bus station) or marina area — just follow the waterfront with the sea on one side. Dolmuş minibuses from other peninsula towns also drop nearby."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Go right at opening or in the last couple of hours before closing. Mid-morning to early afternoon is when cruise-ship groups tend to arrive, so those hours get busiest."
-  - q: "Is Bodrum Castle worth visiting if I'm not into museums?"
-    a: "Yes — even a walk around the ramparts and towers gives sweeping views over both of Bodrum's harbor bays and, on clear days, toward the Greek island of Kos, plus visible carved stones reused from the ancient Mausoleum at Halicarnassus."
-  - q: "What's nearby after visiting the castle?"
-    a: "The Bodrum bazaar and the café-lined harbor promenade are immediately adjacent, making it easy to combine the castle with a stroll through the old town."
+  - q: How much time should I budget for Bodrum Castle?
+    a: Plan on 2-3 hours if you want to properly see the Museum of Underwater Archaeology, including the Uluburun Shipwreck Hall, rather than just walking the exterior walls.
+  - q: How do I get to Bodrum Castle without a car?
+    a: It's a 10-15 minute walk along the harbor promenade from the otogar (bus station) or marina area — just follow the waterfront with the sea on one side. Dolmuş minibuses from other peninsula towns also drop nearby.
+  - q: When is the best time to visit to avoid crowds?
+    a: Go right at opening or in the last couple of hours before closing. Mid-morning to early afternoon is when cruise-ship groups tend to arrive, so those hours get busiest.
+  - q: Is Bodrum Castle worth visiting if I'm not into museums?
+    a: Yes — even a walk around the ramparts and towers gives sweeping views over both of Bodrum's harbor bays and, on clear days, toward the Greek island of Kos, plus visible carved stones reused from the ancient Mausoleum at Halicarnassus.
+  - q: What's nearby after visiting the castle?
+    a: The Bodrum bazaar and the café-lined harbor promenade are immediately adjacent, making it easy to combine the castle with a stroll through the old town.
 aiGenerated: true
 draft: false
 ---

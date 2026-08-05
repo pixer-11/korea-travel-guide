@@ -1,12 +1,12 @@
 ---
-title: "Seongsu Cafes in Seoul"
-description: "Seongsu-dong, Seoul's former shoe-factory district, is now the city's densest cluster of design-forward cafes housed in converted warehouses and workshops."
+title: Seongsu Cafes in Seoul
+description: Seongsu-dong, Seoul's former shoe-factory district, is now the city's densest cluster of design-forward cafes housed in converted warehouses and workshops.
 region: Seoul
-country: "South Korea"
+country: South Korea
 category: trendy
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flowery_cafe_in_Seongsu-dong.jpg/1920px-Flowery_cafe_in_Seongsu-dong.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flowery_cafe_in_Seongsu-dong.jpg/1920px-Flowery_cafe_in_Seongsu-dong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: CartoonChess / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Flowery_cafe_in_Seongsu-dong.jpg

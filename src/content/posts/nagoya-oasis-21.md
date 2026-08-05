@@ -1,52 +1,74 @@
 ---
-title: "Oasis 21: Nagoya Travel Guide"
+title: 'Oasis 21: Nagoya Travel Guide'
 description: Oasis 21 is the glass-decked "spaceship" park above Sakae's bus terminal in central Nagoya — free to visit, best at sunset when the elevated "Water Spaceship" deck lights up with the TV Tower behind it.
-country: "Japan"
-region: "Nagoya"
-category: "attraction"
-pubDate: 2026-07-21
+country: Japan
+region: Nagoya
+category: attraction
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Oasis_21_%EF%BC%86_Nagoya_TV_Tower.jpg/1920px-Oasis_21_%EF%BC%86_Nagoya_TV_Tower.jpg"
-  credit: "Photo: Nryate / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Oasis_21_%EF%BC%86_Nagoya_TV_Tower.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Oasis_21_%EF%BC%86_Nagoya_TV_Tower.jpg/1920px-Oasis_21_%EF%BC%86_Nagoya_TV_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Nryate / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Oasis_21_%EF%BC%86_Nagoya_TV_Tower.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Oasis_21_Nagoya_Rainbow_Pride_2025_VLux5_hdsr_01.jpg/1920px-Oasis_21_Nagoya_Rainbow_Pride_2025_VLux5_hdsr_01.jpg
     credit: 'Photo: Hyppolyte de Saint-Rambert / Wikimedia Commons (CC BY 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Oasis_21_Nagoya_Rainbow_Pride_2025_VLux5_hdsr_01.jpg
 place:
-  id: "ChIJT5niKdRwA2AR1oO7t2LlvlQ"
-  name: "Oasis 21"
-  address: "1-chōme-11-1 Higashisakura, Higashi Ward, Nagoya, Aichi 461-0005, Japan"
+  id: ChIJT5niKdRwA2AR1oO7t2LlvlQ
+  name: Oasis 21
+  address: 1-chōme-11-1 Higashisakura, Higashi Ward, Nagoya, Aichi 461-0005, Japan
   rating: 4.1
   userRatingsTotal: 12522
-  googleMapsUrl: "https://maps.google.com/?cid=6106570356913046486&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=6106570356913046486&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.1711148
   lng: 136.9094757
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [7, 8, 9, 10, 22]
-    weekdayBusy: [17, 18, 19]
-    weekendQuiet: [7, 8, 9, 21, 22]
-    weekendBusy: [12, 13, 14, 15, 16, 17, 18, 19, 20]
-    venueId: 'ven_516c766c4c3274374f6f31524132417752644b696e35544a496843'
+    weekdayQuiet:
+      - 7
+      - 8
+      - 9
+      - 10
+      - 22
+    weekdayBusy:
+      - 17
+      - 18
+      - 19
+    weekendQuiet:
+      - 7
+      - 8
+      - 9
+      - 21
+      - 22
+    weekendBusy:
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+    venueId: ven_516c766c4c3274374f6f31524132417752644b696e35544a496843
 tags:
-  - "nagoya"
-  - "top attraction"
-quickAnswer: "Oasis 21 is the glass-decked \"spaceship\" park above Sakae's bus terminal in central Nagoya — free to visit, best at sunset when the elevated \"Water Spaceship\" deck lights up with the TV Tower behind it. Budget 45–90 minutes to walk the ring, browse the shops, and grab food, longer if you're catching an evening illumination or event."
+  - nagoya
+  - top attraction
+quickAnswer: Oasis 21 is the glass-decked "spaceship" park above Sakae's bus terminal in central Nagoya — free to visit, best at sunset when the elevated "Water Spaceship" deck lights up with the TV Tower behind it. Budget 45–90 minutes to walk the ring, browse the shops, and grab food, longer if you're catching an evening illumination or event.
 faq:
-  - q: "Is Oasis 21 free to visit?"
-    a: "Yes. Walking onto the rooftop 'Water Spaceship' deck and through the sunken plaza is free. Occasional special exhibits or events inside the complex may charge a separate fee, so check on arrival if something specific is on."
-  - q: "How do I get to Oasis 21?"
-    a: "Take the Nagoya Municipal Subway (Higashiyama or Meijo Line) to Sakae Station and use Exit 3 or 4, which lead directly into the complex. It's also reachable from Sakae Station on the Meitetsu Seto Line, and the ground floor is a bus terminal."
-  - q: "How long should I spend there?"
-    a: "About 45–90 minutes covers the rooftop deck, plaza, and a look at the shops and food options below. Add extra time if visiting during an evening illumination or a market/event in the plaza."
-  - q: "What's the best time of day to visit?"
-    a: "Just before and after sunset, when the glass roof's water layer is lit with LEDs and the nearby Nagoya TV Tower is illuminated — this is the classic photo window."
-  - q: "What else is nearby?"
-    a: "Nagoya TV Tower and Hisaya-odori Park are a 5–10 minute walk away, and the Aichi Arts Center and Nagoya City Science Museum are within about 10 minutes on foot. Sakae's underground shopping arcades connect directly to the same station."
+  - q: Is Oasis 21 free to visit?
+    a: Yes. Walking onto the rooftop 'Water Spaceship' deck and through the sunken plaza is free. Occasional special exhibits or events inside the complex may charge a separate fee, so check on arrival if something specific is on.
+  - q: How do I get to Oasis 21?
+    a: Take the Nagoya Municipal Subway (Higashiyama or Meijo Line) to Sakae Station and use Exit 3 or 4, which lead directly into the complex. It's also reachable from Sakae Station on the Meitetsu Seto Line, and the ground floor is a bus terminal.
+  - q: How long should I spend there?
+    a: About 45–90 minutes covers the rooftop deck, plaza, and a look at the shops and food options below. Add extra time if visiting during an evening illumination or a market/event in the plaza.
+  - q: What's the best time of day to visit?
+    a: Just before and after sunset, when the glass roof's water layer is lit with LEDs and the nearby Nagoya TV Tower is illuminated — this is the classic photo window.
+  - q: What else is nearby?
+    a: Nagoya TV Tower and Hisaya-odori Park are a 5–10 minute walk away, and the Aichi Arts Center and Nagoya City Science Museum are within about 10 minutes on foot. Sakae's underground shopping arcades connect directly to the same station.
 aiGenerated: true
 draft: false
 ---

@@ -1,28 +1,28 @@
 ---
-title: "Suan Luang Rama IX: Bangkok Travel Guide (4.7★)"
-description: "Suan Luang Rama IX, in Prawet district on Bangkok's eastern edge, is one of the city's biggest and most beautifully landscaped public parks — a mix of botanical gardens, a lake with paddle boats, jogging paths and playgrounds. 4.7★ (19,345 reviews) — what visitors say, hours, and tips."
-country: "Thailand"
-region: "Bangkok"
-category: "attraction"
-pubDate: "2026-08-05T11:01:39.540Z"
+title: 'Suan Luang Rama IX: Bangkok Travel Guide (4.7★)'
+description: Suan Luang Rama IX, in Prawet district on Bangkok's eastern edge, is one of the city's biggest and most beautifully landscaped public parks — a mix of botanical gardens, a lake with paddle boats, jogging paths and playgrounds. 4.7★ (19,345 reviews) — what visitors say, hours, and tips.
+country: Thailand
+region: Bangkok
+category: attraction
+pubDate: '2026-08-05T11:01:39.540Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/6/63/Rama_IX_Park.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-  credit: "Photo: The original uploader was Heuristics at Thai Wikipedia. / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Rama_IX_Park.JPG"
+  url: https://upload.wikimedia.org/wikipedia/commons/6/63/Rama_IX_Park.JPG
+  credit: 'Photo: The original uploader was Heuristics at Thai Wikipedia. / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Rama_IX_Park.JPG
 gallery: []
 place:
-  id: "ChIJu1mpMZRgHTERRNTicTdIHxg"
-  name: "Suan Luang Rama IX"
-  address: "Chaloem Phrakiat Ratchakan Thi 9 Rd, เเขวงหนองบอน Khet Prawet, Krung Thep Maha Nakhon 10250, Thailand"
+  id: ChIJu1mpMZRgHTERRNTicTdIHxg
+  name: Suan Luang Rama IX
+  address: Chaloem Phrakiat Ratchakan Thi 9 Rd, เเขวงหนองบอน Khet Prawet, Krung Thep Maha Nakhon 10250, Thailand
   rating: 4.7
   userRatingsTotal: 19345
-  googleMapsUrl: "https://maps.google.com/?cid=1738187384159392836&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=1738187384159392836&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 13.688319
   lng: 100.6641942
   busyness:
-    updated: 2026-08-05
+    updated: 2026-08-05T00:00:00.000Z
     weekdayQuiet:
       - 10
       - 11
@@ -43,22 +43,22 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_6778484964546369544e525245544867525a4d706d31754a496843"
+    venueId: ven_6778484964546369544e525245544867525a4d706d31754a496843
 tags:
-  - "bangkok"
-  - "park"
-quickAnswer: "Suan Luang Rama IX, in Prawet district on Bangkok's eastern edge, is one of the city's biggest and most beautifully landscaped public parks — a mix of botanical gardens, a lake with paddle boats, jogging paths and playgrounds. Go on a weekday between 10am and 8pm for the calmest experience; weekends get busy from 7am to 7pm, so if you must go on a Saturday or Sunday, aim for after noon. Set aside two to three hours to properly walk the gardens, rent a paddle boat, and cool off under the tree cover."
+  - bangkok
+  - park
+quickAnswer: Suan Luang Rama IX, in Prawet district on Bangkok's eastern edge, is one of the city's biggest and most beautifully landscaped public parks — a mix of botanical gardens, a lake with paddle boats, jogging paths and playgrounds. Go on a weekday between 10am and 8pm for the calmest experience; weekends get busy from 7am to 7pm, so if you must go on a Saturday or Sunday, aim for after noon. Set aside two to three hours to properly walk the gardens, rent a paddle boat, and cool off under the tree cover.
 faq:
-  - q: "What's the best time of day to visit Suan Luang Rama IX?"
-    a: "Weekdays from 10am to 8pm are the quietest. On weekends, foot traffic is heavy from 7am to 7pm, so aim to arrive after noon if you're going on a Saturday or Sunday."
-  - q: "How do I get to Suan Luang Rama IX without a car?"
-    a: "There's no BTS or MRT station right at the park. The closest options are Sukhumvit line stations toward On Nut or Bang Na, followed by a taxi or motorbike-taxi for the final stretch. A direct taxi or ride-hailing app using the Thai name (สวนหลวง ร.9) is usually simplest."
-  - q: "How much time should I plan for a visit?"
-    a: "Two to three hours lets you walk the gardens, rent a paddle boat, and rest in the shade without rushing. It's large enough to easily fill half a day if you enjoy walking or cycling."
-  - q: "Is there an entrance fee?"
-    a: "Public parks like this typically have free or very low-cost entry, with a small separate charge for paddle boat or bike rentals. Confirm current pricing at the gate since fees can change."
-  - q: "What's nearby if I want to combine this with something else?"
-    a: "The park sits in the Prawet/On Nut area of eastern Bangkok, away from the main tourist district, so it pairs well with a low-key local day exploring the Sukhumvit Soi eateries near On Nut rather than a temple-hopping itinerary."
+  - q: What's the best time of day to visit Suan Luang Rama IX?
+    a: Weekdays from 10am to 8pm are the quietest. On weekends, foot traffic is heavy from 7am to 7pm, so aim to arrive after noon if you're going on a Saturday or Sunday.
+  - q: How do I get to Suan Luang Rama IX without a car?
+    a: There's no BTS or MRT station right at the park. The closest options are Sukhumvit line stations toward On Nut or Bang Na, followed by a taxi or motorbike-taxi for the final stretch. A direct taxi or ride-hailing app using the Thai name (สวนหลวง ร.9) is usually simplest.
+  - q: How much time should I plan for a visit?
+    a: Two to three hours lets you walk the gardens, rent a paddle boat, and rest in the shade without rushing. It's large enough to easily fill half a day if you enjoy walking or cycling.
+  - q: Is there an entrance fee?
+    a: Public parks like this typically have free or very low-cost entry, with a small separate charge for paddle boat or bike rentals. Confirm current pricing at the gate since fees can change.
+  - q: What's nearby if I want to combine this with something else?
+    a: The park sits in the Prawet/On Nut area of eastern Bangkok, away from the main tourist district, so it pairs well with a low-key local day exploring the Sukhumvit Soi eateries near On Nut rather than a temple-hopping itinerary.
 aiGenerated: true
 draft: false
 ---

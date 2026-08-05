@@ -1,46 +1,46 @@
 ---
-title: "La Giralda: Seville Travel Guide"
-description: "La Giralda is the bell tower of Seville Cathedral, rising over the Casco Antiguo at Av. de la Constitución, s/n."
-country: "Spain"
-region: "Seville"
-category: "attraction"
-pubDate: "2026-07-26T08:20:39.866Z"
+title: 'La Giralda: Seville Travel Guide'
+description: La Giralda is the bell tower of Seville Cathedral, rising over the Casco Antiguo at Av. de la Constitución, s/n.
+country: Spain
+region: Seville
+category: attraction
+pubDate: '2026-07-26T08:20:39.866Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Giralda_cath%C3%A9drale_tour_Seville_Espagne.jpg/1920px-Giralda_cath%C3%A9drale_tour_Seville_Espagne.jpg"
-  credit: "Photo: Jebulon / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Giralda_cath%C3%A9drale_tour_Seville_Espagne.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Giralda_cath%C3%A9drale_tour_Seville_Espagne.jpg/1920px-Giralda_cath%C3%A9drale_tour_Seville_Espagne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Jebulon / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Giralda_cath%C3%A9drale_tour_Seville_Espagne.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Orange_trees_courtyard_cathedral_from_Giralda_Seville_Spain.jpg/1920px-Orange_trees_courtyard_cathedral_from_Giralda_Seville_Spain.jpg
     credit: 'Photo: Jebulon / Wikimedia Commons (CC0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Orange_trees_courtyard_cathedral_from_Giralda_Seville_Spain.jpg
 place:
-  id: "ChIJK9S3HhpsEg0RR3Jr5EfWT50"
-  name: "La Giralda"
-  address: "Av. de la Constitución, s/n, Casco Antiguo, 41004 Sevilla, Spain"
+  id: ChIJK9S3HhpsEg0RR3Jr5EfWT50
+  name: La Giralda
+  address: Av. de la Constitución, s/n, Casco Antiguo, 41004 Sevilla, Spain
   rating: 4.7
   userRatingsTotal: 58618
-  googleMapsUrl: "https://maps.google.com/?cid=11335514391378096711&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=11335514391378096711&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.3861784
   lng: -5.992613700000001
-  phone: '+34 954 21 49 71'
+  phone: +34 954 21 49 71
 tags:
-  - "seville"
-  - "top attraction"
-quickAnswer: "La Giralda is the bell tower of Seville Cathedral, rising over the Casco Antiguo at Av. de la Constitución, s/n. Climb it as part of your cathedral ticket — go right at opening (doors typically open around 10:30am, earlier on some days) or in the last hour before closing to dodge the tour-group crush that fills the ramps by midday. Budget 45–60 minutes for the climb and views, more if you're touring the whole cathedral."
+  - seville
+  - top attraction
+quickAnswer: La Giralda is the bell tower of Seville Cathedral, rising over the Casco Antiguo at Av. de la Constitución, s/n. Climb it as part of your cathedral ticket — go right at opening (doors typically open around 10:30am, earlier on some days) or in the last hour before closing to dodge the tour-group crush that fills the ramps by midday. Budget 45–60 minutes for the climb and views, more if you're touring the whole cathedral.
 faq:
-  - q: "Do I need a separate ticket for La Giralda?"
-    a: "No — access to the tower is included with your Seville Cathedral admission ticket; there's no standalone entrance fee."
-  - q: "How long does the climb take?"
-    a: "Plan for 20–30 minutes for the climb and viewpoint itself, and 45–60 minutes if you count waiting on the ramps during busier hours."
-  - q: "When is the quietest time to visit?"
-    a: "Right at opening (cathedral doors typically open around mid-morning) or in the last hour before closing tend to be calmest; try to avoid the midday hours when tour groups fill the ramps."
-  - q: "How do you get up the tower — stairs or elevator?"
-    a: "Neither, technically — it's a series of 35 gently sloping ramps built wide enough for a horse to climb, though it's still a workout by the top."
-  - q: "What else is nearby?"
-    a: "The Real Alcázar and Archivo de Indias sit right across the same square, and the Barrio Santa Cruz is a short walk away — easy to combine into one half-day loop."
+  - q: Do I need a separate ticket for La Giralda?
+    a: No — access to the tower is included with your Seville Cathedral admission ticket; there's no standalone entrance fee.
+  - q: How long does the climb take?
+    a: Plan for 20–30 minutes for the climb and viewpoint itself, and 45–60 minutes if you count waiting on the ramps during busier hours.
+  - q: When is the quietest time to visit?
+    a: Right at opening (cathedral doors typically open around mid-morning) or in the last hour before closing tend to be calmest; try to avoid the midday hours when tour groups fill the ramps.
+  - q: How do you get up the tower — stairs or elevator?
+    a: Neither, technically — it's a series of 35 gently sloping ramps built wide enough for a horse to climb, though it's still a workout by the top.
+  - q: What else is nearby?
+    a: The Real Alcázar and Archivo de Indias sit right across the same square, and the Barrio Santa Cruz is a short walk away — easy to combine into one half-day loop.
 aiGenerated: true
 draft: false
 ---

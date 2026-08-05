@@ -6,7 +6,7 @@ region: Seville
 category: restaurant
 pubDate: '2026-08-04T10:22:28.819Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/El_Rinconcillo_-_Plaza_los_Terercos_-_Seville_%2814678492295%29.jpg/3840px-El_Rinconcillo_-_Plaza_los_Terercos_-_Seville_%2814678492295%29.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/El_Rinconcillo_-_Plaza_los_Terercos_-_Seville_%2814678492295%29.jpg/1920px-El_Rinconcillo_-_Plaza_los_Terercos_-_Seville_%2814678492295%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Elliott Brown from Birmingham, United Kingdom / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:El_Rinconcillo_-_Plaza_los_Terercos_-_Seville_(14678492295).jpg

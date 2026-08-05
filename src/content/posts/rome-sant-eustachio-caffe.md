@@ -1,55 +1,55 @@
 ---
-title: "Sant' Eustachio Caffè: Rome Travel Guide"
+title: 'Sant'' Eustachio Caffè: Rome Travel Guide'
 description: Sant' Eustachio Caffè sits on Piazza di Sant'Eustachio, a five-minute walk south of the Pantheon, and it's one of Rome's most famous historic coffee bars — so go knowing it's busy, not undiscovered.
-country: "Italy"
-region: "Rome"
-category: "trendy"
-pubDate: "2026-07-26T07:05:24.301Z"
+country: Italy
+region: Rome
+category: trendy
+pubDate: '2026-07-26T07:05:24.301Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Caff%C3%A8_Sant_Eustacchio.jpg/1920px-Caff%C3%A8_Sant_Eustacchio.jpg"
-  credit: "Photo: Jerry Michalski / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Caff%C3%A8_Sant_Eustacchio.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Caff%C3%A8_Sant_Eustacchio.jpg/1920px-Caff%C3%A8_Sant_Eustacchio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Jerry Michalski / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Caff%C3%A8_Sant_Eustacchio.jpg
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/47771_AqLeOvkedu-liJaLpzkiJuVyIR1p5SpmfTpGTSSq_a0.jpg
     credit: 'Photo: Foursquare user content (Sant''Eustachio Il Caffè)'
     license: foursquare
     source: https://foursquare.com/v/4af867d8f964a520f10c22e3
 place:
-  id: "ChIJF4C_0k9gLxMR2LL_-I4HSWU"
-  name: "Sant' Eustachio Caffè"
-  address: "Piazza di S. Eustachio, 82, 00186 Roma RM, Italy"
+  id: ChIJF4C_0k9gLxMR2LL_-I4HSWU
+  name: Sant' Eustachio Caffè
+  address: Piazza di S. Eustachio, 82, 00186 Roma RM, Italy
   rating: 4.1
   userRatingsTotal: 12964
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=7298372981774856920&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=7298372981774856920&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.8982749
   lng: 12.475425399999999
-  phone: '+39 06 6880 2048'
+  phone: +39 06 6880 2048
   openingHours:
-    - "Monday: 7:30 AM – 12:00 AM"
-    - "Tuesday: 7:30 AM – 12:00 AM"
-    - "Wednesday: 7:30 AM – 12:00 AM"
-    - "Thursday: 7:30 AM – 12:00 AM"
-    - "Friday: 7:30 AM – 12:00 AM"
-    - "Saturday: 7:30 AM – 1:00 AM"
-    - "Sunday: 7:30 AM – 12:00 AM"
+    - 'Monday: 7:30 AM – 12:00 AM'
+    - 'Tuesday: 7:30 AM – 12:00 AM'
+    - 'Wednesday: 7:30 AM – 12:00 AM'
+    - 'Thursday: 7:30 AM – 12:00 AM'
+    - 'Friday: 7:30 AM – 12:00 AM'
+    - 'Saturday: 7:30 AM – 1:00 AM'
+    - 'Sunday: 7:30 AM – 12:00 AM'
 tags:
-  - "rome"
-  - "trendy cafe"
-quickAnswer: "Sant' Eustachio Caffè sits on Piazza di Sant'Eustachio, a five-minute walk south of the Pantheon, and it's one of Rome's most famous historic coffee bars — so go knowing it's busy, not undiscovered. Order at the register first, then hand your receipt to the bar staff and ask for \"un caffè\" (they'll assume you want it sweetened unless you say \"senza zucchero\"). Stand at the counter like everyone else, drink it in two sips, and budget 10-15 minutes, not a sit-down brunch."
+  - rome
+  - trendy cafe
+quickAnswer: Sant' Eustachio Caffè sits on Piazza di Sant'Eustachio, a five-minute walk south of the Pantheon, and it's one of Rome's most famous historic coffee bars — so go knowing it's busy, not undiscovered. Order at the register first, then hand your receipt to the bar staff and ask for "un caffè" (they'll assume you want it sweetened unless you say "senza zucchero"). Stand at the counter like everyone else, drink it in two sips, and budget 10-15 minutes, not a sit-down brunch.
 faq:
-  - q: "How do I order at Sant' Eustachio Caffè?"
-    a: "Pay at the register first, then take your receipt to the bar counter and tell the barista what you want — say \"un caffè\" for standard espresso or \"un caffè speciale\" for the sweetened house version. Say \"senza zucchero\" if you don't want it sweetened, since sweet is the default here."
-  - q: "Is Sant' Eustachio Caffè expensive?"
-    a: "It's a mid-range coffee bar (price level 2), so a standing espresso costs roughly the same as other central Rome bars, though sitting at a table, if offered, typically adds a surcharge as is standard across Italy."
-  - q: "What's the best time to avoid crowds?"
-    a: "It's a very popular, well-reviewed stop, so expect lines mid-morning through early afternoon when visitors pass between the Pantheon and Piazza Navona. Going right at opening or in the evening gets you closer to the front of the counter."
-  - q: "How close is it to the Pantheon?"
-    a: "About a five-minute walk southwest through Via della Palombella and Via degli Staderari — easily combined with a Pantheon visit or a stroll to nearby Piazza Navona."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors are in and out in 10-15 minutes, standing at the counter for a quick espresso — it's a stop on a walking route through the historic center, not a sit-down café."
+  - q: How do I order at Sant' Eustachio Caffè?
+    a: Pay at the register first, then take your receipt to the bar counter and tell the barista what you want — say "un caffè" for standard espresso or "un caffè speciale" for the sweetened house version. Say "senza zucchero" if you don't want it sweetened, since sweet is the default here.
+  - q: Is Sant' Eustachio Caffè expensive?
+    a: It's a mid-range coffee bar (price level 2), so a standing espresso costs roughly the same as other central Rome bars, though sitting at a table, if offered, typically adds a surcharge as is standard across Italy.
+  - q: What's the best time to avoid crowds?
+    a: It's a very popular, well-reviewed stop, so expect lines mid-morning through early afternoon when visitors pass between the Pantheon and Piazza Navona. Going right at opening or in the evening gets you closer to the front of the counter.
+  - q: How close is it to the Pantheon?
+    a: About a five-minute walk southwest through Via della Palombella and Via degli Staderari — easily combined with a Pantheon visit or a stroll to nearby Piazza Navona.
+  - q: How long should I plan to spend there?
+    a: Most visitors are in and out in 10-15 minutes, standing at the counter for a quick espresso — it's a stop on a walking route through the historic center, not a sit-down café.
 aiGenerated: true
 draft: false
 ---

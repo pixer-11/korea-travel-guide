@@ -6,7 +6,7 @@ region: Yokohama
 category: attraction
 pubDate: '2026-08-05T11:50:11.304Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Lunar_year_celebration_in_Yokohama_Mazu_Miao.jpg/3840px-Lunar_year_celebration_in_Yokohama_Mazu_Miao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Lunar_year_celebration_in_Yokohama_Mazu_Miao.jpg/1920px-Lunar_year_celebration_in_Yokohama_Mazu_Miao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Syced / Wikimedia Commons (CC0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Lunar_year_celebration_in_Yokohama_Mazu_Miao.jpg

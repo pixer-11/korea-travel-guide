@@ -1,43 +1,43 @@
 ---
-title: "Christmas in Alsace"
+title: Christmas in Alsace
 description: Strasbourg's Christmas Market (Marché de Noël) runs from late November through December 24-31, spread across a dozen squares in the city center, with Place Kléber's giant tree and Place de la Cathédrale as the anchor points.
-country: "France"
-region: "Strasbourg"
-category: "event"
-eventStartDate: 2026-11-27
-eventEndDate: 2026-12-27
-pubDate: 2026-07-21
+country: France
+region: Strasbourg
+category: event
+eventStartDate: 2026-11-27T00:00:00.000Z
+eventEndDate: 2026-12-27T00:00:00.000Z
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Strasbourg_Christmas_market_%2851228458506%29.jpg/1920px-Strasbourg_Christmas_market_%2851228458506%29.jpg"
-  credit: "Photo: Jorge Franganillo / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Strasbourg_Christmas_market_(51228458506).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Strasbourg_Christmas_market_%2851228458506%29.jpg/1920px-Strasbourg_Christmas_market_%2851228458506%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Jorge Franganillo / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Strasbourg_Christmas_market_(51228458506).jpg
 gallery: []
 place:
-  id: "ChIJfU8r50zIlkcRqTH5Pw4cgQk"
-  name: "Christmas in Alsace"
-  address: "10 Rue des Dentelles, 67000 Strasbourg, France"
+  id: ChIJfU8r50zIlkcRqTH5Pw4cgQk
+  name: Christmas in Alsace
+  address: 10 Rue des Dentelles, 67000 Strasbourg, France
   rating: 4.4
   userRatingsTotal: 538
-  googleMapsUrl: "https://maps.google.com/?cid=684859465865441705&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=684859465865441705&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 48.5808609
   lng: 7.7430759999999985
 tags:
-  - "strasbourg"
-  - "Strasbourg Christmas Market"
-quickAnswer: "Strasbourg's Christmas Market (Marché de Noël) runs from late November through December 24-31, spread across a dozen squares in the city center, with Place Kléber's giant tree and Place de la Cathédrale as the anchor points. Give it a full day, arrive by late afternoon to see the lights come on, and book lodging early since this is one of Europe's oldest and busiest Christmas markets. The shop \"Christmas in Alsace\" at 10 Rue des Dentelles, near the cathedral, is a good year-round stop for Alsatian ornaments and gifts if you're visiting outside market season."
+  - strasbourg
+  - Strasbourg Christmas Market
+quickAnswer: Strasbourg's Christmas Market (Marché de Noël) runs from late November through December 24-31, spread across a dozen squares in the city center, with Place Kléber's giant tree and Place de la Cathédrale as the anchor points. Give it a full day, arrive by late afternoon to see the lights come on, and book lodging early since this is one of Europe's oldest and busiest Christmas markets. The shop "Christmas in Alsace" at 10 Rue des Dentelles, near the cathedral, is a good year-round stop for Alsatian ornaments and gifts if you're visiting outside market season.
 faq:
-  - q: "When exactly does Strasbourg's Christmas market run?"
-    a: "Typically from late November through December 24 or 31, depending on the year — dates shift slightly, so check the official Strasbourg tourism site before booking travel."
-  - q: "How do I get to Strasbourg for the Christmas market?"
-    a: "Take the TGV from Paris Gare de l'Est (about 1h50 direct) or a regional train from nearby cities like Frankfurt, Karlsruhe, or Basel. From Strasbourg-Ville station, it's a 15-20 minute walk or a short tram ride (Lines A, C, or D) to the market squares."
-  - q: "How much time should I budget for the market?"
-    a: "A full day lets you cover the main squares (Cathédrale, Kléber, Broglie, Château) plus Petite France, with time for a sit-down meal; a half-day is enough to hit the highlights if you're short on time."
-  - q: "Is the market open if I visit outside December?"
-    a: "The outdoor chalets are seasonal only, but shops like Christmas in Alsace at 10 Rue des Dentelles sell Alsatian ornaments and Christmas goods year-round near the cathedral."
-  - q: "What food should I try at the market?"
-    a: "Vin chaud (mulled wine), flammekueche, bretzels, roasted chestnuts, manalas brioche, and kougelhopf cake are the regional staples sold throughout the stalls."
+  - q: When exactly does Strasbourg's Christmas market run?
+    a: Typically from late November through December 24 or 31, depending on the year — dates shift slightly, so check the official Strasbourg tourism site before booking travel.
+  - q: How do I get to Strasbourg for the Christmas market?
+    a: Take the TGV from Paris Gare de l'Est (about 1h50 direct) or a regional train from nearby cities like Frankfurt, Karlsruhe, or Basel. From Strasbourg-Ville station, it's a 15-20 minute walk or a short tram ride (Lines A, C, or D) to the market squares.
+  - q: How much time should I budget for the market?
+    a: A full day lets you cover the main squares (Cathédrale, Kléber, Broglie, Château) plus Petite France, with time for a sit-down meal; a half-day is enough to hit the highlights if you're short on time.
+  - q: Is the market open if I visit outside December?
+    a: The outdoor chalets are seasonal only, but shops like Christmas in Alsace at 10 Rue des Dentelles sell Alsatian ornaments and Christmas goods year-round near the cathedral.
+  - q: What food should I try at the market?
+    a: Vin chaud (mulled wine), flammekueche, bretzels, roasted chestnuts, manalas brioche, and kougelhopf cake are the regional staples sold throughout the stalls.
 aiGenerated: true
 draft: false
 ---

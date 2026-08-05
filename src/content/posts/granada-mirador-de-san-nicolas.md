@@ -1,40 +1,40 @@
 ---
-title: "Mirador de San Nicolás: Granada Travel Guide"
-description: "Mirador de San Nicolás is the square in the Albaicín with Granada's classic postcard view: the Alhambra's ramparts stacked against the Sierra Nevada."
-country: "Spain"
-region: "Granada"
-category: "hidden-gem"
-pubDate: "2026-08-01T09:35:54.881Z"
+title: 'Mirador de San Nicolás: Granada Travel Guide'
+description: 'Mirador de San Nicolás is the square in the Albaicín with Granada''s classic postcard view: the Alhambra''s ramparts stacked against the Sierra Nevada.'
+country: Spain
+region: Granada
+category: hidden-gem
+pubDate: '2026-08-01T09:35:54.881Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Alhambra_evening_panorama_Mirador_San_Nicolas_sRGB-1.jpg/3840px-Alhambra_evening_panorama_Mirador_San_Nicolas_sRGB-1.jpg"
-  credit: "Photo: Slaunger / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Alhambra_evening_panorama_Mirador_San_Nicolas_sRGB-1.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Alhambra_evening_panorama_Mirador_San_Nicolas_sRGB-1.jpg/1920px-Alhambra_evening_panorama_Mirador_San_Nicolas_sRGB-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Slaunger / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Alhambra_evening_panorama_Mirador_San_Nicolas_sRGB-1.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Granada_-_View_from_Mirador_de_San_Nicol%C3%A1s_-_02.jpg/3840px-Granada_-_View_from_Mirador_de_San_Nicol%C3%A1s_-_02.jpg"
-    credit: "Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Granada_-_View_from_Mirador_de_San_Nicol%C3%A1s_-_02.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Granada_-_View_from_Mirador_de_San_Nicol%C3%A1s_-_02.jpg/3840px-Granada_-_View_from_Mirador_de_San_Nicol%C3%A1s_-_02.jpg
+    credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Granada_-_View_from_Mirador_de_San_Nicol%C3%A1s_-_02.jpg
 place:
-  id: "ChIJlc_oycf8cQ0RmGSbIT5svlk"
-  name: "Mirador de San Nicolás"
-  address: "Plaza Mirador de San Nicolás, 2, Albaicín, 18010 Granada, Spain"
+  id: ChIJlc_oycf8cQ0RmGSbIT5svlk
+  name: Mirador de San Nicolás
+  address: Plaza Mirador de San Nicolás, 2, Albaicín, 18010 Granada, Spain
   rating: 4.7
   userRatingsTotal: 81906
-  googleMapsUrl: "https://maps.google.com/?cid=6466725129058215064&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=6466725129058215064&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.1811058
   lng: -3.5926636999999997
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-01
+    updated: 2026-08-01T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -61,22 +61,22 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_6b6c76733554496253476d52305163386663796f5f636c4a496843"
+    venueId: ven_6b6c76733554496253476d52305163386663796f5f636c4a496843
 tags:
-  - "granada"
-  - "hidden gem"
-quickAnswer: "Mirador de San Nicolás is the square in the Albaicín with Granada's classic postcard view: the Alhambra's ramparts stacked against the Sierra Nevada. It's open all day, every day, but go between 7am and 10am if you want the terrace to yourself — from noon until nearly midnight on weekends it's packed shoulder to shoulder. Sunset is magical but also the single busiest, most crowded moment here, so arrive at least 45–60 minutes early to claim wall space."
+  - granada
+  - hidden gem
+quickAnswer: 'Mirador de San Nicolás is the square in the Albaicín with Granada''s classic postcard view: the Alhambra''s ramparts stacked against the Sierra Nevada. It''s open all day, every day, but go between 7am and 10am if you want the terrace to yourself — from noon until nearly midnight on weekends it''s packed shoulder to shoulder. Sunset is magical but also the single busiest, most crowded moment here, so arrive at least 45–60 minutes early to claim wall space.'
 faq:
-  - q: "What is the best time of day to visit Mirador de San Nicolás?"
-    a: "For a quiet visit, go between 7am and 10am, the measured quietest window on both weekdays and weekends. For the famous view, sunset is spectacular but also the busiest stretch of the day — arrive 45–60 minutes early to get a spot."
-  - q: "How do I get to the Mirador de San Nicolás?"
-    a: "It's a 20–25 minute uphill walk from Plaza Nueva through the Albaicín via Carrera del Darro and Cuesta del Chapiz. Alternatively, take the C1 minibus from Plaza Nueva, which is built for the neighborhood's narrow streets and stops a short walk from the square."
-  - q: "Is there an entrance fee?"
-    a: "No — it's a public square, open 24 hours every day, with no ticket or booking required."
-  - q: "How long should I spend there?"
-    a: "Most visitors spend 30–60 minutes at the viewpoint itself, but budget extra time to wander the surrounding Albaicín lanes, teterías, and the Paseo de los Tristes below."
-  - q: "Is it worth going if I want to avoid crowds?"
-    a: "It's genuinely one of Granada's most popular spots, so expect company, especially from noon to 11pm on weekends. Going in the early morning is your best bet for a calmer visit."
+  - q: What is the best time of day to visit Mirador de San Nicolás?
+    a: For a quiet visit, go between 7am and 10am, the measured quietest window on both weekdays and weekends. For the famous view, sunset is spectacular but also the busiest stretch of the day — arrive 45–60 minutes early to get a spot.
+  - q: How do I get to the Mirador de San Nicolás?
+    a: It's a 20–25 minute uphill walk from Plaza Nueva through the Albaicín via Carrera del Darro and Cuesta del Chapiz. Alternatively, take the C1 minibus from Plaza Nueva, which is built for the neighborhood's narrow streets and stops a short walk from the square.
+  - q: Is there an entrance fee?
+    a: No — it's a public square, open 24 hours every day, with no ticket or booking required.
+  - q: How long should I spend there?
+    a: Most visitors spend 30–60 minutes at the viewpoint itself, but budget extra time to wander the surrounding Albaicín lanes, teterías, and the Paseo de los Tristes below.
+  - q: Is it worth going if I want to avoid crowds?
+    a: It's genuinely one of Granada's most popular spots, so expect company, especially from noon to 11pm on weekends. Going in the early morning is your best bet for a calmer visit.
 aiGenerated: true
 draft: false
 ---

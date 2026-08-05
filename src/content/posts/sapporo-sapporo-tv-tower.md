@@ -1,45 +1,45 @@
 ---
-title: "Sapporo TV Tower: Travel Guide"
-description: "Sapporo TV Tower sits at the eastern end of Odori Park in Chuo Ward and is best visited around sunset for views over the park, Mt."
-country: "Japan"
-region: "Sapporo"
-category: "attraction"
-pubDate: 2026-07-21
+title: 'Sapporo TV Tower: Travel Guide'
+description: Sapporo TV Tower sits at the eastern end of Odori Park in Chuo Ward and is best visited around sunset for views over the park, Mt.
+country: Japan
+region: Sapporo
+category: attraction
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Sapporo_TV_Tower_at_night_20250725.jpg/1920px-Sapporo_TV_Tower_at_night_20250725.jpg"
-  credit: "Photo: 掬茶 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Sapporo_TV_Tower_at_night_20250725.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Sapporo_TV_Tower_at_night_20250725.jpg/1920px-Sapporo_TV_Tower_at_night_20250725.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: 掬茶 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Sapporo_TV_Tower_at_night_20250725.jpg
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/36050126_0_o107gGuPldY9v8EDFJFo8qyvZ7i3rRiH3OmoIxJ5s.jpg
     credit: 'Photo: Foursquare user content (Sapporo TV Tower (さっぽろテレビ塔))'
     license: foursquare
     source: https://foursquare.com/v/4b569274f964a5208a1528e3
 place:
-  id: "ChIJjWSHX50pC18RMSAiw3gaBOI"
-  name: "Sapporo TV Tower"
-  address: "1 Chome Odorinishi, Chuo Ward, Sapporo, Hokkaido 060-0042, Japan"
+  id: ChIJjWSHX50pC18RMSAiw3gaBOI
+  name: Sapporo TV Tower
+  address: 1 Chome Odorinishi, Chuo Ward, Sapporo, Hokkaido 060-0042, Japan
   rating: 4.1
   userRatingsTotal: 16936
-  googleMapsUrl: "https://maps.google.com/?cid=16286171258450747441&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=16286171258450747441&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.06110470000001
   lng: 141.3564246
 tags:
-  - "sapporo"
-  - "top attraction"
-quickAnswer: "Sapporo TV Tower sits at the eastern end of Odori Park in Chuo Ward and is best visited around sunset for views over the park, Mt. Moiwa, and the Ishiyama-dori grid stretching toward the mountains. The observation deck is around 90 meters up and a visit takes 30–45 minutes; pair it with a walk through Odori Park or a trip up Mt. Moiwa Ropeway for a higher, wider panorama. Buy tickets on-site (or check the official site for current hours/prices before going, since these change seasonally)."
+  - sapporo
+  - top attraction
+quickAnswer: Sapporo TV Tower sits at the eastern end of Odori Park in Chuo Ward and is best visited around sunset for views over the park, Mt. Moiwa, and the Ishiyama-dori grid stretching toward the mountains. The observation deck is around 90 meters up and a visit takes 30–45 minutes; pair it with a walk through Odori Park or a trip up Mt. Moiwa Ropeway for a higher, wider panorama. Buy tickets on-site (or check the official site for current hours/prices before going, since these change seasonally).
 faq:
-  - q: "How do I get to Sapporo TV Tower?"
-    a: "Take the subway to Odori Station (Namboku, Tozai, or Toho lines) and walk about 5 minutes east through Odori Park to the tower's base. It's also about a 15-minute walk from Sapporo Station."
-  - q: "How long should I spend there?"
-    a: "Plan for 30–45 minutes: a quick elevator ride up, time on the observation deck, and a look at the shops on the lower floors."
-  - q: "What's the best time to visit?"
-    a: "Early evening around sunset gives you both daylight views and the lit-up night skyline. Winter (Dec–Feb) coincides with the Sapporo Snow Festival held right in Odori Park below."
-  - q: "How much does admission cost?"
-    a: "Pricing is adjusted periodically, so check the official Sapporo TV Tower website or the on-site ticket counter for current rates before your visit."
-  - q: "What else is nearby?"
-    a: "Odori Park stretches out immediately below the tower, the Sapporo Clock Tower is a 10–15 minute walk northwest, and the Mt. Moiwa Ropeway offers a higher city panorama a short bus or taxi ride away."
+  - q: How do I get to Sapporo TV Tower?
+    a: Take the subway to Odori Station (Namboku, Tozai, or Toho lines) and walk about 5 minutes east through Odori Park to the tower's base. It's also about a 15-minute walk from Sapporo Station.
+  - q: How long should I spend there?
+    a: 'Plan for 30–45 minutes: a quick elevator ride up, time on the observation deck, and a look at the shops on the lower floors.'
+  - q: What's the best time to visit?
+    a: Early evening around sunset gives you both daylight views and the lit-up night skyline. Winter (Dec–Feb) coincides with the Sapporo Snow Festival held right in Odori Park below.
+  - q: How much does admission cost?
+    a: Pricing is adjusted periodically, so check the official Sapporo TV Tower website or the on-site ticket counter for current rates before your visit.
+  - q: What else is nearby?
+    a: Odori Park stretches out immediately below the tower, the Sapporo Clock Tower is a 10–15 minute walk northwest, and the Mt. Moiwa Ropeway offers a higher city panorama a short bus or taxi ride away.
 aiGenerated: true
 draft: false
 ---

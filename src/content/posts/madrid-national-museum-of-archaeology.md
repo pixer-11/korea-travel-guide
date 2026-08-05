@@ -1,28 +1,28 @@
 ---
-title: "National Museum of Archaeology: Madrid Travel Guide (4.7★)"
-description: "Madrid's National Archaeological Museum (Museo Arqueológico Nacional, MAN) sits on Calle de Serrano in the Salamanca district, next to the National Library, and packs in everything from Iberian sculpture and Roman mosaics to Islamic pottery and a full-scale replica of the Altamira cave. 4.7★ (28,588 reviews) — what visitors say, hours, and tips."
-country: "Spain"
-region: "Madrid"
-category: "attraction"
-pubDate: "2026-08-05T11:30:40.166Z"
+title: 'National Museum of Archaeology: Madrid Travel Guide (4.7★)'
+description: Madrid's National Archaeological Museum (Museo Arqueológico Nacional, MAN) sits on Calle de Serrano in the Salamanca district, next to the National Library, and packs in everything from Iberian sculpture and Roman mosaics to Islamic pottery and a full-scale replica of the Altamira cave. 4.7★ (28,588 reviews) — what visitors say, hours, and tips.
+country: Spain
+region: Madrid
+category: attraction
+pubDate: '2026-08-05T11:30:40.166Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/8/88/National_Archaeological_Museum_of_Spain%2C_Madrid_%2815299325957%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-  credit: "Photo: Carole Raddato from FRANKFURT, Germany / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:National_Archaeological_Museum_of_Spain,_Madrid_(15299325957).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/8/88/National_Archaeological_Museum_of_Spain%2C_Madrid_%2815299325957%29.jpg
+  credit: 'Photo: Carole Raddato from FRANKFURT, Germany / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:National_Archaeological_Museum_of_Spain,_Madrid_(15299325957).jpg
 gallery: []
 place:
-  id: "ChIJySfBCJooQg0Ry8Qhx3Mk3zs"
-  name: "National Museum of Archaeology"
-  address: "C. de Serrano, 13, Salamanca, 28001 Madrid, Spain"
+  id: ChIJySfBCJooQg0Ry8Qhx3Mk3zs
+  name: National Museum of Archaeology
+  address: C. de Serrano, 13, Salamanca, 28001 Madrid, Spain
   rating: 4.7
   userRatingsTotal: 28588
-  googleMapsUrl: "https://maps.google.com/?cid=4314207047724942539&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=4314207047724942539&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 40.4233265
   lng: -3.6888235
   busyness:
-    updated: 2026-08-05
+    updated: 2026-08-05T00:00:00.000Z
     weekdayQuiet:
       - 20
     weekdayBusy:
@@ -42,22 +42,22 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_737a336b4d337868513879523067516f6f4a43426653794a496843"
+    venueId: ven_737a336b4d337868513879523067516f6f4a43426653794a496843
 tags:
-  - "madrid"
-  - "museum"
-quickAnswer: "Madrid's National Archaeological Museum (Museo Arqueológico Nacional, MAN) sits on Calle de Serrano in the Salamanca district, next to the National Library, and packs in everything from Iberian sculpture and Roman mosaics to Islamic pottery and a full-scale replica of the Altamira cave. Give it two to three hours, go on a weekday evening around 8–9pm when it's quietest, and expect to queue if you arrive on a weekend morning. It's an easy pairing with Retiro park or the Golden Triangle museums, all within walking distance."
+  - madrid
+  - museum
+quickAnswer: Madrid's National Archaeological Museum (Museo Arqueológico Nacional, MAN) sits on Calle de Serrano in the Salamanca district, next to the National Library, and packs in everything from Iberian sculpture and Roman mosaics to Islamic pottery and a full-scale replica of the Altamira cave. Give it two to three hours, go on a weekday evening around 8–9pm when it's quietest, and expect to queue if you arrive on a weekend morning. It's an easy pairing with Retiro park or the Golden Triangle museums, all within walking distance.
 faq:
-  - q: "How much time should I budget for the National Archaeological Museum?"
-    a: "Plan on two to three hours for the highlights (Dama de Elche, Roman mosaics, Altamira replica, Islamic pottery); history enthusiasts can easily spend half a day."
-  - q: "What's the closest metro station?"
-    a: "Serrano on Line 4 is closest, just a couple of minutes' walk. Retiro on Line 2 is about 10-12 minutes away through the park."
-  - q: "When is the museum quietest?"
-    a: "Weekday evenings between 8pm and 9pm see the fewest visitors. Weekends, especially between 10am and 8pm, are the busiest window, so aim for opening time or later afternoon if visiting on a Saturday or Sunday."
-  - q: "Can I combine this with other Madrid museums in one day?"
-    a: "Yes — the Prado, Thyssen-Bornemisza, and Reina Sofía are all within a 15-20 minute walk down Paseo del Prado, and Retiro park is five to ten minutes away for a break in between."
-  - q: "Is the famous Altamira cave art the real thing?"
-    a: "No, it's a full-scale, faithful replica in the museum's basement. The actual Altamira cave in Cantabria is closed to general public visits to preserve the paintings, so this is the most accessible way to see them up close."
+  - q: How much time should I budget for the National Archaeological Museum?
+    a: Plan on two to three hours for the highlights (Dama de Elche, Roman mosaics, Altamira replica, Islamic pottery); history enthusiasts can easily spend half a day.
+  - q: What's the closest metro station?
+    a: Serrano on Line 4 is closest, just a couple of minutes' walk. Retiro on Line 2 is about 10-12 minutes away through the park.
+  - q: When is the museum quietest?
+    a: Weekday evenings between 8pm and 9pm see the fewest visitors. Weekends, especially between 10am and 8pm, are the busiest window, so aim for opening time or later afternoon if visiting on a Saturday or Sunday.
+  - q: Can I combine this with other Madrid museums in one day?
+    a: Yes — the Prado, Thyssen-Bornemisza, and Reina Sofía are all within a 15-20 minute walk down Paseo del Prado, and Retiro park is five to ten minutes away for a break in between.
+  - q: Is the famous Altamira cave art the real thing?
+    a: No, it's a full-scale, faithful replica in the museum's basement. The actual Altamira cave in Cantabria is closed to general public visits to preserve the paintings, so this is the most accessible way to see them up close.
 aiGenerated: true
 draft: false
 ---

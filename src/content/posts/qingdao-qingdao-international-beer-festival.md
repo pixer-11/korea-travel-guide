@@ -4,14 +4,14 @@ description: The Qingdao International Beer Festival runs from mid-July through 
 country: China
 region: Qingdao
 category: event
-eventStartDate: 2026-07-17
-eventEndDate: 2026-08-15
+eventStartDate: 2026-07-17T00:00:00.000Z
+eventEndDate: 2026-08-15T00:00:00.000Z
 pubDate: '2026-07-23'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Qingdao_International_Beer_City.jpg/1920px-Qingdao_International_Beer_City.jpg"
-  credit: "Photo: B.wilson / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Qingdao_International_Beer_City.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Qingdao_International_Beer_City.jpg/1920px-Qingdao_International_Beer_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: B.wilson / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Qingdao_International_Beer_City.jpg
 gallery: []
 tags:
   - qingdao

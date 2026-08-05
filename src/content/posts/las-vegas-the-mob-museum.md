@@ -1,32 +1,32 @@
 ---
-title: "The Mob Museum: Las Vegas Travel Guide (4.7★)"
-description: "The Mob Museum sits in a 1933 former federal courthouse at 300 Stewart Ave in downtown Las Vegas, a short walk from Fremont Street. 4.7★ (20,069 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "Las Vegas"
-category: "attraction"
-pubDate: "2026-08-05T11:16:07.763Z"
+title: 'The Mob Museum: Las Vegas Travel Guide (4.7★)'
+description: The Mob Museum sits in a 1933 former federal courthouse at 300 Stewart Ave in downtown Las Vegas, a short walk from Fremont Street. 4.7★ (20,069 reviews) — what visitors say, hours, and tips.
+country: United States
+region: Las Vegas
+category: attraction
+pubDate: '2026-08-05T11:16:07.763Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/d/d0/Las_Vegas_Mob_Museum_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-  credit: "Photo: Wtstoffs / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Las_Vegas_Mob_Museum_2012.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/d/d0/Las_Vegas_Mob_Museum_2012.jpg
+  credit: 'Photo: Wtstoffs / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Las_Vegas_Mob_Museum_2012.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Las_Vegas_Mob_Museum_Wall_of_Mobsters.JPG/3840px-Las_Vegas_Mob_Museum_Wall_of_Mobsters.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    credit: "Photo: Kremerbi / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Las_Vegas_Mob_Museum_Wall_of_Mobsters.JPG"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Las_Vegas_Mob_Museum_Wall_of_Mobsters.JPG/3840px-Las_Vegas_Mob_Museum_Wall_of_Mobsters.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: 'Photo: Kremerbi / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Las_Vegas_Mob_Museum_Wall_of_Mobsters.JPG
 place:
-  id: "ChIJ6dSwgwrDyIARnTLnwBzbNVU"
-  name: "The Mob Museum"
-  address: "300 Stewart Ave, Las Vegas, NV 89101, USA"
+  id: ChIJ6dSwgwrDyIARnTLnwBzbNVU
+  name: The Mob Museum
+  address: 300 Stewart Ave, Las Vegas, NV 89101, USA
   rating: 4.7
   userRatingsTotal: 20069
-  googleMapsUrl: "https://maps.google.com/?cid=6140054583531483805&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=6140054583531483805&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 36.1728198
   lng: -115.1412395
   busyness:
-    updated: 2026-08-05
+    updated: 2026-08-05T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 10
@@ -45,22 +45,22 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_55564e627a42776e4c546e5241497944727767775364364a496843"
+    venueId: ven_55564e627a42776e4c546e5241497944727767775364364a496843
 tags:
-  - "las vegas"
-  - "museum"
-quickAnswer: "The Mob Museum sits in a 1933 former federal courthouse at 300 Stewart Ave in downtown Las Vegas, a short walk from Fremont Street. Give it two to three hours, arrive right when doors open to beat the tour-bus crowds, and know that weekends fill up fast between 11am and 7pm. It's one of the most consistently well-reviewed attractions in the city, so book timed tickets online ahead of your visit."
+  - las vegas
+  - museum
+quickAnswer: The Mob Museum sits in a 1933 former federal courthouse at 300 Stewart Ave in downtown Las Vegas, a short walk from Fremont Street. Give it two to three hours, arrive right when doors open to beat the tour-bus crowds, and know that weekends fill up fast between 11am and 7pm. It's one of the most consistently well-reviewed attractions in the city, so book timed tickets online ahead of your visit.
 faq:
-  - q: "How long should I spend at the Mob Museum?"
-    a: "Budget two to three hours for a thorough visit; history enthusiasts often stay three to four hours given the density of the exhibits across three floors."
-  - q: "What's the best time to avoid crowds?"
-    a: "The museum stays comparatively calm from 9am to 10pm on both weekdays and weekends. Weekends get busiest between 11am and 7pm, so aim for opening time or a later evening slot if you want smaller crowds."
-  - q: "How do I get there from the Las Vegas Strip?"
-    a: "The Mob Museum is at 300 Stewart Ave in downtown Las Vegas. There's no direct light rail or monorail stop, so take a rideshare, taxi, or the Deuce bus up Las Vegas Boulevard — plan for 20–25 minutes depending on traffic."
-  - q: "Is parking available on site?"
-    a: "Yes, there's a parking garage behind the building with validated parking typically offered for ticket holders; metered street parking is also available nearby in the Fremont East district."
-  - q: "What's nearby if I want to combine the visit with other sights?"
-    a: "The Fremont Street Experience and downtown casinos like the Golden Nugget and El Cortez are about a 10–15 minute walk away, making it easy to pair a museum visit with an afternoon or evening downtown."
+  - q: How long should I spend at the Mob Museum?
+    a: Budget two to three hours for a thorough visit; history enthusiasts often stay three to four hours given the density of the exhibits across three floors.
+  - q: What's the best time to avoid crowds?
+    a: The museum stays comparatively calm from 9am to 10pm on both weekdays and weekends. Weekends get busiest between 11am and 7pm, so aim for opening time or a later evening slot if you want smaller crowds.
+  - q: How do I get there from the Las Vegas Strip?
+    a: The Mob Museum is at 300 Stewart Ave in downtown Las Vegas. There's no direct light rail or monorail stop, so take a rideshare, taxi, or the Deuce bus up Las Vegas Boulevard — plan for 20–25 minutes depending on traffic.
+  - q: Is parking available on site?
+    a: Yes, there's a parking garage behind the building with validated parking typically offered for ticket holders; metered street parking is also available nearby in the Fremont East district.
+  - q: What's nearby if I want to combine the visit with other sights?
+    a: The Fremont Street Experience and downtown casinos like the Golden Nugget and El Cortez are about a 10–15 minute walk away, making it easy to pair a museum visit with an afternoon or evening downtown.
 aiGenerated: true
 draft: false
 ---

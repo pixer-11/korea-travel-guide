@@ -2,13 +2,13 @@
 title: 'MAMAMOO 2026 World Tour: What to Know (Quezon City)'
 description: MAMAMOO 2026 World Tour in Quezon City, Philippines — August 8-10, 2026. What it is, when and where, and how to plan around it.
 country: Philippines
-region: "Manila"
+region: Manila
 category: event
 pubDate: '2026-07-29'
 eventStartDate: '2026-08-08'
 eventEndDate: '2026-08-10'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mamamoo_in_2023.png/3840px-Mamamoo_in_2023.png
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mamamoo_in_2023.png/1920px-Mamamoo_in_2023.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Galaxy Studio / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Mamamoo_in_2023.png

@@ -1,45 +1,45 @@
 ---
-title: "One World Observatory: New York Travel Guide (4.7★)"
-description: "One World Observatory sits on floors 100-102 of One World Trade Center in Lower Manhattan, reached via a high-speed elevator ride that's part of the show itself. 4.7★ (26,074 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "New York"
-category: "attraction"
-pubDate: "2026-08-05T11:04:33.004Z"
+title: 'One World Observatory: New York Travel Guide (4.7★)'
+description: One World Observatory sits on floors 100-102 of One World Trade Center in Lower Manhattan, reached via a high-speed elevator ride that's part of the show itself. 4.7★ (26,074 reviews) — what visitors say, hours, and tips.
+country: United States
+region: New York
+category: attraction
+pubDate: '2026-08-05T11:04:33.004Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Interior_of_the_One_World_Observatory_with_visitors_backlit_against_the_windows%2C_New_York_City.jpg/3840px-Interior_of_the_One_World_Observatory_with_visitors_backlit_against_the_windows%2C_New_York_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  credit: "Photo: Christian David / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Interior_of_the_One_World_Observatory_with_visitors_backlit_against_the_windows,_New_York_City.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Interior_of_the_One_World_Observatory_with_visitors_backlit_against_the_windows%2C_New_York_City.jpg/1920px-Interior_of_the_One_World_Observatory_with_visitors_backlit_against_the_windows%2C_New_York_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Christian David / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Interior_of_the_One_World_Observatory_with_visitors_backlit_against_the_windows,_New_York_City.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Panorama_of_Midtown_Manhattan_from_the_One_World_Observatory%2C_New_York_City.jpg/3840px-Panorama_of_Midtown_Manhattan_from_the_One_World_Observatory%2C_New_York_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    credit: "Photo: Christian David / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Panorama_of_Midtown_Manhattan_from_the_One_World_Observatory,_New_York_City.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Panorama_of_Midtown_Manhattan_from_the_One_World_Observatory%2C_New_York_City.jpg/3840px-Panorama_of_Midtown_Manhattan_from_the_One_World_Observatory%2C_New_York_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: 'Photo: Christian David / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Panorama_of_Midtown_Manhattan_from_the_One_World_Observatory,_New_York_City.jpg
 place:
-  id: "ChIJTWE_0BtawokRVJNGH5RS448"
-  name: "One World Observatory"
-  address: "117 West St, New York, NY 10007, USA"
+  id: ChIJTWE_0BtawokRVJNGH5RS448
+  name: One World Observatory
+  address: 117 West St, New York, NY 10007, USA
   rating: 4.7
   userRatingsTotal: 26074
-  googleMapsUrl: "https://maps.google.com/?cid=10368221563270370132&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=10368221563270370132&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 40.713006199999995
   lng: -74.013173
 tags:
-  - "new york"
-  - "viewpoint"
-quickAnswer: "One World Observatory sits on floors 100-102 of One World Trade Center in Lower Manhattan, reached via a high-speed elevator ride that's part of the show itself. Buy timed-entry tickets online in advance, aim for the first hour after opening or the last hour before sunset for the shortest lines and best light, and budget about 1.5-2 hours for the full visit."
+  - new york
+  - viewpoint
+quickAnswer: One World Observatory sits on floors 100-102 of One World Trade Center in Lower Manhattan, reached via a high-speed elevator ride that's part of the show itself. Buy timed-entry tickets online in advance, aim for the first hour after opening or the last hour before sunset for the shortest lines and best light, and budget about 1.5-2 hours for the full visit.
 faq:
-  - q: "How do I get to One World Observatory by subway?"
-    a: "Take the A, C, J, Z, 2, 3, 4, or 5 train to Fulton St, or the E train directly to World Trade Center station (which surfaces at the Oculus). Both leave you a short, well-signed walk from the entrance at 117 West St."
-  - q: "How long should I plan to spend there?"
-    a: "Budget 1.5 to 2 hours total, including roughly 15-20 minutes for security screening, the short 'See Forever' film, and time on both observation floors (100 and 102)."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "The first hour after opening or the last hour before closing tend to be quietest. Sunset is the single most popular ticketed slot, so book the hour just before it if you want great light without the peak crush."
-  - q: "Do I need to book tickets in advance?"
-    a: "Yes, it's strongly recommended. Timed-entry tickets are sold online and walk-up availability, especially on weekends and holidays, is limited and often pricier."
-  - q: "What's nearby if I want to combine this with other sights?"
-    a: "The 9/11 Memorial & Museum and the Oculus transit hub/shopping center are both immediately adjacent, and Battery Park and the Statue of Liberty ferry terminal are a short walk or bus ride south."
+  - q: How do I get to One World Observatory by subway?
+    a: Take the A, C, J, Z, 2, 3, 4, or 5 train to Fulton St, or the E train directly to World Trade Center station (which surfaces at the Oculus). Both leave you a short, well-signed walk from the entrance at 117 West St.
+  - q: How long should I plan to spend there?
+    a: Budget 1.5 to 2 hours total, including roughly 15-20 minutes for security screening, the short 'See Forever' film, and time on both observation floors (100 and 102).
+  - q: When is the best time to visit to avoid crowds?
+    a: The first hour after opening or the last hour before closing tend to be quietest. Sunset is the single most popular ticketed slot, so book the hour just before it if you want great light without the peak crush.
+  - q: Do I need to book tickets in advance?
+    a: Yes, it's strongly recommended. Timed-entry tickets are sold online and walk-up availability, especially on weekends and holidays, is limited and often pricier.
+  - q: What's nearby if I want to combine this with other sights?
+    a: The 9/11 Memorial & Museum and the Oculus transit hub/shopping center are both immediately adjacent, and Battery Park and the Statue of Liberty ferry terminal are a short walk or bus ride south.
 aiGenerated: true
 draft: false
 ---

@@ -6,7 +6,7 @@ country: South Korea
 category: attraction
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Busan_City_Haeundae_District_%2801%29.jpg/1920px-Busan_City_Haeundae_District_%2801%29.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Busan_City_Haeundae_District_%2801%29.jpg/1920px-Busan_City_Haeundae_District_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: 부산광역시 / Wikimedia Commons (KOGL Type 1)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Busan_City_Haeundae_District_(01).jpg

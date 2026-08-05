@@ -1,45 +1,45 @@
 ---
-title: "Shibuya Crossing: Tokyo Travel Guide"
+title: 'Shibuya Crossing: Tokyo Travel Guide'
 description: Shibuya Crossing is the huge scramble intersection right outside Shibuya Station's Hachiko Exit, where up to eight streams of pedestrians cross simultaneously in about 30 seconds.
-country: "Japan"
-region: "Tokyo"
-category: "attraction"
-pubDate: 2026-07-21
+country: Japan
+region: Tokyo
+category: attraction
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg/1920px-Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg"
-  credit: "Photo: Benh LIEU SONG (Flickr) / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg/1920px-Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Benh LIEU SONG (Flickr) / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Shibuya_Crossing%2C_Aerial.jpg/1920px-Shibuya_Crossing%2C_Aerial.jpg
     credit: 'Photo: David Kernan / Wikimedia Commons (CC BY 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Shibuya_Crossing,_Aerial.jpg
 place:
-  id: "ChIJK9EM68qLGGARacmu4KJj5SA"
-  name: "Shibuya Crossing"
-  address: "21 Udagawacho, Shibuya, Tokyo 150-0042, Japan"
+  id: ChIJK9EM68qLGGARacmu4KJj5SA
+  name: Shibuya Crossing
+  address: 21 Udagawacho, Shibuya, Tokyo 150-0042, Japan
   rating: 4.5
   userRatingsTotal: 22494
-  googleMapsUrl: "https://maps.google.com/?cid=2370410330085837161&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=2370410330085837161&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.659482
   lng: 139.7005596
 tags:
-  - "tokyo"
-  - "Shibuya Crossing"
-quickAnswer: "Shibuya Crossing is the huge scramble intersection right outside Shibuya Station's Hachiko Exit, where up to eight streams of pedestrians cross simultaneously in about 30 seconds. Go for free anytime, but sunset to early evening gives the best mix of daylight and neon; the Shibuya Sky observation deck or the Starbucks above the Tsutaya store give the classic overhead view. Budget 20-30 minutes to cross a few times and photograph it, more if you queue for elevated viewpoints."
+  - tokyo
+  - Shibuya Crossing
+quickAnswer: Shibuya Crossing is the huge scramble intersection right outside Shibuya Station's Hachiko Exit, where up to eight streams of pedestrians cross simultaneously in about 30 seconds. Go for free anytime, but sunset to early evening gives the best mix of daylight and neon; the Shibuya Sky observation deck or the Starbucks above the Tsutaya store give the classic overhead view. Budget 20-30 minutes to cross a few times and photograph it, more if you queue for elevated viewpoints.
 faq:
-  - q: "How do I get to Shibuya Crossing?"
-    a: "Exit Shibuya Station via the Hachiko Exit — it opens directly onto the intersection. The station is served by the JR Yamanote Line, Ginza, Hanzomon, and Fukutoshin subway lines, and the Keio and Tokyu lines."
-  - q: "Is there an entrance fee for Shibuya Crossing?"
-    a: "No, it's a public street intersection and free to visit at any hour. Paid viewpoints like Shibuya Sky or the Magnet rooftop charge separate admission if you want an elevated view."
-  - q: "What's the best time to see Shibuya Crossing?"
-    a: "Dusk to early evening offers the best balance of visible daylight and glowing neon signage. Weekday afternoons are quieter; weekend nights and holidays like Halloween are the most crowded."
-  - q: "Where's the best spot to photograph the crossing?"
-    a: "The Starbucks on the 2nd floor of Shibuya Tsutaya offers a classic window view, while Shibuya Sky (Shibuya Scramble Square) gives a full rooftop panorama. Street-level photos work well from the corner near the Hachiko statue."
-  - q: "How much time should I plan for?"
-    a: "20-30 minutes is enough to cross a few times and take photos at street level; add 45-60 minutes if you want to queue for an elevated viewpoint like Shibuya Sky."
+  - q: How do I get to Shibuya Crossing?
+    a: Exit Shibuya Station via the Hachiko Exit — it opens directly onto the intersection. The station is served by the JR Yamanote Line, Ginza, Hanzomon, and Fukutoshin subway lines, and the Keio and Tokyu lines.
+  - q: Is there an entrance fee for Shibuya Crossing?
+    a: No, it's a public street intersection and free to visit at any hour. Paid viewpoints like Shibuya Sky or the Magnet rooftop charge separate admission if you want an elevated view.
+  - q: What's the best time to see Shibuya Crossing?
+    a: Dusk to early evening offers the best balance of visible daylight and glowing neon signage. Weekday afternoons are quieter; weekend nights and holidays like Halloween are the most crowded.
+  - q: Where's the best spot to photograph the crossing?
+    a: The Starbucks on the 2nd floor of Shibuya Tsutaya offers a classic window view, while Shibuya Sky (Shibuya Scramble Square) gives a full rooftop panorama. Street-level photos work well from the corner near the Hachiko statue.
+  - q: How much time should I plan for?
+    a: 20-30 minutes is enough to cross a few times and take photos at street level; add 45-60 minutes if you want to queue for an elevated viewpoint like Shibuya Sky.
 aiGenerated: true
 draft: false
 ---

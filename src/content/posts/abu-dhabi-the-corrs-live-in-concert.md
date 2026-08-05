@@ -8,7 +8,7 @@ pubDate: '2026-07-29'
 eventStartDate: '2026-09-27'
 eventEndDate: '2026-09-27'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/The_Corrs_%28Vienna%2C_2016%29_22.jpg/3840px-The_Corrs_%28Vienna%2C_2016%29_22.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/The_Corrs_%28Vienna%2C_2016%29_22.jpg/1920px-The_Corrs_%28Vienna%2C_2016%29_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Tibor Pallerman / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:The_Corrs_(Vienna,_2016)_22.jpg

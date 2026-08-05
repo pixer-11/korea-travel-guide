@@ -1,13 +1,13 @@
 ---
-title: "Abbaye Notre-Dame de Sénanque: Provence Travel Guide"
+title: 'Abbaye Notre-Dame de Sénanque: Provence Travel Guide'
 description: Sénanque Abbey, a working Cistercian monastery outside Gordes, is best seen right at opening — weekdays 9:30–10am or Sunday 10–11am — before the tour buses arrive; avoid noon to 6pm on weekends, when the lavender-field parking lot and viewpoint road jam solid.
 country: France
 region: Provence
 category: hidden-gem
-pubDate: "2026-07-31T10:32:13.939Z"
+pubDate: '2026-07-31T10:32:13.939Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Abbaye_Notre-Dame_de_S%C3%A9nanque%2C_2022.jpg/1920px-Abbaye_Notre-Dame_de_S%C3%A9nanque%2C_2022.jpg
-  credit: "Photo: Chris Down / Wikimedia Commons (CC BY 4.0)"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Abbaye_Notre-Dame_de_S%C3%A9nanque%2C_2022.jpg/1920px-Abbaye_Notre-Dame_de_S%C3%A9nanque%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Chris Down / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Abbaye_Notre-Dame_de_S%C3%A9nanque,_2022.jpg
 gallery: []
@@ -21,22 +21,24 @@ place:
   businessStatus: OPERATIONAL
   lat: 43.9279827
   lng: 5.1867401
-  phone: '+33 4 90 72 18 24'
+  phone: +33 4 90 72 18 24
   openingHours:
-    - "Monday: 9:30 AM – 7:00 PM"
-    - "Tuesday: 9:30 AM – 7:00 PM"
-    - "Wednesday: 9:30 AM – 7:00 PM"
-    - "Thursday: 9:30 AM – 7:00 PM"
-    - "Friday: 9:30 AM – 7:00 PM"
-    - "Saturday: 9:30 AM – 7:00 PM"
-    - "Sunday: 10:00 AM – 7:00 PM"
+    - 'Monday: 9:30 AM – 7:00 PM'
+    - 'Tuesday: 9:30 AM – 7:00 PM'
+    - 'Wednesday: 9:30 AM – 7:00 PM'
+    - 'Thursday: 9:30 AM – 7:00 PM'
+    - 'Friday: 9:30 AM – 7:00 PM'
+    - 'Saturday: 9:30 AM – 7:00 PM'
+    - 'Sunday: 10:00 AM – 7:00 PM'
   busyness:
     updated: 2026-07-31T00:00:00.000Z
-    weekdayQuiet: [9]
+    weekdayQuiet:
+      - 9
     weekdayBusy:
       - 14
       - 15
-    weekendQuiet: [10]
+    weekendQuiet:
+      - 10
     weekendBusy:
       - 12
       - 13

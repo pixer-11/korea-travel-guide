@@ -1,45 +1,45 @@
 ---
-title: "The Big Buddha: Phuket Travel Guide"
-description: "The Big Buddha (Phra Puttamingmongkol Akenakkiri) sits atop Nakkerd Hill between Chalong and Kata, roughly a 30-45 minute drive from Patong or Phuket Town."
-country: "Thailand"
-region: "Phuket"
-category: "attraction"
-pubDate: 2026-07-21
+title: 'The Big Buddha: Phuket Travel Guide'
+description: The Big Buddha (Phra Puttamingmongkol Akenakkiri) sits atop Nakkerd Hill between Chalong and Kata, roughly a 30-45 minute drive from Patong or Phuket Town.
+country: Thailand
+region: Phuket
+category: attraction
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/The_Big_Buddha%2C_Phuket.jpg/1920px-The_Big_Buddha%2C_Phuket.jpg"
-  credit: "Photo: Subhrajyoti07 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:The_Big_Buddha,_Phuket.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/The_Big_Buddha%2C_Phuket.jpg/1920px-The_Big_Buddha%2C_Phuket.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Subhrajyoti07 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:The_Big_Buddha,_Phuket.jpg
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/382465217_8gTn96mkQPQhk73BO8-o4_e3ApIlcN3kbBiRaqZuq1Q.jpg
     credit: 'Photo: Foursquare user content (The Big Buddha (พระพุทธมิ่งมงคลเอกนาคคีรี))'
     license: foursquare
     source: https://foursquare.com/v/538f4c9a498ea5bb8623c017
 place:
-  id: "ChIJOSmXz2AvUDARXCxlBBs7y38"
-  name: "The Big Buddha, Phuket"
-  address: "Karon, Mueang Phuket District, Phuket 83100, Thailand"
+  id: ChIJOSmXz2AvUDARXCxlBBs7y38
+  name: The Big Buddha, Phuket
+  address: Karon, Mueang Phuket District, Phuket 83100, Thailand
   rating: 4.6
   userRatingsTotal: 38717
-  googleMapsUrl: "https://maps.google.com/?cid=9208518850313006172&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=9208518850313006172&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 7.8275763
   lng: 98.3128423
 tags:
-  - "phuket"
-  - "Big Buddha Phuket"
-quickAnswer: "The Big Buddha (Phra Puttamingmongkol Akenakkiri) sits atop Nakkerd Hill between Chalong and Kata, roughly a 30-45 minute drive from Patong or Phuket Town. Visiting is free (small donations requested), it's open roughly 6am-7pm daily, and you should budget 1-1.5 hours for the climb, photos, and 360-degree views. Go early morning or just before sunset for the best light and cooler temperatures."
+  - phuket
+  - Big Buddha Phuket
+quickAnswer: The Big Buddha (Phra Puttamingmongkol Akenakkiri) sits atop Nakkerd Hill between Chalong and Kata, roughly a 30-45 minute drive from Patong or Phuket Town. Visiting is free (small donations requested), it's open roughly 6am-7pm daily, and you should budget 1-1.5 hours for the climb, photos, and 360-degree views. Go early morning or just before sunset for the best light and cooler temperatures.
 faq:
-  - q: "How much does it cost to visit the Big Buddha?"
-    a: "Entry is free, though donation boxes are placed around the site to help fund the ongoing marble cladding of the statue. Parking may involve a small fee at some lots."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors spend 1 to 1.5 hours, including the walk up from parking, viewing the statue and views, and a stop at the small cafe or gift shop."
-  - q: "What should I wear?"
-    a: "Modest clothing covering shoulders and knees is required, as this is an active religious site. Sarongs are usually available to rent or borrow near the entrance if needed, and shoes must come off on the main statue platform."
-  - q: "How do I get to the Big Buddha without a rental car?"
-    a: "Grab or a metered taxi are the easiest options, as no public bus reaches the summit. Many visitors combine the trip with a scooter rental or hire a driver for a half-day loop including Wat Chalong."
-  - q: "What's the best time of day to visit for views?"
-    a: "Early morning before 9am or the hour before sunset offer the clearest air, cooler temperatures, and best light for photos over Kata, Karon, and Chalong Bay."
+  - q: How much does it cost to visit the Big Buddha?
+    a: Entry is free, though donation boxes are placed around the site to help fund the ongoing marble cladding of the statue. Parking may involve a small fee at some lots.
+  - q: How long should I plan to spend there?
+    a: Most visitors spend 1 to 1.5 hours, including the walk up from parking, viewing the statue and views, and a stop at the small cafe or gift shop.
+  - q: What should I wear?
+    a: Modest clothing covering shoulders and knees is required, as this is an active religious site. Sarongs are usually available to rent or borrow near the entrance if needed, and shoes must come off on the main statue platform.
+  - q: How do I get to the Big Buddha without a rental car?
+    a: Grab or a metered taxi are the easiest options, as no public bus reaches the summit. Many visitors combine the trip with a scooter rental or hire a driver for a half-day loop including Wat Chalong.
+  - q: What's the best time of day to visit for views?
+    a: Early morning before 9am or the hour before sunset offer the clearest air, cooler temperatures, and best light for photos over Kata, Karon, and Chalong Bay.
 aiGenerated: true
 draft: false
 ---

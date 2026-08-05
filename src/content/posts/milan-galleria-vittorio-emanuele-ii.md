@@ -1,41 +1,41 @@
 ---
-title: "Galleria Vittorio Emanuele II: Milan Travel Guide (4.7★)"
-description: "The Galleria Vittorio Emanuele II is Milan's grand 19th-century glass-domed arcade linking Piazza del Duomo to Piazza della Scala — free to enter, open 24 hours, and best seen between 7am and 9am before the tour groups and shoppers arrive. 4.7★ (114,960 reviews) — what visitors say, hours, and tips."
-country: "Italy"
-region: "Milan"
-category: "hidden-gem"
-pubDate: "2026-08-03T11:08:58.415Z"
+title: 'Galleria Vittorio Emanuele II: Milan Travel Guide (4.7★)'
+description: The Galleria Vittorio Emanuele II is Milan's grand 19th-century glass-domed arcade linking Piazza del Duomo to Piazza della Scala — free to enter, open 24 hours, and best seen between 7am and 9am before the tour groups and shoppers arrive. 4.7★ (114,960 reviews) — what visitors say, hours, and tips.
+country: Italy
+region: Milan
+category: hidden-gem
+pubDate: '2026-08-03T11:08:58.415Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Galleria_Milano_%28179532365%29.jpeg/1920px-Galleria_Milano_%28179532365%29.jpeg"
-  credit: "Photo: Marco Pagani / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Galleria_Milano_(179532365).jpeg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Galleria_Milano_%28179532365%29.jpeg/1920px-Galleria_Milano_%28179532365%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Marco Pagani / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Galleria_Milano_(179532365).jpeg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/1/1d/Glass_fome_of_the_Galleria_Vittorio_Emanuele_II_in_Milan.JPG"
-    credit: "Photo: High Contrast / Wikimedia Commons (CC BY 3.0 de)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Glass_fome_of_the_Galleria_Vittorio_Emanuele_II_in_Milan.JPG"
+  - url: https://upload.wikimedia.org/wikipedia/commons/1/1d/Glass_fome_of_the_Galleria_Vittorio_Emanuele_II_in_Milan.JPG
+    credit: 'Photo: High Contrast / Wikimedia Commons (CC BY 3.0 de)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Glass_fome_of_the_Galleria_Vittorio_Emanuele_II_in_Milan.JPG
 place:
-  id: "ChIJw7aG_QY1eUcRFtQJWKmcCyc"
-  name: "Galleria Vittorio Emanuele II"
-  address: "20123 Milan, Metropolitan City of Milan, Italy"
+  id: ChIJw7aG_QY1eUcRFtQJWKmcCyc
+  name: Galleria Vittorio Emanuele II
+  address: 20123 Milan, Metropolitan City of Milan, Italy
   rating: 4.7
   userRatingsTotal: 114960
-  googleMapsUrl: "https://maps.google.com/?cid=2813514643363451926&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=2813514643363451926&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.4658434
   lng: 9.1899401
-  phone: "+39 02 8845 5555"
+  phone: +39 02 8845 5555
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-03
+    updated: 2026-08-03T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -64,22 +64,22 @@ place:
       - 19
       - 20
       - 21
-    venueId: "ven_637943636d4b574a517446526355653159515f476137774a496843"
+    venueId: ven_637943636d4b574a517446526355653159515f476137774a496843
 tags:
-  - "milan"
-  - "hidden gem"
-quickAnswer: "The Galleria Vittorio Emanuele II is Milan's grand 19th-century glass-domed arcade linking Piazza del Duomo to Piazza della Scala — free to enter, open 24 hours, and best seen between 7am and 9am before the tour groups and shoppers arrive. Come for the mosaic floors, the iron-and-glass roof, and a coffee at Camparino, not for bargain shopping. Budget 20-30 minutes to look up and around, longer if you're pairing it with the Duomo next door."
+  - milan
+  - hidden gem
+quickAnswer: The Galleria Vittorio Emanuele II is Milan's grand 19th-century glass-domed arcade linking Piazza del Duomo to Piazza della Scala — free to enter, open 24 hours, and best seen between 7am and 9am before the tour groups and shoppers arrive. Come for the mosaic floors, the iron-and-glass roof, and a coffee at Camparino, not for bargain shopping. Budget 20-30 minutes to look up and around, longer if you're pairing it with the Duomo next door.
 faq:
-  - q: "Is entry to the Galleria Vittorio Emanuele II free?"
-    a: "Yes, it's a public arcade with no admission fee, open 24 hours every day — you can walk through anytime."
-  - q: "How do I get there by metro?"
-    a: "Take Metro Line 1 (red) or Line 3 (yellow) to Duomo station; the Galleria's main entrance faces Piazza del Duomo, about a 2-minute walk from the station exit."
-  - q: "When is it quietest?"
-    a: "Both on weekdays and weekends, 7am–9am is the calmest window, before shops open and tour groups arrive. Weekends from 11am to 10pm are the busiest, so avoid that stretch if you want breathing room."
-  - q: "How long should I spend there?"
-    a: "20-30 minutes is enough to see the mosaic floor, the dome, and the shopfronts; longer if you stop for coffee at Camparino or a meal at Savini."
-  - q: "What's nearby?"
-    a: "The Duomo di Milano and its rooftop terraces are right at one end, and Teatro alla Scala opera house is a two-minute walk at the other end of the arcade."
+  - q: Is entry to the Galleria Vittorio Emanuele II free?
+    a: Yes, it's a public arcade with no admission fee, open 24 hours every day — you can walk through anytime.
+  - q: How do I get there by metro?
+    a: Take Metro Line 1 (red) or Line 3 (yellow) to Duomo station; the Galleria's main entrance faces Piazza del Duomo, about a 2-minute walk from the station exit.
+  - q: When is it quietest?
+    a: Both on weekdays and weekends, 7am–9am is the calmest window, before shops open and tour groups arrive. Weekends from 11am to 10pm are the busiest, so avoid that stretch if you want breathing room.
+  - q: How long should I spend there?
+    a: 20-30 minutes is enough to see the mosaic floor, the dome, and the shopfronts; longer if you stop for coffee at Camparino or a meal at Savini.
+  - q: What's nearby?
+    a: The Duomo di Milano and its rooftop terraces are right at one end, and Teatro alla Scala opera house is a two-minute walk at the other end of the arcade.
 aiGenerated: true
 draft: false
 ---

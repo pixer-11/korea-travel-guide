@@ -1,13 +1,13 @@
 ---
-title: "Cathédrale Notre-Dame-de-Strasbourg: Travel Guide"
+title: 'Cathédrale Notre-Dame-de-Strasbourg: Travel Guide'
 description: Strasbourg's cathedral is a working parish church with a rose window, an astronomical clock, and a 142-metre spire that dominated Europe's skylines for centuries — and it's free to walk in.
 country: France
 region: Strasbourg
 category: hidden-gem
-pubDate: "2026-07-30T10:21:44.415Z"
+pubDate: '2026-07-30T10:21:44.415Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Cath%C3%A9drale_Notre-Dame_de_Strasbourg_Steeples.jpg/3840px-Cath%C3%A9drale_Notre-Dame_de_Strasbourg_Steeples.jpg
-  credit: "Photo: Andrea Griffini / Wikimedia Commons (CC BY-SA 3.0)"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Cath%C3%A9drale_Notre-Dame_de_Strasbourg_Steeples.jpg/1920px-Cath%C3%A9drale_Notre-Dame_de_Strasbourg_Steeples.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Andrea Griffini / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Cath%C3%A9drale_Notre-Dame_de_Strasbourg_Steeples.jpg
 gallery: []
@@ -21,15 +21,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 48.5818799
   lng: 7.7510348
-  phone: '+33 3 88 21 43 34'
+  phone: +33 3 88 21 43 34
   openingHours:
-    - "Monday: 8:30 – 11:15 AM, 12:45 – 5:45 PM"
-    - "Tuesday: 8:30 – 11:15 AM, 12:45 – 5:45 PM"
-    - "Wednesday: 8:30 – 11:15 AM, 12:45 – 5:45 PM"
-    - "Thursday: 8:30 – 11:15 AM, 12:45 – 5:45 PM"
-    - "Friday: 8:30 – 11:15 AM, 12:45 – 5:45 PM"
-    - "Saturday: 8:30 – 11:15 AM, 12:45 – 5:45 PM"
-    - "Sunday: 2:00 – 5:15 PM"
+    - 'Monday: 8:30 – 11:15 AM, 12:45 – 5:45 PM'
+    - 'Tuesday: 8:30 – 11:15 AM, 12:45 – 5:45 PM'
+    - 'Wednesday: 8:30 – 11:15 AM, 12:45 – 5:45 PM'
+    - 'Thursday: 8:30 – 11:15 AM, 12:45 – 5:45 PM'
+    - 'Friday: 8:30 – 11:15 AM, 12:45 – 5:45 PM'
+    - 'Saturday: 8:30 – 11:15 AM, 12:45 – 5:45 PM'
+    - 'Sunday: 2:00 – 5:15 PM'
   busyness:
     updated: 2026-07-30T00:00:00.000Z
     weekdayQuiet:
@@ -39,7 +39,12 @@ place:
     weekendQuiet:
       - 8
       - 9
-    weekendBusy: [12, 13, 14, 15, 16]
+    weekendBusy:
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
     venueId: ven_6365466e6358396564434f52636b6c494c3155356734514a496843
 tags:
   - strasbourg

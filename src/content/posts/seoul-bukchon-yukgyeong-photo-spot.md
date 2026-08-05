@@ -1,18 +1,18 @@
 ---
-title: "Bukchon Yukgyeong (Photo Spot): Seoul Travel Guide"
+title: 'Bukchon Yukgyeong (Photo Spot): Seoul Travel Guide'
 description: Bukchon Yukgyeong ("Six Scenic Views of Bukchon") is a self-guided walking route through Bukchon Hanok Village's steep alleys in Jongno District, with "View 6," on Gahoe-dong's hillside lanes (31-48 Gahoe-dong), the single most-photographed spot — a narrow stone alley framed by curved tiled hanok roofs with Namsan Tower visible in the distance.
 country: South Korea
 region: Seoul
 category: attraction
-pubDate: "2026-07-22T22:16:23.436Z"
+pubDate: '2026-07-22T22:16:23.436Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg/1920px-Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg
-  credit: "Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg/1920px-Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/4089262_TAGOA0XCgTQbeD3ij8-Av9l1eW6r2J38BaGBHYvE6R8.jpg
-    credit: "Photo: Foursquare user content (Bukchon Hanok Village (북촌한옥마을))"
+    credit: 'Photo: Foursquare user content (Bukchon Hanok Village (북촌한옥마을))'
     license: foursquare
     source: https://foursquare.com/v/4bbed04dba9776b01d47fec8
 place:
@@ -26,22 +26,25 @@ place:
   lat: 37.582530299999995
   lng: 126.9836464
   busyness:
-    updated: "2026-07-23"
-    weekdayQuiet: [10, 16]
-    weekendQuiet: [10]
+    updated: '2026-07-23'
+    weekdayQuiet:
+      - 10
+      - 16
+    weekendQuiet:
+      - 10
     weekendBusy:
       - 13
       - 14
       - 15
     venueId: ven_637a4a706741554e467936525544666a71746c343857704a496843
   openingHours:
-    - "Monday: 10:00 AM – 5:00 PM"
-    - "Tuesday: 10:00 AM – 5:00 PM"
-    - "Wednesday: 10:00 AM – 5:00 PM"
-    - "Thursday: 10:00 AM – 5:00 PM"
-    - "Friday: 10:00 AM – 5:00 PM"
-    - "Saturday: 10:00 AM – 5:00 PM"
-    - "Sunday: 10:00 AM – 5:00 PM"
+    - 'Monday: 10:00 AM – 5:00 PM'
+    - 'Tuesday: 10:00 AM – 5:00 PM'
+    - 'Wednesday: 10:00 AM – 5:00 PM'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: 10:00 AM – 5:00 PM'
+    - 'Saturday: 10:00 AM – 5:00 PM'
+    - 'Sunday: 10:00 AM – 5:00 PM'
 tags:
   - seoul
   - Bukchon hanoks

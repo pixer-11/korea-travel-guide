@@ -1,42 +1,42 @@
 ---
-title: "Fish Market Tsukiji Outer Market: Where to Eat in Tokyo"
+title: 'Fish Market Tsukiji Outer Market: Where to Eat in Tokyo'
 description: Tsukiji Outer Market (Jonai-gai) in Chuo City is a compact grid of 400+ stalls and small eateries near the old wholesale market — go on an empty stomach between 8-10am for the best mix of fresh sashimi, grilled skewers, and tamagoyaki, before crowds and lines peak midday.
-country: "Japan"
-region: "Tokyo"
-category: "restaurant"
-pubDate: 2026-07-21
+country: Japan
+region: Tokyo
+category: restaurant
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Tsukiji_Outer_Market_-_where_retail_shops_are_Historical_photo_of_Tsukiji_fish_market_2005.jpg/1920px-Tsukiji_Outer_Market_-_where_retail_shops_are_Historical_photo_of_Tsukiji_fish_market_2005.jpg"
-  credit: "Photo: sodai gomi / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Tsukiji_Outer_Market_-_where_retail_shops_are_Historical_photo_of_Tsukiji_fish_market_2005.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Tsukiji_Outer_Market_-_where_retail_shops_are_Historical_photo_of_Tsukiji_fish_market_2005.jpg/1920px-Tsukiji_Outer_Market_-_where_retail_shops_are_Historical_photo_of_Tsukiji_fish_market_2005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: sodai gomi / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Tsukiji_Outer_Market_-_where_retail_shops_are_Historical_photo_of_Tsukiji_fish_market_2005.jpg
 gallery: []
 place:
-  id: "ChIJW2cLzSGLGGARXAKXv6EkbqI"
-  name: "Fish Market Tsukiji Outer Market"
-  address: "Japan, 〒104-0045 Tokyo, Chuo City, Tsukiji, 4-chōme−16 および６丁目一部"
+  id: ChIJW2cLzSGLGGARXAKXv6EkbqI
+  name: Fish Market Tsukiji Outer Market
+  address: Japan, 〒104-0045 Tokyo, Chuo City, Tsukiji, 4-chōme−16 および６丁目一部
   rating: 4.2
   userRatingsTotal: 55877
-  googleMapsUrl: "https://maps.google.com/?cid=11704332758705177180&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=11704332758705177180&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.6647703
   lng: 139.7702515
-  phone: '+81 3-3541-9444'
+  phone: +81 3-3541-9444
 tags:
-  - "tokyo"
-  - "Tsukiji Outer Market"
-quickAnswer: "Tsukiji Outer Market (Jonai-gai) in Chuo City is a compact grid of 400+ stalls and small eateries near the old wholesale market — go on an empty stomach between 8-10am for the best mix of fresh sashimi, grilled skewers, and tamagoyaki, before crowds and lines peak midday. The famous tuna auctions moved to Toyosu in 2018, but the outer market's food stalls, knife shops, and sit-down sushi counters remain the real draw. Budget 1.5-2 hours and cash for small vendors."
+  - tokyo
+  - Tsukiji Outer Market
+quickAnswer: Tsukiji Outer Market (Jonai-gai) in Chuo City is a compact grid of 400+ stalls and small eateries near the old wholesale market — go on an empty stomach between 8-10am for the best mix of fresh sashimi, grilled skewers, and tamagoyaki, before crowds and lines peak midday. The famous tuna auctions moved to Toyosu in 2018, but the outer market's food stalls, knife shops, and sit-down sushi counters remain the real draw. Budget 1.5-2 hours and cash for small vendors.
 faq:
-  - q: "Is the Tsukiji tuna auction still held at the outer market?"
-    a: "No. The tuna auction and wholesale trading moved to Toyosu Market in October 2018. The outer market retains its food stalls and shops but not the auction itself."
-  - q: "What's the best time to visit for food?"
-    a: "Arrive by 8-9am for the freshest items and shortest lines. By late morning, especially on weekends, lanes get crowded and popular stalls may sell out."
-  - q: "How do I get to Tsukiji Outer Market?"
-    a: "Take the Hibiya Line to Tsukiji Station (exit 1 or 2) or the Yurakucho Line to Shintomicho Station — both are roughly a 3-5 minute walk to the market."
-  - q: "How much time should I budget?"
-    a: "1.5 to 2 hours is enough to sample several stalls and browse shops without rushing. Add extra time if queuing for a sit-down sushi breakfast."
-  - q: "Do stalls take credit cards?"
-    a: "Many small stalls are cash-only. Carry yen in smaller denominations, as change can be limited at busy times."
+  - q: Is the Tsukiji tuna auction still held at the outer market?
+    a: No. The tuna auction and wholesale trading moved to Toyosu Market in October 2018. The outer market retains its food stalls and shops but not the auction itself.
+  - q: What's the best time to visit for food?
+    a: Arrive by 8-9am for the freshest items and shortest lines. By late morning, especially on weekends, lanes get crowded and popular stalls may sell out.
+  - q: How do I get to Tsukiji Outer Market?
+    a: Take the Hibiya Line to Tsukiji Station (exit 1 or 2) or the Yurakucho Line to Shintomicho Station — both are roughly a 3-5 minute walk to the market.
+  - q: How much time should I budget?
+    a: 1.5 to 2 hours is enough to sample several stalls and browse shops without rushing. Add extra time if queuing for a sit-down sushi breakfast.
+  - q: Do stalls take credit cards?
+    a: Many small stalls are cash-only. Carry yen in smaller denominations, as change can be limited at busy times.
 aiGenerated: true
 draft: false
 ---

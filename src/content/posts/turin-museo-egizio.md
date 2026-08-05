@@ -1,18 +1,18 @@
 ---
-title: "Museo Egizio: Turin Travel Guide"
+title: 'Museo Egizio: Turin Travel Guide'
 description: Museo Egizio, on Via Accademia delle Scienze in central Turin, is the world's oldest Egyptology museum and the largest collection of Egyptian antiquities outside Cairo.
 country: Italy
 region: Turin
 category: attraction
-pubDate: "2026-07-26T07:46:41.524Z"
+pubDate: '2026-07-26T07:46:41.524Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Museo_Egizio_e_Galleria_sabauda%2C_Torino.jpg/1920px-Museo_Egizio_e_Galleria_sabauda%2C_Torino.jpg
-  credit: "Photo: Georgius LXXXIX at Italian Wikipedia / Wikimedia Commons (Public domain)"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Museo_Egizio_e_Galleria_sabauda%2C_Torino.jpg/1920px-Museo_Egizio_e_Galleria_sabauda%2C_Torino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Georgius LXXXIX at Italian Wikipedia / Wikimedia Commons (Public domain)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Museo_Egizio_e_Galleria_sabauda,_Torino.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Edit-a-thon_in_Turin%2C_Museo_Egizio_01.jpg/1920px-Edit-a-thon_in_Turin%2C_Museo_Egizio_01.jpg
-    credit: "Photo: Iolanda Pensa / Wikimedia Commons (CC BY-SA 4.0)"
+    credit: 'Photo: Iolanda Pensa / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Edit-a-thon_in_Turin,_Museo_Egizio_01.jpg
 place:
@@ -25,15 +25,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 45.0684433
   lng: 7.6844128
-  phone: '+39 011 561 7776'
+  phone: +39 011 561 7776
   openingHours:
-    - "Monday: 9:00 AM – 2:00 PM"
-    - "Tuesday: 9:00 AM – 6:30 PM"
-    - "Wednesday: 9:00 AM – 6:30 PM"
-    - "Thursday: 9:00 AM – 6:30 PM"
-    - "Friday: 9:00 AM – 6:30 PM"
-    - "Saturday: 9:00 AM – 8:00 PM"
-    - "Sunday: 9:00 AM – 6:30 PM"
+    - 'Monday: 9:00 AM – 2:00 PM'
+    - 'Tuesday: 9:00 AM – 6:30 PM'
+    - 'Wednesday: 9:00 AM – 6:30 PM'
+    - 'Thursday: 9:00 AM – 6:30 PM'
+    - 'Friday: 9:00 AM – 6:30 PM'
+    - 'Saturday: 9:00 AM – 8:00 PM'
+    - 'Sunday: 9:00 AM – 6:30 PM'
 tags:
   - turin
   - top attraction

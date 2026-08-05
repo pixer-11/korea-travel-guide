@@ -1,31 +1,31 @@
 ---
-title: "Sanchon: Where to Eat in Seoul"
+title: 'Sanchon: Where to Eat in Seoul'
 description: Sanchon is a temple-food restaurant tucked down a narrow alley off Insadong-gil in central Seoul, serving a fixed-course, no-meat, no-garlic/onion menu inspired by Buddhist monastic cooking.
-country: "South Korea"
-region: "Seoul"
-category: "restaurant"
-pubDate: 2026-07-21
+country: South Korea
+region: Seoul
+category: restaurant
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Korea-Seoul-Insadong-Sanchon-04.jpg/1920px-Korea-Seoul-Insadong-Sanchon-04.jpg"
-  credit: "Photo: Julie / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Korea-Seoul-Insadong-Sanchon-04.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Korea-Seoul-Insadong-Sanchon-04.jpg/1920px-Korea-Seoul-Insadong-Sanchon-04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Julie / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Korea-Seoul-Insadong-Sanchon-04.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Korea-Seoul-Insadong-Sanchon-01.jpg/1920px-Korea-Seoul-Insadong-Sanchon-01.jpg
     credit: 'Photo: Julie / Wikimedia Commons (CC BY-SA 2.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Korea-Seoul-Insadong-Sanchon-01.jpg
 place:
-  id: "ChIJYY2vctGjfDURVRwnLTU_rhM"
-  name: "Sanchon"
-  address: "30-13 Insadong-gil, Jongno District, Seoul, South Korea"
+  id: ChIJYY2vctGjfDURVRwnLTU_rhM
+  name: Sanchon
+  address: 30-13 Insadong-gil, Jongno District, Seoul, South Korea
   rating: 4.1
   userRatingsTotal: 733
-  googleMapsUrl: "https://maps.google.com/?cid=1418140430291639381&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=1418140430291639381&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.5737828
   lng: 126.98606240000001
-  phone: '+82 2-735-0312'
+  phone: +82 2-735-0312
   openingHours:
     - 'Monday: 11:30 AM – 11:00 PM'
     - 'Tuesday: 11:30 AM – 11:00 PM'
@@ -35,20 +35,20 @@ place:
     - 'Saturday: 11:30 AM – 11:00 PM'
     - 'Sunday: 11:30 AM – 11:00 PM'
 tags:
-  - "seoul"
-  - "temple cuisine"
-quickAnswer: "Sanchon is a temple-food restaurant tucked down a narrow alley off Insadong-gil in central Seoul, serving a fixed-course, no-meat, no-garlic/onion menu inspired by Buddhist monastic cooking. Go hungry and unhurried — a meal runs 90 minutes to two hours with 10-20 small dishes plus rice and soup. Reserve ahead if you can, dress code is casual, and pair it with an afternoon walking Insadong's craft and tea shops."
+  - seoul
+  - temple cuisine
+quickAnswer: Sanchon is a temple-food restaurant tucked down a narrow alley off Insadong-gil in central Seoul, serving a fixed-course, no-meat, no-garlic/onion menu inspired by Buddhist monastic cooking. Go hungry and unhurried — a meal runs 90 minutes to two hours with 10-20 small dishes plus rice and soup. Reserve ahead if you can, dress code is casual, and pair it with an afternoon walking Insadong's craft and tea shops.
 faq:
-  - q: "How do I get to Sanchon by subway?"
-    a: "Take Line 3 to Anguk Station, exit 6, then walk about 5-7 minutes south down Insadong-gil; Jonggak Station on Line 1 is a 10-minute walk from the north end of Insadong."
-  - q: "Is Sanchon vegetarian or vegan-friendly?"
-    a: "Yes — the menu is Korean Buddhist temple food, meaning no meat, fish, eggs, garlic, or onion. It's one of the more reliable vegan-oriented set-course experiences in central Seoul, though it's wise to flag any specific allergy with staff."
-  - q: "Do I need a reservation?"
-    a: "It's strongly recommended, especially for evening seatings and weekends, since Sanchon serves fixed set courses rather than quick à la carte plates and seating is limited."
-  - q: "How long does a meal take?"
-    a: "Budget 90 minutes to two hours. The set courses arrive as a long sequence of small dishes, so it's a slow, multi-course dining experience rather than a fast meal."
-  - q: "What else is nearby worth combining with a visit?"
-    a: "Insadong-gil's craft shops and Ssamziegil market are right outside, and Jogyesa Temple is a short walk away, offering context for the Buddhist temple cuisine served at Sanchon."
+  - q: How do I get to Sanchon by subway?
+    a: Take Line 3 to Anguk Station, exit 6, then walk about 5-7 minutes south down Insadong-gil; Jonggak Station on Line 1 is a 10-minute walk from the north end of Insadong.
+  - q: Is Sanchon vegetarian or vegan-friendly?
+    a: Yes — the menu is Korean Buddhist temple food, meaning no meat, fish, eggs, garlic, or onion. It's one of the more reliable vegan-oriented set-course experiences in central Seoul, though it's wise to flag any specific allergy with staff.
+  - q: Do I need a reservation?
+    a: It's strongly recommended, especially for evening seatings and weekends, since Sanchon serves fixed set courses rather than quick à la carte plates and seating is limited.
+  - q: How long does a meal take?
+    a: Budget 90 minutes to two hours. The set courses arrive as a long sequence of small dishes, so it's a slow, multi-course dining experience rather than a fast meal.
+  - q: What else is nearby worth combining with a visit?
+    a: Insadong-gil's craft shops and Ssamziegil market are right outside, and Jogyesa Temple is a short walk away, offering context for the Buddhist temple cuisine served at Sanchon.
 aiGenerated: true
 draft: false
 ---

@@ -6,7 +6,7 @@ region: Gapyeong
 category: hidden-gem
 pubDate: '2026-07-27T10:58:25.413Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Lake_in_the_Garden_of_Morning_Calm.jpg/1920px-Lake_in_the_Garden_of_Morning_Calm.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Lake_in_the_Garden_of_Morning_Calm.jpg/1920px-Lake_in_the_Garden_of_Morning_Calm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Clément Chevallier / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Lake_in_the_Garden_of_Morning_Calm.jpg

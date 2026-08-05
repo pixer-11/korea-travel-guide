@@ -1,53 +1,53 @@
 ---
-title: "Elephant Mountain: Taipei Travel Guide"
+title: 'Elephant Mountain: Taipei Travel Guide'
 description: Elephant Mountain (Xiangshan) is Taipei's most popular short hike, a steep 20-40 minute stair climb in Xinyi District that ends at boulder viewpoints framing Taipei 101.
-country: "Taiwan"
-region: "Taipei"
-category: "attraction"
-pubDate: "2026-08-01T09:33:53.603Z"
+country: Taiwan
+region: Taipei
+category: attraction
+pubDate: '2026-08-01T09:33:53.603Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Taipei_night_skyline_and_Elephant_Mountain_May_2025.jpg/3840px-Taipei_night_skyline_and_Elephant_Mountain_May_2025.jpg"
-  credit: "Photo: 4300streetcar / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Taipei_night_skyline_and_Elephant_Mountain_May_2025.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Taipei_night_skyline_and_Elephant_Mountain_May_2025.jpg/1920px-Taipei_night_skyline_and_Elephant_Mountain_May_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: 4300streetcar / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Taipei_night_skyline_and_Elephant_Mountain_May_2025.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Taipei_night_skyline_from_Elephant_Mountain_May_2025_2.jpg/3840px-Taipei_night_skyline_from_Elephant_Mountain_May_2025_2.jpg"
-    credit: "Photo: 4300streetcar / Wikimedia Commons (CC BY 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Taipei_night_skyline_from_Elephant_Mountain_May_2025_2.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Taipei_night_skyline_from_Elephant_Mountain_May_2025_2.jpg/3840px-Taipei_night_skyline_from_Elephant_Mountain_May_2025_2.jpg
+    credit: 'Photo: 4300streetcar / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Taipei_night_skyline_from_Elephant_Mountain_May_2025_2.jpg
 place:
-  id: "ChIJJa7chrKrQjQR2GI4GGWVdjg"
-  name: "Elephant Mountain"
-  address: "No. 31, Alley 401, Lane 150, Section 5, Xinyi Rd, Sanli Village, Xinyi District, Taipei City, Taiwan 110"
+  id: ChIJJa7chrKrQjQR2GI4GGWVdjg
+  name: Elephant Mountain
+  address: No. 31, Alley 401, Lane 150, Section 5, Xinyi Rd, Sanli Village, Xinyi District, Taipei City, Taiwan 110
   rating: 4.7
   userRatingsTotal: 6020
-  googleMapsUrl: "https://maps.google.com/?cid=4068603574806405848&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=4068603574806405848&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.027149299999998
   lng: 121.5731954
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "taipei"
-  - "top attraction"
-quickAnswer: "Elephant Mountain (Xiangshan) is Taipei's most popular short hike, a steep 20-40 minute stair climb in Xinyi District that ends at boulder viewpoints framing Taipei 101. It's open 24 hours, but arrive by 4:30-5pm to claim a rock before sunset, or go at sunrise if you want the view without the crowds. Take the MRT Red Line to Xiangshan Station, Exit 2, and follow the signs uphill."
+  - taipei
+  - top attraction
+quickAnswer: Elephant Mountain (Xiangshan) is Taipei's most popular short hike, a steep 20-40 minute stair climb in Xinyi District that ends at boulder viewpoints framing Taipei 101. It's open 24 hours, but arrive by 4:30-5pm to claim a rock before sunset, or go at sunrise if you want the view without the crowds. Take the MRT Red Line to Xiangshan Station, Exit 2, and follow the signs uphill.
 faq:
-  - q: "How long does the Elephant Mountain hike take?"
-    a: "Most visitors reach the main viewpoint in 20-40 minutes of steep stair climbing. Budget 1-1.5 hours total for a there-and-back trip with photo stops."
-  - q: "What's the best time to avoid crowds?"
-    a: "Sunrise is far quieter than sunset, since sunset is when most locals and tourists arrive for the classic Taipei 101 shot. Weekday mornings are your best bet for space on the summit boulders."
-  - q: "Is there an entrance fee?"
-    a: "No, the trail is free and open 24 hours daily, with no ticket gate at any point."
-  - q: "How do I get to the trailhead?"
-    a: "Take the MRT Red Line to Xiangshan Station, leave via Exit 2, and follow signage through the small park to the trail entrance, about 5-10 minutes on foot."
-  - q: "Is the trail difficult?"
-    a: "It's short but steep — mostly uneven stone stairs with railings. Reasonably fit walkers manage it easily, but wear proper shoes since the steps can get slippery when wet."
+  - q: How long does the Elephant Mountain hike take?
+    a: Most visitors reach the main viewpoint in 20-40 minutes of steep stair climbing. Budget 1-1.5 hours total for a there-and-back trip with photo stops.
+  - q: What's the best time to avoid crowds?
+    a: Sunrise is far quieter than sunset, since sunset is when most locals and tourists arrive for the classic Taipei 101 shot. Weekday mornings are your best bet for space on the summit boulders.
+  - q: Is there an entrance fee?
+    a: No, the trail is free and open 24 hours daily, with no ticket gate at any point.
+  - q: How do I get to the trailhead?
+    a: Take the MRT Red Line to Xiangshan Station, leave via Exit 2, and follow signage through the small park to the trail entrance, about 5-10 minutes on foot.
+  - q: Is the trail difficult?
+    a: It's short but steep — mostly uneven stone stairs with railings. Reasonably fit walkers manage it easily, but wear proper shoes since the steps can get slippery when wet.
 aiGenerated: true
 draft: false
 ---

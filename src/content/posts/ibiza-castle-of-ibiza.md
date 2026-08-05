@@ -1,41 +1,41 @@
 ---
-title: "Castle of Ibiza: Travel Guide"
+title: 'Castle of Ibiza: Travel Guide'
 description: The Castle of Ibiza sits at the top of Dalt Vila, the walled old town of Eivissa, and it's the single best panorama on the island — a slow 20-minute uphill walk through Renaissance ramparts to a viewpoint over the harbor, Formentera, and the rooftops of the medina below.
-country: "Spain"
-region: "Ibiza"
-category: "hidden-gem"
-pubDate: "2026-07-31T10:22:32.951Z"
+country: Spain
+region: Ibiza
+category: hidden-gem
+pubDate: '2026-07-31T10:22:32.951Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ibiza_castle_%287101908669%29.jpg/3840px-Ibiza_castle_%287101908669%29.jpg"
-  credit: "Photo: Michela Simoncini from Firenze, Italy / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Ibiza_castle_(7101908669).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ibiza_castle_%287101908669%29.jpg/1920px-Ibiza_castle_%287101908669%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Michela Simoncini from Firenze, Italy / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Ibiza_castle_(7101908669).jpg
 gallery: []
 place:
-  id: "ChIJvwbPqbFGmRIRkMtWbQIVzBw"
-  name: "Castle of Ibiza"
-  address: "Carrer Bisbe Torres Mayans, 14, 07800 Eivissa, Illes Balears, Spain"
+  id: ChIJvwbPqbFGmRIRkMtWbQIVzBw
+  name: Castle of Ibiza
+  address: Carrer Bisbe Torres Mayans, 14, 07800 Eivissa, Illes Balears, Spain
   rating: 4.7
   userRatingsTotal: 8154
-  googleMapsUrl: "https://maps.google.com/?cid=2075056628479478672&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=2075056628479478672&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 38.9067529
   lng: 1.4366501999999999
 tags:
-  - "ibiza"
-  - "hidden gem"
-quickAnswer: "The Castle of Ibiza sits at the top of Dalt Vila, the walled old town of Eivissa, and it's the single best panorama on the island — a slow 20-minute uphill walk through Renaissance ramparts to a viewpoint over the harbor, Formentera, and the rooftops of the medina below. It's genuinely popular, so go at opening or in the last hour before sunset to avoid the tour groups clogging the lanes at midday. Give yourself 1.5–2 hours including the walk up and down."
+  - ibiza
+  - hidden gem
+quickAnswer: The Castle of Ibiza sits at the top of Dalt Vila, the walled old town of Eivissa, and it's the single best panorama on the island — a slow 20-minute uphill walk through Renaissance ramparts to a viewpoint over the harbor, Formentera, and the rooftops of the medina below. It's genuinely popular, so go at opening or in the last hour before sunset to avoid the tour groups clogging the lanes at midday. Give yourself 1.5–2 hours including the walk up and down.
 faq:
-  - q: "How do I get to the Castle of Ibiza?"
-    a: "It's at the top of Dalt Vila, Eivissa's walled old town, at Carrer Bisbe Torres Mayans. There's no vehicle or funicular access to the summit — you walk up through the old town's cobbled ramps and gates, starting near the port."
-  - q: "How long should I plan for the visit?"
-    a: "Budget 1.5–2 hours for the full walk up through Dalt Vila, time at the castle grounds and viewpoints, and the walk back down. Add more time if you want to visit the cathedral or archaeology museum along the way."
-  - q: "Is there an entrance fee?"
-    a: "The old town and castle grounds themselves are generally open to walk through, but individual monuments inside the walls, like the cathedral or museum, may charge a small separate fee. Confirm current prices locally since these can change."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "This is one of Ibiza's most-visited sights, so aim for early morning right after the old town opens or the last hour or two before sunset, when cruise groups and midday tour traffic have thinned out."
-  - q: "What should I wear for the climb?"
-    a: "Flat, grippy shoes are essential — the cobblestones are old and polished smooth, and the route is steep and uphill the entire way. Bring water, especially if visiting in summer heat."
+  - q: How do I get to the Castle of Ibiza?
+    a: It's at the top of Dalt Vila, Eivissa's walled old town, at Carrer Bisbe Torres Mayans. There's no vehicle or funicular access to the summit — you walk up through the old town's cobbled ramps and gates, starting near the port.
+  - q: How long should I plan for the visit?
+    a: Budget 1.5–2 hours for the full walk up through Dalt Vila, time at the castle grounds and viewpoints, and the walk back down. Add more time if you want to visit the cathedral or archaeology museum along the way.
+  - q: Is there an entrance fee?
+    a: The old town and castle grounds themselves are generally open to walk through, but individual monuments inside the walls, like the cathedral or museum, may charge a small separate fee. Confirm current prices locally since these can change.
+  - q: When is the best time to visit to avoid crowds?
+    a: This is one of Ibiza's most-visited sights, so aim for early morning right after the old town opens or the last hour or two before sunset, when cruise groups and midday tour traffic have thinned out.
+  - q: What should I wear for the climb?
+    a: Flat, grippy shoes are essential — the cobblestones are old and polished smooth, and the route is steep and uphill the entire way. Bring water, especially if visiting in summer heat.
 aiGenerated: true
 draft: false
 ---

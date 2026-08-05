@@ -1,51 +1,62 @@
 ---
-title: "Osaka Castle: Travel Guide"
+title: 'Osaka Castle: Travel Guide'
 description: Osaka Castle is best visited in the morning (gates open around 9am) to beat crowds and heat, with 2-3 hours enough for the park, the museum inside the main tower, and the moats and stone walls.
-country: "Japan"
-region: "Osaka"
-category: "attraction"
-pubDate: 2026-07-21
+country: Japan
+region: Osaka
+category: attraction
+pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Osaka_Castle_Outer_Moat_and_Osaka_Business_Park%2C_November_2016.jpg/1920px-Osaka_Castle_Outer_Moat_and_Osaka_Business_Park%2C_November_2016.jpg"
-  credit: "Photo: Martin Falbisoner / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Osaka_Castle_Outer_Moat_and_Osaka_Business_Park,_November_2016.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Osaka_Castle_Outer_Moat_and_Osaka_Business_Park%2C_November_2016.jpg/1920px-Osaka_Castle_Outer_Moat_and_Osaka_Business_Park%2C_November_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Martin Falbisoner / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Osaka_Castle_Outer_Moat_and_Osaka_Business_Park,_November_2016.jpg
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/45574129_B8DWFVPaCCSvu70M9hGAg8GdyOoLkwbOzolAnJnJNA0.jpg
     credit: 'Photo: Foursquare user content (Osaka Castle (大阪城))'
     license: foursquare
     source: https://foursquare.com/v/4b56c88af964a520211b28e3
 place:
-  id: "ChIJ_TooXM3gAGARQR6hXH3QAQ8"
-  name: "Osaka Castle"
-  address: "1-1 Ōsakajō, Chuo Ward, Osaka, 540-0002, Japan"
+  id: ChIJ_TooXM3gAGARQR6hXH3QAQ8
+  name: Osaka Castle
+  address: 1-1 Ōsakajō, Chuo Ward, Osaka, 540-0002, Japan
   rating: 4.4
   userRatingsTotal: 97814
-  googleMapsUrl: "https://maps.google.com/?cid=1081374622389182017&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=1081374622389182017&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.6872571
   lng: 135.5258546
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [9, 17, 18]
-    weekendQuiet: [17, 18]
-    weekendBusy: [10, 11, 12, 13, 14, 15]
-    venueId: 'ven_38514151334858683652515241474167334d586f6f545f4a496843'
+    weekdayQuiet:
+      - 9
+      - 17
+      - 18
+    weekendQuiet:
+      - 17
+      - 18
+    weekendBusy:
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+    venueId: ven_38514151334858683652515241474167334d586f6f545f4a496843
 tags:
-  - "osaka"
-  - "Osaka Castle"
-quickAnswer: "Osaka Castle is best visited in the morning (gates open around 9am) to beat crowds and heat, with 2-3 hours enough for the park, the museum inside the main tower, and the moats and stone walls. The closest stations are Osakajokoen (JR Osaka Loop Line) and Tanimachi 4-chome (Chuo/Tanimachi subway lines), both roughly a 10-15 minute walk to the tower. Admission to the castle grounds is free; only the main keep (museum) charges a small fee, usually around ¥600 for adults — confirm current pricing before you go."
+  - osaka
+  - Osaka Castle
+quickAnswer: Osaka Castle is best visited in the morning (gates open around 9am) to beat crowds and heat, with 2-3 hours enough for the park, the museum inside the main tower, and the moats and stone walls. The closest stations are Osakajokoen (JR Osaka Loop Line) and Tanimachi 4-chome (Chuo/Tanimachi subway lines), both roughly a 10-15 minute walk to the tower. Admission to the castle grounds is free; only the main keep (museum) charges a small fee, usually around ¥600 for adults — confirm current pricing before you go.
 faq:
-  - q: "How do I get to Osaka Castle by train?"
-    a: "Take the JR Osaka Loop Line to Osakajokoen Station (closest, ~10-15 min walk) or the Osaka Metro Tanimachi/Chuo Lines to Tanimachi 4-chome Station (~10 min walk to the main keep)."
-  - q: "Is Osaka Castle free to enter?"
-    a: "The park and grounds are free. Only the main keep, which houses the museum, charges admission — historically around ¥600 for adults, so confirm current pricing before your visit."
-  - q: "How much time should I plan for a visit?"
-    a: "About 2-3 hours covers the grounds, moats, and museum inside the tower. Add extra time if visiting Nishinomaru Garden or during cherry blossom season."
-  - q: "When is the best time to visit?"
-    a: "Early morning right after opening avoids crowds and heat. Late March to early April brings cherry blossoms and November brings autumn foliage, though both are peak-crowd periods."
-  - q: "What else is nearby?"
-    a: "The Osaka Museum of History sits just west of the castle near Tanimachi 4-chome Station, and Osaka Business Park and Morinomiya offer restaurants and shopping within walking distance."
+  - q: How do I get to Osaka Castle by train?
+    a: Take the JR Osaka Loop Line to Osakajokoen Station (closest, ~10-15 min walk) or the Osaka Metro Tanimachi/Chuo Lines to Tanimachi 4-chome Station (~10 min walk to the main keep).
+  - q: Is Osaka Castle free to enter?
+    a: The park and grounds are free. Only the main keep, which houses the museum, charges admission — historically around ¥600 for adults, so confirm current pricing before your visit.
+  - q: How much time should I plan for a visit?
+    a: About 2-3 hours covers the grounds, moats, and museum inside the tower. Add extra time if visiting Nishinomaru Garden or during cherry blossom season.
+  - q: When is the best time to visit?
+    a: Early morning right after opening avoids crowds and heat. Late March to early April brings cherry blossoms and November brings autumn foliage, though both are peak-crowd periods.
+  - q: What else is nearby?
+    a: The Osaka Museum of History sits just west of the castle near Tanimachi 4-chome Station, and Osaka Business Park and Morinomiya offer restaurants and shopping within walking distance.
 aiGenerated: true
 draft: false
 ---

@@ -1,54 +1,54 @@
 ---
-title: "Cheonggyecheon: Seoul Travel Guide"
+title: 'Cheonggyecheon: Seoul Travel Guide'
 description: Cheonggyecheon is the sunken, restored stream that cuts through central Seoul from Gwanghwamun to Dongdaemun — a free, open-air walkway lined with willows, stepping stones, and public art that's ideal for an hour-long stroll rather than a whole-day destination.
-country: "South Korea"
-region: "Seoul"
-category: "attraction"
-pubDate: "2026-07-26T07:06:03.062Z"
+country: South Korea
+region: Seoul
+category: attraction
+pubDate: '2026-07-26T07:06:03.062Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Cheonggyecheon_stream_at_sunrise_with_trees_in_Seoul.jpg/1920px-Cheonggyecheon_stream_at_sunrise_with_trees_in_Seoul.jpg"
-  credit: "Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Cheonggyecheon_stream_at_sunrise_with_trees_in_Seoul.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Cheonggyecheon_stream_at_sunrise_with_trees_in_Seoul.jpg/1920px-Cheonggyecheon_stream_at_sunrise_with_trees_in_Seoul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Cheonggyecheon_stream_at_sunrise_with_trees_in_Seoul.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Cheonggyecheon_stream_with_flowers_and_bridge_at_sunrise_near_Cheonggye_Plaza_in_Seoul.jpg/1920px-Cheonggyecheon_stream_with_flowers_and_bridge_at_sunrise_near_Cheonggye_Plaza_in_Seoul.jpg
     credit: 'Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Cheonggyecheon_stream_with_flowers_and_bridge_at_sunrise_near_Cheonggye_Plaza_in_Seoul.jpg
 place:
-  id: "ChIJIwCT4-yifDUR1E63iG76hr0"
-  name: "Cheonggyecheon"
-  address: "Jongno District, Seoul, South Korea"
+  id: ChIJIwCT4-yifDUR1E63iG76hr0
+  name: Cheonggyecheon
+  address: Jongno District, Seoul, South Korea
   rating: 4.6
   userRatingsTotal: 10872
-  googleMapsUrl: "https://maps.google.com/?cid=13656878272694669012&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=13656878272694669012&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.569101499999995
   lng: 126.97866919999998
-  phone: '+82 2-2290-7111'
+  phone: +82 2-2290-7111
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "seoul"
-  - "top attraction"
-quickAnswer: "Cheonggyecheon is the sunken, restored stream that cuts through central Seoul from Gwanghwamun to Dongdaemun — a free, open-air walkway lined with willows, stepping stones, and public art that's ideal for an hour-long stroll rather than a whole-day destination. Start at Cheonggye Plaza (near Gwanghwamun Station, Line 5, Exit 5) and walk east toward Dongdaemun; go early morning or after dark on a weekday to avoid the crowds that build up on weekend afternoons."
+  - seoul
+  - top attraction
+quickAnswer: Cheonggyecheon is the sunken, restored stream that cuts through central Seoul from Gwanghwamun to Dongdaemun — a free, open-air walkway lined with willows, stepping stones, and public art that's ideal for an hour-long stroll rather than a whole-day destination. Start at Cheonggye Plaza (near Gwanghwamun Station, Line 5, Exit 5) and walk east toward Dongdaemun; go early morning or after dark on a weekday to avoid the crowds that build up on weekend afternoons.
 faq:
-  - q: "How do I get to Cheonggyecheon?"
-    a: "Walk to Cheonggye Plaza, the stream's starting point, from Gwanghwamun Station (Line 5, Exit 5) or City Hall Station (Lines 1/2), both about a 5-minute walk. Jonggak and Dongdaemun stations offer entry points further along."
-  - q: "Is there an entrance fee?"
-    a: "No — Cheonggyecheon is a free, open public walkway with no gates or tickets."
-  - q: "How long should I spend there?"
-    a: "Most visitors walk 1–2 km from Cheonggye Plaza to Gwangtong or Supyo Bridge, about 30–45 minutes. Walking the full 11 km to Dongdaemun takes 3+ hours."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings before 10am or evenings after dinner are calmest. Weekend afternoons, especially near Cheonggye Plaza, get the heaviest crowds."
-  - q: "What's nearby worth combining with a visit?"
-    a: "Gwangjang Market for street food, Insadong for traditional shopping, and Dongdaemun Design Plaza at the stream's eastern end all sit within walking distance of the path."
+  - q: How do I get to Cheonggyecheon?
+    a: Walk to Cheonggye Plaza, the stream's starting point, from Gwanghwamun Station (Line 5, Exit 5) or City Hall Station (Lines 1/2), both about a 5-minute walk. Jonggak and Dongdaemun stations offer entry points further along.
+  - q: Is there an entrance fee?
+    a: No — Cheonggyecheon is a free, open public walkway with no gates or tickets.
+  - q: How long should I spend there?
+    a: Most visitors walk 1–2 km from Cheonggye Plaza to Gwangtong or Supyo Bridge, about 30–45 minutes. Walking the full 11 km to Dongdaemun takes 3+ hours.
+  - q: When is the quietest time to visit?
+    a: Weekday mornings before 10am or evenings after dinner are calmest. Weekend afternoons, especially near Cheonggye Plaza, get the heaviest crowds.
+  - q: What's nearby worth combining with a visit?
+    a: Gwangjang Market for street food, Insadong for traditional shopping, and Dongdaemun Design Plaza at the stream's eastern end all sit within walking distance of the path.
 aiGenerated: true
 draft: false
 ---

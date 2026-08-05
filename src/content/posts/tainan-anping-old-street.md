@@ -1,53 +1,53 @@
 ---
-title: "Anping Old Street: Tainan Travel Guide"
-description: "Anping Old Street is Taiwan's oldest street, a narrow, shop-packed lane in Tainan's Anping District that traces back to Dutch colonial times."
-country: "Taiwan"
-region: "Tainan"
-category: "attraction"
-pubDate: "2026-07-26T07:44:11.834Z"
+title: 'Anping Old Street: Tainan Travel Guide'
+description: Anping Old Street is Taiwan's oldest street, a narrow, shop-packed lane in Tainan's Anping District that traces back to Dutch colonial times.
+country: Taiwan
+region: Tainan
+category: attraction
+pubDate: '2026-07-26T07:44:11.834Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Anping_Taiwan_Old-houses-of-Anping-01.jpg/1920px-Anping_Taiwan_Old-houses-of-Anping-01.jpg"
-  credit: "Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Anping_Taiwan_Old-houses-of-Anping-01.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Anping_Taiwan_Old-houses-of-Anping-01.jpg/1920px-Anping_Taiwan_Old-houses-of-Anping-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Anping_Taiwan_Old-houses-of-Anping-01.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Anping_Old_Street.jpg/1920px-Anping_Old_Street.jpg
     credit: 'Photo: Chongkian / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Anping_Old_Street.jpg
 place:
-  id: "ChIJ_____wN2bjQRIOio8uGV_Og"
-  name: "Anping Old Street"
-  address: "Yanping St, Anping District, Tainan City, Taiwan 708"
+  id: ChIJ_____wN2bjQRIOio8uGV_Og
+  name: Anping Old Street
+  address: Yanping St, Anping District, Tainan City, Taiwan 708
   rating: 4.3
   userRatingsTotal: 45675
-  googleMapsUrl: "https://maps.google.com/?cid=16788458308601702432&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=16788458308601702432&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 23.0007174
   lng: 120.1616449
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "tainan"
-  - "top attraction"
-quickAnswer: "Anping Old Street is Taiwan's oldest street, a narrow, shop-packed lane in Tainan's Anping District that traces back to Dutch colonial times. Budget 1.5–2 hours to wander the alleyways, snack your way through, and pair it with nearby Fort Zeeland (Anping Old Fort) and Anping Tree House. It's a very popular stop, so go early on a weekday morning or after dinner to avoid the thickest crowds."
+  - tainan
+  - top attraction
+quickAnswer: Anping Old Street is Taiwan's oldest street, a narrow, shop-packed lane in Tainan's Anping District that traces back to Dutch colonial times. Budget 1.5–2 hours to wander the alleyways, snack your way through, and pair it with nearby Fort Zeeland (Anping Old Fort) and Anping Tree House. It's a very popular stop, so go early on a weekday morning or after dinner to avoid the thickest crowds.
 faq:
-  - q: "How long should I spend at Anping Old Street?"
-    a: "Plan on 1.5–2 hours for the street and its alleys alone; budget a half-day if you're combining it with Fort Zeelandia (Anping Old Fort), the Anping Tree House, and Anping Matsu Temple, all within walking distance."
-  - q: "How do I get to Anping Old Street from Tainan Railway Station?"
-    a: "There's no direct rail link — take city bus route 2 or the Anping Taijiang Culture Bus (route 88), or grab a taxi, which takes about 15–20 minutes depending on traffic."
-  - q: "When is Anping Old Street least crowded?"
-    a: "Arrive before 10am on a weekday, or return in the evening after dinner once day-trip tour groups have cleared out. Weekend afternoons are the busiest and most cramped time to visit."
-  - q: "Do I need cash?"
-    a: "Yes, mostly. Small food stalls typically expect cash, so carry small NT dollar notes; larger shops are more likely to accept cards or mobile payment."
-  - q: "What's nearby worth combining with a visit?"
-    a: "Fort Zeelandia (Anping Old Fort), the banyan-root-covered Anping Tree House, and Anping Matsu Temple are all a short walk away and pair naturally with the Old Street."
+  - q: How long should I spend at Anping Old Street?
+    a: Plan on 1.5–2 hours for the street and its alleys alone; budget a half-day if you're combining it with Fort Zeelandia (Anping Old Fort), the Anping Tree House, and Anping Matsu Temple, all within walking distance.
+  - q: How do I get to Anping Old Street from Tainan Railway Station?
+    a: There's no direct rail link — take city bus route 2 or the Anping Taijiang Culture Bus (route 88), or grab a taxi, which takes about 15–20 minutes depending on traffic.
+  - q: When is Anping Old Street least crowded?
+    a: Arrive before 10am on a weekday, or return in the evening after dinner once day-trip tour groups have cleared out. Weekend afternoons are the busiest and most cramped time to visit.
+  - q: Do I need cash?
+    a: Yes, mostly. Small food stalls typically expect cash, so carry small NT dollar notes; larger shops are more likely to accept cards or mobile payment.
+  - q: What's nearby worth combining with a visit?
+    a: Fort Zeelandia (Anping Old Fort), the banyan-root-covered Anping Tree House, and Anping Matsu Temple are all a short walk away and pair naturally with the Old Street.
 aiGenerated: true
 draft: false
 ---
