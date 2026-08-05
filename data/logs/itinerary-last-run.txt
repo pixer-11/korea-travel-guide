@@ -1,9 +1,10 @@
 
-Seoul, South Korea — 12 qualifying post(s), variants: 3
-  = Seoul 3d — unchanged, skipping
+Seoul, South Korea — 14 qualifying post(s), variants: 3
+  ~ Seoul 3d — structure changed by 3 slug(s), regenerating prose
+  ✅ Seoul 3d — updated
 
 Tokyo, Japan — 12 qualifying post(s), variants: 3
   = Tokyo 3d — unchanged, skipping
-  · Bangkok — 11 qualifying post(s), no day-variant gate cleared yet
+  · Bangkok — 10 qualifying post(s), no day-variant gate cleared yet
 
-Done. Nothing changed.
+Done.

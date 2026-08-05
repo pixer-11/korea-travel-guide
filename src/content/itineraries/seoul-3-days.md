@@ -2,80 +2,88 @@
 city: Seoul
 country: South Korea
 days: 3
-title: '3-Day Seoul Itinerary: Hanok Alleys, Palaces & Old Markets'
-description: A 3-day Seoul itinerary moving between Jongno District, Jung District, and Mapo-gu, mixing hanok alleyways, a grand royal palace, traditional markets, and modern design landmarks.
-quickAnswer: This 3-day Seoul itinerary moves through Jongno District, Jung District, and Mapo-gu, pairing hanok alleyways, a royal palace, traditional markets, and a retro bar district with modern landmarks and a plant-filled cafe for a mix of history, food, and design.
+title: 'Seoul in 3 Days: Hanok Villages, Palaces, Markets & Riverside Parks'
+description: A 3-day Seoul itinerary moving from Bukchon's hanok lanes and Gyeongbokgung Palace to Cheonggyecheon, Yeonnam-dong cafés and Yeouido Park, then Gwangjang Market, Euljiro and Myeongdong.
+quickAnswer: 'This is a 3-day Seoul itinerary: day one covers hanok villages and a palace in Jongno District, day two moves from a central stream walk through a Mapo-gu café district to a Yeongdeungpo District riverside park, and day three runs from a Jongno District market into Jung District''s alleys and shopping streets.'
 pubDate: '2026-07-28T01:22:30.950Z'
-stopsHash: 7f74334c07f33aedd5b7e0fa778a45231e866468
+stopsHash: 828c016bb5076938839d8834cdb3146a05aaa39a
 packedAvailable: false
 faq:
-  - q: How much walking does this 3-day Seoul itinerary involve?
-    a: Each day mixes short walks between nearby stops with a couple of longer transit hops, so comfortable shoes are recommended throughout.
+  - q: How many days do I need for this Seoul itinerary?
+    a: This itinerary is spread across 3 days, each centered on a different part of the city — Jongno District on day one, a westward stretch through Mapo-gu and Yeongdeungpo District on day two, and Jongno into Jung District on day three.
+  - q: How should I get around between stops?
+    a: Most stops within a day are walkable, but day two involves longer distances between Cheonggyecheon, the Yeonnam-dong café, and Yeouido Park that are beyond walking distance, so plan on taking transit for those legs.
+  - q: What's the best time of day to visit the hanok areas on day one?
+    a: Bukchon Hanok Village and the Bukchon Yukgyeong photo route are both calmest in the morning, so starting the day there before moving to lunch and the palace works well with the pacing.
+  - q: Is this itinerary flexible if it rains?
+    a: Day one and day two each list a rain-day alternative that can swap in for the day's plan, though day three doesn't have one listed.
   - q: Do I need to book anything in advance?
-    a: The temple-food restaurant on day one benefits from reserving ahead if possible, since a full meal there takes a couple of hours.
-  - q: Is this itinerary walkable or do I need public transit?
-    a: 'It''s a mix: some stops are a short walk apart, while others — like the jump from Cheonggyecheon to the Yeonnam-dong cafe, or from Sanchon to DDP — are far enough that transit is the better option.'
-  - q: What's the best time of day to visit the busiest stops?
-    a: Spots like Bukchon's photo alley, Gyeongbokgung Palace, and DDP are most peaceful early in the day or on weekdays, before crowds build.
-  - q: Should I check the schedule before visiting Gyeongbokgung Palace?
-    a: Yes — the palace has a weekly closed day, so it's worth confirming the schedule before planning day two around it.
+    a: Reserving ahead is worth considering for the Sanchon temple-food lunch on day one, since it's a fixed-course sit-down meal rather than a quick stop.
 itinerary:
-  - label: Hanok lanes and modern landmarks
-    intro: Day one begins in Jongno District among the tiled roofs of Bukchon before a temple-food lunch tucked off Insadong-gil, then crosses into Jung District to close with Zaha Hadid's futuristic plaza. It's a study in contrasts, from centuries-old alleyways to riveted-aluminium curves.
+  - label: Palaces & hanok lanes
+    intro: Day one stays in Jongno District, tracing the hanok-lined hillsides of Bukchon before a temple-food lunch in Insadong and an evening at Gyeongbokgung Palace. It's a day built around slow walking and rooflines — best paced from morning quiet to the grandeur of the palace at the end.
     stops:
-      - slug: seoul-bukchon-yukgyeong-photo-spot
+      - slug: seoul-bukchon-hanok-village
         slot: morning
-        why: This self-guided walk through Bukchon's steep alleys leads to the most-photographed hanok-roof view in the neighborhood, with Namsan Tower visible in the distance.
+        why: This hillside neighborhood of centuries-old hanok houses between the two palaces is the natural, unhurried start to a Jongno day, best walked early when the alleys are calm.
+        dwellMin: 105
+        walkToNext:
+          km: 1.1
+          minutes: 15
+          transit: false
+      - slug: seoul-sanchon
+        slot: lunch
+        why: A fixed-course temple-food meal down an Insadong alley gives the day a slow, unhurried lunch pause between hanok walking and more walking.
         dwellMin: 90
         walkToNext:
           km: 1.3
           minutes: 17
           transit: false
-      - slug: seoul-sanchon
-        slot: lunch
-        why: A fixed-course, no-meat temple-food meal in a narrow Insadong-gil alley offers an unhurried, immersive counterpoint to the morning's photo walk.
+      - slug: seoul-bukchon-yukgyeong-photo-spot
+        slot: afternoon
+        why: This self-guided walk through Bukchon's alleys, including the famously photographed View 6, extends the morning's hanok theme into the afternoon with its own scenic route.
         dwellMin: 90
         walkToNext:
-          km: 2.9
-          minutes: null
-          transit: true
-      - slug: seoul-dongdaemun-design-plaza-ddp
+          km: 0.9
+          minutes: 12
+          transit: false
+      - slug: seoul-gyeongbokgung-palace
         slot: evening
-        why: Zaha Hadid's neofuturist landmark closes the day with a very different architectural mood, plus exhibitions, a design market, and the LED Rose Garden to explore.
+        why: As Seoul's largest Joseon-era royal palace with the Royal Guard Changing Ceremony and grounds like Geunjeongjeon and Gyeonghoeru, it's the natural grand finale to a day of Jongno hanok streets.
         dwellMin: 150
         walkToNext: null
     rainSwapSlug: seoul-london-bagel-museum
-  - label: Palace grounds to riverside greenery
-    intro: Day two opens with Gyeongbokgung Palace in Jongno District, then follows the restored Cheonggyecheon stream on foot before transiting to Mapo-gu for a relaxed finish among the greenery of a plant-filled cafe.
+  - label: Stream walks & riverside green
+    intro: Day two begins along Cheonggyecheon in Jongno District, then crosses west to the greenhouse café scene of Yeonnam-dong in Mapo-gu before heading further west to Yeouido Park in Yeongdeungpo District. Expect a shift from urban stream to plant-filled café to open riverside lawns as the day goes on.
     stops:
-      - slug: seoul-gyeongbokgung-palace
-        slot: morning
-        why: Seoul's largest and grandest Joseon-era royal palace anchors the morning, with the Throne Hall, Gyeonghoeru Pavilion, and the National Folk Museum all on the grounds.
-        dwellMin: 150
-        walkToNext:
-          km: 1.5
-          minutes: 20
-          transit: false
       - slug: seoul-cheonggyecheon
-        slot: afternoon
-        why: This sunken, restored stream offers a free, easy stroll lined with willows and public art, a nice pace-change after the palace.
+        slot: morning
+        why: A free, open-air stream walkway through central Seoul makes an easy, low-key opener before heading further afield.
         dwellMin: 38
         walkToNext:
           km: 6.5
           minutes: null
           transit: true
       - slug: seoul-plant-cafe-seoul-yeonnam
-        slot: evening
-        why: A greenhouse-style cafe filled with plants makes for a relaxed, photogenic close to the day, best enjoyed unhurried.
+        slot: afternoon
+        why: This greenhouse-style café in Yeonnam-dong is the kind of place to linger and photograph, giving the afternoon a slower, plant-filled pace after the stream walk.
         dwellMin: 90
+        walkToNext:
+          km: 4.8
+          minutes: null
+          transit: true
+      - slug: seoul-yeouido-park
+        slot: evening
+        why: A sprawling, car-free green corridor with lawns, ponds and cycling paths on Yeouido island makes a fitting open-air close to the day.
+        dwellMin: 120
         walkToNext: null
     rainSwapSlug: seoul-eid-halal-korean-food
-  - label: Market stalls to old printing-district alleys
-    intro: Day three starts in Jongno District at Seoul's oldest traditional market before crossing into Jung District. From street food stalls to a retro printing-district crawl and a big Myeongdong shopping finish, it's a study in contrasts across the two areas.
+  - label: Markets, alleys & shopping streets
+    intro: Day three starts with street food at Gwangjang Market in Jongno District, then moves into Jung District for the retro bars of Euljiro and the shopping streets of Myeongdong. It's a day of food, alleyways, and city energy that builds toward evening crowds and neon.
     stops:
       - slug: seoul-gwangjang-market
         slot: morning
-        why: Seoul's oldest traditional market, opened in 1905, is a legendary street-food destination for bindaetteok, mayak gimbap, and yukhoe.
+        why: Seoul's oldest traditional market and its legendary food alley make for an energetic start to a day built around eating and wandering.
         dwellMin: 90
         walkToNext:
           km: 0.7
@@ -83,7 +91,7 @@ itinerary:
           transit: false
       - slug: seoul-euljiro
         slot: afternoon
-        why: This old printing-and-hardware district's narrow alleyways come alive with retro "newtro" bars and cafes as workshops wrap up for the day.
+        why: This old printing-and-hardware district turned retro bar scene is best entered in early evening as workshops wind down and signs light up, following naturally from the market.
         dwellMin: 90
         walkToNext:
           km: 1.3
@@ -91,13 +99,12 @@ itinerary:
           transit: false
       - slug: seoul-myeongdong-shopping-street
         slot: evening
-        why: Seoul's biggest street-level shopping and street-food grid closes the trip with cosmetics shopping and snacks like tteokbokki and hotteok.
+        why: As Seoul's biggest street-level shopping and street-food district a few minutes from Euljiro, it's the fitting high-energy close to the trip.
         dwellMin: 150
         walkToNext: null
     rainSwapSlug: null
 aiGenerated: true
 draft: true
-updatedDate: '2026-07-30T01:06:03.427Z'
+updatedDate: '2026-08-05T10:02:13.933Z'
 ---
-
 
