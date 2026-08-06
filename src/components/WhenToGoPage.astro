@@ -274,6 +274,11 @@ const ogPhoto = (data.topVenues ?? []).find((p: any) => p?.data?.heroImage?.url)
   .wtg-table-wrap { overflow-x: auto; }
   .wtg table { width: 100%; border-collapse: collapse; font-size: 0.92rem; }
   .wtg th, .wtg td { padding: 0.5rem 0.6rem; text-align: right; border-bottom: 1px solid var(--line-soft); }
+  /* The cell has padding; the link inside had none, so the tap target was the
+     glyph — "Jul" measured 20.7×18px, and month-to-month browsing is the main
+     interaction on these 1,020 pages (2026-08-06). Growing the link out into its
+     cell's padding costs no layout change. */
+  .wtg td a { display: inline-block; padding: 0.55rem 0.6rem; margin: -0.55rem -0.6rem; }
   .wtg th:first-child, .wtg td:first-child { text-align: left; }
   .wtg thead th { color: var(--muted); font-weight: 600; font-size: 0.8rem; }
   .wtg tr.is-current { background: var(--surface-2); font-weight: 700; }

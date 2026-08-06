@@ -23,15 +23,23 @@ export function checkPlace(place) {
   }
 
   // 2. Quality floor — don't recommend poorly-rated spots.
-  if (typeof place.rating === 'number' && place.rating < MIN_RATING) {
+  //
+  // Both floors read as "if Google gave us a number, check it", so a venue with
+  // NO rating and NO review count sailed through untested — which is the normal
+  // state for a small-town park, viewpoint, historic site or market, i.e. four
+  // of the twelve topic templates. The floors were switched off exactly where
+  // the data is thinnest (found 2026-08-06). Missing now fails: there is no
+  // basis to recommend a place Google has no signal on.
+  if (typeof place.rating !== 'number') {
+    reasons.push('no rating from Google — nothing to vouch for it');
+  } else if (place.rating < MIN_RATING) {
     reasons.push(`rating ${place.rating} < ${MIN_RATING}`);
   }
 
   // 3. Enough reviews to trust the rating.
-  if (
-    typeof place.userRatingsTotal === 'number' &&
-    place.userRatingsTotal < MIN_REVIEWS
-  ) {
+  if (typeof place.userRatingsTotal !== 'number') {
+    reasons.push('no review count from Google — nothing to vouch for it');
+  } else if (place.userRatingsTotal < MIN_REVIEWS) {
     reasons.push(`only ${place.userRatingsTotal} reviews < ${MIN_REVIEWS}`);
   }
 

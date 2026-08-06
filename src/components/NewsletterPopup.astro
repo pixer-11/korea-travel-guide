@@ -61,6 +61,11 @@ const onChecklistPage = Astro.url.pathname.includes('/free/trip-checklist');
     position: absolute; top: 0.4rem; right: 0.65rem;
     background: none; border: 0; cursor: pointer;
     font-size: 1.5rem; line-height: 1; color: var(--muted); padding: 0.25rem;
+    /* Measured 22×32px. An overlay interrupts the reader, and the only way out
+       was a 22px-wide × — a missed tap lands in the email field or on the page
+       behind it (2026-08-06). 44px is the accessible minimum for touch. */
+    min-width: 44px; min-height: 44px;
+    display: inline-flex; align-items: center; justify-content: center;
   }
   .nlp-title { font-family: var(--font-display); font-size: 1.12rem; font-weight: 550; margin: 0 1.2rem 0.4rem 0; }
   .nlp-dek { font-size: 0.9rem; color: var(--muted); line-height: 1.5; margin: 0 0 0.8rem; }
