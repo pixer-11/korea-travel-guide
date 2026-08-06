@@ -33,9 +33,11 @@ const ended = isEventPast({ category, eventEndDate });
 
 <a class:list={['card', { 'card--ended': ended }]} href={href}>
   <div class="thumb">
+    {/* alt uses regionLabel, not the English region: the localized label is
+        right there, and the card's own visible label already uses it. */}
     <img
       src={src}
-      alt={`${title} — ${region}`}
+      alt={`${title} — ${regionLabel}`}
       width="600"
       height="400"
       loading={priority ? 'eager' : 'lazy'}

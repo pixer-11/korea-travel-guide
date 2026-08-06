@@ -47,6 +47,29 @@ for (const [id, html] of [
     hits(html, 'ko').includes(id) ? null : `${id} did not fire`);
 }
 
+// ── 공휴일 영어 이름 (356곳 누출의 재발 방지) ────────────────
+// 규칙을 holidays.json 에서 만들기 때문에, 표가 비거나 경로가 어긋나면
+// 정규식이 조용히 아무것도 잡지 않게 된다. 그 상태를 여기서 잡는다.
+t('English holiday gloss after the separator is a leak', () =>
+  hits('<span class="holiday-name">元旦 · New Year&#39;s Day</span>', 'zh').includes('holiday-english-name')
+    ? null : 'holiday-english-name did not fire');
+
+t('another holiday name from the table fires too', () =>
+  hits('<span>光復節 · Liberation Day</span>', 'ja').includes('holiday-english-name')
+    ? null : 'holiday-english-name did not fire on Liberation Day');
+
+t('English "(Tentative Date)" is a leak wherever it sits', () =>
+  hits('<span>Ramazan Bayramı 1. Gün (Tentative Date) · 라마단 바이람 첫째 날</span>', 'ko').includes('holiday-tentative-english')
+    ? null : 'holiday-tentative-english did not fire');
+
+t('localized holiday gloss is clean', () =>
+  hits('<span class="holiday-name">元旦 · 새해 첫날</span>', 'ko').includes('holiday-english-name')
+    ? 'false positive on a translated gloss' : null);
+
+t('the local name alone is clean', () =>
+  hits('<span class="holiday-name">Fête nationale</span>', 'ko').includes('holiday-english-name')
+    ? 'false positive on a bare local name' : null);
+
 // ── 언어별 예외: 스페인어는 AM/PM과 h/min을 정상적으로 쓴다 ──
 t('Spanish keeps AM/PM without being flagged', () =>
   hits('<td>9–5 PM</td>', 'es').includes('am-pm') ? 'am-pm should skip Spanish' : null);

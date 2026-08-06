@@ -10,6 +10,7 @@ import { pickRepHeroUrl, tileSize } from '../lib/repImage';
 import { useTranslations, localizePath, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 import { localizeBlurb } from '../i18n/countryBlurbs';
+import { pickOgPhoto } from '../lib/ogPhoto.mjs';
 
 // Shared continent hub for /continents/<c> (en) + /[lang]/continents/<c>.
 interface Props { continentName: string; countries: any[]; lang: Lang }
@@ -54,7 +55,7 @@ const jsonLd = {
 // og:image gets the FULL-SIZE hero, not the 640px wall thumb: crawlers fetch
 // og:image separately (page weight is unaffected) and Google Discover only
 // serves large cards from images ≥1200px wide. Wall thumbs stay for on-page grids.
-const ogPhoto = (posts ?? []).find((p: any) => p?.data?.heroImage?.url)?.data?.heroImage?.url;
+const ogPhoto = pickOgPhoto(posts);
 
 ---
 

@@ -122,6 +122,29 @@ const placeLabel = (lang === defaultLang
   ? placeName
   : String(title).split(/[:—]/)[0].trim() || placeName) || placeName;
 
+// Same trick for an event: the localized title's leading segment is the event's
+// name in the reader's language. On the English page the article suffix comes
+// off with the shared helper instead.
+const eventLabel = (lang === defaultLang
+  ? eventSchemaName(post.data.title)
+  : String(title).split(/[:—]/)[0].trim()) || eventSchemaName(post.data.title);
+
+// Photo alt text, in the reader's language. It used to be an English template
+// ("Gwangjang Market in Seoul, South Korea") on every page including the 1,431
+// CJK ones — alt text is what image search indexes, so those photos were
+// described in a language their readers never search in. Subject, region and
+// country are all localized; only a venue with no translated title keeps its
+// English name, which is the name on its own sign.
+const photoSubject = d.category === 'event'
+  ? eventLabel
+  : placeLabel || (lang === defaultLang
+    ? ((d.tags && d.tags[1]) || d.category)
+    : t(`cat.${d.category}` as any));
+const photoAlt = (subject: string) => t('post.altPlace')
+  .replace('{name}', subject)
+  .replace('{region}', regionLabel)
+  .replace('{country}', localizePlace(country, lang));
+
 // Real foot-traffic (BestTime.app): stored 24h hour arrays become reader-friendly
 // ranges. The formatter moved to src/lib/hours.mjs so the when-to-go pages can
 // print the same thing — they were headlining "verified quiet times" and showing
@@ -409,7 +432,7 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
 
     {d.heroImage && (
       <figure class="article-hero">
-        <img src={d.heroImage.url} alt={d.category === 'event' ? title.replace(/:\s*What to Know.*$/i, '') : placeName ? `${placeName} in ${d.region}, ${country}` : `${(d.tags && d.tags[1]) || d.category} in ${d.region}, ${country}`} width="1200" height="675" loading="eager" fetchpriority="high" decoding="async" />
+        <img src={d.heroImage.url} alt={photoAlt(photoSubject)} width="1200" height="675" loading="eager" fetchpriority="high" decoding="async" />
         {d.heroImage.credit && (
           <figcaption>
             {d.heroImage.source?.startsWith('http') ? (
@@ -562,7 +585,7 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
               <figure>
                 <img
                   src={img.url}
-                  alt={placeName ? `${placeName} — ${d.region}, ${country}` : title}
+                  alt={placeLabel ? photoAlt(placeLabel) : title}
                   width="1200"
                   height="900"
                   loading="lazy"
@@ -587,7 +610,7 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
           <figure>
             <img
               src={img.url}
-              alt={placeName ? `${placeName} — ${d.region}, ${country}` : title}
+              alt={placeLabel ? photoAlt(placeLabel) : title}
               width="1200"
               height="900"
               loading="lazy"

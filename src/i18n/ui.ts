@@ -100,6 +100,11 @@ export const ui = {
     'trust.updatedText': 'New guides daily, and we re-check venues so closed spots drop off.',
 
     'post.home': 'Home',
+    // Photo alt text. Built from a template per language because the English
+    // one ("X in Region, Country") was rendered on 1,431 CJK pages — image
+    // search reads alt text, so those photos were described to Google in a
+    // language their readers do not search in.
+    'post.altPlace': '{name} in {region}, {country}',
     'post.atAGlance': 'At a glance',
     'post.place': 'Place',
     'post.address': 'Address',
@@ -568,6 +573,7 @@ export const ui = {
     'trust.updatedText': '매일 새 가이드가 올라오고, 문을 닫은 곳은 다시 확인해 정리합니다.',
 
     'post.home': '홈',
+    'post.altPlace': '{name} – {region}, {country}',
     'post.atAGlance': '한눈에 보기',
     'post.place': '장소',
     'post.address': '주소',
@@ -1033,6 +1039,7 @@ export const ui = {
     'trust.updatedText': '毎日新しいガイドを追加し、閉業した店舗は再確認して掲載を取り下げます。',
 
     'post.home': 'ホーム',
+    'post.altPlace': '{name}（{region}、{country}）',
     'post.atAGlance': '基本情報',
     'post.place': 'スポット',
     'post.address': '住所',
@@ -1498,6 +1505,7 @@ export const ui = {
     'trust.updatedText': 'Publicamos guías cada día y revisamos los locales para retirar los que han cerrado.',
 
     'post.home': 'Inicio',
+    'post.altPlace': '{name} en {region}, {country}',
     'post.atAGlance': 'De un vistazo',
     'post.place': 'Lugar',
     'post.address': 'Dirección',
@@ -1963,6 +1971,7 @@ export const ui = {
     'trust.updatedText': '每天新增指南，并复核店家，已歇业的会及时下架。',
 
     'post.home': '首页',
+    'post.altPlace': '{name}（{region}、{country}）',
     'post.atAGlance': '一览',
     'post.place': '地点',
     'post.address': '地址',

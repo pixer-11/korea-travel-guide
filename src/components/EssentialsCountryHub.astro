@@ -5,9 +5,11 @@ import Newsletter from './Newsletter.astro';
 import PlanTrip from './PlanTrip.astro';
 import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
+import { holidayLabel } from '../i18n/holidays';
 import { slugifyRegion } from '../lib/slug';
 import countryFacts from '../../data/country-facts.json';
 import countriesData from '../../data/countries.json';
+import { pickOgPhoto } from '../lib/ogPhoto.mjs';
 
 // Shared per-country essentials page for /essentials/<country> (en) +
 // /[lang]/essentials/<country>. Renders the translated body when a translation
@@ -84,7 +86,7 @@ const jsonLd = {
 // og:image gets the FULL-SIZE hero, not the 640px wall thumb: crawlers fetch
 // og:image separately (page weight is unaffected) and Google Discover only
 // serves large cards from images ≥1200px wide. Wall thumbs stay for on-page grids.
-const ogPhoto = (countryPosts ?? []).find((p: any) => p?.data?.heroImage?.url)?.data?.heroImage?.url;
+const ogPhoto = pickOgPhoto(countryPosts);
 
 ---
 
@@ -141,7 +143,7 @@ const ogPhoto = (countryPosts ?? []).find((p: any) => p?.data?.heroImage?.url)?.
           {upcomingHolidays.map((h: any) => (
             <li>
               <span class="holiday-date">{holidayDate(h.date)}</span>
-              <span class="holiday-name">{h.localName}{h.localName !== h.name ? ` · ${h.name}` : ''}</span>
+              <span class="holiday-name">{holidayLabel(d.country, h.localName, h.name, lang)}</span>
             </li>
           ))}
         </ul>

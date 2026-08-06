@@ -1825,6 +1825,11 @@
       "blurb": "Ayutthaya fue la deslumbrante segunda capital de Siam durante más de 400 años, hasta su destrucción a manos de las fuerzas birmanas en 1767. Sus ruinas de templos de ladrillo y estuco —hoy Patrimonio de la Humanidad por la UNESCO— aún se alzan de manera imponente sobre la llanura fluvial donde confluyen tres ríos. Pasear entre los budas decapitados y las torres prang en ruinas de Wat Mahathat y Wat Phra Si Sanphet ofrece una sensación única y palpable de una ciudad real perdida, en lugar de una reconstrucción moderna.",
       "getting": "La mayoría de los viajeros llegan a Ayutthaya en tren desde la estación Krung Thep Aphiwat de Bangkok (o la más antigua Hua Lamphong), en un pintoresco trayecto de entre 1 y 2 horas que termina en la propia estación ferroviaria de Ayutthaya, junto al río, justo al este de la isla de la ciudad antigua. Los autobuses directos y las furgonetas desde la terminal de Mo Chit en Bangkok son otra alternativa habitual. El aeropuerto de Don Mueang (DMK) es el principal aeropuerto más cercano y se encuentra sobre la misma línea ferroviaria, lo que permite conectar directamente con un tren rumbo a Ayutthaya.",
       "days": "Con un solo día basta para recorrer en bicicleta o tuk-tuk las ruinas de los templos más destacados, pero quedarse unos 2 días permite disfrutar de un ritmo más relajado, con un paseo en barco al atardecer por los monasterios ribereños de la ciudad antigua."
+    },
+    "zh": {
+      "blurb": "大城（Ayutthaya）曾是暹罗璀璨夺目的第二首都，历经四百余年繁华，直至1767年被缅甸军队攻陷焚毁。如今，那些砖石灰泥砌成的寺庙遗迹已被列为联合国教科文组织世界遗产，依然在三河交汇的平坦河滩上巍然矗立、气势非凡。漫步于玛哈泰寺（Wat Mahathat）与帕席桑碧寺（Wat Phra Si Sanphet）之间，看着断头佛像与斑驳的高棉式塔尖，能真切感受到这座失落王城的沧桑，而非重建景点的匠气。",
+      "getting": "大多数游客选择从曼谷的挽那空（Krung Thep Aphiwat）站，或较老的华南蓬（Hua Lamphong）站乘火车前往大城，沿途风光宜人，车程约1至2小时，终点正是位于古城岛东侧的大城府火车站，紧邻河畔。从曼谷挽出（Mo Chit）汽车站搭乘直达巴士或小巴，也是常见的替代方式。廊曼机场（DMK）是距离最近的主要机场，且恰好位于同一条铁路线上，旅客下飞机后即可直接换乘开往大城的列车，十分便捷。",
+      "days": "若只安排一天行程，骑自行车或搭嘟嘟车穿梭于主要寺庙遗迹之间已绰绰有余；但若能停留约两天，则可放慢脚步，从容体验古城河畔寺院的日落游船之旅，感受更加悠闲的旅行节奏。"
     }
   },
   "Boryeong": {
@@ -2296,6 +2301,11 @@
       "blurb": "ジャカルタはインドネシアの首都であり、広大なエネルギーに満ちた都市だ。ガラス張りの高層ビルが密集するカンポン地区やオランダ植民地時代の建築の上にそびえ立ち、東南アジアでも屈指のカオスな交通渋滞が街を覆う。人口1000万人を超えるメガシティとして、政治・経済・文化のすべての中枢を担い、旧バタヴィアの歴史と絶え間なく成長を続ける現代的なスカイラインが混在している。",
       "getting": "多くの旅行者はスカルノ・ハッタ国際空港(CGK)からジャカルタに入国する。ここはジャカルタの主要な国際玄関口で、第1・第2・第3ターミナル間の移動もスムーズだ。空港からはスカルノ・ハッタ空港鉄道(Airport Rail Link)を利用すれば、ジャカルタ中心部(BNIシティ/スディルマン・バル駅)をはじめとする主要駅まで約45〜55分で直結する。ただし乗車前に、各ターミナルからSHIA駅までを結ぶ無料のスカイトレイン・シャトルに乗る必要がある。",
       "days": "旧市街(コタ・トゥア)、独立記念塔(モナス)周辺、そして市内の主要な博物館やウォーターフロント地区をいくつか回るなら、目安として3〜4日ほど見ておくとよい。大ジャカルタ圏への日帰り旅行の拠点として使う場合は、さらに余裕を持たせておきたい。"
+    },
+    "zh": {
+      "blurb": "雅加达是印度尼西亚广袤而充满活力的首都,玻璃幕墙的摩天大楼在密集的甘榜(kampung)社区、荷兰殖民时期建筑,以及东南亚数一数二的混乱车流之上拔地而起。作为一座人口超过千万的超级都市,雅加达是这个国家的政治、经济与文化中心,古老的巴达维亚(Batavia)历史与飞速发展的现代天际线在这里交融并存。",
+      "getting": "大多数旅客通过苏加诺-哈达国际机场(CGK)抵达雅加达,<cite index=\"5-4\">这里是雅加达主要的国际门户,第1、第2和第3航站楼之间的转乘也十分便捷</cite>。从机场出发,<cite index=\"5-8\">苏加诺-哈达机场铁路(Airport Rail Link)可直达雅加达市中心(BNI City/Sudirman Baru站)及其他主要站点</cite>,全程约45-55分钟;旅客需先从各自航站楼搭乘免费的Skytrain接驳列车前往SHIA机场火车站,然后再换乘铁路列车。",
+      "days": "建议安排约3-4天游览雅加达的主要景点,包括老城区(Kota Tua)、国家纪念碑一带,以及几座重要博物馆或滨水区;如果打算以雅加达为据点前往大雅加达地区(Greater Jakarta)进行一日游,则可适当预留更多时间。"
     }
   },
   "Ibiza": {
@@ -2318,6 +2328,11 @@
       "blurb": "Ibiza es la isla balear sinónimo de discotecas de fama mundial y rituales de puesta de sol, pero más allá de la franja festiva esconde colinas cubiertas de pinos, un casco antiguo amurallado declarado Patrimonio de la Humanidad por la UNESCO (Dalt Vila) y calas turquesas que atraen a un público más tranquilo durante el día. Su tamaño compacto hace que playa, historia y hedonismo estén a apenas un corto trayecto en coche unos de otros.",
       "getting": "Los viajeros llegan a través del Aeropuerto de Ibiza (IBZ), el único de la isla, situado a unos 7 km al suroeste de Ibiza ciudad; desde allí, los autobuses públicos (incluida la línea L10) llegan al centro en unos 15-20 minutos, siendo el taxi la alternativa más rápida. La isla no cuenta con red ferroviaria, por lo que para llegar a localidades como Santa Eulària o Sant Antoni hay que depender de autobuses desde el hub regional, coches de alquiler o taxis.",
       "days": "Se recomienda dedicar unos 3-4 días para recorrer el casco antiguo de Ibiza ciudad y un par de playas, o entre 5 y 7 días si además quieres disfrutar del ambiente de las discotecas, hacer una excursión de un día a Formentera y visitar las calas más tranquilas del norte de la isla."
+    },
+    "zh": {
+      "blurb": "伊维萨岛是巴利阿里群岛中以世界闻名的夜店和日落狂欢而著称的岛屿,但在派对街区之外,它还藏着松林覆盖的山丘、被联合国教科文组织列为世界遗产的古城墙老城达尔特维拉(Dalt Vila),以及白天吸引着追求宁静氛围的游客的碧绿海湾。岛屿面积不大,意味着海滩、历史与纵情享乐之地驱车即可轻松抵达,彼此相距不远。",
+      "getting": "游客通常经由伊维萨岛唯一的机场——伊维萨机场(IBZ)抵达,该机场位于伊维萨城西南约7公里处;从机场乘坐公共巴士(包括L10路线)约15-20分钟即可到达市中心,搭乘出租车则更为快捷。岛上没有铁路网络,因此前往圣埃乌拉利亚(Santa Eulària)或圣安东尼奥(Sant Antoni)等度假地,需要从区域枢纽乘坐巴士,或租车、打车前往。",
+      "days": "若只想游览伊维萨城老城区和几处海滩,大约3-4天即可;若还想体验夜店文化、前往福门特拉岛(Formentera)一日游,以及探访岛屿北部宁静的海湾,则建议安排5-7天。"
     }
   },
   "Jinju": {
@@ -2474,6 +2489,11 @@
       "blurb": "롬복은 린자니 산의 웅장한 화산 자태와 손때 묻지 않은 서핑 해변, 숨겨진 폭포, 그리고 앞바다에 펼쳐진 청록빛 길리 제도를 모두 품고 있으면서도 이웃한 발리 같은 인파는 찾아볼 수 없는 곳이다. 한적한 어촌 마을에서 차로 잠깐만 가면 세계적인 수준의 서핑 명소가 나타나고, 전통 사삭 마을은 인도네시아 다른 지역과는 확연히 다른 고유 문화를 간직하고 있어 뚜렷한 대조를 이루는 매력적인 지역이다.",
       "getting": "대부분의 여행자는 프라야에 위치한 롬복 국제공항(LOP)을 통해 입국하며, 발리 응우라라이 공항(DPS)에서 직항으로 약 30~40분이 걸리고 자카르타 등 주요 거점 도시에서도 연결편이 있다. 또한 발리 파당바이에서 고속보트를 타면 약 1.5~2시간 만에 롬복에 도착할 수 있으며, 저렴한 대중 페리를 이용하면 렘바르 항까지 약 4~6시간이 소요된다. 섬 안에는 철도가 없어, 이후 이동은 개인 기사, 렌터 스쿠터, 또는 현지 버스에 의존해야 한다.",
       "days": "주요 명소를 둘러보려면 약 4~6일 정도를 계획하는 것이 좋다. 남부 해안 해변과 쿠타를 즐기고, 길리 제도로 짧은 여행을 다녀오며, 경치 좋은 드라이브나 린자니 등반(며칠이 소요되는 트레킹) 중 하나를 택하기에 충분한 시간이다."
+    },
+    "zh": {
+      "blurb": "龙目岛坐拥林贾尼火山的雄伟身姿，同时还拥有纯净的冲浪海滩、隐秘的瀑布，以及近在咫尺、碧绿如玉的吉利群岛，却没有邻近巴厘岛那般人潮拥挤。这里处处充满鲜明对比——悠闲宁静的渔村，驱车片刻即达世界级冲浪点，而传统的萨萨克村落则完好保留着有别于印尼其他地区的独特文化。",
+      "getting": "大多数旅行者经由普拉亚的龙目岛国际机场（LOP）抵达，从巴厘岛伍拉·赖国际机场（DPS）出发的直飞航班约需30-40分钟，此外还有来自雅加达及其他区域枢纽的航班；另外，从巴厘岛巴当拜出发的快艇约1.5-2小时可抵达龙目岛，而经济型公共渡轮前往伦巴尔港则需约4-6小时。岛上没有铁路服务，因此后续出行需依靠私人司机、租赁摩托车或当地巴士。",
+      "days": "建议安排约4-6天游览主要景点——足够时间探索南部海岸沙滩与库塔，安排一趟吉利群岛之旅，再选择一段风景优美的自驾路线，或来一场攀登林贾尼火山的多日徒步之旅。"
     }
   },
   "Lyon": {
@@ -2654,6 +2674,11 @@
       "blurb": "밀라노는 이탈리아의 디자인과 패션의 수도로, 두오모의 고딕 양식 첨탑이 세계적인 아틀리에와 갤러리, 그리고 역사적인 비토리오 에마누엘레 2세 갤러리아 쇼핑 아케이드가 늘어선 거리 위로 우뚝 솟아 있다. 이곳은 또한 손꼽히는 비즈니스·금융 허브이기도 해서, 이탈리아 남부의 여유로운 도시들과는 사뭇 다른 활기차고 세련된 에너지를 뿜어낸다.",
       "getting": "대부분의 해외 여행객은 밀라노의 주요 장거리 관문인 말펜사 공항(MXP)을 통해 도착한다. 시내까지는 말펜사 익스프레스 열차를 이용해 밀라노 첸트랄레역이나 밀라노 카도르나역까지 약 40~60분이 소요되며, 비슷한 소요 시간의 저렴한 대안으로 셔틀버스도 있다. 국내선이나 유럽 각지에서 기차로 오는 여행객은 대개 이탈리아 고속철도망의 핵심 거점이자 웅장한 밀라노의 중앙역인 밀라노 첸트랄레에 도착하며, 지하철로 시내까지 바로 연결된다.",
       "days": "두오모와 갈레리아, 중심가의 쇼핑·다이닝 지구를 둘러보려면 2~3일 정도를 계획하고, 인근 호수 지역이나 롬바르디아의 다른 소도시로 당일치기 여행을 추가하려면 4~5일로 일정을 늘려보자."
+    },
+    "zh": {
+      "blurb": "米兰是意大利的设计与时尚之都,哥特式尖塔耸立的米兰大教堂俯瞰着两旁云集世界级工作室与画廊的街道,还有历史悠久的埃马努埃莱二世拱廊购物中心。作为重要的商业与金融中心,这座城市散发出一种明快、国际化的气息,与意大利南部城市悠闲的生活节奏迥然不同。",
+      "getting": "大多数国际游客经由马尔彭萨机场(MXP)抵达米兰——这是米兰主要的长途航班门户,可乘坐马尔彭萨快线列车前往米兰中央车站或米兰卡多尔纳车站,车程约40至60分钟;大巴车是时间相近的经济型替代选择。国内及欧洲铁路旅客通常抵达米兰中央车站,这座恢弘的城市主站是意大利高铁网络的重要枢纽,并有地铁直接连接市区。",
+      "days": "游览米兰大教堂、埃马努埃莱二世拱廊及市中心的购物餐饮区,建议安排2至3天;若想再加上前往附近湖区或伦巴第大区其他小镇的一日游,可将行程延长至4至5天。"
     }
   },
   "Monza": {
@@ -2670,6 +2695,21 @@
         "getting": "Se llega a Monza en tren directo de Trenord desde Milán (Centrale o Porta Garibaldi); los servicios más rápidos tardan entre 10 y 15 minutos por la histórica línea Milán-Chiasso. El aeropuerto más cercano es Milán Linate (LIN), mientras que Milán Malpensa (MXP) funciona como principal puerta de entrada internacional, con conexiones posteriores en tren o autobús hacia la ciudad.",
         "days": "Un solo día basta para recorrer el centro histórico de Monza, el Duomo y el parque de la Villa Reale, aunque los aficionados al automovilismo quizá quieran dedicar medio día más a explorar el propio circuito del Autodromo."
       }
+    },
+    "ko": {
+      "blurb": "몬차는 1922년부터 이탈리아 그랑프리가 열려온 고속 레이스트랙, 전설적인 아우토드로모 나치오날레(Autodromo Nazionale)의 본고장으로 가장 잘 알려져 있습니다. 하지만 아담한 구시가지 안에는 롬바르디아의 철의 왕관(Iron Crown of Lombardy)을 소장한 고딕 양식의 대성당과 18세기에 세워진 빌라 레알레(Villa Reale)를 둘러싼 광활한 왕실 공원도 자리하고 있습니다. 밀라노 바로 북쪽에 위치한 몬차는 모터스포츠의 유산과 롬바르디아의 역사, 그리고 푸른 녹지가 어우러진 독특한 매력을 지니고 있으며, 이탈리아 패션의 수도에서도 쉽게 다녀올 수 있습니다.",
+      "getting": "몬차는 밀라노(첸트랄레역 또는 포르타 가리발디역)에서 트레노르드(Trenord) 직행 열차로 갈 수 있으며, 가장 빠른 열차는 밀라노-키아소 노선을 따라 약 10~15분이면 도착합니다. 가장 가까운 공항은 밀라노 리나테(LIN)이며, 주요 국제선 관문인 밀라노 말펜사(MXP)에서는 기차나 버스를 이용해 시내로 이동할 수 있습니다.",
+      "days": "몬차의 구시가지, 두오모, 빌라 레알레 공원을 둘러보는 데는 하루면 충분하지만, 레이싱 애호가라면 아우토드로모 서킷을 직접 둘러보기 위해 반나절 정도 더 여유를 두는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "モンツァは、1922年からイタリアGPが開催されてきた伝説の高速サーキット、アウトドローモ・ナツィオナーレ(Autodromo Nazionale)の本拠地として広く知られています。しかしコンパクトな旧市街には、ロンバルディアの鉄の王冠を安置するゴシック様式の大聖堂や、18世紀に建てられたヴィッラ・レアーレ(Villa Reale)を囲む広大な王立公園も残されています。ミラノのすぐ北に位置するモンツァでは、モータースポーツの伝統とロンバルディアの歴史、そして緑豊かな自然を同時に楽しむことができ、イタリア・ファッションの中心地からも気軽に訪れることができます。",
+      "getting": "モンツァへはミラノ(チェントラーレ駅またはポルタ・ガリバルディ駅)からトレノルド(Trenord)の直通列車でアクセスでき、最速列車ならミラノ〜キアッソ線を約10~15分で結びます。最寄りの空港はミラノ・リナーテ(LIN)で、国際線の主要な玄関口となるミラノ・マルペンサ(MXP)からは、鉄道またはバスで市内へ乗り継ぐことができます。",
+      "days": "モンツァの旧市街、ドゥオーモ、ヴィッラ・レアーレ公園を巡るには1日あれば十分ですが、レース好きな方はアウトドローモのサーキットをじっくり見学するために、さらに半日ほど時間を確保するのがおすすめです。"
+    },
+    "zh": {
+      "blurb": "蒙扎最广为人知的,是自1922年起举办意大利大奖赛的传奇高速赛道——蒙扎国家赛车场(Autodromo Nazionale)。然而,在其精巧的历史市中心,还坐落着守护着伦巴第铁王冠的哥特式大教堂,以及环绕18世纪雷阿莱别墅(Villa Reale)的广阔王室公园。蒙扎位于米兰以北不远处,将赛车运动的传统、伦巴第的历史底蕴与绿意盎然的空间巧妙融合,从意大利的时尚之都出发即可轻松抵达。",
+      "getting": "从米兰(中央车站或加里波第门站)乘坐Trenord直达列车即可到达蒙扎,沿历史悠久的米兰—基亚索线,最快车程约10-15分钟。最近的机场是米兰利纳特机场(LIN),而米兰马尔彭萨机场(MXP)则是主要的国际门户,可通过火车或巴士转乘前往市区。",
+      "days": "游览蒙扎的历史市中心、大教堂和雷阿莱别墅公园,一天时间已经足够;不过对赛车爱好者而言,或许还想额外花半天时间,亲自探索蒙扎赛道本身。"
     }
   },
   "Naples": {
@@ -2930,6 +2970,10 @@
       "blurb": "Justo al oeste de París, sobre un promontorio arbolado que domina el Sena, Saint-Cloud tiene como eje el extenso Domaine national de Saint-Cloud, un parque real de 460 hectáreas diseñado por André Le Nôtre, con fuentes escalonadas, jardines a la francesa y vistas panorámicas sobre la capital. En su día albergó un château que fue residencia de la realeza francesa y de Napoleón, hasta que un incendio lo destruyó en 1870; hoy la finca combina tranquilos paseos entre jardines y ruinas históricas con un animado toque contemporáneo como sede del festival Rock en Seine.",
       "getting": "La mayoría de los visitantes llegan a Saint-Cloud desde el centro de París a través de la Gare Saint-Lazare, tomando los trenes de las líneas L o U de Transilien directamente hasta la estación de Saint-Cloud, o bien mediante la Línea 10 del metro de París hasta su terminal occidental en Boulogne–Pont de Saint-Cloud, con el tranvía T2 que también para cerca de la entrada del parque. Los viajeros internacionales suelen llegar a uno de los aeropuertos de París (CDG u Orly) y trasladarse primero al centro de la ciudad antes de completar este breve trayecto en tren de cercanías o metro.",
       "days": "por confirmar"
+    },
+    "zh": {
+      "blurb": "圣克卢位于巴黎西侧,坐落在俯瞰塞纳河的林木葱郁的高地上,核心是占地460公顷的圣克卢国家园林(Domaine national de Saint-Cloud),由安德烈·勒诺特尔设计,园内层叠的喷泉、规整的法式花园与俯瞰巴黎的开阔景致相映成趣。这里曾坐落着一座接待过法国王室与拿破仑的城堡,惜于1870年焚毁;如今的园区将静谧的花园漫步与历史遗迹交融,同时也因是Rock en Seine音乐节的举办地而充满现代活力。",
+      "getting": "大多数游客从巴黎市中心出发,经圣拉扎尔火车站(Gare Saint-Lazare)乘坐Transilien L线或U线列车直达圣克卢站;也可搭乘巴黎地铁10号线至西端终点站布洛涅-圣克卢桥站(Boulogne–Pont de Saint-Cloud),此外T2有轨电车也在靠近公园入口处设站。国际游客通常先抵达巴黎的机场(戴高乐机场CDG或奥利机场Orly),再前往市中心,然后换乘这段短途郊区列车或地铁前来。"
     }
   },
   "San Sebastian": {
@@ -2952,6 +2996,11 @@
       "blurb": "산 세바스티안(도노스티아)은 초록빛 언덕을 배경으로 펼쳐진 초승달 모양의 라 콘차 해변으로 유명하며, 핀초스 바와 미슐랭 스타가 밀집한 바스크 미식 문화 덕분에 많은 이들이 스페인 최고의 미식 도시로 꼽습니다. 두 개의 강과 바다 사이에 자리한 아담하고 걷기 좋은 구시가지는 19세기 벨 에포크의 우아함과 여유로운 서핑·타파스 문화가 어우러져 있습니다.",
       "getting": "이 도시의 작은 공항인 산 세바스티안 공항(EAS)은 인근 온다리비아에 위치해 있으며 주로 국내선을 운항합니다. 대부분의 해외 여행객은 빌바오 공항(BIO)으로 입국해 약 1시간 15분~1시간 20분 걸리는 PESA 버스를 이용하거나, 마드리드-앙다예 철도 노선을 통해 기차로 산 세바스티안의 렌페(Renfe) 역(북역, Estación del Norte)까지 이동합니다. 지역 철도인 에우스코트렌(Euskotren)은 시내의 별도 역인 아마라(Amara) 역에서 빌바오 및 프랑스 국경 도시 앙다예로 연결됩니다.",
       "days": "해변 산책, 구시가지 핀초스 투어, 이겔도산이나 우르굴산 등반까지 즐기려면 약 2~3일이 적당하며, 더 넓은 바스크 해안이나 내륙 지역까지 둘러보려면 하루를 더 추가하는 것이 좋습니다."
+    },
+    "zh": {
+      "blurb": "圣塞巴斯蒂安（巴斯克语：多诺斯蒂亚）以贡查海滩闻名——那道被青翠山丘环抱的优美新月形海湾令人心醉，而这里浓厚的巴斯克美食氛围更是声名远扬：小吃酒吧（pintxos bars）林立，米其林星光熠熠，许多人视其为西班牙首屈一指的美食之都。老城区小巧精致、步行即可畅游，坐落于两条河流与大海之间，将19世纪美好年代的优雅气质与惬意的冲浪与塔帕斯文化完美融合。",
+      "getting": "该市自有的小型机场——圣塞巴斯蒂安机场（EAS）位于附近的翁达里维亚（Hondarribia），主要承接国内航线；大多数国际旅客则选择飞往毕尔巴鄂机场（BIO），再乘坐约1小时15分至1小时20分的PESA巴士前往；也可选择搭乘经马德里—昂代伊（Hendaye）铁路线的火车，抵达圣塞巴斯蒂安的伦费（Renfe）北站（Estación del Norte）。此外，地区性的Euskotren列车也连接该市另一座阿马拉（Amara）车站，可通往毕尔巴鄂及法国边境的昂代伊。",
+      "days": "建议安排约2-3天，游览海滩、漫步老城品尝各式pintxos小吃，并登上伊格尔多山（Monte Igueldo）或乌尔古尔山（Urgull）远足；若打算探索更广阔的巴斯克海岸或乡村地区，可再多留一天。"
     }
   },
   "Sapporo": {
@@ -3055,6 +3104,11 @@
       "blurb": "Sentosa es la isla-resort de Singapur, situada justo frente a la costa sur del país, y reúne en un espacio compacto y muy transitable playas, un teleférico, un gran acuario y Universal Studios Singapore. Funciona como una escapada autosuficiente y sin complicaciones a solo un paso de la ciudad: gran parte de la isla es prácticamente libre de coches, con atracciones, tranvías y senderos peatonales que cubren los cortos trayectos entre un punto y otro.",
       "getting": "Sentosa se conecta con la Singapur continental en HarbourFront, la terminal de las líneas de MRT North East y Circle. Desde allí, lo habitual es tomar el monorraíl Sentosa Express (unos 4 minutos) desde el centro comercial VivoCity, cruzar en teleférico desde HarbourFront/Mount Faber, o simplemente caminar por el gratuito Sentosa Boardwalk. Si vienes desde el aeropuerto de Changi, no hay tren directo, así que la opción segura y habitual es tomar el MRT hacia la ciudad y hacer transbordo en HarbourFront, o bien pedir un taxi o un servicio de transporte privado para ir directamente de puerta a puerta.",
       "days": "Con un solo día alcanza para ver lo más destacado de la isla, como las playas, el paseo en teleférico y una atracción estrella como el acuario o el parque temático, mientras que con unos 2 días se puede ir con más calma, dedicando tiempo a Universal Studios Singapore además de una tarde completa de playa."
+    },
+    "zh": {
+      "blurb": "圣淘沙是新加坡本岛南岸外的度假岛屿,将沙滩、缆车、大型水族馆和新加坡环球影城都浓缩在这座紧凑、适合步行的小岛上。它就像一个远离都市喧嚣、自成一体的轻松度假胜地——岛上大部分区域甚至几乎不需要开车,游乐设施、有轨电车和人行步道就能轻松串联起各个景点之间的短途路程。",
+      "getting": "圣淘沙与新加坡本岛的连接点在港湾城(HarbourFront),这里是地铁东北线和环线的终点站:从那里出发,游客通常可以从怡丰城(VivoCity)搭乘圣淘沙捷运(Sentosa Express)单轨列车(约4分钟),或从港湾城/花柏山(Mount Faber)乘坐缆车跨海而过,又或者沿着免费的圣淘沙木栈道(Sentosa Boardwalk)步行前往。若从樟宜机场出发,由于没有直达列车,常规且可靠的方式是先乘地铁进城,再在港湾城转乘;也可以直接打车或叫车,实现从机场到目的地的一站式接送。",
+      "days": "安排一天时间,就能游览岛上沙滩、缆车观光等主要亮点,再加上水族馆或主题公园之类的重量级景点;若安排约两天,则可以放慢节奏,既能尽情畅游新加坡环球影城,又能留出一整个下午悠闲享受海滩时光。"
     }
   },
   "Sharjah": {
@@ -3171,7 +3225,22 @@
       "getting": "The nearest major airport is Rapid City Regional Airport (RAP), about 40 miles southeast of Sturgis, with a rental car or shuttle typically used for the onward journey; many riders instead arrive by motorcycle via Interstate 90, often via scenic approaches like US-16 and US-385 through the Black Hills.",
       "days": "Plan on ~1-2 days to see Sturgis itself and its Main Street rally sites, though most visitors extend their stay by several days to explore the wider Black Hills region, including Deadwood, Mount Rushmore, and the Badlands."
     },
-    "es": "{\"ko\":{\"blurb\":\"스터기스는 인구 약 7,000명의 블랙힐스 지역 소도시지만, 매년 8월이면 전설적인 스터기스 모터사이클 랠리가 열리면서 전 세계 바이커들의 수도로 탈바꿈합니다. 전국 각지에서 라이더들이 몰려들어 인구가 수십 배로 불어나죠. 1938년 잭파인 집시스 모터사이클 클럽이 창설한 이 랠리는 지금은 지구상에서 가장 큰 모터사이클 모임 중 하나로 성장했으며, 인근 데드우드와 스피어피시 등 블랙힐스 마을들로까지 열기가 번집니다.\",\"getting\":\"가장 가까운 주요 공항은 스터기스에서 남동쪽으로 약 40마일 떨어진 래피드시티 지역공항(RAP)으로, 렌터카나 셔틀을 이용해 이동하는 것이 일반적입니다. 하지만 많은 라이더들은 대신 오토바이를 타고 인터스테이트 90번 도로를 통해, 혹은 블랙힐스를 가로지르는 US-16과 US-385 같은 경치 좋은 길을 따라 도착하기도 합니다.\",\"days\":\"스터기스 시내와 메인 스트리트의 랠리 명소를 둘러보는 데는 1~2일이면 충분하지만, 대부분의 방문객은 데드우드, 러시모어산, 배드랜즈 등 블랙힐스 일대를 더 폭넓게 둘러보기 위해 며칠 더 머무는 경우가 많습니다.\"},\"ja\":{\"blurb\":\"スタージスは人口約7,000人のブラックヒルズの小さな町ですが、毎年8月になると伝説のスタージス・モーターサイクル・ラリーが開催され、世界中のバイカーたちが集う\"聖地\"へと変貌します。全米各地からライダーが押し寄せ、人口は普段の何十倍にも膨れ上がります。1938年にジャックパイン・ジプシーズ・モーターサイクルクラブによって始められたこのラリーは、今では世界最大級のバイカーの祭典へと成長し、近隣のディードウッドやスピアフィッシュといったブラックヒルズの町々にもその賑わいが広がっています。\",\"getting\":\"最寄りの主要空港はスタージスから南東へ約40マイルのラピッドシティ地域空港(RAP)で、そこからレンタカーやシャトルを利用するのが一般的です。ただし多くのライダーはバイクでインターステート90号線を使って、あるいはブラックヒルズを抜けるUS-16号線やUS-385号線といった景色の良いルートを通ってやって来ます。\",\"days\":\"スタージスの町とメインストリート沿いのラリー会場を見るだけなら1〜2日で十分ですが、多くの旅行者はディードウッド、マウント・ラシュモア、バッドランズなど、ブラックヒルズ一帯をじっくり巡るために滞在をさらに数日延ばします。\"},\"es\":{\"blurb\":\"Sturgis es un pequeño pueblo de las Black Hills con apenas 7,000 habitantes que, cada agosto, se convierte en la capital motera del mundo: el legendario Sturgis Motorcycle Rally multiplica su población decenas de veces cuando moteros de todo el país convergen en la ciudad. Fundado en 1938 por el Jackpine Gypsies Motorcycle Club, el rally se ha convertido en una de las mayores concentraciones de motos del planeta, desbordándose hacia pueblos cercanos de las Black Hills como Deadwood y Spearfish.\",\"getting\":\"El aeropuerto principal más cercano es el Aeropuerto Regional de Rapid City (RAP), a unas 40 millas al sureste de Sturgis, desde donde suele tomarse un auto de alquiler o un shuttle para completar el trayecto. Sin embargo, muchos moteros prefieren llegar en su propia motocicleta por la Interestatal 90, a menudo optando por rutas escénicas como la US-16 y la US-385 a través de las Black Hills.\",\"days\":\"Con 1 o 2 días alcanza para conocer Sturgis y los puntos del rally sobre Main Street, aunque la mayoría de los visitantes prolonga su estadía varios días más para explorar el resto de las Black Hills, incluyendo Deadwood, el Monte Rushmore y las Badlands.\"},\"zh\":{\"blurb\":\"斯特吉斯是黑山地区一个人口仅约7,000人的小镇,但每年8月,传奇的斯特吉斯摩托车集会都会让它摇身一变,成为\"世界摩托之都\"。来自全美各地的骑士蜂拥而至,使小镇人口暴增数十倍。这项集会由杰克派恩吉普赛摩托车俱乐部于1938年创办,如今已发展成为全球规模最大的摩托车盛会之一,热闹景象甚至蔓延到附近的迪德伍德、斯皮尔菲什等黑山小镇。\",\"getting\":\"距离斯特吉斯最近的主要机场是拉皮德城地区机场(RAP),位于其东南方约40英里处,游客通常在此租车或搭乘接驳车前往目的地。不过,许多骑士更喜欢直接骑摩托车沿90号州际公路而来,途中常会选择穿越黑山地区的US-16号和US-385号公路等风景线路。\",\"days\":\"游览斯特吉斯小镇本身及其主街沿线的集会场地,安排1到2天即可,不过大多数游客都会将行程延长数天,以便探索黑山地区更广阔的景点,包括迪德伍德、拉什莫尔山和恶地国家公园。\"}}"
+    "es": "{\"ko\":{\"blurb\":\"스터기스는 인구 약 7,000명의 블랙힐스 지역 소도시지만, 매년 8월이면 전설적인 스터기스 모터사이클 랠리가 열리면서 전 세계 바이커들의 수도로 탈바꿈합니다. 전국 각지에서 라이더들이 몰려들어 인구가 수십 배로 불어나죠. 1938년 잭파인 집시스 모터사이클 클럽이 창설한 이 랠리는 지금은 지구상에서 가장 큰 모터사이클 모임 중 하나로 성장했으며, 인근 데드우드와 스피어피시 등 블랙힐스 마을들로까지 열기가 번집니다.\",\"getting\":\"가장 가까운 주요 공항은 스터기스에서 남동쪽으로 약 40마일 떨어진 래피드시티 지역공항(RAP)으로, 렌터카나 셔틀을 이용해 이동하는 것이 일반적입니다. 하지만 많은 라이더들은 대신 오토바이를 타고 인터스테이트 90번 도로를 통해, 혹은 블랙힐스를 가로지르는 US-16과 US-385 같은 경치 좋은 길을 따라 도착하기도 합니다.\",\"days\":\"스터기스 시내와 메인 스트리트의 랠리 명소를 둘러보는 데는 1~2일이면 충분하지만, 대부분의 방문객은 데드우드, 러시모어산, 배드랜즈 등 블랙힐스 일대를 더 폭넓게 둘러보기 위해 며칠 더 머무는 경우가 많습니다.\"},\"ja\":{\"blurb\":\"スタージスは人口約7,000人のブラックヒルズの小さな町ですが、毎年8月になると伝説のスタージス・モーターサイクル・ラリーが開催され、世界中のバイカーたちが集う\"聖地\"へと変貌します。全米各地からライダーが押し寄せ、人口は普段の何十倍にも膨れ上がります。1938年にジャックパイン・ジプシーズ・モーターサイクルクラブによって始められたこのラリーは、今では世界最大級のバイカーの祭典へと成長し、近隣のディードウッドやスピアフィッシュといったブラックヒルズの町々にもその賑わいが広がっています。\",\"getting\":\"最寄りの主要空港はスタージスから南東へ約40マイルのラピッドシティ地域空港(RAP)で、そこからレンタカーやシャトルを利用するのが一般的です。ただし多くのライダーはバイクでインターステート90号線を使って、あるいはブラックヒルズを抜けるUS-16号線やUS-385号線といった景色の良いルートを通ってやって来ます。\",\"days\":\"スタージスの町とメインストリート沿いのラリー会場を見るだけなら1〜2日で十分ですが、多くの旅行者はディードウッド、マウント・ラシュモア、バッドランズなど、ブラックヒルズ一帯をじっくり巡るために滞在をさらに数日延ばします。\"},\"es\":{\"blurb\":\"Sturgis es un pequeño pueblo de las Black Hills con apenas 7,000 habitantes que, cada agosto, se convierte en la capital motera del mundo: el legendario Sturgis Motorcycle Rally multiplica su población decenas de veces cuando moteros de todo el país convergen en la ciudad. Fundado en 1938 por el Jackpine Gypsies Motorcycle Club, el rally se ha convertido en una de las mayores concentraciones de motos del planeta, desbordándose hacia pueblos cercanos de las Black Hills como Deadwood y Spearfish.\",\"getting\":\"El aeropuerto principal más cercano es el Aeropuerto Regional de Rapid City (RAP), a unas 40 millas al sureste de Sturgis, desde donde suele tomarse un auto de alquiler o un shuttle para completar el trayecto. Sin embargo, muchos moteros prefieren llegar en su propia motocicleta por la Interestatal 90, a menudo optando por rutas escénicas como la US-16 y la US-385 a través de las Black Hills.\",\"days\":\"Con 1 o 2 días alcanza para conocer Sturgis y los puntos del rally sobre Main Street, aunque la mayoría de los visitantes prolonga su estadía varios días más para explorar el resto de las Black Hills, incluyendo Deadwood, el Monte Rushmore y las Badlands.\"},\"zh\":{\"blurb\":\"斯特吉斯是黑山地区一个人口仅约7,000人的小镇,但每年8月,传奇的斯特吉斯摩托车集会都会让它摇身一变,成为\"世界摩托之都\"。来自全美各地的骑士蜂拥而至,使小镇人口暴增数十倍。这项集会由杰克派恩吉普赛摩托车俱乐部于1938年创办,如今已发展成为全球规模最大的摩托车盛会之一,热闹景象甚至蔓延到附近的迪德伍德、斯皮尔菲什等黑山小镇。\",\"getting\":\"距离斯特吉斯最近的主要机场是拉皮德城地区机场(RAP),位于其东南方约40英里处,游客通常在此租车或搭乘接驳车前往目的地。不过,许多骑士更喜欢直接骑摩托车沿90号州际公路而来,途中常会选择穿越黑山地区的US-16号和US-385号公路等风景线路。\",\"days\":\"游览斯特吉斯小镇本身及其主街沿线的集会场地,安排1到2天即可,不过大多数游客都会将行程延长数天,以便探索黑山地区更广阔的景点,包括迪德伍德、拉什莫尔山和恶地国家公园。\"}}",
+    "ko": {
+      "blurb": "스터지스는 인구 약 7,000명의 작은 블랙힐스 마을이지만, 매년 8월이면 전 세계 바이커들의 수도로 탈바꿈한다. 전설적인 스터지스 모터사이클 랠리가 열리는 이 시기에는 전국 각지에서 라이더들이 몰려들어 인구가 수십 배로 폭증한다. 1938년 잭파인 집시스 모터사이클 클럽이 창설한 이 랠리는 오늘날 세계 최대 규모의 모터사이클 모임 중 하나로 성장했으며, 그 열기는 인근 블랙힐스의 데드우드와 스피어피시 같은 마을들까지 번져나간다.",
+      "getting": "가장 가까운 주요 공항은 스터지스에서 남동쪽으로 약 40마일 떨어진 래피드시티 지역공항(RAP)으로, 이곳에서는 보통 렌터카나 셔틀을 이용해 목적지까지 이동한다. 하지만 많은 라이더들은 인터스테이트 90번 도로를 통해 오토바이로 직접 달려오는 것을 선호하며, 블랙힐스를 가로지르는 US-16번, US-385번 도로 같은 경관 좋은 길을 택하는 경우도 많다.",
+      "days": "스터지스 시내와 메인스트리트의 랠리 명소들을 둘러보는 데는 1~2일 정도면 충분하지만, 대부분의 방문객은 데드우드, 마운트 러시모어, 배드랜즈 등 블랙힐스 일대를 더 폭넓게 탐험하기 위해 며칠 더 머무는 편이다."
+    },
+    "ja": {
+      "blurb": "スタージスは人口およそ7,000人ほどの、ブラックヒルズにある小さな町だ。しかし毎年8月になると、世界中のバイカーが目指す“聖地”へと一変する。伝説的な「スタージス・モーターサイクル・ラリー」が開催されるこの時期、全米各地からライダーが集結し、町の人口は一時的に数十倍にも膨れ上がる。1938年にジャックパイン・ジプシーズ・モーターサイクルクラブによって創設されたこのラリーは、今では世界最大級のバイカー集会の一つに成長し、その盛り上がりはデッドウッドやスピアフィッシュといった近隣のブラックヒルズの町々にも広がっている。",
+      "getting": "最寄りの主要空港はラピッドシティ・リージョナル空港(RAP)で、スタージスから南東へ約40マイルの距離にある。そこからはレンタカーやシャトルバスを利用するのが一般的だが、多くのライダーはインターステート90号線を使ってバイクで直接訪れることを好み、しばしばブラックヒルズを通るUS-16号線やUS-385号線といった風光明媚なルートを選ぶ。",
+      "days": "スタージスの町自体とメインストリート沿いのラリー会場を見るだけなら1〜2日ほどで十分だが、多くの旅行者はデッドウッドやマウントラシュモア、バッドランズなど、ブラックヒルズ地域をより広く巡るために、さらに数日間滞在を延ばしている。"
+    },
+    "zh": {
+      "blurb": "斯特吉斯（Sturgis）是黑山地区一座人口仅约7,000人的小镇，但每年八月，这里都会摇身一变，成为全世界摩托车骑士心目中的圣地。届时，传奇的斯特吉斯摩托车集会（Sturgis Motorcycle Rally）会吸引来自全美各地的骑手蜂拥而至，让小镇人口暴涨数十倍。这项集会由杰克派恩吉普赛摩托车俱乐部（Jackpine Gypsies Motorcycle Club）于1938年创办，如今已发展成为全球规模最大的摩托车盛会之一，其影响力甚至蔓延到附近的迪德伍德（Deadwood）和斯皮尔菲什（Spearfish）等黑山城镇。",
+      "getting": "距离斯特吉斯最近的主要机场是拉皮德城地区机场（RAP），位于小镇东南方向约40英里处，游客通常可以租车或搭乘班车前往。不过，许多骑士更愿意骑摩托车沿90号州际公路（Interstate 90）前来，途中还常常选择风景优美的16号和385号美国国道（US-16、US-385），一路穿越黑山地区。",
+      "days": "游览斯特吉斯本地及其主街（Main Street）沿线的集会场地，大约安排1-2天即可。不过，大多数游客都会多逗留几天，顺道探索更广阔的黑山地区，包括迪德伍德（Deadwood）、拉什莫尔山（Mount Rushmore，即总统山）以及巴德兰兹（Badlands，恶地国家公园）等热门景点。"
+    }
   },
   "Suncheon": {
     "en": {
@@ -3536,6 +3605,11 @@
       "blurb": "보스턴은 식민지 시대의 정취가 남아있는 벽돌 거리와 미국에서 가장 오래된 지하철을 간직하면서도, 세계적 수준의 대학, 병원, 바이오테크 연구소가 밀집한 도시다. 하루 만에 끝에서 끝까지 걸어서 돌아볼 수 있을 만큼 아담해서, 프리덤 트레일의 유적지에서 벗어나 현대적인 시포트 지구의 푸드홀과 항구 전망까지 발길 닿는 대로 거니는 여행자에게 특히 매력적이다.",
       "getting": "대부분의 여행자는 공항 코드 BOS인 보스턴 로건 국제공항을 통해 도착한다. 이곳은 보스턴을 오가는 주요 공항이자 시내 중심가와 가장 가까운 주요 공항이다. 공항에서는 무료 실버라인 버스가 사우스 스테이션으로 바로 연결되며, 셔틀을 이용해 MBTA 블루라인 지하철로 갈아타면 다운타운까지 약 20~30분 정도 걸린다. 장거리 열차를 이용하는 여행자는 사우스 스테이션을 이용하는데, 이곳은 아셀라(Acela)와 노스이스트 리저널(Northeast Regional) 열차가 오가는 노스이스트 코리도어의 종착역으로, 보스턴을 뉴욕이나 워싱턴 D.C. 같은 도시들과 연결해준다.",
       "days": "역사 지구와 백베이, 그리고 몇몇 동네나 박물관 나들이까지 둘러보려면 2~3일 정도, 케임브리지, 세일럼, 혹은 해안 지역으로의 당일치기 여행까지 더하려면 4~5일 정도를 계획하면 좋다."
+    },
+    "zh": {
+      "blurb": "波士顿将殖民地时期的砖石街道和美国最古老的地铁,与世界一流的大学、医院和生物科技实验室汇聚一堂。这座城市小巧到一天之内就能从头走到尾,无论是漫步于自由之路的历史古迹,还是流连于现代海港区(Seaport)的美食广场与港湾美景,都能给游客带来惊喜。",
+      "getting": "大多数旅客经由波士顿洛根国际机场(机场代码BOS)抵达,这是服务波士顿的主要机场,也是离市中心最近的大型机场。从机场出发,可乘坐免费的银线巴士直达南站(South Station),或搭乘接驳巴士换乘MBTA蓝线地铁进入市区(约20-30分钟)。长途铁路旅客则会使用南站,这里是东北走廊(Northeast Corridor)的终点站,Acela特快列车和东北区域列车(Northeast Regional)从此连接波士顿与纽约、华盛顿特区等城市。",
+      "days": "游览历史城区、后湾区(Back Bay)以及一两个街区或博物馆,大约需要2-3天;若想再加上前往剑桥(Cambridge)、塞勒姆(Salem)或海岸地区的一日游,则建议安排4-5天。"
     }
   },
   "Cebu": {
@@ -3603,6 +3677,21 @@
       "ja": "placeholder",
       "es": "placeholder",
       "zh": "placeholder"
+    },
+    "ko": {
+      "blurb": "랑카위는 말레이시아 북서부 해안에 자리한, 정글로 뒤덮인 석회암 섬들로 이루어진 군도로, 케이블카가 열대우림 위를 가로지르고 맹그로브 투어가 카르스트 절벽 사이를 누비는 면세 천국입니다. 다타이 베이의 열대우림 해안선부터 유네스코 지오파크로 지정된 태고의 기암 지형까지, 여유로운 비치 리조트와 웅장한 자연 경관이 공존하는 곳입니다.",
+      "getting": "대부분의 여행객은 랑카위 국제공항(LGK)으로 직항편을 이용합니다. 이 공항은 쿠알라룸푸르, 페낭, 조호바루, 싱가포르행 에어아시아 노선을 포함한 국내선 및 지역 노선을 운항합니다. 육로로 이동하는 경우에는 본토 선착장—보통 쿠알라케다(약 1시간 45분) 또는 쿠알라페를리스(약 1시간 15분)—에서 페리를 타고 섬의 쿠아 선착장에 도착합니다.",
+      "days": "여유롭게 섬의 주요 명소를 둘러보려면 약 4~5일이 적당합니다. 해변에서 하루를 보내고, 케이블카와 스카이브리지를 즐기고, 맹그로브나 섬 투어 보트를 타고, 리조트 수영장에서 느긋하게 쉴 시간까지 충분합니다."
+    },
+    "ja": {
+      "blurb": "ランカウイは、マレーシア北西沖に浮かぶ、ジャングルに覆われた石灰岩島々からなる群島で、免税天国として知られています。ロープウェイが熱帯雨林の樹冠上空を渡り、マングローブツアーがカルスト地形の断崖の間を巡ります。データイ湾の熱帯雨林の海岸線から、ユネスコ世界ジオパークに登録された太古の奇岩群まで、のんびりしたビーチリゾートとダイナミックな自然美が共存する島です。",
+      "getting": "多くの旅行者はランカウイ国際空港(LGK)へ直行便で入ります。同空港にはクアラルンプール、ペナン、ジョホールバル、シンガポールへのエアアジア便など国内・近隣路線があります。陸路の場合は、本土の桟橋——一般的にはクアラケダ(所要約1時間45分)またはクアラパリス(所要約1時間15分)——からフェリーに乗り、島内のクア桟橋に到着します。",
+      "days": "のんびりしたペースで島の見どころを巡るなら、4〜5日ほど見ておくとよいでしょう。ビーチでのんびり過ごす一日、ロープウェイとスカイブリッジ観光、マングローブや島巡りのボートツアー、そしてリゾートのプールサイドでくつろぐ時間まで、余裕を持って楽しめます。"
+    },
+    "zh": {
+      "blurb": "兰卡威是位于马来西亚西北海岸外的一片群岛,由覆盖着丛林的石灰岩岛屿组成,是一处免税天堂——缆车穿越热带雨林树冠,红树林游船穿梭于喀斯特峭壁之间。这里将悠闲的海滩度假胜地与壮丽的自然风光融为一体,从丹绒鲁海湾的雨林海岸线,到被列入联合国教科文组织地质公园名录的古老岩层,应有尽有。",
+      "getting": "大多数游客直接飞抵兰卡威国际机场(LGK),该机场有国内及区域航线,包括亚航飞往吉隆坡、槟城、新山和新加坡的航班;走陆路的游客则可从马来半岛的码头——通常是瓜拉吉打(约1小时45分钟)或瓜拉玻璃市(约1小时15分钟)——搭乘渡轮,抵达岛上的瓜镇码头。",
+      "days": "建议安排约4至5天,以轻松的节奏游览岛上的主要景点,足够安排一天海滩时光、缆车与天空之桥、红树林或跳岛船游,以及在度假村泳池边悠闲放松的时间。"
     }
   },
   "Jaipur": {
@@ -3674,6 +3763,11 @@
       "blurb": "Málaga combina un casco histórico repleto de fortalezas moriscas y catedrales barrocas con una vibrante escena de arte contemporáneo (no en vano es la ciudad natal de Picasso) y un fácil acceso a las soleadas playas de la Costa del Sol. Como puerto de cruceros y gran puerta de entrada a Andalucía, funciona tanto como una animada escapada urbana por derecho propio como el trampolín natural para explorar el sur de España.",
       "getting": "La mayoría de los viajeros llegan a través del Aeropuerto de Málaga-Costa del Sol (AGP), uno de los más concurridos de España, conectado con el centro por la línea de cercanías C1 de Renfe, que va directamente desde el aeropuerto hasta Málaga María Zambrano (el principal nudo ferroviario para los trenes AVE de alta velocidad) y continúa hasta Málaga Centro-Alameda, cerca del casco antiguo, en unos 10-15 minutos. Desde María Zambrano, los trenes de alta velocidad y regionales conectan con Madrid, Sevilla, Córdoba y otros destinos, mientras que los autobuses de la estación contigua dan servicio al resto de la Costa del Sol.",
       "days": "Calcula unos 2-3 días para disfrutar con calma del casco antiguo, la catedral, la Alcazaba y los museos, y añade algo más de tiempo si piensas usar Málaga como base para excursiones de un día por la costa."
+    },
+    "zh": {
+      "blurb": "马拉加将摩尔人堡垒与巴洛克式大教堂林立的历史古城,与蓬勃发展的当代艺术氛围(这里正是毕加索的出生地)完美融合,还能轻松抵达阳光普照的太阳海岸(Costa del Sol)海滩。作为邮轮港口和安达卢西亚的重要门户,马拉加既是一个本身就值得一游的活力都市,也是探索西班牙南部的天然跳板。",
+      "getting": "大多数旅客经由马拉加-太阳海岸机场(AGP)抵达,这是西班牙最繁忙的机场之一,通过Renfe近郊铁路C1线与市区相连。该线路从机场直达马拉加玛丽亚·赞布拉诺站(María Zambrano,通往AVE高速列车的主要枢纽),再前往靠近古城区的马拉加中心-阿拉梅达站(Centro-Alameda),全程约10-15分钟。从玛丽亚·赞布拉诺站,高铁及区域列车可通往马德里、塞维利亚、科尔多瓦等地,而毗邻的汽车站则有长途巴士通往太阳海岸更广阔的地区。",
+      "days": "建议安排约2-3天,以轻松的节奏游览古城区、大教堂、阿尔卡萨瓦城堡(Alcazaba)及各大博物馆;若打算以马拉加为据点前往沿海地区一日游,则需预留更多时间。"
     }
   },
   "Agra": {
@@ -4183,6 +4277,11 @@
       "blurb": "Jiufen es un antiguo pueblo minero de oro aferrado a las laderas que dominan la costa noreste de Taiwán, famoso por su estrecha Calle Vieja (Old Street), iluminada con farolillos y repleta de casas de té y puestos de comida callejera. Se dice que su laberinto de callejones cubiertos y terrazas con vistas al mar inspiró la atmósfera de varias reconocidas películas de animación, y atrae multitudes especialmente al atardecer, cuando se encienden los farolillos rojos.",
       "getting": "Jiufen no tiene estación de tren propia: la ruta habitual es tomar un tren de Ferrocarriles de Taiwán (TRA) desde la Estación Principal de Taipéi hasta la Estación de Ruifang, y luego un breve trayecto en autobús local hasta Jiufen. Quienes llegan por la puerta de entrada internacional de Taipéi, el Aeropuerto de Taoyuan (TPE), suelen conectar primero hacia el centro de Taipéi (por ejemplo, en MRT o autobús del aeropuerto) antes de emprender este trayecto en tren y autobús, que una vez iniciado dura aproximadamente entre 1 y 1,5 horas desde el centro de Taipéi.",
       "days": "La mayoría de los visitantes dedica a Jiufen entre medio día y un día completo, tiempo suficiente para pasear por la Calle Vieja, disfrutar de una casa de té y contemplar los miradores; sin embargo, quedarse a pasar la noche permite ver los farolillos encendidos tras el anochecer, una vez que se han marchado los visitantes de un día."
+    },
+    "zh": {
+      "blurb": "九份是一座依山而建的昔日采金小镇，坐落在台湾东北海岸的山坡上，以狭窄的老街闻名——街道两旁灯笼高挂，茶馆与小吃摊鳞次栉比。纵横交错的有顶巷弄与临海露台，据说曾是多部知名动画电影意境的灵感来源，尤其在暮色四合、红灯笼次第亮起之时，最是游人如织。",
+      "getting": "九份本身并没有火车站，前往当地的标准路线是先搭乘台湾铁路（TRA）列车从台北车站到瑞芳车站，再转乘短程的地方公交车上山进入九份。从台湾的国际门户桃园机场（TPE）出发的旅客，通常会先接驳进入台北市区（例如搭乘捷运或机场巴士），再展开这段火车加公交的行程；从台北市区出发，全程大约需要1到1.5小时。",
+      "days": "大多数游客会把九份安排为半日或一日游，这样的时间足以漫步老街、品一壶茶、饱览沿途景色；不过如果能留宿一晚，就能在白天的游客散去之后，欣赏夜幕下灯笼点亮的九份，别有一番风情。"
     }
   },
   "Johor Bahru": {
@@ -4282,6 +4381,11 @@
       "blurb": "Varanasi, una de las ciudades habitadas de forma continua más antiguas del mundo, atrae a peregrinos y viajeros hacia los sagrados ghats que bordean el Ganges, donde los ritos de cremación, los rituales en barca al amanecer y el Ganga Aarti al anochecer se desarrollan a plena vista de todos. Como corazón espiritual del hinduismo y sede del templo Kashi Vishwanath, la ciudad ofrece una intensa mezcla sensorial de devoción, caos y tradición milenaria que resulta difícil de encontrar en cualquier otro lugar.",
       "getting": "La mayoría de los viajeros llegan por el Aeropuerto Internacional Lal Bahadur Shastri (VNS), en Babatpur, a unos 26 km de los ghats, desde donde toman un taxi prepago o el autobús del aeropuerto hacia el centro. Los trenes de larga distancia son otra opción muy habitual, llegando a la estación de Varanasi Junction (código BSB), el principal nudo ferroviario de la ciudad, que la conecta con Delhi, Calcuta y otras grandes urbes. Quienes viajan por tierra desde Uttar Pradesh o Bihar también pueden llegar a Varanasi en autobuses regionales desde localidades cercanas.",
       "days": "Conviene reservar entre 2 y 3 días para recorrer los ghats más importantes, dar un paseo en barca, visitar el templo Kashi Vishwanath y hacer una excursión de medio día a la cercana Sarnath."
+    },
+    "zh": {
+      "blurb": "瓦拉纳西是世界上持续有人居住时间最久的城市之一,吸引着无数朝圣者和旅行者前来朝拜恒河沿岸的圣河阶(ghats)。在这里,火葬仪式、日出祈福船仪以及夜晚的恒河夜祭(Ganga Aarti)都在众目睽睽之下公开举行。作为印度教的精神中心,also是卡西·维斯瓦纳特神庙(Kashi Vishwanath Temple)的所在地,这座城市呈现出一种浓烈的感官体验——虔诚、喧闹与古老传统交织在一起,这种氛围在世界其他地方几乎难以寻觅。",
+      "getting": "大多数旅行者会飞抵位于巴巴特普尔(Babatpur)的拉尔·巴哈杜尔·夏斯特里国际机场(VNS),该机场距离恒河阶大约26公里,抵达后可乘坐预付费出租车或机场大巴进入市区。乘坐长途火车也是常见的选择,列车会抵达瓦拉纳西枢纽站(站点代码BSB),这是该市的主要铁路枢纽,连接德里、加尔各答及其他主要城市。对于从北方邦(Uttar Pradesh)或比哈尔邦(Bihar)境内陆路前往的旅客,附近枢纽发出的区域巴士也可抵达瓦拉纳西。",
+      "days": "建议安排约2-3天时间,游览主要的恒河阶、体验乘船游览、参观卡西·维斯瓦纳特神庙,并留出半天时间前往附近的鹿野苑(Sarnath)一日游。"
     }
   },
   "Aomori": {
@@ -4439,6 +4543,11 @@
       "blurb": "스페인의 멀티시티 여행 경로는 놀랍도록 다채로운 목적지들을 연결합니다. 미술관이 늘어선 마드리드의 대로와 가우디가 빚어낸 바르셀로나의 스카이라인부터, 세비야와 그라나다에 남아있는 안달루시아의 무어 양식 궁전까지 — 각 도시는 저마다의 건축, 음식, 삶의 리듬을 지니고 있습니다. 이 도시들을 함께 여행하면 세련된 수도의 활기부터 햇살 가득한 남부의 안뜰까지, 단 한 번의 여행에서 모두 경험할 수 있습니다.",
       "getting": "대부분의 여정은 스페인의 양대 국제 관문인 마드리드-바라하스 공항(MAD) 또는 바르셀로나-엘프라트 공항(BCN)으로 입국하며 시작됩니다. 두 공항 모두 지하철과 열차로 시내와 바로 연결됩니다. 이곳에서 렌페의 AVE 고속철도망을 이용하면 마드리드, 바르셀로나, 세비야를 비롯한 주요 도시들을 최단 약 2.5시간 만에 이동할 수 있어, 도시 간 이동에는 비행기보다 기차가 더 빠르고 편리합니다.\n\n마드리드는 AVE 고속철도망의 중심 거점으로, 세비야와 바르셀로나 같은 주요 도시들을 2.5시간 이내로 연결합니다. 바르셀로나-엘프라트 공항(BCN)은 주요 국제공항이며, 마드리드 공항에서는 지하철, 열차 등 다양한 시내 교통수단을 이용할 수 있습니다.",
       "days": "고속철도로 이 도시들 중 몇 곳을 여유롭게 둘러보려면 약 7~10일을 잡는 것이 좋으며, 각 도시에서 2~3박씩 머물면 서두르지 않고 역사 지구를 둘러볼 수 있습니다."
+    },
+    "zh": {
+      "blurb": "西班牙的多城市之旅串联起一系列风格迥异的目的地——从马德里博物馆林立的大道、巴塞罗那高迪风格的天际线，到安达卢西亚地区塞维利亚和格拉纳达的摩尔式宫殿——每座城市都有自己独特的建筑风貌、美食文化和生活节奏。它们共同构成了一场旅程，让旅行者既能感受国际大都会的活力，也能体验南部小城沐浴阳光下的悠闲庭院生活。",
+      "getting": "大多数行程会先飞抵马德里巴拉哈斯机场（MAD）或巴塞罗那埃尔普拉特机场（BCN）——西班牙两大国际门户机场，两者都可通过地铁和铁路直达市中心。从这里出发，Renfe的AVE高铁网络可在最短约2.5小时内连接马德里、巴塞罗那、塞维利亚等主要城市，使城市间的火车往来比乘飞机更快捷、更方便。\n\n马德里是AVE高铁网络的核心枢纽，塞维利亚、巴塞罗那等主要城市都已被纳入这张网络，车程最短仅需2.5小时。巴塞罗那埃尔普拉特机场（BCN）是重要的国际机场，而马德里机场则提供地铁、火车等多种便捷的市区交通方式。",
+      "days": "建议安排约7-10天，以便通过高铁从容游览其中几座城市，每座城市停留2-3晚，既能深入探索其历史城区，又不会感到行程紧张。"
     }
   },
   "New York City": {
@@ -4559,6 +4668,137 @@
       "blurb": "德岛县位于四国东岸,以两种截然不同的景观闻名于世:轰鸣澎湃的鸣门海峡漩涡——堪称世界最大的潮汐漩涡之一,以及热闹奔放的夏日街舞“阿波舞”——这项传承400年的传统,每年8月中旬都会让县厅所在地彻夜狂欢。除了这两大招牌景点,德岛内陆还藏着以藤蔓桥闻名的秘境祖谷溪谷,以及层峦叠嶂的深山美景,毕竟德岛境内约八成土地都被群山覆盖。",
       "getting": "德岛阿波舞机场(TKS)有往返东京羽田和福冈的定期国内航班,并设有连接机场与德岛站的巴士服务；来自关西地区的游客通常乘坐从大阪或神户出发的高速巴士,或搭乘JR四国的“漩涡号”（Uzushio）特急列车从冈山前往。",
       "days": "游览核心景点安排2-3天即可——用一天时间在德岛市内感受阿波舞文化并游览眉山,再抽空前往鸣门漩涡一日游；若想深入山区探访祖谷溪谷,则建议将行程延长至4-5天。"
+    }
+  },
+  "Arlington": {
+    "en": {
+      "blurb": "Just across the Potomac from Washington, D.C., Arlington, Virginia blends a dense skyline of urban neighborhoods like Rosslyn, Clarendon, and Crystal City with two of the nation's most solemn landmarks — Arlington National Cemetery and the Pentagon. It's less a single destination than a convenient, walkable base from which to explore the capital while returning each night to leafy residential streets and a lively restaurant scene.",
+      "getting": "Ronald Reagan Washington National Airport (DCA) sits directly in Arlington, minutes from Crystal City, and connects to the Washington Metro's Blue and Yellow lines, while the Metro's Orange and Silver lines run through Rosslyn and Pentagon City, linking the county to downtown D.C. and the wider region; taxis, rideshares, and airport shuttles are also widely available for hotel transfers.",
+      "days": "Plan on ~2-3 days to cover Arlington's core sights — the cemetery, the Pentagon area, and a neighborhood or two — though many visitors use it as a multi-day base for day trips into Washington, D.C. itself."
+    },
+    "ko": {
+      "blurb": "워싱턴 D.C.와 포토맥 강을 사이에 두고 마주한 버지니아주 알링턴은 로슬린, 클래런던, 크리스털 시티 같은 밀집된 도심 지역과 함께 미국에서 가장 엄숙한 두 랜드마크, 즉 알링턴 국립묘지와 펜타곤을 품고 있습니다. 하나의 단일한 목적지라기보다는 낮에는 수도 워싱턴 D.C.를 둘러보고 밤에는 나무 우거진 주택가와 활기찬 레스토랑 거리로 돌아올 수 있는, 걷기 편한 편리한 베이스캠프에 가깝습니다.",
+      "getting": "로널드 레이건 워싱턴 내셔널 공항(DCA)은 알링턴 안에 위치해 있으며 크리스털 시티에서 차로 몇 분 거리이고, 워싱턴 메트로의 블루라인과 옐로우라인과 연결됩니다. 또한 메트로의 오렌지라인과 실버라인은 로슬린과 펜타곤 시티를 지나며 알링턴 카운티를 워싱턴 D.C. 시내 및 주변 지역과 이어줍니다. 택시, 차량 공유 서비스, 공항 셔틀도 호텔 이동 시 어렵지 않게 이용할 수 있습니다.",
+      "days": "묘지, 펜타곤 지역, 그리고 한두 개의 동네를 둘러보려면 대략 2~3일 정도를 계획하는 것이 좋습니다. 다만 많은 여행객들이 워싱턴 D.C. 본토로의 당일치기 여행을 위한 며칠간의 베이스캠프로 이곳을 활용하기도 합니다."
+    },
+    "ja": {
+      "blurb": "ワシントンD.C.とポトマック川を挟んで向かい合うバージニア州アーリントンには、ロスリン、クラレンドン、クリスタルシティといった密集した都会的なエリアが広がる一方、全米屈指の厳粛な史跡であるアーリントン国立墓地とペンタゴンも位置しています。ここは単なる観光地というよりも、昼間は首都ワシントンD.C.を歩いて探索し、夜には緑豊かな住宅街や活気あるレストラン街へ戻ってくることができる、便利で歩きやすい拠点と言えるでしょう。",
+      "getting": "ロナルド・レーガン・ワシントン・ナショナル空港（DCA）はアーリントン内にあり、クリスタルシティからわずか数分。ワシントン・メトロのブルーラインとイエローラインに接続しています。また、メトロのオレンジラインとシルバーラインはロスリンとペンタゴン・シティを通り、アーリントン郡をワシントンD.C.中心部やその周辺地域と結んでいます。タクシーやライドシェア、空港シャトルも充実しており、ホテルへの移動も簡単です。",
+      "days": "墓地、ペンタゴン周辺、そしていくつかのエリアを巡るには2〜3日ほど見ておくとよいでしょう。ただし、多くの旅行者はここを拠点にして、数日かけてワシントンD.C.中心部へ日帰り旅行するスタイルで利用しています。"
+    },
+    "es": {
+      "blurb": "Justo al otro lado del río Potomac desde Washington, D.C., Arlington, Virginia combina el denso perfil urbano de barrios como Rosslyn, Clarendon y Crystal City con dos de los lugares más solemnes del país: el Cementerio Nacional de Arlington y el Pentágono. Más que un destino en sí mismo, es una base cómoda y fácil de recorrer a pie desde la cual explorar la capital, para luego volver cada noche a sus tranquilas calles residenciales bordeadas de árboles y su animada escena gastronómica.",
+      "getting": "El Aeropuerto Nacional Ronald Reagan de Washington (DCA) se encuentra justo en Arlington, a pocos minutos de Crystal City, y conecta con las líneas Azul y Amarilla del Metro de Washington, mientras que las líneas Naranja y Plateada del Metro pasan por Rosslyn y Pentagon City, uniendo el condado con el centro de D.C. y la región circundante; también hay taxis, servicios de transporte privado y traslados en furgoneta desde el aeropuerto disponibles para llegar al hotel.",
+      "days": "Calcula entre 2 y 3 días para recorrer los principales atractivos de Arlington —el cementerio, la zona del Pentágono y uno o dos barrios—, aunque muchos visitantes lo usan como base durante varios días para hacer excursiones de un día a la propia Washington, D.C."
+    },
+    "zh": {
+      "blurb": "弗吉尼亚州阿灵顿(Arlington)就在波托马克河对岸,与华盛顿特区隔河相望。这里既有罗斯林(Rosslyn)、克拉伦登(Clarendon)、水晶城(Crystal City)等高楼林立的都市街区,又坐落着阿灵顿国家公墓和五角大楼这两处全美最庄严肃穆的地标。与其说阿灵顿是一个独立的旅游目的地,不如说它是探索首都的理想落脚点——白天步行即可穿梭于各大景点之间,夜晚则可回到绿树成荫的居民区,享受热闹的餐饮生活。",
+      "getting": "罗纳德·里根华盛顿国家机场(DCA)就坐落在阿灵顿境内,距水晶城仅几分钟车程,并与华盛顿地铁蓝线和黄线相连;此外,地铁橙线和银线贯穿罗斯林和五角大楼城(Pentagon City),将阿灵顿县与华盛顿特区市中心及周边地区紧密相连。出租车、网约车和机场班车服务也十分便利,可轻松往返酒店。",
+      "days": "建议安排2-3天时间游览阿灵顿的核心景点——国家公墓、五角大楼周边以及一两个特色街区。不过,许多游客会将阿灵顿作为多日落脚地,以此为基地前往华盛顿特区进行一日游。"
+    }
+  },
+  "George Town": {
+    "en": {
+      "blurb": "George Town is Penang's historic capital, a UNESCO World Heritage-listed port city where centuries of Malay, Chinese, Indian, and British colonial influence collide in rows of pastel shophouses, ornate clan temples, and vivid street art. It's also Malaysia's unofficial food capital, famed for hawker classics like char kway teow and asam laksa served from stalls that spill onto its narrow, atmospheric lanes.",
+      "getting": "Most travellers fly into Penang International Airport (PEN), located on the southeastern tip of Penang Island roughly 16km from the city centre, with taxis, e-hailing, and airport buses running into George Town. Overland travellers typically arrive via bus or car from Kuala Lumpur or other Malaysian hubs, crossing onto Penang Island via the Penang Bridge or by ferry from the mainland side at Butterworth.",
+      "days": "~2-3 days is enough to explore the UNESCO core zone's heritage streets, mansions, and street art while working through a proper hawker food crawl."
+    },
+    "ko": {
+      "blurb": "조지타운은 페낭의 유서 깊은 주도(州都)이자 유네스코 세계문화유산으로 등재된 항구 도시로, 말레이·중국·인도·영국 식민지 문화가 수 세기에 걸쳐 뒤섞이며 파스텔톤 상점 건물(숍하우스), 화려한 종족 사원, 생생한 거리 예술을 만들어냈다. 이곳은 말레이시아의 비공식 미식 수도이기도 한데, 차퀘이티아우(볶음 쌀국수)와 아쌈 락사 같은 노점 음식 명물들이 좁고 정취 넘치는 골목까지 이어지는 것으로 유명하다.",
+      "getting": "대부분의 여행자는 페낭 국제공항(PEN)을 통해 입국하는데, 이 공항은 페낭섬 남동쪽 끝에 위치해 시내 중심에서 약 16km 떨어져 있으며, 택시, 그랩 등 e-헤일링 서비스, 공항버스를 이용해 조지타운까지 이동할 수 있다. 육로 여행자는 보통 쿠알라룸푸르나 말레이시아 내 다른 거점 도시에서 버스나 자동차로 이동한 뒤, 페낭 대교를 건너거나 본토 쪽 버터워스에서 페리를 타고 페낭섬으로 들어온다.",
+      "days": "유네스코 핵심 지구의 유서 깊은 거리, 저택, 거리 예술을 둘러보면서 제대로 된 호커 음식 투어까지 즐기기에는 2~3일 정도면 충분하다."
+    },
+    "ja": {
+      "blurb": "ジョージタウンはペナンの歴史ある州都であり、ユネスコ世界遺産にも登録された港町。マレー、中国、インド、そして英国植民地時代の文化が何世紀にもわたって交錯し、パステルカラーのショップハウスが立ち並ぶ通り、装飾豊かな会館寺院、鮮やかなストリートアートを生み出してきた。また、マレーシアの「隠れた美食の都」としても知られ、チャークイティオやアッサムラクサといった屋台料理の名物が、狭く情緒あふれる路地にまであふれ出している。",
+      "getting": "多くの旅行者はペナン国際空港（PEN）を利用して到着する。空港はペナン島南東端に位置し、市中心部から約16km離れているが、タクシーや配車サービス、空港バスでジョージタウンまでアクセスできる。陸路の場合は、クアラルンプールなどマレーシア各地の拠点都市からバスや車で移動し、ペナン大橋を渡るか、対岸のバターワースからフェリーに乗ってペナン島へ入るのが一般的だ。",
+      "days": "ユネスコ世界遺産の中心地区にある歴史的な街並みや邸宅、ストリートアートを巡りつつ、屋台グルメ巡りをじっくり楽しむには2〜3日あれば十分だ。"
+    },
+    "es": {
+      "blurb": "George Town es la histórica capital de Penang, una ciudad portuaria declarada Patrimonio de la Humanidad por la UNESCO donde siglos de influencia malaya, china, india y colonial británica se entremezclan en hileras de casas-tienda de tonos pastel, ornamentados templos de clanes y un arte callejero vibrante. También es, de forma extraoficial, la capital gastronómica de Malasia, célebre por clásicos callejeros como el char kway teow y el asam laksa, que se sirven en puestos que se desbordan hacia sus estrechos y llenos de vida callejones.",
+      "getting": "La mayoría de los viajeros llega al Aeropuerto Internacional de Penang (PEN), ubicado en el extremo sureste de la isla de Penang, a unos 16 km del centro de la ciudad, desde donde taxis, apps de transporte y autobuses del aeropuerto conectan con George Town. Quienes viajan por tierra suelen llegar en autobús o automóvil desde Kuala Lumpur u otros puntos de Malasia, cruzando a la isla de Penang por el puente de Penang o en ferri desde el lado continental en Butterworth.",
+      "days": "Con unos 2-3 días es suficiente para explorar las calles históricas, mansiones y arte callejero de la zona núcleo declarada por la UNESCO, además de recorrer sus puestos callejeros de comida a fondo."
+    },
+    "zh": {
+      "blurb": "乔治市是槽榔屿的历史名城,这座被列入联合国教科文组织世界遗产名录的港口城市,几个世纪以来马来、华人、印度和英国殖民文化在此交融碰撞,街道两旁尽是色彩柔和的老式店屋、精美的宗祠庙宇,以及生动鲜活的街头艺术。这里也是马来西亚公认的美食之都,炒粿条、亚参叻沙等经典小吃摊遍布大街小巷,香气弥漫在充满市井气息的狹窄巷弄之间。",
+      "getting": "大多数旅客会飞抵槧榔屿国际机场(PEN),该机场位于槧榔岛东南端,距市中心约16公里,可搭乘出租车、网约车或机场巴士前往乔治市。陆路旅客通常从吉隆坡或马来西亚其他主要城市乘坐巴士或自驾前来,经槧榔大桥,或从大陆一侧的北海(Butterworth)搭乘渡轮抵达槧榔岛。",
+      "days": "大约2-3天便足以漫步联合国教科文组织核心保护区的历史街道、古老宅邸与街头艺术,同时好好来一场道地的小吃巡礼。"
+    }
+  },
+  "Pasay City": {
+    "en": {},
+    "ko": {
+      "blurb": "파사이 시티는 마닐라 여행의 관문입니다. 니노이 아키노 국제공항(MNL)을 비롯해 대형 쇼핑몰, 카지노, 그리고 상징적인 마닐라 만이 모여 있는 곳이죠. 몇 시간의 경유든 며칠간의 체류든, 이 활기찬 도시는 모든 여행자에게 즐길 거리를 선사합니다.",
+      "getting": "가는 방법과 시내 이동",
+      "days": "1~3일 추천 코스"
+    },
+    "ja": {
+      "blurb": "パセイ市は、マニラ観光の玄関口。ニノイ・アキノ国際空港(MNL)をはじめ、巨大ショッピングモールやカジノ、そして象徴的なマニラ湾が集まるエリアです。数時間の乗り継ぎでも数日間の滞在でも、あらゆる旅行者を満足させてくれる活気あふれる街です。",
+      "getting": "アクセスと市内移動",
+      "days": "1〜3日間のおすすめプラン"
+    },
+    "es": {
+      "blurb": "Pasay City es la puerta de entrada definitiva a Manila: hogar del Aeropuerto Internacional Ninoy Aquino (MNL), gigantescos centros comerciales, casinos y la icónica Bahía de Manila. Ya sea que tengas una escala de unas horas o varios días, esta ciudad vibrante ofrece algo para cada tipo de viajero.",
+      "getting": "Cómo llegar y moverse",
+      "days": "Lo mejor para 1-3 días"
+    },
+    "zh": {
+      "blurb": "帕赛市是马尼拉旅行的门户,不仅坐拥尼诺伊·阿基诺国际机场(MNL),还汇聚了大型购物中心、赌场以及标志性的马尼拉湾。无论你只是转机停留几小时,还是打算游玩数日,这座充满活力的城市都能满足各类旅行者的需求。",
+      "getting": "交通与市内出行",
+      "days": "1-3天精华玩法"
+    }
+  },
+  "Verona": {
+    "en": {
+      "blurb": "Verona is best known as the romantic, art-filled home of Shakespeare's star-crossed lovers, its Roman Arena still hosting summer opera beneath the same stone tiers used two millennia ago. Compact and walkable, its historic centre is a dense weave of medieval piazzas, riverside promenades, and pastel palazzi tucked into a bend of the Adige River.",
+      "getting": "Most travellers fly into Verona Villafranca Airport (VRN), then take the ATV Verona Airlink bus (line 199) directly to Verona Porta Nuova, the city's main rail station, a journey of roughly 15–20 minutes. Porta Nuova itself sits on a well-served regional and high-speed rail line, making onward travel to Venice, Milan, or Lake Garda straightforward, with the historic centre a further ~15-20 minute walk or short bus ride away.",
+      "days": "Plan on ~2 days to see the Arena, Piazza delle Erbe, and Juliet's House at an easy pace, or 3 days if adding a side trip to nearby Lake Garda."
+    },
+    "ko": {
+      "blurb": "베로나는 셰익스피어의 비극적 연인들이 살았던 낭만적이고 예술이 살아 숨 쉬는 도시로 가장 잘 알려져 있으며, 로마 시대의 원형 경기장 아레나에서는 2천 년 전과 같은 돌 좌석 위에서 여전히 여름 오페라 공연이 펼쳐집니다. 아담하고 걷기 좋은 이 도시의 구시가지는 중세풍 광장들, 강변 산책로, 그리고 아디제 강이 굽이치는 곳에 자리 잡은 파스텔톤 저택들이 촘촘히 얽혀 있는 곳입니다.",
+      "getting": "대부분의 여행객은 베로나 빌라프랑카 공항(VRN)으로 입국한 뒤, ATV 베로나 에어링크 버스(199번 노선)를 타고 베로나의 중앙역인 포르타 누오바역까지 약 15~20분 만에 이동합니다. 포르타 누오바역은 지역 열차와 고속 열차 노선이 잘 갖춰져 있어 베네치아, 밀라노, 가르다 호수로의 이동도 수월하며, 구시가지까지는 도보로 약 15~20분 혹은 짧은 버스 이동으로 닿을 수 있습니다.",
+      "days": "아레나, 에르베 광장, 줄리엣의 집을 여유롭게 둘러보려면 약 2일이면 충분하며, 인근 가르다 호수까지 다녀오려면 3일 일정을 추천합니다."
+    },
+    "ja": {
+      "blurb": "ヴェローナは、シェイクスピアの悲恋の物語で知られる、ロマンチックで芸術に満ちた街として有名です。ローマ時代の円形闘技場アレーナでは、2000年前と同じ石造りの観客席で、今も夏になるとオペラが上演されています。こぢんまりとして歩きやすい旧市街には、中世の面影を残す広場や川沿いの遊歩道、アディジェ川の湾曲部に寄り添うように建つパステルカラーの邸宅群が密集しています。",
+      "getting": "多くの旅行者はヴェローナ・ヴィッラフランカ空港(VRN)に到着し、そこからATVヴェローナ・エアリンクバス(199番系統)に乗って、市の中心駅であるヴェローナ・ポルタ・ヌオーヴァ駅まで約15〜20分で移動します。ポルタ・ヌオーヴァ駅は地域鉄道と高速鉄道の便が充実しており、ヴェネツィアやミラノ、ガルダ湖への乗り継ぎもスムーズです。旧市街まではさらに徒歩約15〜20分、または短時間のバス移動で到着します。",
+      "days": "アレーナ、エルベ広場、ジュリエッタの家をのんびり巡るなら2日ほど、近郊のガルダ湖まで足を延ばすなら3日ほど見ておくとよいでしょう。"
+    },
+    "es": {
+      "blurb": "Verona es conocida sobre todo como el romántico y artístico hogar de los amantes trágicos de Shakespeare, con su Arena romana que aún hoy acoge óperas de verano sobre las mismas gradas de piedra que se usaban hace dos mil años. Compacto y perfecto para recorrer a pie, su casco histórico es un entramado denso de plazas medievales, paseos junto al río y palacetes de tonos pastel, todo ello acurrucado en un recodo del río Adigio.",
+      "getting": "La mayoría de los viajeros llega al Aeropuerto de Verona Villafranca (VRN) y desde allí toma el autobús ATV Verona Airlink (línea 199) directo hasta Verona Porta Nuova, la estación de tren principal de la ciudad, en un trayecto de unos 15-20 minutos. La propia Porta Nuova cuenta con muy buenas conexiones de tren regional y de alta velocidad, lo que facilita continuar el viaje hacia Venecia, Milán o el lago de Garda, mientras que el centro histórico queda a otros 15-20 minutos caminando o a un breve trayecto en autobús.",
+      "days": "Calcula unos 2 días para ver con calma la Arena, la Piazza delle Erbe y la Casa de Julieta, o 3 días si añades una escapada al cercano lago de Garda."
+    },
+    "zh": {
+      "blurb": "维罗纳最广为人知的身份,是莎士比亚笔下那对命运多舛恋人的浪漫之乡,城中艺术气息浓厚。古罗马竞技场至今仍在同两千年前一样的石阶看台上,举办着夏季歌剧演出。老城区小巧精致,步行即可游览,中世纪广场、沿河步道与粉彩色调的宫殿式建筑密密交织,静静依偎在阿迪杰河的一处弯道旁。",
+      "getting": "大多数旅客会飞抵维罗纳维拉弗兰卡机场(VRN),然后搭乘ATV维罗纳空港快线巴士(199路),直达维罗纳新门站——这座城市的主要火车站,车程约15至20分钟。新门站本身连接着四通八达的区域列车和高速列车线路,前往威尼斯、米兰或加尔达湖都十分方便;从车站步行约15至20分钟,或搭乘短途巴士,即可抵达历史悠久的老城区。",
+      "days": "若想从容游览竞技场、香草广场和朱丽叶故居,安排约2天即可;如果想顺道去附近的加尔达湖走一走,建议预留3天时间。"
+    }
+  },
+  "Wuhan": {
+    "en": {
+      "blurb": "Wuhan is a sprawling Yangtze River metropolis in central China, famed for the Yellow Crane Tower, its vast lakes, and a fiery bowl of hot dry noodles (re gan mian) eaten on the go each morning. As the historic tri-city merger of Hankou, Wuchang, and Hanyang, it's long served as a crucial commercial and transport crossroads for the whole country.",
+      "getting": "Most travellers fly into Wuhan Tianhe International Airport (WUH), located <cite index=\"9-2\">in the suburban Huangpi District, approximately 26 kilometers north of the Wuhan city center</cite>, or arrive by high-speed rail at one of the city's three major stations—Wuhan, Hankou, or Wuchang—all <cite index=\"9-8\">connected to the city by dedicated expressways, the Wuhan Metro, and an intercity railway</cite>. From any of these hubs, the Wuhan Metro offers the most reliable onward connection into the city center.",
+      "days": "Plan on ~3-4 days to cover Wuhan's core sights across its three districts, including the Yellow Crane Tower, East Lake, and a stroll along the historic Hankou riverside bund."
+    },
+    "ko": {
+      "blurb": "우한은 중국 중부 양쯔강(창장) 유역에 자리한 광활한 대도시로, 황학루와 드넓은 호수들, 그리고 아침마다 사람들이 서둘러 먹는 얼큰한 러간몐(热干面, 뜨거운 비빔국수)으로 유명하다. 한커우, 우창, 한양 세 도시가 합쳐져 탄생한 이 도시는 오래전부터 중국 전역을 잇는 핵심 상업·교통 요충지 역할을 해왔다.",
+      "getting": "대부분의 여행객은 우한 톈허 국제공항(WUH)을 이용해 입국하는데, 이 공항은 우한 시내에서 북쪽으로 약 26km 떨어진 교외 지역인 황피구에 위치해 있다. 또는 고속철도를 이용해 우한, 한커우, 우창 세 개의 주요 기차역 중 한 곳으로 도착하기도 하는데, 이들 역은 모두 전용 고속도로와 우한 지하철, 그리고 도시 간 철도로 시내와 연결되어 있다. 이 어느 관문에서 출발하든, 시내 중심가로 이동할 때는 우한 지하철이 가장 믿을 만한 수단이다.",
+      "days": "황학루, 동호(둥후), 그리고 유서 깊은 한커우 강변 산책로까지 세 개 구역에 걸친 우한의 주요 명소를 둘러보려면 3~4일 정도를 계획하는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "武漢(ぶかん)は中国中部、長江のほとりに広がる大都市で、黄鶴楼や広大な湖々、そして毎朝人々が慌ただしくかき込む激辛の熱干麺(ローガンミェン)で知られている。漢口・武昌・漢陽という3つの町が統合されて生まれた歴史を持ち、古くから中国全土を結ぶ商業・交通の要衝として栄えてきた。",
+      "getting": "多くの旅行者は武漢天河国際空港(WUH)を利用する。同空港は武漢市中心部から北へ約26km離れた郊外の黄陂区に位置している。あるいは高速鉄道で武漢・漢口・武昌のいずれかの主要駅に到着することもでき、これら3駅はいずれも専用の高速道路、武漢地下鉄、都市間鉄道で市内と結ばれている。どの玄関口から入っても、市中心部へ向かうには武漢地下鉄が最も頼りになる移動手段だ。",
+      "days": "黄鶴楼や東湖(とうこ)、そして歴史ある漢口の川沿いの遊歩道(バンド)を含め、3つの地区にまたがる武漢の主要な見どころを巡るには3〜4日ほど見ておくとよい。"
+    },
+    "es": {
+      "blurb": "Wuhan es una vasta metrópolis a orillas del río Yangtsé, en el centro de China, famosa por la Torre de la Grulla Amarilla, sus extensos lagos y un picante plato de fideos secos calientes (re gan mian) que la gente devora de camino al trabajo cada mañana. Nacida de la histórica fusión de las tres ciudades de Hankou, Wuchang y Hanyang, ha sido durante mucho tiempo un cruce comercial y de transporte clave para todo el país.",
+      "getting": "La mayoría de los viajeros llega en avión al Aeropuerto Internacional Tianhe de Wuhan (WUH), ubicado en el distrito suburbano de Huangpi, a unos 26 kilómetros al norte del centro de la ciudad, o bien en tren de alta velocidad a una de las tres principales estaciones de la ciudad —Wuhan, Hankou o Wuchang—, todas ellas conectadas al centro urbano mediante autopistas exclusivas, el metro de Wuhan y una línea ferroviaria interurbana. Desde cualquiera de estos puntos de entrada, el metro de Wuhan es la forma más fiable de llegar al centro de la ciudad.",
+      "days": "Conviene reservar entre 3 y 4 días para recorrer los principales atractivos de Wuhan repartidos en sus tres distritos, incluyendo la Torre de la Grulla Amarilla, el Lago del Este y un paseo por el histórico malecón junto al río en Hankou."
+    },
+    "zh": {
+      "blurb": "武汉是中国中部长江边的一座大都会,以黄鹤楼、浩渺的湖泊,以及清晨人们边走边吃的一碗火辣热干面而闻名。作为汉口、武昌、汉阳三镇历史性合并而成的城市,它长期以来一直是全国举足轻重的商贸与交通枢纽。",
+      "getting": "大多数游客选择飞抵武汉天河国际机场(WUH),该机场位于武汉市中心以北约26公里的黄陂区郊外;也有不少人乘高铁抵达武汉、汉口或武昌三大火车站中的一个——这三座车站都通过专用高速公路、武汉地铁以及城际铁路与市区相连。无论从哪个门户入城,武汉地铁都是前往市中心最可靠的交通方式。",
+      "days": "建议安排3至4天时间,游览分布在三镇的武汉核心景点,包括黄鹤楼、东湖,以及沿汉口历史悠久的江滩漫步。"
     }
   }
 }

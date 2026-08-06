@@ -70,8 +70,30 @@ const words = (v) =>
 // ("open until 6") is not a price, and a currency symbol next to digits or a
 // named-currency amount is unambiguous in every locale the site publishes in.
 const PRICE_FREE = /\b(free (entry|admission|to enter|of charge)|admission is free|no (entry|admission) fee|entry is free)\b/i;
-const PRICE_MONEY = /(?:₩|KRW|\$|US\$|€|£|¥|฿|RM|₱|₫|Rp|S\$|HK\$)\s?\d[\d,.]*|\b\d[\d,]*\s?(?:won|baht|yen|euros?|dollars?|pesos?|ringgit|rupiah|dong)\b/i;
+// Symbols and currency words, case-insensitive. The list follows the countries
+// the site actually publishes: the UAE, India, China and Turkey guides were
+// invisible to this rule, so an AED/₹/元/₺ figure could age forever without
+// being flagged (found 2026-08-06) — the check was off in exactly the places
+// where a stated price is least likely to hold.
+const PRICE_SYMBOL = /(?:₩|\$|US\$|€|£|¥|฿|RM|₱|₫|₹|₺|Rp|S\$|HK\$|NT\$|A\$|C\$|元|圓)\s?\d[\d,.]*/i;
+const PRICE_WORD = /\b\d[\d,.]*\s?(?:won|baht|yen|yuan|euros?|dollars?|pesos?|ringgit|rupiah|rupees?|dong|dirhams?|liras?)\b/i;
+// ISO codes are matched CASE-SENSITIVELY on purpose: "TRY" is also the English
+// verb, and /i would flag "try 2 dishes" as a price claim in every food guide
+// on the site. Both orders occur in the corpus ("AED 50" and "50 AED").
+const PRICE_ISO = /\b(?:KRW|JPY|USD|THB|EUR|GBP|CNY|RMB|VND|AED|TWD|IDR|MYR|INR|PHP|TRY|SGD|HKD|AUD|CAD|CHF)\s?\d[\d,.]*|\b\d[\d,.]*\s?(?:KRW|JPY|USD|THB|EUR|GBP|CNY|RMB|VND|AED|TWD|IDR|MYR|INR|PHP|TRY|SGD|HKD|AUD|CAD|CHF)\b/;
+// First matching claim, in the order the rules are declared. Exported shape is
+// a string or undefined so the caller can quote what it found.
+const priceClaim = (body) =>
+  (PRICE_FREE.exec(body) || PRICE_SYMBOL.exec(body) || PRICE_WORD.exec(body) || PRICE_ISO.exec(body) || [])[0];
 const STALE_PRICE_DAYS = 365;
+
+// "Newly opened" is a claim with a shelf life, and it had none: live posts tell
+// the reader a venue "opened in 2025" or is "brand new", with nothing to retire
+// the wording. A place that opened two years ago is not new, and the sentence
+// quietly turns false while every other check still reports the post healthy.
+// Same shape as STALE-PRICE-CLAIM.
+const NEW_CLAIM = /\b(?:newly|recently|just) opened\b|\bopened (?:in|its doors in) (?:19|20)\d{2}\b|\bbrand[- ]new\b|\bnewly (?:built|renovated|refurbished)\b|\bopened last (?:year|month)\b/i;
+const STALE_NEW_DAYS = 365;
 const daysBetween = (a, b) => Math.round((new Date(b) - new Date(a)) / 864e5);
 
 /**
@@ -320,11 +342,22 @@ export function postProblems(p, { today = new Date().toISOString().slice(0, 10) 
   // months old is normal travel-guide practice, one past a year is a guess.
   // Silent today by construction (the oldest post is weeks old) — it arms
   // itself as the site ages, which is the point.
-  if (p.body && (PRICE_FREE.test(p.body) || PRICE_MONEY.test(p.body))) {
+  if (p.body) {
+    const claim = priceClaim(p.body);
     const last = p.updatedDate || p.pubDate;
-    if (last && daysBetween(last, today) > STALE_PRICE_DAYS) {
-      const claim = (p.body.match(PRICE_FREE) || p.body.match(PRICE_MONEY))[0];
+    if (claim && last && daysBetween(last, today) > STALE_PRICE_DAYS) {
       issues.push(`STALE-PRICE-CLAIM: ${p.f} — "${claim}" unverified since ${last} (>${STALE_PRICE_DAYS} days)`);
+    }
+  }
+
+  // "Newly opened" ages the same way a price does, and faster. Measured from
+  // pubDate, NOT updatedDate: a refresh that re-checks Google's hours does not
+  // re-read the sentence claiming the place is new, so letting an automated
+  // touch reset this clock would keep the claim alive forever.
+  if (p.body && NEW_CLAIM.test(p.body) && p.pubDate) {
+    if (daysBetween(p.pubDate, today) > STALE_NEW_DAYS) {
+      const claim = p.body.match(NEW_CLAIM)[0];
+      issues.push(`STALE-NEW-CLAIM: ${p.f} — "${claim}" written ${p.pubDate} (>${STALE_NEW_DAYS} days ago)`);
     }
   }
 

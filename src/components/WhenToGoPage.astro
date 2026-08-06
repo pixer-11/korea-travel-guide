@@ -6,9 +6,11 @@ import Newsletter from './Newsletter.astro';
 import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 import { localizeEvent } from '../i18n/events';
+import { holidayLabel } from '../i18n/holidays';
 import { formatHourRanges } from '../lib/hours.mjs';
 import { loadCardTranslations, cardHelpers } from '../i18n/cards';
 import { MONTHS, monthSlug } from '../lib/when-to-go.mjs';
+import { pickOgPhoto } from '../lib/ogPhoto.mjs';
 
 // One country × month page. Every sentence is assembled from measured values —
 // climate normals, holiday dates, our own foot-traffic records — so these build
@@ -114,7 +116,7 @@ const jsonLd = {
 // og:image gets the FULL-SIZE hero, not the 640px wall thumb: crawlers fetch
 // og:image separately (page weight is unaffected) and Google Discover only
 // serves large cards from images ≥1200px wide. Wall thumbs stay for on-page grids.
-const ogPhoto = (data.topVenues ?? []).find((p: any) => p?.data?.heroImage?.url)?.data?.heroImage?.url;
+const ogPhoto = pickOgPhoto(data.topVenues);
 
 ---
 
@@ -172,7 +174,7 @@ const ogPhoto = (data.topVenues ?? []).find((p: any) => p?.data?.heroImage?.url)
             {data.holidays.map((h: any) => (
               <li>
                 <span class="wtg-date">{holidayDate(h.date)}</span>
-                <span>{h.localName}{h.localName !== h.name ? ` · ${h.name}` : ''}</span>
+                <span>{holidayLabel(data.country, h.localName, h.name, lang)}</span>
               </li>
             ))}
           </ul>

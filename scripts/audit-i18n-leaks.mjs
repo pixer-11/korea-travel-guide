@@ -9,7 +9,8 @@
 //   node scripts/audit-i18n-leaks.mjs            # after `npm run build`
 //   node scripts/audit-i18n-leaks.mjs --per 12   # more pages per type
 import { readdirSync, readFileSync, existsSync, statSync } from 'node:fs';
-import { join } from 'node:path';
+import { fileURLToPath } from 'node:url';
+import { dirname, join } from 'node:path';
 
 const DIST = 'dist';
 const LANGS = ['ko', 'ja', 'es', 'zh'];
@@ -42,8 +43,34 @@ const TYPES = [
 // <script> payloads are meant to stay English and must not trip the audit.
 export const stripScripts = (h) => h.replace(/<script[\s\S]*?<\/script>/gi, '');
 
+// Public-holiday names, built FROM the translation table rather than hand-listed,
+// so a holiday added to the table is policed the day it ships. Localized pages
+// printed "元旦 · New Year's Day" on 356 pages while every hand-written rule here
+// reported clean (found 2026-08-06) — a leak nobody had thought to name.
+// The English name is only a leak after the "·" separator: an event or venue
+// legitimately called "Republic Day" elsewhere on the page must not trip it.
+function holidayNameRule() {
+  const table = JSON.parse(
+    readFileSync(join(dirname(fileURLToPath(import.meta.url)), '../src/i18n/holidays.json'), 'utf8'),
+  );
+  const names = [...new Set(Object.keys(table).map((k) => k.split('|')[1]))]
+    .sort((a, b) => b.length - a.length) // longest first: "Eid al-Adha First Day" before "Eid al-Adha"
+    .map((n) => n.replace(/[.*+?^${}()|[\]\\]/g, String.raw`\$&`))
+    // Astro escapes apostrophes, so the built page reads "New Year&#39;s Day".
+    // A literal ' in the pattern would silently never match — 14 of these names
+    // carry one, including the most common holiday on the site.
+    .map((n) => n.replace(/'/g, String.raw`(?:'|&#39;|&#x27;|&apos;|’)`));
+  return new RegExp(String.raw`·\s*(?:${names.join('|')})\b`);
+}
+
 // Spanish legitimately abbreviates hora/minuto as h/min, so the unit rule skips it.
 export const RULES = [
+  { id: 'holiday-english-name', re: holidayNameRule(), langs: LANGS },
+  // The holiday feed marks provisional Islamic-calendar dates with an English
+  // "(Tentative Date)" — on the LOCAL name as well as the English one. The
+  // first fix translated only the gloss and left the suffix on 12 Turkish
+  // pages; the rule above could not see it because it only looks after the "·".
+  { id: 'holiday-tentative-english', re: /\(Tentative Date\)/i, langs: LANGS },
   { id: 'klook-en-US', re: /klook\.com(%2F|\/)en-US/, langs: LANGS },
   { id: 'tickets-tours', re: /Tickets &(amp;)? tours for/, langs: LANGS },
   { id: 'price-Free', re: />Free</, langs: LANGS },

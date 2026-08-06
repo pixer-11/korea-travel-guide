@@ -13,6 +13,7 @@ import { loadCardTranslations, cardHelpers } from '../i18n/cards';
 import { pickRepHeroUrl, tileSize } from '../lib/repImage';
 import countriesData from '../../data/countries.json';
 import wallData from '../../data/wall.json';
+import { heroIsWideEnough } from '../lib/ogPhoto.mjs';
 
 interface Props { lang: Lang }
 const { lang } = Astro.props;
@@ -42,12 +43,18 @@ const isoWeek = (d) => {
 
 // Eligible = a real place, a photo good enough to fill the cover, and enough
 // reviews that it is genuinely a landmark rather than a quiet local spot.
+// heroIsWideEnough keeps a measured-narrow photo out of the rotation. The cover
+// is also the home page's og:image, and one 1024px Wikimedia original (Fort
+// Aguada) put the home page below Discover's 1200px large-card floor for a full
+// week (found 2026-08-06). Unmeasured heroes still qualify — a new post has no
+// probe yet, and the cover pool must not shrink to nothing.
 const coverPool = posts.filter(
   (p) =>
     p.data.category === 'attraction' &&
     p.data.place?.name &&
     p.data.heroImage?.url &&
     !p.data.heroImage.url.includes('placeholder') &&
+    heroIsWideEnough(p) &&
     (p.data.place?.userRatingsTotal ?? 0) >= 5000
 );
 

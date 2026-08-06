@@ -123,6 +123,25 @@ flags('a price claim older than a year', 'STALE-PRICE-CLAIM', { pubDate: '2025-0
 flags('an aged free-entry promise', 'STALE-PRICE-CLAIM', { pubDate: '2025-01-01', body: 'Entry is free, so just walk in.' });
 clean('an updatedDate resets the clock', { pubDate: '2025-01-01', updatedDate: '2026-07-20', body: 'A plate runs about 80 baht.' });
 clean('a number that is not money', { pubDate: '2024-01-01', body: 'The hall seats 500 and opens at 9.' });
+// 통화가 빠져 있으면 그 나라 글은 낡음 검사 자체가 걸리지 않는다 — 검사기가
+// 조용한 것과 콘텐츠가 깨끗한 것을 구별할 수 없게 된다.
+flags('an aged dirham price', 'STALE-PRICE-CLAIM', { pubDate: '2025-01-01', body: 'Entry runs AED 50 per adult.' });
+flags('an aged rupee price', 'STALE-PRICE-CLAIM', { pubDate: '2025-01-01', body: 'Tickets are ₹200 at the gate.' });
+flags('an aged yuan price', 'STALE-PRICE-CLAIM', { pubDate: '2025-01-01', body: 'A bowl costs 元35 near the station.' });
+flags('an aged lira price', 'STALE-PRICE-CLAIM', { pubDate: '2025-01-01', body: 'Admission is ₺150.' });
+flags('an aged ISO-coded price written after the number', 'STALE-PRICE-CLAIM', { pubDate: '2025-01-01', body: 'Expect 300 THB for the set menu.' });
+// "TRY" 는 영어 동사이기도 하다. 대소문자를 구분하지 않으면 모든 맛집 글이 걸린다.
+clean('the verb "try" before a number is not a price', { pubDate: '2024-01-01', body: 'Try 2 dishes and share them.' });
+
+// ── 낡은 "새로 문 열었다" 주장 ───────────────────────────────
+clean('a fresh newness claim is fine', { pubDate: '2026-06-01', body: 'This newly opened cafe sits by the river.' });
+flags('a newness claim older than a year', 'STALE-NEW-CLAIM', { pubDate: '2025-01-01', body: 'This newly opened cafe sits by the river.' });
+flags('an aged "opened in 2024"', 'STALE-NEW-CLAIM', { pubDate: '2025-01-01', body: 'The museum opened in 2024 on the waterfront.' });
+flags('an aged "brand-new"', 'STALE-NEW-CLAIM', { pubDate: '2025-01-01', body: 'A brand-new rooftop bar tops the tower.' });
+// 갱신은 구글 필드만 다시 읽을 뿐 문장을 다시 읽지 않는다 — 시계를 되돌리면
+// 주장이 영원히 살아남는다.
+flags('an updatedDate does NOT reset the newness clock', 'STALE-NEW-CLAIM', { pubDate: '2025-01-01', updatedDate: '2026-07-20', body: 'This newly opened cafe sits by the river.' });
+clean('an old post that claims nothing about newness', { pubDate: '2024-01-01', body: 'The market has traded here for decades.' });
 
 // ── region 슬래시 (라우트를 깨뜨림) ──────────────────────────
 flags('slash in region', 'SLASH', { region: 'Seoul/Gyeonggi' });
