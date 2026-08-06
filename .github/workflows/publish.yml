@@ -563,6 +563,51 @@ jobs:
             --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
             --data-urlencode "text=$TXT" >/dev/null || true
 
+      # How OLD is each open finding? Every defect fixed on 2026-08-06 had been
+      # named correctly by one of these checkers for days — eleven unverified
+      # photos, a duplicate event pair, a missing translation — and each daily
+      # report read the same whether the finding was one day old or two weeks.
+      # Ages make neglect visible; a finding that disappears is dropped from
+      # the ledger. Never gates: it measures the other checks.
+      - name: Track how long findings have been open
+        id: ledger
+        continue-on-error: true
+        run: node scripts/track-issues.mjs | tee /tmp/ledger.log
+
+      # The ledger IS the memory — a runner starts from a fresh checkout, so an
+      # uncommitted ledger would report every finding as brand new every day
+      # and nothing could ever age. Committed on its own, after the main commit
+      # step, because it is written later in the run than that step executes.
+      - name: Commit the issue ledger
+        if: always()
+        run: |
+          if [ ! -f data/issue-ledger.json ]; then exit 0; fi
+          git config user.name "Korea Travel Guide"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/issue-ledger.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "chore: issue ledger ($(date -u +%Y-%m-%d))"
+          bash scripts/git-push-retry.sh
+
+      - name: Escalate findings older than 3 days
+        if: always()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          if [ -z "$TELEGRAM_BOT_TOKEN" ] || [ ! -s /tmp/ledger.log ]; then exit 0; fi
+          STALE=$(grep -o 'stale=[0-9]*' /tmp/ledger.log | head -1 | grep -o '[0-9]*$' || echo 0)
+          if [ "${STALE:-0}" = "0" ]; then exit 0; fi
+          {
+            echo "🔴 Wander Atlas — 오래 방치된 지적 ${STALE}건"
+            grep '🔴' /tmp/ledger.log || true
+            echo ""
+            echo "3일 넘게 같은 지적이 반복되고 있습니다. 클로드에게 '묵은 지적 처리해줘'라고 하세요."
+          } > /tmp/stale.txt
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+            --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
+            --data-urlencode "text@/tmp/stale.txt" >/dev/null || true
+
       - name: Notify Telegram
         if: always()
         env:
