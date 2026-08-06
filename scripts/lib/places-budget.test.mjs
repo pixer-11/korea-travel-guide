@@ -6,9 +6,10 @@
 // 0" 세 가지를 고정한다.
 //
 //   node scripts/lib/places-budget.test.mjs
-import { mkdtempSync, rmSync, writeFileSync, mkdirSync } from 'node:fs';
+import { mkdtempSync, rmSync, writeFileSync, mkdirSync, readFileSync } from 'node:fs';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
+import { fileURLToPath } from 'node:url';
 import { execFileSync } from 'node:child_process';
 
 // 원장 파일 경로가 모듈에 고정돼 있으므로, 임시 저장소를 만들어 그 안에서 돌린다.
@@ -17,8 +18,12 @@ function inSandbox(script) {
   try {
     mkdirSync(join(dir, 'data'), { recursive: true });
     mkdirSync(join(dir, 'scripts', 'lib'), { recursive: true });
-    const src = new URL('./places-budget.mjs', import.meta.url);
-    writeFileSync(join(dir, 'scripts', 'lib', 'places-budget.mjs'), execFileSync(process.execPath, ['-e', `process.stdout.write(require('fs').readFileSync(${JSON.stringify(src.pathname.replace(/^\//, ''))}, 'utf8'))`], { encoding: 'utf8' }));
+    // fileURLToPath, not pathname surgery. Stripping a leading slash turns
+    // Windows' "/C:/…" into a usable "C:/…" and Linux's "/home/…" into a broken
+    // "home/…" — so this passed locally and failed in CI with ENOENT on every
+    // case (2026-08-06).
+    const src = fileURLToPath(new URL('./places-budget.mjs', import.meta.url));
+    writeFileSync(join(dir, 'scripts', 'lib', 'places-budget.mjs'), readFileSync(src, 'utf8'));
     writeFileSync(join(dir, 'run.mjs'), script);
     return execFileSync(process.execPath, ['run.mjs'], { cwd: dir, encoding: 'utf8' }).trim();
   } finally { rmSync(dir, { recursive: true, force: true }); }
