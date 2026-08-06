@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { eventSchemaName } from './eventName.mjs';
+import { eventSchemaName, eventProperName } from './eventName.mjs';
 
 test('drops the standard "(City)" article suffix', () => {
   assert.equal(
@@ -73,4 +73,35 @@ test('does not eat a mid-title word that merely starts like the suffix', () => {
     eventSchemaName('What to Know Fest 2026: What to Know (Seoul)'),
     'What to Know Fest 2026',
   );
+});
+
+// ── eventProperName: what an image archive can actually match ────
+// Each expectation below was checked against the Commons search API: the
+// left-hand title returns nothing usable, the right-hand name returns real
+// photographs of the act or the tournament.
+test('strips tour branding after a dash', () => {
+  assert.equal(eventProperName('Post Malone – BIG ASS World Tour: What to Know (Singapore)'), 'Post Malone');
+  assert.equal(eventProperName('BTS World Tour – Arlington: What to Know (Arlington)'), 'BTS World Tour');
+});
+
+test('strips the edition year and the parenthetical', () => {
+  assert.equal(eventProperName('EuroVolley Women 2026 (Final Stage): What to Know (Istanbul)'), 'EuroVolley Women');
+  assert.equal(eventProperName('Comiket (Comic Market) 108: What to Know (Tokyo)'), 'Comiket');
+  assert.equal(eventProperName('2026 China Open (Snooker): What to Know (Taiyuan)'), 'China Open');
+  assert.equal(eventProperName('BWF World Championships 2026: What to Know (New Delhi)'), 'BWF World Championships');
+});
+
+test('keeps a multi-word name that IS the event', () => {
+  assert.equal(eventProperName('Formula 1 Spanish Grand Prix: What to Know (Madrid)'), 'Formula 1 Spanish Grand Prix');
+  assert.equal(eventProperName('Aomori Nebuta Matsuri: What to Know (Aomori)'), 'Aomori Nebuta Matsuri');
+});
+
+test('caps the length so the archive still matches', () => {
+  const out = eventProperName('One Two Three Four Five Six Seven: What to Know (X)');
+  assert.equal(out.split(' ').length, 5, out);
+});
+
+test('never returns empty', () => {
+  assert.equal(eventProperName(''), '');
+  assert.ok(eventProperName('2026: What to Know (Seoul)').length > 0);
 });

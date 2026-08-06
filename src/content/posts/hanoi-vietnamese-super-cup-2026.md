@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'Vietnamese Super Cup 2026: What to Know (Hanoi)'
 description: >-
   Vietnamese Super Cup 2026 in Hanoi, Vietnam — August 30, 2026. What it is,
@@ -10,13 +10,6 @@ category: event
 pubDate: '2026-07-29'
 eventStartDate: '2026-08-30'
 eventEndDate: '2026-08-30'
-heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1731303070503-cba658c417c3?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SGFub2klMjBWaWV0bmFtJTIwY29uY2VydCUyMGxpdmUlMjBldmVudCUyMHN0YWdlfGVufDB8MHx8fDE3ODUzNjE3NDh8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Claire on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@ngnng?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - hanoi

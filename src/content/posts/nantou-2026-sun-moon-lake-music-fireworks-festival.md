@@ -52,7 +52,7 @@ faq:
       lake's regular attractions (ropeway, Wenwu Temple, cycling paths) with an
       evening festival event, since fireworks and concerts run after dark.
 aiGenerated: true
-draft: true
+draft: false
 eventRecurring: true
 ---
 

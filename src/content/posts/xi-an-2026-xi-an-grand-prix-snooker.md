@@ -53,7 +53,7 @@ faq:
       flights, and hotels in Xi'an well in advance if attending during those
       dates.
 aiGenerated: true
-draft: true
+draft: false
 eventRecurring: true
 ---
 

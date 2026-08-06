@@ -48,7 +48,7 @@ faq:
       most crowded — expect packed shuttles and a busier field. A weekday
       earlier in the run gives a calmer experience with still-full launches.
 aiGenerated: true
-draft: true
+draft: false
 eventRecurring: true
 ---
 

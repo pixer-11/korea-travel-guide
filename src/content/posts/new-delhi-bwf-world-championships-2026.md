@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'BWF World Championships 2026: What to Know (New Delhi)'
 description: >-
   The 2026 BWF World Championships run August 17–23, 2026 at the Indira Gandhi
@@ -10,13 +10,6 @@ category: event
 pubDate: '2026-07-23'
 eventStartDate: '2026-08-17'
 eventEndDate: '2026-08-23'
-heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/BWF_IRS_Loading_-_Indonesia_Open_2026.jpg/1920px-BWF_IRS_Loading_-_Indonesia_Open_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  credit: 'Photo: Griff88 / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:BWF_IRS_Loading_-_Indonesia_Open_2026.jpg
 gallery: []
 tags:
   - new delhi

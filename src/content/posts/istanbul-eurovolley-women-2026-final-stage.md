@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'EuroVolley Women 2026 (Final Stage): What to Know (Istanbul)'
 description: >-
   EuroVolley Women 2026 (Final Stage) in Istanbul, Turkey — August 21 -
@@ -10,13 +10,6 @@ category: event
 pubDate: '2026-07-29'
 eventStartDate: '2026-08-21'
 eventEndDate: '2026-09-06'
-heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1696711113690-9e6e60745288?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8SXN0YW5idWwlMjBUdXJrZXklMjB2b2xsZXliYWxsJTIwbWF0Y2h8ZW58MHwwfHx8MTc4NTM2Mjg4Nnww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Joshua Kettle on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@joshuakettle?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - istanbul

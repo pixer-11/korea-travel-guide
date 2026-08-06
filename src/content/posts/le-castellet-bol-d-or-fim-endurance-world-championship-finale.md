@@ -51,7 +51,7 @@ faq:
       popular finale weekend — check the official site early rather than
       assuming walk-up access.
 aiGenerated: true
-draft: true
+draft: false
 eventRecurring: true
 ---
 

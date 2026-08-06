@@ -49,7 +49,7 @@ faq:
       from the Blue Mosque, Hagia Sophia, and Topkapı Palace, so it's easy to
       pair the concert with a day of sightseeing.
 aiGenerated: true
-draft: true
+draft: false
 eventRecurring: false
 ---
 

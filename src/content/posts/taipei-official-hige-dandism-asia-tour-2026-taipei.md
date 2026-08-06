@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'Official HIGE DANDism Asia Tour 2026 – Taipei: What to Know (Taipei)'
 description: >-
   Official HIGE DANDism Asia Tour 2026 – Taipei in Taipei, Taiwan — August
@@ -10,13 +10,6 @@ category: event
 pubDate: '2026-07-29'
 eventStartDate: '2026-08-29'
 eventEndDate: '2026-08-30'
-heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1663440237872-7d00d16d9e9b?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8VGFpcGVpJTIwVGFpd2FuJTIwY29uY2VydCUyMHN0YWdlJTIwbGl2ZSUyMG11c2ljfGVufDB8MHx8fDE3ODUzNjIwMzJ8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Kenzo Tu on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@kenzotu?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - taipei

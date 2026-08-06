@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: >-
   2026 Coupang Play Series: Manchester City vs Atlético Madrid: What to Know
   (Seoul)
@@ -13,12 +13,6 @@ category: event
 pubDate: '2026-07-24'
 eventStartDate: '2026-08-05'
 eventEndDate: '2026-08-09'
-heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Coupang_2.jpg/1920px-Coupang_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  credit: 'Photo: Bonnielou2013 / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Coupang_2.jpg'
 gallery: []
 tags:
   - seoul

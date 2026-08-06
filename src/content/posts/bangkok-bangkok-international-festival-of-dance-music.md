@@ -49,7 +49,7 @@ faq:
       pick one or two specific productions and plan a shorter trip around those
       dates rather than trying to cover the whole season.
 aiGenerated: true
-draft: true
+draft: false
 eventRecurring: true
 ---
 

@@ -9,14 +9,6 @@ category: event
 pubDate: '2026-07-29'
 eventStartDate: '2026-09-22'
 eventEndDate: '2026-09-27'
-heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/c/cf/Billie_Jean_King_in_2024.jpg
-  credit: >-
-    Photo: Office of the Governor of Massachusetts / Wikimedia Commons (Public
-    domain)
-  license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Billie_Jean_King_in_2024.jpg'
 tags:
   - shenzhen
   - event
@@ -58,8 +50,9 @@ faq:
       the subtropical wet season. Matches will be played indoors or under cover
       regardless of weather.
 aiGenerated: true
-draft: true
+draft: false
 eventRecurring: true
+gallery: []
 ---
 
 ## Why this event matters

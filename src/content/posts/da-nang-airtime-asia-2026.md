@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'Airtime Asia 2026: What to Know (Da Nang)'
 description: >-
   Airtime Asia 2026 in Da Nang, Vietnam — August 13-16, 2026. What it is, when
@@ -10,11 +10,6 @@ category: event
 pubDate: '2026-07-29'
 eventStartDate: '2026-08-13'
 eventEndDate: '2026-08-16'
-heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/1/1a/Airtime-26.06.2013.png'
-  credit: 'Photo: O.T.S.U. / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Airtime-26.06.2013.png'
 gallery: []
 tags:
   - da nang

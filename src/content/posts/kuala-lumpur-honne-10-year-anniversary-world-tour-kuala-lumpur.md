@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: >-
   HONNE 10 Year Anniversary World Tour – Kuala Lumpur: What to Know (Kuala
   Lumpur)
@@ -12,11 +12,6 @@ category: event
 pubDate: '2026-07-29'
 eventStartDate: '2026-08-07'
 eventEndDate: '2026-08-08'
-heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/6/67/Honne_1968.jpg'
-  credit: 'Photo: Ninert / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Honne_1968.jpg'
 gallery: []
 tags:
   - kuala lumpur

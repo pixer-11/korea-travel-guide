@@ -191,14 +191,22 @@ async function writeDiscovered(item, ctx) {
     heroImage, gallery: [],
     tags: [item.city.toLowerCase(), kind === 'event' ? 'event' : 'new & trending'],
     quickAnswer, faq, aiGenerated: true,
-    // A post with no hero starts life PARKED. It used to publish as draft:false
-    // and the gate quarantined it moments later for exactly that reason — 42
-    // posts on 2026-08-06, reported to the owner as "콘텐츠 검증 실패", which
-    // reads like broken content rather than "we could not find a photo we
-    // trust". The end state was always identical; only the alarm was wrong.
-    // Parked, it is an ordinary photo-quarantine, and the alt-photo patrol
-    // publishes it the night it finds a hero that clears the vision gate.
-    draft: !heroImage,
+    // A VENUE post with no hero starts life PARKED: a café guide with no
+    // picture of the café is a weak page, and the alt-photo patrol publishes
+    // it the night it finds a hero that clears the vision gate. (It used to
+    // publish as draft:false and be quarantined moments later for the same
+    // reason — 42 posts on 2026-08-06, reported as "콘텐츠 검증 실패", which
+    // reads like broken content rather than "no photo we trust yet".)
+    //
+    // An EVENT ships regardless. No free source carries a photo of most
+    // concerts, so parking them meant they never appeared at all: 132 posts
+    // sat unpublished and 68 were days from automatic deletion — while events
+    // were the site's strongest pages in Search Console (top page by
+    // impressions, positions 3-8 and 25-100% CTR on event queries). Someone
+    // searching "comiket 108" wants the date, the venue and the ticket link,
+    // and those are on the page with or without a picture. The rule that does
+    // not move: a WRONG photo never ships (2026-08-07).
+    draft: cat === 'event' ? false : !heroImage,
   };
   const src = kind === 'event'
     ? 'Editor-reviewed, AI-assisted, using current web sources. Event dates and tickets change — always confirm on the official site.'

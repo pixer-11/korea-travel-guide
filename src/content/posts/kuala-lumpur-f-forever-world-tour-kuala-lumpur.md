@@ -9,11 +9,6 @@ category: event
 pubDate: '2026-07-29'
 eventStartDate: '2026-08-07'
 eventEndDate: '2026-08-08'
-heroImage:
-  url: /images/placeholder-market.svg
-  credit: Placeholder image
-  license: placeholder
-  source: local
 gallery: []
 tags:
   - kuala lumpur

@@ -47,7 +47,7 @@ faq:
       official tour page for ticket sales, gate times, and any updates —
       third-party resale sites can carry inflated or fake tickets.
 aiGenerated: true
-draft: true
+draft: false
 eventRecurring: false
 ---
 

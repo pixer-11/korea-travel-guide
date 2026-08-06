@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'Post Malone – BIG ASS World Tour: What to Know (Singapore)'
 description: >-
   Post Malone – BIG ASS World Tour in Singapore, Singapore — September 25, 2026.
@@ -10,13 +10,6 @@ category: event
 pubDate: '2026-07-24'
 eventStartDate: '2026-09-25'
 eventEndDate: '2026-09-25'
-heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1541267365358-43ba30c96460?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U2luZ2Fwb3JlJTIwU2luZ2Fwb3JlJTIwY29uY2VydCUyMHN0YWdlJTIwbGl2ZSUyMG11c2ljfGVufDB8MHx8fDE3ODQ5MjQzMzV8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Guo Xin Goh on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@9oh9x?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - singapore

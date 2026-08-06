@@ -49,7 +49,7 @@ faq:
       lightweight clothing — mid-August in Tokyo is hot and humid, and much of
       your time will be spent queuing outdoors.
 aiGenerated: true
-draft: true
+draft: false
 eventRecurring: true
 ---
 

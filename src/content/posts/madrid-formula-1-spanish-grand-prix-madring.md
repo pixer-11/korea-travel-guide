@@ -48,7 +48,7 @@ faq:
       the Prado/Reina Sofia/Thyssen museum triangle, so many visitors treat it
       as a full city trip built around race weekend.
 aiGenerated: true
-draft: true
+draft: false
 eventRecurring: true
 ---
 

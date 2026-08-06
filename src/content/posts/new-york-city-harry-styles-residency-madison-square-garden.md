@@ -51,7 +51,7 @@ faq:
       walk away, and Midtown hotels cluster around Penn Station, Herald Square,
       and Times Square (10–15 minutes north) at a range of price points.
 aiGenerated: true
-draft: true
+draft: false
 eventRecurring: false
 ---
 

@@ -9,6 +9,7 @@ import { createHash } from 'node:crypto';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { getPlacePhoto, fetchPlacePhotoBytes } from './places.mjs';
+import { eventProperName } from '../../src/lib/eventName.mjs';
 import { commonsBest, keyToken, tokens, wikipediaLeadImage } from './commons.mjs';
 
 const UNSPLASH_KEY = process.env.UNSPLASH_ACCESS_KEY;
@@ -155,9 +156,30 @@ export async function resolveHero({ namedVenue, region, topic, place, country = 
     // share ≥2 tokens with the event name, so "Magomed Ankalaev at UFC Fight Night"
     // (ankalaev+ufc+fight+night) passes while a bare "david"→statue / "sonic"→game /
     // "83rd"→army-division photo (1 token) is rejected → falls to the event-TYPE image.
+    // For an EVENT, between the full title and the bare anchor sits the query
+    // that actually works: the PROPER NAME. Checked against the Commons search
+    // API on 2026-08-07 —
+    //   "Post Malone – BIG ASS World Tour"  → a 1921 city directory
+    //   anchor "malone"                     → Malone, New York (a road)
+    //   "Post Malone"                       → Post Malone on stage
+    //   "EuroVolley Women"                  → CEV EuroVolley match photography
+    //   "BWF World Championships"           → 2018 BWF World Championships
+    // Every quarantined event tested had usable imagery one query away. Without
+    // this step the resolver fell through to a generic Unsplash stock photo,
+    // the vision gate (correctly) refused it, and the post stayed unpublished.
+    const properName = eventMode ? eventProperName(namedVenue) : '';
     const byName =
       (await commonsBest(`${namedVenue} ${reg}`, { mustInclude: [anchor], used, ...copts, ...venueGuard, ...identity })) ||
       (await commonsBest(namedVenue, { mustInclude: [anchor], used, ...copts, ...venueGuard, ...identity })) ||
+      (properName && properName.toLowerCase() !== String(namedVenue).toLowerCase()
+        ? await commonsBest(properName, { mustInclude: [anchor], used, ...copts, crossCheck: tokens(namedVenue), minCross: 1 })
+        : null) ||
+      // Then just the act: "Harry Styles Residency" is not a thing anyone
+      // filed a photo under, "Harry Styles" is. Two words is the shape of an
+      // artist's name and of most tournaments' short form.
+      (eventMode && properName.split(' ').length > 2
+        ? await commonsBest(properName.split(' ').slice(0, 2).join(' '), { mustInclude: [anchor], used, ...copts, crossCheck: tokens(namedVenue), minCross: 1 })
+        : null) ||
       (eventMode && anchor.length >= 4 && !new Set(tokens(reg || '')).has(anchor) && !GEO_STOP.has(anchor)
         ? await commonsBest(anchor, { mustInclude: [anchor], used, ...copts, crossCheck: tokens(namedVenue), minCross: 2 })
         : null);

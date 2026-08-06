@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'F✦FOREVER 1st World Tour: What to Know (Kuala Lumpur)'
 description: >-
   F✦FOREVER 1st World Tour in Kuala Lumpur, Malaysia — August 7, 2026. What it
@@ -10,13 +10,6 @@ category: event
 pubDate: '2026-07-24'
 eventStartDate: '2026-08-07'
 eventEndDate: '2026-08-07'
-heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1578899952059-c0cd092f9d14?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8S3VhbGElMjBMdW1wdXIlMjBNYWxheXNpYSUyMGNvbmNlcnQlMjBzdGFnZSUyMGxpdmUlMjBtdXNpY3xlbnwwfDB8fHwxNzg0OTIzNzQzfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Fauzan on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@fauzanazhima?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - kuala lumpur

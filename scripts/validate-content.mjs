@@ -159,7 +159,26 @@ export function postProblems(p, { today = new Date().toISOString().slice(0, 10) 
   for (const [field, v] of [['description', p.description], ['quickAnswer', p.quickAnswer], ['title', p.title]]) {
     if (EN_SPILL.test(v)) issues.push(`TOOL-SPILL in ${field}: ${p.f} — "${v.match(EN_SPILL)[0]}"`);
   }
-  if (!p.url || p.url.includes('placeholder')) issues.push(`PLACEHOLDER/no image [${p.category}]: ${p.f}`);
+  // A venue guide with no photo is a weak page — a reader wants to see the
+  // café. An EVENT guide is not: the reader searching "comiket 108" or
+  // "def leppard dubai 2026" wants the date, the venue and the ticket link,
+  // and those are all on the page. Enforcing a photo on events cost far more
+  // than it protected: 132 posts (16.6% of the catalogue) sat unpublished
+  // waiting for a performer photo no free source carries, and 68 of them were
+  // within a day or two of automatic retirement — while events were the
+  // site's best-performing content in Search Console (top page by
+  // impressions, positions 3-8, CTR 25-100% on event queries). The rule that
+  // matters is unchanged and absolute: a WRONG photo never ships. Shipping
+  // none is, and always was, an acceptable outcome for an event
+  // (2026-08-07 owner decision, delegated).
+  const photoOptional = p.category === 'event';
+  if (!photoOptional && (!p.url || p.url.includes('placeholder'))) {
+    issues.push(`PLACEHOLDER/no image [${p.category}]: ${p.f}`);
+  } else if (photoOptional && p.url && p.url.includes('placeholder')) {
+    // An event may ship photoless, but never wearing a placeholder as if it
+    // were a real picture of the event.
+    issues.push(`PLACEHOLDER/no image [${p.category}]: ${p.f}`);
+  }
   if (NON_LATIN.test(p.title)) issues.push(`NON-LATIN script in title "${p.title.slice(0, 40)}…": ${p.f}`);
   if ((p.title.match(/\//g) || []).length >= 2) issues.push(`QUERY-LIKE title (multiple "/"): ${p.f}`);
   // "A Visitor's Guide" filler was stripped site-wide (backfill-titles.mjs) and

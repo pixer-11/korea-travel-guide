@@ -50,7 +50,7 @@ faq:
       Nhat Airport area. Expect long waits for a taxi/Grab right after the show
       due to exit traffic.
 aiGenerated: true
-draft: true
+draft: false
 eventRecurring: false
 ---
 

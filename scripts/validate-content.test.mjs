@@ -95,6 +95,13 @@ clean('generic business word alone is not a match', {
   placeName: 'Bukchon Hanok Village', credit: 'Foursquare', heroCredit: 'Foursquare (Bukchon Hanok Village Cafe)',
 });
 flags('placeholder image', 'PLACEHOLDER', { url: '/images/placeholder-market.svg' });
+// 행사 글은 사진 없이도 발행한다. 독자가 "comiket 108" 을 검색해 원하는 것은
+// 날짜·장소·티켓이고 그건 페이지에 있다. 사진을 강제하느라 132편(16.6%)이
+// 묶여 있었고 그중 68편이 자동 삭제 직전이었다 — 그런데 행사 글이야말로
+// 검색 성과 1위였다. 바뀌지 않는 규칙: **틀린 사진은 여전히 금지**.
+clean('an event may ship with no photo at all', { category: 'event', url: '', eventStart: '2026-09-01', eventEnd: '2026-09-02' });
+flags('an event still may NOT wear a placeholder', 'PLACEHOLDER', { category: 'event', url: '/images/placeholder-market.svg', eventStart: '2026-09-01', eventEnd: '2026-09-02' });
+flags('a venue guide with no photo is still held', 'PLACEHOLDER', { category: 'restaurant', url: '' });
 
 // ── 종료된 행사가 아직 미래형으로 말하는 경우 ────────────────
 flags('ended event still promising tickets', 'ENDED-EVENT-FUTURE-TENSE', {
