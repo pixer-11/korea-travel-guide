@@ -27,6 +27,13 @@ const posts = defineCollection({
     // parseable date simply stays "upcoming" rather than mis-expiring.
     eventStartDate: z.coerce.date().optional(),
     eventEndDate: z.coerce.date().optional(),
+    // Does this event come back every year? Answered by the web search that
+    // discovered it, because the title alone cannot say: "Lollapalooza" and
+    // "Tour de France" carry no word that marks them annual, and the keyword
+    // heuristic they used to rely on read them as one-offs and dropped them
+    // from the index the day they ended. Absent on posts written before
+    // 2026-08-06, which still fall back to that heuristic.
+    eventRecurring: z.boolean().optional(),
     heroImage: z
       .object({
         url: z.string(),

@@ -87,9 +87,14 @@ const CHECKS = [
     // it still published. A broken page is exactly what this gate holds back.
     // (TRUNCATED-DESCRIPTION stays a warning: cosmetic, and the generator now
     // ends descriptions on full sentences.)
-    pick: (l) =>
-      l.match(/(?:MISSING-COUNTRY|PHOTO-WRONG-VENUE|TOOL-SPILL|PLACEHOLDER\/no image|NON-LATIN script in title|BROKEN TITLE|GARBLED place\.name|EVENT missing eventStartDate|DUPLICATE event coverage|CONTRADICTORY event dates)[^:]*:\s*(\S+\.md)/)?.[1]
-      ?? l.match(/^\s*•\s*(?:MISSING-COUNTRY|PHOTO-WRONG-VENUE|TOOL-SPILL):\s*(\S+\.md)/)?.[1],
+    pick: (l) => {
+      // Pair codes name two files ("…: a.md, b.md") and either one can be the
+      // new arrival — return BOTH and let the scope filter decide.
+      const pair = l.match(/(?:DUPLICATE event coverage|CONTRADICTORY event dates)[^:]*:\s*(\S+\.md)\s*,\s*(\S+\.md)/);
+      if (pair) return [pair[1], pair[2]];
+      return l.match(/(?:MISSING-COUNTRY|PHOTO-WRONG-VENUE|TOOL-SPILL|PLACEHOLDER\/no image|NON-LATIN script in title|BROKEN TITLE|GARBLED place\.name|EVENT missing eventStartDate|DUPLICATE event coverage|CONTRADICTORY event dates)[^:]*:\s*(\S+\.md)/)?.[1]
+        ?? l.match(/^\s*•\s*(?:MISSING-COUNTRY|PHOTO-WRONG-VENUE|TOOL-SPILL):\s*(\S+\.md)/)?.[1];
+    },
   },
 ];
 
@@ -118,10 +123,16 @@ if (since) {
 const reasons = new Map();
 for (const c of CHECKS) {
   for (const line of runChecked(c.name, c.cmd).split('\n')) {
-    const f = c.pick(line.trim());
-    if (!f) continue;
-    if (scope && !scope.has(f)) continue;
-    (reasons.get(f) ?? reasons.set(f, new Set()).get(f)).add(c.why);
+    // A pick may name more than one file. The duplicate-event line names BOTH
+    // members of the pair and the newly discovered one is always second, so
+    // taking only the first matched the older, already-live twin — which sits
+    // outside `scope`, so the gate held nothing back. A Weeknd show shipped
+    // twice in Jakarta that way on 2026-08-05, five days after this code was
+    // supposed to have sealed the class.
+    for (const f of [c.pick(line.trim())].flat().filter(Boolean)) {
+      if (scope && !scope.has(f)) continue;
+      (reasons.get(f) ?? reasons.set(f, new Set()).get(f)).add(c.why);
+    }
   }
 }
 

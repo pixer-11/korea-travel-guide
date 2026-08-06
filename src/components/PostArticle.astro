@@ -13,7 +13,7 @@ import StickyBook from './StickyBook.astro';
 import Emoji from './Emoji.astro';
 import { isEventPast } from '../lib/eventStatus';
 import { eventSchemaName } from '../lib/eventName';
-import { isRecurringEventTitle } from '../lib/eventRecurrence.mjs';
+import { isRecurringEvent as resolveRecurring } from '../lib/eventRecurrence.mjs';
 import { slugifyRegion } from '../lib/slug';
 import { getLangFromUrl, useTranslations, localeCodes, defaultLang, localizePath, klookLocale } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
@@ -259,7 +259,10 @@ const itineraryHref = (id: string) => localizePath(`/itinerary/${id}`, lang);
 // in eventRecurrence.mjs because the sitemap filter needs the SAME answer — when
 // it had its own (nonexistent) rule, three recurring events were indexable here
 // and missing from the sitemap.
-const isRecurringEvent = d.category === 'event' && isRecurringEventTitle(post.data.title);
+// Reads the stored eventRecurring when the discovery search answered, and
+// falls back to the title heuristic for everything published before that
+// question was asked. Matches the ENGLISH source data, never the translation.
+const isRecurringEvent = resolveRecurring({ ...post.data, title: post.data.title });
 
 // ---- Structured data graph (Article + Place + FAQ + Breadcrumbs) ----
 const graph: Record<string, unknown>[] = [

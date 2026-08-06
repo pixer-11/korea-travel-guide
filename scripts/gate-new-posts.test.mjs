@@ -65,6 +65,23 @@ t('지적을 내며 exit 1 하는 검사기는 크래시가 아니다', () => {
   return /GATE-CHECKER-CRASHED/.test(r.out) ? `오탐: ${r.out.slice(-200)}` : null;
 });
 
+t('중복 이벤트 줄에서 두 파일을 모두 지목한다', () => {
+  // 이 줄은 쌍의 양쪽을 적는데, 새로 발견된 쪽은 항상 두 번째다. 첫 번째만
+  // 뽑던 동안에는 이미 살아 있던 옛 글(= --since 범위 밖)이 지목되어 게이트가
+  // 아무것도 막지 못했고, 그렇게 자카르타 위켄드 공연이 두 번 올라갔다.
+  const fake = `node -e "console.log('  • DUPLICATE event coverage (weeknd): first-post.md, second-post.md'); process.exit(1)"`;
+  const r = runWith([['node scripts/validate-content.mjs', fake]]);
+  if (!/first-post\.md/.test(r.out)) return `첫 번째 파일 누락: ${r.out.slice(-300)}`;
+  if (!/second-post\.md/.test(r.out)) return `두 번째 파일 누락 — 새 글이 그대로 발행된다: ${r.out.slice(-300)}`;
+  return null;
+});
+
+t('날짜가 어긋난 쌍도 두 파일 모두 지목한다', () => {
+  const fake = `node -e "console.log('  • CONTRADICTORY event dates (motogp, 2026-09-01~2026-09-02 vs 2026-09-05~2026-09-06): aa.md, bb.md'); process.exit(1)"`;
+  const r = runWith([['node scripts/validate-content.mjs', fake]]);
+  return /aa\.md/.test(r.out) && /bb\.md/.test(r.out) ? null : `두 파일 모두 지목하지 않음: ${r.out.slice(-300)}`;
+});
+
 let fail = 0;
 for (const [name, fn] of cases) {
   let err;

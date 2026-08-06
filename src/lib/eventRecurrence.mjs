@@ -41,3 +41,24 @@ export function isRecurringEventTitle(title) {
   const t = String(title ?? '');
   return RECURRING.test(t) && !NOT_RECURRING.test(t);
 }
+
+/**
+ * Is this event post recurring? The stored fact wins; the title heuristic is
+ * only a fallback.
+ *
+ * The heuristic can only see words, so it misses every annual event whose name
+ * carries none — Lollapalooza, Tour de France, ChinaJoy all read as one-offs
+ * and dropped out of the index the day they ended. Widening the keywords is
+ * what produced the opposite failure (a one-off K-pop night advertising a
+ * yearly cadence because its venue is called AsiaWorld-Expo), so the fix is a
+ * better input, not a bigger regex: discover-events.mjs now asks the web
+ * search outright and stores `eventRecurring`.
+ *
+ * Takes frontmatter-ish data so both the page and the sitemap filter can call
+ * it; the sitemap reads raw YAML and has no collection entry.
+ */
+export function isRecurringEvent(data) {
+  if (!data || data.category !== 'event') return false;
+  if (typeof data.eventRecurring === 'boolean') return data.eventRecurring;
+  return isRecurringEventTitle(data.title);
+}

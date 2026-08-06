@@ -4,7 +4,7 @@ import sitemap from '@astrojs/sitemap';
 import { readFileSync, readdirSync, writeFileSync, statSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
-import { isRecurringEventTitle } from './src/lib/eventRecurrence.mjs';
+import { isRecurringEvent } from './src/lib/eventRecurrence.mjs';
 
 
 // IMPORTANT: change this to your real domain before deploying.
@@ -45,7 +45,7 @@ function contentLastmod() {
 // The page's own rule (PostArticle.astro) exempts RECURRING events: an annual
 // festival keeps its page indexed after this year's edition ends. This filter
 // did not know that and dropped them anyway — indexable pages we never
-// submitted (found 2026-08-06). Both sides now read isRecurringEventTitle.
+// submitted (found 2026-08-06). Both sides now read isRecurringEvent.
 function noindexSlugs() {
   const out = new Set();
   const today = new Date().toISOString().slice(0, 10);
@@ -60,7 +60,15 @@ function noindexSlugs() {
         return line ? line.trimStart().slice(k.length + 1).trim().replace(/^["']|["']$/g, '') : '';
       };
       if (val('category') !== 'event') continue;
-      if (isRecurringEventTitle(val('title'))) continue;
+      // Same resolver the page uses, so the two can't disagree: the stored
+      // eventRecurring when the discovery search answered, the title heuristic
+      // otherwise. `val` returns strings, hence the explicit parse.
+      const stored = val('eventRecurring');
+      if (isRecurringEvent({
+        category: 'event',
+        title: val('title'),
+        ...(stored === 'true' || stored === 'false' ? { eventRecurring: stored === 'true' } : {}),
+      })) continue;
       const end = (val('eventEndDate') || val('eventStartDate')).slice(0, 10);
       if (end && end < today) out.add('/posts/' + f.replace(/.md$/, ''));
     }
@@ -251,6 +259,15 @@ function regionRedirects() {
     ['multiple-cities-across-spain-andorra-entry-through-andalusia-finishing-in-granad', 'multiple-cities-la-vuelta-a-espana-2026'],
     ['taipei-official-hige-dandism-asia-tour-2026', 'taipei-official-hige-dandism-asia-tour-2026-taipei'],
     ['venice-venice-international-film-festival-mostra', 'venice-venice-international-film-festival-mostra-del-cinema'],
+    // The twelfth pair, five days after the sweep above was supposed to have
+    // sealed the class: the same Weeknd nights at Jakarta International
+    // Stadium, discovered again on 2026-08-05 as "…World Tour". The detector
+    // DID flag it — the publish gate read only the first filename on that
+    // line, which is always the older twin and therefore outside the
+    // just-published scope, so nothing was held. Gate fixed alongside this.
+    // Kept the earlier post here: identical dates, so the "fuller date range"
+    // tie-breaker does not apply and the longer-indexed URL wins.
+    ['jakarta-the-weeknd-after-hours-til-dawn-world-tour', 'jakarta-the-weeknd-after-hours-til-dawn-tour'],
   ];
   // Resolve one hop at build time: when the KEPT twin is itself quarantined,
   // pointing at it produced a 301→301 chain ending wherever the draft rule

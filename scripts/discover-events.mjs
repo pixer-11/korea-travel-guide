@@ -64,8 +64,16 @@ const discoverEvents = (country) =>
     `big concerts or tours by globally famous artists, major sports events (World Cup, Olympics, Grand Prix, major finals), large festivals, or major special exhibitions. ` +
     `Only REAL, CONFIRMED, upcoming events with a known date and city. ` +
     `Respond with ONLY a JSON array (no prose, no code fence) of up to 4 items: ` +
-    `[{"name":"...","city":"...","date":"human-readable e.g. August 1-9, 2026","startDate":"YYYY-MM-DD","endDate":"YYYY-MM-DD (same as startDate if one day; last day if multi-day)","category":"event","summary":"1-2 factual sentences: what, where, when"}]. ` +
-    `startDate/endDate MUST be valid ISO dates; omit them only if the exact date is genuinely unknown. If nothing notable, return [].`
+    `[{"name":"...","city":"...","date":"human-readable e.g. August 1-9, 2026","startDate":"YYYY-MM-DD","endDate":"YYYY-MM-DD (same as startDate if one day; last day if multi-day)","category":"event","recurring":true,"summary":"1-2 factual sentences: what, where, when"}]. ` +
+    `startDate/endDate MUST be valid ISO dates; omit them only if the exact date is genuinely unknown. ` +
+    // Recurrence decides whether the page stays indexed once the date passes
+    // and whether it advertises a yearly cadence in schema. It used to be
+    // guessed from words in the title, which silently failed for every annual
+    // event whose NAME says nothing — Lollapalooza, Tour de France and
+    // ChinaJoy all read as one-offs. The search is already happening; ask.
+    `"recurring" is true ONLY for an event held on a regular yearly (or near-yearly) cycle — an annual festival, a championship round, a race that returns each year. ` +
+    `A concert, a tour stop, a one-time exhibition or a one-off match is false. When unsure, use false. ` +
+    `If nothing notable, return [].`
   );
 
 const discoverHotspots = (country) =>
@@ -175,6 +183,11 @@ async function writeDiscovered(item, ctx) {
     // schema. Only stored when the model returned a valid date.
     ...(cat === 'event' && isIsoDate(item.startDate) && { eventStartDate: item.startDate }),
     ...(cat === 'event' && isIsoDate(item.endDate || item.startDate) && { eventEndDate: item.endDate || item.startDate }),
+    // Recurrence as a FACT from the search, not a guess from the title. Only
+    // stored when the model actually answered — an absent field falls back to
+    // the title heuristic, which is what the 110 posts written before today
+    // still rely on.
+    ...(cat === 'event' && typeof item.recurring === 'boolean' && { eventRecurring: item.recurring }),
     heroImage, gallery: [],
     tags: [item.city.toLowerCase(), kind === 'event' ? 'event' : 'new & trending'],
     quickAnswer, faq, aiGenerated: true,
