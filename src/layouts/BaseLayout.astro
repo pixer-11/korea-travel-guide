@@ -228,10 +228,24 @@ const orgLd = {
         var a = t && t.closest && t.closest('a[rel~="sponsored"], a[href*="klook"], a[href*="hotellook"], a[href*="tp.media"], a[href*="tpx.lv"], a[href*="aviasales"]');
         if (!a) return;
         var label = (a.textContent || '').trim().slice(0, 60) || a.href;
+        // WHICH widget, on WHICH page. The event used to carry only the
+        // destination, and every hotel CTA on the site builds the identical
+        // /go/klook link — so the 94 recorded clicks could not be traced to a
+        // placement or a page type, which is half of why "clicks up, bookings
+        // zero" stayed undiagnosable. Booking-side attribution is a separate
+        // problem: it needs a partner-supported sub_id, and Travelpayouts'
+        // short link drops the one we tried (verified 2026-08-06).
+        var holder = a.closest && a.closest('[data-affiliate-placement]');
+        var props = {
+          url: a.href,
+          placement: (holder && holder.getAttribute('data-affiliate-placement')) || 'inline',
+          page: location.pathname,
+          partner: /klook/.test(a.href) ? 'klook' : /hotellook/.test(a.href) ? 'hotellook' : 'other',
+        };
         try {
-          if (window.gtag) window.gtag('event', 'affiliate_click', { link_url: a.href, link_text: label });
-          else if (window.plausible) window.plausible('Affiliate click', { props: { url: a.href } });
-          (window.dataLayer = window.dataLayer || []).push({ event: 'affiliate_click', link_url: a.href, link_text: label });
+          if (window.gtag) window.gtag('event', 'affiliate_click', { link_url: a.href, link_text: label, placement: props.placement, partner: props.partner });
+          else if (window.plausible) window.plausible('Affiliate click', { props: props });
+          (window.dataLayer = window.dataLayer || []).push({ event: 'affiliate_click', link_url: a.href, link_text: label, placement: props.placement, partner: props.partner });
         } catch (_) {}
       }, true);
     </script>

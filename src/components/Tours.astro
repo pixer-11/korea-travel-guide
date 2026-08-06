@@ -45,7 +45,7 @@ const klookHref = city
   : 'https://klook.tpx.lv/2NXPH8MA';
 ---
 {city && (
-  <section class="tp-tours">
+  <section class="tp-tours" data-affiliate-placement="tours-widget">
     <div class="rule-head"><h2 class="kicker">{t('widget.topThingsToDo').replace('{city}', cityLabel)}</h2></div>
     {src ? (
       <div class="tp-widget-card">

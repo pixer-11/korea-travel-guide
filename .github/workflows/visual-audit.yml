@@ -45,6 +45,15 @@ jobs:
           AUDIT_LIMIT: ${{ github.event.inputs.limit || '0' }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      # The verdict store only ever grew: 93 of 1,265 entries pointed at posts
+      # that no longer exist. Prune AFTER the audit so the run itself still sees
+      # everything, and before the commit so the shrink ships with it. Entries
+      # for drafted posts and for a live post's older heroes are kept on
+      # purpose — both can come back, and their verdicts are what stop a
+      # known-bad photo returning silently.
+      - name: Prune orphaned audit entries
+        run: node scripts/prune-visual-audit.mjs
+
       - name: Commit audit state
         # ALWAYS. The audit writes its verdict store once, after the whole loop,
         # and quarantines heroes in place as it goes — so one Anthropic 429 at

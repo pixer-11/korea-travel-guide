@@ -23,6 +23,7 @@ const itineraryUrl = new URL(Astro.url.pathname, Astro.site ?? 'https://wanderat
   <form class="nl-form itin-email-form" data-ml-action="/api/subscribe" novalidate
     data-ok-plain="1" data-via="itinerary"
     data-msg-ok={t('itin.emailOk')} data-msg-err={t('nl.msgErr')} data-msg-net={t('nl.msgNet')}
+    data-msg-unsub={t('nl.msgUnsub')}
     data-msg-invalid={t('nl.msgInvalid')} data-sending={t('nl.sending')}>
     <input type="email" name="email" placeholder="you@email.com" aria-label={t('a11y.email')} autocomplete="email" required />
     <input type="hidden" name="region" value={interest.region} />

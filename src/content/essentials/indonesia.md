@@ -6,8 +6,6 @@ lastReviewed: 2026-08-01
 draft: false
 ---
 
-# Indonesia Travel Guide: Know Before You Go (2026)
-
 **Quick answer:** Most nationalities need a paid Visa on Arrival (IDR 500,000, about US$35, valid 30 days, extendable once) or an e-Visa, while only about a dozen countries (mostly ASEAN) get visa-free 30-day entry — always verify your specific nationality on the official Immigration e-Visa portal before flying. Bring a mix of rupiah cash and an internationally-enabled debit/credit card, dial 112 for any emergency, and aim for the May–September dry season for the best weather across most of the archipelago.
 
 ## Visa & entry

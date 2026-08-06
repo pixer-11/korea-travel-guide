@@ -18,7 +18,7 @@ const cityLabel = localizePlace(city, lang);
 const klookSearch = `https://www.klook.com/${klookLocale(lang)}/search/?query=${city} hotels`;
 const href = `/go/klook?to=${encodeURIComponent(klookSearch)}`;
 ---
-<section class="tp-hotels">
+<section class="tp-hotels" data-affiliate-placement="hotels-widget">
   <div class="rule-head"><h2 class="kicker">{t('widget.whereToStay').replace('{city}', cityLabel)}</h2></div>
   <div class="hotels-cta">
     <p>{t('widget.hotelsDesc').replace('{city}', cityLabel)}</p>

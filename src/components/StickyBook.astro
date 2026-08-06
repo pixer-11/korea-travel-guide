@@ -13,7 +13,7 @@ const q = place || city;
 const klook = `/go/klook?to=${encodeURIComponent(`https://www.klook.com/${klookLocale(lang)}/search/?query=${q}`)}`;
 const hotel = `https://search.hotellook.com/?marker=754088&language=${lang}&destination=${encodeURIComponent(city)}`;
 ---
-<div class="sticky-book" data-sticky-book hidden aria-hidden="true">
+<div class="sticky-book" data-affiliate-placement="sticky-bar" data-sticky-book hidden aria-hidden="true">
   <a class="sb-btn sb-primary" href={klook} target="_blank" rel="sponsored noopener"><Emoji name="admission-tickets" /> {t('widget.toursLabel')}</a>
   <a class="sb-btn" href={hotel} target="_blank" rel="sponsored noopener"><Emoji name="hotel" /> {t('widget.hotelsShort')}</a>
 </div>

@@ -23,7 +23,7 @@ const onChecklistPage = Astro.url.pathname.includes('/free/trip-checklist');
   <button class="nlp-close" data-nlp-close aria-label={t('a11y.close')}>&times;</button>
   <p class="nlp-title" id="nlp-title"><Emoji name="wrapped-gift" /> {t('popup.title')}</p>
   <p class="nlp-dek">{t('popup.dek')}</p>
-  <form class="nlp-form" data-ml-action="/api/subscribe" data-checklist={checklistHref} data-success={t('popup.success')} data-error={t('popup.error')} novalidate>
+  <form class="nlp-form" data-ml-action="/api/subscribe" data-checklist={checklistHref} data-success={t('popup.success')} data-error={t('popup.error')} data-unsub={t('nl.msgUnsub')} novalidate>
     <input type="email" name="email" placeholder="you@email.com" aria-label={t('a11y.email')} autocomplete="email" required />
     <input type="hidden" name="region" value={interest.region} />
     <input type="hidden" name="lang" value={interest.lang} />
@@ -158,7 +158,11 @@ const onChecklistPage = Astro.url.pathname.includes('/free/trip-checklist');
           setTimeout(() => hide(0), 6000);
         } else if (note) {
           note.hidden = false;
-          note.textContent = form.dataset.error || 'Error';
+          // An opted-out address is not a retryable error — see the same
+          // branch in Newsletter.astro.
+          note.textContent = (json && json.error === 'unsubscribed' && form.dataset.unsub)
+            ? form.dataset.unsub
+            : (form.dataset.error || 'Error');
         }
       } catch {
         if (note) { note.hidden = false; note.textContent = form.dataset.error || 'Error'; }

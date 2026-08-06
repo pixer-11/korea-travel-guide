@@ -704,8 +704,8 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
       it large. Dependency-free <dialog> (ESC/backdrop close come built in);
       the credit line rides along because CC BY-SA attribution must stay with
       the image wherever it is shown, enlarged included. */}
-  <dialog id="img-lightbox" aria-label="Enlarged photo">
-    <button type="button" class="lb-close" aria-label="Close">✕</button>
+  <dialog id="img-lightbox" aria-label={t('a11y.enlargedPhoto')}>
+    <button type="button" class="lb-close" aria-label={t('a11y.close')}>✕</button>
     <img alt="" />
     <p class="lb-credit"></p>
   </dialog>

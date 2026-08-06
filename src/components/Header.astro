@@ -37,7 +37,9 @@ const navGroups = CONT_ORDER
       </svg>
     </label>
 
-    <nav class="nav" id="site-nav" data-level="1">
+    {/* Named: a screen reader announcing two unlabelled <nav> landmarks (this
+        one and the footer's) gives the user no way to tell them apart. */}
+    <nav class="nav" id="site-nav" data-level="1" aria-label={t('a11y.mainNav')}>
       {/* Mobile drill-down header. On phones the flat list ran far past the fold,
           so the menu steps down: top level → continents → that continent's
           countries. Desktop ignores all of this and keeps the hover dropdown. */}

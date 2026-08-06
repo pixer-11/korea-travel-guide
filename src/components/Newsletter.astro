@@ -31,6 +31,7 @@ const ML_ACTION = '/api/subscribe';
       <p class="nl-bonus"><Emoji name="wrapped-gift" /> {t('home.newsletterBonus')}</p>
       <form class="nl-form" data-ml-action={ML_ACTION} novalidate
         data-msg-ok={t('nl.msgOk')} data-msg-err={t('nl.msgErr')} data-msg-net={t('nl.msgNet')}
+        data-msg-unsub={t('nl.msgUnsub')}
         data-msg-invalid={t('nl.msgInvalid')} data-sending={t('nl.sending')}
         data-checklist-href={lang === 'en' ? '/free/trip-checklist' : `/${lang}/free/trip-checklist`}>
         <input type="email" name="email" placeholder="you@email.com" aria-label={t('a11y.email')} autocomplete="email" required />
@@ -117,6 +118,11 @@ const ML_ACTION = '/api/subscribe';
               note.appendChild(a);
             }
           }
+        } else if (json && json.error === 'unsubscribed') {
+          // Not a failure to retry: the address opted out, and the worker
+          // refuses to override that. Saying "check your inbox" here is how a
+          // signup appears to succeed and then does nothing forever.
+          say(form.dataset.msgUnsub || form.dataset.msgErr || '');
         } else {
           say(form.dataset.msgErr || 'Please try again in a moment.');
         }

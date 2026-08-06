@@ -250,7 +250,13 @@ async function handleSubscribe(request, env) {
       try {
         const g = await ml(env, `/groups?filter[name]=${encodeURIComponent(SIGNUP_GROUP)}&limit=100`);
         signupGroupId = (g.data || []).find((x) => x.name === SIGNUP_GROUP)?.id || null;
-      } catch { /* group lookup failing must not block the signup itself */ }
+        // Not fatal — but a subscriber created outside the group is a
+        // subscriber the weekly send never reaches, which looks to them like
+        // a signup that did nothing. Say it out loud so the logs can show it.
+        if (!signupGroupId) console.warn(`subscribe: group "${SIGNUP_GROUP}" not found — subscriber will be created ungrouped`);
+      } catch (e) {
+        console.warn(`subscribe: group lookup failed (${String(e.message).slice(0, 80)}) — subscriber will be created ungrouped`);
+      }
     }
     // Double opt-in. The Connect API defaults a created subscriber to
     // `active`, which silently skipped confirmation the moment we moved off
@@ -261,11 +267,24 @@ async function handleSubscribe(request, env) {
     // the newsletter) or resurrect an unsubscribed one (that ignores their
     // opt-out) — only new and still-unconfirmed records carry the status.
     let keepStatus = false;
+    let currentStatus = null;
     try {
       const cur = await ml(env, `/subscribers/${encodeURIComponent(email)}`);
-      const s = cur?.data?.status;
-      keepStatus = s === 'active' || s === 'unsubscribed';
+      currentStatus = cur?.data?.status ?? null;
+      keepStatus = currentStatus === 'active' || currentStatus === 'unsubscribed';
     } catch { /* unknown email — a genuinely new signup */ }
+
+    // An unsubscribed address is where "I signed up and nothing happened"
+    // comes from: refusing to resurrect it is correct (anything else overrides
+    // their own opt-out), the upsert then succeeds anyway, and the page
+    // cheerfully says "check your inbox" for a confirmation MailerLite will
+    // never send. The two failed signups on 2026-07-31 fit this exactly and
+    // there was no log to say so. Tell the reader instead — reactivating is
+    // their decision, via the preferences link in any email they still hold.
+    if (currentStatus === 'unsubscribed') {
+      console.warn('subscribe: refused to reactivate an unsubscribed address');
+      return Response.json({ success: false, error: 'unsubscribed' }, { status: 409 });
+    }
     const upsert = (f) => ml(env, '/subscribers', {
       method: 'POST',
       body: JSON.stringify({
