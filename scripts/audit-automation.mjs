@@ -87,6 +87,21 @@ for (const [f, src] of sources) {
       `"${name}" sends no Telegram message and is not listed in job-failure-alert.yml — if it fails, or quietly stops doing its job, nothing says so.`);
   }
 
+  // ── CANCELLED-RUN ─────────────────────────────────────────
+  // cancel-in-progress looks like tidiness and behaves like sabotage on a repo
+  // where bots commit all day. GitHub scores a superseded run as a FAILED run
+  // and emails the owner about it, so on 2026-08-06 three consecutive commits
+  // produced "Run failed: Tests" and "Run failed: Build check" for a test suite
+  // that passes 289/289 locally. Two costs, both paid at once: the owner learns
+  // to ignore the alert, and the cancelled run never executed the check at all
+  // — the deploy guard reported nothing about whether the site could still
+  // build. This repo is public, so Actions minutes are free and cancelling buys
+  // nothing to offset either cost. Queue the runs instead.
+  if (/cancel-in-progress:\s*true/.test(src)) {
+    add('CANCELLED-RUN', f,
+      `"${name}" sets cancel-in-progress: true. A superseded run is reported as a FAILURE and emailed to the owner, and it never runs the check it exists to run — so this both trains the owner to ignore alerts and leaves commits unverified. Actions minutes are free on a public repo; set it to false.`);
+  }
+
   // ── CONCURRENCY-CANCEL ────────────────────────────────────
   // Collected below and reported after the loop: two or more workflows that
   // share a concurrency group AND fire on the same upstream event will contend,
@@ -135,7 +150,7 @@ for (const [f, src] of sources) {
 }
 
 // ── report ──────────────────────────────────────────────────
-const order = ['EMPTY-PASS', 'CONCURRENCY-CANCEL', 'HEREDOC-GLUE', 'SILENT-JOB', 'SWALLOWED'];
+const order = ['EMPTY-PASS', 'CANCELLED-RUN', 'CONCURRENCY-CANCEL', 'HEREDOC-GLUE', 'SILENT-JOB', 'SWALLOWED'];
 findings.sort((a, b) => order.indexOf(a.kind) - order.indexOf(b.kind) || a.file.localeCompare(b.file));
 for (const x of findings) console.log(`${x.kind.padEnd(13)} ${x.file}\n              ${x.detail}\n`);
 

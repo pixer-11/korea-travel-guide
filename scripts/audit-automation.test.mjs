@@ -130,6 +130,23 @@ t('그룹이 다르면 같은 트리거여도 잡지 않는다', () => {
   return clean(r) ? null : `오탐: ${r.out}`;
 });
 
+t('cancel-in-progress: true 를 잡는다', () => {
+  // 08-06 밤의 그 모양. 커밋을 연달아 올리자 밀려난 실행이 "Run failed" 메일로
+  // 도착했고(로컬 테스트는 289개 전부 통과), 취소된 실행은 검사를 아예 돌리지
+  // 않아 배포 가드가 그날 아무것도 지키지 못했다.
+  const r = audit({
+    'x.yml': `name: Tests\non:\n  push:\nconcurrency:\n  group: tests-\${{ github.ref }}\n  cancel-in-progress: true\njobs:\n  a:\n    steps:\n      - run: npm test\n${TELEGRAM}\n`,
+  });
+  return /CANCELLED-RUN/.test(r.out) ? null : `놓침: ${r.out}`;
+});
+
+t('cancel-in-progress: false 는 잡지 않는다', () => {
+  const r = audit({
+    'x.yml': `name: Tests\non:\n  push:\nconcurrency:\n  group: tests-\${{ github.ref }}\n  cancel-in-progress: false\njobs:\n  a:\n    steps:\n      - run: npm test\n${TELEGRAM}\n`,
+  });
+  return clean(r) ? null : `오탐: ${r.out}`;
+});
+
 t('깨끗한 워크플로 하나만 있으면 아무것도 보고하지 않는다', () => {
   const r = audit({
     'ok.yml': `name: Fine\njobs:\n  a:\n    steps:\n      - run: node scripts/thing.mjs\n${TELEGRAM}\n`,

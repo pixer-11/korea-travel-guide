@@ -34,9 +34,16 @@ on:
       - 'worker/**'
   workflow_dispatch:
 
+# 취소하지 않는다. GitHub 은 밀려난 실행을 run 단위에서 "failure" 로 집계해
+# 소유자에게 메일을 보낸다 — 커밋을 연달아 올린 날이면 멀쩡한 테스트가
+# "Run failed: Tests" 로 도착하고, 정작 진짜 실패가 왔을 때 구분할 수 없게 된다.
+# 2026-08-06 밤에 정확히 그렇게 됐다: 세 커밋 연속으로 Tests 가 취소됐는데
+# 로컬에서는 289개 전부 통과했다. 취소된 실행은 테스트를 한 번도 돌리지 않고
+# 빨간 표시만 남기므로, 회귀를 잡으라고 만든 장치가 그날 아무것도 지키지 않았다.
+# 공개 저장소라 실행 시간은 무료이고 취소로 아낄 것도 없다.
 concurrency:
   group: tests-${{ github.ref }}
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   test:
