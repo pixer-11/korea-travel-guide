@@ -25,6 +25,7 @@ import { srcHashOf, storedHashIn } from './lib/src-hash.mjs';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
+import { fixCjkBold } from './lib/cjk-bold.mjs';
 
 const POSTS = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 const OUT = fileURLToPath(new URL('../src/content/i18n/', import.meta.url));
@@ -175,7 +176,13 @@ async function translateOne(langCode, srcId, data, hash, attempt = 1) {
   // tilde is the strikethrough marker, so two of them in one paragraph struck out
   // everything between (hit 308 posts). Escape them in the BODY — frontmatter
   // (quickAnswer/faq) renders as plain text and must stay unescaped.
-  const body = out.body.trim().replace(/(?<!\\)~/g, '\\~');
+  // Same class of defect as the tilde, and the same right place to fix it:
+  // CommonMark cannot close ** when punctuation precedes the closer and a word
+  // character follows — which is exactly how CJK writes a glossed proper noun
+  // ("**왓 랏차부라나(Wat Ratchaburana)**와"). 145 files were repaired by hand on
+  // 2026-08-01 and eleven more arrived with the translations written since,
+  // because nothing stopped the translator producing them.
+  const body = fixCjkBold(out.body.trim().replace(/(?<!\\)~/g, '\\~'));
   // js-yaml leaves a hash like 818631094e44 unquoted (not a float under its
   // YAML 1.1 rules), but Astro's YAML 1.2 parser reads it as scientific
   // notation and the number then fails the schema's z.string() — twelve
