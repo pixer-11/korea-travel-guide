@@ -21,6 +21,15 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 40.7034401
   lng: -74.0168023
+  phone: '+1 212-344-7220'
+  openingHours:
+    - 'Monday: 8:00 AM – 5:00 PM'
+    - 'Tuesday: 8:00 AM – 5:00 PM'
+    - 'Wednesday: 8:00 AM – 5:00 PM'
+    - 'Thursday: 8:00 AM – 5:00 PM'
+    - 'Friday: 8:00 AM – 5:00 PM'
+    - 'Saturday: 8:00 AM – 5:00 PM'
+    - 'Sunday: 8:00 AM – 5:00 PM'
 tags:
   - "new york"
   - "historic site"

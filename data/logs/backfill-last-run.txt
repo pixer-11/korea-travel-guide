@@ -1,10 +1,31 @@
-Priority: 35 itinerary stop(s) queued first
-  ⚠ Places Details 429 after 3 tries — phone/hours unavailable for this post
-  ⚠ Places Details 429 after 3 tries — phone/hours unavailable for this post
-  ⚠ Places Details 429 after 3 tries — phone/hours unavailable for this post
-  ⚠ Places Details 429 after 3 tries — phone/hours unavailable for this post
-  ⚠ Places Details 429 after 3 tries — phone/hours unavailable for this post
+Places 예산: backfill 몫 25회 (오늘 사용 0/100)
+Priority: 48 itinerary stop(s) queued first
+  – bangkok-saladaeng.md: nothing new
+  – bangkok-the-grand-palace.md: nothing new
+  ✓ new-york-american-museum-of-natural-history.md +phone +7h hours (new post top-up)
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 17,18,19h (venue not open then); weekendQuiet: dropped 18,19,20h (venue not open then) — nothing left
+  ✓ new-york-castle-clinton-national-monument.md +phone +7h hours (new post top-up)
+  ✓ new-york-chelsea-market.md +phone +7h hours (new post top-up)
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 22h (venue not open then); weekendQuiet: dropped 22h (venue not open then)
+  ✓ new-york-city-ci-siamo.md +phone +7h hours
+  ✓ new-york-one-world-observatory.md +phone +7h hours (new post top-up)
+  ✓ new-york-statue-of-liberty.md +phone +7h hours
+  – new-york-the-channel-gardens.md: nothing new
+  – new-york-times-square.md: nothing new
+  – seoul-bukchon-yukgyeong-photo-spot.md: nothing new
+  – seoul-euljiro.md: nothing new
+  – seoul-london-bagel-museum.md: nothing new
+  – seoul-myeongdong-shopping-street.md: nothing new
+  – tokyo-fish-market-tsukiji-outer-market.md: nothing new
+  – tokyo-meiji-jingu.md: nothing new
+  – tokyo-senso-ji.md: nothing new
+  – tokyo-shibuya-crossing.md: nothing new
+  – tokyo-teamlab-planets-tokyo-dmm.md: nothing new
+  – tokyo-tokyo-ramen-street.md: nothing new
+  – agra-agra-fort.md: nothing new
+  – ajman-ajman-secret-beach.md: nothing new
+  – amalfi-coast-amalfi-coast.md: nothing new
+  – amalfi-coast-positano.md: nothing new
+  ✓ amalfi-coast-valle-delle-ferriere.md +phone (new post top-up)
 
-⛔ Places Details quota exhausted (5 consecutive 429s) — stopping early.
-
-BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 14, no-new-data 0, no-place 0, closed-quarantined 0, quota-429 5, api-error 0, processed 5 of 722 (APPLIED).
+BACKFILL RESULT: updated 7, backlog-updated 2, already-complete 40, no-new-data 18, no-place 6, closed-quarantined 0, quota-429 0, api-error 0, processed 25 of 793 (APPLIED).

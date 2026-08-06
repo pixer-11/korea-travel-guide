@@ -25,6 +25,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 40.713006199999995
   lng: -74.013173
+  phone: '+1 212-602-4000'
+  openingHours:
+    - 'Monday: 9:00 AM – 9:00 PM'
+    - 'Tuesday: 9:00 AM – 9:00 PM'
+    - 'Wednesday: 9:00 AM – 9:00 PM'
+    - 'Thursday: 9:00 AM – 9:00 PM'
+    - 'Friday: 9:00 AM – 9:00 PM'
+    - 'Saturday: 9:00 AM – 9:00 PM'
+    - 'Sunday: 9:00 AM – 9:00 PM'
 tags:
   - new york
   - viewpoint

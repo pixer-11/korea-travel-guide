@@ -21,6 +21,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 40.6481158
   lng: 14.590409699999999
+  phone: '+39 338 560 5550'
 tags:
   - amalfi coast
   - park

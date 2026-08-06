@@ -25,6 +25,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 40.6892494
   lng: -74.04450039999999
+  phone: '+1 212-363-3200'
+  openingHours:
+    - 'Monday: 9:00 AM – 4:30 PM'
+    - 'Tuesday: 9:00 AM – 4:30 PM'
+    - 'Wednesday: 9:00 AM – 4:30 PM'
+    - 'Thursday: 9:00 AM – 4:30 PM'
+    - 'Friday: 9:00 AM – 4:30 PM'
+    - 'Saturday: 9:00 AM – 4:30 PM'
+    - 'Sunday: 9:00 AM – 4:30 PM'
 tags:
   - new york
   - Statue of Liberty

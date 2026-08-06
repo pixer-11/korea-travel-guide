@@ -23,12 +23,7 @@ place:
   lng: -74.0061439
   busyness:
     updated: 2026-08-05
-    weekdayQuiet:
-      - 7
-      - 8
-      - 20
-      - 21
-      - 22
+    weekdayQuiet: [7, 8, 20, 21]
     weekdayBusy:
       - 11
       - 12
@@ -37,14 +32,7 @@ place:
       - 15
       - 16
       - 17
-    weekendQuiet:
-      - 7
-      - 8
-      - 9
-      - 10
-      - 20
-      - 21
-      - 22
+    weekendQuiet: [7, 8, 9, 10, 20, 21]
     weekendBusy:
       - 13
       - 14
@@ -53,6 +41,15 @@ place:
       - 17
       - 18
     venueId: "ven_3458593235796c7441736f526b6f775a394c464d6c32774a496843"
+  phone: '+1 212-652-2111'
+  openingHours:
+    - 'Monday: 7:00 AM – 10:00 PM'
+    - 'Tuesday: 7:00 AM – 10:00 PM'
+    - 'Wednesday: 7:00 AM – 10:00 PM'
+    - 'Thursday: 7:00 AM – 10:00 PM'
+    - 'Friday: 7:00 AM – 10:00 PM'
+    - 'Saturday: 7:00 AM – 10:00 PM'
+    - 'Sunday: 7:00 AM – 10:00 PM'
 tags:
   - "new york"
   - "local market"

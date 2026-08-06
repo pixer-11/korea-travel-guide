@@ -27,15 +27,7 @@ place:
   lng: -73.9739882
   busyness:
     updated: 2026-08-05T00:00:00.000Z
-    weekdayQuiet:
-      - 10
-      - 17
-      - 18
-      - 19
-    weekendQuiet:
-      - 18
-      - 19
-      - 20
+    weekdayQuiet: [10]
     weekendBusy:
       - 12
       - 13
@@ -43,6 +35,15 @@ place:
       - 15
       - 16
     venueId: ven_496166424b6e594d315673526b6f7759525073506f58434a496843
+  phone: '+1 212-769-5100'
+  openingHours:
+    - 'Monday: 10:00 AM – 5:30 PM'
+    - 'Tuesday: 10:00 AM – 5:30 PM'
+    - 'Wednesday: 10:00 AM – 5:30 PM'
+    - 'Thursday: 10:00 AM – 5:30 PM'
+    - 'Friday: 10:00 AM – 5:30 PM'
+    - 'Saturday: 10:00 AM – 5:30 PM'
+    - 'Sunday: 10:00 AM – 5:30 PM'
 tags:
   - new york
   - museum
