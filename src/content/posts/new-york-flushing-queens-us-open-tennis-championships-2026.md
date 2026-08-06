@@ -1,6 +1,8 @@
 ---
 title: 'US Open Tennis Championships 2026: What to Know (New York)'
-description: The 2026 US Open runs August 23–September 13 at the USTA Billie Jean King National Tennis Center in Flushing Meadows–Corona Park, Queens.
+description: >-
+  The 2026 US Open runs August 23–September 13 at the USTA Billie Jean King
+  National Tennis Center in Flushing Meadows–Corona Park, Queens.
 country: United States
 region: New York
 category: event
@@ -8,26 +10,52 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-08-23'
 eventEndDate: '2026-09-13'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/2017_US_Open_Tennis_-_Qualifying_Rounds_-_Viktoriya_Tomova_%28BUL%29_def._Polona_Hercog_%28SLO%29_%2836916572131%29.jpg/1920px-2017_US_Open_Tennis_-_Qualifying_Rounds_-_Viktoriya_Tomova_%28BUL%29_def._Polona_Hercog_%28SLO%29_%2836916572131%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/2017_US_Open_Tennis_-_Qualifying_Rounds_-_Viktoriya_Tomova_%28BUL%29_def._Polona_Hercog_%28SLO%29_%2836916572131%29.jpg/1920px-2017_US_Open_Tennis_-_Qualifying_Rounds_-_Viktoriya_Tomova_%28BUL%29_def._Polona_Hercog_%28SLO%29_%2836916572131%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Steven Pisano from Brooklyn, NY, USA / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:2017_US_Open_Tennis_-_Qualifying_Rounds_-_Viktoriya_Tomova_(BUL)_def._Polona_Hercog_(SLO)_(36916572131).jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:2017_US_Open_Tennis_-_Qualifying_Rounds_-_Viktoriya_Tomova_(BUL)_def._Polona_Hercog_(SLO)_(36916572131).jpg
 tags:
   - new york
   - event
-quickAnswer: The 2026 US Open runs August 23–September 13 at the USTA Billie Jean King National Tennis Center in Flushing Meadows–Corona Park, Queens. Fan Week and qualifying kick off August 23, main draw singles start August 30, and the finals wrap up the tournament in mid-September. Take the 7 train to Mets–Willets Point and confirm exact order-of-play, gate times, and ticket prices on usopen.org before you go, since those details shift year to year.
+quickAnswer: >-
+  The 2026 US Open runs August 23–September 13 at the USTA Billie Jean King
+  National Tennis Center in Flushing Meadows–Corona Park, Queens. Fan Week and
+  qualifying kick off August 23, main draw singles start August 30, and the
+  finals wrap up the tournament in mid-September. Take the 7 train to
+  Mets–Willets Point and confirm exact order-of-play, gate times, and ticket
+  prices on usopen.org before you go, since those details shift year to year.
 faq:
   - q: What are the exact dates for the 2026 US Open?
-    a: August 23 to September 13, 2026, with Fan Week and qualifying starting August 23 and main draw singles beginning August 30. Confirm the finalized schedule on usopen.org closer to the event.
+    a: >-
+      August 23 to September 13, 2026, with Fan Week and qualifying starting
+      August 23 and main draw singles beginning August 30. Confirm the finalized
+      schedule on usopen.org closer to the event.
   - q: How do I get to the venue from Manhattan?
-    a: Take the 7 train to Mets–Willets Point station, about 25-35 minutes from Midtown, or use the LIRR from Penn Station (around 20 minutes) on match days. Driving is not recommended due to limited parking and heavy game-day traffic.
+    a: >-
+      Take the 7 train to Mets–Willets Point station, about 25-35 minutes from
+      Midtown, or use the LIRR from Penn Station (around 20 minutes) on match
+      days. Driving is not recommended due to limited parking and heavy game-day
+      traffic.
   - q: How much do tickets cost?
-    a: Prices vary widely by session, court, and round, from relatively affordable grounds passes during Fan Week to premium prices for Arthur Ashe finals seats. Check official ticket resale and primary sale pages on usopen.org for current pricing rather than relying on past-year figures.
+    a: >-
+      Prices vary widely by session, court, and round, from relatively
+      affordable grounds passes during Fan Week to premium prices for Arthur
+      Ashe finals seats. Check official ticket resale and primary sale pages on
+      usopen.org for current pricing rather than relying on past-year figures.
   - q: How many days should I plan for a visit?
-    a: A single day session is enough to sample the grounds and a few matches, but tennis fans often spend 2-3 days across the tournament's two weeks to catch a mix of outer-court matches and a stadium session.
+    a: >-
+      A single day session is enough to sample the grounds and a few matches,
+      but tennis fans often spend 2-3 days across the tournament's two weeks to
+      catch a mix of outer-court matches and a stadium session.
   - q: What else is nearby if I want to extend the trip?
-    a: Flushing Meadows–Corona Park has the Unisphere, Queens Museum, and New York Hall of Science within walking distance, and Flushing's Chinatown is a short subway ride away for one of NYC's best food scenes.
+    a: >-
+      Flushing Meadows–Corona Park has the Unisphere, Queens Museum, and New
+      York Hall of Science within walking distance, and Flushing's Chinatown is
+      a short subway ride away for one of NYC's best food scenes.
 aiGenerated: true
+eventRecurring: true
 ---
 
 ## Why go

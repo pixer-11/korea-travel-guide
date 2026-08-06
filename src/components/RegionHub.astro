@@ -72,7 +72,7 @@ const cardHref = (post: any) =>
 // text (found 2026-08-05). Drop the row instead: an unanswered question is worth
 // exactly one fewer accordion entry.
 const PLACEHOLDER_ANSWER = /^(정보\s*없음|情報なし|暂无信息|暫無資訊|No disponible|N\/?A|[-—])$/i;
-const usableAnswer = (a) => typeof a === 'string' && a.trim().length > 0 && !PLACEHOLDER_ANSWER.test(a.trim());
+const usableAnswer = (a: unknown) => typeof a === 'string' && a.trim().length > 0 && !PLACEHOLDER_ANSWER.test(a.trim());
 const faq = info
   ? [
       { q: t('region.faqGetTo').replace('{region}', regionLabel), a: info.getting },
@@ -180,7 +180,7 @@ const roundupsHere = new Map(
       <p class="eyebrow">{t('region.eyebrow')}</p>
       <h1>{regionLabel}</h1>
       {usableAnswer(info?.blurb)
-        ? <p class="region-blurb">{info.blurb}</p>
+        ? <p class="region-blurb">{info!.blurb}</p>
         : <p>{t('region.fallbackBlurb').replace('{region}', regionLabel).replace('{country}', countryLabel)}</p>}
     </div>
   </section>

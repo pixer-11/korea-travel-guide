@@ -1,6 +1,8 @@
 ---
 title: 'Comiket (Comic Market) 108: What to Know (Tokyo)'
-description: Comiket (Comic Market) 108 in Tokyo, Japan — August 14-16, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  Comiket (Comic Market) 108 in Tokyo, Japan — August 14-16, 2026. What it is,
+  when and where, and how to plan around it.
 country: Japan
 region: Tokyo
 category: event
@@ -11,20 +13,44 @@ gallery: []
 tags:
   - tokyo
   - event
-quickAnswer: Comiket 108 runs August 14–16, 2026 at Tokyo Big Sight in Odaiba, Tokyo — the world's largest fan-run manga, anime, and doujinshi convention, drawing crowds in the hundreds of thousands. Go early on a weekday morning if you can, wear the lightest clothes you own (August in Tokyo is brutal), and confirm exact hours, ticket/entry requirements, and hall assignments on the official Comiket site closer to the date, since these details are finalized only a few weeks out.
+quickAnswer: >-
+  Comiket 108 runs August 14–16, 2026 at Tokyo Big Sight in Odaiba, Tokyo — the
+  world's largest fan-run manga, anime, and doujinshi convention, drawing crowds
+  in the hundreds of thousands. Go early on a weekday morning if you can, wear
+  the lightest clothes you own (August in Tokyo is brutal), and confirm exact
+  hours, ticket/entry requirements, and hall assignments on the official Comiket
+  site closer to the date, since these details are finalized only a few weeks
+  out.
 faq:
   - q: What are the exact dates for Comiket 108?
-    a: August 14–16, 2026, at Tokyo Big Sight in Odaiba, Tokyo. Always double-check the official Comiket website closer to the date in case of changes.
+    a: >-
+      August 14–16, 2026, at Tokyo Big Sight in Odaiba, Tokyo. Always
+      double-check the official Comiket website closer to the date in case of
+      changes.
   - q: How do I get to Tokyo Big Sight?
-    a: Take the Yurikamome Line to Kokusai-Tenjijo-Seimon Station (arrives right at the venue) or the Rinkai Line to Kokusai-Tenjijo Station, about a 7-minute walk. Expect crowd-control flows at both stations during the event.
+    a: >-
+      Take the Yurikamome Line to Kokusai-Tenjijo-Seimon Station (arrives right
+      at the venue) or the Rinkai Line to Kokusai-Tenjijo Station, about a
+      7-minute walk. Expect crowd-control flows at both stations during the
+      event.
   - q: Do I need to buy a ticket in advance?
-    a: Entry requirements and any ticketing or registration process are set by the organizers closer to the event and have varied between past Comikets — confirm current requirements on the official Comiket site before you go.
+    a: >-
+      Entry requirements and any ticketing or registration process are set by
+      the organizers closer to the event and have varied between past Comikets —
+      confirm current requirements on the official Comiket site before you go.
   - q: Which day of Comiket 108 should I attend?
-    a: Each day features different circle and genre assignments, so the 'best' day depends on what you want to see — check the official day-by-day catalog listings before choosing.
+    a: >-
+      Each day features different circle and genre assignments, so the 'best'
+      day depends on what you want to see — check the official day-by-day
+      catalog listings before choosing.
   - q: What should I bring?
-    a: Cash for doujinshi circles, water, a foldable bag for purchases, and lightweight clothing — mid-August in Tokyo is hot and humid, and much of your time will be spent queuing outdoors.
+    a: >-
+      Cash for doujinshi circles, water, a foldable bag for purchases, and
+      lightweight clothing — mid-August in Tokyo is hot and humid, and much of
+      your time will be spent queuing outdoors.
 aiGenerated: true
 draft: true
+eventRecurring: true
 ---
 
 ## Why Comiket matters

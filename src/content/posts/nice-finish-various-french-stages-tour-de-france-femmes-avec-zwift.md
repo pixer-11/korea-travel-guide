@@ -1,6 +1,9 @@
 ---
 title: 'Tour de France Femmes avec Zwift: What to Know in Nice'
-description: The 2026 Tour de France Femmes avec Zwift runs August 1–9, with a Grand Départ in Lausanne, Switzerland, a summit stage on Mont Ventoux, and the finale on the Promenade des Anglais in Nice.
+description: >-
+  The 2026 Tour de France Femmes avec Zwift runs August 1–9, with a Grand Départ
+  in Lausanne, Switzerland, a summit stage on Mont Ventoux, and the finale on
+  the Promenade des Anglais in Nice.
 country: France
 region: Nice
 category: event
@@ -8,28 +11,55 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-08-01'
 eventEndDate: '2026-08-09'
 heroImage:
-  url: "https://images.unsplash.com/photo-1673890704132-9573476ac27c?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8cm9hZCUyMGN5Y2xpbmclMjByYWNlJTIwcGVsb3RvbnxlbnwwfDB8fHwxNzg0Nzc1ODUwfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Fat Lads on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@fatladattheback?utm_source=korea_travel_guide&utm_medium=referral"
+  url: >-
+    https://images.unsplash.com/photo-1673890704132-9573476ac27c?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8cm9hZCUyMGN5Y2xpbmclMjByYWNlJTIwcGVsb3RvbnxlbnwwfDB8fHwxNzg0Nzc1ODUwfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Fat Lads on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@fatladattheback?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - nice
   - event
-quickAnswer: The 2026 Tour de France Femmes avec Zwift runs August 1–9, with a Grand Départ in Lausanne, Switzerland, a summit stage on Mont Ventoux, and the finale on the Promenade des Anglais in Nice. Watching is free roadside — pick a mountain stage (Ventoux) for drama and a long wait, or the Nice finish for a shorter, more festive viewing window with easy transit access. Confirm the day-by-day route and start list on the official Tour de France Femmes site closer to race day, since exact hours and roadside access points are published only a few weeks in advance.
+quickAnswer: >-
+  The 2026 Tour de France Femmes avec Zwift runs August 1–9, with a Grand Départ
+  in Lausanne, Switzerland, a summit stage on Mont Ventoux, and the finale on
+  the Promenade des Anglais in Nice. Watching is free roadside — pick a mountain
+  stage (Ventoux) for drama and a long wait, or the Nice finish for a shorter,
+  more festive viewing window with easy transit access. Confirm the day-by-day
+  route and start list on the official Tour de France Femmes site closer to race
+  day, since exact hours and roadside access points are published only a few
+  weeks in advance.
 faq:
   - q: When exactly is the 2026 Tour de France Femmes?
-    a: It's scheduled for August 1–9, 2026, starting with a Grand Départ in Lausanne, Switzerland, before moving into France. Confirm the finalized day-by-day stage list on the official race website closer to the date.
+    a: >-
+      It's scheduled for August 1–9, 2026, starting with a Grand Départ in
+      Lausanne, Switzerland, before moving into France. Confirm the finalized
+      day-by-day stage list on the official race website closer to the date.
   - q: Do I need tickets to watch?
-    a: No — roadside viewing along the route is free. The only costs are travel, accommodation, and any optional grandstand or VIP hospitality packages near stage finishes, which are announced separately by organizers.
+    a: >-
+      No — roadside viewing along the route is free. The only costs are travel,
+      accommodation, and any optional grandstand or VIP hospitality packages
+      near stage finishes, which are announced separately by organizers.
   - q: Which stage is best to watch in person?
-    a: Mont Ventoux offers the most dramatic mountain spectacle but requires arriving early and hiking with the crowds; Nice's finale is easier logistically, with transit access and a festival atmosphere along the Promenade des Anglais.
+    a: >-
+      Mont Ventoux offers the most dramatic mountain spectacle but requires
+      arriving early and hiking with the crowds; Nice's finale is easier
+      logistically, with transit access and a festival atmosphere along the
+      Promenade des Anglais.
   - q: How do I get to the Nice finish?
-    a: Fly into Nice Côte d'Azur Airport, then use the city's tram or bus network to reach the Promenade des Anglais area; expect crowds and possible road closures on the finish day itself.
+    a: >-
+      Fly into Nice Côte d'Azur Airport, then use the city's tram or bus network
+      to reach the Promenade des Anglais area; expect crowds and possible road
+      closures on the finish day itself.
   - q: How long should I plan to spend at a stage?
-    a: For a mountain stage like Ventoux, plan for most of a day, including hiking to a viewing spot and waiting for the caravan and riders. For the Nice finish, a few hours in the afternoon and evening is typically enough.
+    a: >-
+      For a mountain stage like Ventoux, plan for most of a day, including
+      hiking to a viewing spot and waiting for the caravan and riders. For the
+      Nice finish, a few hours in the afternoon and evening is typically enough.
 aiGenerated: true
 draft: false
+eventRecurring: true
 ---
 
 ## Why go

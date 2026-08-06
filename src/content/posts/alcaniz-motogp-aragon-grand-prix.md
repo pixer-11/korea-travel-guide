@@ -1,6 +1,8 @@
 ---
 title: 'MotoGP Aragon Grand Prix: What to Know (Alcañiz)'
-description: MotoGP Aragon Grand Prix in Alcañiz, Spain — August 28-30, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  MotoGP Aragon Grand Prix in Alcañiz, Spain — August 28-30, 2026. What it is,
+  when and where, and how to plan around it.
 country: Spain
 region: Alcañiz
 category: event
@@ -8,28 +10,50 @@ pubDate: '2026-07-24'
 eventStartDate: '2026-08-28'
 eventEndDate: '2026-08-30'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/A-STYLE_MotoGP_Aragon.jpg/1920px-A-STYLE_MotoGP_Aragon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/A-STYLE_MotoGP_Aragon.jpg/1920px-A-STYLE_MotoGP_Aragon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Mbastyle / Wikimedia Commons (CC0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:A-STYLE_MotoGP_Aragon.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:A-STYLE_MotoGP_Aragon.jpg'
 gallery: []
 tags:
   - alcañiz
   - event
-quickAnswer: The MotoGP Aragon Grand Prix runs August 28–30, 2026 at MotorLand Aragón, a purpose-built circuit about 6 km outside Alcañiz in Spain's Teruel province. Buy tickets and confirm the final schedule on the official MotoGP and MotorLand Aragón websites before booking travel, since race times and support classes are usually only locked in closer to the weekend. Plan to base yourself in Alcañiz town and drive or shuttle out to the track each day.
+quickAnswer: >-
+  The MotoGP Aragon Grand Prix runs August 28–30, 2026 at MotorLand Aragón, a
+  purpose-built circuit about 6 km outside Alcañiz in Spain's Teruel province.
+  Buy tickets and confirm the final schedule on the official MotoGP and
+  MotorLand Aragón websites before booking travel, since race times and support
+  classes are usually only locked in closer to the weekend. Plan to base
+  yourself in Alcañiz town and drive or shuttle out to the track each day.
 faq:
   - q: How do I get to MotorLand Aragón from Alcañiz?
-    a: The circuit is about 6 km from central Alcañiz, off the A-222. Most visitors drive, rent a car, or use race-weekend shuttle buses; there's no direct train to the track itself.
+    a: >-
+      The circuit is about 6 km from central Alcañiz, off the A-222. Most
+      visitors drive, rent a car, or use race-weekend shuttle buses; there's no
+      direct train to the track itself.
   - q: What are the exact dates and ticket prices?
-    a: The Grand Prix is scheduled for August 28-30, 2026. Ticket prices, on-sale dates, and grandstand options change each year, so confirm directly on the official MotoGP or MotorLand Aragón ticketing pages before booking.
+    a: >-
+      The Grand Prix is scheduled for August 28-30, 2026. Ticket prices, on-sale
+      dates, and grandstand options change each year, so confirm directly on the
+      official MotoGP or MotorLand Aragón ticketing pages before booking.
   - q: How many days should I plan for?
-    a: Most fans attend Friday practice through Sunday's races, but even a single day (ideally Sunday for the main races, or Friday/Saturday for a quieter visit) is workable if you're short on time.
+    a: >-
+      Most fans attend Friday practice through Sunday's races, but even a single
+      day (ideally Sunday for the main races, or Friday/Saturday for a quieter
+      visit) is workable if you're short on time.
   - q: Where's the nearest airport or big city?
-    a: Zaragoza is the closest city with an airport, roughly 100 km and about 1.5 hours by car from Alcañiz. Barcelona and Madrid are farther but offer more flight options if you're arriving internationally.
+    a: >-
+      Zaragoza is the closest city with an airport, roughly 100 km and about 1.5
+      hours by car from Alcañiz. Barcelona and Madrid are farther but offer more
+      flight options if you're arriving internationally.
   - q: Is Alcañiz worth visiting beyond the race?
-    a: Yes — the old town has a 12th-century castle-parador, a historic plaza, and regional Aragonese food worth a stop even outside race weekend.
+    a: >-
+      Yes — the old town has a 12th-century castle-parador, a historic plaza,
+      and regional Aragonese food worth a stop even outside race weekend.
 aiGenerated: true
 draft: false
+eventRecurring: true
 ---
 
 ## Why go

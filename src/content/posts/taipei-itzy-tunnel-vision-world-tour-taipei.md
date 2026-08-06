@@ -1,6 +1,9 @@
 ---
 title: 'ITZY TUNNEL VISION World Tour – Taipei: What to Know (Taipei)'
-description: ITZY's TUNNEL VISION World Tour stops in Taipei on September 5, 2026, at Taipei Arena (台北小巨蛋), where the group will perform tracks from their 2026 EP Motto alongside past hits.
+description: >-
+  ITZY's TUNNEL VISION World Tour stops in Taipei on September 5, 2026, at
+  Taipei Arena (台北小巨蛋), where the group will perform tracks from their 2026 EP
+  Motto alongside past hits.
 country: Taiwan
 region: Taipei
 category: event
@@ -8,28 +11,52 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-09-05'
 eventEndDate: '2026-09-05'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/9/97/Itzy_241023.jpg"
-  credit: "Photo: 티비텐 TV10 / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Itzy_241023.jpg"
+  url: 'https://upload.wikimedia.org/wikipedia/commons/9/97/Itzy_241023.jpg'
+  credit: 'Photo: 티비텐 TV10 / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Itzy_241023.jpg'
 gallery: []
 tags:
   - taipei
   - event
-quickAnswer: ITZY's TUNNEL VISION World Tour stops in Taipei on September 5, 2026, at Taipei Arena (台北小巨蛋), where the group will perform tracks from their 2026 EP Motto alongside past hits. Treat this date and venue as the latest announced info and double-check ticketing platforms and the venue's official channels closer to the show, since concert schedules and on-sale details can shift. Plan to arrive early, as Taipei Arena shows for major K-pop acts routinely sell out and draw large crowds around the surrounding MRT station.
+quickAnswer: >-
+  ITZY's TUNNEL VISION World Tour stops in Taipei on September 5, 2026, at
+  Taipei Arena (台北小巨蛋), where the group will perform tracks from their 2026 EP
+  Motto alongside past hits. Treat this date and venue as the latest announced
+  info and double-check ticketing platforms and the venue's official channels
+  closer to the show, since concert schedules and on-sale details can shift.
+  Plan to arrive early, as Taipei Arena shows for major K-pop acts routinely
+  sell out and draw large crowds around the surrounding MRT station.
 faq:
   - q: What is the exact date of the ITZY Taipei concert?
-    a: The announced date is September 5, 2026, at Taipei Arena. Confirm this hasn't shifted by checking ITZY's official social media or JYP Entertainment's tour page closer to the date.
+    a: >-
+      The announced date is September 5, 2026, at Taipei Arena. Confirm this
+      hasn't shifted by checking ITZY's official social media or JYP
+      Entertainment's tour page closer to the date.
   - q: How do I get to Taipei Arena by MRT?
-    a: Take the Brown Line or Green Line to Taipei Arena Station and use Exit 1, which leads directly to the arena plaza.
+    a: >-
+      Take the Brown Line or Green Line to Taipei Arena Station and use Exit 1,
+      which leads directly to the arena plaza.
   - q: Where can I buy tickets?
-    a: Tickets are typically sold through official ticketing partners used for Taipei Arena shows, such as KKTIX for local events. Always purchase through official or authorized channels rather than resale sites to avoid invalid tickets.
+    a: >-
+      Tickets are typically sold through official ticketing partners used for
+      Taipei Arena shows, such as KKTIX for local events. Always purchase
+      through official or authorized channels rather than resale sites to avoid
+      invalid tickets.
   - q: How early should I arrive on the day of the show?
-    a: For major K-pop concerts at Taipei Arena, fans often arrive several hours early for merchandise and standing-area queues. Arriving at least 2-3 hours before doors is a common approach, though exact doors/showtime should be confirmed via official sources.
+    a: >-
+      For major K-pop concerts at Taipei Arena, fans often arrive several hours
+      early for merchandise and standing-area queues. Arriving at least 2-3
+      hours before doors is a common approach, though exact doors/showtime
+      should be confirmed via official sources.
   - q: What else can I do near Taipei Arena on the same trip?
-    a: The venue is close to Raohe Street Night Market and a short ride from Taipei 101, making it easy to combine sightseeing and food with the concert.
+    a: >-
+      The venue is close to Raohe Street Night Market and a short ride from
+      Taipei 101, making it easy to combine sightseeing and food with the
+      concert.
 aiGenerated: true
 draft: false
+eventRecurring: false
 ---
 ## Why go
 

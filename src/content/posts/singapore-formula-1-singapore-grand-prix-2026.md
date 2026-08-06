@@ -1,6 +1,8 @@
 ---
 title: 'Formula 1 Singapore Grand Prix 2026: What to Know (Singapore)'
-description: Formula 1 Singapore Grand Prix 2026 in Singapore, Singapore — October 9-11, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  Formula 1 Singapore Grand Prix 2026 in Singapore, Singapore — October 9-11,
+  2026. What it is, when and where, and how to plan around it.
 country: Singapore
 region: Singapore
 category: event
@@ -8,28 +10,53 @@ pubDate: '2026-07-29'
 eventStartDate: '2026-10-09'
 eventEndDate: '2026-10-11'
 heroImage:
-  url: https://images.unsplash.com/photo-1742744652734-d5ec6598b5da?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U2luZ2Fwb3JlJTIwU2luZ2Fwb3JlJTIwZm9ybXVsYSUyMDElMjByYWNpbmclMjBjYXJ8ZW58MHwwfHx8MTc4NTM2MzAxN3ww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  url: >-
+    https://images.unsplash.com/photo-1742744652734-d5ec6598b5da?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U2luZ2Fwb3JlJTIwU2luZ2Fwb3JlJTIwZm9ybXVsYSUyMDElMjByYWNpbmclMjBjYXJ8ZW58MHwwfHx8MTc4NTM2MzAxN3ww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
   credit: Photo by Roy Tsong on Unsplash
   license: unsplash
-  source: https://unsplash.com/@shotinmoment_?utm_source=korea_travel_guide&utm_medium=referral
+  source: >-
+    https://unsplash.com/@shotinmoment_?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - singapore
   - event
-quickAnswer: The 2026 Singapore Grand Prix runs October 9-11 at the Marina Bay Street Circuit, and this edition is the country's first-ever F1 Sprint weekend, with a concert lineup featuring The Killers and Lana Del Rey. Book flights and hotels in the Marina Bay / Bugis / City Hall area early, expect the circuit's public roads to close on race build weeks, and always confirm the final schedule and ticket tiers on the official F1 Singapore GP site before you commit.
+quickAnswer: >-
+  The 2026 Singapore Grand Prix runs October 9-11 at the Marina Bay Street
+  Circuit, and this edition is the country's first-ever F1 Sprint weekend, with
+  a concert lineup featuring The Killers and Lana Del Rey. Book flights and
+  hotels in the Marina Bay / Bugis / City Hall area early, expect the circuit's
+  public roads to close on race build weeks, and always confirm the final
+  schedule and ticket tiers on the official F1 Singapore GP site before you
+  commit.
 faq:
   - q: What are the exact dates for the 2026 Singapore Grand Prix?
-    a: October 9-11, 2026, at the Marina Bay Street Circuit — but confirm the final session schedule on the official F1 Singapore GP site as it gets closer, since Sprint weekend formats can shift session timing.
+    a: >-
+      October 9-11, 2026, at the Marina Bay Street Circuit — but confirm the
+      final session schedule on the official F1 Singapore GP site as it gets
+      closer, since Sprint weekend formats can shift session timing.
   - q: Is this the first Sprint race in Singapore?
-    a: Yes — the 2026 edition is Singapore's first-ever F1 Sprint weekend, adding a Sprint qualifying and Sprint race to Saturday alongside the usual Friday practice and Sunday Grand Prix.
+    a: >-
+      Yes — the 2026 edition is Singapore's first-ever F1 Sprint weekend, adding
+      a Sprint qualifying and Sprint race to Saturday alongside the usual Friday
+      practice and Sunday Grand Prix.
   - q: Which MRT station is closest to the circuit?
-    a: Promenade (Circle Line) and Bayfront (Downtown Line) sit closest to the paddock and Padang grandstands; City Hall and Raffles Place are walkable alternatives for outer-circuit grandstands.
+    a: >-
+      Promenade (Circle Line) and Bayfront (Downtown Line) sit closest to the
+      paddock and Padang grandstands; City Hall and Raffles Place are walkable
+      alternatives for outer-circuit grandstands.
   - q: Who's performing at the concerts this year?
-    a: The Killers and Lana Del Rey headline the confirmed 2026 lineup, with the full support schedule typically released closer to the event on the official site.
+    a: >-
+      The Killers and Lana Del Rey headline the confirmed 2026 lineup, with the
+      full support schedule typically released closer to the event on the
+      official site.
   - q: How many days should I plan for the trip?
-    a: 'Most visitors block four to five days: arriving a day before Friday practice to settle in before road closures begin, and leaving a day after Sunday''s race for a buffer.'
+    a: >-
+      Most visitors block four to five days: arriving a day before Friday
+      practice to settle in before road closures begin, and leaving a day after
+      Sunday's race for a buffer.
 aiGenerated: true
 draft: false
+eventRecurring: true
 ---
 The first thing you notice, days before a single engine fires, is the scaffolding. Grandstands climb over the Padang and along Raffles Boulevard, temporary bridges arc across roads you walked the week before, and the glass towers of the CBD suddenly have a racetrack running underneath them. Singapore's Grand Prix weekend turns the financial district into a 5-kilometre street circuit, and for three nights in October the skyline itself becomes part of the spectacle — floodlights bouncing off the Marina Bay Sands facade, the Singapore Flyer lit up behind the final corners.
 

@@ -1,7 +1,9 @@
 ---
 draft: true
 title: 'EuroVolley Women 2026 (Final Stage): What to Know (Istanbul)'
-description: EuroVolley Women 2026 (Final Stage) in Istanbul, Turkey — August 21 - September 6, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  EuroVolley Women 2026 (Final Stage) in Istanbul, Turkey — August 21 -
+  September 6, 2026. What it is, when and where, and how to plan around it.
 country: Turkey
 region: Istanbul
 category: event
@@ -9,27 +11,52 @@ pubDate: '2026-07-29'
 eventStartDate: '2026-08-21'
 eventEndDate: '2026-09-06'
 heroImage:
-  url: https://images.unsplash.com/photo-1696711113690-9e6e60745288?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8SXN0YW5idWwlMjBUdXJrZXklMjB2b2xsZXliYWxsJTIwbWF0Y2h8ZW58MHwwfHx8MTc4NTM2Mjg4Nnww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  url: >-
+    https://images.unsplash.com/photo-1696711113690-9e6e60745288?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8SXN0YW5idWwlMjBUdXJrZXklMjB2b2xsZXliYWxsJTIwbWF0Y2h8ZW58MHwwfHx8MTc4NTM2Mjg4Nnww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
   credit: Photo by Joshua Kettle on Unsplash
   license: unsplash
-  source: https://unsplash.com/@joshuakettle?utm_source=korea_travel_guide&utm_medium=referral
+  source: >-
+    https://unsplash.com/@joshuakettle?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - istanbul
   - event
-quickAnswer: Istanbul stages part of the pool phase plus the grand final of EuroVolley Women 2026 at the Sinan Erdem Dome between August 21 and September 6, 2026, with the new champions crowned on closing night, September 6. Buy tickets and confirm the match schedule through the official CEV EuroVolley 2026 channels once released, since exact kick-off times and which pools land in Istanbul are set closer to the tournament. Plan to combine a match with a day around Kabataş/Beşiktaş, since the dome sits right on the Bosphorus shoreline.
+quickAnswer: >-
+  Istanbul stages part of the pool phase plus the grand final of EuroVolley
+  Women 2026 at the Sinan Erdem Dome between August 21 and September 6, 2026,
+  with the new champions crowned on closing night, September 6. Buy tickets and
+  confirm the match schedule through the official CEV EuroVolley 2026 channels
+  once released, since exact kick-off times and which pools land in Istanbul are
+  set closer to the tournament. Plan to combine a match with a day around
+  Kabataş/Beşiktaş, since the dome sits right on the Bosphorus shoreline.
 faq:
   - q: How do I get to the Sinan Erdem Dome from central Istanbul?
-    a: It's in Bakırköy on the European coast. Taxis from Sultanahmet or Taksim take roughly 25-40 minutes; the Metrobüs BRT line also has a stop within walking distance of the venue.
-  - q: When exactly is the final, and who's playing?
-    a: The grand final is set for September 6, 2026 in Istanbul. The finalists and full bracket won't be known until the tournament progresses, so check the official CEV EuroVolley 2026 site for the confirmed schedule.
+    a: >-
+      It's in Bakırköy on the European coast. Taxis from Sultanahmet or Taksim
+      take roughly 25-40 minutes; the Metrobüs BRT line also has a stop within
+      walking distance of the venue.
+  - q: 'When exactly is the final, and who''s playing?'
+    a: >-
+      The grand final is set for September 6, 2026 in Istanbul. The finalists
+      and full bracket won't be known until the tournament progresses, so check
+      the official CEV EuroVolley 2026 site for the confirmed schedule.
   - q: How far in advance should I buy tickets?
-    a: As early as possible once official sales open — matches involving Turkey's national team historically sell out quickly. Buy only through official CEV or Turkish Volleyball Federation channels to avoid inflated resale prices.
+    a: >-
+      As early as possible once official sales open — matches involving Turkey's
+      national team historically sell out quickly. Buy only through official CEV
+      or Turkish Volleyball Federation channels to avoid inflated resale prices.
   - q: Can I combine this with sightseeing in Istanbul?
-    a: Yes — the historic core (Hagia Sophia, Blue Mosque, Basilica Cistern) is about 30-40 minutes from the dome, making it easy to sightsee by day and head to Bakırköy for an evening match.
+    a: >-
+      Yes — the historic core (Hagia Sophia, Blue Mosque, Basilica Cistern) is
+      about 30-40 minutes from the dome, making it easy to sightsee by day and
+      head to Bakırköy for an evening match.
   - q: What's the weather like in late August/early September?
-    a: Hot and humid, typically in the high 20s to low 30s Celsius. Plan outdoor sightseeing for morning or early evening and expect an air-conditioned indoor arena for matches.
+    a: >-
+      Hot and humid, typically in the high 20s to low 30s Celsius. Plan outdoor
+      sightseeing for morning or early evening and expect an air-conditioned
+      indoor arena for matches.
 aiGenerated: true
+eventRecurring: true
 ---
 
 ## Why go

@@ -105,7 +105,7 @@ const updated = d.updatedDate ?? d.pubDate;
 // "مطعم الركن اليمني Yemeni Corner" → "Yemeni Corner"), same rule as titles, so
 // the fact box, schema, hero alt, Klook query and related links all stay clean.
 // Falls back to the original if nothing Latin remains.
-const cleanName = (s) => {
+const cleanName = (s: string | undefined | null) => {
   const t = (s || '')
     .replace(/[؀-ۿ一-鿿가-힣฀-๿Ѐ-ӿ぀-ヿ]/g, '')
     .replace(/\s{2,}/g, ' ')
@@ -149,7 +149,7 @@ const photoAlt = (subject: string) => t('post.altPlace')
 // ranges. The formatter moved to src/lib/hours.mjs so the when-to-go pages can
 // print the same thing — they were headlining "verified quiet times" and showing
 // venue cards with no times on them.
-const fmtHourRanges = (hours) => formatHourRanges(hours, { am: t('post.am'), pm: t('post.pm'), lang });
+const fmtHourRanges = (hours: number[] | undefined) => formatHourRanges(hours, { am: t('post.am'), pm: t('post.pm'), lang });
 const bz = p?.busyness;
 const quietWd = fmtHourRanges(bz?.weekdayQuiet), quietWe = fmtHourRanges(bz?.weekendQuiet);
 const busyWd = fmtHourRanges(bz?.weekdayBusy), busyWe = fmtHourRanges(bz?.weekendBusy);
@@ -318,7 +318,7 @@ if (p?.name) {
 if (faq.length) {
   graph.push({
     '@type': 'FAQPage',
-    mainEntity: faq.map((f) => ({
+    mainEntity: faq.map((f: any) => ({
       '@type': 'Question',
       name: f.q,
       acceptedAnswer: { '@type': 'Answer', text: f.a },
@@ -329,7 +329,7 @@ if (faq.length) {
 // Event schema for event posts with a known date — lets Google/AI surface it as a
 // dated event (the whole reason the events hub can win "upcoming …" queries).
 if (d.category === 'event' && d.eventStartDate) {
-  const isoDay = (x) => new Date(x).toISOString().slice(0, 10);
+  const isoDay = (x: string | Date) => new Date(x).toISOString().slice(0, 10);
   graph.push({
     '@type': 'Event',
     // The event's own name, never the article headline — Google prints this
@@ -384,7 +384,7 @@ const saveThumb = String(d.heroImage?.url ?? '')
   .replace(/\/(\d{3,4})px-/, '/480px-')
   .replace(/(fastly\.4sqi\.net\/img\/general\/)original\//, '$1width320/');
 
-const saveHours = (p?.openingHours ?? []).map((l) =>
+const saveHours = (p?.openingHours ?? []).map((l: string) =>
   localizeOpeningLine(l, lang, { am: t('post.am'), pm: t('post.pm') })
 );
 // Weekday and weekend quiet windows differ at 15 of the 26 venues that have both,
@@ -495,7 +495,7 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
           <details class="hours">
             <summary><Emoji name="three-oclock" /> {t('post.openingHours')}</summary>
             <ul>
-              {p.openingHours.map((line) => <li>{localizeOpeningLine(line, lang, { am: t('post.am'), pm: t('post.pm') })}</li>)}
+              {p.openingHours.map((line: string) => <li>{localizeOpeningLine(line, lang, { am: t('post.am'), pm: t('post.pm') })}</li>)}
             </ul>
           </details>
         )}
@@ -584,7 +584,7 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
         <>
           <Fragment set:html={proseParts[0]} />
           <section class="gallery">
-            {d.gallery.map((img) => (
+            {d.gallery.map((img: any) => (
               <figure>
                 <img
                   src={img.url}
@@ -609,7 +609,7 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
         the photos still render — right after the prose, before the widgets. */}
     {d.gallery.length > 0 && !proseParts && (
       <section class="gallery">
-        {d.gallery.map((img) => (
+        {d.gallery.map((img: any) => (
           <figure>
             <img
               src={img.url}
@@ -645,7 +645,7 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
     {faq.length > 0 && (
       <section class="faq">
         <h2>{t('post.faqTitle')}</h2>
-        {faq.map((f) => (
+        {faq.map((f: any) => (
           <details>
             <summary>{f.q}</summary>
             <p>{f.a}</p>

@@ -1,6 +1,11 @@
 ---
-title: 'BIGBANG 2026-2027 World Tour “XX: COSMOS” - Goyang Opening Shows: What to Know (Goyang)'
-description: 'BIGBANG 2026-2027 World Tour “XX: COSMOS” - Goyang Opening Shows in Goyang, South Korea — August 21-23, 2026. What it is, when and where, and how to plan around it.'
+title: >-
+  BIGBANG 2026-2027 World Tour “XX: COSMOS” - Goyang Opening Shows: What to Know
+  (Goyang)
+description: >-
+  BIGBANG 2026-2027 World Tour “XX: COSMOS” - Goyang Opening Shows in Goyang,
+  South Korea — August 21-23, 2026. What it is, when and where, and how to plan
+  around it.
 country: South Korea
 region: Goyang
 category: event
@@ -8,28 +13,52 @@ pubDate: '2026-07-29'
 eventStartDate: '2026-08-21'
 eventEndDate: '2026-08-23'
 heroImage:
-  url: https://images.unsplash.com/photo-1512671584073-0ed5878c5679?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8R295YW5nJTIwU291dGglMjBLb3JlYSUyMGNvbmNlcnQlMjBzdGFnZSUyMGxpdmUlMjBtdXNpY3xlbnwwfDB8fHwxNzg1MzYwNTY2fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  url: >-
+    https://images.unsplash.com/photo-1512671584073-0ed5878c5679?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8R295YW5nJTIwU291dGglMjBLb3JlYSUyMGNvbmNlcnQlMjBzdGFnZSUyMGxpdmUlMjBtdXNpY3xlbnwwfDB8fHwxNzg1MzYwNTY2fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
   credit: Photo by Jisu Han on Unsplash
   license: unsplash
-  source: https://unsplash.com/@makeitcount?utm_source=korea_travel_guide&utm_medium=referral
+  source: >-
+    https://unsplash.com/@makeitcount?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - goyang
   - event
-quickAnswer: 'BIGBANG plays three stadium shows at Goyang Stadium on August 21–23, 2026, as part of their "XX: COSMOS" world tour marking 20 years since debut. Nearest access is via Wonheung Station (Seoul Subway Line 3), and you should confirm exact gate times, seating, and ticket links only through official BIGBANG/YG channels once released.'
+quickAnswer: >-
+  BIGBANG plays three stadium shows at Goyang Stadium on August 21–23, 2026, as
+  part of their "XX: COSMOS" world tour marking 20 years since debut. Nearest
+  access is via Wonheung Station (Seoul Subway Line 3), and you should confirm
+  exact gate times, seating, and ticket links only through official BIGBANG/YG
+  channels once released.
 faq:
   - q: When exactly is the Goyang leg of the tour?
-    a: Three shows are set for August 21, 22, and 23, 2026, at Goyang Stadium — but confirm final dates on official BIGBANG or YG Entertainment channels closer to the event.
+    a: >-
+      Three shows are set for August 21, 22, and 23, 2026, at Goyang Stadium —
+      but confirm final dates on official BIGBANG or YG Entertainment channels
+      closer to the event.
   - q: How do I get to Goyang Stadium?
-    a: Take Seoul Subway Line 3 to Wonheung Station, then follow signage/crowd flow toward the stadium; if coming from Incheon Airport, connect via AREX or an airport bus into Seoul first, then transfer toward Goyang.
+    a: >-
+      Take Seoul Subway Line 3 to Wonheung Station, then follow signage/crowd
+      flow toward the stadium; if coming from Incheon Airport, connect via AREX
+      or an airport bus into Seoul first, then transfer toward Goyang.
   - q: Where can I buy tickets?
-    a: No official ticketing platform or price has been confirmed yet — for tours of this scale, expect sales through a major Korean ticketing platform with fan-club presale phases, so watch BIGBANG's official social accounts for the announcement.
+    a: >-
+      No official ticketing platform or price has been confirmed yet — for tours
+      of this scale, expect sales through a major Korean ticketing platform with
+      fan-club presale phases, so watch BIGBANG's official social accounts for
+      the announcement.
   - q: Is this really the full BIGBANG lineup?
-    a: Yes — G-Dragon, Taeyang, and Daesung are confirmed for this tour, their first full-group world tour in nine years, timed to their 20th anniversary.
+    a: >-
+      Yes — G-Dragon, Taeyang, and Daesung are confirmed for this tour, their
+      first full-group world tour in nine years, timed to their 20th
+      anniversary.
   - q: How long should I plan to be at the venue?
-    a: 'Budget the entire evening: arrive well before doors for merchandise and lightstick pickup, and plan for a slow, crowded exit afterward given the stadium scale.'
+    a: >-
+      Budget the entire evening: arrive well before doors for merchandise and
+      lightstick pickup, and plan for a slow, crowded exit afterward given the
+      stadium scale.
 aiGenerated: true
 draft: false
+eventRecurring: false
 ---
 
 ## Why this run of shows matters

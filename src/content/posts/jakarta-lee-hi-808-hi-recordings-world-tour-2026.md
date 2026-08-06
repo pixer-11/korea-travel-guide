@@ -1,7 +1,9 @@
 ---
 draft: true
 title: 'Lee Hi – 808 HI Recordings World Tour 2026: What to Know (Jakarta)'
-description: Lee Hi – 808 HI Recordings World Tour 2026 in Jakarta, Indonesia — August 9, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  Lee Hi – 808 HI Recordings World Tour 2026 in Jakarta, Indonesia — August 9,
+  2026. What it is, when and where, and how to plan around it.
 country: Indonesia
 region: Jakarta
 category: event
@@ -9,27 +11,51 @@ pubDate: '2026-07-24'
 eventStartDate: '2026-08-09'
 eventEndDate: '2026-08-09'
 heroImage:
-  url: https://images.unsplash.com/photo-1745487383756-c8daf44a4857?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8SmFrYXJ0YSUyMEluZG9uZXNpYSUyMGNvbmNlcnQlMjBzdGFnZSUyMGxpdmUlMjBtdXNpY3xlbnwwfDB8fHwxNzg0OTIzNjE2fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  url: >-
+    https://images.unsplash.com/photo-1745487383756-c8daf44a4857?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8SmFrYXJ0YSUyMEluZG9uZXNpYSUyMGNvbmNlcnQlMjBzdGFnZSUyMGxpdmUlMjBtdXNpY3xlbnwwfDB8fHwxNzg0OTIzNjE2fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
   credit: Photo by setengah limasore on Unsplash
   license: unsplash
-  source: https://unsplash.com/@ahmadfarisandy?utm_source=korea_travel_guide&utm_medium=referral
+  source: >-
+    https://unsplash.com/@ahmadfarisandy?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - jakarta
   - event
-quickAnswer: Lee Hi brings her "808 HI Recordings" world tour to Jakarta for the first time on August 9, 2026, performing at Bengkel Hall in SCBD, South Jakarta, with special guest rapper DOK2. Tickets, exact set times, and gate details will come through the official promoter and Lee Hi's/venue's verified social channels — confirm those before booking flights or making other plans, since dates and lineups for K-pop/K-hip-hop tour stops can shift.
+quickAnswer: >-
+  Lee Hi brings her "808 HI Recordings" world tour to Jakarta for the first time
+  on August 9, 2026, performing at Bengkel Hall in SCBD, South Jakarta, with
+  special guest rapper DOK2. Tickets, exact set times, and gate details will
+  come through the official promoter and Lee Hi's/venue's verified social
+  channels — confirm those before booking flights or making other plans, since
+  dates and lineups for K-pop/K-hip-hop tour stops can shift.
 faq:
   - q: Where exactly is the Lee Hi Jakarta concert?
-    a: At Bengkel Hall in the SCBD (Sudirman Central Business District) area of South Jakarta, a well-known business and entertainment hub along Jalan Jenderal Sudirman.
+    a: >-
+      At Bengkel Hall in the SCBD (Sudirman Central Business District) area of
+      South Jakarta, a well-known business and entertainment hub along Jalan
+      Jenderal Sudirman.
   - q: When is the show?
-    a: August 9, 2026, as currently announced. Confirm this date closer to the event via Lee Hi's official channels or the local promoter, since tour schedules can be adjusted.
+    a: >-
+      August 9, 2026, as currently announced. Confirm this date closer to the
+      event via Lee Hi's official channels or the local promoter, since tour
+      schedules can be adjusted.
   - q: Who else is performing?
-    a: Korean rapper and producer DOK2 is confirmed as a special guest alongside Lee Hi; no other lineup additions have been announced.
+    a: >-
+      Korean rapper and producer DOK2 is confirmed as a special guest alongside
+      Lee Hi; no other lineup additions have been announced.
   - q: How do I get to Bengkel Hall without a car?
-    a: Take the Jakarta MRT Blue Line to ASEAN or Senayan/Istora station, both within a short walk or quick Gojek/Grab ride of SCBD, especially useful given heavy traffic in the area.
+    a: >-
+      Take the Jakarta MRT Blue Line to ASEAN or Senayan/Istora station, both
+      within a short walk or quick Gojek/Grab ride of SCBD, especially useful
+      given heavy traffic in the area.
   - q: Where can I buy tickets safely?
-    a: Ticket prices and sale dates weren't specified in the initial announcement. Buy only through the official promoter or verified ticketing platform once released, and avoid early resale listings to steer clear of scalped or fake tickets.
+    a: >-
+      Ticket prices and sale dates weren't specified in the initial
+      announcement. Buy only through the official promoter or verified ticketing
+      platform once released, and avoid early resale listings to steer clear of
+      scalped or fake tickets.
 aiGenerated: true
+eventRecurring: false
 ---
 
 ## Why this show matters

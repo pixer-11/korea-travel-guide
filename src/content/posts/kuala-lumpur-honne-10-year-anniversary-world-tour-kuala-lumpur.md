@@ -1,7 +1,11 @@
 ---
 draft: true
-title: 'HONNE 10 Year Anniversary World Tour – Kuala Lumpur: What to Know (Kuala Lumpur)'
-description: HONNE 10 Year Anniversary World Tour – Kuala Lumpur in Kuala Lumpur, Malaysia — August 7-8, 2026. What it is, when and where, and how to plan around it.
+title: >-
+  HONNE 10 Year Anniversary World Tour – Kuala Lumpur: What to Know (Kuala
+  Lumpur)
+description: >-
+  HONNE 10 Year Anniversary World Tour – Kuala Lumpur in Kuala Lumpur, Malaysia
+  — August 7-8, 2026. What it is, when and where, and how to plan around it.
 country: Malaysia
 region: Kuala Lumpur
 category: event
@@ -9,27 +13,52 @@ pubDate: '2026-07-29'
 eventStartDate: '2026-08-07'
 eventEndDate: '2026-08-08'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/6/67/Honne_1968.jpg
+  url: 'https://upload.wikimedia.org/wikipedia/commons/6/67/Honne_1968.jpg'
   credit: 'Photo: Ninert / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Honne_1968.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Honne_1968.jpg'
 gallery: []
 tags:
   - kuala lumpur
   - event
-quickAnswer: HONNE bring their 10 Year Anniversary World Tour to REXKL in downtown Kuala Lumpur for two nights, August 7–8, 2026, playing material from their new album "HONNE – 10" alongside a decade of fan favourites. Treat the dates, venue, and ticket details here as a starting point and confirm everything — exact door times, remaining tickets, and any last-minute venue changes — on HONNE's official channels and REXKL's own event page before you plan travel around it.
+quickAnswer: >-
+  HONNE bring their 10 Year Anniversary World Tour to REXKL in downtown Kuala
+  Lumpur for two nights, August 7–8, 2026, playing material from their new album
+  "HONNE – 10" alongside a decade of fan favourites. Treat the dates, venue, and
+  ticket details here as a starting point and confirm everything — exact door
+  times, remaining tickets, and any last-minute venue changes — on HONNE's
+  official channels and REXKL's own event page before you plan travel around it.
 faq:
   - q: What are the exact dates of HONNE's Kuala Lumpur shows?
-    a: The shows are set for August 7–8, 2026 at REXKL. As with any tour, confirm the dates haven't shifted by checking HONNE's official website or social channels closer to the time.
+    a: >-
+      The shows are set for August 7–8, 2026 at REXKL. As with any tour, confirm
+      the dates haven't shifted by checking HONNE's official website or social
+      channels closer to the time.
   - q: Where is REXKL and how do I get there?
-    a: REXKL is on Jalan Sultan in downtown Kuala Lumpur's Petaling Street/Chinatown area. The nearest stations are Pasar Seni LRT (Kelana Jaya Line) and the Pasar Seni MRT feeder point, both a short walk from the venue.
+    a: >-
+      REXKL is on Jalan Sultan in downtown Kuala Lumpur's Petaling
+      Street/Chinatown area. The nearest stations are Pasar Seni LRT (Kelana
+      Jaya Line) and the Pasar Seni MRT feeder point, both a short walk from the
+      venue.
   - q: Where can I buy tickets safely?
-    a: Buy only through official ticketing links posted on HONNE's or REXKL's own channels. High-demand anniversary tour dates like these attract resellers and counterfeit listings, so avoid third-party or social media sellers.
+    a: >-
+      Buy only through official ticketing links posted on HONNE's or REXKL's own
+      channels. High-demand anniversary tour dates like these attract resellers
+      and counterfeit listings, so avoid third-party or social media sellers.
   - q: What time should I arrive?
-    a: Official door times haven't been detailed yet, so check closer to the event. General practice for popular shows at this venue is to arrive well ahead of doors if you want to be near the front, since it's a general-admission floor.
+    a: >-
+      Official door times haven't been detailed yet, so check closer to the
+      event. General practice for popular shows at this venue is to arrive well
+      ahead of doors if you want to be near the front, since it's a
+      general-admission floor.
   - q: Is there anything to do near REXKL before or after the show?
-    a: Yes — the venue sits in KL's historic Chinatown core, within walking distance of Central Market, Merdeka Square, and the hawker stalls of Petaling Street, all worth building into your trip around the concert dates.
+    a: >-
+      Yes — the venue sits in KL's historic Chinatown core, within walking
+      distance of Central Market, Merdeka Square, and the hawker stalls of
+      Petaling Street, all worth building into your trip around the concert
+      dates.
 aiGenerated: true
+eventRecurring: false
 ---
 
 ## Why this show matters

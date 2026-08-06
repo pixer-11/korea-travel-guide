@@ -1,6 +1,10 @@
 ---
 title: 'Qingdao International Beer Festival: What to Know (Qingdao)'
-description: The Qingdao International Beer Festival runs from mid-July through August 2026 at the festival grounds in Qingdao's Chengyang District (Beer City, near Jimo), with additional city-wide events along the waterfront near the historic Badaguan and Tsingtao Brewery Museum area.
+description: >-
+  The Qingdao International Beer Festival runs from mid-July through August 2026
+  at the festival grounds in Qingdao's Chengyang District (Beer City, near
+  Jimo), with additional city-wide events along the waterfront near the historic
+  Badaguan and Tsingtao Brewery Museum area.
 country: China
 region: Qingdao
 category: event
@@ -8,28 +12,56 @@ eventStartDate: 2026-07-17T00:00:00.000Z
 eventEndDate: 2026-08-15T00:00:00.000Z
 pubDate: '2026-07-23'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Qingdao_International_Beer_City.jpg/1920px-Qingdao_International_Beer_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Qingdao_International_Beer_City.jpg/1920px-Qingdao_International_Beer_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: B.wilson / Wikimedia Commons (CC0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Qingdao_International_Beer_City.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Qingdao_International_Beer_City.jpg'
 gallery: []
 tags:
   - qingdao
   - event
-quickAnswer: The Qingdao International Beer Festival runs from mid-July through August 2026 at the festival grounds in Qingdao's Chengyang District (Beer City, near Jimo), with additional city-wide events along the waterfront near the historic Badaguan and Tsingtao Brewery Museum area. Expect open-air tastings from Chinese and international breweries, live music and performances, and huge nightly crowds — plan to arrive by mid-afternoon on weekends to beat the lines, and confirm exact dates, venue map, and ticket details on the festival's official channels before you travel.
+quickAnswer: >-
+  The Qingdao International Beer Festival runs from mid-July through August 2026
+  at the festival grounds in Qingdao's Chengyang District (Beer City, near
+  Jimo), with additional city-wide events along the waterfront near the historic
+  Badaguan and Tsingtao Brewery Museum area. Expect open-air tastings from
+  Chinese and international breweries, live music and performances, and huge
+  nightly crowds — plan to arrive by mid-afternoon on weekends to beat the
+  lines, and confirm exact dates, venue map, and ticket details on the
+  festival's official channels before you travel.
 faq:
   - q: What are the exact festival dates in 2026?
-    a: It's currently announced as mid-July through August 2026, but exact opening and closing dates haven't been finalized publicly — confirm on Qingdao's official tourism board or the festival's own site closer to your travel date.
+    a: >-
+      It's currently announced as mid-July through August 2026, but exact
+      opening and closing dates haven't been finalized publicly — confirm on
+      Qingdao's official tourism board or the festival's own site closer to your
+      travel date.
   - q: Where exactly is the festival held?
-    a: The main venue in recent editions has been the purpose-built Beer City site in Chengyang District, west of central Qingdao near Jimo. Verify the current year's venue, as festival organizers occasionally add satellite sites elsewhere in the city.
+    a: >-
+      The main venue in recent editions has been the purpose-built Beer City
+      site in Chengyang District, west of central Qingdao near Jimo. Verify the
+      current year's venue, as festival organizers occasionally add satellite
+      sites elsewhere in the city.
   - q: How do I get to the festival grounds without a car?
-    a: Qingdao Metro lines serving the Chengyang area (check current maps for Line 1 and Line 8 connections) get you close, but a taxi or ride-hail app is often more reliable for the last stretch and for late-night returns.
+    a: >-
+      Qingdao Metro lines serving the Chengyang area (check current maps for
+      Line 1 and Line 8 connections) get you close, but a taxi or ride-hail app
+      is often more reliable for the last stretch and for late-night returns.
   - q: Is there an entry fee?
-    a: Ticketing has varied by year and zone in the past, with some general areas free and premium tasting zones ticketed. Prices aren't confirmed for 2026, so check official channels before budgeting.
+    a: >-
+      Ticketing has varied by year and zone in the past, with some general areas
+      free and premium tasting zones ticketed. Prices aren't confirmed for 2026,
+      so check official channels before budgeting.
   - q: How much time should I plan for a visit?
-    a: A single evening (roughly 3–4 hours) is enough to sample tents, catch a performance, and eat, but the festival runs for weeks, so multiple visits or a full evening-to-late-night stay works well if you're a beer enthusiast.
+    a: >-
+      A single evening (roughly 3–4 hours) is enough to sample tents, catch a
+      performance, and eat, but the festival runs for weeks, so multiple visits
+      or a full evening-to-late-night stay works well if you're a beer
+      enthusiast.
 aiGenerated: true
 draft: false
+eventRecurring: true
 ---
 
 ## Why go

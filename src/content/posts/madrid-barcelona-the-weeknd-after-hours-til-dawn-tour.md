@@ -1,6 +1,10 @@
 ---
 title: 'The Weeknd – After Hours Til Dawn Tour: What to Know (Madrid)'
-description: 'The Weeknd brings the After Hours Til Dawn Tour to Spain for four dates: three nights at Riyadh Air Metropolitano Stadium in Madrid (August 28-30, 2026) and one night at Estadi Olímpic Lluís Companys in Barcelona (September 1, 2026), with Playboi Carti as support.'
+description: >-
+  The Weeknd brings the After Hours Til Dawn Tour to Spain for four dates: three
+  nights at Riyadh Air Metropolitano Stadium in Madrid (August 28-30, 2026) and
+  one night at Estadi Olímpic Lluís Companys in Barcelona (September 1, 2026),
+  with Playboi Carti as support.
 country: Spain
 region: Madrid
 category: event
@@ -8,27 +12,55 @@ pubDate: '2026-07-21'
 eventStartDate: '2026-08-28'
 eventEndDate: '2026-08-30'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/The_Weeknd_-_Live_at_Ippodromo_SNAI_La_Maura%2C_Milan_%28July_27%2C_2023%29.jpg/3840px-The_Weeknd_-_Live_at_Ippodromo_SNAI_La_Maura%2C_Milan_%28July_27%2C_2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/The_Weeknd_-_Live_at_Ippodromo_SNAI_La_Maura%2C_Milan_%28July_27%2C_2023%29.jpg/3840px-The_Weeknd_-_Live_at_Ippodromo_SNAI_La_Maura%2C_Milan_%28July_27%2C_2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Luca Dell''Orto / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:The_Weeknd_-_Live_at_Ippodromo_SNAI_La_Maura,_Milan_(July_27,_2023).jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:The_Weeknd_-_Live_at_Ippodromo_SNAI_La_Maura,_Milan_(July_27,_2023).jpg
 tags:
   - madrid
   - event
-quickAnswer: 'The Weeknd brings the After Hours Til Dawn Tour to Spain for four dates: three nights at Riyadh Air Metropolitano Stadium in Madrid (August 28-30, 2026) and one night at Estadi Olímpic Lluís Companys in Barcelona (September 1, 2026), with Playboi Carti as support. Book stadium-city hotels early, confirm exact set times and ticket tiers on the official tour site, and plan transit around the Madrid–Barcelona turnaround since there''s only one rest day between the runs.'
+quickAnswer: >-
+  The Weeknd brings the After Hours Til Dawn Tour to Spain for four dates: three
+  nights at Riyadh Air Metropolitano Stadium in Madrid (August 28-30, 2026) and
+  one night at Estadi Olímpic Lluís Companys in Barcelona (September 1, 2026),
+  with Playboi Carti as support. Book stadium-city hotels early, confirm exact
+  set times and ticket tiers on the official tour site, and plan transit around
+  the Madrid–Barcelona turnaround since there's only one rest day between the
+  runs.
 faq:
   - q: What are the confirmed dates and venues?
-    a: 'Madrid: three nights, August 28-30, 2026, at Riyadh Air Metropolitano Stadium. Barcelona: one night, September 1, 2026, at Estadi Olímpic Lluís Companys. Always double-check these against the official tour site, as stadium tour dates can shift.'
+    a: >-
+      Madrid: three nights, August 28-30, 2026, at Riyadh Air Metropolitano
+      Stadium. Barcelona: one night, September 1, 2026, at Estadi Olímpic Lluís
+      Companys. Always double-check these against the official tour site, as
+      stadium tour dates can shift.
   - q: How do I get to the venues by public transport?
-    a: In Madrid, take Metro Line 7 to Estadio Metropolitano station, a short walk from the gates. In Barcelona, take Metro Lines 2 or 3 to Paral·lel, then the Montjuïc funicular or connecting buses up to the Estadi Olímpic Lluís Companys.
+    a: >-
+      In Madrid, take Metro Line 7 to Estadio Metropolitano station, a short
+      walk from the gates. In Barcelona, take Metro Lines 2 or 3 to Paral·lel,
+      then the Montjuïc funicular or connecting buses up to the Estadi Olímpic
+      Lluís Companys.
   - q: Who is opening the shows?
-    a: Playboi Carti is the announced special guest for the tour, though exact set times for openers are typically confirmed closer to the show date.
+    a: >-
+      Playboi Carti is the announced special guest for the tour, though exact
+      set times for openers are typically confirmed closer to the show date.
   - q: Is it realistic to attend both the Madrid and Barcelona shows?
-    a: 'Yes, but tightly: there''s one rest day between Madrid''s final show (Aug 30) and Barcelona (Sep 1). The AVE high-speed train between Madrid Atocha and Barcelona Sants takes about 2.5-3 hours, making it the most practical connection.'
+    a: >-
+      Yes, but tightly: there's one rest day between Madrid's final show (Aug
+      30) and Barcelona (Sep 1). The AVE high-speed train between Madrid Atocha
+      and Barcelona Sants takes about 2.5-3 hours, making it the most practical
+      connection.
   - q: What's the best time to arrive at the stadium?
-    a: Stadium shows of this scale usually open doors hours before the headliner performs, and floor/pit fans often queue from the afternoon. Given likely late-August/early-September heat in both cities, bring water and sun protection if arriving early.
+    a: >-
+      Stadium shows of this scale usually open doors hours before the headliner
+      performs, and floor/pit fans often queue from the afternoon. Given likely
+      late-August/early-September heat in both cities, bring water and sun
+      protection if arriving early.
 aiGenerated: true
 draft: false
+eventRecurring: false
 ---
 
 ## Why this run matters

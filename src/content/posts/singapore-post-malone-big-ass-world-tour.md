@@ -1,7 +1,9 @@
 ---
 draft: true
 title: 'Post Malone – BIG ASS World Tour: What to Know (Singapore)'
-description: Post Malone – BIG ASS World Tour in Singapore, Singapore — September 25, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  Post Malone – BIG ASS World Tour in Singapore, Singapore — September 25, 2026.
+  What it is, when and where, and how to plan around it.
 country: Singapore
 region: Singapore
 category: event
@@ -9,27 +11,49 @@ pubDate: '2026-07-24'
 eventStartDate: '2026-09-25'
 eventEndDate: '2026-09-25'
 heroImage:
-  url: https://images.unsplash.com/photo-1541267365358-43ba30c96460?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U2luZ2Fwb3JlJTIwU2luZ2Fwb3JlJTIwY29uY2VydCUyMHN0YWdlJTIwbGl2ZSUyMG11c2ljfGVufDB8MHx8fDE3ODQ5MjQzMzV8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  url: >-
+    https://images.unsplash.com/photo-1541267365358-43ba30c96460?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U2luZ2Fwb3JlJTIwU2luZ2Fwb3JlJTIwY29uY2VydCUyMHN0YWdlJTIwbGl2ZSUyMG11c2ljfGVufDB8MHx8fDE3ODQ5MjQzMzV8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
   credit: Photo by Guo Xin Goh on Unsplash
   license: unsplash
-  source: https://unsplash.com/@9oh9x?utm_source=korea_travel_guide&utm_medium=referral
+  source: >-
+    https://unsplash.com/@9oh9x?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - singapore
   - event
-quickAnswer: Post Malone brings the BIG ASS World Tour to Singapore's National Stadium on September 25, 2026, with support from Don Toliver — his first full solo headline show in the city since guesting at the 2023 F1 Singapore Grand Prix. Get to the Kallang / Stadium precinct via Stadium MRT (Circle Line) and confirm exact gate times, ticket tiers, and any last-minute changes on the official Ticketmaster/SportsHub Singapore channels before you go.
+quickAnswer: >-
+  Post Malone brings the BIG ASS World Tour to Singapore's National Stadium on
+  September 25, 2026, with support from Don Toliver — his first full solo
+  headline show in the city since guesting at the 2023 F1 Singapore Grand Prix.
+  Get to the Kallang / Stadium precinct via Stadium MRT (Circle Line) and
+  confirm exact gate times, ticket tiers, and any last-minute changes on the
+  official Ticketmaster/SportsHub Singapore channels before you go.
 faq:
   - q: Where exactly is the concert held?
-    a: Singapore National Stadium in the Singapore Sports Hub, Kallang — accessible directly from Stadium MRT station on the Circle Line.
+    a: >-
+      Singapore National Stadium in the Singapore Sports Hub, Kallang —
+      accessible directly from Stadium MRT station on the Circle Line.
   - q: How do I get tickets and how much do they cost?
-    a: Tickets are sold through official channels such as Ticketmaster Singapore and the Singapore Sports Hub site. Prices and tiers aren't fixed here, so check the official ticketing page for current pricing and on-sale dates.
+    a: >-
+      Tickets are sold through official channels such as Ticketmaster Singapore
+      and the Singapore Sports Hub site. Prices and tiers aren't fixed here, so
+      check the official ticketing page for current pricing and on-sale dates.
   - q: Who is opening the show?
-    a: Don Toliver is confirmed as support act for the Singapore date of the BIG ASS World Tour.
+    a: >-
+      Don Toliver is confirmed as support act for the Singapore date of the BIG
+      ASS World Tour.
   - q: What time should I arrive?
-    a: Exact doors/gate times will be posted closer to the date on official channels, but arriving 60–90 minutes before the stated gate time is a safe buffer for security and crowd flow.
+    a: >-
+      Exact doors/gate times will be posted closer to the date on official
+      channels, but arriving 60–90 minutes before the stated gate time is a safe
+      buffer for security and crowd flow.
   - q: Is this Post Malone's first real headline show in Singapore?
-    a: Yes — he previously performed as a guest act during the 2023 F1 Singapore Grand Prix concert weekend, but this September 25, 2026 date is his first full solo headline concert in the city.
+    a: >-
+      Yes — he previously performed as a guest act during the 2023 F1 Singapore
+      Grand Prix concert weekend, but this September 25, 2026 date is his first
+      full solo headline concert in the city.
 aiGenerated: true
+eventRecurring: false
 ---
 
 ## Why this show matters

@@ -1,6 +1,8 @@
 ---
 title: 'Venice International Film Festival (Mostra del Cinema): What to Know (Venice)'
-description: Venice International Film Festival (Mostra del Cinema) in Venice, Italy — September 2-12, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  Venice International Film Festival (Mostra del Cinema) in Venice, Italy —
+  September 2-12, 2026. What it is, when and where, and how to plan around it.
 country: Italy
 region: Venice
 category: event
@@ -8,28 +10,53 @@ pubDate: '2026-07-29'
 eventStartDate: '2026-09-02'
 eventEndDate: '2026-09-12'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Chloe_Sevigny_at_the_2025_Venice_Film_Festival.jpg/1920px-Chloe_Sevigny_at_the_2025_Venice_Film_Festival.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Chloe_Sevigny_at_the_2025_Venice_Film_Festival.jpg/1920px-Chloe_Sevigny_at_the_2025_Venice_Film_Festival.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Colleen Sturtevant / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Chloe_Sevigny_at_the_2025_Venice_Film_Festival.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Chloe_Sevigny_at_the_2025_Venice_Film_Festival.jpg
 gallery: []
 tags:
   - venice
   - event
-quickAnswer: The Venice International Film Festival (La Mostra) runs September 2–12, 2026, on the Lido di Venezia, its 83rd edition, with a jury led by Maggie Gyllenhaal deciding the Golden Lion. Base yourself on the Lido itself or a short vaporetto ride away in central Venice, expect red-carpet crowds around the Palazzo del Cinema at Sala Grande, and confirm exact screening venues and ticket/accreditation routes on the official Biennale Cinema website before you plan your days.
+quickAnswer: >-
+  The Venice International Film Festival (La Mostra) runs September 2–12, 2026,
+  on the Lido di Venezia, its 83rd edition, with a jury led by Maggie Gyllenhaal
+  deciding the Golden Lion. Base yourself on the Lido itself or a short
+  vaporetto ride away in central Venice, expect red-carpet crowds around the
+  Palazzo del Cinema at Sala Grande, and confirm exact screening venues and
+  ticket/accreditation routes on the official Biennale Cinema website before you
+  plan your days.
 faq:
   - q: What are the exact dates of the 2026 Venice Film Festival?
-    a: September 2–12, 2026, for the 83rd edition — confirm on labiennale.org, as final schedules and any adjustments are published closer to the event.
+    a: >-
+      September 2–12, 2026, for the 83rd edition — confirm on labiennale.org, as
+      final schedules and any adjustments are published closer to the event.
   - q: How do I get to the festival venues from Venice?
-    a: Take a vaporetto (water bus) from San Marco or the train station to the Lido S.M.E. stop, roughly 15–20 minutes from San Marco; the Palazzo del Cinema and Sala Grande are a short walk from there.
-  - q: Can the public buy tickets, or is it industry-only?
-    a: The Mostra typically offers some public ticket sales alongside its press/industry accreditation system, but allocations and prices change each year, so check the official site for the current process.
+    a: >-
+      Take a vaporetto (water bus) from San Marco or the train station to the
+      Lido S.M.E. stop, roughly 15–20 minutes from San Marco; the Palazzo del
+      Cinema and Sala Grande are a short walk from there.
+  - q: 'Can the public buy tickets, or is it industry-only?'
+    a: >-
+      The Mostra typically offers some public ticket sales alongside its
+      press/industry accreditation system, but allocations and prices change
+      each year, so check the official site for the current process.
   - q: When during the festival is it least crowded?
-    a: The opening weekend and the final two to three days around the awards ceremony draw the biggest crowds; weekdays in the middle of the run are noticeably calmer for watching red-carpet arrivals or catching public screenings.
+    a: >-
+      The opening weekend and the final two to three days around the awards
+      ceremony draw the biggest crowds; weekdays in the middle of the run are
+      noticeably calmer for watching red-carpet arrivals or catching public
+      screenings.
   - q: Should I stay on the Lido or in central Venice?
-    a: Either works, since the vaporetto connects them in about 15–20 minutes, but staying on the Lido cuts out the commute if you plan to be there daily during the festival's peak evening hours.
+    a: >-
+      Either works, since the vaporetto connects them in about 15–20 minutes,
+      but staying on the Lido cuts out the commute if you plan to be there daily
+      during the festival's peak evening hours.
 aiGenerated: true
 draft: false
+eventRecurring: true
 ---
 
 ## Why go

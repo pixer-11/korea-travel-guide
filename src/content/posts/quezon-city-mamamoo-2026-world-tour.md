@@ -1,6 +1,8 @@
 ---
 title: 'MAMAMOO 2026 World Tour: What to Know (Quezon City)'
-description: MAMAMOO 2026 World Tour in Quezon City, Philippines — August 8-10, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  MAMAMOO 2026 World Tour in Quezon City, Philippines — August 8-10, 2026. What
+  it is, when and where, and how to plan around it.
 country: Philippines
 region: Manila
 category: event
@@ -8,28 +10,54 @@ pubDate: '2026-07-29'
 eventStartDate: '2026-08-08'
 eventEndDate: '2026-08-10'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mamamoo_in_2023.png/1920px-Mamamoo_in_2023.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mamamoo_in_2023.png/1920px-Mamamoo_in_2023.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Galaxy Studio / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Mamamoo_in_2023.png
+  source: 'https://commons.wikimedia.org/wiki/File:Mamamoo_in_2023.png'
 gallery: []
 tags:
   - quezon city
   - event
-quickAnswer: MAMAMOO's 2026 World Tour is set to stop in Quezon City, Philippines, with shows reported for August 8-10, 2026 at the Philippine International Convention Center (PICC) in the Diliman/Bagumbayan area. Treat these as the announced dates for now and confirm the final schedule, ticket tiers, and door times on MAMAMOO's official channels and the promoter's ticketing platform before booking flights or hotels.
+quickAnswer: >-
+  MAMAMOO's 2026 World Tour is set to stop in Quezon City, Philippines, with
+  shows reported for August 8-10, 2026 at the Philippine International
+  Convention Center (PICC) in the Diliman/Bagumbayan area. Treat these as the
+  announced dates for now and confirm the final schedule, ticket tiers, and door
+  times on MAMAMOO's official channels and the promoter's ticketing platform
+  before booking flights or hotels.
 faq:
   - q: What are the confirmed dates for MAMAMOO's 2026 Manila shows?
-    a: August 8-10, 2026 is the currently reported window for a multi-night run. Confirm the final dates on MAMAMOO's official social channels or RBW's announcements before booking travel.
+    a: >-
+      August 8-10, 2026 is the currently reported window for a multi-night run.
+      Confirm the final dates on MAMAMOO's official social channels or RBW's
+      announcements before booking travel.
   - q: Is the concert in Quezon City or Manila proper?
-    a: Reports point to the Philippine International Convention Center, though past MAMAMOO and other K-pop tour stops in the metro have also used Quezon City venues like Araneta Coliseum. Verify the exact venue once organizers confirm it.
+    a: >-
+      Reports point to the Philippine International Convention Center, though
+      past MAMAMOO and other K-pop tour stops in the metro have also used Quezon
+      City venues like Araneta Coliseum. Verify the exact venue once organizers
+      confirm it.
   - q: How do I get tickets?
-    a: No ticket prices or on-sale dates are confirmed yet. Watch the official promoter's ticketing platform and MAMAMOO's agency channels for the announcement, and buy only through authorized sellers to avoid scalped or fake tickets.
+    a: >-
+      No ticket prices or on-sale dates are confirmed yet. Watch the official
+      promoter's ticketing platform and MAMAMOO's agency channels for the
+      announcement, and buy only through authorized sellers to avoid scalped or
+      fake tickets.
   - q: How should I get to the venue?
-    a: If the show is at PICC, expect a longer ride from most Quezon City accommodations; if it moves to Araneta Coliseum, MRT-3's Araneta Center-Cubao station puts you within walking distance. Either way, budget extra time for Manila traffic, especially near showtime.
+    a: >-
+      If the show is at PICC, expect a longer ride from most Quezon City
+      accommodations; if it moves to Araneta Coliseum, MRT-3's Araneta
+      Center-Cubao station puts you within walking distance. Either way, budget
+      extra time for Manila traffic, especially near showtime.
   - q: Should I attend all three nights?
-    a: If your budget and schedule allow, seeing multiple nights can mean catching setlist variations, but this isn't confirmed. One night is enough to experience the full show if you can't manage more.
+    a: >-
+      If your budget and schedule allow, seeing multiple nights can mean
+      catching setlist variations, but this isn't confirmed. One night is enough
+      to experience the full show if you can't manage more.
 aiGenerated: true
 draft: false
+eventRecurring: false
 ---
 
 ## Why this show matters

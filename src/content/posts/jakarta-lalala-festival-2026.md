@@ -1,6 +1,9 @@
 ---
 title: 'LaLaLa Festival 2026: What to Know (Jakarta)'
-description: LaLaLa Festival 2026 runs August 22–23, 2026 at Jakarta International Expo (JIExpo) in Kemayoran, Central Jakarta, headlined by Steve Lacy, Two Door Cinema Club, Kodaline, The Flaming Lips, Rex Orange County, Honne, and Flo.
+description: >-
+  LaLaLa Festival 2026 runs August 22–23, 2026 at Jakarta International Expo
+  (JIExpo) in Kemayoran, Central Jakarta, headlined by Steve Lacy, Two Door
+  Cinema Club, Kodaline, The Flaming Lips, Rex Orange County, Honne, and Flo.
 country: Indonesia
 region: Jakarta
 category: event
@@ -8,28 +11,54 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-08-22'
 eventEndDate: '2026-08-23'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_013.jpg/1920px-Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_013.jpg/1920px-Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Thesupermat / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_013.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_013.jpg
 gallery: []
 tags:
   - jakarta
   - event
-quickAnswer: LaLaLa Festival 2026 runs August 22–23, 2026 at Jakarta International Expo (JIExpo) in Kemayoran, Central Jakarta, headlined by Steve Lacy, Two Door Cinema Club, Kodaline, The Flaming Lips, Rex Orange County, Honne, and Flo. Book ride-hailing (Grab/Gojek) rather than relying on public transit, since there's no direct MRT/LRT stop at JIExpo, and confirm tickets, set times, and gate details on LaLaLa's official channels since prices haven't been finalized.
+quickAnswer: >-
+  LaLaLa Festival 2026 runs August 22–23, 2026 at Jakarta International Expo
+  (JIExpo) in Kemayoran, Central Jakarta, headlined by Steve Lacy, Two Door
+  Cinema Club, Kodaline, The Flaming Lips, Rex Orange County, Honne, and Flo.
+  Book ride-hailing (Grab/Gojek) rather than relying on public transit, since
+  there's no direct MRT/LRT stop at JIExpo, and confirm tickets, set times, and
+  gate details on LaLaLa's official channels since prices haven't been
+  finalized.
 faq:
   - q: When and where exactly is LaLaLa Festival 2026?
-    a: It's scheduled for August 22–23, 2026 at Jakarta International Expo (JIExpo) in Kemayoran, Central Jakarta. Always confirm the final dates and venue details on the official LaLaLa website closer to the event.
+    a: >-
+      It's scheduled for August 22–23, 2026 at Jakarta International Expo
+      (JIExpo) in Kemayoran, Central Jakarta. Always confirm the final dates and
+      venue details on the official LaLaLa website closer to the event.
   - q: Who is headlining in 2026?
-    a: Announced headliners include Steve Lacy, Two Door Cinema Club, Kodaline, The Flaming Lips, Rex Orange County, Honne, and Flo. Full stage lineups and set times are typically released closer to the festival.
+    a: >-
+      Announced headliners include Steve Lacy, Two Door Cinema Club, Kodaline,
+      The Flaming Lips, Rex Orange County, Honne, and Flo. Full stage lineups
+      and set times are typically released closer to the festival.
   - q: How much do tickets cost?
-    a: Pricing hasn't been finalized in official materials yet. Past editions have used early bird, regular, and VIP tiers — buy only through the official site once sales open, as popular tiers can sell out.
+    a: >-
+      Pricing hasn't been finalized in official materials yet. Past editions
+      have used early bird, regular, and VIP tiers — buy only through the
+      official site once sales open, as popular tiers can sell out.
   - q: How do I get to JIExpo from central Jakarta or the airport?
-    a: There's no direct MRT/LRT station at JIExpo, so Grab, Gojek, or a pre-booked taxi are the most reliable options — about 20–30 minutes from central Jakarta and 45–60 minutes from Soekarno-Hatta Airport outside heavy traffic.
+    a: >-
+      There's no direct MRT/LRT station at JIExpo, so Grab, Gojek, or a
+      pre-booked taxi are the most reliable options — about 20–30 minutes from
+      central Jakarta and 45–60 minutes from Soekarno-Hatta Airport outside
+      heavy traffic.
   - q: What's the weather like and what should I pack?
-    a: August falls in Jakarta's dry season, so expect hot, humid days and warm nights. Pack light breathable clothing, sun protection, a refillable water bottle, and a light rain layer just in case of a tropical shower.
+    a: >-
+      August falls in Jakarta's dry season, so expect hot, humid days and warm
+      nights. Pack light breathable clothing, sun protection, a refillable water
+      bottle, and a light rain layer just in case of a tropical shower.
 aiGenerated: true
 draft: false
+eventRecurring: true
 ---
 
 ## Why go

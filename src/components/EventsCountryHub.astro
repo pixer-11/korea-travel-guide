@@ -32,7 +32,7 @@ const monthLabel = (d: any) =>
 const byMonth = new Map<string, any[]>();
 for (const p of upcoming) {
   const k = p.data.eventStartDate ? monthLabel(p.data.eventStartDate) : t('ev.dateTBA');
-  (byMonth.get(k) || byMonth.set(k, []).get(k)).push(p);
+  (byMonth.get(k) || byMonth.set(k, []).get(k)!).push(p);
 }
 
 const cardProps = (post: any) => ({

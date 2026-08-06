@@ -1,6 +1,8 @@
 ---
 title: 'BABYMONSTER CHOOM World Tour: What to Know (Pasay City)'
-description: BABYMONSTER CHOOM World Tour in Pasay City, Philippines — September 5, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  BABYMONSTER CHOOM World Tour in Pasay City, Philippines — September 5, 2026.
+  What it is, when and where, and how to plan around it.
 country: Philippines
 region: Pasay City
 category: event
@@ -8,28 +10,51 @@ pubDate: '2026-08-05'
 eventStartDate: '2026-09-05'
 eventEndDate: '2026-09-05'
 heroImage:
-  url: https://images.unsplash.com/photo-1540039155733-5bb30b53aa14?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8N3x8Y29uY2VydCUyMHN0YWdlJTIwbGl2ZSUyMG11c2ljfGVufDB8MHx8fDE3ODU5NjY5NTh8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  url: >-
+    https://images.unsplash.com/photo-1540039155733-5bb30b53aa14?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8N3x8Y29uY2VydCUyMHN0YWdlJTIwbGl2ZSUyMG11c2ljfGVufDB8MHx8fDE3ODU5NjY5NTh8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
   credit: Photo by ActionVance on Unsplash
   license: unsplash
-  source: https://unsplash.com/@actionvance?utm_source=korea_travel_guide&utm_medium=referral
+  source: >-
+    https://unsplash.com/@actionvance?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - pasay city
   - event
-quickAnswer: BABYMONSTER brings the CHOOM World Tour to SM Mall of Asia Arena in Pasay City on September 5, 2026. Treat this date as the currently announced one and double-check the official BABYMONSTER and SM Tickets/venue channels closer to the show for final timing, doors, and ticket tiers, since concert schedules can shift. Book arena-area lodging in the Mall of Asia complex early — it sells out fast for K-pop dates.
+quickAnswer: >-
+  BABYMONSTER brings the CHOOM World Tour to SM Mall of Asia Arena in Pasay City
+  on September 5, 2026. Treat this date as the currently announced one and
+  double-check the official BABYMONSTER and SM Tickets/venue channels closer to
+  the show for final timing, doors, and ticket tiers, since concert schedules
+  can shift. Book arena-area lodging in the Mall of Asia complex early — it
+  sells out fast for K-pop dates.
 faq:
   - q: Where exactly is the concert?
-    a: SM Mall of Asia Arena in Pasay City, part of the SM Mall of Asia complex on Manila Bay, near the airport district of Metro Manila.
+    a: >-
+      SM Mall of Asia Arena in Pasay City, part of the SM Mall of Asia complex
+      on Manila Bay, near the airport district of Metro Manila.
   - q: How do I get to the venue without a car?
-    a: Take the LRT-1 to Taft Avenue or EDSA station, then a P2P bus or taxi/ride-hail for the final stretch, since no rail line runs directly into the Mall of Asia complex.
+    a: >-
+      Take the LRT-1 to Taft Avenue or EDSA station, then a P2P bus or
+      taxi/ride-hail for the final stretch, since no rail line runs directly
+      into the Mall of Asia complex.
   - q: When do tickets go on sale and how much are they?
-    a: Prices and on-sale dates haven't been detailed here — check BABYMONSTER's official channels and the venue's ticketing partner, as tiers typically range from general admission floor to upper seating.
+    a: >-
+      Prices and on-sale dates haven't been detailed here — check BABYMONSTER's
+      official channels and the venue's ticketing partner, as tiers typically
+      range from general admission floor to upper seating.
   - q: How early should I arrive?
-    a: Locals typically arrive 3-4 hours early to eat, shop for merch, and queue calmly rather than rushing doors, since floor and box queues form separately and merch often sells out early.
-  - q: Is the September 5, 2026 date final?
-    a: It's the currently announced date for this Manila stop of the CHOOM World Tour — confirm it hasn't shifted via official BABYMONSTER and venue channels before booking travel.
+    a: >-
+      Locals typically arrive 3-4 hours early to eat, shop for merch, and queue
+      calmly rather than rushing doors, since floor and box queues form
+      separately and merch often sells out early.
+  - q: 'Is the September 5, 2026 date final?'
+    a: >-
+      It's the currently announced date for this Manila stop of the CHOOM World
+      Tour — confirm it hasn't shifted via official BABYMONSTER and venue
+      channels before booking travel.
 aiGenerated: true
 draft: false
+eventRecurring: false
 ---
 
 You feel Mall of Asia Arena before you see it. The complex sprawls along Manila Bay's reclaimed waterfront in Pasay City, a wall of LED screens and shuttle buses and vendors already setting up folding tables of light sticks and photocards days before showtime. This is where BABYMONSTER — YG Entertainment's newest girl group, built around members like Ruka, Ahyeon, Asa, and Pharita — lands on September 5, 2026, for a stop on their CHOOM World Tour, their first global run since debuting.

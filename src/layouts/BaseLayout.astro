@@ -12,6 +12,12 @@ import { getLangFromUrl, localeCodes, localizePath, stripLocale, useTranslations
 interface Props {
   title: string;
   description: string;
+  // Accepted and ignored. Five callers pass it; the layout derives the locale
+  // from the URL instead (getLangFromUrl below), which is the same answer and
+  // cannot drift from the route. Declared so those callers type-check rather
+  // than sitting on a permanent error — remove it only by removing the prop
+  // from all five at once.
+  lang?: Lang;
   image?: string;
   article?: boolean;
   jsonLd?: Record<string, unknown>;

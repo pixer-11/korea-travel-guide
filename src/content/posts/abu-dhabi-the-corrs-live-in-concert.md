@@ -1,6 +1,8 @@
 ---
 title: 'The Corrs Live in Concert: What to Know (Abu Dhabi)'
-description: The Corrs Live in Concert in Abu Dhabi, United Arab Emirates — September 27, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  The Corrs Live in Concert in Abu Dhabi, United Arab Emirates — September 27,
+  2026. What it is, when and where, and how to plan around it.
 country: United Arab Emirates
 region: Abu Dhabi
 category: event
@@ -8,28 +10,48 @@ pubDate: '2026-07-29'
 eventStartDate: '2026-09-27'
 eventEndDate: '2026-09-27'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/The_Corrs_%28Vienna%2C_2016%29_22.jpg/1920px-The_Corrs_%28Vienna%2C_2016%29_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/The_Corrs_%28Vienna%2C_2016%29_22.jpg/1920px-The_Corrs_%28Vienna%2C_2016%29_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Tibor Pallerman / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:The_Corrs_(Vienna,_2016)_22.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:The_Corrs_(Vienna,_2016)_22.jpg'
 gallery: []
 tags:
   - abu dhabi
   - event
-quickAnswer: The Corrs play a one-night-only show at Etihad Arena on Yas Island, Abu Dhabi, on September 27, 2026. No ticket prices, door times, or support acts are confirmed yet, so check Etihad Arena's official site or The Corrs' official channels closer to the date before booking travel.
+quickAnswer: >-
+  The Corrs play a one-night-only show at Etihad Arena on Yas Island, Abu Dhabi,
+  on September 27, 2026. No ticket prices, door times, or support acts are
+  confirmed yet, so check Etihad Arena's official site or The Corrs' official
+  channels closer to the date before booking travel.
 faq:
   - q: Where exactly is the concert held?
-    a: Etihad Arena on Yas Island, Abu Dhabi — the same indoor arena used for most major touring acts in the city since 2023.
+    a: >-
+      Etihad Arena on Yas Island, Abu Dhabi — the same indoor arena used for
+      most major touring acts in the city since 2023.
   - q: What time do doors open?
-    a: Not yet announced. Only the date (September 27, 2026) and venue are confirmed so far; check the official Etihad Arena or Ticketmaster-linked listing nearer the time for doors and start times.
+    a: >-
+      Not yet announced. Only the date (September 27, 2026) and venue are
+      confirmed so far; check the official Etihad Arena or Ticketmaster-linked
+      listing nearer the time for doors and start times.
   - q: How much are tickets?
-    a: Prices haven't been released. Given it's a single-night arena show, book early once tickets go on sale, and buy only through official/verified sellers.
+    a: >-
+      Prices haven't been released. Given it's a single-night arena show, book
+      early once tickets go on sale, and buy only through official/verified
+      sellers.
   - q: How do I get to Etihad Arena from Dubai or central Abu Dhabi?
-    a: By car or taxi/ride-hail — roughly 45–60 minutes from Dubai, 20–30 minutes from central Abu Dhabi. There's no metro link to Yas Island, so driving or ride-hailing is the practical option.
+    a: >-
+      By car or taxi/ride-hail — roughly 45–60 minutes from Dubai, 20–30 minutes
+      from central Abu Dhabi. There's no metro link to Yas Island, so driving or
+      ride-hailing is the practical option.
   - q: What else can I do nearby before or after the show?
-    a: Yas Island has Yas Mall, Ferrari World, Warner Bros. World, and Yas Marina's waterfront restaurants all within a short drive of the arena, making it easy to build a full evening around the concert.
+    a: >-
+      Yas Island has Yas Mall, Ferrari World, Warner Bros. World, and Yas
+      Marina's waterfront restaurants all within a short drive of the arena,
+      making it easy to build a full evening around the concert.
 aiGenerated: true
 draft: false
+eventRecurring: false
 ---
 
 ## Why this show matters

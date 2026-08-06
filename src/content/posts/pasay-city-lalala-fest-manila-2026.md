@@ -1,6 +1,8 @@
 ---
 title: 'LaLaLa Fest Manila 2026: What to Know (Pasay City)'
-description: LaLaLa Fest Manila 2026 is set for August 21, 2026 at the World Trade Center Manila in Pasay City, headlined by Steve Lacy and Two Door Cinema Club.
+description: >-
+  LaLaLa Fest Manila 2026 is set for August 21, 2026 at the World Trade Center
+  Manila in Pasay City, headlined by Steve Lacy and Two Door Cinema Club.
 country: Philippines
 region: Manila
 category: event
@@ -8,28 +10,52 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-08-21'
 eventEndDate: '2026-08-21'
 heroImage:
-  url: https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8Y29uY2VydCUyMGxpdmUlMjBldmVudCUyMHN0YWdlfGVufDB8MHx8fDE3ODQ3NzU4NjJ8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  url: >-
+    https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8Y29uY2VydCUyMGxpdmUlMjBldmVudCUyMHN0YWdlfGVufDB8MHx8fDE3ODQ3NzU4NjJ8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
   credit: Photo by Yvette de Wit on Unsplash
   license: unsplash
-  source: https://unsplash.com/@yvettedewit?utm_source=korea_travel_guide&utm_medium=referral
+  source: >-
+    https://unsplash.com/@yvettedewit?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - pasay city
   - event
-quickAnswer: LaLaLa Fest Manila 2026 is set for August 21, 2026 at the World Trade Center Manila in Pasay City, headlined by Steve Lacy and Two Door Cinema Club. Treat this as an outdoor/indoor convention-center festival day trip from Manila proper — nearest transit is the LRT-1 Edsa or MRT-3 Taft Ave stations, both a short ride/taxi from the venue. Confirm exact set times, gate hours, and ticket tiers on LaLaLa Fest's official channels before booking flights or hotels.
+quickAnswer: >-
+  LaLaLa Fest Manila 2026 is set for August 21, 2026 at the World Trade Center
+  Manila in Pasay City, headlined by Steve Lacy and Two Door Cinema Club. Treat
+  this as an outdoor/indoor convention-center festival day trip from Manila
+  proper — nearest transit is the LRT-1 Edsa or MRT-3 Taft Ave stations, both a
+  short ride/taxi from the venue. Confirm exact set times, gate hours, and
+  ticket tiers on LaLaLa Fest's official channels before booking flights or
+  hotels.
 faq:
-  - q: Is the August 21, 2026 date for LaLaLa Fest Manila confirmed?
-    a: That's the announced date, but always check LaLaLa Fest's official website or social media closer to the event for any updates, since festival dates and lineups can shift.
+  - q: 'Is the August 21, 2026 date for LaLaLa Fest Manila confirmed?'
+    a: >-
+      That's the announced date, but always check LaLaLa Fest's official website
+      or social media closer to the event for any updates, since festival dates
+      and lineups can shift.
   - q: How do I get to World Trade Center Manila from the airport?
-    a: NAIA is about 15-20 minutes away by car depending on terminal and traffic; Grab or airport taxi is the most straightforward option, especially with luggage.
+    a: >-
+      NAIA is about 15-20 minutes away by car depending on terminal and traffic;
+      Grab or airport taxi is the most straightforward option, especially with
+      luggage.
   - q: Who's headlining LaLaLa Fest Manila 2026?
-    a: Steve Lacy and Two Door Cinema Club are the confirmed international headliners; additional acts may be announced closer to the date.
+    a: >-
+      Steve Lacy and Two Door Cinema Club are the confirmed international
+      headliners; additional acts may be announced closer to the date.
   - q: What's the closest train station to the venue?
-    a: LRT-1's EDSA/Libertad station and MRT-3's Taft Avenue station are nearest, but you'll still need a short tricycle, jeepney, or Grab ride to reach WTC itself.
+    a: >-
+      LRT-1's EDSA/Libertad station and MRT-3's Taft Avenue station are nearest,
+      but you'll still need a short tricycle, jeepney, or Grab ride to reach WTC
+      itself.
   - q: Where should I stay for the festival?
-    a: Roxas Boulevard hotels or the Entertainment City/Bay Area strip (near Solaire, Okada, City of Dreams) are a short ride from WTC and close to SM Mall of Asia for food and essentials.
+    a: >-
+      Roxas Boulevard hotels or the Entertainment City/Bay Area strip (near
+      Solaire, Okada, City of Dreams) are a short ride from WTC and close to SM
+      Mall of Asia for food and essentials.
 aiGenerated: true
 draft: false
+eventRecurring: false
 ---
 
 ## Why go

@@ -95,7 +95,7 @@ const payload = JSON.stringify({
       }
     };
 
-    const write = (list) => {
+    const write = (list: unknown[]) => {
       try {
         localStorage.setItem(KEY, JSON.stringify(list));
         // Lets /my-trip and the header counter react without a reload.
@@ -119,19 +119,19 @@ const payload = JSON.stringify({
       }
     })();
 
-    const paint = (btn, saved) => {
+    const paint = (btn: HTMLButtonElement, saved: boolean) => {
       btn.setAttribute('aria-pressed', saved ? 'true' : 'false');
       const text = btn.querySelector('.save-text');
-      if (text) text.textContent = saved ? btn.dataset.labelSaved : btn.dataset.labelSave;
+      if (text) text.textContent = (saved ? btn.dataset.labelSaved : btn.dataset.labelSave) ?? '';
     };
 
-    const slugOf = (btn) => {
+    const slugOf = (btn: HTMLButtonElement) => {
       try { return JSON.parse(btn.dataset.save || '{}').slug || ''; } catch { return ''; }
     };
 
     const sync = () => {
       const saved = new Set(read().map((x) => x.slug));
-      document.querySelectorAll('.save-btn[data-save]').forEach((btn) => {
+      document.querySelectorAll<HTMLButtonElement>('.save-btn[data-save]').forEach((btn) => {
         if (!storageUsable) {
           btn.disabled = true;
           btn.title = btn.dataset.labelBlocked || '';
@@ -142,14 +142,14 @@ const payload = JSON.stringify({
     };
 
     document.addEventListener('click', (e) => {
-      const btn = e.target instanceof Element ? e.target.closest('.save-btn[data-save]') : null;
+      const btn = e.target instanceof Element ? e.target.closest<HTMLButtonElement>('.save-btn[data-save]') : null;
       if (!btn) return;
       // Cards wrap their whole body in a link; without this, saving navigates.
       e.preventDefault();
       e.stopPropagation();
 
       let item;
-      try { item = JSON.parse(btn.dataset.save); } catch { return; }
+      try { item = JSON.parse(btn.dataset.save ?? '{}'); } catch { return; }
       if (!item?.slug) return;
 
       const list = read();

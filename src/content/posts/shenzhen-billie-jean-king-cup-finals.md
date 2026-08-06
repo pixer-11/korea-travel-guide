@@ -1,6 +1,8 @@
 ---
 title: 'Billie Jean King Cup Finals: What to Know (Shenzhen)'
-description: Billie Jean King Cup Finals in Shenzhen, China — September 22-27, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  Billie Jean King Cup Finals in Shenzhen, China — September 22-27, 2026. What
+  it is, when and where, and how to plan around it.
 country: China
 region: Shenzhen
 category: event
@@ -8,27 +10,56 @@ pubDate: '2026-07-29'
 eventStartDate: '2026-09-22'
 eventEndDate: '2026-09-27'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/c/cf/Billie_Jean_King_in_2024.jpg
-  credit: 'Photo: Office of the Governor of Massachusetts / Wikimedia Commons (Public domain)'
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/c/cf/Billie_Jean_King_in_2024.jpg
+  credit: >-
+    Photo: Office of the Governor of Massachusetts / Wikimedia Commons (Public
+    domain)
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Billie_Jean_King_in_2024.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Billie_Jean_King_in_2024.jpg'
 tags:
   - shenzhen
   - event
-quickAnswer: The Billie Jean King Cup Finals — the top international team event in women's tennis — is set for Shenzhen, China, September 22–27, 2026. Treat that as the working date until it's confirmed on the official Billie Jean King Cup / ITF website, since venue, session times, and ticket on-sale details for a 2026 edition haven't been locked down publicly yet. Plan to be in Shenzhen for at least two to three days if you want to catch both group-stage matches and the knockout rounds.
+quickAnswer: >-
+  The Billie Jean King Cup Finals — the top international team event in women's
+  tennis — is set for Shenzhen, China, September 22–27, 2026. Treat that as the
+  working date until it's confirmed on the official Billie Jean King Cup / ITF
+  website, since venue, session times, and ticket on-sale details for a 2026
+  edition haven't been locked down publicly yet. Plan to be in Shenzhen for at
+  least two to three days if you want to catch both group-stage matches and the
+  knockout rounds.
 faq:
   - q: What are the exact dates of the Billie Jean King Cup Finals in Shenzhen?
-    a: The event is scheduled for September 22–27, 2026. Treat this as the current announced window and confirm on the official Billie Jean King Cup website closer to the date, since exact daily schedules haven't been published yet.
+    a: >-
+      The event is scheduled for September 22–27, 2026. Treat this as the
+      current announced window and confirm on the official Billie Jean King Cup
+      website closer to the date, since exact daily schedules haven't been
+      published yet.
   - q: How do I get to Shenzhen for the event?
-    a: Fly into Shenzhen Bao'an International Airport (SZX) directly, or fly into Hong Kong International Airport and take a cross-border coach or high-speed rail into Shenzhen. Domestic travelers can use the high-speed rail into Shenzhen North or Futian stations.
+    a: >-
+      Fly into Shenzhen Bao'an International Airport (SZX) directly, or fly into
+      Hong Kong International Airport and take a cross-border coach or
+      high-speed rail into Shenzhen. Domestic travelers can use the high-speed
+      rail into Shenzhen North or Futian stations.
   - q: How much do tickets cost?
-    a: Ticket prices haven't been announced publicly yet. Wait for the official on-sale announcement on the Billie Jean King Cup site rather than relying on resellers.
+    a: >-
+      Ticket prices haven't been announced publicly yet. Wait for the official
+      on-sale announcement on the Billie Jean King Cup site rather than relying
+      on resellers.
   - q: How many days should I plan for?
-    a: Two to three days minimum if you want to see the more competitive knockout matches, but the full event runs September 22–27, so serious fans often plan for most of the week since the final four isn't determined until midweek.
+    a: >-
+      Two to three days minimum if you want to see the more competitive knockout
+      matches, but the full event runs September 22–27, so serious fans often
+      plan for most of the week since the final four isn't determined until
+      midweek.
   - q: What's the weather like in Shenzhen in late September?
-    a: Expect warm, humid conditions with a chance of rain — it's the tail end of the subtropical wet season. Matches will be played indoors or under cover regardless of weather.
+    a: >-
+      Expect warm, humid conditions with a chance of rain — it's the tail end of
+      the subtropical wet season. Matches will be played indoors or under cover
+      regardless of weather.
 aiGenerated: true
 draft: true
+eventRecurring: true
 ---
 
 ## Why this event matters

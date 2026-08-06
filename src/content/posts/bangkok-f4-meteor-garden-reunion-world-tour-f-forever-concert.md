@@ -1,6 +1,10 @@
 ---
-title: 'F4 (Meteor Garden) Reunion World Tour – F-Forever Concert: What to Know (Bangkok)'
-description: F4 (Meteor Garden) Reunion World Tour – F-Forever Concert in Bangkok, Thailand — August 1-2, 2026. What it is, when and where, and how to plan around it.
+title: >-
+  F4 (Meteor Garden) Reunion World Tour – F-Forever Concert: What to Know
+  (Bangkok)
+description: >-
+  F4 (Meteor Garden) Reunion World Tour – F-Forever Concert in Bangkok, Thailand
+  — August 1-2, 2026. What it is, when and where, and how to plan around it.
 country: Thailand
 region: Bangkok
 category: event
@@ -11,20 +15,45 @@ gallery: []
 tags:
   - bangkok
   - event
-quickAnswer: F4 — Jerry Yan, Vanness Wu, and Vic Chou, the trio that made Meteor Garden a pan-Asian phenomenon in the early 2000s — reunite for two nights at IMPACT Arena in Bangkok, August 1–2, 2026, with Mayday's Ashin joining as a special guest. This is the first stop of their reunion world tour, so expect strong regional demand from fans across Southeast Asia, Taiwan, and China; confirm exact showtimes, ticket tiers, and on-sale dates on the official tour and IMPACT Arena channels before booking flights or hotels.
+quickAnswer: >-
+  F4 — Jerry Yan, Vanness Wu, and Vic Chou, the trio that made Meteor Garden a
+  pan-Asian phenomenon in the early 2000s — reunite for two nights at IMPACT
+  Arena in Bangkok, August 1–2, 2026, with Mayday's Ashin joining as a special
+  guest. This is the first stop of their reunion world tour, so expect strong
+  regional demand from fans across Southeast Asia, Taiwan, and China; confirm
+  exact showtimes, ticket tiers, and on-sale dates on the official tour and
+  IMPACT Arena channels before booking flights or hotels.
 faq:
   - q: Where exactly is the concert held?
-    a: IMPACT Arena, part of the IMPACT Muang Thong Thani complex north of central Bangkok — not on the BTS/MRT lines directly, so plan transport in advance.
+    a: >-
+      IMPACT Arena, part of the IMPACT Muang Thong Thani complex north of
+      central Bangkok — not on the BTS/MRT lines directly, so plan transport in
+      advance.
   - q: How do I get to IMPACT Arena without a car?
-    a: Take the BTS to Mo Chit station and use the free IMPACT shuttle bus that runs to the venue on event days; this is the most common route for concertgoers. Grab/taxi is the alternative but can be slow in evening traffic.
+    a: >-
+      Take the BTS to Mo Chit station and use the free IMPACT shuttle bus that
+      runs to the venue on event days; this is the most common route for
+      concertgoers. Grab/taxi is the alternative but can be slow in evening
+      traffic.
   - q: Are Ken Chu or all four original F4 members performing?
-    a: This reunion is confirmed as Jerry Yan, Vanness Wu, and Vic Chou, joined by special guest Ashin of Mayday. Always check the official tour page for the most current lineup before booking.
+    a: >-
+      This reunion is confirmed as Jerry Yan, Vanness Wu, and Vic Chou, joined
+      by special guest Ashin of Mayday. Always check the official tour page for
+      the most current lineup before booking.
   - q: When do tickets go on sale and how much do they cost?
-    a: Exact ticket tiers, prices, and on-sale dates weren't publicly locked in at the time of writing. Check the official F4 tour channels and IMPACT Arena's ticketing partner directly, and be cautious of unofficial resellers.
+    a: >-
+      Exact ticket tiers, prices, and on-sale dates weren't publicly locked in
+      at the time of writing. Check the official F4 tour channels and IMPACT
+      Arena's ticketing partner directly, and be cautious of unofficial
+      resellers.
   - q: How many nights is the show and should I book both?
-    a: Two nights are scheduled, August 1–2, 2026. Given this is an early reunion-tour stop likely to draw regional fans, book as soon as official tickets release rather than waiting.
+    a: >-
+      Two nights are scheduled, August 1–2, 2026. Given this is an early
+      reunion-tour stop likely to draw regional fans, book as soon as official
+      tickets release rather than waiting.
 aiGenerated: true
 draft: true
+eventRecurring: false
 ---
 
 ## Why this show matters

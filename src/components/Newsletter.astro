@@ -74,7 +74,7 @@ const ML_ACTION = '/api/subscribe';
 
       const data = new FormData();
       data.append('fields[email]', email);
-      const rd = (n) => (form.querySelector(`input[name=${n}]`)?.value || '');
+      const rd = (n: string) => (form.querySelector<HTMLInputElement>(`input[name=${n}]`)?.value || '');
       if (rd('region')) data.append('fields[region]', rd('region'));
       data.append('fields[lang]', rd('lang') || 'en');
       data.append('fields[signup_source]', rd('source'));

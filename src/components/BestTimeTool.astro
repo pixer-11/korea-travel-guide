@@ -57,9 +57,9 @@ const index = posts
       c: localizePlace(country, lang),
       cat: p.data.category,
       b: wallFor(p.data.heroImage?.url),
-      wq: p.data.place.busyness.weekdayQuiet ?? [],
-      weq: p.data.place.busyness.weekendQuiet ?? [],
-      web: p.data.place.busyness.weekendBusy ?? [],
+      wq: p.data.place?.busyness?.weekdayQuiet ?? [],
+      weq: p.data.place?.busyness?.weekendQuiet ?? [],
+      web: p.data.place?.busyness?.weekendBusy ?? [],
     };
   })
   .sort((a, b) => a.c.localeCompare(b.c) || a.r.localeCompare(b.r) || a.t.localeCompare(b.t));

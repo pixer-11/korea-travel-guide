@@ -1,7 +1,10 @@
 ---
 draft: true
 title: 'Hong Kong Football Festival 2026: What to Know (Hong Kong)'
-description: The Hong Kong Football Festival 2026 runs July 31–August 5, 2026 at the new Kai Tak Stadium, with two exhibition matches featuring Manchester City, Inter Milan, Chelsea FC and Juventus.
+description: >-
+  The Hong Kong Football Festival 2026 runs July 31–August 5, 2026 at the new
+  Kai Tak Stadium, with two exhibition matches featuring Manchester City, Inter
+  Milan, Chelsea FC and Juventus.
 country: China
 region: Hong Kong
 category: event
@@ -9,27 +12,57 @@ pubDate: '2026-07-21'
 eventStartDate: '2026-07-31'
 eventEndDate: '2026-08-05'
 heroImage:
-  url: https://images.unsplash.com/photo-1546886465-f7f7101da2cd?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SG9uZyUyMEtvbmclMjBDaGluYSUyMGZvb3RiYWxsJTIwc29jY2VyJTIwc3RhZGl1bXxlbnwwfDB8fHwxNzg0Nzc1ODI4fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  url: >-
+    https://images.unsplash.com/photo-1546886465-f7f7101da2cd?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SG9uZyUyMEtvbmclMjBDaGluYSUyMGZvb3RiYWxsJTIwc29jY2VyJTIwc3RhZGl1bXxlbnwwfDB8fHwxNzg0Nzc1ODI4fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
   credit: Photo by Mark Billante on Unsplash
   license: unsplash
-  source: https://unsplash.com/@mibillante?utm_source=korea_travel_guide&utm_medium=referral
+  source: >-
+    https://unsplash.com/@mibillante?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - hong kong
   - event
-quickAnswer: The Hong Kong Football Festival 2026 runs July 31–August 5, 2026 at the new Kai Tak Stadium, with two exhibition matches featuring Manchester City, Inter Milan, Chelsea FC and Juventus. Treat this as a landmark test event for the just-opened stadium — book flights/hotels early since Kai Tak seats tens of thousands and demand from four major European clubs' fanbases will be high. Confirm exact match dates, kickoff times, and ticket release windows on the official Hong Kong Football Festival and Kai Tak Stadium channels closer to the event.
+quickAnswer: >-
+  The Hong Kong Football Festival 2026 runs July 31–August 5, 2026 at the new
+  Kai Tak Stadium, with two exhibition matches featuring Manchester City, Inter
+  Milan, Chelsea FC and Juventus. Treat this as a landmark test event for the
+  just-opened stadium — book flights/hotels early since Kai Tak seats tens of
+  thousands and demand from four major European clubs' fanbases will be high.
+  Confirm exact match dates, kickoff times, and ticket release windows on the
+  official Hong Kong Football Festival and Kai Tak Stadium channels closer to
+  the event.
 faq:
   - q: What are the exact dates of the Hong Kong Football Festival 2026?
-    a: It's scheduled for July 31 – August 5, 2026, with two exhibition matches taking place within that window. Confirm the specific match days and kickoff times on the official festival site closer to the event, as these can shift.
+    a: >-
+      It's scheduled for July 31 – August 5, 2026, with two exhibition matches
+      taking place within that window. Confirm the specific match days and
+      kickoff times on the official festival site closer to the event, as these
+      can shift.
   - q: Which teams are playing?
-    a: Manchester City, Inter Milan, Chelsea FC and Juventus are confirmed as participating clubs across two exhibition matches. The exact pairings (who plays whom, and on which date) haven't been detailed here, so check the official schedule before booking around a specific team.
+    a: >-
+      Manchester City, Inter Milan, Chelsea FC and Juventus are confirmed as
+      participating clubs across two exhibition matches. The exact pairings (who
+      plays whom, and on which date) haven't been detailed here, so check the
+      official schedule before booking around a specific team.
   - q: How do I get to Kai Tak Stadium?
-    a: Take the MTR Tuen Ma line to Kai Tak station, which connects directly into the Kai Tak Sports Park development in Kowloon East. Expect heavy foot traffic on match days and consider allowing extra time or using shuttle buses if available.
+    a: >-
+      Take the MTR Tuen Ma line to Kai Tak station, which connects directly into
+      the Kai Tak Sports Park development in Kowloon East. Expect heavy foot
+      traffic on match days and consider allowing extra time or using shuttle
+      buses if available.
   - q: How much are tickets and when do they go on sale?
-    a: Pricing and sale dates weren't available at the time of writing. Given the profile of the clubs involved, expect strong demand — monitor the official Hong Kong Football Festival channels for ticket release announcements.
-  - q: What's the weather like, and should I book a hotel early?
-    a: Late July/early August in Hong Kong is hot, humid, and prone to thunderstorms or typhoons, though Kai Tak Stadium has a roof and cooling system. It's also peak summer tourist season, so book accommodation in Kowloon or on Hong Kong Island well in advance.
+    a: >-
+      Pricing and sale dates weren't available at the time of writing. Given the
+      profile of the clubs involved, expect strong demand — monitor the official
+      Hong Kong Football Festival channels for ticket release announcements.
+  - q: 'What''s the weather like, and should I book a hotel early?'
+    a: >-
+      Late July/early August in Hong Kong is hot, humid, and prone to
+      thunderstorms or typhoons, though Kai Tak Stadium has a roof and cooling
+      system. It's also peak summer tourist season, so book accommodation in
+      Kowloon or on Hong Kong Island well in advance.
 aiGenerated: true
+eventRecurring: true
 ---
 
 ## Why this event matters

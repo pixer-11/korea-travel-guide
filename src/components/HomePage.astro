@@ -34,11 +34,11 @@ const flagship = ['jeju-seongsan-ilchulbong', 'seoul-gyeongbokgung-palace', 'sok
 // the pick rotates by ISO week so a returning visitor sees somewhere new without
 // anyone editing a list. The rotation is derived, not random: the same week
 // always yields the same cover, so builds stay reproducible.
-const isoWeek = (d) => {
+const isoWeek = (d: Date) => {
   const t = new Date(Date.UTC(d.getUTCFullYear(), d.getUTCMonth(), d.getUTCDate()));
   t.setUTCDate(t.getUTCDate() + 4 - (t.getUTCDay() || 7));           // Thursday of this week
   const yearStart = new Date(Date.UTC(t.getUTCFullYear(), 0, 1));
-  return Math.ceil(((t - yearStart) / 86400000 + 1) / 7);
+  return Math.ceil(((t.getTime() - yearStart.getTime()) / 86400000 + 1) / 7);
 };
 
 // Eligible = a real place, a photo good enough to fill the cover, and enough
@@ -74,7 +74,7 @@ const latest = rest.slice(0, 3);
 // trendy venues still on a city/landmark fallback hero undercut the "real places,
 // real photos" promise; attractions/events read fine with a landmark shot, but
 // food venues must have their OWN self-hosted photo (/venue-photos/) to appear here.
-const trustworthyCard = (p) => {
+const trustworthyCard = (p: any) => {
   const cat = p.data.category;
   if (cat === 'attraction' || cat === 'event' || cat === 'essentials') return true;
   return (p.data.heroImage?.url || '').includes('/venue-photos/');
@@ -83,7 +83,7 @@ const latestIds = new Set(latest.map((p) => p.id));
 const moreGuides = rest.filter((p) => !latestIds.has(p.id) && trustworthyCard(p)).slice(0, 6);
 
 const seed = Number(new Date().toISOString().slice(0, 10).replace(/-/g, '')) || 1;
-function shuffle(arr) {
+function shuffle<T>(arr: T[]) {
   const a = [...arr];
   let s = seed;
   for (let i = a.length - 1; i > 0; i--) {
@@ -99,11 +99,11 @@ const wall = shuffle(wallData.images ?? []).slice(0, 12).map((url) => ({ url }))
 const wallRow1 = wall.slice(0, 6);
 const wallRow2 = wall.slice(6, 12);
 
-const countFor = (name) => posts.filter((p) => (p.data.country ?? 'South Korea') === name).length;
+const countFor = (name: string) => posts.filter((p) => (p.data.country ?? 'South Korea') === name).length;
 const countries = countriesData.countries.map((c) => ({ ...c, count: countFor(c.name) }));
 const live = countries.filter((c) => c.count > 0);
 const soon = countries.filter((c) => c.count === 0);
-const repImage = (name) => tileSize(pickRepHeroUrl(posts.filter((p) => (p.data.country ?? 'South Korea') === name)));
+const repImage = (name: string) => tileSize(pickRepHeroUrl(posts.filter((p) => (p.data.country ?? 'South Korea') === name)));
 
 const koreaLinks = [
   { label: 'Seoul', href: '/regions/seoul' },

@@ -33,7 +33,8 @@ export async function whenToGoCountries() {
     .filter((c) => slugOf.has(c))
     .map((country) => ({
       country,
-      slug: slugOf.get(country),
+      // The filter above guarantees this; the ?? keeps the type honest.
+      slug: slugOf.get(country) ?? country,
       venues: posts.filter((p) => (p.data.country ?? 'South Korea') === country).length,
     }))
     .sort((a, b) => b.venues - a.venues || a.country.localeCompare(b.country));

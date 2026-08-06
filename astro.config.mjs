@@ -20,6 +20,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 // would look manipulative to search engines and dilute the freshness signal.
 function contentLastmod() {
   const map = new Map();
+  /** @param {string} dir @param {(slug: string) => string} toPath */
   const grab = (dir, toPath) => {
     let files = [];
     try { files = readdirSync(dir); } catch { return; }
@@ -27,6 +28,7 @@ function contentLastmod() {
       if (!f.endsWith('.md')) continue;
       let fm = '';
       try { fm = readFileSync(join(dir, f), 'utf8').split('---')[1] || ''; } catch { continue; }
+      /** @param {string} k */
       const pick = (k) => new RegExp(`(?:^|\\n)${k}:\\s*['"]?(\\d{4}-\\d{2}-\\d{2})`).exec(fm)?.[1];
       const date = pick('updatedDate') || pick('pubDate') || pick('lastReviewed');
       if (date) map.set(toPath(f.replace(/\.md$/, '')), date);
@@ -34,8 +36,8 @@ function contentLastmod() {
   };
   // Post + essentials routes both use the filename slug as the URL segment
   // (posts: params.slug = post.id; essentials: params.country = entry.id).
-  grab(join(__dirname, 'src/content/posts'), (slug) => `/posts/${slug}`);
-  grab(join(__dirname, 'src/content/essentials'), (slug) => `/essentials/${slug}`);
+  grab(join(__dirname, 'src/content/posts'), (/** @type {string} */ slug) => `/posts/${slug}`);
+  grab(join(__dirname, 'src/content/essentials'), (/** @type {string} */ slug) => `/essentials/${slug}`);
   return map;
 }
 
@@ -55,6 +57,7 @@ function noindexSlugs() {
       if (!f.endsWith('.md')) continue;
       const raw = readFileSync(join(dir, f), 'utf8');
       const fm = raw.slice(4, raw.indexOf(String.fromCharCode(10) + '---', 3));
+      /** @param {string} k */
       const val = (k) => {
         const line = fm.split(String.fromCharCode(10)).find((l) => l.trimStart().startsWith(k + ':'));
         return line ? line.trimStart().slice(k.length + 1).trim().replace(/^["']|["']$/g, '') : '';
@@ -85,11 +88,13 @@ const LASTMOD = contentLastmod();
 // listing.
 function hubLastmod() {
   const map = new Map();
+  /** @param {string} path @param {string | undefined} date */
   const bump = (path, date) => {
     if (!date) return;
     const prev = map.get(path);
     if (!prev || date > prev) map.set(path, date);
   };
+  /** @param {unknown} s */
   const slugify = (s) => String(s).toLowerCase().trim().replace(/\s+/g, '-');
   try {
     const dir = join(__dirname, 'src/content/posts');
@@ -98,6 +103,7 @@ function hubLastmod() {
       const raw = readFileSync(join(dir, f), 'utf8');
       const fm = raw.slice(4, raw.indexOf(String.fromCharCode(10) + "---", 3));
       if (/^draft:\s*true/m.test(fm)) continue;
+      /** @param {string} k */
       const val = (k) => {
         const line = fm.split('\n').find((l) => l.trimStart().startsWith(k + ':'));
         if (!line) return '';
@@ -135,6 +141,7 @@ const HUB_LASTMOD = hubLastmod();
 // of 125 pages, e.g. /regions/abu%20dhabi/) to a proper slug. Emit 301s from the
 // old encoded paths so any already-indexed %20 URL passes its equity to the new
 // clean path instead of 404ing. Keep this slugify identical to src/lib/slug.ts.
+/** @param {string} input */
 function regionSlug(input) {
   return String(input)
     .normalize('NFKD')
@@ -184,6 +191,7 @@ function regionRedirects() {
   // an indexed URL keeps its equity. Defined before the drafts loop because the
   // drafts loop must apply it too — a quarantined Xian post used to redirect to
   // /regions/xian/, a spelling whose hub never existed.
+  /** @type {Record<string, string>} */
   const alias = {
     'new-york-city': 'new-york',
     'metro-manila': 'manila',
@@ -197,6 +205,7 @@ function regionRedirects() {
     // metro-area convention as pasay/quezon → manila above.
     nonthaburi: 'bangkok',
   };
+  /** @param {string} name */
   const canon = (name) => {
     const raw = regionSlug(name);
     return alias[raw] ?? raw;
@@ -323,7 +332,7 @@ function regionRedirectsIntegration() {
   return {
     name: 'region-redirects',
     hooks: {
-      'astro:build:done': ({ dir }) => {
+      'astro:build:done': (/** @type {{ dir: URL }} */ { dir }) => {
         const lines = regionRedirects();
         if (!lines.length) return;
         const out = fileURLToPath(new URL('_redirects', dir));
@@ -341,6 +350,7 @@ function regionRedirectsIntegration() {
 // (crawl-budget + latency waste). Fixing it here — instead of in ~30 templates —
 // also covers every FUTURE template automatically (regression-proof).
 function trailingSlashIntegration() {
+  /** @param {string} url */
   const fixUrl = (url) => {
     if (!url.startsWith('/') || url.startsWith('//')) return url; // internal abs paths only
     const hashAt = url.indexOf('#');
@@ -354,6 +364,7 @@ function trailingSlashIntegration() {
     if (last.includes('.')) return url; // real files: .xml .ics .txt .md .jpg …
     return `${path}/${query}${hash}`;
   };
+  /** @param {string} dir @param {string[]} out @returns {string[]} */
   const walk = (dir, out = []) => {
     for (const f of readdirSync(dir)) {
       const p = join(dir, f);
@@ -365,7 +376,7 @@ function trailingSlashIntegration() {
   return {
     name: 'trailing-slash-links',
     hooks: {
-      'astro:build:done': ({ dir }) => {
+      'astro:build:done': (/** @type {{ dir: URL }} */ { dir }) => {
         const root = fileURLToPath(dir);
         let files = 0, links = 0;
         for (const file of walk(root)) {

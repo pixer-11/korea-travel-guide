@@ -55,6 +55,14 @@ jobs:
         # drops it, and then 34 files die at once on a fresh npm ci (2026-08-06).
         run: node scripts/lint-deps.mjs
 
+      # `astro check` had never run anywhere — not in CI, not in a script — so
+      # 113 type errors had accumulated where nobody would see them, including
+      # real ones (a prop the layout does not declare, a Map lookup that can be
+      # undefined). Cleared to zero on 2026-08-06; this keeps it there, because
+      # a count nobody enforces only goes back up.
+      - name: Types must check
+        run: npx astro check --minimumSeverity error
+
       - name: Run every *.test.mjs
         id: run
         run: |

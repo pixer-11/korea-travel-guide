@@ -1,6 +1,8 @@
 ---
 title: 'Stray Kids Concert: What to Know (Seoul)'
-description: Stray Kids Concert in Seoul, South Korea — August 1-2, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  Stray Kids Concert in Seoul, South Korea — August 1-2, 2026. What it is, when
+  and where, and how to plan around it.
 country: South Korea
 region: Seoul
 category: event
@@ -8,28 +10,54 @@ pubDate: '2026-07-29'
 eventStartDate: '2026-08-01'
 eventEndDate: '2026-08-02'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Stray_Kids_at_the_Music_Core_Mini_Fan_Meeting%2C_November_11%2C_2023.png/1920px-Stray_Kids_at_the_Music_Core_Mini_Fan_Meeting%2C_November_11%2C_2023.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Stray_Kids_at_the_Music_Core_Mini_Fan_Meeting%2C_November_11%2C_2023.png/1920px-Stray_Kids_at_the_Music_Core_Mini_Fan_Meeting%2C_November_11%2C_2023.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: 티비텐 / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Stray_Kids_at_the_Music_Core_Mini_Fan_Meeting,_November_11,_2023.png
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Stray_Kids_at_the_Music_Core_Mini_Fan_Meeting,_November_11,_2023.png
 gallery: []
 tags:
   - seoul
   - event
-quickAnswer: Stray Kids are set to play KSPO Dome in Seoul's Olympic Park on August 1–2, 2026, as part of their summer concert run. Ticketing, exact set times, and any lineup or support-act details haven't been officially locked in this far out, so treat this date as the current announcement and confirm everything — venue changes, ticket windows, entry times — on Stray Kids' and JYP Entertainment's official channels before you book flights.
+quickAnswer: >-
+  Stray Kids are set to play KSPO Dome in Seoul's Olympic Park on August 1–2,
+  2026, as part of their summer concert run. Ticketing, exact set times, and any
+  lineup or support-act details haven't been officially locked in this far out,
+  so treat this date as the current announcement and confirm everything — venue
+  changes, ticket windows, entry times — on Stray Kids' and JYP Entertainment's
+  official channels before you book flights.
 faq:
-  - q: Is the August 1–2, 2026 date confirmed?
-    a: It's the currently announced date for Stray Kids' Seoul stop, but tour dates, venues, and details can shift — always check Stray Kids' official social channels or JYP Entertainment's site before booking flights or hotels.
+  - q: 'Is the August 1–2, 2026 date confirmed?'
+    a: >-
+      It's the currently announced date for Stray Kids' Seoul stop, but tour
+      dates, venues, and details can shift — always check Stray Kids' official
+      social channels or JYP Entertainment's site before booking flights or
+      hotels.
   - q: How do I get to KSPO Dome?
-    a: Take subway Line 5 or Line 9 to Olympic Park Station, then walk about 10–15 minutes through Olympic Park to the dome. It's the most reliable option since roads around the venue get congested on show nights.
+    a: >-
+      Take subway Line 5 or Line 9 to Olympic Park Station, then walk about
+      10–15 minutes through Olympic Park to the dome. It's the most reliable
+      option since roads around the venue get congested on show nights.
   - q: Where do tickets go on sale?
-    a: Korean K-pop concerts typically sell through platforms like Interpark or Yes24, often with a fan-club presale first. No on-sale date or price has been published for this show yet, so watch official channels closely.
+    a: >-
+      Korean K-pop concerts typically sell through platforms like Interpark or
+      Yes24, often with a fan-club presale first. No on-sale date or price has
+      been published for this show yet, so watch official channels closely.
   - q: Can international fans buy tickets easily?
-    a: It can be tricky — Korean platforms often require a local phone number for verification. Many international fans use a trusted proxy purchasing service or verified fan-club membership; avoid unofficial resellers to dodge counterfeit tickets.
+    a: >-
+      It can be tricky — Korean platforms often require a local phone number for
+      verification. Many international fans use a trusted proxy purchasing
+      service or verified fan-club membership; avoid unofficial resellers to
+      dodge counterfeit tickets.
   - q: What else can I do near the venue?
-    a: KSPO Dome sits inside Olympic Park, home to the 1988 Olympic stadium grounds, an outdoor sculpture park, and a museum — all walkable before or after the show.
+    a: >-
+      KSPO Dome sits inside Olympic Park, home to the 1988 Olympic stadium
+      grounds, an outdoor sculpture park, and a museum — all walkable before or
+      after the show.
 aiGenerated: true
 draft: false
+eventRecurring: false
 ---
 
 ## Why this show matters

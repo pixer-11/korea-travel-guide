@@ -1,6 +1,8 @@
 ---
 title: 'The Weeknd Live in Concert: What to Know (Barcelona)'
-description: The Weeknd Live in Concert in Barcelona, Spain — September 1, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  The Weeknd Live in Concert in Barcelona, Spain — September 1, 2026. What it
+  is, when and where, and how to plan around it.
 country: Spain
 region: Barcelona
 category: event
@@ -8,28 +10,52 @@ pubDate: '2026-07-29'
 eventStartDate: '2026-09-01'
 eventEndDate: '2026-09-01'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/e/e0/The_Weeknd_%28253662129%29.jpeg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/e/e0/The_Weeknd_%28253662129%29.jpeg
   credit: 'Photo: Pedro Mora / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:The_Weeknd_(253662129).jpeg
+  source: 'https://commons.wikimedia.org/wiki/File:The_Weeknd_(253662129).jpeg'
 gallery: []
 tags:
   - barcelona
   - event
-quickAnswer: The Weeknd brings his stadium tour to Barcelona's Estadi Olímpic Lluís Companys on September 1, 2026. Doors typically open several hours before a headline stadium set, but you should confirm the exact set time, support acts, and remaining tickets on The Weeknd's official tour site or Ticketmaster before you book flights or hotels. The stadium sits on Montjuïc hill, easily reached by metro line 1 (Espanya) plus a walk, or the Montjuïc funicular/bus, so plan your route up the hill in advance.
+quickAnswer: >-
+  The Weeknd brings his stadium tour to Barcelona's Estadi Olímpic Lluís
+  Companys on September 1, 2026. Doors typically open several hours before a
+  headline stadium set, but you should confirm the exact set time, support acts,
+  and remaining tickets on The Weeknd's official tour site or Ticketmaster
+  before you book flights or hotels. The stadium sits on Montjuïc hill, easily
+  reached by metro line 1 (Espanya) plus a walk, or the Montjuïc funicular/bus,
+  so plan your route up the hill in advance.
 faq:
   - q: What's the exact date of The Weeknd's Barcelona show?
-    a: September 1, 2026, at Estadi Olímpic Lluís Companys, as currently announced — confirm on the official tour site in case of rescheduling.
+    a: >-
+      September 1, 2026, at Estadi Olímpic Lluís Companys, as currently
+      announced — confirm on the official tour site in case of rescheduling.
   - q: How do I get to Estadi Olímpic Lluís Companys?
-    a: Take Metro Line 1 to Plaça Espanya and walk about 20–25 minutes uphill, or use the Montjuïc funicular (linked to Metro Line 2/3 at Paral·lel) for a shorter climb. Event shuttle buses often run from Espanya on show nights.
+    a: >-
+      Take Metro Line 1 to Plaça Espanya and walk about 20–25 minutes uphill, or
+      use the Montjuïc funicular (linked to Metro Line 2/3 at Paral·lel) for a
+      shorter climb. Event shuttle buses often run from Espanya on show nights.
   - q: Where can I buy tickets and how much do they cost?
-    a: Tickets are sold through official channels like Ticketmaster Spain and The Weeknd's tour site. Prices vary by tier and haven't been fixed here — check the official listing for current pricing and availability.
+    a: >-
+      Tickets are sold through official channels like Ticketmaster Spain and The
+      Weeknd's tour site. Prices vary by tier and haven't been fixed here —
+      check the official listing for current pricing and availability.
   - q: How early should I arrive?
-    a: Stadium shows usually open gates several hours before the headline set with a support act beforehand. Arriving in the first hour after doors open, rather than right at opening, tends to avoid the worst entry crush while still giving you time to find a good spot.
+    a: >-
+      Stadium shows usually open gates several hours before the headline set
+      with a support act beforehand. Arriving in the first hour after doors
+      open, rather than right at opening, tends to avoid the worst entry crush
+      while still giving you time to find a good spot.
   - q: Is there anything to do near the venue before the show?
-    a: Poble Sec, at the base of Montjuïc on the Paral·lel side, is a good spot for vermouth or tapas before making the walk or funicular ride up the hill.
+    a: >-
+      Poble Sec, at the base of Montjuïc on the Paral·lel side, is a good spot
+      for vermouth or tapas before making the walk or funicular ride up the
+      hill.
 aiGenerated: true
 draft: false
+eventRecurring: false
 ---
 
 ## Why this show matters

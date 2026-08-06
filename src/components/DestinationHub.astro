@@ -69,7 +69,7 @@ const essentialsSlugs = new Set(
   (await getCollection('essentials', ({ data }) => !data.draft)).map((e) => e.id)
 );
 const hasEssentials = essentialsSlugs.has(country.slug);
-const hasEsim = !!esimFacts[country.slug];
+const hasEsim = !!(esimFacts as Record<string, unknown>)[country.slug];
 const regionImage = (r: string) => tileSize(pickRepHeroUrl(posts.filter((p) => p.data.region === r)));
 
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';

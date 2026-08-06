@@ -1,6 +1,8 @@
 ---
 title: 'Tyler, the Creator Concert: What to Know (Milan)'
-description: Tyler, the Creator Concert in Milan, Italy — August 25, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  Tyler, the Creator Concert in Milan, Italy — August 25, 2026. What it is, when
+  and where, and how to plan around it.
 country: Italy
 region: Milan
 category: event
@@ -8,28 +10,50 @@ pubDate: '2026-08-05'
 eventStartDate: '2026-08-25'
 eventEndDate: '2026-08-25'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/1/18/Tyler_The_Creator_Toronto_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/1/18/Tyler_The_Creator_Toronto_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
   credit: 'Photo: Lygonstreet / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Tyler_The_Creator_Toronto_2025.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Tyler_The_Creator_Toronto_2025.jpg'
 gallery: []
 tags:
   - milan
   - event
-quickAnswer: Tyler, The Creator plays Fiera Milano Live in Rho on August 25, 2026, as part of the tour behind his latest album. Doors typically open a couple of hours before a headline set at this venue, but treat all timing as provisional — confirm the schedule, support acts, and remaining tickets on Tyler's official tour page or the venue's site before you book flights or trains.
+quickAnswer: >-
+  Tyler, The Creator plays Fiera Milano Live in Rho on August 25, 2026, as part
+  of the tour behind his latest album. Doors typically open a couple of hours
+  before a headline set at this venue, but treat all timing as provisional —
+  confirm the schedule, support acts, and remaining tickets on Tyler's official
+  tour page or the venue's site before you book flights or trains.
 faq:
   - q: What is the exact date of the Milan show?
-    a: August 25, 2026, as currently announced for Fiera Milano Live in Rho — but confirm this on Tyler, The Creator's official tour page in case of rescheduling.
+    a: >-
+      August 25, 2026, as currently announced for Fiera Milano Live in Rho — but
+      confirm this on Tyler, The Creator's official tour page in case of
+      rescheduling.
   - q: How do I get to Fiera Milano Live from central Milan?
-    a: Take the M1 (red) metro line to Rho Fiera station, right at the venue entrance — about 30–40 minutes from Duomo or Cadorna. Suburban rail also serves Rho Fiera if you're coming from Malpensa airport.
+    a: >-
+      Take the M1 (red) metro line to Rho Fiera station, right at the venue
+      entrance — about 30–40 minutes from Duomo or Cadorna. Suburban rail also
+      serves Rho Fiera if you're coming from Malpensa airport.
   - q: Should I eat near the venue or in the city?
-    a: Eat in central Milan before you go — Rho has limited dining options near the arena, and locals typically have dinner first, then take the metro out with time to spare.
+    a: >-
+      Eat in central Milan before you go — Rho has limited dining options near
+      the arena, and locals typically have dinner first, then take the metro out
+      with time to spare.
   - q: Are tickets and set times confirmed?
-    a: Not in detail — doors, support acts, and pricing weren't locked in at publication. Check the official tour page and Fiera Milano Live's site directly before booking travel.
+    a: >-
+      Not in detail — doors, support acts, and pricing weren't locked in at
+      publication. Check the official tour page and Fiera Milano Live's site
+      directly before booking travel.
   - q: What's the crowd and venue like?
-    a: It's an open-air arena built for large touring productions, with general-admission crowding near the stage and warm August conditions during the pre-doors queue, so plan for sun and a packed standing area.
+    a: >-
+      It's an open-air arena built for large touring productions, with
+      general-admission crowding near the stage and warm August conditions
+      during the pre-doors queue, so plan for sun and a packed standing area.
 aiGenerated: true
 draft: false
+eventRecurring: false
 ---
 
 ## Why this show matters

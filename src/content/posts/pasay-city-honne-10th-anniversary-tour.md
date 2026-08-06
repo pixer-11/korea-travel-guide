@@ -1,6 +1,8 @@
 ---
 title: 'HONNE 10th Anniversary Tour: What to Know (Pasay City)'
-description: HONNE 10th Anniversary Tour in Pasay City, Philippines — August 10-12, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  HONNE 10th Anniversary Tour in Pasay City, Philippines — August 10-12, 2026.
+  What it is, when and where, and how to plan around it.
 country: Philippines
 region: Manila
 category: event
@@ -8,28 +10,55 @@ pubDate: '2026-07-24'
 eventStartDate: '2026-08-10'
 eventEndDate: '2026-08-12'
 heroImage:
-  url: https://images.unsplash.com/photo-1524368535928-5b5e00ddc76b?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8NHx8Y29uY2VydCUyMHN0YWdlJTIwbGl2ZSUyMG11c2ljfGVufDB8MHx8fDE3ODQ5MjIyMjR8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  url: >-
+    https://images.unsplash.com/photo-1524368535928-5b5e00ddc76b?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8NHx8Y29uY2VydCUyMHN0YWdlJTIwbGl2ZSUyMG11c2ljfGVufDB8MHx8fDE3ODQ5MjIyMjR8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
   credit: Photo by Vishnu R Nair on Unsplash
   license: unsplash
-  source: https://unsplash.com/@vishnurnair?utm_source=korea_travel_guide&utm_medium=referral
+  source: >-
+    https://unsplash.com/@vishnurnair?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - pasay city
   - event
-quickAnswer: British duo HONNE bring their 10th Anniversary world tour to Manila for three nights, August 10–12, 2026, at the Philippine International Convention Center (PICC) Plenary Hall in Pasay City. Ticketing, set times, and support acts haven't been detailed in the facts available here, so confirm all specifics — dates, doors, and price tiers — on HONNE's official channels and the official Philippine promoter/ticketing partner before you book flights or hotels.
+quickAnswer: >-
+  British duo HONNE bring their 10th Anniversary world tour to Manila for three
+  nights, August 10–12, 2026, at the Philippine International Convention Center
+  (PICC) Plenary Hall in Pasay City. Ticketing, set times, and support acts
+  haven't been detailed in the facts available here, so confirm all specifics —
+  dates, doors, and price tiers — on HONNE's official channels and the official
+  Philippine promoter/ticketing partner before you book flights or hotels.
 faq:
-  - q: What are the exact dates and venue for the HONNE 10th Anniversary Tour in Manila?
-    a: As announced, the shows run August 10–12, 2026, at the Philippine International Convention Center (PICC) Plenary Hall in Pasay City. Confirm exact dates and any changes on HONNE's official channels and the official ticketing partner before booking travel.
+  - q: >-
+      What are the exact dates and venue for the HONNE 10th Anniversary Tour in
+      Manila?
+    a: >-
+      As announced, the shows run August 10–12, 2026, at the Philippine
+      International Convention Center (PICC) Plenary Hall in Pasay City. Confirm
+      exact dates and any changes on HONNE's official channels and the official
+      ticketing partner before booking travel.
   - q: How do I get to PICC from Manila's airport or other districts?
-    a: PICC is about a 15–20 minute drive from NAIA, and roughly 20–40 minutes from Makati or BGC depending on traffic. There's no direct train station at the venue, so most attendees use Grab, taxis, or private cars.
+    a: >-
+      PICC is about a 15–20 minute drive from NAIA, and roughly 20–40 minutes
+      from Makati or BGC depending on traffic. There's no direct train station
+      at the venue, so most attendees use Grab, taxis, or private cars.
   - q: How much are tickets and where should I buy them?
-    a: Ticket prices and tiers haven't been confirmed in available official details. Buy only through HONNE's official tour announcements or the authorized local promoter/ticketing site to avoid scalped or fake tickets.
+    a: >-
+      Ticket prices and tiers haven't been confirmed in available official
+      details. Buy only through HONNE's official tour announcements or the
+      authorized local promoter/ticketing site to avoid scalped or fake tickets.
   - q: Should I pick a specific night out of the three?
-    a: Since HONNE is playing three consecutive nights, choose based on your own travel schedule rather than assuming one night is less crowded — demand could be strong across all three.
+    a: >-
+      Since HONNE is playing three consecutive nights, choose based on your own
+      travel schedule rather than assuming one night is less crowded — demand
+      could be strong across all three.
   - q: What else is nearby if I want to make a trip of it?
-    a: PICC sits near the CCP Complex, Manila Ocean Park, and Star City, all within walking or short driving distance in Pasay, making it easy to combine the concert with a day of sightseeing along Manila Bay.
+    a: >-
+      PICC sits near the CCP Complex, Manila Ocean Park, and Star City, all
+      within walking or short driving distance in Pasay, making it easy to
+      combine the concert with a day of sightseeing along Manila Bay.
 aiGenerated: true
 draft: false
+eventRecurring: false
 ---
 
 ## Why this show matters

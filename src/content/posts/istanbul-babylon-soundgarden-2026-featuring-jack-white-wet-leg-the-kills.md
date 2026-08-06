@@ -1,6 +1,11 @@
 ---
-title: 'Babylon Soundgarden 2026 featuring Jack White, Wet Leg & The Kills: What to Know (Istanbul)'
-description: Babylon Soundgarden 2026 is set for August 22–23, 2026, at Parkorman Nature Park in Istanbul's Maslak/Sarıyer area, with Jack White, Wet Leg and The Kills among the announced headliners.
+title: >-
+  Babylon Soundgarden 2026 featuring Jack White, Wet Leg & The Kills: What to
+  Know (Istanbul)
+description: >-
+  Babylon Soundgarden 2026 is set for August 22–23, 2026, at Parkorman Nature
+  Park in Istanbul's Maslak/Sarıyer area, with Jack White, Wet Leg and The Kills
+  among the announced headliners.
 country: Turkey
 region: Istanbul
 category: event
@@ -8,28 +13,49 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-08-22'
 eventEndDate: '2026-08-23'
 heroImage:
-  url: "https://images.unsplash.com/photo-1684679493212-6adfaf58c388?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SXN0YW5idWwlMjBUdXJrZXklMjBjb25jZXJ0JTIwbGl2ZSUyMGV2ZW50JTIwc3RhZ2V8ZW58MHwwfHx8MTc4NDc3NTI4OHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Efe Yağız Soysal on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@efeyagizs?utm_source=korea_travel_guide&utm_medium=referral"
+  url: >-
+    https://images.unsplash.com/photo-1684679493212-6adfaf58c388?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SXN0YW5idWwlMjBUdXJrZXklMjBjb25jZXJ0JTIwbGl2ZSUyMGV2ZW50JTIwc3RhZ2V8ZW58MHwwfHx8MTc4NDc3NTI4OHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Efe Yağız Soysal on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@efeyagizs?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - istanbul
   - event
-quickAnswer: 'Babylon Soundgarden 2026 is set for August 22–23, 2026, at Parkorman Nature Park in Istanbul''s Maslak/Sarıyer area, with Jack White, Wet Leg and The Kills among the announced headliners. Treat this as an outdoor, two-day festival: plan for a forested park venue on the European side, easy taxi/rideshare access from Levent and Maslak, and confirm final set times, stages and ticket tiers on Babylon''s official channels closer to the date.'
+quickAnswer: >-
+  Babylon Soundgarden 2026 is set for August 22–23, 2026, at Parkorman Nature
+  Park in Istanbul's Maslak/Sarıyer area, with Jack White, Wet Leg and The Kills
+  among the announced headliners. Treat this as an outdoor, two-day festival:
+  plan for a forested park venue on the European side, easy taxi/rideshare
+  access from Levent and Maslak, and confirm final set times, stages and ticket
+  tiers on Babylon's official channels closer to the date.
 faq:
   - q: What are the exact dates for Babylon Soundgarden 2026?
-    a: The festival is announced for August 22–23, 2026, in Istanbul. Confirm this on Babylon's official site as festival dates can occasionally shift.
+    a: >-
+      The festival is announced for August 22–23, 2026, in Istanbul. Confirm
+      this on Babylon's official site as festival dates can occasionally shift.
   - q: Where exactly is the festival held?
-    a: At Parkorman Nature Park, an outdoor forested events venue in the Maslak/Ayazağa area of Sarıyer district on Istanbul's European side.
+    a: >-
+      At Parkorman Nature Park, an outdoor forested events venue in the
+      Maslak/Ayazağa area of Sarıyer district on Istanbul's European side.
   - q: How do I get to Parkorman from central Istanbul?
-    a: Take the M2 metro to Levent or 4. Levent station, then a short taxi or rideshare to the venue, since Parkorman itself isn't directly on the metro. Direct taxi from Levent, Maslak or Şişli is the most common route.
+    a: >-
+      Take the M2 metro to Levent or 4. Levent station, then a short taxi or
+      rideshare to the venue, since Parkorman itself isn't directly on the
+      metro. Direct taxi from Levent, Maslak or Şişli is the most common route.
   - q: How much do tickets cost?
-    a: Pricing hasn't been confirmed here — check Babylon's official website or their ticketing partner (typically Biletix in Turkey) for current single-day and two-day pass prices.
+    a: >-
+      Pricing hasn't been confirmed here — check Babylon's official website or
+      their ticketing partner (typically Biletix in Turkey) for current
+      single-day and two-day pass prices.
   - q: Who is headlining besides Jack White?
-    a: Wet Leg and The Kills are also announced as headliners, with additional support acts typically revealed closer to the event date.
+    a: >-
+      Wet Leg and The Kills are also announced as headliners, with additional
+      support acts typically revealed closer to the event date.
 aiGenerated: true
 draft: false
+eventRecurring: true
 ---
 
 ## Why go

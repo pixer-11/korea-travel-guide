@@ -206,7 +206,7 @@ const days = d.itinerary.map((day: any, di: number) => {
 // (same site precedent as PostArticle — the ratings are Google's, not ours). ----
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
 const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
-const allStopPosts = days.flatMap((day) => day.stops.map((s: any) => s.post));
+const allStopPosts = days.flatMap((day: any) => day.stops.map((s: any) => s.post));
 
 const graph: Record<string, unknown>[] = [
   {
@@ -215,7 +215,7 @@ const graph: Record<string, unknown>[] = [
     description,
     itinerary: {
       '@type': 'ItemList',
-      itemListElement: allStopPosts.map((post, i) => ({
+      itemListElement: allStopPosts.map((post: any, i: number) => ({
         '@type': 'ListItem',
         position: i + 1,
         item: {
@@ -354,13 +354,13 @@ const availableLangs: Lang[] = ['en', 'ko', 'ja', 'es', 'zh'];
 
     {/* 4. Sticky day nav */}
     <nav class="itin-day-nav" aria-label={t('itin.indexEyebrow')}>
-      {days.map((_, i) => (
+      {days.map((_: any, i: number) => (
         <a href={`#day-${i + 1}`}>{t('itin.day').replace('{n}', String(i + 1))}</a>
       ))}
     </nav>
 
     {/* 5–7. Per-day sections: label+intro → stop cards → legs → day footer */}
-    {days.map((day, di) => (
+    {days.map((day: any, di: number) => (
       <>
       <section id={`day-${di + 1}`} class="itin-day" data-has-rain={day.rainPost ? '1' : ''}>
         <h2 class="itin-day-title">

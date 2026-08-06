@@ -6,10 +6,10 @@ import countriesData from '../../../data/countries.json';
 // One static page per continent that has any country in the data.
 export async function getStaticPaths() {
   const posts = await getCollection('posts', ({ data }) => !data.draft);
-  const countFor = (name) => posts.filter((p) => (p.data.country ?? 'South Korea') === name).length;
-  const slugify = (name) => name.toLowerCase().replace(/\s+/g, '-');
+  const countFor = (name: string) => posts.filter((p) => (p.data.country ?? 'South Korea') === name).length;
+  const slugify = (name: string) => name.toLowerCase().replace(/\s+/g, '-');
 
-  const byContinent = {};
+  const byContinent: Record<string, any[]> = {};
   for (const c of countriesData.countries) {
     (byContinent[c.continent || 'Other'] ||= []).push({ ...c, count: countFor(c.name) });
   }
@@ -17,7 +17,7 @@ export async function getStaticPaths() {
     params: { continent: slugify(name) },
     props: {
       continentName: name,
-      countries: countries.sort((a, b) => b.count - a.count || a.name.localeCompare(b.name)),
+      countries: (countries as any[]).sort((a: any, b: any) => b.count - a.count || a.name.localeCompare(b.name)),
     },
   }));
 }

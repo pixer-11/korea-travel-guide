@@ -26,7 +26,7 @@ const klookHref = city
   ? `/go/klook?to=${encodeURIComponent(`https://www.klook.com/${klookLocale(lang)}/search/?query=${city}`)}`
   : 'https://klook.tpx.lv/2NXPH8MA';
 
-const services = [
+const services: { icon: string; label: string; desc: string; href: string; internal?: boolean }[] = [
   { icon: 'admission-tickets', label: t('widget.toursLabel'), desc: city ? t('widget.toursDescCity').replace('{city}', cityLabel) : t('widget.toursDesc'), href: klookHref },
   { icon: 'automobile', label: t('widget.carLabel'), desc: t('widget.carDesc'), href: 'https://localrent.tpx.lv/qivp9ZCc' },
   // Kiwitaxi shortlink code is yRbl5tIp with a CAPITAL I — it was transcribed as

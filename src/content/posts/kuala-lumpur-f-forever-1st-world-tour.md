@@ -1,7 +1,9 @@
 ---
 draft: true
 title: 'F✦FOREVER 1st World Tour: What to Know (Kuala Lumpur)'
-description: F✦FOREVER 1st World Tour in Kuala Lumpur, Malaysia — August 7, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  F✦FOREVER 1st World Tour in Kuala Lumpur, Malaysia — August 7, 2026. What it
+  is, when and where, and how to plan around it.
 country: Malaysia
 region: Kuala Lumpur
 category: event
@@ -9,27 +11,48 @@ pubDate: '2026-07-24'
 eventStartDate: '2026-08-07'
 eventEndDate: '2026-08-07'
 heroImage:
-  url: https://images.unsplash.com/photo-1578899952059-c0cd092f9d14?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8S3VhbGElMjBMdW1wdXIlMjBNYWxheXNpYSUyMGNvbmNlcnQlMjBzdGFnZSUyMGxpdmUlMjBtdXNpY3xlbnwwfDB8fHwxNzg0OTIzNzQzfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  url: >-
+    https://images.unsplash.com/photo-1578899952059-c0cd092f9d14?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8S3VhbGElMjBMdW1wdXIlMjBNYWxheXNpYSUyMGNvbmNlcnQlMjBzdGFnZSUyMGxpdmUlMjBtdXNpY3xlbnwwfDB8fHwxNzg0OTIzNzQzfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
   credit: Photo by Fauzan on Unsplash
   license: unsplash
-  source: https://unsplash.com/@fauzanazhima?utm_source=korea_travel_guide&utm_medium=referral
+  source: >-
+    https://unsplash.com/@fauzanazhima?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - kuala lumpur
   - event
-quickAnswer: F✦FOREVER — the supergroup pairing Jerry Yan, Van Ness Wu and Vic Chou (of F4 fame) with Mayday's Ashin — brings its 1st World Tour to Axiata Arena, Bukit Jalil, Kuala Lumpur on August 7, 2026. Buy tickets only through the official promoter/ticketing partner once announced, and confirm gate times and any support acts closer to the date, since those details typically firm up a few weeks out.
+quickAnswer: >-
+  F✦FOREVER — the supergroup pairing Jerry Yan, Van Ness Wu and Vic Chou (of F4
+  fame) with Mayday's Ashin — brings its 1st World Tour to Axiata Arena, Bukit
+  Jalil, Kuala Lumpur on August 7, 2026. Buy tickets only through the official
+  promoter/ticketing partner once announced, and confirm gate times and any
+  support acts closer to the date, since those details typically firm up a few
+  weeks out.
 faq:
   - q: When exactly is the F✦FOREVER concert in Kuala Lumpur?
-    a: The date is announced as August 7, 2026, at Axiata Arena, Bukit Jalil. Always double-check the official tour page in case of rescheduling.
+    a: >-
+      The date is announced as August 7, 2026, at Axiata Arena, Bukit Jalil.
+      Always double-check the official tour page in case of rescheduling.
   - q: How do I get to Axiata Arena without a car?
-    a: Take the Kelana Jaya LRT Line to Bukit Jalil station, then walk about 10–15 minutes via the covered bridge to the arena.
+    a: >-
+      Take the Kelana Jaya LRT Line to Bukit Jalil station, then walk about
+      10–15 minutes via the covered bridge to the arena.
   - q: Where can I buy tickets safely?
-    a: Only through the official promoter or authorized ticketing platform once on-sale details are released; avoid resale listings, which tend to surge for reunion-style tours.
+    a: >-
+      Only through the official promoter or authorized ticketing platform once
+      on-sale details are released; avoid resale listings, which tend to surge
+      for reunion-style tours.
   - q: How early should I arrive on show day?
-    a: Aim for 2–3 hours before doors to account for security screening, merchandise queues, and the busy Bukit Jalil sports complex traffic.
+    a: >-
+      Aim for 2–3 hours before doors to account for security screening,
+      merchandise queues, and the busy Bukit Jalil sports complex traffic.
   - q: Where's a good base for travelers coming just for this show?
-    a: Central KL areas like Bangsar, Mid Valley, or near KL Sentral offer easy LRT or car access to Bukit Jalil, plus more hotel and dining options than the immediate venue area.
+    a: >-
+      Central KL areas like Bangsar, Mid Valley, or near KL Sentral offer easy
+      LRT or car access to Bukit Jalil, plus more hotel and dining options than
+      the immediate venue area.
 aiGenerated: true
+eventRecurring: false
 ---
 
 ## Why this show matters

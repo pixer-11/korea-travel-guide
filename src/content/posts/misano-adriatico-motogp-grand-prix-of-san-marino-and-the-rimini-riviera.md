@@ -1,6 +1,11 @@
 ---
-title: 'MotoGP Grand Prix of San Marino and the Rimini Riviera: What to Know (Misano Adriatico)'
-description: MotoGP Grand Prix of San Marino and the Rimini Riviera in Misano Adriatico, Italy — September 11-13, 2026. What it is, when and where, and how to plan around it.
+title: >-
+  MotoGP Grand Prix of San Marino and the Rimini Riviera: What to Know (Misano
+  Adriatico)
+description: >-
+  MotoGP Grand Prix of San Marino and the Rimini Riviera in Misano Adriatico,
+  Italy — September 11-13, 2026. What it is, when and where, and how to plan
+  around it.
 country: Italy
 region: Misano Adriatico
 category: event
@@ -8,28 +13,53 @@ pubDate: '2026-07-29'
 eventStartDate: '2026-09-11'
 eventEndDate: '2026-09-13'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/5/57/Paton_V115_%28Trofeo_GP_Misano_Adriatico_1986%29_-_Giuseppe_e_Roberto_Pattoni%2C_Vittorio_Scatola.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/5/57/Paton_V115_%28Trofeo_GP_Misano_Adriatico_1986%29_-_Giuseppe_e_Roberto_Pattoni%2C_Vittorio_Scatola.jpg
   credit: 'Photo: Unknown authorUnknown author / Wikimedia Commons (Public domain)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Paton_V115_(Trofeo_GP_Misano_Adriatico_1986)_-_Giuseppe_e_Roberto_Pattoni,_Vittorio_Scatola.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Paton_V115_(Trofeo_GP_Misano_Adriatico_1986)_-_Giuseppe_e_Roberto_Pattoni,_Vittorio_Scatola.jpg
 gallery: []
 tags:
   - misano adriatico
   - event
-quickAnswer: The MotoGP San Marino Grand Prix returns to the Misano World Circuit Marco Simoncelli on September 11-13, 2026, with practice on Friday, qualifying and sprint on Saturday, and the main race Sunday afternoon. Base yourself in Misano Adriatico or Riccione and book accommodation early, this weekend fills up the whole Rimini Riviera. Always confirm exact schedule and ticket details on the official MotoGP and circuit websites before you travel.
+quickAnswer: >-
+  The MotoGP San Marino Grand Prix returns to the Misano World Circuit Marco
+  Simoncelli on September 11-13, 2026, with practice on Friday, qualifying and
+  sprint on Saturday, and the main race Sunday afternoon. Base yourself in
+  Misano Adriatico or Riccione and book accommodation early, this weekend fills
+  up the whole Rimini Riviera. Always confirm exact schedule and ticket details
+  on the official MotoGP and circuit websites before you travel.
 faq:
   - q: What are the exact dates of the 2026 San Marino MotoGP?
-    a: September 11-13, 2026, at the Misano World Circuit Marco Simoncelli. Confirm the finalized session schedule on the official MotoGP website closer to the date.
+    a: >-
+      September 11-13, 2026, at the Misano World Circuit Marco Simoncelli.
+      Confirm the finalized session schedule on the official MotoGP website
+      closer to the date.
   - q: Where is the circuit and how do I get there?
-    a: It's just inland from Misano Adriatico on Italy's Adriatic coast, near Rimini and Riccione. Fly into Rimini's Federico Fellini Airport or Bologna, then use the train to Rimini/Riccione and race-weekend shuttle buses to the circuit gates.
+    a: >-
+      It's just inland from Misano Adriatico on Italy's Adriatic coast, near
+      Rimini and Riccione. Fly into Rimini's Federico Fellini Airport or
+      Bologna, then use the train to Rimini/Riccione and race-weekend shuttle
+      buses to the circuit gates.
   - q: Which day should I attend if I can only go for one?
-    a: Sunday has the full race card including MotoGP, but also the biggest crowds and traffic. Friday's free practice is quieter and a good choice if you mainly want paddock access and atmosphere without a packed grandstand.
+    a: >-
+      Sunday has the full race card including MotoGP, but also the biggest
+      crowds and traffic. Friday's free practice is quieter and a good choice if
+      you mainly want paddock access and atmosphere without a packed grandstand.
   - q: Where should I stay?
-    a: Misano Adriatico itself, or nearby Riccione and Cattolica, put you within easy reach of the circuit by shuttle or bike. Book well in advance — this is one of the busiest weekends of the year on the Riviera.
+    a: >-
+      Misano Adriatico itself, or nearby Riccione and Cattolica, put you within
+      easy reach of the circuit by shuttle or bike. Book well in advance — this
+      is one of the busiest weekends of the year on the Riviera.
   - q: What else is there to do nearby?
-    a: Rimini's old town (Roman arch, Malatesta Temple) and Riccione's beach promenade are both short train or bus rides away, good for filling a half-day between sessions or before/after the race weekend.
+    a: >-
+      Rimini's old town (Roman arch, Malatesta Temple) and Riccione's beach
+      promenade are both short train or bus rides away, good for filling a
+      half-day between sessions or before/after the race weekend.
 aiGenerated: true
 draft: false
+eventRecurring: true
 ---
 
 ## Why this race weekend is different

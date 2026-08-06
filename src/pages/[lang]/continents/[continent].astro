@@ -7,16 +7,16 @@ import type { Lang } from '../../../i18n/utils';
 export async function getStaticPaths() {
   const LANGS: Lang[] = ['ko', 'ja', 'es', 'zh'];
   const posts = await getCollection('posts', ({ data }) => !data.draft);
-  const countFor = (name) => posts.filter((p) => (p.data.country ?? 'South Korea') === name).length;
-  const slugify = (name) => name.toLowerCase().replace(/\s+/g, '-');
+  const countFor = (name: string) => posts.filter((p) => (p.data.country ?? 'South Korea') === name).length;
+  const slugify = (name: string) => name.toLowerCase().replace(/\s+/g, '-');
 
-  const byContinent = {};
+  const byContinent: Record<string, any[]> = {};
   for (const c of countriesData.countries) {
     (byContinent[c.continent || 'Other'] ||= []).push({ ...c, count: countFor(c.name) });
   }
   const entries = Object.entries(byContinent).map(([name, countries]) => ({
     name,
-    countries: (countries as any[]).sort((a, b) => b.count - a.count || a.name.localeCompare(b.name)),
+    countries: (countries as any[]).sort((a: any, b: any) => b.count - a.count || a.name.localeCompare(b.name)),
   }));
   return LANGS.flatMap((lang) =>
     entries.map(({ name, countries }) => ({

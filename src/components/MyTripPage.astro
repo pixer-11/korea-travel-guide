@@ -147,9 +147,13 @@ const strings = JSON.stringify({
 <script>
   (() => {
     const KEY = 'wa_trip_v1';
-    const list = document.querySelector('.trip-list');
+    // Typed lookups throughout this script: querySelector returns Element,
+    // which carries none of .dataset/.hidden/.href/.focus. The code was always
+    // right at runtime; annotating it is what lets `astro check` become a gate
+    // instead of 113 warnings nobody reads.
+    const list = document.querySelector<HTMLElement>('.trip-list');
     if (!list) return;
-    const bar = document.querySelector('.trip-bar');
+    const bar = document.querySelector<HTMLElement>('.trip-bar');
     const S = JSON.parse(list.dataset.strings || '{}');
 
     const read = () => {
@@ -159,21 +163,22 @@ const strings = JSON.stringify({
         return Array.isArray(v) ? v : [];
       } catch { return []; }
     };
-    const write = (v) => {
+    const write = (v: unknown[]) => {
       try {
         localStorage.setItem(KEY, JSON.stringify(v));
         window.dispatchEvent(new CustomEvent('wa-trip-change', { detail: { count: v.length } }));
       } catch { /* storage unavailable */ }
     };
 
-    const esc = (s) =>
-      String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+    const esc = (s: unknown) =>
+      String(s ?? '').replace(/[&<>"']/g, (c: string) =>
+        ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' } as Record<string, string>)[c]);
 
     const render = () => {
       const items = read();
 
       if (!items.length) {
-        bar.hidden = true;
+        if (bar) bar.hidden = true;
         list.innerHTML =
           `<p class="trip-empty">${esc(S.empty)} <a href="${esc(S.emptyHref)}">${esc(S.emptyCta)} →</a></p>`;
         // This early return used to skip the count and the live region, so after
@@ -181,30 +186,32 @@ const strings = JSON.stringify({
         // header still said "1 saved" — and because the live region's text never
         // changed, a screen reader announced nothing at all. Both are updated
         // here before returning.
-        document.querySelector('.trip-count').textContent = (S.count || '{n}').replace('{n}', '0');
+        const countEmpty = document.querySelector('.trip-count');
+        if (countEmpty) countEmpty.textContent = (S.count || '{n}').replace('{n}', '0');
         const liveEmpty = document.querySelector('[aria-live]');
         if (liveEmpty) liveEmpty.textContent = S.empty;
         return;
       }
 
-      bar.hidden = false;
+      if (bar) bar.hidden = false;
       const live = document.querySelector('[aria-live]');
       if (live) live.textContent = (S.count || '{n}').replace('{n}', String(items.length));
-      document.querySelector('.trip-count').textContent = (S.count || '{n}').replace('{n}', String(items.length));
+      const count = document.querySelector('.trip-count');
+      if (count) count.textContent = (S.count || '{n}').replace('{n}', String(items.length));
 
       // Maps' `search` action takes ONE place — the previous version encoded every
       // coordinate into a single query string, so Google geocoded the lot as one
       // piece of free text and plotted nothing. The /dir/ path form takes any
       // number of points as path segments and is what actually shows the list.
       const withCoords = items.filter((i) => i.lat != null && i.lng != null);
-      const maps = document.querySelector('.trip-maps');
+      const maps = document.querySelector<HTMLAnchorElement>('.trip-maps');
       if (withCoords.length) {
-        maps.hidden = false;
-        maps.href =
+        if (maps) maps.hidden = false;
+        if (maps) maps.href =
           'https://www.google.com/maps/dir/' +
           withCoords.map((i) => `${Number(i.lat)},${Number(i.lng)}`).join('/');
       } else {
-        maps.hidden = true;
+        if (maps) maps.hidden = true;
       }
 
       list.innerHTML = items
@@ -249,29 +256,29 @@ const strings = JSON.stringify({
     };
 
     list.addEventListener('click', (e) => {
-      const btn = e.target instanceof Element ? e.target.closest('.trip-remove') : null;
+      const btn = e.target instanceof Element ? e.target.closest<HTMLElement>('.trip-remove') : null;
       if (!btn) return;
       // render() replaces innerHTML, which destroys the focused button and dumps a
       // keyboard user back at the top of the document. Land them on the next row.
-      const buttons = [...list.querySelectorAll('.trip-remove')];
+      const buttons = [...list.querySelectorAll<HTMLElement>('.trip-remove')];
       const idx = buttons.indexOf(btn);
       write(read().filter((x) => x.slug !== btn.dataset.slug));
       render();
-      const now = list.querySelectorAll('.trip-remove');
+      const now = list.querySelectorAll<HTMLElement>('.trip-remove');
       // Removing the LAST row hid the action bar, and the fallback target lived
       // inside it — so .focus() silently did nothing and focus fell to <body>.
       // The empty state's own link is the only thing left on the page worth
       // landing on.
       (now[Math.min(idx, now.length - 1)]
-        || list.querySelector('.trip-empty a')
-        || document.querySelector('.trip-clear'))?.focus();
+        || list.querySelector<HTMLElement>('.trip-empty a')
+        || document.querySelector<HTMLElement>('.trip-clear'))?.focus();
     });
 
     document.querySelector('.trip-clear')?.addEventListener('click', () => {
       if (!confirm(S.clearConfirm)) return;
       write([]);
       render();
-      list.querySelector('.trip-empty a')?.focus();   // same reason as above
+      list.querySelector<HTMLElement>('.trip-empty a')?.focus();   // same reason as above
     });
     document.querySelector('.trip-print')?.addEventListener('click', () => window.print());
 

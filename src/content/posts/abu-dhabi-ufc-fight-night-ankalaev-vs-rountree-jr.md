@@ -1,6 +1,9 @@
 ---
 title: 'UFC Fight Night: Ankalaev vs Rountree Jr: What to Know (Abu Dhabi)'
-description: 'UFC Fight Night: Ankalaev vs Rountree Jr is set for July 25, 2026 at Etihad Arena on Yas Island, Abu Dhabi, headlined by a light heavyweight clash between Magomed Ankalaev and Khalil Rountree Jr.'
+description: >-
+  UFC Fight Night: Ankalaev vs Rountree Jr is set for July 25, 2026 at Etihad
+  Arena on Yas Island, Abu Dhabi, headlined by a light heavyweight clash between
+  Magomed Ankalaev and Khalil Rountree Jr.
 country: United Arab Emirates
 region: Abu Dhabi
 category: event
@@ -8,27 +11,50 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-07-25'
 eventEndDate: '2026-07-25'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/UFC_Fight_Night_Fiziev_vs._Torres_brand_activation_event_in_Baku_Boulevard_%2832821%29.jpg/1920px-UFC_Fight_Night_Fiziev_vs._Torres_brand_activation_event_in_Baku_Boulevard_%2832821%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/UFC_Fight_Night_Fiziev_vs._Torres_brand_activation_event_in_Baku_Boulevard_%2832821%29.jpg/1920px-UFC_Fight_Night_Fiziev_vs._Torres_brand_activation_event_in_Baku_Boulevard_%2832821%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Aykhan Zayedzadeh / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:UFC_Fight_Night_Fiziev_vs._Torres_brand_activation_event_in_Baku_Boulevard_(32821).jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:UFC_Fight_Night_Fiziev_vs._Torres_brand_activation_event_in_Baku_Boulevard_(32821).jpg
 tags:
   - abu dhabi
   - event
-quickAnswer: 'UFC Fight Night: Ankalaev vs Rountree Jr took place on July 25, 2026 at Etihad Arena on Yas Island, Abu Dhabi, headlined by a light heavyweight clash between Magomed Ankalaev and Khalil Rountree Jr. Exact fight-card start times, prelim details, and ticket on-sale dates were published on UFC''s official channels ahead of the event.'
+quickAnswer: >-
+  UFC Fight Night: Ankalaev vs Rountree Jr took place on July 25, 2026 at Etihad
+  Arena on Yas Island, Abu Dhabi, headlined by a light heavyweight clash between
+  Magomed Ankalaev and Khalil Rountree Jr. Exact fight-card start times, prelim
+  details, and ticket on-sale dates were published on UFC's official channels
+  ahead of the event.
 faq:
   - q: 'When and where is UFC Fight Night: Ankalaev vs Rountree Jr?'
-    a: It's scheduled for July 25, 2026 at Etihad Arena on Yas Island, Abu Dhabi. Confirm this date on UFC's official website, as fight cards occasionally shift.
+    a: >-
+      It's scheduled for July 25, 2026 at Etihad Arena on Yas Island, Abu Dhabi.
+      Confirm this date on UFC's official website, as fight cards occasionally
+      shift.
   - q: How do I get to Etihad Arena from the airport?
-    a: It's about a 20-25 minute taxi or ride-hail trip from Abu Dhabi International Airport, or roughly 45-60 minutes from Dubai International Airport via Sheikh Zayed Road.
+    a: >-
+      It's about a 20-25 minute taxi or ride-hail trip from Abu Dhabi
+      International Airport, or roughly 45-60 minutes from Dubai International
+      Airport via Sheikh Zayed Road.
   - q: Where should I stay for the fight?
-    a: Yas Island hotels like Yas Viceroy Abu Dhabi, W Abu Dhabi – Yas Island, or Centro Yas Island offer the shortest commute to Etihad Arena; downtown Abu Dhabi or even Dubai are workable alternatives if you don't mind commuting.
+    a: >-
+      Yas Island hotels like Yas Viceroy Abu Dhabi, W Abu Dhabi – Yas Island, or
+      Centro Yas Island offer the shortest commute to Etihad Arena; downtown Abu
+      Dhabi or even Dubai are workable alternatives if you don't mind commuting.
   - q: How much are tickets and when do they go on sale?
-    a: Prices and on-sale dates weren't announced at the time of writing. Ticket details were published on UFC.com or Ticketmaster, UFC's official ticketing partner.
+    a: >-
+      Prices and on-sale dates weren't announced at the time of writing. Ticket
+      details were published on UFC.com or Ticketmaster, UFC's official
+      ticketing partner.
   - q: What else can I do around fight weekend?
-    a: Yas Island has Ferrari World, Yas Waterworld, and Yas Marina waterfront dining all within a short ride of the arena, and Louvre Abu Dhabi and Sheikh Zayed Grand Mosque are about 30-40 minutes away.
+    a: >-
+      Yas Island has Ferrari World, Yas Waterworld, and Yas Marina waterfront
+      dining all within a short ride of the arena, and Louvre Abu Dhabi and
+      Sheikh Zayed Grand Mosque are about 30-40 minutes away.
 aiGenerated: true
 draft: false
+eventRecurring: false
 ---
 
 ## Why go

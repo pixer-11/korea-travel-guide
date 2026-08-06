@@ -16,7 +16,7 @@ export async function getStaticPaths() {
   return [...grouped.entries()]
     .filter(([name, evs]) => bySlug.has(name) && evs.length >= 2)
     .map(([name, evs]) => ({
-      params: { country: bySlug.get(name).slug },
+      params: { country: bySlug.get(name)!.slug },
       props: { country: bySlug.get(name), events: evs },
     }));
 }

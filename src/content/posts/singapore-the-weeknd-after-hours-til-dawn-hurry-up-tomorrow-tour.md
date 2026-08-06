@@ -1,6 +1,11 @@
 ---
-title: 'The Weeknd - After Hours Til Dawn/Hurry Up Tomorrow Tour: What to Know (Singapore)'
-description: The Weeknd - After Hours Til Dawn/Hurry Up Tomorrow Tour in Singapore, Singapore — September 25, 2026. What it is, when and where, and how to plan around it.
+title: >-
+  The Weeknd - After Hours Til Dawn/Hurry Up Tomorrow Tour: What to Know
+  (Singapore)
+description: >-
+  The Weeknd - After Hours Til Dawn/Hurry Up Tomorrow Tour in Singapore,
+  Singapore — September 25, 2026. What it is, when and where, and how to plan
+  around it.
 country: Singapore
 region: Singapore
 category: event
@@ -8,28 +13,52 @@ pubDate: '2026-07-29'
 eventStartDate: '2026-09-25'
 eventEndDate: '2026-09-25'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/The_Weeknd_Portrait_by_Brian_Ziff.jpg/1280px-The_Weeknd_Portrait_by_Brian_Ziff.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/The_Weeknd_Portrait_by_Brian_Ziff.jpg/1280px-The_Weeknd_Portrait_by_Brian_Ziff.jpg
   credit: 'Photo: Brian Ziff / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:The_Weeknd_Portrait_by_Brian_Ziff.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:The_Weeknd_Portrait_by_Brian_Ziff.jpg
 gallery: []
 tags:
   - singapore
   - event
-quickAnswer: The Weeknd brings the After Hours Til Dawn/Hurry Up Tomorrow Tour to Singapore's National Stadium on September 25, 2026, with Japanese hip-hop duo Creepy Nuts opening. Expect a career-spanning set pulling from Starboy, After Hours, Dawn FM and Hurry Up Tomorrow, staged in one of the region's biggest arenas — so plan transport, ticket source, and arrival time well ahead. Always confirm exact set times, gates, and ticket links on the official Ticketmaster Singapore / promoter page before you book anything.
+quickAnswer: >-
+  The Weeknd brings the After Hours Til Dawn/Hurry Up Tomorrow Tour to
+  Singapore's National Stadium on September 25, 2026, with Japanese hip-hop duo
+  Creepy Nuts opening. Expect a career-spanning set pulling from Starboy, After
+  Hours, Dawn FM and Hurry Up Tomorrow, staged in one of the region's biggest
+  arenas — so plan transport, ticket source, and arrival time well ahead. Always
+  confirm exact set times, gates, and ticket links on the official Ticketmaster
+  Singapore / promoter page before you book anything.
 faq:
   - q: What date is The Weeknd playing in Singapore?
-    a: The tour date is announced as September 25, 2026, at the National Stadium — confirm this on the official ticketing page as show dates can occasionally shift.
+    a: >-
+      The tour date is announced as September 25, 2026, at the National Stadium
+      — confirm this on the official ticketing page as show dates can
+      occasionally shift.
   - q: Who is opening the show?
-    a: Japanese hip-hop duo Creepy Nuts are confirmed as support for this Singapore date.
+    a: >-
+      Japanese hip-hop duo Creepy Nuts are confirmed as support for this
+      Singapore date.
   - q: How do I get to the National Stadium?
-    a: Take the Circle Line MRT to Stadium station, which connects directly into the Sports Hub concourse — it's the most reliable option given road congestion and limited parking on show nights.
+    a: >-
+      Take the Circle Line MRT to Stadium station, which connects directly into
+      the Sports Hub concourse — it's the most reliable option given road
+      congestion and limited parking on show nights.
   - q: Where should I buy tickets?
-    a: Buy only through the official promoter or Ticketmaster Singapore listing for this event; avoid third-party resellers for an on-sale this high-demand.
+    a: >-
+      Buy only through the official promoter or Ticketmaster Singapore listing
+      for this event; avoid third-party resellers for an on-sale this
+      high-demand.
   - q: Is there anything nearby if I arrive early?
-    a: Kallang Wave Mall, right next to the stadium, has food and drink options that are far less crowded than the venue concourse in the hour before doors.
+    a: >-
+      Kallang Wave Mall, right next to the stadium, has food and drink options
+      that are far less crowded than the venue concourse in the hour before
+      doors.
 aiGenerated: true
 draft: false
+eventRecurring: false
 ---
 
 ## Why this show matters

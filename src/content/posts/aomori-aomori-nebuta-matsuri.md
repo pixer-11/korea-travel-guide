@@ -1,6 +1,8 @@
 ---
 title: 'Aomori Nebuta Matsuri: What to Know (Aomori)'
-description: Aomori Nebuta Matsuri in Aomori, Japan — August 2-7, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  Aomori Nebuta Matsuri in Aomori, Japan — August 2-7, 2026. What it is, when
+  and where, and how to plan around it.
 country: Japan
 region: Aomori
 category: event
@@ -8,28 +10,51 @@ pubDate: '2026-07-29'
 eventStartDate: '2026-08-02'
 eventEndDate: '2026-08-07'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Aomori%2C_Nebuta-matsuri_34.jpg/1920px-Aomori%2C_Nebuta-matsuri_34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Aomori%2C_Nebuta-matsuri_34.jpg/1920px-Aomori%2C_Nebuta-matsuri_34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Marie-Sophie Mejan / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Aomori,_Nebuta-matsuri_34.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Aomori,_Nebuta-matsuri_34.jpg'
 gallery: []
 tags:
   - aomori
   - event
-quickAnswer: The Aomori Nebuta Matsuri runs August 2–7, 2026, in Aomori City, northern Honshu — massive illuminated warrior floats (nebuta) parade through the downtown streets each evening, accompanied by haneto dancers and taiko drummers. Go on one of the earlier weeknights for a bit more breathing room, and confirm the exact parade route, times, and any paid seating on the official Aomori Nebuta Matsuri site before you book travel.
+quickAnswer: >-
+  The Aomori Nebuta Matsuri runs August 2–7, 2026, in Aomori City, northern
+  Honshu — massive illuminated warrior floats (nebuta) parade through the
+  downtown streets each evening, accompanied by haneto dancers and taiko
+  drummers. Go on one of the earlier weeknights for a bit more breathing room,
+  and confirm the exact parade route, times, and any paid seating on the
+  official Aomori Nebuta Matsuri site before you book travel.
 faq:
   - q: What are the exact dates for the 2026 festival?
-    a: August 2–7, 2026, as currently announced. Confirm the finalized parade schedule and any changes on the official Aomori Nebuta Matsuri website before booking travel.
+    a: >-
+      August 2–7, 2026, as currently announced. Confirm the finalized parade
+      schedule and any changes on the official Aomori Nebuta Matsuri website
+      before booking travel.
   - q: How do I get to the festival from Tokyo?
-    a: Take the Tohoku/Hokkaido Shinkansen to Shin-Aomori Station (about 3–3.5 hours from Tokyo), then a short local train to Aomori Station, which is within walking distance of the parade route.
+    a: >-
+      Take the Tohoku/Hokkaido Shinkansen to Shin-Aomori Station (about 3–3.5
+      hours from Tokyo), then a short local train to Aomori Station, which is
+      within walking distance of the parade route.
   - q: Do I need tickets to watch the parade?
-    a: Free curbside viewing is available along much of the route if you arrive early, but paid grandstand seating also exists and sells out ahead of time — check the official site for seating options and how to purchase.
+    a: >-
+      Free curbside viewing is available along much of the route if you arrive
+      early, but paid grandstand seating also exists and sells out ahead of time
+      — check the official site for seating options and how to purchase.
   - q: Which night is least crowded?
-    a: The earlier evenings in the run (closer to August 2–3) tend to be somewhat less packed than the final nights, especially the closing awards parade, which draws the largest crowds of the week.
+    a: >-
+      The earlier evenings in the run (closer to August 2–3) tend to be somewhat
+      less packed than the final nights, especially the closing awards parade,
+      which draws the largest crowds of the week.
   - q: Can I dance in the parade as a visitor?
-    a: Yes — haneto dancer costumes are typically available to rent on the day, and joining the dance line is open to visitors, not just locals, making it one of the more participatory major festivals in Japan.
+    a: >-
+      Yes — haneto dancer costumes are typically available to rent on the day,
+      and joining the dance line is open to visitors, not just locals, making it
+      one of the more participatory major festivals in Japan.
 aiGenerated: true
 draft: false
+eventRecurring: true
 ---
 
 ## Why go

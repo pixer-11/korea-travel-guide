@@ -1,6 +1,8 @@
 ---
 title: 'F✦FOREVER World Tour – Kuala Lumpur: What to Know (Kuala Lumpur)'
-description: F✦FOREVER World Tour – Kuala Lumpur in Kuala Lumpur, Malaysia — August 7-8, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  F✦FOREVER World Tour – Kuala Lumpur in Kuala Lumpur, Malaysia — August 7-8,
+  2026. What it is, when and where, and how to plan around it.
 country: Malaysia
 region: Kuala Lumpur
 category: event
@@ -16,20 +18,44 @@ gallery: []
 tags:
   - kuala lumpur
   - event
-quickAnswer: F✦FOREVER — the supergroup pairing Jerry Yan, Van Ness Wu and Vic Chou (three-quarters of F4) with Mayday's Ashin — plays two nights, August 7-8, 2026, at Unifi Arena in Bukit Jalil, Kuala Lumpur, as part of their first-ever world tour. Book arena-official tickets as soon as they open, plan around Bukit Jalil's transit hub, and always double-check dates, doors time and ticket links on the official tour and venue channels before you travel.
+quickAnswer: >-
+  F✦FOREVER — the supergroup pairing Jerry Yan, Van Ness Wu and Vic Chou
+  (three-quarters of F4) with Mayday's Ashin — plays two nights, August 7-8,
+  2026, at Unifi Arena in Bukit Jalil, Kuala Lumpur, as part of their first-ever
+  world tour. Book arena-official tickets as soon as they open, plan around
+  Bukit Jalil's transit hub, and always double-check dates, doors time and
+  ticket links on the official tour and venue channels before you travel.
 faq:
   - q: What are the exact dates of F✦FOREVER in Kuala Lumpur?
-    a: The tour is announced for August 7-8, 2026, at Unifi Arena, Bukit Jalil. Always confirm the final dates on the official tour page or venue site before booking travel, as concert schedules can shift.
+    a: >-
+      The tour is announced for August 7-8, 2026, at Unifi Arena, Bukit Jalil.
+      Always confirm the final dates on the official tour page or venue site
+      before booking travel, as concert schedules can shift.
   - q: How do I get to Unifi Arena?
-    a: Take the LRT Kelana Jaya Line to Bukit Jalil station, then walk to the arena within the Bukit Jalil sports/entertainment precinct. From central KL (KLCC/Bukit Bintang) allow 30-40 minutes door to door, or similar by taxi/e-hailing outside peak traffic.
+    a: >-
+      Take the LRT Kelana Jaya Line to Bukit Jalil station, then walk to the
+      arena within the Bukit Jalil sports/entertainment precinct. From central
+      KL (KLCC/Bukit Bintang) allow 30-40 minutes door to door, or similar by
+      taxi/e-hailing outside peak traffic.
   - q: Who is performing?
-    a: F✦FOREVER is a supergroup of Jerry Yan, Van Ness Wu and Vic Chou (formerly of F4) alongside Ashin, lead singer of Mayday. This is billed as their first world tour together.
+    a: >-
+      F✦FOREVER is a supergroup of Jerry Yan, Van Ness Wu and Vic Chou (formerly
+      of F4) alongside Ashin, lead singer of Mayday. This is billed as their
+      first world tour together.
   - q: Where do I buy tickets and how much are they?
-    a: Ticket tiers and on-sale dates weren't confirmed at the time of writing — check the official tour announcement and Unifi Arena's channels directly, and buy only through official or authorised ticketing partners to avoid inflated resale listings.
+    a: >-
+      Ticket tiers and on-sale dates weren't confirmed at the time of writing —
+      check the official tour announcement and Unifi Arena's channels directly,
+      and buy only through official or authorised ticketing partners to avoid
+      inflated resale listings.
   - q: Is there anything nearby to combine with the show?
-    a: Bukit Jalil is home to the National Stadium and Axiata Arena, plus shopping malls with food courts right by the LRT station — useful for a pre-show meal before heading into the venue.
+    a: >-
+      Bukit Jalil is home to the National Stadium and Axiata Arena, plus
+      shopping malls with food courts right by the LRT station — useful for a
+      pre-show meal before heading into the venue.
 aiGenerated: true
 draft: true
+eventRecurring: false
 ---
 
 ## Why this show matters

@@ -1,6 +1,8 @@
 ---
 title: 'La Mercè Festival: What to Know (Barcelona)'
-description: La Mercè Festival in Barcelona, Spain — September 20-24, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  La Mercè Festival in Barcelona, Spain — September 20-24, 2026. What it is,
+  when and where, and how to plan around it.
 country: Spain
 region: Barcelona
 category: event
@@ -8,28 +10,54 @@ pubDate: '2026-08-05'
 eventStartDate: '2026-09-20'
 eventEndDate: '2026-09-24'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Correfoc_de_la_Merc%C3%A8_al_Passeig_de_Gr%C3%A0cia_2024_%281%29_20240921_11.jpg/3840px-Correfoc_de_la_Merc%C3%A8_al_Passeig_de_Gr%C3%A0cia_2024_%281%29_20240921_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Correfoc_de_la_Merc%C3%A8_al_Passeig_de_Gr%C3%A0cia_2024_%281%29_20240921_11.jpg/3840px-Correfoc_de_la_Merc%C3%A8_al_Passeig_de_Gr%C3%A0cia_2024_%281%29_20240921_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Aniol / Wikimedia Commons (CC0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Correfoc_de_la_Merc%C3%A8_al_Passeig_de_Gr%C3%A0cia_2024_(1)_20240921_11.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Correfoc_de_la_Merc%C3%A8_al_Passeig_de_Gr%C3%A0cia_2024_(1)_20240921_11.jpg
 gallery: []
 tags:
   - barcelona
   - event
-quickAnswer: La Mercè, Barcelona's biggest street festival, runs September 20–24, 2026, with free events across almost every district — correfocs (fire runs), castellers (human towers), giant-figure parades, and open-air concerts. Nearly everything is free and outdoors; the trade-off is dense crowds, so plan around Plaça Sant Jaume and Via Laietana for the marquee moments and check the official Ajuntament de Barcelona culture site closer to the date for the confirmed schedule.
+quickAnswer: >-
+  La Mercè, Barcelona's biggest street festival, runs September 20–24, 2026,
+  with free events across almost every district — correfocs (fire runs),
+  castellers (human towers), giant-figure parades, and open-air concerts. Nearly
+  everything is free and outdoors; the trade-off is dense crowds, so plan around
+  Plaça Sant Jaume and Via Laietana for the marquee moments and check the
+  official Ajuntament de Barcelona culture site closer to the date for the
+  confirmed schedule.
 faq:
   - q: What are the exact dates for La Mercè 2026?
-    a: The festival is scheduled for September 20–24, 2026, but always double-check the official Ajuntament de Barcelona culture site closer to your travel date in case of adjustments.
+    a: >-
+      The festival is scheduled for September 20–24, 2026, but always
+      double-check the official Ajuntament de Barcelona culture site closer to
+      your travel date in case of adjustments.
   - q: Do I need tickets?
-    a: The vast majority of events — correfocs, castellers, giant-figure parades, and most concerts — are free and open-air. Confirm on the official program if any specific stage or venue requires registration, since this can vary year to year.
+    a: >-
+      The vast majority of events — correfocs, castellers, giant-figure parades,
+      and most concerts — are free and open-air. Confirm on the official program
+      if any specific stage or venue requires registration, since this can vary
+      year to year.
   - q: What's the best area to base myself for the festival?
-    a: The Gothic Quarter and Born neighborhoods, near Metro Jaume I (L4) or Catalunya (L1/L3), put you within walking distance of the main correfocs route on Via Laietana and the castellers in Plaça Sant Jaume.
+    a: >-
+      The Gothic Quarter and Born neighborhoods, near Metro Jaume I (L4) or
+      Catalunya (L1/L3), put you within walking distance of the main correfocs
+      route on Via Laietana and the castellers in Plaça Sant Jaume.
   - q: When should I arrive to get a good spot for the fire run or human towers?
-    a: Arrive at least 30–45 minutes before the stated start time for marquee events like the castellers in Plaça Sant Jaume — these fill in fast and locals stake out spots early.
+    a: >-
+      Arrive at least 30–45 minutes before the stated start time for marquee
+      events like the castellers in Plaça Sant Jaume — these fill in fast and
+      locals stake out spots early.
   - q: Is La Mercè suitable for kids?
-    a: Daytime events like the giant-figure (gegants) parades are family-friendly, but keep young children well back from the correfocs fire runs in the evening, which involve fireworks and dense, moving crowds.
+    a: >-
+      Daytime events like the giant-figure (gegants) parades are
+      family-friendly, but keep young children well back from the correfocs fire
+      runs in the evening, which involve fireworks and dense, moving crowds.
 aiGenerated: true
 draft: false
+eventRecurring: true
 ---
 
 ## Why La Mercè takes over the city

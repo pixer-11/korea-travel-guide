@@ -52,7 +52,7 @@ const REGION_INFO_EN: Record<string, RegionInfo> = {
   },
 };
 
-const TRANSLATIONS = regionsJson as Record<string, Partial<Record<Lang, RegionInfo>>>;
+const TRANSLATIONS = regionsJson as unknown as Record<string, Partial<Record<Lang, RegionInfo>>>;
 
 // Curated info for a region in a given language. English is the source; other
 // languages fall back to English per FIELD-less whole object (a region either has

@@ -1,6 +1,8 @@
 ---
 title: 'September Grand Sumo Tournament (Aki Basho): What to Know (Tokyo)'
-description: September Grand Sumo Tournament (Aki Basho) in Tokyo, Japan — September 13-27, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  September Grand Sumo Tournament (Aki Basho) in Tokyo, Japan — September 13-27,
+  2026. What it is, when and where, and how to plan around it.
 country: Japan
 region: Tokyo
 category: event
@@ -8,26 +10,50 @@ pubDate: '2026-07-24'
 eventStartDate: '2026-09-13'
 eventEndDate: '2026-09-27'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/9/92/Sumo_Wrestling_-_Tokyo_%28cropped%29.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/9/92/Sumo_Wrestling_-_Tokyo_%28cropped%29.jpg
   credit: 'Photo: ElHeineken / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Sumo_Wrestling_-_Tokyo_(cropped).jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Sumo_Wrestling_-_Tokyo_(cropped).jpg'
 tags:
   - tokyo
   - event
-quickAnswer: The Aki Basho (September Grand Sumo Tournament) runs September 13–27, 2026, at Ryogoku Kokugikan in Tokyo's Ryogoku district, with bouts held daily for 15 straight days. Lower-ranked wrestlers fight in the late morning and the top division (makuuchi) takes the ring from mid-to-late afternoon, so aim to arrive by early afternoon and stay until the final bout around 6pm. Buy tickets as early as possible through the official Japan Sumo Association channels, since weekends and the final days sell out fastest.
+quickAnswer: >-
+  The Aki Basho (September Grand Sumo Tournament) runs September 13–27, 2026, at
+  Ryogoku Kokugikan in Tokyo's Ryogoku district, with bouts held daily for 15
+  straight days. Lower-ranked wrestlers fight in the late morning and the top
+  division (makuuchi) takes the ring from mid-to-late afternoon, so aim to
+  arrive by early afternoon and stay until the final bout around 6pm. Buy
+  tickets as early as possible through the official Japan Sumo Association
+  channels, since weekends and the final days sell out fastest.
 faq:
   - q: What are the exact dates of the 2026 Aki Basho?
-    a: It's scheduled for September 13–27, 2026, at Ryogoku Kokugikan in Tokyo. Always confirm on the official Japan Sumo Association site, as schedules can occasionally shift.
+    a: >-
+      It's scheduled for September 13–27, 2026, at Ryogoku Kokugikan in Tokyo.
+      Always confirm on the official Japan Sumo Association site, as schedules
+      can occasionally shift.
   - q: How do I get to Ryogoku Kokugikan?
-    a: Take the JR Sobu Line or Toei Oedo Subway Line to Ryogoku Station; the arena is about a 5-minute walk from the station's west exit.
+    a: >-
+      Take the JR Sobu Line or Toei Oedo Subway Line to Ryogoku Station; the
+      arena is about a 5-minute walk from the station's west exit.
   - q: How much do tickets cost and where do I buy them?
-    a: Prices vary by seat type, from ringside box seats to upper balcony chairs, and change between tournaments, so check current pricing and on-sale dates on the official Japan Sumo Association website rather than relying on past figures.
+    a: >-
+      Prices vary by seat type, from ringside box seats to upper balcony chairs,
+      and change between tournaments, so check current pricing and on-sale dates
+      on the official Japan Sumo Association website rather than relying on past
+      figures.
   - q: How long should I plan to stay?
-    a: A full day runs from late morning junior bouts through top-division matches ending around 6pm; most visitors stay at least 2-3 hours to catch the higher-ranked wrestlers and closing ceremonies.
+    a: >-
+      A full day runs from late morning junior bouts through top-division
+      matches ending around 6pm; most visitors stay at least 2-3 hours to catch
+      the higher-ranked wrestlers and closing ceremonies.
   - q: Is there anything to do nearby?
-    a: The Ryogoku neighborhood has a small sumo museum inside the Kokugikan, plus numerous chanko-nabe (sumo stew) restaurants and sumo-stable-lined streets worth exploring before or after the bouts.
+    a: >-
+      The Ryogoku neighborhood has a small sumo museum inside the Kokugikan,
+      plus numerous chanko-nabe (sumo stew) restaurants and sumo-stable-lined
+      streets worth exploring before or after the bouts.
 aiGenerated: true
+eventRecurring: true
 ---
 ## Why go
 

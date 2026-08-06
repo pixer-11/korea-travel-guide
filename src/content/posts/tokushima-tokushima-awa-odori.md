@@ -1,6 +1,8 @@
 ---
 title: 'Tokushima Awa Odori: What to Know (Tokushima)'
-description: Tokushima Awa Odori in Tokushima, Japan — August 11-15, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  Tokushima Awa Odori in Tokushima, Japan — August 11-15, 2026. What it is, when
+  and where, and how to plan around it.
 country: Japan
 region: Tokushima
 category: event
@@ -8,28 +10,50 @@ pubDate: '2026-07-29'
 eventStartDate: '2026-08-11'
 eventEndDate: '2026-08-15'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Awa-odori_2008_Tokushima.jpg/1920px-Awa-odori_2008_Tokushima.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Awa-odori_2008_Tokushima.jpg/1920px-Awa-odori_2008_Tokushima.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Rosino / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Awa-odori_2008_Tokushima.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Awa-odori_2008_Tokushima.jpg'
 gallery: []
 tags:
   - tokushima
   - event
-quickAnswer: Tokushima Awa Odori runs August 11–15, 2026, taking over the streets of central Tokushima City each evening during Japan's Obon holiday. Head to the main performance venues (Yasaki-machi, Aiba-hama, and other stages set up along the downtown streets) after dusk, when the drum-and-shamisen troupes hit their stride — go on the 11th or 12th if you want to dodge the heaviest crowds, and always confirm this year's exact stage locations, ticket details, and schedule on the official Awa Odori tourism site before you go.
+quickAnswer: >-
+  Tokushima Awa Odori runs August 11–15, 2026, taking over the streets of
+  central Tokushima City each evening during Japan's Obon holiday. Head to the
+  main performance venues (Yasaki-machi, Aiba-hama, and other stages set up
+  along the downtown streets) after dusk, when the drum-and-shamisen troupes hit
+  their stride — go on the 11th or 12th if you want to dodge the heaviest
+  crowds, and always confirm this year's exact stage locations, ticket details,
+  and schedule on the official Awa Odori tourism site before you go.
 faq:
   - q: What are the exact dates for 2026?
-    a: August 11–15, 2026, though you should confirm this on the official Awa Odori Tokushima site in case of any late changes.
+    a: >-
+      August 11–15, 2026, though you should confirm this on the official Awa
+      Odori Tokushima site in case of any late changes.
   - q: Do I need a ticket to watch?
-    a: No — free nagashi processions move along public streets and can be watched by anyone, but the enclosed stage performances (engei-jou) typically require tickets, sold through official channels closer to the event.
+    a: >-
+      No — free nagashi processions move along public streets and can be watched
+      by anyone, but the enclosed stage performances (engei-jou) typically
+      require tickets, sold through official channels closer to the event.
   - q: How do I get to central Tokushima for the festival?
-    a: Fly into Tokushima Awaodori Airport, or take a JR train or highway bus from Osaka (about 2.5–3 hours); the festival streets are a 10–15 minute walk from Tokushima Station, and downtown closes to cars during the event.
+    a: >-
+      Fly into Tokushima Awaodori Airport, or take a JR train or highway bus
+      from Osaka (about 2.5–3 hours); the festival streets are a 10–15 minute
+      walk from Tokushima Station, and downtown closes to cars during the event.
   - q: Which night has the smallest crowds?
-    a: Opening night, August 11, and the following evening tend to be less packed than the later nights, which build toward a bigger finale by August 15.
+    a: >-
+      Opening night, August 11, and the following evening tend to be less packed
+      than the later nights, which build toward a bigger finale by August 15.
   - q: Can tourists join the dancing?
-    a: Yes, on select nights certain troupes welcome spectators into a beginner-friendly ren — watch for on-the-ground announcements or ask festival staff if you'd like to join in.
+    a: >-
+      Yes, on select nights certain troupes welcome spectators into a
+      beginner-friendly ren — watch for on-the-ground announcements or ask
+      festival staff if you'd like to join in.
 aiGenerated: true
 draft: false
+eventRecurring: true
 ---
 
 ## Why go

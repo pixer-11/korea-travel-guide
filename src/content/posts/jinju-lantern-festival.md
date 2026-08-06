@@ -1,35 +1,68 @@
 ---
 title: Lantern Festival in Jinju
-description: The Jinju Namgang Yudeung (Lantern) Festival runs for about two weeks each October along the Namgang River in downtown Jinju, centered on Jinjuseong Fortress and the Namgang Yudeung Festival grounds.
+description: >-
+  The Jinju Namgang Yudeung (Lantern) Festival runs for about two weeks each
+  October along the Namgang River in downtown Jinju, centered on Jinjuseong
+  Fortress and the Namgang Yudeung Festival grounds.
 region: Jinju
 category: event
 eventStartDate: 2026-10-01T00:00:00.000Z
 eventEndDate: 2026-10-18T00:00:00.000Z
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Jinju_namgang_lantern_festival.jpg/1920px-Jinju_namgang_lantern_festival.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  credit: 'Photo: Asfreeas at Korean Wikipedia This photo was taken with Nikon D80 / Wikimedia Commons (CC BY 3.0)'
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Jinju_namgang_lantern_festival.jpg/1920px-Jinju_namgang_lantern_festival.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: >-
+    Photo: Asfreeas at Korean Wikipedia This photo was taken with Nikon D80 /
+    Wikimedia Commons (CC BY 3.0)
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Jinju_namgang_lantern_festival.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Jinju_namgang_lantern_festival.jpg'
 gallery: []
 tags:
   - jinju
   - lantern festival
-quickAnswer: The Jinju Namgang Yudeung (Lantern) Festival runs for about two weeks each October along the Namgang River in downtown Jinju, centered on Jinjuseong Fortress and the Namgang Yudeung Festival grounds. Buy the paid festival zone ticket (floating lanterns on the river, the fortress, and the light installations), arrive after sunset for the illuminated lanterns, and plan at least one full evening plus a look at Jinjuseong Fortress by day.
+quickAnswer: >-
+  The Jinju Namgang Yudeung (Lantern) Festival runs for about two weeks each
+  October along the Namgang River in downtown Jinju, centered on Jinjuseong
+  Fortress and the Namgang Yudeung Festival grounds. Buy the paid festival zone
+  ticket (floating lanterns on the river, the fortress, and the light
+  installations), arrive after sunset for the illuminated lanterns, and plan at
+  least one full evening plus a look at Jinjuseong Fortress by day.
 faq:
   - q: How do I get to the Jinju Lantern Festival from Seoul or Busan?
-    a: From Seoul, take a KTX/ITX train to Jinju Station (about 3–3.5 hours) or an intercity bus. From Busan, an intercity bus takes roughly 1–1.5 hours. From Jinju Station or the bus terminal, a taxi or festival shuttle bus covers the remaining 10–15 minutes to Jinjuseong Fortress and the riverside festival grounds.
+    a: >-
+      From Seoul, take a KTX/ITX train to Jinju Station (about 3–3.5 hours) or
+      an intercity bus. From Busan, an intercity bus takes roughly 1–1.5 hours.
+      From Jinju Station or the bus terminal, a taxi or festival shuttle bus
+      covers the remaining 10–15 minutes to Jinjuseong Fortress and the
+      riverside festival grounds.
   - q: Is there an entrance fee for the festival?
-    a: The main riverside and fortress lantern zone usually requires a paid ticket, while some lantern displays around the city may be free to view. Prices and free/paid zone layouts change year to year, so confirm on the official Jinju festival announcement shortly before your visit.
+    a: >-
+      The main riverside and fortress lantern zone usually requires a paid
+      ticket, while some lantern displays around the city may be free to view.
+      Prices and free/paid zone layouts change year to year, so confirm on the
+      official Jinju festival announcement shortly before your visit.
   - q: When exactly does the festival happen and what time should I arrive?
-    a: It runs annually for about two weeks in October, with exact dates varying yearly. Arrive in the late afternoon to see Jinjuseong Fortress in daylight, then stay for the lantern lighting around sunset through roughly 9:30 PM for the best river reflections.
+    a: >-
+      It runs annually for about two weeks in October, with exact dates varying
+      yearly. Arrive in the late afternoon to see Jinjuseong Fortress in
+      daylight, then stay for the lantern lighting around sunset through roughly
+      9:30 PM for the best river reflections.
   - q: How long should I plan to spend there?
-    a: Budget at least 3–4 hours for the riverside lanterns, the fortress grounds, and food stalls. Add extra time if you want to visit the Jinju National Museum inside the fortress walls.
+    a: >-
+      Budget at least 3–4 hours for the riverside lanterns, the fortress
+      grounds, and food stalls. Add extra time if you want to visit the Jinju
+      National Museum inside the fortress walls.
   - q: What else is worth doing nearby?
-    a: Pair the festival with a walk through Jinjuseong Fortress's Yeongnam Grand Pavilion and Nongae shrine, a meal of Jinju-style bibimbap or naengmyeon, and a stop at the Jungangno shopping area or Jinju Fish Market for a fuller day in the city.
+    a: >-
+      Pair the festival with a walk through Jinjuseong Fortress's Yeongnam Grand
+      Pavilion and Nongae shrine, a meal of Jinju-style bibimbap or naengmyeon,
+      and a stop at the Jungangno shopping area or Jinju Fish Market for a
+      fuller day in the city.
 aiGenerated: true
 draft: false
 country: South Korea
+eventRecurring: true
 ---
 
 ## Why go

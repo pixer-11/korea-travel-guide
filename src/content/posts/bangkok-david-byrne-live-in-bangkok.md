@@ -1,6 +1,8 @@
 ---
 title: 'David Byrne Live in Bangkok: What to Know (Bangkok)'
-description: David Byrne, the former Talking Heads frontman, is set to perform at UOB Live in Bangkok on Monday, August 10, 2026.
+description: >-
+  David Byrne, the former Talking Heads frontman, is set to perform at UOB Live
+  in Bangkok on Monday, August 10, 2026.
 country: Thailand
 region: Bangkok
 category: event
@@ -8,26 +10,50 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-08-10'
 eventEndDate: '2026-08-10'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/David_Byrne_on_tour_Amsterdam_at_AFAS_Live_Feb_2026.jpg/1920px-David_Byrne_on_tour_Amsterdam_at_AFAS_Live_Feb_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/David_Byrne_on_tour_Amsterdam_at_AFAS_Live_Feb_2026.jpg/1920px-David_Byrne_on_tour_Amsterdam_at_AFAS_Live_Feb_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Mainlymazza / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:David_Byrne_on_tour_Amsterdam_at_AFAS_Live_Feb_2026.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:David_Byrne_on_tour_Amsterdam_at_AFAS_Live_Feb_2026.jpg
 tags:
   - bangkok
   - event
-quickAnswer: David Byrne, the former Talking Heads frontman, is set to perform at UOB Live in Bangkok on Monday, August 10, 2026. Doors and set times haven't been confirmed in this summary, so treat the date as the anchor fact and verify ticketing details, exact showtime, and any support acts via the official UOB Live channels or Byrne's own ticketing partners before booking flights or hotels.
+quickAnswer: >-
+  David Byrne, the former Talking Heads frontman, is set to perform at UOB Live
+  in Bangkok on Monday, August 10, 2026. Doors and set times haven't been
+  confirmed in this summary, so treat the date as the anchor fact and verify
+  ticketing details, exact showtime, and any support acts via the official UOB
+  Live channels or Byrne's own ticketing partners before booking flights or
+  hotels.
 faq:
-  - q: Is the August 10, 2026 date for David Byrne in Bangkok confirmed?
-    a: It's the announced date as of this writing, but tour dates can shift. Confirm via UOB Live's official site or David Byrne's official tour page before booking travel.
+  - q: 'Is the August 10, 2026 date for David Byrne in Bangkok confirmed?'
+    a: >-
+      It's the announced date as of this writing, but tour dates can shift.
+      Confirm via UOB Live's official site or David Byrne's official tour page
+      before booking travel.
   - q: How do I get to UOB Live?
-    a: Take the MRT Blue Line to Sam Yan station, which connects directly into the Samyan Mitrtown complex housing the arena — the easiest way to avoid Bangkok traffic.
+    a: >-
+      Take the MRT Blue Line to Sam Yan station, which connects directly into
+      the Samyan Mitrtown complex housing the arena — the easiest way to avoid
+      Bangkok traffic.
   - q: What's the best area to stay for this show?
-    a: Silom, Sathorn, or Chinatown (Yaowarat) are all within a short MRT ride or taxi trip of Sam Yan, making them convenient bases for concert-goers.
+    a: >-
+      Silom, Sathorn, or Chinatown (Yaowarat) are all within a short MRT ride or
+      taxi trip of Sam Yan, making them convenient bases for concert-goers.
   - q: What should I do before the show?
-    a: Grab dinner at Samyan Mitrtown's food court or head to nearby Yaowarat Road in Chinatown for classic Bangkok street food like boat noodles and mango sticky rice.
+    a: >-
+      Grab dinner at Samyan Mitrtown's food court or head to nearby Yaowarat
+      Road in Chinatown for classic Bangkok street food like boat noodles and
+      mango sticky rice.
   - q: Where do I buy tickets?
-    a: Check official channels only — typically UOB Live's website or authorized partners like Thai Ticket Major — and avoid unofficial resale sites, since prices and tiers weren't specified in official announcements at publication time.
+    a: >-
+      Check official channels only — typically UOB Live's website or authorized
+      partners like Thai Ticket Major — and avoid unofficial resale sites, since
+      prices and tiers weren't specified in official announcements at
+      publication time.
 aiGenerated: true
+eventRecurring: false
 ---
 ## Why this show matters
 

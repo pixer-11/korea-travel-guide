@@ -1,35 +1,60 @@
 ---
 title: 'John Legend: An Evening of Songs & Stories: What to Know (Makati City)'
-description: 'John Legend: An Evening of Songs & Stories in Makati City, Philippines — September 3-4, 2026. What it is, when and where, and how to plan around it.'
+description: >-
+  John Legend: An Evening of Songs & Stories in Makati City, Philippines —
+  September 3-4, 2026. What it is, when and where, and how to plan around it.
 country: Philippines
-region: "Makati"
+region: Makati
 category: event
 pubDate: '2026-07-29'
 eventStartDate: '2026-09-03'
 eventEndDate: '2026-09-04'
 heroImage:
-  url: https://images.unsplash.com/photo-1600779547877-be592ef5aad3?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8NHx8Y29uY2VydCUyMGxpdmUlMjBldmVudCUyMHN0YWdlfGVufDB8MHx8fDE3ODUzNjI3MjN8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  url: >-
+    https://images.unsplash.com/photo-1600779547877-be592ef5aad3?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8NHx8Y29uY2VydCUyMGxpdmUlMjBldmVudCUyMHN0YWdlfGVufDB8MHx8fDE3ODUzNjI3MjN8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
   credit: Photo by Magnus Lunay on Unsplash
   license: unsplash
-  source: https://unsplash.com/@djswingkid?utm_source=korea_travel_guide&utm_medium=referral
+  source: >-
+    https://unsplash.com/@djswingkid?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - makati city
   - event
-quickAnswer: John Legend brings his intimate "An Evening of Songs & Stories" world tour to the Proscenium Theater in Makati City for two nights, September 3–4, 2026. This is a seated, theater-style show built around stripped-back piano storytelling rather than a stadium spectacle, so expect a smaller, more formal crowd than a typical arena concert — confirm exact set times, doors, and remaining tickets on the official ticketing/venue channels before you plan your evening.
+quickAnswer: >-
+  John Legend brings his intimate "An Evening of Songs & Stories" world tour to
+  the Proscenium Theater in Makati City for two nights, September 3–4, 2026.
+  This is a seated, theater-style show built around stripped-back piano
+  storytelling rather than a stadium spectacle, so expect a smaller, more formal
+  crowd than a typical arena concert — confirm exact set times, doors, and
+  remaining tickets on the official ticketing/venue channels before you plan
+  your evening.
 faq:
   - q: Where exactly is the concert held?
-    a: The Proscenium Theater at Rockwell Center in Makati City, Philippines — a seated theater venue, not an arena.
+    a: >-
+      The Proscenium Theater at Rockwell Center in Makati City, Philippines — a
+      seated theater venue, not an arena.
   - q: What are the dates?
-    a: September 3 and 4, 2026, as announced. Confirm which date you're booking, since availability can differ between the two nights.
+    a: >-
+      September 3 and 4, 2026, as announced. Confirm which date you're booking,
+      since availability can differ between the two nights.
   - q: How do I get to the Proscenium Theater?
-    a: Taxi or Grab is the most direct route since Rockwell Center isn't on the MRT line; on-site parking is available if you're driving, but allow extra time for Makati traffic.
+    a: >-
+      Taxi or Grab is the most direct route since Rockwell Center isn't on the
+      MRT line; on-site parking is available if you're driving, but allow extra
+      time for Makati traffic.
   - q: Where can I check ticket prices and showtimes?
-    a: These details weren't confirmed at publication — check the official John Legend tour page and the Proscenium Theater's official ticketing partner for current prices, doors, and start times.
+    a: >-
+      These details weren't confirmed at publication — check the official John
+      Legend tour page and the Proscenium Theater's official ticketing partner
+      for current prices, doors, and start times.
   - q: Is there somewhere to eat nearby before the show?
-    a: Yes — Power Plant Mall sits right next to the Proscenium within Rockwell Center and has a wide range of restaurants and cafés for a pre- or post-show meal.
+    a: >-
+      Yes — Power Plant Mall sits right next to the Proscenium within Rockwell
+      Center and has a wide range of restaurants and cafés for a pre- or
+      post-show meal.
 aiGenerated: true
 draft: false
+eventRecurring: false
 ---
 
 ## Why this show is different

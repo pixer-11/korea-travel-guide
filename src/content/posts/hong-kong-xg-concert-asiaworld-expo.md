@@ -1,6 +1,8 @@
 ---
 title: 'XG Concert (AsiaWorld-Expo): What to Know (Hong Kong)'
-description: XG Concert (AsiaWorld-Expo) in Hong Kong, China — August 2, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  XG Concert (AsiaWorld-Expo) in Hong Kong, China — August 2, 2026. What it is,
+  when and where, and how to plan around it.
 country: China
 region: Hong Kong
 category: event
@@ -8,28 +10,51 @@ pubDate: '2026-07-29'
 eventStartDate: '2026-08-02'
 eventEndDate: '2026-08-02'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/4/4d/HK_AsiaWorld-Expo_2007.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/4/4d/HK_AsiaWorld-Expo_2007.jpg
   credit: 'Photo: WiNG / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:HK_AsiaWorld-Expo_2007.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:HK_AsiaWorld-Expo_2007.jpg'
 gallery: []
 tags:
   - hong kong
   - event
-quickAnswer: XG plays AsiaWorld-Expo in Hong Kong on August 2, 2026. Treat this date as the currently announced one and confirm exact showtime, hall, and ticket on-sale details on XG's official channels (X, Instagram, and the XG/AsiaWorld-Expo ticketing pages) before booking flights or hotels. AsiaWorld-Expo sits right beside Hong Kong International Airport and connects directly to Tung Chung via the AsiaWorld-Expo Station on the Tung Chung Line, so getting there is straightforward even if you're flying in same-day.
+quickAnswer: >-
+  XG plays AsiaWorld-Expo in Hong Kong on August 2, 2026. Treat this date as the
+  currently announced one and confirm exact showtime, hall, and ticket on-sale
+  details on XG's official channels (X, Instagram, and the XG/AsiaWorld-Expo
+  ticketing pages) before booking flights or hotels. AsiaWorld-Expo sits right
+  beside Hong Kong International Airport and connects directly to Tung Chung via
+  the AsiaWorld-Expo Station on the Tung Chung Line, so getting there is
+  straightforward even if you're flying in same-day.
 faq:
   - q: What's the confirmed date for XG at AsiaWorld-Expo?
-    a: August 2, 2026, as currently announced — always verify on XG's official channels or the venue's ticketing partner before booking, since concert details can change.
+    a: >-
+      August 2, 2026, as currently announced — always verify on XG's official
+      channels or the venue's ticketing partner before booking, since concert
+      details can change.
   - q: How do I get to AsiaWorld-Expo from central Hong Kong?
-    a: Take the MTR Tung Chung Line to AsiaWorld-Expo Station — it's a direct stop connected to the venue, typically 45–60 minutes from Central or Kowloon.
+    a: >-
+      Take the MTR Tung Chung Line to AsiaWorld-Expo Station — it's a direct
+      stop connected to the venue, typically 45–60 minutes from Central or
+      Kowloon.
   - q: Can I go straight from the airport?
-    a: Yes — AsiaWorld-Expo is linked to Hong Kong International Airport by a short covered walkway, about a five-minute walk from the terminal.
+    a: >-
+      Yes — AsiaWorld-Expo is linked to Hong Kong International Airport by a
+      short covered walkway, about a five-minute walk from the terminal.
   - q: Where do I buy tickets?
-    a: Official ticketing details hadn't been finalized at time of writing; check XG's verified social accounts and AsiaWorld-Expo's site for the announced ticketing platform and on-sale date.
+    a: >-
+      Official ticketing details hadn't been finalized at time of writing; check
+      XG's verified social accounts and AsiaWorld-Expo's site for the announced
+      ticketing platform and on-sale date.
   - q: How early should I arrive?
-    a: Aim for two to three hours before doors to handle security, any merch queues, and grabbing food, since options inside the venue are limited to concessions.
+    a: >-
+      Aim for two to three hours before doors to handle security, any merch
+      queues, and grabbing food, since options inside the venue are limited to
+      concessions.
 aiGenerated: true
 draft: false
+eventRecurring: false
 ---
 
 ## Why this show matters

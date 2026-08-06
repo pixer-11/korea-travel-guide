@@ -1,6 +1,8 @@
 ---
 title: 'La Vuelta a España 2026: What to Know (Multiple cities)'
-description: La Vuelta a España 2026 in Multiple cities, Spain — August 22 - September 13, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  La Vuelta a España 2026 in Multiple cities, Spain — August 22 - September 13,
+  2026. What it is, when and where, and how to plan around it.
 country: Spain
 region: Multiple cities
 category: event
@@ -8,28 +10,50 @@ pubDate: '2026-07-29'
 eventStartDate: '2026-08-22'
 eventEndDate: '2026-09-13'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Vuelta_a_Espa%C3%B1a.jpg/1920px-Vuelta_a_Espa%C3%B1a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Vuelta_a_Espa%C3%B1a.jpg/1920px-Vuelta_a_Espa%C3%B1a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Arturo Francisco Barbero / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Vuelta_a_Espa%C3%B1a.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Vuelta_a_Espa%C3%B1a.jpg'
 gallery: []
 tags:
   - multiple cities
   - event
-quickAnswer: La Vuelta a España 2026 runs August 22–September 13, opening in Monaco before crossing into Spain for 21 stages, and finishing in Granada on September 13. Pick a stage town, get there by train where possible since roads close for hours around the route, and confirm the exact daily route, times, and any ticketed areas on the official La Vuelta site before you travel.
+quickAnswer: >-
+  La Vuelta a España 2026 runs August 22–September 13, opening in Monaco before
+  crossing into Spain for 21 stages, and finishing in Granada on September 13.
+  Pick a stage town, get there by train where possible since roads close for
+  hours around the route, and confirm the exact daily route, times, and any
+  ticketed areas on the official La Vuelta site before you travel.
 faq:
   - q: When exactly does La Vuelta a España 2026 take place?
-    a: It runs from August 22 to September 13, 2026, opening with stages in Monaco before the race crosses into Spain. Always check the official La Vuelta website closer to the date for the confirmed day-by-day schedule.
+    a: >-
+      It runs from August 22 to September 13, 2026, opening with stages in
+      Monaco before the race crosses into Spain. Always check the official La
+      Vuelta website closer to the date for the confirmed day-by-day schedule.
   - q: Where does the race finish?
-    a: The 2026 edition concludes with a final stage in Granada on September 13, following the pattern of recent editions that end there.
+    a: >-
+      The 2026 edition concludes with a final stage in Granada on September 13,
+      following the pattern of recent editions that end there.
   - q: Do I need tickets to watch the race?
-    a: Roadside viewing along the route is generally free and doesn't require tickets, though some finish-line grandstand areas may be ticketed in certain host cities — confirm this on the official race site.
+    a: >-
+      Roadside viewing along the route is generally free and doesn't require
+      tickets, though some finish-line grandstand areas may be ticketed in
+      certain host cities — confirm this on the official race site.
   - q: How do I get around to see multiple stages?
-    a: Rail travel is usually more reliable than driving, since roads along the route close for hours around race time. Spain's AVE high-speed network connects major stage hubs like Madrid, while Granada and other host cities have their own airports or stations.
+    a: >-
+      Rail travel is usually more reliable than driving, since roads along the
+      route close for hours around race time. Spain's AVE high-speed network
+      connects major stage hubs like Madrid, while Granada and other host cities
+      have their own airports or stations.
   - q: Is it better to watch at the finish line or along the route?
-    a: The finish line has the most atmosphere but the biggest crowds and only a brief glimpse of riders. Many fans prefer a spot on a climb along the route, where the field is more spread out and visible for longer.
+    a: >-
+      The finish line has the most atmosphere but the biggest crowds and only a
+      brief glimpse of riders. Many fans prefer a spot on a climb along the
+      route, where the field is more spread out and visible for longer.
 aiGenerated: true
 draft: false
+eventRecurring: true
 ---
 
 ## Why the Vuelta is worth building a trip around

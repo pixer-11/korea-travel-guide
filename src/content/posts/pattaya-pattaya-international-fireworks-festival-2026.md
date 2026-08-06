@@ -1,7 +1,9 @@
 ---
 draft: true
 title: 'Pattaya International Fireworks Festival 2026: What to Know (Pattaya)'
-description: Pattaya International Fireworks Festival 2026 in Pattaya, Thailand — July 30 - August 2, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  Pattaya International Fireworks Festival 2026 in Pattaya, Thailand — July 30 -
+  August 2, 2026. What it is, when and where, and how to plan around it.
 country: Thailand
 region: Pattaya
 category: event
@@ -9,27 +11,53 @@ pubDate: '2026-07-29'
 eventStartDate: '2026-07-30'
 eventEndDate: '2026-08-02'
 heroImage:
-  url: https://images.unsplash.com/photo-1663475377409-0640fca306ef?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8UGF0dGF5YSUyMFRoYWlsYW5kJTIwbXVzaWMlMjBmZXN0aXZhbCUyMGNyb3dkfGVufDB8MHx8fDE3ODUzNjA5ODV8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  url: >-
+    https://images.unsplash.com/photo-1663475377409-0640fca306ef?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8UGF0dGF5YSUyMFRoYWlsYW5kJTIwbXVzaWMlMjBmZXN0aXZhbCUyMGNyb3dkfGVufDB8MHx8fDE3ODUzNjA5ODV8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
   credit: Photo by Markus Winkler on Unsplash
   license: unsplash
-  source: https://unsplash.com/@markuswinkler?utm_source=korea_travel_guide&utm_medium=referral
+  source: >-
+    https://unsplash.com/@markuswinkler?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - pattaya
   - event
-quickAnswer: The Pattaya International Fireworks Festival 2026 is scheduled for July 30–August 2, 2026 along Pattaya Beach, with international pyrotechnic teams competing over choreographed, music-synced shows on the festival's headline nights. Viewing along the beach and Beach Road is free, but arrive hours early to claim a spot, and confirm the exact dates, stages, and any ticketed areas on official Pattaya tourism channels before you go, since festival logistics can shift year to year.
+quickAnswer: >-
+  The Pattaya International Fireworks Festival 2026 is scheduled for July
+  30–August 2, 2026 along Pattaya Beach, with international pyrotechnic teams
+  competing over choreographed, music-synced shows on the festival's headline
+  nights. Viewing along the beach and Beach Road is free, but arrive hours early
+  to claim a spot, and confirm the exact dates, stages, and any ticketed areas
+  on official Pattaya tourism channels before you go, since festival logistics
+  can shift year to year.
 faq:
   - q: What are the exact dates of the 2026 festival?
-    a: The festival was scheduled for July 30–August 2, 2026. The specific nights the fireworks displays took place were not finalized publicly in advance; the schedule was confirmed through official Pattaya tourism channels.
+    a: >-
+      The festival was scheduled for July 30–August 2, 2026. The specific nights
+      the fireworks displays took place were not finalized publicly in advance;
+      the schedule was confirmed through official Pattaya tourism channels.
   - q: Do I need a ticket to watch the fireworks?
-    a: Standard viewing along Pattaya Beach and Beach Road is free. Some rooftop bars and hotel terraces run separate ticketed viewing parties with cover charges, which you'd book directly with the venue.
+    a: >-
+      Standard viewing along Pattaya Beach and Beach Road is free. Some rooftop
+      bars and hotel terraces run separate ticketed viewing parties with cover
+      charges, which you'd book directly with the venue.
   - q: How do I get to Pattaya Beach for the festival?
-    a: Most visitors fly into Bangkok's Suvarnabhumi or Don Mueang airport and travel roughly two hours by transfer van, bus, or taxi. Within Pattaya, walking or taking a local songthaew (shared pickup truck) to Beach Road is easiest, since roads near the beach often close to traffic on show nights.
+    a: >-
+      Most visitors fly into Bangkok's Suvarnabhumi or Don Mueang airport and
+      travel roughly two hours by transfer van, bus, or taxi. Within Pattaya,
+      walking or taking a local songthaew (shared pickup truck) to Beach Road is
+      easiest, since roads near the beach often close to traffic on show nights.
   - q: What's the best spot to watch from?
-    a: The central stretch of Pattaya Beach facing the bay and the area near Bali Hai Pier are the classic free vantage points. Arrive early, as these fill up well before showtime.
+    a: >-
+      The central stretch of Pattaya Beach facing the bay and the area near Bali
+      Hai Pier are the classic free vantage points. Arrive early, as these fill
+      up well before showtime.
   - q: Is this a good festival for families?
-    a: Yes, it draws a broad mix of Thai families, expats, and tourists, with food vendors and entertainment along Beach Road, though the crowds and noise from fireworks should be considered for very young children.
+    a: >-
+      Yes, it draws a broad mix of Thai families, expats, and tourists, with
+      food vendors and entertainment along Beach Road, though the crowds and
+      noise from fireworks should be considered for very young children.
 aiGenerated: true
+eventRecurring: true
 ---
 
 ## Why this festival is worth planning around

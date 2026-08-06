@@ -1,6 +1,9 @@
 ---
 title: 'Post Malone: The BIG ASS Stadium World Tour: What to Know (Bangkok)'
-description: Post Malone brings The BIG ASS Stadium World Tour to Bangkok's Rajamangala National Stadium on September 22, 2026 — his first Bangkok concert in three years.
+description: >-
+  Post Malone brings The BIG ASS Stadium World Tour to Bangkok's Rajamangala
+  National Stadium on September 22, 2026 — his first Bangkok concert in three
+  years.
 country: Thailand
 region: Bangkok
 category: event
@@ -8,26 +11,49 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-09-22'
 eventEndDate: '2026-09-22'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Post_Malone_July_2021.jpg/1920px-Post_Malone_July_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Post_Malone_July_2021.jpg/1920px-Post_Malone_July_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Chrisallmeid / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Post_Malone_July_2021.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Post_Malone_July_2021.jpg'
 tags:
   - bangkok
   - event
-quickAnswer: Post Malone brings The BIG ASS Stadium World Tour to Bangkok's Rajamangala National Stadium on September 22, 2026 — his first Bangkok concert in three years. Doors typically open several hours before a stadium show of this scale, so plan to arrive early, use the Airport Rail Link or MRT to Hua Mak, and confirm exact gate times, ticket tiers, and any support acts on the official tour and ticketing channels before you travel.
+quickAnswer: >-
+  Post Malone brings The BIG ASS Stadium World Tour to Bangkok's Rajamangala
+  National Stadium on September 22, 2026 — his first Bangkok concert in three
+  years. Doors typically open several hours before a stadium show of this scale,
+  so plan to arrive early, use the Airport Rail Link or MRT to Hua Mak, and
+  confirm exact gate times, ticket tiers, and any support acts on the official
+  tour and ticketing channels before you travel.
 faq:
   - q: How do I get to Rajamangala National Stadium for the concert?
-    a: Take the Airport Rail Link to Hua Mak Station, then walk about 10–15 minutes to the stadium gates. The MRT Orange Line also serves the Hua Mak/Ramkhamhaeng area — check current routes since Bangkok's transit map keeps expanding.
+    a: >-
+      Take the Airport Rail Link to Hua Mak Station, then walk about 10–15
+      minutes to the stadium gates. The MRT Orange Line also serves the Hua
+      Mak/Ramkhamhaeng area — check current routes since Bangkok's transit map
+      keeps expanding.
   - q: When do gates open and when does Post Malone go on?
-    a: Exact doors and set times haven't been officially released. Large stadium shows in Bangkok typically open gates 3–4 hours before the headline set, but confirm on the official tour or ticketing page closer to the date.
+    a: >-
+      Exact doors and set times haven't been officially released. Large stadium
+      shows in Bangkok typically open gates 3–4 hours before the headline set,
+      but confirm on the official tour or ticketing page closer to the date.
   - q: Is this Post Malone's first time in Bangkok?
-    a: No — this marks his return after roughly three years, making it one of the more anticipated stadium stops on the tour for Thai and regional fans.
+    a: >-
+      No — this marks his return after roughly three years, making it one of the
+      more anticipated stadium stops on the tour for Thai and regional fans.
   - q: Where should I stay if I'm visiting Bangkok just for this concert?
-    a: Sukhumvit or Asoke are convenient, central options connected to Hua Mak by a single Airport Rail Link or MRT transfer, roughly 25–35 minutes from the stadium.
+    a: >-
+      Sukhumvit or Asoke are convenient, central options connected to Hua Mak by
+      a single Airport Rail Link or MRT transfer, roughly 25–35 minutes from the
+      stadium.
   - q: What's the weather like in Bangkok in late September?
-    a: It's rainy season — expect heat, humidity, and the chance of sudden downpours, so bring a compact umbrella or poncho for the outdoor stadium crowd.
+    a: >-
+      It's rainy season — expect heat, humidity, and the chance of sudden
+      downpours, so bring a compact umbrella or poncho for the outdoor stadium
+      crowd.
 aiGenerated: true
+eventRecurring: false
 ---
 
 ## Why this show matters

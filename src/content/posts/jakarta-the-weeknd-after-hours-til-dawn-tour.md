@@ -1,6 +1,8 @@
 ---
 title: 'The Weeknd – After Hours Til Dawn Tour: What to Know (Jakarta)'
-description: The Weeknd – After Hours Til Dawn Tour in Jakarta, Indonesia — September 26-27, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  The Weeknd – After Hours Til Dawn Tour in Jakarta, Indonesia — September
+  26-27, 2026. What it is, when and where, and how to plan around it.
 country: Indonesia
 region: Jakarta
 category: event
@@ -8,28 +10,56 @@ pubDate: '2026-07-29'
 eventStartDate: '2026-09-26'
 eventEndDate: '2026-09-27'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/The_Weeknd_-_Live_at_Ippodromo_SNAI_La_Maura%2C_Milan_%28July_27%2C_2023%29.jpg/1920px-The_Weeknd_-_Live_at_Ippodromo_SNAI_La_Maura%2C_Milan_%28July_27%2C_2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/The_Weeknd_-_Live_at_Ippodromo_SNAI_La_Maura%2C_Milan_%28July_27%2C_2023%29.jpg/1920px-The_Weeknd_-_Live_at_Ippodromo_SNAI_La_Maura%2C_Milan_%28July_27%2C_2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Luca Dell''Orto / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:The_Weeknd_-_Live_at_Ippodromo_SNAI_La_Maura,_Milan_(July_27,_2023).jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:The_Weeknd_-_Live_at_Ippodromo_SNAI_La_Maura,_Milan_(July_27,_2023).jpg
 gallery: []
 tags:
   - jakarta
   - event
-quickAnswer: 'The Weeknd brings the AFTER HOURS TIL DAWN World Tour to Jakarta International Stadium (JIS) for two nights, September 26–27, 2026 — the tour''s first Southeast Asian stop. Treat both dates as one event when planning: book flights/hotels for a multi-night stay in North Jakarta, and confirm exact gate times, setlist details, and ticket tiers on The Weeknd''s official tour site or Live Nation Indonesia before you buy, since none of that has been locked in publicly yet.'
+quickAnswer: >-
+  The Weeknd brings the AFTER HOURS TIL DAWN World Tour to Jakarta International
+  Stadium (JIS) for two nights, September 26–27, 2026 — the tour's first
+  Southeast Asian stop. Treat both dates as one event when planning: book
+  flights/hotels for a multi-night stay in North Jakarta, and confirm exact gate
+  times, setlist details, and ticket tiers on The Weeknd's official tour site or
+  Live Nation Indonesia before you buy, since none of that has been locked in
+  publicly yet.
 faq:
   - q: What are the confirmed dates and venue?
-    a: September 26 and 27, 2026, at Jakarta International Stadium (JIS) in Tanjung Priok, North Jakarta — the tour's first Southeast Asian stop. Confirm on the official tour site as the date approaches, since venue and schedule details can still be updated.
+    a: >-
+      September 26 and 27, 2026, at Jakarta International Stadium (JIS) in
+      Tanjung Priok, North Jakarta — the tour's first Southeast Asian stop.
+      Confirm on the official tour site as the date approaches, since venue and
+      schedule details can still be updated.
   - q: How do I get to Jakarta International Stadium?
-    a: Ride-hailing apps (Gojek, Grab) or TransJakarta bus routes toward Tanjung Priok are the most practical options; the area isn't well served by tourist-friendly transit, so budget 45 minutes to over an hour from central Jakarta, more on show nights.
+    a: >-
+      Ride-hailing apps (Gojek, Grab) or TransJakarta bus routes toward Tanjung
+      Priok are the most practical options; the area isn't well served by
+      tourist-friendly transit, so budget 45 minutes to over an hour from
+      central Jakarta, more on show nights.
   - q: Where are tickets and prices announced?
-    a: Neither has been officially published as of this writing — go directly to The Weeknd's official tour page or Live Nation Indonesia for verified ticket tiers, on-sale dates, and prices, and be wary of unofficial resale listings.
+    a: >-
+      Neither has been officially published as of this writing — go directly to
+      The Weeknd's official tour page or Live Nation Indonesia for verified
+      ticket tiers, on-sale dates, and prices, and be wary of unofficial resale
+      listings.
   - q: Should I attend both nights or just one?
-    a: If budget and travel allow, plan for both — setlists on this tour have varied by city, and a two-night run in one location isn't guaranteed on future legs, so it's a rare chance to catch the show twice in one trip.
+    a: >-
+      If budget and travel allow, plan for both — setlists on this tour have
+      varied by city, and a two-night run in one location isn't guaranteed on
+      future legs, so it's a rare chance to catch the show twice in one trip.
   - q: Where should I stay if I'm visiting from abroad?
-    a: Central Jakarta or Kelapa Gading are practical bases with more hotels and dining than the stadium's immediate port-district surroundings, both roughly 20–45 minutes from JIS depending on traffic.
+    a: >-
+      Central Jakarta or Kelapa Gading are practical bases with more hotels and
+      dining than the stadium's immediate port-district surroundings, both
+      roughly 20–45 minutes from JIS depending on traffic.
 aiGenerated: true
 draft: false
+eventRecurring: false
 ---
 
 ## Why this show matters

@@ -47,7 +47,7 @@ const vmismatch = new Set();
 // the new photo as MATCH. Adding every MISMATCH slug therefore re-queued ~200
 // already-fixed posts every night (the patrol's "scanned 399 targets"). Keep a
 // slug only when the verdict belongs to the hero it is CURRENTLY showing.
-const vmismatchUrls = new Map(); // slug → Set(url judged MISMATCH)
+const vmismatchUrls = new Map(); // slug → Set(url judged MISMATCH or WEAK)
 let auditStore = null;      // the parsed store, so an acquittal can be written back
 let auditDirty = false;
 const acquitted = [];
@@ -58,7 +58,15 @@ if (existsSync('data/visual-audit.json')) {
     if (!audit.results) auditStore = audit; // flat store → safe to edit in place
     for (const [key, item] of Object.entries(entries)) {
       if (!item?.slug) continue;
-      if (!(item.verdict || item.status || '').toUpperCase().includes('MISMATCH')) continue;
+      // WEAK counts too. The vision gate returns three verdicts and only
+      // MISMATCH was ever acted on, so a hero judged "generic beverage photo,
+      // no venue context visible" sat on the page indefinitely — not wrong
+      // enough to quarantine, not good enough to keep, and nothing in the
+      // pipeline looking for better (found 2026-08-06). Queuing it is safe:
+      // the patrol only SWAPS when the replacement clears the same vision
+      // gate, so a weak hero can never be traded for a worse one.
+      const verdict = (item.verdict || item.status || '').toUpperCase();
+      if (!verdict.includes('MISMATCH') && !verdict.includes('WEAK')) continue;
       // key === `${slug}\x01${url}` (visual-audit.mjs joins them with \x01).
       // Tolerate a plain-concat key too, in case older entries lack the separator.
       const rest = key.startsWith(item.slug) ? key.slice(item.slug.length) : '';

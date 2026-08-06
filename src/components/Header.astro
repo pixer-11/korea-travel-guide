@@ -109,7 +109,7 @@ const navGroups = CONT_ORDER
         const v = JSON.parse(localStorage.getItem(KEY) || '[]');
         n = Array.isArray(v) ? v.length : 0;
       } catch { n = 0; }
-      document.querySelectorAll('.nav-trip').forEach((el) => {
+      document.querySelectorAll<HTMLElement>('.nav-trip').forEach((el) => {
         el.hidden = n === 0;
         const badge = el.querySelector('.nav-trip-n');
         if (badge) badge.textContent = n ? String(n) : '';
@@ -166,19 +166,22 @@ const navGroups = CONT_ORDER
   // pressed. Enter and Space now toggle it, Escape closes it, and aria-expanded
   // tells a screen reader which state it is in.
   {
-    const box = document.getElementById('nav-toggle');
-    const btn = document.querySelector('.menu-toggle');
+    // Typed lookups: querySelector returns Element, which has no .checked or
+    // .focus(). The code was always right at runtime — the annotations just
+    // say so, which is what lets `astro check` be a gate instead of noise.
+    const box = document.getElementById('nav-toggle') as HTMLInputElement | null;
+    const btn = document.querySelector<HTMLElement>('.menu-toggle');
     if (box && btn) {
       const sync = () => btn.setAttribute('aria-expanded', String(box.checked));
-      btn.addEventListener('keydown', (e) => {
+      btn.addEventListener('keydown', (e: KeyboardEvent) => {
         if (e.key !== 'Enter' && e.key !== ' ') return;
         e.preventDefault();
         box.checked = !box.checked;
         sync();
-        if (box.checked) document.querySelector('.nav a, .nav button')?.focus();
+        if (box.checked) document.querySelector<HTMLElement>('.nav a, .nav button')?.focus();
       });
       box.addEventListener('change', sync);
-      document.addEventListener('keydown', (e) => {
+      document.addEventListener('keydown', (e: KeyboardEvent) => {
         if (e.key !== 'Escape' || !box.checked) return;
         box.checked = false;
         sync();

@@ -1,6 +1,9 @@
 ---
 title: 'Arena di Verona Opera Festival: What to Know (Verona)'
-description: Arena di Verona Opera Festival in Verona, Italy — through September 12, 2026 (running since June 12). What it is, when and where, and how to plan around it.
+description: >-
+  Arena di Verona Opera Festival in Verona, Italy — through September 12, 2026
+  (running since June 12). What it is, when and where, and how to plan around
+  it.
 country: Italy
 region: Verona
 category: event
@@ -8,28 +11,50 @@ pubDate: '2026-08-05'
 eventStartDate: '2026-08-05'
 eventEndDate: '2026-09-12'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Verona_-_Arena_di_Verona.jpeg/3840px-Verona_-_Arena_di_Verona.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Verona_-_Arena_di_Verona.jpeg/3840px-Verona_-_Arena_di_Verona.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Elenadebiasi / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Verona_-_Arena_di_Verona.jpeg
+  source: 'https://commons.wikimedia.org/wiki/File:Verona_-_Arena_di_Verona.jpeg'
 gallery: []
 tags:
   - verona
   - event
-quickAnswer: The Arena di Verona Opera Festival's 103rd edition runs through September 12, 2026, in the 2,000-year-old Roman amphitheatre on Piazza Bra. Expect large-scale productions of Aida, Turandot, Nabucco, and La Traviata under the open sky — arrive well before curtain to find your row and settle in before dusk. Confirm the exact program, dates, and ticket categories on the Arena's official site before you book, since schedules rotate by title through the run.
+quickAnswer: >-
+  The Arena di Verona Opera Festival's 103rd edition runs through September 12,
+  2026, in the 2,000-year-old Roman amphitheatre on Piazza Bra. Expect
+  large-scale productions of Aida, Turandot, Nabucco, and La Traviata under the
+  open sky — arrive well before curtain to find your row and settle in before
+  dusk. Confirm the exact program, dates, and ticket categories on the Arena's
+  official site before you book, since schedules rotate by title through the
+  run.
 faq:
   - q: How long does the festival run in 2026?
-    a: The 103rd edition runs from June 12 through September 12, 2026, with different operas rotating through the schedule.
+    a: >-
+      The 103rd edition runs from June 12 through September 12, 2026, with
+      different operas rotating through the schedule.
   - q: How do I get to the Arena from the train station?
-    a: Verona Porta Nuova station is about a 15-20 minute walk to Piazza Bra, where the Arena is located, or a short local bus ride into the pedestrianized center.
+    a: >-
+      Verona Porta Nuova station is about a 15-20 minute walk to Piazza Bra,
+      where the Arena is located, or a short local bus ride into the
+      pedestrianized center.
   - q: How long does a typical performance last?
-    a: Full productions like Aida or Turandot commonly run three hours or more including intervals, so plan for a late finish.
+    a: >-
+      Full productions like Aida or Turandot commonly run three hours or more
+      including intervals, so plan for a late finish.
   - q: What should I bring for the stone-step seating?
-    a: A cushion (rentable at the venue) is standard for the unnumbered stone steps, and a light jacket is worth packing since evenings cool off after sunset even in summer.
+    a: >-
+      A cushion (rentable at the venue) is standard for the unnumbered stone
+      steps, and a light jacket is worth packing since evenings cool off after
+      sunset even in summer.
   - q: Where can I check the exact program and buy tickets?
-    a: Always confirm the current lineup, dates for each opera, and official ticket sales through the Arena di Verona's official festival website before booking.
+    a: >-
+      Always confirm the current lineup, dates for each opera, and official
+      ticket sales through the Arena di Verona's official festival website
+      before booking.
 aiGenerated: true
 draft: false
+eventRecurring: true
 ---
 
 You feel it before you see it: the low murmur of a crowd gathering on pink-hued cobblestones, cushions tucked under arms, as the sun drops behind the rooftops of Piazza Bra. Then the amphitheatre itself comes into view — tiers of pale limestone stacked in a vast oval, worn smooth by nearly two thousand years of use. This is the Arena di Verona, and for one of Italy's great summer traditions, it becomes an opera house without a roof.

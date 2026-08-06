@@ -1,6 +1,9 @@
 ---
 title: 'ChinaJoy: What to Know (Shanghai)'
-description: ChinaJoy 2026 (China Digital Entertainment Expo) runs July 31–August 3, 2026 in Shanghai, historically staged at the National Exhibition and Convention Center (NECC) in Hongqiao.
+description: >-
+  ChinaJoy 2026 (China Digital Entertainment Expo) runs July 31–August 3, 2026
+  in Shanghai, historically staged at the National Exhibition and Convention
+  Center (NECC) in Hongqiao.
 country: China
 region: Shanghai
 category: event
@@ -8,28 +11,49 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-07-31'
 eventEndDate: '2026-08-03'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/ChinaJoy_2025_-_General_11.jpg/1920px-ChinaJoy_2025_-_General_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/ChinaJoy_2025_-_General_11.jpg/1920px-ChinaJoy_2025_-_General_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Xuthoria / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:ChinaJoy_2025_-_General_11.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:ChinaJoy_2025_-_General_11.jpg'
 gallery: []
 tags:
   - shanghai
   - event
-quickAnswer: ChinaJoy 2026 (China Digital Entertainment Expo) runs July 31–August 3, 2026 in Shanghai, historically staged at the National Exhibition and Convention Center (NECC) in Hongqiao. Expect huge crowds, cosplay, booth-babe-heavy show floors, and both a trade (B2B) segment and a public (B2C) segment — confirm the exact venue, hall, ticket tiers, and daily hours on the official ChinaJoy site before you book flights or hotels.
+quickAnswer: >-
+  ChinaJoy 2026 (China Digital Entertainment Expo) runs July 31–August 3, 2026
+  in Shanghai, historically staged at the National Exhibition and Convention
+  Center (NECC) in Hongqiao. Expect huge crowds, cosplay, booth-babe-heavy show
+  floors, and both a trade (B2B) segment and a public (B2C) segment — confirm
+  the exact venue, hall, ticket tiers, and daily hours on the official ChinaJoy
+  site before you book flights or hotels.
 faq:
   - q: What are the confirmed dates for ChinaJoy 2026?
-    a: July 31 through August 3, 2026, according to official announcements, at the venue in Shanghai.
+    a: >-
+      July 31 through August 3, 2026, according to official announcements, at
+      the venue in Shanghai.
   - q: Where is ChinaJoy held?
-    a: It has historically taken place at the National Exhibition and Convention Center (NECC) in Shanghai's Hongqiao district, though the exact venue for 2026 should be confirmed via the official event site.
+    a: >-
+      It has historically taken place at the National Exhibition and Convention
+      Center (NECC) in Shanghai's Hongqiao district, though the exact venue for
+      2026 should be confirmed via the official event site.
   - q: How do I get to the venue from the airport?
-    a: From Hongqiao International Airport it's a short metro or taxi ride to the NECC; from Pudong International Airport, budget 1.5–2 hours via metro/maglev connections.
+    a: >-
+      From Hongqiao International Airport it's a short metro or taxi ride to the
+      NECC; from Pudong International Airport, budget 1.5–2 hours via
+      metro/maglev connections.
   - q: Is ChinaJoy open to the general public?
-    a: Yes, it typically runs a B2C (public) segment alongside a B2B (trade) segment, often with separate tickets and days — confirm which days are public-access on the official site.
+    a: >-
+      Yes, it typically runs a B2C (public) segment alongside a B2B (trade)
+      segment, often with separate tickets and days — confirm which days are
+      public-access on the official site.
   - q: How many days should I plan for?
-    a: Most visitors spend one to two full days on-site; industry attendees focused on meetings and product previews may need the full multi-day run.
+    a: >-
+      Most visitors spend one to two full days on-site; industry attendees
+      focused on meetings and product previews may need the full multi-day run.
 aiGenerated: true
 draft: false
+eventRecurring: true
 ---
 
 ## Why go

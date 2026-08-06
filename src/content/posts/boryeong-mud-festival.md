@@ -1,35 +1,62 @@
 ---
 title: Mud Festival in Boryeong
-description: The Boryeong Mud Festival runs for about two weeks each July at Daecheon Beach on Korea's west coast, roughly two hours from Seoul by train or bus.
+description: >-
+  The Boryeong Mud Festival runs for about two weeks each July at Daecheon Beach
+  on Korea's west coast, roughly two hours from Seoul by train or bus.
 region: Boryeong
 category: event
 eventStartDate: 2026-07-24T00:00:00.000Z
 eventEndDate: 2026-08-09T00:00:00.000Z
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Korea-Boryeong_Mud_Festival-29.jpg/1920px-Korea-Boryeong_Mud_Festival-29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Korea-Boryeong_Mud_Festival-29.jpg/1920px-Korea-Boryeong_Mud_Festival-29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Stinkie Pinkie / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Korea-Boryeong_Mud_Festival-29.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Korea-Boryeong_Mud_Festival-29.jpg'
 gallery: []
 tags:
   - boryeong
   - mud festival
-quickAnswer: The Boryeong Mud Festival runs for about two weeks each July at Daecheon Beach on Korea's west coast, roughly two hours from Seoul by train or bus. Go for the mud pools, mud slides, and beach concerts, and plan to spend at least one overnight since the fun really peaks after dark. Book Daecheon-area lodging months ahead, as the town's small guesthouse supply sells out fast during festival dates.
+quickAnswer: >-
+  The Boryeong Mud Festival runs for about two weeks each July at Daecheon Beach
+  on Korea's west coast, roughly two hours from Seoul by train or bus. Go for
+  the mud pools, mud slides, and beach concerts, and plan to spend at least one
+  overnight since the fun really peaks after dark. Book Daecheon-area lodging
+  months ahead, as the town's small guesthouse supply sells out fast during
+  festival dates.
 faq:
   - q: How do I get to the Boryeong Mud Festival from Seoul?
-    a: Take a Janghang Line train from Yongsan Station to Daecheon Station (about 2–2.5 hours), then a taxi or festival shuttle bus for the final 3 km to Daecheon Beach. Intercity buses from Central City Terminal are a similar-length alternative.
+    a: >-
+      Take a Janghang Line train from Yongsan Station to Daecheon Station (about
+      2–2.5 hours), then a taxi or festival shuttle bus for the final 3 km to
+      Daecheon Beach. Intercity buses from Central City Terminal are a
+      similar-length alternative.
   - q: When exactly does the festival happen?
-    a: It usually runs for about two weeks in mid-to-late July, though exact dates vary by year — confirm current dates on official Boryeong tourism announcements before booking travel.
+    a: >-
+      It usually runs for about two weeks in mid-to-late July, though exact
+      dates vary by year — confirm current dates on official Boryeong tourism
+      announcements before booking travel.
   - q: How much does it cost to enter?
-    a: Access to the beach and many mud zones has historically been free or low-cost, with some paid premium activities and gear rentals; prices and ticketing structures can change year to year, so check official festival information closer to your visit.
+    a: >-
+      Access to the beach and many mud zones has historically been free or
+      low-cost, with some paid premium activities and gear rentals; prices and
+      ticketing structures can change year to year, so check official festival
+      information closer to your visit.
   - q: How long should I plan to stay?
-    a: A single day trip is possible from Seoul, but an overnight stay lets you enjoy the evening concerts and fireworks without rushing for the last train — plan for at least one night in or near Boryeong.
+    a: >-
+      A single day trip is possible from Seoul, but an overnight stay lets you
+      enjoy the evening concerts and fireworks without rushing for the last
+      train — plan for at least one night in or near Boryeong.
   - q: What else is there to do nearby?
-    a: Muchangpo Beach's tidal 'sea-parting' phenomenon and Boryeong's Oceanographic Museum make good side trips if you want a break from the mud pools.
+    a: >-
+      Muchangpo Beach's tidal 'sea-parting' phenomenon and Boryeong's
+      Oceanographic Museum make good side trips if you want a break from the mud
+      pools.
 aiGenerated: true
 draft: false
 country: South Korea
+eventRecurring: true
 ---
 
 ## Why go

@@ -1,6 +1,9 @@
 ---
-title: "Rock en Seine 2026: What to Know (Saint-Cloud, Paris)"
-description: Rock en Seine 2026 runs August 26–30, 2026 at the Domaine national de Saint-Cloud, just west of Paris, with The Cure, Nick Cave & The Bad Seeds and Tyler, the Creator headlining alongside Deftones, Turnstile and more.
+title: 'Rock en Seine 2026: What to Know (Saint-Cloud, Paris)'
+description: >-
+  Rock en Seine 2026 runs August 26–30, 2026 at the Domaine national de
+  Saint-Cloud, just west of Paris, with The Cure, Nick Cave & The Bad Seeds and
+  Tyler, the Creator headlining alongside Deftones, Turnstile and more.
 country: France
 region: Saint-Cloud
 category: event
@@ -8,28 +11,51 @@ pubDate: '2026-07-21'
 eventStartDate: '2026-08-26'
 eventEndDate: '2026-08-30'
 heroImage:
-  url: "https://images.unsplash.com/photo-1429962714451-bb934ecdc4ec?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8M3x8cm9jayUyMGNvbmNlcnQlMjBjcm93ZHxlbnwwfDB8fHwxNzg0Nzc1ODMwfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max"
-  credit: "Photo by Anthony DELANOIX on Unsplash"
-  license: "unsplash"
-  source: "https://unsplash.com/@anthonydelanoix?utm_source=korea_travel_guide&utm_medium=referral"
+  url: >-
+    https://images.unsplash.com/photo-1429962714451-bb934ecdc4ec?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8M3x8cm9jayUyMGNvbmNlcnQlMjBjcm93ZHxlbnwwfDB8fHwxNzg0Nzc1ODMwfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  credit: Photo by Anthony DELANOIX on Unsplash
+  license: unsplash
+  source: >-
+    https://unsplash.com/@anthonydelanoix?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - saint-cloud
   - event
-quickAnswer: Rock en Seine 2026 runs August 26–30, 2026 at the Domaine national de Saint-Cloud, just west of Paris, with The Cure, Nick Cave & The Bad Seeds and Tyler, the Creator headlining alongside Deftones, Turnstile and more. Base yourself in Paris and take the RER C to Saint-Cloud station, then walk or shuttle up to the domaine — but always double-check exact dates, stage times and ticket tiers on the official Rock en Seine site before you book, since festival lineups and logistics shift.
+quickAnswer: >-
+  Rock en Seine 2026 runs August 26–30, 2026 at the Domaine national de
+  Saint-Cloud, just west of Paris, with The Cure, Nick Cave & The Bad Seeds and
+  Tyler, the Creator headlining alongside Deftones, Turnstile and more. Base
+  yourself in Paris and take the RER C to Saint-Cloud station, then walk or
+  shuttle up to the domaine — but always double-check exact dates, stage times
+  and ticket tiers on the official Rock en Seine site before you book, since
+  festival lineups and logistics shift.
 faq:
   - q: What are the exact dates for Rock en Seine 2026?
-    a: The festival is scheduled for August 26–30, 2026, but always confirm the final day-by-day lineup and any date changes on the official Rock en Seine site closer to the event.
+    a: >-
+      The festival is scheduled for August 26–30, 2026, but always confirm the
+      final day-by-day lineup and any date changes on the official Rock en Seine
+      site closer to the event.
   - q: How do I get to the festival from central Paris?
-    a: Take the RER C to Saint-Cloud station, then walk or use a festival shuttle uphill to the Domaine national de Saint-Cloud; Métro Line 9 to Pont de Sèvres is an alternative route on the park's south side.
+    a: >-
+      Take the RER C to Saint-Cloud station, then walk or use a festival shuttle
+      uphill to the Domaine national de Saint-Cloud; Métro Line 9 to Pont de
+      Sèvres is an alternative route on the park's south side.
   - q: Who is headlining in 2026?
-    a: The Cure, Nick Cave & The Bad Seeds, and Tyler, the Creator top the bill, with Deftones, Turnstile and other acts also confirmed.
+    a: >-
+      The Cure, Nick Cave & The Bad Seeds, and Tyler, the Creator top the bill,
+      with Deftones, Turnstile and other acts also confirmed.
   - q: Do I need to book accommodation in Saint-Cloud?
-    a: Not necessarily — Saint-Cloud is a short RER ride from central Paris, so most visitors stay in Paris and commute to the festival rather than booking locally.
+    a: >-
+      Not necessarily — Saint-Cloud is a short RER ride from central Paris, so
+      most visitors stay in Paris and commute to the festival rather than
+      booking locally.
   - q: What should I pack for an outdoor festival in late August?
-    a: Layers for warm days and cooler evenings, plus rain-ready gear, since the Domaine national de Saint-Cloud is an open-air venue with limited shelter.
+    a: >-
+      Layers for warm days and cooler evenings, plus rain-ready gear, since the
+      Domaine national de Saint-Cloud is an open-air venue with limited shelter.
 aiGenerated: true
 draft: false
+eventRecurring: true
 ---
 
 ## Why go

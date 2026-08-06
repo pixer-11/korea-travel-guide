@@ -1,6 +1,8 @@
 ---
 title: 'Lollapalooza 2026: What to Know (Chicago)'
-description: Lollapalooza 2026 runs July 30–August 2 in Grant Park, Chicago, with headliners including Charli XCX, Lorde, and Doja Cat.
+description: >-
+  Lollapalooza 2026 runs July 30–August 2 in Grant Park, Chicago, with
+  headliners including Charli XCX, Lorde, and Doja Cat.
 country: United States
 region: Chicago
 category: event
@@ -8,28 +10,52 @@ eventStartDate: 2026-07-30T00:00:00.000Z
 eventEndDate: 2026-08-02T00:00:00.000Z
 pubDate: '2026-07-21'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/NewDad_Lollapalooza_2025.png/1920px-NewDad_Lollapalooza_2025.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/NewDad_Lollapalooza_2025.png/1920px-NewDad_Lollapalooza_2025.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Ben1we / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:NewDad_Lollapalooza_2025.png
+  source: 'https://commons.wikimedia.org/wiki/File:NewDad_Lollapalooza_2025.png'
 gallery: []
 tags:
   - chicago
   - event
-quickAnswer: Lollapalooza 2026 runs July 30–August 2 in Grant Park, Chicago, with headliners including Charli XCX, Lorde, and Doja Cat. Buy tickets and check set times only through the official Lollapalooza site/app for each edition, since gate locations, hours, and lineup slots shift from year to year. Base yourself near the Loop or South Loop so you can walk or take the CTA to Grant Park rather than drive.
+quickAnswer: >-
+  Lollapalooza 2026 runs July 30–August 2 in Grant Park, Chicago, with
+  headliners including Charli XCX, Lorde, and Doja Cat. Buy tickets and check
+  set times only through the official Lollapalooza site/app for each edition,
+  since gate locations, hours, and lineup slots shift from year to year. Base
+  yourself near the Loop or South Loop so you can walk or take the CTA to Grant
+  Park rather than drive.
 faq:
   - q: What are the exact dates for Lollapalooza 2026?
-    a: As announced, July 30–August 2, 2026, in Grant Park, Chicago. Confirm on the official Lollapalooza website for the edition you are attending, since festival dates and details can be adjusted.
+    a: >-
+      As announced, July 30–August 2, 2026, in Grant Park, Chicago. Confirm on
+      the official Lollapalooza website for the edition you are attending, since
+      festival dates and details can be adjusted.
   - q: Who is headlining Lollapalooza 2026?
-    a: Confirmed headliners so far include Charli XCX, Lorde, and Doja Cat. The rest of the lineup and daily set times are typically released in phases, so check the official site/app for updates.
+    a: >-
+      Confirmed headliners so far include Charli XCX, Lorde, and Doja Cat. The
+      rest of the lineup and daily set times are typically released in phases,
+      so check the official site/app for updates.
   - q: How do I get to Grant Park without driving?
-    a: Take the CTA Red, Orange, or Green Line to Roosevelt, or the Red Line to Harrison; both are a short walk to the festival gates. Metra Electric/South Shore trains to Museum Campus/11th Street are another option.
+    a: >-
+      Take the CTA Red, Orange, or Green Line to Roosevelt, or the Red Line to
+      Harrison; both are a short walk to the festival gates. Metra
+      Electric/South Shore trains to Museum Campus/11th Street are another
+      option.
   - q: How much are tickets and when do they go on sale?
-    a: Pricing and on-sale dates weren't available at the time of writing and change year to year, so check Lollapalooza's official ticketing page directly rather than relying on past-year prices.
-  - q: Is one day enough, or should I get a multi-day pass?
-    a: A single-day pass works if you're mainly there for headliners, but a four-day pass lets you catch smaller acts across Lollapalooza's many stages; four-day passes have historically sold out first.
+    a: >-
+      Pricing and on-sale dates weren't available at the time of writing and
+      change year to year, so check Lollapalooza's official ticketing page
+      directly rather than relying on past-year prices.
+  - q: 'Is one day enough, or should I get a multi-day pass?'
+    a: >-
+      A single-day pass works if you're mainly there for headliners, but a
+      four-day pass lets you catch smaller acts across Lollapalooza's many
+      stages; four-day passes have historically sold out first.
 aiGenerated: true
 draft: false
+eventRecurring: true
 ---
 
 ## Why go
