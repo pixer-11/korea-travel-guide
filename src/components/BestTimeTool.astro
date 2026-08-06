@@ -40,6 +40,21 @@ if (lang !== 'en') {
   for (const e of tr) i18nTitles.set(e.data.slug, e.data.title);
 }
 
+// Hours shown on the bar, and the labels that state the same thing in words.
+// Both are computed HERE, at build time, because the cards below are rendered
+// server-side now: the entire point is that the crowd hours exist as text in the
+// delivered HTML.
+const HOURS = Array.from({ length: 16 }, (_, i) => i + 7); // 7am … 10pm
+const hr = (h: number) => {
+  const x = ((h % 24) + 24) % 24;
+  return `${x % 12 || 12}${x < 12 ? 'am' : 'pm'}`;
+};
+const range = (arr?: number[]) => {
+  if (!arr?.length) return null;
+  const s = [...arr].sort((a, b) => a - b);
+  return `${hr(s[0])}–${hr(s[s.length - 1] + 1)}`;
+};
+
 const index = posts
   .filter((p) => p.data.place?.busyness && (
     (p.data.place.busyness.weekdayQuiet?.length) ||
@@ -49,6 +64,11 @@ const index = posts
   .map((p) => {
     const slug = p.id.replace(/\.md$/, '');
     const country = p.data.country ?? 'South Korea';
+    const wq = p.data.place?.busyness?.weekdayQuiet ?? [];
+    const weq = p.data.place?.busyness?.weekendQuiet ?? [];
+    const web = p.data.place?.busyness?.weekendBusy ?? [];
+    const quiet = new Set([...wq, ...weq]);
+    const busy = new Set(web);
     return {
       s: slug,
       u: localizePath(`/posts/${slug}`, lang),
@@ -57,12 +77,20 @@ const index = posts
       c: localizePlace(country, lang),
       cat: p.data.category,
       b: wallFor(p.data.heroImage?.url),
-      wq: p.data.place?.busyness?.weekdayQuiet ?? [],
-      weq: p.data.place?.busyness?.weekendQuiet ?? [],
-      web: p.data.place?.busyness?.weekendBusy ?? [],
+      quietLabel: range(wq) || range(weq),
+      busyLabel: range(web),
+      cells: HOURS.map((h) => (busy.has(h) ? 'busy' : quiet.has(h) ? 'quiet' : 'mid')),
     };
   })
   .sort((a, b) => a.c.localeCompare(b.c) || a.r.localeCompare(b.r) || a.t.localeCompare(b.t));
+
+// Filter options are rendered into the <select>s at build time too, so the page
+// is fully usable — and fully readable — before any script runs.
+const countries = [...new Set(index.map((d) => d.c))].sort();
+const regionsByCountry: Record<string, string[]> = {};
+for (const d of index) (regionsByCountry[d.c] ??= []).includes(d.r) || regionsByCountry[d.c].push(d.r);
+for (const k of Object.keys(regionsByCountry)) regionsByCountry[k].sort();
+const allRegions = [...new Set(index.map((d) => d.r))].sort();
 
 // Strings the client-side renderer needs.
 const strings = {
@@ -97,8 +125,14 @@ const jsonLd = {
       <p class="dek">{t('tool.dek').replace('{n}', String(index.length))}</p>
 
       <div class="filters">
-        <label>{t('tool.country')}<select id="f-country"><option value="">{t('tool.allCountries')}</option></select></label>
-        <label>{t('tool.city')}<select id="f-region"><option value="">{t('tool.allCities')}</option></select></label>
+        <label>{t('tool.country')}<select id="f-country">
+          <option value="">{t('tool.allCountries')}</option>
+          {countries.map((c) => <option value={c}>{c}</option>)}
+        </select></label>
+        <label>{t('tool.city')}<select id="f-region">
+          <option value="">{t('tool.allCities')}</option>
+          {allRegions.map((r) => <option value={r}>{r}</option>)}
+        </select></label>
         <label>{t('tool.type')}<select id="f-cat">
           <option value="">{t('tool.allTypes')}</option>
           <option value="restaurant">{t('cat.restaurant')}</option>
@@ -109,7 +143,7 @@ const jsonLd = {
       </div>
 
       <div class="meta">
-        <p id="count" class="count"></p>
+        <p id="count" class="count">{t('tool.places').replace('{n}', String(index.length))}</p>
         <div class="legend">
           <span><i style="background:linear-gradient(180deg,#4bb37c,#2f7d55)"></i> {t('tool.quiet')}</span>
           <span><i style="background:var(--line)"></i> {t('tool.normal')}</span>
@@ -120,71 +154,76 @@ const jsonLd = {
           largest single heading skip on the site. The results list is the
           section; it just never had a name a screen reader could see. */}
       <h2 class="sr-only">{t('a11y.results')}</h2>
-      <div id="results" class="results"></div>
+      {/* Rendered here, at build time, not injected by the script below. The
+          crowd hours are the one thing on this site that assistants cannot get
+          from Google Maps — and assistants do not run JavaScript, so for as long
+          as this list was written by the client it was a blank page to exactly
+          the readers it was built for. The script now filters these nodes; it no
+          longer creates them. */}
+      <div id="results" class="results">
+        {index.map((d) => (
+          <a class="card" href={d.u} data-c={d.c} data-r={d.r} data-cat={d.cat}>
+            <div class="photo" data-bg={d.b || undefined}>
+              <span class="badge">{strings.cat[d.cat as keyof typeof strings.cat] || d.cat} · {d.r}</span>
+              {d.quietLabel && <span class="chip">🟢 {d.quietLabel} {t('tool.quiet')}</span>}
+            </div>
+            <div class="body">
+              <h3>{d.t}</h3>
+              {/* The same figures the bar draws, in words — this is the part a
+                  language model can quote. */}
+              <p class="hours">
+                {d.quietLabel && <span>{t('tool.quietest')} {d.quietLabel}</span>}
+                {d.quietLabel && d.busyLabel && <span aria-hidden="true"> · </span>}
+                {d.busyLabel && <span>{t('tool.busy')} {d.busyLabel}</span>}
+              </p>
+              <div class="barwrap">
+                <div class="bar">{d.cells.map((cls, i) => <i class={cls} title={hr(HOURS[i])}></i>)}</div>
+                <div class="barlab"><span>7am</span><span>2pm</span><span>10pm</span></div>
+              </div>
+            </div>
+          </a>
+        ))}
+      </div>
+      <p class="empty" id="empty" hidden>{t('tool.empty')}</p>
       <p class="foot">{t('tool.foot')}</p>
     </div>
   </section>
 
   <Newsletter lang={lang} />
 
-  <script type="application/json" id="data" set:html={JSON.stringify(index)} />
-  <script type="application/json" id="strings" set:html={JSON.stringify(strings)} />
-  <script is:inline>
+  <script type="application/json" id="regions" set:html={JSON.stringify(regionsByCountry)} />
+  <script is:inline data-count-tpl={t('tool.places')}>
     (() => {
-      const DATA = JSON.parse(document.getElementById('data').textContent);
-      const S = JSON.parse(document.getElementById('strings').textContent);
+      // Filters what the server already rendered. It does not build the list —
+      // see the note on #results. Everything here degrades to "all cards
+      // visible", which is a correct page.
+      const REGIONS = JSON.parse(document.getElementById('regions').textContent);
+      const COUNT_TPL = document.currentScript.dataset.countTpl;
       const $c = document.getElementById('f-country');
       const $r = document.getElementById('f-region');
       const $cat = document.getElementById('f-cat');
-      const $out = document.getElementById('results');
       const $count = document.getElementById('count');
-
-      const countries = [...new Set(DATA.map((d) => d.c))].sort();
-      for (const c of countries) $c.add(new Option(c, c));
-
-      const hr = (h) => { const x = ((h % 24) + 24) % 24; const ap = x < 12 ? 'am' : 'pm'; const h12 = x % 12 || 12; return h12 + ap; };
-      const range = (arr) => { if (!arr || !arr.length) return null; const s = [...arr].sort((a, b) => a - b); return hr(s[0]) + '–' + hr(s[s.length - 1] + 1); };
-      const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+      const $empty = document.getElementById('empty');
+      const cards = Array.prototype.slice.call(document.querySelectorAll('#results .card'));
+      const allCitiesOption = $r.options[0].cloneNode(true);
 
       function refreshRegions() {
         const c = $c.value;
-        const regions = [...new Set(DATA.filter((d) => !c || d.c === c).map((d) => d.r))].sort();
-        $r.innerHTML = `<option value="">${esc(S.allCities)}</option>`;
+        const regions = c ? (REGIONS[c] || []) : [...new Set(Object.values(REGIONS).flat())].sort();
+        $r.replaceChildren(allCitiesOption.cloneNode(true));
         for (const r of regions) $r.add(new Option(r, r));
-      }
-
-      function bar(d) {
-        const busy = new Set(d.web);
-        const quiet = new Set([...d.wq, ...d.weq]);
-        let cells = '';
-        for (let h = 7; h <= 22; h++) {
-          const cls = busy.has(h) ? 'busy' : quiet.has(h) ? 'quiet' : 'mid';
-          cells += `<i class="${cls}" title="${hr(h)}"></i>`;
-        }
-        return `<div class="barwrap"><div class="bar">${cells}</div><div class="barlab"><span>7am</span><span>2pm</span><span>10pm</span></div></div>`;
       }
 
       function render() {
         const c = $c.value, r = $r.value, cat = $cat.value;
-        const rows = DATA.filter((d) => (!c || d.c === c) && (!r || d.r === r) && (!cat || d.cat === cat));
-        $count.textContent = S.places.replace('{n}', rows.length);
-        $out.innerHTML = rows.slice(0, 250).map((d) => {
-          const q = range(d.wq) || range(d.weq);
-          // Photo band on top, facts on a solid body below. The photo is shown at
-          // full strength instead of hiding behind the text, and the bar/labels get
-          // an opaque background — the earlier "photo behind everything" version
-          // washed the photo out AND made the neutral bar cells unreadable.
-          return `<a class="card" href="${d.u}">
-            <div class="photo"${d.b ? ` data-bg="${esc(d.b)}"` : ''}>
-              <span class="badge">${esc(S.cat[d.cat] || d.cat)} · ${esc(d.r)}</span>
-              ${q ? `<span class="chip">🟢 ${q} ${esc(S.quiet)}</span>` : ''}
-            </div>
-            <div class="body">
-              <h3>${esc(d.t)}</h3>
-              ${bar(d)}
-            </div>
-          </a>`;
-        }).join('') || `<p class="empty">${esc(S.empty)}</p>`;
+        let n = 0;
+        for (const el of cards) {
+          const ok = (!c || el.dataset.c === c) && (!r || el.dataset.r === r) && (!cat || el.dataset.cat === cat);
+          el.hidden = !ok;
+          if (ok) n++;
+        }
+        $count.textContent = COUNT_TPL.replace('{n}', n);
+        $empty.hidden = n > 0;
         lazyBackgrounds();
       }
 
@@ -207,7 +246,9 @@ const jsonLd = {
             io.unobserve(el);
           }
         }, { rootMargin: '300px' });
-        $out.querySelectorAll('.photo[data-bg]').forEach((el) => io.observe(el));
+        // Only cards currently on screen: a hidden card never intersects, so it
+        // would otherwise hold an observer forever and never load when shown.
+        for (const el of document.querySelectorAll('#results .card:not([hidden]) .photo[data-bg]')) io.observe(el);
       }
 
       $c.addEventListener('change', () => { refreshRegions(); render(); });
@@ -256,7 +297,12 @@ const jsonLd = {
     }
     @media (prefers-reduced-motion: reduce) { .tool .photo { transition: none; } }
 
-    .tool .card h3 { font-size: 1.02rem; margin: 0 0 0.7rem; line-height: 1.3; font-weight: 700; }
+    .tool .card h3 { font-size: 1.02rem; margin: 0 0 0.45rem; line-height: 1.3; font-weight: 700; }
+    /* The cards are display:flex, and that beats the `hidden` attribute's default
+       display:none — without this rule the filters would appear to do nothing. */
+    .tool .card[hidden] { display: none; }
+    /* The crowd hours in words, directly under the venue name: the quotable line. */
+    .tool .hours { margin: 0 0 0.7rem; font-size: 0.82rem; line-height: 1.45; color: var(--ink-soft); font-weight: 600; }
 
     /* The bar sits over the photo, so each cell gets a hairline + soft shadow to
        stay crisp, and the neutral "mid" cells are opaque rather than tinted. */
