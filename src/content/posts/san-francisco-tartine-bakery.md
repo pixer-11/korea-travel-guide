@@ -1,18 +1,18 @@
 ---
-title: "Tartine Bakery: San Francisco Travel Guide (4.5★)"
+title: 'Tartine Bakery: San Francisco Travel Guide (4.5★)'
 description: Tartine Bakery, at the corner of Guerrero and 18th in the Mission District, is one of San Francisco's most-visited bakeries — go right at opening (7:30am) to beat the line, especially on weekends when 9am–5pm gets packed. 4.5★ (5,942 reviews) — what visitors say, hours, and tips.
 country: United States
 region: San Francisco
 category: trendy
-pubDate: "2026-08-06T10:10:08.584Z"
+pubDate: '2026-08-06T10:10:08.584Z'
 heroImage:
   url: https://upload.wikimedia.org/wikipedia/commons/0/0a/Tartine_bakery_exterior_in_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
-  credit: "Photo: Carl Collins from Brooklyn, NY, USA / Wikimedia Commons (CC BY 2.0)"
+  credit: 'Photo: Carl Collins from Brooklyn, NY, USA / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Tartine_bakery_exterior_in_2006.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/6/62/Tartine_bakery_interior_in_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
-    credit: "Photo: kennejima / Wikimedia Commons (CC BY 2.0)"
+    credit: 'Photo: kennejima / Wikimedia Commons (CC BY 2.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Tartine_bakery_interior_in_2010.jpg
 place:
@@ -28,13 +28,13 @@ place:
   lng: -122.42408209999999
   phone: +1 415-487-2600
   openingHours:
-    - "Monday: 7:30 AM – 6:00 PM"
-    - "Tuesday: 7:30 AM – 6:00 PM"
-    - "Wednesday: 7:30 AM – 6:00 PM"
-    - "Thursday: 7:30 AM – 6:00 PM"
-    - "Friday: 7:30 AM – 6:00 PM"
-    - "Saturday: 7:30 AM – 6:00 PM"
-    - "Sunday: 7:30 AM – 6:00 PM"
+    - 'Monday: 7:30 AM – 6:00 PM'
+    - 'Tuesday: 7:30 AM – 6:00 PM'
+    - 'Wednesday: 7:30 AM – 6:00 PM'
+    - 'Thursday: 7:30 AM – 6:00 PM'
+    - 'Friday: 7:30 AM – 6:00 PM'
+    - 'Saturday: 7:30 AM – 6:00 PM'
+    - 'Sunday: 7:30 AM – 6:00 PM'
   busyness:
     updated: 2026-08-06T00:00:00.000Z
     weekdayQuiet:
@@ -69,7 +69,7 @@ faq:
   - q: Is there seating, and should I plan to stay?
     a: There are a handful of tables, but they fill quickly, especially on weekends. Most visitors grab their order to go and eat nearby, such as at Dolores Park a few minutes' walk away.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
