@@ -89,6 +89,12 @@
     "es": "Aomori",
     "zh": "青森"
   },
+  "Arlington": {
+    "ko": "알링턴",
+    "ja": "アーリントン",
+    "es": "Arlington",
+    "zh": "阿灵顿"
+  },
   "Austin": {
     "ko": "오스틴",
     "ja": "オースティン",
@@ -160,6 +166,12 @@
     "ja": "ビルバオ",
     "es": "Bilbao",
     "zh": "毕尔巴鄂"
+  },
+  "Bocaue": {
+    "ko": "보카우에",
+    "ja": "ボカウエ",
+    "es": "Bocaue",
+    "zh": "博卡韦"
   },
   "Bodrum": {
     "ko": "보드룸",
@@ -401,6 +413,12 @@
     "es": "Deira",
     "zh": "迪拉"
   },
+  "Delhi": {
+    "ko": "델리",
+    "ja": "デリー",
+    "es": "Delhi",
+    "zh": "德里"
+  },
   "Dempsey Hill": {
     "ko": "뎀시 힐",
     "ja": "デンプシーヒル",
@@ -514,6 +532,12 @@
     "ja": "ゲンティン・ハイランド",
     "es": "Genting Highlands",
     "zh": "云顶高原"
+  },
+  "George Town": {
+    "ko": "조지타운",
+    "ja": "ジョージタウン",
+    "es": "George Town",
+    "zh": "乔治市"
   },
   "Gili Islands": {
     "ko": "길리 제도",
@@ -911,6 +935,12 @@
     "es": "Las Vegas",
     "zh": "拉斯维加斯"
   },
+  "Le Castellet": {
+    "ko": "르카스텔레",
+    "ja": "ル・カステレ",
+    "es": "Le Castellet",
+    "zh": "勒卡斯特莱"
+  },
   "Lijiang": {
     "ko": "리장",
     "ja": "麗江",
@@ -1084,6 +1114,12 @@
     "ja": "ナント",
     "es": "Nantes",
     "zh": "南特"
+  },
+  "Nantou": {
+    "ko": "난터우",
+    "ja": "南投",
+    "es": "Nantou",
+    "zh": "南投"
   },
   "Naples": {
     "ko": "나폴리",
@@ -1553,6 +1589,12 @@
     "es": "Tagaytay",
     "zh": "打旦"
   },
+  "Taguig": {
+    "ko": "타기그",
+    "ja": "タギッグ",
+    "es": "Taguig",
+    "zh": "达贵市"
+  },
   "Taichung": {
     "ko": "타이중",
     "ja": "台中",
@@ -1576,6 +1618,12 @@
     "ja": "タイピン",
     "es": "Taiping",
     "zh": "太平"
+  },
+  "Taitung": {
+    "ko": "타이둥",
+    "ja": "台東",
+    "es": "Taitung",
+    "zh": "台东"
   },
   "Taiwan": {
     "ko": "대만",
@@ -1726,6 +1774,12 @@
     "ja": "ワシントンD.C.",
     "es": "Washington D.C.",
     "zh": "华盛顿特区"
+  },
+  "Wuhan": {
+    "ko": "우한",
+    "ja": "武漢",
+    "es": "Wuhan",
+    "zh": "武汉"
   },
   "Xi": {
     "ko": "시안",
