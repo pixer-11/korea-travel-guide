@@ -13,10 +13,37 @@ on:
       - 'astro.config.mjs'
       - 'package.json'
       - 'package-lock.json'
+      # data/ holds two different kinds of file. Some of it the build reads
+      # (countries, country-facts, esim-facts, hero-width-queue, wall); the
+      # rest is bookkeeping the bots rewrite all day — tokens, cursors, run
+      # logs, audit output. Measured over 2026-07-31..08-07, the bookkeeping
+      # accounted for most data/ commits, and every one of them woke a build
+      # that could not possibly break. Excluded by NEGATION rather than by
+      # listing the five that matter: a new data file the build starts reading
+      # is then covered automatically, and the cost of forgetting to update
+      # this list is a harmless extra build, never a missed breakage.
+      - '!data/logs/**'
+      - '!data/pinterest-token.enc'
+      - '!data/pinterest-state.json'
+      - '!data/visual-audit.json'
+      - '!data/published.json'
+      - '!data/threads-daily.json'
+      - '!data/fill-phase.json'
+      - '!data/photo-retry.json'
+      - '!data/places-budget.json'
+      - '!data/refresh-cursor.json'
+      - '!data/performance-log.json'
 
+# NOT cancel-in-progress. Cancelling looks free but it is not: GitHub reports a
+# superseded run as a FAILED run and emails the owner about it, so a busy push
+# day filled the inbox with "Run failed: Build check" for builds that were never
+# broken — and the one alert that matters, the site frozen on an old version,
+# became indistinguishable from the noise. The repo is public, so Actions
+# minutes cost nothing and there is nothing to save by killing runs. Queued runs
+# finish in order and every commit gets a verdict of its own.
 concurrency:
   group: build-check
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   build:
