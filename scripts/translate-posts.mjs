@@ -127,6 +127,49 @@ function spilledField(out) {
   return null;
 }
 
+// FAQ-only fallback for a post whose full translation keeps coming back
+// malformed. Returns the translated entries, or null if this fails too.
+const FAQ_TOOL = {
+  name: 'submit_faq',
+  description: 'Return the translated FAQ entries.',
+  input_schema: {
+    type: 'object',
+    properties: {
+      faq: {
+        type: 'array',
+        description: 'Translated FAQ, same order and count as the source.',
+        items: { type: 'object', properties: { q: { type: 'string' }, a: { type: 'string' } }, required: ['q', 'a'] },
+      },
+    },
+    required: ['faq'],
+  },
+};
+
+async function translateFaqOnly(langCode, data) {
+  try {
+    const msg = await client.messages.create({
+      model: MODEL,
+      max_tokens: 4000,
+      tools: [FAQ_TOOL],
+      tool_choice: { type: 'tool', name: 'submit_faq' },
+      messages: [{
+        role: 'user',
+        content:
+          `Translate these ${data.faq.length} FAQ entries into ${LANGS[langCode]}. ` +
+          `Return exactly ${data.faq.length}, in the same order. Keep place names and dates as written. ` +
+          `Call submit_faq.\n\n${JSON.stringify(data.faq)}`,
+      }],
+    });
+    if (msg.stop_reason === 'max_tokens') return null;
+    const got = msg.content.find((c) => c.type === 'tool_use')?.input?.faq;
+    if (!Array.isArray(got)) return null;
+    const clean = got.filter((f) => f?.q && f?.a);
+    return clean.length >= data.faq.length ? clean : null;
+  } catch {
+    return null;
+  }
+}
+
 async function translateOne(langCode, srcId, data, hash, attempt = 1) {
   const msg = await client.messages.create({
     model: MODEL,
@@ -160,7 +203,25 @@ async function translateOne(langCode, srcId, data, hash, attempt = 1) {
       : null);
   if (bad) {
     if (attempt < 3) return translateOne(langCode, srcId, data, hash, attempt + 1);
-    throw new Error(`translation malformed after ${attempt} attempts (${bad}) — not written`);
+    // Three identical failures are not bad luck, they are a request the model
+    // cannot satisfy in one shot. Observed on the George Town festival guide:
+    // every attempt returned `faq` as a STRING instead of an array and a body
+    // shortened from 4,437 to 1,598 characters — the whole payload degrades
+    // together, and retrying the same prompt can only reproduce it. Ask for
+    // the FAQ on its own, where the answer is small enough to hold its shape.
+    // Same lesson as the region-intro generator: split the request, don't
+    // repeat it (2026-08-06).
+    if (String(bad).startsWith('faq(')) {
+      const rescued = await translateFaqOnly(langCode, data);
+      if (rescued) {
+        console.log(`     ↻ ${langCode}/${srcId} — FAQ re-requested on its own (${rescued.length}/${data.faq.length})`);
+        out.faq = rescued;
+      } else {
+        throw new Error(`translation malformed after ${attempt} attempts (${bad}), FAQ-only retry also failed — not written`);
+      }
+    } else {
+      throw new Error(`translation malformed after ${attempt} attempts (${bad}) — not written`);
+    }
   }
 
   const fm = {

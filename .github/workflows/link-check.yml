@@ -45,10 +45,23 @@ jobs:
           # the skip pattern above, the report's "전체 N개 검사" was never the
           # number of links actually examined — the one figure that would have
           # revealed the crawl was doing nothing.
-          npx --yes linkinator http://localhost:8673 --recurse \
+          # Worker routes are NOT in dist — /go/klook, /api/subscribe and
+          # /preferences are served by worker/index.mjs in front of the static
+          # site, so a static server answers 404 for every one. Every guide
+          # links to /go/klook, so this crawl reported ~2,000 broken links a
+          # week: a number so large that a REAL breakage among them could never
+          # be noticed (found 2026-08-06). Skipping them is what makes the
+          # count mean something again.
+          # --concurrency: linkinator defaults to 100 parallel requests, which
+          # `serve` cannot answer on a site this size — the connections that
+          # time out are reported as BROKEN with status 0. Measured locally on
+          # the same dist: 40,922 status-0 "breakages" at the default, 52 at 12.
+          # Every one was a page that returns 200 when asked on its own.
+          npx --yes linkinator http://localhost:8673 --recurse --concurrency 12 \
             --url-rewrite-search "https://wanderatlasguides.com" \
             --url-rewrite-replace "http://localhost:8673" \
             --skip "^(?!http://localhost:8673)" \
+            --skip "^http://localhost:8673/(go|api|preferences)(/|\?|$)" \
             --format csv > /tmp/links.csv || true
           # `|| true` keeps a crawl that FOUND breakages from failing the step,
           # but it equally hides a crawler that never started. An empty file is
@@ -58,9 +71,17 @@ jobs:
             exit 1
           fi
           # CSV: url,status,state,parent — count real breakages.
-          broken=$(awk -F, 'NR>1 && $3=="BROKEN" {c++} END{print c+0}' /tmp/links.csv)
+          # Status 0 is reported separately from an HTTP status. A 0 means the
+          # request never completed (the local server dropped it under load),
+          # which is a fact about this runner, not about the site: every one
+          # sampled returns 200 when fetched on its own. Rolling the two
+          # together is how "110 broken links" hid the single genuine 404
+          # underneath it.
+          broken=$(awk -F, 'NR>1 && $3=="BROKEN" && $2!=0 {c++} END{print c+0}' /tmp/links.csv)
+          unreached=$(awk -F, 'NR>1 && $3=="BROKEN" && $2==0 {c++} END{print c+0}' /tmp/links.csv)
           total=$(awk -F, 'NR>1 {c++} END{print c+0}' /tmp/links.csv)
           echo "broken=$broken" >> "$GITHUB_OUTPUT"
+          echo "unreached=$unreached" >> "$GITHUB_OUTPUT"
           echo "total=$total" >> "$GITHUB_OUTPUT"
           # A crawl that examined nothing is a broken crawl, not a clean site.
           # Reporting "all good" on an empty result set is how this hid for
@@ -72,7 +93,7 @@ jobs:
           # First 12 broken URLs for the report.
           {
             echo "list<<EOF_LIST"
-            awk -F, 'NR>1 && $3=="BROKEN" {print $2" "$1}' /tmp/links.csv | head -12
+            awk -F, 'NR>1 && $3=="BROKEN" && $2!=0 {print $2" "$1}' /tmp/links.csv | head -12
             echo "EOF_LIST"
           } >> "$GITHUB_OUTPUT"
 
@@ -83,6 +104,7 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           BROKEN: ${{ steps.crawl.outputs.broken }}
           TOTAL: ${{ steps.crawl.outputs.total }}
+          UNREACHED: ${{ steps.crawl.outputs.unreached }}
           LIST: ${{ steps.crawl.outputs.list }}
           JOB_STATUS: ${{ job.status }}
         run: |
@@ -96,6 +118,9 @@ jobs:
               echo "❌ 검사 실행 자체가 실패했습니다. GitHub Actions 로그를 확인해 주세요."
             elif [ "${BROKEN:-0}" = "0" ]; then
               echo "✅ 깨진 내부 링크 0개 (전체 ${TOTAL}개 검사) — 사이트 링크 상태 완벽합니다."
+              # A connection the local server dropped is a runner limit, not a
+              # site defect — mentioned, never counted as a breakage.
+              [ "${UNREACHED:-0}" != "0" ] && echo "(참고: ${UNREACHED}개는 로컬 서버 과부하로 응답을 못 받았습니다 — 사이트 문제 아님)"
             else
               echo "⚠️ 깨진 내부 링크 ${BROKEN}개 발견 (전체 ${TOTAL}개 중):"
               echo "$LIST"
