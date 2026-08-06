@@ -49,6 +49,12 @@ jobs:
           cache: npm
       - run: npm ci
 
+      - name: Every imported package must be declared
+        # js-yaml was imported by 34 files and declared by none — it rode in as a
+        # transitive dependency of gray-matter. That survives until gray-matter
+        # drops it, and then 34 files die at once on a fresh npm ci (2026-08-06).
+        run: node scripts/lint-deps.mjs
+
       - name: Run every *.test.mjs
         id: run
         run: |
@@ -63,7 +69,21 @@ jobs:
             echo "── $t"
             # 테스트는 node:test를 쓰는 것과 자체 PASS/FAIL을 찍는 것이 섞여 있다.
             # 어느 쪽이든 비정상 종료 코드를 내면 실패로 센다.
-            if node "$t"; then echo "   ✓"; else echo "   ✗ FAILED"; fail=1; fi
+            # Capture the output so the alert can NAME what broke. Three
+            # identical "테스트 실패" messages arrived on 2026-08-06 and none of
+            # them said which test — the log needs a login to read, and the suite
+            # passed locally, so there was nothing to work from.
+            if out=$(node "$t" 2>&1); then
+              echo "   ✓"
+            else
+              echo "   ✗ FAILED"
+              printf '%s\n' "$out" | tail -15
+              {
+                echo "── $t"
+                printf '%s\n' "$out" | grep -E '^(FAIL|not ok|Error|AssertionError|✗)' | head -4
+              } >> /tmp/test-failures.txt
+              fail=1
+            fi
           done
           exit $fail
 
@@ -75,10 +95,13 @@ jobs:
           URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
         run: |
           [ -n "$TELEGRAM_BOT_TOKEN" ] || exit 0
-          TEXT=$(printf '%s\n\n%s\n%s\n\n%s' \
+          DETAIL=$(head -c 1000 /tmp/test-failures.txt 2>/dev/null)
+          [ -n "$DETAIL" ] || DETAIL="(어느 테스트인지 수집하지 못했습니다 — 로그 확인 필요)"
+          TEXT=$(printf '%s\n\n%s\n%s\n\n%s\n\n%s' \
             "🧪 테스트 실패 — 방금 올라간 코드가 기존 검사를 깨뜨렸습니다" \
             "검사기가 잘못 판정하기 시작했을 수 있습니다(멀쩡한 글을 문제로 보거나, 진짜 문제를 놓치거나)." \
             "사이트 발행은 계속되지만, 다음 발행 전에 확인이 필요합니다." \
+            "$DETAIL" \
             "실행 기록: ${URL}")
           curl -sS -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
             -H 'Content-Type: application/json' \
