@@ -4,6 +4,7 @@ import sitemap from '@astrojs/sitemap';
 import { readFileSync, readdirSync, writeFileSync, statSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
+import { isRecurringEventTitle } from './src/lib/eventRecurrence.mjs';
 
 
 // IMPORTANT: change this to your real domain before deploying.
@@ -41,6 +42,10 @@ function contentLastmod() {
 // Slugs the site itself marks noindex, so the sitemap never contradicts the page.
 // Past events go noindex and drop out of every listing the moment their end date
 // passes, but were still being submitted — Search Console flags each one.
+// The page's own rule (PostArticle.astro) exempts RECURRING events: an annual
+// festival keeps its page indexed after this year's edition ends. This filter
+// did not know that and dropped them anyway — indexable pages we never
+// submitted (found 2026-08-06). Both sides now read isRecurringEventTitle.
 function noindexSlugs() {
   const out = new Set();
   const today = new Date().toISOString().slice(0, 10);
@@ -55,6 +60,7 @@ function noindexSlugs() {
         return line ? line.trimStart().slice(k.length + 1).trim().replace(/^["']|["']$/g, '') : '';
       };
       if (val('category') !== 'event') continue;
+      if (isRecurringEventTitle(val('title'))) continue;
       const end = (val('eventEndDate') || val('eventStartDate')).slice(0, 10);
       if (end && end < today) out.add('/posts/' + f.replace(/.md$/, ''));
     }
