@@ -1,0 +1,74 @@
+name: IndexNow submit
+
+# Tells Bing/Yandex/Seznam/Naver about new and changed pages. Google does not
+# take part — the reason this exists is that ChatGPT search runs on Bing's
+# index, so a page Bing has not crawled cannot be cited by an assistant at all.
+#
+# Deliberately NOT chained to publish.yml. Posts reach the site by several
+# paths (daily publish, country backfill, manual dispatch, translation
+# follow-ups, title/description rewrites) and a hook on any one of them misses
+# the rest. This reads the live sitemap instead, which every published URL has
+# to appear in regardless of how it got there — so anything published from now
+# on is covered without a second change. Twice a day also means a run that
+# happens while Cloudflare is still deploying simply picks the page up on the
+# next pass instead of submitting a URL that 404s.
+on:
+  schedule:
+    - cron: '30 8 * * *'   # 17:30 KST — the daily publish (16:19 KST) has deployed by now
+    - cron: '30 20 * * *'  # 05:30 KST — catches bulk/backfill runs and anything the evening pass deferred
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: indexnow
+  cancel-in-progress: false
+
+jobs:
+  submit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Submit new and changed URLs
+        id: submit
+        run: node scripts/indexnow-submit.mjs | tee /tmp/indexnow.log
+
+      - name: Commit the submission state
+        if: success()
+        run: |
+          git config user.name  'content-bot'
+          git config user.email 'bot@users.noreply.github.com'
+          git add data/indexnow-state.json
+          git diff --cached --quiet && { echo "nothing new to record"; exit 0; }
+          git commit -m "chore: indexnow submission state ($(date -u +%Y-%m-%d))"
+          # The daily jobs all push to main; another one landing between our
+          # checkout and our push is normal, not a failure.
+          for i in 1 2 3; do
+            git push && exit 0
+            git pull --rebase --autostash origin main || true
+          done
+          echo "could not push state after 3 attempts" >&2
+          exit 1
+
+      - name: Alert on failure
+        if: failure()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
+          {
+            echo "⚠️ IndexNow 제출 실패 — 빙/ChatGPT 쪽 색인 알림이 나가지 않았습니다."
+            echo "사이트 자체는 정상입니다. 검색 노출에만 영향이 있습니다."
+            echo ""
+            tail -5 /tmp/indexnow.log 2>/dev/null || echo "(로그 없음)"
+          } > /tmp/msg.txt
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+            --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
+            --data-urlencode "text@/tmp/msg.txt" >/dev/null || true
