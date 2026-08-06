@@ -38,9 +38,9 @@ on:
   workflow_dispatch:
     inputs:
       count:
-        description: 'Max posts this run (stops early on Places quota)'
+        description: 'Max posts this run (50 keeps phone/hours complete — see the ramp note below)'
         required: false
-        default: '75'
+        default: '50'
       target:
         description: 'Guides per country to fill toward'
         required: false
@@ -96,18 +96,28 @@ jobs:
           # spikes on scaled AI content — monitored sites that jumped output
           # overnight took manual actions up to full de-indexing, and this
           # domain is two months old. So the batch RAMPS instead of jumping:
-          # 25/day in week one after the handover, then 35, 50, and only then
-          # the quota-bound 75. Slower to fill 527 guides, still alive to
-          # finish them. Manual dispatch keeps an explicit count override.
+          # 25/day in week one after the handover, then 35, then 50.
+          #
+          # 50 is also where the Places quota stops being the binding
+          # constraint. Details is hard-capped at 100 calls/day and split
+          # publish 40 / backfill 25 / refresh 20 / quality 15. At 50 posts,
+          # 40 get their phone and hours immediately and 10 wait one night,
+          # which the backfill's 25/day clears easily. At the old ceiling of
+          # 75 the arithmetic breaks: 35 posts a day arrive incomplete against
+          # a backfill that can only absorb 25, so the gap grows by 10 every
+          # day and never closes. Raising publish's share instead would take
+          # it from closure detection — the only job that unpublishes a venue
+          # that has shut — which is not a trade worth making for speed
+          # (measured 2026-08-07). Manual dispatch keeps an explicit override.
           RAMP=$(node -e "
             const fs=require('fs');
             let d={};try{d=JSON.parse(fs.readFileSync('data/fill-phase.json','utf8'))}catch{}
             const t=d.switchedAt?Date.parse(d.switchedAt):Date.now();
             const w=Math.floor((Date.now()-t)/(7*864e5));
-            console.log([25,35,50][w] ?? 75);
+            console.log([25,35][w] ?? 50);
           ")
           if [ "${{ github.event_name }}" != "workflow_run" ]; then
-            echo "count=${{ github.event.inputs.count || '75' }}" >> "$GITHUB_OUTPUT"
+            echo "count=${{ github.event.inputs.count || '50' }}" >> "$GITHUB_OUTPUT"
             echo "run=1" >> "$GITHUB_OUTPUT"          # a person asked for this run
             exit 0
           fi

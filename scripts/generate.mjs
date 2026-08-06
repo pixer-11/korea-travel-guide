@@ -57,6 +57,19 @@ let PUB_SEQ = 0;
 // feeds could never print (found 2026-08-05). Module scope is what the other
 // cross-function counters here already use.
 let DETAILS_FAILED = 0;
+// Places Details calls this run, against the day's shared allowance.
+//
+// The budget table has always listed "publish 40" as the largest share, but
+// generate.mjs never claimed it: on 2026-08-06 the ledger recorded backfill 25
+// + quality 15 and nothing for publish, while publishing had in fact spent 16
+// calls outside the accounting. On an ordinary 16-post day the untracked spend
+// still fits under the 100/day cap, so nothing ever broke. The country fill is
+// where it would: 75 posts + 40 tracked = 115 against a hard 100, and every
+// call past the cap returns 429 — meaning the posts at the end of a bulk run
+// would publish with no phone and no opening hours at all, silently.
+let DETAILS_BUDGET = Infinity;
+let DETAILS_USED = 0;
+let DETAILS_SKIPPED = 0;
 // Whether the last buildLivePost skip was TRANSIENT (an overloaded vision API, a
 // missing key) rather than a real guardrail rejection. The distinction decides
 // whether the target is burned from the queue forever — see the loop in main().
@@ -176,6 +189,25 @@ async function main() {
   // used to be declared here, which is why the line that increments it, over in
   // buildLivePost, threw ReferenceError on every post.)
   DETAILS_FAILED = 0;
+
+  // Claim this run's share of the day's Places Details calls. Publishing gets
+  // the largest share because new content is the reason the site exists; what
+  // it does not spend is left for the backfill that follows it. Running out is
+  // not an error — the post still publishes, just without phone/hours, and the
+  // backfill picks it up tomorrow.
+  try {
+    const { claim, describe } = await import('./lib/places-budget.mjs');
+    const b = await claim('publish');
+    DETAILS_BUDGET = b.allowance;
+    DETAILS_USED = 0;
+    console.log(describe('publish', b));
+  } catch (e) {
+    // A broken ledger must never stop a publish run; fall back to unmetered,
+    // which is exactly the behaviour that shipped for months.
+    console.log(`  ⚠️  Places 예산 확인 실패 (${String(e.message).slice(0, 50)}) — 제한 없이 진행`);
+    DETAILS_BUDGET = Infinity;
+  }
+
   // Consecutive skips caused by an unreachable vision API, not by the venue.
   // The queue is a finite set that only ever shrinks — `done` has no delete path
   // anywhere in the repo — so an Anthropic outage during one nightly run could
@@ -239,7 +271,18 @@ async function main() {
   const transientNote = transientTotal
     ? `\n⏳ ${transientTotal} target(s) left queued — the vision API was unreachable, so nothing was learned about them.`
     : '';
-  console.log(`\n📦  Done. ${published} new post(s). ${done.size} target(s) completed total.${failNote}\n`);
+  // Tell the shared ledger what publishing actually spent, so the backfill and
+  // the closure check that run after it see a true remaining balance.
+  if (DETAILS_USED > 0) {
+    try {
+      const { record } = await import('./lib/places-budget.mjs');
+      await record('publish', DETAILS_USED);
+    } catch { /* a broken ledger must not fail a successful publish run */ }
+  }
+  const budgetNote = DETAILS_SKIPPED
+    ? `\n📇 ${DETAILS_SKIPPED} post(s) published without phone/hours — the day's Places share was spent. The backfill fills these in; nothing is lost.`
+    : '';
+  console.log(`\n📦  Done. ${published} new post(s). ${done.size} target(s) completed total.${failNote}${budgetNote}\n`);
   // Machine-readable tail so the workflow can explain a zero HONESTLY. On
   // 2026-08-05 the run published nothing and the Telegram report blamed the
   // Places quota — the stock wording for any zero — when the real cause was
@@ -711,8 +754,17 @@ async function buildLivePost(target) {
 
   // ONE extra Details call per published venue → honest "like a local" signals
   // (review languages + counts; text discarded). Never blocks publishing.
+  //
+  // Skipped once the day's share is spent. Stopping deliberately is much better
+  // than spending past the cap: past it Google answers 429 for EVERYONE, which
+  // takes down the closure detection that unpublishes shut venues, not just
+  // this nicety. The backfill fills these in tomorrow.
   let localSignals = null;
   try {
+    if (DETAILS_USED >= DETAILS_BUDGET) {
+      throw Object.assign(new Error('places-budget spent'), { budget: true });
+    }
+    DETAILS_USED++;
     const raw = await fetchPlaceReviewSignals(place.id);
     localSignals = computeLocalSignals(raw, target.country);
     // Verified contact/hours from the same Details call → practical fact box.
@@ -727,7 +779,13 @@ async function buildLivePost(target) {
       const lf = localSignals.localsFavorite ? ' · locals-favourite' : '';
       console.log(`  📍 signals: ${localSignals.popularity}${lf}${localSignals.localSecretOk ? ' · secret-ok' : ''}`);
     }
-  } catch { /* signals are a bonus; publishing proceeds without them */ }
+  } catch (e) {
+    // Distinguish "we chose not to call" from "the call failed" — the second
+    // is a retry target, the first is normal budget behaviour and must not be
+    // reported as a fault.
+    if (e?.budget) DETAILS_SKIPPED++;
+    /* signals are a bonus; publishing proceeds without them */
+  }
 
   // Real foot-traffic quiet/busy hours (BestTime.app). No-op without an API key;
   // null when BestTime can't forecast the venue → we simply store nothing.
