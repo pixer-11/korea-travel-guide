@@ -53,6 +53,53 @@ t('실제 TP 응답에서 토큰을 뽑아낸다', async () => {
   return /\|13694\|[0-9a-f]{8,}-/.test(aid) ? null : `토큰 없는 aid: ${aid}`;
 });
 
+// ── SubID: 어느 페이지가 이 클릭을 만들었는가 ────────────────
+// 클릭 94건 / 예약 0건인데 어느 페이지 몫인지 알 길이 없었다. Referer 로
+// 출처를 알아내 sub_id 로 넘긴다 — 헤더는 조작 가능하므로 정규화가 방어선이다.
+const { subIdFromReferer } = await import('./index.mjs');
+
+t('출처 경로가 SubID 가 된다', () => {
+  const got = subIdFromReferer('https://wanderatlasguides.com/posts/seoul-gyeongbokgung-palace/');
+  return got === 'posts_seoul_gyeongbokgung_palace' ? null : `got ${got}`;
+});
+
+t('홈은 home 으로', () => {
+  const got = subIdFromReferer('https://wanderatlasguides.com/');
+  return got === 'home' ? null : `got ${got}`;
+});
+
+t('남의 사이트 Referer 는 거부한다', () => {
+  // 받아주면 남의 트래픽이 우리 SubID 로 기록된다.
+  const evil = subIdFromReferer('https://evil.example.com/posts/x/');
+  const lookalike = subIdFromReferer('https://wanderatlasguides.com.evil.example/x/');
+  return evil === null && lookalike === null ? null : `evil=${evil} lookalike=${lookalike}`;
+});
+
+t('Referer 가 없거나 깨져도 죽지 않는다', () => {
+  const a = subIdFromReferer(null), b = subIdFromReferer(''), c = subIdFromReferer('not a url');
+  return a === null && b === null && c === null ? null : `${a} ${b} ${c}`;
+});
+
+t('SubID 는 영문·숫자·밑줄만, 80자 이하', () => {
+  // TP 규칙: 숫자·라틴문자·"_" 만 허용.
+  const got = subIdFromReferer('https://wanderatlasguides.com/ko/posts/' + 'a'.repeat(200) + '/?q=1');
+  if (got === null) return 'null 을 반환함';
+  if (!/^[a-z0-9_]+$/.test(got)) return `허용되지 않는 문자: ${got.slice(0, 40)}`;
+  return got.length <= 80 ? null : `너무 김: ${got.length}자`;
+});
+
+t('현지화 경로는 언어별로 구분된다', () => {
+  const ko = subIdFromReferer('https://wanderatlasguides.com/ko/tools/esim/');
+  const en = subIdFromReferer('https://wanderatlasguides.com/tools/esim/');
+  return ko !== en && ko === 'ko_tools_esim' ? null : `ko=${ko} en=${en}`;
+});
+
+t('중계가 SubID 를 숏링크에 붙인다', () => {
+  // 토큰을 발급받는 그 요청이 TP 가 기록하는 클릭이다 — 여기 말고 붙일 곳이 없다.
+  const ok = /sub_id=\$\{subId\}/.test(src) && /fetch\(shortLink/.test(src);
+  return ok ? null : '숏링크 요청에 sub_id 가 붙지 않음';
+});
+
 let fail = 0;
 for (const [name, fn] of cases) {
   let err;

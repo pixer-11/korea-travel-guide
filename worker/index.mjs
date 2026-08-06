@@ -348,12 +348,47 @@ async function handleSubscribe(request, env) {
 // bad; a dead "Where to stay" button on every guide is worse.
 const TP_KLOOK_SHORTLINK = 'https://klook.tpx.lv/2NXPH8MA';
 
+// WHICH page sent the reader here, as a Travelpayouts SubID.
+//
+// Measured 94 affiliate clicks and 0 bookings, with no way to tell which page
+// produced either — every hotel and tour CTA on the site builds the identical
+// /go/klook link. Travelpayouts' documented mechanism is `?sub_id=` on the
+// short link, and the value comes from the Referer because this relay is
+// same-origin: the browser sends the full referring URL by default, so all
+// nine link-building components are covered without touching any of them.
+//
+// SubIDs accept letters, digits and underscore (max 4096 chars). The path is
+// normalised into that alphabet and truncated hard — the header is
+// attacker-controllable, so nothing but [a-z0-9_] ever reaches the URL.
+export function subIdFromReferer(referer) {
+  if (!referer) return null;
+  let u;
+  try { u = new URL(referer); } catch { return null; }
+  // Only our own pages. A foreign Referer would attribute someone else's
+  // traffic to one of our SubIDs.
+  if (!/(^|\.)wanderatlasguides\.com$/.test(u.hostname)) return null;
+  const slug = u.pathname
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '_')
+    .replace(/^_+|_+$/g, '')
+    .slice(0, 80);
+  return slug || 'home';
+}
+
 async function handleKlookGo(request) {
   const to = new URL(request.url).searchParams.get('to');
   const dest = to && /^https:\/\/(www\.)?klook\.com\//.test(to) ? to : 'https://www.klook.com/';
+  const subId = subIdFromReferer(request.headers.get('referer'));
   const fallback = `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7Cpid%7C754088&k_site=${encodeURIComponent(dest)}`;
   try {
-    const res = await fetch(TP_KLOOK_SHORTLINK, { redirect: 'manual' });
+    // The SubID rides on the request that MINTS the token — that fetch is the
+    // click Travelpayouts records, so this is the only point where it can be
+    // attached. It does not come back in the Location header, which is why an
+    // earlier check concluded (wrongly) that the short link discards it; the
+    // documented behaviour is that it is stored server-side, and it shows up
+    // under Reports → Performance rather than in the redirect.
+    const shortLink = subId ? `${TP_KLOOK_SHORTLINK}?sub_id=${subId}` : TP_KLOOK_SHORTLINK;
+    const res = await fetch(shortLink, { redirect: 'manual' });
     const loc = res.headers.get('location') || '';
     const aid = new URL(loc).searchParams.get('aid');
     // A token-bearing aid looks like api|13694|<hex>-754088|pid|754088. An empty
